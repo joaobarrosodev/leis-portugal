@@ -1,0 +1,770 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001L0081:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0081-20180701",
+ "dre_path": null,
+ "source_lastmod": "2018-07-01",
+ "versions": [
+  {
+   "date": "2001-11-27",
+   "future": false,
+   "celex": "32001L0081",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6a935b074b724db0",
+    "0928914fd5120c50",
+    "fb34b370373cc6e4",
+    "45509aa8f6e054ab",
+    "89ba8ea81ac9092b",
+    "52b6ee2747653788",
+    "c85b599ce706eef1",
+    "687bdd54a3485c28",
+    "191e677c94d88f55",
+    "286f37dcdd3f42bd",
+    "6dd232e0b6a09845",
+    "df8e80ce85682ab0",
+    "88888f27d01f4fe6",
+    "d053bd73def34f2e",
+    "b9b181a84f83e2f0",
+    "53217bdcbcfbb414",
+    "99ea121f2be12856",
+    "fd8e9236d4322cc6",
+    "7dedd14333af2bc0",
+    "36fc91a60441b584",
+    "e0ac72add2aea144"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "02001L0081-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:32006L0105:por",
+     "title": "DIRECTIVA 2006/105/CE DO CONSELHO de 20 de Novembro de 2006",
+     "published": null,
+     "celex": "32006L0105"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 5.º — Objectivos ambientais intermédios",
+    "Altera Artigo 9.º — Relatórios da Comissão",
+    "Altera Artigo 17.º — Destinatários",
+    "Adita ANEXO I",
+    "Adita ANEXO II",
+    "Adita Valores-limite de emissão aplicáveis ao SO2, NOx e COV",
+    "Adita ANEXO III",
+    "Adita Metodologias para a elaboração dos inventários e projecções de emissões",
+    "Adita Notas",
+    "Suprime ANEXO I — Valores-limite nacionais de emissão aplicáveis ao SO2, NOx, COV e NH3, a cumprir até 2010(1)",
+    "Suprime ANEXO II — Valores-limite de emissão aplicáveis ao SO2, NOx e COV",
+    "Suprime ANEXO III — Metodologias para a elaboração dos inventários e projecções de emissões"
+   ],
+   "fragments": [
+    "5df179dead7294a3",
+    "8bd6e340dacc9704",
+    "24ed78a564f0092a",
+    "3616f14dc8c518fb",
+    "b2ca6ddd7d1d09a0",
+    "c1e516226da42729",
+    "5f20d44d8f01085f",
+    "8798dd2a986c8722",
+    "de309b44f9c65935",
+    "2053ed8b27a07a24",
+    "e3a4447af713e238",
+    "3b0c4fe9195f9983",
+    "88888f27d01f4fe6",
+    "e9b5e626639f1d0a",
+    "b9b181a84f83e2f0",
+    "53217bdcbcfbb414",
+    "6ca3cad250ba522c",
+    "337c24ec8d19d764",
+    "8f009b3617e1531b",
+    "852174729551523b",
+    "5adf5e9b197f94ad",
+    "720af75c92791b10",
+    "125339ec1cc21298",
+    "4e1a979c029fccce"
+   ]
+  },
+  {
+   "date": "2009-04-20",
+   "future": false,
+   "celex": "02001L0081-20090420",
+   "acts": [
+    {
+     "id": "eu:celex:32009R0219:por",
+     "title": "REGULAMENTO (CE) n. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009",
+     "published": null,
+     "celex": "32009R0219"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 7.º — Inventários e previsões de emissões",
+    "Altera Artigo 9.º — Relatórios da Comissão",
+    "Altera Artigo 13.º — Comité",
+    "Altera ANEXO I",
+    "Altera Valores-limite de emissão aplicáveis ao SO2, NOx e COV",
+    "Altera Metodologias para a elaboração dos inventários e projecções de emissões",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "d0bb8f43cfa6248f",
+    "8bd6e340dacc9704",
+    "24ed78a564f0092a",
+    "3616f14dc8c518fb",
+    "b2ca6ddd7d1d09a0",
+    "c1e516226da42729",
+    "5f20d44d8f01085f",
+    "0bf9603c6b40d58e",
+    "de309b44f9c65935",
+    "8672d8f939456b6c",
+    "e3a4447af713e238",
+    "3b0c4fe9195f9983",
+    "88888f27d01f4fe6",
+    "a9f2c0ef45e9547e",
+    "b9b181a84f83e2f0",
+    "53217bdcbcfbb414",
+    "6ca3cad250ba522c",
+    "337c24ec8d19d764",
+    "c155e524073442a6",
+    "852174729551523b",
+    "17987a3a7c83cb5d",
+    "720af75c92791b10",
+    "92adb6f178a0b526",
+    "6b10952c36ccaaa7"
+   ]
+  },
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "02001L0081-20130701",
+   "acts": [
+    {
+     "id": "eu:celex:32013L0017:por",
+     "title": "DIRETIVA 2013/17/UE DO CONSELHO de 13 de maio de 2013",
+     "published": null,
+     "celex": "32013L0017"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 9.º — Relatórios da Comissão",
+    "Altera ANEXO I",
+    "Altera Valores-limite de emissão aplicáveis ao SO2, NOx e COV",
+    "Altera Metodologias para a elaboração dos inventários e projecções de emissões",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "857b3d9304b6535d",
+    "8bd6e340dacc9704",
+    "24ed78a564f0092a",
+    "3616f14dc8c518fb",
+    "b2ca6ddd7d1d09a0",
+    "c1e516226da42729",
+    "5f20d44d8f01085f",
+    "0bf9603c6b40d58e",
+    "de309b44f9c65935",
+    "807d418d9f6d4f63",
+    "e3a4447af713e238",
+    "3b0c4fe9195f9983",
+    "88888f27d01f4fe6",
+    "a9f2c0ef45e9547e",
+    "b9b181a84f83e2f0",
+    "53217bdcbcfbb414",
+    "6ca3cad250ba522c",
+    "337c24ec8d19d764",
+    "1737f7a7bb1eafe3",
+    "852174729551523b",
+    "95f969df724c14f2",
+    "720af75c92791b10",
+    "bcb2dcdb647c9eaa",
+    "0d18e602ca6ff13a"
+   ]
+  },
+  {
+   "date": "2016-12-31",
+   "future": false,
+   "celex": "02001L0081-20161231",
+   "acts": [
+    {
+     "id": "eu:celex:32016L2284:por",
+     "title": "DIRETIVA (UE) 2016/2284 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 14 de dezembro de 2016",
+     "published": null,
+     "celex": "32016L2284"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 9.º — Relatórios da Comissão",
+    "Altera ANEXO I",
+    "Altera Valores-limite de emissão aplicáveis ao SO2, NOx e COV",
+    "Altera Notas",
+    "Suprime Artigo 7.º — Inventários e previsões de emissões",
+    "Suprime Artigo 8.º — Relatórios dos Estados-Membros",
+    "Suprime ANEXO III",
+    "Suprime Metodologias para a elaboração dos inventários e projecções de emissões"
+   ],
+   "fragments": [
+    "453e8fe4f1067d3c",
+    "8bd6e340dacc9704",
+    "24ed78a564f0092a",
+    "3616f14dc8c518fb",
+    "b2ca6ddd7d1d09a0",
+    "c1e516226da42729",
+    "5f20d44d8f01085f",
+    "167d5a43a23382d3",
+    "e3a4447af713e238",
+    "3b0c4fe9195f9983",
+    "88888f27d01f4fe6",
+    "a9f2c0ef45e9547e",
+    "b9b181a84f83e2f0",
+    "53217bdcbcfbb414",
+    "6ca3cad250ba522c",
+    "337c24ec8d19d764",
+    "be2eafe397292d42",
+    "852174729551523b",
+    "a1d2691912792a35",
+    "5cfe0856264852a9"
+   ]
+  },
+  {
+   "date": "2018-07-01",
+   "future": false,
+   "celex": "02001L0081-20180701",
+   "acts": [],
+   "changes": [
+    "Altera ANEXO I",
+    "Suprime Artigo 2.º — Âmbito",
+    "Suprime Artigo 3.º — Definições",
+    "Suprime Artigo 5.º — Objectivos ambientais intermédios",
+    "Suprime Artigo 6.º — Programas nacionais",
+    "Suprime Artigo 9.º — Relatórios da Comissão",
+    "Suprime Artigo 10.º — Revisão",
+    "Suprime Artigo 11.º — Cooperação com países terceiros",
+    "Suprime Artigo 12.º — Relatórios sobre as emissões de navios e aeronaves",
+    "Suprime Artigo 13.º — Comité",
+    "Suprime Artigo 14.º — Sanções",
+    "Suprime Artigo 15.º — Transposição",
+    "Suprime Artigo 16.º — Entrada em vigor",
+    "Suprime Artigo 17.º — Destinatários",
+    "Suprime ANEXO II",
+    "Suprime Valores-limite de emissão aplicáveis ao SO2, NOx e COV",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "453e8fe4f1067d3c",
+    "8bd6e340dacc9704",
+    "b2ca6ddd7d1d09a0",
+    "04f968890c2c53fe"
+   ]
+  }
+ ],
+ "fragments": {
+  "6a935b074b724db0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2001/81/CE do Parlamento Europeu e do Conselho, de 23 de Outubro de 2001, relativa ao estabelecimento de valores-limite nacionais de emissão de determinados poluentes atmosféricos** *Jornal Oficial nº L 309 de 27/11/2001 p. 0022 - 0030*\n\nDirectiva 2001/81/CE do Parlamento Europeu e do Conselho\n\nde 23 de Outubro de 2001\n\nrelativa ao estabelecimento de valores-limite nacionais de emissão de determinados poluentes atmosféricos\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.o 1 do seu artigo 175.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Comité Económico e Social(2),\n\nTendo em conta o parecer do Comité das Regiões(3),\n\nDeliberando nos termos do artigo 251.o do Tratado(4) à luz do projecto comum aprovado pelo Comité de Concilação em 2 de Agosto de 2001,\n\nConsiderando o seguinte:\n\n(1) A abordagem global e a estratégia do Quinto Programa de Acção no domínio do Ambiente, tal como aprovadas pela Resolução do Conselho e dos representantes dos Governos dos Estados-Membros reunidos no Conselho, de 1 de Fevereiro de 1993, relativa a um programa comunitário de política e acção relacionado com o ambiente e o desenvolvimento sustentável(5), estabelecem o objectivo de não se excederem os níveis e cargas críticos de acidificação na Comunidade. O programa estipula que todas as pessoas devem ser protegidas de forma eficaz contra os riscos para a saúde decorrentes da poluição atmosférica e que os níveis de poluição autorizados devem ter em conta a protecção do ambiente. O programa prevê igualmente que os valores-guia estabelecidos pela Organização Mundial de Saúde (OMS) devem tornar-se obrigatórios na Comunidade.\n\n(2) Os Estados-Membros assinaram o Protocolo de Gotemburgo, de 1 de Dezembro de 1999, à Convenção de 1979 da Comissão Económica para a Europa das Nações Unidas (UNECE) sobre a Poluição Atmosférica Transfronteiras a Longa Distância, relativo à Redução da Acidificação, da Eutrofização e do Ozono Troposférico.\n\n(3) A Decisão n.o 2179/98/CE do Parlamento Europeu e do Conselho, de 24 de Setembro de 1998, relativa à revisão do programa da Comunidade Europeia de política e acção em matéria de ambiente e desenvolvimento sustentável - \"Em direcção a um desenvolvimento sustentável\"(6), especificou que deve conferir-se especial atenção à elaboração e aplicação de uma estratégia destinada a garantir que não sejam excedidas as cargas críticas na exposição a poluentes atmosféricos acidificantes, eutrofizantes e fotoquímicos.\n\n(4) A Directiva 92/72/CEE do Conselho, de 21 de Setembro de 1992, relativa à poluição atmosférica pelo ozono(7), estipula que a Comissão deve apresentar ao Conselho um relatório de avaliação da poluição fotoquímica na Comunidade, acompanhado das propostas que a Comissão considere adequadas para controlar a poluição atmosférica pelo ozono ao nível do solo e, se necessário, reduzir as emissões de substâncias precursoras do ozono.\n\n(5) Áreas consideráveis da Comunidade encontram-se expostas à deposição de substâncias acidificantes e eutrofizantes a níveis que apresentam efeitos nocivos no ambiente. Os valores-guia estabelecidos pela OMS para a protecção da saúde humana e da vegetação da poluição fotoquímica são substancialmente excedidos em todos os Estados-Membros.\n\n(6) Os excedentes das cargas críticas deverão, pois, ser gradualmente eliminados e os valores-guia respeitados.\n\n(7) Actualmente, não é tecnicamente viável alcançar os objectivos a longo prazo de eliminação dos efeitos nocivos da acidificação e de redução da exposição do homem e do ambiente ao ozono ao nível do solo a níveis conformes aos valores-guia estabelecidos pela OMS. Por consequência, é necessário estabelecer objectivos ambientais intermédios no que respeita à acidificação e poluição pelo ozono ao nível do solo, nos quais se baseiem as medidas para reduzir esse tipo de poluição.\n\n(8) Os referidos objectivos ambientais intermédios e as medidas adoptadas para atingi-los devem ter em conta a viabilidade técnica, bem como os custos e benefícios associados. Tais medidas devem assegurar a adequação custo-eficácia das acções adoptadas para a Comunidade no seu conjunto e deverão ter em conta a necessidade de evitar custos excessivos para os Estados-Membros encarados individualmente.\n\n(9) A poluição transfronteiras contribui para a acidificação, a eutrofização dos solos e a formação de ozono ao nível do solo, cuja redução implica a adopção de acções comunitárias concertadas.\n\n(10) A redução das emissões dos poluentes que causam a acidificação e a exposição ao ozono ao nível do solo permitirá também reduzir a eutrofização dos solos.\n\n(11) O estabelecimento, para cada Estado-Membro, de valores-limite aplicáveis às emissões de dióxido de enxofre, de óxidos de azoto, de compostos orgânicos voláteis e de amoníaco constitui uma forma rentável de satisfazer objectivos ambientais intermédios. Os referidos valores-limite de emissão proporcionarão à Comunidade e aos Estados-Membros a flexibilidade para determinar os meios de os cumprir.\n\n(12) Os Estados-Membros devem ser responsáveis pela aplicação de medidas destinadas a cumprir os valores-limite nacionais de emissão. Será necessário avaliar os progressos efectuados em matéria de cumprimento dos valores-limite de emissão. Por conseguinte, devem elaborar-se e comunicar-se à Comissão programas nacionais de redução das emissões, os quais devem incluir informações sobre as medidas adoptadas ou previstas para cumprir os valores-limite de emissão.\n\n(13) De acordo com o princípio da subsidiariedade previsto no artigo 5.o do Tratado, e tendo particularmente em conta o princípio da precaução, os objectivos da presente directiva, a saber a limitação das emissões de poluentes e de substâncias precursoras do ozono acidificantes e eutrofizantes, não podem ser suficientemente realizados pelos Estados-Membros devido à natureza transfronteiras da poluição e podem, pois, ser melhor alcançados ao nível comunitário. De acordo com o princípio da proporcionalidade, a presente directiva não excede o necessário para alcançar aquele objectivo.\n\n(14) É necessário analisar atempadamente os progressos efectuados pelos Estados-Membros tendo em vista o cumprimento dos valores-limite de emissão, bem como analisar até que ponto a implementação dos valores-limite é susceptível de permitir alcançar os objectivos ambientais intermédios no conjunto da Comunidade. Esta análise deverá igualmente ter em consideração os progressos científicos e técnicos, a evolução registada na legislação comunitária e na redução das emissões no exterior da Comunidade, com especial atenção aos progressos registados, designadamente, nos países candidatos à adesão. Na referida análise, a Comissão deve proceder a um estudo mais aprofundado dos custos e benefícios dos valores-limite de emissão, nomeadamente do binómio custo-eficácia, dos custos e benefícios marginais, do impacto socioeconómico e de qualquer impacto sobre a competitividade. A análise em causa deve também ter em conta as limitações do âmbito da presente directiva.\n\n(15) A Comissão deverá preparar para o efeito um relatório a apresentar ao Parlamento Europeu e ao Conselho e, se o considerar necessário, propor alterações adequadas à presente directiva tendo em conta os efeitos da legislação comunitária relevante que, designadamente, fixe limites de emissão e normas de produto para as fontes relevantes de emissão, bem como a regulamentação internacional relativa às emissões dos navios e das aeronaves.\n\n(16) O transporte marítimo contribui de maneira significativa para as emissões de dióxido de enxofre, de óxidos de azoto e também para a concentração e o depósito de poluentes atmosféricos na Comunidade, sendo por conseguinte necessário reduzir estas emissões. O n.o 3 do artigo 7.o da Directiva 1999/32/CE do Conselho, de 26 de Abril de 1999, relativa à redução do teor de enxofre de determinados combustíveis líquidos e que altera a Directiva 93/12/CEE(8), estabelece que a Comissão ponderará quais as medidas a tomar para reduzir o contributo para a acidificação da combustão dos combustíveis navais que não constam do n.o 3 do artigo 2.o daquela directiva.\n\n(17) Os Estados-Membros devem procurar ratificar o anexo VI da Convenção Internacional sobre a Poluição Marinha (MARPOL) tão rapidamente quanto possível.\n\n(18) Devido à natureza transfronteiras da acidificação e da poluição pelo ozono, a Comissão deve continuar a analisar a necessidade de desenvolver medidas comunitárias harmonizadas, sem prejuízo do artigo 18.o da Directiva 96/61/CE do Conselho, de 24 de Setembro de 1996, relativa à prevenção e controlo integrados da poluição(9), com o objectivo de evitar a distorção da concorrência e tendo em conta o equilíbrio entre os custos e os benefícios das acções.\n\n(19) O disposto na presente directiva é aplicável sem prejuízo da legislação comunitária que regulamenta as emissões dos poluentes em causa provenientes de fontes específicas e do disposto na Directiva 96/61/CE no que diz respeito aos valores-limite de emissão e à utilização da melhor tecnologia disponível.\n\n(20) De modo a avaliar os progressos efectuados no cumprimento dos valores-limite de emissão, devem elaborar-se inventários das emissões em conformidade com as metodologias internacionalmente aceites, a apresentar com regularidade à Comissão e à Agência Europeia do Ambiente (AEA).\n\n(21) Os Estados-Membros devem determinar o regime das sanções aplicáveis às violações do disposto na presente directiva e assegurar a sua aplicação. As sanções devem ser eficazes, proporcionadas e dissuasivas.\n\n(22) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(10).\n\n(23) A Comissão e os Estados-Membros devem cooperar a nível internacional a fim de alcançar os objectivos da presente directiva,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "0928914fd5120c50": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\nO objectivo da presente directiva consiste em limitar as emissões de poluentes acidificantes e eutrofizantes e de precursores de ozono com o objectivo de reforçar a protecção do ambiente e da saúde humana na Comunidade contra os riscos de efeitos nocivos decorrentes da acidificação, da eutrofização dos solos e da presença de ozono ao nível do solo, tendo em vista avançar no sentido dos objectivos a longo prazo de não exceder os níveis e cargas críticos e de proteger de forma eficaz os indivíduos contra os riscos para a saúde decorrentes da poluição atmosférica, por meio do estabelecimento de limiares máximos de emissões nacionais tomando como pontos de referência os anos 2010 e 2020 e procedendo a sucessivas revisões, tal como previsto nos artigos 4.o e 10.o"
+  },
+  "fb34b370373cc6e4": {
+   "fragment_id": "Artigo 2.º — Âmbito",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nA presente directiva abrange as emissões no território dos Estados-Membros e nas respectivas zonas económicas exclusivas dos poluentes referidos no artigo 4.o que resultem da actividade humana.\n\nA presente directiva não abrange:\n\na) Emissões do tráfego marítimo internacional;\n\nb) Emissões das aeronaves, à excepção do ciclo de descolagem e aterragem;\n\nc) No caso da Espanha, as emissões nas ilhas Canárias;\n\nd) No caso da França, as emissões nos departamentos ultramarinos;\n\ne) No caso de Portugal, as emissões na Madeira e nos Açores."
+  },
+  "45509aa8f6e054ab": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) \"AOT 40\", a soma da diferença entre as concentrações horárias de ozono ao nível do solo superiores a 80 μg/m3 (= 40 partes por mil milhões) e 80 μg/m3 durante as horas de dia acumuladas de Maio a Julho de cada ano;\n\nb) \"AOT 60\", a soma da diferença entre as concentrações horárias de ozono ao nível do solo superiores a 120 μg/m3 (= 60 partes por mil milhões) e 120 μg/m3 acumuladas ao longo do ano;\n\nc) \"Carga crítica\", a estimativa quantitativa da exposição a um ou mais poluentes abaixo da qual, de acordo com o estado actual dos conhecimentos, não se observam efeitos nocivos significativos em determinados elementos sensíveis específicos do ambiente;\n\nd) \"Nível crítico\", a concentração de poluentes na atmosfera além da qual, de acordo com o estado actual dos conhecimentos, podem observar-se efeitos nocivos directos nos receptores, nomeadamente no homem, nas plantas, nos ecossistemas e nas matérias;\n\ne) \"Emissão\", a libertação de substâncias para a atmosfera a partir de fontes tópicas ou difusas;\n\nf) \"Quadrícula da grelha\", uma quadrícula com as dimensões de 150 km x 150 km, que constituem a resolução utilizada para a cartografia das cargas críticas à escala europeia, bem como no controlo das emissões e da deposição de poluentes atmosféricos no âmbito do programa concertado de vigilância contínua e de avaliação do transporte a longa distância dos poluentes atmosféricos na Europa (EMEP);\n\ng) \"Ciclo de aterragem e descolagem\", um ciclo constituído pelos seguintes períodos em cada modo operacional: aproximação, 4 minutos; rolagem/movimentos de pista, 26 minutos; descolagem, 0,7 minuto; subida, 2,2 minutos;\n\nh) \"Valores-limite nacionais de emissão\", a quantidade máxima de uma substância, expressa em quilotoneladas, que pode ser emitida por um Estado-Membro durante um ano civil;\n\ni) \"Óxidos de azoto e NOx\", o óxido nítrico e o dióxido de azoto, expresso em dióxido de azoto;\n\nj) \"Ozono ao nível do solo\", o ozono na parte inferior da troposfera;\n\nk) \"Compostos orgânicos voláteis\" e \"COV\", todos os compostos orgânicos resultantes da actividade humana, à excepção do metano, que possam produzir oxidantes fotoquímicos por reacção com óxidos de azoto, na presença de luz solar."
+  },
+  "89ba8ea81ac9092b": {
+   "fragment_id": "Artigo 4.º — Valores-limite nacionais de emissão",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Valores-limite nacionais de emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Valores-limite nacionais de emissão\n\n1. Até 2010, os Estados-Membros devem limitar as suas emissões nacionais anuais de dióxido de enxofre (SO2), óxidos de azoto (NOx), compostos orgânicos voláteis (COV) e amoníaco (NH3) a quantidades não superiores aos valores-limite de emissão fixados no anexo I, tendo em conta eventuais alterações feitas por medidas comunitárias adoptadas na sequência dos relatórios referidos no artigo 9.o\n\n2. Os Estados-Membros devem assegurar-se de que os valores-limite de emissão fixados no anexo I não são excedidos após 2010."
+  },
+  "52b6ee2747653788": {
+   "fragment_id": "Artigo 5.º — Objectivos ambientais intermédios",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Objectivos ambientais intermédios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Objectivos ambientais intermédios\n\nOs valores-limite nacionais de emissão constantes do anexo I têm por objectivo a realização, de modo geral, dos seguintes objectivos ambientais intermédios, para a Comunidade no seu todo, até 2010:\n\na) Acidificação\n\nO número das áreas que excedam as cargas críticas deve ser reduzido de, pelo menos, 50 % (em cada quadrícula da grelha) relativamente à situação em 1990.\n\nb) Exposição ao ozono ao nível do solo na perspectiva da saúde\n\nA carga de ozono ao nível do solo acima do nível crítico para a saúde humana (AOT60 = 0) deve ser reduzida de dois terços em todas as quadrículas relativamente à situação em 1990. Além disso, a carga de ozono ao nível do solo não deve exceder um valor-limite absoluto de 2,9 ppm.h em qualquer quadrícula.\n\nc) Exposição ao ozono ao nível do solo na perspectiva da protecção da vegetação\n\nA carga de ozono ao nível do solo acima do nível crítico para as culturas e a vegetação semi-natural (AOT40 = 3 ppm.h) deve ser reduzida de um terço em todas as quadrículas relativamente à situação em 1990. Além disso, a carga de ozono ao nível do solo não deve exceder um valor-limite absoluto de 10 ppm.h, expresso em excedência do nível crítico de 3 ppm.h em qualquer quadrícula."
+  },
+  "c85b599ce706eef1": {
+   "fragment_id": "Artigo 6.º — Programas nacionais",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Programas nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Programas nacionais\n\n1. Até 1 de Outubro de 2002, os Estados-Membros devem elaborar programas para a redução progressiva das emissões nacionais dos poluentes referidos no artigo 4.o, com o objectivo de, até 2010, respeitarem, pelo menos, os valores-limite nacionais de emissão fixados no anexo I.\n\n2. Os programas nacionais devem incluir informações sobre as políticas e medidas adoptadas e previstas, bem como estimativas quantitativas dos efeitos das políticas e medidas em causa nas emissões dos referidos poluentes em 2010, e devem indicar quaisquer eventuais alterações significativas previsíveis da distribuição geográfica das emissões nacionais.\n\n3. Os Estados-Membros devem actualizar e rever os programas nacionais, de acordo com as necessidades, até 1 de Outubro de 2006.\n\n4. Os Estados-Membros devem divulgar ao público e aos organismos interessados, nomeadamente as organizações ambientalistas, os programas elaborados em conformidade com os n.os 1, 2 e 3. As informações divulgadas ao público e às organizações em conformidade com o presente número devem ser claras, completas e acessíveis."
+  },
+  "687bdd54a3485c28": {
+   "fragment_id": "Artigo 7.º — Inventários e previsões de emissões",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Inventários e previsões de emissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Inventários e previsões de emissões\n\n1. Os Estados-Membros devem elaborar e actualizar anualmente os inventários das emissões, bem como as previsões das emissões dos poluentes em 2010 a que se refere o artigo 4.o\n\n2. Os Estados-Membros devem elaborar os seus inventários e previsões de emissões recorrendo às metodologias especificadas no anexo III.\n\n3. A Comissão, assistida pela AEA, deve elaborar, em cooperação com os Estados-Membros e com base nas informações por estes fornecidas, inventários e previsões dos poluentes referidos no artigo 4.o Os referidos inventários e previsões serão tornados públicos.\n\n4. Qualquer actualização das metodologias a utilizar em conformidade com o anexo III deve ser feita nos termos do n.o 2 do artigo 13.o"
+  },
+  "191e677c94d88f55": {
+   "fragment_id": "Artigo 8.º — Relatórios dos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Relatórios dos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Relatórios dos Estados-Membros\n\n1. Os Estados-Membros devem apresentar à Comissão e à AEA, até 31 de Dezembro de cada ano, os seus inventários nacionais de emissões, bem como as suas previsões na matéria para 2010, em conformidade com o artigo 7.o Os Estados-Membros devem apresentar os seus inventários finais relativos ao penúltimo ano, bem como os inventários previsionais de emissões relativos ao ano anterior. As previsões de emissões devem incluir dados que permitam a análise quantitativa das premissas socioeconómicas-chave utilizadas para a sua elaboração.\n\n2. Até 31 de Dezembro de 2002, os Estados-Membros devem informar a Comissão dos programas elaborados em conformidade com os n.os 1 e 2 do artigo 6.o\n\nAté 31 de Dezembro de 2006, os Estados-Membros devem informar a Comissão dos programas actualizados em conformidade com o n.o 3 do artigo 6.o\n\n3. A Comissão deve enviar os programas nacionais aos restantes Estados-Membros no prazo de um mês após a recepção dos mesmos.\n\n4. A Comissão aprova, nos termos do n.o 2 do artigo 13.o, disposições destinadas a garantir a comunicação coerente e transparente dos programas nacionais."
+  },
+  "286f37dcdd3f42bd": {
+   "fragment_id": "Artigo 9.º — Relatórios da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Relatórios da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Relatórios da Comissão\n\n1. Em 2004 e 2008, a Comissão deve apresentar ao Parlamento Europeu e ao Conselho relatórios sobre os progressos efectuados na aplicação dos valores-limite nacionais de emissão fixados no anexo I, sobre a medida em que os objectivos ambientais intermédios estabelecidos no artigo 5.o serão cumpridos até 2010 e em que os objectivos de longo prazo estabelecidos no artigo 1.o poderão ser cumpridos até 2020. Os relatórios em causa devem incluir uma análise económica, nomeadamente uma avaliação da relação custo-eficácia, dos benefícios, dos custos e benefícios marginais e do impacto socioeconómico da aplicação dos valores-limite nacionais de emissão em determinados Estados-Membros e sectores. Devem incluir também uma análise às limitações do âmbito da presente directiva tal como definido no artigo 2.o e uma avaliação da eventual necessidade de novas reduções de emissões com vista a cumprir os objectivos ambientais intermédios estabelecidos no artigo 5.o Os referidos relatórios devem ter em conta os relatórios elaborados pelos Estados-Membros em conformidade com os n.os 1 e 2 do artigo 8.o, bem como, entre outros:\n\na) Eventual aprovação de nova legislação comunitária que fixe limites de emissão e normas de produto para as fontes relevantes de emissão;\n\nb) Desenvolvimentos das melhores técnicas disponíveis no quadro do intercâmbio de informações previsto no artigo 16.o da Directiva 96/61/CE;\n\nc) Os objectivos de redução das emissões para 2008 referentes às emissões de dióxido de enxofre e óxidos de azoto das grandes instalações de combustão actualmente existentes, comunicados pelos Estados-Membros por força da Directiva 2001/80/CE do Parlamento Europeu e do Conselho, de 23 de Outubro de 2001, relativa à limitação das emissões para a atmosfera de certos poluentes provenientes de grandes instalações de combustão(11);\n\nd) As reduções e os compromissos de redução das emissões de países terceiros, com particular incidência nas medidas a adoptar nos países candidatos à adesão, e a possibilidade de mais reduções de emissões nas regiões limítrofes da Comunidade;\n\ne) Qualquer nova legislação comunitária e regulamentação internacional no domínio das emissões de navios e de aeronaves;\n\nf) O desenvolvimento dos transportes e os objectivos para controlo das respectivas emissões;\n\ng) Os progressos no domínio da agricultura, projecções no domínio da pecuária e melhoramentos nos métodos de redução das emissões no sector agrícola;\n\nh) Quaisquer alterações importantes no mercado de fornecimento de energia num Estado-Membro e novas previsões que tenham em conta as acções adoptadas pelos Estados-Membros para cumprir as suas obrigações internacionais no que respeita às alterações climáticas.\n\ni) Uma avaliação das excedências actuais e previstas das cargas críticas e dos valores-guia da OMS relativos ao ozono ao nível do solo;\n\nj) A possibilidade de identificação de um objectivo intermédio para a redução da eutrofização dos solos;\n\nk) Os novos dados científicos e técnicos, incluindo uma avaliação das incertezas quanto:\n\ni) aos inventários nacionais de emissões;\n\nii) aos dados referentes aos insumos;\n\niii) ao conhecimento de transportes e depósitos transfronteiriços de poluentes;\n\niv) aos níveis e cargas críticos;\n\nv) ao modelo utilizado;\n\ne uma avaliação da incerteza daí resultante em relação aos valores-limite nacionais de emissão necessários para cumprir os objectivos ambientais intermédios referidos no artigo 5.o\n\nl) Se é necessário evitar custos excessivos para um Estado-Membro individualmente;\n\nm) A comparação de cálculos a partir de modelos com observações da acidificação, eutrofização e ozono ao nível do solo tendo em vista a melhoria de modelos;\n\nn) Uma eventual utilização, sempre que possível, de instrumentos económicos adequados.\n\n2. Em 2012, a Comissão deve apresentar ao Parlamento Europeu e ao Conselho um relatório sobre o cumprimento dos valores-limite fixados no anexo I, bem como sobre os progressos efectuados no que respeita aos objectivos ambientais intermédios referidos no artigo 5.o e objectivos a longo prazo estabelecidos no artigo 1.o O referido relatório deve ter em conta os relatórios elaborados pelos Estados-Membros em conformidade com os n.os 1 e 2 do artigo 8.o, bem como os aspectos referidos nas alíneas a) a n) do n.o 1 do presente artigo."
+  },
+  "6dd232e0b6a09845": {
+   "fragment_id": "Artigo 10.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Revisão\n\n1. Os relatórios referidos no artigo 9.o devem ter em conta os factores referidos no n.o 1 do mesmo artigo. Com base nestes factores, nos progressos no sentido da obtenção dos valores-limite em 2010, nos progressos técnicos e científicos e na situação relativa aos progressos efectuados no sentido da realização dos objectivos intermédios da presente directiva, e dos objectivos a longo prazo de não exceder as cargas e níveis críticos e os valores-guia da OMS para a qualidade do ar, a Comissão elaborará uma revisão da presente directiva, como trabalho preparatório de cada relatório.\n\n2. Na revisão a concluir em 2004, será realizada uma avaliação dos valores-limite indicativos de emissão para a Comunidade na sua globalidade estabelecidos no anexo II. A avaliação destes valores máximos indicativos será um factor a ter em consideração na análise de novas medidas eficazes em termos de custos que possam ser adoptadas para reduzir as emissões de poluentes relevantes, com o objectivo de cumprir os objectivos ambientais intermédios fixados no artigo 5.o para toda a Comunidade em 2010.\n\n3. Todas as revisões incluirão uma nova análise dos custos e benefícios estimados dos valores-limite nacionais de emissão, calculados com os modelos mais recentes e utilizando os melhores dados disponíveis a fim de alcançar o menor grau de incerteza possível, tendo também em conta a evolução do alargamento da União Europeia e os méritos de metodologias alternativas, à luz dos factores enumerados no artigo 9.o\n\n4. Sem prejuízo do artigo 18.o da Directiva 96/61/CE, com o objectivo de evitar distorções da concorrência e tendo em conta o equilíbrio entre os benefícios e os custos da acção, a Comissão deve analisar também a necessidade de desenvolver medidas comunitárias harmonizadas para os sectores e produtos da economia que mais contribuem para a acidificação, a eutrofização e a formação de ozono ao nível do solo.\n\n5. Os relatórios a que se refere o artigo 9.o serão eventualmente acompanhados por propostas de:\n\na) Alteração dos valores-limite fixados no anexo I, com a finalidade de atingir os objectivos intermédios estabelecidos no artigo 5.o, e/ou alteração desses objectivos ambientais intermédios;\n\nb) Eventuais reduções suplementares das emissões, com a finalidade de atingir os objectivos a longo prazo da presente directiva, de preferência até 2020;\n\nc) Medidas para garantir o cumprimento dos valores-limite."
+  },
+  "df8e80ce85682ab0": {
+   "fragment_id": "Artigo 11.º — Cooperação com países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Cooperação com países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cooperação com países terceiros\n\nDe modo a promover a realização do objectivo estabelecido no artigo 1.o, e sem prejuízo do disposto no artigo 300.o do Tratado, a Comissão e os Estados-Membros, conforme o caso, devem prosseguir a cooperação bilateral e multilateral com países terceiros e organizações internacionais relevantes, tais como a UNECE, a Organização Marítima Internacional e a Organização da Aviação Civil Internacional, inclusivamente através do intercâmbio de informações, no domínio da investigação e desenvolvimento científico e técnico e com o objectivo de melhorar as condições para a facilitação da redução das emissões."
+  },
+  "88888f27d01f4fe6": {
+   "fragment_id": "Artigo 12.º — Relatórios sobre as emissões de navios e aeronaves",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Relatórios sobre as emissões de navios e aeronaves",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Relatórios sobre as emissões de navios e aeronaves\n\n1. Até final de 2002, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre a medida em que as emissões do tráfego marítimo internacional contribuem para a acidificação, a eutrofização e a formação de ozono a nível do solo na Comunidade.\n\n2. Até final de 2004 a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre a medida em que as emissões de aeronaves, exceptuando o ciclo de descolagem e aterragem, contribuem para a acidificação, eutrofização e formação de ozono a nível do solo na Comunidade.\n\n3. Cada relatório especificará um programa de medidas que possam ser tomadas, a nível internacional e da Comunidade, como adequadas para reduzir as emissões do sector em causa, como base para posterior análise por parte do Parlamento Europeu e do Conselho."
+  },
+  "d053bd73def34f2e": {
+   "fragment_id": "Artigo 13.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Comité\n\n1. A Comissão será assistida pelo Comité instituído pelo artigo 12.o da Directiva 96/62/CE, a seguir designado \"Comité\".\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.o e 7.o da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.o da mesma.\n\nO período previsto no n.o 3 do artigo 4.o da Decisão 1999/468/CE é de três meses.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "b9b181a84f83e2f0": {
+   "fragment_id": "Artigo 14.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Sanções\n\nOs Estados-Membros devem determinar as sanções aplicáveis à violação das disposições nacionais adoptadas em aplicação da presente directiva. As sanções previstas devem ser efectivas, proporcionadas e dissuasivas."
+  },
+  "53217bdcbcfbb414": {
+   "fragment_id": "Artigo 15.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Transposição\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 27 de Novembro de 2002 e devem informar imediatamente a Comissão desse facto.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão as disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "99ea121f2be12856": {
+   "fragment_id": "Artigo 16.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nA presente directiva entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "fd8e9236d4322cc6": {
+   "fragment_id": "Artigo 17.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 23 de Outubro de 2001.\n\nPelo Parlamento Europeu\n\nA Presidente\n\nN. Fontaine\n\nPelo Conselho\n\nO Presidente\n\nA. Neyts-Uyttebroeck\n\n(1) JO C 56 de 29.2.2000, p. 54.\n\n(2) JO C 51 de 23.2.2000, p. 11.\n\n(3) Parecer emitido em 14 de Junho de 2000 (JO C 317 de 6.11.2000, p. 35).\n\n(4) Parecer do Parlamento Europeu de 15 de Março de 2000 (JO C 377 de 29.12.2000, p. 159), posição comum do Conselho de 7 de Novembro de 2000 (JO C 375 de 28.12.2000, p. 1) e decisão do Parlamento Europeu de 14 de Março de 2001 (ainda não publicada no Jornal Oficial). Decisão do Parlamento Europeu de 20 de Setembro de 2001 e decisão do Conselho de 27 de Setembro de 2001.\n\n(5) JO C 138 de 17.5.1993, p. 1.\n\n(6) JO L 275 de 10.10.1998, p. 1.\n\n(7) JO L 297 de 13.10.1992, p. 1.\n\n(8) JO L 121 de 11.5.1999, p. 13.\n\n(9) JO L 257 de 10.10.1996, p. 26.\n\n(10) JO L 184 de 17.7.1999, p. 23 (rectificação no JO L 269 de 19.10.1999, p. 45).\n\n(11) Ver p. 1 do presente Jornal Oficial."
+  },
+  "7dedd14333af2bc0": {
+   "fragment_id": "ANEXO I — Valores-limite nacionais de emissão aplicáveis ao SO2, NOx, COV e NH3, a cumprir até 2010(1)",
+   "type": "divisao",
+   "heading": "ANEXO I — Valores-limite nacionais de emissão aplicáveis ao SO2, NOx, COV e NH3, a cumprir até 2010(1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Valores-limite nacionais de emissão aplicáveis ao SO2, NOx, COV e NH3, a cumprir até 2010(1)\n\n>POSIÇÃO NUMA TABELA>\n\n(1) Estes valores-limite nacionais de emissão foram definidos tendo em vista responder em termos gerais aos objectivos ambientais intermédios constantes do artigo 5.o Espera-se que o respeito por estes objectivos resulte numa redução da eutrofização dos solos tal que a superfície comunitária com deposições de nutrientes azotados superiores às cargas críticas seja reduzida em cerca de 30 % relativamente à situação de 1990."
+  },
+  "36fc91a60441b584": {
+   "fragment_id": "ANEXO II — Valores-limite de emissão aplicáveis ao SO2, NOx e COV",
+   "type": "divisao",
+   "heading": "ANEXO II — Valores-limite de emissão aplicáveis ao SO2, NOx e COV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Valores-limite de emissão aplicáveis ao SO2, NOx e COV\n\n>POSIÇÃO NUMA TABELA>\n\nEstes valores-limite de emissão foram concebidos tendo por objectivo respeitar os objectivos ambientais intermédios estabelecidos no artigo 5.o para toda a Comunidade até 2010."
+  },
+  "e0ac72add2aea144": {
+   "fragment_id": "ANEXO III — Metodologias para a elaboração dos inventários e projecções de emissões",
+   "type": "divisao",
+   "heading": "ANEXO III — Metodologias para a elaboração dos inventários e projecções de emissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Metodologias para a elaboração dos inventários e projecções de emissões\n\nOs Estados-Membros elaborarão inventários e projecções de emissões por recurso às metodologias estabelecidas pela Convenção sobre a Poluição Atmosférica Transfronteiras a Longa Distância, devendo, para tal, utilizar o guia conjunto EMEP/CORINAIR(1) na preparação desses inventários e projecções.\n\n(1) Inventário de emissões aéreas da Agência Europeia do Ambiente."
+  },
+  "5df179dead7294a3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Outubro de 2001\n\nrelativa ao estabelecimento de valores-limite nacionais de emissão de determinados poluentes atmosféricos\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 1 do seu artigo 175.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/a9090d01-e948-485b-acc6-26e5810dd796.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/a9090d01-e948-485b-acc6-26e5810dd796.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/a9090d01-e948-485b-acc6-26e5810dd796.0018.03/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^4^](http://publications.europa.eu/resource/cellar/a9090d01-e948-485b-acc6-26e5810dd796.0018.03/DOC_1#E0004)) à luz do projecto comum aprovado pelo Comité de Concilação em 2 de Agosto de 2001,\n\n(1) A abordagem global e a estratégia do Quinto Programa de Acção no domínio do Ambiente, tal como aprovadas pela Resolução do Conselho e dos representantes dos Governos dos Estados-Membros reunidos no Conselho, de 1 de Fevereiro de 1993, relativa a um programa comunitário de política e acção relacionado com o ambiente e o desenvolvimento sustentável ([^5^](http://publications.europa.eu/resource/cellar/a9090d01-e948-485b-acc6-26e5810dd796.0018.03/DOC_1#E0005)), estabelecem o objectivo de não se excederem os níveis e cargas críticos de acidificação na Comunidade. O programa estipula que todas as pessoas devem ser protegidas de forma eficaz contra os riscos para a saúde decorrentes da poluição atmosférica e que os níveis de poluição autorizados devem ter em conta a protecção do ambiente. O programa prevê igualmente que os valores-guia estabelecidos pela Organização Mundial de Saúde (OMS) devem tornar-se obrigatórios na Comunidade.\n\n(2) Os Estados-Membros assinaram o Protocolo de Gotemburgo, de 1 de Dezembro de 1999, à Convenção de 1979 da Comissão Económica para a Europa das Nações Unidas (UNECE) sobre a Poluição Atmosférica Transfronteiras a Longa Distância, relativo à Redução da Acidificação, da Eutrofização e do Ozono Troposférico.\n\n(3) A Decisão n.º 2179/98/CE do Parlamento Europeu e do Conselho, de 24 de Setembro de 1998, relativa à revisão do programa da Comunidade Europeia de política e acção em matéria de ambiente e desenvolvimento sustentável — «Em direcção a um desenvolvimento sustentável» ([^6^](http://publications.europa.eu/resource/cellar/a9090d01-e948-485b-acc6-26e5810dd796.0018.03/DOC_1#E0006)), especificou que deve conferir-se especial atenção à elaboração e aplicação de uma estratégia destinada a garantir que não sejam excedidas as cargas críticas na exposição a poluentes atmosféricos acidificantes, eutrofizantes e fotoquímicos.\n\n(4) A Directiva 92/72/CEE do Conselho, de 21 de Setembro de 1992, relativa à poluição atmosférica pelo ozono ([^7^](http://publications.europa.eu/resource/cellar/a9090d01-e948-485b-acc6-26e5810dd796.0018.03/DOC_1#E0007)), estipula que a Comissão deve apresentar ao Conselho um relatório de avaliação da poluição fotoquímica na Comunidade, acompanhado das propostas que a Comissão considere adequadas para controlar a poluição atmosférica pelo ozono ao nível do solo e, se necessário, reduzir as emissões de substâncias precursoras do ozono.\n\n(5) Áreas consideráveis da Comunidade encontram-se expostas à deposição de substâncias acidificantes e eutrofizantes a níveis que apresentam efeitos nocivos no ambiente. Os valores-guia estabelecidos pela OMS para a protecção da saúde humana e da vegetação da poluição fotoquímica são substancialmente excedidos em todos os Estados-Membros.\n\n(6) Os excedentes das cargas críticas deverão, pois, ser gradualmente eliminados e os valores-guia respeitados.\n\n(7) Actualmente, não é tecnicamente viável alcançar os objectivos a longo prazo de eliminação dos efeitos nocivos da acidificação e de redução da exposição do homem e do ambiente ao ozono ao nível do solo a níveis conformes aos valores-guia estabelecidos pela OMS. Por consequência, é necessário estabelecer objectivos ambientais intermédios no que respeita à acidificação e poluição pelo ozono ao nível do solo, nos quais se baseiem as medidas para reduzir esse tipo de poluição.\n\n(8) Os referidos objectivos ambientais intermédios e as medidas adoptadas para atingi-los devem ter em conta a viabilidade técnica, bem como os custos e benefícios associados. Tais medidas devem assegurar a adequação custo-eficácia das acções adoptadas para a Comunidade no seu conjunto e deverão ter em conta a necessidade de evitar custos excessivos para os Estados-Membros encarados individualmente.\n\n(9) A poluição transfronteiras contribui para a acidificação, a eutrofização dos solos e a formação de ozono ao nível do solo, cuja redução implica a adopção de acções comunitárias concertadas.\n\n(10) A redução das emissões dos poluentes que causam a acidificação e a exposição ao ozono ao nível do solo permitirá também reduzir a eutrofização dos solos.\n\n(11) O estabelecimento, para cada Estado-Membro, de valores-limite aplicáveis às emissões de dióxido de enxofre, de óxidos de azoto, de compostos orgânicos voláteis e de amoníaco constitui uma forma rentável de satisfazer objectivos ambientais intermédios. Os referidos valores-limite de emissão proporcionarão à Comunidade e aos Estados-Membros a flexibilidade para determinar os meios de os cumprir.\n\n(12) Os Estados-Membros devem ser responsáveis pela aplicação de medidas destinadas a cumprir os valores-limite nacionais de emissão. Será necessário avaliar os progressos efectuados em matéria de cumprimento dos valores-limite de emissão. Por conseguinte, devem elaborar-se e comunicar-se à Comissão programas nacionais de redução das emissões, os quais devem incluir informações sobre as medidas adoptadas ou previstas para cumprir os valores-limite de emissão.\n\n(13) De acordo com o princípio da subsidiariedade previsto no artigo 5.º do Tratado, e tendo particularmente em conta o princípio da precaução, os objectivos da presente directiva, a saber a limitação das emissões de poluentes e de substâncias precursoras do ozono acidificantes e eutrofizantes, não podem ser suficientemente realizados pelos Estados-Membros devido à natureza transfronteiras da poluição e podem, pois, ser melhor alcançados ao nível comunitário. De acordo com o princípio da proporcionalidade, a presente directiva não excede o necessário para alcançar aquele objectivo.\n\n(14) É necessário analisar atempadamente os progressos efectuados pelos Estados-Membros tendo em vista o cumprimento dos valores-limite de emissão, bem como analisar até que ponto a implementação dos valores-limite é susceptível de permitir alcançar os objectivos ambientais intermédios no conjunto da Comunidade. Esta análise deverá igualmente ter em consideração os progressos científicos e técnicos, a evolução registada na legislação comunitária e na redução das emissões no exterior da Comunidade, com especial atenção aos progressos registados, designadamente, nos países candidatos à adesão. Na referida análise, a Comissão deve proceder a um estudo mais aprofundado dos custos e benefícios dos valores-limite de emissão, nomeadamente do binómio custo-eficácia, dos custos e benefícios marginais, do impacto socioeconómico e de qualquer impacto sobre a competitividade. A análise em causa deve também ter em conta as limitações do âmbito da presente directiva.\n\n(15) A Comissão deverá preparar para o efeito um relatório a apresentar ao Parlamento Europeu e ao Conselho e, se o considerar necessário, propor alterações adequadas à presente directiva tendo em conta os efeitos da legislação comunitária relevante que, designadamente, fixe limites de emissão e normas de produto para as fontes relevantes de emissão, bem como a regulamentação internacional relativa às emissões dos navios e das aeronaves.\n\n(16) O transporte marítimo contribui de maneira significativa para as emissões de dióxido de enxofre, de óxidos de azoto e também para a concentração e o depósito de poluentes atmosféricos na Comunidade, sendo por conseguinte necessário reduzir estas emissões. O n.º 3 do artigo 7.º da Directiva 1999/32/CE do Conselho, de 26 de Abril de 1999, relativa à redução do teor de enxofre de determinados combustíveis líquidos e que altera a Directiva 93/12/CEE ([^8^](http://publications.europa.eu/resource/cellar/a9090d01-e948-485b-acc6-26e5810dd796.0018.03/DOC_1#E0008)), estabelece que a Comissão ponderará quais as medidas a tomar para reduzir o contributo para a acidificação da combustão dos combustíveis navais que não constam do n.º 3 do artigo 2.º daquela directiva.\n\n(17) Os Estados-Membros devem procurar ratificar o anexo VI da Convenção Internacional sobre a Poluição Marinha (MARPOL) tão rapidamente quanto possível.\n\n(18) Devido à natureza transfronteiras da acidificação e da poluição pelo ozono, a Comissão deve continuar a analisar a necessidade de desenvolver medidas comunitárias harmonizadas, sem prejuízo do artigo 18.º da Directiva 96/61/CE do Conselho, de 24 de Setembro de 1996, relativa à prevenção e controlo integrados da poluição ([^9^](http://publications.europa.eu/resource/cellar/a9090d01-e948-485b-acc6-26e5810dd796.0018.03/DOC_1#E0009)), com o objectivo de evitar a distorção da concorrência e tendo em conta o equilíbrio entre os custos e os benefícios das acções.\n\n(19) O disposto na presente directiva é aplicável sem prejuízo da legislação comunitária que regulamenta as emissões dos poluentes em causa provenientes de fontes específicas e do disposto na Directiva 96/61/CE no que diz respeito aos valores-limite de emissão e à utilização da melhor tecnologia disponível.\n\n(20) De modo a avaliar os progressos efectuados no cumprimento dos valores-limite de emissão, devem elaborar-se inventários das emissões em conformidade com as metodologias internacionalmente aceites, a apresentar com regularidade à Comissão e à Agência Europeia do Ambiente (AEA).\n\n(21) Os Estados-Membros devem determinar o regime das sanções aplicáveis às violações do disposto na presente directiva e assegurar a sua aplicação. As sanções devem ser eficazes, proporcionadas e dissuasivas.\n\n(22) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^10^](http://publications.europa.eu/resource/cellar/a9090d01-e948-485b-acc6-26e5810dd796.0018.03/DOC_1#E0010)).\n\n(23) A Comissão e os Estados-Membros devem cooperar a nível internacional a fim de alcançar os objectivos da presente directiva,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "8bd6e340dacc9704": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\nO objectivo da presente directiva consiste em limitar as emissões de poluentes acidificantes e eutrofizantes e de precursores de ozono com o objectivo de reforçar a protecção do ambiente e da saúde humana na Comunidade contra os riscos de efeitos nocivos decorrentes da acidificação, da eutrofização dos solos e da presença de ozono ao nível do solo, tendo em vista avançar no sentido dos objectivos a longo prazo de não exceder os níveis e cargas críticos e de proteger de forma eficaz os indivíduos contra os riscos para a saúde decorrentes da poluição atmosférica, por meio do estabelecimento de limiares máximos de emissões nacionais tomando como pontos de referência os anos 2010 e 2020 e procedendo a sucessivas revisões, tal como previsto nos artigos 4.º e 10.º"
+  },
+  "24ed78a564f0092a": {
+   "fragment_id": "Artigo 2.º — Âmbito",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nA presente directiva abrange as emissões no território dos Estados-Membros e nas respectivas zonas económicas exclusivas dos poluentes referidos no artigo 4.º que resultem da actividade humana.\n\nA presente directiva não abrange:\n\na) Emissões do tráfego marítimo internacional;\n\nb) Emissões das aeronaves, à excepção do ciclo de descolagem e aterragem;\n\nc) No caso da Espanha, as emissões nas ilhas Canárias;\n\nd) No caso da França, as emissões nos departamentos ultramarinos;\n\ne) No caso de Portugal, as emissões na Madeira e nos Açores."
+  },
+  "3616f14dc8c518fb": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) «AOT 40», a soma da diferença entre as concentrações horárias de ozono ao nível do solo superiores a 80 μg/m^3^ (= 40 partes por mil milhões) e 80 μg/m^3^ durante as horas de dia acumuladas de Maio a Julho de cada ano;\n\nb) «AOT 60», a soma da diferença entre as concentrações horárias de ozono ao nível do solo superiores a 120 μg/m^3^ (= 60 partes por mil milhões) e 120 μg/m^3^ acumuladas ao longo do ano;\n\nc) «Carga crítica», a estimativa quantitativa da exposição a um ou mais poluentes abaixo da qual, de acordo com o estado actual dos conhecimentos, não se observam efeitos nocivos significativos em determinados elementos sensíveis específicos do ambiente;\n\nd) «Nível crítico», a concentração de poluentes na atmosfera além da qual, de acordo com o estado actual dos conhecimentos, podem observar-se efeitos nocivos directos nos receptores, nomeadamente no homem, nas plantas, nos ecossistemas e nas matérias;\n\ne) «Emissão», a libertação de substâncias para a atmosfera a partir de fontes tópicas ou difusas;\n\nf) «Quadrícula da grelha», uma quadrícula com as dimensões de 150 km x 150 km, que constituem a resolução utilizada para a cartografia das cargas críticas à escala europeia, bem como no controlo das emissões e da deposição de poluentes atmosféricos no âmbito do programa concertado de vigilância contínua e de avaliação do transporte a longa distância dos poluentes atmosféricos na Europa (EMEP);\n\ng) «Ciclo de aterragem e descolagem», um ciclo constituído pelos seguintes períodos em cada modo operacional: aproximação, 4 minutos; rolagem/movimentos de pista, 26 minutos; descolagem, 0,7 minuto; subida, 2,2 minutos;\n\nh) «Valores-limite nacionais de emissão», a quantidade máxima de uma substância, expressa em quilotoneladas, que pode ser emitida por um Estado-Membro durante um ano civil;\n\ni) «Óxidos de azoto e NOx», o óxido nítrico e o dióxido de azoto, expresso em dióxido de azoto;\n\nj) «Ozono ao nível do solo», o ozono na parte inferior da troposfera;\n\nk) «Compostos orgânicos voláteis» e «COV», todos os compostos orgânicos resultantes da actividade humana, à excepção do metano, que possam produzir oxidantes fotoquímicos por reacção com óxidos de azoto, na presença de luz solar."
+  },
+  "b2ca6ddd7d1d09a0": {
+   "fragment_id": "Artigo 4.º — Valores-limite nacionais de emissão",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Valores-limite nacionais de emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Valores-limite nacionais de emissão\n\n1. Até 2010, os Estados-Membros devem limitar as suas emissões nacionais anuais de dióxido de enxofre (SO2), óxidos de azoto (NOx), compostos orgânicos voláteis (COV) e amoníaco (NH3) a quantidades não superiores aos valores-limite de emissão fixados no anexo I, tendo em conta eventuais alterações feitas por medidas comunitárias adoptadas na sequência dos relatórios referidos no artigo 9.º\n\n2. Os Estados-Membros devem assegurar-se de que os valores-limite de emissão fixados no anexo I não são excedidos após 2010."
+  },
+  "c1e516226da42729": {
+   "fragment_id": "Artigo 5.º — Objectivos ambientais intermédios",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Objectivos ambientais intermédios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Objectivos ambientais intermédios\n\nOs valores-limite nacionais de emissão constantes do anexo I têm por objectivo a realização, de modo geral, dos seguintes objectivos ambientais intermédios, para a Comunidade no seu todo, até 2010:\n\na) *Acidificação*\n\nb) *Exposição ao ozono ao nível do solo na perspectiva da saúde*\n\nc) *Exposição ao ozono ao nível do solo na perspectiva da protecção da vegetação*"
+  },
+  "5f20d44d8f01085f": {
+   "fragment_id": "Artigo 6.º — Programas nacionais",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Programas nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Programas nacionais\n\n1. Até 1 de Outubro de 2002, os Estados-Membros devem elaborar programas para a redução progressiva das emissões nacionais dos poluentes referidos no artigo 4.º, com o objectivo de, até 2010, respeitarem, pelo menos, os valores-limite nacionais de emissão fixados no anexo I.\n\n2. Os programas nacionais devem incluir informações sobre as políticas e medidas adoptadas e previstas, bem como estimativas quantitativas dos efeitos das políticas e medidas em causa nas emissões dos referidos poluentes em 2010, e devem indicar quaisquer eventuais alterações significativas previsíveis da distribuição geográfica das emissões nacionais.\n\n3. Os Estados-Membros devem actualizar e rever os programas nacionais, de acordo com as necessidades, até 1 de Outubro de 2006.\n\n4. Os Estados-Membros devem divulgar ao público e aos organismos interessados, nomeadamente as organizações ambientalistas, os programas elaborados em conformidade com os n.^os^ 1, 2 e 3. As informações divulgadas ao público e às organizações em conformidade com o presente número devem ser claras, completas e acessíveis."
+  },
+  "8798dd2a986c8722": {
+   "fragment_id": "Artigo 7.º — Inventários e previsões de emissões",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Inventários e previsões de emissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Inventários e previsões de emissões\n\n1. Os Estados-Membros devem elaborar e actualizar anualmente os inventários das emissões, bem como as previsões das emissões dos poluentes em 2010 a que se refere o artigo 4.º\n\n2. Os Estados-Membros devem elaborar os seus inventários e previsões de emissões recorrendo às metodologias especificadas no anexo III.\n\n3. A Comissão, assistida pela AEA, deve elaborar, em cooperação com os Estados-Membros e com base nas informações por estes fornecidas, inventários e previsões dos poluentes referidos no artigo 4.º Os referidos inventários e previsões serão tornados públicos.\n\n4. Qualquer actualização das metodologias a utilizar em conformidade com o anexo III deve ser feita nos termos do n.º 2 do artigo 13.º"
+  },
+  "de309b44f9c65935": {
+   "fragment_id": "Artigo 8.º — Relatórios dos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Relatórios dos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Relatórios dos Estados-Membros\n\n1. Os Estados-Membros devem apresentar à Comissão e à AEA, até 31 de Dezembro de cada ano, os seus inventários nacionais de emissões, bem como as suas previsões na matéria para 2010, em conformidade com o artigo 7.º Os Estados-Membros devem apresentar os seus inventários finais relativos ao penúltimo ano, bem como os inventários previsionais de emissões relativos ao ano anterior. As previsões de emissões devem incluir dados que permitam a análise quantitativa das premissas socioeconómicas-chave utilizadas para a sua elaboração.\n\n2. Até 31 de Dezembro de 2002, os Estados-Membros devem informar a Comissão dos programas elaborados em conformidade com os n.^os^ 1 e 2 do artigo 6.º\n\nAté 31 de Dezembro de 2006, os Estados-Membros devem informar a Comissão dos programas actualizados em conformidade com o n.º 3 do artigo 6.º\n\n3. A Comissão deve enviar os programas nacionais aos restantes Estados-Membros no prazo de um mês após a recepção dos mesmos.\n\n4. A Comissão aprova, nos termos do n.º 2 do artigo 13.º, disposições destinadas a garantir a comunicação coerente e transparente dos programas nacionais."
+  },
+  "2053ed8b27a07a24": {
+   "fragment_id": "Artigo 9.º — Relatórios da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Relatórios da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Relatórios da Comissão\n\n1. Em 2004 e 2008, a Comissão deve apresentar ao Parlamento Europeu e ao Conselho relatórios sobre os progressos efectuados na aplicação dos valores-limite nacionais de emissão fixados no anexo I, sobre a medida em que os objectivos ambientais intermédios estabelecidos no artigo 5.º serão cumpridos até 2010 e em que os objectivos de longo prazo estabelecidos no artigo 1.º poderão ser cumpridos até 2020. Os relatórios em causa devem incluir uma análise económica, nomeadamente uma avaliação da relação custo-eficácia, dos benefícios, dos custos e benefícios marginais e do impacto socioeconómico da aplicação dos valores-limite nacionais de emissão em determinados Estados-Membros e sectores. Devem incluir também uma análise às limitações do âmbito da presente directiva tal como definido no artigo 2.º e uma avaliação da eventual necessidade de novas reduções de emissões com vista a cumprir os objectivos ambientais intermédios estabelecidos no artigo 5.º Os referidos relatórios devem ter em conta os relatórios elaborados pelos Estados-Membros em conformidade com os n.^os^ 1 e 2 do artigo 8.º, bem como, entre outros:\n\na) Eventual aprovação de nova legislação comunitária que fixe limites de emissão e normas de produto para as fontes relevantes de emissão;\n\nb) Desenvolvimentos das melhores técnicas disponíveis no quadro do intercâmbio de informações previsto no artigo 16.º da Directiva 96/61/CE;\n\nc) Os objectivos de redução das emissões para 2008 referentes às emissões de dióxido de enxofre e óxidos de azoto das grandes instalações de combustão actualmente existentes, comunicados pelos Estados-Membros por força da Directiva 2001/80/CE do Parlamento Europeu e do Conselho, de 23 de Outubro de 2001, relativa à limitação das emissões para a atmosfera de certos poluentes provenientes de grandes instalações de combustão ([^11^](http://publications.europa.eu/resource/cellar/a9090d01-e948-485b-acc6-26e5810dd796.0018.03/DOC_1#E0011));\n\nd) As reduções e os compromissos de redução das emissões de países terceiros, com particular incidência nas medidas a adoptar nos países candidatos à adesão, e a possibilidade de mais reduções de emissões nas regiões limítrofes da Comunidade;\n\ne) Qualquer nova legislação comunitária e regulamentação internacional no domínio das emissões de navios e de aeronaves;\n\nf) O desenvolvimento dos transportes e os objectivos para controlo das respectivas emissões;\n\ng) Os progressos no domínio da agricultura, projecções no domínio da pecuária e melhoramentos nos métodos de redução das emissões no sector agrícola;\n\nh) Quaisquer alterações importantes no mercado de fornecimento de energia num Estado-Membro e novas previsões que tenham em conta as acções adoptadas pelos Estados-Membros para cumprir as suas obrigações internacionais no que respeita às alterações climáticas.\n\ni) Uma avaliação das excedências actuais e previstas das cargas críticas e dos valores-guia da OMS relativos ao ozono ao nível do solo;\n\nj) A possibilidade de identificação de um objectivo intermédio para a redução da eutrofização dos solos;\n\nk) Os novos dados científicos e técnicos, incluindo uma avaliação das incertezas quanto:\n\ni) aos inventários nacionais de emissões;\n\nii) aos dados referentes aos insumos;\n\niii) ao conhecimento de transportes e depósitos transfronteiriços de poluentes;\n\niv) aos níveis e cargas críticos;\n\nv) ao modelo utilizado;\n\nl) Se é necessário evitar custos excessivos para um Estado-Membro individualmente;\n\nm) A comparação de cálculos a partir de modelos com observações da acidificação, eutrofização e ozono ao nível do solo tendo em vista a melhoria de modelos;\n\nn) Uma eventual utilização, sempre que possível, de instrumentos económicos adequados.\n\n2. Em 2012, a Comissão deve apresentar ao Parlamento Europeu e ao Conselho um relatório sobre o cumprimento dos valores-limite fixados no anexo I, bem como sobre os progressos efectuados no que respeita aos objectivos ambientais intermédios referidos no artigo 5.º e objectivos a longo prazo estabelecidos no artigo 1.º O referido relatório deve ter em conta os relatórios elaborados pelos Estados-Membros em conformidade com os n.^os^ 1 e 2 do artigo 8.º, bem como os aspectos referidos nas alíneas a) a n) do n.º 1 do presente artigo."
+  },
+  "e3a4447af713e238": {
+   "fragment_id": "Artigo 10.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Revisão\n\n1. Os relatórios referidos no artigo 9.º devem ter em conta os factores referidos no n.º 1 do mesmo artigo. Com base nestes factores, nos progressos no sentido da obtenção dos valores-limite em 2010, nos progressos técnicos e científicos e na situação relativa aos progressos efectuados no sentido da realização dos objectivos intermédios da presente directiva, e dos objectivos a longo prazo de não exceder as cargas e níveis críticos e os valores-guia da OMS para a qualidade do ar, a Comissão elaborará uma revisão da presente directiva, como trabalho preparatório de cada relatório.\n\n2. Na revisão a concluir em 2004, será realizada uma avaliação dos valores-limite indicativos de emissão para a Comunidade na sua globalidade estabelecidos no anexo II. A avaliação destes valores máximos indicativos será um factor a ter em consideração na análise de novas medidas eficazes em termos de custos que possam ser adoptadas para reduzir as emissões de poluentes relevantes, com o objectivo de cumprir os objectivos ambientais intermédios fixados no artigo 5.º para toda a Comunidade em 2010.\n\n3. Todas as revisões incluirão uma nova análise dos custos e benefícios estimados dos valores-limite nacionais de emissão, calculados com os modelos mais recentes e utilizando os melhores dados disponíveis a fim de alcançar o menor grau de incerteza possível, tendo também em conta a evolução do alargamento da União Europeia e os méritos de metodologias alternativas, à luz dos factores enumerados no artigo 9.º\n\n4. Sem prejuízo do artigo 18.º da Directiva 96/61/CE, com o objectivo de evitar distorções da concorrência e tendo em conta o equilíbrio entre os benefícios e os custos da acção, a Comissão deve analisar também a necessidade de desenvolver medidas comunitárias harmonizadas para os sectores e produtos da economia que mais contribuem para a acidificação, a eutrofização e a formação de ozono ao nível do solo.\n\n5. Os relatórios a que se refere o artigo 9.º serão eventualmente acompanhados por propostas de:\n\na) Alteração dos valores-limite fixados no anexo I, com a finalidade de atingir os objectivos intermédios estabelecidos no artigo 5.º, e/ou alteração desses objectivos ambientais intermédios;\n\nb) Eventuais reduções suplementares das emissões, com a finalidade de atingir os objectivos a longo prazo da presente directiva, de preferência até 2020;\n\nc) Medidas para garantir o cumprimento dos valores-limite."
+  },
+  "3b0c4fe9195f9983": {
+   "fragment_id": "Artigo 11.º — Cooperação com países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Cooperação com países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cooperação com países terceiros\n\nDe modo a promover a realização do objectivo estabelecido no artigo 1.º, e sem prejuízo do disposto no artigo 300.º do Tratado, a Comissão e os Estados-Membros, conforme o caso, devem prosseguir a cooperação bilateral e multilateral com países terceiros e organizações internacionais relevantes, tais como a UNECE, a Organização Marítima Internacional e a Organização da Aviação Civil Internacional, inclusivamente através do intercâmbio de informações, no domínio da investigação e desenvolvimento científico e técnico e com o objectivo de melhorar as condições para a facilitação da redução das emissões."
+  },
+  "e9b5e626639f1d0a": {
+   "fragment_id": "Artigo 13.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Comité\n\n1. A Comissão será assistida pelo Comité instituído pelo artigo 12.º da Directiva 96/62/CE, a seguir designado «Comité».\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.º da mesma.\n\nO período previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de três meses.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "6ca3cad250ba522c": {
+   "fragment_id": "Artigo 16.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nA presente directiva entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "337c24ec8d19d764": {
+   "fragment_id": "Artigo 17.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "8f009b3617e1531b": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| País | SO2 Quilotoneladas | NOx Quilotoneladas | COV Quilotoneladas | NH3 Quilotoneladas |\n| --- | --- | --- | --- | --- |\n| Bélgica | 99 | 176 | 139 | 74 |\n| Bulgária [(^2^)](http://publications.europa.eu/resource/cellar/a9090d01-e948-485b-acc6-26e5810dd796.0018.03/DOC_1#E0013) | 836 | 247 | 175 | 108 |\n| República Checa | 265 | 286 | 220 | 80 |\n| Dinamarca | 55 | 127 | 85 | 69 |\n| Alemanha | 520 | 1 051 | 995 | 550 |\n| Estónia | 100 | 60 | 49 | 29 |\n| Grécia | 523 | 344 | 261 | 73 |\n| Espanha | 746 | 847 | 662 | 353 |\n| França | 375 | 810 | 1 050 | 780 |\n| Irlanda | 42 | 65 | 55 | 116 |\n| Itália | 475 | 990 | 1 159 | 419 |\n| Chipre | 39 | 23 | 14 | 09 |\n| Letónia | 101 | 61 | 136 | 44 |\n| Lituânia | 145 | 110 | 92 | 84 |\n| Luxemburgo | 4 | 11 | 9 | 7 |\n| Hungria | 500 | 198 | 137 | 90 |\n| Malta | 9 | 8 | 12 | 3 |\n| Países Baixos | 50 | 260 | 185 | 128 |\n| Áustria | 39 | 103 | 159 | 66 |\n| Polónia | 1 397 | 879 | 800 | 468 |\n| Portugal | 160 | 250 | 180 | 90 |\n| Roménia [(^2^)](http://publications.europa.eu/resource/cellar/a9090d01-e948-485b-acc6-26e5810dd796.0018.03/DOC_1#E0013) | 918 | 437 | 523 | 210 |\n| Eslovénia | 27 | 45 | 40 | 20 |\n| Eslováquia | 110 | 130 | 140 | 39 |\n| Finlândia | 110 | 170 | 130 | 31 |\n| Suécia | 67 | 148 | 241 | 57 |\n| Reino Unido | 585 | 1 167 | 1 200 | 297 |\n| CE 27 | 8 297 | 9 003 | 8 848 | 4 294 |\n| (^1^)Estes valores-limite nacionais de emissão foram definidos para responder em termos gerais aos objectivos ambientais intermédios constantes do artigo 5.º. Espera-se que a observância destes objectivos resulte numa redução da eutrofização dos solos tal que a superfície comunitária com deposições de nutrientes azotados superiores às cargas críticas seja reduzida em cerca de 30 % relativamente à situação registada em 1990. (^2^)Estes valores-limite nacionais de emissão são temporários e não afectam a revisão a que se refere o artigo 10.º da presente directiva, que deverá estar concluída em 2008. |  |  |  |  |"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "5adf5e9b197f94ad": {
+   "fragment_id": "Valores-limite de emissão aplicáveis ao SO2, NOx e COV",
+   "type": "divisao",
+   "heading": "Valores-limite de emissão aplicáveis ao SO2, NOx e COV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Valores-limite de emissão aplicáveis ao SO2, NOx e COV\n\n|  | SO2 Quilotoneladas | NOx Quilotoneladas | COV Quilotoneladas |\n| --- | --- | --- | --- |\n| CE 27 [(^1^)](http://publications.europa.eu/resource/cellar/a9090d01-e948-485b-acc6-26e5810dd796.0018.03/DOC_1#E0014) | 7 832 | 8 180 | 7 585 |\n| (^1^)Estes valores-limite de emissão são temporários e não afectam a revisão a que se refere o artigo 10.o da presente directiva, que deverá estar concluída em 2008. |  |  |  |\n\nEstes valores-limite de emissão foram concebidos tendo por objectivo respeitar os objectivos ambientais intermédios estabelecidos no artigo 5.º para toda a Comunidade até 2010."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "125339ec1cc21298": {
+   "fragment_id": "Metodologias para a elaboração dos inventários e projecções de emissões",
+   "type": "divisao",
+   "heading": "Metodologias para a elaboração dos inventários e projecções de emissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Metodologias para a elaboração dos inventários e projecções de emissões\n\nOs Estados-Membros elaborarão inventários e projecções de emissões por recurso às metodologias estabelecidas pela Convenção sobre a Poluição Atmosférica Transfronteiras a Longa Distância, devendo, para tal, utilizar o guia conjunto EMEP/CORINAIR ([^12^](http://publications.europa.eu/resource/cellar/a9090d01-e948-485b-acc6-26e5810dd796.0018.03/DOC_1#E0015)) na preparação desses inventários e projecções.\n\n---"
+  },
+  "4e1a979c029fccce": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/a9090d01-e948-485b-acc6-26e5810dd796.0018.03/DOC_1#src.E0001)) JO C 56 de 29.2.2000, p. 54.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/a9090d01-e948-485b-acc6-26e5810dd796.0018.03/DOC_1#src.E0002)) JO C 51 de 23.2.2000, p. 11.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/a9090d01-e948-485b-acc6-26e5810dd796.0018.03/DOC_1#src.E0003)) Parecer emitido em 14 de Junho de 2000 (JO C 317 de 6.11.2000, p. 35).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/a9090d01-e948-485b-acc6-26e5810dd796.0018.03/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 15 de Março de 2000 (JO C 377 de 29.12.2000, p. 159), posição comum do Conselho de 7 de Novembro de 2000 (JO C 375 de 28.12.2000, p. 1) e decisão do Parlamento Europeu de 14 de Março de 2001 (ainda não publicada no Jornal Oficial). Decisão do Parlamento Europeu de 20 de Setembro de 2001 e decisão do Conselho de 27 de Setembro de 2001.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/a9090d01-e948-485b-acc6-26e5810dd796.0018.03/DOC_1#src.E0005)) JO C 138 de 17.5.1993, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/a9090d01-e948-485b-acc6-26e5810dd796.0018.03/DOC_1#src.E0006)) JO L 275 de 10.10.1998, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/a9090d01-e948-485b-acc6-26e5810dd796.0018.03/DOC_1#src.E0007)) JO L 297 de 13.10.1992, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/a9090d01-e948-485b-acc6-26e5810dd796.0018.03/DOC_1#src.E0008)) JO L 121 de 11.5.1999, p. 13.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/a9090d01-e948-485b-acc6-26e5810dd796.0018.03/DOC_1#src.E0009)) JO L 257 de 10.10.1996, p. 26.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/a9090d01-e948-485b-acc6-26e5810dd796.0018.03/DOC_1#src.E0010)) JO L 184 de 17.7.1999, p. 23 (rectificação no JO L 269 de 19.10.1999, p. 45).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/a9090d01-e948-485b-acc6-26e5810dd796.0018.03/DOC_1#src.E0011)) Ver p. 1 do presente Jornal Oficial.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/a9090d01-e948-485b-acc6-26e5810dd796.0018.03/DOC_1#src.E0015)) Inventário de emissões aéreas da Agência Europeia do Ambiente."
+  },
+  "d0bb8f43cfa6248f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Outubro de 2001\n\nrelativa ao estabelecimento de valores-limite nacionais de emissão de determinados poluentes atmosféricos\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 1 do seu artigo 175.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/aa967792-b59c-4de7-b298-9132ca5acb8d.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/aa967792-b59c-4de7-b298-9132ca5acb8d.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/aa967792-b59c-4de7-b298-9132ca5acb8d.0018.03/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^4^](http://publications.europa.eu/resource/cellar/aa967792-b59c-4de7-b298-9132ca5acb8d.0018.03/DOC_1#E0004)) à luz do projecto comum aprovado pelo Comité de Concilação em 2 de Agosto de 2001,\n\n(1) A abordagem global e a estratégia do Quinto Programa de Acção no domínio do Ambiente, tal como aprovadas pela Resolução do Conselho e dos representantes dos Governos dos Estados-Membros reunidos no Conselho, de 1 de Fevereiro de 1993, relativa a um programa comunitário de política e acção relacionado com o ambiente e o desenvolvimento sustentável ([^5^](http://publications.europa.eu/resource/cellar/aa967792-b59c-4de7-b298-9132ca5acb8d.0018.03/DOC_1#E0005)), estabelecem o objectivo de não se excederem os níveis e cargas críticos de acidificação na Comunidade. O programa estipula que todas as pessoas devem ser protegidas de forma eficaz contra os riscos para a saúde decorrentes da poluição atmosférica e que os níveis de poluição autorizados devem ter em conta a protecção do ambiente. O programa prevê igualmente que os valores-guia estabelecidos pela Organização Mundial de Saúde (OMS) devem tornar-se obrigatórios na Comunidade.\n\n(2) Os Estados-Membros assinaram o Protocolo de Gotemburgo, de 1 de Dezembro de 1999, à Convenção de 1979 da Comissão Económica para a Europa das Nações Unidas (UNECE) sobre a Poluição Atmosférica Transfronteiras a Longa Distância, relativo à Redução da Acidificação, da Eutrofização e do Ozono Troposférico.\n\n(3) A Decisão n.º 2179/98/CE do Parlamento Europeu e do Conselho, de 24 de Setembro de 1998, relativa à revisão do programa da Comunidade Europeia de política e acção em matéria de ambiente e desenvolvimento sustentável — «Em direcção a um desenvolvimento sustentável» ([^6^](http://publications.europa.eu/resource/cellar/aa967792-b59c-4de7-b298-9132ca5acb8d.0018.03/DOC_1#E0006)), especificou que deve conferir-se especial atenção à elaboração e aplicação de uma estratégia destinada a garantir que não sejam excedidas as cargas críticas na exposição a poluentes atmosféricos acidificantes, eutrofizantes e fotoquímicos.\n\n(4) A Directiva 92/72/CEE do Conselho, de 21 de Setembro de 1992, relativa à poluição atmosférica pelo ozono ([^7^](http://publications.europa.eu/resource/cellar/aa967792-b59c-4de7-b298-9132ca5acb8d.0018.03/DOC_1#E0007)), estipula que a Comissão deve apresentar ao Conselho um relatório de avaliação da poluição fotoquímica na Comunidade, acompanhado das propostas que a Comissão considere adequadas para controlar a poluição atmosférica pelo ozono ao nível do solo e, se necessário, reduzir as emissões de substâncias precursoras do ozono.\n\n(5) Áreas consideráveis da Comunidade encontram-se expostas à deposição de substâncias acidificantes e eutrofizantes a níveis que apresentam efeitos nocivos no ambiente. Os valores-guia estabelecidos pela OMS para a protecção da saúde humana e da vegetação da poluição fotoquímica são substancialmente excedidos em todos os Estados-Membros.\n\n(6) Os excedentes das cargas críticas deverão, pois, ser gradualmente eliminados e os valores-guia respeitados.\n\n(7) Actualmente, não é tecnicamente viável alcançar os objectivos a longo prazo de eliminação dos efeitos nocivos da acidificação e de redução da exposição do homem e do ambiente ao ozono ao nível do solo a níveis conformes aos valores-guia estabelecidos pela OMS. Por consequência, é necessário estabelecer objectivos ambientais intermédios no que respeita à acidificação e poluição pelo ozono ao nível do solo, nos quais se baseiem as medidas para reduzir esse tipo de poluição.\n\n(8) Os referidos objectivos ambientais intermédios e as medidas adoptadas para atingi-los devem ter em conta a viabilidade técnica, bem como os custos e benefícios associados. Tais medidas devem assegurar a adequação custo-eficácia das acções adoptadas para a Comunidade no seu conjunto e deverão ter em conta a necessidade de evitar custos excessivos para os Estados-Membros encarados individualmente.\n\n(9) A poluição transfronteiras contribui para a acidificação, a eutrofização dos solos e a formação de ozono ao nível do solo, cuja redução implica a adopção de acções comunitárias concertadas.\n\n(10) A redução das emissões dos poluentes que causam a acidificação e a exposição ao ozono ao nível do solo permitirá também reduzir a eutrofização dos solos.\n\n(11) O estabelecimento, para cada Estado-Membro, de valores-limite aplicáveis às emissões de dióxido de enxofre, de óxidos de azoto, de compostos orgânicos voláteis e de amoníaco constitui uma forma rentável de satisfazer objectivos ambientais intermédios. Os referidos valores-limite de emissão proporcionarão à Comunidade e aos Estados-Membros a flexibilidade para determinar os meios de os cumprir.\n\n(12) Os Estados-Membros devem ser responsáveis pela aplicação de medidas destinadas a cumprir os valores-limite nacionais de emissão. Será necessário avaliar os progressos efectuados em matéria de cumprimento dos valores-limite de emissão. Por conseguinte, devem elaborar-se e comunicar-se à Comissão programas nacionais de redução das emissões, os quais devem incluir informações sobre as medidas adoptadas ou previstas para cumprir os valores-limite de emissão.\n\n(13) De acordo com o princípio da subsidiariedade previsto no artigo 5.º do Tratado, e tendo particularmente em conta o princípio da precaução, os objectivos da presente directiva, a saber a limitação das emissões de poluentes e de substâncias precursoras do ozono acidificantes e eutrofizantes, não podem ser suficientemente realizados pelos Estados-Membros devido à natureza transfronteiras da poluição e podem, pois, ser melhor alcançados ao nível comunitário. De acordo com o princípio da proporcionalidade, a presente directiva não excede o necessário para alcançar aquele objectivo.\n\n(14) É necessário analisar atempadamente os progressos efectuados pelos Estados-Membros tendo em vista o cumprimento dos valores-limite de emissão, bem como analisar até que ponto a implementação dos valores-limite é susceptível de permitir alcançar os objectivos ambientais intermédios no conjunto da Comunidade. Esta análise deverá igualmente ter em consideração os progressos científicos e técnicos, a evolução registada na legislação comunitária e na redução das emissões no exterior da Comunidade, com especial atenção aos progressos registados, designadamente, nos países candidatos à adesão. Na referida análise, a Comissão deve proceder a um estudo mais aprofundado dos custos e benefícios dos valores-limite de emissão, nomeadamente do binómio custo-eficácia, dos custos e benefícios marginais, do impacto socioeconómico e de qualquer impacto sobre a competitividade. A análise em causa deve também ter em conta as limitações do âmbito da presente directiva.\n\n(15) A Comissão deverá preparar para o efeito um relatório a apresentar ao Parlamento Europeu e ao Conselho e, se o considerar necessário, propor alterações adequadas à presente directiva tendo em conta os efeitos da legislação comunitária relevante que, designadamente, fixe limites de emissão e normas de produto para as fontes relevantes de emissão, bem como a regulamentação internacional relativa às emissões dos navios e das aeronaves.\n\n(16) O transporte marítimo contribui de maneira significativa para as emissões de dióxido de enxofre, de óxidos de azoto e também para a concentração e o depósito de poluentes atmosféricos na Comunidade, sendo por conseguinte necessário reduzir estas emissões. O n.º 3 do artigo 7.º da Directiva 1999/32/CE do Conselho, de 26 de Abril de 1999, relativa à redução do teor de enxofre de determinados combustíveis líquidos e que altera a Directiva 93/12/CEE ([^8^](http://publications.europa.eu/resource/cellar/aa967792-b59c-4de7-b298-9132ca5acb8d.0018.03/DOC_1#E0008)), estabelece que a Comissão ponderará quais as medidas a tomar para reduzir o contributo para a acidificação da combustão dos combustíveis navais que não constam do n.º 3 do artigo 2.º daquela directiva.\n\n(17) Os Estados-Membros devem procurar ratificar o anexo VI da Convenção Internacional sobre a Poluição Marinha (MARPOL) tão rapidamente quanto possível.\n\n(18) Devido à natureza transfronteiras da acidificação e da poluição pelo ozono, a Comissão deve continuar a analisar a necessidade de desenvolver medidas comunitárias harmonizadas, sem prejuízo do artigo 18.º da Directiva 96/61/CE do Conselho, de 24 de Setembro de 1996, relativa à prevenção e controlo integrados da poluição ([^9^](http://publications.europa.eu/resource/cellar/aa967792-b59c-4de7-b298-9132ca5acb8d.0018.03/DOC_1#E0009)), com o objectivo de evitar a distorção da concorrência e tendo em conta o equilíbrio entre os custos e os benefícios das acções.\n\n(19) O disposto na presente directiva é aplicável sem prejuízo da legislação comunitária que regulamenta as emissões dos poluentes em causa provenientes de fontes específicas e do disposto na Directiva 96/61/CE no que diz respeito aos valores-limite de emissão e à utilização da melhor tecnologia disponível.\n\n(20) De modo a avaliar os progressos efectuados no cumprimento dos valores-limite de emissão, devem elaborar-se inventários das emissões em conformidade com as metodologias internacionalmente aceites, a apresentar com regularidade à Comissão e à Agência Europeia do Ambiente (AEA).\n\n(21) Os Estados-Membros devem determinar o regime das sanções aplicáveis às violações do disposto na presente directiva e assegurar a sua aplicação. As sanções devem ser eficazes, proporcionadas e dissuasivas.\n\n(22) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^10^](http://publications.europa.eu/resource/cellar/aa967792-b59c-4de7-b298-9132ca5acb8d.0018.03/DOC_1#E0010)).\n\n(23) A Comissão e os Estados-Membros devem cooperar a nível internacional a fim de alcançar os objectivos da presente directiva,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "0bf9603c6b40d58e": {
+   "fragment_id": "Artigo 7.º — Inventários e previsões de emissões",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Inventários e previsões de emissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Inventários e previsões de emissões\n\n1. Os Estados-Membros devem elaborar e actualizar anualmente os inventários das emissões, bem como as previsões das emissões dos poluentes em 2010 a que se refere o artigo 4.º\n\n2. Os Estados-Membros devem elaborar os seus inventários e previsões de emissões recorrendo às metodologias especificadas no anexo III.\n\n3. A Comissão, assistida pela AEA, deve elaborar, em cooperação com os Estados-Membros e com base nas informações por estes fornecidas, inventários e previsões dos poluentes referidos no artigo 4.º Os referidos inventários e previsões serão tornados públicos.\n\n4. Qualquer actualização das metodologias a utilizar em conformidade com o anexo III deve ser aprovada pela Comissão. Essas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, nomeadamente completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 13.º."
+  },
+  "8672d8f939456b6c": {
+   "fragment_id": "Artigo 9.º — Relatórios da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Relatórios da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Relatórios da Comissão\n\n1. Em 2004 e 2008, a Comissão deve apresentar ao Parlamento Europeu e ao Conselho relatórios sobre os progressos efectuados na aplicação dos valores-limite nacionais de emissão fixados no anexo I, sobre a medida em que os objectivos ambientais intermédios estabelecidos no artigo 5.º serão cumpridos até 2010 e em que os objectivos de longo prazo estabelecidos no artigo 1.º poderão ser cumpridos até 2020. Os relatórios em causa devem incluir uma análise económica, nomeadamente uma avaliação da relação custo-eficácia, dos benefícios, dos custos e benefícios marginais e do impacto socioeconómico da aplicação dos valores-limite nacionais de emissão em determinados Estados-Membros e sectores. Devem incluir também uma análise às limitações do âmbito da presente directiva tal como definido no artigo 2.º e uma avaliação da eventual necessidade de novas reduções de emissões com vista a cumprir os objectivos ambientais intermédios estabelecidos no artigo 5.º Os referidos relatórios devem ter em conta os relatórios elaborados pelos Estados-Membros em conformidade com os n.^os^ 1 e 2 do artigo 8.º, bem como, entre outros:\n\na) Eventual aprovação de nova legislação comunitária que fixe limites de emissão e normas de produto para as fontes relevantes de emissão;\n\nb) Desenvolvimentos das melhores técnicas disponíveis no quadro do intercâmbio de informações previsto no artigo 16.º da Directiva 96/61/CE;\n\nc) Os objectivos de redução das emissões para 2008 referentes às emissões de dióxido de enxofre e óxidos de azoto das grandes instalações de combustão actualmente existentes, comunicados pelos Estados-Membros por força da Directiva 2001/80/CE do Parlamento Europeu e do Conselho, de 23 de Outubro de 2001, relativa à limitação das emissões para a atmosfera de certos poluentes provenientes de grandes instalações de combustão ([^11^](http://publications.europa.eu/resource/cellar/aa967792-b59c-4de7-b298-9132ca5acb8d.0018.03/DOC_1#E0011));\n\nd) As reduções e os compromissos de redução das emissões de países terceiros, com particular incidência nas medidas a adoptar nos países candidatos à adesão, e a possibilidade de mais reduções de emissões nas regiões limítrofes da Comunidade;\n\ne) Qualquer nova legislação comunitária e regulamentação internacional no domínio das emissões de navios e de aeronaves;\n\nf) O desenvolvimento dos transportes e os objectivos para controlo das respectivas emissões;\n\ng) Os progressos no domínio da agricultura, projecções no domínio da pecuária e melhoramentos nos métodos de redução das emissões no sector agrícola;\n\nh) Quaisquer alterações importantes no mercado de fornecimento de energia num Estado-Membro e novas previsões que tenham em conta as acções adoptadas pelos Estados-Membros para cumprir as suas obrigações internacionais no que respeita às alterações climáticas.\n\ni) Uma avaliação das excedências actuais e previstas das cargas críticas e dos valores-guia da OMS relativos ao ozono ao nível do solo;\n\nj) A possibilidade de identificação de um objectivo intermédio para a redução da eutrofização dos solos;\n\nk) Os novos dados científicos e técnicos, incluindo uma avaliação das incertezas quanto:\n\ni) aos inventários nacionais de emissões;\n\nii) aos dados referentes aos insumos;\n\niii) ao conhecimento de transportes e depósitos transfronteiriços de poluentes;\n\niv) aos níveis e cargas críticos;\n\nv) ao modelo utilizado;\n\nl) Se é necessário evitar custos excessivos para um Estado-Membro individualmente;\n\nm) A comparação de cálculos a partir de modelos com observações da acidificação, eutrofização e ozono ao nível do solo tendo em vista a melhoria de modelos;\n\nn) Uma eventual utilização, sempre que possível, de instrumentos económicos adequados.\n\n2. Em 2012, a Comissão deve apresentar ao Parlamento Europeu e ao Conselho um relatório sobre o cumprimento dos valores-limite fixados no anexo I, bem como sobre os progressos efectuados no que respeita aos objectivos ambientais intermédios referidos no artigo 5.º e objectivos a longo prazo estabelecidos no artigo 1.º O referido relatório deve ter em conta os relatórios elaborados pelos Estados-Membros em conformidade com os n.^os^ 1 e 2 do artigo 8.º, bem como os aspectos referidos nas alíneas a) a n) do n.º 1 do presente artigo."
+  },
+  "a9f2c0ef45e9547e": {
+   "fragment_id": "Artigo 13.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Comité\n\n1. A Comissão será assistida pelo Comité instituído pelo artigo 12.º da Directiva 96/62/CE, a seguir designado «Comité».\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.º da mesma.\n\nO período previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "c155e524073442a6": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| País | SO2 Quilotoneladas | NOx Quilotoneladas | COV Quilotoneladas | NH3 Quilotoneladas |\n| --- | --- | --- | --- | --- |\n| Bélgica | 99 | 176 | 139 | 74 |\n| Bulgária [(^2^)](http://publications.europa.eu/resource/cellar/aa967792-b59c-4de7-b298-9132ca5acb8d.0018.03/DOC_1#E0013) | 836 | 247 | 175 | 108 |\n| República Checa | 265 | 286 | 220 | 80 |\n| Dinamarca | 55 | 127 | 85 | 69 |\n| Alemanha | 520 | 1 051 | 995 | 550 |\n| Estónia | 100 | 60 | 49 | 29 |\n| Grécia | 523 | 344 | 261 | 73 |\n| Espanha | 746 | 847 | 662 | 353 |\n| França | 375 | 810 | 1 050 | 780 |\n| Irlanda | 42 | 65 | 55 | 116 |\n| Itália | 475 | 990 | 1 159 | 419 |\n| Chipre | 39 | 23 | 14 | 09 |\n| Letónia | 101 | 61 | 136 | 44 |\n| Lituânia | 145 | 110 | 92 | 84 |\n| Luxemburgo | 4 | 11 | 9 | 7 |\n| Hungria | 500 | 198 | 137 | 90 |\n| Malta | 9 | 8 | 12 | 3 |\n| Países Baixos | 50 | 260 | 185 | 128 |\n| Áustria | 39 | 103 | 159 | 66 |\n| Polónia | 1 397 | 879 | 800 | 468 |\n| Portugal | 160 | 250 | 180 | 90 |\n| Roménia [(^2^)](http://publications.europa.eu/resource/cellar/aa967792-b59c-4de7-b298-9132ca5acb8d.0018.03/DOC_1#E0013) | 918 | 437 | 523 | 210 |\n| Eslovénia | 27 | 45 | 40 | 20 |\n| Eslováquia | 110 | 130 | 140 | 39 |\n| Finlândia | 110 | 170 | 130 | 31 |\n| Suécia | 67 | 148 | 241 | 57 |\n| Reino Unido | 585 | 1 167 | 1 200 | 297 |\n| CE 27 | 8 297 | 9 003 | 8 848 | 4 294 |\n| (^1^)Estes valores-limite nacionais de emissão foram definidos para responder em termos gerais aos objectivos ambientais intermédios constantes do artigo 5.º. Espera-se que a observância destes objectivos resulte numa redução da eutrofização dos solos tal que a superfície comunitária com deposições de nutrientes azotados superiores às cargas críticas seja reduzida em cerca de 30 % relativamente à situação registada em 1990. (^2^)Estes valores-limite nacionais de emissão são temporários e não afectam a revisão a que se refere o artigo 10.º da presente directiva, que deverá estar concluída em 2008. |  |  |  |  |"
+  },
+  "17987a3a7c83cb5d": {
+   "fragment_id": "Valores-limite de emissão aplicáveis ao SO2, NOx e COV",
+   "type": "divisao",
+   "heading": "Valores-limite de emissão aplicáveis ao SO2, NOx e COV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Valores-limite de emissão aplicáveis ao SO2, NOx e COV\n\n|  | SO2 Quilotoneladas | NOx Quilotoneladas | COV Quilotoneladas |\n| --- | --- | --- | --- |\n| CE 27 [(^1^)](http://publications.europa.eu/resource/cellar/aa967792-b59c-4de7-b298-9132ca5acb8d.0018.03/DOC_1#E0014) | 7 832 | 8 180 | 7 585 |\n| (^1^)Estes valores-limite de emissão são temporários e não afectam a revisão a que se refere o artigo 10.o da presente directiva, que deverá estar concluída em 2008. |  |  |  |\n\nEstes valores-limite de emissão foram concebidos tendo por objectivo respeitar os objectivos ambientais intermédios estabelecidos no artigo 5.º para toda a Comunidade até 2010."
+  },
+  "92adb6f178a0b526": {
+   "fragment_id": "Metodologias para a elaboração dos inventários e projecções de emissões",
+   "type": "divisao",
+   "heading": "Metodologias para a elaboração dos inventários e projecções de emissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Metodologias para a elaboração dos inventários e projecções de emissões\n\nOs Estados-Membros elaborarão inventários e projecções de emissões por recurso às metodologias estabelecidas pela Convenção sobre a Poluição Atmosférica Transfronteiras a Longa Distância, devendo, para tal, utilizar o guia conjunto EMEP/CORINAIR ([^12^](http://publications.europa.eu/resource/cellar/aa967792-b59c-4de7-b298-9132ca5acb8d.0018.03/DOC_1#E0015)) na preparação desses inventários e projecções.\n\n---"
+  },
+  "6b10952c36ccaaa7": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/aa967792-b59c-4de7-b298-9132ca5acb8d.0018.03/DOC_1#src.E0001)) JO C 56 de 29.2.2000, p. 54.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/aa967792-b59c-4de7-b298-9132ca5acb8d.0018.03/DOC_1#src.E0002)) JO C 51 de 23.2.2000, p. 11.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/aa967792-b59c-4de7-b298-9132ca5acb8d.0018.03/DOC_1#src.E0003)) Parecer emitido em 14 de Junho de 2000 (JO C 317 de 6.11.2000, p. 35).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/aa967792-b59c-4de7-b298-9132ca5acb8d.0018.03/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 15 de Março de 2000 (JO C 377 de 29.12.2000, p. 159), posição comum do Conselho de 7 de Novembro de 2000 (JO C 375 de 28.12.2000, p. 1) e decisão do Parlamento Europeu de 14 de Março de 2001 (ainda não publicada no Jornal Oficial). Decisão do Parlamento Europeu de 20 de Setembro de 2001 e decisão do Conselho de 27 de Setembro de 2001.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/aa967792-b59c-4de7-b298-9132ca5acb8d.0018.03/DOC_1#src.E0005)) JO C 138 de 17.5.1993, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/aa967792-b59c-4de7-b298-9132ca5acb8d.0018.03/DOC_1#src.E0006)) JO L 275 de 10.10.1998, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/aa967792-b59c-4de7-b298-9132ca5acb8d.0018.03/DOC_1#src.E0007)) JO L 297 de 13.10.1992, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/aa967792-b59c-4de7-b298-9132ca5acb8d.0018.03/DOC_1#src.E0008)) JO L 121 de 11.5.1999, p. 13.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/aa967792-b59c-4de7-b298-9132ca5acb8d.0018.03/DOC_1#src.E0009)) JO L 257 de 10.10.1996, p. 26.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/aa967792-b59c-4de7-b298-9132ca5acb8d.0018.03/DOC_1#src.E0010)) JO L 184 de 17.7.1999, p. 23 (rectificação no JO L 269 de 19.10.1999, p. 45).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/aa967792-b59c-4de7-b298-9132ca5acb8d.0018.03/DOC_1#src.E0011)) Ver p. 1 do presente Jornal Oficial.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/aa967792-b59c-4de7-b298-9132ca5acb8d.0018.03/DOC_1#src.E0015)) Inventário de emissões aéreas da Agência Europeia do Ambiente."
+  },
+  "857b3d9304b6535d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Outubro de 2001\n\nrelativa ao estabelecimento de valores-limite nacionais de emissão de determinados poluentes atmosféricos\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 1 do seu artigo 175.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/73f53853-495e-457b-ac19-f9d904f43880.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/73f53853-495e-457b-ac19-f9d904f43880.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/73f53853-495e-457b-ac19-f9d904f43880.0018.03/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^4^](http://publications.europa.eu/resource/cellar/73f53853-495e-457b-ac19-f9d904f43880.0018.03/DOC_1#E0004)) à luz do projecto comum aprovado pelo Comité de Concilação em 2 de Agosto de 2001,\n\n(1) A abordagem global e a estratégia do Quinto Programa de Acção no domínio do Ambiente, tal como aprovadas pela Resolução do Conselho e dos representantes dos Governos dos Estados-Membros reunidos no Conselho, de 1 de Fevereiro de 1993, relativa a um programa comunitário de política e acção relacionado com o ambiente e o desenvolvimento sustentável ([^5^](http://publications.europa.eu/resource/cellar/73f53853-495e-457b-ac19-f9d904f43880.0018.03/DOC_1#E0005)), estabelecem o objectivo de não se excederem os níveis e cargas críticos de acidificação na Comunidade. O programa estipula que todas as pessoas devem ser protegidas de forma eficaz contra os riscos para a saúde decorrentes da poluição atmosférica e que os níveis de poluição autorizados devem ter em conta a protecção do ambiente. O programa prevê igualmente que os valores-guia estabelecidos pela Organização Mundial de Saúde (OMS) devem tornar-se obrigatórios na Comunidade.\n\n(2) Os Estados-Membros assinaram o Protocolo de Gotemburgo, de 1 de Dezembro de 1999, à Convenção de 1979 da Comissão Económica para a Europa das Nações Unidas (UNECE) sobre a Poluição Atmosférica Transfronteiras a Longa Distância, relativo à Redução da Acidificação, da Eutrofização e do Ozono Troposférico.\n\n(3) A Decisão n.º 2179/98/CE do Parlamento Europeu e do Conselho, de 24 de Setembro de 1998, relativa à revisão do programa da Comunidade Europeia de política e acção em matéria de ambiente e desenvolvimento sustentável — «Em direcção a um desenvolvimento sustentável» ([^6^](http://publications.europa.eu/resource/cellar/73f53853-495e-457b-ac19-f9d904f43880.0018.03/DOC_1#E0006)), especificou que deve conferir-se especial atenção à elaboração e aplicação de uma estratégia destinada a garantir que não sejam excedidas as cargas críticas na exposição a poluentes atmosféricos acidificantes, eutrofizantes e fotoquímicos.\n\n(4) A Directiva 92/72/CEE do Conselho, de 21 de Setembro de 1992, relativa à poluição atmosférica pelo ozono ([^7^](http://publications.europa.eu/resource/cellar/73f53853-495e-457b-ac19-f9d904f43880.0018.03/DOC_1#E0007)), estipula que a Comissão deve apresentar ao Conselho um relatório de avaliação da poluição fotoquímica na Comunidade, acompanhado das propostas que a Comissão considere adequadas para controlar a poluição atmosférica pelo ozono ao nível do solo e, se necessário, reduzir as emissões de substâncias precursoras do ozono.\n\n(5) Áreas consideráveis da Comunidade encontram-se expostas à deposição de substâncias acidificantes e eutrofizantes a níveis que apresentam efeitos nocivos no ambiente. Os valores-guia estabelecidos pela OMS para a protecção da saúde humana e da vegetação da poluição fotoquímica são substancialmente excedidos em todos os Estados-Membros.\n\n(6) Os excedentes das cargas críticas deverão, pois, ser gradualmente eliminados e os valores-guia respeitados.\n\n(7) Actualmente, não é tecnicamente viável alcançar os objectivos a longo prazo de eliminação dos efeitos nocivos da acidificação e de redução da exposição do homem e do ambiente ao ozono ao nível do solo a níveis conformes aos valores-guia estabelecidos pela OMS. Por consequência, é necessário estabelecer objectivos ambientais intermédios no que respeita à acidificação e poluição pelo ozono ao nível do solo, nos quais se baseiem as medidas para reduzir esse tipo de poluição.\n\n(8) Os referidos objectivos ambientais intermédios e as medidas adoptadas para atingi-los devem ter em conta a viabilidade técnica, bem como os custos e benefícios associados. Tais medidas devem assegurar a adequação custo-eficácia das acções adoptadas para a Comunidade no seu conjunto e deverão ter em conta a necessidade de evitar custos excessivos para os Estados-Membros encarados individualmente.\n\n(9) A poluição transfronteiras contribui para a acidificação, a eutrofização dos solos e a formação de ozono ao nível do solo, cuja redução implica a adopção de acções comunitárias concertadas.\n\n(10) A redução das emissões dos poluentes que causam a acidificação e a exposição ao ozono ao nível do solo permitirá também reduzir a eutrofização dos solos.\n\n(11) O estabelecimento, para cada Estado-Membro, de valores-limite aplicáveis às emissões de dióxido de enxofre, de óxidos de azoto, de compostos orgânicos voláteis e de amoníaco constitui uma forma rentável de satisfazer objectivos ambientais intermédios. Os referidos valores-limite de emissão proporcionarão à Comunidade e aos Estados-Membros a flexibilidade para determinar os meios de os cumprir.\n\n(12) Os Estados-Membros devem ser responsáveis pela aplicação de medidas destinadas a cumprir os valores-limite nacionais de emissão. Será necessário avaliar os progressos efectuados em matéria de cumprimento dos valores-limite de emissão. Por conseguinte, devem elaborar-se e comunicar-se à Comissão programas nacionais de redução das emissões, os quais devem incluir informações sobre as medidas adoptadas ou previstas para cumprir os valores-limite de emissão.\n\n(13) De acordo com o princípio da subsidiariedade previsto no artigo 5.º do Tratado, e tendo particularmente em conta o princípio da precaução, os objectivos da presente directiva, a saber a limitação das emissões de poluentes e de substâncias precursoras do ozono acidificantes e eutrofizantes, não podem ser suficientemente realizados pelos Estados-Membros devido à natureza transfronteiras da poluição e podem, pois, ser melhor alcançados ao nível comunitário. De acordo com o princípio da proporcionalidade, a presente directiva não excede o necessário para alcançar aquele objectivo.\n\n(14) É necessário analisar atempadamente os progressos efectuados pelos Estados-Membros tendo em vista o cumprimento dos valores-limite de emissão, bem como analisar até que ponto a implementação dos valores-limite é susceptível de permitir alcançar os objectivos ambientais intermédios no conjunto da Comunidade. Esta análise deverá igualmente ter em consideração os progressos científicos e técnicos, a evolução registada na legislação comunitária e na redução das emissões no exterior da Comunidade, com especial atenção aos progressos registados, designadamente, nos países candidatos à adesão. Na referida análise, a Comissão deve proceder a um estudo mais aprofundado dos custos e benefícios dos valores-limite de emissão, nomeadamente do binómio custo-eficácia, dos custos e benefícios marginais, do impacto socioeconómico e de qualquer impacto sobre a competitividade. A análise em causa deve também ter em conta as limitações do âmbito da presente directiva.\n\n(15) A Comissão deverá preparar para o efeito um relatório a apresentar ao Parlamento Europeu e ao Conselho e, se o considerar necessário, propor alterações adequadas à presente directiva tendo em conta os efeitos da legislação comunitária relevante que, designadamente, fixe limites de emissão e normas de produto para as fontes relevantes de emissão, bem como a regulamentação internacional relativa às emissões dos navios e das aeronaves.\n\n(16) O transporte marítimo contribui de maneira significativa para as emissões de dióxido de enxofre, de óxidos de azoto e também para a concentração e o depósito de poluentes atmosféricos na Comunidade, sendo por conseguinte necessário reduzir estas emissões. O n.º 3 do artigo 7.º da Directiva 1999/32/CE do Conselho, de 26 de Abril de 1999, relativa à redução do teor de enxofre de determinados combustíveis líquidos e que altera a Directiva 93/12/CEE ([^8^](http://publications.europa.eu/resource/cellar/73f53853-495e-457b-ac19-f9d904f43880.0018.03/DOC_1#E0008)), estabelece que a Comissão ponderará quais as medidas a tomar para reduzir o contributo para a acidificação da combustão dos combustíveis navais que não constam do n.º 3 do artigo 2.º daquela directiva.\n\n(17) Os Estados-Membros devem procurar ratificar o anexo VI da Convenção Internacional sobre a Poluição Marinha (MARPOL) tão rapidamente quanto possível.\n\n(18) Devido à natureza transfronteiras da acidificação e da poluição pelo ozono, a Comissão deve continuar a analisar a necessidade de desenvolver medidas comunitárias harmonizadas, sem prejuízo do artigo 18.º da Directiva 96/61/CE do Conselho, de 24 de Setembro de 1996, relativa à prevenção e controlo integrados da poluição ([^9^](http://publications.europa.eu/resource/cellar/73f53853-495e-457b-ac19-f9d904f43880.0018.03/DOC_1#E0009)), com o objectivo de evitar a distorção da concorrência e tendo em conta o equilíbrio entre os custos e os benefícios das acções.\n\n(19) O disposto na presente directiva é aplicável sem prejuízo da legislação comunitária que regulamenta as emissões dos poluentes em causa provenientes de fontes específicas e do disposto na Directiva 96/61/CE no que diz respeito aos valores-limite de emissão e à utilização da melhor tecnologia disponível.\n\n(20) De modo a avaliar os progressos efectuados no cumprimento dos valores-limite de emissão, devem elaborar-se inventários das emissões em conformidade com as metodologias internacionalmente aceites, a apresentar com regularidade à Comissão e à Agência Europeia do Ambiente (AEA).\n\n(21) Os Estados-Membros devem determinar o regime das sanções aplicáveis às violações do disposto na presente directiva e assegurar a sua aplicação. As sanções devem ser eficazes, proporcionadas e dissuasivas.\n\n(22) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^10^](http://publications.europa.eu/resource/cellar/73f53853-495e-457b-ac19-f9d904f43880.0018.03/DOC_1#E0010)).\n\n(23) A Comissão e os Estados-Membros devem cooperar a nível internacional a fim de alcançar os objectivos da presente directiva,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "807d418d9f6d4f63": {
+   "fragment_id": "Artigo 9.º — Relatórios da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Relatórios da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Relatórios da Comissão\n\n1. Em 2004 e 2008, a Comissão deve apresentar ao Parlamento Europeu e ao Conselho relatórios sobre os progressos efectuados na aplicação dos valores-limite nacionais de emissão fixados no anexo I, sobre a medida em que os objectivos ambientais intermédios estabelecidos no artigo 5.º serão cumpridos até 2010 e em que os objectivos de longo prazo estabelecidos no artigo 1.º poderão ser cumpridos até 2020. Os relatórios em causa devem incluir uma análise económica, nomeadamente uma avaliação da relação custo-eficácia, dos benefícios, dos custos e benefícios marginais e do impacto socioeconómico da aplicação dos valores-limite nacionais de emissão em determinados Estados-Membros e sectores. Devem incluir também uma análise às limitações do âmbito da presente directiva tal como definido no artigo 2.º e uma avaliação da eventual necessidade de novas reduções de emissões com vista a cumprir os objectivos ambientais intermédios estabelecidos no artigo 5.º Os referidos relatórios devem ter em conta os relatórios elaborados pelos Estados-Membros em conformidade com os n.^os^ 1 e 2 do artigo 8.º, bem como, entre outros:\n\na) Eventual aprovação de nova legislação comunitária que fixe limites de emissão e normas de produto para as fontes relevantes de emissão;\n\nb) Desenvolvimentos das melhores técnicas disponíveis no quadro do intercâmbio de informações previsto no artigo 16.º da Directiva 96/61/CE;\n\nc) Os objectivos de redução das emissões para 2008 referentes às emissões de dióxido de enxofre e óxidos de azoto das grandes instalações de combustão actualmente existentes, comunicados pelos Estados-Membros por força da Directiva 2001/80/CE do Parlamento Europeu e do Conselho, de 23 de Outubro de 2001, relativa à limitação das emissões para a atmosfera de certos poluentes provenientes de grandes instalações de combustão ([^11^](http://publications.europa.eu/resource/cellar/73f53853-495e-457b-ac19-f9d904f43880.0018.03/DOC_1#E0011));\n\nd) As reduções e os compromissos de redução das emissões de países terceiros, com particular incidência nas medidas a adoptar nos países candidatos à adesão, e a possibilidade de mais reduções de emissões nas regiões limítrofes da Comunidade;\n\ne) Qualquer nova legislação comunitária e regulamentação internacional no domínio das emissões de navios e de aeronaves;\n\nf) O desenvolvimento dos transportes e os objectivos para controlo das respectivas emissões;\n\ng) Os progressos no domínio da agricultura, projecções no domínio da pecuária e melhoramentos nos métodos de redução das emissões no sector agrícola;\n\nh) Quaisquer alterações importantes no mercado de fornecimento de energia num Estado-Membro e novas previsões que tenham em conta as acções adoptadas pelos Estados-Membros para cumprir as suas obrigações internacionais no que respeita às alterações climáticas.\n\ni) Uma avaliação das excedências actuais e previstas das cargas críticas e dos valores-guia da OMS relativos ao ozono ao nível do solo;\n\nj) A possibilidade de identificação de um objectivo intermédio para a redução da eutrofização dos solos;\n\nk) Os novos dados científicos e técnicos, incluindo uma avaliação das incertezas quanto:\n\ni) aos inventários nacionais de emissões;\n\nii) aos dados referentes aos insumos;\n\niii) ao conhecimento de transportes e depósitos transfronteiriços de poluentes;\n\niv) aos níveis e cargas críticos;\n\nv) ao modelo utilizado;\n\nl) Se é necessário evitar custos excessivos para um Estado-Membro individualmente;\n\nm) A comparação de cálculos a partir de modelos com observações da acidificação, eutrofização e ozono ao nível do solo tendo em vista a melhoria de modelos;\n\nn) Uma eventual utilização, sempre que possível, de instrumentos económicos adequados.\n\n2. Em 2012, a Comissão deve apresentar ao Parlamento Europeu e ao Conselho um relatório sobre o cumprimento dos valores-limite fixados no anexo I, bem como sobre os progressos efectuados no que respeita aos objectivos ambientais intermédios referidos no artigo 5.º e objectivos a longo prazo estabelecidos no artigo 1.º O referido relatório deve ter em conta os relatórios elaborados pelos Estados-Membros em conformidade com os n.^os^ 1 e 2 do artigo 8.º, bem como os aspectos referidos nas alíneas a) a n) do n.º 1 do presente artigo."
+  },
+  "1737f7a7bb1eafe3": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| País | SO2 Quilotoneladas | NOx Quilotoneladas | COV Quilotoneladas | NH3 Quilotoneladas |\n| --- | --- | --- | --- | --- |\n| Bélgica | 99 | 176 | 139 | 74 |\n| Bulgária [(^2^)](http://publications.europa.eu/resource/cellar/73f53853-495e-457b-ac19-f9d904f43880.0018.03/DOC_1#E0013) | 836 | 247 | 175 | 108 |\n| República Checa | 265 | 286 | 220 | 80 |\n| Dinamarca | 55 | 127 | 85 | 69 |\n| Alemanha | 520 | 1 051 | 995 | 550 |\n| Estónia | 100 | 60 | 49 | 29 |\n| Irlanda | 42 | 65 | 55 | 116 |\n| Grécia | 523 | 344 | 261 | 73 |\n| Espanha | 746 | 847 | 662 | 353 |\n| França | 375 | 810 | 1 050 | 780 |\n| Croácia [(^3^)](http://publications.europa.eu/resource/cellar/73f53853-495e-457b-ac19-f9d904f43880.0018.03/DOC_1#E0014) | 70 | 87 | 90 | 30 |\n| Itália | 475 | 990 | 1 159 | 419 |\n| Chipre | 39 | 23 | 14 | 9 |\n| Letónia | 101 | 61 | 136 | 44 |\n| Lituânia | 145 | 110 | 92 | 84 |\n| Luxemburgo | 4 | 11 | 9 | 7 |\n| Hungria | 500 | 198 | 137 | 90 |\n| Malta | 9 | 8 | 12 | 3 |\n| Países Baixos | 50 | 260 | 185 | 128 |\n| Áustria | 39 | 103 | 159 | 66 |\n| Polónia | 1 397 | 879 | 800 | 468 |\n| Portugal | 160 | 250 | 180 | 90 |\n| Roménia [(^2^)](http://publications.europa.eu/resource/cellar/73f53853-495e-457b-ac19-f9d904f43880.0018.03/DOC_1#E0013) | 918 | 437 | 523 | 210 |\n| Eslovénia | 27 | 45 | 40 | 20 |\n| Eslováquia | 110 | 130 | 140 | 39 |\n| Finlândia | 110 | 170 | 130 | 31 |\n| Suécia | 67 | 148 | 241 | 57 |\n| Reino Unido | 585 | 1 167 | 1 200 | 297 |\n| UE-28 | 8 367 | 9 090 | 8 938 | 4 324 |\n| (^1^)Estes valores-limite nacionais de emissão foram definidos para responder em termos gerais aos objetivos ambientais intermédios constantes do artigo 5.º. Espera-se que a observância destes objetivos resulte numa redução da eutrofização dos solos tal que a superfície da União com deposições de nutrientes azotados superiores às cargas críticas seja reduzida em cerca de 30 % relativamente à situação em 1990. (^2^)Estes valores-limite nacionais de emissão são temporários e não afetam a revisão a que se refere o artigo 10.º da presente diretiva, que deverá estar concluída em 2008. (^3^)Os valores-limite nacionais para a Croácia devem ser alcançados até à data da sua adesão à União. |  |  |  |  |"
+  },
+  "95f969df724c14f2": {
+   "fragment_id": "Valores-limite de emissão aplicáveis ao SO2, NOx e COV",
+   "type": "divisao",
+   "heading": "Valores-limite de emissão aplicáveis ao SO2, NOx e COV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Valores-limite de emissão aplicáveis ao SO2, NOx e COV\n\n|  | SO2 Quilotoneladas | NOx Quilotoneladas | COV Quilotoneladas |\n| --- | --- | --- | --- |\n| UE-28 [(^1^)](http://publications.europa.eu/resource/cellar/73f53853-495e-457b-ac19-f9d904f43880.0018.03/DOC_1#E0015) | 7 902 | 8 267 | 7 675 |\n| (^1^)Estes valores-limite de emissão são temporários e não afetam a revisão a que se refere o artigo 10.º da presente diretiva, que deverá estar concluída em 2008. |  |  |  |\n\nEstes valores-limite de emissão foram concebidos tendo por objectivo respeitar os objectivos ambientais intermédios estabelecidos no artigo 5.º para toda a Comunidade até 2010."
+  },
+  "bcb2dcdb647c9eaa": {
+   "fragment_id": "Metodologias para a elaboração dos inventários e projecções de emissões",
+   "type": "divisao",
+   "heading": "Metodologias para a elaboração dos inventários e projecções de emissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Metodologias para a elaboração dos inventários e projecções de emissões\n\nOs Estados-Membros elaborarão inventários e projecções de emissões por recurso às metodologias estabelecidas pela Convenção sobre a Poluição Atmosférica Transfronteiras a Longa Distância, devendo, para tal, utilizar o guia conjunto EMEP/CORINAIR ([^12^](http://publications.europa.eu/resource/cellar/73f53853-495e-457b-ac19-f9d904f43880.0018.03/DOC_1#E0016)) na preparação desses inventários e projecções.\n\n---"
+  },
+  "0d18e602ca6ff13a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/73f53853-495e-457b-ac19-f9d904f43880.0018.03/DOC_1#src.E0001)) JO C 56 de 29.2.2000, p. 54.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/73f53853-495e-457b-ac19-f9d904f43880.0018.03/DOC_1#src.E0002)) JO C 51 de 23.2.2000, p. 11.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/73f53853-495e-457b-ac19-f9d904f43880.0018.03/DOC_1#src.E0003)) Parecer emitido em 14 de Junho de 2000 (JO C 317 de 6.11.2000, p. 35).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/73f53853-495e-457b-ac19-f9d904f43880.0018.03/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 15 de Março de 2000 (JO C 377 de 29.12.2000, p. 159), posição comum do Conselho de 7 de Novembro de 2000 (JO C 375 de 28.12.2000, p. 1) e decisão do Parlamento Europeu de 14 de Março de 2001 (ainda não publicada no Jornal Oficial). Decisão do Parlamento Europeu de 20 de Setembro de 2001 e decisão do Conselho de 27 de Setembro de 2001.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/73f53853-495e-457b-ac19-f9d904f43880.0018.03/DOC_1#src.E0005)) JO C 138 de 17.5.1993, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/73f53853-495e-457b-ac19-f9d904f43880.0018.03/DOC_1#src.E0006)) JO L 275 de 10.10.1998, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/73f53853-495e-457b-ac19-f9d904f43880.0018.03/DOC_1#src.E0007)) JO L 297 de 13.10.1992, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/73f53853-495e-457b-ac19-f9d904f43880.0018.03/DOC_1#src.E0008)) JO L 121 de 11.5.1999, p. 13.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/73f53853-495e-457b-ac19-f9d904f43880.0018.03/DOC_1#src.E0009)) JO L 257 de 10.10.1996, p. 26.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/73f53853-495e-457b-ac19-f9d904f43880.0018.03/DOC_1#src.E0010)) JO L 184 de 17.7.1999, p. 23 (rectificação no JO L 269 de 19.10.1999, p. 45).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/73f53853-495e-457b-ac19-f9d904f43880.0018.03/DOC_1#src.E0011)) Ver p. 1 do presente Jornal Oficial.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/73f53853-495e-457b-ac19-f9d904f43880.0018.03/DOC_1#src.E0016)) Inventário de emissões aéreas da Agência Europeia do Ambiente."
+  },
+  "453e8fe4f1067d3c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Outubro de 2001\n\nrelativa ao estabelecimento de valores-limite nacionais de emissão de determinados poluentes atmosféricos"
+  },
+  "167d5a43a23382d3": {
+   "fragment_id": "Artigo 9.º — Relatórios da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Relatórios da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Relatórios da Comissão\n\n1. Em 2004 e 2008, a Comissão deve apresentar ao Parlamento Europeu e ao Conselho relatórios sobre os progressos efectuados na aplicação dos valores-limite nacionais de emissão fixados no anexo I, sobre a medida em que os objectivos ambientais intermédios estabelecidos no artigo 5.º serão cumpridos até 2010 e em que os objectivos de longo prazo estabelecidos no artigo 1.º poderão ser cumpridos até 2020. Os relatórios em causa devem incluir uma análise económica, nomeadamente uma avaliação da relação custo-eficácia, dos benefícios, dos custos e benefícios marginais e do impacto socioeconómico da aplicação dos valores-limite nacionais de emissão em determinados Estados-Membros e sectores. Devem incluir também uma análise às limitações do âmbito da presente directiva tal como definido no artigo 2.º e uma avaliação da eventual necessidade de novas reduções de emissões com vista a cumprir os objectivos ambientais intermédios estabelecidos no artigo 5.º Os referidos relatórios devem ter em conta os relatórios elaborados pelos Estados-Membros em conformidade com os n.^os^ 1 e 2 do artigo 8.º, bem como, entre outros:\n\na) Eventual aprovação de nova legislação comunitária que fixe limites de emissão e normas de produto para as fontes relevantes de emissão;\n\nb) Desenvolvimentos das melhores técnicas disponíveis no quadro do intercâmbio de informações previsto no artigo 16.º da Directiva 96/61/CE;\n\nc) Os objectivos de redução das emissões para 2008 referentes às emissões de dióxido de enxofre e óxidos de azoto das grandes instalações de combustão actualmente existentes, comunicados pelos Estados-Membros por força da Directiva 2001/80/CE do Parlamento Europeu e do Conselho, de 23 de Outubro de 2001, relativa à limitação das emissões para a atmosfera de certos poluentes provenientes de grandes instalações de combustão ([^1^](http://publications.europa.eu/resource/cellar/76ebdcc1-82af-4813-8bf3-7f95079cb211.0015.02/DOC_1#E0001));\n\nd) As reduções e os compromissos de redução das emissões de países terceiros, com particular incidência nas medidas a adoptar nos países candidatos à adesão, e a possibilidade de mais reduções de emissões nas regiões limítrofes da Comunidade;\n\ne) Qualquer nova legislação comunitária e regulamentação internacional no domínio das emissões de navios e de aeronaves;\n\nf) O desenvolvimento dos transportes e os objectivos para controlo das respectivas emissões;\n\ng) Os progressos no domínio da agricultura, projecções no domínio da pecuária e melhoramentos nos métodos de redução das emissões no sector agrícola;\n\nh) Quaisquer alterações importantes no mercado de fornecimento de energia num Estado-Membro e novas previsões que tenham em conta as acções adoptadas pelos Estados-Membros para cumprir as suas obrigações internacionais no que respeita às alterações climáticas.\n\ni) Uma avaliação das excedências actuais e previstas das cargas críticas e dos valores-guia da OMS relativos ao ozono ao nível do solo;\n\nj) A possibilidade de identificação de um objectivo intermédio para a redução da eutrofização dos solos;\n\nk) Os novos dados científicos e técnicos, incluindo uma avaliação das incertezas quanto:\n\ni) aos inventários nacionais de emissões;\n\nii) aos dados referentes aos insumos;\n\niii) ao conhecimento de transportes e depósitos transfronteiriços de poluentes;\n\niv) aos níveis e cargas críticos;\n\nv) ao modelo utilizado;\n\nl) Se é necessário evitar custos excessivos para um Estado-Membro individualmente;\n\nm) A comparação de cálculos a partir de modelos com observações da acidificação, eutrofização e ozono ao nível do solo tendo em vista a melhoria de modelos;\n\nn) Uma eventual utilização, sempre que possível, de instrumentos económicos adequados.\n\n2. Em 2012, a Comissão deve apresentar ao Parlamento Europeu e ao Conselho um relatório sobre o cumprimento dos valores-limite fixados no anexo I, bem como sobre os progressos efectuados no que respeita aos objectivos ambientais intermédios referidos no artigo 5.º e objectivos a longo prazo estabelecidos no artigo 1.º O referido relatório deve ter em conta os relatórios elaborados pelos Estados-Membros em conformidade com os n.^os^ 1 e 2 do artigo 8.º, bem como os aspectos referidos nas alíneas a) a n) do n.º 1 do presente artigo."
+  },
+  "be2eafe397292d42": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| País | SO2 Quilotoneladas | NOx Quilotoneladas | COV Quilotoneladas | NH3 Quilotoneladas |\n| --- | --- | --- | --- | --- |\n| Bélgica | 99 | 176 | 139 | 74 |\n| Bulgária [(^2^)](http://publications.europa.eu/resource/cellar/76ebdcc1-82af-4813-8bf3-7f95079cb211.0015.02/DOC_1#E0003) | 836 | 247 | 175 | 108 |\n| República Checa | 265 | 286 | 220 | 80 |\n| Dinamarca | 55 | 127 | 85 | 69 |\n| Alemanha | 520 | 1 051 | 995 | 550 |\n| Estónia | 100 | 60 | 49 | 29 |\n| Irlanda | 42 | 65 | 55 | 116 |\n| Grécia | 523 | 344 | 261 | 73 |\n| Espanha | 746 | 847 | 662 | 353 |\n| França | 375 | 810 | 1 050 | 780 |\n| Croácia [(^3^)](http://publications.europa.eu/resource/cellar/76ebdcc1-82af-4813-8bf3-7f95079cb211.0015.02/DOC_1#E0004) | 70 | 87 | 90 | 30 |\n| Itália | 475 | 990 | 1 159 | 419 |\n| Chipre | 39 | 23 | 14 | 9 |\n| Letónia | 101 | 61 | 136 | 44 |\n| Lituânia | 145 | 110 | 92 | 84 |\n| Luxemburgo | 4 | 11 | 9 | 7 |\n| Hungria | 500 | 198 | 137 | 90 |\n| Malta | 9 | 8 | 12 | 3 |\n| Países Baixos | 50 | 260 | 185 | 128 |\n| Áustria | 39 | 103 | 159 | 66 |\n| Polónia | 1 397 | 879 | 800 | 468 |\n| Portugal | 160 | 250 | 180 | 90 |\n| Roménia [(^2^)](http://publications.europa.eu/resource/cellar/76ebdcc1-82af-4813-8bf3-7f95079cb211.0015.02/DOC_1#E0003) | 918 | 437 | 523 | 210 |\n| Eslovénia | 27 | 45 | 40 | 20 |\n| Eslováquia | 110 | 130 | 140 | 39 |\n| Finlândia | 110 | 170 | 130 | 31 |\n| Suécia | 67 | 148 | 241 | 57 |\n| Reino Unido | 585 | 1 167 | 1 200 | 297 |\n| UE-28 | 8 367 | 9 090 | 8 938 | 4 324 |\n| (^1^)Estes valores-limite nacionais de emissão foram definidos para responder em termos gerais aos objetivos ambientais intermédios constantes do artigo 5.º. Espera-se que a observância destes objetivos resulte numa redução da eutrofização dos solos tal que a superfície da União com deposições de nutrientes azotados superiores às cargas críticas seja reduzida em cerca de 30 % relativamente à situação em 1990. (^2^)Estes valores-limite nacionais de emissão são temporários e não afetam a revisão a que se refere o artigo 10.º da presente diretiva, que deverá estar concluída em 2008. (^3^)Os valores-limite nacionais para a Croácia devem ser alcançados até à data da sua adesão à União. |  |  |  |  |"
+  },
+  "a1d2691912792a35": {
+   "fragment_id": "Valores-limite de emissão aplicáveis ao SO2, NOx e COV",
+   "type": "divisao",
+   "heading": "Valores-limite de emissão aplicáveis ao SO2, NOx e COV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Valores-limite de emissão aplicáveis ao SO2, NOx e COV\n\n|  | SO2 Quilotoneladas | NOx Quilotoneladas | COV Quilotoneladas |\n| --- | --- | --- | --- |\n| UE-28 [(^1^)](http://publications.europa.eu/resource/cellar/76ebdcc1-82af-4813-8bf3-7f95079cb211.0015.02/DOC_1#E0005) | 7 902 | 8 267 | 7 675 |\n| (^1^)Estes valores-limite de emissão são temporários e não afetam a revisão a que se refere o artigo 10.º da presente diretiva, que deverá estar concluída em 2008. |  |  |  |\n\nEstes valores-limite de emissão foram concebidos tendo por objectivo respeitar os objectivos ambientais intermédios estabelecidos no artigo 5.º para toda a Comunidade até 2010.\n\n---"
+  },
+  "5cfe0856264852a9": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/76ebdcc1-82af-4813-8bf3-7f95079cb211.0015.02/DOC_1#src.E0001)) Ver p. 1 do presente Jornal Oficial."
+  },
+  "04f968890c2c53fe": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| País | SO2 Quilotoneladas | NOx Quilotoneladas | COV Quilotoneladas | NH3 Quilotoneladas |\n| --- | --- | --- | --- | --- |\n| Bélgica | 99 | 176 | 139 | 74 |\n| Bulgária [(^2^)](http://publications.europa.eu/resource/cellar/91f1aa40-716f-4f86-b3f9-cd279ed82272.0015.02/DOC_1#E0003) | 836 | 247 | 175 | 108 |\n| República Checa | 265 | 286 | 220 | 80 |\n| Dinamarca | 55 | 127 | 85 | 69 |\n| Alemanha | 520 | 1 051 | 995 | 550 |\n| Estónia | 100 | 60 | 49 | 29 |\n| Irlanda | 42 | 65 | 55 | 116 |\n| Grécia | 523 | 344 | 261 | 73 |\n| Espanha | 746 | 847 | 662 | 353 |\n| França | 375 | 810 | 1 050 | 780 |\n| Croácia [(^3^)](http://publications.europa.eu/resource/cellar/91f1aa40-716f-4f86-b3f9-cd279ed82272.0015.02/DOC_1#E0004) | 70 | 87 | 90 | 30 |\n| Itália | 475 | 990 | 1 159 | 419 |\n| Chipre | 39 | 23 | 14 | 9 |\n| Letónia | 101 | 61 | 136 | 44 |\n| Lituânia | 145 | 110 | 92 | 84 |\n| Luxemburgo | 4 | 11 | 9 | 7 |\n| Hungria | 500 | 198 | 137 | 90 |\n| Malta | 9 | 8 | 12 | 3 |\n| Países Baixos | 50 | 260 | 185 | 128 |\n| Áustria | 39 | 103 | 159 | 66 |\n| Polónia | 1 397 | 879 | 800 | 468 |\n| Portugal | 160 | 250 | 180 | 90 |\n| Roménia [(^2^)](http://publications.europa.eu/resource/cellar/91f1aa40-716f-4f86-b3f9-cd279ed82272.0015.02/DOC_1#E0003) | 918 | 437 | 523 | 210 |\n| Eslovénia | 27 | 45 | 40 | 20 |\n| Eslováquia | 110 | 130 | 140 | 39 |\n| Finlândia | 110 | 170 | 130 | 31 |\n| Suécia | 67 | 148 | 241 | 57 |\n| Reino Unido | 585 | 1 167 | 1 200 | 297 |\n| UE-28 | 8 367 | 9 090 | 8 938 | 4 324 |\n| (^1^)Estes valores-limite nacionais de emissão foram definidos para responder em termos gerais aos objetivos ambientais intermédios constantes do artigo 5.º. Espera-se que a observância destes objetivos resulte numa redução da eutrofização dos solos tal que a superfície da União com deposições de nutrientes azotados superiores às cargas críticas seja reduzida em cerca de 30 % relativamente à situação em 1990. (^2^)Estes valores-limite nacionais de emissão são temporários e não afetam a revisão a que se refere o artigo 10.º da presente diretiva, que deverá estar concluída em 2008. (^3^)Os valores-limite nacionais para a Croácia devem ser alcançados até à data da sua adesão à União. |  |  |  |  |"
+  }
+ }
+}

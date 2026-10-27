@@ -1,0 +1,918 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32003R1358:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R1358-20130701",
+ "dre_path": null,
+ "source_lastmod": "2013-07-01",
+ "versions": [
+  {
+   "date": "2003-08-01",
+   "future": false,
+   "celex": "32003R1358",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "937bab606da4cc98",
+    "2ebfb79a0f5920de",
+    "fa6b8b4622b622d2",
+    "b34fc78f5749bd42",
+    "48db80993ca3cf95",
+    "4ff5bfe70062a878",
+    "88905231709c9ab8",
+    "c4b3fac0c5a704f8",
+    "c2729251bbd024e6",
+    "7ac716416c09c17e"
+   ]
+  },
+  {
+   "date": "2005-04-29",
+   "future": false,
+   "celex": "02003R1358-20050429",
+   "acts": [
+    {
+     "id": "eu:celex:32005R0546:por",
+     "title": "REGULAMENTO (CE) N. o 546/2005 DA COMISSÃO de 8 de Abril de 2005",
+     "published": null,
+     "celex": "32005R0546"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 5.º",
+    "Adita ANEXO I",
+    "Adita CATEGORIAS DE AEROPORTOS, LISTAS DOS AEROPORTOS COMUNITÁRIOS E DERROGAÇÕES",
+    "Adita I. Categorias de aeroportos e períodos de referência considerados",
+    "Adita II. Derrogações permitidas",
+    "Adita III. Lista dos aeroportos comunitários abrangidos e derrogações",
+    "Adita ANEXO II",
+    "Adita DESCRIÇÃO DOS FICHEIROS DE DADOS E DO SUPORTE DE TRANSMISSÃO",
+    "Adita Lista e descrição dos campos a utilizar para cada quadro do regulamento:",
+    "Adita Formato e dimensão dos campos:",
+    "Adita ANEXO III",
+    "Adita Alterações aos anexos do Regulamento (CE) n.º 437/2003",
+    "Adita «ANEXO I",
+    "Adita ESTRUTURA DO REGISTO PARA A TRANSMISSÃO DE DADOS AO EUROSTAT",
+    "Adita A. Quadro sobre as etapas de voo [dados mensais ([^3^](http://publications.europa.eu/resource/cellar/58209406-1461-44f7-b6d7-a1be286a13ac.0016.03/DOC_1#E0003))]",
+    "Adita B. Quadro sobre origem/destino do voo [dados mensais ([^4^](http://publications.europa.eu/resource/cellar/58209406-1461-44f7-b6d7-a1be286a13ac.0016.03/DOC_1#E0004))]",
+    "Adita C. Quadro sobre os aeroportos (pelo menos, dados anuais)",
+    "Adita CÓDIGOS",
+    "Adita 1. País declarante",
+    "Adita 2. Período de referência",
+    "Adita 3. Aeroportos",
+    "Adita 4. Informações sobre a transportadora aérea",
+    "Adita 5. Tipo de aeronave",
+    "Adita DEFINIÇÕES E ESTATÍSTICAS A DECLARAR",
+    "Adita I. DEFINIÇÕES E VARIÁVEIS DE INTERESSE GERAL",
+    "Adita 1. Aeroporto comunitário (artigos 1.º e 3.º )",
+    "Adita 2. Voo estatal (artigo 1.º e quadro C1)",
+    "Adita 3. Unidade-passageiro (n.^os^ 2, 4 e 5 do artigo 3.º )",
+    "Adita 4. Serviços comerciais aéreos (artigo 1.º e quadros A1, B1 e C1)",
+    "Adita 5. Serviços de transporte aéreo regulares (quadros A1 e B1)",
+    "Adita 6. Serviços de transporte aéreo não regulares (quadros A1 e B1)",
+    "Adita 7. Serviços de transporte aéreo de passageiros (quadros A1 e B1)",
+    "Adita 8. Serviços polivalentes de carga e correio (quadros A1 e B1)",
+    "Adita 9. Transportadora aérea (Operador de transporte aéreo comercial) (quadros A1, B1 e C1)",
+    "Adita II. DEFINIÇÕES E VARIÁVEIS REFERENTES AO QUADRO A1 (ETAPAS DE VOO)",
+    "Adita 10. Etapa de voo (quadro A1)",
+    "Adita 11. Passageiros a bordo (quadro A1)",
+    "Adita 12. Carga e correio a bordo (quadro A1)",
+    "Adita 13. Voo comercial (quadro A1)",
+    "Adita 14. Lugares de passageiro disponíveis (quadro A1)",
+    "Adita III. DEFINIÇÕES E VARIÁVEIS REFERENTES AO QUADRO B1 (ORIGEM E DESTINO DO VOO) E AO QUADRO C1 (AEROPORTOS)",
+    "Adita 15. Origem e destino do voo (quadro B1)",
+    "Adita 16. Passageiros transportados (quadros B1 e C1)",
+    "Adita 17. Carga e correio carregados ou descarregados (quadros B1 e C1)",
+    "Adita 18. Passageiros em trânsito directo (quadro C1)",
+    "Adita 19. Total dos movimentos de aeronaves comerciais (quadro C1)",
+    "Adita 20. Total dos movimentos de aeronaves (quadro C1)",
+    "Adita Notas",
+    "Suprime ANEXO I — CATEGORIAS DE AEROPORTOS, LISTAS DOS AEROPORTOS COMUNITÁRIOS E DERROGAÇÕES",
+    "Suprime ANEXO II — DESCRIÇÃO DOS FICHEIROS DE DADOS E DO SUPORTE DE TRANSMISSÃO",
+    "Suprime ANEXO III — Alterações aos anexos do Regulamento (CE) n.o 437/2003",
+    "Suprime ANEXO II — DEFINIÇÕES E ESTATÍSTICAS A DECLARAR"
+   ],
+   "fragments": [
+    "de4fb0d52b706fdf",
+    "4663f37b3c172ca8",
+    "4e854d3616a26da7",
+    "143b160f6a7f76fa",
+    "f945d50e664cce14",
+    "ac316143b28879b8",
+    "d664376e2a8dcecd",
+    "496f8271010d954c",
+    "05fc2b49406ad5c4",
+    "223055e6544802cc",
+    "bdd759c1f350de69",
+    "852174729551523b",
+    "bae38d57067d1d65",
+    "a70e82c625e6fd7e",
+    "b9b1e43a6fd4bbc0",
+    "720af75c92791b10",
+    "d425ba970958bc0a",
+    "f5a44b04acdf4fb3",
+    "0c3fdc73195439f4",
+    "f442177530893c53",
+    "1fe02d050ef3ae8f",
+    "64c82115ce746833",
+    "8da4e80438b8ad3a",
+    "cffad13810ca7c7b",
+    "ccf059dd05352008",
+    "4ee03155045d7616",
+    "24e647424749a8a0",
+    "43a5e7d401dcc992",
+    "852174729551523b",
+    "72226cf05500f904",
+    "74e420fba9747816",
+    "cbe16eba26bda31b",
+    "0640fc2452827081",
+    "a265253fa1225194",
+    "b012ea7053f06477",
+    "18f545376d2124e7",
+    "324ff1cd7b6de4fe",
+    "4bf19f885fb7f1e1",
+    "91f2652951b07d9b",
+    "498f555c4532fcab",
+    "fca78f23f68bd8bb",
+    "5cd81c5f269cc72e",
+    "b8e109f88f345294",
+    "2fff963154b0186e",
+    "0777c68e2501ece6",
+    "c87da777cc28b8a3",
+    "67f26413cd751e14",
+    "3c77af7642043e76",
+    "aaca4e454d3d00a4",
+    "c808127464eebbef",
+    "5b87c543c8de6113",
+    "61c960d8d3e51953",
+    "6d4623bb6dad746e",
+    "68106522649a9384"
+   ]
+  },
+  {
+   "date": "2007-03-09",
+   "future": false,
+   "celex": "02003R1358-20070309",
+   "acts": [
+    {
+     "id": "eu:celex:32006R1792:por",
+     "title": "M2",
+     "published": null,
+     "celex": "32006R1792"
+    },
+    {
+     "id": "eu:celex:32007R0158:por",
+     "title": "REGULAMENTO (CE) N. o 158/2007 DA COMISSÃO de 16 de Fevereiro de 2007",
+     "published": null,
+     "celex": "32007R0158"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera III. Lista dos aeroportos comunitários abrangidos e derrogações",
+    "Altera C. Quadro sobre os aeroportos (pelo menos, dados anuais)",
+    "Altera Notas",
+    "Adita A. Quadro sobre as etapas de voo [dados mensais ([^3^](http://publications.europa.eu/resource/cellar/666f45b5-c2e2-4f8b-bac2-1e191bf31467.0017.03/DOC_1#E0003))]",
+    "Adita B. Quadro sobre origem/destino do voo [dados mensais [(3)](http://publications.europa.eu/resource/cellar/666f45b5-c2e2-4f8b-bac2-1e191bf31467.0017.03/DOC_1#E0003) ]",
+    "Suprime A. Quadro sobre as etapas de voo [dados mensais ([^3^](http://publications.europa.eu/resource/cellar/58209406-1461-44f7-b6d7-a1be286a13ac.0016.03/DOC_1#E0003))]",
+    "Suprime B. Quadro sobre origem/destino do voo [dados mensais ([^4^](http://publications.europa.eu/resource/cellar/58209406-1461-44f7-b6d7-a1be286a13ac.0016.03/DOC_1#E0004))]"
+   ],
+   "fragments": [
+    "3539611da64d8f0d",
+    "4663f37b3c172ca8",
+    "4e854d3616a26da7",
+    "143b160f6a7f76fa",
+    "f945d50e664cce14",
+    "ac316143b28879b8",
+    "d664376e2a8dcecd",
+    "496f8271010d954c",
+    "05fc2b49406ad5c4",
+    "223055e6544802cc",
+    "69cc4205ecae1653",
+    "852174729551523b",
+    "bae38d57067d1d65",
+    "a70e82c625e6fd7e",
+    "b9b1e43a6fd4bbc0",
+    "720af75c92791b10",
+    "d425ba970958bc0a",
+    "f5a44b04acdf4fb3",
+    "0c3fdc73195439f4",
+    "cc74c3947ad5d2e2",
+    "007cbd451fc92a67",
+    "608cf4ec7088ebf0",
+    "8da4e80438b8ad3a",
+    "cffad13810ca7c7b",
+    "ccf059dd05352008",
+    "4ee03155045d7616",
+    "24e647424749a8a0",
+    "43a5e7d401dcc992",
+    "852174729551523b",
+    "72226cf05500f904",
+    "74e420fba9747816",
+    "cbe16eba26bda31b",
+    "0640fc2452827081",
+    "a265253fa1225194",
+    "b012ea7053f06477",
+    "18f545376d2124e7",
+    "324ff1cd7b6de4fe",
+    "4bf19f885fb7f1e1",
+    "91f2652951b07d9b",
+    "498f555c4532fcab",
+    "fca78f23f68bd8bb",
+    "5cd81c5f269cc72e",
+    "b8e109f88f345294",
+    "2fff963154b0186e",
+    "0777c68e2501ece6",
+    "c87da777cc28b8a3",
+    "67f26413cd751e14",
+    "3c77af7642043e76",
+    "aaca4e454d3d00a4",
+    "c808127464eebbef",
+    "5b87c543c8de6113",
+    "61c960d8d3e51953",
+    "6d4623bb6dad746e",
+    "1066fe9319823dc8"
+   ]
+  },
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "02003R1358-20130701",
+   "acts": [
+    {
+     "id": "eu:celex:32013R0519:por",
+     "title": "REGULAMENTO (UE) N. o 519/2013 DA COMISSÃO de 21 de fevereiro de 2013",
+     "published": null,
+     "celex": "32013R0519"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera III. Lista dos aeroportos comunitários abrangidos e derrogações",
+    "Altera C. Quadro sobre os aeroportos (pelo menos, dados anuais)",
+    "Altera Notas",
+    "Adita A. Quadro sobre as etapas de voo [dados mensais ([^3^](http://publications.europa.eu/resource/cellar/88bdacbf-e34e-414d-b2ec-78477b045343.0018.04/DOC_1#E0003))]",
+    "Adita B. Quadro sobre origem/destino do voo [dados mensais [(3)](http://publications.europa.eu/resource/cellar/88bdacbf-e34e-414d-b2ec-78477b045343.0018.04/DOC_1#E0003) ]",
+    "Suprime A. Quadro sobre as etapas de voo [dados mensais ([^3^](http://publications.europa.eu/resource/cellar/666f45b5-c2e2-4f8b-bac2-1e191bf31467.0017.03/DOC_1#E0003))]",
+    "Suprime B. Quadro sobre origem/destino do voo [dados mensais [(3)](http://publications.europa.eu/resource/cellar/666f45b5-c2e2-4f8b-bac2-1e191bf31467.0017.03/DOC_1#E0003) ]"
+   ],
+   "fragments": [
+    "c66197335d7ff6c7",
+    "4663f37b3c172ca8",
+    "4e854d3616a26da7",
+    "143b160f6a7f76fa",
+    "f945d50e664cce14",
+    "ac316143b28879b8",
+    "d664376e2a8dcecd",
+    "496f8271010d954c",
+    "05fc2b49406ad5c4",
+    "223055e6544802cc",
+    "e5a7b5c61d275ff8",
+    "852174729551523b",
+    "bae38d57067d1d65",
+    "a70e82c625e6fd7e",
+    "b9b1e43a6fd4bbc0",
+    "720af75c92791b10",
+    "d425ba970958bc0a",
+    "f5a44b04acdf4fb3",
+    "0c3fdc73195439f4",
+    "23d45f1e188b69d1",
+    "f6d0b78c98312d39",
+    "8381e8f60791ee0a",
+    "8da4e80438b8ad3a",
+    "cffad13810ca7c7b",
+    "ccf059dd05352008",
+    "4ee03155045d7616",
+    "24e647424749a8a0",
+    "43a5e7d401dcc992",
+    "852174729551523b",
+    "72226cf05500f904",
+    "74e420fba9747816",
+    "cbe16eba26bda31b",
+    "0640fc2452827081",
+    "a265253fa1225194",
+    "b012ea7053f06477",
+    "18f545376d2124e7",
+    "324ff1cd7b6de4fe",
+    "4bf19f885fb7f1e1",
+    "91f2652951b07d9b",
+    "498f555c4532fcab",
+    "fca78f23f68bd8bb",
+    "5cd81c5f269cc72e",
+    "b8e109f88f345294",
+    "2fff963154b0186e",
+    "0777c68e2501ece6",
+    "c87da777cc28b8a3",
+    "67f26413cd751e14",
+    "3c77af7642043e76",
+    "aaca4e454d3d00a4",
+    "c808127464eebbef",
+    "5b87c543c8de6113",
+    "61c960d8d3e51953",
+    "6d4623bb6dad746e",
+    "8f12e1c9786e9edb"
+   ]
+  }
+ ],
+ "fragments": {
+  "937bab606da4cc98": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 1358/2003 da Comissão, de 31 de Julho de 2003, que torna exequível o Regulamento (CE) n.° 437/2003 do Parlamento Europeu e do Conselho relativo às estatísticas sobre o transporte aéreo de passageiros, carga e correio e altera os seus anexos I e II (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 194 de 01/08/2003 p. 0009 - 0033*\n\nRegulamento (CE) n.o 1358/2003 da Comissão\n\nde 31 de Julho de 2003\n\nque torna exequível o Regulamento (CE) n.o 437/2003 do Parlamento Europeu e do Conselho relativo às estatísticas sobre o transporte aéreo de passageiros, carga e correio e altera os seus anexos I e II\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.o 437/2003 do Parlamento Europeu e do Conselho, de 27 de Fevereiro de 2003, relativo às estatísticas sobre o transporte aéreo de passageiros, carga e correio(1), e, nomeadamente, o seu artigo 10.o,\n\nConsiderando o seguinte:\n\n(1) Nos termos do artigo 10.o do Regulamento (CE) n.o 437/2003, a Comissão deve determinar as modalidades de aplicação deste regulamento.\n\n(2) É necessário estabelecer a lista dos aeroportos comunitários, excluindo os que apenas registam tráfego comercial ocasional, e as excepções a aplicar.\n\n(3) É necessário definir o formato para a transmissão dos dados de modo suficientemente pormenorizado, de molde a garantir que os mesmos possam ser processados com rapidez e de forma rentável.\n\n(4) Devem ser estabelecidas as disposições referentes à divulgação dos resultados estatísticos.\n\n(5) Nos termos do primeiro travessão do artigo 10.o do Regulamento (CE) n.o 437/2003, a Comissão deve também adaptar as indicações que constam dos seus anexos.\n\n(6) A estrutura do registo para a transmissão de dados, os códigos e as definições que constam dos anexos I e II do Regulamento (CE) n.o 437/2003 necessitam de adaptação.\n\n(7) O Regulamento (CE) n.o 437/2003 deve, por conseguinte, ser alterado.\n\n(8) As medidas previstas no presente regulamento são conformes ao parecer do Comité do Programa Estatístico criado pela Decisão 89/382/CEE, Euratom(2),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "2ebfb79a0f5920de": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPara efeitos dos n.os 2, 4 e 5 do artigo 3.o do Regulamento (CE) n.o 437/2003, a lista dos aeroportos comunitários, excluindo os que apenas registam tráfego comercial ocasional, e as excepções é a que consta do anexo I do presente regulamento."
+  },
+  "fa6b8b4622b622d2": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do artigo 7.o do Regulamento (CE) n.o 437/2003, os resultados devem ser transmitidos de acordo com a descrição dos ficheiros de dados e do suporte a utilizar para a transmissão, definida no anexo II do presente regulamento."
+  },
+  "b34fc78f5749bd42": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPara efeitos do n.o 1 do artigo 8.o do Regulamento (CE) n.o 437/2003, a Comissão divulgará todos os dados que os Estados-Membros não declarem confidenciais, utilizando os suportes e a estrutura de dados que entender."
+  },
+  "48db80993ca3cf95": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs anexos I e II do Regulamento (CE) n.o 437/2003 são substituídos pelo texto que consta do anexo III do presente regulamento."
+  },
+  "4ff5bfe70062a878": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 31 de Julho de 2003.\n\nPela Comissão\n\nPedro Solbes Mira\n\nMembro da Comissão\n\n(1) JO L 66 de 11.3.2003, p. 1.\n\n(2) JO L 181 de 28.6.1989, p. 47."
+  },
+  "88905231709c9ab8": {
+   "fragment_id": "ANEXO I — CATEGORIAS DE AEROPORTOS, LISTAS DOS AEROPORTOS COMUNITÁRIOS E DERROGAÇÕES",
+   "type": "divisao",
+   "heading": "ANEXO I — CATEGORIAS DE AEROPORTOS, LISTAS DOS AEROPORTOS COMUNITÁRIOS E DERROGAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — CATEGORIAS DE AEROPORTOS, LISTAS DOS AEROPORTOS COMUNITÁRIOS E DERROGAÇÕES\n\nI. Categorias de aeroportos e períodos de referência considerados\n\nPodem definir-se quatro categorias de aeroportos comunitários:\n\n- Categoria \"0\": os aeroportos com movimento inferior a 15000 unidades-passageiro por ano são considerados como registando apenas \"tráfego comercial ocasional\", pelo que, em conformidade com o n.o 3 do artigo 3.o não são abrangidos pelo disposto no n.o 2 do artigo 3.o\n\n- Categoria \"1\": os aeroportos com movimento compreendido entre 15000 e 150000 unidades-passageiro por ano apenas devem transmitir os dados do quadro C1.\n\n- Categoria \"2\": os aeroportos com movimento superior a 150000 unidades-passageiro e inferior a 1500000 unidades-passageiro por ano devem transmitir os dados de todos os quadros do anexo I, podendo, todavia, em conformidade com o n.o 4 do artigo 3.o beneficiar de derrogações totais ou parciais até 2003, 2004 ou 2005.\n\n- Categoria \"3\". os aeroportos com movimento de, pelo menos, 1500000 unidades-passageiro por ano devem transmitir os dados de todos os quadros do anexo I, podendo, todavia, em conformidade com o n.o 5 do artigo 3.o beneficiar de derrogação total ou parcial no que se refere ao quadro B1, em 2003 apenas.\n\nPara definir a categoria do aeroporto no ano N, o ano de referência considerado para o cálculo das unidades-passageiro será:\n\n- para aeroportos da categoria \"0\", \"1\" e \"2\": ano N-2,\n\n- para aeroportos da categoria \"3\": ano N (excepto no que se refere à declaração dos quadros de 2003, em que se consideram as unidades-passageiro de 2001 e à declaração dos quadros de 2004, em que se consideram as unidades-passageiro de 2003).\n\nOs aeroportos para os quais as unidades-passageiro tenham diminuído entre o ano N-2 e o ano N-1, podem utilizar o ano de referência N-1 para a respectiva classificação.\n\nII. Derrogações permitidas\n\nQuadro recapitulativo por ano de declaração e de acordo com a categoria de dimensão dos aeroportos comunitários.\n\n>POSIÇÃO NUMA TABELA>\n\nAs derrogações podem ser parciais ou totais.\n\nAs derrogações parciais só podem ser concedidas para os seguintes campos: \"informações sobre a transportadora aérea\" e \"lugares de passageiro disponíveis\".\n\nCaso se conceda uma derrogação parcial para esses campos, deverá ser indicado um código \"desconhecido\" em vez do código previsto (para \"lugares de passageiro disponíveis\" o código \"desconhecido\" a utilizar é \"999999999999\").\n\nSe tiver sido concedida uma derrogação para determinado aeroporto no ano N, mas que o aeroporto tenha mudado de categoria no ano N, a derrogação deixa de ser válida para esse ano.\n\nIII. Lista dos aeroportos comunitários abrangidos e derrogações\n\nOs aeroportos comunitários que apenas registam um tráfego comercial ocasional (categoria \"0\") não são abrangidos pela obrigação de declarar os dados referidos no n.o 2 do artigo 3.o Por conseguinte, não constam das listas que se seguem.\n\nOs aeroportos da categoria \"1\" são indicados a itálico nas listas que se seguem.\n\nOs aeroportos da categoria \"2\" são indicados em letra normal nas listas que se seguem.\n\nOs aeroportos da categoria \"3\" são indicados a negro nas listas que se seguem.\n\nOs aeroportos da categoria \"3\" a que tenha sido concedida derrogação para o quadro B1 em 2003 são identificados com \"X\" na coluna 4, em caso de derrogação total, e com \"P\" na mesma coluna, em caso de derrogação parcial.\n\nOs aeroportos da categoria \"2\" a que tenha sido concedida derrogação para o quadro A1 e/ou B1 até ao ano N (ano 2003, 2004 ou 2005) são identificados com \"ano N\" na coluna 5.1 e/ou 5.2. Caso só tenha sido concedida derrogação parcial, após o ano indica-se \"P\".\n\nOs aeroportos das categorias \"1\" ou \"2\" a que tenha sido concedida derrogação para o quadro C1 até ao ano N (ano 2003, 2004 ou 2005) são identificados com \"ano N\" na coluna 5.3. Caso só tenha sido concedida derrogação parcial, após o ano indica-se \"P\".\n\nOs pormenores referentes a derrogações parciais (caso existam) seguem-se aos quadros.\n\nBélgica: Lista dos aeroportos comunitários e derrogações\n\n>POSIÇÃO NUMA TABELA>\n\nDinamarca: Lista dos aeroportos comunitários e derrogações\n\n>POSIÇÃO NUMA TABELA>\n\nAplicam-se derrogações parciais ao campo \"lugares de passageiros disponíveis\" (quadro A1).\n\nAlemanha: Lista dos aeroportos comunitários e derrogações\n\n>POSIÇÃO NUMA TABELA>\n\nGrécia: Lista dos aeroportos comunitários e derrogações\n\n>POSIÇÃO NUMA TABELA>\n\nEspanha: Lista dos aeroportos comunitários e derrogações\n\n>POSIÇÃO NUMA TABELA>\n\nFrança: Lista dos aeroportos comunitários e derrogações\n\n>POSIÇÃO NUMA TABELA>\n\nAplicam-se derrogações parciais ao campo \"lugares de passageiro disponíveis\" (quadro A1).\n\nIrlanda: Lista dos aeroportos comunitários e derrogações\n\n>POSIÇÃO NUMA TABELA>\n\nAplicam-se derrogações parciais ao campo \"informações sobre a transportadora aérea\".\n\nItália: Lista dos aeroportos comunitários e derrogações\n\n>POSIÇÃO NUMA TABELA>\n\nLuxemburgo: Lista dos aeroportos comunitários e derrogações\n\n>POSIÇÃO NUMA TABELA>\n\nPaíses Baixos: Lista dos aeroportos comunitários e derrogações\n\n>POSIÇÃO NUMA TABELA>\n\nAplicam-se derrogações parciais aos campos\"lugares de passageiro disponíveis\" e \"informações sobre a transportadora aérea\"\n\nÁustria: Lista dos aeroportos comunitários e derrogações\n\n>POSIÇÃO NUMA TABELA>\n\nPortugal: Lista dos aeroportos comunitários e derrogações\n\n>POSIÇÃO NUMA TABELA>\n\nFinlândia: Lista dos aeroportos comunitários e derrogações\n\n>POSIÇÃO NUMA TABELA>\n\nSuécia: Lista dos aeroportos comunitários e derrogações\n\n>POSIÇÃO NUMA TABELA>\n\nReino Unido: Lista dos aeroportos comunitários e derrogações\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "c4b3fac0c5a704f8": {
+   "fragment_id": "ANEXO II — DESCRIÇÃO DOS FICHEIROS DE DADOS E DO SUPORTE DE TRANSMISSÃO",
+   "type": "divisao",
+   "heading": "ANEXO II — DESCRIÇÃO DOS FICHEIROS DE DADOS E DO SUPORTE DE TRANSMISSÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — DESCRIÇÃO DOS FICHEIROS DE DADOS E DO SUPORTE DE TRANSMISSÃO\n\nPara a transmissão dos quadros do regulamento aceitam-se dois formatos compatíveis EDI: \"CSV\" (Comma Separated Values) com ponto e vírgula (;) como separador de campos e GESMES-EDIFACT.\n\nLista e descrição dos campos a utilizar para cada quadro do regulamento:\n\nO quadro recapitulativo que se segue indica, para cada quadro do regulamento (\"A1\", \"B1\" e \"C1\") e para cada registo (linha), a lista dos campos a fornecer. Na coluna associada ao quadro correspondente identificam-se dois tipos de campos diferentes:\n\n- \"X\": campos que devem ser fornecidos para um quadro,\n\n- \" \" (espaço): campos que não são pertinentes para o quadro. Normalmente, estes campos não devem ser fornecidos nos quadros correspondentes. Todavia, neste caso aceitam-se igualmente campos vazios (2 separadores de dados sem dados entre eles).\n\nFormato e dimensão dos campos:\n\nO formato de cada campo ou é numérico (n) ou alfabético (a) ou alfanumérico (an).\n\nA dimensão ou é fixa (\"formato + número\" - por exemplo, \"n4\") ou variável com um número máximo de posições (\"formato + '..' + número máximo de posições,\" - por exemplo: \"n..12\").\n\n>POSIÇÃO NUMA TABELA>\n\nUm quadro (para um período) deve corresponder a um ficheiro (ou \"envio\") transmitido ao Eurostat.\n\nCada ficheiro (quadro) deve ser identificado de acordo com o seguinte formato: \"CCYYPPTT.csv\" (para o formato csv) ou: \"CCYYPPTT.ges\" (para o formato gesmes), sendo \"CC\" o código do país (ISO 2 letras), \"YY\" o ano, \"PP\" o período (AN, Q1..Q4 ou 01..12) e \"TT\" a identificação do quadro (\"A1\", \"B1\" ou \"C1\").\n\nCaso o ficheiro tenha sido comprimido, deve usar-se o sufixo \"zip\" e não \"csv\" ou \"ges\".\n\nO suporte de transmissão deve ser compatível com o controlo e o processamento automáticos no Eurostat.\n\nDá-se preferência a ferramentas compatíveis EDI. Todavia, também se aceitam, durante um período transitório, ferramentas \"Pre-EDI\" bem como mensagens electrónicas estruturadas enviadas para o endereço que o Eurostat indicar.\n\nCaso se utilize uma mensagem electrónica estruturada:\n\n- campo \"objecto\" da mensagem electrónica deve incluir o nome do ficheiro (quadro) a enviar,\n\n- o ficheiro (quadro) deve ser junto à mensagem electrónica (só se aceita um ficheiro por mensagem electrónica),\n\n- podem ser introduzidos comentários aos dados em texto corrente, não formatado, no corpo da mensagem a que se juntou o quadro (não utilizar texto formatado)."
+  },
+  "c2729251bbd024e6": {
+   "fragment_id": "ANEXO III — Alterações aos anexos do Regulamento (CE) n.o 437/2003",
+   "type": "divisao",
+   "heading": "ANEXO III — Alterações aos anexos do Regulamento (CE) n.o 437/2003",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Alterações aos anexos do Regulamento (CE) n.o 437/2003\n\n\"ANEXO I\n\nESTRUTURA DO REGISTO PARA A TRANSMISSÃO DE DADOS AO EUROSTAT\n\nOs dados a declarar referem-se exclusivamente à aviação civil.\n\nExcluem-se voos estatais e movimentos por modos de transporte de superfície quer de passageiros que viajem com um código de voo ou de mercadorias expedidas com uma carta de porte aéreo.\n\nA. Quadro sobre as etapas de voo [dados mensais(1)]\n\nOs dados comunicados neste quadro só dizem respeito a serviços comerciais aéreos.\n\nFormato de registo do ficheiro de dados\n\n>POSIÇÃO NUMA TABELA>\n\nB. Quadro sobre origem/destino do voo [dados mensais(2)]\n\nOs dados comunicados neste quadro só dizem respeito a serviços comerciais aéreos.\n\nFormato de registo do ficheiro de dados\n\n>POSIÇÃO NUMA TABELA>\n\nC. Quadro sobre os aeroportos (pelo menos, dados anuais)\n\nOs dados comunicados neste quadro só dizem respeito a serviços comerciais aéreos, com excepção do \"total dos movimentos de aeronaves comerciais\" que também diz respeito a todas as operações comerciais gerais da aviação e do \"total dos movimentos de aeronaves\" que se refere a todos os movimentos de aeronaves civis (com excepção dos voos estatais).\n\nFormato de registo do ficheiro de dados\n\n>POSIÇÃO NUMA TABELA>\n\nCÓDIGOS\n\n1. País declarante\n\nO sistema de codificação a usar é o do índice OACI das letras de nacionalidade para os indicadores de localização. Se existirem vários prefixos para o mesmo país, aplica-se apenas o principal prefixo OACI para a metrópole.\n\nBélgica EB\n\nDinamarca EK\n\nAlemanha ED\n\nGrécia LG\n\nEspanha LE\n\nFrança LF\n\nIrlanda EI\n\nItália LI\n\nLuxemburgo EL\n\nPaíses Baixos EH\n\nÁustria LO\n\nPortugal LP\n\nFinlândia EF\n\nSuécia ES\n\nReino Unido EG\n\n2. Período de referência\n\nAN (ou 45) ano\n\nQ1 (ou 21) Janeiro-Março (primeiro trimestre)\n\nQ2 (ou 22) Abril-Junho (segundo trimestre)\n\nQ3 (ou 23) Julho-Setembro (terceiro trimestre)\n\nQ4 (ou 24) Outubro-Dezembro (quarto trimestre)\n\n1 a 12 Janeiro a Dezembro (mês)\n\n3. Aeroportos\n\nOs aeroportos devem ser codificados segundo os códigos OACI de 4 letras, constantes do documento OACI 7910. Os aeroportos desconhecidos devem ser codificados \"ZZZZ\".\n\n4. Informações sobre a transportadora aérea\n\n\"1EU\" para transportadoras aéreas licenciadas na União Europeia,\n\n\"1NE\" para transportadoras aéreas não licenciadas na União Europeia,\n\n\"ZZZ\" para transportadoras aéreas desconhecidas,\n\n\"888\" para \"confidencial\" (a utilizar nos quadros A1 e B1 se as \"informações sobre a transportadora aérea\" não puderem ser divulgadas por questões de confidencialidade),\n\n\"999\" para todas as transportadoras aéreas (a utilizar apenas no quadro C1).\n\nAs transportadoras aéreas parcialmente licenciadas na UE devem ser declaradas como \"transportadoras aéreas da UE\".\n\nNuma base voluntária, o código 2+código do país de 2 letras ISO (país de licença da transportadora aérea) pode igualmente ser utilizado, assim como o código OACI da transportadora aérea.\n\n5. Tipo de aeronave\n\nOs tipos de aeronaves devem ser codificados segundo os descritores OACI do tipo de aeronave, constantes do documento OACI 8643.\n\nOs tipos de aeronaves desconhecidos devem ser codificados \"ZZZZ\".\n\n(1) Em 2003, aceitam-se \"pelo menos, dados trimestrais\".\n\n(2) Em 2003, aceitam-se \"dados trimestrais\"."
+  },
+  "7ac716416c09c17e": {
+   "fragment_id": "ANEXO II — DEFINIÇÕES E ESTATÍSTICAS A DECLARAR",
+   "type": "divisao",
+   "heading": "ANEXO II — DEFINIÇÕES E ESTATÍSTICAS A DECLARAR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — DEFINIÇÕES E ESTATÍSTICAS A DECLARAR\n\nAo título de cada rubrica segue-se a indicação dos artigos ou quadros do regulamento em que se faz referência ao termo definido.\n\nI. DEFINIÇÕES E VARIÁVEIS DE INTERESSE GERAL\n\n1. Aeroporto comunitário (artigos 1.o e 3.o)\n\nTerreno ou plano de água definido, situado num Estado-Membro, sujeito às disposições do Tratado, que se destina a ser utilizado, total ou parcialmente, para a chegada, partida e movimentação em terra de aeronaves, aberto a serviços comerciais aéreos (ver -4-).\n\n2. Voo estatal (artigo 1.o e quadro C1)\n\nTodos os voos efectuados ao abrigo de serviços militares, aduaneiros, policiais ou outros serviços responsáveis pela aplicação da lei de um Estado.\n\nTodos os voos declarados \"Voos estatais\" pelas autoridades estatais.\n\nA expressão \"com exclusão dos voos efectuados por aeronaves de Estado\" do artigo 1.o deve ser interpretada como \"com exclusão dos voos estatais\".\n\n3. Unidade-passageiro (n.os 2, 4 e 5 do artigo 3.o)\n\nUma unidade-passageiro equivale a um passageiro ou a 100 kg de carga e correio.\n\nPara a elaboração da lista de aeroportos comunitários (ver-1-) referida no n.o 2 do artigo 3.o e para os efeitos do período de transição referido nos n.os 4 e 5 do artigo 3.o, o cálculo dos limiares que usam unidades-passageiro tem que considerar em aeroportos comunitários (ver-1-) o número total de passageiros transportados (ver-16-) mais o número total de passageiros em trânsito directo (ver-18-) (contados uma vez) mais a quantidade total de carga e correio carregados e descarregados (ver-17-).\n\n4. Serviços comerciais aéreos (artigo 1.o e quadros A1, B1 e C1)\n\nVoo ou séries de voos para o transporte público de passageiros e/ou carga e correio, a título oneroso ou de aluguer.\n\nOs serviços de transporte aéreo podem ser regulares (ver-5-) ou não regulares (ver-6-).\n\n5. Serviços de transporte aéreo regulares (quadros A1 e B1)\n\nServiços comerciais aéreos (ver-4-) explorados de acordo com um horário publicado, ou com regularidade ou frequência constituindo, de forma patente, uma série sistemática de voos.\n\nInclui voos complementares ocasionados por excesso de tráfico dos voos regulares.\n\n6. Serviços de transporte aéreo não regulares (quadros A1 e B1)\n\nServiços comerciais aéreos (ver-4-) com excepção dos serviços de transporte aéreo regulares (ver-5-).\n\n7. Serviços de transporte aéreo de passageiros (quadros A1 e B1)\n\nServiços de transporte aéreo regulares (ver-5-) ou não regulares (ver-6-), efectuados por aeronaves que transportem um ou mais passageiros a título oneroso, bem como todos os voos que figurem nos horários publicados como abertos a passageiros.\n\nInclui voos que transportem tanto passageiros como carga e correio, a título oneroso.\n\n8. Serviços polivalentes de carga e correio (quadros A1 e B1)\n\nServiços de transporte aéreo regulares (ver-5-) ou não regulares (ver-6-), efectuados por aeronaves que transportem, a título oneroso, carga e correio, mas não passageiros.\n\nExclui os voos que transportem um ou mais passageiros a título oneroso, bem como todos os voos que figurem em horários publicados como abertos a passageiros.\n\n9. Transportadora aérea (Operador de transporte aéreo comercial) (quadros A1, B1 e C1)\n\nEmpresa de transporte aéreo titular de uma licença de exploração válida para efectuar voos comerciais (ver-13-).\n\nSempre que as transportadoras aéreas possuam acordos de joint-venture ou outros acordos contratuais que exijam que duas ou mais delas assumam responsabilidade separada pela oferta e venda de produtos de transporte aéreo para um voo ou uma série de voos, deve ser declarada a transportadora aérea que assegura efectivamente o voo.\n\nII. DEFINIÇÕES E VARIÁVEIS REFERENTES AO QUADRO A1 (ETAPAS DE VOO)\n\n10. Etapa de voo (quadro A1)\n\nUma etapa de voo corresponde ao voo de uma aeronave desde a descolagem até à aterragem seguinte.\n\n11. Passageiros a bordo (quadro A1)\n\nTodos os passageiros a bordo da aeronave aquando da aterragem no aeroporto declarante e descolagem do aeroporto declarante.\n\nTodos os passageiros a bordo de uma aeronave, a título oneroso ou não oneroso durante uma etapa de voo (ver-10-).\n\nInclui passageiros em trânsito directo (ver-18-) (contados à chegada e à partida).\n\n12. Carga e correio a bordo (quadro A1)\n\nConjunto de toda a carga e correio a bordo da aeronave aquando da aterragem no aeroporto declarante e descolagem do aeroporto declarante.\n\nConjunto de toda a carga e correio a bordo de uma aeronave durante uma etapa de voo (ver-10-).\n\nInclui carga e correio em trânsito directo (contados à chegada e à partida).\n\nInclui os serviços expresso e as malas diplomáticas.\n\nExclui a bagagem dos passageiros.\n\n13. Voo comercial (quadro A1)\n\nVoo destinado ao transporte público de passageiros e/ou carga e correio, a título oneroso ou de aluguer.\n\nNo quadro A1, os voos comerciais são agregados para calcular os outros \"campos indicadores\" [\"Passageiros a bordo (ver-11-)\", \"Carga e correio a bordo (ver-12-)\" e \" Lugares de passageiro disponíveis (ver-14-)\"].\n\n14. Lugares de passageiro disponíveis (quadro A1)\n\nNúmero total de lugares de passageiro disponíveis para venda entre cada par de aeroportos numa etapa de voo (ver-10-).\n\nNuma etapa de voo (ver-10-), o número total de passageiros transportados a título oneroso não deve exceder o número total de lugares de passageiro disponíveis para venda.\n\nInclui lugares já vendidos numa etapa de voo, ou seja, inclui os lugares ocupados por passageiros em trânsito directo (ver-18-).\n\nExclui os lugares não efectivamente disponíveis para transporte de passageiros devido aos limites de peso máximo bruto.\n\nCaso não se disponha de informação nesta base, deve fornecer-se uma das estimativas seguintes (por ordem de preferência da mais à menos adequada):\n\n1. a configuração específica da aeronave expressa em número de lugares de passageiro disponíveis na aeronave (identificada pelo número de matrícula da aeronave),\n\n2. a configuração média da aeronave expressa em número médio de lugares de passageiro disponíveis para o tipo de aeronave para a transportadora,\n\n3. a configuração média da aeronave expressa em número médio de lugares de passageiro disponíveis para o tipo de aeronave.\n\nIII. DEFINIÇÕES E VARIÁVEIS REFERENTES AO QUADRO B1 (ORIGEM E DESTINO DO VOO) E AO QUADRO C1 (AEROPORTOS)\n\n15. Origem e destino do voo (quadro B1)\n\nTráfego num serviço comercial aéreo (ver-4-), identificado por um número de voo único subdividido por pares de aeroportos, em conformidade com o ponto de embarque e o ponto de desembarque desse voo.\n\nPara os passageiros, carga ou correio cujo aeroporto de embarque se desconheça, deve considerar-se o ponto de embarque como a origem da aeronave; do mesmo modo, se se desconhecer o aeroporto de desembarque, deve considerar-se o ponto de desembarque como o destino da aeronave.\n\n16. Passageiros transportados (quadros B1 e C1)\n\nTodos os passageiros de determinado voo (com um número de voo), contados uma única vez e não repetidamente em cada etapa individual desse voo.\n\nTodos os passageiros transportados a título oneroso ou não oneroso, cuja viagem se inicie ou termine no aeroporto declarante e passageiros com ligações que embarquem ou desembarquem no aeroporto declarante.\n\nExclui os passageiros em trânsito directo (ver-18-).\n\n17. Carga e correio carregados ou descarregados (quadros B1 e C1)\n\nConjunto total de carga e correio carregados ou descarregados.\n\nInclui os serviços expresso e as malas diplomáticas.\n\nExclui a bagagem dos passageiros.\n\nExclui carga e correio em trânsito directo.\n\n18. Passageiros em trânsito directo (quadro C1)\n\nPassageiros que, após uma breve escala, continuam a sua viagem na mesma aeronave, num voo que possui o mesmo número daquele em que chegaram.\n\nNas estatísticas aeroportuárias totais, assim como no cálculo das unidades-passageiro (ver-3-), os passageiros em trânsito directo são contados uma única vez.\n\nPassageiros que mudam de aeronave devido a problemas técnicos, mas que continuam a sua viagem num voo que possui o mesmo número são contados como passageiros em trânsito directo.\n\nEm determinados voos com escalas intermédias, o número de voo muda num aeroporto para indicar a mudança entre voo de chegada e voo de partida. Um exemplo é o voo de Barcelona para Hamburgo em que o voo continua para Francoforte antes de regressar a Barcelona. Os passageiros para um destino intermédio que continuam a sua viagem na mesma aeronave em tais circunstâncias devem ser contados como passageiros em trânsito directo.\n\n19. Total dos movimentos de aeronaves comerciais (quadro C1)\n\nTodas as descolagens e aterragens efectuadas por aeronaves a título oneroso ou de aluguer.\n\nInclui serviços comerciais aéreos (ver-4-), assim como todas as operações comerciais gerais da aviação.\n\n20. Total dos movimentos de aeronaves (quadro C1)\n\nTodas as descolagens e aterragens de aeronaves.\n\nInclui o total dos movimentos de aeronaves (ver-19-), assim como todas as operações não comerciais gerais da aviação.\n\nExclui voos estatais (ver-2-).\n\nExclui \"aterragens-descolagens\" (touch and goes), overshoots e abordagens falhadas.\""
+  },
+  "de4fb0d52b706fdf": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Julho de 2003\n\nque torna exequível o Regulamento (CE) n.º 437/2003 do Parlamento Europeu e do Conselho relativo às estatísticas sobre o transporte aéreo de passageiros, carga e correio e altera os seus anexos I e II\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 437/2003 do Parlamento Europeu e do Conselho, de 27 de Fevereiro de 2003, relativo às estatísticas sobre o transporte aéreo de passageiros, carga e correio ([^1^](http://publications.europa.eu/resource/cellar/58209406-1461-44f7-b6d7-a1be286a13ac.0016.03/DOC_1#E0001)), e, nomeadamente, o seu artigo 10.º,\n\n(1) Nos termos do artigo 10.º do Regulamento (CE) n.º 437/2003, a Comissão deve determinar as modalidades de aplicação deste regulamento.\n\n(2) É necessário estabelecer a lista dos aeroportos comunitários, excluindo os que apenas registam tráfego comercial ocasional, e as excepções a aplicar.\n\n(3) É necessário definir o formato para a transmissão dos dados de modo suficientemente pormenorizado, de molde a garantir que os mesmos possam ser processados com rapidez e de forma rentável.\n\n(4) Devem ser estabelecidas as disposições referentes à divulgação dos resultados estatísticos.\n\n(5) Nos termos do primeiro travessão do artigo 10.º do Regulamento (CE) n.º 437/2003, a Comissão deve também adaptar as indicações que constam dos seus anexos.\n\n(6) A estrutura do registo para a transmissão de dados, os códigos e as definições que constam dos anexos I e II do Regulamento (CE) n.º 437/2003 necessitam de adaptação.\n\n(7) O Regulamento (CE) n.º 437/2003 deve, por conseguinte, ser alterado.\n\n(8) As medidas previstas no presente regulamento são conformes ao parecer do Comité do Programa Estatístico criado pela Decisão 89/382/CEE, Euratom ([^2^](http://publications.europa.eu/resource/cellar/58209406-1461-44f7-b6d7-a1be286a13ac.0016.03/DOC_1#E0002)),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "4663f37b3c172ca8": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPara efeitos dos n.^os^ 2, 4 e 5 do artigo 3.º do Regulamento (CE) n.º 437/2003, a lista dos aeroportos comunitários, excluindo os que apenas registam tráfego comercial ocasional, e as excepções é a que consta do anexo I do presente regulamento."
+  },
+  "4e854d3616a26da7": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do artigo 7.º do Regulamento (CE) n.º 437/2003, os resultados devem ser transmitidos de acordo com a descrição dos ficheiros de dados e do suporte a utilizar para a transmissão, definida no anexo II do presente regulamento."
+  },
+  "143b160f6a7f76fa": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPara efeitos do n.º 1 do artigo 8.º do Regulamento (CE) n.º 437/2003, a Comissão divulgará todos os dados que os Estados-Membros não declarem confidenciais, utilizando os suportes e a estrutura de dados que entender."
+  },
+  "f945d50e664cce14": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs anexos I e II do Regulamento (CE) n.º 437/2003 são substituídos pelo texto que consta do anexo III do presente regulamento."
+  },
+  "ac316143b28879b8": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "496f8271010d954c": {
+   "fragment_id": "CATEGORIAS DE AEROPORTOS, LISTAS DOS AEROPORTOS COMUNITÁRIOS E DERROGAÇÕES",
+   "type": "divisao",
+   "heading": "CATEGORIAS DE AEROPORTOS, LISTAS DOS AEROPORTOS COMUNITÁRIOS E DERROGAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CATEGORIAS DE AEROPORTOS, LISTAS DOS AEROPORTOS COMUNITÁRIOS E DERROGAÇÕES"
+  },
+  "05fc2b49406ad5c4": {
+   "fragment_id": "I. Categorias de aeroportos e períodos de referência considerados",
+   "type": "divisao",
+   "heading": "I. Categorias de aeroportos e períodos de referência considerados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Categorias de aeroportos e períodos de referência considerados\n\nPodem definir-se quatro categorias de aeroportos comunitários:\n\n— Categoria «0»: os aeroportos com movimento inferior a 15 000 unidades-passageiro por ano são considerados como registando apenas «tráfego comercial ocasional», pelo que, em conformidade com o n.º 3 do artigo 3.º não são abrangidos pelo disposto no n.º 2 do artigo 3.º\n\n— Categoria «1»: os aeroportos com movimento compreendido entre 15 000 e 150 000 unidades-passageiro por ano apenas devem transmitir os dados do quadro C1.\n\n— Categoria «2»: os aeroportos com movimento superior a 150 000 unidades-passageiro e inferior a 1 500 000 unidades-passageiro por ano devem transmitir os dados de todos os quadros do anexo I, podendo, todavia, em conformidade com o n.º 4 do artigo 3.º beneficiar de derrogações totais ou parciais até 2003, 2004 ou 2005.\n\n— Categoria «3». os aeroportos com movimento de, pelo menos, 1 500 000 unidades-passageiro por ano devem transmitir os dados de todos os quadros do anexo I, podendo, todavia, em conformidade com o n.º 5 do artigo 3.º beneficiar de derrogação total ou parcial no que se refere ao quadro B1, em 2003 apenas.\n\nPara definir a categoria do aeroporto no ano N, o ano de referência considerado para o cálculo das unidades-passageiro será:\n\n— paraaeroportos da categoria «0», «1» e «2»: ano N-2,\n\n— para aeroportos da categoria «3»: ano N (excepto no que se refere à declaração dos quadros de 2003, em que se consideram as unidades-passageiro de 2001 e à declaração dos quadros de 2004, em que se consideram as unidades-passageiro de 2003).\n\n*Os aeroportos para os quais as unidades-passageiro tenham diminuído entre o ano N-2 e o ano N-1, podem utilizar o ano de referência N-1 para a respectiva classificação.*"
+  },
+  "223055e6544802cc": {
+   "fragment_id": "II. Derrogações permitidas",
+   "type": "divisao",
+   "heading": "II. Derrogações permitidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. Derrogações permitidas\n\nQuadro recapitulativo por ano de declaração e de acordo com a categoria de dimensão dos aeroportos comunitários.\n\n| Categorias de aeroportos comunitários por dimensão | 2003 | 2004 | 2005 |\n| --- | --- | --- | --- |\n| 0) **Menos de 15 000 unidades-passageiro** | Sem obrigação de declaração | Sem obrigação de declaração | Sem obrigação de declaração |\n| 1) **Entre 15 000 e 150 000 unidades-passageiro** | C1 (derrogação possível) | C1 (derrogação possível) | C1 (derrogação possível) |\n| 2) **Mais de 150 000 e menos de 1 500 000 unidades-passageiro** | A1 (derrogação possível) B1 (derrogação possível) C1 (derrogação possível) | A1 (derrogação possível) B1 (derrogação possível) C1 (derrogação possível) | A1 (derrogação possível) B1 (derrogação possível) C1 (derrogação possível) |\n| 3) **Pelo menos 1 500 000 unidades-passageiro** | **A1 (sem derrogação)** B1 (derrogação possível) **C1 (sem derrogação)** | **A1 (sem derrogação)** **B1 (sem derrogação)** **C1 (sem derrogação)** | **A1 (sem derrogação)** **B1 (sem derrogação)** **C1 (sem derrogação)** |\n\nAs derrogações podem ser parciais ou totais.\n\nAs derrogações parciais só podem ser concedidas para os seguintes campos: «informações sobre a transportadora aérea» e «lugares de passageiro disponíveis».\n\nCaso se conceda uma derrogação parcial para esses campos, deverá ser indicado um código «desconhecido» em vez do código previsto (para «lugares de passageiro disponíveis» o código «desconhecido» a utilizar é «999999999999»).\n\nSe tiver sido concedida uma derrogação para determinado aeroporto no ano N, mas que o aeroporto tenha mudado de categoria no ano N, a derrogação deixa de ser válida para esse ano."
+  },
+  "bdd759c1f350de69": {
+   "fragment_id": "III. Lista dos aeroportos comunitários abrangidos e derrogações",
+   "type": "divisao",
+   "heading": "III. Lista dos aeroportos comunitários abrangidos e derrogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### III. Lista dos aeroportos comunitários abrangidos e derrogações\n\nOs aeroportos comunitários que apenas registam um tráfego comercial ocasional (categoria «0») não são abrangidos pela obrigação de declarar os dados referidos no n.º 2 do artigo 3.º Por conseguinte, não constam das listas que se seguem.\n\nOs aeroportos da categoria «1» são indicados a itálico nas listas que se seguem.\n\nOs aeroportos da categoria «2» são indicados em letra normal nas listas que se seguem.\n\nOs aeroportos da categoria «3» são indicados a negro nas listas que se seguem.\n\nOs aeroportos da categoria «3» a que tenha sido concedida derrogação para o quadro B1 em 2003 são identificados com «X» na coluna 4, em caso de derrogação total, e com «P» na mesma coluna, em caso de derrogação parcial.\n\nOs aeroportos da categoria «2» a que tenha sido concedida derrogação para o quadro A1 e/ou B1 até ao ano N (ano 2003, 2004 ou 2005) são identificados com «ano N» na coluna 5.1 e/ou 5.2. Caso só tenha sido concedida derrogação parcial, após o ano indica-se «P».\n\nOs aeroportos das categorias «1» ou «2» a que tenha sido concedida derrogação para o quadro C1 até ao ano N (ano 2003, 2004 ou 2005) são identificados com «ano N» na coluna 5.3. Caso só tenha sido concedida derrogação parcial, após o ano indica-se «P».\n\nOs pormenores referentes a derrogações parciais (caso existam) seguem-se aos quadros.\n\n| (1) Código OACI do aeroporto | (2) Nome do aeroporto | (3) Categoria do aeroporto em 2003 | (4) Aeroportos da categoria «3» apenas: derrogação pedida para o quadro B1 em 2003 | (5) Aeroportos das categorias «1» e «2» apenas Para cada quadro: último ano para que se pediu derrogação («» ou «2003» ou «2004» ou «2005») |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| (5.1) Quadro A1 | (5.2) Quadro B1 | (5.3) Quadro C1 |  |  |  |  |\n| EBAW | Antwerpen/Deurne | 2 |  | 2005 | 2005 | 2005 |\n| **EBBR** | **Bruxelles/National** | **3** |  |  |  |  |\n| EBCI | Charleroi/Brussels South | 2 |  | 2005 | 2005 | 2005 |\n| EBLG | Liège/Bierset | 2 |  | 2005 | 2005 | 2005 |\n| **EBOS** | **Oostende** | **1** |  |  |  | **2005** |\n\n| (1) Código OACI do aeroporto | (2) Nome do aeroporto | (3) Categoria do aeroporto em 2003 | (4) Aeroportos da categoria «3» apenas derrogação pedida para o quadro B1 em 2003 | (5) Aeroportos das categorias «1» e «2» apenas: Para cada quadro: último ano para que se pediu derrogação («» ou «2003» ou «2004» ou «2005») |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| (5.1) Quadro A1 | (5.2) Quadro B1 | (5.3) Quadro C1 |  |  |  |  |\n| EKAH | Århus | 2 |  | 2003 | 2004 |  |\n| **EKBI** | **Billund** | **3** | **X** |  |  |  |\n| **EKCH** | **Copenhagen Kastrup** | **3** | **X** |  |  |  |\n| EKEB | Esbjerg | 2 |  | 2003P | 2003 |  |\n| EKKA | Karup | 2 |  | 2003P | 2004 |  |\n| **EKRK** | **Copenhagen Roskilde** | **1** |  |  |  | **2004** |\n| EKRN | Bornholm | 2 |  | 2003P |  |  |\n| **EKSB** | **Sønderborg** | **1** |  |  |  |  |\n| EKYT | Aalborg | 2 |  | 2003 | 2004 |  |\n| Aplicam-se derrogações parciais ao campo «lugares de passageiros disponíveis» (quadro A1). |  |  |  |  |  |  |\n\n| (1) Código OACI do aeroporto | (2) Nome do aeroporto | (3) Categoria do aeroporto em 2003 | (4) Aeroportos da categoria «3» apenas derrogação pedida para o quadro B1 em 2003 | (5) Aeroportos das categorias «1» e «2» apenas: Para cada quadro: último ano para que se pediu derrogação («» ou «2003» ou «2004» ou «2005») |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| (5.1) Quadro A1 | (5.2) Quadro B1 | (5.3) Quadro C1 |  |  |  |  |\n| **EDDB** | **Berlin-Schönefeld** | **3** |  |  |  |  |\n| **EDDC** | **Dresden** | **3** |  |  |  |  |\n| EDDE | Erfurt | 2 |  |  |  |  |\n| **EDDF** | **Frankfurt/Main** | **3** |  |  |  |  |\n| **EDDG** | **Münster/Osnabrück** | **3** |  |  |  |  |\n| **EDDH** | **Hamburg** | **3** |  |  |  |  |\n| EDDI | Berlin-Tempelhof | 2 |  |  |  |  |\n| **EDDK** | **Köln/Bonn** | **3** |  |  |  |  |\n| **EDDL** | **Düsseldorf** | **3** |  |  |  |  |\n| **EDDM** | **München** | **3** |  |  |  |  |\n| **EDDN** | **Nürnberg** | **3** |  |  |  |  |\n| **EDDP** | **Leipzig/Halle** | **3** |  |  |  |  |\n| EDDR | Saarbrücken | 2 |  |  |  |  |\n| **EDDS** | **Stuttgart** | **3** |  |  |  |  |\n| **EDDT** | **Berlin-Tegel** | **3** |  |  |  |  |\n| **EDDV** | **Hannover** | **3** |  |  |  |  |\n| **EDDW** | **Bremen** | **3** |  |  |  |  |\n| EDFH | Hahn | 2 |  | 2003 | 2003 |  |\n| **EDFM** | **Mannheim** | **1** |  |  |  |  |\n| **EDHK** | **Kiel** | **1** |  |  |  |  |\n| EDHL | Lübeck | 2 |  | 2004 | 2004 |  |\n| **EDLN** | **Mönchengladbach** | **1** |  |  |  |  |\n| EDLP | Paderborn/Lippstadt | 2 |  | 2003 | 2003 |  |\n| EDLW | Dortmund | 2 |  | 2003 | 2003 |  |\n| *EDMA* | *Augsburg* | [**►M1**](http://publications.europa.eu/resource/celex/32005R0546) *1* **◄** |  | 2004 | 2004 |  |\n| EDNY | Friedrichshafen | 2 |  | 2004 | 2004 |  |\n| **EDOG** | **Gransee** | **1** |  |  |  |  |\n| **EDOR** | **Rostock-Laage** | **1** |  |  |  |  |\n| **EDQM** | **Hof/Plauen** | **1** |  |  |  |  |\n| EDTK | Karlsruhe | 2 |  | 2004 | 2004 |  |\n| **EDVE** | **Braunschweig** | **1** |  |  |  |  |\n| **EDVK** | **Kassel** | **1** |  |  |  |  |\n| **EDWG** | **Wangerooge** | **1** |  |  |  |  |\n| **EDWJ** | **Juist** | **1** |  |  |  |  |\n| **EDWS** | **Norddeich** | **1** |  |  |  |  |\n| **EDXP** | **Harle** | **1** |  |  |  |  |\n| **EDXW** | **Sylt/Westerland** | **1** |  |  |  |  |\n| **ETNU** | **Neubrandenburg** | **1** |  |  |  |  |\n\n| (1) Código OACI do aeroporto | (2) Nome do aeroporto | (3) Categoria do aeroporto em 2003 | (4) Aeroportos da categoria «3» apenas derrogação pedida para o quadro B1 em 2003 | Aeroportos das categorias «1» e «2» apenas Para cada quadro: último ano para que se pediu derrogação (« » ou «2003» ou «2004» ou «2005») |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| (5.1) Quadro A1 | (5.2) Quadro B1 | (5.3) Quadro C1 |  |  |  |  |\n| LGAL | Alexandroupolis | 2 |  |  |  |  |\n| **LGAT** | **Athens** | **3** |  |  |  |  |\n| **LGBL** | **N. Anchialos** | **1** |  |  |  |  |\n| LGHI | Chios | 2 |  |  |  |  |\n| **LGIK** | **Ikaria** | **1** |  |  |  |  |\n| **LGIO** | **Ioannina** | **1** |  |  |  |  |\n| **LGIR** | **Irakleion** | **3** |  |  |  |  |\n| LGKF | Kefallinia | 2 |  |  |  |  |\n| **LGKL** | **Kalamata** | **1** |  |  |  |  |\n| **LGKO** | **Kos** | **3** |  |  |  |  |\n| **LGKP** | **Karpathos** | **1** |  |  |  |  |\n| **LGKR** | **Kerkyra** | **3** |  |  |  |  |\n| LGKV | Kavala | 2 |  |  |  |  |\n| **LGLM** | **Limnos** | **1** |  |  |  |  |\n| LGMK | Mykonos | 2 |  |  |  |  |\n| LGMT | Mytilini | 2 |  |  |  |  |\n| **LGNX** | **Naxos** | **1** |  |  |  |  |\n| LGPZ | Aktio | 2 |  |  |  |  |\n| **LGRP** | **Rodos** | **3** |  |  |  |  |\n| **LGRX** | **Araxos** | **1** |  |  |  |  |\n| LGSA | Chania | 2 |  |  |  |  |\n| **LGSO** | **Syros** | **1** |  |  |  |  |\n| LGSK | Skiathos | 2 |  |  |  |  |\n| LGSM | Samos | 2 |  |  |  |  |\n| LGSR | Santorini | 2 |  |  |  |  |\n| **LGTS** | **Thessaloniki** | **3** |  |  |  |  |\n| LGZA | Zakynthos | 2 |  |  |  |  |\n\n| (1) Código OACI do aeroporto | (2) Nome do aeroporto | (3) Categoria do aeroporto em 2003 | (4) Aeroportos da categoria «3» apenas derrogação pedida para o quadro B1 em 2003 | (5) Aeroportos das categorias «1» e «2» apenas: Para cada quadro: último ano para que se pediu derrogação (« » ou «2003» ou «2004» ou «2005») |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| (5.1) Quadro A1 | (5.2) Quadro B1 | (5.3) Quadro C1 |  |  |  |  |\n| **GCFV** | **Puerto del Rosario/Fuerteventura** | **3** |  |  |  |  |\n| **GCGM** | **Gomera España** | **1** |  |  |  |  |\n| **GCHI** | **Hierro** | **1** |  |  |  |  |\n| GCLA | Santa Cruz de La Palma | 2 |  |  |  |  |\n| **GCLP** | **Las Palmas/Gran Canaria** | **3** |  |  |  |  |\n| **GCRR** | **Arrecife/Lanzarote** | **3** |  |  |  |  |\n| **GCTS** | **Tenerife Sur — Reina Sofía** | **3** |  |  |  |  |\n| **GCXO** | **Tenerife Norte** | **3** |  |  |  |  |\n| GEML | Melilla | 2 |  |  |  |  |\n| **LEAL** | **Alicante** | **3** |  |  |  |  |\n| LEAM | Almería | 2 |  |  |  |  |\n| LEAS | Avilés/Asturias | 2 |  |  |  |  |\n| **LEBB** | **Bilbao** | **3** |  |  |  |  |\n| **LEBL** | **Barcelona** | **3** |  |  |  |  |\n| **LEBZ** | **Badajoz/Talavera la Real** | **1** |  |  |  |  |\n| LECO | A Coruña | 2 |  |  |  |  |\n| LEGE | Girona/Costa Brava | 2 |  |  |  |  |\n| LEGR | Granada | 2 |  |  |  |  |\n| **LEIB** | **Eivissa (Ibiza)** | **3** |  |  |  |  |\n| LEJR | Jerez | 2 |  |  |  |  |\n| LELC | Murcia-San Javier | 2 |  |  |  |  |\n| **LELN** | **León** | **1** |  |  |  |  |\n| **LEMD** | **Madrid/Barajas** | **3** |  |  |  |  |\n| **LEMG** | **Málaga** | **3** |  |  |  |  |\n| **LEMH** | **Menorca/Maó (Mahón)** | **3** |  |  |  |  |\n| **LEPA** | **Palma de Mallorca** | **3** |  |  |  |  |\n| LEPP | Pamplona | 2 |  |  |  |  |\n| LERS | Reus | 2 |  |  |  |  |\n| **LESA** | **Salamanca** | **1** |  |  |  |  |\n| LESO | San Sebastián | 2 |  |  |  |  |\n| LEST | Santiago | 2 |  |  |  |  |\n| **LEVC** | **Valencia** | **3** |  |  |  |  |\n| LEVD | Valladolid | 2 |  |  |  |  |\n| LEVT | Vitoria | 2 |  |  |  |  |\n| LEVX | Vigo | 2 |  |  |  |  |\n| LEXJ | Santander | 2 |  |  |  |  |\n| LEZG | Zaragoza | 2 |  |  |  |  |\n| **LEZL** | **Sevilla** | **3** |  |  |  |  |\n\n| (1) Código OACI do aeroporto | (2) Nome do aeroporto | (3) Categoria do aeroporto em 2003 | (4) Aeroportos da categoria «3» apenas derrogação pedida para o quadro B1 em 2003 | (5) Aeroportos das categorias «1» e «2» apenas: Para cada quadro: último ano para que se pediu derrogação (« » ou «2003» ou «2004» ou «2005») |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| (5.1) Quadro A1 | (5.2) Quadro B1 | (5.3) Quadro C1 |  |  |  |  |\n| **FMEE** | **St Denis Roland Garros** | **3** |  |  |  |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32005R0546) |  |  |  |  |  |  |\n| *FMEP* | *Saint-Pierre Pierrefonds* | *1* |  |  |  |  |\n| [▼B](http://publications.europa.eu/resource/celex/32003R1358) |  |  |  |  |  |  |\n| **LFBA** | **Agen La Garenne** | **1** |  |  |  |  |\n| **LFBD** | **Bordeaux Merignac** | **3** |  |  |  |  |\n| **LFBE** | **Bergerac Roumanière** | **1** |  |  |  |  |\n| **LFBH** | **La Rochelle Île de Ré** | **1** |  |  |  |  |\n| **LFBI** | **Poitiers Biard** | **1** |  |  |  |  |\n| LFBL | Limoges | **[**►M1**](http://publications.europa.eu/resource/celex/32005R0546) 2**◄**** |  |  |  |  |\n| **LFBO** | **Toulouse Blagnac** | **3** |  |  |  |  |\n| LFBP | Pau Pyrénées | 2 |  | 2005P |  |  |\n| LFBT | Tarbes Lourdes Pyrénées | 2 |  | 2005P |  |  |\n| **LFBV** | **Brive Laroche** | **1** |  |  |  |  |\n| **LFBX** | **Périgueux** | **1** |  |  |  |  |\n| LFBZ | Biarritz-Bayonne — Anglet | 2 |  | 2005P |  |  |\n| **LFCK** | **Castres Mazamet** | **1** |  |  |  |  |\n| **LFCR** | **Rodez Marcillac** | **1** |  |  |  |  |\n| LFJL | Metz Nancy Lorraine | 2 |  | 2005P |  |  |\n| LFKB | Bastia Poretta | 2 |  | 2005P |  |  |\n| LFKC | Calvi Sainte Catherine | 2 |  | 2005P |  |  |\n| LFKF | Figari Sud Corse | 2 |  | 2005P |  |  |\n| LFKJ | Ajaccio Campo dell'oro | 2 |  | 2005P |  |  |\n| **LFLB** | **Chambéry — Aix Les Bains** | **1** |  |  |  |  |\n| LFLC | Clermont Ferrand Auvergne | 2 |  | 2005P |  |  |\n| **LFLL** | **Lyon St Exupéry** | **3** |  |  |  |  |\n| **LFLP** | **Annecy Meythet** | **1** |  |  |  |  |\n| LFLS | Grenoble St Geoirs | 2 |  | 2005P |  |  |\n| **LFLW** | **Aurillac Tronquières** | **1** |  |  |  |  |\n| **LFMH** | **St Étienne Bouthéon** | **1** |  |  |  |  |\n| LFMK | Carcassonne | 2 |  | 2005P |  |  |\n| **LFML** | **Marseille Provence** | **3** |  |  |  |  |\n| **LFMN** | **Nice Côte d'Azur** | **3** |  |  |  |  |\n| LFMP | Perpignan Rivesaltes | 2 |  | 2005P |  |  |\n| **LFMT** | **Montpellier Méditerranée** | **3** |  |  |  |  |\n| **LFMU** | **Béziers Vias** | **1** |  |  |  |  |\n| **LFMV** | **Avignon Caumont** | **1** |  |  |  |  |\n| LFOB | Beauvais Tille | 2 |  | 2005P |  |  |\n| **LFOH** | **La Havre Octeville** | **1** |  |  |  |  |\n| **LFOK** | **Châlons Vatry** | **1** |  |  |  |  |\n| **LFOP** | **Rouen Vallée de Seine** | **1** |  |  |  |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32005R0546) |  |  |  |  |  |  |\n| *LFOT* | *Tours St-Symphorien* | *1* |  |  |  |  |\n| [▼B](http://publications.europa.eu/resource/celex/32003R1358) |  |  |  |  |  |  |\n| **LFPG** | **Paris Charles De Gaulle** | **3** |  |  |  |  |\n| **LFPO** | **Paris Orly** | **3** |  |  |  |  |\n| LFQQ | Lille Lesquin | 2 |  | 2005P |  |  |\n| LFRB | Brest Guipavas | 2 |  | 2005P |  |  |\n| **LFRD** | **Dinard Pleurtuit** | **1** |  |  |  |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32005R0546) |  |  |  |  |  |  |\n| *LFRG* | *Deauville St-Gatien* | *1* |  |  |  |  |\n| [▼B](http://publications.europa.eu/resource/celex/32003R1358) |  |  |  |  |  |  |\n| LFRH | Lorient | 2 |  | 2005P |  |  |\n| **LFRK** | **Caen Carpiquet** | **1** |  |  |  |  |\n| LFRN | Rennes St Jacques | 2 |  | 2005P |  |  |\n| **LFRO** | **Lannion Servel** | **1** |  |  |  |  |\n| **LFRQ** | **Quimper Pluguffan** | **1** |  |  |  |  |\n| **LFRS** | **Nantes Atlantique** | **3** |  |  |  |  |\n| **LFSB** | **Bâle Mulhouse** | **3** |  |  |  |  |\n| **LFSD** | **Dijon Bourgogne** | **1** |  |  |  |  |\n| **LFST** | **Strasbourg** | **3** |  |  |  |  |\n| LFTH | Toulon — Hyères | 2 |  | 2005P |  |  |\n| LFTW | Nîmes Arles Camargue | 2 |  | 2005P |  |  |\n| SOCA | Cayenne Rochambeau | 2 |  | 2005P |  |  |\n| **TFFF** | **Fort de France** | **3** |  |  |  |  |\n| **TFFG** | **St Martin Grand Case** | **1** |  |  |  |  |\n| TFFJ | St Barthélemy | 2 |  | 2005P |  |  |\n| **TFFR** | **Pointe à Pitre** | **3** |  |  |  |  |\n| Aplicam-se derrogações parciais ao campo «lugares de passageiro disponíveis» (quadro A1). |  |  |  |  |  |  |\n\n| (1) Código OACI do aeroporto | (2) Nome do aeroporto | (3) Categoria do aeroporto em 2003 | (4) Aeroportos da categoria «3» apenas derrogação pedida para o quadro B1 em 2003 | (5) Aeroportos das categorias «1» e «2» apenas: Para cada quadro: último ano para que se pediu derrogação (« » ou «2003» ou «2004» ou «2005») |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| (5.1) Quadro A1 | (5.2) Quadro B1 | (5.3) Quadro C1 |  |  |  |  |\n| **EICA** | **Connemara Regional Airport** | **1** |  |  |  |  |\n| **EICK** | **Cork** | **3** |  |  |  |  |\n| **EICM** | **Galway** | **1** |  |  |  |  |\n| **EIDL** | **Donegal** | **1** |  |  |  |  |\n| **EIDW** | **Dublin** | **3** |  |  |  |  |\n| **EIIM** | **Inishmore** | **1** |  |  |  |  |\n| EIKN | Connaught Regional Airport | 2 |  | 2005 | 2005 | 2005P |\n| EIKY | Kerry | 2 |  | 2005 | 2005 | 2005P |\n| **EINN** | **Shannon** | **3** |  |  |  |  |\n| **EISG** | **Sligo Regional Airport** | **1** |  |  |  |  |\n| **EIWF** | **Waterford** | **1** |  |  |  |  |\n| Aplicam-se derrogações parciais ao campo «informações sobre a transportadora aérea». |  |  |  |  |  |  |\n\n| (1) Código OACI do aeroporto | (2) Nome do aeroporto | (3) Categoria do aeroporto em 2003 | (4) Aeroportos da categoria «3» apenas derrogação pedida para o quadro B1 em 2003 | (5) Aeroportos das categorias «1» e «2» apenas: Para cada quadro: último ano para que se pediu derrogação (« » ou «2003» ou «2004» ou «2005») |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| (5.1) Quadro A1 | (5.2) Quadro B1 | (5.3) Quadro C1 |  |  |  |  |\n| **LIBC** | **Crotone** | **1** |  |  |  |  |\n| LIBD | Bari-Palese Macchie | 2 |  |  |  |  |\n| LIBP | Pescara | 2 |  | 2005 | 2005 |  |\n| LIBR | Brindisi-Casale | 2 |  |  |  |  |\n| LICA | Lamezia Terme | 2 |  |  | 2005 |  |\n| **LICC** | **Catania-Fontanarossa** | **3** |  |  |  |  |\n| **LICD** | **Lampedusa** | **1** |  |  |  |  |\n| **LICG** | **Pantelleria** | **1** |  |  |  |  |\n| **LICJ** | **Palermo-Punta Raisi** | **3** |  |  |  |  |\n| LICR | Reggio di Calabria | 2 |  | 2005 | 2005 |  |\n| **LICT** | **Trapani-Birgi** | **1** |  |  |  |  |\n| LIEA | Alghero-Fertilia | 2 |  | 2005 | 2005 |  |\n| **LIEE** | **Cagliari-Elmas** | **3** |  |  |  |  |\n| LIEO | Olbia — Costa Smeralda | 2 |  |  |  |  |\n| **LIET** | **Arbatax di Tortoli** | **1** |  |  |  |  |\n| **LIMC** | **Milano-Malpensa** | **3** |  |  |  |  |\n| **LIME** | **Bergamo-Orio al Serio** | **3** |  |  |  |  |\n| **LIMF** | **Torino-Caselle** | **3** |  |  |  |  |\n| LIMJ | Genova-Sestri | 2 |  | 2005 | 2005 |  |\n| **LIML** | **Milano-Linate** | **3** |  |  |  |  |\n| **LIMP** | **Parma** | **1** |  |  |  |  |\n| **LIPB** | **Bolzano** | **1** |  |  |  |  |\n| **LIPE** | **Bologna-Borgo Panigale** | **3** |  |  |  |  |\n| LIPH | Treviso-Sant'Angelo | 2 |  | 2003 | 2003 |  |\n| LIPK | Forlì | [**►M1**](http://publications.europa.eu/resource/celex/32005R0546) 2**◄** |  |  |  |  |\n| LIPO | Brescia-Montichiari | 2 |  |  |  |  |\n| LIPQ | Trieste-Ronchi dei Legionari | 2 |  | 2004 | 2004 |  |\n| LIPR | Rimini | 2 |  |  |  |  |\n| **LIPX** | **Verona-Villafranca** | **3** |  |  |  |  |\n| LIPY | Ancona-Falconara | 2 |  | 2005 | 2005 |  |\n| **LIPZ** | **Venezia-Tessera** | **3** |  |  |  |  |\n| LIRA | Roma-Ciampino | 2 |  |  |  |  |\n| **LIRF** | **Roma-Fiumicino** | **3** |  |  |  |  |\n| **LIRN** | **Napoli-Capodichino** | **3** |  |  |  |  |\n| LIRP | Pisa-San Giusto | 2 |  | 2005 | 2005 |  |\n| LIRQ | Firenze-Peretola | 2 |  |  |  |  |\n| **LIRZ** | **Perugia** | **1** |  |  |  |  |\n\n| (1) Código OACI do aeroporto | (2) Nome do aeroporto | (3) Categoria do aeroporto em 2003 | (4) Aeroportos da categoria «3» apenas derrogação pedida para o quadro B1 em 2003 | (5) Aeroportos das categorias «1» e «2» apenas: Para cada quadro: último ano para que se pediu derrogação (« » ou «2003» ou «2004» ou «2005») |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| (5.1) Quadro A1 | (5.2) Quadro B1 | (5.3) Quadro C1 |  |  |  |  |\n| **ELLX** | **Luxembourg** | **3** | **X** |  |  |  |\n\n| (1) Código OACI do aeroporto | (2) Nome do aeroporto | (3) Categoria do aeroporto em 2003 | (4) Aeroportos da categoria «3» apenas: derrogação pedida para o quadro B1 em 2003 | (5) Aeroportos das categorias «1» e «2» apenas: Para cada quadro: último ano para que se pediu derrogação (« » ou «2003» ou «2004» ou «2005») |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| (5.1) Quadro A1 | (5.2) Quadro B1 | (5.3) Quadro C1 |  |  |  |  |\n| **EHAM** | **Amsterdam/Schiphol** | **3** | **P** |  |  |  |\n| EHBK | Maastricht-Aachen | 2 |  | 2005P |  | 2005P |\n| EHEH | Eindhoven/Welschap | 2 |  | 2005P |  | 2005P |\n| **EHGG** | **Eelde/Groningen** | **1** |  |  |  |  |\n| EHRD | Rotterdam/Zestienhoven | 2 |  | 2005P |  | 2005P |\n| [▼M1](http://publications.europa.eu/resource/celex/32005R0546) ————— |  |  |  |  |  |  |\n| [▼B](http://publications.europa.eu/resource/celex/32003R1358) |  |  |  |  |  |  |\n| **EHTW** | **Enschede/Twenthe** | **1** |  |  |  | **2005** |\n| Aplicam-se derrogações parciais aos campos«lugares de passageiro disponíveis» e «informações sobre a transportadora aérea» |  |  |  |  |  |  |\n\n| (1) Código OACI do aeroporto | (2) Nome do do aeroporto | (3) Categoria do aeroporto em 2003 | (4) Aeroportos da categoria «3» apenas: derrogação pedida para o quadro B1 em 2003 | (5) Aeroportos das categorias «1» e «2» apenas: Para cada quadro: último ano para que se pediu derrogação (« » ou «2003» ou «2004» ou «2005») |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| (5.1) Quadro A1 | (5.2) Quadro B1 | (5.3) Quadro C1 |  |  |  |  |\n| LOWG | Graz | 2 |  |  |  |  |\n| LOWI | Innsbruck | 2 |  |  |  |  |\n| LOWK | Klagenfurt | 2 |  |  |  |  |\n| LOWL | Linz | 2 |  |  |  |  |\n| LOWS | Salzburg | 2 |  |  |  |  |\n| **LOWW** | **Wien/Schwechat** | **3** |  |  |  |  |\n\n| (1) Código OACI do aeroporto | (2) Nome do aeroporto | (3) Categoria do aeroporto em 2003 | (4) Aeroportos da categoria «3» apenas: derrogação pedida para o quadro B1 em 2003 | (5) Aeroportos das categorias «1» e «2» apenas: Para cada quadro: último ano para que se pediu derrogação (« » ou «2003» ou «2004» ou «2005») |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| (5.1) Quadro A1 | (5.2) Quadro B1 | (5.3) Quadro C1 |  |  |  |  |\n| **LPAZ** | **Santa Maria** | **1** |  |  |  |  |\n| **LPFL** | **Flores** | **1** |  |  |  |  |\n| **LPFR** | **Faro** | **3** |  |  |  |  |\n| **LPMA** | **Madeira/Madeira** | **3** |  |  |  |  |\n| LPHR | Horta | 2 |  |  |  |  |\n| LPLA | Lajes | 2 |  |  |  |  |\n| LPPD | Ponta Delgada | 2 |  |  |  |  |\n| **LPPI** | **Pico** | **1** |  |  |  |  |\n| **LPPR** | **Porto** | **3** |  |  |  |  |\n| LPPS | Porto Santo | 2 |  |  |  |  |\n| **LPPT** | **Lisboa** | **3** |  |  |  |  |\n\n| (1) Código OACI do aeroporto | (2) Nome do aeroporto | (3) Categoria do aeroporto em 2003 | (4) Aeroportos da categoria «3» apenas: derrogação pedida para o quadro B1 em 2003 | (5) Aeroportos das categorias «1» e «2» apenas: Para cada quadro: último ano para que se pediu derrogação (« » ou «2003» ou «2004» ou «2005») |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| (5.1) Quadro A1 | (5.2) Quadro B1 | 5.3) Quadro C1 |  |  |  |  |\n| **EFHK** | **Helsinki-Vantaa** | **3** |  |  |  |  |\n| **EFIV** | **Ivalo** | **1** |  |  |  |  |\n| EFJO | Joensuu | 2 |  |  |  |  |\n| EFJY | Jyväskylä | 2 |  |  |  |  |\n| **EFKE** | **Kemi-Tornio** | **1** |  |  |  |  |\n| **EFKI** | **Kajaani** | **1** |  |  |  |  |\n| **EFKK** | **Kruunupyy** | **1** |  |  |  |  |\n| **EFKS** | **Kuusamo** | **1** |  |  |  |  |\n| EFKT | Kittilä | 2 |  |  |  |  |\n| EFKU | Kuopio | 2 |  |  |  |  |\n| **EFLP** | **Lappeenranta** | **1** |  |  |  |  |\n| **EFMA** | **Mariehamn** | **1** |  |  |  |  |\n| EFOU | Oulu | 2 |  |  |  |  |\n| **EFPO** | **Pori** | **1** |  |  |  |  |\n| EFRO | Rovaniemi | 2 |  |  |  |  |\n| **EFSA** | **Savonlinna** | **1** |  |  |  |  |\n| **EFSI** | **Seinäjoki** | **1** |  |  |  |  |\n| EFTP | Tampere-Pirkkala | 2 |  |  |  |  |\n| EFTU | Turku | 2 |  |  |  |  |\n| EFVA | Vaasa | 2 |  |  |  |  |\n| **EFVR** | **Varkaus** | **1** |  |  |  |  |\n\n| (1) Código OACI do aeroporto | (2) Nome do aeroporto | (3) Categoria do aeroporto em 2003 | (4) Aeroportos da categoria «3» apenas: derrogação pedida para o quadro B1 em 2003 | (5) Aeroportos das categorias «1» e «2» apenas: Para cada quadro: último ano para que se pediu derrogação (« » ou «2003» ou «2004» ou «2005») |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| (5.1) Quadro A1 | (5.2) Quadro B1 | (5.3) Quadro C1 |  |  |  |  |\n| ESDB | Ängelholm | 2 |  |  | 2005 |  |\n| ESDF | Ronneby | 2 |  |  | 2005 |  |\n| **ESGG** | **Göteborg-Landvetter** | **3** | **X** |  |  |  |\n| ESGJ | Jönköping | 2 |  |  | 2005 |  |\n| **ESGP** | **Göteborg/Säve** | **1** |  |  |  | **2005** |\n| **ESGT** | **Trollhättan/Vänersb** | **1** |  |  |  | **2005** |\n| ESKN | Stockholm/Skavsta | 2 |  | 2005 | 2005 | 2005 |\n| ESMK | Kristianstad/Everöd | 2 |  | 2005 | 2005 | 2005 |\n| **ESMO** | **Oskarshamn** | **1** |  |  |  | **2005** |\n| ESMQ | Kalmar | 2 |  |  | 2005 |  |\n| **ESMS** | **Malmö-Sturup** | **3** | **X** |  |  |  |\n| **ESMT** | **Halmstad** | **1** |  |  |  |  |\n| ESMX | Växjö/Kronoberg | 2 |  | 2005 | 2005 | 2005 |\n| **ESNG** | **Gällivare** | **1** |  |  |  | **2005** |\n| **ESNK** | **Kramfors** | **1** |  |  |  | **2005** |\n| **ESNL** | **Lycksele** | **1** |  |  |  | **2005** |\n| ESNN | Sundsvall-Härnösand | 2 |  |  | 2005 |  |\n| ESNO | Örnsköldsvik | 2 |  |  | 2005 |  |\n| ESNQ | Kiruna | 2 |  |  | 2005 |  |\n| ESNS | Skellefteå | 2 |  |  | 2005 |  |\n| ESNU | Umeå | 2 |  |  | 2005 |  |\n| **ESNV** | **Vilhelmina** | **1** |  |  |  | **2005** |\n| **ESNX** | **Arvidsjaur** | **1** |  |  |  | **2005** |\n| ESOE | Örebro | 2 |  | 2005 | 2005 | 2005 |\n| ESOK | Karlstad | 2 |  |  | 2005 |  |\n| ESOW | Stockholm/Västerås | 2 |  | 2005 | 2005 | 2005 |\n| ESPA | Luleå | 2 |  |  | 2005 |  |\n| ESPC | Östersund | 2 |  |  | 2005 |  |\n| **ESSA** | **Stockholm-Arlanda** | **3** | **X** |  |  |  |\n| ESSB | Stockholm-Bromma | 2 |  |  | 2005 |  |\n| **ESSD** | **Borlänge** | **1** |  |  |  | **2005** |\n| **ESSL** | **Linköping/Saab** | **1** |  |  |  | **2005** |\n| ESSP | Norrköping | 2 |  |  | 2005 |  |\n| ESSV | Visby | 2 |  |  | 2005 |  |\n| **ESUD** | **Storuman** | **1** |  |  |  | **2005** |\n\n| (1) Código OACI do aeroporto | (2) Nome do aeroporto | (3) Categoria do aeroporto em 2003 | (4) Aeroportos da categoria \"3\" apenas: derrogação pedida para o quadro B1 em 2003 | (5) Aeroportos das categorias «1» e «2» apenas: Para cada quadro: último ano para que se pediu derrogação (« » ou «2003» ou «2004» ou «2005») |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| (5.1) Quadro A1 | (5.2) Quadro B1 | (5.3) Quadro C1 |  |  |  |  |\n| **EGAA** | **Belfast International** | **3** |  |  |  |  |\n| **EGAC** | **Belfast City** | [**►M1**](http://publications.europa.eu/resource/celex/32005R0546) **3** **◄** |  |  |  |  |\n| EGAE | Londonderry | 2 |  |  |  |  |\n| **EGBB** | **Birmingham** | **3** |  |  |  |  |\n| **EGBE** | **Coventry** | **1** |  |  |  |  |\n| **EGCC** | **Manchester** | **3** |  |  |  |  |\n| **EGDG** | **Newquay** | **1** |  |  |  | **2004** |\n| **EGFF** | **Cardiff Wales** | **3** |  |  |  |  |\n| **EGFH** | **Swansea** | **1** |  |  |  | **[**►M1**](http://publications.europa.eu/resource/celex/32005R0546) 2005**◄**** |\n| **EGGD** | **Bristol** | **3** |  |  |  |  |\n| **EGGP** | **Liverpool** | **3** |  |  |  |  |\n| **EGGW** | **Luton** | **3** |  |  |  |  |\n| **EGHC** | **Land's End** | **1** |  |  |  |  |\n| **EGHD** | **Plymouth** | **1** |  |  |  |  |\n| **EGHE** | **Isles of Scilly (St. Marys)** | **1** |  |  |  |  |\n| EGHH | Bournemouth | 2 |  |  |  |  |\n| EGHI | Southampton | 2 |  |  |  |  |\n| **EGHK** | **Penzance Heliport** | **1** |  |  |  |  |\n| **EGHT** | **Isles of Scilly (Tresco)** | **1** |  |  |  |  |\n| **EGKK** | **Gatwick** | **3** |  |  |  |  |\n| **EGLC** | **London City** | **3** |  |  |  |  |\n| **EGLL** | **Heathrow** | **3** |  |  |  |  |\n| EGMH | Kent International | 2 |  |  |  |  |\n| **EGNH** | **Blackpool** | **1** |  |  |  |  |\n| EGNJ | Humberside | 2 |  |  |  |  |\n| **EGNM** | **Leeds Bradford** | **3** |  |  |  |  |\n| **EGNT** | **Newcastle** | **3** |  |  |  |  |\n| EGNV | Teesside | 2 |  |  |  |  |\n| **EGNX** | **East Midlands** | **3** |  |  |  |  |\n| **EGPA** | **Kirkwall** | **1** |  |  |  |  |\n| **EGPB** | **Sumburgh** | **1** |  |  |  |  |\n| **EGPC** | **Wick** | **1** |  |  |  |  |\n| **EGPD** | **Aberdeen** | **3** |  |  |  |  |\n| EGPE | Inverness | 2 |  |  |  |  |\n| **EGPF** | **Glasgow** | **3** |  |  |  |  |\n| **EGPH** | **Edinburgh** | **3** |  |  |  |  |\n| **EGPI** | **Islay** | **1** |  |  |  |  |\n| **EGPK** | **Prestwick** | **3** |  |  |  |  |\n| **EGPL** | **Benbecula** | **1** |  |  |  |  |\n| EGPM | Scatsta | 2 |  |  |  |  |\n| **EGPN** | **Dundee** | **1** |  |  |  |  |\n| **EGPO** | **Stornoway** | **1** |  |  |  |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32005R0546) ————— |  |  |  |  |  |  |\n| [▼B](http://publications.europa.eu/resource/celex/32003R1358) |  |  |  |  |  |  |\n| EGSH | Norwich | 2 |  |  |  |  |\n| **EGSS** | **Stansted** | **3** |  |  |  |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32005R0546) ————— |  |  |  |  |  |  |\n| [▼B](http://publications.europa.eu/resource/celex/32003R1358) |  |  |  |  |  |  |\n| EGTE | Exeter | 2 |  |  |  |  |\n\n| (1) Código OACI do aeroporto | (2) Nome do aeroporto | (3) Categoria do aeroporto em 2004 | (4) Categorias dos aeroportos 1 e «2» apenas: Para cada quadro: último ano para que se pediu derrogação («» ou «2004» ou «2005») |  |  |\n| --- | --- | --- | --- | --- | --- |\n| (4.1) Quadro A1 | (4.2) Quadro B1 | (4.3) Quadro C1 |  |  |  |\n| **LKPR** | **Praha-Ruzyne** | **3** |  |  |  |\n| LKTB | Brno-Turany | 2 |  |  |  |\n| LKMT | Ostrava-Mosnov | 2 |  |  |  |\n| *LKKV* | *Karlovy Vary* | *1* |  |  |  |\n\n| (1) Código OACI do aeroporto | (2) Nome do aeroporto | (3) Categoria do aeroporto em 2004 | (4) Categorias dos aeroportos «1» e «2» apenas: Para cada quadro: último ano para que se pediu derrogação («» ou «2004» ou «2005») |  |  |\n| --- | --- | --- | --- | --- | --- |\n| (4.1) Quadro A1 | (4.2) Quadro B1 | (4.3) Quadro C1 |  |  |  |\n| EETN | Tallinn/Ülemiste | 2 |  |  |  |\n| *EECL* | *Tallinn/City Hall* | *1* |  |  |  |\n\n| (1) Código OACI do aeroporto | (2) Nome do aeroporto | (3) Categoria do aeroporto em 2004 | (4) Categorias dos aeroportos «1» e «2» apenas: Para cada quadro: último ano para que se pediu derrogação («» ou «2004» ou «2005») |  |  |\n| --- | --- | --- | --- | --- | --- |\n| (4.1) Quadro A1 | (4.2) Quadro B1 | (4.3) Quadro C1 |  |  |  |\n| **LCLK** | **Larnaka** | **3** |  |  |  |\n| **LCPH** | **Pafos** | **3** |  |  |  |\n\n| (1) Código OACI do aeroporto | (2) Nome do aeroporto | (3) Categoria do aeroporto em 2004 | (4) Categorias dos aeroportos «1» e «2» apenas: Para cada quadro: último ano para que se pediu derrogação («» ou «2004» ou «2005») |  |  |\n| --- | --- | --- | --- | --- | --- |\n| (4.1) Quadro A1 | (4.2) Quadro B1 | (4.3) Quadro C1 |  |  |  |\n| EVRA | Riga International Airport | 2 |  |  |  |\n\n| (1) Código OACI do aeroporto | (2) Nome do aeroporto | (3) Categoria do aeroporto em 2004 | (4) Categorias dos aeroportos «1» e «2» apenas: Para cada quadro: último ano para que se pediu derrogação («» ou «2004» ou «2005») |  |  |\n| --- | --- | --- | --- | --- | --- |\n| (4.1) Quadro A1 | (4.2) Quadro B1 | (4.3) Quadro C1 |  |  |  |\n| **EYVI** | **Vilnius** | **2** | **2005** | **2005** | **2005P** |\n| *EYKA* | *Kaunas* | *1* |  |  | *2005P* |\n| *EYPA* | *Palanga* | *1* |  |  | *2005P* |\n| *Quadro C1:* Aplicam-se derrogações parciais ao campo «informações sobre a transportadora aérea». |  |  |  |  |  |\n\n| (1) Código OACI do aeroporto | (2) Nome do aeroporto | (3) Categoria do aeroporto em 2004 | (4) Categorias dos aeroportos «1» e «2» apenas: Para cada quadro: último ano para que se pediu derrogação («» ou «2004» ou «2005») |  |  |\n| --- | --- | --- | --- | --- | --- |\n| (4.1) Quadro A1 | (4.2) Quadro B1 | (4.3) Quadro C1 |  |  |  |\n| **LHBP** | **Budapest/Ferihegy** | **3** |  |  |  |\n\n| (1) Código OACI do aeroporto | (2) Nome do aeroporto | (3) Categoria do aeroporto em 2004 | (4) Categorias dos aeroportos «1» e «2» apenas: Para cada quadro: último ano para que se pediu derrogação («» ou «2004» ou «2005») |  |  |\n| --- | --- | --- | --- | --- | --- |\n| (4.1) Quadro A1 | (4.2) Quadro B1 | (4.3) Quadro C1 |  |  |  |\n| **LMML** | **Malta/Luqa** | **3** |  |  |  |\n\n| (1) Código OACI do aeroporto | (2) Nome do aeroporto | (3) Categoria do aeroporto em 2004 | (4) Categorias dos aeroportos «1» e «2» apenas: Para cada quadro: último ano para que se pediu derrogação («» ou «2004» ou «2005») |  |  |\n| --- | --- | --- | --- | --- | --- |\n| (4.1) Quadro A1 | (4.2) Quadro B1 | (4.3) Quadro C1 |  |  |  |\n| **EPWA** | **Warszawa–Okęcie** | **3** |  |  |  |\n| EPGD | Gdańsk–Trójmiasto | 2 | 2005 | 2005 | 2005P |\n| EPKK | Kraków–Balice | 2 | 2005 | 2005 | 2005P |\n| EPWR | Wrocław–Strachowice | 2 | 2005 | 2005 | 2005P |\n| EPPO | Poznań–Lawica | 2 | 2005 | 2005 | 2005P |\n| EPKT | Katowice–Pyrzowice | 2 | 2005 | 2005 | 2005P |\n| *EPSC* | *Szczecin–Goleniów* | *1* |  |  | *2005* |\n| *EPRZ* | *Rzeszów–Jasionka* | *1* |  |  | *2005* |\n| *EPBG* | *Bydgoszcz* | *1* |  |  | *2005* |\n| *Quadro C1:* Aplicam-se derrogações parciais ao campo «informações sobre a transportadora aérea». |  |  |  |  |  |\n\n| (1) Código OACI do aeroporto | (2) Nome do aeroporto | (3) Categoria do aeroporto em 2004 | (4) Categorias dos aeroportos «1» e «2» apenas: Para cada quadro: último ano para que se pediu derrogação («» ou «2004» ou «2005») |  |  |\n| --- | --- | --- | --- | --- | --- |\n| (4.1) Quadro A1 | (4.2) Quadro B1 | (4.3) Quadro C1 |  |  |  |\n| LJLJ | Ljubljana | 2 |  |  |  |\n\n| (1) Código OACI do aeroporto | (2) Nome do aeroporto | (3) Categoria do aeroporto em 2004 | (4) Categorias dos aeroportos «1» e «2» apenas: Para cada quadro: último ano para que se pediu derrogação («» ou «2004» ou «2005») |  |  |\n| --- | --- | --- | --- | --- | --- |\n| (4.1) Quadro A1 | (4.2) Quadro B1 | (4.3) Quadro C1 |  |  |  |\n| LZIB | Bratislava/Ivanka | 2 |  |  |  |\n| LZKZ | Kosice | 2 |  |  |  |"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "bae38d57067d1d65": {
+   "fragment_id": "DESCRIÇÃO DOS FICHEIROS DE DADOS E DO SUPORTE DE TRANSMISSÃO",
+   "type": "divisao",
+   "heading": "DESCRIÇÃO DOS FICHEIROS DE DADOS E DO SUPORTE DE TRANSMISSÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DESCRIÇÃO DOS FICHEIROS DE DADOS E DO SUPORTE DE TRANSMISSÃO\n\nPara a transmissão dos quadros do regulamento aceitam-se dois formatos compatíveis EDI: «CSV» (Comma Separated Values) com ponto e vírgula (;) como separador de campos e GESMES-EDIFACT."
+  },
+  "a70e82c625e6fd7e": {
+   "fragment_id": "Lista e descrição dos campos a utilizar para cada quadro do regulamento:",
+   "type": "divisao",
+   "heading": "Lista e descrição dos campos a utilizar para cada quadro do regulamento:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista e descrição dos campos a utilizar para cada quadro do regulamento:\n\nO quadro recapitulativo que se segue indica, para cada quadro do regulamento («A1», «B1» e «C1») e para cada registo (linha), a lista dos campos a fornecer. Na coluna associada ao quadro correspondente identificam-se dois tipos de campos diferentes:\n\n— «X»: campos que devem ser fornecidos para um quadro,\n\n— « » (espaço): campos que não são pertinentes para o quadro. Normalmente, estes campos não devem ser fornecidos nos quadros correspondentes. Todavia, neste caso aceitam-se igualmente campos vazios (2 separadores de dados sem dados entre eles)."
+  },
+  "b9b1e43a6fd4bbc0": {
+   "fragment_id": "Formato e dimensão dos campos:",
+   "type": "divisao",
+   "heading": "Formato e dimensão dos campos:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Formato e dimensão dos campos:\n\nO formato de cada campo ou é numérico (n) ou alfabético (a) ou alfanumérico (an).\n\nA dimensão ou é fixa («formato + número» — por exemplo, «n4») ou variável com um número máximo de posições («formato + “..” + número máximo de posições,» — por exemplo: «n..12»).\n\n| Pos. | Campos | Formato e dimensão | Quadros |  |  |\n| --- | --- | --- | --- | --- | --- |\n| A1 | B1 | C1 |  |  |  |\n| 1 | Identificação do quadro | an2 | X | X | X |\n| 2 | País declarante | a2 | X | X | X |\n| 3 | Ano de referência | n2 | X | X | X |\n| 4 | Período de referência | an2 | X | X | X |\n| 5 | Aeroporto declarante | an4 | X | X | X |\n| 6 | Aeroporto parceiro | an4 | X | X |  |\n| 7 | Chegada/partida | n1 | X | X |  |\n| 8 | Serviços regulares/não regulares | n1 | X | X |  |\n| 9 | Voo de passageiros/Voo polivalente de carga e correio | n1 | X | X |  |\n| 10 | Informações sobre a transportadora aérea | a3 | X | X | X |\n| 11 | Tipo de aeronave | an..4 | X |  |  |\n| *12* | *Passageiros* | *n..12* | *X* | *X* | *X* |\n| *13* | *Passageiros em trânsito directo* | *n..12* |  |  | *X* |\n| *14* | *Carga e correio* | *n..12* | *X* | *X* | *X* |\n| *15* | *Voos comerciais (Quadro «A1») Total dos movimentos de aeronaves comerciais (Quadro «C1»)* | *n..12* | *X* |  | *X* |\n| *16* | *Total dos movimentos de aeronaves* | *n..12* |  |  | *X* |\n| *17* | *Lugares de passageiro disponíveis* | *n..12* | *X* |  |  |\n\nUm quadro (para um período) deve corresponder a um ficheiro (ou «envio») transmitido ao Eurostat.\n\nCada ficheiro (quadro) deve ser identificado de acordo com o seguinte formato: «CCYYPPTT.csv» (para o formato csv) ou: «CCYYPPTT.ges» (para o formato gesmes), sendo «CC» o código do país (ISO 2 letras), «YY» o ano, «PP» o período (AN, Q1..Q4 ou 01..12) e «TT» a identificação do quadro («A1», «B1» ou «C1»).\n\nCaso o ficheiro tenha sido comprimido, deve usar-se o sufixo «zip» e não «csv» ou «ges».\n\n*O suporte de transmissão deve ser compatível com o controlo e o processamento automáticos no Eurostat.*\n\n*Dá-se preferência a ferramentas compatíveis EDI. Todavia, também se aceitam, durante um período transitório, ferramentas «Pre-EDI» bem como mensagens electrónicas estruturadas enviadas para o endereço que o Eurostatindicar.*\n\nCaso se utilize uma mensagem electrónica estruturada:\n\n— campo «objecto» da mensagem electrónica deve incluir o nome do ficheiro (quadro) a enviar,\n\n— o ficheiro (quadro) deve ser junto à mensagem electrónica (só se aceita um ficheiro por mensagem electrónica),\n\n— podem ser introduzidos comentários aos dados em texto corrente, não formatado, no corpo da mensagem a que se juntou o quadro (não utilizar texto formatado)."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "d425ba970958bc0a": {
+   "fragment_id": "Alterações aos anexos do Regulamento (CE) n.º 437/2003",
+   "type": "divisao",
+   "heading": "Alterações aos anexos do Regulamento (CE) n.º 437/2003",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Alterações aos anexos do Regulamento (CE) n.º 437/2003"
+  },
+  "f5a44b04acdf4fb3": {
+   "fragment_id": "«ANEXO I",
+   "type": "divisao",
+   "heading": "«ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## «ANEXO I"
+  },
+  "0c3fdc73195439f4": {
+   "fragment_id": "ESTRUTURA DO REGISTO PARA A TRANSMISSÃO DE DADOS AO EUROSTAT",
+   "type": "divisao",
+   "heading": "ESTRUTURA DO REGISTO PARA A TRANSMISSÃO DE DADOS AO EUROSTAT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ESTRUTURA DO REGISTO PARA A TRANSMISSÃO DE DADOS AO EUROSTAT\n\nOs dados a declarar referem-se exclusivamente à aviação civil.\n\nExcluem-se voos estatais e movimentos por modos de transporte de superfície quer de passageiros que viajem com um código de voo ou de mercadorias expedidas com uma carta de porte aéreo."
+  },
+  "f442177530893c53": {
+   "fragment_id": "A. Quadro sobre as etapas de voo [dados mensais ([^3^](http://publications.europa.eu/resource/cellar/58209406-1461-44f7-b6d7-a1be286a13ac.0016.03/DOC_1#E0003))]",
+   "type": "divisao",
+   "heading": "A. Quadro sobre as etapas de voo [dados mensais ([^3^](http://publications.europa.eu/resource/cellar/58209406-1461-44f7-b6d7-a1be286a13ac.0016.03/DOC_1#E0003))]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Quadro sobre as etapas de voo [dados mensais ([^3^](http://publications.europa.eu/resource/cellar/58209406-1461-44f7-b6d7-a1be286a13ac.0016.03/DOC_1#E0003))]\n\nOs dados comunicados neste quadro só dizem respeito a serviços comerciais aéreos.\n\n| Elementos | Codificação | Nomenclatura | Unidade |\n| --- | --- | --- | --- |\n| Quadro | 2 letras | “A1” |  |\n| País declarante | 2 letras | (1) Principais letras OACI de nacionalidade |  |\n| Ano de referência | 2 dígitos | Tipo “yy” (2 últimas posições do ano) |  |\n| Período de referência | 2 letras | (2) Explícito (ou Statra) |  |\n| Aeroporto declarante | 4 letras | (3) OACI |  |\n| Aeroporto seguinte/anterior | 4 letras | (3) OACI |  |\n| Chegada/partida | 1 dígito | 1 = chegada 2 = partida |  |\n| Serviços regulares/não regulares | 1 dígito | 1 = regular 2 = não regular |  |\n| Serviços de passageiros/serviços polivalentes de carga e correio | 1 dígito | 1 = serviços de passageiros 2 = serviços polivalentes de carga e correio |  |\n| Informações sobre a transportadora aérea | 3 letras | (4) Informações sobre a transportadora aérea (facultativo) |  |\n| Tipo de aeronave | 4 letras | (5) OACI |  |\n| Passageiros a bordo | 12 dígitos |  | Passageiro |\n| Carga e correio a bordo | 12 dígitos |  | Tonelada |\n| Voos comerciais | 12 dígitos |  | Número de voos |\n| Lugares de passageiro disponíveis | 12 dígitos |  | Lugares de passageiro |"
+  },
+  "1fe02d050ef3ae8f": {
+   "fragment_id": "B. Quadro sobre origem/destino do voo [dados mensais ([^4^](http://publications.europa.eu/resource/cellar/58209406-1461-44f7-b6d7-a1be286a13ac.0016.03/DOC_1#E0004))]",
+   "type": "divisao",
+   "heading": "B. Quadro sobre origem/destino do voo [dados mensais ([^4^](http://publications.europa.eu/resource/cellar/58209406-1461-44f7-b6d7-a1be286a13ac.0016.03/DOC_1#E0004))]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Quadro sobre origem/destino do voo [dados mensais ([^4^](http://publications.europa.eu/resource/cellar/58209406-1461-44f7-b6d7-a1be286a13ac.0016.03/DOC_1#E0004))]\n\nOs dados comunicados neste quadro só dizem respeito a serviços comerciais aéreos.\n\n| Elementos | Codificação | Nomenclatura | Unidade |\n| --- | --- | --- | --- |\n| Quadro | 2 letras | B1 |  |\n| País declarante | 2 letras | (1) Principais letras OACI de nacionalidade |  |\n| Ano de referência | 2 dígitos | Tipo “yy” (2 últimas posições do ano) |  |\n| Período de referência | 2 letras | (2) Explícito (ou Statra) |  |\n| Aeroporto declarante | 4 letras | (3) OACI |  |\n| Aeroporto de origem/de destino | 4 letras | (3) OACI |  |\n| Chegada/partida | 1 dígito | 1 = chegada 2 = partida |  |\n| Serviços regulares/não regulares | 1 dígito | 1 = regular 2 = não regular |  |\n| Serviços de passageiros/serviços polivalentes de carga e correio | 1 dígito | 1 = serviços de passageiros 2 = serviços polivalentes de carga e correio |  |\n| Informações sobre a transportadora aérea | 3 letras | (4) Informações sobre a transportadora aérea (facultativo) |  |\n| Passageiros transportados | 12 dígitos |  | Passageiro |\n| Carga e correio carregados ou descarregados | 12 dígitos |  | Tonelada |"
+  },
+  "64c82115ce746833": {
+   "fragment_id": "C. Quadro sobre os aeroportos (pelo menos, dados anuais)",
+   "type": "divisao",
+   "heading": "C. Quadro sobre os aeroportos (pelo menos, dados anuais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### C. Quadro sobre os aeroportos (pelo menos, dados anuais)\n\nOs dados comunicados neste quadro só dizem respeito a serviços comerciais aéreos, com excepção do “total dos movimentos de aeronaves comerciais” que também diz respeito a todas as operações comerciais gerais da aviação e do “total dos movimentos de aeronaves” que se refere a todos os movimentos de aeronaves civis (com excepção dos voos estatais).\n\n| Elementos | Codificação | Nomenclatura | Unidade |\n| --- | --- | --- | --- |\n| Quadro | 2 letras | C1 |  |\n| País declarante | 2 letras | (1)Principais letras OACI de nacionalidade |  |\n| Ano de referência | 2 dígitos | Tipo “yy” |  |\n| Período de referência | 2 letras | (2) Explícito (ou Statra) |  |\n| Aeroporto declarante | 4 letras | (3) OACI |  |\n| Informações sobre a transportadora aérea [(^1^)](http://publications.europa.eu/resource/cellar/58209406-1461-44f7-b6d7-a1be286a13ac.0016.03/DOC_1#E0005) | 3 letras | (4) Informações sobre a transportadora aérea |  |\n| Total dos passageiros transportados | 12 dígitos |  | Passageiro |\n| Total dos passageiros em trânsito directo. | 12 dígitos |  | Passageiro |\n| Total da carga e do correio carregados/descarregados | 12 dígitos |  | Tonelada |\n| Total dos movimentos de aeronaves comerciais | 12 dígitos |  | Movimento |\n| Total dos movimentos de aeronaves | 12 dígitos |  | Movimento |\n| (^1^)O campo “informações sobre a transportadora aérea” só é obrigatório para os aeroportos que devam igualmente declarar os quadros A1 e B1. Para os aeroportos que não estejam sujeitos à obrigação de declarar os quadros A1 e B1, pode utilizar-se um código que abranja todas as transportadoras aéreas. |  |  |  |"
+  },
+  "8da4e80438b8ad3a": {
+   "fragment_id": "CÓDIGOS",
+   "type": "divisao",
+   "heading": "CÓDIGOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CÓDIGOS"
+  },
+  "cffad13810ca7c7b": {
+   "fragment_id": "1. País declarante",
+   "type": "divisao",
+   "heading": "1. País declarante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. País declarante\n\nO sistema de codificação a usar é o do índice OACI das letras de nacionalidade para os indicadores de localização. Se existirem vários prefixos para o mesmo país, aplica-se apenas o principal prefixo OACI para a metrópole.\n\nBélgica EB\n\nDinamarca EK\n\nAlemanha ED\n\nGrécia LG\n\nEspanha LE\n\nFrança LF\n\nIrlanda EI\n\nItália LI\n\nLuxemburgo EL\n\nPaíses Baixos EH\n\nÁustria LO\n\nPortugal LP\n\nFinlândia EF\n\nSuécia ES\n\nReino Unido EG"
+  },
+  "ccf059dd05352008": {
+   "fragment_id": "2. Período de referência",
+   "type": "divisao",
+   "heading": "2. Período de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Período de referência\n\nAN (ou 45) ano\n\nQ1 (ou 21) Janeiro-Março (primeiro trimestre)\n\nQ2 (ou 22) Abril-Junho (segundo trimestre)\n\nQ3 (ou 23) Julho-Setembro (terceiro trimestre)\n\nQ4 (ou 24) Outubro-Dezembro (quarto trimestre)\n\n1 a 12 Janeiro a Dezembro (mês)"
+  },
+  "4ee03155045d7616": {
+   "fragment_id": "3. Aeroportos",
+   "type": "divisao",
+   "heading": "3. Aeroportos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Aeroportos\n\nOs aeroportos devem ser codificados segundo os códigos OACI de 4 letras, constantes do documento OACI 7910. Os aeroportos desconhecidos devem ser codificados “ZZZZ”."
+  },
+  "24e647424749a8a0": {
+   "fragment_id": "4. Informações sobre a transportadora aérea",
+   "type": "divisao",
+   "heading": "4. Informações sobre a transportadora aérea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Informações sobre a transportadora aérea\n\n“1EU” para transportadoras aéreas licenciadas na União Europeia,\n\n“1NE” para transportadoras aéreas não licenciadas na União Europeia,\n\n“ZZZ” para transportadoras aéreas desconhecidas,\n\n“888” para “confidencial” (a utilizar nos quadros A1 e B1 se as “informações sobre a transportadora aérea” não puderem ser divulgadas por questões de confidencialidade),\n\n“999” para todas as transportadoras aéreas (a utilizar apenas no quadro C1).\n\n*As transportadoras aéreas parcialmente licenciadas na UE devem ser declaradas como “transportadoras aéreas da UE”.*\n\n*Numa base voluntária, o código 2+código do país de 2 letras ISO (país de licença da transportadora aérea) pode igualmente ser utilizado, assim como o código OACI da transportadora aérea.*"
+  },
+  "43a5e7d401dcc992": {
+   "fragment_id": "5. Tipo de aeronave",
+   "type": "divisao",
+   "heading": "5. Tipo de aeronave",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Tipo de aeronave\n\nOs tipos de aeronaves devem ser codificados segundo os descritores OACI do tipo de aeronave, constantes do documento OACI 8643.\n\nOs tipos de aeronaves desconhecidos devem ser codificados “ZZZZ”."
+  },
+  "72226cf05500f904": {
+   "fragment_id": "DEFINIÇÕES E ESTATÍSTICAS A DECLARAR",
+   "type": "divisao",
+   "heading": "DEFINIÇÕES E ESTATÍSTICAS A DECLARAR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DEFINIÇÕES E ESTATÍSTICAS A DECLARAR\n\nAo título de cada rubrica segue-se a indicação dos artigos ou quadros do regulamento em que se faz referência ao termo definido."
+  },
+  "74e420fba9747816": {
+   "fragment_id": "I. DEFINIÇÕES E VARIÁVEIS DE INTERESSE GERAL",
+   "type": "divisao",
+   "heading": "I. DEFINIÇÕES E VARIÁVEIS DE INTERESSE GERAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. DEFINIÇÕES E VARIÁVEIS DE INTERESSE GERAL"
+  },
+  "cbe16eba26bda31b": {
+   "fragment_id": "1. Aeroporto comunitário (artigos 1.º e 3.º )",
+   "type": "divisao",
+   "heading": "1. Aeroporto comunitário (artigos 1.º e 3.º )",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Aeroporto comunitário (artigos 1.º e 3.º )\n\nTerreno ou plano de água definido, situado num Estado-Membro, sujeito às disposições do Tratado, que se destina a ser utilizado, total ou parcialmente, para a chegada, partida e movimentação em terra de aeronaves, aberto a serviços comerciais aéreos ^(ver -4-)^."
+  },
+  "0640fc2452827081": {
+   "fragment_id": "2. Voo estatal (artigo 1.º e quadro C1)",
+   "type": "divisao",
+   "heading": "2. Voo estatal (artigo 1.º e quadro C1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Voo estatal (artigo 1.º e quadro C1)\n\nTodos os voos efectuados ao abrigo de serviços militares, aduaneiros, policiais ou outros serviços responsáveis pela aplicação da lei de um Estado.\n\n*Todos os voos declarados “Voos estatais” pelas autoridades estatais.*\n\n*A expressão “com exclusão dos voos efectuados por aeronaves de Estado” do artigo 1.º deve ser interpretada como “com exclusão dos voos estatais”.*"
+  },
+  "a265253fa1225194": {
+   "fragment_id": "3. Unidade-passageiro (n.^os^ 2, 4 e 5 do artigo 3.º )",
+   "type": "divisao",
+   "heading": "3. Unidade-passageiro (n.^os^ 2, 4 e 5 do artigo 3.º )",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Unidade-passageiro (n.^os^ 2, 4 e 5 do artigo 3.º )\n\nUma unidade-passageiro equivale a um passageiro ou a 100 kg de carga e correio.\n\n*Para a elaboração da lista de **aeroportos comunitários** ^(ver-1-)^ referida no n.º 2 do artigo 3.º e para os efeitos do período de transição referido nos n.^os^ 4 e 5 do artigo 3.º, o cálculo dos limiares que usam unidades-passageiro tem que considerar em **aeroportos comunitários** ^(ver-1-)^ o número total de **passageiros transportados** ^(ver-16-)^ mais o número total de **passageiros em trânsito directo** ^(ver-18-)^ (contados uma vez) mais a quantidade total de **carga e correio carregados e descarregados** ^(ver-17-)^.*"
+  },
+  "b012ea7053f06477": {
+   "fragment_id": "4. Serviços comerciais aéreos (artigo 1.º e quadros A1, B1 e C1)",
+   "type": "divisao",
+   "heading": "4. Serviços comerciais aéreos (artigo 1.º e quadros A1, B1 e C1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Serviços comerciais aéreos (artigo 1.º e quadros A1, B1 e C1)\n\nVoo ou séries de voos para o transporte público de passageiros e/ou carga e correio, a título oneroso ou de aluguer.\n\n*Os **serviços de transporte aéreo** podem ser **regulares** ^(ver-5-)^ ou **não regulares** ^(ver-6-)^.*"
+  },
+  "18f545376d2124e7": {
+   "fragment_id": "5. Serviços de transporte aéreo regulares (quadros A1 e B1)",
+   "type": "divisao",
+   "heading": "5. Serviços de transporte aéreo regulares (quadros A1 e B1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Serviços de transporte aéreo regulares (quadros A1 e B1)\n\n**Serviços comerciais aéreos** ^(ver-4-)^ explorados de acordo com um horário publicado, ou com regularidade ou frequência constituindo, de forma patente, uma série sistemática de voos.\n\n*Inclui voos complementares ocasionados por excesso de tráfico dos voos regulares.*"
+  },
+  "324ff1cd7b6de4fe": {
+   "fragment_id": "6. Serviços de transporte aéreo não regulares (quadros A1 e B1)",
+   "type": "divisao",
+   "heading": "6. Serviços de transporte aéreo não regulares (quadros A1 e B1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6. Serviços de transporte aéreo não regulares (quadros A1 e B1)\n\n**Serviços comerciais aéreos** ^(ver-4-)^ com excepção dos **serviços de transporte aéreo regulares** ^(ver-5-)^."
+  },
+  "4bf19f885fb7f1e1": {
+   "fragment_id": "7. Serviços de transporte aéreo de passageiros (quadros A1 e B1)",
+   "type": "divisao",
+   "heading": "7. Serviços de transporte aéreo de passageiros (quadros A1 e B1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7. Serviços de transporte aéreo de passageiros (quadros A1 e B1)\n\n**Serviços de transporte aéreo regulares** ^(ver-5-)^ ou **não regulares** ^(ver-6-)^, efectuados por aeronaves que transportem um ou mais passageiros a título oneroso, bem como todos os voos que figurem nos horários publicados como abertos a passageiros.\n\n*Inclui voos que transportem tanto passageiros como carga e correio, a título oneroso.*"
+  },
+  "91f2652951b07d9b": {
+   "fragment_id": "8. Serviços polivalentes de carga e correio (quadros A1 e B1)",
+   "type": "divisao",
+   "heading": "8. Serviços polivalentes de carga e correio (quadros A1 e B1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8. Serviços polivalentes de carga e correio (quadros A1 e B1)\n\n**Serviços de transporte aéreo regulares** ^(ver-5-)^ ou **não regulares** ^(ver-6-)^, efectuados por aeronaves que transportem, a título oneroso, carga e correio, mas não passageiros.\n\n*Exclui os voos que transportem um ou mais passageiros a título oneroso, bem como todos os voos que figurem em horários publicados como abertos a passageiros.*"
+  },
+  "498f555c4532fcab": {
+   "fragment_id": "9. Transportadora aérea (Operador de transporte aéreo comercial) (quadros A1, B1 e C1)",
+   "type": "divisao",
+   "heading": "9. Transportadora aérea (Operador de transporte aéreo comercial) (quadros A1, B1 e C1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 9. Transportadora aérea (Operador de transporte aéreo comercial) (quadros A1, B1 e C1)\n\nEmpresa de transporte aéreo titular de uma licença de exploração válida para efectuar **voos comerciais** ^(ver-13-)^.\n\n*Sempre que as transportadoras aéreas possuam acordos de **joint-venture** ou outros acordos contratuais que exijam que duas ou mais delas assumam responsabilidade separada pela oferta e venda de produtos de transporte aéreo para um voo ou uma série de voos, deve ser declarada a transportadora aérea que assegura efectivamente o voo.*"
+  },
+  "fca78f23f68bd8bb": {
+   "fragment_id": "II. DEFINIÇÕES E VARIÁVEIS REFERENTES AO QUADRO A1 (ETAPAS DE VOO)",
+   "type": "divisao",
+   "heading": "II. DEFINIÇÕES E VARIÁVEIS REFERENTES AO QUADRO A1 (ETAPAS DE VOO)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. DEFINIÇÕES E VARIÁVEIS REFERENTES AO QUADRO A1 (ETAPAS DE VOO)"
+  },
+  "5cd81c5f269cc72e": {
+   "fragment_id": "10. Etapa de voo (quadro A1)",
+   "type": "divisao",
+   "heading": "10. Etapa de voo (quadro A1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 10. Etapa de voo (quadro A1)\n\nUma etapa de voo corresponde ao voo de uma aeronave desde a descolagem até à aterragem seguinte."
+  },
+  "b8e109f88f345294": {
+   "fragment_id": "11. Passageiros a bordo (quadro A1)",
+   "type": "divisao",
+   "heading": "11. Passageiros a bordo (quadro A1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 11. Passageiros a bordo (quadro A1)\n\nTodos os passageiros a bordo da aeronave aquando da aterragem no aeroporto declarante e descolagem do aeroporto declarante.\n\n*Todos os passageiros a bordo de uma aeronave, a título oneroso ou não oneroso durante uma **etapa de voo** ^(ver-10-)^.*\n\n*Inclui **passageiros em trânsito directo** ^(ver-18-)^ (contados à chegada e à partida).*"
+  },
+  "2fff963154b0186e": {
+   "fragment_id": "12. Carga e correio a bordo (quadro A1)",
+   "type": "divisao",
+   "heading": "12. Carga e correio a bordo (quadro A1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 12. Carga e correio a bordo (quadro A1)\n\nConjunto de toda a carga e correio a bordo da aeronave aquando da aterragem no aeroporto declarante e descolagem do aeroporto declarante.\n\n*Conjunto de toda a carga e correio a bordo de uma aeronave durante uma **etapa de voo** ^(ver-10-)^.*\n\n*Inclui carga e correio em trânsito directo (contados à chegada e à partida).*\n\n*Inclui os serviços expresso e as malas diplomáticas.*\n\n*Exclui a bagagem dos passageiros.*"
+  },
+  "0777c68e2501ece6": {
+   "fragment_id": "13. Voo comercial (quadro A1)",
+   "type": "divisao",
+   "heading": "13. Voo comercial (quadro A1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 13. Voo comercial (quadro A1)\n\nVoo destinado ao transporte público de passageiros e/ou carga e correio, a título oneroso ou de aluguer.\n\n*No quadro A1, os voos comerciais são agregados para calcular os outros “campos indicadores” [“**Passageiros a bordo** ^(ver-11-)^ ”, “**Carga e correio a bordo** ^(ver-12-)^ ” e “**Lugares de passageiro disponíveis** ^(ver-14-)^ ”].*"
+  },
+  "c87da777cc28b8a3": {
+   "fragment_id": "14. Lugares de passageiro disponíveis (quadro A1)",
+   "type": "divisao",
+   "heading": "14. Lugares de passageiro disponíveis (quadro A1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 14. Lugares de passageiro disponíveis (quadro A1)\n\nNúmero total de lugares de passageiro disponíveis para venda entre cada par de aeroportos numa etapa de voo ^(ver-10-)^.\n\n*Numa **etapa de voo** ^(ver-10-),^ o número total de passageiros transportados a título oneroso não deve exceder o número total de lugares de passageiro disponíveis para venda.*\n\n*Inclui lugares já vendidos numa etapa de voo, ou seja, inclui os lugares ocupados por **passageiros em trânsito directo** ^(ver-18-)^.*\n\n*Exclui os lugares não efectivamente disponíveis para transporte de passageiros devido aos limites de peso máximo bruto.*\n\n*Caso não se disponha de informação nesta base, deve fornecer-se uma das estimativas seguintes (por ordem de preferência da mais à menos adequada): 1. a configuração específica da aeronave expressa em número de lugares de passageiro disponíveis na aeronave (identificada pelo número de matrícula da aeronave), 2. a configuração média da aeronave expressa em número médio de lugares de passageiro disponíveis para o tipo de aeronave para a transportadora, 3. a configuração média da aeronave expressa em número médio de lugares de passageiro disponíveis para o tipo de aeronave.*"
+  },
+  "67f26413cd751e14": {
+   "fragment_id": "III. DEFINIÇÕES E VARIÁVEIS REFERENTES AO QUADRO B1 (ORIGEM E DESTINO DO VOO) E AO QUADRO C1 (AEROPORTOS)",
+   "type": "divisao",
+   "heading": "III. DEFINIÇÕES E VARIÁVEIS REFERENTES AO QUADRO B1 (ORIGEM E DESTINO DO VOO) E AO QUADRO C1 (AEROPORTOS)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### III. DEFINIÇÕES E VARIÁVEIS REFERENTES AO QUADRO B1 (ORIGEM E DESTINO DO VOO) E AO QUADRO C1 (AEROPORTOS)"
+  },
+  "3c77af7642043e76": {
+   "fragment_id": "15. Origem e destino do voo (quadro B1)",
+   "type": "divisao",
+   "heading": "15. Origem e destino do voo (quadro B1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 15. Origem e destino do voo (quadro B1)\n\nTráfego num **serviço comercial aéreo** ^(ver-4-)^, identificado por um número de voo único subdividido por pares de aeroportos, em conformidade com o ponto de embarque e o ponto de desembarque desse voo.\n\n*Para os passageiros, carga ou correio cujo aeroporto de embarque se desconheça, deve considerar-se o ponto de embarque como a origem da aeronave; do mesmo modo, se se desconhecer o aeroporto de desembarque, deve considerar-se o ponto de desembarque como o destino da aeronave.*"
+  },
+  "aaca4e454d3d00a4": {
+   "fragment_id": "16. Passageiros transportados (quadros B1 e C1)",
+   "type": "divisao",
+   "heading": "16. Passageiros transportados (quadros B1 e C1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 16. Passageiros transportados (quadros B1 e C1)\n\nTodos os passageiros de determinado voo (com um número de voo), contados uma única vez e não repetidamente em cada etapa individual desse voo.\n\n*Todos os passageiros transportados a título oneroso ou não oneroso, cuja viagem se inicie ou termine no aeroporto declarante e passageiros com ligações que embarquem ou desembarquem no aeroporto declarante.*\n\n*Exclui os **passageiros em trânsito directo** ^(ver-18-)^.*"
+  },
+  "c808127464eebbef": {
+   "fragment_id": "17. Carga e correio carregados ou descarregados (quadros B1 e C1)",
+   "type": "divisao",
+   "heading": "17. Carga e correio carregados ou descarregados (quadros B1 e C1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 17. Carga e correio carregados ou descarregados (quadros B1 e C1)\n\nConjunto total de carga e correio carregados ou descarregados.\n\n*Inclui os serviços expresso e as malas diplomáticas.*\n\n*Exclui a bagagem dos passageiros.*\n\n*Exclui carga e correio em trânsito directo.*"
+  },
+  "5b87c543c8de6113": {
+   "fragment_id": "18. Passageiros em trânsito directo (quadro C1)",
+   "type": "divisao",
+   "heading": "18. Passageiros em trânsito directo (quadro C1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 18. Passageiros em trânsito directo (quadro C1)\n\nPassageiros que, após uma breve escala, continuam a sua viagem na mesma aeronave, num voo que possui o mesmo número daquele em que chegaram.\n\n*Nas estatísticas aeroportuárias totais, assim como no cálculo das **unidades-passageiro** ^(ver-3-)^, os passageiros em trânsito directo são contados uma única vez.*\n\n*Passageiros que mudam de aeronave devido a problemas técnicos, mas que continuam a sua viagem num voo que possui o mesmo número são contados como passageiros em trânsito directo.*\n\n*Em determinados voos com escalas intermédias, o número de voomuda num aeroporto para indicar a mudança entre voo de chegada e voo de partida. Um exemplo é o voo de Barcelona para Hamburgo em que o voo continua para Francoforte antes de regressar a Barcelona. Os passageiros para um destino intermédio que continuam a sua viagem na mesma aeronave em tais circunstâncias devem ser contados como passageiros em trânsito directo.*"
+  },
+  "61c960d8d3e51953": {
+   "fragment_id": "19. Total dos movimentos de aeronaves comerciais (quadro C1)",
+   "type": "divisao",
+   "heading": "19. Total dos movimentos de aeronaves comerciais (quadro C1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 19. Total dos movimentos de aeronaves comerciais (quadro C1)\n\nTodas as descolagens e aterragens efectuadas por aeronaves a título oneroso ou de aluguer.\n\n*Inclui **serviços comerciais aéreos** ^(ver-4-)^, assim como todas as operações comerciais gerais da aviação.*"
+  },
+  "6d4623bb6dad746e": {
+   "fragment_id": "20. Total dos movimentos de aeronaves (quadro C1)",
+   "type": "divisao",
+   "heading": "20. Total dos movimentos de aeronaves (quadro C1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 20. Total dos movimentos de aeronaves (quadro C1)\n\nTodas as descolagens e aterragens de aeronaves.\n\n*Inclui o **total dos movimentos de aeronaves** ^(ver-19-)^, assim como todas as operações não comerciais gerais da aviação.*\n\n*Exclui **voos estatais** ^(ver-2-)^.*\n\n*Exclui “aterragens-descolagens” (touch and goes), overshoots e abordagens falhadas.»*\n\n---"
+  },
+  "68106522649a9384": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/58209406-1461-44f7-b6d7-a1be286a13ac.0016.03/DOC_1#src.E0001)) JO L 66 de 11.3.2003, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/58209406-1461-44f7-b6d7-a1be286a13ac.0016.03/DOC_1#src.E0002)) JO L 181 de 28.6.1989, p. 47.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/58209406-1461-44f7-b6d7-a1be286a13ac.0016.03/DOC_1#src.E0003)) Em 2003, aceitam-se “pelo menos, dados trimestrais”.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/58209406-1461-44f7-b6d7-a1be286a13ac.0016.03/DOC_1#src.E0004)) Em 2003, aceitam-se “dados trimestrais”."
+  },
+  "3539611da64d8f0d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Julho de 2003\n\nque torna exequível o Regulamento (CE) n.º 437/2003 do Parlamento Europeu e do Conselho relativo às estatísticas sobre o transporte aéreo de passageiros, carga e correio e altera os seus anexos I e II\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 437/2003 do Parlamento Europeu e do Conselho, de 27 de Fevereiro de 2003, relativo às estatísticas sobre o transporte aéreo de passageiros, carga e correio ([^1^](http://publications.europa.eu/resource/cellar/666f45b5-c2e2-4f8b-bac2-1e191bf31467.0017.03/DOC_1#E0001)), e, nomeadamente, o seu artigo 10.º,\n\n(1) Nos termos do artigo 10.º do Regulamento (CE) n.º 437/2003, a Comissão deve determinar as modalidades de aplicação deste regulamento.\n\n(2) É necessário estabelecer a lista dos aeroportos comunitários, excluindo os que apenas registam tráfego comercial ocasional, e as excepções a aplicar.\n\n(3) É necessário definir o formato para a transmissão dos dados de modo suficientemente pormenorizado, de molde a garantir que os mesmos possam ser processados com rapidez e de forma rentável.\n\n(4) Devem ser estabelecidas as disposições referentes à divulgação dos resultados estatísticos.\n\n(5) Nos termos do primeiro travessão do artigo 10.º do Regulamento (CE) n.º 437/2003, a Comissão deve também adaptar as indicações que constam dos seus anexos.\n\n(6) A estrutura do registo para a transmissão de dados, os códigos e as definições que constam dos anexos I e II do Regulamento (CE) n.º 437/2003 necessitam de adaptação.\n\n(7) O Regulamento (CE) n.º 437/2003 deve, por conseguinte, ser alterado.\n\n(8) As medidas previstas no presente regulamento são conformes ao parecer do Comité do Programa Estatístico criado pela Decisão 89/382/CEE, Euratom ([^2^](http://publications.europa.eu/resource/cellar/666f45b5-c2e2-4f8b-bac2-1e191bf31467.0017.03/DOC_1#E0002)),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "69cc4205ecae1653": {
+   "fragment_id": "III. Lista dos aeroportos comunitários abrangidos e derrogações",
+   "type": "divisao",
+   "heading": "III. Lista dos aeroportos comunitários abrangidos e derrogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### III. Lista dos aeroportos comunitários abrangidos e derrogações\n\nOs aeroportos comunitários que apenas registam um tráfego comercial ocasional (categoria «0») não são abrangidos pela obrigação de declarar os dados referidos no n.º 2 do artigo 3.º Por conseguinte, não constam das listas que se seguem.\n\nOs aeroportos da categoria «1» são indicados a itálico nas listas que se seguem.\n\nOs aeroportos da categoria «2» são indicados em letra normal nas listas que se seguem.\n\nOs aeroportos da categoria «3» são indicados a negro nas listas que se seguem.\n\nOs aeroportos da categoria «3» a que tenha sido concedida derrogação para o quadro B1 em 2003 são identificados com «X» na coluna 4, em caso de derrogação total, e com «P» na mesma coluna, em caso de derrogação parcial.\n\nOs aeroportos da categoria «2» a que tenha sido concedida derrogação para o quadro A1 e/ou B1 até ao ano N (ano 2003, 2004 ou 2005) são identificados com «ano N» na coluna 5.1 e/ou 5.2. Caso só tenha sido concedida derrogação parcial, após o ano indica-se «P».\n\nOs aeroportos das categorias «1» ou «2» a que tenha sido concedida derrogação para o quadro C1 até ao ano N (ano 2003, 2004 ou 2005) são identificados com «ano N» na coluna 5.3. Caso só tenha sido concedida derrogação parcial, após o ano indica-se «P».\n\nOs pormenores referentes a derrogações parciais (caso existam) seguem-se aos quadros.\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| EBAW | Antwerpen/Deurne | 2 |\n| **EBBR** | **Bruxelles/National** **Brussel/Nationaal** | **3** |\n| **EBCI** | **Charleroi/Brussels South** | **3** |\n| **EBLG** | **Liège/Bierset** | **3** |\n| EBOS | Oostende | 2 |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| **LBBG** | **Burgas** | **3** |\n| *LBPD* | *Plovdiv* | *1* |\n| **LBSF** | **Sofia** | **3** |\n| **LBWN** | **Varna** | **3** |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| *LKKV* | *Karlovy Vary* | *1* |\n| LKMT | Ostrava/Mošnov | 2 |\n| **LKPR** | **Praha/Ruzyně** | **3** |\n| LKTB | Brno-Tuřany | 2 |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| EKAH | Århus | 2 |\n| **EKBI** | **Billund** | **3** |\n| **EKCH** | **Copenhagen Kastrup** | **3** |\n| EKEB | Esbjerg | 2 |\n| EKKA | Karup | 2 |\n| *EKRK* | *Copenhagen Roskilde* | *1* |\n| EKRN | Bornholm | 2 |\n| *EKSB* | *Sønderborg* | *1* |\n| EKYT | Aalborg | 2 |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| *EDAC* | *Altenburg-Nobitz* | *1* |\n| **EDDB** | **Berlin-Schönefeld** | **3** |\n| **EDDC** | **Dresden** | **3** |\n| EDDE | Erfurt | 2 |\n| **EDDF** | **Frankfurt/Main** | **3** |\n| EDDG | Münster/Osnabrück | 2 |\n| **EDDH** | **Hamburg** | **3** |\n| EDDI | Berlin-Tempelhof | 2 |\n| **EDDK** | **Köln/Bonn** | **3** |\n| **EDDL** | **Düsseldorf** | **3** |\n| **EDDM** | **München** | **3** |\n| **EDDN** | **Nürnberg** | **3** |\n| **EDDP** | **Leipzig/Halle** | **3** |\n| EDDR | Saarbrücken | 2 |\n| **EDDS** | **Stuttgart** | **3** |\n| **EDDT** | **Berlin-Tegel** | **3** |\n| **EDDV** | **Hannover** | **3** |\n| **EDDW** | **Bremen** | **3** |\n| **EDFH** | **Hahn** | **3** |\n| *EDFM* | *Mannheim-Neuostheim* | *1* |\n| *EDHK* | *Kiel-Holtenau* | *1* |\n| EDHL | Lübeck | 2 |\n| *EDLN* | *Mönchengladbach* | *1* |\n| EDLP | Paderborn/Lippstadt | 2 |\n| EDLV | Niederrhein | 2 |\n| **EDLW** | **Dortmund** | **3** |\n| *EDMA* | *Augsburg-Mühlhausen* | *1* |\n| EDNY | Friedrichshafen | 2 |\n| *EDOG* | *Gransee* | *1* |\n| EDOR | Rostock-Laage | 2 |\n| *EDQM* | *Hof* | *1* |\n| EDTK | Karlsruhe | 2 |\n| *EDVE* | *Braunschweig* | *1* |\n| *EDWG* | *Wangerooge* | *1* |\n| *EDWJ* | *Juist* | *1* |\n| *EDWS* | *Norden-Norddeich* | *1* |\n| *EDXP* | *Harle* | *1* |\n| *EDXW* | *Westerland/Sylt* | *1* |\n| *ETNU* | *Neubrandenburg* | *1* |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| *EECL* | *Tallinn/City Hall* | *1* |\n| EETN | Tallinn/Ülemiste | 2 |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| LGAL | Alexandroupolis | 2 |\n| **LGAV** | **Athens** | **3** |\n| *LGBL* | *Nea Anchialos* | *1* |\n| LGHI | Chios | 2 |\n| *LGIK* | *Ikaria* | *1* |\n| *LGIO* | *Ioannina* | *1* |\n| **LGIR** | **Irakleion** | **3** |\n| *LGKC* | *Kithira* | *1* |\n| LGKF | Kefallinia | 2 |\n| *LGKL* | *Kalamata* | *1* |\n| **LGKO** | **Kos** | **3** |\n| LGKP | Karpathos | 2 |\n| **LGKR** | **Kerkyra** | **3** |\n| LGKV | Kavala | 2 |\n| *LGLE* | *Leros* | *1* |\n| *LGLM* | *Limnos* | *1* |\n| LGMK | Mykonos | 2 |\n| *LGML* | *Milos* | *1* |\n| LGMT | Mytilini | 2 |\n| *LGNX* | *Naxos* | *1* |\n| *LGPA* | *Paros* | *1* |\n| LGPZ | Aktio | 2 |\n| **LGRP** | **Rodos** | **3** |\n| *LGRX* | *Araxos* | *1* |\n| **LGSA** | **Chania** | **3** |\n| LGSK | Skiathos | 2 |\n| LGSM | Samos | 2 |\n| LGSR | Santorini | 2 |\n| *LGST* | *Siteia* | *1* |\n| **LGTS** | **Thessaloniki** | **3** |\n| LGZA | Zakynthos | 2 |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| **GCFV** | **Puerto del Rosario/Fuerteventura** | **3** |\n| *GCGM* | *Gomera* | *1* |\n| GCHI | Hierro | 2 |\n| GCLA | Santa Cruz de la Palma | 2 |\n| **GCLP** | **Las Palmas/Gran Canaria** | **3** |\n| **GCRR** | **Arrecife/Lanzarote** | **3** |\n| **GCTS** | **Tenerife Sur-Reina Sofía** | **3** |\n| **GCXO** | **Tenerife Norte** | **3** |\n| *GECT* | *Ceuta* | *1* |\n| GEML | Melilla | 2 |\n| **LEAL** | **Alicante** | **3** |\n| LEAM | Almería | 2 |\n| LEAS | Avilés/Asturias | 2 |\n| **LEBB** | **Bilbao** | **3** |\n| **LEBL** | **Barcelona** | **3** |\n| *LEBZ* | *Badajoz/Talavera la Real* | *1* |\n| LECO | La Coruña | 2 |\n| **LEGE** | **Girona/Costa Brava** | **3** |\n| LEGR | Granada | 2 |\n| **LEIB** | **Ibiza** | **3** |\n| LEJR | Jerez | 2 |\n| LELC | Murcia-San Javier | 2 |\n| *LELN* | *León* | *1* |\n| **LEMD** | **Madrid/Barajas** | **3** |\n| **LEMG** | **Málaga** | **3** |\n| **LEMH** | **Menorca/Mahón** | **3** |\n| **LEPA** | **Palma de Mallorca** | **3** |\n| *LERJ* | *Logroño* | *1* |\n| LEPP | Pamplona | 2 |\n| LERS | Reus | 2 |\n| *LESA* | *Salamanca* | *1* |\n| LESO | San Sebastián | 2 |\n| **LEST** | **Santiago** | **3** |\n| **LEVC** | **Valencia** | **3** |\n| LEVD | Valladolid | 2 |\n| LEVT | Vitoria | 2 |\n| LEVX | Vigo | 2 |\n| LEXJ | Santander | 2 |\n| LEZG | Zaragoza | 2 |\n| **LEZL** | **Sevilla** | **3** |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| **FMEE** | **St-Denis-Roland-Garros (Réunion)** | **3** |\n| *FMEP* | *Saint-Pierre-Pierrefonds (Réunion)* | *1* |\n| *LFBA* | *Agen — La Garenne* | *1* |\n| **LFBD** | **Bordeaux — Mérignac** | **3** |\n| LFBE | Bergerac — Roumanière | 2 |\n| *LFBH* | *La Rochelle — Île de Ré* | *1* |\n| *LFBI* | *Poitiers — Biard* | *1* |\n| LFBL | Limoges | 2 |\n| **LFBO** | **Toulouse — Blagnac** | **3** |\n| LFBP | Pau — Pyrénées | 2 |\n| LFBT | Tarbes — Lourdes — Pyrénées | 2 |\n| *LFBV* | *Brive — Laroche* | *1* |\n| LFBZ | Biarritz — Bayonne — Anglet | 2 |\n| *LFCK* | *Castres — Mazamet* | *1* |\n| LFCR | Rodez — Marcillac | 2 |\n| *LFDN* | *Rochefort — Saint-Agnant* | *1* |\n| LFJL | Metz — Nancy — Lorraine | 2 |\n| LFKB | Bastia — Poretta | 2 |\n| LFKC | Calvi — Sainte-Catherine | 2 |\n| LFKF | Figari — Sud Corse | 2 |\n| LFKJ | Ajaccio — Campo Dell'Oro | 2 |\n| LFLB | Chambéry — Aix-les-Bains | 2 |\n| LFLC | Clermont-Ferrand — Auvergne | 2 |\n| **LFLL** | **Lyon — St-Exupéry** | **3** |\n| *LFLP* | *Annecy — Meythet* | *1* |\n| LFLS | Grenoble — St-Geoirs | 2 |\n| *LFLW* | *Aurillac — Tronquières* | *1* |\n| *LFLX* | *Châteauroux/ — Déols* | *1* |\n| *LFMD* | *Cannes — Mandelieu* | *1* |\n| *LFMH* | *St-Étienne — Bouthéon* | *1* |\n| LFMK | Carcassonne | 2 |\n| **LFML** | **Marseille — Provence** | **3** |\n| **LFMN** | **Nice — Côte d'azur** | **3** |\n| LFMP | Perpignan — Rivesaltes | 2 |\n| LFMT | Montpellier — Méditerranée | 2 |\n| *LFMU* | *Béziers — Vias* | *1* |\n| *LFMV* | *Avignon — Caumont* | *1* |\n| **LFOB** | **Beauvais — Tillé** | **3** |\n| *LFOH* | *La Havre — Octeville* | *1* |\n| LFOK | Châlons — Vatry | 2 |\n| *LFOP* | *Rouen — Vallée de Seine* | *1* |\n| *LFOT* | *Tours — St-Symphorien* | *1* |\n| **LFPG** | **Paris — Charles-de-Gaulle** | **3** |\n| **LFPO** | **Paris — Orly** | **3** |\n| LFQQ | Lille — Lesquin | 2 |\n| LFRB | Brest — Guipavas | 2 |\n| LFRD | Dinard — Pleurtuit | 2 |\n| *LFRG* | *Deauville — St-Gatien* | *1* |\n| LFRH | Lorient | 2 |\n| *LFRK* | *Caen — Carpiquet* | *1* |\n| LFRN | Rennes — St-Jacques | 2 |\n| *LFRO* | *Lannion — Servel* | *1* |\n| *LFRQ* | *Quimper — Cornouaille* | *1* |\n| **LFRS** | **Nantes — Atlantique** | **3** |\n| **LFSB** | **Bâle — Mulhouse** | **3** |\n| *LFSR* | *Reims — Champagne* | *1* |\n| **LFST** | **Strasbourg** | **3** |\n| LFTH | Toulon — Hyères | 2 |\n| LFTW | Nîmes — Arles — Camargue | 2 |\n| SOCA | Cayenne — Rochambeau (Guyane) | 2 |\n| **TFFF** | **Fort-de-France (Martinique)** | **3** |\n| TFFG | St-Martin — Grand-Case (Guadeloupe) | 2 |\n| TFFJ | St-Barthélemy (Guadeloupe) | 2 |\n| **TFFR** | **Pointe-à-Pitre (Guadeloupe)** | **3** |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| *EICA* | *Connemara Regional Airport* | *1* |\n| **EICK** | **Cork** | **3** |\n| EICM | Galway | 2 |\n| *EIDL* | *Donegal* | *1* |\n| **EIDW** | **Dublin** | **3** |\n| EIKN | Connaught Regional Airport | 2 |\n| EIKY | Kerry | 2 |\n| **EINN** | **Shannon** | **3** |\n| *EISG* | *Sligo Regional Airport* | *1* |\n| *EIWF* | *Waterford* | *1* |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| *LIBC* | *Crotone* | *1* |\n| **LIBD** | **Bari-Palese Macchie** | **3** |\n| LIBP | Pescara | 2 |\n| LIBR | Brindisi-Casale | 2 |\n| LICA | Lamezia Terme | 2 |\n| **LICC** | **Catania-Fontanarossa** | **3** |\n| LICD | Lampedusa | 2 |\n| *LICG* | *Pantelleria* | *1* |\n| **LICJ** | **Palermo-Punta Raisi** | **3** |\n| *LICR* | *Reggio di Calabria* | *1* |\n| LICT | Trapani-Birgi | 2 |\n| LIEA | Alghero-Fertilia | 2 |\n| **LIEE** | **Cagliari-Elmas** | **3** |\n| **LIEO** | **Olbia-Costa Smeralda** | **3** |\n| **LIMC** | **Milano-Malpensa** | **3** |\n| **LIME** | **Bergamo-Orio al Serio** | **3** |\n| **LIMF** | **Torino-Caselle** | **3** |\n| LIMJ | Genova-Sestri | 2 |\n| **LIML** | **Milano-Linate** | **3** |\n| *LIMP* | *Parma* | *1* |\n| *LIMZ* | *Cuneo/Levaldigi* | *1* |\n| *LIPB* | *Bolzano* | *1* |\n| **LIPE** | **Bologna-Borgo Panigale** | **3** |\n| LIPH | Treviso-Sant'Angelo | 2 |\n| LIPK | Forlì | 2 |\n| LIPO | Brescia-Montichiari | 2 |\n| LIPQ | Trieste-Ronchi dei Legionari | 2 |\n| LIPR | Rimini | 2 |\n| **LIPX** | **Verona-Villafranca** | **3** |\n| LIPY | Ancona-Falconara | 2 |\n| **LIPZ** | **Venezia-Tessera** | **3** |\n| **LIRA** | **Roma-Ciampino** | **3** |\n| **LIRF** | **Roma-Fiumicino** | **3** |\n| **LIRN** | **Napoli-Capodichino** | **3** |\n| **LIRP** | **Pisa-San Giusto** | **3** |\n| **LIRQ** | **Firenze-Peretola** | **3** |\n| *LIRZ* | *Perugia* | *1* |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| **LCLK** | **Larnaka** | **3** |\n| **LCPH** | **Pafos** | **3** |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| **EVRA** | **Rīga** | **3** |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| *EYKA* | *Kaunas* | *1* |\n| *EYPA* | *Palanga* | *1* |\n| EYVI | Vilnius | 2 |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| **ELLX** | **Luxembourg** | **3** |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| **LHBP** | **Budapest-Ferihegy** | **3** |\n| *LHDC* | *Debrecen* | *1* |\n| *LHSM* | *Sármellék-Balaton* | *1* |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| **LMML** | **Malta/Luqa** | **3** |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| **EHAM** | **Amsterdam/Schiphol** | **3** |\n| EHBK | Maastricht-Aachen | 2 |\n| EHEH | Eindhoven/Welschap | 2 |\n| *EHGG* | *Eelde/Groningen* | *1* |\n| EHRD | Rotterdam/Zestienhoven | 2 |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| LOWG | Graz | 2 |\n| LOWI | Innsbruck | 2 |\n| LOWK | Klagenfurt | 2 |\n| LOWL | Linz | 2 |\n| **LOWS** | **Salzburg** | **3** |\n| **LOWW** | **Wien/Schwechat** | **3** |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| *EPBG* | *Bydgoszcz – Szwederowo* | *1* |\n| EPGD | Gdańsk – Rębiechowo | 2 |\n| **EPKK** | **Kraków – Balice** | **3** |\n| EPKT | Katowice – Pyrzowice | 2 |\n| EPPO | Poznań – Ławica | 2 |\n| *EPRZ* | *Rzeszów – Jasionka* | *1* |\n| *EPSC* | *Szczecin – Goleniów* | *1* |\n| **EPWA** | **Warszawa – Okęcie** | **3** |\n| EPWR | Wrocław – Strachowice | 2 |\n| *EPLL* | *Lódź – Lublinek* | *1* |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| *LPFL* | *Flores* | *1* |\n| **LPFR** | **Faro** | **3** |\n| **LPFU** | **Madeira/Madeira** | **3** |\n| LPHR | Horta | 2 |\n| LPLA | Lajes | 2 |\n| LPPD | Ponta Delgada | 2 |\n| *LPPO* | *Santa Maria* | *1* |\n| **LPPR** | **Porto** | **3** |\n| LPPS | Porto Santo | 2 |\n| **LPPT** | **Lisboa** | **3** |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| *LRBC* | *Bacău* | *1* |\n| LRBS | București/Băneasa | 2 |\n| *LRCK* | *Constanța/M. Kogălniceanu* | *1* |\n| LRCL | Cluj-Napoca/Someșeni | 2 |\n| *LRIA* | *Iași* | *1* |\n| *LROD* | *Oradea* | *1* |\n| **LROP** | **București/Otopeni** | **3** |\n| *LRSB* | *Sibiu/Turnișor* | *1* |\n| LRTR | Timișoara/Giarmata | 2 |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| LJLJ | Ljubljana | 2 |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| LZIB | Bratislava | 2 |\n| LZKZ | Košice | 2 |\n| *LZSL* | *Sliač* | *1* |\n| *LZTT* | *Poprad-Tatry* | *1* |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| **EFHK** | **Helsinki-Vantaa** | **3** |\n| EFIV | Ivalo | 2 |\n| EFJO | Joensuu | 2 |\n| EFJY | Jyväskylä | 2 |\n| *EFKE* | *Kemi-Tornio* | *1* |\n| *EFKI* | *Kajaani* | *1* |\n| *EFKK* | *Kruunupyy* | *1* |\n| *EFKS* | *Kuusamo* | *1* |\n| EFKT | Kittilä | 2 |\n| EFKU | Kuopio | 2 |\n| *EFLP* | *Lappeenranta* | *1* |\n| *EFMA* | *Mariehamn* | *1* |\n| EFOU | Oulu | 2 |\n| *EFPO* | *Pori* | *1* |\n| EFRO | Rovaniemi | 2 |\n| *EFSA* | *Savonlinna* | *1* |\n| *EFSI* | *Seinäjoki* | *1* |\n| EFTP | Tampere-Pirkkala | 2 |\n| EFTU | Turku | 2 |\n| EFVA | Vaasa | 2 |\n| *EFVR* | *Varkaus* | *1* |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| ESDF | Ronneby | 2 |\n| **ESGG** | **Göteborg-Landvetter** | **3** |\n| *ESGJ* | *Jönköping* | *1* |\n| ESGP | Göteborg City | 2 |\n| *ESGT* | *Trollhättan/Vänersborg* | *1* |\n| **ESKN** | **Stockholm/Skavsta** | **3** |\n| *ESMK* | *Kristianstad/Everöd* | *1* |\n| ESMQ | Kalmar | 2 |\n| **ESMS** | **Malmö-Sturup** | **3** |\n| *ESMT* | *Halmstad* | *1* |\n| ESMX | Växjö/Kronoberg | 2 |\n| *ESNG* | *Gällivare* | *1* |\n| *ESNK* | *Kramfors* | *1* |\n| *ESNL* | *Lycksele* | *1* |\n| ESNN | Sundsvall-Härnösand | 2 |\n| *ESNO* | *Örnsköldsvik* | *1* |\n| ESNQ | Kiruna | 2 |\n| ESNS | Skellefteå | 2 |\n| ESNU | Umeå | 2 |\n| *ESNX* | *Arvidsjaur* | *1* |\n| *ESOE* | *Örebro* | *1* |\n| ESOK | Karlstad | 2 |\n| ESOW | Stockholm/Västerås | 2 |\n| ESPA | Luleå | 2 |\n| ESPC | Östersund | 2 |\n| **ESSA** | **Stockholm-Arlanda** | **3** |\n| ESSB | Stockholm-Bromma | 2 |\n| *ESSD* | *Borlänge* | *1* |\n| *ESSL* | *Linköping/Saab* | *1* |\n| *ESSP* | *Norrköping* | *1* |\n| ESSV | Visby | 2 |\n| ESTA | Ängelholm | 2 |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| **EGAA** | **Belfast International** | **3** |\n| **EGAC** | **Belfast City** | **3** |\n| EGAE | City of Derry (Eglinton) | 2 |\n| **EGBB** | **Birmingham** | **3** |\n| EGBE | Coventry | 2 |\n| **EGCC** | **Manchester** | **3** |\n| EGCN | Doncaster Sheffield | 2 |\n| EGDG | Newquay | 2 |\n| **EGFF** | **Cardiff Wales** | **3** |\n| **EGGD** | **Bristol** | **3** |\n| **EGGP** | **Liverpool** | **3** |\n| **EGGW** | **Luton** | **3** |\n| *EGHC* | *Lands End* | *1* |\n| *EGHD* | *Plymouth* | *1* |\n| *EGHE* | *Isles of Scilly (St.Marys)* | *1* |\n| EGHH | Bournemouth | 2 |\n| **EGHI** | **Southampton** | **3** |\n| *EGHK* | *Penzance Heliport* | *1* |\n| *EGHT* | *Isles of Scilly (Tresco)* | *1* |\n| **EGKK** | **Gatwick** | **3** |\n| **EGLC** | **London City** | **3** |\n| **EGLL** | **Heathrow** | **3** |\n| EGMH | Kent International | 2 |\n| EGNH | Blackpool | 2 |\n| EGNJ | Humberside | 2 |\n| **EGNM** | **Leeds Bradford** | **3** |\n| *EGNR* | *Hawarden* | *1* |\n| **EGNT** | **Newcastle** | **3** |\n| EGNV | Durham Tees Valley | 2 |\n| **EGNX** | **Nottingham East Midlands** | **3** |\n| *EGPA* | *Kirkwall* | *1* |\n| *EGPB* | *Sumburgh* | *1* |\n| *EGPC* | *Wick* | *1* |\n| **EGPD** | **Aberdeen** | **3** |\n| EGPE | Inverness | 2 |\n| **EGPF** | **Glasgow** | **3** |\n| **EGPH** | **Edinburgh** | **3** |\n| *EGPI* | *Islay* | *1* |\n| **EGPK** | **Prestwick** | **3** |\n| *EGPL* | *Benbecula* | *1* |\n| EGPM | Scatsta | 2 |\n| *EGPN* | *Dundee* | *1* |\n| *EGPO* | *Stornoway* | *1* |\n| EGSH | Norwich | 2 |\n| **EGSS** | **Stansted** | **3** |\n| EGTE | Exeter | 2 |"
+  },
+  "cc74c3947ad5d2e2": {
+   "fragment_id": "A. Quadro sobre as etapas de voo [dados mensais ([^3^](http://publications.europa.eu/resource/cellar/666f45b5-c2e2-4f8b-bac2-1e191bf31467.0017.03/DOC_1#E0003))]",
+   "type": "divisao",
+   "heading": "A. Quadro sobre as etapas de voo [dados mensais ([^3^](http://publications.europa.eu/resource/cellar/666f45b5-c2e2-4f8b-bac2-1e191bf31467.0017.03/DOC_1#E0003))]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Quadro sobre as etapas de voo [dados mensais ([^3^](http://publications.europa.eu/resource/cellar/666f45b5-c2e2-4f8b-bac2-1e191bf31467.0017.03/DOC_1#E0003))]\n\nOs dados comunicados neste quadro só dizem respeito a serviços comerciais aéreos.\n\n| Elementos | Codificação | Nomenclatura | Unidade |\n| --- | --- | --- | --- |\n| Quadro | 2 letras | “A1” |  |\n| País declarante | 2 letras | (1) Principais letras OACI de nacionalidade |  |\n| Ano de referência | 2 dígitos | Tipo “yy” (2 últimas posições do ano) |  |\n| Período de referência | 2 letras | (2) Explícito (ou Statra) |  |\n| Aeroporto declarante | 4 letras | (3) OACI |  |\n| Aeroporto seguinte/anterior | 4 letras | (3) OACI |  |\n| Chegada/partida | 1 dígito | 1 = chegada 2 = partida |  |\n| Serviços regulares/não regulares | 1 dígito | 1 = regular 2 = não regular |  |\n| Serviços de passageiros/serviços polivalentes de carga e correio | 1 dígito | 1 = serviços de passageiros 2 = serviços polivalentes de carga e correio |  |\n| Informações sobre a transportadora aérea | 3 letras | (4) Informações sobre a transportadora aérea (facultativo) |  |\n| Tipo de aeronave | 4 letras | (5) OACI |  |\n| Passageiros a bordo | 12 dígitos |  | Passageiro |\n| Carga e correio a bordo | 12 dígitos |  | Tonelada |\n| Voos comerciais | 12 dígitos |  | Número de voos |\n| Lugares de passageiro disponíveis | 12 dígitos |  | Lugares de passageiro |"
+  },
+  "007cbd451fc92a67": {
+   "fragment_id": "B. Quadro sobre origem/destino do voo [dados mensais [(3)](http://publications.europa.eu/resource/cellar/666f45b5-c2e2-4f8b-bac2-1e191bf31467.0017.03/DOC_1#E0003) ]",
+   "type": "divisao",
+   "heading": "B. Quadro sobre origem/destino do voo [dados mensais [(3)](http://publications.europa.eu/resource/cellar/666f45b5-c2e2-4f8b-bac2-1e191bf31467.0017.03/DOC_1#E0003) ]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Quadro sobre origem/destino do voo [dados mensais [(3)](http://publications.europa.eu/resource/cellar/666f45b5-c2e2-4f8b-bac2-1e191bf31467.0017.03/DOC_1#E0003) ]\n\nOs dados comunicados neste quadro só dizem respeito a serviços comerciais aéreos.\n\n| Elementos | Codificação | Nomenclatura | Unidade |\n| --- | --- | --- | --- |\n| Quadro | 2 letras | B1 |  |\n| País declarante | 2 letras | (1) Principais letras OACI de nacionalidade |  |\n| Ano de referência | 2 dígitos | Tipo “yy” (2 últimas posições do ano) |  |\n| Período de referência | 2 letras | (2) Explícito (ou Statra) |  |\n| Aeroporto declarante | 4 letras | (3) OACI |  |\n| Aeroporto de origem/de destino | 4 letras | (3) OACI |  |\n| Chegada/partida | 1 dígito | 1 = chegada 2 = partida |  |\n| Serviços regulares/não regulares | 1 dígito | 1 = regular 2 = não regular |  |\n| Serviços de passageiros/serviços polivalentes de carga e correio | 1 dígito | 1 = serviços de passageiros 2 = serviços polivalentes de carga e correio |  |\n| Informações sobre a transportadora aérea | 3 letras | (4) Informações sobre a transportadora aérea (facultativo) |  |\n| Passageiros transportados | 12 dígitos |  | Passageiro |\n| Carga e correio carregados ou descarregados | 12 dígitos |  | Tonelada |"
+  },
+  "608cf4ec7088ebf0": {
+   "fragment_id": "C. Quadro sobre os aeroportos (pelo menos, dados anuais)",
+   "type": "divisao",
+   "heading": "C. Quadro sobre os aeroportos (pelo menos, dados anuais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### C. Quadro sobre os aeroportos (pelo menos, dados anuais)\n\nOs dados comunicados neste quadro só dizem respeito a serviços comerciais aéreos, com excepção do “total dos movimentos de aeronaves comerciais” que também diz respeito a todas as operações comerciais gerais da aviação e do “total dos movimentos de aeronaves” que se refere a todos os movimentos de aeronaves civis (com excepção dos voos estatais).\n\n| Elementos | Codificação | Nomenclatura | Unidade |\n| --- | --- | --- | --- |\n| Quadro | 2 letras | C1 |  |\n| País declarante | 2 letras | (1)Principais letras OACI de nacionalidade |  |\n| Ano de referência | 2 dígitos | Tipo “yy” |  |\n| Período de referência | 2 letras | (2) Explícito (ou Statra) |  |\n| Aeroporto declarante | 4 letras | (3) OACI |  |\n| Informações sobre a transportadora aérea [(^1^)](http://publications.europa.eu/resource/cellar/666f45b5-c2e2-4f8b-bac2-1e191bf31467.0017.03/DOC_1#E0004) | 3 letras | (4) Informações sobre a transportadora aérea |  |\n| Total dos passageiros transportados | 12 dígitos |  | Passageiro |\n| Total dos passageiros em trânsito directo. | 12 dígitos |  | Passageiro |\n| Total da carga e do correio carregados/descarregados | 12 dígitos |  | Tonelada |\n| Total dos movimentos de aeronaves comerciais | 12 dígitos |  | Movimento |\n| Total dos movimentos de aeronaves | 12 dígitos |  | Movimento |\n| (^1^)O campo “informações sobre a transportadora aérea” só é obrigatório para os aeroportos que devam igualmente declarar os quadros A1 e B1. Para os aeroportos que não estejam sujeitos à obrigação de declarar os quadros A1 e B1, pode utilizar-se um código que abranja todas as transportadoras aéreas. |  |  |  |"
+  },
+  "1066fe9319823dc8": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/666f45b5-c2e2-4f8b-bac2-1e191bf31467.0017.03/DOC_1#src.E0001)) JO L 66 de 11.3.2003, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/666f45b5-c2e2-4f8b-bac2-1e191bf31467.0017.03/DOC_1#src.E0002)) JO L 181 de 28.6.1989, p. 47.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/666f45b5-c2e2-4f8b-bac2-1e191bf31467.0017.03/DOC_1#src.E0003)) Em 2003, aceitam-se “pelo menos, dados trimestrais”."
+  },
+  "c66197335d7ff6c7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Julho de 2003\n\nque torna exequível o Regulamento (CE) n.º 437/2003 do Parlamento Europeu e do Conselho relativo às estatísticas sobre o transporte aéreo de passageiros, carga e correio e altera os seus anexos I e II\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 437/2003 do Parlamento Europeu e do Conselho, de 27 de Fevereiro de 2003, relativo às estatísticas sobre o transporte aéreo de passageiros, carga e correio ([^1^](http://publications.europa.eu/resource/cellar/88bdacbf-e34e-414d-b2ec-78477b045343.0018.04/DOC_1#E0001)), e, nomeadamente, o seu artigo 10.º,\n\n(1) Nos termos do artigo 10.º do Regulamento (CE) n.º 437/2003, a Comissão deve determinar as modalidades de aplicação deste regulamento.\n\n(2) É necessário estabelecer a lista dos aeroportos comunitários, excluindo os que apenas registam tráfego comercial ocasional, e as excepções a aplicar.\n\n(3) É necessário definir o formato para a transmissão dos dados de modo suficientemente pormenorizado, de molde a garantir que os mesmos possam ser processados com rapidez e de forma rentável.\n\n(4) Devem ser estabelecidas as disposições referentes à divulgação dos resultados estatísticos.\n\n(5) Nos termos do primeiro travessão do artigo 10.º do Regulamento (CE) n.º 437/2003, a Comissão deve também adaptar as indicações que constam dos seus anexos.\n\n(6) A estrutura do registo para a transmissão de dados, os códigos e as definições que constam dos anexos I e II do Regulamento (CE) n.º 437/2003 necessitam de adaptação.\n\n(7) O Regulamento (CE) n.º 437/2003 deve, por conseguinte, ser alterado.\n\n(8) As medidas previstas no presente regulamento são conformes ao parecer do Comité do Programa Estatístico criado pela Decisão 89/382/CEE, Euratom ([^2^](http://publications.europa.eu/resource/cellar/88bdacbf-e34e-414d-b2ec-78477b045343.0018.04/DOC_1#E0002)),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "e5a7b5c61d275ff8": {
+   "fragment_id": "III. Lista dos aeroportos comunitários abrangidos e derrogações",
+   "type": "divisao",
+   "heading": "III. Lista dos aeroportos comunitários abrangidos e derrogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### III. Lista dos aeroportos comunitários abrangidos e derrogações\n\nOs aeroportos comunitários que apenas registam um tráfego comercial ocasional (categoria «0») não são abrangidos pela obrigação de declarar os dados referidos no n.º 2 do artigo 3.º Por conseguinte, não constam das listas que se seguem.\n\nOs aeroportos da categoria «1» são indicados a itálico nas listas que se seguem.\n\nOs aeroportos da categoria «2» são indicados em letra normal nas listas que se seguem.\n\nOs aeroportos da categoria «3» são indicados a negro nas listas que se seguem.\n\nOs aeroportos da categoria «3» a que tenha sido concedida derrogação para o quadro B1 em 2003 são identificados com «X» na coluna 4, em caso de derrogação total, e com «P» na mesma coluna, em caso de derrogação parcial.\n\nOs aeroportos da categoria «2» a que tenha sido concedida derrogação para o quadro A1 e/ou B1 até ao ano N (ano 2003, 2004 ou 2005) são identificados com «ano N» na coluna 5.1 e/ou 5.2. Caso só tenha sido concedida derrogação parcial, após o ano indica-se «P».\n\nOs aeroportos das categorias «1» ou «2» a que tenha sido concedida derrogação para o quadro C1 até ao ano N (ano 2003, 2004 ou 2005) são identificados com «ano N» na coluna 5.3. Caso só tenha sido concedida derrogação parcial, após o ano indica-se «P».\n\nOs pormenores referentes a derrogações parciais (caso existam) seguem-se aos quadros.\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| EBAW | Antwerpen/Deurne | 2 |\n| **EBBR** | **Bruxelles/National** **Brussel/Nationaal** | **3** |\n| **EBCI** | **Charleroi/Brussels South** | **3** |\n| **EBLG** | **Liège/Bierset** | **3** |\n| EBOS | Oostende | 2 |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| **LBBG** | **Burgas** | **3** |\n| *LBPD* | *Plovdiv* | *1* |\n| **LBSF** | **Sofia** | **3** |\n| **LBWN** | **Varna** | **3** |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| *LKKV* | *Karlovy Vary* | *1* |\n| LKMT | Ostrava/Mošnov | 2 |\n| **LKPR** | **Praha/Ruzyně** | **3** |\n| LKTB | Brno-Tuřany | 2 |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| EKAH | Århus | 2 |\n| **EKBI** | **Billund** | **3** |\n| **EKCH** | **Copenhagen Kastrup** | **3** |\n| EKEB | Esbjerg | 2 |\n| EKKA | Karup | 2 |\n| *EKRK* | *Copenhagen Roskilde* | *1* |\n| EKRN | Bornholm | 2 |\n| *EKSB* | *Sønderborg* | *1* |\n| EKYT | Aalborg | 2 |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| *EDAC* | *Altenburg-Nobitz* | *1* |\n| **EDDB** | **Berlin-Schönefeld** | **3** |\n| **EDDC** | **Dresden** | **3** |\n| EDDE | Erfurt | 2 |\n| **EDDF** | **Frankfurt/Main** | **3** |\n| EDDG | Münster/Osnabrück | 2 |\n| **EDDH** | **Hamburg** | **3** |\n| EDDI | Berlin-Tempelhof | 2 |\n| **EDDK** | **Köln/Bonn** | **3** |\n| **EDDL** | **Düsseldorf** | **3** |\n| **EDDM** | **München** | **3** |\n| **EDDN** | **Nürnberg** | **3** |\n| **EDDP** | **Leipzig/Halle** | **3** |\n| EDDR | Saarbrücken | 2 |\n| **EDDS** | **Stuttgart** | **3** |\n| **EDDT** | **Berlin-Tegel** | **3** |\n| **EDDV** | **Hannover** | **3** |\n| **EDDW** | **Bremen** | **3** |\n| **EDFH** | **Hahn** | **3** |\n| *EDFM* | *Mannheim-Neuostheim* | *1* |\n| *EDHK* | *Kiel-Holtenau* | *1* |\n| EDHL | Lübeck | 2 |\n| *EDLN* | *Mönchengladbach* | *1* |\n| EDLP | Paderborn/Lippstadt | 2 |\n| EDLV | Niederrhein | 2 |\n| **EDLW** | **Dortmund** | **3** |\n| *EDMA* | *Augsburg-Mühlhausen* | *1* |\n| EDNY | Friedrichshafen | 2 |\n| *EDOG* | *Gransee* | *1* |\n| EDOR | Rostock-Laage | 2 |\n| *EDQM* | *Hof* | *1* |\n| EDTK | Karlsruhe | 2 |\n| *EDVE* | *Braunschweig* | *1* |\n| *EDWG* | *Wangerooge* | *1* |\n| *EDWJ* | *Juist* | *1* |\n| *EDWS* | *Norden-Norddeich* | *1* |\n| *EDXP* | *Harle* | *1* |\n| *EDXW* | *Westerland/Sylt* | *1* |\n| *ETNU* | *Neubrandenburg* | *1* |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| *EECL* | *Tallinn/City Hall* | *1* |\n| EETN | Tallinn/Ülemiste | 2 |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| LGAL | Alexandroupolis | 2 |\n| **LGAV** | **Athens** | **3** |\n| *LGBL* | *Nea Anchialos* | *1* |\n| LGHI | Chios | 2 |\n| *LGIK* | *Ikaria* | *1* |\n| *LGIO* | *Ioannina* | *1* |\n| **LGIR** | **Irakleion** | **3** |\n| *LGKC* | *Kithira* | *1* |\n| LGKF | Kefallinia | 2 |\n| *LGKL* | *Kalamata* | *1* |\n| **LGKO** | **Kos** | **3** |\n| LGKP | Karpathos | 2 |\n| **LGKR** | **Kerkyra** | **3** |\n| LGKV | Kavala | 2 |\n| *LGLE* | *Leros* | *1* |\n| *LGLM* | *Limnos* | *1* |\n| LGMK | Mykonos | 2 |\n| *LGML* | *Milos* | *1* |\n| LGMT | Mytilini | 2 |\n| *LGNX* | *Naxos* | *1* |\n| *LGPA* | *Paros* | *1* |\n| LGPZ | Aktio | 2 |\n| **LGRP** | **Rodos** | **3** |\n| *LGRX* | *Araxos* | *1* |\n| **LGSA** | **Chania** | **3** |\n| LGSK | Skiathos | 2 |\n| LGSM | Samos | 2 |\n| LGSR | Santorini | 2 |\n| *LGST* | *Siteia* | *1* |\n| **LGTS** | **Thessaloniki** | **3** |\n| LGZA | Zakynthos | 2 |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| **GCFV** | **Puerto del Rosario/Fuerteventura** | **3** |\n| *GCGM* | *Gomera* | *1* |\n| GCHI | Hierro | 2 |\n| GCLA | Santa Cruz de la Palma | 2 |\n| **GCLP** | **Las Palmas/Gran Canaria** | **3** |\n| **GCRR** | **Arrecife/Lanzarote** | **3** |\n| **GCTS** | **Tenerife Sur-Reina Sofía** | **3** |\n| **GCXO** | **Tenerife Norte** | **3** |\n| *GECT* | *Ceuta* | *1* |\n| GEML | Melilla | 2 |\n| **LEAL** | **Alicante** | **3** |\n| LEAM | Almería | 2 |\n| LEAS | Avilés/Asturias | 2 |\n| **LEBB** | **Bilbao** | **3** |\n| **LEBL** | **Barcelona** | **3** |\n| *LEBZ* | *Badajoz/Talavera la Real* | *1* |\n| LECO | La Coruña | 2 |\n| **LEGE** | **Girona/Costa Brava** | **3** |\n| LEGR | Granada | 2 |\n| **LEIB** | **Ibiza** | **3** |\n| LEJR | Jerez | 2 |\n| LELC | Murcia-San Javier | 2 |\n| *LELN* | *León* | *1* |\n| **LEMD** | **Madrid/Barajas** | **3** |\n| **LEMG** | **Málaga** | **3** |\n| **LEMH** | **Menorca/Mahón** | **3** |\n| **LEPA** | **Palma de Mallorca** | **3** |\n| *LERJ* | *Logroño* | *1* |\n| LEPP | Pamplona | 2 |\n| LERS | Reus | 2 |\n| *LESA* | *Salamanca* | *1* |\n| LESO | San Sebastián | 2 |\n| **LEST** | **Santiago** | **3** |\n| **LEVC** | **Valencia** | **3** |\n| LEVD | Valladolid | 2 |\n| LEVT | Vitoria | 2 |\n| LEVX | Vigo | 2 |\n| LEXJ | Santander | 2 |\n| LEZG | Zaragoza | 2 |\n| **LEZL** | **Sevilla** | **3** |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| **FMEE** | **St-Denis-Roland-Garros (Réunion)** | **3** |\n| *FMEP* | *Saint-Pierre-Pierrefonds (Réunion)* | *1* |\n| *LFBA* | *Agen — La Garenne* | *1* |\n| **LFBD** | **Bordeaux — Mérignac** | **3** |\n| LFBE | Bergerac — Roumanière | 2 |\n| *LFBH* | *La Rochelle — Île de Ré* | *1* |\n| *LFBI* | *Poitiers — Biard* | *1* |\n| LFBL | Limoges | 2 |\n| **LFBO** | **Toulouse — Blagnac** | **3** |\n| LFBP | Pau — Pyrénées | 2 |\n| LFBT | Tarbes — Lourdes — Pyrénées | 2 |\n| *LFBV* | *Brive — Laroche* | *1* |\n| LFBZ | Biarritz — Bayonne — Anglet | 2 |\n| *LFCK* | *Castres — Mazamet* | *1* |\n| LFCR | Rodez — Marcillac | 2 |\n| *LFDN* | *Rochefort — Saint-Agnant* | *1* |\n| LFJL | Metz — Nancy — Lorraine | 2 |\n| LFKB | Bastia — Poretta | 2 |\n| LFKC | Calvi — Sainte-Catherine | 2 |\n| LFKF | Figari — Sud Corse | 2 |\n| LFKJ | Ajaccio — Campo Dell'Oro | 2 |\n| LFLB | Chambéry — Aix-les-Bains | 2 |\n| LFLC | Clermont-Ferrand — Auvergne | 2 |\n| **LFLL** | **Lyon — St-Exupéry** | **3** |\n| *LFLP* | *Annecy — Meythet* | *1* |\n| LFLS | Grenoble — St-Geoirs | 2 |\n| *LFLW* | *Aurillac — Tronquières* | *1* |\n| *LFLX* | *Châteauroux/ — Déols* | *1* |\n| *LFMD* | *Cannes — Mandelieu* | *1* |\n| *LFMH* | *St-Étienne — Bouthéon* | *1* |\n| LFMK | Carcassonne | 2 |\n| **LFML** | **Marseille — Provence** | **3** |\n| **LFMN** | **Nice — Côte d'azur** | **3** |\n| LFMP | Perpignan — Rivesaltes | 2 |\n| LFMT | Montpellier — Méditerranée | 2 |\n| *LFMU* | *Béziers — Vias* | *1* |\n| *LFMV* | *Avignon — Caumont* | *1* |\n| **LFOB** | **Beauvais — Tillé** | **3** |\n| *LFOH* | *La Havre — Octeville* | *1* |\n| LFOK | Châlons — Vatry | 2 |\n| *LFOP* | *Rouen — Vallée de Seine* | *1* |\n| *LFOT* | *Tours — St-Symphorien* | *1* |\n| **LFPG** | **Paris — Charles-de-Gaulle** | **3** |\n| **LFPO** | **Paris — Orly** | **3** |\n| LFQQ | Lille — Lesquin | 2 |\n| LFRB | Brest — Guipavas | 2 |\n| LFRD | Dinard — Pleurtuit | 2 |\n| *LFRG* | *Deauville — St-Gatien* | *1* |\n| LFRH | Lorient | 2 |\n| *LFRK* | *Caen — Carpiquet* | *1* |\n| LFRN | Rennes — St-Jacques | 2 |\n| *LFRO* | *Lannion — Servel* | *1* |\n| *LFRQ* | *Quimper — Cornouaille* | *1* |\n| **LFRS** | **Nantes — Atlantique** | **3** |\n| **LFSB** | **Bâle — Mulhouse** | **3** |\n| *LFSR* | *Reims — Champagne* | *1* |\n| **LFST** | **Strasbourg** | **3** |\n| LFTH | Toulon — Hyères | 2 |\n| LFTW | Nîmes — Arles — Camargue | 2 |\n| SOCA | Cayenne — Rochambeau (Guyane) | 2 |\n| **TFFF** | **Fort-de-France (Martinique)** | **3** |\n| TFFG | St-Martin — Grand-Case (Guadeloupe) | 2 |\n| TFFJ | St-Barthélemy (Guadeloupe) | 2 |\n| **TFFR** | **Pointe-à-Pitre (Guadeloupe)** | **3** |\n\n| ICAO Código ICAO do aeroporto | Aeroportos Nome | Aeroportos Categoria em 2011 |\n| --- | --- | --- |\n| **LDZA** | **Zagreb/Pleso** | **3** |\n| LDSP | Split/Kaštela | 2 |\n| LDDU | Dubrovnik/Čilipi | 2 |\n| LDPL | Pula/Pula | 2 |\n| LDRI | Rijeka/Krk | 1 |\n| LDZD | Zadar/Zemunik | 2 |\n| LDOS | Osijek/Klisa | 1 |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| *EICA* | *Connemara Regional Airport* | *1* |\n| **EICK** | **Cork** | **3** |\n| EICM | Galway | 2 |\n| *EIDL* | *Donegal* | *1* |\n| **EIDW** | **Dublin** | **3** |\n| EIKN | Connaught Regional Airport | 2 |\n| EIKY | Kerry | 2 |\n| **EINN** | **Shannon** | **3** |\n| *EISG* | *Sligo Regional Airport* | *1* |\n| *EIWF* | *Waterford* | *1* |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| *LIBC* | *Crotone* | *1* |\n| **LIBD** | **Bari-Palese Macchie** | **3** |\n| LIBP | Pescara | 2 |\n| LIBR | Brindisi-Casale | 2 |\n| LICA | Lamezia Terme | 2 |\n| **LICC** | **Catania-Fontanarossa** | **3** |\n| LICD | Lampedusa | 2 |\n| *LICG* | *Pantelleria* | *1* |\n| **LICJ** | **Palermo-Punta Raisi** | **3** |\n| *LICR* | *Reggio di Calabria* | *1* |\n| LICT | Trapani-Birgi | 2 |\n| LIEA | Alghero-Fertilia | 2 |\n| **LIEE** | **Cagliari-Elmas** | **3** |\n| **LIEO** | **Olbia-Costa Smeralda** | **3** |\n| **LIMC** | **Milano-Malpensa** | **3** |\n| **LIME** | **Bergamo-Orio al Serio** | **3** |\n| **LIMF** | **Torino-Caselle** | **3** |\n| LIMJ | Genova-Sestri | 2 |\n| **LIML** | **Milano-Linate** | **3** |\n| *LIMP* | *Parma* | *1* |\n| *LIMZ* | *Cuneo/Levaldigi* | *1* |\n| *LIPB* | *Bolzano* | *1* |\n| **LIPE** | **Bologna-Borgo Panigale** | **3** |\n| LIPH | Treviso-Sant'Angelo | 2 |\n| LIPK | Forlì | 2 |\n| LIPO | Brescia-Montichiari | 2 |\n| LIPQ | Trieste-Ronchi dei Legionari | 2 |\n| LIPR | Rimini | 2 |\n| **LIPX** | **Verona-Villafranca** | **3** |\n| LIPY | Ancona-Falconara | 2 |\n| **LIPZ** | **Venezia-Tessera** | **3** |\n| **LIRA** | **Roma-Ciampino** | **3** |\n| **LIRF** | **Roma-Fiumicino** | **3** |\n| **LIRN** | **Napoli-Capodichino** | **3** |\n| **LIRP** | **Pisa-San Giusto** | **3** |\n| **LIRQ** | **Firenze-Peretola** | **3** |\n| *LIRZ* | *Perugia* | *1* |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| **LCLK** | **Larnaka** | **3** |\n| **LCPH** | **Pafos** | **3** |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| **EVRA** | **Rīga** | **3** |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| *EYKA* | *Kaunas* | *1* |\n| *EYPA* | *Palanga* | *1* |\n| EYVI | Vilnius | 2 |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| **ELLX** | **Luxembourg** | **3** |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| **LHBP** | **Budapest-Ferihegy** | **3** |\n| *LHDC* | *Debrecen* | *1* |\n| *LHSM* | *Sármellék-Balaton* | *1* |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| **LMML** | **Malta/Luqa** | **3** |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| **EHAM** | **Amsterdam/Schiphol** | **3** |\n| EHBK | Maastricht-Aachen | 2 |\n| EHEH | Eindhoven/Welschap | 2 |\n| *EHGG* | *Eelde/Groningen* | *1* |\n| EHRD | Rotterdam/Zestienhoven | 2 |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| LOWG | Graz | 2 |\n| LOWI | Innsbruck | 2 |\n| LOWK | Klagenfurt | 2 |\n| LOWL | Linz | 2 |\n| **LOWS** | **Salzburg** | **3** |\n| **LOWW** | **Wien/Schwechat** | **3** |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| *EPBG* | *Bydgoszcz – Szwederowo* | *1* |\n| EPGD | Gdańsk – Rębiechowo | 2 |\n| **EPKK** | **Kraków – Balice** | **3** |\n| EPKT | Katowice – Pyrzowice | 2 |\n| EPPO | Poznań – Ławica | 2 |\n| *EPRZ* | *Rzeszów – Jasionka* | *1* |\n| *EPSC* | *Szczecin – Goleniów* | *1* |\n| **EPWA** | **Warszawa – Okęcie** | **3** |\n| EPWR | Wrocław – Strachowice | 2 |\n| *EPLL* | *Lódź – Lublinek* | *1* |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| *LPFL* | *Flores* | *1* |\n| **LPFR** | **Faro** | **3** |\n| **LPFU** | **Madeira/Madeira** | **3** |\n| LPHR | Horta | 2 |\n| LPLA | Lajes | 2 |\n| LPPD | Ponta Delgada | 2 |\n| *LPPO* | *Santa Maria* | *1* |\n| **LPPR** | **Porto** | **3** |\n| LPPS | Porto Santo | 2 |\n| **LPPT** | **Lisboa** | **3** |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| *LRBC* | *Bacău* | *1* |\n| LRBS | București/Băneasa | 2 |\n| *LRCK* | *Constanța/M. Kogălniceanu* | *1* |\n| LRCL | Cluj-Napoca/Someșeni | 2 |\n| *LRIA* | *Iași* | *1* |\n| *LROD* | *Oradea* | *1* |\n| **LROP** | **București/Otopeni** | **3** |\n| *LRSB* | *Sibiu/Turnișor* | *1* |\n| LRTR | Timișoara/Giarmata | 2 |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| LJLJ | Ljubljana | 2 |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| LZIB | Bratislava | 2 |\n| LZKZ | Košice | 2 |\n| *LZSL* | *Sliač* | *1* |\n| *LZTT* | *Poprad-Tatry* | *1* |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| **EFHK** | **Helsinki-Vantaa** | **3** |\n| EFIV | Ivalo | 2 |\n| EFJO | Joensuu | 2 |\n| EFJY | Jyväskylä | 2 |\n| *EFKE* | *Kemi-Tornio* | *1* |\n| *EFKI* | *Kajaani* | *1* |\n| *EFKK* | *Kruunupyy* | *1* |\n| *EFKS* | *Kuusamo* | *1* |\n| EFKT | Kittilä | 2 |\n| EFKU | Kuopio | 2 |\n| *EFLP* | *Lappeenranta* | *1* |\n| *EFMA* | *Mariehamn* | *1* |\n| EFOU | Oulu | 2 |\n| *EFPO* | *Pori* | *1* |\n| EFRO | Rovaniemi | 2 |\n| *EFSA* | *Savonlinna* | *1* |\n| *EFSI* | *Seinäjoki* | *1* |\n| EFTP | Tampere-Pirkkala | 2 |\n| EFTU | Turku | 2 |\n| EFVA | Vaasa | 2 |\n| *EFVR* | *Varkaus* | *1* |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| ESDF | Ronneby | 2 |\n| **ESGG** | **Göteborg-Landvetter** | **3** |\n| *ESGJ* | *Jönköping* | *1* |\n| ESGP | Göteborg City | 2 |\n| *ESGT* | *Trollhättan/Vänersborg* | *1* |\n| **ESKN** | **Stockholm/Skavsta** | **3** |\n| *ESMK* | *Kristianstad/Everöd* | *1* |\n| ESMQ | Kalmar | 2 |\n| **ESMS** | **Malmö-Sturup** | **3** |\n| *ESMT* | *Halmstad* | *1* |\n| ESMX | Växjö/Kronoberg | 2 |\n| *ESNG* | *Gällivare* | *1* |\n| *ESNK* | *Kramfors* | *1* |\n| *ESNL* | *Lycksele* | *1* |\n| ESNN | Sundsvall-Härnösand | 2 |\n| *ESNO* | *Örnsköldsvik* | *1* |\n| ESNQ | Kiruna | 2 |\n| ESNS | Skellefteå | 2 |\n| ESNU | Umeå | 2 |\n| *ESNX* | *Arvidsjaur* | *1* |\n| *ESOE* | *Örebro* | *1* |\n| ESOK | Karlstad | 2 |\n| ESOW | Stockholm/Västerås | 2 |\n| ESPA | Luleå | 2 |\n| ESPC | Östersund | 2 |\n| **ESSA** | **Stockholm-Arlanda** | **3** |\n| ESSB | Stockholm-Bromma | 2 |\n| *ESSD* | *Borlänge* | *1* |\n| *ESSL* | *Linköping/Saab* | *1* |\n| *ESSP* | *Norrköping* | *1* |\n| ESSV | Visby | 2 |\n| ESTA | Ängelholm | 2 |\n\n| Código OACI do aeroporto | Nome do aeroporto | Categoria do aeroporto em 2007 |\n| --- | --- | --- |\n| **EGAA** | **Belfast International** | **3** |\n| **EGAC** | **Belfast City** | **3** |\n| EGAE | City of Derry (Eglinton) | 2 |\n| **EGBB** | **Birmingham** | **3** |\n| EGBE | Coventry | 2 |\n| **EGCC** | **Manchester** | **3** |\n| EGCN | Doncaster Sheffield | 2 |\n| EGDG | Newquay | 2 |\n| **EGFF** | **Cardiff Wales** | **3** |\n| **EGGD** | **Bristol** | **3** |\n| **EGGP** | **Liverpool** | **3** |\n| **EGGW** | **Luton** | **3** |\n| *EGHC* | *Lands End* | *1* |\n| *EGHD* | *Plymouth* | *1* |\n| *EGHE* | *Isles of Scilly (St.Marys)* | *1* |\n| EGHH | Bournemouth | 2 |\n| **EGHI** | **Southampton** | **3** |\n| *EGHK* | *Penzance Heliport* | *1* |\n| *EGHT* | *Isles of Scilly (Tresco)* | *1* |\n| **EGKK** | **Gatwick** | **3** |\n| **EGLC** | **London City** | **3** |\n| **EGLL** | **Heathrow** | **3** |\n| EGMH | Kent International | 2 |\n| EGNH | Blackpool | 2 |\n| EGNJ | Humberside | 2 |\n| **EGNM** | **Leeds Bradford** | **3** |\n| *EGNR* | *Hawarden* | *1* |\n| **EGNT** | **Newcastle** | **3** |\n| EGNV | Durham Tees Valley | 2 |\n| **EGNX** | **Nottingham East Midlands** | **3** |\n| *EGPA* | *Kirkwall* | *1* |\n| *EGPB* | *Sumburgh* | *1* |\n| *EGPC* | *Wick* | *1* |\n| **EGPD** | **Aberdeen** | **3** |\n| EGPE | Inverness | 2 |\n| **EGPF** | **Glasgow** | **3** |\n| **EGPH** | **Edinburgh** | **3** |\n| *EGPI* | *Islay* | *1* |\n| **EGPK** | **Prestwick** | **3** |\n| *EGPL* | *Benbecula* | *1* |\n| EGPM | Scatsta | 2 |\n| *EGPN* | *Dundee* | *1* |\n| *EGPO* | *Stornoway* | *1* |\n| EGSH | Norwich | 2 |\n| **EGSS** | **Stansted** | **3** |\n| EGTE | Exeter | 2 |"
+  },
+  "23d45f1e188b69d1": {
+   "fragment_id": "A. Quadro sobre as etapas de voo [dados mensais ([^3^](http://publications.europa.eu/resource/cellar/88bdacbf-e34e-414d-b2ec-78477b045343.0018.04/DOC_1#E0003))]",
+   "type": "divisao",
+   "heading": "A. Quadro sobre as etapas de voo [dados mensais ([^3^](http://publications.europa.eu/resource/cellar/88bdacbf-e34e-414d-b2ec-78477b045343.0018.04/DOC_1#E0003))]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Quadro sobre as etapas de voo [dados mensais ([^3^](http://publications.europa.eu/resource/cellar/88bdacbf-e34e-414d-b2ec-78477b045343.0018.04/DOC_1#E0003))]\n\nOs dados comunicados neste quadro só dizem respeito a serviços comerciais aéreos.\n\n| Elementos | Codificação | Nomenclatura | Unidade |\n| --- | --- | --- | --- |\n| Quadro | 2 letras | “A1” |  |\n| País declarante | 2 letras | (1) Principais letras OACI de nacionalidade |  |\n| Ano de referência | 2 dígitos | Tipo “yy” (2 últimas posições do ano) |  |\n| Período de referência | 2 letras | (2) Explícito (ou Statra) |  |\n| Aeroporto declarante | 4 letras | (3) OACI |  |\n| Aeroporto seguinte/anterior | 4 letras | (3) OACI |  |\n| Chegada/partida | 1 dígito | 1 = chegada 2 = partida |  |\n| Serviços regulares/não regulares | 1 dígito | 1 = regular 2 = não regular |  |\n| Serviços de passageiros/serviços polivalentes de carga e correio | 1 dígito | 1 = serviços de passageiros 2 = serviços polivalentes de carga e correio |  |\n| Informações sobre a transportadora aérea | 3 letras | (4) Informações sobre a transportadora aérea (facultativo) |  |\n| Tipo de aeronave | 4 letras | (5) OACI |  |\n| Passageiros a bordo | 12 dígitos |  | Passageiro |\n| Carga e correio a bordo | 12 dígitos |  | Tonelada |\n| Voos comerciais | 12 dígitos |  | Número de voos |\n| Lugares de passageiro disponíveis | 12 dígitos |  | Lugares de passageiro |"
+  },
+  "f6d0b78c98312d39": {
+   "fragment_id": "B. Quadro sobre origem/destino do voo [dados mensais [(3)](http://publications.europa.eu/resource/cellar/88bdacbf-e34e-414d-b2ec-78477b045343.0018.04/DOC_1#E0003) ]",
+   "type": "divisao",
+   "heading": "B. Quadro sobre origem/destino do voo [dados mensais [(3)](http://publications.europa.eu/resource/cellar/88bdacbf-e34e-414d-b2ec-78477b045343.0018.04/DOC_1#E0003) ]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Quadro sobre origem/destino do voo [dados mensais [(3)](http://publications.europa.eu/resource/cellar/88bdacbf-e34e-414d-b2ec-78477b045343.0018.04/DOC_1#E0003) ]\n\nOs dados comunicados neste quadro só dizem respeito a serviços comerciais aéreos.\n\n| Elementos | Codificação | Nomenclatura | Unidade |\n| --- | --- | --- | --- |\n| Quadro | 2 letras | B1 |  |\n| País declarante | 2 letras | (1) Principais letras OACI de nacionalidade |  |\n| Ano de referência | 2 dígitos | Tipo “yy” (2 últimas posições do ano) |  |\n| Período de referência | 2 letras | (2) Explícito (ou Statra) |  |\n| Aeroporto declarante | 4 letras | (3) OACI |  |\n| Aeroporto de origem/de destino | 4 letras | (3) OACI |  |\n| Chegada/partida | 1 dígito | 1 = chegada 2 = partida |  |\n| Serviços regulares/não regulares | 1 dígito | 1 = regular 2 = não regular |  |\n| Serviços de passageiros/serviços polivalentes de carga e correio | 1 dígito | 1 = serviços de passageiros 2 = serviços polivalentes de carga e correio |  |\n| Informações sobre a transportadora aérea | 3 letras | (4) Informações sobre a transportadora aérea (facultativo) |  |\n| Passageiros transportados | 12 dígitos |  | Passageiro |\n| Carga e correio carregados ou descarregados | 12 dígitos |  | Tonelada |"
+  },
+  "8381e8f60791ee0a": {
+   "fragment_id": "C. Quadro sobre os aeroportos (pelo menos, dados anuais)",
+   "type": "divisao",
+   "heading": "C. Quadro sobre os aeroportos (pelo menos, dados anuais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### C. Quadro sobre os aeroportos (pelo menos, dados anuais)\n\nOs dados comunicados neste quadro só dizem respeito a serviços comerciais aéreos, com excepção do “total dos movimentos de aeronaves comerciais” que também diz respeito a todas as operações comerciais gerais da aviação e do “total dos movimentos de aeronaves” que se refere a todos os movimentos de aeronaves civis (com excepção dos voos estatais).\n\n| Elementos | Codificação | Nomenclatura | Unidade |\n| --- | --- | --- | --- |\n| Quadro | 2 letras | C1 |  |\n| País declarante | 2 letras | (1)Principais letras OACI de nacionalidade |  |\n| Ano de referência | 2 dígitos | Tipo “yy” |  |\n| Período de referência | 2 letras | (2) Explícito (ou Statra) |  |\n| Aeroporto declarante | 4 letras | (3) OACI |  |\n| Informações sobre a transportadora aérea [(^1^)](http://publications.europa.eu/resource/cellar/88bdacbf-e34e-414d-b2ec-78477b045343.0018.04/DOC_1#E0004) | 3 letras | (4) Informações sobre a transportadora aérea |  |\n| Total dos passageiros transportados | 12 dígitos |  | Passageiro |\n| Total dos passageiros em trânsito directo. | 12 dígitos |  | Passageiro |\n| Total da carga e do correio carregados/descarregados | 12 dígitos |  | Tonelada |\n| Total dos movimentos de aeronaves comerciais | 12 dígitos |  | Movimento |\n| Total dos movimentos de aeronaves | 12 dígitos |  | Movimento |\n| (^1^)O campo “informações sobre a transportadora aérea” só é obrigatório para os aeroportos que devam igualmente declarar os quadros A1 e B1. Para os aeroportos que não estejam sujeitos à obrigação de declarar os quadros A1 e B1, pode utilizar-se um código que abranja todas as transportadoras aéreas. |  |  |  |"
+  },
+  "8f12e1c9786e9edb": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/88bdacbf-e34e-414d-b2ec-78477b045343.0018.04/DOC_1#src.E0001)) JO L 66 de 11.3.2003, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/88bdacbf-e34e-414d-b2ec-78477b045343.0018.04/DOC_1#src.E0002)) JO L 181 de 28.6.1989, p. 47.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/88bdacbf-e34e-414d-b2ec-78477b045343.0018.04/DOC_1#src.E0003)) Em 2003, aceitam-se “pelo menos, dados trimestrais”."
+  }
+ }
+}

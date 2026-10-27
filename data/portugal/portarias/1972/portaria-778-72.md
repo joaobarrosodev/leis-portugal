@@ -1,0 +1,162 @@
+---
+schema_version: '1.0'
+id: pt:dre:665165:por
+title: Portaria n.º 778/72
+short_title: null
+summary: Fixa as condições de acesso à profissão de transportador internacional de mercadorias
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Comunicações - Direcção-Geral de Transportes Terrestres
+proposing_entity: null
+official_number: 778/72
+official_date: null
+publication_date: '1972-12-28'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 300/1972, Série I de 1972-12-28
+  number: '300'
+  series: I
+  supplement: null
+  pages: 2072 - 2072
+  pdf_url: https://files.diariodarepublica.pt/1s/1972/12/30000/20722072.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '665165'
+  dre_path: /dr/detalhe/portaria/778-1972-665165
+  internal: pt:dre:665165:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/778-1972-665165
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/778-1972-665165
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:57:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 66e1173780602bda718243407899251b736c37461192876cffe716565cbeda3e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:57:35Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Qualificação Profissional
+- Transporte de Mercadorias
+- Transporte Internacional
+relationships:
+- type: amended_by
+  target: pt:dre:170317:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:576551:por
+  label: "Suspendida a aplicação pela PORT.680/81.07.08.1981.MTC, DR.IS [180] de 07.08.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/680-1981-576551
+  date: '1981-08-07'
+- type: cites
+  target: pt:dre:398094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535987:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:170317:por
+  label: "Revogada pelo DR.77/85.1985.11.25.MES, DR.IS [271]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/77-1985-170317
+  date: '1985-11-25'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:57:35Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 778/72
+
+de 28 de Dezembro
+
+O artigo 34.º do [Decreto n.º 45/72](https://diariodarepublica.pt/dr/detalhe/decreto/45-1972-398094), de 5 de Fevereiro, remete para portaria do Ministro das Comunicações, ouvida a Corporação dos Transportes e Turismo, a fixação das condições de acesso à profissão de transportador internacional de mercadorias.
+
+O referido artigo distingue, aliás, duas hipóteses - a dos transportadores internos que pretendem dedicar-se também ao transporte internacional e a das empresas constituídas exclusivamente para o efeito, da qual terão obrigatóriamente de fazer parte transportadores internos -, que naturalmente também aqui terão de se distinguir.
+
+Muito embora existam já alguns estudos feitos no sentido de, à semelhança do que se vem fazendo em diversos países europeus, e do que é, aliás, internacionalmente recomendado, exigir especiais qualificações profissionais para a exploração desta indústria, julga-se que, de momento, não poderemos ir além da exigência do preenchimento de meros indicadores quantitativos com que vem sendo hábito suprir a ausência de qualificações subjectivas pròpriamente ditas.
+
+É esse o sentido das disposições agora tomadas, que se espera permitam o acesso dos transportadores nacionais ao mercado internacional de transportes rodoviários de mercadorias em condições cujo acerto só a prática demonstrará, num campo que, por ser inteiramente novo, poderá vir a justificar futuras adaptações.
+
+Assim:
+
+Tendo em vista o disposto no n.º 2 do artigo 34.º e no artigo 35.º do [Decreto n.º 45/72](https://diariodarepublica.pt/dr/detalhe/decreto/45-1972-398094), de 5 de Fevereiro;
+
+Ouvida a Corporação dos Transportes e Turismo:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado das Comunicações e Transportes, o seguinte:
+
+1.º Só poderão ser licenciadas para a realização de transportes internacionais rodoviários de mercadorias, nos termos da alínea a) do n.º 1 do artigo 34.º do [Decreto n.º 45/72](https://diariodarepublica.pt/dr/detalhe/decreto/45-1972-398094), de 5 de Fevereiro, empresas licenciadas para a realização de transportes públicos internos de mercadorias que reúnam as seguintes condições mínimas:
+
+a) Parque de veículos de aluguer com uma tonelagem bruta não inferior a 250 t, devendo pelo menos 125 t corresponder a veículos licenciados sem limite de raio;
+
+b) Constituição sob forma de sociedades comerciais regulares, anónimas ou por quotas, com capital não inferior a 2 milhões de escudos;
+
+c) Organização administrativa e comercial adequada, sobre o que será ouvido, caso por caso, o Grémio dos Industriais de Transportes em Automóveis.
+
+2.º Na determinação da tonelagem do parque de veículos das empresas, para efeito do disposto no número anterior, observar-se-á o seguinte:
+
+a) Só serão tomados em consideração, para além dos veículos licenciados ao abrigo do corpo do artigo 16.º do Regulamento de Transportes em Automóveis, os que estiverem licenciados nos termos do n.º 2 do seu § único há pelo menos um ano;
+
+b) Os veículos licenciados nos termos do n.º 2 do § único do artigo 16.º do Regulamento de Transportes em Automóveis só serão considerados como licenciados sem limite de raio caso o estejam ininterruptamente há pelo menos um ano;
+
+c) Os veículos licenciados exclusivamente para o transporte de objectos indivisíveis apenas serão tomados em consideração até ao limite de 38 t por veículo.
+
+3.º No caso de as empresas pretenderem ser licenciadas exclusivamente para a realização de determinados transportes especializados, no cálculo da tonelagem fixada na alínea a) do n. 1.º apenas serão tomados em consideração veículos licenciados para a realização desses transportes que possuam as condições técnicas exigíveis para o efeito, incluindo, sendo caso disso, os licenciados nos termos do artigo 42.º do [Decreto n.º 46066](https://diariodarepublica.pt/dr/detalhe/decreto/46066-1964-535987), de 7 de Dezembro de 1964.
+
+4.º No caso referido no número anterior, poderá o Ministro das Comunicações, ouvido o Grémio dos Industriais de Transportes em Automóveis, reduzir o valor fixado na alínea a) do n.º 1.º quando houver interesse público no licenciamento dessas empresas e se demonstre que as necessidades da procura ou as condições do mercado não justificam a existência de um parque com aquela dimensão.
+
+5.º É aplicável à hipótese prevista n.º 3.º disposto nas alíneas a) e b) do n.º 2.º quanto ao prazo de licenciamento, ainda que se não trate de veículos licenciados nos termos do n.º 2.º do § único do artigo 16.º do Regulamento de Transportes em Automóveis.
+
+6.º Só poderão se licenciadas para realização exclusiva de transportes internacionais rodoviários de mercadorias, nos termos da alínea b) do n.º 1 do artigo 34.º do [Decreto n.º 45/72](https://diariodarepublica.pt/dr/detalhe/decreto/45-1972-398094), de 5 de Fevereiro, empresas que preencham as seguintes condições:
+
+a) Constituição sob forma de sociedades comerciais regulares, anónimas ou por quotas, com capital social não inferior a 5 milhões de escudos;
+
+b) Participação de transportadores rodoviários internos de mercadorias que, no seu conjunto, possuam um parque de veículos licenciados em regime de aluguer com uma tonelagem bruta não inferior à fixada nos números anteriores, a determinar nas mesmas condições.
+
+c) Sempre que seja minoritária a participação a que se refere a alínea anterior, participação obrigatória de empresas transportadoras internacionais de mercadorias, rodoviárias ou não, nacionais ou estrangeiras, de seus agentes ou representantes, ou de empresas que se dediquem a actividades afins, de reconhecida idoneidade.
+
+7.º O disposto na alínea a) do número anterior não prejudica a possibilidade de serem condicionalmente licenciadas sociedades comerciais regulares, anónimas ou por quotas, a constituir, só sendo, porém, emitido o respectivo alvará uma vez as mesmas constituídas definitivamente.
+
+8.º A Direcção-Geral de Transportes Terrestres fixará os documentos que devem acompanhar os pedidos de licenciamento, podendo exigir, por outro lado, todos os esclarecimentos que julgar indispensáveis para apreciação dos respectivos requerimentos.
+
+Ministério das Comunicações, 18 de Dezembro de 1972. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

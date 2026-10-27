@@ -1,0 +1,910 @@
+---
+schema_version: '1.0'
+id: pt:dre:2294370:por
+title: Despacho Normativo n.º 24/2008
+short_title: null
+summary: Diploma das boas práticas agrícolas
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas - Gabinete do Ministro
+proposing_entity: null
+official_number: 24/2008
+official_date: null
+publication_date: '2008-04-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 80/2008, Série II de 2008-04-23
+  number: '80'
+  series: II
+  supplement: null
+  pages: 18550 - 18557
+  pdf_url: https://files.diariodarepublica.pt/2s/2008/04/080000000/1855018557.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2294370'
+  dre_path: /dr/detalhe/despacho-normativo/24-2008-2294370
+  internal: pt:dre:2294370:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-2008-2294370
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-2008-2294370
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:06:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 37af3ddcde1e49a1dcec9d642ca53cc15ea2d617eccd1fce64e99ef3e9bcfc7e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:06:50Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Agricultor
+- Controlo Sanitário
+- Exploração Agrícola
+- Financiamento
+- Fiscalização
+- Madeira.região Autónoma
+- Pagamento
+- Pecuária
+- Proteção do Ambiente
+- Proteção Fitossanitária
+- Saúde Pública
+- Subsídio
+relationships:
+- type: amended_by
+  target: pt:dre:66619896:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:1151622:por
+  label: "Alteradas as als. i) e q) do art. 2.º e os nºs. 1.3 e 1.4.1 do anexo I do DN 7/2005, de 01-Fev, na redacção do presente\
+    \ diploma, pelo DN.14/2009.02.04.2009.MADRP, DR.IIS [65] de 02.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/14-2009-1151622
+  date: '2009-04-02'
+- type: amended_by
+  target: pt:dre:1124172:por
+  label: "Alterada a al. p) do art. 2.º, aditadas as als. aa), bb) e cc) do art. 2.º e o n.º 1.1.6 do anexo i a que se refere\
+    \ a al. a) do art. 2.º e os n.ºs 30, 31, 32 e [33] do anexo ii a que se refere o art. 3.º e revogado o n.º 1.4.1 do anexo\
+    \ i do DN 7/2005, de 01-Fev DR.IS-B [22], republicado pelo presente diploma, pelo DN.3/2010.01.02.2010.MADRP, DR.IIS [21]\
+    \ de 01.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-2010-1124172
+  date: '2010-02-01'
+- type: amended_by
+  target: pt:dre:3337344:por
+  label: "Alterados os nºs 19, 21 e 26 do anexo ii a que se refere o art. 3º do DN 7/2005, de 01-Fev, na redacção do presente\
+    \ despacho normativo, pelo DN.10/2011.15.06.2011.MADRP, DR.IIS [114] de 15.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/10-2011-3337344
+  date: '2011-06-15'
+- type: amended_by
+  target: pt:dre:2235067:por
+  label: "Alterados os arts. 2.º e 4º e os anexos I e II do DN 7/2005, de 01-fev, na redação do presente diploma, pelo DN.4/2012.02.04.2012.SEA-MAMAOT,\
+    \ DR.IIS [66] de 02.04.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-2012-2235067
+  date: '2012-04-02'
+- type: amended_by
+  target: pt:dre:3661173:por
+  label: "Alterados o art. 2.º e os anexos I e II do DN 7/2005 de 01-fev, na redação do presente despacho normativo, pelo\
+    \ DN.2/2014.29.01.2014.SEAG-MAGM, DR.IIS [20] de 29.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/2-2014-3661173
+  date: '2014-01-29'
+- type: cites
+  target: celex:32003R1782
+  label: null
+  source: null
+- type: cites
+  target: celex:32004R0796
+  label: null
+  source: null
+- type: cites
+  target: celex:32005R1698
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659564:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:2142528:por
+  label: "Rectificado o art. 2.º [deve passar a ler-se «São aditadas as alíneas aa), bb) e cc) do artigo 2.º, o n.º 1.1.6\
+    \ do anexo i a que se refere a alínea a) do artigo 2.º e os n.os 30, 31, 32 e 33 do anexo ii a que se refere o artigo\
+    \ 3.º do despacho normativo n.º 7/2005, com a seguinte redacção:»] do DN 3/2010, de 01-Fev, que alterou o DN 7/2005 de\
+    \ 01-Fev, na redacção do presente despacho, pela DECL-RECT.319/2010.18.02.2010.SG-MADRP, DR.IIS [34] de 18.02.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/319-2010-2142528
+  date: '2010-02-18'
+- type: repealed_by
+  target: pt:dre:66619896:por
+  label: Revogado, a partir de 28.02.2015, o DN 7/2005 de 01-fev, alterado pelo presente diploma, pelo(a) Portaria n.º 57/2015
+    - Diário da República n.º 41/2015, Série I de 2015-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/57-2015-66619896
+  date: '2015-02-27'
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:06:50Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho normativo n.º 24/2008
+
+O Regulamento (CE) n.º 1782/2003, do Conselho, de 29 de Setembro, que estabeleceu o princípio da condicionalidade, impõe determinadas obrigações aos agricultores que beneficiem de ajudas a título de todos os regimes de pagamentos directos, ou seja, os agricultores têm que satisfazer determinadas condições em matéria de saúde pública, saúde animal, fitossanidade, ambiente e bem estar animal, assim como, assegurar que as terras agrícolas, em especial as que já não são utilizadas para fins produtivos, sejam mantidas em boas condições agrícolas e ambientais.
+
+Em Portugal, essas condições foram estabelecidas através do [Despacho Normativo n.º 7/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2005-620106), publicado no Diário da República, 1.ª série-B, de 1 de Fevereiro de 2005, com base no quadro do Anexo IV do Regulamento (CE) n.º 1782/2003, do Conselho, de 29 de Setembro.
+
+Importa, porém, considerar que desde a publicação do mencionado despacho, ocorreram algumas alterações importantes na nomenclatura das ocupações culturais a declarar no pedido único de ajudas, muitas vezes resultantes da necessidade de harmonizar a sua utilização para efeitos de elegibilidade das parcelas aos vários regimes de pagamentos directos e das medidas no âmbito do desenvolvimento rural, tornando-se agora por isso fundamental transpor para o normativo estabelecido os novos conceitos em utilização e proceder à adaptação das normas definidas.
+
+Por outro lado, a integração das culturas permanentes, com excepção da vinha, no regime de pagamento único, implica a necessidade de definir novas obrigações no âmbito das boas condições agrícolas e ambientais.
+
+Acresce ainda que o artigo 51.º do Regulamento (CE) n.º 1698/2005, do Conselho, de 20 de Setembro, estabelece que os pagamentos a título de algumas das medidas aí previstas ficam subordinados ao respeito da condicionalidade, pelo que, as normas definidas no presente despacho, também se aplicam aos beneficiários dos pagamentos previstos nas subalíneas i) a v) da alínea a) e nas subalíneas i), iv) e v) da alínea b) do artigo 36.º do Regulamento (CE) n.º 1698/2005, do Conselho, de 20 de Setembro.
+
+Atendendo, pois, à natureza das alterações introduzidas, procede-se à republicação do [Despacho Normativo n.º 7/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2005-620106).
+
+Assim, ao abrigo do disposto no artigo 5.º do Regulamento (CE) n.º 1782/2003, do Conselho, de 29 de Setembro, e no Regulamento (CE) n.º 796/2004, da Comissão, de 21 de Abril, determino o seguinte:
+
+1.º Os artigos 2.º, 3.º e 4.º do [Despacho Normativo n.º 7/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2005-620106), publicado no Diário da República, 1.ª série-B, de 1 de Fevereiro de 2005, com as alterações que lhe foram introduzidas pelo [Despacho Normativo n.º 33/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/33-2005-234168), publicado no Diário da República, 1.ª série-B, de 28 de Junho de 2005, são alterados da seguinte forma:
+
+«Artigo 2.º
+
+[...]
+
+a) "Ocupações culturais" todas as ocupações definidas nos termos constantes do Anexo I ao presente diploma, que dele faz parte integrante.
+
+b) "Valas de drenagem", estruturas da rede de drenagem que asseguram o escoamento das águas excedentárias que saturam a camada superficial do solo ou estagnam à superfície tornando a parcela menos apta para o cultivo;
+
+c) "Valas de rega", estruturas permanentes da rede de rega que asseguram o transporte e a distribuição da água até à parcela a regar;
+
+d) "Maracha ou Cômoro", forma de armação do terreno, com muretes de terra, que delimitam as parcelas sujeitas a rega por submersão;
+
+e) "Produto fitofarmacêutico", o definido nos termos da alínea a) do n.º 2 do artigo 2.º do [Decreto-Lei n.º 94/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1998-173369), de 15 de Abril, que adopta as normas técnicas de execução referentes à colocação dos produtos fitofarmacêuticos no mercado;
+
+f) "Resíduos de embalagens", o definido nos termos do [Decreto-Lei n.º 366-A/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-a-1997-659564), de 20 de Dezembro, que estabelece os princípios e as normas aplicáveis à gestão de embalagens e resíduos de embalagens;
+
+g) "Resíduos de excedentes", o definido nos termos da alínea m) do artigo 2.º do [Decreto-Lei n.º 173/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2005-594308), de 21 de Outubro, que regula as actividades de distribuição, venda, prestação de serviços de aplicação de produtos fitofarmacêuticos e a sua aplicação pelos utilizadores finais;
+
+h) ...;
+
+i) ...;
+
+j) ...;
+
+l) ...;
+
+m) (Revogada.)
+
+n) (Revogada.)
+
+o) ...;
+
+p) ...;
+
+q) ...
+
+r) "Queimada", o definido nos termos da alínea v) do artigo 3.º do [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), de 28 de Junho, que estabelece as medidas e acções a desenvolver no âmbito do Sistema Nacional de Defesa da Floresta contra incêndios;
+
+s) "Caminho rural ou agrícola", via de comunicação com mais de 3 metros de largura que liga vários pontos de uma exploração agrícola;
+
+t) (Revogada.)»
+
+«Artigo 3.º
+
+As normas relativas às boas condições agrícolas e ambientais são as constantes do Anexo II ao presente despacho, dele fazendo parte integrante.»
+
+«Artigo 4.º
+
+A superfície agrícola e a superfície com culturas sob coberto de espaço florestal arborizado nas quais sejam instaladas culturas temporárias, devem evidenciar ter sido objecto das operações culturais adequadas à instalação da cultura, segundo as normas locais.»
+
+2.º Ao [Despacho Normativo n.º 7/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2005-620106), publicado no Diário da República, 1.ª série-B, de 1 de Fevereiro de 2005, é aditado o Anexo I com a seguinte redacção:
+
+## Anexo I — [a que se refere a alínea a) do artigo 2.º]
+
+Ocupações culturais
+
+1 - Superfície Agrícola:
+
+1.1 - Culturas Temporárias:
+
+As culturas cujo ciclo vegetativo não excede um ano e as que ocupam as terras num período inferior a cinco anos. Inclui:
+
+1.1.1 - Culturas Arvenses:
+
+As culturas cujo ciclo vegetativo não excede um ano, geralmente integradas num sistema de rotação de culturas, incluindo as culturas de cereais para a produção de grão, as oleaginosas, as proteaginosas e outras culturas arvenses.
+
+1.1.2 - Culturas Hortícolas ao Ar Livre:
+
+As culturas hortícolas cultivadas ao ar livre, quer se destinem à industria quer ao consumo em fresco bem como as culturas hortícolas destinadas ao autoconsumo, incluindo a batata.
+
+1.1.3 - Floricultura ao Ar Livre:
+
+Incluem-se as áreas destinadas à produção ao ar livre, de flores e folhagens para corte, plantas em vasos ou sacos e vários tipos de transplante.
+
+1.1.4 - Culturas Forrageiras:
+
+Incluem-se os prados temporários semeados e espontâneos, para corte e ou pastoreio e por um período inferior a cinco anos, bem como outras culturas forrageiras.
+
+1.1.5 - Outras Culturas Temporárias:
+
+Incluem-se as culturas que não se inserem nos níveis anteriormente definidos.
+
+1.2 - Culturas Permanentes:
+
+As culturas não integradas em rotação, com exclusão das pastagens permanentes, que ocupam as terras por cinco anos ou mais e dão origem a várias colheitas e que apresentam uma determinada densidade de plantação. Inclui:
+
+1.2.1 - Culturas Frutícolas:
+
+Conjuntos de árvores destinados à produção de frutos que apresentam uma densidade de plantação de uma espécie superior a 60 árvores/ha e em que essa espécie é predominante, igual ou superior a 60 % da superfície da parcela, com excepção da amendoeira, nogueira e pistaceira em que a densidade de plantação é superior a 45 árvores/ha e a alfarrobeira em que a densidade de plantação é superior a 30 árvores/ha.
+
+1.2.2 - Vinha:
+
+A superfície plantada com vinha em cultura estreme ou consociada e em que a vinha é predominante, igual ou superior a 60 % da superfície da parcela.
+
+1.2.3 - Olival:
+
+A superfície ocupada com oliveiras, que apresenta uma densidade de plantação superior a 45 oliveiras/ha e em que a oliveira é predominante, igual ou superior a 60 % da superfície da parcela.
+
+1.2.4 - Outras culturas permanentes:
+
+1.2.4.1 - Misto de Culturas Permanentes:
+
+A superfície ocupada com várias espécies de culturas permanentes não se verificando dominância de qualquer espécie.
+
+1.2.4.2 - Outras Culturas Permanentes:
+
+Incluem-se nesta categoria outras culturas permanentes estremes, nomeadamente as culturas do cardo, da cana e chá.
+
+1.3 - Pastagem Permanente:
+
+As terras ocupadas com erva ou outras forrageiras herbáceas, quer semeadas quer espontâneas, por um período igual ou superior a cinco anos e que não estejam incluídas no sistema de rotação da exploração, com excepção das terras sujeitas a regimes de retirada obrigatória da produção, conforme previsto no n.º 2 do artigo 2.º do Regulamento (CE) n.º 796/2004. Inclui:
+
+1.3.1 - Pastagem Permanente Natural:
+
+As terras ocupadas com erva ou outras forrageiras herbáceas, espontâneas, por um período igual ou superior a cinco anos e que não estejam incluídas no sistema de rotação da exploração, com excepção das terras sujeitas a regimes de retirada obrigatória da produção, conforme previsto no n.º 2 do artigo 2.º do Regulamento (CE) n.º 796/2004, incluindo a pastagem permanente natural melhorada.
+
+1.3.2 - Pastagem Permanente Semeada:
+
+As terras ocupadas com erva ou outras forrageiras herbáceas, semeadas, por um período igual ou superior a cinco anos e que não estejam incluídas no sistema de rotação da exploração, com excepção das terras sujeitas a regimes de retirada obrigatória da produção, conforme previsto no n.º 2 do artigo 2.º do Regulamento (CE) n.º 796/2004.
+
+1.4 - Outras superfícies agrícolas:
+
+1.4.1 - Pousio:
+
+As superfícies em pousio, inseridas ou não numa rotação, e as superfícies de retirada obrigatória de produção, onde se incluem:
+
+1.4.1.1 - Superfície Retirada de Produção:
+
+As superfícies de retirada obrigatória nos termos do artigo 53.º do Regulamento (CE) n.º 1782/2003, do Conselho, de 29 de Setembro.
+
+1.4.1.2 - Outros Pousios:
+
+A superfície que esteve destinada à produção vegetal, não produziu qualquer colheita durante o ano agrícola, e que no ano em curso é mantida em boas condições agrícolas e ambientais, incluindo todos as superfícies em pousio inseridas ou não numa rotação, com excepção das superfícies retiradas de produção.
+
+1.4.2 - Culturas Protegidas:
+
+A superfície ocupada com culturas semeadas ou plantadas dentro de estufins e ou estufas ou sujeitas a qualquer tipo de forçagem.
+
+1.4.3 - Outras Superfícies agrícolas:
+
+Incluem-se as superfícies que não estão contempladas nos vários níveis da superfície agrícola.
+
+2 - Superfície Agro-Florestal:
+
+2.1 - Culturas sob coberto de espaço florestal arborizado:
+
+As superfícies ocupadas com árvores florestais, naturais ou plantadas, com uma densidade superior a 60 árvores/ha, independentemente se tratarem de superfícies com uma só espécie ou mistos e que o sob coberto é utilizado para a produção vegetal com culturas temporárias ou com pastagem permanente, com exclusão dos povoamentos de pinhal bravo, eucalipto, choupo, acácia e espécies exóticas. Inclui:
+
+2.1.1 - Sob coberto de Quercíneas:
+
+As superfícies ocupadas com árvores florestais em que as quercíneas, sobreiro, azinheira, carvalho negral ou outro tipo de quercus, são predominantes, mais de 75 % do coberto arbóreo, e em que o sob coberto é utilizado para a produção vegetal com culturas temporárias ou com pastagem permanente.
+
+2.1.2 - Sob coberto de Castanheiro, Alfarrobeira ou Pinhal Manso:
+
+As superfícies ocupadas com árvores florestais em que o castanheiro, a alfarrobeira ou o pinheiro manso é predominante, mais de 75 % do coberto arbóreo, e em que o sob coberto é utilizado para a produção vegetal com culturas temporárias ou com pastagem permanente.
+
+2.1.3 - Sob coberto de Outras Folhosas:
+
+As superfícies ocupadas com árvores florestais em que as outras folhosas, ulmeiro e freixo são predominantes, mais de 75 % do coberto arbóreo, e em que o sob coberto é utilizado para a produção vegetal com culturas temporárias ou com pastagem permanente.
+
+2.1.4 - Sob coberto de Povoamento Florestal Misto:
+
+As superfícies ocupadas com várias espécies de árvores florestais em que nenhuma delas é predominante e em que o sob coberto é utilizado para a produção vegetal com culturas temporárias ou com pastagem permanente.
+
+2.2 - Espaço florestal arborizado para a produção de fruto:
+
+As superfícies ocupadas com espécies florestais destinadas à produção de fruto, nomeadamente o pinheiro manso para pinhão e o medronheiro, sem utilização agrícola do sob coberto.
+
+2.3 - Espaço Agro-Florestal não arborizado com aproveitamento forrageiro:
+
+As superfícies ocupadas maioritariamente por formações lenhosas espontâneas, mais de 50 % da superfície da parcela, de altura superior a 50 cm e utilizadas para alimentação animal através de pastoreio.
+
+3 - Superfície Florestal:
+
+3.1 - Espaço florestal arborizado:
+
+As superfícies ocupadas com árvores florestais naturais ou plantadas, independentemente de se tratarem de superfícies com povoamentos de uma só espécie ou mistos, incluindo também as áreas ardidas ou áreas de corte raso. Inclui:
+
+3.1.1 - Povoamento de Quercíneas:
+
+As superfícies ocupadas com árvores florestais em que as quercíneas, sobreiro, azinheira, carvalho negral ou outros quercus, são predominantes, mais de 75 % do coberto arbóreo.
+
+3.1.2 - Povoamento de Folhosas:
+
+As superfícies ocupadas com árvores florestais em que as folhosas, eucalipto, castanheiro, alfarrobeira, ulmeiro e freixo são predominantes, mais de 75 % do coberto arbóreo.
+
+3.1.3 - Povoamento de Resinosas:
+
+As superfícies ocupadas com árvores florestais em que as resinosas, pinheiro bravo, pinheiro manso e outras resinosas, são predominantes, mais de 75 % do coberto arbóreo.
+
+3.1.4 - Povoamento Florestal Misto:
+
+As superfícies ocupadas com várias espécies de árvores florestais em que nenhuma delas é predominante.
+
+3.1.5 - Povoamento de Outras Espécies Florestais:
+
+As superfícies ocupadas com espécies florestais que não estão contempladas nos níveis anteriores, como por exemplo o salix e o incenso.
+
+3.2 - Espaço florestal não arborizado sem aproveitamento forrageiro:
+
+As superfícies ocupadas maioritariamente por formações lenhosas espontâneas, mais de 50 % da superfície da parcela, de altura superior a 50 cm que não são aproveitadas para qualquer uso agrícola incluindo a alimentação animal.
+
+3.3 - Outras superfícies florestais:
+
+3.3.1 - Aceiro Florestal:
+
+Superfície de terreno mobilizado ou com vegetação controlada por corte mecânico com a finalidade de prevenção de incêndios.
+
+3.3.2 - Zonas de Protecção/Conservação:
+
+Incluem-se as galerias ripícolas, os bosquetes e formações reliquiais ou notáveis e os corredores ecológicos.
+
+3.3.3 - Outras Superfícies Florestais:
+
+Incluem-se os viveiros florestais.
+
+4 - Outras Superfícies:
+
+4.1 - Superfícies com Infra-Estruturas:
+
+4.1.1 - Superfícies Sociais:
+
+As superfícies que se encontram edificadas nomeadamente, superfícies com construções e instalações agro-pecuárias, agrícolas, edificações industriais, estruturas de tratamento de águas residuais e edificações sociais não agrícolas.
+
+4.1.2 - Vias de Comunicação:
+
+As superfícies ocupadas com estradas, auto estradas, caminhos rurais/agrícolas e vias ferroviárias.
+
+4.2 - Massas de água:
+
+Zonas afectas a planos de água naturais e artificiais, incluindo barragens, lagoas e canais ou condutas de rega e as linhas de água.
+
+4.3 - Improdutivo:
+
+O terreno estéril do ponto de vista da existência de comunidades vegetais ou com capacidade de crescimento extremamente limitada, quer em resultado de limitações naturais, quer em resultado de acções antropogénicas como as pedreiras, saibreiras, dunas e extracção de inertes.
+
+4.4 - Outras Superfícies:
+
+4.4.1 - Zonas Húmidas:
+
+Incluem-se as zonas apaúladas, turfeiras, sapais, salinas e zonas inter-marés costeiras e de estuário.
+
+4.4.2 - Outras Superfícies:
+
+Incluem-se as superfícies que não estão contempladas nos níveis anteriores.»
+
+3.º O Anexo a que se refere o artigo 3.º do [Despacho Normativo n.º 7/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2005-620106), publicado no Diário da República, 1.ª série-B, de 1 de Fevereiro de 2005, com as alterações que lhe foram introduzidas pelo [Despacho Normativo n.º 33/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/33-2005-234168), publicado no Diário da República, 1.ª série-B, de 28 de Junho de 2005, passa a ter a seguinte redacção:
+
+«Anexo II
+
+(a que se refere o artigo 3.º)
+
+Boas condições agrícolas e ambientais
+
+Sem prejuízo do disposto na legislação comunitária e nacional relativamente ao ambiente, os beneficiários de pagamentos directos e de pagamentos previstos nas subalíneas i) a v) da alínea a) e nas subalíneas i), iv) e v) da alínea b) do artigo 36.º do Regulamento (CE) n.º 1698/2005, do Conselho, de 20 de Setembro, devem cumprir as seguintes normas:
+
+1 - «Cobertura da parcela» - A superfície agrícola e a superfície com culturas sob coberto de espaço florestal arborizado devem apresentar uma vegetação de cobertura, instalada ou espontânea no período entre 15 de Novembro e 1 de Março, excepto quando, nestas superfícies se efectuem trabalhos de preparação do solo para instalação de culturas.
+
+2 - Não estão abrangidas pelo disposto na norma «cobertura da parcela»:
+
+a) As parcelas com IQFP igual ou inferior a 2 com culturas permanentes;
+
+b) As superfícies com culturas protegidas.
+
+3 - «Cobertura das parcelas com culturas permanentes» - Sem prejuízo do disposto nas normas «ocupação cultural das parcelas com IQFP 4» e «ocupação cultural das parcelas com IQFP 5», as parcelas com IQFP igual ou superior a 3 com culturas permanentes devem apresentar vegetação de cobertura na zona da entrelinha, no período entre 15 de Novembro e 1 de Março.
+
+4 - «Ocupação cultural das parcelas com IQFP 4» - Nas parcelas com IQFP 4, excepto em parcelas armadas em socalcos ou terraços e nas áreas integradas em várzeas, não são permitidas as culturas temporárias, sendo a instalação de novas culturas permanentes ou pastagens permanentes apenas permitida nas situações em que as DRAP as considerem tecnicamente adequadas.
+
+5 - «Ocupação cultural das parcelas com IQFP 5» - Nas parcelas com IQFP 5, excepto em parcelas armadas em socalcos ou terraços e nas áreas integradas em várzeas, não são permitidas as culturas temporárias nem a instalação de novas pastagens permanentes, sendo apenas permitida a melhoria das pastagens permanentes naturais sem mobilização do solo, e a instalação de novas culturas permanentes apenas nas situações em que as DRAP as considerem tecnicamente adequadas.
+
+6 - «Rotação de culturas» - As parcelas com culturas temporárias de primavera/verão, com excepção das parcelas exploradas para a orizicultura, devem apresentar entre 15 de Novembro e 1 de Março, uma cultura intercalar de grupo diferente ou, em alternativa, uma vegetação de cobertura espontânea, sendo as culturas intercalares permitidas as culturas arvenses de Outono/Inverno, as culturas forrageiras temporárias de Outono/Inverno e as culturas hortícolas ao ar livre de Outono/Inverno.
+
+7 - «Parcelas em terraços» - As parcelas armadas em terraços, devem apresentar uma vegetação de cobertura no talude no período entre 15 de Novembro e 1 de Março, podendo o controlo desta vegetação de cobertura ser realizado sem reviramento do solo fora deste período.
+
+8 - «Parcelas exploradas para a orizícultura» - Os elementos lineares característicos das parcelas sistematizadas e exploradas para a orizicultura, designadamente as valas de drenagem, valas de rega, marachas ou cômoros e caminhos rurais/agrícolas, devem evidenciar ter sido objecto de uma manutenção adequada à prática desta cultura.
+
+9 - «Controlo da vegetação lenhosa espontânea» - A superfície agrícola e a superfície com culturas sob coberto de espaço florestal arborizado não podem apresentar uma área superior a 25 % ocupada com formações lenhosas espontâneas dominadas por arbustos de altura superior a 50 cm e o controlo destas formações lenhosas espontâneas deve obedecer às seguintes regras:
+
+a) Efectuar-se fora da época de maior concentração de reprodução de avifauna (Março e Abril), com excepção dos casos em que, por motivos de sazão das terras, o controlo dessa vegetação necessite de ser realizado nesse período, ficando a sua execução dependente da autorização da DRAP da área a que pertence a parcela em questão;
+
+b) Efectuar-se fora do período compreendido entre 1 de Julho e 30 de Setembro de cada ano sem prejuízo do disposto na alínea anterior;
+
+c) Os resíduos lenhosos resultantes das operações de controlo neste âmbito devem ser incorporados no solo ou retirados das parcelas para locais onde a sua acumulação minimize o perigo de incêndio ou queimados na parcela desde que cumpra as normas em vigor sobre queima de sobrantes e realização de fogueiras, designadamente o disposto no artigo 28.º do [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), de 28 de Junho.
+
+d) Nas parcelas com IQFP igual ou superior a 4, o controlo da vegetação só pode ser realizado sem reviramento do solo, excepto em parcelas armadas em socalcos ou terraços e nas áreas integradas em várzeas;
+
+e) O disposto na alínea c) não é aplicável às parcelas com culturas forrageiras ou com pastagem permanente, quando a limpeza seja feita com recurso a meios mecânicos sem mobilização do solo;
+
+10 - Não estão abrangidas pelo disposto na norma «controlo da vegetação lenhosa espontânea»:
+
+a) As parcelas com culturas forrageiras e com pastagem permanente em superfície agrícola ou em culturas sob coberto de espaço florestal arborizado, integradas em exploração agrícola com um encabeçamento pecuário igual ou superior a 0,15 CN/ha, de acordo com a seguinte tabela de conversão:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/04/080000000/1855018557.pdf)
+
+b) As parcelas inseridas em baldios;
+
+11 - «Faixa de limpeza das parcelas» - Ao longo da estrema da área ocupada por parcelas de superfície retirada de produção, outros pousios, prados temporários de sequeiro e de pastagem permanente natural de sequeiro, individuais ou contíguas, deve efectuar-se anualmente, antes do dia 1 de Julho, a limpeza de uma faixa com a largura mínima de 3 m, devendo os resíduos resultantes da limpeza ser incorporados no solo ou retirados das parcelas para locais onde a sua acumulação minimize o perigo de incêndio ou queimados na parcela desde que cumpra as normas em vigor sobre queima de sobrantes e realização de fogueiras, designadamente o disposto do artigo 28.º no [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), de 28 de Junho.
+
+12 - Não estão abrangidas pelo disposto na norma «faixa de limpeza das parcelas:
+
+a) As áreas ocupadas por parcelas individuais ou contíguas inferiores ou iguais a 1 ha;
+
+b) As zonas da parcela cuja estrema coincida com culturas permanentes, pastagem permanente regada ou culturas temporárias com excepção dos prados temporários de sequeiro;
+
+c) As zonas da parcela cuja estrema coincida com massas de água, com excepção das linhas de água temporárias;
+
+d) As zonas da parcela cuja estrema coincida com vias de comunicação com largura superior a 3 metros;
+
+e) As zonas da parcela cuja estrema coincida com zonas de protecção/conservação e zonas húmidas;
+
+f) As parcelas inseridas em baldios;
+
+13 - Nos casos em que uma ou mais estremas da parcela sejam contíguas ao espaço florestal arborizado, ao espaço florestal não arborizado sem aproveitamento agrícola ou a improdutivos, a faixa de limpeza pode ser realizada abrangendo essas áreas.
+
+14 - «Manutenção do olival» - O arranque de oliveiras fica dependente de autorização da DRAP da área a que pertence a parcela em questão, de acordo com a legislação em vigor, designadamente o disposto no [Decreto-Lei n.º 120/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1986-226977), de 28 de Maio.
+
+15 - «Queimadas» - Devem ser cumpridas as normas em vigor sobre queimadas, designadamente o disposto no artigo 27.º do [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), de 28 de Junho.
+
+16 - «Resíduos de origem agrícola» - É obrigatório fazer a recolha e concentração dos materiais plásticos, relativos ao processo produtivo agrícola, pneus e óleos.
+
+17 - «Resíduos de produtos fitofarmacêuticos» - É obrigatório fazer a recolha e concentração dos resíduos de embalagens e de excedentes de produtos fitofarmacêuticos, devendo, estes excedentes, serem mantidos na sua embalagem de origem e concentrados temporariamente na exploração agrícola utilizando, para o efeito os espaços destinados ao armazenamento dos respectivos produtos e posteriormente, proceder à sua entrega nos estabelecimentos de venda ou outros locais que venham a ser definidos para o efeito.
+
+18 - «Armazenamento de fertilizantes e produtos fitofarmacêuticos» - Os fertilizantes e os produtos fitofarmacêuticos devem estar armazenados em lugar resguardado, seco, ventilado, sem exposição directa ao sol, de piso impermeabilizado, e a mais de 10 metros de cursos de água, valas, condutas de drenagem, poços, furos ou nascentes, excepto no caso de depósitos de fertirrega que tenham um sistema de protecção contra fugas.
+
+19 - «Alteração do uso das parcelas de pastagem permanente» - A alteração do uso das parcelas classificadas como pastagens permanentes, bem como a permuta entre parcelas exploradas pelo mesmo agricultor, depende de autorização prévia do IFAP, a conceder mediante requerimento escrito, excepto nos casos de parcelas isentas de reposição, em que a respectiva alteração depende apenas de comunicação prévia desde que se verifique efectiva alteração de uso para fins não forrageiros.
+
+20 - «Reposição da superfície de pastagem permanente» - Sempre que a relação anual de pastagem permanente seja inferior a 90 % do valor de referência nacional de pastagens permanentes, é efectuada uma reposição nacional de pastagens permanentes até atingir 92 % do valor de referência nacional de pastagens permanentes.
+
+21 - Só são autorizadas as alterações de uso previstas na norma «alteração do uso das parcelas de pastagem permanente» para culturas permanentes, regadio, floresta ou infra-estruturas, e apenas enquanto for possível respeitar o valor de 95 % da relação de referência nacional de pastagens permanentes, procedendo-se, em caso de necessidade, ao rateio dos pedidos de autorização, dando preferência à reconversão para olival e floresta, com prioridade do primeiro.
+
+22 - Para efeitos do disposto na norma «reposição da superfície de pastagem permanente», o IFAP notifica os agricultores que se encontrem na situação referida no n.º 2 do artigo 4.º do Regulamento n.º 796/2004, para reconverterem para pastagem permanente uma superfície determinada até ao dia 1 de Novembro seguinte, ou decorridos 30 dias após a referida notificação, desde que este último prazo se apresente como mais favorável para o agricultor.
+
+23 - As novas parcelas de pastagens permanentes que tenham sido objecto de reconversão através de permuta ou em resultado da reposição nacional, ficam obrigadas a permanecer enquanto tal durante os 5 anos seguintes ao facto que lhes deu origem.
+
+24 - Para efeitos do disposto na norma «alteração de uso das parcelas de pastagem permanente» a alteração do uso das parcelas classificadas como pastagens permanentes nas Regiões Autónomas está sujeita à emissão de parecer prévio e vinculativo emitido pelas autoridades regionais competentes.
+
+25 - Para efeitos do disposto nos números 21 e 24, na Região Autónoma dos Açores são autorizadas as alterações de uso para culturas arvenses não forrageiras, milho silagem e outras culturas que promovam a diversificação da produção agrícola regional no âmbito de projectos integrados em programas, planos ou iniciativas com alguma forma de intervenção pública.
+
+26 - Os pedidos de autorização para permuta ou alteração de uso e de comunicação de alteração de uso, devem ser efectuados dentro dos prazos e condições definidos anualmente no despacho normativo relativo ao Sistema Integrado de Gestão e Controlo (SIGC).
+
+27 - A decisão final sobre os pedidos de autorização referidos no número anterior é comunicada ao requerente pelo IFAP dentro do prazo de 90 dias contados a partir do último dia do período da respectiva recepção no IFAP.»
+
+4.º São revogadas as alíneas m), n) e t) do artigo 2.º do [Despacho Normativo n.º 7/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2005-620106), publicado no Diário da República, 1.ª série-B, de 1 de Fevereiro de 2005, com as alterações que lhe foram introduzidas pelo [Despacho Normativo n.º 33/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/33-2005-234168), publicado no Diário da República, 1.ª série-B, de 28 de Junho de 2005.
+
+5.º O disposto no presente despacho aplica-se desde 1 de Janeiro de 2008.
+
+6.º O [Despacho Normativo n.º 7/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2005-620106), publicado no Diário da República, 1.ª série-B, de 1 de Fevereiro de 2005, na versão resultante das alterações introduzidas pelo presente despacho, é republicado em anexo, dele fazendo parte integrante.
+
+14 de Abril de 2008. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o Secretário de Estado do Desenvolvimento Rural e das Florestas, Ascenso Luís Seixas Simões.
+
+ANEXO
+
+[Despacho Normativo n.º 7/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2005-620106)
+
+(republicação)
+
+Artigo 1.º
+
+1 - O presente despacho estabelece os requisitos mínimos para as boas condições agrícolas e ambientais, nos termos e para os efeitos do disposto no artigo 5.º do Regulamento (CE) n.º 1782/2003, do Conselho, de 29 de Setembro, no Regulamento (CE) n.º 796/2004, da Comissão, de 21 de Abril, e no artigo 2.º da [Portaria n.º 36/2005](https://diariodarepublica.pt/dr/detalhe/portaria/36-2005-626229), de 17 de Janeiro.
+
+2 - Nas Regiões Autónomas, os requisitos mínimos para as boas condições agrícolas e ambientais são estabelecidos pelos órgãos de governo próprios, com excepção das regras relativas às pastagens permanentes em que é aplicável o disposto no presente despacho.
+
+Artigo 2.º
+
+Para efeitos de aplicação do disposto no presente despacho, entende-se por:
+
+a) "Ocupações culturais" todas as ocupações definidas nos termos constantes do Anexo I ao presente diploma, que dele faz parte integrante;
+
+b) "Valas de drenagem", estruturas da rede de drenagem que asseguram o escoamento das águas excedentárias que saturam a camada superficial do solo ou estagnam à superfície tornando a parcela menos apta para o cultivo;
+
+c) "Valas de rega", estruturas permanentes da rede de rega que asseguram o transporte e a distribuição da água até à parcela a regar;
+
+d) "Maracha ou Cômoro", forma de armação do terreno, com muretes de terra, que delimitam as parcelas sujeitas a rega por submersão;
+
+e) "Produto fitofarmacêutico", o definido nos termos da alínea a) do n.º 2 do artigo 2.º do [Decreto-Lei n.º 94/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1998-173369), de 15 de Abril, que adopta as normas técnicas de execução referentes à colocação dos produtos fitofarmacêuticos no mercado;
+
+f) "Resíduos de embalagens", o definido nos termos do [Decreto-Lei n.º 366-A/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-a-1997-659564), de 20 de Dezembro, que estabelece os princípios e as normas aplicáveis à gestão de embalagens e resíduos de embalagens;
+
+g) "Resíduos de excedentes", o definido nos termos da alínea m) do artigo 2.º do [Decreto-Lei n.º 173/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2005-594308), de 21 de Outubro, que regula as actividades de distribuição, venda, prestação de serviços de aplicação de produtos fitofarmacêuticos e a sua aplicação pelos utilizadores finais;
+
+h) "Erva ou outras forrageiras herbáceas», todas as plantas herbáceas tradicionalmente presentes nas pastagens naturais ou normalmente incluídas nas misturas de sementes para pastagens ou prados, bem como variedades para fins forrageiros de centeio, cevada, aveia, triticale, trigo, favas e tremoços nos termos referidos no Anexo IX do Regulamento (CE) n.º 1782/2003;
+
+i) "Parcelas isentas de reposição", as pastagens permanentes criadas no âmbito de compromissos agro-ambientais ou ao abrigo do regime da reserva específica de direitos aos prémios à vaca aleitante e de ovelha e cabra, nos termos do disposto no n.º 3 do artigo 4.º do Regulamento (CE) n.º 796/2004, da Comissão, de 21 de Abril, bem como as parcelas com pastagens permanentes em 2003 que sejam objecto de florestação nas condições previstas no 3.º parágrafo do n.º 2 do artigo 5.º do Regulamento (CE) n.º 1782/2003 do Conselho de 29 de Setembro de 2003;
+
+j) "Referência nacional de pastagens permanentes", quociente entre a superfície total de pastagens permanentes do ano de 2003, nos termos do artigo 3.º do Regulamento (CE) n.º 796/2004, e a superfície agrícola total declarada em 2005;
+
+l) "Relação anual de pastagens permanentes", quociente entre a superfície total de pastagens permanentes do ano em causa e a superfície agrícola total declarada nesse mesmo ano;
+
+m) (Revogada.)
+
+n) (Revogada.)
+
+o) "Parcelas contíguas", as parcelas ou partes de parcelas confinantes ou que se encontram separadas por caminhos ou estradas com largura inferior ou igual a 3 m ou linhas de água;
+
+p) "Índice de qualificação fisiográfica da parcela" (IQFP), indicador que traduz a relação entre a morfologia da parcela e o seu risco de erosão e consta do modelo P1 do Sistema de Identificação Parcelar Agrícola;
+
+q) "Pagamento directo", um pagamento concedido directamente aos agricultores a título de um dos regimes de apoio ao rendimento constante do Anexo I do Regulamento (CE) n.º 1782/2003, do Conselho, de 29 de Setembro;
+
+r) "Queimada", o definido nos termos da alínea v) do artigo 3.º do [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491) de 28 de Junho, que estabelece as medidas e acções a desenvolver no âmbito do Sistema Nacional de Defesa da Floresta contra incêndios;
+
+s) "Caminho rural ou agrícola", via de comunicação com mais de 3 metros de largura que liga vários pontos de uma exploração agrícola;
+
+t) (Revogada.)
+
+###### Artigo 3.º
+
+As normas relativas às boas condições agrícolas e ambientais são as constantes do Anexo II ao presente despacho, dele fazendo parte integrante.
+
+###### Artigo 4.º
+
+A superfície agrícola e a superfície com culturas sob coberto de espaço florestal arborizado nas quais sejam instaladas culturas temporárias, devem evidenciar ter sido objecto das operações culturais adequadas à instalação da cultura, segundo as normas locais.
+
+###### Artigo 5.º
+
+1 - O presente despacho entra em vigor no dia seguinte à sua publicação.
+
+2 - O disposto no presente despacho aplica-se aos pedidos de ajudas relativos às campanhas de comercialização ou períodos de prémio com início em 1 de Janeiro de 2005.
+
+## Anexo I — [a que se refere a alínea a) do artigo 2.º]
+
+Ocupações culturais
+
+1 - Superfície Agrícola:
+
+1.1 - Culturas Temporárias:
+
+As culturas cujo ciclo vegetativo não excede um ano e as que ocupam as terras num período inferior a cinco anos. Inclui:
+
+1.1.1 - Culturas Arvenses:
+
+As culturas cujo ciclo vegetativo não excede um ano, geralmente integradas num sistema de rotação de culturas, incluindo as culturas de cereais para a produção de grão, as oleaginosas, as proteaginosas e outras culturas arvenses.
+
+1.1.2 - Culturas Hortícolas ao Ar Livre:
+
+As culturas hortícolas cultivadas ao ar livre, quer se destinem à indústria quer ao consumo em fresco bem como as culturas hortícolas destinadas ao autoconsumo, incluindo a batata.
+
+1.1.3 - Floricultura ao Ar Livre:
+
+Incluem-se as áreas destinadas à produção ao ar livre, de flores e folhagens para corte, plantas em vasos ou sacos e vários tipos de transplante.
+
+1.1.4 - Culturas Forrageiras:
+
+Incluem-se os prados temporários semeados e espontâneos, para corte e ou pastoreio e por um período inferior a cinco anos, bem como outras culturas forrageiras.
+
+1.1.5 - Outras Culturas Temporárias:
+
+Incluem-se as culturas que não se inserem nos níveis anteriormente definidos.
+
+1.2 - Culturas Permanentes:
+
+As culturas não integradas em rotação, com exclusão das pastagens permanentes, que ocupam as terras por cinco anos ou mais e dão origem a várias colheitas e que apresentam uma determinada densidade de plantação. Inclui:
+
+1.2.1 - Culturas Frutícolas:
+
+Conjuntos de árvores destinados à produção de frutos que apresentam uma densidade de plantação de uma espécie superior a 60 árvores/ha e em que essa espécie é predominante, igual ou superior a 60 % da superfície da parcela, com excepção da amendoeira, nogueira e pistaceira em que a densidade de plantação é superior a 45 árvores/ha e a alfarrobeira em que a densidade de plantação é superior a 30 árvores/ha.
+
+1.2.2 - Vinha:
+
+A superfície plantada com vinha em cultura estreme ou consociada e em que a vinha é predominante, igual ou superior a 60 % da superfície da parcela.
+
+1.2.3 - Olival:
+
+A superfície ocupada com oliveiras, que apresenta uma densidade de plantação superior a 45 oliveiras/ha e em que a oliveira é predominante, igual ou superior a 60 % da superfície da parcela.
+
+1.2.4 - Outras culturas permanentes:
+
+1.2.4.1 - Misto de Culturas Permanentes:
+
+A superfície ocupada com várias espécies de culturas permanentes não se verificando dominância de qualquer espécie.
+
+1.2.4.2 - Outras Culturas Permanentes:
+
+Incluem-se nesta categoria outras culturas permanentes estremes, nomeadamente as culturas do cardo, da cana e chá.
+
+1.3 - Pastagem Permanente:
+
+As terras ocupadas com erva ou outras forrageiras herbáceas, quer semeadas quer espontâneas, por um período igual ou superior a cinco anos e que não estejam incluídas no sistema de rotação da exploração, com excepção das terras sujeitas a regimes de retirada obrigatória da produção, conforme previsto no n.º 2 do artigo 2.º do Regulamento (CE) n.º 796/2004. Inclui:
+
+1.3.1 - Pastagem Permanente Natural:
+
+As terras ocupadas com erva ou outras forrageiras herbáceas, espontâneas, por um período igual ou superior a cinco anos e que não estejam incluídas no sistema de rotação da exploração, com excepção das terras sujeitas a regimes de retirada obrigatória da produção, conforme previsto no n.º 2 do artigo 2.º do Regulamento (CE) n.º 796/2004, incluindo a pastagem permanente natural melhorada.
+
+1.3.2 - Pastagem Permanente Semeada:
+
+As terras ocupadas com erva ou outras forrageiras herbáceas, semeadas, por um período igual ou superior a cinco anos e que não estejam incluídas no sistema de rotação da exploração, com excepção das terras sujeitas a regimes de retirada obrigatória da produção, conforme previsto no n.º 2 do artigo 2.º do Regulamento (CE) n.º 796/2004.
+
+1.4 - Outras superfícies agrícolas:
+
+1.4.1 - Pousio:
+
+As superfícies em pousio, inseridas ou não numa rotação, e as superfícies de retirada obrigatória de produção, onde se incluem:
+
+1.4.1.1 - Superfície Retirada de Produção:
+
+As superfícies de retirada obrigatória nos termos do artigo 53.º do Regulamento (CE) n.º 1782/2003, do Conselho, de 29 de Setembro.
+
+1.4.1.2 - Outros Pousios:
+
+A superfície que esteve destinada à produção vegetal, não produziu qualquer colheita durante o ano agrícola, e que no ano em curso é mantida em boas condições agrícolas e ambientais, incluindo todos as superfícies em pousio inseridas ou não numa rotação, com excepção das superfícies retiradas de produção.
+
+1.4.2 - Culturas Protegidas:
+
+A superfície ocupada com culturas semeadas ou plantadas dentro de estufins e ou estufas ou sujeitas a qualquer tipo de forçagem.
+
+1.4.3 - Outras Superfícies agrícolas:
+
+Incluem-se as superfícies que não estão contempladas nos vários níveis da superfície agrícola.
+
+2 - Superfície Agro-Florestal:
+
+2.1 - Culturas sob coberto de espaço florestal arborizado:
+
+As superfícies ocupadas com árvores florestais, naturais ou plantadas, com uma densidade superior a 60 árvores/ha, independentemente se tratarem de superfícies com uma só espécie ou mistos e que o sob coberto é utilizado para a produção vegetal com culturas temporárias ou com pastagem permanente, com exclusão dos povoamentos de pinhal bravo, eucalipto, choupo, acácia e espécies exóticas. Inclui:
+
+2.1.1 - Sob coberto de Quercíneas:
+
+As superfícies ocupadas com árvores florestais em que as quercíneas, sobreiro, azinheira, carvalho negral ou outro tipo de quercus, são predominantes, mais de 75 % do coberto arbóreo, e em que o sob coberto é utilizado para a produção vegetal com culturas temporárias ou com pastagem permanente.
+
+2.1.2 - Sob coberto de Castanheiro, Alfarrobeira ou Pinhal Manso
+
+As superfícies ocupadas com árvores florestais em que o castanheiro, a alfarrobeira ou o pinheiro manso é predominante, mais de 75 % do coberto arbóreo, e em que o sob coberto é utilizado para a produção vegetal com culturas temporárias ou com pastagem permanente.
+
+2.1.3 - Sob coberto de Outras Folhosas:
+
+As superfícies ocupadas com árvores florestais em que as outras folhosas, ulmeiro, freixo e teixo são predominantes, mais de 75 % do coberto arbóreo, e em que o sob coberto é utilizado para a produção vegetal com culturas temporárias ou com pastagem permanente.
+
+2.1.4 - Sob coberto de Povoamento Florestal Misto:
+
+As superfícies ocupadas com várias espécies de árvores florestais em que nenhuma delas é predominante e em que o sob coberto é utilizado para a produção vegetal com culturas temporárias ou com pastagem permanente.
+
+2.2 - Espaço florestal arborizado para a produção de fruto:
+
+As superfícies ocupadas com espécies florestais destinadas à produção de fruto, nomeadamente o pinheiro manso para pinhão e o medronheiro, sem utilização agrícola do sob coberto.
+
+2.3 - Espaço Agro-Florestal não arborizado com aproveitamento forrageiro:
+
+As superfícies ocupadas maioritariamente por formações lenhosas espontâneas, mais de 50 % da superfície da parcela, de altura superior a 50cm e utilizadas para alimentação animal através de pastoreio.
+
+3 - Superfície Florestal:
+
+3.1 - Espaço florestal arborizado:
+
+As superfícies ocupadas com árvores florestais naturais ou plantadas, independentemente de se tratarem de superfícies com povoamentos de uma só espécie ou mistos, incluindo também as áreas ardidas ou áreas de corte raso. Inclui:
+
+3.1.1 - Povoamento de Quercíneas:
+
+As superfícies ocupadas com árvores florestais em que as quercíneas, sobreiro, azinheira, carvalho negral ou outros quercus, são predominantes, mais de 75 % do coberto arbóreo.
+
+3.1.2 - Povoamento de Folhosas:
+
+As superfícies ocupadas com árvores florestais em que as folhosas, eucalipto, castanheiro, alfarrobeira, ulmeiro e freixo são predominantes, mais de 75 % do coberto arbóreo.
+
+3.1.3 - Povoamento de Resinosas:
+
+As superfícies ocupadas com árvores florestais em que as resinosas, pinheiro bravo, pinheiro manso e outras resinosas, são predominantes, mais de 75 % do coberto arbóreo.
+
+3.1.4 - Povoamento Florestal Misto:
+
+As superfícies ocupadas com várias espécies de árvores florestais em que nenhuma delas é predominante.
+
+3.1.5 - Povoamento de Outras Espécies Florestais:
+
+As superfícies ocupadas com espécies florestais que não estão contempladas nos níveis anteriores, como por exemplo o salix e o incenso.
+
+3.2 - Espaço florestal não arborizado sem aproveitamento forrageiro:
+
+As superfícies ocupadas maioritariamente por formações lenhosas espontâneas, mais de 50 % da superfície da parcela, de altura superior a 50 cm que não são aproveitadas para qualquer uso agrícola incluindo a alimentação animal.
+
+3.3 - Outras superfícies florestais:
+
+3.3.1 - Aceiro Florestal:
+
+Superfície de terreno mobilizado ou com vegetação controlada por corte mecânico com a finalidade de prevenção de incêndios.
+
+3.3.2 - Zonas de Protecção/Conservação:
+
+Incluem-se as galerias ripícolas, os bosquetes e formações reliquiais ou notáveis e os corredores ecológicos.
+
+3.3.3 - Outras Superfícies Florestais:
+
+Incluem-se os viveiros florestais.
+
+4 - Outras Superfícies:
+
+4.1 - Superfícies com Infra-Estruturas:
+
+4.1.1 - Superfícies Sociais:
+
+As superfícies que se encontram edificadas nomeadamente, superfícies com construções e instalações agro-pecuárias, agrícolas, edificações industriais, estruturas de tratamento de águas residuais e edificações sociais não agrícolas.
+
+4.1.2 - Vias de Comunicação:
+
+As superfícies ocupadas com estradas, auto estradas, caminhos rurais/agrícolas e vias ferroviárias.
+
+4.2 - Massas de água:
+
+Zonas afectas a planos de água naturais e artificiais, incluindo barragens, lagoas e canais ou condutas de rega e as linhas de água.
+
+4.3 - Improdutivo:
+
+O terreno estéril do ponto de vista da existência de comunidades vegetais ou com capacidade de crescimento extremamente limitada, quer em resultado de limitações naturais, quer em resultado de acções antropogénicas como as pedreiras, saibreiras, dunas e extracção de inertes.
+
+4.4 - Outras Superfícies:
+
+4.4.1 - Zonas Húmidas:
+
+Incluem-se as zonas apaúladas, turfeiras, sapais, salinas e zonas inter-marés costeiras e de estuário.
+
+4.4.2 - Outras Superfícies:
+
+Incluem-se as superfícies que não estão contempladas nos níveis anteriores.
+
+## Anexo II — (a que se refere o artigo 3.º)
+
+Boas condições agrícolas e ambientais
+
+Sem prejuízo do disposto na legislação comunitária e nacional relativamente ao ambiente, os beneficiários de pagamentos directos e de pagamentos previstos nas subalíneas i) a v) da alínea a) e nas subalíneas i), iv) e v) da alínea b) do artigo 36.º do Regulamento (CE) n.º 1698/2005, do Conselho, de 20 de Setembro, devem cumprir as seguintes normas:
+
+1 - «Cobertura da parcela» - A superfície agrícola e a superfície com culturas sob coberto de espaço florestal arborizado devem apresentar uma vegetação de cobertura, instalada ou espontânea no período entre 15 de Novembro e 1 de Março, excepto quando, nestas superfícies se efectuem trabalhos de preparação do solo para instalação de culturas.
+
+2 - Não estão abrangidas pelo disposto na norma «cobertura da parcela»:
+
+a) As parcelas com IQFP igual ou inferior a 2 com culturas permanentes;
+
+b) As superfícies com culturas protegidas.
+
+3 - «Cobertura das parcelas com culturas permanentes» - Sem prejuízo do disposto nas normas «ocupação cultural das parcelas com IQFP 4» e «ocupação cultural das parcelas com IQFP 5», as parcelas com IQFP igual ou superior a 3 com culturas permanentes devem apresentar vegetação de cobertura na zona da entrelinha, no período entre 15 de Novembro e 1 de Março.
+
+4 - «Ocupação cultural das parcelas com IQFP 4» - Nas parcelas com IQFP 4, excepto em parcelas armadas em socalcos ou terraços e nas áreas integradas em várzeas, não são permitidas as culturas temporárias, sendo a instalação de novas culturas permanentes ou pastagens permanentes apenas permitida nas situações em que as DRAP as considerem tecnicamente adequadas.
+
+5 - «Ocupação cultural das parcelas com IQFP 5» - Nas parcelas com IQFP 5, excepto em parcelas armadas em socalcos ou terraços e nas áreas integradas em várzeas, não são permitidas as culturas temporárias nem a instalação de novas pastagens permanentes, sendo apenas permitida a melhoria das pastagens permanentes naturais sem mobilização do solo, e a instalação de novas culturas permanentes apenas nas situações em que as DRAP as considerem tecnicamente adequadas.
+
+6 - «Rotação de culturas» - As parcelas com culturas temporárias de primavera/verão, com excepção das parcelas exploradas para a orizicultura, devem apresentar entre 15 de Novembro e 1 de Março, uma cultura intercalar de grupo diferente ou, em alternativa, uma vegetação de cobertura espontânea, sendo as culturas intercalares permitidas as culturas arvenses de Outono/Inverno, as culturas forrageiras temporárias de Outono/Inverno e as culturas hortícolas ao ar livre de Outono/Inverno.
+
+7 - «Parcelas em terraços» - As parcelas armadas em terraços, devem apresentar uma vegetação de cobertura no talude no período entre 15 de Novembro e 1 de Março, podendo o controlo desta vegetação de cobertura ser realizado sem reviramento do solo fora deste período.
+
+8 - «Parcelas exploradas para a orizícultura» - Os elementos lineares característicos das parcelas sistematizadas e exploradas para a orizicultura, designadamente as valas de drenagem, valas de rega, marachas ou cômoros e caminhos rurais/agrícolas, devem evidenciar ter sido objecto de uma manutenção adequada à prática desta cultura.
+
+9 - «Controlo da vegetação lenhosa espontânea» - A superfície agrícola e a superfície com culturas sob coberto de espaço florestal arborizado não podem apresentar uma área superior a 25 % ocupada com formações lenhosas espontâneas dominadas por arbustos de altura superior a 50 cm e o controlo destas formações lenhosas espontâneas deve obedecer às seguintes regras:
+
+a) Efectuar-se fora da época de maior concentração de reprodução de avifauna (Março e Abril), com excepção dos casos em que, por motivos de sazão das terras, o controlo dessa vegetação necessite de ser realizado nesse período, ficando a sua execução dependente da autorização da DRAP da área a que pertence a parcela em questão;
+
+b) Efectuar-se fora do período compreendido entre 1 de Julho e 30 de Setembro de cada ano sem prejuízo do disposto na alínea anterior;
+
+c) Os resíduos lenhosos resultantes das operações de controlo neste âmbito devem ser incorporados no solo ou retirados das parcelas para locais onde a sua acumulação minimize o perigo de incêndio ou queimados na parcela desde que cumpra as normas em vigor sobre queima de sobrantes e realização de fogueiras, designadamente o disposto no artigo 28.º do [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), de 28 de Junho.
+
+d) Nas parcelas com IQFP igual ou superior a 4, o controlo da vegetação só pode ser realizado sem reviramento do solo, excepto em parcelas armadas em socalcos ou terraços e nas áreas integradas em várzeas;
+
+e) O disposto na alínea c) não é aplicável às parcelas com culturas forrageiras ou com pastagem permanente, quando a limpeza seja feita com recurso a meios mecânicos sem mobilização do solo;
+
+10 - Não estão abrangidas pelo disposto na norma «controlo da vegetação lenhosa espontânea»:
+
+a) As parcelas com culturas forrageiras e com pastagem permanente em superfície agrícola ou em culturas sob coberto de espaço florestal arborizado, integradas em exploração agrícola com um encabeçamento pecuário igual ou superior a 0,15 CN/ha, de acordo com a seguinte tabela de conversão:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/04/080000000/1855018557.pdf)
+
+b) As parcelas inseridas em baldios;
+
+11 - «Faixa de limpeza das parcelas» - Ao longo da estrema da área ocupada por parcelas de superfície retirada de produção, outros pousios, prados temporários de sequeiro e de pastagem permanente natural de sequeiro, individuais ou contíguas, deve efectuar-se anualmente, antes do dia 1 de Julho, a limpeza de uma faixa com a largura mínima de 3 m, devendo os resíduos resultantes da limpeza ser incorporados no solo ou retirados das parcelas para locais onde a sua acumulação minimize o perigo de incêndio ou queimados na parcela desde que cumpra as normas em vigor sobre queima de sobrantes e realização de fogueiras, designadamente o disposto do artigo 28.º no [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), de 28 de Junho.
+
+12 - Não estão abrangidas pelo disposto na norma «faixa de limpeza das parcelas»:
+
+a) As áreas ocupadas por parcelas individuais ou contíguas inferiores ou iguais a 1 ha;
+
+b) As zonas da parcela cuja estrema coincida com culturas permanentes, pastagem permanente regada ou culturas temporárias com excepção dos prados temporários de sequeiro;
+
+c) As zonas da parcela cuja estrema coincida com massas de água, com excepção das linhas de água temporárias;
+
+d) As zonas da parcela cuja estrema coincida com vias de comunicação com largura superior a 3 metros;
+
+e) As zonas da parcela cuja estrema coincida com zonas de protecção/conservação e zonas húmidas;
+
+f) As parcelas inseridas em baldios;
+
+13 - Nos casos em que uma ou mais estremas da parcela sejam contíguas ao espaço florestal arborizado, ao espaço florestal não arborizado sem aproveitamento agrícola ou a improdutivos, a faixa de limpeza pode ser realizada abrangendo essas áreas.
+
+14 - «Manutenção do olival» - O arranque de oliveiras fica dependente de autorização da DRAP da área a que pertence a parcela em questão, de acordo com a legislação em vigor, designadamente o disposto no [Decreto-Lei n.º 120/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1986-226977), de 28 de Maio.
+
+15 - «Queimadas» - Devem ser cumpridas as normas em vigor sobre queimadas, designadamente o disposto no artigo 27.º do [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), de 28 de Junho.
+
+16 - «Resíduos de origem agrícola» - É obrigatório fazer a recolha e concentração dos materiais plásticos, relativos ao processo produtivo agrícola, pneus e óleos.
+
+17 - «Resíduos de produtos fitofarmacêuticos» - É obrigatório fazer a recolha e concentração dos resíduos de embalagens e de excedentes de produtos fitofarmacêuticos, devendo, estes excedentes, serem mantidos na sua embalagem de origem e concentrados temporariamente na exploração agrícola utilizando, para o efeito os espaços destinados ao armazenamento dos respectivos produtos e posteriormente, proceder à sua entrega nos estabelecimentos de venda ou outros locais que venham a ser definidos para o efeito.
+
+18 - «Armazenamento de fertilizantes e produtos fitofarmacêuticos» - Os fertilizantes e os produtos fitofarmacêuticos devem estar armazenados em lugar resguardado, seco, ventilado, sem exposição directa ao sol, de piso impermeabilizado, e a mais de 10 metros de cursos de água, valas, condutas de drenagem, poços, furos ou nascentes, excepto no caso de depósitos de fertirrega que tenham um sistema de protecção contra fugas.
+
+19 - «Alteração do uso das parcelas de pastagem permanente» - A alteração do uso das parcelas classificadas como pastagens permanentes, bem como a permuta entre parcelas exploradas pelo mesmo agricultor, depende de autorização prévia do IFAP, a conceder mediante requerimento escrito, excepto nos casos de parcelas isentas de reposição, em que a respectiva alteração depende apenas de comunicação prévia desde que se verifique efectiva alteração de uso para fins não forrageiros.
+
+20 - «Reposição da superfície de pastagem permanente» - Sempre que a relação anual de pastagem permanente seja inferior a 90 % do valor de referência nacional de pastagens permanentes, é efectuada uma reposição nacional de pastagens permanentes até atingir 92 % do valor de referência nacional de pastagens permanentes.
+
+21 - Só são autorizadas as alterações de uso previstas na norma «alteração do uso das parcelas de pastagem permanente» para culturas permanentes, regadio, floresta ou infra-estruturas, e apenas enquanto for possível respeitar o valor de 95 % da relação de referência nacional de pastagens permanentes, procedendo-se, em caso de necessidade, ao rateio dos pedidos de autorização, dando preferência à reconversão para olival e floresta, com prioridade do primeiro.
+
+22 - Para efeitos do disposto na norma «reposição da superfície de pastagem permanente», o IFAP notifica os agricultores que se encontrem na situação referida no n.º 2 do artigo 4.º do Regulamento n.º 796/2004, para reconverterem para pastagem permanente uma superfície determinada até ao dia 1 de Novembro seguinte, ou decorridos 30 dias após a referida notificação, desde que este último prazo se apresente como mais favorável para o agricultor.
+
+23 - As novas parcelas de pastagens permanentes que tenham sido objecto de reconversão através de permuta ou em resultado da reposição nacional, ficam obrigadas a permanecer enquanto tal durante os 5 anos seguintes ao facto que lhes deu origem.
+
+24 - Para efeitos do disposto na norma «alteração de uso das parcelas de pastagem permanente» a alteração do uso das parcelas classificadas como pastagens permanentes nas Regiões Autónomas está sujeita à emissão de parecer prévio e vinculativo emitido pelas autoridades regionais competentes.
+
+25 - Para efeitos do disposto nos números 21 e 24, na Região Autónoma dos Açores são autorizadas as alterações de uso para culturas arvenses não forrageiras, milho silagem e outras culturas que promovam a diversificação da produção agrícola regional no âmbito de projectos integrados em programas, planos ou iniciativas com alguma forma de intervenção pública.
+
+26 - Os pedidos de autorização para permuta ou alteração de uso e de comunicação de alteração de uso, devem ser efectuados dentro dos prazos e condições definidos anualmente no despacho normativo relativo ao Sistema Integrado de Gestão e Controlo (SIGC).
+
+27 - A decisão final sobre os pedidos de autorização referidos no número anterior é comunicada ao requerente pelo IFAP dentro do prazo de 90 dias contados a partir do último dia do período da respectiva recepção no IFAP.

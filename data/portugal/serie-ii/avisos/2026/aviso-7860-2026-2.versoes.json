@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1082860190:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2026-1171525575",
+ "dre_path": "/dr/detalhe/aviso/7860-2026-1082860190",
+ "source_lastmod": "2026-09-18",
+ "versions": [
+  {
+   "date": "2026-04-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1171527075"
+   ]
+  }
+ ],
+ "fragments": {
+  "1171527075": {
+   "fragment_id": "1171525675",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Faz-se público, em cumprimento do disposto no n.º 3 do artigo 20.º da Portaria n.º 217/2011, de 31 de maio, alterada pela Portaria n.º 356/2013, de 10 de dezembro, e pela Portaria n.º 274-A/2015, de 8 de setembro, que, por meu despacho de 01 de abril de 2026, foi homologada a lista de classificação final dos candidatos do seguinte júri, no âmbito do procedimento concursal nacional de habilitação ao grau de consultor da carreira médica, aberto pelo Aviso n.º 649-A/2024, de 11 de janeiro, publicado no Diário da República, 2.ª série, n.º 8, de 11 de janeiro de 2024.\n\nAssim:\n\nJúri n.º 19 de Medicina Interna - Região Centro\n\nAna Cristina Matias Cabral - Aprovada\n\nAna Filipa Sequeira Oliveira - Aprovada\n\nCatarina Maria Gonçalves Faria - Aprovada\n\nDália Carvalho Estevão Couvinhas Marques - Aprovada\n\nÉlio Jorge Alves Rodrigues - Aprovado\n\nFernando Jorge Rodrigues Henriques - Aprovado\n\nHélia Cristina Marques Mateus - Aprovada\n\nJoão Bernardo Matias da Cunha Borges Fontes - Aprovado\n\nJorge Miguel Ferreira Henriques - Aprovado\n\nJosé Pedro Mota da Fonseca - Aprovado\n\nLuís Filipe Linhares dos Santos - Não compareceu\n\nManuel Lima de Carvalho - Desistiu\n\nMarlene Morgado Louro - Aprovada\n\nNelson João Fernandes Domingues - Aprovado\n\nDe acordo com o disposto no n.º 2 do artigo 22.º da Portaria supracitada, a data de obtenção do grau de consultor dos médicos aprovados constantes da lista acima mencionada reporta-se a 25 de novembro de 2025, data da publicação da primeira lista da presente especialidade médica, conforme o Aviso n.º 29071/2025/2, publicado no Diário da República, 2.ª série, n.º 228 de 25 de novembro de 2025.\n\nDo despacho da homologação cabe recurso administrativo a interpor para o membro do governo responsável pela área da saúde, no prazo de 10 dias úteis, contados a partir da data de publicação do presente aviso no Diário da República o qual deve ser dirigido à Secretaria-Geral do Ministério da Saúde."
+  }
+ }
+}

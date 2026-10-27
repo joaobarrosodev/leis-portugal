@@ -1,0 +1,486 @@
+---
+schema_version: '1.0'
+id: pt:dre:248215:por
+title: Portaria n.º 99/2008
+short_title: null
+summary: Regulamenta a promoção online de actos de registo de veículos, a certidão online de registo de veículos, a promoção
+  de actos de registo de veículos pelo vendedor que tenha por actividade principal a compra de veículo para revenda, a promoção
+  de actos de registo de veículos pelo vendedor que proceda com carácter de regularidade à transmissão da propriedade de veículos
+  e a promoção online do registo da penhora de veículos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 99/2008
+official_date: null
+publication_date: '2008-01-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 22/2008, Série I de 2008-01-31
+  number: '22'
+  series: I
+  supplement: null
+  pages: 873 - 878
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/01/02200/0087300878.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2015-07-11'
+version_history:
+  file: portaria-99-2008.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2008-01-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-01-01'
+    amending: pt:dre:444231:por
+    amending_title: Portaria n.º 1536/2008
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+  - date: '2010-07-01'
+    amending: pt:dre:334928:por
+    amending_title: Portaria n.º 426/2010
+    changes:
+    - Altera Artigo 16.º
+  - date: '2015-07-11'
+    amending: pt:dre:70686128:por
+    amending_title: Portaria n.º 358/2015
+    changes:
+    - Altera Artigo 16.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/99/2008/p/cons/20151014/pt/html
+  oj: null
+  dre: '248215'
+  dre_path: /dr/detalhe/portaria/99-2008-248215
+  internal: pt:dre:248215:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/99-2008-248215
+  metadata_url: https://data.dre.pt/eli/port/99/2008/p/cons/20151014/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-70762425
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-70762425
+  retrieved_at: '2026-10-22T12:03:09Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 97edc614ecdb3b3b4ae9c71c4d7d577d293edf1665f537558be5364ab4fd8a57
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:03:09Z'
+  notes: 4 versão(ões); histórico completo em portaria-99-2008.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Modernização Administrativa
+- Certidão
+- Registo Automóvel
+- Transmissão da Propriedade
+- Veículo
+- Documento Eletrónico
+- Modernização Tecnológica
+- Programa Simplex
+- Página na Internet
+- Internet
+- Assinatura Digital
+- Documento Único Automóvel
+- Execução por Dívidas
+- Taxa
+- Venda
+relationships:
+- type: amended_by
+  target: pt:dre:444231:por
+  label: Altera Artigo 1.º; Altera Artigo 17.º; Altera Artigo 19.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/1536-2008-444231
+  date: '2008-12-30'
+- type: amended_by
+  target: pt:dre:334928:por
+  label: Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/426-2010-334928
+  date: '2010-06-29'
+- type: amended_by
+  target: pt:dre:499548:por
+  label: Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/283-2013-499548
+  date: '2013-08-30'
+- type: amended_by
+  target: pt:dre:70686128:por
+  label: Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/358-2015-70686128
+  date: '2015-10-14'
+- type: cites
+  target: pt:dre:230943:por
+  label: null
+  source: http://data.dre.pt/eli/port/1050-a/2007/08/31/p/dre
+- type: cites
+  target: pt:dre:232885:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/62/2003/04/03/p/dre
+- type: cites
+  target: pt:dre:248220:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/20/2008/01/31/p/dre
+- type: cites
+  target: pt:dre:404371:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/178-a/2005/10/28/p/dre
+- type: cites
+  target: pt:dre:445741:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/290-d/1999/08/02/p/dre
+- type: cites
+  target: pt:dre:517375:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/165/2004/07/06/p/dre
+- type: cites
+  target: pt:dre:548239:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/116-a/2006/06/16/p/dre
+article_structure:
+  article_count: 28
+  section_count: 9
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:03:09Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 99/2008
+
+Portaria n.º 99/2008
+
+de 31 de Janeiro
+
+Em concretização do programa SIMPLEX e do Plano Tecnológico, o Ministério da Justiça tem vindo a adoptar várias medidas de simplificação na área dos registos e actos notariais conexos. Pretende-se, desta forma, facilitar a vida do cidadão e reduzir os custos de contexto para as empresas, incentivando o investimento e a criação de emprego.
+
+De entre as iniciativas já em funcionamento destacam-se, designadamente, os balcões «Empresa na hora», «Casa pronta», os serviços «Marca na hora», «Heranças» e «Divórcio com partilha», a eliminação da obrigatoriedade de celebração de escrituras públicas para actos da vida societária, a eliminação da obrigatoriedade de existência de livros de escrituração mercantil e a simplificação dos regimes da fusão, da cisão, da transformação, da redução do capital, da dissolução e da liquidação de sociedades e do registo comercial. Igualmente, são já numerosos os serviços disponibilizados no sector da justiça através da Internet, de entre os quais se destacam os serviços online de registo comercial e de propriedade industrial, como a «Empresa on-line», a promoção pela Internet de actos de registo comercial, a «Certidão permanente», as publicações online dos actos da vida societária, a «Marca on-line» e a «Patente on-line».
+
+Este esforço de simplificação tem igualmente tido lugar na área do registo automóvel.
+
+O Decreto-Lei n.º 178-A/2005, de 28 de Outubro, criou um documento único automóvel - o certificado de matrícula - que reúne a informação respeitante ao veículo e à sua situação jurídica, antes distribuída por dois documentos: o livrete e o título de registo de propriedade. O mesmo diploma criou um balcão único apto a resolver todas as questões relativas aos veículos e introduziu as alterações legislativas necessárias à promoção de actos de registo automóvel pela Internet. A Portaria n.º 1050-A/2007, de 31 de Agosto, veio executar este último aspecto, regulamentando a promoção do registo da propriedade de veículos automóveis e respectivos reboques pela Internet, em www.automovelonline.mj.pt. Visou-se, assim, permitir que o acesso a actos que respeitam à vida quotidiana dos cidadãos e das empresas, como é o registo da compra e venda de um veículo, tivessem lugar com maior comodidade e simplicidade, evitando-se deslocações e reduzindo-se os inerentes custos.
+
+A presente portaria vem agora criar condições para se intensificar a utilização dos meios electrónicos no relacionamento com os serviços de registo automóvel, regulamentando o Decreto-Lei n.º 20/2008, de 31 de Janeiro, que introduziu novidades no sentido da simplificação de procedimentos.
+
+Assim, em primeiro lugar, à previsão da possibilidade de os pedidos de registo serem apresentados por via electrónica, já constante do regime anterior, o referido diploma veio aditar a disponibilização online da informação, permanentemente actualizada e com valor de certidão, referente ao registo de veículos, em www.automovelonline.mj.pt. Cria-se, pois, um serviço, em tudo semelhante à «Certidão permanente» de registo comercial, que permite a qualquer interessado aceder à informação constante do registo comercial pela Internet. Este novo serviço, além de mais cómodo, é mais barato - custa apenas (euro) 6 - e contribui decisivamente para o aumento da segurança jurídica nas transmissões de automóveis.
+
+Em segundo lugar, regulamenta-se a possibilidade de o pedido de registo ser efectuado apenas pelo vendedor, se este for uma entidade que tenha por actividade principal a compra de veículos para revenda e intervir no âmbito dessa actividade. Desta forma, estimula-se o registo em nome do revendedor mediante a simplificação do modo de proceder ao registo, acrescendo estas medidas à significativa descida de preço a que procedeu o Decreto-Lei n.º 20/2008, de 31 de Janeiro. O exercício desta faculdade está sujeita à verificação de determinados requisitos e ao cumprimento de certas obrigações. O registo tem de ser promovido por via electrónica e no prazo máximo de dois dias úteis após a compra ou a revenda do veículo, os documentos originais devem ser entregues ou enviados para os serviços de registo até ao termo do 2.º mês seguinte ao da promoção do registo e as entidades que usem o serviço têm de reunir condições de idoneidade, a qual é aferida pelas associações representativas do sector que gozem do estatuto de utilidade pública.
+
+Em terceiro lugar, regulamenta-se a promoção do registo de veículos por entidades que promovam um número muito significativo de actos de registo de veículos.
+
+Em quarto lugar, adoptam-se disposições relativas à promoção online de registos de penhora de veículos pelos solicitadores de execução, contribuindo, assim, para o aumento da eficácia na cobrança de dívidas através da acção executiva.
+
+Finalmente, regulamenta-se a promoção electrónica de actos de registo de veículos ao abrigo do regime transitório especial para a regularização dos registos de transmissão da propriedade de veículos criado pelo Decreto-Lei n.º 20/2008, de 31 de Janeiro. Este regime prevê taxas muito reduzidas para a promoção por via electrónica de actos de registo: (euro) 5, se o registo respeitar a ciclomotor ou motociclo, triciclo ou quadriciclo com cilindrada não superior a 50 cm3, ou (euro) 10, se o registo respeitar a qualquer outro veículo. Visa-se, desta forma, promover a actualização dos registos relativos à propriedade dos veículos, e, nesta medida, criar condições para reduzir o número de registos que permanecem em nome de quem já não é proprietário.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto nas alíneas c) e d) do n.º 1 do artigo 25.º, do n.º 3 do artigo 40.º e do n.º 2 do artigo 55.º do Regulamento do Registo de Automóveis, aprovado pelo Decreto n.º 55/75, de 12 de Fevereiro, o seguinte:
+
+### Capítulo I — Disposição geral
+
+###### Artigo 1.º — Objecto
+
+A presente portaria regula:
+
+a) A promoção online de actos de registo de veículos;
+
+b) A certidão online de registo de veículos;
+
+c) A promoção de actos de registo de veículos pelo vendedor, nos casos em que este seja entidade que tenha por actividade principal a compra de veículos para revenda e proceda ao pedido de registo da propriedade adquirida em virtude de alienação de veículo no exercício dessa actividade;
+
+d) A promoção de actos de registo de veículos pelo vendedor, nos casos em que este seja entidade que, em virtude da sua actividade, proceda com carácter de regularidade à transmissão da propriedade de veículos;
+
+e) A promoção online do registo da penhora de veículos;
+
+f) O regime das comunicações e das notificações por via electrónica, no âmbito do registo automóvel.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1536/2008 - Diário da República n.º 251/2008, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/1536-2008-444231), em vigor a partir de 2009-01-01
+
+### Capítulo II — Promoção online de actos de registo de veículos e certidão online de registo de veículos
+
+#### Secção I — Sítio da Internet
+
+###### Artigo 2.º — Designação e funções do sítio
+
+1 - A promoção online de actos de registo de veículos e o acesso à certidão online de registo de veículos realizam-se através do sítio da Internet com o endereço www.automovelonline.mj.pt mantido pelo Instituto dos Registos e do Notariado, I. P. (IRN, I. P.).
+
+2 - O sítio deve permitir, designadamente, as seguintes funções:
+
+a) A autenticação dos utilizadores através de certificados digitais;
+
+b) A indicação dos dados de identificação dos interessados;
+
+c) O preenchimento electrónico dos elementos necessários ao requerimento do registo e ao pedido de certidão;
+
+d) A entrega dos documentos necessários à apreciação do pedido de registo;
+
+e) A assinatura electrónica dos documentos entregues, quando seja necessária;
+
+f) O pagamento dos serviços por via electrónica;
+
+g) A recolha de informação que permita o contacto entre os serviços competentes e os interessados e seus representantes;
+
+h) A certificação da data e da hora em que o pedido de registo foi concluído;
+
+i) O envio de avisos por correio electrónico e short message service (sms) aos utilizadores, quando o registo tenha sido efectuado ou a certidão online disponibilizada.
+
+#### Secção II — Promoção online de actos de registo de veículos
+
+###### Artigo 3.º — Pedido online de actos de registo de veículos
+
+1 - O interessado na promoção online de actos de registo de veículos formula o seu pedido e envia, através do sítio na Internet a que se refere o artigo anterior, os documentos necessários ao registo, designadamente:
+
+a) Os documentos comprovativos dos factos constantes do pedido de registo;
+
+b) Os documentos comprovativos da sua capacidade e dos seus poderes de representação para o acto.
+
+2 - Todos os documentos entregues através do sítio da Internet referido no artigo anterior, desde que tenham sido correctamente digitalizados, sejam integralmente apreensíveis e tenham sido enviados por quem tenha competência para a conferência de documentos electrónicos com os respectivos originais em formato de papel, têm o mesmo valor probatório dos originais.
+
+3 - Os documentos que não tenham sido enviados pelas entidades referidas no número anterior têm de ser assinados electronicamente, com excepção dos requerimentos de modelo aprovado destinados ao registo de qualquer facto, relativamente aos quais podem ser utilizados formulários electrónicos.
+
+###### Artigo 4.º — Arquivo dos originais dos documentos
+
+Os advogados, os solicitadores e os notários que enviem documentos ao abrigo do disposto no artigo anterior ficam obrigados a arquivar os respectivos originais.
+
+###### Artigo 5.º — Ordem de anotação dos pedidos
+
+1 - Os pedidos de actos de registo de veículos efectuados através do sítio referido no artigo 2.º são anotados pela ordem da hora da respectiva recepção.
+
+2 - Os pedidos de registo recebidos após o horário de atendimento ao público do serviço são anotados no dia seguinte, imediatamente antes da primeira apresentação pessoal ou por telecópia.
+
+3 - Para efeitos do disposto nos números anteriores, a hora da recepção dos pedidos de registo apresentados online tem por referência a hora do meridiano de Greenwich, assinalada nas certidões de registo pela aposição do acrónimo UTC (universal time, coordinated).
+
+###### Artigo 6.º — Autenticação electrónica
+
+1 - Para efeitos da promoção online de actos de registo de veículos, a autenticação electrónica dos utilizadores faz-se mediante a utilização de certificado digital qualificado, nos termos previstos no regime jurídico dos documentos electrónicos e da assinatura electrónica, aprovado pelo Decreto-Lei n.º 290-D/99, de 2 de Agosto, alterado pelos Decretos-Leis n.os 62/2003, de 3 de Abril, 165/2004, de 6 de Julho, e 116-A/2006, de 16 de Julho.
+
+2 - Para efeitos do disposto no número anterior, os requerentes que sejam pessoas singulares podem utilizar o certificado digital do Cartão de Cidadão.
+
+###### Artigo 7.º — Autenticação electrónica especial
+
+1 - Para efeitos da promoção online de actos de registo de veículos, a autenticação electrónica de advogados, solicitadores e notários deve fazer-se mediante certificado digital que comprove a qualidade profissional do utilizador.
+
+2 - Para efeitos do disposto no número anterior, apenas são admitidos os certificados digitais de advogados, solicitadores e notários cuja utilização para fins profissionais seja confirmada através de listas electrónicas de certificados, disponibilizadas, respectivamente, pela Ordem dos Advogados, pela Câmara dos Solicitadores e pela Ordem dos Notários.
+
+###### Artigo 8.º — Validação do pedido
+
+1 - O pedido online de actos de registo de veículos só é considerado validamente submetido após a emissão de um comprovativo electrónico, através do sítio referido no artigo 2.º, que indique a data e a hora em que o pedido foi concluído.
+
+2 - O comprovativo electrónico do pedido de registo deve ser enviado ao interessado através de mensagem de correio electrónico.
+
+###### Artigo 9.º — Pagamento
+
+1 - Após a submissão electrónica do pedido, é gerada automaticamente uma referência para pagamento dos encargos devidos pelo registo.
+
+2 - O pagamento dos encargos referidos no número anterior deve ser efectuado no prazo de cinco dias após a geração da referência para pagamento, sob pena de cancelamento do pedido de registo.
+
+3 - Por despacho do presidente do IRN, I. P., podem ser previstas outras modalidades de pagamento dos encargos devidos pelo registo.
+
+###### Artigo 10.º — Diligências subsequentes
+
+No prazo de dois dias úteis a contar da confirmação do pagamento efectuado pelo interessado, o serviço competente procede ao tratamento dos dados indicados e dos documentos entregues e à apreciação do pedido de registo, bem como às seguintes diligências subsequentes:
+
+a) Suprimento de eventuais deficiências do pedido de registo;
+
+b) Registo dos factos, o qual deve ser imediatamente comunicado aos interessados por via electrónica, através de correio electrónico e, sempre que possível, por sms;
+
+c) Disponibilização ao interessado do comprovativo do pagamento dos encargos devidos;
+
+d) Promoção da emissão do certificado de matrícula, nos casos em que o acto requerido determine tal emissão;
+
+e) Promoção das restantes diligências previstas em acto normativo ou protocolo.
+
+#### Secção III — Certidão online de registo de veículos
+
+###### Artigo 11.º — Definição
+
+Designa-se por «certidão online de registo de veículos» a disponibilização, em suporte electrónico e permanentemente actualizada, da reprodução dos registos respeitantes ao veículo, bem como da menção das apresentações e dos pedidos de registo pendentes.
+
+###### Artigo 12.º — Pedido de certidão online
+
+O pedido de certidão online é efectuado através do sítio referido no artigo 2.º ou, verbalmente, em qualquer serviço com competência para a prática de actos de registo de veículos, mediante a indicação da matrícula do veículo.
+
+###### Artigo 13.º — Identificação do requerente da certidão online
+
+A identificação do requerente da certidão online faz-se pela indicação do nome ou firma e do endereço de correio electrónico, sem necessidade de utilização dos meios de autenticação referidos nos artigos 6.º e 7.º
+
+###### Artigo 14.º — Código de acesso e dispensa de certidão em papel
+
+1 - Após a solicitação do serviço, é disponibilizado ao requerente um código que permite a visualização da certidão online a partir do momento em que seja confirmado o pagamento da taxa devida.
+
+2 - A entrega, a qualquer entidade pública ou privada, do código de acesso à certidão online equivale, para todos os efeitos, à entrega de uma certidão do registo de veículos, não podendo aquela exigir certidão do registo do veículo em suporte de papel.
+
+###### Artigo 15.º — Assinatura da certidão online
+
+O serviço certidão online é prestado mediante a subscrição de uma assinatura com a duração de seis meses.
+
+###### Artigo 16.º — Taxa da certidão online
+
+Pela assinatura do serviço certidão online é devido o pagamento da taxa de (euro) 10, a qual constitui receita do IRN, I. P.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 426/2010 - Diário da República n.º 124/2010, Série I de 2010-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/426-2010-334928), em vigor a partir de 2010-07-01
+
+### Capítulo III
+
+Promoção de actos de registo por entidades que tenham por actividade principal a compra de veículos para revenda
+
+###### Artigo 17.º — Condições
+
+1 - A promoção de actos de registo de veículos pelo vendedor, nos casos em que este seja uma entidade que tenha por actividade principal a compra de veículos para revenda e proceda ao pedido de registo da propriedade adquirida em virtude de alienação de veículo no exercício dessa actividade, está sujeita às seguintes condições:
+
+a) O registo deve ser promovido por via electrónica, nos termos dos artigos 3.º e seguintes;
+
+b) O registo deve ser promovido no prazo de dois dias úteis a contar da data da venda do veículo;
+
+c) O pedido de registo de transmissão do veículo a favor do revendedor ter sido promovido pelo próprio, por via electrónica e no prazo de dois dias úteis a contar da data da aquisição, salvo se o transmitente for também uma entidade que tenha por actividade principal a compra de veículos para revenda e tenha promovido aquele registo em cumprimento do disposto na alínea anterior.
+
+2 - Nos casos em que o pedido de registo de transmissão da propriedade dos veículos promovido nos termos do número anterior seja acompanhado de um pedido de acto de locação financeira, aluguer de longa duração ou hipoteca voluntária, o registo deve ser promovido no prazo máximo de 30 dias a contar da data em que tenha ocorrido a venda do veículo.
+
+3 - O incumprimento do disposto nos números anteriores impede a entidade de beneficiar do regime emolumentar especial legalmente previsto para o registo da revenda de veículos.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1536/2008 - Diário da República n.º 251/2008, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/1536-2008-444231), em vigor a partir de 2009-01-01
+
+###### Artigo 18.º — Promoção de actos de registo pelas entidades
+
+que tenham por actividade
+
+principal a compra de veículos para revenda
+
+Aplica-se à promoção de actos de registo de veículos pelas entidades que tenham por actividade principal a compra de veículos para revenda o disposto nos artigos 3.º e seguintes, com as seguintes especificidades:
+
+a) Os documentos em suporte de papel de modelo aprovado destinados ao registo de qualquer facto, assinados pelo vendedor e que tenham sido digitalizados e submetidos através do sítio referido no artigo 2.º pelas entidades que tenham por actividade principal a compra de veículos para revenda, têm, para efeitos de registo, o valor probatório dos originais;
+
+b) Os originais em formato de papel de todos os documentos digitalizados e submetidos para efeitos de registo devem ser entregues em qualquer serviço de registo ou remetidos pelo correio aos serviços de registo a determinar por despacho do presidente do IRN, I. P., a fim de serem arquivados, até ao termo do 2.º mês seguinte ao da promoção do acto de registo;
+
+c) A autenticação electrónica das entidades que tenham por actividade principal a compra de veículos para revenda deve fazer-se mediante certificado digital que comprove a qualidade do utilizador;
+
+d) Apenas são admitidos os certificados digitais das entidades que tenham por actividade principal a compra de veículos para revenda, cuja utilização para fins profissionais seja confirmada através de listas electrónicas de certificados, disponibilizadas pelas associações representativas dos comerciantes de veículos que tenham o estatuto de utilidade pública;
+
+e) Salvo o disposto na alínea seguinte, quando o facto registado seja a aquisição da propriedade do veículo por entidade que tenha por actividade principal a compra de veículos para revenda não é emitido certificado de matrícula, podendo o veículo circular com o respectivo documento de substituição, aprovado por despacho conjunto do presidente do IRN, I. P, e do presidente do Instituto da Mobilidade e dos Transportes Terrestres, I. P;
+
+f) Nas situações a que se refere a alínea anterior, se não for pedido o registo da venda do veículo nos 180 dias subsequentes à aquisição da propriedade, o serviço competente promove oficiosamente a emissão do Certificado de Matrícula.
+
+###### Artigo 19.º — Listas electrónicas de entidades
+
+1 - A inclusão das entidades que tenham por actividade principal a compra de veículos para revenda nas listas referidas na alínea d) do artigo anterior depende da prévia verificação, pela associação representativa, da idoneidade da entidade para a promoção online de actos de registo de veículos.
+
+2 - Não se consideram idóneas as entidades que, designadamente, se encontrem em alguma das seguintes situações:
+
+a) Irregularidade da situação da entidade perante a administração fiscal e a segurança social;
+
+b) Condenação, com trânsito em julgado, da entidade ou dos respectivos administradores, gerentes ou directores, no País ou no estrangeiro, por crime doloso punível com pena superior a 3 anos;
+
+c) Declaração, nos últimos 15 anos, da entidade ou dos respectivos administradores, gerentes ou directores, por sentença nacional ou estrangeira transitada em julgado, da insolvência ou da responsabilidade por insolvência de empresa por eles dominada ou de cujos órgãos de administração ou fiscalização tenham sido membros;
+
+d) Incumprimento reiterado do disposto nos n.os 1 e 2 do artigo 17.º
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1536/2008 - Diário da República n.º 251/2008, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/1536-2008-444231), em vigor a partir de 2009-01-01
+
+###### Artigo 20.º — Remoção da lista
+
+As entidades que constam da lista referida no artigo anterior devem ser excluídas da possibilidade de promoção de actos de registo ao abrigo do regime especial, regulamentado pela presente portaria, se deixarem de reunir condições de idoneidade.
+
+### Capítulo IV — Promoção de actos de registo de veículos pelo vendedor com grande regularidade
+
+###### Artigo 21.º — Regime aplicável à promoção de actos de registo de veículos
+
+1 - Aplica-se, com as necessárias adaptações, o disposto no capítulo anterior à promoção de actos de registo de veículos pelo vendedor, nos casos em que este seja entidade que, em virtude da sua actividade, proceda com carácter de regularidade à transmissão da propriedade de veículos.
+
+2 - A promoção de actos de registo pelas entidades referidas no número anterior depende de protocolo a celebrar entre essas entidades ou a associação representativa do sector e o IRN, I. P., onde, designadamente, se determinem os requisitos a que devam obedecer os certificados digitais e o modo de apreciação da idoneidade das entidades.
+
+### Capítulo V — Registos promovidos por agentes de execução
+
+> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 283/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/283-2013-499548), em vigor a partir de 2013-03-05
+
+###### Artigo 22.º — Promoção online de registos por agente de execução
+
+1 - Sem prejuízo do disposto nos números seguintes, aplica-se à promoção online do registo da penhora de veículos pelos solicitadores de execução o disposto nos artigos 3.º e seguintes.
+
+2 - A comunicação eletrónica de factos sujeitos a registo pelos agentes de execução ou por oficial de justiça a realizar diligências próprias do agente de execução processa-se por comunicação direta entre os sistemas informáticos que servem de suporte à atividade dos agentes de execução ou dos oficiais de justiça e o sistema informático do registo automóvel.
+
+3 - (Revogado).
+
+4 - Se a penhora for registada definitivamente, o serviço de registo envia ao solicitador de execução a nota do registo e a certidão de ónus ou encargos registados sobre o veículo.
+
+5 - (Revogado).
+
+6 - O disposto no n.º 4 aplica-se, com as necessárias adaptações, aos restantes factos sujeitos a registo no âmbito da ação executiva promovidos pelo agente de execução ou por oficial de justiça a realizar diligências próprias do agente de execução.
+
+7 - Quando as condições técnicas não permitirem a comunicação direta entre o sistema informático que serve de suporte à atividade dos oficiais de justiça e o sistema informático do registo automóvel, a comunicação a que se refere o n.º 2 é feita em suporte papel.
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 283/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/283-2013-499548), em vigor a partir de 2013-03-05
+
+### Capítulo VI — Disposições finais e transitórias
+
+###### Artigo 23.º — Âmbito dos actos de registo online
+
+1 - A partir da data de entrada em vigor da presente portaria, podem ser promovidos por via electrónica os seguintes actos de registo de veículos:
+
+a) Transmissão do direito de propriedade plena, com base em contrato verbal de compra e venda;
+
+b) Penhora promovida por solicitador de execução.
+
+2 - O alargamento da possibilidade de promover outros actos de registo de veículos por via electrónica é determinado por despacho do presidente do IRN, I. P.
+
+###### Artigo 24.º — Regime transitório de saneamento do registo automóvel
+
+1 - Aos casos de propriedade de veículos adquirida por contrato verbal de compra e venda antes da data de entrada em vigor do Decreto-Lei n.º 178-A/2005, de 28 de Outubro, e ainda não registada, é aplicável o disposto nos números seguintes.
+
+2 - O registo do facto previsto no número anterior pode ser pedido online pelo comprador ou pelo vendedor, com base em documentos que indiciem a efectiva transmissão do veículo, a definir por despacho do presidente do IRN, I. P.
+
+3 - Aplica-se a este regime transitório, com as necessárias adaptações, o disposto quanto à promoção de registos online.
+
+4 - Requerido o registo, o serviço de registo notifica a parte não requerente de tal facto e de que pode deduzir oposição no prazo de 10 dias.
+
+5 - Se a parte notificada não deduzir oposição no prazo referido no número anterior ou se a oposição deduzida for considerada improcedente, o serviço de registo regista o facto, arquivando os documentos apresentados.
+
+6 - A decisão de registo por improcedência da oposição deduzida é recorrível nos termos gerais.
+
+7 - Pelo registo previsto no presente artigo é devido o emolumento de (euro) 5, se aquele respeitar a ciclomotor ou motociclo, triciclo ou quadriciclo com cilindrada não superior a 50 cm3, ou de (euro) 10, se o registo respeitar a qualquer outro veículo.
+
+###### Artigo 25.º — Norma transitória
+
+O disposto na alínea c) do n.º 1 do artigo 17.º não é aplicável aos veículos de que a entidade já seja proprietária na data de entrada em vigor do presente diploma, ainda que a aquisição da propriedade não se encontre registada.
+
+###### Artigo 26.º — Norma revogatória
+
+É revogada a Portaria n.º 1050-A/2007, de 31 de Agosto.
+
+###### Artigo 27.º — Aplicação no tempo
+
+1 - O disposto na presente portaria produz efeitos desde o dia 1 de Fevereiro de 2008, salvo o disposto no artigo 22.º, que produz efeitos desde o dia 31 de Dezembro de 2007.
+
+2 - O regime previsto no artigo 24.º é aplicável até 31 de Dezembro de 2008.
+
+###### Artigo 28.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Pelo Ministro da Justiça, João Tiago Valente Almeida da Silveira, Secretário de Estado da Justiça, em 26 de Janeiro de 2008.

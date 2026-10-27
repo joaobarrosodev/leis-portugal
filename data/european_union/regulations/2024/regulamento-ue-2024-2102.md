@@ -1,0 +1,191 @@
+---
+schema_version: '1.0'
+id: eu:celex:32024R2102:por
+title: Regulamento de Execução (UE) 2024/2102 da Comissão, de 30 de julho de 2024
+short_title: null
+summary: Regulamento de Execução (UE) 2024/2102 da Comissão, de 30 de julho de 2024, que altera o Regulamento de Execução
+  (UE) 2017/2470 no que se refere às condições de utilização do novo alimento 2’-fucosil-lactose e às especificações do novo
+  alimento 2’-fucosil-lactose produzida com uma estirpe derivada de Escherichia coli BL-21
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento de Execução
+issuing_authority:
+- Comissão Europeia
+- SANTE
+proposing_entity: null
+official_number: 2024/2102
+official_date: null
+publication_date: '2024-07-31'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L, 2024/2102, 31.7.2024
+  number: '2102'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/ebcc9e02-4ed9-11ef-acbc-01aa75ed71a1.0020.01/DOC_1
+entry_into_force_dates:
+- '2024-08-20'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32024R2102
+  eli: http://data.europa.eu/eli/reg_impl/2024/2102/oj
+  oj: oj:L_202402102
+  dre: null
+  dre_path: null
+  internal: eu:celex:32024R2102:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32024R2102
+  metadata_url: http://publications.europa.eu/resource/cellar/ebcc9e02-4ed9-11ef-acbc-01aa75ed71a1.0020
+  content_url: http://publications.europa.eu/resource/cellar/ebcc9e02-4ed9-11ef-acbc-01aa75ed71a1.0020.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-26T12:46:09Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2024-07-31T03:32:01.154+02:00'
+integrity:
+  source_sha256: 4b91319e6395904669b6ada79d3151d88f3c74b50561155c4c6d5218db7af3d6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T12:46:09Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- alimentação humana
+- alimento para crianças
+- autorização de venda
+- bioprocesso
+- informação do consumidor
+- inspeção de alimentos
+- lactose
+- novos alimentos
+- rotulagem
+- segurança dos alimentos
+relationships:
+- type: amends
+  target: celex:32017R2470
+  label: null
+  source: http://publications.europa.eu/resource/cellar/303c3e4c-ecf0-11e7-9749-01aa75ed71a1
+  date: '2017-12-30'
+- type: based_on
+  target: celex:32015R2283
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d2e5f917-9fd7-11e5-8781-01aa75ed71a1
+  date: '2015-12-11'
+- type: cites
+  target: celex:32013R0609
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c7757455-e08d-11e2-9165-01aa75ed71a1
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T12:46:09Z'
+  warnings: []
+  errors: []
+---
+
+# REGULAMENTO DE EXECUÇÃO (UE) 2024/2102 DA COMISSÃO
+
+de 30 de julho de 2024
+
+que altera o Regulamento de Execução (UE) 2017/2470 no que se refere às condições de utilização do novo alimento 2’-fucosil-lactose e às especificações do novo alimento 2’-fucosil-lactose produzida com uma estirpe derivada de *Escherichia coli* BL-21
+
+(Texto relevante para efeitos do EEE)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (UE) 2015/2283 do Parlamento Europeu e do Conselho, de 25 de novembro de 2015, relativo a novos alimentos, que altera o Regulamento (UE) n.º 1169/2011 do Parlamento Europeu e do Conselho e que revoga o Regulamento (CE) n.º 258/97 do Parlamento Europeu e do Conselho e o Regulamento (CE) n.º 1852/2001 da Comissão [([^1])](http://publications.europa.eu/resource/cellar/ebcc9e02-4ed9-11ef-acbc-01aa75ed71a1.0020.03/DOC_1#ntr1-L_202402102PT.000101-E0001), nomeadamente o artigo 12.º,
+
+Considerando o seguinte:
+
+(1) O Regulamento (UE) 2015/2283 determina que apenas os novos alimentos autorizados e incluídos na lista da União de novos alimentos podem ser colocados no mercado da União.
+
+(2) Em conformidade com o artigo 8.º do Regulamento (UE) 2015/2283, o Regulamento de Execução (UE) 2017/2470 da Comissão [([^2])](http://publications.europa.eu/resource/cellar/ebcc9e02-4ed9-11ef-acbc-01aa75ed71a1.0020.03/DOC_1#ntr2-L_202402102PT.000101-E0002) estabeleceu uma lista da União de novos alimentos autorizados.
+
+(3) A lista da União estabelecida no anexo do Regulamento de Execução (UE) 2017/2470 inclui a 2’-fucosil-lactose («2’-FL») de síntese química e a produzida microbiologicamente como novo alimento autorizado. As condições de utilização, os níveis máximos e os requisitos específicos de rotulagem estabelecidos no quadro 1 do anexo do referido regulamento são comuns tanto para a 2’-FL de síntese química como para a produzida microbiologicamente. Ao mesmo tempo, no quadro 2 do anexo desse regulamento, são estabelecidas especificações separadas para a 2’-FL de síntese química [«2’-fucosil-lactose (sintética)»] e para a 2’-FL produzida microbiologicamente [«2’-fucosil-lactose (fonte microbiana)»].
+
+(4) Em 30 de junho de 2021, a empresa Chr. Hansen A/S («requerente») apresentou à Comissão, em conformidade com o artigo 10.º, n.º 1, do Regulamento (UE) 2015/2283, um pedido de alteração das condições de utilização da 2’-FL. O requerente solicitou o aumento dos níveis máximos autorizados de 2’-FL em fórmulas para lactentes e fórmulas de transição, tal como definidas no artigo 2.º do Regulamento (UE) n.º 609/2013 do Parlamento Europeu e do Conselho [([^3])](http://publications.europa.eu/resource/cellar/ebcc9e02-4ed9-11ef-acbc-01aa75ed71a1.0020.03/DOC_1#ntr3-L_202402102PT.000101-E0003), dos 1,2 g/l atualmente autorizados, tanto em fórmulas para lactentes como em fórmulas de transição, para 3,0 g/l nas fórmulas para lactentes e 3,64 g/l nas fórmulas de transição.
+
+(5) Em conformidade com o artigo 10.º, n.º 3, do Regulamento (UE) 2015/2283, a Comissão consultou a Autoridade Europeia para a Segurança dos Alimentos («Autoridade») em 28 de setembro de 2022, solicitando-lhe um parecer científico sobre o aumento proposto dos níveis máximos autorizados de 2’-FL em fórmulas para lactentes e fórmulas de transição.
+
+(6) Em 26 de setembro de 2023, a Autoridade adotou o seu parecer científico «Safety of the extension of use of 2′-fucosyllactose (2′-FL) as a novel food pursuant to Regulation (EU) 2015/2283» [([^4])](http://publications.europa.eu/resource/cellar/ebcc9e02-4ed9-11ef-acbc-01aa75ed71a1.0020.03/DOC_1#ntr4-L_202402102PT.000101-E0004), em conformidade com o artigo 11.º do Regulamento (UE) 2015/2283.
+
+(7) No seu parecer científico, a Autoridade concluiu que a 2’-FL é segura quando utilizada em fórmulas para lactentes e fórmulas de transição nos níveis máximos propostos de 3,0 g/l e 3,64 g/l, respetivamente, pelo que se justifica alterar as condições de utilização da 2’-FL.
+
+(8) As informações disponibilizadas no pedido e o parecer científico da Autoridade contêm fundamentos suficientes para concluir que as alterações das condições de utilização da 2’-FL estão em conformidade com o artigo 12.º, n.º 1, do Regulamento (UE) 2015/2283.
+
+(9) Em 27 de outubro de 2023, o requerente apresentou à Comissão, em conformidade com o artigo 10.º, n.º 1, do Regulamento (UE) 2015/2283, outro pedido de alteração das especificações da 2’-FL produzida por fermentação utilizando uma estirpe derivada de *Escherichia coli* BL-21. O requerente solicitou o aumento dos níveis máximos autorizados de endotoxinas residuais das atualmente autorizadas ≤ 100 unidades de endotoxinas («UE»)/g (ou ≤ 0,1 UE/mg) de novo alimento, na forma em pó, ou ≤ 100 UE/ml (ou ≤ 0,1 UE/μl) de novo alimento, na forma líquida, para ≤ 10 UE/mg de novo alimento, na forma em pó, ou ≤ 10 UE/μl de novo alimento, na forma líquida.
+
+(10) O requerente solicitou o aumento dos níveis de endotoxinas residuais na 2’-FL produzida por fermentação utilizando uma estirpe derivada de *Escherichia coli* BL-21 de forma a alinhá-los com os da já autorizada 2’-FL produzida com uma estirpe derivada de *Escherichia coli* K-12, que é autorizada nas mesmas condições de utilização, e com o de outros oligossacáridos idênticos aos do leite humano autorizados, que são também autorizados a níveis idênticos ou semelhantes de endotoxinas residuais em fórmulas para lactentes e fórmulas de transição.
+
+(11) A Comissão considera que a atualização solicitada da lista da União de novos alimentos no sentido de aumentar os níveis de endotoxinas residuais nas especificações da 2’-FL produzida com uma estirpe derivada de *Escherichia coli* BL-21 não é suscetível de afetar a saúde humana e que não é necessária uma avaliação da segurança pela Autoridade, em conformidade com o artigo 10.º, n.º 3, do Regulamento (UE) 2015/2283. Os pareceres da Autoridade [([^5])](http://publications.europa.eu/resource/cellar/ebcc9e02-4ed9-11ef-acbc-01aa75ed71a1.0020.03/DOC_1#ntr5-L_202402102PT.000101-E0005) ^,^ [([^6])](http://publications.europa.eu/resource/cellar/ebcc9e02-4ed9-11ef-acbc-01aa75ed71a1.0020.03/DOC_1#ntr6-L_202402102PT.000101-E0006) ^,^ [([^7])](http://publications.europa.eu/resource/cellar/ebcc9e02-4ed9-11ef-acbc-01aa75ed71a1.0020.03/DOC_1#ntr7-L_202402102PT.000101-E0007) relativos a outros oligossacáridos idênticos aos do leite humano atualmente autorizados com níveis de endotoxinas residuais ≤ 10 UE/mg de novo alimento e com condições de utilização idênticas ou semelhantes às da 2’-FL produzida com uma estirpe derivada de *Escherichia coli* BL-21 concluíram que estes níveis máximos de endotoxinas residuais são seguros.
+
+(12) As informações disponibilizadas nos pedidos e os pareceres existentes da Autoridade contêm fundamentos suficientes para concluir que as alterações das condições de utilização d 2’-FL no sentido de aumentar os seus níveis máximos de utilização em fórmulas para lactentes e fórmulas de transição e as alterações das especificações da 2’-FL produzida por fermentação utilizando uma estirpe derivada de *Escherichia coli* BL-21 no sentido de alterar os níveis de endotoxinas residuais estão em conformidade com as condições estabelecidas no artigo 12.º do Regulamento (UE) 2015/2283 e devem ser aprovadas.
+
+(13) O anexo do Regulamento de Execução (UE) 2017/2470 deve, por conseguinte, ser alterado em conformidade.
+
+(14) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité Permanente dos Vegetais, Animais e Alimentos para Consumo Humano e Animal,
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º
+
+O anexo do Regulamento de Execução (UE) 2017/2470 é alterado em conformidade com o anexo do presente regulamento.
+
+###### Artigo 2.º
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 30 de julho de 2024.
+
+***Pela Comissão***
+
+***A Presidente***
+
+**Ursula VON DER LEYEN**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/ebcc9e02-4ed9-11ef-acbc-01aa75ed71a1.0020.03/DOC_1#ntc1-L_202402102PT.000101-E0001) [JO L 327 de 11.12.2015, p. 1](http://publications.europa.eu/resource/oj/JOL_2015_327_R_TOC), ELI: [http://data.europa.eu/eli/reg/2015/2283/oj](http://data.europa.eu/eli/reg/2015/2283/oj).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/ebcc9e02-4ed9-11ef-acbc-01aa75ed71a1.0020.03/DOC_1#ntc2-L_202402102PT.000101-E0002) Regulamento de Execução (UE) 2017/2470 da Comissão, de 20 de dezembro de 2017, que estabelece a lista da União de novos alimentos em conformidade com o Regulamento (UE) 2015/2283 do Parlamento Europeu e do Conselho relativo a novos alimentos ([JO L 351 de 30.12.2017, p. 72](http://publications.europa.eu/resource/oj/JOL_2017_351_R_TOC), ELI: [http://data.europa.eu/eli/reg_impl/2017/2470/oj](http://data.europa.eu/eli/reg_impl/2017/2470/oj)).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/ebcc9e02-4ed9-11ef-acbc-01aa75ed71a1.0020.03/DOC_1#ntc3-L_202402102PT.000101-E0003) Regulamento (UE) n.º 609/2013 do Parlamento Europeu e do Conselho, de 12 de junho de 2013, relativo aos alimentos para lactentes e crianças pequenas, aos alimentos destinados a fins medicinais específicos e aos substitutos integrais da dieta para controlo do peso e que revoga a Diretiva 92/52/CEE do Conselho, as Diretivas 96/8/CE, 1999/21/CE, 2006/125/CE e 2006/141/CE da Comissão, a Diretiva 2009/39/CE do Parlamento Europeu e do Conselho e os Regulamentos (CE) n.º 41/2009 e (CE) n.º 953/2009 da Comissão ([JO L 181 de 29.6.2013, p. 35](http://publications.europa.eu/resource/oj/JOL_2013_181_R_TOC), ELI: [http://data.europa.eu/eli/reg/2013/609/oj](http://data.europa.eu/eli/reg/2013/609/oj)).
+
+> [(^4^)](http://publications.europa.eu/resource/cellar/ebcc9e02-4ed9-11ef-acbc-01aa75ed71a1.0020.03/DOC_1#ntc4-L_202402102PT.000101-E0004) *EFSA Journal*, vol. 21, n.º 11, artigo 8334, 2023.
+
+> [(^5^)](http://publications.europa.eu/resource/cellar/ebcc9e02-4ed9-11ef-acbc-01aa75ed71a1.0020.03/DOC_1#ntc5-L_202402102PT.000101-E0005) *EFSA Journal*, vol. 17, n.º 6, artigo 5717, 2019.
+
+> [(^6^)](http://publications.europa.eu/resource/cellar/ebcc9e02-4ed9-11ef-acbc-01aa75ed71a1.0020.03/DOC_1#ntc6-L_202402102PT.000101-E0006) *EFSA Journal*, vol. 20, n.º 5, artigo 7329, 2022.
+
+> [(^7^)](http://publications.europa.eu/resource/cellar/ebcc9e02-4ed9-11ef-acbc-01aa75ed71a1.0020.03/DOC_1#ntc7-L_202402102PT.000101-E0007) *EFSA Journal*, vol. 21, n.º 6, artigo 8026, 2023.

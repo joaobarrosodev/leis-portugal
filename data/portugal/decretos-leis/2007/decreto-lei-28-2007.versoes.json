@@ -1,0 +1,165 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:517659:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-156246154",
+ "dre_path": "/dr/detalhe/decreto-lei/28-2007-517659",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-02-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "156250501",
+    "156250502",
+    "156250503",
+    "156250504",
+    "156250505",
+    "156250506",
+    "156250507",
+    "156250508",
+    "156250509",
+    "156250510",
+    "156250511"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "156250501",
+    "156250502",
+    "156250503",
+    "156250504",
+    "156250505",
+    "156250506",
+    "156250507",
+    "156250513",
+    "156250509",
+    "156250510",
+    "156250511",
+    "156250512"
+   ]
+  }
+ ],
+ "fragments": {
+  "156250501": {
+   "fragment_id": "156246155",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 28/2007\n\nde 12 de Fevereiro\n\nDe forma a garantir a protecção eficaz e a segurança de pessoas e bens impõe-se que os empreendimentos de construção, incluindo os edifícios e outras obras de construção e de engenharia civil, devam ser concebidos e realizados de modo a satisfazer determinadas exigências essenciais, o que implica a não utilização de produtos de construção cujas características, por inadequadas, as possam comprometer.\n\nO Decreto-Lei n.º 349-C/83, de 30 de Julho, que aprovou o Regulamento de Estruturas de Betão Armado e Pré-Esforçado, correspondeu a uma etapa importante no progresso dos conhecimentos, reflectindo a actividade internacional neste domínio.\n\nNo sentido de aproximar as disposições legislativas, regulamentares e administrativas dos Estados membros no que respeita aos produtos de construção, foi igualmente adoptada a Directiva n.º <a href=\"eurlex.asp?ano=1989&id=389L0106\" title=\"Link para Directiva da Comunidade Europeia\">89/106/CEE</a>, do Conselho, de 21 de Dezembro de 1988, transposta para o direito interno pelo Decreto-Lei n.º 113/93, de 10 de Abril, que definiu procedimentos a adoptar com vista a garantir que os produtos de construção sejam adequados ao fim a que se destinam e possam vir a ser colocados no mercado com a marcação CE.\n\nO n.º 3 do artigo 3.º do Decreto-Lei n.º 113/93, de 10 de Abril, estabelece que, na ausência de normas harmonizadas e de aprovações técnicas europeias, os produtos que satisfaçam disposições nacionais conformes com o <a href=\"eurlex/ec_cons_treaty_pt.asp\">Tratado CEE</a> podem ser colocados no mercado, embora sem marcação CE.\n\nFoi neste enquadramento que oportunamente se aprovou o Decreto-Lei n.º 128/99, de 21 de Abril, relativo à colocação no mercado de varões de aço laminado a quente, do tipo nervurado, complementando as disposições relativas à classificação dos varões de aço previstas no artigo 23.º do Decreto-Lei n.º 349-C/83, de 30 de Julho.\n\nSurge agora a necessidade de legislar relativamente às condições de colocação no mercado do aço pré-esforçado.\n\nCom efeito, a ausência de legislação nacional neste domínio tem conduzido à colocação no mercado de produtos não certificados, verificando-se a redução das condições objectivas de garantia da segurança das construções.\n\nDeste modo, são complementadas as disposições relativas à classificação das armaduras de aço para betão previstas no artigo 23.º do Decreto-Lei n.º 349-C/83, de 30 de Julho, impondo-se a certificação das armaduras de aço para betão pré-esforçado para efeitos da sua colocação no mercado, tornando, assim, obrigatório, à semelhança do que é praticado para os varões de aço laminados a quente do tipo nervurado, o sistema de certificação voluntário já existente no País.\n\nForam consultadas as associações do sector e outras entidades com interesses na matéria.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "156250502": {
+   "fragment_id": "156246156",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei estabelece as condições a que deve obedecer a colocação no mercado de aço de pré-esforço, para utilização em betão pré-esforçado, de modo a garantir a segurança e a satisfação das exigências essenciais dos edifícios e empreendimentos em que venham a ser aplicados."
+  },
+  "156250503": {
+   "fragment_id": "156246157",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO presente decreto-lei é aplicável aos fabricantes de aço de pré-esforço ou aos seus mandatários, aos importadores ou a quaisquer outras entidades responsáveis pela sua colocação no mercado."
+  },
+  "156250504": {
+   "fragment_id": "156246158",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara os efeitos deste decreto-lei, entendem-se por «aço de pré-esforço» os produtos em aço de alta resistência e baixa relaxação, destinados a serem utilizados como armaduras em betão pré-esforçado, que se apresentem na forma de fios, cordões e varões."
+  },
+  "156250505": {
+   "fragment_id": "156246159",
+   "type": 11,
+   "heading": "Artigo 4.º — Colocação no mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Colocação no mercado\n\nO aço de pré-esforço definido no artigo anterior só pode ser colocado no mercado após ter sido certificado por organismo acreditado pela entidade competente no domínio da acreditação, em conformidade com as metodologias do Sistema Português da Qualidade."
+  },
+  "156250506": {
+   "fragment_id": "156246160",
+   "type": 11,
+   "heading": "Artigo 5.º — Certificação e reconhecimento mútuo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Certificação e reconhecimento mútuo\n\n1 - A certificação a que se refere o artigo anterior deve assegurar a conformidade do aço de pré-esforço com as normas ou especificações técnicas portuguesas aplicáveis ou com normas europeias ou normas ou especificações técnicas equivalentes de outro Estado membro da União Europeia, da Turquia ou de um Estado subscritor do Acordo sobre o Espaço Económico Europeu.\n\n2 - Nos processos de certificação, a recolha de amostras, a realização dos ensaios de controlo externo, bem como a elaboração dos relatórios de apreciação dos resultados dos ensaios de controlo interno e externo, fica a cargo de entidades devidamente acreditadas para o efeito, no âmbito do Sistema Português da Qualidade.\n\n3 - O reconhecimento dos relatórios e dos certificados de conformidade emitidos como resultado de ensaios e inspecções num Estado membro da União Europeia, na Turquia ou num Estado subscritor do Acordo sobre o Espaço Económico Europeu deve efectuar-se de acordo com o disposto no n.º 2 do artigo 9.º do Decreto-Lei n.º 113/93, de 10 de Abril, que transpõe a Directiva n.º <a href=\"eurlex.asp?ano=1989&id=389L0106\" title=\"Link para Directiva da Comunidade Europeia\">89/106/CEE</a>, do Conselho, de 21 de Dezembro de 1988, relativa aos produtos de construção."
+  },
+  "156250507": {
+   "fragment_id": "156246161",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fiscalização\n\n1 - Compete à Autoridade de Segurança Alimentar e Económica a fiscalização no mercado do disposto no presente decreto-lei, sem prejuízo das competências atribuídas por lei a outras entidades.\n\n2 - Às entidades fiscalizadoras compete, igualmente, a instrução dos processos de contra-ordenação que venham a instaurar no âmbito do presente decreto-lei.\n\n3 - As entidades fiscalizadoras podem solicitar o auxílio de quaisquer outras autoridades sempre que o julguem necessário para o exercício das suas funções."
+  },
+  "156250508": {
+   "fragment_id": "156246162",
+   "type": 11,
+   "heading": "Artigo 7.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Contra-ordenações\n\n1 - As infracções ao disposto no artigo 4.º constituem contra-ordenações puníveis com as seguintes coimas:\n\na) De (euro) 300 a (euro) 3500, quando cometidas por pessoas singulares;\n\nb) De (euro) 5000 a (euro) 30000, quando cometidas por pessoas colectivas.\n\n2 - Sem prejuízo do disposto no número anterior e, independentemente da responsabilidade civil em que podem incorrer os infractores, simultaneamente com a coima, pode ainda ser determinada, designadamente como pena acessória, a perda do produto em causa, sempre que a sua utilização em condições normais represente perigo que o justifique, de acordo com o previsto no artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro.\n\n3 - A tentativa e a negligência são puníveis, sendo os limites referidos no n.º 1 reduzidos para metade.\n\n4 - A aplicação das coimas e sanções acessórias previstas nos números anteriores compete à Comissão de Aplicação de Coimas em Matéria Económica e Publicidade.\n\n5 - A receita resultante da aplicação das coimas e sanções previstas nos n.os 1 a 3 reverte em:\n\na) 60% para o Estado;\n\nb) 10% para a entidade que procede ao levantamento do auto;\n\nc) 20% para a entidade que procede à instrução do processo;\n\nd) 10% para a Direcção-Geral da Empresa."
+  },
+  "156250509": {
+   "fragment_id": "156246163",
+   "type": 11,
+   "heading": "Artigo 8.º — Acompanhamento da aplicação do diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Acompanhamento da aplicação do diploma\n\nSem prejuízo do disposto nos artigos 6.º e 7.º, compete à Direcção-Geral da Empresa o acompanhamento da aplicação global deste decreto-lei, bem como as propostas de medidas necessárias à prossecução dos seus objectivos."
+  },
+  "156250510": {
+   "fragment_id": "156246164",
+   "type": 11,
+   "heading": "Artigo 9.º — Notificação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Notificação prévia\n\nO presente decreto-lei foi notificado à Comissão Europeia, na fase de projecto, em cumprimento do disposto na Directiva n.º <a href=\"eurlex.asp?ano=1998&id=398L0034\" title=\"Link para Directiva da Comunidade Europeia\">98/34/CE</a>, do Parlamento Europeu e do Conselho, de 22 de Junho, relativa ao procedimento de informação no domínio das normas e regras técnicas."
+  },
+  "156250511": {
+   "fragment_id": "156246165",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 30 dias após a sua publicação."
+  },
+  "156250513": {
+   "fragment_id": "156246162",
+   "type": 11,
+   "heading": "Artigo 7.º — Contra-ordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 72.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 7.º — Contra-ordenações\n\n1 - As infrações ao disposto no artigo 4.º constituem contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).\n\n2 - Sem prejuízo do disposto no número anterior e, independentemente da responsabilidade civil em que podem incorrer os infratores, simultaneamente com a coima, pode ainda ser determinada, designadamente como sanção acessória, a perda do produto em causa, sempre que a sua utilização em condições normais represente perigo que o justifique, de acordo com o previsto no RJCE.\n\n3 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n4 - A aplicação das coimas e sanções acessórias previstas nos números anteriores compete ao inspetor-geral da Autoridade de Segurança Alimentar e Económica.\n\n5 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente artigo é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 72.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156250512": {
+   "fragment_id": "156246166",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia.\n\nPromulgado em 30 de Janeiro de 2007.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 31 de Janeiro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

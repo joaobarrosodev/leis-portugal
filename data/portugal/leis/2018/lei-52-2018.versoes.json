@@ -1,0 +1,1392 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:116108098:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2018-116125843",
+ "dre_path": "/dr/detalhe/lei/52-2018-116108098",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2018-08-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116125930",
+    "116125931",
+    "116125932",
+    "116125933",
+    "116125934",
+    "116125935",
+    "116125936",
+    "116125937",
+    "116125938",
+    "116125939",
+    "116125940",
+    "116125941",
+    "116125942",
+    "116125943",
+    "116125944",
+    "116125945",
+    "116125946",
+    "116125947",
+    "116125948",
+    "116125949",
+    "116125950",
+    "116125951",
+    "116125952",
+    "116125953",
+    "116125954",
+    "116125955",
+    "116125956",
+    "116125957",
+    "116125958",
+    "116125959",
+    "116125960",
+    "116125961",
+    "116125962",
+    "116125963",
+    "116125964",
+    "116125965",
+    "116125967",
+    "116125968",
+    "116125969",
+    "116125970",
+    "116125971",
+    "116125972",
+    "116125973",
+    "116125974",
+    "116126475",
+    "116126476",
+    "116126477",
+    "116126478",
+    "116126479",
+    "116126480",
+    "116126481",
+    "116126482",
+    "116126483",
+    "116126484",
+    "116126485",
+    "116126486",
+    "116126487",
+    "116126488",
+    "116126489",
+    "116126490",
+    "116126491",
+    "116126492",
+    "116126493",
+    "116126494",
+    "116126495",
+    "116126496",
+    "116126497",
+    "116126498",
+    "116126499",
+    "116126500",
+    "116126501",
+    "116126502",
+    "116126503",
+    "116126504",
+    "116126505",
+    "116126506",
+    "116126507",
+    "116126508",
+    "116126509",
+    "116126510",
+    "116126511",
+    "116126512",
+    "116126513",
+    "116126514",
+    "116126515",
+    "116126516",
+    "116126517",
+    "116126518",
+    "116126519",
+    "116126520",
+    "116126521",
+    "116126522",
+    "116126523",
+    "116126524",
+    "116126525",
+    "116126526",
+    "116126527",
+    "116126528",
+    "116126529",
+    "116126530",
+    "116126531",
+    "116126532",
+    "116126533",
+    "116126534",
+    "116126535",
+    "116126536",
+    "116126537",
+    "116126538",
+    "116126539",
+    "116126540",
+    "116126541",
+    "116126542",
+    "116126543",
+    "116126544",
+    "116126545",
+    "116126546",
+    "116126547",
+    "116126548"
+   ]
+  },
+  {
+   "date": "2019-06-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122627505:por",
+     "title": "Lei n.º 40/2019",
+     "published": "2019-06-21",
+     "dre_path": "/dr/detalhe/lei/40-2019-122627505"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "116125930",
+    "116125931",
+    "116125932",
+    "116125933",
+    "116125934",
+    "116125935",
+    "116125936",
+    "116125937",
+    "116125938",
+    "116125939",
+    "116125940",
+    "116125941",
+    "116125942",
+    "122652380",
+    "116125944",
+    "116125945",
+    "116125946",
+    "116125947",
+    "116125948",
+    "116125949",
+    "116125950",
+    "116125951",
+    "116125952",
+    "116125953",
+    "116125954",
+    "116125955",
+    "116125956",
+    "116125957",
+    "116125958",
+    "116125959",
+    "116125960",
+    "116125961",
+    "116125962",
+    "116125963",
+    "116125964",
+    "116125965",
+    "116125966",
+    "116125967",
+    "116125968",
+    "116125969",
+    "116125970",
+    "116125971",
+    "116125972",
+    "116125973",
+    "116125974",
+    "116126475",
+    "116126476",
+    "116126477",
+    "116126478",
+    "116126479",
+    "116126480",
+    "116126481",
+    "116126482",
+    "116126483",
+    "116126484",
+    "116126485",
+    "116126486",
+    "116126487",
+    "116126488",
+    "116126489",
+    "116126490",
+    "116126491",
+    "116126492",
+    "116126493",
+    "116126494",
+    "116126495",
+    "116126496",
+    "116126497",
+    "116126498",
+    "116126499",
+    "116126500",
+    "116126501",
+    "116126502",
+    "116126503",
+    "116126504",
+    "116126505",
+    "116126506",
+    "116126507",
+    "116126508",
+    "116126509",
+    "116126510",
+    "116126511",
+    "116126512",
+    "116126513",
+    "116126514",
+    "116126515",
+    "116126516",
+    "116126517",
+    "116126518",
+    "116126519",
+    "116126520",
+    "116126521",
+    "116126522",
+    "116126523",
+    "116126524",
+    "116126525",
+    "116126526",
+    "116126527",
+    "116126528",
+    "116126529",
+    "116126530",
+    "116126531",
+    "116126532",
+    "116126533",
+    "116126534",
+    "116126535",
+    "116126536",
+    "116126537",
+    "116126538",
+    "116126539",
+    "116126540",
+    "116126541",
+    "116126542",
+    "116126543",
+    "116126544",
+    "116126545",
+    "116126546",
+    "116126547",
+    "116126548"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 19.º",
+    "Altera Artigo 21.º"
+   ],
+   "fragments": [
+    "116125930",
+    "116125931",
+    "116125932",
+    "116125933",
+    "116125934",
+    "116125935",
+    "116125936",
+    "116125937",
+    "116125938",
+    "116125939",
+    "116125940",
+    "116125941",
+    "116125942",
+    "122652380",
+    "116125944",
+    "116125945",
+    "116125946",
+    "116125947",
+    "116125948",
+    "116125949",
+    "116125950",
+    "116125951",
+    "116125952",
+    "155882663",
+    "116125954",
+    "155882664",
+    "116125956",
+    "116125957",
+    "116125958",
+    "116125959",
+    "116125960",
+    "116125961",
+    "116125962",
+    "116125963",
+    "116125964",
+    "116125965",
+    "116125966",
+    "116125967",
+    "116125968",
+    "116125969",
+    "116125970",
+    "116125971",
+    "116125972",
+    "116125973",
+    "116125974",
+    "116126475",
+    "116126476",
+    "116126477",
+    "116126478",
+    "116126479",
+    "116126480",
+    "116126481",
+    "116126482",
+    "116126483",
+    "116126484",
+    "116126485",
+    "116126486",
+    "116126487",
+    "116126488",
+    "116126489",
+    "116126490",
+    "116126491",
+    "116126492",
+    "116126493",
+    "116126494",
+    "116126495",
+    "116126496",
+    "116126497",
+    "116126498",
+    "116126499",
+    "116126500",
+    "116126501",
+    "116126502",
+    "116126503",
+    "116126504",
+    "116126505",
+    "116126506",
+    "116126507",
+    "116126508",
+    "116126509",
+    "116126510",
+    "116126511",
+    "116126512",
+    "116126513",
+    "116126514",
+    "116126515",
+    "116126516",
+    "116126517",
+    "116126518",
+    "116126519",
+    "116126520",
+    "116126521",
+    "116126522",
+    "116126523",
+    "116126524",
+    "116126525",
+    "116126526",
+    "116126527",
+    "116126528",
+    "116126529",
+    "116126530",
+    "116126531",
+    "116126532",
+    "116126533",
+    "116126534",
+    "116126535",
+    "116126536",
+    "116126537",
+    "116126538",
+    "116126539",
+    "116126540",
+    "116126541",
+    "116126542",
+    "116126543",
+    "116126544",
+    "116126545",
+    "116126546",
+    "116126547",
+    "116126548"
+   ]
+  }
+ ],
+ "fragments": {
+  "116125930": {
+   "fragment_id": "116125844",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 52/2018\n\nde 20 de agosto\n\nEstabelece o regime de prevenção e controlo da doença dos legionários e procede à quinta alteração ao Decreto-Lei n.º 118/2013, de 20 de agosto\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "116125931": {
+   "fragment_id": "116125845",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "116125932": {
+   "fragment_id": "116125846",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei estabelece o regime de prevenção e controlo da doença dos legionários, definindo procedimentos relativos à utilização e à manutenção de redes, sistemas e equipamentos propícios à proliferação e disseminação da Legionella e estipula as bases e condições para a criação de uma estratégia de prevenção primária e controlo da bactéria Legionella em todos os edifícios e estabelecimentos de acesso ao público, independentemente de terem natureza pública ou privada.\n\n2 - A presente lei procede ainda à quinta alteração ao Decreto-Lei n.º 118/2013, de 20 de agosto, que aprova o Sistema de Certificação Energética dos Edifícios, o Regulamento de Desempenho Energético dos Edifícios de Habitação e o Regulamento de Desempenho Energético dos Edifícios de Comércio e Serviços, alterado pelos Decretos-Leis n.os 68-A/2015, de 30 de abril, 194/2015, de 14 de setembro, 251/2015, de 25 de novembro, e 28/2016, de 23 de junho."
+  },
+  "116125933": {
+   "fragment_id": "116125847",
+   "type": 1,
+   "heading": "Capítulo II — Bases e condições do programa de prevenção primária e controlo da bactéria Legionella",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Bases e condições do programa de prevenção primária e controlo da bactéria Legionella"
+  },
+  "116125934": {
+   "fragment_id": "116125848",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - A presente lei aplica-se, para efeitos do disposto no artigo seguinte, em todos os setores de atividade:\n\na) Aos seguintes equipamentos de transferência de calor associados a sistemas de aquecimento, ventilação e ar condicionado ou a unidades de tratamento do ar, desde que possam gerar aerossóis de água:\n\ni) Torres de arrefecimento;\n\nii) Condensadores evaporativos;\n\niii) Sistemas de arrefecimento de água de processo industrial;\n\niv) Sistemas de arrefecimento de cogeração;\n\nv) Humidificadores.\n\nb) A sistemas inseridos em espaços de acesso e utilização pública que utilizem água para fins terapêuticos ou recreativos e que possam gerar aerossóis de água;\n\nc) A redes prediais de água, designadamente água quente sanitária;\n\nd) A sistemas de rega ou de arrefecimento por aspersão, fontes ornamentais ou outros geradores de aerossóis de água com temperatura entre 20ºC e 45ºC.\n\n2 - Para efeitos da presente lei, são considerados aerossóis de água as suspensões no meio gasoso de partículas sólidas ou líquidas, com dimensão inferior a 10 (mi)m, com origem em microgotículas de água.\n\n3 - Excluem-se do âmbito de aplicação da presente lei as redes e os sistemas previstos nas alíneas c) e d) do n.º 1 que estejam:\n\na) Localizados em edifícios afetos exclusiva ou predominantemente ao uso habitacional, considerando-se como tal os edifícios em que pelo menos 50 % da área total se encontra afeta a habitação, exceto se instalados nas zonas comuns de conjuntos comerciais, zonas comuns de grandes superfícies comerciais ou frações autónomas destinadas ao comércio a retalho que disponham de uma área de venda igual ou superior a 2000 m2;\n\nb) Inseridos em edifícios exclusiva ou predominantemente de escritórios, considerando-se como tal os edifícios em que pelo menos 50 % da área total se encontra afeta a escritórios, exceto se instalados nas zonas comuns de conjuntos comerciais, zonas comuns de grandes superfícies comerciais ou frações autónomas destinadas ao comércio a retalho que disponham de uma área de venda igual ou superior a 2000 m2;\n\nc) Inseridos em edifícios e espaços que não sejam de acesso e utilização pública.\n\n4 - As exclusões previstas no número anterior não se aplicam ao artigo 10.º e respetivos procedimentos em caso de cluster ou surto."
+  },
+  "116125935": {
+   "fragment_id": "116125849",
+   "type": 11,
+   "heading": "Artigo 3.º — Obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Obrigações\n\n1 - Os responsáveis pelos equipamentos mencionados na alínea a) do n.º 1 do artigo anterior devem:\n\na) Proceder ao seu registo nos termos do artigo 5.º;\n\nb) Elaborar, executar, cumprir e rever o plano de prevenção e controlo nos termos do artigo 6.º;\n\nc) Assegurar a realização das auditorias nos termos do artigo 7.º;\n\nd) Adotar o procedimento aplicável em situação de risco nos termos do artigo 8.º\n\n2 - Os responsáveis pelos sistemas a que se refere a alínea b) do n.º 1 do artigo anterior devem:\n\na) Elaborar, executar, cumprir e rever o plano de prevenção e controlo nos termos do artigo 6.º;\n\nb) Adotar o procedimento aplicável em situação de risco nos termos do artigo 8.º\n\n3 - Os responsáveis pelos sistemas e redes a que se referem as alíneas c) e d) do n.º 1 do artigo anterior devem elaborar e aplicar um programa de manutenção e limpeza por forma a prevenir o risco de proliferação e disseminação de Legionella, mantendo um registo atualizado das ações efetuadas, em termos a definir por portaria.\n\n4 - Os responsáveis por todos os equipamentos, redes e sistemas previstos no n.º 1 do artigo anterior devem adotar as medidas determinadas pela autoridade de saúde, designadamente as que vierem a ser determinadas em situação de cluster ou surto, nos termos do artigo 10.º"
+  },
+  "116125936": {
+   "fragment_id": "116125850",
+   "type": 11,
+   "heading": "Artigo 4.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Responsabilidade\n\n1 - As obrigações previstas na presente lei impendem sobre qualquer pessoa singular ou coletiva, pública ou privada, que seja proprietária ou titular de outro direito de gozo, desde que detenha o controlo dos equipamentos, redes ou sistemas mencionados no artigo 2.º\n\n2 - Em caso de impossibilidade de determinação do responsável nos termos do número anterior, considera-se responsável o possuidor ou detentor daqueles equipamentos, redes ou sistemas.\n\n3 - A contratação de um serviço externo para a elaboração, revisão ou execução do plano de prevenção e controlo previsto no artigo 6.º, ou de parte das atividades aí compreendidas, não isenta o responsável pelos equipamentos, redes ou sistemas mencionados no artigo 2.º das obrigações previstas na presente lei."
+  },
+  "116125937": {
+   "fragment_id": "116125851",
+   "type": 1,
+   "heading": "Capítulo III — Prevenção e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Prevenção e controlo"
+  },
+  "116125938": {
+   "fragment_id": "116125852",
+   "type": 11,
+   "heading": "Artigo 5.º — Procedimento de registo de equipamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Procedimento de registo de equipamentos\n\n1 - Os equipamentos previstos na alínea a) do n.º 1 do artigo 2.º são objeto de registo.\n\n2 - O registo previsto no número anterior deve conter todas as informações constantes no anexo i da presente lei, da qual faz parte integrante, e é realizado no prazo de 30 dias a contar da data de início de funcionamento do equipamento ou da sua alteração.\n\n3 - Devem ser registadas as situações de suspensão, encerramento e reentrada em funcionamento dos equipamentos, no prazo de 15 dias após a data da respetiva ocorrência.\n\n4 - O registo previsto no n.º 1 é realizado na plataforma eletrónica a que se refere o artigo 15.º, a qual assegura a interoperabilidade com outras plataformas que contenham informação sobre os mesmos equipamentos.\n\n5 - É assegurado o acesso à plataforma de registo a todas as autoridades de saúde, bem como às demais entidades competentes pela fiscalização nos termos do artigo 16.º"
+  },
+  "116125939": {
+   "fragment_id": "116125853",
+   "type": 11,
+   "heading": "Artigo 6.º — Plano de prevenção e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Plano de prevenção e controlo\n\n1 - Nos termos do artigo 3.º, a prevenção e o controlo da bactéria Legionella é assegurada por um plano de prevenção e controlo, doravante designado por Plano.\n\n2 - A elaboração do Plano deve basear-se numa análise de risco, a qual observa, pelo menos, os seguintes aspetos:\n\na) Tipologia, dimensão e antiguidade dos equipamentos, redes e sistemas;\n\nb) Disposição física e interação com o meio circundante;\n\nc) Natureza da atividade desenvolvida e grau de utilização dos espaços;\n\nd) Regime de funcionamento dos equipamentos, designadamente contínuo, sazonal ou esporádico;\n\ne) Suscetibilidade da população utilizadora, designadamente faixa etária, estado de saúde e género.\n\n3 - O Plano deve integrar:\n\na) A análise de risco elaborada nos termos do número anterior;\n\nb) Um cadastro completo e atualizado dos equipamentos, redes ou sistemas, incluindo peças desenhadas e memórias descritivas;\n\nc) A identificação das competências e responsabilidades dos profissionais envolvidos;\n\nd) A identificação de pontos críticos de proliferação e disseminação de Legionella;\n\ne) Um programa de manutenção e verificação de sinais de corrosão e contaminação dos equipamentos, redes ou sistemas;\n\nf) Um programa de revisão, limpeza e desinfeção dos equipamentos, redes ou sistemas que inclua a definição de produtos, respetivas dosagens e fichas de dados de segurança, procedimentos e periodicidade;\n\ng) Um programa de monitorização e tratamento, preventivo ou corretivo, da água, que inclua a definição dos parâmetros a analisar, dos pontos e procedimentos para recolha de amostras, dos produtos, doses, fichas de dados de segurança, procedimentos de tratamento e frequência de amostragem e análise;\n\nh) Um programa de vigilância da saúde dos trabalhadores com risco de exposição profissional a Legionella;\n\ni) Um sistema de registo de todas as atividades e ocorrências, medidas de controlo adotadas e resultados obtidos nas análises efetuadas.\n\n4 - O sistema de registo previsto na alínea i) do número anterior deve contemplar:\n\na) Datas de início e conclusão das atividades de limpeza e desinfeção, manutenção, monitorização, tratamento e verificação de ocorrências, incluindo paragens e arranques de torres de arrefecimento e desvios aos limiares de referência microbiológicos para a bactéria Legionella;\n\nb) Assinatura do técnico responsável pelas tarefas realizadas;\n\nc) Datas das auditorias realizadas nos termos do artigo 8.º, respetivos resultados, e medidas adotadas na sua sequência.\n\n5 - O Plano deve manter-se atualizado e ser revisto sempre que necessário em face de uma análise de risco, e designadamente quando:\n\na) Houver mudanças significativas nas redes, sistemas ou equipamentos sobre os quais versa;\n\nb) For identificada a ineficácia de medidas preventivas ou corretivas;\n\nc) Existir nova informação sobre risco e medidas de controlo.\n\n6 - Os responsáveis pelos equipamentos, redes ou sistemas devem manter os documentos e registos previstos no presente artigo durante um período mínimo de cinco anos."
+  },
+  "116125940": {
+   "fragment_id": "116125854",
+   "type": 11,
+   "heading": "Artigo 7.º — Programa de monitorização e tratamento da água",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Programa de monitorização e tratamento da água\n\n1 - O programa de monitorização e tratamento da água previsto na alínea g) do n.º 3 do artigo anterior deve ser realizado nos termos a definir por despacho dos membros do Governo responsáveis pelas áreas da saúde e do ambiente.\n\n2 - Os ensaios laboratoriais incluídos no programa de monitorização e tratamento da água devem, de acordo com a periodicidade que resulte da análise de risco prevista no n.º 2 do artigo anterior, ser realizados por laboratórios acreditados pelo Instituto Português de Acreditação, I. P. (IPAC, I. P.), ou por entidade homóloga signatária do acordo multilateral relevante da European co-operation for Accreditation."
+  },
+  "116125941": {
+   "fragment_id": "116125855",
+   "type": 11,
+   "heading": "Artigo 8.º — Auditorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Auditorias\n\n1 - Os equipamentos referidos na alínea a) do n.º 1 do artigo 2.º ficam sujeitos a auditorias a realizar de três em três anos, por entidades acreditadas pelo IPAC, I. P., ou por entidade homóloga signatária do acordo multilateral relevante da European co-operation for Accreditation.\n\n2 - As auditorias referidas no número anterior devem contemplar, designadamente, uma avaliação do estado de conservação dos equipamentos, a identificação de não conformidades relativamente às regras construtivas, de instalação ou de localização, bem como uma avaliação da adequação do Plano em vigor.\n\n3 - Nas situações em que da auditoria realizada resulte a necessidade de adotar medidas ou de introduzir alterações ao Plano, a sua concretização deve ser registada nos termos da alínea c) do n.º 4 do artigo 6.º"
+  },
+  "116125942": {
+   "fragment_id": "116125856",
+   "type": 11,
+   "heading": "Artigo 9.º — Procedimento em situação de risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Procedimento em situação de risco\n\n1 - Nas situações de risco, de acordo com a classificação a fixar em portaria pelo membro do Governo responsável pela área da saúde, o responsável deve adotar as medidas nela fixadas em função da classificação de risco de contaminação e de disseminação de Legionella que decorra dos resultados analíticos apurados, designadamente no âmbito do programa de monitorização e tratamento da água.\n\n2 - Nas situações de risco elevado, de acordo com a classificação fixada na portaria a que se refere o número anterior, o responsável deve comunicar à autoridade de saúde local, num prazo de 48 horas da deteção da situação, os resultados analíticos e as medidas adotadas.\n\n3 - Para efeitos do disposto no número anterior, o responsável deve preencher o formulário que consta da portaria prevista no n.º 1, anexando o respetivo boletim de análise."
+  },
+  "116125943": {
+   "fragment_id": "116125857",
+   "type": 11,
+   "heading": "Artigo 10.º — Procedimento em situações de cluster ou surto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Procedimento em situações de cluster ou surto\n\n1 - Em situação de cluster ou surto deve ser realizada uma investigação ambiental, como parte da investigação epidemiológica, com o objetivo de identificar os locais que constituem possíveis fontes de contaminação e disseminação de Legionella, considerando-se como:\n\na) «Cluster», dois ou mais casos com critério clínico de doença dos legionários que inicialmente parecem estar ligados no espaço, nomeadamente por área de residência ou trabalho, e que têm proximidade suficiente nas datas de início da doença para justificar mais investigação;\n\nb) «Surto», a ocorrência de dois ou mais casos com critério clínico de doença dos legionários em que o aparecimento da doença está intimamente ligado no tempo e no espaço, designadamente onde há suspeita ou evidência de uma fonte comum de infeção, com ou sem confirmação laboratorial.\n\n2 - A investigação referida no número anterior é da responsabilidade da autoridade de saúde local, em articulação com a autoridade de saúde regional e nacional e envolvendo, sempre que necessário, a colaboração de outras entidades públicas em razão da matéria.\n\n3 - A investigação referida no n.º 1 requer:\n\na) O levantamento das possíveis fontes de contaminação e disseminação, recorrendo à informação existente, nomeadamente na plataforma de registo prevista no artigo 5.º;\n\nb) A consulta dos Planos previstos no artigo 6.º no que respeita às fontes de contaminação e disseminação identificadas na alínea anterior e a identificação dos fatores de risco para efeitos de seleção dos pontos de amostragem;\n\nc) A colheita de amostras de água e, sempre que se justifique, de biofilmes, que deve ser realizada por laboratórios acreditados para o efeito pelo IPAC, I. P., ou em caso de ausência, por técnicos de saúde ambiental, engenheiros sanitaristas ou técnicos de colheita de amostras certificados para o efeito por entidade acreditada pelo IPAC, I. P.;\n\nd) O envio das amostras, devidamente acondicionadas e identificadas, para laboratório acreditado nos termos do n.º 2 do artigo 7.º, para pesquisa e quantificação de Legionella.\n\n4 - No decurso da investigação referida no n.º 1, a autoridade de saúde local pode determinar a adoção de medidas de emergência para controlar os riscos para a saúde, de acordo com a avaliação de risco efetuada.\n\n5 - A autoridade de saúde local deve elaborar, até duas semanas após a notificação dos primeiros casos, um relatório preliminar com os resultados da investigação epidemiológica e ambiental disponíveis à data e as medidas de emergência implementadas.\n\n6 - O relatório final da investigação ambiental e da investigação epidemiológica deve ser elaborado até 30 dias após a conclusão da investigação, devendo contemplar os respetivos resultados e conclusões, bem como as medidas implementadas.\n\n7 - Na sequência do relatório previsto no número anterior, a autoridade de saúde local deve assegurar a implementação de eventuais medidas adicionais necessárias para minimizar o risco de contaminação e disseminação de Legionella, prevenindo o aparecimento de novos casos.\n\n8 - A autoridade de saúde local articula-se, sempre que seja considerado necessário, com a autoridade de saúde regional e nacional."
+  },
+  "116125944": {
+   "fragment_id": "116125858",
+   "type": 11,
+   "heading": "Artigo 11.º — Estratégia de prevenção e controlo da doença dos legionários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Estratégia de prevenção e controlo da doença dos legionários\n\nA Direção-Geral da Saúde (DGS), enquanto autoridade de saúde nacional, em articulação com as autoridades regionais e locais de saúde pública e o Instituto Nacional de Saúde Doutor Ricardo Jorge (INSA, I. P.), assegura a existência de uma estratégia de prevenção e controlo da doença dos legionários (Estratégia)."
+  },
+  "116125945": {
+   "fragment_id": "116125859",
+   "type": 11,
+   "heading": "Artigo 12.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Objetivos\n\nConstituem objetivos da Estratégia:\n\na) Promoção da saúde e segurança dos cidadãos;\n\nb) Definição e estabelecimento de medidas de prevenção primária e controlo da bactéria Legionella;\n\nc) Identificação e avaliação dos perigos e fatores de risco;\n\nd) Estabelecimento e implementação de medidas nas diversas vertentes que se revelem necessárias;\n\ne) Redução significativa do número de casos de infeção por Legionella."
+  },
+  "116125946": {
+   "fragment_id": "116125860",
+   "type": 11,
+   "heading": "Artigo 13.º — Articulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Articulação\n\nA Estratégia deve articular-se com os demais programas da responsabilidade da DGS, nomeadamente os de Saúde Ocupacional e de Prevenção e Controlo de Infeções e de Resistência aos Antimicrobianos (PPCIRA)."
+  },
+  "116125947": {
+   "fragment_id": "116125861",
+   "type": 11,
+   "heading": "Artigo 14.º — Financiamento e meios humanos da Estratégia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Financiamento e meios humanos da Estratégia\n\nCabe ao Governo a atribuição à DGS, às unidades regionais e locais de saúde pública e ao INSA, I. P., das condições materiais, financeiras e humanas para o funcionamento regular da Estratégia de acordo com a presente lei."
+  },
+  "116125948": {
+   "fragment_id": "116125862",
+   "type": 11,
+   "heading": "Artigo 15.º — Plataforma de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Plataforma de registo\n\n1 - A plataforma de registo mencionada no artigo 5.º é desenvolvida pelos Serviços Partilhados do Ministério da Saúde, E. P. E., ficando a sua gestão e operação a cargo da DGS, sem prejuízo do disposto no número seguinte.\n\n2 - A plataforma referida no artigo anterior é disponibilizada, sem encargos, às Regiões Autónomas dos Açores e da Madeira, para efeitos do artigo 25.º\n\n3 - O Fundo Ambiental, criado pelo Decreto-Lei n.º 42-A/2016, de 12 de agosto, apoia financeiramente o desenvolvimento e a gestão da plataforma prevista nos números anteriores, nos termos definidos no despacho previsto no artigo 7.º do Decreto-Lei n.º 42-A/2016, de 12 de agosto."
+  },
+  "116125949": {
+   "fragment_id": "116125863",
+   "type": 1,
+   "heading": "Capítulo IV — Fiscalização e regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Fiscalização e regime sancionatório"
+  },
+  "116125950": {
+   "fragment_id": "116125864",
+   "type": 11,
+   "heading": "Artigo 16.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Fiscalização\n\n1 - A fiscalização do cumprimento das obrigações previstas no artigo 3.º compete às seguintes entidades administrativas com competências de fiscalização e inspeção em função do local onde se encontrem instalados os equipamentos, redes e sistemas, ou das atividades a que estes estão afetos:\n\na) Autoridade de Segurança Alimentar e Económica;\n\nb) Autoridade para as Condições do Trabalho;\n\nc) Entidade Reguladora da Saúde;\n\nd) Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território;\n\ne) Inspeção-Geral das Atividades em Saúde.\n\n2 - Todas as ações de fiscalização e auditorias aos equipamentos previstos na alínea a) do n.º 1 do artigo 2.º são, nos termos do n.º 5 do artigo 5.º, objeto de registo na plataforma."
+  },
+  "116125951": {
+   "fragment_id": "116125865",
+   "type": 11,
+   "heading": "Artigo 17.º — Instrução dos processos e aplicação de sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Instrução dos processos e aplicação de sanções\n\n1 - Sem prejuízo das competências atribuídas por lei a outras entidades, compete às entidades fiscalizadoras mencionadas no artigo anterior instruir os processos relativos às contraordenações previstas no presente capítulo, e decidir sobre a aplicação de eventuais medidas cautelares, coimas e sanções acessórias.\n\n2 - A DGS presta às entidades autuantes toda a colaboração técnica e científica de que estas necessitem no âmbito dos processos de contraordenação, sempre que solicitada."
+  },
+  "116125952": {
+   "fragment_id": "116125866",
+   "type": 11,
+   "heading": "Artigo 18.º — Medidas cautelares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Medidas cautelares\n\nQuando se revele necessário para a instrução do processo de contraordenação ou seja detetada uma situação que constitua perigo para a saúde pública, para a segurança em locais de trabalho ou em estabelecimentos ou instalações de uso e fruição pública, a entidade que instrui o processo deve tomar de imediato as providências adequadas para eliminar a situação de perigo, podendo determinar, por um prazo de seis meses:\n\na) A suspensão da atividade;\n\nb) O encerramento preventivo, no todo ou em parte, do estabelecimento ou instalação;\n\nc) A apreensão do equipamento ou parte dele mediante selagem."
+  },
+  "116125953": {
+   "fragment_id": "116125867",
+   "type": 11,
+   "heading": "Artigo 19.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Contraordenações\n\n1 - Constitui contraordenação punível com coima de (euro) 500 a (euro) 4000, no caso de pessoas singulares, e de (euro) 2500 a (euro) 44 890, no caso de pessoas coletivas, o incumprimento da obrigação de:\n\na) Elaborar, executar, cumprir ou rever o Plano, nos termos do disposto nos n.os 1 e 2 do artigo 3.º e nos n.os 1 e 5 do artigo 6.º;\n\nb) Realizar auditorias, nos termos do disposto no n.º 1 do artigo 3.º e nos n.os 1 e 2 do artigo 8.º;\n\nc) Adotar o procedimento aplicável em situação de risco, nos termos do disposto nos n.os 1 e 2 do artigo 3.º e no artigo 9.º;\n\nd) Proceder ao registo, nos termos do disposto no n.º 1 do artigo 3.º e no n.º 1 do artigo 5.º;\n\ne) Adotar as medidas determinadas pela autoridade de saúde em caso de cluster ou surto, nos termos do n.º 4 do artigo 3.º e do artigo 10.º\n\n2 - Constitui contraordenação punível com coima de (euro) 250 a (euro) 2000, no caso de pessoas singulares, e de (euro) 1500 a (euro) 20 000, no caso de pessoas coletivas:\n\na) O incumprimento da obrigação de elaborar e aplicar o programa de manutenção e limpeza previsto no n.º 3 do artigo 3.º;\n\nb) O registo incompleto de cada equipamento, em violação do disposto no n.º 2 do artigo 5.º;\n\nc) O incumprimento dos prazos para o registo de equipamentos, nos termos dos n.os 2 e 3 do artigo 5.º e do n.º 2 do artigo 26.º;\n\nd) O incumprimento da obrigação de manutenção de documentos e registos, nos termos do disposto no n.º 6 do artigo 6.º\n\n3 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.\n\n4 - A condenação pela prática das contraordenações previstas nos números anteriores é comunicada à DGS no prazo de 15 dias após trânsito em julgado da decisão condenatória."
+  },
+  "116125954": {
+   "fragment_id": "116125868",
+   "type": 11,
+   "heading": "Artigo 20.º — Responsabilidade contraordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Responsabilidade contraordenacional\n\n1 - Os administradores, gerentes e outras pessoas que exerçam, ainda que somente de facto, funções de administração em pessoas coletivas ou outras entidades equiparadas são subsidiariamente responsáveis:\n\na) Pelas coimas aplicadas a infrações por factos praticados no período do exercício do seu cargo ou por factos anteriores, quando lhes seja imputável a insuficiência do património da pessoa coletiva para o pagamento das coimas;\n\nb) Pelas coimas devidas por factos anteriores, quando a decisão definitiva que as aplicar for notificada durante o período do exercício do seu cargo e lhes seja imputável a falta de pagamento;\n\nc) Pelas custas processuais decorrentes dos processos instaurados no âmbito da presente lei.\n\n2 - A responsabilidade subsidiária prevista no número anterior é solidária se forem várias as pessoas a praticar os atos ou omissões culposos de que resulte a insuficiência do património das entidades em causa para o pagamento das coimas.\n\n3 - Presume-se a insuficiência de património em caso de declaração de insolvência e de dissolução e encerramento da liquidação.\n\n4 - No caso de sociedades comerciais que estejam em relação de grupo ou domínio, a responsabilidade estende-se solidariamente à sociedade mãe ou à sociedade dominante."
+  },
+  "116125955": {
+   "fragment_id": "116125869",
+   "type": 11,
+   "heading": "Artigo 21.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Sanções acessórias\n\n1 - Em função da gravidade da conduta e da culpa do agente, podem ser aplicadas, cumulativamente com a coima, as sanções acessórias que, de entre as seguintes, se mostrem adequadas:\n\na) Perda de objetos pertencentes ao agente;\n\nb) Interdição do exercício de profissão ou atividade que dependa de título, autorização ou homologação de autoridade pública;\n\nc) Suspensão de autorizações, licenças e alvarás;\n\nd) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos.\n\n2 - As sanções acessórias previstas nas alíneas b) a d) do número anterior têm a duração máxima de dois anos, contados a partir do trânsito em julgado da decisão condenatória.\n\n3 - Pode ser objeto de publicidade, nos termos do disposto no regime geral das contraordenações, a condenação pela prática das infrações previstas no n.º 1 do artigo anterior, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstrata aplicável."
+  },
+  "116125956": {
+   "fragment_id": "116125870",
+   "type": 11,
+   "heading": "Artigo 22.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Produto das coimas\n\nO produto das coimas é repartido da seguinte forma:\n\na) 10 % para a entidade que levanta o auto de notícia;\n\nb) 10 % para a entidade responsável pela gestão da plataforma de registo;\n\nc) 20 % para a entidade que procede à instrução e decisão do processo, revertendo para a DGS um quarto desse montante nos casos em que esta colabore na instrução e decisão do processo;\n\nd) 60 % para o Estado."
+  },
+  "116125957": {
+   "fragment_id": "116125871",
+   "type": 1,
+   "heading": "Capítulo V — Alterações legislativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Alterações legislativas"
+  },
+  "116125958": {
+   "fragment_id": "116125872",
+   "type": 11,
+   "heading": "Artigo 23.º — Alteração ao Decreto-Lei n.º 118/2013, de 20 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Alteração ao Decreto-Lei n.º 118/2013, de 20 de agosto\n\nO artigo 12.º do Decreto-Lei n.º 118/2013, de 20 de agosto, passa a ter a seguinte redação:\n\n«Artigo 12.º\n\n[...]\n\n1 - (Anterior corpo do artigo.)\n\n2 - O disposto no número anterior não prejudica as competências das entidades a que se refere a legislação especial que estabelece o regime de prevenção e controlo da doença dos legionários.»"
+  },
+  "116125959": {
+   "fragment_id": "116125873",
+   "type": 11,
+   "heading": "Artigo 24.º — Aditamento ao Decreto-Lei n.º 118/2013, de 20 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Aditamento ao Decreto-Lei n.º 118/2013, de 20 de agosto\n\nÉ aditado ao Decreto-Lei n.º 118/2013, de 20 de agosto, o artigo 12.º-A, com a seguinte redação:\n\n«Artigo 12.º-A\n\nAvaliação de presença de colónias de Legionella\n\nÉ aplicável à avaliação de presença de colónias de Legionella, no contexto da qualidade do ar interior em edifícios abrangidos pelo presente diploma, o disposto na legislação especial que estabelece o regime de prevenção e controlo da doença dos legionários.»"
+  },
+  "116125960": {
+   "fragment_id": "116125874",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "116125961": {
+   "fragment_id": "116126375",
+   "type": 11,
+   "heading": "Artigo 25.º — Regiões autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Regiões autónomas\n\n1 - A presente lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo da sua adequação à especificidade regional, a introduzir através de decreto legislativo regional, cabendo a sua execução aos serviços competentes das respetivas administrações regionais.\n\n2 - O produto das coimas aplicadas nas regiões autónomas constitui receita própria das mesmas."
+  },
+  "116125962": {
+   "fragment_id": "116126376",
+   "type": 11,
+   "heading": "Artigo 26.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Norma transitória\n\n1 - A DGS elabora e disponibiliza, no seu sítio na Internet, até à data de entrada em vigor da presente lei:\n\na) Um glossário técnico relativo aos equipamentos, redes e sistemas referidos no n.º 1 do artigo 2.º;\n\nb) Um guia prático de orientação para os operadores responsáveis pela sua aplicação;\n\nc) Uma linha ou endereço eletrónico específico para esclarecimento de questões relacionadas com a sua aplicação.\n\n2 - A plataforma eletrónica prevista no artigo 5.º entra em funcionamento no prazo de seis meses a contar da data de entrada em vigor da presente lei.\n\n3 - O registo dos equipamentos já existentes à data de entrada em funcionamento da plataforma eletrónica referida no número anterior deve ser efetuado durante um prazo de seis meses, contados a partir da data da divulgação pública dessa entrada em funcionamento, que é feita no sítio na Internet da DGS, bem como através de anúncio num jornal de dimensão nacional.\n\n4 - O Plano previsto no artigo 6.º deve ser elaborado pelos operadores no prazo de três meses após a publicação do despacho previsto no n.º 1 do artigo 7.º\n\n5 - A primeira auditoria aos equipamentos referidos na alínea a) do n.º 1 do artigo 2.º, prevista no artigo 8.º, deve ser realizada até seis meses após a entrada em funcionamento da plataforma eletrónica prevista no artigo 5.º"
+  },
+  "116125963": {
+   "fragment_id": "116126377",
+   "type": 11,
+   "heading": "Artigo 27.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Regulamentação\n\nO Governo regulamenta a presente lei no prazo de 30 dias a contar da data da sua publicação."
+  },
+  "116125964": {
+   "fragment_id": "116126378",
+   "type": 11,
+   "heading": "Artigo 28.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Republicação\n\nÉ republicado no anexo ii da presente lei, da qual faz parte integrante, o Decreto-Lei n.º 118/2013, de 20 de agosto, na redação atual."
+  },
+  "116125965": {
+   "fragment_id": "116126379",
+   "type": 11,
+   "heading": "Artigo 29.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "116125967": {
+   "fragment_id": "116126381",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 2 do artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 2 do artigo 5.º)\n\nFormulário de registo do equipamento\n\n- Designação da instalação;\n\n- Endereço da instalação;\n\n- Coordenadas geográficas;\n\n- Responsável pela instalação;\n\n- Contacto telefónico do responsável pela instalação;\n\n- Número de registo do equipamento (atribuído pelo sistema de registo);\n\n- Identificação do equipamento (informação para cada equipamento existente na instalação):\n\n. Tipo de equipamento (torre de arrefecimento, condensador evaporativo, etc.)\n\n. Marca\n\n. Modelo\n\n. Número de série\n\n. Data de entrada em funcionamento\n\n. Potência térmica\n\n. Caudal mássico\n\n. Caraterísticas do meio de enchimento e data de validade, quando aplicável\n\n. Tipo de sistema antigotículas\n\n. Altura da conduta das torres\n\n- Regime de funcionamento (contínuo, sazonal ou intermitente);\n\n- Proveniência da água de arrefecimento (rede pública ou outra) - caso a proveniência da água de arrefecimento não seja da rede pública deve ser concretizada a sua origem (subterrânea ou superficial);\n\n- Informação sobre o tipo de tratamento da água de arrefecimento, quando aplicável."
+  },
+  "116125968": {
+   "fragment_id": "116126382",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 28.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 28.º)\n\nRepublicação do Decreto-Lei n.º 118/2013, de 20 de agosto, que aprova o Sistema de Certificação Energética dos Edifícios, o Regulamento de Desempenho Energético dos Edifícios de Habitação e o Regulamento de Desempenho Energético dos Edifícios de Comércio e Serviços."
+  },
+  "116125969": {
+   "fragment_id": "116126383",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "116125970": {
+   "fragment_id": "116126384",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente diploma visa assegurar e promover a melhoria do desempenho energético dos edifícios através do Sistema Certificação Energética dos Edifícios (SCE), que integra o Regulamento de Desempenho Energético dos Edifícios de Habitação (REH), e o Regulamento de Desempenho Energético dos Edifícios de Comércio e Serviços (RECS).\n\n2 - O presente diploma transpõe para a ordem jurídica nacional a Diretiva n.º 2010/31/UE, do Parlamento Europeu e do Conselho, de 19 de maio de 2010, relativa ao desempenho energético dos edifícios."
+  },
+  "116125971": {
+   "fragment_id": "116126385",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do SCE, entende-se por:\n\na) «Água quente sanitária» ou «AQS», a água potável aquecida em dispositivo próprio, com energia convencional ou renovável, até uma temperatura superior a 45ºC, e destinada a banhos, limpezas, cozinha ou fins análogos;\n\nb) «Alteração relevante de classe energética», a alteração de classe energética que resulte de um desvio superior a 5 % face ao valor apurado para o rácio que conduz à determinação da classe energética obtido no decorrer do procedimento de verificação da qualidade;\n\nc) «Área de cobertura», a área, medida pelo interior, dos elementos opacos da envolvente horizontais ou com inclinação inferior a 60º que separam superiormente o espaço interior útil do exterior ou de espaços não úteis adjacentes;\n\nd) «Área total de pavimento», o somatório da área de pavimento de todas as zonas térmicas de edifícios ou frações no âmbito do RECS, desde que tenham consumo de energia elétrica ou térmica, registado no contador geral do edifício ou fração, independentemente da sua função e da existência de sistema de climatização, sendo a área medida pelo interior dos elementos que delimitam as zonas térmicas do exterior e entre si;\n\ne) «Área interior útil de pavimento», o somatório das áreas, medidas em planta pelo perímetro interior, de todos os espaços interiores úteis pertencentes ao edifício ou fração em estudo no âmbito do REH. No âmbito do RECS, considera-se o somatório da área de pavimento de todas as zonas térmicas do edifício ou fração, desde que tenham consumo de energia elétrica ou térmica, registado no contador, independentemente da sua função e da existência de sistema de climatização, sendo a área medida pelo interior dos elementos que delimitam as zonas térmicas do exterior e entre si;\n\nf) «Armazéns, estacionamento, oficinas e similares», os edifícios ou frações que, no seu todo, são destinados a usos para os quais a presença humana não é significativa, incluindo-se nessa situação, sem limitar, os armazéns frigoríficos, os arquivos, os estacionamentos de veículos e os centros de armazenamento de dados;\n\ng) «Avaliação energética», a avaliação detalhada das condições de exploração de energia de um edifício ou fração, com vista a identificar os diferentes vetores energéticos e a caracterizar os consumos energéticos, podendo incluir, entre outros aspetos, o levantamento das características da envolvente e dos sistemas técnicos, a caracterização dos perfis de utilização e a quantificação, monitorização e a simulação dinâmica dos consumos energéticos;\n\nh) «Certificado SCE», o documento com número próprio, emitido por perito qualificado para a certificação energética para um determinado edifício ou fração, caracterizando-o em termos de desempenho energético;\n\ni) «Cobertura inclinada», a cobertura de um edifício que disponha de uma pendente igual ou superior a 8 %;\n\nj) «Coeficiente de transmissão térmica», a quantidade de calor por unidade de tempo que atravessa uma superfície de área unitária desse elemento da envolvente por unidade de diferença de temperatura entre os ambientes que o elemento separa;\n\nk) «Coeficiente de transmissão térmica médio dia-noite de um vão envidraçado», a média dos coeficientes de transmissão térmica de um vão envidraçado com a proteção aberta (posição típica durante o dia) e fechada (posição típica durante a noite) e que se toma como valor de base para o cálculo das perdas térmicas pelos vãos envidraçados de um edifício em que haja ocupação noturna importante, designadamente em habitações, estabelecimentos hoteleiros e similares ou zonas de internamento em hospitais;\n\nl) «Componente», o sistema técnico do edifício ou fração ou um elemento da sua envolvente cuja existência e características influenciem o desempenho do edifício, nos termos e parâmetros previstos para esse efeito no presente diploma;\n\nm) «Corpo», a parte de um edifício com identidade própria significativa que comunique com o resto do edifício através de ligações restritas;\n\nn) «Edifício», a construção coberta, com paredes e pavimentos, destinada à utilização humana;\n\no) «Edifício adjacente», um edifício que confine com o edifício em estudo e não partilhe espaços comuns com este, tais como zonas de circulação ou de garagem;\n\np) «Edifício de comércio e serviços», o edifício, ou parte, licenciado ou que seja previsto licenciar para utilização em atividades de comércio, serviços ou similares;\n\nq) «Edifício devoluto», o edifício considerado como tal nos termos do disposto no Decreto-Lei n.º 159/2006, de 8 de agosto, ou como tal declarado pela Direção-Geral do Tesouro e Finanças (DGTF) no âmbito das respetivas atribuições;\n\nr) «Edifício em ruínas», o imóvel existente com tal degradação da sua envolvente que, para efeitos do presente decreto-lei, fica prejudicada, total ou parcialmente, a sua utilização para o fim a que se destina, tal como comprovado por declaração da DGTF no âmbito das respetivas atribuições, por declaração da câmara municipal respetiva ou pelo perito qualificado, cumprindo a este último proceder ao respetivo registo no SCE;\n\ns) «Edifício em tosco», o edifício sem revestimentos interiores nem sistemas técnicos instalados e de que se desconheçam ainda os detalhes de uso efetivo;\n\nt) «Edifício existente», aquele que não seja edifício novo;\n\nu) «Edifício misto», o edifício utilizado, em partes distintas, como edifício de habitação e edifício de comércio e serviços;\n\nv) «Edifício novo», edifício cujo processo de licenciamento ou autorização de edificação tenha data de entrada junto das entidades competentes, determinada pela data de entrada do projeto de arquitetura, posterior à data de entrada em vigor do presente diploma;\n\nw) «Edifício sujeito a intervenção», o edifício sujeito a obra de construção, reconstrução, alteração, ampliação, instalação ou modificação de um ou mais componentes com influência no seu desempenho energético, calculado nos termos e parâmetros do presente diploma;\n\nx) «Energia primária», a energia proveniente de fontes renováveis ou não renováveis não transformada ou convertida;\n\ny) «Energias renováveis», a energia de fontes não fósseis renováveis, designadamente eólica, solar, aerotérmica, geotérmica, hidrotérmica e oceânica, hídrica, de biomassa e de biogás;\n\nz) «Envolvente», o conjunto de elementos de construção do edifício ou fração, compreendendo as paredes, pavimentos, coberturas e vãos, que separam o espaço interior útil do ambiente exterior, dos edifícios ou frações adjacentes, dos espaços não úteis e do solo;\n\naa) «Espaço complementar», a zona térmica sem ocupação humana permanente atual ou prevista e sem consumo de energia atual ou previsto associado ao aquecimento ou arrefecimento ambiente, incluindo cozinhas, lavandarias e centros de armazenamento de dados;\n\nbb) «Exposição solar adequada», a exposição à luz solar de edifício que disponha de cobertura em terraço ou de cobertura inclinada com água, cuja normal esteja orientada numa gama de azimutes de 90º entre sudeste e sudoeste, não sombreada por obstáculos significativos no período que se inicia diariamente duas horas depois do nascer do Sol e termina duas horas antes do ocaso;\n\ncc) «Espaço interior útil», o espaço com condições de referência no âmbito do REH, compreendendo compartimentos que, para efeito de cálculo das necessidades energéticas, se pressupõem aquecidos ou arrefecidos de forma a manter uma temperatura interior de referência de conforto térmico, incluindo os espaços que, não sendo usualmente climatizados, tais como arrumos interiores, despensas, vestíbulos ou instalações sanitárias, devam ser considerados espaços com condições de referência;\n\ndd) «Fator solar de um vão envidraçado», o valor da relação entre a energia solar transmitida para o interior através do vão envidraçado e a radiação solar nele incidente;\n\nee) «Fração», a unidade mínima de um edifício, com saída própria para uma parte de uso comum ou para a via pública, independentemente da constituição de propriedade horizontal;\n\nff) «Grande edifício de comércio e serviços» ou «GES», o edifício de comércio e serviços cuja área interior útil de pavimento, descontando os espaços complementares, iguale ou ultrapasse 1000 m2, ou 500 m2 no caso de centros comerciais, hipermercados, supermercados e piscinas cobertas;\n\ngg) «Grande intervenção», a intervenção em edifício em que se verifique que: (i) o custo da obra relacionada com a envolvente e ou com os sistemas técnicos seja superior a 25 % do valor da totalidade do edifício, compreendido, quando haja frações, como o conjunto destas, com exclusão do valor do terreno em que este está implantado; e ou (ii) tratando-se de ampliação, o custo da parte ampliada exceda em 25 % o valor do edifício existente (da área interior útil de pavimento, no caso de edifícios de comércio e serviços) respeitante à totalidade do edifício, devendo ser considerado, para determinação do valor do edifício, o custo de construção da habitação por metro quadrado, fixado anualmente para as diferentes zonas do país, por portaria dos membros do Governo responsáveis pelas áreas da energia e do ordenamento do território;\n\nhh) «Indicador de eficiência energética», ou «IEE», o indicador de eficiência energética do edifício, expresso por ano em unidades de energia primária por metro quadrado de área interior útil de pavimento (kWh/m2.ano), distinguindo-se, pelo menos, três tipos: o IEE previsto (IEEpr), o efetivo (IEEef) e o de referência (IEEref);\n\nii) «Limiar de proteção», o valor de concentração de um poluente no ar interior que não pode ser ultrapassado, fixado com a finalidade de evitar, prevenir ou reduzir os efeitos nocivos na saúde humana;\n\njj) «Margem de tolerância», a percentagem em que o limiar de proteção pode ser excedido, nos termos do presente diploma;\n\nkk) «Pequeno edifício de comércio e serviços» ou «PES», o edifício de comércio e serviços que não seja um GES;\n\nll) «Perfil de utilização», a distribuição percentual da ocupação e da utilização de sistemas por hora, em função dos valores máximos previstos, diferenciada por tipo de dia da semana;\n\nmm) «Perito qualificado» ou «PQ», o técnico com título profissional de perito qualificado para a certificação energética, nos termos da Lei n.º 58/2013, de 20 de agosto;\n\nnn) «Plano de racionalização energética» ou «PRE», o conjunto de medidas exequíveis e economicamente viáveis de racionalização do consumo ou dos custos com a energia, tendo em conta uma avaliação energética prévia;\n\noo) «Portal SCE», a zona do sítio na Internet da ADENE, com informação relativa ao SCE, composta, pelo menos, por uma zona de acesso público para pesquisa de pré-certificados e certificados SCE e de técnicos do SCE, e por uma zona de acesso reservado para elaboração e registo de documentos pelos técnicos do SCE;\n\npp) «Potência térmica», a potência térmica máxima que um equipamento pode fornecer para efeitos de aquecimento ou arrefecimento do ambiente, em condições de ensaio normalizadas;\n\nqq) «Pré-certificado», o certificado SCE para edifícios novos ou frações em edifícios novos, bem como para edifícios ou frações sujeitas a grandes intervenções, emitido em fase de projeto antes do início da construção ou grande intervenção;\n\nrr) «Proprietário», o titular do direito de propriedade ou o titular de outro direito de gozo sobre um edifício ou fração desde que, para os efeitos do RECS, detenha também o controlo dos sistemas de climatização e respetivos consumos e seja o credor contratual do fornecimento de energia, exceto nas ocasiões de nova venda, dação em cumprimento ou locação pelo titular do direito de propriedade;\n\nss) «Regime jurídico da urbanização e da edificação» ou «RJUE», o regime jurídico aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro;\n\ntt) «Simulação dinâmica», a previsão de consumos de energia correspondentes ao funcionamento de um edifício e respetivos sistemas energéticos que tome em conta a evolução de todos os parâmetros relevantes com a precisão adequada, numa base de tempo pelo menos horária, para diferentes zonas térmicas e condições climáticas de um ano de referência;\n\nuu) «Sistema de climatização», o conjunto de equipamentos coerentemente combinados com vista a satisfazer objetivos da climatização, designadamente, ventilação, aquecimento, arrefecimento, humidificação, desumidificação e filtragem do ar;\n\nvv) «Sistema de climatização centralizado», o sistema de climatização em que os equipamentos de produção térmica se concentrem numa instalação e num local distintos dos espaços a climatizar, sendo o frio, calor ou humidade transportados por um fluido térmico;\n\nww) «Sistema solar térmico», o sistema composto por um coletor capaz de captar a radiação solar e transferir a energia a um fluido interligado a um sistema de acumulação, permitindo a elevação da temperatura da água neste armazenada;\n\nxx) «Sistema passivo», o sistema construtivo concebido especificamente para reduzir as necessidades energéticas dos edifícios, sem comprometer o conforto térmico dos ocupantes, através do aumento dos ganhos solares, designadamente ganhos solares diretos, paredes de trombe ou estufas, na estação de aquecimento ou através do aumento das perdas térmicas, designadamente ventilação, arrefecimento evaporativo, radiativo ou pelo solo, na estação de arrefecimento;\n\nyy) «Sistema técnico», o conjunto dos equipamentos associados ao processo de climatização, incluindo o aquecimento, arrefecimento e ventilação natural, mecânica ou híbrida, a preparação de águas quentes sanitárias e a produção de energia renovável, bem como, nos edifícios de comércio e serviços, os sistemas de iluminação e de gestão de energia, os elevadores e as escadas rolantes;\n\nzz) «Técnico autor do projeto», o técnico legalmente habilitado para realizar o projeto e responsável pelo cumprimento da legislação aplicável;\n\naaa) «Técnico de instalação e manutenção» ou «TIM», o detentor de título profissional de técnico de instalação e manutenção de edifícios e sistemas, nos termos da Lei n.º 58/2013, de 20 de agosto;\n\nbbb) «Tipo de espaço», a diferenciação funcional de espaços, independentemente do edifício onde se encontrem inseridos;\n\nccc) «Ventilação mecânica», aquela que não seja ventilação natural;\n\nddd) «Ventilação natural», a ventilação ao longo de trajetos de fugas e de aberturas no edifício, em consequência das diferenças de pressão, sem auxílio de componentes motorizados de movimentação do ar;\n\neee) (Revogada.)\n\nfff) «Zona térmica», o espaço ou conjunto de espaços passíveis de serem considerados em conjunto devido às suas similaridades em termos de perfil de utilização, iluminação e equipamentos, ventilação mecânica e sistema de climatização e, quanto aos espaços climatizados, igualmente devido às similaridades em termos de condições de exposição solar, sendo que os pequenos edifícios de comércio e serviços com uma área útil até 250 m2 podem ser considerados como tendo apenas uma zona térmica;\n\nggg) (Revogada.)\n\nhhh) «Redes urbanas de aquecimento» ou «Redes urbanas de arrefecimento», a distribuição de energia térmica sob a forma de vapor, de água quente ou de líquidos refrigerados a partir de uma fonte de produção central através de um sistema de transporte e distribuição para múltiplos edifícios ou locais, para o aquecimento ou arrefecimento de espaços ou processos industriais."
+  },
+  "116125972": {
+   "fragment_id": "116126386",
+   "type": 1,
+   "heading": "Capítulo II — Sistema de Certificação Energética dos Edifícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Sistema de Certificação Energética dos Edifícios"
+  },
+  "116125973": {
+   "fragment_id": "116126387",
+   "type": 8,
+   "heading": "Secção I — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Âmbito"
+  },
+  "116125974": {
+   "fragment_id": "116126388",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito de aplicação positivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação positivo\n\n1 - São abrangidos pelo SCE, sem prejuízo de isenção de controlo prévio nos termos do RJUE, os edifícios ou frações, novos ou sujeitos a grande intervenção, nos termos do REH e RECS.\n\n2 - Quando, porém, uma fração no sentido da alínea ee) do artigo 2.º, já edificada, não esteja constituída como fração autónoma de acordo com um título constitutivo de propriedade horizontal, só é abrangida pelo SCE a partir do momento em que seja dada em locação.\n\n3 - São também abrangidos pelo SCE os edifícios ou frações existentes de comércio e serviços:\n\na) Com área interior útil de pavimento igual ou superior a 1000 m2, ou 500 m2 no caso de centros comerciais, hipermercados, supermercados e piscinas cobertas; ou\n\nb) Que sejam propriedade de uma entidade pública e tenham área interior útil de pavimento ocupada por uma entidade pública e frequentemente visitada pelo público superior a 500 m2 ou, a partir de 1 de julho de 2015, superior a 250 m2.\n\n4 - São ainda abrangidos pelo SCE todos os edifícios ou frações existentes a partir do momento da sua venda, dação em cumprimento ou locação posterior à entrada em vigor do presente diploma, salvo nos casos de:\n\na) Venda ou dação em cumprimento a comproprietário, a locatário, em processo executivo, a entidade expropriante ou para demolição total confirmada pela entidade licenciadora competente;\n\nb) Locação do lugar de residência habitual do senhorio por prazo inferior a quatro meses;\n\nc) Locação a quem seja já locatário da coisa locada."
+  },
+  "116126475": {
+   "fragment_id": "116126389",
+   "type": 11,
+   "heading": "Artigo 4.º — Âmbito de aplicação negativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Âmbito de aplicação negativo\n\nEstão excluídos do SCE:\n\na) As instalações industriais, pecuárias ou agrícolas não residenciais com necessidades reduzidas de energia ou não residenciais utilizadas por sector abrangido por acordo sectorial nacional sobre desempenho energético;\n\nb) Os edifícios utilizados como locais de culto ou para atividades religiosas;\n\nc) Os edifícios ou as frações exclusivamente destinados a estacionamentos não climatizados e oficinas;\n\nd) Os armazéns em que a presença humana não seja significativa, não ocorrendo por mais de 2 horas/dia ou não representando uma ocupação superior a 0,025 pessoas/m2;\n\ne) Os edifícios unifamiliares na medida em que constituam edifícios autónomos com área útil igual ou inferior a 50 m2;\n\nf) Os edifícios de comércio e serviços devolutos, até à sua venda ou locação depois da entrada em vigor do presente diploma;\n\ng) Os edifícios em ruínas;\n\nh) (Revogada.)\n\ni) (Revogada.)\n\nj) As infraestruturas militares e os edifícios afetos aos sistemas de informações ou a forças e serviços de segurança que se encontrem sujeitos a regras de controlo e de confidencialidade;\n\nk) Os edifícios de comércio e serviços inseridos em instalações sujeitas ao regime aprovado pelo Decreto-Lei n.º 71/2008, de 15 de abril, alterado pela Lei n.º 7/2013, de 22 de janeiro."
+  },
+  "116126476": {
+   "fragment_id": "116126390",
+   "type": 8,
+   "heading": "Secção II — Certificação e recomendações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Certificação e recomendações"
+  },
+  "116126477": {
+   "fragment_id": "116126391",
+   "type": 11,
+   "heading": "Artigo 5.º — Pré-certificado e certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Pré-certificado e certificado\n\n1 - O pré-certificado e o certificado SCE são considerados certificações técnicas para efeitos do disposto no n.º 8 do artigo 13.º do RJUE.\n\n2 - A existência de pré-certificado ou de certificado SCE deve ser verificada aquando:\n\na) Do controlo prévio da realização de operações urbanísticas, pela entidade competente;\n\nb) Da celebração de contratos de compra e venda ou locação, ficando consignado no contrato o número do certificado ou pré-certificado;\n\nc) Da fiscalização das atividades económicas, pelas autoridades administrativas competentes.\n\n3 - Antes do início da construção de edifícios novos ou do início de grandes intervenções, tanto em edifícios de habitação como em edifícios de comércio e serviços, é emitido o pré-certificado o qual tem em conta a viabilidade técnica, ambiental e económica de sistemas alternativos de elevada eficiência, tais como:\n\na) Sistemas descentralizados de fornecimento energético baseados em energias provenientes de fontes renováveis;\n\nb) Cogeração;\n\nc) Redes urbanas ou coletivas de aquecimento ou arrefecimento, em especial baseadas total ou parcialmente em energia proveniente de fontes renováveis;\n\nd) Bombas de calor.\n\n4 - O pré-certificado inclui a análise dos sistemas alternativos que estejam disponíveis por forma a que esta esteja documentada e acessível para efeitos de verificação ulterior pela entidade competente.\n\n5 - As entidades referidas no n.º 2, devem comunicar à ADENE os casos em que não seja evidenciada a existência de pré-certificado ou certificado SCE, identificando o edifício ou fração e o seu anterior e atual proprietário."
+  },
+  "116126478": {
+   "fragment_id": "116126392",
+   "type": 11,
+   "heading": "Artigo 6.º — Objeto da certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Objeto da certificação\n\n1 - Devem ser certificadas todas as frações e edifícios destinados a habitação unifamiliar, nos termos dos artigos anteriores.\n\n2 - Devem ser certificadas frações que se preveja virem a existir após constituição de propriedade horizontal, designadamente nos edifícios recém-constituídos ou meramente projetados.\n\n3 - Podem ser certificados os edifícios, considerando-se sempre certificado um edifício quando estejam certificadas todas as suas frações.\n\n4 - Deve ser certificado todo o edifício de comércio e serviços que disponha de sistema de climatização centralizado para parte ou para a totalidade das suas frações, estando neste caso dispensadas de certificação as frações.\n\n5 - O certificado SCE inclui recomendações para uma melhoria rentável ou otimizada em termos de custos do desempenho energético de um edifício ou de uma fração autónoma, a menos que não haja potencial razoável para essa melhoria em comparação com os requisitos de desempenho energético em vigor.\n\n6 - As recomendações incluídas no certificado SCE abrangem:\n\na) As medidas aplicáveis no quadro de grandes intervenções de renovação da envolvente do edifício ou do sistema ou sistemas técnico do edifício; e\n\nb) As medidas relativas a componentes individuais do edifício, independentemente de grandes intervenções de renovação da envolvente do edifício ou do sistema ou sistemas técnicos do edifício.\n\n7 - As recomendações incluídas no certificado SCE devem ser tecnicamente viáveis para o edifício ou fração autónoma em causa, podendo também fornecer uma estimativa em relação ao leque de períodos de amortização do investimento ou de custos/benefícios em termos de custos ao longo do seu ciclo de vida económico.\n\n8 - O certificado SCE indica onde o proprietário ou o inquilino pode obter informações mais pormenorizadas, inclusive quanto à rentabilidade das recomendações constantes do certificado SCE, cuja avaliação deve basear-se num conjunto de condições-padrão, tais como o cálculo das poupanças de energia, os preços da energia subjacentes e uma previsão preliminar dos custos, contendo igualmente informações sobre as medidas a tomar para pôr em prática as recomendações."
+  },
+  "116126479": {
+   "fragment_id": "116126393",
+   "type": 11,
+   "heading": "Artigo 7.º — Certificação com base noutro edifício ou fração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Certificação com base noutro edifício ou fração\n\n1 - A certificação de uma fração pode basear-se na certificação de todo o edifício.\n\n2 - Nas frações afetas a comércio e serviços, quando disponham de sistemas de climatização individuais, a certificação não pode basear-se apenas na do edifício, devendo atender aos sistemas técnicos existentes.\n\n3 - A certificação de uma fração pode basear-se na certificação de uma fração representativa semelhante situada no mesmo edifício.\n\n4 - O disposto nos números anteriores aplica-se à propriedade horizontal de conjuntos de edifícios e a situações análogas.\n\n5 - A certificação de edifícios destinados a habitação unifamiliar pode basear-se na de outros edifícios representativos de conceção e dimensões semelhantes e com um desempenho energético real semelhante, se a semelhança for atestada pelo PQ.\n\n6 - Pode também ser feita por semelhança, mediante a avaliação de edifício com características semelhantes em termos de desempenho energético, atestadas pelo PQ, a certificação de edifícios em área de reabilitação urbana e efetivamente reabilitados, quando a construção se tenha concluído, em obediência à legislação em vigor, há mais de 30 anos.\n\n7 - Pode ainda ser feita por semelhança, atestada pelo PQ, a certificação de conjuntos de edifícios convizinhos de conceção e dimensões semelhantes e com um desempenho energético semelhante, designadamente no caso de conjuntos destinados a habitação social ou de conjuntos de construção contemporânea uniforme.\n\n8 - Há semelhança entre edifícios ou entre frações quando, de acordo com a experiência e o conhecimento técnico do PQ, seja de todo improvável que esses edifícios ou frações pertençam a classes energéticas diferentes, sendo tal pertença aferida, nomeadamente, em função da homogeneidade nas soluções construtivas e nos sistemas técnicos instalados."
+  },
+  "116126480": {
+   "fragment_id": "116126394",
+   "type": 11,
+   "heading": "Artigo 8.º — Afixação do certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Afixação do certificado\n\n1 - Encontram-se abrangidos pela obrigação de afixação em posição visível e de destaque do certificado SCE válido:\n\na) Os edifícios de comércio e serviços a que se referem os n.os 1 e 2 do artigo 3.º, aquando da sua entrada em funcionamento, sempre que apresentem uma área interior útil de pavimento superior a 500 m2 ou, a partir de 1 de julho de 2015, superior a 250 m2;\n\nb) Os edifícios referidos no n.º 3 do artigo 3.º abrangidos pelo SCE;\n\nc) Os edifícios de comércio e serviços referidos no n.º 4 do artigo 3.º, sempre que apresentem uma área interior útil de pavimento superior a 500 m2 e, a partir de 1 de julho de 2015, superior a 250 m2.\n\n2 - O certificado SCE é afixado na entrada do edifício ou da fração, em conformidade com o artigo 6.º"
+  },
+  "116126481": {
+   "fragment_id": "116126395",
+   "type": 11,
+   "heading": "Artigo 9.º — Recomendações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Recomendações\n\nA ADENE elabora e divulga recomendações, preferencialmente por escrito, aos utilizadores de:\n\na) Sistemas técnicos de aquecimento ambiente com caldeira de potência térmica nominal superior a 20 kW;\n\nb) Sistemas técnicos de ar condicionado com potência térmica nominal superior a 12 kW."
+  },
+  "116126482": {
+   "fragment_id": "116126396",
+   "type": 8,
+   "heading": "Secção III — Organização e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Organização e funcionamento"
+  },
+  "116126483": {
+   "fragment_id": "116126397",
+   "type": 11,
+   "heading": "Artigo 10.º — Fiscalização do Sistema de Certificação Energética dos Edifícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Fiscalização do Sistema de Certificação Energética dos Edifícios\n\nCompete à Direção-Geral de Energia e Geologia (DGEG) fiscalizar o SCE."
+  },
+  "116126484": {
+   "fragment_id": "116126398",
+   "type": 11,
+   "heading": "Artigo 11.º — Gestão do Sistema de Certificação Energética dos Edifícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Gestão do Sistema de Certificação Energética dos Edifícios\n\n1 - A gestão do SCE é atribuição da ADENE.\n\n2 - Compete à ADENE:\n\na) Fazer o registo, o acompanhamento técnico e administrativo, a verificação e a gestão da qualidade da atividade dos técnicos do SCE, nos termos do disposto no artigo 19.º;\n\nb) Fazer o registo de profissionais provenientes de outro Estado-Membro da União Europeia ou do Espaço Económico Europeu;\n\nc) Gerir o registo central de pré-certificados e certificados SCE, bem como da restante documentação produzida no âmbito do SCE;\n\nd) Definir e atualizar os modelos dos documentos produzidos pelos técnicos do SCE;\n\ne) Assegurar a qualidade da informação produzida no âmbito do SCE;\n\nf) Contribuir para a interpretação e aplicação uniformes do SCE, do REH e do RECS;\n\ng) Fazer e divulgar recomendações sobre a substituição, a alteração e a avaliação da eficiência e da potência adequadas dos sistemas de aquecimento com caldeira e dos sistemas de ar condicionado;\n\nh) Promover o SCE e incentivar a utilização dos seus resultados na promoção da eficiência energética dos edifícios.\n\n3 - O disposto no número anterior é regulamentado por portaria do membro do Governo responsável pela área da energia."
+  },
+  "116126485": {
+   "fragment_id": "116126399",
+   "type": 11,
+   "heading": "Artigo 12.º — Acompanhamento da qualidade do ar interior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Acompanhamento da qualidade do ar interior\n\n1 - Compete à Direção-Geral da Saúde e à Agência Portuguesa do Ambiente, I. P., acompanhar a aplicação do presente diploma no âmbito das suas competências em matéria de qualidade do ar interior.\n\n2 - O disposto no número anterior não prejudica as competências das entidades a que se refere a legislação especial que estabelece o regime de prevenção e controlo da doença dos legionários."
+  },
+  "116126486": {
+   "fragment_id": "116126400",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Avaliação de presença de colónias de Legionella",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º-A — Avaliação de presença de colónias de Legionella\n\nÉ aplicável à avaliação de presença de colónias de Legionella, no contexto da qualidade do ar interior em edifícios abrangidos pelo presente diploma, o disposto na legislação especial que estabelece o regime de prevenção e controlo da doença dos legionários."
+  },
+  "116126487": {
+   "fragment_id": "116126401",
+   "type": 11,
+   "heading": "Artigo 13.º — Técnicos do Sistema de Certificação Energética dos Edifícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Técnicos do Sistema de Certificação Energética dos Edifícios\n\n1 - São técnicos do SCE os PQ e os TIM.\n\n2 - O acesso e exercício da atividade dos técnicos do SCE, o seu registo junto da ADENE e o regime contraordenacional aplicável são regulados pela Lei n.º 58/2013, de 20 de agosto.\n\n3 - Compete aos PQ:\n\na) Fazer a avaliação energética dos edifícios a certificar no âmbito do SCE, não comprometendo a qualidade do ar interior;\n\nb) Identificar e avaliar, nos edifícios objeto de certificação, as oportunidades e recomendações de melhoria de desempenho energético, registando-as no pré-certificado ou certificado emitido e na demais documentação complementar;\n\nc) Emitir os pré-certificados e certificados SCE;\n\nd) Colaborar nos processos de verificação de qualidade do SCE;\n\ne) Verificar e submeter ao SCE o plano de racionalização energética.\n\n4 - Compete ao TIM coordenar ou executar as atividades de planeamento, verificação, gestão da utilização de energia, instalação e manutenção relativo a edifícios e sistemas técnicos, nos termos previstos neste diploma.\n\n5 - As atividades dos técnicos do SCE são regulamentadas por portaria do membro do Governo responsável pela área da energia."
+  },
+  "116126488": {
+   "fragment_id": "116126402",
+   "type": 11,
+   "heading": "Artigo 14.º — Obrigações dos proprietários dos edifícios ou sistemas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Obrigações dos proprietários dos edifícios ou sistemas\n\n1 - Constituem obrigações dos proprietários dos edifícios e sistemas técnicos abrangidos pelo SCE:\n\na) Obter o pré-certificado SCE;\n\nb) Obter o certificado SCE e, nos termos do RECS, a sua renovação tempestiva, sem prejuízo da conversão do pré-certificado a que se refere o n.º 2 do artigo seguinte;\n\nc) No caso de GES, conforme o disposto no RECS:\n\ni) Dispor de TIM adequado para o tipo e características dos sistemas técnicos instalados;\n\nii) Quando aplicável, assegurar o cumprimento do plano de manutenção elaborado e entregue pelo TIM;\n\niii) Submeter ao SCE, por intermédio de PQ, eventual PRE, e cumpri-lo;\n\nd) Facultar ao PQ, por solicitação deste, a consulta dos elementos necessários à certificação do edifício, sempre que disponíveis;\n\ne) Nos casos previstos no n.º 1 do artigo 3.º, pedir a emissão:\n\ni) De pré-certificado, no decurso do procedimento de controlo prévio da respetiva operação urbanística;\n\nii) De certificado SCE, aquando do pedido de emissão de licença de utilização ou de procedimento administrativo equivalente;\n\nf) Nos casos previstos no n.º 4 do artigo 3.º:\n\ni) Indicar a classificação energética do edifício constante do respetivo pré-certificado ou certificado SCE em todos os anúncios publicados com vista à venda ou locação;\n\nii) Entregar cópia do pré-certificado ou certificado SCE ao comprador ou locatário no ato de celebração de contrato-promessa de compra e venda, ou locação, e entregar o original no ato de celebração da compra e venda;\n\ng) Afixar o certificado em posição visível e de destaque nos termos do artigo 8.º\n\n2 - A obrigação estabelecida na subalínea i) da alínea f) do número anterior é extensível aos promotores ou mediadores da venda ou locação, no âmbito da sua atuação."
+  },
+  "116126489": {
+   "fragment_id": "116126403",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nTipo e validade do pré-certificado e do certificado do Sistema de Certificação Energética dos Edifícios\n\n1 - Os modelos de pré-certificados e certificados SCE distinguem-se conforme as categorias de edifícios, nos termos de portaria do membro do Governo responsável pela área da energia.\n\n2 - Uma vez concluída a obra, o pré-certificado converte-se em certificado SCE mediante a apresentação de termo de responsabilidade do autor do projeto e do diretor técnico atestando que a obra foi realizada de acordo com o projeto pré-certificado.\n\n3 - Os prazos de validade dos pré-certificados e certificados SCE são os seguintes:\n\na) Os pré-certificados têm um prazo de validade de 10 anos, salvo o disposto na alínea c) do n.º 8;\n\nb) Os certificados SCE têm um prazo de validade de 10 anos, sem prejuízo da possibilidade de, dentro desse prazo e sem que haja lugar ao respetivo alargamento, serem objeto de atualização;\n\nc) Os certificados SCE para os GES sujeitos a avaliação energética periódica, nos termos do artigo 47.º, têm um prazo de validade de oito anos, sem prejuízo da possibilidade de, dentro desse prazo e sem que haja lugar ao respetivo alargamento, serem objeto de atualização.\n\n4 - Ressalva-se do disposto no número anterior:\n\na) Nos edifícios em tosco ou em que a instalação dos sistemas técnicos não puder ser concluída em toda a extensão, mas cujo funcionamento parcial seja reconhecido pelo PQ como viável aquando do pedido de licença de utilização, a validade do certificado SCE é de um ano, podendo ser prorrogada mediante solicitação à ADENE;\n\nb) Nos edifícios de comércio e serviços existentes que não disponham de plano de manutenção atualizado quando este seja obrigatório, a validade do certificado SCE é de um ano, não podendo ser prorrogada nem podendo ser emitido mais de um certificado por edifício;\n\nc) Nos edifícios de comércio e serviços existentes sujeitos a PRE, desde que o respetivo plano tenha sido submetido ao SCE, o prazo de validade do certificado é o constante de portaria a aprovar pelos membros do Governo responsáveis pelas áreas da energia e da segurança social;\n\nd) Nos edifícios de comércio e serviços devolutos, para os efeitos previstos na alínea f) do artigo 4.º, a validade do certificado SCE é de um ano, prorrogável mediante solicitação à ADENE.\n\n5 - A metodologia de determinação da classe de desempenho energético para a tipologia de pré-certificados e certificados SCE é definida em portaria do membro do Governo responsável pela área da energia.\n\n6 - A emissão, pelo PQ, de um pré-certificado ou de um certificado SCE é precedida da elaboração e entrega da documentação relativa ao processo de certificação, nos termos a definir por despacho do Diretor-Geral da Energia e Geologia.\n\n7 - Pode ser requerida pelo PQ à ADENE a substituição de um pré-certificado ou de um certificado SCE válido, desde que o PQ, cumulativamente:\n\na) Justifique e fundamente o seu pedido, salvo nos casos de cumprimento de procedimentos de regularização determinados nos relatórios dos processos de verificação de qualidade;\n\nb) Proceda ao registo, prévia ou simultaneamente ao pedido de substituição, de novo documento corrigido;\n\nc) Informe devidamente o proprietário do pedido de substituição, quando for o caso, juntando ao requerimento à ADENE prova de que deu essa informação.\n\n8 - Não é válido o pré-certificado ou certificado SCE quando:\n\na) No documento haja marca-de-água, carimbo ou outro sinal em que se declare a sua invalidade ou não produção de efeitos;\n\nb) Esteja ultrapassado o respetivo prazo;\n\nc) Tenha caducado a licença ou autorização de construção;\n\nd) Não conste do registo pesquisável na zona pública do Portal SCE;\n\ne) Haja outro pré-certificado ou certificado registado, para o mesmo edifício, com data de emissão posterior, caso em que vale o documento mais recente;\n\nf) Contenha erros ou omissões detetados em procedimentos de verificação de qualidade, nos casos constantes de regulamento da DGEG."
+  },
+  "116126490": {
+   "fragment_id": "116126404",
+   "type": 11,
+   "heading": "Artigo 16.º — Edifícios com necessidades quase nulas de energia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Edifícios com necessidades quase nulas de energia\n\n1 - O parque edificado deve progressivamente ser composto por edifícios com necessidades quase nulas de energia.\n\n2 - São edifícios com necessidades quase nulas de energia os que tenham um muito elevado desempenho energético, determinado nos termos do presente diploma, em que as necessidades de energia quase nulas ou muito reduzidas são em larga medida satisfeitas com recurso a energia proveniente de fontes renováveis, designadamente a produzida no local ou nas proximidades.\n\n3 - Devem ter necessidades quase nulas de energia os edifícios novos licenciados após 31 de dezembro de 2020, ou após 31 de dezembro de 2018 no caso de edifícios novos na propriedade de uma entidade pública e ocupados por uma entidade pública.\n\n4 - Os membros do Governo responsáveis pelas áreas da energia, do ordenamento do território e das finanças aprovam por portaria o plano nacional de reabilitação do parque de edifícios existentes para que atinjam os requisitos de edifícios com necessidades quase nulas de energia, estabelecendo objetivos finais e intermédios, diferenciados consoante a categoria de edifícios em causa, e incentivos à reabilitação.\n\n5 - Os edifícios com necessidades quase nulas de energia são dotados de:\n\na) Componente eficiente compatível com o limite mais exigente dos níveis de viabilidade económica que venham a ser obtidos com a aplicação da metodologia de custo ótimo, diferenciada para edifícios novos e edifícios existentes e para diferentes tipologias, definida na portaria a que se refere o número anterior; e de\n\nb) Formas de captação local de energias renováveis que cubram grande parte do remanescente das necessidades energéticas previstas, de acordo com os modelos do REH e do RECS, de acordo com as seguintes formas de captação:\n\ni) Preferencialmente, no próprio edifício ou na parcela de terreno onde está construído;\n\nii) Em complemento, em infraestruturas de uso comum tão próximas do local quanto possível, quando não seja possível suprir as necessidades de energia renovável com recurso à captação local prevista especificamente para o efeito."
+  },
+  "116126491": {
+   "fragment_id": "116126405",
+   "type": 11,
+   "heading": "Artigo 17.º — Incentivos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Incentivos financeiros\n\n1 - São definidas e concretizadas por meios legislativos e administrativos as medidas e incentivos adequados a facultar o financiamento e outros instrumentos que potenciem o desempenho energético dos edifícios e a transição para edifícios com necessidades quase nulas de energia.\n\n2 - As medidas e incentivos referidos no número anterior podem integrar os planos de ação em curso ou previstos, bem como integrar outros instrumentos de política ou financeiros, já disponíveis ou a disponibilizar."
+  },
+  "116126492": {
+   "fragment_id": "116126406",
+   "type": 11,
+   "heading": "Artigo 18.º — Taxas de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Taxas de registo\n\n1 - O registo no SCE dos pré-certificados e dos certificados SCE por parte dos PQ é feito mediante o pagamento de uma taxa, cuja receita é repartida, até 10 %, por um fundo destinado a apoiar projetos de eficiência energética a definir por despacho do membro do Governo responsável pela área da energia e o restante pela ADENE.\n\n2 - A ADENE pode cobrar uma taxa pelo registo dos técnicos do SCE.\n\n3 - Os valores das taxas de registo referidas nos números anteriores são aprovados por portaria do membro do Governo responsável pela área da energia."
+  },
+  "116126493": {
+   "fragment_id": "116126407",
+   "type": 8,
+   "heading": "Secção IV — Verificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Verificações"
+  },
+  "116126494": {
+   "fragment_id": "116126408",
+   "type": 11,
+   "heading": "Artigo 19.º — Garantia da qualidade do Sistema de Certificação Energética dos Edifícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Garantia da qualidade do Sistema de Certificação Energética dos Edifícios\n\n1 - A ADENE verifica a qualidade e identifica as situações de desconformidade dos processos de certificação efetuados pelo PQ, com base em critérios estabelecidos em portaria do membro do Governo responsável pela área da energia.\n\n2 - As atividades de verificação podem ser confiadas pela ADENE a quaisquer organismos, públicos ou privados.\n\n3 - As atividades de verificação não podem ser realizadas por quem seja titular do cargo de formador no âmbito dos cursos dirigidos aos técnicos do SCE, nos termos da legislação a que se refere o n.º 2 do artigo 13.º\n\n4 - As metodologias dos processos de verificação de qualidade são definidas em portaria do membro do Governo responsável pela área da energia.\n\n5 - Os resultados das verificações devem constar de relatório comunicado ao PQ e ser objeto de anotação no registo individual do PQ, que integra os elementos constantes de portaria do membro do Governo responsável pela área da energia.\n\n6 - O disposto nos números anteriores é aplicável aos TIM, com as necessárias adaptações."
+  },
+  "116126495": {
+   "fragment_id": "116126409",
+   "type": 8,
+   "heading": "Secção V — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Contraordenações"
+  },
+  "116126496": {
+   "fragment_id": "116126410",
+   "type": 11,
+   "heading": "Artigo 20.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Contraordenações\n\n1 - Constitui contraordenação punível com coima de (euro) 250 a (euro) 3740 no caso de pessoas singulares, e de (euro) 2500 a (euro) 44 890, no caso de pessoas coletivas:\n\na) O incumprimento, pelo proprietário de edifício ou sistema, do disposto nas alíneas a), b), c), e), f) e g) do n.º 1 do artigo 14.º;\n\nb) O incumprimento do disposto no n.º 2 do mesmo artigo;\n\nc) A utilização de um pré-certificado ou certificado SCE inválido, de acordo com o disposto nas alíneas a) a d) do n.º 8 do artigo 15.º;\n\nd) O incumprimento, pelo proprietário de edifício ou sistema, do disposto no n.º 1 do artigo 48.º\n\n2 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.\n\n3 - A tentativa é punível com coima aplicável à contraordenação consumada, especialmente atenuada."
+  },
+  "116126497": {
+   "fragment_id": "116126411",
+   "type": 11,
+   "heading": "Artigo 21.º — Entidades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entidades competentes\n\n1 - Compete à DGEG a instauração e instrução dos processos de contraordenação previstos nas alíneas a), b) e c) do n.º 1 do artigo anterior e na legislação a que se refere o n.º 2 do artigo 13.º\n\n2 - Compete ao Diretor-Geral de Energia e Geologia a determinação e aplicação das coimas e das sanções acessórias, nos termos do presente diploma e da legislação a que se refere o n.º 2 do artigo 13.º\n\n3 - Compete à Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território (IGAMAOT) a instauração e instrução dos processos de contraordenação previstos na alínea d) do n.º 1 do artigo anterior.\n\n4 - A aplicação das coimas correspondentes às contraordenações previstas no número anterior é da competência do inspetor-geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território.\n\n5 - O produto das coimas a que se referem as alíneas a), b) e c) do n.º 1 do artigo anterior é distribuído da seguinte forma:\n\na) 60 % para os cofres do Estado;\n\nb) 40 % para o Fundo de Eficiência Energética.\n\n6 - O produto das coimas a que se refere a alínea d) do n.º 1 do artigo anterior reverte em:\n\na) 60 % para os cofres do Estado;\n\nb) 40 % para a IGAMAOT."
+  },
+  "116126498": {
+   "fragment_id": "116126412",
+   "type": 1,
+   "heading": "Capítulo III — Regulamento de Desempenho Energético dos Edifícios de Habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Regulamento de Desempenho Energético dos Edifícios de Habitação"
+  },
+  "116126499": {
+   "fragment_id": "116126413",
+   "type": 8,
+   "heading": "Secção I — Objetivo e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Objetivo e âmbito de aplicação"
+  },
+  "116126500": {
+   "fragment_id": "116126414",
+   "type": 11,
+   "heading": "Artigo 22.º — Objetivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Objetivo\n\n1 - O REH estabelece os requisitos mínimos para os edifícios de habitação, novos ou sujeitos a intervenções, bem como os parâmetros e as metodologias de caracterização do desempenho energético, em condições nominais, de todos os edifícios de habitação e dos seus sistemas técnicos, no sentido de promover a melhoria do respetivo comportamento térmico, a eficiência dos seus sistemas técnicos e a minimização do risco de ocorrência de condensações superficiais nos elementos da envolvente.\n\n2 - Os requisitos mínimos referidos no número anterior são estabelecidos de forma a alcançar níveis ótimos de rentabilidade e revistos periodicamente em função dos resultados da análise de custo ótimo realizada para os edifícios de habitação, com intervalos não superiores a cinco anos."
+  },
+  "116126501": {
+   "fragment_id": "116126415",
+   "type": 11,
+   "heading": "Artigo 23.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Âmbito de aplicação\n\n1 - O presente capítulo aplica-se aos edifícios destinados a habitação, nas seguintes situações:\n\na) Projeto e construção de edifícios novos;\n\nb) Intervenção na envolvente ou qualquer intervenção nos sistemas técnicos de edifícios existentes;\n\nc) Avaliação energética dos edifícios novos, sujeitos a grande intervenção e existentes, no âmbito do SCE.\n\n2 - Nos edifícios abrangidos pelo presente capítulo, a aplicação do REH deve ser verificada:\n\na) No caso de edifícios de habitação unifamiliares, para a totalidade do edifício;\n\nb) No caso de edifícios de habitação multifamiliares, para cada fração constituída ou, em edifícios em projeto ou em construção, para cada fração prevista constituir;\n\nc) No caso de edifícios mistos, para as frações destinadas a habitação, independentemente da aplicação do RECS às restantes frações.\n\n3 - Excluem-se do âmbito de aplicação do presente capítulo os seguintes edifícios e situações particulares:\n\na) Edifícios não destinados a habitação;\n\nb) Monumentos e edifícios individualmente classificados ou em vias de classificação e edifícios integrados em conjuntos ou sítios classificados ou em vias de classificação, nos termos do Decreto-Lei n.º 309/2009, de 23 de outubro, alterado pelos Decretos-Leis n.os 115/2011, de 5 de dezembro, e 265/2012, de 28 de dezembro, no que respeita à aplicação de requisitos mínimos de desempenho energético, na medida em que o cumprimento desses requisitos altere de forma inaceitável o seu caráter ou aspeto, tal como reconhecido por entidade competente para o licenciamento da operação urbanística."
+  },
+  "116126502": {
+   "fragment_id": "116126416",
+   "type": 8,
+   "heading": "Secção II — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Princípios gerais"
+  },
+  "116126503": {
+   "fragment_id": "116126417",
+   "type": 11,
+   "heading": "Artigo 24.º — Comportamento térmico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Comportamento térmico\n\n1 - Os edifícios abrangidos pelo presente capítulo devem ser avaliados e sujeitos a requisitos tendo em vista promover a melhoria do seu comportamento térmico, a prevenção de patologias, o conforto ambiente e a redução das necessidades energéticas, incidindo, para esse efeito, nas características da envolvente opaca e envidraçada, na ventilação e nas necessidades nominais anuais de energia para aquecimento e arrefecimento.\n\n2 - Tendo em vista o cumprimento dos objetivos indicados no número anterior, o presente capítulo estabelece, entre outros aspetos:\n\na) Requisitos de qualidade térmica e energéticos a que está sujeita a envolvente nos novos edifícios e nas intervenções em edifícios existentes, expressos em termos de coeficiente de transmissão térmica da envolvente opaca e de fator solar dos vãos envidraçados;\n\nb) Requisitos de ventilação dos espaços, impondo um valor mínimo de cálculo para a taxa de renovação do ar em edifícios novos e respetiva adaptação no caso de intervenções em edifícios existentes;\n\nc) Valores de necessidades nominais de energia útil para aquecimento e arrefecimento do edifício e limites a observar no caso de edifícios novos e de grandes intervenções em edifícios existentes."
+  },
+  "116126504": {
+   "fragment_id": "116126418",
+   "type": 11,
+   "heading": "Artigo 25.º — Eficiência dos sistemas técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Eficiência dos sistemas técnicos\n\n1 - Os edifícios e respetivos sistemas técnicos abrangidos pelo presente capítulo devem ser avaliados e sujeitos a requisitos, tendo em vista promover a eficiência dos sistemas, incidindo, para esse efeito, na qualidade dos seus sistemas técnicos, bem como nas necessidades nominais anuais de energia para preparação de água quente sanitária e de energia primária.\n\n2 - Tendo em vista o cumprimento dos objetivos referidos no número anterior, o presente capítulo estabelece, nomeadamente:\n\na) Requisitos ao nível da qualidade, da eficiência e do funcionamento dos sistemas técnicos a instalar nos edifícios;\n\nb) Regras para cálculo do contributo das energias renováveis na satisfação das necessidades energéticas do edifício;\n\nc) Valores de necessidades nominais de energia primária do edifício e o respetivo limite a observar no caso de edifícios novos e de grandes intervenções em edifícios existentes."
+  },
+  "116126505": {
+   "fragment_id": "116126419",
+   "type": 8,
+   "heading": "Secção III — Requisitos específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Requisitos específicos"
+  },
+  "116126506": {
+   "fragment_id": "116126420",
+   "type": 3,
+   "heading": "Subsecção I — Edifícios novos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Edifícios novos"
+  },
+  "116126507": {
+   "fragment_id": "116126421",
+   "type": 11,
+   "heading": "Artigo 26.º — Comportamento térmico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Comportamento térmico\n\n1 - O valor das necessidades nominais anuais de energia útil para aquecimento (Nic) de um edifício de habitação novo, calculado de acordo com o estabelecido pela DGEG, não pode exceder o valor máximo de energia útil para aquecimento (Ni) determinado em portaria do membro do Governo responsável pela área da energia.\n\n2 - O valor das necessidades nominais anuais de energia útil para arrefecimento (Nvc) de um edifício de habitação novo, calculado de acordo com o estabelecido pela DGEG, não pode exceder o valor máximo de energia útil para arrefecimento (Nv) definido em portaria do membro do Governo responsável pela área da energia.\n\n3 - Os requisitos descritos nos números anteriores devem ser satisfeitos sem serem ultrapassados os valores-limite de qualidade térmica e energéticos da envolvente, estabelecidos em portaria do membro do Governo responsável pela área da energia, e relativos aos seguintes parâmetros:\n\na) Valor máximo do coeficiente de transmissão térmica superficial dos elementos na envolvente opaca e envidraçada;\n\nb) Valor máximo do fator solar dos vãos envidraçados horizontais e verticais.\n\n4 - O valor da taxa de renovação horária nominal de ar para as estações de aquecimento e de arrefecimento de um edifício de habitação novo, calculada de acordo com o estabelecido pela DGEG, deve ser igual ou superior ao valor mínimo de renovações horárias a definir em portaria do membro do Governo responsável pela área da energia.\n\n5 - O recurso a sistemas passivos que melhorem o desempenho energético do edifício deve ser promovido, e o respetivo contributo considerado no cálculo das necessidades de energia do edifício, com base em normas europeias ou regras definidas pela DGEG.\n\n6 - As novas moradias unifamiliares com uma área útil inferior a 50 m2 estão dispensadas da verificação dos requisitos de comportamento térmico."
+  },
+  "116126508": {
+   "fragment_id": "116126422",
+   "type": 11,
+   "heading": "Artigo 27.º — Eficiência dos sistemas técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Eficiência dos sistemas técnicos\n\n1 - Os sistemas técnicos a instalar nos edifícios de habitação novos para aquecimento ambiente, para arrefecimento ambiente e para preparação de água quente sanitária, devem cumprir os requisitos de eficiência ou outros estabelecidos em portaria do membro do Governo responsável pela área da energia.\n\n2 - A instalação de sistemas solares térmicos para aquecimento de água sanitária nos edifícios novos é obrigatória sempre que haja exposição solar adequada, de acordo com as seguintes regras:\n\na) A energia fornecida pelo sistema solar térmico a instalar tem de ser igual ou superior à obtida com um sistema solar constituído por coletores padrão, com as características que constam em portaria do membro do Governo responsável pela área da energia e calculado para o número de ocupantes convencional definido pela entidade fiscalizadora responsável do SCE, na razão de um coletor padrão por habitante convencional;\n\nb) O valor da área total de coletores pode, mediante justificação fundamentada, ser reduzido de forma a não ultrapassar 50 % da área de cobertura com exposição solar adequada;\n\nc) No caso de o sistema solar térmico se destinar adicionalmente à climatização do ambiente interior, deve salvaguardar-se que a contribuição deste sistema seja prioritariamente na preparação de água quente sanitária.\n\n3 - Em alternativa à utilização de sistemas solares térmicos prevista no número anterior, podem ser considerados outros sistemas de aproveitamento de energias renováveis que visem assegurar, numa base anual, a obtenção de energia equivalente ao sistema solar térmico.\n\n4 - A contribuição de sistemas de aproveitamento de energia renovável para o desempenho energético dos edifícios de habitação novos só pode ser contabilizada, para efeitos do presente regulamento, mediante cumprimento do disposto em portaria do membro do Governo responsável pela área da energia em termos de requisitos de qualidade dos sistemas, e calculada a respetiva contribuição de acordo com as regras estabelecidas para o efeito pela DGEG.\n\n5 - O valor das necessidades nominais anuais de energia primária (Ntc) de um edifício de habitação novo, calculado de acordo com o definido pela DGEG, não pode exceder o valor máximo das necessidades nominais anuais de energia primária (Nt) definido em portaria do membro do Governo responsável pela área da energia.\n\n6 - As moradias unifamiliares novas com uma área útil inferior a 50 m2 estão dispensadas do cumprimento do disposto no número anterior."
+  },
+  "116126509": {
+   "fragment_id": "116126423",
+   "type": 3,
+   "heading": "Subsecção II — Edifícios sujeitos a intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Edifícios sujeitos a intervenção"
+  },
+  "116126510": {
+   "fragment_id": "116126424",
+   "type": 11,
+   "heading": "Artigo 28.º — Comportamento térmico de edifícios sujeitos a intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Comportamento térmico de edifícios sujeitos a intervenção\n\n1 - A razão entre o valor de Nic de um edifício sujeito a grande intervenção, calculado de acordo com o definido pela DGEG, e o valor de Ni não pode exceder o determinado em portaria do membro do Governo responsável pela área da energia.\n\n2 - A razão entre o valor de Nvc de um edifício sujeito a grande intervenção, calculado de acordo com o definido pela DGEG e o valor de Nv, não pode exceder o determinado em portaria do membro do Governo responsável pela área da energia.\n\n3 - Toda a intervenção, independentemente da sua dimensão, na envolvente de um edifício, substituição ou reabilitação de elementos construtivos que façam parte da mesma obedecem aos requisitos estabelecidos em portaria do membro do Governo responsável pela área da energia, relativos aos valores máximos:\n\na) Do coeficiente de transmissão térmica superficial dos elementos a intervencionar na envolvente opaca e envidraçada;\n\nb) Do fator solar dos vãos envidraçados horizontais e verticais a intervencionar.\n\n4 - O valor da taxa de renovação horária nominal de ar para a estação de aquecimento e de arrefecimento de um edifício de habitação sujeito a grande intervenção, calculada de acordo com o definido pela DGEG, deve ser igual ou superior ao valor mínimo de renovações horárias determinado em portaria do membro do Governo responsável pela área da energia.\n\n5 - Os requisitos mínimos de desempenho energético previstos nos números anteriores, para os edifícios sujeitos a intervenção ou para os elementos renovados ou substituídos da envolvente do edifício que tenham impacto significativo no seu desempenho energético, são sempre aplicados desde que tal seja possível do ponto de vista técnico e funcional, sendo as situações de exceção, reconhecidas pela entidade competente para o licenciamento da operação urbanística, identificadas e justificadas pelo técnico autor do projeto, nomeadamente, no pré-certificado e certificado, podendo ser adotadas soluções alternativas para os elementos a intervencionar, desde que seja demonstrado que o desempenho do edifício não diminui em relação à situação existente antes da intervenção.\n\n6 - O recurso a sistemas passivos que melhorem o desempenho energético do edifício deve ser promovido nas grandes intervenções a realizar, e o respetivo contributo deve ser considerado no cálculo das necessidades de energia do edifício, com base em normas europeias ou regras definidas para o efeito pela DGEG.\n\n7 - As moradias unifamiliares na medida em que constituam edifícios autónomos com uma área útil inferior a 50 m2, sujeitas a grande intervenção, estão dispensadas da verificação dos requisitos de comportamento térmico estabelecidos no presente artigo.\n\n8 - (Revogado.)"
+  },
+  "116126511": {
+   "fragment_id": "116126425",
+   "type": 11,
+   "heading": "Artigo 29.º — Eficiência dos sistemas técnicos de edifícios sujeitos a intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Eficiência dos sistemas técnicos de edifícios sujeitos a intervenção\n\n1 - Os componentes instalados, intervencionados ou substituídos em sistemas técnicos devem cumprir os requisitos mínimos de eficiência e outros definidos em portaria do membro do Governo responsável pela área da energia, sem prejuízo da obrigação geral de melhoria do desempenho energético de edifício ou de parte de edifício que seja sujeito a intervenção, na medida em que tal seja possível do ponto de vista técnico e funcional.\n\n2 - A instalação de sistemas solares térmicos para aquecimento de água sanitária num edifício sujeito a grande intervenção é obrigatória sempre que haja exposição solar adequada e desde que os sistemas de produção e de distribuição de água quente sanitária sejam parte dessa intervenção, de acordo com as seguintes regras:\n\na) A energia fornecida pelo sistema solar térmico a instalar tem de ser igual ou superior à obtida com um sistema solar de coletores padrão com as características que constam de portaria referida no número anterior calculada para o número de ocupantes convencional definido pela DGEG, na razão de um coletor padrão por habitante convencional;\n\nb) O valor da área total de coletores pode, mediante justificação fundamentada, ser reduzido de forma a não ultrapassar 50 % da área de cobertura com exposição solar adequada;\n\nc) No caso do sistema solar térmico se destinar adicionalmente à climatização do ambiente interior da habitação, deve ser salvaguardado que a contribuição deste sistema seja prioritariamente para a preparação de água quente sanitária e que a mesma seja considerada para efeitos do disposto nas alíneas anteriores.\n\n3 - Em alternativa à utilização de sistemas solares térmicos prevista no número anterior, podem ser considerados outros sistemas de aproveitamento de energias renováveis que garantam, numa base anual, energia equivalente ao sistema solar térmico.\n\n4 - A contribuição de sistemas de aproveitamento de energia renovável para a avaliação energética de um edifício sujeito a intervenção, e independentemente da dimensão dessa intervenção, só pode ser contabilizada, para efeitos do presente capítulo, mediante o cumprimento do disposto em portaria do membro do Governo responsável pela área da energia, em termos de requisitos de qualidade, e calculando a respetiva contribuição de acordo com as regras definidas para o efeito pela DGEG.\n\n5 - Os requisitos mínimos de desempenho energético previstos nos números anteriores, para os componentes instalados, intervencionados ou substituídos em sistemas técnicos que tenham impacto significativo no seu desempenho energético, são sempre aplicados desde que tal seja possível do ponto de vista técnico e funcional, sendo as situações de exceção, reconhecidas pela entidade competente para o licenciamento de operações urbanísticas, identificadas e justificadas pelo técnico autor do projeto, nomeadamente, no pré-certificado e certificado, podendo ser adotadas soluções alternativas para os componentes dos sistemas técnicos a instalar, intervencionar ou substituir, desde que seja demonstrado que o desempenho do edifício não diminui em relação à situação existente antes da intervenção.\n\n6 - A razão entre o valor de Ntc de um edifício de habitação sujeito a grande intervenção, calculado de acordo com o previsto pela DGEG e o valor de Nt não pode exceder o estabelecido em portaria do membro do Governo responsável pela área da energia, exceto nas situações previstas no número anterior.\n\n7 - Os sistemas técnicos a instalar em edifícios sujeitos a ampliação devem cumprir com o disposto no n.º 1."
+  },
+  "116126512": {
+   "fragment_id": "116126426",
+   "type": 3,
+   "heading": "Subsecção III — Edifícios existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Edifícios existentes"
+  },
+  "116126513": {
+   "fragment_id": "116126427",
+   "type": 11,
+   "heading": "Artigo 30.º — Comportamento térmico e eficiência dos sistemas técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Comportamento térmico e eficiência dos sistemas técnicos\n\n1 - Os edifícios de habitação existentes estão sujeitos a requisitos de comportamento térmico no caso das intervenções e a requisitos de eficiência dos sistemas, sempre que se verifique a instalação de novos sistemas técnicos nos edifícios ou a substituição ou melhoria dos sistemas existentes, na medida em que tal seja possível do ponto de vista técnico, funcional e ou económico.\n\n2 - Sem prejuízo do disposto no número seguinte, a avaliação energética de um edifício de habitação existente, realizada para efeitos de cumprimento do SCE ou do presente capítulo, deve seguir as metodologias de cálculo previstas para edifícios novos nos artigos 26.º e 27.º\n\n3 - Nos casos em que não exista informação disponível que permita a aplicação integral do previsto no número anterior, podem ser consideradas, para os elementos do cálculo onde exista tal constrangimento, as simplificações descritas em despacho a emitir pela DGEG e aplicadas as regras aí definidas para esse efeito."
+  },
+  "116126514": {
+   "fragment_id": "116126428",
+   "type": 8,
+   "heading": "Secção IV — Controlo prévio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Controlo prévio"
+  },
+  "116126515": {
+   "fragment_id": "116126429",
+   "type": 11,
+   "heading": "Artigo 31.º — Edificação e utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Edificação e utilização\n\n1 - Os procedimentos de controlo prévio de operações urbanísticas de edificação devem incluir a demonstração da verificação do cumprimento do presente capítulo e dispor dos elementos definidos em portaria dos membros do Governo responsáveis pelas áreas da energia e do ordenamento do território.\n\n2 - Os requerimentos para emissão de licença de utilização devem incluir os elementos definidos no artigo 9.º do RJUE e em portaria dos membros do Governo responsáveis pelas áreas da energia e do ordenamento do território.\n\n3 - O disposto nos números anteriores é aplicável, com as devidas adaptações, às operações urbanísticas de edificação promovidas pela Administração Pública ou por concessionárias de obras ou serviços públicos, isentas de controlo prévio."
+  },
+  "116126516": {
+   "fragment_id": "116126430",
+   "type": 1,
+   "heading": "Capítulo IV — Regulamento de Desempenho Energético dos Edifícios de Comércio e Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regulamento de Desempenho Energético dos Edifícios de Comércio e Serviços"
+  },
+  "116126517": {
+   "fragment_id": "116126431",
+   "type": 8,
+   "heading": "Secção I — Objetivo e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Objetivo e âmbito de aplicação"
+  },
+  "116126518": {
+   "fragment_id": "116126432",
+   "type": 11,
+   "heading": "Artigo 32.º — Objetivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Objetivo\n\n1 - O RECS estabelece as regras a observar no projeto, na construção, na alteração, na operação e na manutenção de edifícios de comércio e serviços e seus sistemas técnicos, bem como os requisitos mínimos para a caracterização do seu desempenho, no sentido de promover a eficiência energética e a qualidade do ar interior.\n\n2 - Os requisitos mínimos referidos no número anterior são estabelecidos de forma a alcançar níveis ótimos de rentabilidade e revistos periodicamente em função dos resultados da análise de custo ótimo realizada para os edifícios de comércio e serviços, com intervalos não superiores a cinco anos."
+  },
+  "116126519": {
+   "fragment_id": "116126433",
+   "type": 11,
+   "heading": "Artigo 33.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Âmbito de aplicação\n\n1 - O presente capítulo aplica-se a edifícios de comércio e serviços, nas seguintes situações:\n\na) Projeto e construção de edifícios novos;\n\nb) Intervenção na envolvente ou qualquer intervenção nos sistemas técnicos de edifícios existentes;\n\nc) Avaliação energética e da manutenção dos edifícios novos, sujeitos a grande intervenção e existentes no âmbito do SCE.\n\n2 - A verificação do RECS deve ser realizada para o edifício ou para as suas frações, de acordo com o disposto no artigo 6.º\n\n3 - Excluem-se do âmbito de aplicação do presente capítulo os seguintes edifícios e situações particulares:\n\na) Os edifícios destinados a habitação;\n\nb) Os casos previstos nas alíneas a) a d) do artigo 4.º;\n\nc) Os monumentos e edifícios individualmente classificados ou em vias de classificação e os edifícios integrados em conjuntos ou sítios classificados ou em vias de classificação, nos termos do Decreto-Lei n.º 309/2009, de 23 de outubro, alterado pelos Decretos-Leis n.os 115/2011, de 5 de dezembro, e 265/2012, de 28 de dezembro, no que respeita à aplicação de requisitos mínimos de desempenho energético, na medida em que o cumprimento desses requisitos altere de forma inaceitável o seu caráter ou aspeto, tal como reconhecido por entidade competente para o licenciamento da operação urbanística."
+  },
+  "116126520": {
+   "fragment_id": "116126434",
+   "type": 8,
+   "heading": "Secção II — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Princípios gerais"
+  },
+  "116126521": {
+   "fragment_id": "116126435",
+   "type": 11,
+   "heading": "Artigo 34.º — Comportamento térmico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Comportamento térmico\n\n1 - Os edifícios abrangidos pelo presente capítulo devem ser avaliados e sujeitos a requisitos tendo em vista promover a melhoria do seu comportamento térmico, a prevenção de patologias e o conforto ambiente, incidindo para esse efeito nas características da envolvente opaca e envidraçada.\n\n2 - Para os efeitos do disposto no número anterior, o presente capítulo estabelece, entre outros aspetos, os requisitos de qualidade térmica e energéticos da envolvente nos edifícios novos e nas intervenções em edifícios existentes, expressa em termos de coeficiente de transmissão térmica da envolvente e de fator solar dos vãos envidraçados."
+  },
+  "116126522": {
+   "fragment_id": "116126436",
+   "type": 11,
+   "heading": "Artigo 35.º — Eficiência dos sistemas técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Eficiência dos sistemas técnicos\n\n1 - Os sistemas técnicos dos edifícios abrangidos pelo presente capítulo devem ser avaliados e sujeitos a requisitos, tendo em vista promover a eficiência e a utilização racional de energia, incidindo, para esse efeito, nas componentes de climatização, de preparação de água quente sanitária, de iluminação, de sistemas de gestão de energia, de energias renováveis, de elevadores e de escadas rolantes.\n\n2 - Para os efeitos do disposto no número anterior, o presente capítulo estabelece, entre outros aspetos:\n\na) Requisitos de conceção e de instalação dos sistemas técnicos nos edifícios novos e de sistemas novos nos edifícios existentes sujeitos a intervenção;\n\nb) Um IEE para caracterização do desempenho energético dos edifícios e dos respetivos limites máximos no caso de edifícios novos, de edifícios existentes e de grandes intervenções em edifícios existentes;\n\nc) A obrigatoriedade de fazer uma avaliação energética periódica dos consumos energéticos dos edifícios existentes, verificando a necessidade de elaborar um plano de racionalização energética com identificação e implementação de medidas de eficiência energética com viabilidade económica."
+  },
+  "116126523": {
+   "fragment_id": "116126437",
+   "type": 11,
+   "heading": "Artigo 36.º — Ventilação e qualidade do ar interior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Ventilação e qualidade do ar interior\n\nCom vista a assegurar as condições de bem-estar e saúde dos ocupantes, os membros do Governo responsáveis pelas áreas da energia, do ambiente, da saúde e da segurança social estabelecem por portaria:\n\na) Os valores mínimos de caudal de ar novo por espaço, em função da ocupação, das características do próprio edifício e dos seus sistemas de climatização;\n\nb) Os limiares de proteção para as concentrações de poluentes do ar interior."
+  },
+  "116126524": {
+   "fragment_id": "116126438",
+   "type": 11,
+   "heading": "Artigo 37.º — Instalação, condução e manutenção de sistemas técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Instalação, condução e manutenção de sistemas técnicos\n\n1 - Os sistemas técnicos dos edifícios abrangidos pelo presente capítulo devem ser instalados, conduzidos e mantidos de modo a garantir o seu funcionamento em condições otimizadas de eficiência energética e de promoção da qualidade do ar interior.\n\n2 - Na instalação, condução e manutenção dos equipamentos e sistemas técnicos referidos no número anterior devem ser tidos em particular atenção por parte do TIM:\n\na) Os requisitos de instalação;\n\nb) A qualidade, organização e gestão da manutenção, incluindo o respetivo planeamento, os registos de ocorrências, os detalhes das tarefas e das operações e outras ações e documentação necessárias para esse efeito;\n\nc) A operacionalidade das instalações através de uma condução otimizada que garanta o seu funcionamento em regimes de elevada eficiência energética."
+  },
+  "116126525": {
+   "fragment_id": "116126439",
+   "type": 8,
+   "heading": "Secção III — Requisitos específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Requisitos específicos"
+  },
+  "116126526": {
+   "fragment_id": "116126440",
+   "type": 3,
+   "heading": "Subsecção I — Edifícios novos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Edifícios novos"
+  },
+  "116126527": {
+   "fragment_id": "116126441",
+   "type": 11,
+   "heading": "Artigo 38.º — Comportamento térmico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Comportamento térmico\n\n1 - Os edifícios novos de comércio e serviços ficam sujeitos ao cumprimento dos requisitos de conceção definidos em portaria dos membros do Governo responsáveis pelas áreas da energia e da segurança social relativos à qualidade térmica da sua envolvente, nomeadamente no que respeita aos valores máximos:\n\na) Do coeficiente de transmissão térmica superficial da envolvente opaca e envidraçada;\n\nb) Do fator solar dos vãos envidraçados horizontais e verticais.\n\n2 - O recurso a sistemas passivos que melhorem o desempenho energético dos edifícios novos de comércio e serviços deve ser promovido, e o respetivo contributo considerado no cálculo do desempenho energético dos edifícios, com base em normas europeias ou regras definidas para o efeito pela DGEG, sendo o recurso a sistemas mecânicos complementar, para as situações em que não seja possível assegurar por meios passivos o cumprimento das normas aplicáveis."
+  },
+  "116126528": {
+   "fragment_id": "116126442",
+   "type": 11,
+   "heading": "Artigo 39.º — Eficiência dos sistemas técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Eficiência dos sistemas técnicos\n\n1 - Os sistemas técnicos de edifícios novos de comércio e serviços ficam obrigados ao cumprimento dos requisitos de conceção definidos em portaria dos membros do Governo responsáveis pelas áreas da energia e da segurança social.\n\n2 - O valor do indicador de eficiência energética previsto (IEEpr) de um edifício de comércio e serviços novo, calculado de acordo com o definido pela DGEG, não pode exceder o valor do indicador de eficiência energética de referência (IEEref), definido em portaria dos membros do Governo responsáveis pelas áreas da energia e da segurança social.\n\n3 - O cumprimento dos requisitos previstos nos números anteriores deve ser demonstrado explicitamente nas peças escritas e desenhadas do projeto do edifício, bem como, no final da obra, em projeto atualizado e restantes comprovativos da boa e correta execução.\n\n4 - Para os edifícios novos, a primeira avaliação energética posterior à emissão do primeiro certificado SCE deve ocorrer até ao final do terceiro ano de funcionamento do edifício.\n\n5 - O desempenho energético dos edifícios de comércio e serviços novos que se encontrem em funcionamento deve ser avaliado periodicamente com vista à identificação da necessidade e das oportunidades de redução dos consumos específicos de energia.\n\n6 - A obrigação de avaliação periódica prevista no número anterior não é aplicável às seguintes situações:\n\na) Aos PES, independentemente de serem ou não dotados de sistemas de climatização, desde que não se encontrem incluídos nas situações descritas na alínea b) do n.º 3 do artigo 3.º;\n\nb) Aos edifícios que não se encontrem em funcionamento e cujos sistemas técnicos estejam desativados à data da avaliação para efeitos de emissão do certificado SCE.\n\n7 - A avaliação energética periódica aos GES após a primeira avaliação referida no n.º 4, deve ser realizada de oito em oito anos, sendo a correção e tempestividade da avaliação comprovada pela:\n\na) Emissão do respetivo certificado no âmbito do SCE;\n\nb) Elaboração de um relatório de avaliação energética, acompanhado dos elementos comprovativos que suportem a análise, bem como de toda a informação que justifique as opções tomadas, devendo essa informação permanecer disponível, preferencialmente em formato eletrónico, por um período mínimo de oito anos.\n\n8 - Na situação descrita na alínea b) do n.º 3 do artigo 3.º em que o edifício não seja qualificado como GES, após emissão de certificado SCE nos termos dos n.os 1 ou 4 do mesmo artigo, a avaliação energética referida no n.º 5 deve ser realizada de 10 em 10 anos.\n\n9 - Os requisitos associados à avaliação energética são estabelecidos em portaria dos membros do Governo responsáveis pelas áreas da energia e da segurança social.\n\n10 - A avaliação referida nos n.os 4 e 5 obedece às metodologias estabelecidas por despacho do Diretor-Geral de Energia e Geologia."
+  },
+  "116126529": {
+   "fragment_id": "116126443",
+   "type": 11,
+   "heading": "Artigo 40.º — Ventilação e qualidade do ar interior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Ventilação e qualidade do ar interior\n\n1 - Nos edifícios novos de comércio e serviços deve ser garantido o cumprimento dos valores mínimos de caudal de ar novo determinados, para cada espaço do edifício, com base no método prescritivo ou no método analítico, conforme definidos na portaria a que se refere o artigo 36.º\n\n2 - Para assegurar o cumprimento dos valores mínimos de caudal de ar novo referidos nos números anteriores, os edifícios devem ser dotados de sistemas e estratégias que promovam a ventilação dos espaços com recurso a meios naturais, a meios mecânicos ou a uma combinação dos dois, tendo em conta as disposições constantes da portaria a que se refere o número anterior.\n\n3 - Para o cumprimento do número anterior, os edifícios devem ser projetados de forma a privilegiar o recurso à ventilação natural, sendo a ventilação mecânica complementar para os casos em que a ventilação natural seja insuficiente para cumprimento das normas aplicáveis.\n\n4 - Caso sejam utilizados meios mecânicos de ventilação, o valor de caudal de ar novo introduzido em cada espaço deve ter em conta a eficácia de redução da concentração de poluentes, devendo, para esse efeito, ser considerados os pressupostos definidos na portaria a que se refere o n.º 1.\n\n5 - Nos edifícios novos de comércio e serviços dotados de sistemas de climatização ou apenas de ventilação, deve ser garantido o cumprimento dos requisitos previstos na portaria a que se refere o n.º 1.\n\n6 - O cumprimento dos requisitos previstos nos números anteriores deve ser demonstrado explicitamente nas peças escritas e desenhadas do projeto do edifício, bem como no final da obra, em projeto atualizado e demais comprovativos da boa e correta execução.\n\n7 - Os edifícios de comércio e serviços novos, após a obtenção da licença de utilização, ficam sujeitos ao cumprimento dos limiares de proteção e condições de referência dos poluentes constantes da portaria a que se refere o artigo 36.º\n\n8 - A fiscalização pelo IGAMAOT dos limiares de proteção é feita de acordo com a metodologia e condições de referência previstas na portaria a que se refere o artigo 36.º"
+  },
+  "116126530": {
+   "fragment_id": "116126444",
+   "type": 11,
+   "heading": "Artigo 41.º — Instalação, condução e manutenção de sistemas técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Instalação, condução e manutenção de sistemas técnicos\n\n1 - Os sistemas técnicos dos edifícios devem ser projetados, instalados e mantidos de forma a serem facilmente acessíveis para manutenção.\n\n2 - Os fabricantes ou instaladores dos sistemas técnicos para edifícios novos de comércio e serviços devem:\n\na) Fornecer ao proprietário toda a documentação técnica, em língua portuguesa, incluindo a marca, o modelo e as características de todos os principais constituintes dos sistemas técnicos instalados no edifício;\n\nb) Assegurar, quando for o caso, que os equipamentos instalados ostentem, em local bem visível, após instalação, a respetiva chapa de identificação e de características técnicas.\n\n3 - A instalação de sistemas de climatização em edifícios novos de comércio e serviços deve ser feita por equipa que integre um TIM com contrato de trabalho ou de prestação de serviços com empresa habilitada para o efeito pelo Instituto da Construção e do Imobiliário, I. P., sendo essa intervenção objeto de registo.\n\n4 - No caso de edifícios novos com potência térmica nominal de climatização instalada ou prevista superior a 25 kW, os respetivos sistemas técnicos devem ser objeto de receção das instalações, nos termos do procedimento a aprovar pela DGEG.\n\n5 - Os sistemas técnicos dos edifícios novos de comércio e serviços são objeto de um plano de manutenção elaborado tendo em conta o seguinte faseamento:\n\na) Na fase de projeto dos sistemas técnicos, devem ser estabelecidas as premissas a que o plano deve obedecer em função das características dos equipamentos e dos sistemas técnicos preconizados em projeto, as boas práticas do setor e o definido pela DGEG;\n\nb) Após a conclusão da instalação dos sistemas técnicos do edifício e antes da sua entrada em funcionamento, deve ser elaborado por TIM o plano de manutenção, devidamente adaptado às características dos sistemas técnicos efetivamente instalados e respeitando as boas práticas na manutenção, as instruções dos fabricantes e a regulamentação em vigor para cada tipo de equipamento.\n\n6 - Após a instalação dos sistemas técnicos, os edifícios novos devem ser acompanhados, durante o seu funcionamento, por:\n\na) Um TIM que garanta a correta manutenção do edifício e dos seus sistemas técnicos, supervisione as atividades realizadas nesse âmbito e assegure a gestão e atualização de toda a informação técnica relevante;\n\nb) Outros técnicos habilitados, desde que a sua participação seja exigida pela legislação em vigor, caso em que a sua atuação e responsabilidade prevalecem em relação ao previsto na alínea anterior.\n\n7 - O acompanhamento do TIM previsto na alínea a) do número anterior deve constar de documento escrito que comprove a existência do vínculo.\n\n8 - As alterações introduzidas nos sistemas técnicos dos edifícios de comércio e serviços devem:\n\na) Cumprir os requisitos definidos no n.º 1 do artigo 37.º;\n\nb) Ser incluídas no livro de registo de ocorrências ou na documentação técnica do edifício, garantindo a atualização desta;\n\nc) Ser realizadas com o acompanhamento do TIM do edifício, o qual deve efetuar as devidas atualizações no plano de manutenção.\n\n9 - Estão dispensados da verificação dos requisitos previstos nos n.os 5 a 8 os edifícios novos que:\n\na) À data da emissão da respetiva licença de utilização, tenham uma potência térmica nominal para climatização inferior a 250 kW, com exceção do disposto na alínea a) do n.º 6, no caso de instalações com mais de 25 kW de potência nominal de climatização instalada ou prevista instalar;\n\nb) À data da avaliação a realizar para efeitos de emissão do respetivo certificado SCE, não se encontrem em funcionamento e os seus sistemas técnicos estejam desativados.\n\n10 - Os valores de potência nominal de climatização instalada ou prevista instalar referidos nos n.os 4 e 9, podem ser atualizados por portaria a aprovar por membro do Governo responsável pela área da energia."
+  },
+  "116126531": {
+   "fragment_id": "116126445",
+   "type": 3,
+   "heading": "Subsecção II — Edifícios sujeitos a intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Edifícios sujeitos a intervenção"
+  },
+  "116126532": {
+   "fragment_id": "116126446",
+   "type": 11,
+   "heading": "Artigo 42.º — Comportamento térmico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Comportamento térmico\n\n1 - Os edifícios de comércio e serviços sujeitos a intervenção ficam vinculados, nas partes e componentes a intervencionar, pelos requisitos de conceção definidos em portaria dos membros do Governo responsáveis pelas áreas da energia e da segurança social relativos à qualidade térmica e energética da envolvente, nomeadamente no que respeita aos valores máximos:\n\na) Do coeficiente de transmissão térmica superficial da envolvente opaca e envidraçada;\n\nb) Do fator solar dos vãos envidraçados horizontais e verticais.\n\n2 - Nas intervenções em edifícios de comércio e serviços deve ser salvaguardada a integração harmoniosa entre as partes existentes e as partes intervencionadas na envolvente, em condições que promovam, na maior extensão possível, a melhoria do comportamento térmico e a redução das necessidades energéticas do edifício.\n\n3 - Os requisitos mínimos de desempenho energético previstos nos números anteriores, para os edifícios sujeitos a intervenção ou para os elementos renovados ou substituídos da envolvente do edifício que tenham impacto significativo no seu desempenho energético, são sempre aplicados desde que tal seja possível do ponto de vista técnico e funcional, sendo as situações de exceção, reconhecidas pela entidade competente para o licenciamento da operação urbanística, identificadas e justificadas pelo técnico autor do projeto, nomeadamente, no pré-certificado e certificado, podendo ser adotadas soluções alternativas para os elementos a intervencionar, desde que seja demonstrado que o desempenho do edifício não diminui em relação à situação existente antes da intervenção.\n\n4 - O recurso a sistemas passivos que melhorem o desempenho energético dos edifícios novos de comércio e serviços deve ser promovido aquando da intervenção e o respetivo contributo considerado no cálculo do desempenho energético dos edifícios, sendo os sistemas mecânicos complementares, para os casos em que não seja possível assegurar por meios passivos o cumprimento das normas europeias ou das regras a aprovar, para o efeito, pela DGEG.\n\n5 - No caso de GES sujeitos a intervenção, todas as alterações realizadas no âmbito do disposto nos números anteriores devem:\n\na) Ser incluídas no livro de registo de ocorrências ou na documentação técnica do edifício, garantindo a atualização desta;\n\nb) Ser realizadas com o acompanhamento do TIM do edifício, o qual deve efetuar as devidas atualizações no plano de manutenção.\n\n6 - (Revogado.)"
+  },
+  "116126533": {
+   "fragment_id": "116126447",
+   "type": 11,
+   "heading": "Artigo 43.º — Eficiência dos sistemas técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Eficiência dos sistemas técnicos\n\n1 - Os edifícios de comércio e serviços sujeitos a intervenção ficam obrigados ao cumprimento, nos sistemas técnicos a instalar, dos requisitos de conceção definidos em portaria dos membros do Governo responsáveis pelas áreas da energia e da segurança social.\n\n2 - Além disso, os edifícios de comércio e serviços sujeitos a uma grande intervenção devem, de seguida, ter um IEEpr inferior ao IEEref, afetado de um coeficiente de majoração definido em portaria dos membros do Governo responsáveis pelas áreas da energia e da segurança social.\n\n3 - Nas intervenções em edifícios de comércio e serviços deve ser salvaguardada a integração harmoniosa entre os sistemas técnicos existentes e os novos sistemas técnicos a instalar no edifício, em condições que promovam, na maior extensão possível, a eficiência e o desempenho energético do edifício.\n\n4 - Os requisitos mínimos de desempenho energético previstos nos números anteriores, para os componentes instalados, intervencionados ou substituídos em sistemas técnicos que tenham impacto significativo no seu desempenho energético, são sempre aplicados desde que tal seja possível do ponto de vista técnico e funcional, sendo as situações de exceção, reconhecidas pela entidade competente para o licenciamento de operações urbanísticas, identificadas e justificadas pelo técnico autor do projeto, nomeadamente, no pré-certificado e certificado, podendo ser adotadas soluções alternativas para os componentes dos sistemas técnicos a instalar, intervencionar ou substituir, desde que seja demonstrado que o desempenho do edifício não diminui em relação à situação existente antes da intervenção.\n\n5 - No caso de GES sujeitos a intervenção, todas as alterações realizadas no âmbito do disposto nos números anteriores, quando for o caso, devem:\n\na) Ser incluídas no livro de registo de ocorrências ou na documentação técnica do edifício, garantindo a atualização desta;\n\nb) Ser realizadas com o acompanhamento do TIM do edifício, o qual deve efetuar as devidas atualizações no plano de manutenção.\n\n6 - (Revogado.)"
+  },
+  "116126534": {
+   "fragment_id": "116126448",
+   "type": 11,
+   "heading": "Artigo 44.º — Ventilação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Ventilação\n\n1 - No caso de edifícios de comércio e serviços sujeitos a intervenção que incida sobre o sistema de ventilação, deve ser assegurado, nos espaços a intervencionar, o cumprimento dos requisitos previstos no artigo 40.º para edifícios novos.\n\n2 - Nas intervenções, deve ser salvaguardada a integração harmoniosa entre as partes existentes e as partes intervencionadas no edifício e nos seus sistemas técnicos, em condições que assegurem uma boa qualidade do ar interior, preferencialmente por ventilação natural.\n\n3 - Os requisitos mínimos de desempenho energético previstos nos números anteriores, para os edifícios sujeitos a intervenção ou para os elementos renovados ou substituídos da envolvente do edifício que tenham impacto significativo no seu desempenho energético, são sempre aplicados desde que tal seja possível do ponto de vista técnico e funcional, sendo as situações de exceção, reconhecidas pela entidade competente para o licenciamento de operações urbanísticas, identificadas e justificadas pelo técnico autor do projeto, nomeadamente, no pré-certificado e certificado, podendo ser adotadas soluções alternativas para os elementos a intervencionar, desde que seja demonstrado que o desempenho do edifício não diminui em relação à situação existente antes da intervenção.\n\n4 - No caso de GES sujeitos a intervenção, todas as alterações realizadas no âmbito do disposto nos números anteriores, quando aplicável, devem:\n\na) Ser incluídas no livro de registo de ocorrências ou na documentação técnica do edifício, garantindo a atualização desta;\n\nb) Ser realizadas com o acompanhamento do TIM do edifício, que deve fazer as devidas atualizações no plano de manutenção.\n\n5 - (Revogado.)"
+  },
+  "116126535": {
+   "fragment_id": "116126449",
+   "type": 11,
+   "heading": "Artigo 45.º — Instalação, condução e manutenção de sistemas técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Instalação, condução e manutenção de sistemas técnicos\n\n1 - Os sistemas técnicos em edifícios de comércio e serviços sujeitos a intervenção devem ser instalados, conduzidos e mantidos de acordo com o previsto no artigo 41.º para edifícios novos.\n\n2 - O TIM do edifício, quando for o caso, deve acompanhar e supervisionar os trabalhos e assegurar que o plano de manutenção do edifício é atualizado com toda a informação relativa à intervenção realizada e às características dos sistemas técnicos do edifício após intervenção.\n\n3 - O cumprimento do disposto nos números anteriores deve ser demonstrado explicitamente nas peças escritas e desenhadas atualizadas do edifício e das instalações técnicas.\n\n4 - Os sistemas técnicos a instalar em edifícios de comércio e serviços sujeitos a ampliação devem cumprir com o disposto no presente artigo."
+  },
+  "116126536": {
+   "fragment_id": "116126450",
+   "type": 3,
+   "heading": "Subsecção III — Edifícios existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Edifícios existentes"
+  },
+  "116126537": {
+   "fragment_id": "116126451",
+   "type": 11,
+   "heading": "Artigo 46.º — Comportamento térmico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Comportamento térmico\n\nOs edifícios de comércio e serviços existentes não estão sujeitos a requisitos de comportamento térmico, exceto em caso de intervenção, caso em que se aplica o disposto no artigo 42.º"
+  },
+  "116126538": {
+   "fragment_id": "116126452",
+   "type": 11,
+   "heading": "Artigo 47.º — Eficiência dos sistemas técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Eficiência dos sistemas técnicos\n\n1 - Os edifícios de comércio e serviços existentes não estão sujeitos a requisitos de eficiência dos seus sistemas técnicos, exceto nas situações em que são sujeitos a intervenção nos termos do disposto no artigo 43.º\n\n2 - O desempenho energético dos edifícios de comércio e serviços existentes deve ser avaliado periodicamente com vista à identificação da necessidade e das oportunidades de redução dos respetivos consumos específicos de energia.\n\n3 - A obrigação de avaliação periódica prevista no número anterior não é aplicável às seguintes situações:\n\na) Aos PES, independentemente de serem ou não dotados de sistemas de climatização, desde que não se encontrem incluídos nas situações descritas na alínea b) do n.º 3 do artigo 3.º;\n\nb) Aos edifícios que não se encontrem em funcionamento e cujos sistemas técnicos estejam desativados à data da avaliação para efeitos de emissão do respetivo certificado SCE.\n\n4 - A avaliação energética periódica aos GES deve ser realizada de oito em oito anos, sendo a correção e tempestividade da avaliação comprovada pela:\n\na) Emissão do respetivo certificado no âmbito do SCE;\n\nb) Elaboração de um relatório de avaliação energética, acompanhado dos elementos comprovativos que suportem a análise, bem como de toda a informação que justifique as opções tomadas, devendo essa informação permanecer disponível, preferencialmente em formato eletrónico, por um período mínimo de oito anos.\n\n5 - Na situação descrita na alínea b) do n.º 3 do artigo 3.º em que o edifício não seja qualificado como GES, após emissão de certificado SCE nos termos dos n.os 1 e 4 do mesmo número, a avaliação energética referida no n.º 2 deve ser realizada de 10 em 10 anos.\n\n6 - Os requisitos associados à avaliação energética são estabelecidos em portaria dos membros do Governo responsáveis pelas áreas da energia e da segurança social.\n\n7 - A avaliação referida no n.º 2 obedece às metodologias previstas em despacho da DGEG."
+  },
+  "116126539": {
+   "fragment_id": "116126453",
+   "type": 11,
+   "heading": "Artigo 48.º — Qualidade do ar interior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Qualidade do ar interior\n\n1 - Os edifícios de comércio e serviços existentes ficam sujeitos ao cumprimento dos limiares de proteção e condições de referência dos poluentes constantes da portaria a que se refere o artigo 36.º\n\n2 - A fiscalização pelo IGAMAOT dos limiares de proteção é feita de acordo com a metodologia e com as condições de referência previstas na portaria a que se refere o artigo 36.º"
+  },
+  "116126540": {
+   "fragment_id": "116126454",
+   "type": 11,
+   "heading": "Artigo 49.º — Instalação, condução e manutenção de sistema técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Instalação, condução e manutenção de sistema técnicos\n\n1 - Os sistemas técnicos dos edifícios de comércio e serviços existentes devem possuir um plano de manutenção atualizado que inclua as tarefas de manutenção a realizar, tendo em consideração as disposições a definir para o efeito pela DGEG, bem como a boa prática da atividade de manutenção, as instruções dos fabricantes e a regulamentação aplicável para cada tipo de equipamento constituinte da instalação.\n\n2 - Os edifícios de comércio e serviços existentes devem ser acompanhados, durante o seu funcionamento, por:\n\na) Um TIM que garanta a correta manutenção do edifício e dos seus sistemas técnicos, supervisione as atividades realizadas nesse âmbito e assegure a gestão e atualização de toda a informação técnica relevante;\n\nb) Outros técnicos habilitados, desde que a sua participação seja exigida pela legislação em vigor, caso em que a sua atuação e responsabilidade prevalecem em relação ao previsto na alínea anterior.\n\n3 - O acompanhamento pelo TIM assenta em contrato escrito que concretize a atuação devida durante o funcionamento do edifício.\n\n4 - Todas as alterações introduzidas nos sistemas técnicos dos edifícios de comércio e serviços existentes devem:\n\na) Cumprir os requisitos definidos no n.º 1 do artigo 37.º e nos n.os 1 a 3 do artigo 41.º;\n\nb) Ser incluídas no livro de registo de ocorrências ou na documentação técnica do edifício, garantindo a atualização desta;\n\nc) Ser realizadas com o acompanhamento do TIM do edifício, o qual deve efetuar as devidas atualizações no plano de manutenção.\n\n5 - Estão dispensados da verificação dos requisitos previstos nos n.os 2 a 4 os seguintes edifícios:\n\na) Os edifícios existentes com uma potência térmica nominal para climatização inferior a 250 kW, com exceção do disposto na alínea a) do n.º 2, no caso de instalações com mais de 25 kW de potência nominal de climatização instalada ou prevista instalar;\n\nb) Edifícios que, à data da avaliação a realizar para efeitos de emissão do respetivo certificado SCE, não se encontrem em funcionamento e os seus sistemas técnicos estejam desativados.\n\n6 - Os valores de potência nominal de climatização instalada ou prevista instalar referidos na alínea a) do número anterior, podem ser atualizados por portaria a aprovar por membro do Governo responsável pela área da energia."
+  },
+  "116126541": {
+   "fragment_id": "116126455",
+   "type": 8,
+   "heading": "Secção IV — Controlo prévio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Controlo prévio"
+  },
+  "116126542": {
+   "fragment_id": "116126456",
+   "type": 11,
+   "heading": "Artigo 50.º — Edificação e utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Edificação e utilização\n\n1 - Os procedimentos de controlo prévio de operações urbanísticas de edificação devem incluir a demonstração da verificação do cumprimento do presente regulamento e dispor dos elementos definidos em portaria dos membros do Governo responsáveis pelas áreas da energia e do ordenamento do território.\n\n2 - Os requerimentos para emissão de licença de utilização devem incluir os elementos definidos na portaria identificada no número anterior.\n\n3 - O disposto nos números anteriores é aplicável, com as devidas adaptações, às operações urbanísticas de edificação promovidas pela administração pública e concessionárias de obras ou serviços públicos, isentas de controlo prévio."
+  },
+  "116126543": {
+   "fragment_id": "116126457",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "116126544": {
+   "fragment_id": "116126458",
+   "type": 11,
+   "heading": "Artigo 51.º — Balcão único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Balcão único\n\n1 - Com exceção dos processos de contraordenação, todos os pedidos, comunicações e notificações entre os técnicos de SCE e as autoridades competentes são realizados no portal SCE, integrado no balcão único eletrónico dos serviços referido no artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho.\n\n2 - Quando, por motivos de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, pode ser utilizado qualquer outro meio legalmente admissível."
+  },
+  "116126545": {
+   "fragment_id": "116126459",
+   "type": 11,
+   "heading": "Artigo 52.º — Aplicação nas regiões autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Aplicação nas regiões autónomas\n\nO presente diploma aplica-se às Regiões Autónomas da Madeira e dos Açores, sem prejuízo das competências cometidas aos respetivos órgãos de governo próprio e das adaptações que lhe sejam introduzidas por diploma regional."
+  },
+  "116126546": {
+   "fragment_id": "116126460",
+   "type": 11,
+   "heading": "Artigo 53.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Regime transitório\n\n1 - A entrada em vigor do presente diploma não prejudica a validade dos certificados energéticos antes emitidos.\n\n2 - No caso de edifícios cujo projeto de arquitetura dê entrada na entidade licenciadora antes da entrada em vigor do presente diploma:\n\na) É dispensada, por solicitação do interessado, a aplicação das normas previstas no presente diploma em sede de REH ou de RECS para edifícios novos ou sujeitos a grandes intervenções, sem prejuízo da obrigação de inclusão no processo de licenciamento de demonstração do cumprimento dos requisitos aplicáveis, decorrentes da legislação vigente à data do respetivo licenciamento, ou de o cumprimento dos requisitos ser atestado por termo de responsabilidade subscrito por técnico autor de projeto legalmente habilitado;\n\nb) Para efeitos de aplicação do SCE, e no que respeita exclusivamente à determinação da classe energética do edifício, o mesmo não se encontra limitado às classes exigidas para edifícios novos e sujeitos a grandes intervenções, sem prejuízo da verificação dos requisitos aplicáveis mencionados na alínea anterior."
+  },
+  "116126547": {
+   "fragment_id": "116126461",
+   "type": 11,
+   "heading": "Artigo 54.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Norma revogatória\n\n1 - Sem prejuízo do disposto no número seguinte, são revogados:\n\na) O Decreto-Lei n.º 78/2006, de 4 de abril;\n\nb) O Decreto-Lei n.º 79/2006, de 4 de abril;\n\nc) O Decreto-Lei n.º 80/2006, de 4 de abril.\n\n2 - A revogação dos preceitos a seguir referidos produz efeitos a partir da entrada em vigor de diploma que regular a mesma matéria:\n\na) Artigo 7.º do Decreto-Lei n.º 78/2006, de 4 de abril, sobre os requisitos de acesso e de exercício da atividade de PQ e respetivo protocolo;\n\nb) Artigo 12.º do Decreto-Lei n.º 78/2006, de 4 de abril, sobre a garantia da qualidade do SCE;\n\nc) Artigos 14.º a 17.º do Decreto-Lei n.º 78/2006, de 4 de abril, sobre as contraordenações cometidas pelo PQ no exercício das suas funções, previstas e punidas nos termos das alíneas c), d), e) e f) do n.º 1 do referido artigo 14.º, sobre o quadro das sanções acessórias aplicáveis, previstas nos n.os 1, 3 e 4 do referido artigo 15.º, sobre a competência para a instauração, instrução e decisão final dos processos de contraordenação e sobre os critérios de repartição das importâncias cobradas em resultado da aplicação das coimas aplicadas;\n\nd) Artigos 21.º e 22.º do Decreto-Lei n.º 79/2006, de 4 de abril, relativos ao técnico responsável pelo funcionamento e ao técnico de instalação e manutenção de sistemas de climatização e de QAI;\n\ne) Artigo 13.º do Decreto-Lei n.º 80/2006, de 4 de abril, sobre os requisitos aplicáveis ao responsável pelo projeto e pela execução;\n\nf) Anexo X do Decreto-Lei n.º 79/2006, de 4 de abril, sobre os valores limite dos consumos globais específicos dos edifícios de serviços existentes;\n\ng) Artigo 18.º, n.º 1, do Decreto-Lei n.º 80/2006, de 4 de abril, sobre os fatores de conversão entre energia útil e energia primária a aplicar para a eletricidade e combustíveis sólidos, líquidos e gasosos;\n\nh) Portaria n.º 835/2007, de 7 de agosto, sobre os valores das taxas de registo das declarações de conformidade regulamentar (DCR) e dos certificados de desempenho energético (CE), a serem utilizados nos termos e para os efeitos do artigo 13.º;\n\ni) Anexos do Despacho n.º 10250/2008, de 8 de abril, sobre os modelos de DCR e CE;\n\nj) Despacho n.º 14076/2010, de 8 de setembro, sobre os fatores de conversão entre energia útil e energia primária."
+  },
+  "116126548": {
+   "fragment_id": "116126462",
+   "type": 11,
+   "heading": "Artigo 55.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Entrada em vigor\n\nO presente diploma entra em vigor a 1 de dezembro de 2013.\n\n111575219"
+  },
+  "122652380": {
+   "fragment_id": "116125857",
+   "type": 11,
+   "heading": "Artigo 10.º — Procedimento em situações de cluster ou surto",
+   "in_force_from": "2019-06-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 40/2019 - Diário da República n.º 117/2019, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/lei/40-2019-122627505), em vigor a partir de 2019-06-22"
+   ],
+   "markdown": "###### Artigo 10.º — Procedimento em situações de cluster ou surto\n\n1 - Em situação de cluster ou surto deve ser realizada uma investigação ambiental, como parte da investigação epidemiológica, com o objetivo de identificar os locais que constituem possíveis fontes de contaminação e disseminação de Legionella, considerando-se como:\n\na) «Cluster», dois ou mais casos com critério clínico de doença dos legionários que inicialmente parecem estar ligados no espaço, nomeadamente por área de residência ou trabalho, e que têm proximidade suficiente nas datas de início da doença para justificar mais investigação;\n\nb) «Surto», a ocorrência de dois ou mais casos com critério clínico de doença dos legionários em que o aparecimento da doença está intimamente ligado no tempo e no espaço, designadamente onde há suspeita ou evidência de uma fonte comum de infeção, com ou sem confirmação laboratorial.\n\n2 - A investigação referida no número anterior é da responsabilidade da autoridade de saúde local, em articulação com a autoridade de saúde regional e nacional e envolvendo, sempre que necessário, a colaboração de outras entidades públicas em razão da matéria.\n\n3 - A investigação referida no n.º 1 requer:\n\na) O levantamento das possíveis fontes de contaminação e disseminação, recorrendo à informação existente, nomeadamente na plataforma de registo prevista no artigo 5.º;\n\nb) A consulta dos Planos previstos no artigo 6.º no que respeita às fontes de contaminação e disseminação identificadas na alínea anterior e a identificação dos fatores de risco para efeitos de seleção dos pontos de amostragem;\n\nc) A colheita de amostras de água e, sempre que se justifique, de biofilmes, deve ser realizada por técnicos de saúde ambiental das Unidades de Saúde Pública, ou em caso de insuficiência do número destes técnicos, por laboratórios acreditados para o efeito pelo IPAC, I. P.;\n\nd) O envio das amostras, devidamente acondicionadas e identificadas, para laboratório acreditado nos termos do n.º 2 do artigo 7.º, para pesquisa e quantificação de Legionella.\n\n4 - No decurso da investigação referida no n.º 1, a autoridade de saúde local pode determinar a adoção de medidas de emergência para controlar os riscos para a saúde, de acordo com a avaliação de risco efetuada.\n\n5 - A autoridade de saúde local deve elaborar, até duas semanas após a notificação dos primeiros casos, um relatório preliminar com os resultados da investigação epidemiológica e ambiental disponíveis à data e as medidas de emergência implementadas.\n\n6 - O relatório final da investigação ambiental e da investigação epidemiológica deve ser elaborado até 30 dias após a conclusão da investigação, devendo contemplar os respetivos resultados e conclusões, bem como as medidas implementadas.\n\n7 - Na sequência do relatório previsto no número anterior, a autoridade de saúde local deve assegurar a implementação de eventuais medidas adicionais necessárias para minimizar o risco de contaminação e disseminação de Legionella, prevenindo o aparecimento de novos casos.\n\n8 - A autoridade de saúde local articula-se, sempre que seja considerado necessário, com a autoridade de saúde regional e nacional.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 40/2019 - Diário da República n.º 117/2019, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/lei/40-2019-122627505), em vigor a partir de 2019-06-22"
+  },
+  "116125966": {
+   "fragment_id": "116126380",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 4 de maio de 2018.\n\nO Vice-Presidente da Assembleia da República, em substituição do Presidente da Assembleia da República, Jorge Lacão.\n\nPromulgada em 12 de julho de 2018.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 6 de agosto de 2018.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "155882663": {
+   "fragment_id": "116125867",
+   "type": 11,
+   "heading": "Artigo 19.º — Contraordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 19.º — Contraordenações\n\n1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), o incumprimento da obrigação de:\n\na) Elaborar, executar, cumprir ou rever o Plano, nos termos do disposto nos n.os 1 e 2 do artigo 3.º e nos n.os 1 e 5 do artigo 6.º;\n\nb) Realizar auditorias, nos termos do disposto no n.º 1 do artigo 3.º e nos n.os 1 e 2 do artigo 8.º;\n\nc) Adotar o procedimento aplicável em situação de risco, nos termos do disposto nos n.os 1 e 2 do artigo 3.º e no artigo 9.º;\n\nd) Proceder ao registo, nos termos do disposto no n.º 1 do artigo 3.º e no n.º 1 do artigo 5.º;\n\ne) Adotar as medidas determinadas pela autoridade de saúde em caso de cluster ou surto, nos termos do n.º 4 do artigo 3.º e do artigo 10.º\n\n2 - Constitui contraordenação económica leve, punível nos termos do RJCE:\n\na) O incumprimento da obrigação de elaborar e aplicar o programa de manutenção e limpeza previsto no n.º 3 do artigo 3.º;\n\nb) O registo incompleto de cada equipamento, em violação do disposto no n.º 2 do artigo 5.º;\n\nc) O incumprimento dos prazos para o registo de equipamentos, nos termos dos n.os 2 e 3 do artigo 5.º e do n.º 2 do artigo 26.º;\n\nd) O incumprimento da obrigação de manutenção de documentos e registos, nos termos do disposto no n.º 6 do artigo 6.º\n\n3 - A negligência é punível nos termos do RJCE.\n\n4 - A condenação pela prática das contraordenações previstas nos números anteriores é comunicada à DGS no prazo de 15 dias após trânsito em julgado da decisão condenatória.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "155882664": {
+   "fragment_id": "116125869",
+   "type": 11,
+   "heading": "Artigo 21.º — Sanções acessórias",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 21.º — Sanções acessórias\n\n1 - Em função da gravidade da conduta e da culpa do agente, podem ser aplicadas, cumulativamente com a coima, as sanções acessórias que, de entre as seguintes, se mostrem adequadas:\n\na) Perda de objetos pertencentes ao agente;\n\nb) Interdição do exercício de profissão ou atividade que dependa de título, autorização ou homologação de autoridade pública;\n\nc) Suspensão de autorizações, licenças e alvarás;\n\nd) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos.\n\n2 - As sanções acessórias previstas nas alíneas b) a d) do número anterior têm a duração máxima de dois anos, contados a partir do trânsito em julgado da decisão condenatória.\n\n3 - Pode ser objeto de publicidade, nos termos do disposto no RJCE, a condenação pela prática das infrações previstas na presente lei.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  }
+ }
+}

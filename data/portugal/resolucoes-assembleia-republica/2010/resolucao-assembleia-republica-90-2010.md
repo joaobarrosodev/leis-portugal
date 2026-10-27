@@ -1,0 +1,115 @@
+---
+schema_version: '1.0'
+id: pt:dre:333373:por
+title: Resolução da Assembleia da República n.º 90/2010
+short_title: null
+summary: Recomenda ao Governo que elabore, a partir da Classificação Internacional da Funcionalidade, Incapacidade e Saúde
+  (CIF), uma tabela de incapacidades decorrentes de doenças crónicas e uma tabela de funcionalidade
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 90/2010
+official_date: null
+publication_date: '2010-08-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 154/2010, Série I de 2010-08-10
+  number: '154'
+  series: I
+  supplement: null
+  pages: 3306 - 3306
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/08/15400/0330603306.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/90/2010/08/10/p/dre/pt/html
+  oj: null
+  dre: '333373'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/90-2010-333373
+  internal: pt:dre:333373:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/90-2010-333373
+  metadata_url: https://data.dre.pt/eli/resolassrep/90/2010/08/10/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/90-2010-333373
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:27:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 43a50745488919bd6e487332d67cecde99209b258bca5ceb2162c385ecdc71cd
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:27:02Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Classificação Internacional da Funcionalidade Incapacidade e Saúde
+- Comissão
+- Conselho Nacional para a Reabilitação e Integração das Pessoas com Deficiência
+- Doença
+- Incapacidade Permanente
+- Ministério da Ciência Tecnologia e Ensino Superior
+- Ministério da Educação
+- Ministério do Trabalho e da Solidariedade Social
+- Recomendação
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:27:02Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 90/2010
+
+Recomenda ao Governo que elabore, a partir da Classificação Internacional da Funcionalidade, Incapacidade e Saúde (CIF), uma tabela de incapacidades decorrentes de doenças crónicas e uma tabela de funcionalidade.
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+
+1 - Elabore duas tabelas distintas, mas complementares:
+
+a) Tabela de incapacidades decorrentes de doenças crónicas;
+
+b) Tabela de funcionalidade.
+
+2 - Para o efeito, crie uma estrutura composta por peritos interministeriais e multidisciplinares, designadamente representantes dos Ministérios das Finanças, do Trabalho e da Solidariedade Social, da Educação, da Ciência, Tecnologia e Ensino Superior e do Conselho Nacional para Reabilitação e Integração das Pessoas com Deficiência - CNRIPD, a funcionar na directa dependência do Ministro da Saúde.
+
+3 - Para a elaboração destas duas tabelas se tome como base a CIF, desenvolvida pela Organização Mundial de Saúde.
+
+4 - Estipule um prazo para a apresentação destas duas tabelas, não superior a um ano.
+
+5 - Num prazo nunca superior a um ano após a sua conclusão, as tabelas deverão estar a ser obrigatoriamente aplicadas em todos os contactos dos doentes com os serviços de saúde, devendo, nomeadamente, integrar os respectivos sistemas de informação.
+
+Aprovada em 9 de Julho de 2010.
+
+O Presidente da Assembleia da República, Jaime Gama.

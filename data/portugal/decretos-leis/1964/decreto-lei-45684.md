@@ -1,0 +1,241 @@
+---
+schema_version: '1.0'
+id: pt:dre:582656:por
+title: Decreto-Lei n.º 45684
+short_title: null
+summary: Actualiza as disposições reguladoras da concessão, aos militares dos três ramos das forças armadas, de pensões de
+  reforma extraordinária e de pensões de invalidez - Revoga várias disposições dos Decretos-Leis n.os 28404, 30250, 30913
+  e 32691
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho - Gabinete do Ministro da Defesa Nacional
+proposing_entity: null
+official_number: '45684'
+official_date: null
+publication_date: '1964-04-27'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 100/1964, Série I de 1964-04-27
+  number: '100'
+  series: I
+  supplement: null
+  pages: 579 - 581
+  pdf_url: https://files.diariodarepublica.pt/1s/1964/04/10000/05790581.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '582656'
+  dre_path: /dr/detalhe/decreto-lei/45684-1964-582656
+  internal: pt:dre:582656:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45684-1964-582656
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45684-1964-582656
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:48:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0b29d2d8ed183c7a43688f1773d97d802aaababb6cc374b14f6a249b64b5dc39
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:48:51Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Actualização de Pensões
+- Caixa Geral de Aposentações
+- Deficiente das Forças Armadas
+- Forças Armadas
+- Militar
+- Pensão de Invalidez
+- Pensão de Reforma
+- Segurança Social
+relationships:
+- type: amended_by
+  target: pt:dre:421985:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:535420:por
+  label: "Dada nova redacção ao art. 2º, aos §§3º e 4º do art. 3ºe ao § 1º do art. 9º pelo DEC LEI.46046.27.11.1964.PC, DG.IS\
+    \ [279] de 27.11.1964\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46046-1964-535420
+  date: '1964-11-27'
+- type: amended_by
+  target: pt:dre:553912:por
+  label: "Tornado extensivo ao pessoal da Guarda Nacional Republicana, da Guarda Fiscal e da Polícia de Segurança Pública\
+    \ o regime do art. 1º e seus parágrafos, do art. 3º e seu § 2.º, do art. 4º e seus §§ 1.º e 2.º, do art. 5º e seu § único\
+    \ e do art. 9º e seus parágrafos do presente diploma, pelo DEC LEI.46103.24.12.1964.MI, DG.IS [300] de 24.12.1964\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46103-1964-553912
+  date: '1964-12-24'
+- type: cites
+  target: pt:dre:167394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678604:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:685188:por
+  label: "Revogado, com excepção do art. 4º e seu § 2º e dos arts seguintes, pelo DEC LEI.498/72.09.12.1972.MF, DG.IS [285]\
+    \ de 09.12.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/498-1972-685188
+  date: '1972-12-09'
+- type: repealed_by
+  target: pt:dre:421985:por
+  label: "Revogados os arts. 4º, 5º e 6º pelo DEC LEI.210/73.1973.05.09.PC DG.IS [109]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-1973-421985
+  date: '1973-05-09'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:48:51Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 45684
+
+Considerando a conveniência de rever a legislação reguladora da concessão, aos militares dos três ramos das forças armadas, de pensões de reforma extraordinária e de pensões de invalidez, quando, no desempenho dos seus deveres militares, vêm a sofrer diminuição da sua capacidade física;
+
+Considerando a necessidade de assegurar aos que se inferiorizam ao serviço da Pátria as condições indispensáveis à sua subsistência;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º Têm direito à reforma extraordinária os militares que nesta qualidade são subscritores da Caixa Geral de Aposentações e que se tornem inábeis para o serviço por algumas das causas seguintes:
+
+a) Moléstia, ferimento ou mutilação contraída no exercício das suas funções e por motivo do seu desempenho;
+
+b) Ferimento ou mutilação em campanha ou na manutenção da ordem pública;
+
+c) Moléstia, ferimento ou mutilação resultante da prática de algum acto humanitário ou de dedicação à causa pública.
+
+§ 1.º Para os efeitos da alínea b) considera-se também como ferimento a intoxicação ou outros danos produzidos por gases de combate ou quaisquer outros meios de guerra que produzam no organismo causas de incapacidade, mesmo que os seus efeitos venham a manifestar-se posteriormente.
+
+§ 2.º A reforma extraordinária é concedida independentemente da idade e do tempo de serviço.
+
+§ 3.º Nos casos das alíneas b) e c), a pensão de reforma é devida por inteiro e, nos restantes casos, é calculada em função dos anos de serviço e do grau de incapacidade, conforme o estabelecido no artigo 3.º
+
+Art. 2.º O pessoal miliciano, o pessoal das reservas da marinha, os primeiros e segundos-cabos, os soldados e os grumetes, não abrangidos pelo artigo anterior, quando, no desempenho dos seus deveres militares e por qualquer das causas referidas no mesmo artigo, venham a sofrer de impotência funcional a que corresponda a incapacidade profissional superior a 15 por cento, segundo a tabela nacional de incapacidade, aprovada pelo [Decreto n.º 43189](https://diariodarepublica.pt/dr/detalhe/decreto/43189-1960-514848), de 23 de Setembro de 1960, têm direito ao abono de uma pensão de invalidez, que será fixada nos mesmos termos em que, segundo as disposições do presente diploma, o é a pensão de reforma extraordinária dos militares subscritores da Caixa Geral de Aposentações.
+
+§ 1.º O processo a observar para a concessão e pagamento das pensões de invalidez de que trata este artigo é em tudo o estabelecido para as pensões de reforma e corre pela Caixa Geral de Aposentações, que para tal fim é abonada pelo Estado das importâncias necessárias à satisfação das pensões concedidas.
+
+§ 2.º Não se produzindo prova bastante da profissão do militar na vida civil, funcionará, subsidiàriamente, o critério de avaliação da incapacidade em função daquela sua qualidade.
+
+§ 3.º No Orçamento Geral do Estado é inscrita, em rubrica especial, a verba necessária para abonar à Caixa Geral de Aposentações a importância das pensões de invalidez que haja de pagar nos termos do § 1.º
+
+§ 4.º Os beneficiários das pensões de invalidez concedidas nos termos do corpo deste artigo ficam abrangidos pelas disposições aplicáveis aos militares reformados extraordinàriamente.
+
+Art. 3.º A pensão de reforma extraordinária dos militares, quando devida por inteiro, é igual ao vencimento anual correspondente ao posto no activo, líquido do correspondente à quota, quando outro valor não seja de considerar nos termos dos parágrafos seguintes. Nos casos em que o número de anos de serviço e o grau de incapacidade sejam elementos a considerar, a pensão é calculada pela seguinte fórmula:
+
+P = [(Vn/40) + g (V - (Vn/40))]
+
+em que V representa o vencimento anual correspondente ao posto no activo, líquido do correspondente à quota, g o grau de incapacidade e n o número de anos de serviço, ao qual não pode ser atribuído valor superior a 40.
+
+§ 1.º Quando se trate de cabos e soldados do Exército e da Força Aérea ou de praças da Armada de graduação inferior a marinheiro, o valor a atribuir a V será o vencimento anual de marinheiro, líquido do correspondente à quota; este será também o valor da respectiva pensão por inteiro, quando esta seja devida.
+
+§ 2.º Desde que o militar comprove que a média dos vencimentos percebidos durante os últimos dez anos que precederam a passagem à reforma, sobre os quais incidiu o desconto para a Caixa Geral de Aposentações, é supeperior ao vencimento anual correspondente ao posto do activo, será essa média que servirá para a determinação da pensão, a qual, no entanto, não poderá exceder o limite previsto no artigo 19.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, na escala geral dos vencimentos, sendo o máximo admitido o correspondente à letra A da mesma escala. São exceptuados da média referida os abonos mencionados no § 3.º do artigo 3.º do [Decreto-Lei n.º 39843](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39843-1954-678604), de 7 de Outubro de 1954, e no artigo 2.º do [Decreto-Lei n.º 41387](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41387-1957-251643), de 22 de Novembro de 1957.
+
+§ 3.º Para o pessoal especializado que tenha servido na Aeronáutica Naval ou na Força Aérea ou tenha feito parte das guarnições dos submersíveis, ao valor da pensão, calculada nos termos do corpo deste artigo, adicionar-se-ão os seguintes quantitativos:
+
+(6/15000) n' . G - g ((6/10) - (6/15000) n') . G para os primeiros
+
+(6/4500) n' . G - g ((6/10) - (6/4500) n') . G para os segundos
+
+em que g representa o grau de incapacidade, G a gratificação anual que o militar recebia no último posto em que efectuou voos ou em que realizou imersões em submersíveis de cuja guarnição fizesse parte, conforme os casos, e n' o número de horas de voo ou de imersão que tiver efectuado, porém, com limites de 1500 e 450 horas, respectivamente. Nos casos em que a pensão seja devida por inteiro, o quantitativo a adicionar à pensão será igual a 0,60 G.
+
+§ 4.º Se a pensão for de calcular com base na média dos abonos nos últimos dez anos, a gratificação de serviço aéreo ou de imersão intervirá para a formação da mesma média, não sendo de adicionar à pensão nos termos referidos no parágrafo anterior.
+
+Art. 4.º Os beneficiários das pensões de reforma extraordinária ou de invalidez concedidas ao abrigo deste diploma poderão, mediante autorização do Conselho de Ministros e sob proposta fundamentada dos serviços, voltar à actividade no Estado, corpos administrativos e organismos de coordenação económica ou prestar-lhes serviço remunerado, fora das hipóteses abrangidas pelo artigo 23.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, combinado com os artigos 5.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, e 2.º do [Decreto-Lei n.º 43285](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43285-1960-514426), de 3 de Novembro de 1960.
+
+§ 1.º Quando, porém, as funções sejam remuneradas deverá observar-se o disposto no artigo 38.º do [Decreto n.º 16669](https://diariodarepublica.pt/dr/detalhe/decreto/16669-1929-624997), de 27 de Março de 1929.
+
+§ 2.º A apreciação da capacidade física para o exercício do cargo de que se trate será feita tendo em conta as naturais limitações dos requerentes.
+
+Art. 5.º Aos beneficiários de pensões de reforma extraordinária ou de invalidez é dada preferência, em igualdade de condições na colocação permitida nos termos do corpo do artigo precedente.
+
+§ único. Quando se trate de beneficiários de pensões de reforma extraordinária ou de pensões de invalidez concedidas nas condições referidas nas alíneas b) e c) do artigo 1.º ser-lhes-á dada preferência absoluta na mesma colocação, sempre que esta não esteja sujeita por lei a apreciação relativa de méritos.
+
+Art. 6.º Os militares que por virtude de qualquer dos motivos referidos no artigo 1.º sofram de impotência funcional, total ou parcial, superior a 60 por cento, são considerados inválidos militares, e poderão ser recolhidos pelo Estado em estabelecimento apropriado.
+
+Art. 7.º Ficam revogados o artigo 8.º e seus parágrafos do [Decreto-Lei n.º 28404](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28404-1937-668690), de 31 de Dezembro de 1937, sem prejuízo do disposto no artigo 1.º do [Decreto-Lei n.º 32691](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32691-1943-301396), de 20 de Fevereiro de 1943, o artigo 8.º e seus parágrafos do [Decreto-Lei n.º 30250](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30250-1939-534615), de 30 de Dezembro de 1939, o artigo 2.º e seus parágrafos do [Decreto-Lei n.º 30913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30913-1940-167394), de 22 de Novembro de 1940, e o artigo 11.º do [Decreto-Lei n.º 32691](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32691-1943-301396), de 20 de Fevereiro de 1943.
+
+Art. 8.º As dúvidas e casos omissos que se apresentem na execução deste diploma serão resolvidos por portaria dos Ministros da Defesa Nacional e das Finanças e do titular ou titulares dos departamentos militares interessados.
+
+Art. 9.º As disposições do presente diploma são aplicáveis aos militares que, por facto ou razão do serviço posterior a 31 de Dezembro de 1960, hajam sofrido ou venham a sofrer qualquer das causas de incapacidade referidas no artigo 1.º
+
+§ 1.º A retroactividade referida no corpo deste artigo só poderá, porém, importar revisão da situação em que tiver sido colocado o militar ou das pensões já concedidas se essa revisão for requerida no prazo de 90 dias, contados do início de vigência deste diploma.
+
+§ 2.º Os quantitativos das pensões revistos só serão, porém, devidos a partir da data em que for requerida a revisão.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 27 de Abril de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Francisco António das Chagas.

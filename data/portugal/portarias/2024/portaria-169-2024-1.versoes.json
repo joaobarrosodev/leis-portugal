@@ -1,0 +1,64 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:869204768:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-869236102",
+ "dre_path": "/dr/detalhe/portaria/169-2024-869204768",
+ "source_lastmod": "2024-07-22",
+ "versions": [
+  {
+   "date": "2024-06-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "869246180",
+    "869246181",
+    "869246182",
+    "869246183",
+    "869246184"
+   ]
+  }
+ ],
+ "fragments": {
+  "869246180": {
+   "fragment_id": "869236103",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 169/2024/1\n\nde 19 de junho\n\nO Regulamento (UE) 2019/1157 do Parlamento Europeu e do Conselho, de 20 de junho de 2019, que veio reforçar a segurança dos bilhetes de identidade dos cidadãos da União e dos títulos de residência emitidos aos cidadãos da União e seus familiares que exercem o direito à livre circulação, definiu, entre outros aspetos, as normas de segurança, o modelo uniforme do documento de identificação e as respetivas especificações.\n\nEm conformidade com o previsto neste Regulamento, a Portaria n.º 126/2024/1, de 1 de abril, procedeu à alteração dos modelos do cartão de cidadão para cidadãos nacionais e do cartão de cidadão para beneficiários do estatuto geral de igualdade de direitos e deveres previsto no Tratado de Amizade, Cooperação e Consulta entre a República Portuguesa e a República Federativa do Brasil.\n\nTorna-se agora necessário alterar o modelo do cartão de cidadão provisório previsto no artigo 61.º-A da Lei n.º 7/2007, de 5 de fevereiro, na sua redação atual.\n\nAssim, ao abrigo do disposto no n.º 8 do artigo 61.º-A e no n.º 1 do artigo 63.º da Lei n.º 7/2007, de 5 de fevereiro, na sua redação atual, e no uso das competências delegadas pela Ministra da Justiça, através do Despacho n.º 6293/2024, publicado no Diário da República, 2.ª série, n.º 108, de 5 de junho de 2024, manda o Governo, pela Ministra da Administração Interna, pela Ministra da Juventude e Modernização e pela Secretária de Estado da Justiça, o seguinte:"
+  },
+  "869246181": {
+   "fragment_id": "869236104",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à terceira alteração à Portaria n.º 286/2017, de 28 de setembro, na sua redação atual."
+  },
+  "869246182": {
+   "fragment_id": "869236105",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao anexo I da Portaria n.º 286/2017, de 28 de setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao anexo I da Portaria n.º 286/2017, de 28 de setembro\n\nO anexo I da Portaria n.º 286/2017, de 28 de setembro, na sua redação atual, é alterado com a redação constante do anexo I à presente portaria e da qual faz parte integrante."
+  },
+  "869246183": {
+   "fragment_id": "869236106",
+   "type": 11,
+   "heading": "Artigo 3.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Republicação\n\nÉ republicada no anexo II à presente portaria, e da qual faz parte integrante, a Portaria n.º 286/2017, de 28 de setembro, com a redação introduzida pela presente portaria."
+  },
+  "869246184": {
+   "fragment_id": "869236107",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 10 de junho de 2024."
+  }
+ }
+}

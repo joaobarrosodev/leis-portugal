@@ -1,0 +1,445 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:608057:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-74964439",
+ "dre_path": "/dr/detalhe/portaria/469-2009-608057",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-05-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "206161156",
+    "74962681",
+    "74962682",
+    "74962683",
+    "74962684",
+    "74962685",
+    "74962686",
+    "74962687"
+   ]
+  },
+  {
+   "date": "2009-08-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:493766:por",
+     "title": "Portaria n.º 915/2009",
+     "published": "2009-08-18",
+     "dre_path": "/dr/detalhe/portaria/915-2009-493766"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º-A"
+   ],
+   "fragments": [
+    "74962680",
+    "74962681",
+    "74962682",
+    "74962683",
+    "74962684",
+    "74962685",
+    "74962686",
+    "74962725",
+    "74962726",
+    "74962727"
+   ]
+  },
+  {
+   "date": "2010-08-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:343153:por",
+     "title": "Portaria n.º 694/2010",
+     "published": "2010-08-16",
+     "dre_path": "/dr/detalhe/portaria/694-2010-343153"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Adita Artigo 5.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 6.º-A"
+   ],
+   "fragments": [
+    "74962680",
+    "74965803",
+    "74965804",
+    "74965805",
+    "74965806",
+    "74962730",
+    "74965807",
+    "74962736",
+    "74965808",
+    "74965809",
+    "74962739",
+    "74962740"
+   ]
+  },
+  {
+   "date": "2022-11-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:187481298:por",
+     "title": "Lei n.º 16/2022",
+     "published": "2022-08-16",
+     "dre_path": "/dr/detalhe/lei/16-2022-187481298"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "206161156",
+    "206161157",
+    "206161158",
+    "206161159",
+    "206161160",
+    "206161161",
+    "206161162",
+    "206161163",
+    "206161164",
+    "206161165",
+    "206161166",
+    "206161167"
+   ]
+  }
+ ],
+ "fragments": {
+  "206161156": {
+   "fragment_id": "74964440",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-11-14",
+   "changed_by": [],
+   "markdown": "Portaria n.º 469/2009\n\nde 6 de Maio\n\nA Lei n.º 32/2008, de 17 de Julho, procedeu à transposição para a ordem jurídica interna da Directiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0024\" title=\"Link para Directiva da Comunidade Europeia\">2006/24/CE</a>, do Parlamento Europeu e do Conselho, de 15 de Março de 2006, relativa à conservação de dados gerados ou tratados no contexto da oferta de serviços de comunicações electrónicas publicamente disponíveis ou de redes públicas de comunicações.\n\nNo quadro da regulamentação imposta por aquela directiva, a Lei n.º 32/2008, de 17 de Julho, veio criar a obrigação de os fornecedores de serviços de comunicações electrónicas publicamente disponíveis ou de uma rede pública de comunicações conservarem certos dados de comunicação especificamente definidos, para que possam ser acedidos pelas autoridades competentes, exclusivamente para fins de investigação, detecção e repressão de crimes graves.\n\nReconhecendo a sensibilidade dos valores em presença e da conservação dos dados em causa, a Lei n.º 32/2008, de 17 de Julho, adoptou especiais restrições, cautelas e medidas de segurança em sede de acesso e tratamento dos dados e de supervisão e fiscalização do cumprimento das obrigações legalmente previstas, de que cabe destacar as seguintes: a inclusão de um elenco taxativo de tipos de crime que integram o conceito de «crime grave»; a proibição expressa da conservação de dados que revelem o conteúdo das comunicações; a previsão de que o acesso aos dados apenas pode ser solicitado pelo Ministério Público ou pela autoridades de polícia criminal competentes e depende sempre da decisão do juiz; a fixação em um ano do período de conservação de dados; a consagração da obrigatoriedade de autorização e registo junto da Comissão Nacional de Protecção de Dados (CNPD) das pessoas que, no âmbito dos fornecedores de serviços de comunicações electrónicas publicamente disponíveis ou de uma rede pública de comunicações, devam desempenhar tarefas associadas ao cumprimento das obrigações previstas na lei.\n\nNo que especificamente respeita à transmissão dos dados legalmente previstos, o n.º 3 do artigo 7.º da Lei n.º 32/2008, de 17 de Julho, determina que a mesma se processe mediante comunicação electrónica, nos termos das condições técnicas e de segurança fixadas em portaria conjunta dos membros do Governo responsáveis pelas áreas da administração interna, da justiça e das telecomunicações, que devem observar um grau de protecção e codificação o mais elevado possível, de acordo com o estado da técnica ao momento da transmissão, incluindo métodos de codificação, encriptação ou outros adequados.\n\nEm cumprimento dessa determinação legal, a presente portaria vem concretizar medidas importantes, tendo em vista a fixação das condições técnicas e de segurança da comunicação electrónica dos dados de tráfego e de localização relativos a pessoas singulares e a pessoas colectivas, bem como dos dados conexos necessários para identificar o assinante ou o utilizador registado, previstos na Lei n.º 32/2008, de 17 de Julho.\n\nAssim, em primeiro lugar, prevê-se que a comunicação electrónica se processe tendo por base uma aplicação informática específica, através da qual o juiz procede ao envio do pedido de dados e os fornecedores de serviços de comunicações electrónicas publicamente disponíveis ou de uma rede pública de comunicações notificam da transferência do ficheiro correspondente ao resultado da pesquisa.\n\nEm segundo lugar, fica expressamente estabelecida a obrigatoriedade de aposição de assinatura electrónica, seja no despacho fundamentado do juiz que ordena ou autoriza a transmissão de dados - estendendo-se a este domínio a regra prevista no n.º 1 do artigo 17.º da Portaria n.º 114/2008, de 6 de Fevereiro - , seja no ficheiro de resposta ao pedido de dados, enviado pelos fornecedores.\n\nEm terceiro lugar, determina-se a encriptação de todas as comunicações electrónicas efectuadas ao abrigo da presente portaria, bem como do ficheiro de resposta ao pedido de dados enviado pelos fornecedores, conferindo assim as máximas garantias neste domínio.\n\nEm quarto lugar, estabelece-se a obrigatoriedade de proceder ao registo electrónico dos pedidos de dados enviados, com indicação de quem procedeu ao envio e da data e hora em que o mesmo ocorreu, bem como dos acessos a ficheiros de resposta, igualmente com indicação de quem os efectuou e da data e hora de cada acesso.\n\nFinalmente, prevê-se a realização de auditorias de segurança à aplicação informática, consagrando expressamente na portaria uma boa prática já observada no âmbito dos sistemas informáticos do sistema judicial.\n\nA presente portaria vem ainda dar ao juiz a possibilidade de utilizar a plataforma tecnológica criada para enviar pedidos de dados relativos a crimes para os quais não seja possível ordenar ou autorizar a transmissão dos dados conservados ao abrigo da Lei n.º 32/2008, de 17 de Julho.\n\nDeste modo, garante-se que o juiz tem a possibilidade de enviar os pedidos de dados aos fornecedores com as mesmas condições de segurança e de forma sempre electrónica, independentemente do tipo de crimes a que tais dados respeitem.\n\nAssim:\n\nAo abrigo do disposto no n.º 3 do artigo 7.º da Lei n.º 32/2008, de 17 de Julho, no n.º 3 do artigo 94.º do Código de Processo Penal e no n.º 3 do artigo 176.º do Código de Processo Civil:\n\nManda o Governo, pelo Ministro da Administração Interna, da Justiça e das Obras Públicas, Transportes e Comunicações, o seguinte:"
+  },
+  "74962681": {
+   "fragment_id": "74964441",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria estabelece os termos das condições técnicas e de segurança em que se processa a comunicação electrónica para efeitos da transmissão de dados de tráfego e de localização relativos a pessoas singulares e a pessoas colectivas, bem como dos dados conexos necessários para identificar o assinante ou o utilizador registado, nos termos previstos na Lei n.º 32/2008, de 17 de Julho."
+  },
+  "74962682": {
+   "fragment_id": "74964442",
+   "type": 11,
+   "heading": "Artigo 2.º — Pedido de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Pedido de dados\n\n1 - O juiz que tenha ordenado ou autorizado a transmissão de dados nos termos previstos no artigo 9.º da Lei n.º 32/2008, de 17 de Julho, procede ao pedido dos mesmos através da aplicação informática especificamente disponibilizada para o efeito («a aplicação informática»).\n\n2 - O pedido de dados é efectuado através do preenchimento do formulário electrónico disponibilizado na aplicação informática, ao qual se anexa o despacho fundamentado do juiz que ordena ou autoriza a transmissão de dados.\n\n3 - O pedido de dados é constituído:\n\na) Pelo despacho fundamentado do juiz que ordena ou autoriza a transmissão de dados, elaborado em formato portable document format (pdf) ou em ficheiro de texto e com aposição de assinatura electrónica, nos termos do disposto no n.º 1 do artigo 17.º da Portaria n.º 114/2008, de 6 de Fevereiro; e\n\nb) Pelo formulário electrónico, preenchido de acordo com o conteúdo do despacho referido na alínea anterior."
+  },
+  "74962683": {
+   "fragment_id": "74964443",
+   "type": 11,
+   "heading": "Artigo 3.º — Resposta dos fornecedores ao pedido de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Resposta dos fornecedores ao pedido de dados\n\n1 - Após recepção de um pedido de dados, o fornecedor de serviços de comunicações electrónicas publicamente disponíveis ou de uma rede pública de comunicações («o fornecedor») procede imediatamente à pesquisa dos mesmos, de acordo com a ordem cronológica de recepção do pedido ou o grau de urgência determinado no despacho fundamentado do juiz.\n\n2 - Logo que a pesquisa de dados esteja concluída, o fornecedor:\n\na) Transfere o ficheiro correspondente ao resultado da pesquisa, através de ligação segura, encriptada e com autenticação mediante nome de utilizador e palavra-passe; e\n\nb) Envia notificação da transferência do ficheiro de resposta através da aplicação informática, indicando o nome do ficheiro transferido.\n\n3 - Os ficheiros de resposta obedecem aos seguintes requisitos técnicos:\n\na) São elaborados em formato portable document format (pdf);\n\nb) É-lhes aposta assinatura electrónica;\n\nc) São encriptados mediante chaves assimétricas, disponibilizadas através de certificados digitais.\n\n4 - O fornecedor solicita, através da aplicação informática, que o pedido de dados seja rectificado ou completado quando:\n\na) Se verifique uma divergência entre o despacho fundamentado do juiz e o preenchimento do formulário electrónico;\n\nb) Falte algum dos elementos referidos no n.º 3 do artigo 2.º"
+  },
+  "74962684": {
+   "fragment_id": "74964444",
+   "type": 11,
+   "heading": "Artigo 4.º — Notificação da recepção do ficheiro de resposta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Notificação da recepção do ficheiro de resposta\n\n1 - O fornecedor é notificado, pela aplicação informática, da recepção e armazenamento com sucesso do ficheiro de resposta enviado.\n\n2 - Após recepção da notificação referida no número anterior, o fornecedor pode eliminar a cópia do ficheiro em causa do seu sistema, sem prejuízo da obrigação de conservação dos dados nos termos previstos na Lei n.º 32/2008, de 17 de Julho."
+  },
+  "74962685": {
+   "fragment_id": "74964445",
+   "type": 11,
+   "heading": "Artigo 5.º — Segurança da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Segurança da informação\n\n1 - Tendo em vista a segurança dos dados objecto da comunicação electrónica referida no artigo 1.º, são adoptadas as seguintes medidas:\n\na) Encriptação de todas as comunicações electrónicas efectuadas ao abrigo da presente portaria;\n\nb) Encriptação do ficheiro de resposta, nos termos previstos na alínea c) do n.º 4 do artigo 3.º, a qual assegura que a visualização, em suporte electrónico, dos dados constantes desse ficheiro, se efectua apenas através da aplicação informática;\n\nc) Aposição de assinatura electrónica ao despacho fundamentado do juiz e ao ficheiro de resposta do fornecedor, nos termos previstos na alínea a) do n.º 3 do artigo 2.º e na alínea b) do n.º 4 do artigo 3.º, com vista a assegurar a integridade desses ficheiros;\n\nd) Registo electrónico dos pedidos de dados enviados, com indicação de quem procedeu ao envio e da data e hora em que o mesmo ocorreu;\n\ne) Registo electrónico dos acessos a ficheiros de resposta, com indicação de quem os efectuou e da data e hora de cada acesso;\n\nf) Armazenamento dos ficheiros de resposta em repositórios separados para cada fornecedor, os quais apresentam os mecanismos de segurança necessários para evitar a interconexão dos dados;\n\ng) Auditorias de segurança à aplicação informática;\n\nh) As demais medidas previstas na Lei n.º 67/98, de 26 de Outubro, e na Lei n.º 32/2008, de 17 de Julho.\n\n2 - O acesso à aplicação informática efectua-se mediante introdução, pelo juiz, do respectivo nome de utilizador e palavra-passe."
+  },
+  "74962686": {
+   "fragment_id": "74964446",
+   "type": 11,
+   "heading": "Artigo 6.º — Envio electrónico de outros pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Envio electrónico de outros pedidos\n\nQuando o juiz recorrer à aplicação informática para a realização, nos termos legalmente previstos, de um pedido de dados relativo a crime para o qual não seja possível ordenar ou autorizar a transmissão dos dados conservados ao abrigo da Lei n.º 32/2008, de 17 de Julho, aplica-se ao envio desse pedido o disposto no artigo 2.º da presente portaria, com as devidas adaptações."
+  },
+  "74962687": {
+   "fragment_id": "74964447",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "74962680": {
+   "fragment_id": "74964440",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 469/2009\n\nde 6 de Maio\n\nA Lei n.º 32/2008, de 17 de Julho, procedeu à transposição para a ordem jurídica interna da Directiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0024\" title=\"Link para Directiva da Comunidade Europeia\">2006/24/CE</a>, do Parlamento Europeu e do Conselho, de 15 de Março de 2006, relativa à conservação de dados gerados ou tratados no contexto da oferta de serviços de comunicações electrónicas publicamente disponíveis ou de redes públicas de comunicações.\n\nNo quadro da regulamentação imposta por aquela directiva, a Lei n.º 32/2008, de 17 de Julho, veio criar a obrigação de os fornecedores de serviços de comunicações electrónicas publicamente disponíveis ou de uma rede pública de comunicações conservarem certos dados de comunicação especificamente definidos, para que possam ser acedidos pelas autoridades competentes, exclusivamente para fins de investigação, detecção e repressão de crimes graves.\n\nReconhecendo a sensibilidade dos valores em presença e da conservação dos dados em causa, a Lei n.º 32/2008, de 17 de Julho, adoptou especiais restrições, cautelas e medidas de segurança em sede de acesso e tratamento dos dados e de supervisão e fiscalização do cumprimento das obrigações legalmente previstas, de que cabe destacar as seguintes: a inclusão de um elenco taxativo de tipos de crime que integram o conceito de «crime grave»; a proibição expressa da conservação de dados que revelem o conteúdo das comunicações; a previsão de que o acesso aos dados apenas pode ser solicitado pelo Ministério Público ou pela autoridades de polícia criminal competentes e depende sempre da decisão do juiz; a fixação em um ano do período de conservação de dados; a consagração da obrigatoriedade de autorização e registo junto da Comissão Nacional de Protecção de Dados (CNPD) das pessoas que, no âmbito dos fornecedores de serviços de comunicações electrónicas publicamente disponíveis ou de uma rede pública de comunicações, devam desempenhar tarefas associadas ao cumprimento das obrigações previstas na lei.\n\nNo que especificamente respeita à transmissão dos dados legalmente previstos, o n.º 3 do artigo 7.º da Lei n.º 32/2008, de 17 de Julho, determina que a mesma se processe mediante comunicação electrónica, nos termos das condições técnicas e de segurança fixadas em portaria conjunta dos membros do Governo responsáveis pelas áreas da administração interna, da justiça e das telecomunicações, que devem observar um grau de protecção e codificação o mais elevado possível, de acordo com o estado da técnica ao momento da transmissão, incluindo métodos de codificação, encriptação ou outros adequados.\n\nEm cumprimento dessa determinação legal, a presente portaria vem concretizar medidas importantes, tendo em vista a fixação das condições técnicas e de segurança da comunicação electrónica dos dados de tráfego e de localização relativos a pessoas singulares e a pessoas colectivas, bem como dos dados conexos necessários para identificar o assinante ou o utilizador registado, previstos na Lei n.º 32/2008, de 17 de Julho.\n\nAssim, em primeiro lugar, prevê-se que a comunicação electrónica se processe tendo por base uma aplicação informática específica, através da qual o juiz procede ao envio do pedido de dados e os fornecedores de serviços de comunicações electrónicas publicamente disponíveis ou de uma rede pública de comunicações notificam da transferência do ficheiro correspondente ao resultado da pesquisa.\n\nEm segundo lugar, fica expressamente estabelecida a obrigatoriedade de aposição de assinatura electrónica, seja no despacho fundamentado do juiz que ordena ou autoriza a transmissão de dados - estendendo-se a este domínio a regra prevista no n.º 1 do artigo 17.º da Portaria n.º 114/2008, de 6 de Fevereiro - , seja no ficheiro de resposta ao pedido de dados, enviado pelos fornecedores.\n\nEm terceiro lugar, determina-se a encriptação de todas as comunicações electrónicas efectuadas ao abrigo da presente portaria, bem como do ficheiro de resposta ao pedido de dados enviado pelos fornecedores, conferindo assim as máximas garantias neste domínio.\n\nEm quarto lugar, estabelece-se a obrigatoriedade de proceder ao registo electrónico dos pedidos de dados enviados, com indicação de quem procedeu ao envio e da data e hora em que o mesmo ocorreu, bem como dos acessos a ficheiros de resposta, igualmente com indicação de quem os efectuou e da data e hora de cada acesso.\n\nFinalmente, prevê-se a realização de auditorias de segurança à aplicação informática, consagrando expressamente na portaria uma boa prática já observada no âmbito dos sistemas informáticos do sistema judicial.\n\nA presente portaria vem ainda dar ao juiz a possibilidade de utilizar a plataforma tecnológica criada para enviar pedidos de dados relativos a crimes para os quais não seja possível ordenar ou autorizar a transmissão dos dados conservados ao abrigo da Lei n.º 32/2008, de 17 de Julho.\n\nDeste modo, garante-se que o juiz tem a possibilidade de enviar os pedidos de dados aos fornecedores com as mesmas condições de segurança e de forma sempre electrónica, independentemente do tipo de crimes a que tais dados respeitem.\n\nAssim:\n\nAo abrigo do disposto no n.º 3 do artigo 7.º da Lei n.º 32/2008, de 17 de Julho, no n.º 3 do artigo 94.º do Código de Processo Penal e no n.º 3 do artigo 176.º do Código de Processo Civil:\n\nManda o Governo, pelo Ministro da Administração Interna, da Justiça e das Obras Públicas, Transportes e Comunicações, o seguinte:"
+  },
+  "74962725": {
+   "fragment_id": "74961779",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Período experimental",
+   "in_force_from": "2009-08-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Portaria n.º 915/2009 - Diário da República n.º 159/2009, Série I de 2009-08-18](https://diariodarepublica.pt/dr/detalhe/portaria/915-2009-493766), em vigor a partir de 2009-08-19"
+   ],
+   "markdown": "###### Artigo 6.º-A — Período experimental\n\n1 - A aplicação informática prevista nos artigos anteriores é de utilização facultativa durante o respectivo período experimental, que termina em 30 de Novembro de 2009.\n\n2 - Durante o período experimental, o pedido de dados e a resposta dos fornecedores, sempre que não forem efectuados através da aplicação, são efectuados nos termos gerais, sendo remetidos os ficheiros de resposta, elaborados nos termos das alíneas a) e b) do n.º 3 do artigo 3.º da presente portaria, em CD-ROM.\n\n> Aditado pelo/a Artigo 1.º do/a [Portaria n.º 915/2009 - Diário da República n.º 159/2009, Série I de 2009-08-18](https://diariodarepublica.pt/dr/detalhe/portaria/915-2009-493766), em vigor a partir de 2009-08-19"
+  },
+  "74962726": {
+   "fragment_id": "74964447",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "74962727": {
+   "fragment_id": "74964448",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Administração Interna, Rui Carlos Pereira, em 28 de Abril de 2009. - O Ministro da Justiça, Alberto Bernardes Costa, em 27 de Abril de 2009. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 23 de Abril de 2009."
+  },
+  "74965803": {
+   "fragment_id": "74964441",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2010-08-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente portaria estabelece os termos das condições técnicas e de segurança em que se processa a comunicação electrónica para efeitos da transmissão de dados de tráfego e de localização relativos a pessoas singulares e a pessoas colectivas, bem como dos dados conexos necessários para identificar o assinante ou o utilizador registado, nos termos previstos na Lei n.º 32/2008, de 17 de Julho.\n\n2 - A presente portaria estabelece, igualmente, o modo de comunicação electrónica de qualquer pedido de conservação ou transmissão de dados legalmente admissível efectuado pelo tribunal ou por qualquer agente legalmente competente aos fornecedores de serviços de comunicações electrónicas publicamente disponíveis ou de uma rede pública de comunicações no âmbito de um processo judicial de natureza criminal ou no âmbito de uma investigação ou inquérito criminal.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+  },
+  "74965804": {
+   "fragment_id": "74964442",
+   "type": 11,
+   "heading": "Artigo 2.º — Pedido de dados",
+   "in_force_from": "2010-08-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+   ],
+   "markdown": "###### Artigo 2.º — Pedido de dados\n\n1 - O juiz que tenha ordenado ou autorizado a transmissão de dados nos termos previstos no artigo 9.º da Lei n.º 32/2008, de 17 de Julho, comunica a decisão através da aplicação informática denominada 'sistema de acesso ou pedido de dados às operadoras de comunicações' (SAPDOC) especificamente disponibilizada para o efeito.\n\n2 - A comunicação é efectuada através do preenchimento de um formulário electrónico disponibilizado no SAPDOC e que inclui uma ordem do juiz que especificamente autorize a transmissão de dados nos termos do número seguinte, efectuada com base num despacho fundamentado que consta apenas do processo.\n\n3 - O formulário contém:\n\na) Toda a informação relativa à identificação do requerente dos dados, do processo e do tribunal ou unidade orgânica onde tramita, que, sempre que tecnicamente possível, deve ser preenchida automaticamente;\n\nb) A ordem referida no número anterior, elaborada pelo utilizador mediante a validação ou alteração de uma minuta electrónica que, sempre que tecnicamente possível, será automaticamente disponibilizada;\n\nc) A indicação dos dados que devem ser transmitidos pelos fornecedores de serviços de comunicações electrónicas publicamente disponíveis ou de uma rede pública de comunicações;\n\nd) Sempre que aplicável, o grau de urgência que tenha sido determinado.\n\n4 - Após o preenchimento completo do formulário, o SAPDOC gera automaticamente, com base nos dados do mesmo, um documento em formato portable document format (pdf) ao qual o juiz apõe a sua assinatura electrónica, nos termos do disposto no n.º 1 do artigo 17.º da Portaria n.º 114/2008, de 6 de Fevereiro.\n\n5 - Com a aposição da assinatura electrónica é accionado o envio, automático e electrónico, às entidades requeridas, dos dados estruturados inseridos no formulário e do documento em formato portable document format (pdf).\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+  },
+  "74965805": {
+   "fragment_id": "74964443",
+   "type": 11,
+   "heading": "Artigo 3.º — Resposta dos fornecedores ao pedido de dados",
+   "in_force_from": "2010-08-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+   ],
+   "markdown": "###### Artigo 3.º — Resposta dos fornecedores ao pedido de dados\n\n1 - Após recepção de um pedido de dados, o fornecedor de serviços de comunicações electrónicas publicamente disponíveis ou de uma rede pública de comunicações ('o fornecedor') procede imediatamente à pesquisa dos mesmos, de acordo com a ordem cronológica de recepção do pedido ou o grau de urgência determinado.\n\n2 - Logo que a pesquisa de dados esteja concluída, o fornecedor:\n\na) Transfere o ficheiro correspondente ao resultado da pesquisa, através de ligação segura, encriptada e com autenticação mediante nome de utilizador e palavra-passe; e\n\nb) Envia notificação da transferência do ficheiro de resposta através da aplicação informática, indicando o nome do ficheiro transferido.\n\n3 - Os ficheiros de resposta obedecem aos seguintes requisitos técnicos:\n\na) São elaborados em formato portable document format (pdf);\n\nb) É-lhes aposta assinatura electrónica;\n\nc) São encriptados mediante chaves assimétricas, disponibilizadas através de certificados digitais.\n\n4 - O fornecedor solicita, através da aplicação informática, que o pedido de dados seja rectificado ou completado quando:\n\na) Se verifique uma divergência entre a ordem do juiz e os restantes dados constantes do formulário electrónico;\n\nb) Falte algum dos elementos referidos no n.º 3 do artigo 2.º\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+  },
+  "74965806": {
+   "fragment_id": "74964444",
+   "type": 11,
+   "heading": "Artigo 4.º — Notificação da recepção do ficheiro de resposta",
+   "in_force_from": "2010-08-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+   ],
+   "markdown": "###### Artigo 4.º — Notificação da recepção do ficheiro de resposta\n\n1 - O fornecedor é notificado, pela aplicação informática, da recepção e armazenamento com sucesso do ficheiro de resposta enviado.\n\n2 - Após recepção da notificação referida no número anterior, o fornecedor pode eliminar, do seu sistema, a cópia do ficheiro enviado, sem prejuízo da obrigação de conservação e preservação dos dados nos termos previstos na Lei n.º 32/2008, de 17 de Julho.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+  },
+  "74962730": {
+   "fragment_id": "74961781",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Reenvio de dados pelo juiz",
+   "in_force_from": "2010-08-17",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+   ],
+   "markdown": "###### Artigo 4.º-A — Reenvio de dados pelo juiz\n\n1 - Após a recepção do ficheiro, o juiz deve desencriptá-lo e proceder, sempre que possível por via electrónica, à disponibilização do mesmo ao magistrado ou agente competente.\n\n2 - Os dados disponibilizados nos termos do número anterior são utilizados pelas autoridades judiciárias ou pelas demais autoridades competentes, designadamente, no âmbito da investigação, detecção e repressão de crimes graves, podendo ser objecto de conversão ou tratamento, segundo as leges artis, sempre em condições adequadas aos fins a que se destinam.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+  },
+  "74965807": {
+   "fragment_id": "74964445",
+   "type": 11,
+   "heading": "Artigo 5.º — Segurança da informação",
+   "in_force_from": "2010-08-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+   ],
+   "markdown": "###### Artigo 5.º — Segurança da informação\n\n1 - Tendo em vista a segurança dos dados objecto da comunicação electrónica referida no n.º 1 do artigo 1.º, são adoptadas as seguintes medidas:\n\na) Encriptação de todas as comunicações electrónicas efectuadas ao abrigo da presente portaria;\n\nb) Encriptação do ficheiro de resposta, nos termos previstos na alínea c) do n.º 3 do artigo 3.º, a qual assegura que a visualização, em suporte electrónico, dos dados constantes desse ficheiro, se efectua apenas através do SAPDOC;\n\nc) Aposição de assinatura electrónica na ordem do juiz que autoriza a transmissão de dados e no ficheiro de resposta do fornecedor, nos termos previstos no n.º 4 do artigo 2.º e na alínea b) do n.º 3 do artigo 3.º, com vista a assegurar a integridade desses ficheiros;\n\nd) Registo electrónico dos pedidos de dados enviados, com indicação de quem procedeu ao envio e da data e hora em que o mesmo ocorreu;\n\ne) Registo electrónico dos acessos a ficheiros de resposta, com indicação de quem os efectuou e da data e hora de cada acesso;\n\nf) Armazenamento dos ficheiros de resposta em repositórios separados para cada fornecedor, os quais apresentam os mecanismos de segurança necessários para evitar a interconexão dos dados;\n\ng) Auditorias de segurança ao SAPDOC;\n\nh) As demais medidas previstas na Lei n.º 67/98, de 26 de Outubro, e na Lei n.º 32/2008, de 17 de Julho.\n\n2 - O acesso ao SAPDOC efectua-se mediante introdução, pelo juiz, do respectivo nome de utilizador e palavra-passe.\n\n3 - O disposto nos números anteriores não prejudica o envio, conversão e tratamento dos dados para os fins para que foram transmitidos em outros formatos electrónicos, desde que o seu envio, conversão ou tratamento seja efectuado sob a direcção das autoridades judiciárias ou das autoridades competentes.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+  },
+  "74962736": {
+   "fragment_id": "74961782",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Harmonização de prazos de conservação distintos",
+   "in_force_from": "2010-08-17",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+   ],
+   "markdown": "###### Artigo 5.º-A — Harmonização de prazos de conservação distintos\n\nTendo em conta que o mesmo dado pode ter de ser conservado durante prazos diferentes consoante as normas legais aplicáveis, os operadores de comunicações asseguram que:\n\na) Havendo prazos legais distintos, os dados sejam conservados pelo prazo mais longo e transmitidos quando pedidos;\n\nb) Havendo ordem judicial de preservação por prazo específico, sejam os dados transmitidos quando pedidos;\n\nc) Não haja lugar à transmissão de dados caso o prazo de conservação legal ou judicial já tenha sido ultrapassado.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+  },
+  "74965808": {
+   "fragment_id": "74964446",
+   "type": 11,
+   "heading": "Artigo 6.º — Envio electrónico de outros pedidos",
+   "in_force_from": "2010-08-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+   ],
+   "markdown": "###### Artigo 6.º — Envio electrónico de outros pedidos\n\n1 - O SAPDOC deve ser utilizado como a forma de comunicação electrónica dos pedidos previstos no n.º 2 do artigo 1.º, efectuados pelo tribunal ou por qualquer agente legalmente competente, no âmbito de um processo judicial de natureza criminal ou no âmbito de uma investigação ou de um inquérito criminal.\n\n2 - À tramitação dos pedidos a que se refere o número anterior são aplicáveis as regras da presente portaria com as devidas adaptações, nomeadamente:\n\na) O pedido é efectuado directamente pela entidade interessada e legalmente competente;\n\nb) O SAPDOC disponibiliza para tal um formulário adaptado à matéria do pedido e à entidade requerente;\n\nc) Sempre que os dados solicitados se reportem a meros dados de identificação ou de localização do suspeito, arguido ou outro interveniente processual, as medidas de segurança na comunicação de tais dados são as decorrentes da aplicação das funcionalidades próprias da Rede da Justiça e de webservices seguros.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+  },
+  "74965809": {
+   "fragment_id": "74961779",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Período experimental",
+   "in_force_from": "2010-08-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17",
+    "Aditado pelo/a Artigo 1.º do/a [Portaria n.º 915/2009 - Diário da República n.º 159/2009, Série I de 2009-08-18](https://diariodarepublica.pt/dr/detalhe/portaria/915-2009-493766), em vigor a partir de 2009-08-19"
+   ],
+   "markdown": "###### Artigo 6.º-A — Período experimental\n\n1 - O SAPDOC é de utilização facultativa durante o respectivo período experimental, que se inicia na data da entrada em vigor da presente portaria e que terminará progressivamente, em função da disponibilização aos utilizadores das funcionalidades do sistema e quando tal for determinado por despacho conjunto dos membros do Governo responsáveis pelas áreas da administração interna e da justiça.\n\n2 - Durante o período experimental, o pedido de dados e a resposta dos fornecedores, sempre que não forem efectuados através da aplicação, são efectuados nos termos gerais, sendo remetidos os ficheiros de resposta, elaborados nos termos das alíneas a) e b) do n.º 3 do artigo 3.º da presente portaria, em CD-ROM, DVD-ROM ou outro suporte digital.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17\n\n> Aditado pelo/a Artigo 1.º do/a [Portaria n.º 915/2009 - Diário da República n.º 159/2009, Série I de 2009-08-18](https://diariodarepublica.pt/dr/detalhe/portaria/915-2009-493766), em vigor a partir de 2009-08-19"
+  },
+  "74962739": {
+   "fragment_id": "74964447",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "74962740": {
+   "fragment_id": "74964448",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Administração Interna, Rui Carlos Pereira, em 28 de Abril de 2009. - O Ministro da Justiça, Alberto Bernardes Costa, em 27 de Abril de 2009. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 23 de Abril de 2009."
+  },
+  "206161157": {
+   "fragment_id": "74964441",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2022-11-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Lei n.º 16/2022 - Diário da República n.º 157/2022, Série I de 2022-08-16](https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298), em vigor a partir de 2022-11-14",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente portaria estabelece os termos das condições técnicas e de segurança em que se processa a comunicação electrónica para efeitos da transmissão de dados de tráfego e de localização relativos a pessoas singulares e a pessoas colectivas, bem como dos dados conexos necessários para identificar o assinante ou o utilizador registado, nos termos previstos na Lei n.º 32/2008, de 17 de Julho.\n\n2 - A presente portaria estabelece, igualmente, o modo de comunicação electrónica de qualquer pedido de conservação ou transmissão de dados legalmente admissível efectuado pelo tribunal ou por qualquer agente legalmente competente aos fornecedores de serviços de comunicações electrónicas publicamente disponíveis ou de uma rede pública de comunicações no âmbito de um processo judicial de natureza criminal ou no âmbito de uma investigação ou inquérito criminal.\n\n> Revogado pelo/a Artigo 11.º do/a [Lei n.º 16/2022 - Diário da República n.º 157/2022, Série I de 2022-08-16](https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298), em vigor a partir de 2022-11-14\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+  },
+  "206161158": {
+   "fragment_id": "74964442",
+   "type": 11,
+   "heading": "Artigo 2.º — Pedido de dados",
+   "in_force_from": "2022-11-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Lei n.º 16/2022 - Diário da República n.º 157/2022, Série I de 2022-08-16](https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298), em vigor a partir de 2022-11-14",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+   ],
+   "markdown": "###### Artigo 2.º — Pedido de dados\n\n1 - O juiz que tenha ordenado ou autorizado a transmissão de dados nos termos previstos no artigo 9.º da Lei n.º 32/2008, de 17 de Julho, comunica a decisão através da aplicação informática denominada 'sistema de acesso ou pedido de dados às operadoras de comunicações' (SAPDOC) especificamente disponibilizada para o efeito.\n\n2 - A comunicação é efectuada através do preenchimento de um formulário electrónico disponibilizado no SAPDOC e que inclui uma ordem do juiz que especificamente autorize a transmissão de dados nos termos do número seguinte, efectuada com base num despacho fundamentado que consta apenas do processo.\n\n3 - O formulário contém:\n\na) Toda a informação relativa à identificação do requerente dos dados, do processo e do tribunal ou unidade orgânica onde tramita, que, sempre que tecnicamente possível, deve ser preenchida automaticamente;\n\nb) A ordem referida no número anterior, elaborada pelo utilizador mediante a validação ou alteração de uma minuta electrónica que, sempre que tecnicamente possível, será automaticamente disponibilizada;\n\nc) A indicação dos dados que devem ser transmitidos pelos fornecedores de serviços de comunicações electrónicas publicamente disponíveis ou de uma rede pública de comunicações;\n\nd) Sempre que aplicável, o grau de urgência que tenha sido determinado.\n\n4 - Após o preenchimento completo do formulário, o SAPDOC gera automaticamente, com base nos dados do mesmo, um documento em formato portable document format (pdf) ao qual o juiz apõe a sua assinatura electrónica, nos termos do disposto no n.º 1 do artigo 17.º da Portaria n.º 114/2008, de 6 de Fevereiro.\n\n5 - Com a aposição da assinatura electrónica é accionado o envio, automático e electrónico, às entidades requeridas, dos dados estruturados inseridos no formulário e do documento em formato portable document format (pdf).\n\n> Revogado pelo/a Artigo 11.º do/a [Lei n.º 16/2022 - Diário da República n.º 157/2022, Série I de 2022-08-16](https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298), em vigor a partir de 2022-11-14\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+  },
+  "206161159": {
+   "fragment_id": "74964443",
+   "type": 11,
+   "heading": "Artigo 3.º — Resposta dos fornecedores ao pedido de dados",
+   "in_force_from": "2022-11-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Lei n.º 16/2022 - Diário da República n.º 157/2022, Série I de 2022-08-16](https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298), em vigor a partir de 2022-11-14",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+   ],
+   "markdown": "###### Artigo 3.º — Resposta dos fornecedores ao pedido de dados\n\n1 - Após recepção de um pedido de dados, o fornecedor de serviços de comunicações electrónicas publicamente disponíveis ou de uma rede pública de comunicações ('o fornecedor') procede imediatamente à pesquisa dos mesmos, de acordo com a ordem cronológica de recepção do pedido ou o grau de urgência determinado.\n\n2 - Logo que a pesquisa de dados esteja concluída, o fornecedor:\n\na) Transfere o ficheiro correspondente ao resultado da pesquisa, através de ligação segura, encriptada e com autenticação mediante nome de utilizador e palavra-passe; e\n\nb) Envia notificação da transferência do ficheiro de resposta através da aplicação informática, indicando o nome do ficheiro transferido.\n\n3 - Os ficheiros de resposta obedecem aos seguintes requisitos técnicos:\n\na) São elaborados em formato portable document format (pdf);\n\nb) É-lhes aposta assinatura electrónica;\n\nc) São encriptados mediante chaves assimétricas, disponibilizadas através de certificados digitais.\n\n4 - O fornecedor solicita, através da aplicação informática, que o pedido de dados seja rectificado ou completado quando:\n\na) Se verifique uma divergência entre a ordem do juiz e os restantes dados constantes do formulário electrónico;\n\nb) Falte algum dos elementos referidos no n.º 3 do artigo 2.º\n\n> Revogado pelo/a Artigo 11.º do/a [Lei n.º 16/2022 - Diário da República n.º 157/2022, Série I de 2022-08-16](https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298), em vigor a partir de 2022-11-14\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+  },
+  "206161160": {
+   "fragment_id": "74964444",
+   "type": 11,
+   "heading": "Artigo 4.º — Notificação da recepção do ficheiro de resposta",
+   "in_force_from": "2022-11-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Lei n.º 16/2022 - Diário da República n.º 157/2022, Série I de 2022-08-16](https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298), em vigor a partir de 2022-11-14",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+   ],
+   "markdown": "###### Artigo 4.º — Notificação da recepção do ficheiro de resposta\n\n1 - O fornecedor é notificado, pela aplicação informática, da recepção e armazenamento com sucesso do ficheiro de resposta enviado.\n\n2 - Após recepção da notificação referida no número anterior, o fornecedor pode eliminar, do seu sistema, a cópia do ficheiro enviado, sem prejuízo da obrigação de conservação e preservação dos dados nos termos previstos na Lei n.º 32/2008, de 17 de Julho.\n\n> Revogado pelo/a Artigo 11.º do/a [Lei n.º 16/2022 - Diário da República n.º 157/2022, Série I de 2022-08-16](https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298), em vigor a partir de 2022-11-14\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+  },
+  "206161161": {
+   "fragment_id": "74961781",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Reenvio de dados pelo juiz",
+   "in_force_from": "2022-11-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Lei n.º 16/2022 - Diário da República n.º 157/2022, Série I de 2022-08-16](https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298), em vigor a partir de 2022-11-14",
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+   ],
+   "markdown": "###### Artigo 4.º-A — Reenvio de dados pelo juiz\n\n1 - Após a recepção do ficheiro, o juiz deve desencriptá-lo e proceder, sempre que possível por via electrónica, à disponibilização do mesmo ao magistrado ou agente competente.\n\n2 - Os dados disponibilizados nos termos do número anterior são utilizados pelas autoridades judiciárias ou pelas demais autoridades competentes, designadamente, no âmbito da investigação, detecção e repressão de crimes graves, podendo ser objecto de conversão ou tratamento, segundo as leges artis, sempre em condições adequadas aos fins a que se destinam.\n\n> Revogado pelo/a Artigo 11.º do/a [Lei n.º 16/2022 - Diário da República n.º 157/2022, Série I de 2022-08-16](https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298), em vigor a partir de 2022-11-14\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+  },
+  "206161162": {
+   "fragment_id": "74964445",
+   "type": 11,
+   "heading": "Artigo 5.º — Segurança da informação",
+   "in_force_from": "2022-11-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Lei n.º 16/2022 - Diário da República n.º 157/2022, Série I de 2022-08-16](https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298), em vigor a partir de 2022-11-14",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+   ],
+   "markdown": "###### Artigo 5.º — Segurança da informação\n\n1 - Tendo em vista a segurança dos dados objecto da comunicação electrónica referida no n.º 1 do artigo 1.º, são adoptadas as seguintes medidas:\n\na) Encriptação de todas as comunicações electrónicas efectuadas ao abrigo da presente portaria;\n\nb) Encriptação do ficheiro de resposta, nos termos previstos na alínea c) do n.º 3 do artigo 3.º, a qual assegura que a visualização, em suporte electrónico, dos dados constantes desse ficheiro, se efectua apenas através do SAPDOC;\n\nc) Aposição de assinatura electrónica na ordem do juiz que autoriza a transmissão de dados e no ficheiro de resposta do fornecedor, nos termos previstos no n.º 4 do artigo 2.º e na alínea b) do n.º 3 do artigo 3.º, com vista a assegurar a integridade desses ficheiros;\n\nd) Registo electrónico dos pedidos de dados enviados, com indicação de quem procedeu ao envio e da data e hora em que o mesmo ocorreu;\n\ne) Registo electrónico dos acessos a ficheiros de resposta, com indicação de quem os efectuou e da data e hora de cada acesso;\n\nf) Armazenamento dos ficheiros de resposta em repositórios separados para cada fornecedor, os quais apresentam os mecanismos de segurança necessários para evitar a interconexão dos dados;\n\ng) Auditorias de segurança ao SAPDOC;\n\nh) As demais medidas previstas na Lei n.º 67/98, de 26 de Outubro, e na Lei n.º 32/2008, de 17 de Julho.\n\n2 - O acesso ao SAPDOC efectua-se mediante introdução, pelo juiz, do respectivo nome de utilizador e palavra-passe.\n\n3 - O disposto nos números anteriores não prejudica o envio, conversão e tratamento dos dados para os fins para que foram transmitidos em outros formatos electrónicos, desde que o seu envio, conversão ou tratamento seja efectuado sob a direcção das autoridades judiciárias ou das autoridades competentes.\n\n> Revogado pelo/a Artigo 11.º do/a [Lei n.º 16/2022 - Diário da República n.º 157/2022, Série I de 2022-08-16](https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298), em vigor a partir de 2022-11-14\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+  },
+  "206161163": {
+   "fragment_id": "74961782",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Harmonização de prazos de conservação distintos",
+   "in_force_from": "2022-11-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Lei n.º 16/2022 - Diário da República n.º 157/2022, Série I de 2022-08-16](https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298), em vigor a partir de 2022-11-14",
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+   ],
+   "markdown": "###### Artigo 5.º-A — Harmonização de prazos de conservação distintos\n\nTendo em conta que o mesmo dado pode ter de ser conservado durante prazos diferentes consoante as normas legais aplicáveis, os operadores de comunicações asseguram que:\n\na) Havendo prazos legais distintos, os dados sejam conservados pelo prazo mais longo e transmitidos quando pedidos;\n\nb) Havendo ordem judicial de preservação por prazo específico, sejam os dados transmitidos quando pedidos;\n\nc) Não haja lugar à transmissão de dados caso o prazo de conservação legal ou judicial já tenha sido ultrapassado.\n\n> Revogado pelo/a Artigo 11.º do/a [Lei n.º 16/2022 - Diário da República n.º 157/2022, Série I de 2022-08-16](https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298), em vigor a partir de 2022-11-14\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+  },
+  "206161164": {
+   "fragment_id": "74964446",
+   "type": 11,
+   "heading": "Artigo 6.º — Envio electrónico de outros pedidos",
+   "in_force_from": "2022-11-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Lei n.º 16/2022 - Diário da República n.º 157/2022, Série I de 2022-08-16](https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298), em vigor a partir de 2022-11-14",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+   ],
+   "markdown": "###### Artigo 6.º — Envio electrónico de outros pedidos\n\n1 - O SAPDOC deve ser utilizado como a forma de comunicação electrónica dos pedidos previstos no n.º 2 do artigo 1.º, efectuados pelo tribunal ou por qualquer agente legalmente competente, no âmbito de um processo judicial de natureza criminal ou no âmbito de uma investigação ou de um inquérito criminal.\n\n2 - À tramitação dos pedidos a que se refere o número anterior são aplicáveis as regras da presente portaria com as devidas adaptações, nomeadamente:\n\na) O pedido é efectuado directamente pela entidade interessada e legalmente competente;\n\nb) O SAPDOC disponibiliza para tal um formulário adaptado à matéria do pedido e à entidade requerente;\n\nc) Sempre que os dados solicitados se reportem a meros dados de identificação ou de localização do suspeito, arguido ou outro interveniente processual, as medidas de segurança na comunicação de tais dados são as decorrentes da aplicação das funcionalidades próprias da Rede da Justiça e de webservices seguros.\n\n> Revogado pelo/a Artigo 11.º do/a [Lei n.º 16/2022 - Diário da República n.º 157/2022, Série I de 2022-08-16](https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298), em vigor a partir de 2022-11-14\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17"
+  },
+  "206161165": {
+   "fragment_id": "74961779",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Período experimental",
+   "in_force_from": "2022-11-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Lei n.º 16/2022 - Diário da República n.º 157/2022, Série I de 2022-08-16](https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298), em vigor a partir de 2022-11-14",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17",
+    "Aditado pelo/a Artigo 1.º do/a [Portaria n.º 915/2009 - Diário da República n.º 159/2009, Série I de 2009-08-18](https://diariodarepublica.pt/dr/detalhe/portaria/915-2009-493766), em vigor a partir de 2009-08-19"
+   ],
+   "markdown": "###### Artigo 6.º-A — Período experimental\n\n1 - O SAPDOC é de utilização facultativa durante o respectivo período experimental, que se inicia na data da entrada em vigor da presente portaria e que terminará progressivamente, em função da disponibilização aos utilizadores das funcionalidades do sistema e quando tal for determinado por despacho conjunto dos membros do Governo responsáveis pelas áreas da administração interna e da justiça.\n\n2 - Durante o período experimental, o pedido de dados e a resposta dos fornecedores, sempre que não forem efectuados através da aplicação, são efectuados nos termos gerais, sendo remetidos os ficheiros de resposta, elaborados nos termos das alíneas a) e b) do n.º 3 do artigo 3.º da presente portaria, em CD-ROM, DVD-ROM ou outro suporte digital.\n\n> Revogado pelo/a Artigo 11.º do/a [Lei n.º 16/2022 - Diário da República n.º 157/2022, Série I de 2022-08-16](https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298), em vigor a partir de 2022-11-14\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 694/2010 - Diário da República n.º 158/2010, Série I de 2010-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/694-2010-343153), em vigor a partir de 2010-08-17\n\n> Aditado pelo/a Artigo 1.º do/a [Portaria n.º 915/2009 - Diário da República n.º 159/2009, Série I de 2009-08-18](https://diariodarepublica.pt/dr/detalhe/portaria/915-2009-493766), em vigor a partir de 2009-08-19"
+  },
+  "206161166": {
+   "fragment_id": "74964447",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": "2022-11-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Lei n.º 16/2022 - Diário da República n.º 157/2022, Série I de 2022-08-16](https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298), em vigor a partir de 2022-11-14"
+   ],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 11.º do/a [Lei n.º 16/2022 - Diário da República n.º 157/2022, Série I de 2022-08-16](https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298), em vigor a partir de 2022-11-14"
+  },
+  "206161167": {
+   "fragment_id": "74964448",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-11-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Lei n.º 16/2022 - Diário da República n.º 157/2022, Série I de 2022-08-16](https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298), em vigor a partir de 2022-11-14"
+   ],
+   "markdown": "O Ministro da Administração Interna, Rui Carlos Pereira, em 28 de Abril de 2009. - O Ministro da Justiça, Alberto Bernardes Costa, em 27 de Abril de 2009. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 23 de Abril de 2009.\n\n> Revogado pelo/a Artigo 11.º do/a [Lei n.º 16/2022 - Diário da República n.º 157/2022, Série I de 2022-08-16](https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298), em vigor a partir de 2022-11-14"
+  }
+ }
+}

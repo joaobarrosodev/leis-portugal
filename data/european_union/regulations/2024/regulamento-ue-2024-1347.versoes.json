@@ -1,0 +1,668 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32024R1347:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02024R1347-20240522",
+ "dre_path": null,
+ "source_lastmod": "2024-05-22",
+ "versions": [
+  {
+   "date": "2024-05-22",
+   "future": false,
+   "celex": "02024R1347-20240522",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1dd61e599e622f9d",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "7087fb1b289bd959",
+    "d5ab73dbb2f5bc59",
+    "3282c308caa91ac3",
+    "f0f8c960bfdbce9b",
+    "5091a5ea5586b988",
+    "965017f03ffa3456",
+    "b1c46daf5b1f324a",
+    "cb2d0d82af91a651",
+    "e81c8732dc5cb5eb",
+    "4bf47589d4b8e9a3",
+    "1e7a0903d2eed348",
+    "1aa11d2b99228f23",
+    "e6a70e02b871e836",
+    "632e16e14c8ea77a",
+    "933bbfd9c778e8a5",
+    "1d4c7a822b949403",
+    "1ecfc79da3f1ac7f",
+    "37e08a00f97efe09",
+    "3da6bbf1e4ab0c26",
+    "1b051e2104163a87",
+    "40ed6b62e188ac6f",
+    "027e58d2e4864fa5",
+    "064c764214d9a086",
+    "0bb6443bced9c75f",
+    "c1cf610580414966",
+    "b76d202a844f758e",
+    "15a10ad392f99537",
+    "3cc763065e8c5b2f",
+    "4cf2e1146b0a29ff",
+    "7fd045ac4f655f13",
+    "96cd759ac798ecb0",
+    "19572906891c0646",
+    "e66b8427f7f19165",
+    "36924e919ecf33fe",
+    "1f5da9b051d630cf",
+    "ac248cac1806eb96",
+    "0254aba5a6f77d59",
+    "0b50b9972a75b595",
+    "cf93e097371adca1",
+    "3c0eadc71d586c42",
+    "cb850acf28208c02",
+    "22682ef17a6d1bec",
+    "e553cf880844687b",
+    "b4f1bfdbc841cf04",
+    "216aeb4d2296cc75",
+    "ff15b3a086f0d0e4",
+    "12d9f6f18a5ba904",
+    "00950e7eb74dbfdd",
+    "2a01cbb16fbda80b",
+    "f61150985e0bd8c3",
+    "40fa99ed8bbe0e8e",
+    "bd4e4fdc0e54d0d8",
+    "5758e817dda20e63",
+    "fcb2e6c937bc9bbd",
+    "99973826fcc02605",
+    "5d8c13bb1c61251d",
+    "b80020d70c4f42b8",
+    "6315428c5d22334d",
+    "066a8a7b3c446d0b",
+    "dde9cf53e9ae6c9a",
+    "96b3febd9263161b",
+    "da5ff70074baf9fc",
+    "3ea9ad995deb109d",
+    "3197e39dc21dbd35",
+    "d664376e2a8dcecd",
+    "978b092cf1870630",
+    "852174729551523b",
+    "7d22e3cb6cc94ff5",
+    "b7eef79b1514fc95"
+   ]
+  }
+ ],
+ "fragments": {
+  "1dd61e599e622f9d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de maio de 2024\n\nque estabelece normas relativas às condições a preencher pelos nacionais de países terceiros ou por apátridas para poderem beneficiar de proteção internacional, a um estatuto uniforme para refugiados ou para pessoas elegíveis para proteção subsidiária e ao conteúdo da proteção concedida, que altera a Diretiva 2003/109/CE do Conselho e que revoga a Diretiva 2011/95/UE do Parlamento Europeu e do Conselho"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "7087fb1b289bd959": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regulamento estabelece as normas relativas:\n\na) Às condições a preencher pelos nacionais de países terceiros ou apátridas para poderem beneficiar de proteção internacional;\n\nb) A um estatuto uniforme para os refugiados ou pessoas elegíveis para proteção subsidiária;\n\nc) Ao conteúdo da proteção internacional concedida."
+  },
+  "d5ab73dbb2f5bc59": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação material",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação material",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação material\n\n1. O presente regulamento é aplicável às condições a preencher por nacionais de países terceiros ou por apátridas para poderem beneficiar de proteção internacional e ao conteúdo da proteção internacional concedida.\n\n2. O presente regulamento não é aplicável a estatutos humanitários nacionais concedidos pelos Estados-Membros a nacionais de países terceiros e a apátridas que não sejam abrangidos pelo âmbito de aplicação do presente regulamento. Os estatutos humanitários nacionais, se concedidos, não podem implicar um risco de confusão com proteção internacional."
+  },
+  "3282c308caa91ac3": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1) «Estatuto de refugiado», o reconhecimento por um Estado-Membro de um nacional de país terceiro ou de pessoa apátrida como refugiado;\n\n2) «Estatuto de proteção subsidiária», o reconhecimento por um Estado-Membro de um nacional de um país terceiro ou de pessoa apátrida como pessoa elegível para proteção subsidiária;\n\n3) «Proteção internacional», o estatuto de refugiado ou o estatuto de beneficiário de proteção subsidiária;\n\n4) «Beneficiário de proteção internacional», uma pessoa a quem foi concedido o estatuto de refugiado ou o estatuto de beneficiário de proteção subsidiária;\n\n5) «Refugiado», o nacional de um país terceiro que, receando com razão ser perseguido em virtude da sua raça, religião, nacionalidade, convicções políticas ou pertença a determinado grupo social, se encontre fora do país de que é nacional e não possa ou, em virtude daquele receio, não queira pedir a proteção desse país, ou a pessoa apátrida que, estando fora do país em que tinha a sua residência habitual, pelas mesmas razões que as acima mencionadas, não possa ou, em virtude do referido receio, a ele não queira voltar, e aos quais não se aplique o artigo 12.º;\n\n6) «Pessoa elegível para proteção subsidiária», um nacional de um país terceiro ou uma pessoa apátrida que não preencha as condições para ser considerado refugiado, mas em relação ao qual se verificou existirem motivos significativos para acreditar que essa pessoa, caso volte para o seu país de origem ou, no caso de uma pessoa apátrida, para o país em que tinha a sua anterior residência habitual, correria um risco real de sofrer ofensa grave na aceção do artigo 15.º, e à qual não se aplique o artigo 17.º, n.^os^ 1 e 2, e que não possa ou, em virtude dos referidos riscos, não queira pedir a proteção desse país;\n\n7) «Pedido de proteção internacional», um pedido apresentado por um nacional de um país terceiro ou por uma pessoa apátrida com vista à obtenção de proteção de um Estado Membro, que dê a entender que pretende beneficiar do estatuto de refugiado ou do estatuto de proteção subsidiária;\n\n8) «Requerente», um nacional de um país terceiro ou uma pessoa apátrida que apresentou um pedido de proteção internacional que ainda não foi objeto de decisão definitiva;\n\n9) «Membros da família», na medida em que a família já estivesse constituída antes da chegada do requerente ao território dos Estados-Membros, os seguintes membros da família do beneficiário de proteção internacional que se encontram no território desse mesmo Estado-Membro relativamente ao pedido de proteção internacional:\n\na) O cônjuge do beneficiário de proteção internacional ou a pessoa numa relação estável sem vínculo matrimonial, desde que o direito ou a prática do Estado-Membro em causa equiparem casais sem vínculo matrimonial a casais com vínculo matrimonial;\n\nb) Os filhos menores ou adultos a cargo dos casais referidos na alínea a) ou do beneficiário de proteção internacional, desde que sejam solteiros e independentemente de terem nascido dentro ou fora do casamento ou de terem sido adotados nos termos do direito nacional; um menor é considerado solteiro desde que, com base numa apreciação individual, o casamento do menor não estiver em conformidade com o direito nacional aplicável caso tivesse sido celebrado no Estado-Membro em causa, tendo em conta, em particular, a idade legal para casar;\n\nc) No caso de o beneficiário de proteção internacional ser menor e solteiro, o pai, a mãe ou outro adulto responsável por esse beneficiário, incluindo um irmão adulto, nos termos do direito ou da prática no Estado-Membro em causa; um menor é considerado solteiro desde que, com base numa apreciação individual, o casamento do menor não estiver em conformidade com o direito nacional aplicável caso tivesse sido celebrado no Estado-Membro em causa, tendo em conta, em particular, a idade legal para casar;\n\n10) «Menor», um nacional de um país terceiro ou uma pessoa apátrida com menos de 18 anos de idade;\n\n11) «Menor não acompanhado», um menor que chegue ao território dos Estados-Membros não acompanhado de um adulto por si responsável nos termos do direito ou da prática do Estado-Membro em causa, e enquanto esse menor não esteja efetivamente a cargo de um adulto, incluindo um menor que fique desacompanhado após a sua entrada no território dos Estados-Membros.\n\n12) «Autorização de residência», uma autorização emitida pela autoridade de um Estado-Membro segundo o formato uniforme previsto no Regulamento (CE) n.º 1030/2002, que permite a um nacional de um país terceiro ou uma pessoa apátrida residir legalmente no seu território;\n\n13) «País de origem», o país ou países de nacionalidade ou, no caso dos apátridas, o país em que tinham a sua residência habitual;\n\n14) «Retirada de proteção internacional», a decisão proferida por um o órgão de decisão ou por um órgão jurisdicional competente que revoga ou suprime a proteção internacional, inclusive recusando a sua renovação;\n\n15) «Órgão de decisão», um órgão parajudicial ou administrativo de um Estado-Membro, que é responsável pela apreciação dos pedidos de proteção internacional e competente para proferir decisões na fase administrativa do procedimento;\n\n16) «Segurança social», os ramos da segurança social referidos no artigo 3.º, n.^os^ 1 e 2, do Regulamento (CE) n.º 883/2004 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/0daba0cc-0157-11f1-825d-01aa75ed71a1.0020.02/DOC_1#E0001));\n\n17) «Assistência social», as prestações concedidas com o objetivo de assegurar a satisfação das necessidades básicas das pessoas sem recursos suficientes;\n\n18) «Tutor», uma pessoa singular ou uma organização, incluindo um organismo público, designado pelas autoridades competentes para prestar assistência, representar e agir em nome de um menor não acompanhado, consoante o caso, tendo em vista assegurar que o menor não acompanhado possa beneficiar dos direitos e cumprir as obrigações decorrentes do presente regulamento, salvaguardando ao mesmo tempo o seu interesse superior e bem-estar geral."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "5091a5ea5586b988": {
+   "fragment_id": "APRECIAÇÃO DO PEDIDO DE PROTEÇÃO INTERNACIONAL",
+   "type": "divisao",
+   "heading": "APRECIAÇÃO DO PEDIDO DE PROTEÇÃO INTERNACIONAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### APRECIAÇÃO DO PEDIDO DE PROTEÇÃO INTERNACIONAL"
+  },
+  "965017f03ffa3456": {
+   "fragment_id": "Artigo 4.º — Informações a apresentar e apreciação dos factos e circunstâncias",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Informações a apresentar e apreciação dos factos e circunstâncias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Informações a apresentar e apreciação dos factos e circunstâncias\n\n1. Os requerentes devem apresentar todos os elementos ao seu dispor para fundamentar o pedido de proteção internacional. Para o efeito, os requerentes devem cooperar plenamente com o órgão de decisão e com as outras autoridades competentes e devem estar presentes e disponíveis no território do Estado-Membro responsável pela análise do seu pedido durante todo o processo, inclusive durante a apreciação dos elementos pertinentes do pedido.\n\n2.\n\nOs elementos a que se refere o n.º 1 consistem no seguinte:\n\na) As declarações do requerente; e\n\nb) Toda a documentação de que o requerente disponha no que respeita ao seguinte;\n\ni) os motivos pelos quais o requerente solicita proteção internacional,\n\nii) a idade do requerente,\n\niii) os antecedentes do requerente, incluindo os dos membros da família e outros parentes pertinentes,\n\niv) a identidade do requerente,\n\nv) a nacionalidade ou nacionalidades do requerente,\n\nvi) o país ou países do requerente e o local ou locais de residência anteriores,\n\nvii) pedidos anteriores de proteção internacional apresentados pelo requerente,\n\nviii) resultados de eventuais procedimentos de reinstalação ou de admissão por motivos humanitários relacionados com o requerente, como definido no Regulamento (UE) 2024/1350,\n\nix) itinerários do requerente, e\n\nx) os documentos de viagem do requerente.\n\n3. O órgão de decisão analisa os elementos relevantes de um pedido de proteção internacional nos termos do artigo 34.º do Regulamento (UE) 2024/1348.\n\n4. O facto de o requerente já ter sido vítima de perseguição ou ofensa grave, ou diretamente ameaçado de tal perseguição ou de tais ofensas, constitui um indício sério do receio fundado desse requerente ser perseguido ou do risco real de sofrer ofensa grave, a menos que haja motivos sérios para considerar que essa perseguição ou ofensa grave não se repetirá.\n\n5.\n\nSempre que houver um ou mais elementos específicos das declarações do requerente que não sejam sustentados por provas documentais ou de outra natureza, não deve ser exigida prova adicional relativamente a esses elementos específicos, se estiverem reunidas as seguintes condições:\n\na) O requerente esforçou-se genuinamente por justificar o pedido de proteção internacional;\n\nb) Tenham sido apresentados todos os elementos pertinentes ao dispor do requerente e tenha sido dada uma explicação satisfatória para a eventual falta de outros elementos pertinentes;\n\nc) As declarações do requerente tenham sido consideradas coerentes e plausíveis, não contradizendo informações gerais ou particulares disponíveis pertinentes para o seu pedido;\n\nd) Tenha sido apurada a credibilidade geral do requerente, tendo em conta, nomeadamente, o momento em que o requerente solicitou proteção internacional."
+  },
+  "b1c46daf5b1f324a": {
+   "fragment_id": "Artigo 5.º — Necessidade de proteção internacional surgida in loco",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Necessidade de proteção internacional surgida in loco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Necessidade de proteção internacional surgida in loco\n\n1.\n\nO receio fundado de ser perseguido ou o risco real de sofrer ofensa grave pode ter por base apenas:\n\na) Acontecimentos ocorridos desde que o requerente deixou o seu país de origem; ou\n\nb) Atividades exercidas pelo requerente depois da partida do seu país de origem, especialmente se for demonstrado que as atividades que estão na base do pedido constituem a expressão e a continuação de convicções, crenças ou orientações manifestadas no país de origem.\n\n2. Caso o risco de ser perseguido ou de sofrer ofensa grave tenha origem em circunstâncias criadas pelo requerente desde que deixou o seu país de origem com o único ou principal objetivo de criar as condições necessárias para solicitar proteção internacional, o órgão de decisão pode recusar conceder proteção internacional, desde que qualquer decisão tomada quanto ao pedido de proteção internacional respeite a Convenção de Genebra relativa ao Estatuto dos Refugiados, de 28 de julho de 1951, completada pelo Protocolo de Nova Iorque, de 31 de janeiro de 1967 (a «Convenção de Genebra»), a Convenção Europeia dos Direitos Humanos (CEDH) e a Carta dos Direitos Fundamentais da União Europeia."
+  },
+  "cb2d0d82af91a651": {
+   "fragment_id": "Artigo 6.º — Agentes da perseguição ou ofensa grave",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Agentes da perseguição ou ofensa grave",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Agentes da perseguição ou ofensa grave\n\nOs agentes da perseguição ou ofensa grave podem ser:\n\na) O Estado;\n\nb) As partes ou organizações que controlem o Estado ou uma parcela significativa do respetivo território;\n\nc) Os agentes não estatais, se puder ser provado que os agentes mencionados no artigo 7.º, n.º 1, não podem ou não querem proporcionar proteção contra a perseguição ou ofensa grave."
+  },
+  "e81c8732dc5cb5eb": {
+   "fragment_id": "Artigo 7.º — Agentes da proteção",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Agentes da proteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Agentes da proteção\n\n1.\n\nApenas os seguintes agentes podem conceder proteção contra a perseguição ou ofensa grave, desde que possam e estejam dispostos a conceder uma proteção efetiva e não temporária nos termos do n.º 2:\n\na) O Estado;\n\nb) Autoridades não estatais estáveis que estejam estabelecidas, incluindo organizações internacionais, que controlem o Estado ou uma parcela significativa do respetivo território.\n\n2. A proteção contra a perseguição ou ofensa grave deve ser efetiva e de natureza não temporária. Considera-se que a proteção é assegurada quando os agentes mencionados no n.º 1 tomam medidas razoáveis para impedir a prática de atos de perseguição ou de ofensa grave, nomeadamente através de um sistema jurídico eficaz para detetar, acionar judicialmente e punir os atos que constituam perseguição ou ofensa grave, e quando um requerente tenha acesso a tal proteção.\n\n3. Ao apreciar se autoridades não estatais estáveis e estabelecidas, incluindo organizações internacionais, controlam um Estado ou uma parcela substancial do seu território e facultam proteção na aceção do n.º 2, o órgão de decisão tem em conta informações rigorosas e atualizadas sobre os países de origem obtidas de fontes relevantes e disponíveis a nível nacional, da União e internacional e, quando disponível, a análise comum da situação em países específicos de origem e as orientações referidas no artigo 11.º do Regulamento (UE) 2021/2303."
+  },
+  "4bf47589d4b8e9a3": {
+   "fragment_id": "Artigo 8.º — Proteção interna alternativa",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Proteção interna alternativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Proteção interna alternativa\n\n1.\n\nSe o Estado ou os agentes do Estado não forem os agentes da perseguição ou ofensa grave, o órgão de decisão analisa, no âmbito da apreciação do pedido de proteção internacional, se um requerente não necessita de proteção internacional porque pode viajar e ser admitido de forma legal e em segurança numa parte do país de origem e onde seja razoável esperar que se instale e se, nessa parte do país, o requerente:\n\na) Não tiver receio fundado de ser perseguido ou não se encontrar perante um risco real de ofensa grave; ou\n\nb) Tiver acesso a proteção efetiva e duradoura contra a perseguição ou ofensa grave.\n\n2. Se o Estado ou os agentes do Estado forem os agentes da perseguição ou ofensa grave, o órgão de decisão presume que não está disponível proteção efetiva para o requerente e que não é necessário proceder à análise a que se refere o n.º 1.\n\nO órgão de decisão só pode proceder à análise a que se refere o n.º 1 se estiver claramente estabelecido que o risco de perseguição ou de ofensa grave provém de um agente cuja competência está claramente limitada a uma área geográfica específica ou quando o próprio Estado tem apenas controlo sobre determinadas partes do país.\n\n3. O órgão de decisão procede à análise a que se refere o n.º 1 logo que determine que, noutras circunstâncias, os critérios de qualificação estabelecidos no presente regulamento seriam aplicáveis a um requerente. O ónus de demonstrar que o requerente dispõe de uma alternativa de proteção interna impende sobre o órgão de decisão. O requerente tem o direito de apresentar provas e quaisquer elementos que indiquem que tal alternativa não está disponível para o seu caso. O órgão de decisão tem em conta as provas e elementos apresentados pelo requerente.\n\n4. Na análise sobre se um requerente tem receio fundado de ser perseguido ou se encontra perante um risco real de ofensa grave, ou tem acesso a proteção contra a perseguição ou ofensa grave numa parte do país de origem em causa, nos termos do n.º 1 do presente artigo, o órgão de decisão deve, no momento em que toma a decisão sobre o pedido de proteção internacional, ter em conta as condições gerais nessa parte do país e a situação pessoal do requerente, definidas no artigo 4.º. Para o efeito, o órgão de decisão toma em consideração informações exatas e atualizadas provenientes de fontes relevantes e disponíveis a nível nacional, da União e internacional e, quando disponível, a análise comum da situação em países de origem específicos e as orientações referidas no artigo 11.º do Regulamento (UE) 2021/2303.\n\n5.\n\nPara efeitos do disposto no nº 1, o órgão de decisão tem igualmente em consideração:\n\na) As condições gerais na parte em causa do país de origem, incluindo a acessibilidade, eficácia e a durabilidade da proteção a que se refere o artigo 7.º;\n\nb) As circunstâncias pessoais do requerente em relação a fatores como a saúde, a idade, o género, incluindo a identidade de género, a orientação sexual, a origem étnica e a pertença a uma minoria nacional; e\n\nc) Se o requerente é capaz de satisfazer as suas próprias necessidades básicas.\n\n6. Se o requerente for um menor não acompanhado, o órgão de decisão tem em conta o interesse superior do menor, e em especial, a existência de disposições adequadas e sustentáveis em matéria de cuidados e guarda."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "1aa11d2b99228f23": {
+   "fragment_id": "CONDIÇÕES PARA O RECONHECIMENTO COMO REFUGIADO",
+   "type": "divisao",
+   "heading": "CONDIÇÕES PARA O RECONHECIMENTO COMO REFUGIADO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONDIÇÕES PARA O RECONHECIMENTO COMO REFUGIADO"
+  },
+  "e6a70e02b871e836": {
+   "fragment_id": "Artigo 9.º — Atos de perseguição",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Atos de perseguição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Atos de perseguição\n\n1.\n\nUm ato será considerado um ato de perseguição, na aceção do artigo 1.º, ponto A, da Convenção de Genebra, quando:\n\na) For suficientemente grave, devido à sua natureza ou persistência, de modo a constituir grave violação dos direitos humanos fundamentais, em especial os direitos que não podem ser derrogados, nos termos do artigo 15.º, n.º 2, da CEDH; ou\n\nb) Constituir um cúmulo de várias medidas, incluindo violações dos direitos humanos, suficientemente graves para afetar o indivíduo de forma semelhante a um ato referido na alínea a).\n\n2.\n\nOs atos de perseguição qualificados no n.º 1 podem assumir, designadamente, as seguintes formas:\n\na) Atos de violência física ou mental, incluindo atos de violência sexual;\n\nb) Medidas legais, administrativas, policiais ou judiciais, quando forem discriminatórias ou aplicadas de forma discriminatória;\n\nc) Ações judiciais ou sanções desproporcionadas ou discriminatórias;\n\nd) Recusa de acesso a recurso judicial que se traduza numa sanção desproporcionada ou discriminatória;\n\ne) Ações judiciais ou sanções por recusa de cumprir o serviço militar numa situação de conflito em que o cumprimento do serviço militar implique a prática de crimes ou atos abrangidos pelo âmbito dos motivos de exclusão previstos no artigo 12.º, n.º 2;\n\nf) Atos cometidos especificamente em razão do género ou contra crianças.\n\n3. Para que um requerente respeite a definição de «refugiado», prevista no artigo 3.º, ponto 5, tem de existir um nexo entre os motivos de perseguição a que se refere o artigo 10.º e os atos de perseguição qualificados no n.º 1 do presente artigo ou a falta de proteção em relação a tais atos."
+  },
+  "632e16e14c8ea77a": {
+   "fragment_id": "Artigo 10.º — Motivos da perseguição",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Motivos da perseguição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Motivos da perseguição\n\n1.\n\nOs seguintes elementos são tidos em conta na avaliação os motivos da perseguição:\n\na) A noção de raça inclui, nomeadamente, considerações associadas à cor, à ascendência ou à pertença a determinado grupo étnico;\n\nb) A noção de religião abrange, designadamente, o facto de se ter convicções teístas, não teístas e ateias, a participação ou a abstenção de participação em cerimónias de culto privadas ou públicas, quer a título individual, quer em conjunto com outras pessoas, noutros atos religiosos ou expressões de convicções, ou formas de comportamento pessoal ou comunitário fundadas em credos religiosos ou por estes impostas;\n\nc) A noção de nacionalidade não se limita à cidadania ou à sua ausência, mas abrange também, designadamente, a pertença a um grupo determinado pela sua identidade cultural, étnica ou linguística, pelas suas origens geográficas ou políticas comuns ou pela sua relação com a população de outro Estado;\n\nd) O conceito de pertença a um grupo social específico inclui, nomeadamente, a pertença a um grupo:\n\ni) cujos membros partilham, ou são vistos como partilhando, uma característica inata ou uma história comum que não pode ser alterada, ou uma característica ou crença considerada tão fundamental para a identidade ou consciência dos membros do grupo que não se pode exigir que a ela renunciem, e\n\nii) que uma identidade distinta no país em questão, porque é encarado como diferente pela sociedade que o rodeia;\n\ne) A noção de opinião política inclui, designadamente, o facto de se possuir uma opinião, ideia ou ideal em matéria relacionada com os potenciais agentes da perseguição a que se refere o artigo 6.º e com as suas políticas ou métodos, quer essa opinião, ideia ou ideal sejam ou não manifestados por atos do requerente.\n\nDependendo das circunstâncias no país de origem, o conceito de pertença a um grupo social específico, como referido na alínea d) do primeiro parágrafo, inclui a pertença a um grupo com baseado em características comuns de orientação sexual. Para efeitos da determinação da pertença a um grupo social específico ou de identificação de uma característica desse grupo são tidos devidamente em conta os aspetos relacionados com o género, incluindo a identidade de género e a expressão do género.\n\n2. Ao apreciar se o receio de perseguição do requerente tem fundamento, é irrelevante que o requerente possua efetivamente a característica associada à raça, religião, nacionalidade, grupo social ou político que induz a perseguição, desde que tal característica lhe seja atribuída pelo agente da perseguição.\n\n3. Ao apreciar se o receio de perseguição do requerente tem fundamento, o órgão de decisão não pode razoavelmente esperar que esse requerente se adapte ou mude o seu comportamento, convicções ou identidade, ou se abstenha de certas práticas, quando este comportamento, convicções ou práticas são inerentes à sua identidade, para evitar o risco de perseguição no seu país de origem."
+  },
+  "933bbfd9c778e8a5": {
+   "fragment_id": "Artigo 11.º — Cessação",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Cessação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cessação\n\n1.\n\nO nacional de um país terceiro ou a pessoa apátrida deixa de ser refugiado quando se verifique uma ou mais das seguintes situações:\n\na) O nacional de um país terceiro decidiu voluntariamente recolocar-se sob a proteção do país de que tem nacionalidade;\n\nb) Tendo perdido a sua nacionalidade, o nacional de um país terceiro ou a pessoa apátrida readquiriu-a voluntariamente;\n\nc) O nacional de um país terceiro ou a pessoa apátrida adquiriu uma nova nacionalidade e beneficia da proteção do país dessa nova nacionalidade;\n\nd) O nacional de um país terceiro ou a pessoa apátrida restabeleceu-se voluntariamente no país que abandonou ou fora do qual permaneceu por receio de ser perseguido;\n\ne) O nacional de um país terceiro não pode continuar a recusar valer-se da proteção do país de que tem a nacionalidade, por terem deixado de existir as circunstâncias que motivaram o seu reconhecimento como refugiado;\n\nf) A pessoa apátrida está em condições de regressar ao país em que tinha a sua residência habitual, por terem deixado de existir as circunstâncias que motivaram o seu reconhecimento como refugiado.\n\nAs alíneas e) e f) primeiro parágrafo não se aplicam ao refugiado que possa invocar razões imperiosas relacionadas com perseguições anteriores para recusar valer-se da proteção do país da sua nacionalidade ou, na eventualidade de ser uma pessoa apátrida, do país em que tinha a sua residência habitual.\n\n2.\n\nPara avaliar se as alíneas e) e f) do n.º 1, primeiro parágrafo, são aplicáveis, o órgão de decisão:\n\na) Tem em consideração informações exatas e atualizadas provenientes de fontes relevantes e disponíveis a nível nacional, da União e internacional e, quando disponível, a análise comum da situação em países específicos de origem e as orientações referidas no artigo 11.º do Regulamento (UE) 2021/2303.\n\nb) Examina se a alteração das circunstâncias é suficientemente profunda e duradoura para que o receio do refugiado de ser perseguido possa deixar de ser considerado fundado."
+  },
+  "1d4c7a822b949403": {
+   "fragment_id": "Artigo 12.º — Exclusão",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Exclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Exclusão\n\n1.\n\nUm nacional de um país terceiro ou uma pessoa apátrida é excluído da qualidade de refugiado se esse nacional de um país terceiro ou pessoa apátrida:\n\na) Estiver abrangido pelo artigo 1.º, ponto D, da Convenção de Genebra, relativo à proteção ou assistência de órgãos ou agências das Nações Unidas, com exceção do Alto Comissariado das Nações Unidas para os Refugiados; quando essa proteção ou assistência tiver cessado por qualquer razão sem que a situação desse nacional de um país terceiro ou pessoa apátrida tenha sido definitivamente resolvida em conformidade com as resoluções aplicáveis da Assembleia Geral das Nações Unidas, esse nacional de um país terceiro ou pessoa apátrida tem direito, *ipso facto*, a beneficiar do disposto no presente regulamento;\n\nb) As autoridades competentes do país em que o nacional de um país terceiro ou pessoa apátrida tiver estabelecido a sua residência considerarem que tem os direitos e os deveres de quem possui a nacionalidade desse país, ou direitos e deveres equivalentes.\n\n2.\n\nUm nacional de um país terceiro ou uma pessoa apátrida é excluído da qualidade de refugiado quando existam suspeitas graves de que esse nacional de um país terceiro ou pessoa apátrida:\n\na) Praticou um crime contra a paz, um crime de guerra ou um crime contra a Humanidade, segundo o significado dos instrumentos internacionais elaborados para prever disposições relativas a esses crimes;\n\nb) Praticou um crime grave de direito comum fora do país de refúgio antes desse nacional de um país terceiro ou pessoa apátrida ter sido admitido como refugiado, ou seja, da data de concessão do estatuto de refugiado; podem ser classificados como crimes de direito comum graves os atos particularmente cruéis ou desumanos, mesmo que praticados com objetivos alegadamente políticos;\n\nc) Praticou atos contrários aos objetivos e princípios das Nações Unidas enunciados no preâmbulo e nos artigos 1.º e 2.º da Carta das Nações Unidas.\n\n3. O n.º 2 aplica-se às pessoas que tenham instigado ou participado de outra forma na prática dos crimes ou atos aí referidos.\n\n4. Logo que o órgão de decisão tenha estabelecido, com base numa apreciação da gravidade dos crimes ou atos praticados pelo interessado e da responsabilidade individual dessa pessoa, e tendo em conta todas as circunstâncias relacionadas com esses crimes ou atos e a situação da mesma, que um ou mais dos motivos de exclusão previstos nos n.^os^ 2 ou 3 são aplicáveis, o órgão de decisão excluirá a concessão do estatuto de refugiado ao requerente sem que efetue uma apreciação de proporcionalidade associada ao receio de ser perseguido.\n\n5. No âmbito da apreciação a que se refere o n.º 4, ao proceder a uma apreciação nos termos dos n.^os^ 2 e 3 em relação a um menor, o órgão de decisão tem em conta, nomeadamente, a capacidade do menor para ser considerado responsável segundo o direito penal se tiver cometido o crime no território do Estado-Membro que analisa o pedido de proteção internacional, nos termos do direito nacional em matéria de idade mínima de responsabilidade criminal."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "37e08a00f97efe09": {
+   "fragment_id": "ESTATUTO DE REFUGIADO",
+   "type": "divisao",
+   "heading": "ESTATUTO DE REFUGIADO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ESTATUTO DE REFUGIADO"
+  },
+  "3da6bbf1e4ab0c26": {
+   "fragment_id": "Artigo 13.º — Concessão do estatuto de refugiado",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Concessão do estatuto de refugiado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Concessão do estatuto de refugiado\n\nO órgão de decisão concede o estatuto de refugiado ao nacional de um país terceiro ou à pessoa apátrida que preencha as condições para ser considerado refugiado nos termos dos capítulos II e III."
+  },
+  "1b051e2104163a87": {
+   "fragment_id": "Artigo 14.º — Retirada do estatuto de refugiado",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Retirada do estatuto de refugiado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Retirada do estatuto de refugiado\n\n1.\n\nO órgão de decisão retira o estatuto de refugiado de um nacional de um país terceiro ou de uma pessoa apátrida se:\n\na) Esse nacional de um país terceiro ou pessoa apátrida tiver deixado de ser um refugiado nos termos do artigo 11.º;\n\nb) Esse nacional de um país terceiro ou pessoa apátrida devesse ter sido excluída, ou tiver sido excluída, da qualidade de refugiado, nos termos do artigo 12.º;\n\nc) A deturpação de factos por esse nacional de um país terceiro ou pessoa apátrida, incluindo a utilização de documentos falsos, ou a omissão de factos, tiver sido decisiva para a concessão do estatuto de refugiado;\n\nd) Houver motivos razoáveis para considerar que esse nacional de um país terceiro ou pessoa apátrida representa um perigo para a segurança do Estado-Membro onde esse nacional de um país terceiro ou pessoa apátrida se encontra;\n\ne) Esse nacional de um país terceiro ou pessoa apátrida, tendo sido condenado por sentença transitada em julgado por crime particularmente grave, represente um perigo para a comunidade do Estado-Membro onde esse nacional de um país terceiro ou pessoa apátrida se encontra;\n\n2. Nas situações referidas no n.º 1, alíneas d) e e), o órgão de decisão pode decidir não conceder o estatuto de refugiado se uma decisão sobre o pedido de proteção internacional ainda não tiver sido tomada.\n\n3. As pessoas a quem se aplica o n.º 1, alíneas d) e e), ou o n.º 2, do presente artigo gozam dos direitos constantes ou semelhantes aos previstos nos artigos 3.º, 4.º, 16.º, 22.º, 31.º, 32.º e 33.º da Convenção de Genebra, na medida em que estejam presentes no Estado-Membro.\n\n4. O órgão de decisão que concedeu o estatuto de refugiado deve demonstrar, caso a caso, que o beneficiário do estatuto de refugiado deixou de ser um refugiado, ou que nunca lhe devia ter sido concedido o estatuto de refugiado, ou que já não devia beneficiar desse estatuto pelos motivos previstos no n.º 1 do presente artigo. Durante o procedimento de retirada, é aplicável o artigo 66.º do Regulamento (UE) 2024/1348."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "027e58d2e4864fa5": {
+   "fragment_id": "CONDIÇÕES PARA A PROTEÇÃO SUBSIDIÁRIA",
+   "type": "divisao",
+   "heading": "CONDIÇÕES PARA A PROTEÇÃO SUBSIDIÁRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONDIÇÕES PARA A PROTEÇÃO SUBSIDIÁRIA"
+  },
+  "064c764214d9a086": {
+   "fragment_id": "Artigo 15.º — Ofensa grave",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Ofensa grave",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Ofensa grave\n\nConsidera-se ofensa grave a que se refere o artigo 3.º, n.º 6:\n\na) A pena de morte ou execução;\n\nb) A tortura ou pena ou tratamento desumano ou degradante de um requerente no seu país de origem; ou\n\nc) Uma ameaça grave e individual contra a vida ou a integridade física de um civil, resultante de violência indiscriminada em situações de conflito armado internacional ou interno."
+  },
+  "0bb6443bced9c75f": {
+   "fragment_id": "Artigo 16.º — Cessação",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Cessação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Cessação\n\n1. Um beneficiário do estatuto de proteção subsidiária deixa de ser elegível para proteção subsidiária quando as circunstâncias que motivaram a concessão desse estatuto tiverem deixado de existir ou se se tiverem alterado de tal forma que essa proteção já não é necessária.\n\n2.\n\nPara avaliar se as circunstâncias que motivaram as concessão do estatuto de proteção subsidiária deixaram de existir ou se se alteraram de tal forma que a proteção já não é necessária, o órgão de decisão:\n\na) Tem em consideração informações exatas e atualizadas provenientes de fontes relevantes e disponíveis a nível nacional, da União e internacional e, quando disponível, a análise comum da situação em países específicos de origem e as orientações referidas no artigo 11.º do Regulamento (UE) 2021/2303;\n\nb) Avalia se a alteração das circunstâncias é suficientemente significativa e duradoura para que o beneficiário do estatuto de proteção subsidiária já não se encontre perante um risco real de ofensa grave.\n\n3. O n.º 1 não se aplica ao beneficiário do estatuto de proteção subsidiária que possa invocar razões imperiosas resultantes de ofensa grave anterior para recusar valer-se da proteção do país da sua nacionalidade ou, na eventualidade de ser uma pessoa apátrida, do país em que tinha a sua residência habitual."
+  },
+  "c1cf610580414966": {
+   "fragment_id": "Artigo 17.º — Exclusão",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Exclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Exclusão\n\n1.\n\nO nacional de um país terceiro ou a pessoa apátrida é excluído da qualidade de pessoa elegível para proteção subsidiária se existirem motivos sérios para considerar que esse nacional de um país terceiro ou pessoa apátrida:\n\na) Praticou um crime contra a paz, um crime de guerra ou um crime contra a Humanidade, segundo o significado dos instrumentos internacionais elaborados para prever disposições relativas a esses crimes;\n\nb) Praticou um crime grave antes da sua chegada ao território do Estado-Membro ou foi condenada por um crime grave após a sua chegada;\n\nc) Praticou atos contrários aos objetivos e princípios das Nações Unidas enunciados no preâmbulo e nos artigos 1.º e 2.º da Carta das Nações Unidas;\n\nd) Representa um perigo para a comunidade ou para a segurança nacional.\n\n2. O n.º 1 aplica-se às pessoas que tenham instigado ou participado na prática dos crimes ou atos aí referidos.\n\n3. Um nacional de um país terceiro ou uma pessoa apátrida pode ser excluído da qualidade de pessoa elegível para proteção subsidiária se esse nacional de um país terceiro ou pessoa apátrida, antes de ter sido admitido no Estado-Membro em causa, tiver cometido um ou mais crimes não abrangidos pelo n.º 1, alíneas a), b) e c), que seriam puníveis com pena de prisão caso tivessem sido praticados no Estado-Membro em causa, e se esse nacional de um país terceiro ou pessoa apátrida tiver deixado o seu país de origem unicamente com o objetivo de evitar sanções decorrentes desses crimes.\n\n4. Logo que o órgão de decisão tenha estabelecido ¾ com base numa apreciação da gravidade dos crimes ou atos praticados pelo interessado e da responsabilidade individual dessa pessoa, e tendo em conta todas as circunstâncias relacionadas com esses crimes ou atos e a situação dessa pessoa ¾ que um ou mais dos motivos de exclusão previstos nos n.^os^ 1 e 2 são aplicáveis, o órgão de decisão excluirá o requerente do estatuto de proteção subsidiária sem efetuar uma apreciação de proporcionalidade associada ao receio de sofrer ofensa grave.\n\n5. Como parte da avaliação a que se refere o n.º 4, ao proceder a uma apreciação nos termos do n.º 1 em relação a um menor, o órgão de decisão deve ter em conta, nomeadamente, a capacidade do menor para ser considerado responsável segundo o direito penal se tivesse cometido o crime no território do Estado-Membro que analisa o pedido de proteção internacional nos termos do direito nacional em matéria de idade mínima de responsabilidade penal ou, quando aplicável, se tiver sido condenado por um crime grave após a chegada do menor."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "15a10ad392f99537": {
+   "fragment_id": "ESTATUTO DE PROTEÇÃO SUBSIDIÁRIA",
+   "type": "divisao",
+   "heading": "ESTATUTO DE PROTEÇÃO SUBSIDIÁRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ESTATUTO DE PROTEÇÃO SUBSIDIÁRIA"
+  },
+  "3cc763065e8c5b2f": {
+   "fragment_id": "Artigo 18.º — Concessão do estatuto de proteção subsidiária",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Concessão do estatuto de proteção subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Concessão do estatuto de proteção subsidiária\n\nO órgão de decisão concede o estatuto de proteção subsidiária aos nacionais de países terceiros ou a apátridas elegíveis para proteção subsidiária nos termos dos capítulos II e V."
+  },
+  "4cf2e1146b0a29ff": {
+   "fragment_id": "Artigo 19.º — Retirada do estatuto de proteção subsidiária",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Retirada do estatuto de proteção subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Retirada do estatuto de proteção subsidiária\n\n1.\n\nO órgão de decisão retira o estatuto de proteção subsidiária de um nacional de um país terceiro ou de um apátrida se:\n\na) Esse nacional de um país terceiro ou apátrida tiver deixado de ser elegível para proteção subsidiária nos termos do artigo 16.º;\n\nb) Depois de lhe ter sido concedido o estatuto de proteção subsidiária, esse nacional de um país terceiro ou pessoa apátrida devesse ter sido excluído ou tiver sido excluído da qualidade de pessoa elegível para proteção subsidiária nos termos do artigo 17.º;\n\nc) A deturpação de factos por esse nacional de um país terceiro ou pessoa apátrida, incluindo a utilização de documentos falsos, ou a omissão de factos, tiver sido decisiva para a concessão do estatuto de proteção subsidiária.\n\n2. O órgão de decisão que tenha concedido o estatuto de proteção subsidiária deve demonstrar, caso a caso, que o beneficiário do estatuto de proteção subsidiária deixou de ser elegível para proteção subsidiária, ou que nunca devia ter sido concedido o estatuto de proteção subsidiária, ou que já não devia beneficiar desse estatuto pelos motivos previstos no n.º 1 do presente artigo. Durante o procedimento de retirada aplica-se o artigo 66.º do Regulamento (UE) 2024/1348."
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "96cd759ac798ecb0": {
+   "fragment_id": "CONTEÚDO DOS DIREITOS E OBRIGAÇÕES DE PROTEÇÃO INTERNACIONAL DOS BENEFICIÁRIOS DE PROTEÇÃO INTERNACIONAL",
+   "type": "divisao",
+   "heading": "CONTEÚDO DOS DIREITOS E OBRIGAÇÕES DE PROTEÇÃO INTERNACIONAL DOS BENEFICIÁRIOS DE PROTEÇÃO INTERNACIONAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONTEÚDO DOS DIREITOS E OBRIGAÇÕES DE PROTEÇÃO INTERNACIONAL DOS BENEFICIÁRIOS DE PROTEÇÃO INTERNACIONAL"
+  },
+  "19572906891c0646": {
+   "fragment_id": "SECÇÃO I",
+   "type": "divisao",
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO I"
+  },
+  "e66b8427f7f19165": {
+   "fragment_id": "Disposições comuns",
+   "type": "divisao",
+   "heading": "Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições comuns"
+  },
+  "36924e919ecf33fe": {
+   "fragment_id": "Artigo 20.º — Regras gerais",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Regras gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Regras gerais\n\n1. Sem prejuízo dos direitos e obrigações estabelecidos na Convenção de Genebra, os beneficiários de proteção internacional têm os direitos e obrigações estabelecidos no presente capítulo.\n\n2. Os beneficiários de proteção internacional devem ter acesso aos direitos concedidos nos termos do presente capítulo assim que for concedida proteção internacional e enquanto beneficiarem do estatuto de refugiado ou do estatuto de proteção subsidiária.\n\n3. Se o título de residência não for emitido a um beneficiário de proteção internacional no prazo de 15 dias após a concessão de proteção internacional, o Estado-Membro em causa toma medidas provisórias, tais como o registo ou a emissão de um documento, para garantir que o beneficiário tenha acesso efetivo aos direitos previstos no presente capítulo, com exceção dos previstos nos artigos 25.º e 27.º, até que o título de residência seja emitido nos termos do artigo 24.º.\n\n4. Na aplicação do presente capítulo e se confirmado que uma pessoa tem necessidades especiais por ser, por exemplo, um menor, um menor não acompanhado, uma pessoa com deficiência, uma pessoa idosa, uma mulher grávida, uma família monoparental com um filho menor ou um filho adulto dependente, uma vítima de tráfico de seres humanos, uma pessoa portadora de doença grave, uma pessoa com distúrbios mentais ou uma pessoa que tenha sido sujeita a atos de tortura, violação ou outras formas graves de violência psicológica, física ou sexual, as autoridades competentes têm em conta essas necessidades especiais.\n\n5. Ao aplicar as disposições do presente capítulo respeitantes aos menores, o interesse superior da criança deve ser uma consideração primordial para as autoridades competentes."
+  },
+  "1f5da9b051d630cf": {
+   "fragment_id": "Artigo 21.º — Proteção contra a repulsão",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Proteção contra a repulsão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Proteção contra a repulsão\n\nO princípio da não repulsão deve ser respeitado, de acordo com o direito da União e internacional."
+  },
+  "ac248cac1806eb96": {
+   "fragment_id": "Artigo 22.º — Informações",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Informações\n\nAs autoridades competentes devem disponibilizar aos beneficiários de proteção internacional informações sobre os direitos e as obrigações inerentes ao estatuto de refugiado ou ao estatuto de proteção subsidiária, o mais rapidamente possível após a concessão desse tipo de proteção. Essas informações, como especificado no anexo I, devem:\n\na) Ser prestadas numa língua que o beneficiário compreenda ou seja razoável supor que compreenda; e\n\nb) Fazer referências explícitas às consequências do incumprimento das obrigações previstas no artigo 27.º no que diz respeito à circulação na União."
+  },
+  "0254aba5a6f77d59": {
+   "fragment_id": "Artigo 23.º — Preservação da unidade familiar",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Preservação da unidade familiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Preservação da unidade familiar\n\n1. As autoridades competentes do Estado-Membro que concederam proteção internacional a um beneficiário de proteção internacional emitem, nos termos dos procedimentos nacionais, títulos de residência aos membros da família do beneficiário de proteção internacional que a título individual não preencham as condições para beneficiar de proteção internacional e que requeiram uma autorização de residência nesse Estado-Membro, caso não se apliquem os n.^os^ 3, 4 ou 5 do presente artigo e na medida em que tal seja compatível com o estatuto jurídico pessoal do membro da família.\n\n2. A autorização de residência emitida nos termos do n.º 1 tem a mesma data de validade da autorização de residência emitida a favor do beneficiário de proteção internacional e é renovável enquanto o título de residência emitido para o beneficiário de proteção internacional for renovado. O período de validade das autorizações de residência emitidas ao membro da família não deve ultrapassar a validade da autorização de residência do beneficiário de proteção internacional.\n\n3. Não será emitida, nos termos do presente regulamento, uma autorização de residência a favor do membro da família que esteja ou estaria excluído da proteção internacional nos termos dos capítulos III e V.\n\n4. Não será emitida, nos termos do presente regulamento, uma autorização de residência a favor de um cônjuge ou de uma pessoa numa relação estável sem vínculo matrimonial quando existam indícios fortes de que o casamento foi contraído ou a união ocorreu com o propósito único de possibilitar a entrada ou a residência da pessoa no Estado-Membro em causa.\n\n5. Se motivos de segurança nacional ou ordem pública relacionados com o membro da família em causa assim o exigirem, não será emitida uma autorização de residência a favor desse membro da família, e tais autorizações já emitidas devem ser retiradas ou não renovadas.\n\n6. Os membros da família que possuam uma autorização de residência emitida nos termos do n.º 1 do presente artigo devem beneficiar dos direitos previstos nos artigos 25.º a 32.º, 34.º e 35.º.\n\n7. Os Estados-Membros podem aplicar o presente artigo a outros parentes próximos, incluindo irmãos, que faziam parte do agregado familiar antes da chegada do requerente ao território do Estado-Membro e que estão a cargo do beneficiário de proteção internacional. Os Estados-Membros podem aplicar o presente artigo a um menor casado, desde que seja no interesse superior desse menor."
+  },
+  "0b50b9972a75b595": {
+   "fragment_id": "SECÇÃO II",
+   "type": "divisao",
+   "heading": "SECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO II"
+  },
+  "cf93e097371adca1": {
+   "fragment_id": "Direitos e obrigações relacionados com a residência e permanência",
+   "type": "divisao",
+   "heading": "Direitos e obrigações relacionados com a residência e permanência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Direitos e obrigações relacionados com a residência e permanência"
+  },
+  "3c0eadc71d586c42": {
+   "fragment_id": "Artigo 24.º — Autorizações de residência",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Autorizações de residência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Autorizações de residência\n\n1. Os beneficiários de proteção internacional devem ter o direito de obter uma autorização de residência enquanto usufruírem do estatuto de refugiado ou do estatuto de proteção subsidiária.\n\n2. Deve ser emitida uma autorização de residência logo que possível após a concessão do estatuto de refugiado ou do estatuto de proteção subsidiária, e o mais tardar 90 dias após a notificação da decisão de concessão de proteção internacional, segundo o modelo uniforme previsto no Regulamento (CE) n.º 1030/2002.\n\n3. A autorização de residência deve ser emitida gratuitamente ou mediante pagamento de uma taxa que não exceda a taxa que deve ser paga pelos nacionais do Estado-Membro em causa pela emissão de documentos de identificação.\n\n4. A autorização de residência deve ter um período inicial de validade de, pelo menos, três anos para os beneficiários do estatuto de refugiado e de, pelo menos, um ano para os beneficiários do estatuto de proteção subsidiária.\n\nUma vez caducadas, as autorizações de residência devem ser renovadas por um período mínimo de três anos no caso dos beneficiários do estatuto de refugiado e por um período mínimo de dois anos no caso dos beneficiários do estatuto de proteção subsidiária.\n\nA renovação das autorizações de residência deve ser organizada de modo a assegurar a continuidade do período de residência autorizado, sem interrupções entre o período abrangido pelo termo da validade e a renovação da autorização, desde que o beneficiário de proteção internacional atue nos termos do direito nacional aplicável que prevê as formalidades administrativas para a renovação.\n\n5. As autoridades competentes só podem revogar ou recusar a renovação de uma autorização de residência se tiverem retirado o estatuto de refugiado, nos termos do artigo 14.º, ou o estatuto de proteção subsidiária, nos termos do artigo 19.º."
+  },
+  "cb850acf28208c02": {
+   "fragment_id": "Artigo 25.º — Documentos de viagem",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Documentos de viagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Documentos de viagem\n\n1. Com exceção dos casos em que motivos imperiosos de segurança nacional ou de ordem pública relacionados com um beneficiário do estatuto de refugiado exijam o contrário, as autoridades competentes emitem documentos de viagem na forma prevista no anexo da Convenção de Genebra e que cumpram com as normas mínimas relativas aos dispositivos de segurança e dados biométricos constantes do Regulamento (CE) n.º 2252/2004 a favor dos beneficiários do estatuto de refugiado. Esses documentos de viagem devem ser válidos durante mais de um ano.\n\n2. A menos que se verifiquem motivos imperiosos de segurança nacional ou de ordem pública em contrário relacionados com o beneficiário de uma proteção subsidiária, as autoridades competentes emitem os documentos de viagem que cumpram as normas mínimas relativas aos dispositivos de segurança e dados biométricos referidos no Regulamento (CE) n.º 2252/2004 a favor dos beneficiários do estatuto de proteção subsidiária que não possam obter ou renovar um passaporte nacional. Esses documentos de viagem devem ser válidos durante mais de um ano.\n\n3. No exercício das obrigações que lhes incumbem nos termos dos n.^os^ 1 e 2 do presente artigo, as autoridades competentes dos Estados-Membros que não participam no acervo de Schengen emitem os documentos de viagem na forma prevista no anexo da Convenção de Genebra e que cumpram as normas mínimas relativas aos dispositivos de segurança e dados biométricos equivalentes às definidas no Regulamento (CE) n.º 2252/2004 a favor dos beneficiários do estatuto de refugiado, tendo em conta as especificações da Organização da Aviação Civil Internacional, nomeadamente as do documento 9303 sobre os documentos de viagem de leitura ótica.\n\nNo exercício das obrigações que lhes incubem nos termos dos n.^os^ 1 e 2 do presente artigo, as autoridades competentes dos Estados-Membros que não participam no acervo de Schengen emitem os documentos de viagem que cumpram as normas mínimas relativas aos dispositivos de segurança e dados biométricos equivalentes às indicadas no Regulamento (CE) n.º 2252/2004, a favor dos beneficiários do estatuto de proteção subsidiária que não possam obter ou renovar um passaporte nacional, tendo em conta as especificações da Organização da Aviação Civil Internacional, nomeadamente as do documento 9303 sobre os documentos de viagem de leitura ótica."
+  },
+  "22682ef17a6d1bec": {
+   "fragment_id": "Artigo 26.º — Liberdade de circulação no Estado-Membro",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Liberdade de circulação no Estado-Membro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Liberdade de circulação no Estado-Membro\n\nOs beneficiários de proteção internacional gozam de liberdade de circulação no território do Estado-Membro que lhes concedeu proteção internacional, incluindo o direito de escolher o seu local de residência nesse território, nas mesmas condições e restrições que as previstas para os nacionais de outros países terceiros que residam legalmente no respetivo território e que, de um modo geral, se encontrem na mesma situação."
+  },
+  "e553cf880844687b": {
+   "fragment_id": "Artigo 27.º — Circulação na União",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Circulação na União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Circulação na União\n\nOs beneficiários de proteção internacional não têm o direito de residir num Estado-Membro diferente do Estado-Membro que lhes concedeu proteção internacional. Tal não prejudica o seu direito:\n\na) De requerer e ser autorizado a residir noutro Estado-Membro ao abrigo do direito nacional desse Estado-Membro ou ao abrigo das disposições aplicáveis do direito da União ou de acordos internacionais;\n\nb) De livre circulação nos termos do artigo 21.º da Convenção de Aplicação do Acordo de Schengen."
+  },
+  "b4f1bfdbc841cf04": {
+   "fragment_id": "SECÇÃO III",
+   "type": "divisao",
+   "heading": "SECÇÃO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO III"
+  },
+  "216aeb4d2296cc75": {
+   "fragment_id": "Direitos relacionados com a integração",
+   "type": "divisao",
+   "heading": "Direitos relacionados com a integração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Direitos relacionados com a integração"
+  },
+  "ff15b3a086f0d0e4": {
+   "fragment_id": "Artigo 28.º — Acesso ao trabalho",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Acesso ao trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Acesso ao trabalho\n\n1. Os beneficiários de proteção internacional têm o direito de exercer atividades laborais por conta de outrem ou por conta própria, sujeito às regras gerais aplicáveis à profissão em causa ou aos trabalhos na administração pública, imediatamente após a concessão da proteção.\n\n2.\n\nOs beneficiários de proteção internacional devem beneficiar de um tratamento igual ao dos nacionais do Estado-Membro que lhes concedeu proteção internacional no que se refere a:\n\na) Condições de trabalho, nomeadamente à idade mínima para trabalhar e às condições de trabalho, incluindo em matéria de remuneração, despedimento, horário de trabalho, licenças e férias, e de saúde e segurança no local de trabalho;\n\nb) Liberdade de associação, filiação e participação em organizações representativas dos trabalhadores ou empregadores, ou em qualquer organização cujos membros exerçam uma determinada profissão, incluindo os direitos e benefícios conferidos por este tipo de organizações;\n\nc) Oportunidades de ensino para adultos ligadas ao trabalho, formação profissional, incluindo cursos de formação para melhorar as qualificações e experiência prática no local de trabalho;\n\nd) Serviços de informação e aconselhamento oferecidos pelos serviços de emprego.\n\n3. Se necessário, as autoridades competentes devem facilitar o pleno acesso às atividades referidas nas alíneas c) e d) do n.º 2."
+  },
+  "12d9f6f18a5ba904": {
+   "fragment_id": "Artigo 29.º — Acesso à educação",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Acesso à educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Acesso à educação\n\n1. Os menores a quem tenha sido concedida proteção internacional beneficiam de um tratamento igual ao dos nacionais do Estado-Membro que lhes concedeu proteção internacional no que se refere ao acesso ao sistema de ensino.\n\nOs beneficiários de proteção internacional continuarão a beneficiar de um tratamento igual ao dos nacionais do Estado-Membro que lhes concedeu proteção internacional para a conclusão do ensino secundário, independentemente de atingirem a maioridade.\n\n2. Os adultos a quem tenha sido concedida proteção internacional beneficiam de um tratamento igual ao dos nacionais do Estado-Membro que lhes concedeu proteção internacional no que se refere ao acesso ao sistema geral de ensino, bem como ao aperfeiçoamento ou reciclagem profissional.\n\nSem prejuízo do disposto no primeiro parágrafo, as autoridades competentes podem recusar a concessão de subvenções e empréstimos a adultos a quem foi concedida proteção internacional, nos casos em que essa possibilidade esteja prevista ao abrigo do direito nacional."
+  },
+  "00950e7eb74dbfdd": {
+   "fragment_id": "Artigo 30.º — Acesso a procedimentos de reconhecimento de qualificações e de validação de competências",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Acesso a procedimentos de reconhecimento de qualificações e de validação de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Acesso a procedimentos de reconhecimento de qualificações e de validação de competências\n\n1. Os beneficiários de proteção internacional têm o direito à igualdade de tratamento com os nacionais do Estado-Membro que lhes concedeu proteção internacional no contexto dos procedimentos de reconhecimento de diplomas estrangeiros, certificados e outros documentos comprovativos de qualificações formais.\n\n2. Sem prejuízo do disposto no artigo 2.º, n.º 2, e no artigo 3.º, n.º 3, da Diretiva 2005/36/CE do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/0daba0cc-0157-11f1-825d-01aa75ed71a1.0020.02/DOC_1#E0002)), as autoridades competentes devem facilitar o pleno acesso aos procedimentos referidos no n.º 1 do presente artigo aos beneficiários de proteção internacional que não possam apresentar prova documental das suas qualificações.\n\n3. Os beneficiários de proteção internacional devem beneficiar de um tratamento igual ao dos nacionais do Estado-Membro que lhes concedeu proteção internacional no que diz respeito ao acesso a mecanismos adequados de apreciação, validação e reconhecimento dos resultados da sua aprendizagem e experiência anteriores."
+  },
+  "2a01cbb16fbda80b": {
+   "fragment_id": "Artigo 31.º — Segurança social e assistência social",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Segurança social e assistência social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Segurança social e assistência social\n\n1. Os beneficiários de proteção internacional devem beneficiar de um tratamento igual ao dos nacionais do Estado-Membro que lhes concedeu proteção internacional no que se refere à segurança social e à assistência social.\n\nO acesso a certas formas de assistência social previstas no direito nacional pode ser condicionado à participação efetiva do beneficiário de proteção internacional em medidas de integração, nos casos em que uma tal participação seja obrigatória e na condição de essas medidas estarem acessíveis e serem gratuitas.\n\n2. Sem prejuízo do disposto no n.º 1, a igualdade de tratamento no que diz respeito à assistência social pode ser limitada, para os beneficiários do estatuto de proteção subsidiária, às prestações sociais de base, nos casos em que essa possibilidade esteja prevista no direito nacional.\n\nAs prestações sociais de base devem incluir pelo menos o seguinte:\n\na) Apoio sob a forma de rendimento mínimo;\n\nb) Assistência em caso de doença ou gravidez;\n\nc) Assistência parental, incluindo assistência à guarda de crianças; e\n\nd) Auxílios à habitação, na medida em que sejam concedidos aos nacionais do Estado-Membro em causa nos termos do direito nacional."
+  },
+  "f61150985e0bd8c3": {
+   "fragment_id": "Artigo 32.º — Cuidados de saúde",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Cuidados de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Cuidados de saúde\n\n1. Os Estados-Membros devem assegurar que os beneficiários de proteção internacional tenham acesso a cuidados de saúde de acordo com os mesmos critérios de elegibilidade aplicáveis aos nacionais do Estado-Membro que lhes concedeu proteção internacional.\n\n2. Os beneficiários de proteção internacional com necessidades especiais, designadamente mulheres grávidas, pessoas com deficiência, pessoas que foram sujeitas a tortura, violação ou outras formas graves de violência psicológica, física ou sexual, ou os menores que tenham sido vítimas de qualquer forma de abuso, negligência, exploração, tortura ou tratamentos cruéis, desumanos e degradantes ou de conflitos armados devem beneficiar de cuidados de saúde adequados, incluindo, quando necessário, de saúde mental, de acordo com os mesmos critérios de elegibilidade aplicáveis aos nacionais do Estado-Membro que lhes concedeu proteção internacional."
+  },
+  "40fa99ed8bbe0e8e": {
+   "fragment_id": "Artigo 33.º — Menores não acompanhados",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Menores não acompanhados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Menores não acompanhados\n\n1. Logo que possível após a concessão de proteção internacional a um menor não acompanhado, as autoridades competentes devem tomar as medidas necessárias, ao abrigo do direito nacional, para designar um tutor.\n\nAs autoridades competentes podem manter a mesma pessoa designada como representante nos termos do artigo 23.º, n.º 2, alínea b), do Regulamento (UE) 2024/1348 ou, nos termos do artigo 27.º, n.º 1, alínea b), da Diretiva (UE) 2024/1346, para agir como tutor, sem terem de proceder a nova designação formal.\n\nOs representantes a que se refere o artigo 23.º, n.º 2, alínea b), do Regulamento (UE) 2024/1348 ou o artigo 27.º, n.º 1, alínea b), da Diretiva (UE) 2024/1346 devem continuar a ser responsáveis pelos menores não acompanhados até que seja nomeado um tutor.\n\nAs organizações ou pessoas singulares cujos interesses estejam ou possam vir a estar potencialmente em conflito com os do menor não acompanhado não são elegíveis para designação como tutores desse menor.\n\nSe o tutor designado for uma organização, esta deve nomear rapidamente uma pessoa singular responsável pelo cumprimento dos deveres de tutela relativamente ao menor não acompanhado nos termos do presente regulamento.\n\n2.\n\nPara efeitos do presente regulamento, com vista a salvaguardar o interesse superior da criança e o bem-estar geral do menor não acompanhado, o tutor deve:\n\na) Assegurar que o menor pode aceder a todos os direitos decorrentes do presente regulamento;\n\nb) Prestar assistência ao menor não acompanhado e, se for caso disso, representá-lo se o estatuto de refugiado ou o estatuto de proteção subsidiária do menor não acompanhado lhe for retirado; e\n\nc) Se for caso disso, prestar assistência na procura de familiares, tal como previsto no n.º 7.\n\nOs tutores:\n\na) Devem dispor das competências necessárias e receber formação inicial e contínua adequada sobre os direitos e as necessidades dos menores não acompanhados, incluindo os relacionados com quaisquer normas aplicáveis em matéria de proteção de crianças;\n\nb) Devem estar sujeitos ao dever de confidencialidade previsto no direito nacional no que respeita a informações de que tomem conhecimento no exercício das suas funções;\n\nc) Não devem ter antecedentes criminais comprovados de crimes e infrações relacionados com menores ou de crimes e infrações que suscitem sérias dúvidas quanto à sua capacidade para assumir a responsabilidade por crianças.\n\n3. As autoridades competentes devem atribuir a cada tutor designado a representação de um número suficientemente limitado e proporcionado de menores não acompanhados para velar por que os tutores sejam realmente capazes de desempenhar as suas funções e por que os menores não acompanhados tenham efetivamente acesso aos seus direitos e benefícios.\n\n4. Nos termos do direito nacional, os Estados-Membros devem assegurar a existência de entidades, incluindo autoridades judiciais, ou pessoas que sejam responsáveis pela supervisão e acompanhamento dos tutores numa base permanente, a fim de assegurar que estes desempenham as suas funções de forma satisfatória.\n\nAs entidades e pessoas a que se refere o primeiro parágrafo devem avaliar o desempenho dos tutores, mormente sempre que haja indícios de que os tutores não estão a desempenhar as suas funções de forma satisfatória. Essas entidades ou pessoas devem apreciar, sem demora, as eventuais queixas apresentadas por menores não acompanhados contra os respetivos tutores.\n\nSe necessário, as autoridades competentes devem proceder à substituição de uma pessoa que atue na qualidade de tutor, em especial se considerarem que essa pessoa não exerceu devidamente as suas funções.\n\nAs autoridades competentes devem explicar aos menores não acompanhados, de forma adaptada à sua idade e de forma a assegurar que os menores compreendem, como apresentar uma queixa contra os seus tutores confidencialmente e em segurança.\n\n5.\n\nTendo em atenção o interesse superior da criança, as autoridades competentes devem colocar os menores não acompanhados:\n\na) Junto de um parente adulto;\n\nb) Numa família de acolhimento;\n\nc) Em centros especializados de alojamento de menores; ou\n\nd) Noutro local de alojamento que disponha de instalações adequadas a menores.\n\nNeste contexto, as opiniões dos menores não acompanhados devem ser tidas em conta, em função da sua idade e grau de maturidade.\n\n6. Na medida do possível, os irmãos devem ser mantidos juntos, tendo em conta os superiores interesses dos menores não acompanhados e, em especial, a sua idade ou maturidade. As mudanças de local de residência dos menores não acompanhados devem ser mantidas num nível mínimo.\n\n7. Se a procura de membros da família de um menor não acompanhado tiver sido iniciada antes da concessão de proteção internacional a esse menor, a procura deve continuar após a concessão de proteção internacional. Se a procura de membros da família ainda não tiver sido iniciada, deve começar o mais rapidamente possível após a concessão do estatuto de refugiado ou do estatuto de proteção subsidiária, desde que sirva o interesse superior do menor.\n\nNos casos em que a vida ou a integridade física do menor ou dos seus parentes próximos esteja em risco, designadamente se ficaram no país de origem, devem envidar-se esforços para assegurar que a recolha, tratamento e circulação das informações respeitantes a essas pessoas respeite a sua confidencialidade para evitar comprometer a sua segurança."
+  },
+  "bd4e4fdc0e54d0d8": {
+   "fragment_id": "Artigo 34.º — Acesso a alojamento",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Acesso a alojamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Acesso a alojamento\n\n1. Os beneficiários de proteção internacional devem ter acesso a alojamento em condições pelo menos equivalentes às aplicáveis aos nacionais de outros países terceiros que residam legalmente no território do Estado-Membro que lhes concedeu proteção internacional e que se encontram, de modo geral, nas mesmas circunstâncias.\n\n2. As práticas nacionais de dispersão de beneficiários de proteção internacional devem assegurar que esses beneficiários de proteção internacional sejam tratados de igual modo, a menos que um tratamento diferente seja objetivamente justificado. Essas práticas nacionais devem assegurar a igualdade de oportunidades relativamente ao acesso ao alojamento."
+  },
+  "5758e817dda20e63": {
+   "fragment_id": "Artigo 35.º — Acesso às medidas de integração",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Acesso às medidas de integração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Acesso às medidas de integração\n\n1. A fim de incentivar e facilitar a sua integração na sociedade do Estado-Membro que lhes concedeu proteção internacional, os beneficiários de proteção internacional devem ter acesso às medidas de integração oferecidas ou facilitadas pelo Estado-Membro que tenham em conta as suas necessidades específicas e sejam consideradas adequadas pelas autoridades competentes, nomeadamente cursos de línguas, educação cívica e programas de integração e de formação profissional.\n\n2. Os beneficiários de proteção internacional devem participar em medidas de integração nos casos em que a participação seja exigida pelo Estado-Membro que lhes concedeu proteção internacional. Essas medidas de integração devem estar acessíveis e ser gratuitas.\n\n3. Em derrogação do n.º 2 do presente artigo, e sem prejuízo do disposto no artigo 31.º, n.º 1, segundo parágrafo, os Estados-Membros podem aplicar uma taxa a determinadas medidas de integração obrigatórias se o beneficiário de proteção internacional dispuser de meios suficientes e os custos não constituírem um encargo excessivo para o beneficiário de proteção internacional.\n\n4. As autoridades competentes não podem aplicar medidas punitivas a beneficiários de proteção internacional caso estes não possam participar em medidas de integração devido a circunstâncias fora do seu controlo."
+  },
+  "fcb2e6c937bc9bbd": {
+   "fragment_id": "Artigo 36.º — Repatriamento",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Repatriamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Repatriamento\n\nOs Estados-Membros podem prestar assistência aos beneficiários de proteção internacional que manifestem vontade de ser repatriados."
+  },
+  "99973826fcc02605": {
+   "fragment_id": "CAPÍTULO VIII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VIII"
+  },
+  "5d8c13bb1c61251d": {
+   "fragment_id": "COOPERAÇÃO ADMINISTRATIVA",
+   "type": "divisao",
+   "heading": "COOPERAÇÃO ADMINISTRATIVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COOPERAÇÃO ADMINISTRATIVA"
+  },
+  "b80020d70c4f42b8": {
+   "fragment_id": "Artigo 37.º — Cooperação",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Cooperação\n\nCada Estado-Membro deve designar um ponto de contacto nacional para efeitos do presente regulamento e comunicar o respetivo contacto à Comissão. A Comissão comunica esses dados aos outros Estados-Membros.\n\nOs Estados-Membros devem, em ligação com a Comissão, tomar todas as disposições necessárias para estabelecer uma cooperação direta e um intercâmbio de informações entre as autoridades competentes."
+  },
+  "6315428c5d22334d": {
+   "fragment_id": "Artigo 38.º — Pessoal",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Pessoal\n\nAs autoridades e outras organizações que apliquem o presente regulamento devem ter beneficiado ou vir a beneficiar da formação necessária e ficar vinculadas ao princípio da confidencialidade no que se refere a todas as informações pessoais que obtenham no exercício das suas atribuições, conforme estipulado pelo direito nacional."
+  },
+  "066a8a7b3c446d0b": {
+   "fragment_id": "CAPÍTULO IX",
+   "type": "divisao",
+   "heading": "CAPÍTULO IX",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IX"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "96b3febd9263161b": {
+   "fragment_id": "Artigo 39.º — Acompanhamento e avaliação",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Acompanhamento e avaliação\n\nAté 13 de junho de 2028 e, posteriormente, de cinco em cinco anos, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação do presente regulamento e, se for caso disso, propõe as alterações necessárias.\n\nO mais tardar nove meses antes do termo do prazo em questão definido no primeiro parágrafo, os Estados-Membros devem transmitir à Comissão toda a informação útil para a preparação do relatório referido nesse parágrafo."
+  },
+  "da5ff70074baf9fc": {
+   "fragment_id": "Artigo 40.º — Alteração da Diretiva 2003/109/CE",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Alteração da Diretiva 2003/109/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Alteração da Diretiva 2003/109/CE\n\nA Diretiva 2003/109/CE é alterada do seguinte modo:\n\n1) No artigo 4.º, n.º 2, o terceiro parágrafo passa a ter a seguinte redação:\n\n«No que se refere às pessoas a quem foi concedida proteção internacional, o período entre a data em que foi apresentado o pedido de proteção internacional com base no qual a proteção internacional foi concedida e a data em que a autorização de residência referida no artigo 24.º do Regulamento (UE) 2024/1347 ([^*1^](http://publications.europa.eu/resource/cellar/0daba0cc-0157-11f1-825d-01aa75ed71a1.0020.02/DOC_1#E0003)) foi concedida deve ser tido em conta para efeitos do cálculo do período referido no n.º 1.\n\n2) No artigo 4.º, é inserido o seguinte número:\n\n«3-A. Se um beneficiário de proteção internacional for encontrado no território de um Estado-Membro diferente do Estado-Membro que lhe concedeu proteção internacional, sem o direito de permanecer ou residir nesse país nos termos do direito nacional da União ou internacional aplicável, o período de permanência legal no Estado-Membro que concedeu proteção internacional anterior a essa situação não deve ser tido em conta para efeitos do cálculo do período referido no n.º 1.\n\nEm derrogação do disposto no primeiro parágrafo, designadamente quando o beneficiário de proteção internacional demonstrar que a razão da permanência ou da residência sem direito se deveu a circunstâncias fora do controlo desse beneficiário, os Estados-Membros podem prever, em conformidade com o respetivo direito nacional, que o cálculo do período referido no n.º 1 não seja interrompido.»\n\n3) No artigo 26.º, o n.º 1 passa a ter a seguinte redação:\n\n«Os Estados-Membros põem em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente diretiva o mais tardar até 23 de janeiro de 2006. Os Estados-Membros põem em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento ao artigo 4.º, n.º 2, terceiro parágrafo, e n.º 3-A, até 12 de junho de 2026. Os Estados-Membros comunicam imediatamente à Comissão o texto dessas disposições.»."
+  },
+  "3ea9ad995deb109d": {
+   "fragment_id": "Artigo 41.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 41.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Revogação\n\nA Diretiva 2011/95/UE é revogada com efeitos a partir de 12 de junho de 2026. As remissões para a diretiva revogada devem entender-se como remissões para o presente regulamento e devem ser lidas de acordo com a tabela de correspondência constante do anexo II.\n\nNa medida em que a Diretiva 2004/83/CE do Conselho ([^3^](http://publications.europa.eu/resource/cellar/0daba0cc-0157-11f1-825d-01aa75ed71a1.0020.02/DOC_1#E0004)) continuou a ser vinculativa para os Estados-Membros não vinculados pela Diretiva 2011/95/UE, a Diretiva 2004/83/CE é revogada com efeitos a partir da data em que esses Estados-Membros estiverem vinculados pelo presente regulamento. As remissões para a diretiva revogada devem entender-se como remissões para o presente regulamento."
+  },
+  "3197e39dc21dbd35": {
+   "fragment_id": "Artigo 42.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 42.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 12 de junho de 2026.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável nos Estados-Membros, em conformidade com os Tratados."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "978b092cf1870630": {
+   "fragment_id": "Informações a prestar aos beneficiários de proteção internacional",
+   "type": "divisao",
+   "heading": "Informações a prestar aos beneficiários de proteção internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Informações a prestar aos beneficiários de proteção internacional\n\nLogo que possível após a concessão de proteção internacional, devem ser prestadas aos beneficiários de proteção internacional, no mínimo, as seguintes informações respeitantes aos direitos e às obrigações relacionados com o seu estatuto de refugiado ou estatuto de proteção subsidiária. Se necessário, as informações podem ser prestadas por diferentes autoridades, prestadores de serviços ou pontos de contacto pertinentes.\n\nI. Informações sobre direitos e obrigações relacionados com a residência e permanência:\n\na) Direito a uma autorização de residência para os beneficiários de proteção internacional (artigo 24.º):\n\n— Como e onde requerer uma autorização de residência e informações sobre a autoridade competente ou um ponto de contacto pertinente;\n\nb) Direito a uma autorização de residência para os membros da família de beneficiários de proteção internacional (artigo 23.º):\n\n— Como e onde requerer uma autorização de residência e informações sobre a autoridade competente ou um ponto de contacto pertinente;\n\n— Informações sobre os direitos a que têm direito os membros da família a quem é concedida uma autorização de residência;\n\nc) Direito de requerer um documento de viagem (artigo 25.º):\n\n— Como e onde requerer um documento de viagem e informações sobre a autoridade competente ou um ponto de contacto pertinente;\n\nd) Direito à liberdade de circulação no Estado-Membro e possíveis restrições a essa circulação (artigo 26.º):\n\n— Se for caso disso, o requisito de estabelecer residência ou de se registar num determinado município e informações sobre a autoridade competente ou um ponto de contacto pertinente;\n\ne) Direito à liberdade de circulação na União (artigo 27.º):\n\n— A obrigação de residir no Estado-Membro que concedeu proteção internacional;\n\n— O direito de circular no espaço Schengen e as condições de exercício desse direito, tal como especificado no artigo 21.º da Convenção de Aplicação do Acordo de Schengen, assim como o direito de requerer e ser autorizado a residir noutro Estado-Membro ao abrigo do direito nacional desse Estado-Membro ou nos termos das disposições pertinentes do direito da União ou de acordos internacionais;\n\n— Possíveis sanções em relação ao cálculo de anos de acordo com a Diretiva 2003/109/CE e o procedimento de retirada ao abrigo do Regulamento (UE) 2024/1351 quando o beneficiário de proteção internacional não segue as regras aplicáveis e ultrapassa o tempo de permanência sem permissão em situação de violação da Convenção de Aplicação do Acordo de Schengen ou permanece ou reside noutro Estado-Membro sem permissão.\n\nII. Informações sobre direitos relacionados com a integração:\n\na) Direito de acesso ao trabalho (artigo 28.º):\n\n— Requisitos administrativos para aceder a uma atividade por conta de outrem ou por conta própria;\n\n— Se for caso disso, as restrições relacionadas com o trabalho na administração pública;\n\n— O serviço de emprego ou ponto de contacto competente para obter informações adicionais;\n\nb) Direito de acesso dos menores à educação (artigo 29.º, n.º 1)\n\n— Idade mínima para a escolaridade obrigatória;\n\n— Se for caso disso, requisitos administrativos para o acesso ao sistema de ensino;\n\nc) Direito de acesso dos adultos ao sistema geral de ensino (artigo 29.º, n.º 2):\n\n— Os requisitos, incluindo os administrativos, para aceder ao sistema geral de ensino;\n\nd) Direito de acesso a procedimentos de reconhecimento de habilitações e de validação de competências (artigo 30.º):\n\n— As autoridades nacionais competentes ou os pontos de contacto pertinentes para a prestação de informações sobre as profissões regulamentadas que só possam ser exercidas após o reconhecimento formal das habilitações e os procedimentos administrativos a efetuar para obter esse reconhecimento;\n\ne) Informações sobre mecanismos adequados de avaliação, validação e reconhecimento dos resultados da aprendizagem e experiência anteriores (artigo 30.º, n.º 3):\n\n— Se for caso disso, informações sobre esses mecanismos e um ponto de contacto pertinente para a obtenção de mais informações;\n\nf) Direito a beneficiar de um tratamento igual ao dos nacionais no que respeita à segurança social (artigo 31.º)\n\n— Um ponto de contacto pertinente para a obtenção de mais informações;\n\ng) Direito a assistência social (artigo 31.º):\n\n— Se for caso disso, a lista das prestações que não são concedidas aos beneficiários de proteção subsidiária;\n\n— Um ponto de contacto pertinente para a obtenção de mais informações;\n\nh) Direito a cuidados de saúde nas mesmas condições de elegibilidade que os nacionais (artigo 32.º):\n\n— Informações gerais sobre as condições de acesso aos cuidados de saúde;\n\n— Se for caso disso, um ponto de contacto para os serviços à disposição das vítimas de abuso, exploração, tortura ou tratamentos cruéis, desumanos e degradantes;\n\ni) Direito ao acesso a alojamento em condições equivalentes às aplicáveis aos nacionais de outros países terceiros que residam legalmente no Estado-Membro (artigo 34.º):\n\n— Se for caso disso, informações básicas sobre os programas de alojamento social disponíveis;\n\n— Se for caso disso, requisitos de residência no âmbito de práticas de dispersão;\n\n— Uma autoridade competente ou um ponto de contacto pertinente para a obtenção de mais informações;\n\nj) Direito de acesso a medidas de integração consideradas adequadas, sob reserva da eventual obrigatoriedade da participação nessas medidas (artigo 35.º):\n\n— Se for caso disso, informações sobre as medidas de integração obrigatórias;\n\n— Um ponto de contacto pertinente para a obtenção de mais informações.\n\nIII. Informações sobre os direitos específicos dos menores não acompanhados (artigo 33.º):\n\n— Informações sobre o direito a um tutor e as suas obrigações;\n\n— Os dados para a apresentação de uma queixa contra um tutor."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "7d22e3cb6cc94ff5": {
+   "fragment_id": "Tabela de correspondência",
+   "type": "divisao",
+   "heading": "Tabela de correspondência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Tabela de correspondência\n\n| Diretiva 2011/95/UE | Presente regulamento |\n| --- | --- |\n| Artigo 1.º | Artigo 1.º |\n| Artigo 2.º, alínea a) | Artigo 3.º, ponto 3) |\n| Artigo 2.º, alínea b) | Artigo 3.º, ponto 4) |\n| Artigo 2.º, alínea c) | ¾ |\n| Artigo 2.º, alínea d) | Artigo 3.º, ponto 5) |\n| Artigo 2.º, alínea e) | Artigo 3.º, ponto 1) |\n| Artigo 2.º, alínea f) | Artigo 3.º, ponto 6) |\n| Artigo 2.º, alínea g) | Artigo 3.º, ponto 2) |\n| Artigo 2.º, alínea h) | Artigo 3.º, ponto 7) |\n| Artigo 2.º, alínea i) | Artigo 3.º, ponto 8) |\n| Artigo 2.º, alínea j), proémio | Artigo 3.º, ponto 9), proémio |\n| Artigo 2.º, alínea j), primeiro travessão | Artigo 3.º, ponto 9), alínea a) |\n| Artigo 2.º, alínea j), segundo travessão | Artigo 3.º, ponto 9), alínea b) |\n| Artigo 2.º, alínea j), terceiro travessão | Artigo 3.º, ponto 9), alínea c) |\n| Artigo 2.º, alínea k) | Artigo 3.º, ponto 10) |\n| Artigo 2.º, alínea l) | Artigo 3.º, ponto 11) |\n| Artigo 2.º, alínea m) | Artigo 3.º, ponto 12) |\n| Artigo 2.º, alínea n) | Artigo 3.º, ponto 13) |\n| ¾ | Artigo 3.º, pontos 14, 15, 16, 17 e 18 |\n| Artigo 3.º | ¾ |\n| Artigo 4.º, n.^os^ 1 e 2 | Artigo 4.º, n.^os^ 1 e 2 |\n| ¾ | Artigo 4.º, n.º 3 |\n| Artigo 4.º, n.º 3, alíneas a) a e) | ¾ [()](http://publications.europa.eu/resource/cellar/0daba0cc-0157-11f1-825d-01aa75ed71a1.0020.02/DOC_1#E0005) |\n| Artigo 4.º, n.^os^ 4 e 5 | Artigo 4.º, n.^os^ 4 e 5 |\n| Artigo 5.º | Artigo 5.º |\n| Artigo 6.º | Artigo 6.º |\n| Artigo 7.º | Artigo 7.º |\n| Artigo 8.º, n.º 1 | Artigo 8.º, n.º 1 |\n| ¾ | Artigo 8.º, n.^os^ 2 e 3 |\n| Artigo 8.º, n.º 2 | Artigo 8.º, n.º 4 |\n| ¾ | Artigo 8.º, n.^os^ 5 e 6 |\n| Artigo 9.º | Artigo 9.º |\n| Artigo 10.º, n.^os^ 1 e 2 | Artigo 10.º, n.^os^ 1 e 2 |\n| ¾ | Artigo 10.º, n.º 3 |\n| Artigo 11.º, n.º 1 | Artigo 11.º, n.º 1, primeiro parágrafo |\n| Artigo 11.º, n.º 2 | Artigo 11.º, n.º 2, alíneas a) e b) |\n| Artigo 11.º, n.º 3 | ¾ |\n| Artigo 12.º, n.º 1 | Artigo 12.º, n.º 1 |\n| Artigo 12.º, n.º 2, alíneas a), b) e c) | Artigo 12.º, n.º 2, alíneas a), b) e c) |\n| Artigo 12.º, n.º 3 | Artigo 12.º, n.º 3 |\n| ¾ | Artigo 12.º, n.^os^ 4 e 5 |\n| Artigo 13.º | Artigo 13.º |\n| Artigo 14.º, n.º 1 | Artigo 14.º, n.º 1, alínea a) |\n| Artigo 14.º, n.º 2 | Artigo 14.º, n.º 4 |\n| Artigo 14.º, n.º 3, alínea a) | Artigo 14.º, n.º 1, alínea b) |\n| Artigo 14.º, n.º 3, alínea b) | Artigo 14.º, n.º 1, alínea c) |\n| Artigo 14.º, n.º 4, alínea a) | Artigo 14.º, n.º 1, alínea d) |\n| Artigo 14.º, n.º 4, alínea b) | Artigo 14.º, n.º 1, alínea e) |\n| Artigo 14.º, n.º 5 | Artigo 14.º, n.º 2 |\n| Artigo 14.º, n.º 6 | Artigo 14.º, n.º 3 |\n| ¾ | Artigo 14.º, n.º 4 |\n| Artigo 15.º | Artigo 15.º |\n| Artigo 16.º, n.º 1 | Artigo 16.º, n.º 1 |\n| Artigo 16.º, n.º 2 | Artigo 16.º, n.º 2, alíneas a) e b) |\n| Artigo 16.º, n.º 3 | Artigo 16.º, n.º 3 |\n| Artigo 17.º, n.º 1, alíneas a), b), c) e d) | Artigo 17.º, n.º 1, alíneas a, b), c) e d) |\n| Artigo 17.º, n.º 2 | Artigo 17.º, n.º 2 |\n| Artigo 17.º, n.º 3 | Artigo 17.º, n.º 3 |\n| ¾ | Artigo 17.º, n.^os^ 4 e 5 |\n| Artigo 18.º | Artigo 18.º |\n| Artigo 19.º, n.º 1 | Artigo 19.º, n.º 1, alínea a) |\n| Artigo 19.º, n.º 2 | Artigo 19.º, n.º 1, alínea b) |\n| Artigo 19.º, n.º 3, alínea a) | Artigo 19.º, n.º 1, alínea b) |\n| Artigo 19.º, n.º 3, alínea b) | Artigo 19.º, n.º 1, alínea c) |\n| Artigo 19.º, n.º 4 | Artigo 19.º, n.º 2 |\n| Artigo 21.º | Artigo 21.º |\n| Artigo 20.º, n.º 1 | Artigo 20.º, n.º 1 |\n| Artigo 22.º | Artigo 20.º, n.º 2 |\n| Artigo 20.º, n.º 3 | Artigo 20.º, n.º 4 |\n| Artigo 20.º, n.º 4 | Artigo 20.º, n.º 4 |\n| Artigo 20.º, n.º 5 | Artigo 20.º, n.º 5 |\n| Artigo 21.º, n.º 1 | Artigo 21.º |\n| Artigo 21.º, n.º 2 | ¾ |\n| Artigo 21.º, n.º 3 | ¾ |\n| Artigo 22.º | Artigo 22.º |\n| Artigo 23.º, n.º 1 | ¾ |\n| Artigo 23.º, n.º 2 | Artigo 23.º, n.^os^ 1 e 4 |\n| ¾ | Artigo 23.º, n.º 2 |\n| Artigo 23.º, n.º 3 | Artigo 23.º, n.º 3 |\n| Artigo 23.º, n.º 4 | Artigo 23.º, n.º 5 |\n| Artigo 23.º, n.º 5 | Artigo 23.º, n.º 7 |\n| Artigo 24.º, n.º 1, primeiro parágrafo | Artigo 24.º, n.º 2 |\n| Artigo 24.º, n.º 2 | Artigo 26.º, n.º 4, segundo parágrafo |\n| Artigo 25.º | Artigo 25.º |\n| Artigo 26.º, n.º 1 | Artigo 28.º, n.º 1 |\n| Artigo 26.º, n.º 2 | Artigo 28.º, n.º 2, alíneas c) e d) |\n| Artigo 26.º, n.º 3 | Artigo 28.º, n.º 3 |\n| Artigo 26.º, n.º 4 | Artigo 31.º |\n| Artigo 27.º | Artigo 29.º |\n| Artigo 28.º, n.^os^ 1 e 2 | Artigo 30.º, n.^os^ 1 e 2 |\n| ¾ | Artigo 30.º, n.º 3 |\n| Artigo 29.º, n.º 1 | Artigo 31.º, n.º 1, primeiro parágrafo |\n| ¾ | Artigo 31.º, n.º 1, segundo parágrafo |\n| Artigo 29.º, n.º 2 | Artigo 31.º, n.º 2 |\n| Artigo 30.º | Artigo 32.º |\n| Artigo 31.º, n.º 1 | Artigo 33.º, n.º 1, primeiro parágrafo |\n| ¾ | Artigo 33.º, n.º 1, segundo parágrafo |\n| Artigo 31.º, n.^os^ 2, 3, 4, 5 e 6 | Artigo 33.º, n.^os^ 2, 3, 4, 5, 6 e 7 |\n| Artigo 32.º | Artigo 34.º |\n| Artigo 33.º | Artigo 26.º |\n| Artigo 34.º | Artigo 35.º, n.º 1 |\n| ¾ | Artigo 35.º, n.º 2 |\n| Artigo 35.º | Artigo 36.º |\n| Artigo 36.º | Artigo 37.º |\n| Artigo 37.º | Artigo 38.º |\n| Artigo 38.º | Artigo 39.º |\n| Artigo 39.º | ¾ |\n| ¾ | Artigo 40.º |\n| Artigo 40.º | Artigo 41.º |\n| Artigo 41.º | Artigo 42.º |\n| Artigo 42.º | ¾ |\n| (^1^) Ver artigo 33.º, n.º 2, do Regulamento (UE) 2024/1348. |  |\n\n---"
+  },
+  "b7eef79b1514fc95": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> () Regulamento (CE) n.º 883/2004 do Parlamento Europeu e do Conselho, de 29 de abril de 2004, relativo à coordenação dos sistemas de segurança social (JO L 166 de 30.4.2004, p. 1).\n\n> () Diretiva 2005/36/CE do Parlamento Europeu e do Conselho, de 7 de setembro de 2005, relativa ao reconhecimento das qualificações profissionais ([JO L 255 de 30.9.2005, p. 22](https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=OJ%3AL%3A2005%3A255%3ATOC)).\n\n> ([^*1^](http://publications.europa.eu/resource/cellar/0daba0cc-0157-11f1-825d-01aa75ed71a1.0020.02/DOC_1#src.E0003)) Regulamento (UE) 2024/1347 do Parlamento Europeu e do Conselho, de 14 de maio de 2024, que estabelece normas relativas às condições a preencher pelos nacionais de países terceiros ou por apátridas para poderem beneficiar de proteção internacional, a um estatuto uniforme para refugiados ou para pessoas elegíveis para proteção subsidiária e para o conteúdo da proteção concedida, que altera a Diretiva 2003/109/CE do Conselho e que revoga a Diretiva 2011/95/UE do Parlamento Europeu e do Conselho (JO L, 2024/1347, 22.5.2024, ELI: http://data.europa.eu/eli/reg/2024/1347/oj).»;\n\n> () Diretiva 2004/83/CE do Conselho, de 29 de abril de 2004, que estabelece normas mínimas relativas às condições a preencher por nacionais de países terceiros ou apátridas para poderem beneficiar do estatuto de refugiado ou de pessoa que, por outros motivos, necessite de proteção internacional, bem como relativas ao respetivo estatuto, e relativas ao conteúdo da proteção concedida (JO L 304 de 30.9.2004, p. 12)."
+  }
+ }
+}

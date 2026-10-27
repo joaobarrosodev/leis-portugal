@@ -1,0 +1,192 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31998R0494:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998R0494-20220515",
+ "dre_path": null,
+ "source_lastmod": "2022-05-15",
+ "versions": [
+  {
+   "date": "1998-02-28",
+   "future": false,
+   "celex": "31998R0494",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fd8d69713b4887a4",
+    "5daddf9a3f7fd9b2",
+    "9e8bff5dba86222f",
+    "b2d8c429649590eb",
+    "9fe98c277fc642c7",
+    "570da6329b814a5d"
+   ]
+  },
+  {
+   "date": "2010-12-09",
+   "future": false,
+   "celex": "01998R0494-20101209",
+   "acts": [
+    {
+     "id": "eu:celex:32010R1053:por",
+     "title": "REGULAMENTO (UE) N. o 1053/2010 DA COMISSÃO de 18 de Novembro de 2010",
+     "published": null,
+     "celex": "32010R1053"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º"
+   ],
+   "fragments": [
+    "39b8b2400d0f216b",
+    "f6a40e1ebddc7a2c",
+    "b79aae35f7f8e746",
+    "d65afb2e9903959d",
+    "5b28b8b191a6476f",
+    "749261c5553f989a",
+    "4c955e2b320f9a8c"
+   ]
+  },
+  {
+   "date": "2022-05-15",
+   "future": false,
+   "celex": "01998R0494-20220515",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "6b86fccc342afe5a"
+   ]
+  }
+ ],
+ "fragments": {
+  "fd8d69713b4887a4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 494/98 da Comissão de 27 de Fevereiro de 1998 que estabelece normas de execução do Regulamento (CE) nº 820/97 do Conselho no que respeita à aplicação de sanções administrativas mínimas no âmbito do regime de identificação e registo dos bovinos** *Jornal Oficial nº L 060 de 28/02/1998 p. 0078 - 0079*\n\nREGULAMENTO (CE) Nº 494/98 DA COMISSÃO de 27 de Fevereiro de 1998 que estabelece normas de execução do Regulamento (CE) nº 820/97 do Conselho no que respeita à aplicação de sanções administrativas mínimas no âmbito do regime de identificação e registo dos bovinos\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) nº 820/97 do Conselho, de 21 de Abril de 1997, que estabelece um regime de identificação e registo de bovinos e relativo à rotulagem da carne de bovino e dos produtos à base de carne de bovino (1), e, nomeadamente, a alínea e) do seu artigo 10º,\n\nConsiderando que, de acordo com o artigo 21º do Regulamento (CE) nº 820/97, as sanções aplicadas pelos Estados-membros devem ser proporcionais à gravidade das infracções; que, quando se justifique, as sanções podem implicar uma limitação dos movimentos de animais para ou a partir da exploração do detentor em causa;\n\nConsiderando que as sanções previstas no presente regulamento devem ser aplicadas nos casos em que o incumprimento das condições de identificação e registo dos bovinos conduza à presunção, nomeadamente, de uma infracção à legislação veterinária comunitária susceptível de fazer perigar a saúde humana ou a sanidade animal; que as sanções também são necessárias para assegurar o correcto financiamento e funcionamento do regime;\n\nConsiderando que, tendo em conta o segundo parágrafo do artigo 21º do Regulamento (CE) nº 820/97, o presente regulamento deve prever sanções administrativas mínimas, permitindo simultaneamente aos Estados-membros estabelecer a nível nacional outras sanções administrativas, ou mesmo penais, dependendo da gravidade da infracção;\n\nConsiderando que é necessário estabelecer as sanções a aplicar em determinadas situações de incumprimento das disposições do Regulamento (CE) nº 820/97; que as situações em causa incluem a inobservância da totalidade ou de alguns dos requisitos relativos a identificações e registos, pagamento de custos e notificações; que, se, numa dada exploração, o número de animais relativamente aos quais os requisitos de identificação e registo previstos no Regulamento (CE) 820/97 não sejam plenamente satisfeitos exceder 20 %, as medidas a aplicar devem afectar todos os animais presentes na exploração;\n\nConsiderando que, se não for possível comprovar a identificação de um animal no prazo de dois dias úteis, deve proceder-se imediatamente à sua destruição sob a supervisão das autoridades veterinárias, sem que haja lugar à atribuição de qualquer compensação por parte da autoridade competente;\n\nConsiderando que, atendendo aos prazos previstos para a aplicação do Regulamento (CE) nº 820/97, o presente regulamento deve entrar em vigor com carácter de urgência;\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Fundo Europeu de Orientação e de Garantia Agrícola,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "5daddf9a3f7fd9b2": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. Se, numa exploração, um ou vários animais não satisfizerem nenhuma das disposições do artigo 3º do Regulamento (CE) nº 820/97, será imposta uma limitação aos movimentos de todos os animais para ou a partir da exploração em causa.\n\n2. Se o detentor de um animal não puder provar a identificação do animal no prazo de dois dias úteis, este deve ser imediatamente destruído sob a supervisão das autoridades veterinárias, sem que haja lugar à atribuição de qualquer compensação por parte da autoridade competente."
+  },
+  "9e8bff5dba86222f": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Os animais relativamente aos quais os requisitos de identificação e registo do artigo 3º do Regulamento (CE) nº 820/97 não sejam plenamente satisfeitos terão as suas movimentações limitadas de imediato, até satisfação completa desses mesmos requisitos.\n\n2. Se, numa dada exploração, o número de animais relativamente aos quais não sejam totalmente satisfeitos os requisitos de identificação e registo do Regulamento (CE) nº 820/97 exceder 20 %, serão imediatamente impostas limitações às movimentações de todos os animais presentes na exploração.\n\nTodavia, no caso das explorações com um número de animais igual ou inferior a 10, esta medida só será aplicada se não estiverem completamente identificados de acordo com as disposições do Regulamento (CE) nº 820/97 mais de dois animais."
+  },
+  "b2d8c429649590eb": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nSe um detentor não pagar os custos referidos no artigo 9º do Regulamento (CE) nº 820/97, os Estados-membros podem suspender ou recusar a emissão de passaportes para esse detentor. Em caso de não pagamento persistente de tais custos por parte de um detentor, os Estados-membros podem igualmente impor limitações aos movimentos de animais para ou a partir de exploração do detentor em causa, em conformidade com o artigo 21º do mesmo regulamento."
+  },
+  "9fe98c277fc642c7": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Se um detentor não notificar à autoridade competente os movimentos para ou a partir da sua exploração em conformidade com o nº 1, segundo travessão, do artigo 7º do Regulamento (CE) nº 820/97, a autoridade competente imporá limitações aos movimentos de animais para ou a partir dessa exploração.\n\n2. Se um detentor não notificar à autoridade competente o nascimento ou morte de um animal em conformidade com o nº 1, segundo travessão, do artigo 7º do Regulamento (CE) nº 820/97, a autoridade competente imporá limitações aos movimentos de animais para ou a partir dessa exploração."
+  },
+  "570da6329b814a5d": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nO presente regulamento entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 1 de Março de 1998.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 27 de Fevereiro de 1998.\n\nPela Comissão\n\nFranz FISCHLER\n\nMembro da Comissão\n\n(1) JO L 117 de 7. 5. 1997, p. 1."
+  },
+  "39b8b2400d0f216b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Fevereiro de 1998\n\nque estabelece normas de execução do Regulamento (CE) n.º 820/97 do Conselho no que respeita à aplicação de sanções administrativas mínimas no âmbito do regime de identificação e registo dos bovinos\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 820/97 do Conselho, de 21 de Abril de 1997, que estabelece um regime de identificação e registo de bovinos e relativo à rotulagem da carne de bovino e dos produtos à base de carne de bovino ([^1^](http://publications.europa.eu/resource/cellar/9f34dfd9-8cee-4933-bb87-993f5fffbcec.0018.03/DOC_1#E0001)), e, nomeadamente, a alínea e) do seu artigo 10.º,\n\nConsiderando que, de acordo com o artigo 21.º do Regulamento (CE) n.º 820/97, as sanções aplicadas pelos Estados-membros devem ser proporcionais à gravidade das infracções; que, quando se justifique, as sanções podem implicar uma limitação dos movimentos de animais para ou a partir da exploração do detentor em causa;\n\nConsiderando que as sanções previstas no presente regulamento devem ser aplicadas nos casos em que o incumprimento das condições de identificação e registo dos bovinos conduza à presunção, nomeadamente, de uma infracção à legislação veterinária comunitária susceptível de fazer perigar a saúde humana ou a sanidade animal; que as sanções também são necessárias para assegurar o correcto financiamento e funcionamento do regime;\n\nConsiderando que, tendo em conta o segundo parágrafo do artigo 21.º do Regulamento (CE) n.º 820/97, o presente regulamento deve prever sanções administrativas mínimas, permitindo simultaneamente aos Estados-membros estabelecer a nível nacional outras sanções administrativas, ou mesmo penais, dependendo da gravidade da infracção;\n\nConsiderando que é necessário estabelecer as sanções a aplicar em determinadas situações de incumprimento das disposições do Regulamento (CE) n.º 820/97; que as situações em causa incluem a inobservância da totalidade ou de alguns dos requisitos relativos a identificações e registos, pagamento de custos e notificações; que, se, numa dada exploração, o número de animais relativamente aos quais os requisitos de identificação e registo previstos no Regulamento (CE) 820/97 não sejam plenamente satisfeitos exceder 20 %, as medidas a aplicar devem afectar todos os animais presentes na exploração;\n\nConsiderando que, se não for possível comprovar a identificação de um animal no prazo de dois dias úteis, deve proceder-se imediatamente à sua destruição sob a supervisão das autoridades veterinárias, sem que haja lugar à atribuição de qualquer compensação por parte da autoridade competente;\n\nConsiderando que, atendendo aos prazos previstos para a aplicação do Regulamento (CE) n.º 820/97, o presente regulamento deve entrar em vigor com carácter de urgência;\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Fundo Europeu de Orientação e de Garantia Agrícola,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "f6a40e1ebddc7a2c": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Se, numa exploração, um ou vários animais não satisfizerem nenhuma das disposições do artigo 3.º do Regulamento (CE) n.º 820/97, será imposta uma limitação aos movimentos de todos os animais para ou a partir da exploração em causa.\n\n2. Se o encarregado de um animal não puder provar a sua identificação e rastreabilidade, a autoridade competente deve, quando necessário, com base numa avaliação dos riscos de sanidade animal e segurança dos alimentos, exigir a destruição do animal sem compensação."
+  },
+  "b79aae35f7f8e746": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os animais relativamente aos quais os requisitos de identificação e registo do artigo 3.º do Regulamento (CE) n.º 820/97 não sejam plenamente satisfeitos terão as suas movimentações limitadas de imediato, até satisfação completa desses mesmos requisitos.\n\n2. Se, numa dada exploração, o número de animais relativamente aos quais não sejam totalmente satisfeitos os requisitos de identificação e registo do Regulamento (CE) n.º 820/97 exceder 20 %, serão imediatamente impostas limitações às movimentações de todos os animais presentes na exploração.\n\nTodavia, no caso das explorações com um número de animais igual ou inferior a 10, esta medida só será aplicada se não estiverem completamente identificados de acordo com as disposições do Regulamento (CE) n.º 820/ /97 mais de dois animais."
+  },
+  "d65afb2e9903959d": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nSe um detentor não pagar os custos referidos no artigo 9.º do Regulamento (CE) n.º 820/97, os Estados-membros podem suspender ou recusar a emissão de passaportes para esse detentor. Em caso de não pagamento persistente de tais custos por parte de um detentor, os Estados-membros podem igualmente impor limitações aos movimentos de animais para ou a partir de exploração do detentor em causa, em conformidade com o artigo 21.º do mesmo regulamento."
+  },
+  "5b28b8b191a6476f": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Se um detentor não notificar à autoridade competente os movimentos para ou a partir da sua exploração em conformidade com o n.º 1, segundo travessão, do artigo 7.º do Regulamento (CE) n.º 820/97, a autoridade competente imporá limitações aos movimentos de animais para ou a partir dessa exploração.\n\n2. Se um detentor não notificar à autoridade competente o nascimento ou morte de um animal em conformidade com o n.º 1, segundo travessão, do artigo 7.º do Regulamento (CE) n.º 820/97, a autoridade competente imporá limitações aos movimentos de animais para ou a partir dessa exploração."
+  },
+  "749261c5553f989a": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO presente regulamento entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nÉ aplicável a partir de 1 de Março de 1998.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\n---"
+  },
+  "4c955e2b320f9a8c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/9f34dfd9-8cee-4933-bb87-993f5fffbcec.0018.03/DOC_1#src.E0001)) JO L 117 de 7.5.1997, p. 1."
+  },
+  "6b86fccc342afe5a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01998R0494 — PT — 15.05.2022 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31998R0494) [REGULAMENTO (CE) N.º 494/98 DA COMISSÃO](http://publications.europa.eu/resource/celex/31998R0494) [de 27 de Fevereiro de 1998](http://publications.europa.eu/resource/celex/31998R0494) [que estabelece normas de execução do Regulamento (CE) n.º 820/97 do Conselho no que respeita à aplicação de sanções administrativas mínimas no âmbito do regime de identificação e registo dos bovinos](http://publications.europa.eu/resource/celex/31998R0494) (JO L 060, 28.2.1998, p.78)\n\n**Revogado por:**\n\n- [Regulamento Delegado (UE) 2022/671 da Comissão de 4 de fevereiro de 2022](http://publications.europa.eu/resource/celex/32022R0671) — L 122 — 17 — 25.4.2022"
+  }
+ }
+}

@@ -1,0 +1,295 @@
+---
+schema_version: '1.0'
+id: pt:dre:1650197:por
+title: Resolução n.º 77/2002 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Conselho de Ministros
+proposing_entity: null
+official_number: 77/2002 (2.ª série)
+official_date: null
+publication_date: '2002-11-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 269/2002, Série II de 2002-11-21
+  number: '269'
+  series: II
+  supplement: null
+  pages: 19108 - 19109
+  pdf_url: https://files.diariodarepublica.pt/2s/2002/11/269000000/1910819109.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1650197'
+  dre_path: /dr/detalhe/resolucao/77-2002-1650197
+  internal: pt:dre:1650197:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/77-2002-1650197
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/77-2002-1650197
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:11:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d2255f8198845c44bd1a8be9198d104660c3efef3b4178dea4958da230d2ec01
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:11:35Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Coordenador
+- Gestor
+- Nomeação
+- QCA III
+- UMIC
+relationships:
+- type: amended_by
+  target: pt:dre:2424601:por
+  label: "Exonerada Maria Alexandra dos Santos Vilela pelo DESP.22960/2003(2ªSérie).06.11.2003.MA-PCM, DR.IIS [274] de 26.11.2003\0\
+    3\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/22960-2003-2424601
+  date: '2003-11-06'
+- type: amended_by
+  target: pt:dre:1504599:por
+  label: "Exonerado o nomeado pelo DESP.22693/2004(2ªSérie).14.10.2004.MEP-PCM, DR.IIS [261] de 06.11.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/22693-2004-1504599
+  date: '2004-10-14'
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451783:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:11:35Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 77/2002 (2.ª série)
+
+Resolução n.º 77/2002 (2.ª série). - A [Resolução do Conselho de Ministros n.º 135/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/135-2002-451783), de 20 de Novembro, definiu o novo enquadramento institucional da actividade do Governo em matéria de inovação, da sociedade da informação e do governo electrónico.
+
+Neste âmbito, criou, na dependência directa do Ministro Adjunto do Primeiro-Ministro, a Unidade de Missão Inovação e Conhecimento, estrutura de apoio ao desenvolvimento da política governamental em tais matérias.
+
+Através da referida resolução, é determinado que a gestão da Unidade de Missão Inovação e Conhecimento incumbe a um gestor, coadjuvado, no exercício das suas funções, por dois coordenadores, todos com o estatuto de encarregados de missão.
+
+Nesta perspectiva, importa proceder à nomeação do gestor e dos coordenadores, fixando a correspondente remuneração.
+
+Assim:
+
+Nos termos da alínea d) do artigo 199.º da Constituição, e ao abrigo do artigo 37.º da [Lei n.º 49/99](https://diariodarepublica.pt/dr/detalhe/lei/49-1999-391578), de 22 de Junho, o Conselho de Ministros resolve:
+
+1 - Nomear, sob proposta do Ministro Adjunto do Primeiro-Ministro, o licenciado Diogo Alves de Sousa de Vasconcelos para o cargo de gestor da Unidade de Missão Inovação e Conhecimento, com o estatuto de encarregado de missão, com a remuneração correspondente a presidente do conselho de administração de empresa pública, grupo B, nível 1.
+
+2 - Nomear, sob proposta do Ministro Adjunto do Primeiro-Ministro, os licenciados Carlos Miguel Vallere Pinheiro de Oliveira e Maria Alexandra dos Santos Vilela para os cargos de coordenadores da Unidade de Missão Inovação e Conhecimento, com o estatuto de encarregados de missão, para concederem o necessário apoio ao gestor mencionado no número anterior no exercício das suas funções, sendo equiparados, para efeitos remuneratórios, incluindo o abono de despesas de representação, a director-geral.
+
+3 - Fazer corresponder o prazo para a execução da missão do gestor e dos coordenadores agora nomeados ao da vigência do III Quadro Comunitário de Apoio, incluindo o período necessário à apresentação do relatório final, salvo determinação em contrário do Ministro Adjunto do Primeiro-Ministro, nos termos do n.º 5 da [Resolução do Conselho de Ministros n.º 135/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/135-2002-451783).
+
+4 - Determinar a produção de efeitos do presente diploma a partir da data da sua aprovação.
+
+26 de Outubro de 2002. - O Primeiro-Ministro, José Manuel Durão Barroso.
+
+Curriculum vitae
+
+I - Dados pessoais:
+
+Nome: Diogo Alves de Sousa de Vasconcelos;
+
+Data de nascimento: 16 de Maio de 1968.
+
+II - Habilitações académicas:
+
+Frequência do mestrado em Ciência Política no Instituto de Estudos Políticos da Universidade Católica Portuguesa, Lisboa;
+
+MBA, Masters in Business Administration, para licenciados em Direito pela Universidade Católica Portuguesa, Porto;
+
+Pós-graduação em Direito da Comunicação pela Faculdade de Direito da Universidade de Coimbra;
+
+Licenciatura em Direito pela Universidade Católica Portuguesa, Porto.
+
+III - Actividade profissional (desvinculou-se integralmente da sua actividade profissional):
+
+Deputado eleito à AR pelo círculo eleitoral do Porto - solicitou suspensão do mandato;
+
+Administrador do Instituto Sá Carneiro;
+
+Membro do conselho consultivo da Agência para o Investimento no Norte de Portugal;
+
+Membro do conselho consultivo da INTELI - Inteligência em Inovação;
+
+Administrador da Change Partners, sociedade de capital de risco, da qual foi fundador;
+
+Presidente da First Media - Comunicação, AS;
+
+Membro do conselho consultivo do Clube da Universidade Católica;
+
+Membro do conselho consultivo do Instituto Pedro Nunes (Incubadora de Empresas da Universidade de Coimbra);
+
+Membro do conselho geral da NET - Oporto Business Innovation Centre (Incubadora de Empresas da Universidade do Porto);
+
+Presidente do conselho consultivo do APOR - Oporto Development Agency;
+
+Presidente da Caderno Verde (serviços de ambiente);
+
+Vice-presidente da ANJE e presidente da assembleia geral (suspendeu o mandato);
+
+Administrador (última função) do Grupo Fórum, Lisboa & Porto;
+
+Director da revista Fórum Estudante;
+
+Advocacia.
+
+IV - Actividades complementares:
+
+Coordenador, em representação do Governo Português, do grupo de trabalho sobre governo electrónico no âmbito da Comunidade Ibero-Americana das Nações;
+
+Membro do conselho consultivo do projecto Engenharia & Tecnologia 2000;
+
+Membro do Comité de Representantes da revista Colóquio - Educação e Sociedade da Fundação Calouste Gulbenkian;
+
+Autor de várias apresentações em conferências sobre governo electrónico, sociedade da informação e democracia electrónica, destacando-se a participação como orador convidado na VII Conferência de Ministros da Presidência da Comunidade Ibero-Americana, realizada em Lisboa;
+
+Autor de várias apresentações em workshops, seminários e conferências internacionais sobre empreendorismo, capital de risco e inovação, com destaque para E-Capital (SOFTEC, Recife, 2000), European Investment Forum (Europe Unlimited, Berlim, 2000), Angels Investors Conference (Barcelona, 2000) FENASOFT (SEBRAE, São Paulo, 2001), Former pour Entreprendre (European Comission, Nice, 2000), Late Stage & IPO Forum (Europe Unlimited, Londres, 2001);
+
+Fundador e membro do júri do Empreendedor do Ano;
+
+Fundador da Academia dos Empreendedores;
+
+Co-autor do "Relatório sobre avaliação das instituições de ensino superior" (Conselho Nacional de Educação);
+
+Fundador e presidente da FAP - Federação Académica do Porto.
+
+Curriculum vitae
+
+I - Dados pessoais:
+
+Nome: Carlos Miguel Vallere Pinheiro de Oliveira;
+
+Data de nascimento: 18 de Abril de 1961.
+
+II - Habilitações académicas:
+
+MBA, Masters in Business Administration, pela Universidade Nova de Lisboa;
+
+Mestrado em Ciências - Planeamento Urbano e Regional, pela Universidade de Witwatersrand, Joanesburgo;
+
+Licenciatura em Ciências (TRP), Universidade de Witwatersrand, Joanesburgo, com dupla distinção e sete prémios académicos com equivalência à licenciatura em Planeamento Urbano e Regional, reconhecida pela Universidade de Aveiro.
+
+III - Experiência profissional:
+
+Presidente do conselho de administração da Leadership Business Consulting-Partner;
+
+Vice-presidente da DHV, SGPS;
+
+Director-geral da DHV Management-Consultants (DHV Group);
+
+Director de projectos na Unidade de Projectos Especiais da FBO Consultores (DHV Group);
+
+Deputado à Assembleia da República pelo círculo eleitoral fora da Europa e membro das comissões parlamentares de economia, finanças e plano e negócios estrangeiros, cooperação e comunidades portuguesas.
+
+Consultor sénior (última função) na Andersen Consulting;
+
+Responsável (nível de Associate Partner) pelo Departamento de Planeamento Urbano da empresa MLH & Partners (Joanesburgo);
+
+Director de projectos (última função) no Development Bank of Southern Africa (Joanesburgo).
+
+IV - Actividades complementares:
+
+Coordenação e participação em vários estudos e projectos de consultoria nas áreas da estratégia, organização, tecnologias da informação e telecomunicações para empresas, e estudos sobre a sociedade da informação para a Comissão Europeia, e sobre as telecomunicações, Internet e sociedade da informação para o ICP-ANACOM;
+
+Orador em várias conferências sobre temas diversos: telecomunicações, sociedade da informação, gestão da qualidade, geo-estratégia, transporte & logística, marketing;
+
+Participação em vários cursos em tópicos diversos: comércio electrónico, outsourcing, gestão estratégica, gestão financeira, liderança de empresas de serviços profissionais, mudança organizacional, logística, formação profissional de formadores (Lisboa, Madrid, Barcelona, Harvard, Nienrode, Stellenbosh, Londres);
+
+Autor do livro Um Mundo em Metamorfose, promovido pela Bertrand;
+
+Autor de vários artigos do foro académico, técnico e político;
+
+Membro de várias instituições profissionais, nomeadamente fundador e primeiro presidente da Associação de Jovens Empresários e Profissionais Portugueses da África Austral, presidente da Associação de Estudantes de Planeamento Urbano e Regional, co-fundador da revista académica Mould, membro da direcção da Associação de Estudantes Portugueses (relações públicas) na Universidade de Witwatersrand.
+
+Curriculum vitae
+
+I - Dados pessoais:
+
+Nome: Maria Alexandra dos Santos Vilela;
+
+Data de nascimento: 9 de Maio de 1967.
+
+II - Habilitações académicas:
+
+Licenciatura em Sociologia pela Universidade Nova de Lisboa, classificação final de 14 valores, ano lectivo de 1988-1989.
+
+III - Formação específica:
+
+Curso de Prática e Planeamento de Sistemas de Informação, INA;
+
+Curso de Integração Europeia e Tratado Maastricht, INA.
+
+Curso de Concepção e Gestão de Projectos, INA.
+
+Curso de Planeamento e Controle de Gestão, INA.
+
+Curso de Reabilitação e Requalificação Urbana, orientação científico-pedagógica.
+
+CIDEC/ISCTE, estágio na Câmara Municipal de Almada.
+
+IV - Actividade profissional:
+
+Gestora dos eixos prioritários "Qualificar para modernizar a Administração Pública" (Programa Emprego, Formação e Desenvolvimento Social) e "Estado aberto - Modernizar a Administração Pública" (Programa Sociedade da Informação) - EAGIRE - AP - QCA III.
+
+Perita nacional destacada junto da Comissão Europeia - DG Emprego e Assuntos Sociais (FSE/Portugal);
+
+Chefe de divisão de Avaliação (Direcção-Geral do Desenvolvimento Regional);
+
+Acompanhamento dos programas do QCA I e II na Direcção-Geral do Desenvolvimento Regional.
+
+Técnica superior de 2.ª classe (estagiária), Departamento de Acompanhamento e Avaliação, Ministério do Planeamento.
+
+Técnica superior de 2.ª classe, Direcção-Geral da Pecuária, Ministério da Agricultura;
+
+Apoio à gestão do Programa de Erradicação da Peste Suína Africana.
+
+V - Actividades complementares:
+
+Monitora das acções de formação profissional de Recursos Humanos e Relações Públicas (A. Silva & Silva) e Organização, Gestão e Circuitos de Comunicação (Timesharing);
+
+Participação no trabalho de investigação "Atitudes e condutas dos dirigentes da indústria transformadora perante a inovação tecnológica e organizacional", Departamento de Sociologia da Universidade Nova de Lisboa.

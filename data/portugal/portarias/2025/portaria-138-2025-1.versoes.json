@@ -1,0 +1,138 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:912820667:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2025-927415985",
+ "dre_path": "/dr/detalhe/portaria/138-2025-912820667",
+ "source_lastmod": "2026-01-08",
+ "versions": [
+  {
+   "date": "2026-01-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:998824794:por",
+     "title": "Portaria n.º 12-B/2026/1",
+     "published": "2026-01-06",
+     "dre_path": "/dr/detalhe/portaria/12-b-2026-998824794"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 5.º-A",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "927503375",
+    "927503575",
+    "927503775",
+    "1000870395",
+    "1000870396",
+    "1000870397",
+    "1001144438",
+    "1001144439",
+    "1001144440",
+    "1001144441",
+    "1001144442"
+   ]
+  }
+ ],
+ "fragments": {
+  "927503375": {
+   "fragment_id": "927503275",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Preâmbulo\n\nO Decreto-Lei n.º 37-A/2025, de 24 de março, define um novo modelo para a atribuição de um subsídio social de mobilidade aos cidadãos beneficiários, no âmbito dos serviços de transporte entre o continente e as Regiões Autónomas dos Açores e da Madeira e entre estas Regiões, prosseguindo objetivos de coesão social e territorial.\n\nPara a implementação do novo modelo é fundamental consolidar e uniformizar os modelos até aqui vigentes nas duas Regiões Autónomas, acompanhada por uma revisão dos valores de referência, assegurando a convergência das metodologias utilizadas no seu estabelecimento.\n\nNesse sentido, o referido modelo permite aos residentes, residentes equiparados e estudantes deslocados pagar um valor fixo (max fare) e introduzindo limites máximos de custo elegível, adequados a cada Região Autónoma, permitindo a conformação dos auxílios aos beneficiários, sem disrupções significativas e assegurando a coesão territorial.\n\nPor outro lado, é também necessário assegurar que este auxílio social não seja indevidamente utilizado/aproveitado, pelo que se estabelecem mecanismos de regulação para a taxa de emissão de bilhete e de controlo dos valores das tarifas, mediante a exigência de apresentação do comprovativo do montante cobrado pela transportadora aérea, quando a viagem tenha sido adquirida através de intermediários, tais como agências de viagens.\n\nPara a implementação do novo modelo, o Decreto-Lei n.º 37-A/2025, de 24 de março, determina que estes parâmetros devem ser concretizados através de portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e dos transportes aéreo e marítimo, após audição prévia dos órgãos do governo próprio das Regiões Autónomas dos Açores e da Madeira.\n\nCom efeito, estabelece o Decreto-Lei n.º 37-A/2025, de 24 de março, que o (i) apuramento do valor do subsídio social de mobilidade, (ii) a determinação do custo elegível e do seu valor máximo, incluindo da respetiva taxa de emissão de bilhete, (iii) as condições de atribuição do subsídio social de mobilidade, e (iv) os documentos necessários para verificar a elegibilidade dos beneficiários, devem ser definidos através da referida portaria.\n\nAssim:\n\nAo abrigo do disposto nos n.<sup>os</sup> 3, 4 e 5 do artigo 4.º, e do n.º 3 do artigo 23.º do Decreto-Lei n.º 37-A/2025, de 24 de março, manda o Governo, pelo Ministro de Estado e das Finanças e pelo Ministro das Infraestruturas e Habitação, o seguinte:"
+  },
+  "927503575": {
+   "fragment_id": "927503475",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria define o modo de proceder ao apuramento do valor do subsídio social de mobilidade previsto no Decreto-Lei n.º 37-A/2025, de 24 de março.\n\n2 - A presente portaria define, também, a documentação que deve ser entregue pelos beneficiários do subsídio social de mobilidade, para comprovar a respetiva elegibilidade."
+  },
+  "927503775": {
+   "fragment_id": "927503675",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nOs termos e expressões definidos no artigo 2.º do Decreto-Lei n.º 37-A/2025, de 24 de março, quando utilizados na presente portaria, têm o sentido ali estabelecido."
+  },
+  "1000870395": {
+   "fragment_id": "927503875",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições de atribuição",
+   "in_force_from": "2026-01-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12-B/2026/1 - Diário da República n.º 3/2026, Suplemento, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/portaria/12-b-2026-998824794), em vigor a partir de 2026-01-07"
+   ],
+   "markdown": "###### Artigo 3.º — Condições de atribuição\n\n1 - O subsídio social de mobilidade corresponde ao pagamento de um valor variável, até aos valores máximos a que se refere o artigo 4.º\n\n2 - Quando o custo elegível seja de montante igual ou inferior ao valor de referência a suportar pelo beneficiário, estabelecido no n.º 1 do artigo 4.º, não é atribuído subsídio social de mobilidade.\n\n3 - A atribuição do subsídio social de mobilidade tem como pressuposto a elegibilidade dos beneficiários e o cumprimento das condições de atribuição estabelecidas no Decreto-Lei n.º 37-A/2025, de 24 de março.\n\n4 - O pagamento do subsídio social de mobilidade depende, também, da regularidade da situação contributiva e tributária do beneficiário, perante a segurança social e a Autoridade Tributária e Aduaneira.\n\n5 - No caso da existência de dívidas às entidades indicadas no número anterior, não pode ser pago qualquer valor a título de subsídio social de mobilidade enquanto a situação não se encontrar regularizada.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12-B/2026/1 - Diário da República n.º 3/2026, Suplemento, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/portaria/12-b-2026-998824794), em vigor a partir de 2026-01-07"
+  },
+  "1000870396": {
+   "fragment_id": "927504075",
+   "type": 11,
+   "heading": "Artigo 4.º — Cálculo do valor do subsídio social de mobilidade",
+   "in_force_from": "2026-01-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12-B/2026/1 - Diário da República n.º 3/2026, Suplemento, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/portaria/12-b-2026-998824794), em vigor a partir de 2026-01-07"
+   ],
+   "markdown": "###### Artigo 4.º — Cálculo do valor do subsídio social de mobilidade\n\n1 - O valor do subsídio social de mobilidade a atribuir pelo Estado aos passageiros residentes, passageiros residentes equiparados e passageiros estudantes, é apurado de acordo com as seguintes fórmulas:\n\na) Tratando-se de residentes e residentes equiparados, em viagens entre a Região Autónoma dos Açores e o continente:\n\nVi = X − 119 euros, com X (menor ou igual que) 600 euros\n\nb) Tratando-se de estudantes, em viagens entre a Região Autónoma dos Açores e o continente:\n\nVi = X − 89 euros, com X (menor ou igual que) 600 euros\n\nc) Tratando-se de residentes e residentes equiparados, em viagens entre a Região Autónoma da Madeira e o continente:\n\nVi = X − 79 euros, com X (menor ou igual que) 400 euros, ou 500 euros, quando a origem ou o destino seja Porto Santo;\n\nd) Tratando-se de estudantes, em viagens entre a Região Autónoma da Madeira e o continente:\n\nVi = X − 59 euros, com X (menor ou igual que) 400 euros, ou 500 euros, quando a origem ou o destino seja Porto Santo;\n\ne) Tratando-se de residentes e residentes equiparados, em viagens entre a Região Autónoma da Madeira e a Região Autónoma dos Açores, ou vice-versa:\n\nVi = X − 79 euros, com X (menor ou igual que) 600 euros\n\nf) Tratando-se de estudantes, em viagens entre a Região Autónoma da Madeira e a Região Autónoma dos Açores, ou vice-versa:\n\nVi = X − 59 euros, com X (menor ou igual que) 600 euros\n\nem que:\n\nVi = Subsídio Social de Mobilidade;\n\nX = Custo elegível;\n\n2 - O valor máximo da taxa de emissão de bilhete, para efeitos de elegibilidade, é de 35 euros, para os bilhetes de ida (OW) e de 70 euros, para os bilhetes de ida e volta (RT).\n\n3 - No caso de bilhetes comprados através de agências de viagem, entidades equiparadas ou seus representantes e agentes autorizados, o custo elegível ‘X’ será o cobrado pela transportadora acrescido da taxa de emissão de bilhete até ao valor referido no número anterior, desde que o total não exceda o valor máximo indicado no n.º 1.\n\n4 - Caso o beneficiário tenha adquirido apenas uma viagem de ida (OW), o valor a suportar pelo beneficiário e o valor máximo elegível previstos no n.º 1 são reduzidos em 50 %.\n\n5 - Sem prejuízo do disposto no número anterior, o beneficiário pode combinar uma viagem de ida (OW) com uma viagem de regresso (OW) entre as mesmas regiões, desde que entre a ida (OW) e o regresso (OW) não decorra um período superior a 12 meses, aplicando-se nesta circunstância os valores indicados no n.º 1, e desde que o somatório de ambos os bilhetes de ida e de regresso (OW) seja superior ao valor de referência a suportar pelo beneficiário, ainda que um deles possa ter valor inferior.\n\n> Nota: [Artigo 4.º, Portaria n.º 12-B/2026/1 - Diário da República n.º 3/2026, Suplemento, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/portaria/12-b-2026-998824794) O disposto no n.º 4 do presente artigo aplica-se às viagens que sejam adquiridas a partir do dia 15 de janeiro de 2026.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12-B/2026/1 - Diário da República n.º 3/2026, Suplemento, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/portaria/12-b-2026-998824794), em vigor a partir de 2026-01-07"
+  },
+  "1000870397": {
+   "fragment_id": "927504275",
+   "type": 11,
+   "heading": "Artigo 5.º — Documentos comprovativos da elegibilidade",
+   "in_force_from": "2026-01-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12-B/2026/1 - Diário da República n.º 3/2026, Suplemento, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/portaria/12-b-2026-998824794), em vigor a partir de 2026-01-07"
+   ],
+   "markdown": "###### Artigo 5.º — Documentos comprovativos da elegibilidade\n\n1 - O beneficiário deve submeter na plataforma, a cópia dos seguintes documentos:\n\na) Fatura comprovativa da compra do bilhete em favor do cidadão beneficiário, ou documento equivalente, devendo conter informação desagregada sobre as diversas componentes do custo elegível, expressas em euros;\n\nb) Documento comprovativo da identidade do beneficiário, designadamente cartão de cidadão, bilhete de identidade ou passaporte;\n\nc) Cartão de contribuinte, ou qualquer outro documento, emitido pelas autoridades portuguesas, que permita comprovar a residência fiscal numa das Regiões Autónomas, tratando-se de passageiro residente ou passageiro residente equiparado, quando aplicável;\n\nd) Certificado de registo ou certificado de residência permanente, no caso de se tratar de cidadão da União Europeia, nos termos dos artigos 14.º e 16.º da Lei n.º 37/2006, de 9 de agosto;\n\ne) Cartão de residência ou cartão de residência permanente, no caso de se tratar de familiar de cidadão da União Europeia, nacional de Estado terceiro, nos termos dos artigos 15.º e 17.º da Lei n.º 37/2006, de 9 de agosto;\n\nf) Autorização de residência válida, no caso de se tratar de cidadão estrangeiro nacional de Estado que não seja membro da União Europeia, ou de cidadão apátrida, nos termos da Lei n.º 23/2007, de 4 de julho;\n\ng) Declaração da composição do agregado familiar, emitida pela Autoridade Tributária e Aduaneira, no caso de se tratar de cidadão que, nos termos do artigo 13.º do Código do IRS, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de novembro, na sua redação atual, faça parte do agregado familiar dos cidadãos referidos na subalínea ii) da alínea g) do artigo 2.º do Decreto-Lei n.º 37-A/2025, de 24 de março.\n\nh) Documento comprovativo da realização da viagem emitido pela transportadora aérea ou marítima, a ser apresentado no caso de impossibilidade de obtenção automática dessa informação.\n\n2 - A apresentação do cartão de cidadão dispensa o beneficiário da apresentação do documento referido na alínea c) do número anterior.\n\n3 - A apresentação do cartão de residência ou cartão de residência permanente e da autorização de residência válida dispensa o beneficiário da apresentação do documento referido na alínea b) do n.º 1 do presente artigo.\n\n4 - Os passageiros estudantes, devem, para além da documentação exigida nos números anteriores, entregar a cópia do documento emitido e autenticado pelo estabelecimento de ensino, que comprove estarem devidamente matriculados no ano letivo em curso e a frequentar o curso ministrado pelo referido estabelecimento de ensino.\n\n5 - Para além da documentação exigida nos n.ºs 1 e 2, os passageiros residentes equiparados devem, conforme aplicável:\n\na) Apresentar o original e entregar a cópia da declaração emitida pela entidade pública ou privada onde exercem funções, comprovativa da sua situação profissional; ou\n\nb) Apresentar documento comprovativo da residência habitual do progenitor, nos termos dos números anteriores, acompanhado de documento comprovativo da relação de parentalidade.\n\n6 - Para efeitos da alínea a) do n.º 1 deste artigo, as agências de viagem, entidades equiparadas e/ou seus representantes e agentes, incluindo agências de viagem que apenas prestem os seus serviços através da Internet, devem facultar ao passageiro a fatura comprovativa de compra do bilhete à companhia aérea, ou documento comprovativo do custo do transporte aéreo, desagregada/o sobre as diversas componentes, expressos em euros.\n\n7 - Para efeitos do número anterior, considera-se um documento comprovativo do custo do transporte aéreo, nomeadamente, o título de transporte retirado do Sistema de Distribuição Global.\n\n8 - A submissão de todos, ou parte, dos documentos referidos nos n.os 1 a 7 pode ser dispensada, em concretização do princípio de desmaterialização previsto no artigo 6.º do Decreto-Lei n.º 37-A/2025, de 24 de março, nos termos definidos na portaria a que se refere o artigo 7.º do Decreto-Lei n.º 37-A/2025, de 24 de março.\n\n9 - Até à disponibilização da plataforma a que se refere o artigo 7.º do Decreto-Lei n.º 37-A/2025, de 24 de março, ou sempre que seja estritamente necessário submeter os documentos por outros meios, o beneficiário deve apresentar o original e entregar a cópia dos documentos identificados nos n.os 1 a 7 à entidade prestadora do serviço de pagamento.\n\n10 - Sem prejuízo do disposto nos números anteriores pode ser solicitada a apresentação de documentos adicionais que permitam esclarecer e comprovar a elegibilidade do beneficiário, bem como proceder ao pagamento do subsídio.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12-B/2026/1 - Diário da República n.º 3/2026, Suplemento, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/portaria/12-b-2026-998824794), em vigor a partir de 2026-01-07"
+  },
+  "1001144438": {
+   "fragment_id": "1005800687",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Documentação adicional",
+   "in_force_from": "2026-01-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 12-B/2026/1 - Diário da República n.º 3/2026, Suplemento, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/portaria/12-b-2026-998824794), em vigor a partir de 2026-01-07"
+   ],
+   "markdown": "###### Artigo 5.º-A — Documentação adicional\n\nPara efeitos de processamento do reembolso do subsídio social de mobilidade, o beneficiário deve apresentar o comprovativo de IBAN ou de equivalente, no caso de contas bancárias sediadas fora da zona SEPA.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 12-B/2026/1 - Diário da República n.º 3/2026, Suplemento, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/portaria/12-b-2026-998824794), em vigor a partir de 2026-01-07"
+  },
+  "1001144439": {
+   "fragment_id": "927504475",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor na data de entrada em vigor do Decreto-Lei n.º 37-A/2025, de 24 de março."
+  },
+  "1001144440": {
+   "fragment_id": "927504675",
+   "type": 11,
+   "heading": "Artigo 7.º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Aplicação no tempo\n\n1 - Os valores definidos no artigo 4.º da presente portaria aplicam-se, apenas, aos bilhetes comprados após a sua data de entrada em vigor.\n\n2 - Aos bilhetes que tenham sido adquiridos antes da referida data, aplicam-se os valores indicados no anexo à presente portaria, que da mesma é parte integrante."
+  },
+  "1001144441": {
+   "fragment_id": "927504875",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 25 de março de 2025. - O Ministro das Infraestruturas e Habitação, Miguel Martinez de Castro Pinto Luz, em 24 de março de 2025."
+  },
+  "1001144442": {
+   "fragment_id": "927505075",
+   "type": 14,
+   "heading": "Anexo — Cálculo transitório do valor do subsídio social de mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Cálculo transitório do valor do subsídio social de mobilidade\n\n(a que se refere o n.º 2 do artigo 7.º)\n\n1 - Aos bilhetes que tenham sido adquiridos antes da data de entrada em vigor da presente portaria aplicam-se os seguintes valores:\n\na) Tratando-se de residentes e residentes equiparados, em viagens entre a Região Autónoma dos Açores e o continente:\n\nVi = X − 134 euros, com X (menor ou igual que) 600 euros\n\nb) Tratando-se de estudantes, em viagens entre a Região Autónoma dos Açores e o continente:\n\nVi = X − 99 euros, com X (menor ou igual que) 600 euros\n\nc) Tratando-se de residentes e residentes equiparados, em viagens entre a Região Autónoma da Madeira e o continente:\n\nVi = X − 86 euros, com X (menor ou igual que) 400 euros\n\nd) Tratando-se de estudantes, em viagens entre a Região Autónoma da Madeira e o continente:\n\nVi = X − 65 euros, com X (menor ou igual que) 400 euros\n\ne) Tratando-se de residentes e residentes equiparados, em viagens entre a Região Autónoma da Madeira e a Região Autónoma dos Açores, ou vice-versa:\n\nVi = X − 119 euros, com X (menor ou igual que) 600 euros\n\nf) Tratando-se de estudantes, em viagens entre a Região Autónoma da Madeira e a Região Autónoma dos Açores, ou vice-versa:\n\nVi = X − 89 euros, com X (menor ou igual que) 600 euros\n\nem que:\n\nVi = Subsídio Social de Mobilidade;\n\nX = Custo elegível;\n\n2 - Para efeitos de atribuição do subsídio social de mobilidade na Região Autónoma dos Açores, o valor máximo da taxa de emissão de bilhete, para efeitos de elegibilidade, é de 35 euros, para os bilhetes de ida (OW) e de 70 euros, para os bilhetes de ida e volta (RT).\n\n3 - No caso de bilhetes comprados através de agências de viagem, entidades equiparadas ou seus representantes e agentes, o custo elegível máximo corresponde ao menor montante entre o valor referido no n.º 1 e o valor agregado de custo elegível faturado pela companhia aérea, acrescido da taxa de emissão de bilhete, até ao valor máximo no número anterior.\n\n118863405"
+  }
+ }
+}

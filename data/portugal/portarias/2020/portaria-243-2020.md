@@ -1,0 +1,512 @@
+---
+schema_version: '1.0'
+id: pt:dre:145359683:por
+title: Portaria n.º 243/2020
+short_title: null
+summary: Implementa procedimentos e medidas de proteção fitossanitária, adicionais, destinadas à erradicação no território
+  nacional da bactéria de quarentena Xylella fastidiosa (Wells et al.)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Agricultura
+proposing_entity: null
+official_number: 243/2020
+official_date: null
+publication_date: '2020-10-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 200/2020, Série I de 2020-10-14
+  number: '200'
+  series: I
+  supplement: null
+  pages: 16 - 22
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/10/20000/0001600022.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-09-06'
+version_history:
+  file: portaria-243-2020.versoes.json
+  count: 3
+  source_lastmod: '2025-05-13'
+  versions:
+  - date: '2020-10-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-05-13'
+    amending: pt:dre:917593156:por
+    amending_title: Portaria n.º 219/2025/1
+    changes:
+    - Adita Artigo 5.º-A
+    - Adita Artigo 6.º-A
+    - Adita Artigo 8.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+  - date: '2025-09-06'
+    amending: pt:dre:934278895:por
+    amending_title: Portaria n.º 296/2025/1
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º-A
+    - Altera Artigo 8.º-A
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/243/2020/p/cons/20250905/pt/html
+  oj: null
+  dre: '145359683'
+  dre_path: /dr/detalhe/portaria/243-2020-145359683
+  internal: pt:dre:145359683:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/243-2020-145359683
+  metadata_url: https://data.dre.pt/eli/port/243/2020/p/cons/20250905/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-917799165
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-917799165
+  retrieved_at: '2026-10-22T13:26:16Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-05-13T00:00:00Z'
+integrity:
+  source_sha256: b6c7eaf9448e127fb48ac16aa25f1b075aa99d84a6dd433b5fa5e0dc7a9c5c83
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:26:16Z'
+  notes: 3 versão(ões); histórico completo em portaria-243-2020.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autoridade de Segurança Alimentar e Económica
+- Contra-ordenação
+- Regulamentação de Atos Legislativos
+- Direção Geral de Alimentação e Veterinária
+- Diretor Nacional
+- Controlo Sanitário
+- Saúde Pública
+- Freguesia
+- Instituto da Conservação da Natureza e das Florestas
+- Página na Internet
+- Proteção Fitossanitária
+- Regulamento CE
+- Autarquia Local
+- Vegetais
+- Plataforma Eletrónica
+relationships:
+- type: amended_by
+  target: pt:dre:917593156:por
+  label: Adita Artigo 5.º-A; Adita Artigo 6.º-A; Adita Artigo 8.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º;
+    Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera
+    Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/219-2025-917593156
+  date: '2025-05-12'
+- type: amended_by
+  target: pt:dre:934278895:por
+  label: Altera Artigo 4.º; Altera Artigo 6.º-A; Altera Artigo 8.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/296-2025-934278895
+  date: '2025-09-05'
+- type: cites
+  target: celex:32016R2031
+  label: null
+  source: http://data.europa.eu/eli/reg/2016/2031/oj
+- type: cites
+  target: celex:32020R1201
+  label: null
+  source: http://data.europa.eu/eli/reg/2020/1201/oj
+- type: cites
+  target: celex:32024R2507
+  label: null
+  source: null
+- type: cites
+  target: celex:32024R3115
+  label: null
+  source: null
+- type: cites
+  target: celex:32031R2016
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:142870334:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/67/2020/09/15/p/dre
+article_structure:
+  article_count: 19
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:26:16Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 243/2020
+
+Portaria n.º 243/2020
+
+de 14 de outubro
+
+Sumário: Implementa procedimentos e medidas de proteção fitossanitária, adicionais, destinadas à erradicação no território nacional da bactéria de quarentena Xylella fastidiosa (Wells et al.).
+
+O Decreto-Lei n.º 67/2020, de 15 de setembro, assegura a execução e garante o cumprimento das obrigações decorrentes do Regulamento (UE) n.º 2016/2031, do Parlamento Europeu e do Conselho, de 26 de outubro de 2016, relativo a medidas de proteção contra as pragas dos vegetais, bem como das suas alterações e dos atos de execução ou delegados nele previstos.
+
+O Regulamento (UE) n.º 2016/2031 estabelece as regras para determinar os riscos fitossanitários colocados por qualquer espécie, estirpe ou biótipo de agentes patogénicos, animais ou vegetais parasitas nocivos para os vegetais ou os produtos vegetais, e que o regulamento designa genericamente por pragas, bem como medidas para reduzir esses riscos para um nível aceitável. Conforme previsto no artigo 28.º deste regulamento, estão estabelecidas medidas de combate especificamente para a praga Xylella fastidiosa (Wells et al.) através do Regulamento de Execução (EU) n.º 2020/1201 da Comissão, de 14 de agosto de 2020.
+
+Na sequência da identificação da presença da bactéria de quarentena Xylella fastidiosa (Wells et al.) pela primeira vez no território nacional em janeiro de 2019 na freguesia de Avintes, concelho de Vila Nova de Gaia, foi de imediato estabelecida uma zona demarcada e tomadas as medidas previstas na legislação comunitária tendo em vista a sua erradicação no território nacional.
+
+Face à evolução da doença na União Europeia, dos conhecimentos científicos e da experiência adquirida, as referidas medidas foram revistas pelo regulamento de execução acima mencionado, importando a sua operacionalização pela presente portaria.
+
+O referido Decreto-Lei n.º 67/2020, de 15 de setembro, prevê, no seu artigo 27.º, a adoção de medidas de proteção fitossanitária adicionais e ou de emergência destinadas a evitar a introdução e dispersão no território nacional de organismos prejudiciais aos vegetais e produtos vegetais por portaria do membro do Governo responsável pela área da agricultura.
+
+Consequentemente, e sem prejuízo do cumprimento do disposto no Regulamento (UE) n.º 2016/2031, no Regulamento de Execução (EU) n.º 2020/1201 e no Decreto-Lei n.º 67/2020, de 15 de setembro, cumpre atualizar e implementar os procedimentos e as medidas adicionais de proteção fitossanitária a adotar com a finalidade de erradicar a praga de quarentena Xylella fastidiosa (Wells et al.).
+
+Assim:
+
+Ao abrigo do artigo 27.º do Decreto-Lei n.º 67/2020, de 15 de setembro, e da subalínea ii) da alínea a) do n.º 3 do Despacho n.º 572/2020, de 18 de dezembro de 2019, manda o Governo, pelo Secretário de Estado da Agricultura e do Desenvolvimento Rural, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - A presente portaria implementa procedimentos e medidas de proteção fitossanitária, adicionais, destinadas à erradicação no território nacional da bactéria de quarentena Xylella fastidiosa (Wells et al.).
+
+2 - O disposto no número anterior é aplicável sem prejuízo do disposto no Regulamento (UE) 2016/2031, do Parlamento Europeu e do Conselho, de 26 de outubro de 2016, na sua atual redação conferida pelo Regulamento (UE) 2024/3115, do Parlamento Europeu e do Conselho, de 27 de novembro de 2024, relativo a medidas de proteção contra as pragas dos vegetais, e no Regulamento de Execução (UE) 2020/1201, da Comissão, de 14 de agosto de 2020, na sua atual redação conferida pelo Regulamento de Execução (UE) 2024/2507, da Comissão, de 26 de setembro de 2024, relativo às medidas para impedir a introdução e a propagação na União Europeia de Xylella fastidiosa (Wells et al.).
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2025/1 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/portaria/219-2025-917593156), em vigor a partir de 2025-05-13
+
+###### Artigo 2.º — Definições
+
+Para os efeitos da presente portaria, são adotadas as definições constantes do Regulamento (UE) 2016/2031, do Parlamento Europeu e do Conselho, de 26 de outubro de 2016, relativo a medidas de proteção contra as pragas dos vegetais, bem como as definições constantes do Regulamento de Execução (UE) 2020/1201, da Comissão, de 14 de agosto de 2020, ambos na sua redação atual.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2025/1 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/portaria/219-2025-917593156), em vigor a partir de 2025-05-13
+
+###### Artigo 3.º — Dever de informação da presença da praga
+
+Qualquer proprietário, usufrutuário ou rendeiro de vegetais hospedeiros, e qualquer operador profissional que produza ou comercialize material vegetal hospedeiro e que tenha conhecimento ou que suspeite da presença da bactéria de quarentena Xylella fastidiosa (Wells et al.), deve informar de imediato os serviços de inspeção fitossanitária do Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), ou a Direção-Geral de Alimentação e Veterinária (DGAV), a seguir designadas entidades territorialmente competentes.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2025/1 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/portaria/219-2025-917593156), em vigor a partir de 2025-05-13
+
+###### Artigo 4.º — Prospeção nacional
+
+1 - A Direção-Geral de Alimentação e Veterinária (DGAV) e o Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), sob a coordenação da DGAV, executam anualmente uma prospeção nacional, estatisticamente fundamentada e baseada no risco, em épocas adequadas do ano, quanto à possibilidade de detetar a bactéria, atendendo aos seguintes elementos:
+
+a) A biologia da praga e dos seus vetores;
+
+b) A presença e a biologia dos vegetais hospedeiros;
+
+c) As informações científicas e técnicas disponíveis, de acordo com o plano de amostragem e análise estabelecido pela DGAV.
+
+2 - Em caso de suspeita de infeção, a prospeção deve incidir, para além dos vegetais hospedeiros, sobre quaisquer outras espécies vegetais onde incida essa suspeita, abrangendo também os vetores.
+
+3 - As prospeções devem incluir campos de cultivo, pomares, vinhas, bem como viveiros, centros de jardinagem e/ou centros de comércio, áreas naturais e outros locais pertinentes e devem consistir na colheita de amostras e na análise molecular de vegetais para plantação.
+
+4 - Podem colaborar na prospeção, sob coordenação da DGAV, outras entidades com as quais a DGAV tenha protocolado essa colaboração.
+
+5 - Sempre que a presença da Xylella fastidiosa seja confirmada num vetor, numa área onde não seja conhecida a sua ocorrência, a prospeção em plantas deve, logo que possível, ser realizada num raio de pelo menos 400 m em torno do local onde se constata o vetor infetado, bem como a amostragem e análise dos vegetais hospedeiros e de quaisquer outras espécies.
+
+6 - Para os efeitos do disposto no n.º 1, são autoridades territorialmente competentes na Região Autónoma dos Açores, a Direção Regional da Agricultura, Alimentação e Veterinária e na Região Autónoma da Madeira, a Direção Regional de Agricultura e Desenvolvimento Regional e o Instituto das Florestas e Conservação da Natureza, IP-RAM, sob a coordenação da DGAV.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 296/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-2025-934278895), em vigor a partir de 2025-09-06, produz efeitos a partir de 2025-05-13
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2025/1 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/portaria/219-2025-917593156), em vigor a partir de 2025-05-13
+
+###### Artigo 5.º — Estabelecimento da zona demarcada para erradicação da praga e sua publicitação
+
+1 - Em caso de confirmação oficial da bactéria Xylella fastidiosa (Wells et al.) em vegetais, por análise molecular, é de imediato, definida uma zona demarcada, formada pela zona infetada com um raio de, pelo menos, 50 metros em redor do vegetal detetado como infetado e a zona-tampão com a largura de, pelo menos, 2,5 km em redor da zona infetada.
+
+2 - A definição de zonas demarcadas é aprovada por despacho do diretor-geral de Alimentação e Veterinária, e publicitado no sítio da Internet da DGAV.
+
+3 - A zona demarcada deve ser atualizada sempre que se confirme a presença da bactéria num novo local, pela forma e publicitação referidas no número anterior, e incluir o respetivo mapa e lista de freguesias totalmente abrangidas e de freguesias parcialmente abrangidas.
+
+4 - As entidades territorialmente competentes devem elaborar e divulgar editais sustentados no despacho referido no n.º 2, no que respeita à situação das respetivas áreas de intervenção, de forma a promover ampla divulgação da zona demarcada e das medidas fitossanitárias aplicáveis.
+
+5 - A presença da bactéria deve ser monitorizada em toda a área demarcada, pelas entidades territorialmente competentes, nas épocas mais adequadas, através de prospeções anuais estatisticamente fundamentadas e baseadas no risco dos vegetais hospedeiros e de outros vegetais com sintomas suspeitos.
+
+6 - A monitorização deve ser efetuada de acordo com planos de amostragem e análise estabelecidos pela DGAV para as zonas infetadas e para as zonas-tampão, tendo em conta que os primeiros 400 metros em redor das zonas infetadas apresentam um risco mais elevado.
+
+7 - Deve ainda ser monitorizada a presença da bactéria nos vetores situados na área demarcada.
+
+8 - Podem ainda colaborar na prospeção da bactéria nos espaços públicos abrangidos pelas zonas infetadas e zonas-tampão outras entidades, públicas ou privadas, com as quais a DGAV tenha protocolado essa colaboração.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2025/1 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/portaria/219-2025-917593156), em vigor a partir de 2025-05-13
+
+###### Artigo 5.º-A — Estabelecimento da zona demarcada para confinamento da praga e sua publicitação
+
+1 - Sempre que a DGAV conclua, com base nas prospeções ou noutras provas, que a erradicação da Xylella fastidiosa numa área demarcada em erradicação não é possível, estabelece medidas cuja finalidade é o confinamento da bactéria, nessa área.
+
+2 - Para os efeitos previstos no número anterior, é estabelecida uma área demarcada formada pela zona infetada com um raio de, pelo menos, 50 metros em redor dos vegetais detetados como infetados e pela zona-tampão com a largura de, pelo menos, 5 km em redor da zona infetada.
+
+3 - A zona demarcada em confinamento é aprovada por despacho do diretor-geral da DGAV e publicitada no sítio da Internet da DGAV, incluindo o respetivo mapa e lista de freguesias total e parcialmente abrangidas.
+
+4 - De forma a promover a ampla divulgação da zona demarcada e das medidas fitossanitárias aplicáveis, as entidades territorialmente competentes devem elaborar e divulgar editais em conformidade com o despacho referido no n.º 3, relativos à situação das respetivas áreas de intervenção.
+
+5 - As entidades territorialmente competentes são responsáveis pela vigilância anual da zona demarcada em confinamento, devendo para o efeito:
+
+a) Proceder de imediato, num raio de 50 metros em redor dos vegetais que foram detetados como infetados pela praga especificada e, pelo menos, nas áreas identificadas na alínea b) do presente número, à amostragem e análise sobre:
+
+i) Todos os vegetais especificados que pertençam às espécies dos vegetais especificados detetados como infetados na mesma área demarcada;
+
+ii) Todos os outros vegetais com sintomas de possível infeção ou de que se suspeite estarem infetados por essa praga;
+
+b) Monitorizar, nas épocas mais adequadas, a presença da praga especificada através de prospeções anuais, estatisticamente fundamentadas e baseadas no risco, pelo menos, nas seguintes áreas da zona infetada:
+
+i) Numa área de, pelo menos, 2 km a partir da fronteira entre a zona infetada e a zona-tampão, considerada como faixa de contenção;
+
+ii) Na proximidade dos locais com vegetais com especial valor cultural e social situados fora da área referida na subalínea anterior e designados pela DGAV em conformidade com o previsto no n.º 4 do artigo 6.º-A;
+
+c) Proceder à amostragem e análise da população de vetores para detetar a presença da praga especificada;
+
+d) Proceder nas zonas-tampão, à amostragem e análise dos vegetais hospedeiros, bem como de todos os outros vegetais que apresentem sintomas de eventual infeção por Xylella fastidiosa ou se suspeite estarem infetados, através de prospeções estatisticamente fundamentadas e baseadas no risco, tendo em conta que os primeiros 400 metros adjacentes às zonas infetadas apresentam um risco mais elevado.
+
+6 - As entidades territorialmente competentes devem monitorizar a presença da Xylella fastidiosa em vetores nas partes da zona infetada referidas no número anterior e na zona-tampão, a fim de determinar o risco da continuação da propagação através dos vetores e avaliar a eficácia das medidas de controlo fitossanitário aplicadas em conformidade com os n.os 7 e 8 do artigo 6.º-A.
+
+7 - Podem ainda colaborar na prospeção da bactéria nos espaços públicos abrangidos pelas zonas infetadas e zonas-tampão, outras entidades, públicas ou privadas, com as quais a DGAV estabeleça protocolos de colaboração.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 219/2025/1 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/portaria/219-2025-917593156), em vigor a partir de 2025-05-13
+
+###### Artigo 6.º — Destruição de vegetais numa zona infetada em erradicação
+
+1 - Na zona infetada devem ser removidos, com caráter imediato, os seguintes vegetais:
+
+a) Os que se saiba estarem infetados pela bactéria;
+
+b) Os com sintomas de possível infeção ou de que se suspeite estarem infetados;
+
+c) Os pertencentes à mesma espécie do vegetal infetado, independentemente do seu estatuto sanitário;
+
+d) De outras espécies que não a do vegetal infetado que tenham sido detetados como infetados noutras partes da área demarcada;
+
+e) Os vegetais especificados suscetíveis à subespécie da bactéria detetada na zona demarcada, com exceção dos referidos nas alíneas c) e d), que não tenham sido imediatamente submetidos a amostragem e a análise molecular, sem prejuízo do disposto no n.º 6.
+
+2 - Os vegetais e partes de vegetais devem ser destruídos de modo a garantir que a bactéria não se propague, no local ou num local próximo designado para o efeito na zona infetada, ou se esses vegetais ou partes de vegetais forem transportados em contentores fechados ou cobertos por uma rede contra os vetores, à distância mais curta desse local.
+
+3 - A destruição pode limitar-se aos ramos e à folhagem e a respetiva madeira ser submetida a um tratamento fitossanitário contra vetores, desde que o sistema radicular desses vegetais seja removido ou desvitalizado com um tratamento fitossanitário adequado para evitar novos rebentos, devendo, neste caso ser assegurado que a madeira não contenha folhas e ramos.
+
+4 - Antes da remoção dos vegetais devem ser aplicados tratamentos fitossanitários adequados na zona infetada contra a população de vetores, em todas as suas fases de desenvolvimento, que devem incluir tratamentos químicos, biológicos ou mecânicos eficientes contra os vetores, tendo em conta as condições locais.
+
+5 - Em derrogação do disposto no n.º 1, os vegetais não infetados, oficialmente designados como vegetais com valor histórico ou as árvores com um valor social, cultural ou ambiental particular, cujo abate comporte um impacto inaceitável ou que estejam sujeitas a regras específicas nacionais ou da UE para a sua proteção, não precisam de ser removidos, desde que:
+
+a) Sejam submetidos anualmente a inspeção, amostragem e análise molecular e se confirme que não estão infetados;
+
+b) Os vegetais individuais ou a área em causa, sejam submetidos a tratamentos fitossanitários adequados contra a população de vetores, em todas as suas fases de desenvolvimento, que podem incluir métodos químicos, biológicos ou mecânicos, tendo em conta as condições locais.
+
+6 - A DGAV pode decidir não proceder imediatamente à amostragem e análise dos vegetais especificados que não tenham sido detetados como infetados por Xylella fastidiosa, nos últimos dois anos, na área demarcada em causa, com base nos resultados da amostragem e da análise realizadas em conformidade com a alínea e) do n.º 1 e nas prospeções efetuadas para vigilância.
+
+7 - Os vegetais identificados no número anterior, devem ser submetidos a prospeções anuais.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2025/1 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/portaria/219-2025-917593156), em vigor a partir de 2025-05-13
+
+###### Artigo 6.º-A — Destruição de vegetais numa zona infetada em confinamento
+
+1 - Na zona infetada, devem ser removidos todos os vegetais detetados como infetados pela praga especificada, imediatamente após a identificação oficial da praga, com base na monitorização referida na alínea b) do n.º 5 do artigo 5.º-A.
+
+2 - Caso a identificação oficial da presença da bactéria ocorra fora do período de voo do vetor, a remoção de todos os vegetais detetados como infetados deve ocorrer antes do próximo período de voo.
+
+3 - Para os efeitos previstos nos números anteriores, devem ser tomadas todas as precauções necessárias para evitar a propagação da Xylella fastidiosa e dos seus vetores durante e após a remoção dos vegetais.
+
+4 - Em derrogação do disposto nos n.os 1 e 2, a DGAV pode decidir, para fins científicos, não remover os vegetais detetados como infetados pela praga especificada nos locais com vegetais com especial valor cultural e social referidos na subalínea ii) da alínea b) do n.º 5 do artigo 5.º-A.
+
+5 - Os vegetais e partes de vegetais devem ser destruídos de modo a garantir que a bactéria não se propague, no local ou num local próximo designado para o efeito na zona infetada.
+
+6 - A destruição pode limitar-se aos ramos e à folhagem e a respetiva madeira ser submetida a um tratamento fitossanitário contra vetores, caso se conclua que esses vegetais não apresentam qualquer risco de continuação da propagação da praga especificada e desde que o sistema radicular desses vegetais seja removido ou desvitalizado com um tratamento fitossanitário adequado para evitar novos rebentos.
+
+7 - Sempre que a entidade territorialmente competente decida não destruir a madeira em conformidade com o número anterior, deve verificar que esta não contém folhas e ramos.
+
+8 - Devem ser aplicados tratamentos fitossanitários adequados, nomeadamente químicos, biológicos ou mecânicos eficientes, tendo em conta as condições locais, contra a população de vetores, em todas as suas fases de desenvolvimento, em especial durante o período de voo.
+
+9 - Os tratamentos fitossanitários devem ser usados sobre os vegetais referidos nos n.os 1 e 2, antes de ocorrer sua remoção, e em torno dos que não sejam removidos em conformidade com o disposto no n.º 4.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 296/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-2025-934278895), em vigor a partir de 2025-09-06, produz efeitos a partir de 2025-05-13
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 219/2025/1 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/portaria/219-2025-917593156), em vigor a partir de 2025-05-13
+
+###### Artigo 7.º — Plantação de vegetais numa zona infetada
+
+A plantação em zonas infetadas de vegetais especificados suscetíveis à subespécie da bactéria detetada na zona demarcada só pode ser autorizada num dos seguintes casos:
+
+a) Os vegetais são cultivados em locais de produção à prova de insetos e indemnes da bactéria e dos seus vetores;
+
+b) Na zona demarcada em erradicação, os vegetais pertencem às mesmas espécies de vegetais que foram testadas e consideradas indemnes da bactéria, com base nas atividades de prospeção oficial realizadas, pelo menos, nos últimos dois anos e são replantados nas zonas infetadas;
+
+c) Na zona demarcada em confinamento, os vegetais especificados são plantados ou enxertados nas zonas infetadas, fora da faixa de contenção, e preferencialmente pertencem a variedades avaliadas como resistentes ou tolerantes à Xylella fastidiosa ou às mesmas espécies de vegetais que foram testadas e consideradas indemnes da bactéria com base nas prospeções realizadas na zona infetada, pelo menos, nos últimos dois anos.
+
+2 - Para os efeitos previstos na alínea c), considera-se faixa de contenção, a faixa de 2 km a partir da fronteira entre a zona infetada e a zona-tampão.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2025/1 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/portaria/219-2025-917593156), em vigor a partir de 2025-05-13
+
+###### Artigo 8.º — Medidas contra os vetores da praga especificada numa zona demarcada em erradicação
+
+1 - Em áreas agrícolas, devem ser aplicadas práticas agrícolas para o controlo da população de vetores da praga especificada, em todas as suas fases de desenvolvimento, na zona infetada e na zona-tampão.
+
+2 - Em áreas que não sejam áreas agrícolas, devem, pelo menos na zona infetada, ser aplicadas medidas de controlo da população de vetores da praga especificada, em todas as suas fases de desenvolvimento.
+
+3 - As práticas agrícolas referidas no n.º 1 e as medidas de controlo a que se refere o número anterior devem ser aplicadas na época mais adequada do ano, independentemente da remoção dos vegetais em causa, e consoante o caso, devem incluir, tratamentos químicos, biológicos ou mecânicos eficientes contra os vetores, tendo em conta as condições locais, em cumprimento dos procedimentos estabelecidos e divulgados no sítio da Internet da DGAV.
+
+4 - Na zona infetada, durante o período de voo dos vetores, devem ser aplicados tratamentos fitossanitários adequados contra todas as fases de desenvolvimento da população de vetores da praga especificada, em especial antes e durante a remoção dos vegetais referidos no n.º 1 do artigo 6.º
+
+5 - As práticas previstas no número anterior devem incluir tratamentos químicos, biológicos ou mecânicos eficientes contra os vetores, atendendo às condições locais, em cumprimento dos procedimentos estabelecidos e divulgados no sítio da Internet da DGAV.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2025/1 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/portaria/219-2025-917593156), em vigor a partir de 2025-05-13
+
+###### Artigo 8.º-A — Medidas contra os vetores da praga especificada numa zona demarcada em confinamento
+
+1 - Nas áreas referidas na alínea b) do n.º 5 do artigo 5.º-A devem ser aplicadas práticas agrícolas para o controlo da população de vetores da praga especificada em todas as suas fases de desenvolvimento, na época mais adequada de cada ano, incluindo tratamentos químicos, biológicos ou mecânicos eficientes contra os vetores, tendo em conta as condições locais.
+
+2 - Devem ser aplicados tratamentos fitossanitários adequados contra todas as fases de desenvolvimento da população de vetores da praga especificada, sobre os vegetais a remover das áreas referidas no n.º 1, antes da sua remoção, em especial durante o período de voo dos vetores e também em redor dos vegetais que não tenham sido removidos em conformidade com o n.º 4 do artigo 6.º-A, incluindo tratamentos químicos, biológicos ou mecânicos eficientes contra os vetores, tendo em conta as condições locais, de acordo com os procedimentos estabelecidos e divulgados no sítio da Internet da DGAV.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 296/2025/1 - Diário da República n.º 171/2025, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-2025-934278895), em vigor a partir de 2025-09-06, produz efeitos a partir de 2025-05-13
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 219/2025/1 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/portaria/219-2025-917593156), em vigor a partir de 2025-05-13
+
+###### Artigo 9.º — Circulação para fora de uma área demarcada, e a partir das respetivas zonas infetadas para as zonas-tampão, de vegetais especificados que tenham sido cultivados em locais de produção autorizados situados nessa área demarcada
+
+1 - A circulação para fora de uma área demarcada, e a partir das respetivas zonas infetadas para as zonas-tampão, de vegetais especificados suscetíveis à subespécie da bactéria detetada na zona demarcada que tenham sido cultivados numa unidade de produção situada nessa área demarcada só pode ser autorizada se estiverem preenchidas as seguintes condições cumulativas:
+
+a) Os vegetais especificados tenham sido cultivados durante todo o seu ciclo de produção num local autorizado oficialmente como fisicamente protegido contra a bactéria e os seus vetores, ou tenham estado presentes nesse local durante pelo menos um ano;
+
+b) O local foi submetido anualmente a pelo menos duas inspeções oficiais, efetuadas nas épocas mais adequadas;
+
+c) Durante o período de crescimento dos vegetais especificados, não foi detetada no local a presença da bactéria nem a dos seus vetores;
+
+d) Os vegetais especificados são submetidos a tratamentos fitossanitários contra a população de vetores, em todas as suas fases de desenvolvimento, em épocas adequadas do ano, a fim de os manter indemnes de vetores da bactéria, que devem incluir, conforme adequado, métodos químicos, biológicos ou mecânicos eficientes, tendo em conta as condições locais;
+
+e) Os vegetais especificados são transportados através ou dentro da área demarcada em recipientes ou embalagens fechadas, garantindo que a infeção pela bactéria ou qualquer dos seus vetores não pode ocorrer;
+
+f) Tão próximo quanto possível da data da circulação, os vegetais especificados foram submetidos a análises moleculares para detetar a presença da bactéria, utilizando um plano de amostragem capaz de identificar, com um grau de confiança de, pelo menos, 80 %, um nível de presença de vegetais infetados de 1 %.
+
+2 - Se, durante as inspeções anuais, for detetada a presença da bactéria especificada ou danos na proteção física, a autorização do local é imediatamente revogada e a circulação dos vegetais especificados para fora das áreas demarcadas em causa e a partir das respetivas zonas infetadas para as zonas-tampão é temporariamente suspensa.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2025/1 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/portaria/219-2025-917593156), em vigor a partir de 2025-05-13
+
+###### Artigo 10.º — Circulação para fora de uma área demarcada, e a partir das respetivas zonas infetadas para as zonas-tampão, de vegetais especificados que nunca tenham sido detetados como infetados nessa área demarcada
+
+A circulação para fora de uma área demarcada, e a partir das respetivas zonas infetadas para as zonas-tampão, de vegetais especificados, suscetíveis à subespécie da bactéria detetada na zona demarcada, que nunca tenham sido detetados como infetados nessa área demarcada só pode ser autorizada se estiverem preenchidas as seguintes condições cumulativas:
+
+a) Os vegetais especificados foram cultivados num local que pertence a um operador registado;
+
+b) Os vegetais especificados pertencem a espécies de vegetais que foram cultivadas pelo menos durante uma parte do seu ciclo de vida numa área demarcada e foram submetidas, durante três anos a contar do estabelecimento da área demarcada, às atividades de prospeção oficiais e nunca foram detetadas como infetadas com a bactéria;
+
+c) As espécies dos vegetais especificadas referidas na alínea anterior são publicadas na base de dados da Comissão Europeia relativa a vegetais hospedeiros cuja infeção não é conhecida nessa área demarcada específica;
+
+d) Os vegetais especificados são submetidos a tratamentos fitossanitários contra a população de vetores, em todas as suas fases de desenvolvimento, em épocas adequadas do ano, a fim de os manter indemnes de vetores da bactéria, que devem incluir, conforme adequado, métodos químicos, biológicos ou mecânicos eficientes, tendo em conta as condições locais;
+
+e) Tão próximo quanto possível da data da circulação, os lotes dos vegetais especificados foram submetidos a inspeções e análises moleculares pela autoridade competente, utilizando um plano de amostragem capaz de identificar, com um grau de confiança de, pelo menos, 95 %, um nível de presença de vegetais infetados de 1 %;
+
+f) Tão próximo quanto possível da data da circulação, os lotes dos vegetais especificados foram submetidos a tratamentos fitossanitários contra todos os vetores da bactéria.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2025/1 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/portaria/219-2025-917593156), em vigor a partir de 2025-05-13
+
+###### Artigo 11.º — Circulação dentro das zonas infetadas, dentro das zonas-tampão e a partir das zonas-tampão para as respetivas zonas infetadas, de vegetais especificados que tenham sido cultivados durante uma parte do seu ciclo de vida numa zona demarcada
+
+1 - A circulação dentro das zonas infetadas, dentro das zonas-tampão e a partir das zonas-tampão para as respetivas zonas infetadas, de vegetais especificados suscetíveis à subespécie da bactéria detetada na zona demarcada que tenham sido cultivados durante, pelo menos, uma parte do seu ciclo de vida numa área demarcada só pode ser autorizada se estiverem as seguintes condições cumulativas:
+
+a) Os vegetais especificados foram cultivados num local que pertence a um operador registado e, no caso de uma zona infetada, o local cumpre os requisitos da alínea a) do n.º 1 do artigo 7.º;
+
+b) Esse local é submetido a amostragem e análises anuais oficiais para detetar a presença da bactéria e os resultados da inspeção anual e da análise de uma amostra representativa confirmam a ausência da bactéria;
+
+c) Os vegetais especificados são submetidos a tratamentos fitossanitários contra a população de vetores, em todas as suas fases de desenvolvimento, em épocas adequadas do ano, a fim de os manter indemnes de vetores da bactéria, que devem incluir, conforme adequado, métodos químicos, biológicos ou mecânicos eficientes, tendo em conta as condições locais.
+
+2 - Os operadores profissionais com local de atividade na zona demarcada que produzam nas condições descritas no número anterior ou recebam vegetais especificados da zona isenta para comercialização na zona demarcada devem afixar nos estabelecimentos de venda o mapa atualizado da zona demarcada, transmitir a informação escrita aos compradores da proibição de movimento das plantas especificadas adquiridas para fora da zona demarcada e solicitar à pessoa que recebe esses vegetais que assine uma declaração de compromisso, conforme modelo disponibilizado no sítio da Internet da DGAV, assegurando que não serão transportados para fora dessa zona.
+
+3 - Os vendedores devem guardar as declarações de compromisso por um período mínimo de seis meses.
+
+4 - Os vegetais especificados devem circular na zona demarcada com passaporte fitossanitário, com a seguinte indicação adicional incluída ao lado do código de rastreabilidade:
+
+a) No caso de circularem apenas dentro das zonas infetadas, a indicação «Zona infetada - XYLEFA»;
+
+b) No caso de circularem dentro da zona-tampão, ou da zona-tampão para a zona infetada, a indicação ‘Zona-tampão - XYLEFA’.
+
+5 - A autorização de circulação a que se refere este artigo não se aplica à comercialização na zona demarcada em feiras e mercados, onde é proibida a venda de qualquer vegetal, destinado a plantação, pertencente aos géneros e espécies especificadas suscetíveis à subespécie da bactéria em causa.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2025/1 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/portaria/219-2025-917593156), em vigor a partir de 2025-05-13
+
+###### Artigo 12.º — Circulação na União Europeia de vegetais especificados que nunca foram cultivados dentro de uma zona demarcada
+
+1 - Os vegetais especificados que nunca foram cultivados dentro de uma área demarcada só podem circular na UE se tiverem sido cultivados num local que preencha as seguintes condições:
+
+a) O local pertence a um operador profissional registado e é submetido a inspeções oficiais anuais;
+
+b) É submetido a amostragem e análises, em função do nível de risco, para detetar a presença da bactéria.
+
+2 - Em derrogação do disposto no número anterior, os vegetais para plantação, à exceção de sementes, de Coffea L, Lavandula angustifolia Mill., Lavandula dentata L., Lavandula x intermedia Emeric ex Loisel., Lavandula latifolia Medik., Lavandula stoechas L., Nerium oleander L., Olea europaea L., Polygala myrtifolia L., Prunus dulcis (Mill.) D. A. Webb e Salvia rosmarinus Spenn, só podem circular pela primeira vez na UE se estiverem preenchidas as seguintes condições:
+
+a) Foram cultivados num local submetido a inspeções anuais oficiais;
+
+b) Esse local ser submetido a amostragem e análises para a deteção da presença da bactéria e utilizando um plano de amostragem capaz de identificar, com um grau de confiança de, pelo menos, 80 %, um nível de presença de vegetais infetados de 1 %.
+
+> Nota: [Artigo 5.º, Portaria n.º 219/2025/1 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/portaria/219-2025-917593156) As disposições contidas no n.º 2 do presente artigo relativas às sementes Lavandula angustifolia Mill., Lavandula x intermedia Emeric ex Loisel., Lavandula latifolia Medik., Lavandula stoechas L. e Salvia rosmarinus Spenn, entram em vigor no dia 1 de julho de 2025.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2025/1 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/portaria/219-2025-917593156), em vigor a partir de 2025-05-13
+
+###### Artigo 13.º — Controlos oficiais da circulação de vegetais especificados na União Europeia
+
+1 - É obrigatória a realização de controlos oficiais sistemáticos dos vegetais especificados que circulem para fora de uma área demarcada, ou que circulem de uma zona infetada para uma zona-tampão, os quais devem:
+
+a) Ser efetuados pelo menos nos locais, incluindo estradas, aeroportos e portos, em que os vegetais especificados são transferidos de zonas infetadas para zonas-tampão ou para outras partes do território da UE;
+
+b) Incluir um controlo documental e um controlo de identidade dos vegetais especificados;
+
+c) Ser efetuados independentemente da origem declarada dos vegetais especificados, do seu proprietário ou da pessoa ou entidade responsável por esses vegetais.
+
+2 - Caso esses controlos revelem que as condições estabelecidas na presente portaria não estão cumpridas, os vegetais não conformes devem ser imediatamente destruídos in situ ou num local próximo, tomando todas as precauções necessárias para evitar a propagação da bactéria e de quaisquer vetores transportados por esses vegetais, durante e após a remoção.
+
+3 - Para a realização destes controlos colaboram a Autoridade de Segurança Alimentar e Económica, a Guarda Nacional Republicana, a Polícia de Segurança Pública e outras forças policiais.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2025/1 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/portaria/219-2025-917593156), em vigor a partir de 2025-05-13
+
+###### Artigo 14.º — Interesse público das medidas fitossanitárias
+
+1 - O estabelecimento e a aplicação de medidas de proteção fitossanitária são atividades que perseguem o objetivo de interesse público de salvaguarda de situações que coloquem em risco a fitossanidade e o ambiente, conforme previsto no artigo 18.º do Decreto-Lei n.º 67/2020, de 15 de setembro, na sua atual redação.
+
+2 - Para efeitos do disposto no número anterior, os serviços oficiais dispõem de inspetores fitossanitários, nos termos previstos no n.º 7 do artigo 3.º e no artigo 4.º do Decreto-Lei n.º 67/2020, de 15 de setembro, na sua atual redação.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2025/1 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/portaria/219-2025-917593156), em vigor a partir de 2025-05-13
+
+###### Artigo 15.º — Notificações oficiais das medidas de proteção fitossanitária
+
+1 - Os proprietários, usufrutuários ou rendeiros de vegetais especificados, bem como os operadores profissionais que produzam ou comercializem material vegetal especificado nas zonas demarcadas são notificados pelas autoridades territorialmente competentes para o cumprimento das medidas de proteção fitossanitária aplicáveis.
+
+2 - As notificações são efetuadas por via postal, transmissão eletrónica de dados ou por contacto pessoal com o notificando, no lugar em que for encontrado e, caso este se revele impossível, por edital afixado nos locais habituais.
+
+3 - Para efeitos do número anterior, consideram-se locais habituais, os locais de afixação da das entidades territorialmente competentes, bem como os existentes nas autarquias locais, a par dos respetivos sítios na Internet.
+
+4 - Sem prejuízo do disposto no número anterior, as notificações efetuadas pelas autoridades territorialmente competentes constituem medidas de proteção fitossanitária ao abrigo do disposto no artigo 17.º do Decreto-Lei n.º 67/2020, de 15 de setembro, na sua atual redação, estando o seu incumprimento sujeito ao respetivo regime contraordenacional.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2025/1 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/portaria/219-2025-917593156), em vigor a partir de 2025-05-13
+
+###### Artigo 16.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+O Secretário de Estado da Agricultura e do Desenvolvimento Rural, Nuno Tiago dos Santos Russo, em 6 de outubro de 2020.
+
+113624316

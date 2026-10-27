@@ -1,0 +1,93 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:287155:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-964656610",
+ "dre_path": "/dr/detalhe/portaria/177-2011-287155",
+ "source_lastmod": "2026-09-16",
+ "versions": [
+  {
+   "date": "2013-04-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:260386:por",
+     "title": "Portaria n.º 157/2013",
+     "published": "2013-04-22",
+     "dre_path": "/dr/detalhe/portaria/157-2013-260386"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "964841475",
+    "964841675",
+    "964841875",
+    "964842075",
+    "964842275",
+    "964842475",
+    "1169658075"
+   ]
+  }
+ ],
+ "fragments": {
+  "964841475": {
+   "fragment_id": "964841375",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Lei n.º 37/2008, de 6 de Agosto, que aprovou a Lei Orgânica da Polícia Judiciária, determina que a Polícia Judiciária é responsável pela arrecadação de receitas próprias resultantes das quantias cobradas por actividades ou serviços prestados, designadamente pela venda de publicações ou de artigos de promoção institucional, prestação de acções de formação, realização de perícias e exames, extracção de certidões e cópias em suporte de papel ou digital, bem como as que lhe sejam atribuídas por lei, contrato ou a outro título.\n\nO mesmo diploma estabelece que aqueles montantes são pagos à Polícia Judiciária de acordo com a tabela aprovada por portaria do membro do Governo responsável pela área da justiça.\n\nA arrecadação de receitas cobradas pela realização de perícias e exames está prevista em portaria própria, a qual estabelece a tabela de preços de perícias e exames a cobrar pela Polícia Judiciária, pelo Instituto Nacional de Medicina Legal, I. P., e pela Direcção-Geral de Reinserção Social.\n\nPor seu turno, a Portaria n.º 182/2010, de 29 de Março, estabeleceu a comparticipação no custo do procedimento de recrutamento para a categoria de ingresso na carreira de investigação criminal.\n\nImpõe-se agora identificar outras actividades que concorrem para a percepção de receitas pela Polícia Judiciária assim como estabelecer os preços a cobrar pelos demais bens e serviços prestados, tendo em consideração a sua natureza, complexidade e utilidade económico-social.\n\nAssim:\n\nAo abrigo do n.º 4 do artigo 46.º da Lei n.º 37/2008, de 6 de Agosto, manda o Governo, pelo Ministro da Justiça, o seguinte:"
+  },
+  "964841675": {
+   "fragment_id": "964841575",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ aprovada a tabela de preços a cobrar por bens e serviços prestados pela Polícia Judiciária, doravante designada por PJ, a entidades públicas ou privadas que os requeiram, que consta do anexo à presente portaria e dela faz parte integrante."
+  },
+  "964841875": {
+   "fragment_id": "964841775",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - A tabela de preços anexa identifica as actividades que contribuem para a percepção de receitas pela PJ e fixa o preço a cobrar pelos bens e serviços prestados no âmbito da sua actuação, nos termos e para os efeitos do disposto no n.º 3 do artigo 46.º da Lei n.º 37/2008, de 6 de Agosto.\n\n2 - A tabela de preços anexa não se aplica à reprodução de documentos no âmbito do acesso aos documentos administrativos, regulado pela Lei n.º 46/2007, de 24 de Agosto."
+  },
+  "964842075": {
+   "fragment_id": "964841975",
+   "type": 11,
+   "heading": "Artigo 3.º — Preços e sua publicitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Preços e sua publicitação\n\n1 - Para efeitos da presente portaria, os preços são expressos com referência à unidade de conta processual (UC), devendo os preços corresponder tendencialmente ao seu custo efectivo.\n\n2 - A tabela anexa é publicitada na página oficial da PJ na Internet, com indicação dos valores convertidos em euros e do montante anual da UC, e é afixada nos locais onde se prestam os respectivos serviços, de forma visível e acessível à generalidade dos utentes."
+  },
+  "964842275": {
+   "fragment_id": "964842175",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no 1.º dia útil do mês seguinte ao da sua publicação."
+  },
+  "964842475": {
+   "fragment_id": "964842375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Justiça, Alberto de Sousa Martins, em 22 de Março de 2011."
+  },
+  "1169658075": {
+   "fragment_id": "964842575",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "2013-04-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 157/2013 - Diário da República n.º 78/2013, Série I de 2013-04-22](https://diariodarepublica.pt/dr/detalhe/portaria/157-2013-260386), em vigor a partir de 2013-04-23."
+   ],
+   "markdown": "## Anexo\n\nTabela de preços a cobrar por bens e serviços da Polícia Judiciária (PJ)\n\n1 - Cópias, certidões, impressões, telecópias e digitalizações:\n\nCópia/certidão, página A4, preto e branco - 0,0015 UC;\n\nCópia/certidão, página A3, preto e branco - 0,0025 UC;\n\nImpressão, página A4, preto e branco - 0,0015 UC;\n\nImpressão, página A4, cores - 0,005 UC;\n\nImpressão, página A3, preto e branco - 0,0025 UC;\n\nImpressão, página A3, cores - 0,01 UC;\n\nTelecópia - 0,005 UC;\n\nDigitalização - 0,005 UC.\n\n2 - Actividades da Escola de Polícia Judiciária (EPJ):\n\n2.1 - Venda de publicações:\n\nManuais - de 0,01 UC a 0,1 UC;\n\nRevista externa - de 0,15 UC a 0,2 UC;\n\nRevista interna - 0,05 UC;\n\nRevista do Museu - 0,2 UC;\n\n2.2 - Formação:\n\nFormador - de 0,5 UC a 1 UC, por hora;\n\nPessoal de apoio à formação - de 0,02 UC a 0,05 UC, por pessoa;\n\nTransporte (de e para a EPJ - até 10 km) - de 0,05 UC a 0,2 UC, por pessoa;\n\n2.2.1 - Cedência de utilização de instalações:\n\nSala até 20 formandos - 0,3 UC, por dia;\n\nSala até 40 formandos - 0,4 UC, por dia;\n\nAnfiteatro ou polivalente - 1 UC, por dia;\n\nSala de simulação - 0,59 UC, por dia;\n\nSala técnica - 1 UC, por dia;\n\n2.2.2 - Cedência de equipamento:\n\nViatura (sem combustível) - de 0,5 UC a 1 UC, por dia;\n\nPistola de simulação com 10 munições e par de algemas - 0,3 UC, por dia;\n\nPistola 9 mm com 15 munições - 0,3 UC, por dia;\n\nMunição extra - 0,01 UC, por unidade;\n\nFato de protecção e material de recolha - 0,3 UC, por pessoa;\n\nBoneco de simulação - 0,2 UC, por dia;\n\n2.2.3 - Alimentação e alojamento:\n\nAlojamento em quarto quádruplo, sem pequeno almoço e sem tratamento de roupa de cama ou de banho - 0, 40 UC, por pessoa e por mês;\n\nAlojamento em quarto duplo, sem pequeno-almoço - 0,15 UC, por pessoa;\n\nAlimentação (preço por pessoa - não funcionário da PJ):\n\nPequeno-almoço - de 0,02 UC a 0,05 UC;\n\nCoffee break - de 0,02 UC a 0,5 UC;\n\nAlmoço ou jantar (self-service) - de 0,059 UC a 0,15 UC;\n\nAlmoço ou jantar (serviço de mesa) - de 0,074 UC a 0,15 UC.\n\n2.3 - Certificados:\n\nEmissão de segunda via de certificado - 0,02 UC, por folha;\n\nEmissão de declarações para efeitos de entrega a outras entidades:\n\nPor documento (uma folha) - 0,01 UC;\n\nPor folha adicional - 0,005 UC.\n\n2.4 - ECDL - carta europeia de condução em informática:\n\nCartão de registo - de 0,4 UC a 0,75 UC;\n\nExame ECDL - de 0,125 UC a 0,75 UC;\n\nCertificado ECDL - de 0,1 UC a 0,15 UC;\n\nExaminador - 0,16 UC, por hora.\n\n3 - Museu:\n\nBilhete individual - 0,02 UC;\n\nBilhete para grupo de 10 pessoas - 0,10 UC;\n\nEmissão de certificados ou cópias - de 0,01 UC a 0,05 UC, por folha;\n\nInscrições em actividades - de 0,02 UC a 0,5 UC, por pessoa.\n\n4 - Artigos de promoção institucional:\n\nArtigos de promoção institucional da PJ de tipo 1 - de 0,01 UC a 0,2 UC;\n\nArtigos de promoção institucional da PJ de tipo 2 - de 0,21 UC a 0,5 UC;\n\nArtigos de promoção institucional da EPJ - de 0,01 UC a 0,2 UC;\n\nArtigos de promoção institucional do Museu - de 0,01 UC a 0,5 UC;\n\nFolhetos de divulgação, brochuras de conselhos úteis e brochuras de apresentação institucional - de 0,05 UC a 0,2 UC.\n\n5 - Suportes:\n\nDisquete - 0,005 UC;\n\nCD-R - 0,01 UC;\n\nCD-RW - 0,015 UC;\n\nDVD-R - 0,02 UC;\n\nDVD-RW - 0,03 UC;\n\nCassete de vídeo - 0,03 UC;\n\nPen drive USB 4GB - 0,2 UC.\n\n6 - Outras receitas:\n\nCedência das instalações a outras entidades para filmagens e outros fins (a) - 5 UC, por hora;\n\nPapel, óleos, desperdícios, resíduos e sucatas recicláveis e demais bens móveis da PJ (b);\n\nActualização ou remoção de software em telemóvel - 0,14 UC, por hora.\n\n(a) Carece de autorização prévia do director nacional da PJ, que fixa as condições em que tal se processa.\n\n(b) Venda de acordo com o regime jurídico da venda de bens móveis do domínio privado do Estado.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 157/2013 - Diário da República n.º 78/2013, Série I de 2013-04-22](https://diariodarepublica.pt/dr/detalhe/portaria/157-2013-260386), em vigor a partir de 2013-04-23."
+  }
+ }
+}

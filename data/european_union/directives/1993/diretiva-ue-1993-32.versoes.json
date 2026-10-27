@@ -1,0 +1,109 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993L0032:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0032-20100101",
+ "dre_path": null,
+ "source_lastmod": "2010-01-01",
+ "versions": [
+  {
+   "date": "1993-07-29",
+   "future": false,
+   "celex": "31993L0032",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c80b96c8eb7de95c",
+    "483d34f84ac15a00",
+    "bb7db93709bb49cc",
+    "3697ce1fc418a2b6",
+    "060fcfc64d493669",
+    "0587d41089d61485",
+    "82c2568ad89a7218"
+   ]
+  },
+  {
+   "date": "2010-01-01",
+   "future": false,
+   "celex": "01993L0032-20100101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime ANEXO"
+   ],
+   "fragments": [
+    "4d8a34bd0cc51362"
+   ]
+  }
+ ],
+ "fragments": {
+  "c80b96c8eb7de95c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 93/32/CEE do Conselho, de 14 de Junho de 1993, relativa ao dispositivo de retenção para os passageiros dos veículos a motor de duas rodas** *Jornal Oficial nº L 188 de 29/07/1993 p. 0028 - 0031 Edição especial finlandesa: Capítulo 7 Fascículo 4 p. 0234 Edição especial sueca: Capítulo 7 Fascículo 4 p. 0234*\n\nDIRECTIVA 93/32/CEE DO CONSELHO de 14 de Junho de 1993 relativa ao dispositivo de retenção para os passageiros dos veículos a motor de duas rodas\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100oA,\n\nTendo em conta a Directiva 92/61/CEE do Conselho, de 30 de Junho de 1992, relativa à recepção dos veículos a motor de duas ou três rodas (1),\n\nTendo em conta a proposta da Comissão (2),\n\nEm cooperação com o Parlamento Europeu (3),\n\nTendo em conta o parecer do Comité Económico e Social (4),\n\nConsiderando que o mercado interno compreende um espaço sem fronteiras internas no qual é assegurada a livre circulação das mercadorias, das pessoas, dos serviços e dos capitais; que importa adoptar as medidas adequadas para este efeito;\n\nConsiderando que os veículos de duas rodas devem satisfazer em cada Estado-membro, no que diz respeito ao dispositivo de retenção para os passageiros, determinadas características técnicas fixadas por prescrições imperativas que diferem de um Estado-membro para outro; que, pela sua disparidade, essas presrcições entravam o comércio na Comunidade;\n\nConsiderando que esses entraves ao funcionamento do mercado interno podem ser eliminados se forem adoptadas as mesmas prescrições por todos os Estados-membros em vez das respectivas regulamentações nacionais;\n\nConsiderando que o estabelecimento de prescrições harmonizadas relativas ao dispositivo de retenção para os passageiros dos veículos a motor de duas rodas é necessário para permitir a aplicação, a cada modelo dos referidos veículos, dos processos de recepção e de homologação que são objecto da Directiva 92/61/CEE;\n\nConsiderando que, dadas as dimensões e os efeitos da acção proposta no sector em causa, as medidas comunitárias objecto da presente directiva são necessárias, até mesmo indispensáveis, para atingir os objectivos fixados, ou seja, a aprovação comunitária do modelo do veículo, e que estes não podem ser realizados de modo suficiente pelos Estados-membros individualmente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "483d34f84ac15a00": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nA presente directiva aplica-se ao dispositivo de retenção para os passageiros de qualquer modelo de veículo de duas rodas como definido no artigo 1o da Directiva 92/61/CEE."
+  },
+  "bb7db93709bb49cc": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nO processo para a concessão da homologação no que diz respeito ao dispositivo de retenção para os passageiros de um modelo de veículo a motor de duas rodas, bem como as condições para a livre circulação desses veículos, são os estabelecidos pela Directiva 92/61/CEE, nos capítulos II e III, respectivamente."
+  },
+  "3697ce1fc418a2b6": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nAs alterações necessárias para adaptar ao progresso técnico as prescrições dos anexos serão adoptadas em conformidade com o processo previsto no artigo 13o da Directiva 70/156/CEE (5)."
+  },
+  "060fcfc64d493669": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Os Estados-membros adoptarão e publicarão as disposições necessárias para dar cumprimento à presente directiva o mais tardar em 14 de Dezembro de 1994. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\nA partir da data referida no primeiro parágrafo, os Estados-membros não podem proibir, por razões relacionadas com o dispositivo de retenção para os passageiros, a primeira entrada em circulação dos veículos conformes com a presente directiva.\n\nOs Estados-membros aplicarão as disposições referidas no primeiro parágrafo a partir de 14 de Junho de 1995.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva."
+  },
+  "0587d41089d61485": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 14 de Junho de 1993.\n\nPelo Conselho\n\nO Presidente\n\nJ. TROEJBORG\n\n(1) JO no L 225 de 10. 8. 1992, p. 72.(2) JO no C 293 de 9. 11. 1992, p. 49.(3) JO no C 337 de 21. 12. 1992, p. 103, e JO no C 150 de 31. 5. 1993.(4) JO no C 73 de 15. 3. 1993, p. 22.(5) JO no L 42 de 23. 2. 1970, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 92/53/CEE (JO no L 225 de 10. 8. 1992, p. 1)."
+  },
+  "82c2568ad89a7218": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n1. PRESCRIÇÕES GERAIS\n\nNo caso de estar previsto o transporte de um passageiro, o veículo deve estar equipado com um sistema de retenção para o passageiro. Este sistema deve ser realizado por meio de uma precinta ou uma pega (ou pegas).\n\n1.1. Precinta\n\nA precinta deve ser montada no selim, de modo que possa ser facilmente utilizada pelo passageiro. A precinta e a sua fixação devem ser concebidas de modo tal que possam suportar, sem rotura, um esforço de tracção vertical de 2 000 N aplicado de modo estático ao centro da superfície da precinta com uma pressão máxima de 2 MPa.\n\n1.2. Pega\n\nSe se utilizar uma pega, deve ser montada na proximidade do selim e simetricamente em relação ao plano longitudinal médio do veículo.\n\nEsta pega deve ser concebida de modo tal que possa suportar, sem rotura, um esforço de tracção vertical de 2 000 N aplicado de modo estático ao centro da superfície da pega com uma pressão máxima de 2 MPa.\n\nSe se utilizarem duas pegas, devem ser montadas uma de cada lado e simetricamente.\n\nEstas pegas devem ser concebidas de modo tal que cada uma delas possa suportar, sem rotura, um esforço de tracção vertical de 1 000 N aplicado de modo estático ao centro da superfície da pega com uma pressão máxima de 1 MPa.\n\nApêndice 1 Ficha de informações no que diz respeito aos dispositivos de retenção para os passageiros de um modelo de veículo a motor de duas rodas\n\n(a juntar ao pedido de homologação, no caso de ser apresentado independentemente do pedido de recepção do veículo)\n\nNúmero de ordem (atribuído pelo requerente):.\n\nO pedido de homologação, no que diz respeito aos dispositivos de retenção para os passageiros de um modelo de veículo a motor de duas rodas, deve ser acompanhado das informações que figuram no anexo II da Directiva 92/61/CEE:\n\n- secção A, nos pontos:\n\n- 0.1,\n\n- 0.2,\n\n- 0.4 a 0.6;\n\n- secção B, nos pontos:\n\n- 1.5 a 1.5.2.\n\nApêndice 2 Indicação da administração\n\nCertificado de homologação no que diz respeito aos dispositivos de retenção para os passageiros de um modelo de veículo a motor de duas rodas\n\nMODELO\n\nRelatório no. do serviço técnico. em......... de......... de........\n\nNúmero da homologação:. Número da extensão:.\n\n1. Marca de fábrica ou denominação comercial do veículo:.\n\n2. Modelo do veículo:.\n\n3. Nome e morada do fabricante:.\n\n.\n\n4. Nome e morada do eventual mandatário:.\n\n.\n\n5. Veículo apresentado ao ensaio em:.\n\n6. A homologação é concedida/recusada (1).\n\n7. Local:.\n\n8. Data:.\n\n9. Assinatura:.\n\n(1) Riscar o que não interessa."
+  },
+  "4d8a34bd0cc51362": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993L0032 — PT — 01.01.2010 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31993L0032) [DIRECTIVA 93/32/CEE DO CONSELHO](http://publications.europa.eu/resource/celex/31993L0032) [de 14 de Junho de 1993](http://publications.europa.eu/resource/celex/31993L0032) [relativa ao dispositivo de retenção para os passageiros dos veículos a motor de duas rodas](http://publications.europa.eu/resource/celex/31993L0032) (JO L 188, 29.7.1993, p.28)\n\n**revogado por:**\n\n- [Directiva 2009/79/CE do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009L0079) — L 201 — 29 — 1.8.2009"
+  }
+ }
+}

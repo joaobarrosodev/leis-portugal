@@ -1,0 +1,191 @@
+---
+schema_version: '1.0'
+id: pt:dre:265707:por
+title: Decreto Regulamentar n.º 30-B/98
+short_title: null
+summary: Altera as escalas indiciárias das carreiras do pessoal dos serviços gerais, em consonância com os termos do diploma
+  que procede à revisão do regime de carreiras
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 30-B/98
+official_date: null
+publication_date: '1998-12-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 301/1998, 1º Suplemento, Série I-B de 1998-12-31
+  number: '301'
+  series: I
+  supplement: null
+  pages: 7384-(4) a 7384-(5)
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/12/301b01/00040005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/30-b/1998/12/31/p/dre/pt/html
+  oj: null
+  dre: '265707'
+  dre_path: /dr/detalhe/decreto-regulamentar/30-b-1998-265707
+  internal: pt:dre:265707:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-b-1998-265707
+  metadata_url: https://data.dre.pt/eli/decregul/30-b/1998/12/31/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-b-1998-265707
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:25:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7f983abc7f6f81af00c3f67d80eaf5ba12181d01095b6f88017dc0a56070d706
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:31Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Pública
+- Aposentação
+- Carreira Profissional
+- Centro de Saúde
+- Estabelecimento Hospitalar
+- Função Pública
+- Funcionário Público
+- Integração de Trabalhadores
+- Lisboa
+- Ministério da Saúde
+- Mobilidade de Pessoal
+- Pessoal Auxiliar
+- Pessoal de Chefia
+- Promoção Profissional
+- Reestruturação de Carreiras
+- Remuneração
+- Santa Casa da Misericórdia
+- Sistema Retributivo
+- Tabela Salarial
+relationships:
+- type: amended_by
+  target: pt:dre:453254:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:667145:por
+  label: "Alteradas as escalas indiciárias aprovadas pelo Dec Lei 231/92 de 21-Out, na redacção do presente diploma, pelo\
+    \ DEC LEI.413/99.1999.10.15.MS, DR.IS-A [241], de acordo com as do seu Anexo I\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/413-1999-667145
+  date: '1999-10-15'
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
+- type: cites
+  target: pt:dre:221359:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/231/1992/10/21/p/dre
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:456561:por
+  label: "Revogado, a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP,\
+    \ DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:25:31Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 30-B/98
+
+de 31 de Dezembro
+
+A revisão da regulamentação das carreiras da Administração Pública consta de diploma próprio, nele se prevendo que os seus princípios enformadores sejam tornados extensivos às carreiras e categorias com designações específicas cujo desenvolvimento se aproxime significativamente do que corresponde às do regime geral.
+
+Encontram-se nesta situação as carreiras profissionais do pessoal dos serviços gerais dos estabelecimentos e serviços dependentes do Ministério da Saúde, integradas no novo sistema retributivo pelo [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, a que se refere o seu anexo n.º 4, e com o novo elenco definido pelo [Decreto-Lei n.º 231/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1992-221359), de 21 de Outubro, conforme o respectivo anexo I.
+
+O presente diploma visa, assim, proceder aos ajustamentos salariais necessários, decorrentes do processo de revisão de carreiras do regime geral.
+
+Foram ouvidas as organizações representativas dos trabalhadores.
+
+Assim:
+
+Ao abrigo do disposto no n.º 2 do artigo 17.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto e âmbito
+
+1 - As escalas salariais das carreiras do pessoal dos serviços gerais dos estabelecimentos e serviços dependentes do Ministério da Saúde previstas no [Decreto-Lei n.º 231/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1992-221359), de 21 de Outubro, e no anexo n.º 4 ao [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, passam a ser as constantes do anexo ao presente diploma, do qual faz parte integrante.
+
+2 - O presente diploma aplica-se à Santa Casa da Misericórdia de Lisboa, relativamente ao pessoal dos estabelecimentos e serviços da área da saúde que optou pela manutenção no regime da função pública.
+
+###### Artigo 2.º — Intercomunicabilidade
+
+Os funcionários integrados nas carreiras referidas no artigo anterior podem ser opositores a concurso para a categoria de operário da carreira de pessoal operário semiqualificado, nos termos fixados para as carreiras de pessoal auxiliar do regime geral.
+
+###### Artigo 3.º — Transição
+
+1 - A transição do pessoal a que se refere o artigo 1.º para novas escalas faz-se na mesma carreira e categoria, para escalão a que corresponda na estrutura da categoria índice remuneratório igual ou, se não houver coincidência, índice superior mais aproximado.
+
+2 - O tempo de permanência no índice de origem releva para efeitos de progressão na nova escala indiciária.
+
+3 - Os funcionários e agentes que tenham mudado de categoria ou escalão a partir de 1 de Janeiro de 1998 transitam para a nova escala salarial de acordo com a categoria e escalão de que eram titulares àquela data, sem prejuízo do reposicionamento decorrente das alterações subsequentes de acordo com as regras aplicáveis.
+
+4 - À transição a que se referem os números anteriores é aplicável o disposto no artigo 21.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, no caso de na sua aplicação se verificarem situações análogas às nele previstas.
+
+###### Artigo 4.º — Concursos pendentes
+
+Mantêm-se em vigor os concursos cujos avisos de abertura se encontrem publicados até à data da publicação do presente diploma, observando-se, se for caso disso, as regras constantes do artigo 30.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro.
+
+###### Artigo 5.º — Produção de efeitos
+
+1 - O presente diploma produz efeitos a partir de 1 de Janeiro de 1998.
+
+2 - Os funcionários e agentes que se aposentem durante o ano de 1998 terão a sua pensão de aposentação calculada com base no índice que couber ao escalão em que ficarem posicionados.
+
+Presidência do Conselho de Ministros, 3 de Dezembro de 1998.
+
+António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Maria de Belém Roseira Martins Coelho Henriques de Pina.
+
+Promulgado em 29 de Dezembro de 1998.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 30 de Dezembro de 1998.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/12/301b01/00040005.pdf)

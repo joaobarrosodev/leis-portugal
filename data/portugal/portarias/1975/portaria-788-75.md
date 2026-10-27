@@ -1,0 +1,211 @@
+---
+schema_version: '1.0'
+id: pt:dre:355283:por
+title: Portaria n.º 788/75
+short_title: null
+summary: Define o regime a que se sujeita a comercialização do azeite e dos óleos directamente comestíveis
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Comércio Interno - Secretaria de Estado do Abastecimento e Preços
+proposing_entity: null
+official_number: 788/75
+official_date: null
+publication_date: '1975-12-31'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 300/1975, 2º Suplemento, Série I de 1975-12-31
+  number: '300'
+  series: I
+  supplement: null
+  pages: 2160-(14) a 2160-(15)
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/12/30002/00140015.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '355283'
+  dre_path: /dr/detalhe/portaria/788-1975-355283
+  internal: pt:dre:355283:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/788-1975-355283
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/788-1975-355283
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:55:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e3ba4fda7b33dd6d0ba4403a0284b47d51934c92cdb0bd33bfd87ce2f98ee386
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:55:23Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Azeite
+- Comércio
+- ÓLEO Comestivel
+relationships:
+- type: amended_by
+  target: pt:dre:407565:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:238645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564839:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:407565:por
+  label: "Revogada pela PORT.767/76.27.12.1976.MCT, DR.IS [299] de 27.12.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/767-1976-407565
+  date: '1976-12-27'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:55:23Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 788/75
+
+de 31 de Dezembro
+
+A previsão de um excesso de produção de azeite na corrente campanha relativamente à procura do consumo no mercado interno, aliada às dificuldades de exportação por virtude dos elevados custos de produção no nosso país comparativamente aos de outros países produtores, exigia que fosse estudado o contexto do consumo de gorduras de origem vegetal, com vista a facilitar quanto possível o escoamento interno para o consumo do azeite, produto integralmente nacional, e evitar, por medida salutar indispensável, o dispêndio de divisas que a importação de sementes oleaginosas acarreta.
+
+Estando, muito embora, em curso estudos que visam a reestruturação dos meios de produção básicos das gorduras alimentares de origem vegetal, torna-se neste momento indispensável definir, com vista à campanha de 1975-1976, o regime a que se sujeita a comercialização do azeite e dos óleos directamente comestíveis, o que dará a todas as actividades interessadas o conhecimento das disposições que deverão observar.
+
+Nestes termos:
+
+Ao abrigo do disposto no artigo 35.º do [Decreto-Lei n.º 46257](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46257-1965-238645), de 19 de Março de 1965:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Abastecimento e Preços, o seguinte:
+
+1.º As entidades que explorem lagares de azeite são obrigadas:
+
+a) A preencher com regularidade o livro de registo do trabalho diário e a remeter à delegação do Instituto do Azeite e Produtos Oleaginosos, ou à sede deste organismo, quanto aos lagares situados nos distritos de Faro, Setúbal e Lisboa, o manifesto estatístico e o verbete de pessoal;
+
+b) A comunicar à delegação do Instituto do Azeite e Produtos Oleaginosos, ou à sede deste organismo, quanto aos lagares situados nos distritos de Faro, Setúbal e Lisboa, a data da abertura e a de encerramento dos lagares;
+
+c) A remeter, nos dias 1 a 16 de cada mês, à delegação do Instituto do Azeite e Produtos Oleaginosos, ou à sede deste organismo, quanto aos lagares situados nos distritos de Faro, Setúbal e Lisboa, um duplicado da cédula de fabrico, de modelo a fornecer pelo referido Instituto, com a indicação da quantidade total de azeite fabricado durante a quinzena anterior.
+
+2.º Os produtores de óleos directamente comestíveis são obrigados a enviar mensalmente ao Instituto do Azeite e Produtos Oleaginosos uma relação, nos termos prescritos por este organismo, onde se discriminem as quantidades de matérias-primas existentes, adquiridas e elaboradas e as quantidades de óleos e subprodutos existentes, obtidos e vendidos e os respectivos adquirentes.
+
+3.º Os refinadores de azeite e de óleos directamente comestíveis são obrigados a enviar mensalmente ao Instituto do Azeite e Produtos Oleaginosos, nos termos prescritos por este organismo, uma relação onde se discriminem as quantidades de azeite virgem, óleos crus e misturas destes (com indicação dos componentes e respectivos quantitativos) e subprodutos existentes, adquiridos, produzidos e vendidos e os respectivos adquirentes.
+
+4.º Os armazenistas, exportadores e outras entidades que procedem à embalagem de azeite e de óleos directamente comestíveis são obrigados a enviar mensalmente ao Instituto do Azeite e Produtos Oleaginosos, nos termos prescritos por este organismo, uma relação onde se discriminem as quantidades de azeite, óleos e misturas destes - óleo alimentar (com indicação dos componentes e respectivos quantitativos) - existentes, adquiridos, recebidos por transferidos, exportados e vendidos, a granel e embalados.
+
+5.º O Instituto Português de Conservas de Peixe informará mensalmente o Instituto do Azeite e Produtos Oleaginosos das quantidades de molhos existentes nas fábricas de conservas e por estas utilizados.
+
+6.º - 1. Só é permitida a compra a granel de azeite, de óleos directamente comestíveis e das misturas destes óleos a armazenistas, a entidades aos mesmos equiparadas, a exportadores, a refinadores e a industriais de margarinas e de conservas e de acordo com o estipulado no n.º 7.º, 4.
+
+2. Por despacho do Secretário de Estado do Abastecimento e Preços poderá ser autorizada a compra a granel a outras entidades além das previstas neste número.
+
+3. Os retalhistas poderão abastecer-se directamente na produção desde que o produto esteja devidamente embalado.
+
+7.º - 1. A venda de azeite a retalhistas, a entidades aos mesmos equiparadas e a consumidores apenas poderá efectuar-se nos tipos comerciais extra e fino.
+
+2. Se circunstâncias especiais o exigirem, poderá, por despacho do Secretário de Estado do Abastecimento e Preços, ser autorizada a venda do tipo comercial corrente.
+
+3. É proibida a mistura de azeite com qualquer óleo.
+
+4. Nos armazéns e estabelecimentos industriais autorizados a proceder a quaisquer operações com azeite ou com óleos não é permitida a existência simultânea daquele e destes e dos respectivos subprodutos.
+
+5. Nas fábricas de extracção e de refinação de óleo de soja não poderá existir, simultaneamente, outro óleo cru ou refinado.
+
+8.º - 1. A venda de azeite, de óleos directamente comestíveis e de misturas destes - óleo alimentar - a retalhistas, entidades equiparadas e consumidores só poderá efectuar-se em embalagens invioláveis que obedeçam às condições estabelecidas nos artigos 27.º e 28.º e seus parágrafos do [Decreto-Lei n.º 46257](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46257-1965-238645), de 19 de Março de 1965.
+
+2. Não é permitido o acondicionamento em embalagens recuperáveis.
+
+3. Para efeitos do disposto em 1 deste número, apenas são permitidas, além das embalagens individuais, embalagens com capacidade de 0,25 l, 0,50 l, 1 l, 2,5 l e, ainda, múltiplos de litro até 5 l, com exclusão do óleo de soja, em que só podem ser utilizadas embalagens de 1 l.
+
+4. Em casos especiais e quando as circunstâncias o justifiquem, poderão, por despacho do Secretário de Estado do Abastecimento e Preços, ser permitidas embalagens de capacidade superior às indicadas no número anterior.
+
+5. Sempre que as circunstâncias o exijam, poderá, por despacho do Secretário de Estado do Abastecimento e Preços, ser imposta às entidades que procedem à preparação de óleo alimentar a obrigatoriedade da inclusão, na composição deste, de determinadas percentagens de óleos nacionais a designar.
+
+9.º - 1. Os recipientes destinados ao acondicionamento de azeite, de óleos directamente comestíveis e das misturas destes - óleo alimentar -, bem como os respectivos rótulos e cápsulas, ficam sujeitos à aprovação do Instituto do Azeite e Produtos Oleaginosos sempre que sofram alteração.
+
+2. A aprovação das embalagens sob o ponto de vista sanitário compete à Direcção-Geral de Saúde.
+
+3. Para cumprimento do disposto em 2 do presente número deverão as entidades que procedam à embalagem de azeite, dos óleos directamente comestíveis e das misturas destes - óleo alimentar - exigir dos fornecedores das embalagens que indiquem nas respectivas facturas de venda que as mesmas são próprias para o fim a que se destinam e, bem assim, que mencionem o número e data do ofício da Direcção-Geral de Saúde relativos à referida aprovação.
+
+4. Dos rótulos das embalagens devem constar, de forma bem legível, os preços de venda ao público.
+
+5. Dos rótulos das embalagens que acondicionem azeite devem constar a acidez máxima permitida para o tipo respectivo e a palavra «virgem» quando acondicionem tipos comerciais preparados exclusivamente com azeite virgem.
+
+10.º É proibido aos vendedores ambulantes possuírem, transportarem ou venderem azeite, óleos directamente comestíveis e misturas destes - óleo alimentar - em embalagens de capacidade superior a 1 l.
+
+11.º O Instituto do Azeite e Produtos Oleaginosos poderá proceder à venda de azeite e óleos embalados a retalhistas e similares.
+
+12.º Se as circunstâncias o aconselharem, poderá, por despacho do Secretário de Estado do Abastecimento e Preços, ser imposta a constituição e manutenção de existências mínimas de azeite e de óleos comestíveis em poder dos produtores destes últimos, dos refinadores e das entidades que procedem à embalagem destes produtos.
+
+13.º As exportações que impliquem embalagens de capacidade superior a 5 kg líquidos ficam dependentes de autorização prévia do Instituto do Azeite e Produtos Oleaginosos, com excepção dos casos considerados como complemento de bagagem, quando o produto acompanha o viajante, e até ao limite de 30 kg.
+
+14.º - 1. Só é permitida a exportação, através do comércio, de azeite dos tipos extra e fino.
+
+2. Quando tal se justifique e desde que não resulte prejuízo para a reputação do produto no país importador, o Instituto do Azeite e Produtos Oleaginosos poderá autorizar a exportação de azeites que não reúnam as características dos tipos comerciais extra ou fino.
+
+15.º A exportação de azeite, qualquer que seja o regime, será regulada pelo Instituto do Azeite e Produtos Oleaginosos.
+
+16.º A venda de óleos directamente comestíveis que não satisfaçam as características para eles fixadas só pode ser feita a refinadores e outros industriais que, no exercício da sua actividade, os utilizem no estado em que forem adquiridos, transitando o produto sob selos do expedidor e acompanhado de documentação que permita identificar as partidas e os destinatários.
+
+17.º De harmonia com o artigo 8.º do [Decreto-Lei n.º 38801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38801-1952-564839), de 25 de Junho de 1952, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 48454](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48454-1968-272027), de 25 de Julho de 1968, é obrigatória a conformidade com as normas portuguesas de análise e com as de definição, classificação e características do azeite e dos óleos comestíveis.
+
+18.º - 1. As infracções ao disposto na presente portaria serão punidas pela forma estabelecida nos Decretos-Leis n.os 41204, de 24 de Julho de 1957, e 46257, de 19 de Março de 1965.
+
+2. As entidades que utilizarem recipientes já usados ou servidos para engarrafamento de azeite e óleos comestíveis destinados a comércio e consumo público serão punidas com a pena prevista no artigo 43.º do [Decreto-Lei n.º 46257](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46257-1965-238645), de 19 de Março de 1965.
+
+3. Os vendedores ambulantes que possuírem, transportarem ou venderem azeite, óleos directamente comestíveis e misturas destes - óleo alimentar - em embalagens de capacidade superior a 1 l serão punidos com a multa de 5000$00 a 10000$00.
+
+4. Com a pena prevista no n.º 3 serão igualmente punidos os armazenistas em relação aos quais se tenha provado o fornecimento das embalagens no mesmo referidas.
+
+19.º O Instituto do Azeite e Produtos Oleaginosos coordenará todas as actividades que intervenham no ciclo da produção do azeite e dos óleos comestíveis e expedirá as instruções necessárias à execução do disposto na presente portaria.
+
+20.º As dúvidas que se suscitarem na interpretação desta portaria serão resolvidas por despacho do Secretário de Estado do Abastecimento e Preços.
+
+21.º Fica revogada a [Portaria n.º 704/74](https://diariodarepublica.pt/dr/detalhe/portaria/704-1974-471316), de 21 de Outubro.
+
+22.º Esta portaria entra imediatamente em vigor.
+
+Secretaria de Estado do Abastecimento e Preços, 12 de Dezembro de 1975. - O Secretário de Estado do Abastecimento e Preços, Mário Martins Baptista.

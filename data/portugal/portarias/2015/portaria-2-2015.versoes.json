@@ -1,0 +1,167 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:66041392:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-122202604",
+ "dre_path": "/dr/detalhe/portaria/2-2015-66041392",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-01-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122178329",
+    "122178330",
+    "122178331",
+    "122178332",
+    "122178333",
+    "122178334",
+    "122178335",
+    "122178336",
+    "122178337"
+   ]
+  },
+  {
+   "date": "2020-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122202594:por",
+     "title": "Portaria n.º 126/2019",
+     "published": "2019-05-02",
+     "dre_path": "/dr/detalhe/portaria/126-2019-122202594"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "122178329",
+    "122178330",
+    "122178344",
+    "122178332",
+    "122178333",
+    "122178345",
+    "122178346",
+    "122178336",
+    "122178337",
+    "122178338"
+   ]
+  }
+ ],
+ "fragments": {
+  "122178329": {
+   "fragment_id": "122202605",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 2/2015\n\nde 6 de janeiro\n\nO Decreto-Lei n.º 198/2012, de 24 de agosto, introduziu medidas de controlo da emissão e transmissão de faturas e outros documentos com relevância fiscal, tendo em vista, designadamente, o reforço do combate à economia paralela e à fraude e evasão fiscais.\n\nAtendendo à necessidade de reforçar a eficácia dos instrumentos atualmente disponíveis à Autoridade Tributária e Aduaneira (AT) para a prossecução daqueles objetivos, a Lei n.º 82-B/2014, de 31 dezembro, que aprova o Orçamento do Estado para o ano de 2015, introduziu alterações ao Decreto-Lei n.º 198/2012, de 24 de agosto, estabelecendo a obrigatoriedade de comunicação dos inventários à AT pelas pessoas, singulares ou coletivas, que tenham sede, estabelecimento estável ou domicílio fiscal em território português, que disponham de contabilidade organizada e que, nos termos das normas contabilísticas em vigor, estejam obrigadas à elaboração de inventário.\n\nA obrigação de comunicação dos inventários visa proporcionar à AT uma informação fidedigna relativamente às quantidades dos bens existentes em inventário, de forma a permitir o controlo dos custos dos bens vendidos e consumidos e do resultado obtido no final de cada exercício económico pelos sujeitos passivos, relevante para efeitos da determinação do respetivo lucro tributável.\n\nNos termos do artigo 3.º-A do Decreto-Lei n.º 198/2012, de 24 de agosto, a comunicação dos inventários é efetuada por transmissão eletrónica de dados através de ficheiro com características e estrutura a definir por portaria do membro do Governo responsável pela área das finanças.\n\nA presente portaria aprova a estrutura e características do ficheiro para comunicação dos inventários pelos sujeitos passivos à AT, tendo em consideração a necessidade de simplificação do sistema e de não oneração dos sujeitos passivos abrangidos por esta obrigação com custos adicionais em desenvolvimentos informáticos.\n\nAssim:\n\nManda o Governo, pela Ministra de Estado e das Finanças, ao abrigo do disposto no n.º 1 do artigo 3.º-A do Decreto-Lei n.º 198/2012, de 24 de agosto, o seguinte:"
+  },
+  "122178330": {
+   "fragment_id": "122202606",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria define as características e estrutura do ficheiro através do qual deve ser efetuada à Autoridade Tributária e Aduaneira (AT) a comunicação a que se refere o artigo 3.º-A do Decreto-Lei n.º 198/2012, de 24 de agosto."
+  },
+  "122178331": {
+   "fragment_id": "122202607",
+   "type": 11,
+   "heading": "Artigo 2.º — Tabela de Inventário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Tabela de Inventário\n\n1 - O ficheiro a que se refere o artigo anterior deve conter uma tabela de inventário, com identificação de cada produto, obedecendo à seguinte estrutura de informação:\n\n(ver documento original)\n\n2 - Na comunicação do inventário, os sujeitos passivos devem obrigatoriamente:\n\na) identificar o seu número de identificação fiscal;\n\nb) indicar o período de tributação a que se refere o inventário, nos termos do disposto no Código do IRC, nos casos previstos no n.º 2 do artigo 3.º-A do Decreto-Lei n.º 198/2012, de 24 de agosto;\n\nc) indicar a data de referência do inventário objeto de comunicação, a qual deve corresponder ao fim do período de tributação;\n\nd) declarar que não têm inventários no fim do período de tributação, quando aplicável, nos termos do artigo seguinte."
+  },
+  "122178332": {
+   "fragment_id": "122202608",
+   "type": 11,
+   "heading": "Artigo 3.º — Sujeitos passivos sem inventários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sujeitos passivos sem inventários\n\nOs sujeitos passivos a que se refere o artigo 3.º-A do Decreto-Lei n.º 198/2012, de 24 de agosto, que no final do período de tributação não tenham inventários devem comunicar esse facto à AT, através Portal das Finanças, nos prazos referidos nos n.os 1 e 2 do mesmo artigo."
+  },
+  "122178333": {
+   "fragment_id": "122202609",
+   "type": 11,
+   "heading": "Artigo 4.º — Formato de ficheiro para comunicação dos inventários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Formato de ficheiro para comunicação dos inventários\n\nA comunicação dos inventários é efetuada, através do envio, no Portal das Finanças, de um ficheiro, que poderá assumir um dos seguintes formatos:\n\na) Formato de texto;\n\nb) Formato XML."
+  },
+  "122178334": {
+   "fragment_id": "122202610",
+   "type": 11,
+   "heading": "Artigo 5.º — Formato de ficheiro de texto para comunicação dos inventários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Formato de ficheiro de texto para comunicação dos inventários\n\n1 - O ficheiro com o formato de texto é elaborado de acordo com as seguintes regras:\n\na) A primeira linha é composta pelos nomes dos campos a que se refere o n.º 1 do artigo 2.º, seguindo a ordem aí indicada - ProductCategory;ProductCode;ProductDescription;ProductNumberCode;ClosingStockQu antity;UnitOfMeasure\n\nb) As restantes linhas devem identificar os produtos constantes do inventário, obedecendo à ordem dos nomes dos campos referida na alínea a anterior;\n\nc) O caractere \";\" (ponto e vírgula) deve ser utilizado como separador dos campos;\n\nd) O caractere \",\" (vírgula) deve ser utilizado como separador decimal.\n\n2 - Nos casos previstos no presente artigo, os elementos referidos no n.º 2 do artigo 2.º são comunicados de acordo com os requisitos constantes da funcionalidade disponibilizada no Portal das Finanças."
+  },
+  "122178335": {
+   "fragment_id": "122202611",
+   "type": 11,
+   "heading": "Artigo 6.º — Formato de ficheiro XML para comunicação dos inventários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Formato de ficheiro XML para comunicação dos inventários\n\n1 - O ficheiro com formato XML deve conter as seguintes tabelas:\n\na) Cabeçalho (StockHeader), com identificação dos elementos previstos no n.º 2 do artigo 2.º;\n\nb) Tabela de Inventário (Stock), nos termos previstos no n.º 1 do artigo 2.º\n\n2 - O ficheiro com formato XML deve respeitar o esquema de validações \"Stock_1_2.xsd\", disponível no Portal das Finanças."
+  },
+  "122178336": {
+   "fragment_id": "122202612",
+   "type": 11,
+   "heading": "Artigo 7.º — Instruções e especificações técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Instruções e especificações técnicas\n\nA AT disponibiliza no Portal das Finanças as instruções e especificações técnicas, para cumprimento das obrigações de preenchimento e comunicação do ficheiro previstas no presente diploma."
+  },
+  "122178337": {
+   "fragment_id": "122202613",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "122178344": {
+   "fragment_id": "122202607",
+   "type": 11,
+   "heading": "Artigo 2.º — Tabela de Inventário",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 126/2019 - Diário da República n.º 84/2019, Série I de 2019-05-02](https://diariodarepublica.pt/dr/detalhe/portaria/126-2019-122202594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Tabela de Inventário\n\n1 - O ficheiro a que se refere o artigo anterior deve conter uma tabela de inventário, com identificação e valorização total de cada produto, obedecendo à seguinte estrutura de informação:\n\n(ver documento original)\n\n2 - Na comunicação do inventário, os sujeitos passivos devem obrigatoriamente:\n\na) identificar o seu número de identificação fiscal;\n\nb) indicar o período de tributação a que se refere o inventário, nos termos do disposto no Código do IRC, nos casos previstos no n.º 2 do artigo 3.º-A do Decreto-Lei n.º 198/2012, de 24 de agosto;\n\nc) indicar a data de referência do inventário objeto de comunicação, a qual deve corresponder ao fim do período de tributação;\n\nd) declarar que não têm inventários no fim do período de tributação, quando aplicável, nos termos do artigo seguinte.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 126/2019 - Diário da República n.º 84/2019, Série I de 2019-05-02](https://diariodarepublica.pt/dr/detalhe/portaria/126-2019-122202594), em vigor a partir de 2020-01-01"
+  },
+  "122178345": {
+   "fragment_id": "122202610",
+   "type": 11,
+   "heading": "Artigo 5.º — Formato de ficheiro de texto para comunicação dos inventários",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 126/2019 - Diário da República n.º 84/2019, Série I de 2019-05-02](https://diariodarepublica.pt/dr/detalhe/portaria/126-2019-122202594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Formato de ficheiro de texto para comunicação dos inventários\n\n1 - O ficheiro com o formato de texto é elaborado de acordo com as seguintes regras:\n\na) A primeira linha é composta pelos nomes dos campos a que se refere o n.º 1 do artigo 2.º, seguindo a ordem aí indicada - ProductCategory; ProductCode; ProductDescription; ProductNumberCode; ClosingStockQuantity; UnitOfMeasure; ClosingStockValue.\n\nb) As restantes linhas devem identificar os produtos constantes do inventário, obedecendo à ordem dos nomes dos campos referida na alínea a anterior;\n\nc) O caractere \";\" (ponto e vírgula) deve ser utilizado como separador dos campos;\n\nd) O caractere \",\" (vírgula) deve ser utilizado como separador decimal.\n\n2 - Nos casos previstos no presente artigo, os elementos referidos no n.º 2 do artigo 2.º são comunicados de acordo com os requisitos constantes da funcionalidade disponibilizada no Portal das Finanças.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 126/2019 - Diário da República n.º 84/2019, Série I de 2019-05-02](https://diariodarepublica.pt/dr/detalhe/portaria/126-2019-122202594), em vigor a partir de 2020-01-01"
+  },
+  "122178346": {
+   "fragment_id": "122202611",
+   "type": 11,
+   "heading": "Artigo 6.º — Formato de ficheiro XML para comunicação dos inventários",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 126/2019 - Diário da República n.º 84/2019, Série I de 2019-05-02](https://diariodarepublica.pt/dr/detalhe/portaria/126-2019-122202594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Formato de ficheiro XML para comunicação dos inventários\n\n1 - O ficheiro com formato XML deve conter as seguintes tabelas:\n\na) Cabeçalho (StockHeader), com identificação dos elementos previstos no n.º 2 do artigo 2.º;\n\nb) Tabela de Inventário (Stock), nos termos previstos no n.º 1 do artigo 2.º\n\n2 - O ficheiro com formato XML deve respeitar o esquema de validação do ficheiro em formato xsd, disponível no Portal das Finanças.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 126/2019 - Diário da República n.º 84/2019, Série I de 2019-05-02](https://diariodarepublica.pt/dr/detalhe/portaria/126-2019-122202594), em vigor a partir de 2020-01-01"
+  },
+  "122178338": {
+   "fragment_id": "122202614",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pela Ministra de Estado e das Finanças, Hélder Manuel Gomes dos Reis, Secretário de Estado Adjunto e do Orçamento, em substituição, em 2 de janeiro de 2015."
+  }
+ }
+}

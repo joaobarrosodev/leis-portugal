@@ -1,0 +1,473 @@
+---
+schema_version: '1.0'
+id: pt:dre:131228426:por
+title: Decreto-Lei n.º 14-C/2020
+short_title: null
+summary: Estabelece a definição de procedimentos de atribuição de financiamento e compensações aos operadores de transportes
+  essenciais, no âmbito da pandemia COVID-19
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Ambiente e Ação Climática
+official_number: 14-C/2020
+official_date: null
+publication_date: '2020-04-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 69/2020, 1º Suplemento, Série I de 2020-04-07
+  number: '69'
+  series: I
+  supplement: 1º Suplemento
+  pages: 11-(7) a 11-(10)
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/04/06901/0000700010.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: partially_in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-12-31'
+version_history:
+  file: decreto-lei-14-c-2020.versoes.json
+  count: 7
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2020-04-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-07-17'
+    amending: pt:dre:138217278:por
+    amending_title: Decreto-Lei n.º 39-A/2020
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+  - date: '2020-12-31'
+    amending: pt:dre:152639825:por
+    amending_title: Lei n.º 75-B/2020; Decreto-Lei n.º 106-A/2020
+    changes:
+    - Altera Artigo 3.º
+    - Adita Artigo 4.º-A
+  - date: '2021-01-16'
+    amending: pt:dre:154202309:por
+    amending_title: Decreto-Lei n.º 6-B/2021
+    changes:
+    - Adita Artigo 6.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+  - date: '2021-06-01'
+    amending: pt:dre:164258743:por
+    amending_title: Decreto-Lei n.º 39/2021
+    changes:
+    - Altera Artigo 6.º
+  - date: '2021-11-28'
+    amending: pt:dre:175043500:por
+    amending_title: Decreto-Lei n.º 104/2021
+    changes:
+    - Adita Artigo 6.º-B
+    - Adita Artigo 6.º-C
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+  - date: '2022-12-31'
+    amending: pt:dre:205493446:por
+    amending_title: Decreto-Lei n.º 89/2022
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º-B
+    - Altera Artigo 6.º-C
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/14-c/2020/p/cons/20220630/pt/html
+  oj: null
+  dre: '131228426'
+  dre_path: /dr/detalhe/decreto-lei/14-c-2020-131228426
+  internal: pt:dre:131228426:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-c-2020-131228426
+  metadata_url: https://data.dre.pt/eli/dec-lei/14-c/2020/p/cons/20220630/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-138217615
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-138217615
+  retrieved_at: '2026-10-22T12:33:44Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: da9a3c5daab3889591e0fe5ed1b51556839f4ed7a113d792b5662c2fb8fbf600
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:33:44Z'
+  notes: 7 versão(ões); histórico completo em decreto-lei-14-c-2020.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Compensação Financeira
+- Definição de Competências
+- Estado de Emergência
+- Informação
+- Operador Económico
+- Passe Social
+- Doença Infecciosa
+- Epidemia
+- Prazo
+- Prestação de Serviços
+- Transporte de Passageiros
+- Transporte Público
+- Autoridade da Mobilidade e dos Transportes
+- Passe Jovem
+- Programa de Apoio à Redução Tarifária
+- Programa de Apoio à Densificação e Reforço da Oferta de Transporte Público
+relationships:
+- type: amended_by
+  target: pt:dre:138217278:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-a-2020-138217278
+  date: '2020-07-16'
+- type: amended_by
+  target: pt:dre:152639821:por
+  label: Altera Artigo 3.º; Adita Artigo 4.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821
+  date: '2020-12-30'
+- type: amended_by
+  target: pt:dre:152639825:por
+  label: Altera Artigo 3.º; Adita Artigo 4.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825
+  date: '2020-12-31'
+- type: amended_by
+  target: pt:dre:154202309:por
+  label: Adita Artigo 6.º-A; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-b-2021-154202309
+  date: '2021-01-15'
+- type: amended_by
+  target: pt:dre:164258743:por
+  label: Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2021-164258743
+  date: '2021-05-31'
+- type: amended_by
+  target: pt:dre:175043500:por
+  label: Adita Artigo 6.º-B; Adita Artigo 6.º-C; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500
+  date: '2021-11-27'
+- type: amended_by
+  target: pt:dre:205493446:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º-B; Altera Artigo 6.º-C
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2022-205493446
+  date: '2022-12-30'
+- type: cites
+  target: pt:dre:127764896:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/1-a/2020/01/03/p/dre
+- type: cites
+  target: pt:dre:130399862:por
+  label: null
+  source: http://data.dre.pt/eli/decpresrep/14-a/2020/03/18/p/dre
+- type: cites
+  target: pt:dre:130473161:por
+  label: null
+  source: http://data.dre.pt/eli/dec/2-a/2020/03/20/p/dre
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: http://data.dre.pt/eli/lei/2/2020/03/31/p/dre
+- type: cites
+  target: pt:dre:452234:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/186/2008/09/19/p/dre
+- type: cites
+  target: pt:dre:488484:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/203/2009/08/31/p/dre
+- type: cites
+  target: pt:dre:671036:por
+  label: null
+  source: http://data.dre.pt/eli/port/272/2011/09/23/p/dre
+- type: cites
+  target: pt:dre:67442930:por
+  label: null
+  source: http://data.dre.pt/eli/lei/52/2015/06/09/p/dre
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:33:44Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 14-C/2020
+
+Decreto-Lei n.º 14-C/2020
+
+de 7 de abril
+
+Sumário: Estabelece a definição de procedimentos de atribuição de financiamento e compensações aos operadores de transportes essenciais, no âmbito da pandemia COVID-19.
+
+No dia 18 de março de 2020 foi decretado o estado de emergência em Portugal, com fundamento na verificação de uma situação de calamidade pública, causada pela pandemia COVID-19, através do Decreto do Presidente da República n.º 14-A/2020, de 18 de março.
+
+Para dar execução ao decreto foi aprovado o Decreto n.º 2-A/2020, de 20 de março, que veio a determinar diversas restrições ao exercício de determinadas atividades e à mobilidade dos cidadãos, tendo autorizado os membros do Governo responsáveis pela área dos transportes a adotar medidas que sejam adequadas e necessárias para limitar a circulação de meios de transporte coletivos no sentido de preservar a saúde pública.
+
+Nos termos e para os efeitos do disposto nos artigos 23.º e 26.º daquele diploma, foi publicado o Despacho n.º 3547-A/2020, publicado no Diário da República, 2.ª série, n.º 57-B, 1.º suplemento, de 22 de março de 2020, que determina medidas excecionais e temporárias relativas à situação epidemiológica referida.
+
+Nos termos da alínea e) do n.º 14 daquele despacho, as autoridades de transporte locais, previstas na Lei n.º 52/2015, de 9 de junho, na sua atual redação, devem proceder à articulação com os respetivos operadores de transportes, no sentido de proceder a alterações à operação de transportes e aos necessários ajustamentos nos respetivos procedimentos, designadamente no sistema de validação e venda de títulos, que decorram de regras imperativas de salvaguarda da saúde pública e proteção de funcionários e utentes.
+
+As medidas de proteção de saúde pública emanadas pela Direção-Geral da Saúde implicam a determinação de imposições de limitação e ajustamentos à operação de transporte público de passageiros, designadamente, redução de níveis de utilização, limitações à venda e validação de títulos de transportes e forma de acesso aos veículos, com vista a garantir a segurança de utilizadores e trabalhadores, mantendo-se os serviços de transporte mínimos essenciais para assegurar a mobilidade dos cidadãos.
+
+Estas medidas, com impactos diretos na redução das receitas provenientes da venda de serviços de transporte, também inviabilizam a contabilização da utilização dos serviços de transporte e das vendas de títulos de transporte.
+
+A redução da oferta de serviços de transporte, decorrente de apenas se manterem os serviços de transporte considerados essenciais, teve impactos igualmente ao nível da redução dos custos globais de exploração dos operadores de transporte, nomeadamente ao nível dos consumos de combustível, manutenção e pessoal.
+
+Contudo, e porque o ajustamento da oferta é desproporcional à quebra de receita, dada a necessidade de assegurar serviços mínimos, de se assegurar uma ocupação máxima de 1/3 da capacidade dos veículos e de se ter imposto a não obrigatoriedade de validação dos títulos de transporte para minimizar os contactos e salvaguardar a saúde pública, as medidas impostas durante o período de emergência conduziram ao agravamento do défice de exploração dos serviços de transporte que se mantiveram operacionais.
+
+Este agravamento terá, durante um período superior ao da vigência do estado de emergência, um impacto negativo na liquidez das empresas que operam serviços de transporte público, justificando-se, assim, o desenvolvimento de mecanismos que promovam a sustentabilidade daquelas empresas e permitam a manutenção do serviço público de passageiros em níveis que permitam satisfazer necessidades mínimas de mobilidade e por razões indispensáveis, nos termos possíveis e avaliados, conjuntamente, entre as autoridades de transportes e os operadores, na medida concreta de cada território.
+
+Neste sentido, consideram-se fundamentados ajustamentos aos procedimentos inerentes ao Programa de Apoio à Redução Tarifária e ao Programa de Apoio à Densificação e Reforço da Oferta de Transporte Público, no sentido de possibilitarem apoio aos serviços de transportes públicos essenciais.
+
+Considera-se, também, fundamental a necessidade do pagamento das indemnizações compensatórias do passe 4_18@escola.tp, do passe sub23@superior.tp e do passe Social+, para que as empresas possam continuar a prestar o serviço público de transporte coletivo de passageiros com menos constrangimentos financeiros, sendo que tais verbas já se encontram previstas e orçamentadas na Lei do Orçamento do Estado para 2020.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Artigo 5.º, Decreto-Lei n.º 39-A/2020 - Diário da República n.º 137/2020, 1º Suplemento, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-a-2020-138217278) É prorrogada até 31 de dezembro de 2020 a vigência do Decreto-Lei n.º 14-C/2020, de 7 de abril, na redação introduzia pelo decreto-lei n.º 39-A/2020, de 16 de julho
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei estabelece os procedimentos relativos à atribuição de financiamento e compensações ao abrigo dos seguintes regimes, decorrentes da situação epidemiológica que motivou a declaração do estado de emergência:
+
+a) Programa de Apoio à Redução Tarifária (PART) nos transportes públicos coletivos de passageiros, regulado pelo Decreto-Lei n.º 1-A/2020, de 3 de janeiro;
+
+b) Programa de Apoio à Densificação e Reforço da Oferta de Transporte Público (PROTransP), previsto no artigo 289.º da Lei n.º 2/2020, de 31 de março, que aprova o Orçamento do Estado para 2020;
+
+c) Passe 4_18@escola.tp, criado pelo Decreto-Lei n.º 186/2008, de 19 de setembro, na sua redação atual;
+
+d) Passe sub23@superior.tp, criado pelo Decreto-Lei n.º 203/2009, de 31 de agosto, na sua redação atual;
+
+e) Passe Social+, regulado pela Portaria n.º 272/2011, de 23 de setembro.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - A atribuição de financiamento ao abrigo do presente decreto-lei apenas pode ocorrer para compensar os operadores de transporte de passageiros pela realização dos serviços de transporte público essenciais definidos pelas autoridades de transportes previstas na Lei n.º 52/2015, de 9 de junho, na sua redação atual, e que sejam deficitários do ponto de vista da cobertura dos gastos operacionais pelas receitas da venda de títulos de transporte, até 31 de dezembro de 2023, por força das medidas excecionais de proteção da saúde pública adotadas durante a vigência do estado de emergência respeitante à pandemia da doença COVID-19.
+
+2 - Para efeitos do número anterior, cada autoridade de transportes deve identificar quais os serviços de transporte público essenciais sobre a sua competência que devem manter-se em funcionamento, identificando os percursos, as distâncias percorridas e os horários.
+
+3 - As verbas disponibilizadas ao abrigo do presente decreto-lei são as que se encontram aprovadas na Lei do Orçamento do Estado para os programas e indemnizações compensatórias identificadas no artigo anterior.
+
+4 - (Revogado.)
+
+> Nota: [Artigo 4.º, Decreto-Lei n.º 6-B/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-b-2021-154202309) É prorrogada até 31 de dezembro de 2021 a vigência do Decreto-Lei n.º 14-C/2020, de 7 de abril, na redação introduzida pelo presente decreto-lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 89/2022 - Diário da República n.º 251/2022, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2022-205493446), em vigor a partir de 2022-12-31
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 42-A/2022 - Diário da República n.º 125/2022, 1º Suplemento, Série I de 2022-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2022-185452470), produz efeitos a partir de 2022-07-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 6-B/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-b-2021-154202309), em vigor a partir de 2021-01-16, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 39-A/2020 - Diário da República n.º 137/2020, 1º Suplemento, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-a-2020-138217278), em vigor a partir de 2020-07-17, produz efeitos a partir de 2020-06-30
+
+###### Artigo 3.º — Atribuição de financiamento através do Programa de Apoio à Redução Tarifária
+
+1 - As autoridades de transportes podem proceder à atribuição das verbas consignadas pelo PART para financiamento dos serviços de transporte referidos no artigo 2.º, tendo por base critérios ajustados aos efeitos decorrentes da situação epidemiológica que motivou a declaração de estado de emergência, designadamente:
+
+a) Os dados históricos homólogos relativos à utilização dos serviços de transporte público de passageiros;
+
+b) As vendas dos respetivos títulos de transporte antes das restrições à liberdade de circulação; e
+
+c) Os níveis de oferta que se mantêm em operação para assegurar os serviços à população.
+
+2 - Para efeitos do número anterior, e de modo que as autoridades de transportes possam garantir as obrigações de serviço público inerentes à prestação do serviço público de transporte de passageiros, às verbas pagas até 31 de dezembro de 2023 não se aplicam as tipologias de medidas de redução tarifárias previstas no artigo 3.º do Decreto-Lei n.º 1-A/2020, de 3 de janeiro, nem se aplica o disposto no n.º 5 do artigo 5.º do referido decreto-lei.
+
+3 - As comunidades intermunicipais e as áreas metropolitanas podem utilizar as verbas não esgotadas do PART referentes a 2019 na reposição da oferta e garantia da manutenção e reforço dos níveis de serviços de transportes ocorridos em 2020.
+
+4 - Revogado.
+
+> Nota: [Artigo 4.º, Decreto-Lei n.º 6-B/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-b-2021-154202309) É prorrogada até 31 de dezembro de 2021 a vigência do Decreto-Lei n.º 14-C/2020, de 7 de abril, na redação introduzida pelo presente decreto-lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 89/2022 - Diário da República n.º 251/2022, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2022-205493446), em vigor a partir de 2022-12-31
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 42-A/2022 - Diário da República n.º 125/2022, 1º Suplemento, Série I de 2022-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2022-185452470), produz efeitos a partir de 2022-07-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 6-B/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-b-2021-154202309), em vigor a partir de 2021-01-16, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 440.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2020-12-31
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 39-A/2020 - Diário da República n.º 137/2020, 1º Suplemento, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-a-2020-138217278), em vigor a partir de 2020-07-17, produz efeitos a partir de 2020-06-30
+
+###### Artigo 4.º — Atribuição de financiamento através do Programa de Apoio à Densificação e Reforço da Oferta de Transporte Público
+
+1 - As verbas destinadas ao PROTransP em 2020, 2021, 2022 e 2023 podem, mediante despacho dos membros do Governo responsáveis pelas áreas das finanças e do ambiente, ser utilizadas para o financiamento de serviços de transporte público considerados como serviços essenciais.
+
+2 - As verbas referidas no número anterior apenas podem ser utilizadas para cobertura do défice de exploração dos operadores de transporte não cobertos pelos apoios concedidos ao abrigo do artigo 3.º
+
+> Nota: [Artigo 4.º, Decreto-Lei n.º 6-B/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-b-2021-154202309) É prorrogada até 31 de dezembro de 2021 a vigência do Decreto-Lei n.º 14-C/2020, de 7 de abril, na redação introduzida pelo presente decreto-lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 89/2022 - Diário da República n.º 251/2022, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2022-205493446), em vigor a partir de 2022-12-31
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 42-A/2022 - Diário da República n.º 125/2022, 1º Suplemento, Série I de 2022-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2022-185452470), produz efeitos a partir de 2022-07-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 6-B/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-b-2021-154202309), em vigor a partir de 2021-01-16, produz efeitos a partir de 2021-01-01
+
+###### Artigo 4.º-A — Financiamento do Programa de Apoio à Densificação e Reforço da Oferta de Transporte Público
+
+Durante o ano de 2020, além do financiamento previsto no n.º 2 do artigo 289.º da Lei n.º 2/2020, de 31 de março, o Programa de Apoio à Densificação e Reforço da Oferta de Transporte Público é financiado por verbas do Fundo Ambiental.
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31
+
+###### Artigo 5.º — Indemnizações compensatórias no âmbito do passe 4_18@escola.tp, do passe sub23@superior.tp e do passe Social +
+
+1 - As compensações relativas à venda do passe 4_18@escola.tp, do passe sub23@superior.tp e do passe Social+ referentes ao segundo, terceiro e quarto trimestre de 2020, ano de 2021, ano de 2022 e ano de 2023, são pagas aos operadores de transporte, com base no histórico de compensações dos meses homólogos de 2019.
+
+2 - As verbas referidas no número anterior apenas podem ser utilizadas para cobertura do défice de exploração dos operadores de transporte não cobertos pelos apoios concedidos ao abrigo dos artigos 3.º e 4.º
+
+> Nota: [Artigo 4.º, Decreto-Lei n.º 6-B/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-b-2021-154202309) É prorrogada até 31 de dezembro de 2021 a vigência do Decreto-Lei n.º 14-C/2020, de 7 de abril, na redação introduzida pelo presente decreto-lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 89/2022 - Diário da República n.º 251/2022, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2022-205493446), em vigor a partir de 2022-12-31
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 42-A/2022 - Diário da República n.º 125/2022, 1º Suplemento, Série I de 2022-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2022-185452470), produz efeitos a partir de 2022-07-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 6-B/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-b-2021-154202309), em vigor a partir de 2021-01-16, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 39-A/2020 - Diário da República n.º 137/2020, 1º Suplemento, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-a-2020-138217278), em vigor a partir de 2020-07-17, produz efeitos a partir de 2020-06-30
+
+###### Artigo 6.º — Supervisão e fiscalização
+
+1 - A atribuição das verbas previstas nos artigos anteriores está sujeita à supervisão da Autoridade da Mobilidade e dos Transportes (AMT), no âmbito das suas competências.
+
+2 - Os apoios concedidos nos termos do disposto nos artigos anteriores devem atender às perdas de receitas decorrentes dos efeitos da situação epidemiológica e dos custos associados à supressão das necessidades de transporte estabelecidas pelas autoridades de transportes.
+
+3 - Para efeito do disposto no número anterior, os operadores devem remeter à AMT a informação que permita avaliar se as verbas atribuídas a cada operador, no âmbito de apoios concedidos ao abrigo do presente decreto-lei, não representam uma sobrecompensação ou duplicação de apoios para o mesmo fim e são adequados à oferta de serviços de transportes disponibilizados, designadamente:
+
+a) Relatório e Contas;
+
+b) Demonstração dos serviços efetivamente prestados e da evolução de receitas e custos, antes e depois das restrições e limitações decorrentes das medidas de mitigação da pandemia COVID-19, separando os dados relativos a serviço público e a outros serviços;
+
+c) Demonstração dos recebimentos de outros apoios recebidos no mesmo contexto;
+
+d) Comunicação de compensações e remunerações recebidas através de instrumentos legais, regulamentares e contratuais, por parte de entidades públicas;
+
+e) Outras informações e dados que sejam considerados necessários, para estes efeitos, pelas entidades referidas no n.º 1.
+
+4 - A informação referida no número anterior deve ser remetida à AMT até 15 de setembro de 2020, a relativa ao primeiro semestre de 2020, até 15 de fevereiro de 2021, a relativa ao segundo semestre de 2020, até 15 de maio de 2021, a relativa ao primeiro trimestre de 2021, até 15 de agosto de 2021, a relativa ao segundo trimestre de 2021, até 15 de novembro de 2021, a relativa ao terceiro trimestre de 2021, e até 15 de fevereiro de 2022, a relativa ao quarto trimestre de 2021.
+
+5 - As entidades públicas que procedam à atribuição das compensações abrangidas pelo presente decreto-lei, e nos termos nele previstos, bem como de outras compensações ou apoios, no âmbito das respetivas competências, por via de instrumento legal, regulamentar, contratual ou administrativo, devem proceder à sua comunicação à AMT, para os efeitos referidos no n.º 3.
+
+6 - Da avaliação prevista nos n.os 3 e 5, em caso de se constatar a sobrecompensação ou sobreposição de apoios e compensações ou a desproporcionalidade face à oferta de serviços de transportes disponibilizados, é determinada, até ao final de novembro de 2021, a devolução de montantes ou o acerto de contas em pagamentos subsequentes relativamente ao ano de 2020 e, até ao final de novembro de 2022, a devolução de montantes ou o acerto de contas em pagamentos subsequentes relativamente ao ano de 2021, após os procedimentos referidos no número seguinte.
+
+7 - Para efeitos do disposto no número anterior, compete à AMT validar os montantes objeto de devolução ou acerto, com base na informação remetida pelos operadores e entidades públicas competentes até 15 de julho de 2021 e até 15 de julho de 2022, relativamente aos anos de 2020 e 2021, respetivamente, sem prejuízo das ações de supervisão e verificação que se entenda necessárias.
+
+> Nota: [Artigo 4.º, Decreto-Lei n.º 6-B/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-b-2021-154202309) É prorrogada até 31 de dezembro de 2021 a vigência do Decreto-Lei n.º 14-C/2020, de 7 de abril, na redação introduzida pelo presente decreto-lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 39/2021 - Diário da República n.º 105/2021, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2021-164258743), em vigor a partir de 2021-06-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 6-B/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-b-2021-154202309), em vigor a partir de 2021-01-16, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 39-A/2020 - Diário da República n.º 137/2020, 1º Suplemento, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-a-2020-138217278), em vigor a partir de 2020-07-17, produz efeitos a partir de 2020-06-30
+
+###### Artigo 6.º-A — Incumprimento do dever de informação
+
+A não prestação de informação necessária à avaliação referida no artigo anterior:
+
+a) Constitui infração punível nos termos previstos no Decreto-Lei n.º 78/2014, de 14 de maio, na sua redação atual;
+
+b) Pode fundamentar a devolução de montantes pagos, pelos respetivos beneficiários.
+
+> Nota: [Artigo 4.º, Decreto-Lei n.º 6-B/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-b-2021-154202309) É prorrogada até 31 de dezembro de 2021 a vigência do Decreto-Lei n.º 14-C/2020, de 7 de abril, na redação introduzida pelo presente decreto-lei.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 6-B/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-b-2021-154202309), em vigor a partir de 2021-01-16, produz efeitos a partir de 2021-01-01
+
+###### Artigo 6.º-B — Supervisão e fiscalização
+
+Para efeitos do disposto no artigo 6.º determina-se que:
+
+a) Os operadores remetem à AMT a informação prevista no n.º 3 daquele artigo nos seguintes prazos:
+
+i) Relativa ao 1.º trimestre de 2022 até 15 de maio de 2022;
+
+ii) Relativa ao 2.º trimestre de 2022 até 15 de agosto de 2022;
+
+iii) Relativa ao 3.º trimestre de 2022 até 15 de novembro de 2022;
+
+iv) Relativa ao 4.º trimestre de 2022 até 15 de fevereiro de 2023;
+
+v) Relativa ao 1.º trimestre de 2023, até 15 de maio de 2023;
+
+vi) Relativa ao 2.º trimestre de 2023, até 15 de agosto de 2023;
+
+vii) Relativa ao 3.º trimestre de 2023, até 15 de novembro de 2023;
+
+viii) Relativa ao 4.º trimestre de 2023, até 15 de fevereiro de 2024;
+
+b) Para efeitos do disposto no n.º 6 do artigo 6.º, a devolução dos montantes ou o acerto de contas em pagamentos subsequentes relativamente ao ano de 2022 é determinada até 30 de novembro de 2023 e os relativos ao ano de 2023 até 30 de novembro de 2024;
+
+c) Para efeitos do disposto no n.º 7 do artigo 6.º, a AMT valida os montantes objeto de devolução ou acerto, com base em informação remetida pelos operadores e entidades públicas até 15 de julho de 2023 e até 15 de julho de 2024, relativamente aos anos de 2022 e 2023, respetivamente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 89/2022 - Diário da República n.º 251/2022, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2022-205493446), em vigor a partir de 2022-12-31
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 42-A/2022 - Diário da República n.º 125/2022, 1º Suplemento, Série I de 2022-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2022-185452470), produz efeitos a partir de 2022-07-01
+
+> Aditado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01
+
+###### Artigo 6.º-C — Vigência
+
+Sem prejuízo dos efeitos previstos no artigo anterior, o presente decreto-lei vigora até 31 de dezembro de 2023.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 89/2022 - Diário da República n.º 251/2022, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2022-205493446), em vigor a partir de 2022-12-31
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 42-A/2022 - Diário da República n.º 125/2022, 1º Suplemento, Série I de 2022-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2022-185452470), produz efeitos a partir de 2022-07-01
+
+> Aditado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01
+
+###### Artigo 7.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 2 de abril de 2020. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Alexandra Ludomila Ribeiro Fernandes Leitão - Tiago Brandão Rodrigues - João Pedro Soeiro de Matos Fernandes.
+
+Promulgado em 6 de abril de 2020.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 6 de abril de 2020.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113170927

@@ -1,0 +1,166 @@
+---
+schema_version: '1.0'
+id: pt:dre:408751:por
+title: Portaria n.º 547/76
+short_title: null
+summary: Regula o programa de concurso para a categoria de subdirector de contabilidade do quadro da Direcção-Geral da Contabilidade
+  Pública
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Orçamento - Direcção-Geral da Contabilidade Pública
+proposing_entity: null
+official_number: 547/76
+official_date: null
+publication_date: '1976-08-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 201/1976, Série I de 1976-08-27
+  number: '201'
+  series: I
+  supplement: null
+  pages: 2066 - 2066
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/08/20100/20662066.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '408751'
+  dre_path: /dr/detalhe/portaria/547-1976-408751
+  internal: pt:dre:408751:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/547-1976-408751
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/547-1976-408751
+  consolidated_url: null
+  retrieved_at: '2026-10-23T05:07:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 034f6d4a3e2841aad37b78c48681c3beb0058bdc2f3177a59ac5fd82ebf21274
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:07:14Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Concurso
+- Direcção Geral da Contabilidade Pública
+- Regulamento
+- Subdiretor
+relationships:
+- type: cites
+  target: pt:dre:569561:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T05:07:14Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 547/76
+
+de 27 de Agosto
+
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças, nos termos do artigo 71.º do regulamento aprovado pelo [Decreto n.º 43625](https://diariodarepublica.pt/dr/detalhe/decreto/43625-1961-569561), de 27 de Abril de 1961, que seja adoptado o seguinte programa nos concursos a realizar para o provimento de lugares da categoria de subdirector de contabilidade do quadro da Direcção-Geral da Contabilidade Pública:
+
+I - Generalidades
+
+1 - Constituição da República Portuguesa.
+
+1.1 - Organização do poder político.
+
+1.2 - Disposições que interessam à actividade financeira do Estado.
+
+2 - Moeda e crédito.
+
+2.1 - Mercado monetário e financeiro.
+
+2.2 - Formas de emissão e factores monetários
+
+2.3 - Balança de pagamentos.
+
+3 - Inflação. Causas e efeitos.
+
+4 - Contas nacionais.
+
+5 - Orçamento Geral do Estado na sua relação com a planificação económica, financeira e social.
+
+6 - Noções sobre processos e técnicas de gestão
+
+6.1 - Conceito de gestão.
+
+6.2 - Relações humanas.
+
+6.3 - Gestão por objectivos.
+
+6.4 - Organização e métodos.
+
+6.5 - Métodos quantitativos na gestão.
+
+6.6 - Tratamento automático da informação.
+
+II - Contabilidade pública
+
+7 - Evolução do conceito de gestão orçamental: técnicas de gestão orçamental e sentido de evolução das reformas orçamentais.
+
+8 - Orçamento Geral do Estado.
+
+8.1 - Estrutura e funções.
+
+8.2 - Preparação e execução.
+
+9 - Conta Geral do Estado.
+
+9.1 - Estrutura e organização.
+
+9.2 - Articulação com as contas nacionais.
+
+9.3 - Balanço do Estado.
+
+10 - Classificação das receitas e despesas públicas.
+
+10.1 - Orgânica.
+
+10.2 - Económica.
+
+10.3 - Funcional.
+
+II - Orgânica do Ministério das Finanças.
+
+12 - Análise crítica e redacção de projectos de diploma.
+
+13 - Formação e valorização dos trabalhadores da Direcção-Geral da Contabilidade Pública.
+
+Ministério das Finanças, 13 de Agosto de 1976. - O Ministro das Finanças, Henrique Medina Carreira.

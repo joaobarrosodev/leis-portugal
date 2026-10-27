@@ -1,0 +1,310 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:553385:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-67271338",
+ "dre_path": "/dr/detalhe/decreto-lei/98-2012-553385",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-05-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "180110414",
+    "67250851",
+    "67250852",
+    "67250853",
+    "67250854",
+    "67250855",
+    "67250856",
+    "67250857"
+   ]
+  },
+  {
+   "date": "2014-10-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:58644005:por",
+     "title": "Decreto-Lei n.º 161/2014",
+     "published": "2014-10-29",
+     "dre_path": "/dr/detalhe/decreto-lei/161-2014-58644005"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "67250850",
+    "67278559",
+    "67278560",
+    "67278561",
+    "67278562",
+    "67278563",
+    "67278564",
+    "67250857",
+    "67250858"
+   ]
+  },
+  {
+   "date": "2017-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75099097:por",
+     "title": "Lei n.º 22/2016",
+     "published": "2016-08-04",
+     "dre_path": "/dr/detalhe/lei/22-2016-75099097"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "180110414",
+    "180110415",
+    "180110416",
+    "180110417",
+    "180110418",
+    "180110419",
+    "180110420",
+    "180110421",
+    "180110422"
+   ]
+  }
+ ],
+ "fragments": {
+  "180110414": {
+   "fragment_id": "67271339",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2017-01-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 98/2012\n\nde 3 de maio\n\nO Plano Estratégico dos Transportes, aprovado pela Resolução do Conselho de Ministros n.º 45/2011, de 10 de novembro, prevê que, durante o ano de 2012, ocorra a extinção das empresas Metropolitano de Lisboa, E. P. E., (ML) e Companhia de Carris de Ferro de Lisboa, S. A., (Carris), por fusão numa única entidade a constituir, que será denominada de Transportes de Lisboa, E. P. E.\n\nA fusão do ML e da Carris constitui uma operação exigente, dadas as suas dimensão, complexidade e difícil situação económico-financeira, e impõe o envolvimento das estruturas internas das duas empresas, coordenadas pelos respetivos órgãos de administração.\n\nPara assegurar que o processo de fusão se desenvolve com a maior eficácia e a máxima celeridade, o Governo entende que é conveniente que os conselhos de administração do ML e da Carris sejam integrados pelos mesmos administradores, que exercerão as suas funções em regime de acumulação. Esta identidade de administradores permite que se encontrem as melhores soluções no âmbito do processo de fusão, conferindo-lhe uma orientação centralizada e gerando os consensos necessários à boa consecução do mesmo.\n\nEsta solução permite ainda uma redução significativa do número de administradores das referidas empresas, na medida em que de um total de 10 se diminui para apenas 4, cumprindo-se também, desta forma, o desígnio da contenção e racionalização de custos nas empresas que compõem o Sector Empresarial do Estado.\n\nO presente decreto-lei permite a designação, mediante Resolução do Conselho de Ministros, no caso do ML, e de deliberação da assembleia geral, no caso da Carris, para os respetivos conselhos de administração, em regime de acumulação e até à constituição da sociedade que resultar da fusão das duas empresas, dos mesmos administradores executivos, num total de quatro elementos.\n\nSão também definidos os termos do mandato e o regime remuneratório associados a essa acumulação de funções, deixando-se clara a temporalidade da medida, que ocorre até à extinção das duas empresas, ou no prazo de três anos se aquela não se verificar entretanto, e que os administradores auferem apenas uma remuneração e não beneficiam de qualquer remuneração adicional, sendo remunerados como se de um único conselho de administração se tratasse.\n\nFinalmente, estabelece-se a imperatividade do regime aprovado.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "67250851": {
+   "fragment_id": "67271340",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece o regime de acumulação de funções dos membros executivos dos conselhos de administração do Metropolitano de Lisboa, E. P. E., doravante designado por ML, e da Companhia de Carris de Ferro de Lisboa, S. A., doravante designada por Carris, para efeitos da concretização do processo de fusão das duas empresas."
+  },
+  "67250852": {
+   "fragment_id": "67271341",
+   "type": 11,
+   "heading": "Artigo 2.º — Acumulação de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Acumulação de funções\n\nOs conselhos de administração do ML e da Carris são integrados por quatro administradores executivos, doravante designados por administradores, que são comuns às duas empresas e exercem as suas funções em regime de acumulação."
+  },
+  "67250853": {
+   "fragment_id": "67271342",
+   "type": 11,
+   "heading": "Artigo 3.º — Designação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Designação\n\n1 - Os administradores são designados por Resolução do Conselho de Ministros, no caso do ML, e por deliberação em reunião da assembleia geral, no caso da Carris.\n\n2 - A designação dos administradores implica a imediata cessação do mandato dos membros dos conselhos de administração do ML e da Carris em exercício de funções àquela data."
+  },
+  "67250854": {
+   "fragment_id": "67271343",
+   "type": 11,
+   "heading": "Artigo 4.º — Mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Mandato\n\n1 - O mandato dos administradores designados nos termos no n.º 1 do artigo anterior cessa com a extinção do ML e da Carris, por fusão numa entidade empresarial a criar nos termos previstos no Plano Estratégico dos Transportes, aprovado pela Resolução do Conselho de Ministros n.º 45/2011, de 10 de novembro, ou no prazo de três anos, se aquela fusão se não tiver entretanto concluído.\n\n2 - No caso de cessação do mandato dos administradores por decurso do prazo, pode haver lugar a nova designação, nos termos previstos no artigo anterior."
+  },
+  "67250855": {
+   "fragment_id": "67271344",
+   "type": 11,
+   "heading": "Artigo 5.º — Remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Remuneração\n\n1 - Os administradores auferem apenas uma remuneração e não beneficiam de qualquer abono adicional em virtude da acumulação de funções.\n\n2 - A remuneração dos administradores é determinada pela classificação decorrente da aplicação dos critérios previstos na Resolução do Conselho de Ministros n.º 16/2012, de 9 de fevereiro, ao resultado da agregação dos indicadores respeitantes ao ML e à Carris.\n\n3 - A remuneração dos administradores, bem como todos os encargos referentes aos mesmos, são suportados, em partes iguais, pelo ML e pela Carris.\n\n4 - Os contratos de gestão a celebrar com os administradores devem reportar-se ao exercício de funções no ML e na Carris e considerar as especificidades do mandato em causa, em especial, o seu carácter transitório."
+  },
+  "67250856": {
+   "fragment_id": "67271345",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma imperativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma imperativa\n\nO regime fixado no presente decreto-lei tem natureza imperativa, prevalecendo sobre quaisquer normas em contrário, especiais ou excecionais, que resultem, nomeadamente, do Estatuto do Gestor Público, dos diplomas estatutários ou de qualquer outra legislação aplicável ao ML e à Carris, e não podendo ser por estes afastado ou modificado."
+  },
+  "67250857": {
+   "fragment_id": "67271346",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "67250850": {
+   "fragment_id": "67271339",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 98/2012\n\nde 3 de maio\n\nO Plano Estratégico dos Transportes, aprovado pela Resolução do Conselho de Ministros n.º 45/2011, de 10 de novembro, prevê que, durante o ano de 2012, ocorra a extinção das empresas Metropolitano de Lisboa, E. P. E., (ML) e Companhia de Carris de Ferro de Lisboa, S. A., (Carris), por fusão numa única entidade a constituir, que será denominada de Transportes de Lisboa, E. P. E.\n\nA fusão do ML e da Carris constitui uma operação exigente, dadas as suas dimensão, complexidade e difícil situação económico-financeira, e impõe o envolvimento das estruturas internas das duas empresas, coordenadas pelos respetivos órgãos de administração.\n\nPara assegurar que o processo de fusão se desenvolve com a maior eficácia e a máxima celeridade, o Governo entende que é conveniente que os conselhos de administração do ML e da Carris sejam integrados pelos mesmos administradores, que exercerão as suas funções em regime de acumulação. Esta identidade de administradores permite que se encontrem as melhores soluções no âmbito do processo de fusão, conferindo-lhe uma orientação centralizada e gerando os consensos necessários à boa consecução do mesmo.\n\nEsta solução permite ainda uma redução significativa do número de administradores das referidas empresas, na medida em que de um total de 10 se diminui para apenas 4, cumprindo-se também, desta forma, o desígnio da contenção e racionalização de custos nas empresas que compõem o Sector Empresarial do Estado.\n\nO presente decreto-lei permite a designação, mediante Resolução do Conselho de Ministros, no caso do ML, e de deliberação da assembleia geral, no caso da Carris, para os respetivos conselhos de administração, em regime de acumulação e até à constituição da sociedade que resultar da fusão das duas empresas, dos mesmos administradores executivos, num total de quatro elementos.\n\nSão também definidos os termos do mandato e o regime remuneratório associados a essa acumulação de funções, deixando-se clara a temporalidade da medida, que ocorre até à extinção das duas empresas, ou no prazo de três anos se aquela não se verificar entretanto, e que os administradores auferem apenas uma remuneração e não beneficiam de qualquer remuneração adicional, sendo remunerados como se de um único conselho de administração se tratasse.\n\nFinalmente, estabelece-se a imperatividade do regime aprovado.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "67278559": {
+   "fragment_id": "67271340",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2014-10-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2014-58644005), em vigor a partir de 2014-10-30"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece o regime de acumulação de funções dos membros executivos dos conselhos de administração do Metropolitano de Lisboa, E. P. E., doravante designado por ML, da Companhia de Carris de Ferro de Lisboa, S. A., doravante designada por Carris, da Transtejo - Transportes do Tejo, S. A., doravante designada por Transtejo, e da Soflusa - Sociedade Fluvial de Transportes, S. A., doravante designada por Soflusa, para efeitos da concretização do processo de fusão das três empresas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2014-58644005), em vigor a partir de 2014-10-30"
+  },
+  "67278560": {
+   "fragment_id": "67271341",
+   "type": 11,
+   "heading": "Artigo 2.º — Acumulação de funções",
+   "in_force_from": "2014-10-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2014-58644005), em vigor a partir de 2014-10-30"
+   ],
+   "markdown": "###### Artigo 2.º — Acumulação de funções\n\nOs conselhos de administração do ML, da Carris, da Transtejo e da Soflusa são integrados por cinco administradores executivos, doravante designados por administradores, que são comuns às quatro empresas e exercem as suas funções em regime de acumulação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2014-58644005), em vigor a partir de 2014-10-30"
+  },
+  "67278561": {
+   "fragment_id": "67271342",
+   "type": 11,
+   "heading": "Artigo 3.º — Designação",
+   "in_force_from": "2014-10-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2014-58644005), em vigor a partir de 2014-10-30"
+   ],
+   "markdown": "###### Artigo 3.º — Designação\n\n1 - Os administradores são designados por Resolução do Conselho de Ministros, no caso do ML, e por deliberação em reunião da assembleia geral, nos casos da Carris, da Transtejo e da Soflusa.\n\n2 - A designação dos administradores implica a imediata cessação do mandato dos membros dos conselhos de administração do ML, da Carris, da Transtejo e da Soflusa em exercício de funções à data da designação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2014-58644005), em vigor a partir de 2014-10-30"
+  },
+  "67278562": {
+   "fragment_id": "67271343",
+   "type": 11,
+   "heading": "Artigo 4.º — Mandato",
+   "in_force_from": "2014-10-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2014-58644005), em vigor a partir de 2014-10-30"
+   ],
+   "markdown": "###### Artigo 4.º — Mandato\n\n1 - O mandato dos administradores designados nos termos do n.º 1 do artigo anterior cessa com a extinção do ML, da Carris, da Transtejo e da Soflusa, por fusão numa entidade a criar, ou no prazo de três anos, se a fusão se não tiver entretanto concluído.\n\n2 - No caso de cessação do mandato dos administradores por decurso do prazo, pode haver lugar a nova designação, nos termos previstos no artigo anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2014-58644005), em vigor a partir de 2014-10-30"
+  },
+  "67278563": {
+   "fragment_id": "67271344",
+   "type": 11,
+   "heading": "Artigo 5.º — Remuneração",
+   "in_force_from": "2014-10-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2014-58644005), em vigor a partir de 2014-10-30"
+   ],
+   "markdown": "###### Artigo 5.º — Remuneração\n\n1 - Os administradores auferem apenas uma remuneração e não beneficiam de qualquer abono adicional em virtude da acumulação de funções.\n\n2 - A remuneração dos administradores é determinada pela classificação decorrente da aplicação dos critérios previstos na Resolução do Conselho de Ministros n.º 16/2012, de 9 de fevereiro, ao resultado da agregação dos indicadores respeitantes ao ML, à Carris, à Transtejo e à Soflusa.\n\n3 - A remuneração dos administradores, bem como todos os encargos referentes aos mesmos, são suportados, em partes iguais, pelo ML, pela Carris e pela Transtejo.\n\n4 - Os contratos de gestão a celebrar com os administradores devem reportar-se ao exercício de funções no ML, na Carris, na Transtejo e na Soflusa e considerar as especificidades do mandato em causa, em especial, o seu caráter transitório.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2014-58644005), em vigor a partir de 2014-10-30"
+  },
+  "67278564": {
+   "fragment_id": "67271345",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma imperativa",
+   "in_force_from": "2014-10-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2014-58644005), em vigor a partir de 2014-10-30"
+   ],
+   "markdown": "###### Artigo 6.º — Norma imperativa\n\nO regime fixado no presente decreto-lei tem natureza imperativa, prevalecendo sobre quaisquer normas em contrário, especiais ou excecionais, que resultem, nomeadamente, do Estatuto do Gestor Público, dos diplomas estatutários ou de qualquer outra legislação aplicável ao ML, à Carris, à Transtejo e à Soflusa, e não podendo ser por estes afastado ou modificado.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2014-58644005), em vigor a partir de 2014-10-30"
+  },
+  "67250858": {
+   "fragment_id": "67271348",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 15 de março de 2012. - Pedro Passos Coelho - Luís Filipe Bruno da Costa de Morais Sarmento - Álvaro Santos Pereira.\n\nPromulgado em 18 de abril de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 23 de abril de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "180110415": {
+   "fragment_id": "67271340",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 22/2016 - Diário da República n.º 149/2016, Série I de 2016-08-04](https://diariodarepublica.pt/dr/detalhe/lei/22-2016-75099097), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2014-58644005), em vigor a partir de 2014-10-30"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece o regime de acumulação de funções dos membros executivos dos conselhos de administração do Metropolitano de Lisboa, E. P. E., doravante designado por ML, da Companhia de Carris de Ferro de Lisboa, S. A., doravante designada por Carris, da Transtejo - Transportes do Tejo, S. A., doravante designada por Transtejo, e da Soflusa - Sociedade Fluvial de Transportes, S. A., doravante designada por Soflusa, para efeitos da concretização do processo de fusão das três empresas.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 22/2016 - Diário da República n.º 149/2016, Série I de 2016-08-04](https://diariodarepublica.pt/dr/detalhe/lei/22-2016-75099097), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2014-58644005), em vigor a partir de 2014-10-30"
+  },
+  "180110416": {
+   "fragment_id": "67271341",
+   "type": 11,
+   "heading": "Artigo 2.º — Acumulação de funções",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 22/2016 - Diário da República n.º 149/2016, Série I de 2016-08-04](https://diariodarepublica.pt/dr/detalhe/lei/22-2016-75099097), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2014-58644005), em vigor a partir de 2014-10-30"
+   ],
+   "markdown": "###### Artigo 2.º — Acumulação de funções\n\nOs conselhos de administração do ML, da Carris, da Transtejo e da Soflusa são integrados por cinco administradores executivos, doravante designados por administradores, que são comuns às quatro empresas e exercem as suas funções em regime de acumulação.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 22/2016 - Diário da República n.º 149/2016, Série I de 2016-08-04](https://diariodarepublica.pt/dr/detalhe/lei/22-2016-75099097), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2014-58644005), em vigor a partir de 2014-10-30"
+  },
+  "180110417": {
+   "fragment_id": "67271342",
+   "type": 11,
+   "heading": "Artigo 3.º — Designação",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 22/2016 - Diário da República n.º 149/2016, Série I de 2016-08-04](https://diariodarepublica.pt/dr/detalhe/lei/22-2016-75099097), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2014-58644005), em vigor a partir de 2014-10-30"
+   ],
+   "markdown": "###### Artigo 3.º — Designação\n\n1 - Os administradores são designados por Resolução do Conselho de Ministros, no caso do ML, e por deliberação em reunião da assembleia geral, nos casos da Carris, da Transtejo e da Soflusa.\n\n2 - A designação dos administradores implica a imediata cessação do mandato dos membros dos conselhos de administração do ML, da Carris, da Transtejo e da Soflusa em exercício de funções à data da designação.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 22/2016 - Diário da República n.º 149/2016, Série I de 2016-08-04](https://diariodarepublica.pt/dr/detalhe/lei/22-2016-75099097), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2014-58644005), em vigor a partir de 2014-10-30"
+  },
+  "180110418": {
+   "fragment_id": "67271343",
+   "type": 11,
+   "heading": "Artigo 4.º — Mandato",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 22/2016 - Diário da República n.º 149/2016, Série I de 2016-08-04](https://diariodarepublica.pt/dr/detalhe/lei/22-2016-75099097), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2014-58644005), em vigor a partir de 2014-10-30"
+   ],
+   "markdown": "###### Artigo 4.º — Mandato\n\n1 - O mandato dos administradores designados nos termos do n.º 1 do artigo anterior cessa com a extinção do ML, da Carris, da Transtejo e da Soflusa, por fusão numa entidade a criar, ou no prazo de três anos, se a fusão se não tiver entretanto concluído.\n\n2 - No caso de cessação do mandato dos administradores por decurso do prazo, pode haver lugar a nova designação, nos termos previstos no artigo anterior.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 22/2016 - Diário da República n.º 149/2016, Série I de 2016-08-04](https://diariodarepublica.pt/dr/detalhe/lei/22-2016-75099097), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2014-58644005), em vigor a partir de 2014-10-30"
+  },
+  "180110419": {
+   "fragment_id": "67271344",
+   "type": 11,
+   "heading": "Artigo 5.º — Remuneração",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 22/2016 - Diário da República n.º 149/2016, Série I de 2016-08-04](https://diariodarepublica.pt/dr/detalhe/lei/22-2016-75099097), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2014-58644005), em vigor a partir de 2014-10-30"
+   ],
+   "markdown": "###### Artigo 5.º — Remuneração\n\n1 - Os administradores auferem apenas uma remuneração e não beneficiam de qualquer abono adicional em virtude da acumulação de funções.\n\n2 - A remuneração dos administradores é determinada pela classificação decorrente da aplicação dos critérios previstos na Resolução do Conselho de Ministros n.º 16/2012, de 9 de fevereiro, ao resultado da agregação dos indicadores respeitantes ao ML, à Carris, à Transtejo e à Soflusa.\n\n3 - A remuneração dos administradores, bem como todos os encargos referentes aos mesmos, são suportados, em partes iguais, pelo ML, pela Carris e pela Transtejo.\n\n4 - Os contratos de gestão a celebrar com os administradores devem reportar-se ao exercício de funções no ML, na Carris, na Transtejo e na Soflusa e considerar as especificidades do mandato em causa, em especial, o seu caráter transitório.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 22/2016 - Diário da República n.º 149/2016, Série I de 2016-08-04](https://diariodarepublica.pt/dr/detalhe/lei/22-2016-75099097), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2014-58644005), em vigor a partir de 2014-10-30"
+  },
+  "180110420": {
+   "fragment_id": "67271345",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma imperativa",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 22/2016 - Diário da República n.º 149/2016, Série I de 2016-08-04](https://diariodarepublica.pt/dr/detalhe/lei/22-2016-75099097), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2014-58644005), em vigor a partir de 2014-10-30"
+   ],
+   "markdown": "###### Artigo 6.º — Norma imperativa\n\nO regime fixado no presente decreto-lei tem natureza imperativa, prevalecendo sobre quaisquer normas em contrário, especiais ou excecionais, que resultem, nomeadamente, do Estatuto do Gestor Público, dos diplomas estatutários ou de qualquer outra legislação aplicável ao ML, à Carris, à Transtejo e à Soflusa, e não podendo ser por estes afastado ou modificado.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 22/2016 - Diário da República n.º 149/2016, Série I de 2016-08-04](https://diariodarepublica.pt/dr/detalhe/lei/22-2016-75099097), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2014-58644005), em vigor a partir de 2014-10-30"
+  },
+  "180110421": {
+   "fragment_id": "67271346",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 22/2016 - Diário da República n.º 149/2016, Série I de 2016-08-04](https://diariodarepublica.pt/dr/detalhe/lei/22-2016-75099097), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 22/2016 - Diário da República n.º 149/2016, Série I de 2016-08-04](https://diariodarepublica.pt/dr/detalhe/lei/22-2016-75099097), em vigor a partir de 2017-01-01"
+  },
+  "180110422": {
+   "fragment_id": "67271348",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 22/2016 - Diário da República n.º 149/2016, Série I de 2016-08-04](https://diariodarepublica.pt/dr/detalhe/lei/22-2016-75099097), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 15 de março de 2012. - Pedro Passos Coelho - Luís Filipe Bruno da Costa de Morais Sarmento - Álvaro Santos Pereira.\n\nPromulgado em 18 de abril de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 23 de abril de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 22/2016 - Diário da República n.º 149/2016, Série I de 2016-08-04](https://diariodarepublica.pt/dr/detalhe/lei/22-2016-75099097), em vigor a partir de 2017-01-01"
+  }
+ }
+}

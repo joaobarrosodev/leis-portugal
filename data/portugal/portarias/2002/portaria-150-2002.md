@@ -1,0 +1,164 @@
+---
+schema_version: '1.0'
+id: pt:dre:278072:por
+title: Portaria n.º 150/2002
+short_title: null
+summary: Aprova a nova tabela de honorários dos advogados, advogados estagiários e solicitadores pelos serviços que prestem
+  no âmbito do apoio judiciário. Revoga a Portaria n.º 1200-C/2000, de 20 de Dezembro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 150/2002
+official_date: null
+publication_date: '2002-02-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 42/2002, Série I-B de 2002-02-19
+  number: '42'
+  series: I
+  supplement: null
+  pages: 1362 - 1364
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/02/042b00/13621364.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/150/2002/02/19/p/dre/pt/html
+  oj: null
+  dre: '278072'
+  dre_path: /dr/detalhe/portaria/150-2002-278072
+  internal: pt:dre:278072:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/150-2002-278072
+  metadata_url: https://data.dre.pt/eli/port/150/2002/02/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/150-2002-278072
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:39:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6076d2e47956d5ab57ac051b78f9295b1f996ca573f75e7e6fe5f2d642efe41a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:01Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Advogado
+- Ajuda Judicial
+- Remuneração
+- Solicitador
+- Tribunal
+relationships:
+- type: amended_by
+  target: pt:dre:548661:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:315338:por
+  label: null
+  source: http://data.dre.pt/eli/lei/30-e/2000/12/20/p/dre
+- type: cites
+  target: pt:dre:667908:por
+  label: null
+  source: http://data.dre.pt/eli/port/1200-c/2000/12/20/p/dre
+- type: repealed_by
+  target: pt:dre:548661:por
+  label: "Revogada pela PORT.1386/2004.10.11.2004.MFAP, DR.IS-B [264] de 10.11.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1386-2004-548661
+  date: '2004-11-10'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:39:01Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 150/2002
+
+de 19 de Fevereiro
+
+Na sequência da entrada em vigor da [Lei n.º 30-E/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-e-2000-315338), de 20 de Dezembro, que aprovou o novo regime do acesso ao direito e aos tribunais, foram actualizados os valores de honorários a atribuir aos advogados, advogados estagiários e solicitadores pelos serviços prestados no âmbito do apoio judiciário. Transcorrido um ano de vigência da nova tabela, constante da [Portaria n.º 1200-C/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1200-c-2000-667908), de 20 de Dezembro, importa proceder à sua revisão, introduzindo as correcções mínimas que a experiência já impõe.
+
+Em particular, são eliminadas as distorções decorrentes da possibilidade de acumulação ilimitada de honorários por intervenções múltiplas num mesmo período.
+
+Foram ouvidas a Ordem dos Advogados e a Câmara dos Solicitadores.
+
+Assim, ao abrigo do disposto no artigo 49.º, n.os 1 e 4, da [Lei n.º 30-E/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-e-2000-315338), de 20 de Dezembro:
+
+Manda o Governo, pelo Ministro da Justiça, o seguinte:
+
+1.º É aprovada, em anexo à presente portaria e dela fazendo parte integrante, a nova tabela de honorários dos advogados, advogados estagiários e solicitadores pelos serviços que prestem no âmbito do apoio judiciário.
+
+2.º - 1 - Em caso de substituição no patrocínio, o patrono ou defensor nomeado e substituído ajusta com os intervenientes seguintes a repartição de honorários que, individualizadamente, são pagos pelo tribunal.
+
+2 - Não havendo acordo de todos os intervenientes sobre a repartição dos honorários, a sua determinação é, conforme o caso, feita pela Ordem dos Advogados ou pela Câmara dos Solicitadores.
+
+3.º Em caso de intervenção ocasional em acto ou diligência isolados num processo, os honorários a atribuir individualizadamente pelo tribunal ao interveniente ocasional são deduzidos aos honorários devidos ao interveniente principal em função do tipo de processo.
+
+4.º - 1 - Quando, no mesmo período da manhã ou da tarde, o advogado, advogado estagiário ou solicitador intervier em mais de um processo, os honorários são limitados ao montante da remuneração mais elevada prevista para os processos em que nesse período tiver intervindo, qualquer que tenha sido o número efectivo de intervenções.
+
+2 - Quando, durante um mesmo dia, todas as intervenções se limitarem a processos sumários, sumaríssimos, de transgressão ou contravenção de natureza penal, os honorários são limitados ao montante da remuneração mais elevada prevista para estes processos, qualquer que tenha sido o número efectivo de intervenções, acrescido da rubrica prevista no n.º 10 da tabela anexa, quando o número de intervenções for igual ou superior a quatro.
+
+5.º - 1 - Ao patrono ou defensor nomeado que alcance a superação do litígio por transacção são devidos honorários no montante de quatro unidades de referência.
+
+2 - Ao patrono ou defensor nomeado que, comprovadamente, alcance a resolução do litígio por meios alternativos, designadamente promovendo a mediação ou arbitragem, são devidos honorários no montante de cinco unidades de referência.
+
+3 - Os honorários, a pagar pelo Cofre Geral dos Tribunais, devem ser solicitados em requerimento dirigido ao Instituto de Gestão Financeira e Patrimonial da Justiça, que procede ao pagamento após parecer da Direcção-Geral da Administração Extrajudicial.
+
+6.º - 1 - Para efeito de reembolso de despesas pelos serviços prestados, nos termos do artigo 44.º da [Lei n.º 30-E/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-e-2000-315338), de 20 de Dezembro, o advogado, advogado estagiário ou solicitador apresenta nota de despesas realizadas seguidamente ao acto ou diligência para que foi nomeado.
+
+2 - Nos restantes casos, o advogado, advogado estagiário ou solicitador deve apresentar a nota de despesas no prazo de cinco dias contados da decisão que seja proferida no processo.
+
+7.º É revogada a [Portaria n.º 1200-C/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1200-c-2000-667908), de 20 de Dezembro.
+
+8.º A presente portaria produz efeitos a partir de 1 de Março de 2002.
+
+O Ministro da Justiça, António Luís Santos Costa, em 4 de Fevereiro de 2002.
+
+## ANEXO — Tabela de honorários para o apoio judiciário
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/02/042b00/13621364.pdf)
+
+Notas
+
+1 - Os honorários a atribuir aos advogados estagiários serão reduzidos a dois terços.
+
+2 - Os honorários a atribuir aos solicitadores serão reduzidos a dois terços ou a um quarto, consoante intervenham isoladamente no processo ou o façam coadjuvados por um advogado. Neste caso, os honorários do advogado serão reduzidos a quatro quintos. Por acordo entre o advogado e o solicitador poderá, contudo, ser diversa a proporção na distribuição dos honorários.
+
+3 - Considera-se haver lugar a nova sessão sempre que o acto ou diligência sejam interrompidos, excepto se tal interrupção ocorrer no mesmo período da manhã ou da tarde.
+
+4 - Considera-se ocasional a intervenção num acto ou diligência isolados no processo.
+
+5 - Em caso de substituição do patrono no decurso do processo, os honorários serão individualizadamente pagos a todos os intervenientes, em função da repartição de honorários que tenha sido definida, sempre com o limite dos honorários que seriam devidos ao nomeado por aplicação da tabela.
+
+6 - Os honorários devidos por aplicação do disposto no n.º 10 são pagos pelo Cofre Geral dos Tribunais, a pedido do interessado, apresentado na Secção Central ou na Secretaria-Geral do Tribunal, quando exista; nos restantes casos, o pedido é dirigido ao Instituto de Gestão Financeira e Patrimonial da Justiça, mas apresentado junto das entidades respectivas.

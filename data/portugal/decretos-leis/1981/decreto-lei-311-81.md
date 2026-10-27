@@ -1,0 +1,224 @@
+---
+schema_version: '1.0'
+id: pt:dre:568486:por
+title: Decreto-Lei n.º 311/81
+short_title: null
+summary: Regulamenta as cooperativas de comercialização
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 311/81
+official_date: null
+publication_date: '1981-11-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 266/1981, Série I de 1981-11-18
+  number: '266'
+  series: I
+  supplement: null
+  pages: 3058 - 3059
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/11/26600/30583059.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '568486'
+  dre_path: /dr/detalhe/decreto-lei/311-1981-568486
+  internal: pt:dre:568486:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1981-568486
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1981-568486
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:39:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 13ec26dabe4a4d28de87a5c9e524aa90db8961a93e3ec0bb9033b34c57a11654
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:39:28Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Código Cooperativo
+- Comércio
+- Cooperativa
+- Cooperativa de Comercialização
+relationships:
+- type: amended_by
+  target: pt:dre:632395:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:299014:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:632395:por
+  label: "Revogado pelo DEC LEI.523/99.1999.12.10.MTS DR.IS-A [286]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/523-1999-632395
+  date: '1999-12-10'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:39:28Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 311/81
+
+de 18 de Novembro
+
+Previsto no n.º 1 do artigo 84.º da Constituição da República e na alínea b) do artigo 4.º do Código Cooperativo, o ramo das cooperativas de comercialização vai buscar o seu traço identificador ao facto de só poderem ser admitidos como membros das cooperativas as pessoas jurídicas que se dediquem à actividade de comércio e indústria. Por esta via não pertencem ao ramo das cooperativas de comercialização as cooperativas agrícolas de comercialização.
+
+As cooperativas de comercialização são já numerosas no campo de abastecimento de retalhistas de produtos alimentares, bem como se revestem de apreciável peso económico no fornecimento de produtos farmacêuticos e alimentos compostos para animais. Com efeito, efectuaram em 1979 mais de 8 milhões de contos de vendas líquidas, números só ultrapassados pelas cooperativas de distribuição ligadas à agricultura.
+
+As cooperativas de comercialização abrangem cerca de 10000 associados, e o seu volume de emprego ultrapassa o milhar de pessoas, cerca de 11% dos quais sócios trabalhadores e 88% assalariados. Bem organizadas, sentem como principal obstáculo ao seu desenvolvimento a falta de formação cooperativa dos sócios. Com efeito, só cerca de 15% das cooperativas de comercialização efectuaram ou beneficiaram de acções formativas, um dos mais baixos índices de todos os ramos cooperativos.
+
+Considerando a necessidade de criar legislação específica que regulamente o ramo:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### ARTIGO 1.º — (Âmbito)
+
+As cooperativas de comercialização e suas organizações de grau superior regem-se pelas disposições do presente diploma e, nas suas omissões, pelas do Código Cooperativo.
+
+###### ARTIGO 2.º — (Noção)
+
+1 - São cooperativas de comercialização as que tenham por objecto principal:
+
+a) Adquirir, armazenar e fornecer aos membros os bens e serviços necessários à sua actividade;
+
+b) Colocar no mercado os bens produzidos ou transformados pelos membros;
+
+c) Desenvolver simultaneamente as actividades referidas nas alíneas anteriores.
+
+2 - A utilização da forma cooperativa não isenta da obrigatoriedade da conformidade do exercício da actividade com a lei, da obtenção de autorizações e licenças e de outras formalidades exigíveis nos termos legais, devendo as entidades de quem dependam as referidas autorizações e licenças ter em conta a especial natureza e função social das cooperativas.
+
+###### ARTIGO 3.º — (Objecto)
+
+Para a realização dos seus fins, as cooperativas de comercialização podem, nomeadamente:
+
+a) Fornecer bens e serviços adquiridos ou produzidos pela cooperativa;
+
+b) Importar e exportar todos os bens e serviços que se integrem no âmbito das suas actividades;
+
+c) Instalar serviços de apoio;
+
+d) Criar e apoiar a realização de cursos de formação técnica e cooperativa;
+
+e) Promover actividades e serviços de ordem cultural e recreativa destinados aos seus membros e colaboradores.
+
+###### ARTIGO 4.º — (Formas de constituição)
+
+As cooperativas de comercialização constituem-se por escritura pública.
+
+###### ARTIGO 5.º — (Organizações de grau superior)
+
+As cooperativas que se caracterizem por desenvolver actividades da mesma zona específica integradas neste ramo do sector cooperativo poderão constituir uniões e federações nacionais, nos termos previstos no Código Cooperativo.
+
+###### ARTIGO 6.º — (Membros das cooperativas de comercialização)
+
+1 - Os membros das cooperativas de comercialização de 1.º grau - podem ser pessoas singulares, maiores, ou pessoas colectivas.
+
+2 - As cooperativas de comercialização de grau superior são formadas exclusivamente por cooperativas de comercialização legalmente constituídas.
+
+###### ARTIGO 7.º — (Admissão de membros)
+
+1 - Só podem ser admitidos como membros das cooperativas de comercialização as pessoas jurídicas que se dediquem à actividade de comércio ou indústria possuidoras de cartão de identificação de pessoa colectiva ou entidade equiparada que tenham estabelecimento próprio em actividade devidamente localizado.
+
+2 - Podem ainda ser admitidos como membros os gerentes e outros mandatários designados nos termos do artigo 57.º do Código Cooperativo.
+
+3 - Perde a qualidade de membro quem deixar de reunir os requisitos previstos no n.º 1, se no prazo de 2 anos não retomar a actividade, e ainda as pessoas referidas no número anterior, quando cessem as suas funções.
+
+###### ARTIGO 8.º — (Operações com terceiros)
+
+1 - São consideradas operações com terceiros:
+
+a) Nas cooperativas de comercialização que tenham como objecto principal o consignado na alínea a) do artigo 2.º deste diploma, o fornecimento de bens e serviços a pessoas jurídicas que, embora reunindo as condições de admissão previstas nos estatutos, não sejam membros da cooperativa;
+
+b) Nas cooperativas de comercialização que tenham como objecto principal o consignado na alínea b) do artigo 2.º deste diploma, as aquisições de bens e serviços produzidos ou transformados por pessoas jurídicas não admitidas como membros;
+
+c) Nas cooperativas de comercialização que tenham como objecto principal o consignado na alínea e) do artigo 2.º deste diploma, as operações consignadas nas alíneas anteriores.
+
+2 - Quando as cooperativas de comercialização realizarem operações com terceiros, será o montante destas escriturado em separado do realizado com os membros.
+
+###### ARTIGO 9.º — (Capital social)
+
+1 - O capital social mínimo das cooperativas de comercialização não pode ser inferior a 250000$00.
+
+2 - A entrada mínima, a subscrever pelo membro das cooperativas de comercialização, não pode ser inferior a 20 títulos de capital.
+
+###### ARTIGO 10.º — (Gerentes)
+
+1 - Os estatutos deverão prever a existência de um ou mais gerentes, remunerados ou não, a quem incumbe a gestão diária da cooperativa.
+
+2 - Os gerentes poderão ou não ser membros da direcção, devendo os estatutos definir claramente as suas funções.
+
+###### ARTIGO 11.º — (Conselho fiscal)
+
+Os estatutos da cooperativa podem prever que o conselho fiscal seja assessorado por revisores oficiais de contas ou uma sociedade de revisores oficiais de contas.
+
+###### ARTIGO 12.º — (Distribuição de excedentes)
+
+1 - Os excedentes anuais líquidos gerados pelas cooperativas de comercialização terão a aplicação prevista no artigo 71.º do Código Cooperativo, não podendo o montante para as reservas obrigatórias ser inferior a 30% do valor reservado à distribuição pelos membros.
+
+2 - O montante dos excedentes destinado à distribuição pelos membros é proporcional ao valor das operações realizadas por cada membro com a cooperativa.
+
+3 - Os excedentes anuais líquidos gerados pelas operações com terceiros são insusceptíveis de repartição, revertendo integralmente para reservas obrigatórias, sem prejuízo do disposto no n.º 1 deste artigo.
+
+###### ARTIGO 13.º — (Subsídios)
+
+Os subsídios concedidos pelo Governo ou institutos públicos destinados à aquisição de imobilizações corpóreas são insusceptíveis de repartição entre membros, sendo lançados em conta de balanço, a incluir na situação líquida.
+
+###### ARTIGO 14.º — (Incompatibilidades)
+
+Para efeitos do artigo 62.º do Código Cooperativo, considera-se actividade económica idêntica ou similar à da cooperativa o exercício pelo membro da mesma actividade comercial, tal como se encontra definida no n.º 2 do artigo 2.º do [Decreto-Lei n.º 247/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1978-299014), de 22 de Agosto.
+
+###### ARTIGO 15.º — (Início de actividade)
+
+Para os efeitos previstos no n.º 1 do artigo 93.º do Código Cooperativo, é considerado início da actividade a apresentação às entidades competentes dos requerimentos de que as leis e regulamentos façam depender o exercício da actividade que a cooperativa visa prosseguir.
+
+###### ARTIGO 16.º — (Adaptação das entradas mínimas de capital)
+
+O prazo previsto no n.º 2 do artigo 23.º do Código Cooperativo é aplicável à actualização do capital por parte dos membros da cooperativa que já tivessem tal qualidade à data da escritura pública pela qual for efectuada a adaptação dos estatutos ao Código Cooperativo.
+
+Visto e aprovado em Conselho de Ministros de 15 de Outubro de 1981. - Francisco José Pereira Pinto Balsemão.
+
+Promulgado em 4 de Novembro de 1981.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -1,0 +1,1022 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:611692:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1989-923131759",
+ "dre_path": "/dr/detalhe/decreto-lei/152-1989-611692",
+ "source_lastmod": "2025-07-01",
+ "versions": [
+  {
+   "date": "1989-05-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "923282095",
+    "923282096",
+    "923282097",
+    "923282098",
+    "923282099",
+    "923282100",
+    "923282101",
+    "923282102",
+    "923282103",
+    "923282104",
+    "923282105",
+    "923282106",
+    "923282107",
+    "923282108",
+    "923282109"
+   ]
+  },
+  {
+   "date": "1989-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:322079:por",
+     "title": "Declaração",
+     "published": "1989-06-30",
+     "dre_path": "/dr/detalhe/declaracao/1989-322079"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 2.º"
+   ],
+   "fragments": [
+    "923282095",
+    "923282096",
+    "923033145",
+    "923282098",
+    "923282099",
+    "923282100",
+    "923282101",
+    "923282102",
+    "923282103",
+    "923282104",
+    "923282105",
+    "923282106",
+    "923282107",
+    "923282108",
+    "923282109",
+    "923282110",
+    "923282111"
+   ]
+  },
+  {
+   "date": "1990-03-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:333296:por",
+     "title": "Decreto-Lei n.º 95/90",
+     "published": "1990-03-20",
+     "dre_path": "/dr/detalhe/decreto-lei/95-1990-333296"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-A"
+   ],
+   "fragments": [
+    "923282095",
+    "923282096",
+    "923033145",
+    "923282098",
+    "923282099",
+    "923282100",
+    "923282101",
+    "923282102",
+    "924028955",
+    "924028956",
+    "924028957",
+    "924028958",
+    "924028959",
+    "924028960",
+    "924028961",
+    "924028962",
+    "924028963",
+    "924028964"
+   ]
+  },
+  {
+   "date": "1991-07-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:690984:por",
+     "title": "Decreto-Lei n.º 262/91",
+     "published": "1991-07-26",
+     "dre_path": "/dr/detalhe/decreto-lei/262-1991-690984"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "923282095",
+    "924226775",
+    "923033145",
+    "924226776",
+    "923282099",
+    "924226777",
+    "923282101",
+    "924226778",
+    "924028955",
+    "924226779",
+    "924226780",
+    "924028958",
+    "924028959",
+    "924226781",
+    "924226782",
+    "924226783",
+    "924028963",
+    "924028964"
+   ]
+  },
+  {
+   "date": "1992-05-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:500415:por",
+     "title": "Decreto-Lei n.º 78/92",
+     "published": "1992-05-06",
+     "dre_path": "/dr/detalhe/decreto-lei/78-1992-500415"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 15.º",
+    "Adita Tabela I",
+    "Adita Tabela II",
+    "Altera Artigo 1.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "923282095",
+    "924670650",
+    "924670651",
+    "924670652",
+    "924670653",
+    "924670654",
+    "924670655",
+    "924670656",
+    "924670657",
+    "924670658",
+    "924670659",
+    "924670660",
+    "924670661",
+    "924670662",
+    "924670663",
+    "924670664",
+    "924670665",
+    "924670666",
+    "924670667",
+    "924670668"
+   ]
+  },
+  {
+   "date": "1993-01-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:444447:por",
+     "title": "Lei n.º 30-C/92",
+     "published": "1992-12-28",
+     "dre_path": "/dr/detalhe/lei/30-c-1992-444447"
+    }
+   ],
+   "changes": [
+    "Altera Tabela I"
+   ],
+   "fragments": [
+    "923282095",
+    "924670650",
+    "924670651",
+    "924670652",
+    "924670653",
+    "924670654",
+    "924670655",
+    "924670656",
+    "924670657",
+    "924670658",
+    "924670659",
+    "924670660",
+    "924670661",
+    "924670662",
+    "924670663",
+    "924670664",
+    "924670665",
+    "924670666",
+    "925224236",
+    "924670668"
+   ]
+  },
+  {
+   "date": "1993-02-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:656424:por",
+     "title": "Decreto-Lei n.º 40/93",
+     "published": "1993-02-18",
+     "dre_path": "/dr/detalhe/decreto-lei/40-1993-656424"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 7.º-A",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º"
+   ],
+   "fragments": [
+    "923282095",
+    "925377408",
+    "925377409",
+    "925377410",
+    "925377411",
+    "925377412",
+    "925377413",
+    "925377414",
+    "925377415",
+    "925377416",
+    "925377417",
+    "925377418",
+    "925377419",
+    "925377420",
+    "925377421",
+    "925377422",
+    "925377423",
+    "924670666",
+    "925224236",
+    "924670668"
+   ]
+  },
+  {
+   "date": "1993-12-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:311209:por",
+     "title": "Lei n.º 75/93",
+     "published": "1993-12-20",
+     "dre_path": "/dr/detalhe/lei/75-1993-311209"
+    }
+   ],
+   "changes": [
+    "Revoga Tabela I",
+    "Revoga Tabela II"
+   ],
+   "fragments": [
+    "923282095",
+    "925377408",
+    "925377409",
+    "925377410",
+    "925377411",
+    "925377412",
+    "925377413",
+    "925377414",
+    "925377415",
+    "925377416",
+    "925377417",
+    "925377418",
+    "925377419",
+    "925377420",
+    "925377421",
+    "925377422",
+    "925377423",
+    "924670666",
+    "925899893",
+    "925899894"
+   ]
+  }
+ ],
+ "fragments": {
+  "923282095": {
+   "fragment_id": "923131760",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 152/89\n\nde 10 de Maio\n\nCom o imposto automóvel, criado pelo Decreto-Lei n.º 405/87, de 31 de Dezembro, procedeu-se à adaptação do regime de tributação dos veículos automóveis às condições de livre importação decorrentes da cessação do período transitório da adesão de Portugal às Comunidades, no que respeita à vigência dos Protocolos n.os 18 e 23.\n\nA experiência adquirida com a aplicação do referido diploma aconselha, todavia, a adopção de medidas que possibilitem uma melhor gestão do imposto e ainda a inclusão de mecanismos que se justificam pela necessidade de imprimir maior transparência, afastando os inconvenientes decorrentes da inexistência de uniformidade de critérios na classificação de alguns tipos de veículos.\n\nImporta ainda retirar, ao nível do imposto automóvel, as desejáveis consequências da criação da caução global no domínio da simplificação do processo de desalfândegamento e incluir na sede própria o regime fiscal aplicável às corporações de bombeiros, que, em termos profundamente ultrapassados, se encontra actualmente previsto no Decreto-Lei n.º 570/76, de 20 de Julho.\n\nAssim:\n\nNo uso da autorização legislativa concebida pelo artigo 35.º da Lei n.º 114/88, de 30 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "923282096": {
+   "fragment_id": "923131761",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - O imposto automóvel (IA) é um imposto interno incidente sobre os veículos automóveis ligeiros de passageiros - incluindo os de uso misto, os de corrida e outros principalmente concebidos para o transporte de pessoas, com exclusão das auto-caravanas -, importados, no estado de novos ou usados, ou montados ou fabricados em Portugal, e que sejam matriculados.\n\n2 - Estão ainda sujeitos ao IA os veículos automóveis ligeiros de mercadorias que, após a sua introdução no consumo, sejam transformados em veículos de passageiros ou em mistos de passageiros e carga de peso bruto inferior a 2500 kg.\n\n3 - O imposto é de natureza específica, monofásica e variável em função da cilindrada, conforme tabela anexa ao presente diploma, que dele faz parte integrante.\n\n4 - O montante do imposto liquidado sobre automóveis usados importados, com mais de dois anos contados desde a atribuição da primeira matrícula, será objecto de uma redução de 10% sobre os valores resultantes da aplicação da tabela referida no número anterior."
+  },
+  "923282097": {
+   "fragment_id": "923131762",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do presente diploma, consideram-se:\n\n1) Veículos automóveis ligeiros de uso misto - os automóveis com lotação até nove lugares, incluindo o do condutor, que reúnam as seguintes características:\n\nO interior pode utilizar-se, sem modificação da estrutura, tanto para o transporte de pessoas como de mercadorias;\n\nBancos escamoteáveis ou amovíveis e vidros laterais, porta traseira e acabamentos interiores idênticos ou semelhantes aos dos veículos automóveis para o transporte de pessoas;\n\n2) Veículos automóveis ligeiros de mercadorias - veículos de cabina simples ou dupla de lotação até seis lugares, incluindo o do condutor, de caixa aberta ou châssis-cabina e os veículos de caixa fechada de lotação até três lugares, incluindo o do condutor, que não sejam considerados veículos automóveis ligeiros de uso misto, nos termos do número anterior e desde que dotados das seguintes características:\n\nAntepara inamovível que separe totalmente o espaço destinado ao condutor e passageiros do destinado às mercadorias, devendo a caixa de carga ter um estrado contínuo;\n\nNão poderão apresentar mais de uma porta do lado esquerdo;\n\nOs painéis laterais poderão ser providos de vidros fixos na zona imediatamente a seguir ao espaço destinado ao condutor e passageiros, em extensão que não ultrapasse metade do comprimento útil da caixa de carga."
+  },
+  "923282098": {
+   "fragment_id": "923131763",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Nenhum veículo automóvel, quer no estado de novo, quer no de usado, poderá ser importado definitivamente sem que seja apresentada a homologação correspondente à respectiva marca e modelo, nos termos da Portaria n.º 427/87, de 22 de Maio.\n\n2 - Qualquer veículo automóvel sujeito ao IA só pode ser matriculado e registado quando se mostrem solvidos ou garantidos os inerentes compromissos perante o Estado, nos termos do Decreto-Lei n.º 289/88, de 24 de Agosto.\n\n3 - No caso de ser transformada a natureza dos veículos automóveis, nos termos do n.º 2 do artigo 1.º, estes só poderão ser legalizados pela Direcção-Geral de Viação após comprovação do pagamento do IA."
+  },
+  "923282099": {
+   "fragment_id": "923131764",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - A liquidação do imposto deverá ser efectuada pela Direcção-Geral das Alfândegas aquando da aceitação da declaração de introdução no consumo.\n\n2 - Relativamente aos veículos automóveis montados em Portugal, ou importados já completos, que se destinem ao consumo interno, o imposto deve ser pago nos termos das regras gerais respeitantes à dívida aduaneira e à prorrogação do pagamento dos direitos de importação.\n\n3 - Quando se trate de veículos automóveis fabricados no País com componentes nacionais e nacionalizados, ou transformados nos termos do n.º 2 do artigo 1.º, a liquidação e o pagamento do IA serão requeridos à direcção da alfândega respectiva e terão lugar através da guia do imposto automóvel."
+  },
+  "923282100": {
+   "fragment_id": "923131765",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - Os veículos automóveis de matrícula estrangeira destinados a importação definitiva, cujos proprietários residentes ou tenham a sua sede em território nacional, só poderão circular durante um período de 48 horas a partir da sua entrada em Portugal.\n\n2 - No prazo de 60 dias a contar da entrada em Portugal dos veículos a que se refere o número anterior deverá ser apresentado nas sedes das alfândegas o processo respeitante à sua importação definitiva.\n\n3 - Fica o Ministro das Finanças autorizado a criar ou a alterar, por despacho, os impressos e procedimentos que se tornem necessários à importação definitiva dos veículos que se encontrem nas condições previstas no n.º 1."
+  },
+  "923282101": {
+   "fragment_id": "923131766",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs veículos automóveis usados, quando importados definitivamente, nos termos dos Decretos-Leis n.os 371/85, de 19 de Setembro, e 499/85, de 18 de Dezembro, beneficiam, no que concerne ao imposto automóvel, dos mesmos benefícios estabelecidos em relação ao imposto que este veio substituir."
+  },
+  "923282102": {
+   "fragment_id": "923131767",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - As ambulâncias e os veículos para serviço de incêndios importados pelas associações e corporações de bombeiros serão isentos do imposto automóvel.\n\n2 - Para efeitos do número anterior, os interessados deverão apresentar declaração emitida pelo Serviço Nacional de Bombeiros, em momento anterior ao da sua aquisição ou importação, da qual constará o reconhecimento da natureza da instituição e das características técnicas do veículo."
+  },
+  "923282103": {
+   "fragment_id": "923131768",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - Os veículos automóveis abrangidos pelo presente diploma, quando importados para o serviço de aluguer com condutor - táxis, letra A e letra T -, beneficiam de redução de 70% no montante do imposto.\n\n2 - Os veículos automóveis que beneficiem da redução prevista no número anterior só poderão ser substituídos decorridos que sejam cinco anos a contar da data da emissão da respectiva licença, salvo em casos de acidente de que resultem danos irreparáveis e o cancelamento da matrícula."
+  },
+  "923282104": {
+   "fragment_id": "923131769",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - Os veículos automóveis fabricados até ao ano de 1950 e classificados como antigos pela Fédération International des Voitures Anciennes (FIVA) ou pelo clube que a representa em Portugal ficam isentos do imposto automóvel aquando da sua importação definitiva, desde que sejam considerados com interesse para o património cultural nacional.\n\n2 - O disposto no número anterior apenas se aplica aos veículos automóveis para os quais seja apresentado certificado de automóvel antigo e ficha técnica aprovados pelas entidades competentes.\n\n3 - Para apreciação dos processos de importação definitiva de veículos automóveis que preencham os condicionalismos constantes das normas anteriores é criada uma comissão, a nomear por despacho do Ministro das Finanças, constituída por representantes da Direcção-Geral das Alfândegas, da Direcção-Geral de Viação e do clube representante em Portugal da Fédération International des Voitures Anciennes.\n\n4 - Os veículos automóveis que tenham beneficiado do disposto no n.º 1 não poderão sair do País sem que se mostre garantido o montante correspondente ao benefício concedido aquando da sua importação definitiva."
+  },
+  "923282105": {
+   "fragment_id": "923131770",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAs referências feitas ao imposto sobre a venda de veículos automóveis nos diferentes diplomas em vigor devem entender-se como sendo feitas ao imposto automóvel."
+  },
+  "923282106": {
+   "fragment_id": "923131771",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO incumprimento dos prazos, a alteração das características determinantes da classificação fiscal dos veículos, bem como a utilização de veículos com desvio do destino ou aplicação em vista aos quais foram concedidos regimes de benefício, constantes do presente diploma, serão considerados como descaminho."
+  },
+  "923282107": {
+   "fragment_id": "923131772",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nAté 31 de Dezembro de 1989, e sem prejuízo das demais características relativas à sua tipificação, serão considerados como veículos automóveis ligeiros de mercadorias aqueles que apresentem mais de uma porta do lado esquerdo, desde que uma delas seja do tipo corrediço, e sejam providos de vidros laterais fixos em toda a extensão da caixa de carga."
+  },
+  "923282108": {
+   "fragment_id": "923131773",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nSão revogados o artigo 2.º do Decreto-Lei n.º 570/76, de 20 de Julho, e o Decreto-Lei n.º 405/87, de 31 de Dezembro."
+  },
+  "923282109": {
+   "fragment_id": "923131774",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação."
+  },
+  "923033145": {
+   "fragment_id": "923131762",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1989-06-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 148/1989, 1º Suplemento, Série I de 1989-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-322079), em vigor a partir de 1989-06-30"
+   ],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do presente diploma, consideram-se:\n\n1) Veículos automóveis ligeiros de uso misto - os automóveis com lotação até nove lugares, incluindo o do condutor, que reúnam as seguintes características:\n\nO interior pode utilizar-se, sem modificação da estrutura, tanto para o transporte de pessoas como de mercadorias;\n\nBancos escamoteáveis ou amovíveis e vidros laterais, porta traseira e acabamentos interiores idênticos ou semelhantes aos dos veículos automóveis para o transporte de pessoas;\n\n2) Veículos automóveis ligeiros de mercadorias - os veículos de cabina simples ou dupla de lotação até sete lugares, incluindo o do condutor, de caixa aberta ou châssis-cabina e os veículos de caixa fechada de lotação até três lugares, incluindo o do condutor, que não sejam considerados veículos automóveis ligeiros de uso misto, nos termos do número anterior e desde que dotados das seguintes características:\n\nAntepara inamovível que separe totalmente o espaço destinado ao condutor e passageiros do destinado às mercadorias, devendo a caixa de carga ter um estrado contínuo;\n\nNão poderão apresentar mais de uma porta do lado esquerdo;\n\nOs painéis laterais poderão ser providos de vidros fixos na zona imediatamente a seguir ao espaço destinado ao condutor e passageiros, em extensão que não ultrapasse metade do comprimento útil da caixa de carga.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 148/1989, 1º Suplemento, Série I de 1989-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-322079), em vigor a partir de 1989-06-30"
+  },
+  "923282110": {
+   "fragment_id": "923319975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de Fevereiro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 20 de Abril de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 25 de Abril de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "923282111": {
+   "fragment_id": "923319977",
+   "type": 14,
+   "heading": "Tabela a que se refere o n.º 3 do artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Tabela a que se refere o n.º 3 do artigo 1.º\n\n(ver documento original)"
+  },
+  "924028955": {
+   "fragment_id": "924045491",
+   "type": 11,
+   "heading": "Artigo 7.º-A",
+   "in_force_from": "1990-03-25",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 95/90 - Diário da República n.º 66/1990, Série I de 1990-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1990-333296), em vigor a partir de 1990-03-25"
+   ],
+   "markdown": "###### Artigo 7.º-A\n\nO Ministro das Finanças pode isentar do imposto automóvel as aquisições de veículos automóveis pelas forças armadas e de forças e serviços de segurança, destinados exclusivamente ao exercício dos poderes de autoridade.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 95/90 - Diário da República n.º 66/1990, Série I de 1990-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1990-333296), em vigor a partir de 1990-03-25"
+  },
+  "924028956": {
+   "fragment_id": "923131768",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - Os veículos automóveis abrangidos pelo presente diploma, quando importados para o serviço de aluguer com condutor - táxis, letra A e letra T -, beneficiam de redução de 70% no montante do imposto.\n\n2 - Os veículos automóveis que beneficiem da redução prevista no número anterior só poderão ser substituídos decorridos que sejam cinco anos a contar da data da emissão da respectiva licença, salvo em casos de acidente de que resultem danos irreparáveis e o cancelamento da matrícula."
+  },
+  "924028957": {
+   "fragment_id": "923131769",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - Os veículos automóveis fabricados até ao ano de 1950 e classificados como antigos pela Fédération International des Voitures Anciennes (FIVA) ou pelo clube que a representa em Portugal ficam isentos do imposto automóvel aquando da sua importação definitiva, desde que sejam considerados com interesse para o património cultural nacional.\n\n2 - O disposto no número anterior apenas se aplica aos veículos automóveis para os quais seja apresentado certificado de automóvel antigo e ficha técnica aprovados pelas entidades competentes.\n\n3 - Para apreciação dos processos de importação definitiva de veículos automóveis que preencham os condicionalismos constantes das normas anteriores é criada uma comissão, a nomear por despacho do Ministro das Finanças, constituída por representantes da Direcção-Geral das Alfândegas, da Direcção-Geral de Viação e do clube representante em Portugal da Fédération International des Voitures Anciennes.\n\n4 - Os veículos automóveis que tenham beneficiado do disposto no n.º 1 não poderão sair do País sem que se mostre garantido o montante correspondente ao benefício concedido aquando da sua importação definitiva."
+  },
+  "924028958": {
+   "fragment_id": "923131770",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAs referências feitas ao imposto sobre a venda de veículos automóveis nos diferentes diplomas em vigor devem entender-se como sendo feitas ao imposto automóvel."
+  },
+  "924028959": {
+   "fragment_id": "923131771",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO incumprimento dos prazos, a alteração das características determinantes da classificação fiscal dos veículos, bem como a utilização de veículos com desvio do destino ou aplicação em vista aos quais foram concedidos regimes de benefício, constantes do presente diploma, serão considerados como descaminho."
+  },
+  "924028960": {
+   "fragment_id": "923131772",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nAté 31 de Dezembro de 1989, e sem prejuízo das demais características relativas à sua tipificação, serão considerados como veículos automóveis ligeiros de mercadorias aqueles que apresentem mais de uma porta do lado esquerdo, desde que uma delas seja do tipo corrediço, e sejam providos de vidros laterais fixos em toda a extensão da caixa de carga."
+  },
+  "924028961": {
+   "fragment_id": "923131773",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nSão revogados o artigo 2.º do Decreto-Lei n.º 570/76, de 20 de Julho, e o Decreto-Lei n.º 405/87, de 31 de Dezembro."
+  },
+  "924028962": {
+   "fragment_id": "923131774",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação."
+  },
+  "924028963": {
+   "fragment_id": "923319975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de Fevereiro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 20 de Abril de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 25 de Abril de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "924028964": {
+   "fragment_id": "923319977",
+   "type": 14,
+   "heading": "Tabela a que se refere o n.º 3 do artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Tabela a que se refere o n.º 3 do artigo 1.º\n\n(ver documento original)"
+  },
+  "924226775": {
+   "fragment_id": "923131761",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1991-07-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - O imposto automóvel (IA) é um imposto interno incidente sobre os veículos\n\nautomóveis ligeiros de passageiros -incluindo os de uso misto, os de corrida e outros principalmente\n\nconcebidos para o transporte de pessoas, com exclusão das autocaravanas- introduzidos no consumo, no estado de novos ou usados, incluindo os montados ou fabricados em Portugal e que sejam matriculados.\n\n2 - Estão ainda sujeitos ao IA os veículos automóveis ligeiros de mercadorias que, após a sua introdução no consumo, sejam transformados em veículos de passageiros ou em mistos de passageiros e carga de peso bruto inferior a 2500 kg.\n\n3 - O imposto é de natureza específica, monofásica e variável em função da cilindrada, conforme tabela anexa ao presente diploma, que dele faz parte integrante.\n\n4 - O montante do imposto sobre automóveis usados, introduzidos no consumo, com mais de dois anos contados desde a atribuição da primeira matrícula será objecto de uma redução de 10% sobre os valores resultantes da aplicação da tabela anexa ao presente diploma, do qual faz parte integrante, excepto no que se refere a veículos automóveis originários ou em livre prática nos Estados membros das Comunidades Europeias, cuja redução será de 15%, quando tiverem entre dois e três anos de uso.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+  },
+  "924226776": {
+   "fragment_id": "923131763",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1991-07-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - Nenhum veículo automóvel, quer no estado de novo, quer no de usado, poderá ser importado definitivamente sem que seja apresentada a homologação correspondente à respectiva marca e modelo, nos termos da Portaria n.º 427/87, de 22 de Maio.\n\n2 - Qualquer veículo automóvel sujeito ao IA só pode ser matriculado e registado quando se mostrem solvidos ou garantidos os inerentes compromissos perante o Estado, nos termos do Decreto-Lei n.º 289/88, de 24 de Agosto.\n\n3 - No caso de ser transformada a natureza dos veículos automóveis, nos termos do n.º 2 do artigo 1.º, estes só poderão ser legalizados pela Direcção-Geral de Viação após comprovação do pagamento do IA.\n\n4 - Os veículos cujas matrículas tenham sido canceladas junto da Direcção-Geral de Viação só poderão voltar a ser matriculados e registados depois de cumprido o disposto nos n.os 1 e 2.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+  },
+  "924226777": {
+   "fragment_id": "923131765",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1991-07-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - Os veículos automóveis de matrícula estrangeira destinados a serem introduzidos no consumo, cujos proprietários sejam residentes ou tenham a sua sede em território nacional, só poderão circular durante um período de quatro dias a contar da sua entrada em Portugal.\n\n2 - No prazo de 90 dias a contar da entrada em Portugal dos veículos a que se refere o número anterior deverá ser apresentado, na sede da alfândega respectiva, o processo respeitante à introdução no consumo.\n\n3 - Fica o Ministro das Finanças autorizado a criar ou a alterar, por despacho, os impressos e procedimentos que se tornem necessários à importação definitiva dos veículos que se encontrem nas condições previstas no n.º 1.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+  },
+  "924226778": {
+   "fragment_id": "923131767",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1991-07-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+   ],
+   "markdown": "###### Artigo 7.º\n\nEstão isentos de imposto automóvel aquando da sua entrada em consumo:\n\na) Os veículos para serviço de incêndio adquiridos pelas associações e corporações de bombeiros, incluindo os municipais, mediante apresentação de declaração emitida pelo Serviço Nacional de Bombeiros, da qual constarão as suas características técnicas e o reconhecimento da natureza do adquirente;\n\nb) As ambulâncias, desde que se apresentem à verificação providas das suas características essenciais;\n\nc) Os veículos automóveis adquiridos pelas forças militares, militarizadas e de segurança, quando destinados exclusivamente ao exercício de poderes de autoridade, considerando-se como tal as funções de policiamento, vigilância, patrulhamento, as de apoio aos serviços de inspecção e investigação e as de fiscalização de pessoas e bens nas zonas de fronteira aérea, marítima e terrestre.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+  },
+  "924226779": {
+   "fragment_id": "923131768",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1991-07-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+   ],
+   "markdown": "###### Artigo 8.º\n\n1 - Os veículos automóveis abrangidos pelo presente diploma, quando introduzidos no consumo para o serviço de aluguer com condutor - táxis letra A e letra T -, beneficiam de redução de 70% do montante do imposto.\n\n2 - O benefício de redução do imposto automóvel para os veículos referidos no número anterior, adaptados ao acesso e transporte de deficientes, em termos a definir por decreto regulamentar, será de 80%.\n\n3 - Os veículos automóveis que beneficiem das reduções previstas neste artigo só podem ser substituídos decorridos que sejam cinco anos a contar da data de emissão da respectiva licença.\n\n4 - A substituição antes de decorrido o prazo previsto no número anterior dará lugar ao pagamento do montante de imposto proporcional ao prazo em falta, salvo em casos de acidente de que resultem danos irreparáveis e o cancelamento da matrícula.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+  },
+  "924226780": {
+   "fragment_id": "923131769",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1991-07-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+   ],
+   "markdown": "###### Artigo 9.º\n\n1 - Os veículos automóveis fabricados até ao ano de 1955 e classificados como antigos pela Fédération International des Voitures Anciennes (FIVA) ou pelo clube que a representa em Portugal ficam isentos de IA aquando da sua introdução no consumo, desde que sejam considerados com interesse para o património cultural nacional.\n\n2 - O disposto no número anterior apenas se aplica aos veículos automóveis para os quais seja apresentado certificado de automóvel antigo e ficha técnica aprovados pelas entidades competentes.\n\n3 - Para apreciação dos processos referentes à isenção prevista no presente artigo serão nomeadas, por despacho do Ministro das Finanças, comissões de peritos constituídas por representantes da Direcção-Geral das Alfândegas, da Direcção-Geral de Viação e do clube representante em Portugal da Fédération International des Voitures Anciennes.\n\n4 - Os veículos automóveis que tenham beneficiado do disposto no n.º 1 não poderão sair do País sem que se mostre garantido o montante correspondente ao benefício concedido aquando da sua importação definitiva.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+  },
+  "924226781": {
+   "fragment_id": "923131772",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1991-07-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+   ],
+   "markdown": "###### Artigo 12.º\n\n1 - As entidades que beneficiem de isenção de imposto automóvel não podem, por qualquer forma, alienar os respectivos veículos antes de decorrido o prazo de cinco anos, contado da data de introdução no consumo, salvo legislação específica em contrário.\n\n2 - A alienação do veículo automóvel objecto da isenção antes do decurso do prazo estabelecido no número anterior dará lugar ao pagamento do montante proporcional ao tempo em falta, e segundo as taxas em vigor à data da concessão do benefício.\n\n3 - Se a alienação se efectuar a um sujeito passivo beneficiário, ele próprio, da isenção fiscal, a mesma manter-se-á desde que, para o efeito, a Direcção-Geral das Alfândegas certifique aquela qualidade ou estatuto.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+  },
+  "924226782": {
+   "fragment_id": "923131773",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": "1991-07-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+   ],
+   "markdown": "###### Artigo 13.º\n\n1 - São criadas matrículas de exportação, a atribuir pela Direcção-Geral das Alfândegas a veículos que se destinem a ser exportados para pessoas singulares ou colectivas não residentes nem estabelecidas em território nacional.\n\n2 - Para aplicação do número anterior, consideram-se não residentes as pessoas singulares que não exerçam no território nacional qualquer actividade remunerada, nele não permanecendo por período superior a 185 dias em cada ano civil, e as pessoas colectivas cuja sede ou direcção efectiva se situe fora do território nacional.\n\n3 - Atribuídas as matrículas de exportação, o veículo apenas poderá permanecer no território nacional durante o período máximo de 90 dias, e ser conduzido pelo respectivo titular, seu cônjuge e descendentes, ou, no caso de se tratar de pessoa colectiva, por um representante devidamente autorizado, desde que, em qualquer dos casos, se encontrem nas condições previstas no número anterior.\n\n4 - A atribuição de matrícula de exportação obriga ao cancelamento da matrícula nacional anterior, nos casos em que esta já tenha sido emitida.\n\n5 - O cancelamento da matrícula a que se refere o número anterior será comprovado perante a Direcção-Geral das Alfândegas, mediante certidão emitida pela Direcção-Geral de Viação.\n\n6 - A dimensão, características e formalidades respeitantes às matrículas de exportação serão estabelecidas por decreto regulamentar.\n\n7 - O desrespeito dos condicionalismos previstos no número anterior constitui descaminho, determinando a imediata apreensão do veículo e o pagamento do imposto devido à data da atribuição da matrícula de exportação.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+  },
+  "924226783": {
+   "fragment_id": "923131774",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": "1991-07-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+   ],
+   "markdown": "###### Artigo 14.º\n\n1 - A exportação de veículos novos e usados, por sociedades comerciais regularmente constituídas, cujo imposto já tenha sido cobrado dará lugar à restituição do mesmo, nos termos e nas condições estabelecidos nos números seguintes.\n\n2 - O montante do imposto a restituir, relativamente a veículos exportados, será determinado em função do maior dos períodos compreendidos entre a atribuição e o cancelamento da matrícula definitiva nacional, ou entre essa atribuição e o montante da exportação, da seguinte forma:\n\na) No período de um ano - 75%;\n\nb) No período superior a um ano, mas inferior ou igual a dois anos - 50%;\n\nc) No período superior a dois anos, mas inferior ou igual a três anos - 25%.\n\n3 - O montante do imposto a restituir relativamente a veículos exportados que não foram matriculados será de 100%.\n\n4 - Para efeitos de restituição do imposto, o requerente apresentará nas sedes das alfândegas, para além do comprovativo do pagamento do imposto, uma via da declaração de exportação do veículo com indicação da data de saída efectiva, a qual não poderá ter ocorrido há mais de 12 meses, comprovativo da entrada no País dos fundos destinados ao pagamento dos veículos exportados, bem como prova do cancelamento do respectivo livrete e título de registo de propriedade.\n\n5 - As sedes das alfândegas restituirão o montante do imposto no prazo de 60 dias contados da apresentação da documentação referida no número anterior.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+  },
+  "924670650": {
+   "fragment_id": "923131761",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1992-05-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 78/92 - Diário da República n.º 104/1992, Série I-A de 1992-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1992-500415), em vigor a partir de 1992-05-07",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - O imposto automóvel (IA) é um imposto interno incidente sobre os veículos\n\nautomóveis ligeiros de passageiros -incluindo os de uso misto, os de corrida e outros principalmente\n\nconcebidos para o transporte de pessoas, com exclusão das autocaravanas- introduzidos no consumo, no estado de novos ou usados, incluindo os montados ou fabricados em Portugal e que sejam matriculados.\n\n2 - Estão ainda sujeitos ao IA os veículos automóveis ligeiros de mercadorias que, após a sua introdução no consumo, sejam transformados em veículos de passageiros ou em mistos de passageiros e carga de peso bruto inferior a 2500 kg.\n\n3 - O imposto é de natureza específica, monofásica e determinável de acordo com as tabelas I e II anexas ao presente diploma, que dele fazem parte integrante, correspondendo a última às fórmulas de conversão em centímetros cúbicos a aplicar aos veículos não convencionais.\n\n4 - O montante do imposto sobre automóveis usados, introduzidos no consumo, com mais de dois anos contados desde a atribuição da primeira matrícula será objecto de uma redução de 10% sobre os valores resultantes da aplicação da tabela anexa ao presente diploma, do qual faz parte integrante, excepto no que se refere a veículos automóveis originários ou em livre prática nos Estados membros das Comunidades Europeias, cuja redução será de 15%, quando tiverem entre dois e três anos de uso.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 78/92 - Diário da República n.º 104/1992, Série I-A de 1992-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1992-500415), em vigor a partir de 1992-05-07\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+  },
+  "924670651": {
+   "fragment_id": "923131762",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 148/1989, 1º Suplemento, Série I de 1989-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-322079), em vigor a partir de 1989-06-30"
+   ],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do presente diploma, consideram-se:\n\n1) Veículos automóveis ligeiros de uso misto - os automóveis com lotação até nove lugares, incluindo o do condutor, que reúnam as seguintes características:\n\nO interior pode utilizar-se, sem modificação da estrutura, tanto para o transporte de pessoas como de mercadorias;\n\nBancos escamoteáveis ou amovíveis e vidros laterais, porta traseira e acabamentos interiores idênticos ou semelhantes aos dos veículos automóveis para o transporte de pessoas;\n\n2) Veículos automóveis ligeiros de mercadorias - os veículos de cabina simples ou dupla de lotação até sete lugares, incluindo o do condutor, de caixa aberta ou châssis-cabina e os veículos de caixa fechada de lotação até três lugares, incluindo o do condutor, que não sejam considerados veículos automóveis ligeiros de uso misto, nos termos do número anterior e desde que dotados das seguintes características:\n\nAntepara inamovível que separe totalmente o espaço destinado ao condutor e passageiros do destinado às mercadorias, devendo a caixa de carga ter um estrado contínuo;\n\nNão poderão apresentar mais de uma porta do lado esquerdo;\n\nOs painéis laterais poderão ser providos de vidros fixos na zona imediatamente a seguir ao espaço destinado ao condutor e passageiros, em extensão que não ultrapasse metade do comprimento útil da caixa de carga.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 148/1989, 1º Suplemento, Série I de 1989-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-322079), em vigor a partir de 1989-06-30"
+  },
+  "924670652": {
+   "fragment_id": "923131763",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - Nenhum veículo automóvel, quer no estado de novo, quer no de usado, poderá ser importado definitivamente sem que seja apresentada a homologação correspondente à respectiva marca e modelo, nos termos da Portaria n.º 427/87, de 22 de Maio.\n\n2 - Qualquer veículo automóvel sujeito ao IA só pode ser matriculado e registado quando se mostrem solvidos ou garantidos os inerentes compromissos perante o Estado, nos termos do Decreto-Lei n.º 289/88, de 24 de Agosto.\n\n3 - No caso de ser transformada a natureza dos veículos automóveis, nos termos do n.º 2 do artigo 1.º, estes só poderão ser legalizados pela Direcção-Geral de Viação após comprovação do pagamento do IA.\n\n4 - Os veículos cujas matrículas tenham sido canceladas junto da Direcção-Geral de Viação só poderão voltar a ser matriculados e registados depois de cumprido o disposto nos n.os 1 e 2.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+  },
+  "924670653": {
+   "fragment_id": "923131764",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - A liquidação do imposto deverá ser efectuada pela Direcção-Geral das Alfândegas aquando da aceitação da declaração de introdução no consumo.\n\n2 - Relativamente aos veículos automóveis montados em Portugal, ou importados já completos, que se destinem ao consumo interno, o imposto deve ser pago nos termos das regras gerais respeitantes à dívida aduaneira e à prorrogação do pagamento dos direitos de importação.\n\n3 - Quando se trate de veículos automóveis fabricados no País com componentes nacionais e nacionalizados, ou transformados nos termos do n.º 2 do artigo 1.º, a liquidação e o pagamento do IA serão requeridos à direcção da alfândega respectiva e terão lugar através da guia do imposto automóvel."
+  },
+  "924670654": {
+   "fragment_id": "923131765",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - Os veículos automóveis de matrícula estrangeira destinados a serem introduzidos no consumo, cujos proprietários sejam residentes ou tenham a sua sede em território nacional, só poderão circular durante um período de quatro dias a contar da sua entrada em Portugal.\n\n2 - No prazo de 90 dias a contar da entrada em Portugal dos veículos a que se refere o número anterior deverá ser apresentado, na sede da alfândega respectiva, o processo respeitante à introdução no consumo.\n\n3 - Fica o Ministro das Finanças autorizado a criar ou a alterar, por despacho, os impressos e procedimentos que se tornem necessários à importação definitiva dos veículos que se encontrem nas condições previstas no n.º 1.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+  },
+  "924670655": {
+   "fragment_id": "923131766",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs veículos automóveis usados, quando importados definitivamente, nos termos dos Decretos-Leis n.os 371/85, de 19 de Setembro, e 499/85, de 18 de Dezembro, beneficiam, no que concerne ao imposto automóvel, dos mesmos benefícios estabelecidos em relação ao imposto que este veio substituir."
+  },
+  "924670656": {
+   "fragment_id": "923131767",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+   ],
+   "markdown": "###### Artigo 7.º\n\nEstão isentos de imposto automóvel aquando da sua entrada em consumo:\n\na) Os veículos para serviço de incêndio adquiridos pelas associações e corporações de bombeiros, incluindo os municipais, mediante apresentação de declaração emitida pelo Serviço Nacional de Bombeiros, da qual constarão as suas características técnicas e o reconhecimento da natureza do adquirente;\n\nb) As ambulâncias, desde que se apresentem à verificação providas das suas características essenciais;\n\nc) Os veículos automóveis adquiridos pelas forças militares, militarizadas e de segurança, quando destinados exclusivamente ao exercício de poderes de autoridade, considerando-se como tal as funções de policiamento, vigilância, patrulhamento, as de apoio aos serviços de inspecção e investigação e as de fiscalização de pessoas e bens nas zonas de fronteira aérea, marítima e terrestre.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+  },
+  "924670657": {
+   "fragment_id": "924045491",
+   "type": 11,
+   "heading": "Artigo 7.º-A",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 95/90 - Diário da República n.º 66/1990, Série I de 1990-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1990-333296), em vigor a partir de 1990-03-25"
+   ],
+   "markdown": "###### Artigo 7.º-A\n\nO Ministro das Finanças pode isentar do imposto automóvel as aquisições de veículos automóveis pelas forças armadas e de forças e serviços de segurança, destinados exclusivamente ao exercício dos poderes de autoridade.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 95/90 - Diário da República n.º 66/1990, Série I de 1990-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1990-333296), em vigor a partir de 1990-03-25"
+  },
+  "924670658": {
+   "fragment_id": "923131768",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1992-05-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 78/92 - Diário da República n.º 104/1992, Série I-A de 1992-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1992-500415), em vigor a partir de 1992-05-07",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+   ],
+   "markdown": "###### Artigo 8.º\n\n1 - Os veículos automóveis abrangidos pelo presente diploma, quando introduzidos no consumo para o serviço de aluguer com condutor - táxis letra A e letra T -, beneficiam de redução de 70% do montante do imposto.\n\n2 - O benefício de redução do imposto automóvel para os veículos referidos no número anterior, adaptados ao acesso e transporte de deficientes, em termos a definir por decreto regulamentar, será de 80%.\n\n3 - Os veículos automóveis que beneficiem das reduções previstas neste artigo só podem ser alienados ou substituídos decorridos que sejam cinco anos a contar da data de emissão da respectiva licença.\n\n4 - A alienação ou a substituição antes de decorrido o prazo previsto no número anterior dará lugar ao pagamento do montante de imposto proporcional ao prazo em falta, salvo em casos de acidentes de que resultem danos irreparáveis e o cancelamento da matrícula.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 78/92 - Diário da República n.º 104/1992, Série I-A de 1992-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1992-500415), em vigor a partir de 1992-05-07\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+  },
+  "924670659": {
+   "fragment_id": "923131769",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+   ],
+   "markdown": "###### Artigo 9.º\n\n1 - Os veículos automóveis fabricados até ao ano de 1955 e classificados como antigos pela Fédération International des Voitures Anciennes (FIVA) ou pelo clube que a representa em Portugal ficam isentos de IA aquando da sua introdução no consumo, desde que sejam considerados com interesse para o património cultural nacional.\n\n2 - O disposto no número anterior apenas se aplica aos veículos automóveis para os quais seja apresentado certificado de automóvel antigo e ficha técnica aprovados pelas entidades competentes.\n\n3 - Para apreciação dos processos referentes à isenção prevista no presente artigo serão nomeadas, por despacho do Ministro das Finanças, comissões de peritos constituídas por representantes da Direcção-Geral das Alfândegas, da Direcção-Geral de Viação e do clube representante em Portugal da Fédération International des Voitures Anciennes.\n\n4 - Os veículos automóveis que tenham beneficiado do disposto no n.º 1 não poderão sair do País sem que se mostre garantido o montante correspondente ao benefício concedido aquando da sua importação definitiva.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+  },
+  "924670660": {
+   "fragment_id": "923131770",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAs referências feitas ao imposto sobre a venda de veículos automóveis nos diferentes diplomas em vigor devem entender-se como sendo feitas ao imposto automóvel."
+  },
+  "924670661": {
+   "fragment_id": "923131771",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO incumprimento dos prazos, a alteração das características determinantes da classificação fiscal dos veículos, bem como a utilização de veículos com desvio do destino ou aplicação em vista aos quais foram concedidos regimes de benefício, constantes do presente diploma, serão considerados como descaminho."
+  },
+  "924670662": {
+   "fragment_id": "923131772",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+   ],
+   "markdown": "###### Artigo 12.º\n\n1 - As entidades que beneficiem de isenção de imposto automóvel não podem, por qualquer forma, alienar os respectivos veículos antes de decorrido o prazo de cinco anos, contado da data de introdução no consumo, salvo legislação específica em contrário.\n\n2 - A alienação do veículo automóvel objecto da isenção antes do decurso do prazo estabelecido no número anterior dará lugar ao pagamento do montante proporcional ao tempo em falta, e segundo as taxas em vigor à data da concessão do benefício.\n\n3 - Se a alienação se efectuar a um sujeito passivo beneficiário, ele próprio, da isenção fiscal, a mesma manter-se-á desde que, para o efeito, a Direcção-Geral das Alfândegas certifique aquela qualidade ou estatuto.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+  },
+  "924670663": {
+   "fragment_id": "923131773",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+   ],
+   "markdown": "###### Artigo 13.º\n\n1 - São criadas matrículas de exportação, a atribuir pela Direcção-Geral das Alfândegas a veículos que se destinem a ser exportados para pessoas singulares ou colectivas não residentes nem estabelecidas em território nacional.\n\n2 - Para aplicação do número anterior, consideram-se não residentes as pessoas singulares que não exerçam no território nacional qualquer actividade remunerada, nele não permanecendo por período superior a 185 dias em cada ano civil, e as pessoas colectivas cuja sede ou direcção efectiva se situe fora do território nacional.\n\n3 - Atribuídas as matrículas de exportação, o veículo apenas poderá permanecer no território nacional durante o período máximo de 90 dias, e ser conduzido pelo respectivo titular, seu cônjuge e descendentes, ou, no caso de se tratar de pessoa colectiva, por um representante devidamente autorizado, desde que, em qualquer dos casos, se encontrem nas condições previstas no número anterior.\n\n4 - A atribuição de matrícula de exportação obriga ao cancelamento da matrícula nacional anterior, nos casos em que esta já tenha sido emitida.\n\n5 - O cancelamento da matrícula a que se refere o número anterior será comprovado perante a Direcção-Geral das Alfândegas, mediante certidão emitida pela Direcção-Geral de Viação.\n\n6 - A dimensão, características e formalidades respeitantes às matrículas de exportação serão estabelecidas por decreto regulamentar.\n\n7 - O desrespeito dos condicionalismos previstos no número anterior constitui descaminho, determinando a imediata apreensão do veículo e o pagamento do imposto devido à data da atribuição da matrícula de exportação.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+  },
+  "924670664": {
+   "fragment_id": "923131774",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+   ],
+   "markdown": "###### Artigo 14.º\n\n1 - A exportação de veículos novos e usados, por sociedades comerciais regularmente constituídas, cujo imposto já tenha sido cobrado dará lugar à restituição do mesmo, nos termos e nas condições estabelecidos nos números seguintes.\n\n2 - O montante do imposto a restituir, relativamente a veículos exportados, será determinado em função do maior dos períodos compreendidos entre a atribuição e o cancelamento da matrícula definitiva nacional, ou entre essa atribuição e o montante da exportação, da seguinte forma:\n\na) No período de um ano - 75%;\n\nb) No período superior a um ano, mas inferior ou igual a dois anos - 50%;\n\nc) No período superior a dois anos, mas inferior ou igual a três anos - 25%.\n\n3 - O montante do imposto a restituir relativamente a veículos exportados que não foram matriculados será de 100%.\n\n4 - Para efeitos de restituição do imposto, o requerente apresentará nas sedes das alfândegas, para além do comprovativo do pagamento do imposto, uma via da declaração de exportação do veículo com indicação da data de saída efectiva, a qual não poderá ter ocorrido há mais de 12 meses, comprovativo da entrada no País dos fundos destinados ao pagamento dos veículos exportados, bem como prova do cancelamento do respectivo livrete e título de registo de propriedade.\n\n5 - As sedes das alfândegas restituirão o montante do imposto no prazo de 60 dias contados da apresentação da documentação referida no número anterior.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+  },
+  "924670665": {
+   "fragment_id": "924669911",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "1992-05-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/92 - Diário da República n.º 104/1992, Série I-A de 1992-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1992-500415), em vigor a partir de 1992-05-07"
+   ],
+   "markdown": "###### Artigo 15.º\n\n1 - Será concedido o reembolso do diferencial do imposto pago no acto de introdução no consumo e do imposto devido por via da entrada em vigor do presente diploma relativamente aos veículos que tenham sido tributados segundo a tabela anterior, mas que ainda não tenham sido matriculados nem vendidos ao público.\n\n2 - Para efeitos de restituições do imposto, o requerente apresentará nas sedes das alfândegas, além da prova de pagamento do mesmo (guia do IA), certidão de não matriculação, emitida pela Direcção-Geral de Viação, num prazo que não poderá exceder 90 dias a contar da entrada em vigor deste diploma.\n\n3 - As alfândegas, sempre que tenham dúvidas sobre a efectivação da venda do veículo, susterão o processo de reembolso e tomarão todas as medidas de investigação tendentes a determinar se este condicionalismo legal se verificou ou não.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/92 - Diário da República n.º 104/1992, Série I-A de 1992-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1992-500415), em vigor a partir de 1992-05-07"
+  },
+  "924670666": {
+   "fragment_id": "923319975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de Fevereiro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 20 de Abril de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 25 de Abril de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "924670667": {
+   "fragment_id": "924669912",
+   "type": 4,
+   "heading": "Tabela I — Imposto automóvel",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 78/92 - Diário da República n.º 104/1992, Série I-A de 1992-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1992-500415), em vigor a partir de 1992-05-07"
+   ],
+   "markdown": "## Tabela I — Imposto automóvel\n\n(ver documento original)\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 78/92 - Diário da República n.º 104/1992, Série I-A de 1992-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1992-500415), em vigor a partir de 1992-05-07"
+  },
+  "924670668": {
+   "fragment_id": "924669913",
+   "type": 14,
+   "heading": "Tabela II",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 78/92 - Diário da República n.º 104/1992, Série I-A de 1992-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1992-500415), em vigor a partir de 1992-05-07"
+   ],
+   "markdown": "## Tabela II\n\n(ver documento original)\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 78/92 - Diário da República n.º 104/1992, Série I-A de 1992-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1992-500415), em vigor a partir de 1992-05-07"
+  },
+  "925224236": {
+   "fragment_id": "924669912",
+   "type": 4,
+   "heading": "Tabela I — Imposto automóvel",
+   "in_force_from": "1993-01-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 35.º do/a [Lei n.º 30-C/92 - Diário da República n.º 298/1992, 1º Suplemento, Série I-A de 1992-12-28](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), em vigor a partir de 1993-01-02",
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 78/92 - Diário da República n.º 104/1992, Série I-A de 1992-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1992-500415), em vigor a partir de 1992-05-07"
+   ],
+   "markdown": "## Tabela I — Imposto automóvel\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 35.º do/a [Lei n.º 30-C/92 - Diário da República n.º 298/1992, 1º Suplemento, Série I-A de 1992-12-28](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), em vigor a partir de 1993-01-02\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 78/92 - Diário da República n.º 104/1992, Série I-A de 1992-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1992-500415), em vigor a partir de 1992-05-07"
+  },
+  "925377408": {
+   "fragment_id": "923131761",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1993-02-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 78/92 - Diário da República n.º 104/1992, Série I-A de 1992-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1992-500415), em vigor a partir de 1992-05-07",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - O imposto automóvel (IA) é um imposto interno incidente sobre os veículos\n\nautomóveis ligeiros de passageiros -incluindo os de uso misto, os de corrida e outros principalmente\n\nconcebidos para o transporte de pessoas, com exclusão das autocaravanas- introduzidos no consumo, no estado de novos ou usados, incluindo os montados ou fabricados em Portugal e que sejam matriculados.\n\n2 - Estão ainda sujeitos ao IA os veículos automóveis ligeiros de mercadorias que, após a sua introdução no consumo, sejam transformados em veículos de passageiros ou em mistos de passageiros e carga de peso bruto inferior a 2500 kg.\n\n3 - O imposto é de natureza específica, monofásica e determinável de acordo com as tabelas I e II anexas ao presente diploma, que dele fazem parte integrante, correspondendo a última às fórmulas de conversão em centímetros cúbicos a aplicar aos veículos não convencionais.\n\n4 - O montante do imposto sobre automóveis usados, introduzidos no consumo, com mais de dois anos contados desde a atribuição da primeira matrícula será objecto de uma redução de 10% sobre os valores resultantes da aplicação da tabela anexa ao presente diploma, do qual faz parte integrante, excepto no que se refere a veículos automóveis originários ou em livre prática nos Estados membros das Comunidades Europeias, cuja redução será de 15%, quando tiverem entre dois e três anos de uso.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 78/92 - Diário da República n.º 104/1992, Série I-A de 1992-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1992-500415), em vigor a partir de 1992-05-07\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+  },
+  "925377409": {
+   "fragment_id": "923131762",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1993-02-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01",
+    "Retificado pelo/a [Declaração - Diário da República n.º 148/1989, 1º Suplemento, Série I de 1989-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-322079), em vigor a partir de 1989-06-30"
+   ],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do presente diploma, consideram-se:\n\n1) Veículos automóveis ligeiros de uso misto - os automóveis com lotação até nove lugares, incluindo o do condutor, que reúnam as seguintes características:\n\nO interior pode utilizar-se, sem modificação da estrutura, tanto para o transporte de pessoas como de mercadorias;\n\nBancos escamoteáveis ou amovíveis e vidros laterais, porta traseira e acabamentos interiores idênticos ou semelhantes aos dos veículos automóveis para o transporte de pessoas;\n\n2) Veículos automóveis ligeiros de mercadorias - os veículos de cabina simples ou dupla de lotação até sete lugares, incluindo o do condutor, de caixa aberta ou châssis-cabina e os veículos de caixa fechada de lotação até três lugares, incluindo o do condutor, que não sejam considerados veículos automóveis ligeiros de uso misto, nos termos do número anterior e desde que dotados das seguintes características:\n\nAntepara inamovível que separe totalmente o espaço destinado ao condutor e passageiros do destinado às mercadorias, devendo a caixa de carga ter um estrado contínuo;\n\nNão poderão apresentar mais de uma porta do lado esquerdo;\n\nOs painéis laterais poderão ser providos de vidros fixos na zona imediatamente a seguir ao espaço destinado ao condutor e passageiros, em extensão que não ultrapasse metade do comprimento útil da caixa de carga.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01\n\n> Retificado pelo/a [Declaração - Diário da República n.º 148/1989, 1º Suplemento, Série I de 1989-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-322079), em vigor a partir de 1989-06-30"
+  },
+  "925377410": {
+   "fragment_id": "923131763",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1993-02-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - Nenhum veículo automóvel, quer no estado de novo, quer no de usado, poderá ser importado definitivamente sem que seja apresentada a homologação correspondente à respectiva marca e modelo, nos termos da Portaria n.º 427/87, de 22 de Maio.\n\n2 - Qualquer veículo automóvel sujeito ao IA só pode ser matriculado e registado quando se mostrem solvidos ou garantidos os inerentes compromissos perante o Estado, nos termos do Decreto-Lei n.º 289/88, de 24 de Agosto.\n\n3 - No caso de ser transformada a natureza dos veículos automóveis, nos termos do n.º 2 do artigo 1.º, estes só poderão ser legalizados pela Direcção-Geral de Viação após comprovação do pagamento do IA.\n\n4 - Os veículos cujas matrículas tenham sido canceladas junto da Direcção-Geral de Viação só poderão voltar a ser matriculados e registados depois de cumprido o disposto nos n.os 1 e 2.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+  },
+  "925377411": {
+   "fragment_id": "923131764",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1993-02-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - A liquidação do imposto deverá ser efectuada pela Direcção-Geral das Alfândegas aquando da aceitação da declaração de introdução no consumo.\n\n2 - Relativamente aos veículos automóveis montados em Portugal, ou importados já completos, que se destinem ao consumo interno, o imposto deve ser pago nos termos das regras gerais respeitantes à dívida aduaneira e à prorrogação do pagamento dos direitos de importação.\n\n3 - Quando se trate de veículos automóveis fabricados no País com componentes nacionais e nacionalizados, ou transformados nos termos do n.º 2 do artigo 1.º, a liquidação e o pagamento do IA serão requeridos à direcção da alfândega respectiva e terão lugar através da guia do imposto automóvel.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01"
+  },
+  "925377412": {
+   "fragment_id": "923131765",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1993-02-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - Os veículos automóveis de matrícula estrangeira destinados a serem introduzidos no consumo, cujos proprietários sejam residentes ou tenham a sua sede em território nacional, só poderão circular durante um período de quatro dias a contar da sua entrada em Portugal.\n\n2 - No prazo de 90 dias a contar da entrada em Portugal dos veículos a que se refere o número anterior deverá ser apresentado, na sede da alfândega respectiva, o processo respeitante à introdução no consumo.\n\n3 - Fica o Ministro das Finanças autorizado a criar ou a alterar, por despacho, os impressos e procedimentos que se tornem necessários à importação definitiva dos veículos que se encontrem nas condições previstas no n.º 1.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+  },
+  "925377413": {
+   "fragment_id": "923131766",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1993-02-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01"
+   ],
+   "markdown": "###### Artigo 6.º\n\nOs veículos automóveis usados, quando importados definitivamente, nos termos dos Decretos-Leis n.os 371/85, de 19 de Setembro, e 499/85, de 18 de Dezembro, beneficiam, no que concerne ao imposto automóvel, dos mesmos benefícios estabelecidos em relação ao imposto que este veio substituir.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01"
+  },
+  "925377414": {
+   "fragment_id": "923131767",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1993-02-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+   ],
+   "markdown": "###### Artigo 7.º\n\nEstão isentos de imposto automóvel aquando da sua entrada em consumo:\n\na) Os veículos para serviço de incêndio adquiridos pelas associações e corporações de bombeiros, incluindo os municipais, mediante apresentação de declaração emitida pelo Serviço Nacional de Bombeiros, da qual constarão as suas características técnicas e o reconhecimento da natureza do adquirente;\n\nb) As ambulâncias, desde que se apresentem à verificação providas das suas características essenciais;\n\nc) Os veículos automóveis adquiridos pelas forças militares, militarizadas e de segurança, quando destinados exclusivamente ao exercício de poderes de autoridade, considerando-se como tal as funções de policiamento, vigilância, patrulhamento, as de apoio aos serviços de inspecção e investigação e as de fiscalização de pessoas e bens nas zonas de fronteira aérea, marítima e terrestre.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+  },
+  "925377415": {
+   "fragment_id": "924045491",
+   "type": 11,
+   "heading": "Artigo 7.º-A",
+   "in_force_from": "1993-02-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01",
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 95/90 - Diário da República n.º 66/1990, Série I de 1990-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1990-333296), em vigor a partir de 1990-03-25"
+   ],
+   "markdown": "###### Artigo 7.º-A\n\nO Ministro das Finanças pode isentar do imposto automóvel as aquisições de veículos automóveis pelas forças armadas e de forças e serviços de segurança, destinados exclusivamente ao exercício dos poderes de autoridade.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 95/90 - Diário da República n.º 66/1990, Série I de 1990-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1990-333296), em vigor a partir de 1990-03-25"
+  },
+  "925377416": {
+   "fragment_id": "923131768",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1993-02-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 78/92 - Diário da República n.º 104/1992, Série I-A de 1992-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1992-500415), em vigor a partir de 1992-05-07",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+   ],
+   "markdown": "###### Artigo 8.º\n\n1 - Os veículos automóveis abrangidos pelo presente diploma, quando introduzidos no consumo para o serviço de aluguer com condutor - táxis letra A e letra T -, beneficiam de redução de 70% do montante do imposto.\n\n2 - O benefício de redução do imposto automóvel para os veículos referidos no número anterior, adaptados ao acesso e transporte de deficientes, em termos a definir por decreto regulamentar, será de 80%.\n\n3 - Os veículos automóveis que beneficiem das reduções previstas neste artigo só podem ser alienados ou substituídos decorridos que sejam cinco anos a contar da data de emissão da respectiva licença.\n\n4 - A alienação ou a substituição antes de decorrido o prazo previsto no número anterior dará lugar ao pagamento do montante de imposto proporcional ao prazo em falta, salvo em casos de acidentes de que resultem danos irreparáveis e o cancelamento da matrícula.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 78/92 - Diário da República n.º 104/1992, Série I-A de 1992-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1992-500415), em vigor a partir de 1992-05-07\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+  },
+  "925377417": {
+   "fragment_id": "923131769",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1993-02-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+   ],
+   "markdown": "###### Artigo 9.º\n\n1 - Os veículos automóveis fabricados até ao ano de 1955 e classificados como antigos pela Fédération International des Voitures Anciennes (FIVA) ou pelo clube que a representa em Portugal ficam isentos de IA aquando da sua introdução no consumo, desde que sejam considerados com interesse para o património cultural nacional.\n\n2 - O disposto no número anterior apenas se aplica aos veículos automóveis para os quais seja apresentado certificado de automóvel antigo e ficha técnica aprovados pelas entidades competentes.\n\n3 - Para apreciação dos processos referentes à isenção prevista no presente artigo serão nomeadas, por despacho do Ministro das Finanças, comissões de peritos constituídas por representantes da Direcção-Geral das Alfândegas, da Direcção-Geral de Viação e do clube representante em Portugal da Fédération International des Voitures Anciennes.\n\n4 - Os veículos automóveis que tenham beneficiado do disposto no n.º 1 não poderão sair do País sem que se mostre garantido o montante correspondente ao benefício concedido aquando da sua importação definitiva.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+  },
+  "925377418": {
+   "fragment_id": "923131770",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1993-02-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01"
+   ],
+   "markdown": "###### Artigo 10.º\n\nAs referências feitas ao imposto sobre a venda de veículos automóveis nos diferentes diplomas em vigor devem entender-se como sendo feitas ao imposto automóvel.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01"
+  },
+  "925377419": {
+   "fragment_id": "923131771",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": "1993-02-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01"
+   ],
+   "markdown": "###### Artigo 11.º\n\nO incumprimento dos prazos, a alteração das características determinantes da classificação fiscal dos veículos, bem como a utilização de veículos com desvio do destino ou aplicação em vista aos quais foram concedidos regimes de benefício, constantes do presente diploma, serão considerados como descaminho.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01"
+  },
+  "925377420": {
+   "fragment_id": "923131772",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1993-02-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+   ],
+   "markdown": "###### Artigo 12.º\n\n1 - As entidades que beneficiem de isenção de imposto automóvel não podem, por qualquer forma, alienar os respectivos veículos antes de decorrido o prazo de cinco anos, contado da data de introdução no consumo, salvo legislação específica em contrário.\n\n2 - A alienação do veículo automóvel objecto da isenção antes do decurso do prazo estabelecido no número anterior dará lugar ao pagamento do montante proporcional ao tempo em falta, e segundo as taxas em vigor à data da concessão do benefício.\n\n3 - Se a alienação se efectuar a um sujeito passivo beneficiário, ele próprio, da isenção fiscal, a mesma manter-se-á desde que, para o efeito, a Direcção-Geral das Alfândegas certifique aquela qualidade ou estatuto.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+  },
+  "925377421": {
+   "fragment_id": "923131773",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": "1993-02-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+   ],
+   "markdown": "###### Artigo 13.º\n\n1 - São criadas matrículas de exportação, a atribuir pela Direcção-Geral das Alfândegas a veículos que se destinem a ser exportados para pessoas singulares ou colectivas não residentes nem estabelecidas em território nacional.\n\n2 - Para aplicação do número anterior, consideram-se não residentes as pessoas singulares que não exerçam no território nacional qualquer actividade remunerada, nele não permanecendo por período superior a 185 dias em cada ano civil, e as pessoas colectivas cuja sede ou direcção efectiva se situe fora do território nacional.\n\n3 - Atribuídas as matrículas de exportação, o veículo apenas poderá permanecer no território nacional durante o período máximo de 90 dias, e ser conduzido pelo respectivo titular, seu cônjuge e descendentes, ou, no caso de se tratar de pessoa colectiva, por um representante devidamente autorizado, desde que, em qualquer dos casos, se encontrem nas condições previstas no número anterior.\n\n4 - A atribuição de matrícula de exportação obriga ao cancelamento da matrícula nacional anterior, nos casos em que esta já tenha sido emitida.\n\n5 - O cancelamento da matrícula a que se refere o número anterior será comprovado perante a Direcção-Geral das Alfândegas, mediante certidão emitida pela Direcção-Geral de Viação.\n\n6 - A dimensão, características e formalidades respeitantes às matrículas de exportação serão estabelecidas por decreto regulamentar.\n\n7 - O desrespeito dos condicionalismos previstos no número anterior constitui descaminho, determinando a imediata apreensão do veículo e o pagamento do imposto devido à data da atribuição da matrícula de exportação.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+  },
+  "925377422": {
+   "fragment_id": "923131774",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": "1993-02-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+   ],
+   "markdown": "###### Artigo 14.º\n\n1 - A exportação de veículos novos e usados, por sociedades comerciais regularmente constituídas, cujo imposto já tenha sido cobrado dará lugar à restituição do mesmo, nos termos e nas condições estabelecidos nos números seguintes.\n\n2 - O montante do imposto a restituir, relativamente a veículos exportados, será determinado em função do maior dos períodos compreendidos entre a atribuição e o cancelamento da matrícula definitiva nacional, ou entre essa atribuição e o montante da exportação, da seguinte forma:\n\na) No período de um ano - 75%;\n\nb) No período superior a um ano, mas inferior ou igual a dois anos - 50%;\n\nc) No período superior a dois anos, mas inferior ou igual a três anos - 25%.\n\n3 - O montante do imposto a restituir relativamente a veículos exportados que não foram matriculados será de 100%.\n\n4 - Para efeitos de restituição do imposto, o requerente apresentará nas sedes das alfândegas, para além do comprovativo do pagamento do imposto, uma via da declaração de exportação do veículo com indicação da data de saída efectiva, a qual não poderá ter ocorrido há mais de 12 meses, comprovativo da entrada no País dos fundos destinados ao pagamento dos veículos exportados, bem como prova do cancelamento do respectivo livrete e título de registo de propriedade.\n\n5 - As sedes das alfândegas restituirão o montante do imposto no prazo de 60 dias contados da apresentação da documentação referida no número anterior.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 262/91 - Diário da República n.º 170/1991, Série I-A de 1991-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1991-690984), em vigor a partir de 1991-07-31"
+  },
+  "925377423": {
+   "fragment_id": "924669911",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "1993-02-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/92 - Diário da República n.º 104/1992, Série I-A de 1992-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1992-500415), em vigor a partir de 1992-05-07"
+   ],
+   "markdown": "###### Artigo 15.º\n\n1 - Será concedido o reembolso do diferencial do imposto pago no acto de introdução no consumo e do imposto devido por via da entrada em vigor do presente diploma relativamente aos veículos que tenham sido tributados segundo a tabela anterior, mas que ainda não tenham sido matriculados nem vendidos ao público.\n\n2 - Para efeitos de restituições do imposto, o requerente apresentará nas sedes das alfândegas, além da prova de pagamento do mesmo (guia do IA), certidão de não matriculação, emitida pela Direcção-Geral de Viação, num prazo que não poderá exceder 90 dias a contar da entrada em vigor deste diploma.\n\n3 - As alfândegas, sempre que tenham dúvidas sobre a efectivação da venda do veículo, susterão o processo de reembolso e tomarão todas as medidas de investigação tendentes a determinar se este condicionalismo legal se verificou ou não.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 40/93 - Diário da República n.º 41/1993, Série I-A de 1993-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), em vigor a partir de 1993-02-23, produz efeitos a partir de 1993-01-01\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/92 - Diário da República n.º 104/1992, Série I-A de 1992-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1992-500415), em vigor a partir de 1992-05-07"
+  },
+  "925899893": {
+   "fragment_id": "924669912",
+   "type": 4,
+   "heading": "Parte Tabela I — Imposto automóvel",
+   "in_force_from": "1993-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Lei n.º 75/93 - Diário da República n.º 295/1993, 1º Suplemento, Série I-A de 1993-12-20](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209), em vigor a partir de 1993-12-25",
+    "Alterado pelo/a Artigo 35.º do/a [Lei n.º 30-C/92 - Diário da República n.º 298/1992, 1º Suplemento, Série I-A de 1992-12-28](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), em vigor a partir de 1993-01-02",
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 78/92 - Diário da República n.º 104/1992, Série I-A de 1992-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1992-500415), em vigor a partir de 1992-05-07"
+   ],
+   "markdown": "## Parte Tabela I — Imposto automóvel\n\n(ver documento original)\n\n> Nota: [Artigo 41.º, Lei n.º 75/93 - Diário da República n.º 295/1993, 1º Suplemento, Série I-A de 1993-12-20](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209) A tabela I aprovada pelo n.º 2 do artigo 41.º substitui a presente tabela, revogando-a, de forma tácita.\n\n> Revogado pelo/a Artigo 41.º do/a [Lei n.º 75/93 - Diário da República n.º 295/1993, 1º Suplemento, Série I-A de 1993-12-20](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209), em vigor a partir de 1993-12-25\n\n> Alterado pelo/a Artigo 35.º do/a [Lei n.º 30-C/92 - Diário da República n.º 298/1992, 1º Suplemento, Série I-A de 1992-12-28](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), em vigor a partir de 1993-01-02\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 78/92 - Diário da República n.º 104/1992, Série I-A de 1992-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1992-500415), em vigor a partir de 1992-05-07"
+  },
+  "925899894": {
+   "fragment_id": "924669913",
+   "type": 14,
+   "heading": "Tabela II",
+   "in_force_from": "1993-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Lei n.º 75/93 - Diário da República n.º 295/1993, 1º Suplemento, Série I-A de 1993-12-20](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209), em vigor a partir de 1993-12-25",
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 78/92 - Diário da República n.º 104/1992, Série I-A de 1992-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1992-500415), em vigor a partir de 1992-05-07"
+   ],
+   "markdown": "## Tabela II\n\n(ver documento original)\n\n> Nota: [Artigo 41.º, Lei n.º 75/93 - Diário da República n.º 295/1993, 1º Suplemento, Série I-A de 1993-12-20](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209) A tabela II aprovada pelo n.º 2 do artigo 41.º substitui a presente tabela, revogando-a, de forma tácita.\n\n> Revogado pelo/a Artigo 41.º do/a [Lei n.º 75/93 - Diário da República n.º 295/1993, 1º Suplemento, Série I-A de 1993-12-20](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209), em vigor a partir de 1993-12-25\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 78/92 - Diário da República n.º 104/1992, Série I-A de 1992-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1992-500415), em vigor a partir de 1992-05-07"
+  }
+ }
+}

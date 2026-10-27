@@ -1,0 +1,105 @@
+---
+schema_version: '1.0'
+id: pt:dre:181461:por
+title: Decreto n.º 44031
+short_title: null
+summary: Autoriza a Direcção-Geral dos Edifícios e Monumentos Nacionais a despender uma importância correspondente ao valor
+  do contrato para a execução da empreitada de construção da sede da Administração Florestal de Vila do Porto, Santa Maria
+  (Açores), por virtude de os trabalhos ficarem concluídos até 31 de Dezembro de 1961
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Obras Públicas - Direcção-Geral dos Edifícios e Monumentos Nacionais
+proposing_entity: null
+official_number: '44031'
+official_date: null
+publication_date: '1961-11-15'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 265/1961, Série I de 1961-11-15
+  number: '265'
+  series: I
+  supplement: null
+  pages: 1397 - 1397
+  pdf_url: https://files.diariodarepublica.pt/1s/1961/11/26500/13971397.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '181461'
+  dre_path: /dr/detalhe/decreto/44031-1961-181461
+  internal: pt:dre:181461:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/44031-1961-181461
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44031-1961-181461
+  consolidated_url: null
+  retrieved_at: '2026-10-22T19:26:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c699262fcc9140f17d8e12aa76f4c7571338762c1e5acb4819adfe6cbc51804f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:26:40Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:561208:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T19:26:40Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 44031
+
+Considerando que, nos termos do [Decreto n.º 43533](https://diariodarepublica.pt/dr/detalhe/decreto/43533-1961-561208), de 11 de Março de 1961, foi celebrado contrato com Domingos Ferreira Gonçalves para execução da empreitada de construção da sede da Administração Florestal de Vila do Porto, Santa Maria (Açores);
+
+Considerando que pelo citado decreto foi fixado o limite de 400000$00 para dispêndio no corrente ano com as obras a executar;
+
+Considerando que o limite previsto é insuficiente para permitir a satisfação dos encargos resultantes de um maior desenvolvimento que é conveniente imprimir aos trabalhos, que assim poderão ficar concluídos até 31 de Dezembro de 1961;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo único. É autorizada a Direcção-Geral dos Edifícios e Monumentos Nacionais a despender no corrente ano a importância total de 982273$00, correspondente ao valor do contrato n.º 70348/151, celebrado com Domingos Ferreira Gonçalves, por virtude de os trabalhos ficarem concluídos até 31 de Dezembro de 1961.
+
+§ único. Em consequência do que fica estabelecido neste artigo, o encargo previsto no [Decreto n.º 43533](https://diariodarepublica.pt/dr/detalhe/decreto/43533-1961-561208), de 11 de Março de 1961, para dispêndio no ano de 1962 fica anulado.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 15 de Novembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Eduardo de Arantes e Oliveira.

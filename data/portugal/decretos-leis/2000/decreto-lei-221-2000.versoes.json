@@ -1,0 +1,570 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:577713:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-204991910",
+ "dre_path": "/dr/detalhe/decreto-lei/221-2000-577713",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2000-09-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "204931699",
+    "204931700",
+    "204931701",
+    "204931702",
+    "204931703",
+    "204931704",
+    "204931705",
+    "204931706",
+    "204931707",
+    "204931708",
+    "204931709",
+    "204931710",
+    "204931711",
+    "204931712"
+   ]
+  },
+  {
+   "date": "2011-07-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:670530:por",
+     "title": "Decreto-Lei n.º 85/2011",
+     "published": "2011-06-29",
+     "dre_path": "/dr/detalhe/decreto-lei/85-2011-670530"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "204931699",
+    "204931714",
+    "204931715",
+    "204931725",
+    "204931738",
+    "204931739",
+    "204931740",
+    "204931741",
+    "204931742",
+    "204931743",
+    "204931744",
+    "204931745",
+    "204931746",
+    "204931747",
+    "204931748",
+    "204931749",
+    "204931750"
+   ]
+  },
+  {
+   "date": "2013-02-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:258114:por",
+     "title": "Decreto-Lei n.º 18/2013",
+     "published": "2013-02-06",
+     "dre_path": "/dr/detalhe/decreto-lei/18-2013-258114"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "204931699",
+    "204931714",
+    "204931715",
+    "204931725",
+    "204931738",
+    "204931739",
+    "204931740",
+    "204931741",
+    "204931742",
+    "204931743",
+    "204931744",
+    "204931751",
+    "204931746",
+    "204931747",
+    "204931748",
+    "204931749",
+    "204931750"
+   ]
+  },
+  {
+   "date": "2014-04-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:571934:por",
+     "title": "Decreto-Lei n.º 40/2014",
+     "published": "2014-03-18",
+     "dre_path": "/dr/detalhe/decreto-lei/40-2014-571934"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "204931699",
+    "204931714",
+    "204931715",
+    "204931725",
+    "204931738",
+    "204931739",
+    "204931740",
+    "204931741",
+    "204914599",
+    "204931743",
+    "204931744",
+    "204931751",
+    "204931746",
+    "204931747",
+    "204931748",
+    "204931749",
+    "204931750"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:670530:por",
+     "title": "Decreto-Lei n.º 85/2011",
+     "published": "2011-06-29",
+     "dre_path": "/dr/detalhe/decreto-lei/85-2011-670530",
+     "date": "2022-07-04"
+    }
+   ]
+  },
+  {
+   "date": "2022-12-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:204552612:por",
+     "title": "Lei n.º 23-A/2022",
+     "published": "2022-12-09",
+     "dre_path": "/dr/detalhe/lei/23-a-2022-204552612"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 2.º-B"
+   ],
+   "fragments": [
+    "204931699",
+    "204931714",
+    "204914600",
+    "204931725",
+    "204914601",
+    "204931739",
+    "204931740",
+    "204931741",
+    "204914599",
+    "204931743",
+    "204931744",
+    "204931751",
+    "204931746",
+    "204931747",
+    "204931748",
+    "204931749",
+    "204931750"
+   ]
+  },
+  {
+   "date": "2025-12-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:989749707:por",
+     "title": "Lei n.º 68/2025",
+     "published": "2025-12-19",
+     "dre_path": "/dr/detalhe/lei/68-2025-989749707"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 2.º-A",
+    "Altera Artigo 2.º-B"
+   ],
+   "fragments": [
+    "204931699",
+    "204931714",
+    "989734447",
+    "989734448",
+    "989734449",
+    "204931739",
+    "204931740",
+    "204931741",
+    "204914599",
+    "204931743",
+    "204931744",
+    "204931751",
+    "204931746",
+    "204931747",
+    "204931748",
+    "204931749",
+    "204931750"
+   ]
+  }
+ ],
+ "fragments": {
+  "204931699": {
+   "fragment_id": "204991911",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 221/2000\n\nde 9 de Setembro\n\nO presente diploma transpõe para a ordem jurídica interna, apenas no que aos sistemas de pagamentos diz respeito, a Directiva n.º <a href=\"eurlex.asp?ano=1998&id=398L0026\" title=\"Link para Directiva da Comunidade Europeia\">98/26/CE</a>, do Parlamento Europeu e do Conselho, de 19 de Maio de 1998, porquanto no que respeita ao carácter definitivo da liquidação de valores mobiliários, a transposição da citada directiva foi efectuada através do Decreto-Lei n.º 486/99, de 13 de Novembro, que aprovou o Código dos Valores Mobiliários.\n\nOs sistemas de pagamentos, principalmente devido aos montantes elevados que processam diariamente, à sua interdependência nacional e internacional e à velocidade a que as operações ocorrem, comportam elevados riscos, nomeadamente o chamado «risco sistémico», que consiste na possibilidade de um incumprimento gerar, sucessivamente, muitos outros. Com efeito, sendo impossível a um participante liquidar uma dívida no quadro dos referidos sistemas - no caso mais grave, devido a falência -, isto pode facilmente gerar uma incontrolável série de incumprimentos ou mesmo de falências em cadeia.\n\nPara minimizar este tipo específico de risco torna-se necessário que a liquidação financeira não seja posta em causa e que as garantias constituídas possam, em qualquer circunstância, ser executadas.\n\nÀ luz deste objectivo fundamental, torna-se necessário garantir, de acordo com as disposições da directiva, os efeitos jurídicos das ordens de transferência e da respectiva compensação no âmbito dos sistemas de pagamentos, bem como a sua oponibilidade a terceiros em caso de falência ou medida equivalente. Dentro do mesmo espírito, estabelece-se a irrevogabilidade das ordens de transferência, em termos que assegurem a intangibilidade da liquidação financeira operada no âmbito do sistema.\n\nO cumprimento das obrigações dos participantes é também protegido, em caso de falência ou medida equivalente, pela possibilidade de utilização dos fundos existentes nas contas de liquidação até ao fim do dia da abertura do respectivo processo, assim como, em qualquer caso, pela impenhorabilidade desses mesmos fundos enquanto existirem outros bens ou direitos penhoráveis no património do respectivo titular. Com idêntico objectivo, estabelece-se a imunidade, perante os efeitos de uma eventual falência ou medida equivalente, das garantias constituídas no quadro dos sistemas de pagamentos.\n\nPor fim, importa salientar que, para protecção dos terceiros que tenham um interesse legítimo, se consagra o direito de estes obterem informações sobre a participação de uma entidade em determinado sistema e sobre as regras essenciais do mesmo.\n\nForam ouvidos o Banco Central Europeu, o Banco de Portugal e a Associação Portuguesa de Bancos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "204931700": {
+   "fragment_id": "204991912",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente diploma regula o carácter definitivo da liquidação financeira realizada no âmbito dos sistemas de pagamentos, nomeadamente em caso de falência ou medida equivalente aplicada a algum dos seus participantes.\n\n2 - O disposto no presente diploma é aplicável:\n\na) Aos sistemas de pagamento que realizem operações em qualquer moeda ou em várias moedas que o sistema converta entre si;\n\nb) Aos participantes nos sistemas de pagamentos;\n\nc) Às garantias constituídas no quadro da participação num sistema ou no quadro das operações dos bancos centrais dos Estados membros e do Banco Central Europeu, quando desempenham funções típicas de bancos centrais."
+  },
+  "204931701": {
+   "fragment_id": "204991913",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma entende-se por:\n\na) «Sistema» um acordo escrito instituindo uma ligação entre, pelo menos, três instituições, com regras comuns e procedimentos padronizados, tendo como objecto principal a execução de ordens de transferência entre si, regulado pela lei portuguesa e notificado à Comissão Europeia nos termos do presente diploma;\n\nb) «Instituição de crédito» uma instituição tal como definida no artigo 2.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, incluindo as instituições enumeradas no seu artigo 3.º;\n\nc) «Empresa de investimento» uma empresa tal como definida no n.º 3 do artigo 199.º-A do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 232/96, de 5 de Dezembro;\n\nd) «Instituição» uma instituição de crédito, uma empresa de investimento, um organismo público ou empresa que beneficie de garantia estatal, ou qualquer empresa estrangeira com funções idênticas às instituições de crédito ou às empresas de investimento, que participe num sistema e que seja responsável pela execução das obrigações financeiras decorrentes de ordens de transferência emitidas no âmbito desse sistema;\n\ne) «Contraparte central» uma entidade intermediária entre as instituições de um sistema, actuando como contraparte exclusiva dessas instituições no que respeita às ordens de transferência;\n\nf) «Agente de liquidação» entidade na qual são abertas as contas para a liquidação de obrigações no quadro dos sistemas;\n\ng) «Câmara de compensação» entidade que calcula os saldos resultantes da compensação dos créditos e das dívidas das instituições, das contrapartes centrais e dos agentes de liquidação;\n\nh) «Participante» uma instituição, um participante indirecto, uma contraparte central, um agente de liquidação ou uma câmara de compensação, tal como definidos no presente artigo;\n\ni) «Participante indirecto» uma instituição de crédito ligada a uma instituição participante num sistema por uma relação contratual, notificada ao sistema de acordo com as regras deste, que permite à mencionada instituição de crédito executar ordens de transferência através do mesmo sistema;\n\nj) «Valores mobiliários» instrumentos financeiros como tal qualificados pelo artigo 1.º do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de Novembro, instrumentos do mercado monetário, futuros sobre instrumentos financeiros, incluindo instrumentos equivalentes que dêem origem a uma liquidação em dinheiro, contratos a prazo relativos a taxas de juro (FRA), swaps de taxas de juro, de divisas, ou relativos a um índice sobre acções (equity swaps) e opções destinadas à compra ou à venda de qualquer instrumento financeiro atrás referido, incluindo os instrumentos equivalentes que dêem origem a uma liquidação em dinheiro, nomeadamente opções sobre divisas e sobre taxas de juro;\n\nl) «Ordem de transferência» instrução de um participante para colocar um certo montante pecuniário à disposição de um destinatário ou que resulte na assunção ou na execução de uma obrigação de pagamento tal como definida pelas regras do sistema;\n\nm) «Processo de falência ou equivalente» qualquer medida colectiva, tendo por fim a liquidação, a reestruturação ou a recuperação de um participante, de que resulte a limitação, suspensão ou cessação do cumprimento das respectivas obrigações ou das garantias a elas associadas;\n\nn) «Conta de liquidação» conta aberta num banco central, num agente de liquidação ou numa contraparte central, funcionando para depósito de dinheiro e para a liquidação de transacções entre participantes num sistema;\n\no) «Garantia» qualquer activo realizável, incluindo dinheiro e valores mobiliários, objecto de uma relação jurídica, nomeadamente de penhor ou de reporte, com o objectivo de tornar mais segura a posição jurídica dos participantes e dos bancos integrantes do sistema europeu de bancos centrais."
+  },
+  "204931702": {
+   "fragment_id": "204991914",
+   "type": 11,
+   "heading": "Artigo 3.º — Ordens de transferência e compensação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Ordens de transferência e compensação\n\n1 - As ordens de transferência, assim como a sua compensação bilateral ou multilateral de acordo com as regras do sistema, produzem efeitos jurídicos e, mesmo em caso de falência ou medida equivalente relativas a um participante, serão oponíveis a terceiros desde que tenham sido introduzidas no sistema antes do momento da abertura do respectivo processo, nos termos definidos no artigo 8.º, n.º 1.\n\n2 - Depois do momento da abertura do processo de falência ou equivalente, e até ao fim do respectivo dia, as ordens de transferência serão ainda juridicamente eficazes e oponíveis a terceiro se o agente de liquidação, a contraparte central ou a câmara de compensação demonstrarem que não conheciam nem tinham a obrigação de conhecer a abertura daquele processo.\n\n3 - Nenhuma norma, qualquer que seja a sua fonte, relativa à invalidade dos negócios jurídicos celebrados antes de abertura de um processo de falência ou equivalente poderá conduzir a que seja anulada, alterada ou por qualquer outro modo afectada uma operação de compensação realizada no âmbito de um sistema."
+  },
+  "204931703": {
+   "fragment_id": "204991915",
+   "type": 11,
+   "heading": "Artigo 4.º — Irrevogabilidade das ordens de transferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Irrevogabilidade das ordens de transferência\n\n1 - A partir do momento definido pelo próprio sistema, uma ordem de transferência não pode ser revogada nem pelos participantes nem por terceiros.\n\n2 - O momento referido no número anterior não pode ser posterior à liquidação financeira."
+  },
+  "204931704": {
+   "fragment_id": "204991916",
+   "type": 11,
+   "heading": "Artigo 5.º — Cumprimento de obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Cumprimento de obrigações\n\nPara satisfazer as obrigações de um participante que tenha sido objecto de um processo de falência ou medida equivalente, podem ser utilizados, até ao fim do dia da abertura desse processo:\n\na) Os fundos existentes na respectiva conta de liquidação;\n\nb) Uma linha de crédito relacionada com o sistema, mediante constituição de garantias."
+  },
+  "204931705": {
+   "fragment_id": "204991917",
+   "type": 11,
+   "heading": "Artigo 6.º — Garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Garantias\n\nAs garantias constituídas no quadro de um sistema em favor de um participante ou de um banco integrante do sistema europeu de bancos centrais não são afectadas pela abertura do processo de falência e podem ser executadas pelos respectivos titulares, revertendo apenas para a massa falida o saldo remanescente."
+  },
+  "204931706": {
+   "fragment_id": "204991918",
+   "type": 11,
+   "heading": "Artigo 7.º — Contas de liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Contas de liquidação\n\nOs saldos das contas de liquidação só podem ser penhorados ou objecto de medida cautelar se no património da instituição titular da conta não existirem outros bens adequados ao mesmo fim."
+  },
+  "204931707": {
+   "fragment_id": "204991919",
+   "type": 11,
+   "heading": "Artigo 8.º — Abertura e efeitos da falência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Abertura e efeitos da falência\n\n1 - Para os efeitos do presente diploma, o momento de abertura do processo de falência ou equivalente é aquele em que a autoridade competente profere qualquer decisão que limite, suspenda ou faça cessar o cumprimento de obrigações ou as garantias a estas associadas.\n\n2 - O processo de falência ou equivalente não produz qualquer efeito sobre os direitos e obrigações de um participante, decorrentes da sua participação num sistema ou a esta associados, que se tenham constituído antes do momento da respectiva abertura."
+  },
+  "204931708": {
+   "fragment_id": "204991920",
+   "type": 11,
+   "heading": "Artigo 9.º — Notificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Notificações\n\n1 - Sem prejuízo das notificações a que se refere o artigo 286.º do Código dos Valores Mobiliários, a autoridade competente deve comunicar de imediato ao Banco de Portugal a decisão referida no n.º 1 do artigo anterior, quando esta tenha por objecto qualquer instituição.\n\n2 - O Banco de Portugal notifica imediatamente as entidades designadas pelos outros Estados membros.\n\n3 - O Banco de Portugal, caso receba do estrangeiro qualquer notificação relativa à falência de uma instituição, avisa imediatamente as entidades que gerem os sistemas."
+  },
+  "204931709": {
+   "fragment_id": "204991921",
+   "type": 11,
+   "heading": "Artigo 10.º — Direito de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direito de informação\n\nQuem demonstre interesse legítimo, nomeadamente por ser credor de uma instituição, pode requerer junto desta informação sobre a respectiva participação em um ou vários dos sistemas abrangidos pelo presente diploma, bem como sobre as regras essenciais de funcionamento dos referidos sistemas."
+  },
+  "204931710": {
+   "fragment_id": "204991922",
+   "type": 11,
+   "heading": "Artigo 11.º — Informações ao Banco de Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Informações ao Banco de Portugal\n\nOs sistemas de pagamentos regidos pela lei portuguesa comunicarão ao Banco de Portugal, no mais breve prazo possível, as regras jurídicas, técnicas e operacionais do sistema e as respectivas alterações, bem como a lista dos participantes, incluindo os participantes indirectos e todas as alterações ocorridas."
+  },
+  "204931711": {
+   "fragment_id": "204991923",
+   "type": 11,
+   "heading": "Artigo 12.º — Lei reguladora dos sistemas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Lei reguladora dos sistemas\n\n1 - As regras dos sistemas podem determinar a aplicabilidade da lei portuguesa desde que pelo menos um participante tenha a sede principal e efectiva da sua administração ou a sede estatutária em Portugal.\n\n2 - Na falta de estipulação em contrário, presume-se a sujeição à lei portuguesa quando a liquidação financeira tenha lugar em Portugal.\n\n3 - Sem prejuízo de regras especiais sobre a lei aplicável aos direitos dos titulares de garantias constituídas por valores mobiliários ou direitos sobre valores mobiliários, a lei portuguesa, quando aplicável, regula todos os direitos e obrigações decorrentes da participação no sistema, mesmo em caso de abertura de um processo de falência ou equivalente."
+  },
+  "204931712": {
+   "fragment_id": "204991924",
+   "type": 11,
+   "heading": "Artigo 13.º — Designação dos sistemas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Designação dos sistemas\n\n1 - O Banco de Portugal, sempre que o grau de risco sistémico o justifique, designa, através de aviso, os sistemas de pagamentos abrangidos pelo presente diploma.\n\n2 - O Banco de Portugal informa a Comissão Europeia da designação referida no número anterior."
+  },
+  "204931714": {
+   "fragment_id": "204991912",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": "2011-07-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente diploma regula o carácter definitivo da liquidação financeira realizada no âmbito dos sistemas de pagamentos, nomeadamente no caso de insolvência aplicada a um dos participantes.\n\n2 - O disposto no presente diploma é aplicável:\n\na) Aos sistemas de pagamento que realizem operações em qualquer moeda ou em várias moedas que o sistema converta entre si;\n\nb) Aos participantes nos sistemas de pagamentos;\n\nc) Às garantias constituídas no quadro da participação num sistema ou no quadro das operações dos bancos centrais dos Estados membros e do Banco Central Europeu, quando desempenham funções típicas de bancos centrais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+  },
+  "204931715": {
+   "fragment_id": "204991913",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2011-07-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma entende-se por:\n\na) (Revogada.)\n\nb) «Instituição de crédito» uma instituição tal como definida no artigo 2.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, incluindo as instituições enumeradas no seu artigo 3.º;\n\nc) 'Empresa de investimento' uma empresa tal como definida no n.º 4 do artigo 199.º-A do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro;\n\nd) «Instituição» uma instituição de crédito, uma empresa de investimento, um organismo público ou empresa que beneficie de garantia estatal, ou qualquer empresa estrangeira com funções idênticas às instituições de crédito ou às empresas de investimento, que participe num sistema e que seja responsável pela execução das obrigações financeiras decorrentes de ordens de transferência emitidas no âmbito desse sistema;\n\ne) «Contraparte central» uma entidade intermediária entre as instituições de um sistema, actuando como contraparte exclusiva dessas instituições no que respeita às ordens de transferência;\n\nf) «Agente de liquidação» entidade na qual são abertas as contas para a liquidação de obrigações no quadro dos sistemas;\n\ng) «Câmara de compensação» entidade que calcula os saldos resultantes da compensação dos créditos e das dívidas das instituições, das contrapartes centrais e dos agentes de liquidação;\n\nh) (Revogada.)\n\ni) (Revogada.)\n\nj) 'Instrumentos financeiros' valores mobiliários tal como definidos no artigo 1.º do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de Novembro, e os instrumentos do mercado monetário, futuros sobre instrumentos financeiros, incluindo instrumentos equivalentes que dêem origem a uma liquidação em dinheiro, contratos a prazo relativos a taxas de juro (FRA), swaps de taxas de juro, de divisas, ou relativos a um índice sobre acções (equity swaps) e opções destinadas à compra ou à venda de qualquer instrumento financeiro atrás referido;\n\nl) «Ordem de transferência» instrução de um participante para colocar um certo montante pecuniário à disposição de um destinatário ou que resulte na assunção ou na execução de uma obrigação de pagamento tal como definida pelas regras do sistema;\n\nm) (Revogada.)\n\nn) 'Conta de liquidação' conta aberta num banco central, num agente de liquidação ou numa contraparte central, funcionando para depósito de dinheiro ou para a liquidação de transacções entre participantes num sistema;\n\no) (Revogada.)\n\np) 'Compensação' a conversão de créditos e obrigações decorrentes de ordens de transferência que um ou mais participantes emitem a favor de outro ou outros participantes, ou que dele ou deles recebem, num único crédito (líquido ou numa única obrigação líquida, de forma que apenas será exigível esse crédito líquido ou devida essa obrigação líquida).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+  },
+  "204931725": {
+   "fragment_id": "204991928",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Sistemas de pagamentos",
+   "in_force_from": "2022-07-04",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2022-07-04"
+   ],
+   "markdown": "###### Artigo 2.º-A — Sistemas de pagamentos\n\n1 - Para os efeitos do presente diploma, considera-se que um sistema é o acordo escrito cujo objecto principal vise a compensação e a execução de ordens que respeitem regras comuns e procedimentos padronizados, regulado pela lei portuguesa e notificado à Comissão Europeia nos termos do presente diploma.\n\n2 - Constituem sistemas interoperáveis o conjunto de dois ou mais sistemas cujos operadores tenham celebrado entre si um acordo que implique a execução de ordens de transferência entre sistemas.\n\n3 - O operador de sistema é a entidade ou entidades legalmente responsáveis pelo funcionamento do sistema.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2022-07-04"
+  },
+  "204931738": {
+   "fragment_id": "204991929",
+   "type": 11,
+   "heading": "Artigo 2.º-B — Participação nos sistemas de pagamentos",
+   "in_force_from": "2022-07-04",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2022-07-04"
+   ],
+   "markdown": "###### Artigo 2.º-B — Participação nos sistemas de pagamentos\n\n1 - Para efeitos do presente diploma, a compensação e a execução de ordens de transferência num sistema pode operar-se entre:\n\na) Três participantes, sem contar com o operador desse sistema, um agente de liquidação, uma contraparte central, uma câmara de compensação ou um participante indirecto, excepto quando este seja considerado participante nos termos da alínea h) do artigo 2.º; ou,\n\nb) Dois participantes, sem contar com o operador desse sistema, um agente de liquidação, uma contraparte central, uma câmara de compensação ou um participante indirecto, sempre que o Banco de Portugal considerar que essa designação se justifica por razões de risco sistémico.\n\n2 - Podem ser participantes de um sistema as seguintes entidades:\n\na) Uma instituição;\n\nb) Uma contraparte central;\n\nc) Um agente de liquidação;\n\nd) Uma câmara de compensação;\n\ne) Um operador de sistema; ou\n\nf) Um participante indirecto.\n\n3 - O participante indirecto só é considerado participante de um sistema se o Banco de Portugal entender, nos casos dos sistemas referidos na alínea a) do n.º 1, que a qualidade de participante se justifica em razão do risco sistémico e desde que o participante seja conhecido do sistema.\n\n4 - Um participante é indirecto sempre que se encontre ligado a outro participante num sistema por uma relação contratual, notificada ao operador do sistema de acordo com as regras deste, sendo-lhe permitido executar ordens de transferência através do sistema do participante.\n\n5 - A qualidade de participante indirecto nos termos do número anterior depende da responsabilidade pela introdução das ordens de transferência no sistema referidas se manter no participante.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2022-07-04"
+  },
+  "204931739": {
+   "fragment_id": "204991914",
+   "type": 11,
+   "heading": "Artigo 3.º — Ordens de transferência e compensação",
+   "in_force_from": "2011-07-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+   ],
+   "markdown": "###### Artigo 3.º — Ordens de transferência e compensação\n\n1 - As ordens de transferência, assim como a sua compensação bilateral ou multilateral de acordo com as regras do sistema, produzem efeitos jurídicos e, mesmo em caso de insolvência relativa a um participante no sistema em causa ou num sistema interoperável, ou relativas ao operador de um sistema interoperável que não seja participante, são oponíveis a terceiros, desde que tenham sido introduzidas no sistema antes do momento da abertura do respectivo processo, nos termos definidos no n.º 1 do artigo 8.º\n\n2 - As ordens de transferência introduzidas após o momento da abertura do processo de insolvência, e executadas até ao fim do respectivo dia útil, são ainda juridicamente eficazes e oponíveis a terceiros se o operador do sistema demonstrar que não conhecia, nem tinha a obrigação de conhecer, a abertura daquele processo no momento em que as ordens de transferência em causa se tornaram irrevogáveis.\n\n3 - Nenhuma norma, qualquer que seja a sua fonte, relativa à invalidade dos negócios jurídicos celebrados antes da abertura de um processo de insolvência pode conduzir a que seja anulada, alterada ou por qualquer modo afectada uma operação de compensação realizada no âmbito de um sistema.\n\n4 - O momento da introdução de uma ordem de transferência, quer num sistema, quer em sistemas interoperáveis, é definido pelas regras próprias de cada sistema, devendo relativamente aos sistemas interoperáveis ser assegurada, na medida do possível, a coordenação das regras de todos os sistemas participantes nos sistemas interoperáveis envolvidos.\n\n5 - No caso de sistemas interoperáveis, a menos que as regras de todos os sistemas participantes o prevejam expressamente, as regras de cada sistema relativas ao momento de introdução das ordens de transferência não são afectadas pelas regras dos outros sistemas com os quais o primeiro seja interoperável.\n\n6 - Para efeitos do presente diploma, o dia útil inclui todas as liquidações diurnas e nocturnas e engloba todos os acontecimentos ocorridos durante o ciclo de um sistema.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+  },
+  "204931740": {
+   "fragment_id": "204991915",
+   "type": 11,
+   "heading": "Artigo 4.º — Irrevogabilidade das ordens de transferência",
+   "in_force_from": "2011-07-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+   ],
+   "markdown": "###### Artigo 4.º — Irrevogabilidade das ordens de transferência\n\n1 - A partir do momento definido pelo próprio sistema, uma ordem de transferência não pode ser revogada pelos participantes ou por terceiros.\n\n2 - No caso de sistemas interoperáveis, cada sistema determina nas suas próprias regras o momento da irrevogabilidade, devendo ser assegurada, na medida do possível, a coordenação de todos os sistemas participantes nos sistemas interoperáveis envolvidos.\n\n3 - As regras relativas ao momento da irrevogabilidade definidas por um sistema não são afectadas pelas regras dos outros sistemas com os quais o primeiro seja interoperável, salvo referência expressa em contrário nas regras que regulam o sistema.\n\n4 - O momento da irrevogabilidade não pode ser posterior à liquidação financeira.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+  },
+  "204931741": {
+   "fragment_id": "204991916",
+   "type": 11,
+   "heading": "Artigo 5.º — Cumprimento de obrigações",
+   "in_force_from": "2011-07-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+   ],
+   "markdown": "###### Artigo 5.º — Cumprimento de obrigações\n\nPara satisfazer as obrigações de um participante ou de um operador de um sistema interoperável que tenha sido objecto de um processo de insolvência, podem ser utilizados, até ao fim do dia da abertura desse processo:\n\na) Os fundos existentes na respectiva conta de liquidação;\n\nb) Uma linha de crédito relacionada com o sistema, mediante constituição de garantias.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+  },
+  "204931742": {
+   "fragment_id": "204991917",
+   "type": 11,
+   "heading": "Artigo 6.º — Garantias",
+   "in_force_from": "2011-07-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+   ],
+   "markdown": "###### Artigo 6.º — Garantias\n\n1 - As garantias constituídas no quadro de um sistema ou de um sistema interoperável em favor de um participante ou de um banco central integrante do sistema europeu de bancos centrais não são afectadas pela abertura de um processo de insolvência contra:\n\na) Um participante;\n\nb) Um operador de um sistema interoperável que não seja participante;\n\nc) Uma contraparte de um banco central integrante de um sistema europeu de bancos centrais;\n\nd) Qualquer terceiro que tenha constituído as garantias.\n\n2 - As garantias referidas no número anterior podem ser executadas pelos respectivos titulares, revertendo o saldo remanescente para a massa falida.\n\n3 - Para os efeitos do presente diploma, considera-se garantia qualquer activo susceptível de execução, incluindo as garantias financeiras previstas no Decreto-Lei n.º 105/2004, de 8 de Maio, objecto de uma relação jurídica, nomeadamente de penhor ou de reporte, com o objectivo de tornar mais segura a posição jurídica dos participantes e dos bancos integrantes do sistema europeu de bancos centrais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+  },
+  "204931743": {
+   "fragment_id": "204991918",
+   "type": 11,
+   "heading": "Artigo 7.º — Contas de liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Contas de liquidação\n\nOs saldos das contas de liquidação só podem ser penhorados ou objecto de medida cautelar se no património da instituição titular da conta não existirem outros bens adequados ao mesmo fim."
+  },
+  "204931744": {
+   "fragment_id": "204991919",
+   "type": 11,
+   "heading": "Artigo 8.º — Abertura e efeitos da insolvência",
+   "in_force_from": "2011-07-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+   ],
+   "markdown": "###### Artigo 8.º — Abertura e efeitos da insolvência\n\n1 - Para efeitos do presente diploma, o momento da abertura do processo de insolvência é aquele em que a autoridade competente profere qualquer decisão que limita, suspenda ou faça cessar o cumprimento de obrigações ou as garantias a estas associadas.\n\n2 - O processo de insolvência não produz qualquer efeito sobre os direitos e obrigações de um participante, decorrentes da sua participação num sistema ou a esta associados, que se tenham constituído antes do momento da respectiva abertura.\n\n3 - O disposto no número anterior aplica-se igualmente aos direitos e obrigações dos participantes em sistemas interoperáveis ou dos operadores de sistemas interoperáveis que não sejam participantes.\n\n4 - As regras previstas no presente diploma para os processos de insolvência aplicam-se a quaisquer medidas de efeito equivalente aos processos de insolvência.\n\n5 - Para os efeitos do presente diploma, considera-se que têm efeito equivalente ao processo de insolvência quaisquer medidas colectivas que visem a liquidação ou a recuperação de um participante, de que resulte a limitação, suspensão ou cessação do cumprimento das respectivas obrigações ou das garantias a elas associadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+  },
+  "204931745": {
+   "fragment_id": "204991920",
+   "type": 11,
+   "heading": "Artigo 9.º — Notificações",
+   "in_force_from": "2011-07-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+   ],
+   "markdown": "###### Artigo 9.º — Notificações\n\n1 - Sem prejuízo das notificações a que se refere o artigo 286.º do Código dos Valores Mobiliários, a autoridade competente deve comunicar de imediato ao Banco de Portugal a decisão referida no n.º 1 do artigo anterior, quando esta tenha por objecto qualquer instituição.\n\n2 - O Banco de Portugal notifica imediatamente as entidades designadas pelos outros Estados membros.\n\n3 - O Banco de Portugal, sempre que receba do estrangeiro qualquer notificação relativa à insolvência de uma instituição, deve notificar imediatamente as entidades que gerem os sistemas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+  },
+  "204931746": {
+   "fragment_id": "204991921",
+   "type": 11,
+   "heading": "Artigo 10.º — Direito de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direito de informação\n\nQuem demonstre interesse legítimo, nomeadamente por ser credor de uma instituição, pode requerer junto desta informação sobre a respectiva participação em um ou vários dos sistemas abrangidos pelo presente diploma, bem como sobre as regras essenciais de funcionamento dos referidos sistemas."
+  },
+  "204931747": {
+   "fragment_id": "204991922",
+   "type": 11,
+   "heading": "Artigo 11.º — Informações ao Banco de Portugal",
+   "in_force_from": "2011-07-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+   ],
+   "markdown": "###### Artigo 11.º — Informações ao Banco de Portugal\n\nOs operadores de sistemas regidos pela lei portuguesa comunicam ao Banco de Portugal, no mais breve prazo possível, as regras jurídicas, técnicas e operacionais do sistema, bem como a lista dos participantes, incluindo os participantes indirectos, e todas as alterações ocorridas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+  },
+  "204931748": {
+   "fragment_id": "204991923",
+   "type": 11,
+   "heading": "Artigo 12.º — Lei reguladora dos sistemas",
+   "in_force_from": "2011-07-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+   ],
+   "markdown": "###### Artigo 12.º — Lei reguladora dos sistemas\n\n1 - As regras dos sistemas podem determinar a aplicabilidade da lei portuguesa desde que pelo menos um participante tenha a sede principal e efectiva da sua administração ou a sede estatutária em Portugal.\n\n2 - Na falta de estipulação em contrário, presume-se a sujeição à lei portuguesa quando a liquidação financeira tenha lugar em Portugal.\n\n3 - Sem prejuízo de regras especiais sobre a lei aplicável aos direitos dos titulares de garantias constituídas por valores mobiliários ou direitos sobre valores mobiliários, a lei portuguesa, quando aplicável, regula todos os direitos e obrigações decorrentes da participação no sistema, mesmo em caso de abertura de um processo de insolvência.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+  },
+  "204931749": {
+   "fragment_id": "204991924",
+   "type": 11,
+   "heading": "Artigo 13.º — Designação dos sistemas",
+   "in_force_from": "2011-07-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+   ],
+   "markdown": "###### Artigo 13.º — Designação dos sistemas\n\n1 - O Banco de Portugal designa, através de aviso, os sistemas, bem como os respectivos operadores, abrangidos pelo presente diploma.\n\n2 - O Banco de Portugal informa a Comissão Europeia da designação referida no número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+  },
+  "204931750": {
+   "fragment_id": "204991925",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 27 de Julho de 2000. - Jaime José Matos da Gama - Joaquim Augusto Nunes Pina Moura - Diogo Campos Barradas de Lacerda Machado.\n\nPromulgado em 23 de Agosto de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 1 de Setembro de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "204931751": {
+   "fragment_id": "204991920",
+   "type": 11,
+   "heading": "Artigo 9.º — Notificações",
+   "in_force_from": "2013-02-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 18/2013 - Diário da República n.º 26/2013, Série I de 2013-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2013-258114), em vigor a partir de 2013-02-07",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+   ],
+   "markdown": "###### Artigo 9.º — Notificações\n\n1 - Sem prejuízo das notificações a que se refere o artigo 286.º do Código dos Valores Mobiliários, a autoridade competente deve comunicar de imediato ao Banco de Portugal a decisão referida no n.º 1 do artigo anterior, quando esta tenha por objecto qualquer instituição.\n\n2 - O Banco de Portugal notifica imediatamente as entidades designadas pelos outros Estados Membros, bem como o Comité Europeu do Risco Sistémico e a Autoridade Europeia dos Valores Mobiliários e dos Mercados, devendo a CMVM assegurar a transmissão da notificação à Autoridade Europeia dos Valores Mobiliários e dos Mercados.\n\n3 - O Banco de Portugal, sempre que receba do estrangeiro qualquer notificação relativa à insolvência de uma instituição, deve notificar imediatamente as entidades que gerem os sistemas.\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 18/2013 - Diário da República n.º 26/2013, Série I de 2013-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2013-258114), em vigor a partir de 2013-02-07\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+  },
+  "204914599": {
+   "fragment_id": "204991917",
+   "type": 11,
+   "heading": "Artigo 6.º — Garantias",
+   "in_force_from": "2014-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 40/2014 - Diário da República n.º 54/2014, Série I de 2014-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2014-571934), em vigor a partir de 2014-04-17",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+   ],
+   "markdown": "###### Artigo 6.º — Garantias\n\n1 - As garantias constituídas no quadro de um sistema ou de um sistema interoperável em favor de um participante ou de um banco central integrante do sistema europeu de bancos centrais não são afectadas pela abertura de um processo de insolvência contra:\n\na) Um participante;\n\nb) Um operador de um sistema interoperável que não seja participante;\n\nc) Uma contraparte de um banco central integrante de um sistema europeu de bancos centrais;\n\nd) Qualquer terceiro que tenha constituído as garantias.\n\n2 - As garantias referidas no número anterior podem ser executadas pelos respectivos titulares, revertendo o saldo remanescente para a massa falida.\n\n3 - Se o operador tiver constituído garantias em favor de outro operador no quadro de um sistema interoperável, os direitos do operador do sistema que constituiu as garantias não são afetados por um eventual processo de insolvência relativo ao operador do sistema que as recebeu.\n\n4 - Para os efeitos do presente diploma, considera-se garantia qualquer activo susceptível de execução, incluindo as garantias financeiras previstas no Decreto-Lei n.º 105/2004, de 8 de Maio, objecto de uma relação jurídica, nomeadamente de penhor ou de reporte, com o objectivo de tornar mais segura a posição jurídica dos participantes e dos bancos integrantes do sistema europeu de bancos centrais.\n\n> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 40/2014 - Diário da República n.º 54/2014, Série I de 2014-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2014-571934), em vigor a partir de 2014-04-17\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+  },
+  "204914600": {
+   "fragment_id": "204991913",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2022-12-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 23-A/2022 - Diário da República n.º 236/2022, 3º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2022-204552612), em vigor a partir de 2022-12-10",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma entende-se por:\n\na) (Revogada.)\n\nb) 'Instituição de crédito' uma instituição tal como definida no artigo 1.º-A do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, incluindo as instituições enumeradas no seu artigo 3.º;\n\nc) 'Empresa de investimento' uma empresa que, não sendo instituição de crédito, preste serviços e atividades de investimento nos termos do Regime das Empresas de Investimento, aprovado pelo Decreto-Lei n.º 109-H/2021, de 10 dezembro;\n\nd) «Instituição» uma instituição de crédito, uma empresa de investimento, um organismo público ou empresa que beneficie de garantia estatal, ou qualquer empresa estrangeira com funções idênticas às instituições de crédito ou às empresas de investimento, que participe num sistema e que seja responsável pela execução das obrigações financeiras decorrentes de ordens de transferência emitidas no âmbito desse sistema;\n\ne) 'Contraparte central' ou 'CCP' uma CCP na aceção do ponto 1 do artigo 2.º do Regulamento (UE) n.º 648/2012 do Parlamento Europeu e do Conselho, de 4 de julho de 2012;\n\nf) «Agente de liquidação» entidade na qual são abertas as contas para a liquidação de obrigações no quadro dos sistemas;\n\ng) «Câmara de compensação» entidade que calcula os saldos resultantes da compensação dos créditos e das dívidas das instituições, das contrapartes centrais e dos agentes de liquidação;\n\nh) (Revogada.)\n\ni) (Revogada.)\n\nj) 'Instrumentos financeiros' valores mobiliários tal como definidos no artigo 1.º do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de Novembro, e os instrumentos do mercado monetário, futuros sobre instrumentos financeiros, incluindo instrumentos equivalentes que dêem origem a uma liquidação em dinheiro, contratos a prazo relativos a taxas de juro (FRA), swaps de taxas de juro, de divisas, ou relativos a um índice sobre acções (equity swaps) e opções destinadas à compra ou à venda de qualquer instrumento financeiro atrás referido;\n\nl) «Ordem de transferência» instrução de um participante para colocar um certo montante pecuniário à disposição de um destinatário ou que resulte na assunção ou na execução de uma obrigação de pagamento tal como definida pelas regras do sistema;\n\nm) (Revogada.)\n\nn) 'Conta de liquidação' conta aberta num banco central, num agente de liquidação ou numa contraparte central, funcionando para depósito de dinheiro ou para a liquidação de transacções entre participantes num sistema;\n\no) (Revogada.)\n\np) 'Compensação' a conversão de créditos e obrigações decorrentes de ordens de transferência que um ou mais participantes emitem a favor de outro ou outros participantes, ou que dele ou deles recebem, num único crédito (líquido ou numa única obrigação líquida, de forma que apenas será exigível esse crédito líquido ou devida essa obrigação líquida).\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 23-A/2022 - Diário da República n.º 236/2022, 3º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2022-204552612), em vigor a partir de 2022-12-10\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+  },
+  "204914601": {
+   "fragment_id": "204991929",
+   "type": 11,
+   "heading": "Artigo 2.º-B — Participação nos sistemas de pagamentos",
+   "in_force_from": "2022-12-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 23-A/2022 - Diário da República n.º 236/2022, 3º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2022-204552612), em vigor a partir de 2022-12-10",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2022-07-04"
+   ],
+   "markdown": "###### Artigo 2.º-B — Participação nos sistemas de pagamentos\n\n1 - Para efeitos do presente diploma, a compensação e a execução de ordens de transferência num sistema pode operar-se entre:\n\na) Três participantes, sem contar com o operador desse sistema, um agente de liquidação, uma contraparte central, uma câmara de compensação ou um participante indirecto, excepto quando este seja considerado participante nos termos da alínea h) do artigo 2.º; ou,\n\nb) Dois participantes, sem contar com o operador desse sistema, um agente de liquidação, uma contraparte central, uma câmara de compensação ou um participante indirecto, sempre que o Banco de Portugal considerar que essa designação se justifica por razões de risco sistémico.\n\n2 - Podem ser participantes de um sistema as seguintes entidades:\n\na) Uma instituição;\n\nb) Uma contraparte central;\n\nc) Um agente de liquidação;\n\nd) Uma câmara de compensação;\n\ne) Um operador de sistema; ou\n\nf) Um membro compensador de uma CCP autorizada nos termos do artigo 17.º do Regulamento (UE) n.º 648/2012 do Parlamento Europeu e do Conselho, de 4 de julho de 2012; ou\n\ng) Um participante indirecto.\n\n3 - O participante indirecto só é considerado participante de um sistema se o Banco de Portugal entender, nos casos dos sistemas referidos na alínea a) do n.º 1, que a qualidade de participante se justifica em razão do risco sistémico e desde que o participante seja conhecido do sistema.\n\n4 - Um participante é indirecto sempre que se encontre ligado a outro participante num sistema por uma relação contratual, notificada ao operador do sistema de acordo com as regras deste, sendo-lhe permitido executar ordens de transferência através do sistema do participante.\n\n5 - A qualidade de participante indirecto nos termos do número anterior depende da responsabilidade pela introdução das ordens de transferência no sistema referidas se manter no participante.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 23-A/2022 - Diário da República n.º 236/2022, 3º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2022-204552612), em vigor a partir de 2022-12-10\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2022-07-04"
+  },
+  "989734447": {
+   "fragment_id": "204991913",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2025-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 68/2025 - Diário da República n.º 244/2025, Série I de 2025-12-19](https://diariodarepublica.pt/dr/detalhe/lei/68-2025-989749707), em vigor a partir de 2025-12-24",
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 23-A/2022 - Diário da República n.º 236/2022, 3º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2022-204552612), em vigor a partir de 2022-12-10",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma entende-se por:\n\na) (Revogada.)\n\nb) «Instituição de crédito» uma instituição tal como definida no artigo 1.º-A do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, incluindo as instituições enumeradas no seu artigo 3.º;\n\nc) «Empresa de investimento» uma empresa que, não sendo instituição de crédito, preste serviços e atividades de investimento nos termos do Regime das Empresas de Investimento, aprovado pelo Decreto-Lei n.º 109-H/2021, de 10 dezembro;\n\nd) «Instituição»:\n\ni) Uma instituição de crédito, uma empresa de investimento, um organismo público ou empresa que beneficie de garantia estatal, ou qualquer empresa estrangeira com funções idênticas às instituições de crédito ou às empresas de investimento, que participe num sistema e que seja responsável pela execução das obrigações financeiras decorrentes de ordens de transferência emitidas no âmbito desse sistema;\n\nii) Uma instituição de pagamento, na aceção do artigo 13.º do Regime Jurídico dos Serviços de Pagamento e da Moeda Eletrónica, aprovado em anexo ao Decreto-Lei n.º 91/2018, de 12 de novembro, com exceção das pessoas singulares ou coletivas que beneficiem de uma isenção nos termos dos seus artigos 22.º e 37.º, que participe num sistema cuja atividade consista na execução de ordens de transferência, tal como definidas na alínea l) do presente artigo, e que seja responsável pela execução das obrigações financeiras decorrentes dessas ordens de transferência no âmbito desse sistema;\n\niii) Uma instituição de moeda eletrónica, na aceção do artigo 14.º do Regime Jurídico dos Serviços de Pagamento e da Moeda Eletrónica, aprovado em anexo ao Decreto-Lei n.º 91/2018, de 12 de novembro, que participe num sistema cuja atividade consista na execução de ordens de transferência, tal como definidas na alínea l), e que seja responsável pela execução das obrigações financeiras decorrentes dessas ordens de transferência no âmbito desse sistema;\n\ne) «Contraparte central» ou «CCP» uma CCP na aceção do ponto 1 do artigo 2.º do Regulamento (UE) n.º 648/2012 do Parlamento Europeu e do Conselho, de 4 de julho de 2012;\n\nf) «Agente de liquidação» entidade na qual são abertas as contas para a liquidação de obrigações no quadro dos sistemas;\n\ng) «Câmara de compensação» entidade que calcula os saldos resultantes da compensação dos créditos e das dívidas das instituições, das contrapartes centrais e dos agentes de liquidação;\n\nh) (Revogada.)\n\ni) (Revogada.)\n\nj) «Instrumentos financeiros» valores mobiliários tal como definidos no artigo 1.º do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de Novembro, e os instrumentos do mercado monetário, futuros sobre instrumentos financeiros, incluindo instrumentos equivalentes que deem origem a uma liquidação em dinheiro, contratos a prazo relativos a taxas de juro (FRA), swaps de taxas de juro, de divisas, ou relativos a um índice sobre ações (equity swaps) e opções destinadas à compra ou à venda de qualquer instrumento financeiro atrás referido;\n\nl) «Ordem de transferência» instrução de um participante para colocar um certo montante pecuniário à disposição de um destinatário ou que resulte na assunção ou na execução de uma obrigação de pagamento tal como definida pelas regras do sistema;\n\nm) (Revogada.)\n\nn) «Conta de liquidação» conta aberta num banco central, num agente de liquidação ou numa contraparte central, funcionando para depósito de dinheiro ou para a liquidação de transações entre participantes num sistema;\n\no) (Revogada.)\n\np) «Compensação» a conversão de créditos e obrigações decorrentes de ordens de transferência que um ou mais participantes emitem a favor de outro ou outros participantes, ou que dele ou deles recebem, num único crédito (líquido ou numa única obrigação líquida, de forma que apenas será exigível esse crédito líquido ou devida essa obrigação líquida).\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 68/2025 - Diário da República n.º 244/2025, Série I de 2025-12-19](https://diariodarepublica.pt/dr/detalhe/lei/68-2025-989749707), em vigor a partir de 2025-12-24\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 23-A/2022 - Diário da República n.º 236/2022, 3º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2022-204552612), em vigor a partir de 2022-12-10\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2011-07-04"
+  },
+  "989734448": {
+   "fragment_id": "204991928",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Sistemas de pagamentos",
+   "in_force_from": "2025-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 68/2025 - Diário da República n.º 244/2025, Série I de 2025-12-19](https://diariodarepublica.pt/dr/detalhe/lei/68-2025-989749707), em vigor a partir de 2025-12-24",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2022-07-04"
+   ],
+   "markdown": "###### Artigo 2.º-A — Sistemas de pagamentos\n\n1 - Para os efeitos do presente diploma, considera-se que um sistema é o acordo escrito cujo objeto principal vise a compensação e a execução de ordens que respeitem regras comuns e procedimentos padronizados, regulado pela lei portuguesa e notificado à Autoridade Europeia dos Valores Mobiliários e dos Mercados nos termos do presente diploma.\n\n2 - Constituem sistemas interoperáveis o conjunto de dois ou mais sistemas cujos operadores tenham celebrado entre si um acordo que implique a execução de ordens de transferência entre sistemas.\n\n3 - O operador de sistema é a entidade ou entidades legalmente responsáveis pelo funcionamento do sistema.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 68/2025 - Diário da República n.º 244/2025, Série I de 2025-12-19](https://diariodarepublica.pt/dr/detalhe/lei/68-2025-989749707), em vigor a partir de 2025-12-24\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2022-07-04"
+  },
+  "989734449": {
+   "fragment_id": "204991929",
+   "type": 11,
+   "heading": "Artigo 2.º-B — Participação nos sistemas de pagamentos",
+   "in_force_from": "2025-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 68/2025 - Diário da República n.º 244/2025, Série I de 2025-12-19](https://diariodarepublica.pt/dr/detalhe/lei/68-2025-989749707), em vigor a partir de 2025-12-24",
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 23-A/2022 - Diário da República n.º 236/2022, 3º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2022-204552612), em vigor a partir de 2022-12-10",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2022-07-04"
+   ],
+   "markdown": "###### Artigo 2.º-B — Participação nos sistemas de pagamentos\n\n1 - Para efeitos do presente diploma, a compensação e a execução de ordens de transferência num sistema pode operar-se entre:\n\na) Três participantes, sem contar com o operador desse sistema, um agente de liquidação, uma contraparte central, uma câmara de compensação ou um participante indirecto, excepto quando este seja considerado participante nos termos da alínea h) do artigo 2.º; ou,\n\nb) Dois participantes, sem contar com o operador desse sistema, um agente de liquidação, uma contraparte central, uma câmara de compensação ou um participante indirecto, sempre que o Banco de Portugal considerar que essa designação se justifica por razões de risco sistémico.\n\n2 - Podem ser participantes de um sistema as seguintes entidades:\n\na) Uma instituição;\n\nb) Uma contraparte central;\n\nc) Um agente de liquidação;\n\nd) Uma câmara de compensação;\n\ne) Um operador de sistema; ou\n\nf) Um membro compensador de uma CCP autorizada nos termos do artigo 17.º do Regulamento (UE) n.º 648/2012 do Parlamento Europeu e do Conselho, de 4 de julho de 2012; ou\n\ng) Um participante indirecto.\n\n3 - O participante indirecto só é considerado participante de um sistema se o Banco de Portugal entender, nos casos dos sistemas referidos na alínea a) do n.º 1, que a qualidade de participante se justifica em razão do risco sistémico e desde que o participante seja conhecido do sistema.\n\n4 - Um participante é indirecto sempre que se encontre ligado a outro participante num sistema por uma relação contratual, notificada ao operador do sistema de acordo com as regras deste, sendo-lhe permitido executar ordens de transferência através do sistema do participante.\n\n5 - Para efeitos do número anterior, a existência de um participante indireto não limita a responsabilidade do participante através do qual o participante indireto transmite ordens de transferência ao sistema.\n\n6 - De acordo com as regras do sistema, o mesmo participante pode atuar como contraparte central, agente de liquidação ou câmara de compensação ou exercer uma parte ou a totalidade dessas funções.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 68/2025 - Diário da República n.º 244/2025, Série I de 2025-12-19](https://diariodarepublica.pt/dr/detalhe/lei/68-2025-989749707), em vigor a partir de 2025-12-24\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 23-A/2022 - Diário da República n.º 236/2022, 3º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2022-204552612), em vigor a partir de 2022-12-10\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 85/2011 - Diário da República n.º 123/2011, Série I de 2011-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2011-670530), em vigor a partir de 2022-07-04"
+  }
+ }
+}

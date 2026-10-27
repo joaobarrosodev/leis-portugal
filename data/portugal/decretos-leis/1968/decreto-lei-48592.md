@@ -1,0 +1,112 @@
+---
+schema_version: '1.0'
+id: pt:dre:264551:por
+title: Decreto-Lei n.º 48592
+short_title: null
+summary: Considera abrangidas as obras da ligação da Avenida do Marechal Carmona (2.ª Circular) ao limite do concelho de Lisboa,
+  na Calçada do Carriche, a executar pela Câmara Municipal de Lisboa, pelo disposto no artigo 1.º do Decreto-Lei n.º 45561
+  (expropriações necessárias para a construção das grandes vias de circulação relacionadas com a ponte sobre o Tejo entre
+  Lisboa e Almada)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas - Gabinete do Ministro
+proposing_entity: null
+official_number: '48592'
+official_date: null
+publication_date: '1968-09-26'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 228/1968, Série I de 1968-09-26
+  number: '228'
+  series: I
+  supplement: null
+  pages: 1502 - 1502
+  pdf_url: https://files.diariodarepublica.pt/1s/1968/09/22800/15021502.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '264551'
+  dre_path: /dr/detalhe/decreto-lei/48592-1968-264551
+  internal: pt:dre:264551:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48592-1968-264551
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48592-1968-264551
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:06:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f898602a5acb46412142a13c91c3f941ec05f3a656fb1ff0ac40f505db62cb8b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:06:41Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Câmara Municipal
+- Expropriação
+- Lisboa
+- Prédio Urbano
+- Rede de Estradas
+- Utilidade Pública
+relationships:
+- type: cites
+  target: pt:dre:469620:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:06:41Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 48592
+
+O [Decreto-Lei n.º 45561](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45561-1964-469620), de 13 de Fevereiro de 1964, tornou aplicável às expropriações a efectuar pela Câmara Municipal de Lisboa e Junta Autónoma de Estradas para a execução dos trabalhos rodoviários considerados indispensáveis para o satisfatório funcionamento da Ponte Salazar o regime em vigor estabelecido para a construção daquela obra e seus acessos.
+
+Para completar o esquema viário que integra o tráfego da Ponte com o restante, torna-se necessário facultar à Câmara Municipal de Lisboa disposições que a habilitem a concretizar no mais breve período de tempo os trabalhos que constituem as ligações das várias penetrantes e saídas da cidade às principais vias do tecido urbano da capital.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo único. Consideram-se abrangidas pelo disposto no artigo 1.º do [Decreto-Lei n.º 45561](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45561-1964-469620), de 13 de Fevereiro de 1964, as seguintes obras a executar pela Câmara Municipal de Lisboa:
+
+1. Ligação da Avenida do Marechal Carmona (2.ª Circular) ao limite do concelho de Lisboa, na Calçada do Carriche.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 26 de Setembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - António Manuel Gonçalves Rapazote - Mário Júlio de Almeida Costa - João Augusto Dias Rosas - José Manuel Bettencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Joaquim de Jesus Santos.

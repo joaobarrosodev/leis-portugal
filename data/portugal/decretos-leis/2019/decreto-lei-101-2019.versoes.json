@@ -1,0 +1,308 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:123666148:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-123704731",
+ "dre_path": "/dr/detalhe/decreto-lei/101-2019-123666148",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-08-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "123540963",
+    "123540964",
+    "123540965",
+    "123540966",
+    "123540967",
+    "123540968",
+    "123540969",
+    "123540970",
+    "123540971",
+    "123540972",
+    "123540973",
+    "123540974",
+    "123723475",
+    "123723476",
+    "123723477",
+    "123723478",
+    "123723479",
+    "123723480",
+    "123723481",
+    "123723482",
+    "123723483",
+    "123723484"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "123540963",
+    "123540964",
+    "123540965",
+    "123540966",
+    "123540967",
+    "123540968",
+    "123540969",
+    "123540970",
+    "123540971",
+    "123540972",
+    "123540973",
+    "123540974",
+    "123723475",
+    "123723476",
+    "157265988",
+    "157265989",
+    "157265990",
+    "157265991",
+    "123723481",
+    "123723482",
+    "123723483",
+    "123723484",
+    "123723485"
+   ]
+  }
+ ],
+ "fragments": {
+  "123540963": {
+   "fragment_id": "123704732",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 101/2019\n\nde 5 de agosto\n\nSumário: Assegura a execução, na ordem jurídica nacional, do Regulamento (UE) n.º 2017/852, relativo ao mercúrio.\n\nO Regulamento (UE) n.º 2017/852 do Parlamento Europeu e do Conselho, de 17 de maio de 2017, relativo ao mercúrio (Regulamento), veio substituir o Regulamento (CE) n.º 1102/2008 do Parlamento Europeu e do Conselho, de 22 de outubro de 2008, sobre a proibição da exportação de mercúrio metálico e de determinados compostos e misturas de mercúrio e o armazenamento seguro de mercúrio metálico, cuja execução foi assegurada na ordem jurídica nacional pelo Decreto-Lei n.º 109/2012, 18 de maio.\n\nA adoção do Regulamento teve em vista completar o acervo legislativo da União Europeia aplicável ao mercúrio, à luz das obrigações impostas no âmbito da Convenção de Minamata, e assegurar um elevado grau de proteção da saúde humana e do ambiente relativamente a emissões e descargas antropogénicas de mercúrio e de compostos de mercúrio.\n\nPara a prossecução deste objetivo, proíbe-se, com algumas exceções, a importação e a exportação de mercúrio e de produtos com mercúrio adicionado, impõe-se restrições à utilização de mercúrio em processos de fabrico, em produtos, na mineração e transformação aurífera artesanal e em pequena escala e em amálgama dentária, e estabelece-se obrigações para os vários operadores.\n\nAinda que o Regulamento seja obrigatório e diretamente aplicável na ordem jurídica portuguesa, incumbe os Estados-Membros de assegurar a sua execução nos respetivos ordenamentos. Nesse sentido, importa prever quais são as autoridades competentes para a realização dos atos previstos no Regulamento e responsáveis pelo controlo do seu cumprimento, e definir o quadro sancionatório aplicável em caso de infração das normas do Regulamento.\n\nForam ouvidos os órgãos de governo próprio da Região Autónoma da Madeira.\n\nFoi promovida a audição dos órgãos de governo próprio da Região Autónoma dos Açores.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "123540964": {
+   "fragment_id": "123704733",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei assegura a execução na ordem jurídica interna do Regulamento (UE) n.º 2017/852 do Parlamento Europeu e do Conselho, de 17 de maio de 2017, relativo ao mercúrio e que revoga o Regulamento (CE) n.º 1102/2008 (Regulamento)."
+  },
+  "123540965": {
+   "fragment_id": "123704734",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entidades competentes\n\n1 - A Agência Portuguesa do Ambiente, I. P. (APA, I. P.), é a autoridade competente nos termos e para os efeitos do disposto no artigo 17.º do Regulamento, sem prejuízo do disposto nos n.os 3 a 5 do presente artigo.\n\n2 - Para efeitos do disposto no número anterior, compete à APA, I. P.:\n\na) Autorizar os pedidos de importação de mercúrio, de misturas de mercúrio e de resíduos de mercúrio, para efeitos do disposto no n.º 1 do artigo 4.º do Regulamento;\n\nb) Receber as notificações apresentadas pelos operadores económicos para efeitos de autorização para introdução de novos produtos com mercúrio adicionado ou processos de fabrico, nos termos do n.º 3 do artigo 8.º do Regulamento;\n\nc) Proceder à avaliação dos benefícios e riscos para o ambiente, de modo a verificar o cumprimento dos critérios a que se refere o n.º 6 do artigo 8.º do Regulamento;\n\nd) Consultar a Direção-Geral da Saúde (DGS) e o Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P., relativamente à avaliação dos benefícios e riscos para a saúde humana, o IAPMEI - Agência para a Competitividade e Inovação, I. P., relativamente à análise da inexistência de alternativas sem mercúrio tecnicamente viáveis, e outras entidades nacionais competentes em razão da matéria, de modo a verificar o cumprimento dos critérios a que se refere o n.º 6 do artigo 8.º do Regulamento;\n\ne) Transmitir à Comissão Europeia as notificações apresentadas pelos operadores económicos que cumprem os critérios a que se refere o n.º 6 do artigo 8.º do Regulamento;\n\nf) Informar a Comissão Europeia das notificações apresentadas pelos operadores económicos que não cumprem os critérios a que se refere o n.º 6 do artigo 8.º do Regulamento;\n\ng) Receber as informações sobre fontes importantes apresentadas pelos operadores económicos, nos termos do artigo 12.º do Regulamento;\n\nh) Assegurar a representação nacional junto da Comissão Europeia;\n\ni) Submeter à Comissão Europeia o plano nacional sobre mineração e transformação aurífera artesanal e em pequena escala, se aplicável nos termos do n.º 2 do artigo 9.º do Regulamento, e disponibilizá-lo no seu sítio na Internet;\n\nj) Submeter à Comissão Europeia o plano nacional sobre as medidas para eliminação gradual da utilização de amálgama dentária, previsto no n.º 3 do artigo 10.º do Regulamento, e disponibilizá-lo no seu sítio na Internet;\n\nk) Receber e submeter à Comissão Europeia os registos transmitidos nos termos do disposto no n.º 4 do artigo 14.º do Regulamento;\n\nl) Informar as entidades consultadas, nos termos do disposto no artigo 6.º, dos resultados da avaliação efetuada pela Comissão Europeia, ao abrigo do disposto no n.º 6 do artigo 8.º do Regulamento;\n\nm) Coordenar o processo de elaboração e submissão à Comissão Europeia dos relatórios a que referem os n.os 1 e 3 do artigo 18.º do Regulamento.\n\n3 - Compete à Direção-Geral de Energia e Geologia (DGEG) coordenar a elaboração e a aplicação do plano nacional sobre mineração e transformação aurífera artesanal e em pequena escala, se aplicável nos termos do n.º 2 do artigo 9.º do Regulamento.\n\n4 - Compete à DGS coordenar a elaboração e a aplicação do plano nacional sobre as medidas para eliminação gradual da utilização de amálgama dentária, previsto no n.º 3 do artigo 10.º do Regulamento, em articulação com as demais entidades competentes em razão da matéria.\n\n5 - Compete às entidades referidas nos números anteriores, bem como às entidades responsáveis pela inspeção e fiscalização nos termos do presente decreto-lei, disponibilizar atempadamente à APA, I. P., na qualidade de autoridade responsável pelo acompanhamento da execução do presente decreto-lei, os dados e informações necessários ao cumprimento das obrigações de comunicação de informação à Comissão Europeia."
+  },
+  "123540966": {
+   "fragment_id": "123704735",
+   "type": 11,
+   "heading": "Artigo 3.º — Pedido de autorização para importação de mercúrio e de misturas de mercúrio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Pedido de autorização para importação de mercúrio e de misturas de mercúrio\n\n1 - A importação de mercúrio e misturas de mercúrio é proibida nos termos do disposto no primeiro parágrafo do n.º 1 do artigo 4.º do Regulamento.\n\n2 - Sem prejuízo do disposto no número anterior, a importação de mercúrio e de misturas de mercúrio previstas do anexo I do Regulamento, com vista a uma utilização autorizada num Estado Membro, pode ser permitida, mediante a emissão de autorização de importação, pela APA, I. P..\n\n3 - A emissão de autorização para importação de mercúrio e de misturas de mercúrio, nos termos do disposto no n.º 1 do artigo 4.º do Regulamento e no número anterior, depende de pedido dos operadores económicos, através dos formulários em anexo à Decisão de Execução (UE) 2017/2287, da Comissão, de 8 de dezembro de 2017, e da observância das condições estabelecidas nas alíneas a) e b) do segundo parágrafo do n.º 1 do artigo 4.º do Regulamento.\n\n4 - Os formulários referidos no número anterior são disponibilizados pela APA, I. P., no seu sítio na Internet.\n\n5 - A APA, I. P., notifica os operadores económicos da decisão, no prazo de 50 dias a contar da receção do pedido de autorização referido no n.º 3, e dá conhecimento da mesma às entidades competentes do país de exportação, no prazo de cinco dias a contar da notificação aos operadores económicos."
+  },
+  "123540967": {
+   "fragment_id": "123704736",
+   "type": 11,
+   "heading": "Artigo 4.º — Pedido de autorização para importação de resíduos de mercúrio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Pedido de autorização para importação de resíduos de mercúrio\n\n1 - A autorização da importação de resíduos de mercúrio provenientes das fontes elencadas no artigo 11.º do Regulamento, nos termos do artigo anterior e do n.º 1 do artigo 4.º do Regulamento, não prejudica o disposto no Decreto-Lei n.º 45/2008, de 11 de março, na sua redação atual.\n\n2 - Os operadores económicos podem pedir a autorização referida no número anterior em simultâneo com a notificação prevista no Decreto-Lei n.º 45/2008, de 11 de março, na sua redação atual, sendo ambos apreciados em conjunto."
+  },
+  "123540968": {
+   "fragment_id": "123704737",
+   "type": 11,
+   "heading": "Artigo 5.º — Notificação de novos produtos com mercúrio adicionado e de novos processos de fabrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Notificação de novos produtos com mercúrio adicionado e de novos processos de fabrico\n\n1 - Os operadores económicos que pretendam obter autorização da Comissão Europeia para o fabrico ou a colocação no mercado nacional de um novo produto com mercúrio adicionado ou a utilização de um novo processo de fabrico dirigem uma notificação à APA, I. P., nos termos do n.º 3 do artigo 8.º do Regulamento, com vista a demonstrar o cumprimento dos requisitos previstos no primeiro parágrafo do n.º 6 do mesmo artigo.\n\n2 - A notificação referida no número anterior deve ser redigida em língua portuguesa e inglesa e incluir a informação referida no n.º 3 do artigo 8.º do Regulamento."
+  },
+  "123540969": {
+   "fragment_id": "123704738",
+   "type": 11,
+   "heading": "Artigo 6.º — Avaliação da notificação de novos produtos com mercúrio adicionado e novos processos de fabrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Avaliação da notificação de novos produtos com mercúrio adicionado e novos processos de fabrico\n\n1 - No prazo de 15 dias a contar da data da receção da notificação prevista no artigo anterior, a APA, I. P., notifica as entidades competentes em razão da matéria para avaliarem e emitirem parecer acerca:\n\na) Dos riscos e benefícios dos novos produtos ou dos novos processos de fabrico para a saúde humana e para o ambiente;\n\nb) Da eventual existência de alternativas sem mercúrio tecnicamente viáveis, que proporcionem benefícios equivalentes aos dos novos produtos ou dos novos processos de fabrico para a saúde humana ou para o ambiente.\n\n2 - As entidades consultadas devem pronunciar-se no prazo de 40 dias a contar da receção do pedido de parecer.\n\n3 - À APA, I. P., compete avaliar a notificação apresentada pelos operadores económicos em matéria de benefícios e riscos para o ambiente e verificar o cumprimento dos critérios estabelecidos no primeiro parágrafo do n.º 6 do artigo 8.º do Regulamento, tendo em conta a avaliação efetuada pelas entidades consultadas.\n\n4 - A APA, I. P., notifica os operadores económicos do resultado da sua avaliação no prazo de 120 dias a contar da data de receção da notificação.\n\n5 - As entidades referidas no n.º 1 podem identificar junto da APA, I. P., a necessidade de requerer elementos adicionais aos operadores económicos, no prazo de 15 dias a contar da data da receção do pedido de parecer.\n\n6 - No prazo de 40 dias após a receção da notificação prevista no artigo anterior, a APA, I. P., pode solicitar aos operadores económicos, oficiosamente ou na sequência do disposto no número anterior, a informação adicional que se revele necessária para a observância do disposto no n.º 4 do artigo 8.º do Regulamento.\n\n7 - Caso tenha sido pedida informação adicional aos operadores económicos nos termos do número anterior, os prazos referidos nos n.os 2 e 4 suspende-se até à resposta destes, extinguindo-se o procedimento caso estes não apresentem a informação adicional solicitadas no prazo de 90 dias após a sua notificação.\n\n8 - No prazo de 10 dias a contar da notificação da decisão ao operador económico, a APA, I. P., transmite à Comissão Europeia:\n\na) A notificação do operador económico prevista no artigo anterior, caso considere, com base na avaliação efetuada, que estão verificados os critérios estabelecidos no n.º 6 do artigo 8.º do Regulamento; ou\n\nb) A informação de que o pedido não cumpre os critérios estabelecidos no n.º 6 do artigo 8.º do Regulamento, na situação contrária."
+  },
+  "123540970": {
+   "fragment_id": "123704739",
+   "type": 11,
+   "heading": "Artigo 7.º — Prestação de informações sobre fontes importantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Prestação de informações sobre fontes importantes\n\nOs operadores económicos dos setores referidos nas alíneas a) a c) do artigo 11.º do Regulamento enviam anualmente à APA, I. P., até 31 de maio, a informação a que se refere o artigo 12.º do Regulamento."
+  },
+  "123540971": {
+   "fragment_id": "123704740",
+   "type": 11,
+   "heading": "Artigo 8.º — Rastreabilidade dos resíduos de mercúrio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Rastreabilidade dos resíduos de mercúrio\n\nOs operadores económicos das instalações referidas nos n.os 1 e 2 do artigo 14.º do Regulamento enviam à APA, I. P., até 31 de janeiro de cada ano e nos termos estabelecidos no referido artigo, os registos relativos ao ano civil anterior."
+  },
+  "123540972": {
+   "fragment_id": "123704741",
+   "type": 11,
+   "heading": "Artigo 9.º — Articulação com outros registos de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Articulação com outros registos de informação\n\nA obrigação de envio de informação pelos operadores económicos e pelos operadores das instalações, prevista, respetivamente, no artigo 12.º e no n.º 4 do artigo 14.º do Regulamento, pode ser cumprida, sempre que aplicável, através do registo no sistema de informação da APA, I. P., no Mapa Integrado de Registo de Resíduos, nas guias eletrónicas de acompanhamento de resíduos ou nos documentos de notificação e acompanhamento no âmbito de processos de movimento transfronteiriço de resíduos, desde que os operadores económicos:\n\na) Submetam os dados até 31 de janeiro de cada ano; e\n\nb) Apresentem uma tabela de correspondência entre os códigos da Lista Europeia de Resíduos e os previstos no Regulamento (CE) n.º 2150/2002 do Parlamento Europeu e do Conselho, de 25 de novembro de 2002, relativo às estatísticas de resíduos."
+  },
+  "123540973": {
+   "fragment_id": "123704742",
+   "type": 11,
+   "heading": "Artigo 10.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Taxas\n\n1 - Pela apreciação do pedido de autorização de importação de mercúrio e de misturas de mercúrio, apresentado nos termos do n.º 1 do artigo 4.º do Regulamento e do n.º 3 do artigo 3.º, é devido o pagamento de uma taxa no valor de (euro) 600.\n\n2 - Aos pedidos de autorização para importação de resíduos de mercúrio, nos termos do n.º 1 do artigo 4.º do Regulamento e do artigo 4.º, aplica-se o disposto na Portaria n.º 242/2008, de 18 de março, na sua redação atual.\n\n3 - Pela apreciação dos processos de notificação de novos produtos com mercúrio adicionado ou de novos processos de fabrico, nos termos do n.º 4 do artigo 8.º do Regulamento e dos artigos 5.º e 6.º, é devido o pagamento de uma taxa no valor de (euro) 10 000.\n\n4 - A taxa prevista no número anterior tem uma redução de:\n\na) 75 %, quando cobrada a microempresas;\n\nb) 45 %, quando cobrada a pequenas empresas;\n\nc) 25 %, quando cobrada a médias empresas.\n\n5 - Compete à APA, I. P., proceder à liquidação das taxas previstas nos números anteriores, através da emissão dos respetivos Documentos Únicos de Cobrança (DUC), devendo os operadores económicos assegurar o respetivo pagamento no prazo de 10 dias a contar da data da receção do DUC."
+  },
+  "123540974": {
+   "fragment_id": "123704743",
+   "type": 11,
+   "heading": "Artigo 11.º — Repartição e atualização das taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Repartição e atualização das taxas\n\n1 - A receita das taxas previstas no n.º 1 do artigo anterior reverte para a APA, I. P..\n\n2 - A receita das taxas previstas no n.º 3 do artigo anterior é repartida da seguinte forma:\n\na) 60 % reverte para a APA, I. P.;\n\nb) 40 % reverte, em partes iguais, para as entidades consultadas nos termos do artigo 6.º\n\n3 - Compete à APA, I. P., assegurar a transferência para as entidades consultadas da receita a que se refere a alínea b) do número anterior, no prazo máximo de 60 dias a contar da liquidação das taxas.\n\n4 - O valor das taxas previstas no artigo anterior é atualizado automaticamente, todos os anos, a partir de janeiro, por aplicação do índice de preços no consumidor no continente relativo ao ano anterior, excluindo a habitação, publicado pelo Instituto Nacional de Estatística, I. P..\n\n5 - Os montantes cobrados nos termos do artigo anterior constituem receita própria das entidades referidas nos n.os 1 e 2."
+  },
+  "123723475": {
+   "fragment_id": "123704744",
+   "type": 11,
+   "heading": "Artigo 12.º — Inspeção e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Inspeção e fiscalização\n\n1 - A fiscalização do cumprimento do disposto no presente decreto-lei cabe, no âmbito das respetivas competências, à Inspeção-Geral da Agricultura, Mar, Ambiente e do Ordenamento do Território (IGAMAOT), à Autoridade Tributária e Aduaneira (AT), à Autoridade de Segurança Alimentar e Económica (ASAE), à Entidade Reguladora da Saúde, ao INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P., e à DGEG.\n\n2 - O disposto no número anterior não prejudica o exercício dos poderes de fiscalização e polícia que competem às demais autoridades públicas."
+  },
+  "123723476": {
+   "fragment_id": "123704745",
+   "type": 11,
+   "heading": "Artigo 13.º — Contraordenações ambientais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Contraordenações ambientais\n\n1 - Constitui contraordenação ambiental leve, punível nos termos da lei-quadro das contraordenações ambientais, aprovada pela Lei n.º 50/2006, de 29 de agosto, na sua redação atual, a violação da obrigação de facultar informações sobre fontes importantes, prevista no artigo 12.º do Regulamento e no artigo 7.º\n\n2 - Constitui contraordenação ambiental grave, punível nos termos da lei-quadro das contraordenações ambientais, a prática dos seguintes atos:\n\na) A recuperação de mercúrio proveniente da eliminação dos resíduos de mercúrio, em violação do disposto no segundo parágrafo do artigo 11.º do Regulamento;\n\nb) O incumprimento, pelos operadores das instalações que procedem à armazenagem temporária de resíduos de mercúrio, da obrigação de criação de registo, de emissão de certificado comprovativo do envio para instalações que procedam à respetiva eliminação ou de transmissão do referido certificado aos operadores económicos responsáveis pelas fontes importantes, em violação do disposto no n.º 1 do artigo 14.º do Regulamento;\n\nc) O incumprimento, pelos operadores das instalações que procedem à conversão e, se aplicável, à solidificação de resíduos de mercúrio, da obrigação de registo, de emissão de certificado comprovativo de conversão ou de transmissão do referido certificado aos operadores das instalações de armazenagem e de conversão de resíduos e aos operadores económicos referidos no artigo 12.º do Regulamento, em violação do disposto no n.º 2 do artigo 14.º do Regulamento;\n\nd) O incumprimento, pelos operadores que procedem à armazenagem permanente de resíduos de mercúrio objeto de conversão e, se aplicável, de solidificação, da obrigação de emissão de certificado comprovativo do armazenamento da totalidade dos referidos resíduos ou de transmissão do certificado aos operadores das instalações referidos nas alíneas b) e c) e aos operadores económicos referidos no artigo 12.º do Regulamento, em violação do disposto no n.º 3 do artigo 14.º do Regulamento;\n\ne) O incumprimento, pelos operadores das instalações referidos nas alíneas b) e c), da obrigação de transmissão, à APA, I. P., do registo relativo ao ano civil anterior, em violação do disposto no n.º 4 do artigo 14.º do Regulamento e no artigo 9.º\n\n3 - Constitui contraordenação ambiental muito grave, punível nos termos da lei-quadro das contraordenações ambientais, a prática dos seguintes atos:\n\na) A utilização não autorizada de mercúrio e de misturas de mercúrio, em violação do disposto no segundo parágrafo do n.º 1 do artigo 4.º do Regulamento;\n\nb) A utilização de mercúrio e de compostos de mercúrio nos processos de fabrico constantes na parte I do anexo III do Regulamento a partir das datas nele fixadas, em violação do disposto no n.º 1 do artigo 7.º do Regulamento;\n\nc) A utilização não autorizada de mercúrio e de compostos de mercúrio nos processos de fabrico constantes na parte II do anexo III do Regulamento, em violação do disposto no n.º 2 do artigo 7.º do Regulamento;\n\nd) A armazenagem provisória de mercúrio, de compostos de mercúrio e de misturas de mercúrio constantes do anexo I do Regulamento sem cumprimento das condições previstas no n.º 3 do artigo 7.º do Regulamento;\n\ne) A mineração e a transformação aurífera artesanal e em pequena escala na qual se utilize a amalgamação com mercúrio para extrair o ouro do minério, em violação do disposto no n.º 1 do artigo 9.º do Regulamento;\n\nf) O incumprimento, pelos médicos dentistas, da obrigação de entrega dos resíduos de amálgama, incluindo os resíduos de amálgama, as partículas e as restaurações e dentes ou partes deles, contaminados com amálgama dentária a um operador de tratamento de resíduos, licenciado nos termos do disposto no Decreto-Lei n.º 178/2006, de 5 de setembro, na sua redação atual, em violação do disposto no primeiro parágrafo do n.º 6 do artigo 10.º do Regulamento;\n\ng) A libertação, direta ou indireta, de resíduos de amálgama contaminados com amálgama dentária para o ambiente, em violação do disposto no segundo parágrafo do n.º 6 do artigo 10.º do Regulamento;\n\nh) A armazenagem de resíduos de mercúrio sem cumprimento das condições previstas nos n.os 1 e 3 do artigo 13.º do Regulamento.\n\n4 - A tentativa e a negligência são puníveis nos termos e do disposto na Lei-Quadro das Contraordenações Ambientais.\n\n5 - Pode ser objeto de publicidade, nos termos do disposto no artigo 38.º da Lei-Quadro das Contraordenações Ambientais, a condenação pela prática das infrações graves e muito graves previstas nos n.os 2 e 3 do presente artigo, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstratamente aplicável."
+  },
+  "123723477": {
+   "fragment_id": "123704746",
+   "type": 11,
+   "heading": "Artigo 14.º — Outras contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Outras contraordenações\n\n1 - Constitui ainda contraordenação, nos termos do regime geral das contraordenações, aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro, na sua redação atual, punível com coima de (euro) 1250 a (euro) 3740 ou de (euro) 2500 a (euro) 44 890, consoante o agente seja pessoa singular ou coletiva:\n\na) A exportação de mercúrio, em violação do disposto no n.º 1 do artigo 3.º do Regulamento;\n\nb) A exportação dos compostos de mercúrio e das misturas de mercúrio constantes do anexo I do Regulamento, a partir das datas nele fixadas ou para outros fins que não sejam a investigação ou análise laboratorial, em violação do disposto nos n.os 2 e 3 do artigo 3.º do Regulamento;\n\nc) A exportação, para efeitos de recuperação do mercúrio, dos compostos de mercúrio e das misturas de mercúrio não constantes do anexo I do Regulamento, em violação do disposto no n.º 4 do artigo 3.º do Regulamento;\n\nd) A importação de mercúrio e de misturas de mercúrio constantes do anexo I do Regulamento, incluindo de resíduos de mercúrio provenientes das fontes importantes elencadas no artigo 11.º do Regulamento, em violação do disposto no primeiro parágrafo do n.º 1 do artigo 4.º do Regulamento;\n\ne) A importação, para fins de recuperação do mercúrio, das misturas de mercúrio não abrangidas pelo n.º 1 do artigo 4.º Regulamento e de compostos de mercúrio, em violação do disposto no n.º 2 do artigo 4.º do Regulamento;\n\nf) A importação de mercúrio para utilização na mineração e transformação aurífera artesanal e em pequena escala, em violação do disposto no n.º 3 do artigo 4.º do Regulamento;\n\ng) A exportação, a importação e o fabrico de produtos com mercúrio adicionado constantes do anexo II do Regulamento a partir das datas nele fixadas, em violação do disposto no artigo 5.º do Regulamento;\n\nh) A produção ou a colocação no mercado de novos produtos com mercúrio adicionado sem a autorização necessária, em violação do disposto no n.º 1 do artigo 8.º do Regulamento;\n\ni) A utilização de novos processos de fabrico sem a autorização necessária, em violação do disposto no n.º 2 do artigo 8.º do Regulamento;\n\nj) A utilização de amálgama dentária pelos médicos dentistas sem ser sob a forma de cápsulas pré-doseadas, em violação do disposto na primeira parte do n.º 1 do artigo 10.º do Regulamento;\n\nk) A utilização de mercúrio a granel pelos médicos dentistas, em violação do disposto na segunda parte do n.º 1 do artigo 10.º do Regulamento;\n\nl) A utilização de amálgama dentária pelos médicos dentistas para efeitos de tratamentos dentários de dentes decíduos, de crianças menores de 15 anos e de mulheres grávidas ou lactantes, que não seja considerada estritamente necessária por um médico dentista, em violação do disposto no n.º 2 do artigo 10.º do Regulamento;\n\nm) O incumprimento, pelos médicos dentistas, da obrigação de equipar os consultórios com separadores de amálgama, para retenção e recolha de partículas de amálgama que cumpram os requisitos previstos no primeiro parágrafo do n.º 4 do artigo 10.º do Regulamento;\n\nn) O incumprimento, pelos médicos dentistas, da obrigação de assegurar que os separadores de amálgama possuem um nível de retenção de pelo menos 95 % das partículas de amálgama, nos termos do segundo parágrafo do n.º 4 do artigo 10.º do Regulamento.\n\n2 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade."
+  },
+  "123723478": {
+   "fragment_id": "123704747",
+   "type": 11,
+   "heading": "Artigo 15.º — Instrução de processos e aplicação de sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Instrução de processos e aplicação de sanções\n\n1 - Compete à IGAMAOT, à ASAE e à AT, no âmbito das respetivas competências, a instrução dos processos de contraordenação instaurados no âmbito do presente decreto-lei, bem como a aplicação das correspondentes coimas.\n\n2 - A entidade competente para a aplicação da coima aplica as sanções acessórias que se mostrem adequadas, nos termos previstos na Lei-Quadro das Contraordenações Ambientais."
+  },
+  "123723479": {
+   "fragment_id": "123704748",
+   "type": 11,
+   "heading": "Artigo 16.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Produto das coimas\n\n1 - A afetação do produto das coimas aplicadas pela prática das contraordenações ambientais previstas no artigo 13.º é feita nos termos do artigo 73.º da Lei-Quadro das Contraordenações Ambientais.\n\n2 - O produto das coimas previstas no artigo 14.º é distribuído da seguinte forma:\n\na) 60 % para o Estado;\n\nb) 30 % para a entidade que aplica a coima;\n\nc) 10 % para a entidade autuante."
+  },
+  "123723480": {
+   "fragment_id": "123704749",
+   "type": 11,
+   "heading": "Artigo 17.º — Medidas cautelares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Medidas cautelares\n\nAs entidades competentes para a inspeção e fiscalização, nos termos do artigo 12.º, determinam a aplicação de medidas cautelares, incluindo a apreensão provisória de bens e documentos, nos termos previstos no artigo 42.º da lei-quadro das contraordenações ambientais, ou apreensão de objetos, nos termos previstos no artigo 48.º-A do regime geral das contraordenações."
+  },
+  "123723481": {
+   "fragment_id": "123704750",
+   "type": 11,
+   "heading": "Artigo 18.º — Regiões autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regiões autónomas\n\n1 - O presente decreto-lei aplica-se às regiões autónomas, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma.\n\n2 - Os serviços e organismos das respetivas administrações regionais devem remeter à APA, I. P., a informação necessária à elaboração do relatório a que se refere o n.º 1 do artigo 18.º do Regulamento.\n\n3 - O produto das taxas e das coimas aplicadas nas regiões autónomas constitui receita própria destas."
+  },
+  "123723482": {
+   "fragment_id": "123704751",
+   "type": 11,
+   "heading": "Artigo 19.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Norma transitória\n\nAté 1 de janeiro de 2021, o disposto na alínea n) do n.º 1 do artigo 14.º aplica-se apenas aos separadores de amálgama colocados em serviço a partir da data de entrada em vigor do presente decreto-lei."
+  },
+  "123723483": {
+   "fragment_id": "123704752",
+   "type": 11,
+   "heading": "Artigo 20.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 109/2012, de 18 de maio."
+  },
+  "123723484": {
+   "fragment_id": "123704753",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "157265988": {
+   "fragment_id": "123704746",
+   "type": 11,
+   "heading": "Artigo 14.º — Contraordenações económicas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 173.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 14.º — Contraordenações económicas\n\n1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):\n\na) A exportação de mercúrio, em violação do disposto no n.º 1 do artigo 3.º do Regulamento;\n\nb) A exportação dos compostos de mercúrio e das misturas de mercúrio constantes do anexo I do Regulamento, a partir das datas nele fixadas ou para outros fins que não sejam a investigação ou análise laboratorial, em violação do disposto nos n.os 2 e 3 do artigo 3.º do Regulamento;\n\nc) A exportação, para efeitos de recuperação do mercúrio, dos compostos de mercúrio e das misturas de mercúrio não constantes do anexo I do Regulamento, em violação do disposto no n.º 4 do artigo 3.º do Regulamento;\n\nd) A importação de mercúrio e de misturas de mercúrio constantes do anexo I do Regulamento, incluindo de resíduos de mercúrio provenientes das fontes importantes elencadas no artigo 11.º do Regulamento, em violação do disposto no primeiro parágrafo do n.º 1 do artigo 4.º do Regulamento;\n\ne) A importação, para fins de recuperação do mercúrio, das misturas de mercúrio não abrangidas pelo n.º 1 do artigo 4.º Regulamento e de compostos de mercúrio, em violação do disposto no n.º 2 do artigo 4.º do Regulamento;\n\nf) A importação de mercúrio para utilização na mineração e transformação aurífera artesanal e em pequena escala, em violação do disposto no n.º 3 do artigo 4.º do Regulamento;\n\ng) A exportação, a importação e o fabrico de produtos com mercúrio adicionado constantes do anexo II do Regulamento a partir das datas nele fixadas, em violação do disposto no artigo 5.º do Regulamento;\n\nh) A produção ou a colocação no mercado de novos produtos com mercúrio adicionado sem a autorização necessária, em violação do disposto no n.º 1 do artigo 8.º do Regulamento;\n\ni) A utilização de novos processos de fabrico sem a autorização necessária, em violação do disposto no n.º 2 do artigo 8.º do Regulamento;\n\nj) A utilização de amálgama dentária pelos médicos dentistas sem ser sob a forma de cápsulas pré-doseadas, em violação do disposto na primeira parte do n.º 1 do artigo 10.º do Regulamento;\n\nk) A utilização de mercúrio a granel pelos médicos dentistas, em violação do disposto na segunda parte do n.º 1 do artigo 10.º do Regulamento;\n\nl) A utilização de amálgama dentária pelos médicos dentistas para efeitos de tratamentos dentários de dentes decíduos, de crianças menores de 15 anos e de mulheres grávidas ou lactantes, que não seja considerada estritamente necessária por um médico dentista, em violação do disposto no n.º 2 do artigo 10.º do Regulamento;\n\nm) O incumprimento, pelos médicos dentistas, da obrigação de equipar os consultórios com separadores de amálgama, para retenção e recolha de partículas de amálgama que cumpram os requisitos previstos no primeiro parágrafo do n.º 4 do artigo 10.º do Regulamento;\n\nn) O incumprimento, pelos médicos dentistas, da obrigação de assegurar que os separadores de amálgama possuem um nível de retenção de pelo menos 95 % das partículas de amálgama, nos termos do segundo parágrafo do n.º 4 do artigo 10.º do Regulamento.\n\n2 - A negligência é punível nos termos do RJCE.\n\n> Alterado pelo/a Artigo 173.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "157265989": {
+   "fragment_id": "123704747",
+   "type": 11,
+   "heading": "Artigo 15.º — Instrução de processos e aplicação de sanções",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 173.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 15.º — Instrução de processos e aplicação de sanções\n\n1 - Compete à IGAMAOT, à ASAE e à AT, no âmbito das respetivas competências, a instrução dos processos de contraordenação instaurados no âmbito do presente decreto-lei, bem como a aplicação das correspondentes coimas.\n\n2 - A entidade competente para a aplicação da coima aplica as sanções acessórias que se mostrem adequadas, nos termos previstos na Lei-Quadro das Contraordenações Ambientais, no caso das contraordenações ambientais, e nos termos previstos no RJCE, no caso das contraordenações económicas.\n\n> Alterado pelo/a Artigo 173.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "157265990": {
+   "fragment_id": "123704748",
+   "type": 11,
+   "heading": "Artigo 16.º — Produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 173.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 16.º — Produto das coimas\n\n1 - A afetação do produto das coimas aplicadas pela prática das contraordenações ambientais previstas no artigo 13.º é feita nos termos do artigo 73.º da Lei-Quadro das Contraordenações Ambientais.\n\n2 - O produto das coimas previstas no artigo 14.º é distribuído da seguinte forma:\n\na) 60 % para o Estado;\n\nb) 30 % para a entidade que aplica a coima;\n\nc) 10 % para a entidade autuante.\n\n2 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no artigo 14.º é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 173.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "157265991": {
+   "fragment_id": "123704749",
+   "type": 11,
+   "heading": "Artigo 17.º — Medidas cautelares",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 173.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 17.º — Medidas cautelares\n\nAs entidades competentes para a inspeção e fiscalização, nos termos do artigo 12.º, determinam a aplicação de medidas cautelares, incluindo a apreensão provisória de bens e documentos, nos termos previstos no artigo 42.º da Lei-Quadro das Contraordenações Ambientais, ou a apreensão de objetos, nos termos previstos no RJCE.\n\n> Alterado pelo/a Artigo 173.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "123723485": {
+   "fragment_id": "123704754",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 18 de julho de 2019. - António Luís Santos da Costa - Eurico Jorge Nogueira Leite Brilhante Dias - Maria de Fátima de Jesus Fonseca - João Jorge Arede Correia Neves - João Pedro Soeiro de Matos Fernandes.\n\nPromulgado em 26 de julho de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 30 de julho de 2019.\n\nPelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.\n\n112492009"
+  }
+ }
+}

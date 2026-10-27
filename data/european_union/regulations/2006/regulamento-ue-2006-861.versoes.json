@@ -1,0 +1,928 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32006R0861:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R0861-20140101",
+ "dre_path": null,
+ "source_lastmod": "2014-01-01",
+ "versions": [
+  {
+   "date": "2006-06-14",
+   "future": false,
+   "celex": "32006R0861",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a2e82313ae90bc93",
+    "226c39ffd0a88dad",
+    "bb751842acb7fc3b",
+    "adb68af8e852222c",
+    "be09abd9b2f24767",
+    "f0f8c960bfdbce9b",
+    "46ade57b6ac04700",
+    "0ffea3e967e2b543",
+    "0b058a611c15633c",
+    "8835e7be733aafdf",
+    "954480d59af6dbc6",
+    "b8717c375c27b565",
+    "1e7a0903d2eed348",
+    "e859dcc3fad280c8",
+    "8ca825b97baa35b7",
+    "e16cbd9fcedd7689",
+    "3d6f0c6689fbb77b",
+    "578b73b06a0608c9",
+    "410826e3931990e1",
+    "ca24ded4094eb8ca",
+    "a339e71fa45ca513",
+    "1ecfc79da3f1ac7f",
+    "dbcd22713469b621",
+    "413d7d8ae862850a",
+    "1cca2f60b762a8d9",
+    "6630465bd0f5b007",
+    "72a375c40f3d453c",
+    "40ed6b62e188ac6f",
+    "870c8531bd5b228f",
+    "9b406af514eb9164",
+    "8d7e4affebe3f26b",
+    "5fc8c4756728062f",
+    "b7b6127656d6ef88",
+    "ffa584c02abd3565",
+    "c42c0c2b3cabd519",
+    "4a4b240908c5154b",
+    "a5086f901af60d08",
+    "8efbf158c78be0e9",
+    "9424e456b4ffdcf4",
+    "b76d202a844f758e",
+    "db21cec228cd2ff4",
+    "aab3f431af1a166f",
+    "e467bbe3f7f861b1",
+    "7fd045ac4f655f13",
+    "6f9dec24ac001194",
+    "05025deb5a84e6b5",
+    "c95d8427f6143776",
+    "f4b29818cae4e695",
+    "99973826fcc02605",
+    "dde9cf53e9ae6c9a",
+    "73ef34494f6a3773",
+    "32f935957c3fc7f9",
+    "40d5125a697f958e",
+    "1df5d06bc6aaac13",
+    "59f62854c3f54ada"
+   ]
+  },
+  {
+   "date": "2011-07-23",
+   "future": false,
+   "celex": "02006R0861-20110723",
+   "acts": [
+    {
+     "id": "eu:celex:32011R0693:por",
+     "title": "Regulamento (UE) n. o 693/2011 do Parlamento Europeu e do Conselho de 6 de Julho de 2011",
+     "published": null,
+     "celex": "32011R0693"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Âmbito de aplicação",
+    "Altera Artigo 3.º — Objectivos gerais",
+    "Altera Artigo 4.º — Objectivos específicos no domínio do controlo e da execução",
+    "Altera Artigo 7.º — Objectivos específicos no domínio das relações internacionais",
+    "Altera Artigo 8.º — Medidas no domínio do controlo e da execução",
+    "Altera Artigo 11.º — Medidas no domínio dos pareceres científicos",
+    "Altera Artigo 12.º — Medidas no domínio da governação",
+    "Altera Artigo 13.º — Medidas no domínio das relações internacionais",
+    "Altera Artigo 18.º — Taxas de financiamento das despesas de viagem e alojamento dos membros do CCPA",
+    "Altera Artigo 20.º — Programação",
+    "Altera Artigo 22.º — Disposição preliminar",
+    "Altera Artigo 32.º — Revogação de actos obsoletos",
+    "Altera Artigo 33.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita Artigo 5.º — Objectivos específicos no domínio da recolha, gestão e utilização de dados e do aconselhamento científico",
+    "Adita Artigo 9.º — Medidas no domínio da recolha, gestão e utilização de dados de base",
+    "Adita Artigo 10.º",
+    "Adita Medidas no domínio da recolha, gestão e utilização de dados suplementares",
+    "Adita Artigo 16.º",
+    "Adita Taxas de co-financiamento no domínio da recolha, gestão e utilização de dados de base",
+    "Adita Artigo 17.º",
+    "Adita Taxas de co-financiamento no domínio da recolha, gestão e utilização de dados suplementares",
+    "Adita Procedimentos aplicáveis no domínio da recolha, gestão e utilização de dados",
+    "Adita Artigo 24.º",
+    "Adita Decisão de financiamento da Comissão",
+    "Adita Artigo 27.º — Protecção dos interesses financeiros da [►M1](http://publications.europa.eu/resource/celex/32011R0693) União◄",
+    "Adita Artigo 30.º — Procedimento de comité",
+    "Suprime Artigo 5.º — Objectivos específicos no domínio da recolha de dados e pareceres científicos",
+    "Suprime Artigo 9.º — Medidas no domínio da recolha de dados de base",
+    "Suprime Artigo 10.º — Medidas no domínio da recolha de dados suplementares",
+    "Suprime Artigo 16.º — Taxas de co-financiamento no domínio da recolha de dados de base",
+    "Suprime Artigo 17.º — Taxas de co-financiamento no domínio da recolha de dados suplementares",
+    "Suprime Procedimentos aplicáveis no domínio da recolha de dados",
+    "Suprime Artigo 23.º — Programação",
+    "Suprime Artigo 24.º — Decisão da Comissão",
+    "Suprime Artigo 27.º — Protecção dos interesses financeiros da Comunidade",
+    "Suprime Artigo 30.º — Comité",
+    "Suprime Artigo 31.º — Regras de execução"
+   ],
+   "fragments": [
+    "c7a072f28a30c5ac",
+    "226c39ffd0a88dad",
+    "bb751842acb7fc3b",
+    "adb68af8e852222c",
+    "5df5226b80cbaf18",
+    "f0f8c960bfdbce9b",
+    "46ade57b6ac04700",
+    "f200d5ba82694ffe",
+    "395d0c731be65997",
+    "4f4a1d796fdba9d8",
+    "954480d59af6dbc6",
+    "e6d8ad2dba52f585",
+    "1e7a0903d2eed348",
+    "e859dcc3fad280c8",
+    "2aa9e7317f1b7158",
+    "e7ff5761fe9dcf77",
+    "7c50ed4343b1e48a",
+    "c020d91937d28ebc",
+    "7ff7be70f66826b9",
+    "1e4fe0207d791ca1",
+    "d2eca56943c3385d",
+    "a339e71fa45ca513",
+    "1ecfc79da3f1ac7f",
+    "dbcd22713469b621",
+    "413d7d8ae862850a",
+    "4832ea21864e0702",
+    "f50891ebe2227ef4",
+    "b0c39f27dc58bab1",
+    "556f5673ccc1ca70",
+    "c77adc70058092ec",
+    "40ed6b62e188ac6f",
+    "870c8531bd5b228f",
+    "9b406af514eb9164",
+    "8d7e4affebe3f26b",
+    "5fc8c4756728062f",
+    "99ba4d0d5406bd7e",
+    "ffa584c02abd3565",
+    "c42c0c2b3cabd519",
+    "87969721e2c93fa6",
+    "bf47e9e609a3e169",
+    "4142e7acda53fafe",
+    "63fe57d87b68dc1e",
+    "b76d202a844f758e",
+    "db21cec228cd2ff4",
+    "aab3f431af1a166f",
+    "e467bbe3f7f861b1",
+    "7fd045ac4f655f13",
+    "6f9dec24ac001194",
+    "f1fa9a5d2c766493",
+    "c95d8427f6143776",
+    "f4b29818cae4e695",
+    "99973826fcc02605",
+    "dde9cf53e9ae6c9a",
+    "a331821d27b9927e",
+    "13fc12e3ff717097",
+    "cc7d4b62c3421da5",
+    "6f4e57644aa1fb39"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "celex": "02006R0861-20140101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime OBJECTO E ÂMBITO DE APLICAÇÃO",
+    "Suprime Artigo 1.º — Objecto",
+    "Suprime Artigo 2.º — Âmbito de aplicação",
+    "Suprime CAPÍTULO II",
+    "Suprime OBJECTIVOS",
+    "Suprime Artigo 3.º — Objectivos gerais",
+    "Suprime Artigo 4.º — Objectivos específicos no domínio do controlo e da execução",
+    "Suprime Artigo 5.º — Objectivos específicos no domínio da recolha, gestão e utilização de dados e do aconselhamento científico",
+    "Suprime Artigo 6.º — Objectivos específicos no domínio da governação",
+    "Suprime Artigo 7.º — Objectivos específicos no domínio das relações internacionais",
+    "Suprime CAPÍTULO III",
+    "Suprime MEDIDAS FINANCEIRAS COMUNITÁRIAS",
+    "Suprime Artigo 8.º — Medidas no domínio do controlo e da execução",
+    "Suprime Artigo 9.º — Medidas no domínio da recolha, gestão e utilização de dados de base",
+    "Suprime Artigo 10.º",
+    "Suprime Medidas no domínio da recolha, gestão e utilização de dados suplementares",
+    "Suprime Artigo 11.º — Medidas no domínio dos pareceres científicos",
+    "Suprime Artigo 12.º — Medidas no domínio da governação",
+    "Suprime Artigo 13.º — Medidas no domínio das relações internacionais",
+    "Suprime Artigo 14.º — Assistência técnica",
+    "Suprime CAPÍTULO IV",
+    "Suprime TAXAS DE CO-FINANCIAMENTO",
+    "Suprime Artigo 15.º — Taxas de co-financiamento no domínio dos regimes de acompanhamento e de controlo",
+    "Suprime Artigo 16.º",
+    "Suprime Taxas de co-financiamento no domínio da recolha, gestão e utilização de dados de base",
+    "Suprime Artigo 17.º",
+    "Suprime Taxas de co-financiamento no domínio da recolha, gestão e utilização de dados suplementares",
+    "Suprime Artigo 18.º — Taxas de financiamento das despesas de viagem e alojamento dos membros do CCPA",
+    "Suprime CAPÍTULO V",
+    "Suprime PROCEDIMENTOS FINANCEIROS",
+    "Suprime SECÇÃO 1",
+    "Suprime Procedimentos aplicáveis no domínio do regime de acompanhamento e de controlo",
+    "Suprime Artigo 19.º — Disposição preliminar",
+    "Suprime Artigo 20.º — Programação",
+    "Suprime Artigo 21.º — Decisão da Comissão",
+    "Suprime SECÇÃO 2",
+    "Suprime Procedimentos aplicáveis no domínio da recolha, gestão e utilização de dados",
+    "Suprime Artigo 22.º — Disposição preliminar",
+    "Suprime Artigo 24.º",
+    "Suprime Decisão de financiamento da Comissão",
+    "Suprime CAPÍTULO VI",
+    "Suprime CONCESSÃO DE FUNDOS",
+    "Suprime Artigo 25.º — Recursos orçamentais",
+    "Suprime Artigo 26.º — Acumulação de apoios comunitários",
+    "Suprime CAPÍTULO VII",
+    "Suprime CONTROLO E AVALIAÇÃO",
+    "Suprime Artigo 27.º — Protecção dos interesses financeiros da [►M1](http://publications.europa.eu/resource/celex/32011R0693) União◄",
+    "Suprime Artigo 28.º — Auditorias e correcções financeiras",
+    "Suprime Artigo 29.º — Avaliação e relatórios",
+    "Suprime CAPÍTULO VIII",
+    "Suprime DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 30.º — Procedimento de comité",
+    "Suprime Artigo 32.º — Revogação de actos obsoletos",
+    "Suprime Artigo 33.º — Entrada em vigor",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "c4fd6c28b918d2bb"
+   ]
+  }
+ ],
+ "fragments": {
+  "a2e82313ae90bc93": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Maio de 2006\n\nque estabelece medidas financeiras comunitárias relativas à execução da política comum das pescas e ao Direito do Mar\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu [([^1])](http://publications.europa.eu/resource/cellar/fdb09d04-809c-4ea4-b3bc-b2bc27bde5c2.0016.03/DOC_1#ntr1-L_2006160PT.01000101-E0001),\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da política comum das pescas [([^2])](http://publications.europa.eu/resource/cellar/fdb09d04-809c-4ea4-b3bc-b2bc27bde5c2.0016.03/DOC_1#ntr2-L_2006160PT.01000101-E0002), prevê que a política comum das pescas (PCP) deve garantir que a exploração dos recursos aquáticos vivos crie condições sustentáveis dos pontos de vista económico, ambiental e social.\n\n(2) Na execução da PCP, nos termos do Regulamento (CE) n.º 2371/2002 e seus regulamentos de execução, um dos objectivos essenciais consiste em aumentar a eficácia das intervenções financeiras comunitárias no sector. Para garantir a coerência e pertinência das intervenções financeiras, é indispensável que haja uma maior complementaridade e procedimentos mais racionais, uniformes e coordenados, tanto no âmbito da Comunidade Europeia como nas relações com países terceiros e organizações internacionais.\n\n(3) É necessário atender aos objectivos anteriormente fixados no âmbito da reforma da PCP de 2002, aos quais se adicionaram instrumentos jurídicos e políticos sectoriais.\n\n(4) Além disso, é necessário adaptar a legislação comunitária a esses objectivos e às orientações do quadro financeiro para o período 2007-2013 e assegurar, ao mesmo tempo, a observância do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, de 25 de Junho de 2002, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias [([^3])](http://publications.europa.eu/resource/cellar/fdb09d04-809c-4ea4-b3bc-b2bc27bde5c2.0016.03/DOC_1#ntr3-L_2006160PT.01000101-E0003), e do Regulamento (CE, Euratom) n.º 2342/2002 da Comissão, de 23 de Dezembro de 2002, que estabelece as normas de execução do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias [([^4])](http://publications.europa.eu/resource/cellar/fdb09d04-809c-4ea4-b3bc-b2bc27bde5c2.0016.03/DOC_1#ntr4-L_2006160PT.01000101-E0004), bem como dos imperativos de simplificação e de melhoria da regulamentação.\n\n(5) As despesas comunitárias podem assumir, nomeadamente, a forma de decisão de financiamento, convenção de subvenção comunitária, contrato público, memorandos de entendimento e convénios administrativos em conformidade com os procedimentos estabelecidos no Regulamento (CE, Euratom) n.º 1605/2002.\n\n(6) Além disso, há que ter em conta as Conclusões do Conselho (Agricultura e Pescas) de 19 de Julho de 2004 relativas a acordos de parceria no sector das pescas.\n\n(7) É necessário definir claramente os objectivos, domínios de acção e resultados previstos em matéria de financiamento comunitário.\n\n(8) É necessário estabelecer as regras que regem a elegibilidade das despesas, o nível da contribuição financeira comunitária e as condições para a sua concessão.\n\n(9) É do interesse comum que os Estados-Membros estejam equipados por forma a garantir a realização de controlos de elevado nível. A fim de assegurar que os Estados-Membros cumpram as obrigações que lhes incumbem por força das regras da PCP, é conveniente que a Comunidade apoie os seus investimentos no domínio do controlo.\n\n(10) É necessário assegurar a disponibilidade dos meios financeiros necessários para permitir à Comissão controlar a execução da PCP.\n\n(11) A Comunidade deverá igualmente contribuir para o orçamento da Agência Comunitária de Controlo das Pescas, por forma a permitir-lhe executar o seu plano de trabalho anual, nomeadamente para assumir as despesas de equipamento e funcionamento e as despesas necessárias para o cumprimento da sua missão.\n\n(12) A gestão da pesca depende da disponibilidade de dados sobre o estado biológico das unidades populacionais de peixes e a actividade das frotas de pesca. A recolha pelos Estados-Membros dos dados necessários para a execução da PCP e os outros estudos e projectos-piloto realizados pela Comissão deverão ser apoiados com contribuições financeiras comunitárias.\n\n(13) Deverão ser disponibilizados recursos financeiros para garantir a emissão regular de pareceres científicos pelas organizações científicas internacionais responsáveis pela coordenação da investigação haliêutica nas águas em que operam as frotas comunitárias.\n\n(14) A reforma da PCP suscitou novas exigências em matéria de pareceres científicos, designadamente no respeitante à adopção de uma abordagem por ecossistema e à gestão das pescarias mistas. Deverão ser proporcionadas compensações financeiras a fim de permitir aos peritos com competência reconhecida nestas matérias ou às instituições para as quais trabalham satisfazer essas novas exigências.\n\n(15) Com vista a favorecer o diálogo e a comunicação com o sector das pescas e outros grupos de interesse, é importante garantir que o sector e outras partes interessadas sejam informados, numa fase muito precoce, das iniciativas previstas e que os objectivos da PCP e as medidas conexas sejam claramente apresentados e explicados.\n\n(16) Atendendo às atribuições do Comité Consultivo da Pesca e da Aquicultura (CCPA), que foi reestruturado pela Decisão 1999/478/CE da Comissão [([^5])](http://publications.europa.eu/resource/cellar/fdb09d04-809c-4ea4-b3bc-b2bc27bde5c2.0016.03/DOC_1#ntr5-L_2006160PT.01000101-E0005), as organizações profissionais europeias nele representadas deverão beneficiar de apoio financeiro que lhes permita preparar as reuniões do CCPA, por forma a melhorar a coordenação das organizações nacionais ao nível europeu e reforçar a coesão do sector no respeitante a questões de interesse comunitário.\n\n(17) A fim de melhorar a governação no âmbito da PCP e assegurar a criação efectiva de conselhos consultivos regionais (CCR) nos termos da Decisão 2004/585/CE do Conselho [([^6])](http://publications.europa.eu/resource/cellar/fdb09d04-809c-4ea4-b3bc-b2bc27bde5c2.0016.03/DOC_1#ntr6-L_2006160PT.01000101-E0006), é essencial apoiar financeiramente os CCR na respectiva fase inicial e contribuir para as respectivas despesas de tradução e interpretação.\n\n(18) Por forma a assegurar a coordenação dos trabalhos dos CCR com os do CCPA, é necessário facilitar a participação de um representante do CCPA nas reuniões dos CCR.\n\n(19) Para atingir os objectivos da PCP, a Comunidade participa activamente nos trabalhos das organizações internacionais e celebra acordos de pesca, nomeadamente acordos de parceria no sector das pescas.\n\n(20) É essencial que a Comunidade contribua para o financiamento das medidas destinadas a assegurar a conservação a longo prazo e a exploração sustentável dos recursos haliêuticos no alto mar e nas águas de países terceiros.\n\n(21) É conveniente que as despesas relativas a actividades de preparação, acompanhamento, controlo, auditoria e avaliação, actividades necessárias para executar e apreciar as medidas adoptadas no âmbito do presente regulamento e para apreciar a realização dos seus objectivos, sejam elegíveis a título de medidas financeiras de assistência técnica.\n\n(22) É necessário estabelecer procedimentos no respeitante ao conteúdo dos programas comunitários e nacionais relativos às várias medidas adoptadas nos domínios pertinentes da PCP.\n\n(23) É conveniente fixar as taxas de participação financeira comunitária nas despesas dos Estados-Membros.\n\n(24) Deverá estabelecer-se um quadro financeiro para o período 2007-2013, em conformidade com a comunicação da Comissão ao Conselho e ao Parlamento Europeu intitulada «Construir o nosso futuro em comum — Desafios políticos e recursos orçamentais da União alargada, 2007-2013».\n\n(25) No respeitante às acções financiadas a título do presente regulamento, é necessário garantir a protecção dos interesses financeiros da Comunidade, através da correcta aplicação da legislação relativa a essa protecção e assegurar que sejam realizados controlos adequados pelos Estados-Membros e pela Comissão.\n\n(26) A fim de garantir a eficácia do financiamento comunitário, é conveniente avaliar regularmente as acções financiadas ao abrigo do presente regulamento.\n\n(27) As medidas necessárias à execução do presente regulamento deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^7])](http://publications.europa.eu/resource/cellar/fdb09d04-809c-4ea4-b3bc-b2bc27bde5c2.0016.03/DOC_1#ntr7-L_2006160PT.01000101-E0007).\n\n(28) O Regulamento (CE) n.º 657/2000 do Conselho, de 27 de Março de 2000, relativo ao reforço do diálogo com o sector das pesca e os meios interessados na política comum da pesca [([^8])](http://publications.europa.eu/resource/cellar/fdb09d04-809c-4ea4-b3bc-b2bc27bde5c2.0016.03/DOC_1#ntr8-L_2006160PT.01000101-E0008), a Decisão 2000/439/CE do Conselho, de 29 de Junho de 2000, relativa à participação financeira da Comunidade nas despesas efectuadas pelos Estados-Membros para a recolha de dados e no financiamento de estudos e projectos-piloto de apoio à política comum da pesca [([^9])](http://publications.europa.eu/resource/cellar/fdb09d04-809c-4ea4-b3bc-b2bc27bde5c2.0016.03/DOC_1#ntr9-L_2006160PT.01000101-E0009), e a Decisão 2004/465/CE do Conselho, de 29 de Abril de 2004, relativa a uma contribuição financeira da Comunidade para os programas de controlo da pesca dos Estados-Membros [([^10])](http://publications.europa.eu/resource/cellar/fdb09d04-809c-4ea4-b3bc-b2bc27bde5c2.0016.03/DOC_1#ntr10-L_2006160PT.01000101-E0010), são revogados com efeitos a partir de 1 de Janeiro de 2007,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "bb751842acb7fc3b": {
+   "fragment_id": "OBJECTO E ÂMBITO DE APLICAÇÃO",
+   "type": "divisao",
+   "heading": "OBJECTO E ÂMBITO DE APLICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJECTO E ÂMBITO DE APLICAÇÃO"
+  },
+  "adb68af8e852222c": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente regulamento estabelece o quadro das medidas financeiras comunitárias relativas à execução da política comum das pescas (PCP) e ao Direito do Mar (a seguir denominadas «medidas financeiras comunitárias»)."
+  },
+  "be09abd9b2f24767": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente regulamento é aplicável às medidas financeiras comunitárias nos seguintes domínios:\n\na) Controlo e execução das regras da PCP;\n\nb) Medidas de conservação, recolha de dados e melhoria dos pareceres científicos para efeitos de gestão sustentável dos recursos haliêuticos no âmbito da PCP;\n\nc) Governação da PCP;\n\nd) Relações internacionais no domínio da PCP e do Direito do Mar."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "46ade57b6ac04700": {
+   "fragment_id": "OBJECTIVOS",
+   "type": "divisao",
+   "heading": "OBJECTIVOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJECTIVOS"
+  },
+  "0ffea3e967e2b543": {
+   "fragment_id": "Artigo 3.º — Objectivos gerais",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Objectivos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objectivos gerais\n\nAs medidas financeiras comunitárias a que se refere o capítulo III contribuem especificamente para os seguintes objectivos gerais:\n\na) Melhorar a capacidade administrativa e os meios de controlo e execução das regras da PCP;\n\nb) Melhorar a recolha dos dados necessários para a PCP;\n\nc) Melhorar a qualidade dos pareceres científicos para efeitos da PCP;\n\nd) Melhorar a assistência técnica de apoio à gestão da frota de pesca comunitária para efeitos da PCP;\n\ne) Melhorar a participação do sector das pescas e de outros grupos de interesse na PCP e promover o diálogo e a comunicação entre estes e a Comissão;\n\nf) Aplicar as medidas relativas a acordos de parceria no sector das pescas e outros acordos bilaterais ou multilaterais para efeitos da PCP, nomeadamente para assegurar a sustentabilidade dos recursos haliêuticos nas águas de países terceiros e no alto mar;\n\ng) Aplicar as medidas relativas ao Direito do Mar."
+  },
+  "0b058a611c15633c": {
+   "fragment_id": "Artigo 4.º — Objectivos específicos no domínio do controlo e da execução",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Objectivos específicos no domínio do controlo e da execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objectivos específicos no domínio do controlo e da execução\n\nAs medidas financeiras comunitárias a que se refere o artigo 8.º contribuem para o objectivo de melhorar o controlo das actividades de pesca por forma a assegurar a execução eficaz da PCP, tanto nas águas comunitárias como nas não comunitárias, através do financiamento:\n\na) Das acções adoptadas pelos Estados-Membros a fim de aumentar a capacidade ou reduzir as deficiências das suas actividades de controlo da pesca;\n\nb) Da avaliação e do controlo, pelos serviços da Comissão, da aplicação das regras da PCP pelos Estados-Membros;\n\nc) Da coordenação das medidas de controlo, nomeadamente através de planos relativos à utilização conjunta das unidades nacionais de inspecção e de vigilância por intermédio da Agência Comunitária de Controlo das Pescas (ACCP)."
+  },
+  "8835e7be733aafdf": {
+   "fragment_id": "Artigo 5.º — Objectivos específicos no domínio da recolha de dados e pareceres científicos",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Objectivos específicos no domínio da recolha de dados e pareceres científicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Objectivos específicos no domínio da recolha de dados e pareceres científicos\n\nAs medidas financeiras comunitárias a que se referem os artigos 9.º, 10.º e 11.º contribuem para o objectivo de melhorar a recolha e gestão dos dados, assim como os pareceres científicos necessários para avaliar o estado dos recursos, o nível da pesca, o impacto das pescarias nos recursos e no ecossistema marinho e os resultados do sector das pescas, tanto nas águas comunitárias como nas não comunitárias, através da concessão de apoio financeiro aos Estados-Membros com vista à constituição de séries plurianuais de dados agregados, recolhidos segundo métodos científicos, que incluam informações biológicas, técnicas, ambientais e económicas."
+  },
+  "954480d59af6dbc6": {
+   "fragment_id": "Artigo 6.º — Objectivos específicos no domínio da governação",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Objectivos específicos no domínio da governação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Objectivos específicos no domínio da governação\n\nAs medidas financeiras comunitárias a que se refere o artigo 12.º contribuem para o objectivo de associar as partes interessadas a todas as fases da PCP, desde a concepção até à execução, e para os informar sobre os objectivos e as medidas relacionadas com a PCP, incluindo, se for caso disso, o seu impacto socioeconómico."
+  },
+  "b8717c375c27b565": {
+   "fragment_id": "Artigo 7.º — Objectivos específicos no domínio das relações internacionais",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Objectivos específicos no domínio das relações internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Objectivos específicos no domínio das relações internacionais\n\n1. No domínio da negociação e da celebração de acordos de pesca, nomeadamente de acordos de parceria no sector das pescas, as medidas financeiras comunitárias a que se refere o artigo 13.º contribuem para os seguintes objectivos:\n\na) Salvaguardar o emprego nas regiões da Comunidade dependentes da pesca;\n\nb) Assegurar a perenidade e a competitividade do sector das pescas comunitário;\n\nc) Desenvolver, através de parcerias, as capacidades dos países terceiros em matéria de gestão e de controlo dos recursos haliêuticos, por forma a garantir a sustentabilidade da pesca e a promover o desenvolvimento económico do sector das pescas nesses países, através da melhoria da avaliação científica e técnica das pescarias em causa, do acompanhamento e do controlo das actividades de pesca, das condições sanitárias e do contexto comercial no sector;\n\nd) Assegurar o abastecimento adequado do mercado comunitário.\n\n2. No âmbito da participação da Comunidade nas organizações regionais e internacionais, as medidas financeiras comunitárias a que se refere o artigo 13.º contribuem para a conservação e a exploração sustentável dos recursos haliêuticos a nível internacional, através da adopção de medidas adequadas de gestão de tais recursos."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "e859dcc3fad280c8": {
+   "fragment_id": "MEDIDAS FINANCEIRAS COMUNITÁRIAS",
+   "type": "divisao",
+   "heading": "MEDIDAS FINANCEIRAS COMUNITÁRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIDAS FINANCEIRAS COMUNITÁRIAS"
+  },
+  "8ca825b97baa35b7": {
+   "fragment_id": "Artigo 8.º — Medidas no domínio do controlo e da execução",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Medidas no domínio do controlo e da execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Medidas no domínio do controlo e da execução\n\nNo domínio do controlo e da execução das regras da PCP, são elegíveis para medidas financeiras comunitárias:\n\na) As despesas efectuadas pelos Estados-Membros com a execução do regime de acompanhamento e controlo aplicável à PCP e respeitantes a: i) investimentos relativos às actividades de controlo exercidas por organismos administrativos ou pelo sector privado, designadamente para aplicação de novas tecnologias em matéria de controlo e compra e modernização de meios de controlo, ii) programas de formação e intercâmbio de funcionários responsáveis pelas missões de acompanhamento, controlo e vigilância no domínio da pesca, iii) execução de regimes-piloto de inspecção e de observadores, iv) análises de custos/benefícios, avaliações de auditorias e despesas efectuadas pelas autoridades competentes no exercício das suas actividades de acompanhamento, controlo e vigilância, v) iniciativas, incluindo a organização de seminários e a utilização dos meios de comunicação, com vista a melhor sensibilizar os pescadores e outras partes interessadas — nomeadamente inspectores, representantes do ministério público e juízes —, assim como o público em geral, para a necessidade de lutar contra a pesca irresponsável e ilegal e apoiar a execução das regras da PCP;\n\ni) investimentos relativos às actividades de controlo exercidas por organismos administrativos ou pelo sector privado, designadamente para aplicação de novas tecnologias em matéria de controlo e compra e modernização de meios de controlo,\n\nii) programas de formação e intercâmbio de funcionários responsáveis pelas missões de acompanhamento, controlo e vigilância no domínio da pesca,\n\niii) execução de regimes-piloto de inspecção e de observadores,\n\niv) análises de custos/benefícios, avaliações de auditorias e despesas efectuadas pelas autoridades competentes no exercício das suas actividades de acompanhamento, controlo e vigilância,\n\nv) iniciativas, incluindo a organização de seminários e a utilização dos meios de comunicação, com vista a melhor sensibilizar os pescadores e outras partes interessadas — nomeadamente inspectores, representantes do ministério público e juízes —, assim como o público em geral, para a necessidade de lutar contra a pesca irresponsável e ilegal e apoiar a execução das regras da PCP;\n\nb) As despesas relativas a convénios administrativos com o Centro Comum de Investigação ou qualquer outro órgão consultivo comunitário, com vista a analisar a aplicação de novas tecnologias;\n\nc) Todas as despesas operacionais relacionadas com o controlo, pelos inspectores da Comissão, da execução da PCP por parte dos Estados-Membros, designadamente as relativas às missões de inspecção, aos equipamentos de segurança e à formação dos inspectores, às reuniões e ao fretamento ou compra de meios de inspecção pela Comissão;\n\nd) A contribuição para o orçamento da ACCP destinada a cobrir as despesas administrativas e de pessoal, assim como as despesas de funcionamento relacionadas com o plano de trabalho anual da ACCP, incluindo os custos de comunicação e as despesas ligadas a tecnologias espaciais."
+  },
+  "e16cbd9fcedd7689": {
+   "fragment_id": "Artigo 9.º — Medidas no domínio da recolha de dados de base",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Medidas no domínio da recolha de dados de base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Medidas no domínio da recolha de dados de base\n\n1. No domínio da recolha de dados de base, as medidas financeiras comunitárias são aplicáveis às despesas efectuadas pelos Estados-Membros para fins de recolha e gestão de dados de base relativos à pesca com vista a:\n\ni) Avaliar as actividades das várias frotas de pesca e acompanhar a evolução da potência de pesca;\n\nii) Preparar resumos com base nos dados recolhidos por força dos outros textos legislativos comunitários relativos à PCP e recolher informações suplementares a fim de: — estabelecer, se necessário com base em amostragens, programas de recolha de dados adicionais às obrigações decorrentes dos outros textos legislativos comunitários, ou relativos a áreas de actividade não abrangidas por essas obrigações, — especificar os procedimentos conducentes à produção de dados agregados, — assegurar que os dados utilizados para produzir dados agregados permaneçam disponíveis para, se necessário, serem sujeitos a novo cálculo,\n\n— estabelecer, se necessário com base em amostragens, programas de recolha de dados adicionais às obrigações decorrentes dos outros textos legislativos comunitários, ou relativos a áreas de actividade não abrangidas por essas obrigações,\n\n— especificar os procedimentos conducentes à produção de dados agregados,\n\n— assegurar que os dados utilizados para produzir dados agregados permaneçam disponíveis para, se necessário, serem sujeitos a novo cálculo,\n\niii) Calcular o volume total das capturas por unidade populacional e por grupo de navios, incluindo se for caso disso as devoluções, e, se necessário, classificar essas capturas por zona geográfica e período;\n\niv) Calcular a abundância e a distribuição das unidades populacionais. Esse cálculo pode basear-se em dados provenientes da pesca comercial e em dados recolhidos no âmbito da investigação científica no mar;\n\nv) Avaliar o impacto das actividades de pesca no ambiente;\n\nvi) Avaliar a situação económica e social do sector da captura;\n\nvii) Permitir acompanhar os preços associados aos vários desembarques, por forma a reflectir todos os desembarques realizados nos portos comunitários e não comunitários, assim como as importações;\n\nviii) Avaliar a situação económica e social dos sectores da transformação e da aquicultura, com base em estudos e amostragens suficientemente amplas para garantir a fiabilidade das estimativas.\n\n2. Os dados de base definidos na alínea viii) do n.º 1 incluem os seguintes:\n\na) No que diz respeito às frotas de pesca: i) produto das vendas e outros rendimentos, ii) custos de produção, iii) dados que permitam contabilizar e classificar os postos de trabalho no mar;\n\ni) produto das vendas e outros rendimentos,\n\nii) custos de produção,\n\niii) dados que permitam contabilizar e classificar os postos de trabalho no mar;\n\nb) No que diz respeito à indústria de transformação dos produtos da pesca: i) produção expressa em volume e em valor para categorias de produtos a determinar nos termos do n.º 2 do artigo 30.º, ii) número de empresas e de postos de trabalho, iii) evolução dos custos de produção e sua estrutura.\n\ni) produção expressa em volume e em valor para categorias de produtos a determinar nos termos do n.º 2 do artigo 30.º,\n\nii) número de empresas e de postos de trabalho,\n\niii) evolução dos custos de produção e sua estrutura."
+  },
+  "3d6f0c6689fbb77b": {
+   "fragment_id": "Artigo 10.º — Medidas no domínio da recolha de dados suplementares",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Medidas no domínio da recolha de dados suplementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Medidas no domínio da recolha de dados suplementares\n\n1. No domínio da recolha de dados suplementares, a Comissão pode realizar estudos e projectos-piloto. As áreas de actividade elegíveis para medidas financeiras comunitárias incluem:\n\na) Estudos metodológicos e projectos destinados a optimizar e normalizar os métodos de recolha de dados definidos no artigo 9.º;\n\nb) Projectos exploratórios de recolha de dados, respeitantes nomeadamente à aquicultura, às interacções entre a pesca/aquicultura e o ambiente e à capacidade de criação de empregos dos sectores da pesca e aquicultura;\n\nc) Análises e simulações económicas e bioeconómicas relacionadas com decisões previstas no âmbito da PCP, incluindo planos de recuperação e de gestão e a avaliação do impacto da PCP;\n\nd) Selectividade nas pescarias, nomeadamente a selectividade associada à concepção das artes de pesca e das técnicas de pesca, e análise das relações entre capacidades de captura, esforço de pesca e mortalidade em cada pescaria;\n\ne) Melhoria da execução da PCP, designadamente em termos de custo/eficácia;\n\nf) Avaliação e gestão das relações entre actividades de pesca e aquicultura, por um lado, e ecossistemas aquáticos, por outro.\n\n2. O financiamento do conjunto dos estudos e projectos-piloto realizados em conformidade com o n.º 1 é limitado a 15 % das dotações anuais autorizadas para as acções financiadas ao abrigo do artigo 9.º e do presente artigo."
+  },
+  "578b73b06a0608c9": {
+   "fragment_id": "Artigo 11.º — Medidas no domínio dos pareceres científicos",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Medidas no domínio dos pareceres científicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Medidas no domínio dos pareceres científicos\n\nNo domínio dos pareceres científicos, são elegíveis para medidas financeiras comunitárias:\n\na) As despesas relativas a contratos de parceria com institutos de investigação nacionais para a emissão de pareceres científicos;\n\nb) As despesas relativas a convénios administrativos com o Centro Comum de Investigação, ou qualquer outro órgão consultivo da Comunidade, para assegurar o secretariado do Comité Científico, Técnico e Económico da Pesca (CCTEP), efectuar uma análise preliminar dos dados e preparar os dados que permitirão avaliar a situação dos recursos haliêuticos;\n\nc) Os abonos pagos aos membros do CCTEP e/ou a peritos convidados pelo CCTEP a título da sua participação e do trabalho efectuado no âmbito dos grupos de trabalho e das sessões plenárias;\n\nd) Os abonos pagos a peritos independentes que emitam pareceres científicos para a Comissão ou assegurem a formação de funcionários ou outros interessados sobre a interpretação dos pareceres científicos;\n\ne) As contribuições para organismos internacionais incumbidos de avaliar as unidades populacionais."
+  },
+  "410826e3931990e1": {
+   "fragment_id": "Artigo 12.º — Medidas no domínio da governação",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Medidas no domínio da governação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Medidas no domínio da governação\n\nNo domínio da governação, são elegíveis para medidas financeiras comunitárias:\n\na) As despesas de viagem e alojamento dos membros das organizações profissionais europeias que tenham de se deslocar a fim de preparar as reuniões do Comité Consultivo da Pesca e da Aquicultura (CCPA);\n\nb) As despesas de participação dos representantes designados pelo CCPA para o representarem nas reuniões dos conselhos consultivos regionais (CCR);\n\nc) As despesas de funcionamento dos CCR na respectiva fase inicial (cinco anos) e as respectivas despesas de tradução e interpretação, em conformidade com a Decisão 2004/585/CE;\n\nd) As despesas ligadas à explicação dos objectivos e das medidas da PCP, designadamente das propostas da Comissão, assim como as despesas de divulgação junto do sector das pescas e de outros grupos interessados das informações pertinentes na matéria, de iniciativa da Comissão, incluindo as acções a seguir enunciadas: i) elaboração e divulgação de material documental adaptado às necessidades específicas dos grupos interessados (material escrito, audiovisual e electrónico), ii) promoção de um amplo acesso aos dados e à documentação de apoio, designadamente no que se refere às propostas da Comissão, através do desenvolvimento do sítio internet da Direcção-Geral «Pescas» e de uma publicação periódica, assim como da organização de seminários de informação e formação para os líderes de opinião.\n\ni) elaboração e divulgação de material documental adaptado às necessidades específicas dos grupos interessados (material escrito, audiovisual e electrónico),\n\nii) promoção de um amplo acesso aos dados e à documentação de apoio, designadamente no que se refere às propostas da Comissão, através do desenvolvimento do sítio internet da Direcção-Geral «Pescas» e de uma publicação periódica, assim como da organização de seminários de informação e formação para os líderes de opinião."
+  },
+  "ca24ded4094eb8ca": {
+   "fragment_id": "Artigo 13.º — Medidas no domínio das relações internacionais",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Medidas no domínio das relações internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Medidas no domínio das relações internacionais\n\n1. No domínio das relações internacionais, são elegíveis para medidas financeiras comunitárias:\n\na) As despesas decorrentes de acordos de pesca e acordos de parceria no sector das pescas que a Comunidade tenha negociado ou pretenda renovar ou negociar com países terceiros;\n\nb) As despesas decorrentes das contribuições obrigatórias da Comunidade para os orçamentos das organizações internacionais;\n\nc) As despesas ligadas à participação da Comunidade, na qualidade de membro, nas organizações das Nações Unidas e ao financiamento voluntário dessas organizações, assim como as despesas ligadas à participação da Comunidade, na qualidade de membro, em qualquer organização internacional activa no domínio do Direito do Mar e ao financiamento voluntário dessas organizações;\n\nd) As contribuições financeiras voluntárias para preparar a criação de novas organizações internacionais ou a elaboração de novos tratados internacionais que se revistam de interesse para a Comunidade;\n\ne) As contribuições financeiras voluntárias para trabalhos ou programas científicos executados por organizações internacionais que se revistam de especial interesse para a Comunidade;\n\nf) As contribuições financeiras para actividades (reuniões de trabalho, informais ou extraordinárias das partes contratantes) que tenham por objectivo apoiar os interesses da Comunidade nas organizações internacionais e reforçar a cooperação com os seus parceiros nestas organizações. Nesse contexto, as despesas de participação de representantes de países terceiros em negociações e reuniões no âmbito de fóruns e organizações internacionais são elegíveis sempre que a sua presença seja necessária para os interesses da Comunidade.\n\n2. As medidas financiadas ao abrigo das alíneas a) e b) do n.º 1 são executadas, nomeadamente, com base nos regulamentos e decisões relativos à celebração de acordos e/ou protocolos de pesca entre a Comunidade e países terceiros, bem como nos regulamentos e nas decisões respeitantes à assinatura pela Comunidade de acordos relativos a organizações internacionais de pesca."
+  },
+  "a339e71fa45ca513": {
+   "fragment_id": "Artigo 14.º — Assistência técnica",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Assistência técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Assistência técnica\n\nAs medidas financeiras comunitárias podem cobrir as despesas relativas às actividades de preparação, acompanhamento, controlo, auditoria e avaliação, necessárias para executar e avaliar as medidas adoptadas no âmbito do presente regulamento e para apreciar a realização dos seus objectivos, nomeadamente estudos, reuniões, colaboração de peritos, informação, sensibilização, formação, publicações, bem como as despesas ligadas à tecnologia da informação, incluindo redes informáticas para a troca de informações, as despesas relativas a pessoal temporário e quaisquer outras despesas administrativas ou de assistência técnica efectuadas pela Comissão."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "dbcd22713469b621": {
+   "fragment_id": "TAXAS DE CO-FINANCIAMENTO",
+   "type": "divisao",
+   "heading": "TAXAS DE CO-FINANCIAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TAXAS DE CO-FINANCIAMENTO"
+  },
+  "413d7d8ae862850a": {
+   "fragment_id": "Artigo 15.º — Taxas de co-financiamento no domínio dos regimes de acompanhamento e de controlo",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Taxas de co-financiamento no domínio dos regimes de acompanhamento e de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Taxas de co-financiamento no domínio dos regimes de acompanhamento e de controlo\n\nNo respeitante às medidas financeiras comunitárias a que se refere a alínea a) do artigo 8.º, as taxas de co-financiamento não podem exceder 50 % das despesas elegíveis. Contudo, no caso das acções referidas nas subalíneas i) — com excepção da compra de navios e aeronaves —, iii) e v) da alínea a) do artigo 8.º, a Comissão pode decidir aplicar uma taxa superior a 50 % das despesas elegíveis."
+  },
+  "1cca2f60b762a8d9": {
+   "fragment_id": "Artigo 16.º — Taxas de co-financiamento no domínio da recolha de dados de base",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Taxas de co-financiamento no domínio da recolha de dados de base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Taxas de co-financiamento no domínio da recolha de dados de base\n\nNo respeitante às medidas financeiras comunitárias a que se refere o artigo 9.º, a taxa de co-financiamento não pode exceder 50 % do custo das despesas públicas elegíveis efectuadas com a execução de um programa previsto no n.º 1 do artigo 23.º"
+  },
+  "6630465bd0f5b007": {
+   "fragment_id": "Artigo 17.º — Taxas de co-financiamento no domínio da recolha de dados suplementares",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Taxas de co-financiamento no domínio da recolha de dados suplementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Taxas de co-financiamento no domínio da recolha de dados suplementares\n\nNo respeitante às medidas financeiras comunitárias a que se refere o artigo 10.º, a taxa de co-financiamento não pode exceder 50 % das despesas elegíveis no que se refere às acções empreendidas na sequência de um convite à apresentação de propostas. As universidades e os organismos públicos de investigação que, de acordo com a legislação nacional por que se regem, devam tomar a seu cargo os custos marginais, podem apresentar propostas que cubram até 100 % dos custos marginais suportados no âmbito do projecto."
+  },
+  "72a375c40f3d453c": {
+   "fragment_id": "Artigo 18.º — Taxas de financiamento das despesas de viagem e alojamento dos membros do CCPA",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Taxas de financiamento das despesas de viagem e alojamento dos membros do CCPA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Taxas de financiamento das despesas de viagem e alojamento dos membros do CCPA\n\n1. No respeitante às medidas financeiras comunitárias a que se referem as alíneas a) e b) do artigo 12.º, a taxa de financiamento é determinada em conformidade com os n.^os^ 2 e 3 do presente artigo.\n\n2. São concedidos, no âmbito de uma convenção de financiamento com a Comissão, direitos de saque a cada organização profissional que seja membro do plenário do CCPA, na proporção do número de titulares de direitos no plenário e em função dos recursos financeiros disponíveis.\n\n3. Os direitos de saque e o custo médio de uma viagem efectuada por um membro de uma organização profissional determinam o número de viagens pelas quais cada organização pode ser financeiramente responsável para fins de preparação das reuniões. Para cobrir as despesas de organização e de administração estritamente ligadas à organização das reuniões preparatórias, cada organização retém forfetariamente 20 % do montante do direito de saque."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "870c8531bd5b228f": {
+   "fragment_id": "PROCEDIMENTOS FINANCEIROS",
+   "type": "divisao",
+   "heading": "PROCEDIMENTOS FINANCEIROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROCEDIMENTOS FINANCEIROS"
+  },
+  "9b406af514eb9164": {
+   "fragment_id": "SECÇÃO 1",
+   "type": "divisao",
+   "heading": "SECÇÃO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 1"
+  },
+  "8d7e4affebe3f26b": {
+   "fragment_id": "Procedimentos aplicáveis no domínio do regime de acompanhamento e de controlo",
+   "type": "divisao",
+   "heading": "Procedimentos aplicáveis no domínio do regime de acompanhamento e de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Procedimentos aplicáveis no domínio do regime de acompanhamento e de controlo"
+  },
+  "5fc8c4756728062f": {
+   "fragment_id": "Artigo 19.º — Disposição preliminar",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Disposição preliminar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Disposição preliminar\n\nA participação financeira comunitária nos programas nacionais adoptados pelos Estados-Membros para efeitos da execução do regime de acompanhamento e de controlo aplicável à PCP é concedida nos termos da presente secção."
+  },
+  "b7b6127656d6ef88": {
+   "fragment_id": "Artigo 20.º — Programação",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Programação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Programação\n\n1. Os pedidos relativos a medidas financeiras comunitárias devem ser apresentados pelos Estados-Membros à Comissão até 31 de Janeiro de cada ano.\n\nOs pedidos devem ser acompanhados de um programa anual de controlo da pesca de que conste as seguintes informações:\n\na) Objectivos do programa anual de controlo da pesca;\n\nb) Recursos humanos disponíveis;\n\nc) Recursos financeiros disponíveis;\n\nd) Número de navios e de aeronaves disponíveis;\n\ne) Lista dos projectos para os quais é solicitada uma participação financeira;\n\nf) Despesas globais previstas para a realização dos projectos;\n\ng) Calendário para a conclusão de cada projecto constante do programa;\n\nh) Lista dos indicadores que serão utilizados para avaliar a eficácia do programa.\n\n2. Relativamente a cada projecto, o programa de controlo da pesca deve especificar uma das acções referidas na alínea a) do artigo 8.º, assim como o objectivo, a descrição, o proprietário, o local, o custo estimado, o procedimento administrativo a seguir e o calendário de realização.\n\n3. No respeitante aos navios e aeronaves, o programa de controlo da pesca deve igualmente especificar:\n\na) Em que medida serão utilizados pelas autoridades competentes para fins de controlo, em percentagem da sua utilização para esse efeito em relação à actividade total anual;\n\nb) O número de horas ou de dias por ano que podem ser utilizados para fins de controlo da pesca;\n\nc) Em caso de modernização, o tempo de vida previsto."
+  },
+  "ffa584c02abd3565": {
+   "fragment_id": "Artigo 21.º — Decisão da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Decisão da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Decisão da Comissão\n\n1. Com base nos programas de controlo da pesca apresentados pelos Estados-Membros, são tomadas todos os anos decisões sobre a participação financeira comunitária nos programas nacionais, nos termos do n.º 2 do artigo 30.º\n\n2. As decisões referidas no n.º 1 devem dar prioridade às acções mais adequadas para melhorar a eficácia das actividades de acompanhamento, controlo e vigilância, atendendo igualmente aos resultados obtidos pelos Estados-Membros na execução dos programas já aprovados.\n\n3. As decisões referidas no n.º 1 devem fixar:\n\na) O montante global da participação financeira a conceder a cada Estado-Membro para as acções referidas na alínea a) do artigo 8.º;\n\nb) A taxa da participação financeira;\n\nc) Quaisquer condições aplicáveis à participação financeira decorrente da regulamentação comunitária."
+  },
+  "c42c0c2b3cabd519": {
+   "fragment_id": "SECÇÃO 2",
+   "type": "divisao",
+   "heading": "SECÇÃO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 2"
+  },
+  "4a4b240908c5154b": {
+   "fragment_id": "Procedimentos aplicáveis no domínio da recolha de dados",
+   "type": "divisao",
+   "heading": "Procedimentos aplicáveis no domínio da recolha de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Procedimentos aplicáveis no domínio da recolha de dados"
+  },
+  "a5086f901af60d08": {
+   "fragment_id": "Artigo 22.º — Disposição preliminar",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Disposição preliminar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Disposição preliminar\n\nA participação financeira comunitária nas despesas efectuadas pelos Estados-Membros para fins de recolha e gestão dos dados de base relativos à pesca referidos no artigo 9.º é concedida nos termos da presente secção."
+  },
+  "8efbf158c78be0e9": {
+   "fragment_id": "Artigo 23.º — Programação",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Programação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Programação\n\n1. É definido, nos termos do n.º 2 do artigo 30.º, um programa comunitário que contém as informações essenciais necessárias para fins de avaliações científicas.\n\n2. Cada Estado-Membro estabelece um programa nacional de recolha e gestão de dados. O programa descreve a recolha de dados pormenorizados e o tratamento necessário para produzir dados agregados, em conformidade com os objectivos enunciados no artigo 5.º\n\n3. Cada Estado-Membro deve incluir no seu programa nacional os elementos que lhe digam respeito tal como previsto no programa comunitário estabelecido nos termos do n.º 1.\n\n4. Os Estados-Membros podem solicitar apoio financeiro à Comunidade para as partes do respectivo programa nacional correspondentes aos elementos do programa comunitário que lhes digam respeito."
+  },
+  "9424e456b4ffdcf4": {
+   "fragment_id": "Artigo 24.º — Decisão da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Decisão da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Decisão da Comissão\n\n1. Com base nos programas apresentados pelos Estados-Membros, são tomadas todos os anos decisões sobre a participação financeira comunitária nos programas nacionais, nos termos do n.º 2 do artigo 30.º\n\n2. As decisões referidas no n.º 1 devem dar prioridade às acções mais adequadas para melhorar a recolha de dados necessários para a PCP.\n\n3. As decisões referidas no n.º 1 devem fixar:\n\na) O montante global da participação financeira a conceder a cada Estado-Membro para as acções referidas no artigo 9.º;\n\nb) A taxa da participação financeira;\n\nc) Quaisquer condições aplicáveis à participação financeira decorrente da regulamentação comunitária."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "db21cec228cd2ff4": {
+   "fragment_id": "CONCESSÃO DE FUNDOS",
+   "type": "divisao",
+   "heading": "CONCESSÃO DE FUNDOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONCESSÃO DE FUNDOS"
+  },
+  "aab3f431af1a166f": {
+   "fragment_id": "Artigo 25.º — Recursos orçamentais",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Recursos orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Recursos orçamentais\n\nAs dotações anuais são autorizadas pela autoridade orçamental nos limites do quadro financeiro."
+  },
+  "e467bbe3f7f861b1": {
+   "fragment_id": "Artigo 26.º — Acumulação de apoios comunitários",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Acumulação de apoios comunitários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Acumulação de apoios comunitários\n\nAs acções financiadas a título do presente regulamento não são elegíveis para apoios provenientes de outros instrumentos financeiros comunitários. Os beneficiários do presente regulamento transmitem à Comissão as informações relativas a qualquer outro financiamento recebido, bem como a quaisquer pedidos de financiamento em curso."
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "6f9dec24ac001194": {
+   "fragment_id": "CONTROLO E AVALIAÇÃO",
+   "type": "divisao",
+   "heading": "CONTROLO E AVALIAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONTROLO E AVALIAÇÃO"
+  },
+  "05025deb5a84e6b5": {
+   "fragment_id": "Artigo 27.º — Protecção dos interesses financeiros da Comunidade",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Protecção dos interesses financeiros da Comunidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Protecção dos interesses financeiros da Comunidade\n\n1. Na execução das acções financiadas ao abrigo do presente regulamento, a Comissão assegura a protecção dos interesses financeiros da Comunidade através da aplicação de medidas preventivas contra a fraude, corrupção e outras actividades ilegais, de controlos eficazes e da recuperação dos montantes pagos indevidamente, bem como de sanções efectivas, proporcionadas e dissuasivas em caso de detecção de irregularidades, em conformidade com o Regulamento (CE, Euratom) n.º 2988/95 do Conselho, de 18 de Dezembro de 1995, relativo à protecção dos interesses financeiros das Comunidades Europeias [([^11])](http://publications.europa.eu/resource/cellar/fdb09d04-809c-4ea4-b3bc-b2bc27bde5c2.0016.03/DOC_1#ntr11-L_2006160PT.01000101-E0011), o Regulamento (CE, Euratom) n.º 2185/96 do Conselho, relativo às inspecções e verificações no local efectuadas pela Comissão para proteger os interesses financeiros das Comunidades Europeias contra a fraude e outras irregularidades [([^12])](http://publications.europa.eu/resource/cellar/fdb09d04-809c-4ea4-b3bc-b2bc27bde5c2.0016.03/DOC_1#ntr12-L_2006160PT.01000101-E0012), e o Regulamento (CE) n.º 1073/1999 do Parlamento Europeu e do Conselho, de 25 de Maio de 1999, relativo aos inquéritos efectuados pelo Organismo Europeu de Luta Antifraude (OLAF) [([^13])](http://publications.europa.eu/resource/cellar/fdb09d04-809c-4ea4-b3bc-b2bc27bde5c2.0016.03/DOC_1#ntr13-L_2006160PT.01000101-E0013).\n\n2. Para efeitos das acções comunitárias financiadas ao abrigo do presente regulamento, os Regulamentos (CE, Euratom) n.º 2988/95 e (CE, Euratom) n.º 2185/96 são aplicáveis a qualquer infracção de uma disposição do direito comunitário, incluindo os incumprimentos de uma obrigação contratual prevista com base no programa, resultante de um acto ou de uma omissão de um operador económico, que lese ou possa lesar o orçamento geral das Comunidades ou os orçamentos por elas geridos, por motivo de despesa indevida.\n\n3. A Comissão deve reduzir, suspender ou recuperar o montante do apoio financeiro concedido para uma acção sempre que verificar a existência de irregularidades, nomeadamente a inobservância do disposto no presente regulamento ou na decisão individual ou contrato ou convenção que concedem o apoio financeiro em causa, ou sempre que se afigurar que, sem que tenha sido solicitada a aprovação prévia da Comissão, a acção financiada foi sujeita a uma alteração incompatível com a sua natureza ou com as condições da sua execução."
+  },
+  "c95d8427f6143776": {
+   "fragment_id": "Artigo 28.º — Auditorias e correcções financeiras",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Auditorias e correcções financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Auditorias e correcções financeiras\n\n1. Sem prejuízo das auditorias efectuadas pelos Estados-Membros em conformidade com as disposições legislativas, regulamentares e administrativas nacionais, os funcionários da Comissão e do Tribunal de Contas, ou os seus representantes, podem realizar auditorias *in loco* das acções financiadas ao abrigo do presente regulamento, em qualquer momento, com um pré-aviso mínimo de dez dias úteis, excepto em casos urgentes, durante os três anos subsequentes ao pagamento final efectuado pela Comissão.\n\nOs funcionários da Comissão e do Tribunal de Contas, ou os seus representantes, devidamente mandatados para a realização de auditorias *in loco*, devem ter acesso aos livros e a todos os outros documentos, incluindo os documentos e seus metadados introduzidos ou recebidos e conservados em formato electrónico, relacionados com as despesas financiadas pelo presente regulamento.\n\nOs poderes de auditoria acima referidos não prejudicam a aplicação das disposições nacionais que reservam determinados actos a agentes especificamente designados pela legislação nacional. Os funcionários da Comissão e do Tribunal de Contas, ou os seus representantes, não participam, nomeadamente, em visitas domiciliárias ou no interrogatório formal de pessoas no âmbito da legislação nacional do Estado-Membro em causa. Têm, contudo, acesso às informações assim obtidas.\n\nSempre que um apoio financeiro comunitário concedido ao abrigo do presente regulamento seja subsequentemente concedido a um terceiro a título de beneficiário final, o beneficiário inicial, que recebeu o apoio financeiro comunitário, deve fornecer à Comissão todas as informações úteis relativas à identidade do beneficiário final.\n\nPara o efeito, os beneficiários devem conservar todos os documentos pertinentes durante os três anos subsequentes ao pagamento final.\n\nA Comissão pode igualmente exigir ao Estado-Membro em causa que efectue auditorias *in loco* das acções financiadas ao abrigo dos artigos 8.º e 9.º. Os funcionários da Comissão e do Tribunal de Contas, ou os seus representantes, podem participar nessas auditorias.\n\n2. Se a Comissão considerar que os recursos comunitários não foram utilizados em conformidade com as condições estabelecidas no presente regulamento ou em qualquer outro acto comunitário aplicável, deve notificar desse facto os beneficiários, incluindo os eventuais beneficiários finais na acepção do n.º 1, que disporão de um mês a contar da data da notificação para lhe enviar as suas observações.\n\nSe os beneficiários não responderem no prazo fixado ou se as suas observações não forem de molde a alterar o entendimento da Comissão, esta reduz ou anula a participação financeira concedida ou suspende os pagamentos.\n\nQualquer montante pago indevidamente deve ser reembolsado à Comissão. Os montantes não devolvidos atempadamente são acrescidos de juros de mora nas condições determinadas no Regulamento (CE) n.º 1605/2002.\n\n3. A Comissão assegura a existência de disposições adequadas para fins de controlo e auditoria das acções financiadas em conformidade com o n.º 7 do artigo 53.º e com o artigo 165.º do Regulamento (CE, Euratom) n.º 1605/2002.\n\n4. Por força do princípio da soberania nacional, a Comissão só pode realizar ou mandar realizar auditorias financeiras sobre os fundos pagos a países terceiros no âmbito das medidas financiadas ao abrigo da alínea a) do artigo 13.º com o acordo do país terceiro em causa."
+  },
+  "f4b29818cae4e695": {
+   "fragment_id": "Artigo 29.º — Avaliação e relatórios",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Avaliação e relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Avaliação e relatórios\n\n1. Para fins de acompanhamento da sua execução, as acções financiadas ao abrigo do presente regulamento são regularmente sujeitas a controlo.\n\n2. A Comissão deve assegurar que as acções financiadas sejam sujeitas a uma avaliação regular, independente e externa.\n\n3. A Comissão deve apresentar ao Parlamento Europeu e ao Conselho:\n\na) Um relatório de avaliação intercalar sobre os resultados obtidos e os aspectos qualitativos e quantitativos da execução das acções financiadas ao abrigo do presente regulamento, até 31 de Março de 2011;\n\nb) Uma comunicação sobre a prossecução das acções financiadas ao abrigo do presente regulamento, até 30 de Agosto de 2012;\n\nc) Um relatório de avaliação *ex post*, até 31 de Dezembro de 2014."
+  },
+  "99973826fcc02605": {
+   "fragment_id": "CAPÍTULO VIII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VIII"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "73ef34494f6a3773": {
+   "fragment_id": "Artigo 30.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Comité\n\n1. A Comissão é assistida pelo Comité das Pescas e da Aquicultura estabelecido no n.º 1 do artigo 30.º do Regulamento (CE) n.º 2371/2002 (a seguir designado «comité»).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de 20 dias úteis.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "32f935957c3fc7f9": {
+   "fragment_id": "Artigo 31.º — Regras de execução",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Regras de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Regras de execução\n\nAs regras de execução do presente regulamento podem ser estabelecidas nos termos do n.º 2 do artigo 30.º, no respeitante às medidas referidas na alínea a) do artigo 8.º e no artigo 9.º"
+  },
+  "40d5125a697f958e": {
+   "fragment_id": "Artigo 32.º — Revogação de actos obsoletos",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Revogação de actos obsoletos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Revogação de actos obsoletos\n\nO Regulamento (CE) n.º 657/2000 e as Decisões 2000/439/CE e 2004/465/CE são revogados com efeitos a partir de 1 de Janeiro de 2007."
+  },
+  "1df5d06bc6aaac13": {
+   "fragment_id": "Artigo 33.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Entrada em vigor\n\nO presente regulamento entra em vigor 20 dias após a sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável de 1 de Janeiro de 2007 a 31 de Dezembro de 2013.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 22 de Maio de 2006.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**J. PRÖLL**\n\n---"
+  },
+  "59f62854c3f54ada": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/fdb09d04-809c-4ea4-b3bc-b2bc27bde5c2.0016.03/DOC_1#ntc1-L_2006160PT.01000101-E0001) Parecer emitido em 15 de Dezembro de 2005 (ainda não publicado no Jornal Oficial).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/fdb09d04-809c-4ea4-b3bc-b2bc27bde5c2.0016.03/DOC_1#ntc2-L_2006160PT.01000101-E0002) [JO L 358 de 31.12.2002, p. 59](http://publications.europa.eu/resource/oj/JOL_2002_358_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1242/2004 ([JO L 236 de 7.7.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_236_R_TOC)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/fdb09d04-809c-4ea4-b3bc-b2bc27bde5c2.0016.03/DOC_1#ntc3-L_2006160PT.01000101-E0003) [JO L 248 de 16.9.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_248_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/fdb09d04-809c-4ea4-b3bc-b2bc27bde5c2.0016.03/DOC_1#ntc4-L_2006160PT.01000101-E0004) [JO L 357 de 31.12.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_357_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1261/2005 ([JO L 201 de 2.8.2005, p. 3](http://publications.europa.eu/resource/oj/JOL_2005_201_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/fdb09d04-809c-4ea4-b3bc-b2bc27bde5c2.0016.03/DOC_1#ntc5-L_2006160PT.01000101-E0005) [JO L 187 de 20.7.1999, p. 70](http://publications.europa.eu/resource/oj/JOL_1999_187_R_TOC). Regulamento alterado pela Decisão 2004/864/CE ([JO L 370 de 17.12.2004, p. 91](http://publications.europa.eu/resource/oj/JOL_2004_370_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/fdb09d04-809c-4ea4-b3bc-b2bc27bde5c2.0016.03/DOC_1#ntc6-L_2006160PT.01000101-E0006) [JO L 256 de 3.8.2004, p. 17](http://publications.europa.eu/resource/oj/JOL_2004_256_R_TOC). Decisão alterada pela Decisão 2006/191/CE da Comissão ([JO L 66 de 8.3.2006, p. 50](http://publications.europa.eu/resource/oj/JOL_2006_066_R_TOC)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/fdb09d04-809c-4ea4-b3bc-b2bc27bde5c2.0016.03/DOC_1#ntc7-L_2006160PT.01000101-E0007) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/fdb09d04-809c-4ea4-b3bc-b2bc27bde5c2.0016.03/DOC_1#ntc8-L_2006160PT.01000101-E0008) [JO L 80 de 31.3.2000, p. 7](http://publications.europa.eu/resource/oj/JOL_2000_080_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/fdb09d04-809c-4ea4-b3bc-b2bc27bde5c2.0016.03/DOC_1#ntc9-L_2006160PT.01000101-E0009) [JO L 176 de 15.7.2000, p. 42](http://publications.europa.eu/resource/oj/JOL_2000_176_R_TOC). Decisão alterada pela Decisão 2005/703/CE ([JO L 267 de 12.10.2005, p. 26](http://publications.europa.eu/resource/oj/JOL_2005_267_R_TOC)).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/fdb09d04-809c-4ea4-b3bc-b2bc27bde5c2.0016.03/DOC_1#ntc10-L_2006160PT.01000101-E0010) [JO L 157 de 30.4.2004, p. 114](http://publications.europa.eu/resource/oj/JOL_2004_157_R_TOC). Versão rectificada no [JO L 195 de 2.6.2004, p. 36](http://publications.europa.eu/resource/oj/JOL_2004_195_R_TOC). Decisão com a última redacção que lhe foi dada pela Decisão 2006/2/CE ([JO L 2 de 5.1.2006, p. 4](http://publications.europa.eu/resource/oj/JOL_2006_002_R_TOC)).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/fdb09d04-809c-4ea4-b3bc-b2bc27bde5c2.0016.03/DOC_1#ntc11-L_2006160PT.01000101-E0011) [JO L 312 de 23.12.1995, p. 1](http://publications.europa.eu/resource/oj/JOL_1995_312_R_TOC).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/fdb09d04-809c-4ea4-b3bc-b2bc27bde5c2.0016.03/DOC_1#ntc12-L_2006160PT.01000101-E0012) [JO L 292 de 15.11.1996, p. 2](http://publications.europa.eu/resource/oj/JOL_1996_292_R_TOC).\n\n> [(^13^)](http://publications.europa.eu/resource/cellar/fdb09d04-809c-4ea4-b3bc-b2bc27bde5c2.0016.03/DOC_1#ntc13-L_2006160PT.01000101-E0013) [JO L 136 de 31.5.1999, p. 1](http://publications.europa.eu/resource/oj/JOL_1999_136_R_TOC)."
+  },
+  "c7a072f28a30c5ac": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Maio de 2006\n\nque estabelece medidas financeiras da União relativas à execução da política comum das pescas e ao Direito do Mar\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#E0001)),\n\n(1) O Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da política comum das pescas ([^2^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#E0002)), prevê que a política comum das pescas (PCP) deve garantir que a exploração dos recursos aquáticos vivos crie condições sustentáveis dos pontos de vista económico, ambiental e social.\n\n(2) Na execução da PCP, nos termos do Regulamento (CE) n.º 2371/2002 e seus regulamentos de execução, um dos objectivos essenciais consiste em aumentar a eficácia das intervenções financeiras comunitárias no sector. Para garantir a coerência e pertinência das intervenções financeiras, é indispensável que haja uma maior complementaridade e procedimentos mais racionais, uniformes e coordenados, tanto no âmbito da Comunidade Europeia como nas relações com países terceiros e organizações internacionais.\n\n(3) É necessário atender aos objectivos anteriormente fixados no âmbito da reforma da PCP de 2002, aos quais se adicionaram instrumentos jurídicos e políticos sectoriais.\n\n(4) Além disso, é necessário adaptar a legislação comunitária a esses objectivos e às orientações do quadro financeiro para o período 2007-2013 e assegurar, ao mesmo tempo, a observância do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, de 25 de Junho de 2002, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias ([^3^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#E0003)), e do Regulamento (CE, Euratom) n.º 2342/2002 da Comissão, de 23 de Dezembro de 2002, que estabelece as normas de execução do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias ([^4^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#E0004)), bem como dos imperativos de simplificação e de melhoria da regulamentação.\n\n(5) As despesas comunitárias podem assumir, nomeadamente, a forma de decisão de financiamento, convenção de subvenção comunitária, contrato público, memorandos de entendimento e convénios administrativos em conformidade com os procedimentos estabelecidos no Regulamento (CE, Euratom) n.º 1605/2002.\n\n(6) Além disso, há que ter em conta as Conclusões do Conselho (Agricultura e Pescas) de 19 de Julho de 2004 relativas a acordos de parceria no sector das pescas.\n\n(7) É necessário definir claramente os objectivos, domínios de acção e resultados previstos em matéria de financiamento comunitário.\n\n(8) É necessário estabelecer as regras que regem a elegibilidade das despesas, o nível da contribuição financeira comunitária e as condições para a sua concessão.\n\n(9) É do interesse comum que os Estados-Membros estejam equipados por forma a garantir a realização de controlos de elevado nível. A fim de assegurar que os Estados-Membros cumpram as obrigações que lhes incumbem por força das regras da PCP, é conveniente que a Comunidade apoie os seus investimentos no domínio do controlo.\n\n(10) É necessário assegurar a disponibilidade dos meios financeiros necessários para permitir à Comissão controlar a execução da PCP.\n\n(11) A Comunidade deverá igualmente contribuir para o orçamento da Agência Comunitária de Controlo das Pescas, por forma a permitir-lhe executar o seu plano de trabalho anual, nomeadamente para assumir as despesas de equipamento e funcionamento e as despesas necessárias para o cumprimento da sua missão.\n\n(12) A gestão da pesca depende da disponibilidade de dados sobre o estado biológico das unidades populacionais de peixes e a actividade das frotas de pesca. A recolha pelos Estados-Membros dos dados necessários para a execução da PCP e os outros estudos e projectos-piloto realizados pela Comissão deverão ser apoiados com contribuições financeiras comunitárias.\n\n(13) Deverão ser disponibilizados recursos financeiros para garantir a emissão regular de pareceres científicos pelas organizações científicas internacionais responsáveis pela coordenação da investigação haliêutica nas águas em que operam as frotas comunitárias.\n\n(14) A reforma da PCP suscitou novas exigências em matéria de pareceres científicos, designadamente no respeitante à adopção de uma abordagem por ecossistema e à gestão das pescarias mistas. Deverão ser proporcionadas compensações financeiras a fim de permitir aos peritos com competência reconhecida nestas matérias ou às instituições para as quais trabalham satisfazer essas novas exigências.\n\n(15) Com vista a favorecer o diálogo e a comunicação com o sector das pescas e outros grupos de interesse, é importante garantir que o sector e outras partes interessadas sejam informados, numa fase muito precoce, das iniciativas previstas e que os objectivos da PCP e as medidas conexas sejam claramente apresentados e explicados.\n\n(16) Atendendo às atribuições do Comité Consultivo da Pesca e da Aquicultura (CCPA), que foi reestruturado pela Decisão 1999/478/CE da Comissão ([^5^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#E0005)), as organizações profissionais europeias nele representadas deverão beneficiar de apoio financeiro que lhes permita preparar as reuniões do CCPA, por forma a melhorar a coordenação das organizações nacionais ao nível europeu e reforçar a coesão do sector no respeitante a questões de interesse comunitário.\n\n(17) A fim de melhorar a governação no âmbito da PCP e assegurar a criação efectiva de conselhos consultivos regionais (CCR) nos termos da Decisão 2004/585/CE do Conselho ([^6^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#E0006)), é essencial apoiar financeiramente os CCR na respectiva fase inicial e contribuir para as respectivas despesas de tradução e interpretação.\n\n(18) Por forma a assegurar a coordenação dos trabalhos dos CCR com os do CCPA, é necessário facilitar a participação de um representante do CCPA nas reuniões dos CCR.\n\n(19) Para atingir os objectivos da PCP, a Comunidade participa activamente nos trabalhos das organizações internacionais e celebra acordos de pesca, nomeadamente acordos de parceria no sector das pescas.\n\n(20) É essencial que a Comunidade contribua para o financiamento das medidas destinadas a assegurar a conservação a longo prazo e a exploração sustentável dos recursos haliêuticos no alto mar e nas águas de países terceiros.\n\n(21) É conveniente que as despesas relativas a actividades de preparação, acompanhamento, controlo, auditoria e avaliação, actividades necessárias para executar e apreciar as medidas adoptadas no âmbito do presente regulamento e para apreciar a realização dos seus objectivos, sejam elegíveis a título de medidas financeiras de assistência técnica.\n\n(22) É necessário estabelecer procedimentos no respeitante ao conteúdo dos programas comunitários e nacionais relativos às várias medidas adoptadas nos domínios pertinentes da PCP.\n\n(23) É conveniente fixar as taxas de participação financeira comunitária nas despesas dos Estados-Membros.\n\n(24) Deverá estabelecer-se um quadro financeiro para o período 2007-2013, em conformidade com a comunicação da Comissão ao Conselho e ao Parlamento Europeu intitulada «Construir o nosso futuro em comum — Desafios políticos e recursos orçamentais da União alargada, 2007-2013».\n\n(25) No respeitante às acções financiadas a título do presente regulamento, é necessário garantir a protecção dos interesses financeiros da Comunidade, através da correcta aplicação da legislação relativa a essa protecção e assegurar que sejam realizados controlos adequados pelos Estados-Membros e pela Comissão.\n\n(26) A fim de garantir a eficácia do financiamento comunitário, é conveniente avaliar regularmente as acções financiadas ao abrigo do presente regulamento.\n\n(27) As medidas necessárias à execução do presente regulamento deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^7^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#E0007)).\n\n(28) O Regulamento (CE) n.º 657/2000 do Conselho, de 27 de Março de 2000, relativo ao reforço do diálogo com o sector das pesca e os meios interessados na política comum da pesca ([^8^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#E0008)), a Decisão 2000/439/CE do Conselho, de 29 de Junho de 2000, relativa à participação financeira da Comunidade nas despesas efectuadas pelos Estados-Membros para a recolha de dados e no financiamento de estudos e projectos-piloto de apoio à política comum da pesca ([^9^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#E0009)), e a Decisão 2004/465/CE do Conselho, de 29 de Abril de 2004, relativa a uma contribuição financeira da Comunidade para os programas de controlo da pesca dos Estados-Membros ([^10^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#E0010)), são revogados com efeitos a partir de 1 de Janeiro de 2007,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "5df5226b80cbaf18": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente regulamento é aplicável às medidas financeiras comunitárias nos seguintes domínios:\n\na) Controlo e execução das regras da PCP;\n\nb) Medidas de conservação e recolha, gestão e utilização de dados para a formulação de pareceres científicos para a PCP;\n\nc) Governação da PCP;\n\nd) Relações internacionais no domínio da PCP e do Direito do Mar."
+  },
+  "f200d5ba82694ffe": {
+   "fragment_id": "Artigo 3.º — Objectivos gerais",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Objectivos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objectivos gerais\n\nAs medidas financeiras comunitárias a que se refere o capítulo III contribuem especificamente para os seguintes objectivos gerais:\n\na) Melhorar a capacidade administrativa e os meios de controlo e execução das regras da PCP;\n\nb) Melhorar a recolha, a gestão e a utilização dos dados necessários para a PCP;\n\nc) Melhorar a qualidade dos pareceres científicos para efeitos da PCP;\n\nd) Melhorar a assistência técnica de apoio à gestão da frota de pesca comunitária para efeitos da PCP;\n\ne) Melhorar a participação do sector das pescas e de outros grupos de interesse na PCP e promover o diálogo e a comunicação entre estes e a Comissão;\n\nf) Aplicar as medidas relativas a acordos de parceria no sector das pescas e outros acordos bilaterais ou multilaterais para efeitos da PCP, nomeadamente para assegurar a sustentabilidade dos recursos haliêuticos nas águas de países terceiros e no alto mar;\n\ng) Aplicar as medidas relativas ao Direito do Mar."
+  },
+  "395d0c731be65997": {
+   "fragment_id": "Artigo 4.º — Objectivos específicos no domínio do controlo e da execução",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Objectivos específicos no domínio do controlo e da execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objectivos específicos no domínio do controlo e da execução\n\nAs medidas financeiras comunitárias a que se refere o artigo 8.º contribuem para o objectivo de melhorar o controlo das actividades de pesca por forma a assegurar a execução eficaz da PCP, tanto nas [**►M1**](http://publications.europa.eu/resource/celex/32011R0693) águas da UE**◄** como nas não comunitárias, através do financiamento:\n\na) Das acções adoptadas pelos Estados-Membros a fim de aumentar a capacidade ou reduzir as deficiências das suas actividades de controlo da pesca;\n\nb) Da avaliação e do controlo, pelos serviços da Comissão, da aplicação das regras da PCP pelos Estados-Membros;\n\nc) Da coordenação das medidas de controlo, nomeadamente através de planos relativos à utilização conjunta das unidades nacionais de inspecção e de vigilância por intermédio da Agência Comunitária de Controlo das Pescas (ACCP)."
+  },
+  "4f4a1d796fdba9d8": {
+   "fragment_id": "Artigo 5.º — Objectivos específicos no domínio da recolha, gestão e utilização de dados e do aconselhamento científico",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Objectivos específicos no domínio da recolha, gestão e utilização de dados e do aconselhamento científico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Objectivos específicos no domínio da recolha, gestão e utilização de dados e do aconselhamento científico\n\nAs medidas financeiras da União a que se referem os artigos 9.º, 10.º e 11.º contribuem para o objectivo de melhorar a recolha, gestão e utilização de dados e o aconselhamento científico sobre o estado dos recursos, o nível da pesca, o impacto das pescarias nos recursos e no ecossistema marinho, os aspectos económicos das pescas e da aquicultura e os resultados do sector das pescas, tanto nas águas da UE como fora delas, através da concessão de apoio financeiro aos Estados-Membros para a constituição de séries plurianuais de dados agregados, recolhidos segundo métodos científicos, que incluam informações biológicas, técnicas, ambientais e socioeconómicas."
+  },
+  "e6d8ad2dba52f585": {
+   "fragment_id": "Artigo 7.º — Objectivos específicos no domínio das relações internacionais",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Objectivos específicos no domínio das relações internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Objectivos específicos no domínio das relações internacionais\n\n1. No domínio da negociação e da celebração de acordos de pesca, nomeadamente de acordos de parceria no sector das pescas, as medidas financeiras comunitárias a que se refere o artigo 13.º contribuem para os seguintes objectivos:\n\na) Salvaguardar o emprego nas regiões da [**►M1**](http://publications.europa.eu/resource/celex/32011R0693) União**◄** dependentes da pesca;\n\nb) Assegurar a perenidade e a competitividade do sector das pescas comunitário;\n\nc) Desenvolver, através de parcerias a nível bilateral, regional ou multilateral, as capacidades dos países terceiros em matéria de gestão e controlo dos recursos haliêuticos, por forma a garantir a sustentabilidade da pesca e a promover o desenvolvimento económico do sector das pescas nesses países, através da melhoria da avaliação científica e técnica das pescarias em causa, do acompanhamento e do controlo das actividades de pesca, das condições sanitárias e do contexto comercial no sector;\n\nd) Assegurar o abastecimento adequado do mercado comunitário.\n\n2. No âmbito da participação da [**►M1**](http://publications.europa.eu/resource/celex/32011R0693) União**◄** nas organizações regionais e internacionais, as medidas financeiras comunitárias a que se refere o artigo 13.º contribuem para a conservação e a exploração sustentável dos recursos haliêuticos a nível internacional, através da adopção de medidas adequadas de gestão de tais recursos."
+  },
+  "2aa9e7317f1b7158": {
+   "fragment_id": "Artigo 8.º — Medidas no domínio do controlo e da execução",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Medidas no domínio do controlo e da execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Medidas no domínio do controlo e da execução\n\n1. No domínio do controlo e da execução das regras da PCP, são elegíveis para medidas financeiras da União:\n\na) As despesas efectuadas pelos Estados-Membros no âmbito da execução do regime de acompanhamento e controlo aplicável à PCP, referentes a:\n\ni) investimentos relativos às actividades de controlo exercidas pelas autoridades nacionais competentes, por organismos administrativos ou pelo sector privado, em matéria de:\n\n— compra e/ou desenvolvimento de tecnologia, incluindo equipamento e programas informáticos, sistemas de detecção de navios (VDS) e redes informáticas que permitam compilar, gerir, validar, analisar e trocar dados relativos à pesca, e desenvolver métodos de amostragem, incluindo o desenvolvimento de sítios Internet relacionados com o controlo,\n\n— compra e/ou desenvolvimento dos componentes necessários para assegurar a transmissão de dados dos operadores que participam na pesca e na comercialização de produtos da pesca às autoridades em causa do Estado-Membro e da União, incluindo os componentes necessários para os sistemas electrónicos de registo e transmissão de dados (ERS), para os sistemas de localização de navios por satélite (VMS) e para os sistemas de identificação automática (AIS),\n\n— execução de programas para o intercâmbio e análise de dados entre os Estados-Membros,\n\n— compra e modernização de meios de controlo,\n\nii) programas de formação e intercâmbio, inclusive entre Estados-Membros, de pessoal responsável pelo acompanhamento, controlo e vigilância das actividades de pesca,\n\niii) execução de projectos ligados ao controlo das pescas,\n\niv) análise de custos/benefícios, bem como avaliação das auditorias realizadas e das despesas efectuadas pelas autoridades competentes com o acompanhamento, controlo e vigilância,\n\nv) iniciativas, incluindo a organização de seminários e a utilização de meios de comunicação, para melhorar a sensibilização dos pescadores e de outros interessados, nomeadamente inspectores, agentes do ministério público e juízes, assim como o público em geral, para a necessidade de lutar contra a pesca ilegal, não declarada e não regulamentada e de aplicar as regras da PCP;\n\nb) As despesas relativas a convénios administrativos com o Centro Comum de Investigação ou qualquer outro órgão consultivo da União, para avaliar e desenvolver novas tecnologias de controlo;\n\nc) Todas as despesas operacionais relacionadas com o controlo, pelos inspectores da Comissão, da execução da PCP por parte dos Estados-Membros, designadamente as relativas às missões de inspecção, aos equipamentos de segurança e à formação dos inspectores, às reuniões e ao fretamento ou compra de meios de inspecção pela Comissão;\n\nd) A contribuição para o orçamento da ACCP destinada a cobrir as despesas administrativas e de pessoal e as despesas de funcionamento relacionadas com o plano de trabalho anual da ACCP;\n\n2. A Comissão pode adoptar regras pormenorizadas de aplicação do n.º 1, alínea a), através de actos de execução. Os referidos actos de execução são adoptados pelo procedimento de exame a que se refere o artigo 30.º, n.º 2."
+  },
+  "e7ff5761fe9dcf77": {
+   "fragment_id": "Artigo 9.º — Medidas no domínio da recolha, gestão e utilização de dados de base",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Medidas no domínio da recolha, gestão e utilização de dados de base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Medidas no domínio da recolha, gestão e utilização de dados de base\n\n1. No domínio da recolha, gestão e utilização de dados de base, são elegíveis para apoio financeiro da União no âmbito dos programas nacionais plurianuais referidos no artigo 4.º do Regulamento (CE) n.º 199/2008 do Conselho, de 25 de Fevereiro de 2008, relativo ao estabelecimento de um quadro comunitário para a recolha, gestão e utilização de dados no sector das pescas e para o apoio ao aconselhamento científico relacionado com a política comum das pescas ([^11^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#E0011)) as seguintes despesas:\n\na) Despesas efectuadas com a recolha de dados biológicos, técnicos, ambientais e socioeconómicos relativos à pesca comercial e recreativa, incluindo a colheita de amostras, a supervisão no mar e as campanhas de investigação, assim como a recolha de dados ambientais e socioeconómicos no sector da aquicultura e da transformação, como previsto no programa plurianual da União referido no artigo 3.º do Regulamento (CE) n.º 199/2008;\n\nb) Despesas efectuadas com medidas relativas à gestão, desenvolvimento, melhoria e exploração dos dados referidos na alínea a);\n\nc) Despesas efectuadas com medidas relativas à utilização dos dados referidos na alínea a), tais como estimativas de parâmetros biológicos e a produção de conjuntos de dados para análise e aconselhamento científicos;\n\nd) Despesas efectuadas com a participação em reuniões de coordenação regional referidas no artigo 5.º, n.º 1, do Regulamento (CE) n.º 199/2008, em reuniões científicas pertinentes das organizações regionais de gestão das pescas em que a União é parte contratante, ou observador, e em reuniões dos organismos internacionais incumbidos de emitir pareceres científicos.\n\n2. A Comissão pode adoptar regras pormenorizadas de aplicação do n.º 1 através de actos de execução. Os referidos actos de execução são adoptados pelo procedimento de exame a que se refere o artigo 30.º, n.º 2."
+  },
+  "7c50ed4343b1e48a": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º"
+  },
+  "c020d91937d28ebc": {
+   "fragment_id": "Medidas no domínio da recolha, gestão e utilização de dados suplementares",
+   "type": "divisao",
+   "heading": "Medidas no domínio da recolha, gestão e utilização de dados suplementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Medidas no domínio da recolha, gestão e utilização de dados suplementares\n\n1. No domínio da recolha de dados suplementares, a Comissão pode realizar estudos e projectos-piloto. [**►M1**](http://publications.europa.eu/resource/celex/32011R0693) As actividades elegíveis para apoio financeiro da União incluem:**◄**\n\na) Estudos e projectos metodológicos destinados a optimizar e normalizar os métodos de recolha dos dados necessários para a emissão de pareceres científicos;\n\nb) Projectos exploratórios de recolha de dados, respeitantes nomeadamente à aquicultura, às interacções entre a pesca/aquicultura e o ambiente e à capacidade de criação de empregos dos sectores da pesca e aquicultura;\n\nc) Análises e simulações económicas e bioeconómicas relacionadas com decisões previstas no âmbito da PCP, incluindo planos de recuperação e de gestão e a avaliação do impacto da PCP;\n\nd) Selectividade nas pescarias, nomeadamente a selectividade associada à concepção das artes de pesca e das técnicas de pesca, e análise das relações entre capacidades de captura, esforço de pesca e mortalidade em cada pescaria;\n\ne) Melhoria da execução da PCP, designadamente em termos de custo/eficácia;\n\nf) Avaliação e gestão das relações entre actividades de pesca e aquicultura, por um lado, e ecossistemas aquáticos, por outro.\n\n2. O financiamento do conjunto dos estudos e projectos-piloto realizados em conformidade com o n.º 1 é limitado a 15 % das dotações anuais autorizadas para as acções financiadas ao abrigo do artigo 9.º e do presente artigo."
+  },
+  "7ff7be70f66826b9": {
+   "fragment_id": "Artigo 11.º — Medidas no domínio dos pareceres científicos",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Medidas no domínio dos pareceres científicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Medidas no domínio dos pareceres científicos\n\nNo domínio dos pareceres científicos, são elegíveis para medidas financeiras comunitárias:\n\na) As despesas relativas a contratos de parceria com institutos de investigação nacionais ou com organismos internacionais encarregados da avaliação das unidades populacionais, para a emissão de pareceres científicos e o fornecimento de dados;\n\nb) As despesas relativas a convénios administrativos com o Centro Comum de Investigação, ou qualquer outro órgão consultivo da [**►M1**](http://publications.europa.eu/resource/celex/32011R0693) União**◄**, para assegurar o secretariado do Comité Científico, Técnico e Económico da Pesca (CCTEP), efectuar uma análise preliminar dos dados e preparar os dados que permitirão avaliar a situação dos recursos haliêuticos;\n\nc) Os abonos pagos aos membros do CCTEP e/ou a peritos convidados pelo CCTEP a título da sua participação e do trabalho efectuado no âmbito dos grupos de trabalho e das sessões plenárias;\n\nd) Os abonos pagos a peritos independentes que emitam pareceres científicos para a Comissão ou assegurem a formação de funcionários ou outros interessados sobre a interpretação dos pareceres científicos;\n\ne) As contribuições para organismos internacionais incumbidos de avaliar as unidades populacionais."
+  },
+  "1e4fe0207d791ca1": {
+   "fragment_id": "Artigo 12.º — Medidas no domínio da governação",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Medidas no domínio da governação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Medidas no domínio da governação\n\nNo domínio da governação, são elegíveis para medidas financeiras comunitárias:\n\na) As despesas de viagem e alojamento dos membros das organizações representativas no Comité Consultivo da Pesca e da Aquicultura (CCPA) ligadas às reuniões preparatórias das reuniões do CCPA, e as despesas de tradução, interpretação e aluguer de salas para essas reuniões preparatórias;\n\nb) As despesas de participação dos representantes designados pelo CCPA para o representarem nas reuniões dos Conselhos Consultivos Regionais (CCR), do Conselho Internacional de Exploração do Mar (CIEM) e do CCTEP;\n\nc) As despesas de funcionamento dos CCR previstas na Decisão 2004/585/CE;\n\nd) As despesas ligadas à explicação dos objectivos e das medidas da PCP, designadamente das propostas da Comissão, assim como as despesas de divulgação junto do sector das pescas e de outros grupos interessados das informações pertinentes na matéria, de iniciativa da Comissão, incluindo as acções a seguir enunciadas:\n\ni) elaboração e divulgação de material documental adaptado às necessidades específicas dos grupos interessados (material escrito, audiovisual e electrónico),\n\nii) disponibilização de um amplo acesso aos dados e elementos explicativos, nomeadamente os respeitantes às propostas da Comissão, através do desenvolvimento dos sítios internet dos serviços competentes da Comissão, da produção de uma publicação periódica e da organização de seminários de informação e formação destinados aos multiplicadores de opinião."
+  },
+  "d2eca56943c3385d": {
+   "fragment_id": "Artigo 13.º — Medidas no domínio das relações internacionais",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Medidas no domínio das relações internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Medidas no domínio das relações internacionais\n\n1. No domínio das relações internacionais, são elegíveis para medidas financeiras comunitárias:\n\na) As despesas decorrentes de acordos de pesca e acordos de parceria no sector das pescas que a [**►M1**](http://publications.europa.eu/resource/celex/32011R0693) União**◄** tenha negociado ou pretenda renovar ou negociar com países terceiros;\n\nb) As despesas decorrentes das contribuições obrigatórias da [**►M1**](http://publications.europa.eu/resource/celex/32011R0693) União**◄** para os orçamentos das organizações internacionais;\n\nc) As despesas ligadas à participação da [**►M1**](http://publications.europa.eu/resource/celex/32011R0693) União**◄**, na qualidade de membro, nas organizações das Nações Unidas e ao financiamento voluntário dessas organizações, assim como as despesas ligadas à participação da [**►M1**](http://publications.europa.eu/resource/celex/32011R0693) União**◄**, na qualidade de membro, em qualquer organização internacional activa no domínio do Direito do Mar e ao financiamento voluntário dessas organizações;\n\nd) As contribuições financeiras voluntárias para preparar a criação de novas organizações internacionais ou a elaboração de novos tratados internacionais que se revistam de interesse para a [**►M1**](http://publications.europa.eu/resource/celex/32011R0693) União**◄**;\n\ne) As contribuições financeiras voluntárias para trabalhos ou programas executados por organizações internacionais que se revistam de especial interesse para a União;\n\nf) As contribuições financeiras para actividades (reuniões de trabalho, informais ou extraordinárias das partes contratantes) que tenham por objectivo apoiar os interesses da [**►M1**](http://publications.europa.eu/resource/celex/32011R0693) União**◄** nas organizações internacionais e reforçar a cooperação com os seus parceiros nestas organizações. Nesse contexto, as despesas de participação de representantes de países terceiros em negociações e reuniões no âmbito de fóruns e organizações internacionais são elegíveis sempre que a sua presença seja necessária para os interesses da [**►M1**](http://publications.europa.eu/resource/celex/32011R0693) União**◄**.\n\n2. As medidas financiadas ao abrigo das alíneas a) e b) do n.º 1 são executadas, nomeadamente, com base nos regulamentos e decisões relativos à celebração de acordos e/ou protocolos de pesca entre a [**►M1**](http://publications.europa.eu/resource/celex/32011R0693) União**◄** e países terceiros, bem como nos regulamentos e nas decisões respeitantes à assinatura pela [**►M1**](http://publications.europa.eu/resource/celex/32011R0693) União**◄** de acordos relativos a organizações internacionais de pesca."
+  },
+  "4832ea21864e0702": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º"
+  },
+  "f50891ebe2227ef4": {
+   "fragment_id": "Taxas de co-financiamento no domínio da recolha, gestão e utilização de dados de base",
+   "type": "divisao",
+   "heading": "Taxas de co-financiamento no domínio da recolha, gestão e utilização de dados de base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Taxas de co-financiamento no domínio da recolha, gestão e utilização de dados de base\n\nNo respeitante às medidas financeiras comunitárias a que se refere o artigo 9.º, a taxa de co-financiamento não pode exceder 50 % do custo das despesas públicas elegíveis efectuadas com a execução de um programa previsto no [**►M1**](http://publications.europa.eu/resource/celex/32011R0693) artigo 4.º do Regulamento (CE) n.º 199/2008**◄**."
+  },
+  "b0c39f27dc58bab1": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º"
+  },
+  "556f5673ccc1ca70": {
+   "fragment_id": "Taxas de co-financiamento no domínio da recolha, gestão e utilização de dados suplementares",
+   "type": "divisao",
+   "heading": "Taxas de co-financiamento no domínio da recolha, gestão e utilização de dados suplementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Taxas de co-financiamento no domínio da recolha, gestão e utilização de dados suplementares\n\nNo respeitante às medidas financeiras comunitárias a que se refere o artigo 10.º, a taxa de co-financiamento não pode exceder 50 % das despesas elegíveis no que se refere às acções empreendidas na sequência de um convite à apresentação de propostas. As universidades e os organismos públicos de investigação que, de acordo com a legislação nacional por que se regem, devam tomar a seu cargo os custos marginais, podem apresentar propostas que cubram até 100 % dos custos marginais suportados no âmbito do projecto."
+  },
+  "c77adc70058092ec": {
+   "fragment_id": "Artigo 18.º — Taxas de financiamento das despesas de viagem e alojamento dos membros do CCPA",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Taxas de financiamento das despesas de viagem e alojamento dos membros do CCPA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Taxas de financiamento das despesas de viagem e alojamento dos membros do CCPA\n\n1. No respeitante às medidas financeiras comunitárias a que se referem as alíneas a) e b) do artigo 12.º, a taxa de financiamento é determinada em conformidade com os n.^os^ 2 e 3 do presente artigo.\n\n2. São concedidos, no âmbito de uma convenção de financiamento com a Comissão, direitos de saque a cada organização representativa que seja membro do plenário do CCPA, na proporção do número de titulares de direitos no plenário e em função dos recursos financeiros disponíveis.\n\n3. Os direitos de saque e o custo médio de uma viagem efectuada por um membro de uma organização representativa determinam o número de viagens pelas quais cada organização pode ser financeiramente responsável, realizadas para reuniões preparatórias. Dentro do limite global do direito de saque, 20 % das despesas reais elegíveis devem ser retidas sob a forma de um montante fixo por cada organização representativa, para cobrir as suas despesas de organização e de administração estritamente relacionadas com a organização das reuniões preparatórias."
+  },
+  "99ba4d0d5406bd7e": {
+   "fragment_id": "Artigo 20.º — Programação",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Programação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Programação\n\n1. Os Estados-Membros apresentam à Comissão os seus pedidos relativos ao apoio financeiro da União até 15 de Novembro do ano anterior ao ano de execução em causa.\n\nOs pedidos devem ser acompanhados de um programa anual de controlo da pesca do qual devem constar as seguintes informações:\n\na) Os objectivos do programa anual de controlo da pesca;\n\nb) Os recursos humanos previstos;\n\nc) Os recursos financeiros previstos;\n\nd) O número de navios e de aeronaves previsto;\n\ne) Uma lista dos projectos para os quais é solicitada uma participação financeira;\n\nf) As despesas globais previstas para a realização dos projectos;\n\ng) O calendário para a conclusão de cada projecto constante do programa anual de controlo da pesca;\n\nh) Uma lista dos indicadores que serão utilizados para avaliar a eficácia do programa anual de controlo da pesca.\n\n2. Relativamente a cada projecto, o programa anual de controlo da pesca deve especificar a qual das acções referidas no artigo 8.º, alínea a), se refere, o objectivo do projecto e uma descrição pormenorizada do mesmo, da qual devem constar as seguintes informações: o proprietário, o local, o custo estimado, o calendário para a realização do projecto e o procedimento de adjudicação de contratos públicos previsto. Caso um projecto seja realizado conjuntamente por mais de um Estado-Membro, o programa anual de controlo da pesca deve incluir também uma lista dos Estados-Membros que participam no projecto, uma estimativa dos custos totais do projecto e uma estimativa dos custos por Estado-Membro.\n\n3. No respeitante aos navios e aeronaves, o programa de controlo da pesca deve igualmente especificar:\n\na) Em que medida serão utilizados pelas autoridades competentes para fins de controlo, em percentagem da sua utilização para esse efeito em relação à actividade total anual;\n\nb) O número de horas ou de dias por ano que podem ser utilizados para fins de controlo da pesca e o sistema implantado no Estado-Membro para permitir à Comissão ou ao Tribunal de Contas verificarem a sua utilização efectiva para efeitos de controlo;\n\nc) Em caso de modernização, o tempo de vida previsto.\n\n4. Os Estados-Membros devem fornecer as informações previstas nos n.^os^ 1, 2 e 3 transmitindo por via electrónica e em versão impressa o formulário electrónico que receberam da Comissão."
+  },
+  "87969721e2c93fa6": {
+   "fragment_id": "Procedimentos aplicáveis no domínio da recolha, gestão e utilização de dados",
+   "type": "divisao",
+   "heading": "Procedimentos aplicáveis no domínio da recolha, gestão e utilização de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Procedimentos aplicáveis no domínio da recolha, gestão e utilização de dados"
+  },
+  "bf47e9e609a3e169": {
+   "fragment_id": "Artigo 22.º — Disposição preliminar",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Disposição preliminar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Disposição preliminar\n\nA participação financeira da União nas despesas efectuadas pelos Estados-Membros para fins de recolha, gestão e utilização dos dados de base referidos no artigo 9.º é concedida nos termos da presente secção."
+  },
+  "4142e7acda53fafe": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º"
+  },
+  "63fe57d87b68dc1e": {
+   "fragment_id": "Decisão de financiamento da Comissão",
+   "type": "divisao",
+   "heading": "Decisão de financiamento da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Decisão de financiamento da Comissão\n\n1. Com base nos programas plurianuais apresentados pelos Estados-Membros nos termos do artigo 4.º, n.º 4, do Regulamento (CE) n.º 199/2008 e aprovados pela Comissão nos termos do artigo 6.º, n.º 3, desse regulamento, são tomadas todos os anos decisões sobre a participação financeira da União nos programas nacionais pelo procedimento de exame a que se refere o artigo 30.º, n.º 2.\n\n3. As decisões referidas no n.º 1 devem fixar:\n\na) O montante global da participação financeira a conceder a cada Estado-Membro para as acções referidas no artigo 9.º;\n\nb) A taxa da participação financeira;\n\nc) Quaisquer condições aplicáveis à participação financeira decorrente da regulamentação comunitária."
+  },
+  "f1fa9a5d2c766493": {
+   "fragment_id": "Artigo 27.º — Protecção dos interesses financeiros da [►M1](http://publications.europa.eu/resource/celex/32011R0693) União◄",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Protecção dos interesses financeiros da [►M1](http://publications.europa.eu/resource/celex/32011R0693) União◄",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Protecção dos interesses financeiros da [►M1](http://publications.europa.eu/resource/celex/32011R0693) União◄\n\n1. Na execução das acções financiadas ao abrigo do presente regulamento, a Comissão assegura a protecção dos interesses financeiros da [**►M1**](http://publications.europa.eu/resource/celex/32011R0693) União**◄** através da aplicação de medidas preventivas contra a fraude, corrupção e outras actividades ilegais, de controlos eficazes e da recuperação dos montantes pagos indevidamente, bem como de sanções efectivas, proporcionadas e dissuasivas em caso de detecção de irregularidades, em conformidade com o Regulamento (CE, Euratom) n.º 2988/95 do Conselho, de 18 de Dezembro de 1995, relativo à protecção dos interesses financeiros das Comunidades Europeias ([^12^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#E0012)), o Regulamento (CE, Euratom) n.º 2185/96 do Conselho, relativo às inspecções e verificações no local efectuadas pela Comissão para proteger os interesses financeiros das Comunidades Europeias contra a fraude e outras irregularidades ([^13^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#E0013)), e o Regulamento (CE) n.º 1073/1999 do Parlamento Europeu e do Conselho, de 25 de Maio de 1999, relativo aos inquéritos efectuados pelo Organismo Europeu de Luta Antifraude (OLAF) ([^14^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#E0014)).\n\n2. Para efeitos das acções comunitárias financiadas ao abrigo do presente regulamento, os Regulamentos (CE, Euratom) n.º 2988/95 e (CE, Euratom) n.º 2185/96 são aplicáveis a qualquer infracção de uma disposição do direito comunitário, incluindo os incumprimentos de uma obrigação contratual prevista com base no programa, resultante de um acto ou de uma omissão de um operador económico, que lese ou possa lesar o orçamento geral das [**►M1**](http://publications.europa.eu/resource/celex/32011R0693) Union**◄** ou os orçamentos por elas geridos, por motivo de despesa indevida.\n\n3. A Comissão deve reduzir, suspender ou recuperar o montante do apoio financeiro concedido para uma acção sempre que verificar a existência de irregularidades, nomeadamente a inobservância do disposto no presente regulamento ou na decisão individual ou contrato ou convenção que concedem o apoio financeiro em causa, ou sempre que se afigurar que, sem que tenha sido solicitada a aprovação prévia da Comissão, a acção financiada foi sujeita a uma alteração incompatível com a sua natureza ou com as condições da sua execução."
+  },
+  "a331821d27b9927e": {
+   "fragment_id": "Artigo 30.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité das Pescas e da Aquicultura criado pelo artigo 30.º, n.º 1, do Regulamento (CE) n.º 2371/2002. Esse comité é um comité na acepção do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de Fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão ([^15^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#E0015)).\n\n2. Sempre que se faça referência ao presente número, é aplicável o artigo 5.º do Regulamento (UE) n.º 182/2011."
+  },
+  "13fc12e3ff717097": {
+   "fragment_id": "Artigo 32.º — Revogação de actos obsoletos",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Revogação de actos obsoletos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Revogação de actos obsoletos\n\nO Regulamento (CE) n.º 657/2000 e as Decisões 2000/439/CE e 2004/465/CE são revogados com efeitos desde 1 de Janeiro de 2007. Não obstante, as regras definidas no artigo 3.º, segundo travessão, nos artigos 4.º e 6.º e no anexo da Decisão 2000/439/CE, aplicáveis em 31 de Dezembro de 2006, são aplicáveis, com as necessárias adaptações, aos programas nacionais de recolha, gestão e utilização de dados para 2007 e 2008."
+  },
+  "cc7d4b62c3421da5": {
+   "fragment_id": "Artigo 33.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Entrada em vigor\n\nO presente regulamento entra em vigor 20 dias após a sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável de 1 de Janeiro de 2007 a 31 de Dezembro de 2013.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "6f4e57644aa1fb39": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#src.E0001)) Parecer emitido em 15 de Dezembro de 2005 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#src.E0002)) JO L 358 de 31.12.2002, p. 59. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1242/2004 (JO L 236 de 7.7.2004, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#src.E0003)) JO L 248 de 16.9.2002, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#src.E0004)) JO L 357 de 31.12.2002, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1261/2005 (JO L 201 de 2.8.2005, p. 3).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#src.E0005)) JO L 187 de 20.7.1999, p. 70. Regulamento alterado pela Decisão 2004/864/CE (JO L 370 de 17.12.2004, p. 91).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#src.E0006)) JO L 256 de 3.8.2004, p. 17. Decisão alterada pela Decisão 2006/191/CE da Comissão (JO L 66 de 8.3.2006, p. 50).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#src.E0008)) JO L 80 de 31.3.2000, p. 7.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#src.E0009)) JO L 176 de 15.7.2000, p. 42. Decisão alterada pela Decisão 2005/703/CE (JO L 267 de 12.10.2005, p. 26).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#src.E0010)) JO L 157 de 30.4.2004, p. 114. Versão rectificada no JO L 195 de 2.6.2004, p. 36. Decisão com a última redacção que lhe foi dada pela Decisão 2006/2/CE (JO L 2 de 5.1.2006, p. 4).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#src.E0011)) JO L 60 de 5.3.2008, p. 1.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#src.E0012)) JO L 312 de 23.12.1995, p. 1.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#src.E0013)) JO L 292 de 15.11.1996, p. 2.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#src.E0014)) JO L 136 de 31.5.1999, p. 1.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/c79675f3-1809-4e98-8d62-76d666d9237c.0018.03/DOC_1#src.E0015)) JO L 55 de 28.2.2011, p. 13."
+  },
+  "c4fd6c28b918d2bb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2006R0861 — PT — 01.01.2014 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32006R0861) [REGULAMENTO (CE) N.º 861/2006 DO CONSELHO](http://publications.europa.eu/resource/celex/32006R0861) [de 22 de Maio de 2006](http://publications.europa.eu/resource/celex/32006R0861) [que estabelece medidas financeiras da União relativas à execução da política comum das pescas e ao Direito do Mar](http://publications.europa.eu/resource/celex/32006R0861) (JO L 160, 14.6.2006, p.1)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 508/2014 do Parlamento Europeu e do Conselho de 15 de maio de 2014](http://publications.europa.eu/resource/celex/32014R0508) — L 149 — 1 — 20.5.2014"
+  }
+ }
+}

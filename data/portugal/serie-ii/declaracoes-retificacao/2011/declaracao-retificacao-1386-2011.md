@@ -1,0 +1,110 @@
+---
+schema_version: '1.0'
+id: pt:dre:979049:por
+title: Declaração de Rectificação n.º 1386/2011
+short_title: null
+summary: Declaração de rectificação de itens constantes do aviso de abertura de concurso para o preenchimento de seis lugares
+  de assistente operacional a tempo parcial, a termo resolutivo certo (aviso n.º 16742/2011), publicado no Diário da República,
+  2.ª série, n.º 165, de 29 de Agosto de 2011
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Ministério da Educação e Ciência - Direcção Regional de Educação de Lisboa e Vale do Tejo - Agrupamento Vertical de Escolas
+  de Cetóbriga
+proposing_entity: null
+official_number: 1386/2011
+official_date: null
+publication_date: '2011-09-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 177/2011, Série II de 2011-09-14
+  number: '177'
+  series: II
+  supplement: null
+  pages: 37082 - 37082
+  pdf_url: https://files.diariodarepublica.pt/2s/2011/09/177000000/3708237082.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '979049'
+  dre_path: /dr/detalhe/declaracao-rectificacao/1386-2011-979049
+  internal: pt:dre:979049:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1386-2011-979049
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1386-2011-979049
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:31:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0eff13ddc70b8d6f19e729471911cc121e556d1af2eb8f7dc9ad0b6304ada6c8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:36Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:31:36Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 1386/2011
+
+Declaração de rectificação n.º 1386/2011
+
+Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 165, de 29 de Agosto de 2011, o aviso de abertura de concurso para o preenchimento de seis lugares de assistente operacional a termo resolutivo certo, a tempo parcial (aviso n.º 16742/2011), novamente se publica a rectificação dos seguintes itens:
+
+Na l. 7 do aviso, onde se lê:
+
+«Até 17 de Dezembro de 2011.»
+
+deve ler-se:
+
+«Até 16 de Dezembro de 2011.»
+
+Na l. 12 do aviso, onde se lê:
+
+«Remuneração auferida: 3(euro)/hora»
+
+deve ler-se:
+
+«Remuneração auferida: (euro) 3,20/hora.»
+
+2 de Setembro de 2011. - A Directora, Maria Fernanda Resende Correia da Silva Oliveira.
+
+205084762

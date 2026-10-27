@@ -1,0 +1,274 @@
+---
+schema_version: '1.0'
+id: pt:dre:1164128604:por
+title: Decreto-Lei n.º 172/2026
+short_title: null
+summary: Altera o Decreto-Lei n.º 192/2015, de 11 de setembro, que aprova o Sistema de Normalização Contabilística para as
+  Administrações Públicas, adaptando o SNC-AP à realidade do SIRP e do segredo de Estado.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 172/2026
+official_date: null
+publication_date: '2026-08-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 168/2026, Série I de 2026-08-31
+  number: '168'
+  series: I
+  supplement: null
+  pages: 2 - 5
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/08/16800/0000200005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/172/2026/08/31/p/dre/pt/html
+  oj: null
+  dre: '1164128604'
+  dre_path: /dr/detalhe/decreto-lei/172-2026-1164128604
+  internal: pt:dre:1164128604:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2026-1164128604
+  metadata_url: https://data.dre.pt/eli/dec-lei/172/2026/08/31/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2026-1164128604
+  consolidated_url: null
+  retrieved_at: '2026-10-22T18:52:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6004d7484e6a5373e784e5cefd6f38e06d451ed5bd7b2830fda8e1c23c43a329
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:52:05Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Administração Pública
+- Arquipélago da Madeira
+- Banco de Portugal
+- Contabilidade
+- Contabilidade Pública
+- Empresa Pública
+- Madeira.região Autónoma
+- Normalização
+- Normas Internacionais de Contabilidade
+- Pequenas e Médias Empresas
+- Plano Oficial de Contabilidade
+- Plano Oficial de Contabilidade Pública
+- PME
+- Prestação de Contas
+- Região Autónoma
+- Regulamento CE
+- Relatório de Actividade
+- Segredo de Estado
+- Sistema de Informações da República Portuguesa
+- Sistema de Normalização Contabilística
+- Sistema Europeu de Contabilidade
+relationships:
+- type: amends
+  target: pt:numero:decreto-lei:192/2015
+  label: Altera, a partir de 1 de setembro de 2026, os artigos 3.º e 10.º, adita o artigo 5.º-A e o anexo iv ao Decreto-Lei
+    n.º 192/2015, de 11 de setembro, Diário da República n.º 178/2015, Série I
+  source: null
+  date: '2015-09-10'
+- type: cites
+  target: pt:dre:105583346:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/85/2016/12/21/p/dre
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/33/2018/05/15/p/dre
+- type: cites
+  target: pt:dre:373663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55235777:por
+  label: null
+  source: http://data.dre.pt/eli/leiorg/2/2014/08/06/p/dre
+- type: cites
+  target: pt:dre:70262478:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/192/2015/09/11/p/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T18:52:05Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 172/2026
+
+de 31 de agosto
+
+O Sistema de Informações da República Portuguesa (SIRP) integra o Secretário-Geral do SIRP, o Serviço de Informações Estratégicas de Defesa e o Serviço de Informações de Segurança, bem como aos respetivos centros de dados e estruturas comuns.
+
+A atividade do SIRP encontra-se sujeita ao regime do segredo de Estado, nos termos da [Lei Orgânica n.º 2/2014](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2014-55235777), de 6 de agosto, uma vez que envolve matérias, documentos e informações cujo conhecimento por pessoas não autorizadas é suscetível de pôr em causa interesses fundamentais do Estado, designadamente os relativos à sua unidade, integridade e segurança interna e externa.
+
+O [Decreto-Lei n.º 192/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2015-70262478), de 11 de setembro, que aprova o Sistema de Normalização Contabilística para as Administrações Públicas, determina a sujeição à certificação legal de contas de todos os serviços e organismos da administração central, regional e local que não tenham natureza, forma e designação de empresa, do subsetor da segurança social, e as entidades públicas reclassificadas ficam sujeitas a certificação legal de contas.
+
+A aplicação deste regime à atividade do SIRP pode, contudo, comprometer a salvaguarda do segredo de Estado, na medida em que a certificação legal de contas, nos termos gerais, implica o acesso a despesas classificadas e a outras informações sensíveis suscetíveis de revelar a natureza e os meios da sua atividade.
+
+Sem prejuízo da observância dos princípios da transparência, da legalidade e da prossecução do interesse público, importa, por isso, assegurar uma solução que compatibilize aqueles princípios com a proteção de informações sensíveis. Para o efeito, considera-se que o Conselho de Fiscalização do SIRP reúne as condições institucionais e funcionais adequadas para garantir a fiscalização necessária, assegurando simultaneamente a preservação do segredo de Estado.
+
+Foi ouvido o Conselho de Fiscalização do Sistema de Informações da República Portuguesa.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à terceira alteração ao [Decreto-Lei n.º 192/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2015-70262478), de 11 de setembro, alterado pelos Decretos-Leis n.os[85/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2016-105583346), de 21 de dezembro, e [33/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), de 15 de maio, que aprova o Sistema de Normalização Contabilística para as Administrações Públicas.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 192/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2015-70262478), de 11 de setembro
+
+Os artigos 3.º e 10.º do [Decreto-Lei n.º 192/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2015-70262478), de 11 de setembro, passam a ter a seguinte redação:
+
+«Artigo 3.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - [...]
+
+4 - [...]
+
+5 - Aos organismos e entidades previstos na Lei-Quadro do Sistema de Informações da República Portuguesa é aplicável o disposto no artigo 5.º-A e no anexo iv ao presente decreto-lei e que dele faz parte integrante, devendo ser salvaguardado o regime do segredo de Estado, nos termos previstos na [Lei Orgânica n.º 2/2014](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2014-55235777), de 6 de agosto, e na [Lei n.º 30/84](https://diariodarepublica.pt/dr/detalhe/lei/30-1984-373663), de 5 de setembro.
+
+Artigo 10.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - As entidades integradas no Sistema de Informações da República Portuguesa estão dispensadas de apresentar contas legalmente certificadas, ficando sujeitas ao disposto no artigo 5.º-A.»
+
+###### Artigo 3.º — Aditamento ao [Decreto-Lei n.º 192/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2015-70262478), de 11 de setembro
+
+É aditado ao [Decreto-Lei n.º 192/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2015-70262478), de 11 de setembro, o artigo 5.º-A, com a seguinte redação:
+
+«Artigo 5.º-A
+
+Relatório de gestão
+
+1 - As entidades integradas no Sistema de Informações da República Portuguesa elaboram, até ao termo do primeiro semestre do ano seguinte, um relatório de gestão, que inclui demonstração financeira e não financeira, com o conteúdo previsto no anexo iv ao presente decreto-lei, salvaguardando a integridade do segredo de Estado.
+
+2 - O relatório de gestão referido no número anterior tem natureza classificada, é elaborado em suporte papel e com respeito pelos princípios da responsabilidade, transparência e prestação de contas.
+
+3 - O relatório é submetido, anualmente, em suporte papel, ao Conselho de Fiscalização do Sistema de Informações da República Portuguesa para apreciação e fiscalização.»
+
+###### Artigo 4.º — Aditamento do anexo iv ao [Decreto-Lei n.º 192/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2015-70262478), de 11 de setembro
+
+É aditado ao [Decreto-Lei n.º 192/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2015-70262478), de 11 de setembro, o anexo iv, com a redação constante do anexo ao presente decreto-lei e do qual faz parte integrante.
+
+###### Artigo 5.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 9 de julho de 2026. - Luís Montenegro - João Alexandre da Silva Lopes.
+
+Promulgado em 21 de agosto de 2026.
+
+Publique-se.
+
+O Presidente da República, António José Martins Seguro.
+
+Referendado em 24 de agosto de 2026.
+
+O Primeiro-Ministro, Luís Montenegro.
+
+## ANEXO — (a que se refere o artigo 4.º)
+
+«ANEXO IV
+
+(a que se referem o n.º 5 do artigo 3.º e o n.º 1 do artigo 5.º-A)
+
+1 - A elaboração do relatório de gestão, incluindo a demonstração não financeira, quando aplicável, e das contas de exercício, bem como dos demais documentos de prestação de contas deve salvaguardar o regime do segredo de Estado, nos termos previstos na [Lei Orgânica n.º 2/2014](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2014-55235777), de 6 de agosto, e na [Lei n.º 30/84](https://diariodarepublica.pt/dr/detalhe/lei/30-1984-373663), de 5 de setembro.
+
+2 - O relatório de gestão é assinado pelo dirigente máximo da entidade, ainda que já tenha cessado funções, devendo a recusa de assinatura ser justificada no documento a que respeita.
+
+3 - O relatório de gestão contém, designadamente:
+
+a) Enquadramento:
+
+i) Identificação da entidade e dos dirigentes em função no período aplicável;
+
+ii) Enquadramento da atividade relevante desenvolvida no período aplicável;
+
+iii) Descrição dos modelos de controlo interno para prevenção de irregularidades;
+
+b) Identificação dos objetivos definidos e níveis de execução:
+
+i) Objetivos definidos;
+
+ii) Níveis de execução;
+
+iii) Constrangimentos identificados e medidas de controlo aplicadas;
+
+c) Recursos humanos e informação económico-financeira agregada:
+
+i) Evolução global dos recursos humanos e operacionais;
+
+ii) Formação e capacitação dos recursos humanos;
+
+iii) Dotação orçamental, grau e montante executado;
+
+iv) Estrutura da despesa por categoria económica ou funcional;
+
+d) Avaliação de riscos e conformidade normativa:
+
+i) Riscos financeiros e operativos;
+
+ii) Medidas de prevenção aplicadas;
+
+e) Recomendações e correções:
+
+i) Correções efetuadas à informação relatada em anos anteriores e respetiva justificação;
+
+ii) Recomendações do Conselho de Fiscalização do Sistema de Informações da República Portuguesa relativas a períodos anteriores e medidas adotadas na sequência dessas recomendações;
+
+f) Perspetivas e declaração de responsabilidade:
+
+i) Prioridades para o próximo exercício;
+
+ii) Declaração pelo responsável máximo da entidade sobre a veracidade do conteúdo do relatório.»
+
+119949491

@@ -1,0 +1,276 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31990L0658:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990L0658-20071020",
+ "dre_path": null,
+ "source_lastmod": "2007-10-20",
+ "versions": [
+  {
+   "date": "1990-12-17",
+   "future": false,
+   "celex": "31990L0658",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a346fb0bfbdcfb27",
+    "b9f04c56066fc994",
+    "401279931b73fd9e",
+    "8ee09c2419e4124c",
+    "7e873a838f254f48",
+    "58fe3d505a8445af",
+    "f4cd8a04f6f9ce14",
+    "b2d32b3c4ef283ee",
+    "f9aedcff2b3a6697",
+    "05e4233564c592d8",
+    "76e0ccf652138aca",
+    "9eddefd5784539c0",
+    "08c532334b719058"
+   ]
+  },
+  {
+   "date": "1993-04-15",
+   "future": false,
+   "celex": "01990L0658-19930415",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Suprime Artigo 1",
+    "Suprime Artigo 2",
+    "Suprime Artigo 3",
+    "Suprime Artigo 4",
+    "Suprime artigo 3: — -a disposição sob a forma de dois travessões,",
+    "Suprime Artigo 5",
+    "Suprime Artigo 6",
+    "Suprime Artigo 7",
+    "Suprime Artigo 8",
+    "Suprime Artigo 9",
+    "Suprime Artigo 10"
+   ],
+   "fragments": [
+    "38ea789126c912ce",
+    "b3c7f097a7cee642",
+    "9ffeff2448cb72b1",
+    "e7b6e8138b1864d8",
+    "3d26f7273511dea0",
+    "a8fddaf9cc78b8e4",
+    "d5f24574c69caa5a",
+    "b855df69d1ea34cd",
+    "fdb1da1799e50dd8"
+   ]
+  },
+  {
+   "date": "2007-10-20",
+   "future": false,
+   "celex": "01990L0658-20071020",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º"
+   ],
+   "fragments": [
+    "d8538d44ba7cfee2"
+   ]
+  }
+ ],
+ "fragments": {
+  "a346fb0bfbdcfb27": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 90/658/CEE do Conselho, de 4 de Dezembro de 1990, que preve adaptações, devido a unificação da Alemanha, de certas directivas relativas ao reconhecimento mútuo dos diplomas** *Jornal Oficial nº L 353 de 17/12/1990 p. 0073 - 0076 Edição especial finlandesa: Capítulo 6 Fascículo 3 p. 0079 Edição especial sueca: Capítulo 6 Fascículo 3 p. 0079*\n\nDIRECTIVA DO CONSELHO de 4 de Dezembro de 1990 que prevê adaptações, devido à unificação da Alemanha, de certas directivas relativas ao reconhecimento mútuo dos diplomas (90/658/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 49, os nos 1 e 2, primeira e terceira frases, do seu artigo 57 e o seu artigo 66,\n\nTendo em conta a proposta da Comissão(1),\n\nEm cooperação com o Parlamento Europeu(2),\n\nTendo em conta o parecer do Comité Económico e Social(3),\n\nConsiderando que, devido à unificação alemã, é necessário introduzir algumas alterações às Directivas 75/362/CEE(4), 77/452/CEE(5), 78/686/CEE(6), 78/1026/CEE(7) e 80/154/CEE(8), com a última redacção que lhe foi dada pela Directiva 89/594/CEE(9) e pela Directiva 89/595/CEE(10), relativas, respectivamente, ao reconhecimento mútuo dos diplomas, certificados e outros títulos de médico, de enfermeiro responsável por cuidados gerais, de dentista, de veterinário e de parteira, bem como à Directiva 85/433/CEE(11), alterada pela Directiva 85/584/CEE(12), à Directiva 85/384/CEE(13), com a\n\núltima redacção que lhe foi dada pela Directiva 86/17/CEE(14), relativas, respectivamente, ao reconhecimento mútuo dos diplomas, certificados e outros títulos do domínio da farmácia e da arquitectura, e à Directiva 75/363/CEE(15), com a última redacção que lhe foi dada pela Directiva 89/594/CEE, que tem por objectivo a coordenação das disposições legislativas, regulamentares e administrativas relativas às actividades de médico;\n\n()()Considerando que, a partir da unificação alemã, o direito comunitário é plenamente aplicável no território da antiga República Democrática Alema;\n\nConsiderando que se afigura necessário proceder a adaptações das citadas directivas, a fim de tomar em consideração a situação específica existente nesse território;\n\nConsiderando que é necessário, com fundamento nos direitos adquiridos, conceder aos alemães que exerçam as suas actividades profissionais nesse território, com base numa formação aí iniciada antes da unificação e não conforme às regras comunitárias de formação, o benefício do reconhecimento dos seus diplomas, certificados e outros títulos em condições semelhantes às de que beneficiaram os nacionais dos outros Estados-membros no momento da adopção das citadas directivas ou das adesões à Comunidade;\n\nConsiderando que é necessário proteger, no plano comunitário, os direitos adquiridos de profissionais detentores de títulos antigos que deixaram de ser concedidos na sequência de alterações na regulamentação do Estado-membro que os atribuía; que foi introduzida pela Directiva 89/594/CEE uma disposição nesse sentido na maior parte das directivas de reconhecimento mútuo dos diplomas, certificados e outros títulos; que esta directiva pode, sem alterações, ser aplicada aos alemães provenientes dos territórios da antiga República Democrática Alema; que é igualmente conveniente introduzir uma disposição semelhante na Directiva 85/433/CEE, que diz respeito ao reconhecimento mútuo dos diplomas, certificados e outros títulos em farmácia;\n\nConsiderando que a maior parte das disposições específicas relativas ao reconhecimento dos diplomas, certificados e outros títulos emitidos pela antiga República Democrática Alema deixarão de ter razão de ser devido à unificação alemã; que devem, pois, ser revogadas,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "b9f04c56066fc994": {
+   "fragment_id": "Artigo 1",
+   "type": "artigo",
+   "heading": "Artigo 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1\n\nA Directiva 75/362/CEE é alterada do seguinte modo:\n\n1.É suprimido o ponto 3, alínea a) («na Alemanha») do artigo 3\n\n2.É aditado o seguinte artigo:\n\n«Artigo 9A\n\n1. Os estados-membros que não a Alemanha reconhecerão como prova suficiente, no que respeita aos nacionais dos Estados-membros cujos diplomas, certificados e outros títulos de médico sancionem uma formação adquirida nos territórios da antiga República Democrática Alema e que não satisfaçam o conjunto de exigências mínimas de formação previstas no artigo 1 da Directiva 75/363/CEE, os referidos diplomas, certificados e outros títulos:\n\n-se sancionarem uma formação iniciada antes da unificação alemã,\n\n-se facultarem o exercício das actividades de médico em todo o território da Alemanha nas mesmas condições que os títulos emitidos pelas autoridades competentes alemãs referidos na alínea a), pontos 1 e 2, do artigo 3, e\n\n-se acompanhados de um atestado passado pelas autoridades competentes alemãs comprovativo de que aqueles nacionais se dedicaram efectiva e licitamente às actividades em causa na Alemanha durante, pelo menos, três anos consecutivos dos cinco anos que precederem a emissão do atestado.\n\n2. Os Estados-membros que não a Alemanha reconhecerão como prova suficiente, no que respeita aos nacionais de Estados-membros cujos diplomas, certificados e outros títulos de médico especialista sancionem uma formação adquirida nos territórios da antiga República Democrática Alema e que não satisfaçam as exigências mínimas de formação previstas nos artigos 2 a 5 da Directiva 75/363/CEE, os diplomas, certificados e outros títulos:\n\n-se sancionarem uma formação iniciada antes do termo do prazo estabelecido no no 1, segundo parágrafo, do artigo 9 da Directiva 75/363/CEE, e\n\n-se permitirem o exercício como especialista da actividade em causa em todo o território da Alemanha nas mesmas condições que os títulos aí emitidos pelas autoridades competentes alemãs a que se referem os artigos 5 e 7\n\nPodem, todavia, exigir que esses diplomas, certificados e outros títulos sejam acompanhados de um atestado passado pelas autoridades ou pelos organismos competentes alemães, comprovativo do exercício, como especialista, da actividade em causa durante um período equivalente ao dobro da diferença existente entre o período de formação especializada no território alemão e o período mínimo de formação estabelecido na Directiva 75/363/CEE, quando aqueles não correspondam ao período mínimo de formação estabelecido nos artigos 4 e 5 da Directiva 75/363/CEE.»."
+  },
+  "401279931b73fd9e": {
+   "fragment_id": "Artigo 2",
+   "type": "artigo",
+   "heading": "Artigo 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2\n\nAo no 1 do artigo 9 da Directiva 75/363/CEE é aditado um segundo parágrafo, com a seguinte redacção:\n\n«Todavia, relativamente ao território da antiga República Democrática Alema, a Alemanha tomará as medidas necessárias à aplicação dos artigos 2 a 5, no prazo de 18 meses a contar da unificação.»."
+  },
+  "8ee09c2419e4124c": {
+   "fragment_id": "Artigo 3",
+   "type": "artigo",
+   "heading": "Artigo 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3\n\nA Directiva 77/452/CEE é alterada do seguinte modo:\n\n1.É suprimido o segundo travessão («Alemanha») da alínea a) do artigo 3\n\n2.É aditado o seguinte artigo:\n\n«Artigo 4A\n\nOs Estados-membros que não a Alemanha reconhecerão como prova suficiente, no que respeita aos nacionais dos Estados-membros cujos diplomas, certificados e outros títulos de enfermeiro responsável por cuidados gerais sancionem uma formação adquirida no território da antiga República Democrática Alema e que não satisfaçam o conjunto de exigências mínimas de formação previstas no artigo 1 da Directiva 77/453/CEE, os referidos diplomas, certificados e outros títulos:\n\n-se sancionarem uma formação iniciada antes da unificação alemã,\n\n-se facultarem o exercício das actividades de enfermeiro responsável por cuidados gerais em todo o território da Alemanha nas mesmas condições que os títulos emitidos pelas autoridades competentes alemãs a que se refere a alínea a) do artigo 3, e\n\n-se acompanhados de um atestado passado pelas autoridades competentes alemãs comprovativo de que aqueles nacionais se dedicaram efectiva e licitamente às actividades de enfermeiro responsável por cuidados gerais, na Alemanha, durante, pelo menos, três dos cinco anos que precederem a emissão do atestado. Tais actividades devem ter incluído a responsabilidade total pela programação, organização e administração dos cuidados de enfermagem ao doente.»."
+  },
+  "7e873a838f254f48": {
+   "fragment_id": "Artigo 4",
+   "type": "artigo",
+   "heading": "Artigo 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4\n\nA Directiva 78/686/CEE é alterada do seguinte modo:\n\n1.São suprimidos, na alínea a) («Alemanha») do"
+  },
+  "58fe3d505a8445af": {
+   "fragment_id": "artigo 3: — -a disposição sob a forma de dois travessões,",
+   "type": "artigo",
+   "heading": "artigo 3: — -a disposição sob a forma de dois travessões,",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### artigo 3: — -a disposição sob a forma de dois travessões,\n\n-o texto do ponto 2.\n\n2.É aditado o seguinte artigo:\n\n«Artigo 7A\n\n1. Os Estados-membros que não a Alemanha reconhecerão como prova suficiente, no que respeita aos nacionais dos Estados-membros cujos diplomas, certificados e outros títulos de dentista sancionem uma formação adquirida no território da antiga República Democrática Alema e que não satisfaçam o conjunto de exigências mínimas de formação previstas no artigo 1 da Directiva 78/687/CEE, os referidos diplomas, certificados e outros títulos:\n\n-se sancionarem uma formação iniciada antes da unificação alemã,\n\n-se facultarem o exercício das actividades de dentista em todo o território da Alemanha nas mesmas condições que os títulos emitidos pelas autoridades competentes alemãs a que se refere a alínea a) do artigo 3, e\n\n-se acompanhados de um atestado passado pelas autoridades competentes alemãs comprovativo de que aqueles nacionais se dedicaram efectiva e licitamente às actividades em causa na Alemanha durante, pelo menos, três anos consecutivos dos cinco anos que precederem a emissão do atestado.\n\n2. Os Estados-membros que não a Alemanha reconhecerão como prova suficiente, no que respeita aos nacionais dos Estados-membros cujos diplomas, certificados e outros títulos de dentista especialista que sancionem uma formação adquirida no território da antiga República Democrática Alema e que não satisfaçam as exigências mínimas de formação previstas nos artigos 1 e 3 da Directiva 78/687/CEE, os diplomas, certificados e outros títulos:\n\n-se sancionarem um formação iniciada antes da unificação alemã, e\n\n-se permitirem o exercício, como dentista especialista, da actividade em causa em todo o território da Alemanha nas mesmas condições que os títulos aí concedidos pelas autoridades alemãs competentes referidos nos nos 1 e 2 do artigo 5\n\nPodem, todavia, exigir que esses diplomas, certificados ou outros títulos sejam acompanhados de um atestado passado pelas autoridades ou pelos organismos competentes alemães, comprovativo do exercício, como dentista especialista, da actividade em causa durante um período equivalente ao dobro da diferença existente entre o período de formação especializada no território alemão e o período mínimo de formação estabelecido na Directiva 78/687/CEE, quando aqueles não correspondam ao período mínimo de formação estabelecido no artigo 2 da Directiva 78/687/CEE.»."
+  },
+  "f4cd8a04f6f9ce14": {
+   "fragment_id": "Artigo 5",
+   "type": "artigo",
+   "heading": "Artigo 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5\n\nA Directiva 78/1026/CEE é alterada do seguinte modo:\n\n1.São suprimidos, na alínea a) («Alemanha») do artigo 3:\n\n-a disposição sob a forma de dois travessões,\n\n-o texto do ponto 2.\n\n2.É aditado o seguinte artigo:\n\n«Artigo 4A\n\nOs Estados-membros que não a Alemanha reconhecerão como prova suficiente, no que respeita aos nacionais dos Estados-membros cujos diplomas, certificados e outros títulos de veterinário sancionem uma formação adquirida no território da antiga República Democrática Alema e que não satisfaçam o conjunto de exigências mínimas de formação previstas no artigo 1 da Directiva 78/1027/CEE, os referidos diplomas, certificados e outros títulos:\n\n-se sancionarem uma formação iniciada antes da unificação alemã,\n\n-se facultarem o exercício das actividades de veterinário em todo o território da Alemanha nas mesmas condições que os títulos emitidos pelas autoridades competentes alemãs a que se refere a alínea a) do artigo 3, e\n\n-se acompanhados de um atestado passado pelas autoridades competentes alemãs comprovativo de que aqueles nacionais se dedicaram efectiva e licitamente às actividades em causa na Alemanha durante, pelo menos, três anos consecutivos dos cinco anos que precederem a emissão do atestado.»."
+  },
+  "b2d32b3c4ef283ee": {
+   "fragment_id": "Artigo 6",
+   "type": "artigo",
+   "heading": "Artigo 6",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6\n\nA Directiva 80/154/CEE é alterada do seguinte modo:\n\n1.São suprimidos, na alínea a) («Alemanha») do"
+  },
+  "f9aedcff2b3a6697": {
+   "fragment_id": "artigo 3: — -a disposição sob a forma de dois travessões,",
+   "type": "artigo",
+   "heading": "artigo 3: — -a disposição sob a forma de dois travessões,",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### artigo 3: — -a disposição sob a forma de dois travessões,\n\n-o texto do segundo travessão.\n\n2.É aditado o seguinte artigo:\n\n«Artigo 5A\n\n1. Os Estados-membros que não a Alemanha reconhecerão como prova suficiente, no que respeita aos nacionais dos Estados-membros cujos diplomas, certificados e outros títulos de parteira sancionem uma formação adquirida no território da antiga República Democrática Alema e que não satisfaçam o conjunto de exigências mínimas de formação previstas no artigo 1 da Directiva 80/155/CEE, os referidos diplomas, certificados e outros títulos:\n\n-se sancionarem uma formação iniciada antes da unificação alemã,\n\n-se facultarem o exercício das actividades de parteira em todo o território da Alemanha nas mesmas condições que os títulos emitidos pelas autoridades competentes alemãs a que se refere a alínea a) do artigo 3, e\n\n-se acompanhados de um atestado passado pelas autoridades competentes alemãs comprovativo de que aqueles nacionais se dedicaram efectiva e licitamente às actividades em causa na Alemanha durante, pelo menos, três anos consecutivos dos cinco anos que precederem a emissão do atestado.\n\n2. Os Estados-membros que não a Alemanha reconhecerão como prova suficiente, no que respeita aos nacionais dos Estados-membros cujos diplomas, certificados e outros títulos de parteira sancionem uma formação adquirida no território da antiga República Democrática Alema e que não satisfaçam o conjunto de exigências mínimas de formação previstas no artigo 1 da Directiva 80/155/CEE, mas que por força do artigo 2, só podem ser reconhecidos se complementados pela prática profissional referida no artigo 4, os referidos diplomas, certificados e outros títulos:\n\n-se sancionarem uma formação iniciada antes da unificação alemã, e\n\n-se acompanhados de um atestado passado pelas autoridades competentes alemãs comprovativo de que aqueles nacionais se dedicaram efectiva e licitamente às actividades em causa na Alemanha durante, pelo menos, dois dos cinco anos que precederem a emissão do atestado.»."
+  },
+  "05e4233564c592d8": {
+   "fragment_id": "Artigo 7",
+   "type": "artigo",
+   "heading": "Artigo 7",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7\n\nA Directiva 85/433/CEE é alterada do seguinte modo:\n\n1.São suprimidos, na alínea c) do artigo 4 («Alemanha»):\n\n-a disposição sob a forma de dois travessões,\n\n-o texto do ponto 2.\n\n2.No artigo 6:\n\n-o texto actual passa a ser o no 1,\n\n-é aditado o seguinte número:\n\n«2. Os diplomas, certificados e outros títulos universitários ou equivalentes em farmácia, concedidos pelos Estados-membros aos nacionais dos mesmos e que satisfaçam o conjunto das exigências mínimas de formação previstas no artigo 2 da Directiva 85/432/CEE, mas que não correspondam às designações constantes do artigo 4, são equiparados, para fins da aplicação da directiva, aos diplomas visados pelo presente artigo, se acompanhados de um atestado comprovativo de que sancionam uma formação conforme com as disposições da Directiva 85/432/CEE, referidas no artigo 2 da presente directiva, e são equiparados pelo Estado-membro que os concedeu aos diplomas cujas designações constam do artigo 4 da presente directiva.».\n\n3.É aditado o seguinte artigo:\n\n«Artigo 6A\n\nOs dipolmas, certificados e outros títulos universitários ou equivalentes em farmácia que sancionem uma formação adquirida pelos nacionais dos Estados-membros no território da antiga República Democrática Alema e que não satisfaçam o conjunto de exigências mínimas de formação previstas no artigo 2 da Directiva 85/432/CEE serão equiparados aos diplomas que satisfazem aquelas exigências:\n\n-se sancionarem uma formação iniciada antes da unificação alemã,\n\n-se facultarem o exercício das actividades de farmacêutico em todo o território da Alemanha nas mesmas condições que os títulos emitidos pelas autoridades alemãs competentes referidos na alínea c) do artigo 4, e\n\n-se acompanhados de um atestado comprovativo de que aqueles titulares se dedicaram efectiva e licitamente na Alemanha, durante, pelo menos, três anos consectutivos dos cinco anos que precederam a emissão do atestado, a uma das actividades referidas no no 2 do artigo 1 da Directiva 85/432/CEE, na medida em que essa actividade se encontre regulada no referido Estado-membro.»."
+  },
+  "76e0ccf652138aca": {
+   "fragment_id": "Artigo 8",
+   "type": "artigo",
+   "heading": "Artigo 8",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8\n\nÉ revogado o artigo 6 da Directiva 85/384/CEE."
+  },
+  "9eddefd5784539c0": {
+   "fragment_id": "Artigo 9",
+   "type": "artigo",
+   "heading": "Artigo 9",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9\n\nOs Estados-membros tomarão as medidas necessárias para darem cumprimento à presente directiva, o mais tardar até 1 de Julho de 1991. Desse facto informarão imediatamente a Comissão.\n\nSempre que os Estados-membros adoptarem tais disposições, estas devem incluir uma referênica à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros."
+  },
+  "08c532334b719058": {
+   "fragment_id": "Artigo 10",
+   "type": "artigo",
+   "heading": "Artigo 10",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 4 de Dezembro de 1990.\n\nPelo ConselhoO PresidenteG. DE MICHELIS\n\n(1)JO no L 266 de 28. 9. 1990, p. 12, alterada em 28 de Novembro de 1990.\n\n(2)Parecer emitido em 24 de Outubro de 1990 (ainda não publicado no Jornal Oficial) e decisão de 21 de Novembro de 1990 (ainda não publicada no Jornal Oficial).\n\n(3)Parecer emitido em 20 de Novembro de 1990 (ainda não publicado no Jornal Oficial).\n\n(4)JO no L 167 de 30. 6. 1975, p. 1.\n\n(5)JO no L 176 de 15. 7. 1977. p. 1.\n\n(6)JO no L 233 de 24. 8. 1978, p. 1.\n\n(7)JO no L 362 de 23. 12. 1978, p. 1.\n\n(8)JO no L 33 de 11. 2. 1980, p. 1.\n\n(9)JO no L 341 de 23. 11. 1989, p. 19.\n\n(10)JO no L 341 de 23. 11. 1989, p. 30.\n\n(11)JO no L 253 de 24. 9. 1985, p. 37.\n\n(12)JO no L 372 de 31. 12. 1985, p. 42.\n\n(13)JO no L 223 de 21. 8. 1985, p. 15.\n\n(14)JO no L 27 de 1. 2. 1986, p. 71.\n\n(15)JO no L 167 de 30. 6. 1975, p. 14."
+  },
+  "38ea789126c912ce": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1990L0658 — PT — 15.04.1993 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990L0658:PT:NOT) [DIRECTIVA DO CONSELHO de 4 de Dezembro de 1990 que prevê adaptações, devido à unificação da Alemanha, de certas directivas relativas ao reconhecimento mútuo dos diplomas (90/658/CEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990L0658:PT:NOT) (JO L 353, 17.12.1990, p.73)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993L0016:PT:NOT) | [Directiva 93/16/CEE do Conselho de 5 de Abril de 1993](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993L0016:PT:NOT) | L 165 | 1 | 7.7.1993 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990L0658:PT:NOT)\n\nDIRECTIVA DO CONSELHO\n\nde 4 de Dezembro de 1990\n\nque prevê adaptações, devido à unificação da Alemanha, de certas directivas relativas ao reconhecimento mútuo dos diplomas\n\n(90/658/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 49.o, os n.os 1 e 2, primeira e terceira frases, do seu artigo 57.o e o seu artigo 66.o,\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#E0001)),\n\nEm cooperação com o Parlamento Europeu ([2](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([3](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#E0003)),\n\nConsiderando que, devido à unificação alemã, é necessário introduzir algumas alterações às Directivas 75/362/CEE ([4](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#E0004)), 77/452/CEE ([5](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#E0005)), 78/686/CEE ([6](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#E0006)), 78/1026/CEE ([7](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#E0007)) e 80/154/CEE ([8](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#E0008)), com a última redacção que lhe foi dada pela Directiva 89/594/CEE ([9](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#E0009)) e pela Directiva 89/595/CEE ([10](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#E0010)), relativas, respectivamente, ao reconhecimento mútuo dos diplomas, certificados e outros títulos de médico, de enfermeiro responsável por cuidados gerais, de dentista, de veterinário e de parteira, bem como à Directiva 85/433/CEE ([11](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#E0011)), alterada pela Directiva 85/584/CEE ([12](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#E0012)), à Directiva 85/384/CEE ([13](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#E0013)), com a última redacção que lhe foi dada pela Directiva 86/17/CEE ([14](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#E0014)), relativas, respectivamente, ao reconhecimento mútuo dos diplomas, certificados e outros títulos do domínio da farmácia e da arquitectura, e à Directiva 75/363/CEE ([15](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#E0015)), com a última redacção que lhe foi dada pela Directiva 89/594/CEE, que tem por objectivo a coordenação das disposições legislativas, regulamentares e administrativas relativas às actividades de médico;\n\nConsiderando que, a partir da unificação alemã, o direito comunitário é plenamente aplicável no território da antiga República Democrática Alemã;\n\nConsiderando que se afigura necessário proceder a adaptações das citadas directivas, a fim de tomar em consideração a situação específica existente nesse território;\n\nConsiderando que é necessário, com fundamento nos direitos adquiridos, conceder aos alemães que exerçam as suas actividades profissionais nesse território, com base numa formação aí iniciada antes da unificação e não conforme às regras comunitárias de formação, o benefício do reconhecimento dos seus diplomas, certificados e outros títulos em condições semelhantes às de que beneficiaram os nacionais dos outros Estados-membros no momento da adopção das citadas directivas ou das adesões à Comunidade;\n\nConsiderando que é necessário proteger, no plano comunitário, os direitos adquiridos de profissionais detentores de títulos antigos que deixaram de ser concedidos na sequência de alterações na regulamentação do Estado-membro que os atribuía; que foi introduzida pela Directiva 89/594/CEE uma disposição nesse sentido na maior parte das directivas de reconhecimento mútuo dos diplomas, certificados e outros títulos; que esta directiva pode, sem alterações, ser aplicada aos alemães provenientes dos territórios da antiga República Democrática Alemã; que é igualmente conveniente introduzir uma disposição semelhante na Directiva 85/433/CEE, que diz respeito ao reconhecimento mútuo dos diplomas, certificados e outros títulos em farmácia;\n\nConsiderando que a maior parte das disposições específicas relativas ao reconhecimento dos diplomas, certificados e outros títulos emitidos pela antiga República Democrática Alemã deixarão de ter razão de ser devido à unificação alemã; que devem, pois, ser revogadas,\n\nADOPTOU A PRESENTE DIRECTIVA:\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993L0016:PT:NOT) —————\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990L0658:PT:NOT)"
+  },
+  "b3c7f097a7cee642": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA Directiva 77/452/CEE é alterada do seguinte modo:\n\n1. É suprimido o segundo travessão («Alemanha») da alínea a) do artigo 3.o\n\n2. É aditado o seguinte artigo:\n\n«Artigo 4.oA\n\nOs Estados-membros que não a Alemanha reconhecerão como prova suficiente, no que respeita aos nacionais dos Estados-membros cujos diplomas, certificados e outros títulos de enfermeiro responsável por cuidados gerais sancionem uma formação adquirida no território da antiga República Democrática Alemã e que não satisfaçam o conjunto de exigências mínimas de formação previstas no artigo 1.o da Directiva 77/453/CEE, os referidos diplomas, certificados e outros títulos:\n\n— se sancionarem uma formação iniciada antes da unificação alemã,\n\n— se facultarem o exercício das actividades de enfermeiro responsável por cuidados gerais em todo o território da Alemanha nas mesmas condições que os títulos emitidos pelas autoridades competentes alemãs a que se refere a alínea a) do artigo 3.o, e\n\n— se acompanhados de um atestado passado pelas autoridades competentes alemãs comprovativo de que aqueles nacionais se dedicaram efectiva e licitamente às actividades de enfermeiro responsável por cuidados gerais, na Alemanha, durante, pelo menos, três dos cinco anos que precederem a emissão do atestado. Tais actividades devem ter incluído a responsabilidade total pela programação, organização e administração dos cuidados de enfermagem ao doente.»\n\n."
+  },
+  "9ffeff2448cb72b1": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA Directiva 78/686/CEE é alterada do seguinte modo:\n\n1. São suprimidos, na alínea a) («Alemanha») do artigo 3.o:\n\n— a disposição sob a forma de dois travessões,\n\n— o texto do ponto 2.\n\n2. É aditado o seguinte artigo:\n\n«Artigo 7.oA\n\n1. Os Estados-membros que não a Alemanha reconhecerão como prova suficiente, no que respeita aos nacionais dos Estados-membros cujos diplomas, certificados e outros títulos de dentista sancionem uma formação adquirida no território da antiga República Democrática Alemã e que não satisfaçam o conjunto de exigências mínimas de formação previstas no artigo 1.o da Directiva 78/687/CEE, os referidos diplomas, certificados e outros títulos:\n\n— se sancionarem uma formação iniciada antes da unificação alemã,\n\n— se facultarem o exercício das actividades de dentista em todo o território da Alemanha nas mesmas condições que os títulos emitidos pelas autoridades competentes alemãs a que se refere a alínea a) do artigo 3.o, e\n\n— se acompanhados de um atestado passado pelas autoridades competentes alemãs comprovativo de que aqueles nacionais se dedicaram efectiva e licitamente às actividades em causa na Alemanha durante, pelo menos, três anos consecutivos dos cinco anos que precederem a emissão do atestado.\n\n2. Os Estados-membros que não a Alemanha reconhecerão como prova suficiente, no que respeita aos nacionais dos Estados-membros cujos diplomas, certificados e outros títulos de dentista especialista que sancionem uma formação adquirida no território da antiga República Democrática Alemã e que não satisfaçam as exigências mínimas de formação previstas nos artigos 1.o e 3.o da Directiva 78/687/CEE, os diplomas, certificados e outros títulos:\n\n— se sancionarem um formação iniciada antes da unificação alemã, e\n\n— se permitirem o exercício, como dentista especialista, da actividade em causa em todo o território da Alemanha nas mesmas condições que os títulos aí concedidos pelas autoridades alemãs competentes referidos nos n.os 1 e 2 do artigo 5.o\n\nPodem, todavia, exigir que esses diplomas, certificados ou outros títulos sejam acompanhados de um atestado passado pelas autoridades ou pelos organismos competentes alemães, comprovativo do exercício, como dentista especialista, da actividade em causa durante um período equivalente ao dobro da diferença existente entre o período de formação especializada no território alemão e o período mínimo de formação estabelecido na Directiva 78/687/CEE, quando aqueles não correspondam ao período mínimo de formação estabelecido no artigo 2.o da Directiva 78/687/CEE.»\n\n."
+  },
+  "e7b6e8138b1864d8": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA Directiva 78/1026/CEE é alterada do seguinte modo:\n\n1. São suprimidos, na alínea a) («Alemanha») do artigo 3.o:\n\n— a disposição sob a forma de dois travessões,\n\n— o texto do ponto 2.\n\n2. É aditado o seguinte artigo:\n\n«Artigo 4.oA\n\nOs Estados-membros que não a Alemanha reconhecerão como prova suficiente, no que respeita aos nacionais dos Estados-membros cujos diplomas, certificados e outros títulos de veterinário sancionem uma formação adquirida no território da antiga República Democrática Alemã e que não satisfaçam o conjunto de exigências mínimas de formação previstas no artigo 1.o da Directiva 78/1027/CEE, os referidos diplomas, certificados e outros títulos:\n\n— se sancionarem uma formação iniciada antes da unificação alemã,\n\n— se facultarem o exercício das actividades de veterinário em todo o território da Alemanha nas mesmas condições que os títulos emitidos pelas autoridades competentes alemãs a que se refere a alínea a) do artigo 3.o, e\n\n— se acompanhados de um atestado passado pelas autoridades competentes alemãs comprovativo de que aqueles nacionais se dedicaram efectiva e licitamente às actividades em causa na Alemanha durante, pelo menos, três anos consecutivos dos cinco anos que precederem a emissão do atestado.»\n\n."
+  },
+  "3d26f7273511dea0": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA Directiva 80/154/CEE é alterada do seguinte modo:\n\n1. São suprimidos, na alínea a) («Alemanha») do artigo 3.o:\n\n— a disposição sob a forma de dois travessões,\n\n— o texto do segundo travessão.\n\n2. É aditado o seguinte artigo:\n\n«Artigo 5.oA\n\n1. Os Estados-membros que não a Alemanha reconhecerão como prova suficiente, no que respeita aos nacionais dos Estados-membros cujos diplomas, certificados e outros títulos de parteira sancionem uma formação adquirida no território da antiga República Democrática Alemã e que não satisfaçam o conjunto de exigências mínimas de formação previstas no artigo 1.o da Directiva 80/155/CEE, os referidos diplomas, certificados e outros títulos:\n\n— se sancionarem uma formação iniciada antes da unificação alemã,\n\n— se facultarem o exercício das actividades de parteira em todo o território da Alemanha nas mesmas condições que os títulos emitidos pelas autoridades competentes alemãs a que se refere a alínea a) do artigo 3.o, e\n\n— se acompanhados de um atestado passado pelas autoridades competentes alemãs comprovativo de que aqueles nacionais se dedicaram efectiva e licitamente às actividades em causa na Alemanha durante, pelo menos, três anos consecutivos dos cinco anos que precederem a emissão do atestado.\n\n2. Os Estados-membros que não a Alemanha reconhecerão como prova suficiente, no que respeita aos nacionais dos Estados-membros cujos diplomas, certificados e outros títulos de parteira sancionem uma formação adquirida no território da antiga República Democrática Alemã e que não satisfaçam o conjunto de exigências mínimas de formação previstas no artigo 1.o da Directiva 80/155/CEE, mas que por força do artigo 2.o, só podem ser reconhecidos se complementados pela prática profissional referida no artigo 4.o, os referidos diplomas, certificados e outros títulos:\n\n— se sancionarem uma formação iniciada antes da unificação alemã, e\n\n— se acompanhados de um atestado passado pelas autoridades competentes alemãs comprovativo de que aqueles nacionais se dedicaram efectiva e licitamente às actividades em causa na Alemanha durante, pelo menos, dois dos cinco anos que precederem a emissão do atestado.»\n\n."
+  },
+  "a8fddaf9cc78b8e4": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA Directiva 85/433/CEE é alterada do seguinte modo:\n\n1. São suprimidos, na alínea c) do artigo 4.o («Alemanha»):\n\n— a disposição sob a forma de dois travessões,\n\n— o texto do ponto 2.\n\n2. No artigo 6.o:\n\n— o texto actual passa a ser o n.o 1,\n\n— é aditado o seguinte número:\n\n«2. Os diplomas, certificados e outros títulos universitários ou equivalentes em farmácia, concedidos pelos Estados-membros aos nacionais dos mesmos e que satisfaçam o conjunto das exigências mínimas de formação previstas no artigo 2.o da Directiva 85/432/CEE, mas que não correspondam às designações constantes do artigo 4.o, são equiparados, para fins da aplicação da directiva, aos diplomas visados pelo presente artigo, se acompanhados de um atestado comprovativo de que sancionam uma formação conforme com as disposições da Directiva 85/432/CEE, referidas no artigo 2.o da presente directiva, e são equiparados pelo Estado-membro que os concedeu aos diplomas cujas designações constam do artigo 4.o da presente directiva.»\n\n—.\n\n3. É aditado o seguinte artigo:\n\n«Artigo 6.oA\n\nOs dipolmas, certificados e outros títulos universitários ou equivalentes em farmácia que sancionem uma formação adquirida pelos nacionais dos Estados-membros no território da antiga República Democrática Alemã e que não satisfaçam o conjunto de exigências mínimas de formação previstas no artigo 2.o da Directiva 85/432/CEE serão equiparados aos diplomas que satisfazem aquelas exigências:\n\n— se sancionarem uma formação iniciada antes da unificação alemã,\n\n— se facultarem o exercício das actividades de farmacêutico em todo o território da Alemanha nas mesmas condições que os títulos emitidos pelas autoridades alemãs competentes referidos na alínea c) do artigo 4.o, e\n\n— se acompanhados de um atestado comprovativo de que aqueles titulares se dedicaram efectiva e licitamente na Alemanha, durante, pelo menos, três anos consectutivos dos cinco anos que precederam a emissão do atestado, a uma das actividades referidas no n.o 2 do artigo 1.o da Directiva 85/432/CEE, na medida em que essa actividade se encontre regulada no referido Estado-membro.»\n\n."
+  },
+  "d5f24574c69caa5a": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nÉ revogado o artigo 6.o da Directiva 85/384/CEE."
+  },
+  "b855df69d1ea34cd": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-membros tomarão as medidas necessárias para darem cumprimento à presente directiva, o mais tardar até 1 de Julho de 1991. Desse facto informarão imediatamente a Comissão.\n\nSempre que os Estados-membros adoptarem tais disposições, estas devem incluir uma referênica à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros."
+  },
+  "fdb1da1799e50dd8": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Estados-membros são os destinatários da presente directiva.\n\n([1](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#src.E0001)) JO n.o L 266 de 28. 9. 1990, p. 12, alterada em 28 de Novembro de 1990.\n\n([2](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#src.E0002)) Parecer emitido em 24 de Outubro de 1990 (ainda não publicado no Jornal Oficial) e decisão de 21 de Novembro de 1990 (ainda não publicada no Jornal Oficial).\n\n([3](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#src.E0003)) Parecer emitido em 20 de Novembro de 1990 (ainda não publicado no Jornal Oficial).\n\n([4](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#src.E0004)) JO n.o L 167 de 30. 6. 1975, p. 1.\n\n([5](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#src.E0005)) JO n.o L 176 de 15. 7. 1977. p. 1.\n\n([6](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#src.E0006)) JO n.o L 233 de 24. 8. 1978, p. 1.\n\n([7](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#src.E0007)) JO n.o L 362 de 23. 12. 1978, p. 1.\n\n([8](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#src.E0008)) JO n.o L 33 de 11. 2. 1980, p. 1.\n\n([9](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#src.E0009)) JO n.o L 341 de 23. 11. 1989, p. 19.\n\n([10](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#src.E0010)) JO n.o L 341 de 23. 11. 1989, p. 30.\n\n([11](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#src.E0011)) JO n.o L 253 de 24. 9. 1985, p. 37.\n\n([12](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#src.E0012)) JO n.o L 372 de 31. 12. 1985, p. 42.\n\n([13](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#src.E0013)) JO n.o L 223 de 21. 8. 1985, p. 15.\n\n([14](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#src.E0014)) JO n.o L 27 de 1. 2. 1986, p. 71.\n\n([15](http://publications.europa.eu/resource/cellar/0e1e4ab8-9556-4a07-bc70-16d6af5118bf.0018.02/DOC_1#src.E0015)) JO n.o L 167 de 30. 6. 1975, p. 14."
+  },
+  "d8538d44ba7cfee2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1990L0658 — PT — 20.10.2007 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31990L0658) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31990L0658) [de 4 de Dezembro de 1990](http://publications.europa.eu/resource/celex/31990L0658) [que prevê adaptações, devido à unificação da Alemanha, de certas directivas relativas ao reconhecimento mútuo dos diplomas](http://publications.europa.eu/resource/celex/31990L0658) [(90/658/CEE)](http://publications.europa.eu/resource/celex/31990L0658) (JO L 353, 17.12.1990, p.73)\n\n**revogado por:**\n\n- [Directiva 2005/36/CE do Parlamento Europeu e do Conselho de 7 de Setembro de 2005](http://publications.europa.eu/resource/celex/32005L0036) — L 255 — 22 — 30.9.2005"
+  }
+ }
+}

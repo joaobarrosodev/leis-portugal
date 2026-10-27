@@ -1,0 +1,341 @@
+---
+schema_version: '1.0'
+id: pt:dre:337067:por
+title: Portaria n.º 394/75
+short_title: null
+summary: Determina que continue livre a compra e venda de lã de produção nacional
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios para o Planeamento e Coordenação Económica, das Finanças, da Indústria e Tecnologia e da Agricultura e Pescas
+  - Secretarias de Estado do Abastecimento e Preços, das Finanças, da Indústria e Tecnologia e do Fomento Agrário
+proposing_entity: null
+official_number: 394/75
+official_date: null
+publication_date: '1975-06-27'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 146/1975, Série I de 1975-06-27
+  number: '146'
+  series: I
+  supplement: null
+  pages: 892 - 894
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/06/14600/08920894.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '337067'
+  dre_path: /dr/detalhe/portaria/394-1975-337067
+  internal: pt:dre:337067:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/394-1975-337067
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/394-1975-337067
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:45:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: eb872b0a384e7791ac5c300f387dc59fa26374ae682b2d0474e55997d22534bb
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:45:39Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comércio
+- Controlo de Qualidade
+- Definição de Competências
+- Junta Nacional dos Produtos Pecuários
+relationships:
+- type: amended_by
+  target: pt:dre:495686:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:409681:por
+  label: Mantida em vigor para a campanha lanar de 1976-1977 pelo(a) Portaria n.º 618/76 - Diário da República n.º 243/1976,
+    Série I de 1976-10-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/618-1976-409681
+  date: '1976-10-16'
+- type: amended_by
+  target: pt:dre:256204:por
+  label: Mantida em vigor para a campanha lanar de 1977-1978 o presente diploma, mantida em vigor pela Port 618/76 de 15-Out,
+    pelo(a) Portaria n.º 528/77 - Diário da República n.º 190/1977, Série I de 1977-08-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/528-1977-256204
+  date: '1977-08-18'
+- type: amended_by
+  target: pt:dre:297434:por
+  label: Determinada a manutenção em vigor do presente diploma para a campanha lanar 1978-1979 pelo(a) Portaria n.º 390/78
+    - Diário da República n.º 165/1978, Série I de 1978-07-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/390-1978-297434
+  date: '1978-07-20'
+- type: amended_by
+  target: pt:dre:381978:por
+  label: "Mantida em vigor, para a campanha lanar de 1979-1980, pelo presente diploma, mantida em vigor pela Portaria 390/78,\
+    \ de 20 de Julho, pela PORT.358/79.21.07.1979.MFP, DR.IS [167] de 21.07.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/358-1979-381978
+  date: '1979-07-21'
+- type: amended_by
+  target: pt:dre:471763:por
+  label: "Mantida em vigor para a campanha lanar de 1980-1981 com a manutenção em vigor efectuada pela Portaria 358/79, de\
+    \ 21 de Julho, pela PORT.378/80.07.07.1980.MFP, DR.IS [155] de 07.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/378-1980-471763
+  date: '1980-07-07'
+- type: amended_by
+  target: pt:dre:580602:por
+  label: "Mantido em vigor o disposto no presente diploma, com a manutenção em vigor efectuada pela Portaria 378/80, de 08\
+    \ de Julho para a campanha lanar de 1981-1982 pela PORT.591/81.14.07.1981.MFP, DR.IS [159] de 14.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/591-1981-580602
+  date: '1981-07-14'
+- type: cites
+  target: pt:dre:202023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623395:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:495686:por
+  label: "Revogada pela PORT.798/87.16.09.1987.MF, DR.IS [213] de 16.09.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/798-1987-495686
+  date: '1987-09-16'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:45:39Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 394/75
+
+de 27 de Junho
+
+A conjuntura dos mercados nacional e mundial das lãs não se encontra favorável a este sector da economia agrária, o que levou os países grandes produtores a manter o sistema de «preços de garantia» à produção, não só para incentivar o interesse pela exploração ovina, mas também para se evitarem quebras ruinosas nas cotações do têxtil lanar, com graves repercussões na economia agrária desses países.
+
+Atentas as razões apontadas e tendo em atenção que o regime da passada campanha lanar, regulada pela [Portaria n.º 402/74](https://diariodarepublica.pt/dr/detalhe/portaria/402-1974-476515), de 1 de Julho, se revelou eficiente quanto aos fins que se pretendia atingir, julga-se conveniente não introduzir alterações substanciais para a campanha em curso, assegurando-se o apoio técnico nos moldes em que ele tem sido prestado.
+
+Considerando, porém, que as cotações das lãs no mercado mundial para a campanha de 1975-1976 se apresentam num nível mais baixo do que o observado nas campanhas de 1973-1974 e 1974-1975, julga-se necessário fazer um reajustamento dos preços de garantia a estabelecer para as lãs churras e não churras brancas de produção nacional que na presente campanha acorram às concentrações nos armazéns regionais.
+
+Nestes termos:
+
+Ao abrigo do disposto no artigo 1.º da [Lei n.º 3/74](https://diariodarepublica.pt/dr/detalhe/lei/3-1974-623395), de 14 de Maio:
+
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Abastecimento e Preços, das Finanças, da Indústria e Tecnologia e do Fomento Agrário, o seguinte:
+
+1.º Continua livre a compra e venda de lã de produção nacional, nos termos desta portaria.
+
+2.º - 1. As organizações da lavoura deverão continuar a promover a concentração das lãs em armazéns dos centros de produção para venda em leilão, com prévia classificação e avaliação da Junta Nacional dos Produtos Pecuários.
+
+2. Para a concentração das lãs em sujo, a Junta Nacional dos Produtos Pecuários, com verbas postas à sua disposição pelo Fundo de Abastecimento, suportará os seguintes encargos:
+
+a) $20 por quilograma, para despesas de transporte das lãs dos armazéns dos produtores aos armazéns de concentração, se aquele se realizar dentro do mesmo concelho, e $40 por quilograma para as lãs provenientes de concelhos diferentes daqueles onde se situam armazéns que, pela sua dimensão e boas condições técnicas, permitam concentrar grandes quantidades de lã;
+
+b) $20 por quilograma para as lãs tipificadas em lotes gerais e $30 por quilograma para fazer face às despesas de todos os lotes com destino à armazenagem.
+
+3.º À compra e venda de peles de ovino com lã aplicar-se-á o disposto nos n.os 1.º e 2.º da presente portaria.
+
+4.º A armazenagem das lãs na concentração para venda, nos termos do n.º 2.º desta portaria, deverá obedecer às directrizes emanadas da Junta Nacional dos Produtos Pecuários.
+
+5.º A Junta Nacional dos Produtos Pecuários só avaliará as lãs concentradas cuja tosquia tenha sido feita sob sua directa assistência técnica ou sob responsabilidade de manajeiros encartados e segundo os preceitos que preconiza e ensina.
+
+6.º Consideram-se manajeiros encartados, para os efeitos do número anterior, os que possuírem cartão de aptidão obtido em curso de tosquia e preparação de velos realizado pela Junta.
+
+7.º As organizações da lavoura poderão adiantar fundos aos proprietários das lãs em rama sujas concentradas e utilizar para o efeito os financiamentos que a Junta Nacional dos Produtos Pecuários continuará a fazer-lhes numa base de preço e prazo a indicar.
+
+8.º A Junta Nacional dos Produtos Pecuários continuará a garantir os preços da sua avaliação, recebendo, por intermédio das organizações da lavoura, as lãs e as peles com lã que não tenham atingido esses preços no leilão.
+
+9.º Os preços mínimos a garantir pela Junta Nacional dos Produtos Pecuários às lãs sujas tosquiadas nas condições do n.º 5.º da presente portaria são os que resultam dos preços mínimos para penteados e lavados constantes da tabela anexa a este diploma, consoante as classes e o rendimento em penteado ou em lavado a fundo.
+
+10.º - 1. A Junta Nacional dos Produtos Pecuários adquirirá, pelos preços da tabela anexa a esta portaria, às organizações da lavoura que tenham realizado a transformação das lãs de conta dos produtores os lotes de lavado e de penteado para que não tenham conseguido colocação, desde que esses lotes, quando em estado de sujo, tenham sido classificados e avaliados nos armazéns dos centros de produção e tenham sido apresentados a leilão.
+
+2. Os lotes não apresentados a leilão no estado de sujo não beneficiarão desta garantia.
+
+11.º - 1. As organizações da lavoura poderão adiantar fundos aos proprietários das lãs que tenham sido trabalhadas de sua conta, nos termos do número anterior, utilizando para o efeito o financiamento que a Junta Nacional dos Produtos Pecuários lhes fará, a prazo e numa base de preço a indicar.
+
+2. A concessão do financiamento previsto neste número será de 100% da garantia e só será aplicado às lãs submetidas a leilão.
+
+12.º As lãs em rama sujas adquiridas pela Junta Nacional dos Produtos Pecuários nos termos desta portaria serão vendidas em leilão, depois de lhes ser dado adequado estado de preparação.
+
+13.º A Junta Nacional dos Produtos Pecuários concederá às organizações da lavoura e aos comerciantes de lãs empréstimos sobre penhor de lãs lavadas e penteadas nas condições seguintes:
+
+a) Para as organizações da lavoura, o montante dos empréstimos será limitado à importância correspondente aos preços de avaliação em sujo, o que equivale a 70% do valor do produto depois de transformado, e o penhor será constituído pela totalidade das lãs em rama sujas ou dos produtos e desperdícios que resultarem da sua preparação industrial. Para facilitar a operação, as responsabilidades dos empréstimos feitos às organizações da lavoura poderão ser endossadas às entidades transformadoras, que, para todos os efeitos, são as fiéis depositárias das lãs em bruto e dos produtos resultantes da transformação industrial confiados à sua guarda;
+
+b) Para os comerciantes de lãs, o montante dos empréstimos será limitado a 70% do valor dos lotes de lavados e penteados oferecidos em penhor até ao limite das quantidades correspondentes às compras em leilão;
+
+c) Os empréstimos aos comerciantes de lãs serão titulados por contrato particular, com observância das condições estabelecidas nos artigos 28.º a 30.º do [Decreto-Lei n.º 29749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29749-1939-202023), de 13 de Julho de 1939.
+
+14.º A Junta Nacional dos Produtos Pecuários adquirirá, nas condições que forem superiormente regulamentadas, pelos preços da tabela anexa a esta portaria, os lavados e penteados provenientes dos lotes que, não tendo atingido nos leilões os preços de avaliação, tenham sido recebidos pelos compradores por esses preços.
+
+15.º A Junta Nacional dos Produtos Pecuários promoverá a realização de leilões de lãs nos diferentes estados de preparação pertencentes a qualquer dos sectores interessados no ciclo económico da lã.
+
+16.º Os industriais de lanifícios continuarão a fornecer à Junta Nacional dos Produtos Pecuários, no princípio de cada trimestre e com relação ao trimestre anterior, os elementos seguintes:
+
+a) Quantidades de lãs nacionais e estrangeiras sujas, lavadas e penteadas adquiridas em cada trimestre;
+
+b) Existências de lãs nacionais e estrangeiras em rama, sujas e lavadas e em penteados que se encontrem em seu poder no final de cada trimestre.
+
+17.º Os comerciantes de lãs fornecerão também, directamente à Junta Nacional dos Produtos Pecuários, no princípio de cada trimestre e com relação ao trimestre anterior, os elementos seguintes:
+
+a) Quantidades de lãs nacionais e estrangeiras sujas, lavadas e penteadas adquiridas em cada trimestre;
+
+b) Existências de lãs nacionais e estrangeiras em rama, sujas e lavadas e em penteados que se encontrem em seu poder no final de cada trimestre.
+
+18.º Os industriais de malhas fornecerão à Junta Nacional dos Produtos Pecuários, no princípio de cada trimestre e com relação ao trimestre anterior, os elementos seguintes:
+
+a) Quantidades de fios de lã nacionais e estrangeiros cardados, penteados e mistos de lã e outras fibras adquiridas em cada trimestre;
+
+b) Existências de fios de lã nacionais e estrangeiros cardados, penteados e mistos de lã e outras fibras que se encontrem em seu poder no final de cada trimestre.
+
+19.º Esta portaria entra imediatamente em vigor.
+
+Secretarias de Estado do Abastecimento e Preços, das Finanças, da Indústria e Tecnologia e do Fomento Agrário, 20 de Junho de 1975. - O Secretário de Estado do Abastecimento e Preços, José António da Conceição Neto. - O Secretário de Estado das Finanças, José de Almeida Serra. - O Secretário de Estado da Indústria e Tecnologia, João Manuel Midosi Bahuto Pereira da Silva Martins Pereira. - O Secretário de Estado do Fomento Agrário, Henrique Lopes Moreira de Seabra.
+
+Tabela de preços a que se refere o n.º 9.º da Portaria n.º 394/75
+
+(Por quilograma)
+
+Lãs não churras de tosquia:
+
+Penteados brancos:
+
+Merinos extra ... 97$00
+
+Merinos finos ... 94$00
+
+Merinos correntes ... 90$00
+
+Primas ... 85$00
+
+Cruzados finos ... 80$00
+
+Cruzados médios ... 73$00
+
+Penteados saragoços:
+
+Merinos extra ... 64$00
+
+Merinos finos ... 60$00
+
+Merinos correntes ... 58$00
+
+Primas ... 56$00
+
+Cruzados finos ... 54$00
+
+Lavados brancos (para carda):
+
+Merinos extra ... 81$00
+
+Merinos finos ... 78$00
+
+Merinos correntes ... 74$00
+
+Primas ... 69$00
+
+Cruzados finos ... 64$00
+
+Cruzados médios ... 57$00
+
+Cruzados lustrosos ... 53$00
+
+Peças e aninhos fortes ... 51$00
+
+Pontas e chocas ... 42$00
+
+Lavados saragoços (para carda):
+
+Merinos extra ... 44$00
+
+Merinos finos ... 42$00
+
+Merinos correntes ... 40$00
+
+Primas ... 38$00
+
+Cruzados finos ... 36$00
+
+Cruzados médios ... 32$00
+
+Cruzados lustrosos ... 28$00
+
+Peças e aninhos fortes ... 24$00
+
+Pontas e chocas ... 20$00
+
+Lãs churras de tosquia:
+
+Lavados brancos:
+
+Corrente:
+
+Velos brancos ... 44$00
+
+Velos pigmentados (amarelos) ... 41$50
+
+Velos interpolados (jardos) ... 39$50
+
+Aninhos ... 35$50
+
+Peças de 1.ª ... 30$00
+
+Peças de 2.ª ... 24$00
+
+Peças de 3.ª (chocas) ... 20$50
+
+Normal:
+
+Velos brancos ... 42$00
+
+Velos pigmentados (amarelos) ... 40$00
+
+Velos interpolados (jardos) ... 38$00
+
+Aninhos ... 35$00
+
+Peças de 1.ª ... 29$00
+
+Peças de 2.ª ... 24$00
+
+Peças de 3.ª (chocas) ... 20$50
+
+Lavados saragoços: menos 30%.
+
+Serão desvalorizadas até 20% todas as lãs que apresentem restos de marcas a tinta com base em substâncias resistentes à lavagem industrial.
+
+O Secretário de Estado do Abastecimento e Preços, José António da Conceição Neto. - O Secretário de Estado das Finanças, José de Almeida Serra. - O Secretário de Estado da Indústria e Tecnologia, João Manuel Midosi Bahuto Pereira da Silva Martins Pereira. - O Secretário de Estado do Fomento Agrário, Henrique Lopes Moreira de Seabra.

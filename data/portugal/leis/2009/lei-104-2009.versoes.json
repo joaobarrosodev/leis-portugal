@@ -1,0 +1,608 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:489757:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2009-70152062",
+ "dre_path": "/dr/detalhe/lei/104-2009-489757",
+ "source_lastmod": "2026-08-21",
+ "versions": [
+  {
+   "date": "2009-09-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70149972",
+    "70149973",
+    "70149974",
+    "70157275",
+    "70157276",
+    "70157277",
+    "70157278",
+    "70157279",
+    "70157280",
+    "70157281",
+    "70157282",
+    "70157283",
+    "70157284",
+    "70157285",
+    "70157286",
+    "70157287",
+    "70157288",
+    "70157289",
+    "70157290",
+    "70157291",
+    "70157292",
+    "70157293",
+    "70157294",
+    "70157295",
+    "70157296",
+    "70157297",
+    "70157298",
+    "70157299",
+    "70157300",
+    "70157301",
+    "70157302",
+    "70157303",
+    "70157304",
+    "70157305",
+    "70157306",
+    "70157307",
+    "70157308"
+   ]
+  },
+  {
+   "date": "2015-09-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70152048:por",
+     "title": "Lei n.º 121/2015",
+     "published": "2015-09-01",
+     "dre_path": "/dr/detalhe/lei/121-2015-70152048"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "70149972",
+    "70149973",
+    "70158457",
+    "70157275",
+    "70157276",
+    "70157277",
+    "70157278",
+    "70157279",
+    "70157280",
+    "70158459",
+    "70157282",
+    "70157283",
+    "70157284",
+    "70157285",
+    "70157286",
+    "70157287",
+    "70157288",
+    "70157289",
+    "70157290",
+    "70157291",
+    "70157292",
+    "70157293",
+    "70157294",
+    "70157295",
+    "70157296",
+    "70157297",
+    "70157298",
+    "70157299",
+    "70157300",
+    "70157301",
+    "70157302",
+    "70157303",
+    "70157304",
+    "70157305",
+    "70157306",
+    "70157307",
+    "70157308",
+    "70157310"
+   ]
+  },
+  {
+   "date": "2023-02-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:206158533:por",
+     "title": "Lei n.º 2/2023",
+     "published": "2023-01-16",
+     "dre_path": "/dr/detalhe/lei/2-2023-206158533"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "70149972",
+    "70149973",
+    "206157473",
+    "70157275",
+    "70157276",
+    "70157277",
+    "70157278",
+    "70157279",
+    "70157280",
+    "70158459",
+    "70157282",
+    "70157283",
+    "70157284",
+    "70157285",
+    "70157286",
+    "70157287",
+    "70157288",
+    "70157289",
+    "70157290",
+    "70157291",
+    "70157292",
+    "70157293",
+    "70157294",
+    "70157295",
+    "70157296",
+    "70157297",
+    "70157298",
+    "70157299",
+    "70157300",
+    "70157301",
+    "70157302",
+    "70157303",
+    "70157304",
+    "70157305",
+    "70157306",
+    "70157307",
+    "70157308",
+    "70157310"
+   ]
+  },
+  {
+   "date": "2026-08-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1160130310:por",
+     "title": "Lei n.º 53/2026",
+     "published": "2026-08-19",
+     "dre_path": "/dr/detalhe/lei/53-2026-1160130310"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "70149972",
+    "70149973",
+    "206157473",
+    "70157275",
+    "1160371975",
+    "70157277",
+    "70157278",
+    "70157279",
+    "70157280",
+    "70158459",
+    "70157282",
+    "70157283",
+    "70157284",
+    "70157285",
+    "70157286",
+    "70157287",
+    "70157288",
+    "70157289",
+    "1160372175",
+    "1160372375",
+    "70157292",
+    "1160372575",
+    "1160372775",
+    "70157295",
+    "70157296",
+    "70157297",
+    "70157298",
+    "70157299",
+    "70157300",
+    "70157301",
+    "70157302",
+    "70157303",
+    "70157304",
+    "70157305",
+    "70157306",
+    "70157307",
+    "70157308",
+    "70157310"
+   ]
+  }
+ ],
+ "fragments": {
+  "70149972": {
+   "fragment_id": "70152063",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 104/2009\n\nde 14 de Setembro\n\nAprova o regime de concessão de indemnização às vítimas de crimes violentos e de violência doméstica\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "70149973": {
+   "fragment_id": "70152064",
+   "type": 1,
+   "heading": "Capítulo I — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposição geral"
+  },
+  "70149974": {
+   "fragment_id": "70152065",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei aprova o regime aplicável ao adiantamento pelo Estado das indemnizações devidas às vítimas de crimes violentos e de violência doméstica."
+  },
+  "70157275": {
+   "fragment_id": "70152066",
+   "type": 1,
+   "heading": "Capítulo II — Indemnização às vítimas de crimes violentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Indemnização às vítimas de crimes violentos"
+  },
+  "70157276": {
+   "fragment_id": "70152067",
+   "type": 11,
+   "heading": "Artigo 2.º — Adiantamento da indemnização às vítimas de crimes violentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Adiantamento da indemnização às vítimas de crimes violentos\n\n1 - As vítimas que tenham sofrido danos graves para a respectiva saúde física ou mental directamente resultantes de actos de violência, praticados em território português ou a bordo de navios ou aeronaves portuguesas, têm direito à concessão de um adiantamento da indemnização pelo Estado, ainda que não se tenham constituído ou não possam constituir-se assistentes no processo penal, quando se encontrem preenchidos os seguintes requisitos cumulativos:\n\na) A lesão tenha provocado uma incapacidade permanente, uma incapacidade temporária e absoluta para o trabalho de pelo menos 30 dias ou a morte;\n\nb) O facto tenha provocado uma perturbação considerável no nível e qualidade de vida da vítima ou, no caso de morte, do requerente;\n\nc) Não tenha sido obtida efectiva reparação do dano em execução de sentença condenatória relativa a pedido deduzido nos termos dos artigos 71.º a 84.º do Código de Processo Penal ou, se for razoavelmente de prever que o delinquente e responsáveis civis não venham a reparar o dano, sem que seja possível obter de outra fonte uma reparação efectiva e suficiente.\n\n2 - O direito a obter o adiantamento previsto no número anterior abrange, no caso de morte, as pessoas a quem, nos termos do n.º 1 do artigo 2009.º do Código Civil, é concedido um direito a alimentos e as que, nos termos da Lei n.º 7/2001, de 11 de Maio, vivam em união de facto com a vítima.\n\n3 - O direito ao adiantamento da indemnização mantém-se mesmo que não seja conhecida a identidade do autor dos actos de violência ou, por outra razão, ele não possa ser acusado ou condenado.\n\n4 - Têm direito ao adiantamento da indemnização as pessoas que auxiliem voluntariamente a vítima ou colaborem com as autoridades na prevenção da infracção, perseguição ou detenção do delinquente, verificados os requisitos constantes das alíneas a) a c) do n.º 1.\n\n5 - A concessão do adiantamento da indemnização às pessoas referidas no número anterior não depende da concessão de indemnização às vítimas de lesão.\n\n6 - Quando o acto de violência configure um crime contra a liberdade e autodeterminação sexual ou contra menor, pode ser dispensada a verificação do requisito previsto na alínea a) do n.º 1 se circunstâncias excepcionais e devidamente fundamentadas o aconselharem."
+  },
+  "70157277": {
+   "fragment_id": "70152068",
+   "type": 11,
+   "heading": "Artigo 3.º — Exclusão ou redução do adiantamento da indemnização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Exclusão ou redução do adiantamento da indemnização\n\n1 - O adiantamento da indemnização pode ser reduzido ou excluído tendo em conta a conduta da vítima ou do requerente antes, durante ou após a prática dos factos, as suas relações com o autor ou o seu meio ou quando aquela se mostre contrária ao sentimento de justiça ou à ordem pública.\n\n2 - O disposto no presente capítulo não é aplicável quando o dano seja causado por um veículo terrestre a motor, bem como se forem aplicáveis as regras sobre acidentes de trabalho ou em serviço, nos casos em que as entidades empregadoras estejam legal ou contratualmente obrigadas a efectuar seguros de acidentes de trabalho."
+  },
+  "70157278": {
+   "fragment_id": "70152069",
+   "type": 11,
+   "heading": "Artigo 4.º — Montante do adiantamento e outros meios de ressarcimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Montante do adiantamento e outros meios de ressarcimento\n\n1 - O adiantamento da indemnização é fixado em termos de equidade, tendo como limites máximos, por cada lesado, o valor equivalente a 340 unidades de conta processual (UC) para os casos de morte ou lesão grave.\n\n2 - Nos casos de morte ou lesão de várias pessoas em consequência do mesmo facto, o adiantamento da indemnização tem como limite máximo o valor equivalente a 300 UC para cada uma delas, com o máximo total correspondente a 900 UC.\n\n3 - Se o adiantamento da indemnização for fixado sob a forma de renda anual, o limite máximo é equivalente a 40 UC por cada lesado, não podendo ultrapassar o montante de 120 UC quando sejam vários os lesados em virtude do mesmo facto.\n\n4 - Na fixação do montante do adiantamento da indemnização é tomada em consideração toda a importância recebida de outra fonte, nomeadamente do próprio delinquente ou da segurança social.\n\n5 - Sem prejuízo do disposto no número anterior, os seguros privados de vida ou acidentes pessoais só são tomados em consideração na medida em que a equidade o exija.\n\n6 - Nos casos a que se refere o n.º 3 do artigo 2.º, há igualmente lugar a um adiantamento da indemnização por danos de coisas de considerável valor, tendo como limite máximo o valor correspondente a 150 UC.\n\n7 - A fixação do adiantamento da indemnização por lucros cessantes tem como referência as declarações fiscais de rendimentos da vítima relativas aos três anos anteriores à prática dos factos, bem como, no caso de morte, da do requerente ou, verificando-se a falta dessas declarações, tomando por base um rendimento não superior à retribuição mínima mensal garantida.\n\n8 - No caso de não ter sido concedida qualquer indemnização no processo penal ou fora dele por facto unicamente imputável ao requerente, nomeadamente por não ter deduzido pedido de indemnização cível ou por dele ter desistido, o limite máximo do montante do adiantamento da indemnização a conceder pelo Estado é reduzido para metade, salvo quando circunstâncias excepcionais e devidamente fundamentadas aconselhem o contrário.\n\n9 - Sem prejuízo da aplicação dos critérios indemnizatórios estabelecidos na presente lei, podem ainda ser conferidas às vítimas medidas de apoio social e educativo, bem como terapêuticas adequadas à recuperação física, psicológica e profissional, em cumprimento das demais disposições legais aplicáveis, e no quadro de protocolos a celebrar entre a Comissão de Protecção às Vítimas de Crimes e entidades públicas e privadas pertinentes em razão da matéria."
+  },
+  "70157279": {
+   "fragment_id": "70152070",
+   "type": 1,
+   "heading": "Capítulo III — Indemnização às vítimas de violência doméstica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Indemnização às vítimas de violência doméstica"
+  },
+  "70157280": {
+   "fragment_id": "70152071",
+   "type": 11,
+   "heading": "Artigo 5.º — Adiantamento da indemnização às vítimas de violência doméstica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Adiantamento da indemnização às vítimas de violência doméstica\n\n1 - As vítimas do crime de violência doméstica têm direito à concessão de um adiantamento da indemnização pelo Estado quando se encontrem preenchidos cumulativamente os seguintes requisitos:\n\na) Esteja em causa o crime de violência doméstica, previsto no n.º 1 do artigo 152.º do Código Penal, praticado em território português;\n\nb) A vítima incorra em situação de grave carência económica em consequência do crime mencionado na alínea anterior.\n\n2 - A vítima, bem como os requerentes indicados no n.º 4 do artigo 10.º por solicitação ou em representação desta, deve comunicar à Comissão de Protecção às Vítimas de Crimes todas as alterações da sua situação sócio-económica ou familiar, bem como quaisquer outras alterações anteriores ou posteriores à decisão de concessão do adiantamento da indemnização que sejam susceptíveis de influenciar o sentido da mesma.\n\n3 - A violação do dever de informação previsto no número anterior implica o cancelamento imediato do pagamento das quantias concedidas ou a devolução das quantias indevidamente recebidas.\n\n4 - É aplicável aos pedidos de adiantamento de indemnização por violência doméstica o disposto no artigo 3.º"
+  },
+  "70157281": {
+   "fragment_id": "70152072",
+   "type": 11,
+   "heading": "Artigo 6.º — Montante do adiantamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Montante do adiantamento\n\n1 - O adiantamento da indemnização a conceder às vítimas de violência doméstica e a fixação do seu montante são determinados em juízo de equidade, dependendo da séria probabilidade de verificação dos pressupostos da indemnização.\n\n2 - O montante a que se refere o número anterior não pode exceder o equivalente mensal à retribuição mínima mensal garantida durante o período de seis meses, prorrogável por igual período.\n\n3 - É aplicável às vítimas de violência doméstica o disposto no n.º 9 do artigo 4.º"
+  },
+  "70157282": {
+   "fragment_id": "70152073",
+   "type": 1,
+   "heading": "Capítulo IV — Comissão de Protecção às Vítimas de Crimes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Comissão de Protecção às Vítimas de Crimes"
+  },
+  "70157283": {
+   "fragment_id": "70152074",
+   "type": 11,
+   "heading": "Artigo 7.º — Comissão de Protecção às Vítimas de Crimes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Comissão de Protecção às Vítimas de Crimes\n\n1 - A Comissão de Protecção às Vítimas de Crimes, doravante designada Comissão, é um órgão administrativo independente responsável, por si ou através dos seus membros, pela concessão de adiantamentos de indemnização por parte do Estado às vítimas de crimes violentos e de violência doméstica.\n\n2 - A Comissão é constituída por um presidente e por um número par de membros, num mínimo de dois e num máximo de quatro, designados pelo membro do Governo responsável pela área da justiça, em termos a fixar na regulamentação prevista no artigo 24.º\n\n3 - Para além do presidente, a Comissão pode dispor, no máximo, de dois membros a exercer funções a tempo completo.\n\n4 - Compete à Comissão:\n\na) Estabelecer as orientações que devam ser seguidas pelo presidente e pelos seus membros, quer na decisão dos pedidos de adiantamento da indemnização, quer na decisão de conceder uma provisão por conta do adiantamento da indemnização a fixar posteriormente;\n\nb) Sem prejuízo do disposto nos artigos 4.º e 6.º, estabelecer montantes indemnizatórios a atribuir em função de tipos de situações;\n\nc) Decidir os pedidos de adiantamento de indemnização quando o caso implique novidade face a casos anteriormente decididos ou especificidade que aconselhe a adopção de uma deliberação que contrarie as orientações previstas nas alíneas a) ou b);\n\nd) Promover o exercício do direito de sub-rogação pelo Estado, nos termos dos artigos 15.º e 16.º, nos direitos dos lesados contra o autor dos actos de violência e pessoas com responsabilidade meramente civil, dentro dos limites da indemnização prestada;\n\ne) Aprovar o relatório anual, o qual deve ser publicado no sítio da Internet da Comissão;\n\nf) Promover, em articulação com outras entidades públicas ou privadas, a divulgação do direito das vítimas ao adiantamento da indemnização e das competências da Comissão nesse âmbito;\n\ng) Exercer as demais competências que lhe forem cometidas por lei.\n\n5 - Não podem ser membros da Comissão pessoas que tenham intervindo em qualquer processo instaurado pelo facto que der origem ao pedido de indemnização.\n\n6 - A Comissão deve aprovar um relatório anual a submeter ao membro do Governo responsável pela área da justiça, contendo, designadamente:\n\na) Identificação do número de processos entrados, pendentes e resolvidos no ano em causa, bem como uma análise comparativa dos últimos cinco anos;\n\nb) Identificação do montante global de adiantamentos de indemnizações atribuídos e dos montantes que transitam para o ano seguinte;\n\nc) Identificação dos montantes atribuídos em função dos tipos de crimes estabelecidos;\n\nd) Identificação discriminada da percentagem das receitas obtidas nos termos das alíneas d) a h) do n.º 3 do artigo 9.º;\n\ne) Recomendações com vista a melhorar o funcionamento da Comissão, bem como a relação com as entidades públicas e privadas que coadjuvam a Comissão na instrução e decisão dos pedidos."
+  },
+  "70157284": {
+   "fragment_id": "70157375",
+   "type": 11,
+   "heading": "Artigo 8.º — Competência do presidente e dos membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competência do presidente e dos membros\n\n1 - Compete ao presidente da Comissão:\n\na) Representar a Comissão;\n\nb) Convocar e estabelecer a ordem de trabalhos das reuniões;\n\nc) Presidir às reuniões;\n\nd) Gerir e organizar a Comissão, definindo designadamente a distribuição de trabalhos, tarefas e processos pelos membros da Comissão;\n\ne) Organizar os serviços da Comissão, garantindo o seu permanente funcionamento, de forma a atender às situações de grave carência económica que exijam a concessão de uma provisão, nos termos do n.º 5 do artigo 14.º;\n\nf) Solicitar a cada membro da Comissão a informação necessária à preparação das reuniões, em especial, tendo em vista o exercício, pela Comissão, da competência prevista na alínea c) do n.º 4 do artigo 7.º;\n\ng) Acompanhar a actuação dos membros da Comissão na instrução e na decisão dos pedidos de indemnização;\n\nh) Promover o cumprimento das deliberações da Comissão e, em particular, das orientações e dos limites fixados para as indemnizações a conceder;\n\ni) Garantir o respeito pelos princípios da estabilidade e da sustentabilidade orçamental, controlando a execução do orçamento em função das indemnizações atribuídas;\n\nj) Promover activamente a concessão à Comissão de doações, contribuições mecenáticas ou de entidades terceiras;\n\nl) Exercer as demais competências que lhe sejam conferidas por lei.\n\n2 - Compete ao presidente e aos membros da Comissão, no respeito das orientações fixadas pela Comissão, a decisão dos pedidos de adiantamento da indemnização e dos pedidos de concessão de provisão por conta do adiantamento da indemnização, quando não esteja em causa uma das situações previstas na alínea c) do n.º 4 do artigo 7.º"
+  },
+  "70157285": {
+   "fragment_id": "70157376",
+   "type": 11,
+   "heading": "Artigo 9.º — Estrutura orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Estrutura orçamental\n\n1 - As receitas e as despesas relativas à Comissão constituem um subsector do orçamento da Secretaria-Geral do Ministério da Justiça, sendo objecto de um registo contabilístico autónomo.\n\n2 - A Comissão dispõe de número de identificação fiscal próprio, nos termos da alínea e) do n.º 1 do artigo 4.º do Decreto-Lei n.º 129/98, de 13 de Maio.\n\n3 - Constituem receitas da Comissão:\n\na) As provenientes de dotações orçamentais que lhe sejam atribuídas no Orçamento do Estado;\n\nb) As transferências do Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P.;\n\nc) O produto das taxas e contribuições que lhe sejam afectos;\n\nd) O produto de doações, heranças, legados ou contribuições mecenáticas;\n\ne) As obtidas no âmbito do exercício do direito de sub-rogação do Estado no crédito da vítima sobre o responsável, bem como as decorrentes do reembolso das quantias adiantadas nos casos em que a vítima obtenha reparação, total ou parcial, do dano sofrido;\n\nf) As contribuições de entidades terceiras;\n\ng) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou título.\n\n4 - As receitas referidas nas alíneas b) a g) do número anterior são inscritas no orçamento da Comissão como receitas consignadas com transição de saldo.\n\n5 - Constituem despesas da Comissão:\n\na) As que resultem da atribuição de adiantamentos de indemnizações nos termos da presente lei;\n\nb) O pagamento das custas processuais no âmbito da apresentação de acções, tendo em vista o reembolso ou o exercício dos direitos em que o Estado fica sub-rogado devido à atribuição de adiantamentos de indemnizações;\n\nc) As inerentes ao seu funcionamento."
+  },
+  "70157286": {
+   "fragment_id": "70157377",
+   "type": 1,
+   "heading": "Capítulo V — Procedimento para concessão do adiantamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Procedimento para concessão do adiantamento"
+  },
+  "70157287": {
+   "fragment_id": "70157378",
+   "type": 11,
+   "heading": "Artigo 10.º — Pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pedido\n\n1 - A concessão de adiantamento de indemnização por parte do Estado depende de requerimento apresentado à Comissão pelas pessoas referidas nos artigos 2.º e 5.º\n\n2 - O requerimento para a concessão do adiantamento da indemnização pode ser apresentado por transmissão electrónica de dados, nos termos de portaria do membro do Governo responsável pela área da justiça.\n\n3 - O modelo de requerimento é aprovado por portaria do membro do Governo responsável pela área da justiça e deve conter as informações essenciais ao correcto exercício do direito pelo requerente bem como permitir a entrega dos elementos necessários à correcta instrução do pedido, incluindo, designadamente:\n\na) A indicação do montante da indemnização pretendida;\n\nb) A indicação de qualquer importância já recebida;\n\nc) A indicação das pessoas ou entidades públicas ou privadas susceptíveis de, no todo ou em parte, virem a efectuar prestações relacionadas com o dano;\n\nd) A indicação de ter sido concedida qualquer indemnização e qual o seu montante, caso tenha sido deduzido pedido de indemnização no processo penal ou fora dele, ou a mera indicação do processo, caso este se encontre pendente.\n\n4 - As entidades públicas, incluindo o Ministério Público, as associações ou outras entidades privadas que prestem apoio às vítimas de crimes podem apresentar o requerimento previsto no n.º 1 por solicitação ou em representação da vítima, devendo fazê-lo necessariamente por transmissão electrónica de dados, nos termos de portaria do membro do Governo responsável pela área da justiça."
+  },
+  "70157288": {
+   "fragment_id": "70157379",
+   "type": 11,
+   "heading": "Artigo 11.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Prazos\n\n1 - O pedido de concessão do adiantamento da indemnização por parte do Estado deve ser apresentado à Comissão no prazo de um ano a contar da data do facto, sob pena de caducidade.\n\n2 - O menor à data da prática do facto pode apresentar o pedido de concessão do adiantamento da indemnização por parte do Estado até um ano depois de atingida a maioridade ou ser emancipado.\n\n3 - Se tiver sido instaurado processo criminal, os prazos referidos nos números anteriores podem ser prorrogados pelo presidente da Comissão e expiram após decorrido um ano sobre a decisão que lhe põe termo.\n\n4 - Em qualquer caso, o presidente da Comissão pode relevar o efeito da caducidade, quando o requerente alegue razões que, justificadamente, tenham obstado à apresentação do pedido em tempo útil."
+  },
+  "70157289": {
+   "fragment_id": "70157380",
+   "type": 11,
+   "heading": "Artigo 12.º — Tramitação electrónica do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Tramitação electrónica do procedimento\n\n1 - A tramitação dos processos é efectuada electronicamente em termos a definir por portaria do membro do Governo responsável pela área da justiça.\n\n2 - A tramitação electrónica dos processos garante a respectiva integralidade, autenticidade e inviolabilidade."
+  },
+  "70157290": {
+   "fragment_id": "70157381",
+   "type": 11,
+   "heading": "Artigo 13.º — Instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Instrução\n\n1 - Sem prejuízo do disposto na alínea c) do n.º 4 do artigo 7.º, o presidente ou o membro da Comissão responsável pelo processo procede a todas as diligências instrutórias que se revelem necessárias podendo, nomeadamente:\n\na) Ouvir os requerentes e os responsáveis pela indemnização, caso seja necessário;\n\nb) Aceder às denúncias e participações relativas aos factos criminosos e a quaisquer peças de processo penal instaurado, ainda que pendente de decisão final;\n\nc) Aceder a informações sobre a situação profissional, financeira ou social da vítima, do requerente ou dos responsáveis pela reparação do dano junto de qualquer pessoa, singular ou colectiva, ou qualquer entidade pública.\n\n2 - A Comissão pode ainda solicitar as informações que considere necessárias à administração fiscal ou a estabelecimentos de crédito, quando a vítima, o requerente ou o responsável pela reparação do dano se recusem a fornecê-las ou caso existam fundadas razões no sentido de que os mesmos dispõem de bens ou recursos que pretendem ocultar.\n\n3 - Às informações solicitadas não é oponível o sigilo profissional ou bancário.\n\n4 - Exclusivamente para efeitos de averiguação da condição económica da vítima ou do requerente, a Comissão pode proceder à consulta das bases de dados do registo predial, comercial e automóvel e de outros registos ou arquivos semelhantes.\n\n5 - As informações obtidas nos termos dos números anteriores não podem ser utilizadas para fins diferentes da instrução do pedido, sendo proibida a sua divulgação.\n\n6 - As entidades públicas ou privadas que prestam apoio às vítimas de crimes podem colaborar com a Comissão nas diligências probatórias previstas no n.º 1, nos termos a definir por portaria do membro do Governo responsável pela área da justiça."
+  },
+  "70157291": {
+   "fragment_id": "70157382",
+   "type": 11,
+   "heading": "Artigo 14.º — Decisão do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Decisão do pedido\n\n1 - A instrução é concluída no prazo máximo de um mês.\n\n2 - Concluída a instrução, o presidente ou o membro da Comissão decide de imediato sobre a concessão da indemnização e qual o respectivo montante.\n\n3 - A concessão da indemnização e a fixação do respectivo montante é deliberada pela Comissão, sob proposta do presidente ou do membro responsável pela instrução, quando se verifique uma das situações previstas na alínea c) do n.º 4 do artigo 7.º\n\n4 - A fixação do montante indemnizatório é determinada nos termos dos artigos 4.º e 6.º, em função dos tipos de situações fixados pela Comissão e obedecendo às orientações por esta estabelecidas.\n\n5 - Antes de concluída a instrução, o membro da Comissão por ela responsável pode, em situações de evidente carência económica do requerente, conceder de imediato uma provisão por conta do adiantamento da indemnização a fixar posteriormente.\n\n6 - A Comissão deve garantir um funcionamento interno permanente de forma a dar prontamente resposta às situações previstas no número anterior.\n\n7 - As entidades públicas podem colaborar com a Comissão na decisão dos pedidos, nos termos a definir por portaria do membro do Governo responsável pela área da justiça.\n\n8 - A Comissão comunica ao tribunal onde correr o processo respeitante ao facto gerador do dano, exclusivamente por via electrónica, a decisão que conceda o adiantamento da indemnização."
+  },
+  "70157292": {
+   "fragment_id": "70157383",
+   "type": 1,
+   "heading": "Capítulo VI — Direitos do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Direitos do Estado"
+  },
+  "70157293": {
+   "fragment_id": "70157384",
+   "type": 11,
+   "heading": "Artigo 15.º — Sub-rogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Sub-rogação\n\n1 - O Estado, através da Comissão, fica sub-rogado nos direitos dos lesados contra o autor dos actos de violência e pessoas com responsabilidade meramente civil, dentro dos limites da indemnização prestada.\n\n2 - Para efeitos de exercício dos direitos referidos no número anterior a Comissão é apoiada juridicamente pela Direcção de Serviços Jurídicos e de Contencioso da Secretaria-Geral do Ministério da Justiça ou contrata os necessários serviços jurídicos, nos termos legalmente estabelecidos.\n\n3 - Para efeitos do disposto nos números anteriores, o comprovativo do adiantamento da indemnização, cujo modelo é aprovado por portaria do membro do Governo responsável pela área da justiça, tem força executiva própria e serve de suporte à execução instaurada.\n\n4 - Quando o autor dos actos geradores da indemnização estiver em execução de pena sob a tutela dos serviços prisionais ou dos serviços de reinserção social, a indemnização concedida é comunicada, preferencialmente por meios electrónicos, ao serviço respectivo, bem como ao tribunal de execução das penas, para os efeitos previstos na legislação relativa à execução das penas e tendo em vista o direito da Comissão a ser ressarcida pelo responsável do dano, pelo adiantamento de indemnização concedido ao abrigo da presente lei.\n\n5 - Nos casos previstos no número anterior, o tribunal de execução das penas deve, aquando da homologação do plano individual de readaptação ou aquando da decisão de aplicação de medidas de flexibilização da pena, ter em consideração o dever de indemnização que recai sobre o recluso.\n\n6 - O autor dos actos de violência, as pessoas com responsabilidade meramente civil e os serviços prisionais ou de reinserção social, nos casos em que o autor dos actos geradores da indemnização estiver em execução de pena sob a respectiva tutela, devem informar a Comissão dos pagamentos que sejam efectuados à vítima por conta da reparação efectiva dos danos sofridos."
+  },
+  "70157294": {
+   "fragment_id": "70157385",
+   "type": 11,
+   "heading": "Artigo 16.º — Reembolso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Reembolso\n\n1 - Quando a vítima, posteriormente ao pagamento da provisão ou da indemnização, obtiver, a qualquer título, uma reparação ou uma indemnização efectiva do dano sofrido, deve a Comissão exigir o reembolso, total ou parcial, das importâncias recebidas.\n\n2 - O disposto no número anterior aplica-se quando, tendo sido entregue a provisão, se averiguar ulteriormente que a indemnização não foi concedida por não preenchimento dos requisitos referidos nos artigos 2.º e 5.º\n\n3 - Para efeitos de exercício dos direitos referidos nos números anteriores a Comissão é apoiada juridicamente pela Direcção de Serviços Jurídicos e de Contencioso, da Secretaria-Geral do Ministério da Justiça, ou contrata os necessários serviços jurídicos, nos termos legalmente estabelecidos."
+  },
+  "70157295": {
+   "fragment_id": "70157386",
+   "type": 1,
+   "heading": "Capítulo VII — Responsabilidade criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Responsabilidade criminal"
+  },
+  "70157296": {
+   "fragment_id": "70157387",
+   "type": 11,
+   "heading": "Artigo 17.º — Informações falsas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Informações falsas\n\n1 - Quem obtiver ou tentar obter uma indemnização nos termos da presente lei com base em informações que sabe serem falsas ou inexactas é punível com prisão até três anos ou multa.\n\n2 - Sem prejuízo do disposto no número anterior, em caso de falsidade da informação a que se refere a alínea d) do n.º 3 do artigo 10.º, a Comissão deve exigir o reembolso da quantia eventualmente paga aos requerentes, nos termos do disposto no artigo 16.º"
+  },
+  "70157297": {
+   "fragment_id": "70157388",
+   "type": 1,
+   "heading": "Capítulo VIII — Aplicação no espaço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Aplicação no espaço"
+  },
+  "70157298": {
+   "fragment_id": "70157389",
+   "type": 11,
+   "heading": "Artigo 18.º — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Princípio geral\n\n1 - A presente lei é aplicável aos factos previstos nos artigos 2.º e 5.º cometidos fora do território português contra portugueses ou cidadãos de Estados membros da União Europeia com residência habitual em Portugal, desde que não tenham direito a indemnização pelo Estado em cujo território o dano foi produzido.\n\n2 - Para os efeitos previstos no número anterior, cabe à Comissão verificar a existência ou não do direito à indemnização do requerente no Estado em cujo território o dano foi produzido."
+  },
+  "70157299": {
+   "fragment_id": "70157390",
+   "type": 11,
+   "heading": "Artigo 19.º — Requerentes com residência habitual em Estado membro da União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Requerentes com residência habitual em Estado membro da União Europeia\n\n1 - Nos casos referidos no n.º 1 do artigo 2.º e no n.º 1 do artigo 5.º, quando o requerente tenha a sua residência habitual noutro Estado membro da União Europeia e tenha apresentado à autoridade competente desse Estado um pedido de concessão de adiantamento de indemnização a pagar pelo Estado Português, incumbe à Comissão:\n\na) Receber o pedido transmitido pela autoridade competente do Estado membro da residência habitual do requerente;\n\nb) Acusar, no prazo de 10 dias, a recepção do pedido ao requerente e à autoridade competente do Estado membro da sua residência habitual e comunicar os contactos da Comissão e o prazo provável da decisão do pedido;\n\nc) Instruir e decidir o pedido;\n\nd) Comunicar ao requerente e à autoridade competente do Estado membro da sua residência habitual a decisão sobre a concessão do adiantamento da indemnização.\n\n2 - Para efeitos do disposto na alínea c) do número anterior, a Comissão pode:\n\na) Solicitar à autoridade competente do Estado membro da residência habitual do requerente que promova a audição deste ou de qualquer outra pessoa, designadamente uma testemunha ou um perito, bem como o envio da respectiva acta de audição;\n\nb) Ouvir directamente o requerente ou qualquer outra pessoa, por videoconferência, solicitando à autoridade competente do Estado membro da residência habitual do requerente a colaboração necessária."
+  },
+  "70157300": {
+   "fragment_id": "70157391",
+   "type": 11,
+   "heading": "Artigo 20.º — Indemnização por outro Estado membro da União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Indemnização por outro Estado membro da União Europeia\n\n1 - No caso de ter sido praticado um crime objecto da presente lei no território de um outro Estado membro da União Europeia, o pedido para a concessão de indemnização a pagar por aquele Estado pode ser apresentado à Comissão, desde que o requerente tenha a sua residência habitual em Portugal.\n\n2 - Apresentado o pedido, incumbe à Comissão:\n\na) Informar o requerente sobre o modo de preenchimento do requerimento de pedido de indemnização e sobre os documentos comprovativos necessários ou sobre a entrega dos mesmos por via electrónica;\n\nb) Transmitir o requerimento e os documentos referidos na alínea anterior, no prazo de 10 dias, à autoridade competente do Estado membro em cujo território o crime foi praticado;\n\nc) Auxiliar o requerente na resposta aos pedidos de informação suplementares solicitados pela autoridade competente do Estado membro em cujo território o crime foi praticado, transmitindo as respostas, a pedido do requerente, directamente àquela autoridade;\n\nd) Providenciar, a solicitação da autoridade competente do Estado membro em cujo território o crime foi praticado, a audição do requerente ou de qualquer outra pessoa, transmitindo a acta da audição àquela autoridade;\n\ne) Colaborar com a autoridade competente do Estado membro em cujo território o crime foi praticado sempre que esta opte pela audição directa do requerente ou de qualquer outra pessoa, em conformidade com a legislação daquele Estado, nomeadamente através de telefone ou videoconferência;\n\nf) Receber a decisão sobre o pedido de indemnização transmitida pela autoridade competente do Estado membro em cujo território o crime foi praticado."
+  },
+  "70157301": {
+   "fragment_id": "70157392",
+   "type": 11,
+   "heading": "Artigo 21.º — Formalidades na transmissão dos pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Formalidades na transmissão dos pedidos\n\n1 - Os pedidos e as decisões referidos nos artigos 19.º e 20.º são transmitidos através de requerimentos normalizados aprovados por decisão da Comissão Europeia, publicados no Jornal Oficial da União Europeia.\n\n2 - Os requerimentos e os documentos apresentados nos termos dos artigos 19.º e 20.º estão dispensados de legalização ou de qualquer outra formalidade equivalente.\n\n3 - Os serviços solicitados e prestados pela Comissão, ao abrigo do disposto nos artigos 19.º e 20.º, não dão lugar a qualquer pedido de reembolso de encargos ou despesas."
+  },
+  "70157302": {
+   "fragment_id": "70157393",
+   "type": 11,
+   "heading": "Artigo 22.º — Idioma em situações transfronteiriças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Idioma em situações transfronteiriças\n\n1 - Os requerimentos e outros documentos transmitidos pela Comissão, para efeitos do disposto nos artigos 19.º e 20.º, são redigidos numa das seguintes línguas:\n\na) Língua oficial do Estado membro da União Europeia ao qual aqueles requerimentos e documentos são enviados;\n\nb) Outra língua desse Estado membro, desde que corresponda a uma das línguas das instituições comunitárias;\n\nc) Outra língua, desde que corresponda a uma das línguas das instituições comunitárias, e aquele Estado membro a tenha declarado aceitar, nos termos da alínea b) do n.º 1 do artigo 13.º da Directiva n.º <a href=\"eurlex.asp?ano=2004&id=304L0080\" title=\"Link para Directiva da Comunidade Europeia\">2004/80/CE</a>, do Conselho, de 29 de Abril.\n\n2 - O texto integral da decisão e a acta de audição, referidos, respectivamente, na alínea d) do n.º 1 do artigo 19.º e na alínea d) do n.º 2 do artigo 20.º, podem ser transmitidos em português ou inglês.\n\n3 - Sem prejuízo do disposto nos números seguintes, a Comissão pode recusar a recepção dos requerimentos e documentos transmitidos para efeitos do disposto nos artigos 19.º e 20.º quando os mesmos não estejam redigidos em português ou em inglês.\n\n4 - A Comissão não pode recusar a recepção da acta de audição referida na alínea a) do n.º 2 do artigo 19.º, desde que a mesma esteja redigida numa língua que corresponda a uma das línguas das instituições comunitárias.\n\n5 - A Comissão não pode recusar a recepção da decisão referida na alínea f) do n.º 2 do artigo 20.º, desde que a mesma esteja redigida numa língua prevista na legislação do Estado membro que a transmite."
+  },
+  "70157303": {
+   "fragment_id": "70157394",
+   "type": 1,
+   "heading": "Capítulo IX — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Disposições finais"
+  },
+  "70157304": {
+   "fragment_id": "70157395",
+   "type": 11,
+   "heading": "Artigo 23.º — Extinção da Comissão para a Instrução dos Pedidos de Indemnização às Vítimas de Crimes Violentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Extinção da Comissão para a Instrução dos Pedidos de Indemnização às Vítimas de Crimes Violentos\n\n1 - Com a entrada em vigor do decreto regulamentar previsto no artigo 24.º da presente lei e tomada de posse dos membros da nova Comissão de Protecção às Vítimas de Crimes, extingue-se a actual Comissão para a Instrução dos Pedidos de Indemnização às Vítimas de Crimes Violentos, prevista no artigo 6.º do Decreto-Lei n.º 423/91, de 30 de Outubro, e no Decreto Regulamentar n.º 4/93, de 22 de Fevereiro, cessando as funções dos seus membros.\n\n2 - Sem prejuízo do disposto no número anterior, a Comissão de Protecção às Vítimas de Crimes sucede, para todos os efeitos, à Comissão para a Instrução dos Pedidos de Indemnização às Vítimas de Crimes Violentos, sendo transferidos para a primeira os processos que estejam pendentes na segunda."
+  },
+  "70157305": {
+   "fragment_id": "70157396",
+   "type": 11,
+   "heading": "Artigo 24.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Regulamentação\n\nA constituição, funcionamento e o exercício dos poderes e deveres da Comissão de Protecção às Vítimas de Crimes são regulados por decreto regulamentar."
+  },
+  "70157306": {
+   "fragment_id": "70157397",
+   "type": 11,
+   "heading": "Artigo 25.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Norma revogatória\n\nSão revogados:\n\na) A Lei n.º 129/99, de 20 de Agosto;\n\nb) O Decreto-Lei n.º 423/91, de 30 de Outubro."
+  },
+  "70157307": {
+   "fragment_id": "70157398",
+   "type": 11,
+   "heading": "Artigo 26.º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Aplicação no tempo\n\nSem prejuízo do disposto na parte final do n.º 2 do artigo 23.º, a presente lei não se aplica aos processos pendentes à data da sua entrada em vigor."
+  },
+  "70157308": {
+   "fragment_id": "70157399",
+   "type": 11,
+   "heading": "Artigo 27.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Entrada em vigor\n\nA presente lei entra em vigor a 1 de Janeiro de 2010."
+  },
+  "70158457": {
+   "fragment_id": "70152065",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2015-09-06",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 121/2015 - Diário da República n.º 170/2015, Série I de 2015-09-01](https://diariodarepublica.pt/dr/detalhe/lei/121-2015-70152048), em vigor a partir de 2015-09-06"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1-A presente lei aprova o regime aplicável ao adiantamento pelo Estado das indemnizações devidas às vítimas de crimes violentos e de violência doméstica.\n\n2 - Para efeitos de aplicação da presente lei considera-se:\n\na) Crimes violentos, os crimes que se enquadram nas definições legais de criminalidade violenta e de criminalidade especialmente violenta previstas nas alíneas j) e l) do artigo 1.º do Código de Processo Penal;\n\nb) Violência doméstica, o crime a que se refere o artigo 152.º do Código Penal.\n\n> Alterado pelo/a [Lei n.º 121/2015 - Diário da República n.º 170/2015, Série I de 2015-09-01](https://diariodarepublica.pt/dr/detalhe/lei/121-2015-70152048), em vigor a partir de 2015-09-06"
+  },
+  "70158459": {
+   "fragment_id": "70152072",
+   "type": 11,
+   "heading": "Artigo 6.º — Montante do adiantamento",
+   "in_force_from": "2015-09-06",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 121/2015 - Diário da República n.º 170/2015, Série I de 2015-09-01](https://diariodarepublica.pt/dr/detalhe/lei/121-2015-70152048), em vigor a partir de 2015-09-06"
+   ],
+   "markdown": "###### Artigo 6.º — Montante do adiantamento\n\n1 - O adiantamento da indemnização a conceder às vítimas de violência doméstica e a fixação do seu montante são determinados em juízo de equidade, dependendo da séria probabilidade de verificação dos pressupostos da indemnização.\n\n2 - O montante a que se refere o número anterior não pode exceder o equivalente mensal à retribuição mínima mensal garantida durante o período de seis meses, prorrogável por igual período.\n\n3 - Excecionalmente, em casos devidamente fundamentados, de especial situação de carência e de falta de meios de subsistência que o justifiquem, pode o montante do adiantamento da indemnização ser concedido numa única prestação.\n\n4 - É aplicável às vítimas de violência doméstica o disposto no n.º 9 do artigo 4.º\n\n> Alterado pelo/a [Lei n.º 121/2015 - Diário da República n.º 170/2015, Série I de 2015-09-01](https://diariodarepublica.pt/dr/detalhe/lei/121-2015-70152048), em vigor a partir de 2015-09-06"
+  },
+  "70157310": {
+   "fragment_id": "70157400",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 23 de Julho de 2009.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 28 de Agosto de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 28 de Agosto de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "206157473": {
+   "fragment_id": "70152065",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2023-02-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 2/2023 - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/lei/2-2023-206158533), em vigor a partir de 2023-02-15",
+    "Alterado pelo/a [Lei n.º 121/2015 - Diário da República n.º 170/2015, Série I de 2015-09-01](https://diariodarepublica.pt/dr/detalhe/lei/121-2015-70152048), em vigor a partir de 2015-09-06"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1-A presente lei aprova o regime aplicável ao adiantamento pelo Estado das indemnizações devidas às vítimas de crimes violentos e de violência doméstica.\n\n2 - Para efeitos de aplicação da presente lei considera-se:\n\na) Crimes violentos, os crimes que se enquadram nas definições legais de terrorismo, criminalidade violenta e criminalidade especialmente violenta previstas nas alíneas i) a l) do artigo 1.º do Código de Processo Penal;\n\nb) Violência doméstica, o crime a que se refere o artigo 152.º do Código Penal.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 2/2023 - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/lei/2-2023-206158533), em vigor a partir de 2023-02-15\n\n> Alterado pelo/a [Lei n.º 121/2015 - Diário da República n.º 170/2015, Série I de 2015-09-01](https://diariodarepublica.pt/dr/detalhe/lei/121-2015-70152048), em vigor a partir de 2015-09-06"
+  },
+  "1160371975": {
+   "fragment_id": "70152067",
+   "type": 11,
+   "heading": "Artigo 2.º — Adiantamento da indemnização às vítimas de crimes violentos",
+   "in_force_from": "2026-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 53/2026 - Diário da República n.º 160/2026, Série I de 2026-08-19](https://diariodarepublica.pt/dr/detalhe/lei/53-2026-1160130310), em vigor a partir de 2026-08-24."
+   ],
+   "markdown": "###### Artigo 2.º — Adiantamento da indemnização às vítimas de crimes violentos\n\n1 - As vítimas que tenham sofrido danos graves para a respectiva saúde física ou mental directamente resultantes de actos de violência, praticados em território português ou a bordo de navios ou aeronaves portuguesas, têm direito à concessão de um adiantamento da indemnização pelo Estado, ainda que não se tenham constituído ou não possam constituir-se assistentes no processo penal, quando se encontrem preenchidos os seguintes requisitos cumulativos:\n\na) [Revogada.]\n\nb) O facto tenha provocado uma perturbação considerável no nível e qualidade de vida da vítima ou, no caso de morte, do requerente;\n\nc) Não tenha sido obtida efectiva reparação do dano em execução de sentença condenatória relativa a pedido deduzido nos termos dos artigos 71.º a 84.º do Código de Processo Penal ou, se for razoavelmente de prever que o delinquente e responsáveis civis não venham a reparar o dano, sem que seja possível obter de outra fonte uma reparação efectiva e suficiente.\n\n2 - O direito a obter o adiantamento previsto no número anterior abrange, no caso de morte, as pessoas a quem, nos termos do n.º 1 do artigo 2009.º do Código Civil, é concedido um direito a alimentos e as que, nos termos da Lei n.º 7/2001, de 11 de Maio, vivam em união de facto com a vítima.\n\n3 - O direito ao adiantamento da indemnização mantém-se mesmo que não seja conhecida a identidade do autor dos actos de violência ou, por outra razão, ele não possa ser acusado ou condenado.\n\n4 - Têm direito ao adiantamento da indemnização as pessoas que auxiliem voluntariamente a vítima ou colaborem com as autoridades na prevenção da infracção, perseguição ou detenção do delinquente, verificados os requisitos constantes das alíneas a) a c) do n.º 1.\n\n5 - A concessão do adiantamento da indemnização às pessoas referidas no número anterior não depende da concessão de indemnização às vítimas de lesão.\n\n6 - [Revogado.]\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 53/2026 - Diário da República n.º 160/2026, Série I de 2026-08-19](https://diariodarepublica.pt/dr/detalhe/lei/53-2026-1160130310), em vigor a partir de 2026-08-24."
+  },
+  "1160372175": {
+   "fragment_id": "70157381",
+   "type": 11,
+   "heading": "Artigo 13.º — Instrução",
+   "in_force_from": "2026-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 53/2026 - Diário da República n.º 160/2026, Série I de 2026-08-19](https://diariodarepublica.pt/dr/detalhe/lei/53-2026-1160130310), em vigor a partir de 2026-08-24."
+   ],
+   "markdown": "###### Artigo 13.º — Instrução\n\n1 - Sem prejuízo do disposto na alínea c) do n.º 4 do artigo 7.º, o presidente ou o membro da Comissão responsável pelo processo procede a todas as diligências instrutórias que se revelem necessárias podendo, nomeadamente:\n\na) Ouvir os requerentes e os responsáveis pela indemnização, caso seja necessário;\n\nb) Aceder às denúncias e participações relativas aos factos criminosos e a quaisquer peças de processo penal instaurado, ainda que pendente de decisão final;\n\nc) Aceder a informações sobre a situação profissional, financeira ou social da vítima, do requerente ou dos responsáveis pela reparação do dano junto de qualquer pessoa, singular ou colectiva, ou qualquer entidade pública.\n\nd) Solicitar a colaboração de entidades públicas ou privadas que prestam apoio às vítimas de crimes.\n\n2 - A Comissão pode ainda solicitar as informações que considere necessárias à administração fiscal ou a estabelecimentos de crédito, quando a vítima, o requerente ou o responsável pela reparação do dano se recusem a fornecê-las ou caso existam fundadas razões no sentido de que os mesmos dispõem de bens ou recursos que pretendem ocultar.\n\n3 - Às informações solicitadas não é oponível o sigilo profissional ou bancário.\n\n4 - Exclusivamente para efeitos de averiguação da condição económica da vítima, do requerente ou do responsável pela reparação do dano, a Comissão pode proceder à consulta das bases de dados da titularidade de serviços da Administração Pública, nomeadamente da Segurança Social, da Autoridade Tributária e Aduaneira, do registo civil, predial, comercial e automóvel, de outros registos ou arquivos semelhantes e do sistema de informação de suporte à atividade dos tribunais.\n\n5 - As especificações técnicas e funcionais da interoperabilidade entre os sistemas de informação da Comissão de Proteção às Vítimas de Crimes (CPVC) e as bases de dados referidas no número anterior, assim como a auditabilidade do seu funcionamento, são definidas em protocolo a celebrar entre a CPVC e as entidades responsáveis pelas bases de dados, nomeadamente o Instituto da Segurança Social, IP, a Autoridade Tributária e Aduaneira, o Instituto dos Registos e Notariado, IP, o Instituto de Gestão Financeira e Equipamentos da Justiça, IP, o Conselho Superior de Magistratura e a Procuradoria-Geral da República, sujeito a parecer prévio da Comissão Nacional de Proteção de Dados.\n\n6 - [Revogado.]\n\n7 - As informações obtidas nos termos dos números anteriores não podem ser utilizadas para fins diferentes da instrução do pedido, sendo proibida a sua divulgação.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 53/2026 - Diário da República n.º 160/2026, Série I de 2026-08-19](https://diariodarepublica.pt/dr/detalhe/lei/53-2026-1160130310), em vigor a partir de 2026-08-24."
+  },
+  "1160372375": {
+   "fragment_id": "70157382",
+   "type": 11,
+   "heading": "Artigo 14 — Decisão do pedido",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Lei n.º 53/2026 - Diário da República n.º 160/2026, Série I de 2026-08-19](https://diariodarepublica.pt/dr/detalhe/lei/53-2026-1160130310)."
+   ],
+   "markdown": "###### Artigo 14 — Decisão do pedido\n\n1 - A instrução é concluída no prazo máximo de um mês.\n\n2 - Concluída a instrução, o presidente ou o membro da Comissão decide de imediato sobre a concessão da indemnização e qual o respectivo montante.\n\n3 - A concessão da indemnização e a fixação do respectivo montante é deliberada pela Comissão, sob proposta do presidente ou do membro responsável pela instrução, quando se verifique uma das situações previstas na alínea c) do n.º 4 do artigo 7.º\n\n4 - A fixação do montante indemnizatório é determinada nos termos dos artigos 4.º e 6.º, em função dos tipos de situações fixados pela Comissão e obedecendo às orientações por esta estabelecidas.\n\n5 - Antes de concluída a instrução, o membro da Comissão por ela responsável pode, em situações de evidente carência económica do requerente, conceder de imediato uma provisão por conta do adiantamento da indemnização a fixar posteriormente.\n\n6 - A Comissão deve garantir um funcionamento interno permanente de forma a dar prontamente resposta às situações previstas no número anterior.\n\n7 - [Revogado.]\n\n8 - A Comissão comunica ao tribunal onde correr o processo respeitante ao facto gerador do dano, exclusivamente por via electrónica, a decisão que conceda o adiantamento da indemnização.\n\n> Alterado pelo/a Artigo 11.º do/a [Lei n.º 53/2026 - Diário da República n.º 160/2026, Série I de 2026-08-19](https://diariodarepublica.pt/dr/detalhe/lei/53-2026-1160130310)."
+  },
+  "1160372575": {
+   "fragment_id": "70157384",
+   "type": 11,
+   "heading": "Artigo 15 — Sub-rogação",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Lei n.º 53/2026 - Diário da República n.º 160/2026, Série I de 2026-08-19](https://diariodarepublica.pt/dr/detalhe/lei/53-2026-1160130310)."
+   ],
+   "markdown": "###### Artigo 15 — Sub-rogação\n\n1 - O Estado, através da Comissão, fica sub-rogado nos direitos dos lesados contra o autor dos actos de violência e pessoas com responsabilidade meramente civil, dentro dos limites da indemnização prestada.\n\n2 - [Revogado.]\n\n3 - Para efeitos do disposto nos números anteriores, o comprovativo do adiantamento da indemnização, cujo modelo é aprovado por portaria do membro do Governo responsável pela área da justiça, tem força executiva própria e serve de suporte à execução instaurada.\n\n4 - Quando o autor dos actos geradores da indemnização estiver em execução de pena sob a tutela dos serviços prisionais ou dos serviços de reinserção social, a indemnização concedida é comunicada, preferencialmente por meios electrónicos, ao serviço respectivo, bem como ao tribunal de execução das penas, para os efeitos previstos na legislação relativa à execução das penas e tendo em vista o direito da Comissão a ser ressarcida pelo responsável do dano, pelo adiantamento de indemnização concedido ao abrigo da presente lei.\n\n5 - Nos casos previstos no número anterior, o tribunal de execução das penas deve, aquando da homologação do plano individual de readaptação ou aquando da decisão de aplicação de medidas de flexibilização da pena, ter em consideração o dever de indemnização que recai sobre o recluso.\n\n6 - O autor dos actos de violência, as pessoas com responsabilidade meramente civil e os serviços prisionais ou de reinserção social, nos casos em que o autor dos actos geradores da indemnização estiver em execução de pena sob a respectiva tutela, devem informar a Comissão dos pagamentos que sejam efectuados à vítima por conta da reparação efectiva dos danos sofridos.\n\n> Alterado pelo/a Artigo 11.º do/a [Lei n.º 53/2026 - Diário da República n.º 160/2026, Série I de 2026-08-19](https://diariodarepublica.pt/dr/detalhe/lei/53-2026-1160130310)."
+  },
+  "1160372775": {
+   "fragment_id": "70157385",
+   "type": 11,
+   "heading": "Artigo 16 — Reembolso",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Lei n.º 53/2026 - Diário da República n.º 160/2026, Série I de 2026-08-19](https://diariodarepublica.pt/dr/detalhe/lei/53-2026-1160130310)."
+   ],
+   "markdown": "###### Artigo 16 — Reembolso\n\n1 - Quando a vítima, posteriormente ao pagamento da provisão ou da indemnização, obtiver, a qualquer título, uma reparação ou uma indemnização efectiva do dano sofrido, deve a Comissão exigir o reembolso, total ou parcial, das importâncias recebidas.\n\n2 - O disposto no número anterior aplica-se quando, tendo sido entregue a provisão, se averiguar ulteriormente que a indemnização não foi concedida por não preenchimento dos requisitos referidos nos artigos 2.º e 5.º\n\n3 - [Revogado.]\n\n> Alterado pelo/a Artigo 11.º do/a [Lei n.º 53/2026 - Diário da República n.º 160/2026, Série I de 2026-08-19](https://diariodarepublica.pt/dr/detalhe/lei/53-2026-1160130310)."
+  }
+ }
+}

@@ -1,0 +1,377 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:544786:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2006-863011686",
+ "dre_path": "/dr/detalhe/portaria/1229-2006-544786",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-11-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "862976869",
+    "862976809",
+    "862976810",
+    "862976811",
+    "862976812",
+    "862976813",
+    "862976814",
+    "862976815",
+    "862976816",
+    "862976817",
+    "862976818",
+    "862976819",
+    "862976820",
+    "862976821",
+    "862976822"
+   ]
+  },
+  {
+   "date": "2007-09-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:262279:por",
+     "title": "Declaração de Rectificação n.º 1/2007",
+     "published": "2007-01-02",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/1-2007-262279"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 8.º"
+   ],
+   "fragments": [
+    "862976808",
+    "862976809",
+    "862976810",
+    "862976811",
+    "862976812",
+    "862976813",
+    "862976814",
+    "862976815",
+    "862976868",
+    "862976817",
+    "862976818",
+    "862976819",
+    "862976820",
+    "862976821",
+    "862976822"
+   ]
+  },
+  {
+   "date": "2017-12-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114384688:por",
+     "title": "Portaria n.º 382/2017",
+     "published": "2017-12-20",
+     "dre_path": "/dr/detalhe/portaria/382-2017-114384688"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "862976869",
+    "862976870",
+    "862976871",
+    "862976872",
+    "862976873",
+    "862976874",
+    "862977575",
+    "862977576",
+    "862977577",
+    "862977578",
+    "862977579",
+    "862977580",
+    "862977581",
+    "862977582",
+    "862977583"
+   ]
+  }
+ ],
+ "fragments": {
+  "862976869": {
+   "fragment_id": "863011687",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2017-12-21",
+   "changed_by": [],
+   "markdown": "Portaria n.º 1229/2006\n\nde 15 de Novembro\n\nConsiderando a necessidade de garantir a formação dos dirigentes das associações de jovens;\n\nConsiderando a indispensabilidade de regulamentação, em face da nova Lei do Associativismo Jovem;\n\nConsiderando as atribuições conferidas sobre esta matéria ao Instituto Português da Juventude:\n\nOuvido o Conselho Consultivo da Juventude:\n\nManda o Governo, pelo Secretário de Estado da Juventude e do Desporto, em cumprimento do disposto no n.º 1 do artigo 42.º da Lei n.º 23/2006, de 23 de Junho, e ao abrigo do n.º 2 do artigo 2.º do Decreto-Lei n.º 70/96, de 4 de Janeiro, o seguinte:"
+  },
+  "862976809": {
+   "fragment_id": "863011688",
+   "type": 11,
+   "heading": "Artigo 1.º — Programa Formar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Programa Formar\n\nÉ criado o Programa Formar e aprovado o respectivo Regulamento, que faz parte integrante da presente portaria."
+  },
+  "862976810": {
+   "fragment_id": "863011689",
+   "type": 11,
+   "heading": "Artigo 2.º — Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Gestão\n\nA gestão do Programa é da competência do Instituto Português da Juventude, nos termos da lei."
+  },
+  "862976811": {
+   "fragment_id": "863011690",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor a partir de 1 de Janeiro de 2007.\n\nO Secretário de Estado da Juventude e do Desporto, Laurentino José Monteiro Castro Dias, em 30 de Outubro de 2006.\n\nREGULAMENTO DO PROGRAMA FORMAR\n\nArtigo 1.º\n\nObjecto\n\nO Programa Formar regula o apoio formativo dos dirigentes das associações de jovens, preparando-os e dotando-os de instrumentos capazes ao desempenho qualitativo na gestão e execução das suas actividades.\n\nArtigo 2.º\n\nÂmbito\n\n1 - O Programa Formar contempla duas modalidades de apoio específicas:\n\na) Apoio formativo anual, para desenvolvimento de acções de formação enquadradas na educação não formal, da responsabilidade das associações de jovens inscritas no Registo Nacional do Associativismo Jovem (RNAJ), em parceria com entidades credenciadas ao nível da formação ou desenvolvidas pela própria associação desde que esta faça prova da sua capacidade formativa, nomeadamente ao nível da experiência e habilitação pedagógica dos seus formadores;\n\nb) Apoio formativo plurianual, para desenvolvimento de acções de formação de carácter técnico, da responsabilidade do Instituto Português da Juventude (IPJ), em parceria, ou não, com uma ou mais entidades credenciadas ao nível da formação.\n\n2 - Ambas as modalidades ficam sujeitas a consulta prévia às associações de jovens para auscultação das necessidades de formação, bem como à disponibilidade financeira do IPJ.\n\nArtigo 3.º\n\nCandidatos e destinatários\n\n1 - São candidatas às medidas de apoio do Programa Formar as associações de jovens inscritas no RNAJ que pretendam dotar os seus dirigentes associativos da formação necessária à execução das actividades que desenvolvem.\n\n2 - São destinatários do apoio formativo prestado no âmbito do Programa Formar os dirigentes associativos das associações de jovens inscritas no RNAJ."
+  },
+  "862976812": {
+   "fragment_id": "863011691",
+   "type": 11,
+   "heading": "Artigo 4.º — Procedimentos de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Procedimentos de candidatura\n\n1 - Os procedimentos adoptados para formalização, avaliação e selecção das candidaturas para o apoio formativo anual obedecem aos seguintes trâmites:\n\na) Cabe ao IPJ identificar as áreas de formação e divulgá-las no Portal da Juventude até 1 de Outubro de cada ano;\n\nb) Após divulgação das áreas de formação as associações enviam os seus contributos ao IPJ até 15 de Outubro;\n\nc) O IPJ, até 1 de Novembro, define e publica as áreas de formação a apoiar;\n\nd) As associações apresentam as suas candidaturas até 30 de Novembro através do preenchimento de uma ficha em formato a disponibilizar pelo IPJ, devendo, com a mesma, juntar os seguintes documentos, sob pena de inelegibilidade:\n\ni) Documento comprovativo de parceria com uma entidade credenciada para a formação ou certificado de aptidão profissional de formadores (CAP), ou diploma não nacional que permita aferir da aptidão e preparação técnica e profissional do formador para o exercício da actividade formativa prevista no presente Regulamento;\n\nii) Plano de formação detalhado;\n\niii) Orçamento detalhado para a acção de formação;\n\ne) O IPJ, até 30 de Dezembro, divulga a lista das associações e respectivos planos de formação seleccionados;\n\nf) O IPJ, a partir de 1 de Fevereiro, procede à transferência da verba desde que se encontre celebrado o protocolo com as respectivas entidades formadoras.\n\n2 - Os procedimentos adoptados para formalização, avaliação e selecção das candidaturas para o apoio formativo plurianual obedecem aos seguintes trâmites:\n\na) O IPJ, até 30 de Junho, efectua um diagnóstico das necessidades de formação junto de todas as associações de jovens inscritas no RNAJ, através de um inquérito;\n\nb) O IPJ, até 1 de Outubro, elabora um plano de formação com base nos resultados desse diagnóstico;\n\nc) O IPJ submete o plano referido na alínea anterior à apreciação das associações para que estas emitam opinião até 15 de Outubro;\n\nd) Após recepção de contributos, o IPJ, até 15 de Novembro, define e divulga o plano definitivo;\n\ne) O IPJ estabelece o protocolo com a entidade credenciada e define as datas da formação;\n\nf) O IPJ divulga as datas da formação e o número de vagas disponíveis;\n\ng) As associações candidatam os seus dirigentes através do preenchimento de uma ficha de candidatura, a disponibilizar pelo IPJ.\n\n3 - Todos os procedimentos são executados em formato electrónico.\n\n4 - As candidaturas estão sujeitas às vagas existentes por acção de formação, devendo existir no mínimo 10 e no máximo 20 por cada acção."
+  },
+  "862976813": {
+   "fragment_id": "863011692",
+   "type": 11,
+   "heading": "Artigo 5.º — Critérios de ponderação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Critérios de ponderação\n\n1 - São critérios gerais de ponderação na avaliação das candidaturas anuais e plurianuais:\n\na) Heterogeneidade da proveniência geográfica das associações;\n\nb) Garantia de igualdade de género, na selecção dos formandos.\n\n2 - São critérios especiais de ponderação na avaliação das candidaturas para inscrição à frequência nos cursos de formação plurianual:\n\na) Associações com dirigentes com responsabilidade na área da formação a desenvolver;\n\nb) Novas candidaturas de associações, exceptuando nos cursos de reciclagem e aperfeiçoamento.\n\n3 - São critérios especiais de ponderação na avaliação das candidaturas ao apoio formativo anual:\n\na) Candidaturas de federações de associações de jovens ou de associações de jovens que tenham actividade regular em mais de 50% dos distritos do País ou do Conselho Nacional da Juventude;\n\nb) Candidaturas que apresentem parcerias com mais de uma associação de jovens;\n\nc) Capacidade de co-financiamento e de autofinanciamento;\n\nd) Candidatura de associações de jovens que apresentem planos de formação que potenciem actividades que possam realizar."
+  },
+  "862976814": {
+   "fragment_id": "863011693",
+   "type": 11,
+   "heading": "Artigo 6.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Avaliação\n\n1 - As associações devem apresentar um relatório final sobre cada acção de formação, em formato a disponibilizar pelo IPJ, no prazo de 60 dias após a sua realização.\n\n2 - Na modalidade de apoio anual, as associações devem fazer acompanhar o relatório final com os seguintes documentos:\n\na) Relatório e contas, de acordo com modelo a disponibilizar pelo IPJ;\n\nb) Relatório da formação que inclua relatórios das reuniões de acompanhamento com a entidade certificada."
+  },
+  "862976815": {
+   "fragment_id": "863011694",
+   "type": 11,
+   "heading": "Artigo 7.º — Alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Alterações\n\n1 - Na modalidade de apoio anual, as associações podem apresentar alterações ao plano de formação objecto da candidatura, devendo formalizá-las para avaliação, junto do IPJ, 15 dias antes do início da acção, sob pena de não serem consideradas.\n\n2 - Para efeitos do disposto no número anterior, apenas são consideradas as alterações efectuadas à calendarização e local de realização da acção desde que, neste último caso, a acção se realize no distrito já aprovado na candidatura."
+  },
+  "862976816": {
+   "fragment_id": "863011695",
+   "type": 11,
+   "heading": "Artigo 8.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sanções\n\n1 - A não entrega do relatório nos termos do disposto no artigo anterior implica a devolução da verba atribuída.\n\n2 - O não cumprimento do plano de formação na íntegra determina a devolução do valor das verbas não utilizadas.\n\n3 - A não execução da formação de acordo com o plano ou planos definidos impede a candidatura da associação a qualquer plano de formação no ano seguinte.\n\n4 - Independentemente do disposto no número anterior, são de aplicar, com as necessárias adaptações, as sanções previstas no artigo 47.º da Lei n.º 23/2006, de 23 de Junho.\n\n5 - Compete à comissão executiva aplicar as sanções previstas no artigo 47.º da Lei n.º 23/2006, de 23 de Junho, após proposta fundamentada dos serviços."
+  },
+  "862976817": {
+   "fragment_id": "863011696",
+   "type": 11,
+   "heading": "Artigo 9.º — Base de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Base de dados\n\n1 - A informação a que alude este Regulamento destina-se a inserir na base de dados, constituída nos termos da Lei n.º 67/98, de 26 de Outubro, os elementos necessários à gestão procedimental do Programa Formar junto das associações.\n\n2 - Ficam excluídos da base de dados mencionada no número anterior os referentes a convicções filosóficas ou políticas, filiação partidária ou sindical, fé religiosa ou vida privada.\n\n3 - Ficam igualmente excluídos os dados referentes à origem racial ou étnica, à vida sexual, incluindo dados genéticos, coordenação em processo criminal, suspeitas de actividades ilícitas, estado de saúde e situação patrimonial e financeira."
+  },
+  "862976818": {
+   "fragment_id": "863011697",
+   "type": 11,
+   "heading": "Artigo 10.º — Circulação electrónica de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Circulação electrónica de documentos\n\nAs entidades mencionadas neste Regulamento privilegiam a divulgação e troca de documentos através de meios electrónicos."
+  },
+  "862976819": {
+   "fragment_id": "863011698",
+   "type": 11,
+   "heading": "Artigo 11.º — Valor documental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Valor documental\n\n1 - Só podem ser utilizados os dados constantes de documentos que legalmente os comprovem.\n\n2 - Os documentos em língua estrangeira só podem ser aceites quando traduzidos em língua portuguesa.\n\n3 - Ao valor probatório dos documentos electrónicos aplica-se, com as necessárias adaptações, o disposto no Decreto-Lei n.º 290-D/99, de 2 de Agosto."
+  },
+  "862976820": {
+   "fragment_id": "863011699",
+   "type": 11,
+   "heading": "Artigo 12.º — Concessão de apoios estatais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Concessão de apoios estatais\n\nA concessão de apoios financeiros, técnicos e humanos às entidades abrangidas pelo presente Regulamento fica condicionada à prova de prévia inscrição no RNAJ."
+  },
+  "862976821": {
+   "fragment_id": "863011700",
+   "type": 11,
+   "heading": "Artigo 13.º — Impugnação das decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Impugnação das decisões\n\nÀ reclamação ou recurso das decisões nesta matéria aplica-se, com as necessárias adaptações, o disposto no Código do Procedimento Administrativo."
+  },
+  "862976822": {
+   "fragment_id": "863011701",
+   "type": 11,
+   "heading": "Artigo 14.º — Aplicação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Aplicação subsidiária\n\nA Lei n.º 23/2006, de 23 de Junho, aplica-se subsidiariamente à presente portaria."
+  },
+  "862976808": {
+   "fragment_id": "863011687",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1229/2006\n\nde 15 de Novembro\n\nConsiderando a necessidade de garantir a formação dos dirigentes das associações de jovens;\n\nConsiderando a indispensabilidade de regulamentação, em face da nova Lei do Associativismo Jovem;\n\nConsiderando as atribuições conferidas sobre esta matéria ao Instituto Português da Juventude:\n\nOuvido o Conselho Consultivo da Juventude:\n\nManda o Governo, pelo Secretário de Estado da Juventude e do Desporto, em cumprimento do disposto no n.º 1 do artigo 42.º da Lei n.º 23/2006, de 23 de Junho, e ao abrigo do n.º 2 do artigo 2.º do Decreto-Lei n.º 70/96, de 4 de Janeiro, o seguinte:"
+  },
+  "862976868": {
+   "fragment_id": "863011695",
+   "type": 11,
+   "heading": "Artigo 8.º — Sanções",
+   "in_force_from": "2007-09-26",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 1/2007 - Diário da República n.º 1/2007, Série I de 2007-01-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-2007-262279), em vigor a partir de 2007-09-26"
+   ],
+   "markdown": "###### Artigo 8.º — Sanções\n\n1 - A não entrega do relatório nos termos do disposto no artigo anterior implica a devolução da verba atribuída.\n\n2 - O não cumprimento do plano de formação na íntegra determina a devolução do valor das verbas não utilizadas.\n\n3 - A não execução da formação de acordo com o plano ou planos definidos impede a candidatura da associação a qualquer plano de formação no ano seguinte.\n\n4 - Independentemente do disposto nos números anteriores, são de aplicar, com as necessárias adaptações, as sanções previstas no artigo 47.º da Lei n.º 23/2006, de 23 de Junho.\n\n5 - Compete à comissão executiva aplicar as sanções previstas no artigo 47.º da Lei n.º 23/2006, de 23 de Junho, após proposta fundamentada dos serviços.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 1/2007 - Diário da República n.º 1/2007, Série I de 2007-01-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-2007-262279), em vigor a partir de 2007-09-26"
+  },
+  "862976870": {
+   "fragment_id": "863011688",
+   "type": 11,
+   "heading": "Artigo 1.º — Programa Formar",
+   "in_force_from": "2017-12-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 382/2017 - Diário da República n.º 243/2017, Série I de 2017-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/382-2017-114384688), em vigor a partir de 2017-12-21"
+   ],
+   "markdown": "###### Artigo 1.º — Programa Formar\n\nÉ criado o Programa Formar e aprovado o respectivo Regulamento, que faz parte integrante da presente portaria.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 382/2017 - Diário da República n.º 243/2017, Série I de 2017-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/382-2017-114384688), em vigor a partir de 2017-12-21"
+  },
+  "862976871": {
+   "fragment_id": "863011689",
+   "type": 11,
+   "heading": "Artigo 2.º — Gestão",
+   "in_force_from": "2017-12-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 382/2017 - Diário da República n.º 243/2017, Série I de 2017-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/382-2017-114384688), em vigor a partir de 2017-12-21"
+   ],
+   "markdown": "###### Artigo 2.º — Gestão\n\nA gestão do Programa é da competência do Instituto Português da Juventude, nos termos da lei.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 382/2017 - Diário da República n.º 243/2017, Série I de 2017-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/382-2017-114384688), em vigor a partir de 2017-12-21"
+  },
+  "862976872": {
+   "fragment_id": "863011690",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": "2017-12-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 382/2017 - Diário da República n.º 243/2017, Série I de 2017-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/382-2017-114384688), em vigor a partir de 2017-12-21"
+   ],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor a partir de 1 de Janeiro de 2007.\n\nO Secretário de Estado da Juventude e do Desporto, Laurentino José Monteiro Castro Dias, em 30 de Outubro de 2006.\n\nREGULAMENTO DO PROGRAMA FORMAR\n\nArtigo 1.º\n\nObjecto\n\nO Programa Formar regula o apoio formativo dos dirigentes das associações de jovens, preparando-os e dotando-os de instrumentos capazes ao desempenho qualitativo na gestão e execução das suas actividades.\n\nArtigo 2.º\n\nÂmbito\n\n1 - O Programa Formar contempla duas modalidades de apoio específicas:\n\na) Apoio formativo anual, para desenvolvimento de acções de formação enquadradas na educação não formal, da responsabilidade das associações de jovens inscritas no Registo Nacional do Associativismo Jovem (RNAJ), em parceria com entidades credenciadas ao nível da formação ou desenvolvidas pela própria associação desde que esta faça prova da sua capacidade formativa, nomeadamente ao nível da experiência e habilitação pedagógica dos seus formadores;\n\nb) Apoio formativo plurianual, para desenvolvimento de acções de formação de carácter técnico, da responsabilidade do Instituto Português da Juventude (IPJ), em parceria, ou não, com uma ou mais entidades credenciadas ao nível da formação.\n\n2 - Ambas as modalidades ficam sujeitas a consulta prévia às associações de jovens para auscultação das necessidades de formação, bem como à disponibilidade financeira do IPJ.\n\nArtigo 3.º\n\nCandidatos e destinatários\n\n1 - São candidatas às medidas de apoio do Programa Formar as associações de jovens inscritas no RNAJ que pretendam dotar os seus dirigentes associativos da formação necessária à execução das actividades que desenvolvem.\n\n2 - São destinatários do apoio formativo prestado no âmbito do Programa Formar os dirigentes associativos das associações de jovens inscritas no RNAJ.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 382/2017 - Diário da República n.º 243/2017, Série I de 2017-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/382-2017-114384688), em vigor a partir de 2017-12-21"
+  },
+  "862976873": {
+   "fragment_id": "863011691",
+   "type": 11,
+   "heading": "Artigo 4.º — Procedimentos de candidatura",
+   "in_force_from": "2017-12-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 382/2017 - Diário da República n.º 243/2017, Série I de 2017-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/382-2017-114384688), em vigor a partir de 2017-12-21"
+   ],
+   "markdown": "###### Artigo 4.º — Procedimentos de candidatura\n\n1 - Os procedimentos adoptados para formalização, avaliação e selecção das candidaturas para o apoio formativo anual obedecem aos seguintes trâmites:\n\na) Cabe ao IPJ identificar as áreas de formação e divulgá-las no Portal da Juventude até 1 de Outubro de cada ano;\n\nb) Após divulgação das áreas de formação as associações enviam os seus contributos ao IPJ até 15 de Outubro;\n\nc) O IPJ, até 1 de Novembro, define e publica as áreas de formação a apoiar;\n\nd) As associações apresentam as suas candidaturas até 30 de Novembro através do preenchimento de uma ficha em formato a disponibilizar pelo IPJ, devendo, com a mesma, juntar os seguintes documentos, sob pena de inelegibilidade:\n\ni) Documento comprovativo de parceria com uma entidade credenciada para a formação ou certificado de aptidão profissional de formadores (CAP), ou diploma não nacional que permita aferir da aptidão e preparação técnica e profissional do formador para o exercício da actividade formativa prevista no presente Regulamento;\n\nii) Plano de formação detalhado;\n\niii) Orçamento detalhado para a acção de formação;\n\ne) O IPJ, até 30 de Dezembro, divulga a lista das associações e respectivos planos de formação seleccionados;\n\nf) O IPJ, a partir de 1 de Fevereiro, procede à transferência da verba desde que se encontre celebrado o protocolo com as respectivas entidades formadoras.\n\n2 - Os procedimentos adoptados para formalização, avaliação e selecção das candidaturas para o apoio formativo plurianual obedecem aos seguintes trâmites:\n\na) O IPJ, até 30 de Junho, efectua um diagnóstico das necessidades de formação junto de todas as associações de jovens inscritas no RNAJ, através de um inquérito;\n\nb) O IPJ, até 1 de Outubro, elabora um plano de formação com base nos resultados desse diagnóstico;\n\nc) O IPJ submete o plano referido na alínea anterior à apreciação das associações para que estas emitam opinião até 15 de Outubro;\n\nd) Após recepção de contributos, o IPJ, até 15 de Novembro, define e divulga o plano definitivo;\n\ne) O IPJ estabelece o protocolo com a entidade credenciada e define as datas da formação;\n\nf) O IPJ divulga as datas da formação e o número de vagas disponíveis;\n\ng) As associações candidatam os seus dirigentes através do preenchimento de uma ficha de candidatura, a disponibilizar pelo IPJ.\n\n3 - Todos os procedimentos são executados em formato electrónico.\n\n4 - As candidaturas estão sujeitas às vagas existentes por acção de formação, devendo existir no mínimo 10 e no máximo 20 por cada acção.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 382/2017 - Diário da República n.º 243/2017, Série I de 2017-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/382-2017-114384688), em vigor a partir de 2017-12-21"
+  },
+  "862976874": {
+   "fragment_id": "863011692",
+   "type": 11,
+   "heading": "Artigo 5.º — Critérios de ponderação",
+   "in_force_from": "2017-12-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 382/2017 - Diário da República n.º 243/2017, Série I de 2017-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/382-2017-114384688), em vigor a partir de 2017-12-21"
+   ],
+   "markdown": "###### Artigo 5.º — Critérios de ponderação\n\n1 - São critérios gerais de ponderação na avaliação das candidaturas anuais e plurianuais:\n\na) Heterogeneidade da proveniência geográfica das associações;\n\nb) Garantia de igualdade de género, na selecção dos formandos.\n\n2 - São critérios especiais de ponderação na avaliação das candidaturas para inscrição à frequência nos cursos de formação plurianual:\n\na) Associações com dirigentes com responsabilidade na área da formação a desenvolver;\n\nb) Novas candidaturas de associações, exceptuando nos cursos de reciclagem e aperfeiçoamento.\n\n3 - São critérios especiais de ponderação na avaliação das candidaturas ao apoio formativo anual:\n\na) Candidaturas de federações de associações de jovens ou de associações de jovens que tenham actividade regular em mais de 50% dos distritos do País ou do Conselho Nacional da Juventude;\n\nb) Candidaturas que apresentem parcerias com mais de uma associação de jovens;\n\nc) Capacidade de co-financiamento e de autofinanciamento;\n\nd) Candidatura de associações de jovens que apresentem planos de formação que potenciem actividades que possam realizar.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 382/2017 - Diário da República n.º 243/2017, Série I de 2017-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/382-2017-114384688), em vigor a partir de 2017-12-21"
+  },
+  "862977575": {
+   "fragment_id": "863011693",
+   "type": 11,
+   "heading": "Artigo 6.º — Avaliação",
+   "in_force_from": "2017-12-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 382/2017 - Diário da República n.º 243/2017, Série I de 2017-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/382-2017-114384688), em vigor a partir de 2017-12-21"
+   ],
+   "markdown": "###### Artigo 6.º — Avaliação\n\n1 - As associações devem apresentar um relatório final sobre cada acção de formação, em formato a disponibilizar pelo IPJ, no prazo de 60 dias após a sua realização.\n\n2 - Na modalidade de apoio anual, as associações devem fazer acompanhar o relatório final com os seguintes documentos:\n\na) Relatório e contas, de acordo com modelo a disponibilizar pelo IPJ;\n\nb) Relatório da formação que inclua relatórios das reuniões de acompanhamento com a entidade certificada.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 382/2017 - Diário da República n.º 243/2017, Série I de 2017-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/382-2017-114384688), em vigor a partir de 2017-12-21"
+  },
+  "862977576": {
+   "fragment_id": "863011694",
+   "type": 11,
+   "heading": "Artigo 7.º — Alterações",
+   "in_force_from": "2017-12-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 382/2017 - Diário da República n.º 243/2017, Série I de 2017-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/382-2017-114384688), em vigor a partir de 2017-12-21"
+   ],
+   "markdown": "###### Artigo 7.º — Alterações\n\n1 - Na modalidade de apoio anual, as associações podem apresentar alterações ao plano de formação objecto da candidatura, devendo formalizá-las para avaliação, junto do IPJ, 15 dias antes do início da acção, sob pena de não serem consideradas.\n\n2 - Para efeitos do disposto no número anterior, apenas são consideradas as alterações efectuadas à calendarização e local de realização da acção desde que, neste último caso, a acção se realize no distrito já aprovado na candidatura.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 382/2017 - Diário da República n.º 243/2017, Série I de 2017-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/382-2017-114384688), em vigor a partir de 2017-12-21"
+  },
+  "862977577": {
+   "fragment_id": "863011695",
+   "type": 11,
+   "heading": "Artigo 8.º — Sanções",
+   "in_force_from": "2017-12-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 382/2017 - Diário da República n.º 243/2017, Série I de 2017-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/382-2017-114384688), em vigor a partir de 2017-12-21",
+    "Retificado pelo/a [Declaração de Rectificação n.º 1/2007 - Diário da República n.º 1/2007, Série I de 2007-01-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-2007-262279), em vigor a partir de 2007-09-26"
+   ],
+   "markdown": "###### Artigo 8.º — Sanções\n\n1 - A não entrega do relatório nos termos do disposto no artigo anterior implica a devolução da verba atribuída.\n\n2 - O não cumprimento do plano de formação na íntegra determina a devolução do valor das verbas não utilizadas.\n\n3 - A não execução da formação de acordo com o plano ou planos definidos impede a candidatura da associação a qualquer plano de formação no ano seguinte.\n\n4 - Independentemente do disposto nos números anteriores, são de aplicar, com as necessárias adaptações, as sanções previstas no artigo 47.º da Lei n.º 23/2006, de 23 de Junho.\n\n5 - Compete à comissão executiva aplicar as sanções previstas no artigo 47.º da Lei n.º 23/2006, de 23 de Junho, após proposta fundamentada dos serviços.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 382/2017 - Diário da República n.º 243/2017, Série I de 2017-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/382-2017-114384688), em vigor a partir de 2017-12-21\n\n> Retificado pelo/a [Declaração de Rectificação n.º 1/2007 - Diário da República n.º 1/2007, Série I de 2007-01-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-2007-262279), em vigor a partir de 2007-09-26"
+  },
+  "862977578": {
+   "fragment_id": "863011696",
+   "type": 11,
+   "heading": "Artigo 9.º — Base de dados",
+   "in_force_from": "2017-12-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 382/2017 - Diário da República n.º 243/2017, Série I de 2017-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/382-2017-114384688), em vigor a partir de 2017-12-21"
+   ],
+   "markdown": "###### Artigo 9.º — Base de dados\n\n1 - A informação a que alude este Regulamento destina-se a inserir na base de dados, constituída nos termos da Lei n.º 67/98, de 26 de Outubro, os elementos necessários à gestão procedimental do Programa Formar junto das associações.\n\n2 - Ficam excluídos da base de dados mencionada no número anterior os referentes a convicções filosóficas ou políticas, filiação partidária ou sindical, fé religiosa ou vida privada.\n\n3 - Ficam igualmente excluídos os dados referentes à origem racial ou étnica, à vida sexual, incluindo dados genéticos, coordenação em processo criminal, suspeitas de actividades ilícitas, estado de saúde e situação patrimonial e financeira.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 382/2017 - Diário da República n.º 243/2017, Série I de 2017-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/382-2017-114384688), em vigor a partir de 2017-12-21"
+  },
+  "862977579": {
+   "fragment_id": "863011697",
+   "type": 11,
+   "heading": "Artigo 10.º — Circulação electrónica de documentos",
+   "in_force_from": "2017-12-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 382/2017 - Diário da República n.º 243/2017, Série I de 2017-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/382-2017-114384688), em vigor a partir de 2017-12-21"
+   ],
+   "markdown": "###### Artigo 10.º — Circulação electrónica de documentos\n\nAs entidades mencionadas neste Regulamento privilegiam a divulgação e troca de documentos através de meios electrónicos.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 382/2017 - Diário da República n.º 243/2017, Série I de 2017-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/382-2017-114384688), em vigor a partir de 2017-12-21"
+  },
+  "862977580": {
+   "fragment_id": "863011698",
+   "type": 11,
+   "heading": "Artigo 11.º — Valor documental",
+   "in_force_from": "2017-12-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 382/2017 - Diário da República n.º 243/2017, Série I de 2017-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/382-2017-114384688), em vigor a partir de 2017-12-21"
+   ],
+   "markdown": "###### Artigo 11.º — Valor documental\n\n1 - Só podem ser utilizados os dados constantes de documentos que legalmente os comprovem.\n\n2 - Os documentos em língua estrangeira só podem ser aceites quando traduzidos em língua portuguesa.\n\n3 - Ao valor probatório dos documentos electrónicos aplica-se, com as necessárias adaptações, o disposto no Decreto-Lei n.º 290-D/99, de 2 de Agosto.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 382/2017 - Diário da República n.º 243/2017, Série I de 2017-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/382-2017-114384688), em vigor a partir de 2017-12-21"
+  },
+  "862977581": {
+   "fragment_id": "863011699",
+   "type": 11,
+   "heading": "Artigo 12.º — Concessão de apoios estatais",
+   "in_force_from": "2017-12-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 382/2017 - Diário da República n.º 243/2017, Série I de 2017-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/382-2017-114384688), em vigor a partir de 2017-12-21"
+   ],
+   "markdown": "###### Artigo 12.º — Concessão de apoios estatais\n\nA concessão de apoios financeiros, técnicos e humanos às entidades abrangidas pelo presente Regulamento fica condicionada à prova de prévia inscrição no RNAJ.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 382/2017 - Diário da República n.º 243/2017, Série I de 2017-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/382-2017-114384688), em vigor a partir de 2017-12-21"
+  },
+  "862977582": {
+   "fragment_id": "863011700",
+   "type": 11,
+   "heading": "Artigo 13.º — Impugnação das decisões",
+   "in_force_from": "2017-12-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 382/2017 - Diário da República n.º 243/2017, Série I de 2017-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/382-2017-114384688), em vigor a partir de 2017-12-21"
+   ],
+   "markdown": "###### Artigo 13.º — Impugnação das decisões\n\nÀ reclamação ou recurso das decisões nesta matéria aplica-se, com as necessárias adaptações, o disposto no Código do Procedimento Administrativo.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 382/2017 - Diário da República n.º 243/2017, Série I de 2017-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/382-2017-114384688), em vigor a partir de 2017-12-21"
+  },
+  "862977583": {
+   "fragment_id": "863011701",
+   "type": 11,
+   "heading": "Artigo 14.º — Aplicação subsidiária",
+   "in_force_from": "2017-12-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 382/2017 - Diário da República n.º 243/2017, Série I de 2017-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/382-2017-114384688), em vigor a partir de 2017-12-21"
+   ],
+   "markdown": "###### Artigo 14.º — Aplicação subsidiária\n\nA Lei n.º 23/2006, de 23 de Junho, aplica-se subsidiariamente à presente portaria.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 382/2017 - Diário da República n.º 243/2017, Série I de 2017-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/382-2017-114384688), em vigor a partir de 2017-12-21"
+  }
+ }
+}

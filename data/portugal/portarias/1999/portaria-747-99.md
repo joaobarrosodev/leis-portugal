@@ -1,0 +1,138 @@
+---
+schema_version: '1.0'
+id: pt:dre:533787:por
+title: Portaria n.º 747/99
+short_title: null
+summary: Altera o quadro do pessoal civil da Marinha
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios da Defesa Nacional e das Finanças
+proposing_entity: null
+official_number: 747/99
+official_date: null
+publication_date: '1999-08-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 200/1999, Série I-B de 1999-08-27
+  number: '200'
+  series: I
+  supplement: null
+  pages: 5901 - 5902
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/08/200b00/59015902.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/747/1999/08/27/p/dre/pt/html
+  oj: null
+  dre: '533787'
+  dre_path: /dr/detalhe/portaria/747-1999-533787
+  internal: pt:dre:533787:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/747-1999-533787
+  metadata_url: https://data.dre.pt/eli/port/747/1999/08/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/747-1999-533787
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:17:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6a255b2a5cb4f16a9d8a52cd42273e12df6c59579e4fdef6fc29ca2ccebf7b87
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:31Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão Executiva de Infraestruturas OTAN
+- Marinha
+- Pessoal Civil
+- Quadro de Pessoal
+- Transferência de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:260159:por
+  label: null
+  source: http://data.dre.pt/eli/port/579/1993/06/07/p/dre
+- type: cites
+  target: pt:dre:376424:por
+  label: null
+  source: http://data.dre.pt/eli/port/642/1993/07/06/p/dre
+- type: cites
+  target: pt:dre:501872:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/99/1995/05/19/p/dre
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572911:por
+  label: null
+  source: http://data.dre.pt/eli/port/1180/1995/09/27/p/dre
+- type: cites
+  target: pt:dre:660530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662301:por
+  label: null
+  source: http://data.dre.pt/eli/port/717/1991/07/23/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:17:31Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 747/99
+
+de 27 de Agosto
+
+O [Decreto-Lei n.º 99/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1995-501872), de 19 de Maio, determina a transição do pessoal civil afecto aos quadros das infra-estruturas da Organização do Tratado do Atlântico Norte (OTAN) para os quadros do pessoal civil dos organismos do Ministério da Defesa Nacional e dos ramos das Forças Armadas.
+
+Deste modo, importa transferir para o quadro do pessoal civil da Marinha (QPCM) o pessoal civil afecto à Comissão Executiva das Infra-Estruturas OTAN da Armada (CEMINA), à Comissão Executiva da Assistência às Infra-Estruturas Radiotelegráficas OTAN (CEAIRN), ao Depósito de Munições OTAN de Lisboa, ao Depósito POL OTAN de Lisboa e ao Depósito POL OTAN de Ponta Delgada.
+
+Para o efeito, torna-se necessário consagrar as carreiras de técnico profissional de combustíveis, de técnico profissional de munições, de técnico profissional de culinária, de operador de combustíveis e de segurança, não previstas na [Portaria n.º 86/84](https://diariodarepublica.pt/dr/detalhe/portaria/86-1984-660530), de 7 de Fevereiro, que criou o referido quadro do pessoal civil.
+
+Assim, ao abrigo do previsto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 Janeiro, e do disposto na alínea b) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 99/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1995-501872), de 19 de Maio:
+
+Manda o Governo, pelos Ministros da Defesa Nacional, das Finanças e Adjunto, o seguinte:
+
+1.º O quadro do pessoal civil da Marinha (QPCM), aprovado pela [Portaria n.º 86/84](https://diariodarepublica.pt/dr/detalhe/portaria/86-1984-660530), de 7 de Fevereiro, com as alterações introduzidas pelas Portarias n.os [717/91](https://diariodarepublica.pt/dr/detalhe/portaria/717-1991-662301), de 23 de Julho, [579/93](https://diariodarepublica.pt/dr/detalhe/portaria/579-1993-260159), de 7 de Junho, [642/93](https://diariodarepublica.pt/dr/detalhe/portaria/642-1993-376424), de 6 de Julho, e [1180/95](https://diariodarepublica.pt/dr/detalhe/portaria/1180-1995-572911), de 27 de Setembro, é alterado, aditando-se-lhe os lugares constantes do mapa anexo I à presente portaria, que dela faz parte integrante.
+
+2.º Os lugares das carreiras de técnico profissional de culinária e de segurança são extintos quando vagarem.
+
+Em 2 de Agosto de 1999.
+
+Pelo Ministro da Defesa Nacional, José Rodrigues Pereira Penedos, Secretário de Estado da Defesa Nacional. - Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa.
+
+## ANEXO I — [(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/08/200b00/59015902.pdf)

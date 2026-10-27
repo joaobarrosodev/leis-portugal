@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:867195908:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2024-1173539275",
+ "dre_path": "/dr/detalhe/despacho-extrato/5976-2024-867195908",
+ "source_lastmod": "2026-09-25",
+ "versions": [
+  {
+   "date": "2024-05-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1173540475"
+   ]
+  }
+ ],
+ "fragments": {
+  "1173540475": {
+   "fragment_id": "1173539375",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Nos termos do n.º 6 do artigo 46.º da Lei de Organização e Funcionamento dos Serviços da Assembleia da República, republicada pela Lei n.º 28/2003, de 30 de julho, na sua atual redação, por despacho, datado de 15 de abril de 2024, do Presidente do Grupo Parlamentar do CHEGA, Deputado Pedro Pinto, são nomeados, com efeitos a 18 de abril de 2024:\n\nCarolina Marinho Pereira, para o cargo de assessora jurídica;\n\nIsabella Sales Baltazar, para o cargo de assessor;\n\nJoão Maria Charneca Condesso, para o cargo de assessor financeiro."
+  }
+ }
+}

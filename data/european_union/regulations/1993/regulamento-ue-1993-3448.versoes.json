@@ -1,0 +1,359 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993R3448:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993R3448-20100104",
+ "dre_path": null,
+ "source_lastmod": "2010-01-04",
+ "versions": [
+  {
+   "date": "2000-12-02",
+   "future": false,
+   "celex": "01993R3448-20001202",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0a7d16fe3c1c6d93",
+    "562e82a18f5b81a1",
+    "f460687f1bb19ae5",
+    "b514aa02e08c273a",
+    "4253066622cf3ba5",
+    "9e1f0c932b9bd050",
+    "bf8376c130ab8c05",
+    "eb3bcb4dc2b6e41a",
+    "6fb39fe876370455",
+    "09b9e601b44b9f06",
+    "0b8906c319dae465",
+    "8b5b504b969b6f03",
+    "e996a65c2eb8700d",
+    "8320e293017f9ab4",
+    "442ec9baaa9cc253",
+    "ea3fed39670a97d2",
+    "c89ca9a71e4aa88d",
+    "1e71c19472cded16",
+    "1817714513dac29c",
+    "915cced2491291f2",
+    "19c6247e6c3b906b",
+    "08add937d5a3aa52",
+    "43fa5e1fc90f294c",
+    "f65e536289f45a6c",
+    "862f36fa7e3fec0a",
+    "ff595ffa2f93d3f8",
+    "eb2be1933fe04a6d",
+    "4803cfe14f925b5d",
+    "3831f88e4a685fbd",
+    "0e76214eebc311ef",
+    "3cc8b988e42491a6",
+    "f0270192c9c32778"
+   ]
+  },
+  {
+   "date": "2010-01-04",
+   "future": false,
+   "celex": "01993R3448-20100104",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R1097:PT:NOT)",
+    "Suprime TÍTULO I — REGIME DE TROCAS",
+    "Suprime CAPÍTULO I — Importação",
+    "Suprime Secção I — Trocas comerciais com os países terceiros",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Secção II — Trocas comerciais preferenciais",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime CAPÍTULO 2 — Exportação",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime TÍTULO II — DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 10oA",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12o — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R1097:PT:NOT) —————",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R1097:PT:NOT)",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime Artigo 19o",
+    "Suprime Artigo 20o",
+    "Suprime Artigo 21o",
+    "Suprime Artigo 22o",
+    "Suprime ANEXO A",
+    "Suprime ANEXO B — QUADRO 1",
+    "Suprime ANEXO C"
+   ],
+   "fragments": [
+    "55d37dabbef76ab1"
+   ]
+  }
+ ],
+ "fragments": {
+  "0a7d16fe3c1c6d93": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1993R3448 — PT — 02.12.2000 — 002.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993R3448:PT:NOT) [REGULAMENTO (CE) No 3448/93 DO CONSELHO de 6 de Dezembro de 1993 que estabelece o regime de trocas aplicável a certas mercadorias resultantes da transformação de produtos agrícolas](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993R3448:PT:NOT) (JO L 318, 20.12.1993, p.18)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R1097:PT:NOT) | [Regulamento (CE) no 1097/98 do Conselho de 25 de Maio de 1998](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R1097:PT:NOT) | L 157 | 1 | 30.5.1998 |\n| [►M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R2491:PT:NOT) | [Regulamento (CE) no 2491/98 da Comissão de 18 de Novembro de 1998](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R2491:PT:NOT) | L 309 | 28 | 19.11.1998 |\n| [►M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32000R2580:PT:NOT) | [Regulamento (CE) n.o 2580/2000 do Conselho de 20 de Novembro de 2000](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32000R2580:PT:NOT) | L 298 | 5 | 25.11.2000 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993R3448:PT:NOT)\n\nREGULAMENTO (CE) No 3448/93 DO CONSELHO\n\nde 6 de Dezembro de 1993\n\nque estabelece o regime de trocas aplicável a certas mercadorias resultantes da transformação de produtos agrícolas\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, os seus artigo 43o e 113o,\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/1f66755e-03dc-4e26-ba82-90eb108f493b.0018.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([2](http://publications.europa.eu/resource/cellar/1f66755e-03dc-4e26-ba82-90eb108f493b.0018.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([3](http://publications.europa.eu/resource/cellar/1f66755e-03dc-4e26-ba82-90eb108f493b.0018.02/DOC_1#E0003)),\n\nConsiderando que o Tratado prevê, nos artigos 38o a 47o, a criação de uma política agrícola comum relativa aos produtos agrícolas enumerados no anexo II;\n\nConsiderando que certos produtos agrícolas entram na composição de numerosas mercadorias não enumeradas no anexo II do Tratado;\n\nConsiderando que é necessário prever medidas ligadas à política agrícola comum e à política comercial comum para tomar em consideração, por um lado, a incidência do comércio destas mercadorias nos objectivos do artigo 39o do Tratado e, por outro, o modo como as medidas adoptadas nos termos do artigo 43o do Tratado afectam economicamente as referidas mercadorias, dadas as diferenças entre os custos do abastecimento em produtos agrícolas na Comunidade e fora desta e as diferenças entre os preços dos produtos agrícolas;\n\nConsiderando que o Tratado prevê que as políticas agrícola e comercial sejam políticas comunitárias; que é necessário estabelecer regras gerais e completas, válidas em toda a Comunidade, relativas às trocas de certas mercadorias resultantes da transformação de produtos agrícolas, para a realização dos objectivos do Tratado;\n\nConsiderando que o Regulamento (CEE) no 3033/80 do Conselho, de 11 de Novembro de 1980, que determina o regime de trocas aplicável a certas mercadorias resultantes da transformação de produtos agrícolas ([4](http://publications.europa.eu/resource/cellar/1f66755e-03dc-4e26-ba82-90eb108f493b.0018.02/DOC_1#E0004)), prevê a aplicação, na importação de certas mercadorias, de uma imposição composta por um elemento fixo, destinado a garantir a protecção da indústria transformadora, e de um elemento móvel, destinado a compensar a diferença eventual entre o preço dos produtos agrícolas em causa na Comunidade e o preço dos mesmos produtos no mercado mundial;\n\nConsiderando que a concepção geral do regime estabelecido no Regulamento (CEE) no 3033/80 deverá ser mantida, introduzindo nele certos alargamentos e ajustamentos; que, convém sobretudo, por um lado, no que se refere a determinadas mercadorias actualmente sujeitas a esse regime, referidas no quadro A do anexo B, elaborar a lista dos produtos agrícolas a que poderá ser aplicada na importação uma compensação das diferenças de preços entre o mercado mundial e o mercado da Comunidade, e, por outro lado, poder identificar, entre esses produtos agrícolas, os produtos de base relativamente aos quais essas diferenças são efectivamente observadas, sendo as quantidades dos outros produtos agrícolas, dos produtos que lhes estão assimilados ou dos produtos resultantes da sua transformação convertidas em quantidades equivalentes de produtos de base;\n\nConsiderando que é necessário adaptar as regras aplicáveis ao comércio destas mercadorias, para tomar em consideração a evolução dos acordos da Comunidade e a política agrícola comum;\n\nConsiderando que certas mercadorias dos capítulos 1 a 24 da Nomenclatura Combinada não são abrangidas pelo Regulamento (CEE) no 3033/80; que essas mercadorias também são obtidas a partir de produtos agrícolas abrangidos pela política agrícola comum; que, por conseguinte, a imposição aplicável na importação dessas mercadorias deve igualmente, por um lado, cobrir a diferença entre o preço verificado no mercado mundial e no mercado comunitário para estes produtos agrícolas utilizados e, por outro, garantir a protecção da indústria transformadora dos referidos produtos agrícolas; que, por conseguinte, é conveniente reunir as normas aplicáveis a todas as mercadorias obtidas, numa proporção significativa, a partir de produtos agrícolas;\n\nConsiderando que, no âmbito de acordos de que é parte, a Comunidade prevê a manutenção de uma imposição limitada pela cobertura total ou parcial das diferenças de preço dos produtos agrícolas utilizados; que é, por conseguinte, necessário definir, em relação a estas mercadorias, a parte da imposição total correspondente à compensação das diferenças entre os preços dos produtos agrícolas em causa;\n\nConsiderando que, em relação aos produtos de base em causa, a compensação das diferenças de preço entre o mercado mundial e o mercado comunitário é garantida pela aplicação de direitos niveladores agrícolas; que é conveniente manter uma ligação estreita entre o cálculo do elemento agrícola da imposição aplicável às mercadorias e a imposição aplicável aos produtos de base importados no seu estado inalterado;\n\nConsiderando que, para evitar formalidades administrativas excessivas, é conveniente não aplicar montantes reduzidos e permitir aos Estados-membros não proceder à rectificação de montantes relativos a uma mesma transacção quando o saldo dos montantes em causa for de reduzida importância;\n\nConsiderando que é conveniente que a aplicação de acordos preferenciais não torne mais complexos os procedimentos aplicáveis ao comércio com países terceiros; que é conveniente, para o efeito, que as normas de aplicação excluam a possibilidade de uma mercadoria declarada para exportação ao abrigo de um regime preferencial ser efectivamente exportado ao abrigo do regime geral e vice-versa;\n\nConsiderando que, para não penalizar os produtores de mercadorias não enumeradas no anexo II do Tratado, no que se refere aos preços a que têm de se abastecer devido à política agrícola comum, se deve prever um regime de restituições à exportação de determinados produtos agrícolas utilizados no fabrico das referidas mercadorias; que essas restituições devem cobrir apenas a diferença entre o preço de um produto agrícola no mercado comunitário e o preço do mesmo produto no mercado mundial; que, por conseguinte, é conveniente que esse regime seja instituído no âmbito de cada uma das organizações comuns de mercado em causa;\n\nConsiderando que o artigo 13o do Regulamento (CEE) no 1766/92 do Conselho, de 30 de Junho de 1992, que estabelece a organização comum de mercado no sector dos cereais ([5](http://publications.europa.eu/resource/cellar/1f66755e-03dc-4e26-ba82-90eb108f493b.0018.02/DOC_1#E0005)), e os artigos correspondentes de outros regulamentos que estabelecem organizações comuns de mercado de produtos agrícolas prevêem a concessão de restituições desse tipo; que as normas de aplicação devem ser adoptadas de acordo com o procedimento do comité de gestão previsto no artigo 23o do Regulamento (CEE) no 1766/92 en nos artigos correspondentes dos demais regulamentos em causa; que é conveniente que os montantes das restituições sejam fixados pelo processo utilizado para a fixação das restituições aplicáveis aos produtos agrícolas exportados no seu estado inalterado; que, no entanto, as normas de aplicação do referido regime devem ser estabelecidas tendo essencialmente em conta os processos de fabrico das mercadorias em causa; que, por conseguinte, devem ser estabelecidas numa base comum;\n\nConsiderando que o mecanismo de protecção agrícola previsto no presente regulamento pode, em circunstâncias excepcionais, revelar-se insuficiente; que este risco existe igualmente no âmbito dos acordos preferenciais; que, nesses casos, para não deixar o mercado comunitário sem defesa contra as perturbações que daí podem resultar, é conveniente prever a possibilidade de tomar rapidamente todas as medidas necessárias;\n\nConsiderando que o Regulamento (CEE) no 2913/92 do Conselho, de 12 de Outubro de 1992, que estabelece o Código Aduaneiro Comunitário ([6](http://publications.europa.eu/resource/cellar/1f66755e-03dc-4e26-ba82-90eb108f493b.0018.02/DOC_1#E0006)), deve ser aplicável às trocas abrangidas pelo presente regulamento;\n\nConsiderando que a distinção entre produtos agrícolas abrangidos pelo anexo II do Tratado e mercadorias não abrangidas pelo anexo II é específica da Comunidade e se baseia na situação da agricultura e da indústria alimentar comunitárias; que a situação verificada em determinados países terceiros com os quais a Comunidade tem celebrado acordos pode ser sensivelmente diferente; que, por conseguinte, é conveniente prever que, no âmbito desses acordos, as regras gerais aplicáveis aos produtos agrícolas transformados não abrangidos pelo anexo II do Tratado possam ser tornadas extensivas, mutatis mutandis, a certos produtos agrícolas abrangidos pelo anexo II do Tratado;\n\nConsiderando que é necessário adoptar normas de aplicação do presente regulamento; que é conveniente que essas normas sejam estabelecidas após consulta de um comité de gestão em que estejam representados os Estados-membros; que essas normas incluem, nomeadamente, a fixação de quantidades de produtos de base consideradas como tendo entrado no fabrico de mercadorias abrangidas pelo Regulamento (CEE) no 3033/80 e constantes do quadro 1 do anexo B do presente regulamento, e que substituem o Regulamento (CEE) no 3034/80 do Conselho, de 11 de Novembro de 1980, que fixa as quantidades de produtos de base consideradas como tendo entrado no fabrico de mercadorias abrangidas pelo Regulamento (CEE) no 3033/80 ([7](http://publications.europa.eu/resource/cellar/1f66755e-03dc-4e26-ba82-90eb108f493b.0018.02/DOC_1#E0007)),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "562e82a18f5b81a1": {
+   "fragment_id": "Artigo 1o — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R1097:PT:NOT)",
+   "type": "artigo",
+   "heading": "Artigo 1o — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R1097:PT:NOT)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R1097:PT:NOT)\n\n1. O presente regulamento estabelece o regime de trocas aplicável a certas mercadorias definidas no anexo B.\n\n[▼M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32000R2580:PT:NOT)\n\n2. Para efeitos do presente regulamento, entende-se por:\n\n— «produtos agrícolas», os produtos abrangidos pelo anexo I do Tratado,\n\n— «mercadorias», os produtos não abrangidos pelo anexo I do Tratado, enumerados no anexo B do presente regulamento.\n\nTodavia, o termo «mercadorias», empregue no capítulo 2 do título I e no artigo 11.o, refere-se aos produtos não abrangidos pelo anexo I do Tratado e incluídos nos anexos correspondentes dos regulamentos que estabelecem organizações comuns de mercado no sector agrícola.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R1097:PT:NOT)\n\n2A. Na aplicação de certos acordos preferenciais, entende-se por:\n\n— «elemento agrícola», a parte da imposição correspondente aos direitos da pauta aduaneira da Comunidade aplicáveis aos produtos agrícolas constantes do anexo A ou, se for caso disso, aos direitos aplicáveis aos produtos agrícolas originários do país em causa, para as quantidades desses produtos, consideradas como tendo sido utilizadas e referidas no artigo 13o,\n\n— «elemento não-agrícola», a parte da imposição correspondente ao direito da pauta Aduaneira Comum, menos o elemento agrícola definido no primeiro travessão,\n\n— «produto de base», certos produtos agrícolas constantes do anexo A, ou a eles equiparados, ou derivados da sua transformação, cujos direitos publicados na Pauta Aduaneira Comum sirvam para determinar o elemento agrícola da imposição das mercadorias.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993R3448:PT:NOT)\n\n3. O presente regulamento é igualmente aplicável ao comércio preferencial de determinados produtos agrícolas.\n\nNesse caso, a lista dos referidos produtos agrícolas sujeitos às regras que regulam as trocas de mercadorias será estabelecida pelo acordo em causa."
+  },
+  "f460687f1bb19ae5": {
+   "fragment_id": "TÍTULO I — REGIME DE TROCAS",
+   "type": "divisao",
+   "heading": "TÍTULO I — REGIME DE TROCAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — REGIME DE TROCAS\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R1097:PT:NOT)"
+  },
+  "b514aa02e08c273a": {
+   "fragment_id": "CAPÍTULO I — Importação",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — Importação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Importação"
+  },
+  "4253066622cf3ba5": {
+   "fragment_id": "Secção I — Trocas comerciais com os países terceiros",
+   "type": "divisao",
+   "heading": "Secção I — Trocas comerciais com os países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Trocas comerciais com os países terceiros"
+  },
+  "9e1f0c932b9bd050": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Salvo disposição em contrário do presente regulamento, as taxas dos direitos da Pauta Aduaneira Comum são aplicáveis às mercadorias enumeradas no anexo B.\n\nNo que se refere às mercadorias enumeradas no quadro 1 do anexo B, a imposição é constituída por um direito ad valorem, denominado «elemento fixo», e por um montante específico fixado em ecus, denominado «elemento agrícola».\n\nNo que se refere às mercadorias enumeradas no quadro 2 do anexo B, o elemento agrícola da imposição constitui uma parte da imposição aplicável à importação dessas mercadorias.\n\n2. Sob reserva dos artigos 10o e 10oA, é proibida a cobrança de qualquer direito aduaneiro ou encargo de efeito equivalente que não a imposição prevista no no 1.\n\n3. As regras gerais de interpretação da Nomenclatura Combinada e as regras específicas para a sua aplicação são aplicáveis à classificação dos produtos abrangidos pelo presente regulamento. A nomenclatura pautal resultante da aplicação do presente regulamento consta da Pauta Aduaneira Comum.\n\n4. As normas de execução do presente artigo serão adoptadas nos termos do artigo 16o."
+  },
+  "bf8376c130ab8c05": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n(Revogado)"
+  },
+  "eb3bcb4dc2b6e41a": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Quando a Pauta Aduaneira Comum preveja um valor máximo de cobrança, a imposição referida no artigo 2o não pode exceder esse valor máximo.\n\nQuando a aplicação do valor máximo de cobrança referido no primeiro parágrafo depender do preenchimento de condições especiais, essas condições serão determinadas nos termos do no 1 do artigo 11o do Regulamento (CEE) no 2658/87 do Conselho, de 23 de Julho de 1987, relativo à nomenclatura pautal e estatística e à Pauta Aduaneira Comum ([8](http://publications.europa.eu/resource/cellar/1f66755e-03dc-4e26-ba82-90eb108f493b.0018.02/DOC_1#E0008)).\n\n2. Quando o valor máximo de cobrança for constituído por um direito ad valorem acrescido de um direito adicional sobre os açúcares diversos, calculados em sacarose (AD S/Z), ou sobre farinha (AF F/M), esse direito adicional será o constante da Pauta Aduaneira Comum."
+  },
+  "6fb39fe876370455": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n(Revogado)"
+  },
+  "09b9e601b44b9f06": {
+   "fragment_id": "Secção II — Trocas comerciais preferenciais",
+   "type": "divisao",
+   "heading": "Secção II — Trocas comerciais preferenciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Trocas comerciais preferenciais"
+  },
+  "0b8906c319dae465": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. O elemento agrícola aplicável no âmbito de trocas comerciais preferenciais é o montante específico fixado pela Pauta Aduaneira Comum da Comunidade.\n\nTodavia, se os países em causa respeitarem a legislação comunitária dos produtos transformados e adoptarem os mesmos produtos de base que a Comunidade, abrangerem as mesmas mercadorias e utilizarem os mesmos coeficientes que a Comunidade:\n\na) Esse elemento agrícola pode ser determinado em função das quantidades de produtos de base estabelecidas, efectivamente utilizadas, se a Comunidade tiver celebrado um acordo de cooperação aduaneira para a verificação dessas quantidades;\n\nb) O direito aplicável à importação de um produto de base pode ser substituído por um montante estabelecido em função da diferença entre o nível dos preços agrícolas praticados na Comunidade e o nível dos preços agrícolas praticados no país ou na zona em causa, ou seja, por uma compensação relativamente ao nível de preços estabelecido em comum para a zona em causa;\n\nc) Se a aplicação da alínea b) conduzir a montantes de incidência reduzida nas mercadorias sujeitas a esse regime, este pode ser igualmente substituído por um regime de montantes ou taxas forfetárias.\n\n2. Os elementos agrícolas, eventualmente reduzidos, aplicáveis às importações realizadas no quadro de um acordo preferencial são convertidos em moeda nacional utilizando-se a taxa de câmbio aplicável às trocas comerciais não preferenciais.\n\n3. Os direitos ad valorem correspondentes ao elemento agrícola da imposição sobre as mercadorias constantes do quadro 2 do anexo B podem ser substituídos por outro elemento agrícola no quadro de um acordo preferencial.\n\n4. As normas de execução do presente artigo são adoptadas nos termos do artigo 16o.\n\nSe necessário, essas normas incluirão, nomeadamente:\n\n— a determinação e circulação dos documentos necessários para a concessão desses regimes,\n\n— as medidas necessárias para evitar desvios de tráfego,\n\n— a lista de produtos de base.\n\n5. Se forem necessários métodos de análise dos produtos agrícolas utilizados, devem ser utilizados os métodos prescritos em matéria de restituições à exportação para os países terceiros relativamente aos mesmos produtos agrícolas.\n\n6. A Comissão publicará as imposições resultantes da aplicação dos acordos preferenciais a que se referem os nos 2 e 3."
+  },
+  "8b5b504b969b6f03": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Quando um acordo preferencial previr a redução ou eliminação progressiva do elemento não-agrícola da imposição, este constituirá o elemento fixo em relação às mercadorias referidas no quadro 1 do anexo B.\n\n2. Quando um acordo preferencial previr a aplicação de um elemento agrícola reduzido, dentro ou não dos limites de um contingente pautal, as normas de execução para a determinação e gestão desses elementos agrícolas reduzidos serão adoptadas nos termos do artigo 16o, desde que o acordo defina:\n\n— os produtos que beneficiam dessas reduções,\n\n— as quantidades de mercadorias ou o valor dos contingentes a que essas reduções são aplicáveis, ou o método de determinação dessas quantidades ou valores,\n\n— os elementos que determinam a redução do elemento agrícola.\n\n3. As normas de execução necessárias para a abertura e gestão de reduções dos elementos não agrícolas da imposição serão adoptadas nos termos do artigo 16o.\n\n4. A Comissão publicará as imposições resultantes da aplicação dos acordos preferenciais a que se referem os nos 1 e 2.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993R3448:PT:NOT)"
+  },
+  "e996a65c2eb8700d": {
+   "fragment_id": "CAPÍTULO 2 — Exportação",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2 — Exportação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 2 — Exportação"
+  },
+  "8320e293017f9ab4": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. Na exportação de mercadorias, os produtos agrícolas utilizados no seu fabrico que preencham as condições do no 2 do artigo 9o do Tratado podem beneficiar de restituições fixadas nos termos dos regulamentos que establecem a organização comum de mercado dos sectores em causa.\n\nNão pode ser concedida qualquer restituição à exportação de produtos agrícolas incorporados em mercadorias, não abrangidos por uma organização comum de mercado que preveja a concessão de restituições em caso de exportação sob a forma de mercadorias desse tipo.\n\n2. A lista das mercadorias que podem beneficiar de restituições será elaborada tendo em conta:\n\n— a incidência da diferença entre o preço dos produtos agrícolas utilizados no mercado comunitário e no mercado mundial,\n\n— a necessidade de cobrir total ou parcialmente essa diferença, a fim de permitir a exportação dos produtos agrícolas utilizados nas mercadorias em causa.\n\nA lista será adoptada de acordo com o disposto nos regulamentos que estabelecem as organizações comuns de mercado no sector agrícola.\n\n3. As normas comuns de aplicação do regime de restituições referido no presente artigo serão adoptadas de acordo com o procedimento previsto no artigo 16o.\n\nOs montantes das restituições serão fixados de acordo com o procedimento utilizado para a concessão de restituições à exportação dos produtos agrícolas em causa no seu estado inalterado.\n\n4. Quando, no âmbito de um acordo preferencial, tiver sido instituído o regime de compensação directa previsto no no 1, alínea b), do artigo 6o, os montantes aplicáveis às exportações destinadas ao país ou países abrangidos pelo acordo serão determinados, nas condições previstas no acordo, conjuntamente e na mesma base que a utilizada para a determinação do elemento agrícola da imposição.\n\nEsses montantes serão fixados de acordo com o procedimento previsto no artigo 16o As normas de aplicação do presente número e, nomeadamente, as medidas que garantirão que as mercadorias declaradas para exportação sob um regime preferencial não serão efectivamente exportadas sob um regime não preferencial ou vice-versa serão adoptadas de acordo com o mesmo procedimento.\n\nSe forem necessários métodos de análise dos produtos agrícolas utilizados, utilizar-se-ão os métodos estabelecidos para as restituições à exportação para países terceiros em relação aos mesmos produtos agrícolas.\n\n[▼M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32000R2580:PT:NOT)\n\n5. O cumprimento dos limites decorrentes dos acordos celebrados nos termos do artigo 300.o do Tratado é assegurado com base em certificados emitidos a título dos períodos de referência previstos e pelo montante previsto a título dos pequenos exportadores.\n\n6. O montante abaixo do qual os pequenos exportadores podem beneficiar da dispensa de apresentação de certificados do sistema de concessão de restituições à exportação é de 50 000 euros por ano. Esse limite máximo pode ser adaptado pelo procedimento previsto no artigo 16.o\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993R3448:PT:NOT)"
+  },
+  "442ec9baaa9cc253": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nQuando, ao abrigo de um regulamento que estabeleça a organização comum de mercado num determinado sector, for decidida a aplicação de direitos niveladores, taxas ou outras medidas à exportação de um produto agrícola referido no anexo A, podem ser adoptadas, de acordo com o procedimento previsto no artigo 16o e tomando devidamente em consideração o interesse específico da indústria de transformação, medidas adequadas em relação a certas mercadorias cuja exportação seja, devido ao seu elevado teor do referido produto agrícola e às suas eventuais utilizações, susceptível de prejudicar a realização do objectivo fixado no sector agrícola em causa."
+  },
+  "ea3fed39670a97d2": {
+   "fragment_id": "TÍTULO II — DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "TÍTULO II — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — DISPOSIÇÕES GERAIS"
+  },
+  "c89ca9a71e4aa88d": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nQuando a redução do elemento agrícola aplicável à importação de mercadorias no âmbito de um acordo preferencial puder causar perturbações nos mercados agrícolas, ou nos mercados das mercadorias em causa, as cláusulas de salvaguarda aplicáveis à importação dos produtos agrícolas em causa serão igualmente aplicáveis às mercadorias referidas no anexo B.\n\nNa apreciação das perturbações em causa, as características das mercadorias efectivamente importadas ao abrigo do regime preferencial serão ponderadas em relação às das mercadorias tradicionalmente importadas antes da instituição do referido regime.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R1097:PT:NOT)"
+  },
+  "1e71c19472cded16": {
+   "fragment_id": "Artigo 10oA",
+   "type": "artigo",
+   "heading": "Artigo 10oA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10oA\n\n1. Para evitar ou reprimir os efeitos prejudiciais no mercado da Comunidasde que podem decorrer das importações de certas mercadorias resultantes da transformação de produtos agrícolas constantes do anexo C, a importação, à taxa do direito previsto na Pauta Aduaneira Comum, de uma ou várias dessas mercadorias ficará sujeita ao pagamento de um direito de importação adicional se estiverem preenchidas as condições decorrentes do artigo 5o do acordo sobre a agricultura, concluído em conformidade com o artigo 228o do Tratado no âmbito das negociações comerciais multilaterais do «Uruguay Round», excepto quando as importações não forem susceptíveis de perturbar o mercado comunitário ou os efeitos forem desproporcionados em relação ao objectivo pretendido.\n\n2. Os preços de desencadeamento, abaixo dos quais pode ser imposto um direito adicional à importação, são os comunicados pela Comunidade à Organização Mundial do Comércio.\n\nOs volumes de desencadeamento, cuja superação implica a imposição de um direito adicional de importação, serão determinados, nomeadamente, com base nas importações para a Comunidade no decurso dos três anos anteriores àquele em que os efeitos prejudiciais referidos no no 1 ocorram ou possam ocorrer.\n\n3. Os preços de importação a tomar em consideração para a imposição de um direito de importação adicional serão calculados com base nos preços de importação CIF da remessa considerada.\n\n4. As normas de execução serão adoptadas nos termos do artigo 16o.\n\nEssas normas dizem respeito, nomeadamente:\n\na) Às mercadorias às quais são aplicados direitos de importação adicionais nos termos do artigo 5o do acordo sobre a agricultura;\n\nb) Aos outros critérios de desencadeamento necessários, exigidos para assegurar a aplicação nos termos do artigo 5o do acordo.\n\n[▼M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32000R2580:PT:NOT)"
+  },
+  "1817714513dac29c": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. A colocação de produtos agrícolas sob o regime de aperfeiçoamento activo está sujeita a um controlo prévio da observância das condições económicas referidas no artigo 117.o, alínea c), do Regulamento (CEE) n.o 2913/92. Essas condições consideram-se preenchidas por força do artigo 552.o do Regulamento (CEE) n.o 2454/93 da Comissão ([9](http://publications.europa.eu/resource/cellar/1f66755e-03dc-4e26-ba82-90eb108f493b.0018.02/DOC_1#E0009)).\n\nAlém disso, e nos termos do Regulamento (CEE) n.o 2454/93, as condições económicas referidas no artigo 117.o, alínea c), do Regulamento (CEE) n.o 2913/92 também se consideram preenchidas em relação a determinadas quantidades de produtos de base utilizados no fabrico de mercadoria. Essas quantidades são determinadas, através de um balanço estabelecido pela Comissão, com base na comparação entre as disponibilidades financeiras impostas e as necessidades previsíveis de restituições, tendo em conta, nomeadamente, os volumes previsíveis de exportação das mercadorias em causa, assim como a situação do mercado interno e externo dos respectivos produtos de base. Esse balanço e, por conseguinte, essas quantidades serão revistos regularmente a fim de se tomar em consideração a evolução dos factores económicos e regulamentares.\n\nAs normas de execução do segundo parágrafo, que permitem determinar os produtos de base a colocar sob o regime de aperfeiçoamento activo, assim como controlar e planificar as suas quantidades, garantem também uma maior visibilidade aos operadores, mediante a publicação prévia, OCM por OCM, das quantidades indicativas a importar. Esta publicação efectuar-se-á regularmente, nomeadamente, em função da utilização dessas quantidades. As regras de execução são aprovadas pelo procedimento previsto no artigo 16.o\n\nO termo «produto de base», empregue no presente artigo, refere-se aos produtos enumerados por código NC na tabela do anexo A, inclusive unicamente a nota de pé-de-página 1 relativa aos cereais.\n\n2. A quantidade de mercadoria, colocada sob um regime de aperfeiçoamento activo que não o previsto no segundo parágrafo do n.o 1, e, por conseguinte, não sujeita à imposição prevista no artigo 2.o com vista à exportação de outras mercadorias, ou como consequência da mesma, será a efectivamente utilizada no fabrico dessas outras mercadorias.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993R3448:PT:NOT)"
+  },
+  "915cced2491291f2": {
+   "fragment_id": "Artigo 12o — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R1097:PT:NOT) —————",
+   "type": "artigo",
+   "heading": "Artigo 12o — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R1097:PT:NOT) —————",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R1097:PT:NOT) —————\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993R3448:PT:NOT)\n\n2. O quadro 2 do anexo B pode ser alterado de acordo com o procedimento previsto no artigo 16o, a fim de o adaptar aos acordos celebrados pela Comunidade.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R1097:PT:NOT)\n\n3. A Comissão introduzirá no presente regulamento ou nos regulamentos adoptados em sua aplicação as alterações decorrentes das modificações introduzidas na Nomenclatura Combinada."
+  },
+  "19c6247e6c3b906b": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\n1. O presente artigo é aplicável a todas as trocas comerciais preferenciais para as quais a determinação do elemento agrícola da imposição, eventualmente reduzido nos termos do artigo 7o, não se baseia nas quantidades efectivas referidas no no 1, alínea a), do artigo 6o e/ou para as quais os montantes de base não se baseiem nas diferenças de preços referidas no no 1, alínea b), do artigo 6o.\n\n2. As características e quantidades dos produtos de base a tomar em conta são as fixadas no Regulamento (CEE) no 1460/96 da Comissão ([10](http://publications.europa.eu/resource/cellar/1f66755e-03dc-4e26-ba82-90eb108f493b.0018.02/DOC_1#E0010)).\n\nAs eventuais alterações a introduzir no referido regulamento serão adoptadas nos termos do artigo 16o.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993R3448:PT:NOT)"
+  },
+  "08add937d5a3aa52": {
+   "fragment_id": "Artigo 14o — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R1097:PT:NOT)",
+   "type": "artigo",
+   "heading": "Artigo 14o — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R1097:PT:NOT)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R1097:PT:NOT)\n\n1. Os limiares abaixo dos quais os elementos agrícolas determinados segundo os artigos 6o ou 7o serão fixados em zero podem ser estabelecidos nos termos do artigo 16o A não aplicação desses elementos agrícolas pode ser sujeita, pelo mesmo procedimento, a condições especiais para evitar a criação de fluxos comerciais artificiais.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993R3448:PT:NOT)\n\n2. Pode ser fixado, de acordo com o procedimento previsto no artigo 16o, um limiar abaixo do qual os Estados-membros podem não aplicar os montantes a conceder e a cobrar, em conformidade com o presente regulamento, relativos a uma mesma operação económica, se o saldo desses montantes for inferior ao referido limiar.\n\n[▼M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32000R2580:PT:NOT) —————\n\n[▼M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32000R2580:PT:NOT)"
+  },
+  "43fa5e1fc90f294c": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. A Comissão é assistida por um «comité das questões horizontais relativas às trocas de produtos agrícolas transformados não incluídos no anexo I» (a seguir designado por «comité»).\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 4.o e 7.o da Decisão 1999/468/CE.\n\nO prazo previsto no n.o 3 do artigo 4.o da Decisão 1999/468/CE é de um mês.\n\n3. O comité aprovará o seu regulamento interno.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993R3448:PT:NOT)"
+  },
+  "f65e536289f45a6c": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\nO comité pode analisar qualquer outra questão apresentada pelo presidente, por sua própria iniciativa ou a pedido de um Estado-membro.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R1097:PT:NOT)"
+  },
+  "862f36fa7e3fec0a": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\nAs medidas necessárias para adoptar o presente regulamento às alterações introduzidas nos regulamentos que estabelecem organizações comuns de mercado no sector agrícola, a fim de manter o presente regime, serão adoptadas nos termos do artigo 16o.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993R3448:PT:NOT)"
+  },
+  "ff595ffa2f93d3f8": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\nOs métodos de análise qualitativa das mercadorias e as outras disposições de carácter técnico necessárias para a sua identificação ou para a determinação da sua composição, serão adoptados de acordo com o procedimento previsto no artigo 10o do Regulamento (CEE) no 2658/87."
+  },
+  "eb2be1933fe04a6d": {
+   "fragment_id": "Artigo 20o",
+   "type": "artigo",
+   "heading": "Artigo 20o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o\n\nOs Estados-membros comunicarão à Comissão os dados necessários para a aplicação do presente regulamento e relacionados, por um lado, com a importação, exportação ou mesmo, se for caso disso, com a produção das mercadorias e, por outro, com as medidas de execução administrativas. As regras dessa comunicação serão adoptadas de acordo com o procedimento previsto no artigo 16o."
+  },
+  "4803cfe14f925b5d": {
+   "fragment_id": "Artigo 21o",
+   "type": "artigo",
+   "heading": "Artigo 21o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21o\n\nO Regulamento (CEE) no 3033/80 é revogado em 1 de Janeiro de 1994. As referências ao regulamento revogado são consideradas como feitas ao presente regulamento.\n\nO Regulamento (CEE) no 3034/80 será revogado, com efeitos a partir da data de entrada em vigor do regulamento adoptado em aplicação do artigo 13o."
+  },
+  "3831f88e4a685fbd": {
+   "fragment_id": "Artigo 22o",
+   "type": "artigo",
+   "heading": "Artigo 22o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22o\n\n1. O presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 1 de Janeiro de 1994.\n\n2. A aplicação do presente regulamento às caseínas do código NC 3501 10 e aos caseinatos e outros derivados das caseínas do código NC 3501 90 90 é adiada enquanto se aguarda uma decisão posterior do Conselho.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros."
+  },
+  "0e76214eebc311ef": {
+   "fragment_id": "ANEXO A",
+   "type": "divisao",
+   "heading": "ANEXO A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO A\n\nLista dos produtos agrícolas susceptíveis de beneficiar na importação de uma compensação das diferenças de preços entre o mercado mundial e o mercado da Comunidade [(1)](http://publications.europa.eu/resource/cellar/1f66755e-03dc-4e26-ba82-90eb108f493b.0018.02/DOC_1#E0011)\n\n| Código NC | Designação das mercadorias |\n| --- | --- |\n| 0401 | Leite e nata, não concentrados nem adicionados de açúcar ou de outros edulcorantes |\n| 0402 | Leite e nata, concentrados ou adicionados de açúcar ou de outros edulcorantes |\n| ex04 03 | Leitelho, leite e nata coalhados, iogurte, kefir e outros leites e natas fermentados ou acidificados, mesmo concentrados ou adicionados de açúcar ou de outros edulcorantes, ou aromatizados ou adicionados de frutos ou de cacau |\n| 0404 | Soro de leite, mesmo concentrado ou adicionado de açúcar ou de outros edulcorantes; produtos constituídos por componentes naturais do leite, mesmo adicionados de açúcar ou de outros edulcorantes, não especificados nem compreendidos em outras posições |\n| 0405 | Manteiga e outras matérias gordas provenientes do leite |\n| 0709 90 60 | Milho doce, fresco ou refrigerado |\n| 0712 90 19 | Milho doce seco, mesmo cortado em pedaços ou fatias, ou ainda triturado ou em pó, mas sem qualquer outro preparo, com excepção do milho híbrido destinado a sementeira |\n| Capítulo 10 | Cereais [(1)](http://publications.europa.eu/resource/cellar/1f66755e-03dc-4e26-ba82-90eb108f493b.0018.02/DOC_1#E0012) |\n| 1701 | Açúcares de cana ou de beterraba e sacarose quimicamente pura, no estado sólido |\n| 1703 | Melaços resultantes da extracção ou refinação do açúcar |\n| (*) Produtos agrícolas tomados em consideração quando são utilizados no seu estado inalterado ou após transformação ou considerados como sendo utilizados no fabrico das mercadorias referidas no quadro 1 do anexo B. (2) Não incluindo a espelta destinada a sementeira do código NC 1001 90 10, o milho híbrido para sementeira dos códigos NC 1005 10 11 a 1005 10 19, o arroz destinado a sementeira do código NC 1006 10 10 e do sorgo híbrido destinado a sementeira do código NC 1007 00 10. |  |\n\n[▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R2491:PT:NOT)"
+  },
+  "3cc8b988e42491a6": {
+   "fragment_id": "ANEXO B — QUADRO 1",
+   "type": "divisao",
+   "heading": "ANEXO B — QUADRO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO B — QUADRO 1\n\nCódigo NC Designação das mercadorias\n\nex04 03 Leitelho, leite e nata coalhados, iogurte, kefir e outros leites e natas fermentados ou acidificados, mesmo concentrados ou adicionados de açúcar ou de outros edulcorantes, ou aromatizados ou adicionados de frutas, frutos de casca rija ou cacau:\n\n0403 10 51 a 0403 10 99 - Iogurte, aromatizado ou adicionado de frutas, frutos de casca rija ou cacau\n\n0403 90 71 a 0403 90 99 - Outros, aromatizados ou adicionados de frutas, frutos de casca rija ou cacau\n\n0405 20 10 a 0405 20 30 Pastas de barrar (espalhar) de produtos provenientes do leite de teor, em peso, de matérias gordas igual ou superior a 39 %, mas não superior a 75 %\n\n0710 40 00 Milho doce, não cozido ou cozido em água ou vapor, congelado\n\n0711 90 30 Milho doce, conservado transitoriamente (por exemplo: com gás sulfuroso ou água salgada, sulfurada ou adicionada de outras substâncias destinadas a assegurar transitoriamente a sua conservação), mas impróprio para a alimentação nesse estado\n\nex15 17 Margarina: misturas ou preparações alimentícias de gorduras ou de óleos animais ou vegetais ou de fracções das diferentes gorduras ou óleos do presente capítulo, excepto as gorduras e óleos alimentícios, e respectivas fracções, da posição 1516:\n\n1517 10 10 - Margarina, excepto a margarina líquida, de teor, em peso, de matérias gordas provenientes do leite, superior a 10 %, mas não superior a 15 %\n\n1517 90 10 - Outros, de teor, em peso, de matérias gordas provenientes do leite, superior a 10 % mas não superior a 15 %\n\n1702 50 00 Frutose quimicamente pura\n\nex17 04 Produtos de confeitaria sem cacau (incluído o chocolate branco), excepto extractos de alcaçuz contendo, em peso, mais de 10 % de sacarose, sem adição de outras matérias, da posição 1704 90 10\n\n1806 Chocolate e outras preparações alimentícias contendo cacau\n\nex19 01 Extractos de malte; preparações alimentícias de farinhas, sêmolas, amidos, féculas, ou extractos de malte, não contendo cacau ou contendo-o numa proporção inferior a 40 %, em peso, calculado sob uma base totalmente desengordurada, não especificadas nem compreendidas noutras posições; preparações alimentícias de produtos das posições 0401 a 0404, não contendo cacau ou contendo-o numa proporção inferior a 5 %, em peso, calculado sob uma base totalmente desengordurada, não especificadas nem compreendidas noutras posições, excepto produtos da posição NC 1901 90 91\n\nex19 02 Massas alimentícias, mesmo cozidas ou recheadas (de carne ou de outras substâncias) ou preparadas de outro modo, tais como esparguete, macarrão, aletria, lasanha, nhoque, raviole e canelone, excepto massas alimentícias recheadas das posições 1902 20 10 e 1902 20 30; cuscuz, mesmo preparado\n\n1903 00 00 Tapioca e seus sucedâneos preparados a partir de féculas, em flocos, grumos, grãos, pérolas ou formas semelhantes\n\n1904 Produtos à base de cereais, obtidos por expansão ou por torrefacção [por exemplo: flocos de milho (corn flakes)]; cereais (excepto milho) em grãos ou sob a forma de flocos ou de outros grãos trabalhados (com excepção da farinha e da sêmola), pré-cozidos ou preparados de outro modo, não especificados nem compreendidos noutras posições\n\n1905 Produtos de padaria, pastelaria ou da indústria de bolachas e biscoitos, mesmo adicionados de cacau; hóstias, cápsulas vazias para medicamentos, obreias, pastas secas de farinha, amido ou fécula em folhas e produtos semelhantes\n\n2001 90 30 Milho doce (Zea mays var. saccharata), preparados ou conservados em vinagre ou em ácido acético\n\n2001 90 40 Inhames, batatas-doces e partes comestíveis semelhantes de plantas, de teor, em peso, de amido ou de fécula, igual ou superior a 5 %, preparados ou conservados em vinagre ou em ácido acético\n\n2004 10 91 Batatas, sob a forma de farinhas, sêmolas ou flocos, preparados ou conservadas, excepto em vinagre ou em ácido acético, congeladas, com excepção dos produtos da posição 2006\n\n2004 90 10 Milho doce (Zea mays var. saccharata), preparado ou conservado, excepto em vinagre ou em ácido acético, congelado, com excepção dos produtos da posição 2006\n\n2005 20 10 Batatas, sob a forma de farinhas, sêmolas ou flocos, preparadas ou conservadas, excepto em vinagre ou em ácido acético, não congeladas, com excepção dos produtos da posição 2006\n\n2005 80 00 Milho doce (Zeam mays var. saccharata) preparado ou conservado, excepto em vinagre ou em ácido, não congelado, com excepção dos produtos da posição 2006\n\n2008 99 85 Milho, com exclusão do milho (Zea mays var. saccharata) preparado ou conservado de outro modo, sem adição de álcool ou de açúcar\n\n2008 99 91 Inhames, batatas-doces e partes comestíveis semelhantes de plantas, de teor, em peso, de amido ou de fécula, igual ou superior a 5 %, preparados ou conservados de outro modo, sem adição de álcool ou de açúcar\n\n2101 12 98 Praparações (SIC! Preparações) à base de café\n\n2101 20 98 Preparações à base de chá ou de mate\n\n2101 30 19 Sucedâneos torrados do café, excepto chicória torrada\n\n2101 30 99 Extractos, essênciais e concentrados de sucedâneos torrados do café, excepto de chicória torrada\n\n2102 10 31 e 2102 10 39 Leveduras para panificação, secas ou não\n\n2105 00 Sorvetes, mesmo contendo cacau\n\nex21 06 Preparações alimentícias não especificadas nem compreendidas noutras posições, excepto das posições 2106 10 20, 2106 90 20 e 2106 90 92 e com excepção dos xaropes de açúcar, aromatizados ou adicionados de corantes\n\n2202 90 91 e 2202 90 95 e 2202 90 99 Águas, incluídas as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, excepto sumos de frutas ou de produtos hortícolas, da posição 2009, contendo produtos das posições 0401 a 0404 ou matérias gordas provenientes de produtos das posições 0401 a 0404\n\n2905 43 00 Manitol\n\n2905 44 D-glucitol (sorbitol)\n\nex33 02 Misturas de substâncias odoríferas e misturas (incluídas as soluções alcoólicas) à base de uma ou mais destas substâncias, dos tipos utilizados como matérias básicas para a indústria; outras preparações à base de substâncias odoríferas, dos tipos utilizados para a fabricação de bebidas:\n\n3302 10 29 - Outras, dos tipos utilizados para as indústrias de bebidas, contendo todos os agentes aromatizantes que caracterizam uma bebida, excepto de teor alcoólico adquirido superior a 0,5 % vol e excepto produtos da posição 3302 10 21\n\nex35 01 Caseínas, caseinatos e outros derivados das caseínas\n\nex35 05 10 Dextrina e outros amidos e féculas modificados, excepto amidos e féculas esterificados ou eterificados da posição 3505 10 50\n\n3505 20 Colas à base de amidos ou de féculas, de dextrina ou de outros amidos ou féculas modificados\n\n3809 10 Agentes de apresto ou de acabamento, aceleradores de tingimento ou de fixação de matérias corantes e outros produtos e preparações (por exemplo: aprestos preparados e preparações mordentes) dos tipos utilizados na indústria têxtil, na indústria do papel, na indústria do couro ou em indústrias semelhantes, à base de matérias amiláceas, não especificados nem compreendidos em outras posições\n\n3824 60 Sorbitol, excepto da subposição 2905 44\n\nQUADRO 2\n\nCódigo NC Designação das mercadorias\n\nex05 05 Peles e outras partes de aves, com as suas penas ou penugem, penas e partes de penas (mesmo aparadas), penugem, em bruto ou simplesmente limpas, desinfectadas ou preparadas tendo em vista a sua conservação; pós e desperdícios de penas ou de partes de penas:\n\n0505 10 90 - Penas dos tipos utilizados para enchimento; penugem, excepto em bruto\n\n0505 90 - Outros\n\n0509 00 90 Esponjas naturais de origem animal, excepto em bruto\n\n1212 20 00 Algas, frescas, refrigeradas, congeladas ou secas, mesmo em pó\n\nex13 02 Sucos e extractos vegetais de alcaçuz, de lúpulo, de piretro ou de raízes de plantas que contenham retenona\n\n1302 19 30 Extractos vegetais misturados entre si, para fabricação de bebidas ou de preparações alimentícias\n\n1302 19 91 Outros, medicinais\n\nex13 02 20 Pectatos\n\n1302 31 00 Ágar-ágar, mesmo modificado\n\n1302 32 10 Produtos mucilaginosos e espessantes, de alfarroba ou de sementes de alfarroba mesmo modificados\n\n1505 Suarda e substâncias gordas dela derivadas, incluída a lanolina\n\n1506 Outras gorduras e óleos animais e respectivas fracções, mesmo refinados, mas não quimicamente modificados\n\n1515 60 Óleo de jojoba e respectivas fracções, mesmo refinados, mas não quimicamente modificados\n\n1516 20 10 Óleos de rícino hidrogenados, denominados «opalwax»\n\n1517 90 93 Misturas ou preparações culinárias utilizadas para desmoldagem\n\nex15 18 Gorduras e óleos animais ou vegetais, e respectivas fracções, cozidos, oxidados, desidratados, sulfurados, soprados, estandolizados ou modificados quimicamente por qualquer outro processo, com exclusão dos da posição 1516; misturas ou preparações não alimentícias de gorduras ou de óleos animais ou vegetais ou de fracções de diferentes gorduras ou óleos do presente capítulo, não especificadas nem compreendidas noutras posições; com excepção dos óleos das posições 1518 00 31 e 1518 00 39\n\n1520 00 00 Glicerol em bruto; águas e lixívias glicéricas\n\n1521 Ceras vegetais (excepto triglicéridos), ceras de abelha ou de outros insectos e espermacete, mesmo refinados ou corados\n\n1522 00 10 Dégras\n\n1702 90 10 Maltose quimicamente pura\n\n1704 90 10 Extractos de alcaçuz contendo, em peso, mais de 10 % de sacarose, sem adição de outras matérias\n\n1803 Pasta de cacau, mesmo desengordurada\n\n1804 00 00 Manteiga, gordura e óleo de cacau\n\n1805 00 00 Cacau em pó, sem adição de açúcar ou de outros edulcorantes\n\n2001 90 60 Palmitos, preparados ou conservados em vinagre ou em ácido acético\n\nex20 08 Frutas e outras partes comestíveis de plantas, preparadas ou conservadas de outro modo, com ou sem adição de açúcar ou de outros edulcorantes ou de álcool, não especificadas nem compreendidas noutras posições:\n\n2008 11 10 - Manteiga de amendoim\n\n2008 91 00 - Palmitos\n\nex21 01 Extractos, essências e concentrados de café, chá ou de mate e preparações à base destes produtos; chicória torrada e respectivos extractos, essenciais e concentrados, excepto preparações das posições 2101 12 98, 2101 20 98, 2101 30 19 e 2101 30 99\n\n2102 10 Leveduras vivas:\n\n2102 10 10 - Leveduras-mães seleccionadas (leveduras de cultura)\n\n2102 10 90 - Outras, excepto leveduras para panificação\n\n2102 20 Leveduras mortas; outros microrganismos monocelulares mortos\n\n2102 30 00 Pós para levedar, preparados\n\n2103 Preparações para molhos e molhos preparados; condimentos e temperos compostos; farinha de mostarda e mostarda preparada\n\n2104 Preparações para caldos e sopas; caldos e sopas preparados; preparações alimentícias compostas homogeneizadas\n\nex21 06 Preparações alimentícias não especificadas nem compreendidas noutras posições:\n\n2106 10 - Concentrados de proteínas e substâncias proteicas texturizadas:\n\n2106 10 20 - - Não contendo matérias gordas provenientes do leite, sacarose, isoglicose, glicose, amido ou fécula, ou contendo, em peso, menos de 1,5 % de matérias gordas provenientes do leite, menos de 5 % de sacarose ou de isoglicose, menos de 5 % de glicose ou amido ou fécula\n\n2106 90 - Outras:\n\n2106 90 20 - - Preparações alcoólicas compostas, dos tipos utilizados na fabricação de bebidas, excepto as preparações à base de substâncias odoríferas\n\n2106 90 92 - - Outras preparações, não contendo matérias gordas provenientes do leite, sacarose, isoglicose, glicose, amido ou fécula, ou contendo, em peso, menos de 1,5 % de matérias gordas provenientes do leite, menos de 5 % de sacarose ou de isoglicose, menos de 5 % de glicose ou amido ou fécula\n\n2201 10 Águas, incluídas as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas\n\n2202 10 00 Águas, incluídas as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas\n\n2202 90 10 Outras bebidas não alcoólicas, excepto sumos de frutas ou de produtos hortícolas, da posição 2009, não contendo produtos das posições 0401 a 0404 ou matérias gordas provenientes de produtos das posições 0401 a 0404\n\n2203 00 Cervejas de malte\n\n2205 Vermutes e outros vinhos de uvas frescas aromatizados por plantas ou substâncias aromáticas\n\nex22 07 Álcool etílico não desnaturado, com um teor alcoólico em volume igual ou superior a 80 % vol; álcool etílico e aguardentes, desnaturados, com qualquer teor alcoólico, excepto obtidos de produtos agrícolas constantes do anexo II do tratado CEE\n\nex22 08 Álcool etílico não desnaturado, com um teor alcoólico em volume inferior a 80 % vol, excepto obtido de produtos agrícolas constantes do anexo II do Tratado CEE; aguardentes, licores e outras bebidas espirituosas\n\n2402 Charutos, cigarrilhas e cigarros, de tabaco ou dos seus sucedâneos\n\n2403 Outros produtos de tabaco e seus sucedâneos, manufacturados; tabaco «homogeneizado» ou «reconstituído»; extractos e molhos de tabaco\n\n3301 90 21 Oleorresinas de extracção de alcaçuz e de lúpulo\n\n3301 90 29 Oleorresinas de extracção de piretro ou de raízes de plantas que contenham rotenoma; extractos vegetais misturados entre si, para fabricação de bebidas ou de preparações alimentícias\n\n3301 90 31 Outras oleorresinas de extracção: medicinais\n\nex33 02 Misturas de substâncias odoríferas e misturas (incluídas as soluções alcoólicas) à base de uma ou mais destas substâncias, dos tipos utilizados como matérias básicas para a indústria; outras preparações à base de substâncias odoríferas, dos tipos utilizados para a fabricação de bebidas:\n\n3302 10 21 Dos tipos utilizados para as indústrias alimentares ou de bebidas, contendo todos os agentes aromatizantes que caracterizam uma bebida, excepto de teor alcoólico superior a 0,5 % vol, não contendo matérias gordas provenientes do leite, sacarose, isoglicose, glicose, amido ou fécula, ou contendo menos de 1,5 % de matérias gordas provenientes do leite, menos de 5 % de sacarose ou de isoglicose, menos de 5 % de glicose ou amido ou fécula\n\n3823 Ácidos gordos monocarboxílicos industriais; óleos ácidos de refinação; álcoois gordos industriais\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R1097:PT:NOT)"
+  },
+  "f0270192c9c32778": {
+   "fragment_id": "ANEXO C",
+   "type": "divisao",
+   "heading": "ANEXO C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO C\n\nCódigo NC Designação das mercadorias\n\n0403 10 51 a 0403 10 99 Iogurte aromatizado ou adicionado de frutas ou de cacau\n\n0403 10 71 a 0403 90 99 Leitelho, leite e nata coalhados, kéfir e outros leites e natas fermentados ou acidificados, adicionados de frutas ou de cacau\n\n0710 40 Milho doce, não cozido em água ou vapor, congelado\n\n0711 90 30 Milho doce, conservado transitoriamente (com gás sulfuroso ou água salgada, sulfurada ou adicionada de outras substâncias destinadas a assegurar transitoriamente a sua conservação), mas impróprio para a alimentação nesse estado\n\n1517 10 10 Margarina, excepto a margarina líquida, de teor, em peso, de matérias gordas provenientes do leite, superior a 10 % mas não superior a 15 %\n\n1517 90 10 Outras misturas ou preparações alimentícias de gorduras ou de óleos animais ou vegetais ou de fracções das diferentes gorduras ou óleos do presente capítulo, excepto as gorduras ou óleos alimentícios, e respectivas fracções, da posição 1516, de teor, em peso, de matérias gordas provenientes do leite, superior a 10 % mas não superior a 15 %\n\n1702 50 00 Frutose quimicamente pura\n\n2005 80 00 Milho doce (Zea mays var. saccharata), preparado ou conservado, excepto em vinagre ou ácido acético, não congelados\n\n2905 43 00 Manitol\n\nD-glucitol (sorbitol):\n\n- Em solução aquosa:\n\n2905 44 11 - - com D-manitol em proporção inferior ou igual a 2 % em peso, calculado com base no seu teor em D-glucitol\n\n2905 44 19 - - Outro\n\n- Outro:\n\n2905 44 91 - - Com D-manitol em proporção inferior ou igual a 2 % em peso, calculado com base no seu teor em D-glucitol\n\n2905 44 99 - - Outro\n\n3505 10 10 Dextrina\n\n3505 10 92 Outros amidos e féculas modificados, excepto os amidos e féculas esterificados e eterificados, amilómeros, cadexómeros, crilanómeros e eldexómeros\n\nColas à base de amidos ou féculas, de dextrinas ou de outros amidos ou féculas modificados:\n\n3505 20 10 - De teor, em peso, de amidos ou féculas, de dextrina ou de outros amidos ou féculas modificados, inferior a 25 %\n\n3505 20 30 - De teor, em peso, de amidos ou féculas, de dextrina, ou de outros amidos ou féculas modificados, igual ou superior a 25 % mas inferior a 55 %\n\n3505 20 50 - De teor, em peso, de amidos ou féculas, de dextrina ou de outros amidos ou féculas modificados, igual ou superior a 55 % mas inferior a 80 %\n\n3505 20 90 - De teor, em peso, de amidos ou féculas, de dextrina ou de outros amidos ou féculas modificados, igual ou superior a 80 %\n\nAgentes de apresto ou de acabamento, aceleradores de tingimento ou de fixação de matérias corantes e outros produtos e preparações (por exemplo: aprestos preparados e preparações mordentes) dos tipos utilizados na indústria do papel, na indústria do couro ou em indústrias semelhantes, não especificados nem compreendidos em outras posições, à base de matérias amiláceas:\n\n3809 10 10 - De teor, em peso, daquelas matérias inferior a 55 %\n\n3809 10 30 - De teor, em peso, daquelas matérias, igual ou superior a 55 % mas inferior a 70 %\n\n3809 10 50 - De teor, em peso, daquelas matérias, igual ou superior a 70 % mas inferior a 83 %\n\n3809 10 90 - De teor, em peso, daquelas matérias, igual ou superior a 83 %\n\nSorbitol, excepto o da subposição 2905 44:\n\n- Em solução aquosa\n\n3824 60 11 - - Com D-manitol em proporção inferior ou igual a 2 % em peso, calculada com base no seu teor em D-glucitol\n\n3824 60 19 - - Outro\n\n- Outro:\n\n3824 60 91 - - com D-manitol em proporção inferior ou igual a 2 % em peso, calculada com base no seu teor em D-glucitol\n\n3824 60 99 - - Outro\n\n([1](http://publications.europa.eu/resource/cellar/1f66755e-03dc-4e26-ba82-90eb108f493b.0018.02/DOC_1#src.E0001)) JO no C 126 de 7. 5. 1993, p. 13.\n\n([2](http://publications.europa.eu/resource/cellar/1f66755e-03dc-4e26-ba82-90eb108f493b.0018.02/DOC_1#src.E0002)) JO no C 315 de 22. 11. 1993.\n\n([3](http://publications.europa.eu/resource/cellar/1f66755e-03dc-4e26-ba82-90eb108f493b.0018.02/DOC_1#src.E0003)) JO no C 304 de 10. 11. 1993, p. 8.\n\n([4](http://publications.europa.eu/resource/cellar/1f66755e-03dc-4e26-ba82-90eb108f493b.0018.02/DOC_1#src.E0004)) JO no L 323 de 29. 11. 1980, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) no 1436/90 (JO no L 138 de 31. 5. 1990, p. 9).\n\n([5](http://publications.europa.eu/resource/cellar/1f66755e-03dc-4e26-ba82-90eb108f493b.0018.02/DOC_1#src.E0005)) JO no L 181 de 1. 7. 1992, p. 21.\n\n([6](http://publications.europa.eu/resource/cellar/1f66755e-03dc-4e26-ba82-90eb108f493b.0018.02/DOC_1#src.E0006)) JO no L 302 de 19.10. 1992, p. 1.\n\n([7](http://publications.europa.eu/resource/cellar/1f66755e-03dc-4e26-ba82-90eb108f493b.0018.02/DOC_1#src.E0007)) JO no L 323 de 29. 11. 1980, p. 7. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) no 572/91 da Comissão (JO no L 63 de 9. 3. 1991, p. 24).\n\n([8](http://publications.europa.eu/resource/cellar/1f66755e-03dc-4e26-ba82-90eb108f493b.0018.02/DOC_1#src.E0008)) JO L 256 de 7. 9. 1987, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) no 2308/97 (JO L 321 de 22. 11. 1997, p.1).\n\n([9](http://publications.europa.eu/resource/cellar/1f66755e-03dc-4e26-ba82-90eb108f493b.0018.02/DOC_1#src.E0009)) JO L 253 de 11.10.1993, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1602/2000 (JO L 188 de 26.7.2000, p. 1).\n\n([10](http://publications.europa.eu/resource/cellar/1f66755e-03dc-4e26-ba82-90eb108f493b.0018.02/DOC_1#src.E0010)) JO L 187 de 26. 7. 1996, p. 18."
+  },
+  "55d37dabbef76ab1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993R3448 — PT — 04.01.2010 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31993R3448) [REGULAMENTO (CE) Nº 3448/93 DO CONSELHO](http://publications.europa.eu/resource/celex/31993R3448) [de 6 de Dezembro de 1993](http://publications.europa.eu/resource/celex/31993R3448) [que estabelece o regime de trocas aplicável a certas mercadorias resultantes da transformação de produtos agrícolas](http://publications.europa.eu/resource/celex/31993R3448) (JO L 318, 20.12.1993, p.18)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1216/2009 do Conselho de 30 de Novembro de 2009](http://publications.europa.eu/resource/celex/32009R1216) — L 328 — 10 — 15.12.2009"
+  }
+ }
+}

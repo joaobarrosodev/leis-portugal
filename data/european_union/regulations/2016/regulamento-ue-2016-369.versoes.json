@@ -1,0 +1,239 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32016R0369:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02016R0369-20200201",
+ "dre_path": null,
+ "source_lastmod": "2020-02-01",
+ "versions": [
+  {
+   "date": "2016-03-16",
+   "future": false,
+   "celex": "32016R0369",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "acbf836864f9b945",
+    "e217e7882cedc6d6",
+    "c4db944b8ecced4f",
+    "751d12a35bc6659f",
+    "909f9926718ec9b8",
+    "1897568f6787dfe0",
+    "d8ed64fa63be6d59",
+    "abb2188276ca6d6e",
+    "a396416d79600d1c",
+    "c5f34b8f6fd538b5",
+    "3a27da1de7d5820a"
+   ]
+  },
+  {
+   "date": "2020-02-01",
+   "future": false,
+   "celex": "02016R0369-20200201",
+   "acts": [
+    {
+     "id": "eu:celex:32020R0521:por",
+     "title": "REGULAMENTO (UE) 2020/521 DO CONSELHO de 14 de abril de 2020",
+     "published": null,
+     "celex": "32020R0521"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Ações elegíveis",
+    "Altera Artigo 4.º — Tipos de intervenção financeira e procedimentos de execução",
+    "Altera Artigo 5.º — Custos elegíveis",
+    "Altera Artigo 6.º — Complementaridade e coerência da ação da União",
+    "Altera Artigo 7.º — Proteção dos interesses financeiros da União",
+    "Altera Artigo 9.º — Entrada em vigor e ativação",
+    "Altera Notas",
+    "Adita ANEXO",
+    "Adita Ações elegíveis"
+   ],
+   "fragments": [
+    "e258ba52a3c8ec0e",
+    "e217e7882cedc6d6",
+    "c4db944b8ecced4f",
+    "6506eb3208913ecb",
+    "a2f423f09b620453",
+    "e4b9ff8ab00fd390",
+    "82c9783764ff1777",
+    "0f4cc4180c44a89a",
+    "a396416d79600d1c",
+    "dfcaa353a3b61454",
+    "10220b9774fa9034",
+    "c4a1077dcba63254",
+    "258e8fc990cedf67"
+   ]
+  }
+ ],
+ "fragments": {
+  "acbf836864f9b945": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de março de 2016\n\nrelativo à prestação de apoio de emergência na União\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 122.º, n.º 1,\n\nTendo em conta a proposta da Comissão Europeia,\n\nConsiderando o seguinte:\n\n(1) A assistência e o apoio mútuos em caso de catástrofes constituem tanto uma expressão fundamental do valor universal da solidariedade entre os povos como um imperativo moral, porquanto tais catástrofes podem destituir um número significativo de pessoas das condições para satisfazerem as suas necessidades básicas, o que potencia efeitos adversos graves na sua saúde e nas suas vidas.\n\n(2) O impacto das catástrofes naturais e de origem humana na União é cada vez mais grave. Este facto prende-se com vários fatores, como as alterações climáticas e outros elementos e circunstâncias externos que se verificam na vizinhança da União. A crise da migração e dos refugiados que atualmente afeta a União é um exemplo claro de uma situação que, apesar dos esforços empreendidos pela União para combater as suas causas profundas situadas em países terceiros, pode afetar diretamente a situação económica dos Estados-Membros.\n\n(3) Esta situação levou o Conselho Europeu a instar a Comissão, em 19 de fevereiro de 2016, a criar a capacidade necessária para prestar internamente assistência humanitária, a fim de dar apoio aos países confrontados com um grande número de refugiados e migrantes.\n\n(4) As catástrofes naturais ou de origem humana podem assumir dimensões tais que o seu impacto pode causar graves dificuldades económicas num ou em mais Estados-Membros. Essas catástrofes também podem ocorrer num ou em mais Estados-Membros que, por outros motivos, já enfrentem dificuldades económicas graves, exacerbando ainda mais a gravidade da situação económica geral desses Estados-Membros. Em qualquer caso, a capacidade de resposta dos Estados-Membros em causa será prejudicada e será também, por sua vez, negativamente afetada a assistência e o apoio prestados às pessoas em situação de necessidade.\n\n(5) Embora a União possa já conceder um apoio de natureza macrofinanceira aos Estados-Membros e expressar a solidariedade europeia para com regiões afetadas por catástrofes, através do Fundo de Solidariedade da União Europeia (FSUE), criado pelo Regulamento (CE) n.º 2012/2002 do Conselho [([^1])](http://publications.europa.eu/resource/cellar/5cc41046-eb42-11e5-8a81-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2016070PT.01000101-E0001), ainda não existe um instrumento adequado, a que se possa recorrer ao nível da União, para responder, de forma suficientemente previsível e independente, às necessidades humanitárias das pessoas afetadas pelas catástrofes na União, como assistência alimentar, cuidados de saúde de emergência, abrigo, água, saneamento e higiene, proteção e educação. Pode ser oferecida assistência mútua através do Mecanismo de Proteção Civil da União, nos termos da Decisão n.º 1313/2013/UE do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/5cc41046-eb42-11e5-8a81-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2016070PT.01000101-E0002), mas o funcionamento deste mecanismo assenta nas contribuições voluntárias dos Estados-Membros. Também poderá ser prestada assistência e apoio através dos atuais instrumentos políticos e de financiamento da União, como os que visam a criação de um espaço de liberdade, de segurança e de justiça na União. A assistência e o apoio nesses termos seriam porém, acessórios e subsidiários da prossecução dos principais objetivos das políticas em que esses instrumentos se inserem e, por conseguinte, limitados nos seus âmbito e dimensão.\n\n(6) Afigura-se, por conseguinte, adequado que a União aja num espírito de solidariedade para dar resposta às necessidades básicas das pessoas afetadas por catástrofes na União e contribuir para reduzir o impacto económico dessas catástrofes nos Estados-Membros em questão.\n\n(7) Dadas as semelhanças existentes entre dar resposta às necessidades básicas das pessoas afetadas por catástrofes na União, mediante a prestação de apoio de emergência, e prestar ajuda humanitária às populações afetadas por catástrofes naturais ou de origem humana em países terceiros, todas as operações ao abrigo do presente regulamento deverão ser realizadas em conformidade com os princípios humanitários internacionalmente acordados. Essas ações constituem medidas que são adequadas à situação económica dos Estados-Membros que enfrentam as referidas dificuldades, e que são complementares da ação da União, incentivando a cooperação entre os Estados-Membros a fim de reforçar a eficácia dos sistemas de prevenção e de proteção contra as catástrofes naturais ou de origem humana.\n\n(8) Atenta a necessidade de atuar num espírito de solidariedade, a prestação de apoio de emergência ao abrigo do presente regulamento deverá ser financiada pelo orçamento geral da União, assim como por contribuições que podem ser efetuadas por outros doadores, públicos ou privados.\n\n(9) O reembolso de despesas, assim como a adjudicação de contratos públicos e a concessão de subvenções ao abrigo do presente regulamento deverão efetuar-se nos termos do Regulamento (UE, Euratom) n.º 966/2012 do Parlamento Europeu e do Conselho [([^3])](http://publications.europa.eu/resource/cellar/5cc41046-eb42-11e5-8a81-01aa75ed71a1.0018.03/DOC_1#ntr3-L_2016070PT.01000101-E0003), tendo em conta a especificidade do apoio de emergência. É, pois, adequado dispor que a concessão de subvenções e a adjudicação de contratos públicos se possam efetuar direta ou indiretamente, e que as subvenções possam financiar até 100 % dos custos elegíveis e ser concedidas com efeitos retroativos. A Comissão deverá poder financiar operações de apoio de emergência de qualquer organização que, independentemente da sua natureza jurídica, quer seja pública ou privada, possua a experiência necessária e pratique, para o efeito, uma gestão direta ou indireta, consoante seja adequado.\n\n(10) Além disso, é adequado o recurso a organizações com as quais a Comissão tenha celebrado acordos-quadro de parceria nos termos do Regulamento (CE) n.º 1257/96 do Conselho [([^4])](http://publications.europa.eu/resource/cellar/5cc41046-eb42-11e5-8a81-01aa75ed71a1.0018.03/DOC_1#ntr4-L_2016070PT.01000101-E0004), tendo em conta a relevância da experiência adquirida por estas organizações na prestação de ajuda humanitária em estreita coordenação com a Comissão. Sempre que possível, deverá ser promovida a participação de organizações não governamentais locais, através de organizações parceiras com acordos-quadro de parceria, a fim de maximizar as sinergias e a eficiência de qualquer apoio de emergência prestado ao abrigo do presente regulamento.\n\n(11) Os interesses financeiros da União deverão ser protegidos através de medidas proporcionadas ao longo do ciclo de despesa, nomeadamente por meio da prevenção, deteção e investigação de irregularidades, da recuperação dos fundos perdidos, pagos indevidamente ou utilizados incorretamente e, se for caso disso, da aplicação de sanções administrativas e financeiras nos termos do Regulamento (UE, Euratom) n.º 966/2012.\n\n(12) O presente regulamento deverá estabelecer as bases para a prestação de apoio financeiro em caso de catástrofes naturais ou de origem humana em relação às quais a União, num espírito de solidariedade, estará em melhor posição do que os Estados-Membros, agindo individual e descoordenadamente, para mobilizar os níveis adequados de financiamento e utilizá-los para executar, de forma económica, eficaz e eficiente, operações que possam salvar vidas humanas, permitindo assim uma ação mais eficaz, dada a sua dimensão e a sua complementaridade.\n\n(13) Atendendo a que os objetivos do presente regulamento não podem ser suficientemente alcançados pelos Estados-Membros, mas podem, devido à dimensão ou aos efeitos da ação, ser mais bem alcançados ao nível da União, a União pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado da União Europeia. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, o presente regulamento não excede o necessário para alcançar esses objetivos.\n\n(14) A prestação de apoio de emergência ao abrigo do presente regulamento deverá ser adequadamente acompanhada, com recurso, se necessário, aos conhecimentos mais especializados disponíveis ao nível da União. Além disso, a execução global do presente regulamento deverá ser avaliada.\n\n(15) Dada a urgência do apoio necessário, o presente regulamento deverá entrar imediatamente em vigor,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "e217e7882cedc6d6": {
+   "fragment_id": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1. O presente regulamento estabelece o quadro no qual pode ser concedido o apoio de emergência da União, através de medidas específicas adequadas à situação económica, em caso de uma catástrofe natural ou de origem humana, atual ou potencial. Esse apoio de emergência só pode ser concedido nos casos em que a dimensão e o impacto da catástrofe sejam de tal modo excecionais que tenham consequências humanitárias graves e abrangentes num ou em vários Estados-Membros e apenas em circunstâncias excecionais em que nenhum outro instrumento à disposição dos Estados-Membros e da União seja suficiente.\n\n2. O apoio de emergência concedido ao abrigo do presente regulamento apoia e complementa as ações do Estado-Membro afetado. Para o efeito, é assegurada as estreitas cooperação e consulta com o Estado-Membro afetado."
+  },
+  "c4db944b8ecced4f": {
+   "fragment_id": "Artigo 2.º — Ativação do apoio de emergência",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Ativação do apoio de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Ativação do apoio de emergência\n\n1. Em caso de catástrofe atual ou potencial, a decisão sobre a ativação do apoio de emergência ao abrigo do presente regulamento é tomada pelo Conselho, com base numa proposta da Comissão, especificando, se for caso disso, a duração da ativação.\n\n2. O Conselho examina imediatamente a proposta da Comissão referida no n.º 1 e decide, em conformidade com a urgência da situação, da ativação do apoio de emergência."
+  },
+  "751d12a35bc6659f": {
+   "fragment_id": "Artigo 3.º — Ações elegíveis",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Ações elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Ações elegíveis\n\n1. O apoio de emergência concedido ao abrigo do presente regulamento responde a necessidades de emergência, complementando a resposta dada pelos Estados-Membros afetados, com o objetivo de preservar vidas, prevenir e atenuar o sofrimento humano e manter a dignidade humana, onde se fizerem sentir as necessidades resultantes de uma catástrofe referida no artigo 1.º.\n\n2. O apoio de emergência, referido no n.º 1, pode incluir qualquer das ações de ajuda humanitária que seriam elegíveis para financiamento da União nos termos dos artigos 2.º, 3.º e 4.º do Regulamento (CE) n.º 1257/96, podendo, por conseguinte, abranger ações de assistência, socorro e, se necessário, de proteção para salvar e preservar vidas em caso de catástrofes ou das suas consequências imediatas. Pode também ser utilizada para financiar qualquer outra despesa diretamente relacionada com a implementação da ajuda de emergência ao abrigo do presente regulamento.\n\n3. O apoio de emergência ao abrigo do presente regulamento é concedido e aplicado em conformidade com os princípios humanitários fundamentais de humanidade, neutralidade, imparcialidade e independência.\n\n4. As ações a que se refere o n.º 2 são executadas pela Comissão ou por organizações parceiras selecionadas pela Comissão. A Comissão pode selecionar como organizações parceiras, nomeadamente, organizações não governamentais, serviços especializados dos Estados-Membros ou agências e organizações internacionais com os conhecimentos especializados necessários. Ao fazê-lo, a Comissão mantém uma cooperação estreita com o Estado-Membro afetado."
+  },
+  "909f9926718ec9b8": {
+   "fragment_id": "Artigo 4.º — Tipos de intervenção financeira e procedimentos de execução",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Tipos de intervenção financeira e procedimentos de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tipos de intervenção financeira e procedimentos de execução\n\n1. A Comissão presta o apoio financeiro da União nos termos do Regulamento (UE, Euratom) n.º 966/2012. Em particular, o financiamento pela União das ações de apoio ao abrigo do presente regulamento é executado mediante gestão direta ou indireta, nos termos do artigo 58.º, n.º 1, alíneas a) e c), respetivamente, daquele regulamento.\n\n2. O apoio de emergência ao abrigo do presente regulamento é financiado pelo orçamento geral da União e por contribuições que podem ser efetuadas por outros doadores, públicos ou privados, enquanto receitas afetadas externas, nos termos do artigo 21.º, n.º 4, do Regulamento (UE, Euratom) n.º 966/2012.\n\n3. O financiamento pela União das ações de apoio ao abrigo do presente regulamento a executar mediante gestão direta pode ser concedido diretamente pela Comissão sem convite à apresentação de propostas, nos termos do artigo 128.º, n.º 1, do Regulamento (UE, Euratom) n.º 966/2012. Para esse efeito, a Comissão pode celebrar acordos-quadro de parceria ou basear-se em acordos-quadro de parceria existentes, celebrados nos termos do Regulamento (CE) n.º 1257/96.\n\n4. Caso a Comissão execute operações de apoio de emergência através de organizações não governamentais, os critérios relativos à capacidade financeira e operacional consideram-se cumpridos se existir um acordo-quadro de parceria em vigor entre essa organização e a Comissão, celebrado nos termos do Regulamento (CE) n.º 1257/96."
+  },
+  "1897568f6787dfe0": {
+   "fragment_id": "Artigo 5.º — Custos elegíveis",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Custos elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Custos elegíveis\n\n1. O financiamento da União pode cobrir quaisquer custos diretos necessários para executar as ações elegíveis enunciadas no artigo 3.º, incluindo a aquisição, preparação, recolha, transporte, armazenamento e distribuição de bens e serviços no âmbito dessas ações.\n\n2. Os custos indiretos das organizações parceiras podem ser igualmente cobertos nos termos do Regulamento (UE, Euratom) n.º 966/2012.\n\n3. O financiamento da União pode cobrir igualmente as despesas relativas às atividades de preparação, acompanhamento, controlo, auditoria e avaliação necessárias para a gestão do apoio de emergência a prestar ao abrigo do presente regulamento.\n\n4. O financiamento pela União das ações de apoio de emergência ao abrigo do presente regulamento pode cobrir até 100 % dos custos elegíveis.\n\n5. As despesas em que as organizações parceiras incorram antes da data de apresentação do pedido de financiamento podem ser elegíveis para financiamento da União."
+  },
+  "d8ed64fa63be6d59": {
+   "fragment_id": "Artigo 6.º — Complementaridade e coerência da ação da União",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Complementaridade e coerência da ação da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Complementaridade e coerência da ação da União\n\nDevem procurar-se sinergias e complementaridade com os outros instrumentos da União, em particular com os instrumentos que permitam, de algum modo, prestar assistência de emergência ou apoio, como o Regulamento (CE) n.º 2012/2002 do Conselho, a Decisão n.º 1313/2013/UE, o Regulamento (CE) n.º 1257/96, o Regulamento (UE) n.º 223/2014 do Parlamento Europeu e do Conselho [([^5])](http://publications.europa.eu/resource/cellar/5cc41046-eb42-11e5-8a81-01aa75ed71a1.0018.03/DOC_1#ntr5-L_2016070PT.01000101-E0005), o Regulamento (UE) n.º 513/2014 do Parlamento Europeu e do Conselho [([^6])](http://publications.europa.eu/resource/cellar/5cc41046-eb42-11e5-8a81-01aa75ed71a1.0018.03/DOC_1#ntr6-L_2016070PT.01000101-E0006), o Regulamento (UE) n.º 514/2014 do Parlamento Europeu e do Conselho [([^7])](http://publications.europa.eu/resource/cellar/5cc41046-eb42-11e5-8a81-01aa75ed71a1.0018.03/DOC_1#ntr7-L_2016070PT.01000101-E0007), o Regulamento (UE) n.º 515/2014 do Parlamento Europeu e do Conselho [([^8])](http://publications.europa.eu/resource/cellar/5cc41046-eb42-11e5-8a81-01aa75ed71a1.0018.03/DOC_1#ntr8-L_2016070PT.01000101-E0008) e o Regulamento (UE) n.º 516/2014 do Parlamento Europeu e do Conselho [([^9])](http://publications.europa.eu/resource/cellar/5cc41046-eb42-11e5-8a81-01aa75ed71a1.0018.03/DOC_1#ntr9-L_2016070PT.01000101-E0009)."
+  },
+  "abb2188276ca6d6e": {
+   "fragment_id": "Artigo 7.º — Proteção dos interesses financeiros da União",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Proteção dos interesses financeiros da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Proteção dos interesses financeiros da União\n\n1. A Comissão toma as medidas adequadas para assegurar a proteção dos interesses financeiros da União na execução das ações financiadas ao abrigo do presente regulamento, mediante a aplicação de medidas preventivas contra a fraude, a corrupção e outras atividades ilegais, mediante a realização de controlos eficazes e, em caso de deteção de irregularidades, através da recuperação dos montantes pagos indevidamente e, se for caso disso, através da aplicação de sanções administrativas e financeiras efetivas, proporcionadas e dissuasivas.\n\n2. A Comissão ou os seus representantes e o Tribunal de Contas dispõem de poderes para auditar, com base em documentos ou no local, os beneficiários de subvenções, contratantes e subcontratantes que tenham recebido fundos da União ao abrigo do presente regulamento.\n\n3. O Organismo Europeu de Luta Antifraude (OLAF) pode efetuar inquéritos, incluindo inspeções e verificações no local, de acordo com as disposições e procedimentos estabelecidos no Regulamento (UE, Euratom) n.º 883/2013 do Parlamento Europeu e do Conselho [([^10])](http://publications.europa.eu/resource/cellar/5cc41046-eb42-11e5-8a81-01aa75ed71a1.0018.03/DOC_1#ntr10-L_2016070PT.01000101-E0010) e no Regulamento (Euratom, CE) n.º 2185/96 do Conselho [([^11])](http://publications.europa.eu/resource/cellar/5cc41046-eb42-11e5-8a81-01aa75ed71a1.0018.03/DOC_1#ntr11-L_2016070PT.01000101-E0011), a fim de apurar a existência de fraude, de corrupção ou de quaisquer outras atividades ilegais lesivas dos interesses financeiros da União relacionadas com convenções de subvenção ou decisões de subvenção ou com contratos financiados ao abrigo do presente regulamento.\n\n4. Sem prejuízo dos n.^os^ 1, 2 e 3, os contratos e as convenções de subvenção, assim como os acordos celebrados com organizações internacionais e serviços especializados dos Estados-Membros, decorrentes da execução do presente regulamento, devem conter disposições que confiram expressamente à Comissão, ao Tribunal de Contas e ao OLAF poderes para realizar essas auditorias e esses inquéritos, de acordo com as respetivas competências."
+  },
+  "a396416d79600d1c": {
+   "fragment_id": "Artigo 8.º — Acompanhamento e avaliação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Acompanhamento e avaliação\n\n1. As ações que beneficiem de apoio financeiro ao abrigo do presente regulamento são objeto de um acompanhamento periódico. O mais tardar 12 meses após a ativação do apoio de emergência para uma situação específica, nos termos do artigo 2.º, a Comissão apresenta ao Conselho um relatório e, se for caso disso, propostas para a sua cessação.\n\n2. Até 17 de março de 2019, a Comissão apresenta ao Conselho uma avaliação do funcionamento do presente regulamento, acompanhada de sugestões sobre o seu futuro e, se for caso disso, de propostas para a sua alteração ou revogação."
+  },
+  "c5f34b8f6fd538b5": {
+   "fragment_id": "Artigo 9.º — Entrada em vigor e ativação",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Entrada em vigor e ativação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor e ativação\n\n1. O presente regulamento entra em vigor no dia da sua publicação no *Jornal Oficial da União Europeia*.\n\n2. O Conselho decide ativar o apoio de emergência ao abrigo do presente regulamento, a partir da data da sua entrada em vigor e por um período de três anos, relativamente ao atual afluxo de refugiados e migrantes para a União.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 15 de março de 2016.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**A.G. KOENDERS**\n\n---"
+  },
+  "3a27da1de7d5820a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/5cc41046-eb42-11e5-8a81-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2016070PT.01000101-E0001) Regulamento (CE) n.º 2012/2002 do Conselho, de 11 de novembro de 2002, que institui o Fundo de Solidariedade da União Europeia ([JO L 311 de 14.11.2002, p. 3](http://publications.europa.eu/resource/oj/JOL_2002_311_R_TOC)).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/5cc41046-eb42-11e5-8a81-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2016070PT.01000101-E0002) Decisão n.º 1313/2013/UE do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, relativa a um Mecanismo de Proteção Civil da União Europeia ([JO L 347 de 20.12.2013, p. 924](http://publications.europa.eu/resource/oj/JOL_2013_347_R_TOC)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/5cc41046-eb42-11e5-8a81-01aa75ed71a1.0018.03/DOC_1#ntc3-L_2016070PT.01000101-E0003) Regulamento (UE, Euratom) n.º 966/2012 do Parlamento Europeu e do Conselho, de 25 de outubro de 2012, relativo às disposições financeiras aplicáveis ao orçamento geral da União e que revoga o Regulamento (CE, Euratom) n.º 1605/2002 ([JO L 298 de 26.10.2012, p. 1](http://publications.europa.eu/resource/oj/JOL_2012_298_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/5cc41046-eb42-11e5-8a81-01aa75ed71a1.0018.03/DOC_1#ntc4-L_2016070PT.01000101-E0004) Regulamento (CE) n.º 1257/96 do Conselho, de 20 de junho de 1996, relativo à ajuda humanitária ([JO L 163 de 2.7.1996, p. 1](http://publications.europa.eu/resource/oj/JOL_1996_163_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/5cc41046-eb42-11e5-8a81-01aa75ed71a1.0018.03/DOC_1#ntc5-L_2016070PT.01000101-E0005) Regulamento (UE) n.º 223/2014 do Parlamento Europeu e do Conselho, de 11 de março de 2014, relativo ao Fundo de Auxílio Europeu às Pessoas mais Carenciadas ([JO L 72 de 12.3.2014, p. 1](http://publications.europa.eu/resource/oj/JOL_2014_072_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/5cc41046-eb42-11e5-8a81-01aa75ed71a1.0018.03/DOC_1#ntc6-L_2016070PT.01000101-E0006) Regulamento (UE) n.º 513/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014, que cria, no âmbito do Fundo para a Segurança Interna, um instrumento de apoio financeiro à cooperação policial, à prevenção e luta contra criminalidade e à gestão de crises, e revoga a Decisão 2007/125/JAI do Conselho ([JO L 150 de 20.5.2014, p. 93](http://publications.europa.eu/resource/oj/JOL_2014_150_R_TOC)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/5cc41046-eb42-11e5-8a81-01aa75ed71a1.0018.03/DOC_1#ntc7-L_2016070PT.01000101-E0007) Regulamento (UE) n.º 514/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014, que estabelece disposições gerais aplicáveis ao Fundo para o Asilo, a Migração e a Integração e ao instrumento de apoio financeiro à cooperação policial, à prevenção e luta contra a criminalidade e à gestão de crises ([JO L 150 de 20.5.2014, p. 112](http://publications.europa.eu/resource/oj/JOL_2014_150_R_TOC)).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/5cc41046-eb42-11e5-8a81-01aa75ed71a1.0018.03/DOC_1#ntc8-L_2016070PT.01000101-E0008) Regulamento (UE) n.º 515/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014, que cria, no âmbito do Fundo para a Segurança Interna, um instrumento de apoio financeiro em matéria de fronteiras externas e de vistos e que revoga a Decisão n.º 574/2007/CE ([JO L 150 de 20.5.2014, p. 143](http://publications.europa.eu/resource/oj/JOL_2014_150_R_TOC)).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/5cc41046-eb42-11e5-8a81-01aa75ed71a1.0018.03/DOC_1#ntc9-L_2016070PT.01000101-E0009) Regulamento (UE) n.º 516/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014, que cria o Fundo para o Asilo, a Migração e a Integração, que altera a Decisão 2008/381/CE do Conselho e que revoga as Decisões n.º 573/2007/CE e n.º 575/2007/CE do Parlamento Europeu e do Conselho e a Decisão 2007/435/CE do Conselho ([JO L 150 de 20.5.2014, p. 168](http://publications.europa.eu/resource/oj/JOL_2014_150_R_TOC)).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/5cc41046-eb42-11e5-8a81-01aa75ed71a1.0018.03/DOC_1#ntc10-L_2016070PT.01000101-E0010) Regulamento (UE, Euratom) n.º 883/2013 do Parlamento Europeu e do Conselho, de 11 de setembro de 2013, relativo aos inquéritos efetuados pelo Organismo Europeu de Luta Antifraude (OLAF) e que revoga o Regulamento (CE) n.º 1073/1999 do Parlamento Europeu e do Conselho e o Regulamento (Euratom) n.º 1074/1999 do Conselho ([JO L 248 de 18.9.2013, p. 1](http://publications.europa.eu/resource/oj/JOL_2013_248_R_TOC)).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/5cc41046-eb42-11e5-8a81-01aa75ed71a1.0018.03/DOC_1#ntc11-L_2016070PT.01000101-E0011) Regulamento (Euratom, CE) n.º 2185/96 do Conselho, de 11 de novembro de 1996, relativo às inspeções e verificações no local efetuadas pela Comissão para proteger os interesses financeiros das Comunidades Europeias contra a fraude e outras irregularidades ([JO L 292 de 15.11.1996, p. 2](http://publications.europa.eu/resource/oj/JOL_1996_292_R_TOC))."
+  },
+  "e258ba52a3c8ec0e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de março de 2016\n\nrelativo à prestação de apoio de emergência na União"
+  },
+  "6506eb3208913ecb": {
+   "fragment_id": "Artigo 3.º — Ações elegíveis",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Ações elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Ações elegíveis\n\n1. O apoio de emergência concedido ao abrigo do presente regulamento responde a necessidades de emergência, complementando a resposta dada pelos Estados-Membros afetados, com o objetivo de preservar vidas, prevenir e atenuar o sofrimento humano e manter a dignidade humana, onde se fizerem sentir as necessidades resultantes de uma catástrofe referida no artigo 1.º, n.º 1. Sem prejuízo do período de ativação referido no artigo 2.º, n.º 1, pode também ser concedido apoio de emergência para fazer face às necessidades que surjam na sequência de uma catástrofe ou para evitar o seu ressurgimento.\n\n2. O apoio de emergência referido no n.º 1 do presente artigo pode incluir qualquer das ações de ajuda humanitária que seriam elegíveis para financiamento da União nos termos dos artigos 2.º, 3.º e 4.º do Regulamento (CE) n.º 1257/96, podendo, por conseguinte, abranger ações de assistência, ajuda de emergência e, se necessário, de proteção para salvar e preservar vidas em caso de catástrofes ou das suas consequências imediatas. Pode também ser utilizado para financiar qualquer outra despesa diretamente relacionada com a implementação do apoio de emergência ao abrigo do presente regulamento. Em particular, o apoio de emergência pode ser utilizado para financiar as ações estabelecidas no anexo.\n\n3. Sem prejuízo do n.º 4, o apoio de emergência ao abrigo do presente regulamento é concedido e aplicado em conformidade com os princípios humanitários fundamentais de humanidade, neutralidade, imparcialidade e independência.\n\n4. As ações a que se refere o n.º 2 são executadas pela Comissão ou por organizações parceiras selecionadas pela Comissão. A Comissão pode selecionar como organizações parceiras, nomeadamente, organizações não governamentais, serviços especializados dos Estados-Membros, autoridades nacionais e outros organismos públicos, organizações internacionais e as respetivas agências e, se adequado e necessário para a execução de uma ação, outras organizações e entidades com os conhecimentos especializados exigidos ou ativas nos setores relevantes para a prestação de ajuda de emergência em situação de catástrofe, tais como prestadores de serviços privados, fabricantes de equipamento, cientistas e institutos de investigação. Ao fazê-lo, a Comissão mantém uma cooperação estreita com o Estado-Membro afetado."
+  },
+  "a2f423f09b620453": {
+   "fragment_id": "Artigo 4.º — Tipos de intervenção financeira e procedimentos de execução",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Tipos de intervenção financeira e procedimentos de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tipos de intervenção financeira e procedimentos de execução\n\n1. A Comissão executa o apoio financeiro da União nos termos do Regulamento (UE, Euratom) 2018/1046 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/5e3a9f1f-8b3c-11ea-812f-01aa75ed71a1.0020.03/DOC_1#E0001)). Em particular, o financiamento pela União das ações de apoio ao abrigo do presente regulamento é executado mediante gestão direta ou indireta, nos termos do artigo 62.º, n.º 1, alíneas a) e c), respetivamente, daquele regulamento.\n\n2. O apoio de emergência ao abrigo do presente regulamento é financiado pelo orçamento geral da União e por contribuições que podem ser efetuadas por Estados-Membros e outros doadores, públicos ou privados, enquanto receitas afetadas externas, em conformidade com o artigo 21.º, n.º 5, do Regulamento (UE, Euratom) 2018/1046.\n\n3. O financiamento pela União das ações de apoio ao abrigo do presente regulamento a executar mediante gestão direta pode ser concedido diretamente pela Comissão sem convite à apresentação de propostas, nos termos do artigo 195.º do Regulamento (UE, Euratom) 2018/1046. Para esse efeito, a Comissão pode celebrar acordos-quadro de parceria ou basear-se em acordos-quadro de parceria existentes, celebrados nos termos do Regulamento (CE) n.º 1257/96.\n\n4. Caso a Comissão execute operações de apoio de emergência através de organizações não governamentais, os critérios relativos à capacidade financeira e operacional consideram-se cumpridos se existir um acordo-quadro de parceria em vigor entre essa organização e a Comissão, celebrado nos termos do Regulamento (CE) n.º 1257/96.\n\n5. O apoio de emergência ao abrigo do presente regulamento pode ser concedido sob uma das seguintes formas:\n\na) Contratação pública conjunta com os Estados-Membros referida no artigo 165.º, n.º 2, do Regulamento (UE, Euratom) 2018/1046, através da qual os Estados-Membros podem adquirir, alugar ou tomar em locação na íntegra as capacidades conjuntamente contratadas;\n\nb) Contratação pública pela Comissão, em nome dos Estados-Membros, com base num acordo entre a Comissão e os Estados-Membros;\n\nc) Contratação pública pela Comissão, como grossista, para aquisição, armazenamento, revenda e doação de produtos e serviços, incluindo alugueres, a Estados-Membros ou a organizações parceiras que selecione.\n\n6. Caso se aplique o procedimento de contratação pública referido no n.º 5, alínea b), os contratos subsequentes são celebrados:\n\na) Pela Comissão, sendo os serviços ou bens prestados ou entregues aos Estados-Membros ou a organizações parceiras selecionadas pela Comissão;\n\nb) Pelos Estados-Membros participantes, que adquirem, alugam ou tomam em locação diretamente para si as capacidades contratadas pela Comissão.\n\n7. Em caso de aplicação dos procedimentos de contratação pública referidos no n.º 5, alíneas b) e c), a Comissão deve seguir as regras previstas no Regulamento (UE, Euratom) 2018/1046 para os seus próprios procedimentos de contratação pública."
+  },
+  "e4b9ff8ab00fd390": {
+   "fragment_id": "Artigo 5.º — Custos elegíveis",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Custos elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Custos elegíveis\n\n1. O financiamento da União pode cobrir quaisquer custos diretos necessários para executar as ações elegíveis enunciadas no artigo 3.º, incluindo a aquisição, a preparação, a recolha, o transporte, o armazenamento e a distribuição de bens e serviços no âmbito dessas ações, bem como os custos de investimento de ações ou projetos diretamente relacionados com a consecução dos objetivos do apoio de emergência ativado em conformidade com o presente regulamento.\n\n2. Os custos indiretos das organizações parceiras podem ser igualmente cobertos nos termos do Regulamento (UE, Euratom) 2018/1046.\n\n3. O financiamento da União pode cobrir igualmente as despesas relativas às atividades de preparação, acompanhamento, controlo, auditoria e avaliação necessárias para a gestão do apoio de emergência a prestar ao abrigo do presente regulamento.\n\n4. O financiamento pela União das ações de apoio de emergência ao abrigo do presente regulamento pode cobrir até 100 % dos custos elegíveis.\n\n5. As despesas em que as organizações parceiras incorram antes da data de apresentação do pedido de financiamento podem ser elegíveis para financiamento da União."
+  },
+  "82c9783764ff1777": {
+   "fragment_id": "Artigo 6.º — Complementaridade e coerência da ação da União",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Complementaridade e coerência da ação da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Complementaridade e coerência da ação da União\n\nDevem procurar-se sinergias e complementaridade com os outros instrumentos da União, em particular com os instrumentos que permitam, de algum modo, prestar assistência de emergência ou apoio, como o Regulamento (CE) n.º 2012/2002 do Conselho, a Decisão n.º 1313/2013/UE, o Regulamento (CE) n.º 1257/96, o Regulamento (UE) n.º 223/2014 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/5e3a9f1f-8b3c-11ea-812f-01aa75ed71a1.0020.03/DOC_1#E0002)), o Regulamento (UE) n.º 513/2014 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/5e3a9f1f-8b3c-11ea-812f-01aa75ed71a1.0020.03/DOC_1#E0003)), o Regulamento (UE) n.º 514/2014 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/5e3a9f1f-8b3c-11ea-812f-01aa75ed71a1.0020.03/DOC_1#E0004)), o Regulamento (UE) n.º 515/2014 do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/5e3a9f1f-8b3c-11ea-812f-01aa75ed71a1.0020.03/DOC_1#E0005)) e o Regulamento (UE) n.º 516/2014 do Parlamento Europeu e do Conselho ([^6^](http://publications.europa.eu/resource/cellar/5e3a9f1f-8b3c-11ea-812f-01aa75ed71a1.0020.03/DOC_1#E0006))."
+  },
+  "0f4cc4180c44a89a": {
+   "fragment_id": "Artigo 7.º — Proteção dos interesses financeiros da União",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Proteção dos interesses financeiros da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Proteção dos interesses financeiros da União\n\n1. A Comissão toma as medidas adequadas para assegurar a proteção dos interesses financeiros da União na execução das ações financiadas ao abrigo do presente regulamento, mediante a aplicação de medidas preventivas contra a fraude, a corrupção e outras atividades ilegais, mediante a realização de controlos eficazes e, em caso de deteção de irregularidades, através da recuperação dos montantes pagos indevidamente e, se for caso disso, através da aplicação de sanções administrativas e financeiras efetivas, proporcionadas e dissuasivas.\n\n2. A Comissão ou os seus representantes e o Tribunal de Contas dispõem de poderes para auditar, com base em documentos ou no local, os beneficiários de subvenções, contratantes e subcontratantes que tenham recebido fundos da União ao abrigo do presente regulamento.\n\n3. O Organismo Europeu de Luta Antifraude (OLAF) pode efetuar inquéritos, incluindo inspeções e verificações no local, de acordo com as disposições e procedimentos estabelecidos no Regulamento (UE, Euratom) n.º 883/2013 do Parlamento Europeu e do Conselho ([^7^](http://publications.europa.eu/resource/cellar/5e3a9f1f-8b3c-11ea-812f-01aa75ed71a1.0020.03/DOC_1#E0007)) e no Regulamento (Euratom, CE) n.º 2185/96 do Conselho ([^8^](http://publications.europa.eu/resource/cellar/5e3a9f1f-8b3c-11ea-812f-01aa75ed71a1.0020.03/DOC_1#E0008)), a fim de apurar a existência de fraude, de corrupção ou de quaisquer outras atividades ilegais lesivas dos interesses financeiros da União relacionadas com convenções de subvenção ou decisões de subvenção ou com contratos financiados ao abrigo do presente regulamento.\n\n4. Sem prejuízo dos n.^os^ 1, 2 e 3, os contratos e as convenções de subvenção, assim como os acordos celebrados com organizações internacionais e serviços especializados dos Estados-Membros, decorrentes da execução do presente regulamento, devem conter disposições que confiram expressamente à Comissão, ao Tribunal de Contas e ao OLAF poderes para realizar essas auditorias e esses inquéritos, de acordo com as respetivas competências."
+  },
+  "dfcaa353a3b61454": {
+   "fragment_id": "Artigo 9.º — Entrada em vigor e ativação",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Entrada em vigor e ativação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor e ativação\n\n1. O presente regulamento entra em vigor no dia da sua publicação no *Jornal Oficial da União Europeia*.\n\n2. O Conselho decide ativar o apoio de emergência ao abrigo do presente regulamento, a partir da data da sua entrada em vigor e por um período de três anos, relativamente ao atual afluxo de refugiados e migrantes para a União.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "c4a1077dcba63254": {
+   "fragment_id": "Ações elegíveis",
+   "type": "divisao",
+   "heading": "Ações elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Ações elegíveis\n\nEm caso de pandemia com impacto de larga escala, podem ser financiadas as seguintes ações:\n\na) Reforço temporário da equipa médica, intercâmbio de profissionais de saúde, acolhimento de doentes estrangeiros ou outro tipo de apoio mútuo;\n\nb) Criação de instalações temporárias de cuidados de saúde e ampliação temporária de instalações já existentes, a fim de aliviar a pressão exercida sobre as estruturas existentes e de aumentar a capacidade global de prestação de cuidados;\n\nc) Atividades de apoio à administração da aplicação em larga escala de exames médicos e preparação das estratégias e protocolos científicos de despistagem necessários;\n\nd) Criação de instalações temporárias de quarentena e adoção de outras medidas adequadas nas fronteiras da União;\n\ne) Desenvolvimento, produção ou aquisição e distribuição de produtos médicos;\n\nf) Ampliação e conversão das capacidades de produção de produtos médicos referidos na alínea e), para fazer face à escassez da oferta;\n\ng) Manutenção da reserva de produtos médicos referidos na alínea e) e sua eliminação;\n\nh) Ações de apoio às medidas necessárias para obter a aprovação da utilização de produtos médicos referidos na alínea e), se necessário;\n\ni) Ações que visem desenvolver métodos adequados para acompanhar a evolução da pandemia e os resultados das medidas aplicadas para a combater;\n\nj) Organização de ensaios clínicos *ad hoc* de potenciais terapias ou testes de diagnóstico, de acordo com as normas aplicáveis aos ensaios acordadas a nível da União;\n\nk) Validação científica de produtos médicos, incluindo potenciais novos métodos de despistagem.\n\nA lista apresentada não é exaustiva.\n\n---"
+  },
+  "258e8fc990cedf67": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/5e3a9f1f-8b3c-11ea-812f-01aa75ed71a1.0020.03/DOC_1#src.E0001)) Regulamento (UE, Euratom) 2018/1046 do Parlamento Europeu e do Conselho, de 18 de julho de 2018, relativo às disposições financeiras aplicáveis ao orçamento geral da União, que altera os Regulamentos (UE) n.º 1296/2013, (UE) n.º 1301/2013, (UE) n.º 1303/2013, (UE) n.º 1304/2013, (UE) n.º 1309/2013, (UE) n.º 1316/2013, (UE) n.º 223/2014 e (UE) n.º 283/2014, e a Decisão n.º 541/2014/UE, e revoga o Regulamento (UE, Euratom) n.º 966/2012 (JO L 193 de 30.7.2018, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/5e3a9f1f-8b3c-11ea-812f-01aa75ed71a1.0020.03/DOC_1#src.E0002)) Regulamento (UE) n.º 223/2014 do Parlamento Europeu e do Conselho, de 11 de março de 2014, relativo ao Fundo de Auxílio Europeu às Pessoas mais Carenciadas (JO L 72 de 12.3.2014, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/5e3a9f1f-8b3c-11ea-812f-01aa75ed71a1.0020.03/DOC_1#src.E0003)) Regulamento (UE) n.º 513/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014, que cria, no âmbito do Fundo para a Segurança Interna, um instrumento de apoio financeiro à cooperação policial, à prevenção e luta contra criminalidade e à gestão de crises, e revoga a Decisão 2007/125/JAI do Conselho (JO L 150 de 20.5.2014, p. 93).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/5e3a9f1f-8b3c-11ea-812f-01aa75ed71a1.0020.03/DOC_1#src.E0004)) Regulamento (UE) n.º 514/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014, que estabelece disposições gerais aplicáveis ao Fundo para o Asilo, a Migração e a Integração e ao instrumento de apoio financeiro à cooperação policial, à prevenção e luta contra a criminalidade e à gestão de crises (JO L 150 de 20.5.2014, p. 112).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/5e3a9f1f-8b3c-11ea-812f-01aa75ed71a1.0020.03/DOC_1#src.E0005)) Regulamento (UE) n.º 515/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014, que cria, no âmbito do Fundo para a Segurança Interna, um instrumento de apoio financeiro em matéria de fronteiras externas e de vistos e que revoga a Decisão n.º 574/2007/CE (JO L 150 de 20.5.2014, p. 143).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/5e3a9f1f-8b3c-11ea-812f-01aa75ed71a1.0020.03/DOC_1#src.E0006)) Regulamento (UE) n.º 516/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014, que cria o Fundo para o Asilo, a Migração e a Integração, que altera a Decisão 2008/381/CE do Conselho e que revoga as Decisões n.º 573/2007/CE e n.º 575/2007/CE do Parlamento Europeu e do Conselho e a Decisão 2007/435/CE do Conselho (JO L 150 de 20.5.2014, p. 168).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/5e3a9f1f-8b3c-11ea-812f-01aa75ed71a1.0020.03/DOC_1#src.E0007)) Regulamento (UE, Euratom) n.º 883/2013 do Parlamento Europeu e do Conselho, de 11 de setembro de 2013, relativo aos inquéritos efetuados pelo Organismo Europeu de Luta Antifraude (OLAF) e que revoga o Regulamento (CE) n.º 1073/1999 do Parlamento Europeu e do Conselho e o Regulamento (Euratom) n.º 1074/1999 do Conselho (JO L 248 de 18.9.2013, p. 1).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/5e3a9f1f-8b3c-11ea-812f-01aa75ed71a1.0020.03/DOC_1#src.E0008)) Regulamento (Euratom, CE) n.º 2185/96 do Conselho, de 11 de novembro de 1996, relativo às inspeções e verificações no local efetuadas pela Comissão para proteger os interesses financeiros das Comunidades Europeias contra a fraude e outras irregularidades (JO L 292 de 15.11.1996, p. 2)."
+  }
+ }
+}

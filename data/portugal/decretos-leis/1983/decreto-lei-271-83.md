@@ -1,0 +1,154 @@
+---
+schema_version: '1.0'
+id: pt:dre:452016:por
+title: Decreto-Lei n.º 271/83
+short_title: null
+summary: Estabelece a reconversão profissional dos educadores e orientadores sociais do quadro da Direcção-Geral dos Serviços
+  Prisionais
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Finanças e do Plano, da Justiça e da Reforma Administrativa
+proposing_entity: null
+official_number: 271/83
+official_date: null
+publication_date: '1983-06-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 137/1983, Série I de 1983-06-17
+  number: '137'
+  series: I
+  supplement: null
+  pages: 2148 - 2149
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/06/13700/21482149.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '452016'
+  dre_path: /dr/detalhe/decreto-lei/271-1983-452016
+  internal: pt:dre:452016:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1983-452016
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1983-452016
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:52:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 37065be94683255277c1d2d2c96f2041db654c6b9c9b92cebfde8b0d3a2ad1c7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:03Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral dos Serviços Prisionais
+- Quadro de Pessoal
+- Reclassificação de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:563002:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:52:03Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 271/83
+
+de 17 de Junho
+
+1. A recente aprovação da lei orgânica do Instituto de Reinserção Social, definindo a nova carreira de técnico de reinserção social e fixando a transição do pessoal afecto às carreiras de serviço social do quadro da Direcção-Geral dos Serviços Prisionais, determina a urgência da reclassificação dos actuais orientadores sociais daquele quadro para a carreira de técnico de orientação escolar e social, mediante a frequência de um curso de formação profissional adequada.
+
+2. Na sequência da transferência para o Instituto de Reinserção Social de atribuições e do pessoal afecto à Divisão de Serviço Social da Direcção-Geral dos Serviços Prisionais, os educadores do respectivo quadro verão definido o seu conteúdo funcional, em tudo idêntico ao pessoal da carreira de técnico de orientação escolar social do mesmo quadro.
+
+3. Nestes termos, importa definir os critérios, plano do curso e respectiva avaliação, tendo em conta uma mais correcta inserção funcional nos quadros, quer do Instituto de Reinserção Social quer da Direcção-Geral dos Serviço Prisionais.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º A reclassificação profissional dos educadores e dos orientadores sociais do quadro da Direcção-Geral dos Serviços Prisionais (DGSP) far-se-á mediante frequência de um curso de formação profissional, cujo plano consta do anexo I ao presente diploma.
+
+Art. 2.º A avaliação do curso de formação será feita com recurso a um dos seguintes métodos:
+
+a) Resolução de uma hipótese com utilização dos conhecimentos adquiridos no curso;
+
+b) Apresentação de um trabalho sobre matéria ministrada no curso.
+
+Art. 3.º A avaliação referida no artigo anterior será feita por um júri, a designar por despacho do Ministro da Justiça, sob proposta do director-geral dos Serviços Prisionais e do presidente do Instituto de Reinserção Social.
+
+Art. 4.º O sistema de funcionamento do curso será fixado por despacho do director-geral dos Serviços Prisionais e do presidente do Instituto de Reinserção Social.
+
+Art. 5.º - 1 - Os funcionários aprovados no curso de formação transitarão para a carreira de técnico de orientação escolar e social dos quadros do Instituto de Reinserção Social e da Direcção-Geral dos Serviços Prisionais, consoante se trate de orientadores sociais ou de educadores.
+
+2 - A transição referida no número anterior efectuar-se-á para a fase remunerada pela mesma letra de vencimento ou por letra de vencimento imediatamente superior, quando não se verifique coincidência de remuneração.
+
+3 - Para efeitos do disposto nos números anteriores, é alterado o quadro de pessoal da DGSP, aprovado pelo [Decreto-Lei n.º 268/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1981-563002), de 16 de Setembro, nos termos do anexo II ao presente diploma.
+
+Art. 6.º A transição de pessoal reclassificado nos termos do presente decreto-lei produz efeitos a partir da data da publicação do respectivo despacho, obtido o visto do Tribunal de Contas.
+
+Art. 7.º Os encargos resultantes da aplicação do presente diploma serão suportados, no corrente ano, por verbas do Cofre dos Conservadores, Notários e Funcionários de Justiça.
+
+Visto e aprovado em Conselho de Ministros de 19 de Maio de 1983. - Francisco José Pereira Pinto Balsemão - José Manuel Meneres Sampaio Pimentel - Alípio Barrosa Pereira Dias.
+
+Promulgado em 4 de Junho de 1983.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 7 de Junho de 1983.
+
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
+
+Anexo I a que se refere o artigo 1.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/13700/21482149.pdf)
+
+Anexo II a que se refere o n.º 3 do artigo 5.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/13700/21482149.pdf)

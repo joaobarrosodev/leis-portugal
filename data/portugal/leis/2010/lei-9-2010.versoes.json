@@ -1,0 +1,126 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:332460:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2010-34476675",
+ "dre_path": "/dr/detalhe/lei/9-2010-332460",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2010-05-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "50111575",
+    "50111675",
+    "50111775",
+    "50111875",
+    "50111975",
+    "50112075"
+   ]
+  },
+  {
+   "date": "2016-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:73740375:por",
+     "title": "Lei n.º 2/2016",
+     "published": "2016-02-29",
+     "dre_path": "/dr/detalhe/lei/2-2016-73740375"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "50111575",
+    "50111675",
+    "50111775",
+    "73723420",
+    "50111975",
+    "73723421",
+    "50112175"
+   ]
+  }
+ ],
+ "fragments": {
+  "50111575": {
+   "fragment_id": "35096475",
+   "type": 15,
+   "heading": "Diploma — Permite o casamento civil entre pessoas do mesmo sexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "50111675": {
+   "fragment_id": "35958375",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei permite o casamento civil entre pessoas do mesmo sexo."
+  },
+  "50111775": {
+   "fragment_id": "35958475",
+   "type": 11,
+   "heading": "Artigo 2.º — Alterações ao regime do casamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alterações ao regime do casamento\n\nOs artigos 1577.º, 1591.º e 1690.º do Código Civil passam a ter a seguinte redacção:\n\n«Artigo 1577.º\n\n[...]\n\nCasamento é o contrato celebrado entre duas pessoas que pretendem constituir família mediante uma plena comunhão de vida, nos termos das disposições deste Código.\n\nArtigo 1591.º\n\n[...]\n\nO contrato pelo qual, a título de esponsais, desposórios ou qualquer outro, duas pessoas se comprometem a contrair matrimónio não dá direito a exigir a celebração do casamento, nem a reclamar, na falta de cumprimento, outras indemnizações que não sejam as previstas no artigo 1594.º, mesmo quando resultantes de cláusula penal.\n\nArtigo 1690.º\n\n[...]\n\n1 - Qualquer dos cônjuges tem legitimidade para contrair dívidas sem o consentimento do outro.\n\n2 - ...»"
+  },
+  "50111875": {
+   "fragment_id": "35958575",
+   "type": 11,
+   "heading": "Artigo 3.º — Adopção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Adopção\n\n1 - As alterações introduzidas pela presente lei não implicam a admissibilidade legal da adopção, em qualquer das suas modalidades, por pessoas casadas com cônjuge do mesmo sexo.\n\n2 - Nenhuma disposição legal em matéria de adopção pode ser interpretada em sentido contrário ao disposto no número anterior."
+  },
+  "50111975": {
+   "fragment_id": "35958675",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nÉ revogada a alínea e) do artigo 1628.º do Código Civil."
+  },
+  "50112075": {
+   "fragment_id": "35958775",
+   "type": 11,
+   "heading": "Artigo 5.º — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disposição final\n\nTodas as disposições legais relativas ao casamento e seus efeitos devem ser interpretadas à luz da presente lei, independentemente do género dos cônjuges, sem prejuízo do disposto no artigo 3.º"
+  },
+  "73723420": {
+   "fragment_id": "35958575",
+   "type": 11,
+   "heading": "Artigo 3.º — Adopção",
+   "in_force_from": "2016-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 2/2016 - Diário da República n.º 41/2016, Série I de 2016-02-29](https://diariodarepublica.pt/dr/detalhe/lei/2-2016-73740375), em vigor a partir de 2016-03-01"
+   ],
+   "markdown": "###### Artigo 3.º — Adopção\n\n1 - O regime introduzido pela presente lei implica a admissibilidade legal de adoção, em qualquer das suas modalidades, por pessoas casadas com cônjuge do mesmo sexo.\n\n2 - Nenhuma disposição legal ou regulamentar em matéria de adoção pode ser interpretada em sentido contrário ao disposto no número anterior.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 2/2016 - Diário da República n.º 41/2016, Série I de 2016-02-29](https://diariodarepublica.pt/dr/detalhe/lei/2-2016-73740375), em vigor a partir de 2016-03-01"
+  },
+  "73723421": {
+   "fragment_id": "35958775",
+   "type": 11,
+   "heading": "Artigo 5.º — Disposição final",
+   "in_force_from": "2016-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 2/2016 - Diário da República n.º 41/2016, Série I de 2016-02-29](https://diariodarepublica.pt/dr/detalhe/lei/2-2016-73740375), em vigor a partir de 2016-03-01"
+   ],
+   "markdown": "###### Artigo 5.º — Disposição final\n\nTodas as disposições legais relativas ao casamento, adoção, apadrinhamento civil e outras relações jurídicas familiares devem ser interpretadas à luz da presente lei, independentemente do sexo dos cônjuges.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 2/2016 - Diário da República n.º 41/2016, Série I de 2016-02-29](https://diariodarepublica.pt/dr/detalhe/lei/2-2016-73740375), em vigor a partir de 2016-03-01"
+  },
+  "50112175": {
+   "fragment_id": "35958875",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 11 de Fevereiro de 2010.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 17 de Maio de 2010.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 18 de Maio de 2010.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

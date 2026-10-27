@@ -1,0 +1,208 @@
+---
+schema_version: '1.0'
+id: pt:dre:583988:por
+title: Portaria n.º 144-D/75
+short_title: null
+summary: Define as normas a que deve obedecer a comercialização do bacalhau
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia - Secretarias de Estado do Abastecimento e Preços e das Pescas
+proposing_entity: null
+official_number: 144-D/75
+official_date: null
+publication_date: '1975-03-03'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 52/1975, 2º Suplemento, Série I de 1975-03-03
+  number: '52'
+  series: I
+  supplement: null
+  pages: 334-(10) a 334-(11)
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/03/05202/00100011.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '583988'
+  dre_path: /dr/detalhe/portaria/144-d-1975-583988
+  internal: pt:dre:583988:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/144-d-1975-583988
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/144-d-1975-583988
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:39:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 9c874709a0be246d15cf3e00f4fcfb59b04c182ec3c977e5148c30a7e3e3f73d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:39:26Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:579689:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:408891:por
+  label: Revogada, a partir de 12.10.1976, mantendo-se em vigor as disposições constantes dos arts. 7.º, 8.º, 9.º, 10.º e
+    11.º, pelo(a) Portaria n.º 599/76 - Diário da República n.º 239/1976, Série I de 1976-10-12 nos termos do seu n.º 7.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/599-1976-408891
+  date: '1976-10-12'
+- type: repealed_by
+  target: pt:dre:579689:por
+  label: "Revogada pela PORT.642/81.24.07.1981.MAP, DR.IS [168] de 24.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/642-1981-579689
+  date: '1981-07-24'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:39:26Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 144-D/75
+
+de 3 de Março
+
+As modificações introduzidas pela presente portaria no regime de comercialização e preços do bacalhau e espécies afins visam uma melhor adequação às condições reais do mercado, de modo a garantir a viabilidade económica da frota nacional, aumentando assim o grau de auto-suficiência naqueles produtos e regularizando de forma efectiva o abastecimento público.
+
+Nestas circunstâncias, uma primeira e fundamental medida consiste na adaptação dos preços do bacalhau dos tipos «miúdo» e «corrente», que constituem a quase totalidade das capturas nacionais, à realidade dos custos da exploração das empresas armadoras, tirando-as da situação de virtual falência em que se encontram.
+
+Na verdade, só criando condições que permitam às empresas sobreviver à grave crise que atravessam será possível, no futuro, vir a modernizar e a expandir as respectivas frotas, de modo que, cada vez mais, se possa dispensar o recurso à importação, a qual, só no ano transacto, sangrou o País em mais de um milhão e meio de contos.
+
+Dada a importância destes produtos nos hábitos alimentares da população, e dentro da orientação que vem sendo seguida pelo Governo Provisório, são estabelecidos preços máximos de venda ao público para todos os tipos de bacalhau legítimo e espécies afins.
+
+Com excepção do bacalhau dos tipos miúdo, corrente e sortido, conforme atrás se notou, os preços máximos dos restantes tipos não se traduzem em qualquer aumento em relação aos níveis que têm sido praticados.
+
+No que respeita às espécies afins, são também estabelecidos preços máximos de venda ao público, a partir dos quais se espera tornar possível a sua importação em quantidades significativas.
+
+Dado que as cotações dessas espécies no mercado internacional, em comparação com as do bacalhau legítimo, são sensivelmente mais baixas, procurar-se-á iniciar um processo gradual de substituição do bacalhau dos tipos superiores por aquelas espécies, diminuindo, em consequência, as elevadíssimas saídas de divisas com a importação de bacalhau, sem afectar os hábitos alimentares do consumidor e a quantidade de proteínas postas à sua disposição.
+
+Na sequência das alterações de maior relevo a que se fez referência, são ainda de salientar outras medidas, tais como: a introdução de preços de garantia ao armador nacional, a fixação de uma margem mínima para o retalhista e a disciplina da venda do produto embalado, no sentido de obstar a fraudes que correntemente se têm verificado.
+
+A presente portaria deverá ser interpretada em ligação com outras medidas, já adoptadas pelo Governo Provisório, de atribuir o exclusivo da importação à Comissão Reguladora do Comércio de Bacalhau, que, aliás, será muito em breve substituída por uma empresa pública, dotada de uma estrutura dinâmica e não burocratizada, adequada a essas funções.
+
+Deste conjunto de providências espera-se que resultem mais benefícios para o armador e consumidor, ao mesmo tempo que, saneando e disciplinando a comercialização, se garantirá a cada agente do circuito a justa retribuição pelo seu trabalho, eliminando, além disso, situações de natureza parasitária.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Abastecimento e Preços e das Pescas, ao abrigo do disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 45835](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45835-1964-579491), de 27 de Julho de 1964, no artigo 1.º do [Decreto-Lei n.º 158/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1974-411331), de 19 de Abril, e no n.º 1 do artigo 2.º e alínea c) do n.º 1 do artigo 13.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho, o seguinte:
+
+1.º Os tipos comerciais de bacalhau salgado seco são os seguintes:
+
+a) Especial - peixes com mais de 4 kg;
+
+b) Graúdo - peixes com mais de 2 kg a 4 kg;
+
+c) Crescido - peixes com mais de 1 kg a 2 kg;
+
+d) Corrente - peixes com mais de 0,5 kg a 1 kg;
+
+e) Miúdo - peixes até 0,5 kg;
+
+f) Sortido - peixes partidos ou amputados ou com ligeiros defeitos de preparação ou conservação.
+
+2.º Os tipos comerciais das espécies afins são os seguintes:
+
+a) Grande - peixes com mais de 2 kg;
+
+b) Médio - peixes com mais de 0,5 kg a 2 kg;
+
+c) Sortido - peixes até 0,5 kg e peixes partidos ou amputados ou com ligeiros defeitos de preparação ou conservação.
+
+3.º Fica a Comissão Reguladora do Comércio de Bacalhau autorizada a adquirir ao armador nacional bacalhau salgado seco e espécies afins aos seguintes preços de garantia, por quilograma:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/03/05202/00100011.pdf)
+
+4.º A venda ao público de todos os tipos de bacalhau salgado seco e de espécies afins, nacionais ou importados, fica sujeita ao regime de preços máximos previstos na alínea a) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho.
+
+5.º Os preços máximos de venda ao público do bacalhau salgado seco e das espécies afins, nacionais ou importados, são os seguintes, por quilograma:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/03/05202/00100011.pdf)
+
+6.º Ao retalhista são asseguradas as seguintes margens mínimas de comercialização para o bacalhau salgado seco e espécies afins, nacionais ou importados, por quilograma:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/03/05202/00100011.pdf)
+
+7.º Os retalhistas podem abastecer-se directamente no armador ou importador, ficando estes obrigados a satisfazer encomendas para entregas iguais ou superiores a 600 kg líquidos (10 fardos).
+
+8.º O bacalhau salgado seco e as espécies afins, quaisquer que sejam os seus tipos comerciais, só podem ser vendidos em embalagens desde que estas contenham:
+
+a) Um peixe inteiro; ou
+
+b) Postas provenientes de um único peixe que, uma vez juntas, permitam reconstituir o peixe inteiro ou meio peixe cortado longitudinalmente.
+
+9.º As embalagens devem ser previamente aprovadas pela Comissão Reguladora do Comércio de Bacalhau.
+
+10.º O bacalhau salgado seco e as espécies afins, nacionais ou importados, ficam sujeitos ao regime previsto no [Decreto-Lei n.º 158/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1974-411331), de 19 de Abril, podendo a Comissão Reguladora do Comércio de Bacalhau proceder à sua requisição aos armadores, importadores, armazenistas ou retalhistas, em qualquer estádio do processo de transformação ou comercialização, produzindo a requisição os efeitos previstos na alínea a) do artigo 3.º do referido diploma.
+
+11.º São punidas:
+
+a) As infracções ao dispostos no n.º 8.º, quando não constituam a prática do crime de especulação, nos termos do artigo 29.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957;
+
+b) As infracções ao disposto no n.º 9.º, com a pena de multa de 5000$00 a 20000$00;
+
+c) As infracções ao disposto no n.º 10.º, nos termos do artigo 5.º do [Decreto-Lei n.º 158/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1974-411331), de 19 de Abril.
+
+12.º A Comissão Reguladora do Comércio de Bacalhau expedirá as instruções necessárias à execução da presente portaria.
+
+13.º Fica revogada a [Portaria n.º 87/74](https://diariodarepublica.pt/dr/detalhe/portaria/87-1974-407342), de 6 de Fevereiro.
+
+14.º Esta portaria entra imediatamente em vigor, à excepção dos seus n.os 8.º e 9.º, cuja entrada em vigor ocorrerá trinta dias após a data da publicação da presente portaria no Diário do Governo.
+
+Secretarias de Estado do Abastecimento e Preços e das Pescas, 1 de Março de 1975. - O Secretário de Estado do Abastecimento e Preços, Nelson Sérgio Melo da Rocha Trigo. - O Secretário de Estado das Pescas, Mário João de Oliveira Ruivo.

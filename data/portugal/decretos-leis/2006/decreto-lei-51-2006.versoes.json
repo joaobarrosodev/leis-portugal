@@ -1,0 +1,253 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:667484:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-116976734",
+ "dre_path": "/dr/detalhe/decreto-lei/51-2006-667484",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-03-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116976919",
+    "116976920",
+    "116976921",
+    "116976922",
+    "116976923",
+    "116976924",
+    "116976925",
+    "116976926",
+    "116976927",
+    "116976928",
+    "116976929"
+   ]
+  },
+  {
+   "date": "2019-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116967078:por",
+     "title": "Decreto-Lei n.º 94/2018",
+     "published": "2018-11-14",
+     "dre_path": "/dr/detalhe/decreto-lei/94-2018-116967078"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º"
+   ],
+   "fragments": [
+    "116976919",
+    "116976952",
+    "116976953",
+    "116976954",
+    "116976960",
+    "116976955",
+    "116976956",
+    "116976926",
+    "116976957",
+    "116976958",
+    "116976959",
+    "116976930"
+   ]
+  }
+ ],
+ "fragments": {
+  "116976919": {
+   "fragment_id": "116976735",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 51/2006\n\nde 14 de Março\n\nPelo presente decreto-lei é criado o Conselho de Garantias Financeiras à Exportação e ao Investimento, extinguindo-se o Conselho de Garantias Financeiras, criado pelo Decreto-Lei n.º 126/91, de 22 de Março.\n\nEste novo organismo tem por missão propor os princípios orientadores da política de concessão de garantias pessoais pelo Estado às operações de crédito ou de seguro à exportação e ao investimento português no estrangeiro, incluindo de crédito de ajuda ao desenvolvimento, numa óptica de cooperação com países em desenvolvimento, designadamente os de língua oficial portuguesa.\n\nO anterior Conselho de Garantias Financeiras foi criado pelo Decreto-Lei n.º 126/91, de 22 de Março, posteriormente alterado pelo Decreto-Lei n.º 214/99, de 15 de Junho, tendo o seu regulamento de funcionamento sido aprovado pela portaria n.º 103/94 (2.ª série), de 24 de Junho.\n\nA evolução do mercado exportador e o diferente papel desempenhado pelas várias entidades públicas e privadas no domínio da cooperação e do investimento no estrangeiro justificam a criação de um novo organismo.\n\nAbandona-se o modelo anterior, em que o Conselho de Garantias Financeiras funcionava em exclusivo junto do conselho de administração da COSEC - Companhia de Seguros de Crédito, S. A., que se tornou entretanto uma seguradora privada, e revoga-se toda a legislação e regulamentação relativa a este modelo, designadamente o Decreto-Lei n.º 126/91, de 22 de Março, na redacção dada pelo Decreto-Lei n.º 214/99, de 15 de Junho, os artigos 15.º, n.os 3, 4 e 5, e 18.º do Decreto-Lei n.º 183/88, de 24 de Maio, com a redacção introduzida pelo Decreto-Lei n.º 127/91, de 22 de Março, bem como o n.º 4 do artigo 6.º e o artigo 7.º do Decreto-Lei n.º 295/2001, de 21 de Novembro.\n\nSão ainda revogadas as portarias n.os 53/2002 (2.ª série) e 54/2002 (2.ª série), ambas de 12 de Janeiro, e a portaria n.º 683/2002 (2.ª série), de 30 de Abril.\n\nImpõe-se, assim, num modelo aberto e competitivo, a criação de um novo organismo especializado, ao qual compete essencialmente analisar e avaliar os projectos no âmbito da exportação, do investimento ou ainda do crédito de ajuda, que lhe sejam submetidos para a concessão de garantias pessoais pelo Estado, bem como, em resultado da análise e da avaliação efectuadas dos referidos projectos, propor ao Ministro das Finanças a concessão dessas mesmas garantias nos termos da Lei n.º 112/97, de 16 de Setembro, e da Lei n.º 4/2006, de 21 de Fevereiro.\n\nEste novo organismo integrará representantes dos ministros responsáveis pelas áreas das finanças, dos negócios estrangeiros e da economia, face à reconhecida interligação entre a política de cooperação para o desenvolvimento e o incentivo ao investimento e à exportação portuguesas nos países destinatários da cooperação.\n\nNeste sentido, o Conselho de Garantias Financeiras à Exportação e ao Investimento articular-se-á com a Comissão Interministerial para a Cooperação, a que se refere a Resolução do Conselho de Ministros n.º 196/2005, de 24 de Novembro, que aprovou as orientações estratégicas da política externa de cooperação.\n\nPor outro lado, constituirá uma mais-valia a presença neste organismo de individualidades de reconhecida competência e experiência nas matérias da competência do Conselho.\n\nAtendendo às competências legalmente atribuídas à Direcção-Geral do Tesouro no quadro da concessão e acompanhamento das garantias pessoais do Estado, justifica-se também que seja esta entidade a assegurar todo o apoio necessário ao seu funcionamento.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "116976920": {
+   "fragment_id": "116976736",
+   "type": 11,
+   "heading": "Artigo 1.º — Conselho de Garantias Financeiras à Exportação e ao Investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Conselho de Garantias Financeiras à Exportação e ao Investimento\n\nÉ extinto o Conselho de Garantias Financeiras, instituído pelo Decreto-Lei n.º 126/91, de 22 de Março, e é criado o Conselho de Garantias Financeiras à Exportação e ao Investimento, adiante designado por Conselho."
+  },
+  "116976921": {
+   "fragment_id": "116976737",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão\n\n1 - O Conselho tem por missão propor os princípios orientadores da política de concessão de garantias pessoais pelo Estado às operações de crédito ou de seguro à exportação e ao investimento português, incluindo de crédito de ajuda, bem como implementar esses mesmos princípios.\n\n2 - Para o efeito do disposto no número anterior, o Conselho analisa as operações que lhe sejam submetidas e propõe ao Ministro das Finanças a concessão da garantia pessoal do Estado, nos termos do presente decreto-lei e demais legislação aplicável."
+  },
+  "116976922": {
+   "fragment_id": "116976738",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Composição\n\n1 - Compõem o Conselho as seguintes entidades:\n\na) Um representante do ministro responsável pela área das finanças, que preside;\n\nb) Um representante do ministro responsável pelos negócios estrangeiros;\n\nc) Um representante do ministro responsável pela área da economia;\n\nd) Duas individualidades de reconhecida competência e experiência nas matérias da competência do Conselho, designados por despacho conjunto dos ministros mencionados nas alíneas anteriores.\n\n2 - As entidades representadas no Conselho designam um representante efectivo e os suplentes que considerem necessários para assegurar a substituição nas suas faltas ou impedimentos.\n\n3 - O presidente é substituído, nas suas faltas ou impedimentos, sucessivamente, pelos representantes do ministro responsável pela área da economia e do ministro responsável pelos negócios estrangeiros."
+  },
+  "116976923": {
+   "fragment_id": "116976739",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências\n\nCompete ao Conselho:\n\na) Propor os princípios orientadores da política de concessão de garantias pessoais pelo Estado às operações de crédito ou de seguro, à exportação ou ao investimento português no estrangeiro, bem como de crédito de ajuda e submetê-los à aprovação conjunta do Ministro das Finanças e, respectivamente, do ministro responsável pela área da economia e do ministro responsável pelos negócios estrangeiros;\n\nb) Analisar as operações que lhe sejam submetidas e propor ao Ministro das Finanças uma decisão sobre os pedidos de garantia e promessa de garantia pessoal do Estado;\n\nc) Acompanhar a evolução das responsabilidades do Estado que resultem das operações aprovadas;\n\nd) Assegurar o cumprimento das regras estabelecidas em matéria de notificação dos apoios do Estado às operações de crédito à exportação;\n\ne) Pronunciar-se sobre qualquer assunto que lhe seja colocado no âmbito dos apoios do Estado às operações de crédito ou de seguro à exportação e ao investimento português no estrangeiro, bem como de crédito de ajuda, e exercer as demais competências previstas na lei;\n\nf) Promover a divulgação dos instrumentos de apoio ao crédito e ao seguro às exportações e ao investimento português no estrangeiro na sua área de actuação junto das instituições financeiras e das associações representativas das empresas.\n\n2 - Compete ainda ao Conselho submeter à aprovação do Ministro das Finanças a proposta de orçamento anual bem como o relatório anual de actividades."
+  },
+  "116976924": {
+   "fragment_id": "116976740",
+   "type": 11,
+   "heading": "Artigo 5.º — Competências do presidente do Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competências do presidente do Conselho\n\n1 - Compete ao presidente do Conselho:\n\na) Dirigir os trabalhos do Conselho;\n\nb) Representar o Conselho;\n\nc) Assegurar a coordenação da representação de Portugal nos organismos e reuniões internacionais relativos a garantias de crédito à exportação e ao investimento, sem prejuízo de outras representações;\n\nd) Exercer outras competências que lhe sejam cometidas por lei ou por decisão do Governo.\n\n2 - O presidente ou o seu substituto legal tem voto de qualidade."
+  },
+  "116976925": {
+   "fragment_id": "116976741",
+   "type": 11,
+   "heading": "Artigo 6.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Funcionamento\n\n1 - O Conselho funciona nas instalações da Direcção-Geral do Tesouro, que assegura o apoio administrativo necessário à sua actividade.\n\n2 - As regras de funcionamento do Conselho constam de regulamento interno a aprovar por portaria conjunta dos ministros responsáveis pelas áreas das finanças, dos negócios estrangeiros e da economia.\n\n3 - O Conselho pode celebrar protocolos com terceiros para assegurar a análise e a avaliação dos projectos que lhe sejam submetidos."
+  },
+  "116976926": {
+   "fragment_id": "116976742",
+   "type": 11,
+   "heading": "Artigo 7.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Financiamento\n\nOs prémios, taxas ou comissões cobradas pela Direcção-Geral do Tesouro pela emissão das garantias pessoais do Estado constituem receita consignada ao pagamento dos encargos decorrentes da aplicação deste decreto-lei."
+  },
+  "116976927": {
+   "fragment_id": "116976743",
+   "type": 11,
+   "heading": "Artigo 8.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Disposições transitórias\n\n1 - O regulamento interno do Conselho a que se refere o n.º 2 do artigo 6.º é aprovado no prazo de 90 dias a contar da data da publicação do presente decreto-lei.\n\n2 - Com a entrada em vigor do presente decreto-lei, todas as referências efectuadas ao Conselho de Garantias Financeiras devem ser entendidas como efectuadas ao Conselho de Garantias Financeiras à Exportação e ao Investimento.\n\n3 - Ficam salvaguardados todos os efeitos legais decorrentes da emissão pela COSEC - Companhia de Seguros de Crédito, S. A., ao abrigo do disposto no n.º 5 do artigo 15.º do Decreto-Lei n.º 183/88, de 24 de Maio, na redacção dada pelo Decreto-Lei n.º 127/91, de 22 de Março, e pelo Decreto-Lei n.º 214/99, de 15 de Junho, de garantias e promessas de garantias por conta e ordem do Estado, bem como a gestão pela COSEC dos referidos contratos de seguro."
+  },
+  "116976928": {
+   "fragment_id": "116976744",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Norma revogatória\n\n1 - São revogados o Decreto-Lei n.º 126/91, de 22 de Março, na redacção dada pelo Decreto-Lei n.º 214/99, de 15 de Junho, os n.os 3, 4 e 5 do artigo 15.º e o artigo 18.º do Decreto-Lei n.º 183/88, de 24 de Maio, com a redacção introduzida pelo Decreto-Lei n.º 127/91, de 22 de Março, bem como o n.º 4 do artigo 6.º e o artigo 7.º do Decreto-Lei n.º 295/2001, de 21 de Novembro.\n\n2 - São revogadas as portarias n.os 103/94 (2.ª série), de 24 de Junho, 53/2002 (2.ª série) e 54/2002 (2.ª série), ambas de 12 de Janeiro, e 683/2002 (2.ª série), de 30 de Abril."
+  },
+  "116976929": {
+   "fragment_id": "116976745",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor com a publicação da portaria conjunta a que se refere o n.º 2 do artigo 6.º"
+  },
+  "116976952": {
+   "fragment_id": "116976736",
+   "type": 11,
+   "heading": "Artigo 1.º — Conselho de Garantias Financeiras à Exportação e ao Investimento",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 94/2018 - Diário da República n.º 219/2018, Série I de 2018-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2018-116967078), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Conselho de Garantias Financeiras à Exportação e ao Investimento\n\nÉ extinto o Conselho de Garantias Financeiras, instituído pelo Decreto-Lei n.º 126/91, de 22 de Março, e é criado o Conselho de Garantias Financeiras à Exportação e ao Investimento, adiante designado por Conselho.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 94/2018 - Diário da República n.º 219/2018, Série I de 2018-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2018-116967078), em vigor a partir de 2019-01-01"
+  },
+  "116976953": {
+   "fragment_id": "116976737",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 94/2018 - Diário da República n.º 219/2018, Série I de 2018-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2018-116967078), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Missão\n\n1 - O Conselho tem por missão propor os princípios orientadores da política de concessão de garantias pessoais pelo Estado às operações de crédito ou de seguro à exportação e ao investimento português, incluindo de crédito de ajuda, bem como implementar esses mesmos princípios.\n\n2 - Para o efeito do disposto no número anterior, o Conselho analisa as operações que lhe sejam submetidas e propõe ao Ministro das Finanças a concessão da garantia pessoal do Estado, nos termos do presente decreto-lei e demais legislação aplicável.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 94/2018 - Diário da República n.º 219/2018, Série I de 2018-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2018-116967078), em vigor a partir de 2019-01-01"
+  },
+  "116976954": {
+   "fragment_id": "116976738",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 94/2018 - Diário da República n.º 219/2018, Série I de 2018-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2018-116967078), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Composição\n\n1 - Compõem o Conselho as seguintes entidades:\n\na) Um representante do ministro responsável pela área das finanças, que preside;\n\nb) Um representante do ministro responsável pelos negócios estrangeiros;\n\nc) Um representante do ministro responsável pela área da economia;\n\nd) Duas individualidades de reconhecida competência e experiência nas matérias da competência do Conselho, designados por despacho conjunto dos ministros mencionados nas alíneas anteriores.\n\n2 - As entidades representadas no Conselho designam um representante efectivo e os suplentes que considerem necessários para assegurar a substituição nas suas faltas ou impedimentos.\n\n3 - O presidente é substituído, nas suas faltas ou impedimentos, sucessivamente, pelos representantes do ministro responsável pela área da economia e do ministro responsável pelos negócios estrangeiros.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 94/2018 - Diário da República n.º 219/2018, Série I de 2018-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2018-116967078), em vigor a partir de 2019-01-01"
+  },
+  "116976960": {
+   "fragment_id": "116976739",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 94/2018 - Diário da República n.º 219/2018, Série I de 2018-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2018-116967078), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Competências\n\n1 - Compete à Direção-Geral do Tesouro e Finanças:\n\na) Propor os princípios orientadores da política de concessão de garantias pessoais pelo Estado às operações de crédito ou de seguro, à exportação ou ao investimento português no estrangeiro, bem como de crédito de ajuda e submetê-los à aprovação conjunta do Ministro das Finanças e, respectivamente, do ministro responsável pela área da economia e do ministro responsável pelos negócios estrangeiros;\n\nb) Analisar as operações que lhe sejam submetidas e propor ao Ministro das Finanças uma decisão sobre os pedidos de garantia e promessa de garantia pessoal do Estado;\n\nc) Acompanhar a evolução das responsabilidades do Estado que resultem das operações aprovadas;\n\nd) Assegurar o cumprimento das regras estabelecidas em matéria de notificação dos apoios do Estado às operações de crédito à exportação;\n\ne) Pronunciar-se sobre qualquer assunto que lhe seja colocado no âmbito dos apoios do Estado às operações de crédito ou de seguro à exportação e ao investimento português no estrangeiro, bem como de crédito de ajuda, e exercer as demais competências previstas na lei;\n\nf) Promover a divulgação dos instrumentos de apoio ao crédito e ao seguro às exportações e ao investimento português no estrangeiro na sua área de actuação junto das instituições financeiras e das associações representativas das empresas.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 94/2018 - Diário da República n.º 219/2018, Série I de 2018-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2018-116967078), em vigor a partir de 2019-01-01"
+  },
+  "116976955": {
+   "fragment_id": "116976740",
+   "type": 11,
+   "heading": "Artigo 5.º — Competências do presidente do Conselho",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 94/2018 - Diário da República n.º 219/2018, Série I de 2018-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2018-116967078), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Competências do presidente do Conselho\n\n1 - Compete ao presidente do Conselho:\n\na) Dirigir os trabalhos do Conselho;\n\nb) Representar o Conselho;\n\nc) Assegurar a coordenação da representação de Portugal nos organismos e reuniões internacionais relativos a garantias de crédito à exportação e ao investimento, sem prejuízo de outras representações;\n\nd) Exercer outras competências que lhe sejam cometidas por lei ou por decisão do Governo.\n\n2 - O presidente ou o seu substituto legal tem voto de qualidade.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 94/2018 - Diário da República n.º 219/2018, Série I de 2018-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2018-116967078), em vigor a partir de 2019-01-01"
+  },
+  "116976956": {
+   "fragment_id": "116976741",
+   "type": 11,
+   "heading": "Artigo 6.º — Funcionamento",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 94/2018 - Diário da República n.º 219/2018, Série I de 2018-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2018-116967078), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Funcionamento\n\n1 - O Conselho funciona nas instalações da Direcção-Geral do Tesouro, que assegura o apoio administrativo necessário à sua actividade.\n\n2 - As regras de funcionamento do Conselho constam de regulamento interno a aprovar por portaria conjunta dos ministros responsáveis pelas áreas das finanças, dos negócios estrangeiros e da economia.\n\n3 - O Conselho pode celebrar protocolos com terceiros para assegurar a análise e a avaliação dos projectos que lhe sejam submetidos.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 94/2018 - Diário da República n.º 219/2018, Série I de 2018-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2018-116967078), em vigor a partir de 2019-01-01"
+  },
+  "116976957": {
+   "fragment_id": "116976743",
+   "type": 11,
+   "heading": "Artigo 8.º — Disposições transitórias",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 94/2018 - Diário da República n.º 219/2018, Série I de 2018-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2018-116967078), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Disposições transitórias\n\n1 - O regulamento interno do Conselho a que se refere o n.º 2 do artigo 6.º é aprovado no prazo de 90 dias a contar da data da publicação do presente decreto-lei.\n\n2 - Com a entrada em vigor do presente decreto-lei, todas as referências efectuadas ao Conselho de Garantias Financeiras devem ser entendidas como efectuadas ao Conselho de Garantias Financeiras à Exportação e ao Investimento.\n\n3 - Ficam salvaguardados todos os efeitos legais decorrentes da emissão pela COSEC - Companhia de Seguros de Crédito, S. A., ao abrigo do disposto no n.º 5 do artigo 15.º do Decreto-Lei n.º 183/88, de 24 de Maio, na redacção dada pelo Decreto-Lei n.º 127/91, de 22 de Março, e pelo Decreto-Lei n.º 214/99, de 15 de Junho, de garantias e promessas de garantias por conta e ordem do Estado, bem como a gestão pela COSEC dos referidos contratos de seguro.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 94/2018 - Diário da República n.º 219/2018, Série I de 2018-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2018-116967078), em vigor a partir de 2019-01-01"
+  },
+  "116976958": {
+   "fragment_id": "116976744",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma revogatória",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 94/2018 - Diário da República n.º 219/2018, Série I de 2018-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2018-116967078), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Norma revogatória\n\n1 - São revogados o Decreto-Lei n.º 126/91, de 22 de Março, na redacção dada pelo Decreto-Lei n.º 214/99, de 15 de Junho, os n.os 3, 4 e 5 do artigo 15.º e o artigo 18.º do Decreto-Lei n.º 183/88, de 24 de Maio, com a redacção introduzida pelo Decreto-Lei n.º 127/91, de 22 de Março, bem como o n.º 4 do artigo 6.º e o artigo 7.º do Decreto-Lei n.º 295/2001, de 21 de Novembro.\n\n2 - São revogadas as portarias n.os 103/94 (2.ª série), de 24 de Junho, 53/2002 (2.ª série) e 54/2002 (2.ª série), ambas de 12 de Janeiro, e 683/2002 (2.ª série), de 30 de Abril.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 94/2018 - Diário da República n.º 219/2018, Série I de 2018-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2018-116967078), em vigor a partir de 2019-01-01"
+  },
+  "116976959": {
+   "fragment_id": "116976745",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 94/2018 - Diário da República n.º 219/2018, Série I de 2018-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2018-116967078), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor com a publicação da portaria conjunta a que se refere o n.º 2 do artigo 6.º\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 94/2018 - Diário da República n.º 219/2018, Série I de 2018-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2018-116967078), em vigor a partir de 2019-01-01"
+  },
+  "116976930": {
+   "fragment_id": "116976746",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de Fevereiro de 2006. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Fernando Teixeira dos Santos - Manuel António Gomes de Almeida de Pinho.\n\nPromulgado em 5 de Março de 2006.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 6 de Março de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

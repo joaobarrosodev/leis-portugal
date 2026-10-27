@@ -1,0 +1,294 @@
+---
+schema_version: '1.0'
+id: pt:dre:146566:por
+title: Decreto-Lei n.º 6/95
+short_title: null
+summary: Altera o Código da Publicidade e respectiva legislação complementar
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente e Recursos Naturais
+proposing_entity: null
+official_number: 6/95
+official_date: null
+publication_date: '1995-01-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 14/1995, Série I-A de 1995-01-17
+  number: '14'
+  series: I
+  supplement: null
+  pages: 242 - 244
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/01/014a00/02420244.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/6/1995/01/17/p/dre/pt/html
+  oj: null
+  dre: '146566'
+  dre_path: /dr/detalhe/decreto-lei/6-1995-146566
+  internal: pt:dre:146566:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1995-146566
+  metadata_url: https://data.dre.pt/eli/dec-lei/6/1995/01/17/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1995-146566
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:42:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c7f76e0d71f3bdb1e5e302a52c4ec9c39c532b4c33e534421a465bec7e2a3ece
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:11Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Código da Publicidade
+- Comissão de Aplicação de Coimas em Matéria de Publicidade
+- Extinção de Serviços
+- Inspecção Geral das Actividades Económicas
+- Instituto do Consumidor
+- Multa
+- Proteção do Consumidor
+- Publicidade
+- Publicidade do Estado
+- Saúde Pública
+relationships:
+- type: amended_by
+  target: pt:dre:276860:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:243884:por
+  label: "Alterados os arts. 7º, 25º, 27º, 38º e 39º do Código da Publicidade, aprovado pelo Dec Lei 330/90 de 23-Out na redacção\
+    \ do presente diploma pelo DEC LEI.275/98.1998.09.09.PCM, DR.IS-B [208]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/275-1998-243884
+  date: '1998-09-09'
+- type: amended_by
+  target: pt:dre:536644:por
+  label: Alterado o art. 39.º do Código da Publicidade, aprovado pelo Dec Lei 330/90, de 23-Out, na redacção do presente diploma,
+    pelo DEC LEI.332/2001.2001.12.24.PCM DR.IS-A [296]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/332-2001-536644
+  date: '2001-12-24'
+- type: amended_by
+  target: pt:dre:209822:por
+  label: "Alterado o art. 27.º do Código da Publicidade, aprovado pelo Dec Lei 330/90, de 23-Out, na redacção do presente\
+    \ diploma, pelo DEC LEI.224/2004.04.12.2004.PCM, DR.IS-A [284] de 04.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-2004-209822
+  date: '2004-12-04'
+- type: amended_by
+  target: pt:dre:276860:por
+  label: Alterado o art. 8º do Código da Publicidade, aprovado pelo Dec Lei 330/90 de 23-Out, com a redacção dada pelo presente
+    diploma, pela LEI.8/2011.11.04.2011.AR, DR.IS [71] de 11.04.2011
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/8-2011-276860
+  date: '2011-04-11'
+- type: cites
+  target: celex:31984L0450
+  label: null
+  source: http://data.europa.eu/eli/dir/1984/450/oj
+- type: cites
+  target: celex:31989L0552
+  label: null
+  source: http://data.europa.eu/eli/dir/1989/552/oj
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:42:11Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 6/95
+
+de 17 de Janeiro
+
+Decorridos que são mais de três anos sobre a data de entrada em vigor do Código da Publicidade, aprovado pelo Decreto-Lei n.º 330/90, de 23 de Outubro, justifica-se actualmente proceder à sua alteração no sentido de o aperfeiçoar, tendo para isso em atenção a experiência decorrente da sua aplicação concreta e o disposto nas Directivas n.os [89/552/CEE](http://data.europa.eu/eli/dir/1989/552/oj?locale=pt) e [84/450/CEE](http://data.europa.eu/eli/dir/1984/450/oj?locale=pt).
+
+De entre as alterações e aditamentos agora introduzidos assumem particular destaque a restrição do conceito de publicidade, constante no artigo 3.º do Código; a extinção do Conselho Consultivo da Actividade Publicitária, que não chegou a funcionar; a concretização do princípio da identificabilidade da publicidade em rádio e televisão; a atribuição de competência para a instrução de processos à Inspecção-Geral das Actividades Económicas e para a aplicação de coimas e sanções acessórias à Comissão criada pelo Decreto-Lei n.º 214/84, de 3 de Julho, com uma composição modificada.
+
+Por outro lado, adita-se ao Código da Publicidade o artigo 41.º, no qual se prevê a possibilidade de ordenação de medidas cautelares de cessação, suspensão ou proibição de difusão de publicidade enganosa, ou susceptível de pôr em risco a saúde e segurança dos consumidores, bem como o respectivo regime jurídico.
+
+Assim:
+
+No uso da autorização legislativa concedida pela Lei n.º 16/94, de 23 de Maio, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+Artigo 1.º Os artigos 3.º, 7.º, 8.º, 25.º, 26.º, 27.º, 37.º, 38.º e 39.º do Código da Publicidade, aprovado pelo Decreto-Lei n.º 330/90, de 23 de Outubro, passam a ter a seguinte redacção:
+
+###### Artigo 3.º — [...]
+
+1 - Considera-se publicidade, para efeitos do presente diploma, qualquer forma de comunicação feita por entidades de natureza pública ou privada, no âmbito de uma actividade comercial, industrial, artesanal ou liberal, com o objectivo directo ou indirecto de:
+
+a) Promover, com vista à sua comercialização ou alienação, quaisquer bens ou serviços;
+
+b) Promover ideias, princípios, iniciativas ou instituições.
+
+2 - Considera-se, também, publicidade qualquer forma de comunicação da Administração Pública, não prevista no número anterior, que tenha por objectivo, directo ou indirecto, promover o fornecimento de bens ou serviços.
+
+3 - Para efeitos do presente diploma, não se considera publicidade a propaganda política.
+
+###### Artigo 7.º — [...]
+
+1 - ...
+
+2 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) Tenha como objecto ideias de conteúdo sindical, político ou religioso.
+
+3 - ...
+
+###### Artigo 8.º — [...]
+
+1 - ...
+
+2 - A publicidade efectuada na rádio e na televisão deve ser claramente separada da restante programação, através da introdução de um separador no início e no fim do espaço publicitário.
+
+3 - O separador a que se refere o número anterior é constituído na rádio, por sinais acústicos, e, na televisão, por sinais ópticos ou acústicos, devendo, no caso da televisão, conter, de forma perceptível para os destinatários, a palavra «Publicidade» no separador que precede o espaço publicitário.
+
+###### Artigo 25.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - As mensagens publicitárias isoladas só podem ser inseridas a título excepcional.
+
+9 - Entende-se por duração programada de um programa o tempo efectivo do mesmo, descontando o período dedicado às interrupções, publicitárias e outras.
+
+###### Artigo 26.º — [...]
+
+1 - O tempo consagrado à publicidade não pode ultrapassar 15% do período diário de transmissão, salvo se incluir formas de publicidade referidas no número seguinte, caso em que essa percentagem pode ir até 20%, desde que o volume das mensagens publicitárias propriamente ditas não exceda 15%.
+
+2 - ...
+
+3 - O tempo de emissão consagrado às mensagens publicitárias em cada período de uma hora não pode exceder 20%.
+
+4 - Para efeitos de cômputo horário da publicidade, será tomado como referência o período compreendido entre duas unidades de hora, sem desdobramentos em minutos ou segundos.
+
+###### Artigo 27.º — Publicidade do Estado
+
+1 - A publicidade do Estado deve ser feita por agências de publicidade certificadas, sem prejuízo do disposto no número seguinte.
+
+2 - Quando não seja possível dar cumprimento ao número anterior, a adjudicação da campanha publicitária em causa deve ser precedida de despacho do membro do Governo competente, do qual deve constar o enunciado dos motivos que tornam impossível a adjudicação a agência de publicidade certificada.
+
+3 - [Actual n.º 2.]
+
+###### Artigo 37.º — [...]
+
+Sem prejuízo da competência das autoridades policiais e administrativas, compete especialmente ao Instituto do Consumidor a fiscalização do cumprimento do disposto no presente diploma, devendo-lhe ser remetidos os autos de notícia levantados ou as denúncias recebidas.
+
+###### Artigo 38.º — [...]
+
+A instrução dos processos pelas contra-ordenações previstas neste diploma compete à Inspecção-Geral das Actividades Económicas.
+
+###### Artigo 39.º — [...]
+
+1 - A aplicação das coimas previstas no presente diploma compete a uma comissão, constituída pelos seguintes membros:
+
+a) O presidente da comissão referida no n.º 2 do artigo 52.º do Decreto-Lei n.º 28/84, de 20 de Janeiro, que presidirá;
+
+b) O inspector-geral das Actividades Económicas;
+
+c) O director do Gabinete de Apoio à Imprensa;
+
+d) O presidente do Instituto do Consumidor.
+
+2 - À comissão mencionada nos números anteriores aplica-se, com as devidas adaptações, o Decreto-Lei n.º 214/84, de 3 de Julho, sendo apoiada pelos serviços nele referidos.
+
+3 - Sempre que a comissão entender que, conjuntamente com a coima, é de aplicar alguma das sanções acessórias referidas nas alíneas b) a d) do n.º 1 do artigo 35.º, remeterá o respectivo processo, acompanhado de proposta fundamentada, aos membros do Governo que tenham a seu cargo a tutela da comunicação social e da protecção do consumidor, aos quais compete, por despacho conjunto, decidir da respectiva aplicação.
+
+4 - As receitas das coimas revertem:
+
+a) Em 20% para a entidade autuante;
+
+b) Em 20% para a Inspecção-Geral das Actividades Económicas;
+
+c) Em 60% para o Estado.
+
+Art. 2.º É aditado ao Código da Publicidade, aprovado pelo Decreto-Lei n.º 330/90, de 23 de Outubro, o artigo 41.º, com a seguinte redacção:
+
+###### Artigo 41.º — Medidas cautelares
+
+1 - Em caso de publicidade enganosa ou de publicidade que, pelo seu objecto, forma ou fim, acarrete ou possa acarretar riscos para a saúde e segurança dos consumidores, a entidade com competência para a fiscalização pode ordenar medidas cautelares de cessação, suspensão ou proibição daquela publicidade, independentemente da prova de uma perda ou um prejuízo real.
+
+2 - As medidas cautelares de cessação e de proibição referidas no número anterior devem ser aplicadas, sempre que possível, após a audição do anunciante, que dispõe para o efeito do prazo de três dias.
+
+3 - O acto que aplique a medida cautelar de suspensão de publicidade terá de fixar expressamente a sua duração, que não poderá ultrapassar os 30 dias.
+
+4 - As entidades referidas no n.º 1 podem, a requerimento do anunciante, conceder-lhe um prazo para que suprima os elementos ilícitos da publicidade.
+
+5 - Quando a gravidade do caso o exija e sempre que do facto resulte contribuição para a reparação dos efeitos da publicidade ilícita, podem as entidades competentes para a fiscalização ordenar ao anunciante a difusão, a expensas suas, de publicidade correctora, determinando o respectivo conteúdo, modalidade e prazo de difusão.
+
+6 - Do acto que ordene a aplicação das medidas previstas no n.º 1 ou no número anterior cabe recurso, nos termos da lei geral.
+
+7 - As entidades fiscalizadoras podem exigir a apresentação de provas de exactidão material dos dados de facto contidos na publicidade, nos termos do disposto nos n.os 3 e 4 do artigo 11.º
+
+8 - Para efeitos do disposto nos números anteriores, a publicidade de ideias de conteúdo político ou religioso é equiparada ao regime previsto para a publicidade enganosa.
+
+Art. 3.º A aplicação do disposto nos n.os 1, 2 e 3 do artigo 8.º do Código da Publicidade, com a redacção introduzida pelo presente diploma, produz efeitos decorridos 30 dias após a entrada em vigor.
+
+Art. 4.º São revogados os artigos 31.º a 33.º do Código da Publicidade, aprovado por Decreto-Lei n.º 330/90, de 23 de Outubro, e o artigo 40.º do Decreto-Lei n.º 28/84 de 20 de Janeiro.
+
+Visto e aprovado em Conselho de Ministro de 17 de Novembro de 1994. - Aníbal António Cavaco Silva - Álvaro José Brilhante Laborinho Lúcio - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia - Luís Manuel Gonçalves Marques Mendes.
+
+Promulgado em 28 de Dezembro de 1994.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 2 de Janeiro de 1995.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

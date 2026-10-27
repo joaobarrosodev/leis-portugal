@@ -1,0 +1,283 @@
+---
+schema_version: '1.0'
+id: eu:celex:32003R0091:por
+title: Regulamento (CE) n.° 91/2003 do Parlamento Europeu e do Conselho, de 16 de Dezembro de 2002
+short_title: null
+summary: Regulamento (CE) n.° 91/2003 do Parlamento Europeu e do Conselho, de 16 de Dezembro de 2002, relativo às estatísticas
+  dos transportes ferroviários
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Conselho da União Europeia
+- Parlamento Europeu
+proposing_entity: null
+official_number: 2003/91
+official_date: null
+publication_date: '2003-01-21'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 14 de 21.1.2003
+  number: '14'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/c8a0397b-3a3e-411d-bd86-0cef55d73056.0010.02/DOC_1
+entry_into_force_dates:
+- '2003-02-10'
+end_of_validity_date: '2018-05-21'
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2018-05-22'
+version_history:
+  file: regulamento-ue-2003-91.versoes.json
+  count: 5
+  source_lastmod: '2018-05-22'
+  versions:
+  - date: '2003-01-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-01-01'
+    amending: eu:celex:32003R1192:por
+    amending_title: REGULAMENTO (CE) N. o 1192/2003 DA COMISSÃO de 3 de Julho de 2003; REGULAMENTO (CE) N. o 1304/2007 DA
+      COMISSÃO de 7 de Novembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 13.º — Entrada em vigor
+    - Adita ANEXO A
+    - Adita ANEXO B
+    - Adita ANEXO C
+    - Adita ANEXO D
+    - Adita ANEXO E
+    - Adita ANEXO F
+    - Adita ANEXO G
+    - Adita ANEXO H
+    - Adita ANEXO I
+    - Adita ANEXO J
+    - Adita NST 2007
+    - Adita ANEXO K
+    - Adita CLASSIFICAÇÃO DAS MERCADORIAS PERIGOSAS
+    - Adita Notas
+    - Suprime ANEXO A — ESTATÍSTICAS ANUAIS SOBRE TRANSPORTES DE MERCADORIAS - DECLARAÇÃO DETALHADA
+    - Suprime ANEXO B — ESTATÍSTICAS ANUAIS SOBRE TRANSPORTES DE MERCADORIAS - DECLARAÇÃO SIMPLIFICADA
+    - Suprime ANEXO C — ESTATÍSTICAS ANUAIS SPBRE TRANSPORTE DE PASSEIROS - DECLARAÇÃO DECLARADA
+    - Suprime ANEXO D — ESTATÍSTICAS ANUAIS SOBRE TRANSPORTE DE PASSAGEIRO - DECLARAÇÃO SIMPLIFICADA
+    - Suprime ANEXO E — ESTATÍSTICAS TRIMESTRAIS SOBRE TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS
+    - Suprime ANEXO F — ESTATÍSTICAS REGIONAIS SOBRE TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS
+    - Suprime ANEXO G — ESTATÍSTICAS SOBRE FLUXOS DE TRÁFEGO NA REDE FERROVIÁRIA
+    - Suprime ANEXO H — ESTATÍSTICAS SOBRE ACIDENTES
+    - Suprime ANEXO I — LISTA DE EMPRESAS DE TRANSPORTE FERROVIÁRIO
+    - Suprime ANEXO J — NOMENCLATURA DE MERCADORIAS
+    - Suprime ANEXO K — CLASSIFICAÇÃO DAS MERCADORIAS PERIGOSAS
+  - date: '2009-04-20'
+    amending: eu:celex:32009R0219:por
+    amending_title: REGULAMENTO (CE) n. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Recolha de dados
+    - Altera ANEXO H
+    - Altera CLASSIFICAÇÃO DAS MERCADORIAS PERIGOSAS
+    - Altera Notas
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Suprime Artigo 10.º — Medidas de execução
+    - Suprime Artigo 11.º — Procedimento
+  - date: '2016-12-13'
+    amending: eu:celex:32016R2032:por
+    amending_title: REGULAMENTO (UE) 2016/2032 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de outubro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Recolha de dados
+    - Altera Artigo 5.º — Fontes de dados
+    - Altera Artigo 8.º — Qualidade das estatísticas
+    - Altera ANEXO C
+    - Altera CLASSIFICAÇÃO DAS MERCADORIAS PERIGOSAS
+    - Altera Notas
+    - Adita Artigo 7.º — Divulgação
+    - Adita Artigo 9.º — Relatórios de aplicação
+    - Adita Artigo 10.º — Exercício da delegação
+    - Adita Artigo 11.º — Procedimento de comité
+    - Adita ANEXO L
+    - Suprime Artigo 7.º — Difusão
+    - Suprime Artigo 9.º — Relatório
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º — Directiva 80/1177/CEE
+    - Suprime ANEXO B
+    - Suprime ANEXO D
+    - Suprime ANEXO H
+    - Suprime ANEXO I
+  - date: '2018-05-22'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Âmbito
+    - Suprime Artigo 3.º — Definições
+    - Suprime Artigo 4.º — Recolha de dados
+    - Suprime Artigo 5.º — Fontes de dados
+    - Suprime Artigo 6.º — Transmissão de estatísticas ao Eurostat
+    - Suprime Artigo 7.º — Divulgação
+    - Suprime Artigo 8.º — Qualidade das estatísticas
+    - Suprime Artigo 9.º — Relatórios de aplicação
+    - Suprime Artigo 10.º — Exercício da delegação
+    - Suprime Artigo 11.º — Procedimento de comité
+    - Suprime Artigo 13.º — Entrada em vigor
+    - Suprime ANEXO A
+    - Suprime ANEXO C
+    - Suprime ANEXO E
+    - Suprime ANEXO F
+    - Suprime ANEXO G
+    - Suprime ANEXO J
+    - Suprime NST 2007
+    - Suprime ANEXO K
+    - Suprime CLASSIFICAÇÃO DAS MERCADORIAS PERIGOSAS
+    - Suprime ANEXO L
+    - Suprime Notas
+identifiers:
+  celex: 32003R0091
+  eli: http://data.europa.eu/eli/reg/2003/91/oj
+  oj: oj:JOL_2003_014_R_0001_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32003R0091:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32003R0091
+  metadata_url: http://publications.europa.eu/resource/cellar/c8a0397b-3a3e-411d-bd86-0cef55d73056.0010
+  content_url: http://publications.europa.eu/resource/cellar/f5c2abe4-56be-4e2a-a272-b05f2bdada3f.0016.03/DOC_1
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R0091-20180522
+  retrieved_at: '2026-10-22T14:55:26Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-11-24T13:29:37.985+01:00'
+integrity:
+  source_sha256: 9f9f02f61fa6514353778143cc1c7f3d8d6bca3e0fb6fb0f7f779631cbad41ed
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:55:26Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2003-91.versoes.json.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- estatísticas dos transportes
+- intercâmbio de informação
+- recolha de dados
+- transporte ferroviário
+relationships:
+- type: amended_by
+  target: celex:32003R1192
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5215d6a6-fc1b-485b-9a24-edc87c8b1441
+  date: '2003-07-07'
+- type: amended_by
+  target: celex:32007R1304
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c7a3a214-03ff-4f9e-b33a-ea46bb6c1fb9
+  date: '2007-11-09'
+- type: amended_by
+  target: celex:32009R0219
+  label: null
+  source: http://publications.europa.eu/resource/cellar/64091f48-ef19-4e62-af8c-5d905a6263b2
+  date: '2009-04-02'
+- type: amended_by
+  target: celex:32016R2032
+  label: null
+  source: http://publications.europa.eu/resource/cellar/de106899-b10c-11e6-871e-01aa75ed71a1
+  date: '2016-11-23'
+- type: based_on
+  target: celex:11997E251
+  label: null
+  source: http://publications.europa.eu/resource/cellar/77d8f3bb-cfe1-43e0-a854-f8c51b9ccda8
+  date: '1999-05-31'
+- type: based_on
+  target: celex:11997E285
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7c3ca246-fed4-4ab3-9097-33a58d4fc78b
+  date: '1999-05-31'
+- type: cited_by
+  target: pt:dre:335456:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:58273537:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:639146:por
+  label: null
+  source: null
+- type: cites
+  target: celex:11997E005
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d409a4d5-b21c-4c34-af0a-7cfb8d58c2d7
+- type: cites
+  target: celex:31989D0382
+  label: null
+  source: http://publications.europa.eu/resource/cellar/463dde74-1388-42f4-a0bf-140d7bdd01ac
+- type: cites
+  target: celex:31991L0440
+  label: null
+  source: http://publications.europa.eu/resource/cellar/58f78593-77f7-422b-8472-269d9c038528
+- type: cites
+  target: celex:31997R0322
+  label: null
+  source: http://publications.europa.eu/resource/cellar/89f116df-5df3-4757-a1d2-dcb11cb48c8b
+- type: cites
+  target: celex:31999D0468
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f9830283-df4c-4576-b043-875dce0385ce
+- type: repealed_by
+  target: celex:32018R0643
+  label: null
+  source: http://publications.europa.eu/resource/cellar/845ca6f9-4dd4-11e8-be1d-01aa75ed71a1
+  date: '2018-05-02'
+- type: repeals
+  target: celex:31980L1177
+  label: null
+  source: http://publications.europa.eu/resource/cellar/771c0dae-c72f-460c-9c53-c6d00ce1b6e2
+  date: '1980-12-23'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T14:55:26Z'
+  warnings:
+  - '02003R0091-20030724: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  errors: []
+---
+
+# Regulamento (CE) n.° 91/2003 do Parlamento Europeu e do Conselho, de 16 de Dezembro de 2002
+
+> 02003R0091 — PT — 22.05.2018 — 005.001
+
+> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
+
+[►B](http://publications.europa.eu/resource/celex/32003R0091) [REGULAMENTO (CE) N.º 91/2003 DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32003R0091) [de 16 de Dezembro de 2002](http://publications.europa.eu/resource/celex/32003R0091) [relativo às estatísticas dos transportes ferroviários](http://publications.europa.eu/resource/celex/32003R0091) (JO L 014, 21.1.2003, p.1)
+
+**revogado por:**
+
+- [Regulamento (UE) 2018/643 do Parlamento Europeu e do Conselho de 18 de abril de 2018](http://publications.europa.eu/resource/celex/32018R0643) — L 112 — 1 — 2.5.2018

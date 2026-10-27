@@ -1,0 +1,194 @@
+---
+schema_version: '1.0'
+id: pt:dre:507591:por
+title: Decreto n.º 149/76
+short_title: null
+summary: Introduz alterações no Regulamento do Ministério dos Negócios Estrangeiros, aprovado pelo Decreto n.º 47478, de 31
+  de Dezembro de 1966
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros - Direcção-Geral dos Serviços Centrais
+proposing_entity: null
+official_number: 149/76
+official_date: null
+publication_date: '1976-02-20'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 43/1976, Série I de 1976-02-20
+  number: '43'
+  series: I
+  supplement: null
+  pages: 365 - 366
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/02/04300/03650366.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '507591'
+  dre_path: /dr/detalhe/decreto/149-1976-507591
+  internal: pt:dre:507591:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:40:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2408b452e42728e688309bded337d5b6cac30b4e7fee8a89f164b4766cf20d75
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:40:56Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ministério dos Negócios Estrangeiros
+- Regulamento do Ministério dos Negócios Estrangeiros
+relationships:
+- type: amended_by
+  target: pt:dre:666295:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:436270:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:500435:por
+  label: Rectificado pela DECL.DD8694.03.04.1976.PCM, DG.IS [80] de 03.04.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-500435
+  date: '1976-04-03'
+- type: repealed_by
+  target: pt:dre:666295:por
+  label: "Revogados os artigos 31.º, 32.º, 33.º e 34.º do Regulamento do Ministério dos Negócios Estrangeiros, aprovado pelo\
+    \ Decreto n.º 47478, de 31 de Dezembro de 1966, na redacção do presente diploma, pelo DR.27/87.15.04.1987.MNE, DR.IS [88]\
+    \ de 15.04.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/27-1987-666295
+  date: '1987-04-15'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:40:56Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 149/76
+
+de 20 de Fevereiro
+
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
+
+Artigo único. Os artigos 31.º a 34.º, 89.º e 99.º do Regulamento do Ministério dos Negócios Estrangeiros, aprovado pelo [Decreto n.º 47478](https://diariodarepublica.pt/dr/detalhe/decreto/47478-1966-436270), de 31 de Dezembro de 1966, passam a ter a redacção seguinte:
+
+Art. 31.º O conselho do Ministério é presidido pelo secretário-geral e constituído pelos directores-gerais, pelo inspector diplomático e consular, por doze representantes dos funcionários do serviço diplomático, por doze representantes do pessoal do quadro administrativo, por seis representantes do quadro do pessoal auxiliar ou por seis representantes do restante pessoal, eleitos por um período de dezoito meses, que participarão nas reuniões de acordo com o estipulado nos parágrafos 6.º a 8.º deste artigo.
+
+§ 1.º Os doze representantes do pessoal do serviço diplomático serão um ministro plenipotenciário de 1.ª classe, dois ministros plenipotenciários de 2.ª classe, dois conselheiros de embaixada, dois primeiros-secretários, dois segundos-secretários e três terceiros-secretários ou adidos de embaixada, eleitos para o efeito, respectivamente, pelos funcionários de cada uma daquelas categorias.
+
+§ 2.º Os doze representantes do pessoal do quadro administrativo serão dois chefes de secção, dois primeiros-oficiais, dois segundos-oficiais e dois terceiros-oficiais, três escriturários-dactilógrafos e uma telefonista, eleitos para o efeito, respectivamente, pelos funcionários de cada uma daquelas categorias.
+
+§ 3.º Os seis representantes do quadro do pessoal auxiliar serão eleitos para o efeito pelos funcionários daquele quadro.
+
+§ 4.º Os seis representantes do restante pessoal serão eleitos, para o efeito, por aquele pessoal de entre os funcionários do sector, devendo dois deles, pelo menos, ser escolhidos de entre os funcionários dos quadros do pessoal adjunto e do pessoal especializado.
+
+§ 5.º Só serão elegíveis unidades do pessoal colocado na Secretaria de Estado, devendo os representantes do quadro do serviço diplomático, além de satisfazerem aquela condição, pertencer aos quadros.
+
+§ 6.º Os representantes dos funcionários do serviço diplomático participarão apenas nas reuniões do conselho convocadas para apreciação das matérias referidas nos n.os 1), 6), 7) e 9) do artigo seguinte ou dos assuntos mencionados nos restantes números do mesmo artigo quando respeitem a funcionários daquele serviço.
+
+§ 7.º Os representantes dos funcionários dos quadros administrativo e auxiliar participarão apenas nas reuniões do conselho convocadas para apreciação dos assuntos referidos nos n.os 2), 3), 4), 5), 7), 8) e 9) do artigo seguinte quando respeitem a funcionários do mesmo quadro ou a serviços em que eles participem directamente.
+
+§ 8.º Os representantes do restante pessoal participarão apenas nas reuniões do conselho convocadas para apreciação dos assuntos referidos nos n.os 4), 5) e 7) do artigo seguinte quando respeitem àquele mesmo pessoal.
+
+Art. 32.º Compete ao conselho do Ministério:
+
+1) Apreciar a aptidão dos adidos de embaixada para efeitos de ingresso definitivo no serviço diplomático;
+
+2) Ordenar os funcionários do serviço diplomático até à categoria de ministro plenipotenciário de 2.ª classe, inclusive, e os funcionários dos quadros administrativos e auxiliares, sempre que se verifique alguma vaga a preencher por promoção não dependente de concurso;
+
+3) Propor a colocação e transferência dos funcionários do serviço diplomático, com excepção dos chefes de missão diplomática ou de postos consulares em países em que não haja representação diplomática, e dos titulares dos cargos de direcção na Secretaria de Estado, assim como dos funcionários dos quadros administrativo e auxiliar, atendendo para o efeito às suas aptidões pessoais e profissionais, aos períodos de serviço por eles prestados na Secretaria de Estado e nos serviços externos e ainda à sua passagem pelas diversas classes dos postos;
+
+4) Propor ao Ministro a realização de inquéritos e sindicâncias aos actos dos funcionários;
+
+5) Examinar as reclamações dos funcionários que se julguem preteridos nos seus direitos e emitir sobre elas pareceres sujeitos a homologação do Ministro;
+
+6) Dar o seu parecer sobre a colocação de funcionários do serviço diplomático na situação de disponibilidade e sobre a sua eventual chamada a serviço;
+
+7) Reunir as informações sobre os diversos serviços do Ministério e propor medidas adequadas à melhoria do seu funcionamento;
+
+8) Propor e dar parecer sobre alterações à Lei Orgânica e ao Regulamento do Ministério e pronunciar-se sobre todos os assuntos submetidos à sua apreciação pelo Ministro, assim como sobre os requerimentos dos funcionários em matéria cuja resolução envolva ponto de doutrina acerca de interpretação da lei;
+
+9) Deliberar sobre o projecto anual de inspecção aos serviços externos do Ministério, elaborado pelo inspector diplomático e consular, propô-lo ao Ministro e recomendar ao mesmo as inspecções extraordinárias julgadas convenientes.
+
+Art. 33.º O conselho do Ministério deverá reunir-se ordinariamente uma vez por mês e extraordinariamente sempre que for convocado por determinação do Ministro ou do seu presidente, ou a pedido da maioria dos seus membros. Nestes últimos dois casos o Ministro será obrigatoriamente informado da data da reunião do conselho e da respectiva ordem do dia.
+
+Art. 34.º O conselho só poderá reunir se estiver presente a maioria dos seus membros, devendo as deliberações ser tomadas pela maioria absoluta dos membros presentes, quando não for exigido número superior. As deliberações sobre o mérito dos candidatos ao ingresso definitivo no serviço diplomático, sobre o mérito dos funcionários para efeito de ordenação para promoção, assim como sobre colocações e transferências, carecem de aprovação por maioria de dois terços dos membros presentes, no primeiro escrutínio, e por maioria simples, no segundo.
+
+§ 1.º A participação nas reuniões do conselho é obrigatória e na falta ou impedimento de algum dos seus membros efectivos deverão os respectivos substitutos legais ou suplentes substituí-los.
+
+§ 2.º O voto não poderá ser secreto, excepto quando decidido e expressamente solicitado. É obrigatória a participação na votação, não é permitida a abstenção e os membros do conselho poderão fazer registar na acta as suas declarações de voto.
+
+§ 3.º Em caso de empate, o presidente terá voto de qualidade.
+
+§ 4.º As decisões do conselho constam de actas, que serão lidas e assinadas pelos membros presentes e de que serão fornecidas cópias ao Ministro e aos Secretários de Estado.
+
+...
+
+Art. 89.º A partir do ingresso no serviço diplomático, as promoções até à categoria de ministro plenipotenciário de 2.ª classe, inclusive, fazem-se, por mérito ou por antiguidade, de entre os funcionários com três anos de bom e efectivo serviço na categoria imediatamente inferior.
+
+§ 1.º As promoções referidas no corpo do presente artigo obedecem à ordem estabelecida pelo conselho do Ministério.
+
+§ 2.º O conselho do Ministério, ao elaborar as listas de promoção, deve, a seguir a cada três propostas de promoção por mérito, indicar para o mesmo efeito o funcionário mais antigo na categoria dos funcionários a promover.
+
+§ 3.º O Ministro não poderá deixar de obedecer à ordem estabelecida pelo conselho do Ministério, sempre que a promoção for por antiguidade, mas, se pretender efectuar qualquer promoção por mérito, não coincidente com a ordem proposta pelo conselho, deverá justificar e fundamentar a sua proposta.
+
+§ 4.º No caso previsto na parte final do parágrafo anterior, a proposta do Ministro deve ser examinada pelo conselho na sessão ordinária seguinte à data em que a mesma lhe for comunicada, considerando-se definitiva se ratificada por dois terços dos membros do conselho ou se este a não apreciar.
+
+§ 5.º Se a proposta do Ministro não for tornada definitiva, nos termos constantes do parágrafo anterior, as promoções por mérito terão de obedecer à ordem inicialmente estabelecida pelo conselho do Ministério.
+
+§ 6.º Os funcionários do serviço diplomático não poderão ser promovidos mais do que uma vez no mesmo país até à categoria de ministro de 2.ª classe, inclusive.
+
+...
+
+Art. 99.º As promoções para os lugares de segundo-oficial, primeiro-oficial e chefe de secção serão efectuadas à medida que se verificarem vagas no respectivo quadro, na proporção de três por mérito e uma por antiguidade.
+
+§ 1.º O conselho do Ministério, ao elaborar a lista de promoções por mérito, deverá ter em conta os serviços prestados e o conhecimento de línguas estrangeiras, para cuja aprendizagem poderá o Ministro autorizar a concessão de subsídios.
+
+§ 2.º Os funcionários do quadro administrativo não poderão ser promovidos mais de uma vez no mesmo país ou permanecer mais de cinco anos no mesmo posto.
+
+José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Ernesto Augusto de Melo Antunes.
+
+Promulgado em 10 de Fevereiro de 1976.
+
+Publique-se.
+
+O Presidente da República, FRANCISCO DA COSTA GOMES.

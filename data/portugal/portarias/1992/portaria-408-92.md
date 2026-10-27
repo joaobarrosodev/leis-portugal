@@ -1,0 +1,136 @@
+---
+schema_version: '1.0'
+id: pt:dre:523840:por
+title: Portaria n.º 408/92
+short_title: null
+summary: Altera o quadro de pessoal da Direcção-Geral das Alfândegas, aprovado pela Portaria n.º 54/88, de 27 de Janeiro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 408/92
+official_date: null
+publication_date: '1992-05-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 113/1992, Série I-B de 1992-05-16
+  number: '113'
+  series: I
+  supplement: null
+  pages: 2240 - 2241
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/05/113b00/22402241.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/408/1992/05/16/p/dre/pt/html
+  oj: null
+  dre: '523840'
+  dre_path: /dr/detalhe/portaria/408-1992-523840
+  internal: pt:dre:523840:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/408-1992-523840
+  metadata_url: https://data.dre.pt/eli/port/408/1992/05/16/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/408-1992-523840
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:19:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 79f5e95973fcae07d8bab5b82b53bf13d6cc96ce788785094a9b142f54281d5a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:19:20Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral das Alfândegas
+- Pessoal de BAD
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:282696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:19:20Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 408/92
+
+de 16 de Maio
+
+Através do [Decreto-Lei n.º 247/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1991-668103), de 10 de Julho, foram criadas as novas carreiras de pessoal específicas das áreas funcionais de biblioteca e documentação e de arquivo.
+
+Tornando-se necessário, para assegurar a transição do pessoal das carreiras de BAD previstas no quadro da Direcção-Geral das Alfândegas para as novas carreiras, proceder à adaptação do quadro de pessoal:
+
+Manda o Governo, pelo Ministro das Finanças, ao abrigo do n.º 1 do artigo 45.º do [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho, e do artigo 14.º do [Decreto-Lei n.º 247/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1991-668103), de 10 de Julho, que o quadro de pessoal da Direcção-Geral das Alfândegas, aprovado pela [Portaria n.º 54/88](https://diariodarepublica.pt/dr/detalhe/portaria/54-1988-282698), de 27 de Janeiro, com as alterações posteriormente introduzidas pelo [Decreto Regulamentar n.º 4/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1988-282696), de 27 de Janeiro, [Decreto-Lei n.º 49/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1988-283118), de 17 de Fevereiro, [Portaria n.º 905/89](https://diariodarepublica.pt/dr/detalhe/portaria/905-1989-549007), de 17 de Outubro, [Portaria n.º 469/90](https://diariodarepublica.pt/dr/detalhe/portaria/469-1990-575315), de 23 de Junho, e [Portaria n.º 1120/90](https://diariodarepublica.pt/dr/detalhe/portaria/1120-1990-564580), de 15 de Novembro, seja alterado de acordo com o mapa anexo à presente portaria.
+
+Ministério das Finanças.
+
+Assinada em 23 de Abril de 1992.
+
+Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento.
+
+Mapa anexo à Portaria n.º 408/92
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/113b00/22402241.pdf)

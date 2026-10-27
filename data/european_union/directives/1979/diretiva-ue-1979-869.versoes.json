@@ -1,0 +1,209 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31979L0869:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01979L0869-20071222",
+ "dre_path": null,
+ "source_lastmod": "2007-12-22",
+ "versions": [
+  {
+   "date": "1979-10-29",
+   "future": false,
+   "celex": "31979L0869",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "81fd2618032b303e",
+    "320d00448a463eed",
+    "636ce6d6018239fd",
+    "4d09e3012a24109b",
+    "20cd162acba0f867",
+    "3fc46b19bc880658",
+    "3714e9eb321d2a88",
+    "ca604d1d67c2a3a3",
+    "39dddf734a41ba1a",
+    "0f681167b1b7adc6",
+    "fc15e49090b89461",
+    "b6dbce4406b7f3fe",
+    "b37eca151971fcc7",
+    "dd4e88cabf6b49bd",
+    "d727abb44d3819c7",
+    "42917ad0295f31ba",
+    "c343199d9101abf4"
+   ]
+  },
+  {
+   "date": "2007-12-22",
+   "future": false,
+   "celex": "01979L0869-20071222",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime ANEXO I — Método padrão de medição dos valores I e/ou G dos parâmetros da Directiva 75/440/CEE",
+    "Suprime ANEXO II"
+   ],
+   "fragments": [
+    "f654f897fd5584c1"
+   ]
+  }
+ ],
+ "fragments": {
+  "81fd2618032b303e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 79/869/CEE do Conselho, de 9 de Outubro de 1979, relativa aos métodos de medida e à frequência das amostragens e da análise das águas superficiais destinadas à produção de água potável nos Estados- membros** *Jornal Oficial nº L 271 de 29/10/1979 p. 0044 - 0053 Edição especial grega: Capítulo 15 Fascículo 1 p. 0220 Edição especial espanhola: Capítulo 15 Fascículo 2 p. 0146 Edição especial portuguesa: Capítulo 15 Fascículo 2 p. 0146 Edição especial finlandesa: Capítulo 15 Fascículo 2 p. 0190 Edição especial sueca: Capítulo 15 Fascículo 2 p. 0190*\n\nDIRECTIVA DO CONSELHO de 9 de Outubro de 1979 relativa aos métodos de medida e à frequência das amostragens e da análise das águas superficiais destinadas à produção de água potável nos Estados-membros\n\n(79/869/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 100o e 235o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que o programa de acção das Comunidades Europeias em matéria de ambiente (4) prevê a normalização ou a harmonização dos métodos de medida a fim de tornar comparáveis os resultados das medidas da poluição realizadas na Comunidade;\n\nConsiderando que a Directiva 75/440/CEE do Conselho, de 16 de Junho de 1975, relativa à qualidade das águas superficiais destinadas à produção de água potável nos Estados-membros (5) e, nomeadamente, o no 2 do seu artigo 5o, prevê a adopção de uma política comunitária no que respeita à frequência das amostragens e à análise dos parâmetros, bem como aos métodos de medida;\n\nConsiderando que qualquer disparidade entre as disposições já aplicáveis ou em preparação nos diferentes Estados-membros no que respeita aos métodos de medida e à frequência das amostragens e da análise de cada parâmetro para determinar a qualidade das águas superficiais pode criar condições de concorrência desiguais e ter deste modo uma incidência directa no funcionamento do mercado comum; que é, portanto, conveniente proceder, neste domínio, à aproximação das legislações prevista no artigo 100o do Tratado;\n\nConsiderando que se afigura necessário fazer acompanhar esta aproximação de legislações de uma acção da Comunidade, com vista a realizar através de uma regulamentação mais ampla, um dos objectivos da Comunidade no domínio da protecção do meio e da melhoria da qualidade de vida; que é necessário prever, nesse sentido, algumas disposições específicas; que não tendo sido previstos no Tratado os poderes de acção exigidos para esse efeito se deve recorrer ao artigo 235o do Tratado;\n\nConsiderando que se afigura necessário fixar, para as análises efectuadas nos Estados-membros, os métodos de medida de referência comuns para determinar os valores dos parâmetros que definem as características físicas, químicas e microbiológicas das águas superficiais destinadas à produção de água potável;\n\nConsiderando que, para garantir o controlo da qualidade exigida, há que proceder regularmente a um mínimo de colheitas de amostras de água superficiais a fim de efectuar as medidas dos parâmetros especificados no Anexo II da Directiva 75/440/CEE;\n\nConsiderando que a frequência mínima das amostragens e da análise de cada parâmetro deve ser tanto mais elevada quanto maior for o volume das águas captadas e a população abastecida; que a frequência deve ser mais elevada quando, por motivo de deterioração da qualidade das águas, o risco aumenta;\n\nConsiderando que o progresso técnico e científico pode tornar necessária uma adaptação rápida de algumas das disposições definidas no Anexo I da presente directiva para ter em conta, nomeadamente, as modificações dos níveis dos parâmetros indicados no Anexo II da Directiva 75/440/CEE; que é conveniente para facilitar a execução das medidas necessárias para este efeito, prever um procedimento que estabeleça uma cooperação estreita entre os Estados-membros e a Comissão no âmbito de um Comité para a Adaptação ao Progresso Técnico e Científico,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "320d00448a463eed": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nA presente directiva é relativa aos métodos de medida de referência e à frequência das amostragens e da análise dos parâmetros constantes do Anexo II da Directiva 75/440/CEE."
+  },
+  "636ce6d6018239fd": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nNa acepção da presente directiva, entende-se por:\n\n- método de medida de referência: a designação de um princípio de medida ou a descrição sucinta de um processo de operação que permitam determinar o valor dos parâmetros constantes do Anexo I da presente directiva,\n\n- limite de detecção: o valor mínimo do parâmetro examinado que pode ser detectado,\n\n- precisão: o intervalo no qual se encontram 95 % dos resultados das medidas efectuadas sobre uma mesma amostra, empregando o mesmo método;\n\n- exactidão: a diferença entre o valor real do parâmetro examinado e o valor médio experimental obtido."
+  },
+  "4d09e3012a24109b": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. As análises das amostras de água colhida incidem sobre os parâmetros constantes do Anexo II da Directiva 75/440/CEE aos quais foram atribuídos valores I e/ou G.\n\n2. Os Estados-membros utilizarão na medida do possível os métodos de medida de referência constantes do Anexo I da presente directiva.\n\n3. Devem ser respeitados os valores para o limite de detecção e para a precisão e a exactidão dos métodos de medida utilizados para controlar os parâmetros constantes do Anexo I da presente directiva."
+  },
+  "20cd162acba0f867": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. As frequências mínimas anuais das amostragens e da análise de cada parâmetro constam do Anexo II da presente directiva. A colheita de amostras deve, na medida do possível, ser repartida ao longo do ano de modo tal que se obtenha uma imagem representativa da qualidade da água.\n\n2. As amostras de água superficial devem ser representativas da qualidade da água no local de colheita tal como é definido no no 4 do artigo 5o da Directiva 75/440/CEE."
+  },
+  "3fc46b19bc880658": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nOs recipientes que contêm as amostras, os agentes ou métodos utilizados para conservar uma amostra parcial tendo em vista a análise de um ou vários parâmetros, o transporte e o armazenamento das amostras, bem como a sua preparação para análise, não devem ser susceptíveis de modificar de modo significativo os resultados dessa análise."
+  },
+  "3714e9eb321d2a88": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. As autoridades competentes dos Estados-membros fixarão as frequências das amostragens e da análise de cada parâmetro para um mesmo local de colheita.\n\n2. As frequências das amostragens e da análise não podem ser inferiores às frequências mínimas anuais constantes do Anexo II da presente Directiva."
+  },
+  "ca604d1d67c2a3a3": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Quando um inquérito efectuado pelas autoridades competentes relativamente às águas superficiais destinadas à produção de água potável revelar que os valores obtidos aquando da medida dos parâmetros são, em certos casos, nitidamente melhores que os fixados pelos Estados-membros em conformidade com o Anexo II da Directiva 75/440/CEE, a frequência de amostragem e de análise deve ser reduzida, nestes casos, pelo Estado-membro interessado.\n\n2. Se não houver qualquer poluição nos casos referidos no no 1, nem risco de deterioração da qualidade das águas e se estas forem de qualidade superior à indicada na coluna A1 do Anexo II da Directiva 75/440/CEE, as autoridades competentes podem decidir que não é necessária uma análise regular."
+  },
+  "39dddf734a41ba1a": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. Para aplicação da presente directiva, os Estados-membros fornecerão à Comissão, a seu pedido, todas as informações pertinentes com respeito:\n\n- aos métodos de análise utilizados,\n\n- à frequência das análises.\n\n2. A Comissão elaborará com periodicidade regular um relatório de síntese com base nas informações assim obtidas."
+  },
+  "0f681167b1b7adc6": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nA fim de serem tidas em conta, nomeadamente, modificações nos níveis dos parâmetros do Anexo II da Directiva 75/440/CEE, as modificações necessárias para adaptar ao progresso técnico:\n\n- os métodos de medida de referência constantes do Anexo I da presente directiva,\n\n- o limite de detecção, a precisão e a exactidão destes métodos,\n\n- os materiais recomendados para o recipiente,\n\nserão aprovadas de acordo com o procedimento previsto no artigo 11o da presente directiva."
+  },
+  "fc15e49090b89461": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. É instituído, para os fins enunciados no artigo 9o, um Comité para a Adaptação ao Progresso Técnico e Científico, a seguir denominado «Comité», composto por representantes dos Estados-membros e presidido por um representante da Comissão.\n\n2. O Comité estabelece o seu regulamento interno."
+  },
+  "b6dbce4406b7f3fe": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. No caso em que seja feita referência ao procedimento definido no presente artigo, o Comité é convocado pelo presidente, quer por iniciativa deste, quer a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão submete ao Comité um projecto de medidas a tomar. O Comité emite o seu parecer sobre este projecto num prazo que o presidente fixa em função da urgência do assunto. O Comité pronuncia-se por maioria de quarenta e um votos, sendo atribuída aos votos dos Estados-membros a ponderação prevista no no 2, do artigo 148o do Tratado. O presidente não participa na votação.\n\n3. a) A Comissão adoptará as medidas propostas desde que estejam em conformidade com o parecer do Comité;\n\nb) Quando as medidas propostas não estiverem em conformidade com o parecer do Comité, ou na falta de parecer, a Comissão submeterá imediatamente ao Conselho uma proposta relativa às medidas a adoptar. O Conselho deliberará por maioria qualificada;\n\nc) Se, decorrido o prazo de três meses a contar da apresentação da proposta ao Conselho, este não tiver deliberado, as medidas propostas serão adoptadas pela Comissão."
+  },
+  "b37eca151971fcc7": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. A Directiva 75/440/CEE é alterada nos seguintes termos:\n\na) É suprimido o no 2, do artigo 5o;\n\nb) No no 3 do artigo 5o a expressão «referidos no no 2» é substituída pela expressão «os parâmetros respeitantes à qualidade da água em questão».\n\n2. O no 1 produzirá efeitos no prazo de dois anos a contar da notificação da presente Directiva."
+  },
+  "dd4e88cabf6b49bd": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente Directiva no prazo de dois anos a contar da sua notificação. Desse facto informarão imediatamente a Comissão."
+  },
+  "d727abb44d3819c7": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito no Luxemburgo em 9 de Outubro de 1979.\n\nPelo Conselho\n\nO Presidente\n\nD. O'MALLEY\n\n(1) JO no C 208 de 1. 9. 1978, p. 2.(2) JO no C 67 de 12. 3. 1979, p. 48.(3) JO no C 128 de 21. 5. 1979, p. 4.(4) JO no C 112 de 20. 12. 1973, p. 1.(5) JO no L 194 de 25. 7. 1975, p. 26."
+  },
+  "42917ad0295f31ba": {
+   "fragment_id": "ANEXO I — Método padrão de medição dos valores I e/ou G dos parâmetros da Directiva 75/440/CEE",
+   "type": "divisao",
+   "heading": "ANEXO I — Método padrão de medição dos valores I e/ou G dos parâmetros da Directiva 75/440/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Método padrão de medição dos valores I e/ou G dos parâmetros da Directiva 75/440/CEE\n\n>(1)\"> ID=\"1\">1> ID=\"2\">pH unidade pH> ID=\"3\">-> ID=\"4\">0,1> ID=\"5\">0,2> ID=\"6\">- Electrometria\n\nA medição efectua-se in situ ao mesmo tempo que a amostragem sem tratamento prévio da amostra\"> ID=\"1\">2> ID=\"2\">Cor mg Pt/l (após filtração simples)> ID=\"3\">5> ID=\"4\">10 %> ID=\"5\">20 %> ID=\"6\">- Filtração através de membrana de fibra de vidro\n\n- Método fotométrico, com padrões da escala platina-cobalto\"> ID=\"1\">3> ID=\"2\">Matériais totais mg/l> ID=\"3\">-> ID=\"4\">5 %> ID=\"5\">10 %> ID=\"6\">- Filtração através de membrana filtrante de 0,45 µm, secagem a 105 C e pesagem\"> ID=\"2\">em suspensão> ID=\"6\">- Centrifugação (tempo mínimo de 5 min., aceleração média 2800 a 3200 g), secagem a 105 C e pesagem\"> ID=\"1\">4> ID=\"2\">Temperatura C> ID=\"3\">-> ID=\"4\">0,5> ID=\"5\">1> ID=\"6\">- Termometria\n\nA medição efectua-se in situ, ao mesmo tempo que a amostragem, sem tratamento prévio da amostra\"> ID=\"1\">5> ID=\"2\">Condutividade a 20 C µS/cm> ID=\"3\">-> ID=\"4\">5 %> ID=\"5\">10 %> ID=\"6\">- Electrometria\"> ID=\"1\">6> ID=\"2\">Cheiro Factor de diluição a 25 C> ID=\"3\">-> ID=\"4\">-> ID=\"5\">-> ID=\"6\">- Por diluições sucessivas> ID=\"7\">Vidro\"> ID=\"1\">7> ID=\"2\">Nitratos mg/l NO3> ID=\"3\">2> ID=\"4\">10 %> ID=\"5\">20 %> ID=\"6\">- Espectrofotometria de absorção molecular\"> ID=\"1\">8> ID=\"2\">Fluoretos mg/l F> ID=\"3\">0,05> ID=\"4\">10 %> ID=\"5\">20 %> ID=\"6\">- Espectrofotometria de absorção molecular após destilação se necessária\n\n- Eléctrodos selectivos de iões\"> ID=\"1\">9> ID=\"2\">Cloro orgânico total extraível mg/l Cl\"> ID=\"1\">10> ID=\"2\">Ferro dissolvido mg/l Fe> ID=\"3\">0,02> ID=\"4\">10 %> ID=\"5\">20 %> ID=\"6\">- Espectrometria de absorção atómica após filtração em membrana filtrante (0,45 µm)\n\n- Espectrofotometria de absorção molecular após filtração em membrana filtrante de 0,45 µm\"> ID=\"1\" ASSV=\"2\">11> ID=\"2\" ASSV=\"2\">Manganés mg/l Mn> ID=\"3\">0,01 (2)> ID=\"4\">10 %> ID=\"5\">20 %> ID=\"6\">- Espectrofotometria de absorção atómica\"> ID=\"3\">0,02 (3)> ID=\"4\">10 %> ID=\"5\">20 %> ID=\"6\">- Espectrofotometria de absorção atómica\n\n- Espectrofotometria de absorção molecular\"> ID=\"1\" ASSV=\"2\">12> ID=\"2\" ASSV=\"2\">Cobre (10) mg/l Cu> ID=\"3\">0,005> ID=\"4\">10 %> ID=\"5\">20 %> ID=\"6\">- Espectrofotometria de absorção atómica\n\n- Polarografia\"> ID=\"3\">0,02 (4)> ID=\"4\">10 %> ID=\"5\">20 %> ID=\"6\">- Espectrofotometria de absorção atómica\n\n- Espectrofotometria de absorção molecular\n\n- Polarografia\"> ID=\"1\" ASSV=\"2\">13> ID=\"2\" ASSV=\"2\">Zinco (10) mg/l Zn> ID=\"3\">0,01 (2)> ID=\"4\">10 %> ID=\"5\">20 %> ID=\"6\">- Espectrofometria de absorção atómica\"> ID=\"3\">0,02> ID=\"4\">10 %> ID=\"5\">20 %> ID=\"6\">- Espectrofotometria de absorção atómica\n\n- Espectrofotometria de absorção molecular\"> ID=\"1\">14> ID=\"2\">Boro (10) mg/l B> ID=\"3\">0,1> ID=\"4\">10 %> ID=\"5\">20 %> ID=\"6\">- Espectrofotometria de absorção molecular\n\n- Espectrofotometria de absorção atómica> ID=\"7\">Materiais que não contenham quantidades significativas de boro\"> ID=\"1\">15> ID=\"2\">Berílio mg/l Be\"> ID=\"1\">16> ID=\"2\">Cobalto mg/l Co\"> ID=\"1\">17> ID=\"2\">Níquel mg/l Ni\"> ID=\"1\">18> ID=\"2\">Vanádio mg/l V\"> ID=\"1\" ASSV=\"2\">19> ID=\"2\" ASSV=\"2\">Arsénio (10) mg/l As> ID=\"3\">0,002 (2)> ID=\"4\">20 %> ID=\"5\">20 %> ID=\"6\">- Espectrofotometria de absorção atómica\"> ID=\"3\">0,01 (5)> ID=\"6\">- Espectrofotometria de absorção atómica\n\n- Espectrofotometria de absorção molecular\"> ID=\"1\" ASSV=\"2\">20> ID=\"2\" ASSV=\"2\">Cádmio (10) mg/l Cd> ID=\"3\">0,0002> ID=\"4\">30 %> ID=\"5\">30 %> ID=\"6\">- Espectrofotometria de absorção atómica\"> ID=\"3\">0,001 (5)> ID=\"6\">- Polarografia\"> ID=\"1\">21> ID=\"2\">Crómio total (10) mg/l Cr> ID=\"3\">0,01> ID=\"4\">20 %> ID=\"5\">30 %> ID=\"6\">- Espectrometria de absorção atómica\n\n- Espectrofotometria de absorção molecular\"> ID=\"1\">22> ID=\"2\">Chumbo (10) mg/l Pb> ID=\"3\">0,01> ID=\"4\">20 %> ID=\"5\">30 %> ID=\"6\">- Espectrofotometria de absorção atómica\n\n- Polarografia\"> ID=\"1\">23> ID=\"2\">Selénio (10) mg/l Se> ID=\"3\">0,005> ID=\"6\">- Espectrofotometria de absorção atómica\"> ID=\"1\" ASSV=\"2\">24> ID=\"2\" ASSV=\"2\">Mercúrio (10) mg/l Hg> ID=\"3\">0,0001> ID=\"4\">30 %> ID=\"5\">30 %> ID=\"6\">- Espectrofotometria de absorção atómica sem chama (vaporização a frio)\"> ID=\"3\">0,0002 (5)\"> ID=\"1\">25> ID=\"2\">Bário (10) mg/l Ba> ID=\"3\">0,02> ID=\"4\">15 %> ID=\"5\">30 %> ID=\"6\">- Espectrofotometria de absorção atómica\"> ID=\"1\">26> ID=\"2\">Cianeto mg/l CN> ID=\"3\">0,01> ID=\"4\">20 %> ID=\"5\">30 %> ID=\"6\">- Espectrofotometria de absorção molecular\"> ID=\"1\">27> ID=\"2\">Sulfatos mg/l SO4> ID=\"3\">10> ID=\"4\">10 %> ID=\"5\">10 %> ID=\"6\">- Análise gravimétrica\n\n- Complexometria com EDTA\n\n- Espectrofotometria de absorção molecular\"> ID=\"1\">28> ID=\"2\">Cloretos mg/l Cl> ID=\"3\">10> ID=\"4\">10 %> ID=\"5\">10 %> ID=\"6\">- Titulação (método de Mohr)\n\n- Espectrofotometria de absorção molecular\"> ID=\"1\">29> ID=\"2\">Agentes de superfície (que reagem ao azul de metileno) mg/l (de laurilo sufato)> ID=\"3\">0,05> ID=\"4\">20 %> ID=\"6\">- Espectrofotometria de absorção molecular\"> ID=\"1\">30> ID=\"2\">Fosfatos mg/l P2O5> ID=\"3\">0,02> ID=\"4\">10 %> ID=\"5\">20 %> ID=\"6\">- Espectrofotometria de absorção molecular\"> ID=\"1\" ASSV=\"3\">31> ID=\"2\">Fenóis (índice de fenóis) mg/l C6H5OH> ID=\"6\">- Espectrofotometria de absorção molecular> ID=\"7\">Vidro\"> ID=\"3\">0,0005> ID=\"4\">0,0005> ID=\"5\">0,0005> ID=\"6\">- Método da 4-aminoantipirina\"> ID=\"3\">0,001 (6)> ID=\"4\">30 %> ID=\"5\">50 %> ID=\"6\">- Método de la paranitranilina\"> ID=\"1\" ASSV=\"2\">32> ID=\"2\">Hidrocarbonetos dissolvidos ou emulsionados mg/l> ID=\"3\">0,01> ID=\"4\">20 %> ID=\"5\">30 %> ID=\"6\">- Espectrofotometria no infravermelho após extracção pelo tetracloreto de carbono> ID=\"7\">Vidro\"> ID=\"3\">0,04 (3)> ID=\"6\">- Gravimetria após extracção por meio do éter de petróleo\"> ID=\"1\">33> ID=\"2\">Carboneto aromático policíclico (10) mg/l> ID=\"3\">0,00004> ID=\"4\">50 %> ID=\"5\">50 %> ID=\"6\">- Medição da fluorescência por ultravioleta após cromatografia em camada fina\n\n- Medição comparativa em relação a uma mistura de seis substâncias-padrão com a mesma concentração (8)> ID=\"7\">Vidro ou alumínio\"> ID=\"1\">34> ID=\"2\">Pesticidas - total (Paratião, hexaclorocicloexano, dieldrina) (10) mg/l> ID=\"3\">0,0001> ID=\"4\">50 %> ID=\"5\">50 %> ID=\"6\">- Cromatografia em fase gasosa ou líquida apósextracção por solventes adequados e purificação> ID=\"7\">Vidro\"> ID=\"6\">Identificação dos constituintes da mistura\"> ID=\"6\">Determinação quantitativa (9)\"> ID=\"1\">35> ID=\"2\">Oxidabilidade química (OQ) mg/l O2> ID=\"3\">15> ID=\"4\">20 %> ID=\"5\">20 %> ID=\"6\">- Método do dicromato de potássio\"> ID=\"1\" ASSV=\"2\">36> ID=\"2\" ASSV=\"2\">Taxa de saturação de oxígeno dissolvido %> ID=\"3\">5> ID=\"4\">10 %> ID=\"5\">10 %> ID=\"6\">- Método de Winkler> ID=\"7\">Vidro\"> ID=\"6\">- Método electroquímico\"> ID=\"1\">37> ID=\"2\">Oxidabilidade bioquímica (OBQ5) a 20 C sem nitrificação mg/l O2> ID=\"3\">2> ID=\"4\">1,5> ID=\"5\">2> ID=\"6\">- Determinação de O2 dissolvido antes e depois da incubação de 5 dias a 20 ± 1 C e no escuro. Adicionar um de inibidor da nitrificação\"> ID=\"1\">38> ID=\"2\">Azoto Kjeldahl (excluindo azoto de NO2 y NO3) mg/l N> ID=\"3\">0,5> ID=\"4\">0,5> ID=\"5\">0,5> ID=\"6\">- Mineralização, destilação segundo o método Kjeldahl e determinação do amónio por espectrofotometria de absorção molecular ou titulação\"> ID=\"1\">39> ID=\"2\">Amónio mg/l NH4> ID=\"3\">0,01 (2)> ID=\"4\">0,03 (2)> ID=\"5\">0,03 (2)> ID=\"6\">- Espectrofotometria de absorção molecular\"> ID=\"3\">0,1 (3)> ID=\"4\">10 % (3)> ID=\"5\">20 % (3)\"> ID=\"1\">40> ID=\"2\">Substâncias extraíveis com clorofórmio mg/l> ID=\"3\">(11)> ID=\"4\">-> ID=\"5\">-> ID=\"6\">- Extracção a pH neutro clorofórmio purificado, evaporação no vácuo à temperatura ambiente e pesagem do resíduo> ID=\"7\">Vidro\"> ID=\"1\">41> ID=\"2\">Carbono orgânico total mg/l C\"> ID=\"1\">42> ID=\"2\">Carbono orgânico residual após floculação e filtracção através de membrana (5 µm)\"> ID=\"1\" ASSV=\"2\">43> ID=\"2\">Coliformes totais /100 ml> ID=\"3\">5 (2)> ID=\"6\">- Cultura a 37 C em meio sólido específico adequado para o efeito (tal como, agar de lactose Tergitol, agar de Endo, agar com Teepol a 0,4 %) com (2) ou sem (7) filtração e contagem das colonias. As amostras devem ser diluídas ou, se for caso disso concentradas de maneira a conterem de 10 a 100 colónias Identificação por gaseificação, se necessária> ID=\"7\">Vidro esterilizado\"> ID=\"3\">500 (7)\"> ID=\"3\">5 (2)> ID=\"6\">- Método de diluição com fermentação em substratos líquidos em pelo menos três tubos em três diluições\"> ID=\"6\">Subculturas dos tubos positivos como meios de confirmação. Contagem segundo NMP (número mais provável). Temperatura de incubação: 37 ± 1 C\"> ID=\"3\">500 (7)\"> ID=\"1\" ASSV=\"2\">44> ID=\"2\">Coliformes fecais /100 ml> ID=\"3\">2 (2)> ID=\"6\">- Cultura a 44 C em meio sólido específico adequado para o efeito (como p.ex. agar de lactose Tergitol, agar Endo, agar com Teepol a 0,4 %) com (2) ou sem (7) filtração e contagem de colónias. As âmostras devem ser diluídas ou concentradas de maneira a conterem 10 a 100 colónias. Identificação por gaseificação se necessário> ID=\"7\">Vidro esterilizado\"> ID=\"3\">200 (7)\"> ID=\"3\">2 (2)> ID=\"6\">- Método de diluição com fermentação em substractos líquidos em pelo menos três tubos em três diluições. Subcultura dos tubos positivos como meio de confirmação. Contagem segundo NMP (número mais provável). Temperatura de incubação: 44 ± 0,5 C\"> ID=\"3\">200 (7)\"> ID=\"1\" ASSV=\"2\">45> ID=\"2\">Estreptococos fecais /100 ml> ID=\"3\">2 (2)> ID=\"6\">- Cultura a 37 C em meio sólido específico adequado para o efeito (por exemplo, com azoteto de sódio com (2) ou sem (7) filtração e contagem de côlónias. As amostras devem ser diluídas, ou concentradas de maneira a conterem 10 a 100 colónias> ID=\"7\">Vidro esterilizado\"> ID=\"3\">200 (7)\"> ID=\"3\">2 (2)> ID=\"6\">- Método de diluição em caldo de azoteto de sódio em pelo menos três tubos com três diluições. Contagem segundo NMP (número mais provável)\"> ID=\"3\">200 (7)\"> ID=\"1\">46> ID=\"2\">Salmonelas (12)> ID=\"3\">1/5000 ml> ID=\"6\">- Concentração por filtração (através de membrana ou filtro apropriado). Sementeira em meio de pré-enriquecimento. Enriquecimento, subcultura em agar de isolamento-Identificação> ID=\"7\">Vidro esterilizado\"> ID=\"3\">1/1000 ml\"\">\n\n(1) As amostras das águas superficiais recolhidas no ponto de colheita são analisadas e medidas depois de coadas através de rede metálica, a fim de eliminar os resíduos flutuantes tais como partículas de madeira e plástico.\n\n(2) Para as águas de categoria A1 valor G.\n\n(3) Para as águas de categoria A2 e A3.\n\n(4) Para as águas de categoria A3.\n\n(5) Para as águas de categoria A1, A2 e A3 valor I.\n\n(6) Para as águas de categoria A2 valor I e A3.\n\n(7) Para as águas de categoria A2 e A3 valor G.\n\n(8) Mistura de seis substâncias padrão a tomar em consideração, e que têm a mesma concentração: fluoranteno; benzo [3, 4] fluoranteno; benzo [11, 12] fluoranteno; benzo [3, 4] pireno; benzo [1, 12] perileno; indeno [1, 2, 3-cd] pireno.\n\n(9) Mistura de três substâncias a tomar em consideração e tendo a mesma concentração; paratião, hexaclorocicloexano, dieldrina.\n\n(10) Se o teor das amostras em matérias em suspensão for tão elevado que elas necessitem de um tratamento prévio especial, poderão excepcionalmente ser ultrapassados os valores de exactidão que constam da coluna E do presente anexo, e constituirão um objectivo. Estas amostras devem ser tratadas de maneira a que a maior quantidade a medir participe na análise.\n\n(11) Não sendo este método de utilização corrente em todos os Estados-membros não é certo que o valor do limite de detecção necessário para controlo dos valores da Directiva 75/440/CEE possa ser atingido.\n\n(12) Ausência de 500 ml (A1, G) e ausência em 1 000 ml (A2, 6)."
+  },
+  "c343199d9101abf4": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nFrequência mínima anual das amostragens a da análise de cada parâmetro da Directiva 75/440/CEE >(1)()(2)()(2)()(2)()(1)()(2)()(2)()(2)()(1)()(2)()(2)()(2)()\"> ID=\"1\">& le; 10 000> ID=\"2\">(3)()> ID=\"3\">(3)()> ID=\"4\">(3)()> ID=\"5\">(3)()> ID=\"6\">(3)()> ID=\"7\">(3)()> ID=\"8\">2> ID=\"9\">1> ID=\"10\">(3)() (4)\"> ID=\"1\"\" 10 000 a & le; 30 000> ID=\"2\">1> ID=\"3\">1> ID=\"4\">(3)()> ID=\"5\">2> ID=\"6\">1> ID=\"7\">(3)()> ID=\"8\">3> ID=\"9\">1> ID=\"10\">1\"> ID=\"1\"\" 30 000 a & le; 100 000> ID=\"2\">2> ID=\"3\">1> ID=\"4\">(3)()> ID=\"5\">4> ID=\"6\">2> ID=\"7\">1> ID=\"8\">6> ID=\"9\">2> ID=\"10\">1\"> ID=\"1\"\" 100 000> ID=\"2\">3> ID=\"3\">2> ID=\"4\">(3)()> ID=\"5\">8> ID=\"6\">4> ID=\"7\">1> ID=\"8\">12> ID=\"9\">4> ID=\"10\">1\"\">\n\nCATEGORIA\n\n\"\" ID=\"1\">1 pH> ID=\"2\">10 Ferro dissolvido> ID=\"3\">8 Fluoretos\"> ID=\"1\">2 Cor> ID=\"2\">11 Manganés> ID=\"3\">14 Boro\"> ID=\"1\">3 Matérias totais em suspensão> ID=\"2\">12 Cobre> ID=\"3\">19 Arsénio\"> ID=\"1\">4 Temperatura> ID=\"2\">13 Zinco> ID=\"3\">20 Cádmio\"> ID=\"1\">5 Condutividade> ID=\"2\">27 Sulfatos> ID=\"3\">21 Crómio total\"> ID=\"1\">6 Cheiro> ID=\"2\">29 Agentes de superfície> ID=\"3\">22 Chumbo\"> ID=\"1\">7 Nitratos> ID=\"2\">31 Fenóis> ID=\"3\">23 Selénio\"> ID=\"1\">28 Cloretos> ID=\"2\">38 Azoto kjeldahl> ID=\"3\">24 Mercúrio\"> ID=\"1\">30 Fosfatos> ID=\"2\">43 Coliformes totais> ID=\"3\">25 Bário\"> ID=\"1\">35 Oxidabilidade química (OQ)> ID=\"2\">44 Coliformes fecais> ID=\"3\">26 Cianeto\"> ID=\"1\">36 Taxa de saturação de oxigénio dissolvido\"> ID=\"1\">37 Oxidabilidade bioquímica (OBQ5)\"> ID=\"1\">39 Amónio\"> ID=\"3\">32 Hidrocarbonetos dissolvidos ou emulsionados\n\n33 Hidrocarbonetos aromáticos policíclicos\n\n34 Pesticidas - total\n\n40 Substâncias extraíveis com clorofórmio\n\n45 Estreptococos fecais\n\n46 Salmonelas\">\n\n(1)() Calidade das águas superficiais, Anexo II de la Directiva 75/440/CEE.\n\n(2)() Classificação dos parâmetros segundo a frequência.\n\n(3)() Frequência a determinar pelas autoridades nacionais competentes.\n\n(4) Estando estabelecido que estas águas superficiais são destinadas à produção de água potável, recomenda-se aos Estados-membros que procedam a uma amostragem anual, pelo menos no que respeita às águas desta categoria (A3, III, & le; 10 000)."
+  },
+  "f654f897fd5584c1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1979L0869 — PT — 22.12.2007 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31979L0869) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31979L0869) [de 9 de Outubro de 1979](http://publications.europa.eu/resource/celex/31979L0869) [relativa aos métodos de medida e à frequência das amostragens e da análise das águas superficiais destinadas à produção de água potável nos Estados-membros](http://publications.europa.eu/resource/celex/31979L0869) [(79/869/CEE)](http://publications.europa.eu/resource/celex/31979L0869) (JO L 271, 29.10.1979, p.44)\n\n**revogado por:**\n\n- [DIRECTIVA 2000/60/CE do Parlamento Europeu e do Conselho de 23 de Outubro de 2000](http://publications.europa.eu/resource/celex/32000L0060) — L 327 — 1 — 22.12.2000"
+  }
+ }
+}

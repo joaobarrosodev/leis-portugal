@@ -1,0 +1,890 @@
+---
+schema_version: '1.0'
+id: pt:dre:449175:por
+title: Portaria n.º 383/2008
+short_title: null
+summary: Estabelece a estrutura nuclear da Direcção Nacional da Polícia de Segurança Pública e as competências das respectivas
+  unidades orgânicas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Administração Pública e da Administração Interna
+proposing_entity: null
+official_number: 383/2008
+official_date: null
+publication_date: '2008-05-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 103/2008, Série I de 2008-05-29
+  number: '103'
+  series: I
+  supplement: null
+  pages: 3015 - 3020
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/05/10300/0301503020.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-09-10'
+version_history:
+  file: portaria-383-2008.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2008-05-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-11-18'
+    amending: pt:dre:224462297:por
+    amending_title: Portaria n.º 379-B/2023
+    changes:
+    - Adita Artigo 1.º-A
+    - Adita Artigo 9.º-A
+    - Adita Artigo 9.º-B
+    - Adita Artigo 13.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 13.º
+    - Altera Anexo
+  - date: '2025-09-10'
+    amending: pt:dre:934502553:por
+    amending_title: Portaria n.º 303/2025/1
+    changes:
+    - Adita Artigo 14.º-A
+    - Adita Artigo 14.º-B
+    - Adita Artigo 14.º-C
+    - Adita Artigo 14.º-D
+    - Adita Artigo 14.º-E
+    - Altera Artigo 1.º
+    - Altera Artigo 15.º
+    - Altera Anexo
+    - Revoga Artigo 9.º-A
+    - Revoga Artigo 9.º-B
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/383/2008/p/cons/20250909/pt/html
+  oj: null
+  dre: '449175'
+  dre_path: /dr/detalhe/portaria/383-2008-449175
+  internal: pt:dre:449175:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/383-2008-449175
+  metadata_url: https://data.dre.pt/eli/port/383/2008/p/cons/20250909/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-224510127
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-224510127
+  retrieved_at: '2026-10-22T13:00:40Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 59b635cc60444af7d65e63ce65f0a27fca58f98322ed3382eb05216e90ee1d21
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:00:40Z'
+  notes: 3 versão(ões); histórico completo em portaria-383-2008.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- PSP
+- Pessoal Dirigente
+- Definição de Competências
+- Direção Nacional
+- Orgânica
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:224462297:por
+  label: Adita Artigo 1.º-A; Adita Artigo 9.º-A; Adita Artigo 9.º-B; Adita Artigo 13.º-A; Altera Artigo 1.º; Altera Artigo
+    2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º;
+    Altera Artigo 9.º; Altera Artigo 13.º; Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/379-b-2023-224462297
+  date: '2023-11-17'
+- type: amended_by
+  target: pt:dre:934502553:por
+  label: Adita Artigo 14.º-A; Adita Artigo 14.º-B; Adita Artigo 14.º-C; Adita Artigo 14.º-D; Adita Artigo 14.º-E; Altera Artigo
+    1.º; Altera Artigo 15.º; Altera Anexo; Revoga Artigo 9.º-A; Revoga Artigo 9.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/303-2025-934502553
+  date: '2025-09-09'
+- type: cites
+  target: pt:dre:180022:por
+  label: null
+  source: http://data.dre.pt/eli/lei/5/1999/01/27/p/dre
+- type: cites
+  target: pt:dre:240610:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/124/2005/08/04/p/dre
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:641142:por
+  label: null
+  source: http://data.dre.pt/eli/lei/53/2007/08/31/p/dre
+article_structure:
+  article_count: 25
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:00:40Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 383/2008
+
+Portaria n.º 383/2008
+
+de 29 de Maio
+
+A Lei n.º 53/2007, de 31 de Agosto, definiu a missão, as atribuições e as bases da organização interna da Polícia de Segurança Pública (PSP).
+
+A anterior Lei Orgânica da PSP - a Lei n.º 5/99, de 27 de Janeiro - definia exaustivamente toda a estrutura orgânica da DNPSP, prevendo ao nível das três áreas em que estava estruturada 12 departamentos, 26 divisões e seis repartições, ao que acresciam, junto do director nacional, quatro gabinetes chefiados por um director de serviços, os Gabinetes de Estudos e Planeamento, de Consultadoria Jurídica, de Relações Exteriores e Cooperação e de Informática, este último com três divisões, e três gabinetes chefiados por um chefe de divisão, os Gabinetes de Deontologia e Disciplina, de Comunicação e Relações Públicas e de Assistência Religiosa. A estrutura dirigente dos departamentos e divisões da DNPSP totalizava, assim, 16 directores de serviços e 32 chefes de divisão.
+
+Diversamente, a Lei n.º 53/2007, de 31 de Agosto, define apenas as bases da estrutura da Direcção Nacional da PSP (DNPSP), que compreende o director nacional, coadjuvado por três directores nacionais-adjuntos, os órgãos de inspecção e consulta, as unidades orgânicas de operações e segurança, de recursos humanos e de logística e finanças e um departamento de apoio geral. Compete, assim, ao Governo, nos termos da Lei n.º 4/2004, de 15 de Janeiro, determinar o número e as competências das unidades nucleares da DNPSP, integradas nas referidas unidades orgânicas ou directamente dependentes do director nacional, e aprovar o respectivo quadro de dirigentes.
+
+A profunda reforma orgânica do Ministério da Administração Interna (MAI), no quadro do Programa de Reestruturação da Administração Central do Estado, aprovado pela Resolução do Conselho de Ministros n.º 124/2005, de 4 de Agosto, forneceu os instrumentos adequados à implementação de serviços partilhados nos domínios das relações internacionais, obras, aquisições, sistemas de informação e comunicações. Por outro lado, a execução do plano tecnológico do MAI e a implementação de programas transversais como o projecto SIRESP e a constituição da Rede Nacional de Segurança Interna dotam as forças de segurança de novos instrumentos de trabalho, desmaterializando actos e simplificando procedimentos através do uso de novas tecnologias de informação e comunicação. Através do esforço conjugado destas medidas estão criadas as condições necessárias para uma redução sem precedentes do peso da área administrativa ao longo da estrutura hierárquica da PSP e para o concomitante reforço dos recursos afectos à actividade operacional, não apenas através da libertação de efectivos para essas funções como através da modernização de instalações e equipamentos.
+
+Esta racionalização do modelo de organização está já suficientemente espelhada na nova Lei Orgânica da PSP, mas só com a definição e implementação da estrutura interna da unidade DNPSP e das unidades de polícia e respectivas subunidades se alcançarão integralmente os benefícios emergentes deste novo modelo.
+
+No respeito pelos princípios enunciados, a presente portaria tem por objecto definir a estrutura interna da unidade DNPSP e o respectivo quadro de pessoal dirigente.
+
+Assim, é significativamente reforçada a unidade orgânica de operações e segurança, que hoje dispõe de apenas quatro departamentos, criando-se os departamentos de investigação criminal e de segurança privada.
+
+As áreas abrangidas pelas unidades orgânicas de recursos humanos e de logística e finanças são revistas, quer nas suas competências quer nos seus departamentos. O Departamento de Apoio Geral, anteriormente integrado na área de recursos humanos, passou, por força da Lei n.º 53/2007, para a directa dependência do director nacional, sendo a unidade orgânica de recursos humanos constituída pelos Departamentos de Recursos Humanos, de Formação e de Saúde e Assistência na Doença, que vêem as suas competências revistas. Na área de logística e finanças, os actuais Departamentos de Obras e Infra-Estruturas, de Equipamentos e Fardamento, de Material e Transportes e de Gestão Financeira e Patrimonial são substituídos por apenas dois departamentos, o Departamento de Logística, que assegurará globalmente a aquisição, gestão e manutenção de bens e serviços que não se encontre cometida a serviços centrais do MAI, incluindo a gestão patrimonial, e o Departamento de Gestão Financeira, essencialmente vocacionado para a gestão orçamental e auditoria.
+
+Nos serviços directamente dependentes do director nacional, consagram-se apenas duas unidades nucleares, o já referido Departamento de Apoio Geral e o Gabinete de Assuntos Jurídicos. O primeiro passa a enquadrar administrativamente o pessoal e as instalações de toda a unidade DNPSP, dispondo, ainda, de uma unidade de serviços partilhados que garantirá o apoio administrativo em matéria de recursos humanos e contabilidade da Unidade Especial de Polícia e de quaisquer outras unidades em que tal lhe seja cometido. O Gabinete de Assuntos Jurídicos vê as suas competências acrescidas com a área da deontologia e disciplina.
+
+Em suma e não obstante o claro reforço da área de operações e segurança, a estrutura nuclear da unidade DNPSP prevê 13 cargos de direcção intermédia do 1.º grau, menos três do que na orgânica arquitectada pela Lei n.º 5/99, de 27 de Janeiro.
+
+Não são objecto da presente portaria, embora a consolidação da orgânica da PSP disso naturalmente não prescinda, a fixação do número máximo de unidades flexíveis da DNPSP e a definição da estrutura das demais unidades e subunidades da PSP e do respectivo comando, o que será regulado por portarias autónomas e completado pela efectiva criação e conformação das unidades flexíveis através de despacho do director nacional.
+
+Assim:
+
+Ao abrigo das disposições conjugadas dos artigos 32.º e 65.º da Lei n.º 53/2007, de 31 de Agosto, e 21.º, n.º 4, da Lei n.º 4/2004, de 15 de Janeiro:
+
+Manda o Governo, pelos Ministros de Estado e das Finanças e da Administração Interna, o seguinte:
+
+###### Artigo 1.º — Estrutura nuclear da Direcção Nacional da Polícia de Segurança Pública
+
+1 - A Direcção Nacional da Polícia de Segurança Pública (DNPSP) estrutura-se nas seguintes unidades nucleares:
+
+a) Departamento de Apoio Geral (DAG);
+
+b) Gabinete de Assuntos Jurídicos (GAJ);
+
+c) Departamento de Operações (DO);
+
+d) Departamento de Informações Policiais (DIP);
+
+e) Departamento de Investigação Criminal (DIC);
+
+f) Departamento de Armas e Explosivos (DAE);
+
+g) Departamento de Segurança Privada (DSP);
+
+h) Departamento de Sistemas de Informação e Comunicações (DSIC);
+
+i) (Revogada.)
+
+j) (Revogada.)
+
+k) Departamento de Recursos Humanos (DRH);
+
+l) Departamento de Formação (DF);
+
+m) Departamento de Saúde e Assistência na Doença (DSAD);
+
+n) Departamento de Logística (DL);
+
+o) Departamento de Infraestruturas (DIE);
+
+p) Departamento de Gestão Financeira (DGF).
+
+2 - A Unidade Nacional de Estrangeiros e Fronteiras (UNEF) compreende as seguintes unidades nucleares:
+
+a) Unidade Central de Gestão de Fronteiras (UCGF);
+
+b) Unidade Central de Retorno e Readmissão (UCRR);
+
+c) Unidade Central de Estrangeiros e Migrações (UCEM);
+
+d) Unidade Central de Segurança da Aviação Civil (UCSAC).
+
+3 - As unidades referidas nas alíneas a) e b) do n.º 1 dependem diretamente do diretor nacional.
+
+4 - As unidades referidas nas alíneas c) a h) do n.º 1 integram a unidade orgânica de operações e segurança.
+
+5 - A UNEF e respetivas unidades centrais integram a unidade orgânica de estrangeiros, fronteiras e segurança aeroportuária.
+
+6 - As unidades referidas nas alíneas k) a m) do n.º 1 integram a unidade orgânica de recursos humanos.
+
+7 - As unidades referidas nas alíneas n) a p) do n.º 1 integram a unidade orgânica de logística e finanças.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 303/2025/1 - Diário da República n.º 173/2025, Série I de 2025-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/303-2025-934502553), em vigor a partir de 2025-09-10
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-B/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-b-2023-224462297), em vigor a partir de 2023-11-18
+
+###### Artigo 1.º-A — Competências comuns das unidades nucleares
+
+Incumbe às unidades nucleares previstas no artigo anterior:
+
+a) Contribuir para a identificação da visão e dos eixos estratégicos da PSP;
+
+b) Colaborar na preparação do plano e relatório de atividades da PSP, no âmbito das respetivas áreas funcionais;
+
+c) Propor o estabelecimento de procedimentos internos que visem a implementação de boas práticas, de modo a assegurar a melhoria contínua na qualidade dos procedimentos;
+
+d) Prosseguir os fins e os objetivos consagrados no Plano de Prevenção de Riscos de Corrupção e Infrações Conexas;
+
+e) Contribuir para a simplificação, modernização e inovação administrativa;
+
+f) Constituir e manter atualizados os processos das respetivas áreas funcionais;
+
+g) Contribuir para a formação inicial, de atualização, de aperfeiçoamento e de especialização;
+
+h) Colaborar na elaboração da proposta de orçamento, do relatório de atividades e do balanço social, da PSP;
+
+i) Manter a permanente articulação com as unidades nucleares que prossigam atividades complementares;
+
+j) No âmbito da respetiva área funcional, contribuir para a atividade de cooperação policial internacional, desenvolvida pela PSP;
+
+k) Assegurar o cumprimento de outras atribuições que lhes sejam superiormente cometidas.
+
+> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 379-B/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-b-2023-224462297), em vigor a partir de 2023-11-18
+
+###### Artigo 2.º — Departamento de Apoio Geral
+
+1 - Ao DAG compete:
+
+a) O enquadramento administrativo, para efeitos operacionais e de disciplina, de todo o pessoal em serviço na unidade DNPSP;
+
+b) A receção, registo e expedição de toda a correspondência recebida na unidade DNPSP;
+
+c) A administração, segurança e proteção das instalações, equipamentos e demais materiais da unidade DNPSP;
+
+d) Prestar apoio administrativo à Unidade Especial de Polícia e a outras unidades da PSP, quando assim determinado;
+
+e) Assegurar o funcionamento da Biblioteca, do Arquivo Central, do Museu e da Banda da PSP;
+
+f) Elaborar e difundir, sempre que possível com recurso à via electrónica, as ordens de serviço da DNPSP;
+
+g) Estudar e apresentar medidas de simplificação e racionalização dos processos, procedimentos e circuitos administrativos com vista a uma maior eficácia na interacção com as demais unidades e serviços.
+
+2 - A unidade DNPSP é dirigida pelo director do DAG.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-B/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-b-2023-224462297), em vigor a partir de 2023-11-18
+
+###### Artigo 3.º — Gabinete de Assuntos Jurídicos
+
+Ao GAJ compete:
+
+a) Emitir pareceres, prestar informações e proceder a estudos sobre matérias de natureza jurídica;
+
+b) Assegurar o apoio técnico-jurídico à actividade operacional da PSP;
+
+c) Acompanhar processos e acções de natureza judicial em que a PSP tenha intervenção;
+
+d) (Revogada.)
+
+e) (Revogada.)
+
+f) (Revogada.)
+
+g) (Revogada.)
+
+h) Apoiar a inspecção e colaborar com os restantes serviços da PSP, no âmbito das suas competências.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-B/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-b-2023-224462297), em vigor a partir de 2023-11-18
+
+###### Artigo 4.º — Departamento de Operações
+
+Ao DO compete:
+
+a) Propor a doutrina e elaborar normas técnicas relativas à execução das tarefas policiais e aos métodos de trabalho e funcionamento dos meios operacionais da PSP, designadamente em matéria de:
+
+i) Segurança pública;
+
+ii) Policiamento e segurança de pessoas e bens nas áreas portuárias e ferroviárias;
+
+iii) Policiamento e segurança de pessoas e bens em infraestruturas críticas e pontos sensíveis;
+
+iv) Ordenamento e regulação do trânsito, fiscalização do cumprimento dos regulamentos de transportes terrestres e prevenção rodoviária;
+
+v) Proteção civil, ambiente e bem-estar animal;
+
+b) Elaborar o planeamento estratégico e operacional relativo às operações policiais de âmbito nacional, de grandes eventos e outras operações complexas, incluindo exercícios e simulacros;
+
+c) Emitir pareceres sobre assuntos de segurança pública que lhe sejam cometidos;
+
+d) Gerir as necessidades de reforço sazonais de meios policiais;
+
+e) Propor a implementação de medidas no âmbito de prevenção e resposta a situações de violência doméstica, de apoio a programas especiais de segurança de pessoas e bens, de proteção de menores e outros grupos sociais vulneráveis;
+
+f) Propor a implementação de medidas para reforço da segurança nos estabelecimentos de ensino;
+
+g) Proceder ao estudo e propor a reorganização do dispositivo territorial da PSP;
+
+h) (Revogada.)
+
+i) Elaborar os dados estatísticos relativos à actividade operacional e outros que lhe sejam cometidos;
+
+k) Proceder aos estudos técnicos relevantes para a atuação policial, nomeadamente nos domínios da prevenção, da visibilidade policial e da capacidade reativa;
+
+l) Coordenar a estrutura de comando e controlo operacional da PSP, designadamente o Centro de Comando e Controlo Estratégico e os Centros de Comando e Controlo Operacional;
+
+m) Promover a gestão integrada e otimizada dos meios técnicos existentes na PSP e produzir normas técnicas para a sua utilização.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-B/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-b-2023-224462297), em vigor a partir de 2023-11-18
+
+###### Artigo 5.º — Departamento de Informações Policiais
+
+Ao DIP compete:
+
+a) Proceder à recolha e processamento de notícias com interesse para a missão policial;
+
+b) Apoiar operacionalmente as unidades da PSP na recolha de dados e notícias necessários ao cumprimento das suas missões;
+
+c) Elaborar estudos criminológicos e relatórios analíticos de âmbito estratégico sobre criminalidade e delinquência na área de intervenção da PSP;
+
+d) Proceder à análise e avaliação de riscos específicos, associados ao cumprimento das missões da PSP;
+
+e) Definir e difundir as normas técnicas referentes à actividade de informações policiais e de segurança e de contra-informação;
+
+f) (Revogada.)
+
+g) Centralizar, partilhar e gerir a nível nacional a informação policial, assegurando a ligação permanente com entidades externas nesse domínio;
+
+h) Centralizar, gerir e partilhar a nível nacional as informações desportivas, assegurando o Ponto Nacional de Informações Desportivas, incluindo a centralização e controlo de todas as medidas de interdição de acessos a recintos desportivos aplicadas aos infratores por autoridades judiciárias e administrativas e difundir as mesmas ao dispositivo da PSP e às demais forças e serviços de segurança;
+
+i) Assegurar o ponto de contacto permanente para intercâmbio internacional de informações relativas aos fenómenos de violência associada ao desporto;
+
+j) Assegurar a organização e garantir o funcionamento da estrutura de segurança da PSP para a gestão da informação classificada;
+
+k) Colaborar com as entidades competentes na realização de estudos de segurança, no âmbito de projectos de concepção ou alteração de edifícios policiais;
+
+l) Promover estudos, auditorias e inspeções de segurança, em colaboração com outras entidades;
+
+m) Promover e orientar a realização das necessárias avaliações de segurança pessoais ou institucionais, por iniciativa dos serviços da PSP ou por solicitação de entidades externas;
+
+n) Realizar as adequadas averiguações de segurança em caso de quebra ou comprometimento de segurança da informação, nos termos da legislação em vigor;
+
+o) (Revogada.)
+
+p) (Revogada.)
+
+q) (Revogada.)
+
+r) (Revogada.)
+
+s) Efetuar inspeções e prestar assessoria técnica no âmbito da segurança eletrónica no cumprimento das missões da PSP.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-B/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-b-2023-224462297), em vigor a partir de 2023-11-18
+
+###### Artigo 6.º — Departamento de Investigação Criminal
+
+Ao DIC compete:
+
+a) Coordenar as vertentes processual e operacional da actividade da PSP;
+
+b) Apoiar tecnicamente, propondo e difundindo instruções, em especial relativamente a crimes de maior gravidade, complexidade ou dispersão territorial, que justifiquem a gestão concentrada da investigação;
+
+c) (Revogada.)
+
+d) Coordenar e gerir o fluxo de informações criminais e conexas, no âmbito da cooperação internacional, com todos os organismos, com especial enfoque no Ponto Único de Contacto para a Cooperação Policial Internacional e outras estruturas de cooperação onde a PSP esteja representada;
+
+e) Apoiar operacional e tecnicamente as unidades e subunidades de polícia no âmbito da utilização de meios especiais de investigação criminal;
+
+f) Gerir, coordenar e articular a utilização dos canais de cooperação e a troca de informação policial entre as subunidades;
+
+g) Representar a PSP nos pontos focais da Europol e noutros que venham a ser criados entre a PSP e organismos internacionais, em matéria de investigação criminal;
+
+h) Apoiar a prevenção, a deteção e a investigação de crimes relacionados com a utilização de meios informáticos, no âmbito das competências da PSP;
+
+i) Propor a doutrina e definir normas técnicas relativas à actividade de investigação criminal;
+
+j) Garantir o apoio às unidades e subunidades de polícia, ao nível da actividade de polícia técnica e do uso de meios centralizados;
+
+k) Assegurar a coordenação com outras entidades, designadamente em matéria de polícia científica.
+
+l) Estabelecer os mecanismos de coordenação interna em matéria de polícia técnica e ciência forense, o apoio logístico às unidades e subunidades e a informação externa a outros organismos e entidades.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-B/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-b-2023-224462297), em vigor a partir de 2023-11-18
+
+###### Artigo 7.º — Departamento de Armas e Explosivos
+
+Ao DAE compete:
+
+a) Licenciar, controlar e fiscalizar as atividades de fabrico, montagem, reparação, desativação, importação, exportação, transferência, armazenamento, circulação, comércio, aquisição, cedência, detenção, manifesto, guarda, segurança, uso e porte de armas, seus componentes e munições, de uso civil;
+
+b) Licenciar, controlar e fiscalizar as atividades de fabrico, armazenagem, comércio, importação, exportação, transferência, aquisição, transporte, emprego e eliminação de produtos explosivos, substâncias perigosas e precursores de explosivos;
+
+c) Realizar vistorias, exames, testes, perícias, perícias e exames forenses, desativação, certificação de desativação, reclassificação e marcação de armas, munições, produtos explosivos, matérias perigosas e precursores de explosivos, bem como exames periciais em estabelecimentos, veículos ou outros locais onde tenham ocorrido sinistros ou outros eventos em consequência das atividades previstas nas alíneas anteriores, sem prejuízo de outras intervenções determinadas por autoridade judiciária;
+
+d) Planear e realizar operações de prevenção criminal, detetar ilícitos, praticar atos cautelares necessários e urgentes para assegurar os meios de prova e proceder a ações, diligências e atos processuais no âmbito da investigação em matéria relativa ao fabrico, comércio e utilização de armas, munições, produtos explosivos, substâncias perigosas e precursores de explosivos, sem prejuízo da competência específica de outros órgãos de polícia criminal;
+
+e) Garantir a assessoria técnica e jurídica da PSP em matéria de armas, munições, produtos explosivos, matérias perigosas e precursores de explosivos, nomeadamente através da elaboração de pareceres jurídicos e informações sobre a interpretação e aplicação da legislação, regulamentos, normas técnicas e procedimentos administrativos, instruir processos de contraordenação e impugnações administrativas, bem como emitir normas de natureza funcional dirigidas aos serviços de fiscalização das unidades de polícia;
+
+f) Recolher, analisar e sistematizar informação relevante e elaborar relatórios ou outros instrumentos de apoio que permitam um efetivo controlo em matéria de armas, munições, produtos explosivos, substâncias perigosas e precursores de explosivos, bem como recolher, tratar e difundir legislação, jurisprudência, doutrina e outra informação de interesse para a atividade das unidades orgânicas flexíveis e das unidades de polícia;
+
+g) Gerir a utilização do Sistema de Informação e Gestão de Armas e Explosivos (SIGAE) e do Sistema de Gestão de Transporte de Armas, Munições e Explosivos (SIGESTAME), garantir e administrar o funcionamento do ponto focal de armas e explosivos e, no âmbito deste, garantir mecanismos de troca de informação, nacional e internacional, nesta matéria;
+
+h) Representar a PSP junto de organismos, nacionais ou internacionais, no âmbito da competência relativa a armas e explosivos, bem como participar em eventos subordinados a temáticas de relevante interesse para o serviço;
+
+i) Elaborar, coordenar e aplicar os exames para portadores de armas de fogo, atividade de armeiro e de operadores de explosivos;
+
+j) Organizar e manter permanentemente atualizado o cadastro de armas, bem como gerir e manter o depósito de armas, munições, produtos explosivos, substâncias perigosas e precursores de explosivos ou outros materiais apreendidos ou à ordem de processos administrativos ou judiciais.
+
+l) (Revogada.)
+
+m) (Revogada.)
+
+n) (Revogada.)
+
+o) (Revogada.)
+
+p) (Revogada.)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-B/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-b-2023-224462297), em vigor a partir de 2023-11-18
+
+###### Artigo 8.º — Departamento de Segurança Privada
+
+Ao DSP compete:
+
+a) Instruir os procedimentos de autorização;
+
+b) Proceder à emissão de alvarás, licenças e respectivos averbamentos e proceder às necessárias notificações;
+
+c) Proceder à emissão, renovação e controlo do cartão profissional destinado ao pessoal de segurança privada;
+
+d) Instruir os processos relativos aos modelos de uniforme sujeitos a aprovação;
+
+e) Promover a fixação de medidas e sistemas que permitam o controlo e coordenação permanente do exercício da actividade;
+
+f) Elaborar pareceres vinculativos previstos na legislação que estabelece o regime do exercício da atividade de segurança privada armada a bordo de navios que arvorem a bandeira portuguesa e que atravessem áreas de alto risco de pirataria;
+
+g) Realizar inspeções de verificação da conformidade dos requisitos das medidas de segurança das instalações e meios materiais das entidades que exerçam atividades relacionadas com o cultivo, fabrico, comércio por grosso, transporte, circulação, importação e exportação de medicamentos, preparações e substâncias à base da planta de canábis, e consequente emissão de certificado de inspeção;
+
+h) Emissão de certificados de responsável de segurança no âmbito do Decreto-Lei n.º 135/2014, de 8 de setembro, na sua redação atual e da Portaria n.º 83/2021, de 15 de abril;
+
+i) Manter atualizado o sistema integrado de informação das entidades que exerçam a atividade de segurança privada e da organização de serviços de autoproteção, bem como dos respetivos administradores, gerentes, responsáveis pelos serviços de autoproteção, diretores de segurança e pessoal de vigilância;
+
+j) Manter actualizado o sistema integrado de informação das entidades que exerçam a actividade de segurança privada, bem como dos respectivos administradores, gerentes, responsáveis pelos serviços de autoprotecção, directores de segurança e pessoal de vigilância;
+
+k) Fiscalizar a actividade de segurança privada, em cooperação com as demais forças e serviços de segurança e com a Inspecção-Geral da Administração Interna;
+
+l) Estabelecer e difundir as normas de conduta operacional e as normas técnicas de fiscalização;
+
+m) Instruir os processos de contra-ordenação relativos à actividade de segurança privada;
+
+n) Instruir processos relativos ao cancelamento de alvarás e licenças emitidos;
+
+o) Manter actualizado o registo das entidades às quais tenham sido aplicadas sanções por violação das normas reguladoras da actividade de segurança privada;
+
+p) (Revogada.)
+
+q) Proceder à análise dos relatórios anuais de atividades remetidos pelas empresas do setor;
+
+r) Proceder à análise e tratamento dos dados estatísticos relativos às empresas do sector e promover a sua divulgação;
+
+s) Prestar apoio técnico ao Conselho de Segurança Privada.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-B/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-b-2023-224462297), em vigor a partir de 2023-11-18
+
+###### Artigo 9.º — Departamento de Sistemas de Informação e Comunicações
+
+Ao DSIC compete:
+
+a) Emitir pareceres relativos aos procedimentos aquisitivos de equipamentos e sistemas de informação e comunicações;
+
+b) Garantir a segurança da informação e das comunicações, em especial no domínio da prevenção das ameaças cibernéticas;
+
+c) Apoiar os utilizadores dos sistemas instalados na PSP;
+
+d) (Revogada.)
+
+e) Assegurar o funcionamento do centro de comunicações da DNPSP;
+
+f) Administrar os sistemas integrados de informação e os produtos aplicacionais associados;
+
+g) Garantir o funcionamento, administrar as infraestruturas de rede e assegurar a manutenção dos equipamentos;
+
+h) Assegurar, no âmbito da PSP, o funcionamento interoperacional com a Rede Nacional de Segurança Interna (RNSI) e com o Sistema Integrado de Redes de Emergência e Segurança de Portugal (SIRESP), bem como o funcionamento de aplicações e sistemas específicos de segurança e de emergência, designadamente o 112;
+
+i) Elaborar, em colaboração com as demais unidades competentes, estudos de análise e de desenvolvimento de aplicações com vista à simplificação do tratamento da informação entre os serviços, assegurando igualmente a interoperabilidade com os demais sistemas de informação das forças e serviços de segurança.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-B/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-b-2023-224462297), em vigor a partir de 2023-11-18
+
+###### Artigo 9.º-A — Departamento de Segurança Aeroportuária
+
+Ao DSA compete:
+
+a) Propor orientações e elaborar normas técnicas relativas à execução das tarefas policiais, aos métodos de trabalho e funcionamento dos meios operacionais nas infraestruturas aeroportuárias sob responsabilidade da PSP, designadamente em matéria de:
+
+i) Policiamento, segurança de pessoas, bens e instalações;
+
+ii) Proteção e vigilância das fronteiras aéreas;
+
+iii) Resposta a incidentes tático-policiais, designadamente os que derivam da prática de atos de interferência ilícita contra a aviação civil;
+
+b) Coordenar a implementação do Programa Nacional de Segurança da Aviação Civil nos aeródromos nacionais implantados na área de competência territorial da PSP e nos aeroportos habilitados a processar voos internacionais de países terceiros;
+
+c) Contribuir para a implementação do Plano Nacional de Formação da Segurança da Aviação Civil e do Plano Nacional de Controlo da Qualidade da Aviação Civil;
+
+d) Colaborar na produção de estudos e emitir pareceres relativos ao planeamento de segurança de infraestruturas críticas do subsetor dos transportes aéreos;
+
+e) Integrar as equipas de auditoria, nacionais e internacionais, em matéria de formação e controlo de qualidade da segurança da aviação civil;
+
+f) Contribuir para o desenvolvimento e consolidação dos procedimentos técnico-policiais relativos à segurança em voo e à realização de escoltas de segurança em meio aéreo;
+
+g) Colaborar com entidades externas na identificação das necessidades de formação de segurança dos seus quadros no domínio da segurança da aviação civil;
+
+h) Garantir a coordenação com as entidades nacionais e internacionais relevantes em matéria de segurança da aviação civil;
+
+i) Representar a PSP nas diferentes estruturas nacionais de coordenação, designadamente na Comissão Nacional de Facilitação e Segurança, e internacionais, relacionados com a segurança da aviação civil, nomeadamente na AIRPOL.
+
+> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 303/2025/1 - Diário da República n.º 173/2025, Série I de 2025-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/303-2025-934502553), em vigor a partir de 2025-09-10
+
+> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 379-B/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-b-2023-224462297), em vigor a partir de 2023-11-18
+
+###### Artigo 9.º-B — Departamento de Gestão Integrada de Fronteiras
+
+Ao DGIF compete:
+
+a) Contribuir para a prossecução dos objetivos estabelecidos na Estratégia Europeia de Gestão Integrada de Fronteiras e na Estratégia Nacional de Gestão Integrada de Fronteiras;
+
+b) Propor orientações e elaborar normas técnicas com vista à uniformização de procedimentos policiais nos postos de fronteira sob a responsabilidade da PSP, bem como dos equipamentos necessários ao funcionamento dos mesmos;
+
+c) Coordenar a atividade de fiscalização, nomeadamente a realização dos controlos móveis e de operações conjuntas com forças e serviços de segurança nacionais e congéneres estrangeiros;
+
+d) Promover e coordenar a verificação do cumprimento do Regime Jurídico de Entrada, Permanência, Saída e Afastamento de Estrangeiros do Território Nacional, tendo por base a análise dos movimentos migratórios;
+
+e) Elaborar normas técnicas relativas ao funcionamento dos centros de instalação temporária, ou espaços equiparados;
+
+f) Desenvolver os procedimentos técnico-policiais relativos à realização de escoltas de segurança resultantes do cumprimento das decisões de afastamento coercivo e das decisões judiciais de expulsão de cidadãos estrangeiros e coordenar a sua execução;
+
+g) Centralizar a informação relativa ao afastamento coercivo, expulsão, readmissão e retorno voluntário de cidadãos estrangeiros;
+
+h) Assegurar a comunicação de dados relativos à parte nacional do Sistema de Informação Schengen (SIS) e, sem prejuízo das competências de outras entidades, de outros sistemas de informação comuns aos Estados-Membros da União Europeia no âmbito do controlo da circulação de pessoas, nomeadamente o Sistema de Informação de Vistos (VIS) e o Sistema de Informação Antecipada de Passageiros (APIS);
+
+i) Atualizar e divulgar a informação técnica referente à participação de Portugal na União Europeia e em organizações internacionais, no âmbito das suas competências, bem como participar na definição de prioridades para a implementação do modelo europeu de gestão integrada de fronteiras, sem prejuízo das competências atribuídas a outras entidades;
+
+j) Elaborar e disponibilizar análises de risco, de nível estratégico e operacional, através do Centro de Situação de Fronteiras Aéreas em coordenação com as estruturas responsáveis pela análise de risco no âmbito do controlo fronteiriço;
+
+k) Assegurar o contributo da PSP na atualização do quadro de situação nacional relativo à imigração;
+
+l) Elaborar alertas e proceder à gestão de incidentes relacionados com a imigração irregular;
+
+m) Recolher e tratar a informação relativa à atividade da PSP em matéria de estrangeiros e fronteiras, produzir relatórios periódicos e difundir a informação relevante nessa matéria;
+
+n) Assegurar o planeamento e a execução da assistência técnica necessária ao correto funcionamento dos Centros de Cooperação Policial e Aduaneira (CPPA);
+
+o) Assegurar apoio técnico aos guardas de fronteira, nomeadamente através da ferramenta aplicacional «Portal das Fronteiras»;
+
+p) Coordenar, no âmbito das atribuições da PSP, o intercâmbio das informações relacionadas com a entrada, permanência e saída de estrangeiros do território nacional, procedendo à análise de risco, estratégica e operacional;
+
+q) Realizar peritagens documentais de documentos de viagem;
+
+r) Integrar as equipas de auditoria, nacionais e internacionais, em matéria de segurança e controlo fronteiriço;
+
+s) Assegurar a ligação da PSP com os organismos de cooperação policial nacional e internacional ligados à gestão integrada de fronteiras;
+
+t) Coordenar a participação da PSP nas operações da Agência Europeia da Guarda de Fronteiras e Costeira (FRONTEX).
+
+> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 303/2025/1 - Diário da República n.º 173/2025, Série I de 2025-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/303-2025-934502553), em vigor a partir de 2025-09-10
+
+> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 379-B/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-b-2023-224462297), em vigor a partir de 2023-11-18
+
+###### Artigo 10.º — Departamento de Recursos Humanos
+
+Ao DRH compete:
+
+a) O planeamento, recrutamento, organização e gestão dos recursos humanos;
+
+b) Propor as normas relativas à colocação e transferência de recursos humanos e assegurar a sua aplicação uniforme em todas as unidades e subunidades de polícia;
+
+c) Elaborar estudos, inquéritos e outros trabalhos tendentes à definição e desenvolvimento da política de recursos humanos;
+
+d) Assegurar toda a actividade administrativa relativa à gestão do pessoal da PSP que não se encontre cometida a serviços partilhados do MAI, designadamente:
+
+i) O registo biográfico do pessoal;
+
+ii) O registo de assiduidade;
+
+iii) O processamento de remunerações, férias, faltas e licenças;
+
+iv) A elaboração das listas anuais de antiguidade;
+
+v) A instrução dos processos de avaliação;
+
+vi) A emissão de documentos de identificação e de quaisquer certidões requeridas pelo pessoal;
+
+e) Elaborar o balanço social.
+
+###### Artigo 11.º — Departamento de Formação
+
+Ao DF compete:
+
+a) Elaborar o plano de formação;
+
+b) Gerir e coordenar todas as etapas do ciclo de formação, com excepção da formação inicial, nomeadamente planeamento, programação, organização, acompanhamento, avaliação e controlo;
+
+c) Conceber e desenvolver conteúdos formativos para plataformas digitais no âmbito da PSP e do MAI;
+
+d) Colaborar na elaboração e reestruturação dos diversos cursos de formação ministrados nos estabelecimentos de ensino da PSP;
+
+e) Gerir ou coordenar a realização de quaisquer acções de formação externas, em território nacional ou no estrangeiro;
+
+f) Certificar ou reconhecer todas as acções de formação internas ou externas;
+
+g) Coordenar a actividade desportiva realizada na PSP.
+
+###### Artigo 12.º — Departamento de Saúde e Assistência na Doença
+
+Ao DSAD compete:
+
+a) Propor e implementar medidas adequadas à prevenção de acidentes de trabalho e de prevenção e rastreio de doenças potenciadas pela actividade policial;
+
+b) Propor e desenvolver a aplicação de medidas de saúde individuais e dos princípios e práticas da medicina do trabalho;
+
+c) Organizar, implementar e controlar o sistema de assistência na doença, exercendo as competências previstas na lei no que respeita ao pessoal ao serviço da PSP;
+
+d) Administrar as receitas decorrentes do desconto obrigatório para assistência na doença e propor as medidas adequadas à utilização dos recursos que lhe são atribuídos, de forma a prosseguir os seus fins dentro dos princípios de uma gestão por objectivos;
+
+e) Propor a celebração dos acordos, convenções, contratos e protocolos que interessem ao desempenho da sua missão e acompanhar o rigoroso cumprimento dos mesmos;
+
+f) Constituir uma bolsa de ofertas para celebração de novas convenções e analisar as candidaturas dos oferentes;
+
+g) Promover e manter actualizado o registo da situação de beneficiário;
+
+h) Gerir os benefícios a aplicar no domínio da assistência na doença, designadamente:
+
+i) Processar e conferir a facturação relativa a cuidados de saúde prestados;
+
+ii) Processar as comparticipações a pagar aos beneficiários;
+
+iii) Desenvolver os mecanismos de controlo inerentes à atribuição de benefícios;
+
+iv) Notificar os beneficiários que devam repor valores indevidamente despendidos e emitir as certidões para cobrança coerciva quando não haja reposição voluntária;
+
+i) Estudar a evolução e a caracterização do universo dos beneficiários, elaborar estatísticas relativas à assistência prestada na doença, bem como relatórios das acções desenvolvidas e respectivos encargos;
+
+j) Estudar as modalidades de prestação de serviço dos técnicos de saúde e propor a sua contratação;
+
+l) Definir as especificações dos equipamentos, materiais e medicamentos a adquirir;
+
+m) Dar apoio técnico e administrativo à Junta Superior de Saúde.
+
+###### Artigo 13.º — Departamento de Logística
+
+Ao DL compete:
+
+a) Elaborar estudos e apresentar propostas no âmbito das políticas de aquisição e gestão de viaturas e equipamentos;
+
+b) Elaborar, em articulação com o DGF, um manual de procedimentos que estabeleça práticas uniformes no âmbito da formação e execução de contratos de aquisição e locação de bens e serviços;
+
+c) (Revogada.)
+
+d) Planear as necessidades, promover a aquisição e a distribuição de fardamento, viaturas e respectivo material acessório, armamento e material técnico e demais equipamentos necessários à actividade da PSP;
+
+e) (Revogada.)
+
+f) Promover e organizar os procedimentos para a aquisição de bens e serviços, manutenção e conservação de instalações, privilegiando a centralização das compras em articulação com a Unidade Ministerial de Compras do MAI;
+
+g) Acompanhar a execução dos contratos de aquisição e locação de bens e serviços;
+
+h) Propor práticas e procedimentos que promovam a gestão partilhada de recursos de forma a reduzir a despesa e assegurar uma maior eficiência ambiental na aquisição de bens e serviços.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-B/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-b-2023-224462297), em vigor a partir de 2023-11-18
+
+###### Artigo 13.º-A — Departamento de Infraestruturas
+
+Ao DIE compete:
+
+a) Assegurar a gestão do património imobiliário da PSP, incluindo o respetivo inventário e cadastro nas plataformas eletrónicas associadas;
+
+b) Elaborar estudos e apresentar propostas e planos de investimento, no âmbito das políticas de aquisição e manutenção de instalações, incluindo os centros de instalação temporária e espaços equiparados instalados na sua área de jurisdição;
+
+c) Promover e organizar os procedimentos para a aquisição, manutenção e conservação de instalações;
+
+d) Planear, acompanhar e fiscalizar as obras de manutenção, conservação, reabilitação e adaptação e construção de novas instalações, em cooperação com a Secretaria-Geral do Ministério da Administração Interna;
+
+e) Assegurar e controlar a execução dos contratos de manutenção associados às instalações policiais e respetivas infraestruturas e equipamentos;
+
+f) Promover e apoiar a implementação dos programas de eficiência de recursos na administração pública nas instalações, assumindo as funções de gestor de energia de recursos (GER) da PSP;
+
+g) Assegurar e gerir a responsabilidade técnica da exploração das instalações elétricas em instalações perante a Direção-Geral de Energia e Geologia.
+
+> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 379-B/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-b-2023-224462297), em vigor a partir de 2023-11-18
+
+###### Artigo 14.º — Departamento de Gestão Financeira
+
+Ao DGF compete:
+
+a) Assegurar a gestão orçamental da PSP elaborando as propostas de orçamento e acompanhando a respectiva execução;
+
+b) Assegurar a normalização de procedimentos de âmbito financeiro na PSP, designadamente elaborando e propondo instruções adequadas;
+
+c) Elaborar os instrumentos necessários ao acompanhamento da gestão orçamental e à prestação de contas junto das entidades competentes de acordo com as regras da contabilidade pública;
+
+d) Preparar os pedidos de libertação de créditos por conta das dotações inscritas nos orçamentos da PSP;
+
+e) Verificar a classificação e cobertura orçamental nos processos de realização de despesa, informando no que respeita ao cabimento de verba;
+
+f) Promover a constituição, reconstituição e liquidação de fundos de maneio da PSP;
+
+g) Processar, liquidar e pagar as despesas autorizadas e assegurar a arrecadação de receitas da PSP, organizando e mantendo actualizada a respectiva informação contabilística;
+
+h) Elaborar a conta de gerência da PSP;
+
+i) Auditar os procedimentos e a gestão financeira das unidades da PSP, sem prejuízo das competências próprias da inspecção;
+
+j) Definir práticas uniformes de gestão financeira e sistemas de avaliação prévia e sucessiva da despesa;
+
+l) Elaborar estudos e fazer recomendações para a racionalização e optimização dos recursos financeiros disponíveis;
+
+m) Promover a difusão de documentação e informação técnica no âmbito das suas competências.
+
+###### Artigo 14.º-A — Competências transversais da UNEF
+
+1 - No âmbito das competências previstas no artigo 3.º da Lei n.º 55-C/2025, de 22 de julho, as competências transversais são coordenadas pelo subdiretor da unidade orgânica de estrangeiros, fronteiras e segurança aeroportuária.
+
+2 - São competências transversais:
+
+a) Participar na representação nacional junto das instituições internacionais e da União Europeia em matéria de fronteiras aeroportuárias, estrangeiros, readmissão e retorno, e atuar como ponto de contacto nas matérias relacionadas com as atribuições da PSP;
+
+b) Participar na definição de prioridades para a implementação do modelo europeu de gestão integrada de fronteiras, sem prejuízo das competências atribuídas a outras entidades;
+
+c) Coordenar a formação certificada na PSP no âmbito de estrangeiros e fronteiras;
+
+d) Assegurar a necessária articulação com a Direção-Geral dos Assuntos Consulares e das Comunidades Portuguesas, no âmbito da colocação de oficiais de ligação das forças de segurança em postos consulares com elevado grau de risco, em conformidade com o disposto no Decreto-Lei n.º 139/94, de 23 de maio;
+
+e) Exercer as demais atribuições que lhe sejam cometidas.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 303/2025/1 - Diário da República n.º 173/2025, Série I de 2025-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/303-2025-934502553), em vigor a partir de 2025-09-10
+
+###### Artigo 14.º-B — Unidade Central de Gestão de Fronteiras
+
+À UCGF compete:
+
+a) Vigiar, fiscalizar e controlar as fronteiras aeroportuárias, assim como a circulação de pessoas nestes postos de fronteira;
+
+b) Atribuir vistos nas fronteiras aeroportuárias, nos termos da lei;
+
+c) Assegurar, em articulação com a Unidade de Coordenação de Fronteiras e Estrangeiros (UCFE), a aplicação uniforme de normas técnicas e procedimentos nos postos de fronteira aeroportuários, e a gestão dos equipamentos necessários ao funcionamento dos mesmos;
+
+d) Coordenar, sem prejuízo das competências da Guarda Nacional Republicana (GNR), com o Centro de Operações Marítimas (COMAR), designadamente no atinente às operações de busca e salvamento, o intercâmbio das informações relacionadas com a entrada, permanência e saída do território nacional, procedendo à análise de risco no âmbito das suas competências;
+
+e) Coordenar os elementos de ligação de fronteiras aeroportuárias no contexto de operações de embarque aéreo destinado às fronteiras aeroportuárias portuguesas;
+
+f) Promover a qualidade no controlo de fronteiras aeroportuárias e assegurar a partilha de boas práticas e lições aprendidas.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 303/2025/1 - Diário da República n.º 173/2025, Série I de 2025-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/303-2025-934502553), em vigor a partir de 2025-09-10
+
+###### Artigo 14.º-C — Unidade Central de Retorno e Readmissão
+
+À UCRR compete:
+
+a) Instruir e gerir os processos de afastamento coercivo, expulsão, readmissão e retorno voluntário de cidadãos estrangeiros, bem como elaborar normas técnicas com vista à uniformização de procedimentos;
+
+b) Registar e atualizar informação de natureza policial, criminal e relativa ao afastamento coercivo, expulsão, readmissão e retorno voluntário de cidadãos estrangeiros nas fronteiras aeroportuárias, bem como elaborar normas técnicas com vista à uniformização de procedimentos, no âmbito das competências da PSP;
+
+c) Executar as decisões prévias de afastamento coercivo emitidas pela entidade competente e as decisões judiciais de expulsão de cidadãos estrangeiros a concretizar por via aérea;
+
+d) Assegurar a execução dos processos de afastamento coercivo, expulsão, readmissão e retorno voluntário, a concretizar por via aérea;
+
+e) Gerir os centros de instalação temporária e os espaços equiparados;
+
+f) Assegurar a informação legal à Inspeção-Geral da Administração Interna, no quadro da monitorização de regressos forçados, nos termos do disposto na alínea l) do n.º 2 do artigo 2.º do Decreto-Lei n.º 22/2021, de 15 de março.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 303/2025/1 - Diário da República n.º 173/2025, Série I de 2025-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/303-2025-934502553), em vigor a partir de 2025-09-10
+
+###### Artigo 14.º-D — Unidade Central de Estrangeiros e Migrações
+
+À UCEM compete:
+
+a) Fiscalizar a permanência de cidadãos estrangeiros em território nacional, na área de jurisdição da PSP;
+
+b) Instruir os processos de contraordenação relativos às infrações em matérias que recaem sob a sua competência no âmbito do regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional;
+
+c) Promover, na área de jurisdição da PSP, a realização de operações conjuntas com serviços ou forças de segurança congéneres, nacionais ou estrangeiros;
+
+d) Contribuir para a recolha de informação relativa a ilícitos criminais no âmbito do regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional, sem prejuízo das competências previstas no artigo 188.º da Lei n.º 23/2007, de 4 de julho.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 303/2025/1 - Diário da República n.º 173/2025, Série I de 2025-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/303-2025-934502553), em vigor a partir de 2025-09-10
+
+###### Artigo 14.º-E — Unidade Central de Segurança da Aviação Civil
+
+À UCSAC compete:
+
+a) Assegurar a segurança de pessoas e bens, o policiamento, a manutenção da ordem pública e a resolução de incidentes tático-policiais nos aeroportos integrados na fronteira aeroportuária e nos aeródromos na sua área de jurisdição;
+
+b) Emitir, quando solicitados, pareceres relativos à segurança de aeroportos e aeródromos;
+
+c) Produzir e colaborar na elaboração de estudos e auditorias à segurança de aeroportos e aeródromos;
+
+d) Assegurar a cooperação internacional em matéria de segurança aeroportuária.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 303/2025/1 - Diário da República n.º 173/2025, Série I de 2025-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/303-2025-934502553), em vigor a partir de 2025-09-10
+
+###### Artigo 15.º — Pessoal dirigente
+
+1 - As unidades nucleares criadas pela presente portaria são dirigidas por um director, cargo de direcção intermédia do 1.º grau.
+
+2 - O subdiretor da unidade orgânica de estrangeiros, fronteiras e segurança aeroportuária e os diretores das unidades centrais da UNEF são recrutados e equiparados, nos termos previstos no n.º 2 do artigo 4.º e no n.º 3 do artigo 5.º da Lei n.º 55-C/2025, de 22 de julho, respetivamente.
+
+3 - O quadro de pessoal dirigente da DNPSP é o constante do mapa anexo à presente portaria, do qual faz parte integrante.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 303/2025/1 - Diário da República n.º 173/2025, Série I de 2025-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/303-2025-934502553), em vigor a partir de 2025-09-10
+
+###### Artigo 16.º — Início de vigência
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 6 de Maio de 2008. - O Ministro da Administração Interna, Rui Carlos Pereira, em 3 de Abril de 2008.
+
+## Anexo — Quadro de cargos dirigentes
+
+(a que se refere o artigo 15.º)
+
+| Pessoal dirigente | Número de lugares |
+| --- | --- |
+| Diretor nacional | 1 |
+| Diretor nacional-adjunto | 4 |
+| Inspetor nacional | 1 |
+| Subdiretor da UO-EFSA | 1 |
+| Cargos de direção intermédia de 1.º grau | 19 |
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 303/2025/1 - Diário da República n.º 173/2025, Série I de 2025-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/303-2025-934502553), em vigor a partir de 2025-09-10
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 379-B/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-b-2023-224462297), em vigor a partir de 2023-11-18

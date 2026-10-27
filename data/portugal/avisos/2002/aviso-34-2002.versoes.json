@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:303389:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2002-999533061",
+ "dre_path": "/dr/detalhe/aviso/34-2002-303389",
+ "source_lastmod": "2026-06-19",
+ "versions": [
+  {
+   "date": "2002-04-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1134016975",
+    "1000316775"
+   ]
+  }
+ ],
+ "fragments": {
+  "1134016975": {
+   "fragment_id": "1000316475",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por ordem superior se torna público que, em 25 de Maio de 2001 e em 11 de Março de 2002, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros da Ucrânia e pelo Ministério dos Negócios Estrangeiros português, em que se comunica terem sido cumpridas as formalidades constitucionais internas, por parte de ambos os países, de aprovação da Convenção entre a República Portuguesa e a Ucrânia para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento e o Capital, assinada em Lisboa em 9 de Fevereiro de 2000.\n\nA citada Convenção foi aprovada pela Resolução da Assembleia da República n.º 15/2002 e ratificada pelo Decreto do Presidente da República n.º 13/2002, publicados no Diário da República, 1.ª série-A, n.º 57, de 8 de Março de 2002.\n\nNos termos do artigo 29.º da Convenção, esta entrou em vigor em 11 de Março de 2002."
+  },
+  "1000316775": {
+   "fragment_id": "1000316675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Direcção-Geral das Relações Bilaterais, 14 de Março de 2002. - O Director-Geral, José Caetano de Campos de Andrada da Costa Pereira."
+  }
+ }
+}

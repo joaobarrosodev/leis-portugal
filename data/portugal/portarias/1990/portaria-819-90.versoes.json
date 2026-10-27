@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:557865:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1990-169773202",
+ "dre_path": "/dr/detalhe/portaria/819-1990-557865",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1990-09-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "169773368"
+   ]
+  },
+  {
+   "date": "1997-06-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:164040:por",
+     "title": "Portaria n.º 416/97",
+     "published": "1997-06-24",
+     "dre_path": "/dr/detalhe/portaria/416-1997-164040"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "169773368",
+    "169773366"
+   ]
+  }
+ ],
+ "fragments": {
+  "169773368": {
+   "fragment_id": "169773203",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1997-06-29",
+   "changed_by": [],
+   "markdown": "Portaria n.º 819/90\n\nde 11 de Setembro\n\nSob proposta das comissões instaladoras do Instituto Politécnico de Viana do Castelo e da sua Escola Superior Agrária de Ponte de Lima;\n\nAo abrigo do disposto no capítulo III do Decreto-Lei n.º 316/83, de 2 de Julho;\n\nTendo em vista a Portaria n.º 516/90, de 6 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nÂmbito\n\nA presente portaria regulamenta o curso de bacharelato em Agricultura criado pela Portaria n.º 516/90, de 6 de Julho, na Escola Superior Agrária de Ponte de Lima, do Instituto Politécnico de Viana do Castelo.\n\n2.º\n\nPlano de estudos\n\nO plano de estudos do curso de bacharelato a que se refere o n.º 1.º é o constante do anexo à presente portaria.\n\n3.º\n\nDisciplinas de opção\n\n1 - O número mínimo de alunos necessário ao funcionamento de cada disciplina que integra o plano de estudos como disciplina de opção é de 10.\n\n2 - Exceptuam-se do disposto no n.º 1 os casos em que o docente assegure a docência da disciplina para além do número máximo de horas a que é obrigado por lei.\n\n3 - O regime do presente número aplica-se igualmente aos conjuntos de disciplinas inscritos em alternativa no plano de estudos, sem prejuízo de ser assegurado sempre o funcionamento de um deles.\n\n4.º\n\nEstágios\n\n1 - O estágio que integra o plano de estudos do curso tem uma duração não inferior a 26 semanas.\n\n2 - O estágio tem como objectivo a aproximação do estudante à realidade da sua futura actividade profissional.\n\n3 - O regulamento do estágio é fixado pelo órgão legal e estatutariamente competente da Escola.\n\n5.º\n\nCondições para a obtenção do grau\n\nSão condições para a obtenção do grau de bacharel, cumulativamente:\n\na) A aprovação na totalidade das disciplinas que integram o respectivo plano de estudos;\n\nb) A aprovação nos estágios a que se refere o n.º 4.º\n\n6.º\n\nClassificação final\n\n1 - A classificação final é a média aritmética ponderada, arredondada às unidades (considerando-se como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas que integram o plano de estudos e dos estágios a que se referem os n.os 2.º e 4.º\n\n2 - Os coeficientes de ponderação são fixados pelo conselho científico.\n\n7.º\n\nEntrada em funcionamento\n\nO curso entra em funcionamento progressivamente, um ano curricular em cada ano lectivo, a partir do ano lectivo de 1990-1991.\n\nMinistério da Educação."
+  },
+  "169773366": {
+   "fragment_id": "169773204",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinada em 7 de Agosto de 1990.\n\nPelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.\n\n(ver documento original)"
+  }
+ }
+}

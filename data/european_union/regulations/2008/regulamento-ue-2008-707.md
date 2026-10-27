@@ -1,0 +1,380 @@
+---
+schema_version: '1.0'
+id: eu:celex:32008R0707:por
+title: Regulamento (CE) n. o 707/2008 da Comissão, de 24 de Julho de 2008
+short_title: null
+summary: Regulamento (CE) n. o 707/2008 da Comissão, de 24 de Julho de 2008 , que altera o Regulamento (CE) n. o 952/2006
+  que estabelece normas de execução do Regulamento (CE) n. o 318/2006 do Conselho no que diz respeito à gestão do mercado
+  interno do açúcar e ao regime de quotas
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 2008/707
+official_date: null
+publication_date: '2008-07-25'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 197 de 25.7.2008
+  number: '197'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.01/DOC_1
+entry_into_force_dates:
+- '2008-08-01'
+- '2008-10-01'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32008R0707
+  eli: http://data.europa.eu/eli/reg/2008/707/oj
+  oj: oj:JOL_2008_197_R_0004_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32008R0707:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32008R0707
+  metadata_url: http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018
+  content_url: http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-26T12:07:56Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-10-29T17:50:37.187+01:00'
+integrity:
+  source_sha256: cc1f94cc0f52c1be71e5b43475ddc7d26eda9a713951942a25d0b9073c7ddf10
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T12:07:56Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- adjudicação por contrato
+- existências privadas
+- indústria do açúcar
+- organização comum de mercado
+- política de preços
+- quota de produção
+- regulamentação da produção agrícola
+relationships:
+- type: amends
+  target: celex:32006R0952
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ca2b025d-fc25-4c30-8273-01e951b46f0c
+  date: '2006-07-04'
+- type: based_on
+  target: celex:32007R1234
+  label: null
+  source: http://publications.europa.eu/resource/cellar/cdc39167-df71-40ca-a817-12537381ae5e
+  date: '2007-11-16'
+- type: based_on
+  target: celex:32006R0318
+  label: null
+  source: http://publications.europa.eu/resource/cellar/dc291249-59ed-4628-ab6a-065770a2f23c
+  date: '2010-03-08'
+- type: cites
+  target: celex:31985R2220
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4d873b18-c927-4cf0-a3b2-50e3a10ccab6
+- type: cites
+  target: celex:32007R1260
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3d109f40-2c16-4a2d-91d3-982224d1aea0
+- type: corrected_by
+  target: celex:32008R0707R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/be2721d8-184d-11e2-8e28-01aa75ed71a1
+  date: '2012-10-17'
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T12:07:56Z'
+  warnings:
+  - Versão consolidada 02008R0707-20080801 indisponível (Sem expressão na língua por para CELEX 02008R0707-20080801.); usado
+    o texto do JO.
+  errors: []
+---
+
+# REGULAMENTO (CE) N.º 707/2008 DA COMISSÃO
+
+de 24 de Julho de 2008
+
+que altera o Regulamento (CE) n.º 952/2006 que estabelece normas de execução do Regulamento (CE) n.º 318/2006 do Conselho no que diz respeito à gestão do mercado interno do açúcar e ao regime de quotas
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia,
+
+Tendo em conta o Regulamento (CE) n.º 318/2006 do Conselho, de 20 de Fevereiro de 2006, que estabelece a organização comum de mercado no sector do açúcar [([^1])](http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1#ntr1-L_2008197PT.01000401-E0001), nomeadamente o artigo 40.º,
+
+Tendo em conta o Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de Outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única») [([^2])](http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1#ntr2-L_2008197PT.01000401-E0002), nomeadamente o n.º 1 do artigo 50.º, em conjugação com o artigo 4.º,
+
+Considerando o seguinte:
+
+(1) Pode dar-se o caso de um açúcar branco produzido por uma empresa numa campanha de comercialização ser transformado em açúcar branco com requisitos específicos. Em conformidade com o artigo 3.º do Regulamento (CE) n.º 952/2006 da Comissão [([^3])](http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1#ntr3-L_2008197PT.01000401-E0003), a produção de açúcar é expressa pela quantidade total de açúcar branco produzida por uma empresa numa campanha de comercialização. Para evitar duplicações contabilísticas, importa excluir dessa produção o açúcar branco resultante da transformação de outro açúcar branco.
+
+(2) O n.º 3 do artigo 3.º do Regulamento (CE) n.º 952/2006 estabelece dois métodos de determinação do teor de açúcar dos xaropes, consoante se trate de xaropes que devam ou não ser considerados produtos intermédios. Dado que um dos métodos se tornou obsoleto, há que simplificar as disposições em causa, fazendo referência apenas ao outro método, que se baseia no teor de açúcar extraível. Todavia, no caso específico dos xaropes de açúcar invertido, deve ser adoptada a cromatografia líquida de alta eficiência, único método possível do ponto de vista técnico. Finalmente, o progresso técnico recomenda que apenas o método refractométrico seja referido para a determinação do teor de matéria seca. Para que as expectativas legítimas dos produtores de açúcar sejam respeitadas, estas alterações devem aplicar-se a partir de 1 de Outubro de 2008.
+
+(3) O n.º 3 do artigo 6.º do Regulamento (CE) n.º 952/2006 define em que circunstâncias a produção encomendada por uma empresa a outra empresa pode ser considerada produção da primeira para os efeitos da organização comum de mercado no sector do açúcar. Em determinadas condições, essa produção é considerada produção do comitente, estabelecendo uma delas que a produção total de açúcar do transformador e do comitente seja superior à soma das quotas de ambos. Essa condição foi adaptada em função da retirada preventiva decidida para a campanha de comercialização de 2006/2007, passando a referir-se já não à soma das quotas do transformador e do comitente, mas à soma dos limiares de retirada preventiva para eles fixados. O Regulamento (CE) n.º 290/2007 da Comissão, de 16 de Março de 2007, que fixa, para a campanha de comercialização de 2007/2008, a percentagem referida no artigo 19.º do Regulamento (CE) n.º 318/2006 [([^4])](http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1#ntr4-L_2008197PT.01000401-E0004) introduziu um limiar de retirada preventiva para a campanha de comercialização de 2007/2008. O Regulamento (CE) n.º 1260/2007 do Conselho [([^5])](http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1#ntr5-L_2008197PT.01000401-E0005), que alterou o Regulamento (CE) n.º 318/2006, estabelece que a Comissão pode tomar todos os anos uma decisão sobre um eventual limiar de retirada preventiva. É, portanto, necessário alterar a condição relativa à encomenda de produção a outra empresa, constante do n.º 3, alínea b), do artigo 6.º do Regulamento (CE) n.º 952/2006, de modo a que passe a referir-se à soma dos limiares de retirada preventiva do transformador e do comitente, em vez da soma das quotas.
+
+(4) Para assegurar um controlo eficaz, importa prever a assistência mútua dos Estados-Membros.
+
+(5) A partir de 1 de Outubro de 2009, aumentarão gradualmente as importações para a Comunidade de açúcar dos países de África, das Caraíbas e do Pacífico, assim como dos países menos desenvolvidos, no âmbito de regimes preferenciais. Prevê-se que, em 2012, essas importações representem mais de 25 % do consumo de açúcar da Comunidade. O sistema de informação de preços deve, portanto, incluir os preços e quantidades do açúcar bruto e do açúcar branco importados desses países, que se encontram disponíveis na base de dados do Serviço de Estatística das Comunidades Europeias.
+
+(6) A título transitório, os operadores aprovados têm vindo a transmitir trimestralmente à Comissão os preços do açúcar destinados ao sistema de registo de preços. Dispõe-se já de um sistema informatizado de transmissão definitivo. Esse sistema permitirá que os operadores aprovados transmitam mensalmente os preços ao Estado-Membro e que cada Estado-Membro transmita subsequentemente os preços médios nacionais à Comissão. As disposições relativas ao sistema transitório devem ser substituídas por disposições respeitantes ao sistema definitivo.
+
+(7) O Regulamento (CE) n.º 1234/2007 substituirá o Regulamento (CE) n.º 318/2006 a partir de 1 de Outubro de 2008. Em vez de prever que o anexo II, relativo às condições de compra da beterraba, do Regulamento (CE) n.º 318/2006 seja retomado no Regulamento «OCM única», o artigo 50.º do Regulamento (CE) n.º 1234/2007 prevê que a Comissão estabeleça regras de execução sobre essa matéria. As regras actualmente constantes do anexo II do Regulamento (CE) n.º 318/2006 devem, portanto, ser incorporadas no Regulamento (CE) n.º 952/2006.
+
+(8) As existências comunitárias no final de cada campanha de comercialização são importantes para se avaliar a situação do mercado açucareiro com vista a eventuais decisões de gestão do mercado, nomeadamente sobre retiradas. Em algumas fábricas, o fabrico de açúcar para a nova campanha de comercialização inicia-se no Verão e a nova produção faz aumentar as existências finais mensais dos fabricantes de açúcar. Para se poder conhecer com exactidão as existências comunitárias no final da campanha de comercialização, é necessário que os fabricantes de açúcar aprovados e os Estados-Membros comuniquem que parte das suas existências finais nos meses de Julho, Agosto e Setembro corresponde à produção da campanha de comercialização seguinte.
+
+(9) O n.º 1 do artigo 18.º do Regulamento (CE) n.º 318/2006 prevê a possibilidade de, com base nas tendências dos preços de mercado transmitidas pelos preços de mercado registados, ser concedida uma ajuda à armazenagem privada de açúcar branco aos fabricantes de açúcar que sejam titulares de uma quota de açúcar. Para que esse regime de ajudas possa ser aplicado com rapidez quando se justificar, devem incorporar-se no Regulamento (CE) n.º 952/2006 regras de execução relativas à aplicação do regime de armazenagem privada na campanha de comercialização de 2007/2008.
+
+(10) Para que os recursos disponíveis sejam utilizados da melhor forma possível e a fim de aumentar a transparência e a concorrência entre fabricantes, a ajuda à armazenagem privada de açúcar branco deve ser determinada por concurso.
+
+(11) O período de armazenagem obrigatório termina em 31 de Outubro de 2008. A fim de evitar a concessão de ajudas para períodos de armazenagem inferiores a três meses, considerados insuficientes para influenciarem os preços de mercado, não devem, portanto, ser apresentadas propostas após 31 de Julho de 2008.
+
+(12) Deve ser aberto um procedimento de concurso quando o preço médio do açúcar branco a nível comunitário for inferior ao preço de referência e for provável que se mantenha a esse nível. Há que determinar um limiar de preço de mercado abaixo do qual se considere que se tornou necessária uma ajuda à armazenagem privada. O limiar do preço médio a nível comunitário deve ser fixado em 85 % do preço de referência.
+
+(13) O processo de reestruturação da indústria açucareira na Comunidade gerou uma diferenciação entre regiões excedentárias (devido à produção local ou às importações) e regiões deficitárias. É de esperar que, nas regiões excedentárias, os preços na produção tenham tendência a descer, devido ao excesso local da oferta em relação à procura. Nas regiões deficitárias, em contrapartida, é de esperar que os preços na produção sejam mais elevados, devido à insuficiência local da oferta em relação à procura. Um preço médio a nível comunitário não reflecte inteiramente a queda de preços em alguns Estados-Membros. Torna-se, portanto, necessário prever que os procedimentos de concurso sejam abertos apenas nos Estados-Membros nos quais o preço médio nacional desça abaixo de 80 % do preço de referência.
+
+(14) Há que definir os requisitos do açúcar branco elegível para a ajuda à armazenagem privada.
+
+(15) As propostas devem incluir todos os elementos necessários à sua avaliação e é necessário prever a comunicação de informações entre os Estados-Membros e a Comissão.
+
+(16) Pode ser fixado um valor máximo de ajuda com base nas propostas recebidas. Todavia, podem surgir situações em que nenhuma das propostas recebidas seja aceitável.
+
+(17) Devem precisar-se as informações necessárias para o contrato de armazenagem, bem como as datas de início e de termo do período contratual de armazenagem e as obrigações contratuais do fabricante de açúcar.
+
+(18) Para assegurar que as quantidades propostas e eventualmente aceites sejam armazenadas no respeito das condições estabelecidas no presente regulamento, deve ser exigida uma garantia. É, por conseguinte, necessário adoptar disposições relativas à liberação e à execução da garantia constituída em conformidade com o Regulamento (CEE) n.º 2220/85 da Comissão, de 22 de Julho de 1985, que fixa as regras comuns de aplicação do regime de garantias para os produtos agrícolas [([^6])](http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1#ntr6-L_2008197PT.01000401-E0006).
+
+(19) Em função da evolução da situação do mercado na campanha de comercialização em curso e das previsões para a campanha seguinte, a Comissão pode permitir que as partes contratantes escoem o açúcar sob contrato antes do termo do período contratual de armazenagem.
+
+(20) Para que o regime seja bem gerido, é necessário precisar as condições de concessão de adiantamentos, o ajustamento da ajuda se a quantidade contratual não for integralmente respeitada, os controlos da observância das condições de elegibilidade para a ajuda, as eventuais sanções e as informações que os Estados-Membros devem comunicar à Comissão.
+
+(21) De modo a ter em conta a alteração das quotas atribuídas aos Estados-Membros e a adesão da Bulgária e da Roménia, a quantidade máxima de 600 000 toneladas fixada para a intervenção por compra no n.º 2 do artigo 18.º do Regulamento (CE) n.º 318/2006 deve ser ajustada para a campanha de comercialização de 2007/2008.
+
+(22) As medidas previstas no presente regulamento estão em conformidade com os pareceres do Comité de Gestão do Açúcar e do Comité de Gestão para a Organização Comum dos Mercados Agrícolas,
+
+ADOPTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º
+
+O Regulamento (CE) n.º 952/2006 é alterado do seguinte modo:
+
+1. O artigo 1.º passa ter a seguinte redacção: «Artigo 1.º O presente regulamento estabelece normas de execução do Regulamento (CE) n.º 318/2006 no que diz respeito, nomeadamente, à determinação da produção, à aprovação dos fabricantes e das refinarias, ao regime de preços e de quotas, às condições da compra e da venda de açúcar em intervenção e à armazenagem privada na campanha de comercialização de 2007/2008.».
+
+2. O artigo 3.º é alterado do seguinte modo: a) O n.º 2.º é alterado do seguinte modo: i) as alíneas a) e b) passam a ter a seguinte redacção: «a) As quantidades de açúcar branco produzidas a partir de açúcar branco, açúcar bruto ou xaropes que não tenham sido produzidos na empresa que fabrica esse açúcar branco; b) As quantidades de açúcar branco produzidas a partir de açúcar branco, açúcar bruto, xaropes ou varreduras de açúcar que não tenham sido produzidos durante a mesma campanha de comercialização em que esse açúcar branco foi fabricado;». ii) a alínea e) passa a ter a seguinte redacção: «e) As quantidades de açúcar branco ou açúcar bruto transformadas em açúcar branco durante a campanha de comercialização em questão na empresa que as produziu;»; b) No n.º 3, as alíneas d) e e) passam a ter a seguinte redacção: «d) No que respeita aos xaropes, em função de teor de açúcar extraível, determinado em conformidade com os n.^os^ 5 e 6; e) No que respeita aos xaropes de açúcar invertido, em função do teor de açúcar determinado por cromatografia líquida de alta eficiência.»; c) O n.º 5 passa a ter a seguinte redacção: «5. A percentagem de pureza dos xaropes é calculada dividindo o teor total de açúcar pelo teor de matéria seca e multiplicando o resultado por 100. O teor de matéria seca é determinado pelo método refractométrico.»; d) É aditado o seguinte número: «6. O teor de açúcar extraível é calculado subtraindo do grau de polarização do xarope em causa o produto da multiplicação do coeficiente 1,70 pela diferença entre o teor de matéria seca e o grau de polarização do xarope. Todavia, o teor de açúcar extraível pode ser determinado, para toda uma campanha de comercialização, em função do rendimento real dos xaropes.».
+
+a) O n.º 2.º é alterado do seguinte modo: i) as alíneas a) e b) passam a ter a seguinte redacção: «a) As quantidades de açúcar branco produzidas a partir de açúcar branco, açúcar bruto ou xaropes que não tenham sido produzidos na empresa que fabrica esse açúcar branco; b) As quantidades de açúcar branco produzidas a partir de açúcar branco, açúcar bruto, xaropes ou varreduras de açúcar que não tenham sido produzidos durante a mesma campanha de comercialização em que esse açúcar branco foi fabricado;». ii) a alínea e) passa a ter a seguinte redacção: «e) As quantidades de açúcar branco ou açúcar bruto transformadas em açúcar branco durante a campanha de comercialização em questão na empresa que as produziu;»;
+
+i) as alíneas a) e b) passam a ter a seguinte redacção: «a) As quantidades de açúcar branco produzidas a partir de açúcar branco, açúcar bruto ou xaropes que não tenham sido produzidos na empresa que fabrica esse açúcar branco; b) As quantidades de açúcar branco produzidas a partir de açúcar branco, açúcar bruto, xaropes ou varreduras de açúcar que não tenham sido produzidos durante a mesma campanha de comercialização em que esse açúcar branco foi fabricado;».
+
+«a) As quantidades de açúcar branco produzidas a partir de açúcar branco, açúcar bruto ou xaropes que não tenham sido produzidos na empresa que fabrica esse açúcar branco;
+
+b) As quantidades de açúcar branco produzidas a partir de açúcar branco, açúcar bruto, xaropes ou varreduras de açúcar que não tenham sido produzidos durante a mesma campanha de comercialização em que esse açúcar branco foi fabricado;».
+
+ii) a alínea e) passa a ter a seguinte redacção: «e) As quantidades de açúcar branco ou açúcar bruto transformadas em açúcar branco durante a campanha de comercialização em questão na empresa que as produziu;»;
+
+«e) As quantidades de açúcar branco ou açúcar bruto transformadas em açúcar branco durante a campanha de comercialização em questão na empresa que as produziu;»;
+
+b) No n.º 3, as alíneas d) e e) passam a ter a seguinte redacção: «d) No que respeita aos xaropes, em função de teor de açúcar extraível, determinado em conformidade com os n.^os^ 5 e 6; e) No que respeita aos xaropes de açúcar invertido, em função do teor de açúcar determinado por cromatografia líquida de alta eficiência.»;
+
+«d) No que respeita aos xaropes, em função de teor de açúcar extraível, determinado em conformidade com os n.^os^ 5 e 6;
+
+e) No que respeita aos xaropes de açúcar invertido, em função do teor de açúcar determinado por cromatografia líquida de alta eficiência.»;
+
+c) O n.º 5 passa a ter a seguinte redacção: «5. A percentagem de pureza dos xaropes é calculada dividindo o teor total de açúcar pelo teor de matéria seca e multiplicando o resultado por 100. O teor de matéria seca é determinado pelo método refractométrico.»;
+
+d) É aditado o seguinte número: «6. O teor de açúcar extraível é calculado subtraindo do grau de polarização do xarope em causa o produto da multiplicação do coeficiente 1,70 pela diferença entre o teor de matéria seca e o grau de polarização do xarope. Todavia, o teor de açúcar extraível pode ser determinado, para toda uma campanha de comercialização, em função do rendimento real dos xaropes.».
+
+3. No artigo 6.º, a alínea b) do n.º 3 passa a ter a seguinte redacção: «b) A produção total de açúcar do transformador e do comitente é superior à soma das suas quotas ou: i) relativamente à campanha de comercialização de 2006/2007, à soma dos limiares para eles fixados em conformidade com o n.º 2 do artigo 3.º do Regulamento (CE) n.º 493/2006 da Comissão[([^*1])](http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1#ntr*1-L_2008197PT.01000401-E0007), ii) relativamente à campanha de comercialização de 2007/2008, à soma dos limiares para eles fixados em conformidade com o n.º 2 do artigo 1.º do Regulamento (CE) n.º 290/2007 da Comissão[([^*2])](http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1#ntr*2-L_2008197PT.01000401-E0008), iii) relativamente à campanha de comercialização de 2008/2009, à soma dos limiares para eles fixados em conformidade com o n.º 2 do artigo 19.º do Regulamento (CE) n.º 318/2006 ou, se for caso disso, com o n.º 1 do artigo 19.º-A do mesmo regulamento. [(^*1^)](http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1#ntc*1-L_2008197PT.01000401-E0007) [JO L 89 de 28.3.2006, p. 11](http://publications.europa.eu/resource/oj/JOL_2006_089_R_TOC)." [(^*2^)](http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1#ntc*2-L_2008197PT.01000401-E0008) [JO L 78 de 17.3.2007, p. 20](http://publications.europa.eu/resource/oj/JOL_2007_078_R_TOC).»."
+
+«b) A produção total de açúcar do transformador e do comitente é superior à soma das suas quotas ou: i) relativamente à campanha de comercialização de 2006/2007, à soma dos limiares para eles fixados em conformidade com o n.º 2 do artigo 3.º do Regulamento (CE) n.º 493/2006 da Comissão[([^*1])](http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1#ntr*1-L_2008197PT.01000401-E0007), ii) relativamente à campanha de comercialização de 2007/2008, à soma dos limiares para eles fixados em conformidade com o n.º 2 do artigo 1.º do Regulamento (CE) n.º 290/2007 da Comissão[([^*2])](http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1#ntr*2-L_2008197PT.01000401-E0008), iii) relativamente à campanha de comercialização de 2008/2009, à soma dos limiares para eles fixados em conformidade com o n.º 2 do artigo 19.º do Regulamento (CE) n.º 318/2006 ou, se for caso disso, com o n.º 1 do artigo 19.º-A do mesmo regulamento.
+
+i) relativamente à campanha de comercialização de 2006/2007, à soma dos limiares para eles fixados em conformidade com o n.º 2 do artigo 3.º do Regulamento (CE) n.º 493/2006 da Comissão[([^*1])](http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1#ntr*1-L_2008197PT.01000401-E0007),
+
+ii) relativamente à campanha de comercialização de 2007/2008, à soma dos limiares para eles fixados em conformidade com o n.º 2 do artigo 1.º do Regulamento (CE) n.º 290/2007 da Comissão[([^*2])](http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1#ntr*2-L_2008197PT.01000401-E0008),
+
+iii) relativamente à campanha de comercialização de 2008/2009, à soma dos limiares para eles fixados em conformidade com o n.º 2 do artigo 19.º do Regulamento (CE) n.º 318/2006 ou, se for caso disso, com o n.º 1 do artigo 19.º-A do mesmo regulamento.
+
+4. Ao artigo 10.º é aditado o seguinte número: «6. Os Estados-Membros prestam-se assistência mútua para assegurar um controlo eficaz e permitir a verificação da autenticidade dos documentos apresentados e/ou da exactidão dos dados comunicados.».
+
+5. Após o artigo 14.º é inserido um artigo 14.º-A com a seguinte redacção: «Artigo 14.º-A Informações adicionais Além dos preços coligidos a nível comunitário em conformidade com o artigo 14.º, a Comissão informa igualmente o Comité de Gestão do Açúcar, com base nas declarações aduaneiras e nos dados disponíveis na base de dados do Serviço de Estatística das Comunidades Europeias, dos preços e quantidades do açúcar bruto e do açúcar branco importados dos países de África, das Caraíbas e do Pacífico no âmbito dos regimes aplicáveis às mercadorias originárias de determinados Estados pertencentes ao Grupo de Estados de África, das Caraíbas e do Pacífico (ACP), previstos em acordos que estabelecem ou conduzem ao estabelecimento de Acordos de Parceria Económica[([^*3])](http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1#ntr*3-L_2008197PT.01000401-E0009), assim como dos países menos desenvolvidos indicados na coluna D do anexo I do Regulamento (CE) n.º 980/2005 do Conselho[([^*4])](http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1#ntr*4-L_2008197PT.01000401-E0010). [(^*3^)](http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1#ntc*3-L_2008197PT.01000401-E0009) [JO L 348 de 31.12.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_348_R_TOC)." [(^*4^)](http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1#ntc*4-L_2008197PT.01000401-E0010) [JO L 169 de 30.6.2005, p. 1](http://publications.europa.eu/resource/oj/JOL_2005_169_R_TOC).»."
+
+6. Após o artigo 15.º é inserido um artigo 15.º-A com a seguinte redacção: «Artigo 15.º-A Disposições finais para a transmissão dos dados de preços Cada empresa sujeita à obrigação referida no artigo 13.º comunica ao Estado-Membro que a aprovou, antes do dia 15 de cada mês, os dados estabelecidos em conformidade com o n.º 1 do artigo 13.º. A primeira comunicação ao Estado-Membro é efectuada antes de 15 de Agosto de 2008 e consta dos dados estabelecidos em Maio e Junho de 2008. Cada Estado-Membro comunica à Comissão, antes do final de cada mês, a média dos preços coligidos a nível nacional, bem como a quantidade total correspondente e o desvio-padrão. As médias e os desvios-padrão são ponderados em função das quantidades comunicadas pelas empresas a título do parágrafo anterior. Na recepção, no tratamento e na armazenagem dos dados, os Estados-Membros e a Comissão procedem de modo a garantir a confidencialidade que se justifique desses dados. Mediante pedido simples ao Estado-Membro, a Comissão pode ter acesso aos dados individuais comunicados pelos operadores aprovados em conformidade com o n.º 1 do artigo 13.º Os outros operadores do sector do açúcar, nomeadamente os compradores, podem comunicar à Comissão o preço médio do açúcar, estabelecido de acordo com o artigo 13.º. Os operadores indicarão os respectivos nome, firma e endereço.».
+
+7. Após o artigo 16.º é inserido um artigo 16.º-A com a seguinte redacção: «Artigo 16.º-A Condições de compra da beterraba Os acordos interprofissionais e os contratos de entrega referidos no n.º 1 do artigo 50.º do Regulamento (CE) n.º 1234/2007 devem ser conformes com as condições de compra estabelecidas no anexo II.».
+
+8. No artigo 21.º, o n.º 1 passa a ter a seguinte redacção: «1. Antes do dia 20 de cada mês, cada fabricante ou refinaria aprovados comunica à autoridade competente do Estado-Membro em que é efectuada a produção ou a refinação o total, expresso em açúcar branco, das quantidades de açúcares e xaropes referidos no n.º 1, alíneas a) a d), do artigo 3.º: a) De que é proprietário ou que sejam objecto de um *warrant*; b) Armazenadas em livre prática no território da Comunidade no final do mês anterior. Essas quantidades são discriminadas entre: a) Açúcar produzido pela empresa em causa, especificando as quantidades de quota, extraquota e objecto de reporte ou retirada em conformidade com os artigos 14.º ou 19.º do Regulamento (CE) n.º 318/2006. Além disso, nas quantidades de açúcar de quota no final dos meses de Julho, Agosto e Setembro, é especificada a quantidade correspondente à produção de açúcar da campanha de comercialização seguinte; b) Outro açúcar.».
+
+a) De que é proprietário ou que sejam objecto de um *warrant*;
+
+b) Armazenadas em livre prática no território da Comunidade no final do mês anterior.
+
+a) Açúcar produzido pela empresa em causa, especificando as quantidades de quota, extraquota e objecto de reporte ou retirada em conformidade com os artigos 14.º ou 19.º do Regulamento (CE) n.º 318/2006. Além disso, nas quantidades de açúcar de quota no final dos meses de Julho, Agosto e Setembro, é especificada a quantidade correspondente à produção de açúcar da campanha de comercialização seguinte;
+
+b) Outro açúcar.».
+
+9. O artigo 23.º é alterado do seguinte modo: a) No n.º 3, o termo «anexo» é substituído por «anexo I»; b) No n.º 4, o termo «anexo» constante do primeiro e do segundo parágrafos é substituído por «anexo I».
+
+a) No n.º 3, o termo «anexo» é substituído por «anexo I»;
+
+b) No n.º 4, o termo «anexo» constante do primeiro e do segundo parágrafos é substituído por «anexo I».
+
+10. Após o artigo 57.º é aditado o seguinte capítulo VI-A: «CAPÍTULO VI-A Armazenagem privada na campanha de comercialização de 2007/2008 Artigo 57.º-A Procedimento de concurso A fim de determinar a ajuda a atribuir para a execução de contratos de armazenagem privada de açúcar branco, a Comissão pode, em conformidade com o procedimento a que se refere o n.º 2 do artigo 39.º do Regulamento (CE) n.º 318/2006, abrir um procedimento de concurso, por um período limitado, através de um regulamento da Comissão, adiante designado por “regulamento que abre o procedimento de concurso”. Artigo 57.º-B Abertura do procedimento de concurso 1. O regulamento que abre o procedimento de concurso pode ser adoptado até 31 de Julho de 2008. 2. Pode decidir-se abrir um procedimento de concurso, relativamente a açúcar que se encontre ou se destine a ser armazenado, se estiverem preenchidas as seguintes condições: a) O preço médio do açúcar branco a nível comunitário registado no âmbito do sistema de comunicação de preços é inferior a 85 % do preço de referência; b) É provável, com base na situação do mercado e tendo em conta os efeitos previsíveis dos mecanismos de gestão do mercado, nomeadamente do mecanismo de retirada, que os preços médios de açúcar branco registados se mantenham àquele nível ou venham ainda a descer. 3. Pode decidir-se que o procedimento de concurso seja aberto apenas a açúcar que se encontre ou se destine a ser armazenado por fabricantes de açúcar aprovados num Estado-Membro se estiverem preenchidas as seguintes condições: a) O preço médio do açúcar branco a nível comunitário registado no âmbito do sistema de comunicação de preços é inferior ao preço de referência; b) No Estado-Membro em causa, o preço médio do açúcar branco registado no âmbito do sistema de comunicação de preços é inferior a 80 % do preço de referência. 4. O regulamento que abre o procedimento de concurso deve conter as seguintes informações: a) O período abrangido pelo concurso (“período do concurso”) e os vários subperíodos em que as propostas podem ser apresentadas; b) As horas de abertura e encerramento do período de apresentação de propostas; c) Caso se aplique o n.º 3, os Estados-Membros nos quais o açúcar se encontra ou irá ser armazenado; d) Se for caso disso, a quantidade global abrangida pelo procedimento de concurso, discriminada por Estado-Membro se o n.º 3 se aplicar; e) O período de armazenagem, em conformidade com o artigo 57.º-J; f) A quantidade mínima a que uma proposta deve dizer respeito; g) O montante unitário da garantia; h) As autoridades competentes dos Estados-Membros às quais as propostas devem ser enviadas. 5. Os concursos de duração limitada podem ser encerrados antes do termo do período de apresentação de propostas, em conformidade com o procedimento a que se refere o n.º 2 do artigo 39.º do Regulamento (CE) n.º 318/2006. Artigo 57.º-C Requisitos do açúcar O açúcar apresentado a concurso deve ser: a) Açúcar branco cristalino a granel e/ou em “*big bags*” (800 kg ou mais) e/ou em sacos de 50 kg; b) Açúcar produzido dentro da quota no decurso da campanha de comercialização em que é apresentada a proposta, com excepção de açúcar branco retirado, objecto de reporte ou armazenado em intervenção pública; c) Açúcar de qualidade sã, íntegra e comercializável, de escoamento livre e de humidade inferior ou igual a 0,06 %. Artigo 57.º-D Apresentação das propostas 1. As propostas são apresentadas pelos fabricantes de açúcar aprovados a que se refere o n.º 1, alínea a), do artigo 7.º, estabelecidos e registados para fins de IVA na Comunidade. 2. As propostas são apresentadas à autoridade competente do Estado-Membro no qual o açúcar será armazenado. Se o procedimento de concurso for aberto apenas em um ou em vários Estados-Membros em conformidade com o n.º 3 do artigo 57.º-B, as propostas só podem ser apresentadas nos Estados-Membros em causa. 3. As propostas podem ser apresentadas por via electrónica, utilizando o método disponibilizado aos operadores pelo Estado-Membro em causa. As autoridades competentes dos Estados-Membros podem exigir que as propostas electrónicas sejam acompanhadas de uma assinatura electrónica avançada, na acepção do n.º 2 do artigo 2.º da Directiva 1999/93/CE do Parlamento Europeu e do Conselho[([^*5])](http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1#ntr*5-L_2008197PT.01000401-E0011). Em todos os outros casos, as autoridades competentes devem exigir uma assinatura electrónica que ofereça garantias equivalentes no que se refere às funcionalidades atribuídas a uma assinatura, aplicando as regras e condições definidas nas disposições da Comissão sobre os documentos electrónicos e digitalizados, estabelecidas pela Decisão 2004/563/CE, Euratom da Comissão[([^*6])](http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1#ntr*6-L_2008197PT.01000401-E0012) e nas respectivas normas de execução. 4. A proposta é válida se estiverem preenchidas as seguintes condições: a) Indicação de uma referência ao regulamento que abre o procedimento de concurso e da data-limite do subperíodo de apresentação de propostas; b) Indicação dos dados de identificação do proponente: nome, endereço e número do registo IVA; c) Indicação da quantidade a que a proposta diz respeito; d) Indicação do montante de ajuda proposto por dia e por tonelada, em euros e cents; e) Constituição, pelo proponente, de uma garantia antes do termo do subperíodo de apresentação de propostas, em conformidade com as disposições do título III do Regulamento (CEE) n.º 2220/85, e apresentação de uma prova de constituição da garantia dentro do mesmo período; f) Inexistência de condições introduzidas pelo proponente diferentes das referidas no presente regulamento e no regulamento que abre o procedimento de concurso; g) Redacção na língua oficial ou numa das línguas oficiais do Estado-Membro em que é apresentada. 5. As propostas não podem ser retiradas nem alteradas após a sua apresentação. 6. Presume-se que o fabricante de açúcar aprovado que apresenta a proposta tem conhecimento das disposições aplicáveis ao procedimento de concurso e que as aceitou. Artigo 57.º-E Exame das propostas 1. As autoridades competentes dos Estados-Membros examinam as propostas com base nos elementos referidos no n.º 4 do artigo 57.º-D e tomam uma decisão sobre a validade das mesmas. 2. As pessoas autorizadas a receber e a examinar as propostas estão obrigadas a guardar sigilo das informações com elas relacionadas em relação a pessoas não autorizadas para o efeito. 3. Caso uma proposta não seja válida, a autoridade competente do Estado-Membro informa o proponente do facto. Artigo 57.º-F Comunicação das propostas à Comissão 1. As autoridades competentes dos Estados-Membros comunicam todas as propostas válidas à Comissão. 2. As comunicações não incluem os dados referidos no n.º 4, alínea b), do artigo 57.º-D. 3. As comunicações são efectuadas por via electrónica, utilizando o método indicado pela Comissão aos Estados-Membros, num prazo específico fixado pelo regulamento que abre o procedimento de concurso. A forma e o conteúdo das comunicações são definidos com base em modelos disponibilizados pela Comissão aos Estados-Membros. 4. A inexistência de propostas é comunicada pelos Estados-Membros à Comissão no prazo referido no n.º 3. Artigo 57.º-G Decisão com base nas propostas 1. Com base nas propostas comunicadas de acordo com o n.º 3 do artigo 57.º-F, a Comissão decide, em conformidade com o procedimento a que se refere o n.º 2 do artigo 39.º do Regulamento (CE) n.º 318/2006: a) Não fixar um montante máximo de ajuda; ou b) Fixar um montante máximo de ajuda. 2. No caso das propostas apresentadas ao nível da ajuda máxima e se for aplicável o n.º 4, alínea d), do artigo 57.º-B, a Comissão fixa um coeficiente de adjudicação das quantidades propostas. Em derrogação do n.º 5 do artigo 57.º-D, os proponentes aos quais seja aplicado esse coeficiente podem decidir retirar as propostas que tenham apresentado. 3. A decisão relativa à ajuda à armazenagem privada é publicada no *Jornal Oficial da União Europeia*. Artigo 57.º-H Decisão sobre cada proposta 1. Sempre que seja fixado um montante máximo de ajuda em conformidade com o n.º 1, alínea b), do artigo 57.º-G, as autoridades competentes dos Estados-Membros aceitam as propostas, comunicadas em conformidade com o artigo 57.º-F, que se situem a um nível igual ou inferior ao do montante máximo, sem prejuízo do n.º 2 do artigo 57.º-G. Todas as outras propostas são rejeitadas. 2. Caso não seja fixado um montante máximo, todas as propostas são rejeitadas. 3. As autoridades competentes dos Estados-Membros tomam as decisões referidas nos n.^os^ 1 e 2 após a publicação da decisão da Comissão a que se refere o n.º 1 do artigo 57.º-G, relativa à ajuda, e, nos três dias úteis seguintes a essa publicação, comunicam aos proponentes o resultado da participação de cada um deles no concurso. 4. Os direitos e obrigações de um adjudicatário são intransmissíveis. Artigo 57.º-I Informações relativas ao local de armazenagem Nos cinco dias úteis seguintes à recepção da comunicação do Estado-Membro, o adjudicatário envia à autoridade competente do Estado-Membro: a) O endereço do local ou locais de armazenagem e, relativamente a cada um desses locais, a localização precisa dos silos ou lotes, bem como as quantidades correspondentes; b) Um dos seguintes elementos: i) a confirmação de que as quantidades abrangidas pela proposta se encontram já no local de armazenagem em observância do disposto na alínea c) do artigo 57.º-K, ou ii) a data de entrada em armazém de cada lote que ainda não se encontre no local e o tempo necessário para que a quantidade contratual observe o disposto na alínea c) do artigo 57.º-K. O adjudicatário indica a quantidade e a localização precisas de cada lote que entre no local de armazenagem. Artigo 57.º-J Cadernos de encargos dos contratos e período de armazenagem 1. Depois de completada a transmissão das informações referidas no artigo 57.º-I, a autoridade competente do Estado-Membro comunica ao adjudicatário que foram facultadas todas as informações necessárias e que passa a considerar-se celebrado um contrato. 2. O contrato inclui as disposições do presente capítulo e do regulamento que abre o procedimento de concurso e os termos da proposta, bem como as informações referidas no artigo 57.º-I. 3. A data de celebração do contrato é a data na qual a autoridade competente do Estado-Membro efectua à parte contratante a comunicação referida no n.º 1. 4. No que respeita ao açúcar que já se encontre em armazém, o período contratual de armazenagem tem início no dia seguinte ao da celebração do contrato. No que respeita ao açúcar que ainda não se encontre em armazém, o período contratual de armazenagem tem início no dia seguinte àquele em que toda a quantidade contratual passa a encontrar-se em armazém. 5. Sob reserva do disposto no artigo 57.º-M, o último dia do período de armazenagem contratual é 31 de Outubro de 2008. Artigo 57.º-K Obrigações da parte contratante O contrato obriga a parte contratante pelo menos ao seguinte: a) A colocar e a manter, durante o período contratual de armazenagem, a quantidade contratual em armazém, por sua conta e risco, em condições que assegurem a manutenção dos requisitos do açúcar referidos no artigo 57.º-C, sem substituir produto armazenado e sem o transferir para outro local de armazenagem; todavia, em casos excepcionais e mediante pedido devidamente justificado, a autoridade competente pode autorizar a mudança de local de produtos armazenados; b) A conservar os documentos de pesagem elaborados quando da entrada no local de armazenagem; c) A garantir que os produtos armazenados sejam individualizáveis e facilmente identificáveis. Em cada unidade armazenada individualmente deve ser visível uma indicação do número do contrato, do produto e do peso deste; d) A permitir que a autoridade competente verifique, a qualquer momento, o cumprimento de todas as obrigações contratuais. Artigo 57.º-L Garantias 1. A garantia constituída em conformidade com o n.º 4, alínea e), do artigo 57.º-D e na acepção do n.º 2 do artigo 20.º do Regulamento (CEE) n.º 2220/85 destina-se a assegurar, designadamente, que: a) A proposta não seja retirada; b) As informações para a celebração do contrato referidas no artigo 57.º-I sejam transmitidas; c) A quantidade contratual seja mantida em armazém, nas condições referidas no artigo 57.º-K, durante o período de armazenagem. 2. A garantia é imediatamente liberada se a proposta não for válida, não for adjudicada ou for retirada em conformidade com o n.º 2 do artigo 57.º-G. 3. São liberadas as garantias correspondentes às quantidades que respeitem as obrigações a que se refere o n.º 2 do artigo 57.º-O. Artigo 57.º-M Antecipação do termo de contratos Em função da evolução do mercado no sector do açúcar, a Comissão pode, em conformidade com o procedimento a que se refere o n.º 2 do artigo 39.º do Regulamento (CE) n.º 318/2006, autorizar a parte contratante a escoar o açúcar sob contrato antes do termo do período contratual de armazenagem. Artigo 57.º-N Adiantamentos Após 60 dias de armazenagem e a pedido da parte contratante, pode ser efectuado um adiantamento único por conta da ajuda, desde que essa parte constitua uma garantia de montante igual ao do adiantamento, acrescido de 10 %. Nessa eventualidade, a garantia referida no artigo 57.º-L é liberada. O montante do adiantamento não pode ser superior ao da ajuda correspondente a um período de armazenagem de três meses. A garantia referida no primeiro parágrafo é liberada logo que seja pago o saldo da ajuda. Artigo 57.º-O Pagamento da ajuda 1. A ajuda ou, caso tenha sido efectuado um adiantamento de acordo com o artigo 57.º-N, o saldo da ajuda são pagos mediante um pedido de pagamento, desde que as obrigações contratuais tenham sido cumpridas. A ajuda ou o saldo da ajuda são pagos, depois do controlo final, no prazo de 120 dias a contar da data de apresentação do pedido de pagamento. 2. As exigências relativas à quantidade contratual consideram-se satisfeitas apenas depois de a quantidade ter sido verificada de acordo com o n.º 5 do artigo 57.º-P. Os Estados-Membros podem, porém, decidir que essas exigências se consideram satisfeitas com uma margem de tolerância não superior a 1 % da quantidade contratual. Se a quantidade efectivamente armazenada durante o período de armazenagem contratual for inferior à quantidade contratual, tendo em conta a eventual margem de segurança, mas não inferior a 80 % dessa quantidade, a ajuda correspondente à quantidade efectivamente armazenada é reduzida a metade. Se a quantidade efectivamente armazenada durante o período de armazenagem contratual for inferior à 80 % da quantidade contratual, não é paga qualquer ajuda. Artigo 57.º-P Controlos 1. Nos trinta dias seguintes à data de celebração do contrato, a autoridade competente do Estado-Membro efectua um controlo inicial, que inclui, designadamente: a) A identificação dos silos ou lotes de armazenagem; b) A verificação do peso dos produtos armazenados com base nos documentos de pesagem à entrada, na contabilidade das existências e na contabilidade financeira, bem como, se possível, através de um controlo físico por pesagem de uma amostra. A amostra examinada deve ser representativa e corresponder, pelo menos, a 5 % da quantidade total; c) A constituição de uma amostra representativa da quantidade contratual, que é analisada o mais rapidamente possível a fim de garantir que o açúcar satisfaz os requisitos referidos no artigo 57.º-C. 2. Se a análise confirmar que o açúcar não satisfaz os requisitos referidos no artigo 57.º-C, é rejeitada a quantidade total abrangida pelo contrato e é executada a garantia referida no n.º 4 do artigo 57.º-D. 3. Por razões devidamente comprovadas, apresentadas pelo Estado-Membro, o prazo fixado no proémio do n.º 1 pode ser prorrogado por quinze dias. 4. A autoridade incumbida do controlo: a) Ou apõe o seu distintivo oficial aos produtos, por contrato, lote de armazenagem ou quantidades menores, aquando do controlo inicial; b) Ou procede a um controlo sem aviso prévio, para verificar se a quantidade contratual se encontra no local de armazenagem. Esse controlo baseia-se na contabilidade das existências e na contabilidade financeira e, se possível, num controlo físico por pesagem de uma amostra. A amostra examinada deve ser representativa e corresponder, pelo menos, a 5 % da quantidade total. 5. Durante o último mês do período de armazenagem, a autoridade incumbida do controlo efectua, sem aviso prévio e em conformidade com a alínea b) do n.º 4, um controlo final destinado a garantir que a quantidade contratual se encontra no local de armazenagem. 6. Em caso de irregularidades significativas que afectem 5 % ou mais da quantidade de produtos, abrangidos pelo mesmo contrato, sujeitos a controlo, a verificação é alargada a uma amostra maior, a determinar pela autoridade incumbida do controlo. Artigo 57.º-Q Relatórios do controlo É elaborado um relatório dos controlos efectuados a título do artigo 57.º-P que especifique: a) A data e a hora de início do controlo; b) A duração do controlo; c) As acções efectuadas, incluindo, nomeadamente, uma descrição das mesmas e as referências dos documentos e produtos examinados; d) Os resultados e conclusões. O relatório é assinado pelo inspector responsável e pela parte contratante ou, se for caso disso, pelo responsável pela armazenagem e consta do processo de pagamento. Artigo 57.º-R Sanções 1. Se se verificar que um documento apresentado por um proponente para atribuição dos direitos decorrentes do presente capítulo contém informações incorrectas e que estas últimas são decisivas para a atribuição do referido direito, a autoridade competente do Estado-Membro exclui esse proponente, durante o período de um ano a contar da data em que seja tomada uma decisão administrativa final que estabeleça que foi cometida a irregularidade, do procedimento de concurso para a concessão de uma ajuda à armazenagem privada de açúcar. 2. O disposto no n.º 1 não se aplica se o proponente provar, de forma que a autoridade competente considere satisfatória, que a situação referida no n.º 1 não se deve a negligência grave da sua parte ou resulta de força maior ou de erro óbvio. 3. Os Estados-Membros informam a Comissão dos casos de aplicação do n.º 1. A Comissão mantém essas informações à disposição dos outros Estados-Membros. Artigo 57.º-S Comunicações à Comissão Os Estados-Membros comunicam à Comissão as quantidades de açúcar correspondentes a propostas aceites em conformidade com o n.º 1 do artigo 57.º-H que: a) Não tenham sido subsequentemente objecto da celebração de qualquer contrato; b) Tenham sido subsequentemente objecto da celebração de contratos posteriormente cancelados, devido à inobservância de obrigações contratuais; c) Por decisão da Comissão, tenham deixado de estar sujeitas à obrigação contratual a que se refere o artigo 57.º-M. As comunicações referidas no primeiro parágrafo especificam o subperíodo do procedimento de concurso em causa e são efectuadas na primeira oportunidade, mas o mais tardar no décimo dia do mês seguinte ao do mês em questão. A forma e o conteúdo das comunicações são definidos com base em modelos disponibilizados pela Comissão aos Estados-Membros. [(^*5^)](http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1#ntc*5-L_2008197PT.01000401-E0011) [JO L 13 de 19.1.2000, p. 12](http://publications.europa.eu/resource/oj/JOL_2000_013_R_TOC)." [(^*6^)](http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1#ntc*6-L_2008197PT.01000401-E0012) [JO L 251 de 27.7.2004, p. 9](http://publications.europa.eu/resource/oj/JOL_2004_251_R_TOC).»."
+
+a) O preço médio do açúcar branco a nível comunitário registado no âmbito do sistema de comunicação de preços é inferior a 85 % do preço de referência;
+
+b) É provável, com base na situação do mercado e tendo em conta os efeitos previsíveis dos mecanismos de gestão do mercado, nomeadamente do mecanismo de retirada, que os preços médios de açúcar branco registados se mantenham àquele nível ou venham ainda a descer.
+
+a) O preço médio do açúcar branco a nível comunitário registado no âmbito do sistema de comunicação de preços é inferior ao preço de referência;
+
+b) No Estado-Membro em causa, o preço médio do açúcar branco registado no âmbito do sistema de comunicação de preços é inferior a 80 % do preço de referência.
+
+a) O período abrangido pelo concurso (“período do concurso”) e os vários subperíodos em que as propostas podem ser apresentadas;
+
+b) As horas de abertura e encerramento do período de apresentação de propostas;
+
+c) Caso se aplique o n.º 3, os Estados-Membros nos quais o açúcar se encontra ou irá ser armazenado;
+
+d) Se for caso disso, a quantidade global abrangida pelo procedimento de concurso, discriminada por Estado-Membro se o n.º 3 se aplicar;
+
+e) O período de armazenagem, em conformidade com o artigo 57.º-J;
+
+f) A quantidade mínima a que uma proposta deve dizer respeito;
+
+g) O montante unitário da garantia;
+
+h) As autoridades competentes dos Estados-Membros às quais as propostas devem ser enviadas.
+
+a) Açúcar branco cristalino a granel e/ou em “*big bags*” (800 kg ou mais) e/ou em sacos de 50 kg;
+
+b) Açúcar produzido dentro da quota no decurso da campanha de comercialização em que é apresentada a proposta, com excepção de açúcar branco retirado, objecto de reporte ou armazenado em intervenção pública;
+
+c) Açúcar de qualidade sã, íntegra e comercializável, de escoamento livre e de humidade inferior ou igual a 0,06 %.
+
+a) Indicação de uma referência ao regulamento que abre o procedimento de concurso e da data-limite do subperíodo de apresentação de propostas;
+
+b) Indicação dos dados de identificação do proponente: nome, endereço e número do registo IVA;
+
+c) Indicação da quantidade a que a proposta diz respeito;
+
+d) Indicação do montante de ajuda proposto por dia e por tonelada, em euros e cents;
+
+e) Constituição, pelo proponente, de uma garantia antes do termo do subperíodo de apresentação de propostas, em conformidade com as disposições do título III do Regulamento (CEE) n.º 2220/85, e apresentação de uma prova de constituição da garantia dentro do mesmo período;
+
+f) Inexistência de condições introduzidas pelo proponente diferentes das referidas no presente regulamento e no regulamento que abre o procedimento de concurso;
+
+g) Redacção na língua oficial ou numa das línguas oficiais do Estado-Membro em que é apresentada.
+
+a) Não fixar um montante máximo de ajuda; ou
+
+b) Fixar um montante máximo de ajuda.
+
+a) O endereço do local ou locais de armazenagem e, relativamente a cada um desses locais, a localização precisa dos silos ou lotes, bem como as quantidades correspondentes;
+
+b) Um dos seguintes elementos: i) a confirmação de que as quantidades abrangidas pela proposta se encontram já no local de armazenagem em observância do disposto na alínea c) do artigo 57.º-K, ou ii) a data de entrada em armazém de cada lote que ainda não se encontre no local e o tempo necessário para que a quantidade contratual observe o disposto na alínea c) do artigo 57.º-K. O adjudicatário indica a quantidade e a localização precisas de cada lote que entre no local de armazenagem.
+
+i) a confirmação de que as quantidades abrangidas pela proposta se encontram já no local de armazenagem em observância do disposto na alínea c) do artigo 57.º-K, ou
+
+ii) a data de entrada em armazém de cada lote que ainda não se encontre no local e o tempo necessário para que a quantidade contratual observe o disposto na alínea c) do artigo 57.º-K. O adjudicatário indica a quantidade e a localização precisas de cada lote que entre no local de armazenagem.
+
+a) A colocar e a manter, durante o período contratual de armazenagem, a quantidade contratual em armazém, por sua conta e risco, em condições que assegurem a manutenção dos requisitos do açúcar referidos no artigo 57.º-C, sem substituir produto armazenado e sem o transferir para outro local de armazenagem; todavia, em casos excepcionais e mediante pedido devidamente justificado, a autoridade competente pode autorizar a mudança de local de produtos armazenados;
+
+b) A conservar os documentos de pesagem elaborados quando da entrada no local de armazenagem;
+
+c) A garantir que os produtos armazenados sejam individualizáveis e facilmente identificáveis. Em cada unidade armazenada individualmente deve ser visível uma indicação do número do contrato, do produto e do peso deste;
+
+d) A permitir que a autoridade competente verifique, a qualquer momento, o cumprimento de todas as obrigações contratuais.
+
+a) A proposta não seja retirada;
+
+b) As informações para a celebração do contrato referidas no artigo 57.º-I sejam transmitidas;
+
+c) A quantidade contratual seja mantida em armazém, nas condições referidas no artigo 57.º-K, durante o período de armazenagem.
+
+a) A identificação dos silos ou lotes de armazenagem;
+
+b) A verificação do peso dos produtos armazenados com base nos documentos de pesagem à entrada, na contabilidade das existências e na contabilidade financeira, bem como, se possível, através de um controlo físico por pesagem de uma amostra. A amostra examinada deve ser representativa e corresponder, pelo menos, a 5 % da quantidade total;
+
+c) A constituição de uma amostra representativa da quantidade contratual, que é analisada o mais rapidamente possível a fim de garantir que o açúcar satisfaz os requisitos referidos no artigo 57.º-C.
+
+a) Ou apõe o seu distintivo oficial aos produtos, por contrato, lote de armazenagem ou quantidades menores, aquando do controlo inicial;
+
+b) Ou procede a um controlo sem aviso prévio, para verificar se a quantidade contratual se encontra no local de armazenagem. Esse controlo baseia-se na contabilidade das existências e na contabilidade financeira e, se possível, num controlo físico por pesagem de uma amostra. A amostra examinada deve ser representativa e corresponder, pelo menos, a 5 % da quantidade total.
+
+a) A data e a hora de início do controlo;
+
+b) A duração do controlo;
+
+c) As acções efectuadas, incluindo, nomeadamente, uma descrição das mesmas e as referências dos documentos e produtos examinados;
+
+d) Os resultados e conclusões.
+
+a) Não tenham sido subsequentemente objecto da celebração de qualquer contrato;
+
+b) Tenham sido subsequentemente objecto da celebração de contratos posteriormente cancelados, devido à inobservância de obrigações contratuais;
+
+c) Por decisão da Comissão, tenham deixado de estar sujeitas à obrigação contratual a que se refere o artigo 57.º-M.
+
+11. O anexo passa a ser anexo I e é substituído pelo texto constante do anexo I do presente regulamento.
+
+12. O texto constante do anexo II do presente regulamento é aditado como anexo II.
+
+###### Artigo 2.º
+
+O presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O n.º 2, alíneas b) a d), e os n.^os^ 7 e 12 do artigo 1.º aplicam-se a partir de 1 de Outubro de 2008.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 24 de Julho de 2008.
+
+***Pela Comissão***
+
+**Mariann FISCHER BOEL**
+
+***Membro da Comissão***
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1#ntc1-L_2008197PT.01000401-E0001) [JO L 58 de 28.2.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_058_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1260/2007 ([JO L 283 de 27.10.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_283_R_TOC)).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1#ntc2-L_2008197PT.01000401-E0002) [JO L 299 de 16.11.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_299_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 510/2008 da Comissão ([JO L 149 de 7.6.2008, p. 61](http://publications.europa.eu/resource/oj/JOL_2008_149_R_TOC)).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1#ntc3-L_2008197PT.01000401-E0003) [JO L 178 de 1.7.2006, p. 39](http://publications.europa.eu/resource/oj/JOL_2006_178_R_TOC). Regulamento alterado pelo Regulamento (CE) n.º 551/2007 ([JO L 131 de 23.5.2007, p. 7](http://publications.europa.eu/resource/oj/JOL_2007_131_R_TOC)).
+
+> [(^4^)](http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1#ntc4-L_2008197PT.01000401-E0004) [JO L 78 de 17.3.2007, p. 20](http://publications.europa.eu/resource/oj/JOL_2007_078_R_TOC). Regulamento alterado pelo Regulamento (CE) n.º 1263/2007 ([JO L 283 de 27.10.2007, p. 15](http://publications.europa.eu/resource/oj/JOL_2007_283_R_TOC)).
+
+> [(^5^)](http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1#ntc5-L_2008197PT.01000401-E0005) [JO L 283 de 27.10.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_283_R_TOC).
+
+> [(^6^)](http://publications.europa.eu/resource/cellar/d487ba4c-022a-4255-927d-90bb33602853.0018.02/DOC_1#ntc6-L_2008197PT.01000401-E0006) [JO L 205 de 3.8.1985, p. 5](http://publications.europa.eu/resource/oj/JOL_1985_205_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1913/2006 ([JO L 365 de 21.12.2006, p. 52](http://publications.europa.eu/resource/oj/JOL_2006_365_R_TOC)).

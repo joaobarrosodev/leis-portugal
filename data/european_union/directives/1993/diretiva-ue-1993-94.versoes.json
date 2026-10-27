@@ -1,0 +1,109 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993L0094:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0094-20100101",
+ "dre_path": null,
+ "source_lastmod": "2010-01-01",
+ "versions": [
+  {
+   "date": "1993-12-14",
+   "future": false,
+   "celex": "31993L0094",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "766dcd7af38f5265",
+    "27fc0991e36663f0",
+    "96b2244500c024ab",
+    "a4a1a2cda4d33c2d",
+    "6719fbbeb9372896",
+    "6f0d5d88977835c5",
+    "181035cc2d1ce021"
+   ]
+  },
+  {
+   "date": "2010-01-01",
+   "future": false,
+   "celex": "01993L0094-20100101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime ANEXO"
+   ],
+   "fragments": [
+    "3f4f48f0f48724f4"
+   ]
+  }
+ ],
+ "fragments": {
+  "766dcd7af38f5265": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 93/94/CEE do Conselho, de 29 de Outubro de 1993, relativa à localização, para efeitos de montagem, de chapa de matrícula da retaguarda dos veículos a motor de duas ou três rodas** *Jornal Oficial nº L 311 de 14/12/1993 p. 0083 - 0088*\n\nDIRECTIVA 93/94/CEE DO CONSELHO de 29 de Outubro de 1993 relativa à localização, para efeitos de montagem, da chapa de matrícula da retaguarda dos veículos a motor de duas ou três rodas\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100ºA,\n\nTendo em conta a Directiva 92/61/CEE do Conselho, de 30 de Junho de 1992, relativa à recepção dos veículos a motor de duas ou três rodas(1),\n\nTendo em conta a proposta da Comissão(2),\n\nEm cooperação com o Parlamento Europeu(3),\n\nTendo em conta o parecer do Comité Económico e Social(4),\n\nConsiderando que o mercado interno compreende um espaço sem fronteiras internas em que é assegurada a livre circulação das mercadorias, das pessoas, dos serviços e dos capitais; que importa adoptar as medidas destinadas ao bom funcionamento do mercado interno;\n\nConsiderando que em todos os Estados-membros os veículos a motor de duas ou três rodas devem satisfazer, em matéria de localização, para efeitos de montagem da chapa de matrícula da retaguarda, determinadas características técnicas fixadas por normas imperativas que divergem de um Estado-membro para outro; que, pela sua disparidade, essas normas entravem o comércio da Comunidade;\n\nConsiderando que esses entraves ao estabelecimento e ao funcionamento do mercado interno podem ser eliminados se forem adoptadas as mesmas normas por todos os Estados-membros em substituição das respectivas regulamentações nacionais;\n\nConsiderando que a instituição de normas harmonizadas em matéria de localização para efeitos de montagem da chapa de matrícula da retaguarda dos veículos a motor de duas ou três rodas, a fim de permitir a aplicação aos diversos tipos dos referidos veículos dos procedimentos de recepção e de homologação que são objecto da Directiva 92/61/CEE;\n\nConsiderando que o objectivo da presente directiva não consiste na harmonização das dimensões das chapas de matrícula utilizadas nos diferentes Estados-membros; que é, portanto, da competência dos Estados-membros zelar por que as chapas de matrícula salientes não sejam perigosas para os utilizadores, sem que contudo esse facto não exija qualquer alteração da construção dos veículos;\n\nConsiderando que, devido à dimensão e aos efeitos da acção proposta no sector em causa, as medidas comunitárias a que se refere a presente directiva são necessárias, indispensáveis mesmo, para atingir os objectivos fixados, ou seja, a recepção comunitária por tipo de veículo, e que esses objectivos não podem ser satisfatoriamente realizados pelos Estados-membros individualmente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "27fc0991e36663f0": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nA presente directiva, incluindo o seu anexo, é aplicável à localização, para efeitos de montagem da chapa de matrícula da retaguarda, de qualquer tipo de veículo definido no artigo 1º da Directiva 92/61/CEE."
+  },
+  "96b2244500c024ab": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nO processo de concessão da homologação em matéria de localização, para efeitos de montagem, da chapa de matrícula da retaguarda de qualquer tipo de veículo a motor de duas ou três rodas, bem como as condições para a livre circulação desses veículos, são os estabelecidos respectivamente, nos capítulos II e III da Directiva 92/61/CEE"
+  },
+  "a4a1a2cda4d33c2d": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nAs alterações necessárias à adaptação das normas constantes dos anexos ao progresso técnico serão adoptadas de acordo com o procedimento previsto no artigo 13º da Directiva 70/156/CEE(5)."
+  },
+  "6719fbbeb9372896": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Os Estados-membros adoptarão e publicarão as disposições necessárias para dar cumprimento à presente directiva o mais tardar até 1 de Maio de 1995. Desse facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem tais disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência na sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. A partir da data referida no nº 1, os Estados-membros não poderão proibir, por motivos relacionados com a localização, para efeitos de montagem da chapa de matrícula da retaguarda, a primeira entrada em circulação dos veículos que forem conformes com a presente directiva.\n\nOs Estados-membros aplicarão as disposições previstas no primeiro parágrafo a partir de 1 de Novembro de 1995.\n\n3. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem no domínio regido pela presente directiva."
+  },
+  "6f0d5d88977835c5": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 29 de Outubro de 1993.\n\nPelo Conselho\n\nO Presidente\n\nR. URBAIN\n\n(1) JO nº L 225 de 10. 8. 1992, p. 72.\n\n(2) JO nº C 293 de 9. 11. 1992, p. 38.\n\n(3) JO nº C 337 de 21. 12. 1992, p. 104 e decisão de 27 de Outubro de 1993 (ainda não publicada no Jornal Oficial).\n\n(4) JO nº C 73 de 15. 3. 1993, p. 22.\n\n(5) JO nº L 42 de 23. 2. 1970, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 92/53/CEE (JO nº L 225 de 10. 8. 1992, p. 1)."
+  },
+  "181035cc2d1ce021": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n1. Dimensões\n\nAs dimensões do espaço de localização para a montagem da chapa de matrícula da retaguarda dos veículos a motor de duas ou três rodas são as seguintes:\n\n1.1. Ciclomotores e quadriciclos ligeiros:\n\n1.1.1. Largura: 100 milímetros;\n\n1.1.2. Altura: 175 milímetros\n\nou\n\n1.1.3. Largura: 145 milímetros\n\n1.1.4 Altura: 125 milímetros\n\n1.2. Motociclos e triciclos até 15 kW de potência máxima e quadriciclos que não sejam quadriciclos ligeiros:\n\n1.2.1. Largura: 280 milímetros;\n\n1.2.2. Altura: 210 milímetros\n\n1.3. Triciclos com potência máxima superior a 15 kW:\n\n1.3.1. São aplicáveis as prescrições previstas para os veículos particulares (Directiva 70/222/CEE).\n\n2. Posicionamento geral\n\n2.1. A chapa de matrícula da retaguarda deve ficar situada na parte traseira do veículo de tal modo que:\n\n2.1.1. A chapa possa ficar situada entre os planos longitudinais que passam pelas extremidades exteriores do veículo.\n\n3. Inclinação\n\n3.1. A chapa de matrícula da retaguarda:\n\n3.1.1. Deve ser perpendicular ao plano longitudinal médio do veículo;\n\n3.1.2. Pode estar inclinada em relação à vertical com um ângulo que não exceda 30 graus quando a face portadora do número de matrícula estiver virada para cima;\n\n3.1.3. Pode estar inclinada em relação à vertical com um ângulo que não exceda 15 graus quando a face portadora do número de matrícula estiver virada para baixo.\n\n4. Altura máxima\n\n4.1. Nenhum ponto de colocação, para efeitos de montagem, da chapa de matrícula se deve encontrar a uma altura acima do solo superior a 1,50 metros quando o veículo estiver em carga (massa em ordem de marcha adicionada de uma massa de 75 quilogramas).\n\n5. Altura mínima\n\n5.1. Nenhum ponto de colocação, para efeitos de montagem, da chapa de matrícula se deve encontrar a uma altura acima do solo inferior a 0,20 metro ou o raio da roda, se este for inferior a 0,20 metro, quando o veículo estiver em carga (massa em ordem de marcha adicionada de uma massa de 75 quilogramas).\n\n6. Visibilidade geométrica\n\n6.1. A visibilidade da colocação, para efeitos de montagem, da chapa de matrícula deve ser assegurada no interior de um espaço delimitado por dois diedros: um com aresta horizontal e definido por dois planos que passam pelas arestas horizontais superior e inferior da colocação, para efeitos de montagem, da chapa e cujos ângulos em relação à horizontal estão indicados na figura 1; outro com aresta sensivelmente vertical e definido por dois planos que passam pelas arestas laterais da chapa e cujos ângulos em relação ao plano longitudinal médio estão indicados na figura 2.\n\nFigura 1\n\nÂngulo de visiblidade geométrica (diedro com aresta horizontal)\n\nFigura 2\n\nÂngulo de visiblidade geométrica (diedro com aresta sensivelmente vertical))\n\nApêndice 1 Ficha de informações no que diz respeito à localização, para efeitos de montagem, da chapa de matrícula da retaguarda de um modelo de veículo a motor de duas ou três rodas\n\n(a juntar ao pedido de homologação, no caso de ser apresentado independentemente do pedido de recepção do veículo)\n\nNúmero de ordem (atribuído pelo requerente):.\n\nO pedido de homologação, no que diz respeito à localização, para efeitos de montagem, da chapa de matrícula da retaguarda de um modelo de veículo a motor de duas ou três rodas, deve ser acompanhado das informações que figuram no anexo II da Directiva 92/61/CEE, nos pontos:\n\n- parte A:\n\n- 0.1,\n\n- 0.2,\n\n- 0.4 a 0.6,\n\n- 2.2,\n\n- 2.1.1;\n\n- parte B:\n\n- 1.2,\n\n- 1.2.1;\n\n- parte C:\n\n- 2.11,\n\n- 2.11.1.\n\nApêndice 2 Denominação da autoridade administrativa\n\nCertificado de homologação no que diz respeito à localização, para efeitos de montagem, da chapa de matrícula da retaguarda de um modelo de veículo a motor de duas ou três rodas\n\nMODELO\n\nRelatório nº. do serviço técnico. em.\n\nNúmero da homologação:.Número da extensão:.\n\n1. Marca de fábrica ou denominação comercial do veículo:.\n\n2. Modelo do veículo:.\n\n3. Nome e morada do fabricante:.\n\n.\n\n4. Nome e morada do eventual mandatário:.\n\n.\n\n5. Veículo apresentado ao ensaio em:.\n\n6. A homologação é concedida/recusada(1).\n\n7. Local:.\n\n8. Data:.\n\n9. Assinatura:.\n\n(1)() No que se refere aos ciclomotores, trata-se da chapa de matrícula e/ou de identificação, caso exista.\n\n(2) Riscar o que não interessa."
+  },
+  "3f4f48f0f48724f4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993L0094 — PT — 01.01.2010 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31993L0094) [DIRECTIVA 93/94/CEE DO CONSELHO](http://publications.europa.eu/resource/celex/31993L0094) [de 29 de Outubro de 1993](http://publications.europa.eu/resource/celex/31993L0094) [relativa à localização, para efeitos de montagem, da chapa de matrícula da retaguarda dos veículos a motor de duas ou três rodas](http://publications.europa.eu/resource/celex/31993L0094) (JO L 311, 14.12.1993, p.83)\n\n**revogado por:**\n\n- [Directiva 2009/62/CE do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009L0062) — L 198 — 20 — 30.7.2009"
+  }
+ }
+}

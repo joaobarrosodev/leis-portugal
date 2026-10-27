@@ -1,0 +1,474 @@
+---
+schema_version: '1.0'
+id: pt:dre:181073:por
+title: Decreto n.º 43890
+short_title: null
+summary: Transfere verbas dentro dos orçamentos de encargos gerais da Nação e dos Ministérios da Justiça, do Exército, dos
+  Negócios Estrangeiros, das Obras Públicas, das Comunicações e das Corporações e Previdência Social e abre créditos destinados
+  a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral do Estado
+  - Altera várias rubricas dos orçamentos dos Ministérios das Finanças, das Comunicações e da Saúde e Assistência
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Finanças - Direcção-Geral da Contabilidade Pública
+proposing_entity: null
+official_number: '43890'
+official_date: null
+publication_date: '1961-09-02'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 204/1961, Série I de 1961-09-02
+  number: '204'
+  series: I
+  supplement: null
+  pages: 1091 - 1094
+  pdf_url: https://files.diariodarepublica.pt/1s/1961/09/20400/10911094.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '181073'
+  dre_path: /dr/detalhe/decreto/43890-1961-181073
+  internal: pt:dre:181073:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/43890-1961-181073
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43890-1961-181073
+  consolidated_url: null
+  retrieved_at: '2026-10-22T19:25:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a9d969bc80f033e02ed50d120e808f761753b1de002f3c5b3dac138f3b364488
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:25:24Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:169900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:254232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636690:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T19:25:24Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 43890
+
+Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diariodarepublica.pt/dr/detalhe/decreto/16670-1929-624998), de 27 de Marco de 1929, no artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, na alínea a) do artigo 33.º e nas alíneas a), b), c) e e) do artigo 35.º do referido [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), no artigo 2.º e seu § único do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, no artigo 3.º do [Decreto-Lei n.º 41270](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41270-1957-254232), de 16 de Setembro de 1957, em execução do [Decreto n.º 43663](https://diariodarepublica.pt/dr/detalhe/decreto/43663-1961-169900), de 5 de Maio de 1961, mediante propostas aprovadas pelo Ministro das Finanças, nos termos do n.º 1.º do artigo 9.º do [Decreto-Lei n.º 22470](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22470-1933-255227), de 11 de Abril de 1933, e nos do mencionado artigo 2.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659);
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos seguintes orçamentos:
+
+Encargos gerais da Nação
+
+No capítulo 7.º:
+
+Do artigo 177.º, n.º 1) «Força motriz» ... -5000$00
+
+Para o artigo 175.º, n.º 2) «Luz, ...» ... +5000$00
+
+Do artigo 281.º, n.º 1) «Pessoal dos quadros ...» ... -100000$00
+
+Para o artigo 280.º, n.º 1) «Gratificações ...», alínea a) «Pelo serviço aéreo» ... +100000$00
+
+Ministério da Justiça
+
+No capítulo 4.º:
+
+Do artigo 217.º, n.º 1) «Serviços clínicos ...» ... -1500$00
+
+Para o artigo 218.º, n.º 2) «Telefones» ... +1500$00
+
+Ministério do Exército
+
+No capítulo 5.º:
+
+Do artigo 210.º, n.º 3) «De material de defesa ...» ... -1500000$00
+
+Para o artigo 209.º, n.º 2) «Material de defesa ...» ... +1500000$00
+
+Ministério dos Negócios Estrangeiros
+
+No capítulo 4.º:
+
+Do artigo 37.º, n.º 1) «Pessoal dos quadros ...»:
+
+Alínea a) «Vencimentos» ... -200000$00
+
+Alínea b) «Residência» ... -750000$00
+
+Para o artigo 39.º «Outras despesas com o pessoal»:
+
+N.º 1) «Despesas de deslocação, ...» ... +800000$00
+
+N.º 2) «Despesas de instalação» ... +150000$00
+
+Ministério das Obras Públicas
+
+No capítulo 1.º:
+
+Do artigo 9.º, n.º 1) «Publicidade ...» ... -7000$00
+
+Para o artigo 8.º «Despesas de comunicações»:
+
+N.º 1) «Correios ...» ... +1000$00
+
+N.º 2) «Telefones» ... +6000$00
+
+No capítulo 2.º:
+
+Do artigo 20.º, n.º 2) «Para pagamento a peritos estrangeiros ...» ... -8000$00
+
+Para o artigo 17.º, n.º 1) «Luz, ...» ... +6500$00
+
+Para o artigo 19.º, n.º 3) «Pagamento de serviços ...» ... +1500$00
+
+Ministério das Comunicações
+
+No capítulo 4.º:
+
+Do artigo 53.º, n.º 1) «Pessoal dos quadros ...»:
+
+Continente ... 160000$00
+
+Açores ... 100000$00
+
+Cabo Verde ... 100000$00
+
+... -360000$00
+
+Para o artigo 54.º, n.º 2), alínea a) «Pessoal dos serviços permanentes» ... +360000$00
+
+Ministério das Corporações e Previdência Social
+
+No capítulo 4.º
+
+Do artigo 68.º, n.º 3) «Verbetes estatísticos para os tribunais do trabalho» ... -85$00
+
+Para o artigo 66.º, n.º 1) «Móveis» ... +85$00
+
+Art. 2.º São abertos no Ministério das Finanças créditos, especiais no montante de 86432646$70, destinados quer a reforçar verbas insuficientemente dotadas quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+
+Encargos gerais da Nação
+
+Capítulo 1.º «Presidência da República - Secretaria da Presidência da República»
+
+Artigo 12.º, n.º 3) «Aquisição de insígnias ...» ... 40000$00
+
+Capítulo 4.º «Secretariado Nacional da Informação, Cultura Popular e Turismo»:
+
+Artigo 91.º, n.º 7) «Fundo de Turismo» ... 18000000$00
+
+Capítulo 7.º «Secretaria de Estado da Aeronáutica»:
+
+Gabinete do Secretário de Estado
+
+Artigo 128.º, n.º 1) «Pessoal dos quadros ... - Pessoal do Gabinete»:
+
+1 ajudante de campo ... 29400$00
+
+Artigo 129.º «Remunerações acidentais», n.º 2) «Gratificações a militares em prestação de serviço obrigatório que excedam os quadros», alínea a) «Pelo serviço prestado na Secretaria de Estado da Aeronáutica, nas direcções de serviços, nos comandos e unidades da Força Aérea» ... 1568$00
+
+Artigo 136.º, n.º 1) alínea a) «Despesas imprevistas ou reservadas» ... 4380$00
+
+Força Aérea
+
+Direcção do Serviço de Material da Força Aérea
+
+Artigo 175.º, n.º 2) «Luz, ...» ... 5500$00
+
+Batalhão de caçadores pára-quedistas (Tancos)
+
+Pessoal militar pára-quedista:
+
+Artigo 275.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/09/20400/10911094.pdf)
+
+... 327600$00
+
+Pessoal equiparado a militar pára-quedista:
+
+Artigo 279.º «Remunerações certas ao pessoal em exercício» n.º 1) «Pessoal dos quadros aprovados por lei»:
+
+(Durante nove meses):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/09/20400/10911094.pdf)
+
+... 456300$00
+
+Pessoal equiparado a militar em preparação
+
+Artigo 284.º-A «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal além dos quadros - Para pagamento de vencimentos ao pessoal equiparado militar em preparação» ... 160200$00
+
+Artigo 284.º-B «Remunerações acidentais», n.º 1) «Gratificações ao pessoal que exceda os quadros aprovados por lei» ... 30000$00
+
+... 19054948$00
+
+Ministério das Finanças
+
+Capítulo 1.º «Encargos da dívida pública»:
+
+Art. 5.º «Fundo de regularização da dívida pública» n.º 4) «Encargos dos capitais pertencentes ao Fundo da Amortização em 3l de Maio de 1960 ([Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931) e n.º 1.º do artigo 24.º do [Decreto n.º 43454](https://diariodarepublica.pt/dr/detalhe/decreto/43454-1960-479932), de 30 de Dezembro de 1960» ... 3991807$20
+
+Ministério da Justiça
+
+Capítulo 4.º «Direcção-Geral dos Serviços Prisionais»:
+
+Prisão-Hospital de S. João de Deus
+
+Artigo 293.º, n.º 2) , alínea a) «Drogas, ...» ... 150000$00
+
+Artigo 294.º, n.º 1) «Serviços clínicos ...» ... 80000$00
+
+Cadeia do Forte de Peniche
+
+Artigo 312.º, n.º 2) «Luz, ...» ... 12000$00
+
+Colónia Penal do Bié
+
+Artigo 325.º, n.º 2) «Pagamento de serviços ...» ... 30000$00
+
+... 272000$00
+
+Ministério da Marinha
+
+Capítulo 7.º «Arsenal do Alfeite»:
+
+Artigo 230.º «Material e outras despesas» ... 3000000$00
+
+Ministério das Obras Públicas
+
+Capítulo 1.º «Gabinete do Ministro»:
+
+Artigo 6.º. n.º 2) «Artigos de expediente ...» ... 20000$00
+
+Artigo 8.º, n.º 2) «Telefones» ... 14000$00
+
+... 34000$00
+
+Ministério da Economia
+
+Capítulo 1.º «Gabinete do Ministro»:
+
+Artigo 4.º, n.º 1) «Semoventes», alínea a) «Viaturas com motor» ... 9000$00
+
+Secretaria de Estado da Agricultura
+
+Capítulo 4.º «Direcção-Geral dos Serviços Agrícolas»:
+
+Artigo 40.º, n.º 1) «Participações em cobranças ou receitas» ... 2500000$00
+
+Secretaria de Estado da Indústria
+
+Capítulo 12.º «Gabinete do Secretário de Estado»:
+
+Artigo 230.º, n.º 2) «De semoventes», alínea a) «Veículos com motor» ... 36000$00
+
+Capítulo 23.º «II Plano de Fomento - Investigação aplicada»:
+
+Artigo 322.º, n.º 8) «Fomento da fruticultura» ... 300000$00
+
+... 2845000$00
+
+Ministério das Comunicações
+
+Capítulo 3.º «Direcção-Geral de Transportes Terrestres - Fundo Especial de Transportes Terrestres».
+
+Artigo 40.º «Pagamento de serviços ...» ... 52233391$50
+
+Capítulo 4.º «Aeronáutica civil - Aeroporto de Lisboa»
+
+Artigo 67.º «Despesas com o pessoal» ... 356310$00
+
+Artigo 68.º «Despesas com o material» ... 3643690$00
+
+Artigo 69.º «Pagamento de serviços ...» ... 1000000$00
+
+... 57233391$50
+
+Ministério das Corporações e Previdência Social
+
+Capítulo 5.º «Direcção-Geral do Trabalho e Corporações»:
+
+Artigo 82.º, n.º 2) «Pagamento de serviços ...» ... 1500$00
+
+... 86432646$70
+
+Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+
+Orçamento das receitas do Estado
+
+Capítulo 5.º, artigo 114.º «Aeroporto de Lisboa» ... 5000000$00
+
+Capítulo 7.º, artigo 168.º «Reembolso das importâncias entregues pelo Ministério da Marinha ao Arsenal do Alfeite» ... 3000000$00
+
+Capítulo 8.º, artigo 236.º «Fundo Especial de Transportes Terrestres» ... 52233391$50
+
+Capítulo 8.º, artigo 250.º «Fundo de Turismo» ... 18000000$00
+
+Capítulo 8.º, artigo 239.º «Direcção-Geral dos Serviços Agrícolas» ... 2500000$00
+
+... 80733391$50
+
+Encargos gerais da Nação
+
+Capítulo 6.º, artigo 102.º, n.º 1) ... 44380$00
+
+Capítulo 7.º, artigo 137.º, n.º 1) ... 30968$00
+
+Capítulo 7.º, artigo 152.º, n.º 1), alínea b) ... 5500$00
+
+Capítulo 7.º, artigo 275.º, n.º 1) ... 327600$00
+
+Capítulo 7.º, artigo 279.º, n.º 1) ... 8100$00
+
+Capítulo 7.º, artigo 281.º, n.º 1) ... 508400$00
+
+Capítulo 7.º, artigo 282.º, n.º 1) ... 130000$00
+
+... 1054948$00
+
+Ministério das Finanças
+
+Capítulo 1.º, artigo 7.º, n.º 3 ... 3991807$20
+
+Ministério da Justiça
+
+Capítulo 4.º, artigo 161.º, n.º 2) ... 12000$00
+
+Capítulo 4.º, artigo 179.º, n.º 1) ... 230000$00
+
+Capítulo 4.º, artigo 317.º, n.º 1) ... 30000$00
+
+... 272000$00
+
+Ministério das Obras Públicas
+
+Capítulo 5.º, artigo 71.º, n.º 3), alínea a) ... 34000$00
+
+Ministério da Economia
+
+Capítulo 6.º, artigo 144.º, n.º 1). alínea a) ... 5000$00
+
+Capítulo 15.º, artigo 271.º, n.º 1), alínea a) ... 40000$00
+
+Capítulo 23.º, artigo 317.º, n.º 1), alínea a) ... 100000$00
+
+Capítulo 23.º, artigo 317.º, n.º 1), alínea b) ... 200000$00
+
+... 345000$00
+
+Ministério das Corporações e Previdência Social
+
+Capítulo 2.º, artigo 23.º, n.º 1) ... 1500$00
+
+... 86432646$70
+
+Art. 4.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
+
+Do Ministério das Finanças
+
+A rubrica do capítulo 1.º, artigo 7.º «Remição diferida», é alterada para:
+
+Fundo de renda vitalícia.
+
+Do Ministério das Comunicações
+
+À rubrica da dotação do capítulo 4.º, artigo 120.º, é aposta a seguinte observação:
+
+(a) Inclui para efeitos do artigo 1.º do [Decreto-Lei n.º 36610](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36610-1947-636690), de 24 de Novembro de 1947, a importância de 600000$00 para vencimentos e salários do pessoal.
+
+Do Ministério da Saúde e Assistência
+
+A observação (a) aposta à dotação do capítulo 3.º, artigo 31.º, n.º 3), alínea a), é alterada para:
+
+Inclui 209801$10 ...
+
+Art. 5.º São anuladas as seguintes quantias às previsões das receitas abaixo indicadas inscritas no orçamento das receitas aprovado para o corrente ano económico:
+
+### CAPÍTULO 3.º — Indústrias em regime tributário especial
+
+Artigo 32.º «Imposto de camionagem e taxa de compensação»:
+
+Imposto ... 6000000$00
+
+Taxa ... 14000000$00
+
+... 20000000$00
+
+Art. 6.º É aumentada com a quantia de 20000000$00 a previsão da verba inscrita no capítulo 2.º, artigo 17.º do mesmo orçamento.
+
+Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 2 de Setembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

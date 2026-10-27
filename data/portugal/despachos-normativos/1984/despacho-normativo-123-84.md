@@ -1,0 +1,169 @@
+---
+schema_version: '1.0'
+id: pt:dre:387164:por
+title: Despacho Normativo n.º 123/84
+short_title: null
+summary: Regulamenta o Decreto-Lei n.º 124/84, de 18 de Abril, sobre regularização de contribuições de períodos de trabalho
+  em relação aos quais não houve atempada declaração de actividade nem pagamento de contribuições
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério do Trabalho e Segurança Social - Secretaria de Estado da Segurança Social - Gabinete da Secretária de Estado
+proposing_entity: null
+official_number: 123/84
+official_date: null
+publication_date: '1984-06-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 143/1984, Série I de 1984-06-22
+  number: '143'
+  series: I
+  supplement: null
+  pages: 1909 - 1914
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/06/14300/19091914.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '387164'
+  dre_path: /dr/detalhe/despacho-normativo/123-1984-387164
+  internal: pt:dre:387164:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/123-1984-387164
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/123-1984-387164
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:27:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 96affb365fd96edc67f807c261c9139fe7389e9797ad0705950461f6f97dfb54
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:27:45Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Contribuições da Segurança Social
+- Segurança Social
+- Trabalhador Independente
+- Trabalhador por Conta de Outrem
+relationships:
+- type: amended_by
+  target: pt:dre:508818:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:654925:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:508818:por
+  label: "Revogada a norma VIII pelo DN.19/2000.2000.02.10.MTS DR.IS-B [73] de 27/Mar/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/19-2000-508818
+  date: '2000-02-10'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:27:45Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 123/84
+
+O [Decreto-Lei n.º 124/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1984-654925), de 18 de Abril, estabeleceu o princípio da co-responsabilidade dos trabalhadores subordinados perante a segurança social e definiu os meios de prova do exercício da actividade profissional a exigir pelas instituições sempre que for pedida a aceitação do pagamento de contribuições intempestivas referentes a períodos anteriores de trabalho, bem como a forma de cálculo do respectivo montante, tratando-se de dívidas já prescritas.
+
+A correcta aplicação do diploma exige, contudo, a regulamentação de algumas disposições, designadamente no que respeita à entrega da declaração e ao processo de requerimento de contribuições prescritas.
+
+Nestes termos, ao abrigo do disposto no artigo 13.º do mesmo diploma, determina-se:
+
+I
+
+1 - A declaração dos trabalhadores referida no artigo 3.º do [Decreto-Lei n.º 124/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1984-654925), de 18 de Abril, deve ser feita em impresso de modelo próprio, em duplicado, e entregue na instituição de segurança social que abranja o beneficiário ou nos organismos e serviços por esta indicados para o efeito.
+
+2 - No momento do recebimento da declaração, os serviços, após conferência dos elementos de identificação do beneficiário, autenticam o duplicado da declaração, que é devolvido ao interessado.
+
+3 - No caso de difícil acesso às entidades referidas no n.º 1, poderá a entrega da declaração ser efectuada por via postal, devendo, para o efeito, a mesma ser correctamente preenchida e acompanhada de sobrescrito devidamente endereçado e estampilhado para devolução do duplicado.
+
+II
+
+Expirado o prazo para entrega da folha de remunerações que devesse incluir o trabalhador correspondente à declaração sem que a referida folha tenha dado entrada nos serviços, deverá a instituição promover o cumprimento da obrigação da entidade patronal, nos termos legalmente previstos.
+
+III
+
+Verificada a entrada da folha de remunerações que inclua o trabalhador correspondente à declaração, pode esta ser inutilizada, sem prejuízo das anotações que a instituição julgar conveniente fazer para a correcta actuação dos serviços.
+
+IV
+
+1 - O pagamento de contribuições prescritas depende do deferimento do requerimento apresentado para o efeito pelos interessados.
+
+2 - O requerimento integra o pedido de cálculo do valor das contribuições a pagar, o qual só é satisfeito após exibição, por parte do interessado, dos meios de prova especialmente exigidos por lei para o efeito.
+
+3 - Realizado o cálculo referido no número anterior, as instituições comunicarão aos interessados o montante apurado, devendo o respectivo pagamento ser efectuado no prazo de 30 dias a partir da data do seu conhecimento, considerando-se a sua não verificação como desistência do pedido.
+
+4 - É dispensável a entrega da folha de remunerações, podendo as instituições preenchê-la oficiosamente, se tal considerarem conveniente.
+
+V
+
+1 - A exigência dos meios de prova previstos no n.º 1 do artigo 12.º do [Decreto-Lei n.º 124/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1984-654925) aplica-se nos casos de:
+
+a) Contribuições prescritas;
+
+b) Contribuições não prescritas relativamente às quais haja pedido de pagamento ou entrega de folhas de remuneração, se reportadas a períodos de tempo anteriores à data do início da relação contributiva em causa.
+
+2 - A instituição tem ainda a faculdade de exigir a prova referida no n.º 1 do artigo 9.º do mesmo diploma quando, fora dos casos citados, a entrega extemporânea de folhas de remuneração suscite dúvidas quanto à existência da relação laboral.
+
+3 - O indeferimento do pedido de pagamento de contribuições, em consequência da não produção de prova, nos termos dos números anteriores, torna irrelevante a contagem do período de tempo que lhe corresponda.
+
+VI
+
+1 - O pagamento retroactivo de quotizações a que se refere o n.º 2 do artigo 12.º do [Decreto-Lei n.º 124/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1984-654925) apenas respeita a sócios efectivos beneficiários do regime especial de previdência e não pode reportar-se a períodos anteriores à data da inscrição.
+
+2 - A inscrição no regime especial dos referidos trabalhadores não é, por si só, prova inequívoca do exercício da actividade agrícola no período à mesma subsequente.
+
+3 - Compete às instituições gestoras exigir os meios de prova que considerem relevantes para a confirmação do exercício da referida actividade, designadamente os que demonstrem ser essa e não outra a normal actividade profissional ou meio de subsistência do trabalhador.
+
+VII
+
+1 - No caso dos beneficiários do regime especial de previdência, as quotizações a pagar a seu pedido, relativamente a períodos em que as quotizações devidas se encontrem prescritas, serão fixadas no quantitativo em vigor à data do requerimento.
+
+2 - Se, uma vez substituído o regime especial de previdência, à data do requerimento estiverem em causa contribuições prescritas, o valor a pagar será determinado em função da remuneração do sector e da taxa em vigor à data do referido requerimento.
+
+VIII
+
+1 - Os impressos de modelo próprio referidos nas normas I e IV são os que se publicam em anexo.
+
+2 - As instruções para execução tipográfica dos referidos impressos constarão de circular normativa a emitir pela Direcção-Geral da Organização e Recursos Humanos.
+
+Secretaria de Estado da Segurança Social, 17 de Maio de 1984. - A Secretária de Estado da Segurança Social, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/14300/19091914.pdf)

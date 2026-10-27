@@ -1,0 +1,402 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:124097546:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-224366854",
+ "dre_path": "/dr/detalhe/decreto-lei/116-2019-124097546",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-08-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "224331187",
+    "224331188",
+    "224331189",
+    "224331190",
+    "224331191",
+    "224331192",
+    "224331193",
+    "224331194",
+    "224331195",
+    "224331196",
+    "224331197",
+    "224331198",
+    "224331199",
+    "224331200",
+    "224331201",
+    "224331202",
+    "224331203",
+    "224331204",
+    "224331205",
+    "224331206",
+    "224331207",
+    "224331208",
+    "224331209",
+    "224331210",
+    "224331211",
+    "224331212",
+    "224331213"
+   ]
+  },
+  {
+   "date": "2023-12-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:224366836:por",
+     "title": "Lei n.º 63/2023",
+     "published": "2023-11-16",
+     "dre_path": "/dr/detalhe/lei/63-2023-224366836"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "224331187",
+    "224331188",
+    "224331189",
+    "224331190",
+    "224331191",
+    "224331221",
+    "224331193",
+    "224331222",
+    "224331223",
+    "224331224",
+    "224331225",
+    "224331198",
+    "224331199",
+    "224331226",
+    "224331227",
+    "224331202",
+    "224331203",
+    "224331204",
+    "224331205",
+    "224331228",
+    "224331207",
+    "224331208",
+    "224331209",
+    "224331210",
+    "224331211",
+    "224331212",
+    "224331213",
+    "224331214"
+   ]
+  }
+ ],
+ "fragments": {
+  "224331187": {
+   "fragment_id": "224366855",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 116/2019\n\nde 21 de agosto\n\nSumário: Define o modelo de cogestão das áreas protegidas.\n\nNa prossecução da política ambiental, as áreas protegidas constituem a infraestrutura indispensável para a concretização dos propósitos da conservação da natureza, tendo o Instituto da Conservação da Natureza e das Florestas, I. P., enquanto autoridade nacional para a conservação da natureza e da biodiversidade, a missão de assegurar o cumprimento das obrigações internacionais e nacionais neste domínio, a salvaguarda da Rede Nacional de Áreas Protegidas (RNAP), através do seu planeamento integrado e articulado, assim como a concretização dos objetivos transversais no domínio das ações de conservação ativa e monitorização de espécies e habitats.\n\nReafirmar a RNAP no contexto da valorização do território de Portugal, proteger os seus valores e desencadear os processos de promoção e aproveitamento dos recursos territoriais existentes são medidas expressas no Programa do XXI Governo Constitucional, que requerem uma gestão de proximidade.\n\nO caráter humanizado de todo o território nacional é uma marca também das áreas protegidas, aqui com a particularidade de se terem construído equilíbrios harmoniosos entre as atividades humanas e a natureza que sustentam os ecossistemas e, por isso, requerem a presença de pessoas e das suas atividades. Ao mesmo tempo, assiste-se ao aumento da sua procura para uso e fruição, a qual é cada vez mais exigente e respeitadora dos valores distintivos e genuínos que as áreas protegidas são capazes de oferecer. Reconhece-se hoje que as áreas protegidas são alvo de uma procura crescente por diferentes grupos de interesse, designadamente pelas pessoas que pretendem uma experiência autêntica de contacto com a natureza. Nas regiões do interior, sobretudo, as áreas protegidas constituem, cada vez mais, polos de atração, induzindo a mobilização dos recursos locais, contribuindo para promover localmente a economia e o desenvolvimento social e, deste modo, para criar melhores condições para fixar pessoas nesses territórios. A natureza é, neste quadro, o elemento agregador que norteia a cogestão das áreas protegidas.\n\nValorizar a RNAP, como uma rede coerente e consistente, não pode ignorar que a gestão particular de cada área protegida encerra especificidades próprias decorrentes dos seus valores naturais, nas dimensões política, territorial, cultural, social e económica da sua sustentabilidade, para as quais as entidades que estão no território detêm, reconhecidamente, uma capacidade de mobilização e interação que a proximidade e conhecimento do território lhes confere.\n\nNeste sentido, a Resolução do Conselho de Ministros n.º 55/2018, de 7 de maio, que aprovou a Estratégia Nacional de Conservação da Natureza e Biodiversidade 2030, veio prever, enquanto medida estruturante, a adoção de modelos de cogestão das áreas protegidas, incentivando o estabelecimento de parcerias com as entidades presentes no território. Para esta nova abordagem concorreu determinantemente a experiência já adquirida e avaliada do projeto piloto para a gestão colaborativa do Parque Natural do Tejo Internacional, iniciado em 2017, e que reuniu a autoridade nacional para a conservação da natureza e da biodiversidade e os três municípios abrangidos pela área do Parque, bem como uma instituição de ensino superior, uma associação empresarial e uma organização não-governamental de ambiente com intervenção naquele território, num modelo de gestão participativo e colaborativo. Tendo em conta, de igual modo, a experiência associativa de municípios para a cogestão de áreas protegidas, prevê-se que as associações de municípios já constituídas, ou que venham a ser constituídas, para participar na gestão de áreas protegidas de âmbito nacional sejam reconhecidas como grupos de ação locais para gerir fundos europeus para o desenvolvimento local de base comunitária.\n\nInstitui-se, assim, o modelo de cogestão para as áreas protegidas de âmbito nacional, a partir do qual se pretende imprimir uma dinâmica de gestão de proximidade, em que diferentes entidades colocam ao serviço da área protegida o que de melhor têm para oferecer no quadro das suas competências e atribuições, pondo em prática uma gestão participativa, colaborativa e articulada em cada área. Tendo em conta a experiência dos projetos de prevenção estrutural contra incêndios e de restauro em parque naturais, em especial no Parque Natural do Tejo Internacional, aprovados pela Resolução do Conselho de Ministros n.º 167/2017, de 2 de novembro, alterada pela Resolução do Conselho de Ministros n.º 62/2019, de 1 de abril, é considerada a hipótese da gestão colaborativa nas áreas envolventes às áreas protegidas de âmbito nacional, sempre que tal se afigure necessário à execução de medidas e ações previstas no plano de cogestão para a prossecução dos objetivos de desenvolvimento sustentável naquelas áreas protegidas. Esta possibilidade, porém, depende de devida fundamentação da sua necessidade e adequação, sendo sempre circunscrita aos limites administrativos dos municípios que as integram. Ao mesmo tempo, estende-se o modelo de gestão participativa às demais áreas protegidas, de âmbito local ou regional, que integram a RNAP.\n\nNeste propósito, juntam-se a autoridade nacional para a conservação da natureza e da biodiversidade, os municípios presentes nos territórios das áreas protegidas e quem, pelo conhecimento técnico-científico e saberes aplicados nessas áreas, possa contribuir para a aplicação das políticas de conservação, valorização e competitividade do território, sempre com o fito de gerir, dar valor e perenidade aos ativos territoriais que as diferentes realidades do país concedem. Cria-se, desta forma, a comissão de cogestão da área protegida enquanto órgão de administração e gestão da mesma, que é o primeiro responsável perante a comunidade pelo desempenho da sua gestão.\n\nOs conselhos estratégicos, que funcionam junto de cada área protegida, mantêm a sua natureza consultiva, como estabelece o artigo 9.º do Decreto-Lei n.º 43/2019, de 29 de março, sendo responsáveis pela emissão dos pareceres obrigatórios não vinculativos previstos no regime instituído pelo presente decreto-lei. Mas agora são dotados de maior amplitude de ação que é alargada à cogestão das áreas protegidas, bem como de maior dinâmica e proatividade na abertura da área protegida ao exterior.\n\nAssim, pelas razões referidas, e em alinhamento com o princípio de subsidiariedade e a política de descentralização plasmada no Programa do XXI Governo Constitucional, pretende o Governo reforçar a intervenção dos municípios nestas áreas.\n\nNo mesmo sentido, foi publicada a Lei n.º 50/2018, de 16 de agosto, que prevê a participação dos municípios na gestão das áreas protegidas de âmbito nacional, os quais, nos termos do Regime Jurídico da Conservação da Natureza e da Biodiversidade, já são competentes para a criação e gestão de áreas protegidas de âmbito regional ou local.\n\nO presente decreto-lei concretiza, nos termos da alínea c) do artigo 20.º da referida lei, um modelo de cogestão naquelas áreas protegidas de âmbito nacional, com expressa intervenção dos municípios.\n\nConsidera o Governo que a opção político-legislativa concretizada neste diploma salvaguardará, de forma mais eficiente, os interesses legítimos dos potenciais beneficiários, bem como a integridade dos territórios em questão, para além de incrementar a política de proximidade que constitui um dos pilares do Programa do XXI Governo Constitucional.\n\nFoi ouvida a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea c) do artigo 20.º da Lei n.º 50/2018, de 16 de agosto, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "224331188": {
+   "fragment_id": "224366856",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "224331189": {
+   "fragment_id": "224366857",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - O presente decreto-lei define o modelo de cogestão das áreas protegidas, que concretiza o princípio de participação dos órgãos municipais na respetiva gestão, ao abrigo do previsto na alínea c) do artigo 20.º da Lei n.º 50/2018, de 16 de agosto.\n\n2 - O presente decreto-lei aplica-se às áreas protegidas que constituem a Rede Nacional de Áreas Protegidas (RNAP) nos termos do Regime Jurídico da Conservação da Natureza e da Biodiversidade (RJCNB), aprovado pelo Decreto-Lei n.º 142/2008, de 24 de julho, na sua redação atual.\n\n3 - Podem ser consideradas, sempre que adequado e devidamente fundamentado, as zonas envolventes às áreas protegidas, circunscritas aos limites administrativos dos municípios que as integram, quando necessário à execução de medidas e ações previstas ao abrigo do presente decreto-lei para a prossecução dos objetivos de desenvolvimento sustentável naquelas áreas protegidas.\n\n4 - O presente decreto-lei não se aplica às áreas previstas no artigo 21.º do RJCNB."
+  },
+  "224331190": {
+   "fragment_id": "224366858",
+   "type": 11,
+   "heading": "Artigo 2.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competências\n\n1 - É da competência dos órgãos municipais:\n\na) A gestão das áreas protegidas de âmbito local;\n\nb) Participar na gestão das áreas protegidas de âmbito nacional, através do exercício das funções de cogestão que lhes são cometidas pelo presente decreto-lei e da sua integração nos conselhos estratégicos previstos no artigo 9.º do Decreto-Lei n.º 43/2019, de 29 de março;\n\nc) Instaurar, instruir e decidir os procedimentos contraordenacionais, bem como aplicar as coimas e as sanções acessórias nas áreas protegidas de âmbito nacional em que participem na respetiva gestão, nos casos previstos no n.º 2 do artigo 45.º do RJCNB.\n\n2 - É da competência das entidades intermunicipais e das associações de municípios a gestão das áreas protegidas de âmbito regional.\n\n3 - O disposto nos números anteriores não inclui a prática de atos reservados por lei ou regulamento à autoridade nacional para a conservação da natureza e da biodiversidade, nomeadamente a prática de atos permissivos relativos a atividades condicionadas nas áreas protegidas, nem prejudica o disposto no n.º 1 do artigo 13.º do RJCNB."
+  },
+  "224331191": {
+   "fragment_id": "224366859",
+   "type": 11,
+   "heading": "Artigo 3.º — Exercício das competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Exercício das competências\n\n1 - As competências dos órgãos municipais previstas no presente decreto-lei são exercidas pela câmara municipal, sem prejuízo da competência da assembleia municipal nas situações que, nos termos do regime jurídico das autarquias locais, lhe estejam atribuídas e da competência própria do presidente da câmara municipal para os atos previstos na alínea c) do n.º 1 do artigo anterior e para dirigir e superintender os serviços.\n\n2 - A competência prevista na alínea b) do n.º 1 do artigo anterior pode ser exercida pelos órgãos competentes das entidades intermunicipais ou das associações de municípios com atribuições em territórios abrangidos por áreas protegidas, mediante delegação dos municípios que as integram.\n\n3 - O exercício das competências previstas no presente decreto-lei obedece e subordina-se aos princípios e normas consagradas na lei de bases da política de ambiente, aprovada pela Lei n.º 19/2014, de 4 de abril, no RJCNB e na Estratégia Nacional de Conservação da Natureza e Biodiversidade 2030 (ENCNB 2030), aprovada pela Resolução do Conselho de Ministros n.º 55/2018, de 7 de maio, na sua redação atual."
+  },
+  "224331192": {
+   "fragment_id": "224366860",
+   "type": 11,
+   "heading": "Artigo 4.º — Modelo de gestão para as áreas protegidas da Rede Nacional de Áreas Protegidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Modelo de gestão para as áreas protegidas da Rede Nacional de Áreas Protegidas\n\n1 - Nas áreas protegidas de âmbito nacional deve ser adotado o modelo de cogestão estabelecido no presente decreto-lei, até ao dia 1 de janeiro de 2021.\n\n2 - Os municípios cujo território integra uma área protegida de âmbito nacional podem propor a todo o tempo ao Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), a concretização do modelo de cogestão nesse território.\n\n3 - Quando o conjunto de municípios abrangidos por uma área protegida de âmbito nacional proponha junto do ICNF, I. P., a adoção do modelo de cogestão, devem ser promovidas as diligências para a sua concretização, em prazo não superior a 120 dias.\n\n4 - As áreas protegidas de âmbito regional ou local podem, sob proposta dos municípios que as integram, adotar o modelo de cogestão, devendo neste caso ser consideradas preferencialmente para efeitos de integração na RNAP, nos termos previstos no n.º 5 do artigo 15.º do RJCNB."
+  },
+  "224331193": {
+   "fragment_id": "224366861",
+   "type": 1,
+   "heading": "Capítulo II — Cogestão de áreas protegidas de âmbito nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Cogestão de áreas protegidas de âmbito nacional"
+  },
+  "224331194": {
+   "fragment_id": "224366862",
+   "type": 11,
+   "heading": "Artigo 5.º — Modelo de cogestão de áreas protegidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Modelo de cogestão de áreas protegidas\n\n1 - Sem prejuízo do disposto no n.º 1 do artigo 13.º do RJCNB, é instituído um modelo de cogestão a adotar para cada uma das áreas protegidas de âmbito nacional, nos termos do presente decreto-lei, que tem por objetivos:\n\na) Criar uma dinâmica partilhada de valorização da área protegida, tendo por base a sua sustentabilidade nas dimensões política, social, económica, ecológica, territorial e cultural e incidindo especificamente nos domínios da promoção, sensibilização e comunicação;\n\nb) Estabelecer procedimentos concertados que visem um melhor desempenho na salvaguarda dos valores naturais e na resposta às solicitações da sociedade, através de uma maior articulação e eficiência das interações entre o ICNF, I. P., os municípios e demais entidades públicas competentes;\n\nc) Gerar uma relação de maior proximidade aos cidadãos e às entidades relevantes para a promoção do desenvolvimento sustentável da área protegida.\n\n2 - O modelo de cogestão a adotar pressupõe:\n\na) A participação dos municípios e dos representantes das entidades relevantes para a promoção do desenvolvimento sustentável da respetiva área protegida;\n\nb) O cumprimento dos princípios e das normas legais e regulamentares aplicáveis às áreas protegidas, em especial as previstas no RJCNB e na ENCNB 2030."
+  },
+  "224331195": {
+   "fragment_id": "224366863",
+   "type": 11,
+   "heading": "Artigo 6.º — Entidades envolvidas na cogestão da área protegida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entidades envolvidas na cogestão da área protegida\n\n1 - São entidades envolvidas na cogestão da área protegida:\n\na) A comissão de cogestão da área protegida e respetivo presidente;\n\nb) O conselho estratégico, previsto na alínea c) do artigo 8.º do RJCNB, com a composição e regras de funcionamento fixadas no artigo 9.º do Decreto-Lei n.º 43/2019, de 29 de março, que funciona junto de cada área protegida, com as responsabilidades específicas em matéria de cogestão que lhe são cometidas pelo presente decreto-lei.\n\n2 - Os membros das entidades referidas no número anterior não têm o direito ao pagamento de qualquer remuneração ou abono pelo exercício das respetivas funções."
+  },
+  "224331196": {
+   "fragment_id": "224366864",
+   "type": 11,
+   "heading": "Artigo 7.º — Comissão de cogestão da área protegida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Comissão de cogestão da área protegida\n\n1 - A comissão de cogestão tem a seguinte composição:\n\na) Um presidente de câmara municipal dos municípios abrangidos pela área protegida, que preside à comissão de cogestão;\n\nb) Um representante do ICNF, I. P.;\n\nc) Um representante de instituições de ensino superior relevantes para o desenvolvimento sustentável dos territórios abrangidos pela área protegida;\n\nd) Um representante de organizações não-governamentais de ambiente e equiparadas, com inscrição ativa no registo nacional previsto na Lei n.º 35/98, de 18 de julho, na sua redação atual, relevantes para o desenvolvimento sustentável dos territórios abrangidos pela área protegida;\n\ne) Até três representantes de outras entidades, não referidas nas alíneas anteriores, relevantes para o desenvolvimento sustentável dos territórios abrangidos pela área protegida, em função da complexidade desta.\n\n2 - Os presidentes das câmaras municipais dos municípios abrangidos pela área protegida designam, de entre eles, o que preside à comissão de cogestão, nos termos da alínea a) do número anterior, e qual o que o deve substituir nas situações de impedimento ou ausência, sem prejuízo do disposto no n.º 2 do artigo 3.º\n\n3 - O ICNF, I. P., indica o seu representante através do diretor regional territorialmente competente em função da área protegida.\n\n4 - A representação das entidades referidas nas alíneas c) a e) do n.º 1 é assegurada pelos seus responsáveis máximos, com possibilidade de delegação.\n\n5 - A integração na comissão de cogestão dos representantes das entidades referidas nas alíneas c) e e) do n.º 1 depende de parecer prévio do conselho estratégico e do ICNF, I. P., sob proposta dos municípios abrangidos pela área protegida.\n\n6 - A designação do representante das entidades referidas na alínea d) do n.º 1 é realizada pela Confederação Portuguesa das Associações de Defesa do Ambiente.\n\n7 - Os membros da comissão de cogestão previstos nas alíneas b), c) e e) do n.º 1 são designados por despacho dos membros do Governo responsáveis pelas áreas da conservação da natureza e do ensino superior, que indica também o seu presidente conforme previsto na alínea a) do n.º 1, o representante das entidades referidas na alínea d) do n.º 1 e a duração do mandato da comissão de cogestão, que não deverá ser inferior a quatro anos.\n\n8 - O despacho referido no número anterior é publicado na 2.ª série do Diário da República.\n\n9 - Os membros da comissão de cogestão asseguram as diligências necessárias junto das organizações que representam, para o cumprimento da sua missão.\n\n10 - A comissão de cogestão reúne ordinariamente todos os meses e extraordinariamente sempre que seja convocada pelo seu presidente, mediante solicitação de qualquer um dos seus membros.\n\n11 - As decisões da comissão de cogestão são adotadas por consenso, sem prejuízo do disposto no n.º 3 do artigo 2.º\n\n12 - O regulamento interno da comissão de cogestão pode determinar a constituição de grupos de trabalho específicos para o desenvolvimento e acompanhamento da execução de medidas e ações referentes a um determinado setor de atividade.\n\n13 - Concluído o mandato da comissão de cogestão, a sua renovação opera-se nos moldes estabelecidos nos n.os 2 a 8.\n\n14 - A alteração dos representantes na comissão de cogestão, por motivos de força maior ou devidamente fundamentado, ou na sequência de eleições de titulares para os órgãos das autarquias locais, segue, com as devidas adaptações, o disposto no número anterior."
+  },
+  "224331197": {
+   "fragment_id": "224366865",
+   "type": 11,
+   "heading": "Artigo 8.º — Funções da comissão de cogestão da área protegida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Funções da comissão de cogestão da área protegida\n\n1 - A comissão de cogestão é responsável por:\n\na) Garantir que a cogestão da área protegida é desenvolvida no respeito pelo dever de zelo da salvaguarda dos recursos e valores territoriais que fundamentam a classificação da área protegida;\n\nb) Contribuir para o desenvolvimento das atividades locais em harmonia com os valores presentes, incorporando inovação e criatividade;\n\nc) Viabilizar ações de promoção ambiental, económica e social, de sensibilização e comunicação, através da elaboração e execução dos instrumentos de cogestão na área protegida;\n\nd) Dinamizar ações, em articulação com os diferentes agentes regionais e das Administrações central e local, para o desenvolvimento integrado da área protegida, bem como estimular a participação e a iniciativa da sociedade civil, designadamente através de ações de sensibilização e de projetos educativos;\n\ne) Estimular parcerias com promotores, empresas, centros de investigação, instituições de formação e municípios destinadas a planear e a executar ações de valorização sustentável do território, em particular ações associadas à agro-silvo-pastorícia, à caça, à pesca, à cultura e ao turismo de natureza;\n\nf) Promover o debate sobre as atividades e ações que ocorrem na área protegida e estimular as boas práticas de gestão para o seu uso e aproveitamento sustentáveis;\n\ng) Prestar a informação necessária para assegurar a coerência e a complementaridade entre os diversos organismos e entidades, com vista ao desenvolvimento sustentável e integrado da área protegida;\n\nh) Comunicar com todas as entidades públicas e privadas envolvidas na proteção e valorização do capital natural, interpretando e divulgando os principais atributos existentes na área protegida, e sensibilizar para as formas mais adequadas de os preservar e valorizar;\n\ni) Elaborar e aprovar os instrumentos de gestão, após parecer do conselho estratégico;\n\nj) Executar os instrumentos de gestão;\n\nk) Consultar o conselho estratégico sobre assuntos de interesse para a valorização da área protegida;\n\nl) Identificar os instrumentos e linhas de financiamento de apoio à execução do plano de cogestão da área protegida e apoiar os potenciais beneficiários para acesso a essas mesmas linhas;\n\nm) Acompanhar a elaboração, alteração ou revisão do programa especial da área protegida;\n\nn) Elaborar e aprovar o regulamento interno necessário ao seu bom desempenho.\n\n2 - Para efeitos do acompanhamento previsto na alínea m) do número anterior, deve ser prevista a participação, nos termos adequados para o efeito, da comissão de cogestão na comissão consultiva do programa especial, a constituir nos termos previstos na alínea h) do n.º 1 do artigo 46.º do Decreto-Lei n.º 80/2015, de 14 de maio."
+  },
+  "224331198": {
+   "fragment_id": "224366866",
+   "type": 11,
+   "heading": "Artigo 9.º — Funções do presidente da comissão de cogestão da área protegida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Funções do presidente da comissão de cogestão da área protegida\n\nO presidente da comissão de cogestão da área protegida é responsável por:\n\na) Acompanhar a elaboração e revisão dos instrumentos de gestão e respetiva execução;\n\nb) Convocar as reuniões da comissão de cogestão;\n\nc) Assegurar a articulação entre as entidades envolvidas na comissão de cogestão da área protegida, bem como entre esta e outras entidades externas;\n\nd) Incentivar e propiciar a participação das entidades locais e regionais, dos parceiros sociais e das organizações representativas dos interesses a prosseguir;\n\ne) Promover a avaliação das ações desenvolvidas na área protegida."
+  },
+  "224331199": {
+   "fragment_id": "224366867",
+   "type": 11,
+   "heading": "Artigo 10.º — Estrutura de apoio à comissão de cogestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Estrutura de apoio à comissão de cogestão\n\n1 - No exercício das suas funções a comissão de cogestão é coadjuvada por uma estrutura de apoio constituída pelos técnicos designados para o efeito por cada uma das entidades nela representadas e coordenada pelo responsável que o ICNF, I. P., designe para o efeito.\n\n2 - A coordenação da estrutura de apoio é desempenhada em tempo integral."
+  },
+  "224331200": {
+   "fragment_id": "224366868",
+   "type": 11,
+   "heading": "Artigo 11.º — Competências do conselho estratégico no âmbito da cogestão da área protegida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competências do conselho estratégico no âmbito da cogestão da área protegida\n\n1 - Compete ao conselho estratégico no âmbito específico da cogestão da área protegida:\n\na) Apreciar e emitir parecer prévio sobre o plano de cogestão da área protegida, incluindo os indicadores de realização propostos;\n\nb) Apreciar e emitir parecer sobre o plano anual de atividades e orçamento, bem como sobre o relatório de execução de atividades anual relativo à cogestão da área protegida;\n\nc) Apreciar quaisquer outros instrumentos ou assuntos relativos à cogestão da área protegida que lhe sejam submetidos pela comissão de cogestão;\n\nd) Apoiar a comissão de cogestão na identificação dos instrumentos e linhas de financiamento de apoio à execução do plano de cogestão da área protegida, bem como dos potenciais beneficiários;\n\ne) Identificar e analisar problemas que revelam natureza sistémica e que afetam a área protegida, propondo soluções e elaborando recomendações à comissão de cogestão;\n\nf) Apoiar a execução de medidas e ações do Plano de Cogestão da área protegida, nomeadamente através do disposto no número seguinte.\n\n2 - O regulamento interno do Conselho Estratégico pode prever secções especializadas em função dos setores de atividades relevantes para o desenvolvimento sustentável da área protegida."
+  },
+  "224331201": {
+   "fragment_id": "224366869",
+   "type": 11,
+   "heading": "Artigo 12.º — Instrumentos de gestão da área protegida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Instrumentos de gestão da área protegida\n\n1 - No âmbito do modelo de cogestão, constituem instrumentos de gestão da área protegida:\n\na) O plano de cogestão da área protegida, que determina a estratégia a implementar com vista a valorizar e promover o território, sensibilizar as populações locais e melhorar a comunicação com todos os interlocutores e utilizadores, devendo integrar um programa de medidas e ações que concretizam essa estratégia;\n\nb) O plano anual de atividades e orçamento;\n\nc) O relatório anual de execução de atividades;\n\nd) Outros instrumentos consensualizados pela comissão de cogestão da área protegida que obtenham parecer prévio do respetivo conselho estratégico.\n\n2 - Os instrumentos referidos no número anterior devem ter por referência o plano ou programa especial da área protegida, os respetivos regulamentos e demais elementos aprovados ao abrigo do Decreto-Lei n.º 80/2015, de 14 de maio, e a legislação aplicável na área da conservação da natureza e da biodiversidade."
+  },
+  "224331202": {
+   "fragment_id": "224366870",
+   "type": 11,
+   "heading": "Artigo 13.º — Plano de cogestão da área protegida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Plano de cogestão da área protegida\n\n1 - O plano de cogestão articula-se com o programa especial da respetiva área protegida e consagra a visão e a estratégia a seguir tendo por propósito a valorização e a promoção da área protegida, podendo considerar, quando adequado e devidamente fundamentado, as zonas envolventes às áreas protegidas e que sejam relevantes para o seu desenvolvimento sustentável.\n\n2 - O plano de cogestão consubstancia um compromisso entre as entidades envolvidas na sua execução e obedece aos seguintes princípios gerais:\n\na) Ser um documento mobilizador e consensual entre os parceiros;\n\nb) Estar suportado numa caracterização e diagnóstico prospetivo da área protegida;\n\nc) Materializar um conjunto de projetos e ações consideradas prioritárias para valorizar a área protegida;\n\nd) Definir as medidas e ações a implementar com vista a sensibilizar as populações e melhorar a comunicação com todos os interlocutores e utilizadores;\n\ne) Definir potenciais fontes de financiamento e parceiros para cada medida prevista;\n\nf) Ser o documento de suporte à elaboração do plano anual de atividades, que deve refletir o grau de desenvolvimento e execução do plano de cogestão;\n\ng) Articular-se com o programa de execução e plano de financiamento que acompanha o programa especial da área protegida.\n\n3 - Para efeitos do disposto nas alíneas c) e d) do número anterior, devem ser considerados, preferencialmente, projetos e ações de:\n\na) Promoção de atividades económicas desenvolvidas na área protegida que sejam compatíveis com a proteção dos valores e recursos naturais em presença;\n\nb) Constituição e valorização de rotas e percursos pedestres, cicláveis e equestres;\n\nc) Interpretação e divulgação dos valores e recursos naturais;\n\nd) Promoção de atividades desenvolvidas em meio natural que potenciem o turismo de natureza e o desporto de natureza;\n\ne) Promoção de bens produzidos com recursos endógenos;\n\nf) Promoção da inovação tecnológica, económica e social nas práticas aplicadas à manutenção das atividades e produtos tradicionais;\n\ng) Fomento de novas atividades e produtos passíveis de atribuir valor aos recursos e valores naturais existentes;\n\nh) Promoção da marca «Natural.pt»;\n\ni) Informação e sensibilização sobre os recursos naturais existentes e sobre boas práticas e usufruição do território;\n\nj) Aprofundamento da gestão colaborativa;\n\nk) Promoção do sentido de pertença das populações e dos atores chave;\n\nl) Internacionalização do território.\n\n4 - O plano de cogestão deve ser elaborado e aprovado no prazo de um ano a contar da data de designação da comissão de cogestão da respetiva área protegida e deve considerar um horizonte temporal mínimo de três anos para a sua execução.\n\n5 - A revisão do plano de cogestão deve ter início antes do termo do prazo determinado para a sua execução global."
+  },
+  "224331203": {
+   "fragment_id": "224366871",
+   "type": 11,
+   "heading": "Artigo 14.º — Financiamento do plano de cogestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Financiamento do plano de cogestão\n\n1 - Ao financiamento das medidas e das ações constantes no plano de cogestão aplicam-se os princípios da responsabilização, racionalidade, eficiência, transparência e proporcionalidade.\n\n2 - O financiamento deve, ainda, obedecer a princípios de sustentabilidade económica num horizonte de médio prazo.\n\n3 - O financiamento das medidas e das ações constantes no plano de cogestão processa-se de acordo com metas objetivas a alcançar.\n\n4 - Sem prejuízo das verbas disponibilizadas, anualmente, pelo Fundo Ambiental, pelo Fundo Florestal Permanente, pelo Fundo Azul ou por outros cuja missão seja compatível com as medidas e ações previstas no plano de cogestão, tais medidas e ações podem ser financiadas por:\n\na) Receitas próprias do ICNF, I. P.;\n\nb) Receitas próprias das demais entidades representadas na comissão de cogestão;\n\nc) Receitas obtidas no âmbito das medidas e das ações de valorização e divulgação referentes à área protegida;\n\nd) Verbas disponibilizadas pelos municípios abrangidos pela área protegida;\n\ne) Receitas obtidas por via de mecenato ambiental;\n\nf) Contribuições de fundos de direito privado, nacionais ou estrangeiros;\n\ng) Planos de investimento que tenham por objetivo a valorização do património cultural e natural do país, designadamente o Programa Valorizar, aprovado pelo Despacho Normativo n.º 9/2016, publicado no Diário da República, 2.ª série, n.º 208, de 28 de outubro, na sua redação atual;\n\nh) Contribuições da União Europeia sujeitas a orientações fixadas pelas autoridades de gestão dos respetivos planos operacionais e aos regulamentos nacionais e da União Europeia, nomeadamente provenientes de Fundos Europeus Estruturais e de Investimento.\n\n5 - As candidaturas a financiamento nacional ou da União Europeia para a execução de medidas e ações constantes no plano de cogestão devem beneficiar de coeficientes de majoração na sua avaliação."
+  },
+  "224331204": {
+   "fragment_id": "224366872",
+   "type": 11,
+   "heading": "Artigo 15.º — Participação pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Participação pública\n\n1 - A participação pública e o envolvimento de todos os interessados, em especial os residentes e utilizadores da área protegida, devem ser assegurados no desenvolvimento do respetivo modelo de cogestão, nomeadamente, por recurso à realização de:\n\na) Consultas públicas;\n\nb) Inquéritos de opinião;\n\nc) Divulgação prévia das medidas a implementar;\n\nd) Sessões participativas.\n\n2 - O plano de cogestão é sempre precedido de consulta pública, através de aviso a publicitar com a antecedência mínima de 5 dias, por edital municipal e nos sítios na Internet das entidades representadas na comissão de cogestão, por um período não inferior a 20 dias.\n\n3 - Para efeitos do disposto nos números anteriores, a comissão de cogestão deve promover a criação de canais de contacto direto, preferencialmente por via eletrónica."
+  },
+  "224331205": {
+   "fragment_id": "224366873",
+   "type": 11,
+   "heading": "Artigo 16.º — Monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Monitorização\n\n1 - O plano de cogestão deve prever os indicadores de realização aplicáveis à área protegida para o período da sua vigência, mensuráveis anualmente, que permitam comparar a situação do momento com a situação de referência anterior à execução de medidas e ações previstas.\n\n2 - O conjunto mínimo obrigatório de indicadores de realização a considerar para os efeitos do disposto no número anterior são aprovados por portaria dos membros do Governo responsáveis pelas áreas das autarquias locais e da conservação da natureza, sob proposta do ICNF, I. P., no prazo de 90 dias após a entrada em vigor do presente decreto-lei.\n\n3 - A avaliação anual dos indicadores de realização integra obrigatoriamente o relatório anual de execução de atividades previsto na alínea c) do n.º 1 do artigo 11.º"
+  },
+  "224331206": {
+   "fragment_id": "224366874",
+   "type": 11,
+   "heading": "Artigo 17.º — Publicidade e divulgação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Publicidade e divulgação\n\n1 - A comissão de cogestão publicita, de forma atualizada, nos sítios na Internet das entidades públicas nela representadas, o despacho referido no n.º 8 do artigo 7.º e os instrumentos de cogestão referidos no artigo 12.º\n\n2 - A divulgação da informação relevante no âmbito da cogestão da área protegida, incluindo a informação relativa aos instrumentos de participação referidos no n.º 1 do artigo 14.º, deve ser feita através dos meios mais adequados a garantir o conhecimento a todo o tempo pelo público em geral, nomeadamente através dos sítios na Internet das entidades públicas representadas na comissão de cogestão."
+  },
+  "224331207": {
+   "fragment_id": "224400075",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais"
+  },
+  "224331208": {
+   "fragment_id": "224400076",
+   "type": 11,
+   "heading": "Artigo 18.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Taxas\n\n1 - Pela disponibilização de serviços e bens resultantes da execução de medidas e ações previstas no plano de cogestão da área protegida, podem ser cobradas taxas destinadas a contribuir para a salvaguarda dos seus recursos e valores naturais.\n\n2 - Os montantes das taxas e a aplicação do seu produto são aprovados por portaria dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da conservação da natureza, após consulta da Associação Nacional de Municípios Portugueses."
+  },
+  "224331209": {
+   "fragment_id": "224400077",
+   "type": 11,
+   "heading": "Artigo 19.º — Destino das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Destino das coimas\n\n1 - O produto das coimas aplicadas ao abrigo da alínea c) do n.º 1 do artigo 2.º reverte para o ICNF, I. P., ou para a Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, consoante a entidade que promova a atividade de fiscalização e proceda ao processamento das contraordenações e aplicação das respetivas coimas, ou para o município em cujo território ocorra a infração, nas situações em que resulta da sua atividade de fiscalização e seja o município a proceder ao processamento das contraordenações e aplicação das respetivas coimas.\n\n2 - O produto das coimas deve ser preferencialmente afeto, pelo ICNF, I. P., ou pelo município, quando este proceda ao processamento das contraordenações e aplicação das respetivas coimas, ao financiamento dos planos de cogestão de áreas protegidas previstos no presente decreto-lei."
+  },
+  "224331210": {
+   "fragment_id": "224400078",
+   "type": 11,
+   "heading": "Artigo 20.º — Articulação de regimes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Articulação de regimes\n\nPara efeitos do disposto no n.º 2 do artigo 12.º e na alínea g) do n.º 2 do artigo 13.º, deve ser prevista a participação, nos termos adequados para o efeito, da comissão de cogestão na elaboração do regulamento de gestão da área protegida e do programa de execução e plano de financiamento que acompanha o programa especial da área protegida, previstos no n.º 3 do artigo 44.º e na alínea c) do n.º 2 do artigo 45.º do Decreto-Lei n.º 80/2015, de 14 de maio."
+  },
+  "224331211": {
+   "fragment_id": "224400079",
+   "type": 11,
+   "heading": "Artigo 21.º — Gestão de áreas classificadas ao abrigo do Decreto-Lei n.º 19/93, de 23 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Gestão de áreas classificadas ao abrigo do Decreto-Lei n.º 19/93, de 23 de janeiro\n\nAs áreas protegidas classificadas como paisagem protegida ao abrigo do Decreto-Lei n.º 19/93, de 23 de janeiro, obedecem ao regime de gestão previsto no n.º 3 do artigo 13.º do RJCNB."
+  },
+  "224331212": {
+   "fragment_id": "224400080",
+   "type": 11,
+   "heading": "Artigo 22.º — Integração nos instrumentos de planeamento do Instituto da Conservação da Natureza e das Florestas, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Integração nos instrumentos de planeamento do Instituto da Conservação da Natureza e das Florestas, I. P.\n\nApós a entrada em vigor do presente decreto-lei, o ICNF, I. P., deve promover a adoção do modelo de cogestão nas áreas protegidas de âmbito nacional, através da sua expressa previsão no quadro de objetivos fixados anualmente pelo serviço, tendo presente o prazo fixado no n.º 1 do artigo 4.º"
+  },
+  "224331213": {
+   "fragment_id": "224400081",
+   "type": 11,
+   "heading": "Artigo 23.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Produção de efeitos\n\n1 - O presente decreto-lei produz efeitos no dia seguinte ao da sua publicação sem prejuízo da sua concretização gradual nos termos do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 20 de agosto, e do disposto no número seguinte.\n\n2 - Relativamente ao ano de 2019, os municípios que não pretendam participar na gestão das áreas protegidas de âmbito nacional, de acordo com o regime instituído no presente decreto-lei, comunicam esse facto à Direção-Geral das Autarquias Locais, após prévia deliberação dos seus órgãos deliberativos, até 60 dias corridos após entrada em vigor do presente decreto-lei."
+  },
+  "224331221": {
+   "fragment_id": "224366860",
+   "type": 11,
+   "heading": "Artigo 4.º — Modelo de gestão para as áreas protegidas da Rede Nacional de Áreas Protegidas",
+   "in_force_from": "2023-12-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 63/2023 - Diário da República n.º 222/2023, Série I de 2023-11-16](https://diariodarepublica.pt/dr/detalhe/lei/63-2023-224366836), em vigor a partir de 2023-12-16"
+   ],
+   "markdown": "###### Artigo 4.º — Modelo de gestão para as áreas protegidas da Rede Nacional de Áreas Protegidas\n\n1 - Nas áreas protegidas de âmbito nacional deve ser adotado o modelo de cogestão estabelecido no presente decreto-lei.\n\n2 - Os municípios cujo território integra uma área protegida de âmbito nacional podem propor a todo o tempo ao Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), a concretização do modelo de cogestão nesse território.\n\n3 - Quando o conjunto de municípios abrangidos por uma área protegida de âmbito nacional proponha junto do ICNF, I. P., a adoção do modelo de cogestão, devem ser promovidas as diligências para a sua concretização, em prazo não superior a 120 dias.\n\n4 - As áreas protegidas de âmbito regional ou local podem, sob proposta dos municípios que as integram, adotar o modelo de cogestão, nos termos a regulamentar por portaria conjunta dos membros do Governo responsáveis pelas áreas da conservação da natureza e da administração local, devendo neste caso ser consideradas preferencialmente para efeitos de integração na RNAP, nos termos previstos no n.º 5 do artigo 15.º do RJCNB.\n\n5 - Nos casos em que, pelo menos, 50 % dos municípios abrangidos por uma área protegida de âmbito nacional, que perfaçam mais do que 50 % do total do respetivo território, proponham junto do ICNF, I. P., a adoção do modelo de cogestão, e após emissão de parecer prévio favorável do respetivo conselho estratégico, o mesmo deve ser concretizado em prazo não superior a 120 dias.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 63/2023 - Diário da República n.º 222/2023, Série I de 2023-11-16](https://diariodarepublica.pt/dr/detalhe/lei/63-2023-224366836), em vigor a partir de 2023-12-16"
+  },
+  "224331222": {
+   "fragment_id": "224366862",
+   "type": 11,
+   "heading": "Artigo 5.º — Modelo de cogestão de áreas protegidas",
+   "in_force_from": "2023-12-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 63/2023 - Diário da República n.º 222/2023, Série I de 2023-11-16](https://diariodarepublica.pt/dr/detalhe/lei/63-2023-224366836), em vigor a partir de 2023-12-16"
+   ],
+   "markdown": "###### Artigo 5.º — Modelo de cogestão de áreas protegidas\n\n1 - Sem prejuízo do disposto no n.º 1 do artigo 13.º do RJCNB, é instituído um modelo de cogestão a adotar para cada uma das áreas protegidas de âmbito nacional, nos termos do presente decreto-lei, que tem por objetivos:\n\na) Criar uma dinâmica partilhada de valorização da área protegida, tendo por base a sua sustentabilidade nas dimensões política, social, económica, ecológica, territorial e cultural e incidindo especificamente nos domínios da promoção, sensibilização e comunicação;\n\nb) Estabelecer procedimentos concertados que visem um melhor desempenho na salvaguarda dos valores naturais e na resposta às solicitações da sociedade, através de uma maior articulação e eficiência das interações entre o ICNF, I. P., os municípios e demais entidades públicas competentes;\n\nc) Gerar uma relação de maior proximidade aos cidadãos e às entidades relevantes para a promoção do desenvolvimento sustentável da área protegida.\n\nd) Contribuir, ao nível da devida articulação entre entidades presentes na área protegida, para os objetivos de conservação da natureza, de proteção da biodiversidade e de restauro ecológico;\n\ne) Contribuir para a resiliência do território onde se insere a área protegida e para a gestão efetiva dos seus riscos naturais, reforçando a coordenação e a articulação institucional.\n\n2 - O modelo de cogestão a adotar pressupõe:\n\na) A participação dos municípios e dos representantes das entidades relevantes para a promoção do desenvolvimento sustentável da respetiva área protegida;\n\nb) O cumprimento dos princípios e das normas legais e regulamentares aplicáveis às áreas protegidas, em especial as previstas no RJCNB e na ENCNB 2030.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 63/2023 - Diário da República n.º 222/2023, Série I de 2023-11-16](https://diariodarepublica.pt/dr/detalhe/lei/63-2023-224366836), em vigor a partir de 2023-12-16"
+  },
+  "224331223": {
+   "fragment_id": "224366863",
+   "type": 11,
+   "heading": "Artigo 6.º — Entidades envolvidas na cogestão da área protegida",
+   "in_force_from": "2023-12-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 63/2023 - Diário da República n.º 222/2023, Série I de 2023-11-16](https://diariodarepublica.pt/dr/detalhe/lei/63-2023-224366836), em vigor a partir de 2023-12-16"
+   ],
+   "markdown": "###### Artigo 6.º — Entidades envolvidas na cogestão da área protegida\n\n1 - São entidades envolvidas na cogestão da área protegida:\n\na) A comissão de cogestão da área protegida e respetivo presidente;\n\nb) O conselho estratégico, previsto na alínea c) do artigo 8.º do RJCNB, com a composição e regras de funcionamento fixadas no artigo 9.º do Decreto-Lei n.º 43/2019, de 29 de março, que funciona junto de cada área protegida, com as responsabilidades específicas em matéria de cogestão que lhe são cometidas pelo presente decreto-lei.\n\n2 - Para o caso dos monumentos naturais que não estejam integrados em áreas protegidas de âmbito nacional, as entidades envolvidas na cogestão da área protegida são a comissão de cogestão e o respetivo presidente.\n\n3 - Os membros das entidades referidas no número anterior não têm o direito ao pagamento de qualquer remuneração ou abono pelo exercício das respetivas funções.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 63/2023 - Diário da República n.º 222/2023, Série I de 2023-11-16](https://diariodarepublica.pt/dr/detalhe/lei/63-2023-224366836), em vigor a partir de 2023-12-16"
+  },
+  "224331224": {
+   "fragment_id": "224366864",
+   "type": 11,
+   "heading": "Artigo 7.º — Comissão de cogestão da área protegida",
+   "in_force_from": "2023-12-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 63/2023 - Diário da República n.º 222/2023, Série I de 2023-11-16](https://diariodarepublica.pt/dr/detalhe/lei/63-2023-224366836), em vigor a partir de 2023-12-16"
+   ],
+   "markdown": "###### Artigo 7.º — Comissão de cogestão da área protegida\n\n1 - A comissão de cogestão tem a seguinte composição:\n\na) Um presidente de câmara municipal dos municípios abrangidos pela área protegida, que preside à comissão de cogestão;\n\nb) Um representante do ICNF, I. P.;\n\nc) Um representante de instituições de ensino superior relevantes para o desenvolvimento sustentável dos territórios abrangidos pela área protegida;\n\nd) Um representante de organizações não-governamentais de ambiente e equiparadas, com inscrição ativa no registo nacional previsto na Lei n.º 35/98, de 18 de julho, na sua redação atual, relevantes para o desenvolvimento sustentável dos territórios abrangidos pela área protegida;\n\ne) Até três representantes de outras entidades, não referidas nas alíneas anteriores, relevantes para o desenvolvimento sustentável dos territórios abrangidos pela área protegida, em função da complexidade desta.\n\nf) Um representante da Comissão de Coordenação de Desenvolvimento Regional (CCDR) territorialmente competente;\n\ng) Um representante das associações de pesca local, apenas no caso de se tratar de uma área marinha protegida.\n\n2 - Os presidentes das câmaras municipais dos municípios abrangidos pela área protegida designam, de entre eles, o que preside à comissão de cogestão, nos termos da alínea a) do número anterior, e qual o que o deve substituir nas situações de impedimento ou ausência, sem prejuízo do disposto no n.º 2 do artigo 3.º\n\n3 - O ICNF, I. P., indica o seu representante através do diretor regional territorialmente competente em função da área protegida ou do diretor da área protegida, quando tal seja aplicável e de acordo com o previsto em portaria que aprova os estatutos deste Instituto.\n\n4 - A representação das entidades referidas nas alíneas a) a f) e g) do n.º 1, a última apenas no caso de se tratar de uma área marinha protegida, é assegurada pelos seus responsáveis máximos, com possibilidade de delegação.\n\n5 - A integração na comissão de cogestão dos representantes das entidades referidas nas alíneas c), e) e g) do n.º 1, a última apenas no caso de se tratar de uma área marinha protegida, depende de pareceres prévios favoráveis do conselho estratégico e do ICNF, I. P., sob proposta dos municípios abrangidos pela área protegida.\n\n6 - A designação do representante das entidades referidas na alínea d) do n.º 1 é realizada pela Confederação Portuguesa das Associações de Defesa do Ambiente.\n\n7 - A CCDR territorialmente competente indica o seu representante ao presidente da comissão de cogestão, nos termos da alínea a) do n.º 1.\n\n8 - Os membros da comissão de cogestão previstos nas alíneas b), c), e), f) e g), do n.º 1, a última apenas no caso de se tratar de uma área marinha protegida, são designados por despacho dos membros do Governo responsáveis pelas áreas da conservação da natureza e do ensino superior, que indica também o seu presidente, conforme previsto na alínea a) do n.º 1, o representante das entidades referidas na alínea d) do n.º 1 e a duração do mandato da comissão de cogestão, que não deve ser inferior a quatro anos.\n\n9 - O despacho referido no número anterior é publicado na 2.ª série do Diário da República.\n\n10 - Os membros da comissão de cogestão asseguram as diligências necessárias junto das organizações que representam, para o cumprimento da sua missão.\n\n11 - A comissão de cogestão reúne, preferencialmente, todos os meses, a título ordinário, e sempre que seja convocada pelo seu presidente, mediante solicitação de qualquer um dos seus membros, a título extraordinário, com um mínimo obrigatório de seis reuniões anuais.\n\n12 - As decisões da comissão de cogestão são adotadas por consenso, sem prejuízo do disposto no n.º 3 do artigo 2.º\n\n13 - O regulamento interno da comissão de cogestão pode determinar a constituição de grupos de trabalho específicos para o desenvolvimento e acompanhamento da execução de medidas e ações referentes a um determinado setor de atividade.\n\n14 - Concluído o mandato da comissão de cogestão, a sua renovação opera-se nos moldes estabelecidos nos n.os 2 a 9.\n\n15 - A alteração dos representantes na comissão de cogestão, por motivos de força maior ou devidamente fundamentado, ou na sequência de eleições de titulares para os órgãos das autarquias locais, segue, com as devidas adaptações, o disposto no número anterior.\n\n16 - Os restantes presidentes de câmara municipal dos municípios abrangidos pela área protegida podem participar nas reuniões de comissão de cogestão, sem direito a voto.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 63/2023 - Diário da República n.º 222/2023, Série I de 2023-11-16](https://diariodarepublica.pt/dr/detalhe/lei/63-2023-224366836), em vigor a partir de 2023-12-16"
+  },
+  "224331225": {
+   "fragment_id": "224366865",
+   "type": 11,
+   "heading": "Artigo 8.º — Funções da comissão de cogestão da área protegida",
+   "in_force_from": "2023-12-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 63/2023 - Diário da República n.º 222/2023, Série I de 2023-11-16](https://diariodarepublica.pt/dr/detalhe/lei/63-2023-224366836), em vigor a partir de 2023-12-16"
+   ],
+   "markdown": "###### Artigo 8.º — Funções da comissão de cogestão da área protegida\n\n1 - A comissão de cogestão é responsável por:\n\na) Garantir que a cogestão da área protegida é desenvolvida no respeito pelo dever de zelo da salvaguarda dos recursos e valores territoriais que fundamentam a classificação da área protegida;\n\nb) Contribuir para o desenvolvimento das atividades locais em harmonia com os valores presentes, incorporando inovação e criatividade;\n\nc) Viabilizar ações de promoção ambiental, económica e social, de sensibilização e comunicação, através da elaboração e execução dos instrumentos de gestão na área protegida;\n\nd) Dinamizar ações, em articulação com os diferentes agentes regionais e das Administrações central e local, para o desenvolvimento integrado da área protegida, bem como estimular a participação e a iniciativa da sociedade civil, designadamente através de ações de sensibilização e de projetos educativos;\n\ne) Estimular parcerias com promotores, empresas, centros de investigação, instituições de formação e municípios destinadas a planear e a executar ações de valorização sustentável do território, em particular ações associadas à agro-silvo-pastorícia, à caça, à pesca, à cultura e ao turismo de natureza;\n\nf) Promover o debate sobre as atividades e ações que ocorrem na área protegida e estimular as boas práticas de gestão para o seu uso e aproveitamento sustentáveis;\n\ng) Prestar a informação necessária para assegurar a coerência e a complementaridade entre os diversos organismos e entidades, com vista ao desenvolvimento sustentável e integrado da área protegida;\n\nh) Comunicar com todas as entidades públicas e privadas envolvidas na proteção e valorização do capital natural, interpretando e divulgando os principais atributos existentes na área protegida, e sensibilizar para as formas mais adequadas de os preservar e valorizar;\n\ni) Elaborar e aprovar os instrumentos de gestão, após parecer do conselho estratégico;\n\nj) Executar os instrumentos de gestão;\n\nk) Consultar o conselho estratégico sobre assuntos de interesse para a valorização da área protegida;\n\nl) Identificar os instrumentos e linhas de financiamento de apoio à execução do plano de cogestão da área protegida e apoiar os potenciais beneficiários para acesso a essas mesmas linhas;\n\nm) Acompanhar a elaboração, alteração ou revisão do programa especial da área protegida;\n\nn) Elaborar e aprovar o regulamento interno necessário ao seu bom desempenho.\n\n2 - Para efeitos do acompanhamento previsto na alínea m) do número anterior, deve ser prevista a participação, nos termos adequados para o efeito, da comissão de cogestão na comissão consultiva do programa especial, a constituir nos termos previstos na alínea h) do n.º 1 do artigo 46.º do Decreto-Lei n.º 80/2015, de 14 de maio.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 63/2023 - Diário da República n.º 222/2023, Série I de 2023-11-16](https://diariodarepublica.pt/dr/detalhe/lei/63-2023-224366836), em vigor a partir de 2023-12-16"
+  },
+  "224331226": {
+   "fragment_id": "224366868",
+   "type": 11,
+   "heading": "Artigo 11.º — Competências do conselho estratégico no âmbito da cogestão da área protegida",
+   "in_force_from": "2023-12-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 63/2023 - Diário da República n.º 222/2023, Série I de 2023-11-16](https://diariodarepublica.pt/dr/detalhe/lei/63-2023-224366836), em vigor a partir de 2023-12-16"
+   ],
+   "markdown": "###### Artigo 11.º — Competências do conselho estratégico no âmbito da cogestão da área protegida\n\n1 - Compete ao conselho estratégico no âmbito específico da cogestão da área protegida:\n\na) Apreciar e emitir parecer prévio sobre o plano de cogestão da área protegida, incluindo os indicadores de realização propostos;\n\nb) Apreciar e emitir parecer sobre o plano anual de atividades e orçamento, bem como sobre o relatório de execução de atividades anual relativo à cogestão da área protegida;\n\nc) Apreciar quaisquer outros instrumentos ou assuntos relativos à cogestão da área protegida que lhe sejam submetidos pela comissão de cogestão;\n\nd) Apoiar a comissão de cogestão na identificação dos instrumentos e linhas de financiamento de apoio à execução do plano de cogestão da área protegida, bem como dos potenciais beneficiários;\n\ne) Identificar e analisar problemas que revelam natureza sistémica e que afetam a área protegida, propondo soluções e elaborando recomendações à comissão de cogestão;\n\nf) Apoiar a execução de medidas e ações do Plano de Cogestão da área protegida, nomeadamente através do disposto no número seguinte.\n\ng) Apreciar e emitir parecer nos casos em que, pelo menos, 50 % dos municípios abrangidos por uma área protegida de âmbito nacional proponham junto do ICNF, I. P., a adoção do modelo de cogestão.\n\n2 - O regulamento interno do Conselho Estratégico pode prever secções especializadas em função dos setores de atividades relevantes para o desenvolvimento sustentável da área protegida.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 63/2023 - Diário da República n.º 222/2023, Série I de 2023-11-16](https://diariodarepublica.pt/dr/detalhe/lei/63-2023-224366836), em vigor a partir de 2023-12-16"
+  },
+  "224331227": {
+   "fragment_id": "224366869",
+   "type": 11,
+   "heading": "Artigo 12.º — Instrumentos de gestão da área protegida",
+   "in_force_from": "2023-12-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 63/2023 - Diário da República n.º 222/2023, Série I de 2023-11-16](https://diariodarepublica.pt/dr/detalhe/lei/63-2023-224366836), em vigor a partir de 2023-12-16"
+   ],
+   "markdown": "###### Artigo 12.º — Instrumentos de gestão da área protegida\n\n1 - No âmbito do modelo de cogestão, constituem instrumentos de gestão da área protegida:\n\na) O plano de cogestão da área protegida, que determina a estratégia a implementar com vista a valorizar e promover o território, sensibilizar as populações locais e melhorar a comunicação com todos os interlocutores e utilizadores, devendo integrar um programa de medidas e ações que concretizam essa estratégia;\n\nb) O plano anual de atividades e orçamento;\n\nc) O relatório anual de execução de atividades;\n\nd) Outros instrumentos consensualizados pela comissão de cogestão da área protegida que obtenham parecer prévio favorável do respetivo conselho estratégico.\n\n2 - Os instrumentos referidos no número anterior devem ter por referência o plano ou programa especial da área protegida, os respetivos regulamentos e demais elementos aprovados ao abrigo do Decreto-Lei n.º 80/2015, de 14 de maio, e a legislação aplicável na área da conservação da natureza e da biodiversidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 63/2023 - Diário da República n.º 222/2023, Série I de 2023-11-16](https://diariodarepublica.pt/dr/detalhe/lei/63-2023-224366836), em vigor a partir de 2023-12-16"
+  },
+  "224331228": {
+   "fragment_id": "224366874",
+   "type": 11,
+   "heading": "Artigo 17.º — Publicidade e divulgação",
+   "in_force_from": "2023-12-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 63/2023 - Diário da República n.º 222/2023, Série I de 2023-11-16](https://diariodarepublica.pt/dr/detalhe/lei/63-2023-224366836), em vigor a partir de 2023-12-16"
+   ],
+   "markdown": "###### Artigo 17.º — Publicidade e divulgação\n\n1 - A comissão de cogestão publicita, de forma atualizada, nos sítios na Internet das entidades públicas nela representadas, o despacho referido no n.º 8 do artigo 7.º e os instrumentos de gestão referidos no artigo 12.º\n\n2 - A divulgação da informação relevante no âmbito da cogestão da área protegida, incluindo a informação relativa aos instrumentos de participação referidos no n.º 1 do artigo 14.º, deve ser feita através dos meios mais adequados a garantir o conhecimento a todo o tempo pelo público em geral, nomeadamente através dos sítios na Internet das entidades públicas representadas na comissão de cogestão.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 63/2023 - Diário da República n.º 222/2023, Série I de 2023-11-16](https://diariodarepublica.pt/dr/detalhe/lei/63-2023-224366836), em vigor a partir de 2023-12-16"
+  },
+  "224331214": {
+   "fragment_id": "224400082",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 6 de junho de 2019. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Eduardo Arménio do Nascimento Cabrita - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos.\n\nPromulgado em 6 de agosto de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 12 de agosto de 2019.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n112519963"
+  }
+ }
+}

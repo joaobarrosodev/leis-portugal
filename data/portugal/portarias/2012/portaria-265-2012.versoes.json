@@ -1,0 +1,225 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:174807:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-868910718",
+ "dre_path": "/dr/detalhe/portaria/265-2012-174807",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-08-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "869204017",
+    "869204018",
+    "869204019",
+    "869204020",
+    "869204021",
+    "869204022",
+    "869204023",
+    "869204024",
+    "869204025",
+    "869204026",
+    "869204027",
+    "869204028",
+    "869204029",
+    "869204030",
+    "869204031",
+    "869204032",
+    "869204034"
+   ]
+  },
+  {
+   "date": "2014-02-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:572620:por",
+     "title": "Portaria n.º 44/2014",
+     "published": "2014-02-20",
+     "dre_path": "/dr/detalhe/portaria/44-2014-572620"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "869204017",
+    "869204018",
+    "869204019",
+    "869204020",
+    "869204041",
+    "869204022",
+    "869204023",
+    "869204024",
+    "869204025",
+    "869204026",
+    "869204027",
+    "869204028",
+    "869204029",
+    "869204030",
+    "869204031",
+    "869204032",
+    "869204033",
+    "869204034"
+   ]
+  }
+ ],
+ "fragments": {
+  "869204017": {
+   "fragment_id": "868910719",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 265/2012\n\nde 30 de agosto\n\nNa sequência dos princípios e tendências evolutivas da administração educativa consagrados na Lei de Bases do Sistema Educativo, aprovada pela Lei n.º 46/86, de 14 de outubro, e no Decreto -Lei n.º 43/89, de 3 de fevereiro, o desenvolvimento e reforço da autonomia das escolas tem sido uma das linhas estruturantes de desenvolvimento do sistema educativo português.\n\nNeste contexto, o Programa do XIX Governo Constitucional elegeu como um dos seus objetivos estratégicos o estabelecimento e alargamento dos contratos de autonomia como instrumentos essenciais de garantia da diversidade e do reconhecimento do mérito das escolas. Neste quadro, o regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário aprovado pelo Decreto-Lei n.º 75/2008, de 22 de abril, na redação dada pelo Decreto-Lei n.º 137/2012, de 2 de julho, consolidou esta linha de orientação e, a par do projeto educativo, do regulamento interno, do plano anual e plurianual de atividade e do orçamento, passou também a considerar o contrato de autonomia como mais um dos instrumentos de autonomia, considerando-o por via dos compromissos celebrados o instrumento por excelência de aprofundamento da autonomia das escolas.\n\nA presente Portaria aplica-se às escolas da rede pública de educação pré-escolar e dos ensinos básico e secundário que, querendo assumir e desenvolver maior autonomia pedagógica, curricular, administrativa e cultural, manifestem interesse em celebrar com o Ministério da Educação e Ciência, e eventualmente outros parceiros e entidades, um contrato de autonomia. Com esse objetivo, definem-se os princípios orientadores, clarificam-se os domínios e os instrumentos, explicitam-se os requisitos e as regras inerentes ao clausulado do contrato, bem como o seu acompanhamento, avaliação e renovação. Em anexo publica-se uma matriz de referência que, sem prejuízo de outros, clarifica os elementos estruturantes do clausulado dos contratos a celebrar.\n\nFoi ouvido o Conselho das Escolas.\n\nAssim, nos termos artigo 59.º do Decreto-Lei n.º 75/2008, de 22 de abril, com as alterações introduzidas pelos Decretos-Leis n.os 224/2009, de 11 de setembro, e 137/2012, de 2 de julho, manda o Governo, pelo Secretário de Estado do Ensino e da Administração Escolar, no uso das competências que lhe foram delegadas pelo Ministro da Educação e Ciência, através do despacho n.º 10134/2012, publicado no Diário da República, 2.ª série, n.º 145, de 27 de julho de 2012, o seguinte:"
+  },
+  "869204018": {
+   "fragment_id": "868910720",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria define as regras e procedimentos a observar quanto à celebração, acompanhamento, e avaliação dos contratos de autonomia a celebrar entre os agrupamentos de escolas ou escolas não agrupadas, doravante designados de escolas, e o Ministério da Educação e Ciência, representado pelos seus serviços competentes, e eventualmente outros parceiros e entidades, nos termos do Decreto-Lei n.º 75/2008, de 22 de abril, na redação dada pelo Decreto-Lei n.º 137/2012, de 2 de julho, e que têm por base a matriz publicada em anexo à presente portaria, que dela faz parte integrante."
+  },
+  "869204019": {
+   "fragment_id": "868910721",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nA presente portaria aplica-se às escolas da rede pública de educação pré-escolar e dos ensinos básico e secundário que, querendo assumir e desenvolver maior autonomia pedagógica, curricular, administrativa e cultural, manifestem interesse em celebrar com o Ministério da Educação e Ciência, e eventualmente outros parceiros e entidades, um contrato de autonomia, nos termos previstos no Decreto-Lei n.º 75/2008, de 22 de abril, na redação dada pelo Decreto-Lei n.º 137/2012, de 2 de julho, e definidos no presente diploma."
+  },
+  "869204020": {
+   "fragment_id": "868910722",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios orientadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípios orientadores\n\n1 - Constituem princípios orientadores da celebração e desenvolvimento dos contratos de autonomia:\n\na) Aprofundamento da autonomia das escolas, tendo em vista a viabilização de projetos educativos de potencial para o desenvolvimento do sistema educativo e para as comunidades educativas locais;\n\nb) Subordinação da autonomia aos objetivos do serviço público de educação e à qualidade da aprendizagem das crianças, dos jovens e dos adultos;\n\nc) Garantia da equidade do serviço prestado, tendo em vista a cidadania, a inclusão e o desenvolvimento social;\n\nd) Compromisso do Estado, através da administração educativa e dos órgãos de administração e gestão da escola, na execução do projeto educativo, assim como dos planos de atividades;\n\ne) Responsabilização dos órgãos de administração e gestão da escola, designadamente através do desenvolvimento de instrumentos credíveis e rigorosos de avaliação e acompanhamento do desempenho que permita aferir a qualidade do serviço público de educação;\n\nf) Diversificação das possibilidades de oferta educativa baseada em planos curriculares próprios e ou adaptações do currículo nacional;\n\ng) Adequação dos recursos atribuídos às condições específicas da escola e ao projeto que pretende desenvolver;\n\nh) Promoção da cidadania, da inclusão e do desenvolvimento social através da melhoria dos resultados escolares e diminuição do abandono escolar.\n\n2 - A celebração de contratos de autonomia funda-se na equidade, prossegue objetivos de qualidade, eficácia e eficiência e assenta no pressuposto de que a escola constitui um serviço responsável pela execução local da política educativa nacional e é prestadora de um serviço público de especial relevância."
+  },
+  "869204021": {
+   "fragment_id": "868910723",
+   "type": 11,
+   "heading": "Artigo 4.º — Desenvolvimento da autonomia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Desenvolvimento da autonomia\n\n1 - A autonomia das escolas desenvolve-se por sua iniciativa, e tem por base a celebração de um contrato de autonomia, através do qual podem ser-lhes reconhecidos diferentes níveis de competência e de responsabilidade, de acordo com os objetivos e o plano de ação apresentado e a capacidade demonstrada.\n\n2 - Os domínios da autonomia abrangem a organização e gestão da escola, o sucesso escolar dos alunos e o combate ao abandono escolar, a formação integral dos alunos, a integração social e comunitária, os cuidados de apoio e guarda, a formação vocacional e profissional, o desenvolvimento dos talentos, o empreendedorismo e a abertura à investigação, a inovação e a excelência.\n\n3 - O desenvolvimento da autonomia processa-se pela atribuição de competências, tendo em conta os objetivos a prosseguir e as condições específicas de cada escola podendo abranger, designadamente, pelo menos um dos seguintes domínios:\n\na) Desenvolvimento de projetos de excelência, de melhoria e inovação orientados para padrões elevados de eficácia, dos resultados escolares e da qualidade do serviço público de educação, direcionados para diferentes perfis de alunos;\n\nb) Promoção de condições para a melhoria do sucesso escolar e educativo das crianças e jovens, tendo em vista a prevenção da retenção, do absentismo e do abandono escolar, através da adaptação e diversificação das ofertas formativas;\n\nc) Criação de modalidades flexíveis de gestão do currículo e dos programas disciplinares e não-disciplinares de modo a atuar precocemente sobre o risco de abandono e insucesso escolar;\n\nd) Ligação ao mundo do trabalho por via da cooperação entre escolas, instituições e serviços de apoio e encaminhamento vocacional e profissional, e organizações de trabalho, de forma a orientar o ensino para o empreendedorismo nas diferentes áreas de exercício profissional;\n\ne) Inclusão de componentes regionais e locais, respeitando os núcleos essenciais definidos a nível nacional;\n\nf) Oferta de cursos com planos curriculares próprios, no respeito pelos objetivos do sistema nacional de educação;\n\ng) Adoção de procedimentos inovadores e diferenciados de gestão pedagógica, estratégica, patrimonial, administrativa e financeira.\n\n4 - A operacionalização das dimensões e domínios expressos nos números anteriores, pode passar pela apresentação, por parte das escolas, de propostas próprias relativamente aos itens seguintes, sem prejuízo de outros:\n\na) Gestão pedagógica e curricular diferenciada em função dos diferentes contextos, alunos e públicos escolares;\n\nb) Gestão de um crédito global acrescido de horas de serviço docente, incluindo a componente letiva, não letiva, o exercício de cargos de administração, gestão e orientação educativa e ainda o desenvolvimento de projetos de ação e inovação;\n\nc) Adoção de normas próprias sobre horários, tempos letivos, constituição de turmas ou grupos de alunos e ocupação de espaços;\n\nd) Recrutamento e seleção do pessoal docente e não docente, nos termos da legislação aplicável;\n\ne) Extensão das áreas que integram os serviços técnicos e técnico-pedagógicos e suas formas de organização;\n\nf) Gestão e execução do orçamento, através de uma afetação global de meios;\n\ng) Possibilidade de autofinanciamento e gestão de receitas que lhe estão consignadas;\n\nh) Aquisição de bens e serviços e execução de obras, dentro de limites a definir;\n\ni) Desenvolvimento de uma cultura de avaliação nos domínios da avaliação interna da escola, da avaliação dos desempenhos docentes e da avaliação da aprendizagem dos alunos, orientada para a melhoria."
+  },
+  "869204022": {
+   "fragment_id": "868910724",
+   "type": 11,
+   "heading": "Artigo 5.º — Contrato de autonomia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Contrato de autonomia\n\n1 - Por contrato de autonomia entende-se o acordo celebrado entre a escola, os serviços competentes do Ministério da Educação e Ciência e, sempre que conveniente, outros parceiros da comunidade, através do qual se definem objetivos e se fixam as condições que viabilizam o desenvolvimento do projeto educativo apresentado pelos órgãos de administração e gestão de uma escola ou agrupamento, verificadas as condições previstas no artigo 7.º, e tendo por base a matriz anexa à presente portaria.\n\n2 - Os níveis de competência e de responsabilidade a atribuir são objeto de negociação entre a escola, o Ministério da Educação e Ciência e, quando existam, os outros parceiros.\n\n3 - Sem prejuízo do disposto no número seguinte, a duração do contrato é estabelecida entre as partes, não podendo, em regra ser inferior a três anos escolares completos, podendo ser renovado, parcial ou totalmente suspenso, ou resolvido, nos termos do presente diploma.\n\n4 - Os contratos celebrados com escolas às quais o Ministério da Educação e Ciência expressamente reconheça tratamento prioritário no âmbito de candidaturas a programas de apoios financeiros públicos, nacionais e ou comunitários, têm a duração de um ano, renovável, por declaração expressa de ambas as partes, por iguais períodos de tempo, até ao limite de duas renovações, sem prejuízo da celebração de futuros novos contratos.\n\n5 - Os contratos de autonomia entram em vigor após a respetiva homologação por parte do membro do Governo responsável pela área da Educação."
+  },
+  "869204023": {
+   "fragment_id": "868910725",
+   "type": 11,
+   "heading": "Artigo 6.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Requisitos\n\nA celebração do contrato de autonomia está sujeita ao preenchimento das seguintes condições:\n\na) Aprovação pelo conselho geral de um plano de desenvolvimento da autonomia que vise melhorar o serviço público de educação, potenciar os recursos da escola e superar de modo sustentado as suas debilidades, materializado na aprovação prévia da minuta do contrato a celebrar;\n\nb) A apresentação de um projeto educativo contextualizado, consistente e fundamentado;\n\nc) A conclusão do procedimento de avaliação externa nos termos da lei e demais normas regulamentares aplicáveis;\n\nd) Adoção por parte da escola de dispositivos e práticas de autoavaliação adequadas e consequentes."
+  },
+  "869204024": {
+   "fragment_id": "868910726",
+   "type": 11,
+   "heading": "Artigo 7.º — Cláusulas contratuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Cláusulas contratuais\n\nO contrato de autonomia integra com caráter de obrigatoriedade a caracterização sumária da escola, os resultados da autoavaliação e da avaliação externa, os objetivos gerais e operacionais, o plano de ação estratégica ou as grandes linhas de orientação e planificação estratégica e respetiva calendarização, os compromissos da escola e do Ministério da Educação e Ciência, a duração do contrato e o seu acompanhamento e monitorização através de comissão criada para o efeito."
+  },
+  "869204025": {
+   "fragment_id": "868910727",
+   "type": 11,
+   "heading": "Artigo 8.º — Relatório anual de progresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Relatório anual de progresso\n\nA escola com contrato de autonomia, considerando os resultados da autoavaliação, produz um relatório anual de progresso, a remeter para a comissão de acompanhamento a que se refere o artigo seguinte e a divulgar publicamente em local facilmente consultável na página eletrónica da escola."
+  },
+  "869204026": {
+   "fragment_id": "868910728",
+   "type": 11,
+   "heading": "Artigo 9.º — Comissão de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Comissão de acompanhamento\n\n1 - O desenvolvimento e concretização do contrato de autonomia são acompanhados por uma comissão constituída por um representante da escola, designado pelo diretor, um representante da Direção-Geral da Administração Escolar, um representante da Direção-Geral da Educação, um representante da associação de pais e encarregados de educação, por esta designado, um elemento indicado pelo Conselho Municipal de Educação e, sempre que existam, um representante de cada uma das outras entidades que participem na celebração do contrato.\n\n2 - Compete à comissão de acompanhamento:\n\na) Supervisionar e acompanhar, de forma construtiva e orientadora, a concretização do contrato;\n\nb) Resolver, com caráter vinculativo, eventuais dúvidas de interpretação das cláusulas contratuais;\n\nc) Emitir parecer sobre o relatório anual de progresso a que se refere o artigo anterior;\n\nd) Remeter o parecer e o relatório anual de progresso aos serviços competentes do Ministério da Educação e Ciência.\n\n3 - A comissão de acompanhamento aprova, por maioria dos seus membros, o seu regulamento interno de funcionamento."
+  },
+  "869204027": {
+   "fragment_id": "868910729",
+   "type": 11,
+   "heading": "Artigo 10.º — Avaliação dos resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Avaliação dos resultados\n\n1 - A avaliação dos resultados dos contratos de autonomia incumbe à Inspeção-Geral de Educação e Ciência, no quadro das competências de avaliação externa das escolas que lhe estão legalmente atribuídas.\n\n2 - Sem prejuízo do quadro de referência de avaliação externa utilizado pela Inspeção-Geral da Educação e Ciência, na avaliação do cumprimento do contrato, são especialmente considerados a evolução dos resultados escolares obtidos pelos alunos em avaliação externa, nomeadamente Provas Finais de Ciclo e Exames, a eficácia na gestão dos recursos atribuídos à escola, o conteúdo do relatório de progresso, bem como o parecer da comissão de acompanhamento a que se refere o artigo anterior.\n\n3 - As modalidades e instrumentos de prestação de contas estabelecidos nos artigos anteriores não prejudicam nem isentam as escolas do cumprimento de outras obrigações a que estejam adstritas, designadamente na regulamentação específica dos programas de financiamento público a que se candidatam ou dos quais são beneficiárias."
+  },
+  "869204028": {
+   "fragment_id": "868910730",
+   "type": 11,
+   "heading": "Artigo 11.º — Renovação dos contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Renovação dos contratos\n\n1 - Os contratos de autonomia podem, por acordo expresso de ambas as partes, ser renovados por período igual ou diferente do inicialmente ajustado, mas nunca inferior a um ano escolar, nos termos previstos na presente portaria, e tendo ainda presente o disposto no número seguinte.\n\n2 - A renovação dos contratos de autonomia depende, entre outras, de avaliação positiva:\n\na) Do grau de cumprimento dos objetivos constantes do projeto educativo;\n\nb) Do grau de cumprimento dos objetivos e dos planos de ação e de atividades apresentados e demais compromissos decorrentes do contrato, da presente portaria e ou de outros normativos aplicáveis, quando os houver;\n\nc) Da evolução dos resultados escolares e do abandono escolar."
+  },
+  "869204029": {
+   "fragment_id": "868910731",
+   "type": 11,
+   "heading": "Artigo 12.º — Suspensão e rescisão do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Suspensão e rescisão do contrato\n\nNa sequência de avaliação externa prevista no artigo 10.º ou de ação inspetiva que comprovem o incumprimento do contrato de autonomia ou manifesto prejuízo para o serviço público, pode o membro do Governo responsável pela área da Educação, em despacho fundamentado, determinar, unilateralmente a sua suspensão, total ou parcial, ou a sua rescisão, com a consequente reversão para a administração educativa de parte ou da totalidade das competências atribuídas."
+  },
+  "869204030": {
+   "fragment_id": "868910732",
+   "type": 11,
+   "heading": "Artigo 13.º — Reclamação e recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Reclamação e recurso\n\n1 - Das decisões da administração educativa cabe reclamação ou recurso, nos termos previstos no Código do Procedimento Administrativo.\n\n2 - O disposto no número anterior não prejudica nem isenta as escolas candidatas ou beneficiárias de programas de financiamento público do cumprimento das formalidades estabelecidas na regulamentação específica dos referidos programas, se as houver."
+  },
+  "869204031": {
+   "fragment_id": "868910733",
+   "type": 11,
+   "heading": "Artigo 14.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Revogação\n\nÉ revogada a Portaria n.º 1260/2007, de 26 de setembro."
+  },
+  "869204032": {
+   "fragment_id": "868910734",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "869204034": {
+   "fragment_id": "868910736",
+   "type": 14,
+   "heading": "Anexo — Matriz do contrato de autonomia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Matriz do contrato de autonomia\n\nPreâmbulo\n\n1 - ... (caracterização sintética da escola ou agrupamento - com indicação expressa, quando for o caso, sobre a aplicabilidade de normativos que conferem tratamento prioritário no acesso a programas específicos de financiamento - incluindo a identificação dos valores de partida nos indicadores escolhidos para aferir a concretização das metas assumidas).\n\n2 - ... (resultados da autoavaliação).\n\n3 - ... (resultados da avaliação externa).\n\nNo âmbito do desenvolvimento do regime jurídico de autonomia da escola, consagrada pelo Decreto-Lei n.º 43/89, de 3 de fevereiro, e ao abrigo do Decreto-Lei n.º 75/2008, de 22 de abril, com a nova redação que lhe foi dada pelo Decreto-Lei n.º 137/2012, de 2 de julho, e pela Portaria n.º 265/2012, de 30 de agosto, e demais legislação aplicável, o Ministério da Educação e Ciência (MEC), através ... (Serviço competente do MEC) e a Escola/Agrupamento de Escolas ..., (1) (e ...) celebram e acordam entre si o presente contrato de autonomia, que se rege pela regulação suprarreferida e ainda pelas cláusulas seguintes:\n\nCláusula 1.ª\n\nObjetivos gerais\n\nOs objetivos gerais do contrato são:\n\n1) ...\n\n2) ...\n\n3) ...\n\nCláusula 2.ª\n\nObjetivos operacionais\n\nOs objetivos operacionais são:\n\n1) Atingir ou aproximar o abandono de ... %;\n\n2) Aumentar a taxa global de sucesso escolar de ... % para ... % (ou em... %);\n\n3) ...\n\n4) ...\n\n5) ...\n\nCláusula 3.ª\n\nPlano de ação estratégica\n\nTendo em vista a concretização dos objetivos previstos nos n.os 1 e 2, desenvolve-se o seguinte plano estratégico ... (apresentar as linhas gerais das ação estratégica a desenvolver: projetos, atividades, estratégias, parcerias, calendarização, etc.)\n\nCláusula 4.ª\n\nCompetências reconhecidas à escola\n\nCom o presente contrato, o Ministério da Educação e Ciência reconhece à escola as seguintes competências para o desenvolvimento da sua autonomia:\n\n1) ...\n\n2) ...\n\n3) ...\n\n4) ...\n\nCláusula 5.ª\n\nCompromissos da escola\n\nCom vista a cumprir os objetivos gerais e operacionais constantes do presente contrato, a escola compromete-se e fica obrigada a:\n\n1) ...\n\n2) ...\n\n3) ...\n\n4) ...\n\nCláusula 6.ª\n\nCompromissos do Ministério da Educação e Ciência\n\nPelo presente contrato, o Ministério da Educação e Ciência compromete-se e obriga-se a:\n\n1) ...\n\n2) ...\n\n3) ...\n\n4) ...\n\nCláusula 7.ª\n\nCompromissos dos parceiros\n\n(Quando os houver) Pelo presente contrato, o/a ... (2) compromete-se e obriga-se a:\n\n1) ...\n\n2) ...\n\n3) ...\n\n4) ...\n\nCláusula 8.ª\n\nDuração do contrato\n\n1 - O presente contrato de autonomia vigorará até ao termo do ano letivo de 20...-20...\n\n2 - O presente contrato pode ser revisto e alterado a todo o tempo, por acordo entre as partes, respeitado o requisito previsto na alínea a) do artigo 6.º da presente portaria.\n\nCláusula 9.ª\n\nAcompanhamento e monitorização\n\nA escola constitui uma estrutura permanente de acompanhamento e monitorização constituída pelo diretor da escola e por, pelo menos, mais dois docentes de carreira designados para o efeito, com as seguintes competências:\n\na) Monitorizar o cumprimento e a aplicação do presente contrato e acompanhar o desenvolvimento do processo;\n\nb) Monitorizar o processo de autoavaliação da escola;\n\nc) Produzir e divulgar o relatório anual de progresso;\n\nd) Constituir meio de interlocução com os serviços competentes do Ministério da Educação e Ciência.\n\nCláusula 10.ª\n\nCasos omissos\n\nTodas as matérias não reguladas no presente contrato serão regidas pela lei geral aplicável.\n\n(1) Assinalar no caso de escola abrangida pelo Despacho normativo n.º 55/2008, de 23 de outubro.\n\n(2) Identificação do ou dos parceiros envolvidos."
+  },
+  "869204041": {
+   "fragment_id": "868910723",
+   "type": 11,
+   "heading": "Artigo 4.º — Desenvolvimento da autonomia",
+   "in_force_from": "2014-02-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 44/2014 - Diário da República n.º 36/2014, Série I de 2014-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/44-2014-572620), em vigor a partir de 2014-02-25"
+   ],
+   "markdown": "###### Artigo 4.º — Desenvolvimento da autonomia\n\n1 - A autonomia das escolas desenvolve-se por sua iniciativa, e tem por base a celebração de um contrato de autonomia, através do qual podem ser-lhes reconhecidos diferentes níveis de competência e de responsabilidade, de acordo com os objetivos e o plano de ação apresentado e a capacidade demonstrada.\n\n2 - Os domínios da autonomia abrangem a organização e gestão da escola, o sucesso escolar dos alunos e o combate ao abandono escolar, a formação integral dos alunos, a integração social e comunitária, os cuidados de apoio e guarda, a formação vocacional e profissional, o desenvolvimento dos talentos, o empreendedorismo e a abertura à investigação, a inovação e a excelência.\n\n3 - O desenvolvimento da autonomia processa-se pela atribuição de competências, tendo em conta os objetivos a prosseguir e as condições específicas de cada escola podendo abranger, designadamente, pelo menos um dos seguintes domínios:\n\na) Desenvolvimento de projetos de excelência, de melhoria e inovação orientados para padrões elevados de eficácia, dos resultados escolares e da qualidade do serviço público de educação, direcionados para diferentes perfis de alunos;\n\nb) Promoção de condições para a melhoria do sucesso escolar e educativo das crianças e jovens, tendo em vista a prevenção da retenção, do absentismo e do abandono escolar, através da adaptação e diversificação das ofertas formativas;\n\nc) Criação de modalidades flexíveis de gestão do currículo e dos programas disciplinares e não-disciplinares de modo a atuar precocemente sobre o risco de abandono e insucesso escolar;\n\nd) Ligação ao mundo do trabalho por via da cooperação entre escolas, instituições e serviços de apoio e encaminhamento vocacional e profissional, e organizações de trabalho, de forma a orientar o ensino para o empreendedorismo nas diferentes áreas de exercício profissional;\n\ne) Inclusão de componentes regionais e locais, respeitando os núcleos essenciais definidos a nível nacional;\n\nf) Oferta de cursos com planos curriculares próprios, no respeito pelos objetivos do sistema nacional de educação;\n\ng) Adoção de procedimentos inovadores e diferenciados de gestão pedagógica, estratégica, patrimonial, administrativa e financeira.\n\n4 - A operacionalização das dimensões e domínios expressos nos números anteriores, pode passar pela apresentação, por parte das escolas, de propostas próprias relativamente aos itens seguintes, sem prejuízo de outros:\n\na) Gestão pedagógica e curricular diferenciada em função dos diferentes contextos, alunos e públicos escolares;\n\nb) Gestão de um crédito global acrescido de horas de serviço docente, incluindo a componente letiva, não letiva, o exercício de cargos de administração, gestão e orientação educativa e ainda o desenvolvimento de projetos de ação e inovação;\n\nc) Adoção de normas próprias sobre horários, tempos letivos, constituição de turmas ou grupos de alunos e ocupação de espaços;\n\nd) Recrutamento e seleção do pessoal docente e não docente, nos termos da legislação aplicável;\n\ne) Extensão das áreas que integram os serviços técnicos e técnico-pedagógicos e suas formas de organização;\n\nf) Gestão e execução do orçamento, através de uma afetação global de meios;\n\ng) Possibilidade de autofinanciamento e gestão de receitas que lhe estão consignadas;\n\nh) Aquisição de bens e serviços e execução de obras, dentro de limites a definir;\n\ni) Desenvolvimento de uma cultura de avaliação nos domínios da avaliação interna da escola, da avaliação dos desempenhos docentes e da avaliação da aprendizagem dos alunos, orientada para a melhoria.\n\n5 - Sem prejuízo da obrigatoriedade do cumprimento da carga curricular semanal igual ou superior ao total definido na matriz curricular nacional para cada ano, ciclo, nível e modalidade de educação e formação, tendo em conta as especificidades de cada turma, é permitido às escolas com contrato de autonomia:\n\na) Decidir, de acordo com os limites previstos no n.º 6, o tempo letivo a atribuir a cada disciplina ou área disciplinar;\n\nb) Gerir livremente, ao longo do ano letivo e do ciclo de estudos, o tempo letivo atribuído a cada disciplina ou área disciplinar;\n\nc) Oferecer, dentro do tempo curricular total anual, outras disciplinas ou áreas disciplinares complementares, em função do seu projeto educativo;\n\nd) Gerir a distribuição das diferentes disciplinas em cada ano ao longo do ciclo de escolaridade, exceto nas disciplinas de Português e Matemática.\n\n6 - As escolas com contrato de autonomia ficam impedidas de:\n\na) Atribuir a cada disciplina ou área disciplinar uma carga horária total inferior a 75% do tempo mínimo previsto na matriz curricular nacional;\n\nb) Atribuir às disciplinas de Português e Matemática uma carga horária total inferior ao tempo mínimo previsto na matriz curricular nacional;\n\nc) Atribuir a qualquer disciplina prevista na matriz curricular nacional uma carga horária total inferior a 45 minutos por semana.\n\n7 - A implementação das decisões referidas no n.º 5 carece do parecer favorável do conselho pedagógico e da aprovação do conselho geral.\n\n8 - As escolas obrigam-se a divulgar a comunidade educativa, em período anterior à efetivação das matrículas, as decisões tomadas relativas à gestão flexível do currículo.\n\n9 - Para a realização dos cálculos da carga horária previstos nos números anteriores, considera-se o número de semanas de atividades letivas previsto no calendário escolar.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 44/2014 - Diário da República n.º 36/2014, Série I de 2014-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/44-2014-572620), em vigor a partir de 2014-02-25"
+  },
+  "869204033": {
+   "fragment_id": "868910735",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Ensino e da Administração Escolar, João Casanova de Almeida, em 9 de agosto de 2012."
+  }
+ }
+}

@@ -1,0 +1,450 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31969L0335:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01969L0335-20090101",
+ "dre_path": null,
+ "source_lastmod": "2009-01-01",
+ "versions": [
+  {
+   "date": "1969-10-03",
+   "future": false,
+   "celex": "31969L0335",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1038625a271fdc27",
+    "d04392856bea97bc",
+    "9353da09465eb31d",
+    "619462a44a743d42",
+    "02759fa35fae9b05",
+    "692c78b9af33a009",
+    "db606da07c744cb5",
+    "6164a9d69a54e2e2",
+    "6c7c898409a76daf",
+    "092f32cbb292fa21",
+    "a5635b538ff6c216",
+    "7a8acc63333ffdfa",
+    "e665d250491c7344",
+    "1fa6c8176625ef56",
+    "a718c1c1299bec58",
+    "f1ad8780b55cde56"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01969L0335-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:31973L0079:por",
+     "title": "M1",
+     "published": null,
+     "celex": "31973L0079"
+    },
+    {
+     "id": "eu:celex:31974L0553:por",
+     "title": "Directiva 74/553/CEE do Conselho de 7 de Novembro de 1974",
+     "published": null,
+     "celex": "31974L0553"
+    },
+    {
+     "id": "eu:celex:31985L0303:por",
+     "title": "Directiva 85/303/CEE do Conselho de 10 de Junho de 1985",
+     "published": null,
+     "celex": "31985L0303"
+    },
+    {
+     "id": "eu:celex:32006L0098:por",
+     "title": "DIRECTIVA 2006/98/CE DO CONSELHO de 20 de Novembro de 2006",
+     "published": null,
+     "celex": "32006L0098"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Dinamarca, da Irlanda e do Reino Unido da Grã-Bretanha e da Irlanda do Norte",
+     "published": null,
+     "celex": "11972B"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Grécia",
+     "published": null,
+     "celex": "11979H"
+    },
+    {
+     "id": null,
+     "title": "►A3",
+     "published": null,
+     "celex": "11985I"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1º",
+    "Adita Artigo 2º",
+    "Adita Artigo 3º",
+    "Adita Artigo 4º",
+    "Adita Artigo 5º",
+    "Adita Artigo 6º",
+    "Adita Artigo 7º",
+    "Adita Artigo 8º",
+    "Adita Artigo 9º",
+    "Adita Artigo 10º",
+    "Adita Artigo 11º",
+    "Adita Artigo 12º",
+    "Adita Artigo 13º",
+    "Adita Artigo 14º",
+    "Adita Artigo 15º",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o"
+   ],
+   "fragments": [
+    "61d3abb831b8efda",
+    "2d74514db547f178",
+    "cf947c24ac34dcc2",
+    "35fe99c1ff003a7c",
+    "9abf1dad344a4180",
+    "e025a94e481ef022",
+    "c317a95eb6cadc29",
+    "82b52658943d5eed",
+    "508424747f7b8630",
+    "ead9648be8d2ec3b",
+    "0b1882917590b24f",
+    "8075882fab83f7c9",
+    "86f092379cb4c892",
+    "22369a20bafc6c56",
+    "8ad6dc0f449d73ac",
+    "9e08372a271375b6",
+    "0ccb2477d9b68c97"
+   ]
+  },
+  {
+   "date": "2009-01-01",
+   "future": false,
+   "celex": "01969L0335-20090101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "aba340bce0bfc57d"
+   ]
+  }
+ ],
+ "fragments": {
+  "1038625a271fdc27": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 69/335/CEE do Conselho, de 17 de Julho de 1969, relativa aos impostos indirectos que incidem sobre as reuniões de capitais** *Jornal Oficial nº L 249 de 03/10/1969 p. 0025 - 0029 Edição especial dinamarquesa: Série I Capítulo 1969(II) p. 0405 Edição especial inglesa: Série I Capítulo 1969(II) p. 0412 Edição especial grega: Capítulo 09 Fascículo 1 p. 0020 Edição especial espanhola: Capítulo 09 Fascículo 1 p. 0022 Edição especial portuguesa: Capítulo 09 Fascículo 1 p. 0022*\n\nDIRECTIVA DO CONSELHO de 17 de Julho de 1969 relativa aos impostos indirectos que incidem sobre as reuniões de capitais\n\n(69/335/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica europeia e, nomeadamente, os seus artigos 99o e 100o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que o objectivo do Tratado é criar uma união económica com características análogas às de um mercado interno e que uma das condições essenciais para se atingir esse objectivo é promover a livre circulação de capitais;\n\nConsiderando que os impostos indirectos que incidem sobre as reuniões de capitais, actualmente em vigor nos Estados-membros, designadamente o imposto a que estão sujeitas as entradas de capitais nas sociedades e o imposto de selo sobre os títulos, dão origem a discriminações, duplas tributações e disparidades que dificultam a livre circulação de capitais, devendo, consequentemente, ser eliminadas por via de harmonização;\n\nConsiderando que a harmonização dos impostos que incidem sobre as reuniões de capitais deve ser concebida de modo a que as repercussões orçamentais relativamente aos Estados-membros sejam limitadas ao mínimo;\n\nConsiderando que a cobrança do imposto de selo por um Estado-membro sobre os títulos dos outros Estados-membros, introduzidos ou emitidos no seu território, é contrária à concepção de um mercado comum com as características de um mercado interno; que se afigura, por outro lado, que a manutenção do imposto de selo sobre a emissão de títulos de empréstimo nacionais e bem assim sobre a introdução ou a emissão no mercado de um Estado-membro de títulos estrangeiros não é desejável do ponto de vista económico e se afasta, aliás, da orientação seguida pelo direito fiscal dos Estados-membros, neste domínio;\n\nConsiderando que, nestas condições, é conveniente suprimir o imposto de selo sobre os títulos, quer estes sejam representativos de capitais próprios das sociedades quer de capitais de empréstimo, e qualquer que seja a sua proveniência;\n\nConsiderando que a concepção de um mercado comum com as características de um mercado interno pressupõe que a aplicação do imposto sobre as reuniões de capitais aos capitais reunidos no âmbito de uma sociedade só pode ocorrer uma única vez, no mercado comum, e que esta tributação, a fim de não perturbar a circulação dos capitais, deve ser de nível indêntico em todos os Estados-membros;\n\nConsiderando que, consequentemente, convém proceder a uma harmonização do referido imposto, tanto no que respeita à sua estrutura como às taxas respectivas;\n\nConsiderando que a manutenção de outros impostos indirectos com características idênticas às do imposto sobre as entradas de capital ou do imposto de selo sobre os títulos pode pôr em causa os fins prosseguidos pelas medidas previstas na presente directiva, e que por isso, se impõe a sua supressão,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "d04392856bea97bc": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nOs Estados-membros cobrarão um imposto sobre as entradas de capital nas sociedades, harmonizado nos termos dos artigos 2o a 9o, a seguir denominado «imposto sobre as entradas de capital»."
+  },
+  "9353da09465eb31d": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. As operações sujeitas ao imposto sobre as entradas de capital serão tributadas unicamente no Estado-membro em cujo território se encontra situada a sede de direcção efectiva da sociedade de capitais, no momento em que se efectuem essas operações.\n\n2. Quando a sede de direcção efectiva de uma sociedade de capitais se encontre num país terceiro e a sede estatutária num Estado-membro, as operações sujeitas ao imposto sobre as entradas de capital serão tributáveis no Estado-membro onde se encontre a sede estatutária.\n\n3. Quando a sede estatutária e a sede de direcção efectiva de uma sociedade de capitais se situem num país terceiro, a colocação à disposição, de uma sucursal sita num Estado-membro, de capitais investidos ou de capitais de exploração pode ser tributada no Estado-membro em cujo território se situe a sucursal."
+  },
+  "619462a44a743d42": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Para efeitos do disposto na presente directiva, por sociedade de capitais entende-se:\n\na) As sociedades de direito belga, alemão, francês, italiano, luxemburguês e neerlandês, designadas respectivamente:\n\n- société anonyme/naamloze vennootschap, Aktiengesellschaft, société anonyme, societá per azioni, société anonyme, naamloze vennootschap;\n\n- société en commandite par actions/commanditaire vennootschap op aandelen, Kommanditgesellschaft auf Aktien, société en commandite par actions, societá in accomandita per azioni, société en commandite par actions, commanditaire vennootschap op aandelen;\n\n- société de personnes à responsabilité limitée/personenvennootschap met beperkte aansprakelijkheid, Gesellschaft mit beschrankter Haftung, société à responsabilité limitée, societá a responsabilitá limitada, société à responsabilité limitée;\n\nb) Toda e qualquer sociedade, associação ou pessoa colectiva cujas partes representativas do capital social ou do activo sejam susceptíveis de serem negociadas em bolsa;\n\nToda e qualquer sociedade, associação ou pessoa colectiva com fins lucrativos, cujos membros tenham o direito de ceder sem autorização prévia as respectivas partes sociais a terceiros e apenas sejam responsáveis pelas dívidas da sociedade, associação ou pessoa colectiva até ao limite da respectiva participação.\n\n2. Para aplicação da presente directiva, é equiparada às sociedades de capitais toda e qualquer outra sociedade, associação ou pessoa colectiva com fins lucrativos. Todavia, um Estado-membro pode não a considerar como tal, para efeitos de cobrança do imposto sobre as entradas de capital."
+  },
+  "02759fa35fae9b05": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Estão sujeitas ao imposto sobre as entradas de capital as seguintes operações:\n\na) A constituição de uma sociedade de capitais;\n\nb) A transformação em sociedade de capitais de uma sociedade, associação ou pessoa colectiva que não seja sociedade de capitais;\n\nc) O aumento do capital social de uma sociedade de capitais mediante a entrada de bens de qualquer espécie;\n\nd) O aumento do activo de uma sociedade de capitais mediante a entrada de bens de qualquer espécie, remunerada não por partes representativas do capital social ou do activo, mas por direitos da mesma natureza que os dos sócios, tais como direito de voto, participação nos lucros ou no saldo de liquidação;\n\ne) A transferência de um país terceiro para um Estado-membro da sede de direcção efectiva de uma sociedade, associação ou pessoa colectiva, cuja sede estatutária se encontre num país terceiro e que seja considerada, para efeitos da cobrança do imposto sobre as entradas de capital, como sociedade de capitais neste Estado-membro;\n\nf) A transferência de um país terceiro para um Estado-membro da sede estatutária de uma sociedade, associação ou pessoa colectiva cuja sede de direcção efectiva se encontre num país terceiro e que seja considerada, para efeitos da cobrança do imposto sobre as entradas de capital, como sociedade de capitais neste Estado-membro;\n\ng) A transferência de um Estado-membro para outro Estado-membro da sede de direcção efectiva de uma sociedade, associação ou pessoa colectiva que seja considerada, para efeitos da cobrança do imposto sobre as entradas de capital, como sociedade de capitais no Estado-membro referido em último lugar, e não o era no outro Estado-membro;\n\nh) A transferência de um Estado-membro para outro Estado-membro da sede estatutária de uma sociedade, associação ou pessoa colectiva, cuja sede de direcção efectiva se encontre num país terceiro e que seja considerada, para efeitos da cobrança do imposto sobre as entradas de capital, como sociedade de capitais no Estado-membro referido em último lugar, e não o era no outro Estado-membro.\n\n2. Podem ser sujeitas ao imposto sobre as entradas de capital as operações a seguir indicadas:\n\na) O aumento do capital social de uma sociedade de capitais através da incorporação de lucros, reservas ou provisões;\n\nb) O aumento do activo de uma sociedade de capitais através de prestações efectuadas por um sócio, que não impliquem o aumento do capital social, mas que tenham a sua contrapartida numa alteração dos direitos sociais ou que sejam susceptíveis de aumentar o valor das partes sociais;\n\nc) O empréstimo contraído por uma sociedade de capitais, se o credor tiver direito a uma quota-parte dos lucros da sociedade;\n\nd) O empréstimo contraído por uma sociedade de capitais junto de um sócio, do cônjuge ou de um filho de um sócio, bem como o empréstimo contraído junto de um terceiro, quando seja garantido por um sócio, desde que os referidos empréstimos tenham a mesma função que o aumento de capital social.\n\n3. Não se considera constituição, na acepção da alínea a) no 1, qualquer alteração do acto constitutivo ou dos estatutos de uma sociedade de capitais, designadamente:\n\na) A transformação de uma sociedade de capitais numa sociedade de capitais de tipo diferente;\n\nb) A transferência de um Estado-membro para outro Estado-membro da sede de direcção efectiva ou da sede estatutária de uma sociedade, associação ou pessoa colectiva considerada, para efeitos da cobrança do imposto sobre as entradas de capital, como sociedade de capitais em ambos os Estados-membros referidos;\n\nc) A alteração do objecto social de uma sociedade de capitais;\n\nd) A prorrogação do prazo de duração de uma sociedade de capitais."
+  },
+  "692c78b9af33a009": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. O imposto será liquidado:\n\na) No caso de constituição de uma sociedade de capitais, de aumento do seu capital social ou do aumento do seu activo, operações referidas no no 1, alíneas a), c) e d), do artigo 4o: sobre o valor real dos bens de qualquer natureza entregues ou a entregar pelos sócios, após dedução das obrigações assumidas e dos encargos suportados pela sociedade em consequência de cada entrada; os Estados-membros podem cobrar o imposto sobre as entradas de capital à medida que as liberações sejam efectuadas;\n\nb) No caso de transformação em sociedade de capitais ou de transferência da sede de direcção efectiva ou da sede estatutária de uma sociedade de capitais, operações referidas no no 1, alíneas b), e), f), g) e h) do artigo 4o: sobre o valor real dos bens de qualquer natureza pertencentes à sociedade à data da transformação ou da transferência, após dedução das obrigações e dos encargos que a onerem nesse momento;\n\nc) No caso de aumento do capital social através da incorporação de lucros, de reservas ou de provisões, referida no no 2, alínea a) do artigo 4o: sobre o montante nominal do referido aumento;\n\nd) No caso de aumento do activo referido no no 2, alínea b) do artigo 4o: sobre o valor real das prestações efectuadas, após dedução das obrigações assumidas e dos encargos suportados pela sociedade em consequência das referidas prestações;\n\nNo caso de empréstimos referidos no no 2, alíneas c) e d) do artigo 4o: sobre o montante nominal do empréstimo contraído.\n\n2. Nos casos referidos nas alíneas a), b) e c) do no 1, o montante sobre o qual é liquidado o imposto não pode, porém, ser inferior ao valor real das partes sociais atribuídas ou pertencentes a cada sócio, ou ao valor nominal das referidas partes sociais, se este for superior ao seu valor real.\n\n3. O montante sobre o qual é liquidado o imposto, no caso de aumento de capital social, não inclui:\n\n- o montante dos activos próprios da sociedade de capitais que sejam afectados ao aumento do capital social e que já tenham estado sujeitos ao imposto sobre as entradas de capital:\n\n- o montante dos empréstimos contraídos pela sociedade de capitais, convertidos em partes sociais e que já tenham estado sujeitos ao imposto sobre as entradas de capital."
+  },
+  "db606da07c744cb5": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Os Estados-membros podem excluir da matéria colectável, determinada nos termos do artigo 5o, o montante da entrada efectuada por um sócio, responsável ilimitadamente pelas obrigações de uma sociedade de capitais, bem como a quota-parte desse sócio no activo da sociedade.\n\n2. Quando um Estado-membro faça uso da faculdade prevista no no 1, ficam sujeitas ao imposto sobre as entradas de capital:\n\n- a transferência da sede de direcção efectiva da sociedade de capitais para outro Estado-membro que não faça uso dessa faculdade;\n\n- a transferência da sede estatutária da sociedade de capitais, cuja sede de direcção efectiva se situe num país terceiro, para outro Estado-membro que não faça uso dessa faculdade;\n\n- toda e qualquer operação pela qual a responsabilidade de um sócio se limite à sua participação no capital social, designadamente quando a limitação da responsabilidade resulte da transformação da sociedade de capitais em sociedade de capitais de tipo diferente.\n\nO imposto sobre as entradas de capital será liquidado em todos os casos referidos pelo valor da quota-parte que, no activo social, caiba aos sócios responsáveis ilimitadamente pelas obrigações da sociedade de capitais."
+  },
+  "6164a9d69a54e2e2": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Até à entrada em vigor das disposições a adoptar pelo Conselho nos termos do no 2:\n\na) A taxa do imposto sobre as entradas de capital não pode exceder 2 % nem ser inferior a 1 %;\n\nb) A referida taxa será reduzida de 50 %, ou mais, quando uma ou mais sociedades de capitais entreguem a totalidade do respectivo património, ou um ou vários ramos da sua actividade, a uma ou várias sociedades de capitais em vias de constituição ou já existentes.\n\nEsta redução depende de:\n\n- as entradas de capital serem remuneradas exclusivamente mediante a atribuição de partes sociais, tendo os Estados-membros a faculdade de tornar extensiva a concessão da redução aos casos em que as entradas de capital sejam remuneradas mediante a atribuição de partes sociais juntamente com o pagamento imediato de 10 %, no máximo, do respectivo valor nominal,\n\n- as sociedades que participam na operação terem a sua sede de direcção efectiva ou a sede estatutária no território de um Estado-membro;\n\nc) A taxa do imposto sobre as entradas de capital pode ser reduzida para 0,50 % até 1 de Janeiro de 1973 e para 1 % a partir desta data, no caso de constituição ou de aumento do capital social de sociedades de participação financeira, que tenham como único objecto a aquisição de participações noutras empresas bem como a gestão e a valorização desta participação, desde que as referidas sociedades não tenham qualquer actividade industrial ou comercial própria e não explorem um estabelecimento comercial aberto ao público.\n\n2. A fim de permitir ao Conselho fixar as taxas comuns do imposto sobre as entradas de capital antes do termo do período de transição, a Comissão apresentará ao Conselho uma proposta sobre o assunto até 1 de Janeiro de 1971.\n\n3. No caso de aumento do capital social nos termos do no 1, alínea c), do artigo 4o, na sequência de uma redução do capital social efectuada em resultado de perdas sofridas, a taxa pode ser reduzida relativamente à parte do aumento correspondente à redução do capital, desde que tal aumento se verifique no prazo de quatro anos após a redução do capital.\n\n4. Quando um Estado-membro faça uso da faculdade prevista no no 2 do artigo 4o, o imposto sobre as entradas de capital pode ser cobrado com taxa reduzida."
+  },
+  "6c7c898409a76daf": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nQualquer Estado-membro pode isentar, total ou parcialmente, do imposto sobre as entradas de capital as operações referidas nos nos 1 e 2, do artigo 4o, relativamente às:\n\n- sociedades de capitais que prestem serviços de utilidade pública, como sejam as empresas de transporte público, as empresas portuárias ou de fornecimento de água, gás ou electricidade, nos casos em que o Estado ou outras colectividades territoriais detenham, pelo menos, metade do capital social;\n\n- sociedades de capitais que, de harmonia com os respectivos estatutos e na prática, prossigam unica e directamente objectivos culturais, de beneficência, de assistência ou de educação."
+  },
+  "092f32cbb292fa21": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nCertas categorias de operações ou de sociedades de capitais podem ser objecto de isenção, de redução ou de majoração de taxas, por razões de equidade fiscal ou de ordem social, ou com o fim de permitir a um Estado-membro enfrentar situações especiais. O Estado-membro que tencione tomar essa medida deve informar a Comissão em tempo útil e para efeitos da aplicação do artigo 102o do Tratado."
+  },
+  "a5635b538ff6c216": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nAlém do imposto sobre as entradas de capital, os Estados-membros não cobrarão, no que diz respeito às sociedades, associações ou pessoas colectivas com fins lucrativos, qualquer imposição, seja sob que forma for:\n\na) Em relação às operações referidas no artigo 4o;\n\nb) Em relação às entradas de capital, empréstimos ou prestações, efectuadas no âmbito das operações referidas no artigo 4o;\n\nc) Em relação ao registo ou qualquer outra formalidade prévia ao exercício de uma actividade a que uma sociedade, associação ou pessoa colectiva com fins lucrativos esteja sujeita em consequência da sua forma jurídica."
+  },
+  "7a8acc63333ffdfa": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nOs Estados-membros não submeterão a qualquer imposição, seja sob que forma for:\n\na) A criação, emissão, admissão em bolsa, colocação em circulação ou negociação de acções, de partes sociais ou de outros títulos da mesma natureza, bem como de certificados representativos desses títulos, independentemente de quem os emitiu;\n\nb) Os empréstimos, incluindo os estatais, contraídos sob a forma de emissão de obrigações ou outros títulos negociáveis, independentemente de quem os emitiu, e todas as formalidades conexas, bem como a criação, emissão, admissão em bolsa, colocação em circulação ou negociação dessas obrigações ou de outros títulos negociáveis."
+  },
+  "e665d250491c7344": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. Em derrogação do disposto nos artigos 10o e 11o, os Estados-membros podem cobrar:\n\na) Impostos sobre a transmissão de valores mobiliários, cobrados forfetariamente ou não;\n\nb) Direitos de transmissão, incluindo os encargos de registo de propriedade, que incidem sobre a entrada numa sociedade, associação ou pessoa colectiva com fins lucrativos, de bens imóveis ou de estabelecimentos comerciais sitos no respectivo território;\n\nc) Direitos de transmissão sobre bens de qualquer natureza, que constituam entradas de capital numa sociedade, associação ou pessoa colectiva com fins lucrativos, na medida em que a transferência dos referidos bens não seja remunerada através de partes sociais;\n\nd) Direitos que onerem a constituição, inscrição ou extinção de privilégios e hipotecas;\n\ne) Direitos com carácter remuneratório;\n\nf) O imposto sobre o valor acrescentado.\n\n2. Os direitos e impostos referidos nas alíneas b), c), d) e e) do no 1 são os mesmos, independentemente do facto de a sede de direcção efectiva ou de a sede estatutária da sociedade, associação ou pessoa colectiva com fins lucrativos se situar ou não no território do Estado-membro que cobra a imposição. Os referidos direitos e impostos não podem ser superiores aos direitos e impostos aplicáveis a operações similares, no Estado-membro que cobra a imposição."
+  },
+  "1fa6c8176625ef56": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nOs Estados-membros porão em vigor em 1 de Janeiro de 1972 as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva e do facto informarão imediatamente a Comissão."
+  },
+  "a718c1c1299bec58": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nOs Estados-membros comunicarão à Comissão as disposições essenciais de direito nacional que venham a adoptar posteriormente no domínio regulado pela presente directiva."
+  },
+  "f1ad8780b55cde56": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 17 de Julho de 1969.\n\nPelo Conselho\n\nO Presidente\n\nH.J. WITTEVEEN\n\n(1) JO no 119 de 3. 7. 1965, p. 2057/65.(2) JO no 134 de 23. 7. 1965, p. 2227/65."
+  },
+  "61d3abb831b8efda": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Julho de 1969\n\nrelativa aos impostos idirectos que incidem sobre as reuniões de capitais\n\n(69/335/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica europeia e, nomeadamente, os seus artigos 99º e 100º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/449b1271-3fd5-4013-a56f-5803b18af3ad.0016.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/449b1271-3fd5-4013-a56f-5803b18af3ad.0016.03/DOC_1#E0002)),\n\nConsiderando que o objectivo do Tratado é criar uma união económica com características análogas às de um mercado interno e que uma das condições essenciais para se atingir esse objectivo é promover a livre circulação de capitais;\n\nConsiderando que os impostos indirectos que incidem sobre as reuniões de capitais, actualmente em vigor nos Estados-membros, designadamente o imposto a que estão sujeitas as entradas de capitais nas sociedades e o imposto de selo sobre os títulos, dão origem a discriminações, duplas tributações e disparidades que dificultam a livre circulação de capitais, devendo, consequentemente, ser eliminadas por via de harmonização;\n\nConsiderando que a harmonização dos impostos que incidem sobre as reuniões de capitais deve ser concebida de modo a que as repercussões orçamentais relativamente aos Estados-membros sejam limitadas ao mínimo;\n\nConsiderando que a cobrança do imposto de selo por um Estado-membro sobre os títulos dos outros Estados-membros, introduzidos ou emitidos no seu território, é contrária à concepção de um mercado comum com as caracteristicas de um mercado interno; que se afigura, por outro lado, que a manutenção do imposto de selo sobre a emissão de títulos de empréstimo nacionais e bem assim sobre a introdução ou a emissão no mercado de um Estado-membro de títulos estrangeiros não é desejável do ponto de vista económico e se afasta, aliás, da orientação seguida pelo direito fiscal dos Estados-membros, neste domínio;\n\nConsiderando que, nestas condições, é conveniente suprimir o irnposto de selo sobre os títulos, quer estes sejam representativos de capitais próprios das sociedades quer de capitais de empréstimo, e qualquer que seja a sua proveniência;\n\nConsiderando que a concepção de urn mercado comum com as características de um mercado interno pressupõe que a aplicação do imposto sobre as reuniões de capitais aos capitais reunidos no âmbito de uma sociedade só pode ocorrer uma única vez, no mercado comum, e que esta tributação, a fim de não perturbar a circulação dos capitais, deve ser de nível indêntico em todos os Estados-membros;\n\nConsiderando que, consequentemente, convém proceder a uma harmonização do referido imposto, tanto no que respeita à sua estrutura como às taxas respectivas;\n\nConsiderando que a manutenção de outros impostos indirectos com características idênticas às do imposto sobre as entradas de capital ou do imposto de selo sobre os títulos pode pôr em causa os fins prosseguidos pelas medidas previstas na presente directiva, e que por isso, se impõe a sua supressão,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "2d74514db547f178": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nOs Estados-membros cobrarão um imposto sobre as entradas de capital nas sociedades, harmonizado nos termos dos artigos 2º a 9º, a seguir denominado «imposto sobre as entradas de capital»."
+  },
+  "cf947c24ac34dcc2": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. As operações sujeitas ao imposto sobre as entradas de capital serão tributadas unicamente no Estado-membro em cujo território se encontra situada a sede de direcção efectiva da sociedade de capitais, no momento em que se efectuem essas operações.\n\n2. Quando a sede de direcção efectiva de uma sociedade de capitais se encontre num país terceiro e a sede estatutária num Estado-membro, as operações sujeitas ao imposto sobre as entradas de capital serão tributáveis no Estado-membro onde se encontre a sede estatutária.\n\n3. Quando a sede estatutária e a sede de direcção efectiva de uma sociedade de capitais se situem num país terceiro, a colocação à disposição, de uma sucursal sita num Estado-membro, de capitais investidos ou de capitais de exploração pode ser tributada no Estado-membro em cujo território se situe a sucursal."
+  },
+  "35fe99c1ff003a7c": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Para efeitos do disposto na presente directiva, por sociedade de capitais entende-se:\n\na) As sociedades de direito belga, dinamarquês, alemão, [**►A3**](http://publications.europa.eu/resource/celex/11985I) espanhol,**◄** francês, [**►A2**](http://publications.europa.eu/resource/celex/11979H) grego,**◄**irlandês, italiano, luxemburguês, neerlandês[**►A3**](http://publications.europa.eu/resource/celex/11985I), português**◄**e do Reino Unido, designadas respectivamente:\n\n— société anonyme/naamloze vennootschap, aktieselskab, Aktiengesellschaft, [**►A3**](http://publications.europa.eu/resource/celex/11985I) sociedad anónima,**◄** société anonyme, [**►A2**](http://publications.europa.eu/resource/celex/11979H) Ανώνυμος Εταιρία,**◄** companies incorporated with limited liability, società per azioni, société anonyme, naamloze vennootschap, [**►A3**](http://publications.europa.eu/resource/celex/11985I) sociedade anónima,**◄**companies incorporated with limited liability;\n\n— société en commandite par actions/commanditaire vennootschap op aandelen, kommandit-aktieselskab, Kommanditgesellschaft auf Aktien, [**►A3**](http://publications.europa.eu/resource/celex/11985I) sociedad comanditaria por acciones,**◄**société en commandite par actions, [**►A2**](http://publications.europa.eu/resource/celex/11979H) Ετερόρρυθμος κατά μετοχάς Εταιρία,**◄** società in accomandita per azioni, société en commandite par actions, commanditaire vennootschap op aandelen[**►A3**](http://publications.europa.eu/resource/celex/11985I), sociedade em comandita por acções**◄**;\n\n— société de personnes à responsabilité limitée/ personenvennootschap met beperkte aansprakelijkheid, Gesellschaft mit beschränkter Haftung, [**►A3**](http://publications.europa.eu/resource/celex/11985I) sociedad de responsabilidad limitada,**◄**société à responsabilité limitée, [**►A2**](http://publications.europa.eu/resource/celex/11979H) Εταιρία Περιωρισμένης Ευθύνης,**◄** società a responsabilità limitata, société à responsabilité limitée[**►A3**](http://publications.europa.eu/resource/celex/11985I), sociedade por quotas**◄**;\n\n— «Aktiengesellschaft»\n\n— «Gesellschaft mit beschränkter Haftung»;\n\n— «osakeyhtiöaktiebolag», «osuuskuntaandelslag», «säästöpankkisparbank» and «vakuutusyhtiöförsäkringsbolag»;\n\n— «aktiebolag»\n\n— «bankaktiebolag»\n\n— «försäkringsaktiebolag»;\n\n— akciová společnost\n\n— komanditní společnost\n\n— společnost s ručením omezeným;\n\n— εταιρείες περιορισμένης ευθύνης;\n\n— kapitālsabiedrība;\n\n— részvénytársaság\n\n— «korlátolt felelősségű társaság»;\n\n— kumpaniji ta' Responsabilità Limitata\n\n— soċjetajiet en commandite li l-kapital tagħhom maqsum f'azzjonijiet;\n\n— spółka akcyjna\n\n— spółka z ograniczoną odpowiedzialnością;\n\n— delniška družba\n\n— komanditna delniška družba\n\n— družba z omejeno odgovornostjo;\n\n— akciová spoločnosť\n\n— spoločnosť s ručením obmedzeným\n\n— komanditná spoločnosť;\n\n— «Акционерно дружество»\n\n— «Командитно дружество с акции»\n\n— «Дружество с ограничена отговорност»;\n\n— «societăți în nume colectiv»\n\n— «societăți în comandită simplă»\n\n— «societăți pe acțiuni»\n\n— «societăți în comandită pe acțiuni»\n\n— «societăți cu răspundere limitată».\n\nb) Toda e qualquer sociedade, associação ou pessoa colectiva cujas partes representativas do capital social ou do activo sejam susceptíveis de serem negociadas em bolsa;\n\n2. Para aplicacção da presente directiva, é equiparada às sociedades de capitais toda e qualquer outra sociedade, associação ou pessoa colectiva com fins lucrativos. Todavia, um Estado-membro pode não a considerar como tal, para efeitos de cobrança do imposto sobre as entradas de capital."
+  },
+  "9abf1dad344a4180": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Estão sujeitas ao imposto sobre as entradas de capital as seguintes operações:\n\na) A constituição de uma sociedade de capitais;\n\nb) A transformação em sociedade de capitais de uma sociedade, associação ou pessoa colectiva que não seja sociedade de capitais;\n\nc) O aumento do capital social de uma sociedade de capitais mediante a entrada de bens de qualquer espécie;\n\nd) O aumento do activo de uma sociedade de capitais mediante a entrada de bens de qualquer espécie, remunerada não por partes representativas do capital social ou do activo, mas por direitos da mesma natureza que os dos sócios, tais como direito de voto, participação nos lucros ou no saldo de liquidação;\n\ne) A transferência de um país terceiro para um Estado-membro da sede de direcção efectiva de uma sociedade, associação ou pessoa colectiva, cuja sede estatutária se encontre num país terceiro e que seja considerada, para efeitos da cobrança do imposto sobre as entradas de capital, como sociedade de capitais neste Estado-membro;\n\nf) A transferéncia de um país terceiro para um Estado-membro da sede estatutária de uma sociedade, associação ou pessoa colectiva cuja sede de direcção efectiva se encontre num pais terceiro e que seja considerada, para efeitos da cobrança do imposto sobre as entradas de capital, como sociedade de capitais neste Estado-membro;\n\ng) A transferência de um Estado-membro para outro Estado-membro da sede de direcção efectiva de uma sociedade, associação ou pessoa colectiva que seja considerada, para efeitos da cobrança do imposto sobre as entradas de capital, como sociedade de capitais no Estado-membro referido em último lugar, e não o era no outro Estado-membro;\n\nh) A transferência de um Estado-membro para outro Estado-membro da sede estatutária de uma sociedade, associação ou pessoa colectiva, cuja sede de direcção efectiva se encontre num pais terceiro e que seja considerada, para efeitos da cobrança do imposto sobre as entradas de capital, como sociedade de capitais no Estado-membro referido em último lugar, e não o era no outro Estado-membro.\n\n2. Podem continuar sujeitas ao imposto sobre as entradas de capitais as operações a seguir indicadas, desde que fossem tributadas à taxa de 1% em 1 de Julho de 1984.\n\na) O aumento do capital social de uma sociedade de capitais através da incorporação de lucros, reservas ou provisões;\n\nb) O aumento do activo de uma sociedade de capitais através de prestações efectuadas por um sócio, que não impliquem o aumento do capital social, mas que tenham a sua contrapartida numa alteração dos direitos sociais ou que sejam susceptíveis de aumentar o valor das partes sociais;\n\nc) O empréstimo contraído por uma sociedade de capitais, se o credor tiver direito a uma quota-parte dos lucros da sociedade;\n\nd) O empréstimo contraído por uma sociedade de capitais junto de um sócio, do cônjuge ou de um filho de um sócio, bem como o empréstimo contraído junto de um terceiro, quando seja garantido por um sócio, desde que os referidos empréstimos tenham a mesma função que o aumento de capital social.\n\nTodavia, a República Helénica determinará quais as operações, de entre as acima referidas, que ficam sujeitas ao imposto sobre as entradas de capitais.\n\n3. Não se considera constituição, na acepção da alínea a) nº 1, qualquer alteração do acto constitutivo ou dos estatutos de uma sociedade de capitais, designadamente:\n\na) A transformação de uma sociedade de capitais numa sociedade de capitais de tipo diferente;\n\nb) A transferência de um Estado-membro para outro Estado-membro da sede de direcção efectiva ou da sede estatutária de uma sociedade, associação ou pessoa colectiva considerada, para efeitos da cobrança do imposto sobre as entradas de capital, como sociedade de capitais em ambos os Estados-membros referidos;\n\nc) A alteração do objecto social de uma sociedade de capitais;\n\nd) A prorrogação do prazo de duração de uma sociedade de capitais."
+  },
+  "e025a94e481ef022": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. O imposto será liquidado:\n\na) No caso de constituição de uma sociedade de capitais, de aumento do seu capital social ou do aumento do seu activo, operações referidas no nº 1, alíneas a), c) e d), do artigo 4º: sobre o valor real dos bens de qualguer natureza entregues ou a entregar pelos sócios, após dedução das obrigações assumidas e dos encargos suportados pela sociedade em consequência de cada entrada; os Estados-membros podem cobrar o imposto sobre as entradas de capital a medida que as liberações sejam efectuadas;\n\nb) No caso de transformação em sociedade de capitais ou de transferencia da sede de direcção efectiva ou da sede estatutária de uma sociedade de capitais, operações referidas no nº 1, alíneas b), e), f), g) e h) do artigo 4º: sobre o valor real dos bens de qualquer natureza pertencentes à sociedade à data da transformação ou da transferencia, após dedução das obrigações e dos encargos que a onerem nesse momento;\n\nc) No caso de aumento do capital social através da incorporação de lucros, de reservas ou de provisões, referida no nº 2, alinea a) do artigo 4º: sobre o montante nominal do referido aumento;\n\nd) No caso de aumento do activo referido no nº 2, alínea b) do artigo 4º: sobre o valor real das prestações efectuadas, após deduçáo das obrigações assumidas e dos encargos suportados pela sociedade em consequência das referidas prestações;\n\n2. Nos casos referidos nas alineas a) e b), do nº 1, os Estados-membros podem determinar o montante sobre o qual irá incidir o imposto, com base no valor real das partes sociais atribuidas ou pertencentes a cada sócio; o preceito não é aplicável aos casos em que devam efectuar-se apenas entradas em numerário. O montante sobre o qual o imposto é liquidado não pode em caso algum ser inferior ao valor nominal das partes sociais atribuídas ou pertencentes a cada sócio.\n\n3. O montante sobre o qual é liquidado o imposto, no caso de aumento de capital social, não inclui:\n\n— o montante dos activos próprios da sociedade de capitais que sejam afectados ao aumento do capital social e que já tenham estado sujeitos ao imposto sobre as entradas de capital:\n\n— o montante dos empréstimos contraídos pela sociedade de capitais, convertidos em partes sociais e que já tenham estado sujeitos ao imposto sobre as entradas de capital."
+  },
+  "c317a95eb6cadc29": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Os Estados-membros podem excluir da matéria colectável, determinada nos termos do artigo 5º, o montante da entrada efectuada por um sócio, responsável ilimitadamente pelas obrigações de uma sociedade de capitais, bem como a quota-parte desse sócio no activo da sociedade.\n\n2. Quando um Estado-membro faça uso da faculdade prevista no nº 1, ficam sujeitas ao imposto sobre as entradas de capital:\n\n— a transferência da sede de direcção efectiva da sociedade de capitais para outro Estado-membro que não faça uso dessa faculdade;\n\n— a transferência da sede estatutária da sociedade de capitais, cuja sede de direcção efectiva se situe num país terceiro, para outro Estado-membro que não faça uso dessa faculdade;\n\n— toda e qualquer operação pela qual a responsabilidade de um sócio se limite à sua participação no capital social, designadamente quando a limitação da responsabilidade resulte da transformação da sociedade de capitais em sociedade de capitais de tipo diferente.\n\nO imposto sobre as entradas de capital será liquidado em todos os casos referidos pelo valor da quota-parte que, no activo social, caiba aos sócios responsáveis ilimitadamente pelas obrigações da sociedade de capitais."
+  },
+  "82b52658943d5eed": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. Os Estados-membros isentarão do imposto sobre as entradas de capital as operações, com excepção das referidas no artigo 9º, que, em 1 de Julho de l984, estivessem isentas ou fossem tributadas a uma taxa igual ou inferior a 0,50%.\n\nA isenção fica sujeita às condições exigíveis nessa data para a concessão da isenção ou, se for caso disso, para a tributação a uma taxa igual ou inferior a 0,50%.\n\nA República Helénica determinará quais as operações que ficam isentas do imposto sobre as entradas de capital.\n\n2. Os Estados-membros podem isentar do imposto sobre as entradas de capital todas as operações, com excepção das referidas no nº 1, ou submetê-las a uma taxa única que não ultrapasse l%.\n\n3. No caso de aumento do capital social nos terrnos do nº 1, alínea c), do artigo 5º, na sequência de uma redução do capital social efectuada em resultado de perdas sofridas, a parte do aumento correspondente à redução do capital pode ficar isenta, desde que tal aumento se verifique no prazo de quatro anos após a redução do capital."
+  },
+  "508424747f7b8630": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nSem prejuizo do disposto no nº 1 do artigo 7º, os Estados-membros podem isentar do imposto sobre as entradas de capital as operações referidas nos nºs 1 e 2 do artigo 4º, relativamente ás:\n\n— sociedades de capitais que prestem serviços de utilidade pública, como sejam as empresas de transporte público, as empresas portuárias ou de fornecimento de água, gás ou electricidade, nos casos em que o Estado ou outras colectividades territoriais detenham, pelo rnenos, rnetade do capital social;\n\n— sociedades de capitais que, de harmonia com os respectivos estatutos e na prática, prossigam unica e directamente objectivos culturais, de beneficência, de assistência ou de educação."
+  },
+  "ead9648be8d2ec3b": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nCertas categorias de operações ou de sociedades de capitais podem ser objecto de isenção, de redução ou de majoração de taxas, por razões de equidade fiscal ou de ordem social, ou com o fim de permitir a um Estado-membro enfrentar situações especiais. O Estado-membro que tencione tomar essa medida deve informar a Comissão em tempo útil e para efeitos da aplicação do artigo 102º do Tratado."
+  },
+  "0b1882917590b24f": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nAlém do imposto sobre as entradas de capital, os Estados-rnernbros não cobrarão, no que diz repeito às sociedades, associações ou pessoas colectivas corn fins lucrativos, qualquer imposição, seja sob que forma for:\n\na) Em relação às operações referidas no artigo 4º;\n\nb) Em relação às entradas de capital, empréstimos ou prestações, efectuadas no âmbito das operações referidas no artigo 4º;\n\nc) Em relação ao registo ou qualquer outra formalidade prévia ao exercício de uma actividade a que uma sociedade, associação ou pessoa colectiva com fins lucrativos esteja sujeita em consequência da sua forma jurídica."
+  },
+  "8075882fab83f7c9": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nOs Estados-membros não submeterão a qualquer imposição, seja sob que forma for:\n\na) A criação, emissão, admissão em bolsa, colocação em circulação ou negociação de acções, de partes sociais ou de outros títulos da mesma natureza, bem como de certificados representativos desses títulos, independentemente de quem os emitiu;\n\nb) Os empréstimos, incluindo os estatais, contraídos sob a forma de emissão de obrigações ou outros títulos negociáveis, independentemente de quem os emitiu, e todas as formalidades conexas, bem como a criação, emissão, admissão em bolsa, colocação em circulação ou negociação dessas obrigações ou de outros titulos negociáveis."
+  },
+  "86f092379cb4c892": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n1. Em derrogação do diposto nos artigos 10º e 11º, os Estados-membros podem cobrar:\n\na) Impostos sobre a transmissão de valores mobiliários, cobrados forfetariarnente ou não;\n\nb) Direitos de transmissão, incluindo os encargos de registo de propriedade, que incidem sobre a entrada numa sociedade, associação ou pessoa colectiva com fins lucrativos, de bens imóveis ou de estabelecirnentos comerciais sitos no respectivo território;\n\nc) Direitos de transmissão sobre bens de qualquer natureza, que constituam entradas de capital numa sociedade, associação ou pessoa colectiva com fins lucrativos, na medida em que a transferência dos referidos bens não seja remunerada através de partes sociais;\n\nd) Direitos que onerem a constituição, inscrição ou extinção de privilégios e hipotecas;\n\ne) Direitos com carácter remuneratório;\n\nf) O imposto sobre o valor acrescentado.\n\n2. Os direitos e impostos referidos nas alíneas b), c), d) e e) do nº 1 são os mesmos, independentemente do facto de a sede de direcção efectiva ou de a sede estatutária da sociedade, associação ou pessoa colectiva com fins lucrativos se situar ou não no território do Estado-membro que cobra a imposição. Os referidos direitos e impostos não podem ser superiores aos direitos e impostos aplicáveis a operações similares, no Estado-membro que cobra a imposição."
+  },
+  "22369a20bafc6c56": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nOs Estados-membros porão em vigor em 1 de janeiro de l972 as disposições legislativas, regulamentares e administraúvas necessárias para darem cumprimento à presente directiva e do facto informarão imediatamente a Comissão."
+  },
+  "8ad6dc0f449d73ac": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nOs Estados-membros comunicarão à Comissão as disposições essenciais de direito nacional que venham a adoptar posteriormente no dominio regulado pela presente directiva."
+  },
+  "9e08372a271375b6": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nOs Estados-membros são destinatários da presente directiva.\n\n---"
+  },
+  "0ccb2477d9b68c97": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/449b1271-3fd5-4013-a56f-5803b18af3ad.0016.03/DOC_1#src.E0001)) JO nº 119 de 3. 7. 1965, p. 2057/65.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/449b1271-3fd5-4013-a56f-5803b18af3ad.0016.03/DOC_1#src.E0002)) JO nº 134 de 23. 7. 1965, p. 2227/65."
+  },
+  "aba340bce0bfc57d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1969L0335 — PT — 01.01.2009 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31969L0335) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31969L0335) [de 17 de Julho de 1969](http://publications.europa.eu/resource/celex/31969L0335) [relativa aos impostos indirectos que incidem sohre as reuniões de capitais](http://publications.europa.eu/resource/celex/31969L0335) [(69/335/CEE)](http://publications.europa.eu/resource/celex/31969L0335) (JO L 249, 3.10.1969, p.25)\n\n**revogado por:**\n\n- [Directiva 2008/7/CE do Conselho de 12 de Fevereiro de 2008](http://publications.europa.eu/resource/celex/32008L0007) — L 46 — 11 — 21.2.2008"
+  }
+ }
+}

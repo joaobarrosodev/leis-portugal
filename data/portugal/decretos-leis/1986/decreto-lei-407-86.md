@@ -1,0 +1,134 @@
+---
+schema_version: '1.0'
+id: pt:dre:221291:por
+title: Decreto-Lei n.º 407/86
+short_title: null
+summary: Dá nova redacção ao artigo 1.º do Decreto-Lei n.º 321/85, de 5 de Agosto (permite às empresas públicas e às sociedades
+  anónimas pertencentes maioritariamente ao Estado, directa ou indirectamente, emitir títulos de crédito denominados «títulos
+  de participação», representativos de empréstimos por elas contraídos)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 407/86
+official_date: null
+publication_date: '1986-12-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 281/1986, Série I de 1986-12-06
+  number: '281'
+  series: I
+  supplement: null
+  pages: 3676 - 3676
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/12/28100/36763676.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '221291'
+  dre_path: /dr/detalhe/decreto-lei/407-1986-221291
+  internal: pt:dre:221291:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1986-221291
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1986-221291
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:16:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ebbf94e1797b13e890ac93b16e65a1e9ba142274d9cc3b370034128d907d423a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:16:03Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Empresa Participada
+- Empresa Pública
+- Títulos de Participação
+relationships:
+- type: cites
+  target: pt:dre:180193:por
+  label: null
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:16:03Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 407/86
+
+de 6 de Dezembro
+
+A principal originalidade dos títulos de participação reside na forma de calcular a respectiva remuneração, que se decompõe em duas partes: uma fixa; outra variável em função dos resultados, do volume de negócios ou de qualquer outro elemento da actividade da empresa.
+
+Nos termos do [Decreto-Lei n.º 321/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1985-180193), de 5 de Agosto, o preço de emissão dos títulos de participação deverá coincidir com o seu valor nominal.
+
+No entanto, a experiência verificada com as recentes emissões de títulos de participação, que rapidamente atingiram cotações acima do par, mostra que aquela regra conduz a distorções. Tais distorções resultam do facto de os emitentes serem obrigados a colocar um título a um preço inferior ao seu real valor.
+
+O presente decreto-lei altera, pois, a regra da colocação pelo valor nominal, permitindo que o preço de emissão dos títulos de participação possa incluir um prémio de emissão.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo único. O artigo 1.º do [Decreto-Lei n.º 321/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1985-180193), de 5 de Agosto, passa a ter a seguinte redacção:
+
+###### Artigo 1.º — Emissão de títulos de participação
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - O preço de emissão dos títulos de participação pode ser o seu valor nominal ou este último adicionado de um prémio de emissão.
+
+5 - ...
+
+6 - ...
+
+Visto e aprovado em Conselho de Ministros de 13 de Novembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
+
+Promulgado em 26 de Novembro de 1986.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 2 de Dezembro de 1986
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

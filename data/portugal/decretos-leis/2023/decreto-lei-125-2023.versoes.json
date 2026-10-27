@@ -1,0 +1,73 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:835674290:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2023-835804797",
+ "dre_path": "/dr/detalhe/decreto-lei/125-2023-835674290",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2023-12-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "835807178",
+    "835807179",
+    "835807180",
+    "835807181",
+    "835807182",
+    "835807183"
+   ]
+  }
+ ],
+ "fragments": {
+  "835807178": {
+   "fragment_id": "835804798",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 125/2023\n\nde 26 de dezembro\n\nSumário: Procede à alteração da transferência de competências para os órgãos municipais e das entidades intermunicipais no domínio da educação.\n\nO Programa do XXIII Governo Constitucional assume como prioridade a concretização de uma política educativa centrada nas pessoas que garanta a igualdade de acesso à escola pública, promovendo o sucesso educativo e, por essa via, a igualdade de oportunidades e o combate às desigualdades territoriais.\n\nEstes propósitos têm vindo a ser garantidos através da adoção de várias medidas de política educativa, designadamente através da dotação das comunidades de equipamentos escolares, de recursos humanos e de oferta educativa necessários a proporcionar uma educação e formação de qualidade que responda às expetativas e anseios dos alunos.\n\nNo entanto, apesar destes esforços, subsistem ainda 33 concelhos do interior que, pelo reduzido número de alunos, não dispõem de qualquer oferta do ensino secundário, o que obriga a deslocações para outros concelhos que disponham desta oferta, a fim de frequentarem este nível de ensino.\n\nNeste quadro, atentos os princípios da equidade, da universalidade da escolaridade obrigatória, da igualdade de oportunidades no acesso à educação e ao sucesso escolar previstos na Lei de Bases do Sistema Educativo, consagra-se a competência dos municípios para a atribuição de apoios ao transporte e alojamento destinados aos alunos cujo agregado familiar resida em concelhos sem qualquer oferta de ensino secundário.\n\nPermite-se, assim, que estes alunos concluam o ensino secundário e ingressem na vida ativa como profissionais qualificados ou prossigam estudos superiores, combater o abandono escolar precoce, a correção das desigualdades, em razão do território, bem como a promoção da coesão territorial e do desenvolvimento regional e valorização do interior.\n\nPor fim, estabelece-se que o Estado suportará os encargos com a atribuição pelos municípios dos mencionados apoios, através de transferências anuais, nos termos a fixar em portaria.\n\nFoi ouvida a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos do n.º 1 do artigo 4.º da Lei n.º 50/2018, de 16 de agosto, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "835807179": {
+   "fragment_id": "835804799",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei procede à quinta alteração ao Decreto-Lei n.º 21/2019, de 30 de janeiro, alterado pelo Decreto-Lei n.os 84/2019, de 28 de junho, pela Lei n.º 2/2020, de 31 de março, e pelos Decretos-Leis n.os 56/2020, de 12 de agosto, e 16/2023, de 27 de fevereiro, que concretiza a transferência de competências para os órgãos municipais e das entidades intermunicipais no domínio da educação."
+  },
+  "835807180": {
+   "fragment_id": "835804800",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Decreto-Lei n.º 21/2019, de 30 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Decreto-Lei n.º 21/2019, de 30 de janeiro\n\nOs artigos 36.º, 38.º e 53.º do Decreto-Lei n.º 21/2019, de 30 de janeiro, na sua redação atual, passam a ter a seguinte redação:\n\n«Artigo 36.º\n\n[...]\n\n[...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) Atribuir apoios ao transporte para a frequência do ensino secundário, no âmbito da escolaridade obrigatória, aos alunos cujo agregado familiar resida em concelho sem oferta de ensino secundário.\n\nArtigo 38.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - As câmaras municipais podem atribuir apoios ao alojamento para a frequência do ensino secundário, no âmbito da escolaridade obrigatória, aos alunos que residam em concelho sem oferta de ensino secundário.\n\nArtigo 53.º\n\n[...]\n\n1 - O financiamento do apoio e dos complementos educativos, designadamente dos circuitos especiais de transporte, fornecimento de leite escolar, escola a tempo inteiro, encargos com refeitórios e refeições e apoios ao transporte e alojamento para a frequência do ensino secundário, observa as regras legais respetivamente aplicáveis a cada uma destas medidas.\n\n2 - O montante do financiamento do Estado à atribuição pelos municípios dos apoios ao transporte e alojamento mencionado no número anterior, através de transferências anuais, é fixado por portaria dos membros do Governo responsáveis pelas áreas das finanças, da educação e das autarquias locais.»"
+  },
+  "835807181": {
+   "fragment_id": "835804801",
+   "type": 11,
+   "heading": "Artigo 3.º — Aditamento ao Decreto-Lei n.º 21/2019, de 30 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aditamento ao Decreto-Lei n.º 21/2019, de 30 de janeiro\n\nÉ aditado ao Decreto-Lei n.º 21/2019, de 30 de janeiro, na sua redação atual, o artigo 38.º-A, com a seguinte redação:\n\n«Artigo 38.º-A\n\nApoios ao transporte e ao alojamento\n\nPara a concessão dos apoios previstos na alínea e) do artigo 36.º e no n.º 5 do artigo anterior, o aluno deve preencher os seguintes requisitos cumulativos:\n\na) Residir em concelho sem qualquer oferta de ensino secundário;\n\nb) Estar matriculado e ou a frequentar o ensino secundário em escola da rede pública do Ministério da Edução;\n\nc) A distância entre a sua residência e o estabelecimento de ensino a frequentar exceda 15 km;\n\nd) Os meios de transporte coletivo existentes no concelho de residência não satisfaçam regularmente as necessidades de transporte no que se refere ao cumprimento dos horários escolares, ou impliquem tempos de espera superiores a 45 minutos ou deslocações de 60 minutos em cada viagem simples;\n\ne) Sendo maior de 18 anos, não ultrapassar os limites de faltas injustificadas prevista no artigo 18.º da Lei n.º 51/2012, de 5 de setembro, na sua redação atual.»"
+  },
+  "835807182": {
+   "fragment_id": "835804802",
+   "type": 11,
+   "heading": "Artigo 4.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos a 1 de janeiro de 2024."
+  },
+  "835807183": {
+   "fragment_id": "835804803",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

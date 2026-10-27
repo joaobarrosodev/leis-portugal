@@ -1,0 +1,393 @@
+---
+schema_version: '1.0'
+id: pt:dre:296783:por
+title: Portaria n.º 674/94
+short_title: null
+summary: Ratifica a revisão do Plano Geral de Urbanização de Castelo de Paiva, no concelho de Castelo de Paiva
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 674/94
+official_date: null
+publication_date: '1994-07-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 166/1994, Série I-B de 1994-07-20
+  number: '166'
+  series: I
+  supplement: null
+  pages: 3980 - 3983
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/07/166b00/39803983.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/674/1994/07/20/p/dre/pt/html
+  oj: null
+  dre: '296783'
+  dre_path: /dr/detalhe/portaria/674-1994-296783
+  internal: pt:dre:296783:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/674-1994-296783
+  metadata_url: https://data.dre.pt/eli/port/674/1994/07/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/674-1994-296783
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:35:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7c917e34a71f37287aee5366df38bb88e3e6e1704825f46750390d2700070ccd
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:35:24Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Castelo de Paiva
+- Ordenamento do Território
+- Plano de Urbanização
+- Plano Director Municipal
+- Plano Geral de Urbanização
+- Política de Solos
+- Regulamento
+- Urbanização
+relationships:
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523016:por
+  label: null
+  source: null
+article_structure:
+  article_count: 20
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:35:24Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 674/94
+
+de 20 de Julho
+
+Considerando que a Assembleia Municipal de Castelo de Paiva aprovou, em 29 de Julho de 1993, uma revisão do Plano Geral de Urbanização de Castelo de Paiva, publicado no Diário da República, 2.ª série, n.º 291, de 18 de Dezembro de 1985;
+
+Considerando que foi realizado inquérito público, nos termos previstos no artigo 14.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março;
+
+Considerando os pareceres favoráveis emitidos pela Comissão de Coordenação da Região do Norte, pela Secretaria de Estado do Ambiente e Recursos Naturais, pela EDP - Electricidade de Portugal, S. A., pela Comissão Regional da Reserva Agrícola de Entre Douro e Minho, pelo Gabinete de Estudos e Planeamento de Instalações, do Ministério da Administração Interna, pelo Departamento de Estudos e Planeamento da Saúde, do Ministério da Saúde, e pela Direcção-Geral do Ordenamento do Território;
+
+Verificada a sua correcta inserção no quadro legal em vigor;
+
+Assim:
+
+Ao abrigo dos artigos 3.º, n.º 4, e 19.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, com as alterações introduzidas pelo [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro, e da delegação de competências conferida pelo Despacho n.º 52/93, de 10 de Setembro, do Ministro do Planeamento e da Administração do Território, publicado no Diário da República, 2.ª série, n.º 226, de 25 de Setembro de 1993:
+
+Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordenamento do Território, que seja ratificada a revisão do Plano Geral de Urbanização de Castelo de Paiva, no concelho de Castelo de Paiva, cujo Regulamento e planta de síntese se publicam em anexo ao presente diploma.
+
+Ministério do Planeamento e da Administração do Território.
+
+Assinada em 31 de Maio de 1994.
+
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
+
+Regulamento do Plano Geral de Urbanização da Vila de Castelo de Paiva
+
+#### SECÇÃO I — Disposições gerais
+
+###### Artigo 1.º — Âmbito de aplicação
+
+O presente Regulamento aplica-se à extensão do território que engloba a vila de Castelo de Paiva definida como área de intervenção representada na planta de síntese.
+
+###### Artigo 2.º — Zonamento
+
+O presente Regulamento estabelece as regras gerais de ordenamento do solo, modo de ocupação no território da área de intervenção, bem como as regras particulares respeitantes às suas subdivisões.
+
+Estas estão classificadas em:
+
+Zonas urbanas UA, UB, UC;
+
+Zonas naturais NA, NB, NC;
+
+Áreas de equipamento;
+
+Zona de reserva R.
+
+#### SECÇÃO II — Condições gerais de utilização do solo
+
+###### Artigo 3.º — Implantação das construções
+
+Sem prejuízo do disposto no REGEU, nomeadamente nos artigos 59.º, 60.º e 62.º, as edificações deverão implantar-se nas parcelas por forma a respeitar os seguintes afastamentos mínimos:
+
+a) Edificações isoladas:
+
+Em relação ao limite confinante com as vias urbanas primárias - 3 m;
+
+Em relação aos limites laterais do lote - 3 m (quando se trate de fachada com vãos de compartimentos de habitação - 5 m);
+
+Em relação ao limite a tardoz do lote - 5 m;
+
+b) Edifícios geminados ou em banda:
+
+Aplicam-se os valores da alínea anterior no que respeita ao limite confinante com a via pública e a tardoz. Em relação aos limites laterais, estes são aplicados a todas as interrupções de continuidade na fila de construções.
+
+###### Artigo 4.º — Altura das edificações
+
+1 - Em toda a área de intervenção a altura máxima admissível das edificações é de três pisos.
+
+2 - Na zona UA, em novas áreas de edificação quando sujeitas a estudo de conjunto, poderá consentir-se mais um andar recuado.
+
+###### Artigo 5.º — Acessos e vias de serviço
+
+Todos os terrenos e construções devem ser servidos por via pública conforme as necessidades e de acordo com os regulamentos em vigor.
+
+O acesso aos terrenos está ainda sujeito às seguintes condições:
+
+a) Cada terreno deve possuir uma frente para a via pública com largura mínima de 6 m;
+
+b) Quando são em impasse, as vias públicas ou particulares devem, no seu extremo, permitir aos veículos a manobra de retorno;
+
+c) Toda a construção deve ser acessível aos veículos de protecção civil, luta contra o incêndio, recolha de lixo, etc.;
+
+d) Os acessos, os estacionamentos, os locais de carga e descarga ou de manutenção que servem as construções e instalações não devem entravar a circulação dos veículos na via pública;
+
+e) Os acessos devem processar-se em boas condições de visibilidade. Sempre que necessário, serão sinalizados.
+
+###### Artigo 6.º — Superfície e forma dos lotes
+
+São definidas, para as diferentes zonas contempladas neste Regulamento, superfícies mínimas de lotes.
+
+Se a superfície ou a forma dos lotes não permitir a realização de uma ou mais construções em boas condições ou se não favorecer a construção nas parcelas vizinhas, pode ser recusada a licença de construção.
+
+###### Artigo 7.º — Espaços livres e arborizados
+
+Todos os espaços livres devem ser tratados por revestimentos do solo ou ajardinamento.
+
+Em todo o território abrangido pelo Plano Geral de Urbanização, o corte de grandes árvores está sujeito a licença, que será concedida com a condição de que tais árvores sejam substituídas, na mesma propriedade, por outras em igual número.
+
+É desejável que os espaços destinados a viaturas e peões sejam diferenciados.
+
+###### Artigo 8.º — Zonas de protecção
+
+Na área de intervenção existe o Monumento Funerário do Sobrado, no lugar da Meia Laranja, e a fonte existente nos jardins da Quinta da Boavista, ambos com zona de protecção definida no [Decreto n.º 20985](https://diariodarepublica.pt/dr/detalhe/decreto/20985-1932-523016), de 7 de Março de 1952.
+
+###### Artigo 9.º — Ocupação do lote por anexos
+
+Nos lotes destinados a moradias unifamiliares poderão construir-se anexos com pé-direito máximo de 2,20 m, cuja área bruta não exceda 15% da área da construção principal.
+
+###### Artigo 10.º — Materiais de acabamento e cores dos edifícios
+
+A aplicação de materiais de acabamento e cores no exterior dos edifícios fica sujeita a controlo municipal, recomendando-se a utilização dos materiais no estado natural ou reboco liso e cores claras, de preferência o branco.
+
+###### Artigo 11.º — Áreas non aedificandi
+
+O presente Regulamento estabelece as seguintes áreas non aedificandi para a área de intervenção do Plano Geral de Urbanização:
+
+1) Estradas nacionais - 12 m a partir do limite da plataforma das vias assinaladas como estradas nacionais na planta do Regulamento;
+
+2) 50 m em torno do muro que envolve o cemitério;
+
+3) 5 m em relação às margens das linhas de água.
+
+#### SECÇÃO III — Disposições especiais aplicáveis a cada zona
+
+###### Artigo 12.º — Zona central e habitacional
+
+1 - Natureza da ocupação e da utilização do solo. - A zona UA destina-se a:
+
+Habitação unifamiliar e colectiva;
+
+Equipamento;
+
+Comércio;
+
+Serviços;
+
+Actividades não incómodas (é interdita qualquer actividade industrial nesta zona).
+
+2 - Condições de ocupação do solo. - As necessidades de estacionamento desta zona serão satisfeitas por parque de estacionamento a criar.
+
+Deve prever-se para o mercado uma zona de carga e descarga e se possível um parque de estacionamento próprio.
+
+No tecido urbano consolidado nos lotes ainda não preenchidos ou em operações de renovação ou remodelação é obrigatório o alinhamento das construções.
+
+No tecido urbano consolidado a altura máxima admissível das construções é igual à mais alta das edificações adjacentes, nunca podendo ultrapassar os três pisos, sem prejuízo dos restantes condicionamentos do REGEU.
+
+A área mínima admissível dos lotes é de 200 m2. Não são desejáveis lotes para habitação unifamiliar superiores a 400 m2.
+
+O coeficiente de afectação do solo é de 0,5.
+
+O coeficiente de ocupação do solo é de 1,5.
+
+###### Artigo 13.º — Zona UB - Zona habitacional
+
+1 - Natureza da ocupação e da utilização do solo. - A zona UB destina-se a:
+
+Habitação unifamiliar isolada ou geminada;
+
+Equipamento colectivo;
+
+Comércio de apoio directo à habitação;
+
+Actividades não incómodas (é interdita qualquer actividade industrial nesta zona).
+
+2 - Condições de ocupação do solo. - A área mínima admissível dos lotes é de 200 m2.
+
+O coeficiente de afectação do solo é de 0,5.
+
+O coeficiente de ocupação do solo é de 1,5.
+
+###### Artigo 14.º — Zona UC - Zona habitacional
+
+1 - Natureza da ocupação e da utilização do solo. - A zona UC destina-se a:
+
+Habitação unifamiliar isolada;
+
+Equipamento colectivo;
+
+Comércio de apoio directo à habitação;
+
+Actividades não incómodas (é interdita qualquer actividade industrial nesta zona).
+
+2 - Condições de ocupação do solo. - A área mínima admissível dos lotes é de 400 m2.
+
+O coeficiente de afectação do solo é de 0,3.
+
+O coeficiente de ocupação do solo é de 0,9.
+
+###### Artigo 15.º — Zona UI - Zona industrial
+
+1 - Natureza da ocupação e da utilização do solo. - A zona UI é exclusivamente destinada a actividades incompatíveis com a habitação, nomeadamente:
+
+Indústrias;
+
+Oficinas;
+
+Armazéns;
+
+Edifícios que abriguem actividades de apoio directo a esta zona.
+
+2 - Condições de ocupação do solo. - Para os estabelecimentos industriais e armazéns devem ser previstas áreas de estacionamento em número suficiente para os trabalhadores, visitantes e veículos de serviço.
+
+É imperativa a ligação à rede pública de saneamento, sendo obrigatório o tratamento prévio dos efluentes nocivos ou perigosos ou não depuráveis pela estação de tratamento da rede geral de esgotos da vila.
+
+A licença de edificação pode ser recusada se os terrenos ainda não estiverem servidos pela rede pública.
+
+Coeficiente de afectação do solo - 0,6.
+
+A altura máxima admissível das edificações é de dois pisos.
+
+###### Artigo 16.º — Zona na zona agrícola
+
+1 - Natureza da ocupação e da utilização do solo. - A zona NA é uma zona que abrange as áreas constituídas por solos de capacidade de uso agrícola A, B ou CH, ao abrigo do [Decreto-Lei n.º 451/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1982-377482), fora das zonas urbanas. É destinada exclusivamente à ocupação agrícola.
+
+2 - Condições de ocupação do solo. - É proibida a construção de qualquer tipo de edifícios, bem como a execução de aterros, escavações ou qualquer outro processo de inutilização dos solos.
+
+###### Artigo 17.º — Zona NB - Zona florestal
+
+1 - Natureza da ocupação e da utilização do solo. - A zona NB é uma zona destinada exclusivamente à ocupação florestal.
+
+2 - Condições de ocupação do solo. - É proibida a construção de qualquer tipo de agrupamento de habitações, edifícios de habitação colectiva e edifícios industriais ou afins.
+
+###### Artigo 18.º — Zona NC - Zona rural
+
+1 - Natureza da ocupação e da utilização do solo. - A zona NC é uma zona exclusivamente destinada às actividades agrícolas e pecuárias, sendo, no entanto, possível a inclusão de equipamento colectivo.
+
+É proibida a construção de qualquer tipo de agrupamento de habitações, edifícios de habitação colectiva, industriais ou afins.
+
+2 - Condições de ocupação do solo. - As áreas mínimas das parcelas onde é permitido construir uma habitação estão condicionadas pelo uso agrícola dos terrenos da forma seguinte:
+
+a) Agricultura hortícola de regadio - 5000 m2;
+
+b) Agricultura arvense de regadio - 20000 m2;
+
+c) Agricultura de sequeiro - 30000 m2.
+
+###### Artigo 19.º — Áreas de equipamento
+
+1 - Natureza da ocupação e da utilização do solo. - As áreas de equipamento são apenas ocupadas pelo equipamento a que estão destinadas:
+
+1) Jardim infantil, creche;
+
+2) Escola primária;
+
+3) Escola preparatória;
+
+4) Escola secundária;
+
+5) Mercado;
+
+6) Feira;
+
+7) Área desportiva;
+
+8) Quinta da Boavista;
+
+9) Centro de saúde;
+
+10) Casa do Povo;
+
+11) Cemitério;
+
+12) Quartel da GNR;
+
+13) Posto de abastecimento de combustível;
+
+14) Outro equipamento não especificado.
+
+2 - Regime transitório. - Enquanto não se efectuar a transferência da posse e propriedade dos terrenos destas áreas de equipamento para a administração, observar-se-á o seguinte regime transitório, em que não será permitido:
+
+a) A execução de quaisquer construções;
+
+b) A destruição do solo vivo e do coberto vegetal;
+
+c) A alteração da topografia do terreno;
+
+d) O derrube de quaisquer árvores;
+
+e) A descarga de entulho de qualquer tipo;
+
+f) A instalação de lixeiras, parques de sucata e depósitos de materiais de qualquer tipo.
+
+###### Artigo 20.º — Zona R - Zona de reserva
+
+Natureza da ocupação e da utilização do solo. - A zona R é passível de ocupação de vários tipos, a definir em função das necessidades detectáveis após esgotada a capacidade das restantes áreas previstas no Plano Geral de Urbanização.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/166b00/39803983.pdf)

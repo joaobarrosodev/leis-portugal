@@ -1,0 +1,252 @@
+---
+schema_version: '1.0'
+id: pt:dre:293721:por
+title: Decreto-Lei n.º 363/91
+short_title: null
+summary: Revoga o Decreto-Lei n.º 120/88, de 14 de Abril (estabelece medidas tendentes à reestruturação e modernização da
+  INDEP - Indústrias Nacionais de Defesa, E. P.)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 363/91
+official_date: null
+publication_date: '1991-10-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 228/1991, Série I-A de 1991-10-03
+  number: '228'
+  series: I
+  supplement: null
+  pages: 5143 - 5145
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/10/228a00/51435145.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/363/1991/10/03/p/dre/pt/html
+  oj: null
+  dre: '293721'
+  dre_path: /dr/detalhe/decreto-lei/363-1991-293721
+  internal: pt:dre:293721:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1991-293721
+  metadata_url: https://data.dre.pt/eli/dec-lei/363/1991/10/03/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1991-293721
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:12:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 61ec9616fd9a3613192ef5bed7e9efa13bcf58303ace6e9630397dd54280f833
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:12:07Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aposentação Bonificada
+- Gestão de Recursos Humanos
+- Indep
+- Quadro de Efectivos Interdepartamentais
+- Quadro de Pessoal
+- Reforma Antecipada
+relationships:
+- type: amended_by
+  target: pt:dre:159993990:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:473322:por
+  label: "Alterada a al a) do nº 1 do art. 4º pelo DEC LEI.152/98.1998.06.06.MDN, DR.IS-A [131]r\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-1998-473322
+  date: '1998-06-06'
+- type: cites
+  target: pt:dre:405933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469072:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:12:07Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 363/91
+
+de 3 de Outubro
+
+A reestruturação da indústria de defesa, em particular das empresas participadas ou detidas maioritariamente por entes públicos, tem sido preocupação constante do Governo, expressa de modo inequívoco, aliás, no seu Programa.
+
+Por isso, no que respeita à INDEP, E. P., houve a necessidade de, entre outras medidas, proceder à redução da escala de laboração e dos respectivos efectivos, atingindo-se esse objectivo com a constituição de excedentes, ou seja, pessoal considerado desocupado ou subutilizado na empresa.
+
+A regulamentação da gestão deste pessoal foi conseguida com a publicação do [Decreto-Lei n.º 120/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1988-405933), de 14 de Abril, o qual, tal como o presente diploma, só abrange o pessoal a que se refere o artigo 7.º do [Decreto-Lei n.º 515/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1980-457672), de 31 de Outubro.
+
+Entretanto, os estudos realizados e as medidas tomadas permitem já o saneamento financeiro da INDEP, em curso, e a redução da escala de laboração relativa aos produtos mais tradicionais.
+
+A nova fase passa pela transformação da empresa em sociedade anónima e pela criação e desenvolvimento, a partir dela, de novas empresas em áreas diversificadas, de tecnologia actualizada e com participação de entidades privadas.
+
+Torna-se, assim, necessário continuar a regular a situação jurídico-laboral do respectivo pessoal, bem como a forma de prestação de serviço temporário à nova empresa por parte dos empregados que não optem de imediato pelo ingresso nos seus quadros e consequente subordinação ao regime do contrato individual de trabalho.
+
+No entanto, não se justifica a criação de um regime jurídico novo para o pessoal que não vier a optar pela integração na nova sociedade.
+
+Deste modo, entendeu-se que tanto o pessoal constituído em excedente, segundo o [Decreto-Lei n.º 120/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1988-405933), de 14 de Abril, como aquele que o vier a ser com a transformação da INDEP, E. P., em sociedade anónima deveriam estar sujeitos a um único regime.
+
+Acresce ainda que o decurso do tempo veio implicar que algumas disposições do referido decreto-lei deixassem de ter sentido, o que, aliado à alteração da natureza jurídica da INDEP, impõe a sua revogação.
+
+Foi ouvida a comissão de trabalhadores.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Âmbito de aplicação
+
+O presente diploma aplica-se aos actuais trabalhadores da INDEP - Indústrias Nacionais de Defesa, E. P., oriundos dos quadros das antigas Fábrica Militar de Braço de Prata e Fábrica Nacional de Munições e Armas Ligeiras, referidos no artigo 7.º do [Decreto-Lei n.º 515/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1980-457672), de 31 de Outubro.
+
+###### Artigo 2.º — Pessoal excedente
+
+1 - É constituído em excedente o pessoal abrangido pelo artigo anterior que à data da transformação da INDEP em sociedade anónima se encontre em funções na empresa.
+
+2 - O pessoal constituído em excedente ao abrigo do disposto no [Decreto-Lei n.º 120/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1988-405933), de 14 de Abril, mantém-se nessa situação, aplicando-se-lhe, com as devidas adaptações, o disposto no presente diploma.
+
+###### Artigo 3.º — Quadro de excedentes da INDEP
+
+1 - O pessoal considerado excedente nos termos do n.º 1 do artigo 2.º ingressa automaticamente no quadro designado quadro de excedentes da INDEP (QEI), criado junto da Secretaria-Geral do Ministério da Defesa Nacional.
+
+2 - A INDEP fornecerá os dados curriculares necessários à adequada identificação pessoal e profissional de cada um dos trabalhadores a que se refere o n.º 1.
+
+###### Artigo 4.º — Situação no QEI
+
+1 - Durante o período em que se encontrarem integrados no QEI, os trabalhadores da INDEP podem:
+
+a) Ser colocados temporariamente em serviços ou organismos da administração central ou local, estabelecimentos fabris militares ou empresas públicas;
+
+b) Ser sujeitos à frequência de acções de formação e aperfeiçoamento profissional, designadamente de reciclagem e reconversão;
+
+c) Manter-se na situação de disponibilidade.
+
+2 - O pessoal a que se refere o n.º 1 do artigo 2.º manter-se-á na efectividade de serviço na INDEP, S. A., na situação de requisitado, até exercer a opção pela integração na empresa ou ser integrado nos serviços, organismos ou empresas referidos na alínea a) do número anterior.
+
+3 - A requisição referida no número anterior pode ser dada por finda a todo o tempo, por despacho do Ministro da Defesa Nacional, sob proposta fundamentada do conselho de administração da INDEP, S. A.
+
+###### Artigo 5.º — Colocação temporária
+
+1 - A colocação temporária a que se refere o n.º 1 do artigo anterior far-se-á mediante recurso à figura da requisição.
+
+2 - Os encargos decorrentes da requisição serão suportados pelo serviço requisitante até ao montante correspondente ao vencimento nele praticado para funções idênticas às desempenhadas pelo requisitado, sendo o remanescente, se for caso disso, suportado pelo órgão gestor do QEI.
+
+###### Artigo 6.º — Formação e aperfeiçoamento profissional
+
+As acções de formação e aperfeiçoamento profissional visarão:
+
+a) A reconversão profissional, quando se torne necessário adaptar o trabalhador ao desempenho de novas funções;
+
+b) A reciclagem, sempre que esteja em vista a adaptação profissional a novas tecnologias e métodos de trabalho.
+
+###### Artigo 7.º — Direitos dos excedentes
+
+1 - Os excedentes mantêm a categoria e a natureza do vínculo que detinham à data da aquisição dessa qualidade.
+
+2 - Os excedentes que se mantiverem na efectividade de serviço da INDEP, S. A., nos termos do n.º 2 do artigo 4.º, recebem a remuneração e demais abonos a que tenham direito à data da transformação da INDEP em sociedade anónima, a qual será anualmente actualizada segundo o índice 100 do sistema retributivo da função pública.
+
+3 - Quando colocados, os excedentes recebem por inteiro a remuneração e demais abonos a que tenham direito os excedentes em efectividade de serviço na INDEP, S. A., observando-se em relação àqueles a actualização referida no número anterior.
+
+4 - Com salvaguarda das situações constituídas ao abrigo do n.º 3 do artigo 8.º do [Decreto-Lei n.º 120/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1988-405933), de 14 de Abril, os excedentes na situação de disponibilidade ficam abrangidos pelo n.º 2 do artigo 18.º da [Lei n.º 65/90](https://diariodarepublica.pt/dr/detalhe/lei/65-1990-469072), de 28 de Dezembro.
+
+5 - O tempo de permanência na situação de disponibilidade será considerado para efeitos de aposentação.
+
+6 - Para os efeitos do disposto neste artigo, consideram-se na situação de actividade os excedentes submetidos a acções de formação e aperfeiçoamento profissional.
+
+###### Artigo 8.º — Deveres dos excedentes
+
+Os excedentes na situação de disponibilidade, bem como os constituídos nos termos do artigo 2.º, mantêm os deveres inerentes aos trabalhadores da INDEP enquanto empresa pública, com excepção, no caso dos que se encontrem na disponibilidade, dos deveres que se relacionem directamente com o exercício efectivo das funções.
+
+###### Artigo 9.º — Cessação da qualidade de excedente
+
+1 - A qualidade de excedente cessa:
+
+a) Por integração nos serviços, organismos ou empresas referidos na alínea a) do n.º 1 do artigo 4.º;
+
+b) Por recusa em passar a situação de actividade no QEI não aceite como fundamentada, nos termos a definir por despacho do Ministro da Defesa Nacional;
+
+c) Por aposentação;
+
+d) Por integração nos quadros da INDEP, S. A.;
+
+e) Por cessação da relação jurídica de emprego, designadamente através de exoneração ou demissão, nos termos da lei.
+
+2 - Considera-se fundamentada a recusa de colocação fora da área do distrito de Lisboa, com excepção dos concelhos limítrofes dos distritos de Setúbal e Santarém.
+
+3 - Para efeitos disciplinares, a recusa não aceite como fundamentada será considerada insubordinação grave ou grave desinteresse pelo cumprimento dos deveres profissionais.
+
+###### Artigo 10.º — Descongestionamento do QEI
+
+1 - Em ordem a promover o descongestionamento do QEI, podem os membros do Governo em cada caso competentes conceder aos excedentes que o requeiram a aposentação antecipada nos termos do artigo seguinte.
+
+2 - Os excedentes que reúnam os requisitos mínimos para a aposentação e que permaneçam na situação de disponibilidade durante mais de dois anos, seguidos ou interpolados, serão aposentados.
+
+###### Artigo 11.º — Aposentação antecipada
+
+Poderão aposentar-se por sua iniciativa, e independentemente de submissão a junta médica, os excedentes que preencham uma das seguintes condições:
+
+a) 40 anos de idade e 15 anos de serviço para efeitos de aposentação;
+
+b) 20 anos de serviço, qualquer que seja a idade.
+
+###### Artigo 12.º — Norma revogatória
+
+É revogado o [Decreto-Lei n.º 120/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1988-405933), de 14 de Abril, ficando salvaguardados os efeitos por ele produzidos.
+
+Visto e aprovado em Conselho de Ministros de 20 de Junho de 1991. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - António José de Castro Bagão Félix.
+
+Promulgado em 19 de Setembro de 1991.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 26 de Setembro de 1991.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

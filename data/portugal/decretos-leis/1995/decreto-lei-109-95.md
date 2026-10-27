@@ -1,0 +1,580 @@
+---
+schema_version: '1.0'
+id: pt:dre:503653:por
+title: Decreto-Lei n.º 109/95
+short_title: null
+summary: Cria o sistema multimunicipal de valorização e tratamento de resíduos sólidos urbanos do Algarve
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente e Recursos Naturais
+proposing_entity: null
+official_number: 109/95
+official_date: null
+publication_date: '1995-05-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 117/1995, Série I-A de 1995-05-20
+  number: '117'
+  series: I
+  supplement: null
+  pages: 3121 - 3124
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/05/117a00/31213124.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2014-07-03'
+version_history:
+  file: decreto-lei-109-95.versoes.json
+  count: 2
+  source_lastmod: '2025-09-26'
+  versions:
+  - date: '1995-05-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-07-03'
+    amending: pt:dre:25345609:por
+    amending_title: Decreto-Lei n.º 107/2014
+    changes:
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 25.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/109/1995/p/cons/20140702/pt/html
+  oj: null
+  dre: '503653'
+  dre_path: /dr/detalhe/decreto-lei/109-1995-503653
+  internal: pt:dre:503653:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1995-503653
+  metadata_url: https://data.dre.pt/eli/dec-lei/109/1995/p/cons/20140702/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1995-936852773
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1995-936852773
+  retrieved_at: '2026-10-22T13:34:06Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-09-26T00:00:00Z'
+integrity:
+  source_sha256: 96c25f1e37462daa1b3face9f8edc8154b625f18bd1756a7f994934124b67daf
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:34:06Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-109-95.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Gestão de Resíduos
+- Contrato de Concessão
+- Empresa Geral de Fomento
+- Algarve
+- Estatuto
+- Serviço Público
+- Sistema Multimunicipal de Valorização e Tratamento de Resíduos Sólidos Urbanos do Algarve
+- Autarquia Local
+relationships:
+- type: amended_by
+  target: pt:dre:25345609:por
+  label: Adita Artigo 9.º; Adita Artigo 10.º; Adita Artigo 25.º-A; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 2.º;
+    Altera Artigo 4.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 13.º; Altera
+    Artigo 17.º; Altera Artigo 18.º; Revoga Artigo 4.º; Revoga Artigo 6.º; Revoga Artigo 7.º; Revoga Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2014-25345609
+  date: '2014-07-02'
+- type: cites
+  target: pt:dre:534587:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/294/1994/11/16/p/dre
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/379/1993/11/05/p/dre
+article_structure:
+  article_count: 37
+  section_count: 9
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:34:06Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 109/95
+
+Decreto-Lei n.º 109/95
+
+de 20 de Maio
+
+O Decreto-Lei n.º 379/93, de 5 de Novembro, veio estabelecer o regime legal da gestão e exploração de sistemas que tenham por objecto a actividade de recolha e tratamento de resíduos sólidos urbanos, distinguindo entre sistemas multimunicipais e municipais.
+
+Dada a sua importância estratégica, definiram-se os sistemas multimunicipais como aqueles que sirvam pelo menos dois municípios e exijam um investimento predominante a efectuar pelo Estado em função de razões de interesse nacional.
+
+O referido diploma também estabeleceu a obrigatoriedade da sua criação por decreto-lei, precedida de parecer dos municípios territorialmente envolvidos. Assim, torna-se necessário criar o sistema multimunicipal de tratamento de resíduos sólidos urbanos no Algarve.
+
+Por seu turno, o Decreto-Lei n.º 294/94, de 16 de Novembro, consagrou um quadro legal contendo os princípios gerais e informadores do regime jurídico da exploração e gestão dos sistemas multimunicipais de tratamento de resíduos sólidos urbanos quando atribuídos por concessão a empresa pública ou a sociedade de capitais exclusiva ou maioritariamente públicos.
+
+Pelo presente decreto-lei concretiza-se o quadro legal atrás referido em relação ao sistema multimunicipal do Algarve, definindo, desde logo, os seus iniciais utilizadores e prevendo o seu eventual alargamento em função do reconhecimento de interesse público justificativo.
+
+Para o efeito, é constituída a sociedade à qual será atribuída a concessão da exploração e gestão do sistema, aprovando-se os seus estatutos e fixando-se os seus accionistas originários. A atribuição da concessão fica, porém, condicionada à efectiva celebração do contrato de concessão com a sociedade agora criada. Finalmente, prevê-se ainda a celebração em simultâneo dos contratos de entrega e recepção com o contrato de concessão, ficando por esta via assegurado o funcionamento pleno do sistema.
+
+Foram ouvidos os municípios abrangidos pelo sistema multimunicipal do Algarve.
+
+Assim:
+
+Nos termos da alínea a) do n.º l do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+É criado o sistema multimunicipal de valorização e tratamento de resíduos sólidos urbanos do Algarve, integrado pelos municípios de Albufeira, Alcoutim, Aljezur, Castro Marim, Faro, Lagoa, Lagos, Loulé, Monchique, Olhão, Portimão, São Brás de Alportel, Silves, Tavira, Vila do Bispo e Vila Real de Santo António.
+
+###### Artigo 2.º
+
+- 1 - É constituída a sociedade ALGAR - Valorização e Tratamento de Resíduos Sólidos, S. A., sociedade anónima de responsabilidade limitada, adiante designada por sociedade.
+
+2 - A sociedade rege-se pelo presente diploma, pela lei comercial e pelos seus estatutos.
+
+###### Artigo 3.º
+
+- 1 - São aprovados os estatutos da sociedade que figuram em anexo ao presente diploma.
+
+2 - Os estatutos anexos não carecem de redução a escritura pública, devendo o registo comercial competente ser feito oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que hajam sido publicados.
+
+3 - [Revogado]
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 107/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2014-25345609), em vigor a partir de 2014-07-03
+
+###### Artigo 4.º
+
+- 1 - São titulares originários das acções da sociedade os municípios de Albufeira, Alcoutim, Aljezur, Castro Marim, Faro, Lagoa, Lagos, Loulé, Monchique, Olhão, Portimão, São Brás de Alportel, Silves, Tavira, Vila do Bispo e Vila Real de Santo António, com um total de 44% do capital social com direito a voto, a Empresa Geral do Fomento, S. A., com 51% do capital social com direito a voto, e a IPE Capital - Sociedade de Capital de Risco, S. A., ou um fundo por si gerido, com 5% do capital social com direito a voto.
+
+2 - O capital social, no montante de 200000000$00, é representado por 190000 acções da classe A e 10000 acções da classe B, repartidas da seguinte forma pelos accionistas fundadores:
+
+a) Município de Albufeira, 11320 acções da classe A;
+
+b) Município de Alcoutim, 451 acções da classe A;
+
+c) Município de Aljezur, 872 acções da classe A;
+
+d) Município de Castro Marim, 1122 acções da classe A;
+
+e) Município de Faro, 12832 acções da classe A;
+
+f) Município de Lagoa, 5353 acções da classe A;
+
+g) Município de Lagos, 6755 acções da classe A;
+
+h) Município de Loulé, 11654 acções da classe A;
+
+i) Município de Monchique, 756 acções da classe A;
+
+j) Município de Olhão, 8970 acções da classe A;
+
+l) Município de Portimão, 11049 acções da classe A;
+
+m) Município de São Brás de Alportel, 1131 acções da classe A;
+
+n) Município de Silves, 6176 acções da classe A;
+
+o) Município de Tavira, 4258 acções da classe A;
+
+p) Município de Vila do Bispo, 1364 acções da classe A;
+
+q) Município de Vila Real de Santo António, 3937 acções da classe A;
+
+r) Empresa Geral do Fomento, S. A., 102000 acções da classe A;
+
+s) IPE Capital ou fundo por si gerido, 10000 acções da classe B.
+
+3 - As acções da classe A deverão representar, pelo menos, 51% do capital social com direito a voto e delas apenas poderão ser titulares entes públicos, entendidos estes nos termos da alínea e) do n.º 2 do artigo 1.º da Lei n.º 71/88, de 24 de Maio, ou municípios utilizadores dos sistemas multimunicipais de cuja exploração e gestão a sociedade seja concessionária.
+
+4 - A transmissão de acções em violação do disposto no número anterior é nula.
+
+5 - Sem prejuízo do disposto no n.º 3, as acções da classe A poderão ser convertidas em acções da classe B, a pedido do seu titular e mediante prévia deliberação favorável da assembleia geral.
+
+6 - Todas as transmissões ou onerações de qualquer natureza das acções da sociedade feitas até 1 de Janeiro de 1999 carecem da autorização do concedente.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 107/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2014-25345609), em vigor a partir de 2014-07-03
+
+###### Artigo 5.º
+
+1 - A exploração e gestão do sistema multimunicipal do Algarve é atribuída em regime de concessão exclusiva à ALGAR - Valorização e Tratamento de Resíduos Sólidos, S.A., até 31 de dezembro de 2034.
+
+2 - [Revogado].
+
+> Nota: [Artigo 8.º, Decreto-Lei n.º 107/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2014-25345609) A alteração ao presente artigo entra em vigor na data em que a ALGAR, S.A., deixar de ser detida maioritariamente por entidades públicas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2014-25345609), em vigor a partir de 2014-07-03
+
+###### Artigo 6.º
+
+- 1 - Os investimentos a realizar no âmbito da concessão reportam-se à execução das seguintes obras e à instalação dos seguintes equipamentos:
+
+a) Equipamentos de triagem e valorização de resíduos sólidos urbanos;
+
+b) Conjunto de estações de transferência;
+
+c) Aterros do Barlavento e do Sotavento.
+
+2 - As tarifas a cobrar aos utilizadores serão aprovadas pelo concedente nos termos fixados na base XV das bases gerais de concessão aprovadas pelo Decreto-Lei n.º 294/94, de 16 de Novembro, após emissão de parecer pela Direcção-Geral de Concorrência e Preços.
+
+3 - O investimento a cargo da concessionária será objecto de remuneração adequada, nos termos a fixar no contrato de concessão, ponderando a sua repercussão nas tarifas.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 107/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2014-25345609), em vigor a partir de 2014-07-03
+
+###### Artigo 7.º
+
+- 1 - No contrato de concessão outorgará, em representação do Estado, o Ministro do Ambiente e Recursos Naturais.
+
+2 - Na data da celebração do contrato de concessão devem encontrar-se constituídas as cauções nele previstas.
+
+3 - Os contratos de entrega e recepção com os municípios serão celebrados em simultâneo com o contrato de concessão.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 107/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2014-25345609), em vigor a partir de 2014-07-03
+
+###### Artigo 8.º
+
+Fica desde já convocada a assembleia geral da sociedade para se reunir, na sede social, pelas 15 horas do 30.º dia útil após a publicação do presente diploma, para a eleição dos titulares dos cargos sociais e aprovação do respectivo estatuto remuneratório.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 107/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2014-25345609), em vigor a partir de 2014-07-03
+
+###### Artigo 9.º
+
+1 - É criado um conselho consultivo, ao qual compete o acompanhamento da atividade geral da sociedade, nomeadamente dos níveis de serviços praticados e da gestão das infraestruturas afetas à concessão.
+
+2 - Integram o conselho consultivo previsto no número anterior, por inerência, os presidentes de todas as câmaras municipais dos municípios utilizadores do sistema gerido pela ALGAR - Valorização e Tratamento de Resíduos Sólidos, S.A., bem como os membros do respetivo conselho de administração e do conselho fiscal desta.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 107/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2014-25345609), em vigor a partir de 2014-07-03
+
+###### Artigo 10.º
+
+1 - A ALGAR - Valorização e Tratamento de Resíduos Sólidos, S.A., deve prestar em benefício do concedente uma caução destinada a garantir o cumprimento de todas as obrigações que para si emergem do contrato de concessão.
+
+2 - O valor da caução é de 5% do volume de negócios da empresa no ano anterior ao da data da sua prestação.
+
+3 - A prestação da caução referida no número anterior deve ocorrer no prazo máximo de 90 dias após a ALGAR - Valorização e Tratamento de Resíduos Sólidos, S.A., deixar de ser detida maioritariamente por entidades públicas.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 107/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2014-25345609), em vigor a partir de 2014-07-03
+
+Visto e aprovado em Conselho de Ministros de 9 de Março de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Maria Teresa Pinto Basto Gouveia.
+
+Promulgado em 26 de Abril de 1995.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 27 de Abril de 1995.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+## Anexo
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º
+
+A sociedade adopta a denominação de ALGAR - Valorização e Tratamento de Resíduos Sólidos, S. A., e durará por tempo indeterminado.
+
+###### Artigo 2.º
+
+1 - A sede social é em Barros de São João, São João da Venda, 8135-026 Almancil.
+
+2 - Por deliberação do conselho de administração a sede da sociedade pode ser deslocada para qualquer outro local dentro do mesmo concelho.
+
+3 - Por deliberação do conselho de administração poderá a sociedade criar, deslocar ou encerrar sucursais, agências, delegações ou outras formas locais de representação.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 107/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2014-25345609), em vigor a partir de 2014-07-03
+
+### Capítulo II — Objecto
+
+###### Artigo 3.º
+
+1 - A sociedade, tem por objeto social a exploração e gestão, em regime de serviço público, do sistema multimunicipal de tratamento e recolha seletiva de resíduos urbanos do Algarve.
+
+2 - A exploração e a gestão referidas no número anterior compreendem:
+
+a) A conceção e construção de todas as instalações necessárias ao tratamento de resíduos urbanos gerados nas áreas dos municípios utilizadores, incluindo, nomeadamente, a construção de centrais de processamento, a construção de aterros e de estações de transferência, respetivos acessos e sua extensão, reparação e renovação de acordo com as exigências técnicas e com os parâmetros de sanidade e qualidade ambiental exigíveis;
+
+b) A aquisição, manutenção e renovação de todos os equipamentos e meios de transporte necessários ao tratamento dos resíduos urbanos que deva receber;
+
+c) O fornecimento, instalação, gestão, exploração, manutenção e renovação dos equipamentos necessários à recolha seletiva colocados em espaço público e ou privado de utilização pública.
+
+3 - A sociedade pode, desde que para o efeito esteja habilitada, exercer outras atividades para além daquelas que constituem o objeto da concessão, desde que consideradas complementares ou outras atividades nos termos do contrato de concessão e mediante autorização do concedente.
+
+> Nota: [Artigo 8.º, Decreto-Lei n.º 107/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2014-25345609) A alteração ao presente artigo entra em vigor na data em que a ALGAR, S.A., deixar de ser detida maioritariamente por entidades públicas.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 107/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2014-25345609), em vigor a partir de 2014-07-03
+
+###### Artigo 4.º
+
+No exercício da sua atividade a sociedade pode participar em quaisquer outras sociedades, ou entidades de natureza não societária, com objeto similar ou complementar do seu, desde que devidamente autorizada pela concedente.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 107/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2014-25345609), em vigor a partir de 2014-07-03
+
+###### Artigo 5.º
+
+1 - O capital social é de (euro) 7 500 000,00, encontrando-se integralmente realizado.
+
+2 - O capital social é representado por 1 500 000 ações com o valor nominal de (euro) 5,00 cada uma.
+
+3 - [Revogado].
+
+4 - [Revogado].
+
+5 - [Revogado].
+
+6 - [Revogado].
+
+7 - [Revogado].
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 107/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2014-25345609), em vigor a partir de 2014-07-03
+
+###### Artigo 6.º
+
+- 1 - Poderão ser emitidas acções preferenciais sem voto, até ao montante máximo de 50% do capital social, nos termos e condições definidos na deliberação dos accionistas.
+
+2 - Por deliberação dos accionistas, as acções preferenciais poderão ser sujeitas a remição, devendo ser feita pelo valor nominal das acções eventualmente acrescido de um prémio determinado pela mesma deliberação.
+
+###### Artigo 7.º
+
+1 - As ações são nominativas e assumem a forma escritural ou titulada.
+
+2 - Serão emitidos títulos que poderão representar 1, 5, 10, 100, 1000, 10000 ou 100000 acções, os quais poderão, em qualquer altura e a requerimento de qualquer accionista, que suportará o respectivo custo, ser substituídos por agrupamento ou divisão.
+
+3 - [Revogado].
+
+4 - Os títulos serão assinados por dois administradores, podendo a assinatura ser de chancela por eles autorizada.
+
+5 - Mediante prévia deliberação dos accionistas, é autorizada a emissão de acções escriturais ou a conversão de acções tituladas em escriturais, nos termos da legislação aplicável.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 107/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2014-25345609), em vigor a partir de 2014-07-03
+
+###### Artigo 8.º
+
+1 - [Revogado].
+
+2 - [Revogado].
+
+3 - A transmissão de ações fica subordinada ao consentimento da sociedade.
+
+4 - Existe direito de preferência dos acionistas na transmissão de ações, devendo o alienante informar cada um dos demais acionistas, por escrito desse facto, indicando o adquirente, o preço oferecido e, se este não for em dinheiro, o seu equivalente em dinheiro, bem como as demais condições de venda.
+
+5 - Querendo o acionista transmitir ações, deve pedir o consentimento, por escrito, à sociedade, mediante carta registada com aviso de receção, identificando o previsto adquirente, indicando as contrapartidas oferecidas e a respetiva valoração, bem como as demais condições da projetada transmissão.
+
+6 - A sociedade, deve pronunciar-se sobre o pedido de consentimento no prazo de 60 dias contados da data de receção da carta mencionada no número anterior.
+
+7 - Se a sociedade, não se pronunciar dentro do prazo referido no número anterior, e sempre sem prejuízo do direito de preferência dos outros acionistas regulado no presente artigo, é livre a transmissão das ações.
+
+8 - É lícito recusar o pedido de consentimento com fundamento em qualquer interesse relevante da sociedade, devendo indicar-se sempre na deliberação o motivo da recusa.
+
+9 - No caso de recusar licitamente o consentimento, a sociedade, fica obrigada a adquirir as ações por outra pessoa nas condições de preço e pagamento do negócio para que foi solicitado o consentimento.
+
+10 - No caso previsto no número anterior, tratando-se de transmissão a título gratuito, ou provando a sociedade, que naquele negócio houve simulação de preço, a aquisição faz-se pelo valor real, determinado nos termos previstos no n.º 2 do artigo 105.º do Código das Sociedades Comerciais.
+
+11 - A sociedade, caso aceite o pedido de consentimento ou caso não se pronuncie sobre o mesmo dentro do prazo referido no n.º 6, comunica a todos os acionistas titulares do direito de preferência na transmissão das ações em causa, a informação recebida, tendo estes um prazo de 30 dias a contar da sua receção para declararem se exercem o direito de preferência na aquisição de ações.
+
+12 - Querendo vários acionistas preferir, as ações alienadas são distribuídas a cada um, incluindo ao primitivo adquirente, se já for acionista, na proporção das respetivas participações sociais.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 107/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2014-25345609), em vigor a partir de 2014-07-03
+
+###### Artigo 9.º
+
+1 - Mediante deliberação dos sócios, a sociedade pode amortizar as ações que forem penhoradas, arrestadas, arroladas, incluídas em massa insolvente ou, em geral, apreendidas no âmbito de qualquer ação judicial ou estiverem em condições de ser transmitidas judicialmente.
+
+2 - No caso de amortização de acções nos termos deste artigo, o montante da contrapartida da amortização será o que resultar da deliberação dos accionistas relativa à amortização, que tomará em consideração a situação líquida da sociedade resultante do último balanço aprovado.
+
+3 - [Revogado].
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 107/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2014-25345609), em vigor a partir de 2014-07-03
+
+###### Artigo 10.º
+
+- 1 - Poderão ser emitidas obrigações em qualquer das modalidades admitidas por lei, mediante deliberação dos accionistas ou deliberação do conselho de administração.
+
+2 - Às obrigações emitidas pela sociedade aplica-se o disposto no n.º 4 do artigo 7.º
+
+### Capítulo III — Órgãos sociais
+
+#### Secção I — Disposições gerais
+
+###### Artigo 11.º
+
+1 - São órgãos sociais a assembleia geral, o conselho de administração, o conselho fiscal e um revisor oficial de contas ou uma sociedade de revisores oficiais de contas que não seja membro daquele órgão.
+
+2 - Os membros da mesa da assembleia geral, do conselho de administração e do conselho fiscal são eleitos em assembleia geral por períodos de três anos e podem ser reconduzidos uma ou mais vezes, contando-se como completo o ano civil em que foram eleitos.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 107/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2014-25345609), em vigor a partir de 2014-07-03
+
+###### Artigo 12.º
+
+Uma minoria de accionistas que tenha votado contra a proposta que fez vencimento na eleição dos administradores tem direito de designar um administrador, contando que essa minoria represente, pelo menos, 10% do capital social.
+
+#### Secção II — Assembleia geral
+
+###### Artigo 13.º
+
+1 - Os acionistas com direito de voto podem participar nas assembleias gerais desde que as ações estejam averbadas em seu nome no livro de registo da sociedade até 10 dias antes daquele em que a assembleia geral deve reunir em primeira convocatória.
+
+2 - A representação de accionistas em assembleia geral poderá fazer-se em qualquer pessoa, sendo instrumento suficiente de representação uma carta dirigida ao presidente da mesa da assembleia geral.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 107/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2014-25345609), em vigor a partir de 2014-07-03
+
+###### Artigo 14.º
+
+- 1 - A mesa da assembleia geral é constituída por um presidente, um vice-presidente e um secretário.
+
+2 - Compete ao presidente convocar assembleias gerais, dirigi-las e praticar quaisquer actos previstos na lei, nos presentes estatutos ou em deliberação dos accionistas.
+
+3 - O presidente é substituído, nas suas faltas e impedimentos, pelo vice-presidente.
+
+###### Artigo 15.º
+
+- 1 - A assembleia geral reunirá no 1.º trimestre subsequente ao encerramento do exercício anterior.
+
+2 - A assembleia geral reunirá ainda sempre que o requeiram o conselho de administração, o conselho fiscal ou os accionistas que representem, pelo menos, 5% do capital social.
+
+###### Artigo 16.º
+
+- 1 - As reuniões da assembleia geral serão convocadas com a antecedência e nos termos previstos na lei, podendo a convocação ser efectuada por carta registada em substituição da publicação da convocatória enquanto forem nominativas todas as acções da sociedade.
+
+2 - A assembleia geral pode deliberar, em primeira convocação, desde que estejam presentes ou representados accionistas que detenham mais de dois terços do capital social.
+
+3 - No aviso convocatório poderá logo fixar-se uma data alternativa para a reunião da assembleia geral, para o caso de a mesma não poder reunir na data inicialmente marcada por falta de quórum constitutivo, devendo entre as duas datas indicadas mediar mais de 15 dias.
+
+###### Artigo 17.º
+
+- 1 - Os accionistas podem deliberar sobre todos os assuntos que não sejam da competência exclusiva de outros órgãos sociais.
+
+2 - Compete em especial à assembleia:
+
+a) Deliberar sobre o relatório de gestão e as contas de exercício;
+
+b) Deliberar sobre a proposta de aplicação dos resultados;
+
+c) Apreciar a administração e a fiscalização da sociedade;
+
+d) Eleger os membros dos órgãos sociais.
+
+3 - Salvo quando a lei ou os presentes estatutos exigirem maioria qualificada superior, as deliberações da assembleia geral são tomadas com os votos correspondentes a acções que representem mais de 50% do capital social.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 107/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2014-25345609), em vigor a partir de 2014-07-03
+
+#### Secção III — Administração da sociedade
+
+###### Artigo 18.º
+
+- 1 - A administração da sociedade será exercida por um conselho de administração composto por três ou cinco membros.
+
+2 - Compete à assembleia geral eleger de entre os membros do conselho de administração o respetivo presidente, que tem voto de qualidade nas deliberações do conselho de administração.
+
+3 - A responsabilidade dos administradores poderá ser dispensada de caução por deliberação da assembleia geral.
+
+4 - As remunerações dos administradores serão fixadas pela assembleia geral ou por uma comissão de vencimentos por aquela nomeada.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 107/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2014-25345609), em vigor a partir de 2014-07-03
+
+###### Artigo 19.º
+
+O conselho de administração terá os poderes de gestão e representação da sociedade que lhe forem cometidos por lei, pelos presentes estatutos e pelas deliberações dos accionistas.
+
+###### Artigo 20.º
+
+O conselho de administração poderá delegar num administrador ou numa comissão executiva de três administradores a gestão corrente da sociedade, devendo a deliberação de delegação fixar os limites da mesma.
+
+###### Artigo 21.º
+
+A sociedade obriga-se perante terceiros:
+
+a) Pela assinatura conjunta de dois administradores, um dos quais deve pertencer à comissão executiva, quando esta exista;
+
+b) Pela assinatura do administrador-delegado, quando exista, dentro dos limites da delegação.
+
+###### Artigo 22.º
+
+- 1 - O conselho de administração reúne sempre que convocado pelo presidente ou por dois administradores.
+
+2 - Independentemente do disposto no número anterior, o conselho de administração reunirá, pelo menos, uma vez por mês.
+
+3 - Os membros do conselho de administração serão convocados por escrito com a antecedência mínima de cinco dias, salvo se a totalidade dos administradores estiver presente ou representada ou se se tratar de reuniões com periodicidade fixa estabelecida em acta anterior e devidamente aprovada, casos em que é dispensada a convocatória.
+
+###### Artigo 23.º
+
+- 1 - O conselho de administração não poderá deliberar sem que esteja presente ou representada a maioria dos seus membros.
+
+2 - As deliberações são tomadas pela maioria dos votos emitidos.
+
+3 - Qualquer administrador poderá fazer-se representar em cada sessão por outro administrador, sendo que os poderes de representação conferidos devem constar de carta dirigida ao presidente, válida apenas para uma reunião.
+
+4 - Qualquer administrador poderá votar por correspondência.
+
+#### Secção IV — Fiscalização da sociedade
+
+###### Artigo 24.º
+
+- 1 - A fiscalização da sociedade compete a um conselho fiscal composto por três membros efectivos e um suplente.
+
+2 - Um dos membros efectivos e o suplente serão revisores oficiais de contas ou sociedades de revisores oficiais de contas.
+
+###### Artigo 25.º
+
+O conselho fiscal reunirá todos os trimestres e sempre que tal for solicitado por qualquer dos seus membros ou pelo conselho de administração.
+
+###### Artigo 25.º-A
+
+1 - Compete ao conselho consultivo o acompanhamento da atividade geral da sociedade, designadamente dos níveis de serviços praticados pela mesma e da gestão das infraestruturas afetas à concessão.
+
+2 - O conselho consultivo pode aprovar, por sua iniciativa ou quando tal lhe seja solicitado pelo concedente, por maioria dos membros presentes, pareceres não vinculativos nas matérias da sua competência.
+
+3 - Fazem parte do conselho consultivo, por inerência, os presidentes das câmaras municipais servidos pela sociedade, bem como os membros do respetivo conselho de administração e do conselho fiscal.
+
+4 - O conselho consultivo reúne trimestralmente mediante convocatória do presidente do conselho de administração e extraordinariamente sempre que convocado para o efeito pelo presidente do conselho de administração ou por pelo menos 1/3 dos utilizadores do sistema.
+
+5 - A sociedade assegura o necessário apoio logístico e administrativo ao funcionamento do conselho consultivo.
+
+> Nota: [Artigo 8.º, Decreto-Lei n.º 107/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2014-25345609) A o aditamento ao presente artigo entra em vigor na data em que a ALGAR, S.A., deixar de ser detida maioritariamente por entidades públicas.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 107/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2014-25345609), em vigor a partir de 2014-07-03
+
+### Capítulo IV — Disposições finais
+
+###### Artigo 26.º
+
+1 - O ano social coincide com o ano civil.
+
+2 - Os resultados apurados em cada exercício, exceptuada a parte destinada à constituição ou reintegração das reservas legal e de renovação e conservação, terão a aplicação que a assembleia geral deliberar.

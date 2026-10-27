@@ -1,0 +1,467 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:105658704:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-891753493",
+ "dre_path": "/dr/detalhe/decreto-lei/86-a-2016-105658704",
+ "source_lastmod": "2025-12-12",
+ "versions": [
+  {
+   "date": "2026-05-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1126594009:por",
+     "title": "Decreto-Lei n.º 105/2026",
+     "published": "2026-05-26",
+     "dre_path": "/dr/detalhe/decreto-lei/105-2026-1126594009"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 20.º",
+    "Altera Artigo 24.º"
+   ],
+   "fragments": [
+    "891536974",
+    "891753675",
+    "891753676",
+    "891753677",
+    "891753678",
+    "891753679",
+    "891753680",
+    "891753681",
+    "891753682",
+    "891753683",
+    "891753684",
+    "891753685",
+    "891753686",
+    "891753687",
+    "891753688",
+    "891753689",
+    "891753690",
+    "891753691",
+    "891753692",
+    "891753693",
+    "891753694",
+    "891753695",
+    "891753696",
+    "891753697",
+    "891753698",
+    "891753699",
+    "891753700",
+    "891753701",
+    "983592677",
+    "891753703",
+    "1127136775",
+    "891753705",
+    "891753706",
+    "891753707",
+    "891753708",
+    "1127136975",
+    "891753710",
+    "891753711",
+    "891753712",
+    "891753713",
+    "891753714",
+    "891753715",
+    "891753716",
+    "891753717",
+    "891753718",
+    "891753719",
+    "891753720",
+    "891753721"
+   ]
+  }
+ ],
+ "fragments": {
+  "891536974": {
+   "fragment_id": "891753494",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 86-A/2016\n\nde 29 de dezembro\n\nA preparação, acompanhamento e avaliação de políticas públicas ao serviço do desenvolvimento económico sustentável e da coesão social exige uma Administração Pública dinâmica, eficiente, inovadora, motivada e centrada nas efetivas necessidades dos cidadãos e agentes económicos. Para tanto é fundamental fazer diagnósticos rigorosos, definir prioridades e gerir de forma eficiente os recursos disponíveis, criando sinergias e potenciando a capacidade de transformação existente na sociedade.\n\nOs recursos humanos são o ativo mais precioso de qualquer organização e a sua qualidade é determinante para o sucesso das políticas públicas.\n\nO Programa do XXI Governo Constitucional aposta no reforço da qualificação dos trabalhadores da Administração Pública ao apontar para a «adoção de um novo sistema de formação contínua e integrada, atendendo ao perfil dos trabalhadores públicos e às necessidades dos serviços, nomeadamente através de protocolos com instituições do ensino superior».\n\nO enquadramento legal da formação profissional na Administração Pública mantém-se praticamente inalterado desde a entrada em vigor do Decreto-Lei n.º 50/98, de 11 de março, alterado pelos Decretos-Leis n.os 70-A/2000, de 5 de maio, e 174/2001, de 31 de maio. Ainda que boa parte desse regime se mantenha atual, a sua operacionalização tem-se vindo a deparar com dificuldades que resultam, entre outras razões circunstanciais, da sua desadequação face às novas necessidades, tendências e modalidades de formação profissional, bem como ao desenvolvimento e diversificação verificados na oferta formativa existente no país. Por outro lado, as alterações organizativas que entretanto ocorreram nesta área também não se encontram refletidas nesse enquadramento.\n\nDando cumprimento às orientações do Programa do Governo nesta matéria, o presente diploma visa atualizar, desenvolver e aperfeiçoar o regime da formação profissional nas administrações públicas, criando condições para tornar mais efetivos o direito e o dever de formação profissional dos trabalhadores em funções públicas.\n\nO novo regime da formação profissional na Administração Pública, não obstante aproveitar o que de mais positivo tem o atual regime, propõe-se a:\n\n- Reforçar o papel da formação profissional como instrumento estratégico de modernização e transformação das administrações públicas, através do estabelecimento de áreas estratégicas de formação;\n\n- Potenciar o aproveitamento da capacidade formadora existente no país, que conheceu assinalável desenvolvimento ao longo dos anos, trazendo para a linha da frente as diferentes instituições formadoras, contribuindo assim para a racionalização dos recursos nacionais;\n\n- Aproveitar a especialização já instalada na regulação e certificação da qualidade da formação e dos agentes formativos, garantindo assim a homogeneidade dos padrões exigidos;\n\n- Adequar a formação profissional às exigências da gestão e mecanismos de mobilidade das pessoas nas administrações, como é o caso do novo mecanismo de valorização profissional;\n\n- Promover a melhor articulação entre os objetivos, o ciclo e os resultados da avaliação de desempenho dos serviços e dos trabalhadores públicos e a resposta que se exige do sistema de formação profissional para a melhoria global da eficiência, eficácia e qualidade dos serviços públicos;\n\n- Aperfeiçoar o sistema de formação bem como a sua estrutura de governação, designadamente no que respeita aos órgãos consultivos, simplificando a organização de forma a torná-los mais consistentes e efetivos;\n\n- Clarificar o papel do órgão central responsável pela formação na Administração Pública, atribuindo à Direção-Geral para a Qualificação dos Trabalhadores em Funções Públicas (INA) as funções de proposição da política de formação profissional para a Administração Pública, de coordenação central do sistema de formação e de assegurar e garantir a formação nas áreas estratégicas de formação;\n\n- Salvaguardar no sistema de formação as competências próprias e a autonomia das administrações regionais e da administração local;\n\n- Melhorar e simplificar os mecanismos de reporte das atividades de formação, estabelecendo exigências e momentos de reporte que permitem ajustar dinamicamente a oferta às reais necessidades formativas.\n\nO regime da formação profissional na Administração Pública tem como âmbito de aplicação o estabelecido no artigo 1.º da Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, alterada pelas Leis n.os 82-B/2014, de 31 de dezembro, 84/2015, de 7 de agosto, e 18/2016, de 20 de junho, não prejudicando os regimes próprios expressamente excluídos do âmbito de aplicação dessa Lei.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias.\n\nForam observados os procedimentos decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, alterada pelas Leis n.os 82-B/2014, de 31 de dezembro, 84/2015, de 7 de agosto, e 18/2016, de 20 de junho.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "891753675": {
+   "fragment_id": "891753495",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "891753676": {
+   "fragment_id": "891753496",
+   "type": 8,
+   "heading": "Secção I — Objeto, âmbito e conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Objeto, âmbito e conceitos"
+  },
+  "891753677": {
+   "fragment_id": "891753497",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei define o regime da formação profissional na Administração Pública."
+  },
+  "891753678": {
+   "fragment_id": "891753498",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O âmbito de aplicação do presente decreto-lei é o que se encontra definido no artigo 1.º da Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, alterada pelas Leis n.os 82-B/2014, de 31 de dezembro, 84/2015, de 7 de agosto, e 18/2016, de 20 de junho.\n\n2 - Sem prejuízo do disposto no número anterior, o presente decreto-lei é objeto de adaptação à administração regional e à administração local, no prazo de 180 dias.\n\n3 - A adaptação à administração local integra designadamente a definição, de forma articulada com a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias, da entidade coordenadora e responsável pela formação nas autarquias locais."
+  },
+  "891753679": {
+   "fragment_id": "891753499",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente decreto-lei, entende-se por:\n\na) «Aprendizagem», o processo que se desenvolve ao longo da vida, mediante o qual se adquirem conhecimentos, aptidões e atitudes, podendo ocorrer em contexto formal, não formal e informal;\n\nb) «Aprendizagem formal», a aprendizagem, intencional por parte do aprendente, que ocorre numa entidade formadora ou no local de trabalho, em contexto organizado e estruturado, sendo explicitamente concebida para prosseguir objetivos de assimilação de valores e desenvolvimento de competências;\n\nc) «Aprendizagem informal», a aprendizagem, não intencional por parte do aprendente, não organizada, nem estruturada, resultante das atividades da vida quotidiana;\n\nd) «Aprendizagem não formal», a aprendizagem, intencional por parte do aprendente, integrada em atividades programadas que não são explicitamente designadas como atividades de aprendizagem;\n\ne) «Áreas estratégicas de formação», as áreas que decorrem da necessidade de capacitar a Administração Pública para a boa governação e gestão pública, promovendo a elevação dos respetivos níveis de competências;\n\nf) «Autoformação», o acesso à formação profissional por iniciativa do trabalhador e que corresponda às atividades inerentes ao posto de trabalho ou contribua para o aumento da respetiva qualificação;\n\ng) «Competências», a mobilização de conhecimentos, aptidões e atitudes, evidenciada em comportamentos observáveis e que contribui para a prossecução eficaz e eficiente dos objetivos organizacionais;\n\nh) «Entidade formadora», o órgão ou serviço público ou entidade devidamente reconhecida no âmbito do Sistema de Certificação de Entidades Formadoras, dotada de recursos e capacidade técnica e organizativa para desenvolver formação profissional;\n\ni) «Formação profissional», o processo global e permanente de aquisição e desenvolvimento de competências exigidas para o exercício de uma atividade profissional ou para a melhoria do desempenho, promotor da valorização e do desenvolvimento pessoal e profissional dos trabalhadores e dirigentes da Administração Pública e que não confira grau académico;\n\nj) «Formador», o indivíduo devidamente certificado no âmbito do Sistema de Certificação de Formadores, apto a conduzir ações pedagógicas promotoras do desenvolvimento de competências nos formandos;\n\nk) «Formando», o indivíduo que frequenta uma ação de formação profissional, ou que está inserido num percurso de formação;\n\nl) «Modalidades da formação profissional», a organização da formação definida em função de características específicas, nomeadamente objetivos, destinatários, estrutura curricular, metodologia e duração;\n\nm) «Referencial de competências», o conjunto de competências exigidas para o exercício de uma atividade profissional ou para a obtenção de uma qualificação;\n\nn) «Referencial de formação», o conjunto da informação que orienta a organização e o desenvolvimento da formação em função do perfil profissional ou do referencial de competências associado, contemplando, designadamente, os objetivos de aprendizagem e as competências a desenvolver, os destinatários e requisitos de acesso, o modelo avaliativo, a modalidade de formação, a estrutura curricular, o percurso de aprendizagem, a duração e o perfil do formador;\n\no) «Sistema de gestão da formação profissional da Administração Pública», o sistema que integra todas as fases do ciclo formativo, do diagnóstico à avaliação e pressupõe a definição de políticas, objetivos e metas a que deve obedecer a atividade formativa, em consonância com as políticas de desenvolvimento e inovação para a Administração Pública, conferindo qualidade e relevância ao investimento em formação."
+  },
+  "891753680": {
+   "fragment_id": "891753500",
+   "type": 8,
+   "heading": "Secção II — Objetivos e princípios da formação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Objetivos e princípios da formação profissional"
+  },
+  "891753681": {
+   "fragment_id": "891753501",
+   "type": 11,
+   "heading": "Artigo 4.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objetivos\n\nA formação profissional tem por objetivos:\n\na) Capacitar os órgãos e serviços da Administração Pública, através da qualificação dos seus trabalhadores e dirigentes, para responder às exigências decorrentes das suas respetivas missões, atribuições e competências;\n\nb) Desenvolver competências de inovação e gestão da mudança, mediante a aquisição de conhecimentos e o desenvolvimento de capacidades reflexivas e críticas, propiciadoras de comportamentos e atitudes ajustados aos necessários processos de modernização administrativa;\n\nc) Contribuir para a eficiência, a eficácia e a qualidade dos serviços a prestar aos cidadãos e às empresas;\n\nd) Promover a capacitação humana para a governação digital;\n\ne) Assegurar a qualificação profissional dos trabalhadores e dirigentes e melhorar o seu desempenho, segundo referenciais de competências;\n\nf) Contribuir para o reforço da qualificação profissional, garantindo, sempre que necessário, a dupla certificação;\n\ng) Dinamizar uma cultura de gestão do conhecimento organizacional, que incentive e valorize a produção, a difusão e a utilização do conhecimento."
+  },
+  "891753682": {
+   "fragment_id": "891753502",
+   "type": 11,
+   "heading": "Artigo 5.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Princípios\n\nA formação profissional na Administração Pública assenta nos seguintes princípios:\n\na) Universalidade, abrangendo todos os trabalhadores e dirigentes da Administração Pública;\n\nb) Igualdade no acesso, garantindo que os trabalhadores, independentemente da carreira, função, órgão ou serviço onde se encontrem integrados, tenham iguais oportunidades no acesso à formação profissional;\n\nc) Boa administração, contribuindo para uma Administração Pública eficaz, eficiente e com qualidade, próxima dos cidadãos e das empresas;\n\nd) Integração, garantindo-se a inserção e coerência dos processos formativos no ciclo de gestão de órgãos e serviços e de pessoas;\n\ne) Adequação do processo formativo, em todas as suas fases, às efetivas necessidades dos trabalhadores e dos órgãos e serviços."
+  },
+  "891753683": {
+   "fragment_id": "891753503",
+   "type": 1,
+   "heading": "Capítulo II — Modalidades e tipologia da formação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Modalidades e tipologia da formação profissional"
+  },
+  "891753684": {
+   "fragment_id": "891753504",
+   "type": 11,
+   "heading": "Artigo 6.º — Modalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Modalidades\n\nA formação profissional pode assumir as seguintes modalidades:\n\na) Formação inicial;\n\nb) Formação contínua;\n\nc) Formação para a valorização profissional."
+  },
+  "891753685": {
+   "fragment_id": "891753505",
+   "type": 11,
+   "heading": "Artigo 7.º — Formação inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Formação inicial\n\n1 - A formação inicial geral é obrigatória, tem lugar durante o período experimental de vínculo e destina-se aos trabalhadores que iniciam funções públicas, visando contribuir para a consciencialização dos valores de serviço público e das especiais características do desempenho de funções públicas.\n\n2 - A formação inicial específica é a destinada à aquisição de competências indispensáveis ao início qualificado de uma atividade profissional, concretizada através de um programa adequado de formação.\n\n3 - A formação inicial específica pode desenvolver-se em dois momentos distintos:\n\na) Em fase anterior à admissão, como condição da mesma;\n\nb) Em fase imediatamente posterior à admissão, integrando o período experimental.\n\n4 - No caso das carreiras especiais, a formação inicial específica obedece ao previsto nos respetivos diplomas reguladores.\n\n5 - Considera-se ainda formação inicial a exigida para o exercício de cargo dirigente, nos termos do respetivo estatuto."
+  },
+  "891753686": {
+   "fragment_id": "891753506",
+   "type": 11,
+   "heading": "Artigo 8.º — Formação contínua",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Formação contínua\n\n1 - A formação contínua visa promover a atualização e a valorização pessoal e profissional dos trabalhadores e dirigentes em funções públicas, em consonância com as políticas de desenvolvimento, inovação e mudança da Administração Pública.\n\n2 - A formação contínua desenvolve-se ao longo da carreira profissional do trabalhador em funções públicas e integra a aprendizagem formal, a não formal e a informal.\n\n3 - Constituem objetivos específicos da formação contínua:\n\na) O aperfeiçoamento profissional, destinado a atualizar, desenvolver ou aprofundar conhecimentos, aptidões e atitudes específicos adquiridos em processos de aprendizagem prévios;\n\nb) A aquisição de competências visando o desempenho de novas atividades profissionais.\n\n4 - A formação contínua tem ainda como objetivo, transversal a todas as ações identificadas no número anterior, o desenvolvimento de competências para transferir a aprendizagem para o exercício do trabalho e continuar a aprender de forma autónoma e contínua ao longo da vida."
+  },
+  "891753687": {
+   "fragment_id": "891753507",
+   "type": 11,
+   "heading": "Artigo 9.º — Formação para a valorização profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Formação para a valorização profissional\n\nA formação para a valorização profissional visa o reforço das competências profissionais dos trabalhadores, com vista à integração em novo posto de trabalho, na sequência de reorganização de órgãos ou serviços."
+  },
+  "891753688": {
+   "fragment_id": "891753508",
+   "type": 11,
+   "heading": "Artigo 10.º — Tipologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Tipologia\n\n1 - A formação profissional tem a seguinte tipologia:\n\na) Cursos de formação de curta, média e longa duração;\n\nb) Seminários, encontros, jornadas, palestras, conferências e outras ações de caráter similar que não pressuponham a sua conclusão com aproveitamento;\n\nc) Estágios, oficinas de formação, comunidades de prática, mentoria, tutoria pedagógica e outras modalidades centradas nas práticas profissionais e no apoio à continuidade e transferência da aprendizagem.\n\n2 - A formação profissional estrutura-se, quanto à duração, em:\n\na) Formação de curta duração, até 30 horas;\n\nb) Formação de média duração, superior a 30 horas e até 60 horas;\n\nc) Formação de longa duração, superior a 60 horas.\n\n3 - Os tipos de formação referidos no n.º 1 podem utilizar-se isolada ou complementarmente e desenvolvem-se, nomeadamente, em regime presencial, em contexto de trabalho, a distância, em ambientes virtuais de aprendizagem ou outras formas que enriqueçam o processo de aprendizagem facilitando a inovação."
+  },
+  "891753689": {
+   "fragment_id": "891753509",
+   "type": 1,
+   "heading": "Capítulo III — Gestão da formação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Gestão da formação profissional"
+  },
+  "891753690": {
+   "fragment_id": "891753510",
+   "type": 8,
+   "heading": "Secção I — Empregador público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Empregador público"
+  },
+  "891753691": {
+   "fragment_id": "891753511",
+   "type": 11,
+   "heading": "Artigo 11.º — Deveres do empregador público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Deveres do empregador público\n\nO empregador público deve proporcionar ao trabalhador e aos dirigentes o acesso a formação profissional e criar as condições facilitadoras da transferência dos resultados da aprendizagem para o contexto de trabalho."
+  },
+  "891753692": {
+   "fragment_id": "891753512",
+   "type": 11,
+   "heading": "Artigo 12.º — Diagnóstico de necessidades e planos de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Diagnóstico de necessidades e planos de formação\n\n1 - Os órgãos e serviços da Administração Pública elaboram o plano de formação profissional, de acordo com o diagnóstico de necessidades efetuado.\n\n2 - O plano de formação deve, preferencialmente, atender:\n\na) Às políticas de desenvolvimento de recursos humanos e de inovação e modernização administrativas, garantindo uma abordagem prospetiva da atividade formativa;\n\nb) Às necessidades prioritárias dos trabalhadores face às exigências dos postos de trabalho que ocupam, aferidas de entre as áreas estratégicas definidas;\n\nc) À identificação de necessidades de formação decorrente do processo de avaliação do desempenho.\n\n3 - O plano de formação profissional, devidamente orçamentado, insere-se no ciclo de gestão dos órgãos e serviços, fazendo parte integrante do plano de atividades.\n\n4 - Na elaboração do plano de formação é ouvida a comissão de trabalhadores ou, na sua falta, a comissão sindical ou intersindical ou os delegados sindicais.\n\n5 - Os planos de formação devem tendencialmente assegurar a todos os trabalhadores uma ou mais ações de formação em cada três anos.\n\n6 - Os diagnósticos de necessidades de formação profissional dos órgãos ou serviços são comunicados à entidade coordenadora no primeiro trimestre de cada ano, em formato eletrónico, através de modelo próprio a disponibilizar pelo INA no respetivo sítio institucional da Internet."
+  },
+  "891753693": {
+   "fragment_id": "891753513",
+   "type": 11,
+   "heading": "Artigo 13.º — Relatório de gestão da formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Relatório de gestão da formação\n\n1 - Os órgãos e serviços da Administração Pública reportam em plataforma digital a informação relativa à formação profissional desenvolvida.\n\n2 - A elaboração do relatório de gestão da formação obedece aos indicadores disponibilizados pela entidade coordenadora da formação profissional.\n\n3 - O relatório referido no número anterior é publicitado no sítio institucional na Internet do órgão ou serviço e remetido, preferencialmente por via eletrónica, à comissão de trabalhadores ou, na sua falta, à comissão sindical ou intersindical ou aos delegados sindicais.\n\n4 - O relatório de gestão da formação integra o relatório de atividades, inserido no ciclo de gestão dos órgãos e serviços da Administração Pública."
+  },
+  "891753694": {
+   "fragment_id": "891753514",
+   "type": 8,
+   "heading": "Secção II — Trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Trabalhadores"
+  },
+  "891753695": {
+   "fragment_id": "891753515",
+   "type": 11,
+   "heading": "Artigo 14.º — Direitos dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direitos dos trabalhadores\n\nSem prejuízo do disposto na Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, alterada pelas Leis n.os 82-B/2014, de 31 de dezembro, 84/2015, de 7 de agosto, e 18/2016, de 20 de junho, o trabalhador, enquanto formando, tem direito a:\n\na) Frequentar ações de formação necessárias ao seu desenvolvimento pessoal e profissional;\n\nb) Apresentar propostas para elaboração do plano de formação do órgão ou serviço a que pertence;\n\nc) Utilizar, dentro do período laboral, o crédito de horas para a formação profissional, em regime de autoformação, nos termos do artigo 16.º"
+  },
+  "891753696": {
+   "fragment_id": "891753516",
+   "type": 11,
+   "heading": "Artigo 15.º — Deveres dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Deveres dos trabalhadores\n\nConstitui dever do trabalhador, enquanto formando, cumprir as suas obrigações legais em matéria de formação, designadamente:\n\na) Respeitar a duração e horários estabelecidos na formação;\n\nb) Participar ativamente nas ações de formação;\n\nc) Partilhar a informação, os recursos didáticos e os métodos pedagógicos, no sentido de difundir conhecimentos e boas práticas em contexto de trabalho."
+  },
+  "891753697": {
+   "fragment_id": "891753517",
+   "type": 11,
+   "heading": "Artigo 16.º — Autoformação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Autoformação\n\n1 - Os órgãos e serviços da Administração Pública não podem impedir a frequência de ações de autoformação quando estas tenham lugar fora do período laboral.\n\n2 - O crédito para a formação profissional da iniciativa do trabalhador é de 100 horas por ano civil, podendo, quando tal se justifique, em função da especial relevância para as atividades inerentes ao posto de trabalho, a apreciar pelo dirigente máximo do órgão ou serviço, ser ultrapassado até ao limite da carga horária prevista para a formação profissional que o trabalhador pretende realizar.\n\n3 - A autoformação é financiada pelo formando, sem prejuízo do disposto em lei especial.\n\n4 - A autoformação, quando realizada no período laboral, corresponde ao exercício efetivo de funções.\n\n5 - O pedido de autorização para a autoformação, a realizar durante o período laboral, deve ser apresentado ao dirigente máximo do órgão ou serviço, devidamente fundamentado e com indicação da data de início, do local de realização, natureza e programa, duração e, quando aplicável, a entidade formadora.\n\n6 - A recusa do acesso a autoformação deve ser sempre fundamentada.\n\n7 - O pedido de autoformação apresentado por trabalhador que não tenha sido contemplado no plano de formação ou ações de formação do órgão ou serviço só pode ser indeferido com fundamento no prejuízo do normal funcionamento do serviço.\n\n8 - O pedido de autoformação apresentado pelo trabalhador nas condições do número anterior não pode ser indeferido mais do que duas vezes consecutivas.\n\n9 - O trabalhador a quem for concedida a autorização para autoformação deve, no final da mesma, apresentar junto do órgão ou serviço relatório e, quando aplicável, o respetivo certificado de formação.\n\n10 - O não cumprimento do previsto no número anterior impede a concessão de autorização para formação no ano em curso e no seguinte."
+  },
+  "891753698": {
+   "fragment_id": "891753518",
+   "type": 1,
+   "heading": "Capítulo IV — Governação da formação profissional da Administração Pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Governação da formação profissional da Administração Pública"
+  },
+  "891753699": {
+   "fragment_id": "891753519",
+   "type": 8,
+   "heading": "Secção I — Entidade coordenadora e áreas estratégicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Entidade coordenadora e áreas estratégicas"
+  },
+  "891753700": {
+   "fragment_id": "891753520",
+   "type": 11,
+   "heading": "Artigo 17.º — Entidade coordenadora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entidade coordenadora\n\n1 - A coordenação da formação profissional na Administração Pública é assegurada pela Direção-Geral da Qualificação dos Trabalhadores em Funções Públicas (INA).\n\n2 - Para efeitos do número anterior, o INA dinamiza uma rede de órgãos de coordenação horizontal e vertical que, pelas suas atribuições em matéria de formação profissional, desempenham o papel de pontos focais, potenciando dinâmicas de partilha de conhecimento e criação de sinergias.\n\n3 - Os órgãos e serviços da Administração Pública e as demais entidades formadoras devem prestar ao INA a colaboração e informação solicitadas."
+  },
+  "891753701": {
+   "fragment_id": "891753521",
+   "type": 11,
+   "heading": "Artigo 18.º — Competências da entidade coordenadora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Competências da entidade coordenadora\n\n1 - Compete ao INA, enquanto entidade coordenadora da formação profissional da Administração Pública:\n\na) Estudar e propor as estratégias orientadoras da política pública de formação profissional na Administração Pública;\n\nb) Conceber, propor e implementar os instrumentos de gestão da formação que promovam a adequação da oferta formativa às necessidades da Administração Pública;\n\nc) Promover a gestão do processo de formação profissional, integrada no ciclo de gestão dos órgãos e serviços, que potencie a criação de valor;\n\nd) Desenhar, propor, difundir e apoiar a implementação de metodologias e instrumentos técnicos, a adotar pelos órgãos e serviços da Administração Pública, que contribuam para a boa gestão das diferentes fases do processo formativo;\n\ne) Recolher dados que permitam avaliar o cumprimento dos planos de formação e o investimento efetuado nesta matéria pelos órgãos e serviços da Administração Pública;\n\nf) Desenhar e propor o sistema de indicadores que presida à elaboração dos relatórios de gestão da formação pelos órgãos e serviços da Administração Pública;\n\ng) Elaborar o Relatório de Gestão da Formação na Administração Pública, caracterizando as ações desenvolvidas e avaliando os resultados obtidos, numa ótica gestionária e de melhoria contínua;\n\nh) Promover a avaliação do impacto da formação nos órgãos e serviços da Administração Pública;\n\ni) Promover mecanismos de governação participada, aberta e transparente do sistema de formação profissional, propiciatórios de um ambiente de colaboração, confiança, aprendizagem e melhoria contínua.\n\n2 - São submetidas à aprovação do membro do Governo responsável pela área da Administração Pública as propostas referidas nas alíneas a), b), d), f) e g) do número anterior."
+  },
+  "983592677": {
+   "fragment_id": "891753522",
+   "type": 11,
+   "heading": "Artigo 19.º — Áreas estratégicas de formação",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a [Despacho n.º 2786/2022 - Diário da República n.º 45/2022, Série II de 2022-03-04](https://diariodarepublica.pt/dr/detalhe/despacho/2786-2022-179899263), produz efeitos a partir de 2022-03-05"
+   ],
+   "markdown": "###### Artigo 19.º — Áreas estratégicas de formação\n\n1 - Compete ao INA propor ao membro do Governo responsável pela área da Administração Pública:\n\na) Áreas estratégicas de formação;\n\nb) Referenciais de formação nas áreas estratégicas.\n\n2 - São desde logo consideradas áreas estratégicas de formação:\n\na) A formação inicial geral referida no n.º 1 do artigo 7.º;\n\nb) A formação para ingresso na carreira técnica superior através do Curso de Estudos Avançados em Gestão Pública;\n\nc) A formação inicial e contínua para cargos dirigentes;\n\nd) A formação para a valorização profissional;\n\ne) Formação para promoção da cidadania, participação democrática e direitos fundamentais;\n\nf) Formação para a valorização do interesse e do serviço público.\n\n3 - Compete ao INA garantir, direta ou indiretamente, a realização da formação nas áreas estratégicas.\n\n4 - Compete ainda ao INA a monitorização da oferta formativa das entidades formadoras, nas áreas estratégicas.\n\n5 - A estrutura curricular dos referenciais de formação nas áreas estratégicas é proposta em articulação com a DGAEP.\n\n> Alterado pelo/a [Despacho n.º 2786/2022 - Diário da República n.º 45/2022, Série II de 2022-03-04](https://diariodarepublica.pt/dr/detalhe/despacho/2786-2022-179899263), produz efeitos a partir de 2022-03-05"
+  },
+  "891753703": {
+   "fragment_id": "891753523",
+   "type": 8,
+   "heading": "Secção II — Entidades formadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Entidades formadoras"
+  },
+  "1127136775": {
+   "fragment_id": "891753524",
+   "type": 11,
+   "heading": "Artigo 20.º — Entidades formadoras",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 154.º do/a [Decreto-Lei n.º 105/2026 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2026-1126594009), em vigor a partir de 2026-05-27, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "###### Artigo 20.º — Entidades formadoras\n\n1 - São entidades formadoras no sistema de formação profissional da Administração Pública:\n\na) O INA;\n\nb) A Entidade Orçamental no âmbito da gestão financeira pública;\n\nc) As entidades setoriais de formação;\n\nd) Os órgãos e serviços da Administração Pública;\n\ne) As entidades formadoras públicas ou privadas que sejam reconhecidas pelos respetivos ministérios da tutela e que se encontrem inseridas, nomeadamente, nos sistemas educativo, científico ou tecnológico;\n\nf) As associações sindicais e profissionais;\n\ng) Quaisquer outras entidades formadoras privadas.\n\n2 - As entidades formadoras referidas no número anterior devem cumprir as exigências legais previstas no Sistema de Certificação das Entidades Formadoras.\n\n3 - O dirigente máximo de órgão ou serviço que recorra à contratação de entidade formadora não identificada no n.º 1 incorre em responsabilidade financeira e disciplinar.\n\n> Alterado pelo/a Artigo 154.º do/a [Decreto-Lei n.º 105/2026 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2026-1126594009), em vigor a partir de 2026-05-27, com efeitos a partir de 2026-01-01."
+  },
+  "891753705": {
+   "fragment_id": "891753525",
+   "type": 11,
+   "heading": "Artigo 21.º — Entidades setoriais de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entidades setoriais de formação\n\nPara efeitos do presente decreto-lei, consideram-se entidades setoriais de formação:\n\na) Os órgãos e serviços que disponham de unidades de formação de âmbito ministerial como tal reconhecidas nas respetivas leis orgânicas ou estatutos;\n\nb) As unidades de formação dos órgãos ou serviços com mais de 1500 trabalhadores em funções públicas reconhecidas nas respetivas leis orgânicas ou estatutos."
+  },
+  "891753706": {
+   "fragment_id": "891753526",
+   "type": 11,
+   "heading": "Artigo 22.º — Sistema de avaliação da formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Sistema de avaliação da formação\n\n1 - A formação profissional é objeto de avaliação, perspetivada como atividade estratégica de melhoria contínua e inovação, que possibilita a monitorização sistemática das intervenções formativas.\n\n2 - As entidades formadoras devem, na fase de planeamento da formação, definir o respetivo modelo de avaliação, identificando as finalidades, os instrumentos, os momentos e os níveis avaliativos de intervenção.\n\n3 - Os níveis avaliativos são identificados em função do objeto de avaliação, designadamente, a satisfação, a aprendizagem realizada, a transferência da aprendizagem para o contexto de trabalho, os resultados ou impactos da transferência na organização e o retorno do investimento.\n\n4 - Os instrumentos devem ser adequados a cada nível avaliativo, podendo ser adotados, isolada ou complementarmente, inquéritos, testes, participação em fóruns ou outras atividades colaborativas, dinâmica de grupos, apresentação de relatórios, trabalhos ou publicações, grupos de foco, entrevista, observação do desempenho, monitorização do desempenho do serviço, indicadores de atividade, ou outros que confiram qualidade ao processo avaliativo.\n\n5 - No caso da formação em áreas estratégicas, o sistema de avaliação deve seguir o determinado no respetivo referencial de formação."
+  },
+  "891753707": {
+   "fragment_id": "891753527",
+   "type": 8,
+   "heading": "Secção III — Formadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Formadores"
+  },
+  "891753708": {
+   "fragment_id": "891753528",
+   "type": 11,
+   "heading": "Artigo 23.º — Formadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Formadores\n\n1 - A atividade de formador, para efeitos do presente decreto-lei, obedece ao regime da formação e certificação de competências pedagógicas dos formadores.\n\n2 - Cada entidade formadora constitui uma bolsa de formadores com o perfil requerido nos referenciais de formação.\n\n3 - Os trabalhadores em funções públicas podem exercer a atividade de formador em regime de acumulação de funções, nos termos legais, devendo o despacho de autorização fixar o limite máximo de horas de formação durante o período normal de trabalho."
+  },
+  "1127136975": {
+   "fragment_id": "891753529",
+   "type": 11,
+   "heading": "Artigo 24.º — Remuneração dos formadores de entidade formadora pública",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 154.º do/a [Decreto-Lei n.º 105/2026 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2026-1126594009), em vigor a partir de 2026-05-27, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "###### Artigo 24.º — Remuneração dos formadores de entidade formadora pública\n\n1 - O valor hora da formação ministrada pelas entidades formadoras públicas referidas nas alíneas a) a d) do n.º 1 do artigo 20.º obedece a critérios padronizados, de acordo, designadamente, com o tipo de formação, destinatários e complexidade, nos termos fixados por despacho dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública, sob proposta da entidade coordenadora.\n\n2 - Quando o formador seja trabalhador em funções públicas da entidade de formação e a atividade de formação não se encontre prevista na descrição do respetivo posto de trabalho, é aplicável o disposto no n.º 3 do artigo anterior.\n\n3 - O disposto no n.º 1 não prejudica as regras aplicáveis em formação financiada por fundos europeus.\n\n> Alterado pelo/a Artigo 154.º do/a [Decreto-Lei n.º 105/2026 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2026-1126594009), em vigor a partir de 2026-05-27, com efeitos a partir de 2026-01-01."
+  },
+  "891753710": {
+   "fragment_id": "891753530",
+   "type": 11,
+   "heading": "Artigo 25.º — Situações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Situações especiais\n\n1 - As entidades setoriais de formação podem convidar trabalhadores em funções públicas para colaborar em atividades de formação por elas promovidas, designadamente conferências, palestras, jornadas e sessões de formação, desde que:\n\na) Se trate de formação específica inserida no percurso formativo de carreiras especiais;\n\nb) A experiência e conhecimentos a transmitir tenham sido adquiridos especialmente no exercício de funções das carreiras a que se destina a formação;\n\nc) Estejam integrados na carreira à qual se destina a formação e a participação nestas ações formativas possa ser considerada uma extensão da própria atividade profissional;\n\nd) Seja autorizada por despacho dos membros do Governo de tutela e do responsável pela área da Administração Pública.\n\n2 - Nos casos referidos no número anterior, a formação não é remunerada e é dispensada a certificação a que se refere o n.º 1 do artigo 23.º"
+  },
+  "891753711": {
+   "fragment_id": "891753531",
+   "type": 8,
+   "heading": "Secção IV — Órgãos de consulta e coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Órgãos de consulta e coordenação"
+  },
+  "891753712": {
+   "fragment_id": "891753532",
+   "type": 11,
+   "heading": "Artigo 26.º — Conselho Geral de Formação Profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Conselho Geral de Formação Profissional\n\n1 - É criado como órgão consultivo do membro do Governo responsável pela área da Administração Pública, para a formação profissional, o Conselho Geral da Formação Profissional, abreviadamente designado por CGFP.\n\n2 - O CGFP tem a seguinte composição:\n\na) O membro do Governo responsável pela área da Administração Pública, que preside;\n\nb) O diretor-geral do INA;\n\nc) O diretor-geral da Direção-Geral da Administração e do Emprego Público (DGAEP);\n\nd) O diretor-geral da Direção-Geral das Autarquias Locais (DGAL);\n\ne) O diretor-geral da Direção-Geral do Emprego e das Relações de Trabalho (DGERT);\n\nf) O presidente do Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.);\n\ng) O presidente da Agência Nacional para a Qualificação e Ensino Profissional, I. P. (ANQEP, I. P.);\n\nh) O presidente da Agência para a Modernização Administrativa, I. P. (AMA, I. P.);\n\ni) Um representante da Administração Regional dos Açores;\n\nj) Um representante da Administração Regional da Madeira;\n\nk) Um representante da Associação Nacional de Municípios Portugueses (ANMP);\n\nl) Um representante da Associação Nacional de Freguesias (ANAFRE);\n\nm) Seis representantes das associações sindicais representativas dos trabalhadores da Administração Pública;\n\nn) Até três personalidades de reconhecido mérito ligadas à formação e ao ensino, designadas pelo membro do Governo responsável pela área da Administração Pública.\n\n3 - O presidente do CGFP pode delegar a sua competência no diretor-geral do INA.\n\n4 - Compete ao CGFP:\n\na) Colaborar na definição e permanente atualização da política de formação profissional da Administração Pública;\n\nb) Apreciar o Relatório de Gestão da Formação na Administração Pública;\n\nc) Pronunciar-se sobre quaisquer outros assuntos, a solicitação do seu presidente.\n\n5 - A apreciação do relatório de gestão é precedida de parecer das organizações sindicais representadas no CGFP.\n\n6 - O CGFP funciona junto do membro do Governo responsável pela área da Administração Pública, incumbindo ao INA o apoio técnico e administrativo indispensável ao seu funcionamento.\n\n7 - O CGFP aprova o seu regulamento interno.\n\n8 - Os elementos que integram o CGFP não auferem, por esse facto, qualquer remuneração, sem prejuízo do abono de ajudas de custo a que tenham direito, nos termos legais."
+  },
+  "891753713": {
+   "fragment_id": "891753533",
+   "type": 11,
+   "heading": "Artigo 27.º — Comissão de Coordenação da Formação Profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Comissão de Coordenação da Formação Profissional\n\n1 - No âmbito da coordenação da formação profissional na Administração Pública assegurada pelo INA, é criada a Comissão de Coordenação da Formação Profissional, abreviadamente designada por CCFP.\n\n2 - A CCFP tem a seguinte composição:\n\na) Dirigentes máximos dos órgãos ou serviços com competências de coordenação do sistema de formação profissional da Administração Pública Central, Regional e Local;\n\nb) Dirigentes máximos das entidades setoriais da formação profissional na Administração Pública Central.\n\n3 - Integram a CCFP as seguintes Secções Especializadas:\n\na) Secção Especializada de Coordenação da Formação Profissional, abreviadamente designada por SEC;\n\nb) Secção Intersetorial da Formação Profissional, abreviadamente designada por SIF.\n\n4 - Incumbe à SEC a coordenação horizontal do sistema de formação profissional da Administração Pública, designadamente:\n\na) Promover a qualidade, eficácia e eficiência do sistema de formação profissional;\n\nb) Garantir a articulação dos órgãos de coordenação nas matérias da sua competência.\n\n5 - Incumbe à SIF a coordenação vertical do sistema de formação profissional da Administração Pública, designadamente:\n\na) Pronunciar-se sobre as metodologias e instrumentos de gestão desenhados pela entidade coordenadora;\n\nb) Facilitar e promover a implementação das metodologias e instrumentos mencionados na alínea anterior.\n\n6 - A CCFP funciona junto do INA, que assegura ainda o apoio técnico e administrativo.\n\n7 - A CCFP aprova o seu regulamento interno.\n\n8 - Os elementos que integram a CCFP não auferem, por esse facto, qualquer remuneração, sem prejuízo do abono de ajudas de custo a que tenham direito, nos termos legais."
+  },
+  "891753714": {
+   "fragment_id": "891753534",
+   "type": 11,
+   "heading": "Artigo 28.º — Protocolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Protocolos\n\nAs entidades coordenadoras de formação devem fomentar e apoiar iniciativas de colaboração, mediante o estabelecimento de protocolos de cooperação com outras entidades, designadamente instituições de ensino superior, centros de investigação públicos ou privados, nacionais ou estrangeiros, e organizações sindicais e profissionais, visando:\n\na) Reforçar a capacitação institucional e humana, através da partilha de conhecimentos e boas práticas;\n\nb) Colaborar na conceção, programação e execução de planos de formação e informação de interesse para as partes;\n\nc) Desenvolver estudos e atividades de investigação em domínios de formação de interesse para a Administração Pública."
+  },
+  "891753715": {
+   "fragment_id": "891753535",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "891753716": {
+   "fragment_id": "891753536",
+   "type": 11,
+   "heading": "Artigo 29.º — Relatórios de gestão da formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Relatórios de gestão da formação\n\nAté à disponibilização da plataforma digital prevista no presente decreto-lei, os relatórios de gestão da formação são enviados à entidade coordenadora em formato eletrónico, através de modelo próprio a disponibilizar pelo INA no respetivo sítio institucional da Internet."
+  },
+  "891753717": {
+   "fragment_id": "891753537",
+   "type": 11,
+   "heading": "Artigo 30.º — Reforço de qualificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Reforço de qualificações\n\n1 - No âmbito de realização do diagnóstico de necessidades de formação, devem os órgãos e serviços da Administração Pública identificar os trabalhadores com qualificações inferiores ao nível 5.\n\n2 - No âmbito do Sistema Nacional de Qualificações, compete ao INA promover o acompanhamento dos trabalhadores mencionados no número anterior, garantindo a necessária articulação com a ANQEP, I. P., com vista à concretização dos respetivos planos formativos."
+  },
+  "891753718": {
+   "fragment_id": "891753538",
+   "type": 11,
+   "heading": "Artigo 31.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Norma revogatória\n\n1 - É revogado o Decreto-Lei n.º 50/98, de 11 de março, alterado pelos Decretos-Leis n.os 70-A/2000, de 5 de maio, e 174/2001, de 31 de maio.\n\n2 - Todas as referências aos diplomas ou normas ora revogados entendem-se feitas para as correspondentes normas do presente decreto-lei."
+  },
+  "891753719": {
+   "fragment_id": "891753539",
+   "type": 11,
+   "heading": "Artigo 32.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Produção de efeitos\n\n1 - O disposto no n.º 1 do artigo anterior produz efeitos, no âmbito das administrações regionais e da administração local, na data de entrada em vigor da adaptação a que se refere o n.º 2 do artigo 2.º\n\n2 - O disposto no número anterior não prejudica a indicação e participação dos respetivos representantes no âmbito dos órgãos previstos nos artigos 26.º e 27.º, nem a possibilidade de ser adotado o modelo do relatório de gestão de formação a que se refere o artigo 13.º para efeitos de reporte da informação relativa à formação profissional desenvolvida.\n\n3 - O regime fixado no presente decreto-lei não prejudica, no âmbito das entidades do subsetor local, o disposto no Decreto-Lei n.º 193/2015, de 14 de setembro."
+  },
+  "891753720": {
+   "fragment_id": "891753540",
+   "type": 11,
+   "heading": "Artigo 33.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua publicação."
+  },
+  "891753721": {
+   "fragment_id": "891753541",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 15 de dezembro de 2016. - Augusto Ernesto Santos Silva - Maria Manuel de Lemos Leitão Marques - Mário José Gomes de Freitas Centeno - Eduardo Arménio do Nascimento Cabrita - Alexandra Ludomila Ribeiro Fernandes Leitão - José António Fonseca Vieira da Silva.\n\nPromulgado em 28 de dezembro de 2016.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 28 de dezembro de 2016.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  }
+ }
+}

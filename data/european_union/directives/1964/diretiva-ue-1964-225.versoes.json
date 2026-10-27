@@ -1,0 +1,174 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31964L0225:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01964L0225-20121101",
+ "dre_path": null,
+ "source_lastmod": "2012-11-01",
+ "versions": [
+  {
+   "date": "1964-04-04",
+   "future": false,
+   "celex": "31964L0225",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3994bcb557b2c6a8",
+    "148c5cf8212d2e47",
+    "f7c9b3e647cbd75c",
+    "1fe8efaf3cbb9d5b",
+    "1cddb47f029e50a2",
+    "fb40d42880357227"
+   ]
+  },
+  {
+   "date": "1973-01-01",
+   "future": false,
+   "celex": "01964L0225-19730101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Suprime Artigo 1º.",
+    "Suprime Artigo 2º.",
+    "Suprime Artigo 3º.",
+    "Suprime Artigo 4º.",
+    "Suprime Artigo 5º."
+   ],
+   "fragments": [
+    "4c00aa5884ff072c",
+    "14924d33e2663807",
+    "22418bd9ae5e8d69",
+    "22959f6567c0991d",
+    "ea8ad8c326ac7953",
+    "6402591858ea353f"
+   ]
+  },
+  {
+   "date": "2012-11-01",
+   "future": false,
+   "celex": "01964L0225-20121101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º"
+   ],
+   "fragments": [
+    "6c8db3b64f4f68ec"
+   ]
+  }
+ ],
+ "fragments": {
+  "3994bcb557b2c6a8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 64/225/CEE do Conselho, de 25 de Fevereiro de 1964, relativa à supressão das restrições à liberdade de estabelecimento e à livre prestação de serviços, em matéria de resseguro e retrocessão** *Jornal Oficial nº 056 de 04/04/1964 p. 0878 - 0883 Edição especial finlandesa: Capítulo 6 Fascículo 1 p. 0020 Edição especial dinamarquesa: Série I Capítulo 1963-1964 p. 0123 Edição especial sueca: Capítulo 6 Fascículo 1 p. 0020 Edição especial inglesa: Série I Capítulo 1963-1964 p. 0131 Edição especial grega: Capítulo 06 Fascículo 1 p. 0036 Edição especial espanhola: Capítulo 06 Fascículo 1 p. 0038 Edição especial portuguesa: Capítulo 06 Fascículo 1 p. 0038*\n\nDIRECTIVA DO CONSELHO de 25 de Fevereiro de 1964 relativa à supressão das restrições à liberdade de estabelecimento e à livre prestação de serviços, em matéria de resseguro e retrocessão (64/225/CEE)\n\nO CONSELHO DA COMUNIDADE ECONÓMICA EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o nº. 2 do seu artigo 54º. e o nº. 2 do seu artigo 63º.,\n\nTendo em conta o Programa Geral para a Supressão das Restrições à Liberdade de Estabelecimento (1) e, nomeadamente, o seu Título IV A,\n\nTendo em conta o Programa Geral para a Supressão das Restrições à Livre Prestação de Serviços (2) e, nomeadamente, o seu Título V C,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (3),\n\nTendo em conta o parecer do Comité Económico e Social (4),\n\nConsiderando que os programas gerais prevêem que, antes do final de 1963, devem ser liberalizados todos os ramos do resseguro, sem distinção, tanto no que respeita ao estabelecimento, como à prestação de serviços;\n\nConsiderando que o resseguro é exerciso, não apenas por empresas especializadas, mas também por empresas mistas que praticam, ao mesmo tempo, o seguro directo e o resseguro e que, consequentemente, devem beneficiar das medidas de aplicação da presente directiva, no que respeita à parte da sua actividade consagrada ao resseguro e à retrocessão;\n\nConsiderando que, para a aplicação das disposições relativas ao direito de estabelecimento e à livre prestação de serviços, a equiparação das sociedades às pessoas singulares que sejam nacionais dos Estados-membros está apenas subordinada às condições previstas no artigo 58º. e, se for caso disso, a uma relação efectiva e contínua com a economia de um Estado-membro, e que, por conseguiente, nenhuma condição suplementar, nomeadamente nenhuma autorização especial que não seja exigida das sociedades nacionais para o exercicio de uma actividade económica, lhes pode ser exigida para que possam beneficiar destas disposições; que, no entanto, esta equiparação não prejudica a faculdade de os Estados-membros exigirem que as sociedades de capitais se apresentem no seu país sob a denominasão adoptada pela legislação do Estado-membro em conformidade com a qual elas se tenham constituído e indiquem, nos documentos comerciais que utilizem no Estado-membro de acolhimento, o montante do capital subscrito,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "148c5cf8212d2e47": {
+   "fragment_id": "Artigo 1º.",
+   "type": "artigo",
+   "heading": "Artigo 1º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º.\n\nOs Estados-membros suprimirão, em favor das pessoas singulares e das sociedades mencionadas no Título I dos programas gerais para a supressão dos restrições à liberdade de estabelecimento e à livre prestação de serviços, as restrições referidas no Título III dos mesmos programas, no que diz respeito ao acesso às actividades mencionadas no artigo 2º. e ao seu exercício."
+  },
+  "f7c9b3e647cbd75c": {
+   "fragment_id": "Artigo 2º.",
+   "type": "artigo",
+   "heading": "Artigo 2º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º.\n\nAs disposições da presente directiva aplicam-se: 1. Às actividades não assalariadas de resseguro e de retrocessão compreendidas no grupo ex 630 do Anexo I do Programa Geral para a Supressão das Restrições à Liberdade de Estabelecimento;\n\n2. À parte das actividades consagrada ao resseguro e à retrocessão, no caso especial das pessoas singulares e sociedades, referidas no artigo 1º., que pratiquem, simultaneamente, por um lado, o seguro directo e, por outro, o resseguro e a retrocessão."
+  },
+  "1fe8efaf3cbb9d5b": {
+   "fragment_id": "Artigo 3º.",
+   "type": "artigo",
+   "heading": "Artigo 3º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º.\n\nSão, nomeadamente, abrangidas pelo disposto no artigo 1º. As restrições decorrentes das seguintes disposições: a) Em matéria de liberdade de estabelecimento: - no que diz respeito à República Federal da Alemanha: 1) Lei de 6 de Jundo de 1931 (VAG): artigo 106º., parágrafo 2º., última, frase, e artigo 111º., parágrafo (1) JO nº. 2 de 15.1.1962, p. 36/62. (2) JO nº. 2 de 15.1.1962, p. 32/62. (3) JO nº. 33 de 4.3.1963, p. 482/63. (4) JO nº. 56 de 4.4.1963, p. 882/64. 2º., que, respectivamente, atribuem ao Ministério Federal dos Assuntos Económicos a faculdade de, discricionariamente, impor aos estrangeiros condições de acesso a esta actividade e de lhes vedar, arbitrariamente, o exercicio no território da República Federal;\n\n2) Gewerbeordnung, § 12, e Lei de 30 de Janeiro de 1937, § 292, que prevêem para as sociedades estrangeiras uma autorização prévia.\n\n- no que diz respeito ao Reino da Bélgica: Arrêté Royal nº. 62 de 16 de Novembro de 1939, e\n\nArrêté Ministeriel de 17 de Dezembro de 1945, que impõem a obrigação de possuir uma carteira profissional (carte professionelle).\n\n- no que diz respeito à República Francesa: 1) Décret-Loi de 12 de Novembro de 1938 e Décret de 2 de Fevereiro de 1939, alterados pela Lei de 8 de Outubro de 1940, que impõem a obrigação de possuir um cartão de identificação de comerciante (carte d'identité de commerçant);\n\n2) Lei de 15 de Fevereiro de 1917, alterada e completada pelo Décret-Loi de 30 de Outubro de 1935, artigo 2º., parágrafo 2, que impõe a obrigação de obter uma autorização especial.\n\n- no que diz respeito ao Grão-Ducado do Luxemburgo: Lei de 2 de Junho de 1962, artigos 19º. e 21º. (Memorial A nº. 3, de 19 de Junho de 1952).\n\nb) Em matéria de livre prestação de serviços: - no que diz respeito à República Francesa: Lei de 15 de Fevereiro de 1917, alterada pelo Décret-Loi de 30 de Outubro de 1935: 1) Artigo 1º., parágrafo 2, que concede ao Ministro das Finanças a faculdade de elaborar uma lista de determinadas empresas ou pertencentes a um determinado país, nas quais não poderá ser resseguro ou retrocedido qualquer risco respeitante a uma pressoa, a um bem ou a uma responsabilidade, em França;\n\n2) Artigo 1º., último parágrafo, que veda a aceitação, em resseguro ou em retrocessão, de riscos seguros por empresas nas condições referidas no ponto anterior;\n\n3) Artigo 2º., primeiro parágrafo que exige que seja submetida à aceitação do Ministro das Finanças a pessoa referida naquele artigo.\n\n- no que diz respeito à República Italiana: Artigo 73º., segundo parágrafo, do texto único aprovado pelo Decreto nº. 449, de 13 de Fevereiro de 1959, que atribui ao Ministro da Indústria e do Comércio a faculdade de vedar a cedência dos riscos em resseguro ou em retrocessão a determinadas empresas estrangeiras que não tenham constituído uma representação legal no território italiano."
+  },
+  "1cddb47f029e50a2": {
+   "fragment_id": "Artigo 4º.",
+   "type": "artigo",
+   "heading": "Artigo 4º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º.\n\nOs Estados-membros porão em vigor as medidas necessárias para darem cumprimento à presente directiva, no prazo de seis meses a contar da sua notificação. Desse facto informarão imediatamente a Comissão."
+  },
+  "fb40d42880357227": {
+   "fragment_id": "Artigo 5º.",
+   "type": "artigo",
+   "heading": "Artigo 5º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º.\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 25 de Fevereiro de 1964.\n\nPelo Conselho\n\nO Presidente\n\nH. FAYAT"
+  },
+  "4c00aa5884ff072c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1964L0225 — PT — 01.01.1973 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31964L0225:PT:NOT) [DIRECTIVA DO CONSELHO de 25 de Fevereiro de 1964 relativa à supressão das restrições à liberdade de estabelecimento e à livre prestação de serviços, em matéria de resseguro e retrocessão (64/225/CEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31964L0225:PT:NOT) (JO P 056, 4.4.1964, p.878)\n\nAlterado por:\n\n|  |  | Jornal Oficial |\n| --- | --- | --- |\n| No | page | date |\n\nAlterado por:\n\n| [►A1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11972B:FR:NOT) | [Acto de Adesão da Dinamarca, da Irlanda e do Reino Unido da Grã-Bretanha e da Irlanda do Norte](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11972B:FR:NOT) | L 73 | 14 | 27.3.1972 |\n| --- | --- | --- | --- | --- |\n\n(*) Este acto não existe em língua portuguesa.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31964L0225:PT:NOT)\n\nDIRECTIVA DO CONSELHO\n\nde 25 de Fevereiro de 1964\n\nrelativa à supressão das restrições à liberdade de estabelecimento e à livre prestação de serviços, em matéria de resseguro e retrocessão\n\n(64/225/CEE)\n\nO CONSELHO DA COMUNIDADE ECONÓMICA EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o n.o 2 do seu artigo 54.o e o n.o 2 do seu artigo 63.o,\n\nTendo em conta o Programa Geral para a Supressão das Restrições à Liberdade de Estabelecimento ([1](http://publications.europa.eu/resource/cellar/f8017e64-61fb-4c13-9ba9-0c0e2e0d29c6.0018.02/DOC_1#E0001)) e, nomeadamente, o seu Título IV A,\n\nTendo em conta o Programa Geral para a Supressão das Restrições à Livre Prestação de Serviços ([2](http://publications.europa.eu/resource/cellar/f8017e64-61fb-4c13-9ba9-0c0e2e0d29c6.0018.02/DOC_1#E0002)) e, nomeadamente, o seu Título V C,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([3](http://publications.europa.eu/resource/cellar/f8017e64-61fb-4c13-9ba9-0c0e2e0d29c6.0018.02/DOC_1#E0003)),\n\nTendo em conta o parecer do Comité Económico e Social ([4](http://publications.europa.eu/resource/cellar/f8017e64-61fb-4c13-9ba9-0c0e2e0d29c6.0018.02/DOC_1#E0004)),\n\nConsiderando que os programas gerais prevêem que, antes do final de 1963, devem ser liberalizados todos os ramos do resseguro, sem distinção, tanto no que respeita ao estabelecimento, como à prestação de serviços;\n\nConsiderando que o resseguro é exerciso, não apenas por empresas especializadas, mas também por empresas mistas que praticam, ao mesmo tempo, o seguro directo e o resseguro e que, consequentemente, devem beneficiar das medidas de aplicação da presente directiva, no que respeita à parte da sua actividade consagrada ao resseguro e à retrocessão;\n\nConsiderando que, para a aplicação das disposições relativas ao direito de estabelecimento e à livre prestação de serviços, a equiparação das sociedades às pessoas singulares que sejam nacionais dos Estados-membros está apenas subordinada às condições previstas no artigo 58.o e, se for caso disso, a uma relação efectiva e contínua com a economia de um Estado-membro, e que, por conseguiente, nenhuma condição suplementar, nomeadamente nenhuma autorização especial que não seja exigida das sociedades nacionais para o exercicio de uma actividade económica, lhes pode ser exigida para que possam beneficiar destas disposições; que, no entanto, esta equiparação não prejudica a faculdade de os Estados-membros exigirem que as sociedades de capitais se apresentem no seu país sob a denominasão adoptada pela legislação do Estado-membro em conformidade com a qual elas se tenham constituído e indiquem, nos documentos comerciais que utilizem no Estado-membro de acolhimento, o montante do capital subscrito,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "14924d33e2663807": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs Estados-membros suprimirão, em favor das pessoas singulares e das sociedades mencionadas no Título I dos programas gerais para a supressão das restrições à liberdade de estabelecimento e à livre prestação de serviços, as restrições referidas no Título III dos mesmos programas, no que diz respeito ao acesso às actividades mencionadas no artigo 2.o e ao seu exercício."
+  },
+  "22418bd9ae5e8d69": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs disposições da presente directiva aplicam-se:\n\n1. Às actividades não assalariadas de resseguro e de retrocessão compreendidas no grupo ex 630 do Anexo I do Programa Geral para a Supressão das Restrições à Liberdade de Estabelecimento;\n\n2. À parte das actividades consagrada ao resseguro e à retrocessão, no caso especial das pessoas singulares e sociedades, referidas no artigo 1.o, que pratiquem, simultaneamente, por um lado, o seguro directo e, por outro, o resseguro e a retrocessão."
+  },
+  "22959f6567c0991d": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nSão, nomeadamente, abrangidas pelo disposto no artigo 1.o As restrições decorrentes das seguintes disposições:\n\na) Em matéria de liberdade de estabelecimento:\n\n— no que diz respeito à República Federal da Alemanha:\n\n1) Lei de 6 de Jundo de 1931 (VAG): artigo 106.o, parágrafo 2.o, última, frase, e artigo 111.o, parágrafo 2.o, que, respectivamente, atribuem ao Ministério Federal dos Assuntos Económicos a faculdade de, discricionariamente, impor aos estrangeiros condições de acesso a esta actividade e de lhes vedar, arbitrariamente, o exercicio no território da República Federal;\n\n2) Gewerbeordnung, § 12, e Lei de 30 de Janeiro de 1937, § 292, que prevêem para as sociedades estrangeiras uma autorização prévia.\n\n— no que diz respeito ao Reino da Bélgica:\n\n— Arrêté Royal n.o 62 de 16 de Novembro de 1939, e Arrêté Ministeriel de 17 de Dezembro de 1945, que impõem a obrigação de possuir uma carteira profissional (carte professionelle).\n\n— no que diz respeito à República Francesa:\n\n1) Décret-Loi de 12 de Novembro de 1938 e Décret de 2 de Fevereiro de 1939, alterados pela Lei de 8 de Outubro de 1940, que impõem a obrigação de possuir um cartão de identificação de comerciante (carte d'identité de commerçant);\n\n2) Lei de 15 de Fevereiro de 1917, alterada e completada pelo Décret-Loi de 30 de Outubro de 1935, artigo 2.o, parágrafo 2, que impõe a obrigação de obter uma autorização especial.\n\n— no que diz respeito ao Grão-Ducado do Luxemburgo:\n\n— Lei de 2 de Junho de 1962, artigos 19.o e 21.o (Memorial A n.o 3, de 19 de Junho de 1952).\n\n[▼A1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11972B:FR:NOT)\n\n— no que diz respeito ao Reino da Dinamarca:\n\n— Lei de 23 de Dezembro de 1959 relativa à aquisição de propriedade imobiliária.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31964L0225:PT:NOT)\n\nb) Em matéria de livre prestação de serviços:\n\n— no que diz respeito à República Francesa:\n\n— Lei de 15 de Fevereiro de 1917, alterada pelo Décret-Loi de 30 de Outubro de 1935:\n\n1) Artigo 1.o, parágrafo 2, que concede ao Ministro das Finanças a faculdade de elaborar uma lista de determinadas empresas ou pertencentes a um determinado país, nas quais não poderá ser resseguro ou retrocedido qualquer risco respeitante a uma pressoa, a um bem ou a uma responsabilidade, em França;\n\n2) Artigo 1.o, último parágrafo, que veda a aceitação, em resseguro ou em retrocessão, de riscos seguros por empresas nas condições referidas no ponto anterior;\n\n3) Artigo 2.o, primeiro parágrafo que exige que seja submetida à aceitação do Ministro das Finanças a pessoa referida naquele artigo.\n\n— no que diz respeito à República Italiana:\n\n— Artigo 73.o, segundo parágrafo, do texto único aprovado pelo Decreto n.o 449, de 13 de Fevereiro de 1959, que atribui ao Ministro da Indústria e do Comércio a faculdade de vedar a cedência dos riscos em resseguro ou em retrocessão a determinadas empresas estrangeiras que não tenham constituído uma representação legal no território italiano.\n\n[▼A1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11972B:FR:NOT)\n\n— no que diz respeito ao Reino da Dinamarca:\n\n— Lei de 23 de Dezembro de 1959 relativa à aquisição de propriedade imobiliária.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31964L0225:PT:NOT)"
+  },
+  "ea8ad8c326ac7953": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-membros porão em vigor as medidas necessárias para darem cumprimento à presente directiva, no prazo de seis meses a contar da sua notificação. Desse facto informarão imediatamente a Comissão."
+  },
+  "6402591858ea353f": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-membros são destinatários da presente directiva.\n\n([1](http://publications.europa.eu/resource/cellar/f8017e64-61fb-4c13-9ba9-0c0e2e0d29c6.0018.02/DOC_1#src.E0001)) JO n.o 2 de 15. 1. 1962, p. 36/62.\n\n([2](http://publications.europa.eu/resource/cellar/f8017e64-61fb-4c13-9ba9-0c0e2e0d29c6.0018.02/DOC_1#src.E0002)) JO n.o 2 de 15. 1. 1962, p. 32/62.\n\n([3](http://publications.europa.eu/resource/cellar/f8017e64-61fb-4c13-9ba9-0c0e2e0d29c6.0018.02/DOC_1#src.E0003)) JO n.o 33 de 4. 3. 1963, p. 482/63.\n\n([4](http://publications.europa.eu/resource/cellar/f8017e64-61fb-4c13-9ba9-0c0e2e0d29c6.0018.02/DOC_1#src.E0004)) JO n.o 56 de 4. 4. 1963, p. 882/64."
+  },
+  "6c8db3b64f4f68ec": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1964L0225 — PT — 01.11.2012 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31964L0225) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31964L0225) [de 25 de Fevereiro de 1964](http://publications.europa.eu/resource/celex/31964L0225) [relativa à supressão das restrições à liberdade de estabelecimento e à livre prestação de serviços, em matéria de resseguro e retrocessão](http://publications.europa.eu/resource/celex/31964L0225) [(64/225/CEE)](http://publications.europa.eu/resource/celex/31964L0225) (JO P 056, 4.4.1964, p.878)\n\n**revogado por:**\n\n- [Directiva 2009/138/CE do Parlamento Europeu e do Conselho, de 25 de Novembro de 2009,](http://publications.europa.eu/resource/celex/32009L0138) — L 335 — 1 — 17.12.2009"
+  }
+ }
+}

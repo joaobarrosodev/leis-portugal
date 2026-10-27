@@ -1,0 +1,215 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:492404:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-901381267",
+ "dre_path": "/dr/detalhe/decreto-lei/155-2009-492404",
+ "source_lastmod": "2025-06-11",
+ "versions": [
+  {
+   "date": "2009-07-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "901455179",
+    "901455180",
+    "901455181",
+    "901455182",
+    "901455183",
+    "901455184",
+    "901455185",
+    "901455186",
+    "901455187",
+    "901455188",
+    "901455189"
+   ]
+  },
+  {
+   "date": "2017-05-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107061864:por",
+     "title": "Decreto-Lei n.º 50/2017",
+     "published": "2017-05-24",
+     "dre_path": "/dr/detalhe/decreto-lei/50-2017-107061864"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "901455179",
+    "901455180",
+    "901455181",
+    "921239105",
+    "901455183",
+    "901455184",
+    "901455185",
+    "921239089",
+    "901455187",
+    "901455188",
+    "901455189",
+    "901455190"
+   ]
+  },
+  {
+   "date": "2025-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:901400366:por",
+     "title": "Decreto-Lei n.º 115/2024",
+     "published": "2024-12-27",
+     "dre_path": "/dr/detalhe/decreto-lei/115-2024-901400366"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "901455179",
+    "901455180",
+    "901455181",
+    "921239118",
+    "901455183",
+    "901455184",
+    "901455185",
+    "921239089",
+    "901455187",
+    "901455188",
+    "901455189",
+    "901455190"
+   ]
+  }
+ ],
+ "fragments": {
+  "901455179": {
+   "fragment_id": "901381268",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 155/2009\n\nde 9 de Julho\n\nA Lei n.º 5/2009, de 29 de Janeiro, veio estabelecer o limite superior de idade para o exercício de funções operacionais dos controladores de tráfego aéreo para os 57 anos, anteriormente previsto para os 55 anos de idade.\n\nÉ de referir que o aumento da idade limite de exercício operacional já se encontra previsto, desde 2007, em sede de revisão global do acordo de empresa entre a Navegação Aérea de Portugal - NAV Portugal, E. P. E., e o Sindicato dos Controladores de Tráfego Aéreo - SINCTA, publicado no Boletim do Trabalho e Emprego, 1.ª série n.º 31, de 22 de Agosto de 2007, condicionado, contudo, às alterações legislativas que viessem a aumentar a idade limite para o exercício das funções operacionais.\n\nAssim, a presente medida surge na sequência e no contexto sócio-profissional favorável ao prolongamento da vida profissional dos controladores de tráfego aéreo.\n\nAumentando-se a possibilidade de exercício da actividade profissional, importa, de igual modo, proceder aos ajustamentos relativos à idade legal de reforma que fica assim harmonizada com a idade legal para o exercício da profissão.\n\nPara o efeito, estabelece-se que a idade legal de acesso à pensão antecipada de velhice é 57 anos, e revoga-se o Decreto-Lei n.º 436/99, de 29 de Outubro.\n\nFoi ouvido o Sindicato dos Controladores de Tráfego Aéreo.\n\nForam ouvidos os órgãos de Governo próprio das Regiões Autónomas.\n\nAssim:\n\nNo desenvolvimento da Lei n.º 4/2007, de 16 de Janeiro, e nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "901455180": {
+   "fragment_id": "901381269",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei regula, no âmbito do regime geral da segurança social, as condições de acesso à pensão antecipada de velhice dos controladores de tráfego aéreo beneficiários da segurança social."
+  },
+  "901455181": {
+   "fragment_id": "901381270",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação pessoal\n\nFicam abrangidos pelo presente decreto-lei os controladores de tráfego aéreo cujo exercício da profissão se encontra subordinado ao regime previsto no Decreto-Lei n.º 503/75, de 13 de Setembro."
+  },
+  "901455182": {
+   "fragment_id": "901381271",
+   "type": 11,
+   "heading": "Artigo 3.º — Idade de acesso à pensão antecipada de velhice",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Idade de acesso à pensão antecipada de velhice\n\n1 - A idade de acesso à pensão antecipada de velhice dos controladores de tráfego aéreo beneficiários da segurança social é aos 57 anos.\n\n2 - Têm direito à pensão antecipada de velhice nos termos do presente decreto-lei os beneficiários que, tendo cumprido o prazo de garantia, à data em que perfaçam a idade prevista no número anterior, tenham completado 22 anos civis de registo de remunerações no exercício de funções operacionais relevantes para o cálculo da pensão."
+  },
+  "901455183": {
+   "fragment_id": "901381272",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições de atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de atribuição\n\n1 - As condições de atribuição e as regras de cálculo da pensão são as estipuladas no Decreto-Lei n.º 187/2007, de 10 de Maio, sem prejuízo do disposto no número seguinte.\n\n2 - A pensão estatutária atribuída nos termos do número anterior não é objecto da redução prevista no artigo 36.º do Decreto-Lei n.º 187/2007, de 10 de Maio."
+  },
+  "901455184": {
+   "fragment_id": "901381273",
+   "type": 11,
+   "heading": "Artigo 5.º — Acumulação de pensão com rendimentos de trabalho ou actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Acumulação de pensão com rendimentos de trabalho ou actividade\n\n1 - Determina perda do direito à pensão antecipada a acumulação da pensão com rendimentos de trabalho ou actividade nas seguintes situações:\n\na) A percepção de rendimentos de trabalho decorrentes de actividade prestada no sector do controlo de tráfego aéreo em funções operacionais;\n\nb) A percepção de rendimentos de trabalho provenientes do exercício de actividade a qualquer título, na mesma empresa ou grupo empresarial, por um período de três anos a contar da data de acesso à pensão antecipada;\n\n2 - Os controladores de tráfego aéreo que acumulem a pensão antecipada com o exercício de actividade profissional no sector de tráfego aéreo devem, no prazo de 30 dias, comunicar ao Instituto de Segurança Social, I. P., o início da actividade e a identificação da entidade para a qual desenvolve a actividade."
+  },
+  "901455185": {
+   "fragment_id": "901381274",
+   "type": 11,
+   "heading": "Artigo 6.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Financiamento\n\n1 - Os encargos correspondentes ao pagamento das pensões durante o período de antecipação da idade de acesso à pensão são suportados, conjuntamente, em 60 % pelas entidades empregadoras e em 40 % pelo Estado.\n\n2 - O financiamento a cargo do Estado é efectuado nos termos do Decreto-Lei n.º 367/2007, de 2 de Novembro."
+  },
+  "901455186": {
+   "fragment_id": "901468175",
+   "type": 11,
+   "heading": "Artigo 7.º — Articulação entre Instituições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Articulação entre Instituições\n\n1 - O Instituto de Segurança Social, I. P., e a Navegação Aérea de Portugal - NAV Portugal, E. P. E. (NAV Portugal, E. P. E.), asseguram as formas de articulação necessárias ao cumprimento do disposto no presente decreto-lei.\n\n2 - A NAV Portugal, E. P. E., transfere, no 1.º dia de cada mês, para o Instituto de Gestão Financeira da Segurança Social, I. P., o montante correspondente à totalidade da sua responsabilidade no pagamento das pensões que tenham sido liquidadas por esta entidade no mês anterior."
+  },
+  "901455187": {
+   "fragment_id": "901468176",
+   "type": 11,
+   "heading": "Artigo 8.º — Regime subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regime subsidiário\n\nAs pensões de velhice concedidas ao abrigo do presente decreto-lei regulam-se pelo regime geral de protecção social na velhice, previsto no Decreto-Lei n.º 187/2007, de 10 de Maio, em tudo o que não esteja expressamente previsto no presente decreto-lei."
+  },
+  "901455188": {
+   "fragment_id": "901468177",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 436/99, de 29 de Outubro."
+  },
+  "901455189": {
+   "fragment_id": "901468178",
+   "type": 11,
+   "heading": "Artigo 10.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos à data de entrada em vigor da Lei n.º 5/2009, de 29 de Janeiro."
+  },
+  "921239105": {
+   "fragment_id": "901381271",
+   "type": 11,
+   "heading": "Artigo 3.º — Idade de acesso à pensão antecipada de velhice",
+   "in_force_from": "2017-05-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 50/2017 - Diário da República n.º 100/2017, Série I de 2017-05-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2017-107061864), em vigor a partir de 2017-05-25"
+   ],
+   "markdown": "###### Artigo 3.º — Idade de acesso à pensão antecipada de velhice\n\n1 - A idade de acesso à pensão antecipada de velhice dos controladores do tráfego aéreo beneficiários da segurança social é aos 58 anos.\n\n2 - Têm direito à pensão antecipada de velhice nos termos do presente decreto-lei os beneficiários que, tendo cumprido o prazo de garantia, à data em que perfaçam a idade prevista no número anterior, tenham completado 22 anos civis de registo de remunerações no exercício de funções operacionais relevantes para o cálculo da pensão.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 50/2017 - Diário da República n.º 100/2017, Série I de 2017-05-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2017-107061864), em vigor a partir de 2017-05-25"
+  },
+  "921239089": {
+   "fragment_id": "901468175",
+   "type": 11,
+   "heading": "Artigo 7.º — Articulação entre Instituições",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 64/2009 - Diário da República n.º 169/2009, Série I de 2009-09-01](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-2009-488512), produz efeitos a partir de 2009-07-14"
+   ],
+   "markdown": "###### Artigo 7.º — Articulação entre Instituições\n\n1 - O Instituto de Segurança Social, I. P., e a Navegação Aérea de Portugal (NAV Portugal, E. P. E.), asseguram as formas de articulação necessárias ao cumprimento do disposto no presente decreto-lei.\n\n2 - A NAV Portugal, E. P. E., transfere, no 1.º dia de cada mês, para o Instituto de Gestão Financeira da Segurança Social, I. P., o montante correspondente à totalidade da sua responsabilidade no pagamento das pensões que tenham sido liquidadas por esta entidade no mês anterior.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 64/2009 - Diário da República n.º 169/2009, Série I de 2009-09-01](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-2009-488512), produz efeitos a partir de 2009-07-14"
+  },
+  "901455190": {
+   "fragment_id": "901468179",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 7 de Maio de 2009. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Mário Lino Soares Correia - Idália Maria Marques Salvador Serrão de Menezes Moniz.\n\nPromulgado em 25 de Junho de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 29 de Junho de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "921239118": {
+   "fragment_id": "901381271",
+   "type": 11,
+   "heading": "Artigo 3.º — Idade de acesso à pensão antecipada de velhice",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 115/2024 - Diário da República n.º 251/2024, Série I de 2024-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2024-901400366), em vigor a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 50/2017 - Diário da República n.º 100/2017, Série I de 2017-05-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2017-107061864), em vigor a partir de 2017-05-25"
+   ],
+   "markdown": "###### Artigo 3.º — Idade de acesso à pensão antecipada de velhice\n\n1 -  A idade de acesso à pensão antecipada de velhice dos controladores do tráfego aéreo beneficiários da segurança social é de 60 anos.\n\n2 - Têm direito à pensão antecipada de velhice nos termos do presente decreto-lei os beneficiários que, tendo cumprido o prazo de garantia, à data em que perfaçam a idade prevista no número anterior, tenham completado 22 anos civis de registo de remunerações no exercício de funções operacionais relevantes para o cálculo da pensão.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 115/2024 - Diário da República n.º 251/2024, Série I de 2024-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2024-901400366), em vigor a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 50/2017 - Diário da República n.º 100/2017, Série I de 2017-05-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2017-107061864), em vigor a partir de 2017-05-25"
+  }
+ }
+}

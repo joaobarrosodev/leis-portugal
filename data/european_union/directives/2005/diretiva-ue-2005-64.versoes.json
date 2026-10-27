@@ -1,0 +1,155 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32005L0064:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005L0064-20090203",
+ "dre_path": null,
+ "source_lastmod": "2009-02-03",
+ "versions": [
+  {
+   "date": "2005-11-25",
+   "future": false,
+   "celex": "32005L0064",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "26146ef712b4fea0",
+    "2efd4cc2daa8b019",
+    "a0c82ee4b9005e14",
+    "1e72663b23556995",
+    "60287ffbe8b4ffd3",
+    "131b089f69118c63",
+    "882d19fbe7354c72",
+    "4210713d3cc92662",
+    "b839413bddfaeffe",
+    "8126c44cec0d6327",
+    "db4fcf6343d25fab",
+    "e494513c7cb1c951",
+    "6673c03bdfa0abdd",
+    "5a3998c21a5de7d5",
+    "f19e3ac73e32580d"
+   ]
+  }
+ ],
+ "fragments": {
+  "26146ef712b4fea0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Outubro de 2005\n\nrelativa à homologação de veículos a motor, no que diz respeito à sua potencial reutilização, reciclagem e valorização e que altera a Directiva 70/156/CEE do Conselho\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 95.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/dcdff433-7132-4c59-909f-b38e83dec390.0017.03/DOC_1#ntr1-L_2005310PT.01001001-E0001),\n\nDeliberando nos termos do artigo 251.º do Tratado [([^2])](http://publications.europa.eu/resource/cellar/dcdff433-7132-4c59-909f-b38e83dec390.0017.03/DOC_1#ntr2-L_2005310PT.01001001-E0002),\n\nConsiderando o seguinte:\n\n(1) Em conformidade com a Directiva 2000/53/CE do Parlamento Europeu e do Conselho, de 18 de Setembro de 2000, relativa aos veículos em fim de vida [([^3])](http://publications.europa.eu/resource/cellar/dcdff433-7132-4c59-909f-b38e83dec390.0017.03/DOC_1#ntr3-L_2005310PT.01001001-E0003), devem ser estabelecidas disposições apropriadas para garantir que os veículos homologados pertencentes à categoria M1, e os pertencentes à categoria N1, apenas possam ser comercializados se forem reutilizáveis e/ou recicláveis a um nível mínimo de 85% em massa e reutilizáveis e/ou valorizáveis a um nível mínimo de 95% em massa.\n\n(2) A possibilidade de reutilizar os componentes e de reciclar e valorizar os materiais constitui uma parte importante da estratégia comunitária de gestão de resíduos. Deve ser portanto solicitada aos fabricantes de veículos e seus fornecedores a inclusão desses aspectos nas fases mais precoces do desenvolvimento de veículos novos, de modo a facilitar o respectivo tratamento quando atingem o fim de vida.\n\n(3) A presente directiva constitui uma das directivas específicas, no quadro do sistema de homologação comunitária de veículos completos instituído pela Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-Membros respeitantes à homologação dos veículos a motor e seus reboques [([^4])](http://publications.europa.eu/resource/cellar/dcdff433-7132-4c59-909f-b38e83dec390.0017.03/DOC_1#ntr4-L_2005310PT.01001001-E0004).\n\n(4) O referido sistema de homologação de veículos completos é actualmente obrigatório para veículos pertencentes à categoria M1 e será alargado, no futuro próximo, a todas as categorias de veículos. Por conseguinte, é necessário incluir no sistema de homologação de veículos completos as medidas em questão, relativas à reutilização, reciclagem e valorização potenciais de veículos.\n\n(5) Em conformidade, é necessário estabelecer disposições que tomem em consideração o facto de os veículos da categoria N1 não serem ainda abrangidos pelo sistema de homologação de veículos completos.\n\n(6) O fabricante deve colocar à disposição da autoridade homologadora todas as informações técnicas relevantes no que diz respeito aos materiais utilizados e respectivas massas, a fim de possibilitar a verificação dos seus cálculos em conformidade com a norma ISO 22628: 2002.\n\n(7) Os cálculos do fabricante só podem ser correctamente validados no momento da homologação do veículo se o fabricante tiver estabelecido disposições e procedimentos satisfatórios para gerir toda a informação que recebe dos seus fornecedores. Antes de conceder qualquer homologação, o organismo competente deverá realizar uma avaliação preliminar dos referidos procedimentos e disposições e emitir um certificado indicando que estes são satisfatórios.\n\n(8) A importância das diferentes variáveis que entram no cálculo das taxas de reciclagem e de valorização tem de ser avaliada em conformidade com os processos de tratamento dos veículos em fim de vida. Por conseguinte, o fabricante deverá recomendar uma estratégia para o tratamento dos veículos em fim de vida e comunicar os respectivos pormenores ao organismo competente. Essa estratégia deverá basear-se em tecnologias comprovadas, disponíveis ou em desenvolvimento no momento da solicitação da homologação do veículo.\n\n(9) Os veículos destinados a fins especiais são concebidos para executar uma função específica e exigem arranjos de carroçaria especiais, que o fabricante não controla integralmente. Consequentemente, não é possível calcular correctamente as taxas de reciclagem e valorização. Por conseguinte, não deverão ser aplicados a estes veículos os requisitos relativos ao cálculo.\n\n(10) Os veículos incompletos constituem uma proporção significativa dos veículos da categoria N1. O fabricante do veículo de base não pode calcular as taxas de reciclagem e de valorização de veículos completos, uma vez que os dados referentes às fases posteriores de fabrico não estão disponíveis durante a fase de concepção dos veículos de base. Assim, é conveniente exigir que apenas o veículo de base seja conforme à presente directiva.\n\n(11) As partes de mercado dos veículos produzidos em pequenas séries são muito limitadas, pelo que o facto de cumprirem a presente directiva irá produzir poucos benefícios para o ambiente. Por conseguinte, é conveniente exclui-los de certas disposições da presente directiva.\n\n(12) Em conformidade com a Directiva 2000/53/CE, devem ser adoptadas medidas apropriadas, no interesse da segurança rodoviária e da protecção do ambiente, para evitar a reutilização de certos componentes que foram retirados de veículos em fim de vida. Essas medidas deverão ser limitadas à reutilização de componentes no fabrico de veículos novos.\n\n(13) As disposições expostas na presente directiva imporão aos fabricantes o fornecimento de novos dados relativos à homologação, pelo que essas informações deverão ser repercutidas na Directiva 70/156/CEE, que estabelece a lista exaustiva dos dados a apresentar com vista à homologação. Assim, é necessário alterar a referida directiva em conformidade.\n\n(14) As medidas necessárias à adaptação ao progresso científico e técnico da presente directiva serão aprovadas pelo procedimento de regulamentação previsto no n.º 3 do artigo 13.º da Directiva 70/156/CEE.\n\n(15) Atendendo a que o objectivo da presente directiva, a saber, minimizar o impacto dos veículos em fim de vida sobre o ambiente mediante a exigência de que os veículos sejam projectados, a partir da fase de concepção, com o propósito de facilitar a reutilização, a reciclagem e a valorização, não pode ser suficientemente realizado pelos Estados-Membros de maneira isolada e pode, pois, devido à dimensão e aos efeitos da acção proposta, ser melhor alcançado ao nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aquele objectivo.\n\n(16) Em conformidade com o ponto 34 do Acordo Interinstitucional «Legislar Melhor» [([^5])](http://publications.europa.eu/resource/cellar/dcdff433-7132-4c59-909f-b38e83dec390.0017.03/DOC_1#ntr5-L_2005310PT.01001001-E0005), os Estados-Membros serão encorajados a elaborar, para si próprios e no interesse da Comunidade, os seus próprios quadros, que ilustrem, na medida do possível, a concordância entre a presente directiva e as medidas de transposição, e a publicá-los,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "2efd4cc2daa8b019": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente directiva estabelece as disposições administrativas e técnicas para a homologação dos veículos abrangidos pelo artigo 2.º, a fim de assegurar que os seus componentes e materiais possam ser reutilizados, reciclados e valorizados de acordo com as percentagens mínimas referidas no anexo I.\n\nEstabelece disposições específicas para assegurar que a reutilização de componentes não acarrete riscos para a segurança ou o ambiente."
+  },
+  "a0c82ee4b9005e14": {
+   "fragment_id": "Artigo 2.º — Âmbito",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nA presente directiva aplica-se aos veículos pertencentes às categorias M1 e N1, como definidas na parte A do anexo II da Directiva 70/156/CEE, e a componentes novos ou reutilizados desses veículos."
+  },
+  "1e72663b23556995": {
+   "fragment_id": "Artigo 3.º — Derrogações",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Derrogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Derrogações\n\nSem prejuízo da aplicação do disposto no artigo 7.º, a presente directiva não é aplicável a:\n\na) Veículos para fins especiais, como definidos na parte A, ponto 5, do anexo II da Directiva 70/156/CEE;\n\nb) Veículos fabricados em várias fases pertencentes à categoria N1, desde que o veículo de base seja conforme à presente directiva;\n\nc) Veículos produzidos em pequenas séries, referidos no n.º 2, alínea a), do artigo 8.º da Directiva 70/156/CEE."
+  },
+  "60287ffbe8b4ffd3": {
+   "fragment_id": "Artigo 4.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. «Veículo», um veículo a motor;\n\n2. «Componente», qualquer parte ou conjunto de partes incluídas num veículo no momento da sua produção. Abrange igualmente componentes e unidades técnicas separadas, como definidas no artigo 2.º da Directiva 70/156/CEE;\n\n3. «Modelo de veículo», o modelo de um veículo como definido na parte B, pontos 1 e 3, do anexo II da Directiva 70/156/CEE;\n\n4. «Veículo em fim de vida», um veículo como definido no ponto 2 do artigo 2.º da Directiva 2000/53/CE;\n\n5. «Veículo de referência», a versão de um modelo de veículo que é identificada pela autoridade homologadora, em consulta com o fabricante e em conformidade com os critérios estabelecidos no anexo I, como sendo a mais problemática em termos da sua potencial reutilização, reciclagem e valorização;\n\n6. «Veículo fabricado em várias fases», um veículo resultante de um processo de fabrico em várias fases;\n\n7. «Veículo de base», um veículo como definido no quarto travessão do artigo 2.º da Directiva 70/156/CEE, utilizado na fase inicial de um fabrico em várias fases;\n\n8. «Fabrico em várias fases», o processo através do qual um veículo é fabricado em diversas fases, acrescentando componentes a um veículo de base ou alterando esses componentes;\n\n9. «Reutilização», a reutilização como definida no ponto 6 do artigo 2.º da Directiva 2000/53/CE;\n\n10. «Reciclagem», a reciclagem como definida na primeira frase do ponto 7 do artigo 2.º da Directiva 2000/53/CE;\n\n11. «Valorização energética», a valorização energética como definida na segunda frase do ponto 7 do artigo 2.º da Directiva 2000/53/CE;\n\n12. «Valorização», a valorização como definida no ponto 8 do artigo 2.º da Directiva 2000/53/CE;\n\n13. «Reutilização potencial», o potencial de reutilização de componentes retirados de um veículo em fim de vida;\n\n14. «Reciclagem potencial», o potencial de reciclagem de componentes ou materiais retirados de um veículo em fim de vida;\n\n15. «Valorização potencial», o potencial de valorização de componentes ou materiais retirados de um veículo em fim de vida;\n\n16. «Taxa de reciclagem potencial de um veículo (Rcyc)», a percentagem em massa de um veículo novo potencialmente passível de ser reutilizada e reciclada;\n\n17. «Taxa de valorização potencial de um veículo (Rcov)», a percentagem em massa de um veículo novo potencialmente passível de ser reutilizada e valorizada;\n\n18. «Estratégia», um plano em grande escala constituído por acções coordenadas e medidas técnicas a adoptar no âmbito da desmontagem, do retalhamento ou de processos similares, da reciclagem e da valorização de materiais, a fim de garantir que as taxas de reciclagem e de valorização potenciais previstas sejam alcançáveis durante a fase de desenvolvimento do veículo;\n\n19. «Massa», a massa do veículo em ordem de marcha como definida no ponto 2.6 do anexo I da Directiva 70/156/CEE mas com exclusão do condutor, cuja massa é avaliada em 75 kg;\n\n20. «Organismo competente», a entidade, por exemplo serviço técnico ou outro organismo existente, notificada por um Estado-Membro para efectuar a avaliação preliminar do fabricante e emitir um certificado de conformidade, de acordo com o previsto na presente directiva. O organismo competente pode ser a autoridade homologadora, desde que a sua competência nesse domínio se encontre devidamente documentada."
+  },
+  "131b089f69118c63": {
+   "fragment_id": "Artigo 5.º — Disposições relativas à homologação",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Disposições relativas à homologação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disposições relativas à homologação\n\n1. Os Estados-Membros concederão, conforme apropriado, a homologação CE ou a homologação de âmbito nacional, no que se refere à reutilização, reciclagem e valorização potenciais, apenas aos modelos de veículos que satisfaçam os requisitos da presente directiva.\n\n2. Para efeitos de aplicação do n.º 1, o fabricante porá à disposição da autoridade homologadora a informação técnica pormenorizada necessária para proceder aos cálculos e verificações referidos no anexo I, relacionados com a natureza dos materiais utilizados no fabrico do veículo e dos seus componentes. Nos casos em que se mostre ser essa informação abrangida por direitos de propriedade intelectual ou constituir um saber-fazer específico do fabricante ou dos seus fornecedores, o fabricante ou os seus fornecedores prestarão informações suficientes para permitir a realização correcta dos referidos cálculos.\n\n3. No que diz respeito à reutilização, reciclagem e valorização potenciais, os Estados-Membros garantirão que o fabricante utilize o modelo de ficha de informações definido no anexo II da presente directiva, ao apresentar um pedido de homologação CE do veículo, nos termos do n.º 1 do artigo 3.º da Directiva 70/156/CEE.\n\n4. Ao conceder uma homologação CE nos termos do n.º 3 do artigo 4.º da Directiva 70/156/CEE, a autoridade homologadora utilizará o modelo de certificado de homologação CE apresentado no anexo III da presente directiva."
+  },
+  "882d19fbe7354c72": {
+   "fragment_id": "Artigo 6.º — Avaliação preliminar do fabricante",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Avaliação preliminar do fabricante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Avaliação preliminar do fabricante\n\n1. Os Estados-Membros não concederão qualquer homologação sem, primeiramente, garantir que o fabricante tenha estabelecido disposições e procedimentos satisfatórios, em conformidade com o ponto 3 do anexo IV, para gerir correctamente os aspectos relativos à reutilização, reciclagem e valorização potenciais contemplados na presente directiva. Uma vez realizada a referida avaliação preliminar, será concedido ao fabricante um certificado designado «certificado de conformidade com o anexo IV» (doravante designado por «certificado de conformidade»).\n\n2. No âmbito da avaliação preliminar do fabricante, os Estados-Membros garantirão que os materiais utilizados no fabrico de um modelo de veículo cumprem o disposto na alínea a) do n.º 2 do artigo 4.º da Directiva 2000/53/CE.\n\nA Comissão estabelecerá, nos termos do artigo 9.º, as regras específicas necessárias à verificação da conformidade com a presente disposição.\n\n3. Para efeitos do n.º 1, o fabricante recomendará uma estratégia para garantir a desmontagem e a reutilização dos componentes, bem como a reciclagem e a valorização dos materiais. A estratégia tomará em consideração as tecnologias comprovadas, disponíveis ou em desenvolvimento, no momento do pedido de homologação de um veículo.\n\n4. Os Estados-Membros nomearão um organismo competente, em conformidade com o ponto 2 do anexo IV, para realizar a avaliação preliminar do fabricante e emitir o certificado de conformidade.\n\n5. O certificado de conformidade incluirá a documentação apropriada e descreverá a estratégia recomendada pelo fabricante. O organismo competente utilizará o modelo apresentado no apêndice do anexo IV.\n\n6. O certificado de conformidade será válido durante um período mínimo de dois anos a contar da data de entrega do certificado, antes de se realizarem novas verificações.\n\n7. O fabricante informará o organismo competente de qualquer alteração significativa, passível de afectar a pertinência do certificado de conformidade. Após consulta com o fabricante, o organismo competente decidirá se são necessárias novas verificações.\n\n8. No final do período de validade do certificado de conformidade, o organismo competente emitirá, se for caso disso, um novo certificado de conformidade ou prolongará a sua validade por um período adicional de dois anos. O organismo competente emitirá um novo certificado nos casos em que tiverem sido comunicadas alterações significativas ao organismo competente."
+  },
+  "4210713d3cc92662": {
+   "fragment_id": "Artigo 7.º — Reutilização de componentes",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Reutilização de componentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Reutilização de componentes\n\nOs componentes constantes no anexo V:\n\na) Serão considerados não reutilizáveis para efeitos do cálculo das taxas de reciclagem e de valorização potenciais;\n\nb) Não serão reutilizados no fabrico de veículos abrangidos pela Directiva 70/156/CEE."
+  },
+  "b839413bddfaeffe": {
+   "fragment_id": "Artigo 8.º — Alterações à Directiva 70/156/CEE",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Alterações à Directiva 70/156/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Alterações à Directiva 70/156/CEE\n\nA Directiva 70/156/CEE será alterada em conformidade com o anexo VI da presente directiva."
+  },
+  "8126c44cec0d6327": {
+   "fragment_id": "Artigo 9.º — Alterações",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Alterações\n\nAs alterações à presente directiva, necessárias para a adaptar ao progresso científico e técnico, são aprovadas pela Comissão pelo procedimento de regulamentação a que se refere o n.º 3 do artigo 13.º da Directiva 70/156/CEE."
+  },
+  "db4fcf6343d25fab": {
+   "fragment_id": "Artigo 10.º — Datas de aplicação relativas à homologação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Datas de aplicação relativas à homologação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Datas de aplicação relativas à homologação\n\n1. Com efeitos a partir de 15 de Dezembro de 2006, os Estados-Membros não podem, no que diz respeito a um modelo de veículo que cumpra os requisitos da presente directiva:\n\na) Recusar a homologação CE ou a homologação de âmbito nacional,\n\nb) Proibir a matrícula, a venda ou a entrada em serviço de veículos novos.\n\n2. Com efeitos a partir de 15 de Dezembro de 2008, os Estados-Membros devem, no que diz respeito a um modelo de veículo que não cumpra os requisitos da presente directiva:\n\na) Recusar a homologação CE;\n\nb) Recusar a homologação nacional.\n\n3. Com efeitos a partir de 15 de Junho de 2010, os Estados-Membros devem, se as exigências da presente directiva não forem cumpridas:\n\na) Considerar que os certificados de conformidade que acompanham os veículos novos já não são válidos, para efeitos do n.º 1 do artigo 7.º da Directiva 70/156/CEE;\n\nb) Recusar a matrícula, a venda ou a entrada em serviço dos veículos novos, excepto nos casos em que for aplicável a alínea b) do n.º 2 do artigo 8.º da Directiva 70/156/CEE.\n\n4. O artigo 7.º é aplicável a partir de 15 de Dezembro de 2006."
+  },
+  "e494513c7cb1c951": {
+   "fragment_id": "Artigo 11.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Transposição\n\n1. Os Estados-Membros devem aprovar e publicar até 15 de Dezembro de 2006 as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva e comunicarão imediatamente à Comissão o texto dessas disposições.\n\nOs Estados-Membros devem aplicar essas disposições a partir de 15 de Dezembro de 2006.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "6673c03bdfa0abdd": {
+   "fragment_id": "Artigo 12.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "5a3998c21a5de7d5": {
+   "fragment_id": "Artigo 13.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Estrasburgo, em 26 de Outubro de 2006.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**J. BORRELL FONTELLES**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**D. ALEXANDER**\n\n---"
+  },
+  "f19e3ac73e32580d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/dcdff433-7132-4c59-909f-b38e83dec390.0017.03/DOC_1#ntc1-L_2005310PT.01001001-E0001) [JO C 74 de 23.3.2005, p. 15](http://publications.europa.eu/resource/oj/JOC_2005_074_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/dcdff433-7132-4c59-909f-b38e83dec390.0017.03/DOC_1#ntc2-L_2005310PT.01001001-E0002) Parecer do Parlamento Europeu de 14 de Abril de 2005 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 6 de Outubro de 2005.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/dcdff433-7132-4c59-909f-b38e83dec390.0017.03/DOC_1#ntc3-L_2005310PT.01001001-E0003) [JO L 269 de 21.10.2000, p. 34](http://publications.europa.eu/resource/oj/JOL_2000_269_R_TOC). Directiva com a última redacção que lhe foi dada pela Decisão 2005/673/CE do Conselho ([JO L 254 de 30.4.2005, p. 69](http://publications.europa.eu/resource/oj/JOL_2005_254_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/dcdff433-7132-4c59-909f-b38e83dec390.0017.03/DOC_1#ntc4-L_2005310PT.01001001-E0004) [JO L 42 de 23.2.1970, p. 1](http://publications.europa.eu/resource/oj/JOL_1970_042_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2005/49/CE da Comissão ([JO L 194 de 26.7.2005, p. 12](http://publications.europa.eu/resource/oj/JOL_2005_194_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/dcdff433-7132-4c59-909f-b38e83dec390.0017.03/DOC_1#ntc5-L_2005310PT.01001001-E0005) [JO C 321 de 31.12.2003, p. 1](http://publications.europa.eu/resource/oj/JOC_2003_321_R_TOC)."
+  }
+ }
+}

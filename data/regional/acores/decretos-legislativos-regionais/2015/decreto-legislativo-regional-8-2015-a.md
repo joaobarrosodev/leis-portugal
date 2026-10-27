@@ -1,0 +1,411 @@
+---
+schema_version: '1.0'
+id: pt:dre:66880175:por
+title: Decreto Legislativo Regional n.º 8/2015/A
+short_title: null
+summary: Oitava alteração ao Decreto Legislativo Regional n.º 8/2002/A, de 10 de abril, que estabelece o regime jurídico da
+  atribuição do acréscimo regional ao salário mínimo, do complemento regional de pensão e da remuneração complementar regional
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 8/2015/A
+official_date: null
+publication_date: '2015-03-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 62/2015, Série I de 2015-03-30
+  number: '62'
+  series: I
+  supplement: null
+  pages: 1719 - 1722
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/03/06200/0171901722.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/8/2015/03/30/a/dre/pt/html
+  oj: null
+  dre: '66880175'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/8-2015-66880175
+  internal: pt:dre:66880175:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175
+  metadata_url: https://data.dre.pt/eli/declegreg/8/2015/03/30/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:22:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8c3d956b5731bba4208696bc0ef0494f1e00f893267d9293d43f9acbd27ba18b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:06Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Administração Local
+- Administração Regional
+- Complemento Regional de Pensão
+- Estatuto Remuneratório
+- Pensionista
+- Remuneração Acessória
+- Remuneração Complementar Regional
+- Salário Mínimo
+relationships:
+- type: amended_by
+  target: pt:dre:164454929:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:73070297:por
+  label: Aumentado em 2% o valor do complemento regional de pensão, previsto no art. 13.º, fixando em € 758 o apoio atribuído
+    anualmente aos beneficiários do 1.º escalão; e alterados o n.º 2 do art. 10.º e o n.º 3 do art. 11.º, ambos do DLR 8/2002/A
+    de 10-Abr, com a redação e republicação efetuadas pelo presente diploma, pelo(a) Decreto Legislativo Regional n.º 1/2016/A
+    - Diário da República n.º 5/2016, Série I de 2016-01-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2016-73070297
+  date: '2016-01-08'
+- type: amended_by
+  target: pt:dre:114440373:por
+  label: Alterados os arts. 2.º, 6.º e 8.º do Regime Jurídico aprovado pelo DLR 8/2002/A, de 10-abr, na versão revista e republicada
+    pelo presente diploma pelo(a) Decreto Legislativo Regional n.º 1/2018/A - Diário da República n.º 2/2018, Série I de 2018-01-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2018-114440373
+  date: '2018-01-03'
+- type: amended_by
+  target: pt:dre:119397721:por
+  label: Alterado o art. 8.º do DLR 8/2002/A de 10-abr, na versão alterada e republicada pelo presente diploma e com a redação
+    dada pelo DLR 3/2017/A de 13 abr e pelo DLR 1/2018/A de 03-jan, pelo(a) Decreto Legislativo Regional n.º 6/2019/A - Diário
+    da República n.º 30/2019, Série I de 2019-02-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2019-119397721
+  date: '2019-02-12'
+- type: amended_by
+  target: pt:dre:122253267:por
+  label: Alterados, com efeitos a partir de 01.01.2019, os arts. 10.º e 11.º (ambos na redação do DLR 1/2016/A de 08-jan)
+    e revogados os n.ºs 3, 4 e 5 do art. 11.º do DLR 8/2002/A de 10-abr, na versão republicada pelo presente diploma, pelo(a)
+    Decreto Legislativo Regional n.º 8/2019/A - Diário da República n.º 89/2019, Série I de 2019-05-09 que procede à respetiva
+    republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-2019-122253267
+  date: '2019-05-09'
+- type: amended_by
+  target: pt:dre:127816253:por
+  label: Alterado, com efeitos a partir de 01.01.2020, o art. 6.º (na redação dos DLR 3/2017/A de 13-abr e 1/2018/A de 03-jan)
+    do DLR 8/2002/A de 10-abr, na versão republicada pelo presente diploma, e determinado, com efeitos à mesma data, que o
+    montante da remuneração complementar regional, a que se refere o n.º 1 do art. 11.º do referido DLR 8/2002/A, é atualizado
+    em cinco vezes a taxa de inflação do ano de 2019, pelo(a) Decreto Legislativo Regional n.º 1/2020/A - Diário da República
+    n.º 5/2020, Série I de 2020-01-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2020-127816253
+  date: '2020-01-08'
+- type: amended_by
+  target: pt:dre:164454929:por
+  label: Alterados, com efeitos a partir de 01.01.2021, os art. 6.º e 11.º do DLR 8/2002/A de 10-abr, na versão republicada
+    pelo presente diploma, e determinado, com efeitos à mesma data, que o montante da remuneração complementar regional, a
+    que se refere o n.º 1 do art. 11.º do presente diploma, é atualizado em 2,5 %. pelo(a) Decreto Legislativo Regional n.º
+    15-A/2021/A - Diário da República n.º 105/2021, 1º Suplemento, Série I de 2021-05-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-a-2021-164454929
+  date: '2021-05-31'
+- type: cites
+  target: pt:dre:261110:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/3/2013/05/23/a/dre
+- type: cites
+  target: pt:dre:303252:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/8/2002/04/10/a/dre
+- type: cites
+  target: pt:dre:341802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544588:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/3/2012/01/13/a/dre
+- type: cites
+  target: pt:dre:55042849:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/14/2014/08/01/a/dre
+- type: cites
+  target: pt:dre:56747377:por
+  label: null
+  source: http://data.dre.pt/eli/lei/75/2014/09/12/p/dre
+- type: cites
+  target: pt:dre:570685:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/2/2014/01/29/a/dre
+- type: cites
+  target: pt:dre:59077887:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/22/2014/11/27/a/dre
+- type: cites
+  target: pt:dre:609621:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/6/2010/02/23/a/dre
+- type: cites
+  target: pt:dre:629104:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/22/2007/10/23/a/dre
+article_structure:
+  article_count: 18
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:22:06Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 8/2015/A
+
+Oitava alteração ao [Decreto Legislativo Regional n.º 8/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2002-303252), de 10 de abril, alterado pelos [Decretos Legislativos Regionais n.os 22/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), de 23 de outubro, [6/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2010-609621), de 23 de fevereiro, [3/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), de 13 de janeiro, [3/2013/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-261110), de 23 de maio, [2/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), de 29 de janeiro, [14/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2014-55042849), de 1 de agosto e [22/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), de 27 de novembro, que estabelece o regime jurídico da atribuição do acréscimo regional à retribuição mínima mensal garantida, do complemento regional de pensão e da remuneração complementar regional.
+
+A Remuneração Complementar Regional atribuída aos trabalhadores da Administração Pública com residência permanente nos Açores, tendo subjacente de forma inquestionável, a sua vocação de conformação, como dimensão complementar do sistema de segurança e solidariedade social, com a realidade económica e financeira com que aqueles trabalhadores se vêm confrontando, carece, naturalmente, de ir adequando o seu regime à evolução daquela realidade, assegurando a estabilidade remuneratória dos trabalhadores da Administração Pública Regional.
+
+A [Lei n.º 75/2014](https://diariodarepublica.pt/dr/detalhe/lei/75-2014-56747377), de 12 de setembro, ao dispor a reversão da redução remuneratória em 20% a partir de 1 de janeiro de 2015, leva a que o legislador regional, vindo de encontro ao escopo daquela remuneração complementar, uma vez mais faça uso das competências constitucionais e estatutárias de que a Região, reconhecidamente, dispõe na matéria, para adequar tal remuneração ao novo contexto com que os trabalhadores se vêm confrontando.
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+Os artigos 10.º e 11.º do [Decreto Legislativo Regional n.º 8/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2002-303252), de 10 de abril, alterado pelos [Decretos Legislativos Regionais n.os 22/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), de 23 de outubro, [6/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2010-609621), de 23 de fevereiro, [3/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), de 13 de janeiro, [3/2013/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-261110), de 23 de maio, [2/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), de 29 de janeiro, [14/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2014-55042849), de 1 de agosto e [22/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), de 27 de novembro, passam a ter a seguinte redação:
+
+«Artigo 10.º
+
+[...]
+
+1 - Beneficiam de remuneração complementar os trabalhadores que exercem funções públicas na administração pública regional e local da Região Autónoma dos Açores, cuja remuneração base seja igual ou inferior a (euro) 1.304,99.
+
+2 - [...].
+
+Artigo 11.º
+
+[...]
+
+1 - [...]:
+
+a) [...];
+
+b) [...];
+
+c) 85 % para aqueles cuja remuneração base esteja compreendida entre (euro) 619,00 e (euro) 700,99, inclusive;
+
+d) 80 % para aqueles cuja remuneração base esteja compreendida entre (euro) 701,00 e (euro) 769,99, inclusive;
+
+e) 70 % para aqueles cuja remuneração base esteja compreendida entre (euro) 770,00 e (euro) 855,99, inclusive;
+
+f) 60 % para aqueles cuja remuneração base esteja compreendida entre (euro) 856,00 e (euro) 923,99, inclusive;
+
+g) 55 % para aqueles cuja remuneração base esteja compreendida entre (euro) 924,00 e (euro) 1.044,99, inclusive;
+
+h) 45 % para aqueles cuja remuneração base esteja compreendida entre (euro) 1.045,00 e (euro) 1.095,99, inclusive;
+
+i) 40 % para aqueles cuja remuneração base esteja compreendida entre (euro) 1.096,00 e 1.129,99, inclusive;
+
+j) 35 % para aqueles cuja remuneração base esteja compreendida entre (euro) 1.130,00 e 1.215,99, inclusive;
+
+k) 25 % para aqueles cuja remuneração base esteja compreendida entre (euro) 1.216,00 e (euro) 1.304,99, inclusive.
+
+2 - [...].
+
+3 - O montante mensal da remuneração complementar regional a que se refere o n.º 2 do artigo 10.º consta da tabela em anexo ao presente diploma, do qual faz parte integrante, sendo para o seu cálculo tido como referência o montante de (euro) 61,88.
+
+4 - [...].
+
+5 - [...].»
+
+###### Artigo 2.º — Republicação
+
+O [Decreto Legislativo Regional n.º 8/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2002-303252), de 10 de abril, alterado pelos [Decretos Legislativos Regionais n.os 22/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), de 23 de outubro, [6/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2010-609621), de 23 de fevereiro, [3/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), de 13 de janeiro, [3/2013/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-261110), de 23 de maio, [2/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), de 29 de janeiro, [14/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2014-55042849), de 1 de agosto e [22/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), de 27 de novembro, é devidamente republicado em anexo ao presente diploma, que dele é parte integrante, com as alterações ora introduzidas.
+
+###### Artigo 3.º — Entrada em vigor e produção de efeitos
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de janeiro de 2015.
+
+Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 11 de fevereiro de 2015.
+
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
+
+Assinado em Angra do Heroísmo em 13 de março de 2015.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+## ANEXO — (a que se refere o n.º 3 do artigo 11.º)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/03/06200/0171901722.pdf)
+
+## ANEXO — Republicação do [Decreto Legislativo Regional n.º 8/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2002-303252), de 10 de abril
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+O presente diploma estabelece o regime jurídico relativo à atribuição, na Região Autónoma dos Açores, do acréscimo regional à retribuição mínima mensal garantida, do complemento regional de pensão e da remuneração complementar regional.
+
+###### Artigo 2.º — Âmbito
+
+1 - O regime previsto neste diploma aplica-se aos trabalhadores que exercem funções públicas na administração pública regional e local e aos pensionistas com residência permanente na Região Autónoma dos Açores.
+
+2 - Para os efeitos do presente diploma, consideram-se trabalhadores quer os trabalhadores do serviço doméstico quer os dos restantes setores.
+
+3 - Para os efeitos do presente diploma, consideram-se pensionistas os beneficiários titulares de pensões, isoladas ou conjuntas, dos regimes de segurança social e de aposentados da função pública, incluindo os beneficiários de pensões sociais, de doenças profissionais, de sobrevivência, de acidente de trabalho, bem como os beneficiários de pensões de outros sistemas de proteção social.
+
+### CAPÍTULO II — Acréscimo regional à retribuição mínima mensal garantida
+
+###### Artigo 3.º — Montante
+
+O montante da retribuição mínima mensal garantida, estabelecido ao nível nacional para os trabalhadores por conta de outrem, tem, na Região Autónoma dos Açores, o acréscimo de 5 %.
+
+### CAPÍTULO III — Complemento regional de pensão
+
+###### Artigo 4.º — Beneficiários
+
+1 - Beneficiam do complemento regional de pensão os pensionistas que satisfaçam os requisitos previstos nos n.os 1 e 3 do artigo 2.º deste diploma.
+
+2 - Beneficiam igualmente do complemento regional de pensão os pensionistas de sistemas de segurança ou proteção social estrangeiros, cumulativamente ou não com pensões nacionais, e ainda os pensionistas do regime geral da segurança social que aufiram ajudas comunitárias à cessação de atividade, designadamente os produtores agrícolas abrangidos pela [Portaria n.º 32/95](https://diariodarepublica.pt/dr/detalhe/portaria/432-1995-510180), de 11 de maio, cujas ajudas deverão entrar no cálculo para a atribuição do respetivo complemento de pensão.
+
+3 - Os pensionistas mencionados nos números anteriores apenas beneficiam do complemento regional de pensão se os montantes globais auferidos se integrarem no disposto do n.º 2 do artigo 6.º.
+
+###### Artigo 5.º — Atribuição
+
+O complemento regional de pensão é atribuído mediante requerimento apresentado pelo interessado, sendo pago pelos serviços regionais da segurança social, em 14 mensalidades, das quais 2 no mês de julho e 2 no mês de dezembro.
+
+###### Artigo 6.º — Montante
+
+1 - O montante do complemento regional de pensão é determinado nos termos do artigo 13.º do presente diploma.
+
+2 - O montante efetivo a abonar é determinado de acordo com as seguintes regras:
+
+a) A totalidade para aqueles cuja pensão seja inferior ou igual à retribuição mínima mensal garantida;
+
+b) 90 % para aqueles cuja pensão seja superior à retribuição mínima mensal garantida e inferior ou igual a 1,044 desse valor;
+
+c) 70 % para aqueles cuja pensão seja superior a 1,044 da retribuição mínima mensal garantida e inferior ou igual a 1,339 desse valor;
+
+d) 50 % para aqueles cuja pensão seja superior a 1,339 do salário mínimo e inferior ou igual a (euro) 696,00;
+
+e) 50 % para aqueles cuja pensão seja superior a 1,339 do salário mínimo e inferior ou igual a (euro) 1.693,00, no caso de pensionistas deficientes.
+
+3 - Para efeitos de apuramento de rendimentos são excluídos os montantes auferidos a título de complemento por dependência, complemento por cônjuge a cargo, complemento solidário para idoso e outros de natureza análoga.
+
+4 - Sempre que da atribuição do complemento regional de pensão resultar a mudança da taxa de incidência do imposto sobre o rendimento das pessoas singulares (IRS), devidamente comprovada pelo beneficiário, será garantido, sobre o montante ilíquido apurado nos termos do número anterior, o acréscimo de complemento, correspondente a 25 % do quantitativo referido no mesmo número.
+
+###### Artigo 7.º — Cabimento orçamental
+
+No orçamento da Região existirá, em rubrica própria, a verba necessária à satisfação da execução do complemento regional de pensão, sob a designação «Complemento regional de pensão».
+
+###### Artigo 8.º — Prova de pensão auferida e prova de residência
+
+1 - De janeiro a março de cada ano, os beneficiários apresentarão nos serviços da segurança social documento que comprove o quantitativo que auferem referente à pensão ou pensões que lhes dá o direito ao complemento regional de pensão, excluindo aquelas que sejam do conhecimento oficioso daquela entidade.
+
+2 - Os pensionistas referidos no artigo 4.º deverão, na data mencionada no número anterior, fazer prova de possuírem residência permanente na Região.
+
+3 - Para efeitos do número anterior, entende-se por residência permanente a residência na Região ou permanência no respetivo território por mais de 183 dias, nesta se situando a sua residência habitual e que aí esteja registado para efeitos fiscais.
+
+4 - Excluem-se do disposto no n.º 2 os beneficiários que se encontrem em situação de doença prolongada e os estudantes deslocados fora da Região, cuja situação se encontre devidamente comprovada.
+
+5 - Qualquer cidadão que passe à situação de pensionista e reúna as condições para beneficiar do complemento regional de pensão deve apresentar, conjuntamente com o requerimento, nos 90 dias subsequentes, os documentos que comprovem o quantitativo da respetiva pensão e prova de residência, respetivamente, nos termos dos números anteriores.
+
+6 - O requerimento referido no número anterior, bem como os documentos referidos nos n.os 1, 2 e 4, poderão ainda ser apresentados em qualquer momento para além daquele prazo, processando-se, neste caso, o respetivo complemento a partir do mês seguinte à data da sua apresentação.
+
+### CAPÍTULO IV — Remuneração complementar regional
+
+###### Artigo 9.º — Processamento
+
+1 - A remuneração complementar regional é abonada em 14 mensalidades.
+
+2 - À remuneração complementar regional é aplicável o regime da remuneração base quanto a férias, faltas e processo de pagamento, sobre ela incidindo os descontos obrigatórios previstos na lei.
+
+###### Artigo 10.º — Beneficiários
+
+1 - Beneficiam de remuneração complementar os trabalhadores que exercem funções públicas na administração pública regional e local da Região Autónoma dos Açores, cuja remuneração base seja igual ou inferior a (euro) 1.304,99.
+
+2 - Beneficiam, ainda, de remuneração complementar os trabalhadores que exercem funções públicas na administração pública regional da Região Autónoma dos Açores, cujas remunerações totais ilíquidas mensais sejam superiores a (euro) 1.500,00 e até (euro) 2.080,00, inclusive.
+
+###### Artigo 11.º — Montante
+
+1 - O montante mensal da remuneração complementar regional a que se refere o n.º 1 do artigo 10.º é determinado nos termos do artigo 13.º do presente diploma, sendo o montante efetivo a abonar determinado de acordo com as seguintes regras:
+
+a) A totalidade para aqueles cuja remuneração base seja igual ou inferior à retribuição mínima mensal garantida (RMMG);
+
+b) 90 % para aqueles cuja remuneração base seja superior à RMMG e inferior a (euro) 619,00;
+
+c) 85 % para aqueles cuja remuneração base esteja compreendida entre (euro) 619,00 e (euro) 700,99, inclusive;
+
+d) 80 % para aqueles cuja remuneração base esteja compreendida entre (euro) 701,00 e (euro) 769,99, inclusive;
+
+e) 70 % para aqueles cuja remuneração base esteja compreendida entre (euro) 770,00 e (euro) 855,99, inclusive;
+
+f) 60 % para aqueles cuja remuneração base esteja compreendida entre (euro) 856,00 e (euro) 923,99, inclusive;
+
+g) 55 % para aqueles cuja remuneração base esteja compreendida entre (euro) 924,00 e (euro) 1.044,99, inclusive;
+
+h) 45 % para aqueles cuja remuneração base esteja compreendida entre (euro) 1.045,00 e (euro) 1.095,99, inclusive;
+
+i) 40 % para aqueles cuja remuneração base esteja compreendida entre (euro) 1.096,00 e (euro) 1.129,99, inclusive;
+
+j) 35 % para aqueles cuja remuneração base esteja compreendida entre (euro) 1.130,00 e (euro) 1.215,99, inclusive;
+
+k) 25 % para aqueles cuja remuneração base esteja compreendida entre (euro) 1.216,00 e (euro) 1.304,99, inclusive.
+
+2 - Sempre que da aplicação do disposto no número anterior resultar uma mudança da taxa de incidência do imposto sobre o rendimento das pessoas singulares (IRS), será garantido, mediante requerimento do interessado e sobre o montante apurado, o acréscimo de remuneração complementar regional correspondente a 25 % do quantitativo referido no mesmo número.
+
+3 - O montante mensal da remuneração complementar regional a que se refere o n.º 2 do artigo 10.º consta da tabela em anexo ao presente diploma, do qual faz parte integrante, sendo para o seu cálculo tido como referência o montante de (euro) 61,88.
+
+4 - A decisão de atribuição da remuneração complementar a que se refere o n.º 2 do artigo 10.º aos trabalhadores da administração local e do setor empresarial local compete aos respetivos órgãos decisórios.
+
+5 - A atribuição de uma remuneração complementar a trabalhadores do setor público empresarial regional e respetiva tabela faz-se nos termos a determinar em resolução do Governo Regional.
+
+###### Artigo 12.º — Aplicação do montante relativo ao acréscimo regional à retribuição mínima mensal garantida
+
+Qualquer trabalhador que tenha direito à remuneração complementar e que em resultado da aplicação das regras referidas no artigo anterior aufira uma remuneração global inferior ao resultante do montante referido no artigo 3.º passa a perceber um montante pecuniário a este idêntico.
+
+### CAPÍTULO V — Disposições finais
+
+###### Artigo 13.º — Atualização de montantes
+
+1 - Os montantes do complemento regional de pensão e da remuneração complementar regional a que se referem, respetivamente, o n.º 1 do artigo 6.º e o n.º 1 do artigo 11.º do presente diploma são fixados e atualizados anualmente mediante resolução do Conselho do Governo Regional, com efeitos a partir de 1 de janeiro de cada ano, tendo em conta, designadamente, os valores previstos para a inflação, não podendo, no entanto, aquelas atualizações ser inferiores ao aumento percentual que vier a ser fixado para tabela remuneratória única dos trabalhadores que exercem funções públicas.
+
+2 - Para os efeitos do disposto no número anterior, o Governo Regional ouvirá o Conselho Regional de Concertação Estratégica.
+
+###### Artigo 14.º — Legislação revogada
+
+São revogados os Decretos Legislativos Regionais n.os 1/2000/A, 2/2000/A, 3/2000/A, todos de 12 de janeiro, e o artigo 16.º do [Decreto Legislativo Regional n.º 8/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2001-341802), de 21 de maio.
+
+###### Artigo 15.º — Produção de efeitos
+
+O presente diploma produz efeitos a partir de 1 de janeiro de 2002.
+
+## ANEXO — (a que se refere o n.º 3 do artigo 11.º)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/03/06200/0171901722.pdf)

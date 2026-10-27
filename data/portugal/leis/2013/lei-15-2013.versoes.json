@@ -1,0 +1,523 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:257806:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2013-74934612",
+ "dre_path": "/dr/detalhe/lei/15-2013-257806",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-02-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75413798",
+    "75413799",
+    "75413800",
+    "75413801",
+    "75413802",
+    "75413803",
+    "75413804",
+    "75413805",
+    "75413806",
+    "75413807",
+    "75413808",
+    "75413809",
+    "75413810",
+    "75413811",
+    "75413812",
+    "75413813",
+    "75413814",
+    "75413815",
+    "75413816",
+    "75413817",
+    "75413818",
+    "75413819",
+    "75413820",
+    "75413821",
+    "75413822",
+    "75413823",
+    "75413824",
+    "75413825",
+    "75413826",
+    "75413827",
+    "75413828",
+    "75413829",
+    "75413830",
+    "75413831",
+    "75413832",
+    "75413833",
+    "75413834",
+    "75413835",
+    "75413836",
+    "75413837",
+    "75413838",
+    "75413839",
+    "75413840",
+    "75413841",
+    "75413842",
+    "75413843",
+    "75413844",
+    "75413845",
+    "75413846",
+    "75413847",
+    "75413848",
+    "75413849",
+    "75413850",
+    "75413851",
+    "75413853"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:108041482:por",
+     "title": "Decreto-Lei n.º 102/2017",
+     "published": "2017-08-23",
+     "dre_path": "/dr/detalhe/decreto-lei/102-2017-108041482",
+     "date": "2017-07-01"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "75413798": {
+   "fragment_id": "74934613",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 15/2013\n\nde 8 de fevereiro\n\nEstabelece o regime jurídico a que fica sujeita a atividade de mediação imobiliária, conformando-o com a disciplina constante do Decreto-Lei n.º 92/2010, de 26 de julho, que transpôs para a ordem jurídica interna a Diretiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0123\" title=\"Link para Directiva da Comunidade Europeia\">2006/123/CE</a>, do Parlamento Europeu e do Conselho, de 12 de dezembro de 2006, relativa aos serviços no mercado interno.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "75413799": {
+   "fragment_id": "74934614",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "75413800": {
+   "fragment_id": "74934615",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1 - A presente lei estabelece o regime jurídico a que fica sujeito o acesso e o exercício da atividade de mediação imobiliária, conformando-o com a disciplina constante do Decreto-Lei n.º 92/2010, de 26 de julho, que transpôs para a ordem jurídica interna a Diretiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0123\" title=\"Link para Directiva da Comunidade Europeia\">2006/123/CE</a>, do Parlamento Europeu e do Conselho, de 12 de dezembro de 2006, relativa aos serviços no mercado interno.\n\n2 - O exercício da atividade de mediação imobiliária fora do território nacional não se encontra abrangido pelo regime estabelecido na presente lei, ainda que o destinatário dos serviços se encontre em território nacional no momento da prestação do serviço, ou tenha aqui sede ou domicílio principal, ou que o serviço incida sobre imóvel localizado em território nacional."
+  },
+  "75413801": {
+   "fragment_id": "74934616",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - A atividade de mediação imobiliária consiste na procura, por parte das empresas, em nome dos seus clientes, de destinatários para a realização de negócios que visem a constituição ou aquisição de direitos reais sobre bens imóveis, bem como a permuta, o trespasse ou o arrendamento dos mesmos ou a cessão de posições em contratos que tenham por objeto bens imóveis.\n\n2 - A atividade de mediação imobiliária consubstancia-se também no desenvolvimento das seguintes ações:\n\na) Prospeção e recolha de informações que visem encontrar os bens imóveis pretendidos pelos clientes;\n\nb) Promoção dos bens imóveis sobre os quais os clientes pretendam realizar negócios jurídicos, designadamente através da sua divulgação ou publicitação, ou da realização de leilões.\n\n3 - Considera-se empresa de mediação imobiliária a pessoa singular ou coletiva cujo domicílio ou sede se situe em qualquer Estado do Espaço Económico Europeu e, sendo pessoa coletiva, tenha sido constituída ao abrigo da lei de qualquer desses Estados e se dedique à atividade de mediação imobiliária, referida nos números anteriores.\n\n4 - As empresas de mediação imobiliária podem ainda prestar serviços que não estejam legalmente atribuídos em exclusivo a outras profissões, de obtenção de documentação e de informação necessários à concretização dos negócios objeto dos contratos de mediação imobiliária que celebrem.\n\n5 - Considera-se destinatário do serviço, para efeitos do número anterior, a pessoa ou entidade que celebra com o cliente da empresa de mediação imobiliária qualquer negócio por esta mediado.\n\n6 - É designada por cliente a pessoa ou entidade que celebra com uma empresa habilitada nos termos da presente lei um contrato visando a prestação de serviços de mediação imobiliária."
+  },
+  "75413802": {
+   "fragment_id": "74934617",
+   "type": 11,
+   "heading": "Artigo 3.º — Atividade de mediação imobiliária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atividade de mediação imobiliária\n\n1 - A atividade de mediação imobiliária só pode ser exercida em território nacional por empresas de mediação imobiliária e mediante contrato.\n\n2 - O Instituto da Construção e do Imobiliário, I. P., doravante designado por InCI, é a autoridade competente, nos termos da presente lei e da sua Lei Orgânica aprovada pelo Decreto-Lei n.º 158/2012, de 23 de julho, para regular, supervisionar e fiscalizar a atividade de mediação imobiliária em território nacional."
+  },
+  "75413803": {
+   "fragment_id": "74934618",
+   "type": 1,
+   "heading": "Capítulo II — Exercício da atividade por prestadores estabelecidos em Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Exercício da atividade por prestadores estabelecidos em Portugal"
+  },
+  "75413804": {
+   "fragment_id": "74934619",
+   "type": 8,
+   "heading": "Secção I — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Licenciamento"
+  },
+  "75413805": {
+   "fragment_id": "74934620",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regime de acesso\n\n1 - Sem prejuízo do disposto no artigo 21.º, o exercício da atividade de mediação imobiliária por prestador individual ou coletivo estabelecido em território nacional depende de licença a conceder pelo InCI.\n\n2 - O InCI emite cartões de identificação aos responsáveis legais das empresas de mediação imobiliária por si licenciadas, que devem exibi-los em todos os atos em que intervenham nessa qualidade.\n\n3 - As licenças concedidas pelo InCI e os cartões de identificação por si emitidos têm validade ilimitada no tempo, sem prejuízo da caducidade das licenças por incumprimento dos requisitos exigidos no artigo seguinte, nos termos do artigo 9.º, e da sua suspensão ou cancelamento, nos termos dos artigos 10.º e 11.º, respetivamente."
+  },
+  "75413806": {
+   "fragment_id": "74934621",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisitos de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos de licenciamento\n\nO licenciamento para o exercício da atividade de mediação imobiliária depende do preenchimento cumulativo, pelos requerentes, dos seguintes requisitos:\n\na) Possuir idoneidade comercial, nos termos do artigo seguinte;\n\nb) Ser detentor de seguro de responsabilidade civil ou garantia financeira ou instrumento equivalente que o substitua, nos termos do disposto no artigo 7.º"
+  },
+  "75413807": {
+   "fragment_id": "74934622",
+   "type": 11,
+   "heading": "Artigo 6.º — Idoneidade comercial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Idoneidade comercial\n\n1 - Não são consideradas comercialmente idóneas as empresas de mediação imobiliária e respetivos representantes legais que tenham sido declarados insolventes, salvo se decretado judicialmente plano de insolvência.\n\n2 - Não são considerados comercialmente idóneos os representantes legais de empresas de mediação que:\n\na) Estejam legalmente impedidos de exercer o comércio;\n\nb) Se encontrem inibidos do exercício do comércio, tendo tal inibição sido declarada em processo de insolvência, enquanto não for levantada a inibição ou decretada a reabilitação;\n\nc) Tenham sido representantes legais de uma empresa de mediação imobiliária punida, pelo menos duas vezes, com coima pela prática dolosa dos ilícitos de mera ordenação social previstos na alínea b) do n.º 1 do artigo 32.º;\n\nd) Tenham sido punidos ou tenham sido representantes legais de empresa de mediação imobiliária punida com coima pela prática dolosa do ilícito de mera ordenação social referido na alínea a) do n.º 1 do artigo 32.º, desde que fique demonstrada a violação repetida de um dos deveres estipulados no artigo 17.º, nos n.os 1 e 2 do artigo 18.º e no n.º 3 do artigo 19.º;\n\ne) Tenham sido representantes legais de empresa de mediação imobiliária punida com a sanção acessória de interdição do exercício da atividade, nos termos da alínea b) do n.º 3 do artigo 32.º, durante o período dessa interdição.\n\n3 - Não são também considerados comercialmente idóneos os representantes legais de empresas de mediação imobiliária que tenham sido condenados em pena de prisão efetiva, transitada em julgado, pela prática de qualquer dos seguintes crimes:\n\na) Abuso de confiança ou burla;\n\nb) Falsificação de documento, quando praticado no âmbito do exercício da atividade de mediação imobiliária;\n\nc) Corrupção ativa ou passiva;\n\nd) Desobediência, quando praticado no âmbito do exercício da atividade de mediação imobiliária;\n\ne) Quebra de marcas ou de selos, quando praticado no âmbito do exercício da atividade de mediação imobiliária;\n\nf) Arrancamento, destruição ou alteração de editais, quando praticado no âmbito do exercício da atividade de mediação imobiliária;\n\ng) Crimes previstos no Código da Propriedade Industrial;\n\nh) Crimes relativos ao branqueamento de capitais.\n\n4 - As condenações referidas nas alíneas c) e d) do n.º 2 não relevam após o decurso do prazo de dois anos a contar do cumprimento integral das obrigações decorrentes da aplicação da última sanção.\n\n5 - O InCI só considera como relevantes, para aferição da idoneidade no âmbito das condenações criminais referidas no n.º 3, as que constem do respetivo registo criminal e tenham transitado em julgado há menos de cinco anos."
+  },
+  "75413808": {
+   "fragment_id": "74934623",
+   "type": 11,
+   "heading": "Artigo 7.º — Seguro de responsabilidade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Seguro de responsabilidade civil\n\n1 - Para garantia da responsabilidade emergente da sua atividade, as empresas de mediação imobiliária estabelecidas em território nacional devem ser titulares de seguro de responsabilidade civil, no montante mínimo de (euro) 150 000.\n\n2 - O seguro previsto no número anterior, tal como a garantia financeira ou instrumento equivalente que o substituam, podem ser contratados noutro Estado do Espaço Económico Europeu, nos termos dos n.os 2 e 3 do artigo 13.º do Decreto-Lei n.º 92/2010, de 26 de julho.\n\n3 - O seguro previsto no n.º 1 deve satisfazer as condições mínimas fixadas no anexo i à presente lei, que dela faz parte integrante.\n\n4 - O seguro de responsabilidade civil destina-se ao ressarcimento dos danos patrimoniais causados a terceiros, decorrentes de ações ou omissões das empresas, dos seus representantes e dos seus colaboradores.\n\n5 - Para efeitos do presente artigo, consideram-se terceiros todos os que, em resultado de um ato de mediação imobiliária, venham a sofrer danos patrimoniais, ainda que não tenham sido parte no contrato de mediação imobiliária."
+  },
+  "75413809": {
+   "fragment_id": "74934624",
+   "type": 11,
+   "heading": "Artigo 8.º — Pedidos de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Pedidos de licenciamento\n\n1 - Os pedidos de licenciamento são apresentados em modelo próprio do InCI, preferencialmente por via eletrónica, com acesso através do balcão único eletrónico dos serviços previsto nos artigos 5.º e 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, ou, em alternativa, presencialmente nos serviços do InCI, ou por via postal.\n\n2 - Caso os pedidos contenham omissões ou deficiências suscetíveis de suprimento ou de correção, ou quando se verifiquem irregularidades ou insuficiências relativas aos documentos instrutórios exigíveis e cuja falta não possa ser oficiosamente suprida, os requerentes são notificados, no prazo de 10 dias a contar da apresentação, para efetuarem as correções necessárias ou apresentarem os documentos em falta, dentro de um prazo fixado pelo InCI que não pode ser inferior a 15 dias, sob pena de indeferimento do pedido.\n\n3 - O regime previsto no número anterior é igualmente aplicável quando o requerente não tenha apresentado documento comprovativo do pagamento, em falta, de coimas aplicadas pelo InCI por decisão tornada definitiva.\n\n4 - O InCI emite decisão sobre o pedido, no prazo de 20 dias a contar da data da receção do pedido ou dos elementos solicitados nos termos do n.º 2 ou, quando estes não forem entregues, a contar do termo do prazo concedido para a respetiva apresentação.\n\n5 - A decisão final é notificada ao interessado no prazo máximo de cinco dias e precedida de audiência dos interessados, nos termos previstos no Código do Procedimento Administrativo.\n\n6 - Decorrido o prazo previsto no n.º 4 sem que tenha sido proferida a decisão final, o pedido considera-se tacitamente deferido, sem prejuízo do disposto no n.º 8.\n\n7 - Proferida a decisão final ou verificando-se o caso previsto no número anterior, o InCI emite, nos 10 dias seguintes, a guia para pagamento da taxa devida.\n\n8 - O pagamento da taxa no prazo fixado na respetiva guia, emitida automaticamente por via informática, bem como o pagamento das coimas eventualmente em dívida, juntamente com a apresentação da apólice do seguro ou de comprovativo da garantia financeira ou instrumento equivalente a que se refere o artigo anterior, são condição de eficácia do deferimento do pedido.\n\n9 - Em caso de extinção do procedimento por falta de pagamento da taxa devida dentro do prazo fixado, pode ser apresentado novo pedido antes de decorrido um ano desde a data da extinção, implicando nesse caso o agravamento da nova taxa, nos termos estabelecidos na portaria prevista no n.º 2 do artigo 42.º da presente lei."
+  },
+  "75413810": {
+   "fragment_id": "74934625",
+   "type": 11,
+   "heading": "Artigo 9.º — Caducidade da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Caducidade da licença\n\n1 - A licença de mediação imobiliária caduca:\n\na) Oficiosamente, sempre que o InCI determine que a empresa deixou de cumprir os requisitos de licenciamento referidos no artigo 5.º;\n\nb) Quando a empresa de mediação imobiliária comunicar ao InCI que pretende cessar a sua atividade em território nacional.\n\n2 - Para efeitos de controlo da validade da licença, o InCI recolhe e analisa, por via eletrónica e se necessário com recurso ao sistema de informação do mercado interno, os elementos que possam ser obtidos oficiosamente, notificando os interessados para apresentarem, em prazo que não pode ser inferior a 20 dias, os demais elementos necessários."
+  },
+  "75413811": {
+   "fragment_id": "74934626",
+   "type": 11,
+   "heading": "Artigo 10.º — Suspensão da licença ou registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Suspensão da licença ou registo\n\nAs licenças ou os registos referidos no artigo 21.º são suspensos quando as empresas o requeiram, não podendo o período de suspensão ser superior a um ano."
+  },
+  "75413812": {
+   "fragment_id": "74934627",
+   "type": 11,
+   "heading": "Artigo 11.º — Cancelamento da licença ou registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cancelamento da licença ou registo\n\nSão canceladas as licenças ou os registos:\n\na) Das empresas que o requeiram;\n\nb) Das empresas a que tenha sido aplicada a sanção de interdição do exercício da atividade prevista na alínea b) do n.º 3 do artigo 32.º;\n\nc) Quando ocorra a extinção da empresa ou a cessação da respetiva atividade de mediação imobiliária;\n\nd) Das empresas que não procedam ao pagamento voluntário das coimas aplicadas por decisão tornada definitiva, nos termos do artigo 32.º;\n\ne) Das empresas que não paguem as taxas a que se encontram sujeitas nos termos da presente lei e outras taxas que possam encontrar-se em dívida ao InCI."
+  },
+  "75413813": {
+   "fragment_id": "74934628",
+   "type": 11,
+   "heading": "Artigo 12.º — Efeitos da caducidade, da suspensão e do cancelamento da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Efeitos da caducidade, da suspensão e do cancelamento da licença\n\n1 - As empresas de mediação imobiliária cujas licenças ou registos tenham caducado, sido objeto de suspensão ou cancelamento ficam impedidas do exercício da respetiva atividade.\n\n2 - A caducidade, a suspensão ou o cancelamento das licenças ou registos determinam:\n\na) O encerramento dos estabelecimentos e postos provisórios afetos à atividade de mediação imobiliária da empresa em território nacional, sob pena de encerramento coercivo pelas autoridades competentes, ficando vedado o exercício da atividade nos respetivos estabelecimentos e postos a partir da data de receção da pertinente notificação;\n\nb) A entrega ao InCI dos cartões de identificação dos respetivos representantes legais por este emitidos, no prazo máximo de oito dias a contar da data da notificação da decisão pertinente, sob pena de apreensão imediata pelas autoridades competentes;\n\nc) A caducidade dos contratos de mediação imobiliária em vigor celebrados pela empresa relativos ao exercício da atividade em território nacional."
+  },
+  "75413814": {
+   "fragment_id": "74934629",
+   "type": 8,
+   "heading": "Secção II — Condições de exercício da atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Condições de exercício da atividade"
+  },
+  "75413815": {
+   "fragment_id": "74934630",
+   "type": 11,
+   "heading": "Artigo 13.º — Denominação e identificação das empresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Denominação e identificação das empresas\n\n1 - A utilização da denominação «mediação imobiliária» é exclusiva das empresas que operem legalmente em Portugal na atividade respetiva.\n\n2 - As empresas de mediação imobiliária devem evidenciar a sua identificação em todos os estabelecimentos de que disponham em território nacional, incluindo nos postos provisórios, com indicação da denominação e do número da respetiva licença ou do seu registo no InCI.\n\n3 - O disposto no número anterior aplica-se a todos os contratos sujeitos à lei portuguesa, correspondência, documentos contabilísticos, publicações, publicidade e, de um modo geral, a toda a atividade externa de mediação imobiliária em território nacional.\n\n4 - O disposto no presente artigo é também aplicável a todas as empresas de mediação imobiliária que desenvolvam a sua atividade em território nacional no âmbito de contratos de concessão ou uso de marcas, incluindo os de franquia."
+  },
+  "75413816": {
+   "fragment_id": "74934631",
+   "type": 11,
+   "heading": "Artigo 14.º — Estabelecimentos de atendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Estabelecimentos de atendimento\n\n1 - A abertura, a alteração da localização ou o encerramento dos estabelecimentos de atendimento público das empresas de mediação imobiliária devem ser comunicados ao InCI no prazo de 30 dias a contar do facto respetivo, pelos meios indicados no n.º 1 do artigo 8.º\n\n2 - As empresas não podem efetuar atendimento público em instalações destinadas a habitação, salvo em imóveis ou empreendimentos de cuja mediação estejam encarregadas."
+  },
+  "75413817": {
+   "fragment_id": "74934632",
+   "type": 11,
+   "heading": "Artigo 15.º — Negócios sobre estabelecimentos de atendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Negócios sobre estabelecimentos de atendimento\n\nA aquisição por trespasse ou a cessão de exploração de estabelecimentos de atendimento afetos à atividade de mediação imobiliária não conferem ao adquirente o direito ao exercício da mesma, salvo se for titular de licença obtida nos termos dos artigos 8.º ou 21.º ou opere em território nacional nos termos do artigo 22.º"
+  },
+  "75413818": {
+   "fragment_id": "74934633",
+   "type": 11,
+   "heading": "Artigo 16.º — Contrato de mediação imobiliária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Contrato de mediação imobiliária\n\n1 - O contrato de mediação imobiliária é obrigatoriamente reduzido a escrito.\n\n2 - Do contrato constam, obrigatoriamente, os seguintes elementos:\n\na) A identificação das características do bem imóvel que constitui objeto material do contrato, com especificação de todos os ónus e encargos que sobre ele recaiam;\n\nb) A identificação do negócio visado pelo exercício de mediação;\n\nc) As condições de remuneração da empresa, em termos fixos ou percentuais, bem como a forma de pagamento, com indicação da taxa de IVA aplicável;\n\nd) A identificação do seguro de responsabilidade civil ou da garantia financeira ou instrumento equivalente previsto no artigo 7.º, com indicação da apólice e entidade seguradora ou, quando aplicável, do capital garantido;\n\ne) A identificação do angariador imobiliário que, eventualmente, tenha colaborado na preparação do contrato;\n\nf) A identificação discriminada de eventuais serviços acessórios a prestar pela empresa;\n\ng) A referência ao regime de exclusividade, quando acordado, com especificação dos efeitos que do mesmo decorrem, quer para a empresa quer para o cliente.\n\n3 - Quando o contrato for omisso quanto ao respetivo prazo de duração, considera-se celebrado por um período de seis meses.\n\n4 - Os modelos de contratos com cláusulas contratuais gerais só podem ser utilizados pela empresa após validação dos respetivos projetos pela Direção-Geral do Consumidor.\n\n5 - O incumprimento do disposto nos n.os 1, 2 e 4 do presente artigo determina a nulidade do contrato, não podendo esta, contudo, ser invocada pela empresa de mediação.\n\n6 - O disposto nos números anteriores aplica-se apenas a contratos sujeitos à lei portuguesa."
+  },
+  "75413819": {
+   "fragment_id": "74934634",
+   "type": 11,
+   "heading": "Artigo 17.º — Deveres para com os clientes e destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Deveres para com os clientes e destinatários\n\n1 - A empresa de mediação é obrigada a:\n\na) Certificar-se, no momento da celebração do contrato de mediação, que os seus clientes têm capacidade e legitimidade para contratar nos negócios que irá promover;\n\nb) Certificar-se da correspondência entre as características do imóvel objeto do contrato de mediação e as fornecidas pelos clientes;\n\nc) Propor aos destinatários os negócios de que for encarregada, fazendo uso da maior exatidão e clareza quanto às características, preço e condições de pagamento do imóvel em causa, de modo a não os induzir em erro;\n\nd) Comunicar imediatamente aos destinatários qualquer facto que possa pôr em causa a concretização do negócio visado.\n\n2 - Está expressamente vedado à empresa de mediação:\n\na) Receber remuneração de clientes e destinatários no mesmo negócio;\n\nb) Intervir como parte interessada em qualquer negócio que incida sobre imóvel compreendido no contrato de mediação de que seja parte;\n\nc) Celebrar contratos de mediação imobiliária quando as circunstâncias do caso permitirem, razoavelmente, duvidar da licitude do negócio cuja promoção lhe for proposta;\n\nd) Proceder à avaliação imobiliária dos imóveis objeto da mediação, bem como de todos os imóveis integrados nas carteiras das mediadoras imobiliárias com as quais mantenha qualquer relação de domínio ou de grupo ou daquelas que se apresentem no mercado sob a mesma marca comercial.\n\n3 - A proibição contida na alínea b) do número anterior aplica-se igualmente no caso de o interessado no negócio ser sócio ou representante legal da empresa de mediação, ou ser cônjuge, ascendente ou descendente no 1.º grau de qualquer daqueles.\n\n4 - O disposto nos números anteriores aplica-se apenas a contratos sujeitos à lei portuguesa."
+  },
+  "75413820": {
+   "fragment_id": "74934635",
+   "type": 11,
+   "heading": "Artigo 18.º — Quantias prestadas pelos destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Quantias prestadas pelos destinatários\n\n1 - Consideram-se depositadas à guarda da empresa de mediação quaisquer quantias recebidas dos destinatários de negócio por si mediado, mesmo que a título de preço, que lhe sejam confiadas antes da celebração do mesmo ou do respetivo contrato-promessa, devendo restituí-las imediatamente a quem as prestou, logo que para tal solicitada.\n\n2 - É expressamente vedado às empresas de mediação utilizar em proveito próprio as quantias referidas nos números anteriores.\n\n3 - O depósito efetuado nos termos do n.º 1 é gratuito, aplicando-se, com as necessárias adaptações, as disposições previstas no Código Civil para o contrato de depósito.\n\n4 - O disposto nos números anteriores aplica-se apenas a contratos sujeitos à lei portuguesa."
+  },
+  "75413821": {
+   "fragment_id": "74934636",
+   "type": 11,
+   "heading": "Artigo 19.º — Remuneração da empresa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Remuneração da empresa\n\n1 - A remuneração da empresa é devida com a conclusão e perfeição do negócio visado pelo exercício da mediação ou, se tiver sido celebrado contrato-promessa e no contrato de mediação imobiliária estiver prevista uma remuneração à empresa nessa fase, é a mesma devida logo que tal celebração ocorra.\n\n2 - É igualmente devida à empresa a remuneração acordada nos casos em que o negócio visado no contrato de mediação tenha sido celebrado em regime de exclusividade e não se concretize por causa imputável ao cliente proprietário ou arrendatário trespassante do bem imóvel.\n\n3 - Quando o cliente for um potencial comprador ou arrendatário, a empresa, desde que tal resulte expressamente do respetivo contrato de mediação imobiliária, pode cobrar quantias a título de adiantamento por conta da remuneração acordada, devendo as mesmas ser devolvidas ao cliente caso o negócio não se concretize.\n\n4 - O direito da empresa à remuneração cujo pagamento caiba ao cliente proprietário de imóvel objeto de contrato de mediação não é afastado pelo exercício de direito legal de preferência sobre o dito imóvel.\n\n5 - O disposto nos números anteriores aplica-se apenas a contratos sujeitos à lei portuguesa."
+  },
+  "75413822": {
+   "fragment_id": "74934637",
+   "type": 11,
+   "heading": "Artigo 20.º — Deveres gerais das empresas de mediação imobiliária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Deveres gerais das empresas de mediação imobiliária\n\n1 - As empresas de mediação imobiliária estabelecidas em território nacional são obrigadas a:\n\na) Comunicar ao InCI qualquer alteração verificada nos requisitos previstos no artigo 5.º, no prazo de 15 dias a contar da respetiva ocorrência;\n\nb) Comunicar ao InCI, no prazo de 30 dias a contar da respetiva ocorrência, todas as alterações que impliquem atualização de dados identificativos da empresa, bem como, para as sociedades com sede em território nacional ou constituídas ao abrigo da lei portuguesa, quaisquer modificações introduzidas no respetivo contrato de sociedade;\n\nc) Organizar e conservar atualizado um registo de todos os contratos de mediação celebrados no exercício da respetiva atividade;\n\nd) Conservar em arquivo cópia de todos os contratos de mediação celebrados no exercício da atividade, pelo período mínimo de cinco anos a contar da respetiva assinatura;\n\ne) Conservar atualizado um arquivo de todos os contratos de trabalho e de prestação de serviços celebrados quer com técnicos de mediação imobiliária, quer com angariadores imobiliários;\n\nf) Dispor de livro de reclamações em todos os estabelecimentos e postos provisórios situados em território nacional;\n\ng) Prestar ao InCI todas as informações, documentação e demais elementos relacionados com a sua atividade, bem como facultar-lhe o acesso às instalações, aos livros de registo e de reclamações e aos arquivos previstos nas alíneas d) e e);\n\nh) Comunicar ao InCI a suspensão ou a cessação da respetiva atividade em território nacional;\n\ni) Comunicar a criação de sucursais, agências, estabelecimentos, locais de atendimento e outras formas de representação comercial da empresa relacionadas com a atividade de mediação imobiliária em território nacional.\n\n2 - As comunicações e informações referidas no número anterior são efetuadas pelos meios indicados no n.º 1 do artigo 8.º, sendo punível a prestação de falsas declarações ou falsas informações."
+  },
+  "75413823": {
+   "fragment_id": "74934638",
+   "type": 1,
+   "heading": "Capítulo III — Prestadores estabelecidos noutros Estados do Espaço Económico Europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Prestadores estabelecidos noutros Estados do Espaço Económico Europeu"
+  },
+  "75413824": {
+   "fragment_id": "74934639",
+   "type": 11,
+   "heading": "Artigo 21.º — Liberdade de estabelecimento em Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Liberdade de estabelecimento em Portugal\n\n1 - As empresas de mediação imobiliária legalmente estabelecidas noutros Estados do Espaço Económico Europeu que pretendam estabelecer-se em Portugal, nos termos do n.º 2 do artigo 36.º, e possuam idoneidade comercial, nos termos do artigo 6.º, devem informar o InCI dessa pretensão, antes de se estabelecerem, através dos meios referidos no n.º 1 do artigo 8.º e apresentar simultaneamente:\n\na) Cópia do título de autorização que detenham no país de origem ou, caso tal título não exista, qualquer outro documento que comprove que nele operam legalmente;\n\nb) Cópia da apólice de seguro de responsabilidade civil profissional ou de comprovativo de garantia financeira equivalente, nos termos do artigo 7.º\n\n2 - Recebida a pretensão referida no número anterior e uma vez paga a taxa devida, o InCI procede, na respetiva página eletrónica, ao registo da empresa como licenciada para operar em território nacional ao abrigo do reconhecimento de autorizações de Estados do Espaço Económico Europeu.\n\n3 - O pagamento da taxa no prazo fixado na respetiva guia, emitida automaticamente por via informática, é condição de eficácia do registo a que se refere o número anterior.\n\n4 - É proibida a prestação de serviços nos termos do presente artigo sem o pagamento prévio da taxa referida no n.º 2.\n\n5 - As empresas que prestem serviços de mediação imobiliária nos termos do presente artigo são consideradas licenciadas para todos os efeitos legais, não se lhes aplicando contudo o disposto nos artigos 4.º e 8.º"
+  },
+  "75413825": {
+   "fragment_id": "74934640",
+   "type": 11,
+   "heading": "Artigo 22.º — Livre prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Livre prestação de serviços\n\n1 - Podem ser prestados em território nacional serviços ocasionais e esporádicos de mediação imobiliária por prestadores que aqui não estejam estabelecidos, desde que os mesmos se encontrem legalmente estabelecidos noutro Estado do Espaço Económico Europeu.\n\n2 - Os prestadores referidos no número anterior devem informar o InCI, para efeitos do disposto na alínea a) do n.º 1 do artigo 34.º da Lei n.º 25/2008, de 5 de junho, alterada pelo Decreto-Lei n.º 317/2009, de 30 de outubro, no prazo máximo de 60 dias após a realização do seu primeiro serviço de mediação imobiliária em território nacional.\n\n3 - A informação a que se refere o número anterior deve constar de formulário próprio e pode ser prestada presencialmente nas instalações do InCI ou remetida por via postal ou por via eletrónica com acesso através do balcão único eletrónico previsto nos artigos 5.º e 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, sem necessidade de apresentação de documento relativo ao registo comercial.\n\n4 - Uma vez cumprida a formalidade prevista no número anterior, o InCI procede ao registo da empresa como prestadora de serviços temporários em território nacional.\n\n5 - As empresas que prestem serviços de mediação imobiliária nos termos do presente artigo ficam sujeitas:\n\na) Às condições de exercício de atividade previstas nos n.os 1 e 2 do artigo 13.º, ainda que desenvolvam a sua atividade no âmbito de contratos de concessão ou uso de marcas, incluindo os de franquia, bem como às constantes do n.º 2 do artigo 14.º, dos artigos 16.º a 19.º, da alínea f) do n.º 1 do artigo 20.º e, no que se refere à sua atividade em território nacional, da alínea g) dos mesmos número e artigo;\n\nb) Às demais condições de exercício de atividade que lhes sejam aplicáveis, atenta a natureza ocasional e esporádica da sua atividade em território nacional, nomeadamente aos deveres gerais constantes da secção i do capítulo ii da Lei n.º 25/2008, de 5 de junho, não lhes sendo contudo aplicável o disposto na alínea b) do n.º 1 do artigo 34.º da Lei n.º 25/2008, de 5 de junho, alterada pelo Decreto-Lei n.º 317/2009, de 30 de outubro."
+  },
+  "75413826": {
+   "fragment_id": "74934641",
+   "type": 1,
+   "heading": "Capítulo IV — Colaboradores de empresas de mediação imobiliária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Colaboradores de empresas de mediação imobiliária"
+  },
+  "75413827": {
+   "fragment_id": "74934642",
+   "type": 11,
+   "heading": "Artigo 23.º — Técnicos de mediação imobiliária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Técnicos de mediação imobiliária\n\nSão designados por técnicos de mediação imobiliária os colaboradores das empresas de mediação imobiliária que desempenham, em nome destas, as funções de mediação imobiliária referidas nos n.os 1, 2 e 4 do artigo 2.º"
+  },
+  "75413828": {
+   "fragment_id": "74934643",
+   "type": 11,
+   "heading": "Artigo 24.º — Angariadores imobiliários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Angariadores imobiliários\n\nSão designados por angariadores imobiliários os colaboradores das empresas de mediação imobiliária que coadjuvam os técnicos referidos no artigo anterior, executando tarefas necessárias à preparação e ao cumprimento dos contratos de mediação imobiliária celebrados pelas mesmas."
+  },
+  "75413829": {
+   "fragment_id": "74934644",
+   "type": 11,
+   "heading": "Artigo 25.º — Identificação dos técnicos e angariadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Identificação dos técnicos e angariadores\n\nNo âmbito da respetiva atividade externa em território nacional, os colaboradores das empresas de mediação imobiliária devem possuir cartões de identificação emitidos pelas mesmas, dos quais deverá constar o seu nome e a fotografia atualizada, bem como a identificação da empresa emissora."
+  },
+  "75413830": {
+   "fragment_id": "74934645",
+   "type": 1,
+   "heading": "Capítulo V — Fiscalização e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Fiscalização e sanções\n\nResponsabilidade contraordenacional"
+  },
+  "75413831": {
+   "fragment_id": "74934646",
+   "type": 11,
+   "heading": "Artigo 26.º — Competências de inspeção e fiscalização do InCI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Competências de inspeção e fiscalização do InCI\n\n1 - O InCI, no âmbito das suas competências, inspeciona e fiscaliza a atividade de mediação imobiliária, podendo solicitar a quaisquer serviços públicos ou autoridades toda a colaboração ou auxílio que julgue necessários, nomeadamente através do sistema de informação do mercado interno ou nos termos das Leis n.os 74/2009, de 12 de agosto, e 93/2009, de 1 de setembro, quando se trate de autoridades ou serviços de outros Estados do Espaço Económico Europeu.\n\n2 - O InCI pode confiar às autoridades policiais a apreensão das licenças e cartões de identificação prevista na alínea b) do n.º 2 do artigo 12.º da presente lei.\n\n3 - Todas as autoridades nacionais e seus agentes devem participar ao InCI quaisquer infrações à presente lei de que tenham conhecimento."
+  },
+  "75413832": {
+   "fragment_id": "74934647",
+   "type": 11,
+   "heading": "Artigo 27.º — Responsabilidade pelas infrações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Responsabilidade pelas infrações\n\n1 - Pela prática das contraordenações a que se refere a presente lei podem ser responsabilizadas pessoas singulares ou coletivas, ainda que irregularmente constituídas, e associações sem personalidade jurídica.\n\n2 - As sociedades, as demais pessoas coletivas e as associações sem personalidade jurídica são responsáveis pelas contraordenações previstas na presente lei quando os factos tiverem sido praticados pelos membros dos seus órgãos sociais, representantes, mandatários ou colaboradores, no exercício das respetivas funções.\n\n3 - Os empresários em nome individual são responsáveis pelas contraordenações previstas na presente lei quando os factos tiverem sido praticados por si ou pelos seus mandatários ou colaboradores, agindo no exercício das funções que lhes foram confiadas.\n\n4 - Exceto quando comprovem ter-se oposto à prática do facto que deu origem à contraordenação, os representantes legais das pessoas coletivas, ainda que irregularmente constituídas, e das associações sem personalidade jurídica respondem solidariamente pelo pagamento das coimas e das custas em que aquelas forem condenadas, mesmo que, à data da condenação, tais pessoas coletivas ou associações hajam sido dissolvidas ou entrado em liquidação."
+  },
+  "75413833": {
+   "fragment_id": "74934648",
+   "type": 11,
+   "heading": "Artigo 28.º — Advertência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Advertência\n\n1 - Quando a contraordenação for punível com coima não superior a (euro) 5000 e a infração consistir em irregularidade sanável e não haja indício de que a sua prática tenha causado prejuízos a terceiros, deve o InCI, antes da instauração do processo de contraordenação, notificar o infrator para sanar a irregularidade.\n\n2 - Da notificação deve constar a descrição da infração, as medidas necessárias para a sua regularização, o prazo para o cumprimento das mesmas, a forma de comprovação, junto do InCI, desse cumprimento e a advertência de que o incumprimento, no prazo determinado, dá lugar à instauração de processo de contraordenação.\n\n3 - O disposto nos números anteriores não se aplica ao infrator que tiver sido advertido ou sancionado pela prática de infração da mesma natureza, no decurso dos últimos dois anos."
+  },
+  "75413834": {
+   "fragment_id": "74934649",
+   "type": 11,
+   "heading": "Artigo 29.º — Auto de notícia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Auto de notícia\n\n1 - Quando presenciar, no exercício das suas competências, a prática de uma contraordenação, o pessoal inspetivo do InCI levanta ou manda levantar auto de notícia, que deve mencionar os factos que constituem a infração, bem como o dia, a hora, o local e as circunstâncias em que a mesma foi cometida e tudo o que tenha averiguado acerca da identificação dos infratores e a indicação, quando possível, de, pelo menos, uma testemunha que possa depor sobre os factos.\n\n2 - O auto de notícia é assinado pelo agente que o levantou e, quando as houver, pelas testemunhas.\n\n3 - A autoridade ou agente da autoridade que tiver conhecimento, por denúncia ou constatação própria, de infração à presente lei deve levantar auto de notícia, ao qual é aplicável o disposto nos números anteriores, com as necessárias adaptações.\n\n4 - O auto de notícia levantado nos termos dos números anteriores faz fé, até prova em contrário, sobre os factos presenciados pelo autuante.\n\n5 - À tramitação procedimental prevista nos números anteriores não se aplica o disposto no n.º 1 do artigo 36.º"
+  },
+  "75413835": {
+   "fragment_id": "74934650",
+   "type": 11,
+   "heading": "Artigo 30.º — Notificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Notificações\n\n1 - As notificações efetuam-se:\n\na) Por contacto pessoal com o notificando no lugar em que for encontrado;\n\nb) Mediante carta registada expedida para a sede, o domicílio ou o estabelecimento do notificando;\n\nc) Mediante carta simples expedida para a sede, o domicílio ou o estabelecimento do notificando;\n\nd) Por via eletrónica, nos termos da alínea c) do n.º 1 do artigo 36.º\n\n2 - A notificação por contacto pessoal deve ser efetuada, sempre que possível, no ato de autuação.\n\n3 - Se não for possível proceder nos termos do número anterior, a notificação é efetuada através de carta registada expedida para a sede, domicílio ou estabelecimento do notificando.\n\n4 - Se, por qualquer motivo, a carta prevista no número anterior for devolvida à entidade remetente, a notificação é reenviada ao notificando para a sua sede, domicílio ou estabelecimento, através de carta simples.\n\n5 - A notificação por carta registada considera-se efetuada no 3.º dia útil posterior ao do respetivo envio, devendo tal cominação constar da notificação.\n\n6 - No caso previsto no n.º 4 é lavrada uma cota no processo com a indicação da data de expedição da carta e da morada para a qual foi enviada, considerando-se a notificação efetuada no 5.º dia posterior à data indicada e devendo tal cominação constar da notificação.\n\n7 - Se o notificando se recusar a receber ou a assinar a notificação, o agente ou o distribuidor do serviço postal certifica a recusa, considerando-se aquela efetuada."
+  },
+  "75413836": {
+   "fragment_id": "74934651",
+   "type": 11,
+   "heading": "Artigo 31.º — Medidas cautelares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Medidas cautelares\n\n1 - Quando existam fortes indícios da prática das contraordenações previstas nas alíneas a) e b) do n.º 1 do artigo seguinte, ou quando se verifique a existência de perigo de destruição de meios de prova necessários à instrução do processo de contraordenação ou de continuação da prática da infração, o InCI pode determinar a aplicação das seguintes medidas, considerando a gravidade da infração e a culpa do agente:\n\na) Encerramento preventivo de estabelecimento, no caso de violação do disposto no n.º 1 do artigo 4.º, no n.º 4 do artigo 21.º, no n.º 2 do artigo 22.º ou de contraordenação relacionada com o funcionamento do estabelecimento;\n\nb) Suspensão da apreciação de pedido de licenciamento formulado pelo infrator junto do InCI.\n\n2 - As medidas aplicadas nos termos do número anterior vigoram até ao seu levantamento pelo presidente do conselho diretivo do InCI ou por decisão judicial, cessando também os seus efeitos pela aplicação das sanções acessórias de interdição do exercício da atividade ou de encerramento de estabelecimento ou pelo decurso do prazo de um ano, a contar da data da decisão que as imponha.\n\n3 - É competente para conhecer da eventual impugnação judicial das medidas cautelares aplicadas pelo InCI o tribunal que for competente para decidir do recurso de decisão proferida em processo de contraordenação."
+  },
+  "75413837": {
+   "fragment_id": "74934652",
+   "type": 11,
+   "heading": "Artigo 32.º — Contraordenações e sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Contraordenações e sanções acessórias\n\n1 - Sem prejuízo de outras sanções que se mostrem aplicáveis, constituem contraordenações:\n\na) A violação do disposto no n.º 1 do artigo 4.º, na alínea a) do n.º 2 do artigo 12.º, no n.º 4 do artigo 21.º e no n.º 1 do artigo 22.º, punível com coima de (euro) 5000 a (euro) 30 000;\n\nb) A violação do disposto no artigo 17.º, nos n.os 1 e 2 do artigo 18.º e no n.º 3 do artigo 19.º, punível com coima de (euro) 2500 a (euro) 25 000;\n\nc) A violação do disposto nos n.os 1 e 2 do artigo 14.º, punível com coima de (euro) 1000 a (euro) 10 000;\n\nd) A violação do disposto no n.º 2 do artigo 4.º, nos n.os 2, 3 e 4 do artigo 13.º e nas alíneas a), c), d), e) e g) do n.º 1 do artigo 20.º, punível com coima de (euro) 750 a (euro) 5000;\n\ne) A violação do disposto na alínea b) do n.º 2 do artigo 12.º, nas alíneas b), h) e i) do n.º 1 do artigo 20.º, no n.º 2 do artigo 22.º e no artigo 25.º, punível com coima de (euro) 500 a (euro) 2500.\n\n2 - A tentativa e a negligência são puníveis, sendo, nesses casos, os limites máximo e mínimo da coima reduzidos a metade.\n\n3 - Nos casos em que sejam aplicadas às empresas de mediação imobiliária as sanções previstas nas alíneas a) e b) do n.º 1, pode o InCI aplicar-lhes as seguintes sanções acessórias:\n\na) Encerramento de estabelecimentos;\n\nb) Interdição do exercício da atividade;\n\nc) Privação do direito de participar em feiras ou mercados.\n\n4 - As sanções acessórias referidas no número anterior têm duração máxima de dois anos, a contar da data da decisão condenatória definitiva."
+  },
+  "75413838": {
+   "fragment_id": "74934653",
+   "type": 11,
+   "heading": "Artigo 33.º — Competência para aplicação de sanções e medidas cautelares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Competência para aplicação de sanções e medidas cautelares\n\n1 - Cabe ao InCI:\n\na) Instruir os processos de contraordenação e proferir as respetivas decisões;\n\nb) Aplicar as medidas cautelares, as coimas e as sanções acessórias previstas na presente lei.\n\n2 - O presidente do conselho diretivo do InCI pode determinar que seja publicitada, através da afixação de edital no estabelecimento visado, a aplicação da medida cautelar do seu encerramento preventivo ou da sanção acessória do respetivo encerramento de estabelecimento."
+  },
+  "75413839": {
+   "fragment_id": "74934654",
+   "type": 11,
+   "heading": "Artigo 34.º — Competência para execução de sanções e medidas cautelares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Competência para execução de sanções e medidas cautelares\n\n1 - As coimas aplicadas em processo de contraordenação são cobradas coercivamente em processo de execução fiscal.\n\n2 - Compete ao InCI a execução das medidas cautelares previstas no artigo 31.º, bem como das sanções acessórias previstas no n.º 3 do artigo 32.º\n\n3 - Sem prejuízo do disposto no número anterior, pode o InCI confiar a execução de medidas cautelares e sanções acessórias às autoridades policiais."
+  },
+  "75413840": {
+   "fragment_id": "74934655",
+   "type": 11,
+   "heading": "Artigo 35.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Produto das coimas\n\nO produto das coimas recebidas por infração ao disposto na presente lei reverte em 60 % para os cofres do Estado e em 40 % para o InCI."
+  },
+  "75413841": {
+   "fragment_id": "74934656",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "75413842": {
+   "fragment_id": "74934657",
+   "type": 11,
+   "heading": "Artigo 36.º — Procedimentos administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Procedimentos administrativos\n\n1 - A tramitação dos procedimentos previstos na presente lei é executada com recurso a um sistema informático gerido pelo InCI, acessível através do balcão único eletrónico dos serviços previsto nos artigos 5.º e 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, que deve assegurar:\n\na) A entrega online de requerimentos e de comunicações;\n\nb) As consultas, pelos interessados, sobre o estado dos procedimentos;\n\nc) A notificação, por via eletrónica, dos prestadores, nomeadamente quanto às decisões do InCI que lhes digam respeito;\n\nd) A verificação automática da informação necessária à aplicação do regime previsto na presente lei, através da ligação com as bases de dados das autoridades competentes.\n\n2 - O InCI reconhece as autorizações legalmente detidas, bem como os requisitos já cumpridos pelas empresas de mediação imobiliária para o exercício da atividade noutros Estados do Espaço Económico Europeu, que sejam equivalentes ou essencialmente comparáveis quanto à finalidade.\n\n3 - Para efeitos da verificação do cumprimento dos requisitos previstos na presente lei, o InCI aceita os documentos emitidos noutros Estados do Espaço Económico Europeu, que tenham uma finalidade equivalente ou que provem a verificação daqueles requisitos, devendo promover a obtenção de quaisquer informações suplementares junto das respetivas autoridades competentes.\n\n4 - Para comprovação do preenchimento dos requisitos, é suficiente a apresentação, eletrónica ou em formato de papel, de cópia simples dos documentos, podendo o InCI, em caso de dúvida, exigir a exibição dos respetivos originais ou de cópias autenticadas ou certificadas dos mesmos.\n\n5 - Quando os documentos a que se refere o número anterior estejam disponíveis na Internet, o requerente pode, em substituição da apresentação da sua reprodução, indicar ao InCI o sítio onde aqueles podem ser consultados, bem como a informação necessária a essa consulta, desde que os referidos sítio e documentos se encontrem redigidos em língua portuguesa ou inglesa.\n\n6 - Quando, por motivos de indisponibilidade das plataformas eletrónicas, não for possível o recurso ao sistema informático referido no n.º 1, pode ser utilizado, como alternativa, qualquer outro meio legalmente admissível."
+  },
+  "75413843": {
+   "fragment_id": "74934658",
+   "type": 11,
+   "heading": "Artigo 37.º — Idioma dos documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Idioma dos documentos\n\n1 - Os documentos referidos na presente lei devem ser redigidos em língua portuguesa ou inglesa, sem prejuízo do disposto no número seguinte.\n\n2 - No caso de documentos originalmente não redigidos em língua portuguesa ou inglesa, o InCI pode solicitar a apresentação pela empresa da respetiva tradução quando tal se justifique em função da tecnicidade ou complexidade dos mesmos."
+  },
+  "75413844": {
+   "fragment_id": "74934659",
+   "type": 11,
+   "heading": "Artigo 38.º — Modelos e impressos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Modelos e impressos\n\nOs modelos a utilizar em cumprimento do disposto na presente lei são aprovados pelo conselho diretivo do InCI e disponibilizados na respetiva página eletrónica."
+  },
+  "75413845": {
+   "fragment_id": "74934660",
+   "type": 11,
+   "heading": "Artigo 39.º — Dever de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Dever de cooperação\n\n1 - As entidades públicas têm o dever de prestar ao InCI toda a colaboração que este organismo lhes solicitar, facultando os dados e documentos necessários à aplicação da presente lei.\n\n2 - Para desenvolvimento da colaboração a que se refere o número anterior, o InCI pode celebrar protocolos com entidades públicas ou privadas, tendo em vista a verificação dos requisitos de exercício da atividade de mediação imobiliária, sem prejuízo do disposto no capítulo vi do Decreto-Lei n.º 92/2010, de 26 de julho."
+  },
+  "75413846": {
+   "fragment_id": "74934661",
+   "type": 11,
+   "heading": "Artigo 40.º — Intervenção de notário ou profissional equiparado em negócios sobre imóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Intervenção de notário ou profissional equiparado em negócios sobre imóveis\n\n1 - A escritura pública ou documento particular que titule negócio sobre bem imóvel deve mencionar se o mesmo foi objeto da intervenção de empresa de mediação imobiliária, com indicação, em caso afirmativo, da respetiva denominação social e número de licença ou registo junto do InCI.\n\n2 - O notário ou profissional equiparado que intervenha em negócios sobre imóveis deve advertir os intervenientes do dever de fazerem constar dos documentos respetivos a intervenção referida no número anterior de que tenham conhecimento, bem como a cominação prevista no número seguinte.\n\n3 - O cliente de empresa de mediação imobiliária que, tendo sido advertido nos termos do número anterior, omita a informação relativa à intervenção daquela no negócio incorre na pena de desobediência prevista no artigo 348.º do Código Penal.\n\n4 - Quando haja indícios da intervenção na mediação de negócios sobre bens imóveis de pessoa singular ou coletiva que não esteja legalmente habilitada para o exercício da atividade de mediação imobiliária, o notário ou profissional equiparado deve enviar ao InCI, no prazo de 15 dias, cópia dos documentos em que tal intervenção conste."
+  },
+  "75413847": {
+   "fragment_id": "74934662",
+   "type": 11,
+   "heading": "Artigo 41.º — Informações sobre as empresas de mediação imobiliária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Informações sobre as empresas de mediação imobiliária\n\n1 - São publicitadas na página eletrónica do InCI e no balcão único eletrónico dos serviços as seguintes informações respeitantes a empresas de mediação imobiliária:\n\na) Lista de empresas com licença válida estabelecidas em Portugal;\n\nb) Lista de empresas estabelecidas noutros Estados do Espaço Económico Europeu com registo válido no InCI enquanto aqui estabelecidas ou em livre prestação de serviços;\n\nc) Lista de empresas com licença ou registo suspenso ou cancelado há menos de um ano;\n\nd) Lista de sanções de natureza contraordenacional e medidas cautelares aplicadas, por decisão definitiva.\n\n2 - A publicitação das decisões de aplicação de sanções e das medidas cautelares a que se refere a alínea d) do número anterior deve ser mantida durante os seguintes períodos:\n\na) Nas sanções aplicadas, a título principal, em processo de contraordenação, durante dois anos a contar da definitividade ou do trânsito em julgado da decisão que as aplicou;\n\nb) Nas sanções acessórias, durante o prazo de duração das mesmas;\n\nc) Nas medidas cautelares, durante o prazo de duração das mesmas ou até ao seu levantamento ou revogação."
+  },
+  "75413848": {
+   "fragment_id": "74934663",
+   "type": 11,
+   "heading": "Artigo 42.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Taxas\n\n1 - As empresas titulares de licenças de mediação imobiliária, bem como as empresas estabelecidas noutros Estados membros do Espaço Económico Europeu que se tenham estabelecido em território nacional ao abrigo do disposto no artigo 21.º, estão sujeitas ao pagamento de taxas destinadas a cobrir os encargos com a gestão do sistema de licenciamento e registo das empresas de mediação imobiliária e com a supervisão, fiscalização e regulação da respetiva atividade.\n\n2 - As taxas constituem receita do InCI e são objeto de regulamentação por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia."
+  },
+  "75413849": {
+   "fragment_id": "74934664",
+   "type": 11,
+   "heading": "Artigo 43.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 211/2004, de 20 de agosto, alterado pelo Decreto-Lei n.º 69/2011, de 15 de junho;\n\nb) A Portaria n.º 1324/2004, de 19 de outubro;\n\nc) A Portaria n.º 1326/2004, de 19 de outubro;\n\nd) A Portaria n.º 1327/2004, de 19 de outubro;\n\ne) A Portaria n.º 66/2005, de 25 de janeiro;\n\nf) O despacho conjunto n.º 707/2004, de 3 de dezembro."
+  },
+  "75413850": {
+   "fragment_id": "74934665",
+   "type": 11,
+   "heading": "Artigo 44.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Disposição transitória\n\nAs licenças emitidas ao abrigo da legislação anterior, válidas à data de entrada em vigor da presente lei, passam a ter duração ilimitada, sem necessidade de qualquer formalismo adicional."
+  },
+  "75413851": {
+   "fragment_id": "74934666",
+   "type": 11,
+   "heading": "Artigo 45.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Entrada em vigor\n\n1 - Sem prejuízo do disposto no número seguinte, a presente lei entra em vigor no 1.º dia útil do mês seguinte ao da sua publicação.\n\n2 - Aos processos em curso no InCI à data da entrada em vigor da presente lei aplicam-se, nas situações em que tal se revele mais favorável para os interessados, as normas que vigoravam à data da respetiva abertura."
+  },
+  "75413853": {
+   "fragment_id": "74934668",
+   "type": 14,
+   "heading": "Anexo I — Condições mínimas do seguro de responsabilidade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Condições mínimas do seguro de responsabilidade civil\n\n(a que se refere o n.º 3 do artigo 7.º)\n\n1 - Sem prejuízo do disposto no n.º 2 do artigo 7.º, as empresas de mediação imobiliária estabelecidas em território nacional possuem obrigatoriamente um seguro destinado a garantir a responsabilidade civil por danos patrimoniais causados no exercício da atividade.\n\n2 - O contrato de seguro assegura, no mínimo, o pagamento de indemnizações para ressarcimento dos danos patrimoniais, causados a terceiros, decorrentes de ações ou omissões das empresas de mediação imobiliária ou dos seus representantes legais e colaboradores, ou do incumprimento de outras obrigações resultantes do exercício da atividade, ainda que, sem prejuízo do disposto no número seguinte, se verifique:\n\na) A cessação da atividade de mediação imobiliária;\n\nb) A caducidade da licença para o exercício da atividade de mediação imobiliária;\n\nc) A resolução do contrato de seguro de responsabilidade civil.\n\n3 - Da apólice de seguro deve constar expressamente que, nos casos previstos nas alíneas do número anterior e independentemente da respetiva causa, o seguro responderá pelos danos ocorridos no decurso da vigência do contrato e reclamados até um ano após a data da cessação da atividade, da caducidade ou do cancelamento da licença ou da resolução do contrato de seguro.\n\n4 - Em caso de suspensão da licença, o contrato de seguro caduca às 24 horas do próprio dia da sua verificação.\n\n5 - Verificada a caducidade do contrato de seguro nos termos do número anterior, proceder-se-á ao estorno do prémio, em montante proporcional ao período de tempo que decorreria até à data do seu vencimento.\n\n6 - O tomador de seguro deverá comunicar à seguradora, no prazo de 48 horas, a suspensão da licença.\n\n7 - Nos casos previstos nas alíneas a), b) e c) do n.º 2 do presente anexo, o contrato de seguro caduca às 24 horas do próprio dia da sua verificação, devendo o tomador de seguro comunicar tal ocorrência à seguradora no prazo de vinte e quatro horas.\n\n8 - É obrigação do InCI dar conhecimento à seguradora do cancelamento da licença ou do registo da empresa de mediação.\n\n9 - A apólice de seguro deve dispor que a seguradora é obrigada a dar conhecimento ao InCI da falta de pagamento do prémio, das alterações que o contrato de seguro venha a sofrer, bem como da sua resolução.\n\n10 - O contrato de seguro pode excluir:\n\na) A responsabilidade por danos decorrentes da falta de capacidade e legitimidade para contratar das pessoas que intervenham em negócios com as empresas de mediação, quando estes factos lhes sejam dolosamente ocultados e nos casos em que seja impossível o cumprimento do dever previsto na alínea a) do n.º 1 do artigo 17.º da lei que faz parte integrante o presente anexo;\n\nb) A responsabilidade pelos danos decorrentes da impossibilidade de cumprimento de deveres contratuais ou quaisquer obrigações legais por facto de força maior não imputável à empresa de mediação;\n\nc) A responsabilidade pelo pagamento de danos decorrentes de reclamações resultantes ou baseadas, direta ou indiretamente, na aplicação de quaisquer fianças, taxas, multas ou coimas, impostas por autoridades competentes, bem como de outras penalidades de natureza sancionatória ou fiscal e por indemnizações fixadas, a título punitivo, de danos exemplares ou outras reclamações de natureza semelhante.\n\n11 - O contrato de seguro pode prever o direito de regresso da seguradora nos seguintes casos:\n\na) Responsabilidade por danos decorrentes de atuação dolosa do segurado ou quando o ato por este praticado seja qualificado como crime ou contraordenação;\n\nb) Quando a responsabilidade do segurado decorrer de perda ou extravio de dinheiro ou quaisquer outros valores ou documentos colocados à sua guarda;\n\nc) Quando a responsabilidade decorrer de factos praticados pela empresa de mediação para obtenção de benefícios e ou redução de custos de natureza fiscal, causando danos a todos os interessados que não conheciam os factos em questão;\n\nd) Quando a responsabilidade decorrer de atos ou omissões praticados pelo segurado ou por pessoa por quem este seja civilmente responsável sob a influência de embriaguez, uso de estupefacientes ou demência;\n\ne) Quando o contrato de mediação imobiliária for nulo por vício de forma.\n\n12 - O contrato de seguro pode prever uma franquia a cargo do segurado, não oponível ao terceiro lesado.\n\n13 - O conteúdo mínimo obrigatório do seguro deverá constar de apólice uniforme a aprovar e emitir pelo Instituto de Seguros de Portugal, ouvida a Associação Portuguesa de Seguradores."
+  }
+ }
+}

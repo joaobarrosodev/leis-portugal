@@ -1,0 +1,147 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:538613:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-162450421",
+ "dre_path": "/dr/detalhe/decreto-lei/160-2006-538613",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-08-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "162525796",
+    "162525797",
+    "162525798",
+    "162525799",
+    "162525800",
+    "162525801",
+    "162525802"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632429:por",
+     "title": "Decreto-Lei n.º 266-C/2012",
+     "published": "2012-12-31",
+     "dre_path": "/dr/detalhe/decreto-lei/266-c-2012-632429"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "162525796",
+    "162525849",
+    "162525850",
+    "162525851",
+    "162525800",
+    "162525801",
+    "162525802",
+    "162525803"
+   ]
+  }
+ ],
+ "fragments": {
+  "162525796": {
+   "fragment_id": "162450422",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 160/2006\n\nde 8 de Agosto\n\nTendo sido aprovado o Novo Regime do Arrendamento Urbano (NRAU), pela Lei n.º 6/2006, de 27 de Fevereiro, importa publicar os diplomas necessários à sua completa aplicação. Entre esses encontra-se o decreto-lei que regula os elementos do contrato de arrendamento e os requisitos a que obedece a sua celebração, previsto no n.º 2 do artigo 1070.º do Código Civil, na redacção que lhe foi dada pelo NRAU, o qual agora se publica.\n\nA matéria do presente decreto-lei corresponde à que era tratada nos artigos 8.º e 9.º do RAU, sendo objecto de diploma autónomo em virtude da revogação daquele. Trata-se de matéria procedimental que não deve integrar o texto do Código Civil, o qual não se dedica a semelhante pormenorização a propósito de qualquer outro tipo contratual.\n\nO presente decreto-lei estabelece que às partes é dada ampla liberdade na conformação do contrato de arrendamento, sendo poucos os elementos que dele necessariamente devem constar. Assim, são elementos suficientes para a celebração de um contrato de arrendamento - necessariamente reduzido a escrito quando de duração superior a seis meses - os seguintes: a identidade das partes, a identificação do local arrendado, a existência da licença de utilização, o valor da renda e a data da celebração. Com apenas estes elementos é possível a celebração de um contrato perfeito, pois o Código Civil estabelece um conjunto adequado de disposições supletivas, regulando os aspectos não contemplados expressamente pelas partes. Em casos particulares, devem ser inseridas outras cláusulas contratuais, por exemplo, a referência ao regulamento de condomínio, quando existente.\n\nContinua a exigir-se a licença de utilização para se poder dar de arrendamento um prédio urbano ou uma fracção autónoma, explicitando-se que compete às câmaras municipais a aplicação das coimas resultantes da falta dessa licença. Por forma a garantir a harmonia do sistema jurídico, explicita-se que esta exigência só se coloca em relação aos edifícios de construção posterior a 1951, data em que foram criadas as licenças de utilização. Para os edifícios anteriores, só a alteração da sua utilização ou o arrendamento para fim não habitacional são sujeitos a autorização.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional dos Municípios Portugueses, a Ordem dos Advogados, a Ordem dos Engenheiros e a Ordem dos Arquitectos.\n\nForam, ainda, ouvidas as várias associações com interesses no sector, designadamente a Associação Lisbonense de Proprietários, a Associação dos Inquilinos Lisbonense, a Associação dos Inquilinos do Norte, a Confederação do Comércio e Serviços de Portugal, a Confederação do Turismo Português, a Federação da Restauração, Cafés, Pastelarias e Similares de Portugal, a Federação Portuguesa da Indústria de Construção e Obras Públicas, a Federação Nacional de Comércio, a Associação Portuguesa para a Defesa do Consumidor, e ainda várias entidades representativas das empresas de consultoria e avaliação imobiliária, de mediação mobiliária, de fundos de investimento e de fundos de pensões.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "162525797": {
+   "fragment_id": "162450423",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei regula os elementos do contrato de arrendamento e os requisitos a que obedece a sua celebração, conforme previsto no n.º 2 do artigo 1070.º do Código Civil."
+  },
+  "162525798": {
+   "fragment_id": "162450424",
+   "type": 11,
+   "heading": "Artigo 2.º — Conteúdo necessário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Conteúdo necessário\n\nDo contrato de arrendamento urbano, quando deva ser celebrado por escrito, deve constar:\n\na) A identidade das partes, incluindo naturalidade, data de nascimento e estado civil;\n\nb) A identificação e localização do arrendado, ou da sua parte;\n\nc) O fim habitacional ou não habitacional do contrato, indicando, quando para habitação não permanente, o motivo da transitoriedade;\n\nd) A existência da licença de utilização, o seu número, a data e a entidade emitente, ou a referência a não ser aquela exigível, nos termos do artigo 5.º;\n\ne) O quantitativo da renda;\n\nf) A data da celebração."
+  },
+  "162525799": {
+   "fragment_id": "162450425",
+   "type": 11,
+   "heading": "Artigo 3.º — Conteúdo eventual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conteúdo eventual\n\n1 - O contrato de arrendamento urbano deve mencionar, quando aplicável:\n\na) A identificação dos locais de uso privativo do arrendatário, dos de uso comum a que ele tenha acesso e dos anexos que sejam arrendados com o objecto principal do contrato;\n\nb) A natureza do direito do locador, sempre que o contrato seja celebrado com base num direito temporário ou em poderes de administração de bens alheios;\n\nc) O número de inscrição na matriz predial ou a declaração de o prédio se encontrar omisso;\n\nd) O regime da renda, ou da sua actualização;\n\ne) O prazo;\n\nf) A existência de regulamento da propriedade horizontal;\n\ng) Quaisquer outras cláusulas permitidas por lei e pretendidas pelas partes, directamente ou por remissão para regulamento anexo.\n\n2 - Devem ser anexados ao contrato e assinados pelas partes os regulamentos a que se referem as alíneas f) e g) do número anterior e um documento onde se descreva o estado de conservação do local e suas dependências, bem como do prédio, aplicando-se, na sua falta ou em caso de omissão ou dúvida, o disposto no n.º 2 do artigo 1043.º do Código Civil."
+  },
+  "162525800": {
+   "fragment_id": "162450426",
+   "type": 11,
+   "heading": "Artigo 4.º — Omissão de elementos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Omissão de elementos\n\nA falta de algum ou alguns dos elementos referidos nos artigos 2.º e 3.º não determina a invalidade ou a ineficácia do contrato, quando possam ser supridas nos termos gerais e desde que os motivos determinantes da forma se mostrem satisfeitos."
+  },
+  "162525801": {
+   "fragment_id": "162450427",
+   "type": 11,
+   "heading": "Artigo 5.º — Licença de utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Licença de utilização\n\n1 - Só podem ser objecto de arrendamento urbano os edifícios ou suas fracções cuja aptidão para o fim pretendido pelo contrato seja atestada pela licença de utilização.\n\n2 - O disposto no número anterior não se aplica quando a construção do edifício seja anterior à entrada em vigor do Regulamento Geral das Edificações Urbanas, aprovado pelo Decreto-Lei n.º 38382, de 7 de Agosto de 1951, caso em que deve ser anexado ao contrato documento autêntico que demonstre a data de construção.\n\n3 - Quando as partes aleguem urgência na celebração do contrato, a licença referida no n.º 1 pode ser substituída por documento comprovativo de a mesma ter sido requerida com a antecedência mínima prevista na lei.\n\n4 - A mudança de finalidade e o arrendamento para fim não habitacional de prédios ou fracções não licenciados devem ser sempre previamente autorizados pela câmara municipal.\n\n5 - A inobservância do disposto nos n.os 1 a 4 por causa imputável ao senhorio determina a sujeição do mesmo a uma coima não inferior a um ano de renda, observados os limites legais estabelecidos pelo Decreto-Lei n.º 433/82, de 27 de Outubro, salvo quando a falta de licença se fique a dever a atraso que não lhe seja imputável.\n\n6 - A coima prevista no número anterior constitui receita do município, competindo a sua aplicação ao presidente da câmara municipal, com a faculdade de delegação em qualquer dos vereadores.\n\n7 - Na situação prevista no n.º 5, o arrendatário pode resolver o contrato, com direito a indemnização nos termos gerais.\n\n8 - O arrendamento para fim diverso do licenciado é nulo, sem prejuízo, sendo esse o caso, da aplicação da sanção prevista no n.º 5 e do direito do arrendatário à indemnização.\n\n9 - Não se aplica o disposto nos números anteriores aos arrendamentos que tenham por objecto espaços não habitáveis nem utilizáveis para comércio, indústria ou serviços, nomeadamente para afixação de publicidade ou outro fim limitado."
+  },
+  "162525802": {
+   "fragment_id": "162450428",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "162525849": {
+   "fragment_id": "162450423",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei regula os elementos do contrato de arrendamento urbano e os requisitos a que obedece a sua celebração, conforme previsto no n.º 2 do artigo 1070.º do Código Civil.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+  },
+  "162525850": {
+   "fragment_id": "162450424",
+   "type": 11,
+   "heading": "Artigo 2.º — Conteúdo necessário",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Conteúdo necessário\n\nDo contrato de arrendamento urbano deve constar:\n\na) A identificação das partes, indicando os seus nomes, números de identificação civil e de identificação fiscal e, quando aplicável, naturalidade, data de nascimento e estado civil;\n\nb) O domicílio ou a sede do senhorio;\n\nc) A identificação e localização do arrendado, ou da sua parte;\n\nd) O fim habitacional ou não habitacional do contrato, indicando, quando para habitação não permanente, o motivo da transitoriedade;\n\ne) A existência da licença de utilização, o seu número, a data e a entidade emitente, ou a referência a não ser aquela exigível, nos termos do artigo 5.º;\n\nf) O quantitativo da renda;\n\ng) A data da celebração.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+  },
+  "162525851": {
+   "fragment_id": "162450425",
+   "type": 11,
+   "heading": "Artigo 3.º — Conteúdo eventual",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Conteúdo eventual\n\n1 - O contrato de arrendamento urbano deve mencionar, quando aplicável:\n\na) A identificação dos locais de uso privativo do arrendatário, dos de uso comum a que ele tenha acesso e dos anexos que sejam arrendados com o objecto principal do contrato;\n\nb) A natureza do direito do locador, sempre que o contrato seja celebrado com base num direito temporário ou em poderes de administração de bens alheios;\n\nc) O número de inscrição na matriz predial ou a declaração de o prédio se encontrar omisso;\n\nd) O regime da renda, ou da sua actualização;\n\ne) O prazo;\n\nf) A existência de regulamento da propriedade horizontal;\n\ng) O domicílio convencionado;\n\nh) Quaisquer outras cláusulas permitidas por lei e pretendidas pelas partes, directamente ou por remissão para regulamento anexo.\n\n2 - Devem ser anexados ao contrato e assinados pelas partes os regulamentos a que se referem as alíneas f) e h) do número anterior e um documento onde se descreva o estado de conservação do local e suas dependências, bem como do prédio, aplicando-se, na sua falta ou em caso de omissão ou dúvida, o disposto no n.º 2 do artigo 1043.º do Código Civil.\n\n3 - Para o efeito do disposto na alínea g) do n.º 1, o domicílio convencionado do arrendatário, ainda que não coincida com o endereço do imóvel arrendado, constitui o local para o qual lhe devem ser remetidas as comunicações e notificações relativas ao contrato de arrendamento.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 266-C/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-c-2012-632429), em vigor a partir de 2013-01-01"
+  },
+  "162525803": {
+   "fragment_id": "162450429",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de Junho de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia.\n\nPromulgado em 26 de Julho de 2006.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 27 de Julho de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

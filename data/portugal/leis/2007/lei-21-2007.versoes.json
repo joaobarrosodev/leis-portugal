@@ -1,0 +1,225 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:639130:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2007-63397378",
+ "dre_path": "/dr/detalhe/lei/21-2007-639130",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-06-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "61635836",
+    "61635837",
+    "61635838",
+    "61635839",
+    "61635840",
+    "61635841",
+    "61635842",
+    "61635843",
+    "61635844",
+    "61635845",
+    "61635846",
+    "61635847",
+    "61635848",
+    "61635849",
+    "61635850",
+    "61635851",
+    "61635852"
+   ]
+  },
+  {
+   "date": "2013-05-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:260394:por",
+     "title": "Lei n.º 29/2013",
+     "published": "2013-04-19",
+     "dre_path": "/dr/detalhe/lei/29-2013-260394"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "61635836",
+    "61635837",
+    "61635838",
+    "61635839",
+    "61635840",
+    "61635841",
+    "61635842",
+    "61635843",
+    "61635844",
+    "61635845",
+    "61635854",
+    "61635847",
+    "61635848",
+    "61635849",
+    "61635850",
+    "61635851",
+    "61635852",
+    "61635853"
+   ]
+  }
+ ],
+ "fragments": {
+  "61635836": {
+   "fragment_id": "63397379",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 21/2007\n\nde 12 de Junho\n\nCria um regime de mediação penal, em execução do artigo 10.º da Decisão Quadro n.º <a href=\"eurlex.asp?ano=2001&id=32001F0220\" title=\"Link paraDecisão da Comunidade Europeia\">2001/220/JAI</a>, do Conselho, de 15 de Março, relativa ao estatuto da vítima em processo penal\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "61635837": {
+   "fragment_id": "63397380",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei cria o regime da mediação em processo penal."
+  },
+  "61635838": {
+   "fragment_id": "63397381",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - A mediação em processo penal pode ter lugar em processo por crime cujo procedimento dependa de queixa ou de acusação particular.\n\n2 - A mediação em processo penal só pode ter lugar em processo por crime que dependa apenas de queixa quando se trate de crime contra as pessoas ou de crime contra o património.\n\n3 - Independentemente da natureza do crime, a mediação em processo penal não pode ter lugar nos seguintes casos:\n\na) O tipo legal de crime preveja pena de prisão superior a 5 anos;\n\nb) Se trate de processo por crime contra a liberdade ou autodeterminação sexual;\n\nc) Se trate de processo por crime de peculato, corrupção ou tráfico de influência;\n\nd) O ofendido seja menor de 16 anos;\n\ne) Seja aplicável processo sumário ou sumaríssimo.\n\n4 - Nos casos em que o ofendido não possua o discernimento para entender o alcance e o significado do exercício do direito de queixa ou tenha morrido sem ter renunciado à queixa, a mediação pode ter lugar com intervenção do queixoso em lugar do ofendido.\n\n5 - Nos casos referidos no número anterior, as referências efectuadas na presente lei ao ofendido devem ter-se por efectuadas ao queixoso."
+  },
+  "61635839": {
+   "fragment_id": "63397382",
+   "type": 11,
+   "heading": "Artigo 3.º — Remessa do processo para mediação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Remessa do processo para mediação\n\n1 - Para os efeitos previstos no artigo anterior, o Ministério Público, em qualquer momento do inquérito, se tiverem sido recolhidos indícios de se ter verificado crime e de que o arguido foi o seu agente, e se entender que desse modo se pode responder adequadamente às exigências de prevenção que no caso se façam sentir, designa um mediador das listas previstas no artigo 11.º e remete-lhe a informação que considere essencial sobre o arguido e o ofendido e uma descrição sumária do objecto do processo.\n\n2 - Se o ofendido e o arguido requererem a mediação, nos casos em que esta é admitida ao abrigo da presente lei, o Ministério Público designa um mediador nos termos do número anterior, independentemente da verificação dos requisitos aí previstos.\n\n3 - Nos casos previstos nos números anteriores, o arguido e o ofendido são notificados de que o processo foi remetido para mediação, de acordo com modelo aprovado por portaria do Ministro da Justiça.\n\n4 - Quando razões excepcionais o justifiquem, nomeadamente em função da inserção comunitária ou ambiente cultural do arguido e ofendido, o mediador pode transferir o processo para outro mediador que repute mais indicado para a condução da mediação, disso dando conhecimento, fundamentadamente, por meios electrónicos, ao Ministério Público e ao organismo referido no artigo 13.º\n\n5 - O mediador contacta o arguido e o ofendido para obter os seus consentimentos livres e esclarecidos quanto à participação na mediação, informando-os dos seus direitos e deveres e da natureza, finalidade e regras aplicáveis ao processo de mediação, e verifica se aqueles reúnem condições para participar no processo de mediação.\n\n6 - Caso não obtenha consentimento ou verifique que o arguido ou o ofendido não reúne condições para a participação na mediação, o mediador informa disso o Ministério Público, prosseguindo o processo penal.\n\n7 - Se o mediador obtiver os consentimentos livres e esclarecidos do arguido e do ofendido para a participação na mediação, estes assinam um termo de consentimento, que contém as regras a que obedece a mediação, e é iniciado o processo de mediação."
+  },
+  "61635840": {
+   "fragment_id": "63397383",
+   "type": 11,
+   "heading": "Artigo 4.º — Processo de mediação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Processo de mediação\n\n1 - A mediação é um processo informal e flexível, conduzido por um terceiro imparcial, o mediador, que promove a aproximação entre o arguido e o ofendido e os apoia na tentativa de encontrar activamente um acordo que permita a reparação dos danos causados pelo facto ilícito e contribua para a restauração da paz social.\n\n2 - O arguido e o ofendido podem, em qualquer momento, revogar o seu consentimento para a participação na mediação.\n\n3 - Quando se revista de utilidade para a boa resolução do conflito podem ser chamados a intervir na mediação outros interessados, nomeadamente eventuais responsáveis civis e lesados.\n\n4 - O disposto no n.º 2 é aplicável, com as necessárias adaptações, à participação na mediação de eventuais responsáveis civis e lesados.\n\n5 - O teor das sessões de mediação é confidencial, não podendo ser valorado como prova em processo judicial."
+  },
+  "61635841": {
+   "fragment_id": "63397384",
+   "type": 11,
+   "heading": "Artigo 5.º — Tramitação subsequente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Tramitação subsequente\n\n1 - Não resultando da mediação acordo entre arguido e ofendido ou não estando o processo de mediação concluído no prazo de três meses sobre a remessa do processo para mediação, o mediador informa disso o Ministério Público, prosseguindo o processo penal.\n\n2 - O mediador pode solicitar ao Ministério Público uma prorrogação, até um máximo de dois meses, do prazo previsto no número anterior, desde que se verifique uma forte probabilidade de se alcançar um acordo.\n\n3 - Resultando da mediação acordo, o seu teor é reduzido a escrito, em documento assinado pelo arguido e pelo ofendido, e transmitido pelo mediador ao Ministério Público.\n\n4 - No caso previsto no número anterior, a assinatura do acordo equivale a desistência da queixa por parte do ofendido e à não oposição por parte do arguido, podendo o ofendido, caso o acordo não seja cumprido no prazo fixado, renovar a queixa no prazo de um mês, sendo reaberto o inquérito.\n\n5 - Para os efeitos previstos no número anterior, o Ministério Público verifica se o acordo respeita o disposto no artigo 6.º e, em caso afirmativo, homologa a desistência de queixa no prazo de cinco dias, devendo a secretaria notificar imediatamente a homologação ao mediador, ao arguido e ao ofendido.\n\n6 - Havendo indicação de endereço electrónico ou de número de fax ou telefone, a notificação referida no número anterior é efectuada por uma dessas vias.\n\n7 - Os processos em que tenha havido mediação e em que desta tenha resultado acordo são tramitados como urgentes desde a recepção do acordo pelo Ministério Público até ao termo dos trâmites a que se referem os n.os 5 e 6.\n\n8 - Quando o Ministério Público verifique que o acordo não respeita o disposto no artigo 6.º, devolve o processo ao mediador, para que este, no prazo de 30 dias, juntamente com o ofendido e o arguido, sane a ilegalidade."
+  },
+  "61635842": {
+   "fragment_id": "63397385",
+   "type": 11,
+   "heading": "Artigo 6.º — Acordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Acordo\n\n1 - O conteúdo do acordo é livremente fixado pelos sujeitos processuais participantes, sem prejuízo do disposto no número seguinte.\n\n2 - No acordo não podem incluir-se sanções privativas da liberdade ou deveres que ofendam a dignidade do arguido ou cujo cumprimento se deva prolongar por mais de seis meses.\n\n3 - Havendo renovação de queixa nos termos do n.º 4 do artigo 5.º, o Ministério Público verifica o incumprimento do acordo, podendo, para esse fim, recorrer aos serviços de reinserção social, a órgãos de polícia criminal e a outras entidades administrativas."
+  },
+  "61635843": {
+   "fragment_id": "63397386",
+   "type": 11,
+   "heading": "Artigo 7.º — Suspensão de prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Suspensão de prazos\n\n1 - A remessa do processo para mediação determina a suspensão do prazo previsto no n.º 1 do artigo 283.º do Código de Processo Penal e dos prazos de duração máxima do inquérito previstos no artigo 276.º do Código de Processo Penal.\n\n2 - Os prazos de prescrição do procedimento criminal suspendem-se desde a remessa do processo para mediação até à sua devolução pelo mediador ao Ministério Público ou, tendo resultado da mediação acordo, até à data fixada para o seu cumprimento."
+  },
+  "61635844": {
+   "fragment_id": "63397387",
+   "type": 11,
+   "heading": "Artigo 8.º — Presença de advogado nas sessões de mediação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Presença de advogado nas sessões de mediação\n\nNas sessões de mediação, o arguido e o ofendido devem comparecer pessoalmente, podendo fazer-se acompanhar de advogado ou de advogado estagiário."
+  },
+  "61635845": {
+   "fragment_id": "63397388",
+   "type": 11,
+   "heading": "Artigo 9.º — Custas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Custas\n\nPelo processo de mediação não há lugar ao pagamento de custas, aplicando-se no demais o disposto no livro XI do Código de Processo Penal e no Código das Custas Judiciais."
+  },
+  "61635846": {
+   "fragment_id": "63397389",
+   "type": 11,
+   "heading": "Artigo 10.º — Exercício da actividade do mediador penal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Exercício da actividade do mediador penal\n\n1 - No desempenho das suas funções, o mediador penal deve observar os deveres de imparcialidade, independência, confidencialidade e diligência.\n\n2 - O mediador penal que, por razões legais, éticas ou deontológicas, não tenha ou deixe de ter assegurada a sua independência, imparcialidade e isenção deve recusar ou interromper o processo de mediação e informar disso o Ministério Público, que procede à sua substituição de acordo com o previsto no n.º 1 do artigo 3.º\n\n3 - O mediador penal tem o dever de guardar segredo profissional em relação ao teor das sessões de mediação.\n\n4 - O mediador penal fica vinculado ao segredo de justiça em relação à informação processual de que tiver conhecimento em virtude de participação no processo de mediação.\n\n5 - Não é permitido ao mediador penal intervir, por qualquer forma, nomeadamente como testemunha, em quaisquer procedimentos subsequentes à mediação, como o processo judicial ou o acompanhamento psicoterapêutico, quer se tenha aí obtido ou não um acordo e ainda que tais procedimentos estejam apenas indirectamente relacionados com a mediação realizada.\n\n6 - A fiscalização da actividade dos mediadores penais cabe à comissão prevista no n.º 6 do artigo 33.º da Lei n.º 78/2001, de 13 de Julho."
+  },
+  "61635847": {
+   "fragment_id": "63397390",
+   "type": 11,
+   "heading": "Artigo 11.º — Listas de mediadores penais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Listas de mediadores penais\n\n1 - São organizadas, no quadro dos serviços de mediação dos julgados de paz, listas contendo os nomes das pessoas habilitadas a exercer as funções de mediador penal, o respectivo domicílio profissional, endereço de correio electrónico e contacto telefónico.\n\n2 - Cabe ao Ministério da Justiça:\n\na) Desenvolver os procedimentos conducentes à inscrição dos mediadores nas listas;\n\nb) Assegurar a manutenção e actualização das listas, bem como a sua disponibilização aos serviços do Ministério Público;\n\nc) Criar um sistema que garanta a designação sequencial dos mediadores pelo Ministério Público, sem prejuízo do disposto no n.º 4 do artigo 3.º;\n\nd) Disponibilizar as listas de mediadores penais na página oficial do Ministério da Justiça.\n\n3 - A inscrição nas listas não investe o mediador penal na qualidade de agente nem garante o pagamento de qualquer remuneração fixa por parte do Estado."
+  },
+  "61635848": {
+   "fragment_id": "63397391",
+   "type": 11,
+   "heading": "Artigo 12.º — Pessoas habilitadas a exercer as funções de mediador penal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Pessoas habilitadas a exercer as funções de mediador penal\n\n1 - As listas de mediadores penais são preenchidas mediante um procedimento de selecção, podendo candidatar-se quem satisfizer os seguintes requisitos:\n\na) Ter mais de 25 anos de idade;\n\nb) Estar no pleno gozo dos seus direitos civis e políticos;\n\nc) Ter licenciatura ou experiência profissional adequadas;\n\nd) Estar habilitado com um curso de mediação penal reconhecido pelo Ministério da Justiça;\n\ne) e) Ser pessoa idónea para o exercício da actividade de mediador penal;\n\nf) Ter o domínio da língua portuguesa.\n\n2 - Entre outras circunstâncias, é indiciador de falta de idoneidade para inscrição nas listas oficiais o facto de o requerente ter sido condenado por sentença transitada em julgado pela prática de crime doloso.\n\n3 - Os critérios de graduação e os termos do procedimento de selecção são aprovados por portaria do Ministro da Justiça."
+  },
+  "61635849": {
+   "fragment_id": "63397392",
+   "type": 11,
+   "heading": "Artigo 13.º — Remuneração do mediador penal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Remuneração do mediador penal\n\nA remuneração pela prestação de serviços de mediador penal consta de tabela fixada por despacho do Ministro da Justiça, sendo suportada por verbas inscritas no orçamento do organismo do Ministério da Justiça ao qual incumbe promover os meios de resolução alternativa de litígios."
+  },
+  "61635850": {
+   "fragment_id": "63397393",
+   "type": 11,
+   "heading": "Artigo 14.º — Período experimental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Período experimental\n\n1 - A partir da entrada em vigor da presente lei e por um período de dois anos, a mediação penal funciona a título experimental nas circunscrições a designar por portaria do Ministro da Justiça, a qual define igualmente os demais termos da prestação do serviço de mediação penal nessas circunscrições.\n\n2 - Durante o período experimental, o Ministério da Justiça adopta as medidas adequadas à monitorização e avaliação da mediação em processo penal.\n\n3 - Decorrido o período experimental previsto no n.º 1, a extensão da mediação penal a outras circunscrições depende de portaria do Ministro da Justiça."
+  },
+  "61635851": {
+   "fragment_id": "63397394",
+   "type": 11,
+   "heading": "Artigo 15.º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Aplicação no tempo\n\nA presente lei aplica-se aos processos penais iniciados após a sua entrada em vigor."
+  },
+  "61635852": {
+   "fragment_id": "63397395",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nA presente lei entra em vigor no 30.º dia após a sua publicação."
+  },
+  "61635854": {
+   "fragment_id": "63397389",
+   "type": 11,
+   "heading": "Artigo 10.º — Exercício da actividade do mediador penal",
+   "in_force_from": "2013-05-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 49.º do/a [Lei n.º 29/2013 - Diário da República n.º 77/2013, Série I de 2013-04-19](https://diariodarepublica.pt/dr/detalhe/lei/29-2013-260394), em vigor a partir de 2013-05-19"
+   ],
+   "markdown": "###### Artigo 10.º — Exercício da actividade do mediador penal\n\n1 - No desempenho das suas funções, o mediador penal deve observar os deveres de imparcialidade, independência, confidencialidade e diligência.\n\n2 - O mediador penal que, por razões legais, éticas ou deontológicas, não tenha ou deixe de ter assegurada a sua independência, imparcialidade e isenção deve recusar ou interromper o processo de mediação e informar disso o Ministério Público, que procede à sua substituição de acordo com o previsto no n.º 1 do artigo 3.º\n\n3 - O mediador penal tem o dever de guardar segredo profissional em relação ao teor das sessões de mediação.\n\n4 - O mediador penal fica vinculado ao segredo de justiça em relação à informação processual de que tiver conhecimento em virtude de participação no processo de mediação.\n\n5 - Não é permitido ao mediador penal intervir, por qualquer forma, nomeadamente como testemunha, em quaisquer procedimentos subsequentes à mediação, como o processo judicial ou o acompanhamento psicoterapêutico, quer se tenha aí obtido ou não um acordo e ainda que tais procedimentos estejam apenas indirectamente relacionados com a mediação realizada.\n\n6 - (Revogado).\n\n> Alterado pelo/a Artigo 49.º do/a [Lei n.º 29/2013 - Diário da República n.º 77/2013, Série I de 2013-04-19](https://diariodarepublica.pt/dr/detalhe/lei/29-2013-260394), em vigor a partir de 2013-05-19"
+  },
+  "61635853": {
+   "fragment_id": "63397396",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 12 de Abril de 2007.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 30 de Maio de 2007.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendada em 31 de Maio de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

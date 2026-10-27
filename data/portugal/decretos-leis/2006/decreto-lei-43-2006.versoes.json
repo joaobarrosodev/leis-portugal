@@ -1,0 +1,399 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:694049:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-156104098",
+ "dre_path": "/dr/detalhe/decreto-lei/43-2006-694049",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-02-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "156102627",
+    "156102628",
+    "156102629",
+    "156102630",
+    "156102631",
+    "156102632",
+    "156102633",
+    "156102634",
+    "156102635",
+    "156102636",
+    "156102637",
+    "156102638",
+    "156102639",
+    "156102640",
+    "156102641",
+    "156102642",
+    "156102643",
+    "156102644",
+    "156102645",
+    "156102646",
+    "156102647",
+    "156102648",
+    "156102649",
+    "156102650",
+    "156102651",
+    "156102652",
+    "156102653",
+    "156102654",
+    "156102655",
+    "156102656"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º"
+   ],
+   "fragments": [
+    "156102627",
+    "156102628",
+    "156102629",
+    "156102630",
+    "156102631",
+    "156102632",
+    "156102633",
+    "156102634",
+    "156102635",
+    "156102636",
+    "156102637",
+    "156102638",
+    "156102639",
+    "156102640",
+    "156102641",
+    "156102642",
+    "156102643",
+    "156102644",
+    "156102645",
+    "156102646",
+    "156102647",
+    "156102658",
+    "156102659",
+    "156102660",
+    "156102651",
+    "156102661",
+    "156102662",
+    "156102654",
+    "156102655",
+    "156102656",
+    "156102657"
+   ]
+  }
+ ],
+ "fragments": {
+  "156102627": {
+   "fragment_id": "156104099",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 43/2006\n\nde 24 de Fevereiro\n\nA Lei n.º 41/96, de 31 de Agosto, consagrou a obrigação de o Estado suportar os encargos totais correspondentes à expedição, por via aérea e marítima, dos livros, revistas e jornais de natureza pedagógica, técnica, científica, literária, recreativa e informativa, de e para as Regiões Autónomas.\n\nO Decreto-Lei n.º 284/97, de 22 de Outubro, veio impor efectivamente um regime de equiparação de preços de publicações periódicas e não periódicas em todo o território nacional.\n\nComo antecedente justificativo da fixação de tal regime, o legislador assinalava, no preâmbulo do Decreto-Lei n.º 284/97, ser a equiparação de preços objectivo implícito já prosseguido na Lei n.º 41/96, admitindo, contudo, a conveniência de promover a sua regulamentação expressa.\n\nSem se explicitar, a teleologia do diploma visava proporcionar aos cidadãos de todo o território nacional o acesso à informação em condições de igualdade no que respeita ao preço das publicações e à sua disponibilização temporal, suportando o Estado os encargos associados ao transporte das publicações periódicas de e para o continente e Regiões Autónomas.\n\nNão se tendo restringido à informação geral, como género que melhor preencheria os objectivos de participação cívica subjacentes ao diploma, verificou-se, com o decurso do tempo, a incidência maioritária dos encargos envolvidos em publicações periódicas de outro tipo, criando-se, assim, um regime mais pródigo que o do porte pago, e ao contrário deste, sem qualquer limitação à comparticipação do Estado e sem sujeição a um procedimento de habilitação.\n\nParalelamente, a evolução registada no mercado das publicações periódicas, em particular no que respeita à proliferação de subprodutos com elas vendidos ou oferecidos, acentuou, em moldes mais evidentes, a desproporção entre o princípio do acesso que presidiu àquele regime e as efectivas consequências práticas do diploma.\n\nEvidenciando também o desequilíbrio entre os objectivos prosseguidos pelo Decreto-Lei n.º 284/97, e o reflexo que tal regime teve no mercado regional de publicações periódicas, assinale-se que, em 2004, os custos suportados pelo Estado ultrapassam já o montante total atribuído à comunicação social regional e local, a título de incentivos directos, o que traduz uma distorção inaceitável das prioridades definidas.\n\nO presente projecto visa corrigir precisamente os desvios antes anotados, ponderando os bens jurídicos em conflito e reorientando de forma clara os princípios a salvaguardar, racionalizando também os encargos assumidos pelo Estado.\n\nForam ouvidos os órgãos de governo próprios das Regiões Autónomas e a Alta Autoridade para a Comunicação Social.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "156102628": {
+   "fragment_id": "156104100",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "156102629": {
+   "fragment_id": "156104101",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - São equiparados entre o continente e as Regiões Autónomas os preços de venda ao público de publicações não periódicas e de publicações periódicas de informação geral.\n\n2 - A obrigação de equiparação a que se refere o número anterior impende sobre os editores ou distribuidores das publicações nele referidas."
+  },
+  "156102630": {
+   "fragment_id": "156104102",
+   "type": 11,
+   "heading": "Artigo 2.º — Encargos de expedição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Encargos de expedição\n\n1 - O Estado suporta os encargos totais correspondentes à expedição, por via marítima, de publicações não periódicas e, por via aérea e marítima, de publicações periódicas de informação geral, deduzida da diferença entre as taxas do IVA aplicáveis no continente e Regiões Autónomas.\n\n2 - Para efeitos do disposto no número anterior, são considerados os encargos totais relativos ao transporte e levantamento no destino das referidas publicações:\n\na) Do continente para as Regiões Autónomas;\n\nb) Das Regiões Autónomas para o continente;\n\nc) Entre as Regiões Autónomas.\n\n3 - Compete aos distribuidores garantir os melhores preços de mercado para os encargos de expedição a assumir pelo Estado.\n\n4 - O Estado não suporta os encargos correspondentes à reexpedição de quaisquer exemplares não vendidos, sejam eles publicações periódicas ou não periódicas."
+  },
+  "156102631": {
+   "fragment_id": "156104103",
+   "type": 11,
+   "heading": "Artigo 3.º — Publicações excluídas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Publicações excluídas\n\nExceptuam-se do regime do presente decreto-lei as seguintes publicações:\n\na) Pertencentes ou editadas por partidos políticos, associações políticas ou associações sindicais, patronais ou profissionais, directamente ou por interposta pessoa;\n\nb) Cuja propriedade ou edição seja da administração central, regional ou local, bem como de quaisquer serviços ou departamentos daquelas dependentes ou de serviços municipalizados;\n\nc) Que não estejam devidamente registadas de acordo com o disposto na Lei de Imprensa ou não obedeçam aos demais requisitos nela previstos, no caso de publicações periódicas de informação geral;\n\nd) Gratuitas;\n\ne) Cujo conteúdo consubstancie uma violação da lei penal;\n\nf) Que não sejam maioritariamente vendidas no território nacional;\n\ng) Que sejam editadas ou distribuídas por entidades que não exerçam a actividade de editor ou de distribuidor, no caso de publicações não periódicas."
+  },
+  "156102632": {
+   "fragment_id": "156104104",
+   "type": 11,
+   "heading": "Artigo 4.º — Reembolso dos encargos de expedição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Reembolso dos encargos de expedição\n\n1 - Os encargos de expedição, a que se refere o presente decreto-lei, são reembolsados mediante a apresentação dos respectivos documentos comprovativos:\n\na) Junto do Instituto da Comunicação Social, no caso das expedições de publicações periódicas de informação geral;\n\nb) Junto da Direcção-Geral de Inovação e Desenvolvimento Curricular, no caso das expedições de manuais escolares e de outros recursos didáctico-pedagógicos impressos, nos termos do n.º 2 do presente artigo;\n\nc) Junto do Instituto Português do Livro e das Bibliotecas, no caso das expedições das restantes publicações não periódicas, com excepção de manuais escolares e outros recursos didáctico-pedagógicos impressos.\n\n2 - São reembolsados os encargos de expedição de manuais escolares adoptados pelas escolas das Regiões Autónomas e outros recursos didáctico-pedagógicos impressos por aquelas recomendados que constem, em todos os casos, de base de dados oficial e de acesso público."
+  },
+  "156102633": {
+   "fragment_id": "156104105",
+   "type": 1,
+   "heading": "Capítulo II — Publicações periódicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Publicações periódicas"
+  },
+  "156102634": {
+   "fragment_id": "156104106",
+   "type": 11,
+   "heading": "Artigo 5.º — Acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Acesso\n\n1 - Para efeitos do n.º 1 do artigo 4.º, os editores ou distribuidores de publicações periódicas de informação geral requerem ao Instituto da Comunicação Social a emissão de autorização para reembolso dos encargos de expedição, mediante junção de um exemplar de cada uma das três últimas edições, bem como de cópia da classificação atribuída pela entidade competente nos termos da lei.\n\n2 - A autorização é emitida no prazo de dez dias, retroagindo o seu efeito à data de apresentação do último documento para instrução do processo.\n\n3 - A autorização constitui requisito obrigatório para reembolso dos encargos de expedição."
+  },
+  "156102635": {
+   "fragment_id": "156104107",
+   "type": 11,
+   "heading": "Artigo 6.º — Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Documentação\n\n1 - Para efeitos de reembolso, são apresentadas cópias das guias de remessa diárias emitidas pelos editores ou distribuidores.\n\n2 - Constam, obrigatoriamente, das guias de remessa diárias:\n\na) A identificação do destinatário;\n\nb) O título da publicação;\n\nc) O número de registo como órgão de comunicação social;\n\nd) O número de exemplares;\n\ne) O peso unitário dos exemplares;\n\nf) Cópias das facturas detalhadas emitidas pelos transitórios, acompanhadas de cópias dos demais documentos de transporte."
+  },
+  "156102636": {
+   "fragment_id": "156104108",
+   "type": 11,
+   "heading": "Artigo 7.º — Entidades responsáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entidades responsáveis\n\nOs transitários são responsáveis pela apresentação a reembolso da documentação a que se refere o artigo anterior."
+  },
+  "156102637": {
+   "fragment_id": "156104109",
+   "type": 11,
+   "heading": "Artigo 8.º — Encargos abrangidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Encargos abrangidos\n\nSão objecto de reembolso:\n\na) Os encargos de expedição efectuada por transporte aéreo de publicações periódicas de informação geral cuja periodicidade registada seja igual ou inferior à mensal;\n\nb) Os encargos de expedição efectuada por transporte marítimo de publicações periódicas de informação geral cuja periodicidade registada seja superior à mensal."
+  },
+  "156102638": {
+   "fragment_id": "156104110",
+   "type": 11,
+   "heading": "Artigo 9.º — Encargos não abrangidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Encargos não abrangidos\n\nPara além das publicações periódicas especializadas, o reembolso a que se refere o artigo anterior não abrange:\n\na) Os encargos de expedição de publicações enviadas a título gratuito, designadamente ofertas, promoções ou permutas;\n\nb) Os encargos com a expedição postal de publicações periódicas para assinantes;\n\nc) Os encargos de expedição de quaisquer subprodutos, independentemente da sua repercussão no preço de capa e da sua natureza."
+  },
+  "156102639": {
+   "fragment_id": "156104111",
+   "type": 1,
+   "heading": "Capítulo III — Publicações não periódicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Publicações não periódicas"
+  },
+  "156102640": {
+   "fragment_id": "156104112",
+   "type": 11,
+   "heading": "Artigo 10.º — Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Documentação\n\n1 - Para efeitos de reembolso das expedições efectuadas por via postal, são apresentadas:\n\na) Cópias das facturas detalhadas emitidas pelos editores ou distribuidores que os representem;\n\nb) Guias de remessa emitidas pelos editores ou distribuidores que os representem;\n\nc) Cópias das facturas emitidas pelo operador postal;\n\nd) Cópias das guias de avença, quando haja sido celebrado contrato de avença.\n\n2 - Nos demais casos, são apresentadas:\n\na) Cópias das facturas detalhadas emitidas pelos editores ou distribuidores que os representem;\n\nb) Guias de remessa emitidas pelos editores ou distribuidores que os representem;\n\nc) Cópias das facturas emitidas pelos transitários;\n\nd) Cópias dos demais documentos de transporte.\n\n3 - Constam, obrigatoriamente, da documentação referida nos números anteriores a natureza das publicações enviadas, o destino, a via, o peso e, no caso da documentação emitida pelos transitários ou pelo operador postal, os respectivos encargos de expedição."
+  },
+  "156102641": {
+   "fragment_id": "156104113",
+   "type": 11,
+   "heading": "Artigo 11.º — Entidades responsáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entidades responsáveis\n\nSão responsáveis pela apresentação a reembolso da documentação, a que se refere o artigo anterior, os editores ou distribuidores que os representem."
+  },
+  "156102642": {
+   "fragment_id": "156104114",
+   "type": 11,
+   "heading": "Artigo 12.º — Encargos abrangidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Encargos abrangidos\n\nApenas são objecto de reembolso os encargos referentes a expedições por via marítima, salvo situações de urgência, devidamente fundamentadas e previamente autorizadas pelo Instituto Português do Livro e das Bibliotecas ou pela Direcção-Geral de Inovação e Desenvolvimento Curricular, consoante os casos."
+  },
+  "156102643": {
+   "fragment_id": "156104115",
+   "type": 11,
+   "heading": "Artigo 13.º — Margens de comercialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Margens de comercialização\n\nO disposto no presente decreto-lei não prejudica o regime estabelecido pelo Decreto-Lei n.º 176/96, de 21 de Setembro."
+  },
+  "156102644": {
+   "fragment_id": "156104116",
+   "type": 1,
+   "heading": "Capítulo IV — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Fiscalização"
+  },
+  "156102645": {
+   "fragment_id": "156104117",
+   "type": 11,
+   "heading": "Artigo 14.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Âmbito\n\n1 - Os agentes económicos envolvidos no processo de edição, distribuição, transporte e venda das publicações sujeitas ao regime previsto no presente decreto-lei ficam sujeitos às acções de fiscalização destinadas a assegurar o seu cumprimento.\n\n2 - As entidades referidas no número anterior facultam o acesso dos agentes fiscalizadores às respectivas instalações, documentos de prestação de contas e outros elementos necessários à sua actividade."
+  },
+  "156102646": {
+   "fragment_id": "156104118",
+   "type": 11,
+   "heading": "Artigo 15.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competência\n\n1 - Cabe ao Instituto da Comunicação Social, à Inspecção-Geral da Educação e à Inspecção-Geral das Actividades Culturais a fiscalização do cumprimento do regime estabelecido pelo presente decreto-lei.\n\n2 - Exceptua-se do número anterior a fiscalização do cumprimento do artigo 1.º e do n.º 3 do artigo 2.º, que compete à Autoridade de Segurança Alimentar e Económica (ASAE) e às inspecções regionais das actividades económicas, no respectivo âmbito territorial de actuação."
+  },
+  "156102647": {
+   "fragment_id": "156104119",
+   "type": 1,
+   "heading": "Capítulo V — Dos ilícitos de mera ordenação social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Dos ilícitos de mera ordenação social"
+  },
+  "156102648": {
+   "fragment_id": "156104120",
+   "type": 11,
+   "heading": "Artigo 16.º — Regime aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regime aplicável\n\nAo processo das contra-ordenações previstas no presente decreto-lei aplica-se o regime do ilícito de mera ordenação social, aprovado pelo Decreto-Lei n.º 433/82, de 27 de Outubro, e, subsidiariamente, o disposto no Código de Processo Penal."
+  },
+  "156102649": {
+   "fragment_id": "156104121",
+   "type": 11,
+   "heading": "Artigo 17.º — Falta de equiparação de preços de venda ao público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Falta de equiparação de preços de venda ao público\n\n1 - A inobservância do disposto no artigo 1.º e no n.º 3 do artigo 2.º do presente decreto-lei constitui contra-ordenação muito grave, punível com coima de (euro) 1500 a (euro) 3500, quando cometido por pessoa singular, e de (euro) 20000 a (euro) 44000, quando cometido por pessoa colectiva.\n\n2 - A negligência é punível."
+  },
+  "156102650": {
+   "fragment_id": "156104122",
+   "type": 11,
+   "heading": "Artigo 18.º — Recusa de acesso a instalações e documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Recusa de acesso a instalações e documentos\n\n1 - A inobservância do disposto no n.º 2 do artigo 14.º do presente decreto-lei constitui contra-ordenação grave, punível com coima de (euro) 500 a (euro) 1500, quando cometida por pessoa singular, e de (euro) 7500 a (euro) 15000, quando cometida por pessoa colectiva.\n\n2 - A negligência é punível."
+  },
+  "156102651": {
+   "fragment_id": "156104123",
+   "type": 11,
+   "heading": "Artigo 19.º — Sanção acessória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Sanção acessória\n\nA prática das contra-ordenações previstas no presente decreto-lei pode ainda dar lugar à sanção acessória de privação do direito ao reembolso dos encargos de expedição por um período não superior a dois anos."
+  },
+  "156102652": {
+   "fragment_id": "156104124",
+   "type": 11,
+   "heading": "Artigo 20.º — Instrução de processos e aplicação de sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Instrução de processos e aplicação de sanções\n\n1 - Compete ao Instituto da Comunicação Social instruir os processos de contra-ordenação previstos no artigo 18.º e que digam respeito a publicações periódicas, bem como aplicar as respectivas coimas.\n\n2 - Compete à Inspecção-Geral de Educação instruir os processos de contra-ordenação previstos no artigo 18.º e que digam respeito a manuais e livros para utilização escolar, bem como aplicar as respectivas coimas.\n\n3 - Compete à Inspecção-Geral de Actividades Culturais instruir os processos de contra-ordenação previstos no artigo 18.º e que digam respeito a publicações não periódicas, bem como aplicar as respectivas coimas.\n\n4 - Compete à ASAE e às inspecções regionais das actividades económicas, no respectivo âmbito territorial de actuação, instruir os processos de contra-ordenação previstos no artigo 17.º\n\n5 - Nos casos previstos no número anterior, compete à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CACMEP) e às inspecções regionais das actividades económicas, no seu âmbito territorial de actuação, aplicar as respectivas coimas."
+  },
+  "156102653": {
+   "fragment_id": "156104125",
+   "type": 11,
+   "heading": "Artigo 21.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Receitas\n\nO produto da aplicação das coimas reverte em 20% para a entidade instrutora, em 20% para a entidade responsável pela aplicação das coimas e em 60% para o Estado."
+  },
+  "156102654": {
+   "fragment_id": "156104126",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais"
+  },
+  "156102655": {
+   "fragment_id": "156104127",
+   "type": 11,
+   "heading": "Artigo 22.º — Cobertura de encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Cobertura de encargos\n\nOs encargos decorrentes da aplicação do presente decreto-lei são inscritos anualmente nos orçamentos do Instituto da Comunicação Social, do Instituto Português do Livro e das Bibliotecas, da Direcção-Geral de Inovação e Desenvolvimento Curricular, da Inspecção-Geral de Educação e da ASAE."
+  },
+  "156102656": {
+   "fragment_id": "156104128",
+   "type": 11,
+   "heading": "Artigo 23.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 284/97, de 22 de Outubro."
+  },
+  "156102658": {
+   "fragment_id": "156104120",
+   "type": 11,
+   "heading": "Artigo 16.º — Regime aplicável",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 16.º — Regime aplicável\n\nAos processos de contraordenação previstos no presente decreto-lei aplica-se o Regime Jurídico das Contraordenações Económicas (RJCE).\n\n> Alterado pelo/a Artigo 63.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156102659": {
+   "fragment_id": "156104121",
+   "type": 11,
+   "heading": "Artigo 17.º — Falta de equiparação de preços de venda ao público",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 17.º — Falta de equiparação de preços de venda ao público\n\n1 - A inobservância do disposto no artigo 1.º e no n.º 3 do artigo 2.º constitui contraordenação económica grave, punível nos termos do RJCE.\n\n2 - A negligência é punível nos termos do RJCE.\n\n> Alterado pelo/a Artigo 63.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156102660": {
+   "fragment_id": "156104122",
+   "type": 11,
+   "heading": "Artigo 18.º — Recusa de acesso a instalações e documentos",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 18.º — Recusa de acesso a instalações e documentos\n\n1 - A inobservância do disposto no n.º 2 do artigo 14.º constitui contraordenação económica leve, punível nos termos do RJCE.\n\n2 - A negligência é punível nos termos do RJCE.\n\n> Alterado pelo/a Artigo 63.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156102661": {
+   "fragment_id": "156104124",
+   "type": 11,
+   "heading": "Artigo 20.º — Instrução de processos e aplicação de sanções",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 20.º — Instrução de processos e aplicação de sanções\n\n1 - Compete ao Instituto da Comunicação Social instruir os processos de contra-ordenação previstos no artigo 18.º e que digam respeito a publicações periódicas, bem como aplicar as respectivas coimas.\n\n2 - Compete à Inspecção-Geral de Educação instruir os processos de contra-ordenação previstos no artigo 18.º e que digam respeito a manuais e livros para utilização escolar, bem como aplicar as respectivas coimas.\n\n3 - Compete à Inspecção-Geral de Actividades Culturais instruir os processos de contra-ordenação previstos no artigo 18.º e que digam respeito a publicações não periódicas, bem como aplicar as respectivas coimas.\n\n4 - Compete à ASAE e às inspecções regionais das actividades económicas, no respectivo âmbito territorial de actuação, instruir os processos de contra-ordenação previstos no artigo 17.º\n\n5 - Nos casos previstos no número anterior, compete ao inspetor-geral da ASAE a aplicação das respetivas coimas e sanções acessórias.\n\n> Alterado pelo/a Artigo 63.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156102662": {
+   "fragment_id": "156104125",
+   "type": 11,
+   "heading": "Artigo 21.º — Distribuição do produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 21.º — Distribuição do produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 63.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156102657": {
+   "fragment_id": "156104129",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 12 de Janeiro de 2006. - José Sócrates Carvalho Pinto de Sousa - Alberto Bernardes Costa - António José de Castro Guerra - Maria de Lurdes Reis Rodrigues - Maria Isabel da Silva Pires de Lima - Augusto Ernesto Santos Silva.\n\nPromulgado em 9 de Fevereiro de 2006.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 13 de Fevereiro de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

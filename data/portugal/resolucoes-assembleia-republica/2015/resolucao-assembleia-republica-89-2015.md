@@ -1,0 +1,105 @@
+---
+schema_version: '1.0'
+id: pt:dre:69800938:por
+title: Resolução da Assembleia da República n.º 89/2015
+short_title: null
+summary: Recomenda ao Governo o desenvolvimento de um programa de valorização do turismo para as levadas da ilha da Madeira
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 89/2015
+official_date: null
+publication_date: '2015-07-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 135/2015, Série I de 2015-07-14
+  number: '135'
+  series: I
+  supplement: null
+  pages: 4801 - 4801
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/07/13500/0480104801.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/89/2015/07/14/p/dre/pt/html
+  oj: null
+  dre: '69800938'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/89-2015-69800938
+  internal: pt:dre:69800938:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/89-2015-69800938
+  metadata_url: https://data.dre.pt/eli/resolassrep/89/2015/07/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/89-2015-69800938
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:42:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 9fee1d826fe9d2b94be90541188deeb89b8fd82ab75d2db3c90e7e4a95360f7a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:42:48Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Governo
+- Governo Regional
+- Madeira.região Autónoma
+- Ministério da Educação
+- Recomendação
+- Região de Turismo
+- Turismo
+- Turismo de Natureza
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:42:48Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 89/2015
+
+Recomenda ao Governo o desenvolvimento de um programa de valorização do turismo para as levadas da ilha da Madeira
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+
+1 - Desenvolva, em articulação com o Governo Regional da Região Autónoma da Madeira, um programa de valorização do turismo, para as levadas na ilha da Madeira, enquanto produto do Turismo de Natureza.
+
+2 - Manifeste, ao Governo Regional da Região Autónoma da Madeira, a sua disponibilidade em fornecer recursos técnicos do Ministério da Educação para o desenvolvimento de um programa educativo em torno das levadas da ilha da Madeira.
+
+3 - Manifeste, ao Governo Regional da Região Autónoma da Madeira, a sua disponibilidade em analisar, em conjunto, a definição jurídica mais apropriada que, de acordo com as classificações já concedidas à floresta Laurissilva da Madeira (classificada como Património Mundial Natural da UNESCO e integrada na Rede Natura 2000), garanta, simultaneamente, a proteção das levadas na ilha.
+
+Aprovada em 26 de junho de 2015.
+
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.

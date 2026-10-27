@@ -1,0 +1,184 @@
+---
+schema_version: '1.0'
+id: pt:dre:509024:por
+title: Decreto-Lei n.º 75-O/77
+short_title: null
+summary: Altera o regime de abate e comercialização de gado bovino
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios da Agricultura e Pescas e do Comércio e Turismo
+proposing_entity: null
+official_number: 75-O/77
+official_date: null
+publication_date: '1977-02-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 49/1977, 1º Suplemento, Série I de 1977-02-28
+  number: '49'
+  series: I
+  supplement: null
+  pages: 318-(33) a 318-(34)
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/02/04901/00330034.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '509024'
+  dre_path: /dr/detalhe/decreto-lei/75-o-1977-509024
+  internal: pt:dre:509024:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-o-1977-509024
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-o-1977-509024
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:10:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 94651e99497941292e3450b7fdc6404ccaac57f54fdf3f634c3fd78c8df2d8cc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:10:01Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Abate de Animais
+- Carne de Vaca
+- Comércio
+- Definição de Competências
+- Despesas Públicas
+- Fundo de Abastecimento
+- Gado Bovino
+- Junta Nacional dos Produtos Pecuários
+- Matadouro
+- Receita Própria
+relationships:
+- type: amended_by
+  target: pt:dre:656410:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:138489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507444:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:656410:por
+  label: "Revogado pelo DEC LEI.69/78.1978.04.07.MAP DR.IS [81]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-1978-656410
+  date: '1978-04-07'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:10:01Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 75-O/77
+
+de 28 de Fevereiro
+
+1. O [Decreto-Lei n.º 661/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/661-1974-466175), de 26 de Novembro, ao centralizar na Junta Nacional dos Produtos Pecuários a gestão de todos os matadouros e casas de matança municipais do continente, visava a criação de um intermediário único entre a produção e a distribuição de carne verde de bovino que, assegurando à primeira a justa rentabilidade da sua actividade, garantisse ao consumidor um abastecimento em quantidade e preços adequados às condições económicas deste sector de produção.
+
+Ao publicar-se o Decreto-Lei n.º 80/76, de 27 de Janeiro, que regulamentava a intervenção da Junta Nacional dos Produtos Pecuários nesse sentido, reconheceu-se, porém, a inviabilidade de, a curto prazo, poder assegurar o mecanismo preconizado.
+
+Com efeito, para tal seria necessário estar aquele organismo dotado de uma rede de matadouros convenientemente dimensionados e equipados de uma rede frigorífica para armazenagem e distribuição de carne congelada, de uma frota de transporte para recolha de gado da lavoura para os locais de abate e posterior distribuição de carcaças, de postos de concentração do gado por forma a facilitar a entrega por parte dos pequenos e médios produtores, de recursos financeiros para ocorrer às elevadas despesas que decorreriam daquelas operações e de estruturas administrativas que, a nível regional, assegurassem o pagamento imediato à produção do gado entregue, a cobrança regular da carne fornecida ao comércio e a contabilização dos subsídios e sua liquidação.
+
+Assim, e enquanto não fosse possível instituir em todo o País o regime de intervenção, facultou-se a continuação da prática de auto-abastecimento nos matadouros e casas de matança onde a Junta não tivesse possibilidade imediata de intervir.
+
+Passaram, portanto, a funcionar, paralelamente, dois esquemas de abate e de comercialização de carnes verdes de bovino: um, constituído pelos 98 matadouros definidos na [Portaria n.º 134/76](https://diariodarepublica.pt/dr/detalhe/portaria/134-1976-507444), de 10 de Março, como sendo de intervenção da Junta Nacional dos Produtos Pecuários, pela compra de gado à produção e distribuição da carne ao comércio, a preços previamente fixados; outro, constituído pelos matadouros não incluídos na referida portaria (cerca de 150), nos quais o gado continuaria a ser comprado à produção pelos talhantes e negociantes, a preços não explicitamente fixados, mas tais que permitissem o cumprimento da tabela de preços de venda ao público, tendo em conta os subsídios concedidos em função do peso dos animais abatidos.
+
+2. A diminuição global da oferta de gado para abate, a insuficiência de carne congelada, a rarefacção e consequente subida de preços no mercado de outros produtos alimentares, pressionando a procura, conduziram naturalmente a uma subida acentuada de preços do gado nas zonas não intervencionadas, ao longo de 1976, verificando-se em consequência um progressivo desinteresse da lavoura pela venda à Junta Nacional dos Produtos Pecuários e um cada vez maior desvio do gado para os matadouros que não estavam sujeitos à exclusiva intervenção da Junta.
+
+Não obstante as determinações limitando o número de animais a abater por concelho, com vista à satisfação apenas das necessidades regionais ou de cada concelho, o facto é que, em contraste com a auto-suficiência de abastecimento em carne fresca naquelas zonas mais ou menos próximas das áreas de criação de bovinos, se agravou a carência nas zonas intervencionadas, onde o gado deixou de ser abatido e se desenvolveu uma situação de especulação por parte de alguns negociantes e talhantes com acesso aos matadouros de auto-abastecimento.
+
+3. Reconhecendo-se que não é possível, a curto prazo, concretizar as infra-estruturas humanas e materiais indispensáveis para que a Junta Nacional dos Produtos Pecuários possa exercer convenientemente as funções de regularização do mercado, nos dois aspectos de assegurar o abastecimento de acordo com o desenvolvimento da produção nacional e influenciar a formação dos preços, considerou-se como solução transitória viável o alargamento da prática de auto-abastecimento, consignada no Decreto-Lei n.º 80/76, à totalidade dos matadouros e casas de matança de gestão e contrôle da Junta.
+
+Nesse sentido, e enquanto se procedeu à revisão da legislação vigente sobre abate e comercialização de carnes de bovino, foi publicada a [Portaria n.º 56/77](https://diariodarepublica.pt/dr/detalhe/portaria/56-1977-138489), de 3 de Fevereiro, que, reduzindo a área de intervenção da JNPP a um número limitado de matadouros, próximos de centros de produção, permitiu retomar a actividade dos restantes matadouros, nomeadamente os situados nos maiores centros de consumo, contribuindo desse modo para melhorar o abastecimento das áreas servidas e para eliminar o intermediário especulativo que proliferou nos circuitos de distribuição.
+
+Nesta linha de orientação, alarga-se agora a todos os matadouros e casas de matança do continente, sem prejuízo do encerramento já decidido ou a decidir daquelas instalações que não reúnem condições de funcionamento, o regime de abate de gado bovino sem intervenção exclusiva da Junta, mas sujeitando-se esse abate a condicionamento no que respeita aos quantitativos de bovinos e de vitelos a abater, de modo a preservar o efectivo pecuário e a assegurar um abastecimento em carnes verdes de bovino tão regular e equilibrado quanto possível.
+
+Entretanto, estão a criar-se condições para um planeamento adequado da rede nacional de abate e para uma concretização efectiva dos meios e estruturas indispensáveis à sua implantação.
+
+4. Muito embora, como se disse em 3, se reconheça não ser possível a continuação da intervenção da Junta Nacional dos Produtos Pecuários nos termos anteriormente legislados e efectivamente marcados pelo insucesso, entende-se que a sua actuação não deverá ficar remetida à mera prestação de serviço de abate e de contrôle dos efectivos abatidos.
+
+Assim, dotar-se-á a Junta Nacional dos Produtos Pecuários de meios para a sua participação no mercado de gado bovino em condições concorrenciais, permitindo à produção, no seu próprio interesse, colaborar no saneamento e regularização do comércio de carnes verdes de bovino pela entrega directa dos animais em determinados matadouros a preços de venda remuneradores.
+
+5. Ainda com o objectivo de maior adaptação dos meios legais à realidade do sector de actividade em causa, e reconhecendo-se a morosidade inerente à alteração de alguns diplomas legislativos, remete-se para portarias ou despachos a regulamentação de alguns aspectos, nomeadamente a fixação de preços máximos de venda pela produção, preços de aquisição pela Junta Nacional dos Produtos Pecuários em matadouros determinados e preços máximos de venda ao público da carne congelada e da carne verde de bovino.
+
+6. A fixação de preços máximos de venda pela lavoura é uma medida que se considera indispensável, não só para contrariar a prática especulativa, a todos os níveis, do circuito da carne, como para servir de base à apreciação das responsabilidades dos vários agentes na inobservância das tabelas de preços estabelecidos.
+
+7. Finalmente, dado que serão estabelecidos preços máximos de venda ao público diferenciados para a carne de bovino congelada, importada do estrangeiro, e para a carne verde de bovino de origem nacional, considera-se indispensável prever, desde já, como medida dissuasora de práticas que possam estabelecer a confusão no consumidor entre a carne congelada e a carne verde, a suspensão da distribuição de carne congelada.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º - 1. Nos matadouros e casas de matança do continente, em funcionamento, nos termos do [Decreto-Lei n.º 661/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/661-1974-466175), de 26 de Novembro, é permitido o abate de gado bovino aos produtores de gado e comerciantes individuais ou colectivos, desde que previamente inscritos na Junta Nacional dos Produtos Pecuários.
+
+2. O abate de gado bovino ficará sujeito a contingentes máximos, a fixar por despacho do Secretário de Estado do Comércio e Indústrias Agrícolas, sob proposta da Junta Nacional dos Produtos Pecuários, atendendo às necessidades do consumo público de carnes e às disponibilidades da produção regional e nacional.
+
+Art. 2.º - 1. A Junta Nacional dos Produtos Pecuários adquirirá, prioritariamente, aos produtores interessados, previamente inscritos para o efeito, o gado bovino para abate imediato que lhe seja presente, a preços a fixar por portaria conjunta dos Ministérios da Agricultura e Pescas e do Comércio e Turismo.
+
+2. Para os efeitos do disposto no número anterior, deverão os produtores inscrever o gado, com uma antecedência mínima de quinze dias, nos matadouros a indicar por portaria do Ministério da Agricultura e Pescas.
+
+Art. 3.º - 1. O regime de preços e de comercialização de carnes de bovino no continente será fixado por portaria conjunta dos Ministérios da Agricultura e Pescas e do Comércio e Turismo.
+
+2. No regime previsto no número anterior incluem-se as restrições na distribuição da carne de bovino congelada aos comerciantes que induzam em erro o consumidor, não apresentando esta carne perfeitamente identificada.
+
+Art. 4.º Constituirá receita ou encargo para o Fundo de Abastecimento a diferença entre o preço de compra por quilograma pela Junta Nacional dos Produtos Pecuários de carcaças de bovino congeladas, acrescido das respectivas despesas de importação e de distribuição, e o seu preço de venda ao comércio.
+
+Art. 5.º - 1. Não é permitido aos matadouros industriais, pertencentes a entidades privadas, proceder ao abate de gado bovino para abastecimento de quaisquer outras entidades ou para fins que não sejam a própria indústria de transformação de carnes.
+
+2. Por portaria conjunta dos Ministérios da Agricultura e Pescas e do Comércio e Turismo serão estabelecidas normas reguladoras da actividade dos matadouros industriais referidos em 1.
+
+Art. 6.º Este decreto-lei não é aplicável às Regiões Autónomas dos Açores e da Madeira.
+
+Art. 7.º Ficam revogados o Decreto-Lei n.º 80/76, de 27 de Janeiro, e a [Portaria n.º 56/77](https://diariodarepublica.pt/dr/detalhe/portaria/56-1977-138489), de 3 de Fevereiro.
+
+Art. 8.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros. - Mário Soares.
+
+Promulgado em 27 de Fevereiro de 1977.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

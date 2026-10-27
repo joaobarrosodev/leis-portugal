@@ -1,0 +1,975 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004R0595:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0595-20150330",
+ "dre_path": null,
+ "source_lastmod": "2015-03-30",
+ "versions": [
+  {
+   "date": "2004-03-31",
+   "future": false,
+   "celex": "32004R0595",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9935354df82a3775",
+    "7af7bc5f8769c343",
+    "5dc2bda86b260840",
+    "dcf94e93e6692fcf",
+    "29f2eb53ff853aa4",
+    "000d76aa424f394e",
+    "7dfc79cea838820c",
+    "ad900a03978aaff7",
+    "c13c3eeeb6dff522",
+    "7f23655b68d9d1c1",
+    "a3a3d118289c9448",
+    "a171647f6e2f728a",
+    "c3caa5152603f67d",
+    "538fa742b4775c32",
+    "8262c490d988ff91",
+    "6f033ed8543fd229",
+    "740c6c6f5df881a2",
+    "a3de9353fc9407c6",
+    "1b60529b13ed0e92",
+    "9590cf405f4132e8",
+    "d35d5b3e173df27c",
+    "e06137858d75bfc8",
+    "ff3772c939d6480a",
+    "e502bce507a573ba",
+    "524db06766c037b5",
+    "4db6617462a6a56d",
+    "b470e1b59d8dca84",
+    "366e4e1930cb3abf",
+    "11959f8d71024f97",
+    "d7d15408208fbf18",
+    "70c5ffe721685cc9",
+    "e0ade1032b37ca32",
+    "0921e066e148199f",
+    "e637924f6c17d55c"
+   ]
+  },
+  {
+   "date": "2015-03-30",
+   "future": false,
+   "celex": "02004R0595-20150330",
+   "acts": [
+    {
+     "id": "eu:celex:32006R1468:por",
+     "title": "REGULAMENTO (CE) N. o 1468/2006 DA COMISSÃO de 4 de Outubro de 2006",
+     "published": null,
+     "celex": "32006R1468"
+    },
+    {
+     "id": "eu:celex:32006R1913:por",
+     "title": "REGULAMENTO (CE) N. o 1468/2006 DA COMISSÃO de 4 de Outubro de 2006",
+     "published": null,
+     "celex": "32006R1913"
+    },
+    {
+     "id": "eu:celex:32008R0228:por",
+     "title": "REGULAMENTO (CE) N. o 228/2008 DA COMISSÃO de 13 de Março de 2008",
+     "published": null,
+     "celex": "32008R0228"
+    },
+    {
+     "id": "eu:celex:32009R0258:por",
+     "title": "REGULAMENTO (CE) N. o 258/2009 DA COMISSÃO de 26 de Março de 2009",
+     "published": null,
+     "celex": "32009R0258"
+    },
+    {
+     "id": "eu:celex:32009R0793:por",
+     "title": "REGULAMENTO (CE) N. o 793/2009 DA COMISSÃO de 31 de Agosto de 2009",
+     "published": null,
+     "celex": "32009R0793"
+    },
+    {
+     "id": "eu:celex:32012R0760:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) N. o 760/2012 DA COMISSÃO de 21 de agosto de 2012",
+     "published": null,
+     "celex": "32012R0760"
+    },
+    {
+     "id": "eu:celex:32014R1380:por",
+     "title": "M7",
+     "published": null,
+     "celex": "32014R1380"
+    },
+    {
+     "id": "eu:celex:32015R0517:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2015/517 DA COMISSÃO de 26 de março de 2015",
+     "published": null,
+     "celex": "32015R0517"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Repartição das quantidades de referência nacionais entre as entregas e as vendas directas",
+    "Altera Artigo 10.º — Comparações do teor de referência em matéria gorda e do teor efectivo em matéria gorda",
+    "Altera Artigo 15.º — Prazo de pagamento",
+    "Altera Artigo 16.º — Critérios de redistribuição do excesso de imposição",
+    "Altera Artigo 17.º — Cobrança da imposição",
+    "Altera Artigo 19.º — Plano de controlo",
+    "Altera Artigo 22.º — Intensidade dos controlos",
+    "Altera Artigo 24.º — Obrigações dos compradores e dos produtores",
+    "Altera Artigo 26.º — Questionário",
+    "Altera Artigo 27.º — Outras comunicações",
+    "Altera Artigo 29.º — Entrada em vigor",
+    "Adita CAPÍTULO I",
+    "Adita DISPOSIÇÕES GERAIS",
+    "Adita Artigo 1.º — Objectivo",
+    "Adita CAPÍTULO II",
+    "Adita CÁLCULO DA IMPOSIÇÃO",
+    "Adita SECÇÃO 1",
+    "Adita Regras Gerais",
+    "Adita SECÇÃO 2",
+    "Adita Entregas",
+    "Adita Artigo 8.º — Declaração das entregas",
+    "Adita SECÇÃO 3",
+    "Adita Vendas Directas",
+    "Adita Artigo 11.º — Declarações de vendas directas",
+    "Adita CAPÍTULO III",
+    "Adita PAGAMENTO DA IMPOSIÇÃO",
+    "Adita Artigo 13.º — Notificação da imposição",
+    "Adita Artigo 14.º",
+    "Adita Artigo 16.ºA — Utilização da percentagem de 1 % da imposição que não se destina a ser paga ao FEAGA",
+    "Adita CAPÍTULO IV",
+    "Adita CONTROLO PELOS ESTADOS-MEMBROS E OBRIGAÇÕES DOS COMPRADORES E PRODUTORES",
+    "Adita Controlos",
+    "Adita Artigo 18.º — Medidas nacionais de controlo",
+    "Adita Obrigações",
+    "Adita Artigo 23.º — Aprovação dos compradores",
+    "Adita CAPÍTULO V",
+    "Adita COMUNICAÇÕES",
+    "Adita Artigo 25.º — Comunicações sobre a repartição entre as entregas e as vendas directas",
+    "Adita CAPÍTULO VI",
+    "Adita DISPOSIÇÕES FINAIS",
+    "Adita Artigo 28.º — Revogação",
+    "Adita ANEXO I",
+    "Adita ANEXO II",
+    "Adita ANEXO IIa",
+    "Adita Relatório referido no artigo 27.º, n.º 4",
+    "Adita PARTE 1",
+    "Adita Informações relativas ao período de 12 meses que termina em 31 de Março de 20…, incluindo entregas e vendas directas",
+    "Adita PARTE 2",
+    "Adita ANEXO III",
+    "Adita Notas",
+    "Suprime CAPÍTULO I DISPOSIÇÕES GERAIS — Artigo 1.o",
+    "Suprime CAPÍTULO II CÁLCULO DA IMPOSIÇÃO — SECÇÃO 1 REGRAS GERAIS",
+    "Suprime SECÇÃO 2 ENTREGAS — Artigo 8.o",
+    "Suprime SECÇÃO 3 VENDAS DIRECTAS — Artigo 11.o",
+    "Suprime CAPÍTULO III PAGAMENTO DA IMPOSIÇÃO — Artigo 13.o",
+    "Suprime Artigo 14.º — Taxas de câmbio",
+    "Suprime SECÇÃO 1 CONTROLOS — Artigo 18.o",
+    "Suprime SECÇÃO 2 OBRIGAÇÕES — Artigo 23.o",
+    "Suprime CAPÍTULO V COMUNICAÇÕES — Artigo 25.o",
+    "Suprime CAPÍTULO VI DISPOSIÇÕES FINAIS — Artigo 28.o",
+    "Suprime ANEXO I — >PIC FILE= \"L_2004094PT.003002.TIF\">",
+    "Suprime ANEXO II — Taxas de juro de referência referidas no n.o 2 do artigo 15.o",
+    "Suprime ANEXO III — Tabela de correspondências"
+   ],
+   "fragments": [
+    "e220f24d1bd6a450",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "13133ff3950bd647",
+    "53ece345e824fd6d",
+    "e02c39fdce5bfe23",
+    "0d8434354d582651",
+    "000d76aa424f394e",
+    "f0f8c960bfdbce9b",
+    "decf9548ddf51111",
+    "9b406af514eb9164",
+    "60d891a6f8ed3e8f",
+    "f704b63547103ee6",
+    "f785168c22951cc2",
+    "c42c0c2b3cabd519",
+    "330b702db945a76e",
+    "90111ac46c5b5d10",
+    "3e56a74d313414b8",
+    "a9a5540fef2f714a",
+    "ac8387eef8dd0a6f",
+    "bcf5a795341571d9",
+    "c16aa1c7162b0d7f",
+    "3c8e05cf4e708168",
+    "1e7a0903d2eed348",
+    "4af328635d045dd2",
+    "5228079a26da358e",
+    "15f50d0791bee91b",
+    "647df9089f2b0789",
+    "a1658c8537d6d315",
+    "feddfaacce7da149",
+    "35f292585b7c62e4",
+    "1ecfc79da3f1ac7f",
+    "e9fc7c95f5c53ac6",
+    "9b406af514eb9164",
+    "14c147f5716f044d",
+    "5751ab5163702575",
+    "e2e15123e411f668",
+    "e06137858d75bfc8",
+    "38d515321bfa25d1",
+    "db44d3f1fe59a6fc",
+    "c42c0c2b3cabd519",
+    "dcf5f7e66f97c356",
+    "1d917f694e130b40",
+    "15d74b31aa26452f",
+    "40ed6b62e188ac6f",
+    "09d3a57554cac11f",
+    "d73bdaf9baca2232",
+    "207ab31d92c35c13",
+    "c7049d6e38e09137",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "aa3a4fe1bda3aa85",
+    "aabd3d6f1fca1c92",
+    "39c7ede9eed47fb1",
+    "bd4822d883f9914f",
+    "de74c1e510135ba9",
+    "258202a403f21adf",
+    "26d20e00e510d0ac",
+    "f5ae87c149dfb676",
+    "8b1f87d5bab78144",
+    "b0cd728c982c6788",
+    "ec2ea9d56e156df3"
+   ]
+  }
+ ],
+ "fragments": {
+  "9935354df82a3775": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 595/2004 da Comissão, de 30 de Março de 2004, que estabelece regras de execução do Regulamento (CE) n.° 1788/2003 do Conselho que institui uma imposição no sector do leite e dos produtos lácteos** *Jornal Oficial nº L 094 de 31/03/2004 p. 0022 - 0032*\n\nRegulamento (CE) n.o 595/2004 da Comissão\n\nde 30 de Março de 2004\n\nque estabelece regras de execução do Regulamento (CE) n.o 1788/2003 do Conselho que institui uma imposição no sector do leite e dos produtos lácteos\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.o 1788/2003 do Conselho, de 29 de Setembro de 2003, que institui uma imposição no sector do leite e dos produtos lácteos(1) e, nomeadamente, o seu artigo 24.o,\n\nConsiderando o seguinte:\n\n(1) O regime de imposição no sector do leite e dos produtos lácteos foi, em conformidade com o Regulamento (CE) n.o 1788/2003, prorrogado por 11 períodos consecutivos de 12 meses, com início em 1 de Abril de 2004. Devem ser estabelecidas regras de execução para ter em conta as novas disposições desse regulamento. Estas regras de execução devem integrar, em grande medida, disposições do Regulamento (CE) n.o 1392/2001 da Comissão, de 9 de Julho de 2001, que estabelece normas de execução do Regulamento (CEE) n.o 3950/92 do Conselho que institui uma imposição suplementar no sector do leite e dos produtos lácteos(2). O Regulamento (CE) n.o 1392/2001 deve, pois, ser revogado.\n\n(2) Devem ser estabelecidas regras que permitam, para cada Estado-Membro, repartir as quantidades nacionais entre as entregas e as vendas directas. Para esse efeito, as novas definições de \"entrega\" e \"venda directa\" do artigo 5.o, alíneas f) e g), do Regulamento (CE) n.o 1788/2003 devem ser tidas em consideração pelos Estados-Membros, que devem informar os produtores por elas afectados.\n\n(3) O presente regulamento deve também especificar os factores suplementares necessários para o cálculo final da imposição devida relativamente às entregas e da imposição devida relativamente às vendas directas, as medidas necessárias para assegurar o pagamento atempado da imposição pelo Estado-Membro ao Fundo Europeu de Orientação e de Garantia Agrícola (FEOGA), secção \"Garantia\" e, por fim, as regras de controlo necessárias para verificar se as contribuições para o pagamento da imposição foram correctamente cobradas.\n\n(4) Deve ser especificada a forma como o teor do leite em matéria gorda será tido em conta na declaração definitiva das quantidades entregues. Devem ser previstas disposições especiais caso a quantidade de referência \"entregas\" seja alterada ou caso sejam atribuídas quantidades de referência provenientes da reserva nacional.\n\n(5) Atendendo a que o Regulamento (CE) n.o 1788/2003 fixou os teores de referência em matéria gorda para cada Estado-Membro, devem ser estabelecidas as regras de adaptação dos teores de referência individuais quando necessário.\n\n(6) É indispensável, por um lado, controlar a exactidão dos dados comunicados pelos compradores e produtores e, por outro lado, repercutir efectivamente a imposição nos produtores responsáveis pela superação das quantidades de referência nacionais. Para esse efeito, os Estados-Membros devem desempenhar um papel mais importante no que diz respeito às medidas de controlo e às sanções que devem prever para assegurar a cobrança correcta das contribuições para o pagamento da imposição. Os Estados-Membros devem, nomeadamente, elaborar um plano nacional de controlo para cada período de 12 meses com base numa análise de risco e devem efectuar controlos a nível das explorações, do transporte e dos compradores com o objectivo de combater possíveis irregularidades e fraudes. É igualmente necessário especificar os prazos e o número de controlos necessários para permitir a verificação, num prazo determinado, do respeito do regime por todas as partes a ele sujeitas. São também necessárias sanções em caso de não respeito desses requisitos fundamentais.\n\n(7) É igualmente necessário que os Estados-Membros aprovem os compradores que operam nos seus territórios e que sejam previstas regras em caso de não respeito do presente regulamento pelos compradores.\n\n(8) As comunicações à Comissão desempenham um importante papel na gestão do regime e devem, pois, ser reforçadas. Em especial, as comunicações sobre a repartição entre as entregas e as vendas directas e as respostas a um questionário anual são essenciais para a gestão do regime pela Comissão. O respeito das datas previstas contribui também para uma gestão eficaz do regime. A Comissão deve também ser informada em pormenor da execução a nível nacional, a fim de dispor de um melhor conhecimento dos diversos sistemas utilizados nos Estados-Membros.\n\n(9) O presente regulamento deve ser aplicável a partir da mesma data que o Regulamento (CE) n.o 1788/2003.\n\n(10) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão do Leite e dos Produtos Lácteos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "7af7bc5f8769c343": {
+   "fragment_id": "CAPÍTULO I DISPOSIÇÕES GERAIS — Artigo 1.o",
+   "type": "divisao",
+   "heading": "CAPÍTULO I DISPOSIÇÕES GERAIS — Artigo 1.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I DISPOSIÇÕES GERAIS — Artigo 1.o\n\nObjectivo\n\nO presente regulamento estabelece as regras de execução do Regulamento (CE) n.o 1788/2003 no que diz respeito à repartição das quantidades de referência nacionais entre as entregas e as vendas directas, ao cálculo e pagamento da imposição, às medidas de controlo e às comunicações dos Estados-Membros."
+  },
+  "5dc2bda86b260840": {
+   "fragment_id": "Artigo 2.º — Repartição das quantidades de referência nacionais entre as entregas e as vendas directas",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Repartição das quantidades de referência nacionais entre as entregas e as vendas directas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Repartição das quantidades de referência nacionais entre as entregas e as vendas directas\n\nAnualmente, após a recepção das comunicações referidas no artigo 21.o, a Comissão repartirá a quantidade de referência nacional, estabelecida para cada Estado-Membro no anexo I do Regulamento (CE) n.o 1788/2003, entre as entregas e as vendas directas, em conformidade com o n.o 2 do artigo 1.o do mesmo regulamento.\n\nA repartição será publicada no Jornal Oficial da União Europeia."
+  },
+  "dcf94e93e6692fcf": {
+   "fragment_id": "Artigo 3.º — Conversões",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Conversões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conversões\n\nAs conversões referidas no n.o 2 do artigo 6.o do Regulamento (CE) n.o 1788/2003 podem ser temporárias ou definitivas.\n\nAs conversões temporárias de quantidades de referência individuais são conversões em que, relativamente a um período específico de 12 meses, o produtor solicita a conversão de uma quantidade de leite entre as suas quantidades de referência.\n\nAs conversões definitivas são aquelas em que, relativamente a um período de 12 meses e aos períodos de 12 meses subsequentes, o produtor solicita a conversão de uma quantidade de leite entre as suas quantidades de referência."
+  },
+  "29f2eb53ff853aa4": {
+   "fragment_id": "Artigo 4.º — Informações sobre as novas definições de entregas e vendas directas",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Informações sobre as novas definições de entregas e vendas directas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Informações sobre as novas definições de entregas e vendas directas\n\n1. Os Estados-Membros informarão os produtores interessados das novas definições dos termos \"entrega\" e \"venda directa\" introduzidas pelo artigo 5.o, alíneas f) e g), do Regulamento (CE) n.o 1788/2003.\n\n2. A conversão definitiva entre as quantidades de referência devido às definições referidas no n.o 1 será efectuada a pedido do produtor em conformidade com o n.o 2 do artigo 6.o do Regulamento (CE) n.o 1788/2003."
+  },
+  "000d76aa424f394e": {
+   "fragment_id": "Artigo 5.º — Comunicação das quantidades de referência individuais",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Comunicação das quantidades de referência individuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Comunicação das quantidades de referência individuais\n\nOs Estados-Membros notificarão os produtores de cada nova atribuição ou alteração da sua quantidade de referência individual pelo meio que considerem mais adequado, desde que esse meio assegure que os produtores tenham conhecimento efectivo da quantidade de referência atribuída."
+  },
+  "7dfc79cea838820c": {
+   "fragment_id": "CAPÍTULO II CÁLCULO DA IMPOSIÇÃO — SECÇÃO 1 REGRAS GERAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO II CÁLCULO DA IMPOSIÇÃO — SECÇÃO 1 REGRAS GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II CÁLCULO DA IMPOSIÇÃO — SECÇÃO 1 REGRAS GERAIS"
+  },
+  "ad900a03978aaff7": {
+   "fragment_id": "Artigo 6.º — Método de cálculo da imposição",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Método de cálculo da imposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Método de cálculo da imposição\n\nO leite ou os produtos lácteos comercializados na acepção do artigo 5.o, alínea h), do Regulamento (CE) n.o 1788/2003 serão tidos em conta para o cálculo da imposição no momento em que deixem a exploração situada no território do Estado-Membro ou sejam utilizados na exploração para fins comerciais.\n\nQuando o leite ou os produtos lácteos deixem a exploração para serem destruídos em aplicação de medidas sanitárias decididas pela autoridade competente do Estado-Membro, as quantidades em causa não serão tidas em conta como entregas ou vendas directas.\n\nO leite que deixe a exploração para ser tratado ou transformado no âmbito de um contrato é considerado uma entrega."
+  },
+  "c13c3eeeb6dff522": {
+   "fragment_id": "Artigo 7.º — Alterações do teor de referência individual em matéria gorda",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Alterações do teor de referência individual em matéria gorda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Alterações do teor de referência individual em matéria gorda\n\n1. Quando forem atribuídas quantidades de referência suplementares provenientes da reserva nacional, o teor de referência em matéria gorda referido no artigo 9.o do Regulamento (CE) n.o 1788/2003 permanecerá inalterado.\n\n2. Sempre que a quantidade de referência \"entregas\" for aumentada ou estabelecida com base em conversões, nos termos do n.o 2 do artigo 6.o do Regulamento (CE) n.o 1788/2003, o teor de referência em matéria gorda associado à quantidade de referência convertida em entregas será de 3,8 %.\n\nTodavia, o teor de referência em matéria gorda da quantidade de referência \"entregas\" permanecerá inalterado se o produtor tiver apresentado justificação suficiente perante a autoridade competente.\n\n3. Nos casos referidos nos artigos 16.o e 17.o e no n.o 1, alíneas d), e) e f), do artigo 18.o do Regulamento (CE) n.o 1788/2003, o teor de referência em matéria gorda será transferido juntamente com a quantidade de referência a que está associado.\n\n4. Nos casos referidos no n.o 1, alíneas b) e c), do artigo 18.o do Regulamento (CE) n.o 1788/2003, o teor de referência global em matéria gorda das quantidades de referência atribuídas ou transferidas não será aumentado em função do das quantidades liberadas. Sem prejuízo do disposto no n.o 5 do artigo 6.o do Regulamento (CE) n.o 1788/2003, a quantidade de leite disponível para reatribuição ou transferência pode ser recalculada em função de um teor de referência em matéria gorda determinado ou, vice-versa, o teor de referência em matéria gorda pode ser recalculado em função de uma quantidade de leite disponível determinada.\n\n5. Nos casos referidos no primeiro parágrafo do n.o 2 e nos n.os 3 e 4, o teor de referência em matéria gorda resultante será igual à média dos teores de referência inicial e transferido ou convertido, ponderada pelas quantidades de referência inicial e transferida ou convertida.\n\n6. Relativamente aos produtores que disponham de uma quantidade de referência proveniente, na totalidade, da reserva nacional e que tenham iniciado a sua actividade após 1 de Abril de 2004, o teor de referência em matéria gorda será igual ao teor de referência nacional estabelecido no anexo II do Regulamento (CE) n.o 1788/2003."
+  },
+  "7f23655b68d9d1c1": {
+   "fragment_id": "SECÇÃO 2 ENTREGAS — Artigo 8.o",
+   "type": "divisao",
+   "heading": "SECÇÃO 2 ENTREGAS — Artigo 8.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 2 ENTREGAS — Artigo 8.o\n\nDeclaração das entregas\n\n1. No termo de cada período de 12 meses, os compradores estabelecerão, para cada produtor, uma declaração que indique, no mínimo, a quantidade e o teor do leite em matéria gorda que este lhe tiver entregue durante esse período.\n\nEm caso de ano bissexto, a quantidade de leite será reduzida de 1/60 das quantidades entregues durante os meses de Fevereiro e Março.\n\n2. Antes de 15 de Maio de cada ano, os compradores enviarão à autoridade competente do Estado-Membro uma recapitulação das declarações referidas no n.o 1, que inclua, no mínimo, a quantidade total e o teor médio em matéria gorda do leite que lhes tiver sido entregue, bem como, se for caso disso, consoante a decisão do Estado-Membro, para cada produtor, a quantidade de referência e o teor de referência em matéria gorda, a quantidade corrigida em conformidade com o n.o 1 do artigo 10.o, a soma das quantidades de referência individuais e das quantidades corrigidas e o teor médio em matéria gorda de que dispõem esses produtores.\n\nSe for caso disso, os compradores declararão não ter recebido entregas durante o período em causa.\n\n3. O Estado-Membro imporá aos compradores que não respeitem o prazo referido no n.o 2 o pagamento de um montante igual à imposição devida por uma superação correspondente a 0,01 % das quantidades de leite que lhe tenham sido entregues pelos produtores, por dia de atraso. Se, por falta de declaração, essas quantidades não forem conhecidas, serão estimadas pela autoridade competente. Esse montante não pode ser inferior a 100 euros nem superior a 100000 euros.\n\n4. Se não for apresentada qualquer declaração antes de 1 de Julho, os Estados-Membros retirarão a aprovação ou imporão o pagamento de um montante proporcional ao volume de leite em causa e à gravidade da irregularidade.\n\nO primeiro parágrafo é aplicável no termo de um prazo de 30 dias após notificação pelo Estado-Membro.\n\nO n.o 3 continua a ser aplicável durante o prazo que decorre após a notificação.\n\n5. As sanções referidas nos n.os 3 e 4 não serão aplicadas sempre que o Estado-Membro verificar que se trata de um caso de força maior ou que a irregularidade não foi cometida deliberadamente ou por negligência grave ou que tem importância mínima em relação ao funcionamento do regime ou à eficácia dos controlos."
+  },
+  "a3a3d118289c9448": {
+   "fragment_id": "Artigo 9.º — Adaptação do teor de referência individual em matéria gorda",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Adaptação do teor de referência individual em matéria gorda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Adaptação do teor de referência individual em matéria gorda\n\n1. Para efeitos da aplicação do n.o 5 do artigo 9.o do Regulamento (CE) n.o 1788/2003, os Estados-Membros registarão anualmente, antes de 1 de Julho, todas as superações do teor de referência nacional em matéria gorda para o período de 12 meses com termo em 31 de Março do ano em causa.\n\n2. Os teores de referência individuais em matéria gorda serão adaptados pelo mesmo coeficiente para todos os produtores, a fim de que, para cada Estado-Membro, a média ponderada desses teores não exceda em mais de 0,1 grama por quilograma o teor de referência em matéria gorda estabelecido no anexo II do Regulamento (CE) n.o 1788/2003. A adaptação será notificada aos produtores antes de 1 de Agosto e será aplicável a contar do período de 12 meses com início em 1 de Abril do mesmo ano."
+  },
+  "a171647f6e2f728a": {
+   "fragment_id": "Artigo 10.º — Comparações do teor de referência em matéria gorda e do teor efectivo em matéria gorda",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Comparações do teor de referência em matéria gorda e do teor efectivo em matéria gorda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comparações do teor de referência em matéria gorda e do teor efectivo em matéria gorda\n\n1. A fim de permitir que cada produtor estabeleça a declaração referida no n.o 1 do artigo 8.o do presente regulamento, e em conformidade com o n.o 1 do artigo 10.o do Regulamento (CE) n.o 1788/2003, o teor médio em matéria gorda do leite que o produtor tiver entregue será comparado com o teor de referência em matéria gorda de que o produtor dispõe, referido no n.o 1 do artigo 9.o do mesmo regulamento.\n\nCaso se verifique um desvio positivo, a quantidade de leite entregue será majorada de 0,18 % por 0,1 grama de matéria gorda suplementar por quilograma de leite.\n\nCaso se verifique um desvio negativo, a quantidade de leite entregue será diminuída de 0,18 % por 0,1 grama de matéria gorda a menos por quilograma de leite.\n\nCaso a quantidade de leite entregue seja expressa em litros, a adaptação de 0,18 % por 0,1 grama de matéria gorda será multiplicada pelo coeficiente 0,971.\n\n2. Os Estados-Membros estabelecerão a adaptação das entregas a nível nacional em conformidade com o n.o 2 do artigo 10.o do Regulamento (CE) n.o 1788/2003."
+  },
+  "c3caa5152603f67d": {
+   "fragment_id": "SECÇÃO 3 VENDAS DIRECTAS — Artigo 11.o",
+   "type": "divisao",
+   "heading": "SECÇÃO 3 VENDAS DIRECTAS — Artigo 11.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 3 VENDAS DIRECTAS — Artigo 11.o\n\nDeclarações de vendas directas\n\n1. No termo de cada período de 12 meses, cada produtor recapitulará numa declaração, por produto, as quantidades que vendeu directamente.\n\nEm caso de ano bissexto, a quantidade de leite ou de equivalente-leite será reduzida de 1/60 das quantidades vendidas durante os meses de Fevereiro e Março ou de 1/366 das quantidades vendidas durante o período de 12 meses em causa.\n\n2. Antes de 15 de Maio de cada ano, os produtores enviarão a declaração prevista no n.o 1 à autoridade competente do Estado-Membro.\n\nO Estado-Membro pode requerer que os produtores que disponham de quantidades de referência para a venda directa declarem, se for caso disso, não ter vendido ou transferido leite ou outros produtos lácteos durante o período em causa.\n\n3. Os Estados-Membros imporão aos produtores que não respeitem o prazo referido no n.o 2 o pagamento de um montante igual à imposição devida por uma superação correspondente a 0,01 % da quantidade de referência \"vendas directas\" de que dispõem, por dia de atraso. No entanto, esse montante não pode ser inferior a 100 euros nem superior a 1000 euros.\n\nSe tiverem superado a sua quantidade de referência e a quantidade de referência nacional \"vendas directas\" também for superada, será igualmente imposto aos produtores o pagamento de uma contribuição para a imposição calculada sobre a totalidade da superação da sua quantidade de referência, sem poderem beneficiar da reatribuição eventual das quantidades de referência não utilizadas prevista no n.o 1 do artigo 12.o do Regulamento (CE) n.o 1788/2003.\n\nSe os produtores tiverem fornecido declarações incorrectas, o Estado-Membro impor-lhes-á o pagamento de um montante proporcional à quantidade de leite em causa e à gravidade da irregularidade, no máximo igual à imposição teórica aplicável à quantidade de leite resultante da correcção aplicada, multiplicada por 1,5.\n\n4. Quando não for apresentada qualquer declaração antes de 1 de Julho, a quantidade de referência \"vendas directas\" do produtor em causa será afectada à reserva nacional no termo de um prazo de 30 dias após notificação pelo Estado-Membro. O n.o 3, primeiro parágrafo, do presente artigo continua a ser aplicável durante o prazo que decorre após a notificação.\n\n5. As sanções referidas nos n.os 3 e 4 não serão aplicadas sempre que o Estado-Membro verificar que se trata de um caso de força maior ou que a irregularidade não foi cometida deliberadamente ou por negligência grave ou que tem importância mínima em relação ao funcionamento do regime ou à eficácia dos controlos."
+  },
+  "538fa742b4775c32": {
+   "fragment_id": "Artigo 12.º — Equivalências",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Equivalências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Equivalências\n\n1. Para a comercialização dos produtos que não o leite, os Estados-Membros estabelecerão as quantidades de leite utilizadas para transformação. Para esse efeito, são as seguintes as equivalências a utilizar:\n\na) 1 quilograma de nata = 0,263 quilogramas de leite x % de matéria gorda da nata, expressa em massa,\n\nb) 1 quilograma de manteiga = 22,5 quilogramas de leite.\n\nRelativamente aos queijos e a todos os outros produtos lácteos, os Estados-Membros determinarão as equivalências atendendo, nomeadamente, ao teor em extracto seco e em matéria gorda dos tipos de queijo ou de produtos em questão.\n\nSempre que o produtor puder apresentar prova suficiente perante a autoridade competente das quantidades efectivamente utilizadas na transformação dos produtos em causa, o Estado-Membro utilizará a referida prova em vez das equivalências referidas no primeiro e segundo parágrafos.\n\n2. Se se verificarem dificuldades na determinação das quantidades de leite utilizadas para transformação com base nos produtos comercializados, os Estados-Membros podem fixar de modo invariável as quantidades de equivalente-leite atendendo ao efectivo de vacas leiteiras do produtor e a um rendimento leiteiro médio por vaca representativo do efectivo."
+  },
+  "8262c490d988ff91": {
+   "fragment_id": "CAPÍTULO III PAGAMENTO DA IMPOSIÇÃO — Artigo 13.o",
+   "type": "divisao",
+   "heading": "CAPÍTULO III PAGAMENTO DA IMPOSIÇÃO — Artigo 13.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III PAGAMENTO DA IMPOSIÇÃO — Artigo 13.o\n\nNotificação da imposição\n\n1. No caso das entregas, a autoridade competente notificará os compradores das contribuições para a imposição de que são devedores, ou confirmar-lhes-á esse montante, após ter ou não, conforme decisão do Estado-Membro, reatribuído total ou parcialmente as quantidades de referência não utilizadas, quer directamente aos produtores em causa quer, se for o caso, aos compradores, para que sejam repartidas por esses produtores.\n\n2. No caso das vendas directas, a autoridade competente notificará os produtores das contribuições para a imposição de que são devedores, após ter ou não, conforme decisão do Estado-Membro, reatribuído total ou parcialmente as quantidades de referência não utilizadas directamente aos produtores em causa.\n\n3. Não será feita a nível nacional a reatribuição das quantidades não utilizadas entre quantidades de referência \"entregas\" e \"vendas directas\"."
+  },
+  "6f033ed8543fd229": {
+   "fragment_id": "Artigo 14.º — Taxas de câmbio",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Taxas de câmbio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Taxas de câmbio\n\nO facto gerador da taxa de conversão para o pagamento da imposição relativamente a um determinado período é o dia 31 de Março do período em causa."
+  },
+  "740c6c6f5df881a2": {
+   "fragment_id": "Artigo 15.º — Prazo de pagamento",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Prazo de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Prazo de pagamento\n\n1. Antes de 1 de Setembro de cada ano, os compradores ou, em caso de vendas directas, os produtores devedores da imposição pagarão à autoridade competente o montante devido, em conformidade com as regras determinadas pelo Estado-Membro.\n\n2. Em caso de não cumprimento do prazo de pagamento referido no n.o 1, o montante em dívida vencerá um juro anual às taxas de referência a três meses válidas em 1 de Setembro de cada ano, conforme referido no anexo II, majoradas de um ponto percentual.\n\nOs juros serão pagos ao Estado-Membro.\n\n3. Os Estados-Membros comunicarão ao Fundo Europeu de Orientação e de Garantia Agrícola (FEOGA) os montantes resultantes da aplicação do artigo 3.o do Regulamento (CE) n.o 1788/2003 o mais tardar com as despesas declaradas a título do mês de Setembro de cada ano.\n\n4. No caso de o relatório referido no n.o 5 do artigo 3.o do Regulamento (CE) n.o 296/96 da Comissão revelar que o prazo referido no n.o 3 do presente artigo não foi respeitado, a Comissão(3), procederá a uma redução dos adiantamentos sobre a tomada a cargo das despesas agrícolas, proporcional ao montante em dívida ou a uma estimativa do montante em dívida, em conformidade com o n.o 2 do artigo 3.o do Regulamento (CE) n.o 1788/2003."
+  },
+  "a3de9353fc9407c6": {
+   "fragment_id": "Artigo 16.º — Critérios de redistribuição do excesso de imposição",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Critérios de redistribuição do excesso de imposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Critérios de redistribuição do excesso de imposição\n\n1. Se for caso disso, os Estados-Membros determinarão as categorias prioritárias de produtores referidas no n.o 1, alínea b), do artigo 13.o do Regulamento (CE) n.o 1788/2003, em função de um ou mais dos seguintes critérios objectivos, por ordem de prioridade:\n\na) O reconhecimento formal pela autoridade competente do Estado-Membro de que a imposição foi, na totalidade ou em parte, indevidamente cobrada;\n\nb) A situação geográfica da exploração e, em primeiro lugar, as zonas de montanha na acepção do artigo 18.o do Regulamento (CE) n.o 1257/1999 do Conselho(4);\n\nc) O encabeçamento máximo na exploração, que caracteriza a extensificação da produção pecuária;\n\nd) A percentagem da superação da quantidade de referência individual;\n\ne) A quantidade de referência de que o produtor dispõe.\n\n2. Quando a imposição excedentária, referida no n.o 1 do artigo 13.o do Regulamento (CE) n.o 1788/2003, disponível para um determinado período não for esgotada após redistribuição de acordo com os critérios previstos no n.o 1 do presente artigo, o Estado-Membro adoptará outros critérios objectivos após consulta da Comissão.\n\nA redistribuição da imposição excedentária será completada, o mais tardar, 15 meses após o termo do período de 12 meses em questão."
+  },
+  "1b60529b13ed0e92": {
+   "fragment_id": "Artigo 17.º — Cobrança da imposição",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Cobrança da imposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Cobrança da imposição\n\nOs Estados-Membros tomarão as medidas necessárias para assegurar que a imposição seja correctamente cobrada e repercutida nos produtores que tenham contribuído para a superação.\n\nCAPÍTULO IV CONTROLO PELOS ESTADOS-MEMBROS E OBRIGAÇÕES DOS COMPRADORES E PRODUTORES"
+  },
+  "9590cf405f4132e8": {
+   "fragment_id": "SECÇÃO 1 CONTROLOS — Artigo 18.o",
+   "type": "divisao",
+   "heading": "SECÇÃO 1 CONTROLOS — Artigo 18.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 1 CONTROLOS — Artigo 18.o\n\nMedidas nacionais de controlo\n\nOs Estados-Membros tomarão todas as medidas de controlo necessárias para assegurar a observância do presente regulamento, nomeadamente das medidas referidas nos artigos 19.o a 22.o"
+  },
+  "d35d5b3e173df27c": {
+   "fragment_id": "Artigo 19.º — Plano de controlo",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Plano de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Plano de controlo\n\n1. Os Estados-Membros elaborarão um plano geral de controlo, por período de 12 meses, com base numa análise de risco. Esse plano de controlo deve, no mínimo, incluir:\n\na) Os critérios adoptados para a elaboração do plano;\n\nb) Os compradores e os produtores seleccionados;\n\nc) Os controlos no local a efectuar relativamente ao período de doze meses;\n\nd) Os controlos do transporte entre produtores e compradores;\n\ne) Os controlos das declarações anuais dos produtores ou compradores.\n\nOs Estados-Membros podem decidir actualizar o plano geral de controlo por meio de planos periódicos mais pormenorizados.\n\nDeve ter-se em consideração a representatividade dos operadores do sector do leite para a análise de risco e a sazonalidade da produção para o calendário dos controlos.\n\n2. Os controlos serão efectuados em parte durante o período de 12 meses em questão e em parte após o período de 12 meses, com base nas declarações anuais.\n\n3. Considera-se que os controlos estão terminados quando o correspondente relatório de inspecção estiver disponível.\n\nTodos os relatórios de inspecção estarão concluídos, o mais tardar, 18 meses após o termo do período de 12 meses em causa.\n\nNo entanto, quando os controlos previstos no artigo 20.o forem combinados com outros controlos, têm que ser respeitados os prazos previstos para os outros controlos e o estabelecimento dos relatórios de inspecção correspondentes."
+  },
+  "e06137858d75bfc8": {
+   "fragment_id": "Artigo 20.º — Controlos no local",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Controlos no local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Controlos no local\n\nOs controlos no local serão efectuados de modo inopinado. Todavia, desde que o objectivo do controlo não fique comprometido, pode efectuar-se a sua notificação prévia com a antecedência estritamente necessária.\n\nSe for caso disso, os controlos no local nos termos do presente regulamento, bem como quaisquer outros controlos previstos na regulamentação comunitária, serão realizados simultaneamente."
+  },
+  "ff3772c939d6480a": {
+   "fragment_id": "Artigo 21.º — Controlos das entregas e das vendas directas",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Controlos das entregas e das vendas directas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Controlos das entregas e das vendas directas\n\n1. No que diz respeito às entregas, os controlos serão efectuados a nível da exploração, do transporte do leite e do comprador. Em todas as fases, os Estados-Membros verificarão na prática a exactidão do registo e da contabilização do leite comercializado através de controlos no local que incidirão, designadamente:\n\na) A nível da exploração, no estatuto de produtor na acepção da alínea c) do artigo 5.o do Regulamento (CE) n.o 1788/2003, bem como na compatibilidade entre as entregas e a capacidade de produção;\n\nb) A nível do transporte, no documento referido no n.o 4 do artigo 24.o do presente regulamento, na precisão dos instrumentos de medição do volume e da qualidade do leite, no rigor do método de recolha, inclusivamente nos eventuais pontos intermédios de recolha, e na precisão da quantidade de leite recolhido aquando do descarregamento;\n\nc) A nível do comprador, no rigor das declarações referidas no artigo 8.o do presente regulamento, nomeadamente através do controlo cruzado com os documentos referidos nos n.os 2 a 5 do artigo 24.o do presente regulamento, bem como na verosimilhança das contabilidades de existências e de entregas referidas nos n.os 2 e 3 do artigo 24.o do presente regulamento, face aos documentos, comerciais e outros, comprovativos da utilização do leite recolhido.\n\n2. No que diz respeito às vendas directas, os controlos incidirão, designadamente:\n\na) A nível da exploração, no estatuto de produtor na acepção da alínea c) do artigo 5.o do Regulamento (CE) n.o 1788/2003, bem como na compatibilidade entre as vendas directas e a capacidade de produção;\n\nb) No rigor da declaração referida no n.o 1 do artigo 11.o do presente regulamento, nomeadamente através dos documentos referidos no n.o 6 do seu artigo 24.o"
+  },
+  "e502bce507a573ba": {
+   "fragment_id": "Artigo 22.º — Intensidade dos controlos",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Intensidade dos controlos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Intensidade dos controlos\n\n1. Os controlos referidos no n.o 1 do artigo 21.o devem incidir, pelo menos:\n\na) Em 1 % dos produtores para o período de 12 meses de 2004/2005 e em 2 % dos produtores para os períodos de 12 meses seguintes;\n\nb) Em 40 % da quantidade de leite declarada antes da correcção para o período em causa;\n\nc) Numa amostra representativa do transporte de leite entre produtores e compradores seleccionados.\n\nOs controlos do transporte referidos na alínea c) serão efectuados nomeadamente aquando do descarregamento nas empresas de tratamento ou transformação.\n\n2. Os controlos referidos no n.o 2 do artigo 21.o abrangerão, pelo menos, 5 % dos produtores.\n\n3. Durante um período de cinco anos, cada comprador deve ser sujeito a, pelo menos, um controlo."
+  },
+  "524db06766c037b5": {
+   "fragment_id": "SECÇÃO 2 OBRIGAÇÕES — Artigo 23.o",
+   "type": "divisao",
+   "heading": "SECÇÃO 2 OBRIGAÇÕES — Artigo 23.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 2 OBRIGAÇÕES — Artigo 23.o\n\nAprovação dos compradores\n\n1. Para poderem comprar leite aos produtores e operar no território de um Estado-Membro, os compradores devem ser aprovados por esse Estado-Membro.\n\n2. Sem prejuízo de disposições mais restritivas a estabelecer pelo Estado-Membro em causa, os compradores só serão aprovados se:\n\na) Provarem possuir a qualidade de comerciante à luz das disposições nacionais;\n\nb) Dispuserem, no Estado-Membro em causa, de instalações em que a contabilidade de existências, os registos e os outros documentos referidos no n.o 2 do artigo 24.o possam ser consultados pela autoridade competente;\n\nc) Se comprometerem a manter actualizados a contabilidade de existências, os registos e os outros documentos referidos no n.o 2 do artigo 24.o;\n\nd) Se comprometerem a transmitir, pelo menos anualmente, à autoridade competente do Estado-Membro em causa as declarações previstas no n.o 2 do artigo 8.o\n\n3. Sem prejuízo das sanções estabelecidas pelo Estado-Membro em causa, a aprovação será retirada se as condições previstas nas alíneas a) e b) do n.o 2 deixarem de ser satisfeitas.\n\nCaso se verifique que um comprador transmitiu uma declaração inexacta ou não respeitou o compromisso referido na alínea c) do n.o 2 ou, de forma repetida, qualquer outra obrigação do Regulamento (CE) n.o 1788/2003, do presente regulamento ou da regulamentação nacional aplicável, o Estado-Membro retirará a aprovação ou imporá o pagamento de uma soma proporcional ao volume de leite em causa e à gravidade da irregularidade.\n\n4. A pedido do comprador, a aprovação pode ser restabelecida após um período não inferior a seis meses se um novo controlo aprofundado der resultados satisfatórios.\n\nAs sanções referidas no n.o 3 não serão aplicadas sempre que o Estado-Membro verificar que se trata de um caso de força maior ou que a irregularidade não foi cometida deliberadamente ou por negligência grave ou que tem importância mínima em relação ao funcionamento do regime ou à eficácia dos controlos."
+  },
+  "4db6617462a6a56d": {
+   "fragment_id": "Artigo 24.º — Obrigações dos compradores e dos produtores",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Obrigações dos compradores e dos produtores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Obrigações dos compradores e dos produtores\n\n1. Os produtores certificar-se-ão de que os compradores a quem efectuam entregas são compradores aprovados. Os Estados-Membros devem prever sanções em caso de entregas a compradores não aprovados.\n\n2. Os compradores manterão à disposição da autoridade competente do Estado-Membro, durante pelo menos três anos a contar do termo do ano de elaboração desses documentos, por um lado, uma contabilidade de existências por período de 12 meses que indique, relativamente a cada produtor, o nome e endereço e os dados referidos no n.o 2 do artigo 8.o, estabelecidos por mês ou por período de quatro semanas para as quantidades entregues e anualmente para os outros dados, e, por outro lado, os documentos comerciais, a correspondência e outras informações referidas no Regulamento (CEE) n.o 4045/89 do Conselho(5) que permitam o controlo da referida contabilidade de existências.\n\n3. Os compradores são responsáveis pela contabilização da totalidade das quantidades de leite que lhe tenham sido entregues. Para esse efeito, manterão à disposição da autoridade competente, durante pelo menos três anos a contar do termo do ano de elaboração desses documentos, a lista dos compradores e das empresas de tratamento ou transformação de leite que lhes tiverem fornecido leite, com a indicação, por mês, da quantidade entregue por cada fornecedor.\n\n4. Aquando da recolha nas explorações, o leite será acompanhado de um documento que individualize a respectiva entrega. Além disso, os compradores conservarão, durante pelo menos três anos a contar do termo do ano em que foi feito, o registo de cada entrega individual.\n\n5. Os produtores que efectuem entregas manterão à disposição da autoridade competente do Estado-Membro, durante pelo menos três anos a contar do termo do ano de elaboração dos documentos, os documentos respeitantes às quantidades de leite entregues aos compradores. Os produtores em questão manterão também à disposição da autoridade competente os registos dos animais utilizados para a produção de leite existentes na exploração, em conformidade com o artigo 7.o do Regulamento (CE) n.o 1760/2000 do Parlamento Europeu e do Conselho(6).\n\n6. Os produtores que efectuem vendas directas manterão à disposição da autoridade competente do Estado-Membro, durante pelo menos três anos a contar do termo do ano de elaboração dos documentos, uma contabilidade de existências por período de doze meses que indique as vendas ou transferências, por mês e por produto, de leite ou de produtos lácteos e dos produtos produzidos mas não vendidos ou transferidos.\n\nOs produtores em questão manterão também à disposição da autoridade competente os registos dos animais utilizados para a produção de leite existentes na exploração, em conformidade com o artigo 7.o do Regulamento (CE) n.o 1760/2000, e os documentos comprovativos que permitam controlar a referida contabilidade de existências."
+  },
+  "b470e1b59d8dca84": {
+   "fragment_id": "CAPÍTULO V COMUNICAÇÕES — Artigo 25.o",
+   "type": "divisao",
+   "heading": "CAPÍTULO V COMUNICAÇÕES — Artigo 25.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V COMUNICAÇÕES — Artigo 25.o\n\nComunicações sobre a repartição entre as entregas e as vendas directas\n\n1. Antes de 1 de Julho de 2004, os Estados-Membros comunicarão à Comissão a repartição entre as entregas e as vendas directas de quantidades de referência individuais resultantes da aplicação do n.o 1 do artigo 6.o do Regulamento (CE) n.o 1788/2003, convertidas se necessário de acordo com o n.o 2 do artigo 4.o do presente regulamento.\n\n2. Anualmente, antes de 1 de Fevereiro, em conformidade com o n.o 2, alínea a), do artigo 8.o do Regulamento (CE) n.o 1788/2003, os Estados-Membros comunicarão as quantidades convertidas definitivamente a pedido dos produtores entre as quantidades de referência individuais \"entregas\" e \"vendas directas\"."
+  },
+  "366e4e1930cb3abf": {
+   "fragment_id": "Artigo 26.º — Questionário",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Questionário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Questionário\n\n1. Anualmente, antes de 1 de Setembro, os Estados-Membros transmitirão à Comissão o questionário estabelecido no anexo I, devidamente preenchido em conformidade com o n.o 2, alínea b), do artigo 8.o do Regulamento (CE) n.o 1788/2003.\n\nPortugal completará o preenchimento do questionário com informações suplementares que permitam distinguir o cálculo da imposição entre o Continente e os Açores nos termos do Regulamento (CE) n.o 1453/2001 do Conselho(7).\n\n2. Em caso de não respeito dos requisitos previstos no n.o 1, a Comissão reterá, nos termos do artigo 14.o do Regulamento (CE) n.o 2040/2000 do Conselho(8), um montante invariável dos adiantamentos aquando da tomada a cargo das despesas agrícolas dos Estados-Membros em causa. Esse montante será igual à imposição devida para uma superação teórica da quantidade de referência global em causa, calculada conforme a seguir indicado:\n\na) Se o questionário não tiver sido transmitido até 1 de Setembro ou se faltarem dados essenciais para o cálculo da imposição, a percentagem da superação teórica será de 0,005 % por semana de atraso;\n\nb) Se se verificar que a soma das quantidades entregues ou vendidas directamente, comunicadas nas actualizações previstas no n.o 3 do presente artigo, se afasta de mais de 10 % dos dados fornecidos na resposta inicial ao questionário, a percentagem da superação teórica será de 0,05 %.\n\n3. Em caso de alteração dos dados do questionário, na sequência nomeadamente dos controlos previstos nos artigos 18 a 21.o, o Estado-Membro em causa comunicará as actualizações do questionário à Comissão antes do início dos dias 1 de Dezembro, 1 de Março, 1 de Junho e 1 de Setembro de cada ano."
+  },
+  "11959f8d71024f97": {
+   "fragment_id": "Artigo 27.º — Outras comunicações",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Outras comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Outras comunicações\n\n1. Os Estados-Membros comunicarão à Comissão, no mês seguinte à sua adopção, as medidas adoptadas para garantir a aplicação do Regulamento (CE) n.o 1788/2003 e do presente regulamento, bem como as suas eventuais alterações. No caso das medidas adoptadas nos termos dos artigos 16.o, 17.o e 18.o do Regulamento (CE) n.o 1788/2003 ou nos termos do artigo 7.o do presente regulamento, será anexada à notificação uma explicação das medidas adoptadas e do seu objectivo.\n\n2. Os Estados-Membros comunicarão à Comissão o método ou métodos utilizados no âmbito do presente regulamento para medir as massas ou, se for caso disso, para converter os volumes em massa, a justificação dos coeficientes adoptados e as circunstâncias precisas em que são aplicáveis, bem como as suas eventuais alterações posteriores.\n\n3. Antes de 1 de Setembro de 2004, os Estados-Membros transmitirão à Comissão um breve relatório sobre o sistema de administração das suas quantidades de referência nacionais e, antes de 1 de Setembro de cada ano subsequente, uma actualização desse relatório caso o sistema seja alterado.\n\nO relatório incluirá uma descrição actualizada da situação, nomeadamente no que diz respeito às medidas adoptadas em caso de transferências temporárias, transferências juntamente com as terras e outras medidas de transferência específicas, à utilização de quantidades não utilizadas reatribuídas e ao recurso à reserva nacional."
+  },
+  "d7d15408208fbf18": {
+   "fragment_id": "CAPÍTULO VI DISPOSIÇÕES FINAIS — Artigo 28.o",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI DISPOSIÇÕES FINAIS — Artigo 28.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI DISPOSIÇÕES FINAIS — Artigo 28.o\n\nRevogação\n\nÉ revogado o Regulamento (CE) n.o 1392/2001.\n\nContinua, no entanto, a ser aplicável relativamente ao período 2003/2004 e, se necessário, a períodos anteriores, salvo disposição contrária do Regulamento (CE) n.o 1788/2003 do Conselho.\n\nAs remissões para o regulamento revogado são entendidas como sendo feitas para o presente regulamento e devem ser lidas de acordo com a tabela de correspondências do anexo III."
+  },
+  "70c5ffe721685cc9": {
+   "fragment_id": "Artigo 29.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Entrada em vigor\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.\n\nÉ aplicável a partir de 1 de Abril de 2004.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 30 de Março de 2004.\n\nPela Comissão\n\nFranz Fischler\n\nMembro da Comissão\n\n(1) JO L 270 de 21.10.2003, p. 123.\n\n(2) JO L 187 de 10.7.2001, p. 19.\n\n(3) JO L 39 de 17.2.1996, p. 5.\n\n(4) JO L 160 de 26.6.1999, p. 80.\n\n(5) JO L 388 de 30.12.1989, p. 18.\n\n(6) JO L 204 de 11.8.2000, p. 1.\n\n(7) JO L 198 de 21.7.2001, p. 26.\n\n(8) JO L 244 de 29.9.2000, p. 27."
+  },
+  "e0ade1032b37ca32": {
+   "fragment_id": "ANEXO I — >PIC FILE= \"L_2004094PT.003002.TIF\">",
+   "type": "divisao",
+   "heading": "ANEXO I — >PIC FILE= \"L_2004094PT.003002.TIF\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — >PIC FILE= \"L_2004094PT.003002.TIF\">\n\n>PIC FILE= \"L_2004094PT.003101.TIF\">"
+  },
+  "0921e066e148199f": {
+   "fragment_id": "ANEXO II — Taxas de juro de referência referidas no n.o 2 do artigo 15.o",
+   "type": "divisao",
+   "heading": "ANEXO II — Taxas de juro de referência referidas no n.o 2 do artigo 15.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Taxas de juro de referência referidas no n.o 2 do artigo 15.o\n\n- Para os Estados-Membros na zona euro\n\nEURO interbank borrowing offered rate (EURIBOR)\n\n- Para a Dinamarca\n\nCopenhagen interbank borrowing offered rate (CIBOR)\n\n- Para a Suécia\n\nStockholm interbank borrowing offered rate (STIBOR)\n\n- Para o Reino Unido\n\nLondon interbank borrowing offered rate (LIBOR)\n\n- Para Chipre\n\nNicosia interbank borrowing offered rate (NIBOR)\n\n- Para a República Checa\n\nPrague interbank borrowing offered rate (PRIBOR)\n\n- Para a Estónia\n\nTallinn interbank borrowing offered rate (TALIBOR)\n\n- Para a Hungria\n\nBudapest interbank borrowing offered rate (BUBOR)\n\n- Para a Lituânia\n\nVilnius interbank borrowing offered rate (VILIBOR)\n\n- Para a Letónia\n\nRiga interbank borrowing offered rate (RIGIBOR)\n\n- Para Malta\n\nMalta interbank borrowing offered rate (MIBOR)\n\n- Para a Polónia\n\nWarsaw interbank borrowing offered rate (WIBOR)\n\n- Para a Eslovénia\n\nSlovenian interbank borrowing offered rate (SITIBOR)\n\n- Para a Eslováquia\n\nBratislava interbank borrowing offered rate (BRIBOR)"
+  },
+  "e637924f6c17d55c": {
+   "fragment_id": "ANEXO III — Tabela de correspondências",
+   "type": "divisao",
+   "heading": "ANEXO III — Tabela de correspondências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Tabela de correspondências\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "e220f24d1bd6a450": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Março de 2004\n\nque estabelece regras de execução do Regulamento (CE) n.º 1788/2003 do Conselho que institui uma imposição no sector do leite e dos produtos lácteos"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "13133ff3950bd647": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\nO presente regulamento estabelece as regras de execução do Regulamento (CE) n.º 1788/2003 no que diz respeito à repartição das quantidades de referência nacionais entre as entregas e as vendas directas, ao cálculo e pagamento da imposição, às medidas de controlo e às comunicações dos Estados-Membros."
+  },
+  "53ece345e824fd6d": {
+   "fragment_id": "Artigo 2.º — Repartição das quantidades de referência nacionais entre as entregas e as vendas directas",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Repartição das quantidades de referência nacionais entre as entregas e as vendas directas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Repartição das quantidades de referência nacionais entre as entregas e as vendas directas\n\nAnualmente, após a recepção das comunicações referidas no [**►M4**](http://publications.europa.eu/resource/celex/32009R0258) artigo 25.º **◄**, a Comissão repartirá a quantidade de referência nacional, estabelecida para cada Estado-Membro no anexo I do Regulamento (CE) n.º 1788/2003, entre as entregas e as vendas directas, em conformidade com o n.º 2 do artigo 1.º do mesmo regulamento.\n\nA repartição será publicada no *Jornal Oficial da União Europeia*."
+  },
+  "e02c39fdce5bfe23": {
+   "fragment_id": "Artigo 3.º — Conversões",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Conversões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conversões\n\nAs conversões referidas no n.º 2 do artigo 6.º do Regulamento (CE) n.º 1788/2003 podem ser temporárias ou definitivas.\n\nAs conversões temporárias de quantidades de referência individuais são conversões em que, relativamente a um período específico de 12 meses, o produtor solicita a conversão de uma quantidade de leite entre as suas quantidades de referência.\n\nAs conversões definitivas são aquelas em que, relativamente a um período de 12 meses e aos períodos de 12 meses subsequentes, o produtor solicita a conversão de uma quantidade de leite entre as suas quantidades de referência."
+  },
+  "0d8434354d582651": {
+   "fragment_id": "Artigo 4.º — Informações sobre as novas definições de entregas e vendas directas",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Informações sobre as novas definições de entregas e vendas directas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Informações sobre as novas definições de entregas e vendas directas\n\n1. Os Estados-Membros informarão os produtores interessados das novas definições dos termos «entrega» e «venda directa» introduzidas pelo artigo 5.º, alíneas f) e g), do Regulamento (CE) n.º 1788/2003.\n\n2. A conversão definitiva entre as quantidades de referência devido às definições referidas no n.º 1 será efectuada a pedido do produtor em conformidade com o n.º 2 do artigo 6.º do Regulamento (CE) n.º 1788/2003."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "decf9548ddf51111": {
+   "fragment_id": "CÁLCULO DA IMPOSIÇÃO",
+   "type": "divisao",
+   "heading": "CÁLCULO DA IMPOSIÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CÁLCULO DA IMPOSIÇÃO"
+  },
+  "9b406af514eb9164": {
+   "fragment_id": "SECÇÃO 1",
+   "type": "divisao",
+   "heading": "SECÇÃO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 1"
+  },
+  "60d891a6f8ed3e8f": {
+   "fragment_id": "Regras Gerais",
+   "type": "divisao",
+   "heading": "Regras Gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Regras Gerais"
+  },
+  "f704b63547103ee6": {
+   "fragment_id": "Artigo 6.º — Método de cálculo da imposição",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Método de cálculo da imposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Método de cálculo da imposição\n\nO leite ou os produtos lácteos comercializados na acepção do artigo 5.º, alínea h), do Regulamento (CE) n.º 1788/2003 serão tidos em conta para o cálculo da imposição no momento em que deixem a exploração situada no território do Estado-Membro ou sejam utilizados na exploração para fins comerciais.\n\nQuando o leite ou os produtos lácteos deixem a exploração para serem destruídos em aplicação de medidas sanitárias decididas pela autoridade competente do Estado-Membro, as quantidades em causa não serão tidas em conta como entregas ou vendas directas.\n\nO leite que deixe a exploração para ser tratado ou transformado no âmbito de um contrato é considerado uma entrega."
+  },
+  "f785168c22951cc2": {
+   "fragment_id": "Artigo 7.º — Alterações do teor de referência individual em matéria gorda",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Alterações do teor de referência individual em matéria gorda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Alterações do teor de referência individual em matéria gorda\n\n1. Quando forem atribuídas quantidades de referência suplementares provenientes da reserva nacional, o teor de referência em matéria gorda referido no artigo 9.º do Regulamento (CE) n.º 1788/2003 permanecerá inalterado.\n\n2. Sempre que a quantidade de referência «entregas» for aumentada ou estabelecida com base em conversões, nos termos do n.º 2 do artigo 6.º do Regulamento (CE) n.º 1788/2003, o teor de referência em matéria gorda associado à quantidade de referência convertida em entregas será de 3,8 %.\n\nTodavia, o teor de referência em matéria gorda da quantidade de referência «entregas» permanecerá inalterado se o produtor tiver apresentado justificação suficiente perante a autoridade competente.\n\n3. Nos casos referidos nos artigos 16.º e 17.º e no n.º 1, alíneas d), e) e f), do artigo 18.º do Regulamento (CE) n.º 1788/2003, o teor de referência em matéria gorda será transferido juntamente com a quantidade de referência a que está associado.\n\n4. Nos casos referidos no n.º 1, alíneas b) e c), do artigo 18.º do Regulamento (CE) n.º 1788/2003, o teor de referência global em matéria gorda das quantidades de referência atribuídas ou transferidas não será aumentado em função do das quantidades liberadas. Sem prejuízo do disposto no n.º 5 do artigo 6.º do Regulamento (CE) n.º 1788/2003, a quantidade de leite disponível para reatribuição ou transferência pode ser recalculada em função de um teor de referência em matéria gorda determinado ou, vice-versa, o teor de referência em matéria gorda pode ser recalculado em função de uma quantidade de leite disponível determinada.\n\n5. Nos casos referidos no primeiro parágrafo do n.º 2 e nos n.^os^ 3 e 4, o teor de referência em matéria gorda resultante será igual à média dos teores de referência inicial e transferido ou convertido, ponderada pelas quantidades de referência inicial e transferida ou convertida.\n\n6. Relativamente aos produtores que disponham de uma quantidade de referência proveniente, na totalidade, da reserva nacional e que tenham iniciado a sua actividade após 1 de Abril de 2004, o teor de referência em matéria gorda será igual ao teor de referência nacional estabelecido no anexo II do Regulamento (CE) n.º 1788/2003."
+  },
+  "c42c0c2b3cabd519": {
+   "fragment_id": "SECÇÃO 2",
+   "type": "divisao",
+   "heading": "SECÇÃO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 2"
+  },
+  "330b702db945a76e": {
+   "fragment_id": "Entregas",
+   "type": "divisao",
+   "heading": "Entregas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Entregas"
+  },
+  "90111ac46c5b5d10": {
+   "fragment_id": "Artigo 8.º — Declaração das entregas",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Declaração das entregas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Declaração das entregas\n\n1. No termo de cada período de 12 meses, os compradores estabelecerão, para cada produtor, uma declaração que indique, no mínimo, a quantidade e o teor do leite em matéria gorda que este lhe tiver entregue durante esse período.\n\nEm caso de ano bissexto, a quantidade de leite será reduzida de 1/60 das quantidades entregues durante os meses de Fevereiro e Março.\n\n2. Antes de 15 de Maio de cada ano, os compradores enviarão à autoridade competente do Estado-Membro uma recapitulação das declarações referidas no n.º 1, que inclua, no mínimo, a quantidade total e o teor médio em matéria gorda do leite que lhes tiver sido entregue, bem como, se for caso disso, consoante a decisão do Estado-Membro, para cada produtor, a quantidade de referência e o teor de referência em matéria gorda, a quantidade corrigida em conformidade com o n.º 1 do artigo 10.º, a soma das quantidades de referência individuais e das quantidades corrigidas e o teor médio em matéria gorda de que dispõem esses produtores.\n\nSe for caso disso, os compradores declararão não ter recebido entregas durante o período em causa.\n\n3. O Estado-Membro imporá aos compradores que não respeitem o prazo referido no n.º 2 o pagamento de um montante igual à imposição devida por uma superação correspondente a 0,01 % das quantidades de leite que lhe tenham sido entregues pelos produtores, por dia de atraso. Se, por falta de declaração, essas quantidades não forem conhecidas, serão estimadas pela autoridade competente. Esse montante não pode ser inferior a 100 euros nem superior a 100 000 euros.\n\n4. Se não for apresentada qualquer declaração antes de 15 de Junho, os Estados-Membros notificarão o comprador, no prazo de 15 dias úteis, para que apresente a declaração prevista no prazo de 15 dias. Se, no final desse prazo, não tiver sido apresentada qualquer declaração, os Estados-Membros retirarão a aprovação ou imporão o pagamento de um montante proporcional ao volume de leite em causa e à gravidade da irregularidade.\n\nO n.º 3 continua a ser aplicável durante o prazo que decorre após a notificação.\n\n5. As sanções referidas nos n.^os^ 3 e 4 não serão aplicadas sempre que o Estado-Membro verificar que se trata de um caso de força maior ou que a irregularidade não foi cometida deliberadamente ou por negligência grave ou que tem importância mínima em relação ao funcionamento do regime ou à eficácia dos controlos."
+  },
+  "3e56a74d313414b8": {
+   "fragment_id": "Artigo 9.º — Adaptação do teor de referência individual em matéria gorda",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Adaptação do teor de referência individual em matéria gorda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Adaptação do teor de referência individual em matéria gorda\n\n1. Para efeitos da aplicação do n.º 5 do artigo 9.º do Regulamento (CE) n.º 1788/2003, os Estados-Membros registarão anualmente, antes de 1 de Julho, todas as superações do teor de referência nacional em matéria gorda para o período de 12 meses com termo em 31 de Março do ano em causa.\n\n2. Os teores de referência individuais em matéria gorda serão adaptados pelo mesmo coeficiente para todos os produtores, a fim de que, para cada Estado-Membro, a média ponderada desses teores não exceda em mais de 0,1 grama por quilograma o teor de referência em matéria gorda estabelecido no anexo II do Regulamento (CE) n.º 1788/2003. A adaptação será notificada aos produtores antes de 1 de Agosto e será aplicável a contar do período de 12 meses com início em 1 de Abril do mesmo ano."
+  },
+  "a9a5540fef2f714a": {
+   "fragment_id": "Artigo 10.º — Comparações do teor de referência em matéria gorda e do teor efectivo em matéria gorda",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Comparações do teor de referência em matéria gorda e do teor efectivo em matéria gorda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comparações do teor de referência em matéria gorda e do teor efectivo em matéria gorda\n\n1. A fim de permitir que cada produtor estabeleça a declaração referida no n.º 1 do artigo 8.º do presente regulamento, e em conformidade com o n.º 1 do artigo 10.º do Regulamento (CE) n.º 1788/2003, o teor médio em matéria gorda do leite que o produtor tiver entregue será comparado com o teor de referência em matéria gorda de que o produtor dispõe, referido no n.º 1 do artigo 9.º do mesmo regulamento.\n\nCaso se verifique um desvio positivo, a quantidade de leite entregue será majorada de 0,09 % por 0,1 grama de matéria gorda suplementar por quilograma de leite.\n\nCaso se verifique um desvio negativo, a quantidade de leite entregue será diminuída de 0,18 % por 0,1 grama de matéria gorda a menos por quilograma de leite.\n\nSe, em aplicação do terceiro parágrafo, a quantidade ajustada de leite entregue pelo produtor for inferior a 75 % da quantidade de leite efectivamente entregue, sendo o teor de referência em matéria gorda do produtor superior a 4,5 %, a declaração individual será estabelecida com base em 75 % da quantidade efectivamente entregue.\n\nCaso a quantidade de leite entregue seja expressa em litros, a adaptação será multiplicada pelo coeficiente 0,971.\n\n2. Os Estados-Membros estabelecerão a adaptação das entregas a nível nacional em conformidade com o n.º 1 do artigo 80.º do Regulamento (CE) n.º 1234/2007 ([^3^](http://publications.europa.eu/resource/cellar/cd654956-7e42-48b8-8fe1-03570384324e.0015.02/DOC_2#E0003))."
+  },
+  "ac8387eef8dd0a6f": {
+   "fragment_id": "SECÇÃO 3",
+   "type": "divisao",
+   "heading": "SECÇÃO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 3"
+  },
+  "bcf5a795341571d9": {
+   "fragment_id": "Vendas Directas",
+   "type": "divisao",
+   "heading": "Vendas Directas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Vendas Directas"
+  },
+  "c16aa1c7162b0d7f": {
+   "fragment_id": "Artigo 11.º — Declarações de vendas directas",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Declarações de vendas directas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Declarações de vendas directas\n\n1. No termo de cada período de 12 meses, cada produtor recapitulará numa declaração, por produto, as quantidades que vendeu directamente.\n\nEm caso de ano bissexto, a quantidade de leite ou de equivalente-leite será reduzida de 1/60 das quantidades vendidas durante os meses de Fevereiro e Março ou de 1/366 das quantidades vendidas durante o período de 12 meses em causa.\n\n2. Antes de 15 de Maio de cada ano, os produtores enviarão a declaração prevista no n.º 1 à autoridade competente do Estado-Membro.\n\nO Estado-Membro pode requerer que os produtores que disponham de quantidades de referência para a venda directa declarem, se for caso disso, não ter vendido ou transferido leite ou outros produtos lácteos durante o período em causa.\n\n3. Os Estados-Membros imporão aos produtores que não respeitem o prazo referido no n.º 2 o pagamento de um montante igual à imposição devida por uma superação correspondente a 0,01 % da quantidade de referência «vendas directas» de que dispõem, por dia de atraso. No entanto, esse montante não pode ser inferior a 100 euros nem superior a 1 000 euros.\n\nSe tiverem superado a sua quantidade de referência e a quantidade de referência nacional «vendas directas» também for superada, será igualmente imposto aos produtores o pagamento de uma contribuição para a imposição calculada sobre a totalidade da superação da sua quantidade de referência, sem poderem beneficiar da reatribuição eventual das quantidades de referência não utilizadas prevista no n.º 1 do artigo 12.º do Regulamento (CE) n.º 1788/2003.\n\nSe os produtores tiverem fornecido declarações incorrectas, o Estado-Membro impor-lhes-á o pagamento de um montante proporcional à quantidade de leite em causa e à gravidade da irregularidade, no máximo igual à imposição teórica aplicável à quantidade de leite resultante da correcção aplicada, multiplicada por 1,5.\n\n4. Se não for apresentada qualquer declaração antes de 15 de Junho, os Estados-Membros notificarão o produtor, no prazo de 15 dias úteis, para que apresente a declaração prevista no prazo de 15 dias. Se, no final desse prazo, não tiver sido apresentada qualquer declaração, a quantidade de referência «vendas directas» do produtor em causa será afectada à reserva nacional. O primeiro parágrafo do n.º 3 continua a ser aplicável durante o prazo que decorre após a notificação.\n\n5. As sanções referidas nos n.^os^ 3 e 4 não serão aplicadas sempre que o Estado-Membro verificar que se trata de um caso de força maior ou que a irregularidade não foi cometida deliberadamente ou por negligência grave ou que tem importância mínima em relação ao funcionamento do regime ou à eficácia dos controlos."
+  },
+  "3c8e05cf4e708168": {
+   "fragment_id": "Artigo 12.º — Equivalências",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Equivalências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Equivalências\n\n1.\n\nPara a comercialização dos produtos que não o leite, os Estados-Membros estabelecerão as quantidades de leite utilizadas para transformação. Para esse efeito, são as seguintes as equivalências a utilizar:\n\na) 1 quilograma de nata = 0,263 quilogramas de leite x % de matéria gorda da nata, expressa em massa,\n\nb) 1 quilograma de manteiga = 22,5 quilogramas de leite.\n\nRelativamente aos queijos e a todos os outros produtos lácteos, os Estados-Membros determinarão as equivalências atendendo, nomeadamente, ao teor em extracto seco e em matéria gorda dos tipos de queijo ou de produtos em questão.\n\nSempre que o produtor puder apresentar prova suficiente perante a autoridade competente das quantidades efectivamente utilizadas na transformação dos produtos em causa, o Estado-Membro utilizará a referida prova em vez das equivalências referidas no primeiro e segundo parágrafos.\n\n2. Se se verificarem dificuldades na determinação das quantidades de leite utilizadas para transformação com base nos produtos comercializados, os Estados-Membros podem fixar de modo invariável as quantidades de equivalente-leite atendendo ao efectivo de vacas leiteiras do produtor e a um rendimento leiteiro médio por vaca representativo do efectivo."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "4af328635d045dd2": {
+   "fragment_id": "PAGAMENTO DA IMPOSIÇÃO",
+   "type": "divisao",
+   "heading": "PAGAMENTO DA IMPOSIÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PAGAMENTO DA IMPOSIÇÃO"
+  },
+  "5228079a26da358e": {
+   "fragment_id": "Artigo 13.º — Notificação da imposição",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Notificação da imposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Notificação da imposição\n\n1. No caso das entregas, a autoridade competente notificará os compradores das contribuições para a imposição de que são devedores, ou confirmar-lhes-á esse montante, após ter ou não, conforme decisão do Estado-Membro, reatribuído total ou parcialmente as quantidades de referência não utilizadas, quer directamente aos produtores em causa quer, se for o caso, aos compradores, para que sejam repartidas por esses produtores.\n\n2. No caso das vendas directas, a autoridade competente notificará os produtores das contribuições para a imposição de que são devedores, após ter ou não, conforme decisão do Estado-Membro, reatribuído total ou parcialmente as quantidades de referência não utilizadas directamente aos produtores em causa.\n\n3. Não será feita a nível nacional a reatribuição das quantidades não utilizadas entre quantidades de referência «entregas» e «vendas directas»."
+  },
+  "15f50d0791bee91b": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nO facto gerador da taxa de câmbio aplicável ao pagamento da imposição referida no artigo 1.º do Regulamento (CE) n.º 595/2004 é o indicado no n.º 6 do artigo 5.º do Regulamento (CE) n.º 1913/2006 da Comissão ([^4^](http://publications.europa.eu/resource/cellar/cd654956-7e42-48b8-8fe1-03570384324e.0015.02/DOC_2#E0004))."
+  },
+  "647df9089f2b0789": {
+   "fragment_id": "Artigo 15.º — Prazo de pagamento",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Prazo de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Prazo de pagamento\n\n1. Antes de 1 de outubro de cada ano, os compradores ou, em caso de vendas diretas, os produtores devedores da imposição devem pagar à autoridade competente o montante devido, em conformidade com as regras determinadas pelo Estado-Membro, sendo os compradores responsáveis pela cobrança da imposição sobre os excedentes no que respeita às entregas devida pelos produtores nos termos do artigo 79.º do Regulamento (CE) n.º 1234/2007, em conformidade com o artigo 81.º, n.º 1, do mesmo regulamento.\n\nSem prejuízo da aplicação dos artigos 107.º a 109.º do Tratado sobre o Funcionamento da União Europeia, os Estados-Membros podem decidir que o pagamento do montante devido relativo ao período de 12 meses com início em 1 de abril de 2014 tem lugar em três prestações anuais sem juros.\n\nO primeiro pagamento anual, representando, pelo menos, 1/3 do montante total devido, deve ser efetuado até 30 de setembro de 2015. Até 30 de setembro de 2016, devem ser pagos, pelo menos, 2/3 do montante total devido. O montante total deve ser liquidado até 30 de setembro de 2017.\n\nOs Estados-Membros devem assegurar que os produtores são os beneficiários desse regime de pagamento a prestações.\n\n2. Em caso de não cumprimento do prazo de pagamento referido no n.º 1, o montante em dívida vencerá um juro anual às taxas de referência a três meses válidas em 1 de [**►M1**](http://publications.europa.eu/resource/celex/32006R1468) Outubro**◄** de cada ano, conforme referido no anexo II, majoradas de um ponto percentual.\n\nOs juros serão pagos ao Estado-Membro.\n\n3. Os Estados-Membros comunicarão ao Fundo Europeu Agrícola de Garantia (FEAGA) os montantes resultantes da aplicação do artigo 3.º do Regulamento (CE) n.º 1788/2003 juntamente com as despesas declaradas a título do mês de Novembro de cada ano.\n\nSe, em conformidade com o n.º 3 do artigo 26.º, os Estados-Membros comunicarem uma actualização do questionário referido no n.º 1 desse artigo, os montantes ajustados daí resultantes serão declarados ao FEAGA o mais tardar juntamente com as despesas declaradas a título do mês antes do qual o questionário deva ser comunicado.\n\n4. No caso de o relatório referido no n.º 5 do artigo 3.º do Regulamento (CE) n.º 296/96 da Comissão revelar que o prazo referido no n.º 3 do presente artigo não foi respeitado, a Comissão ([^5^](http://publications.europa.eu/resource/cellar/cd654956-7e42-48b8-8fe1-03570384324e.0015.02/DOC_2#E0005)), procederá a uma redução dos adiantamentos sobre a tomada a cargo das despesas agrícolas, proporcional ao montante em dívida ou a uma estimativa do montante em dívida, em conformidade com o n.º 2 do artigo 3.º do Regulamento (CE) n.º 1788/2003."
+  },
+  "a1658c8537d6d315": {
+   "fragment_id": "Artigo 16.º — Critérios de redistribuição do excesso de imposição",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Critérios de redistribuição do excesso de imposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Critérios de redistribuição do excesso de imposição\n\n1.\n\nSe for caso disso, os Estados-Membros determinarão as categorias prioritárias de produtores referidas no n.º 1, alínea b), do artigo 13.º do Regulamento (CE) n.º 1788/2003, em função de um ou mais dos seguintes critérios objectivos:\n\na) O reconhecimento formal pela autoridade competente do Estado-Membro de que a imposição foi, na totalidade ou em parte, indevidamente cobrada;\n\nb) A situação geográfica da exploração e, em primeiro lugar, as zonas de montanha, na acepção do artigo 18.º do Regulamento (CE) n.º 1257/1999 do Conselho ([^6^](http://publications.europa.eu/resource/cellar/cd654956-7e42-48b8-8fe1-03570384324e.0015.02/DOC_2#E0006));\n\nc) O encabeçamento máximo na exploração, que caracteriza a extensificação da produção pecuária;\n\nd) A superação da quantidade de referência individual em menos de 5 % ou em menos de 15 000 kg, consoante o que for menor;\n\ne) Uma quantidade de referência individual inferior a 50 % da média nacional de quantidades de referência individuais;\n\nf) Outros critérios objectivos, adoptados pelo Estado-Membro após consulta da Comissão.\n\n2. A redistribuição da imposição excedentária será completada, o mais tardar, 15 meses após o termo do período de 12 meses em questão."
+  },
+  "feddfaacce7da149": {
+   "fragment_id": "Artigo 16.ºA — Utilização da percentagem de 1 % da imposição que não se destina a ser paga ao FEAGA",
+   "type": "artigo",
+   "heading": "Artigo 16.ºA — Utilização da percentagem de 1 % da imposição que não se destina a ser paga ao FEAGA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.ºA — Utilização da percentagem de 1 % da imposição que não se destina a ser paga ao FEAGA\n\nSe, em conformidade com o n.º 1 do artigo 3.º do Regulamento (CE) n.º 1788/2003, a percentagem de 1 % da imposição que não se destina a ser paga ao FEAGA exceder o montante necessário para os casos de falência ou de incapacidade definitiva de certos produtores de pagarem a imposição, os Estados-Membros podem utilizar o montante excedentário de acordo com o n.º 1 do artigo 13.º do mesmo regulamento."
+  },
+  "35f292585b7c62e4": {
+   "fragment_id": "Artigo 17.º — Cobrança da imposição",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Cobrança da imposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Cobrança da imposição\n\nOs Estados-Membros tomarão as medidas necessárias para assegurar que a imposição seja correctamente cobrada e repercutida nos produtores que tenham contribuído para a superação."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "e9fc7c95f5c53ac6": {
+   "fragment_id": "CONTROLO PELOS ESTADOS-MEMBROS E OBRIGAÇÕES DOS COMPRADORES E PRODUTORES",
+   "type": "divisao",
+   "heading": "CONTROLO PELOS ESTADOS-MEMBROS E OBRIGAÇÕES DOS COMPRADORES E PRODUTORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONTROLO PELOS ESTADOS-MEMBROS E OBRIGAÇÕES DOS COMPRADORES E PRODUTORES"
+  },
+  "14c147f5716f044d": {
+   "fragment_id": "Controlos",
+   "type": "divisao",
+   "heading": "Controlos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Controlos"
+  },
+  "5751ab5163702575": {
+   "fragment_id": "Artigo 18.º — Medidas nacionais de controlo",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Medidas nacionais de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Medidas nacionais de controlo\n\nOs Estados-Membros tomarão todas as medidas de controlo necessárias para assegurar a observância do presente regulamento, nomeadamente das medidas referidas nos artigos 19.º a 22.º"
+  },
+  "e2e15123e411f668": {
+   "fragment_id": "Artigo 19.º — Plano de controlo",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Plano de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Plano de controlo\n\n1.\n\nOs Estados-Membros elaborarão um plano geral de controlo, por período de 12 meses, com base numa análise de risco. Esse plano de controlo deve, no mínimo, incluir:\n\na) Os critérios adoptados para a elaboração do plano;\n\nb) Os compradores e os produtores seleccionados;\n\nc) Os controlos no local a efectuar relativamente ao período de doze meses;\n\nd) Os controlos do transporte entre produtores e compradores;\n\ne) Os controlos das declarações anuais dos produtores ou compradores.\n\nOs Estados-Membros podem decidir actualizar o plano geral de controlo por meio de planos periódicos mais pormenorizados.\n\nDeve ter-se em consideração a representatividade dos operadores do sector do leite para a análise de risco e a sazonalidade da produção para o calendário dos controlos.\n\n2. Os controlos serão efectuados em parte durante o período de 12 meses em questão e em parte após o período de 12 meses, com base nas declarações anuais.\n\n3. Considera-se que os controlos estão terminados quando o correspondente relatório de inspeção estiver disponível.\n\nTodos os relatórios de inspeção devem estar concluídos, o mais tardar, 18 meses após o termo do período de 12 meses em causa.\n\nEm derrogação ao segundo parágrafo, os Estados-Membros que aplicam o regime de pagamento a prestações previsto no artigo 15.º, n.º 1, devem preencher o relatório de controlo, o mais tardar, 42 meses após o termo do período de 12 meses em questão.\n\nNo entanto, quando os controlos previstos no artigo 20.º forem combinados com outros controlos, têm de ser respeitados os prazos previstos para os outros controlos e para o estabelecimento dos relatórios de inspeção correspondentes."
+  },
+  "38d515321bfa25d1": {
+   "fragment_id": "Artigo 21.º — Controlos das entregas e das vendas directas",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Controlos das entregas e das vendas directas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Controlos das entregas e das vendas directas\n\n1.\n\nNo que diz respeito às entregas, os controlos serão efectuados a nível da exploração, do transporte do leite e do comprador. Em todas as fases, os Estados-Membros verificarão na prática a exactidão do registo e da contabilização do leite comercializado através de controlos no local que incidirão, designadamente:\n\na) A nível da exploração, no estatuto de produtor na acepção da alínea c) do artigo 5.º do Regulamento (CE) n.º 1788/2003, bem como na compatibilidade entre as entregas e a capacidade de produção;\n\nb) A nível do transporte, no documento referido no n.º 4 do artigo 24.º do presente regulamento, na precisão dos instrumentos de medição do volume e da qualidade do leite, no rigor do método de recolha, inclusivamente nos eventuais pontos intermédios de recolha, e na precisão da quantidade de leite recolhido aquando do descarregamento;\n\nc) A nível do comprador, no rigor das declarações referidas no artigo 8.º do presente regulamento, nomeadamente através do controlo cruzado com os documentos referidos nos n.^os^ 2 a 5 do artigo 24.º do presente regulamento, bem como na verosimilhança das contabilidades de existências e de entregas referidas nos n.^os^ 2 e 3 do artigo 24.º do presente regulamento, face aos documentos, comerciais e outros, comprovativos da utilização do leite recolhido.\n\n2.\n\nNo que diz respeito às vendas directas, os controlos incidirão, designadamente:\n\na) A nível da exploração, no estatuto de produtor na acepção da alínea c) do artigo 5.º do Regulamento (CE) n.º 1788/2003, bem como na compatibilidade entre as vendas directas e a capacidade de produção;\n\nb) No rigor da declaração referida no n.º 1 do artigo 11.º do presente regulamento, nomeadamente através dos documentos referidos no n.º 6 do seu artigo 24.º"
+  },
+  "db44d3f1fe59a6fc": {
+   "fragment_id": "Artigo 22.º — Intensidade dos controlos",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Intensidade dos controlos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Intensidade dos controlos\n\n1.\n\nOs controlos referidos no artigo 21.º, n.º 1, devem incidir, pelo menos:\n\na) Em 1 % dos produtores por período de 12 meses;\n\nb) Em 20 % da quantidade de leite declarada, após a correção para o período em causa; e ainda\n\nc) Numa amostra representativa do transporte de leite entre produtores e compradores selecionados.\n\nOs controlos do transporte referidos na alínea c) devem ser efetuados, nomeadamente, aquando do descarregamento nas centrais leiteiras.\n\n2.\n\nOs controlos referidos no n.º 2 do artigo 21.º abrangerão, pelo menos:\n\na) 5 % dos produtores; ou\n\nb) Os seguintes dois grupos:\n\ni) 1 % dos produtores cuja quantidade de referência individual «vendas directas» seja inferior a 5 000 kg e cujas vendas directas declaradas para o período de 12 meses em causa seja inferior a 5 000 kg de leite ou de equivalente-leite,\n\nii) 5 % dos produtores que não satisfaçam as condições fixadas na subalínea i).\n\n3. Durante um período de cinco anos, cada comprador deve ser sujeito a, pelo menos, um controlo.\n\n4. Se um controlo revelar discrepâncias ou irregularidades significativas numa região ou parte de região, a autoridade competente deve duplicar o número de controlos, nessa região ou parte de região, durante o período de 12 meses em causa e o período de 12 meses seguinte."
+  },
+  "dcf5f7e66f97c356": {
+   "fragment_id": "Obrigações",
+   "type": "divisao",
+   "heading": "Obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Obrigações"
+  },
+  "1d917f694e130b40": {
+   "fragment_id": "Artigo 23.º — Aprovação dos compradores",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Aprovação dos compradores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Aprovação dos compradores\n\n1. Para poderem comprar leite aos produtores e operar no território de um Estado-Membro, os compradores devem ser aprovados por esse Estado-Membro.\n\n2.\n\nSem prejuízo de disposições mais restritivas a estabelecer pelo Estado-Membro em causa, os compradores só serão aprovados se:\n\na) Provarem possuir a qualidade de comerciante à luz das disposições nacionais;\n\nb) Dispuserem, no Estado-Membro em causa, de instalações em que a contabilidade de existências, os registos e os outros documentos referidos no n.º 2 do artigo 24.º possam ser consultados pela autoridade competente;\n\nc) Se comprometerem a manter actualizados a contabilidade de existências, os registos e os outros documentos referidos no n.º 2 do artigo 24.º;\n\nd) Se comprometerem a transmitir, pelo menos anualmente, à autoridade competente do Estado-Membro em causa as declarações previstas no n.º 2 do artigo 8.º\n\n3. Sem prejuízo das sanções estabelecidas pelo Estado-Membro em causa, a aprovação será retirada se as condições previstas nas alíneas a) e b) do n.º 2 deixarem de ser satisfeitas.\n\nCaso se verifique que um comprador transmitiu uma declaração inexacta ou não respeitou o compromisso referido na alínea c) do n.º 2 ou, de forma repetida, qualquer outra obrigação do Regulamento (CE) n.º 1788/2003, do presente regulamento ou da regulamentação nacional aplicável, o Estado-Membro retirará a aprovação ou imporá o pagamento de uma soma proporcional ao volume de leite em causa e à gravidade da irregularidade.\n\n4. A pedido do comprador, a aprovação pode ser restabelecida após um período não inferior a seis meses se um novo controlo aprofundado der resultados satisfatórios.\n\nAs sanções referidas no n.º 3 não serão aplicadas sempre que o Estado-Membro verificar que se trata de um caso de força maior ou que a irregularidade não foi cometida deliberadamente ou por negligência grave ou que tem importância mínima em relação ao funcionamento do regime ou à eficácia dos controlos."
+  },
+  "15d74b31aa26452f": {
+   "fragment_id": "Artigo 24.º — Obrigações dos compradores e dos produtores",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Obrigações dos compradores e dos produtores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Obrigações dos compradores e dos produtores\n\n1. Os produtores certificar-se-ão de que os compradores a quem efectuam entregas são compradores aprovados. Os Estados-Membros devem prever sanções em caso de entregas a compradores não aprovados.\n\n2. Os compradores manterão à disposição da autoridade competente do Estado-Membro, durante pelo menos três anos a contar do termo do ano de elaboração desses documentos, por um lado, uma contabilidade de existências por período de 12 meses que indique, relativamente a cada produtor, o nome e endereço e os dados referidos no n.º 2 do artigo 8.º, estabelecidos por mês ou por período de quatro semanas para as quantidades entregues e anualmente para os outros dados, e, por outro lado, os documentos comerciais, a correspondência e outras informações referidas no Regulamento (CEE) n.º 4045/89 do Conselho ([^7^](http://publications.europa.eu/resource/cellar/cd654956-7e42-48b8-8fe1-03570384324e.0015.02/DOC_2#E0007)) que permitam o controlo da referida contabilidade de existências.\n\n3. Os compradores são responsáveis pela contabilização da totalidade das quantidades de leite que lhe tenham sido entregues. Para esse efeito, manterão à disposição da autoridade competente, durante pelo menos três anos a contar do termo do ano de elaboração desses documentos, a lista dos compradores e das empresas de tratamento ou transformação de leite que lhes tiverem fornecido leite, com a indicação, por mês, da quantidade entregue por cada fornecedor.\n\n4. Aquando da recolha nas explorações, o leite será acompanhado de um documento que individualize a respectiva entrega. Além disso, os compradores conservarão, durante pelo menos três anos a contar do termo do ano em que foi feito, o registo de cada entrega individual.\n\n5. Os produtores que efectuem entregas manterão à disposição da autoridade competente do Estado-Membro, durante pelo menos três anos a contar do termo do ano de elaboração dos documentos, os documentos respeitantes às quantidades de leite entregues aos compradores. Os produtores em questão manterão também à disposição da autoridade competente os registos dos animais utilizados para a produção de leite existentes na exploração, em conformidade com o artigo 7.º do Regulamento (CE) n.º 1760/2000 do Parlamento Europeu e do Conselho ([^8^](http://publications.europa.eu/resource/cellar/cd654956-7e42-48b8-8fe1-03570384324e.0015.02/DOC_2#E0008)).\n\nOs produtores que efectuarem vendas directas manterão à disposição da autoridade competente do Estado-Membro, durante pelo menos três anos a contar do termo do ano de elaboração dos documentos, uma contabilidade de existências por período de doze meses que indique as vendas ou transferências de leite ou de produtos lácteos por mês e por produto.\n\nOs produtores cuja quantidade de referência individual de vendas directas seja igual ou superior a 5 000 kg manterão igualmente uma contabilidade das quantidades de leite e produtos lácteos que tiverem sido produzidas, mas não tiverem sido vendidas ou transferidas.\n\nOs Estados-Membros podem estabelecer regras mais pormenorizadas.\n\nOs produtores em questão manterão também à disposição da autoridade competente os registos dos animais utilizados para a produção de leite existentes na exploração, em conformidade com o artigo 7.º do Regulamento (CE) n.º 1760/2000, e os documentos comprovativos que permitam controlar a referida contabilidade de existências."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "09d3a57554cac11f": {
+   "fragment_id": "COMUNICAÇÕES",
+   "type": "divisao",
+   "heading": "COMUNICAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COMUNICAÇÕES"
+  },
+  "d73bdaf9baca2232": {
+   "fragment_id": "Artigo 25.º — Comunicações sobre a repartição entre as entregas e as vendas directas",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Comunicações sobre a repartição entre as entregas e as vendas directas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Comunicações sobre a repartição entre as entregas e as vendas directas\n\n1. Antes de 1 de Julho de 2004, os Estados-Membros comunicarão à Comissão a repartição entre as entregas e as vendas directas de quantidades de referência individuais resultantes da aplicação do n.º 1 do artigo 6.º do Regulamento (CE) n.º 1788/2003, convertidas se necessário de acordo com o n.º 2 do artigo 4.º do presente regulamento.\n\n2.\n\nNos termos do n.º 2, alínea a), do artigo 69.º do Regulamento (CE) n.º 1234/2007, os Estados-Membros comunicarão à Comissão, anualmente, antes de 1 de Fevereiro:\n\na) As quantidades convertidas definitivamente a pedido dos produtores entre as quantidades de referência individuais «entregas» e «vendas directas»;\n\nb) A repartição entre «entregas» e «vendas directas» das quantidades incluídas na reserva nacional nos termos do n.º 2 do artigo 71.º do Regulamento (CE) n.º 1234/2007, com efeitos a partir de 1 de Abril do período de 12 meses em questão."
+  },
+  "207ab31d92c35c13": {
+   "fragment_id": "Artigo 26.º — Questionário",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Questionário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Questionário\n\n1. Anualmente, antes de 1 de Setembro, os Estados-Membros transmitirão à Comissão o questionário estabelecido no anexo I, devidamente preenchido em conformidade com o n.º 2, alínea b), do artigo 8.º do Regulamento (CE) n.º 1788/2003.\n\nPortugal completará o preenchimento do questionário com informações suplementares que permitam distinguir o cálculo da imposição entre o Continente e os Açores nos termos do Regulamento (CE) n.º 1453/2001 do Conselho ([^9^](http://publications.europa.eu/resource/cellar/cd654956-7e42-48b8-8fe1-03570384324e.0015.02/DOC_2#E0009)).\n\n2.\n\nEm caso de não respeito dos requisitos previstos no n.º 1, a Comissão reterá, nos termos do artigo 14.º do Regulamento (CE) n.º 2040/2000 do Conselho ([^10^](http://publications.europa.eu/resource/cellar/cd654956-7e42-48b8-8fe1-03570384324e.0015.02/DOC_2#E0010)), um montante invariável dos adiantamentos aquando da tomada a cargo das despesas agrícolas dos Estados-Membros em causa. Esse montante será igual à imposição devida para uma superação teórica da quantidade de referência global em causa, calculada conforme a seguir indicado:\n\na) Se o questionário não tiver sido transmitido até 1 de Setembro ou se faltarem dados essenciais para o cálculo da imposição, a percentagem da superação teórica será de 0,005 % por semana de atraso;\n\nb) Se se verificar que a soma das quantidades entregues ou vendidas directamente, comunicadas nas actualizações previstas no n.º 3 do presente artigo, se afasta de mais de 10 % dos dados fornecidos na resposta inicial ao questionário, a percentagem da superação teórica será de 0,05 %.\n\n3. Em caso de alteração dos dados do questionário, na sequência nomeadamente dos controlos previstos nos artigos 18 a 21.º, o Estado-Membro em causa comunicará as actualizações do questionário à Comissão antes do início dos dias 1 de Dezembro, 1 de Março, 1 de Junho e 1 de Setembro de cada ano."
+  },
+  "c7049d6e38e09137": {
+   "fragment_id": "Artigo 27.º — Outras comunicações",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Outras comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Outras comunicações\n\n1. Os Estados-Membros comunicarão à Comissão, no mês seguinte à sua adopção, as medidas adoptadas para garantir a aplicação do Regulamento (CE) n.º 1788/2003 e do presente regulamento, bem como as suas eventuais alterações. No caso das medidas adoptadas nos termos dos artigos 16.º, 17.º e 18.º do Regulamento (CE) n.º 1788/2003 ou nos termos do artigo 7.º do presente regulamento, será anexada à notificação uma explicação das medidas adoptadas e do seu objectivo.\n\n2. Os Estados-Membros comunicarão à Comissão o método ou métodos utilizados no âmbito do presente regulamento para medir as massas ou, se for caso disso, para converter os volumes em massa, a justificação dos coeficientes adoptados e as circunstâncias precisas em que são aplicáveis, bem como as suas eventuais alterações posteriores.\n\n3. Antes de 1 de Setembro de 2004, os Estados-Membros transmitirão à Comissão um breve relatório sobre o sistema de administração das suas quantidades de referência nacionais e, antes de 1 de Setembro de cada ano subsequente, uma actualização desse relatório caso o sistema seja alterado.\n\nO relatório incluirá uma descrição actualizada da situação, nomeadamente no que diz respeito às medidas adoptadas em caso de transferências temporárias, transferências juntamente com as terras e outras medidas de transferência específicas, à utilização de quantidades não utilizadas reatribuídas e ao recurso à reserva nacional.\n\n4. Anualmente, antes de 1 de Outubro, os Estados-Membros transmitirão à Comissão um relatório sobre a utilização das quantidades de referência e a cobrança de imposições relativas ao período de 12 meses que termina em 31 de Março do mesmo ano civil. Os Estados-Membros transmitirão à Comissão um relatório actualizado, antes de 1 de Dezembro, com informações actualizadas.\n\n5. O relatório, referido no n.º 4, incluirá informações sobre a reafectação de quantidades não utilizadas, incluindo o número de produtores contemplados com atribuições e a fundamentação para as mesmas. Os Estados-Membros incluem no relatório, no mínimo, as informações referidas na parte 1 do anexo IIa. O relatório, a transmitir até 1 de Outubro de 2009, apresentará informações relevantes sobre os períodos de 12 meses correspondentes a 2008/2009 e a 2007/2008.\n\n6. O relatório referido no n.º 4 indicará o montante da imposição sobre os excedentes pago até à data à autoridade competente, o número de produtores que, até ao presente, contribuem para o pagamento da imposição sobre os excedentes, o montante e o número de casos de imposições ainda por pagar, assim como o montante e o número de casos em que foi considerado impossível cobrar a imposição sobre os excedentes devido a falência ou incapacidade definitiva dos produtores de pagar os montantes em causa. Os Estados-Membros devem comunicar as informações relevantes utilizando o modelo que figura na parte 2, anexo IIa. O relatório, a transmitir até 1 de Outubro de 2009, incluirá dados detalhados sobre a cobrança das imposições para cada período de 12 meses a partir de 2003/2004 ou, no caso dos Estados-Membros que aplicaram o regulamento pela primeira vez depois de 2003/2004, os dados relativos a cada período de aplicação de 12 meses. Todos os relatórios posteriores devem actualizar a situação relativa à cobrança das imposições sobre os excedentes anteriormente declaradas em dívida.\n\n7. Os Estados-Membros que aplicam o regime de pagamento a prestações previsto no artigo 15.º, n.º 1, devem notificar à Comissão, até 30 de novembro de 2016 e 30 de novembro de 2017, o número de beneficiários do regime e o montante que ainda não foi recuperado junto deles, para cada pagamento anual, mencionando-os na coluna (i) do quadro da parte 2 do relatório previsto no anexo IIA, utilizando a menção «regime de pagamento a prestações»."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "aa3a4fe1bda3aa85": {
+   "fragment_id": "Artigo 28.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Revogação\n\nÉ revogado o Regulamento (CE) n.º 1392/2001.\n\nContinua, no entanto, a ser aplicável relativamente ao período 2003/2004 e, se necessário, a períodos anteriores, salvo disposição contrária do Regulamento (CE) n.º 1788/2003 do Conselho.\n\nAs remissões para o regulamento revogado são entendidas como sendo feitas para o presente regulamento e devem ser lidas de acordo com a tabela de correspondências do anexo III."
+  },
+  "aabd3d6f1fca1c92": {
+   "fragment_id": "Artigo 29.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Entrada em vigor\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de Abril de 2004.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "39c7ede9eed47fb1": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n[**►(^1^) M4**](http://publications.europa.eu/resource/celex/32009R0258)"
+  },
+  "bd4822d883f9914f": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nTaxas de juro de referência referidas no n.º 2 do artigo 15.º\n\n— Para os Estados-Membros na zona euro\n\n— Para a Dinamarca\n\n— Para a Suécia\n\n— Para o Reino Unido\n\n— Para Chipre\n\n— Para a República Checa\n\n— Para a Estónia\n\n— Para a Hungria\n\n— Para a Lituânia\n\n— Para a Letónia\n\n— Para Malta\n\n— Para a Polónia\n\n— Para a Eslovénia\n\n— Para a Eslováquia"
+  },
+  "de74c1e510135ba9": {
+   "fragment_id": "ANEXO IIa",
+   "type": "divisao",
+   "heading": "ANEXO IIa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IIa"
+  },
+  "258202a403f21adf": {
+   "fragment_id": "Relatório referido no artigo 27.º, n.º 4",
+   "type": "divisao",
+   "heading": "Relatório referido no artigo 27.º, n.º 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Relatório referido no artigo 27.º, n.º 4"
+  },
+  "26d20e00e510d0ac": {
+   "fragment_id": "PARTE 1",
+   "type": "divisao",
+   "heading": "PARTE 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PARTE 1"
+  },
+  "f5ae87c149dfb676": {
+   "fragment_id": "Informações relativas ao período de 12 meses que termina em 31 de Março de 20…, incluindo entregas e vendas directas",
+   "type": "divisao",
+   "heading": "Informações relativas ao período de 12 meses que termina em 31 de Março de 20…, incluindo entregas e vendas directas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Informações relativas ao período de 12 meses que termina em 31 de Março de 20…, incluindo entregas e vendas directas\n\n1. Número de produtores que superaram a sua quota disponível antes da reafectação das quotas em conformidade com o artigo 79.º do Regulamento (CE) n.º 1234/2007.\n\n2. Volume, em kg, das entregas e vendas directas excedentárias efectuadas pelos produtores referidos no ponto 1, antes da reafectação das quotas em conformidade com o artigo 79.º do Regulamento (CE) n.º 1234/2007.\n\n3. Número de produtores que não utilizaram a totalidade da quota disponível.\n\n4. Volume da quota, em kg, não utilizada pelos produtores referidos no ponto 3.\n\n5. Número total de produtores instados a contribuir para o pagamento das imposições sobre os excedentes, após reafectação das quotas não utilizadas em conformidade com o artigo 79.º do Regulamento (CE) n.º 1234/2007."
+  },
+  "8b1f87d5bab78144": {
+   "fragment_id": "PARTE 2",
+   "type": "divisao",
+   "heading": "PARTE 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PARTE 2\n\nA. INCLUI ENTREGAS + VENDAS DIRECTAS\n\n| Período | Número total de produtores instados a contribuir para a imposição | Número de produtores que pagou a totalidade da imposição devida à autoridade competente | Número de produtores que ainda não pagou a totalidade da imposição devida à autoridade competente | Número de produtores incluídos em (d) cuja imposição devida é objecto de procedimento administrativo | Número de produtores incluído em (d) cuja imposição devida é objecto de procedimento jurídico | Número de produtores incluído em (d) que iniciou um processo jurídico em que contesta a imposição exigida | Número de produtores incluído em (d) em relação aos quais foi considerado impossível cobrar a imposição | outros (observações) |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| (a) | (b) | (c) | (d) | (e) | (f) | (g) | (h) | (i) |\n| 2003/2004 |  |  |  |  |  |  |  |  |\n| 2004/2005 |  |  |  |  |  |  |  |  |\n| 2005/2006 |  |  |  |  |  |  |  |  |\n| 2006/2007 |  |  |  |  |  |  |  |  |\n| 2007/2008 |  |  |  |  |  |  |  |  |\n| 2008/2009 |  |  |  |  |  |  |  |  |\n| 2009/2010 |  |  |  |  |  |  |  |  |\n| 2010/2011 |  |  |  |  |  |  |  |  |\n| 2011/2012 |  |  |  |  |  |  |  |  |\n| 2012/2013 |  |  |  |  |  |  |  |  |\n| 2013/2014 |  |  |  |  |  |  |  |  |\n| 2014/2015 |  |  |  |  |  |  |  |  |\n| *NB:* As colunas (e) a (i) constituem o subtotal da coluna (d). |  |  |  |  |  |  |  |  |\n\nB. INCLUI ENTREGAS + VENDAS DIRECTAS\n\n| Período | Montante total da imposição devida por período | Montante da imposição paga à autoridade competente | Montante da imposição devida ainda por pagar à autoridade competente | Montante da imposição devida incluído em (d) em relação ao qual está em curso um processo administrativo | Montante da imposição devida incluído em (d) em relação ao qual está em curso um processo jurídico | Montante da imposição devida incluído em (d) que é contestado e em relação ao qual está em curso um processo jurídico | Montante da imposição incluído em (d) considerado impossível de cobrar | outros (observações) |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| (a) | (b) | (c) | (d) | (e) | (f) | (g) | (h) | (i) |\n| 2003/2004 |  |  |  |  |  |  |  |  |\n| 2004/2005 |  |  |  |  |  |  |  |  |\n| 2005/2006 |  |  |  |  |  |  |  |  |\n| 2006/2007 |  |  |  |  |  |  |  |  |\n| 2007/2008 |  |  |  |  |  |  |  |  |\n| 2008/2009 |  |  |  |  |  |  |  |  |\n| 2009/2010 |  |  |  |  |  |  |  |  |\n| 2010/2011 |  |  |  |  |  |  |  |  |\n| 2011/2012 |  |  |  |  |  |  |  |  |\n| 2012/2013 |  |  |  |  |  |  |  |  |\n| 2013/2014 |  |  |  |  |  |  |  |  |\n| 2014/2015 |  |  |  |  |  |  |  |  |\n| *NB:* As colunas (e) a (i) constituem o subtotal da coluna (d). |  |  |  |  |  |  |  |  |"
+  },
+  "b0cd728c982c6788": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nPresente regulamento Regulamento (CE) n.º 1392/2001\n\nArtigo 1.º Artigo 1.º\n\nArtigo 2.º —\n\nArtigo 3.º —\n\nArtigo 4.º —\n\nArtigo 5.º —\n\nArtigo 6.º Artigo 2, n.^os^ 1 e 2.º\n\nArtigo 7.º Artigo 3.º\n\nArtigo 8.º Artigo 5.º\n\nArtigo 9.º Artigo 4.º\n\nArtigo 10.º —\n\nArtigo 11.º Artigo 6.º\n\nArtigo 12.º Artigo 2.º, n.º 3\n\nArtigo 13.º Artigo 7.º\n\nArtigo 14.º —\n\nArtigo 15.º Artigo 8.º\n\nArtigo 16.º Artigo 9.º\n\nArtigo 17.º Artigo 11.º, n.º 1\n\nArtigo 18.º —\n\nArtigo 19.º, n.º 1 Artigo 12.º, n.º 1\n\nn.º 2 —\n\nn.º 3 Artigo 12.º, n.º 2\n\nArtigo 20.º —\n\nArtigo 21.º, n.^os^ 1 e 2 Artigo 11.º, n.º 3\n\nArtigo 22.º Artigo 12.º, n.º 2\n\nArtigo 23.º Artigo 13.º\n\nArtigo 24.º Artigo 14.º\n\nArtigo 25.º Artigo 15.º, n.º 1, alínea c)\n\nArtigo 26.º Artigo 15.º, n.º 1, alínea e), n.^os^ 2 e 3\n\nArtigo 27.º Artigo 15.º, n.º 1, alíneas a), b), d) e f)\n\nArtigo 28.º Artigo 16.º\n\nArtigo 29.º Artigo 17.º\n\nAnexo I: Questionário anual Anexo I\n\nAnexo II: Taxas de juro de referência Anexo II\n\nAnexo III: Tabela de correspondências Anexo III\n\n---"
+  },
+  "ec2ea9d56e156df3": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/cd654956-7e42-48b8-8fe1-03570384324e.0015.02/DOC_2#src.E0001)) JO L 270 de 21.10.2003, p. 123.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/cd654956-7e42-48b8-8fe1-03570384324e.0015.02/DOC_2#src.E0002)) JO L 187 de 10.7.2001, p. 19.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/cd654956-7e42-48b8-8fe1-03570384324e.0015.02/DOC_2#src.E0003)) JO L 299 de 16.11.2007, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/cd654956-7e42-48b8-8fe1-03570384324e.0015.02/DOC_2#src.E0004)) JO L 365 de 21.12.2006, p. 52.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/cd654956-7e42-48b8-8fe1-03570384324e.0015.02/DOC_2#src.E0005)) JO L 39 de 17.2.1996, p. 5.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/cd654956-7e42-48b8-8fe1-03570384324e.0015.02/DOC_2#src.E0006)) JO L 160 de 26.6.1999, p. 80.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/cd654956-7e42-48b8-8fe1-03570384324e.0015.02/DOC_2#src.E0007)) JO L 388 de 30.12.1989, p. 18.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/cd654956-7e42-48b8-8fe1-03570384324e.0015.02/DOC_2#src.E0008)) JO L 204 de 11.8.2000, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/cd654956-7e42-48b8-8fe1-03570384324e.0015.02/DOC_2#src.E0009)) JO L 198 de 21.7.2001, p. 26.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/cd654956-7e42-48b8-8fe1-03570384324e.0015.02/DOC_2#src.E0010)) JO L 244 de 29.9.2000, p. 27."
+  }
+ }
+}

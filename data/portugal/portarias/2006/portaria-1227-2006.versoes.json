@@ -1,0 +1,259 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:544784:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2006-34532175",
+ "dre_path": "/dr/detalhe/portaria/1227-2006-544784",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-11-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "51942875",
+    "51362575",
+    "51362675",
+    "51362775",
+    "51362875",
+    "51362975",
+    "51363075",
+    "51363175",
+    "51363275",
+    "51363375",
+    "51363475",
+    "51363575",
+    "51363675",
+    "51363775",
+    "51363875"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:262282:por",
+     "title": "Declaração de Rectificação n.º 4/2007",
+     "published": "2007-01-02",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/4-2007-262282",
+     "date": "2006-11-16"
+    }
+   ]
+  },
+  {
+   "date": "2020-12-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:151036061:por",
+     "title": "Portaria n.º 286/2020",
+     "published": "2020-12-14",
+     "dre_path": "/dr/detalhe/portaria/286-2020-151036061"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "51942875",
+    "51362575",
+    "151021593",
+    "151021594",
+    "151021595",
+    "51362975",
+    "51363075",
+    "51363175",
+    "51363275",
+    "51363375",
+    "151021596",
+    "151021597",
+    "51363675",
+    "51363775",
+    "51363875",
+    "51363975"
+   ]
+  }
+ ],
+ "fragments": {
+  "51942875": {
+   "fragment_id": "35151975",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2006-11-16",
+   "changed_by": [],
+   "markdown": "Considerando a necessidade de se proceder à regulamentação da Lei do Associativismo Jovem, Lei n.º 23/2006, de 23 de Junho;\n\nConsiderando a importância quanto à clarificação das regras do reconhecimento das associações de jovens e suas equiparadas, sem personalidade jurídica;\n\nConsiderando ainda o universo e características específicas destas associações;\n\nAtendendo a que o reconhecimento destas associações é um instrumento necessário para efeitos de registo e posterior candidatura aos programas de apoio previstos na Lei do Associativismo Jovem;\n\nOuvido o Conselho Consultivo da Juventude:\n\nManda o Governo, pelo Secretário de Estado da Juventude e do Desporto, em cumprimento do disposto no n.º 5 do artigo 9.º e no n.º 4 do artigo 11.º, ambos da Lei n.º 23/2006, de 23 de Junho, ao abrigo do n.º 2 do artigo 2.º do Decreto-Lei n.º 70 /96, de 4 de Janeiro, o seguinte:"
+  },
+  "51362575": {
+   "fragment_id": "36168775",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria regula o reconhecimento das associações juvenis sem personalidade jurídica, das suas equiparadas nos termos do disposto nos n.os 2 e 3 do artigo 3.º da Lei n.º 23/2006, de 23 de Junho, das associações de estudantes e das respectivas federações."
+  },
+  "51362675": {
+   "fragment_id": "36168875",
+   "type": 11,
+   "heading": "Artigo 2.º — Publicação dos estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Publicação dos estatutos\n\nOs estatutos das entidades previstas no artigo anterior são publicados no endereço electrónico http://www.juventude.pt, disponibilizado pelo Instituto Português da Juventude (IPJ) e determina o seu reconhecimento."
+  },
+  "51362775": {
+   "fragment_id": "36168975",
+   "type": 11,
+   "heading": "Artigo 3.º — Processo de publicação para as associações juvenis e equiparadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Processo de publicação para as associações juvenis e equiparadas\n\n1 - Para efeitos do disposto no artigo anterior, as associações juvenis e equiparadas nos termos do disposto nos n.os 2 e 3 do artigo 3.º da Lei n.º 23/2006, de 23 de Junho, devem entregar nos serviços do IPJ, por depósito ou carta registada com aviso de recepção:\n\na) Cópia actualizada dos estatutos, bem como acta de aprovação dos mesmos em assembleia geral;\n\nb) Certificado de admissibilidade de denominação;\n\nc) Declaração emitida pelo presidente da assembleia geral onde ateste que todos os associados têm mais de 18 anos ou são emancipados.\n\n2 - O não cumprimento ou o cumprimento defeituoso do previsto no número anterior implica a não publicação dos estatutos e ou suas alterações, enquanto o mesmo não for suprido.\n\n3 - Sem prejuízo do previsto no n.º 1, o IPJ pode solicitar às entidades mencionadas no artigo 1.º, a qualquer momento, a actualização da informação relacionada com a sua situação estatutária."
+  },
+  "51362875": {
+   "fragment_id": "36169075",
+   "type": 11,
+   "heading": "Artigo 4.º — Processo da publicação para as associações de estudantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Processo da publicação para as associações de estudantes\n\n1 - Para efeitos do disposto no artigo 2.º, o membro do Governo competente para reconhecer as associações de estudantes deve enviar para o IPJ, por via electrónica, depósito ou carta registada com aviso de recepção, cópia dos estatutos actualizados das associações sem personalidade jurídica, ficando igualmente responsável pelo envio de qualquer alteração que venha a verificar-se.\n\n2 - Para além do disposto no número anterior, deve o membro do Governo competente para reconhecer as associações de estudantes enviar, ao IPJ, pelos meios, cópia da acta da assembleia geral em que os estatutos foram aprovados, certificado de admissibilidade de denominação, bem como a lista actualizada dos estabelecimentos de ensino superior.\n\n3 - O não cumprimento ou o cumprimento defeituoso do disposto nos n.os 2 e 3 do presente artigo determina a não publicação dos estatutos e ou suas alterações enquanto o mesmo não for suprido.\n\n4 - Cabe ao membro do Governo competente para reconhecer as associações de estudantes garantir a autenticidade dos documentos enviados."
+  },
+  "51362975": {
+   "fragment_id": "36169175",
+   "type": 11,
+   "heading": "Artigo 5.º — Federações de associações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Federações de associações\n\nAs disposições previstas na presente portaria aplicam-se, com as necessárias adaptações, às federações constituídas por associações juvenis e associações de estudantes sem personalidade jurídica."
+  },
+  "51363075": {
+   "fragment_id": "36169275",
+   "type": 11,
+   "heading": "Artigo 6.º — Efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Efeitos\n\nApenas as entidades reconhecidas poderão beneficiar de registo no Registo Nacional do Associativismo Jovem (RNAJ)."
+  },
+  "51363175": {
+   "fragment_id": "36169375",
+   "type": 11,
+   "heading": "Artigo 7.º — Utilizador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Utilizador\n\n1 - Com o pedido de reconhecimento das entidades mencionadas no artigo 1.º é identificado o utilizador que representa a respectiva associação.\n\n2 - Para efeitos do disposto no número anterior, considera-se utilizador o presidente do órgão executivo.\n\n3 - A identificação do utilizador é feita através do preenchimento dos elementos mencionados em ficha disponibilizada no endereço electrónico do IPJ.\n\n4 - Após recepção da ficha referida no número anterior, o IPJ remete, por via electrónica, o nome do utilizador e a palavra passe, que habilitam o seu titular a actuar em nome da associação, para efeitos de inscrição no RNAJ, nos termos do disposto em regulamentação própria."
+  },
+  "51363275": {
+   "fragment_id": "36169475",
+   "type": 11,
+   "heading": "Artigo 8.º — Ficha de reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Ficha de reconhecimento\n\n1 - Com o pedido de reconhecimento é igualmente preenchida uma ficha por cada entidade, que passará, em posteriores procedimentos, a identificá-la.\n\n2 - Quando a informação prestada nos termos e para os efeitos do número anterior careça ser confirmada, devem aquelas enviar para os serviços do IPJ cópia dos documentos originais que comprovem a informação prestada, por depósito, fax ou carta registada com aviso de recepção.\n\n3 - O IPJ, após análise dos documentos e confirmação dos elementos prestados, comunica por via electrónica a confirmação do reconhecimento.\n\n4 - A ausência de confirmação determina a não publicação dos estatutos e ou suas alterações das associações de jovens sem personalidade jurídica."
+  },
+  "51363375": {
+   "fragment_id": "36169575",
+   "type": 11,
+   "heading": "Artigo 9.º — Valor documental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Valor documental\n\n1 - Só podem ser tratados os factos constantes de documentos que legalmente os comprovem.\n\n2 - Os documentos em língua estrangeira só podem ser aceites quando traduzidos em língua portuguesa.\n\n3 - Ao valor probatório dos documentos electrónicos aplica-se, com as necessárias adaptações, o disposto no Decreto-Lei n.º 290-D/99, de 2 de Agosto."
+  },
+  "51363475": {
+   "fragment_id": "36169675",
+   "type": 11,
+   "heading": "Artigo 10.º — Circulação electrónica de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Circulação electrónica de documentos\n\nAs entidades mencionadas nesta portaria privilegiam a divulgação e troca de documentos através de meios electrónicos."
+  },
+  "51363575": {
+   "fragment_id": "36169775",
+   "type": 11,
+   "heading": "Artigo 11.º — Base de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Base de dados\n\n1 - O uso das informações e documentos a que alude esta portaria destina-se à constituição de uma base de dados nos termos da Lei n.º 67/98, de 26 de Outubro, de forma a reconhecer as entidades referidas no artigo 1.º para efeitos de registo.\n\n2 - Ficam excluídos da base de dados mencionada no número anterior os dados referentes a convicções filosóficas ou políticas, filiação partidária ou sindical, fé religiosa ou vida privada.\n\n3 - Ficam igualmente excluídos os dados referentes à origem racial ou étnica, à vida sexual, incluindo dados genéticos, condenação em processo criminal, suspeitas de actividades ilícitas, estado de saúde e situação patrimonial e financeira.\n\n4 - Excepcionam-se do disposto do n.º 2 as organizações de juventude partidárias ou sindicais, equiparadas a associações juvenis, as quais necessitam de autorizar expressamente o tratamento de dados referentes às organizações e associados, necessários ao registo para efeito de candidatura ao apoio logístico previsto no n.º 3 do artigo 14.º da Lei n.º 23/2006, de 23 de Junho."
+  },
+  "51363675": {
+   "fragment_id": "36169875",
+   "type": 11,
+   "heading": "Artigo 12.º — Impugnação das decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Impugnação das decisões\n\nÀ reclamação ou recurso das decisões em matéria de reconhecimento aplica-se, com as necessárias adaptações, o disposto no Código do Procedimento Administrativo."
+  },
+  "51363775": {
+   "fragment_id": "36169975",
+   "type": 11,
+   "heading": "Artigo 13.º — Aplicação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Aplicação subsidiária\n\nA Lei n.º 23/2006, de 23 de Junho, aplica-se subsidiariamente à presente portaria."
+  },
+  "51363875": {
+   "fragment_id": "36170075",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia imediato ao da sua publicação."
+  },
+  "151021593": {
+   "fragment_id": "36168875",
+   "type": 11,
+   "heading": "Artigo 2.º — Publicitação dos estatutos",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 4/2007 - Diário da República n.º 1/2007, Série I de 2007-01-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-2007-262282), em vigor a partir de 2006-11-16"
+   ],
+   "markdown": "###### Artigo 2.º — Publicitação dos estatutos\n\nOs estatutos das entidades previstas no artigo anterior são publicitados no portal do Instituto Português do Desporto e Juventude, I. P., abreviadamente designado por IPDJ, I. P., o que confere eficácia ao seu reconhecimento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 4/2007 - Diário da República n.º 1/2007, Série I de 2007-01-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-2007-262282), em vigor a partir de 2006-11-16"
+  },
+  "151021594": {
+   "fragment_id": "36168975",
+   "type": 11,
+   "heading": "Artigo 3.º — Processo de reconhecimento das associações juvenis e equiparadas",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 3.º — Processo de reconhecimento das associações juvenis e equiparadas\n\n1 - Para efeitos do disposto no artigo anterior, as associações juvenis e equiparadas nos termos do disposto nos n.os 2 e 3 do artigo 3.º da Lei n.º 23/2006, de 23 de junho, devem entregar nos serviços do IPDJ, I. P., por depósito, carta registada com aviso de receção ou por via eletrónica:\n\na) Cópia actualizada dos estatutos, bem como acta de aprovação dos mesmos em assembleia geral;\n\nb) Certificado de admissibilidade de denominação;\n\nc) Declaração emitida pelo presidente da assembleia geral, onde ateste que todos os associados preenchem os requisitos legais referentes à idade mínima legalmente prevista para poderem aderir ou constituir associações.\n\n2 - O não cumprimento ou o cumprimento defeituoso do previsto no número anterior implica a não publicação dos estatutos e ou suas alterações, enquanto o mesmo não for suprido.\n\n3 - Sem prejuízo do previsto no n.º 1, o IPJ pode solicitar às entidades mencionadas no artigo 1.º, a qualquer momento, a actualização da informação relacionada com a sua situação estatutária.\n\n4 - Para efeitos de reconhecimento, as associações juvenis sediadas fora do território nacional devem entregar declaração comprovativa que ateste que os seus associados são maioritariamente cidadãos de nacionalidade portuguesa ou lusodescendentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+  },
+  "151021595": {
+   "fragment_id": "36169075",
+   "type": 11,
+   "heading": "Artigo 4.º — Processo de publicitação das associações de estudantes",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 4.º — Processo de publicitação das associações de estudantes\n\n1 - Para efeitos do disposto no artigo 2.º, o membro do Governo competente para reconhecer as associações de estudantes deve enviar para o IPDJ, I. P., por meios eletrónicos, por depósito ou carta registada com aviso de receção, cópias dos estatutos atualizados, da ata da assembleia geral em que os estatutos foram aprovados e do certificado de admissibilidade de denominação das associações de estudantes sem personalidade jurídica.\n\n2 - O não cumprimento ou o cumprimento defeituoso do disposto no número anterior determina a não publicitação dos estatutos e ou suas alterações, enquanto o mesmo não for suprido.\n\n3 - Cabe ao membro do Governo competente para reconhecer as associações de estudantes garantir a autenticidade dos documentos enviados, ficando igualmente responsável pelo envio ao IPDJ, I. P., de qualquer alteração aos mesmos que venha a verificar-se.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+  },
+  "151021596": {
+   "fragment_id": "36169675",
+   "type": 11,
+   "heading": "Artigo 10.º — Circulação electrónica de documentos",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 10.º — Circulação electrónica de documentos\n\nAs entidades mencionadas na presente portaria, privilegiam a divulgação de informação, envio de documentos e as notificações efetuadas através de meios eletrónicos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+  },
+  "151021597": {
+   "fragment_id": "36169775",
+   "type": 11,
+   "heading": "Artigo 11.º — Base de dados",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 11.º — Base de dados\n\n1 - As informações e documentos fornecidos ao IPDJ, I. P., pelas entidades requerentes e outras mencionadas na presente portaria e para os efeitos nela previstos, relativos às associações, seus associados e dirigentes associativos, destinam-se à constituição de uma base de dados, em que os dados pessoais de pessoas singulares suscetíveis a operações de tratamento são objeto de proteção nos termos do Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, da Lei n.º 58/2019, de 8 de agosto, e das demais disposições legais e regulamentares em matéria de proteção de dados pessoais, cabendo ao IPDJ, I. P., enquanto entidade pública responsável pelo tratamento dos dados, assegurar todas as obrigações que, nesse âmbito, lhe couber nos termos da lei.\n\n2 - Ficam excluídos da base de dados mencionada no número anterior os dados referentes a convicções filosóficas ou políticas, filiação partidária ou sindical, fé religiosa ou vida privada.\n\n3 - Ficam igualmente excluídos os dados referentes à origem racial ou étnica, à vida sexual, incluindo dados genéticos, condenação em processo criminal, suspeitas de actividades ilícitas, estado de saúde e situação patrimonial e financeira.\n\n4 - Excepcionam-se do disposto do n.º 2 as organizações de juventude partidárias ou sindicais, equiparadas a associações juvenis, as quais necessitam de autorizar expressamente o tratamento de dados referentes às organizações e associados, necessários ao registo para efeito de candidatura ao apoio logístico previsto no n.º 3 do artigo 14.º da Lei n.º 23/2006, de 23 de Junho.\n\n5 - Os dados pessoais de pessoas singulares suscetíveis a operações de tratamento nos termos dos números anteriores são objeto de proteção nos termos do Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, da Lei n.º 58/2019, de 8 de agosto, e das demais disposições legais e regulamentares em matéria de proteção de dados pessoais, cabendo ao IPDJ, I. P., enquanto entidade pública responsável pelo tratamento dos dados, assegurar todas as obrigações que, nesse âmbito, lhe couber nos termos da lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+  },
+  "51363975": {
+   "fragment_id": "36170175",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Juventude e do Desporto, Laurentino José Monteiro Castro Dias, em 30 de Outubro de 2006."
+  }
+ }
+}

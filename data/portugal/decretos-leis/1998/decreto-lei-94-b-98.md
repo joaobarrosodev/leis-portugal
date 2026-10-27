@@ -1,0 +1,6144 @@
+---
+schema_version: '1.0'
+id: pt:dre:474478:por
+title: Decreto-Lei n.º 94-B/98
+short_title: null
+summary: Regula as condições de acesso e de exercício da actividade seguradora e resseguradora no território da Comunidade
+  Europeia, incluindo a exercida no âmbito institucional das zonas francas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 94-B/98
+official_date: null
+publication_date: '1998-04-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 90/1998, 2º Suplemento, Série I-A de 1998-04-17
+  number: '90'
+  series: I
+  supplement: 2º Suplemento
+  pages: 1706-(8) a 1706-(59)
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/04/090a02/00080059.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: partially_in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2016-01-01'
+version_history:
+  file: decreto-lei-94-b-98.versoes.json
+  count: 17
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1998-04-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-01-21'
+    amending: pt:dre:570505:por
+    amending_title: Decreto-Lei n.º 8-A/2002
+    changes:
+    - Adita Artigo 10.º-A
+    - Adita Artigo 75.º-A
+    - Adita Artigo 79.º-A
+    - Adita Artigo 105.º-A
+    - Adita Artigo 108.º-A
+    - Adita Secção VII
+    - Adita Artigo 122.º-A
+    - Adita Artigo 122.º-B
+    - Adita Artigo 122.º-C
+    - Adita Artigo 131.º-A
+    - Adita Artigo 131.º-B
+    - Adita Artigo 157.º-A
+    - Adita Artigo 157.º-B
+    - Adita Secção I-A
+    - Adita Artigo 157.º-C
+    - Adita Artigo 157.º-D
+    - Adita Secção V
+    - Adita Artigo 172.º-A
+    - Adita Artigo 172.º-B
+    - Adita Artigo 172.º-C
+    - Adita Artigo 172.º-D
+    - Adita Artigo 172.º-E
+    - Adita Artigo 172.º-F
+    - Adita Artigo 172.º-G
+    - Adita Capítulo VII
+    - Adita Artigo 175.º-A
+    - Adita Artigo 175.º-B
+    - Adita Artigo 201.º-A
+    - Adita Artigo 201.º-B
+    - Adita Artigo 201.º-C
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 24.º
+  - date: '2002-07-26'
+    amending: pt:dre:197355:por
+    amending_title: Decreto-Lei n.º 169/2002
+    changes:
+    - Altera Artigo 159.º
+  - date: '2003-04-19'
+    amending: pt:dre:315884:por
+    amending_title: Decreto-Lei n.º 72-A/2003
+    changes:
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 35.º
+    - Altera Artigo 66.º
+  - date: '2003-05-05'
+    amending: pt:dre:571437:por
+    amending_title: Decreto-Lei n.º 90/2003
+    changes:
+    - Adita Artigo 120.º-A
+    - Adita Subsecção I
+    - Adita Artigo 120.º-B
+    - Adita Artigo 120.º-C
+    - Adita Artigo 120.º-D
+    - Adita Artigo 120.º-E
+    - Adita Artigo 120.º-F
+    - Adita Artigo 120.º-G
+    - Adita Artigo 120.º-H
+    - Adita Artigo 120.º-I
+    - Adita Artigo 120.º-J
+    - Adita Subsecção II
+    - Adita Artigo 120.º-L
+    - Altera Artigo 20.º
+    - Altera Artigo 39.º
+    - Altera Artigo 113.º
+  - date: '2003-10-24'
+    amending: pt:dre:477290:por
+    amending_title: Decreto-Lei n.º 251/2003
+    changes:
+    - Adita Artigo 193.º-A
+    - Altera Diploma
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 14.º
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+    - Altera Secção VI
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 51.º
+    - Altera Artigo 60.º
+    - Altera Artigo 69.º
+    - Altera Artigo 82.º
+    - Altera Artigo 88.º
+    - Altera Artigo 92.º
+    - Altera Artigo 93.º
+    - Altera Artigo 94.º
+    - Altera Artigo 95.º
+    - Altera Artigo 96.º
+    - Altera Artigo 98.º
+    - Altera Artigo 99.º
+    - Altera Artigo 100.º
+    - Altera Artigo 102.º
+    - Altera Artigo 103.º
+    - Altera Artigo 104.º
+    - Altera Artigo 105.º-A
+    - Altera Artigo 107.º
+    - Altera Artigo 108.º
+    - Altera Artigo 108.º-A
+    - Altera Artigo 110.º
+    - Altera Artigo 114.º
+    - Altera Artigo 116.º
+    - Altera Artigo 120.º-D
+  - date: '2006-06-30'
+    amending: pt:dre:620286:por
+    amending_title: Decreto-Lei n.º 76-A/2006
+    changes:
+    - Altera Artigo 22.º
+  - date: '2006-08-15'
+    amending: pt:dre:539387:por
+    amending_title: Decreto-Lei n.º 145/2006
+    changes:
+    - Adita Artigo 172.º-H
+    - Adita Artigo 172.º-I
+    - Altera Artigo 15.º
+    - Altera Artigo 44.º
+    - Altera Artigo 51.º
+    - Altera Artigo 96.º
+    - Altera Artigo 98.º
+    - Altera Artigo 135.º
+    - Altera Artigo 157.º-B
+    - Altera Artigo 157.º-C
+    - Altera Artigo 157.º-D
+    - Altera Artigo 172.º-A
+    - Altera Artigo 172.º-E
+    - Altera Artigo 236.º
+  - date: '2007-10-20'
+    amending: pt:dre:640637:por
+    amending_title: Decreto-Lei n.º 291/2007
+    changes:
+    - Altera Artigo 66.º
+  - date: '2007-11-01'
+    amending: pt:dre:241222:por
+    amending_title: Decreto-Lei n.º 357-A/2007
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 20.º
+    - Altera Artigo 131.º-A
+    - Altera Artigo 131.º-B
+    - Altera Artigo 156.º
+    - Altera Artigo 243.º
+  - date: '2008-11-08'
+    amending: pt:dre:626446:por
+    amending_title: Decreto-Lei n.º 211-A/2008
+    changes:
+    - Altera Artigo 157.º
+    - Altera Artigo 206.º
+  - date: '2009-01-06'
+    amending: pt:dre:604670:por
+    amending_title: Declaração de Rectificação n.º 17/2009; Decreto-Lei n.º 2/2009
+    changes:
+    - Retifica Artigo 172.º-A
+    - Revoga Secção I
+    - Revoga Capítulo I
+    - Revoga Secção II
+    - Revoga Secção III
+    - Revoga Capítulo III
+    - Adita Artigo 38.º-A
+    - Adita Artigo 51.º-A
+    - Adita Secção XI
+    - Adita Artigo 58.º-A
+    - Adita Artigo 58.º-B
+    - Adita Artigo 58.º-C
+    - Adita Artigo 58.º-D
+    - Adita Artigo 58.º-E
+    - Adita Secção III
+    - Adita Artigo 67.º-A
+    - Adita Capítulo II
+    - Adita Artigo 122.º-F
+    - Adita Artigo 122.º-G
+    - Adita Artigo 122.º-H
+    - Adita Artigo 122.º-I
+    - Adita Artigo 122.º-J
+    - Adita Artigo 122.º-L
+    - Adita Artigo 122.º-M
+    - Adita Artigo 122.º-N
+    - Adita Artigo 122.º-O
+    - Adita Secção I
+    - Adita Secção II
+    - Adita Artigo 131.º-C
+    - Adita Artigo 151.º-A
+    - Adita Artigo 155.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Título II
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+  - date: '2009-06-20'
+    amending: pt:dre:494791:por
+    amending_title: Lei n.º 28/2009
+    changes:
+    - Adita Artigo 214.º-A
+    - Adita Artigo 229.º-A
+    - Adita Artigo 229.º-B
+    - Altera Artigo 202.º
+    - Altera Artigo 212.º
+    - Altera Artigo 213.º
+    - Altera Artigo 214.º
+    - Altera Artigo 217.º
+  - date: '2010-05-27'
+    amending: pt:dre:332702:por
+    amending_title: Decreto-Lei n.º 52/2010
+    changes:
+    - Adita Artigo 3.º-A
+    - Adita Artigo 3.º-B
+    - Adita Artigo 44.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 43.º
+    - Altera Artigo 44.º
+    - Altera Artigo 48.º
+    - Altera Artigo 49.º
+    - Altera Artigo 50.º
+    - Altera Artigo 159.º
+  - date: '2011-06-29'
+    amending: pt:dre:670368:por
+    amending_title: Lei n.º 46/2011
+    changes:
+    - Altera Artigo 231.º
+  - date: '2014-06-25'
+    amending: pt:dre:25676934:por
+    amending_title: Decreto-Lei n.º 91/2014
+    changes:
+    - Altera Artigo 156.º
+    - Altera Artigo 172.º-A
+    - Altera Artigo 172.º-B
+    - Altera Artigo 172.º-G
+    - Altera Artigo 172.º-I
+  - date: '2016-01-01'
+    amending: pt:dre:70237675:por
+    amending_title: Lei n.º 147/2015
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/94-b/1998/p/cons/20150909/pt/html
+  oj: null
+  dre: '474478'
+  dre_path: /dr/detalhe/decreto-lei/94-b-1998-474478
+  internal: pt:dre:474478:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-b-1998-474478
+  metadata_url: https://data.dre.pt/eli/dec-lei/94-b/1998/p/cons/20150909/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-34507775
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-34507775
+  retrieved_at: '2026-10-22T11:47:15Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 396db906778d2fd2322e11f6bf325befc500492bc2ef9c74deb17a94ce99d98a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:47:15Z'
+  notes: 17 versão(ões); histórico completo em decreto-lei-94-b-98.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atividade Seguradora
+- Alienação de Participação Social
+- Contrato de Seguro
+- Aproximação das Legislações
+- Crime
+- Garantia
+- Sociedade Anónima
+- Capital Social
+- CE Países
+- Co-seguro
+- Multa
+- Companhia Portuguesa de Resseguros
+- Comunidade Europeia
+- Contra-ordenação
+- Concorrência
+- Empresa Europeia
+- Fundo de Pensões
+- Fundos Autónomos
+- Seguro
+- Ilícito de MERA Ordenação Social
+- Instituto de Seguros de Portugal
+- Direito de Estabelecimento
+- Livre Prestação de Serviços
+- Mediação de Seguros
+- Mútua de Seguros
+- Zona Tributária Privilegiada
+- Participação Qualificada
+- Sanção Penal
+- Prémio de Seguro
+- Processo de Ilícito de MERA Ordenação Social
+- Recuperação de Empresas
+- Provisão Técnica
+- Direito Penal
+- RAMO não VIDA
+- RAMO VIDA
+- Regime Fiscal
+- Regime Jurídico
+- Responsabilidade Civil
+- Responsabilidade Conjunta
+- Responsabilidade Financeira
+- Responsabilidade pelo Risco
+- Resseguro
+- Sanção
+- Segredo Profissional
+- Companhia de Seguros
+- Seguro de VIDA
+- Sucursal
+- Empresa Estrangeira
+- Profissional de Seguros
+relationships:
+- type: amended_by
+  target: pt:dre:291197:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-d-1998-291197
+  date: '1998-06-30'
+- type: amended_by
+  target: pt:dre:570505:por
+  label: Adita Artigo 10.º-A; Adita Artigo 75.º-A; Adita Artigo 79.º-A; Adita Artigo 105.º-A; Adita Artigo 108.º-A; Adita
+    Secção VII; Adita Artigo 122.º-A; Adita Artigo 122.º-B; Adita Artigo 122.º-C; Adita Artigo 131.º-A; Adita Artigo 131.º-B;
+    Adita Artigo 157.º-A; Adita Artigo 157.º-B; Adita Secção I-A; Adita Artigo 157.º-C; Adita Artigo 157.º-D; Adita Secção
+    V; Adita Artigo 172.º-A; Adita Artigo 172.º-B; Adita Artigo 172.º-C
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505
+  date: '2002-01-11'
+- type: amended_by
+  target: pt:dre:197355:por
+  label: Altera Artigo 159.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2002-197355
+  date: '2002-07-25'
+- type: amended_by
+  target: pt:dre:315884:por
+  label: Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 35.º; Altera Artigo 66.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-2003-315884
+  date: '2003-04-14'
+- type: amended_by
+  target: pt:dre:571437:por
+  label: Adita Artigo 120.º-A; Adita Subsecção I; Adita Artigo 120.º-B; Adita Artigo 120.º-C; Adita Artigo 120.º-D; Adita
+    Artigo 120.º-E; Adita Artigo 120.º-F; Adita Artigo 120.º-G; Adita Artigo 120.º-H; Adita Artigo 120.º-I; Adita Artigo 120.º-J;
+    Adita Subsecção II; Adita Artigo 120.º-L; Altera Artigo 20.º; Altera Artigo 39.º; Altera Artigo 113.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2003-571437
+  date: '2003-04-30'
+- type: amended_by
+  target: pt:dre:477290:por
+  label: Adita Artigo 193.º-A; Altera Diploma; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 7.º;
+    Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 14.º; Altera Artigo 19.º; Altera Artigo 21.º; Altera Artigo 24.º;
+    Altera Artigo 26.º; Altera Secção VI; Altera Artigo 34.º; Altera Artigo 35.º; Altera Artigo 51.º; Altera Artigo 60.º;
+    Altera Artigo 69.º; Altera Artigo 82.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290
+  date: '2003-10-14'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: Altera Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:539387:por
+  label: Adita Artigo 172.º-H; Adita Artigo 172.º-I; Altera Artigo 15.º; Altera Artigo 44.º; Altera Artigo 51.º; Altera Artigo
+    96.º; Altera Artigo 98.º; Altera Artigo 135.º; Altera Artigo 157.º-B; Altera Artigo 157.º-C; Altera Artigo 157.º-D; Altera
+    Artigo 172.º-A; Altera Artigo 172.º-E; Altera Artigo 236.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2006-539387
+  date: '2006-07-31'
+- type: amended_by
+  target: pt:dre:640637:por
+  label: Altera Artigo 66.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-2007-640637
+  date: '2007-08-21'
+- type: amended_by
+  target: pt:dre:241222:por
+  label: Altera Artigo 6.º; Altera Artigo 20.º; Altera Artigo 131.º-A; Altera Artigo 131.º-B; Altera Artigo 156.º; Altera
+    Artigo 243.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-2007-241222
+  date: '2007-10-31'
+- type: amended_by
+  target: pt:dre:249804:por
+  label: Altera Artigo 157.º; Altera Artigo 206.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804
+  date: '2008-04-16'
+- type: amended_by
+  target: pt:dre:626446:por
+  label: Altera Artigo 157.º; Altera Artigo 206.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-2008-626446
+  date: '2008-11-03'
+- type: amended_by
+  target: pt:dre:396962:por
+  label: Retifica Artigo 172.º-A; Revoga Secção I; Revoga Capítulo I; Revoga Secção II; Revoga Secção III; Revoga Capítulo
+    III; Adita Artigo 38.º-A; Adita Artigo 51.º-A; Adita Secção XI; Adita Artigo 58.º-A; Adita Artigo 58.º-B; Adita Artigo
+    58.º-C; Adita Artigo 58.º-D; Adita Artigo 58.º-E; Adita Secção III; Adita Artigo 67.º-A; Adita Capítulo II; Adita Artigo
+    122.º-F; Adita Artigo 122.º-G; Adita Artigo 122.º-H
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962
+  date: '2009-01-05'
+- type: amended_by
+  target: pt:dre:604670:por
+  label: Retifica Artigo 172.º-A; Revoga Secção I; Revoga Capítulo I; Revoga Secção II; Revoga Secção III; Revoga Capítulo
+    III; Adita Artigo 38.º-A; Adita Artigo 51.º-A; Adita Secção XI; Adita Artigo 58.º-A; Adita Artigo 58.º-B; Adita Artigo
+    58.º-C; Adita Artigo 58.º-D; Adita Artigo 58.º-E; Adita Secção III; Adita Artigo 67.º-A; Adita Capítulo II; Adita Artigo
+    122.º-F; Adita Artigo 122.º-G; Adita Artigo 122.º-H
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670
+  date: '2009-03-03'
+- type: amended_by
+  target: pt:dre:494791:por
+  label: Adita Artigo 214.º-A; Adita Artigo 229.º-A; Adita Artigo 229.º-B; Altera Artigo 202.º; Altera Artigo 212.º; Altera
+    Artigo 213.º; Altera Artigo 214.º; Altera Artigo 217.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/28-2009-494791
+  date: '2009-06-19'
+- type: amended_by
+  target: pt:dre:332702:por
+  label: Adita Artigo 3.º-A; Adita Artigo 3.º-B; Adita Artigo 44.º-A; Altera Artigo 3.º; Altera Artigo 13.º; Altera Artigo
+    14.º; Altera Artigo 43.º; Altera Artigo 44.º; Altera Artigo 48.º; Altera Artigo 49.º; Altera Artigo 50.º; Altera Artigo
+    159.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702
+  date: '2010-05-26'
+- type: amended_by
+  target: pt:dre:670368:por
+  label: Altera Artigo 231.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/46-2011-670368
+  date: '2011-06-24'
+- type: amended_by
+  target: pt:dre:25676934:por
+  label: Altera Artigo 156.º; Altera Artigo 172.º-A; Altera Artigo 172.º-B; Altera Artigo 172.º-G; Altera Artigo 172.º-I
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2014-25676934
+  date: '2014-06-20'
+- type: amended_by
+  target: pt:dre:70237675:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675
+  date: '2015-09-09'
+- type: cites
+  target: celex:31985L0611
+  label: null
+  source: null
+- type: cites
+  target: celex:31992L0049
+  label: null
+  source: http://data.europa.eu/eli/dir/1992/49/oj
+- type: cites
+  target: celex:31992L0096
+  label: null
+  source: http://data.europa.eu/eli/dir/1992/96/oj
+- type: cites
+  target: celex:31995L0026
+  label: null
+  source: http://data.europa.eu/eli/dir/1995/26/oj
+- type: cites
+  target: celex:32002L0083
+  label: null
+  source: null
+- type: cites
+  target: celex:32004L0039
+  label: null
+  source: null
+- type: cites
+  target: celex:32005L0060
+  label: null
+  source: null
+- type: cites
+  target: celex:32005L0068
+  label: null
+  source: null
+- type: cites
+  target: celex:32006L0048
+  label: null
+  source: null
+- type: cites
+  target: celex:32013L0036
+  label: null
+  source: null
+- type: transposes
+  target: celex:32002L0087
+  label: null
+  source: null
+article_structure:
+  article_count: 318
+  section_count: 70
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:47:15Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 94-B/98
+
+1 - O Decreto-Lei n.º 102/94, de 20 de Abril, procedeu à reformulação dos aspectos essenciais da legislação portuguesa em matéria de acesso e exercício da actividade seguradora e resseguradora, tendo em vista dois objectivos essenciais: a «codificação» da legislação dispersa relativa ao acesso e exercício da actividade seguradora e resseguradora e a transposição para o ordenamento jurídico português das directivas de terceira geração, relativas à criação do «mercado único» no sector segurador - Directiva n.º <a href="eurlex.asp?ano=1992&id=392L0049" title="Link para Directiva da União Europeia">92/49/CEE</a>, de 18 de Junho, para os seguros «Não Vida», e Directiva n.º <a href="eurlex.asp?ano=1992&id=392L0096" title="Link para Directiva da União Europeia">92/96/CEE</a>, de 10 de Novembro, para o seguro «Vida».
+
+Tais objectivos foram plenamente atingidos: a actividade de seguro directo no mercado interno passou a ficar sujeita ao regime da «autorização única» válida para todo o território da União Europeia; a competência para a concessão daquela autorização passou a caber ao Estado membro de origem, ficando a empresa de seguros habilitada a exercer a sua actividade no território dos outros Estados membros, ao abrigo do direito de estabelecimento e da livre prestação de serviços; a supervisão e o controlo prudenciais passaram a ser exercidos pelas autoridades do Estado membro de origem, de acordo com as disposições legais vigentes no seu território; as autoridades competentes do Estado membro de acolhimento continuaram a dispor de poderes para garantir a observância, no seu território, das respectivas disposições de interesse geral, nomeadamente as que dizem respeito à comercialização dos produtos e às condições contratuais, e foi eliminada a autorização prévia ou a comunicação sistemática das apólices e tarifas, exigindo-se apenas esta última para os seguros obrigatórios.
+
+Todavia, o Decreto-Lei n.º 102/94, de 20 de Abril, não abrangeu no seu escopo de regulação o regime sancionatório da actividade seguradora, actualmente regulado pelo Decreto-Lei n.º 91/82, de 22 de Março (alterado pelo Decreto-Lei n.º 133/86, de 12 de Junho), e pelo Decreto-Lei n.º 107/88, de 31 de Março, em termos de o adequar às novas concepções de política criminal resultantes da aprovação e entrada em vigor do Decreto-Lei n.º 433/82, de 27 de Outubro, que aprova o regime geral do ilícito de mera ordenação social, e às exigências resultantes das novas formas de acesso e exercício da actividade, decorrentes da transposição para o ordenamento jurídico nacional das directivas comunitárias que vieram instituir o mercado único no sector segurador.
+
+Por outro lado, o Decreto-Lei n.º 102/94, de 20 de Abril, também não tocou na matéria sensível do endividamento das empresas de seguros e de resseguros, que constitui uma das principais lacunas no ordenamento jurídico aplicável à actividade seguradora, devido ao desajustamento das regras legais que o disciplinam e que remontam a 1907 e a 1971.
+
+Finalmente, o contexto em que actualmente se desenvolve o exercício da actividade seguradora e resseguradora e actividades conexas ou complementares, nomeadamente a gestão de fundos de pensões e a mediação de seguros, fortemente marcado pela liberalização e internacionalização, o que incentiva a criatividade da oferta e a sofisticação dos produtos e serviços prestados, bem como a ocorrência de determinados acontecimentos no mercado europeu, exige a adopção de medidas complementares, destinadas a precisar o âmbito da supervisão prudencial e a reforçar os poderes concretos das autoridades competentes, nomeadamente no que concerne à troca de informações relativas às empresas supervisionadas. Essas medidas foram consagradas na Directiva n.º <a href="eurlex.asp?ano=1995&id=395L0026" title="Link para Directiva da União Europeia">95/26/CE</a>, do Parlamento Europeu e do Conselho, de 29 de Junho de 1995, cuja transposição para o direito português se pretende concretizar através do presente diploma.
+
+2 - Assim, o Governo, através do presente diploma e no uso da autorização legislativa concedida pela Lei n.º 93/97, de 16 de Agosto, visa, por um lado, rever o Decreto-Lei n.º 102/94, de 20 de Abril, em matéria de acesso e exercício da actividade seguradora e resseguradora e, por outro, integrar no respectivo âmbito o novo regime sancionatório da actividade seguradora e da actividade de gestão de fundos de pensões. Esta dupla tarefa conduziu à opção de substituir na íntegra o Decreto-Lei n.º 102/94, de 20 de Abril, pelo presente diploma, por razões que se prendem com a necessidade de evitar a dispersão legislativa e de facilitar a tarefa dos destinatários da legislação sobre seguros.
+
+3 - No que respeita ao regime sancionatório da actividade seguradora, trata-se de matéria que carecia de profunda e urgente revisão.
+
+Regulado por legislação de 1982 - Decreto-Lei n.º 91/82, de 22 de Março, que veio rever a legislação sancionatória da actividade seguradora aprovada em 21 de Outubro de 1907 - o actual regime sancionatório da actividade seguradora foi aprovado num contexto marcado pelas nacionalizações das empresas de seguros e pela proibição de acesso da iniciativa privada à actividade seguradora, é anterior à adesão de Portugal às Comunidades Europeias, é anterior às iniciativas comunitárias tendentes a criar um mercado único no sector segurador, é anterior às novas concepções de política criminal resultantes da aprovação e entrada em vigor do Decreto-Lei n.º 433/82, de 27 de Outubro, que aprova o regime geral do ilícito de mera ordenação social, e é anterior à liberalização dos movimentos de capitais no espaço europeu e mundial. A necessidade desta revisão torna-se ainda mais evidente quando, num contexto de grande complexidade que é aquele em que hoje se desenvolve a actividade seguradora, as infracções puníveis com multa, nos termos do Decreto-Lei n.º 91/82, de 22 de Março, eram apenas as seguintes:
+
+I) Violação ou inobservância de quaisquer disposições legais e regulamentares respeitantes ao acesso, exploração e exercício da actividade seguradora e resseguradora;
+
+II) Não envio dentro dos prazos fixados ou recusa de envio de elementos ou documentos a entidades oficiais ou públicas;
+
+III) Fornecimento de elementos ou documentos falsos ou incompletos a entidades oficiais ou públicas.
+
+Por outro lado, as multas variavam entre um mínimo de 25 contos e um máximo de 10000 contos, o que, bem se pode dizer, equivalia à ausência de regime sancionatório para a actividade seguradora, sobretudo tendo em conta que o capital social mínimo exigido para o acesso e exercício da actividade seguradora varia entre os 500000 contos e os 3000000 de contos.
+
+No que respeita ao regime sancionatório da actividade de gestão de fundos de pensões, trata-se de matéria que carece, pura e simplesmente, de previsão legal, uma vez que não existe um quadro sancionatório específico para o exercício daquela actividade, salvo o que decorre do citado Decreto-Lei n.º 91/82, de 22 de Março, por força da remissão operada pelo artigo 35.º do Decreto-Lei n.º 415/91, de 25 de Outubro.
+
+Neste contexto, foi necessário proceder a uma profunda reformulação do regime sancionatório da actividade seguradora e da actividade de gestão de fundos de pensões, a qual assentou nos seguintes princípios essenciais, que presidem às soluções consagradas no presente diploma:
+
+I) Criminalização do exercício não autorizado de actos ou operações de seguros, resseguros ou de gestão de fundos de pensões, a exemplo do que sucede noutros países comunitários, uma vez que estão em causa nestas actividades interesses fundamentais de protecção da poupança das famílias, de garantia de riscos e de protecção dos interesses dos segurados e de terceiros. Através da criminalização do exercício não autorizado destas actividades pretende-se, sobretudo, atingir objectivos de natureza preventiva, indispensáveis numa actividade como a seguradora e de gestão dos fundos de pensões, marcada pela chamada «inversão do ciclo de produção». Por isso se prevê, pela primeira vez em Portugal, a punição da tentativa no caso de ilícitos especialmente graves;
+
+II) Adaptação dos tipos das infracções às inovações legislativas introduzidas neste sector da actividade financeira e às inovações que resultam da liberalização e internacionalização e da criatividade da oferta e sofisticação dos produtos e serviços prestados;
+
+III) Ajustamento do quadro legal, tanto nos seus aspectos substantivos, como nos processuais, ao regime geral dos ilícitos de mera ordenação social, mas também adaptação do regime geral dos ilícitos de mera ordenação social e respectivo processo à especificidade das entidades e actividades desenvolvidas no sector segurador;
+
+IV) Actualização e revisão dos montantes das sanções pecuniárias em função dos bens jurídicos protegidos.
+
+Assim, o presente diploma tipifica como crime, punível com prisão até três anos, a prática de actos ou operações de seguros, resseguros ou de gestão de fundos de pensões por entidades não autorizadas nos termos da legislação em vigor.
+
+As demais infracções à legislação reguladora das actividades seguradora, dos fundos de pensões e de outras legalmente equiparadas, em especial as infracções às normas que regem as respectivas condições de acesso e exercício são qualificadas como ilícitos de mera ordenação social.
+
+Pretende-se ainda punir a reincidência no domínio dos ilícitos de mera ordenação social, através da elevação em um terço dos limites mínimo e máximo da coima aplicável ao agente que, dentro dos três anos posteriores à sua condenação por decisão definitiva ou transitada em julgado, volte a praticar novo ilícito de mera ordenação social.
+
+Quanto à moldura sancionatória, e atendendo à crescente complexidade da actividade seguradora, procurou-se estruturar essa moldura sancionatória em três níveis, com o que se respeita o princípio da proporcionalidade:
+
+I) O dos ilícitos cujo desvalor não deve desencadear uma reacção sancionatória muito forte;
+
+II) O dos ilícitos graves; e
+
+III) O dos ilícitos especialmente graves.
+
+No primeiro nível, a moldura sancionatória varia entre os limites mínimos de 50 contos e o limite máximo de 3000 contos, no caso de pessoas singulares, e entre os limites mínimos de 150 contos e 15000 contos, no caso de pessoas colectivas.
+
+No segundo nível, a moldura sancionatória varia entre os limites mínimos de 150 contos e o limite máximo de 10000 contos, no caso de pessoas singulares, e entre os limites mínimos de 300 contos e 50000 contos, no caso de pessoas colectivas.
+
+No terceiro nível, a moldura sancionatória varia entre os limites mínimos de 300 contos e o limite máximo de 30000 contos, no caso de pessoas singulares, e entre os limites mínimos de 600 contos e 150000 contos, no caso de pessoas colectivas.
+
+Esta solução confere a necessária flexibilidade aos esquemas sancionatórios dos ilícitos da actividade seguradora e de gestão dos fundos de pensões e assenta num equilíbrio entre limites mínimos e máximos de moldura sancionatória, ao qual se associa a punibilidade da negligência nos casos de ilícitos graves (o segundo nível referido) e a punibilidade da tentativa e da negligência nos casos de ilícitos especialmente graves (o terceiro nível referido).
+
+Cumpre ainda referir a previsão de um conjunto de sanções acessórias, a aplicar conjuntamente com a coima cujo produto reverte a favor do Estado, as quais são da competência do Ministro das Finanças quando esteja em causa a interdição total ou parcial de celebração de contratos de seguro, a interdição de admissão de novos aderentes a fundos de pensões abertos, e a suspensão da concessão de autorizações para a gestão de novos fundos de pensões. Regra geral, no entanto, compete ao Instituto de Seguros de Portugal a aplicação das coimas e sanções acessórias.
+
+Finalmente, saliente-se o estabelecimento de um regime específico de responsabilidade quanto à actuação em nome ou por conta de outrem, o qual tem particular relevância na actividade seguradora, nomeadamente no sentido de a responsabilidade das pessoas colectivas ou equiparadas não excluir a dos respectivos agentes ou comparticipantes individuais, e no sentido de as pessoas colectivas ou equiparadas responderem solidariamente pelo pagamento das coimas e das custas aplicadas aos agentes ou comparticipantes individuais.
+
+Procura-se desta forma responder ao novo contexto em que se desenvolve a actividade seguradora e às necessidades especiais de protecção dos interesses públicos relevantes que lhe são inerentes: a segurança das poupanças, a garantia de cobertura dos riscos segurados e a confiança dos agentes económicos e do público em geral na capacidade da indústria de seguros para fazer face às responsabilidades que socialmente lhe estão confiadas.
+
+4 - É também nesta linha que se insere o segundo conjunto de matérias sobre o qual incide a revisão do Decreto-Lei n.º 102/94, de 20 de Abril, operada pelo presente diploma.
+
+Está em causa, por um lado, respeitando a obrigação de transposição de directivas comunitárias no domínio do controlo dos detentores de participações qualificadas em empresas de seguros, criar as condições para que esse controlo seja coerente com outras soluções adoptadas no sector financeiro, tornando-o mais eficiente e ajustado ao fim que se visa atingir:
+
+a garantia de uma gestão sã e prudente das empresas de seguros. Por outro lado, está em causa a revisão das disposições relativas ao saneamento financeiro de empresas de seguros, definindo de forma mais completa e precisa as providências de recuperação e saneamento e clarificando a matéria da dissolução, liquidação e falência das empresas de seguros. Finalmente, está em causa o regime do endividamento das empresas de seguros e de resseguros definindo, de harmonia com os ensinamentos retirados da experiência nacional e estrangeira, as condições e limites que devem ser observados em tais operações, para salvaguarda da solvência das empresas e, consequentemente, dos direitos e interesses de segurados e demais beneficiários das apólices.
+
+5 - Assim, no que respeita ao controlo dos detentores de participações em empresas de seguros, pretende-se evitar que pessoas que não reúnam condições adequadas à garantia de uma gestão sã e prudente da empresa de seguros nelas detenham participações qualificadas, definindo-se o que se entende por «adequação dos detentores de participações qualificadas» por apelo a alguns critérios, tais como o de a pessoa ter sido declarada falida insolvente ou responsável por falência ou insolvência, o de a pessoa ter sido condenada por furto, abuso de confiança, roubo, burla, extorsão ou outros crimes de natureza semelhante, ou o de a pessoa ter sido objecto de condenação por violação grave das normas reguladoras da actividade financeira.
+
+Institui-se um sistema de controlo inicial e sucessivo dos detentores de participações em empresas de seguros, o qual opera através da exigência de não oposição da autoridade competente à aquisição de participações qualificadas ou ao aumento destas, sob pena de inibição do exercício dos direitos de voto, sem prejuízo de outras sanções aplicáveis, podendo mesmo conduzir à revogação da autorização concedida para o exercício da actividade seguradora. O sistema de controlo é completado com a consagração do princípio do registo dos acordos parassociais relativos ao exercício dos direitos de voto, a exemplo do que já dispõe o Regime Geral das Instituições de Crédito e Sociedades Financeiras.
+
+Pretende-se ainda clarificar a matéria respeitante ao acesso à actividade, designadamente no que tange à regulamentação do programa de actividades que as empresas devem apresentar no processo de autorização, bem como à especificação de certos aspectos das garantias financeiras, em parte por simples correcção de definições que a experiência da aplicação da lei revelou poderem ser melhoradas.
+
+6 - No que respeita à revisão das disposições relativas ao saneamento financeiro de empresas de seguros, são modificadas as disposições relativas ao saneamento de empresas em situação financeira insuficiente, definindo-se de forma mais completa e precisa as providências de recuperação e saneamento que competem ao Estado, através do Instituto de Seguros de Portugal.
+
+Nessa medida, o presente diploma cria as condições para o estabelecimento de um quadro de providências extraordinárias de saneamento financeiro, destinadas a recuperar ou a normalizar as empresas de seguros que se encontrem em situação financeira insuficiente. O que está sobretudo em causa nesta matéria é, mais uma vez, a criação das condições necessárias à preservação da estabilidade na formação e captação das poupanças, ao funcionamento normal dos mercados seguradores e à salvaguarda dos interesses dos tomadores de seguros e demais credores da empresa.
+
+Assim, avulta como principal enriquecimento do sistema a atribuição à autoridade de supervisão do poder de determinar o aumento ou a redução do capital e a alienação de participações sociais e outros activos. Estes poderes, comummente reconhecidos às autoridades de supervisão de seguros no âmbito das providências de saneamento de empresas em crise, são, como também a experiência nacional já demonstrou, indispensáveis para resolver de modo racional situações que, na sua falta, se arrastarão indefinidamente ao sabor de interesses avulsos e nem sempre legítimos, acabando por tornar necessárias intervenções muito mais pesadas e laboriosas, com grave prejuízo do interesse público e dos direitos dos segurados e de outros interessados, designadamente os trabalhadores das empresas, e sempre com o risco de insucesso final.
+
+Procurou-se ainda clarificar a matéria da dissolução judicial, da liquidação judicial em benefício dos sócios e da falência de empresas de seguros, declarando-se genericamente aplicável, nestes casos, as normas constantes, designadamente, do Código de Processo Civil e do Código dos Processos Especiais de Recuperação da Empresa e de Falência. Por outro lado, estabeleceu-se que a dissolução voluntária e a liquidação judicial ou extrajudicial de uma empresa de seguros dependem da não oposição do Instituto de Seguros de Portugal e concedeu-se a esta entidade a legitimidade exclusiva para requerer a dissolução judicial e falência de empresas de seguros, em homenagem à pluralidade de interesses envolvidos no exercício desta actividade.
+
+7 - Finalmente, no que respeita ao regime do endividamento das empresas de seguros e de resseguros, define-se, de harmonia com os ensinamentos que se podem retirar da experiência nacional e estrangeira, as condições e limites que devem ser observados pelas empresas de seguros e resseguros em tais operações, para salvaguarda da respectiva solvência e, consequentemente, dos direitos e interesses de segurados e demais beneficiários das apólices.
+
+Com efeito, o regime do endividamento das empresas de seguros e de resseguros constitui uma das principais lacunas do ordenamento jurídico aplicável à actividade seguradora. As regras legais que o disciplinam remontam a 1907 e a 1971 e dispunham o seguinte:
+
+«As sociedades de seguros não poderão emitir obrigações e adquirir acções próprias, nem fazer quaisquer operações sobre elas» - artigo 25.º do Decreto de 21 de Outubro de 1907;
+
+«As sociedades de seguros e resseguros não poderão emitir obrigações nem adquirir acções próprias ou fazer operações sobre elas, exceptuando-se, quanto a estas, as necessárias em caso de fusão ou para a cobrança de créditos» - base XIV da Lei n.º 2/71, de 12 de Abril.
+
+Com a aprovação e entrada em vigor do Decreto-Lei n.º 102/94, de 20 de Abril, suscitaram-se dúvidas sobre a vigência daquelas normas, uma vez que o legislador, em sede de transposição das directivas comunitárias, veio prever que os empréstimos subordinados e os títulos de duração indeterminada passavam a integrar a margem de solvência das seguradoras.
+
+Importa pois clarificar o regime jurídico do endividamento de empresas de seguros, não apenas no plano da segurança jurídica das operações, mas também no plano económico.
+
+Com efeito, a actividade seguradora, sendo um dos segmentos mais importantes do sistema financeiro, desempenha importantes funções, quer na protecção da actividade diária de famílias e empresas, quer na captação de poupança a médio e longo prazos.
+
+Na sua vertente comercial, como negócio lucrativo, a actividade seguradora exige dos agentes económicos que nela pretendem investir as suas poupanças - os accionistas - volumes de capital suficientes para garantir a solvabilidade das empresas. Como em qualquer outra actividade, é natural que, em resultado de um negócio bem gerido, os accionistas possam auferir uma remuneração adequada do capital investido.
+
+Ora, assentando a actividade seguradora numa inversão do ciclo de produção, as seguradoras dispõem permanentemente de fluxos de tesouraria extremamente significativos que podem, de imediato, ser aplicados nos mercados financeiros, ou no mercado imobiliário.
+
+Assim sendo, são limitadas as razões para que empresas que recebem adiantamentos dos seus clientes necessitem de recorrer ao endividamento para financiar a sua actividade.
+
+Eventuais motivações ligadas à utilização de dívida como meio de gerir o negócio com menor compromisso de capital próprio devem ser rejeitadas na medida em que não contribuem para o reforço financeiro e para a credibilização do sector. Com efeito, a actividade seguradora, tal como qualquer outra de natureza financeira, rege-se pela exigência de capitais próprios mínimos, pelo que compete ao Estado evitar a descapitalização do sector por forma que insuficiências de capital próprio não sejam supridas por dívida.
+
+Do mesmo modo, a transformação de riscos individuais em riscos colectivos não deve ser usada, de forma premeditada, em favor do accionista e em desfavor de todos os segurados. Assim, o endividamento do accionista, com subsequente aplicação em acções dos fundos recolhidos, é legítimo, mas deve ser arquitectado num circuito também ele legítimo, o qual não ocorrerá quando se aproveite a capacidade financeira das seguradoras e o correspondente rating, para obter fundos a uma taxa mais baixa (por comparação à taxa a que o accionista conseguiria captá-los a título individual) e aplicá-los em negócio próprio, com eventual desfavorecimento dos segurados.
+
+No entanto, nem todo o endividamento deve ser proibido, sobretudo quando estejam em causa níveis de sinistralidade excepcionais ou pedidos de resgate extremamente significativos.
+
+O endividamento das seguradoras não é proibido na maior parte dos países comunitários, com excepção da Alemanha, em que a restrição à emissão de dívida nunca impediu nem o crescimento da actividade nem a consolidação financeira das empresas de seguros alemãs.
+
+Por outro lado, não existe harmonização comunitária na matéria, o que legitima o exercício de competências legislativas nacionais justificadas por finalidades de interesse geral.
+
+É pois necessário procurar um equilíbrio de soluções.
+
+Sublinhe-se, desde já, que o presente diploma não tem efeitos retroactivos quanto aos empréstimos contraídos e aos títulos de dívida emitidos pelas empresas de seguros e resseguros, os quais deverão ser reembolsados nos termos contratados, embora não possam ser renovados.
+
+Nesta conformidade, a solução adoptada no presente diploma em matéria de endividamento das seguradoras vai no sentido de admitir o endividamento como meio de financiamento para a aquisição de imóveis e bens de equipamento que sejam indispensáveis para a sua instalação ou funcionamento ou à prossecução do seu objecto social, ficando a sua emissão dependente de autorização prévia do Instituto de Seguros de Portugal. Admite-se ainda o endividamento de curto prazo, não renovável e até 10% dos capitais próprios, em casos pontuais, designadamente para cumprimento de obrigações contratuais directamente decorrentes da realização de seguros e de resseguros.
+
+Refira-se que uma das conclusões para a actividade seguradora, expressa no livro branco sobre o sistema financeiro (1992), foi no sentido de considerar justificado que a emissão de obrigações seja expressamente reconhecida na lei, embora na medida em que o produto das obrigações a emitir se destine ao financiamento da aquisição de imóveis necessários às actividades normais da seguradora.
+
+Finalmente, procurou-se acautelar as responsabilidades das empresas de seguros para com os credores específicos de seguros, permitindo à autoridade de supervisão a proibição da contracção de empréstimos e da emissão de dívida por empresas de seguros ou resseguros em situação financeira insuficiente, bem como, neste contexto, a distribuição de dividendos ou o reembolso de suprimentos.
+
+Instituiu-se ainda um sistema de informação pelas empresas de seguros e de resseguros ao Instituto de Seguros de Portugal sobre todos os empréstimos, e respectivas condições, que hajam contraído.
+
+Julga-se que a solução a que se chegou é uma solução equilibrada face aos interesses envolvidos e que pode contribuir para reforçar a confiança do público na actividade seguradora, bem como para uma maior solidez financeira das empresas, a qual é indispensável para que os objectivos que socialmente lhes estão confiados possam ser atingidos.
+
+8 - No conjunto, a reforma legislativa que se pretende imprimir através do presente diploma mantém e desenvolve o programa legislativo que, iniciado já antes da transposição das directivas comunitárias, mas intensificado e estruturado sobretudo nos últimos anos, no âmbito da harmonização comunitária e da integração no mercado único europeu, tanto tem contribuído para a modernização e o desenvolvimento da actividade seguradora nacional.
+
+9 - Foram ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira, o Instituto de Seguros de Portugal, bem como as associações representativas das empresas do sector.
+
+Assim:
+
+No uso da autorização legislativa concedida pela Lei n.º 93/97, de 16 de Agosto, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º e do n.º 5 do artigo 112.º da Constituição, o Governo decreta o seguinte:
+
+## Título I — Disposições gerais
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 1.º — Âmbito do diploma
+
+1 - O presente diploma regula as condições de acesso e de exercício da actividade seguradora e resseguradora no território da União Europeia, incluindo a exercida no âmbito institucional das zonas francas, com excepção do seguro de crédito por conta ou com a garantia do Estado, por empresas de seguros ou de resseguros com sede social em Portugal, bem como as condições de acesso e de exercício da actividade seguradora e resseguradora em território português, por empresas de seguros ou de resseguros sediadas em outros Estados membros.
+
+2 - As regras do presente diploma referentes a empresas de seguros ou de resseguros sediadas em outros Estados membros aplicam-se às empresas de seguros ou de resseguros sediadas em Estados que tenham celebrado acordos de associação com a União Europeia, regularmente ratificados ou aprovados pelo Estado Português, nos precisos termos desses acordos.
+
+3 - O presente diploma regula ainda as condições de acesso e de exercício da actividade seguradora e resseguradora em território português por sucursais de empresas de seguros ou de resseguros com sede social fora do território da União Europeia.
+
+4 - O presente diploma aplica-se ainda ao acesso e exercício da actividade seguradora e resseguradora no território de Estados não membros da União Europeia por sucursais de empresas de seguros ou de resseguros com sede em Portugal.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+###### Artigo 2.º — Definições
+
+a) «Estado membro» qualquer Estado que seja membro da União Europeia, bem como os Estados que são partes contratantes em acordos de associação com a União Europeia, regularmente ratificados ou aprovados pelo Estado Português, nos precisos termos desses acordos;
+
+b) «Empresa de seguros», adiante também designada por seguradora, qualquer empresa que tenha recebido uma autorização administrativa para o exercício da actividade seguradora e resseguradora;
+
+c) «Empresa de resseguros», adiante também designada por resseguradora, qualquer empresa que tenha recebido uma autorização administrativa para o exercício da actividade resseguradora;
+
+d) «Sucursal» qualquer agência, sucursal, delegação ou outra forma local de representação de uma empresa de seguros ou de resseguros, sendo como tal considerada qualquer presença permanente de uma empresa em território da União Europeia, mesmo que essa presença, não tendo assumido a forma de uma sucursal ou agência, se exerça através de um simples escritório gerido por pessoal da própria empresa, ou de uma pessoa independente mas mandatada para agir permanentemente em nome da empresa como o faria uma agência;
+
+e) «Compromisso» qualquer compromisso que se concretize em alguma das formas de seguros ou de operações previstas no artigo 124.º;
+
+f) «Estado membro de origem» o Estado membro onde se situa a sede social da empresa de seguros que cobre o risco ou que assume o compromisso ou a sede social da empresa de resseguros;
+
+g) «Estado membro da sucursal» o Estado membro onde se situa a sucursal da empresa de seguros que cobre o risco ou que assume o compromisso ou a sucursal da empresa de resseguros;
+
+h) «Estado membro da prestação de serviços» o Estado membro em que se situa o risco ou o Estado membro do compromisso, sempre que o risco seja coberto ou o compromisso assumido por uma empresa de seguros ou uma sucursal situada noutro Estado membro;
+
+i) «Estado membro de acolhimento» o Estado membro em que uma empresa de resseguros dispõe de uma sucursal ou presta serviços;
+
+j) «Estado membro onde o risco se situa»:
+
+i) O Estado membro onde se encontrem os bens, sempre que o seguro respeite quer a imóveis quer a imóveis e seu conteúdo, na medida em que este último estiver coberto pela mesma apólice de seguro;
+
+ii) O Estado membro em que o veículo se encontra matriculado, sempre que o seguro respeite a veículos de qualquer tipo;
+
+iii) O Estado membro em que o tomador tiver subscrito o contrato, no caso de um contrato de duração igual ou inferior a quatro meses relativo a riscos ocorridos durante uma viagem ou fora do seu domicílio habitual, qualquer que seja o ramo em questão;
+
+iv) O Estado membro onde o tomador tenha a sua residência habitual ou, se este for uma pessoa colectiva, o Estado membro onde se situa o respectivo estabelecimento a que o contrato se refere, nos casos não referidos nos números anteriores;
+
+l) «Estado membro do compromisso» o Estado membro onde o tomador reside habitualmente ou, caso se trate de uma pessoa colectiva, o Estado membro onde está situado o estabelecimento da pessoa colectiva a que o contrato ou operação respeitam;
+
+m) «Livre prestação de serviços» a operação pela qual uma empresa de seguros cobre ou assume, a partir da sua sede social ou de um estabelecimento situado no território de um Estado membro, um risco ou um compromisso situado ou assumido no território de um outro Estado membro;
+
+n) «Autoridades competentes» as autoridades nacionais que exercem, por força da lei ou regulamentação, a supervisão das empresas de seguros ou de resseguros;
+
+o) «Mercado regulamentado» um mercado financeiro nacional funcionando regularmente e nas condições legalmente definidas ou um mercado situado noutro Estado membro ou num país terceiro, desde que satisfaça essas mesmas exigências e tenha sido reconhecido como tal pela entidade competente do Estado membro de origem, e os instrumentos financeiros nele negociados sejam de qualidade comparável à dos instrumentos negociados num mercado regulamentado nacional;
+
+p) «Resseguro» a actividade que consiste na aceitação de riscos cedidos por uma empresa de seguros ou de resseguros;
+
+q) «Empresa de resseguros cativa» uma empresa de resseguros, propriedade de uma instituição não financeira ou de instituição do sector financeiro que não seja uma empresa de seguros ou de resseguros ou um grupo de empresas de seguros ou de resseguros ao qual se aplique o regime de supervisão complementar, cujo objecto consista em fornecer uma cobertura através de resseguro exclusivamente aos riscos da empresa ou empresas a que pertence ou da empresa ou empresas do grupo em que se integra;
+
+r) «Entidade com objecto específico de titularização de riscos de seguros (special purpose vehicle)», uma entidade colectiva, com ou sem personalidade jurídica, que não seja uma empresa de seguros ou de resseguros, que assume riscos de empresas de seguros ou de resseguros e financia integralmente os riscos das posições assumidas através do produto da emissão de dívida ou de outro mecanismo de financiamento em que os direitos de reembolso dos emissores dessa dívida ou mecanismo de financiamento estão subordinados às obrigações de resseguro da entidade colectiva;
+
+s) «Resseguro finito», o resseguro em que o potencial explícito de perda máxima, expresso em risco económico máximo transferido, decorrente da transferência de um risco de subscrição e de um risco temporal significativos, excede, num montante limitado mas significativo, o prémio devido durante a vigência do contrato, juntamente com, pelo menos, uma das seguintes características:
+
+i) Consideração explícita e substancial do valor temporal do dinheiro;
+
+ii) Disposições contratuais destinadas a moderar no tempo o equilíbrio da experiência económica entre as partes, a fim de atingir as transferências de risco pretendidas.
+
+2 - Para efeitos do disposto na alínea o) do número anterior, consideram-se condições legalmente definidas:
+
+a) As condições de funcionamento;
+
+b) As condições de acesso;
+
+c) As condições de admissão à cotação oficial de valores mobiliários numa bolsa de valores, quando for caso disso;
+
+d) As condições exigíveis para que os instrumentos financeiros possam ser efectivamente transaccionados nesse mercado, noutras circunstâncias que não as previstas na alínea anterior.
+
+3 - Para os efeitos do presente diploma, são considerados grandes riscos:
+
+a) Os riscos que respeitem aos ramos de seguro referidos nos n.os 4), 5), 6), 7), 11) e 12) do artigo 123.º;
+
+b) Os riscos que respeitem aos ramos de seguro referidos nos n.os 14) e 15) do artigo 123.º, sempre que o tomador exerça a título profissional uma actividade industrial, comercial ou liberal e o risco, se reporte a essa actividade;
+
+c) Os riscos que respeitem aos ramos de seguro referidos nos n.os 3), 8), 9), 10), 13) e 16) do artigo 123.º, de acordo com o critério referido no número seguinte.
+
+4 - Os riscos referidos na alínea c) do número anterior só são considerados grandes riscos desde que, relativamente ao tomador, sejam excedidos dois dos seguintes valores:
+
+a) Total do balanço - 6,2 milhões de euros;
+
+b) Montante líquido do volume de negócios - 12,8 milhões de euros;
+
+c) Número médio de empregados durante o último exercício - 250.
+
+5 - No caso de o tomador estar integrado num conjunto de empresas para o qual sejam elaboradas contas consolidadas, os valores referidos no número anterior são aplicados com base nessas contas.
+
+6 - São considerados riscos de massa os riscos não abrangidos pelos n.os 3 e 4 do presente artigo.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 3.º — Outras definições
+
+Para efeitos do presente diploma, considera-se ainda:
+
+1) Relação de controlo ou de domínio, a relação que se dá entre uma pessoa singular ou colectiva e uma sociedade quando:
+
+a) Se verifique alguma das seguintes situações:
+
+i) Deter a pessoa singular ou colectiva em causa a maioria dos direitos de voto;
+
+ii) Ser sócio da sociedade e ter o direito de designar ou de destituir mais de metade dos membros do órgão de administração ou do órgão de fiscalização;
+
+iii) Poder exercer influência dominante sobre a sociedade, por força de contrato ou de cláusula dos estatutos desta;
+
+iv) Ser sócio da sociedade e controlar por si só, em virtude de acordo concluído com outros sócios desta, a maioria dos direitos de voto;
+
+v) Poder exercer ou exercer efectivamente, influência dominante ou controlo sobre a sociedade;
+
+vi) No caso de pessoa colectiva, gerir a sociedade como se ambas constituíssem uma única entidade;
+
+b) Considera-se, para efeitos da aplicação das subalíneas i), ii) e iv) da alínea anterior, que:
+
+i) Aos direitos de voto, de designação ou de destituição do participante equiparam-se os direitos de qualquer outra sociedade dependente do dominante ou que com este se encontre numa relação de grupo, bem como os de qualquer pessoa que actue em nome próprio mas por conta do dominante ou de qualquer outra das referidas sociedades;
+
+ii) Dos direitos indicados na subalínea anterior deduzem-se os direitos relativos às acções detidas por conta de pessoa que não seja o dominante ou outra das referidas sociedades, ou relativos às acções detidas em garantia, desde que, neste último caso, tais direitos sejam exercidos em conformidade com as instruções recebidas, ou a posse das acções seja operação corrente da empresa detentora em matéria de empréstimos e os direitos de voto sejam exercidos no interesse do prestador da garantia;
+
+c) Para efeitos da aplicação das subalíneas i) e iv) da alínea a), deverão ser deduzidos à totalidade dos direitos de voto correspondentes ao capital da sociedade dependente os direitos de voto relativos à participação detida por esta sociedade, por uma sua filial ou por uma pessoa em nome próprio mas por conta de qualquer destas sociedades;
+
+2) 'Participação qualificada' a participação directa ou indirecta que represente percentagem não inferior a 10 % do capital ou dos direitos de voto da instituição participada ou que, por qualquer motivo, possibilite exercer influência significativa na gestão da instituição participada, sendo aplicável ao cômputo dos direitos de voto o disposto nos artigos 3.º-A e 3.º-B;
+
+3) 'Empresa mãe' a pessoa colectiva que se encontra relativamente a outra pessoa colectiva numa relação de controlo ou de domínio prevista no n.º 1);
+
+4) 'Filial' a pessoa colectiva relativamente à qual outra pessoa colectiva, designada por empresa mãe, se encontra numa relação de controlo ou de domínio prevista no n.º 1), considerando-se que a filial de uma filial é igualmente filial de uma empresa mãe de que ambas dependem;
+
+5) Relação de proximidade também designada por grupo, situação em que duas ou mais pessoas singulares ou colectivas se encontrem ligadas através de:
+
+a) Uma participação, ou seja, o facto de uma deter na outra, directamente ou através de uma relação de controlo, 20% ou mais dos direitos de voto ou do capital; ou
+
+b) Uma relação de controlo, ou seja, a relação existente entre uma empresa-mãe e uma filial, tal como prevista nos n.os 3) e 4) do presente artigo, ou uma relação da mesma natureza entre qualquer pessoa singular ou colectiva e uma empresa;
+
+6) Constitui também relação de proximidade entre duas ou mais pessoas singulares ou colectivas a situação em que essas pessoas se encontrem ligadas de modo duradouro a uma mesma entidade através de uma relação de controlo.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702), em vigor a partir de 2010-05-27
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 11-D/98 - Diário da República n.º 148/1998, Suplemento n.º 2, Série I-A de 1998-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-d-1998-291197), em vigor a partir de 1998-04-22
+
+###### Artigo 3.º-A — Imputação de direitos de voto
+
+1 - Para efeitos do disposto no n.º 2 do artigo 3.º, no cômputo das participações qualificadas consideram-se, além dos inerentes às acções de que o participante tenha a titularidade ou o usufruto, os direitos de voto:
+
+a) Detidos por terceiros em nome próprio, mas por conta do participante;
+
+b) Detidos por sociedade que com o participante se encontre em relação de domínio ou de grupo;
+
+c) Detidos por titulares do direito de voto com os quais o participante tenha celebrado acordo para o seu exercício, salvo se, pelo mesmo acordo, estiver vinculado a seguir instruções de terceiro;
+
+d) Detidos, se o participante for uma sociedade, pelos membros dos seus órgãos de administração e de fiscalização;
+
+e) Que o participante possa adquirir em virtude de acordo celebrado com os respectivos titulares;
+
+f) Inerentes a acções detidas em garantia pelo participante ou por este administradas ou depositadas junto dele, se os direitos de voto lhe tiverem sido atribuídos;
+
+g) Detidos por titulares do direito de voto que tenham conferido ao participante poderes discricionários para o seu exercício;
+
+h) Detidos por pessoas que tenham celebrado algum acordo com o participante que vise adquirir o domínio da sociedade ou frustrar a alteração de domínio ou que, de outro modo, constitua um instrumento de exercício concertado de influência sobre a sociedade participada;
+
+i) Imputáveis a qualquer das pessoas referidas numa das alíneas anteriores por aplicação, com as devidas adaptações, de critério constante de alguma das outras alíneas.
+
+2 - Para efeitos do disposto na alínea b) do número anterior, não se consideram imputáveis à sociedade que exerça domínio sobre entidade gestora de fundo de investimento, sobre entidade gestora de fundo de pensões, sobre entidade gestora de fundo de capital de risco ou sobre intermediário financeiro autorizado a prestar o serviço de gestão de carteiras por conta de outrem e às sociedades associadas de fundos de pensões os direitos de voto inerentes a acções de empresas de seguros ou resseguros integrantes de fundos ou carteiras geridas, desde que a entidade gestora ou o intermediário financeiro exerça os direitos de voto de modo independente da sociedade dominante ou das sociedades associadas.
+
+3 - Para efeitos da alínea h) do n.º 1, presume-se serem instrumento de exercício concertado de influência os acordos relativos à transmissibilidade das acções representativas do capital social da sociedade participada.
+
+4 - A presunção referida no número anterior pode ser ilidida perante o Instituto de Seguros de Portugal, mediante prova de que a relação estabelecida com o participante é independente da influência, efectiva ou potencial, sobre a sociedade participada.
+
+5 - Para efeitos do disposto no n.º 1, os direitos de voto são calculados com base na totalidade das acções com direitos de voto, não relevando para o cálculo a suspensão do respectivo exercício.
+
+6 - No cômputo das participações qualificadas não são considerados:
+
+a) Os direitos de voto detidos por empresas de investimento ou instituições de crédito em resultado da tomada firme ou da colocação com garantia de instrumentos financeiros, desde que os direitos de voto não sejam exercidos ou de outra forma utilizados para intervir na gestão da sociedade e sejam cedidos no prazo de um ano a contar da aquisição;
+
+b) As acções transaccionadas exclusivamente para efeitos de operações de compensação e de liquidação no âmbito do ciclo curto e habitual de liquidação, aplicando-se para este efeito o disposto no n.º 2 do artigo 16.º-A e no n.º 1 do artigo 18.º, ambos do Código dos Valores Mobiliários;
+
+c) As acções detidas por entidades de custódia, actuando nessa qualidade, desde que estas entidades apenas possam exercer os direitos de voto associados às acções sob instruções comunicadas por escrito ou por meios electrónicos;
+
+d) As participações de intermediário financeiro actuando como criador de mercado que atinjam ou ultrapassem 5 % dos direitos de voto correspondentes ao capital social, desde que aquele não intervenha na gestão da instituição participada, nem o influencie a adquirir essas acções ou a apoiar o seu preço.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702), em vigor a partir de 2010-05-27
+
+###### Artigo 3.º-B — Imputação de direitos de voto relativos a acções integrantes de organismos de investimento colectivo, de fundos de pensões ou de carteiras
+
+1 - Para efeitos do disposto no n.º 2 do artigo anterior, a sociedade que exerça domínio sobre a entidade gestora ou sobre o intermediário financeiro e as sociedades associadas de fundos de pensões beneficiam da derrogação de imputação agregada de direitos de voto se:
+
+a) Não interferirem através de instruções, directas ou indirectas, sobre o exercício dos direitos de voto inerentes às acções integrantes do fundo de investimento, do fundo de pensões, do fundo de capital de risco ou da carteira;
+
+b) A entidade gestora ou o intermediário revelar autonomia dos processos de decisão no exercício do direito de voto.
+
+2 - Para beneficiar da derrogação de imputação agregada de direitos de voto, a sociedade que exerça domínio sobre a entidade gestora ou sobre o intermediário financeiro deve:
+
+a) Enviar ao Instituto de Seguros de Portugal a lista actualizada de todas as entidades gestoras e intermediários financeiros sob relação de domínio e, no caso de entidades sujeitas a lei pessoal estrangeira, indicar as respectivas autoridades de supervisão;
+
+b) Enviar ao Instituto de Seguros de Portugal uma declaração fundamentada, referente a cada entidade gestora ou intermediário financeiro, de que cumpre o disposto no número anterior;
+
+c) Demonstrar ao Instituto de Seguros de Portugal, a seu pedido, que as estruturas organizacionais das entidades relevantes asseguram o exercício independente do direito de voto, que as pessoas que exercem os direitos de voto agem independentemente e que existe um mandato escrito e claro que, nos casos em que a sociedade dominante recebe serviços prestados pela entidade dominada ou detém participações directas em activos por esta geridos, fixa a relação contratual das partes em consonância com as condições normais de mercado para situações similares.
+
+3 - Para efeitos da alínea c) do número anterior, as entidades relevantes devem adoptar, no mínimo, políticas e procedimentos escritos que impeçam, em termos adequados, o acesso a informação relativa ao exercício dos direitos de voto.
+
+4 - Para beneficiar da derrogação de imputação agregada de direitos de voto, as sociedades associadas de fundos de pensões devem enviar ao Instituto de Seguros de Portugal uma declaração fundamentada de que cumprem o disposto no n.º 1.
+
+5 - Caso a imputação fique a dever-se à detenção de instrumentos financeiros que confiram ao participante o direito à aquisição, exclusivamente por sua iniciativa, por força de acordo, de acções com direitos de voto, já emitidas por emitente cujas acções estejam admitidas à negociação em mercado regulamentado, basta, para efeitos do n.º 2, que a sociedade aí referida envie ao Instituto de Seguros de Portugal a informação prevista na alínea a) desse número.
+
+6 - Para efeitos do disposto no n.º 1:
+
+a) Consideram-se instruções directas as dadas pela sociedade dominante ou outra entidade por esta dominada que precise o modo como são exercidos os direitos de voto em casos concretos;
+
+b) Consideram-se instruções indirectas as que, em geral ou particular, independentemente da sua forma, são transmitidas pela sociedade dominante ou qualquer entidade por esta dominada e limitam a margem de discricionariedade da entidade gestora, intermediário financeiro e sociedade associada de fundos de pensões relativamente ao exercício dos direitos de voto de modo a servir interesses empresariais específicos da sociedade dominante ou de outra entidade por esta dominada.
+
+7 - Logo que, nos termos do n.º 1, considere não provada a independência da entidade gestora ou do intermediário financeiro que envolva uma participação qualificada em empresa de seguros ou resseguros, e sem prejuízo das consequências sancionatórias que ao caso caibam, o Instituto de Seguros de Portugal notifica deste facto a sociedade que exerça domínio sobre a entidade gestora ou sobre o intermediário financeiro e as sociedades associadas de fundos de pensões e, ainda, o órgão de administração da sociedade participada.
+
+8 - A declaração do Instituto de Seguros de Portugal prevista no número anterior implica a imputação à sociedade dominante de todos os direitos de voto inerentes às acções que integrem o fundo de investimento, o fundo de pensões, o fundo de capital de risco ou a carteira, com as respectivas consequências, enquanto não seja demonstrada a independência da entidade gestora ou do intermediário financeiro.
+
+9 - A emissão da notificação prevista no n.º 7 pelo Instituto de Seguros de Portugal é precedida de consulta prévia à Comissão do Mercado de Valores Mobiliários sempre que se refira a direitos de voto inerentes a acções de sociedades abertas ou detidas por organismos de investimento colectivo, ou ainda integradas em carteiras de instrumentos financeiros, no âmbito de contrato de gestão de carteiras.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702), em vigor a partir de 2010-05-27
+
+###### Artigo 4.º — Exclusões
+
+1 - O presente diploma não se aplica às mútuas de seguros de gado que apresentem, cumulativamente, as seguintes características:
+
+a) Estatuto que preveja a possibilidade de proceder a reforços de quotizações ou à redução das suas prestações;
+
+b) Actividade que apenas respeite à cobertura de riscos inerentes ao seguro pecuário;
+
+c) Montante anual de quotizações e ou prémios não superior a (euro) 5000000.
+
+2 - O presente diploma não é igualmente aplicável às sociedades de assistência que apresentem, cumulativamente, as seguintes características:
+
+a) Exercício da actividade restrito ao ramo de seguro referido no n.º 18) do artigo 123.º, com carácter puramente local e limitado a prestações em espécie;
+
+b) Montante anual das receitas processadas não superior a (euro) 200000.
+
+3 - O presente diploma não é ainda aplicável à actividade de resseguro exercida ou integralmente garantida pelo Governo Português ou pelo Governo de outro Estado membro quando actue, por razões de interesse público relevante, na qualidade de segurador de último recurso, designadamente quando tal intervenção é exigida face a uma situação do mercado em que é inviável a obtenção de uma cobertura comercial adequada.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 5.º — Exercício do resseguro e entidades com objecto específico de titularização de riscos de seguros
+
+1 - Sem prejuízo do disposto no artigo 7.º, a actividade de resseguro em Portugal pode ser exercida por empresas de seguros ou de resseguros com sede em território fora da União Europeia que não se encontrando estabelecidas em Portugal, estejam, no respectivo país de origem, autorizadas a exercer a actividade de resseguro.
+
+2 - A actividade de resseguro em Portugal exercida por empresas de seguros ou de resseguros com sede em território fora da União Europeia com o qual não tenha sido concluído acordo pela União Europeia sobre o exercício de supervisão, está sujeita à constituição de garantias, nos termos a fixar por norma regulamentar do Instituto de Seguros de Portugal.
+
+3 - Às empresas de resseguros com sede em Portugal e às sucursais de empresas de resseguros com sede fora do território da União Europeia é aplicável o título I, as secções I e XI do capítulo I e a secção III do capítulo II do título II, o capítulo II, a secção II do capítulo V e as secções I, I-A, II, IV e V do capítulo VI do título III, e os títulos VI e VII do presente diploma.
+
+4 - O regime aplicável à actividade de resseguro é extensivo à actividade de prestação de garantia de cobertura de riscos, por empresa de resseguros, a um fundo de pensões, não se aplicando à actividade de resseguro a fundos de pensões que não configurem uma instituição de realização de planos de pensões profissionais as regras referentes ao exercício de actividade transfronteiras.
+
+5 - O Instituto de Seguros de Portugal pode estabelecer, através de norma regulamentar:
+
+a) Um conjunto de condições mínimas a incluir nos contratos de resseguro finito;
+
+b) Requisitos em matéria de contabilidade e informação relativa a actividades de resseguro finito.
+
+6 - As condições de acesso e de exercício de uma entidade com objecto específico de titularização de riscos de seguros que se pretenda estabelecer em Portugal são estabelecidas em regime especial.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 6.º — Supervisão
+
+1 - O exercício da actividade seguradora e resseguradora pelas empresas de seguros ou de resseguros referidas no artigo 1.º e equiparadas fica sujeito à supervisão do Instituto de Seguros de Portugal, nos termos legal e regulamentares fixados.
+
+2 - O disposto no número anterior não prejudica os poderes de supervisão relativos a contratos de seguro ligados a fundos de investimento atribuídos à Comissão do Mercado de Valores Mobiliários.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 357-A/2007 - Diário da República n.º 210/2007, 2º Suplemento, Série I de 2007-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-2007-241222), em vigor a partir de 2007-11-01
+
+## Título II — Condições de acesso à actividade seguradora e resseguradora
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+### Capítulo I — Do estabelecimento
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+#### Secção I — Disposições gerais
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 7.º — Entidades que podem exercer a actividade seguradora ou resseguradora
+
+1 - Sem prejuízo do artigo 5.º, a actividade seguradora ou resseguradora em Portugal só pode ser exercida por:
+
+a) Sociedades anónimas, autorizadas nos termos do presente diploma;
+
+b) Mútuas de seguros ou de resseguros, autorizadas nos termos do presente diploma;
+
+c) Sucursais de empresas de seguros com sede no território de outros Estados membros, desde que devidamente cumpridos os requisitos exigidos ou sucursais de empresas de resseguros com sede no território de outros Estados membros;
+
+d) Sucursais de empresas de seguros ou de resseguros com sede fora do território da União Europeia, autorizadas nos termos do presente diploma;
+
+e) Empresas de seguros ou empresas de resseguros públicas ou de capitais públicos, criadas nos termos da lei portuguesa, desde que tenham por objecto a realização de operações de seguro ou de resseguro em condições equivalentes às das empresas de direito privado.
+
+2 - A actividade seguradora ou resseguradora pode também ser exercida por empresas de seguros ou de resseguros que adoptem a forma de sociedade europeia, nos termos da legislação que lhes for aplicável.
+
+3 - As sociedades de assistência que sejam, nos termos do presente diploma, assimiladas a empresas de seguros devem revestir a forma de sociedade anónima.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+###### Artigo 8.º — Objecto
+
+1 - As empresas de seguros referidas nos n.os 1 e 2 do artigo anterior são instituições financeiras que têm por objecto exclusivo o exercício da actividade de seguro directo e de resseguro, podendo ainda exercer actividades conexas ou complementares da de seguro ou resseguro, nomeadamente no que respeita a actos e contratos relativos a salvados, à reedificação e reparação de prédios, à reparação de veículos, à manutenção de postos clínicos e à aplicação de provisões, reservas e capitais.
+
+2 - As empresas de seguros devidamente autorizadas para a exploração, de entre outros, do ramo previsto no n.º 18) do artigo 123.º podem ainda apresentar e ou subscrever contratos de seguro relativos a produtos de assistência que são geridos por sociedades de assistência.
+
+3 - Sem prejuízo do disposto no n.º 2 do artigo 4.º, são equiparadas, para todos os efeitos, a empresas de seguros as sociedades de assistência que tenham por objecto a assunção da responsabilidade financeira e ou gestão do risco de assistência, quer os respectivos contratos que garantem esse risco sejam subscritos pela própria sociedade de assistência, quer sejam subscritos por intermédio de uma ou mais empresas de seguros.
+
+4 - As empresas de resseguros referidas nos n.os 1 e 2 do artigo anterior são instituições financeiras que têm por objecto exclusivo o exercício da actividade de resseguro e actividades conexas, nomeadamente a prestação aos clientes de serviços de consultoria em matéria estatística ou actuarial, a análise ou pesquisa de riscos, o exercício de funções de gestão de participações sociais e actividades relacionadas com actividades do sector financeiro.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 9.º — Exploração cumulativa dos ramos «Vida» e «Não Vida»
+
+1 - A actividade de seguro directo e de resseguro, do ramo 'Vida', pode ser exercida cumulativamente apenas com a de seguro directo e resseguro dos ramos 'Não vida' referido nos n.os 1) e 2) do artigo 123.º
+
+2 - As empresas de seguros autorizadas a exercer cumulativamente as actividades referidas no número anterior, bem como as empresas referidas no artigo 240.º, devem adoptar uma gestão distinta para cada uma dessas actividades.
+
+3 - A gestão distinta prevista no número anterior deve ser organizada de modo que a actividade de seguro do ramo «Vida» e a de seguro dos ramos «Não Vida» fiquem separadas, a fim de que:
+
+a) Não possam ser causados, directa ou indirectamente, quaisquer prejuízos aos interesses respectivos dos tomadores de seguro, segurados e beneficiários de «Vida» e «Não Vida»;
+
+b) Os lucros resultantes da exploração do ramo «Vida» revertam a favor dos segurados e beneficiários do «Vida», como se a empresa apenas explorasse o ramo «Vida»;
+
+c) As garantias financeiras exigidas e correspondentes a cada uma das actividades não sejam suportadas pela outra actividade.
+
+4 - As empresas de seguros podem, depois de satisfeitas as garantias financeiras, nos termos da alínea c) do número anterior, e mediante comunicação prévia ao Instituto de Seguros de Portugal, utilizar, para qualquer das duas actividades, os elementos referidos nos n.os 1 e 2 dos artigos 96.º e 98.º que, realizadas as competentes deduções, se encontrem ainda disponíveis.
+
+5 - Em caso de insuficiência de uma das margens de solvência, aplicar-se-ão à actividade deficitária as medidas previstas para tal situação, independentemente da situação da outra actividade, podendo essas medidas incluir a autorização para uma transferência de elementos da margem de solvência disponível de uma actividade para a outra.
+
+6 - A contabilidade deve ser organizada de modo que os resultados decorrentes do exercício de cada uma das actividades se apresentem inequívoca e completamente separados.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 11-D/98 - Diário da República n.º 148/1998, Suplemento n.º 2, Série I-A de 1998-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-d-1998-291197), em vigor a partir de 1998-04-22
+
+###### Artigo 10.º — Âmbito da autorização
+
+1 - A autorização para o exercício da actividade seguradora e resseguradora é concedida, em relação às empresas referidas nas alíneas a), b) e e) do n.º 1 do artigo 7.º, para todo o território da União Europeia.
+
+2 - A autorização inicial das empresas de seguros é concedida ramo a ramo, abrangendo, salvo se a requerente apenas pretender cobrir alguns riscos ou modalidades, a totalidade do ramo, tanto para o seguro directo como para o resseguro, admitindo-se, no entanto, a sua concessão para um grupo de ramos, desde que devidamente identificados nos termos do artigo 128.º
+
+3 - A autorização inicial das empresas de resseguros é concedida para actividades de resseguro dos ramos «Não vida», actividades de resseguro do ramo «Vida», ou todos os tipos de actividades de resseguro.
+
+4 - A autorização posterior para a exploração de novos ramos ou modalidades far-se-á nos termos legais e regulamentares em vigor.
+
+5 - As sociedades de assistência apenas podem explorar o ramo previsto no n.º 18) do artigo 123.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+###### Artigo 10.º-A — Registo no Instituto de Seguros de Portugal
+
+1 - Nos termos de norma a emitir pelo Instituto de Seguros de Portugal, este manterá em registo a identificação e a indicação das vicissitudes ocorridas relativamente às entidades previstas no artigo 7.º
+
+2 - A norma prevista no número anterior, para lá de determinar os elementos a registar, bem como os respectivos moldes, deve ainda prever, designadamente:
+
+a) Os termos da obrigação de envio, pelas entidades em causa, dos documentos que suportam os elementos a registar;
+
+b) As formas de publicidade dos dados registados.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+#### Secção II — Sociedades anónimas de seguros
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 11.º — Constituição, denominação e legislação aplicável
+
+1 - O disposto na presente secção aplica-se à constituição de empresas de seguros ou equiparadas que revistam a natureza de sociedades anónimas.
+
+2 - Da denominação da sociedade deve constar uma expressão da qual resulte inequivocamente que o seu objecto é o exercício da actividade seguradora ou da actividade de assistência, consoante os casos.
+
+3 - As sociedades anónimas referidas no n.º 1 regem-se pelo presente diploma e, subsidiariamente, pelo Código das Sociedades Comerciais e demais legislação complementar em tudo o que não contrarie este decreto-lei ou quaisquer outras disposições legais específicas da actividade seguradora.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 12.º — Autorização específica e prévia
+
+1 - A constituição das sociedades referidas no n.º 1 do artigo anterior depende de autorização do Instituto de Seguros de Portugal.
+
+2 - A autorização é sempre precedida de parecer do respectivo Governo Regional, quando se trate da constituição de sociedade com sede numa Região Autónoma.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 13.º — Condições e critérios para a concessão da autorização
+
+1 - Sem prejuízo do disposto no número seguinte, a autorização só pode ser concedida desde que todos os accionistas iniciais da sociedade se obriguem a:
+
+a) Adoptar a forma de sociedade anónima;
+
+b) Dotar a sociedade com capital social não inferior ao mínimo estabelecido no artigo 40.º, devendo, na data do acto da constituição, encontrar-se realizado o referido montante mínimo, sendo o restante, se o houver, realizado no prazo de seis meses a contar daquela data.
+
+2 - A concessão de autorização depende ainda da verificação dos seguintes requisitos:
+
+a) Aptidão dos accionistas detentores de uma participação qualificada para garantir a gestão sã e prudente da sociedade, directa ou indirectamente, nos termos do artigo 50.º;
+
+b) Adequação e suficiência de meios humanos aos objectivos a atingir;
+
+c) Adequação e suficiência de meios técnicos e recursos financeiros relativamente aos ramos de seguro que se pretende explorar;
+
+d) Localização em Portugal da administração central da empresa de seguros;
+
+e) Sempre que existam relações de proximidade entre a empresa e outras pessoas singulares ou colectivas:
+
+i) Inexistência de entraves, resultantes das referidas relações de proximidade, ao exercício das funções de supervisão;
+
+ii) Inexistência de entraves ao exercício das funções de supervisão fundadas em disposições legislativas, regulamentares ou administrativas de um país terceiro a que estejam sujeitas uma ou mais pessoas singulares ou colectivas com as quais a empresa tenha relações de proximidade.
+
+f) Relativamente às empresas de seguros que pretendam cobrir riscos do ramo 'Responsabilidade civil de veículos terrestres a motor com excepção da responsabilidade do transportador', designação, em cada um dos demais Estados membros, de um representante para o tratamento e a regularização, no país de residência da vítima, dos sinistros ocorridos num Estado distinto do da residência desta ('representante para sinistros').
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702), em vigor a partir de 2010-05-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72-A/2003 - Diário da República n.º 88/2003, 1º Suplemento, Série I-A de 2003-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-2003-315884), em vigor a partir de 2003-04-19, produz efeitos a partir de 2003-01-20
+
+###### Artigo 14.º — Instrução do requerimento
+
+1 - O requerimento de autorização é dirigido ao Instituto de Seguros de Portugal e instruído com os seguintes elementos:
+
+a) Acta da reunião em que foi deliberada a constituição da sociedade;
+
+b) Projecto de contrato de sociedade ou de estatutos;
+
+c) Identificação dos accionistas iniciais, titulares de participação directa ou indirecta, sejam pessoas singulares ou colectivas, com especificação do capital social e dos direitos de voto correspondentes a cada participação;
+
+d) Acta do órgão social competente dos accionistas que revistam a natureza de pessoas colectivas deliberando a participação na empresa de seguros;
+
+e) Certificado do registo criminal dos accionistas iniciais, quando pessoas singulares, e dos respectivos administradores, directores ou gerentes, quando pessoas colectivas;
+
+f) Declaração de que nem os accionistas iniciais nem as sociedades ou empresas cuja gestão tenham assegurado ou de que tenham sido administradores, directores ou gerentes foram declarados em estado de insolvência ou falência, tendo nas mesmas sociedades ou empresas exercido sempre uma gestão sã e prudente;
+
+g) Informações detalhadas relativas à estrutura do grupo que permitam verificar os requisitos previstos na alínea e) do n.º 2 do artigo anterior.
+
+2 - O certificado referido na alínea e) pode ser, em relação a cidadãos estrangeiros, substituído por documento equivalente emitido há menos de 90 dias.
+
+3 - O requerimento de autorização é ainda instruído com um programa de actividades, que incluirá, pelo menos, os seguintes elementos:
+
+a) Natureza dos riscos a cobrir ou dos compromissos a assumir, com a indicação do ramo ou ramos, modalidades, seguros ou operações a explorar;
+
+b) No caso de se pretender explorar o ramo «Vida» e para supervisionar a observância das disposições aplicáveis em matéria de princípios actuariais, as bases técnicas e elementos a utilizar no cálculo das tarifas, das prestações, das contribuições e das provisões técnicas, tendo em atenção as normas regulamentares sobre a matéria, ainda que esta comunicação não constitua condição prévia de autorização para o exercício da actividade da empresa;
+
+c) Princípios orientadores do resseguro que se propõe seguir;
+
+d) Elementos que constituem o fundo mínimo de garantia;
+
+e) Estrutura orgânica da empresa, com especificação dos meios técnicos, financeiros, bem como dos meios directos e indirectos de pessoal e material a utilizar, nomeadamente no que concerne à qualificação das equipas médicas e à qualidade de equipamentos de que dispõem;
+
+f) Estrutura médico-hospitalar a utilizar;
+
+g) Previsão das despesas de instalação dos serviços administrativos e da rede comercial, bem como dos meios financeiros necessários;
+
+h) Para cada um dos três primeiros exercícios sociais:
+
+I) Balanço e conta de ganhos e perdas previsionais, com informação separada, pelo menos, para as seguintes rubricas:
+
+i) Capital social subscrito e realizado, despesas de constituição e instalação, investimentos e provisões técnicas de seguro directo, resseguro aceite e resseguro cedido;
+
+ii) Prémios, proveitos dos investimentos, custos com sinistros e variações das provisões técnicas, tanto para o seguro directo como para o resseguro aceite e cedido;
+
+iii) Custos de aquisição, explicitando as comissões, e custos administrativos;
+
+II) Previsão do número de trabalhadores e respectiva massa salarial;
+
+III) Previsão da demonstração dos fluxos de caixa;
+
+IV) Previsão dos meios financeiros necessários à representação das provisões técnicas;
+
+V) Previsão da margem de solvência e dos meios financeiros necessários à sua cobertura, em conformidade com as disposições legais em vigor.
+
+4 - As hipóteses e os pressupostos em que se baseia a elaboração das projecções incluídas no programa previsto no número anterior serão devida e especificamente fundamentadas.
+
+5 - Quando no capital da empresa de seguros participem pessoas, singulares ou colectivas, nacionais de países não pertencentes à União Europeia, o requerimento de autorização é ainda instruído, relativamente aos accionistas iniciais que sejam pessoas colectivas, com uma memória explicativa da actividade no âmbito internacional e, nomeadamente, nas relações seguradoras, resseguradoras ou de outro tipo mantidas com empresas ou entidades portuguesas.
+
+6 - Todos os documentos destinados a instruir o pedido de autorização devem ser apresentados nos termos do Decreto-Lei n.º 135/99, de 22 de Abril, e redigidos em português ou devidamente traduzidos e legalizados, salvo dispensa expressa do Instituto de Seguros de Portugal.
+
+7 - Os requerentes devem designar quem os representa perante as autoridades encarregadas de apreciar o processo de autorização e indicar os técnicos, nomeadamente o actuário, o financeiro e o jurista, responsáveis, respectivamente, pelas partes técnica, financeira e jurídica do processo.
+
+8 - Relativamente aos técnicos referidos no número anterior, devem os requerentes apresentar os respectivos currículos profissionais.
+
+9 - A instrução do processo deve incluir ainda um parecer de um actuário, que cumpra os requisitos aplicáveis ao actuário responsável, sobre a adequação das tarifas, das provisões técnicas e do resseguro.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702), em vigor a partir de 2010-05-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72-A/2003 - Diário da República n.º 88/2003, 1º Suplemento, Série I-A de 2003-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-2003-315884), em vigor a partir de 2003-04-19, produz efeitos a partir de 2003-01-20
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 15.º — Apreciação do processo de autorização
+
+1 - Caso o requerimento não se encontre em conformidade com o disposto nos artigos anteriores, o Instituto de Seguros de Portugal deve informar o representante dos requerentes das irregularidades detectadas, o qual dispõe de um prazo de 30 dias para as suprir, sob pena de caducidade e arquivamento do pedido findo esse prazo.
+
+2 - O Instituto de Seguros de Portugal pode solicitar quaisquer esclarecimentos ou elementos adicionais que considere úteis ou necessários para a análise do processo, nomeadamente os que carecer para verificar a aptidão dos accionistas referida na alínea a) do n.º 2 do artigo 13.º, bem como levar a efeito as averiguações que considere necessárias.
+
+3 - Na decisão da conformidade do requerimento com o disposto no presente diploma, a efectuar no prazo máximo de 90 dias a contar da data em que, nos termos dos números anteriores, aquele se encontre correcta e completamente instruído, o Instituto de Seguros de Portugal deve pronunciar-se, nomeadamente, sobre a adequação dos elementos de informação nele constantes com a actividade que a empresa se propõe realizar.
+
+4 - O Instituto de Seguros de Portugal consulta a autoridade de supervisão do Estado membro envolvido responsável pela supervisão da empresa de seguros, empresa de resseguros, instituição de crédito ou empresa de investimento previamente à concessão de uma autorização a uma empresa de seguros que seja:
+
+a) Uma filial de uma empresa de seguros, de uma empresa de resseguros, de uma instituição de crédito ou de uma empresa de investimento autorizada noutro Estado membro; ou
+
+b) Uma filial da empresa-mãe de uma empresa de seguros, de uma empresa de resseguros, de uma instituição de crédito ou de uma empresa de investimento autorizada noutro Estado membro; ou
+
+c) Controlada pela mesma pessoa singular ou colectiva que controla uma empresa de seguros, uma empresa de resseguros, uma instituição de crédito ou uma empresa de investimento autorizada noutro Estado membro.
+
+5 - O Instituto de Seguros de Portugal consulta o Banco de Portugal previamente à concessão de uma autorização a uma empresa de seguros que seja:
+
+a) Uma filial de uma instituição de crédito ou de uma empresa de investimento autorizada em Portugal; ou
+
+b) Uma filial da empresa mãe de uma instituição de crédito ou de uma empresa de investimento autorizada em Portugal; ou
+
+c) Controlada pela mesma pessoa singular ou colectiva que controla uma instituição de crédito ou uma empresa de investimento autorizada em Portugal.
+
+6 - O Banco de Portugal dispõe de um prazo de dois meses para efeitos da consulta prevista no número anterior.
+
+7 - Nos termos dos n.os 4 e 5, o Instituto de Seguros de Portugal consulta as autoridades de supervisão, designadamente para efeitos de avaliação da adequação dos accionistas para garantir a gestão sã e prudente da empresa e quanto a matérias que sejam de interesse para a concessão da autorização.
+
+8 - Nos casos previstos no n.º 2 do artigo 12.º, o processo será submetido a parecer do respectivo Governo Regional, que terá um prazo de 30 dias para o enviar ao Instituto de Seguros de Portugal, findo o qual se considera favorável o parecer.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 145/2006 - Diário da República n.º 146/2006, Série I de 2006-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2006-539387), em vigor a partir de 2006-08-15
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2015-01-21
+
+###### Artigo 16.º — Notificação da decisão
+
+1 - A decisão deve ser notificada aos interessados no prazo de 6 meses a contar da recepção do requerimento ou, se for o caso, a contar da recepção das informações complementares solicitadas aos requerentes, mas nunca depois de decorridos 12 meses sobre a data da entrega inicial do pedido.
+
+2 - A falta de notificação nos prazos referidos no número anterior constitui presunção de indeferimento tácito.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 17.º — Caducidade da autorização
+
+1 - A autorização caduca se os requerentes a ela expressamente renunciarem, bem como se a empresa de seguros não se constituir formalmente no prazo de 6 meses ou não der início à sua actividade no prazo de 12 meses contados a partir da data da publicação da autorização.
+
+2 - Compete ao Instituto de Seguros de Portugal a verificação da constituição formal e do início da actividade dentro dos prazos referidos no número anterior.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 18.º — Cumprimento do programa de actividades
+
+1 - Durante os três exercícios sociais que são objecto das previsões referidas na alínea h) do n.º 3 do artigo 14.º, a empresa de seguros deve apresentar, anualmente, ao Instituto de Seguros de Portugal, um relatório circunstanciado sobre a execução do programa de actividades.
+
+2 - Se se verificar desequilíbrio na situação financeira da empresa, o Instituto de Seguros de Portugal imporá medidas de reforço das respectivas garantias financeiras, cujo incumprimento pode determinar a revogação da autorização.
+
+3 - Estão sujeitos a autorização prévia do Instituto de Seguros de Portugal os projectos de alteração do programa de actividades referido no n.º 3 do artigo 14.º, sendo-lhes igualmente aplicáveis, com as devidas adaptações, as demais condições que impendem sobre o programa.
+
+4 - Nos casos previstos no número anterior, o Instituto de Seguros de Portugal pronunciar-se-á no prazo de 15 dias após a comunicação.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 19.º — Revogação da autorização
+
+1 - A autorização pode ser revogada, no todo ou em parte, sem prejuízo do disposto sobre as sanções aplicáveis às infracções da actividade seguradora ou sobre a inexistência ou insuficiência de garantias financeiras mínimas, quando se verifique alguma das seguintes situações:
+
+a) Ter sido obtida por meio de falsas declarações ou outros meios ilícitos, independentemente das sanções penais que ao caso couberem;
+
+b) A empresa de seguros cessar ou reduzir significativamente a actividade por período superior a seis meses;
+
+c) Deixar de se verificar alguma das condições de acesso e de exercício da actividade seguradora exigidas no presente diploma;
+
+d) Irregularidades graves na administração, organização contabilística ou fiscalização interna da empresa, por modo a pôr em risco os interesses dos segurados ou as condições normais de funcionamento do mercado segurador;
+
+e) Os capitais próprios da empresa atingirem, na sua totalidade, um valor inferior a metade dos valores indicados no artigo 40.º para o capital social e, simultaneamente, não cobrirem a margem de solvência exigida à empresa;
+
+f) Não ser efectuada a comunicação ou ser recusada a designação de qualquer membro da administração ou fiscalização, nos termos do artigo 54.º;
+
+g) Não ser requerida ou não ser concedida a autorização prevista no n.º 3 do artigo 18.º ou ser retirada a aprovação do programa de actividades, nos termos do mesmo preceito;
+
+h) A empresa violar as leis ou os regulamentos que disciplinam a sua actividade, por modo a pôr em risco os interesses dos segurados ou as condições normais de funcionamento do mercado segurador.
+
+2 - Ocorre redução significativa da actividade, para efeitos da alínea b) do número anterior, sempre que se verifique uma diminuição de pelo menos 50% do volume de prémios, que não esteja estrategicamente programada nem tenha sido imposta pela autoridade competente, e que ponha em risco os interesses dos segurados e terceiros.
+
+3 - Os factos previstos na alínea f) do n.º 1 não constituem fundamento de revogação se, no prazo estabelecido pelo Instituto de Seguros de Portugal, a empresa tiver procedido à comunicação ou à designação de outro administrador que seja aceite.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+###### Artigo 20.º — Competência e forma de revogação
+
+1 - A revogação da autorização, ouvida, se for o caso, a entidade referida no n.º 2 do artigo 12.º, é da competência do Instituto de Seguros de Portugal.
+
+2 - A decisão de revogação deve ser fundamentada e notificada à empresa de seguros.
+
+3 - Quando a empresa se dedique à comercialização de contratos de seguro ligados a fundos de investimento, a decisão de revogação é precedida de parecer da Comissão do Mercado de Valores Mobiliários.
+
+4 - O Instituto de Seguros de Portugal tomará as providências necessárias para o encerramento dos estabelecimentos da empresa.
+
+5 - A revogação total da autorização implica dissolução e liquidação da sociedade.
+
+6 - No recurso interposto da decisão de revogação presume-se, até prova em contrário, que a suspensão da eficácia determina grave lesão do interesse público.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 357-A/2007 - Diário da República n.º 210/2007, 2º Suplemento, Série I de 2007-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-2007-241222), em vigor a partir de 2007-11-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2003 - Diário da República n.º 100/2003, Série I-A de 2003-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2003-571437), em vigor a partir de 2003-05-05, produz efeitos a partir de 2003-04-20
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 21.º — Abertura de representações fora do território da União Europeia
+
+1 - A abertura de agências, sucursais ou quaisquer outras formas de representação fora do território da União Europeia por empresas de seguros constituídas nos termos da presente secção depende de autorização prévia do Instituto de Seguros de Portugal.
+
+2 - É aplicável, com as devidas adaptações, o disposto nos artigos 24.º e 29.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+#### Secção III — Mútuas de seguros
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 22.º — Constituição, forma, objecto e legislação aplicável
+
+1- As mútuas de seguros revestem a forma de sociedade cooperativa de responsabilidade limitada, constituída por documento particular, salvo se forma mais solene for exigida para a transmissão dos bens que representam o seu capital inicial, regendo-se pelo disposto no presente decreto-lei e, subsidiariamente, pelo disposto no Código Cooperativo e demais legislação complementar em tudo o que não contrarie o presente decreto-lei ou outras disposições específicas da actividade seguradora.
+
+2- As mútuas de seguros revestem a forma de sociedade cooperativa de responsabilidade limitada, constituída por documento particular, salvo se forma mais solene for exigida para a transmissão dos bens que representam o seu capital inicial, regendo-se pelo disposto no presente decreto-lei e, subsidiariamente, pelo disposto no Código Cooperativo e demais legislação complementar em tudo o que não contrarie o presente decreto-lei ou outras disposições específicas da actividade seguradora.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 23.º — Normas aplicáveis
+
+1 - À constituição das mútuas de seguros aplica-se, sem prejuízo do disposto no número seguinte, o previsto no n.º 2 do artigo 11.º, no artigo 12.º, na alínea b) do n.º 1 e no n.º 2 do artigo 13.º e nos artigos 14.º a 20.º, com as necessárias adaptações.
+
+2 - Para efeito de constituição de mútuas de seguros, o disposto nas alíneas c) a f) do n.º 1 do artigo 14.º apenas é obrigatório em relação aos 10 membros fundadores que irão subscrever o maior número de títulos de capital.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+#### Secção IV — Estabelecimento no território de outros Estados membros de sucursais de empresas de seguros com sede em Portugal
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 24.º — Notificação
+
+As empresas de seguros com sede em Portugal que pretendam estabelecer uma sucursal no território de um outro Estado membro da União Europeia devem notificar esse facto ao Instituto de Seguros de Portugal, especificando os seguintes elementos:
+
+a) Estado membro em cujo território pretendam estabelecer a sucursal;
+
+b) Programa de actividades, nos termos dos n.os 3 e 4 do artigo 14.º, com as devidas adaptações;
+
+c) Endereço, no Estado membro da sucursal, onde os documentos lhes podem ser reclamados e entregues, entendendo-se que para o mencionado endereço deverão ser enviadas todas as comunicações dirigidas ao mandatário geral da sucursal;
+
+d) Nome e endereço do mandatário geral da sucursal, que deve ter poderes bastantes para obrigar a empresa de seguros perante terceiros e para a representar perante as autoridades e os tribunais do Estado membro da sucursal;
+
+e) Declaração comprovativa de que a empresa se tornou membro do gabinete nacional e do fundo nacional de garantia do Estado membro da sucursal, caso pretenda cobrir por intermédio da sua sucursal os riscos referidos no n.º 10) do artigo 123.º, excluindo a responsabilidade do transportador.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 25.º — Comunicação
+
+1 - O Instituto de Seguros de Portugal comunica os elementos referidos no artigo anterior à autoridade competente do Estado membro da sucursal no prazo de três meses a contar da recepção dos mesmos, certificando igualmente que a empresa de seguros dispõe do mínimo da margem de solvência, calculada nos termos do presente diploma.
+
+2 - O Instituto de Seguros de Portugal informará simultaneamente a empresa interessada da comunicação referida no número anterior.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 26.º — Recusa de comunicação
+
+1 - O Instituto de Seguros de Portugal não procede à comunicação referida no artigo anterior sempre que tenha dúvidas fundadas sobre:
+
+a) A adequação das estruturas administrativas da empresa de seguros;
+
+b) A situação financeira da empresa de seguros, designadamente nos casos em que tenha sido solicitado um plano de reequilíbrio da situação financeira em conformidade com o disposto no artigo 108.º-A e enquanto entender que os direitos dos segurados e beneficiários dos contratos de seguro se encontram em risco;
+
+c) A idoneidade e qualificações ou experiência profissionais dos dirigentes responsáveis e do mandatário geral.
+
+2 - O Instituto de Seguros de Portugal notifica a empresa interessada da recusa de comunicação, no prazo de três meses após a recepção dos elementos referidos no artigo 24.º, fundamentando a recusa.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+###### Artigo 27.º — Recurso
+
+Da recusa de comunicação ou da falta de resposta do Instituto de Seguros de Portugal cabe, no prazo de 10 dias a contar do termo do prazo de três meses previsto no n.º 1 do artigo 25.º ou da notificação de recusa prevista no n.º 2 do artigo 26.º, recurso para o Ministro das Finanças, cuja decisão admite recurso contencioso, nos termos gerais.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 28.º — Início de actividade
+
+As sucursais referidas na presente secção podem estabelecer-se e iniciar as suas actividades a partir da recepção da comunicação para o efeito emitida pela autoridade competente do Estado membro da sucursal ou, em caso de silêncio desta, decorrido um prazo de dois meses contado a partir da data da recepção da informação referida no n.º 2 do artigo 25.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 29.º — Alterações
+
+Em caso de alteração do conteúdo dos elementos referidos nas alíneas b) a e) do artigo 24.º, a empresa de seguros, pelo menos um mês antes de proceder a essa alteração, deverá notificá-la ao Instituto de Seguros de Portugal e às autoridades competentes do Estado membro da sucursal, para efeitos do disposto nos artigos 25.º a 27.º, e 28.º, respectivamente.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 11-D/98 - Diário da República n.º 148/1998, Suplemento n.º 2, Série I-A de 1998-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-d-1998-291197), em vigor a partir de 1998-04-22
+
+#### Secção V — Estabelecimento em Portugal de sucursais de empresas de seguros com sede no território de outros Estados membros
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 30.º — Comunicação
+
+1 - A actividade, em território português, de empresas de seguros com sede em outro Estado membro deve obedecer às condições de exercício da actividade seguradora e resseguradora estabelecidas para as empresas com sede em Portugal.
+
+2 - Após a comunicação pela autoridade competente do Estado membro da sede social de uma empresa de seguros de que esta pretende exercer o direito de estabelecimento em território português mediante a criação de uma sucursal, o Instituto de Seguros de Portugal informa aquela autoridade, se for caso disso, no prazo de dois meses a contar da data da recepção daquela comunicação, das condições fundadas em razões de interesse geral a que deve obedecer o exercício da actividade seguradora por essa sucursal.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 31.º — Início de actividade
+
+1 - Dentro do prazo a que se refere o artigo anterior, o Instituto de Seguros de Portugal poderá comunicar à empresa interessada que esta se encontra em condições de iniciar as suas actividades.
+
+2 - Decorrido o mesmo prazo, em caso de silêncio do Instituto de Seguros de Portugal, a empresa poderá iniciar as suas actividades.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 32.º — Alteração das condições
+
+Em caso de alteração das condições comunicadas ao abrigo do artigo 30.º, a empresa de seguros, pelo menos 30 dias antes de proceder a essa alteração, deverá notificá-la ao Instituto de Seguros de Portugal, para efeitos do disposto no artigo anterior.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 33.º — Contribuição obrigatória
+
+As empresas de seguros estabelecidas em Portugal, nos termos da presente secção, devem filiar-se e contribuir, nas mesmas condições das empresas autorizadas ao abrigo deste diploma, para qualquer regime destinado a assegurar o pagamento de indemnizações a segurados e terceiros lesados, nomeadamente quanto aos riscos referidos na alínea a) do n.º 1) e no n.º 10) do artigo 123.º, excluindo a responsabilidade do transportador, assegurando as contribuições legalmente previstas para o Fundo de Acidentes de Trabalho (FAT) e para o Fundo de Garantia Automóvel (FGA).
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 11-D/98 - Diário da República n.º 148/1998, Suplemento n.º 2, Série I-A de 1998-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-d-1998-291197), em vigor a partir de 1998-04-22
+
+#### Secção VI — Estabelecimento em Portugal de sucursais de empresas de seguros com sede fora do território da União Europeia
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+###### Artigo 34.º — Autorização específica e prévia
+
+1 - O estabelecimento em Portugal de sucursais de empresas de seguros com sede fora do território da União Europeia depende de autorização a conceder caso a caso por despacho do Ministro das Finanças.
+
+2 - O Ministro das Finanças pode delegar no conselho directivo do Instituto de Seguros de Portugal, por portaria, a competência a que se refere o número anterior.
+
+3 - A autorização referida no n.º 1, concedida para todo o território português, é sempre precedida de parecer do Instituto de Seguros de Portugal, sendo-lhe aplicável o n.º 2 do artigo 12.
+
+4 - As empresas de seguros que no país da sua sede social pratiquem cumulativamente a actividade de seguros dos ramos «Não Vida» e «Vida» apenas podem ser autorizadas a estabelecer em Portugal sucursais para a exploração de seguros dos ramos «Não Vida».
+
+5 - As sucursais apenas podem ser autorizadas a explorar os ramos e modalidades para os quais a empresa se encontra autorizada no país onde tem a sua sede social.
+
+6 - A autorização para a abertura de sucursais das empresas de seguros referidas no n.º 1 só pode ser concedida em relação a empresas de seguros que se encontrem constituídas há mais de cinco anos.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 35.º — Instrução do requerimento
+
+1 - As empresas de seguros com sede fora do território da União Europeia que pretendam autorização para a abertura em Portugal de uma sucursal devem apresentar ao Instituto de Seguros de Portugal, e dirigido ao Ministro das Finanças, um requerimento instruído com os seguintes elementos:
+
+a) Exposição fundamentada das razões justificativas do estabelecimento da empresa de seguros em Portugal;
+
+b) Memória explicativa da actividade da requerente no âmbito internacional e, nomeadamente, nas relações com o mercado segurador português;
+
+c) Estatutos;
+
+d) Lista dos seus administradores, devidamente identificados;
+
+e) Balanços e contas de exploração e de ganhos e perdas relativamente aos três últimos exercícios;
+
+f) Certificado, emitido há menos de 90 dias pela autoridade competente do país da sede, atestando que se encontra legalmente constituída e funciona de acordo com as disposições legais em vigor, bem como atestando os ramos e modalidades que se encontra autorizada a explorar.
+
+2 - O requerimento de autorização será ainda instruído com um programa de actividades, que incluirá, pelo menos, os seguintes elementos:
+
+a) Natureza dos riscos a cobrir ou dos compromissos a assumir, com a indicação do ramo ou ramos, modalidades, seguros ou operações a explorar;
+
+b) No caso de se pretender explorar o ramo «Vida», e para supervisionar a observância das disposições aplicáveis em matéria de princípios actuariais, as bases técnicas e elementos a utilizar no cálculo das tarifas, das prestações, das contribuições e das provisões técnicas, tendo em atenção as normas regulamentares sobre a matéria, ainda que esta comunicação não constitua condição de autorização para o exercício da actividade seguradora;
+
+c) Princípios orientadores do resseguro que se propõe seguir;
+
+d) Elementos que constituem o fundo mínimo de garantia;
+
+e) Especificação dos meios técnicos, financeiros e, ainda, dos meios directos e indirectos de pessoal e material a utilizar, nomeadamente no que concerne à qualificação das equipas médicas e à qualidade de equipamentos de que dispõem, quando seja o caso;
+
+f) Estrutura médico-hospitalar a utilizar;
+
+g) Previsão das despesas de instalação dos serviços administrativos e da rede comercial, bem como dos meios financeiros necessários;
+
+h) Para cada um dos três primeiros exercícios sociais:
+
+I) Balanço e conta de ganhos e perdas previsionais, com informação separada, pelo menos, para as seguintes rubricas:
+
+i) Capital social subscrito e realizado, despesas de constituição e instalação, investimentos e provisões técnicas de seguro directo, resseguro aceite e resseguro cedido;
+
+ii) Prémios, proveitos dos investimentos, custos com sinistros e variações das provisões técnicas, tanto para o seguro directo como para o resseguro aceite e cedido;
+
+iii) Custos de aquisição, explicitando as comissões, e custos administrativos;
+
+II) Previsão do número de trabalhadores ao seu serviço em Portugal e respectiva massa salarial;
+
+III) Previsão da demonstração de fluxos de caixa;
+
+IV) Previsão dos meios financeiros necessários à representação das provisões técnicas;
+
+V) Previsão da margem de solvência e dos meios financeiros necessários à sua cobertura, em conformidade com as disposições legais em vigor;
+
+VI) Previsão de outros meios financeiros destinados a garantir os compromissos assumidos em Portugal;
+
+i) Declaração de compromisso de que, no momento da abertura, a sucursal satisfará os seguintes requisitos:
+
+I) Existência de um escritório em Portugal;
+
+II) Nomeação de um mandatário geral, em conformidade com o disposto no artigo 37.º;
+
+III) Disponibilidade em Portugal de activos de valor pelo menos igual ao mínimo do fundo de garantia legalmente estabelecido para as sucursais de empresas de seguros estrangeiras;
+
+IV) Depósito, a título de caucionamento, de uma importância correspondente a metade do valor mínimo do fundo de garantia legalmente estabelecido para as sucursais de empresas de seguros estrangeiras.
+
+j) No caso de se pretender cobrir riscos do ramo 'Responsabilidade civil de veículos terrestres a motor com excepção da responsabilidade do transportador', nome e endereço do representante designado em cada um dos demais Estados membros para o tratamento e a regularização no país de residência da vítima dos sinistros ocorridos num Estado distinto do da residência desta.
+
+3 - O disposto nas alíneas h) e i) do n.º 2 não prejudica a possibilidade de a empresa de seguros, logo no momento do pedido de autorização para a abertura da sucursal, poder solicitar a concessão dos benefícios previstos no artigo 108.º
+
+4 - À instrução do pedido de autorização é aplicável, com as necessárias adaptações, o disposto nos n.os 4 e 6 a 9 do artigo 14.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72-A/2003 - Diário da República n.º 88/2003, 1º Suplemento, Série I-A de 2003-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-2003-315884), em vigor a partir de 2003-04-19, produz efeitos a partir de 2003-01-20
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 36.º — Apreciação do processo de autorização
+
+1 - Caso o requerimento não se encontre em conformidade com o disposto no artigo anterior, o Instituto de Seguros de Portugal deve informar o representante da requerente das irregularidades detectadas, o qual dispõe de um prazo de 30 dias para as suprir, sob pena de caducidade e arquivamento do pedido findo esse prazo.
+
+2 - O Instituto de Seguros de Portugal pode solicitar quaisquer esclarecimentos ou elementos adicionais que considere úteis ou necessários para a análise do processo.
+
+3 - O Instituto de Seguros de Portugal deve apresentar o seu parecer final sobre a conformidade do requerimento com o disposto no presente diploma, pronunciando-se, nomeadamente, sobre a adequação dos elementos de informação nele constantes com a actividade que a empresa se propõe realizar, no prazo máximo de 90 dias a contar da data em que, nos termos dos números anteriores, o requerimento se encontre correcta e completamente instruído.
+
+4 - Nos casos previstos no n.º 2 do artigo 12.º, o processo, acompanhado do parecer referido no número anterior, é enviado pelo Instituto de Seguros de Portugal ao respectivo Governo Regional, que lho devolverá, juntamente com o seu parecer, no prazo máximo de 30 dias, findo o qual se considera favorável o parecer.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 37.º — Mandatário geral
+
+1 - Quando o mandatário geral for uma pessoa singular, a empresa de seguros designará também o respectivo substituto, devendo ambos preencher os seguintes requisitos:
+
+a) Terem residência habitual em Portugal;
+
+b)  Satisfazerem o disposto nos artigos 51.º e 54.º;
+
+c) (Revogada).
+
+2 - Quando o mandatário geral for uma pessoa colectiva, esta deve:
+
+a) Ser constituída nos termos da lei portuguesa;
+
+b) Ter por objecto social exclusivo a representação de seguradoras estrangeiras;
+
+c) Ter sede principal e efectiva da administração em Portugal;
+
+d) Designar uma pessoa singular para a representar e o respectivo substituto, devendo ambos preencher os requisitos estabelecidos no n.º 1.º
+
+3 - O mandatário geral e, quando este for uma pessoa singular, o respectivo substituto, devem dispor dos poderes necessários para, em representação e por conta da empresa de seguros, celebrarem contratos de seguro, resseguro e contratos de trabalho, assumindo os compromissos deles decorrentes, bem como para a representarem judicial e extrajudicialmente.
+
+4 - A empresa de seguros não pode revogar o mandato sem designar simultaneamente novo mandatário.
+
+5 - Em caso de falência do mandatário geral ou de morte da pessoa que o representa ou do mandatário geral pessoa singular ou dos respectivos substitutos, a regularização da situação deve ocorrer no prazo máximo de 15 dias.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 11-D/98 - Diário da República n.º 148/1998, Suplemento n.º 2, Série I-A de 1998-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-d-1998-291197), em vigor a partir de 1998-04-22
+
+###### Artigo 38.º — Caducidade da autorização e cumprimento do programa de actividades
+
+Às sucursais a que se refere a presente secção aplica-se, com as necessárias adaptações, o disposto nos artigos 17.º e 18.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 38.º-A — Regime especial aplicável às empresas de seguros com sede na Suíça
+
+1 - O estabelecimento em Portugal de sucursais de empresas de seguros com sede na Suíça, para a exploração de seguros dos ramos «Não vida» depende de autorização a conceder pelo Instituto de Seguros de Portugal.
+
+2 - As empresas de seguros referidas no número anterior que pretendam autorização para a abertura em Portugal de uma sucursal devem apresentar ao Instituto de Seguros de Portugal um requerimento instruído com os elementos referidos nas alíneas c) a e) do n.º 1, alíneas a), c), e) a g), e dos pontos ii) e iii) da subalínea a) e das subalíneas b) a d) da alínea h), das subalíneas a) e b) da alínea i) e da alínea j) do n.º 2 e do n.º 4 do artigo 35.º
+
+3 - As empresas de seguros devem, ainda, apresentar um certificado emitido pela autoridade competente do país da sede atestando que:
+
+a) Se encontra legalmente constituída, tendo por objecto social exclusivo o exercício da actividade de seguro directo e de resseguro, e actividades conexas ou complementares;
+
+b) Os ramos que se encontra autorizada a explorar e os riscos que efectivamente cobre;
+
+c) Dispõe, em relação aos ramos que pretende explorar em Portugal, do fundo de garantia mínimo e da margem de solvência adequada;
+
+d) Dispõe dos meios financeiros para fazer face às despesas de instalação de serviços administrativos e da rede de produção.
+
+4 - O programa de actividades apresentado nos termos do n.º 2 é remetido pelo Instituto de Seguros de Portugal, acompanhado das observações que resultem da sua análise, à autoridade competente do país da sede, que se pronuncia no prazo máximo de 3 meses, findo o qual se considera favorável o respectivo parecer.
+
+5 - Às sucursais previstas no presente artigo não se aplicam os requisitos relativos à margem de solvência e fundo de garantia estabelecidas no presente diploma, aplicando-se o regime estabelecido no país da sede para as respectivas garantias financeiras.
+
+6 - A revogação da autorização das sucursais previstas no presente artigo é da competência do Instituto de Seguros de Portugal, ouvida a autoridade competente do país da sede.
+
+7 - No que não estiver regulado especialmente é aplicável o regime geral, com exclusão do disposto no n.º 6 do artigo 34.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 39.º — Revogação da autorização
+
+1 - A autorização pode ser revogada, no todo ou em parte, pelo Ministro das Finanças, ou, existindo delegação, pelo Instituto de Seguros de Portugal, sem prejuízo do disposto no presente diploma em matéria de sanções aplicáveis a infracções ou às consequências da insuficiência de garantias financeiras mínimas, nas seguintes circunstâncias:
+
+a) Nos termos das alíneas a), b) e c) do n.º 1 do artigo 19.º;
+
+b) No caso de inobservância do disposto no artigo 37.º;
+
+c) Não ser requerida ou não ser concedida a autorização prevista no n.º 3 do artigo 18.º ou ser retirada a aprovação do programa de actividades nos termos do mesmo preceito;
+
+d) Ocorrerem irregularidades graves na gestão, organização contabilística ou fiscalização interna da sucursal, por modo a pôr em risco os interesses dos segurados ou as condições normais de funcionamento do mercado segurador;
+
+e) Ser revogada pelas autoridades do país da sede da empresa a autorização de que depende o exercício da actividade;
+
+f) A sucursal violar as leis ou os regulamentos que disciplinam a sua actividade, por modo a pôr em risco os interesses dos segurados ou as condições normais de funcionamento do mercado segurador.
+
+2 -  À revogação da autorização das sucursais a que se refere a presente secção aplica-se, com as devidas adaptações, o previsto para a revogação da autorização das empresas de seguros com sede em Portugal.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2003 - Diário da República n.º 100/2003, Série I-A de 2003-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2003-571437), em vigor a partir de 2003-05-05, produz efeitos a partir de 2003-04-20
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+#### Secção VII — Capital e reservas
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 40.º — Capitais mínimos
+
+1 - O capital social mínimo, inteiramente realizado, para constituição de sociedades anónimas de seguros é de:
+
+a) (euro) 2500000, no caso de explorar apenas um dos seguintes ramos: «Doença», «Protecção jurídica» ou «Assistência»;
+
+b) (euro) 7500000, no caso de explorar mais de um dos ramos referidos na alínea anterior ou qualquer outro ou outros ramos de seguros «Não vida»;
+
+c) (euro) 7500000, no caso de explorar o ramo «Vida»;
+
+d) (euro) 15000000, no caso de explorar cumulativamente o ramo «Vida» com um ramo ou ramos «Não vida».
+
+2 - O capital social mínimo, inteiramente realizado, para constituição de sociedades de assistência é de (euro) 2500000.
+
+3 - O capital mínimo, inteiramente realizado, para constituição de mútuas de seguros é de (euro) 3750000
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 41.º — Acções
+
+São obrigatoriamente nominativas ou ao portador registadas as acções representativas do capital social das sociedades anónimas de seguros.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 42.º — Reserva legal
+
+Um montante não inferior a 10% dos lucros líquidos apurados em cada exercício pelas sociedades anónimas e mútuas de seguros deve ser destinado à formação da reserva legal, até à concorrência do capital social.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+#### Secção VIII — Controlo dos detentores de participações qualificadas em empresas de seguros
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 43.º — Comunicação prévia
+
+1 - Qualquer pessoa, singular ou colectiva, ou entidade legalmente equiparada que, directa ou indirectamente, pretenda deter participação qualificada em empresa de seguros, ou que pretenda aumentar participação qualificada por si já detida, de tal modo que a percentagem de direitos de voto ou de capital atinja ou ultrapasse qualquer dos limiares de 20 %, um terço ou 50 %, ou de tal modo que a empresa se transforme em sua filial, deve comunicar previamente ao Instituto de Seguros de Portugal o seu projecto de aquisição.
+
+2 - A comunicação deve ser feita sempre que da iniciativa ou do conjunto de iniciativas projectadas pela pessoa em causa possa resultar qualquer das situações previstas no número anterior, ainda que o resultado não se encontre previamente garantido.
+
+3 - O Instituto de Seguros de Portugal estabelece, por norma regulamentar, os elementos e informações que devem acompanhar a comunicação referida no n.º 1.
+
+4 - O Instituto de Seguros de Portugal notifica ao requerente, por escrito, da recepção da comunicação prevista no n.º 1 e a data do termo do prazo de apreciação, no prazo de dois dias úteis a contar da data de recepção da referida comunicação.
+
+5 - Se a comunicação prevista no n.º 1 não estiver instruída com os elementos e informações que a devem acompanhar, o Instituto de Seguros de Portugal notifica por escrito o requerente dos elementos em falta, no prazo de dois dias úteis a contar da data de recepção da referida comunicação.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702), em vigor a partir de 2010-05-27
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 44.º — Apreciação
+
+1 - O Instituto de Seguros de Portugal pode:
+
+a) Opor-se ao projecto, se não considerar demonstrado que a pessoa em causa reúne condições que garantam uma gestão sã e prudente da empresa de seguros ou se a informação prestada for incompleta;
+
+b) Não se opor ao projecto, se considerar demonstrado que a pessoa em causa reúne condições que garantam uma gestão sã e prudente da empresa de seguros.
+
+2 - Quando não deduza oposição, o Instituto de Seguros de Portugal pode fixar um prazo razoável para a realização do projecto comunicado.
+
+3 - O Instituto de Seguros de Portugal pode solicitar ao requerente elementos e informações complementares, bem como realizar as averiguações que considere necessárias.
+
+4 - A decisão de oposição ou de não oposição é notificada ao requerente no prazo de 60 dias úteis a contar da notificação prevista no n.º 4 do artigo anterior.
+
+5 - O pedido de elementos ou informações complementares apresentado pelo Instituto de Seguros de Portugal por escrito e até ao 50.º dia útil do prazo previsto no número anterior suspende o prazo de apreciação entre a data do pedido e a data de recepção da resposta do requerente.
+
+6 - A suspensão do prazo de apreciação prevista no número anterior não pode exceder:
+
+a) 30 dias úteis, no caso de o requerente ter domicílio ou sede fora do território da União Europeia ou estar sujeito a regulamentação não comunitária, bem como no caso de o requerente não estar sujeito a supervisão ao abrigo da Directiva n.º 85/611/CEE, do Conselho, de 20 de Dezembro, da Directiva n.º 92/49/CEE, do Conselho, de 18 de Junho, da Directiva n.º 2002/83/CE, do Parlamento Europeu e do Conselho, de 5 de Novembro, da Directiva n.º 2004/39/CE, do Parlamento Europeu e do Conselho, de 21 de Abril, da Directiva n.º 2005/68/CE, do Parlamento Europeu e do Conselho, de 16 de Novembro, e da Directiva n.º 2006/48/CE, do Parlamento Europeu e do Conselho, de 14 de Junho; ou
+
+b) 20 dias úteis, nos restantes casos.
+
+7 - No prazo de dois dias úteis a contar da respectiva recepção, o Instituto de Seguros de Portugal notifica o requerente da recepção dos elementos e informações solicitados ao abrigo do n.º 5 e da nova data do termo do prazo de apreciação.
+
+8 - Caso decida opor-se ao projecto, o Instituto de Seguros de Portugal:
+
+a) Notifica o requerente por escrito da sua decisão e das razões que a fundamentam, no prazo de dois dias úteis a contar da data da decisão e antes do termo do prazo previsto no n.º 4;
+
+b) Pode divulgar ao público as razões que fundamentam a oposição, por sua iniciativa ou a pedido do requerente.
+
+9 - Sem prejuízo do disposto nos n.os 5 e 6, considera-se que o Instituto de Seguros de Portugal não se opõe ao projecto caso não se pronuncie no prazo previsto no n.º 4.
+
+10 - Na decisão do Instituto de Seguros de Portugal devem ser indicadas as eventuais observações ou reservas expressas pela autoridade competente no âmbito do processo de cooperação previsto no artigo seguinte.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702), em vigor a partir de 2010-05-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 145/2006 - Diário da República n.º 146/2006, Série I de 2006-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2006-539387), em vigor a partir de 2006-08-15
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 44.º-A — Cooperação
+
+1 - O Instituto de Seguros de Portugal solicita o parecer da autoridade competente do Estado membro de origem, caso o requerente corresponda a um dos seguintes tipos de entidades:
+
+a) Instituição de crédito, empresa de seguros, empresa de resseguros, empresa de investimento ou entidade gestora de organismos de investimento colectivo em valores mobiliários na acepção do n.º 2 do artigo 1.º-A da Directiva n.º 85/611/CEE, do Conselho, de 20 de Dezembro, autorizada noutro Estado membro;
+
+b) Empresa mãe de uma entidade referida na alínea anterior;
+
+c) Pessoa singular ou colectiva, que controla uma entidade referida na alínea a).
+
+2 - A decisão do Instituto de Seguros de Portugal é precedida de parecer do Banco de Portugal ou da Comissão do Mercado de Valores Mobiliários, caso o requerente corresponda a um dos tipos de entidades previstas no número anterior, autorizadas em Portugal pelo Banco de Portugal ou pela Comissão do Mercado de Valores Mobiliários, respectivamente.
+
+3 - A pedido das autoridades competentes de outros Estados membros, o Instituto de Seguros de Portugal comunica as informações essenciais à apreciação de projectos de aquisição e, caso sejam solicitadas, outras informações relevantes.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702), em vigor a partir de 2010-05-27
+
+###### Artigo 45.º — Comunicação subsequente
+
+Sem prejuízo da comunicação prevista no n.º 1 do artigo 43.º, os factos de que resulte, directa ou indirectamente, a detenção de uma participação qualificada numa empresa de seguros, ou o seu aumento nos termos do disposto no n.º 1 do artigo 43.º, devem ser notificados pelo interessado, no prazo de 15 dias a contar da data em que os mesmos factos se verificarem, ao Instituto de Seguros de Portugal e à empresa de seguros em causa.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 46.º — Inibição do exercício de direitos de voto
+
+1 - Sem prejuízo de outras sanções aplicáveis, a aquisição ou o aumento de participação qualificada determina a inibição do exercício dos direitos de voto que, nos termos da alínea 2) do artigo 3.º, se devam considerar como integrando a participação qualificada, na quantidade necessária para que não seja atingido ou ultrapassado o mais baixo dos limiares estabelecidos no n.º 1 do artigo 43.º que haja sido atingido ou ultrapassado por força da aquisição ou aumento, desde que se verifique alguma das seguintes situações:
+
+a) Não ter o interessado cumprido a obrigação de comunicação prevista no n.º 1 do artigo 43.º;
+
+b) Ter o interessado adquirido ou aumentado participação qualificada depois de ter procedido à comunicação referida no n.º 1 do artigo 43.º, mas antes de o Instituto de Seguros de Portugal se ter pronunciado nos termos do n.º 1 do artigo 44.º;
+
+c) Ter-se o Instituto de Seguros de Portugal oposto ao projecto de aquisição ou de aumento de participação comunicado. c) Ter-se o Ministro das Finanças oposto ao projecto de aquisição ou de aumento de participação comunicado.
+
+2 - Quando tenha conhecimento de algum dos factos referidos no número anterior, o Instituto de Seguros de Portugal dará conhecimento deles e da consequente inibição ao órgão de administração da empresa de seguros.
+
+3 - O órgão de administração da empresa de seguros que haja recebido a comunicação referida no número anterior deve transmiti-la a todas as assembleias gerais de accionistas que reúnam enquanto se mantiver a inibição.
+
+4 - Se forem exercidos direitos de voto que se encontrem inibidos, serão registados em acta, no sentido em que os mesmos sejam exercidos.
+
+5 - A deliberação em que sejam exercidos direitos de voto que se encontrem inibidos, nos termos do n.º 1, é anulável, salvo se se demonstrar que a deliberação teria sido tomada e teria sido idêntica ainda que os direitos não tivessem sido exercidos.
+
+6 - A anulabilidade pode ser arguida nos termos gerais ou ainda pelo Instituto de Seguros de Portugal.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 47.º — Cessação da inibição
+
+Em caso de não cumprimento da obrigação de comunicação prevista no n.º 1 do artigo 43.º, cessa a inibição se o interessado proceder posteriormente à comunicação em falta e o Instituto de Seguros de Portugal não deduzir oposição.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 48.º — Diminuição da participação
+
+1 - Qualquer pessoa, singular ou colectiva, ou entidade legalmente equiparada, que pretenda deixar de deter, directa ou indirectamente, uma participação qualificada numa empresa de seguros ou que pretenda diminuir essa participação de tal modo que a percentagem de direitos de voto ou de partes de capital por ela detida desça de um nível inferior aos limiares de 20 %, um terço ou 50 %, ou que a empresa deixe de ser sua filial, deve informar previamente desses factos o Instituto de Seguros de Portugal e comunicar-lhe o novo montante da sua participação.
+
+2 - É aplicável, com as devidas adaptações, o disposto no artigo 43.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702), em vigor a partir de 2010-05-27
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 49.º — Comunicação pelas empresas de seguros
+
+1 - As empresas de seguros comunicam ao Instituto de Seguros de Portugal, logo que delas tenham conhecimento, as alterações a que se referem os artigos 43.º e 48.º
+
+2 - Uma vez por ano, até ao final do mês em que se realizar a reunião ordinária da assembleia geral, as empresas de seguros comunicam igualmente ao Instituto de Seguros de Portugal a identidade dos detentores de participações qualificadas, com especificação do capital social e dos direitos de voto correspondentes a cada participação.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702), em vigor a partir de 2010-05-27
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 50.º — Gestão sã e prudente
+
+Para efeitos do disposto no n.º 1 do artigo 44.º, na apreciação das condições que garantam uma gestão sã e prudente da empresa de seguros, o Instituto de Seguros de Portugal tem em conta a adequação e influência provável do requerente na instituição em causa e a solidez financeira do projecto de aquisição em função dos seguintes critérios:
+
+a) Idoneidade do requerente, tendo especialmente em consideração o disposto no n.º 2 do artigo 51.º, se se tratar de uma pessoa singular;
+
+b) Idoneidade e qualificação profissional dos membros dos órgãos de administração da empresa de seguros, a designar em resultado da aquisição, nos termos dos artigos 51.º e 51.º-A;
+
+c) Solidez financeira do requerente, designadamente em função do tipo de actividade exercida ou a exercer na empresa de seguros;
+
+d) Capacidade da empresa de seguros para cumprir de forma continuada os requisitos prudenciais aplicáveis, tendo especialmente em consideração, caso integre um grupo, a existência de uma estrutura que permita o exercício de uma supervisão efectiva, a troca eficaz de informações entre as autoridades competentes e a determinação da repartição de responsabilidades entre as mesmas;
+
+e) Existência de razões suficientes para suspeitar que teve lugar, está em curso ou foi tentada uma operação susceptível de configurar a prática de actos de branqueamento de capitais ou de financiamento do terrorismo, na acepção do artigo 1.º da Directiva n.º 2005/60/CE, do Parlamento e do Conselho, de 26 de Outubro, relacionada com a aquisição projectada ou que a aquisição projectada pode aumentar o respectivo risco de ocorrência;
+
+f) (Revogada.)
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702), em vigor a partir de 2010-05-27
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+#### Secção IX — Administração e fiscalização
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 51.º — Composição dos órgãos sociais
+
+1 - Os membros dos órgãos de administração e fiscalização das sociedades anónimas e das mútuas de seguros, incluindo os que integrem o conselho geral e de supervisão e os administradores não executivos, devem preencher os seguintes requisitos:
+
+a) Qualificação adequada, nomeadamente através de experiência profissional ou de habilitação académica;
+
+b) Idoneidade.
+
+2 - Entre outras circunstâncias atendíveis, considera-se indiciador de falta de idoneidade:
+
+a) A condenação, em Portugal ou no estrangeiro, por crime de furto, abuso de confiança, roubo, burla, extorsão, infidelidade, abuso de cartão de garantia ou de crédito, emissão de cheques sem provisão, usura, insolvência dolosa, insolvência negligente, frustração de créditos, favorecimento de credores, apropriação ilegítima de bens do sector público ou cooperativo, administração danosa em unidade económica do sector público ou cooperativo, falsificação, falsidade, suborno, corrupção, branqueamento de capitais, recepção não autorizada de depósitos ou outros fundos reembolsáveis, prática ilícita de actos ou operações de seguros, de resseguros ou de gestão de fundos de pensões, abuso de informação, manipulação do mercado de valores mobiliários ou pelos crimes previstos no Código das Sociedades Comerciais;
+
+b) A declaração de insolvência do membro do órgão social ou a declaração de insolvência de empresa por ele dominada ou de que tenha sido administrador, director, ou gerente, num e noutro caso, por sentença nacional ou estrangeira;
+
+c) A condenação, em Portugal ou no estrangeiro, pela prática de infracções às regras legais ou regulamentares que regem a actividade das instituições de crédito, sociedades financeiras ou instituições financeiras, das entidades gestoras de fundos de pensões e do mercado de valores mobiliários, bem como a actividade seguradora ou resseguradora e a actividade de mediação de seguros ou de resseguros.
+
+3 - Para efeitos do presente artigo, considera-se verificada a idoneidade dos membros dos órgãos de administração e fiscalização que se encontrem registados junto do Banco de Portugal ou da Comissão do Mercado de Valores Mobiliários, quando esse registo esteja sujeito a condições de idoneidade, a menos que factos supervenientes à data do referido registo conduzam o Instituto de Seguros de Portugal a pronunciar-se em sentido contrário.
+
+4 - Presume-se existir qualificação adequada através de experiência profissional quando a pessoa em causa tenha previamente exercido, com competência, funções de responsabilidade no domínio financeiro e técnico, devendo a duração dessa experiência, bem como a natureza e grau de responsabilidade das funções antes exercidas, estar em consonância com as características e dimensão da empresa de seguros.
+
+5 - O Instituto de Seguros de Portugal, para efeitos da verificação dos requisitos previstos no presente artigo, consulta as autoridades de supervisão competentes nos casos previstos nos n.os 4 e 5 do artigo 15.º e o Banco de Portugal ou a Comissão do Mercado de Valores Mobiliários sempre que a pessoa em causa esteja registada junto dessas autoridades.
+
+6 - (Revogado).
+
+7- (Revogado).
+
+8 - No caso de serem eleitos ou designados para os órgãos de administração ou de fiscalização pessoas colectivas, as pessoas por estas designadas para o exercício da função devem cumprir o disposto no presente artigo.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 145/2006 - Diário da República n.º 146/2006, Série I de 2006-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2006-539387), em vigor a partir de 2006-08-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+###### Artigo 51.º-A — Acumulação de cargos
+
+1 - O Instituto de Seguros de Portugal pode opor-se a que os membros dos órgãos de administração das sociedades anónimas e das mútuas de seguros exerçam funções de administração noutras sociedades, caso entenda que a acumulação é susceptível de prejudicar o exercício das funções que o interessado já desempenhe, nomeadamente por existirem riscos graves de conflito de interesses, ou, tratando-se de pessoas que exerçam funções executivas, por não se verificar disponibilidade suficiente para o exercício do cargo.
+
+2 - O disposto no número anterior não se aplica ao exercício cumulativo de funções de administração em sociedades que se encontrem em relação de domínio ou de grupo.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+#### Secção X — Disposições diversas
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 52.º — Alteração dos estatutos de empresas de seguros
+
+1 - As seguintes alterações aos estatutos das empresas de seguros carecem de autorização prévia do Instituto de Seguros de Portugal, aplicando-se, com as necessárias adaptações, o estabelecido no artigo 15.º
+
+a) Firma ou denominação;
+
+b) Objecto;
+
+c) Capital social, quando se trate de redução;
+
+d) Criação de categorias de acções ou alteração das categorias existentes;
+
+e) Estrutura da administração ou de fiscalização;
+
+f) Limitação dos poderes dos órgãos de administração ou de fiscalização;
+
+g) Dissolução.
+
+2 - As restantes alterações estatutárias não carecem de autorização prévia, devendo, porém, ser comunicadas ao Instituto de Seguros de Portugal no prazo de cinco dias, após a respectiva aprovação.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 53.º — Alterações aos estatutos ou nos órgãos de administração de empresas de seguros estrangeiras
+
+As modificações que se verifiquem nos estatutos ou no órgão de administração de uma empresa de seguros estrangeira que, nos termos da secção VI do capítulo I do título II do presente diploma, tenha obtido autorização para a instalação em Portugal de uma sucursal devem, no prazo máximo de 60 dias a partir do momento em que tiverem ocorrido, ser comunicadas ao Instituto de Seguros de Portugal, aplicando-se o disposto no n.º 6 do artigo 14.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 54.º — Comunicação da composição dos órgãos sociais
+
+1 - O registo dos membros dos órgãos de administração e fiscalização, incluindo os que integrem o conselho geral e de supervisão e os administradores não executivos, deve ser solicitado ao Instituto de Seguros de Portugal, no prazo de 15 dias após a designação, mediante requerimento da sociedade ou dos interessados, juntamente com as provas de que se encontram preenchidos os requisitos definidos no artigo 51.º e, caso aplicável, no artigo 51.º-A.
+
+2 - Poderão a sociedade ou os interessados solicitar o registo provisório antes da designação, devendo a conversão do registo em definitivo ser requerida no prazo de 30 dias a contar da designação, sob pena de caducidade.
+
+3 - Em caso de recondução, será esta averbada no registo, a requerimento da sociedade ou dos interessados.
+
+4 - A recusa do registo com fundamento em falta de algum dos requisitos definidos no artigo 51.º e, caso aplicável, no artigo 51.º-A, é comunicada aos interessados e à sociedade, a qual adopta as medidas adequadas para que aqueles cessem imediatamente funções.
+
+5 - A recusa de registo atingirá apenas as pessoas a quem não tenham sido reconhecidas as qualidades necessárias, a menos que tal circunstância respeite à maioria dos membros do órgão em causa, ou que, por outro modo, deixem de estar preenchidas as exigências legais ou estatutárias para o normal funcionamento do órgão, caso em que o Instituto de Seguros de Portugal fixará prazo para que seja regularizada a situação.
+
+6 - Não sendo regularizada a situação no prazo fixado, poderá ser revogada a autorização, nos termos do artigo 19.º, n.º 1, alínea f).
+
+7 - O Instituto de Seguros de Portugal deve, no prazo de 15 dias, após a recepção das respostas às consultas que deve realizar, analisar os documentos recebidos em cumprimento do disposto nos números anteriores.
+
+8 - Sem prejuízo do que resulte de outras disposições legais aplicáveis, a falta de registo não determina, por si só, invalidade dos actos praticados pela pessoa em causa no exercício das suas funções.
+
+9 - O disposto no presente artigo aplica-se, com as necessárias adaptações, aos mandatários gerais, tendo em atenção os requisitos definidos no artigo 37.º, e, bem assim, o previsto no n.º 1 do artigo 39.º
+
+10 - A falta superveniente de preenchimento de um dos requisitos definidos nos artigos 51.º e 51.ºA constitui fundamento de cancelamento do registo.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 55.º — Registo de acordos parassociais
+
+1 - Os acordos parassociais entre accionistas de empresas de seguros sujeitas à supervisão do Instituto de Seguros de Portugal, relativos ao exercício do direito de voto, devem ser registados no Instituto de Seguros de Portugal, sob pena de ineficácia.
+
+2 - O registo referido no número anterior pode ser requerido por qualquer das partes do acordo até 15 dias antes da assembleia em que se pretenda exercer os direitos de voto que são objecto do acordo.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 56.º — Mudança de sede ou de escritório
+
+As alterações, incluindo o encerramento, dos locais dos escritórios das sucursais autorizadas nos termos da secção VI do presente capítulo devem ser previamente comunicadas ao Instituto de Seguros de Portugal, salvo se a mudança se realizar dentro do mesmo concelho ou para concelho limítrofe, caso em que poderá ser comunicada no prazo de cinco dias após a ocorrência.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 57.º — Abertura de representacões em Portugal
+
+A abertura em Portugal de sucursais, delegações, agências ou escritórios pelas empresas de seguros autorizadas nos termos das secções II, III e VI do presente capítulo depende da existência de garantias financeiras suficientes, nos termos legais e regulamentares em vigor.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 58.º — Uso ilegal de denominação
+
+1 - É vedado a qualquer entidade não autorizada para o exercício da actividade seguradora, quer a inclusão na respectiva denominação, quer o simples uso no exercício da sua actividade, do título ou das palavras «empresa de seguros», «seguradora», «segurador», «companhia de seguros», «sociedade de seguros» ou outros que sugiram a ideia do exercício da actividade seguradora.
+
+2 - O uso das referidas expressões, ou equivalentes, por qualquer das entidades autorizadas não deve induzir em erro quanto ao âmbito da actividade que podem exercer.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+#### Secção XI — Condições de acesso de empresas de resseguros
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 58.º-A — Estabelecimento de empresas de resseguros
+
+1 - Ao estabelecimento em território português de empresas de resseguros com sede em Portugal é aplicável, com as devidas adaptações e com as especificidade dos n.os 2 a 5, o regime previsto nos artigos 11.º e 12.º, nos n.º 1 e alíneas a) a e) do n.º 2 do artigo 13.º, nos n.os 1, 2, e 5 a 9 do artigo 14.º, nos artigos 15.º a 23.º e nos artigos 41.º e 42.º
+
+2 - O capital mínimo a que se refere a alínea b) do n.º 1 do artigo 13.º corresponde, no que se refere à autorização para a constituição de uma empresa de resseguros a:
+
+a) (euro) 7 500 000, no caso de sociedades anónimas que pretendem exercer actividades de resseguro do ramo «Não vida» ou actividades de resseguro do ramo «Vida»;
+
+b) (euro) 15 000 000, no caso de sociedades anónimas que pretendem exercer todos os tipos de actividades de resseguro;
+
+c) (euro) 3 750 000, no caso de mútuas de resseguros, independentemente do tipo de actividade de resseguro que pretendem exercer.
+
+3 - O requerimento de autorização é instruído com um programa de actividades que inclui, pelo menos, os seguintes elementos:
+
+a) Indicação do ramo ou ramos dos riscos que a empresa se propõe cobrir;
+
+b) Tipos de acordos em matéria de resseguros que a empresa tenciona concluir com empresas cedentes;
+
+c) Os princípios orientadores da retrocessão que se propõe seguir;
+
+d) Elementos que constituem o fundo mínimo de garantia;
+
+e) Estrutura orgânica da empresa, com especificação dos meios técnicos e financeiros;
+
+f) Previsão das despesas de instalação dos serviços administrativos e da rede comercial, bem como dos meios financeiros necessários.
+
+4 - O programa de actividades referido no número anterior inclui ainda para cada um dos três primeiros exercícios sociais:
+
+a) Balanço e conta de ganhos e perdas previsionais, com informação separada, pelo menos, para as seguintes rubricas:
+
+i) Capital social subscrito e realizado, despesas de constituição e instalação, investimentos e provisões técnicas de resseguro aceite e resseguro cedido;
+
+ii) Prémios, proveitos dos investimentos, custos com sinistros e variações das provisões técnicas para o resseguro aceite e cedido;
+
+iii) Custos de aquisição, explicitando as comissões, e custos administrativos;
+
+b) Previsão do número de trabalhadores e respectiva massa salarial;
+
+c) Previsão da demonstração dos fluxos de caixa;
+
+d) Previsão dos meios financeiros necessários à representação das provisões técnicas;
+
+e) Previsão da margem de solvência e dos meios financeiros necessários à sua cobertura, em conformidade com as disposições legais em vigor
+
+5 - As hipóteses e os pressupostos em que se baseia a elaboração das projecções incluídas no programa previsto nos n.os 3 e 4 são devida e especificamente fundamentadas.
+
+6 - Ao estabelecimento no território de outros Estados membros de sucursais de empresas de resseguros com sede em Portugal é aplicável, com as devidas adaptações, o regime previsto nas alíneas a), c) e d) do artigo 24.º, bem como nos n.os 3 a 5.
+
+7 - Ao estabelecimento no território português de sucursais de empresas de resseguros com sede fora do território da União Europeia é aplicável, com as devidas adaptações, o regime previsto nos n.os 1 a 3, 5 e 6 do artigo 34.º, no n.º 1, na alínea i) do n.º 2 e no n.º 4 do artigo 35.º, nos artigos 36.º a 39.º, bem como nos n.os 3 a 5.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 58.º-B — Controlo dos detentores de participações qualificadas em empresas de resseguros
+
+Ao controlo dos detentores de participações qualificadas em empresas de resseguros é aplicável, com as devidas adaptações, o regime previsto nos artigos 43.º a 50.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 58.º-C — Administração e fiscalização de empresas de resseguros
+
+Aos membros dos órgãos de administração e fiscalização de empresas de resseguros é aplicável, com as devidas adaptações, o regime previsto no artigo 51.º e 51.º-A.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 58.º-D — Comunicações subsequentes e registo
+
+São aplicáveis às empresas de resseguros, com as devidas adaptações, as disposições sobre comunicações subsequentes e registo previstas nos artigos 52.º a 57.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 58.º-E — Uso ilegal de denominação no âmbito da actividade resseguradora
+
+1 - É vedado a qualquer entidade não autorizada para o exercício exclusivo da actividade resseguradora, quer a inclusão na respectiva denominação, quer o simples uso no exercício da sua actividade, do título ou das palavras «empresa de resseguros», «resseguradora», «ressegurador», «companhia de resseguros», «sociedade de resseguros» ou outros que sugiram a ideia do exercício da actividade resseguradora.
+
+2 - É aplicável o disposto no n.º 2 do artigo 58.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+### Capítulo II — Da livre prestação de serviços
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+#### Secção I — Livre prestação de serviços no território de outros Estados membros por empresas de seguros com sede em Portugal
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 59.º — Notificação
+
+As empresas de seguros com sede em Portugal que pretendam exercer, pela primeira vez, as suas actividades em livre prestação de serviços no território de outro ou outros Estados membros devem notificar previamente o Instituto de Seguros de Portugal, indicando a natureza dos riscos ou compromissos que se propõem cobrir ou assumir.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 60.º — Comunicação
+
+1 - O Instituto de Seguros de Portugal comunica e envia, no prazo de um mês a contar da data da notificação referida no artigo anterior, às autoridades competentes do Estado membro ou dos Estados membros em cujo território a empresa pretende exercer as suas actividades em livre prestação de serviços as seguintes informações e elementos:
+
+a) Uma declaração certificando que a empresa dispõe do mínimo da margem de solvência, calculada nos termos do presente diploma;
+
+b) Os ramos que a empresa está autorizada a explorar;
+
+c) A natureza dos riscos ou compromissos que a empresa se propõe cobrir ou assumir no Estado membro da prestação de serviços.
+
+2 - A comunicação referida no número anterior é notificada pelo Instituto de Seguros de Portugal, em simultâneo, à empresa interessada.
+
+3 - O Instituto de Seguros de Portugal não procede à comunicação referida no n.º 1 sempre que tenha dúvidas fundadas sobre a situação financeira da empresa de seguros, designadamente nos casos em que tenha sido solicitado um plano de reequilíbrio da situação financeira em conformidade com o disposto no artigo 108.º-A e enquanto entender que os direitos dos segurados e beneficiários dos contratos de seguro se encontram em risco.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+###### Artigo 61.º — Recusa de comunicação
+
+No caso de o Instituto de Seguros de Portugal não efectuar a comunicação referida no n.º 1 do artigo anterior, deverá, no prazo ali referido, notificar a empresa interessada, fundamentando a recusa de comunicação.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 62.º — Recurso
+
+Da recusa de comunicação a que se refere o artigo anterior cabe, no prazo de 10 dias, recurso para o Ministro das Finanças, cuja decisão admite recurso contencioso, nos termos gerais.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 63.º — Início de actividade
+
+A empresa de seguros pode iniciar a sua actividade em livre prestação de serviços a partir da data em que for comprovadamente notificada, nos termos do n.º 2 do artigo 60.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 64.º — Alterações
+
+As alterações do conteúdo da notificação referida no artigo 59.º regulam-se pelas disposições aplicáveis da presente secção.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+#### Secção II — Livre prestação de serviços em Portugal por empresas de seguros com sede no território de outros Estados membros
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 65.º — Contribuição obrigatória
+
+As empresas de seguros que operem em Portugal em livre prestação de serviços devem vincular-se e contribuir nas mesmas condições das empresas autorizadas, ao abrigo deste diploma, para qualquer regime destinado a assegurar o pagamento de indemnizações a segurados e terceiros lesados, nomeadamente quanto aos riscos referidos nos n.os 1), alínea a), e 10), excluindo a responsabilidade do transportador, do artigo 123.º, assegurando as contribuições legalmente previstas para o FAT e para o FGA.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 66.º — Representante
+
+1 - As empresas de seguros que pretendam cobrir, em livre prestação de serviços, no território português, riscos cuja cobertura seja obrigatória, nos termos da lei, deverão comunicar ao Instituto de Seguros de Portugal o nome e a morada de um representante residente habitualmente em Portugal que reúna todas as informações necessárias relacionadas com os processos de indemnização e a quem devem ser conferidos poderes suficientes para representar a empresa junto dos sinistrados que possam reclamar uma indemnização, incluindo o respectivo pagamento, e para a representar ou, se necessário, para a fazer representar perante os tribunais e autoridades portuguesas no que respeita aos mencionados pedidos de indemnização.
+
+2 - O representante referido no número anterior deve ainda dispor de poderes para representar a empresa, perante o Instituto de Seguros de Portugal, no que se refere ao controlo da existência e validade das apólices de seguro.
+
+3 - (Revogado).
+
+4 - Se a empresa de seguros não tiver designado o representante referido nos números anteriores, as suas funções são assumidas pelo representante designado em Portugal pela empresa de seguros para o tratamento e a regularização no país de residência da vítima dos sinistros ocorridos num Estado distinto do da residência desta.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 94.º do/a [Decreto-Lei n.º 291/2007 - Diário da República n.º 160/2007, Série I de 2007-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-2007-640637), em vigor a partir de 2007-10-20
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72-A/2003 - Diário da República n.º 88/2003, 1º Suplemento, Série I-A de 2003-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-2003-315884), em vigor a partir de 2003-04-19, produz efeitos a partir de 2003-01-20
+
+###### Artigo 67.º — Declaração
+
+As empresas de seguros referidas no artigo anterior que pretendam cobrir o risco referido na alínea a) do n.º 10) do artigo 123.º devem apresentar ao Instituto de Seguros de Portugal uma declaração, devidamente redigida em língua portuguesa, comprovativa de que a empresa se tornou membro do Gabinete Português da Carta Verde e que assegurará as contribuições para o FGA, bem como um compromisso de que fornecerá os elementos necessários que permitam, ao organismo competente, conhecer, no prazo de 10 dias, o nome da seguradora de um veículo implicado num acidente.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+#### Secção III — Livre prestação de serviços no território de outros Estados membros por empresas de resseguros com sede em Portugal
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 67.º-A — Notificação de livre prestação de serviços por empresas de resseguros
+
+As empresas de resseguros com sede em Portugal que pretendam iniciar o exercício das suas actividades em livre prestação de serviços no território de outro ou outros Estados membros é aplicável, com as devidas adaptações, o regime previsto no artigo 59.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+## Título III — Condições de exercício da actividade seguradora e resseguradora
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+### Capítulo I — Garantias prudenciais das empresas de seguros
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+#### Secção I — Garantias financeiras
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 68.º — Disposição geral
+
+1 - As empresas de seguros devem dispor, nos termos do presente diploma, das seguintes garantias financeiras: provisões técnicas, margem de solvência e fundo de garantia.
+
+2 - As empresas de seguros que explorem o ramo «Assistência» devem, sem prejuízo do disposto no número anterior, provar, de acordo com o que for estabelecido por norma do Instituto de Seguros de Portugal, que dispõem dos meios técnicos adequados para a efectivação das operações de assistência que se comprometam a garantir.
+
+3 - Os prémios dos novos contratos do ramo «Vida» devem ser suficientes, segundo critérios actuariais razoáveis, para permitir a empresa de seguros satisfazer o conjunto dos seus compromissos e, nomeadamente, constituir as provisões técnicas adequadas.
+
+4 - Para efeitos do referido no número anterior, podem ser tidos em conta todos os aspectos da situação financeira da empresa, sem que a inclusão de recursos alheios a esses prémios e seus proveitos tenha carácter sistemático e permanente, susceptível de pôr em causa, a prazo, a solvência da empresa.
+
+5 - Para efeitos da supervisão das respectivas garantias financeiras, não pode ser recusado um contrato de resseguro celebrado por uma empresa de seguros sediada em Portugal com uma empresa de seguros referida na alínea b) do n.º 1 do artigo 2.º ou com uma empresa de resseguros referida na alínea c) do n.º 1 do artigo 2.º, por razões directamente relacionadas com a solidez financeira dessa empresa de seguros ou de resseguros.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+#### Secção II — Provisões técnicas
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+##### Subsecção I — Caracterização e descrição
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 69.º — Caracterização
+
+1 - O montante das provisões técnicas deve, em qualquer momento, ser suficiente para permitir à empresa de seguros cumprir, na medida do razoavelmente previsível, os compromissos decorrentes dos contratos de seguro.
+
+2 - As empresas de seguros com sede em Portugal devem, para o conjunto da sua actividade, constituir e manter provisões técnicas suficientes, incluindo provisões matemáticas, calculadas:
+
+a) Em relação às responsabilidades decorrentes do exercício da sua actividade no território da União Europeia, incluindo as resultantes dos contratos celebrados em livre prestação de serviços, se for caso disso, nos termos dos artigos seguintes;
+
+b) Em relação às responsabilidades decorrentes do exercício da actividade fora do território da União Europeia, no caso de, pelas disposições legais em vigor em território português, não ser obrigatória a constituição de provisões técnicas de valor superior, nos termos das normas legislativas e regulamentares dos respectivos Estados.
+
+3 - As sucursais de empresas de seguros com sede fora do território da União Europeia devem constituir e manter provisões técnicas suficientes, incluindo provisões matemáticas, calculadas nos termos dos artigos seguintes, em relação às responsabilidades decorrentes do exercício da sua actividade em Portugal.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+###### Artigo 70.º — Tipos de provisões técnicas
+
+1 - Sem prejuízo do disposto no número seguinte, as provisões técnicas, a serem constituídas e mantidas pelas empresas de seguros, são:
+
+a) Provisão para prémios não adquiridos;
+
+b) Provisão para riscos em curso;
+
+c) Provisão para sinistros;
+
+d) Provisão para participação nos resultados;
+
+e) Provisão de seguros e operações do ramo «Vida»;
+
+f) Provisão para envelhecimento;
+
+g) Provisão para desvios de sinistralidade.
+
+2 - Podem ser criadas outras provisões técnicas por portaria do Ministro das Finanças, sob proposta do Instituto de Seguros de Portugal.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 71.º — Provisão para prémios não adquiridos
+
+A provisão para prémios não adquiridos deve incluir a parte dos prémios brutos emitidos, relativamente a cada um dos contratos de seguro em vigor, a imputar a um ou vários dos exercícios seguintes.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 11-D/98 - Diário da República n.º 148/1998, Suplemento n.º 2, Série I-A de 1998-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-d-1998-291197), em vigor a partir de 1998-04-22
+
+###### Artigo 72.º — Provisão para riscos em curso
+
+A provisão para riscos em curso corresponde ao montante necessário para fazer face a prováveis indemnizações e encargos a suportar após o termo do exercício e que excedam o valor dos prémios não adquiridos e dos prémios exigíveis relativos aos contratos em vigor.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 73.º — Provisão para sinistros
+
+A provisão para sinistros corresponde ao custo total estimado que a empresa de seguros suportará para regularizar todos os sinistros que tenham ocorrido até ao final do exercício, quer tenham sido comunicados ou não, após dedução dos montantes já pagos respeitantes a esses sinistros.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 74.º — Provisão para participação nos resultados
+
+A provisão para participação nos resultados inclui os montantes destinados aos segurados ou aos beneficiários dos contratos, sob a forma de participação nos resultados, desde que tais montantes não tenham sido já distribuídos, nomeadamente mediante inclusão nas provisões matemáticas.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 75.º — Provisão de seguros e operações do ramo «Vida»
+
+1 - A provisão de seguros e operações do ramo «Vida» deve representar o valor das responsabilidades da empresa de seguros líquido das responsabilidades do tomador do seguro, em relação a todos os seguros e operações do ramo «Vida», compreendendo:
+
+a) A provisão matemática;
+
+b) A provisão de seguros e operações do ramo «Vida» em que o risco de investimento é suportado pelo tomador do seguro;
+
+c) A provisão para compromissos de taxa;
+
+d) A provisão de estabilização de carteira.
+
+2 - Sem prejuízo do disposto no artigo 81.º, a provisão matemática corresponde ao valor actuarial estimado dos compromissos da empresa de seguros, incluindo as participações nos resultados já distribuídas e após dedução do valor actuarial dos prémios futuros.
+
+3 - O cálculo desta provisão é efectuado com base em métodos actuariais reconhecidos.
+
+4 - A provisão de seguros e operações do ramo «Vida» em que o risco de investimento é suportado pelo tomador do seguro será determinada em função dos activos afectos ou dos índices ou activos que tenham sido fixados como referência para determinar o valor das importâncias seguras.
+
+5 - Sempre que nos seguros e operações referidos no número anterior existam riscos que não sejam efectivamente assumidos pelo tomador do seguro, deverá ser constituída para esses riscos a respectiva provisão matemática e, se for caso disso, a provisão para compromissos de taxa.
+
+6 - A provisão matemática referida no número anterior deverá ser constituída, nomeadamente, para cobrir os riscos de mortalidade, as despesas administrativas, as prestações garantidas na data de vencimento ou os valores de resgate garantidos.
+
+7 - A provisão para compromissos de taxa deve ser constituída relativamente a todos os seguros e operações do ramo «Vida» em que exista uma garantia de taxa de juro, sempre que se verifique uma das situações previstas nos n.os 7 e 8 do artigo 82.º
+
+8 - A provisão de estabilização de carteira deve ser constituída relativamente aos contratos de seguro de grupo, anuais renováveis, garantindo como cobertura principal o risco de morte, com vista a fazer face ao agravamento do risco inerente à progressão da média etária do grupo seguro, sempre que aqueles sejam tarifados com base numa taxa única, a qual, por compromisso contratual, se deva manter por um certo prazo.
+
+- A provisão referida no número anterior é igualmente constituída relativamente aos riscos complementares em idênticas circunstâncias.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 75.º-A — Outras provisões a constituir para os seguros e operações do ramo «Vida»
+
+No que diz respeito aos seguros e operações do ramo «Vida», as empresas de seguros devem ainda constituir:
+
+a) A provisão para prémios não adquiridos e a provisão para riscos em curso, no caso dos seguros e operações cujo período de cobertura seja igual ou inferior a um ano;
+
+b) A provisão para sinistros, incluindo a provisão para sinistros ocorridos mas não declarados;
+
+c) A provisão para participação nos resultados.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 76.º — Provisão para envelhecimento
+
+A provisão para envelhecimento deve ser constituída para o seguro de doença praticado segundo a técnica do seguro de vida, sendo-lhe aplicáveis, com as necessárias adaptações, as disposições dos n.os 2 e 3 do artigo 75.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 77.º — Provisão para desvios de sinistralidade
+
+1 - A provisão para desvios de sinistralidade destina-se a fazer face a sinistralidade excepcionalmente elevada nos ramos de seguros em que, pela sua natureza, se preveja que aquela tenha maiores oscilações.
+
+2 - Esta provisão deve ser constituída para o seguro de crédito, seguro de caução, seguro de colheitas, risco de fenómenos sísmicos e resseguro aceite - risco atómico.
+
+3 - Por portaria do Ministro das Finanças, sob proposta do Instituto de Seguros de Portugal, a provisão para desvios de sinistralidade pode ser alargada a outros ramos de seguro.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+##### Subsecção II — Método de cálculo
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 78.º — Cálculo das provisões técnicas
+
+As provisões técnicas serão calculadas nos termos do presente diploma e de acordo com os métodos, regras e princípios que vierem a ser fixados por norma do Instituto de Seguros de Portugal.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 79.º — Cálculo da provisão para prémios não adquiridos
+
+1 - A provisão para prémios não adquiridos deve, sem prejuízo do disposto nos números seguintes, ser calculada contrato a contrato pro rata temporis.
+
+2 - Nos ramos ou modalidades de seguros nos quais o ciclo do risco não permita aplicar o método pro rata temporis deverão aplicar-se métodos de cálculo que tenham em conta a diversidade da evolução do risco no tempo.
+
+3 - As empresas de seguros, mediante comunicação ao Instituto de Seguros de Portugal, poderão utilizar métodos estatísticos, e, em particular, métodos proporcionais ou globais, no pressuposto de que estes métodos conduzam aproximadamente a resultados idênticos aos dos cálculos individuais.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 79.º-A — Cálculo da provisão para riscos em curso
+
+A provisão para riscos em curso deve ser calculada, nos termos estabelecidos por norma do Instituto de Seguros de Portugal, com base nos sinistros e nos custos administrativos susceptíveis de ocorrer após o final do exercício e cobertos por contratos celebrados antes daquela data, desde que o montante estimado exceda a provisão para prémios não adquiridos e os prémios exigíveis relativos a esses contratos.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 80.º — Cálculo da provisão para sinistros
+
+1 - O montante da provisão em relação aos sinistros comunicados deve, sem prejuízo do disposto no número seguinte, ser calculado sinistro a sinistro.
+
+2 - As empresas de seguros, mediante comunicação ao Instituto de Seguros de Portugal, podem, em relação aos sinistros já comunicados mas ainda não regularizados e relativamente aos ramos ou modalidades em que tal se considere tecnicamente aconselhável, utilizar métodos estatísticos, desde que a provisão constituída seja suficiente, atendendo à natureza dos riscos.
+
+3 - O montante da provisão correspondente aos sinistros não comunicados à data do encerramento do exercício deve ser calculado tendo em conta a experiência do passado, no que se refere ao número e montante dos sinistros declarados após o encerramento do exercício.
+
+4 - As empresas de seguros devem comunicar ao Instituto de Seguros de Portugal o sistema de cálculo e formas de actualização da provisão referida no número anterior.
+
+5 - Quando, a título de um sinistro, tiverem de ser pagas indemnizações sob a forma de renda, os montantes a provisionar para este fim devem ser calculados com base em métodos actuariais reconhecidos, aplicando-se, com as necessárias adaptações, os princípios específicos do ramo «Vida».
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+##### Subsecção III — Princípios específicos do ramo «Vida»
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 81.º — Métodos de cálculo
+
+1 - As provisões técnicas do ramo «Vida» devem ser calculadas segundo um método actuarial prospectivo suficientemente prudente que, tendo em atenção os prémios futuros a receber, tome em conta todas as obrigações futuras de acordo com as condições fixadas para cada contrato em curso e, nomeadamente:
+
+a) Todas as prestações garantidas, incluindo os valores de resgate garantidos;
+
+b) As participações nos resultados a que os beneficiários e os segurados já têm colectiva ou individualmente direito, qualquer que seja a qualificação dessas participações adquiridas, declaradas ou concedidas;
+
+c) Todas as opções a que o segurado ou beneficiário tem direito de acordo com as condições do contrato;
+
+d) Os encargos da empresa, incluindo as comissões.
+
+2 - Pode ser utilizado um método retrospectivo caso seja possível demonstrar que as provisões técnicas resultantes deste método não são inferiores às resultantes de um método prospectivo suficientemente prudente ou caso não seja possível aplicar para o tipo de contrato em causa o método prospectivo.
+
+3 - Uma avaliação prudente tem de tomar em conta uma margem razoável para variações desfavoráveis dos diferentes factores, não podendo basear-se exclusivamente nas hipóteses consideradas mais prováveis.
+
+4 - O método de avaliação das provisões técnicas deve ser prudente e tomar em consideração o método de avaliação dos activos representativos dessas provisões.
+
+5 - As provisões técnicas devem ser calculadas separadamente para cada contrato, sem prejuízo da possibilidade de utilização de aproximações razoáveis ou de generalizações, quando as mesmas conduzam, aproximadamente, a resultados equivalentes aos cálculos individuais.
+
+6 - O princípio do cálculo individual mencionado no número anterior não obsta à constituição de provisões suplementares para os riscos gerais que não sejam individualizados.
+
+7 - Sempre que o valor de resgate de um contrato esteja garantido, o montante das provisões matemáticas para esse contrato deve ser sempre, pelo menos, igual ao valor garantido nesse momento.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 82.º — Taxa técnica de juro
+
+1 - A taxa técnica de juro a utilizar no cálculo da provisão matemática do ramo «Vida» deve ser escolhida de forma prudente, tendo em consideração a natureza e a maturidade dos compromissos assumidos, bem como os activos em que a empresa de seguros se propõe investir os valores correspondentes àquela provisão.
+
+2 - Sem prejuízo do disposto nos n.os 3, 4 e 5, para os contratos que incluem uma garantia de taxa de juro, o Instituto de Seguros de Portugal fixará, por norma regulamentar, uma taxa de juro máxima que pode variar consoante a divisa em que o contrato estiver expresso.
+
+3 - A fixação de uma taxa de juro máxima não impede que a empresa de seguros utilize uma taxa mais baixa.
+
+4 - Nas situações em que a empresa de seguros efectue o investimento autónomo das provisões matemáticas, afectando aplicações a determinados contratos de seguro, a taxa técnica de juro a utilizar no cálculo da provisão matemática do ramo «Vida» pode ser determinada em função da rendibilidade dessas aplicações, desde que sejam cumpridas as margens e os requisitos estabelecidos por norma regulamentar do Instituto de Seguros de Portugal.
+
+5 - A taxa máxima referida no n.º 2 pode, nos termos regulamentares, não se aplicar ainda às seguintes categorias de contratos:
+
+a) Contratos de seguros e operações ligados a fundos de investimento;
+
+b) Contratos de prémio único com uma duração máxima de oito anos;
+
+c) Contratos sem participação nos resultados.
+
+Nos casos referidos nas últimas duas alíneas, ao escolher uma taxa de juro prudente, pode tomar-se em conta a moeda em que o contrato está expresso e os activos correspondentes em carteira nessa data, bem como o rendimento previsível dos activos futuros.
+
+A taxa de juro utilizada nunca pode ser superior ao rendimento dos activos, calculado segundo as regras de contabilidade para a actividade seguradora, após dedução adequada.
+
+6 - A taxa máxima fixada nos termos do n.º 2 será notificada à Comissão Europeia e às autoridades competentes dos Estados-Membros que o solicitarem.
+
+7 - Se, num determinado exercício, a taxa de rendibilidade efectiva das aplicações que se encontram a representar as provisões matemáticas do ramo «Vida», com excepção daquelas que estão especificamente afectas a determinados contratos de seguro, for inferior à taxa técnica de juro média ponderada utilizada na determinação das provisões matemáticas dos produtos sem a citada afectação específica, a empresa de seguros deve constituir nas suas contas uma provisão técnica adicional, nos termos a definir por norma regulamentar do Instituto de Seguros de Portugal.
+
+8 - De igual modo, se uma empresa de seguros não cumprir as margens e os requisitos que permitem a aplicação do disposto no n.º 4, haverá lugar à constituição de uma provisão técnica adicional, nos termos a definir por norma regulamentar do Instituto de Seguros de Portugal.
+
+9 - A provisão técnica adicional referida nos n.os 7 e 8, denominada provisão para compromissos de taxa, deve ser incluída na provisão de seguros e operações do ramo «Vida», sendo globalmente calculada para os seguros e operações do ramo «Vida» a que diga respeito.
+
+10 - O disposto nos n.os 7 e 8 não se aplicará se a empresa de seguros demonstrar, com base em critérios razoáveis e prudentes e na situação real da sua carteira de activos e responsabilidades, que a rendibilidade a obter no exercício em curso e nos seguintes será suficiente para garantir os compromissos assumidos.
+
+11 - Os princípios constantes dos números anteriores aplicam-se, com as devidas adaptações, a todos os seguros relativamente aos quais sejam constituídas provisões matemáticas, nos termos da lei em vigor.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 83.º — Elementos estatísticos e encargos
+
+Os elementos estatísticos de avaliação e, bem assim, os correspondentes aos encargos, devem ser escolhidos de forma prudente, tendo em atenção o Estado membro do compromisso, o tipo de apólice, bem como os encargos administrativos e as comissões previstas.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 11-D/98 - Diário da República n.º 148/1998, Suplemento n.º 2, Série I-A de 1998-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-d-1998-291197), em vigor a partir de 1998-04-22
+
+###### Artigo 84.º — Participação nos resultados
+
+Relativamente aos contratos com participação nos resultados, o método de avaliação das provisões técnicas pode tomar em consideração, de forma implícita ou explícita, todos os tipos de participações futuras nos resultados, de modo coerente com as outras hipóteses sobre a evolução futura e com o método actual de participação nos resultados.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 85.º — Encargos futuros
+
+A provisão para encargos futuros pode ser implícita, tomando em consideração, nomeadamente, os prémios futuros líquidos dos encargos de gestão, não devendo, porém, a provisão total implícita ou explícita ser inferior à provisão que uma avaliação prudente teria determinado.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 86.º — Continuidade do método
+
+O método de cálculo das provisões técnicas não deve ser alterado anualmente, de maneira descontínua, na sequência de alterações arbitrárias no método ou nos elementos de cálculo e deve permitir que a participação nos resultados seja calculada de maneira razoável durante o prazo de validade do contrato.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 87.º — Transparência
+
+As empresas de seguros devem pôr à disposição do público as bases e os métodos utilizados no cálculo das provisões técnicas, incluindo das provisões constituídas para participação nos resultados.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+##### Subsecção IV — Representação e caucionamento
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 88.º — Representação das provisões técnicas
+
+1 - As provisões técnicas, incluindo as provisões matemáticas, devem, a qualquer momento, ser representadas na sua totalidade por activos equivalentes, móveis ou imóveis, e congruentes.
+
+2 - Os activos referidos no número anterior devem estar obrigatoriamente localizados:
+
+a) Em qualquer parte do território da União Europeia, no que respeita às
+
+actividades aí exercidas pelas empresas de seguros com sede em Portugal;
+
+b) Em qualquer parte do território da União Europeia ou no território do Estado não membro da União em que estiverem estabelecidas, no que respeita às actividades neste exercidas pelas empresas de seguros com sede em Portugal;
+
+c) Em território português, no que respeita às actividades aí exercidas pelas sucursais das empresas de seguros com sede fora do território da União Europeia.
+
+3 - Os activos representativos das provisões técnicas constituem um património especial que garante especialmente os créditos emergentes dos contratos de seguro, não podendo ser penhorados ou arrestados, salvo para pagamento desses mesmos créditos.
+
+4 - Os activos referidos no número anterior não podem, em caso algum, ser oferecidos a terceiros, para garantia, qualquer que seja a forma jurídica a assumir por essa garantia.
+
+5 - Em caso de liquidação, os créditos referidos no n.º 3 gozam de um privilégio mobiliário especial sobre os bens móveis ou imóveis que representem as provisões técnicas, sendo graduados em primeiro lugar.
+
+6 - Os activos referidos no n.º 3 serão avaliados líquidos das dívidas contraídas para a sua aquisição.
+
+7 - As empresas de seguros devem efectuar o inventário permanente dos activos representativos das provisões técnicas.
+
+8 - Devem ser depositados em contas próprias junto de estabelecimentos de crédito os activos representativos das provisões técnicas susceptíveis de depósito.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+###### Artigo 89.º — Valorimetria dos activos
+
+Os critérios de valorimetria dos activos representativos das provisões técnicas são fixados pelo Instituto de Seguros de Portugal.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 90.º — Constituição dos activos
+
+1 - A natureza dos activos representativos das provisões técnicas, os respectivos limites percentuais, bem como os princípios gerais da congruência e da avaliação desses activos, são fixados por norma do Instituto de Seguros de Portugal.
+
+2 - As empresas de seguros, na constituição dos activos representativos das suas provisões técnicas, devem ter em conta o tipo de operações que efectuam de modo a garantir a segurança, o rendimento e a liquidez dos respectivos investimentos, assegurando uma diversificação e dispersão prudentes dessas aplicações.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 91.º — Comunicação ao Instituto de Seguros de Portugal
+
+1 - A representação das provisões técnicas deve ser comunicada ao Instituto de Seguros de Portugal, até 31 de Março de cada ano, com base na situação da empresa de seguros no último dia do exercício imediatamente anterior, nos seguintes casos:
+
+a) Pelas empresas de seguros com sede em Portugal relativamente ao conjunto da sua actividade;
+
+b) Pelas sucursais de empresas de seguros com sede fora do território da Comunidade Europeia relativamente à actividade exercida em Portugal.
+
+2 - Sem prejuízo do disposto no número anterior, o Instituto de Seguros de Portugal pode, no âmbito das suas atribuições, determinar a apresentação de planos de representação relativos a outras datas.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 92.º — Caucionamento das provisões técnicas
+
+1 - As sucursais de empresas de seguros com sede fora do território da União Europeia devem caucionar à ordem do Instituto de Seguros de Portugal as provisões técnicas constituídas, calculadas e representadas de harmonia com o disposto na presente secção.
+
+2 - As sucursais referidas no número anterior que tenham as provisões técnicas, calculadas nos termos da presente secção, insuficientemente representadas podem efectuar depósitos em numerário na Caixa Geral de Depósitos, à ordem do Instituto de Seguros de Portugal.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+#### Secção III — Margem de solvência
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 93.º — Empresas de seguros com sede em Portugal
+
+1 - As empresas de seguros com sede em Portugal devem ter, em permanência, uma margem de solvência disponível suficiente em relação ao conjunto das suas actividades.
+
+2 - A margem de solvência disponível de uma empresa de seguros consiste no seu património, correspondente aos elementos referidos no n.º 1 do artigo 96.º e no n.º 1 do artigo 98.º, livre de toda e qualquer obrigação previsível e deduzido dos elementos incorpóreos.
+
+3 - A margem de solvência disponível pode igualmente ser constituída pelos elementos referidos no n.º 2 do artigo 96.º e no n.º 2 do artigo 98.º e, mediante autorização prévia do Instituto de Seguros de Portugal, pelos elementos referidos no n.º 3 do artigo 96.º e no n.º 3 do artigo 98.º
+
+4 - Para as actividades de resseguro aceite do ramo «Vida», a margem de solvência é determinada de acordo com o regime fixado nos n.os 1 a 3 do artigo 122.º-H e no artigo 122.º-I, desde que a empresa de seguros preencha uma das seguintes condições:
+
+a) Os prémios de resseguro aceite serem superiores a 10 % dos prémios totais;
+
+b) Os prémios de resseguro aceite serem superiores a (euro) 50 000 000;
+
+c) As provisões técnicas resultantes do resseguro aceite serem superiores a 10 % das provisões técnicas totais.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+###### Artigo 94.º — Sucursais de empresas de seguros com sede fora da União Europeia
+
+1 - As sucursais de empresas de seguros com sede fora do território da União Europeia devem ter, em permanência, uma margem de solvência disponível suficiente em relação ao conjunto da sua actividade em Portugal.
+
+2 - A margem de solvência disponível das sucursais referidas no número anterior é constituída por activos livres de toda e qualquer obrigação previsível e deduzidos dos elementos incorpóreos
+
+3 - Os activos correspondentes à margem de solvência disponível devem estar localizados em Portugal até à concorrência do fundo de garantia e, na parte excedente, no território da União Europeia.
+
+4 - Para as actividades de resseguro aceite do ramo «Vida», a margem de solvência é determinada de acordo com o regime fixado nos n.os 4 a 6 do artigo 122.º-H e no artigo 122.º-I, desde que a sucursal preencha uma das condições previstas no n.º 4 do artigo anterior.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+###### Artigo 95.º — Valorimetria
+
+1 - Os critérios de valorimetria dos activos correspondentes à margem de solvência disponível são fixados pelo Instituto de Seguros de Portugal.
+
+2 - O Instituto de Seguros de Portugal pode, em casos devidamente justificados, reavaliar para valores inferiores todos os elementos elegíveis para efeitos da margem de solvência disponível, em especial, se se verificar uma alteração significativa do valor de mercado destes elementos desde o final do último exercício.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+###### Artigo 96.º — Margem de solvência disponível relativa aos ramos 'Não vida'
+
+1 - Para efeitos da margem de solvência disponível, no que respeita a todos os ramos de seguros «Não vida», o património das empresas de seguros com sede em Portugal compreende:
+
+a) O capital social realizado ou, nas mútuas de seguros, o fundo inicial ou capital de garantia efectivamente realizado, acrescido das contas dos associados que satisfaçam cumulativamente os seguintes critérios:
+
+i) Estipulação nos estatutos que o pagamento aos associados a partir dessas contas só pode ser efectuado desde que tal pagamento não origine a descida da margem de solvência disponível abaixo do nível exigido ou, após a dissolução da empresa, se todas as outras dívidas da empresa tiverem sido liquidadas;
+
+ii) Estipulação nos estatutos que os pagamentos referidos na alínea anterior, efectuados por outras razões além da rescisão individual de filiação, são notificados ao Instituto de Seguros de Portugal com a antecedência mínima de um mês e podem, durante esse período, ser proibidos;
+
+iii) Estipulação nos estatutos que as respectivas disposições sobre esta matéria, só podem ser alteradas se não houver objecções do Instituto de Seguros de Portugal, sem prejuízo dos critérios referidos.
+
+b) Os prémios de emissão, as reservas de reavaliação e quaisquer outras reservas, legais ou livres, não representativas de qualquer compromisso;
+
+c) O saldo de ganhos e perdas, deduzido de eventuais distribuições.
+
+2 - A margem de solvência disponível pode igualmente ser constituída pelos seguintes elementos:
+
+a) Acções preferenciais e empréstimos subordinados, até ao limite de 50 % da margem de solvência disponível ou da margem de solvência exigida, consoante a que for menor, admitindo-se, até ao limite de 25 % desta margem, empréstimos subordinados com prazo fixo ou acções preferenciais com duração determinada, desde que:
+
+i) Em caso de falência ou liquidação da empresa, existam acordos vinculativos nos termos dos quais os empréstimos subordinados ou as acções preferenciais ocupem uma categoria inferior em relação aos créditos de todos os outros credores e só sejam reembolsados após a liquidação de todas as outras dívidas da empresa;
+
+ii) Um exemplar dos contratos de empréstimos subordinados seja entregue ao Instituto de Seguros de Portugal previamente à sua assinatura;
+
+iii) Os empréstimos subordinados preencham ainda as seguintes condições:
+
+(1) Consideração, apenas dos fundos efectivamente recebidos;
+
+(2) Fixação do prazo inicial para os empréstimos a prazo fixo em, pelo menos, cinco anos, devendo a empresa de seguros apresentar ao Instituto de Seguros de Portugal, para aprovação, o mais tardar um ano antes do termo do prazo, um plano indicando a forma como a margem de solvência disponível será mantida ou colocada ao nível desejado no termo do prazo, a menos que o montante até ao qual o empréstimo pode ser incluído nos elementos da mencionada margem seja progressivamente reduzido durante, pelo menos, os cinco últimos anos anteriores à data do vencimento, podendo o Instituto de Seguros de Portugal autorizar o reembolso antecipado desses fundos, desde que o pedido tenha sido feito pela empresa de seguros emitente e que a sua margem de solvência disponível não desça abaixo do nível exigido;
+
+(3) Reembolso, não estando fixada data de vencimento da dívida para os empréstimos, mediante um pré-aviso de cinco anos, a menos que tenham deixado de ser considerados elementos da margem de solvência disponível ou que haja acordo prévio do Instituto de Seguros de Portugal para o reembolso antecipado, caso em que a empresa de seguros informará este Instituto, pelo menos seis meses antes da data do reembolso, indicando a margem de solvência disponível e a margem de solvência exigida antes e depois do reembolso, só devendo o referido Instituto autorizá-lo se a margem de solvência disponível não descer abaixo do nível exigido;
+
+(4) Não inclusão, no contrato de empréstimo, de cláusulas que estabeleçam, em circunstâncias determinadas, o reembolso da dívida antes da data acordada para o seu vencimento, excepto em caso de liquidação da empresa de seguros;
+
+(5) Alteração do contrato de empréstimo apenas com autorização do Instituto de Seguros de Portugal.
+
+b) Títulos de duração indeterminada e outros instrumentos, incluindo as acções preferenciais não abrangidas pela alínea anterior, num máximo de 50 % da margem de solvência disponível ou da margem de solvência exigida, consoante a que for menor, para o total desses títulos e dos empréstimos subordinados também referidos na alínea anterior, desde que preencham as seguintes condições:
+
+i) Não serem reembolsáveis por iniciativa do portador ou sem autorização prévia do Instituto de Seguros de Portugal;
+
+ii) Permitirem o diferimento do pagamento dos juros do empréstimo conferido à empresa de seguros pelo contrato de emissão;
+
+iii) Preverem a total subordinação dos créditos do mutuante sobre a empresa de seguros aos créditos de todos os credores não subordinados;
+
+iv) Conterem, nos documentos que regulam a emissão dos títulos, a previsão da capacidade da dívida e dos juros não pagos para absorver os prejuízos, permitindo, em simultâneo, a continuação da actividade da empresa de seguros;
+
+v) Preverem a relevância exclusiva, para este efeito, dos montantes efectivamente pagos.
+
+3 - Mediante pedido devidamente fundamentado da empresa de seguros, o Instituto de Seguros de Portugal pode autorizar que a margem de solvência disponível inclua igualmente:
+
+a) Metade da parte do capital social ou, nas mútuas de seguros, do fundo inicial ou capital de garantia, ainda não realizado, desde que a parte realizada atinja, pelo menos, 25 % do valor do capital social, ou do fundo inicial ou capital de garantia, até ao limite de 50 % da margem de solvência disponível ou da margem de solvência exigida, consoante a que for menor;
+
+b) Os reforços de quotizações que as mútuas de seguros e as empresas sob a forma mútua de quotizações variáveis podem exigir aos seus associados no decurso do exercício, até ao limite máximo de metade da diferença entre as quotizações máximas e as quotizações efectivamente exigidas, desde que esses reforços não representem mais de 50 % da margem de solvência disponível ou da margem de solvência exigida, consoante a que for menor;
+
+c) As mais-valias, não incluídas na reserva de reavaliação, que não tenham carácter excepcional e que resultem da avaliação de elementos do activo.
+
+4 - Para efeitos da determinação da margem de solvência disponível devem ser deduzidos aos elementos referidos nos números anteriores os montantes referentes a:
+
+a) Acções próprias directamente detidas pela empresa de seguros;
+
+b) Imobilizado incorpóreo;
+
+c) Menos-valias, não incluídas na reserva de reavaliação, que não tenham carácter excepcional e que resultem da avaliação de elementos do activo;
+
+d) Participações, na acepção da alínea g) do artigo 172.º-A, detidas pela empresa de seguros:
+
+i) Em empresas de seguros na acepção das alíneas a) e b) do artigo 172.º-A;
+
+ii) Em empresas de resseguros na acepção das alíneas c) e d) do artigo 172.º-A;
+
+iii) Em sociedades gestoras de participações no sector dos seguros na acepção da alínea j) do artigo 172.º-A;
+
+iv) Em instituições de crédito, sociedades financeiras e instituições financeiras na acepção, respectivamente, dos artigos 2.º, 5.º e 13.º, n.º 4, do Regime Geral das Instituições de Crédito e Sociedades Financeiras;
+
+v) Em empresas de investimento na acepção do n.º 4 do artigo 199.º-A do referido Regime Geral das Instituições de Crédito e Sociedades Financeiras;
+
+e) Os instrumentos referidos no n.º 2 que a empresa de seguros detenha relativamente às entidades definidas na alínea anterior em que detém uma participação;
+
+f) Os empréstimos subordinados e os instrumentos referidos nos n.os 8), 9), 11), 12) e 13) do n.º 3 do aviso do Banco de Portugal n.º 12/92, publicado no Diário da República, 2.ª série, n.º 299, de 29 de Dezembro de 1992, que a empresa de seguros detenha relativamente às entidades definidas na alínea d) em que detém uma participação;
+
+g) Responsabilidades previsíveis que, nos termos de norma regulamentar, o Instituto de Seguros de Portugal considere que não se encontram, para esse efeito, adequadamente reflectidas nas contas da empresa de seguros.
+
+5 - Sempre que haja detenção temporária de acções de uma outra instituição de crédito, empresa de investimento, sociedade financeira, instituição financeira, empresa de seguros ou de resseguros ou sociedade gestora de participações no sector dos seguros para efeitos de uma operação de assistência financeira destinada a sanear e recuperar essa entidade, o Instituto de Seguros de Portugal pode autorizar derrogações às disposições em matéria de dedução a que se referem as alíneas d) a f) do número anterior.
+
+6 - Em alternativa à dedução dos elementos previstos nas alíneas d) a f) do n.º 4, o Instituto de Seguros de Portugal pode autorizar que a empresa de seguros efectue, com as devidas adaptações, o cálculo da adequação de fundos próprios previsto no artigo 11.º do decreto-lei que transpõe a Directiva n.º 2002/87/CE, do Parlamento Europeu e do Conselho, de 16 de Dezembro, relativa à supervisão complementar de instituições de crédito, empresas de seguros e empresas de investimento de um conglomerado financeiro.
+
+7 - A opção prevista no número anterior, assim como a forma de cálculo da adequação de fundos próprios, deve ser aplicada de modo consistente ao longo do tempo.
+
+8 - A dedução dos elementos previstos nas alíneas d) a f) do n.º 4 não tem de ser efectuada sempre que a empresa de seguros esteja sujeita à supervisão complementar ao nível do grupo de seguros ou à supervisão complementar ao nível do conglomerado financeiro.
+
+9 - Para efeitos de determinação da margem de solvência disponível o Instituto de Seguros de Portugal pode ainda deduzir aos elementos referidos nos n.os 1 a 3 os montantes referentes a subavaliações de elementos do passivo, decorrentes de uma aplicação inadequada da regulamentação em vigor.
+
+10 - Para as sucursais com sede fora do território da União Europeia, a margem de solvência disponível relativa aos ramos «Não vida» compreende:
+
+a) As reservas, legais e livres, incluindo as reservas de reavaliação, não representativas de qualquer compromisso;
+
+b) O saldo de ganhos e perdas, deduzido de eventuais transferências;
+
+c) Os empréstimos subordinados, nos termos e condições referidos na alínea a) do n.º 2;
+
+d) Os títulos de duração indeterminada e outros instrumentos, com exclusão de todas e quaisquer acções preferenciais, nos termos e condições da alínea b) do n.º 2;
+
+e) Mediante autorização prévia do Instituto de Seguros de Portugal, as mais-valias, não incluídas na reserva de reavaliação, que não tenham carácter excepcional e que resultem da avaliação de elementos do activo, desde que devidamente fundamentadas pela sucursal.
+
+11 - Para efeitos da determinação da margem de solvência disponível das sucursais com sede fora do território da União Europeia devem ser deduzidos aos elementos referidos no número anterior os montantes mencionados nas alíneas b) a g) do n.º 4 e no n.º 5, aplicando-se igualmente o disposto nos n.os 6 a 9.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 145/2006 - Diário da República n.º 146/2006, Série I de 2006-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2006-539387), em vigor a partir de 2006-08-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 97.º — Determinação da margem de solvência exigida para os ramos «Não vida»
+
+1 - A margem de solvência exigida, no que respeita a todos os ramos de seguros «Não vida», é calculada em relação ao montante anual dos prémios ou ao valor médio anual dos custos com sinistros nos três últimos exercícios, devendo o seu valor ser igual ao mais elevado dos resultados obtidos pela aplicação de dois métodos distintos descritos nos números seguintes.
+
+2 - O primeiro método referido no número anterior baseia-se no montante anual dos prémios e corresponde ao valor mais elevado entre os prémios brutos emitidos e os prémios adquiridos e traduz-se na aplicação da seguinte fórmula de cálculo:
+
+a) Ao volume global dos prémios de seguro directo e de resseguro aceite do último exercício, deduz-se o valor dos impostos e demais taxas que incidiram sobre esses prémios e que foram considerados nas contas de ganhos e perdas da empresa de seguros;
+
+b) Divide-se o montante assim obtido em duas parcelas, em que a primeira vai até (euro) 50 000 000 e a segunda abrange o excedente, adicionando-se 18 % do valor da primeira parcela e 16 % do valor da segunda;
+
+c) Multiplica-se o valor obtido nos termos da alínea anterior pela relação existente, relativamente à soma dos três últimos exercícios, entre o montante dos custos com sinistros a cargo da empresa de seguros após a cessão em resseguro e o montante total dos custos com sinistros, não podendo, no entanto, essa relação ser inferior a 50 %.
+
+3 - O segundo dos métodos referidos no n.º 1 baseia-se na média dos valores dos custos com sinistros dos três últimos exercícios e traduz-se na aplicação da seguinte fórmula de cálculo:
+
+a) Adicionam-se o valor global dos sinistros pagos em seguro directo (sem dedução do valor suportado pelos cessionários ou retrocessionários) e o valor global dos sinistros pagos em resseguro aceite ou em retrocessão referentes aos três últimos exercícios;
+
+b) Soma-se o montante global das provisões para sinistros em seguro directo e em resseguro aceite, constituídas no último exercício;
+
+c) Deduz-se o valor global dos reembolsos efectivamente recebidos nos três últimos exercícios;
+
+d) Deduz-se o valor global das provisões para sinistros em seguro directo e em resseguro aceite, constituídas no início do segundo exercício anterior ao último exercício encerrado;
+
+e) Divide-se um terço do montante obtido em duas parcelas, em que a primeira vai até (euro) 35 000 000 e a segunda abrange o excedente, adicionando-se 26 % do valor da primeira parcela e 23 % do valor da segunda;
+
+f) Multiplica-se o valor obtido nos termos da alínea anterior pela relação existente, relativamente à soma dos três últimos exercícios, entre o montante dos custos com sinistros a cargo da empresa de seguros após a cessão em resseguro e o montante total dos custos com sinistros, não podendo, no entanto, essa relação ser inferior a 50 %.
+
+4 - Quando uma empresa de seguros explore, primordialmente, apenas um ou vários dos riscos de crédito, tempestade, granizo ou geada, o período de referência para o valor médio anual dos custos com sinistros, referido na alínea c) do n.º 2 e no n.º 3, é reportado aos sete últimos exercícios.
+
+5 - Na aplicação dos métodos descritos nos n.os 2 e 3 os prémios e a média dos valores dos custos com sinistros dos três últimos exercícios relativos aos ramos referidos nos n.os 11, 12 e 13 do artigo 123.º serão majorados em 50 %.
+
+6 - O factor de redução por efeito do resseguro, referido nas alíneas c) do n.º 2 e f) do n.º 3, pode ser diminuído por determinação do Instituto de Seguros de Portugal, quando se verificar que uma empresa de seguros alterou, de modo significativo e desde o último exercício, a natureza e fiabilidade dos contratos de resseguro, ou for insignificante ou mesmo inexistente, ao abrigo dos contratos de resseguro estabelecidos, a transferência de risco para os resseguradores.
+
+7 - Mediante pedido devidamente fundamentado da empresa de seguros, o Instituto de Seguros de Portugal pode autorizar que os montantes recuperáveis das entidades com objecto específico de titularização de riscos de seguros sejam deduzidos a título de resseguro para efeitos do cálculo referido nas alíneas c) do n.º 2 e f) do n.º 3.
+
+8 - As percentagens aplicáveis às parcelas referidas na alínea b) do n.º 2 e na alínea e) do n.º 3 serão reduzidas para um terço no que se respeita ao seguro de doença praticado segundo a técnica do seguro de vida se, cumulativamente:
+
+a) Os prémios recebidos forem calculados com base em tabelas de morbidez;
+
+b) For constituída uma provisão para envelhecimento;
+
+c) For cobrado um prémio adicional para constituir uma margem de segurança de montante apropriado;
+
+d) A empresa puder, o mais tardar até ao final do terceiro ano de vigência do contrato, proceder à sua denúncia;
+
+e) O contrato prever a possibilidade de aumentar os prémios ou reduzir as prestações, mesmo para os contratos em curso.
+
+9 - Quando a margem de solvência exigida, calculada de acordo com o disposto nos números anteriores, for inferior à margem de solvência exigida do ano precedente, a exigência de margem a considerar deverá corresponder, pelo menos, ao montante resultante da multiplicação da margem de solvência exigida do ano precedente pela relação existente entre o montante das provisões para sinistros, líquidas de resseguro, no final e no início do último exercício, não podendo, no entanto, esse rácio ser superior a um.
+
+10 - Os limiares previstos nas alíneas b) do n.º 2 e e) do n.º 3 são revistos anualmente tendo por base a evolução verificada no índice geral de preços no consumidor para todos os Estados membros publicado pelo Eurostat, e arredondados para um valor múltiplo de (euro) 100 000, sempre que a taxa de variação verificada desde a última revisão seja igual ou superior a 5 %, competindo ao Instituto de Seguros de Portugal proceder à sua divulgação.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 98.º — Margem de solvência disponível relativa ao ramo «Vida»
+
+1 - Para efeitos da margem de solvência disponível, no que respeita ao ramo "Vida", o património das empresas de seguros com sede em Portugal compreende:
+
+a) O capital social realizado ou, nas mútuas de seguros, o fundo inicial ou capital de garantia efectivamente realizado, acrescido das contas dos associados que satisfaçam cumulativamente os critérios referidos na alínea a) do n.º 1 do artigo 96.º;
+
+b) As reservas, legais e livres, incluindo as reservas de reavaliação, não representativas de qualquer compromisso;
+
+c) O saldo de ganhos e perdas, deduzido de eventuais distribuições.
+
+2 - A margem de solvência disponível pode igualmente ser constituída pelos seguintes elementos:
+
+a) As acções preferenciais e os empréstimos subordinados, nos termos e condições referidos na alínea a) do n.º 2 do artigo 96.º;
+
+b) Os títulos de duração indeterminada e outros instrumentos, nos termos e condições referidos na alínea b) do n.º 2 do artigo 96.º
+
+3 - Mediante pedido devidamente fundamentado da empresa de seguros, o Instituto de Seguros de Portugal pode autorizar que a margem de solvência disponível inclua igualmente:
+
+a) Até 31 de Dezembro de 2009, um montante correspondente a 50 % dos lucros futuros da empresa, mas não superior a 10 % da margem de solvência exigida ou da margem de solvência disponível, consoante a que for menor, desde que sejam respeitadas as seguintes condições:
+
+i) Montante dos lucros futuros determinado pela multiplicação do lucro anual previsível, estimado em valor não superior à média aritmética dos lucros obtidos nos últimos cinco exercícios com referência ao ramo "Vida", por um factor, não superior a 6, representativo da duração residual média dos contratos, sendo as bases de cálculo para a determinação do factor multiplicador e do lucro efectivamente obtido estabelecidas por norma regulamentar do Instituto de Seguros de Portugal;
+
+ii) Apresentação ao Instituto de Seguros de Portugal, para efeitos de autorização, do parecer do actuário responsável sobre a probabilidade de realização dos lucros no futuro, de acordo com o estabelecido por norma regulamentar do Instituto de Seguros de Portugal.
+
+b) As mais-valias, não incluídas na reserva de reavaliação, que não tenham carácter excepcional e que resultem da avaliação de elementos do activo;
+
+c) A diferença entre a provisão matemática não zillmerizada ou a parcialmente zillmerizada e uma provisão matemática zillmerizada, a uma taxa de zillmerização definida pelo Instituto de seguros de Portugal;
+
+d) Metade da parte do capital social ou, nas mútuas de seguros, do fundo inicial ou capital de garantia, ainda não realizado, desde que a parte realizada atinja, pelo menos, 25 % do valor do capital social, ou do fundo inicial ou capital de garantia, até ao limite de 50 % da margem de solvência disponível ou da margem de solvência exigida, consoante a que for menor.
+
+4 - Para efeitos da determinação da margem de solvência disponível devem ser deduzidos aos elementos referidos nos números anteriores os montantes referentes a:
+
+a) Acções próprias directamente detidas pela empresa de seguros;
+
+b) Imobilizado incorpóreo;
+
+c) Menos-valias, não incluídas na reserva de reavaliação, que não tenham carácter excepcional e que resultem da avaliação de elementos do activo;
+
+d) Participações, na acepção da alínea g) do artigo 172.º-A, detidas pela empresa de seguros:
+
+i) Em empresas de seguros na acepção das alíneas a) e b) do artigo 172.º-A;
+
+ii) Em empresas de resseguros na acepção das alíneas c) e d) do artigo 172.º-A;
+
+iii) Em sociedades gestoras de participações no sector dos seguros na acepção da alínea j) do artigo 172.º-A;
+
+iv) Em instituições de crédito, sociedades financeiras e instituições financeiras na acepção, respectivamente, dos artigos 2.º, 5.º e 13.º, n.º 4, do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro;
+
+v) Em empresas de investimento na acepção do n.º 4 do artigo 199.º-A do referido Regime Geral das Instituições de Crédito e Sociedades Financeiras;
+
+e) Os instrumentos referidos no n.º 2 que a empresa de seguros detenha relativamente às entidades definidas na alínea anterior em que detém uma participação;
+
+f) Os empréstimos subordinados e os instrumentos referidos nos n.os 8), 9), 11), 12) e 13) do n.º 3 do aviso do Banco de Portugal n.º 12/92, publicado no Diário da República, 2.ª série, n.º 299, de 29 de Dezembro de 1992, que a empresa de seguros detenha relativamente às entidades definidas na alínea d) em que detém uma participação;
+
+g) Responsabilidades previsíveis que, nos termos de norma regulamentar, o Instituto de Seguros de Portugal considere que não se encontram, para esse efeito, adequadamente reflectidas nas contas da empresa de seguros.
+
+5 - Sempre que haja detenção temporária de acções de uma outra instituição de crédito, empresa de investimento, sociedade financeira, instituição financeira, empresa de seguros ou de resseguros ou sociedade gestora de participações no sector dos seguros para efeitos de uma operação de assistência financeira destinada a sanear e recuperar essa entidade, o Instituto de Seguros de Portugal pode autorizar derrogações às disposições em matéria de dedução a que se referem as alíneas d) a f) do número anterior.
+
+6 - Em alternativa à dedução dos elementos previstos nas alíneas d) a f) do n.º 4, o Instituto de Seguros de Portugal pode autorizar que a empresa de seguros efectue, com as devidas adaptações, o cálculo da adequação de fundos próprios previsto no artigo 11.º do Decreto-Lei n.º 145/2006, de 31 de Julho.
+
+7 - A opção prevista no número anterior, assim como a forma de cálculo da adequação de fundos próprios, deve ser aplicada de modo consistente ao longo do tempo.
+
+8 - A dedução dos elementos previstos nas alíneas d) a f) do n.º 4 não tem de ser efectuada sempre que a empresa de seguros esteja sujeita à supervisão complementar ao nível do grupo de seguros ou à supervisão complementar ao nível do conglomerado financeiro.
+
+9 - Para efeitos de determinação da margem de solvência disponível o Instituto de Seguros de Portugal pode ainda deduzir aos elementos referidos nos n.os 1 a 3 os montantes referentes a subavaliações de elementos do passivo, decorrentes de uma aplicação inadequada da regulamentação em vigor.
+
+10 - Para as sucursais com sede fora do território da União Europeia, a margem de solvência disponível relativa ao ramo "Vida" compreende os elementos referidos nas alíneas b) e c) do n.º 1, no n.º 2, com exclusão das acções preferenciais e, mediante autorização do Instituto de Seguros de Portugal, os mencionados nas alíneas a) a c) do n.º 3.
+
+11 - Para efeitos da determinação da margem de solvência disponível das sucursais com sede fora do território da União Europeia devem ser deduzidos aos elementos referidos no número anterior os montantes mencionados nas alíneas b) a g) do n.º 4 e no n.º 5, aplicando-se igualmente o disposto nos n.os 6 a 9.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 145/2006 - Diário da República n.º 146/2006, Série I de 2006-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2006-539387), em vigor a partir de 2006-08-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+###### Artigo 99.º — Determinação da margem de solvência exigida para o ramo 'Vida'
+
+1 - O montante da margem de solvência exigida no que respeita ao ramo 'Vida', para os seguros referidos nas alíneas a) e b) do n.º 1 e no n.º 2 do artigo 124.º, corresponde à soma dos dois resultados obtidos nos termos seguintes:
+
+a) O primeiro corresponde ao valor resultante da multiplicação de 4% do valor da provisão de seguros e operações do ramo 'Vida' relativa ao seguro directo e ao resseguro aceite, sem dedução do resseguro cedido, pela relação existente, no último exercício, entre o montante da provisão de seguros e operações do ramo 'Vida', deduzida das cessões em resseguro, e o montante total da provisão de seguros e operações do ramo 'Vida', não podendo, no entanto, essa relação ser inferior a 85%;
+
+b) O segundo, respeitante aos contratos cujos capitais em risco não sejam negativos, corresponde ao valor resultante da multiplicação de 0,3% dos capitais em risco pela relação existente, no último exercício, entre o montante dos capitais em risco que, após a cessão em resseguro ou retrocessão, ficaram a cargo da empresa de seguros, e o montante dos capitais em risco, sem dedução do resseguro, não podendo, no entanto, essa relação ser inferior a 50%;
+
+c) A percentagem de 0,3% referida na alínea anterior é reduzida para 0,1% nos seguros temporários em caso de morte com a duração máxima de três anos e para 0,15% naqueles cuja duração seja superior a três mas inferior a cinco anos;
+
+d) Para efeitos da alínea b), entende-se por capital em risco o capital seguro em caso de morte após a dedução da provisão de seguros e operações do ramo 'Vida' da cobertura principal.
+
+2 - Para as operações de capitalização referidas no n.º 4 do artigo 124.º, o montante da margem de solvência exigida corresponde ao valor resultante da multiplicação de 4% do valor da provisão de seguros e operações do ramo 'Vida', calculado nas condições estabelecidas na alínea a) do número anterior.
+
+3 - Para os seguros referidos no n.º 3) do artigo 124.º e para as operações referidas nos n.os 5) e 6) do artigo 124.º, o montante da margem de solvência exigida corresponde à soma dos seguintes elementos:
+
+a) O valor correspondente a 4% da provisão de seguros e operações do ramo 'Vida', calculado nas condições previstas para o primeiro resultado da alínea a) do n.º 1, quando a empresa de seguros assuma um risco de investimento;
+
+b) O valor correspondente a 1% da provisão de seguros e operações do ramo 'Vida', calculado nas condições previstas para o primeiro resultado da alínea a) do n.º 1, quando a empresa de seguros não assuma um risco de investimento e o montante destinado a cobrir as despesas de gestão esteja fixado para um período superior a cinco anos;
+
+c) O valor correspondente a 25% dos custos administrativos do último exercício imputáveis a essas actividades, calculado nas condições previstas para o primeiro resultado da alínea a) do n.º 1, quando a empresa de seguros não assuma um risco de investimento e o montante destinado a cobrir as despesas de gestão não esteja fixado para um período superior a cinco anos;
+
+d) O valor correspondente a 0,3% dos capitais em risco, calculado nas condições previstas para o segundo resultado da alínea b) do n.º 1, quando a empresa de seguros cubra um risco de mortalidade.
+
+4 - Os factores de redução por efeito do resseguro, referidos nas alíneas dos números anteriores, podem ser diminuídos por determinação do Instituto de Seguros de Portugal, quando se verificar que uma empresa de seguros alterou, de modo significativo e desde o último exercício, a natureza e fiabilidade dos contratos de resseguro ou for insignificante ou mesmo inexistente, ao abrigo dos contratos de resseguro estabelecidos, a transferência de risco para os resseguradores.
+
+5 - Mediante pedido fundamentado da empresa de seguros, o Instituto de Seguros de Portugal pode autorizar que os montantes recuperáveis de entidades com objecto específico de titularização de riscos de seguros sejam igualmente deduzidos a título de resseguro para efeitos dos cálculos previstos nas alíneas a) e b) do n.º 1.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 100.º — Determinação da margem de solvência exigida relativamente aos seguros complementares do ramo 'Vida'
+
+O montante da margem de solvência exigida, no que respeita aos seguros complementares do ramo 'Vida', referidos na alínea c) do n.º 1) do artigo 124.º, corresponde ao valor mais elevado que resultar da aplicação aos prémios brutos emitidos ou ao valor médio anual dos custos com sinistros dos três últimos exercícios relativos a esses seguros dos métodos referidos no artigo 97.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 101.º — Exploração cumulativa dos ramos «Não Vida» e «Vida»
+
+As empresas de seguros que exploram, cumulativamente, a actividade de seguros dos ramos «Não Vida» e a actividade de seguros do ramo «Vida» devem dispor de uma margem de solvência para cada uma dessas duas actividades.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+#### Secção IV — Fundo de garantia
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 102.º — Valores mínimos
+
+1 - As empresas de seguros com sede em Portugal e as sucursais de empresas de seguros com sede fora do território da União Europeia devem, desde o momento em que são autorizadas, dispor e manter um fundo de garantia, que faz parte integrante da margem de solvência e que corresponde a um terço do valor da margem de solvência exigida, não podendo, no entanto, ser inferior aos limites fixados nos termos dos números seguintes.
+
+2 - Relativamente ao ramo «Vida», o fundo de garantia tem como limite mínimo (euro) 3 000 000, (euro) 2 250 000 ou (euro) 1 500 000, consoante se trate, respectivamente, de uma empresa pública ou de uma sociedade anónima com sede em Portugal, de uma mútua de seguros ou de uma sucursal de empresa de seguros com sede fora do território da União Europeia.
+
+3 - Relativamente aos ramos «Não vida», o fundo de garantia tem como limite mínimo:
+
+a) Para as empresas de seguros que exploram um ou vários dos ramos referidos nos n.os 10), 11), 12), 13), 14) e 15) do artigo 123.º, (euro) 3 000 000, (euro) 2 250 000 ou (euro) 1 500 000, consoante se trate, respectivamente, de uma empresa pública ou de uma sociedade anónima com sede em Portugal, de uma mútua de seguros ou de uma sucursal de empresa de seguros com sede fora do território da União Europeia;
+
+b) Para as empresas de seguros que não se encontrem na situação referida na alínea anterior, (euro) 2 000 000, (euro) 1 500 000 ou (euro) 1 000 000, consoante se trate, respectivamente, de uma empresa pública ou de uma sociedade anónima com sede em Portugal, de uma mútua de seguros ou de uma sucursal de empresa de seguros com sede fora do território da União Europeia.
+
+4 - Os montantes mínimos previstos nos números anteriores são revistos anualmente tendo por base a evolução verificada no índice geral de preços no consumidor para todos os Estados membros publicado pelo Eurostat, e arredondados para um valor múltiplo de (euro) 100 000, sempre que a taxa de variação verificada desde a última revisão seja igual ou superior a 5 %, competindo ao Instituto de Seguros de Portugal proceder à sua divulgação.
+
+5 - Relativamente aos ramos «Não vida», se estiver preenchida uma das condições previstas no n.º 4 do artigo 93.º, o limite mínimo do fundo de garantia de empresas de seguros com sede em Portugal e de sucursais de empresas de seguros com sede fora do território da União Europeia, em relação ao conjunto das suas actividades, corresponde ao fixado no n.º 1 do artigo 122.º-J.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 103.º — Elementos constitutivos do fundo de garantia
+
+1 - Para efeitos de constituição do fundo de garantia mínimo das empresas de seguros com sede em Portugal, relativamente à actividade de seguros 'Não vida' e 'Vida', consideram-se, respectivamente, os elementos previstos no artigo 96.º, com excepção do n.º 3, e no artigo 98.º, com excepção do n.º 3.
+
+2 - Para efeitos de constituição do fundo de garantia mínimo das sucursais de empresas de seguros com sede fora do território da União Europeia, relativamente à actividade de seguros «Não vida» e «Vida», consideram-se, respectivamente, os elementos previstos no n.º 10 do artigo 96.º, com excepção da alínea e), e no n.º 10 do artigo 98.º, com excepção da remissão para o n.º 3 do mesmo artigo, aplicando-se igualmente as deduções previstas no n.º 11 do artigo 96.º e no n.º 11 do artigo 98.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+###### Artigo 104.º — Caucionamento do fundo de garantia
+
+As sucursais de empresas de seguros com sede fora do território da União Europeia encontram-se obrigadas a caucionar, à ordem do Instituto de Seguros de Portugal, metade dos valores mínimos do fundo de garantia exigidos nos termos do artigo 102.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+#### Secção V — Fiscalização das garantias financeiras
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 105.º — Empresas de seguros com sede em Portugal
+
+1 - Compete ao Instituto de Seguros de Portugal verificar, em relação às empresas com sede em Portugal e para o conjunto das suas actividades, a existência, nos termos do presente decreto-lei e demais legislação e regulamentação aplicáveis, das garantias financeiras exigíveis e dos meios de que dispõem para fazerem face aos compromissos assumidos.
+
+2 - As empresas de seguros com sede em Portugal devem apresentar todos os anos ao Instituto de Seguros de Portugal, em relação ao conjunto de toda a actividade exercida no ano imediatamente anterior, o relatório e contas anuais, o parecer do conselho fiscal e o documento de certificação legal de contas emitido pelo revisor oficial de contas, bem como as contas consolidadas e todos os demais elementos definidos por norma do mesmo Instituto, de modo que seja possível conhecer da sua situação e solvência global.
+
+3 - Os documentos referidos no número anterior devem ser remetidos ao Instituto de Seguros de Portugal até 15 dias após a realização da assembleia geral anual para a aprovação de contas.
+
+4 - Sem prejuízo do disposto no número anterior e no n.º 5 do artigo 65.º do Código das Sociedades Comerciais, os documentos referidos no n.º 2 devem ser remetidos ao Instituto de Seguros de Portugal, o mais tardar até 15 de Abril, ainda que o relatório e contas não se encontrem aprovados.
+
+5 - As contas e os elementos a definir nos termos do n.º 2 devem ser presentes ao Instituto de Seguros de Portugal certificados por um revisor oficial de contas.
+
+6 - As empresas de seguros com sede em Portugal devem ainda, trimestralmente, elaborar o balanço e a conta de ganhos e perdas, bem como efectuar o apuramento da situação da margem de solvência e da representação das provisões técnicas.
+
+7 - As informações a prestar pelos revisores oficiais de contas referentes à certificação dos elementos relativos ao encerramento do exercício são elaboradas em conformidade com o estabelecido por norma regulamentar do Instituto de Seguros de Portugal, ouvida a Ordem dos Revisores Oficiais de Contas.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 105.º-A — Elementos relativos à situação da margem de solvência e à representação das provisões técnicas
+
+1 - Os elementos relativos à situação da margem de solvência e à representação das provisões técnicas devem ser comunicados ao Instituto de Seguros de Portugal nas datas e nos termos a definir por norma regulamentar:
+
+a) Pelas empresas de seguros com sede em Portugal relativamente ao conjunto da sua actividade;
+
+b) Pelas sucursais de empresas de seguros com sede fora do território da União Europeia relativamente à actividade exercida em Portugal.
+
+2 - A informação relativa à situação a 31 de Dezembro deve ser certificada por um revisor oficial de contas.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 106.º — Empresas de seguros com sede no território de outros Estados membros
+
+1 - O Instituto de Seguros de Portugal, caso tenha conhecimento de elementos que permitam considerar que as actividades em Portugal de uma empresa de seguros com sede no território de outro Estado membro colocam em risco a solidez financeira da empresa, deve comunicar esse facto às autoridades competentes do Estado membro de origem, para que estas verifiquem se a referida empresa cumpre as regras prudenciais aplicáveis.
+
+2 - As autoridades competentes do Estado membro de origem, depois de prévia informação ao Instituto de Seguros de Portugal, podem proceder, directamente ou por intermédio de entidades mandatadas para o efeito, à verificação de informações que, sendo relativas às sucursais de empresas de seguros com sede no seu território e estabelecidas em Portugal, são necessárias para garantir a fiscalização financeira da empresa.
+
+3 - O Instituto de Seguros de Portugal poderá participar na verificação referida no número anterior.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 107.º — Sucursais de empresas de seguros com sede fora da União Europeia
+
+1 - Compete ao Instituto de Seguros de Portugal, sem prejuízo do disposto no artigo seguinte, verificar, em relação às sucursais de empresas de seguros cuja sede se situe fora do território da União Europeia, a existência, nos termos do presente decreto-lei e demais legislação e regulamentação aplicáveis, das garantias financeiras exigíveis e dos meios de que dispõem para fazerem face aos compromissos assumidos.
+
+2 - Para os efeitos previstos no número anterior, as sucursais devem apresentar todos os anos ao Instituto de Seguros de Portugal, em relação à actividade desenvolvida em Portugal no ano imediatamente anterior, as contas e o documento de certificação legal das mesmas emitido pelo revisor oficial de contas, bem como os demais elementos definidos por norma do mesmo Instituto, de modo que seja possível conhecer-se da sua situação de solvência em Portugal bem como apresentar periodicamente a documentação necessária ao exercício da supervisão e os documentos estatísticos que lhe sejam solicitados.
+
+3 - Às sucursais referidas no presente artigo são aplicáveis, com as devidas adaptações, os n.os 3 a 7 do artigo 105.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 108.º — Benefícios a sucursais de empresas de seguros com sede fora da União Europeia
+
+1 - Qualquer empresa de seguros com sede fora do território da União Europeia que se encontre autorizada a exercer a actividade em Portugal e noutro ou noutros Estados membros pode solicitar ao Ministro das Finanças, através do Instituto de Seguros de Portugal e mediante parecer deste, a concessão dos seguintes benefícios:
+
+a) Cálculo da margem de solvência exigida em função da actividade global exercida em Portugal e nos outros Estados membros;
+
+b) Dispensa da obrigação de caucionamento prevista no artigo 92.º, desde que apresentada a prova de realização noutro Estado membro de um caucionamento igual a metade do fundo de garantia que lhe é exigível em função da actividade global exercida em Portugal e nos outros Estados membros;
+
+c) Localização dos activos representativos do fundo de garantia, calculado em função da actividade global exercida em Portugal e nos outros Estados membros, no território português ou de um outro Estado membro, em derrogação do disposto no n.º 3 do artigo 94.º
+
+2 - Os benefícios previstos no número anterior não podem ser solicitados conjuntamente para o ramo «Vida» e ramos «Não Vida», se a empresa de seguros exercer, nos termos legais em vigor, cumulativamente estas duas actividades em Portugal.
+
+3 - O pedido referido no n.º 1 deve ser acompanhado de prova de que requerimento análogo foi apresentado a todas as entidades competentes dos Estados membros onde está autorizada a explorar ramos de seguros idênticos àqueles para que tem autorização em Portugal, devendo no mesmo pedido ser indicada a autoridade competente encarregada de verificar a sua solvência global nos termos do número seguinte, bem como os motivos desta indicação.
+
+4 - A empresa de seguros que obtenha, por acordo de todos Estados membros onde exerça a sua actividade, os benefícios previstos no n.º 1 fica submetida a uma fiscalização da sua solvência global para o conjunto das actividades exercidas em Portugal e nos outros Estados membros que concederam esses benefícios.
+
+5 - A fiscalização referida no número anterior é exercida pelo Instituto de Seguros de Portugal, quando for esta a autoridade de supervisão indicada pela empresa de seguros.
+
+6 - Quando a verificação da solvência global da empresa de seguros, para o conjunto da actividade exercida no território da União Europeia, for exercida pelo Instituto de Seguros de Portugal, este deve utilizar todas as informações que obtiver junto das autoridades de supervisão dos restantes Estados membros onde a empresa de seguros exerça a sua actividade.
+
+7 - Quando a verificação da solvência global da empresa de seguros não competir ao Instituto de Seguros de Portugal, este deve fornecer à autoridade de supervisão competente todas as informações úteis de que disponha sobre a sucursal situada em Portugal.
+
+8 - Quando a verificação da solvência de uma empresa de seguros cuja sede social se situe fora do território da União Europeia não competir ao Instituto de Seguros de Portugal, a sucursal estabelecida em território português deve apresentar a este Instituto a documentação necessária ao exercício da fiscalização, bem como os documentos estatísticos que lhe sejam solicitados.
+
+9 - Os benefícios referidos no n.º 1 podem ser retirados, desde que o sejam simultaneamente em todos os Estados membros do exercício da actividade, por iniciativa de um ou de vários desses Estados membros.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+#### Secção VI — Insuficiência de garantias financeiras
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 108.º-A — Risco de insuficiência
+
+1 - Quando o Instituto de Seguros de Portugal verificar que uma empresa de seguros se encontra em risco de ficar numa situação financeira insuficiente, colocando em causa os direitos dos segurados e beneficiários dos contratos de seguro, deve esta empresa, a solicitação e no prazo que lhe vier a ser fixado, submeter à apreciação desse Instituto um plano de reequilíbrio da situação financeira, fundado num adequado plano de actividades.
+
+2 - O plano de actividades referido no número anterior, fundamentado nos termos do n.º 4 do artigo 14.º, deve, pelo menos, incluir, em relação aos três exercícios subsequentes, os seguintes elementos:
+
+a) Balanço e conta de ganhos e perdas previsionais, com informação separada, pelo menos, para as seguintes rubricas:
+
+i) Capital social subscrito e realizado, investimentos e provisões técnicas de seguro directo, resseguro aceite e resseguro cedido;
+
+ii) Prémios, proveitos dos investimentos, custos com sinistros e variações das provisões técnicas, tanto para o seguro directo como para o resseguro aceite e cedido;
+
+iii) Custos de aquisição, explicitando as comissões, e custos administrativos;
+
+b) Previsão dos meios financeiros necessários à representação das provisões técnicas;
+
+c) Previsão da margem de solvência e dos meios financeiros necessários à sua cobertura;
+
+d) A política geral de resseguro.
+
+3 - Sempre que os direitos dos segurados e beneficiários dos contratos de seguro estiverem em risco em virtude da deterioração da situação financeira de uma empresa de seguros, o Instituto de Seguros de Portugal pode determinar que essa empresa de seguros tenha uma margem de solvência exigida superior à que resultaria da aplicação dos artigos 97.º e 99.º e cujo nível é estabelecido em articulação com o plano de reequilíbrio.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 109.º — Situação financeira insuficiente e providências de recuperação e saneamento
+
+1 - Uma empresa de seguros é considerada em situação financeira insuficiente quando não apresente, nos termos do presente diploma e demais legislação e regulamentação em vigor, garantias financeiras suficientes.
+
+2 - Quando uma empresa de seguros se encontre em situação financeira insuficiente, o Instituto de Seguros de Portugal, tendo em vista a protecção dos interesses dos segurados e beneficiários e a salvaguarda das condições normais de funcionamento do mercado segurador, poderá determinar, por prazo que fixará, e no respeito pelo princípio da proporcionalidade, a aplicação de alguma ou de todas as seguintes providências de recuperação e saneamento:
+
+a) Rectificação das provisões técnicas ou apresentação de plano de financiamento ou de recuperação, nos termos dos artigos 110.º, 111.º e 112.º;
+
+b) Restrições ao exercício da actividade, designadamente à exploração de determinados ramos ou modalidades de seguros ou tipos de operações;
+
+c) Restrições à tomada de créditos e à aplicação de fundos em determinadas espécies de activos, em especial no que respeite a operações realizadas com filiais, com entidade que seja empresa-mãe da empresa ou com filiais desta;
+
+d) Proibição ou limitação da distribuição de dividendos;
+
+e) Sujeição de certas operações ou de certos actos à aprovação prévia do Instituto de Seguros de Portugal;
+
+f) Imposição da suspensão ou da destituição de titulares de órgãos sociais da empresa;
+
+g) Encerramento e selagem de estabelecimentos.
+
+3 - Verificando-se que, com as providências de recuperação e saneamento adoptadas, não é possível recuperar a empresa, será revogada a autorização para o exercício da respectiva actividade, nos termos do artigo 20.º
+
+4 - No decurso do saneamento, o Instituto de Seguros de Portugal poderá a todo o tempo convocar a assembleia geral dos accionistas e nela intervir com apresentação de propostas.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 110.º — Insuficiência de provisões técnicas
+
+1 - Se o Instituto de Seguros de Portugal verificar que as provisões técnicas são insuficientes ou se encontram incorrectamente constituídas, a empresa de seguros deve proceder imediatamente à sua rectificação, de acordo com as instruções que lhe forem dadas por este Instituto.
+
+2 - Se o Instituto de Seguros de Portugal verificar que as provisões técnicas não se encontram total ou correctamente representadas, a empresa de seguros deve, no prazo que lhe vier a ser fixado por este Instituto, submeter à sua aprovação um plano de financiamento a curto prazo, fundado num adequado plano de actividades, elaborado nos termos do disposto no artigo 108.º-A.
+
+3 - O Instituto de Seguros de Portugal definirá, caso a caso, as condições específicas a que deve obedecer o plano de financiamento referido no número anterior, bem como o seu acompanhamento, podendo, nomeadamente e no respeito pelo princípio da proporcionalidade, determinar a prestação de garantias adequadas, a alienação de participações sociais e outros activos e a redução ou o aumento do capital.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 111.º — Insuficiência de margem de solvência
+
+Se o Instituto de Seguros de Portugal verificar a insuficiência, mesmo circunstancial ou previsivelmente temporária, da margem de solvência de uma empresa de seguros, esta deve, no prazo que lhe vier a ser fixado por este Instituto, submeter à sua aprovação um plano de recuperação, com vista ao restabelecimento da sua situação financeira, sendo-lhe aplicável, com as devidas adaptações, o disposto nos n.os 2 e 3 do artigo anterior.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 112.º — Insuficiência do fundo de garantia
+
+Se o Instituto de Seguros de Portugal verificar que o fundo de garantia não atinge, mesmo circunstancial ou temporariamente, o limite mínimo fixado, a empresa de seguros deve, no prazo que lhe vier a ser fixado por este Instituto, submeter à sua aprovação um plano de financiamento a curto prazo, sendo-lhe aplicável, com as devidas adaptações, o disposto nos n.os 2 e 3 do artigo 110.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 113.º — Incumprimento
+
+1 - O incumprimento das instruções referidas no n.º 1 do artigo 110.º, a não apresentação de planos de financiamento ou de recuperação de acordo com o disposto no n.º 2 do artigo 110.º e nos artigos 111.º e 112.º e a não aceitação, por duas vezes consecutivas, ou o não cumprimento destes planos pode originar, por decisão do Instituto de Seguros de Portugal, a suspensão da autorização para a celebração de novos contratos e ou a aplicação de qualquer outra das medidas previstas na presente secção, bem como, nos termos do n.º 3, a revogação, total ou parcial, da autorização para o exercício da actividade seguradora, consoante a gravidade da situação financeira da empresa.
+
+2 - A gravidade da situação financeira da empresa referida no número anterior afere-se, nomeadamente, pela viabilidade económico-financeira da mesma, pela fiabilidade das garantias de que dispõe, pela evolução da sua situação líquida, bem como pelas disponibilidades necessárias ao exercício da sua actividade corrente.
+
+3 - À revogação da autorização prevista no n.º 1 aplica-se, nomeadamente, o disposto no artigo 20.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2003 - Diário da República n.º 100/2003, Série I-A de 2003-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2003-571437), em vigor a partir de 2003-05-05, produz efeitos a partir de 2003-04-20
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 114.º — Indisponibilidade dos activos
+
+1 - Às empresas de seguros que se encontrem em qualquer das situações previstas nos artigos 109.º a 113.º pode, também, ser restringida ou vedada, por decisão do Instituto de Seguros de Portugal, a livre disponibilidade dos seus activos.
+
+2 - Os activos abrangidos pela restrição ou indisponibilidade referidas no número anterior:
+
+a) Sendo constituídos por bens móveis, devem ser colocados à ordem do Instituto de Seguros de Portugal;
+
+b) Sendo bens imóveis, só poderão ser onerados ou alienados com expressa autorização do Instituto de Seguros de Portugal, não devendo proceder-se ao acto do registo correspondente sem a mencionada autorização.
+
+3 - O Instituto de Seguros de Portugal informa das medidas tomadas ao abrigo do presente artigo as autoridades competentes dos Estados membros da União Europeia em cujo território a empresa exerça a sua actividade, solicitando-lhes, se for caso disso, a adopção de idênticas medidas relativamente aos bens situados nos respectivos territórios, indicando quais os que deverão ser objecto das mesmas.
+
+4 - Os activos localizados em Portugal pertencentes a empresas de seguros com sede no território de outros Estados membros podem ser restringidos ou vedados, nos termos previstos nos números anteriores, desde que as autoridades competentes do Estado membro de origem o solicitem ao Instituto de Seguros de Portugal, indicando quais os que deverão ser objecto de tais medidas.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+###### Artigo 115.º — Suspensão ou cancelamento da autorização a empresas com sede no território de outros Estados membros
+
+O Instituto de Seguros de Portugal deve tomar todas as medidas adequadas para impedir que as empresas de seguros com sede no território de outros Estados membros iniciem em Portugal novas operações de seguros, quer em regime de estabelecimento quer em regime de livre prestação de serviços, sempre que as autoridades competentes do Estado membro de origem lhe comunicarem a suspensão ou o cancelamento da autorização para a empresa exercer a actividade seguradora.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 116.º — Comercialização de novos produtos de seguros
+
+O Instituto de Seguros de Portugal pode impedir a comercialização de novos produtos a uma empresa de seguros em situação financeira insuficiente ou que já esteja em fase de execução de um plano de recuperação ou de um plano de financiamento enquanto a empresa não lhe fizer prova de que dispõe de uma margem de solvência disponível suficiente, de um fundo de garantia, pelo menos, igual ao limite mínimo exigido, e que as respectivas provisões técnicas são suficientes e estão correctamente constituídas e representadas.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+###### Artigo 117.º — Designação de administradores provisórios
+
+1 - O Instituto de Seguros de Portugal poderá ainda, isolada ou cumulativamente com qualquer das medidas previstas na presente secção, designar para a empresa de seguros um ou mais administradores provisórios, nos seguintes casos:
+
+a) Quando a empresa se encontre em risco de cessar pagamentos;
+
+b) Quando a empresa se encontre em situação de desequilíbrio financeiro que, pela sua dimensão, constitua ameaça grave para a solvabilidade;
+
+c) Quando, por quaisquer razões, a administração não ofereça garantias de actividade prudente, colocando em sério risco os interesses dos segurados e credores em geral, designadamente nos casos referidos no n.º 1 do artigo 113.º;
+
+d) Quando a organização contabilística ou os procedimentos de controlo interno apresentem insuficiências graves que não permitam avaliar devidamente a situação patrimonial da empresa.
+
+2 - Os administradores designados pelo Instituto de Seguros de Portugal terão os poderes e deveres conferidos pela lei e pelos estatutos aos membros de órgão de administração e, ainda, os seguintes:
+
+a) Vetar as deliberações da assembleia geral e, sendo caso disso, dos órgãos referidos no n.º 3 do presente artigo;
+
+b) Convocar a assembleia geral;
+
+c) Elaborar, com a maior brevidade, um relatório sobre a situação patrimonial da empresa e as suas causas e submetê-lo ao Instituto de Seguros de Portugal, acompanhado do parecer da comissão de fiscalização, se esta tiver sido nomeada.
+
+3 - O Instituto de Seguros de Portugal poderá suspender, no todo ou em parte, o órgão de administração, o conselho geral e quaisquer outros órgãos com funções análogas, simultaneamente ou não com a designação de administradores
+
+provisórios.
+
+4 - Os administradores provisórios exercerão as suas funções pelo prazo que o Instituto de Seguros de Portugal determinar, no máximo de dois anos, podendo o Instituto, em qualquer momento, renovar o mandato ou substituí-los por
+
+outros administradores provisórios, desde que observado aquele limite.
+
+5 - A remuneração dos administradores provisórios será fixada pelo Instituto de Seguros de Portugal e constitui encargo da empresa de seguros em causa.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 118.º — Outras providências de saneamento
+
+1 - Caso sejam ou tenham sido adoptadas as providências referidas no artigo anterior ou no artigo 120.º, o Instituto de Seguros de Portugal poderá ainda, em ligação ou não com os accionistas da empresa de seguros em dificuldades, aprovar outras medidas necessárias ao respectivo saneamento, designadamente, nos termos dos subsequentes números, o aumento do capital social e a cedência a terceiros de participações no mesmo.
+
+2 - Quando tal se mostre indispensável à recuperação da empresa, o Instituto de Seguros de Portugal poderá impor aos accionistas o reforço do capital social, com dispensa, sujeita a autorização do Ministro das Finanças, dos requisitos legais ou estatutários relativos ao número de accionistas que deverão estar representados ou presentes na assembleia geral e maiorias qualificadas.
+
+3 - A alienação de participações qualificadas no capital da empresa de seguros só deve ser aprovada quando, ouvidos os titulares das participações a alienar, o Instituto de Seguros de Portugal concluir que a manutenção da titularidade delas constitui impedimento ponderoso à execução das restantes medidas de recuperação.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 119.º — Redução do capital social
+
+O Instituto de Seguros de Portugal poderá autorizar ou impor a redução do capital de uma empresa de seguros, aplicando-se, com as necessárias adaptações, o regime constante do Código de Processo Civil, sempre que, por razões prudenciais, a situação financeira da empresa torne aconselhável a redução do seu capital.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 120.º — Designação de comissão de fiscalização
+
+1 - O Instituto de Seguros de Portugal poderá ainda, juntamente ou não com a designação de administradores provisórios, nomear uma comissão de fiscalização.
+
+2 - A comissão de fiscalização será composta por:
+
+a) Um revisor oficial de contas designado pelo Instituto de Seguros de Portugal, que presidirá;
+
+b) Um elemento designado pela assembleia geral;
+
+c) Um revisor oficial de contas designado pela respectiva Câmara.
+
+3 - A falta de designação do elemento referido na alínea b) do número anterior não obsta ao exercício das funções da comissão de fiscalização.
+
+4 - A comissão de fiscalização terá os poderes e deveres conferidos por lei ou pelos estatutos do conselho fiscal ou do revisor oficial de contas, consoante a estrutura da sociedade, os quais ficarão suspensos pelo período da sua actividade.
+
+5 - A comissão de fiscalização exercerá as suas funções pelo prazo que o Instituto de Seguros de Portugal determinar, no máximo de um ano, prorrogável por igual período.
+
+6 - A remuneração dos membros da comissão de fiscalização será fixada pelo Instituto de Seguros de Portugal e constitui encargo da instituição em causa.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 120.º-A — Publicidade
+
+1 - O Instituto de Seguros de Portugal noticiará em dois jornais diários de ampla difusão as suas decisões previstas na presente secção que sejam susceptíveis de afectar os direitos preexistentes de terceiros que não a própria empresa de seguros.
+
+2 - As decisões do Instituto de Seguros de Portugal previstas na presente secção são aplicáveis independentemente da sua publicação e produzem todos os seus efeitos em relação aos credores.
+
+3 - Em derrogação do previsto no n.º 1, quando as decisões do Instituto de Seguros de Portugal afectem exclusivamente os direitos dos accionistas, sócios ou empregados da empresa de seguros considerados enquanto tal, o Instituto notifica-os das mesmas por carta registada a enviar para o respectivo último domicílio conhecido.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2003 - Diário da República n.º 100/2003, Série I-A de 2003-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2003-571437), em vigor a partir de 2003-05-05, produz efeitos a partir de 2003-04-20
+
+##### Subsecção I — Dimensão transfronteiras
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2003 - Diário da República n.º 100/2003, Série I-A de 2003-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2003-571437), em vigor a partir de 2003-05-05, produz efeitos a partir de 2003-04-20
+
+###### Artigo 120.º-B — Âmbito
+
+A presente subsecção é aplicável às decisões do Instituto de Seguros de Portugal relativas ao saneamento previstas na presente secção que sejam susceptíveis de afectar os direitos preexistentes de terceiros que não a própria empresa de seguros.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2003 - Diário da República n.º 100/2003, Série I-A de 2003-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2003-571437), em vigor a partir de 2003-05-05, produz efeitos a partir de 2003-04-20
+
+###### Artigo 120.º-C — Lei aplicável
+
+Salvo disposição em contrário do previsto na subsecção I da secção II do capítulo II do regime transfronteiras do saneamento e da liquidação de empresas de seguros, o processo de saneamento nos termos previstos na presente secção é regulado pela lei portuguesa.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2003 - Diário da República n.º 100/2003, Série I-A de 2003-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2003-571437), em vigor a partir de 2003-05-05, produz efeitos a partir de 2003-04-20
+
+###### Artigo 120.º-D — Produção de efeitos
+
+1 - As decisões do Instituto de Seguros de Portugal relativas ao saneamento previstas na presente secção produzem todos os seus efeitos de acordo com a lei portuguesa em toda a União, sem nenhuma outra formalidade, inclusivamente em relação a terceiros nos demais Estados membros.
+
+2 - Os efeitos dessas decisões produzem-se nos demais Estados membros logo que se produzam em Portugal.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2003 - Diário da República n.º 100/2003, Série I-A de 2003-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2003-571437), em vigor a partir de 2003-05-05, produz efeitos a partir de 2003-04-20
+
+###### Artigo 120.º-E — Delimitação da decisão administrativa relativa ao saneamento
+
+As decisões do Instituto de Seguros de Portugal relativas ao saneamento tomadas nos termos da presente secção indicam, quando for caso disso, se e de que modo abrangem as sucursais da empresa de seguros estabelecidas noutros Estados membros.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2003 - Diário da República n.º 100/2003, Série I-A de 2003-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2003-571437), em vigor a partir de 2003-05-05, produz efeitos a partir de 2003-04-20
+
+###### Artigo 120.º-F — Informação às autoridades de supervisão dos demais Estados membros
+
+O Instituto de Seguros de Portugal informa com urgência as autoridades de supervisão de seguros dos demais Estados membros das decisões relativas ao saneamento tomadas nos termos da presente secção, incluindo os possíveis efeitos práticos dessas decisões.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2003 - Diário da República n.º 100/2003, Série I-A de 2003-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2003-571437), em vigor a partir de 2003-05-05, produz efeitos a partir de 2003-04-20
+
+###### Artigo 120.º-G — Publicação
+
+1 - Quando o Instituto de Seguros de Portugal deva tornar pública a decisão tomada nos termos da presente secção, promove a publicação no Jornal Oficial da União Europeia, o mais rapidamente possível, e em português, de um extracto do documento que fixa a decisão relativa ao saneamento.
+
+2 - A publicação prevista no número anterior identifica o Instituto de Seguros de Portugal como a autoridade competente em Portugal para a supervisão do saneamento e recuperação das empresas de seguros e, bem assim, qual a lei aplicável às matérias envolvidas na decisão, designadamente nos termos do artigo 120.º-C.
+
+3 - As decisões do Instituto de Seguros de Portugal previstas na presente secção são aplicáveis independentemente da publicação prevista no n.º 1 e produzem todos os seus efeitos em relação aos credores.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2003 - Diário da República n.º 100/2003, Série I-A de 2003-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2003-571437), em vigor a partir de 2003-05-05, produz efeitos a partir de 2003-04-20
+
+###### Artigo 120.º-H — Empresas de seguros com sede nos demais Estados membros
+
+1 - As medidas de saneamento de empresas de seguros com sede nos demais Estados membros determinadas pelas autoridades do Estado membro da respectiva sede com competência para o efeito produzem os seus efeitos em Portugal de acordo com a legislação desse Estado membro, sem requisito de formalidade específica à lei portuguesa, e ainda que a lei portuguesa não preveja tais medidas de saneamento ou as sujeite a condições que não se encontrem preenchidas.
+
+2 - Os efeitos das medidas previstas no número anterior produzem-se em Portugal logo que se produzam no Estado membro da sede da empresa de seguros delas objecto.
+
+3 - O Instituto de Seguros de Portugal, quando informado da decisão de aplicação de uma medida das previstas no n.º 1, pode assegurar a sua publicação em Portugal da forma que entenda adequada.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2003 - Diário da República n.º 100/2003, Série I-A de 2003-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2003-571437), em vigor a partir de 2003-05-05, produz efeitos a partir de 2003-04-20
+
+###### Artigo 120.º-I — Informação relativa ao saneamento de empresa de seguros com sede noutro Estado membro
+
+Ao Instituto de Seguros de Portugal é aplicável a secção II do capítulo VI do título III do presente diploma relativamente à informação que receba das autoridades de supervisão de seguros dos demais Estados membros sobre o saneamento de empresas de seguros com sede nos respectivos Estados.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2003 - Diário da República n.º 100/2003, Série I-A de 2003-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2003-571437), em vigor a partir de 2003-05-05, produz efeitos a partir de 2003-04-20
+
+###### Artigo 120.º-J — Remissão
+
+Ao previsto na presente secção é aplicável, com as devidas adaptações, a subsecção I da secção II do capítulo II do regime da dimensão transfronteiras do saneamento e da liquidação de empresas de seguros.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2003 - Diário da República n.º 100/2003, Série I-A de 2003-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2003-571437), em vigor a partir de 2003-05-05, produz efeitos a partir de 2003-04-20
+
+##### Subsecção II — Sucursais em Portugal de empresas de seguros com sede fora do território da União Europeia
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2003 - Diário da República n.º 100/2003, Série I-A de 2003-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2003-571437), em vigor a partir de 2003-05-05, produz efeitos a partir de 2003-04-20
+
+###### Artigo 120.º-L — Regime
+
+1 - A presente subsecção é aplicável, com as devidas adaptações, às sucursais em Portugal de empresas de seguros com sede fora do território da União Europeia.
+
+2 - A aplicação prevista no número anterior não abrange as sucursais da mesma empresa de seguros noutros Estados membros.
+
+3 - Caso, em simultâneo com a aplicação prevista no n.º 1, ocorra saneamento de sucursal da mesma empresa de seguros noutro Estado membro, o Instituto de Seguros de Portugal esforçar-se-á por coordenar a sua acção nos termos do n.º 1 com a acção relativa a este segundo saneamento prosseguida pelas respectivas autoridade de supervisão de seguros e, caso as haja, pelas demais entidades competentes para o efeito.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2003 - Diário da República n.º 100/2003, Série I-A de 2003-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2003-571437), em vigor a partir de 2003-05-05, produz efeitos a partir de 2003-04-20
+
+###### Artigo 121.º — Regimes gerais de recuperação de empresas e falência
+
+1 - Não se aplicam às empresas de seguros os regimes gerais relativos aos meios preventivos da declaração de falência e aos meios de recuperação de empresas e protecção de credores.
+
+2 - A dissolução voluntária, bem como a liquidação, judicial ou extrajudicial, de uma empresa de seguros depende da não oposição do Instituto de Seguros de Portugal, o qual tem legitimidade para requerer a liquidação judicial em benefício dos sócios e ainda a legitimidade exclusiva para requerer a dissolução judicial e falência e para requerer, sem prejuízo da legitimidade atribuída a outras entidades, a dissolução e liquidação judicial de uma sociedade ou de outra pessoa colectiva que, sem a autorização exigida por lei, pratique operações reservadas às empresas de seguros.
+
+3 - Sem prejuízo do disposto nos números anteriores e no número seguinte, são aplicáveis, com as necessárias adaptações, à dissolução judicial, à liquidação judicial em benefício dos sócios e à falência de empresas de seguros as normas gerais constantes, designadamente, do Código de Processo Civil e do Código dos Processos Especiais de Recuperação da Empresa e de Falência.
+
+4 - Compete ao Instituto de Seguros de Portugal a nomeação dos liquidatários judiciais ou extrajudiciais de empresas de seguros.
+
+5 - A manifesta insuficiência do activo para satisfação do passivo constitui fundamento de declaração de falência das empresas de seguros.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 122.º — Aplicação de sanções
+
+A adopção das providências previstas na presente secção não obsta a que, em caso de infracção, sejam aplicadas as sanções previstas na lei.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+#### Secção VII — Sistema de governo
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 122.º-A — Organização e controlo interno
+
+As empresas de seguros com sede em Portugal e as sucursais de empresas de seguros com sede fora do território da União Europeia devem possuir uma boa organização administrativa e contabilística, procedimentos adequados de controlo interno, bem como assegurar elevados níveis de aptidão profissional, cumprindo requisitos mínimos a fixar em norma pelo Instituto de Seguros de Portugal.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 122.º-B — Actuário responsável
+
+1 - As empresas de seguros com sede em Portugal devem nomear um actuário responsável, nas condições e com as funções, em matéria de garantias financeiras e outras, poderes e obrigações a fixar em norma pelo Instituto de Seguros de Portugal.
+
+2 - A administração da empresa de seguros deve disponibilizar tempestivamente ao actuário responsável toda a informação necessária para o exercício das suas funções.
+
+3 - O actuário responsável deve apresentar à administração da empresa de seguros os relatórios referidos na regulamentação em vigor, devendo, sempre que detecte situações de incumprimento ou inexactidão materialmente relevantes, propor à administração medidas que permitam ultrapassar tais situações, devendo então o actuário responsável ser informado das medidas tomadas na sequência da sua proposta.
+
+4 - Os relatórios referidos no número anterior devem ser presentes ao Instituto de Seguros de Portugal nos termos e com a periodicidade estabelecidos por norma do mesmo.
+
+5 - O presente artigo será aplicado, com as devidas adaptações, às sucursais de empresas de seguros com sede fora do território da União Europeia.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 122.º-C — Gestão sã e prudente
+
+As condições em que decorre a actividade de uma empresa de seguros devem respeitar as regras de uma gestão sã e prudente, e designadamente provendo a que a mesma seja efectuada por pessoas suficientes e com conhecimentos adequados à natureza da actividade, e segundo estratégias que levem em conta cenários razoáveis e, sempre que adequado, a eventualidade da ocorrência de circunstâncias desfavoráveis.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 122.º-D — Directores de topo
+
+1 - As empresas de seguros devem assegurar que os respectivos directores de topo preenchem os requisitos previstos nos n.os 1, 2 e 4 do artigo 51.º
+
+2 - Para efeitos deste artigo, entende-se por directores de topo, os dirigentes que, não fazendo parte do órgão de administração, constituem a primeira linha hierárquica responsável pela gestão da empresa de seguros.
+
+3 - Caso o Instituto de Seguros de Portugal verifique que o disposto no n.º 1 não se encontra cumprido pode recomendar à empresa de seguros a substituição do director de topo em causa.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-03-01
+
+###### Artigo 122.º-E — Códigos de conduta
+
+1 - As empresas de seguros devem estabelecer e monitorizar o cumprimento de códigos de conduta que estabeleçam linhas de orientação em matéria de ética profissional, incluindo princípios para a gestão de conflitos de interesses, aplicáveis aos membros dos órgãos de administração e aos respectivos trabalhadores e colaboradores.
+
+2 - As empresas de seguros devem divulgar os códigos de conduta que venham a adoptar, designadamente através dos respectivos sítios na Internet.
+
+3 - As empresas de seguros podem elaborar ou adoptar, por adesão, os códigos de conduta elaborados pelas respectivas associações representativas.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-03-01
+
+### Capítulo II — Garantias prudenciais das empresas de resseguros
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 122.º-F — Garantias financeiras das empresas de resseguros
+
+1 - As empresas de resseguros e as sucursais de empresas de resseguros com sede fora do território da União Europeia devem dispor, nos termos dos artigos seguintes, de provisões técnicas, margem de solvência e fundo de garantia.
+
+2 - Para efeitos da supervisão das respectivas garantias financeiras, não pode ser recusado um contrato de retrocessão celebrado por uma empresa de resseguros sediada em Portugal ou por uma sucursal de empresa de resseguros com sede fora do território da União Europeia com uma empresa de seguros referida na alínea b) do n.º 1 do artigo 2.º ou com uma empresa de resseguros referida na alínea c) do n.º 1 do artigo 2.º, por razões directamente relacionadas com a solidez financeira dessa empresa de seguros ou de resseguros.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 122.º-G — Provisões técnicas das empresas de resseguros
+
+1 - Às provisões técnicas das empresas de resseguros com sede em Portugal e das sucursais de empresas de resseguros com sede fora do território da União Europeia é aplicável, com as devidas adaptações, o regime previsto nos artigos 69.º a 86.º
+
+2 - As provisões técnicas das empresas de resseguros com sede em Portugal e das sucursais de empresas de resseguros com sede fora do território da União Europeia devem ser representadas por activos que respeitem os seguintes princípios:
+
+a) Ter em conta o tipo de operações efectuadas, em especial a natureza, o montante e a duração dos pagamentos de sinistros previstos, de forma a garantir a suficiência, a liquidez, a segurança, a qualidade, a rentabilidade e a congruência dos investimentos;
+
+b) Garantir a diversificação e dispersão adequadas, de forma a possibilitar uma resposta apropriada às alterações das circunstâncias económicas, em especial à evolução dos mercados financeiros e imobiliários, ou a acontecimentos catastróficos de grande impacto;
+
+c) Manter em níveis prudentes do investimento em activos não admitidos à negociação num mercado regulamentado;
+
+d) O investimento em produtos derivados contribuir para a redução dos riscos de investimento ou para facilitar uma gestão eficiente da carteira, devendo ser evitada uma excessiva exposição a riscos relativamente a uma única contraparte e a outras operações de derivados e os produtos ser avaliados de forma prudente, tendo em conta os activos subjacentes, e incluídos na avaliação dos activos das empresas;
+
+e) Serem suficientemente diversificados, de forma a evitar a dependência excessiva de qualquer activo, emitente ou grupo de empresas e a acumulação de riscos ou concentração excessiva de riscos no conjunto da carteira.
+
+3 - Por norma regulamentar do Instituto de Seguros de Portugal:
+
+a) Pode ser excluída a aplicação do princípio previsto na alínea e) do número anterior no que se refere a investimentos em algumas categorias de títulos de dívida pública;
+
+b) Podem ser fixadas regras quantitativas para os activos representativos das provisões técnicas;
+
+c) São fixados os critérios de valorimetria dos activos representativos das provisões técnicas, bem como as condições de utilização dos créditos não liquidados de entidades com objecto específico de titularização de riscos de seguros como activos representativos de provisões técnicas das empresas de resseguros com sede em Portugal e das sucursais de empresas de resseguros com sede fora do território da União Europeia.
+
+4 - É aplicável às sucursais de empresas de resseguros com sede fora do território da União Europeia o disposto no artigo 92.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 122.º-H — Margem de solvência disponível das empresas de resseguros
+
+1 - As empresas de resseguros com sede em Portugal devem dispor, em permanência, de uma margem de solvência disponível suficiente em relação ao conjunto das suas actividades, correspondente ao património da empresa livre de qualquer obrigação previsível e deduzido dos elementos incorpóreos incluindo, com as devidas adaptações, os elementos previstos nas alíneas a) a c) do n.º 1 e no n.º 2 do artigo 96.º, e, mediante pedido devidamente fundamentado da empresa de resseguros e autorização do Instituto de Seguros de Portugal os elementos referidos no n.º 3 do mesmo artigo, sendo aplicáveis as deduções previstas nos termos dos n.os 4 a 9 do artigo 96.º
+
+2 - As sucursais de empresas de resseguros com sede fora do território da União Europeia devem dispor, em permanência, de uma margem de solvência disponível suficiente em relação ao conjunto da sua actividade em Portugal, constituída por activos livres de qualquer obrigação previsível e deduzidos dos elementos incorpóreos, incluindo, com as devidas adaptações, os elementos previstos nas alíneas a) a d) do n.º 10 do artigo 96.º, e, mediante pedido devidamente fundamentado da sucursal e autorização do Instituto de Seguros de Portugal, os elementos referidos na alínea e) do n.º 10 do mesmo artigo, sendo aplicáveis as deduções previstas nos termos do n.º 11 do artigo 96.º
+
+3 - A margem de solvência disponível no que diz respeito a actividades de resseguro do ramo «Vida» pode ainda incluir, com as devidas adaptações e, mediante pedido devidamente fundamentado da empresa de resseguros com sede em Portugal ou da sucursal de empresa de resseguros com sede fora do território da União Europeia e autorização do Instituto de Seguros de Portugal os elementos referidos nas alíneas a) e c) do n.º 3 do artigo 98.º
+
+4 - À localização dos activos correspondentes à margem de solvência disponível das sucursais de empresas de resseguros com sede fora do território da União Europeia é aplicável o n.º 3 do artigo 94.º
+
+5 - O Instituto de Seguros de Portugal fixa, por norma regulamentar, os critérios de valorimetria dos activos correspondentes à margem de solvência disponível.
+
+6 - É aplicável à avaliação dos elementos elegíveis para efeitos de margem de solvência disponível o disposto no n.º 2 do artigo 95.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 122.º-I — Margem de solvência exigida das empresas de resseguros
+
+1 - A margem de solvência exigida das empresas de resseguros com sede em Portugal e das sucursais de empresas de resseguros com sede fora do território da União Europeia é calculada mediante aplicação, com as devidas adaptações, do regime previsto nos n.os 1 a 9 do artigo 97.º, sem prejuízo do disposto nos número seguintes.
+
+2 - A margem de solvência exigida para a actividade de resseguro referente aos seguros previstos na alínea a) do n.º 1 e no n.º 2 do artigo 124.º, com participação nos resultados ou quando ligados a fundos de investimento nos termos do n.º 3 do mesmo artigo e aos seguros e operações previstos na alínea b) do n.º 1 e nos n.os 4 a 6 do mesmo artigo, é calculada mediante aplicação, com as devidas adaptações, do regime previsto no artigo 99.º
+
+3 - Para efeitos das deduções previstas na alínea c) do n.º 2, na alínea f) do n.º 3 e nos n.os 6 e 9 do artigo 97.º, bem como nas alíneas a) e b) do n.º 1 do artigo 99.º, deve considerar-se a cessão a título de retrocessão.
+
+4 - No caso de exercício simultâneo de actividades de resseguro de «Vida» e «Não vida», a margem de solvência disponível deve cobrir o montante total das margens de solvências exigidas determinadas nos termos dos números anteriores.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 122.º-J — Fundo de garantia das empresas de resseguros
+
+1 - As empresas de resseguros com sede em Portugal e as sucursais de empresas de resseguros com sede fora do território da União Europeia devem, desde o momento em que são autorizadas, dispor e manter um fundo de garantia, que faz parte integrante da margem de solvência e que corresponde a um terço da margem de solvência exigida, com o limite mínimo de (euro) 3 000 000.
+
+2 - Tratando-se de empresa de resseguros cativa o limite mínimo do fundo de garantia é de (euro) 1 000 000.
+
+3 - O fundo de garantia mínimo das empresas de resseguros com sede em Portugal deve ser constituído pelos elementos constantes das alíneas a) a c) do n.º 1 e no n.º 2 do artigo 96.º, com as deduções previstas nos n.os 4 a 9 do artigo 96.º
+
+4 - O fundo de garantia mínimo das sucursais de empresas de resseguros com sede fora do território da União Europeia deve ser constituído pelos elementos constantes das alíneas a) a d) do n.º 10 do artigo 96.º, com as deduções previstas no n.º 11 do artigo 96.º, sendo aplicável o disposto no artigo 104.º
+
+5 - Aos montantes previstos nos n.os 1 e 2 é aplicável o disposto no n.º 4 do artigo 102.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 122.º-L — Fiscalização das garantias financeiras das empresas de resseguros
+
+1 - Às empresas de resseguros com sede em Portugal é aplicável, com as devidas adaptações, o regime previsto nos artigos 105.º e 105.º-A.
+
+2 - Às sucursais de empresas de resseguros com sede no território de outro Estado membro da União Europeia é aplicável, com as devidas adaptações, o regime previsto no artigo 106.º
+
+3 - Às sucursais de empresas de resseguros com sede fora do território da União Europeia é aplicável, com as devidas adaptações, o regime previsto no artigo 107.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 122.º-M — Risco de insuficiência das garantias financeiras das empresas de resseguros
+
+1 - Quando o Instituto de Seguros de Portugal verificar que uma empresa de resseguros se encontra em risco de ficar numa situação financeira insuficiente, colocando em causa as obrigações decorrentes dos contratos de resseguro, deve esta empresa, a solicitação e no prazo que lhe vier a ser fixado, submeter à apreciação desse Instituto um plano de reequilíbrio da situação financeira, fundado num adequado plano de actividades.
+
+2 - Ao plano de actividades referido no número anterior é aplicável, com as devidas adaptações, o regime previsto no n.º 2 do artigo 108.º-A, devendo considerar-se para efeitos da respectiva alínea d) a política geral de retrocessão.
+
+3 - Sempre que as obrigações decorrentes dos contratos de resseguro estiverem em risco em virtude da deterioração da situação financeira de uma empresa de resseguros, o Instituto de Seguros de Portugal pode determinar que essa empresa de resseguros tenha uma margem de solvência exigida superior à que resultaria da aplicação do artigo 122.º-I, e cujo nível é estabelecido em articulação com o plano de reequilíbrio.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 122.º-N — Insuficiência das garantias financeiras das empresas de resseguros
+
+1 - Se a empresa de resseguros não apresentar garantias financeiras suficientes nos termos legais e regulamentares, é aplicável, com as devidas adaptações, o regime previsto nos artigos 109.º a 120.º
+
+2 - No caso de liquidação de uma empresa de resseguros, as obrigações decorrentes dos contratos celebrados através de sucursais ou em regime de livre prestação de serviços são cumpridas do mesmo modo que as obrigações decorrentes de outros contratos de resseguro da mesma empresa, sendo aplicável, com as devidas adaptações, o regime previsto para as empresas de seguros que não dependa de procedimentos comunitários harmonizados.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 122.º-O — Sistema de governo das empresas de resseguros
+
+As empresas de resseguros com sede em Portugal e as sucursais de empresas de resseguros com sede fora do território da União Europeia devem dispor das estruturas e mecanismos de governo constantes dos artigos 122.º-A a 122.º-E.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+### Capítulo III — Ramos de seguros, supervisão de contratos e tarifas e conduta de mercado
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+#### Secção I — Ramos de seguros
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 123.º — Ramos «Não Vida»
+
+Os seguros «Não Vida» incluem os seguintes ramos:
+
+1) «Acidentes», que compreende as seguintes modalidades:
+
+a) Acidentes de trabalho;
+
+b) Acidentes pessoais, nas seguintes submodalidades:
+
+i) Prestações convencionadas;
+
+ii) Prestações indemnizatórias;
+
+iii) Combinações de ambas;
+
+c) Pessoas transportadas;
+
+2) «Doença», que compreende as seguintes modalidades:
+
+a) Prestações convencionadas;
+
+b) Prestações indemnizatórias;
+
+c) Combinações de ambas;
+
+3) «Veículos terrestres», com exclusão dos veículos ferroviários, que abrange os danos sofridos por veículos terrestres propulsionados a motor e por veículos terrestres sem motor;
+
+4) «Veículos ferroviários», que abrange os danos sofridos por veículos ferroviários;
+
+5) «Aeronaves», que abrange os danos sofridos por aeronaves;
+
+6) «Embarcações marítimas, lacustres e fluviais», que abrange os danos sofridos por toda e qualquer espécie de embarcação marítima, lacustre ou fluvial;
+
+7) «Mercadorias transportadas», que abrange os danos sofridos por mercadorias, bagagens ou outros bens, qualquer que seja o meio de transporte utilizado;
+
+8) «Incêndio e elementos da natureza», que abrange os danos sofridos por outros bens, que não os referidos nos ramos a que se referem os n.os 3) a 7), causados pela verificação de qualquer dos seguintes riscos:
+
+a) Incêndio, raio ou explosão;
+
+b) Tempestades;
+
+c) Outros elementos da natureza;
+
+d) Energia nuclear;
+
+e) Aluimento de terras;
+
+9) «Outros danos em coisas», que abrange os danos sofridos por outros bens, que não os referidos nos ramos a que se referem os n.os 3) a 7), e compreende as seguintes modalidades:
+
+a) Riscos agrícolas;
+
+b) Riscos pecuários;
+
+c) Outros riscos, como o roubo, desde que não incluídos no ramo referido no n.º 8);
+
+10) «Responsabilidade civil de veículos terrestres a motor», que abrange a responsabilidade resultante da utilização de veículos terrestres propulsionados a motor, incluindo a responsabilidade do transportador, e compreende as seguintes modalidades:
+
+a) Seguro obrigatório;
+
+b) Seguro facultativo;
+
+11) «Responsabilidade civil de aeronaves», que abrange a responsabilidade resultante da utilização de aeronaves, incluindo a responsabilidade do transportador;
+
+12) «Responsabilidade civil de embarcações marítimas, lacustres e fluviais», que abrange a responsabilidade resultante da utilização de embarcações marítimas, lacustres e fluviais», incluindo a responsabilidade do transportador;
+
+13) «Responsabilidade civil geral», que abrange qualquer tipo de responsabilidade, que não as referidas nos ramos a que se referem os n.os 10) a 12), e compreende as seguintes modalidades:
+
+a) Energia nuclear;
+
+b) Outras;
+
+14) «Crédito», que abrange os seguintes riscos:
+
+a) Insolvência geral, declarada ou presumida;
+
+b) Crédito à exportação;
+
+c) Vendas a prestações;
+
+d) Crédito hipotecário;
+
+e) Crédito agrícola;
+
+15) «Caução», que abrange os seguintes riscos:
+
+a) Caução directa;
+
+b) Caução indirecta;
+
+16) «Perdas pecuniárias diversas», que abrange os seguintes riscos:
+
+a) Emprego;
+
+b) Insuficiência de receitas;
+
+c) Perda de lucros;
+
+d) Persistência de despesas gerais;
+
+e) Despesas comerciais imprevisíveis;
+
+f) Perda de valor venal;
+
+g) Perda de rendas ou de rendimentos;
+
+h) Outras perdas comerciais indirectas;
+
+i) Perdas pecuniárias não comerciais;
+
+j) Outras perdas pecuniárias;
+
+17) «Protecção jurídica», que abrange a cobertura de despesas decorrentes de um processo judicial, bem como formas de cobertura de defesa e representação jurídica dos interesses do segurado;
+
+18) «Assistência», que compreende as seguintes modalidades:
+
+a) Assistência a pessoas em dificuldades no decurso de deslocações ou ausências do domicílio ou do local de residência permanente;
+
+b) Assistência a pessoas em dificuldades noutras circunstâncias que não as referidas na alínea anterior.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 124.º — Ramo «Vida»
+
+O ramo «Vida» inclui os seguintes seguros e operações:
+
+1) Seguro de vida:
+
+a) Em caso de morte, em caso de vida, misto e em caso de vida com contra-seguro;
+
+b) Renda;
+
+c) Seguros complementares dos seguros de vida, nomeadamente, os relativos a danos corporais, incluindo-se nestes a incapacidade para o trabalho profissional, a morte por acidente ou a invalidez em consequência de acidente ou doença;
+
+2) Seguro de nupcialidade e seguro de natalidade;
+
+3) Seguros ligados a fundos de investimento, que abrangem todos os seguros previstos nas alíneas a) e b) do n.º 1 e ligados a um fundo de investimento;
+
+4) Operações de capitalização, que abrangem toda a operação de poupança, baseada numa técnica actuarial, que se traduza na assunção de compromissos determinados quanto à sua duração e ao seu montante, como contrapartida de uma prestação única ou de prestações periódicas previamente fixadas;
+
+5) Operações de gestão de fundos colectivos de reforma, que abrangem toda a operação que consiste na gestão, por uma empresa de seguros, de investimentos e, nomeadamente, dos activos representativos das reservas ou provisões de organismos que liquidam prestações em caso de morte, em caso de vida, ou em caso de cessação ou redução de actividade;
+
+6) Operações de gestão de fundos colectivos de reforma, quando conjugadas com uma garantia de seguro respeitante quer à manutenção do capital, quer à obtenção de um juro mínimo.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 125.º — Exclusividade
+
+Sem prejuízo do disposto no artigo 127.º, os riscos compreendidos em cada um dos ramos referidos nos artigos anteriores não podem ser classificados num outro ramo, nem cobertos através de apólices destinadas a outro ramo.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 126.º — Âmbito da exploração
+
+1 - A exploração de qualquer dos ramos «Não Vida» previstos no artigo 123.º abrange a totalidade do ramo, salvo se a empresa de seguros limitar expressamente essa exploração a parte dos riscos ou das modalidades.
+
+2 - A exploração do ramo «Vida» previsto no artigo 124.º abrange a totalidade de cada um dos grupos de seguros ou operações aí referidos, salvo se a empresa de seguros limitar expressamente essa exploração a uma parte dos seguros ou operações incluídas nesse grupo.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 127.º — Riscos acessórios
+
+1 - As empresas de seguros que explorem qualquer ramo ou modalidade podem também, através da mesma apólice, cobrir outros riscos acessórios.
+
+2 - Para efeitos do número anterior, entende-se por riscos acessórios os que estejam ligados ao risco principal, digam respeito ao objecto coberto contra o risco principal e sejam garantidos através do contrato que cobre o risco principal.
+
+3 - Não podem ser considerados riscos acessórios de outros ramos os compreendidos nos ramos referidos nos n.os 14), 15) e 17) do artigo 123.º, sem prejuízo do disposto no número seguinte.
+
+4 - A restrição prevista no número anterior relativamente ao ramo referido no n.º 17) do artigo 123.º não se aplica quando o risco compreendido neste ramo seja acessório do ramo referido no n.º 6) do mesmo artigo, em relação a litígios ou riscos resultantes da utilização de embarcações marítimas ou relacionadas com essa utilização, ou acessório do ramo referido no n.º 18) também do mencionado artigo, quando se relacione com a assistência prestada a pessoas em dificuldades durante deslocações ou ausência do seu domicílio ou local de residência permanente.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 128.º — Grupos de ramos ou modalidades
+
+Às empresas de seguros é admitida a exploração dos seguintes grupos de ramos ou modalidades previstos no artigo 123.º:
+
+a) Ramos referidos nos n.os 1) e 2), sob a denominação «Seguro de acidentes e doença»;
+
+b) Modalidade da alínea c) do ramo referido no n.º 1) e ramos referidos nos n.os 3), 7) e 10), sob a denominação «Seguro automóvel»;
+
+c) Modalidade da alínea c) do ramo referido no n.º 1) e ramos referidos nos n.os 4), 6), 7) e 12), sob a denominação «Seguro marítimo e transportes»;
+
+d) Modalidade da alínea c) do ramo referido no n.º 1) e ramos referidos nos n.os 5), 7) e 11), sob a denominação «Seguro aéreo»;
+
+e) Ramos referidos nos n.os 8) e 9), sob a denominação «Seguro de incêndio e outros danos».
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+#### Secção II — Supervisão de contratos e tarifas
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 129.º — Supervisão de seguros obrigatórios
+
+1 - As empresas de seguros que pretendam explorar ramos ou modalidades de seguros obrigatórios devem, para o efeito, proceder ao registo, no Instituto de Seguros de Portugal, das condições gerais e especiais das respectivas apólices, bem como das correspondentes alterações.
+
+2 - O Instituto de Seguros de Portugal deve verificar a conformidade legal das apólices registadas nos termos do número anterior podendo, fundamentadamente, fixar um prazo para a alteração das cláusulas que entenda necessárias.
+
+3 - O não cumprimento pelas empresas de seguros, dentro do prazo que para o efeito lhes for concedido, das alterações referidas no número anterior implica o cancelamento do respectivo registo da apólice, sem prejuízo da manutenção em vigor, até ao vencimento, dos contratos correspondentes.
+
+4 - Das decisões referidas nos números anteriores cabe, no prazo de 30 dias, recurso para o Ministro das Finanças, cuja decisão admite recurso contencioso, nos termos gerais.
+
+5 - O Instituto de Seguros de Portugal pode, no exercício das suas atribuições, impor o uso de cláusulas ou apólices uniformes para os ramos ou modalidades de seguros obrigatórios.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 130.º — Supervisão dos restantes seguros
+
+1 - O Instituto de Seguros de Portugal, a fim de supervisionar o cumprimento das disposições aplicáveis aos contratos de seguro, pode exigir às empresas de seguros com sede em território português ou às sucursais neste estabelecidas de empresas de seguros com sede fora do território da União Europeia a comunicação não sistemática das condições gerais e especiais das apólices, das tarifas, das bases técnicas e dos formulários e outros impressos que aquelas empresas se proponham utilizar nas suas relações com os tomadores de seguros, não constituindo, em qualquer caso, esta comunicação condição para o exercício da actividade da empresa.
+
+2 - O Instituto de Seguros de Portugal, a fim de supervisionar o cumprimento das disposições aplicáveis em matéria de princípios actuariais, pode exigir das empresas referidas no número anterior a comunicação sistemática das bases técnicas utilizadas para o cálculo das tarifas, das prestações, das contribuições e das provisões técnicas do ramo «Vida», não constituindo, em qualquer caso, esta comunicação condição para o exercício da actividade da empresa.
+
+3 - O Instituto de Seguros de Portugal, a fim de supervisionar o cumprimento das disposições aplicáveis aos contratos de seguro e em matéria de princípios actuariais, pode exigir das empresas de seguros com sede no território de outros Estados membros que operem em Portugal em regime de estabelecimento ou em regime de livre prestação de serviços a comunicação não sistemática dos elementos referidos nos números anteriores, não constituindo, em qualquer caso, esta comunicação condição para o exercício da actividade da empresa.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+###### Artigo 131.º — Registo de apólices
+
+1 - As empresas de seguros devem manter actualizado o registo das suas apólices, o qual pode ser efectuado em suporte magnético próprio para tratamento informático.
+
+2 - Do registo referido no número anterior devem constar todas as apólices emitidas ou renovadas durante o ano, com, pelo menos, as seguintes indicações:
+
+a) Número e data da apólice;
+
+b) Nome, firma ou denominação do tomador de seguro;
+
+c) Ramo e modalidade do seguro;
+
+d) Capital seguro.
+
+3 - No que respeita ao ramo «Vida», o registo deve ainda especificar as seguintes indicações:
+
+a) Nome e idade da pessoa cuja vida se segura;
+
+b) Prazo do contrato.
+
+4 - O disposto nos números anteriores é aplicável, com as devidas adaptações, às operações de capitalização.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+#### Secção III — Conduta de mercado
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 131.º-A — Publicidade
+
+1 - A publicidade efectuada pelas empresas de seguros e pelas suas associações empresariais está sujeita à lei geral, sem prejuízo do que for fixado em norma do Instituto de Seguros de Portugal e, no caso de contratos de seguro ligados a fundos de investimento, em regulamento da Comissão do Mercado de Valores Mobiliários, ouvido o Instituto de Seguros de Portugal.
+
+2 - Os regulamentos previstos no número anterior, que garantirão a protecção dos credores específicos de seguros, podem abranger os intermediários de seguros e devem prever os termos da divulgação das condições tarifárias nos seguros destinados a pessoas singulares.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 357-A/2007 - Diário da República n.º 210/2007, 2º Suplemento, Série I de 2007-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-2007-241222), em vigor a partir de 2007-11-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 131.º-B — Intervenção do Instituto de Seguros de Portugal e da Comissão do Mercado de Valores Mobiliários
+
+1 - Sem prejuízo das atribuições da Comissão do Mercado de Valores Mobiliários no que respeita aos contratos de seguro ligados a fundos de investimento, e de atribuições que relevem especificamente da tutela dos consumidores cometidas a outras instituições e do estabelecimento de formas de cooperação com as mesmas, a fiscalização do cumprimento das normas aplicáveis em matéria de publicidade das empresas de seguros e das suas associações empresariais compete ao Instituto de Seguros de Portugal.
+
+2 - O Instituto de Seguros de Portugal, relativamente à publicidade que não respeite as disposições previstas no artigo anterior, e sem prejuízo das sanções aplicáveis, pode:
+
+a) Ordenar as modificações necessárias para pôr termo às irregularidades;
+
+b) Ordenar a suspensão das acções publicitárias em causa;
+
+c) Determinar a imediata publicação pelo responsável de rectificação apropriada.
+
+3 - Em caso de incumprimento das determinações previstas na alínea c) do número anterior, pode o Instituto de Seguros de Portugal, sem prejuízo das sanções aplicáveis, substituir-se aos infractores na prática do acto.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 357-A/2007 - Diário da República n.º 210/2007, 2º Suplemento, Série I de 2007-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-2007-241222), em vigor a partir de 2007-11-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 131.º-C — Princípios gerais de conduta de mercado
+
+1 - As empresas de seguros devem actuar de forma diligente, equitativa e transparente no seu relacionamento com os tomadores de seguros, segurados, beneficiários ou terceiros lesados.
+
+2 - As empresas de seguros devem definir uma política de tratamento dos tomadores de seguros, segurados, beneficiários ou terceiros lesados, assegurando que a mesma é difundida na empresa e divulgada ao público, adequadamente implementada e o respectivo cumprimento monitorizado.
+
+3 - O Instituto de Seguros de Portugal pode estabelecer, por norma regulamentar, princípios gerais a respeitar pelas empresas de seguros no cumprimento dos deveres previstos nos números anteriores.
+
+> Nota: [Artigo 10.º, Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962) O n.º 2 do artigo 131.º-C entra em vigor no dia 1 de março de 2009.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 131.º-D — Gestão de reclamações
+
+1 - As empresas de seguros devem instituir uma função autónoma responsável pela gestão das reclamações dos tomadores de seguros, segurados, beneficiários ou terceiros lesados relativas aos respectivos actos ou omissões, que seja desempenhada por pessoas idóneas que detenham qualificação profissional adequada.
+
+2 - A função responsável pela gestão das reclamações pode ser instituída por uma empresa de seguros ou por empresas de seguros que se encontrem em relação de domínio ou de grupo, desde que, em qualquer caso, lhe sejam garantidas as condições necessárias a evitar conflitos de interesses.
+
+3 - Compete à função prevista no n.º 1 gerir a recepção e resposta às reclamações que lhe sejam apresentadas pelos tomadores de seguros, segurados, beneficiários ou terceiros lesados, de acordo com os critérios e procedimentos fixados no respectivo regulamento de funcionamento, sem prejuízo de o tratamento e apreciação das mesmas poder ser efectuado pelas unidades orgânicas relevantes.
+
+4 - O Instituto de Seguros de Portugal estabelece, por norma regulamentar, princípios gerais a respeitar no cumprimento dos deveres previstos nos números anteriores.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-03-01
+
+###### Artigo 131.º-E — Provedor do cliente
+
+1 - As empresas de seguros designam, de entre entidades ou peritos independentes de reconhecido prestígio e idoneidade, o provedor dos clientes, ao qual os tomadores de seguros, segurados, beneficiários ou terceiros lesados podem apresentar reclamações relativas a actos ou omissões daquelas empresas, desde que as mesmas não tenham sido resolvidas no âmbito da gestão das reclamações prevista no artigo anterior.
+
+2 - O provedor pode ser designado por empresa de seguros ou por um conjunto de empresas de seguros, ou, ainda, por associação de empresas de seguros.
+
+3 - Compete ao provedor apreciar as reclamações que lhe sejam apresentadas pelos tomadores de seguros, segurados, beneficiários ou terceiros lesados, de acordo com os critérios e procedimentos fixados no respectivo regulamento de funcionamento, elaborado pelas entidades que o designaram.
+
+4 - O provedor tem poderes consultivos e pode apresentar recomendações às empresas de seguros em resultado da apreciação das reclamações.
+
+5 - A intervenção do provedor em nada afecta o direito de recurso aos tribunais ou a mecanismos de resolução extrajudicial de litígios.
+
+6 - O provedor deve divulgar, anualmente, as recomendações feitas, bem como a menção da sua adopção pelos destinatários.
+
+7 - As despesas de designação e funcionamento do provedor são da responsabilidade da entidade que o designou nos termos do n.º 2, não podendo ser imputadas ao reclamante.
+
+8 - A designação do provedor é dispensada quanto às reclamações que possam ser resolvidas no âmbito de mecanismo de resolução extrajudicial de litígios ao qual a empresa de seguros tenha aderido.
+
+9 - O Instituto de Seguros de Portugal estabelece, por norma regulamentar, princípios gerais a respeitar no cumprimento dos deveres previstos nos números anteriores.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-03-01
+
+###### Artigo 131.º-F — Política antifraude
+
+1 - As empresas de seguros devem definir uma política de prevenção, detecção e reporte de situações de fraude nos seguros.
+
+2 - O Instituto de Seguros de Portugal estabelece, por norma regulamentar, princípios gerais a respeitar pelas empresas de seguros no cumprimento do dever previsto no número anterior.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-03-01
+
+### Capítulo IV — Co-seguro
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+#### Secção I — Disposições gerais
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+###### Artigo 132.º — Co-seguro
+
+1 - Entende-se por co-seguro a assunção conjunta de um risco por várias empresas de seguros, denominadas co-seguradoras, de entre as quais uma é a líder, sem que haja solidariedade entre elas, através de um contrato de seguro único, com as mesmas garantias e período de duração e com um prémio global.
+
+2 - O co-seguro é admitido em todos os ramos de seguro relativamente a contratos que, pela sua natureza ou importância, justifiquem a intervenção de várias empresas de seguros.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+###### Artigo 133.º — Apólice única
+
+O contrato de co-seguro é titulado por uma apólice única, emitida pela líder e na qual deve figurar a quota-parte do risco ou a parte percentual do capital assumidas por cada uma.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 134.º — Âmbito da responsabilidade de cada co-seguradora
+
+No contrato de co-seguro, cada co-seguradora responde apenas pela quota-parte do risco garantido ou pela parte percentual do capital seguro assumido.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+###### Artigo 135.º — Funções da co-seguradora líder
+
+1 - À líder do co-seguro são atribuídas as seguintes funções, a serem exercidas, em seu próprio nome e em nome e por conta das restantes co-seguradoras, em relação à globalidade do contrato:
+
+a) Receber do tomador de seguro a declaração do risco a segurar, bem como as declarações posteriores de agravamento ou de diminuição desse mesmo risco;
+
+b) Fazer a análise do risco e estabelecer as condições do seguro e a respectiva tarifação;
+
+c) Emitir a apólice, sem prejuízo de esta dever ser assinada por todas as co-seguradoras;
+
+d) Proceder à cobrança dos prémios, emitindo os respectivos recibos;
+
+e) Desenvolver, se for caso disso, as acções previstas nas disposições legais aplicáveis em caso de falta de pagamento de um prémio ou fracção de prémio;
+
+f) Receber as participações de sinistros e proceder à sua regulação;
+
+g) Aceitar e propor a resolução do contrato.
+
+2 - Poderão ainda, mediante acordo entre as co-seguradoras, ser atribuídas à líder outras funções para além das referidas no número anterior.
+
+3 - No caso previsto na alínea a) do artigo 138.º, em derrogação do previsto na alínea c) do n.º 1, a apólice pode ser assinada apenas pela co-seguradora líder, em nome de todas as co-seguradoras, mediante acordo escrito entre todas, que deve ser mencionado na apólice.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+> Alterado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 145/2006 - Diário da República n.º 146/2006, Série I de 2006-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2006-539387), em vigor a partir de 2006-08-15
+
+###### Artigo 136.º — Acordo entre as co-seguradoras
+
+Relativamente a cada contrato de co-seguro deve ser estabelecido entre as respectivas co-seguradoras um acordo expresso relativo às relações entre todas e entre cada uma e a líder, do qual devem, sem prejuízo do disposto no n.º 1 do artigo anterior, constar, pelo menos, os seguintes aspectos:
+
+a) Valor da taxa de gestão, no caso de as funções exercidas pela líder serem remuneradas;
+
+b) Forma de transmissão de informações e de prestação de contas pela líder a cada uma das co-seguradoras;
+
+c) Sistema de liquidação de sinistros.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+###### Artigo 137.º — Responsabilidade civil da líder
+
+A líder é civilmente responsável perante as restantes co-seguradoras pelas perdas e danos decorrentes do não cumprimento das funções que lhe forem atribuídas.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+###### Artigo 138.º — Liquidação de sinistros
+
+Os sinistros decorrentes de um contrato de co-seguro podem ser liquidados através de qualquer das seguintes modalidades, a constar expressamente da respectiva apólice:
+
+a) A líder procede, em seu próprio nome e em nome e por conta das restantes co-seguradoras, à liquidação global do sinistro;
+
+b) Cada uma das co-seguradoras procede à liquidação da parte do sinistro proporcional à quota-parte do risco que garantiu ou à parte percentual do capital que assumiu.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+###### Artigo 139.º — Propositura de acções judiciais
+
+As acções judiciais decorrentes de um contrato de co-seguro devem ser intentadas contra todas as co-seguradoras, salvo se o litígio se prender com a liquidação de um sinistro e tiver sido adoptada, na apólice respectiva, a modalidade referida na alínea b) do artigo anterior.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+###### Artigo 140.º — Abandono por uma co-seguradora
+
+Se uma das co-seguradoras desejar abandonar o contrato de co-seguro, deve, com uma antecedência mínima de 30 dias em relação à data em que o pretenda fazer, comunicar tal facto à líder, que dará conhecimento ao tomador do seguro e às restantes co-seguradoras, a fim de que se decida sobre a forma de garantia da quota-parte em causa.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+#### Secção II — Co-seguro comunitário
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 141.º — Co-seguro comunitário
+
+Entende-se por co-seguro comunitário a assunção conjunta de um risco por várias empresas de seguros estabelecidas em diferentes Estados membros da União Europeia, denominadas co-seguradoras, de entre as quais uma é a líder, sem que haja solidariedade entre elas, através de um contrato de seguro único, com as mesmas garantias e período de duração e com um prémio global.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+###### Artigo 142.º — Requisitos
+
+O co-seguro comunitário apenas é admitido em relação aos contratos cujo objecto se destine a cobrir grandes riscos, entendidos estes na acepção do n.º 3 do artigo 2.º e de acordo com os critérios dos n.os 4 e 5 do mesmo artigo.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+###### Artigo 143.º — Condições de acesso
+
+Para a celebração de contratos em regime de co-seguro comunitário, são aplicáveis à co-seguradora líder as disposições dos artigos 59.º a 67.º do presente diploma.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 144.º — Provisões técnicas
+
+1 - O cálculo e representação das provisões técnicas relativas aos contratos em co-seguro comunitário rege-se, em relação a cada co-seguradora, pelas regras do respectivo Estado membro de origem, sem prejuízo do disposto no número seguinte.
+
+2 - A provisão para sinistros deve, em relação a cada co-seguradora, ser calculada e representada de acordo com as regras que se encontrem, para o efeito, em vigor no Estado membro de origem da co-seguradora líder.
+
+3 - As provisões técnicas constituídas pelas diferentes co-seguradoras serão representadas por activos, móveis ou imóveis, e congruentes, localizados em qualquer parte do território da União Europeia.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+###### Artigo 145.º — Mediação
+
+Ao contrato de co-seguro comunitário, na parte respeitante ao risco situado em Portugal, são aplicáveis as normas legais e regulamentares em vigor no território português em matéria de mediação de seguros.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 146.º — Regime fiscal
+
+O regime fiscal do contrato de co-seguro comunitário, na parte respeitante ao risco ou parte do risco situado em território português, rege-se pelo disposto nos artigos 173.º a 175.º, devendo a co-seguradora líder dar cumprimento às respectivas disposições, nomeadamente à estatuição do artigo 175.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 147.º — Sanções
+
+A co-seguradora líder que não cumpra as disposições do presente capítulo fica sujeita à aplicação das sanções legalmente previstas.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+### Capítulo V — Transferências de carteira
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+#### Secção I — Transferência de carteira de seguros
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 148.º — Cedente com sede em Portugal e cessionária estabelecida na União Europeia
+
+1 - As empresas de seguros com sede em território português podem, nos termos legais e regulamentares em vigor, transferir a totalidade ou parte dos contratos da respectiva carteira, subscritos em regime de estabelecimento ou em regime de livre prestação de serviços, para uma cessionária estabelecida na União Europeia.
+
+2 - A transferência referida no número anterior pode ser autorizada desde que, cumulativamente:
+
+a) As autoridades competentes do Estado membro de origem da cessionária, se for o caso, atestem que esta possui, atendendo a essa mesma transferência, a margem de solvência disponível necessária para o efeito;
+
+b) As autoridades competentes do Estado membro onde se situam os riscos ou do Estado membro do compromisso dêem o seu acordo à mencionada transferência.
+
+3 - Se a transferência a que se refere o n.º 1 do presente artigo se reportar à totalidade ou parte dos contratos da carteira da sucursal de uma empresa de seguros com sede em Portugal, o Estado membro da sucursal deve também ser consultado.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+###### Artigo 149.º — Sucursal de cedente com sede fora da União Europeia e cessionária estabelecida em Portugal
+
+1 - As sucursais de empresas de seguros cuja sede se situe fora do território da União Europeia e estabelecidas em território português podem, nos termos legais e regulamentares em vigor, transferir a totalidade ou parte dos contratos da respectiva carteira para uma cessionária também estabelecida em Portugal.
+
+2 - A transferência referida no número anterior pode ser autorizada desde que, cumulativamente:
+
+a) O Instituto de Seguros de Portugal ou, eventualmente, as autoridades competentes do Estado membro da cessionária, nos termos do artigo 108.º, se for o caso, atestem que esta possui, atendendo a essa mesma transferência, a margem de solvência disponível necessária para o efeito;
+
+b) As autoridades competentes do Estado membro onde se situam os riscos ou do Estado membro do compromisso, quando estes não forem os mesmos em que se situa a sucursal cedente, dêem o seu acordo à mencionada transferência.
+
+3 - O Instituto de Seguros de Portugal não procede à certificação referida na alínea a) do n.º 2 sempre que tenha dúvidas fundadas sobre a situação financeira da empresa de seguros cessionária, designadamente nos casos em que tenha sido solicitado um plano de reequilíbrio da situação financeira em conformidade com o disposto no artigo 108.º-A e enquanto entender que os direitos dos segurados e beneficiários dos contratos de seguro se encontram em risco.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+###### Artigo 150.º — Sucursal de cedente com sede fora da União Europeia e estabelecida em Portugal e cessionária com sede em outro Estado membro
+
+1 - As sucursais de empresas de seguros cuja sede se situe fora do território da União Europeia e estabelecidas em território português podem, nos termos legais e regulamentares em vigor, transferir a totalidade ou parte dos contratos da respectiva carteira para uma empresa de seguros com sede num outro Estado membro.
+
+2 - A transferência referida no número anterior pode ser autorizada desde que, cumulativamente:
+
+a) As autoridades competentes do Estado membro de origem da cessionária, se for o caso, atestem que esta possui, atendendo a essa mesma transferência, a margem de solvência disponível necessária para o efeito;
+
+b) As autoridades competentes do Estado membro onde se situam os riscos ou do Estado membro do compromisso, quando estes não forem os mesmos em que se situa a sucursal cedente, dêem o seu acordo à mencionada transferência.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+###### Artigo 151.º — Sucursal de cedente com sede fora da União Europeia estabelecida em Portugal e de cessionária com sede fora da União Europeia e estabelecida em outro Estado membro
+
+1 - As sucursais de empresas de seguros cuja sede se situe fora do território da União Europeia e estabelecidas em território português podem, nos termos legais e regulamentares em vigor, transferir a totalidade ou parte dos contratos da respectiva carteira para uma sucursal de uma empresa cuja sede se situe também fora do território da União mas estabelecida no território de outro Estado membro.
+
+2 - A transferência referida no número anterior pode ser autorizada desde que, cumulativamente:
+
+a) As autoridades competentes do Estado membro do estabelecimento da cessionária ou, eventualmente, as autoridades competentes da cessionária, nos termos do artigo 108.º, se for o caso, atestem não só que esta possui, atendendo a essa mesma transferência, a margem de solvência disponível necessária para o efeito, como certifiquem também que a legislação do Estado membro da cessionária prevê a possibilidade desta transferência e a respectiva concordância para a mesma transferência;
+
+b) As autoridades competentes do Estado membro onde se situam os riscos ou do Estado membro do compromisso, quando estes não forem os mesmos em que se situa a sucursal cedente, dêem o seu acordo à mencionada transferência.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+###### Artigo 151.º-A — Cedente com sede em Portugal ou sucursal com sede fora da União Europeia e cessionária sucursal com sede na Suíça
+
+As empresas de seguros com sede em território português e as sucursais de empresas de seguros cuja sede se situe fora do território da União Europeia e estabelecidas em território português podem, mediante autorização do Instituto de Seguros de Portugal, transferir a totalidade ou parte dos contratos da respectiva carteira para sucursais de empresas de seguros que explorem seguros dos ramos «Não vida» cuja sede se situe na Suíça e estabelecidas em território português, desde que a autoridade competente do país da empresa cessionária ateste que esta possui, atendendo a essa mesma transferência, a margem de solvência necessária para o efeito.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 152.º — Parecer ou acordo das autoridades competentes
+
+Se as autoridades competentes consultadas para os efeitos previstos neste capítulo não comunicarem ao Instituto de Seguros de Portugal o seu parecer ou o seu acordo no prazo de três meses contados a partir da data da recepção do pedido, decorrido o mesmo prazo considerar-se-á ter havido parecer favorável ou acordo tácito das mencionadas autoridades.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 153.º — Publicidade da transferência
+
+1 - As transferências de carteira previstas no presente capítulo serão autorizadas pelo Instituto de Seguros de Portugal.
+
+2 - As autorizações para transferências de carteira concedidas pelas autoridades competentes dos Estados membros de origem e que abranjam contratos cobrindo riscos situados em território português ou em que Portugal seja o Estado membro do compromisso devem ser devidamente redigidas e publicadas em língua portuguesa no sítio na Internet do Instituto de Seguros de Portugal e em dois jornais diários de ampla difusão.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 154.º — Oponibilidade da transferência e resolução dos contratos
+
+1 - Sem prejuízo do disposto no número seguinte, as transferências de carteiras autorizadas pelo Instituto de Seguros de Portugal ou pelas restantes autoridades competentes dos Estados membros de origem são oponíveis aos tomadores, segurados e a quaisquer outras pessoas titulares de direitos ou obrigações emergentes dos correspondentes contratos de seguro, a partir da respectiva autorização.
+
+2 - Quando as transferências de carteira abranjam contratos cobrindo riscos situados em território português ou em que Portugal seja o Estado membro do compromisso, os segurados e tomadores dispõem de um prazo de 30 dias contados a partir da publicação no sítio na Internet do Instituto de Seguros de Portugal, referida no n.º 2 do artigo anterior, para a resolução dos respectivos contratos, prazo durante o qual a transferência não lhes é oponível.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 155.º — Ramo «Vida»
+
+1 - Não poderá ser autorizada qualquer transferência de carteira de contratos de seguro do ramo «Vida» quando se lhe oponham, pelo menos, 20% dos segurados dos contratos da carteira a transferir.
+
+2 - Requerida a autorização para a transferência da carteira e para os efeitos referidos no número anterior, o Instituto de Seguros de Portugal notifica, por carta registada a enviar para o último domicílio constante do contrato, todos os respectivos segurados, que disporão de um prazo de 60 dias, contados a partir da recepção da mesma, para se oporem à transferência.
+
+3 - O disposto nos números anteriores é igualmente aplicável sempre que o Instituto de Seguros de Portugal for consultado enquanto autoridade competente do Estado membro do compromisso, ficando o parecer ou acordo que lhe for solicitado para o efeito pela autoridade competente do Estado membro de origem da empresa de seguros cedente condicionado ao disposto no n.º 1 do presente artigo, sendo a percentagem aí referida aplicável à parte da carteira em que Portugal é o Estado membro do compromisso.
+
+4 - As despesas inerentes à notificação referida no n.º 2 correrão por conta da empresa de seguros cedente.
+
+5 - O disposto no presente artigo não é aplicável se for reconhecido pelo Instituto de Seguros de Portugal que a transferência de carteira se insere num processo de saneamento de uma situação de insuficiência financeira, de fusão ou de dissolução de uma empresa de seguros.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+#### Secção II — Transferência de carteira de resseguros
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 155.º-A — Transferências de carteira de resseguros
+
+1 - À transferência, total ou parcial, de carteira de resseguros, subscritos em regime de estabelecimento ou em regime de livre prestação de serviços, entre cedente com sede em Portugal e cessionária estabelecida na União Europeia é aplicável, com as devidas adaptações, o regime previsto no n.º 1 e na alínea a) do n.º 2 do artigo 148.º
+
+2 - À transferência, total ou parcial, de carteira de resseguros entre sucursal de cedente com sede fora do território da União Europeia estabelecida em Portugal e cessionária estabelecida em Portugal é aplicável, com as devidas adaptações, o regime previsto no n.º 1 do artigo 149.º, dependendo a autorização do Instituto de Seguros de Portugal da verificação da detenção pela cessionária da margem de solvência disponível necessária face à transferência.
+
+3 - O Instituto de Seguros de Portugal não autoriza as transferências de carteiras previstas nos números anteriores nos casos em que tenha sido solicitado um plano de reequilíbrio da situação financeira em conformidade com o disposto no artigo 108.º-A e enquanto entender que as obrigações decorrentes dos contratos de resseguro se encontram em risco.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+### Capítulo VI — Supervisão
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+#### Secção I — Disposições gerais
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 156.º — Supervisão pelo Instituto de Seguros de Portugal
+
+1 - O Instituto de Seguros de Portugal é, nos termos legais e regulamentares, a autoridade competente para o exercício da supervisão não só das actividades das empresas de seguros e de resseguros com sede em Portugal, incluindo a actividade exercida no território de outros Estados membros pelas respectivas sucursais ou a aí exercida em livre prestação de serviços, como também das actividades exercidas em território português por sucursais de empresas de seguros ou de resseguros com sede fora da União Europeia.
+
+2 - O disposto no número anterior não prejudica as atribuições da Comissão do Mercado de Valores Mobiliários relativamente a contratos de seguro ligados a fundos de investimento.
+
+3 - O Instituto de Seguros de Portugal é igualmente a autoridade competente para o exercício da supervisão complementar de empresas de seguros ou de resseguros com sede em Portugal, nos termos da secção seguinte.
+
+4 - Caso a empresa de seguros ou de resseguros sujeita à supervisão prevista no número anterior tenha como empresa mãe uma sociedade gestora de participações no setor dos seguros, uma empresa de seguros ou de resseguros de um país terceiro, uma companhia financeira mista ou uma sociedade gestora de participações mista de seguros, que seja também empresa mãe de outra empresa de seguros ou de resseguros autorizada noutro Estado-Membro da União Europeia, o Instituto de Seguros de Portugal deve chegar a acordo com a autoridade de supervisão congénere do Estado-Membro em questão para a designação daquela a quem cabe a responsabilidade pelo exercício da supervisão complementar.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 91/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2014-25676934), em vigor a partir de 2014-06-25
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 357-A/2007 - Diário da República n.º 210/2007, 2º Suplemento, Série I de 2007-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-2007-241222), em vigor a partir de 2007-11-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 157.º — Poderes de supervisão
+
+1 - No exercício das funções de supervisão referidas no artigo anterior, o Instituto de Seguros de Portugal dispõe de poderes e meios para:
+
+a) Verificar a conformidade técnica, financeira, legal e fiscal da actividade das empresas de seguros e resseguros sob a sua supervisão;
+
+b) Obter informações pormenorizadas sobre a situação das empresas de seguros ou de resseguros e o conjunto das suas actividades através, nomeadamente, da recolha de dados, da exigência de documentos relativos ao exercício da actividade seguradora, resseguradora ou de retrocessão ou de inspecções a efectuar nas instalações da empresa;
+
+c) Adoptar, em relação às empresas de seguros ou de resseguros, seus dirigentes responsáveis ou pessoas que as controlam, todas as medidas adequadas e necessárias não só para garantir que as suas actividades observam as disposições legais e regulamentares que lhes são aplicáveis e, nomeadamente, o programa de actividades como também para evitar ou eliminar qualquer irregularidade que possa prejudicar os interesses dos segurados e beneficiários;
+
+d) Garantir a aplicação efectiva das medidas referidas na alínea anterior, se necessário mediante recurso às instâncias judiciais;
+
+e) Obter todas as informações de que careça sobre contratos que estejam na posse de mediadores;
+
+f) Exercer as demais funções e atribuições previstas no presente diploma e legislação e regulamentação complementares.
+
+2 - Para efeitos do disposto na alínea b) do número anterior, as entidades aí referidas são obrigadas a prestar ao Instituto de Seguros de Portugal as informações que este considere necessárias à verificação, nomeadamente, do seu grau de liquidez e de solvabilidade, dos riscos em que incorrem, incluindo o nível de exposição a diferentes tipos de instrumentos financeiros, das práticas de gestão e controlo dos riscos a que estão ou possam vir a estar sujeitas e das metodologias adoptadas na avaliação dos seus activos, em particular daqueles que não sejam transaccionados em mercados de elevada liquidez e transparência.
+
+3 - O Instituto de Seguros de Portugal concretiza, através de norma regulamentar, o disposto nos números anteriores.
+
+4 - Para os efeitos previstos no n.º 1, o Instituto de Seguros de Portugal exige das empresas de seguros ou de resseguros a documentação necessária, incluindo os documentos estatísticos.
+
+5 - Caso uma empresa de seguros ou de resseguros pertença a um grupo, o Instituto de Seguros de Portugal deve certificar-se de que a estrutura do grupo e, em especial, as relações propostas entre a empresa e outras entidades do grupo permitem uma supervisão eficaz.
+
+6 - Para efeitos do disposto no número anterior, as empresas de seguros ou de resseguros devem comunicar ao Instituto de Seguros de Portugal a sua integração num grupo ou a alteração da estrutura do grupo a que pertencem, devendo também fornecer-lhe informações relativas à estrutura organizativa do grupo, que incluam elementos suficientes sobre a referida estrutura e as relações propostas entre a empresa e as outras entidades do grupo, de forma que seja possível verificar a existência dos requisitos referidos na alínea e) do n.º 2 do artigo 13.º
+
+7 - As informações referidas no número anterior podem ser solicitadas a qualquer entidade ou grupo.
+
+8 - No exercício das suas funções de supervisão, o Instituto de Seguros de Portugal emitirá instruções e recomendações para que sejam sanadas as irregularidades detectadas.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 211-A/2008 - Diário da República n.º 213/2008, 1º Suplemento, Série I de 2008-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-2008-626446), em vigor a partir de 2008-11-08, produz efeitos a partir de 2008-10-12
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 11-D/98 - Diário da República n.º 148/1998, Suplemento n.º 2, Série I-A de 1998-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-d-1998-291197), em vigor a partir de 1998-04-22
+
+###### Artigo 157.º-A — Colaboração para o exercício da supervisão
+
+1 - Caso uma empresa de seguros ou de resseguros e quer uma instituição de crédito ou uma empresa de investimento, quer ambas, se encontrem em relação de participação, ou tenham uma empresa participante comum, o Banco de Portugal e a Comissão do Mercado de Valores Mobiliários fornecem ao Instituto de Seguros de Portugal todas as informações necessárias ao exercício por este das suas funções de supervisão.
+
+2 - Às informações recebidas e às trocas de informação nos termos do número anterior aplica-se o disposto na secção II do presente capítulo.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 157.º-B — Outras empresas
+
+1 - As sociedades gestoras de participações sociais ficam sujeitas à supervisão do Instituto de Seguros de Portugal sempre que o valor total, directa ou indirectamente detido, das suas participações em empresas de seguros ou de resseguros, em sociedades gestoras de fundos de pensões e em sociedades de mediação de seguros ou de resseguros, represente pelo menos 50 % do montante global das participações que detiverem e, bem assim, sempre que se encontrem, em relação a uma ou mais empresas de seguros ou de resseguros, sociedades gestoras de fundos de pensões e sociedades de mediação de seguros ou de resseguros, em alguma das situações previstas no n.º 1) do artigo 3.º, exceptuando-se, porém, as que estiverem sujeitas por outra legislação à supervisão do Banco de Portugal.
+
+2 - Às sociedades gestoras de participações sociais sujeitas à supervisão do Instituto de Seguros de Portugal nos termos do número anterior é aplicável o disposto no capítulo II do título VI deste diploma.
+
+3 - Quando o Instituto de Seguros de Portugal seja a autoridade de supervisão responsável pelo exercício da supervisão complementar a nível de um conglomerado financeiro, a companhia financeira mista que lidere o conglomerado financeiro fica sujeita ao disposto no capítulo II do título VI pelas infracções às disposições legais ou regulamentares aplicáveis à supervisão complementar no âmbito de um conglomerado financeiro.
+
+4 - Se duas ou mais sociedades gestoras de participações sociais estiverem entre si em relação de grupo, ou por outro qualquer modo actuarem concertadamente, são consideradas como uma única sociedade para os efeitos do n.º 1.
+
+5 - A Inspecção-Geral de Finanças informa o Instituto de Seguros de Portugal das situações referidas no n.º 1 e que sejam do seu conhecimento.
+
+6 - Para determinação dos termos da relação com a empresa de seguros ou de resseguros sujeita à supervisão do Instituto de Seguros de Portugal, estão sujeitas à inspecção por este as empresas do respectivo grupo que não estejam sujeitas à supervisão de outra autoridade comunitária competente ou do Banco de Portugal.
+
+7 - Sempre que as empresas referidas no número anterior estejam sujeitas à supervisão de uma outra entidade competente, o Instituto de Seguros de Portugal solicitará a essa autoridade que verifique as informações sobre essas empresas, ou que autorize que tal verificação seja efectuada pelo Instituto de Seguros de Portugal, quer directamente, quer através de pessoa ou entidade mandatada para o efeito.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 145/2006 - Diário da República n.º 146/2006, Série I de 2006-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2006-539387), em vigor a partir de 2006-08-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+#### Secção I-A — Da supervisão complementar em especial
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 157.º-C — Acesso à informação relevante para a supervisão complementar
+
+1 - Sem prejuízo da aplicação do artigo 157.º à supervisão complementar, no respeitante às informações relativas às empresas participadas, às empresas participantes e às empresas participadas de uma empresa participante de uma empresa de seguros ou de resseguros, o Instituto de Seguros de Portugal solicita-as directamente a estas empresas no caso de a empresa de seguros ou de resseguros sujeita à supervisão complementar as não ter prestado.
+
+2 - A verificação in loco das informações necessárias ao exercício da supervisão complementar será feita, pelo Instituto de Seguros de Portugal, directamente ou por intermédio de pessoas que tenha mandatado para o efeito, na empresa de seguros ou de resseguros sujeita a essa supervisão e nas respectivas empresas filiais, empresas mãe e empresas filiais das empresas mãe.
+
+3 - Se, no âmbito do exercício da supervisão complementar, o Instituto de Seguros de Portugal carecer de verificar informação importante relativa a empresa cuja sede se situe noutro Estado membro da União Europeia e que seja uma empresa de seguros ou de resseguros participada, uma empresa filial, uma empresa mãe ou uma empresa filial de uma empresa mãe da empresa de seguros ou de resseguros sujeita à supervisão complementar, solicitá-lo-á à autoridade congénere desse outro Estado membro.
+
+4 - No caso de pedido de teor idêntico ao do previsto no número anterior recebido de autoridade congénere de outro Estado-Membro, o Instituto de Seguros de Portugal dar-lhe-á seguimento, quer procedendo ele à verificação solicitada, quer permitindo que a mesma seja efectuada pela requerente ou por revisor ou perito mandatado para o efeito.
+
+5 - Ainda que a verificação seja efectuada pelo Instituto de Seguros de Portugal, a autoridade de supervisão que apresentou o pedido pode, se o desejar, participar na verificação.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 145/2006 - Diário da República n.º 146/2006, Série I de 2006-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2006-539387), em vigor a partir de 2006-08-15
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 157.º-D — Cooperação internacional para o exercício da supervisão complementar
+
+1 - No caso de uma empresa de seguros ou de resseguros estabelecida em Portugal estar em relação de participação com uma empresa de seguros ou de resseguros estabelecida noutro Estado membro da União Europeia, ou de ambas as empresas terem uma empresa participante comum, o Instituto de Seguros de Portugal comunica à autoridade de supervisão congénere, a pedido, as informações úteis susceptíveis de permitir ou facilitar o exercício da supervisão complementar, bem como, por iniciativa própria, as informações que entenda essenciais para as autoridades congéneres.
+
+2 - No caso de uma empresa de seguros ou de resseguros estabelecida em Portugal estar em relação de participação com uma empresa de seguros ou de resseguros estabelecida num país terceiro e seja pela União Europeia negociado um acordo com esse país relativamente às modalidades de exercício da supervisão complementar, o Instituto de Seguros de Portugal pode trocar com as autoridades de supervisão desse país informações necessárias à supervisão complementar.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 145/2006 - Diário da República n.º 146/2006, Série I de 2006-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2006-539387), em vigor a partir de 2006-08-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+#### Secção II — Sigilo profissional
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 158.º — Sigilo profissional
+
+1 - Os membros dos órgãos do Instituto de Seguros de Portugal, bem como todas as pessoas que nele exerçam ou tenham exercido uma actividade profissional, estão sujeitos ao dever de guardar sigilo dos factos cujo conhecimento lhes advenha exclusivamente pelo exercício das suas funções.
+
+2 - O dever de sigilo profissional referido no número anterior implica que qualquer informação confidencial recebida no exercício da actividade profissional não pode ser comunicada a nenhuma pessoa ou autoridade, excepto de forma sumária ou agregada, e de modo que as empresas de seguros ou de resseguros não possam ser individualmente identificadas.
+
+3 - Sempre que uma empresa de seguros ou de resseguros seja declarada em estado de insolvência ou que tenha sido decidida judicialmente a sua liquidação, as informações confidenciais que não digam respeito a terceiros implicados nas tentativas de recuperação da seguradora ou resseguradora podem ser divulgadas no âmbito do processo.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 159.º — Troca de informações entre autoridades competentes
+
+1 - O dever de sigilo profissional não impede que o Instituto de Seguros de Portugal proceda à troca de informações necessárias ao exercício da supervisão da actividade seguradora ou resseguradora com as autoridades competentes dos outros Estados membros, sem prejuízo da sujeição dessas informações ao dever de sigilo profissional.
+
+2 - O disposto no número anterior é aplicável à troca de informações entre o Instituto de Seguros de Portugal e as seguintes entidades nacionais ou de outros Estados membros:
+
+a) Autoridades investidas da atribuição pública de fiscalização das instituições de crédito e outras instituições financeiras, bem como autoridades encarregadas da supervisão dos mercados financeiros;
+
+b) Órgãos intervenientes na liquidação e no processo de insolvência de empresas de seguros ou de resseguros e outros processos similares, bem como autoridades competentes para a supervisão desses órgãos;
+
+c) Entidades responsáveis pela detecção e investigação de violações do direito das sociedades;
+
+d) Entidades incumbidas da gestão de processos de liquidação ou de fundos de garantia;
+
+e) Bancos centrais, outras entidades de vocação semelhante enquanto autoridades monetárias e outras autoridades encarregadas da supervisão dos sistemas de pagamento.
+
+f) Pessoas encarregadas da revisão legal das contas ou auditoria às contas das empresas de seguros, das empresas de resseguros, das instituições de crédito, das empresas de investimento e de outras instituições financeiras, bem como as autoridades competentes para a supervisão dessas pessoas;
+
+g) Actuários responsáveis que exerçam, nos termos da lei, uma função de controlo sobre as empresas de seguros ou de resseguros, bem como entidades com competência para a supervisão desses actuários.
+
+3 - (Revogado.)
+
+4 - Sem prejuízo do disposto no n.º 1, se as informações referidas no n.º 2 forem provenientes de outro Estado membro, só poderão ser divulgadas com o acordo explícito das autoridades competentes que tiverem procedido à respectiva comunicação e, se for caso disso, exclusivamente para os fins relativamente aos quais as referidas autoridades tiverem dado o seu acordo, devendo ser-lhes comunicada a identidade e o mandato preciso das entidades a quem devem ser transmitidas essas informações.
+
+5 - A troca de informações necessárias ao exercício da supervisão da actividade seguradora ou resseguradora com autoridades competentes de países não membros da União Europeia ou com autoridades ou organismos destes países, definidos nas alíneas a), b), d), f) e g) do n.º 2, está sujeita às garantias de sigilo profissional previstas na presente secção, estabelecidas e aceites reciprocamente, sendo-lhes aplicável o previsto no número anterior.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702), em vigor a partir de 2010-05-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 169/2002 - Diário da República n.º 170/2002, Série I-A de 2002-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2002-197355), em vigor a partir de 2002-07-26
+
+###### Artigo 160.º — Informações confidenciais
+
+O Instituto de Seguros de Portugal só pode utilizar as informações confidenciais recebidas nos termos dos artigos anteriores no exercício das suas funções e com as seguintes finalidades:
+
+a) Para análise das condições de acesso à actividade seguradora ou resseguradora e para a supervisão das condições de exercício da mesma, especialmente em matéria de fiscalização das provisões técnicas, da margem de solvência, da organização administrativa e contabilística e do controlo interno;
+
+b) Para a aplicação de sanções;
+
+c) No âmbito de um recurso administrativo ou jurisdicional interposto de decisões tomadas no âmbito do presente diploma e respectiva legislação complementar.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 161.º — Informações para supervisão prudencial
+
+1 - O Instituto de Seguros de Portugal pode, se tal se justificar por razões de supervisão prudencial, comunicar as informações para o efeito necessárias às entidades nacionais responsáveis pela legislação em matéria de supervisão das instituições de crédito, serviços de investimento, empresas de seguros ou de resseguros e demais instituições financeiras, bem como aos inspectores mandatados por estas entidades.
+
+2 - A comunicação referida no número anterior não abrange as informações recebidas ao abrigo dos n.os 1 e 2 do artigo 159.º nem as obtidas através das inspecções a efectuar nas instalações da empresa previstas na alínea b) do n.º 1 do artigo 157.º, salvo acordo explícito da autoridade competente que tenha comunicado as informações ou da autoridade competente do Estado membro em que tenha sido efectuada a inspecção.
+
+3 - Os revisores oficiais de contas incumbidos da revisão legal das contas das empresas de seguros ou de resseguros ou que, por exigência legal, prestem às mesmas empresas serviços de auditoria devem comunicar imediatamente ao Instituto de Seguros de Portugal qualquer facto ou decisão de que tomem conhecimento no desempenho das suas funções e que seja susceptível de:
+
+a) Constituir violação das normas legais, regulamentares e administrativas reguladoras do acesso e exercício da actividade seguradora ou resseguradora;
+
+b) Afectar a continuidade da exploração da empresa de seguros ou de resseguros;
+
+c) Acarretar a recusa da certificação das contas ou a emissão de quaisquer reservas às mesmas contas.
+
+4 - O disposto no número anterior é igualmente aplicável ao exercício pelas entidades referidas de funções idênticas em empresa que tenha uma relação de proximidade decorrente de uma relação de controlo com uma empresa de seguros ou de resseguros.
+
+5 - As comunicações ao Instituto de Seguros de Portugal efectuadas de boa fé em cumprimento dos n.os 3 e 4 não constituem violação de qualquer restrição à divulgação de informações imposta por contrato ou por disposições legais, regulamentares ou administrativas, não acarretando qualquer tipo de responsabilidade.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 162.º — Excepções ao dever de sigilo profissional
+
+Fora dos casos previstos na presente secção, os factos e elementos abrangidos pelo dever de sigilo profissional só podem ser revelados:
+
+a) Nos termos previstos na lei penal e de processo penal;
+
+b) Quando exista outra disposição legal que expressamente limite o dever de sigilo profissional.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+#### Secção III — Empresas de seguros com sede em Portugal
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 163.º — Comunicação do montante dos prémios
+
+1 - As empresas de seguros com sede em território português, sem prejuízo de outros elementos contabilísticos e estatísticos necessários ao exercício da supervisão fixados por norma do Instituto de Seguros de Portugal, devem comunicar a este Instituto, separadamente para as operações efectuadas em regime de estabelecimento e em regime de livre prestação de serviços, o montante dos prémios, sem dedução do resseguro, por grupos de ramos «Não Vida» e por cada um dos seguros e operações do ramo «Vida», emitidos por Estado membro.
+
+2 - A comunicação referida no número anterior, no que respeita aos grupos de ramos «Não Vida», abrangerá também o montante dos sinistros e das comissões, bem como, no caso do ramo referido no n.º 10) do artigo 123.º, excluindo a responsabilidade do transportador, a frequência e custo médio dos sinistros.
+
+3 - O Instituto de Seguros de Portugal comunicará as indicações referidas no presente artigo, de uma forma agregada, às autoridades competentes de cada um dos Estados membros interessados que lhas tenham solicitado.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 164.º — Grupos de ramos
+
+Os grupos de ramos «Não Vida» referidos no artigo anterior são, relativamente aos respectivos números constantes do artigo 123.º, os seguintes:
+
+a) Ramos referidos nos n.os 1) e 2);
+
+b) Ramos referidos nos n.os 3), 7) e 10), especificando-se os valores relativos a este último, com exclusão da responsabilidade do transportador;
+
+c) Ramos referidos nos n.os 8) e 9);
+
+d) Ramos referidos nos n.os 4), 5), 6), 7), 11) e 12);
+
+e) Ramo referido no n.º 13);
+
+f) Ramos referidos nos n.os 14) e 15);
+
+g) Ramos referidos nos n.os 16), 17) e 18).
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 165.º — Mediação
+
+As empresas de seguros com sede em Portugal não estão sujeitas às normas legais e regulamentares em vigor no território português em matéria de mediação na celebração de contratos pelas respectivas sucursais ou em regime de livre prestação de serviços cobrindo riscos situados no território de outros Estados membros.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+#### Secção IV — Empresas de seguros ou de resseguros com sede no território de outros Estados membros
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 166.º — Sucursais e livre prestação de serviços
+
+As empresas de seguros ou de resseguros com sede no território de outros Estados membros que operem em Portugal através de sucursais ou em livre prestação de serviços devem, no âmbito dessa actividade, apresentar ao Instituto de Seguros de Portugal os documentos que por este lhes forem solicitados no exercício dos seus poderes de supervisão.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 167.º — Solicitação do montante dos prémios
+
+O Instituto de Seguros de Portugal, relativamente à actividade exercida em território português, solicitará às autoridades competentes do Estado membro de origem das empresas de seguros a que se refere a presente secção a comunicação das indicações previstas no artigo 163.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 168.º — Seguro obrigatório de acidentes de trabalho
+
+As empresas de seguros com sede no território de outros Estados membros que explorem em território português o seguro obrigatório de acidentes de trabalho devem respeitar todas as disposições legais e regulamentares previstas para a respectiva exploração, ficando, nessa medida, sujeitas à supervisão do Instituto de Seguros de Portugal, sem prejuízo da supervisão financeira, que será da exclusiva competência das autoridades competentes do Estado membro de origem.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 169.º — Mediação
+
+As empresas de seguros com sede no território de outros Estados membros, que operem em Portugal através de sucursais ou em livre prestação de serviços, estão sujeitas às normas legais e regulamentares em vigor no território português, em matéria de mediação, na celebração de contratos cobrindo riscos situados em Portugal.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 170.º — Situações irregulares
+
+1 - Se o Instituto de Seguros de Portugal verificar que uma empresa de seguros ou de resseguros com sede no território de outro Estado membro que opera em Portugal através de uma sucursal ou em livre prestação de serviços não respeita as normas legais e regulamentares em vigor que lhe são aplicáveis, notificá-la-á para que ponha fim a essa situação irregular.
+
+2 - Simultaneamente com a notificação prevista no número anterior, no caso de se tratar de uma empresa de resseguros ou, no caso de empresa de seguros se a mesma não regularizar a situação, o Instituto de Seguros de Portugal informa as autoridades competentes do Estado membro de origem, solicitando-lhes as medidas adequadas para que a empresa ponha fim à situação irregular.
+
+3 - Se, apesar das medidas tomadas ao abrigo do número anterior, a empresa persistir na situação irregular, o Instituto de Seguros de Portugal, após ter informado as autoridades competentes do Estado membro de origem, adoptará as medidas legalmente previstas para evitar ou reprimir as irregularidades cometidas ou novas situações irregulares, podendo, se necessário, impedir a empresa de continuar a celebrar novos contratos de seguro ou de resseguro em território português.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 171.º — Sanções
+
+1 - Sem prejuízo do disposto no artigo anterior, as empresas no mesmo referidas ficam sujeitas à aplicação das sanções previstas no presente diploma.
+
+2 - O Instituto de Seguros de Portugal comunicará às autoridades competentes do Estado membro de origem a aplicação das sanções a que se refere o número anterior.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 172.º — Recurso
+
+As sanções ou restrições ao exercício da actividade seguradora ou resseguradora previstas nos artigos anteriores devem ser devidamente fundamentadas e notificadas à empresa interessada, delas cabendo recurso nos termos gerais.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+#### Secção V — Supervisão complementar de empresas de seguros ou de resseguros com sede em Portugal
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 172.º-A — Definições
+
+Para os efeitos da supervisão complementar de empresas de seguros e de resseguros que fazem parte de um grupo segurador, considera-se:
+
+a) «Empresa de seguros» a empresa prevista na alínea b) do n.º 1 do artigo 2.º;
+
+b) «Empresa de seguros de um país terceiro, uma empresa que, se a sua sede estivesse situada na União Europeia, seria obrigada a dispor de uma autorização nos termos das secções II e III do capítulo I do título II, ou de disposições congéneres dos demais Estados membros;
+
+c) «Empresa de resseguros» a empresa prevista na alínea c) do n.º 1 do artigo 2.º;
+
+d) «Empresa de resseguros de um país terceiro» uma empresa que, se a sua sede estivesse situada na União Europeia, seria obrigada a dispor de uma autorização nos termos das secções I e XI do capítulo I do título II, ou de disposições congéneres dos demais Estados membros;
+
+e) «Empresa mãe» a empresa prevista no n.º 3) do artigo 3.º, bem como a que, no parecer das autoridades competentes, exerça efectivamente uma influência dominante sobre outra empresa;
+
+f) «Filial» a empresa prevista no n.º 4) do artigo 3.º, bem como qualquer empresa sobre a qual, no parecer das autoridades competentes, uma empresa mãe exerça efectivamente uma influência dominante, havendo lugar, também neste segundo caso, à consideração da parte final daquele n.º 4);
+
+g) «Participação» os direitos no capital de outras empresas, materializados ou não por títulos, que, criando uma ligação duradoura com estas, se destinam a contribuir para a actividade da empresa, seja a titularidade, directa ou indirecta, de 20 % ou mais dos direitos de voto ou do capital de uma empresa;
+
+h)'Empresa participante' uma empresa mãe, uma empresa que detenha uma participação ou uma empresa ligada a outra empresa por uma relação tal como previsto nas subalíneas ii) e iii) da alínea j) do artigo 2.º do Decreto-Lei n.º 145/2006, de 31 de Julho;
+
+i)'Empresa participada' uma empresa que seja uma filial, qualquer outra empresa na qual se detenha uma participação ou uma empresa ligada a outra empresa por uma relação tal como previsto nas subalíneas ii) e iii) da alínea j) do artigo 2.º do Decreto-Lei n.º 145/2006, de 31 de Julho;
+
+j) «Sociedade gestora de participações no sector dos seguros» uma empresa mãe cuja actividade principal consista na aquisição e detenção de participações em empresas filiais, quando essas empresas sejam exclusiva ou principalmente empresas de seguros, empresas de resseguros ou empresas de seguros ou de resseguros de um país terceiro, sendo pelo menos uma destas filiais uma empresa de seguros ou uma empresa de resseguros e que não seja uma companhia financeira mista na acepção da alínea l) do artigo 2.º do Decreto-Lei n.º 145/2006, de 31 de Julho;
+
+k) «Sociedade gestora de participações mista de seguros», uma empresa mãe que não seja uma empresa de seguros, uma empresa de resseguros, uma empresa de seguros ou de resseguros de um país terceiro, uma sociedade gestora de participações no setor dos seguros ou uma companhia financeira mista, sendo pelo menos uma das suas filiais uma empresa de seguros ou uma empresa de resseguros;
+
+l) «Companhia financeira mista», uma companhia financeira na aceção da alínea l) do artigo 2.º do Decreto-Lei n.º 145/2006, de 31 de julho, alterado pelo Decreto-Lei n.º 18/2013, de 6 de fevereiro.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 91/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2014-25676934), em vigor a partir de 2014-06-25
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 145/2006 - Diário da República n.º 146/2006, Série I de 2006-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2006-539387), em vigor a partir de 2006-08-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 172.º-B — Âmbito positivo
+
+1 - Sem prejuízo da respectiva supervisão individual, estão sujeitas à supervisão complementar prevista na presente secção as empresas de seguros e as empresas de resseguros com sede em Portugal:
+
+a) Que sejam empresas participantes de pelo menos uma empresa de seguros, uma empresa de resseguros ou uma empresa de seguros ou de resseguros de um país terceiro;
+
+b) Cuja empresa mãe seja uma sociedade gestora de participações no setor dos seguros, uma companhia financeira mista ou uma empresa de seguros ou de resseguros de um país terceiro;
+
+c) Cuja empresa mãe seja uma sociedade gestora de participações mista de seguros.
+
+2 - A supervisão complementar tem em conta:
+
+a) As empresas participadas da empresa de seguros ou da empresa de resseguros;
+
+b) As empresas participantes da empresa de seguros ou da empresa de resseguros;
+
+c) As empresas participadas de uma empresa participante da empresa de seguros ou da empresa de resseguros.
+
+3 - O exercício da supervisão complementar não implica que o Instituto de Seguros de Portugal supervisione as empresas de seguros ou de resseguros de um país terceiro, as sociedades gestoras de participações no setor dos seguros, as companhias financeiras mistas ou as sociedades gestoras de participações mistas de seguros, individualmente consideradas.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 91/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2014-25676934), em vigor a partir de 2014-06-25
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 172.º-C — Âmbito negativo
+
+1 - O Instituto de Seguros de Portugal pode não ter em conta, na supervisão complementar, empresas cuja sede se situe num país terceiro em que existam obstáculos jurídicos à transferência da informação necessária.
+
+2 - O previsto no número anterior não prejudica o regime a fixar para o efeito em norma pelo Instituto de Seguros de Portugal, nomeadamente em matéria do cálculo de solvência corrigida.
+
+3 - O Instituto de Seguros de Portugal pode decidir, caso a caso, não ter em conta uma empresa na supervisão complementar:
+
+a) Quando a empresa a incluir apresentar um interesse pouco significativo, atendendo aos objectivos da supervisão complementar das empresas de seguros ou de resseguros;
+
+b) Quando a inclusão da situação financeira da empresa for inadequada ou susceptível de induzir em erro, atendendo aos objectivos da supervisão complementar das empresas de seguros ou de resseguros.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 172.º-D — Disponibilidade e qualidade da informação
+
+1 - As empresas de seguros ou de resseguros sujeitas à supervisão complementar devem dispor de procedimentos de controlo interno adequados à produção de dados e informação úteis ao exercício dessa supervisão, nos termos a fixar por norma regulamentar do Instituto de Seguros de Portugal.
+
+2 - As empresas de seguros ou de resseguros sujeitas à supervisão complementar e as respectivas empresas participantes ou participadas devem trocar entre si todas as informações consideradas úteis para efeitos do exercício dessa supervisão.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 172.º-E — Operações intragrupo
+
+1 - O Instituto de Seguros de Portugal exercerá uma supervisão geral das operações entre:
+
+a) Uma empresa de seguros ou de resseguros e ou uma sua empresa participada, ou uma sua empresa participante, ou uma empresa participada de uma sua empresa participante;
+
+b) Uma empresa de seguros ou de resseguros e uma pessoa singular detentora de uma participação ou na empresa de seguros ou de resseguros ou numa das suas empresas participadas, ou numa empresa participante da empresa de seguros ou de resseguros, ou numa empresa participada de uma empresa participante da empresa de seguros ou de resseguros.
+
+2 - As operações mencionadas no número anterior dizem respeito, nomeadamente, a empréstimos, garantias e operações extra-patrimoniais, elementos a considerar na margem de solvência disponível, investimentos, operações de resseguro e de retrocessão e acordos de repartição de custos.
+
+3 - As empresas de seguros ou de resseguros devem possuir processos de gestão dos riscos e mecanismos de controlo interno adequados, incluindo procedimentos de prestação de informações e contabilísticos sólidos que lhes permitam identificar, medir, acompanhar e controlar, de modo adequado, as operações referidas no presente artigo.
+
+4 - Para efeitos da supervisão referida no n.º 1, as empresas de seguros ou de resseguros devem comunicar ao Instituto de Seguros de Portugal, anualmente, as operações intragrupo significativas, nos termos de norma regulamentar a emitir por aquele.
+
+5 - Se, com base nas informações prestadas pela empresa de seguros ou de resseguros, o Instituto de Seguros de Portugal entender que a sua solvência está ou pode vir a estar em risco, cabe-lhe determinar o que for adequado à correcção dessa situação ao nível da empresa de seguros ou de resseguros.
+
+.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 145/2006 - Diário da República n.º 146/2006, Série I de 2006-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2006-539387), em vigor a partir de 2006-08-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 172.º-F — Requisito de solvência corrigido
+
+1 - No caso previsto na alínea a) do n.º 1 do artigo 172.º-B, será efectuado um cálculo de solvência corrigida, nos termos de norma do Instituto de Seguros de Portugal, a qual proverá, nomeadamente, à eliminação quer da dupla utilização dos elementos da margem de solvência disponível quer da criação intragrupo de capital.
+
+2 - As empresas participadas, as empresas participantes e empresas participadas de uma empresa participante serão incluídas no cálculo previsto no número anterior.
+
+3 - O Instituto de Seguros de Portugal pode estabelecer por norma regulamentar os casos em que uma empresa de seguros ou de resseguros sujeita à supervisão complementar não é obrigada ao cálculo de solvência corrigida, designadamente quando ocorra idêntica obrigação relativamente a outra empresa participante de seguros do grupo, ou quando a autoridade competente para o exercício da supervisão complementar resulte ser a autoridade congénere de outro Estado membro.
+
+4 - Se o cálculo previsto no n.º 1 revelar que a solvência corrigida é negativa, o Instituto de Seguros de Portugal determinará o que for adequado à correcção dessa situação.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 172.º-G — Supervisão complementar de empresas de seguros ou de resseguros que sejam filiais de uma sociedade gestora de participações no setor dos seguros, de uma companhia financeira mista ou de uma empresa de seguros ou de resseguros de um país terceiro.
+
+1 - No caso previsto na alínea b) do n.º 1 do artigo 172.º-B, é efetuado um cálculo de solvência corrigida ao nível da sociedade gestora de participações no setor dos seguros, da companhia financeira mista ou da empresa de seguros ou de resseguros de um país terceiro, nos termos de norma regulamentar do Instituto de Seguros de Portugal.
+
+2 - As empresas participadas da sociedade gestora de participações no setor dos seguros, da companhia financeira mista ou da empresa de seguros ou de resseguros de um país terceiro são incluídas no cálculo previsto no número anterior.
+
+3 - Se o cálculo previsto no n.º 1 revelar que a solvência da empresa de seguros ou de resseguros filial da sociedade gestora de participações no setor dos seguros, da companhia financeira mista ou da empresa de seguros ou de resseguros de país terceiro está ou pode vir a estar em risco, o Instituto de Seguros de Portugal determina o que for adequado à correção dessa situação ao nível da empresa de seguros ou de resseguros.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 91/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2014-25676934), em vigor a partir de 2014-06-25
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 172.º-H — Órgãos de administração e de fiscalização das sociedades gestoras de participações no sector dos seguros
+
+Aos membros dos órgãos de administração e de fiscalização de uma sociedade gestora de participações no sector dos seguros são aplicáveis os requisitos de qualificação e idoneidade previstos no artigo 51.º e o regime previsto no artigo 54.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Aditado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 145/2006 - Diário da República n.º 146/2006, Série I de 2006-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2006-539387), em vigor a partir de 2006-08-15
+
+###### Artigo 172.º-I — Nível de aplicação no que respeita às companhias financeiras mistas
+
+1 - Caso uma companhia financeira mista esteja sujeita a disposições equivalentes do presente diploma e do Decreto-Lei n.º 145/2006, de 31 de julho, alterado pelo Decreto-Lei n.º 18/2013, de 6 de fevereiro, nomeadamente em termos de supervisão baseada no risco, o Instituto de Seguros de Portugal, enquanto autoridade responsável pela supervisão complementar, pode, após consulta das demais autoridades competentes responsáveis pela supervisão de filiais, aplicar a essa companhia financeira mista apenas a disposição relevante do referido decreto-lei.
+
+2 - Caso uma companhia financeira mista esteja sujeita a disposições equivalentes do presente diploma e da Diretiva n.º 2013/36/UE, do Parlamento Europeu e do Conselho, de 26 de junho de 2013, nomeadamente em termos de supervisão baseada no risco, o Instituto de Seguros de Portugal, enquanto autoridade responsável pela supervisão complementar pode, de comum acordo com o supervisor do grupo no subsetor bancário e dos serviços de investimento, aplicar a essa companhia financeira mista apenas a disposição do regime relativo ao subsetor financeiro de maior dimensão, nos termos da alínea r) do artigo 2.º do Decreto-Lei n.º 145/2006, de 31 de julho alterado pelo Decreto-Lei n.º 18/2013, de 6 de fevereiro.
+
+3 - O Instituto de Seguros de Portugal informa a Autoridade Bancária Europeia e a Autoridade Europeia dos Seguros e Pensões Complementares de Reforma das decisões tomadas ao abrigo dos números anteriores.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 91/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2014-25676934), em vigor a partir de 2014-06-25
+
+> Aditado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 145/2006 - Diário da República n.º 146/2006, Série I de 2006-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2006-539387), em vigor a partir de 2006-08-15
+
+### Capítulo VII — Regime fiscal
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 173.º — Regime fiscal
+
+1 - Os prémios dos contratos de seguro que cubram riscos situados em território português na acepção da alínea j) do n.º 1 do artigo 2.º ou em que Portugal seja o Estado-Membro do compromisso na acepção da alínea l) do n.º 1 do mesmo artigo estão sujeitos aos impostos indirectos e taxas previstos na lei portuguesa, independentemente da lei que vier a ser aplicada ao contrato e sem prejuízo da legislação especial aplicável ao exercício da actividade seguradora no âmbito institucional das zonas francas.
+
+2 - Para efeitos do presente artigo e sem prejuízo do disposto na alínea j) do n.º 1 do artigo 2.º, os bens móveis contidos num imóvel situado em território português, com excepção dos bens em trânsito comercial, constituem um risco situado em Portugal, mesmo se o imóvel e o seu conteúdo não estiverem cobertos pela mesma apólice de seguro.
+
+3 - Os prémios dos contratos de seguro celebrados por empresas de seguros com sede em Portugal, através das respectivas sucursais ou em regime de livre prestação de serviços, e que cubram riscos situados no território de outros Estados membros, não estão sujeitos aos impostos indirectos e taxas que, na lei portuguesa, oneram os prémios de seguros.
+
+4 - O estabelecido nos n.os 1 e 2 é aplicável sem prejuízo do disposto no Código do Imposto sobre o Valor Acrescentado e legislação complementar.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 174.º — Cobrança
+
+As sucursais estabelecidas em Portugal são responsáveis pelo pagamento dos impostos indirectos e taxas que incidam sobre os prémios dos contratos que celebrarem nas condições previstas no presente diploma.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 175.º — Representante fiscal
+
+1 - As empresas de seguros que operem em Portugal, em livre prestação de serviços, devem, antes do início da sua actividade, designar um representante, munido de procuração com poderes bastantes, residente habitualmente em território português, solidariamente responsável pelo pagamento dos impostos indirectos e taxas que incidam sobre os prémios dos contratos que a empresa celebrar nas condições previstas no presente diploma.
+
+2 - Para efeitos de controlo do cumprimento das obrigações previstas neste artigo, o representante deve dispor, por cada empresa que represente, de um registo relacionando todos os contratos cobrindo riscos ou compromissos situados em Portugal, com a expressa indicação dos seguintes elementos relativamente a cada um:
+
+a) Ramo ou modalidade de seguro ou operação;
+
+b) Identificação e residência do tomador de seguro;
+
+c) Duração do contrato;
+
+d) Montante do prémio devido pelo tomador de seguro e sobre o qual incidem os impostos e taxas;
+
+e) Discriminação dos impostos indirectos e taxas pagos pela empresa.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+### Capítulo VIII — Concorrência
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 175.º-A — Defesa da concorrência
+
+1 - A actividade das empresas de seguros, bem como a das suas associações empresariais, está sujeita à legislação da defesa da concorrência.
+
+2 - Não se consideram restritivos da concorrência os acordos legítimos entre empresas de seguros e as práticas concertadas que tenham por objecto as operações seguintes:
+
+a) Cobertura em comum de certos tipos de riscos;
+
+b) Estabelecimento de condições tipo de apólices.
+
+3 - Na aplicação da legislação de defesa da concorrência às empresas de seguros e suas associações empresariais ter-se-ão sempre em conta os bons usos da respectiva actividade, nomeadamente no que respeite às circunstâncias de risco ou solvabilidade.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 175.º-B — Colaboração do Instituto de Seguros de Portugal
+
+Nos processos instaurados por práticas restritivas da concorrência imputáveis a empresas de seguros ou suas associações empresariais será obrigatoriamente solicitado e enviado ao Conselho da Concorrência o parecer do Instituto de Seguros de Portugal, sem prejuízo de outras formas de cooperação, nas matérias relevantes, com as autoridades nacionais de concorrência.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+## Título IV — Disposições aplicáveis ao contrato de seguro
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+### Capítulo I — Ramos «Não Vida»
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+###### Artigo 176.º — Dever de informação
+
+1 - As empresas de seguros que se proponham cobrir riscos de massa situados em território português, em regime de estabelecimento ou em regime de livre prestação de serviços, devem informar o tomador de seguro, antes deste assumir qualquer obrigação ou compromisso, do nome do Estado membro onde se situa a sede social e, se for caso disso, a sucursal com a qual o contrato será celebrado.
+
+2 - A informação a que se refere o número anterior deve constar também de quaisquer documentos a serem fornecidos ao tomador de seguro.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+###### Artigo 177.º — Informação ao tomador do seguro sobre a lei aplicável ao contrato e reclamações
+
+1 - As empresas de seguros que se proponham cobrir riscos situados em território português, em regime de estabelecimento ou em regime de livre prestação de serviços, devem, antes da celebração do contrato de seguro, informar o respectivo tomador, caso se trate de uma pessoa singular, de que as partes têm, nos termos dos artigos 188.º a 193.º e sem prejuízo do disposto no artigo 193.º, liberdade para escolher a lei aplicável ao contrato e indicar qual a lei que a empresa propõe que seja escolhida.
+
+2 - O dever de informação referido no número anterior deverá também incluir as disposições respeitantes à apresentação e exame das reclamações relativas ao contrato de seguro por parte dos respectivos tomadores, incluindo a referência à possibilidade de intervenção do Instituto de Seguros de Portugal, sem prejuízo do recurso aos tribunais.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+###### Artigo 178.º — Menções especiais
+
+1 - O contrato ou qualquer outro documento que assegure a cobertura de riscos situados em Portugal, bem como a proposta de seguro, devem indicar o endereço da sede social e, se for caso disso, da sucursal que presta a cobertura.
+
+2 - Os documentos referidos no número anterior devem também indicar, se for caso disso, o nome e o endereço do representante referido no artigo 66.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+### Capítulo II — Ramo «Vida»
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+#### Secção I — Transparência
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+###### Artigo 179.º — Dever de informação antes da celebração do contrato de seguro ou operação
+
+1 - As empresas de seguros que se proponham celebrar contratos de seguro ou operações do ramo «Vida» previstos nos n.os 1 a 4 do artigo 124.º e em que Portugal seja o Estado membro do compromisso devem, antes da respectiva celebração, fornecer ao tomador, de forma clara, por escrito e redigidas em língua portuguesa, as seguintes informações:
+
+a) Denominação ou firma e estatuto legal da empresa de seguros;
+
+b) Nome do Estado membro onde se situa a sede social e, se for caso disso, a sucursal com a qual o contrato será celebrado;
+
+c) Endereço da sede social e, se for caso disso, da sucursal com a qual o contrato será celebrado;
+
+d) Definição de cada garantia e opção;
+
+e) Duração do contrato;
+
+f) Modalidades de resolução do contrato;
+
+g) Modalidades e período de pagamento dos prémios;
+
+h) Forma de cálculo e atribuição da participação nos resultados;
+
+i) Indicação dos valores de resgate e de redução e natureza das respectivas garantias;
+
+j) Prémios relativos a cada garantia, principal ou complementar, sempre que tal informação se revele adequada;
+
+l) Enumeração dos valores de referência utilizados (unidades de participação) nos contratos de capital variável;
+
+m) Indicação da natureza dos activos representativos dos contratos de capital variável;
+
+n) Modalidades de exercício do direito de renúncia a que se refere o artigo 182.º;
+
+o) Indicações gerais relativas ao regime fiscal aplicável ao tipo de contrato;
+
+p) Disposições respeitantes ao exame das reclamações relativas ao contrato por parte dos respectivos tomadores, segurados ou beneficiários, incluindo a referência à possibilidade de intervenção do Instituto de Seguros de Portugal, sem prejuízo do recurso aos tribunais;
+
+q) Liberdade das partes, sem prejuízo do disposto no artigo 193.º, para escolher a lei aplicável ao contrato, com a indicação de qual a que a empresa propõe que seja escolhida.
+
+2 - A proposta deve conter uma menção comprovativa de que o tomador tomou conhecimento das informações referidas no número anterior, presumindo-se, na sua falta, que o mesmo não tomou conhecimento delas, assistindo-lhe, neste caso, o direito de resolver o contrato de seguro no prazo referido no artigo 182.º e de ser reembolsado da totalidade das importâncias pagas.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+###### Artigo 180.º — Dever de informação durante a vigência do contrato ou operação
+
+1 - Durante a vigência do contrato ou operação, para além das condições gerais, especiais e particulares que devem ser entregues ao tomador, as empresas de seguros referidas na presente secção devem também comunicar-lhe o seguinte:
+
+a) Todas as alterações que ocorram nas informações referidas na alínea a) e nas alíneas c) a l) do artigo anterior;
+
+b) Anualmente, informação relativa à atribuição da participação de resultados.
+
+2 - Em caso de incumprimento do disposto no número anterior e sem prejuízo do direito de resolução do contrato ou operação que assiste ao tomador ou ao segurado, a empresa de seguros será responsável por perdas e danos.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+###### Artigo 181.º — Informações suplementares
+
+1 - Para além das informações referidas nos artigos 179.º e 180.º, as empresas de seguros referidas na presente secção devem prestar ao tomador todas as informações suplementares necessárias para a efectiva compreensão do contrato ou operação.
+
+2 - Em caso de incumprimento do número anterior, é aplicável o disposto no n.º 2 do artigo 179.º ou no n.º 2 do artigo 180.º, consoante sejam informações suplementares às que devam ser prestadas antes da celebração do contrato ou operação ou durante a sua vigência.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+#### Secção II — Direito de renúncia
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+###### Artigo 182.º — Direito de renúncia
+
+1 - O tomador de um contrato de seguro ou de qualquer operação do ramo «Vida» previstas no artigo 124.º dispõe de um prazo de 30 dias, a contar da recepção da apólice, para expedir a carta renunciando aos efeitos do contrato ou operação.
+
+2 - O tomador pode também exercer o direito de renúncia nos termos referidos no número anterior sempre que as condições do contrato ou operação não estejam em conformidade com as informações referidas nos artigos 179.º a 181.º
+
+3 - Sob pena de ineficácia, a comunicação da renúncia referida nos números anteriores deve ser notificada, por carta registada, enviada para o endereço da sede social ou da sucursal da empresa de seguros que celebrou o contrato.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+###### Artigo 183.º — Efeitos
+
+1 - O exercício do direito de renúncia determina a resolução do contrato ou operação, extinguindo todas as obrigações deles decorrentes, com efeitos a partir da celebração dos mesmos, havendo lugar, nomeadamente, a devolução do prémio eventualmente já pago e cessando qualquer direito à percepção de comissões pelos respectivos mediadores, sem prejuízo do disposto nos números seguintes.
+
+2 - Nos seguros em caso de morte e nos seguros complementares, a empresa de seguros tem direito ao prémio calculado pro rata temporis e ao custo da apólice.
+
+3 - Nos contratos e operações não abrangidos pelo número anterior, a empresa de seguros tem direito aos custos de desinvestimento que comprovadamente tiver suportado, bem como ao custo da apólice, se for caso disso.
+
+4 - O exercício do direito de renúncia não dá lugar a qualquer indemnização para além do que é estabelecido nos números anteriores.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+###### Artigo 184.º — Exclusões
+
+O direito de renúncia previsto na presente secção não pode ser exercido se o tomador for uma pessoa colectiva nem se aplica aos contratos de duração igual ou inferior a seis meses e aos seguros de grupo.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+#### Secção III — Seguros e operações do ramo «Vida» em moeda estrangeira
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+###### Artigo 185.º — Objecto
+
+1 - As empresas de seguros estabelecidas em Portugal que explorem o ramo «Vida» podem, nos termos das disposições da presente secção, celebrar contratos e operações com expressão em moeda estrangeira.
+
+2 - Sem prejuízo da possibilidade de conversão em euros, nos termos do n.º 4 seguinte, as obrigações pecuniárias, quer do tomador de seguro ou subscritor, quer da empresa de seguros, deverão ser expressas na mesma moeda.
+
+3 - Fica vedada às referidas empresas de seguros a celebração de contratos do ramo «Vida» em espécie.
+
+4 - Em relação aos contratos referidos no n.º 1, a taxa de câmbio do euro será a divulgada pelo Banco de Portugal, nos termos dos n.os 3 a 8 do seu Aviso n.º 1/99, de 4 de Janeiro, no dia anterior àquele em que é emitido o recibo para pagamento do prémio ou prestação ou àquele em que se vence a obrigação por parte da empresa de seguros.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 186.º — Produção anual
+
+Por norma do Instituto de Seguros de Portugal podem ser fixadas limitações ao montante anual global dos prémios e prestações convertidos em euros com referência aos contratos celebrados em moeda estrangeira, por cada empresa de seguros.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 187.º — Princípio da congruência
+
+A aplicação do princípio da congruência aos activos representativos das provisões técnicas relativas aos contratos a que se refere a presente secção será objecto de norma do Instituto de Seguros de Portugal, não sendo aplicável o disposto no artigo 88.º em matéria de localização de activos.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+### Capítulo III — Lei aplicável ao contrato
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+###### Artigo 188.º — Tomador do seguro residente
+
+1 - Os contratos de seguro que cubram riscos situados em território português ou em que Portugal seja o Estado membro do compromisso são regulados pela lei portuguesa quando o tomador de seguro tiver em Portugal a sua residência habitual ou a sua administração principal, consoante se trate de pessoa singular ou colectiva, respectivamente, sem prejuízo do disposto no número seguinte.
+
+2 - As partes contratantes podem escolher a lei de qualquer outro país, nos termos previstos no artigo 191.º
+
+3 - Sempre que um Estado integre diversas unidades territoriais e cada uma delas possua as suas próprias regras de direito em matéria de obrigações contratuais, cada unidade é considerada como um país para efeitos da determinação da lei aplicável ao contrato de seguro.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+###### Artigo 189.º — Tomador do seguro não residente
+
+1 - Os contratos de seguro que cubram riscos situados em território português, quando o tomador do seguro não tiver em Portugal a sua residência habitual ou a sua administração principal, consoante se trate de pessoa singular ou colectiva, são regulados, atendendo à opção das partes contratantes, quer pela lei portuguesa quer pela lei do Estado membro onde o tomador tiver a sua residência habitual ou a sua administração principal, sem prejuízo do disposto no número seguinte.
+
+2 - As partes contratantes podem escolher a lei de qualquer outro país, nos termos previstos no artigo 191.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+###### Artigo 190.º — Pluralidade de riscos
+
+1 - Os contratos de seguro que cubram dois ou mais riscos situados em Portugal e noutros Estados membros relativos às actividades do tomador do seguro e quando este exerça uma actividade comercial, industrial ou liberal são regulados, consoante a opção das partes contratantes, quer pela lei de qualquer dos Estados membros em que os riscos se situam quer pela lei do Estado membro onde o tomador tiver a sua residência habitual, sendo uma pessoa singular, ou a sua administração principal, tratando-se de uma pessoa colectiva, sem prejuízo do disposto no número seguinte.
+
+2 - Relativamente aos riscos situados em território português, as partes contratantes podem escolher a lei de qualquer outro país, nos termos previstos no artigo 191.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+###### Artigo 191.º — Declaração expressa
+
+1 - A escolha, pelas partes contratantes, da lei aplicável aos contratos de seguro que cubram riscos situados em território português ou em que Portugal seja o Estado membro do compromisso deve ser expressa no contrato ou resultar inequivocamente das suas cláusulas, só podendo recair sobre leis cuja aplicabilidade corresponda a um interesse sério dos declarantes ou esteja em conexão com alguns dos elementos do negócio jurídico atendíveis no domínio do direito internacional privado.
+
+2 - Fora dos casos a que se referem os artigos anteriores ou se as partes contratantes não tiverem escolhido a lei aplicável ao contrato, este reger-se-á pela lei do país, de entre os referidos nos artigos anteriores, com cuja ordem jurídica esteja em mais estreita conexão.
+
+3 - Se uma parte do contrato for separável do resto do mesmo contrato e apresente uma mais estreita conexão com a ordem jurídica de algum dos países referidos nos artigos anteriores, poderá, excepcionalmente, aplicar-se a essa parte a lei desse país.
+
+4 - Presume-se que o contrato de seguro apresenta uma mais estreita conexão com a ordem jurídica do Estado membro onde o risco se situa.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+###### Artigo 192.º — Ordem pública
+
+1 - A lei aplicável aos contratos de seguro que cubram riscos situados em território português ou em que Portugal seja o Estado membro do compromisso não poderá envolver ofensa dos princípios fundamentais da ordem pública internacional do Estado Português.
+
+2 - Para os efeitos do número interior, sempre que o contrato de seguro cobrir riscos situados em mais de um Estado membro, será considerado como representando diversos contratos, cada um dizendo apenas respeito a um único Estado membro.
+
+3 - São tidos como contrários à ordem pública os contratos de seguro que garantam, designadamente, qualquer dos seguintes riscos:
+
+a) Responsabilidade criminal ou disciplinar;
+
+b) Rapto;
+
+c) Posse ou transporte de estupefacientes e drogas cujo consumo seja interdito;
+
+d) Inibição de conduzir veículos;
+
+e) Morte de crianças com idade inferior a 14 anos, com excepção das despesas de funeral;
+
+f) Com ressalva do disposto na alínea anterior, morte de incapazes, com excepção das despesas de funeral.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+###### Artigo 193.º — Seguros obrigatórios
+
+1 - Os contratos de seguros obrigatórios na ordem jurídica portuguesa regem-se pela lei portuguesa, sem prejuízo do disposto no n.º 2 do artigo anterior.
+
+2 - Os contratos de seguro obrigatório dos riscos classificados no ramo de responsabilidade civil de veículos terrestres propulsionados a motor, cuja celebração seja recusada por três empresas de seguros, encontram-se sujeitos à legislação nacional prevista para o seguro obrigatório de responsabilidade civil automóvel.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 72/2008 - Diário da República n.º 75/2008, Série I de 2008-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), em vigor a partir de 2009-01-01
+
+###### Artigo 193.º-A — Língua dos documentos contratuais
+
+Quando as partes possam escolher a lei aplicável ao contrato de seguro, nos termos previstos no artigo 191.º, a apólice e os demais documentos contratuais e pré-contratuais serão, a pedido expresso do tomador, redigidos em língua distinta do português.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a [Declaração de Rectificação n.º 17/2009 - Diário da República n.º 43/2009, Série I de 2009-03-03](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2009-604670), em vigor a partir de 2009-01-06
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+## Título V — Endividamento
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 194.º — Princípio
+
+As empresas de seguros estão autorizadas a contrair ou emitir empréstimos nos termos do presente diploma.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 195.º — Regime geral
+
+1 - O montante dos empréstimos contraídos ou emitidos por uma empresa de seguros, independentemente da sua forma, mas com exclusão dos empréstimos subordinados aceites para constituição da margem de solvência disponível, não pode ultrapassar 50% do seu património livre líquido.
+
+2 - Para efeitos do presente título, considera-se que:
+
+a) O património de uma empresa de seguros compreende os seguintes elementos:
+
+i) O capital social realizado com exclusão das acções próprias;
+
+ii) Os prémios de emissão;
+
+iii) As reservas de reavaliação;
+
+iv) As outras reservas;
+
+v) Os resultado transitados;
+
+vi) O resultado do exercício, deduzido de eventuais distribuições;
+
+b) O património livre líquido corresponde ao património, deduzido de toda e qualquer obrigação previsível nos termos legais e regulamentares, das imobilizações incorpóreas e do montante da margem de solvência exigida a constituir.
+
+3 - Para efeitos do presente título, são equiparados a empréstimos todos os financiamentos obtidos pela empresa de seguros, incluindo os descobertos bancários, que não decorram da sua actividade corrente e que, em substância, tenham a função de empréstimo.
+
+4 - Apenas podem contrair ou emitir empréstimos, nos termos do n.º 1, as empresas em que o património livre líquido não seja inferior a 30% do capital social mínimo obrigatório.
+
+5 - A empresa que, após a contracção ou a emissão de um empréstimo, deixe de dar cumprimento ao disposto nos números anteriores, deve, no prazo máximo de 12 meses, a contar da data da verificação do incumprimento, executar integralmente o necessário aumento de capital social, sob pena de se constituir em situação financeira insuficiente para os efeitos dos artigos 109.º e seguintes.
+
+6 - É proibida a distribuição de dividendos enquanto não estiverem integralmente liquidadas todas as obrigações resultantes do aumento do capital social previsto no número anterior.
+
+7 - Ao aumento de capital social por novas entradas efectuado nos termos do n.º 5 não é aplicável a faculdade constante do n.º 2 do artigo 277.º do Código das Sociedades Comerciais.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 196.º — Regime especial
+
+1 - Para ultrapassar o limite fixado no n.º 1 do artigo anterior, mas só até 75% do património livre líquido, a deliberação social de endividamento deverá ser tomada pela assembleia geral nos termos dos artigos 383.º, n.º 2, e 386.º, n.º 3, do Código das Sociedades Comerciais.
+
+2 - No caso previsto no número anterior, a empresa de seguros, quando for convocada a assembleia geral, ou, caso esta não careça de convocação, pelo menos 30 dias antes da celebração ou emissão do empréstimo, deve comunicar os termos do empréstimo ao Instituto de Seguros de Portugal.
+
+3 - À empresa que, após a contracção ou a emissão de um empréstimo, exceda a percentagem fixada no n.º 1 do presente artigo é aplicável o regime previsto nos n.os 5 a 7 do artigo anterior.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 197.º — Elementos documentais
+
+O Instituto de Seguros de Portugal fixará por norma quais os elementos documentais das empresas de seguros, e respectivos termos, relevantes para aferir do cumprimento dos limites fixados nos n.os 1 e 4 do artigo 195.º e no n.º 1 do artigo anterior.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 198.º — Empresas em situação financeira insuficiente
+
+1 - Às empresas de seguros em situação financeira insuficiente, nos termos dos artigos 109.º e seguintes é vedada a contracção ou emissão de empréstimos até que se mostrem acauteladas as suas responsabilidades para com os credores específicos de seguros, salvo se autorizadas previamente pelo Instituto de Seguros de Portugal.
+
+2 - O Instituto de Seguros de Portugal, quando tal se mostre indispensável para acautelar as responsabilidades para com os credores específicos de seguros de empresas na situação prevista no número anterior, poderá determinar a suspensão do cumprimento das obrigações dessas empresas, decorrentes de quaisquer seus empréstimos, sem prejuízo das responsabilidades destas empresas para com os seus mutuantes.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 199.º — Fundo de amortização
+
+O Instituto de Seguros de Portugal pode, se o considerar necessário, determinar a constituição de um fundo para amortização do empréstimo contraído ou emitido.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 200.º — Publicidade
+
+Nos prospectos, anúncios, títulos dos empréstimos e todos os documentos em geral relativos a quaisquer empréstimos contraídos ou emitidos pelas empresas de seguros deve constar, de forma explicita, a preferência de que os credores específicos de seguros gozam sobre o seu património em caso de liquidação ou falência, assim como os poderes do Instituto de Seguros de Portugal decorrentes do n.º 2 do artigo 198.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 201.º — Títulos de dívida de curto prazo
+
+1 - Sem prejuízo do presente diploma e respectivas normas de execução, a emissão de títulos de dívida a curto prazo pelas empresas de seguros regula-se pelo disposto no Decreto-Lei n.º 69/2004, de 25 de Março.
+
+2 - (Revogado).
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 201.º-A — Aquisição de acções próprias
+
+Sem prejuízo do regime geral, só podem adquirir acções próprias as empresas de seguros em que o património livre líquido não seja inferior nem a metade do capital social mínimo obrigatório nem ao valor necessário para a constituição da margem de solvência exigida.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 201.º-B — Nulidade
+
+1 - Sem prejuízo da aplicação do regime geral sancionatório da actividade seguradora, são nulos a aquisição de acções próprias e os empréstimos contraídos ou emitidos com violação do disposto no presente diploma.
+
+2 - O Instituto de Seguros de Portugal tem legitimidade para requerer a declaração de nulidade dessas aquisições e empréstimos, bem como as providências cautelares necessárias à garantia da sua eficácia.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 201.º-C — Empresas com sede fora do território da União Europeia
+
+1 - Às dívidas resultantes de empréstimos contraídos ou emitidos por empresas de seguros com sede fora do território da União Europeia, cujo produto seja imputável à actividade das respectivas sucursais estabelecidas em Portugal, aplica-se, com as devidas adaptações e sem prejuízo do fixado nos números seguintes, o disposto nos artigos 195.º a 200.º
+
+2 - A sucursal em Portugal de empresa de seguros com sede fora do território da União Europeia que, após a imputação do serviço da dívida resultante dos empréstimos contraídos ou emitidos nos termos do número anterior, deixe de dar cumprimento ao disposto no n.º 1 do artigo 195.º, ou no n.º 1 do artigo 196.º, está obrigada a repor a situação num prazo de seis meses, sob pena de se constituir em situação financeira insuficiente para os efeitos dos artigos 109.º e seguintes.
+
+3 - Enquanto a situação não for reposta nos termos do número anterior, a sucursal não pode efectuar transferências de fundos para a sede social ou para qualquer sucursal ou filial localizada fora do território nacional, salvo se autorizada previamente pelo Instituto de Seguros de Portugal.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+## Título VI — Sanções
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+### Capítulo I — Ilícito penal
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 202.º — Prática ilícita de actos ou operações de seguros, de resseguros ou de gestão de fundos de pensões
+
+Quem praticar actos ou operações de seguros, resseguros ou de gestão de fundos de pensões, por conta própria ou alheia, sem que para tal exista a necessária autorização, é punido com pena de prisão até 5 anos.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 28/2009 - Diário da República n.º 117/2009, Série I de 2009-06-19](https://diariodarepublica.pt/dr/detalhe/lei/28-2009-494791), em vigor a partir de 2009-06-20
+
+###### Artigo 203.º — Dever de colaboração
+
+As entidades suspeitas da prática de actos ou operações não autorizados devem facultar ao Instituto de Seguros de Portugal todos os documentos e informações que lhes sejam solicitados, no prazo para o efeito estabelecido.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+### Capítulo II — Contra-ordenações
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+#### Secção I — Disposições gerais
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 204.º — Definições
+
+Para os efeitos do presente capítulo, consideram-se entidades sujeitas à supervisão do Instituto de Seguros de Portugal as entidades autorizadas a exercer actividade sujeita à supervisão daquele Instituto, designadamente as empresas de seguros e de resseguros com sede em Portugal, as sucursais de empresas de seguros com sede na União Europeia, as sucursais de empresas de seguros com sede fora da União Europeia e as sociedades gestoras de fundos de pensões.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+###### Artigo 205.º — Aplicação no espaço
+
+1 - O disposto no presente capítulo é aplicável, salvo tratado ou convenção em contrário, independentemente da nacionalidade do agente, aos factos praticados:
+
+a) Em território português;
+
+b) Em território estrangeiro, desde que sujeitos à supervisão do Instituto de Seguros de Portugal;
+
+c) A bordo de navios ou aeronaves portugueses.
+
+2 - A aplicabilidade do disposto no presente capítulo aos factos praticados em território estrangeiro deverá respeitar, com as necessárias adaptações, os princípios enunciados nos n.os 1 e 2 do artigo 6.º do Código Penal.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 206.º — Responsabilidade
+
+1 - Pela prática das infracções a que se refere o presente capítulo podem ser responsabilizadas, conjuntamente ou não, pessoas singulares ou colectivas, ainda que irregularmente constituídas, e associações sem personalidade jurídica.
+
+2 - As pessoas colectivas, ainda que irregularmente constituídas, e as associações sem personalidade jurídica são responsáveis pelas infracções cometidas pelos seus mandatários, representantes ou trabalhadores, actuando em seu nome e no seu interesse e no âmbito dos poderes e funções em que haja sido investido.
+
+3 - A responsabilidade da pessoa colectiva é excluída quando o agente actue contra ordens ou instruções expressas daquela.
+
+4 - As pessoas singulares que sejam membros de órgãos sociais da pessoa colectiva ou exerçam funções de administração ou de mandatário geral são responsáveis pelas infracções que lhes sejam imputáveis.
+
+5 - A invalidade e a ineficácia jurídicas dos actos em que se funde a relação entre o agente individual e a pessoa colectiva não obstam a que seja aplicado o disposto no número anterior.
+
+6 - A responsabilidade da pessoa colectiva não preclude a responsabilidade individual dos agentes referidos no n.º 2.
+
+7 - Não obsta à responsabilidade dos agentes individuais que representem outrem a circunstância de a ilicitude ou o grau de ilicitude depender de certas qualidades ou relações especiais do agente e estas só se verificarem na pessoa do representado, ou de requerer que o agente pratique o acto no seu próprio interesse, tendo o representante actuado no interesse do representado.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 211-A/2008 - Diário da República n.º 213/2008, 1º Suplemento, Série I de 2008-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-2008-626446), em vigor a partir de 2008-11-08, produz efeitos a partir de 2008-10-12
+
+###### Artigo 207.º — Graduação da sanção
+
+1 - A medida da coima e as sanções acessórias aplicáveis serão determinadas em função da culpa, da situação económica do agente e da sua conduta anterior.
+
+2 - A gravidade da infracção cometida pelas pessoas colectivas será avaliada, designadamente, pelas seguintes circunstâncias:
+
+a) Perigo criado ou dano causado às condições de actuação no mercado segurador, à economia nacional ou, em especial, aos contratantes ou beneficiários dos produtos comercializados;
+
+b) Carácter ocasional ou reiterado da infracção;
+
+c) Actos de ocultação, na medida em que dificultem a descoberta da infracção ou a adequação e eficácia das sanções aplicáveis;
+
+d) Actos da pessoa colectiva destinados a, por sua iniciativa, reparar os danos ou obviar aos perigos causados pela infracção.
+
+3 - Para os agentes individuais, além das circunstâncias correspondentes às enumeradas no número anterior, atender-se-á ainda, designadamente, às seguintes:
+
+a) Nível de responsabilidade e esfera de acção na pessoa colectiva em causa que implique um dever especial de não cometer a infracção;
+
+b) Benefício, ou intenção de o obter, do próprio, do cônjuge, de parente ou de afim até ao 3.º grau, directo ou por intermédio de empresas em que, directa ou indirectamente, detenham uma participação.
+
+4 - A atenuação decorrente da reparação do dano ou da redução do perigo, quando realizadas pelo ente colectivo, comunica-se a todos os agentes individuais, ainda que não tenham pessoalmente contribuído para elas.
+
+5 - A coima deve, sempre que possível, exceder o benefício económico que o agente ou a pessoa que fosse seu propósito beneficiar tenham retirado da prática da infracção.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 208.º — Reincidência
+
+1 - Será punido como reincidente quem praticar contra-ordenação prevista no presente diploma, depois de ter sido condenado por decisão definitiva ou transitada em julgado pela prática anterior de contra-ordenação nele igualmente prevista, desde que não se tenham completado três anos sobre essa sua prática.
+
+2 - Em caso de reincidência, os limites mínimo e máximo da coima aplicável são elevados em um terço.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 209.º — Cumprimento do dever omitido
+
+1 - Sempre que a contra-ordenação resulte de omissão de um dever, a aplicação das sanções e o pagamento da coima não dispensam o infractor do seu cumprimento, se este ainda for possível.
+
+2 - No caso previsto no número anterior, o tribunal poderá ordenar ao agente que adopte as providências legalmente exigidas.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 210.º — Concurso de infracções
+
+1 - Se o mesmo facto constituir simultaneamente crime e contra-ordenação, será o agente sempre punível por ambas as infracções, instaurando-se, para o efeito, processos distintos, a decidir pelas respectivas entidades competentes, sem prejuízo de no processo contra-ordenacional, se o agente for o mesmo, apenas ficar sujeito às sanções acessórias eventualmente aplicáveis.
+
+2 - Quem tiver praticado várias contra-ordenações antes da aplicação da sanção por qualquer deles, a coima a aplicar será única e terá por limite superior o dobro do valor máximo aplicável, sem prejuízo do disposto no artigo 208.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 211.º — Prescrição
+
+1 - O procedimento pelas contra-ordenações previstas neste diploma prescreve em dois anos contados nos termos previstos no artigo 119.º do Código Penal.
+
+2 - O prazo de prescrição das coimas e sanções acessórias é de dois anos a contar do dia em que a decisão administrativa se tornar definitiva ou do dia em que a decisão judicial transitar em julgado.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+#### Secção II — Ilícitos em especial
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 212.º — Contra-ordenações simples
+
+São puníveis com coima de (euro) 2500 a (euro) 100 000 ou de (euro) 7500 a (euro) 500 000, consoante seja aplicada a pessoa singular ou colectiva, as infracções adiante referidas:
+
+a) Revogada;
+
+b) O incumprimento do dever de envio, dentro dos prazos fixados, de documentação requerida pelo Instituto de Seguros de Portugal;
+
+c) Revogada;
+
+d) Revogada;
+
+e) A inobservância de regras contabilísticas aplicáveis, determinadas por lei ou por normas emitidas pelo Instituto de Seguros de Portugal;
+
+f) O desrespeito pela inibição do exercício de direitos de voto;
+
+g) A violação de preceitos imperativos da legislação aplicável às entidades sujeitas à supervisão do Instituto de Seguros de Portugal ou de normas emitidas em seu cumprimento e para sua execução que não seja considerada contra-ordenação grave ou muito grave;
+
+h) A exploração de ramos sujeitos, nos termos da lei, a autorização, sempre que não for precedida desta.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 28/2009 - Diário da República n.º 117/2009, Série I de 2009-06-19](https://diariodarepublica.pt/dr/detalhe/lei/28-2009-494791), em vigor a partir de 2009-06-20
+
+###### Artigo 213.º — Contra-ordenações graves
+
+São puníveis com coima de (euro) 7500 a (euro) 300 000 ou de (euro) 15 000 a (euro) 1 500 000, consoante seja aplicada a pessoa singular ou colectiva, as infracções adiante referidas:
+
+a) O incumprimento, pelas entidades sujeitas à supervisão do Instituto de Seguros de Portugal, do dever de lhe comunicarem a composição dos órgãos de administração e de fiscalização, a designação dos mandatários gerais, as respectivas alterações e as modificações da estrutura accionista;
+
+b) A omissão de indicação ao Instituto de Seguros de Portugal dos factos relativos aos requisitos legais exigíveis aos membros dos órgãos de administração e fiscalização, ou aos mandatários gerais, que ocorram em data posterior à da comunicação da sua composição ou identidade;
+
+c) A inobservância das disposições relativas à representação do capital social das empresas de seguros por acções nominativas ou ao portador registadas;
+
+d) A inobservância das normas legais e regulamentares relativas à remição do capital ou à transformação de pensão devida nos termos dos planos de pensões;
+
+e) O incumprimento, pela entidade gestora de fundos de pensões, do dever de compra de seguro celebrado em nome e por conta do beneficiário, para garantia das pensões resultantes de planos de pensões de contribuição definida;
+
+f) O impedimento ou obstrução ao exercício da supervisão pelo Instituto de Seguros de Portugal, designadamente por incumprimento, nos prazos fixados, das instruções ditadas no caso individual considerado, para cumprimento da lei e respectiva regulamentação;
+
+g) A omissão de entrega de documentação ou de prestação de informações requeridas pelo Instituto de Seguros de Portugal para o caso individualmente considerado;
+
+h) O fornecimento ao Instituto de Seguros de Portugal de informações inexactas susceptíveis de induzir em conclusões erróneas de efeito idêntico ou semelhante ao que teriam informações falsas sobre o mesmo objecto;
+
+i) O incumprimento dos deveres de informação para com os tomadores, segurados ou beneficiários de apólices de seguros, para com os associados, participantes ou beneficiários de planos de pensões, ou para com o público em geral, susceptível de induzir em conclusões erróneas acerca da situação da empresa ou dos fundos por ela geridos;
+
+j) A inexistência de contabilidade organizada, bem como a inobservância das regras contabilísticas aplicáveis, determinadas por lei ou pelo Instituto de Seguros de Portugal, quando essa inobservância prejudique gravemente o conhecimento da situação patrimonial e financeira da empresa em causa ou dos fundos de pensões por ela geridos;
+
+l) O incumprimento do dever de utilização de cláusulas ou apólices uniformes;
+
+m) O incumprimento dos deveres que à entidade gestora de fundos de pensões incumbem, relativamente à extinção dos fundos que gere;
+
+n) A utilização de interpostas pessoas com a finalidade de atingir um resultado cuja obtenção directa implicaria a prática de contra-ordenação.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 28/2009 - Diário da República n.º 117/2009, Série I de 2009-06-19](https://diariodarepublica.pt/dr/detalhe/lei/28-2009-494791), em vigor a partir de 2009-06-20
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 214.º — Contra-ordenações muito graves
+
+São puníveis com coima de (euro) 15 000 a (euro) 1 000 000 ou de (euro) 30 000 a (euro) 5 000 000, consoante seja aplicada a pessoa singular ou colectiva, as infracções adiante referidas, sem prejuízo da aplicação de sanções mais graves previstas na lei:
+
+a) A prática de actos ou operações de seguros, resseguros ou de gestão de fundos de pensões, por conta própria ou alheia, sem que para tal exista a necessária autorização;
+
+b) O exercício, pelas entidades sujeitas à supervisão do Instituto de Seguros de Portugal, de actividades que não integrem o seu objecto legal;
+
+c) A realização fraudulenta do capital social;
+
+d) A ocultação da situação de insuficiência financeira;
+
+e) Os actos de intencional gestão ruinosa, praticados pelos membros dos órgãos sociais ou pelos mandatários gerais, com prejuízo para os tomadores, segurados e beneficiários das apólices de seguros, associados, participantes e beneficiários dos fundos de pensões e demais credores;
+
+f) A prática, pelos detentores de participações qualificadas, de actos que impeçam ou dificultem, de forma grave, uma gestão sã e prudente da entidade participada ou dos fundos de pensões por ela geridos;
+
+g) A utilização, pelas entidades gestoras dos fundos de pensões, dos bens dos fundos confiados à sua gestão, para despesas ou operações não legalmente autorizadas ou especialmente vedadas.
+
+h) O incumprimento dos deveres de informação para com os tomadores, segurados ou beneficiários de apólices de seguros, para com os associados, participantes ou beneficiários de planos de pensões, ou para com o público em geral;
+
+i) O incumprimento de deveres de informação, comunicação ou esclarecimento para com o Ministro das Finanças e para com o Instituto de Seguros de Portugal;
+
+j) O fornecimento de informações incompletas ou inexactas ao Instituto de Seguros de Portugal.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 28/2009 - Diário da República n.º 117/2009, Série I de 2009-06-19](https://diariodarepublica.pt/dr/detalhe/lei/28-2009-494791), em vigor a partir de 2009-06-20
+
+###### Artigo 214.º-A — Agravamento da coima
+
+Sem prejuízo do disposto na alínea a) do n.º 1 do artigo 216.º, se o dobro do benefício económico exceder o limite máximo da coima aplicável, este é elevado àquele valor.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 9.º do/a [Lei n.º 28/2009 - Diário da República n.º 117/2009, Série I de 2009-06-19](https://diariodarepublica.pt/dr/detalhe/lei/28-2009-494791), em vigor a partir de 2009-06-20
+
+###### Artigo 215.º — Punibilidade da negligência e da tentativa
+
+1 - É punível a prática com negligência das infracções previstas nos artigos 213.º e 214.º
+
+2 - É punível a prática sob a forma tentada das infracções previstas no artigo 214.º
+
+3 - A tentativa é punível com a sanção aplicável ao ilícito consumado, especialmente atenuada.
+
+4 - A atenuação da responsabilidade do agente individual comunica-se à pessoa colectiva.
+
+5 - Em caso de negligência, os limites máximo e mínimo da coima são reduzidos a metade.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 216.º — Sanções acessórias
+
+1 - Conjuntamente com as coimas previstas nos artigos anteriores, poderão ser aplicadas as seguintes sanções acessórias:
+
+a) Apreensão e perda do objecto da infracção e do benefício económico obtido pelo infractor através da sua prática, com observância, na parte aplicável, do disposto nos artigos 22.º a 26.º do Decreto-Lei n.º 433/82, de 27 de Outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de Outubro, e 244/ 95, de 14 de Setembro;
+
+b) Quando o agente seja pessoa singular, inibição do exercício de cargos sociais nas entidades sujeitas à supervisão do Instituto de Seguros de Portugal, por um período até um ano, nos casos previstos nos artigos 212.º e 213.º, ou de seis meses a três anos, nos casos previstos no artigo 214.º;
+
+c) Interdição total ou parcial de celebração de contratos com novos tomadores de seguros ou segurados, do ramo, modalidade, produto ou operação a que a contra-ordenação respeita, por um período até três anos;
+
+d) Interdição total ou parcial de celebração de novos contratos do ramo, modalidade, produto ou operação a que o ilícito de mera ordenação social respeita, por um período de seis meses a três anos;
+
+e) Interdição de admissão de novos aderentes, quando a contra-ordenação respeite a um fundo de pensões aberto, por um período até três anos;
+
+f) Suspensão da concessão de autorizações para a gestão de novos fundos de pensões, por um período de seis meses a três anos;
+
+g) Suspensão do exercício do direito de voto atribuído aos sócios das entidades sujeitas à supervisão do Instituto de Seguros de Portugal, por um período de seis meses a três anos;
+
+h) Publicação pelo Instituto de Seguros de Portugal da punição definitiva, nos termos do número seguinte.
+
+2 - As publicações referidas na alínea h) do número anterior serão feitas no Diário da República, 2.ª série, e num jornal de larga difusão na localidade da sede ou do estabelecimento permanente do agente ou, se este for uma pessoa singular, na da sua residência e, sempre que se justifique, no boletim de cotações das bolsas de valores, a expensas dos sancionados.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+#### Secção III — Processo
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 217.º — Competência
+
+1 - O processamento das contra-ordenações e a aplicação das coimas e das sanções acessórias, salvo o disposto no n.º 3, competem ao Instituto de Seguros de Portugal.
+
+2 - Cabe ao conselho directivo do Instituto de Seguros de Portugal a decisão do processo.
+
+3 - A aplicação das sanções acessórias previstas nas alíneas c) a f) do artigo 216.º compete, sob proposta do Instituto de Seguros de Portugal, ao Ministro das Finanças.
+
+4 - O Instituto de Seguros de Portugal, enquanto entidade competente para instruir os processos de contra-ordenação, pode, quando necessário às averiguações ou à instrução do processo, proceder à apreensão de documentos e valores e proceder à selagem de objectos não apreendidos, bem como solicitar a quaisquer pessoas e entidades todos os esclarecimentos e informações que se revelem necessários para o efeito.
+
+5 - No decurso da averiguação ou da instrução, o Instituto de Seguros de Portugal poderá ainda solicitar às entidades policiais e a quaisquer outros serviços públicos ou autoridades toda a colaboração ou auxílio necessários para a realização das finalidades do processo.
+
+6 - É correspondentemente aplicável o disposto no artigo 203.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 28/2009 - Diário da República n.º 117/2009, Série I de 2009-06-19](https://diariodarepublica.pt/dr/detalhe/lei/28-2009-494791), em vigor a partir de 2009-06-20
+
+###### Artigo 218.º — Suspensão do processo
+
+1 - Quando a infracção constitua irregularidade sanável, não lese significativamente nem ponha em perigo iminente e grave os interesses dos tomadores, segurados ou beneficiários das apólices, ou dos associados, participantes ou beneficiários de fundos de pensões, e nem cause prejuízos importantes ao sistema financeiro ou à economia nacional, o conselho directivo do Instituto de Seguros de Portugal poderá suspender o processo, notificando o infractor para, no prazo que lhe fixar, sanar a irregularidade em que incorreu.
+
+2 - A falta de sanação no prazo fixado determina o prosseguimento do processo.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 219.º — Notificações
+
+1 - As notificações serão feitas por carta registada com aviso de recepção, endereçada à sede ou ao domicílio dos interessados ou, se necessário, através das autoridades policiais.
+
+2 - A notificação da acusação e da decisão condenatória é feita, na impossibilidade de se cumprir o número anterior, por anúncio publicado em jornal da localidade da sede ou da última residência conhecida no País ou, no caso de aí não haver jornal ou de não ser conhecida sede ou residência no País, em jornal diário de larga difusão nacional.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 220.º — Dever de comparência
+
+1 - Às testemunhas e aos peritos que não comparecerem no dia, hora e local designados para uma diligência do processo, nem justificarem a falta nos cinco dias úteis imediatos, será aplicada, pelo Instituto de Seguros de Portugal, uma sanção pecuniária graduada entre um quinto e o salário mínimo nacional mensal mais elevado em vigor à data da prática do facto.
+
+2 - O pagamento será efectuado no prazo de 15 dias a contar da notificação, sob pena de execução.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 221.º — Acusação e defesa
+
+1 - Concluída a instrução, será deduzida acusação ou, se não tiverem sido recolhidos indícios suficientes de ter sido cometida contra-ordenação, serão arquivados os autos.
+
+2 - Na acusação serão indicados o infractor, os factos que lhe são imputados e as respectivas circunstâncias de tempo e lugar, bem como a lei que os proíbe e pune.
+
+3 - A acusação será notificada ao agente e às entidades que, nos termos do artigo 227.º, podem responder solidária ou subsidiariamente pelo pagamento da coima, sendo-lhes designado um prazo razoável, entre 10 e 30 dias, tendo em atenção o lugar da residência, sede ou estabelecimento permanente do agente e a complexidade do processo, para, querendo, identificarem o seu defensor, apresentarem, por escrito, a sua defesa e oferecerem ou requererem meios de prova.
+
+4 - Cada uma das entidades referidas no número anterior não poderá arrolar mais de cinco testemunhas por cada infracção.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 222.º — Revelia
+
+A falta de comparência do agente não obsta, em fase alguma do processo, a que este siga os seus termos e seja proferida decisão final.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 223.º — Decisão
+
+1 - Realizadas, oficiosamente ou a requerimento, as diligências pertinentes em consequência da apresentação da defesa, o processo, acompanhado de parecer sobre a matéria de facto e de direito, é apresentado à entidade competente para a decisão.
+
+2 - A decisão é notificada ao agente e demais interessados, nos termos do artigo 219.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 224.º — Requisitos da decisão condenatória
+
+1 - A decisão condenatória conterá:
+
+a) A identificação do agente e dos eventuais comparticipantes;
+
+b) A descrição do facto imputado e das provas obtidas, bem como das normas segundo as quais se pune e a fundamentação da decisão;
+
+c) A sanção ou sanções aplicadas, com indicação dos elementos que contribuíram para a sua determinação;
+
+d) A indicação dos termos em que a condenação pode ser impugnada judicialmente e se torna exequível;
+
+e) A indicação de que, em caso de impugnação judicial, o juiz pode decidir mediante audiência ou, se o agente, o Ministério Público e o Instituto de Seguros de Portugal não se opuserem, mediante simples despacho;
+
+f) A indicação de que vigora o princípio da proibição da reformatio in pejus, sem prejuízo da atendibilidade das alterações verificadas na situação económica e financeira do agente.
+
+2 - A notificação conterá, além dos termos da decisão, a advertência de que a coima deverá ser paga no prazo de 15 dias após o termo do prazo para a impugnação judicial, sob pena de se proceder à sua execução.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 225.º — Suspensão da execução da sanção
+
+1 - A autoridade administrativa pode, fundadamente, suspender, total ou parcialmente, a execução da sanção.
+
+2 - A suspensão, a fixar entre dois e cinco anos a contar da data em que se esgotar o prazo da impugnação judicial da decisão condenatória, pode ser sujeita a injunções, designadamente as necessárias à regularização de situações ilegais, à reparação de danos ou à prevenção de perigos.
+
+3 - Se decorrer o tempo de suspensão sem que o agente tenha praticado infracção criminal ou ilícito de mera ordenação social previsto no presente diploma e sem ter violado as obrigações que lhe tenham sido impostas, ficará a condenação sem efeito, procedendo-se, no caso contrário, à execução imediata da sanção aplicada.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 226.º — Pagamento das coimas
+
+1 - O pagamento da coima e das custas será efectuado no prazo de 15 dias, nos termos do regime geral do ilícito de mera ordenação social.
+
+2 - O montante das coimas reverte integralmente para o Estado.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 227.º — Responsabilidade pelo pagamento
+
+1 - As pessoas colectivas, ainda que irregularmente constituídas, e as associações sem personalidade jurídica respondem solidariamente pelo pagamento da coima e das custas em que forem condenados os seus dirigentes, empregados ou representantes pela prática de infracções puníveis nos termos do presente diploma.
+
+2 - Os titulares dos órgãos de administração das pessoas colectivas, ainda que irregularmente constituídas, e das associações sem personalidade jurídica, que, podendo fazê-lo, não se tenham oposto à prática da infracção, respondem individual e subsidiariamente pelo pagamento da coima e das custas em que aquelas sejam condenadas, ainda que à data da condenação tenham sido dissolvidas ou entrado em liquidação, salvo se provarem que não foi por culpa sua que o património da pessoa colectiva ou equiparada se tornou insuficiente para a satisfação de tais créditos.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 228.º — Exequibilidade da decisão
+
+1 - Sem prejuízo do disposto no número seguinte, a decisão final torna-se exequível se não for judicialmente impugnada.
+
+2 - A decisão que aplique alguma das sanções previstas nas alíneas b) a f) do artigo 216.º torna-se, quanto a ela, imediatamente exequível, sem prejuízo da suspensão jurisdicional da sua eficácia, nos termos aplicáveis da Lei de Processo nos Tribunais Administrativos.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 229.º — Comunicação das sanções
+
+As sanções aplicadas a empresas de seguros, ao abrigo do presente diploma, devem ser comunicadas às autoridades de supervisão dos restantes Estados membros da União Europeia.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+###### Artigo 229.º-A — Processo sumaríssimo
+
+1 - Quando a natureza da infracção, a intensidade da culpa e as demais circunstâncias o justifiquem, pode o Instituto de Seguros de Portugal, antes da acusação e com base nos factos indiciados, notificar o arguido da possibilidade de aplicação de uma sanção reduzida, nos termos e condições constantes dos números seguintes.
+
+2 - A sanção aplicável é uma admoestação, nos termos do regime geral dos ilícitos de mera ordenação social, ou uma coima cuja medida concreta não exceda o triplo do limite mínimo da moldura abstractamente prevista para a infracção, podendo em qualquer caso ser também aplicada a sanção acessória de publicação da decisão condenatória.
+
+3 - A notificação prevista no n.º 1 é feita mediante comunicação escrita da qual devem constar:
+
+a) A descrição dos factos imputados;
+
+b) A especificação das normas violadas e dos ilícitos contra-ordenacionais praticados;
+
+c) A sanção ou sanções a aplicar, com indicação dos elementos que contribuíram para a sua determinação;
+
+d) A indicação, se for caso disso, do comportamento que o arguido deve adoptar em cumprimento do dever violado e do prazo de que dispõe para o efeito;
+
+e) A informação sobre as consequências respectivas da aceitação e da recusa da sanção.
+
+4 - Recebida a notificação prevista no n.º 1, o arguido dispõe do prazo de 15 dias para remeter ao Instituto de Seguros de Portugal declaração escrita de aceitação da sanção nos termos notificados ou requerimento de pagamento da coima aplicada.
+
+5 - Se o arguido aceitar a sanção ou proceder ao pagamento da coima aplicada e se adoptar o comportamento que lhe tenha sido eventualmente notificado, a decisão do Instituto de Seguros de Portugal torna-se definitiva, como decisão condenatória e preclude a possibilidade de nova apreciação dos factos imputados como contra-ordenação.
+
+6 - Se o arguido recusar a aplicação da sanção nos termos notificados ou não se pronunciar no prazo estabelecido, ou se, tendo sido aplicada uma coima, esta não tiver sido paga no prazo devido, ou ainda se requerer qualquer diligência complementar ou não adoptar o comportamento devido, a notificação feita nos termos do n.º 3 fica sem efeito e o processo de contra-ordenação continua sob a forma comum, cabendo ao Instituto de Seguros de Portugal realizar as demais diligências instrutórias e deduzir acusação, sem que esta seja limitada pelo conteúdo da referida notificação.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 9.º do/a [Lei n.º 28/2009 - Diário da República n.º 117/2009, Série I de 2009-06-19](https://diariodarepublica.pt/dr/detalhe/lei/28-2009-494791), em vigor a partir de 2009-06-20
+
+###### Artigo 229.º-B — Divulgação da decisão
+
+1 - Decorrido o prazo de impugnação judicial, a decisão do Instituto de Seguros de Portugal que condene o agente pela prática de uma ou mais contra-ordenações grave e muito graves é divulgada no sítio da Internet do Instituto de Seguros de Portugal, por extracto elaborado pelo Instituto de Seguros de Portugal ou na íntegra, mesmo que tenha sido requerida a sua impugnação judicial, sendo, neste caso, feita expressa menção desse facto.
+
+2 - A decisão judicial que confirme, altere ou revogue a decisão condenatória do Instituto de Seguros de Portugal ou do tribunal de 1.ª instância é comunicada de imediato ao Instituto de Seguros de Portugal e obrigatoriamente divulgada nos termos do número anterior.
+
+3 - O disposto nos números anteriores pode não ser aplicado nos processos sumaríssimos quando tenha lugar a suspensão da sanção, a ilicitude do facto e a culpa do agente sejam diminutas ou quando o Instituto de Seguros de Portugal considere que a divulgação da decisão pode ser contrária aos interesses dos tomadores, segurados ou beneficiários de apólices de seguros, bem como dos associados, participantes ou beneficiários de planos de pensões, afectar gravemente os mercados segurador, ressegurador ou de fundos de pensões, ou causar danos concretos, a pessoas ou entidades envolvidas, manifestamente desproporcionados em relação à gravidade dos factos imputados.
+
+4 - Independentemente do trânsito em julgado, as decisões judiciais relativas ao crime de prática ilícita de actos ou operações de seguros, de resseguros ou de gestão de fundos de pensões são divulgadas pelo Instituto de Seguros de Portugal nos termos dos n.os 1 e 2.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Aditado pelo/a Artigo 9.º do/a [Lei n.º 28/2009 - Diário da República n.º 117/2009, Série I de 2009-06-19](https://diariodarepublica.pt/dr/detalhe/lei/28-2009-494791), em vigor a partir de 2009-06-20
+
+#### Secção IV — Impugnação judicial
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 230.º — Impugnação judicial
+
+1 - Recebido o requerimento de interposição de recurso da decisão que tenha aplicado uma sanção, o Instituto de Seguros de Portugal remete os autos, no prazo de 15 dias, ao magistrado do Ministério Público junto do tribunal referido no artigo seguinte.
+
+2 - O Instituto de Seguros de Portugal ou o Ministro das Finanças, quando for o caso, pode juntar alegações ou informações que considere relevantes para a decisão da causa.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 231.º — Tribunal competente
+
+O tribunal da concorrência, regulação e supervisão é o tribunal competente para conhecer o recurso, a revisão e a execução das decisões ou de quaisquer outras medidas legalmente susceptíveis de impugnação tomadas pelas autoridades administrativas em processo de contra-ordenação.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 46/2011 - Diário da República n.º 120/2011, Série I de 2011-06-24](https://diariodarepublica.pt/dr/detalhe/lei/46-2011-670368), em vigor a partir de 2011-06-29
+
+###### Artigo 232.º — Decisão judicial por despacho
+
+O juiz pode decidir por despacho quando não considere necessária a audiência de julgamento e o agente, o Ministério Público e o Instituto de Seguros de Portugal ou o Ministro das Finanças, quando for o caso, não se oponham a esta forma de decisão.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 233.º — Intervenção do Instituto de Seguros de Portugal na fase contenciosa
+
+1 - O Instituto de Seguros de Portugal ou o Ministro das Finanças, quando for o caso, poderá participar, através de um representante, na audiência de julgamento, para a qual será notificado.
+
+2 - A desistência da acusação pelo Ministério Público depende da concordância do Instituto de Seguros de Portugal ou do Ministro das Finanças, quando for o caso.
+
+3 - O Instituto de Seguros de Portugal ou o Ministro das Finanças, quando for o caso, tem legitimidade para recorrer das decisões proferidas no processo de impugnação e que admitam recurso.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+#### Secção V — Disposições finais e transitórias
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 234.º — Direito subsidiário
+
+Em tudo o que não estiver especialmente previsto no presente capítulo, aplicar-se-á o regime geral do ilícito de mera ordenação social.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 235.º — Disposições transitórias
+
+1 - Aos factos previstos nos artigos 212.º a 214.º praticados antes da entrada em vigor do presente diploma e puníveis como transgressões, contravenções ou ilícitos de mera ordenação social nos termos da legislação agora revogada, e em relação aos quais ainda não tenha sido instaurado qualquer processo, é aplicável o disposto no presente diploma, sem prejuízo da aplicação da lei mais favorável.
+
+2 - Aos processos pendentes na data referida no número anterior continuará a ser aplicada aos factos neles constantes a legislação substantiva e processual anterior, sem prejuízo da aplicação da lei mais favorável.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+## Título VII — Disposições finais e transitórias
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 236.º — Comunicação à Comissão Europeia
+
+O Instituto de Seguros de Portugal informará a Comissão Europeia das seguintes situações:
+
+a) De qualquer autorização concedida para a constituição de uma filial de uma empresa-mãe sujeita à lei nacional de um país terceiro, comunicando também a estrutura do respectivo grupo empresarial;
+
+b) De qualquer tomada de participação de uma empresa mãe sujeita à lei nacional de um país terceiro numa empresa de seguros ou de resseguros com sede em Portugal e que tenha por efeito transformar esta última numa filial da referida empresa-mãe.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 145/2006 - Diário da República n.º 146/2006, Série I de 2006-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2006-539387), em vigor a partir de 2006-08-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+###### Artigo 237.º — Dificuldades em países terceiros
+
+1 - O Instituto de Seguros de Portugal informa a Comissão Europeia sobre quaisquer dificuldades de ordem geral com que as empresas de seguros ou de resseguros com sede em Portugal deparem para se estabelecerem ou exercerem as suas actividades em países terceiros.
+
+2 - No que se refere às empresas de seguros, as autoridades nacionais legalmente competentes para o efeito devem limitar ou suspender, por um período máximo de três meses, prorrogável, as suas decisões sobre as situações referidas nas alíneas a) e b) do artigo anterior, sempre que tal lhes for comunicado pela Comissão Europeia, na sequência do respectivo processo desencadeado em virtude do tratamento conferido às empresas comunitárias em países terceiros.
+
+3 - A limitação ou suspensão referida no número anterior não é aplicável à criação de filiais por empresas de seguros ou suas filiais devidamente autorizadas na União Europeia, nem à tomada de participações, por parte de tais empresas ou filiais, numa empresa de seguros da União Europeia.
+
+4 - Sempre que a União Europeia verificar que um país terceiro não concede às empresas de seguros da União Europeia um acesso efectivo ao respectivo mercado comparável ao concedido pela União Europeia às empresas de seguros desse país terceiro, ou que as empresas de seguros da União Europeia não beneficiam num país terceiro de um tratamento nacional que lhes proporcione oportunidades de concorrência idênticas às das suas empresas de seguros nacionais e que as condições de acesso efectivo ao mercado não se encontram preenchidas, o Instituto de Seguros de Portugal informará a Comissão, a seu pedido, das seguintes situações:
+
+a) De qualquer pedido de autorização para a constituição de uma filial directa ou indirecta de uma empresa-mãe sujeita à lei nacional de um país terceiro;
+
+b) De qualquer projecto de tomada de participação de uma empresa-mãe sujeita à lei nacional de um país terceiro numa empresa de seguros com sede em Portugal e que tenha por efeito transformar esta última numa filial da referida empresa-mãe.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 251/2003 - Diário da República n.º 238/2003, Série I-A de 2003-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290), em vigor a partir de 2003-10-24
+
+###### Artigo 238.º — Fusão ou cisão de empresas de seguros ou de resseguros
+
+Pode ser autorizada pelo Instituto de Seguros de Portugal, em casos devidamente justificados, a fusão ou cisão de empresas de seguros ou de resseguros.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 239.º — Liquidação de empresas de seguros
+
+1 - Em caso de liquidação de uma empresa de seguros sediada em Portugal, os compromissos emergentes dos contratos celebrados através das respectivas sucursais ou em regime de livre prestação de serviços serão executados do mesmo modo que os compromissos emergentes de quaisquer outros contratos de seguros da mesma empresa, sem distinção de nacionalidade dos segurados e dos beneficiários.
+
+2 - Em caso de liquidação de uma empresa de seguros com sede em Portugal e que explore cumulativamente o ramo «Vida» e os ramos «Não Vida» referidos nos n.os 1) e 2) do artigo 123.º, as actividades relativas a estes ramos regem-se pelas regras de liquidação aplicáveis às actividades do ramo «Vida».
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 240.º — Exploração cumulativa dos ramos «Vida» e «Não Vida»
+
+As empresas de seguros que, à data da publicação do presente diploma, se encontram autorizadas a explorar cumulativamente em Portugal a actividade de seguros dos ramos «Não Vida» e a actividade de seguros do ramo «Vida» podem continuar essa exploração cumulativa, sem prejuízo do disposto no artigo 101.º
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 241.º — Livre prestação de serviços
+
+O regime previsto no presente diploma para o exercício da actividade seguradora em regime de livre prestação de serviços não prejudica os direitos adquiridos pelas empresas de seguros ao abrigo de legislação anteriormente em vigor para o efeito.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 242.º — Normas de contabilidade
+
+Compete ao Instituto de Seguros de Portugal, sem prejuízo das atribuições da Comissão de Normalização Contabilística, estabelecer as regras de contabilidade aplicáveis às empresas de seguros ou de resseguros sujeitas à sua supervisão, bem como definir os elementos que as referidas empresas lhe devem remeter e os que devem obrigatoriamente publicar, mantendo-se em vigor, até à sua publicação, as regras actualmente existentes em matéria de contabilidade, apresentação e publicação de contas.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2009 - Diário da República n.º 2/2009, Série I de 2009-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962), em vigor a partir de 2009-01-06
+
+###### Artigo 243.º — Instruções
+
+1 - Compete ao Instituto de Seguros de Portugal emitir as instruções que considere necessárias para o cumprimento do disposto no presente diploma.
+
+2 - O disposto no número anterior não prejudica os poderes de regulação da Comissão do Mercado de Valores Mobiliários relativamente a contratos de seguro ligados a fundos de investimento.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 357-A/2007 - Diário da República n.º 210/2007, 2º Suplemento, Série I de 2007-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-2007-241222), em vigor a partir de 2007-11-01
+
+###### Artigo 244.º — Requerimentos de autorização pendentes
+
+Aos requerimentos que, à data da publicação do presente diploma, tenham sido apresentados há mais de 30 dias continuam a aplicar-se as disposições contidas no Decreto-Lei n.º 102/94, de 20 de Abril.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 245.º — Contravalor do ecu em escudos
+
+1 - Sem prejuízo do disposto no número seguinte, o contravalor do ecu em escudos a ser tomado em consideração a partir de 31 de Dezembro de cada ano será o do último dia do mês de Outubro anterior para o qual estejam disponíveis os contravalores do ecu em todas as moedas dos Estados membros da Comunidade Europeia.
+
+2 - Em relação aos contratos referidos no n.º 1 do artigo 185.º, o contravalor em escudos das obrigações pecuniárias resulta da aplicação das taxas de câmbio divulgadas pelo Banco de Portugal, nos termos do n.º 4 de aviso n.º 9/91 desse Banco, de 18 de Setembro, em relação ao dia anterior àquele em que é emitido o recibo para pagamento de prémio ou prestação ou àquele em que se vence a obrigação por parte da empresa de seguros.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 8-A/2002 - Diário da República n.º 9/2002, 2º Suplemento, Série I-A de 2002-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2002-570505), em vigor a partir de 2002-01-21
+
+###### Artigo 246.º — Remissões
+
+As remissões constantes do Decreto-Lei n.º 176/95, de 26 de Julho, e de outros actos de conteúdo normativo ou regulamentar, para o Decreto-Lei n.º 102/94, de 20 de Abril, consideram-se feitas para as correspondentes disposições do presente diploma.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+###### Artigo 247.º — Legislação revogada
+
+São revogados os seguintes diplomas:
+
+a) Decreto-Lei n.º 91/82, de 22 de Março;
+
+b) Decreto-Lei n.º 133/86, de 12 de Junho;
+
+c) Decreto-Lei n.º 107/88, de 31 de Março;
+
+d) Decreto-Lei n.º 102/94, de 20 de Abril.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01
+
+Visto e aprovado em Conselho de Ministros de 12 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim.
+
+Promulgado em 9 de Abril de 1998.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 16 de Abril de 1998.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), em vigor a partir de 2016-01-01

@@ -1,0 +1,189 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31996L0057:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0057-20100701",
+ "dre_path": null,
+ "source_lastmod": "2010-07-01",
+ "versions": [
+  {
+   "date": "1996-09-18",
+   "future": false,
+   "celex": "31996L0057",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fb8254d89d4166b9",
+    "2f621e3f5de02d2f",
+    "c34fd68f4a30b568",
+    "224dcf847c3fc444",
+    "d84fd090216fb1fe",
+    "bc76ba0b3e652047",
+    "115cda54e6da5786",
+    "a21f8f08cd2d2cf4",
+    "31fd149ab27e3231",
+    "7ece223603d6ccf6",
+    "5167e69993f74c6f",
+    "3923ee41542542db",
+    "a782e4bfec2374f8",
+    "7c76dcbf83030a64",
+    "a84322ad15dc8aca"
+   ]
+  },
+  {
+   "date": "2010-07-01",
+   "future": false,
+   "celex": "01996L0057-20100701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime ANEXO I — MÉTODO DE CÁLCULO DO CONSUMO MÁXIMO DE ELECTRICIDADE AUTORIZADO PARA UM APARELHO DE REFRIGERAÇÃO E PROCESSO DE VERIFICAÇÃO DA CONFORMIDADE",
+    "Suprime ANEXO II — PROCESSOS DE AVALIAÇÃO DE CONFORMIDADE (MÓDULO A)",
+    "Suprime ANEXO III — MARCAÇÃO «CE» DE CONFORMIDADE"
+   ],
+   "fragments": [
+    "ab570ef5082b7011"
+   ]
+  }
+ ],
+ "fragments": {
+  "fb8254d89d4166b9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 96/57/CE do Parlamento Europeu e do Conselho de 3 de Setembro de 1996 relativa aos requisitos de rendimento energético dos frigoríficos e congeladores electrodomésticos e respectivas combinações** *Jornal Oficial nº L 236 de 18/09/1996 p. 0036 - 0043*\n\nDIRECTIVA 96/57/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 3 de Setembro de 1996 relativa aos requisitos de rendimento energético dos frigoríficos e congeladores electrodomésticos e respectivas combinações\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, e, nomeadamente, o seu artigo 100ºA,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nDeliberando nos termos do procedimento previsto no artigo 189ºB do Tratado (3),\n\n(1) Considerando que é importante promover medidas que garantam o bom funcionamento do mercado interno;\n\n(2) Considerando que, na Resolução de 15 de Janeiro de 1985 relativa ao aperfeiçoamento dos programas de economia de energia dos Estados-membros (4), o Conselho convidou os Estados-membros a prosseguir e, se necessário, a aumentar os seus esforços de promoção de uma utilização mais racional da energia através de um maior desenvolvimento de políticas integradas de economia de energia;\n\n(3) Considerando que os electrodomésticos de refrigeração são responsáveis por uma parte significativa do consumo doméstico de electricidade na Comunidade e, consequentemente, pelo consumo total de electricidade; que os diferentes modelos de aparelhos de refrigeração disponíveis no mercado comunitário com um volume e características idênticas apresentam um consumo de electricidade muito diferente, ou seja, um rendimento energético extremamente variável;\n\n(4) Considerando que alguns Estados-membros estão em vias de adoptar disposições no que diz respeito ao rendimento dos frigoríficos ou congeladores para uso doméstico, disposições susceptíveis de criar entraves às trocas desses produtos no interior da Comunidade;\n\n(5) Considerando que é necessário tomar como base um nível de protecção elevado nas propostas de aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros em matéria de saúde, segurança, protecção do ambiente e dos consumidores; que a presente directiva assegura um nível elevado de protecção do ambiente e dos consumidores, tendo simultaneamente em vista uma melhoria sensível do rendimento energético desses aparelhos;\n\n(6) Considerando que a adopção destas medidas é da competência comunitária; que os requisitos da presente directiva se enquadram nos limites dos seus objectivos, observando, por conseguinte, o disposto no artigo 3ºB do Tratado;\n\n(7) Considerando, além disso, que, entre os objectivos da política da Comunidade em matéria de ambiente, o artigo 130ºR do Tratado prevê a protecção e a melhoria do ambiente, bem como uma utilização prudente e racional dos recursos naturais; que a produção e o consumo de electricidade são responsáveis por cerca de 30 % das emissões de dióxido de carbono (CO2) causadas pela actividade humana e por cerca de 35 % do consumo de energia primária na Comunidade; que estas percentagens estão a aumentar;\n\n(8) Considerando que a Decisão 89/364/CEE do Conselho, de 5 de Junho de 1989, relativa à adopção de um programa de acção comunitário com vista a melhorar a eficácia da utilização de electricidade (5), tem o duplo objectivo de incentivar a preferência dos consumidores por aparelhos e equipamentos de elevado rendimento eléctrico e aperfeiçoar o rendimento dos aparelhos e equipamentos;\n\n(9) Considerando que, nas conclusões de 29 de Outubro de 1990, o Conselho fixou o objectivo de estabilizar as emissões de dióxido de carbono (CO2) na Comunidade até 2000 aos níveis de 1990 e que, para se atingir esse objectivo, se impõem medidas mais enérgicas para estabilizar as emissões de CO2 na Comunidade;\n\n(10) Considerando que a Decisão 91/565/CEE (6) criou um programa (o programa Save) para promover o rendimento energético na Comunidade;\n\n(11) Considerando que as medidas de melhoria do rendimento energético aplicáveis aos modelos mais recentes de aparelhos de refrigeração disponíveis não aumentam excessivamente o seu custo de produção e podem ser amortizadas num período de alguns anos, ou mesmo mais rapidamente, pela economia de energia que implicam; que nesse cálculo não são tidos em conta os benefícios adicionais resultantes da redução dos custos externos associados à produção de electricidade, nomeadamente a nível de emissões de dióxido de carbono (CO2) e de outros poluentes;\n\n(12) Considerando que o ganho de rendimento energético que resulta naturalmente das pressões do mercado e do aperfeiçoamento dos processos de produção, avaliado em cerca de 2 % ao ano, contribuirá para os esforços destinados a instituir normas mais rigorosas de consumo energético;\n\n(13) Considerando que a Directiva 92/75/CEE do Conselho (7) (directiva-quadro) e a Directiva 94/2/CE da Comissão (8) (directiva de execução da Directiva 92/75/CEE), que prevêem a rotulagem obrigatória dos aparelhos e o fornecimento de outras informações sobre o seu consumo de energia, contribuirão para sensibilizar os consumidores para o problema do rendimento energético dos electrodomésticos de refrigeração; que, consequentemente, esta medida também incentivará a concorrência a propor um rendimento energético dos aparelhos superior ao previsto na presente directiva; que o fornecimento de informações aos consumidores deve ser, contudo, acompanhado por normas, para ser plenamente vantajoso e conseguir uma melhoria real do rendimento médio global dos aparelhos vendidos;\n\n(14) Considerando que a presente directiva, que tem por objectivo a eliminação dos entraves técnicos à melhoria do rendimento energético dos electrodomésticos de refrigeração, deve seguir a nova perspectiva da Resolução do Conselho, de 7 de Maio de 1985, relativa a uma nova abordagem técnica em matéria de harmonização técnica e de normalização (9), que determina explicitamente que a harmonização legislativa se limita à adopção, através de directivas, dos requisitos essenciais que os produtos colocados no mercado devem satisfazer;\n\n(15) Considerando que há que instituir um dispositivo de execução eficaz para assegurar a aplicação correcta da directiva, garantir aos fabricantes condições de concorrência equitativas e proteger os direitos dos consumidores;\n\n(16) Considerando que importa ter em conta a Decisão 93/465/CEE do Conselho, de 22 de Julho de 1993, relativa aos módulos referentes às diversas fases dos processos de avaliação da conformidade e às regras de aposição e de utilização da marcação «CE» de conformidade a utilizar nas directivas de harmonização técnica (10);\n\n(17) Considerando que, no interesse do comércio internacional, é conveniente utilizar, sempre que necessário, normas internacionais; que o consumo de electricidade de um aparelho de refrigeração é definido na norma EN 153 do Comité Europeu de Normalização, de Julho de 1995, com base numa norma internacional;\n\n(18) Considerando que os electrodomésticos de refrigeração conformes aos requisitos de rendimento energético da presente directiva devem ter aposta a marcação «CE» e informações conexas, de modo a poderem circular livremente;\n\n(19) Considerando que o âmbito de aplicação da presente directiva se limita aos electrodomésticos de refrigeração de alimentos, que funcionem a partir da rede eléctrica, com excepção dos aparelhos fabricados de acordo com especificações particulares; que o equipamento de refrigeração para uso comercial é muito mais variado, não podendo portanto ser incluído na presente directiva,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "2f621e3f5de02d2f": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nA presente directiva é aplicável aos novos frigoríficos, compartimentos para alimentos congelados, congeladores para alimentos e combinações destes aparelhos para uso doméstico, alimentados a partir da rede eléctrica, definidos no anexo I e a seguir designados «aparelhos de refrigeração». Estão excluídos os aparelhos que também podem ser alimentados por outras fontes de energia, nomeadamente por acumuladores, bem como os aparelhos de refrigeração domésticos que funcionam segundo o princípio da absorção e os aparelhos fabricados de acordo com especificações particulares."
+  },
+  "c34fd68f4a30b568": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Os Estados-membros tomarão todas as medidas necessárias para garantir que os aparelhos de refrigeração abrangidos pela presente directiva só possam ser colocados no mercado comunitário se o consumo de electricidade do aparelho em questão for inferior ou igual ao valor máximo permitido para a sua categoria, calculado nos termos do anexo I.\n\n2. O fabricante de um aparelho de refrigeração abrangido pela presente directiva, o seu mandatário estabelecido na Comunidade, ou a pessoa responsável pela colocação do aparelho em questão no mercado comunitário, deve garantir que cada aparelho colocado no mercado preencha o requisito previsto no nº 1."
+  },
+  "224dcf847c3fc444": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os Estados-membros não podem proibir, restringir ou impedir, no seu território, a colocação no mercado de aparelhos de refrigeração que tenham aposta a marcação «CE», a qual atesta a sua conformidade com todas as disposições da presente directiva.\n\n2. Salvo prova em contrário, os Estados-membros presumirão que os aparelhos de refrigeração que tenham aposta a marcação «CE» nos termos do artigo 5º estão conformes com todas as disposições da presente directiva.\n\n3. a) Se os aparelhos de refrigeração forem igualmente objecto de outras directivas relativas a outros aspectos e que prevejam a aposição da marcação «CE», esta deve indicar que, salvo prova em contrário, se presume igualmente que esses aparelhos de refrigeração estão conformes com as disposições dessas outras directivas.\n\nb) Todavia, se uma ou várias dessas directivas deixarem ao fabricante, durante um período transitório, a escolha do regime a aplicar, a marcação «CE» deve indicar apenas a conformidade com as disposições das directivas aplicadas pelo fabricante. Nesse caso, as referências das directivas aplicadas, tal como publicadas no Jornal Oficial das Comunidades Europeias, devem ser inscritas nos documentos, manuais ou instruções que acompanham os aparelhos de refrigeração."
+  },
+  "d84fd090216fb1fe": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nOs processos de avaliação de conformidade e as obrigações relativas à marcação «CE» dos aparelhos de refrigeração estão definidos no anexo II."
+  },
+  "bc76ba0b3e652047": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Os aparelhos devem ter aposta a marcação «CE» ao serem colocados no mercado. Esta marcação, que será constituída pelas iniciais «CE», consta do anexo III e será aposta no aparelho de refrigeração de modo visível, legível e indelével e, se necessário, na embalagem.\n\n2. É proibida a aposição nos aparelhos de refrigeração de marcações susceptíveis de induzir terceiros em erro quanto ao significado e ao grafismo da marcação «CE». Pode ser aposta qualquer outra marcação nos aparelhos, embalagens, instruções ou outros documentos, desde que não reduza a visibilidade e a legibilidade da marcação «CE»."
+  },
+  "115cda54e6da5786": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Sempre que um Estado-membro verifique que a marcação «CE» foi aposta indevidamente, o fabricante ou o seu mandatário estabelecido na Comunidade será obrigado a repor a conformidade do produto e a pôr termo à infracção nas condições fixadas por esse Estado-membro. Quando nem o fabricante nem o seu mandatário se encontrarem estabelecidos na Comunidade, essa obrigação caberá à pessoa responsável pela colocação do aparelho de refrigeração no mercado comunitário.\n\n2. Se a situação de não conformidade se mantiver, o Estado-membro deve tomar todas as medidas necessárias para restringir ou proibir a colocação no mercado do produto em questão, ou para assegurar a sua retirada do mercado, em aplicação do disposto no artigo 7º"
+  },
+  "a21f8f08cd2d2cf4": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. Qualquer decisão tomada nos termos da presente directiva, que inclua restrições à colocação de aparelhos de refrigeração no mercado, será devidamente fundamentada. A parte interessada será imediatamente notificada dessa decisão e simultaneamente informada das possibilidades e prazos de recurso judicial nos termos da legislação em vigor no Estado-membro em causa.\n\n2. O Estado-membro informará sem demora a Comissão da medida tomada e fundamentará a sua decisão. A Comissão comunicará essa informação aos restantes Estados-membros."
+  },
+  "31fd149ab27e3231": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nAntes do termo de um período de quatro anos a contar da data de adopção da presente directiva, a Comissão avaliará os resultados obtidos em função dos resultados previstos. Na perspectiva da passagem a uma segunda fase de melhoria do rendimento energético, a Comissão analisará, em consulta com as partes interessadas, a necessidade de estabelecer uma segunda série de normas adequadas para a melhoria significativa do rendimento energético dos aparelhos electrodomésticos de refrigeração. Nesse caso, todas as medidas de rendimento energético e a data da sua entrada em vigor basear-se-ão em níveis de rendimento energético, económica e tecnicamente justificados em função das circunstâncias do momento. Serão igualmente tomadas em consideração quaisquer outras medidas consideradas adequadas para melhorar o rendimento dos aparelhos electrodomésticos de refrigeração."
+  },
+  "7ece223603d6ccf6": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. Os Estados-membros adoptarão e publicarão, no prazo de um ano a contar da data de adopção da presente directiva, as disposições legislativas, regulamentares e administrativas necessárias para lhe dar cumprimento. Do facto informarão imediatamente a Comissão.\n\nOs Estados-membros aplicarão essas disposições no termo de um prazo de três anos a contar da data de adopção da presente directiva.\n\nQuando os Estados-membros adoptarem essas disposições, as mesmas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva.\n\n3. Durante o período de três anos subsequente à adopção da presente directiva, os Estados-membros autorizarão a colocação no mercado de aparelhos de refrigeração que preencham os mesmos requisitos que os aplicáveis nos respectivos territórios à data de adopção da presente directiva."
+  },
+  "5167e69993f74c6f": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "3923ee41542542db": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 3 de Setembro de 1996.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nK. HÄNSCH\n\nPelo Conselho\n\nO Presidente\n\nI. YATES\n\n(1) JO nº C 390 de 31. 12. 1994, p. 30 e JO nº C 49 de 20. 2. 1996, p. 10.\n\n(2) JO nº C 155 de 21. 6. 1995, p. 18.\n\n(3) Parecer do Parlamento Europeu de 26 de Outubro de 1995 (JO nº C 308 de 20. 11. 1995, p. 134), posição comum do Conselho de 11 de Março de 1996 (JO nº C 120 de 24. 4. 1996, p. 10) e decisão do Parlamento Europeu de 18. 6. 1996 (JO nº C 198 de 8. 7. 1996).\n\n(4) JO nº C 20 de 22. 1. 1985, p. 1.\n\n(5) JO nº L 157 de 9. 6. 1989, p. 32.\n\n(6) JO nº L 307 de 8. 11. 1991, p. 34.\n\n(7) JO nº L 297 de 13. 10. 1992, p. 16.\n\n(8) JO nº L 45 de 17. 2. 1994, p. 1.\n\n(9) JO nº C 136 de 4. 6. 1985, p. 1.\n\n(10) JO nº L 220 de 30. 8. 1993, p. 23."
+  },
+  "a782e4bfec2374f8": {
+   "fragment_id": "ANEXO I — MÉTODO DE CÁLCULO DO CONSUMO MÁXIMO DE ELECTRICIDADE AUTORIZADO PARA UM APARELHO DE REFRIGERAÇÃO E PROCESSO DE VERIFICAÇÃO DA CONFORMIDADE",
+   "type": "divisao",
+   "heading": "ANEXO I — MÉTODO DE CÁLCULO DO CONSUMO MÁXIMO DE ELECTRICIDADE AUTORIZADO PARA UM APARELHO DE REFRIGERAÇÃO E PROCESSO DE VERIFICAÇÃO DA CONFORMIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — MÉTODO DE CÁLCULO DO CONSUMO MÁXIMO DE ELECTRICIDADE AUTORIZADO PARA UM APARELHO DE REFRIGERAÇÃO E PROCESSO DE VERIFICAÇÃO DA CONFORMIDADE\n\nO consumo de electricidade de um aparelho de refrigeração (que pode ser expresso em kWh por 24 horas) é função da categoria de aparelhos à qual pertence (por exemplo, frigorífico de uma estrela, congelador horizontal, etc.), do seu volume e do rendimento energético da sua construção (por exemplo, espessura do isolamento, rendimento do compressor, etc.) e da diferença entre a temperatura ambiente e a temperatura no interior. Consequentemente, o estabelecimento de normas de rendimento energético deve ter em conta os principais factores endógenos que influenciam o consumo de energia (isto é, a categoria do aparelho e o seu volume). Por esta razão, os consumos máximos de electricidade autorizados para um aparelho de refrigeração são definidos através de uma equação linear em função do volume do aparelho, sendo definida uma equação diferente para cada categoria de aparelho.\n\nAssim, para calcular o consumo máximo de electricidade autorizado de um dado aparelho, é necessário começar por classificá-lo numa das categorias da seguinte lista:\n\n>POSIÇÃO NUMA TABELA>\n\nUma vez que os aparelhos de refrigeração contêm diferentes compartimentos em que são mantidas diferentes temperaturas individuais (o que influencia nitidamente o seu consumo de electricidade), o consumo máximo de electricidade permitido é de facto definido em função do volume ajustado, que é uma soma ponderada dos volumes dos diferentes compartimentos.\n\nAssim, para efeitos da presente directiva, o volume ajustado (Vadj) de um aparelho de refrigeração é calculado segundo a fórmula seguinte:\n\nVadj = Ó Vc × Wc × Fc × CcWc = >NUM>(25 - Tc) / >DEN>20\n\nsendo Tc a temperatura nominal de cada compartimento (em °C),\n\nVc, o volume líquido de um dado tipo de compartimento no aparelho e Fc, um factor cujo valor é 1,2 para compartimentos com frio ventilado e 1 para outros compartimentos.\n\nCc = 1 para os aparelhos de refrigeração pertencentes às classes climáticas normais (N) e subnormais (SN)\n\nCc = Xc para os aparelhos de refrigeração pertencentes à classe climática subtropical (ST)\n\nCc = Yc para os aparelhos de refrigeração pertencentes à classe climática tropical (T)\n\nOs coeficientes de ponderação Xc e Yc para os diferentes tipos de compartimentos são os seguintes:\n\n>POSIÇÃO NUMA TABELA>\n\nO volume ajustado e o volume líquido são expressos em litros.\n\nO consumo máximo de electricidade autorizado, Emax (em kWh por 24 horas, com duas casas decimais), de um tipo de aparelho com um volume ajustado Vadj, é definido pelas seguintes equações para cada categoria de aparelhos:\n\n>POSIÇÃO NUMA TABELA>\n\nPara os frigoríficos/congeladores com mais de duas portas ou outros aparelhos não descritos supra, o consumo máximo de electricidade autorizado (Emax) é definido pela temperatura e pelo número de estrelas do compartimento cuja temperatura é a mais baixa, ou seja:\n\n>POSIÇÃO NUMA TABELA>\n\nProcessos de ensaio para verificar a conformidade do aparelho com os requisitos de consumo de electricidade da presente directiva\n\nSe o consumo de electricidade de um aparelho de refrigeração sujeito a verificação for inferior ou igual ao valor Emax (consumo máximo de electricidade permitido para a sua categoria definida supra) mais 15 %, considera-se que o aparelho preenche os requisitos de consumo da electricidade da presente directiva. Se o consumo de electricidade do aparelho for superior ao valor Emax mais 15 %, deve ser medido o consumo de electricidade de mais três aparelhos do mesmo tipo. Se a média aritmética dos consumos de electricidade desses três aparelhos for inferior ou igual ao valor Emax mais 10 %, considera-se que o aparelho preenche os referidos requisitos. Se a média aritmética exceder o valor Emax mais 10 %, considera-se que o aparelho ensaiado não preenche esses requisitos.\n\nDefinições\n\nOs termos usados no presente anexo correspondem às definições da norma europeia EN 153 do Comité Europeu de Normalização, de Julho de 1995."
+  },
+  "7c76dcbf83030a64": {
+   "fragment_id": "ANEXO II — PROCESSOS DE AVALIAÇÃO DE CONFORMIDADE (MÓDULO A)",
+   "type": "divisao",
+   "heading": "ANEXO II — PROCESSOS DE AVALIAÇÃO DE CONFORMIDADE (MÓDULO A)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — PROCESSOS DE AVALIAÇÃO DE CONFORMIDADE (MÓDULO A)\n\n1. Este módulo descreve o processo pelo qual o fabricante ou o seu mandatário estabelecido na Comunidade, que cumpre o disposto no ponto 2, garante e declara que o aparelho de refrigeração satisfaz os requisitos relevantes da presente directiva. O fabricante aporá a marcação «CE» em todos os aparelhos de refrigeração que fabricar e elaborará uma declaração de conformidade por escrito.\n\n2. O fabricante elaborará a documentação técnica descrita no ponto 3. O fabricante ou o seu mandatário estabelecido na Comunidade manterá essa documentação à disposição das autoridades nacionais, para efeitos de inspecção, durante um prazo de, pelo menos, 3 anos a contar da última data de fabrico do aparelho.\n\nQuando nem o fabricante nem o seu mandatário se encontrarem estabelecidos na Comunidade, a obrigação de manter a documentação técnica à disposição das autoridades cabe à pessoa responsável pela colocação do aparelho de refrigeração no mercado comunitário.\n\n3. A documentação técnica deve permitir a avaliação de conformidade do aparelho de refrigeração com os requisitos da presente directiva. Essa documentação deve, na medida necessária a essa avaliação, abranger a concepção, o fabrico e o funcionamento do aparelho de refrigeração e incluir:\n\ni) O nome e endereço do fabricante;\n\nii) Uma descrição geral do modelo que permita identificá-lo claramente;\n\niii) Informações, incluindo se necessário os desenhos, sobre as principais características de concepção do modelo e, em especial, sobre as características que afectem significativamente o seu consumo de electricidade, como as dimensões, o ou os volumes, as características do compressor, particularidades, etc.;\n\niv) Eventuais instruções de utilização;\n\nv) Os resultados da medição do consumo de electricidade efectuada nos termos do ponto 5;\n\nvi) Informações pormenorizadas sobre a conformidade desta medição com os requisitos de consumo de energia estabelecidos no anexo I.\n\n4. A documentação técnica criada para dar cumprimento a outra legislação comunitária pode ser utilizada desde que respeite o disposto no presente anexo.\n\n5. Os fabricantes dos aparelhos de refrigeração serão responsáveis pela determinação do consumo de electricidade de cada aparelho de refrigeração abrangido pela presente directiva, segundo os procedimentos previstos na norma europeia EN 153, bem como pela conformidade do aparelho com o disposto no artigo 2º\n\n6. O fabricante ou o seu mandatário devem conservar, com a documentação técnica, um exemplar da declaração de conformidade.\n\n7. O fabricante adoptará todas as medidas necessárias para que o processo de fabrico garanta a conformidade dos aparelhos de refrigeração fabricados com a documentação técnica referida no ponto 2 e com os requisitos da presente directiva que lhes são aplicáveis."
+  },
+  "a84322ad15dc8aca": {
+   "fragment_id": "ANEXO III — MARCAÇÃO «CE» DE CONFORMIDADE",
+   "type": "divisao",
+   "heading": "ANEXO III — MARCAÇÃO «CE» DE CONFORMIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — MARCAÇÃO «CE» DE CONFORMIDADE\n\nA marcação «CE» de conformidade é constituída pelas iniciais «CE» de acordo com o seguinte grafismo:\n\n>REFERÊNCIA A UMA IMAGEN>\n\nNo caso de redução ou de ampliação da marcação «CE», devem ser respeitadas as proporções resultantes do grafismo graduado acima indicado.\n\nOs diferentes elementos da marcação «CE» devem ter sensivelmente a mesma dimensão vertical, que não pode ser inferior a 5 mm."
+  },
+  "ab570ef5082b7011": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1996L0057 — PT — 01.07.2010 — 003.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31996L0057) [DIRECTIVA 96/57/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/31996L0057) [de 3 de Setembro de 1996](http://publications.europa.eu/resource/celex/31996L0057) [relativa aos requisitos de rendimento energético dos frigoríficos e congeladores electrodomésticos e respectivas combinações](http://publications.europa.eu/resource/celex/31996L0057) (JO L 236, 18.9.1996, p.36)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 643/2009 da Comissão de 22 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0643) — L 191 — 53 — 23.7.2009"
+  }
+ }
+}

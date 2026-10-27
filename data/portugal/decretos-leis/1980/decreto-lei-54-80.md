@@ -1,0 +1,509 @@
+---
+schema_version: '1.0'
+id: pt:dre:677459:por
+title: Decreto-Lei n.º 54/80
+short_title: null
+summary: Atribui competência à Secretaria de Estado da Cultura para a defesa da integridade e genuinidade das obras intelectuais
+  caídas no domínio público
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 54/80
+official_date: null
+publication_date: '1980-03-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 72/1980, Série I de 1980-03-26
+  number: '72'
+  series: I
+  supplement: null
+  pages: 558 - 563
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/03/07200/05580563.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '677459'
+  dre_path: /dr/detalhe/decreto-lei/54-1980-677459
+  internal: pt:dre:677459:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1980-677459
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1980-677459
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:34:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 037d86d5a90e173f057947c3dc0bffa964ae257fd258d2b26e6ea923f63248fe
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:34:25Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Direito de Autor
+- Propriedade do Estado
+- Secretaria de Estado da Cultura
+relationships:
+- type: repealed_by
+  target: pt:numero:decreto-lei:393/80
+  label: REVOGADO PELO DECRETO LEI 393/80, DE 25 DE SETEMBRO, PUBLICADO NO DR.IS, 222, DE 800925. 925.
+  source: null
+  date: '1980-09-25'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:34:25Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 54/80
+
+de 26 de Março
+
+1. A actualização da regulamentação do direito de autor está a ser levada a efeito por um grupo de trabalho interministerial encarregado de apresentar um anteprojecto que, uma vez terminado, será circulado, para recolha de comentários, por todas as organizações públicas e privadas directamente relacionadas com o direito de autor.
+
+Mas, independentemente da actualização da legislação de fundo sobre o direito de autor, outros aspectos existem justificando medidas imediatas.
+
+Estão neste caso medidas tendo em vista a defesa da integridade e genuinidade de obras caídas no domínio público.
+
+2. Tem acontecido com certa frequência que obras de autores já caídas no domínio público são publicadas ou reproduzidas com deturpações, lacunas ou simplesmente através de edições que não revestem a dignidade devida aos grandes nomes da literatura nacional. E o mesmo tem acontecido relativamente ao nosso folclore nacional.
+
+O actual Código do Direito de Autor, no artigo 57.º, n.º 2, dispõe que a defesa da integridade e genuinidade da obra caída no domínio público pertence ao Estado, que a exercerá através das instituições culturais adequadas. Simplesmente, até à data, ainda não foi esclarecido quais sejam essas instituições culturais adequadas, pelo que aquela defesa não tem sido concretizada.
+
+Pelo presente decreto-lei fica essa missão a cargo da Secretaria de Estado da Cultura, cuja autorização será, para futuro, necessária relativamente à publicação, utilização ou exploração por qualquer meio de obras caídas no domínio público, bem como de obras populares ou pertencentes ao folclore nacional.
+
+Ainda a respeito de obras caídas no domínio público, é instituída - à semelhança do que acontece em muitos países - uma taxa sobre essa utilização, destinada a subsidiar o Fundo de Fomento Cultural e o Fundo de Auxílio aos Autores.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição da República, o seguinte:
+
+Artigo 1.º - 1 - Compete à Secretaria de Estado da Cultura a defesa da integridade e genuinidade das obras intelectuais caídas no domínio público e das obras folclóricas e populares relativamente às quais não existam direitos exclusivos assegurados na lei aos seus autores ou sucessores.
+
+2 - O uso das obras referidas no número anterior depende de prévia autorização do Secretário de Estado da Cultura.
+
+3 - É devida uma taxa, fixada em valor equivalente a 20% da tabela anexa a este diploma, pelo uso das obras referidas no n.º 1.
+
+4 - A receita proveniente da cobrança da taxa aludida no número anterior destina-se ao Fundo de Fomento Cultural e ao Fundo de Auxílio aos Autores, em proporção a fixar anualmente pelo Secretário de Estado da Cultura.
+
+Art. 2.º O pagamento das taxas cobradas nos termos do n.º 3 do artigo 1.º é feito na Caixa Geral de Depósitos, por meio de guia passada pela Secretaria de Estado da Cultura.
+
+Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 7 de Março de 1980. - Francisco Sá Carneiro.
+
+Promulgado em 28 de Março de 1980.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Tabelas anexas ao Decreto-Lei n.º 54/80
+
+Tabelas mínimas de autorizações
+
+Direitos de representação pública
+
+Espectáculos com entradas pagas:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/07200/05580563.pdf)
+
+N. B. - Os preços previstos na presente tabela referem-se a peças teatrais que constituem espectáculo inteiro. No caso de as peças teatrais não constituírem espectáculo inteiro, os preços previstos sofrem uma redução de 50%.
+
+Espectáculos sem entradas pagas:
+
+Teatros de Lisboa e Porto:
+
+Teatro musicado ... 1500$00
+
+Teatro declamado ... 1000$00
+
+Outros recintos:
+
+Os preços indicados na tabela relativa a espectáculos com entradas pagas sofrem uma redução de um terço.
+
+N. B. - Os preços previstos na presente tabela referem-se a peças teatrais que constituem espectáculo inteiro. No caso de as peças teatrais não constituírem espectáculo inteiro, os preços previstos sofrem uma redução de 50%.
+
+Espectáculos de «ballet»
+
+Aplicam-se as tabelas relativas a direitos de representação de peças teatrais, na parte que se refere a teatro musicado.
+
+Obras literárias, musicais e literário-musicais incluídas em peças teatrais
+
+Espectáculos com entradas pagas - o valor de uma localidade do preço mais elevado, por cada obra.
+
+Espectáculo sem entradas pagas, por cada obra - 20$00.
+
+Música de cena - o equivalente a 0,5% do valor dos direitos atribuídos à peça teatral.
+
+Direitos de cinefonia
+
+Produção:
+
+Filmes de fundo:
+
+Realização ... 100000$00
+
+Argumento ... 60000$00
+
+Diálogos ... 20000$00
+
+Adaptação ... 20000$00
+
+Música de fundo - por minuto ... 1000$00
+
+Canções:
+
+Versos de cada canção ... 4000$00
+
+Música de cada canção ... 4000$00
+
+Curtas-metragens - 10% dos preços previstos para os filmes de fundo.
+
+Direitos de reprodução mecânica
+
+8% sobre o valor dos fonogramas vendidos ao público, deduzindo-se ao preço de venda as verbas relativas ao imposto de transacções e ao valor da capa.
+
+Em relação às novidades deve ainda deduzir-se nos dois primeiros semestres a percentagem de 8%.
+
+Direitos de edição
+
+Edição gráfica - 5% sobre o preço de capa.
+
+Edição musical - 10% sobre o preço de capa.
+
+Direitos de radiodifusão - Obras não abrangidas pela avença
+
+Folhetins:
+
+Autor ... 5000$00
+
+Adaptador (por episódio) ... 800$00
+
+Grande teatro:
+
+Autor ... 5000$00
+
+Adaptador ... 5000$00
+
+Pequeno teatro:
+
+Autor ... 2500$00
+
+Adaptador ... 2500$00
+
+Textos de programa:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/07200/05580563.pdf)
+
+Tabela de descontos de série (precária)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/07200/05580563.pdf)
+
+Direitos de televisão - Obras não abrangidas pela avença
+
+Teatro:
+
+Trabalhos encomendados - autoria:
+
+Peças com duração até vinte e cinco minutos ... 3000$00
+
+Por cada fracção subsequente de vinte e cinco minutos ... 2500$00
+
+Trabalhos não encomendados - autoria:
+
+Peças com duração até vinte e cinco minutos ... 2000$00
+
+Por cada fracção subsequente de vinte e cinco minutos ... 1500$00
+
+Trabalhos encomendados - tradução:
+
+Peças com duração até vinte e cinco minutos ... 1200$00
+
+Por cada fracção subsequente de vinte e cinco minutos ... 1000$00
+
+Trabalhos não encomendados - tradução:
+
+Peças com duração até vinte e cinco minutos ... 1000$00
+
+Por cada fracção subsequente de vinte e cinco minutos ... 800$00
+
+Trabalhos encomendados - adaptação (de peças teatrais, radiofónicas ou argumentos cinematográficos):
+
+Peças com duração até vinte e cinco minutos ... 1000$00
+
+Por cada fracção subsequente de vinte e cinco minutos ... 800$00
+
+Trabalhos encomendados - adaptação (de contos ou novelas):
+
+Peças com duração até vinte e cinco minutos ... 1200$00
+
+Por cada fracção subsequente de vinte e cinco minutos ... 1000$00
+
+Trabalhos não encomendados - adaptação (de peças teatrais, radiofónicas ou argumentos cinematográficos):
+
+Peças com duração até vinte e cinco minutos ... 800$00
+
+Por cada fracção subsequente de vinte e cinco minutos ... 800$00
+
+Trabalhos não encomendados - adaptação (de contos ou novelas):
+
+Peças com duração até vinte e cinco minutos ... 1000$00
+
+Por cada fracção subsequente de vinte e cinco minutos ... 800$00
+
+Programas musicais:
+
+Texto para apresentação e ligação de programas de variedades - autoria ... 1000$00
+
+Canções inéditas - música - autoria ... 600$00
+
+Canções inéditas - letra - autoria ... 300$00
+
+Tradução de letras ... 200$00
+
+Arranjos musicais - orquestra até quinze elementos ... 350$00
+
+Cada elemento a mais ... 30$00
+
+Música original (para peças de teatro ou filmes):
+
+Cada trinta minutos ... 2000$00
+
+Argumentos para bailado ... 1000$00
+
+Coreografia - bailados até trinta minutos ... 1200$00
+
+Cada trinta minutos a mais ... 1000$00
+
+Programas culturais e especializados:
+
+Autoria - até quinze minutos ... 500$00
+
+Autoria - trinta minutos ... 1000$00
+
+Tradução - cada dez minutos ou fracção ... 150$00
+
+Tradução (de ouvido) - cada dez minutos ou fracção ... 200$00
+
+Adaptação - cada trinta minutos ... 400$00
+
+Repetições - 20% sobre o preço atribuído à 1.ª emissão.
+
+Filmes portugueses:
+
+O equivalente a 4% da verba paga ao distribuidor.
+
+Observação. - Quando coincidir na mesma pessoa a função de tradução e adaptação o valor a atribuir a esta será menor 20% do que a verba indicada.
+
+Direitos de execução de rádio e televisão (avenças)
+
+Rádio:Emissoras sem publicidade - 1,5% sobre as taxas recebidas.
+
+Emissoras com publicidade - 3% sobre as receitas.
+
+Televisão:
+
+0,875% sobre as receitas de publicidade.
+
+1,25% sobre as verbas recebidas da União Europeia da Radiodifusão.
+
+0,25% sobre as taxas de televisão.
+
+Direitos de execução pública - Bailes
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/07200/05580563.pdf)
+
+N. B. - Os preços previstos na presente tabela referem-se a bailes realizados em noites normais. Para os bailes realizados em tardes normais, os preços sofrem uma redução de 50%. Para os bailes que se realizarem na noite de 31 de Dezembro, os preços sofrem um aumento de 100%. Para os bailes que se realizarem no período de Carnaval, os preços sofrem um aumento de 200%.
+
+Espectáculos e audições
+
+Variedades não constituindo espectáculo inteiro (sem publicidade): preço igual ao baile.
+
+Variedades constituindo espectáculo inteiro (sem publicidade): preço do baile acrescido de 100%.
+
+Variedades não constituindo espectáculo inteiro (com publicidade): preço do baile acrescido de 50%.
+
+Variedades constituindo espectáculo inteiro (com publicidade): preço do baile acrescido de 200%.
+
+Concertos e recitais: igual a variedades com publicidade.
+
+Música utilizada durante competições desportivas e espectáculos de circo e tauromáquicos
+
+Recintos com mais de 5000 lugares:
+
+Com entradas pagas ... 300$00
+
+Sem entradas pagas ... 200$00
+
+Recintos entre 1001 e 5000 lugares:
+
+Com entradas pagas ... 240$00
+
+Sem entradas pagas ... 140$00
+
+Recintos até 1000 lugares:
+
+Com entradas pagas ... 120$00
+
+Sem entradas pagas ... 60$00
+
+N. B. - Nas funções realizadas à tarde, os preços previstos sofrem uma redução de 50%.
+
+Festejos populares - Feiras - Arraiais
+
+Bailes:
+
+Cidades ... 120$00
+
+Vilas ... 100$00
+
+Aldeias ... 80$00
+
+Concertos por bandas de música (por cada banda):
+
+Cidades ... 120$00
+
+Vilas ... 100$00
+
+Aldeias ... 80$00
+
+Variedades:
+
+O previsto na tabela respectiva.
+
+Cabinas de som:
+
+O previsto na tabela respectiva.
+
+Cortejos (por cada agrupamento musical):
+
+Cidades ... 60$00
+
+Vilas ... 40$00
+
+Aldeias ... 20$00
+
+N. B. - Os preços previstos na presente tabela para bailes referem-se a bailes realizados em noites normais. Para os bailes realizados em tardes normais, os preços sofrem uma redução de 50%. Para os bailes que se realizarem na noite de 31 de Dezembro, os preços sofrem um aumento de 100%. Para os bailes que se realizarem no período de Carnaval, os preços sofrem um aumento de 200%.
+
+Música ambiente
+
+Avenças diárias:
+
+Teatros e cinemas - o equivalente a 50% do valor de uma localidade do preço mais elevado.
+
+Cabinas de som sem publicidade ... 20$00
+
+Cabinas de som com publicidade ... 30$00
+
+Estabelecimentos comerciais:
+
+Lisboa e Porto:
+
+1.ª classe ... 15$00
+
+2.ª classe ... 10$00
+
+3.ª classe ... 8$00
+
+Outras localidades:
+
+1.ª classe ... 10$00
+
+2.ª classe ... 8$00
+
+3.ª classe ... 5$00
+
+Gira-discos com introdução de moedas ... 8$00
+
+Avença mensal:
+
+O equivalente a vinte vezes a avença diária.
+
+Avença anual:
+
+O equivalente a dez vezes a avença mensal.
+
+Observações
+
+Representação:
+
+O usuário, quando se tratar de obras protegidas, terá de obter do autor ou do seu representante a autorização respectiva.
+
+A autorização será apresentada à Secretaria de Estado da Cultura, que procederá à cobrança dos direitos previstos na lei; se os direitos previstos forem inferiores às tabelas mínimas, a cobrança será efectuada de acordo com as tabelas mínimas, revertendo a diferença para o Fundo de Fomento Cultural.
+
+Em relação às obras caídas no domínio público e populares e às que são pertença do Estado, a Secretaria de Estado da Cultura aplicará a taxa do Fundo de Fomento Cultural calculada de acordo com as tabelas mínimas.
+
+Filmes portugueses - Aplica-se a regra prevista para a representação.
+
+Reprodução mecânica:
+
+Compete aos produtores obter dos autores ou dos seus representantes as autorizações respectivas, as quais deverão ser depositadas na Secretaria de Estado da Cultura.
+
+No caso de alguma dessas autorizações estipular condições superiores às previstas nas tabelas mínimas, a Secretaria de Estado da Cultura procederá também a essa cobrança extra.
+
+Edição - Aplica-se a regra prevista para a representação.
+
+Execução:
+
+A cobrança destes direitos de autor será feita no sistema de avenças previsto nas tabelas mínimas. Os autores receberão os seus direitos proporcionalmente à duração de cada obra, tomando-se como base os programas.
+
+Reconhecida a impossibilidade de se obter o programa relativo a determinada função, os direitos respecitvos serão divididos proporcionalmente pelas obras que, durante o trimestre em que se localizou a data da realização da função, foram executadas na mesma área e em funções semelhantes.
+
+Adicional - Sobre as cobranças de direitos de representação e execução públicas recaem, respectivamente, os adicionais de 5% e 10%.
+
+Isenções - Quando se reconhecer interesse em que determinada utilização não seja onerada com o pagamento dos direitos de autor, o Secretário de Estado da Cultura poderá determinar que o valor desses direitos seja abonado pelo Fundo de Fomento Cultural.
+
+Tabela de emolumentos
+
+... Percentagens
+
+Representação ... 5
+
+Reprodução mecânica ... 10
+
+Execução - pública, rádio e televisão ... 20
+
+Recitais e concertos ... 10
+
+Edição ... 2
+
+Filmes - produção ... 2
+
+Filmes - exibição ... 5
+
+Encomenda ... 1

@@ -1,0 +1,174 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32016D2321:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02016D2321-20260209",
+ "dre_path": null,
+ "source_lastmod": "2026-02-09",
+ "versions": [
+  {
+   "date": "2016-12-20",
+   "future": false,
+   "celex": "32016D2321",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0c1e73dfa7695da3",
+    "3a36d3a46c9234d4",
+    "352395feccc07ea9",
+    "f0e9295b5985bb84"
+   ]
+  },
+  {
+   "date": "2026-02-09",
+   "future": false,
+   "celex": "02016D2321-20260209",
+   "acts": [
+    {
+     "id": "eu:celex:32026D0116:por",
+     "title": "DECISÃO DE EXECUÇÃO (UE) 2026/116 DA COMISSÃO de 19 de janeiro de 2026",
+     "published": null,
+     "celex": "32026D0116"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Notas",
+    "Adita ANEXO",
+    "Adita CERTIFICADO INTERNACIONAL DE NAVIO PRONTO A RECICLAR",
+    "Adita Características do navio",
+    "Adita Dados relativos ao(s) estaleiro(s) de reciclagem de navios",
+    "Adita Dados do inventário de matérias perigosas",
+    "Adita Dados relativos ao plano de reciclagem do navio",
+    "Adita CONFIRMAÇÃO DA PRORROGAÇÃO DA VALIDADE DO CERTIFICADO POR UM PERÍODO DE GRAÇA ATÉ À CHEGADA DO NAVIO AO PORTO DO ESTALEIRO DE RECICLAGEM DE NAVIOS, EM APLICAÇÃO DA REGRA 14, N.º 5, DO ANEXO DA CONVENÇÃO DE HONG KONG E DO ARTIGO 10.º, N.º 5, DO REGULAMENTO (UE) N.º 1257/2013 ([^1^](http://publications.europa.eu/resource/cellar/d915a33b-1737-11f1-8870-01aa75ed71a1.0019.02/DOC_1#E0002))"
+   ],
+   "fragments": [
+    "f850ae026a0c46a5",
+    "3a36d3a46c9234d4",
+    "ae8e44fbf0512d67",
+    "10220b9774fa9034",
+    "8f884139a2d88dac",
+    "1c44c0d1cbd4b1dc",
+    "406440271af2045a",
+    "1f4fb3dd01c397ad",
+    "70de2237b39db639",
+    "644001203b7a22ab",
+    "4e3279cb0e642cd0"
+   ]
+  }
+ ],
+ "fragments": {
+  "0c1e73dfa7695da3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de dezembro de 2016\n\nsobre o modelo do certificado de navio pronto a reciclar emitido em conformidade com o Regulamento (UE) n.º 1257/2013 do Parlamento Europeu e do Conselho relativo à reciclagem de navios\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (UE) n.º 1257/2013 do Parlamento Europeu e do Conselho, de 20 de novembro de 2013, relativo à reciclagem de navios e que altera o Regulamento (CE) n.º 1013/2006 e a Diretiva 2009/16/CE [([^1])](http://publications.europa.eu/resource/cellar/d1038450-c684-11e6-a6db-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2016345PT.01011201-E0001), nomeadamente o artigo 9.º, n.º 9,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (UE) n.º 1257/2013 estabelece requisitos aplicáveis aos armadores, administrações e organizações reconhecidas no que diz respeito à emissão, averbamento, prorrogação e existência a bordo dos certificados de navios prontos a reciclar.\n\n(2) Em conformidade com os requisitos do artigo 6.º, n.º 2, alínea c), do Regulamento (UE) n.º 1257/2013, os navios destinados a ser reciclados têm de dispor de um certificado de navio pronto a reciclar.\n\n(3) Nos termos do artigo 7.º do Regulamento (UE) n.º 1257/2013, antes de qualquer reciclagem de um navio, tem de ser elaborado um plano de reciclagem específico. O plano de reciclagem tem de atender a quaisquer considerações específicas para esse navio que não estejam abrangidas pelo plano do estaleiro de reciclagem de navios ou que exijam procedimentos especiais.\n\n(4) Nos termos do artigo 8.º do Regulamento (UE) n.º 1257/2013, os navios têm de ser objeto de vistorias, as quais são realizadas por funcionários das administrações ou de organizações reconhecidas por elas autorizadas. As vistorias têm por fim confirmar que os inventários de matérias perigosas satisfazem os requisitos aplicáveis do regulamento.\n\n(5) Em conformidade com o artigo 9.º, n.º 9, do Regulamento (UE) n.º 1257/2013, após conclusão, com resultados positivos, da vistoria final do navio, a administração ou uma organização reconhecida por ela autorizada tem de emitir um certificado de navio pronto a reciclar. Esse certificado tem de ser complementado com o inventário de matérias perigosas e com o plano de reciclagem do navio. O modelo do certificado de navio pronto a reciclar deve ser coerente com o apêndice 4 da Convenção Internacional para a Reciclagem Segura e Ambientalmente Correta dos Navios, adotada em Hong Kong em 15 de maio de 2009 (a seguir designada por «Convenção de Hong Kong»).\n\n(6) As medidas previstas na presente decisão estão em conformidade com o parecer do comité do regulamento relativo à reciclagem de navios instituído pelo artigo 25.º do Regulamento (UE) n.º 1257/2013,\n\nADOTOU A PRESENTE DECISÃO:"
+  },
+  "3a36d3a46c9234d4": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs certificados de navios prontos a reciclar emitidos em conformidade com o artigo 9.º, n.º 9, do Regulamento (UE) n.º 1257/2013 e confirmados em conformidade com o artigo 10.º, n.º 5, do mesmo regulamento devem ser conformes com o modelo que consta do anexo da presente decisão."
+  },
+  "352395feccc07ea9": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA presente decisão entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nFeito em Bruxelas, em 19 de dezembro de 2016.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**Jean-Claude JUNCKER**\n\n---"
+  },
+  "f0e9295b5985bb84": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/d1038450-c684-11e6-a6db-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2016345PT.01011201-E0001) [JO L 330 de 10.12.2013, p. 1](http://publications.europa.eu/resource/oj/JOL_2013_330_R_TOC)."
+  },
+  "f850ae026a0c46a5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de dezembro de 2016\n\nsobre o modelo do certificado de navio pronto a reciclar emitido em conformidade com o Regulamento (UE) n.º 1257/2013 do Parlamento Europeu e do Conselho relativo à reciclagem de navios\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "ae8e44fbf0512d67": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA presente decisão entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "8f884139a2d88dac": {
+   "fragment_id": "CERTIFICADO INTERNACIONAL DE NAVIO PRONTO A RECICLAR",
+   "type": "divisao",
+   "heading": "CERTIFICADO INTERNACIONAL DE NAVIO PRONTO A RECICLAR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CERTIFICADO INTERNACIONAL DE NAVIO PRONTO A RECICLAR\n\n(*Nota:* o presente certificado é complementado com o inventário de matérias perigosas e com o plano de reciclagem do navio)\n\n| *(selo oficial)* |  | *(Estado)* |\n| --- | --- | --- |\n\nEmitido segundo as disposições da Convenção Internacional de Hong Kong para a Reciclagem Segura e Ecológica dos Navios, adotada em Hong Kong a 15 de maio de 2009 (a seguir designada por «Convenção de Hong Kong»), aplicáveis aos Estados-Membros que são partes nessa convenção, e nos termos do Regulamento (UE) n.º 1257/2013 sob a autoridade do Governo de\n\n…\n\n*(nome do Estado)*\n\npor …\n\n*[designação completa da pessoa ou organização autorizada em conformidade com as disposições da Convenção de Hong Kong e com o Regulamento (UE) n.º 1257/2013]*"
+  },
+  "1c44c0d1cbd4b1dc": {
+   "fragment_id": "Características do navio",
+   "type": "divisao",
+   "heading": "Características do navio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Características do navio\n\nNome do navio\n\nNúmero ou letras distintivos\n\nPorto de registo\n\nArqueação bruta\n\nNúmero OMI\n\nNome e endereço do armador\n\nNúmero OMI de identificação do armador registado\n\nNúmero OMI de identificação da companhia\n\nData de construção"
+  },
+  "406440271af2045a": {
+   "fragment_id": "Dados relativos ao(s) estaleiro(s) de reciclagem de navios",
+   "type": "divisao",
+   "heading": "Dados relativos ao(s) estaleiro(s) de reciclagem de navios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Dados relativos ao(s) estaleiro(s) de reciclagem de navios\n\n| Nome do estaleiro de reciclagem de navios |  |\n| --- | --- |\n| Número de identificação único da empresa de reciclagem baseado no DARN [(^*1^)](http://publications.europa.eu/resource/cellar/d915a33b-1737-11f1-8870-01aa75ed71a1.0019.02/DOC_1#E0001) |  |\n| Número de identificação único da empresa de reciclagem na Lista Europeia |  |\n| Endereço completo |  |\n| Data de caducidade do DARN |  |\n| Data de caducidade da inscrição do estaleiro de reciclagem de navios na Lista Europeia |  |\n| (^*1^) Documento de autorização de reciclagem de navios (DARN). |  |"
+  },
+  "1f4fb3dd01c397ad": {
+   "fragment_id": "Dados do inventário de matérias perigosas",
+   "type": "divisao",
+   "heading": "Dados do inventário de matérias perigosas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Dados do inventário de matérias perigosas\n\nNúmero de identificação/verificação do inventário de matérias perigosas: …\n\n*Nota:* o inventário de matérias perigosas, tal como exigido pela regra 5 do anexo da Convenção de Hong Kong e pelo artigo 9.º, n.º 9, do Regulamento (UE) n.º 1257/2013, é uma parte essencial do certificado internacional de navio pronto a reciclar e deve sempre acompanhar esse certificado. Deve ser estabelecido com base no modelo indicado nas diretrizes elaboradas pela Organização Marítima Internacional, complementadas, se for caso disso, por linhas de orientação sobre aspetos específicos do Regulamento (UE) n.º 1257/2013, como as substâncias enumeradas nesse regulamento, mas não na Convenção de Hong Kong."
+  },
+  "70de2237b39db639": {
+   "fragment_id": "Dados relativos ao plano de reciclagem do navio",
+   "type": "divisao",
+   "heading": "Dados relativos ao plano de reciclagem do navio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Dados relativos ao plano de reciclagem do navio\n\nNúmero de identificação/verificação do plano de reciclagem do navio: …\n\n*Nota:* o plano de reciclagem do navio, tal como exigido pela regra 9 do anexo da Convenção de Hong Kong e pelo artigo 9.º, n.º 9, do Regulamento (UE) n.º 1257/2013, é uma parte essencial do certificado internacional de navio pronto a reciclar e deve sempre acompanhar esse certificado.\n\n1. O navio foi objeto de vistoria em conformidade com a regra 10 do anexo da Convenção de Hong Kong, aplicável aos Estados-Membros que são partes nessa convenção, e com o artigo 8.º do Regulamento (UE) n.º 1257/2013;\n\n2. O navio dispõe de um inventário de matérias perigosas válido em conformidade com a regra 5 do anexo da Convenção de Hong Kong, aplicável aos Estados-Membros que são partes nessa convenção, e com o artigo 5.º, n.º 7, do Regulamento (UE) n.º 1257/2013;\n\n3. O plano de reciclagem de navios, tal como exigido pela regra 9 do anexo da Convenção de Hong Kong, reflete corretamente as informações constantes do inventário de matérias perigosas, tal como exigido pela regra 5, n.º 4, do anexo da referida convenção, e contém informações relativas ao estabelecimento, manutenção e monitorização das condições de segurança para entrada e para trabalho a quente, aplicável aos Estados-Membros que são partes nessa convenção;\n\n4. O plano de reciclagem do navio foi estabelecido em conformidade com o artigo 7.º, n.º 2, do Regulamento (UE) n.º 1257/2013; e\n\n5. O estaleiro ou estaleiros de reciclagem de navios em que o navio será reciclado são titulares de uma autorização válida, em conformidade com a Convenção de Hong Kong, aplicável aos Estados-Membros que são partes nessa convenção, e estão inscritos na Lista Europeia, em conformidade com o artigo 16.º do Regulamento (UE) n.º 1257/2013.\n\n| O presente certificado é válido até (dd.mm.aaaa) … |  |  |\n| --- | --- | --- |\n|  |  | *(data)* |\n| Emitido em … |  |  |\n| *(local de emissão do certificado)* |  |  |\n| (dd.mm.aaaa) … | … |  |\n| *(data de emissão)* | *(assinatura do funcionário autorizado que emite o certificado)* |  |\n| *(selo ou carimbo da autoridade, conforme apropriado)* |  |  |"
+  },
+  "644001203b7a22ab": {
+   "fragment_id": "CONFIRMAÇÃO DA PRORROGAÇÃO DA VALIDADE DO CERTIFICADO POR UM PERÍODO DE GRAÇA ATÉ À CHEGADA DO NAVIO AO PORTO DO ESTALEIRO DE RECICLAGEM DE NAVIOS, EM APLICAÇÃO DA REGRA 14, N.º 5, DO ANEXO DA CONVENÇÃO DE HONG KONG E DO ARTIGO 10.º, N.º 5, DO REGULAMENTO (UE) N.º 1257/2013 ([^1^](http://publications.europa.eu/resource/cellar/d915a33b-1737-11f1-8870-01aa75ed71a1.0019.02/DOC_1#E0002))",
+   "type": "divisao",
+   "heading": "CONFIRMAÇÃO DA PRORROGAÇÃO DA VALIDADE DO CERTIFICADO POR UM PERÍODO DE GRAÇA ATÉ À CHEGADA DO NAVIO AO PORTO DO ESTALEIRO DE RECICLAGEM DE NAVIOS, EM APLICAÇÃO DA REGRA 14, N.º 5, DO ANEXO DA CONVENÇÃO DE HONG KONG E DO ARTIGO 10.º, N.º 5, DO REGULAMENTO (UE) N.º 1257/2013 ([^1^](http://publications.europa.eu/resource/cellar/d915a33b-1737-11f1-8870-01aa75ed71a1.0019.02/DOC_1#E0002))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONFIRMAÇÃO DA PRORROGAÇÃO DA VALIDADE DO CERTIFICADO POR UM PERÍODO DE GRAÇA ATÉ À CHEGADA DO NAVIO AO PORTO DO ESTALEIRO DE RECICLAGEM DE NAVIOS, EM APLICAÇÃO DA REGRA 14, N.º 5, DO ANEXO DA CONVENÇÃO DE HONG KONG E DO ARTIGO 10.º, N.º 5, DO REGULAMENTO (UE) N.º 1257/2013 ([^1^](http://publications.europa.eu/resource/cellar/d915a33b-1737-11f1-8870-01aa75ed71a1.0019.02/DOC_1#E0002))\n\nO presente certificado, em conformidade com a regra 14, n.º 5, do anexo da Convenção de Hong Kong, aplicável aos Estados-Membros que são partes nessa convenção, e com o artigo 10.º, n.º 5, do Regulamento (UE) n.º 1257/2013, relativo à reciclagem de navios, é aceite como válido para efeitos de uma única viagem direta\n\ndo porto de: …\n\npara o porto de: …\n\nAssinatura: …\n\n*(assinatura do funcionário autorizado)*\n\nLocal: …\n\nData: (dd.mm.aaaa) …\n\n*(selo ou carimbo da autoridade, conforme apropriado)*\n\n---"
+  },
+  "4e3279cb0e642cd0": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^*1^](http://publications.europa.eu/resource/cellar/d915a33b-1737-11f1-8870-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Esta página da confirmação deve ser reproduzida e anexada ao certificado, caso a administração o considere necessário."
+  }
+ }
+}

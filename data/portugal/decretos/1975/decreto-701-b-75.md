@@ -1,0 +1,227 @@
+---
+schema_version: '1.0'
+id: pt:dre:166602:por
+title: Decreto n.º 701-B/75
+short_title: null
+summary: Abre no Ministério das Finanças créditos especiais no montante de 1532883470$00
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Orçamento - Direcção-Geral da Contabilidade Pública
+proposing_entity: null
+official_number: 701-B/75
+official_date: null
+publication_date: '1975-12-17'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 290/1975, 2º Suplemento, Série I de 1975-12-17
+  number: '290'
+  series: I
+  supplement: null
+  pages: 2064-(3) a 2064-(4)
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/12/29002/00030004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '166602'
+  dre_path: /dr/detalhe/decreto/701-b-1975-166602
+  internal: pt:dre:166602:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/701-b-1975-166602
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/701-b-1975-166602
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:39:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3c55fc0c497666ff4a5acd7e056c5ec8e0681579799b69fbfccb70a167852a43
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:39:58Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alteração Orçamental
+- Crédito Especial
+- Gestão Orçamental
+- Ministério das Finanças
+- Reforço de Verbas
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:39:58Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 701-B/75
+
+de 17 de Dezembro
+
+Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1972-398130), de 15 de Fevereiro;
+
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 1532883470$00, destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+
+Defesa Nacional - Departamento do Exército
+
+Capítulo 11.º «Contas de ordem»:
+
+Artigo 460.º «Fundo de Instrução do Exército», n.º 1) «Encargos de carácter educativo e recreativo de reconhecido interesse para a instrução militar ...» ... 2000000$00
+
+Ministério da Coordenação Interterritorial
+
+Capítulo 15.º «Direcção-Geral de Fazenda»:
+
+Artigo 161.º «Outras despesas correntes», n.º 1 «Auxílio aos territórios ultramarinos e novos Estados independentes» ... 818730000$00
+
+Ministério da Administração Interna
+
+Capítulo 5.º «Polícia de Segurança Pública»:
+
+Artigo 87.º «Bens não duradouros», n.º 4 «Consumos de secretaria» ... 300000$00
+
+Ministério dos Negócios Estrangeiros
+
+Capítulo 3.º «Serviços externos do Ministério»:
+
+Missões diplomáticas e consulares
+
+Artigo 49.º «Vencimentos e salários», n.º 1 «Salários do pessoal eventual» ... 54000000$00
+
+Ministério dos Assuntos Sociais
+
+Capítulo 2.º «Secretaria-Geral»:
+
+Artigo 30.º «Transferências - Sector público», n.º 1 «Subsídio de comparticipação nos Serviços Sociais do Ministério dos Assuntos Sociais» ... 276129$00
+
+Secretaria de Estado da Saúde
+
+Capítulo 4.º «Gabinete do Secretário de Estado»:
+
+Artigo 56.º «Transferências - Sector público», n.º 1 «Instituto Nacional de Saúde» ... 13433432$00
+
+Capítulo 6.º «Direcção-Geral de Saúde»:
+
+Direcção-Geral
+
+Artigo 88.º «Transferências - Sector público»:
+
+N.º 6 «Outros serviços e estabelecimentos oficiais de saúde e assistência» ... 91261$00
+
+N.º 7 «Assistência médico-social na gravidez, no puerpéreo e na primeira infância», alínea 1 «Comparticipação nos encargos de sustentação do Instituto Maternal e estabelecimentos oficiais» ... 4780000$00
+
+N.º 8 «Luta contra a tuberculose», alínea 1 «Comparticipação nos encargos de sustentação do Instituto de Assistência Nacional aos Tuberculosos ...» ... 44231880$00
+
+N.º 9 «Assistência a alienados», alínea 1 «Comparticipação nos encargos de sustentação do Instituto de Assistência Psiquiátrica ...» ... 29796555$00
+
+N.º 10 «Assistência a leprosos», alínea 1 «Comparticipação nos encargos de sustentação do Instituto de Assistência aos Leprosos ...» ... 3353300$00
+
+Capítulo 7.º «Direcção-Geral dos Hospitais»:
+
+Artigo 142.º «Transferências - Sector público»:
+
+N.º 1 «Estabelecimentos hospitalares»:
+
+Alínea 1 «Comparticipação nos encargos de sustentação dos Hospitais Civis de Lisboa, ...» ... 165500000$00
+
+Alínea 2 «Comparticipação nos encargos de sustentação do Centro Hospitalar das Caldas da Rainha, ...» ... 126757000$00
+
+N.º 2 «Assistência na maternidade», alínea 1 «Comparticipação nos encargos de sustentação das Maternidades do Dr. Alfredo da Costa, ...» ... 13684000$00
+
+N.º 3 «Instituto Nacional de Sangue», alínea 1 «Comparticipação nos encargos da sua sustentação» ... 950000$00
+
+N.º 6 «Carreiras médicas», alínea 1 «Comparticipação nos encargos desta natureza dos estabelecimentos oficiais» ... 12500000$00
+
+Artigo 143.º «Transferências - Instituições particulares»:
+
+N.º 1 «Estabelecimentos hospitalares», alínea 2 «Subsídios de cooperação às Misericórdias para sustentação dos seus hospitais ...» ... 1760000$00
+
+N.º 3 «Assistência nas doenças reumatismais e cárdio-vasculares» ... 925000$00
+
+Secretaria de Estado da Segurança Social
+
+Capítulo 10.º «Direcção-Geral da Assistência Social»:
+
+Artigo 187.º «Transferências - Sector público»:
+
+N.º 1 «Protecção à infância e juventude», alínea 1 «Comparticipação nos encargos de sustentação do do Instituto da Família e Acção Social ...» ... 47459985$00
+
+N.º 2 «Reabilitação e protecção aos diminuídos e idosos», alínea 1 «Comparticipação nos encargos de sustentação do Instituto da Família e Acção Social, ...» ... 5154928$00
+
+N.º 3 «Acção familiar e social», alínea 1 «Comparticipação nos encargos de sustentação do Instituto da Família e Acção Social» ... 151200000$00
+
+Artigo 187.º-A «Transferências - Instituições particulares», n.º 1 «Subsídios a instituições particulares de assistência» ... 36000000$00
+
+... 657853470$00
+
+... 1532883470$00
+
+Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao actual Orçamento Geral do Estado, representativas de aumentos de previsão das seguintes receitas:
+
+Orçamento das receitas do Estado
+
+Receita ordinária:
+
+Capítulo 1.º, grupo 1, artigo 2.º «Contribuição predial» ... 61853470$00
+
+Capítulo 1.º, grupo 1, artigo 4.º «Imposto de capitais» ... 200000000$00
+
+Capítulo 2.º, grupo 1, artigo 15.º «Taxa de salvação nacional» ... 150000000$00
+
+Capítulo 2.º, grupo 1, artigo 23.º «Imposto sobre a venda de automóveis» ... 300000000$00
+
+Capítulo 5.º, grupo 1, artigo 87.º «Fundos autónomos» ... 300000$00
+
+Capítulo 15.º, artigo 165.º «Fundo de Instrução do Exército» ... 2000000$00
+
+Receita extraordinária:
+
+Capítulo 12.º, grupo 9, artigo 199.º «Crédito interno» ... 818730000$00
+
+... 1532883470$00
+
+José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Ernesto Augusto de Melo Antunes - Jorge de Carvalho Sá Borges.
+
+Promulgado em 12 de Dezembro de 1975.
+
+Publique-se.
+
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -1,0 +1,176 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31996R0847:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996R0847-20100101",
+ "dre_path": null,
+ "source_lastmod": "2010-01-01",
+ "versions": [
+  {
+   "date": "1996-05-09",
+   "future": false,
+   "celex": "31996R0847",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cdc226fb62d633f7",
+    "3d6395fb92fd9f18",
+    "10333b73d810fc6c",
+    "b71029175a7602d3",
+    "b0e42de4d7205e30",
+    "227c527edfbd78ff",
+    "f316070301173e40"
+   ]
+  },
+  {
+   "date": "2010-01-01",
+   "future": false,
+   "celex": "01996R0847-20100101",
+   "acts": [
+    {
+     "id": "eu:celex:32009R1224:por",
+     "title": "REGULAMENTO (CE) N. o 1224/2009 do Conselho de 20 de Novembro de 2009",
+     "published": null,
+     "celex": "32009R1224"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 6.º",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º"
+   ],
+   "fragments": [
+    "3756ce69e9518c79",
+    "611060d7e5fd2fae",
+    "4fff1087860b2074",
+    "c2f0214d13778c21",
+    "bdfeb4ce7893670f",
+    "88b1c9adb9bc2da0",
+    "f9620419b844bb30"
+   ]
+  }
+ ],
+ "fragments": {
+  "cdc226fb62d633f7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 847/96 do Conselho, de 6 de Maio de 1996, que introduz condições suplementares para a gestão anual dos TAC e quotas** *Jornal Oficial nº L 115 de 09/05/1996 p. 0003 - 0005*\n\nREGULAMENTO (CE) Nº 847/96 DO CONSELHO de 6 de Maio de 1996 que introduz condições suplementares para a gestão anual dos TAC e quotas\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 43º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nConsiderando que, para além das disposições previstas no nº 2 do artigo 4º do Regulamento (CEE) nº 3760/92 do Conselho, de 20 de Dezembro de 1992, que institui um regime comunitário da pesca e da aquicultura (3), é necessário estabelecer condições de exercício das actividades de exploração no sector da pesca, destinadas a melhorar os mecanismos presentemente disponíveis, pela introdução de uma flexibilidade na gestão anual dos totais admissíveis de captura (TAC) e quotas que seja compatível, dentro de certos limites, com as medidas de conservação;\n\nConsiderando que, nos termos do artigo 8º do Regulamento (CEE) nº 3760/92, cabe ao Conselho estabelecer as possibilidades de pesca a atribuir aos Estados-membros e determinar as condições de ajustamento destas possibilidades de um ano para outro;\n\nConsiderando que é necessário determinar as unidades populacionais sujeitas a TAC de precaução ou a TAC analíticos;\n\nConsiderando que, para efeitos do presente regulamento, é necessário determinar os desembarques autorizados de determinada unidade populacional;\n\nConsiderando que, em determinadas condições, os TAC de precaução e as quotas para determinadas unidades populacionais podem ser aumentados durante o ano, sem grande perigo de prejudicar o princípio de exploração racional e responsável dos recursos marinhos;\n\nConsiderando que é conveniente incentivar os Estados-membros a transferirem, de um ano para o outro, parte das suas quotas relativas a unidades populacionais sujeitas a TAC analíticos, dentro de certos limites;\n\nConsiderando que outras unidades populacionais sujeitas quer a TAC analíticos quer a TAC de precaução podem encontrar-se num estado de exploração que torne qualquer aumento do TAC indesejável;\n\nConsiderando que deve ser punida a sobrepesca de quotas; que este efeito pode ser obtido pela imposição aos Estados-membros responsáveis pela sobrepesca de reduções adequadas das quotas no ano seguinte; que, em conformidade com o artigo 23º do Regulamento (CEE) nº 2847/93 do Conselho, de 12 de Outubro de 1993, que institui um regime de controlo aplicável à política comum das pescas (4), o Conselho adoptará regras com base nas quais a Comissão pode proceder a deduções das quotas em caso de sobrepesca, tendo em conta o grau de sobrepesca, os casos de sobrepesca no ano anterior e o estado biológico dos recursos em causa,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "3d6395fb92fd9f18": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. Serão aplicados TAC de precaução às unidades populacionais sobre cujas possibilidades de pesca não exista qualquer avaliação científica relativa ao ano em que os TAC devam ser estabelecidos, devendo nos restantes casos ser aplicados TAC analíticos.\n\n2. Para efeitos do presente regulamento, os desembarques autorizados de determinada unidade populacional consistem na quota atribuída pelo Conselho a determinado Estado-membro ao abrigo do disposto no nº 4 do artigo 8º do Regulamento (CEE) nº 3760/92 e alterada pelas:\n\n- trocas realizadas ao abrigo do disposto no artigo 9º do Regulamento (CEE) nº 3760/92,\n\n- compensações previstas no nº 4 do artigo 21º do Regulamento (CEE) nº 2847/93,\n\n- quantidades retiradas ao abrigo do disposto no nº 2 do artigo 4º do presente regulamento\n\ne\n\n- deduções previstas no artigo 5º do presente regulamento."
+  },
+  "10333b73d810fc6c": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nAo fixar os TAC em conformidade com o artigo 8º do Regulamento (CEE) nº 3760/92, o Conselho decidirá:\n\n- quais as unidades populacionais que devem ficar sujeitas a TAC de precaução e quais as que devem ficar sujeitas a TAC analíticos, com base nos pareceres científicos existentes para essas unidades populacionais,\n\n- a que unidades populacionais não é aplicável o disposto nos artigos 3º ou 4º, com base no estado biológico das unidades populacionais e nos compromissos firmados com países terceiros,\n\n- a que unidades populacionais são aplicáveis as deduções previstas no nº 2 do artigo 5º, com base no seu estado biológico."
+  },
+  "b71029175a7602d3": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Sempre que mais de 75 % de um TAC de precaução tiverem sido utilizados antes de 31 de Outubro do ano da sua aplicação, o Estado-membro com uma quota relativa à unidade populacional para a qual foi fixado esse TAC pode solicitar um aumento do TAC. O pedido será dirigido à Comissão, acompanhado das informações biológicas justificativas e de uma indicação da importância da revisão. A Comissão examinará, no prazo de 20 dias úteis, todos os elementos do pedido com vista à apresentação ao Conselho de uma alteração do regulamento que fixa os TAC e quotas, caso se justifique. O Estado-membro será informado dos resultados do exame.\n\n2. Os Estados-membros podem fazer capturas que excedam os desembarques autorizados até 5 %. Contudo, essas capturas serão consideradas como excedendo os desembarques autorizados no que respeita às deduções previstas no artigo 5º\n\n3. Sempre que mais de 75 % de uma quota relativa a uma unidade populacional sujeita a um TAC de precaução tiverem sido utilizados antes de 31 de Outubro do ano da sua aplicação, o Estado-membro a que tenha sido atribuída essa quota pode solicitar à Comissão autorização para desembarcar quantidades suplementares de peixes da mesma unidade populacional, indicando a quantidade suplementar requerida, não podendo esta última ultrapassar 10 % da quota em causa. A Comissão decidirá sobre esses pedidos no prazo de 20 dias úteis, nos termos do processo estabelecido no artigo 36º do Regulamento (CEE) nº 2847/93. A quantidade suplementar concedida ao abrigo deste processo será considerada como excedendo os desembarques autorizados para efeitos das deduções previstas no artigo 5º do presente regulamento."
+  },
+  "b0e42de4d7205e30": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. As disposições previstas nos nºs 2 e 3 do artigo 3º serão aplicáveis às unidades populacionais sujeitas a TAC analíticos.\n\n2. No caso das unidades populacionais sujeitas a TAC analíticos, excepto as referidas no nº 2 do artigo 5º, um Estado-membro a que tenha sido atribuída uma quota pode solicitar à Comissão, antes de 31 de Outubro do ano de aplicação da quota, a retirada de um máximo de 10 % da sua quota para ser transferida para o ano seguinte.\n\nNos termos do processo estabelecido no artigo 36º do Regulamento (CEE) nº 2847/93, a Comissão adicionará à quota em questão a quantidade retirada."
+  },
+  "227c527edfbd78ff": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Excepto no caso das unidades populacionais referidas no nº 2, todos os desembarques que excedam os respectivos desembarques autorizados serão deduzidos das quotas da mesma unidade populacional no ano seguinte.\n\n2. No caso das unidades populacionais referidas no terceiro travessão do artigo 2º, a sobrepesca dos desembarques autorizados implicará uma dedução da respectiva quota no ano seguinte, em conformidade com o seguinte quadro:\n\n>POSIÇÃO NUMA TABELA>\n\nTodavia, em todos os casos de sobrepesca dos desembarques autorizados igual ou inferior a 100 toneladas será aplicada uma dedução igual à sobrepesca × 1,00.\n\nSerão além disso deduzidos 3 % da quantidade pescada em excesso dos desembarques autorizados por cada ano sucessivo em que os desembarques pescados foram sobrepescados em mais de 10 %.\n\n3. As deduções serão feitas sem prejuízo do disposto no nº 4 do artigo 21º do Regulamento (CEE) nº 2847/93."
+  },
+  "f316070301173e40": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1997.\n\nContudo, o artigo 5º é aplicável a partir de 1 de Janeiro de 1998.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 6 de Maio de 1996.\n\nPelo Conselho\n\nO Presidente\n\nG. LOMBARDI\n\n(1) JO nº C 382 de 31. 12. 1994, p. 4.\n\n(2) JO nº C 249 de 25. 9. 1995, p. 84.\n\n(3) JO nº L 389 de 31. 12. 1992, p. 1. Regulamento com a última redacção que lhe foi dada pelo Acto de Adesão da Áustria, da Finlândia e da Suécia.\n\n(4) JO nº L 261 de 20. 10. 1993, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) nº 2870/95 (JO nº L 301 de 14. 12. 1995, p. 1)."
+  },
+  "3756ce69e9518c79": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Maio de 1996\n\nque introduz condições suplementares para a gestão anual dos TAC e quotas\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 43.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/50ca3511-a47d-44c8-a63f-2e996cdc309f.0019.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/50ca3511-a47d-44c8-a63f-2e996cdc309f.0019.03/DOC_1#E0002)),\n\nConsiderando que, para além das disposições previstas no n.º 2 do artigo 4.º do Regulamento (CEE) n.º 3760/92 do Conselho, de 20 de Dezembro de 1992, que institui um regime comunitário da pesca e da aquicultura ([^3^](http://publications.europa.eu/resource/cellar/50ca3511-a47d-44c8-a63f-2e996cdc309f.0019.03/DOC_1#E0003)), é necessário estabelecer condições de exercício das actividades de exploração no sector da pesca, destinadas a melhorar os mecanismos presentemente disponíveis, pela introdução de uma flexibilidade na gestão anual dos totais admissíveis de captura (TAC) e quotas que seja compatível, dentro de certos limites, com as medidas de conservação;\n\nConsiderando que, nos termos do artigo 8.º do Regulamento (CEE) n.º 3760/92, cabe ao Conselho estabelecer as possibilidades de pesca a atribuir aos Estados-membros e determinar as condições de ajustamento destas possibilidades de um ano para outro;\n\nConsiderando que é necessário determinar as unidades populacionais sujeitas a TAC de precaução ou a TAC analíticos;\n\nConsiderando que, para efeitos do presente regulamento, é necessário determinar os desembarques autorizados de determinada unidade populacional;\n\nConsiderando que, em determinadas condições, os TAC de precaução e as quotas para determinadas unidades populacionais podem ser aumentados durante o ano, sem grande perigo de prejudicar o princípio de exploração racional e responsável dos recursos marinhos;\n\nConsiderando que é conveniente incentivar os Estados-membros a transferirem, de um ano para o outro, parte das suas quotas relativas a unidades populacionais sujeitas a TAC analíticos, dentro de certos limites;\n\nConsiderando que outras unidades populacionais sujeitas quer a TAC analíticos quer a TAC de precaução podem encontrar-se num estado de exploração que torne qualquer aumento do TAC indesejável;\n\nConsiderando que deve ser punida a sobrepesca de quotas; que este efeito pode ser obtido pela imposição aos Estados-membros responsáveis pela sobrepesca de reduções adequadas das quotas no ano seguinte; que, em conformidade com o artigo 23.º do Regulamento (CEE) n.º 2847/93 do Conselho, de 12 de Outubro de 1993, que institui um regime de controlo aplicável à política comum das pescas ([^4^](http://publications.europa.eu/resource/cellar/50ca3511-a47d-44c8-a63f-2e996cdc309f.0019.03/DOC_1#E0004)), o Conselho adoptará regras com base nas quais a Comissão pode proceder a deduções das quotas em caso de sobrepesca, tendo em conta o grau de sobrepesca, os casos de sobrepesca no ano anterior e o estado biológico dos recursos em causa,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "611060d7e5fd2fae": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Serão aplicados TAC de precaução às unidades populacionais sobre cujas possibilidades de pesca não exista qualquer avaliação científica relativa ao ano em que os TAC devam ser estabelecidos, devendo nos restantes casos ser aplicados TAC analíticos.\n\n2. Para efeitos do presente regulamento, os desembarques autorizados de determinada unidade populacional consistem na quota atribuída pelo Conselho a determinado Estado-membro ao abrigo do disposto no n.º 4 do artigo 8.º do Regulamento (CEE) n.º 3760/92 e alterada pelas:\n\n— trocas realizadas ao abrigo do disposto no artigo 9.º do Regulamento (CEE) n.º 3760/92,\n\n— compensações previstas no n.º 4 do artigo 21.º do Regulamento (CEE) n.º 2847/93,\n\n— quantidades retiradas ao abrigo do disposto no n.º 2 do artigo 4.º do presente regulamento\n\n— e\n\n— deduções previstas no artigo 5.º do presente regulamento."
+  },
+  "4fff1087860b2074": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAo fixar os TAC em conformidade com o artigo 8.º do Regulamento (CEE) n.º 3760/92, o Conselho decidirá:\n\n— quais as unidades populacionais que devem ficar sujeitas a TAC de precaução e quais as que devem ficar sujeitas a TAC analíticos, com base nos pareceres científicos existentes para essas unidades populacionais,\n\n— a que unidades populacionais não é aplicável o disposto nos artigos 3.º ou 4.º, com base no estado biológico das unidades populacionais e nos compromissos firmados com países terceiros,\n\n— a que unidades populacionais são aplicáveis as deduções previstas no n.º 2 do artigo 5.º, com base no seu estado biológico."
+  },
+  "c2f0214d13778c21": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Sempre que mais de 75 % de um TAC de precaução tiverem sido utilizados antes de 31 de Outubro do ano da sua aplicação, o Estado-membro com uma quota relativa à unidade populacional para a qual foi fixado esse TAC pode solicitar um aumento do TAC. O pedido será dirigido à Comissão, acompanhado das informações biológicas justificativas e de uma indicação da importância da revisão. A Comissão examinará, no prazo de 20 dias úteis, todos os elementos do pedido com vista à apresentação ao Conselho de uma alteração do regulamento que fixa os TAC e quotas, caso se justifique. O Estado-membro será informado dos resultados do exame.\n\n2. Os Estados-membros podem fazer capturas que excedam os desembarques autorizados até 5 %. Contudo, essas capturas serão consideradas como excedendo os desembarques autorizados no que respeita às deduções previstas no artigo 5.º\n\n3. Sempre que mais de 75 % de uma quota relativa a uma unidade populacional sujeita a um TAC de precaução tiverem sido utilizados antes de 31 de Outubro do ano da sua aplicação, o Estado-membro a que tenha sido atribuída essa quota pode solicitar à Comissão autorização para desembarcar quantidades suplementares de peixes da mesma unidade populacional, indicando a quantidade suplementar requerida, não podendo esta última ultrapassar 10 % da quota em causa. A Comissão decidirá sobre esses pedidos no prazo de 20 dias úteis, nos termos do processo estabelecido no artigo 36.º do Regulamento (CEE) n.º 2847/93. A quantidade suplementar concedida ao abrigo deste processo será considerada como excedendo os desembarques autorizados para efeitos das deduções previstas no artigo 5.º do presente regulamento."
+  },
+  "bdfeb4ce7893670f": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. As disposições previstas nos n.^os^ 2 e 3 do artigo 3.º serão aplicáveis às unidades populacionais sujeitas a TAC analíticos.\n\n2. No caso das unidades populacionais sujeitas a TAC analíticos, excepto as referidas no n.º 2 do artigo 5.º, um Estado-membro a que tenha sido atribuída uma quota pode solicitar à Comissão, antes de 31 de Outubro do ano de aplicação da quota, a retirada de um máximo de 10 % da sua quota para ser transferida para o ano seguinte.\n\nNos termos do processo estabelecido no artigo 36.º do Regulamento (CEE) n.º 2847/93, a Comissão adicionará à quota em questão a quantidade retirada."
+  },
+  "88b1c9adb9bc2da0": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1997.\n\nContudo, o artigo 5.º é aplicável a partir de 1 de Janeiro de 1998.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\n---"
+  },
+  "f9620419b844bb30": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/50ca3511-a47d-44c8-a63f-2e996cdc309f.0019.03/DOC_1#src.E0001)) JO n.º C 382 de 31.12.1994, p. 4.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/50ca3511-a47d-44c8-a63f-2e996cdc309f.0019.03/DOC_1#src.E0002)) JO n.º C 249 de 25.9.1995, p. 84.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/50ca3511-a47d-44c8-a63f-2e996cdc309f.0019.03/DOC_1#src.E0003)) JO n.º L 389 de 31.12.1992, p. 1. Regulamento com a última redacção que lhe foi dada pelo Acto de Adesão da Áustria, da Finlândia e da Suécia.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/50ca3511-a47d-44c8-a63f-2e996cdc309f.0019.03/DOC_1#src.E0004)) JO n.º L 261 de 20.10.1993, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2870/95 (JO n.º L 301 de 14.12.1995, p. 1)."
+  }
+ }
+}

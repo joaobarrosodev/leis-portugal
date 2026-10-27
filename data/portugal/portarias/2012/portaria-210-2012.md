@@ -1,0 +1,186 @@
+---
+schema_version: '1.0'
+id: pt:dre:179573:por
+title: Portaria n.º 210/2012
+short_title: null
+summary: Quinta alteração à Portaria n.º 736/2006, de 26 de julho, que aprova o regulamento de condições mínimas para os trabalhadores
+  administrativos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios da Administração Interna, da Justiça, da Economia e do Emprego, da Agricultura,
+  do Mar, do Ambiente e do Ordenamento do Território e da Saúde
+proposing_entity: null
+official_number: 210/2012
+official_date: null
+publication_date: '2012-07-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 134/2012, Série I de 2012-07-12
+  number: '134'
+  series: I
+  supplement: null
+  pages: 3632 - 3633
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/07/13400/0363203633.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/210/2012/07/12/p/dre/pt/html
+  oj: null
+  dre: '179573'
+  dre_path: /dr/detalhe/portaria/210-2012-179573
+  internal: pt:dre:179573:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/210-2012-179573
+  metadata_url: https://data.dre.pt/eli/port/210/2012/07/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/210-2012-179573
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:52:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1ba006f4c306ef0b96a0a828e9353a743345c6365c76155e21eff353ae4c5400
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:51Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Certificado de Aptidão Profissional
+- Deslocação em Serviço
+- Diuturnidades
+- Duração do Trabalho
+- Empresa
+- Empresa Pública
+- Feriado
+- Pessoal Administrativo
+- Regime Laboral
+- Regulamento
+- Remuneração
+- Serviços Administrativos
+- Setor Empresarial do Estado
+- Setor Privado
+- Subsídio de Refeição
+relationships:
+- type: amended_by
+  target: pt:dre:115561641:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:70804090:por
+  label: Alterados o art. 11.º e o anexo II da Port 736/2006 de 26-jul, com a redação dada pelo presente diploma, pelo(a)
+    Portaria n.º 382/2015 - Diário da República n.º 209/2015, Série I de 2015-10-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/382-2015-70804090
+  date: '2015-10-26'
+- type: cites
+  target: pt:dre:444242:por
+  label: null
+  source: http://data.dre.pt/eli/port/1548/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:539235:por
+  label: null
+  source: http://data.dre.pt/eli/port/736/2006/07/26/p/dre
+- type: cites
+  target: pt:dre:628012:por
+  label: null
+  source: http://data.dre.pt/eli/port/1636/2007/12/31/p/dre
+- type: repealed_by
+  target: pt:dre:115561641:por
+  label: Revogada, a partir de 27.06.2018, a Port 736/2006 de 26-jul, alterada pelo presente diploma, pelo(a) Portaria n.º
+    182/2018 - Diário da República n.º 119/2018, Série I de 2018-06-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/182-2018-115561641
+  date: '2018-06-22'
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:52:51Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 210/2012
+
+de 12 de julho
+
+As condições de trabalho dos trabalhadores administrativos não abrangidos por regulamentação coletiva específica são reguladas pela [Portaria n.º 736/2006](https://diariodarepublica.pt/dr/detalhe/portaria/736-2006-539235), de 26 de julho, que aprovou o regulamento de condições mínimas, publicada no Diário da República, 1.ª série, n.º 143, de 26 de julho de 2006, alterada pelas Portarias n.os [1636/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1636-2007-628012), [1548/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1548-2008-444242), 191/2010 e 1068/2010, publicadas, respetivamente, no Diário da República, 1.ª série, n.os 251, de 31 de dezembro de 2007, 252, de 31 de dezembro de 2008, 68, de 8 de abril de 2010, e 203, de 19 de outubro de 2010.
+
+Verificando-se os pressupostos de emissão de portaria de condições de trabalho previstos no artigo 517.º do Código do Trabalho, concretamente a inexistência de associações de empregadores e circunstâncias sociais e económicas que o justificam, foi constituída uma comissão técnica incumbida de proceder aos estudos preparatórios de atualização das condições de trabalho dos trabalhadores administrativos não abrangidos por regulamentação coletiva específica, designada por despacho da Ministra do Trabalho e da Solidariedade Social, de 10 de fevereiro de 2011, publicado no Diário da República, 2.ª série, n.º 35, de 18 de fevereiro de 2011, e no Boletim do Trabalho e Emprego, n.º 7, de 22 de fevereiro de 2011.
+
+As associações sindicais representadas na comissão técnica pronunciaram-se sobre a atualização das retribuições mínimas entre 3 % e 3,7 % e preconizaram maioritariamente a atualização do subsídio de refeição para (euro) 4,50. Para as retribuições mínimas e o subsídio de refeição, a Confederação dos Agricultores de Portugal e a Confederação do Comércio e Serviços de Portugal preconizaram a atualização de 1 %, enquanto a Confederação Empresarial de Portugal sugeriu o não aumento das referidas prestações.
+
+Foi publicado no Boletim do Trabalho e Emprego, n.º 22, de 15 de junho de 2011, o aviso relativo à intenção do Governo, através do extinto Ministério do Trabalho e da Solidariedade Social, proceder à atualização das condições de trabalho dos trabalhadores administrativos abrangidos pela referida portaria, ao qual não foi deduzida oposição por parte dos interessados.
+
+Importa salientar que os trabalhos efetuados pela referida comissão técnica e o procedimento administrativo conducente à publicação da presente portaria desenvolveram-se na atual situação de grave crise económica que se vive em Portugal e em que urge a concretização da retoma do crescimento económico, a criação de empregos e a melhoria do nível de competitividade das empresas.
+
+Nos termos do disposto no n.º 1 do artigo 517.º do Código do Trabalho, a portaria de condições de trabalho pode ser emitida quando circunstâncias sociais e económicas o justifiquem.
+
+Contudo, atento o referido contexto, a que acresce a vigência do Programa de Assistência Económica e Financeira a Portugal, procede-se à emissão da portaria de condições de trabalho com uma produção de efeitos diferente da inicialmente prevista.
+
+As retribuições mínimas são atualizadas em 2 %, com exceção da retribuição mínima do nível xi que é igual à retribuição mínima mensal garantida. A atualização é inferior ao valor médio observado nas convenções coletivas publicadas no primeiro trimestre de 2011 e à média da contratação coletiva em 2010. Segundo a informação estatística mais recente baseada nos quadros de pessoal de 2009, no âmbito desta portaria, os trabalhadores de todas as profissões e categorias profissionais auferiam nesse ano retribuições de base em média superiores às da presente portaria.
+
+A atualização do subsídio de refeição segue a tendência da contratação coletiva de atualizar essa prestação em percentagem superior à das retribuições. Não obstante, o seu valor continua próximo dos subsídios mais reduzidos consagrados nas convenções coletivas.
+
+De acordo com a alínea c) do n.º 1 do artigo 478.º do Código do Trabalho, os instrumentos de regulamentação coletiva de trabalho podem conferir eficácia retroativa às cláusulas de natureza pecuniária. No atual contexto económico e social, que supra se referiu, a presente portaria estabelece para a tabela salarial, com exceção da retribuição mínima prevista nível no nível xi que é igual à retribuição mínima mensal garantida em vigor, para o subsídio de refeição e para as diuturnidades produção de efeitos a partir de 1 de abril de 2012.
+
+A presente portaria é aplicável no território do continente, tendo em consideração que a atualização das condições de trabalho dos trabalhadores administrativos nas Regiões Autónomas dos Açores e da Madeira compete aos respetivos Governos Regionais.
+
+Assim:
+
+Manda o Governo, pelo Secretário de Estado da Cultura, pelos Ministros da Administração Interna, da Justiça, da Economia e do Emprego, da Agricultura, do Mar, do Ambiente e do Ordenamento do Território e da Saúde, ao abrigo do disposto nos artigos 517.º e 518.º do Código do Trabalho, o seguinte:
+
+###### Artigo 1.º — Alterações à [Portaria n.º 736/2006](https://diariodarepublica.pt/dr/detalhe/portaria/736-2006-539235), de 26 de julho
+
+1 - O artigo 11.º da [Portaria n.º 736/2006](https://diariodarepublica.pt/dr/detalhe/portaria/736-2006-539235), de 26 de julho, na redação dada pela Portaria n.º 1068/2010, de 19 de outubro, passa a ter a seguinte redação:
+
+«Artigo 11.º
+
+[...]
+
+1 - O trabalhador tem direito a um subsídio de refeição no valor de (euro) 3,45 por cada dia completo de trabalho.
+
+2 - ...
+
+3 - ...
+
+4 - ...»
+
+2 - O anexo ii da [Portaria n.º 736/2006](https://diariodarepublica.pt/dr/detalhe/portaria/736-2006-539235), de 26 de julho, passa a ter a redação constante do anexo da presente portaria.
+
+###### Artigo 2.º — Entrada em vigor e eficácia
+
+1 - A presente portaria entra em vigor no 5.º dia após a sua publicação no Diário da República.
+
+2 - A atualização das retribuições mínimas, do subsídio de refeição e das diuturnidades produzem efeitos desde 1 de abril de 2012, com exceção da retribuição prevista no nível xi, cujo valor corresponde à retribuição mínima mensal garantida em vigor.
+
+O Secretário de Estado da Cultura, Francisco José Viegas, em 8 de maio de 2012. - O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva, em 24 de maio de 2012. - A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 2 de julho de 2012. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 7 de maio de 2012. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 2 de julho de 2012. - O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo, em 4 de julho de 2012.
+
+## ANEXO II — Retribuições mínimas
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13400/0363203633.pdf)

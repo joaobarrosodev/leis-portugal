@@ -1,0 +1,201 @@
+---
+schema_version: '1.0'
+id: pt:dre:2320459:por
+title: Portaria n.º 1338/2000 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 1338/2000 (2.ª série)
+official_date: null
+publication_date: '2000-09-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 205/2000, Série II de 2000-09-05
+  number: '205'
+  series: II
+  supplement: null
+  pages: 14504 - 14505
+  pdf_url: https://files.diariodarepublica.pt/2s/2000/09/205000000/1450414505.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2320459'
+  dre_path: /dr/detalhe/portaria/1338-2000-2320459
+  internal: pt:dre:2320459:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1338-2000-2320459
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1338-2000-2320459
+  consolidated_url: null
+  retrieved_at: '2026-10-23T16:07:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e59145d09799782bfd5fef6d8f6312d1da38615f00f943d2d68438a6ac9783fb
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:07:28Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CMVM
+- Mercado de Valores
+- Sociedade Gestora de Mercados não Regulamentados
+- Sociedade Gestora de Mercados Regulamentados
+- Sociedade Gestora de Sistemas Centralizados
+- Sociedade Gestora de Sistemas de Liquidação
+- TAXA de Realização de Operações
+relationships:
+- type: amended_by
+  target: pt:dre:567024:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:682985:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:567024:por
+  label: "Revogada pela PORT.1303/2001.2001.11.22.MF DR.IS-B [271]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1303-2001-567024
+  date: '2001-11-22'
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T16:07:28Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1338/2000 (2.ª série)
+
+Portaria n.º 1338/2000 (2.ª série). - 1 - O estabelecimento de condições que assegurem a neutralidade das operações de transmissão de valores mobiliários negociados em mercado regulamentado e das realizadas fora de mercado regulamentado constitui um dos fundamentos das taxas sobre operações fora de mercado regulamentado, prevista, no artigo 211.º do Código dos Valores Mobiliários e na portaria n.º 313-A/2000 (2.ª série), de 29 de Fevereiro.
+
+Há, porém, determinadas operações de transmissão de valores mobiliários que apenas poderão ser realizadas fora de mercado regulamentado e cuja configuração torna muito difícil a sua concepção como mero instrumento alternativo à compra e venda de valores, em relação às quais a portaria n.º 313-A/2000 (2.ª série), de 29 de Fevereiro, não instituía qualquer diferenciação. Em tais casos não se verifica qualquer negociação cuja neutralidade se imponha assegurar, sendo a supervisão exercida sobre os valores mobiliários em causa o único fundamento de aplicação das taxas.
+
+Assim, não se justifica a aplicação de uma taxa superior às comissões de operações cobradas pela entidade gestora do mercado regulamentado onde os valores estiverem admitidos.
+
+Procede-se, agora, para estes casos específicos, a uma redução das taxas de realização de operações em vigor, através da aplicação de taxas de supervisão equivalentes às referidas comissões cobradas pela entidade gestora do mercado regulamentado onde os valores estiverem admitidos.
+
+2 - A portaria n.º 313-A/2000 (2.ª série), de 29 de Fevereiro, já se referia no seu preâmbulo à consagração de uma taxa incidente sobre os fundos de investimento. A presente portaria vem, ademais, cumprir esse desiderato, introduzindo uma taxa sobre os valores líquidos globais dos fundos, a ser paga pelas respectivas entidades gestoras, de forma a conseguir uma mais equitativa redistribuição dos custos de supervisão pelas várias entidades e produtos do mercado.
+
+3 - Finalmente, isenta-se de taxa de operações fora de mercado regulamentado as operações sobre obrigações e outros valores mobiliários representativos de dívida por razões de equidade, tendo em conta que estas acabam por recair sobre os pequenos investidores que não têm acesso ao mercado grossista. Por outro lado, verificando-se uma tendência decrescente das comissões cobradas pela realização de operações em mercado regulamentado, procede-se à diminuição do valor das taxas de operações fora de mercado regulamentado, mantendo o contributo dessas taxas para a criação de condições que assegurem a neutralidade da negociação no mercado regulamentado ou fora dele.
+
+Assim, ao abrigo do disposto no artigo 211.º do Código dos Valores Mobiliários e das alíneas b) e c) do n.º 1 e do n.º 2 do artigo 26.º do Estatuto da Comissão do Mercado de Valores Mobiliários, aprovado pelo [Decreto-Lei n.º 473/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/473-1999-682985), de 8 de Novembro, e sob proposta da CMVM:
+
+Manda o Governo, pelo Ministro das Finanças, o seguinte:
+
+###### Artigo 1.º — Alterações
+
+São alterados os artigos 3.º e 4.º da Portaria n.º 313-A/2000 (2.ª série), de 29 de Fevereiro, nos termos seguintes:
+
+"Artigo 3.º
+
+[...]
+
+1 - [...]
+
+a) Títulos de participação ou unidades de participação em fundos de investimento, de 0,1%;
+
+b) Direitos destacados e warrants, de 1%;
+
+c) Acções e outros valores mobiliários não referidos nas alíneas anteriores e que não sejam obrigações do Tesouro ou outros valores representativos de dívida, de 1%.
+
+2 - Exceptuam-se do disposto no número anterior, estando sujeitas a taxas equivalentes às comissões de realização de operações cobradas pela entidade gestora do mercado regulamentado onde os valores estiverem admitidos, as seguintes operações realizadas fora desse mercado:
+
+a) Transmissão de valores mobiliários em operações de fusão e cisão de sociedades, entrada em espécie de valores mobiliários na constituição de sociedade ou aumento decapital e atribuição de valores mobiliários a sócio em liquidação de sociedade;
+
+b) Aquisição ou alienação potestativas de acções nos termos dos artigos 194.º e 196.º do Código dos Valores Mobiliários;
+
+c) Transacções efectuadas durante a suspensão da negociação, salvo quando a situação que origina a suspensão seja de algum modo imputável a quem efectuou a transacção.
+
+3 - Nos casos previstos na alínea b) do número anterior, a quantia global correspondente às taxas referidas no presente artigo que incidam sobre o alienante e o adquirente é exclusivamente devida:
+
+a) Pela sociedade que desencadear o procedimento tendente à aquisição potestativa, sendo responsável pelo seu pontual pagamento o intermediário financeiro junto do qual tenha sido depositada a contrapartida devida que, para o efeito, deve ser acrescida do depósito do montante da taxa; ou
+
+b) Pelo titular das acções remanescentes da sociedade visada, que tome a decisão de alienação potestativa, sendo responsável pelo seu pontual pagamento o intermediário financeiro onde se encontrem registadas ou depositadas as acções a alienar, o qual não é obrigado a proceder à transferência sem que o montante da taxa se encontre junto dele depositada.
+
+4 - Nas operações realizadas em mercado não regulamentado é devida pela entidade gestora do mercado uma taxa sobre o valor de cada operação de compra e sobre cada operação de venda:
+
+a) Igual à consagrada no n.º 1 deduzida do montante da menor das taxas de realização de operações nos mercados regulamentados em que os valores mobiliários estejam admitidos à negociação;
+
+b) Igual à consagrada no artigo 1.º, caso os valores mobiliários não estejam admitidos em mercado regulamentado.
+
+###### Artigo 4.º — [...]
+
+1 - As taxas previstas nos artigos 1.º e 2.º e no n.º 4 do artigo 3.º são liquidadas e pagas pela entidade gestora do mercado à CMVM até ao dia 10 do mês seguinte a que respeitam.
+
+2 - Os intermediários financeiros do adquirente e do alienante procedem à liquidação das taxas sobre operações realizadas fora de mercado previstas nos n.º 1 e 2 do artigo 3.º, respectivamente no momento do crédito e do débito em conta dos valores mobiliários, e ao pagamento mensal das mesmas até ao dia 10 do mês seguinte a que respeitam, enviando na mesma data à CMVM documento identificando por cada categoria de valor mobiliário:
+
+a) [...]
+
+b) [...]
+
+3 - [...]
+
+4 - [...]
+
+5 - [...]
+
+6 - [...]"
+
+###### Artigo 2.º — Aditamento
+
+É aditado à portaria n.º 313-A/2000 (2.ª série), de 29 de Fevereiro, o artigo 5.º-A, com a seguinte redacção:
+
+"Artigo 5.º-A.º
+
+Fundos de investimento
+
+1 - É devida à CMVM pelas entidades gestoras de fundos de investimento uma taxa que incide sobre o valor líquido global, correspondente ao último dia útil do mês de cada um dos fundos por elas geridos:
+
+a) De 0,0l7%, nos fundos de investimento mobiliário;
+
+b) De 0,033%, nos fundos de investimento imobiliário.
+
+2 - A entidade gestora procede ao pagamento mensal das taxas referidas no n.º 1 até ao dia 10 do mês seguinte ao que respeitam."
+
+###### Artigo 3.º — Entrada em vigor
+
+1 - A presente portaria entra imediatamente em vigor.
+
+2 - As alterações introduzidas ao n.º 2 do artigo 3.º da portaria n.º 313-A/2000 (2.ª série), de 29 de Fevereiro, aplicam-se às operações de transmissão de valores mobiliários efectuadas desde a entrada em vigor dessa portaria, entendendo-se referidas a todas as situações previstas na primitiva redacção do n.º 1 do mesmo artigo.
+
+3 - Nos casos em que a taxa prevista na portaria n.º 313-A/2000 (2.ª série), de 29 de Fevereiro, já tenha sido liquidada, a obtenção do benefício decorrente da aplicação do número anterior pressupõe a apresentação junto da CMVM, por quem tenha efectuado a liquidação, de requerimento fundamentado, acompanhado da prova do facto jurídico de onde emerge a relação de taxa.
+
+4 - O artigo 5.º-A da portaria n.º 313-A/2000 (2.ª série), de 29 de Fevereiro, aditado pelo artigo 2.º da presente portaria, entra em vigor no dia 1 de Janeiro de 2001.
+
+21 de Agosto de 2000. - Pelo Ministro das Finanças, António do Pranto Nogueira Leite.

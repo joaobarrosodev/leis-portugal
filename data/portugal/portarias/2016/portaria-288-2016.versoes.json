@@ -1,0 +1,255 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:75715702:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-114327868",
+ "dre_path": "/dr/detalhe/portaria/288-2016-75715702",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-11-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114328139",
+    "114328140",
+    "114328141",
+    "114328142",
+    "114328143",
+    "114328144",
+    "114328145",
+    "114328146",
+    "114328147",
+    "114328148",
+    "114328149",
+    "114328150",
+    "114328151"
+   ]
+  },
+  {
+   "date": "2017-12-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114337020:por",
+     "title": "Portaria n.º 370/2017",
+     "published": "2017-12-12",
+     "dre_path": "/dr/detalhe/portaria/370-2017-114337020"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 8.º-A",
+    "Adita Artigo 11.º-A",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "114328139",
+    "114328140",
+    "114328141",
+    "114328142",
+    "114328143",
+    "114328168",
+    "114328145",
+    "114328146",
+    "114328169",
+    "114328159",
+    "114328160",
+    "114328161",
+    "114328170",
+    "114328165",
+    "114328166",
+    "114328167"
+   ]
+  }
+ ],
+ "fragments": {
+  "114328139": {
+   "fragment_id": "114327869",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 288/2016\n\nde 11 de novembro\n\nCom a publicação da Lei n.º 62/2013, de 26 de agosto, que aprovou a Lei da Organização do Sistema Judiciário (LOSJ), fixaram-se as disposições enquadradoras da reforma do sistema judiciário.\n\nNo âmbito da gestão dos tribunais de primeira instância, o exercício de funções de administrador judiciário, a par dos restantes órgãos de gestão - presidente do tribunal e magistrado do Ministério Público coordenador -, implica a aprovação em curso de formação específico, nos termos disposto no artigo 107.º da LOSJ.\n\nO curso de formação específico é realizado pelo Centro de Estudos Judiciários (CEJ) e conta com a colaboração de outras entidades formadoras, nos termos definidos por portaria do membro do Governo responsável pela área da justiça, que aprova o regulamento do respetivo curso.\n\nEm cada comarca existe um administrador judiciário, o qual, ainda que no exercício de competências próprias, atua sob a orientação genérica do juiz presidente do tribunal, sendo nomeado em comissão de serviço, pelo período de três anos, pelo juiz presidente do tribunal, ouvido o magistrado do Ministério Público coordenador, escolhido de entre cinco candidatos, previamente selecionados pelo Ministério da Justiça.\n\nO administrador judiciário tem competências administrativas e de gestão, de onde se destaca a direção dos serviços da secretaria da comarca. Está isento de horário de trabalho e goza do estatuto remuneratório de diretor de serviços, sendo-lhe subsidiariamente aplicável o disposto na Lei n.º 2/2004, de 15 de janeiro, que aprova o estatuto do pessoal dirigente dos serviços e organismos da administração central, local e regional do Estado, com exceção do artigo 26.º\n\nNo âmbito do despacho da Ministra da Justiça, de 1 de julho de 2013, o CEJ realizou o primeiro curso de formação específico, adequado ao desenvolvimento de qualidades e aquisição de competências técnicas para o exercício de funções de juiz presidente do tribunal de comarca, de magistrado do Ministério Público coordenador e, também, de administrador judiciário, tendo em vista a implementação da nova organização judiciária, em vigor desde 1 de setembro de 2014.\n\nUltrapassada a fase de implementação, impõe-se, nos termos do disposto no artigo 14.º do Decreto-Lei n.º 49/2014, de 27 de março (regime aplicável à organização e funcionamento dos tribunais judiciais - ROFTJ), regulamentar o âmbito e os procedimentos tendentes ao recrutamento para a frequência do curso de formação específico para administrador judiciário.\n\nA base de recrutamento para frequência do curso de formação específico manteve-se circunscrita ao grupo de pessoal oficial de justiça, não obstante os requisitos agora exigidos no âmbito da formação académica de nível superior terem sido reajustados, por forma a aproximá-los da realidade que disciplina o exercício de funções em cargos de direção intermédia de primeiro grau, relativamente aos quais se mostram genericamente equiparados, por via do artigo 23.º do ROFTJ.\n\nAssim:\n\nAo abrigo do disposto no artigo 104.º da Lei n.º 62/2013, de 26 de agosto, e no artigo 14.º do Decreto-Lei n.º 49/2014, de 27 de março, manda o Governo, pela Ministra da Justiça, o seguinte:"
+  },
+  "114328140": {
+   "fragment_id": "114327870",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria define o âmbito de recrutamento para frequência do curso de formação específico referido no artigo 107.º da Lei n.º 62/2013, de 26 de agosto, doravante designado Curso, bem como as regras procedimentais, a forma de graduação e a identificação das formações académicas de nível superior adequadas à frequência do Curso a que se refere o artigo 104.º da mesma lei."
+  },
+  "114328141": {
+   "fragment_id": "114327871",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de recrutamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de recrutamento\n\n1 - Podem candidatar-se à frequência do Curso os oficiais de justiça:\n\na) Detentores da categoria de secretário de justiça, com última classificação de serviço na categoria de Muito Bom; ou\n\nb) Que reúnam, cumulativamente, os seguintes requisitos:\n\ni) Quinze anos de serviço efetivo nas carreiras de oficial de justiça;\n\nii) Última classificação de serviço de Muito Bom;\n\niii) Formação académica de nível superior numa das seguintes áreas: Administração Pública, Contabilidade, Direito, Economia, Finanças, Gestão ou Matemática.\n\n2 - Os requisitos referidos no número anterior devem verificar-se aquando do termo do prazo para a apresentação das candidaturas."
+  },
+  "114328142": {
+   "fragment_id": "114327872",
+   "type": 11,
+   "heading": "Artigo 3.º — Vagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Vagas\n\nO número de vagas é fixado por despacho do membro do Governo responsável pela área da Justiça."
+  },
+  "114328143": {
+   "fragment_id": "114327873",
+   "type": 11,
+   "heading": "Artigo 4.º — Abertura do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Abertura do procedimento\n\n1 - O procedimento de seleção para a admissão à frequência do Curso é aberto por despacho do diretor-geral da Administração da Justiça e publicado através de aviso no Diário da República.\n\n2 - O aviso referido no número anterior é, ainda, divulgado na página eletrónica da Direção-Geral da Administração da Justiça (DGAJ)."
+  },
+  "114328144": {
+   "fragment_id": "114327874",
+   "type": 11,
+   "heading": "Artigo 5.º — Métodos de seleção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Métodos de seleção\n\nOs métodos de seleção para admissão à frequência do Curso consistem na avaliação curricular e na entrevista de avaliação de competências."
+  },
+  "114328145": {
+   "fragment_id": "114340375",
+   "type": 11,
+   "heading": "Artigo 6.º — Avaliação curricular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Avaliação curricular\n\nA avaliação curricular visa analisar a qualificação dos candidatos, designadamente a habilitação académica ou profissional, percurso profissional, relevância da experiência adquirida, bem como a consistência e relevância da sua experiência profissional para o exercício do cargo de administrador judiciário."
+  },
+  "114328146": {
+   "fragment_id": "114340376",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrevista de avaliação de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrevista de avaliação de competências\n\n1 - A entrevista de avaliação de competências visa obter, através de uma relação interpessoal, informações sobre comportamentos profissionais diretamente relacionados com as competências e conhecimentos adequados para o desempenho do cargo de administrador judiciário, considerados essenciais para o exercício da função.\n\n2 - O método deve permitir uma análise estruturada da experiência, qualificações e motivações profissionais, através de descrições comportamentais ocorridas em situações reais e vivenciadas pelo candidato.\n\n3 - A aplicação deste método baseia-se num guião de entrevista composto por um conjunto de questões diretamente relacionadas com o perfil de competências previamente definido para o exercício do cargo.\n\n4 - O guião referido no número anterior deve estar associado a uma grelha de avaliação individual que traduza a presença ou a ausência dos comportamentos em análise.\n\n5 - O local, data e hora da realização da entrevista de avaliação de competências são publicitados na página eletrónica da DGAJ e afixados em local visível e público nas instalações da DGAJ."
+  },
+  "114328147": {
+   "fragment_id": "114340377",
+   "type": 11,
+   "heading": "Artigo 8.º — Valoração dos métodos de seleção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Valoração dos métodos de seleção\n\n1 - A avaliação curricular é expressa numa escala de 0 a 20 valores, com valoração até às centésimas, sendo a classificação obtida através da média aritmética das classificações dos elementos a avaliar, cuja ponderação para a graduação final não pode ser superior 40 %.\n\n2 - A entrevista de avaliação de competências é avaliada segundo os níveis classificativos de Elevado, Bom, Suficiente, Reduzido e Insuficiente, aos quais correspondem, respetivamente, as classificações de 20, 16, 12, 8 e 4 valores, cuja ponderação para a graduação final não pode ser inferior a 60 %.\n\n3 - Em caso de igualdade de resultado, constituem fatores de desempate, sucessivamente:\n\na) Categoria superior na carreira;\n\nb) Antiguidade na categoria;\n\nc) Antiguidade na carreira."
+  },
+  "114328148": {
+   "fragment_id": "114340378",
+   "type": 11,
+   "heading": "Artigo 9.º — Júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Júri\n\n1 - O procedimento concursal para admissão ao cargo de administrador judiciário implica a designação e constituição de um júri.\n\n2 - O júri é designado por despacho do diretor-geral da Administração da Justiça, sendo composto por um magistrado, que preside, e por dois vogais.\n\n3 - No mesmo ato é designado o membro do júri que substitui o presidente nas suas faltas e impedimentos, bem como os suplentes dos vogais efetivos.\n\n4 - Sempre que as circunstâncias o exijam, são designados júris suplementares nos termos dos números anteriores."
+  },
+  "114328149": {
+   "fragment_id": "114340379",
+   "type": 11,
+   "heading": "Artigo 10.º — Incompatibilidades, impedimentos e inibições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Incompatibilidades, impedimentos e inibições\n\nÉ aplicável ao exercício do cargo de administrador judiciário o regime de incompatibilidades, impedimentos e inibições previsto nas disposições reguladoras de conflitos de interesses resultantes do exercício de funções públicas."
+  },
+  "114328150": {
+   "fragment_id": "114340380",
+   "type": 11,
+   "heading": "Artigo 11.º — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Disposição final\n\n1 - A desistência injustificada durante a frequência do Curso determina o dever de indemnizar o Estado em montante correspondente às despesas inerentes ao respetivo curso de formação, não podendo o formando submeter-se ao procedimento concursal subsequente para a frequência do mesmo curso.\n\n2 - O candidato aprovado no Curso está habilitado a ser nomeado em comissão de serviço no cargo de administrador judiciário para qualquer uma das comarcas."
+  },
+  "114328151": {
+   "fragment_id": "114340381",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "114328168": {
+   "fragment_id": "114327874",
+   "type": 11,
+   "heading": "Artigo 5.º — Métodos de seleção",
+   "in_force_from": "2017-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 370/2017 - Diário da República n.º 237/2017, Série I de 2017-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/370-2017-114337020), em vigor a partir de 2017-12-13"
+   ],
+   "markdown": "###### Artigo 5.º — Métodos de seleção\n\n1 - Os métodos de seleção para admissão à frequência do Curso são a avaliação curricular e a entrevista de avaliação de competências.\n\n2 - Quando estejam em causa razões de celeridade, designadamente quando o recrutamento seja urgente ou tenham sido admitidos candidatos em número igual ou superior a 75, o diretor-geral da Administração da Justiça pode fasear a utilização dos métodos de seleção, da seguinte forma:\n\na) Aplicação, num primeiro momento, à totalidade dos candidatos, apenas da avaliação curricular;\n\nb) Aplicação da entrevista de avaliação de competências apenas a parte dos candidatos aprovados na avaliação curricular, a convocar por tranches sucessivas, por ordem decrescente de classificação e até à satisfação das necessidades;\n\nc) Dispensa de aplicação da entrevista de avaliação de competências aos restantes candidatos, que se consideram excluídos, sem prejuízo do disposto na alínea d), quando os candidatos aprovados nos termos das alíneas anteriores satisfaçam as necessidades que deram origem à publicitação do procedimento concursal de seleção;\n\nd) Quando os candidatos aprovados nos termos das alíneas anteriores, constantes da lista unitária de ordenação final, homologada, não satisfaçam as necessidades que deram origem à publicitação do procedimento concursal de seleção, o júri do procedimento é de novo chamado às suas funções e, com observância do disposto na alínea b), procede à aplicação da entrevista de avaliação de competências a outra tranche de candidatos;\n\ne) Os candidatos referidos na alínea anterior são notificados, de preferência, por correio eletrónico, com recibo de entrega da notificação, dirigido ao endereço de correio eletrónico mencionado na candidatura;\n\nf) Após a aplicação da entrevista de avaliação de competências a nova tranche de candidatos, nos termos da alínea d), é elaborada nova lista unitária de ordenação final que será sujeita a homologação.\n\n3 - A opção pela utilização faseada dos métodos de seleção pode ter lugar até ao início de tal utilização e, quando ocorra depois de publicitado o procedimento, é publicitada, com a respetiva fundamentação, através de aviso publicado na 2.ª série do Diário da República, também divulgado na página eletrónica da DGAJ.\n\n4 - A publicitação dos resultados obtidos em cada método de seleção é efetuada através de lista, ordenada alfabeticamente, disponibilizada na página eletrónica da DGAJ.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 370/2017 - Diário da República n.º 237/2017, Série I de 2017-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/370-2017-114337020), em vigor a partir de 2017-12-13"
+  },
+  "114328169": {
+   "fragment_id": "114340377",
+   "type": 11,
+   "heading": "Artigo 8.º — Valoração dos métodos de seleção",
+   "in_force_from": "2017-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 370/2017 - Diário da República n.º 237/2017, Série I de 2017-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/370-2017-114337020), em vigor a partir de 2017-12-13"
+   ],
+   "markdown": "###### Artigo 8.º — Valoração dos métodos de seleção\n\n1 - A avaliação curricular é expressa numa escala de 0 a 20 valores, com valoração até às centésimas, sendo a classificação obtida através da média aritmética das classificações dos elementos a avaliar.\n\n2 - Em caso de igualdade de resultado, constituem fatores de desempate, sucessivamente:\n\na) Categoria superior;\n\nb) Antiguidade na carreira;\n\nc) Antiguidade na categoria;\n\nd) Maior idade.\n\n3 - A entrevista de avaliação de competências é avaliada segundo os níveis classificativos de Elevado, Bom, Suficiente, Reduzido e Insuficiente, aos quais correspondem, respetivamente, as classificações de 20, 16, 12, 8 e 4 valores.\n\n4 - Cada um dos métodos de seleção é eliminatório.\n\n5 - É excluído o candidato que tenha obtido classificação inferior a 9,5 valores num dos métodos, não lhe sendo aplicável o método seguinte.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 370/2017 - Diário da República n.º 237/2017, Série I de 2017-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/370-2017-114337020), em vigor a partir de 2017-12-13"
+  },
+  "114328159": {
+   "fragment_id": "114340391",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Ordenação final",
+   "in_force_from": "2017-12-13",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 370/2017 - Diário da República n.º 237/2017, Série I de 2017-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/370-2017-114337020), em vigor a partir de 2017-12-13"
+   ],
+   "markdown": "###### Artigo 8.º-A — Ordenação final\n\n1 - A ordenação final dos candidatos que completem o procedimento, com aprovação nos métodos de seleção aplicados, é efetuada de acordo com a escala classificativa de 0 a 20 valores, em resultado da média aritmética das classificações quantitativas obtidas em cada método de seleção.\n\n2 - A lista unitária de ordenação final a que se refere o número anterior é submetida a homologação do diretor-geral da Administração da Justiça, após audiência de interessados nos termos da lei, e disponibilizada na página eletrónica da DGAJ.\n\n3 - Em caso de igualdade na classificação final obtida entre candidatos, considera-se, para efeitos de desempate, sucessivamente e por ordem decrescente, a valoração obtida na entrevista de avaliação de competências e na avaliação curricular.\n\n4 - Ficam habilitados para a frequência do Curso os candidatos aprovados, por ordem de graduação, até ao preenchimento total das vagas.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 370/2017 - Diário da República n.º 237/2017, Série I de 2017-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/370-2017-114337020), em vigor a partir de 2017-12-13"
+  },
+  "114328160": {
+   "fragment_id": "114340378",
+   "type": 11,
+   "heading": "Artigo 9.º — Júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Júri\n\n1 - O procedimento concursal para admissão ao cargo de administrador judiciário implica a designação e constituição de um júri.\n\n2 - O júri é designado por despacho do diretor-geral da Administração da Justiça, sendo composto por um magistrado, que preside, e por dois vogais.\n\n3 - No mesmo ato é designado o membro do júri que substitui o presidente nas suas faltas e impedimentos, bem como os suplentes dos vogais efetivos.\n\n4 - Sempre que as circunstâncias o exijam, são designados júris suplementares nos termos dos números anteriores."
+  },
+  "114328161": {
+   "fragment_id": "114340379",
+   "type": 11,
+   "heading": "Artigo 10.º — Incompatibilidades, impedimentos e inibições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Incompatibilidades, impedimentos e inibições\n\nÉ aplicável ao exercício do cargo de administrador judiciário o regime de incompatibilidades, impedimentos e inibições previsto nas disposições reguladoras de conflitos de interesses resultantes do exercício de funções públicas."
+  },
+  "114328170": {
+   "fragment_id": "114340380",
+   "type": 11,
+   "heading": "Artigo 11.º — Disposição final",
+   "in_force_from": "2017-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 370/2017 - Diário da República n.º 237/2017, Série I de 2017-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/370-2017-114337020), em vigor a partir de 2017-12-13"
+   ],
+   "markdown": "###### Artigo 11.º — Disposição final\n\n1 - A desistência injustificada durante a frequência do Curso determina o dever de indemnizar o Estado em montante correspondente às despesas inerentes ao respetivo curso de formação, não podendo o formando submeter-se ao procedimento concursal subsequente para a frequência do mesmo curso.\n\n2 - O candidato aprovado no Curso está habilitado a ser nomeado em comissão de serviço no cargo de administrador judiciário para qualquer uma das comarcas durante o prazo de três anos a contar da data da aprovação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 370/2017 - Diário da República n.º 237/2017, Série I de 2017-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/370-2017-114337020), em vigor a partir de 2017-12-13"
+  },
+  "114328165": {
+   "fragment_id": "114340392",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Direito subsidiário",
+   "in_force_from": "2017-12-13",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 370/2017 - Diário da República n.º 237/2017, Série I de 2017-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/370-2017-114337020), em vigor a partir de 2017-12-13"
+   ],
+   "markdown": "###### Artigo 11.º-A — Direito subsidiário\n\nÉ subsidiariamente aplicável o regime geral de recrutamento e seleção de pessoal da Administração Pública.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 370/2017 - Diário da República n.º 237/2017, Série I de 2017-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/370-2017-114337020), em vigor a partir de 2017-12-13"
+  },
+  "114328166": {
+   "fragment_id": "114340381",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "114328167": {
+   "fragment_id": "114340382",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra da Justiça, Francisca Eugénia da Silva Dias Van Dunem, em 3 de novembro de 2016."
+  }
+ }
+}

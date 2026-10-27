@@ -1,0 +1,195 @@
+---
+schema_version: '1.0'
+id: pt:dre:278718:por
+title: Decreto-Lei n.º 418/77
+short_title: null
+summary: Introduz alterações aos Estatutos do Fundo de Garantia de Riscos Cambiais
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 418/77
+official_date: null
+publication_date: '1977-10-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 229/1977, Série I de 1977-10-03
+  number: '229'
+  series: I
+  supplement: null
+  pages: 2427 - 2428
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/10/22900/24272428.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '278718'
+  dre_path: /dr/detalhe/decreto-lei/418-1977-278718
+  internal: pt:dre:278718:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1977-278718
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1977-278718
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:06:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: dcd929fe11387e98e6ff35754f3df0749751bf17c57e93b2a92404f399acc589
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:06:50Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Banco de Portugal
+- Crédito Externo
+- Fundo de Garantia de Riscos Cambiais
+- TAXA de Câmbio
+relationships:
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:310378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659717:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:06:50Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 418/77
+
+de 3 de Outubro
+
+O Fundo de Garantia de Riscos Cambiais, criado pelo [Decreto-Lei n.º 75-D/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-d-1977-509014), de 28 de Fevereiro, tem por objecto, nos termos do seu artigo 4.º, suportar riscos resultantes da fixação da taxa de câmbio nas operações de crédito externo que revistam relevante interesse nacional. Mas, além destas, importa prever a possibilidade de o Fundo garantir, sob adequadas condições, os riscos de câmbio referentes a importâncias que não puderem ser transferidas a favor de residentes no estrangeiro, por efeito do previsto nos artigos 13.º, 14.º e 17.º do [Decreto-Lei n.º 348/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1977-659717), de 24 de Agosto.
+
+Por outro lado, reconhecendo-se conveniente acelerar o processo de decisão relativamente às operações de excepcional relevância para o desenvolvimento económico do País, nomeadamente nos casos de importação de bens de equipamento e de empréstimos aplicados em investimentos, faz-se depender apenas da decisão do próprio Fundo a garantia de que este procederá a fixações sucessivas de câmbio durante o prazo de vigência da operação de crédito externo.
+
+Reconhece-se, entretanto, a conveniência de esclarecer alguns aspectos da cobertura pelo Fundo dos riscos cambiais dos referidos créditos e adaptar algumas disposições do [Decreto-Lei n.º 75-D/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-d-1977-509014) aos problemas e exigências especiais desses créditos.
+
+Nestas circunstâncias:
+
+O Governo, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, decreta o seguinte:
+
+Artigo 1.º O artigo 1.º dos Estatutos do Fundo de Garantia de Riscos Cambiais, aprovados pelo [Decreto-Lei n.º 75-D/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-d-1977-509014), de 28 de Fevereiro, passa a ter a seguinte redacção:
+
+O Fundo de Garantia de Riscos Cambiais, adiante designado abreviadamente por Fundo, é uma pessoa colectiva de direito público, dotada de personalidade jurídica e de autonomia financeira, e funciona junto do Banco de Portugal.
+
+Art. 2.º O n.º 2 do artigo 4.º dos Estatutos do Fundo de Garantia de Riscos Cambiais passa a constituir o n.º 4 do mesmo artigo e acrescentam-se dois novos n.os 2 e 3, com a seguinte redacção:
+
+2. Os créditos à exportação a médio e longo prazos concedidos pelos exportadores nacionais aos seus clientes estrangeiros deverão obrigatoriamente ser objecto de contrato de fixação de câmbio com o Fundo, na parte em que forem financiados por instituições de crédito actuando em território nacional.
+
+3. O Fundo poderá garantir contra riscos de câmbio importâncias devidas a residentes no estrangeiro que não puderem ser transferidas por efeito do previsto nos artigos 13.º, 14.º e 17.º do [Decreto-Lei n.º 348/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1977-659717), de 24 de Agosto.
+
+Art. 3.º Os artigos 5.º, 6.º, 15.º e 16.º dos Estatutos do Fundo de Garantia de Riscos Cambiais passam a ter a seguinte redacção:
+
+Art. 5.º - 1. No exercício das funções referidas no n.º 1 do artigo anterior, o Fundo apreciará propostas de fixação de câmbio que lhe sejam apresentadas por instituições de crédito ou por entidades interessadas nas operações referidas no mesmo artigo, dando preferência às que se relacionem com operações de importação de capitais destinados ao financiamento de investimentos de reconhecido interesse nacional e com operações de financiamento das exportações efectuadas nos termos do [Decreto-Lei n.º 289/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1976-502205), de 22 de Abril, e dos diplomas que o modifiquem ou regulamentem.
+
+2. O câmbio fixado constará de contrato a celebrar, por prazo limitado, com o respectivo beneficiário, no qual serão inscritas as condições de prestação de tal garantia.
+
+3. O câmbio contratualmente fixado será o da data da aprovação das condições do respectivo contrato pelo Fundo.
+
+Art. 6.º - 1 - Em cada movimento relacionado com operações aprovadas nos termos do artigo anterior, a instituição de crédito que realizar a correspondente operação cambial notificará o Fundo da diferença que se verificar entre o câmbio de venda, no caso de operações de importação de capitais ou a elas assimiladas, ou o câmbio de compra, no caso de operações de exportação de capitais ou assimiladas, no dia da utilização, e o câmbio fixado no contrato a que se refere o n.º 2 do artigo anterior.
+
+2 - Nos contratos relativos a operações de importação de capitais ou a elas assimiladas, se a diferença a que alude o número anterior for, em valor absoluto, superior a 3% do câmbio fixado no contrato, o Fundo pagará ou receberá do beneficiário, consoante se trate de uma diferença positiva ou negativa, uma importância igual ao valor absoluto de tal diferença, diminuído de 3%.
+
+3 - Tratando-se de operações de excepcional interesse nacional, o Fundo, mediante autorização do Ministro das Finanças, poderá cobrir, até ao seu valor integral, o respectivo risco cambial.
+
+4 - Nos contratos de fixação de câmbios relativos a operações de crédito à exportação, as diferenças a pagar pelo Fundo ou a receber por este serão determinadas de acordo com os seguintes critérios:
+
+a) O crédito em moeda estrangeira considera-se concedido, nos termos da legislação sobre crédito à exportação em vigor, pelo exportador nacional ou por uma instituição de crédito nacional ao importador estrangeiro ou à entidade estrangeira que o financie;
+
+b) Nas datas do recebimento das prestações do crédito a que se refere a alínea anterior, apura-se o valor das mesmas na moeda em que o crédito foi concedido, considerando os juros à taxa contratada com o devedor estrangeiro e as amortizações dele efectivamente recebidas;
+
+c) Calcula-se o contravalor em escudos de cada uma das prestações referidas na alínea anterior à taxa de compra na data do respectivo recebimento;
+
+d) Calculam-se os valores em escudos que teriam sido recebidos em cada uma das datas referidas na alínea b) se:
+
+1. As amortizações pagas pelo devedor estrangeiro fossem as mesmas que são consideradas nessa alínea;
+
+2. O câmbio fosse sempre o que é fixado no contrato entre o Fundo e o beneficiário;
+
+3. A taxa de juro fosse a que o beneficiário tem de pagar pelo crédito em escudos que lhe tenha sido concedido, nos termos da legislação em vigor, para financiar o crédito referido na alínea a);
+
+e) Nas datas referidas na alínea b), o Fundo pagará ao beneficiário do contrato de fixação do risco de câmbio uma importância igual à diferença entre os valores determinados respectivamente nos termos das alíneas d) e c), se essa diferença for positiva, ou receberá dele uma importância igual à mesma diferença, se ela for negativa;
+
+f) Nos casos em que o beneficiário do contrato com o Fundo haja utilizado recursos próprios para financiar total ou parcialmente o crédito ao devedor estrangeiro referido na alínea a), considera-se, para efeito do cálculo referido na alínea d), que esses recursos são remunerados pela taxa de juro relativa ao crédito em escudos que, nos termos da legislação sobre crédito à exportação em vigor, poderia ter sido obtido em sua substituição.
+
+Art. 15.º - 1 - Salvo no caso de operações de crédito à exportação a médio ou longo prazo, o Fundo só poderá fixar câmbios por períodos não superiores a um ano a partir da data da fixação.
+
+2 - Findos os períodos referidos no número anterior, o Fundo poderá proceder sucessivamente a novas fixações de câmbio, cada uma delas por período não superior a um ano.
+
+3 - Tratando-se de operações de excepcional relevância para o desenvolvimento económico do País, o Fundo poderá garantir que procederá a fixações sucessivas de câmbio, nos termos do número anterior, por períodos renováveis, até à data limite prevista para a operação de crédito externo.
+
+4 - Para fundamentar a decisão anterior, o Fundo poderá recorrer aos pareceres que julgar indispensáveis.
+
+5 - Se, findo o período de fixação de câmbio, o débito ou o crédito do beneficiário em moeda estrangeira não estiver extinto e não houver fixação de câmbio nos termos do n.º 2, o Fundo reembolsará o beneficiário dos resultados negativos ou cobrará dele os resultados positivos efectivamente verificados em consequência das variações cambiais durante o período da fixação.
+
+6 - Ao efectuar uma nova fixação de câmbio nos termos do n.º 2, o Fundo contabilizará na mesma data os resultados negativos ou positivos que se tiverem verificado, durante o período de fixação de câmbio anterior, em consequência de variações cambiais.
+
+7 - No caso de operações de crédito à exportação a médio ou longo prazo, a fixação de câmbio pelo Fundo abrangerá obrigatoriamente todo o período de duração da operação a partir da data do contrato entre o beneficiário e o Fundo.
+
+Art. 16.º - 1 - Os prémios de garantia de risco cambial e as comissões ou sobretaxas a praticar nas suas operações serão estabelecidos pelo Banco de Portugal, de harmonia com a alínea b) do artigo 28.º da sua Lei Orgânica, aprovada pelo [Decreto-Lei n.º 644/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/644-1975-310378), de 15 de Novembro, e que dele faz parte integrante.
+
+2 - O Banco de Portugal, ouvido o Instituto do Investimento Estrangeiro, fixará as condições da prestação pelo Fundo das garantias contra riscos de câmbio a que alude o n.º 3 do artigo 4.º, tendo em consideração não só os princípios gerais estabelecidos nos Estatutos do Fundo, mas também as disposições que regularem a constituição e movimentação das contas abertas em consequência da aplicação das disposições do [Decreto-Lei n.º 348/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1977-659717), de 24 de Agosto.
+
+Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
+
+Promulgado em 14 de Setembro de 1977.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

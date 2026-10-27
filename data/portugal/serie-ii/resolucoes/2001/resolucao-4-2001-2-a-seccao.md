@@ -1,0 +1,183 @@
+---
+schema_version: '1.0'
+id: pt:dre:2809988:por
+title: Resolução n.º 4/2001-2.ª Secção
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Tribunal de Contas - Gabinete do Conselheiro Presidente
+proposing_entity: null
+official_number: 4/2001-2.ª Secção
+official_date: null
+publication_date: '2001-08-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 191/2001, Série II de 2001-08-18
+  number: '191'
+  series: II
+  supplement: null
+  pages: 13957 - 13961
+  pdf_url: https://files.diariodarepublica.pt/2s/2001/08/191000000/1395713961.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2809988'
+  dre_path: /dr/detalhe/resolucao/4-2001-2809988
+  internal: pt:dre:2809988:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/4-2001-2809988
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/4-2001-2809988
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:10:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 156ad592e38faeb9286dbe2e9bd7c35ca4deb9a0605e44f7f4b4638b1f9608ae
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:10:50Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Local
+- Autarquia Local
+- Contabilidade Pública
+- Pocal
+relationships:
+- type: amended_by
+  target: pt:dre:1273704:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:1273704:por
+  label: "Dada nova redação à secção II das instruções nº 01/2001 - 2.ª S, aprovadas pela RES.26/2013.21.11.2013.TC, DR.IIS\
+    \ [226] de 21.11.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/26-2013-1273704
+  date: '2013-11-21'
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:10:50Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 4/2001-2.ª Secção
+
+Resolução n.º 4/2001 - 2.ª Secção. - Instruções n.º 1/2001 - 2.ª Secção - instruções para a organização e documentação das contas das autarquias locais e entidades equiparadas abrangidas pelo Plano Oficial de Contabilidade das Autarquias Locais (POCAL). - O Tribunal de Contas, em sessão de 12 de Julho de 2001, nos termos do disposto na alínea b) do artigo 6.º e da alínea e) do n.º 1 do artigo 78.º da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de Agosto, deliberou que as contas das autarquias locais e entidades equiparadas sujeitas ao POCAL deverão ser organizadas e documentadas de acordo com as presentes instruções:
+
+I
+
+Documentos de prestação de contas
+
+1 - Os documentos de prestação de contas são os que se encontram definidos no POCAL nessa qualidade, outros igualmente ali constantes, bem como um terceiro conjunto não previsto naquele, todos discriminados no anexo I das presentes instruções.
+
+2 - Consideram-se integradas no grupo 1 do anexo I as autarquias locais e entidades equiparadas cujo movimento anual da receita seja igual ou superior a 5000 vezes o índice 100 da escala indiciária das carreiras do regime geral da função pública, arredondado de acordo com as normas legais.
+
+3 - Consideram-se integradas no grupo 2 aquelas cujo movimento anual da receita seja inferior ao limite estabelecido no número anterior.
+
+II
+
+Documentação a remeter ao Tribunal de Contas
+
+1 - As autarquias locais e entidades equiparadas integradas no grupo 1 do anexo I apenas deverão enviar ao Tribunal de Contas os documentos n.os 1, 2, 6, 7, 9, 10, 11, 12, 17, 26, 28, 29, 30, 31, 33 e 37.
+
+2 - As integradas no grupo 2 e que não tenham sido dispensadas da remessa de contas deverão enviar ao Tribunal de Contas os documentos n.os 6, 7, 9, 10, 11, 12, 26, 28, 29, 30, 31, 33 e 37.
+
+3 - As autarquias locais e entidades equiparadas que, nos termos do n.º 3 do artigo 51.º da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de Agosto, estejam dispensadas da remessa de contas devem organizá-las e documentá-las nos termos do POCAL e enviar ao Tribunal de Contas os documentos que este defina como obrigatórios.
+
+III
+
+Notas técnicas
+
+Para os documentos constantes do anexo I e abaixo discriminados, devem ter-se em linha de conta as seguintes notas técnicas:
+
+Documento n.º 12. - Para além da informação exigida pelo POCAL deve acrescer ainda indicação sobre:
+
+a) Montante dos Fundos Geral e de Coesão Municipal e Fundo de Financiamento de Freguesias, atribuídos respectivamente ao município e à freguesia no ano a que se reporta a gerência em apreciação;
+
+b) Montante dos pagamentos relativos a investimentos realizados pelo município no ano anterior ao da gerência em apreciação;
+
+c) Indicação das acções inspectivas levadas a efeito por órgãos de controlo interno (IGF e IGAT), com incidência na gerência e nos três anos anteriores;
+
+d) Indicação da quota parte das amortizações e encargos financeiros resultantes de empréstimos contraídos pelas associações de municípios em que a entidade participe e ou empresas públicas municipais.
+
+Documento n.º 30. - Deve ser enviada a acta completa, com indicação das presenças, do sentido de voto e declarações de voto, quando as houver, devendo constar de forma expressa que os documentos de prestação de contas elencados no anexo I se encontram integralmente elaborados (nos casos negativos deve constar a justificação para tal), foram presentes à correspondente reunião e encontram-se devidamente arquivados, estando disponíveis para consulta quando para tal forem solicitados.
+
+Documento n.º 33. - Este documento, que constitui o anexo IV das presentes instruções, destina-se a sintetizar as reconciliações bancárias das diversas contas de que a entidade for titular, devendo ser enviado em singelo, sem prejuízo, porém, da existência em arquivo daqueles documentos, devidamente suportados com as certidões ou extractos bancários, listagem de cheques em trânsito e de outros movimentos justificativos das divergências eventualmente existentes entre os saldos bancários e os saldos contabilísticos.
+
+Documento n.º 34. - Este documento, que constitui o anexo V, destina-se a possibilitar o conhecimento integral das despesas efectuadas pelos diversos titulares de fundos de maneio, podendo ser substituído por qualquer outro que faculte o mesmo tipo de informação, designadamente conta-corrente de entidades.
+
+Documento n.º 35. - À relação de emolumentos notariais e de custas das execuções fiscais, que constitui o anexo VI, deve ser anexada cópia do despacho do presidente do órgão executivo através do qual foi designado o funcionário que serve de notário privativo do município para lavrar os actos notariais expressamente previstos pelo Código do Notariado.
+
+Documento n.º 36. - À relação de acumulação de funções, que constitui o anexo VII, no caso de existência de funcionários que acumulem funções, quer públicas quer privadas, com as que desempenham na entidade, deve ser anexada cópia do correspondente requerimento e despacho sobre o mesmo exarado.
+
+Documento n.º 37. - A relação nominal de responsáveis, que constitui o anexo VIII, deverá ter em atenção:
+
+a) Na coluna destinada à situação na entidade, será feita referência ao cargo ou função correspondente a cada um dos responsáveis (presidente da câmara, vereador em regime de tempo inteiro, vereador em regime de meio tempo, vereador, no caso dos municípios, presidente da junta, tesoureiro, secretário, no caso das freguesias, etc.);
+
+b) A remuneração a indicar neste anexo corresponderá ao vencimento líquido anual (ou relativo ao período em que exerceram funções) auferido pelos responsáveis;
+
+c) As moradas indicadas para cada um dos responsáveis devem ser completas, incluindo o respectivo código postal.
+
+IV
+
+Disposições finais
+
+1 - Todos os documentos a enviar ao Tribunal de Contas deverão ser originais ou fotocópias autenticadas, com origem em modelos produzidos tipográfica ou informaticamente. Em qualquer dos casos, os indicados documentos não devem ser assinados ou rubricados no seu canto superior direito. O seu envio deverá ser efectuado através de guia de remessa, de acordo com o anexo II, emitida em duplicado, na qual serão assinalados os documentos enviados, de acordo com a correspondente situação financeira da entidade.
+
+2 - O envio poderá também ser efectuado através de disquette de 3,5D ou de CD-ROM não regravável (CD-R), sendo este gravado em formato compatível com a norma ISO 9660 ou Joliet, convenientemente identificados (designação da entidade e respectiva gerência) e acompanhados de guia de remessa, de acordo com o anexo III, emitida em duplicado, na qual serão assinalados os documentos enviados, de acordo com a correspondente situação financeira da entidade.
+
+V
+
+Entrada em vigor
+
+As presentes instruções aplicam-se obrigatoriamente a todas as autarquias locais e entidades equiparadas abrangidas pelo POCAL, a partir da data da entrada em vigor deste.
+
+VI
+
+Publicação
+
+Publique-se na 2.ª série do Diário da República, nos termos da alínea d) do n.º 2 do artigo 9.º da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de Agosto.
+
+12 de Julho de 2001. - O Conselheiro Presidente, Alfredo José de Sousa.
+
+Do Anexo I ao Anexo VIII
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2001/08/191000000/1395713961.pdf)

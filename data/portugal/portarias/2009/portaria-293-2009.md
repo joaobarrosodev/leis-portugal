@@ -1,0 +1,334 @@
+---
+schema_version: '1.0'
+id: pt:dre:605507:por
+title: Portaria n.º 293/2009
+short_title: null
+summary: Aprova o Regulamento de Gestão do Fundo de Reabilitação e Conservação Patrimonial
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 293/2009
+official_date: null
+publication_date: '2009-03-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 58/2009, Série I de 2009-03-24
+  number: '58'
+  series: I
+  supplement: null
+  pages: 1847 - 1850
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/03/05800/0184701850.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-12-23'
+version_history:
+  file: portaria-293-2009.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2009-03-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-12-23'
+    amending: pt:dre:835638817:por
+    amending_title: Decreto-Lei n.º 120-A/2023
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/293/2009/p/cons/20231222/pt/html
+  oj: null
+  dre: '605507'
+  dre_path: /dr/detalhe/portaria/293-2009-605507
+  internal: pt:dre:605507:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/293-2009-605507
+  metadata_url: https://data.dre.pt/eli/port/293/2009/p/cons/20231222/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-835767840
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-835767840
+  retrieved_at: '2026-10-22T13:01:41Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 4d592a71bc250a9c9f55aa14a40a436b9601dce5ac670b42a67d42e037a3db3a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:01:41Z'
+  notes: 2 versão(ões); histórico completo em portaria-293-2009.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Fundo de Reabilitação e Conservação Patrimonial
+- Regulamento de Gestão
+relationships:
+- type: amended_by
+  target: pt:dre:835638817:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-a-2023-835638817
+  date: '2023-12-22'
+- type: cites
+  target: pt:dre:438714:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/162/2008/10/24/p/dre
+- type: cites
+  target: pt:dre:602748:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/24/2009/01/21/p/dre
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/280/2007/08/07/p/dre
+article_structure:
+  article_count: 17
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:01:41Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 293/2009
+
+Portaria n.º 293/2009
+
+de 24 de Março
+
+O Programa de Gestão do Património Imobiliário do Estado, previsto no artigo 113.º do Decreto-Lei n.º 280/2007, de 7 de Agosto, e aprovado pela Resolução do Conselho de Ministros n.º 162/2008, de 24 de Outubro, preconizou a constituição de um fundo, no âmbito do Ministério das Finanças e da Administração Pública, com a natureza de património autónomo sem personalidade jurídica, tendo por objecto o financiamento de operações de reabilitação e de conservação dos imóveis do Estado.
+
+Assim, através do Decreto-Lei n.º 24/2009, de 21 de Janeiro, foi criado o Fundo de Reabilitação e Conservação Patrimonial, com um capital inicial de 10 milhões de euros e cujo objecto consiste no financiamento de operações de recuperação, reconstrução, reabilitação e conservação dos imóveis da propriedade do Estado. Aquele diploma determina que o regulamento de gestão do Fundo deve definir as condições relativas às mencionadas operações e ao respectivo financiamento, sendo aprovado por portaria do membro responsável pela área das finanças. Nesta conformidade, importa dar cumprimento ao estabelecido no Decreto-Lei n.º 24/2009, de 21 de Janeiro, permitindo, desta forma, que o Fundo inicie a sua actividade e que sejam executadas operações concretas necessárias à valorização e à preservação do património imobiliário do Estado.
+
+Assim:
+
+Em cumprimento do disposto nos artigos 2.º e 9.º do Decreto-Lei n.º 24/2009, de 21 de Janeiro, e ao abrigo do disposto nas alíneas c) e g) do artigo 199.º da Constituição, manda o Governo, pelo Secretário de Estado do Tesouro e Finanças, o seguinte:
+
+###### Artigo 1.º
+
+É aprovado o Regulamento de Gestão do Fundo de Reabilitação e Conservação Patrimonial, anexo à presente portaria e da qual faz parte integrante.
+
+###### Artigo 2.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+O Secretário de Estado do Tesouro e Finanças, Carlos Manuel Costa Pina, em 2 de Março de 2009.
+
+## Anexo — REGULAMENTO DE GESTÃO DO FUNDO DE REABILITAÇÃO E CONSERVAÇÃO PATRIMONIAL
+
+###### Artigo 2.º — Comissão directiva
+
+1 - Compete à comissão directiva assegurar a gestão do Fundo, devendo, para o efeito, designadamente:
+
+a) Assegurar as relações do Fundo com o Conselho de Coordenação de Gestão Patrimonial e com as unidades de gestão patrimonial previstos no n.º 7 do anexo da Resolução do Conselho de Ministros n.º 162/2008, de 24 de Outubro, com os serviços utilizadores dos imóveis e com a ESTAMO - Participações Imobiliárias, S. A;
+
+b) Estabelecer, em nome do Fundo, as relações institucionais que se mostrem necessárias à prossecução dos seus objectivos;
+
+c) Elaborar anualmente até 31 de Março, com referência ao ano anterior, o relatório de gestão e contas do Fundo, incidindo, designadamente, sobre:
+
+i) Operações de financiamento aprovadas;
+
+ii) Operações em curso;
+
+iii) Aplicações do Fundo;
+
+iv) Aquisição e alienação de activos;
+
+v) Balanço;
+
+vi) Demonstração de resultados;
+
+vii) Demonstração dos fluxos de caixa;
+
+d) Apreciar, hierarquizar e aprovar as candidaturas apresentadas relativas às operações de recuperação, reconstrução, reabilitação e conservação dos imóveis do Estado;
+
+e) Proceder à aprovação da programação financeira do Fundo.
+
+2 - O relatório de gestão e contas, previsto na alínea c) do número anterior, é aprovado pelo membro do Governo responsável pela área das finanças, após parecer da Inspecção-Geral de Finanças.
+
+3 - O Fundo funciona junto da ESTAMO - Participações Imobiliárias, S. A., a qual assegura o apoio técnico, logístico e administrativo à comissão directiva.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 120-A/2023 - Diário da República n.º 246/2023, 1º Suplemento, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-a-2023-835638817), em vigor a partir de 2023-12-23
+
+###### Artigo 1.º — Objecto
+
+1 - O presente Regulamento aprova as regras que regulam a gestão do Fundo de Reabilitação e Conservação Patrimonial, adiante designado por Fundo.
+
+2 - O Fundo tem por objecto e finalidade o financiamento, a fundo perdido, de operações de recuperação, reconstrução, reabilitação e conservação dos imóveis da propriedade do Estado.
+
+###### Artigo 3.º — Gestão financeira do Fundo
+
+1 - Compete à ESTAMO - Participações Imobiliárias, S. A. proceder à gestão de tesouraria e de outros eventuais activos financeiros do Fundo, centralizando as receitas, processando as despesas e aplicando as disponibilidades respectivas, maximizando a sua capitalização, de acordo com a programação financeira aprovada pela comissão directiva.
+
+2 - A aplicação das disponibilidades do Fundo é efectuada pela ESTAMO - Participações Imobiliárias, S. A., através de uma conta aberta especificamente para o efeito junto do Instituto de Gestão da Tesouraria do Crédito Público.
+
+3 - A ESTAMO - Participações Imobiliárias, S. A. elabora, até 31 de Janeiro de cada ano, as demonstrações financeiras do Fundo, as quais são remetidas à comissão directiva tendo em vista a sua integração no relatório de gestão e contas a que se refere a alínea c) do n.º 1 do artigo anterior.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 120-A/2023 - Diário da República n.º 246/2023, 1º Suplemento, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-a-2023-835638817), em vigor a partir de 2023-12-23
+
+###### Artigo 4.º — Beneficiários e âmbito
+
+1 - Podem ser beneficiários do Fundo os serviços utilizadores dos imóveis da propriedade do Estado que apresentem a respectiva candidatura nos termos previstos no presente Regulamento, na sequência dos planos de conservação e reabilitação dos imóveis que lhe estão afectos, elaborados em cumprimento do disposto no n.º 5.1 do anexo da Resolução do Conselho de Ministros n.º 162/2008, de 24 de Outubro, que aprovou o Programa de Gestão do Património Imobiliário do Estado.
+
+2 - O financiamento do Fundo não abrange:
+
+a) Os imóveis classificados da propriedade do Estado não afectos ao funcionamento de serviços públicos;
+
+b) Os imóveis da propriedade do Estado utilizados pelas entidades a favor das quais reverta integralmente o produto da alienação e oneração do património do Estado;
+
+c) As obras de conservação ou beneficiação que sirvam apenas para a modernização das respectivas instalações;
+
+d) As obras em imóveis disponíveis para alienação;
+
+e) As operações de intervenção cujo orçamento global estimado seja inferior a (euro) 100 000, salvo obras urgentes ou prioritárias face à gravidade extrema das deficiências de solidez, segurança e salubridade do imóvel ou à sua especial localização.
+
+3 - As comparticipações financeiras atribuídas ao abrigo do presente Regulamento não são cumuláveis com quaisquer outras de que o imóvel venha a ser objecto, no âmbito de programa ou instrumento financeiro de âmbito comunitário.
+
+###### Artigo 5.º — Candidaturas
+
+1 - As candidaturas ao Fundo são apresentadas à comissão directiva, pelas unidades de gestão patrimonial previstas no n.º 7.1 do anexo da Resolução do Conselho de Ministros n.º 162/2008, de 24 de Outubro.
+
+2 - As candidaturas referidas no número anterior são instruídas com um estudo prévio composto pelos seguintes elementos:
+
+a) Memória descritiva, contendo, designadamente:
+
+i) Identificação e descrição do imóvel, bem como elementos registrais e matriciais existentes;
+
+ii) Área objecto das operações de intervenção;
+
+iii) Âmbito, conteúdo e calendarização das operações de intervenção;
+
+iv) Localização do edifício, com identificação da rua e do número de polícia;
+
+v) Levantamento fotográfico das áreas de intervenção;
+
+vi) Fotografias do exterior do edifício;
+
+b) Custo estimado da intervenção com discriminação das operações;
+
+c) Indicação do montante da comparticipação financeira a que se candidata.
+
+###### Artigo 6.º — Admissão das candidaturas
+
+1 - Apenas são admitidas as candidaturas que:
+
+a) Tenham por objecto operações de intervenção abrangidas pelo financiamento do Fundo nos termos do artigo 4.º;
+
+b) Tenham sido devidamente instruídas nos termos do artigo anterior.
+
+2 - No prazo de 10 dias a contar da data da apresentação das candidaturas, a comissão directiva procede à notificação das unidades de gestão patrimonial cujas candidaturas não tenham sido admitidas com base nos fundamentos previstos no número anterior.
+
+###### Artigo 7.º — Critérios de apreciação das candidaturas
+
+1 - A comissão directiva procede à apreciação e hierarquização das candidaturas admitidas, tendo em conta os seguintes critérios:
+
+a) A tipologia das operações de intervenção constantes do projecto apresentado; e
+
+b) O montante total do financiamento submetido a candidatura e a respectiva calendarização.
+
+2 - Para os efeitos previstos na alínea a) do número anterior, a apreciação das candidaturas tem em conta o carácter estrutural das operações de intervenção, sendo conferida prioridade às:
+
+a) Obras urgentes ou prioritárias face à gravidade extrema das deficiências de solidez, segurança e salubridade do imóvel ou à sua especial localização;
+
+b) Intervenções de conservação e reabilitação, nomeadamente ao nível da cobertura, dos vãos, das canalizações, das instalações eléctricas ou electromecânicas, bem como as destinadas a promover a eficiência energética dos imóveis.
+
+###### Artigo 8.º — Prazo para apreciação das candidaturas
+
+1 - As candidaturas são apreciadas pela comissão directiva no prazo de 60 dias a contar da data da respectiva apresentação.
+
+2 - A comissão directiva pode solicitar a junção dos elementos que entenda necessários para a apreciação da candidatura, caso em que se suspende o prazo previsto no número anterior.
+
+###### Artigo 9.º — Aprovação das candidaturas
+
+1 - A comissão directiva notifica a unidade de gestão patrimonial cuja candidatura foi aprovada, indicando o montante máximo da comparticipação financeira que é atribuída pelo Fundo para a realização da operação de intervenção, a qual não pode exceder 80 % do custo estimado da operação.
+
+2 - Nas situações previstas na alínea a) do n.º 2 do artigo 7.º, pode a comissão executiva proceder à atribuição de uma comparticipação financeira de percentagem superior à indicada no número anterior.
+
+3 - A atribuição da comparticipação financeira prevista nos números anteriores está dependente da celebração do respectivo contrato de financiamento a que se refere o artigo 10.º
+
+4 - As candidaturas que não sejam aprovadas por insuficiência de fundos são objecto de nova apreciação logo que esteja assegurada a necessária cobertura financeira para o efeito e desde que não tenham decorrido mais de seis meses sobre a data da sua apresentação.
+
+5 - A comissão directiva deve informar as unidades de gestão patrimonial da situação prevista no número anterior.
+
+6 - O disposto no n.º 4 não prejudica a apresentação de nova candidatura nos termos do presente Regulamento.
+
+###### Artigo 10.º — Contrato de financiamento
+
+1 - As condições de atribuição e suspensão do financiamento pelo Fundo, bem como os demais direitos e deveres das partes, constituem o objecto do contrato de financiamento.
+
+2 - O contrato de financiamento é celebrado entre a comissão directiva e o serviço utilizador do imóvel, cuja candidatura foi aprovada.
+
+3 - Para efeito de celebração do contrato de financiamento, devem ser apresentados, no prazo de 20 dias úteis a contar da data da notificação da respectiva aprovação, os seguintes documentos:
+
+a) Projecto de execução;
+
+b) Declaração de compromisso que ateste que as candidaturas apresentadas não são objecto de apoio através de outro programa ou instrumento financeiro de âmbito comunitário;
+
+c) Comprovativo de que o serviço beneficiário dispõe de dotação orçamental para assegurar a parcela que não é objecto de comparticipação por parte do Fundo.
+
+4 - O contrato de financiamento deve ser celebrado no prazo de 10 dias úteis a contar da data da apresentação do projecto de execução e dos demais elementos referidos no número anterior, sob pena de caducidade do acto de aprovação das candidaturas.
+
+###### Artigo 11.º — Acompanhamento e fiscalização
+
+1 - Cabe às unidades de gestão patrimonial efectuar o acompanhamento do contrato de financiamento, competindo-lhes, designadamente:
+
+a) Aferir do cumprimento do projecto de execução da obra;
+
+b) Informar a comissão directiva do Fundo do cumprimento das várias fases do projecto, tendo em vista o desembolso da comparticipação financeira;
+
+c) Realizar a vistoria final para verificação de conformidade da obra com as condições estabelecidas no projecto de execução e no contrato.
+
+2 - Todas as operações materiais de fiscalização e acompanhamento da obra são reduzidas a auto.
+
+###### Artigo 12.º — Desembolso dos montantes
+
+1 - O Fundo fica vinculado a financiar os projectos que são aprovados pela comissão directiva nos termos dos números seguintes e dos respectivos contratos de financiamento.
+
+2 - O contrato de financiamento pode estipular que, no momento da sua celebração, seja efectuado um desembolso até 25 % do valor da comparticipação financeira aprovada.
+
+3 - A disponibilização do montante correspondente ao remanescente do financiamento a conceder pelo Fundo é efectuada de forma fraccionada, à medida que se encontrem executadas as várias fases do projecto apresentado, após confirmação pela unidade de gestão patrimonial, nos termos do artigo anterior.
+
+4 - A última parcela da comparticipação fica condicionada à confirmação da conclusão das operações de intervenção e à prévia fiscalização das mesmas pelas unidades de gestão patrimonial competentes.
+
+###### Artigo 13.º — Incumprimento e resolução do contrato
+
+1 - O não cumprimento das obrigações fixadas no contrato de financiamento celebrado nos termos do artigo 10.º confere à comissão directiva o direito de suspender os pagamentos acordados.
+
+2 - Caso a entidade beneficiária venha a dar cumprimento às obrigações em falta, a comissão directiva pode retomar os pagamentos acordados.
+
+3 - O disposto nos números anteriores não prejudica o direito de a comissão directiva resolver o contrato, nos termos gerais de direito.
+
+4 - A resolução do contrato prevista no número anterior implica a restituição das comparticipações financeiras entregues, a efectuar no prazo de 60 dias a contar da data da notificação.
+
+###### Artigo 14.º — Deveres de informação
+
+A comissão directiva pode levar ao conhecimento das unidades de gestão patrimonial e de outras entidades necessárias à prossecução dos seus objectivos, através do meio que considere mais conveniente, quaisquer informações complementares directamente relacionadas com o financiamento do Fundo, cuja divulgação considere necessária à protecção dos seus interesses.
+
+###### Artigo 15.º — Extinção do Fundo
+
+Em caso de extinção do Fundo, o destino dos meios financeiros a este afectos, apurados após a respectiva liquidação, é determinado por despacho do membro do Governo responsável pela área das finanças.

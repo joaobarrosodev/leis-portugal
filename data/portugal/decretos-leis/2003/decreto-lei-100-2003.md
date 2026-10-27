@@ -1,0 +1,348 @@
+---
+schema_version: '1.0'
+id: pt:dre:540838:por
+title: Decreto-Lei n.º 100/2003
+short_title: null
+summary: Aprova o Regulamento das Condições Técnicas e de Segurança a Observar na Concepção, Instalação e Manutenção das Balizas
+  de Futebol, de Andebol, de Hóquei e de Pólo Aquático e dos Equipamentos de Basquetebol Existentes nas Instalações Desportivas
+  de Uso Público
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 100/2003
+official_date: null
+publication_date: '2003-05-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 119/2003, Série I-A de 2003-05-23
+  number: '119'
+  series: I
+  supplement: null
+  pages: 3215 - 3218
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/05/119a00/32153218.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-07-28'
+version_history:
+  file: decreto-lei-100-2003.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2003-05-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-04-15'
+    amending: pt:dre:155732595:por
+    amending_title: Decreto-Lei n.º 9/2021; Decreto-Lei n.º 82/2004
+    changes:
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 11.º
+  - date: '2021-07-28'
+    amending: pt:dre:155732595:por
+    amending_title: Decreto-Lei n.º 9/2021
+    changes:
+    - Altera Artigo 14.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/100/2003/p/cons/20210129/pt/html
+  oj: null
+  dre: '540838'
+  dre_path: /dr/detalhe/decreto-lei/100-2003-540838
+  internal: pt:dre:540838:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2003-540838
+  metadata_url: https://data.dre.pt/eli/dec-lei/100/2003/p/cons/20210129/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-156296250
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-156296250
+  retrieved_at: '2026-10-22T12:38:31Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 345a9dd8697ca61353e333e36ab07d3598e62f43fad347d80e7b4fcd0c3a21ab
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:38:31Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-100-2003.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Contrato de Seguro
+- Equipamento Desportivo
+- Multa
+- Contra-ordenação
+- Definição de Competências
+- Artigo Desportivo
+- Especificação Técnica
+- Fiscalização
+- Inspecção Geral das Actividades Económicas
+- Normas de Segurança
+- Regulamento
+- Responsabilidade Civil
+- Comércio
+relationships:
+- type: amended_by
+  target: pt:dre:220753:por
+  label: Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2004-220753
+  date: '2004-04-14'
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
+- type: cites
+  target: celex:31998L0034
+  label: null
+  source: http://data.europa.eu/eli/dir/1998/34/oj
+article_structure:
+  article_count: 14
+  section_count: 2
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:38:31Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 100/2003
+
+Decreto-Lei n.º 100/2003
+
+de 23 de Maio
+
+O Decreto-Lei n.º 317/97, de 25 de Novembro, que cria o regime de instalação e funcionamento das instalações desportivas de uso público, prevê, no artigo 7.º, a regulamentação das condições técnicas das instalações desportivas.
+
+Tal processo regulamentador foi já parcialmente iniciado com a aprovação do Decreto Regulamentar n.º 10/2001, de 7 de Junho, que aprovou as condições técnicas e de segurança dos estádios, pelo que se impõe o estabelecimento de um normativo que determine as condições técnicas e de segurança para todo o multivariado universo tipológico em que se agrupam as instalações desportivas no nosso país. De entre este universo, afigura-se urgente a adopção de um acto regulamentador no âmbito da instalação, manutenção e conservação das balizas, fundamentado na gravidade dos acidentes que, de modo reiterado, têm vitimado crianças e jovens no nosso país.
+
+O regime que agora se consagra estabelece uma obrigação geral de segurança que deve ser respeitada, quer no momento da colocação dos equipamentos desportivos no mercado quer durante o período da sua utilização.
+
+É definida a noção de entidade responsável pelos equipamentos desportivos, e são estabelecidas regras de utilização, manutenção e conservação para os mesmos.
+
+São ainda estabelecidas obrigações de informação, através da aposição de menções várias nas embalagens e nos próprios equipamentos, bem como através da obrigação de existência de um manual de instruções e da disponibilização de algumas informações úteis, nos espaços onde se encontram instalados os equipamentos desportivos.
+
+Determina-se a obrigatoriedade de celebração de um seguro de responsabilidade civil por danos causados em consequência da deficiente instalação ou manutenção dos equipamentos desportivos, e é criado um regime sancionatório, de natureza contra-ordenacional, para os casos de incumprimento das obrigações de informação estatuídas no Regulamento agora aprovado.
+
+O presente diploma, por conter regras técnicas, foi sujeito ao procedimento previsto na Directiva n.º <a href="eurlex.asp?ano=1998&id=398L0034" title="Link para Directiva da Comunidade Europeia">1998/34/CE</a>, do Parlamento Europeu e do Conselho, de 22 de Junho.
+
+Foram ouvidas a Associação Nacional dos Municípios Portugueses, as associações representativas dos utentes e as federações desportivas directamente relacionadas com o âmbito de aplicação do presente diploma.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Âmbito
+
+É aprovado o Regulamento das Condições Técnicas e de Segurança a Observar na Concepção, Instalação e Manutenção das Balizas de Futebol, de Andebol, de Hóquei e de Pólo Aquático e dos Equipamentos de Basquetebol Existentes nas Instalações Desportivas de Uso Público, que é publicado em anexo ao presente diploma e que dele faz parte integrante.
+
+###### Artigo 2.º — Documentos normativos aplicáveis
+
+A lista dos documentos normativos aplicáveis à concepção, instalação e manutenção das balizas de futebol, de andebol, de hóquei e de pólo aquático e dos equipamentos de basquetebol a que o Regulamento se refere é publicada em anexo ao mesmo e dele faz parte integrante.
+
+###### Artigo 3.º — Equipamentos em condições equivalentes
+
+É igualmente permitida a comercialização e utilização dos equipamentos desportivos mencionados no artigo 1.º que cumpram as especificações e os procedimentos que assegurem uma qualidade e segurança equivalente ao estatuído no presente diploma desde que acompanhados de certificados emitidos por organismos de certificação acreditados de acordo com as normas da série NP EN 45000 e ou NP EN ISO/IEC 17000 ou por organismos de certificação reconhecidos segundo critérios equivalentes.
+
+###### Artigo 4.º — Verificação das condições de segurança
+
+1 - Todos os equipamentos desportivos já colocados ao serviço dos utilizadores devem ser objecto, por parte da entidade responsável pelos equipamentos desportivos, de verificação de estabilidade e solidez, num prazo máximo de 90 dias a contar da data da publicação do despacho conjunto a que se refere o n.º 2, de acordo com as modalidades de ensaio definidas nos documentos normativos constantes da lista anexa ao Regulamento.
+
+2 - O cumprimento do disposto no número anterior será assegurado por organismos reconhecidos como tecnicamente competentes para inspeccionar os equipamentos, de acordo com a lista dos documentos normativos anexa ao Regulamento, que serão designados por despacho conjunto do membro do Governo responsável pela área dos desportos e do Ministro da Economia.
+
+###### Artigo 5.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - José Luís Fazenda Arnaut Duarte - Carlos Manuel Tavares da Silva - José David Gomes Justino - Pedro Lynce de Faria - Isaltino Afonso de Morais.
+
+Promulgado em 7 de Maio de 2003.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 9 de Maio de 2003.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.
+
+ANEXO
+
+REGULAMENTO DAS CONDIÇÕES TÉCNICAS E DE SEGURANÇA A OBSERVAR NA CONCEPÇÃO, INSTALAÇÃO E MANUTENÇÃO DAS BALIZAS DE FUTEBOL, DE ANDEBOL, DE HÓQUEI E DE PÓLO AQUÁTICO E DOS EQUIPAMENTOS DE BASQUETEBOL EXISTENTES NAS INSTALAÇÕES DESPORTIVAS DE USO PÚBLICO.
+
+Artigo 1.º
+
+Objecto
+
+As disposições do presente Regulamento aplicam-se às balizas de futebol, de andebol, de hóquei e de pólo aquático e aos equipamentos de basquetebol existentes nas instalações desportivas de uso público, adiante designados, para os efeitos deste Regulamento, por equipamentos desportivos.
+
+Artigo 2.º
+
+Obrigação geral de segurança
+
+Os equipamentos desportivos não podem ser susceptíveis de pôr em perigo a saúde e segurança do utilizador ou de terceiros, devendo, quando colocados no mercado e durante todo o período da sua utilização normal e previsível, obedecer aos requisitos de segurança do presente Regulamento.
+
+Artigo 3.º
+
+Entidade responsável
+
+1 - Considera-se entidade responsável pelos equipamentos desportivos qualquer pessoa singular titular de cargo de administração, direcção ou gerência, conforme o caso, e pessoa colectiva de direito privado, bem como os dirigentes dos serviços ou organismos da administração pública central, regional ou local, directa ou indirecta, que assegure o regular funcionamento do espaço onde esses equipamentos se encontram instalados, bem como a respectiva instalação e manutenção.
+
+2 - Aqueles a quem seja cedida a utilização, por período de tempo limitado, remunerada ou gratuitamente, dos espaços referidos no número anterior consideram-se, nos mesmos termos, entidade responsável, designadamente para os efeitos de obrigatoriedade de contratação de seguro de responsabilidade civil decorrente de má utilização dos equipamentos desportivos.
+
+Artigo 4.º
+
+Utilização dos equipamentos desportivos
+
+1 - Os equipamentos desportivos devem ser mantidos, durante todo o tempo de utilização, em condições que excluam a possibilidade de queda, quando utilizado nas condições razoavelmente previsíveis, designadamente assegurando a estabilidade do equipamento no caso de suspensão e balanço na barra superior da baliza de futebol, andebol, hóquei e pólo aquático ou no aro do cesto de basquetebol.
+
+2 - Os equipamentos desportivos devem poder resistir designadamente à suspensão e balanço sem sofrer deformação ou ruptura permanente.
+
+3 - Os equipamentos desportivos que não se encontrem nas condições referidas nos números anteriores não devem estar acessíveis a utilização.
+
+4 - Compete à entidade responsável pelos equipamentos desportivos assegurar o cumprimento do disposto nos números anteriores.
+
+Artigo 5.º
+
+Requisitos de segurança
+
+Além dos requisitos estabelecidos nos documentos normativos aplicáveis, os equipamentos desportivos não devem ter:
+
+a) Arestas vivas, rebarbas ou superfícies rugosas, capazes de provocar ferimento;
+
+b) Lascas, pregos, parafusos ou qualquer outro material cortante ou pontiagudo, susceptíveis de causar acidente;
+
+c) Fixações ao solo salientes e cabos de fixação que possam constituir obstáculo pouco visível e susceptível de causar acidente.
+
+###### Artigo 6.º — Conformidade com os requisitos de segurança
+
+1 - A conformidade com os requisitos de segurança deve ser atestada pelo fabricante ou seu mandatário ou pelo importador estabelecido na União Europeia, mediante a aposição sobre os equipamentos e respectiva embalagem, de forma visível, legível e indelével, da menção «Conforme com os requisitos de segurança».
+
+2 - O fabricante ou seu mandatário ou o importador de equipamentos desportivos estabelecido na União Europeia deve apor, ainda, de forma visível, legível e indelével, sobre o equipamento os avisos necessários à utilização do equipamento desportivo em causa.
+
+3 - O fabricante ou seu mandatário ou o importador estabelecido na União Europeia deve apor, igualmente de forma visível, legível e indelével, sobre o equipamento e respectiva embalagem, o seu nome, a denominação social ou marca, o endereço, a identificação do modelo e o ano de fabrico.
+
+4 - A menção a que se refere o n.º 1 apenas pode ser aposta sobre os equipamentos desportivos cuja concepção e cujo fabrico satisfaçam uma das seguintes condições:
+
+a) Obedeçam ao disposto nos documentos normativos que constam do anexo ao presente Regulamento;
+
+b) Estejam conformes com modelo que possua certificado de conformidade com os requisitos de segurança, emitido com base em exame tipo efectuado por organismos acreditados, constante de lista dos organismos de certificação acreditados de acordo com as normas da série NP EN 45000 e ou NP EN ISO/IEC 17000, a publicar por portaria do Ministro da Economia, ou por organismos de certificação reconhecidos segundo critérios equivalentes.
+
+5 - O responsável pela primeira colocação dos equipamentos desportivos no mercado deve manter disponível, para os efeitos de verificação, um dossier técnico do equipamento, do qual conste:
+
+a) No caso de se verificar a condição a que se refere a alínea a) do n.º 4, uma descrição detalhada do equipamento desportivo e dos meios pelos quais o fabricante garante a conformidade do fabrico com as normas aí mencionadas, bem como o endereço dos locais de fabrico e armazenagem;
+
+b) No caso de se verificar a condição a que se refere a alínea b) do n.º 4, uma descrição detalhada do equipamento desportivo, o certificado de conformidade com os requisitos essenciais de segurança ou uma cópia autenticada do mesmo, uma descrição dos meios pelos quais o fabricante garante a conformidade do fabrico com o modelo examinado e o endereço dos locais de fabrico e armazenagem.
+
+###### Artigo 7.º — Manual de instruções
+
+1 - Todos os equipamentos desportivos devem ser acompanhados de um manual de instruções, redigido em língua portuguesa, que contenha indicações adequadas, claramente descritas e ilustradas, respeitando os requisitos previstos nos documentos normativos aplicáveis.
+
+2 - O manual de instruções deverá indicar, nomeadamente, as condições de instalação do respectivo equipamento desportivo, bem como os avisos inerentes à sua utilização.
+
+###### Artigo 8.º — Manutenção dos espaços e equipamentos desportivos
+
+1 - A entidade responsável referida no artigo 3.º deve assegurar uma manutenção regular e periódica de todos os equipamentos desportivos, de modo que sejam permanentemente observadas as condições de segurança previstas no presente diploma.
+
+2 - Para que seja assegurada uma manutenção regular e periódica de todos os equipamentos desportivos, deverá a entidade responsável pelos referidos equipamentos efectuar verificações de rotina.
+
+3 - Nos casos em que os equipamentos desportivos apresentem deteriorações susceptíveis de pôr em risco a segurança dos utentes, a entidade responsável pelos mesmos deve diligenciar a sua reparação imediata ou, se esta não for viável, a retirada dos equipamentos.
+
+###### Artigo 9.º — Livro de manutenção
+
+1 - A entidade responsável pelos equipamentos desportivos deve possuir um livro de manutenção que contenha os seguintes elementos:
+
+a) Listagem completa e detalhada dos equipamentos desportivos e seus fornecedores;
+
+b) Registo das reparações e das principais acções de manutenção efectuadas;
+
+c) Registo das reclamações e dos acidentes.
+
+2 - O livro de manutenção é obrigatória e imediatamente facultado a quem o solicite.
+
+###### Artigo 10.º — Informações úteis
+
+Em todos os espaços onde se encontrem instalados equipamentos desportivos, deve existir informação visível e facilmente legível com as seguintes indicações:
+
+a) Identificação e número de telefone da entidade responsável pelos equipamentos desportivos;
+
+b) Indicação do telefone mais próximo;
+
+c) Número nacional de socorro.
+
+###### Artigo 11.º — Seguro de responsabilidade civil
+
+1 - A entidade responsável pelos equipamentos desportivos deve celebrar um contrato de seguro de responsabilidade civil que abranja o ressarcimento de danos causados aos utilizadores, designadamente em virtude de deficientes condições de instalação e manutenção dos referidos equipamentos.
+
+2 - As condições do contrato de seguro referido no número anterior e o valor mínimo do respectivo capital são fixados em portaria conjunta do Ministro das Finanças e do membro do Governo responsável pela área dos desportos.
+
+3 - Sem prejuízo do disposto no artigo 3.º do presente diploma, nos casos em que os equipamentos desportivos se encontrem instalados em estabelecimentos de educação e ensino, aplica-se o disposto no regulamento do seguro escolar.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2004 - Diário da República n.º 88/2004, Série I-A de 2004-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2004-220753), em vigor a partir de 2004-04-15
+
+###### Artigo 12.º — Fiscalização e sanções
+
+Sem prejuízo do disposto no artigo 13.º, as entidades competentes para a fiscalização do disposto no presente diploma assim como o respetivo regime sancionatório são os definidos nos artigos 22.º e 23.º do Decreto-Lei n.º 141/2009, de 16 de junho, na sua redação atual.
+
+> Alterado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2004-04-15
+
+###### Artigo 13.º — Falta de menções obrigatórias e de manual de instruções
+
+1 - A colocação no mercado de equipamentos desportivos em violação ao disposto nos n.os 1, 2, 3 e 5 do artigo 6.º e no artigo 7.º constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).
+
+2 - A fiscalização do cumprimento do disposto nas regras mencionadas no número anterior e a instrução dos respetivos processos por contraordenação competem à Autoridade de Segurança Alimentar e Económica (ASAE).
+
+3 - A aplicação das coimas previstas no n.º 1 compete ao inspetor-geral da ASAE.
+
+4 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no n.º 1 é repartido nos termos do RJCE.
+
+> Alterado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2004-04-15
+
+###### Artigo 14.º — Sanções acessórias
+
+Às contraordenações económicas previstas no presente decreto-lei é aplicável o disposto no artigo 26.º do Decreto-Lei n.º 141/2009, de 16 de junho, na sua redação atual e no RJCE.
+
+> Alterado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+## Anexo
+
+Lista dos documentos normativos a que se refere o artigo 2.º do decreto-lei que aprova o presente Regulamento
+
+NP EN 748 - equipamentos para jogos de campo - balizas de futebol - requisitos funcionais e de segurança e métodos de ensaio.
+
+NP EN 749 - equipamentos para jogos de campo - balizas de andebol - requisitos funcionais e de segurança e métodos de ensaio.
+
+NP EN 750 - equipamentos para jogos de campo - balizas de hóquei - requisitos funcionais e de segurança e métodos de ensaio.
+
+NP EN 1270 - equipamentos para jogos de campo - equipamento de basquetebol - requisitos funcionais e de segurança e métodos de ensaio.
+
+NP EN 13451-7 - equipamentos para piscinas.
+
+## Parte 7
+
+- requisitos de segurança e métodos de ensaio complementares específicos para balizas de pólo aquático.

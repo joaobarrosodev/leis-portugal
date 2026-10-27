@@ -1,0 +1,815 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70152051:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-70481868",
+ "dre_path": "/dr/detalhe/portaria/268-2015-70152051",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-09-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70480883",
+    "70480884",
+    "70480885",
+    "70480886",
+    "70480887",
+    "70480888",
+    "70480889",
+    "70480890",
+    "70480891",
+    "70480892",
+    "70480893",
+    "70480894",
+    "70480895",
+    "70480896",
+    "70480897",
+    "70480898",
+    "70480899",
+    "70480900",
+    "70480901",
+    "70480902",
+    "70480903",
+    "70480904",
+    "70480905",
+    "70480906",
+    "70480907",
+    "70480908",
+    "70480909",
+    "70480910",
+    "70480911",
+    "70480912",
+    "70480913",
+    "70480914",
+    "70480915",
+    "70480916"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:70348605:por",
+     "title": "Declaração de Retificação n.º 42/2015",
+     "published": "2015-09-22",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/42-2015-70348605",
+     "date": "2015-09-02"
+    }
+   ]
+  },
+  {
+   "date": "2016-06-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:74711477:por",
+     "title": "Portaria n.º 170/2016",
+     "published": "2016-06-16",
+     "dre_path": "/dr/detalhe/portaria/170-2016-74711477"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "70480883",
+    "70480884",
+    "70480885",
+    "70480886",
+    "70480887",
+    "70479930",
+    "70480889",
+    "70480890",
+    "70480891",
+    "70480892",
+    "70480893",
+    "70480894",
+    "70480895",
+    "70480896",
+    "70480897",
+    "70479931",
+    "70479932",
+    "70480900",
+    "70480901",
+    "70480902",
+    "70480903",
+    "70480904",
+    "74734705",
+    "70480906",
+    "70480907",
+    "70480908",
+    "70480909",
+    "70480910",
+    "70480917",
+    "70480911",
+    "70480912",
+    "70480913",
+    "70479934",
+    "70480915",
+    "70479935"
+   ]
+  },
+  {
+   "date": "2016-09-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75341997:por",
+     "title": "Portaria n.º 249/2016",
+     "published": "2016-09-15",
+     "dre_path": "/dr/detalhe/portaria/249-2016-75341997"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "70480883",
+    "70480884",
+    "70480885",
+    "70480886",
+    "70480887",
+    "70479930",
+    "70480889",
+    "70480890",
+    "70480891",
+    "70480892",
+    "70480893",
+    "70480894",
+    "70480895",
+    "70480896",
+    "70480897",
+    "70479931",
+    "70479932",
+    "70480900",
+    "117111074",
+    "70480902",
+    "70480903",
+    "70480904",
+    "74734705",
+    "70480906",
+    "70480907",
+    "70480908",
+    "70480909",
+    "70480910",
+    "70480917",
+    "70480911",
+    "70480912",
+    "70480913",
+    "70479934",
+    "70480915",
+    "70479935"
+   ]
+  },
+  {
+   "date": "2017-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:105643559:por",
+     "title": "Portaria n.º 338-A/2016",
+     "published": "2016-12-28",
+     "dre_path": "/dr/detalhe/portaria/338-a-2016-105643559"
+    }
+   ],
+   "changes": [
+    "Altera Anexo IV"
+   ],
+   "fragments": [
+    "70480883",
+    "70480884",
+    "70480885",
+    "70480886",
+    "70480887",
+    "70479930",
+    "70480889",
+    "70480890",
+    "70480891",
+    "70480892",
+    "70480893",
+    "70480894",
+    "70480895",
+    "70480896",
+    "70480897",
+    "70479931",
+    "70479932",
+    "70480900",
+    "117111074",
+    "70480902",
+    "70480903",
+    "70480904",
+    "74734705",
+    "70480906",
+    "70480907",
+    "70480908",
+    "70480909",
+    "70480910",
+    "70480917",
+    "70480911",
+    "70480912",
+    "70480913",
+    "117127675",
+    "70480915",
+    "70479935"
+   ]
+  },
+  {
+   "date": "2017-02-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:106499602:por",
+     "title": "Portaria n.º 73/2017",
+     "published": "2017-02-21",
+     "dre_path": "/dr/detalhe/portaria/73-2017-106499602"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º",
+    "Altera Anexo III"
+   ],
+   "fragments": [
+    "70480883",
+    "70480884",
+    "70480885",
+    "70480886",
+    "70480887",
+    "70479930",
+    "70480889",
+    "70480890",
+    "70480891",
+    "70480892",
+    "70480893",
+    "70480894",
+    "70480895",
+    "70480896",
+    "70480897",
+    "117127681",
+    "70479932",
+    "70480900",
+    "117111074",
+    "70480902",
+    "70480903",
+    "70480904",
+    "74734705",
+    "70480906",
+    "70480907",
+    "70480908",
+    "70480909",
+    "70480910",
+    "70480917",
+    "70480911",
+    "70480912",
+    "117127682",
+    "117127675",
+    "70480915",
+    "70479935"
+   ]
+  },
+  {
+   "date": "2018-02-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114682828:por",
+     "title": "Portaria n.º 46/2018",
+     "published": "2018-02-12",
+     "dre_path": "/dr/detalhe/portaria/46-2018-114682828"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 23.º",
+    "Revoga Artigo 15.º"
+   ],
+   "fragments": [
+    "70480883",
+    "70480884",
+    "70480885",
+    "70480886",
+    "70480887",
+    "70479930",
+    "70480889",
+    "70480890",
+    "70480891",
+    "70480892",
+    "70480893",
+    "70480894",
+    "70480895",
+    "70480896",
+    "70480897",
+    "117127681",
+    "70479932",
+    "70480900",
+    "117127684",
+    "70480902",
+    "70480903",
+    "70480904",
+    "74734705",
+    "70480906",
+    "70480907",
+    "70480908",
+    "117127683",
+    "70480910",
+    "70480917",
+    "70480911",
+    "70480912",
+    "117127682",
+    "117127675",
+    "70480915",
+    "70479935"
+   ]
+  },
+  {
+   "date": "2018-11-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117114264:por",
+     "title": "Portaria n.º 303/2018",
+     "published": "2018-11-26",
+     "dre_path": "/dr/detalhe/portaria/303-2018-117114264"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 23.º"
+   ],
+   "fragments": [
+    "70480883",
+    "70480884",
+    "70480885",
+    "70480886",
+    "70480887",
+    "70479930",
+    "70480889",
+    "70480890",
+    "70480891",
+    "70480892",
+    "70480893",
+    "70480894",
+    "117127685",
+    "70480896",
+    "70480897",
+    "117127681",
+    "70479932",
+    "70480900",
+    "117127684",
+    "70480902",
+    "70480903",
+    "70480904",
+    "117127686",
+    "70480906",
+    "70480907",
+    "70480908",
+    "117127687",
+    "70480910",
+    "70480917",
+    "70480911",
+    "70480912",
+    "117127682",
+    "117127675",
+    "70480915",
+    "70479935"
+   ]
+  }
+ ],
+ "fragments": {
+  "70480883": {
+   "fragment_id": "70481869",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 268/2015\n\nde 1 de setembro\n\nO Decreto-Lei n.º 137/2014, de 12 de setembro, que estabelece o modelo de governação dos fundos europeus estruturais e de investimento (FEEI), entre os quais se inclui o Fundo Europeu Agrícola e de Desenvolvimento Rural (FEADER), determinou a estruturação operacional deste fundo em três programas de desenvolvimento rural (PDR), um para o continente, designado PDR 2020, outro para a região autónoma dos Açores, designado PRORURAL+, e outro para a região autónoma da Madeira, designado PRODERAM 2020.\n\nO PDR 2020 foi aprovado formalmente pela Comissão Europeia através da Decisão C (2014) 9896 final, de 12 de dezembro de 2014.\n\nNa arquitetura do PDR 2020, o apoio «Conservação e melhoramento de recursos genéticos animais» integra a ação n.º 7.8, «Recursos genéticos», a qual se encontra inserida na medida n.º 7, «Agricultura e recursos naturais», da área n.º 3, «Ambiente, eficiência no uso dos recursos e clima»,à qual corresponde uma visão da estratégia nacional para o desenvolvimento rural, no domínio da melhoria da gestão dos recursos naturais e da proteção do solo, água, ar, biodiversidade e paisagem.\n\nA presente portaria estabelece o regime de aplicação do apoio 7.8.3, «Conservação e melhoramento de recursos genéticos animais», integrado na ação n.º 7.8, «Recursos genéticos», da medida n.º 7, «Agricultura e recursos naturais», inserida na área n.º 3, «Ambiente, eficiência no uso dos recursos e clima», do PDR 2020.\n\nEste apoio tem como objetivo promover a conservação ex situ e in situ e o melhoramento dos recursos genéticos animais.\n\nOs recursos genéticos para a agricultura e alimentação são ferramentas e fonte de diversidade vitais para a alimentação mundial e a sua segurança, para o desenvolvimento económico sustentável e para a estabilidade e coesão social.\n\nAs particularidades do território continental, com uma enorme variabilidade de condições de orografia, solos, clima, estrutura fundiária, tradições sociais e culturais, fazem com que Portugal mantenha um nível muito diversificado de recursos genéticos importantes para a agricultura, onde se incluem na pecuária um número significativo de raças autóctones, nomeadamente bovinos, ovinos, caprinos, suínos, equídeos e galináceos.\n\nNa pecuária, as raças autóctones contribuem para a melhoria da viabilidade das explorações em zonas rurais com poucas alternativas, para a melhoria do ambiente e da paisagem rural, tendo em conta os sistemas extensivos a que estão associados, sendo um exemplo de multifuncionalidade na atividade agrícola e constituem um contributo indispensável para os sistemas de produção em equilíbrio com o meio ambiente.\n\nAssim, importa promover a conservação in situ das raças autóctones, bem como a conservação ex situ, apoiando o fornecimento de material genético e promovendo a gestão do Banco Português de Germoplasma Animal (BPGA).\n\nForam ouvidos os órgãos de governo próprio da região autónoma dos Açores.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo da alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e no uso das competências delegadas através do Despacho n.º 12256-A/2014, publicado no Diário da República, 2.ª série, n.º 191, de 3 de outubro de 2014, o seguinte:"
+  },
+  "70480884": {
+   "fragment_id": "70481870",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "70480885": {
+   "fragment_id": "70481871",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o regime de aplicação do apoio 7.8.3, «Conservação e melhoramento de recursos genéticos animais», integrado na ação n.º 7.8, «Recursos genéticos», da medida n.º 7, «Agricultura e recursos naturais», inserida na área n.º 3, «Ambiente, eficiência no uso dos recursos e clima», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020."
+  },
+  "70480886": {
+   "fragment_id": "70481872",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nO apoio previsto na presente portaria prossegue os seguintes objetivos:\n\na) Assegurar a conservação e melhoramento dos recursos genéticos animais, de raças autóctones e raças exóticas;\n\nb) Assegurar os trabalhos de caracterização genética das raças referidas na alínea anterior;\n\nc) Promover o progresso das características de interesse em cada raça, através da avaliação genética, como objetivo final dos programas de melhoramento;\n\nd) Recolher e conservar material genético no banco português de germoplasma animal."
+  },
+  "70480887": {
+   "fragment_id": "70481873",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação da presente portaria, e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:\n\na) «Avaliação genética», o conjunto de procedimentos baseados na utilização de registos genealógicos e produtivos e em modelos matemáticos adequados e devidamente testados, com o objetivo de se estimar o valor genético dos animais para uma ou diversas características de interesse económico, segundo os métodos aprovados pela Direção-Geral de Alimentação e Veterinária (DGAV);\n\nb) «Caraterização genética», a determinação de diversos indicadores de variabilidade genética intra e inter populacionais, tendo em vista a caraterização da estrutura genética de uma população, nomeadamente através de marcadores genéticos e ou através de análise demográfica;\n\nc) «Contrato de parceria», o documento de constituição de uma parceria com ou sem personalidade jurídica, por via do qual entidades públicas e privadas se obrigam a assegurar o desenvolvimento de atividades tendentes à satisfação de necessidades comuns e no qual se encontram estabelecidos os objetivos dessa parceria e as obrigações dos seus membros;\n\nd) «Entidade gestora da parceria», a entidade responsável pela gestão administrativa e executiva da parceria, designada pelos respetivos membros para a representar, submeter o termo de aceitação e apresentar os pedidos de pagamento;\n\ne) «Livro genealógico», o registo que tem por fim assegurar a preservação genética de uma raça e concorrer para o seu progresso zootécnico, favorecendo a difusão de reprodutores. A inscrição nos livros genealógicos deve obedecer aos respetivos regulamentos e a ascendência dos animais é obrigatoriamente conhecida;\n\nf) «Programa de Conservação Genética Animal», o conjunto de ações sistematizadas de recolha e tratamento de dados produtivos e genealógicos de forma a obter informação com vista à conservação da variabilidade genética de uma raça, variedade ou ecótipo ex situ, através da crioconservação de material genético no banco português de germoplasma animal e da conservação in vivo e in situ, nos locais de exploração de uma raça, variedade ou ecótipo;\n\ng) «Programa de Melhoramento Genético Animal», o conjunto de ações sistematizadas de recolha e tratamento de informação produtiva e genealógica, utilizando métodos cientificamente validados, conducentes à avaliação genética do efetivo, tendo em vista o seu progresso genético;\n\nh) «Registo fundador», também designado como «Registo zootécnico», o registo que tem por fim assegurar a preservação genética de uma raça e concorrer para o seu progresso zootécnico, sendo que este registo antecede a constituição do respetivo livro genealógico, devendo a inscrição obedecer aos respetivos regulamentos e a ascendência dos animais pode ou não ser conhecida."
+  },
+  "70480888": {
+   "fragment_id": "70481874",
+   "type": 1,
+   "heading": "Capítulo II — Apoio 7.1.8., «Conservação e melhoramentos de recursos genéticos animais»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Apoio 7.1.8., «Conservação e melhoramentos de recursos genéticos animais»"
+  },
+  "70480889": {
+   "fragment_id": "70485675",
+   "type": 11,
+   "heading": "Artigo 4.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Beneficiários\n\n1 - Podem beneficiar dos apoios previstos na presente portaria as pessoas coletivas constituídas ao abrigo dos artigos 167.º e seguintes do Código Civil, que tenham a seu cargo a gestão de livros genealógicos ou fundadores, bem como as pessoas coletivas públicas, isoladamente ou em parceria, incluindo parcerias com entidades privadas.\n\n2 - Para efeitos do número anterior, podem ainda beneficiar dos apoios previstos na presente portaria, no caso da raça bovina frísia, as pessoas coletivas que gerem a base de dados nacional relativa ao melhoramento genético desta raça, com especial incidência nos dados de contraste leiteiro."
+  },
+  "70480890": {
+   "fragment_id": "70485676",
+   "type": 11,
+   "heading": "Artigo 5.º — Programas de Conservação Genética Animal e Programas de Melhoramento Genético Animal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Programas de Conservação Genética Animal e Programas de Melhoramento Genético Animal\n\n1 - Os Programas de Conservação Genética Animal e os Programas de Melhoramento Genético Animal têm a duração máxima de quatro anos, podendo ser apresentado um segundo programa após a conclusão do primeiro.\n\n2 - Os Programas de Conservação Genética Animal e os Programas de Melhoramento Genético Animal devem definir objetivos, respetivamente, de conservação ou de melhoramento, com metas quantificadas, descrevendo as ações a desenvolver anualmente, devendo a informação ser organizada de acordo com a estrutura geral indicativa descrita nos anexos I e II da presente portaria, da qual fazem parte integrante.\n\n3 - Os Programas de Conservação Genética Animal e os Programas de Melhoramento Genético Animal devem incluir ações consideradas relevantes para os objetivos definidos e identificadas no anexo III da presente portaria, da qual faz parte integrante, bem como um orçamento previsional baseado nos custos forfetários previstos no anexo V.\n\n4 - Os Programas de Melhoramento Genético Animal devem, ainda, explicitar, para além dos objetivos de melhoramento, os critérios e metodologias de seleção a utilizar, bem como, salvo exceções devidamente fundamentadas, divulgar, no mínimo, anualmente, os resultados da avaliação genética ou de outras metodologias de seleção que combinem a informação sobre o mérito genético dos animais com a de marcadores moleculares, de forma a proporcionar a seleção eficaz de futuros reprodutores.\n\n5 - No caso de programas cujas ações decorram no continente e na região autónoma dos Açores, estes devem identificar os territórios, NUTS I, em que as ações neles previstos irão decorrer, o número de ações previsto para cada território e o correspondente orçamento.\n\n6 - No caso previsto no número anterior, os programas são elegíveis, por via de candidaturas distintas, a financiamento pelos programas de desenvolvimento rural do continente ou da região autónoma dos Açores, para as ações realizadas, respetivamente, em cada território, independentemente da localização da sede da entidade gestora do livro genealógico ou registo fundador."
+  },
+  "70480891": {
+   "fragment_id": "70485677",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Critérios de elegibilidade dos beneficiários\n\n1 - Os candidatos aos apoios previstos na presente portaria, sem prejuízo dos critérios de elegibilidade previstos no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, devem reunir as seguintes condições à data de apresentação da candidatura:\n\na) Apresentar um Programa de Conservação Genética Animal ou um Programa de Melhoramento Genético Animal, aprovado pela Direção-Geral de Alimentação e Veterinária (DGAV);\n\nb) Encontrar-se legalmente constituídos;\n\nc) Cumprir as condições legais necessárias ao exercício da respetiva atividade;\n\nd) Ter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, sem prejuízo do disposto no n.º 3 do presente artigo;\n\ne) Ter a situação regularizada em matéria de reposições no âmbito do financiamento do Fundo Europeu Agrícola e de Desenvolvimento Rural (FEADER) ou do Fundo Europeu de Garantia Agrícola (FEAGA), ou terem constituído garantia a favor do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.);\n\nf) Não ter sido condenados em processo-crime por factos que envolvem disponibilidades financeiras no âmbito do FEADER e do FEAGA;\n\ng) Deter um sistema de contabilidade organizada ou simplificada nos termos da legislação em vigor;\n\nh) No caso de entidades em parceria, apresentar o contrato celebrado, com a identificação das obrigações, deveres e responsabilidades das partes contratantes, a respetiva participação financeira, bem como a designação da entidade gestora da parceria;\n\ni) Dispor de meios humanos e materiais de apoio necessários à realização das ações, diretamente ou através de outras organizações de criadores, com vista ao cumprimento do Programa de Conservação Genética Animal ou do Programa de Melhoramento Genético Animal.\n\n2 - No caso de candidaturas em parceria, todos os parceiros devem reunir as condições estabelecidas no número anterior.\n\n3 - A condição prevista na alínea d) do n.º 1 pode ser aferida até à data de apresentação do primeiro pedido de pagamento."
+  },
+  "70480892": {
+   "fragment_id": "70485678",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade das operações\n\nPodem beneficiar do apoio previsto na presente portaria as operações que se enquadrem nos objetivos previstos no artigo 2.º e que reúnam, cumulativamente, as seguintes condições:\n\na) Estejam diretamente relacionadas com a execução de um Programa de Conservação Genética Animal ou de um Programa de Melhoramento Genético Animal, aprovados pela DGAV;\n\nb) Respeitem a raças autóctones e raças exóticas, identificadas no anexo IV da presente portaria, da qual faz parte integrante;\n\nc) Tenham início após a data de apresentação da candidatura;\n\nd) Sejam realizadas na área geográfica de aplicação do PDR 2020, o território continental."
+  },
+  "70480893": {
+   "fragment_id": "70485679",
+   "type": 11,
+   "heading": "Artigo 8.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Despesas elegíveis\n\nSão elegíveis as despesas relacionadas com as ações constantes do anexo V à presente portaria, da qual faz parte integrante."
+  },
+  "70480894": {
+   "fragment_id": "70485680",
+   "type": 11,
+   "heading": "Artigo 9.º — Critérios de seleção de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Critérios de seleção de candidaturas\n\n1 - Para efeitos de seleção ao apoio previsto no presente capítulo são considerados os seguintes critérios:\n\na) Candidaturas respeitantes a raças autóctones, por ordem decrescente do grau de risco, conforme definido no anexo IV, da qual faz parte integrante;\n\nb) Candidaturas respeitantes a raças exóticas.\n\n2 - A hierarquização dos critérios constantes do número anterior, bem como a respetiva ponderação e critérios de desempate, são definidos pela autoridade de gestão e divulgados no portal do PDR 2020, em www.pdr-2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, no respetivo anúncio do período de apresentação de candidaturas."
+  },
+  "70480895": {
+   "fragment_id": "70485681",
+   "type": 11,
+   "heading": "Artigo 10.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Obrigações dos beneficiários\n\nOs beneficiários do apoio previsto na presente portaria, sem prejuízo das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são obrigados a:\n\na) Executar as ações previstas no Programa de Conservação Genética Animal ou no Programa de Melhoramento Genético Animal, conforme o previsto na alínea a) do artigo 6.º;\n\nb) Proceder à publicitação dos apoios que lhes forem atribuídos, nos termos da legislação comunitária aplicável e das orientações técnicas do PDR 2020;\n\nc) Manter um sistema de contabilidade organizada ou simplificada nos termos da legislação em vigor;\n\nd) Assegurar a disponibilização da informação relevante para as bases de dados oficiais, designadamente, carregar ou atualizar a informação relativa à identificação dos animais constantes no respetivo livro genealógico ou registo fundador e das ações realizadas sobre estes, no âmbito do Sistema Nacional de Informação e Registo Animal (SNIRA) e do registo nacional de equídeos (RNE), na medida em que estas funcionalidades sejam disponibilizadas;\n\ne) Elaborar um relatório anual de execução do Programa de Conservação Genética Animal ou do Programa de Melhoramento Genético Animal, em conformidade com o artigo 18.º;\n\nf) Rever e adaptar o Programa de Conservação Genética Animal ou o Programa de Melhoramento Genético Animal, até 28 de fevereiro de cada ano, se ocorrerem alterações nos critérios de elegibilidade, em função dos graus de risco constantes no anexo IV da presente portaria;\n\ng) Permitir o acesso aos locais de realização das operações e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado;\n\nh) Conservar os documentos relativos à realização da operação, sob a forma de documentos originais ou de cópias autenticadas, em suporte digital, quando legalmente admissível, ou em papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PDR, consoante a fase em que o encerramento da operação tenha sido incluído, ou pelo prazo fixado na legislação nacional aplicável ou na legislação específica em matéria de auxílios de Estado, se estas fixarem prazo superior;\n\ni) Dispor de um processo relativo à operação, preferencialmente em suporte digital, com toda a documentação relacionada com a mesma devidamente organizada, incluindo o suporte de um sistema de contabilidade para todas as transações referentes à operação;\n\nj) Assegurar o fornecimento de elementos necessários às atividades de monitorização e de avaliação das operações e participar em processos de inquirição relacionados com as mesmas;\n\nk) Adotar comportamentos que respeitem os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços;\n\nl) Assegurar o acesso, por parte dos organismos com competência na matéria, à base de dados das entidades que detenham o livro de registo genealógico, sendo que, no caso da raça bovina Frísia, a obrigação recai sobre a entidade que detém a base de dados nacional da raça;\n\nm) Manter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, a qual é aferida em cada pedido de pagamento."
+  },
+  "70480896": {
+   "fragment_id": "70485682",
+   "type": 11,
+   "heading": "Artigo 11.º — Forma, nível e limites dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Forma, nível e limites dos apoios\n\n1 - O apoio é concedido anualmente, sob a forma de subvenção não reembolsável, em função do tipo de ação e da espécie e raça abrangidas.\n\n2 - O apoio assume a modalidade de custos forfetários, baseados numa taxa de apoio de acordo com o anexo V da presente portaria."
+  },
+  "70480897": {
+   "fragment_id": "70485683",
+   "type": 1,
+   "heading": "Capítulo III — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Procedimento"
+  },
+  "70480898": {
+   "fragment_id": "70485684",
+   "type": 11,
+   "heading": "Artigo 12.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Apresentação de candidaturas\n\n1 - São estabelecidos períodos para apresentação de candidaturas, de acordo com o plano de abertura de candidaturas previsto na alínea m) do n.º 1 do artigo 31.º do Decreto-Lei n.º 137/2014, de 12 de setembro, sendo o mesmo divulgado no portal do Portugal 2020, em www.portugal.2020.pt, e no portal do PDR 2020, em www.pdr-2020.pt, e publicitado em dois órgãos de comunicação social.\n\n2 - A apresentação das candidaturas efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, ou do PDR 2020, em www.pdr-2020.pt, e estão sujeitos a confirmação por via eletrónica, a efetuar pela autoridade de gestão, considerando-se a data de submissão como a data de apresentação da candidatura.\n\n3 - No caso de beneficiários que desenvolvam ações aprovadas no Programa Conservação Genética Animal ou no Programa de Melhoramento Genético Animal em territórios distintos, estes devem formalizar a sua candidatura aos respetivos Programas de Desenvolvimento Rural (PDR), identificando, em cada formulário de candidatura, as ações a desenvolver no território continental (PDR 2020) e no território da região autónoma dos Açores (PRORURAL+).\n\n4 - Sem prejuízo do número anterior, apenas podem ser candidatas a apoio ao PDR 2020 as seguintes ações relativas a Programas de Conservação ou Melhoramento de raças sedeadas na região autónoma dos Açores e que tenham sido desenvolvidas no território do continente:\n\na) Inscrições no livro genealógico e no registo fundador;\n\nb) Classificação morfológica linear;\n\nc) Provas morfofuncionais;\n\nd) Controlo de performance na exploração;\n\ne) Controlo de performance em estação;\n\nf) Contraste leiteiro;\n\ng) Contraste lanar;\n\nh) Contraste de postura;\n\ni) Genotipagem para características de interesse e indesejáveis;\n\nj) Conservação ex situ;\n\nk) Inseminação Artificial."
+  },
+  "70480899": {
+   "fragment_id": "70485685",
+   "type": 11,
+   "heading": "Artigo 13.º — Anúncios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Anúncios\n\n1 - Os anúncios dos períodos de apresentação das candidaturas são aprovados pelo gestor, após audição da comissão de gestão, e indicam, nomeadamente, o seguinte:\n\na) Os objetivos e as prioridades visadas;\n\nb) A duração das operações;\n\nc) A tipologia das operações a apoiar;\n\nd) A área geográfica elegível;\n\ne) A dotação orçamental a atribuir;\n\nf) Os critérios de seleção e respetivos fatores, fórmulas, ponderação e critério de desempate, em função dos objetivos e prioridades fixados, bem como a pontuação mínima para seleção;\n\ng) A forma e o nível dos apoios a conceder, respeitando o disposto no artigo 11.º\n\n2 - Os anúncios dos períodos de apresentação das candidaturas podem prever dotações específicas para determinadas tipologias de operações a apoiar.\n\n3 - Os anúncios dos períodos de apresentação das candidaturas são divulgados, no portal do Portugal 2020, em www.pt-2020.pt, e no portal do PDR 2020, em www.pdr-2020.pt, e publicitados em dois órgãos de comunicação social."
+  },
+  "70480900": {
+   "fragment_id": "70485686",
+   "type": 11,
+   "heading": "Artigo 14.º — Análise e decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Análise e decisão das candidaturas\n\n1 - A autoridade de gestão ou as Direções Regionais de Agricultura e Pescas (DRAP) analisam e emitem parecer sobre as candidaturas, do qual consta a apreciação do cumprimento dos critérios de elegibilidade da operação e do beneficiário, bem como o apuramento do montante do custo total elegível e o nível de apoio previsional.\n\n2 - Sem prejuízo do disposto no n.º 3 do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são solicitados aos candidatos, quando se justifique, os documentos exigidos no formulário de candidatura ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação da candidatura.\n\n3 - O parecer referido no n.º 1 do presente artigo é emitido num prazo máximo de 45 dias úteis a contar da data limite para a apresentação das candidaturas e, quando emitido pelas DRAP, é remetido à autoridade de gestão.\n\n4 - O secretariado técnico aplica os critérios de seleção, em função do princípio da coesão territorial e da dotação orçamental referida no respetivo anúncio e submete à decisão do gestor a aprovação das candidaturas.\n\n5 - Antes de ser adotada a decisão final os candidatos são ouvidos, nos termos do Código de Procedimento Administrativo, designadamente, quanto à eventual intenção de indeferimento total ou parcial e respetivos fundamentos.\n\n6 - As candidaturas são objeto de decisão pelo gestor no prazo de 60 dias úteis contados a partir da data limite para a respetiva apresentação, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pela autoridade de gestão, no prazo máximo de cinco dias úteis a contar da data da sua emissão."
+  },
+  "70480901": {
+   "fragment_id": "70485687",
+   "type": 11,
+   "heading": "Artigo 15.º — Transição de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Transição de candidaturas\n\n1 - As candidaturas que tenham sido objeto de parecer favorável e que não tenham sido aprovadas por razões de insuficiência orçamental transitam para o período de apresentação de candidaturas seguinte, sendo sujeitas à aplicação dos critérios de seleção deste novo período.\n\n2 - A transição referida no número anterior é aplicável em dois períodos consecutivos, findos os quais a candidatura é indeferida."
+  },
+  "70480902": {
+   "fragment_id": "70485688",
+   "type": 11,
+   "heading": "Artigo 16.º — Termo de aceitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Termo de aceitação\n\n1 - A aceitação do apoio é efetuada mediante submissão eletrónica e autenticação de termo de aceitação nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n2 - O beneficiário dispõe de 30 dias úteis para a submissão eletrónica do termo de aceitação, sob pena de caducidade da decisão de aprovação da candidatura, nos termos do disposto no n.º 2 do artigo 21.º do Decreto-Lei n.º 159/2014, de 27 de outubro, salvo motivo justificado não imputável ao beneficiário e aceite pela autoridade de gestão."
+  },
+  "70480903": {
+   "fragment_id": "70485689",
+   "type": 11,
+   "heading": "Artigo 17.º — Execução das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Execução das operações\n\n1 - As operações devem ser executadas de acordo com o calendário previsto no programa aprovado.\n\n2 - Em casos excecionais e devidamente justificados, o gestor pode autorizar a prorrogação dos prazos estabelecidos no número anterior."
+  },
+  "70480904": {
+   "fragment_id": "70485690",
+   "type": 11,
+   "heading": "Artigo 18.º — Execução e avaliação dos Programas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Execução e avaliação dos Programas\n\n1 - Os relatórios de execução referidos na alínea e) do artigo 10.º são apresentados pelo beneficiário à DGAV, até 28 de fevereiro de cada ano, em relação às ações realizadas no ano anterior, que os valida e remete à autoridade de gestão até 31 de março do mesmo ano.\n\n2 - A avaliação dos Programas de Conservação Genética Animal e de Melhoramento Genético Animal deve ser realizada pela DGAV até 31 de março do ano seguinte ao do final da operação."
+  },
+  "70480905": {
+   "fragment_id": "70485691",
+   "type": 11,
+   "heading": "Artigo 19.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.pt-2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n2 - As entidades beneficiárias podem apresentar quatro pedidos de pagamento anuais, reportando-se às ações efetivamente realizadas, de acordo com o programa previamente aprovado.\n\n3 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias a contar da data de conclusão da operação, sob pena do seu indeferimento.\n\n4 - Em casos excecionais e devidamente justificados, o IFAP, I. P. pode autorizar a prorrogação do prazo estabelecido no número anterior.\n\n5 - No ano do encerramento do PDR 2020, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt,e no portal do PDR 2020, em www.pdr-2020.pt.."
+  },
+  "70480906": {
+   "fragment_id": "70485692",
+   "type": 11,
+   "heading": "Artigo 20.º — Análise e decisão dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Análise e decisão dos pedidos de pagamento\n\n1 - O IFAP, I. P., ou as entidades a quem este delegar poderes para o efeito, analisam os pedidos de pagamento e emitem parecer.\n\n2 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.\n\n3 - Do parecer referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respetivo pedido de pagamento.\n\n4 - O IFAP, I. P., após a receção do parecer referido nos números anteriores adota os procedimentos necessários ao respetivo pagamento.\n\n5 - Os critérios de realização das visitas de controlo ao local da operação durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro."
+  },
+  "70480907": {
+   "fragment_id": "70485693",
+   "type": 11,
+   "heading": "Artigo 21.º — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Pagamentos\n\n1 - Os pagamentos dos apoios são efetuados pelo IFAP, I. P., de acordo com o calendário anual definido antes do início de cada ano civil, o qual é divulgado no respetivo portal, em www.ifap.pt.\n\n2 - Os pagamentos dos apoios são efetuados por transferência bancária para a conta identificada no termo de aceitação."
+  },
+  "70480908": {
+   "fragment_id": "70485694",
+   "type": 11,
+   "heading": "Artigo 22.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Controlo\n\nA operação, incluindo a candidatura e os pedidos de pagamento, está sujeita a ações de controlo administrativo e in loco a partir da data da submissão autenticada do termo de aceitação, nos termos previstos no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, e demais legislação aplicável, e até um ano após a entrega do último relatório de execução."
+  },
+  "70480909": {
+   "fragment_id": "70485695",
+   "type": 11,
+   "heading": "Artigo 23.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Reduções e exclusões\n\n1 - Os apoios objeto da presente portaria estão sujeitos às reduções e exclusões previstas no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, e demais legislação aplicável.\n\n2 - A aplicação de reduções e exclusões dos apoios concedidos ou a conceder, em caso de incumprimento das obrigações dos beneficiários previstas no artigo 10.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, é efetuada de acordo com o previsto no anexo VI à presente portaria, da qual faz parte integrante.\n\n3 - O incumprimento dos critérios de elegibilidade constitui fundamento suscetível de determinar a devolução da totalidade dos apoios recebidos.\n\n4 - À recuperação dos montantes indevidamente recebidos, designadamente por incumprimento dos critérios de elegibilidade ou de obrigações dos beneficiários, aplica-se o disposto nos artigos 7.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável."
+  },
+  "70480910": {
+   "fragment_id": "70485696",
+   "type": 11,
+   "heading": "Artigo 24.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "70480911": {
+   "fragment_id": "70485697",
+   "type": 14,
+   "heading": "Anexo I — Estrutura geral do Programa de Conservação Genética Animal (a que se refere o n.º 2 do artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Estrutura geral do Programa de Conservação Genética Animal (a que se refere o n.º 2 do artigo 5.º)\n\nA Estrutura geral de um programa de conservação genética animal in situ e ex situ, deve ser elaborada no âmbito do cumprimento dos respetivos regulamentos dos livros genealógicos e dos registos fundadores, sendo que no caso de se preverem ações para o continente e para a região autónoma dos Açores devem ser apresentados os elementos referentes a cada região.\n\n1 - Descrição do sistema de produção:\n\n1.1 - Número de animais e número de explorações;\n\n1.2 - Parâmetros demográficos (consanguinidade, estrutura etária, intervalo de gerações);\n\n1.3 - Práticas de maneio, produtividade;\n\n1.4 - Cruzamentos com outras raças;\n\n1.5 - Produtos finais.\n\n2 - Recolha de informação:\n\n2.1 - Entidades envolvidas;\n\n2.2 - Sistema de identificação;\n\n2.3 - Sistema de recolha de registos genealógicos e produtivos;\n\n2.4 - Conexão entre explorações;\n\n2.5 - Fluxo e tratamento de informação;\n\n2.6 - Controlo genealógico e validação;\n\n2.7 - Técnicas de reprodução utilizadas.\n\n3 - Ações de conservação a desenvolver:\n\n3.1 - Conservação ex situ:\n\n3.1.1 - Material genético a recolher e crioconservar no banco português de germoplasma animal;\n\n3.1.2 - Ações de conservação in vivo;\n\n3.2 - Conservação in situ."
+  },
+  "70480912": {
+   "fragment_id": "70485698",
+   "type": 14,
+   "heading": "Anexo II — Estrutura geral do Programa de Melhoramento Genético Animal (a que se refere o n.º 2 do artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Estrutura geral do Programa de Melhoramento Genético Animal (a que se refere o n.º 2 do artigo 5.º)\n\nEstrutura geral de um programa de melhoramento, elaborado no âmbito do cumprimento dos respetivos regulamentos dos livros genealógicos e dos registos fundadores, sendo que no caso de se preverem ações para o continente e para a Região Autónoma dos Açores devem ser apresentados os elementos referentes a cada região.\n\n1 - N.os 1 e 2 do anexo I;\n\n2 - Definição dos objetivos de melhoramento:\n\n2.1 - Caracteres que se pretendem selecionar/melhorar (objetivos de melhoramento);\n\n2.2 - Caracteres que influenciam economicamente o sistema de exploração;\n\n3 - Estimativa de parâmetros:\n\n3.1 - Variabilidade genética e fenotípica dos caracteres;\n\n3.2 - Heritabilidade dos caracteres;\n\n3.3 - Correlações genéticas e fenotípicas entre caracteres.\n\n4 - Critérios de seleção:\n\n4.1 - Caracteres que se pretendem avaliar e que vão ser medidos;\n\n4.2 - Caracteres com base nos quais se selecionam os animais;\n\n4.3 - Aspetos a considerar na escolha dos critérios de seleção:\n\n4.3.1 - Variabilidade genética;\n\n4.3.2 - Correlação genética com os objetivos de melhoramento;\n\n4.3.3 - Medição:\n\n4.3.3.1 - Mensurável nos candidatos à seleção; Parentes;\n\n4.3.3.2 - Facilidade; custo; idade; registos repetidos.\n\n5 - Avaliação de esquemas alternativos:\n\n5.1 - Número de animais controlados;\n\n5.2 - Metodologias de seleção;\n\n5.3 - Otimização dos resultados do programa;\n\n5.4 - Custos e benefícios de diferentes alternativas;\n\n5.5 - Respostas diretas e correlacionadas;\n\n5.6 - Resposta esperada anualmente/geração.\n\n6 - Organização do controlo de performances e recolha de informação:\n\n6.1 - Entidades envolvidas;\n\n6.2 - Sistema de identificação;\n\n6.3 - Recolha de registos genealógicos e produtivos:\n\n6.3.1 - Dados de campo a recolher (critérios de seleção);\n\n6.3.2 - Recolha de dados de campo (explorações, estação, matadouro);\n\n6.4 - Conexão entre explorações;\n\n6.5 - Fluxo e tratamento de informação;\n\n6.6 - Controlo genealógico e validação;\n\n6.7 - Técnicas de reprodução utilizadas.\n\n7 - Avaliação genética:\n\n7.1 - Entidade responsável, independente da entidade gestora do livro genealógico ou registo fundador e reconhecida pela DGAV;\n\n7.2 - Caracteres avaliados;\n\n7.3 - Informação produtiva e genealógica disponível;\n\n7.4 - Metodologia utilizada;\n\n7.5 - Modelo de análise para os diferentes caracteres;\n\n7.6 - Periodicidade da avaliação genética;\n\n7.7 - Forma de apresentação dos resultados aos criadores e ao público em geral:\n\n7.7.1 - Catálogo;\n\n7.7.2 - Relatórios individuais por criador;\n\n7.7.3 - Divulgação na Internet.\n\n8 - Seleção e utilização dos animais selecionados:\n\n8.1 - Métodos de seleção e utilização dos futuros reprodutores;\n\n8.2 - Controlo da consanguinidade;\n\n8.3 - Programação dos acasalamentos;\n\n8.4 - Utilização de marcadores genéticos."
+  },
+  "70480913": {
+   "fragment_id": "70485699",
+   "type": 14,
+   "heading": "Anexo III — Ações que integram os Programas de Conservação e Melhoramento Genético Animal (a que se refere o n.º 3 do artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Ações que integram os Programas de Conservação e Melhoramento Genético Animal (a que se refere o n.º 3 do artigo 5.º)\n\na) Inscrições no livro genealógico ou no registo fundador (T)\n\nb) Exames de paternidade por análise de ADN\n\nc) Caracterização genética por análise demográfica\n\nd) Registos de paternidade provenientes das inseminações artificiais\n\ne) Inseminação artificial (T) e transferência de embriões\n\nf) Classificação morfológica linear (T)\n\ng) Provas morfofuncionais (T)\n\nh) Controlo de performance na exploração (T)\n\ni) Controlo de performance em estação (T)\n\nj) Contraste leiteiro (T)\n\nk) Contraste lanar (T)\n\nl) Contraste de postura (T)\n\nm) Estudo da carcaça e da qualidade da carne\n\nn) Genotipagem para características de interesse e indesejáveis (T)\n\no) Caracterização genética por marcadores genéticos/técnicas de sequenciação\n\np) Avaliação genética\n\nq) Caracterização genómica\n\nr) Ações de promoção da raça (exposições, concursos, publicações)\n\ns) Ações de conservação ex situ - recolha de material genético para BPGA (T)\n\nt) Ações de conservação ex situ - manutenção de material genético no BPGA (T)\n\n(T) Ações que podem ser financiadas em região diferente daquela onde está sedeado o livro genealógico ou registo fundador, pelo programa de desenvolvimento rural que abrange essa região, conforme previsto nos n.os 5 e 6 do artigo 5.º"
+  },
+  "70480914": {
+   "fragment_id": "70485700",
+   "type": 14,
+   "heading": "Anexo IV — Raças autóctones em risco e raças exóticas [a que se refere a alínea b) do artigo 7.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Raças autóctones em risco e raças exóticas [a que se refere a alínea b) do artigo 7.º]\n\nA) Raças autóctones em risco\n\n(ver documento original)\n\nB) Raças Exóticas\n\n(ver documento original)\n\nGrau de Risco de Erosão Genética\n\nGrau A: Risco muito elevado\n\nOutro: Grau B - Risco elevado ou Grau C - Risco moderado"
+  },
+  "70480915": {
+   "fragment_id": "70485701",
+   "type": 14,
+   "heading": "Anexo V — Montantes e níveis de apoio por tipo de ação (a que se refere o artigo 8.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — Montantes e níveis de apoio por tipo de ação (a que se refere o artigo 8.º)\n\n(ver documento original)"
+  },
+  "70480916": {
+   "fragment_id": "70485702",
+   "type": 14,
+   "heading": "Anexo VI — Reduções e exclusões (a que se refere o n.º 2 do artigo 23.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI — Reduções e exclusões (a que se refere o n.º 2 do artigo 23.º)\n\n1 - O incumprimento das obrigações dos beneficiários, previstas no n.º 1 do artigo 10.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, determina a aplicação das seguintes reduções ou exclusões:\n\nReduções e exclusões\n\n(ver documento original)\n\n2 - O disposto no número anterior não prejudica, designadamente, a aplicação:\n\na) Do mecanismo de suspensão do apoio, previsto no artigo 36.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014;\n\nb) Da exclusão prevista, designadamente, nas alíneas a) a f) do n.º 2 do artigo 64.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013;\n\nc) Dos n.os 1, 5 e 6 do artigo 35.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014;\n\nd) Do artigo 63.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014;\n\ne) De outras cominações, designadamente de natureza penal, que ao caso couberem.\n\n3 - A medida concreta das reduções previstas no n.º 1 é determinada em função da gravidade, extensão, duração e recorrência do incumprimento, nos termos previstos no n.º 3 do artigo 35.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, com base em grelha de ponderação, a divulgar no portal do PDR 2020, em www.pdr-2020.pt, e no portal do IFAP, em www.ifap.pt.\n\n> Nota: [Declaração de Retificação n.º 42/2015 - Diário da República n.º 185/2015, Série I de 2015-09-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/42-2015-70348605) Declaração de retificação: No anexo vi, na alínea e) da coluna «Obrigações dos beneficiários» da tabela, onde se lê: «e) Elaborar um relatório anual de execução do Programa de Conservação Genética Animal ou do Programa de Melhoramento Genético Animal, em conformidade com o artigo 17.º;» deve ler-se: «e) Elaborar um relatório anual de execução do Programa de Conservação Genética Animal ou do Programa de Melhoramento Genético Animal, em conformidade com o artigo 18.º;»."
+  },
+  "70479930": {
+   "fragment_id": "70481874",
+   "type": 1,
+   "heading": "Capítulo II — Apoio 7.8.3, \"Conservação e melhoramentos de recursos genéticos animais\"",
+   "in_force_from": "2015-09-02",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Retificação n.º 42/2015 - Diário da República n.º 185/2015, Série I de 2015-09-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/42-2015-70348605), em vigor a partir de 2015-09-02"
+   ],
+   "markdown": "### Capítulo II — Apoio 7.8.3, \"Conservação e melhoramentos de recursos genéticos animais\"\n\n> Rectificado pelo/a [Declaração de Retificação n.º 42/2015 - Diário da República n.º 185/2015, Série I de 2015-09-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/42-2015-70348605), em vigor a partir de 2015-09-02"
+  },
+  "70479931": {
+   "fragment_id": "70485684",
+   "type": 11,
+   "heading": "Artigo 12.º — Apresentação de candidaturas",
+   "in_force_from": "2015-09-02",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Retificação n.º 42/2015 - Diário da República n.º 185/2015, Série I de 2015-09-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/42-2015-70348605), em vigor a partir de 2015-09-02"
+   ],
+   "markdown": "###### Artigo 12.º — Apresentação de candidaturas\n\n1 - São estabelecidos períodos para apresentação de candidaturas, de acordo com o plano de abertura de candidaturas previsto na alínea m) do n.º 1 do artigo 31.º do Decreto -Lei n.º 137/2014, de 12 de setembro, sendo o mesmo divulgado no portal do Portugal 2020, em www.portugal2020.pt, e no portal do PDR 2020, em www.pdr-2020.pt, e publicitado em dois órgãos de comunicação social.\n\n2 - A apresentação das candidaturas efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, ou do PDR 2020, em www.pdr-2020.pt, e estão sujeitos a confirmação por via eletrónica, a efetuar pela autoridade de gestão, considerando-se a data de submissão como a data de apresentação da candidatura.\n\n3 - No caso de beneficiários que desenvolvam ações aprovadas no Programa Conservação Genética Animal ou no Programa de Melhoramento Genético Animal em territórios distintos, estes devem formalizar a sua candidatura aos respetivos Programas de Desenvolvimento Rural (PDR), identificando, em cada formulário de candidatura, as ações a desenvolver no território continental (PDR 2020) e no território da região autónoma dos Açores (PRORURAL+).\n\n4 - Sem prejuízo do número anterior, apenas podem ser candidatas a apoio ao PDR 2020 as seguintes ações relativas a Programas de Conservação ou Melhoramento de raças sedeadas na região autónoma dos Açores e que tenham sido desenvolvidas no território do continente:\n\na) Inscrições no livro genealógico e no registo fundador;\n\nb) Classificação morfológica linear;\n\nc) Provas morfofuncionais;\n\nd) Controlo de performance na exploração;\n\ne) Controlo de performance em estação;\n\nf) Contraste leiteiro;\n\ng) Contraste lanar;\n\nh) Contraste de postura;\n\ni) Genotipagem para características de interesse e indesejáveis;\n\nj) Conservação ex situ;\n\nk) Inseminação Artificial.\n\n> Rectificado pelo/a [Declaração de Retificação n.º 42/2015 - Diário da República n.º 185/2015, Série I de 2015-09-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/42-2015-70348605), em vigor a partir de 2015-09-02"
+  },
+  "70479932": {
+   "fragment_id": "70485685",
+   "type": 11,
+   "heading": "Artigo 13.º — Anúncios",
+   "in_force_from": "2015-09-02",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Retificação n.º 42/2015 - Diário da República n.º 185/2015, Série I de 2015-09-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/42-2015-70348605), em vigor a partir de 2015-09-02"
+   ],
+   "markdown": "###### Artigo 13.º — Anúncios\n\n1 - Os anúncios dos períodos de apresentação das candidaturas são aprovados pelo gestor, após audição da comissão de gestão, e indicam, nomeadamente, o seguinte:\n\na) Os objetivos e as prioridades visadas;\n\nb) A duração das operações;\n\nc) A tipologia das operações a apoiar;\n\nd) A área geográfica elegível;\n\ne) A dotação orçamental a atribuir;\n\nf) Os critérios de seleção e respetivos fatores, fórmulas, ponderação e critério de desempate, em função dos objetivos e prioridades fixados, bem como a pontuação mínima para seleção;\n\ng) A forma e o nível dos apoios a conceder, respeitando o disposto no artigo 11.º\n\n2 - Os anúncios dos períodos de apresentação das candidaturas podem prever dotações específicas para determinadas tipologias de operações a apoiar.\n\n3 - Os anúncios dos períodos de apresentação das candidaturas são divulgados, no portal do Portugal 2020, em www.portugal2020.pt, e no portal do PDR 2020, em www.pdr-2020.pt, e publicitados em dois órgãos de comunicação social.\n\n> Rectificado pelo/a [Declaração de Retificação n.º 42/2015 - Diário da República n.º 185/2015, Série I de 2015-09-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/42-2015-70348605), em vigor a partir de 2015-09-02"
+  },
+  "74734705": {
+   "fragment_id": "70485691",
+   "type": 11,
+   "heading": "Artigo 19.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": "2016-06-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170/2016 - Diário da República n.º 114/2016, Série I de 2016-06-16](https://diariodarepublica.pt/dr/detalhe/portaria/170-2016-74711477), em vigor a partir de 2016-06-17",
+    "Rectificado pelo/a [Declaração de Retificação n.º 42/2015 - Diário da República n.º 185/2015, Série I de 2015-09-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/42-2015-70348605), em vigor a partir de 2015-09-02"
+   ],
+   "markdown": "###### Artigo 19.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n2 - As entidades beneficiárias podem apresentar quatro pedidos de pagamento anuais, reportando-se às ações efetivamente realizadas, de acordo com o programa previamente aprovado.\n\n3 - Pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor das ações do programa aprovado, no máximo até 20 % da despesa pública aprovada, mediante a constituição de garantia a favor do IFAP, I. P., correspondente a 100 % do montante do adiantamento.\n\n4 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias a contar da data de conclusão da operação, sob pena do seu indeferimento.\n\n5 - Em casos excecionais e devidamente justificados, o IFAP, I. P. pode autorizar a prorrogação do prazo estabelecido no número anterior.\n\n6 - No ano do encerramento do PDR 2020, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt,e no portal do PDR 2020, em www.pdr-2020.pt..\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170/2016 - Diário da República n.º 114/2016, Série I de 2016-06-16](https://diariodarepublica.pt/dr/detalhe/portaria/170-2016-74711477), em vigor a partir de 2016-06-17\n\n> Rectificado pelo/a [Declaração de Retificação n.º 42/2015 - Diário da República n.º 185/2015, Série I de 2015-09-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/42-2015-70348605), em vigor a partir de 2015-09-02"
+  },
+  "70480917": {
+   "fragment_id": "70485703",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 18 de agosto de 2015."
+  },
+  "70479934": {
+   "fragment_id": "70485700",
+   "type": 14,
+   "heading": "Anexo IV — Raças autóctones em risco e raças exóticas [a que se refere a alínea b) do artigo 7.º]",
+   "in_force_from": "2015-09-02",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Retificação n.º 42/2015 - Diário da República n.º 185/2015, Série I de 2015-09-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/42-2015-70348605), em vigor a partir de 2015-09-02"
+   ],
+   "markdown": "## Anexo IV — Raças autóctones em risco e raças exóticas [a que se refere a alínea b) do artigo 7.º]\n\nA) Raças autóctones em risco\n\n(ver documento original)\n\nB) Raças Exóticas\n\n(ver documento original)\n\nGraus de Risco de Erosão Genética\n\nGrau A: Risco muito elevado\n\nGrau B - Risco elevado\n\nGrau C - Risco moderado\n\n> Rectificado pelo/a [Declaração de Retificação n.º 42/2015 - Diário da República n.º 185/2015, Série I de 2015-09-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/42-2015-70348605), em vigor a partir de 2015-09-02"
+  },
+  "70479935": {
+   "fragment_id": "70485702",
+   "type": 14,
+   "heading": "Anexo VI — Reduções e exclusões (a que se refere o n.º 2 do artigo 23.º)",
+   "in_force_from": "2015-09-02",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Retificação n.º 42/2015 - Diário da República n.º 185/2015, Série I de 2015-09-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/42-2015-70348605), em vigor a partir de 2015-09-02"
+   ],
+   "markdown": "## Anexo VI — Reduções e exclusões (a que se refere o n.º 2 do artigo 23.º)\n\n1 - O incumprimento das obrigações dos beneficiários, previstas no n.º 1 do artigo 10.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, determina a aplicação das seguintes reduções ou exclusões:\n\nReduções e exclusões\n\n(ver documento original)\n\n2 - O disposto no número anterior não prejudica, designadamente, a aplicação:\n\na) Do mecanismo de suspensão do apoio, previsto no artigo 36.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014;\n\nb) Da exclusão prevista, designadamente, nas alíneas a) a f) do n.º 2 do artigo 64.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013;\n\nc) Dos n.os 1, 5 e 6 do artigo 35.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014;\n\nd) Do artigo 63.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014;\n\ne) De outras cominações, designadamente de natureza penal, que ao caso couberem.\n\n3 - A medida concreta das reduções previstas no n.º 1 é determinada em função da gravidade, extensão, duração e recorrência do incumprimento, nos termos previstos no n.º 3 do artigo 35.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, com base em grelha de ponderação, a divulgar no portal do PDR 2020, em www.pdr-2020.pt, e no portal do IFAP, em www.ifap.pt.\n\n> Nota: [Declaração de Retificação n.º 42/2015 - Diário da República n.º 185/2015, Série I de 2015-09-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/42-2015-70348605) Declaração de retificação: No anexo vi, na alínea e) da coluna «Obrigações dos beneficiários» da tabela, onde se lê: «e) Elaborar um relatório anual de execução do Programa de Conservação Genética Animal ou do Programa de Melhoramento Genético Animal, em conformidade com o artigo 17.º;» deve ler-se: «e) Elaborar um relatório anual de execução do Programa de Conservação Genética Animal ou do Programa de Melhoramento Genético Animal, em conformidade com o artigo 18.º;».\n\n> Rectificado pelo/a [Declaração de Retificação n.º 42/2015 - Diário da República n.º 185/2015, Série I de 2015-09-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/42-2015-70348605), em vigor a partir de 2015-09-02"
+  },
+  "117111074": {
+   "fragment_id": "70485687",
+   "type": 11,
+   "heading": "Artigo 15.º — Transição de candidaturas",
+   "in_force_from": "2016-09-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Portaria n.º 249/2016 - Diário da República n.º 178/2016, Série I de 2016-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/249-2016-75341997), em vigor a partir de 2016-09-16, produz efeitos a partir de 2018-06-01"
+   ],
+   "markdown": "###### Artigo 15.º — Transição de candidaturas\n\n1 - As candidaturas que tenham obtido classificação igual ou superior à pontuação mínima necessária para seleção das operações e para as quais não tenha existido dotação orçamental, transitam para o período de apresentação de candidaturas seguinte, no qual são analisadas e hierarquizadas de acordo com os critérios de seleção desse novo período.\n\n2 - A transição referida no número anterior é aplicável em dois períodos consecutivos, findos os quais a candidatura é indeferida.\n\n> Alterado pelo/a Artigo 9.º do/a [Portaria n.º 249/2016 - Diário da República n.º 178/2016, Série I de 2016-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/249-2016-75341997), em vigor a partir de 2016-09-16, produz efeitos a partir de 2018-06-01"
+  },
+  "117127675": {
+   "fragment_id": "70485700",
+   "type": 14,
+   "heading": "Anexo IV — Raças autóctones em risco e raças exóticas [a que se refere a alínea b) do artigo 7.º]",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01",
+    "Rectificado pelo/a [Declaração de Retificação n.º 42/2015 - Diário da República n.º 185/2015, Série I de 2015-09-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/42-2015-70348605), em vigor a partir de 2015-09-02"
+   ],
+   "markdown": "## Anexo IV — Raças autóctones em risco e raças exóticas [a que se refere a alínea b) do artigo 7.º]\n\nA) Raças autóctones em risco\n\n(ver documento original)\n\nB) Raças Exóticas\n\n(ver documento original)\n\nGraus de Risco de Erosão Genética\n\nGrau A: Risco muito elevado\n\nGrau B - Risco elevado\n\nGrau C - Risco moderado\n\n> Alterado pelo/a Artigo 8.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01\n\n> Rectificado pelo/a [Declaração de Retificação n.º 42/2015 - Diário da República n.º 185/2015, Série I de 2015-09-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/42-2015-70348605), em vigor a partir de 2015-09-02"
+  },
+  "117127681": {
+   "fragment_id": "70485684",
+   "type": 11,
+   "heading": "Artigo 12.º — Apresentação de candidaturas",
+   "in_force_from": "2017-02-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73/2017 - Diário da República n.º 37/2017, Série I de 2017-02-21](https://diariodarepublica.pt/dr/detalhe/portaria/73-2017-106499602), em vigor a partir de 2017-02-22",
+    "Rectificado pelo/a [Declaração de Retificação n.º 42/2015 - Diário da República n.º 185/2015, Série I de 2015-09-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/42-2015-70348605), em vigor a partir de 2015-09-02"
+   ],
+   "markdown": "###### Artigo 12.º — Apresentação de candidaturas\n\n1 - São estabelecidos períodos para apresentação de candidaturas, de acordo com o plano de abertura de candidaturas previsto na alínea m) do n.º 1 do artigo 31.º do Decreto -Lei n.º 137/2014, de 12 de setembro, sendo o mesmo divulgado no portal do Portugal 2020, em www.portugal2020.pt, e no portal do PDR 2020, em www.pdr-2020.pt, e publicitado em dois órgãos de comunicação social.\n\n2 - A apresentação das candidaturas efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, ou do PDR 2020, em www.pdr-2020.pt, e estão sujeitos a confirmação por via eletrónica, a efetuar pela autoridade de gestão, considerando-se a data de submissão como a data de apresentação da candidatura.\n\n3 - No caso de beneficiários que desenvolvam ações aprovadas no Programa Conservação Genética Animal ou no Programa de Melhoramento Genético Animal em territórios distintos, estes devem formalizar a sua candidatura aos respetivos Programas de Desenvolvimento Rural (PDR), identificando, em cada formulário de candidatura, as ações a desenvolver no território continental (PDR 2020) e no território da região autónoma dos Açores (PRORURAL+).\n\n4 - Sem prejuízo do número anterior, apenas podem ser candidatas a apoio ao PDR 2020 as seguintes ações relativas a Programas de Conservação ou Melhoramento de raças sedeadas na região autónoma dos Açores e que tenham sido desenvolvidas no território do continente:\n\na) Inscrições no livro genealógico e no registo fundador;\n\nb) Classificação morfológica linear;\n\nc) Provas morfofuncionais;\n\nd) Controlo de performance na exploração;\n\ne) Controlo de performance em estação;\n\nf) Contraste leiteiro;\n\ng) Contraste lanar;\n\nh) Contraste de postura;\n\ni) Genotipagem para características de interesse e indesejáveis;\n\nj) Conservação ex situ;\n\nk) Inseminação Artificial;\n\nl) Exames de paternidade por análise de ADN;\n\nm) Ações de promoção da raça (exposições, concursos, publicações).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73/2017 - Diário da República n.º 37/2017, Série I de 2017-02-21](https://diariodarepublica.pt/dr/detalhe/portaria/73-2017-106499602), em vigor a partir de 2017-02-22\n\n> Rectificado pelo/a [Declaração de Retificação n.º 42/2015 - Diário da República n.º 185/2015, Série I de 2015-09-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/42-2015-70348605), em vigor a partir de 2015-09-02"
+  },
+  "117127682": {
+   "fragment_id": "70485699",
+   "type": 14,
+   "heading": "Anexo III — Ações que integram os Programas de Conservação e Melhoramento Genético Animal (a que se refere o n.º 3 do artigo 5.º)",
+   "in_force_from": "2017-02-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73/2017 - Diário da República n.º 37/2017, Série I de 2017-02-21](https://diariodarepublica.pt/dr/detalhe/portaria/73-2017-106499602), em vigor a partir de 2017-02-22"
+   ],
+   "markdown": "## Anexo III — Ações que integram os Programas de Conservação e Melhoramento Genético Animal (a que se refere o n.º 3 do artigo 5.º)\n\na) Inscrições no livro genealógico ou no registo fundador (T)\n\nb) Exames de paternidade por análise de ADN (T);\n\nc) Caracterização genética por análise demográfica\n\nd) Registos de paternidade provenientes das inseminações artificiais\n\ne) Inseminação artificial (T) e transferência de embriões\n\nf) Classificação morfológica linear (T)\n\ng) Provas morfofuncionais (T)\n\nh) Controlo de performance na exploração (T)\n\ni) Controlo de performance em estação (T)\n\nj) Contraste leiteiro (T)\n\nk) Contraste lanar (T)\n\nl) Contraste de postura (T)\n\nm) Estudo da carcaça e da qualidade da carne\n\nn) Genotipagem para características de interesse e indesejáveis (T)\n\no) Caracterização genética por marcadores genéticos/técnicas de sequenciação\n\np) Avaliação genética\n\nq) Caracterização genómica\n\nr) Ações de promoção da raça (exposições, concursos, publicações) (T);\n\ns) Ações de conservação ex situ - recolha de material genético para BPGA (T)\n\nt) Ações de conservação ex situ - manutenção de material genético no BPGA (T)\n\n(T) Ações que podem ser financiadas em região diferente daquela onde está sedeado o livro genealógico ou registo fundador, pelo programa de desenvolvimento rural que abrange essa região, conforme previsto nos n.os 5 e 6 do artigo 5.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73/2017 - Diário da República n.º 37/2017, Série I de 2017-02-21](https://diariodarepublica.pt/dr/detalhe/portaria/73-2017-106499602), em vigor a partir de 2017-02-22"
+  },
+  "117127684": {
+   "fragment_id": "70485687",
+   "type": 11,
+   "heading": "Artigo 15.º — Transição de candidaturas",
+   "in_force_from": "2018-02-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13",
+    "Alterado pelo/a Artigo 9.º do/a [Portaria n.º 249/2016 - Diário da República n.º 178/2016, Série I de 2016-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/249-2016-75341997), em vigor a partir de 2016-09-16, produz efeitos a partir de 2018-06-01"
+   ],
+   "markdown": "###### Artigo 15.º — Transição de candidaturas\n\n1 - As candidaturas que tenham obtido classificação igual ou superior à pontuação mínima necessária para seleção das operações e para as quais não tenha existido dotação orçamental, transitam para o período de apresentação de candidaturas seguinte, no qual são analisadas e hierarquizadas de acordo com os critérios de seleção desse novo período.\n\n2 - A transição referida no número anterior é aplicável em dois períodos consecutivos, findos os quais a candidatura é indeferida.\n\n> Revogado pelo/a Artigo 28.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13\n\n> Alterado pelo/a Artigo 9.º do/a [Portaria n.º 249/2016 - Diário da República n.º 178/2016, Série I de 2016-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/249-2016-75341997), em vigor a partir de 2016-09-16, produz efeitos a partir de 2018-06-01"
+  },
+  "117127683": {
+   "fragment_id": "70485695",
+   "type": 11,
+   "heading": "Artigo 23.º — Reduções e exclusões",
+   "in_force_from": "2018-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13"
+   ],
+   "markdown": "###### Artigo 23.º — Reduções e exclusões\n\n1 - Os apoios objeto da presente portaria estão sujeitos às reduções e exclusões previstas no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, e demais legislação aplicável.\n\n2 - A aplicação de reduções e exclusões dos apoios concedidos ou a conceder, em caso de incumprimento das obrigações dos beneficiários previstas no artigo 10.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, é efetuada de acordo com o previsto no anexo VI à presente portaria, da qual faz parte integrante.\n\n3 - O incumprimento dos critérios de elegibilidade constitui fundamento suscetível de determinar a devolução da totalidade dos apoios recebidos.\n\n4 - A omissão ou prestação de falsas informações, para efeitos da aplicação dos critérios de seleção nas condições definidas no aviso de abertura do concurso, determina a exclusão da candidatura ou a anulação administrativa da decisão de aprovação e respetiva devolução da totalidade dos apoios recebidos.\n\n5 - À recuperação dos montantes indevidamente recebidos, designadamente por incumprimento dos critérios de elegibilidade ou de obrigações dos beneficiários, aplica-se o disposto nos artigos 7.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável.\n\n> Alterado pelo/a Artigo 16.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13"
+  },
+  "117127685": {
+   "fragment_id": "70485681",
+   "type": 11,
+   "heading": "Artigo 10.º — Obrigações dos beneficiários",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+   ],
+   "markdown": "###### Artigo 10.º — Obrigações dos beneficiários\n\n1 - Os beneficiários dos apoios previstos no presente capítulo, sem prejuízo das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, são obrigados a:\n\na) Executar as ações previstas no Programa de Conservação Genética Animal ou no Programa de Melhoramento Genético Animal, conforme o previsto na alínea a) do artigo 6.º;\n\nb) Proceder à publicitação dos apoios que lhes forem atribuídos, nos termos da legislação comunitária aplicável e das orientações técnicas do PDR 2020;\n\nc) Manter um sistema de contabilidade organizada ou simplificada nos termos da legislação em vigor;\n\nd) Assegurar a disponibilização da informação relevante para as bases de dados oficiais, designadamente, carregar ou atualizar a informação relativa à identificação dos animais constantes no respetivo livro genealógico ou registo fundador e das ações realizadas sobre estes, no âmbito do Sistema Nacional de Informação e Registo Animal (SNIRA) e do registo nacional de equídeos (RNE), na medida em que estas funcionalidades sejam disponibilizadas;\n\ne) Elaborar um relatório anual de execução do Programa de Conservação Genética Animal ou do Programa de Melhoramento Genético Animal, em conformidade com o artigo 18.º;\n\nf) Rever e adaptar o Programa de Conservação Genética Animal ou o Programa de Melhoramento Genético Animal, até 28 de fevereiro de cada ano, se ocorrerem alterações nos critérios de elegibilidade, em função dos graus de risco constantes no anexo IV da presente portaria;\n\ng) Permitir o acesso aos locais de realização das operações e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado;\n\nh) Conservar os documentos relativos à realização da operação, sob a forma de documentos originais ou de cópias autenticadas, em suporte digital, quando legalmente admissível, ou em papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PDR, consoante a fase em que o encerramento da operação tenha sido incluído, ou pelo prazo fixado na legislação nacional aplicável ou na legislação específica em matéria de auxílios de Estado, se estas fixarem prazo superior;\n\ni) Dispor de um processo relativo à operação, preferencialmente em suporte digital, com toda a documentação relacionada com a mesma devidamente organizada, incluindo o suporte de um sistema de contabilidade para todas as transações referentes à operação;\n\nj) Assegurar o fornecimento de elementos necessários às atividades de monitorização e de avaliação das operações e participar em processos de inquirição relacionados com as mesmas;\n\nk) Adotar comportamentos que respeitem os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços;\n\nl) Assegurar o acesso, por parte dos organismos com competência na matéria, à base de dados das entidades que detenham o livro de registo genealógico, sendo que, no caso da raça bovina Frísia, a obrigação recai sobre a entidade que detém a base de dados nacional da raça;\n\nm) Manter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, a qual é aferida em cada pedido de pagamento;\n\nn) Comprovar o início da execução física da operação no prazo definido para o efeito, através da apresentação, no mesmo prazo, de pedido de pagamento, exceto no caso de operação inteiramente sujeita a custos simplificados.\n\n2 - Em casos excecionais e devidamente justificados, o gestor pode autorizar a prorrogação do prazo estabelecido na alínea n) do número anterior.\n\n> Alterado pelo/a Artigo 9.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+  },
+  "117127686": {
+   "fragment_id": "70485691",
+   "type": 11,
+   "heading": "Artigo 19.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170/2016 - Diário da República n.º 114/2016, Série I de 2016-06-16](https://diariodarepublica.pt/dr/detalhe/portaria/170-2016-74711477), em vigor a partir de 2016-06-17",
+    "Rectificado pelo/a [Declaração de Retificação n.º 42/2015 - Diário da República n.º 185/2015, Série I de 2015-09-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/42-2015-70348605), em vigor a partir de 2015-09-02"
+   ],
+   "markdown": "###### Artigo 19.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n2 - As entidades beneficiárias podem apresentar cinco pedidos de pagamento anuais, reportando-se às ações efetivamente realizadas, de acordo com o programa previamente aprovado.\n\n3 - Pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor das ações do programa aprovado, no máximo até 20 % da despesa pública aprovada, mediante a constituição de garantia a favor do IFAP, I. P., correspondente a 100 % do montante do adiantamento.\n\n4 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias a contar da data de conclusão da operação, sob pena do seu indeferimento.\n\n5 - Em casos excecionais e devidamente justificados, o IFAP, I. P. pode autorizar a prorrogação do prazo estabelecido no número anterior.\n\n6 - No ano do encerramento do PDR 2020, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt,e no portal do PDR 2020, em www.pdr-2020.pt..\n\n> Alterado pelo/a Artigo 9.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170/2016 - Diário da República n.º 114/2016, Série I de 2016-06-16](https://diariodarepublica.pt/dr/detalhe/portaria/170-2016-74711477), em vigor a partir de 2016-06-17\n\n> Rectificado pelo/a [Declaração de Retificação n.º 42/2015 - Diário da República n.º 185/2015, Série I de 2015-09-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/42-2015-70348605), em vigor a partir de 2015-09-02"
+  },
+  "117127687": {
+   "fragment_id": "70485695",
+   "type": 11,
+   "heading": "Artigo 23.º — Reduções e exclusões",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27",
+    "Alterado pelo/a Artigo 16.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13"
+   ],
+   "markdown": "###### Artigo 23.º — Reduções e exclusões\n\n1 - Os apoios objeto da presente portaria estão sujeitos às reduções e exclusões previstas no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, e demais legislação aplicável.\n\n2 - A aplicação de reduções e exclusões dos apoios concedidos ou a conceder, em caso de incumprimento das obrigações dos beneficiários previstas no artigo 10.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, é efetuada de acordo com o previsto no anexo VI à presente portaria, da qual faz parte integrante.\n\n3 - O incumprimento dos critérios de elegibilidade constitui fundamento suscetível de determinar a devolução da totalidade dos apoios recebidos.\n\n4 - A omissão ou prestação de falsas informações, para efeitos da aplicação dos critérios de seleção nas condições definidas no aviso de abertura do concurso, determina a exclusão da candidatura ou a anulação administrativa da decisão de aprovação e respetiva devolução da totalidade dos apoios recebidos.\n\n5 - À recuperação dos montantes indevidamente recebidos, designadamente por incumprimento dos critérios de elegibilidade ou de obrigações dos beneficiários, aplica-se o disposto nos artigos 7.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável.\n\n6 - A não comprovação do início da execução física da operação no prazo previsto na alínea n) do n.º 1 do artigo 10.º ou no n.º 2 do artigo 10.º, quando aplicável, constitui fundamento suscetível de determinar a revogação do apoio à operação.\n\n> Alterado pelo/a Artigo 9.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27\n\n> Alterado pelo/a Artigo 16.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13"
+  }
+ }
+}

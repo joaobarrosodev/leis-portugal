@@ -1,0 +1,113 @@
+---
+schema_version: '1.0'
+id: pt:dre:278175:por
+title: Resolução da Assembleia da República n.º 35/2011
+short_title: null
+summary: Recomenda ao Governo a reabertura urgente das Termas de Vizela
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 35/2011
+official_date: null
+publication_date: '2011-03-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 50/2011, Série I de 2011-03-11
+  number: '50'
+  series: I
+  supplement: null
+  pages: 1381 - 1381
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/03/05000/0138101381.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/35/2011/03/11/p/dre/pt/html
+  oj: null
+  dre: '278175'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/35-2011-278175
+  internal: pt:dre:278175:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/35-2011-278175
+  metadata_url: https://data.dre.pt/eli/resolassrep/35/2011/03/11/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/35-2011-278175
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:29:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0a3a6aa3ce4ffa9438d00c1f6b327b375dfc92a01e0cad39ac36c0d12dcb38c3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:29:16Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Estabelecimento Termal
+- Recomendação
+- Termalismo
+- Vizela
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:29:16Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 35/2011
+
+Recomenda ao Governo a reabertura urgente das Termas de Vizela
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+
+1 - Acompanhe, através do Ministério da Economia, da Inovação e do Desenvolvimento, as negociações entre a Companhia dos Banhos de Vizela, S. A., e os possíveis investidores, com vista à reabertura imediata das Termas de Vizela, em todas as suas vertentes, ou seja, balneário, hotel e piscinas, e que o património edificado e toda a envolvente das Termas sejam salvaguardados.
+
+2 - Quando concluída a negociação, que se pretende que possa ocorrer de forma célere, pondere a sua actuação nos seguintes moldes:
+
+a) Em caso de acordo entre as partes, garanta que rapidamente se proceda à assinatura do contrato de concessão que substitui o antigo alvará e que põe fim a uma longa querela entre o actual concessionário e a administração central. Tal contrato deve, necessariamente, conter obrigações que perspectivem uma ampla remodelação do estabelecimento termal das Caldas de Vizela, salvaguardando, assim, o interesse público e o desenvolvimento local e cláusulas que salvaguardem uma possível suspensão da exploração;
+
+b) Em caso de recusa de assinatura por parte do concessionário, proceda à extinção da concessão e, consequentemente, à expropriação por utilidade pública de todo o edificado pertencente a esta companhia, no que se refere exclusivamente ao balneário termal, e se proceda a novo concurso, tendo sempre como objectivo final que as Termas de Vizela entrem em funcionamento num prazo razoável.
+
+3 - Para este propósito, estude a possibilidade de estabelecer parcerias com o município de Vizela e outras entidades públicas, designadamente com o Ministério da Economia, da Inovação e do Desenvolvimento e com o Turismo de Portugal, I. P., de forma que a reabertura das Termas de Vizela seja efectuada no menor espaço de tempo possível.
+
+4 - Acompanhe as possíveis candidaturas, por parte do concessionário e investidores a fundos comunitários, nomeadamente no contexto do Quadro de Referência Estratégico Nacional (QREN) - para a área do turismo, a um projecto de requalificação e desenvolvimento das actuais instalações e equipamentos das Termas de Vizela.
+
+5 - Quer as Termas sejam reabertas sob gestão da actual concessionária quer sob gestão de uma nova empresa concessionária, seja dada prioridade, em termos de contratação de pessoal, aos ex-trabalhadores da Companhia dos Banhos de Vizela, S. A.
+
+6 - No quadro dos organismos competentes do Estado, seja aferida a possibilidade de determinar a implementação de todas as medidas necessárias à salvaguarda do património arqueológico existente na área das Termas e parque envolvente.
+
+7 - Com o contributo da autarquia se estude a possibilidade de criação de um espaço museológico para exposição e exploração da área como factor de criação de turismo histórico e identidade local indo de encontro a uma sugestão dos subscritores da petição popular «Vamos salvar as Termas de Vizela».
+
+Aprovada em 11 de Fevereiro de 2011.
+
+O Presidente da Assembleia da República, Jaime Gama.

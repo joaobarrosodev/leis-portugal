@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31990L0387:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990L0387-20030725",
+ "dre_path": null,
+ "source_lastmod": "2003-07-25",
+ "versions": [
+  {
+   "date": "2003-07-25",
+   "future": false,
+   "celex": "01990L0387-20030725",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "160c06836da7ea7e"
+   ]
+  }
+ ],
+ "fragments": {
+  "160c06836da7ea7e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1990L0387 — PT — 25.07.2003 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31990L0387) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31990L0387) [de 28 de Junho de 1990](http://publications.europa.eu/resource/celex/31990L0387) [relativa à realização do mercado interno dos serviços de telecomunicações mediante a oferta de uma rede aberta de telecomunicações](http://publications.europa.eu/resource/celex/31990L0387) [(90/387/CEE)](http://publications.europa.eu/resource/celex/31990L0387) (JO L 192, 24.7.1990, p.1)\n\n**revogado por:**\n\n- [Directiva 2002/21/CE do Parlamento Europeu e do Conselho de 7 de Março de 2002](http://publications.europa.eu/resource/celex/32002L0021) — L 108 — 33 — 24.4.2002"
+  }
+ }
+}

@@ -1,0 +1,758 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:571030:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-66442974",
+ "dre_path": "/dr/detalhe/decreto-lei/11-2014-571030",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-01-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "66459684",
+    "66459685",
+    "66459686",
+    "66459687",
+    "66459688",
+    "66459689",
+    "66459690",
+    "66459691",
+    "66459692",
+    "66459693",
+    "66459694",
+    "66459695",
+    "66459696",
+    "66459697",
+    "66459698",
+    "66459699",
+    "66459700",
+    "66459701",
+    "66459702",
+    "66459703",
+    "66459704",
+    "66459705",
+    "66459706",
+    "66459707",
+    "66459708",
+    "66459709",
+    "66459710",
+    "66459711",
+    "66459712",
+    "66459713",
+    "66459714",
+    "66459715",
+    "66459716",
+    "66459717",
+    "66459718",
+    "66459719",
+    "66459720",
+    "66459721",
+    "66459722",
+    "66459723",
+    "66459724",
+    "66459725",
+    "66459726",
+    "66459727",
+    "66459728",
+    "66459729",
+    "66459730",
+    "66459731",
+    "66459732"
+   ]
+  },
+  {
+   "date": "2014-05-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25344768:por",
+     "title": "Decreto-Lei n.º 78/2014",
+     "published": "2014-05-14",
+     "dre_path": "/dr/detalhe/decreto-lei/78-2014-25344768"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 23.º-B",
+    "Altera Artigo 6.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 32.º"
+   ],
+   "fragments": [
+    "66459684",
+    "66459685",
+    "66459686",
+    "66459687",
+    "66459688",
+    "66459689",
+    "66459690",
+    "66459691",
+    "66459734",
+    "66459693",
+    "66459694",
+    "66459695",
+    "66459696",
+    "66459697",
+    "66459698",
+    "66459699",
+    "66459700",
+    "66459701",
+    "66459702",
+    "66459703",
+    "66459704",
+    "66459705",
+    "66459706",
+    "66459707",
+    "66459735",
+    "66459709",
+    "66459710",
+    "66459711",
+    "66459712",
+    "66459713",
+    "66459736",
+    "66459714",
+    "66459715",
+    "66459716",
+    "66459717",
+    "66459718",
+    "66459719",
+    "66459720",
+    "66459721",
+    "66459722",
+    "66459723",
+    "66459737",
+    "66459725",
+    "66459726",
+    "66459727",
+    "66459728",
+    "66459729",
+    "66459730",
+    "66459733",
+    "66459731",
+    "66459732"
+   ]
+  },
+  {
+   "date": "2014-05-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25343697:por",
+     "title": "Decreto-Lei n.º 82/2014",
+     "published": "2014-05-20",
+     "dre_path": "/dr/detalhe/decreto-lei/82-2014-25343697"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 31.º"
+   ],
+   "fragments": [
+    "66459684",
+    "66459685",
+    "66459686",
+    "66459687",
+    "66459688",
+    "66459689",
+    "66459690",
+    "66459691",
+    "66459734",
+    "66459693",
+    "66459694",
+    "66459695",
+    "66459696",
+    "66459697",
+    "66459698",
+    "66459771",
+    "66459700",
+    "66459701",
+    "66459702",
+    "66459772",
+    "66459704",
+    "66459705",
+    "66459706",
+    "66459707",
+    "66459735",
+    "66459709",
+    "66459710",
+    "66459711",
+    "66459712",
+    "66459713",
+    "66459736",
+    "66459714",
+    "66459715",
+    "66459716",
+    "66459717",
+    "66459718",
+    "66459719",
+    "66459720",
+    "66459721",
+    "66459722",
+    "66459773",
+    "66459737",
+    "66459725",
+    "66459726",
+    "66459727",
+    "66459728",
+    "66459729",
+    "66459730",
+    "66459733",
+    "66459731",
+    "66459732"
+   ]
+  },
+  {
+   "date": "2015-01-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66325238:por",
+     "title": "Decreto-Lei n.º 14/2015",
+     "published": "2015-01-26",
+     "dre_path": "/dr/detalhe/decreto-lei/14-2015-66325238"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 31.º"
+   ],
+   "fragments": [
+    "66459684",
+    "66459685",
+    "66459686",
+    "66459687",
+    "66459688",
+    "66459689",
+    "66459690",
+    "66459691",
+    "66459734",
+    "66459693",
+    "66459694",
+    "66459695",
+    "66459696",
+    "66459697",
+    "66459698",
+    "66459771",
+    "66459700",
+    "66459701",
+    "66459702",
+    "66459772",
+    "66459704",
+    "66459705",
+    "66459706",
+    "66459707",
+    "66459735",
+    "66459709",
+    "66459710",
+    "66459711",
+    "66459712",
+    "66459713",
+    "66459736",
+    "66459714",
+    "66459715",
+    "66459716",
+    "66459717",
+    "66459718",
+    "66459719",
+    "66459720",
+    "66459721",
+    "66459722",
+    "66462818",
+    "66459737",
+    "66459725",
+    "66459726",
+    "66459727",
+    "66459728",
+    "66459729",
+    "66459730",
+    "66459733",
+    "66459731",
+    "66459732"
+   ]
+  }
+ ],
+ "fragments": {
+  "66459684": {
+   "fragment_id": "66459875",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 11/2014\n\nde 22 de janeiro\n\nO Decreto-Lei n.º 86-A/2011, de 12 de julho, estabeleceu, designadamente, a estrutura e a orgânica do XIX Governo Constitucional e as competências dos respetivos membros, matérias que sofreram substanciais alterações com a entrada em vigor dos Decretos-Leis n.os 60/2013, de 9 de maio, e 119/2013, de 21 de agosto.\n\nDe entre as alterações que tiveram maior impacto na estrutura do Governo salienta-se, desde logo, a integração na Presidência do Conselho de Ministros do Instituto Financeiro para o Desenvolvimento Regional, I.P., e do Instituto de Gestão do Fundo Social Europeu, I.P., do Ministério da Economia e Emprego, do Observatório do Quadro de Referência Estratégico Nacional do Ministério das Finanças, organismos e estrutura que, através do Decreto-Lei n.º 40/2013, de 18 de outubro, foram fundidos na Agência para o Desenvolvimento e Coesão, I.P., e das Comissões de Coordenação e Desenvolvimento Regional do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território.\n\nOutro aspeto relevante prende-se com a transição das áreas do emprego e da energia do Ministério da Economia e do Emprego, respetivamente, para o Ministério da Solidariedade, Emprego e Segurança Social e para o Ministério do Ambiente, Ordenamento do Território e Energia.\n\nFinalmente, o Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território foi cindido em dois departamentos governamentais distintos, o Ministério do Ambiente, Ordenamento do Território e Energia e o Ministério da Agricultura e do Mar.\n\nTorna-se por isso necessário proceder à elaboração de uma Lei Orgânica do Ministério da Economia que reflita as alterações sectoriais verificadas na sequência da aprovação do citado Decreto-Lei n.º 119/2013, de 21 de agosto.\n\nAssim:\n\nNos termos do disposto no n.º 2 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Artigo 12.º, Decreto-Lei n.º 130/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2014-56384882) Determinada a sucessão da DGEG nas atribuições da DGAE nos domínios da energia e da geologia."
+  },
+  "66459685": {
+   "fragment_id": "66459876",
+   "type": 1,
+   "heading": "Capítulo I — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Missão e atribuições"
+  },
+  "66459686": {
+   "fragment_id": "66459877",
+   "type": 11,
+   "heading": "Artigo 1.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Missão\n\nO Ministério da Economia, abreviadamente designado por ME, é o departamento governamental que tem por missão a conceção, execução e avaliação das políticas de desenvolvimento dirigidas ao crescimento da economia, da competitividade, de inovação, de internacionalização das empresas e de promoção do comércio interno e externo, de promoção e atração de investimento nacional e estrangeiro, bem como as políticas de turismo, de defesa dos consumidores, da construção e do imobiliário, da regulação dos contratos públicos, de infraestruturas, de transportes e de comunicações."
+  },
+  "66459687": {
+   "fragment_id": "66459878",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nNa prossecução da sua missão, são atribuições do ME:\n\na) Conceber, executar e avaliar políticas de fomento do crescimento económico e da competitividade da economia;\n\nb) Promover uma política de desenvolvimento económico socialmente sustentável, orientada para o reforço da competitividade;\n\nc) Incentivar a competitividade da economia, estimulando a produtividade e a inovação e, em articulação com o Ministério dos Negócios Estrangeiros (MNE), promover a internacionalização da economia e a captação de iniciativas de investimento direto estrangeiro;\n\nd) Estimular o comércio, a indústria transformadora e a produção de bens e serviços transacionáveis;\n\ne) Incentivar a reestruturação e a renovação do tecido empresarial;\n\nf) Promover e apoiar a inovação, o empreendedorismo e a internacionalização das empresas;\n\ng) Fomentar o turismo, promovendo a qualidade, a diferenciação, a diversificação, e a autenticidade do serviço e do produto;\n\nh) Assegurar um regime de concorrência aberto e equilibrado;\n\ni) Implementar políticas de transportes, de gestão e de modernização das infraestruturas ferroviárias, rodoviárias, portuárias e aeroportuárias e de comunicações que privilegiem a mobilidade e a competitividade externa;\n\nj) Promover os direitos dos consumidores;\n\nk) Assegurar o planeamento, a coordenação, a gestão e o controlo da aplicação dos instrumentos financeiros nacionais e europeus e outros mecanismos de apoio internacional, bem como garantir a existência de sistemas de monitorização e avaliação, e promover a divulgação pública da informação sobre os indicadores do desenvolvimento, relativamente ao apoio à competitividade, inovação, intervenção em infraestruturas e transportes e às políticas públicas dos sectores tutelados;\n\nl) Desenvolver o quadro normativo, a regulação e a fiscalização dos vários sectores tutelados."
+  },
+  "66459688": {
+   "fragment_id": "66459879",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura orgânica"
+  },
+  "66459689": {
+   "fragment_id": "66459880",
+   "type": 11,
+   "heading": "Artigo 3.º — Estrutura geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estrutura geral\n\nO ME prossegue as suas atribuições através de serviços integrados na administração direta do Estado, de organismos integrados na administração indireta do Estado, de outras estruturas e de entidades integradas no sector público empresarial."
+  },
+  "66459690": {
+   "fragment_id": "66459881",
+   "type": 11,
+   "heading": "Artigo 4.º — Administração direta do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Administração direta do Estado\n\nIntegram a administração direta do Estado, no âmbito do ME, os seguintes serviços centrais:\n\na) A Secretaria-Geral;\n\nb) O Gabinete de Estratégia e Estudos;\n\nc) A Direção-Geral das Atividades Económicas;\n\nd) A Direção-Geral do Consumidor;\n\ne) A Autoridade de Segurança Alimentar e Económica."
+  },
+  "66459691": {
+   "fragment_id": "66459882",
+   "type": 11,
+   "heading": "Artigo 5.º — Administração indireta do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Administração indireta do Estado\n\nProsseguem atribuições do ME, sob superintendência e tutela do respetivo ministro, os seguintes organismos:\n\na) O IAPMEI - Agência para a Competitividade e Inovação, I.P.;\n\nb) O Instituto do Turismo de Portugal, I.P.;\n\nc) O Instituto Português da Qualidade, I.P.;\n\nd) Instituto dos Mercados Públicos, do Imobiliário e da Construção, I.P.;\n\ne) O Instituto Nacional de Aviação Civil, I.P.;\n\nf) O Instituto da Mobilidade e dos Transportes, I.P.;\n\ng) O Laboratório Nacional de Engenharia Civil, I.P.;\n\nh) O Instituto Português de Acreditação, I.P."
+  },
+  "66459692": {
+   "fragment_id": "66459883",
+   "type": 11,
+   "heading": "Artigo 6.º — Entidades administrativas independentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entidades administrativas independentes\n\nSão entidades administrativas independentes de supervisão e regulação no âmbito do ME:\n\na) A Autoridade da Concorrência;\n\nb) O ICP - Autoridade Nacional de Comunicações."
+  },
+  "66459693": {
+   "fragment_id": "66459884",
+   "type": 11,
+   "heading": "Artigo 7.º — Outras estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Outras estruturas\n\nNo âmbito do ME funcionam ainda:\n\na) O Conselho Nacional para o Empreendedorismo e a Inovação;\n\nb) A Comissão Permanente de Apoio ao Investidor;\n\nc) O Gabinete de Prevenção e Investigação de Acidentes com Aeronaves;\n\nd) O Gabinete de Investigação de Segurança e de Acidentes Ferroviários;\n\ne) As entidades regionais de turismo."
+  },
+  "66459694": {
+   "fragment_id": "66459885",
+   "type": 11,
+   "heading": "Artigo 8.º — Sector empresarial do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sector empresarial do Estado\n\nSem prejuízo dos poderes conferidos por lei ao Conselho de Ministros ou ao membro do Governo responsável pela área das finanças, compete ao Ministro da Economia participar no exercício da função acionista do estado e exercer as competências legalmente atribuídas ao ministério sectorial, a respeito das empresas do sector empresarial do Estado nas áreas da economia, empreendedorismo, competitividade, inovação, promoção e atração de investimento estrangeiro, infraestruturas, transportes, comunicações e turismo."
+  },
+  "66459695": {
+   "fragment_id": "66459886",
+   "type": 1,
+   "heading": "Capítulo III — Serviços, organismos e outras estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Serviços, organismos e outras estruturas"
+  },
+  "66459696": {
+   "fragment_id": "66459887",
+   "type": 8,
+   "heading": "Secção I — Serviços da administração direta do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Serviços da administração direta do Estado"
+  },
+  "66459697": {
+   "fragment_id": "66459888",
+   "type": 11,
+   "heading": "Artigo 9.º — Secretaria-Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Secretaria-Geral\n\n1 - A Secretaria-Geral, abreviadamente designada por SG, tem por missão assegurar o apoio técnico e administrativo aos gabinetes dos membros do Governo do ME, e aos demais órgãos e serviços nele integrados, bem como assegurar o exercício das funções de controlo interno.\n\n2 - A SG prossegue, designadamente, as seguintes atribuições:\n\na) Prestar aos gabinetes dos membros do Governo integrados no ME e aos respetivos serviços e organismos, o apoio técnico e administrativo que não se inclua nas atribuições próprias dos demais serviços;\n\nb) Assegurar a prestação centralizada de serviços comuns aos serviços integrados do ME nas seguintes áreas: recursos humanos, formação e aperfeiçoamento profissional, apoio jurídico e contencioso, financeira e orçamental, aquisição de bens e serviços e contratação, logística e patrimonial, documentação e informação, comunicação e relações públicas, inovação e modernização e política de qualidade e tecnologias de informação e comunicação (TIC);\n\nc) Promover a aplicação das medidas de política de organização e de recursos humanos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos do ME na respetiva implementação, bem como emitir pareceres em matéria de organização, recursos humanos e criação ou alteração de mapas de pessoal;\n\nd) Promover o planeamento das atividades do ME, bem como o acompanhamento da programação da atividade dos seus serviços e organismos;\n\ne) Assegurar a gestão orçamental, financeira e patrimonial do ME, bem como a apreciação, o acompanhamento, a avaliação e o controlo da atividade financeira dos serviços, organismos e outras entidades nele integrados;\n\nf) Exercer as funções inerentes enquanto entidade coordenadora do programa orçamental e assegurar a informação financeira e orçamental requerida e de reporte obrigatório a ser prestada por todos os serviços, organismos e outras entidades do ME;\n\ng) Assegurar, através da unidade ministerial de compras, a contratação pública centralizada de bens e serviços e colaborar com os serviços e organismos do ME no levantamento e agregação de necessidades;\n\nh) Efetuar a gestão do património imobiliário, através da unidade de gestão patrimonial, procedendo à recolha, tratamento, conservação e comunicação dos bens afetos, assegurando respetivamente a otimização dos custos globais de ocupação e funcionamento e a sua manutenção;\n\ni) Assegurar a coordenação da área das TIC do ME, no âmbito do plano global estratégico de racionalização e redução de custos com utilização das TIC na Administração Pública;\n\nj) Assegurar a implementação das políticas relacionadas com as TIC do ME, garantindo a coordenação, a execução e a avaliação das iniciativas de informatização e de atualização tecnológica dos respetivos serviços e organismos, assegurando uma gestão eficaz e racional dos recursos disponíveis;\n\nk) Estudar, programar e coordenar a aplicação de medidas tendentes a promover a inovação, modernização e a política de qualidade, no âmbito do ME, sem prejuízo das atribuições cometidas por lei a outros serviços, bem como assegurar a articulação com os serviços e organismos com atribuições interministeriais nestas áreas;\n\nl) Emitir pareceres e informações jurídicas, colaborar na preparação e na apreciação de projetos de diplomas e de outros atos normativos, acompanhar tecnicamente procedimentos administrativos, assegurar o apoio jurídico e o patrocínio contencioso, em especial no domínio do contencioso administrativo, e instruir processos de inquérito, disciplinares, ou outros de natureza similar;\n\nm) Assegurar as funções de auditoria, inspeção e controlo interno no âmbito do ME, através da apreciação da legalidade e regularidade dos atos praticados pelos serviços e organismos do ME, ou sujeitos à tutela do respetivo ministro, bem como avaliar a sua gestão e os seus resultados, através do controlo de auditoria técnica, de desempenho e financeiro.\n\n3 - A SG é dirigida por um secretário-geral, coadjuvado por um secretário-geral-adjunto, cargos de direção superior de 1.º e 2.º graus, respetivamente."
+  },
+  "66459698": {
+   "fragment_id": "66459889",
+   "type": 11,
+   "heading": "Artigo 10.º — Gabinete de Estratégia e Estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Gabinete de Estratégia e Estudos\n\n1 - O Gabinete de Estratégia e Estudos, abreviadamente designado por GEE, tem por missão prestar apoio técnico aos membros do Governo na definição de políticas e no planeamento estratégico e operacional, apoiar os diferentes organismos do ME, através do desenvolvimento de estudos e da recolha e tratamento de informação, garantindo a observação e avaliação global de resultados obtidos.\n\n2 - O GEE prossegue, designadamente, as seguintes atribuições:\n\na) Prestar apoio técnico em matéria de definição das políticas e dos objetivos do ME e contribuir para a conceção e a execução da respetiva política legislativa;\n\nb) Apoiar a definição do planeamento estratégico do ME, das empresas e organismos tutelados, nomeadamente em matéria das grandes prioridades financeiras, bem como acompanhar a respetiva execução;\n\nc) Conceber metodologias de avaliação dos instrumentos de política, de modo a monitorizar a sua execução;\n\nd) Elaborar estudos prospetivos de âmbito nacional, sectorial e regional, desenvolvendo competências nas áreas das metodologias prospetivas e de cenarização, identificando e acompanhando as tendências de longo prazo nas áreas de intervenção do ME;\n\ne) Garantir a gestão integral do ciclo de investimentos a cargo do ME relativos a infraestruturas, nas fases de programação, previsão orçamental, acompanhamento e avaliação;\n\nf) Garantir a produção de informação adequada, designadamente estatística, no quadro do sistema estatístico nacional, nas áreas de intervenção do ME;\n\ng) Assessorar o ME relativamente a questões de natureza ambiental, designadamente no âmbito da matéria de infraestruturas.\n\n3 - O GEE é dirigido por um diretor, coadjuvado por um subdiretor, cargos de direção superior de 1.º e 2.º graus, respetivamente."
+  },
+  "66459699": {
+   "fragment_id": "66459890",
+   "type": 11,
+   "heading": "Artigo 11.º — Direção-Geral das Atividades Económicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direção-Geral das Atividades Económicas\n\n1 - A Direção-Geral das Atividades Económicas, abreviadamente designada por DGAE, tem por missão a promoção e o desenvolvimento de um ambiente institucional mais favorável à competitividade e à inovação empresarial através do apoio à conceção, execução, divulgação e avaliação de políticas dirigidas às atividades industriais, do comércio, do turismo e dos serviços, assegurando a coordenação das relações internacionais no âmbito de atuação do ME.\n\n2 - A DGAE prossegue, designadamente, as seguintes atribuições:\n\na) Contribuir para a definição, articulação e dinamização das políticas sectoriais relativas à indústria, ao comércio e aos serviços, acompanhando a execução das medidas delas decorrentes;\n\nb) Potenciar a criação de condições favoráveis ao desenvolvimento do empreendedorismo, da competitividade, da inovação, da sustentabilidade e da internacionalização das empresas, sem prejuízo das competências próprias de outros serviços e organismos;\n\nc) Promover a articulação da política de empresa, visando o crescimento da produtividade e da competitividade;\n\nd) Contribuir para a definição e execução das políticas que enquadram o relacionamento económico externo, em articulação com o MNE, apoiando o ME em matéria de relações internacionais e de relações com a União Europeia;\n\ne) Coordenar a participação do ME no quadro dos assuntos europeus, designadamente através do acompanhamento dos processos de transposição das diretivas e de execução dos regulamentos, bem como dos processos de pré-contencioso e de contencioso da União Europeia;\n\nf) Coordenar, propor e desenvolver atividades no âmbito da cooperação internacional, europeia e bilateral, designadamente com os países de língua oficial portuguesa, sem prejuízo das competências próprias dos órgãos e serviços do MNE;\n\ng) Assegurar o planeamento do aprovisionamento e gestão das matérias-primas e dos recursos industriais em situação de crise e de guerra e apoiar o Governo em matéria de planeamento civil de emergência, no quadro definido pelo Decreto-Lei n.º 73/2012, de 26 de março;\n\nh) Assegurar, a nível externo, a representação nacional nos grupos de trabalho correspondentes do Comité de Planeamento Civil de Emergência da Organização do Tratado Atlântico Norte (OTAN), em articulação com os serviços competentes do Ministério da Defesa Nacional (MDN).\n\n3 - A DGAE é dirigida por um diretor-geral, coadjuvado por um subdiretor-geral, cargos de direção superior de 1.º e 2.º graus, respetivamente."
+  },
+  "66459700": {
+   "fragment_id": "66459891",
+   "type": 11,
+   "heading": "Artigo 12.º — Direção-Geral do Consumidor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direção-Geral do Consumidor\n\n1 - A Direção-Geral do Consumidor, abreviadamente designada por DGC, tem por missão contribuir para a elaboração, definição e execução da política de defesa do consumidor com o objetivo de assegurar um nível elevado de proteção.\n\n2 - A DGC prossegue, designadamente, as seguintes atribuições:\n\na) Colaborar na definição e execução da política de defesa do consumidor;\n\nb) Promover, por sua iniciativa ou em conjunto com outras entidades públicas ou privadas, a divulgação da informação sobre bens, produtos e serviços suscetíveis de afetar a saúde e o bem-estar dos consumidores, assim como dos direitos de que são titulares, e divulgar os sistemas de informação instituídos pela União Europeia ou por outras organizações internacionais sobre produtos de consumo perigosos;\n\nc) Dinamizar o sistema de defesa do consumidor e a coordenação das entidades públicas e privadas nele abrangidas;\n\nd) Participar na definição do serviço público de rádio e de televisão, em matéria de informação e educação do consumidor;\n\ne) Assegurar o encaminhamento de denúncias e reclamações em matéria de consumo e garantir o acesso dos consumidores aos mecanismos de resolução de conflitos de consumo;\n\nf) Fiscalizar em matéria de publicidade e instruir os respetivos processos de contraordenação e aplicar coimas e sanções acessórias;\n\ng) Assegurar a segurança geral dos produtos não alimentares colocados no mercado e dos serviços prestados aos consumidores que não possuam legislação específica.\n\n3 - Junto da DGC funciona o Conselho Nacional do Consumo, órgão independente de consulta e ação pedagógica e preventiva que exerce a sua ação nas matérias relacionadas com o interesse dos consumidores.\n\n4 - A DGC é dirigida por um diretor-geral, cargo de direção superior de 1.º grau."
+  },
+  "66459701": {
+   "fragment_id": "66459892",
+   "type": 11,
+   "heading": "Artigo 13.º — Autoridade de Segurança Alimentar e Económica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Autoridade de Segurança Alimentar e Económica\n\n1 - A Autoridade de Segurança Alimentar e Económica, abreviadamente designada por ASAE, tem por missão a fiscalização e prevenção do cumprimento da legislação reguladora do exercício das atividades económicas, nos sectores alimentar e não alimentar, bem como a avaliação e comunicação dos riscos na cadeia alimentar, sendo o organismo nacional de ligação com as suas entidades congéneres, a nível europeu e internacional.\n\n2 - A ASAE prossegue, designadamente, as seguintes atribuições:\n\na) Emitir pareceres, recomendações e avisos, nomeadamente em matérias de saúde e bem-estar animal, fitossanidade e organismos geneticamente modificados, relacionadas com a nutrição humana;\n\nb) Caracterizar e avaliar os riscos que tenham impacto na segurança alimentar, colaborando, na área das suas atribuições, com a Autoridade Europeia para a Segurança dos Alimentos;\n\nc) Elaborar e coordenar a execução de planos de monitorização ou vigilância relativos ao cumprimento da legislação alimentar das atividades e produtos, nomeadamente efetuando a colheita de amostras nas fases de transporte, armazenamento e comércio por grosso e a retalho, sem prejuízo das competências de investigação e fiscalização da ASAE nas restantes fases da cadeia alimentar, e das competências da Direção-Geral de Alimentação e Veterinária na elaboração e financiamento de planos de colheitas de amostras que decorram das suas atribuições;\n\nd) Fiscalizar a oferta de produtos e serviços nos termos da lei, bem como o cumprimento das obrigações dos agentes económicos, procedendo à investigação e instrução de processos de contraordenação cuja competência lhe esteja legalmente atribuída;\n\ne) Fiscalizar todos os locais onde se proceda a qualquer atividade industrial, turística, comercial, agrícola, piscatória ou de prestação de serviços;\n\nf) Apoiar as autoridades policiais na prevenção e punição de práticas ilícitas, em matéria de jogos de fortuna e azar, em articulação com o Serviço de Inspeção de Jogos do Instituto do Turismo de Portugal, I.P.;\n\ng) Instruir os processos de contraordenação em matéria económica e aplicar coimas e sanções acessórias.\n\n3 - A ASAE é dirigida por um inspetor-geral, coadjuvado por dois subinspetores-gerais, cargos de direção superior de 1.º e 2.º graus, respetivamente."
+  },
+  "66459702": {
+   "fragment_id": "66459893",
+   "type": 8,
+   "heading": "Secção II — Organismos da administração indireta do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Organismos da administração indireta do Estado"
+  },
+  "66459703": {
+   "fragment_id": "66459894",
+   "type": 11,
+   "heading": "Artigo 14.º — IAPMEI - Agência para a Competitividade e Inovação, I.P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — IAPMEI - Agência para a Competitividade e Inovação, I.P.\n\n1 - O IAPMEI - Agência para a Competitividade e Inovação, I.P., abreviadamente designado por IAPMEI, I.P., tem por missão promover a competitividade e o crescimento empresarial, visando o reforço da inovação, do empreendedorismo e do investimento empresarial, nas empresas que exerçam a sua atividade nas áreas sob tutela do ME, com exceção do sector do turismo, designadamente das empresas de pequena e média dimensão.\n\n2 - O IAPMEI, I.P. prossegue, designadamente, as seguintes atribuições:\n\na) Desenvolver e coordenar todas as atividades conducentes a melhorar a competitividade das empresas, designadamente, das micro, pequenas e médias empresas (PME) ao longo de todo o seu ciclo de existência, funcionando como interlocutor privilegiado na relação das mesmas com o Estado;\n\nb) Promover as condições propícias à captação, realização e acompanhamento de projetos de investimento de origem nacional, independentemente da natureza jurídica do investidor, cujo valor seja inferior a 25 milhões de euros, com exceção de projetos de investimento inferiores a este valor de iniciativa de uma empresa com volume de faturação anual consolidada superior a 75 milhões de euros, ou de uma entidade não empresarial com orçamento anual superior a 40 milhões de euros;\n\nc) Promover o empreendedorismo, nomeadamente o relacionado com a produção de bens e serviços transacionáveis, com elevado grau de inovação e de valor acrescentado;\n\nd) Executar iniciativas e políticas de estímulo à competitividade empresarial, nomeadamente as dirigidas ao diagnóstico e à capacitação das empresas e dos seus recursos, em particular os relacionados com a produção de bens e serviços transacionáveis;\n\ne) Desenvolver estratégias de eficiência coletiva por parte das empresas, especialmente das PME, em articulação com os centros tecnológicos e com outras infraestruturas tecnológicas, com os polos de competitividade e tecnologia e com outros clusters, promovendo atuações concertadas de melhoria de condições de envolvente empresarial e ganhos de escala, nomeadamente de simplificação administrativa e de assistência técnica e tecnológica;\n\nf) Executar iniciativas e programas de estímulo ao desenvolvimento empresarial, nomeadamente as dirigidas ao diagnóstico de oportunidades de inovação, à inovação e ao desenvolvimento tecnológico e à inovação organizacional;\n\ng) Criar as condições favoráveis ao desenvolvimento da Investigação e Desenvolvimento e Inovação (I+D+i) empresarial;\n\nh) Estimular e gerir plataformas de interação entre as empresas e o Sistema Científico e Tecnológico Nacional, potenciando a transferência de conhecimento, tecnologia, investigação e inovação para o tecido empresarial e desenvolver competências e sensibilidades do foro empresarial junto do meio científico, nomeadamente na promoção de criação de spin-offs, startups e na utilização do I&D para o aumento da inovação e competitividade de empresas existentes;\n\ni) Executar iniciativas e políticas de apoio ao investimento empresarial, orientadas para a valorização da oferta nacional de bens e serviços transacionáveis, no âmbito definido na alínea b);\n\nj) Assegurar o enquadramento, promoção e articulação dos instrumentos de dinamização e disseminação das atividades de capital de risco, de titularização de créditos e de garantia mútua, bem como a gestão dos instrumentos de capitalização empresarial, no âmbito do ME;\n\nk) Colaborar com os serviços, organismos e demais entidades competentes da Administração Pública na preparação de legislação relativa à regulação e regulamentação da atividade empresarial, nomeadamente a que tenha impacte nas PME.\n\n3 - O IAPMEI, I.P. é dirigido por um conselho diretivo, constituído por um presidente e dois vogais, podendo ainda integrar um vogal não executivo e não remunerado, ao qual cabe assegurar a representação cruzada entre o conselho diretivo do IAPMEI, I.P., e o conselho de administração da Agência para o Investimento e Comércio Externo de Portugal, E.P.E."
+  },
+  "66459704": {
+   "fragment_id": "66459895",
+   "type": 11,
+   "heading": "Artigo 15.º — Instituto do Turismo de Portugal, I.P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Instituto do Turismo de Portugal, I.P.\n\n1 - O Instituto do Turismo de Portugal, I.P., abreviadamente designado por Turismo de Portugal, I.P., tem por missão o apoio ao investimento no sector do turismo, a qualificação e desenvolvimento das infraestruturas turísticas, a coordenação da promoção interna e externa de Portugal como destino turístico e o desenvolvimento da formação de recursos humanos do sector, bem como a regulação e fiscalização dos jogos de fortuna e azar.\n\n2 - O Turismo de Portugal, I.P., prossegue, designadamente, as seguintes atribuições:\n\na) Apoiar o ME na formulação das políticas de turismo, e acompanhar a atividade das organizações internacionais, propondo medidas e ações de diversificação, qualificação e melhoria da oferta turística nacional;\n\nb) Prestar apoio técnico e financeiro às entidades públicas e privadas, em especial às empresas do sector, e assegurar a gestão dos respetivos sistemas de incentivos, bem como aprovar e acompanhar o investimento público de interesse turístico promovido pelas autarquias locais, através da afetação das contrapartidas das zonas de jogo;\n\nc) Coordenar a promoção de Portugal como destino turístico, no plano interno e externo, e garantir a estruturação, o planeamento e a execução das ações de promoção turística, quer as diretamente organizadas, quer as desenvolvidas ao abrigo de mecanismos de descentralização e contratualização;\n\nd) Incentivar e desenvolver a política de formação de recursos humanos do turismo e a respetiva investigação técnico-pedagógica, bem como coordenar, executar e reconhecer os cursos e as ações de formação profissional para essa área, além de certificar a aptidão profissional para o exercício das profissões turísticas;\n\ne) Acompanhar o desenvolvimento da oferta turística nacional;\n\nf) Apoiar o ME em matéria de jogos de fortuna e azar;\n\ng) Fiscalizar a exploração dos jogos de fortuna e azar concessionados pelo Estado;\n\nh) Apoiar tecnicamente e colaborar com as autoridades e agentes policiais na prevenção e punição de práticas ilícitas em matéria de jogos de fortuna e azar.\n\n3 - O Turismo de Portugal, I.P., integra o Serviço de Inspeção de Jogos, com autonomia técnica e funcional.\n\n4 - O Turismo de Portugal, I.P., é dirigido por um conselho diretivo, constituído por um presidente, um vice-presidente e dois vogais."
+  },
+  "66459705": {
+   "fragment_id": "66459896",
+   "type": 11,
+   "heading": "Artigo 16.º — Instituto Português da Qualidade, I.P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Instituto Português da Qualidade, I.P.\n\n1 - O Instituto Português da Qualidade, I.P., abreviadamente designado por IPQ, I.P., tem por missão a coordenação do sistema português da qualidade e de outros sistemas de qualificação regulamentar que lhe forem conferidos por lei, a promoção e a coordenação de atividades que visem contribuir para demonstrar a credibilidade da ação dos agentes económicos, bem como o desenvolvimento das atividades necessárias à sua função de laboratório nacional de metrologia.\n\n2 - O IPQ, I.P., prossegue, designadamente, as seguintes atribuições:\n\na) Coordenar e desenvolver o Sistema Português da Qualidade, numa perspetiva de integração de todas as componentes relevantes para a melhoria da qualidade de produtos, de serviços e de sistemas da qualidade e da qualificação de pessoas;\n\nb) Promover a elaboração de normas, garantindo a coerência e atualidade do acervo normativo nacional e promover o ajustamento de legislação nacional sobre produtos às normas da União Europeia;\n\nc) Gerir o sistema de notificação prévia de regulamentos técnicos e de normas, no âmbito da União Europeia e da Organização Mundial do Comércio;\n\nd) Assegurar a implementação, articulação e inventariação de cadeias hierarquizadas de padrões de medida e promover o estabelecimento de redes de laboratórios metrológicos acreditados.\n\n3 - A definição das orientações estratégicas e a fixação de objetivos para o Instituto Português da Qualidade, I.P., no domínio da metrologia científica, bem como o acompanhamento da sua execução, são articulados entre os membros do Governo responsáveis pelas áreas da economia e da ciência.\n\n4 - O IPQ, I.P., é dirigido por um conselho diretivo, constituído por um presidente e dois vogais."
+  },
+  "66459706": {
+   "fragment_id": "66459897",
+   "type": 11,
+   "heading": "Artigo 17.º — Instituto dos Mercados Públicos, do Imobiliário e da Construção, I.P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Instituto dos Mercados Públicos, do Imobiliário e da Construção, I.P.\n\n1 - O Instituto dos Mercados Públicos, do Imobiliário e da Construção, I.P., abreviadamente designado por IMPIC, I.P., tem por missão regular e fiscalizar o sector da construção e do imobiliário, dinamizar, supervisionar e regulamentar as atividades desenvolvidas neste sector, produzir informação estatística e análises sectoriais e assegurar a atuação coordenada dos organismos estatais no sector, bem como a regulação dos contratos públicos.\n\n2 - O IMPIC, I.P., prossegue, designadamente, as seguintes atribuições:\n\na) Qualificar as empresas do sector da construção e do imobiliário para as quais o acesso e exercício da sua atividade seja regulado;\n\nb) Formular ao Governo propostas legislativas e regulamentares relacionadas com os contratos públicos, incluindo os respeitantes à transposição de diretivas europeias;\n\nc) Desenvolver ações de fiscalização e inspeção, para verificação das condições das empresas para o exercício da atividade, instaurando processos sancionatórios quando tal se justifique;\n\nd) Produzir informação estatística, no quadro do sistema estatístico nacional, e análises sectoriais da área da construção, do imobiliário e dos contratos públicos;\n\ne) Dinamizar iniciativas para melhoria da competitividade e sustentabilidade das empresas do sector, tendo em vista a defesa do consumidor;\n\nf) Assegurar uma atuação coordenada dos organismos estatais que atuem no sector da construção, imobiliário e dos contratos públicos.\n\n3 - A definição das orientações estratégicas e a fixação de objetivos para o IMPIC, I.P., nas matérias respeitantes à habitação e à reabilitação urbana, bem como o acompanhamento da sua execução, são articulados entre os membros do Governo responsáveis pelas áreas da economia, das finanças, do ambiente e do ordenamento do território.\n\n4 - O IMPIC, I.P., é dirigido por um conselho diretivo, constituído por um presidente e dois vogais."
+  },
+  "66459707": {
+   "fragment_id": "66459898",
+   "type": 11,
+   "heading": "Artigo 18.º — Instituto Nacional de Aviação Civil, I.P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Instituto Nacional de Aviação Civil, I.P.\n\n1 - O Instituto Nacional de Aviação Civil, I.P., abreviadamente designado por INAC, I.P., tem por missão regular e fiscalizar o sector da aviação civil e supervisionar e regulamentar as atividades desenvolvidas neste sector.\n\n2 - O INAC, I.P., prossegue, designadamente, as seguintes atribuições:\n\na) Contribuir para a definição de políticas para a aviação civil;\n\nb) Assegurar o bom ordenamento das atividades no âmbito da aviação civil, regulando e fiscalizando as condições do seu exercício e promovendo a proteção dos respetivos utentes;\n\nc) Regular a economia das atividades aeroportuárias, de navegação aérea e de transporte aéreo e de outras no âmbito da aviação civil;\n\nd) Desenvolver sistemas de observação dos mercados de transporte aéreo;\n\ne) Colaborar na negociação de tratados e acordos internacionais no domínio da aviação civil;\n\nf) Credenciar entidades públicas ou privadas para o exercício de funções técnicas no âmbito das suas atribuições;\n\ng) Assegurar o planeamento da utilização da aviação civil em situação de crise e de guerra e apoiar o Governo em matéria de planeamento civil de emergência, no quadro definido pelo Decreto-Lei n.º 73/2012, de 26 de março;\n\nh) Assegurar, a nível externo, a representação nacional nos grupos de trabalho correspondentes do Comité de Planeamento Civil de Emergência da OTAN, em articulação com os serviços competentes do MDN.\n\n3 - O INAC, I.P., é dirigido por um conselho diretivo, constituído por um presidente e dois vogais."
+  },
+  "66459708": {
+   "fragment_id": "66459899",
+   "type": 11,
+   "heading": "Artigo 19.º — Instituto da Mobilidade e dos Transportes, I.P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Instituto da Mobilidade e dos Transportes, I.P.\n\n1 - O Instituto da Mobilidade e dos Transportes, I.P., abreviadamente designado por IMT, I.P., tem por missão regular, fiscalizar e exercer funções de coordenação e planeamento, bem como supervisionar e regulamentar as atividades desenvolvidas no sector das infraestruturas rodoviárias, no sector dos transportes terrestres e supervisionar e regular a atividade económica do sector dos portos comerciais e transportes marítimos, de modo a satisfazer as necessidades de mobilidade de pessoas e bens, visando, ainda, a promoção da segurança, da qualidade e dos direitos dos utilizadores dos referidos transportes.\n\n2 - O IMT, I.P., prossegue, designadamente, as seguintes atribuições:\n\na) Em matéria de mobilidade e transportes terrestres:\n\ni) Assessorar o Governo em matéria de políticas para o sector dos transportes terrestres;\n\nii) Assegurar, no âmbito das suas atribuições, em ligação com a Autoridade Nacional de Segurança Rodoviária, o cumprimento das melhores práticas em matéria de segurança rodoviária;\n\niii) Promover a definição do quadro normativo e regulamentar de acesso à atividade, à profissão e ao mercado, e garantindo a sua aplicação;\n\niv) Regular as atividades de transporte terrestre e complementares, incluindo a logística;\n\nv) Certificar profissionais dos transportes terrestres e promover a habilitação dos condutores, reconhecer, licenciar e supervisionar as entidades formadoras e examinadoras sujeitas à sua supervisão, definir as políticas de formação e garantir e fiscalizar a sua aplicação;\n\nvi) Aprovar, homologar e certificar veículos e equipamentos afetos aos sistemas de transporte terrestre, garantindo os padrões técnicos e de segurança exigidos, reconhecendo, licenciando e supervisionando as entidades intervenientes nos processos de certificação e inspeção;\n\nvii) Assegurar a gestão dos registos nacionais dos transportes terrestres e desenvolver atividades de observação, planeamento e inovação, propondo medidas de apoio específicas e gerindo a aplicação das que forem aprovadas;\n\nviii) Assegurar o planeamento da utilização dos transportes terrestres e fluviais em situação de crise e de guerra e apoiar o Governo em matéria de planeamento civil de emergência, no quadro definido pelo Decreto-Lei n.º 73/2012, de 26 de março;\n\nix) Assegurar, a nível externo, a representação nacional nos grupos de trabalho correspondentes do Comité de Planeamento Civil de Emergência da OTAN, em articulação com os serviços competentes do MDN.\n\nb) Em matéria relativa ao sector dos portos comerciais e transportes marítimos:\n\ni) Contribuir para a definição de políticas para o sector dos portos comerciais e transportes marítimos na vertente económica;\n\nii) Promover, em articulação com o membro do Governo responsável pela área do mar, a elaboração, avaliação, acompanhamento e revisão dos instrumentos de ordenamento para o sector marítimo-portuário;\n\niii) Supervisionar o cumprimento de objetivos económicos, financeiros e orçamentais traçados para o sector marítimo-portuário, exercendo a coordenação do seu planeamento e desenvolvimento estratégico;\n\niv) Regular a economia das atividades comerciais no sector marítimo-portuário, designadamente de serviços de transporte marítimo e de exploração portuária, autorizando, licenciando e fiscalizando as entidades do sector;\n\nv) Estudar e propor normas e critérios económicos aplicáveis ao sector comercial marítimo-portuário e assegurar o cumprimento das normas nacionais e internacionais aplicáveis ao sector;\n\nvi) Contribuir para a definição e atualização das políticas de planeamento civil de emergência, na área do transporte marítimo;\n\nvii) Regulamentar a atividade das entidades que atuam no sector marítimo-portuário, no âmbito das suas atribuições, designadamente aprovando normas administrativas de regulamentação do sector, em articulação com o membro do Governo responsável pela área do mar;\n\nc) Em matéria de infraestruturas rodoviárias:\n\ni) Propor medidas que tenham por objeto a gestão da rede de infraestruturas rodoviárias;\n\nii) Promover a definição e aplicação de normas relativas à qualidade e segurança das infraestruturas rodoviárias;\n\niii) Definir as normas regulamentares aplicáveis ao sector e os níveis de desempenho das infraestruturas rodoviárias;\n\niv) Fiscalizar o cumprimento das obrigações pelos operadores do sector;\n\nv) Assegurar e monitorizar a defesa dos direitos e interesses dos utentes;\n\nvi) Promover a arbitragem e os meios de resolução alternativa de litígios no sector.\n\n3 - O IMT, I.P., pode integrar estruturas com funções de regulação técnica e económica nos domínios das atividades ferroviárias, dos portos comerciais e transportes marítimos e das infraestruturas rodoviárias, dotadas de autonomia técnica e independência funcional.\n\n4 - O IMT, I.P., é dirigido por um conselho diretivo, constituído por um presidente e dois vogais."
+  },
+  "66459709": {
+   "fragment_id": "66459900",
+   "type": 11,
+   "heading": "Artigo 20.º — Laboratório Nacional de Engenharia Civil, I.P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Laboratório Nacional de Engenharia Civil, I.P.\n\n1 - O Laboratório Nacional de Engenharia Civil, I.P., abreviadamente designado por LNEC, I.P., é o laboratório do Estado que tem por missão empreender, coordenar e promover a investigação científica e o desenvolvimento tecnológico, bem como outras atividades científicas e técnicas necessárias ao progresso e à boa prática da engenharia civil, exercendo a sua ação, fundamentalmente, nos domínios da construção e infraestruturas, da habitação e urbanismo, do ambiente, da gestão dos riscos, da indústria dos materiais, componentes e outros produtos para a construção e em áreas afins, visando a sua atividade, essencialmente, a qualidade e a segurança das obras, a proteção e a reabilitação do património natural e construído, bem como a modernização e a iniciação tecnológicas do sector da construção.\n\n2 - O LNEC, I.P., prossegue, designadamente, as seguintes atribuições:\n\na) Realizar e promover estudos de investigação científica e de desenvolvimento tecnológico nos domínios das infraestruturas, da habitação e urbanismo, do ambiente, da indústria dos materiais, componentes e outros produtos para a construção, bem como em áreas afins;\n\nb) Estudar e observar o comportamento das obras, com vista a informar acerca das suas condições de segurança e de durabilidade;\n\nc) Realizar estudos no âmbito da normalização e regulamentação técnicas;\n\nd) Apreciar materiais, componentes, elementos e processos de construção e conceder homologações e aprovações técnicas;\n\ne) Certificar a qualidade de materiais, componentes e outros produtos da construção;\n\nf) Efetuar ensaios, emitir pareceres e responder a consultas, bem como realizar exames e perícias no âmbito da sua atividade;\n\ng) Cooperar com instituições científicas e tecnológicas afins e participar em atividades de ciência e tecnologia, nacionais e estrangeiras, designadamente participando em consórcios, redes e outras formas de trabalho conjunto;\n\nh) Promover a difusão de conhecimentos e de resultados obtidos em atividades de investigação e de desenvolvimento tecnológico.\n\n3 - A definição das orientações estratégicas e a fixação de objetivos para o LNEC, I.P., bem como o acompanhamento da sua execução, são articulados entre os membros do Governo responsáveis pelas áreas da economia e da ciência.\n\n4 - O LNEC, I.P., é dirigido por um conselho diretivo, constituído por um presidente e dois vogais."
+  },
+  "66459710": {
+   "fragment_id": "66459901",
+   "type": 11,
+   "heading": "Artigo 21.º — Instituto Português de Acreditação, I.P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Instituto Português de Acreditação, I.P.\n\n1 - O Instituto Português de Acreditação, I.P., abreviadamente designado por IPAC, I.P., é organismo nacional de acreditação que tem por fim reconhecer a competência técnica dos agentes de avaliação da conformidade atuantes no mercado, de acordo com referenciais normativos pré-estabelecidos.\n\n2 - O IPAC, I.P., prossegue, designadamente, as seguintes atribuições:\n\na) Reconhecer a competência técnica dos laboratórios de ensaio e calibração, bem como dos organismos de inspeção e de certificação;\n\nb) Garantir a representação de Portugal, designadamente na Cooperação Europeia para a Acreditação, na Cooperação Internacional para a Acreditação de Laboratórios e no Fórum Internacional para a Acreditação;\n\nc) Propor ao Governo o estabelecimento e o funcionamento dos acordos de reconhecimento mútuo, destinados a suportar as relações económicas entre Portugal e os mercados com os quais são efetuadas transações comerciais.\n\n3 - O IPAC, I.P., é dirigido por um conselho diretivo, constituído por um presidente e um vice-presidente."
+  },
+  "66459711": {
+   "fragment_id": "66459902",
+   "type": 8,
+   "heading": "Secção III — Entidades administrativas independentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Entidades administrativas independentes"
+  },
+  "66459712": {
+   "fragment_id": "66459903",
+   "type": 11,
+   "heading": "Artigo 22.º — Autoridade da Concorrência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Autoridade da Concorrência\n\nA Autoridade da Concorrência, adstrita ao ME, é independente no exercício das suas funções, com atribuições em matéria de regulação das regras de promoção e defesa da concorrência, aplicáveis transversalmente a toda a economia, nos termos previstos na lei-quadro das entidades administrativas independentes e nos respetivos estatutos."
+  },
+  "66459713": {
+   "fragment_id": "66459904",
+   "type": 11,
+   "heading": "Artigo 23.º — ICP - Autoridade Nacional de Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — ICP - Autoridade Nacional de Comunicações\n\nO ICP - Autoridade Nacional de Comunicações, abreviadamente designado ICP-ANACOM, adstrita ao ME, é independente no exercício das suas funções, com atribuições em matéria de regulação do sector das comunicações, nos termos previstos na lei-quadro das entidades administrativas independentes e nos respetivos estatutos."
+  },
+  "66459714": {
+   "fragment_id": "66459905",
+   "type": 8,
+   "heading": "Secção IV — Outras estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Outras estruturas"
+  },
+  "66459715": {
+   "fragment_id": "66459906",
+   "type": 11,
+   "heading": "Artigo 24.º — Conselho Nacional para o Empreendedorismo e a Inovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Conselho Nacional para o Empreendedorismo e a Inovação\n\n1 - O Conselho Nacional para o Empreendedorismo e a Inovação, abreviadamente designado por CNEI, tem por missão aconselhar o Governo em matérias relacionadas com a política nacional para o empreendedorismo e para a inovação, competindo-lhe, em particular, a definição das áreas e dos sectores prioritários no âmbito destas políticas, bem como a articulação transversal e interministerial nas áreas da inovação, do empreendedorismo e da investigação aplicada.\n\n2 - A composição, as competências e o modo de funcionamento do CNEI são fixados em diploma próprio."
+  },
+  "66459716": {
+   "fragment_id": "66459907",
+   "type": 11,
+   "heading": "Artigo 25.º — Comissão Permanente de Apoio ao Investidor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Comissão Permanente de Apoio ao Investidor\n\n1 - A Comissão Permanente de Apoio ao Investidor, doravante abreviadamente designada por CPAI, tem por missão o acompanhamento dos projetos de investimento em Portugal, no âmbito do sistema de acompanhamento de projetos de investimento, e o reconhecimento dos projetos de Potencial Interesse Nacional.\n\n2 - A composição, as competências e o modo de funcionamento da CPAI são fixados em diploma próprio."
+  },
+  "66459717": {
+   "fragment_id": "66459908",
+   "type": 11,
+   "heading": "Artigo 26.º — Gabinete de Prevenção e Investigação de Acidentes com Aeronaves",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Gabinete de Prevenção e Investigação de Acidentes com Aeronaves\n\n1 - O Gabinete de Prevenção e Investigação de Acidentes com Aeronaves, abreviadamente designado por GPIAA, tem por missão investigar os acidentes e incidentes com aeronaves civis tripuladas e participar nos programas e políticas de prevenção de acidentes e incidentes, promover estudos e propor medidas de prevenção que visem reduzir a sinistralidade aeronáutica, elaborar e divulgar os relatórios técnicos sobre acidentes e incidentes e assegurar a participação em comissões ou atividades, nacionais ou estrangeiras.\n\n2 - A estrutura, as competências e o modo de funcionamento da GPIAA são fixados em diploma próprio."
+  },
+  "66459718": {
+   "fragment_id": "66459909",
+   "type": 11,
+   "heading": "Artigo 27.º — Gabinete de Investigação de Segurança e de Acidentes Ferroviários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Gabinete de Investigação de Segurança e de Acidentes Ferroviários\n\n1 - O Gabinete de Investigação de Segurança e de Acidentes Ferroviários, abreviadamente designado por GISAF, tem por missão investigar os acidentes, incidentes e ocorrências relacionadas com a segurança dos transportes ferroviários, visando a identificação das respetivas causas, elaborar e divulgar os correspondentes relatórios, promover estudos, propor medidas de prevenção que visem reduzir a sinistralidade ferroviária e assegurar a participação em comissões ou atividades, nacionais ou estrangeiras.\n\n2 - A estrutura, as competências e o modo de funcionamento do GISAF são fixados em diploma próprio."
+  },
+  "66459719": {
+   "fragment_id": "66459910",
+   "type": 11,
+   "heading": "Artigo 28.º — Entidades regionais de turismo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Entidades regionais de turismo\n\nAs entidades regionais de turismo são pessoas coletivas públicas, de natureza associativa, com autonomia administrativa e financeira e património próprio, que têm por missão a valorização e o desenvolvimento das potencialidades turísticas da respetiva área regional de turismo, bem como a gestão integrada dos destinos no quadro do desenvolvimento turístico regional, de acordo com as orientações e diretrizes da política de turismo definida pelo Governo e os planos plurianuais da Administração Central e dos municípios que as integram, regendo-se por diploma próprio."
+  },
+  "66459720": {
+   "fragment_id": "66459911",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições transitórias e finais"
+  },
+  "66459721": {
+   "fragment_id": "66459912",
+   "type": 11,
+   "heading": "Artigo 29.º — Articulações no âmbito do Ministério da Economia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Articulações no âmbito do Ministério da Economia\n\n1 - A definição das orientações estratégicas e a fixação de objetivos para a Agência Nacional para a Qualificação e o Ensino Profissional, I.P., do Ministério da Educação e Ciência, bem como o acompanhamento da sua execução, são articulados pelos membros do Governo responsáveis pelas áreas da educação e ciência e da segurança social com o membro do Governo responsável pela área da economia.\n\n2 - A definição das orientações estratégicas e a fixação de objetivos para o Instituto do Emprego e da Formação Profissional, I.P., do Ministério da Solidariedade, Emprego e da Segurança Social, bem como o acompanhamento da sua execução, são articulados pelo membro do Governo responsável pela área do emprego com o membro do Governo responsável pela área da economia.\n\n3 - A definição das orientações estratégicas e a fixação de objetivos para o Instituto Nacional da Propriedade Industrial, I.P., do Ministério da Justiça, bem como o acompanhamento da sua execução, são articulados entre os membros do Governo responsáveis pelas áreas da economia, da justiça e da ciência.\n\n4 - A definição das orientações estratégicas e a fixação de objetivos para a Escola Náutica Infante D. Henrique, bem como o acompanhamento da sua execução, são articulados entre os membros do Governo responsáveis pelas áreas dos transportes, do mar e da ciência."
+  },
+  "66459722": {
+   "fragment_id": "66459913",
+   "type": 11,
+   "heading": "Artigo 30.º — Mapas de pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Mapas de pessoal dirigente\n\nSão aprovados os mapas de dirigentes superiores da administração direta e indireta do ME, constantes dos anexos I e II ao presente decreto-lei, respetivamente, do qual fazem parte integrante."
+  },
+  "66459723": {
+   "fragment_id": "66459914",
+   "type": 11,
+   "heading": "Artigo 31.º — Extinção e reestruturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Extinção e reestruturação\n\n1 - São extintas, sendo objeto de fusão, as direções regionais da economia, sendo as suas atribuições no domínio:\n\na) Da indústria, comércio e serviços integradas no IAPMEI - Agência para a Competitividade e Inovação, I P., assegurando a presença regional e a prestação de proximidade dos respetivos serviços aos investidores e às empresas;\n\nb) Da qualidade e metrologia integradas no Instituto Português da Qualidade, I.P.;\n\nc) Da energia e geologia integradas na Direção-Geral de Energia e Geologia do Ministério do Ambiente, Ordenamento do Território e Energia.\n\n2 - São objeto de reestruturação os seguintes serviços e organismos:\n\na) A Secretaria-Geral, sendo as suas atribuições nos domínios da energia e geologia integradas na Secretaria-Geral do Ministério do Ambiente, Ordenamento do Território e Energia e as suas atribuições no domínio do emprego integradas na Secretaria-Geral do Ministério da Solidariedade, Emprego e Segurança Social;\n\nb) O Gabinete de Estratégia e Estudos, sendo as suas atribuições no domínio da energia integradas na Secretaria-Geral do Ministério do Ambiente, Ordenamento do Território e Energia e as suas atribuições no domínio do emprego integradas no Gabinete de Estratégia e Planeamento do Ministério da Solidariedade, Emprego e Segurança Social;\n\nc) A Direção-Geral das Atividades Económicas, sendo as suas atribuições nos domínios da energia e geologia integradas na Direção-Geral de Energia e Geologia do Ministério do Ambiente, Ordenamento do Território e Energia;\n\nd) O Instituto da Construção e do Imobiliário, I.P., que passa a designar-se Instituto dos Mercados Públicos do Imobiliário e da Construção, I.P."
+  },
+  "66459724": {
+   "fragment_id": "66459915",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nAdaptações, reestruturações e redenominações ao abrigo da Lei-Quadro das Entidades Administrativas Independentes\n\n1 - Nos termos do disposto no artigo 3.º da Lei n.º 67/2013, de 28 de agosto, são objeto de adaptação à lei-quadro das entidades administrativas independentes os estatutos das seguintes entidades:\n\na) A Autoridade da Concorrência;\n\nb) O ICP - Autoridade Nacional de Comunicações;\n\nc) O Instituto Nacional de Aviação Civil, I.P.;\n\nd) O Instituto da Mobilidade e dos Transportes, I.P., nas suas atribuições em matéria de regulação, de promoção e defesa da concorrência no âmbito dos transportes terrestres, fluviais e marítimos.\n\n2 - As entidades referidas nas alíneas b) e c) do número anterior são objeto de redenominação, passando a designar-se Autoridade Nacional de Comunicações e Autoridade Nacional da Aviação Civil, respetivamente, ao abrigo e nos termos do disposto no artigo 4.º da Lei n.º 67/2013, de 28 de agosto.\n\n3 - A entidade referida na alínea d) do número anterior é objeto de reestruturação, sucedendo-lhe a Autoridade da Mobilidade e dos Transportes nas suas atribuições em matéria de regulação, de promoção e defesa da concorrência no âmbito dos transportes terrestres, fluviais e marítimos, ao abrigo e nos termos do disposto no artigo 4.º da Lei n.º 67/2013, de 28 de agosto."
+  },
+  "66459725": {
+   "fragment_id": "66459916",
+   "type": 11,
+   "heading": "Artigo 33.º — Referências legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Referências legais\n\nAs referências legais feitas aos serviços e organismos objeto de extinção, fusão e reestruturação, mencionados no artigo 31.º, consideram-se feitas aos serviços e organismos que passam a integrar as respetivas atribuições."
+  },
+  "66459726": {
+   "fragment_id": "66459917",
+   "type": 11,
+   "heading": "Artigo 34.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Norma transitória\n\n1 - A extinção, por fusão, da Comissão de Planeamento de Emergência das Comunicações, e a consequente integração das suas atribuições e competências no ICP - Autoridade Nacional de Comunicações deve ocorrer no prazo de 60 dias, a contar da data da entrada em vigor do presente decreto-lei.\n\n2 - Cabe à DGAE, em articulação com o membro do Governo responsável pela área da defesa nacional, o acompanhamento dos contratos de contrapartidas celebrados entre o Estado Português e os respetivos fornecedores de material de defesa já celebrados e em execução."
+  },
+  "66459727": {
+   "fragment_id": "66459918",
+   "type": 11,
+   "heading": "Artigo 35.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Produção de efeitos\n\n1 - As extinções, fusões e reestruturações previstas no artigo 31.º apenas produzem efeitos com a entrada em vigor dos respetivos diplomas orgânicos.\n\n2 - Excetua-se do disposto no número anterior, a designação dos titulares dos cargos de direção superior e dos órgãos de direção dos serviços e organismos previstos nos mapas anexos ao presente decreto-lei, a qual pode ter lugar após a sua entrada em vigor.\n\n3 - Nos casos de fusão, a designação prevista no número anterior depende da prévia cessação de funções, designadamente nos termos do número seguinte, de um número pelo menos igual de dirigentes, assegurando os dirigentes designados a direção dos serviços objeto de fusão até à entrada em vigor dos novos diplomas orgânicos.\n\n4 - As comissões de serviço dos titulares de cargos de direção superior dos serviços e organismos cuja fusão e reestruturação tenha sido determinada nos termos do artigo 31.º podem cessar, independentemente do disposto no n.º 1, por despacho fundamentado, quando, por efeito da fusão e reestruturação, exista necessidade de imprimir nova orientação à gestão dos serviços."
+  },
+  "66459728": {
+   "fragment_id": "66459919",
+   "type": 11,
+   "heading": "Artigo 36.º — Legislação orgânica complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Legislação orgânica complementar\n\n1 - Os diplomas orgânicos pelos quais se procede à extinção, fusão e reestruturação previstas no artigo 31.º devem ser aprovados no prazo de 60 dias após a entrada em vigor do presente decreto-lei.\n\n2 - Até à entrada em vigor dos diplomas orgânicos a que se refere o número anterior, os serviços e organismos do ME continuam a reger-se pelas disposições normativas que lhes são aplicáveis."
+  },
+  "66459729": {
+   "fragment_id": "66459920",
+   "type": 11,
+   "heading": "Artigo 37.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 126-C/2011, de 29 de dezembro, alterado pelo Decreto-Lei n.º 266/2012, de 28 de dezembro."
+  },
+  "66459730": {
+   "fragment_id": "66459921",
+   "type": 11,
+   "heading": "Artigo 38.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "66459731": {
+   "fragment_id": "66459922",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 30.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 30.º)\n\nCargos de direção superior da administração direta\n\n(ver documento original)"
+  },
+  "66459732": {
+   "fragment_id": "66459923",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 30.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 30.º)\n\nDirigentes de organismos da administração indireta\n\n(ver documento original)"
+  },
+  "66459734": {
+   "fragment_id": "66459883",
+   "type": 11,
+   "heading": "Artigo 6.º — Entidades administrativas independentes",
+   "in_force_from": "2014-05-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2014 - Diário da República n.º 92/2014, Série I de 2014-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2014-25344768), em vigor a partir de 2014-05-15"
+   ],
+   "markdown": "###### Artigo 6.º — Entidades administrativas independentes\n\nSão entidades administrativas independentes de supervisão e regulação no âmbito do ME:\n\na) A Autoridade da Concorrência;\n\nb) O ICP - Autoridade Nacional de Comunicações.\n\nc) Autoridade da Mobilidade e dos Transportes (AMT).\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2014 - Diário da República n.º 92/2014, Série I de 2014-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2014-25344768), em vigor a partir de 2014-05-15"
+  },
+  "66459735": {
+   "fragment_id": "66459899",
+   "type": 11,
+   "heading": "Artigo 19.º — Instituto da Mobilidade e dos Transportes, I.P.",
+   "in_force_from": "2014-05-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2014 - Diário da República n.º 92/2014, Série I de 2014-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2014-25344768), em vigor a partir de 2014-05-15"
+   ],
+   "markdown": "###### Artigo 19.º — Instituto da Mobilidade e dos Transportes, I.P.\n\n1 - O Instituto da Mobilidade e dos Transportes, I.P., abreviadamente designado por IMT, I.P., tem por missão o exercício das funções de regulamentação técnica, de licenciamento, coordenação, fiscalização e planeamento no setor dos transportes terrestres, fluviais e respetivas infraestruturas e na vertente económica do setor dos portos comerciais e transportes marítimos, bem como a gestão de contratos de concessão em que o Estado seja concedente nos referidos setores ou em outros setores, nomeadamente relativos a transporte aéreo e infraestruturas aeroportuárias, de modo a satisfazer as necessidades de mobilidade de pessoas e bens.\n\n2 - O IMT, I.P., prossegue, designadamente, as seguintes atribuições:\n\na) Em matéria de mobilidade e transportes terrestres:\n\ni) Assessorar o Governo em matéria de políticas para o sector dos transportes terrestres;\n\nii) Assegurar, no âmbito das suas atribuições, em ligação com a Autoridade Nacional de Segurança Rodoviária, o cumprimento das melhores práticas em matéria de segurança rodoviária;\n\niii) Promover a definição do quadro normativo e regulamentar de acesso à atividade, à profissão e ao mercado, e garantindo a sua aplicação;\n\niv) Autorizar, licenciar e fiscalizar o exercício das atividades de transporte terrestre e complementares, incluindo a coordenação do processo de licenciamento e gestão de plataformas e outras instalações logísticas, nos termos da legislação aplicável;\n\nv) Certificar profissionais dos transportes terrestres e promover a habilitação dos condutores, reconhecer, licenciar e supervisionar as entidades formadoras e examinadoras sujeitas à sua supervisão, definir as políticas de formação e garantir e fiscalizar a sua aplicação;\n\nvi) Aprovar, homologar e certificar veículos e equipamentos afetos aos sistemas de transporte terrestre, garantindo os padrões técnicos e de segurança exigidos, licenciando as entidades intervenientes nos processos de certificação e inspeção;\n\nvii) Assegurar a gestão dos registos nacionais do setor dos transportes, designadamente de veículos, infraestruturas ferroviárias, centros de inspeção, condutores, escolas de condução, empresas transportadoras e atividades complementares, serviços de transporte público de passageiros e profissionais de transporte;\n\nviii) Assegurar o planeamento da utilização dos transportes terrestres e fluviais em situação de crise e de guerra e apoiar o Governo em matéria de planeamento civil de emergência, no quadro definido pelo Decreto-Lei n.º 73/2012, de 26 de março;\n\nix) Assegurar, a nível externo, a representação nacional nos grupos de trabalho correspondentes do Comité de Planeamento Civil de Emergência da OTAN, em articulação com os serviços competentes do MDN.\n\nb) Em matéria relativa ao sector dos portos comerciais e transportes marítimos:\n\ni) Contribuir para a definição de políticas para o sector dos portos comerciais e transportes marítimos na vertente económica;\n\nii) Promover, em articulação com o membro do Governo responsável pela área do mar, a elaboração, avaliação, acompanhamento e revisão dos instrumentos de ordenamento para o sector marítimo-portuário;\n\niii) Acompanhar as atividades de serviços de transporte marítimo e de exploração portuária, autorizando, licenciando e fiscalizando as entidades do setor, em cumprimento das normas nacionais e internacionais aplicáveis ao setor, sem prejuízo das atribuições da AMT enquanto autoridade reguladora;\n\niv) Assegurar o cumprimento das normas nacionais e internacionais aplicáveis ao setor, no âmbito das suas atribuições e competências;\n\nv) Contribuir para a definição e atualização das políticas de planeamento civil de emergência, na área do transporte marítimo;\n\nvi) Regulamentar a atividade das entidades que atuam no setor marítimo-portuário, no âmbito das suas atribuições, designadamente aprovando normas administrativas de regulamentação do setor, em articulação com os serviços competentes da área do mar.\n\nvii) [Revogada].\n\nc) Em matéria de infraestruturas rodoviárias:\n\ni) Propor medidas que tenham por objeto a gestão da rede de infraestruturas rodoviárias;\n\nii) Promover a definição de normas regulamentares aplicáveis ao setor das infraestruturas rodoviárias em matéria de qualidade e de segurança, após a avaliação do seu impacto por referência aos padrões contratuais em vigor, e fiscalizar o cumprimento das obrigações delas decorrentes pelos operadores do setor;\n\niii) Participar na definição do regime e estatuto da infraestrutura rodoviária;\n\niv) Participar na gestão da rede rodoviária, exercendo as funções previstas em instrumentos legais ou contratuais, designadamente no Estatuto das Estradas Nacionais, no Plano Rodoviário Nacional e nos contratos de concessão e subconcessão da infraestrutura rodoviária, sem prejuízo das atribuições da AMT enquanto autoridade reguladora ou das atribuições cometidas a outras entidades;\n\nv) Exercer, no âmbito da gestão e exploração da rede rodoviária, os poderes e as competências atribuídas ao concedente Estado, por lei ou por contrato, exceto se estes previrem expressamente a intervenção dos membros do Governo responsáveis pelas áreas das finanças e dos transportes, ou de outras entidades públicas, sem prejuízo da faculdade de subdelegação, realizando uma gestão criteriosa e eficaz que garanta a salvaguarda dos interesses públicos em presença;\n\nvi) Exercer os serviços de gestão de normas e processos do sistema de identificação eletrónica de veículos, de autorização de utilizadores do sistema de identificação eletrónica de veículos, de gestão dos dispositivos eletrónicos e certificação de tecnologia, de gestão de eventos de tráfego públicos, para efeitos de cobrança de portagens e outras taxas rodoviárias, de gestão de sistemas de informação relativos à atividade que desenvolve, de aprovação e fiscalização de sistemas de identificação automática de dispositivos eletrónicos (road side equipment ou RSE), e de exploração de RSE próprios.\n\n3 - (Revogado).\n\n4 - O IMT, I.P., é dirigido por um conselho diretivo, constituído por um presidente e dois vogais.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2014 - Diário da República n.º 92/2014, Série I de 2014-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2014-25344768), em vigor a partir de 2014-05-15"
+  },
+  "66459736": {
+   "fragment_id": "66459928",
+   "type": 11,
+   "heading": "Artigo 23.º-B",
+   "in_force_from": "2014-05-15",
+   "changed_by": [
+    "Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 78/2014 - Diário da República n.º 92/2014, Série I de 2014-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2014-25344768), em vigor a partir de 2014-05-15"
+   ],
+   "markdown": "###### Artigo 23.º-B\n\nA Autoridade da Mobilidade e dos Transportes, designada abreviadamente por AMT, adstrita ao ME, é independente no exercício das suas funções, com atribuições de regulação e fiscalização do setor da mobilidade e dos transportes terrestres, fluviais, ferroviários, e respetivas infraestruturas, e da atividade económica nos setores dos portos comerciais e transportes marítimos, nos termos previstos na Lei n.º 67/2013, de 28 de agosto, que aprova a lei-quadro das entidades administrativas independentes com funções de regulação da atividade económica dos setores privado, público e cooperativo e nos respetivos estatutos.\n\n> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 78/2014 - Diário da República n.º 92/2014, Série I de 2014-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2014-25344768), em vigor a partir de 2014-05-15"
+  },
+  "66459737": {
+   "fragment_id": "66459915",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": "2014-05-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78/2014 - Diário da República n.º 92/2014, Série I de 2014-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2014-25344768), em vigor a partir de 2014-05-15"
+   ],
+   "markdown": "###### Artigo 32.º\n\nAdaptações, reestruturações e redenominações ao abrigo da Lei-Quadro das Entidades Administrativas Independentes\n\n1 - Nos termos do disposto no artigo 3.º da Lei n.º 67/2013, de 28 de agosto, são objeto de adaptação à lei-quadro das entidades administrativas independentes os estatutos das seguintes entidades:\n\na) A Autoridade da Concorrência;\n\nb) O ICP - Autoridade Nacional de Comunicações;\n\nc) O Instituto Nacional de Aviação Civil, I.P.;\n\nd) (Revogada).\n\n2 - As entidades referidas nas alíneas b) e c) do número anterior são objeto de redenominação, passando a designar-se Autoridade Nacional de Comunicações e Autoridade Nacional da Aviação Civil, respetivamente, ao abrigo e nos termos do disposto no artigo 4.º da Lei n.º 67/2013, de 28 de agosto.\n\n3 - A entidade referida na alínea d) do número anterior é objeto de reestruturação, sucedendo-lhe a Autoridade da Mobilidade e dos Transportes nas suas atribuições em matéria de regulação, de promoção e defesa da concorrência no âmbito dos transportes terrestres, fluviais e marítimos, ao abrigo e nos termos do disposto no artigo 4.º da Lei n.º 67/2013, de 28 de agosto.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78/2014 - Diário da República n.º 92/2014, Série I de 2014-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2014-25344768), em vigor a partir de 2014-05-15"
+  },
+  "66459733": {
+   "fragment_id": "66459924",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de novembro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - José Pedro Correia de Aguiar-Branco - Paula Maria von Hafe Teixeira da Cruz - Luís Miguel Poiares Pessoa Maduro - Leonardo Bandeira de Melo Mathias - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.\n\nPromulgado em 14 de janeiro de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 16 de janeiro de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "66459771": {
+   "fragment_id": "66459890",
+   "type": 11,
+   "heading": "Artigo 11.º — Direção-Geral das Atividades Económicas",
+   "in_force_from": "2014-05-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+   ],
+   "markdown": "###### Artigo 11.º — Direção-Geral das Atividades Económicas\n\n1 - A Direção-Geral das Atividades Económicas, abreviadamente designada por DGAE, tem por missão a promoção e o desenvolvimento de um ambiente institucional mais favorável à competitividade e à inovação empresarial através do apoio à conceção, execução, divulgação e avaliação de políticas do comércio, e dos serviços, bem como assegurar a coordenação das relações bilaterais, europeias e internacionais no âmbito de atuação do ME.\n\n2 - A DGAE prossegue, designadamente, as seguintes atribuições:\n\na) Contribuir para a definição, articulação e dinamização das políticas sectoriais relativas ao comércio e aos serviços, acompanhando e avaliando a execução das medidas delas decorrentes;\n\nb) Acompanhar a conceção e execução das políticas setoriais para a indústria e participar na preparação da posição nacional sobre os dossiês com relevância para a indústria a assumir nas instâncias europeias e internacionais, sem prejuízo das competências atribuídas ao IAPMEI, I. P.;\n\nc) Potenciar a criação de condições favoráveis ao desenvolvimento do empreendedorismo, da competitividade, da inovação, da sustentabilidade e da internacionalização das empresas, sem prejuízo das competências próprias de outros serviços e organismos;\n\nc) Promover a articulação da política de empresa, visando o crescimento da produtividade e da competitividade;\n\nd) Promover a articulação da política da empresa com outras políticas públicas, visando o crescimento sustentável;\n\ne) Contribuir para a definição e execução das políticas que enquadram o relacionamento económico externo, em articulação com o MNE, apoiando o ME em matéria de relações internacionais e de relações com a União Europeia;\n\nf) Coordenar a participação do ME no quadro dos assuntos europeus, designadamente através do acompanhamento dos processos de transposição das diretivas e de execução dos regulamentos, bem como dos processos de pré-contencioso e de contencioso da União Europeia;\n\ng) Coordenar, propor e desenvolver atividades no âmbito da cooperação internacional, europeia e bilateral, designadamente com os países de língua oficial portuguesa, sem prejuízo das competências próprias dos órgãos e serviços do MNE;\n\nh) Assegurar o planeamento do aprovisionamento e gestão das matérias-primas e dos recursos industriais em situação de crise e de guerra e apoiar o Governo em matéria de planeamento civil de emergência, no quadro definido pelo Decreto-Lei n.º 73/2012, de 26 de março;\n\ni) Assegurar, a nível externo, a representação nacional nos grupos de trabalho correspondentes do Comité de Planeamento Civil de Emergência da Organização do Tratado Atlântico Norte (OTAN), em articulação com os serviços competentes do Ministério da Defesa Nacional (MDN).\n\n3 - A DGAE é dirigida por um diretor-geral, coadjuvado por um subdiretor-geral, cargos de direção superior de 1.º e 2.º graus, respetivamente.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+  },
+  "66459772": {
+   "fragment_id": "66459894",
+   "type": 11,
+   "heading": "Artigo 14.º — IAPMEI - Agência para a Competitividade e Inovação, I.P.",
+   "in_force_from": "2014-05-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+   ],
+   "markdown": "###### Artigo 14.º — IAPMEI - Agência para a Competitividade e Inovação, I.P.\n\n1 - O IAPMEI - Agência para a Competitividade e Inovação, I. P., abreviadamente designado por IAPMEI, I. P., tem por missão promover a competitividade e o crescimento empresarial, assegurar o apoio à conceção, execução e avaliação de políticas dirigidas à atividade industrial, visando o reforço da inovação, do empreendedorismo e do investimento empresarial nas empresas que exerçam a sua atividade nas áreas sob tutela do ME, designadamente das empresas de pequena e média dimensão, com exceção do setor do turismo e das competências de acompanhamento neste âmbito atribuídas à DGAE.\n\n2 - O IAPMEI, I.P. prossegue, designadamente, as seguintes atribuições:\n\na) Desenvolver e coordenar todas as atividades conducentes a melhorar o empreendedorismo, a competitividade, a inovação, a sustentabilidade e a internacionalização das empresas, designadamente das micro, pequenas e médias empresas (PME), ao longo de todo o seu ciclo de existência;\n\nb) Promover as condições propícias à captação, realização e acompanhamento de projetos de investimento de origem nacional, independentemente da natureza jurídica do investidor, cujo valor seja inferior a 25 milhões de euros, com exceção de projetos de investimento inferiores a este valor de iniciativa de uma empresa com volume de faturação anual consolidada superior a 75 milhões de euros, ou de uma entidade não empresarial com orçamento anual superior a 40 milhões de euros;\n\nc) Promover o empreendedorismo, nomeadamente o relacionado com a produção de bens e serviços transacionáveis, com elevado grau de inovação e de valor acrescentado, contribuindo para uma maior cultura de empreendedorismo na sociedade portuguesa;\n\nd) Executar iniciativas e políticas de estímulo à competitividade empresarial, nomeadamente as dirigidas ao diagnóstico e à capacitação das empresas e dos seus recursos, em particular os relacionados com a produção de bens e serviços transacionáveis;\n\ne) Desenvolver estratégias de eficiência coletiva por parte das empresas, especialmente das PME, em articulação com os centros tecnológicos e com outras infraestruturas tecnológicas, com os polos de competitividade e tecnologia e com outros clusters, promovendo atuações concertadas de melhoria de condições de envolvente empresarial e ganhos de escala, nomeadamente de simplificação administrativa e de assistência técnica e tecnológica;\n\nf) Executar iniciativas e programas de estímulo ao desenvolvimento empresarial, nomeadamente as dirigidas ao diagnóstico de oportunidades de inovação, à inovação e ao desenvolvimento tecnológico e à inovação organizacional;\n\ng) Criar as condições favoráveis ao desenvolvimento da I+D+I empresarial e apoiar o investimento empresarial nesse contexto;\n\nh) (Revogada);\n\ni) Executar iniciativas e políticas de apoio ao investimento empresarial, orientadas para a valorização da oferta nacional de bens e serviços transacionáveis, no âmbito definido na alínea b);\n\nj) Assegurar o enquadramento, promoção e articulação dos instrumentos de dinamização e disseminação das atividades de capital de risco, de titularização de créditos e de garantia mútua, bem como a gestão dos instrumentos de capitalização empresarial, no âmbito do ME;\n\nk) Colaborar com os serviços, organismos e demais entidades competentes da Administração Pública na preparação de legislação relativa à regulação e regulamentação da atividade empresarial, nomeadamente a que tenha impacte nas PME.\n\n3 - O IAPMEI, I.P. é dirigido por um conselho diretivo, constituído por um presidente e dois vogais, podendo ainda integrar um vogal não executivo e não remunerado, ao qual cabe assegurar a representação cruzada entre o conselho diretivo do IAPMEI, I.P., e o conselho de administração da Agência para o Investimento e Comércio Externo de Portugal, E.P.E.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+  },
+  "66459773": {
+   "fragment_id": "66459914",
+   "type": 11,
+   "heading": "Artigo 31.º — Extinção e reestruturação",
+   "in_force_from": "2014-05-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+   ],
+   "markdown": "###### Artigo 31.º — Extinção e reestruturação\n\n1 - São extintas, sendo objeto de fusão, as direções regionais da economia, sendo as suas atribuições no domínio:\n\na) Da indústria, comércio e serviços integradas no IAPMEI - Agência para a Competitividade e Inovação, I P., assegurando a presença regional e a prestação de proximidade dos respetivos serviços aos investidores e às empresas;\n\nb) Da qualidade e metrologia integradas no Instituto Português da Qualidade, I.P.;\n\nc) Da energia e geologia integradas na Direção-Geral de Energia e Geologia do Ministério do Ambiente, Ordenamento do Território e Energia.\n\n2 - São objeto de reestruturação os seguintes serviços e organismos:\n\na) A Secretaria-Geral, sendo as suas atribuições nos domínios da energia e geologia integradas na Secretaria-Geral do Ministério do Ambiente, Ordenamento do Território e Energia e as suas atribuições no domínio do emprego integradas na Secretaria-Geral do Ministério da Solidariedade, Emprego e Segurança Social;\n\nb) O Gabinete de Estratégia e Estudos, sendo as suas atribuições no domínio da energia integradas na Secretaria-Geral do Ministério do Ambiente, Ordenamento do Território e Energia e as suas atribuições no domínio do emprego integradas no Gabinete de Estratégia e Planeamento do Ministério da Solidariedade, Emprego e Segurança Social;\n\nc) A Direção-Geral das Atividades Económicas, sendo as suas atribuições nos domínios da energia e geologia integradas na Direção-Geral de Energia e Geologia do Ministério do Ambiente, Ordenamento do Território e Energia e as suas atribuições nos domínios da indústria e inovação integradas no IAPMEI, I. P., com exceção das competências de acompanhamento no âmbito da indústria atribuídas à DGAE;\n\nd) O Instituto da Construção e do Imobiliário, I.P., que passa a designar-se Instituto dos Mercados Públicos do Imobiliário e da Construção, I.P.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+  },
+  "66462818": {
+   "fragment_id": "66459914",
+   "type": 11,
+   "heading": "Artigo 31.º — Extinção e reestruturação",
+   "in_force_from": "2015-01-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2015-66325238), em vigor a partir de 2015-01-27",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+   ],
+   "markdown": "###### Artigo 31.º — Extinção e reestruturação\n\n1 - São extintas, sendo objeto de fusão, as direções regionais da economia, sendo as suas atribuições no domínio:\n\na) Da indústria, comércio e serviços integradas no IAPMEI - Agência para a Competitividade e Inovação, I P., assegurando a presença regional e a prestação de proximidade dos respetivos serviços aos investidores e às empresas;\n\nb) Da qualidade e metrologia integradas no Instituto Português da Qualidade, I.P.;\n\nc) Da energia e geologia integradas na Direção-Geral de Energia e Geologia do Ministério do Ambiente, Ordenamento do Território e Energia.\n\n2 - São objeto de reestruturação os seguintes serviços e organismos:\n\na) A Secretaria-Geral, sendo as suas atribuições nos domínios da energia e geologia integradas na Secretaria-Geral do Ministério do Ambiente, Ordenamento do Território e Energia e as suas atribuições no domínio do emprego integradas na Secretaria-Geral do Ministério da Solidariedade, Emprego e Segurança Social;\n\nb) O Gabinete de Estratégia e Estudos, sendo as suas atribuições no domínio da energia integradas na Secretaria-Geral do Ministério do Ambiente, Ordenamento do Território e Energia e as suas atribuições no domínio do emprego integradas no Gabinete de Estratégia e Planeamento do Ministério da Solidariedade, Emprego e Segurança Social;\n\nc) A Direção-Geral das Atividades Económicas, sendo as suas atribuições nos domínios:\n\ni) Da energia e geologia integradas na Direção-Geral de Energia e Geologia do Ministério do Ambiente, Ordenamento do Território e Energia;\n\nii) Da indústria e inovação integradas no IAPMEI, I. P., com exceção das competências de acompanhamento no âmbito da indústria atribuídas à Direção-Geral das Atividades Económicas;\n\niii) Da coordenação dos assuntos europeus, internacionais e cooperação com países de língua oficial portuguesa, nas áreas do trabalho, emprego, formação profissional e segurança e saúde no trabalho, integradas no Gabinete de Estratégia e Planeamento do Ministério da Solidariedade, Emprego e Segurança Social;\n\nd) O Instituto da Construção e do Imobiliário, I.P., que passa a designar-se Instituto dos Mercados Públicos do Imobiliário e da Construção, I.P.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2015-66325238), em vigor a partir de 2015-01-27\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+  }
+ }
+}

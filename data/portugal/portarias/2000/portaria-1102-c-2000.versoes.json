@@ -1,0 +1,257 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:284920:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2000-215874674",
+ "dre_path": "/dr/detalhe/portaria/1102-c-2000-284920",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2000-11-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "216768255",
+    "215799668",
+    "215799669",
+    "215799670",
+    "215799671",
+    "215799672",
+    "215799673",
+    "215799674",
+    "215918875",
+    "215918876",
+    "215918877"
+   ]
+  },
+  {
+   "date": "2023-07-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:215874586:por",
+     "title": "Portaria n.º 219/2023",
+     "published": "2023-07-19",
+     "dre_path": "/dr/detalhe/portaria/219-2023-215874586"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "216768255",
+    "216768256",
+    "216768257",
+    "216768258",
+    "216768259",
+    "216768260",
+    "216768261",
+    "216768262",
+    "216768263",
+    "216768264",
+    "216768265",
+    "216768266"
+   ]
+  }
+ ],
+ "fragments": {
+  "216768255": {
+   "fragment_id": "215918775",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-07-24",
+   "changed_by": [],
+   "markdown": "Portaria n.º 1102-C/2000\n\nde 22 de Novembro\n\nO Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio, que define as medidas nacionais de conservação dos recursos vivos aplicáveis ao exercício da pesca em águas sob soberania e jurisdição nacionais, determina no seu artigo 3.º quais os métodos de pesca admitidos em águas oceânicas e em águas interiores marítimas, remetendo para portaria do membro do Governo responsável pelo sector das pescas o estabelecimento das disposições reguladoras das características das artes e condições de exercício da pesca por qualquer daqueles métodos.\n\nCom a presente portaria regulamenta-se o método de pesca denominado «pesca à linha», dando cumprimento ao citado normativo.\n\nAssim, ao abrigo do disposto no artigo 3.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º É aprovado o Regulamento da Pesca à Linha, que faz parte integrante da presente portaria.\n\n2.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nREGULAMENTO DA PESCA À LINHA"
+  },
+  "215799668": {
+   "fragment_id": "215918776",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece o regime jurídico da pesca à linha."
+  },
+  "215799669": {
+   "fragment_id": "215918777",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição\n\nPor pesca à linha entende-se qualquer método de pesca que se caracteriza pela existência de linhas e, em regra, de um ou mais anzóis, lastros e bóias."
+  },
+  "215799670": {
+   "fragment_id": "215918778",
+   "type": 11,
+   "heading": "Artigo 3.º — Tipos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Tipos\n\nA pesca à linha pode ser exercida com artes que se integrem num dos seguintes grupos:\n\na) Corrico;\n\nb) Cana de pesca;\n\nc) Linha de mão;\n\nd) Palangre; e\n\ne) Toneira e piteira."
+  },
+  "215799671": {
+   "fragment_id": "215918779",
+   "type": 11,
+   "heading": "Artigo 4.º — Corrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Corrico\n\nCorrico é um aparelho de anzol rebocado que actua à superfície ou subsuperfície, dispondo geralmente de amostra."
+  },
+  "215799672": {
+   "fragment_id": "215918780",
+   "type": 11,
+   "heading": "Artigo 5.º — Cana de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Cana de pesca\n\n1 - A cana de pesca é uma vara rígida ou semi-rígida, em conjunto com uma linha na extremidade da qual existe um ou mais anzóis, podendo-lhe ser adaptado um mecanismo para recolha da linha (carreto, molinete) ou apenas a linha presa na extremidade.\n\n2 - A pesca com vara e salto exerce-se com canas de pesca, com um só anzol, destinadas à captura de tunídeos e similares."
+  },
+  "215799673": {
+   "fragment_id": "215918781",
+   "type": 11,
+   "heading": "Artigo 6.º — Linha de mão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Linha de mão\n\nLinha de mão é um aparelho, com um ou mais anzóis, que actua ligado à mão do pescador."
+  },
+  "215799674": {
+   "fragment_id": "215918782",
+   "type": 11,
+   "heading": "Artigo 7.º — Palangre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Palangre\n\nPalangre é um aparelho com vários anzóis, formado basicamente por uma linha ou cabo fino denominado madre, de comprimento variável, do qual partem estralhos ou baixadas com anzol, actuando junto ao fundo ou à subsuperfície, podendo ser fundeados ou derivantes."
+  },
+  "215918875": {
+   "fragment_id": "215918783",
+   "type": 11,
+   "heading": "Artigo 8.º — Toneira e piteira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Toneira e piteira\n\n1 - A toneira é constituída por um lastro com estrutura fusiforme tendo na extremidade inferior uma coroa de anzóis sem barbela e que na extremidade superior está ligada a uma linha, destinando-se, geralmente, à captura de chocos e lulas.\n\n2 - A piteira é constituída por uma pequena vara de madeira, geralmente com espessura de 1 cm e comprimento de 25 cm, tendo na extremidade inferior cinco a sete anzóis, com barbela, e que na extremidade superior está ligada a uma linha, destinando-se, geralmente, à captura de polvo."
+  },
+  "215918876": {
+   "fragment_id": "215918784",
+   "type": 11,
+   "heading": "Artigo 9.º — Modalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Modalidades\n\n1 - A pesca com palangre pode ser exercida com:\n\na) Palangre de superfície;\n\nb) Palangre de fundo.\n\n2 - O palangre de superfície destina-se à captura de espécies pelágicas.\n\n3 - O palangre de fundo destina-se à captura de espécies demersais."
+  },
+  "215918877": {
+   "fragment_id": "215918785",
+   "type": 11,
+   "heading": "Artigo 10.º — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Licenciamento\n\nO licenciamento para o exercício da pesca com palangre especificará se o mesmo exclui alguma espécie ou grupos de espécies."
+  },
+  "216768256": {
+   "fragment_id": "215918776",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2023-07-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 219/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/219-2023-215874586), em vigor a partir de 2023-07-24"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece o regime jurídico da pesca à linha.\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 219/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/219-2023-215874586), em vigor a partir de 2023-07-24"
+  },
+  "216768257": {
+   "fragment_id": "215918777",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição",
+   "in_force_from": "2023-07-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 219/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/219-2023-215874586), em vigor a partir de 2023-07-24"
+   ],
+   "markdown": "###### Artigo 2.º — Definição\n\nPor pesca à linha entende-se qualquer método de pesca que se caracteriza pela existência de linhas e, em regra, de um ou mais anzóis, lastros e bóias.\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 219/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/219-2023-215874586), em vigor a partir de 2023-07-24"
+  },
+  "216768258": {
+   "fragment_id": "215918778",
+   "type": 11,
+   "heading": "Artigo 3.º — Tipos",
+   "in_force_from": "2023-07-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 219/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/219-2023-215874586), em vigor a partir de 2023-07-24"
+   ],
+   "markdown": "###### Artigo 3.º — Tipos\n\nA pesca à linha pode ser exercida com artes que se integrem num dos seguintes grupos:\n\na) Corrico;\n\nb) Cana de pesca;\n\nc) Linha de mão;\n\nd) Palangre; e\n\ne) Toneira e piteira.\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 219/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/219-2023-215874586), em vigor a partir de 2023-07-24"
+  },
+  "216768259": {
+   "fragment_id": "215918779",
+   "type": 11,
+   "heading": "Artigo 4.º — Corrico",
+   "in_force_from": "2023-07-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 219/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/219-2023-215874586), em vigor a partir de 2023-07-24"
+   ],
+   "markdown": "###### Artigo 4.º — Corrico\n\nCorrico é um aparelho de anzol rebocado que actua à superfície ou subsuperfície, dispondo geralmente de amostra.\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 219/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/219-2023-215874586), em vigor a partir de 2023-07-24"
+  },
+  "216768260": {
+   "fragment_id": "215918780",
+   "type": 11,
+   "heading": "Artigo 5.º — Cana de pesca",
+   "in_force_from": "2023-07-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 219/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/219-2023-215874586), em vigor a partir de 2023-07-24"
+   ],
+   "markdown": "###### Artigo 5.º — Cana de pesca\n\n1 - A cana de pesca é uma vara rígida ou semi-rígida, em conjunto com uma linha na extremidade da qual existe um ou mais anzóis, podendo-lhe ser adaptado um mecanismo para recolha da linha (carreto, molinete) ou apenas a linha presa na extremidade.\n\n2 - A pesca com vara e salto exerce-se com canas de pesca, com um só anzol, destinadas à captura de tunídeos e similares.\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 219/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/219-2023-215874586), em vigor a partir de 2023-07-24"
+  },
+  "216768261": {
+   "fragment_id": "215918781",
+   "type": 11,
+   "heading": "Artigo 6.º — Linha de mão",
+   "in_force_from": "2023-07-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 219/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/219-2023-215874586), em vigor a partir de 2023-07-24"
+   ],
+   "markdown": "###### Artigo 6.º — Linha de mão\n\nLinha de mão é um aparelho, com um ou mais anzóis, que actua ligado à mão do pescador.\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 219/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/219-2023-215874586), em vigor a partir de 2023-07-24"
+  },
+  "216768262": {
+   "fragment_id": "215918782",
+   "type": 11,
+   "heading": "Artigo 7.º — Palangre",
+   "in_force_from": "2023-07-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 219/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/219-2023-215874586), em vigor a partir de 2023-07-24"
+   ],
+   "markdown": "###### Artigo 7.º — Palangre\n\nPalangre é um aparelho com vários anzóis, formado basicamente por uma linha ou cabo fino denominado madre, de comprimento variável, do qual partem estralhos ou baixadas com anzol, actuando junto ao fundo ou à subsuperfície, podendo ser fundeados ou derivantes.\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 219/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/219-2023-215874586), em vigor a partir de 2023-07-24"
+  },
+  "216768263": {
+   "fragment_id": "215918783",
+   "type": 11,
+   "heading": "Artigo 8.º — Toneira e piteira",
+   "in_force_from": "2023-07-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 219/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/219-2023-215874586), em vigor a partir de 2023-07-24"
+   ],
+   "markdown": "###### Artigo 8.º — Toneira e piteira\n\n1 - A toneira é constituída por um lastro com estrutura fusiforme tendo na extremidade inferior uma coroa de anzóis sem barbela e que na extremidade superior está ligada a uma linha, destinando-se, geralmente, à captura de chocos e lulas.\n\n2 - A piteira é constituída por uma pequena vara de madeira, geralmente com espessura de 1 cm e comprimento de 25 cm, tendo na extremidade inferior cinco a sete anzóis, com barbela, e que na extremidade superior está ligada a uma linha, destinando-se, geralmente, à captura de polvo.\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 219/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/219-2023-215874586), em vigor a partir de 2023-07-24"
+  },
+  "216768264": {
+   "fragment_id": "215918784",
+   "type": 11,
+   "heading": "Artigo 9.º — Modalidades",
+   "in_force_from": "2023-07-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 219/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/219-2023-215874586), em vigor a partir de 2023-07-24"
+   ],
+   "markdown": "###### Artigo 9.º — Modalidades\n\n1 - A pesca com palangre pode ser exercida com:\n\na) Palangre de superfície;\n\nb) Palangre de fundo.\n\n2 - O palangre de superfície destina-se à captura de espécies pelágicas.\n\n3 - O palangre de fundo destina-se à captura de espécies demersais.\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 219/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/219-2023-215874586), em vigor a partir de 2023-07-24"
+  },
+  "216768265": {
+   "fragment_id": "215918785",
+   "type": 11,
+   "heading": "Artigo 10.º — Licenciamento",
+   "in_force_from": "2023-07-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 219/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/219-2023-215874586), em vigor a partir de 2023-07-24"
+   ],
+   "markdown": "###### Artigo 10.º — Licenciamento\n\nO licenciamento para o exercício da pesca com palangre especificará se o mesmo exclui alguma espécie ou grupos de espécies.\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 219/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/219-2023-215874586), em vigor a partir de 2023-07-24"
+  },
+  "216768266": {
+   "fragment_id": "215918786",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-07-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 219/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/219-2023-215874586), em vigor a partir de 2023-07-24"
+   ],
+   "markdown": "O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 22 de Novembro de 2000.\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 219/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/219-2023-215874586), em vigor a partir de 2023-07-24"
+  }
+ }
+}

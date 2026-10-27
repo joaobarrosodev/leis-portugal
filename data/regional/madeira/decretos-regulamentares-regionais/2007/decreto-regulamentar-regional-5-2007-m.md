@@ -1,0 +1,485 @@
+---
+schema_version: '1.0'
+id: pt:dre:636765:por
+title: Decreto Regulamentar Regional n.º 5/2007/M
+short_title: null
+summary: Aprova a organização e funcionamento do Governo Regional da Madeira
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Presidência do Governo
+proposing_entity: null
+official_number: 5/2007/M
+official_date: null
+publication_date: '2007-07-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 140/2007, Série I de 2007-07-23
+  number: '140'
+  series: I
+  supplement: null
+  pages: 4663 - 4666
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/07/14000/0466304666.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2011-06-02'
+version_history:
+  file: decreto-regulamentar-regional-5-2007-m.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2007-07-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-06-02'
+    amending: pt:dre:673472:por
+    amending_title: Decreto Regulamentar Regional n.º 4/2011/M
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 8.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/5/2007/m/cons/20110601/pt/html
+  oj: null
+  dre: '636765'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/5-2007-636765
+  internal: pt:dre:636765:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2007-636765
+  metadata_url: https://data.dre.pt/eli/decregulreg/5/2007/m/cons/20110601/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2007-167808765
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2007-167808765
+  retrieved_at: '2026-10-22T12:43:56Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 8e201c35e914e3c62ced426a752df8503089fd5ecd6809e88b3a6aa9168743d1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:43:56Z'
+  notes: 2 versão(ões); histórico completo em decreto-regulamentar-regional-5-2007-m.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Governo Regional
+- Definição de Competências
+- Presidência do Governo Regional
+- Secretaria Regional do Turismo e Transportes
+- Vice-presidência do Governo Regional
+- Secretaria Regional do Plano e Finanças
+- Secretaria Regional do Equipamento Social
+- Extinção de Serviços
+- Gestão Orçamental
+- Integração de Serviços
+- Integração de Trabalhadores
+- Secretaria Regional dos Assuntos Sociais
+- Orgânica
+- Madeira.região Autónoma
+- Secretaria Regional do Ambiente e dos Recursos Naturais
+- Secretaria Regional dos Recursos Humanos
+- Tutela
+relationships:
+- type: amended_by
+  target: pt:dre:673472:por
+  label: Altera Artigo 4.º; Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2011-673472
+  date: '2011-06-01'
+- type: cites
+  target: pt:dre:262120:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/3/2007/01/09/m/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+article_structure:
+  article_count: 17
+  section_count: 4
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:43:56Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 5/2007/M
+
+Decreto Regulamentar Regional n.º 5/2007/M
+
+Organização e funcionamento do Governo Regional da Madeira
+
+O Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, alterada pelas Leis n.os 130/99, de 21 de Agosto, e 12/2000, de 21 de Junho, comete, através dos artigos 56.º, n.º 3, e 69.º, alínea c), ao Governo Regional a competência para aprovar a sua organização e funcionamento, objectivo prosseguido por via deste diploma.
+
+Assim, nos termos dos artigos 227.º, n.º 1, alínea d), e 231.º, n.º 6, da Constituição da República Portuguesa e dos artigos 56.º, n.º 3, 69.º, alíneas c) e d), e 70.º, n.º 1, do Estatuto Político-Administrativo da Região Autónoma da Madeira, o Governo Regional da Madeira decreta o seguinte:
+
+### Capítulo I — Do Governo Regional da Madeira
+
+###### Artigo 1.º — Estrutura do Governo Regional da Madeira
+
+A estrutura do Governo Regional da Madeira é a seguinte:
+
+a) Presidência do Governo;
+
+b) Vice-Presidência do Governo;
+
+c) Secretaria Regional dos Recursos Humanos;
+
+d) Secretaria Regional do Equipamento Social;
+
+e) Secretaria Regional do Turismo e Transportes;
+
+f) Secretaria Regional de Educação e Cultura;
+
+g) Secretaria Regional do Plano e Finanças;
+
+h) Secretaria Regional do Ambiente e dos Recursos Naturais;
+
+i) Secretaria Regional dos Assuntos Sociais.
+
+### Capítulo II — Da Vice-Presidência e secretarias regionais
+
+Secção única
+
+Atribuições
+
+###### Artigo 2.º — Vice-Presidência do Governo
+
+1 - À Vice-Presidência do Governo são cometidas as atribuições referentes aos sectores seguintes:
+
+a) Administração da justiça;
+
+b) Administração Pública e modernização administrativa;
+
+c) Assuntos europeus;
+
+d) Assuntos parlamentares;
+
+e) Comércio;
+
+f) Desenvolvimento científico e tecnológico;
+
+g) Desenvolvimento regional;
+
+h) Economia;
+
+i) Energia;
+
+j) Indústria.
+
+2 -  A Vice-Presidência do Governo Regional exerce a tutela sobre:
+
+a) A Empresa de Electricidade da Madeira, S. A.;
+
+b) A Sociedade de Desenvolvimento do Porto Santo, S. A.;
+
+c) A Sociedade de Promoção e Desenvolvimento da Zona Oeste da Ponta do Oeste, S. A.;
+
+d) A Sociedade de Desenvolvimento do Norte da Madeira, S. A.;
+
+e) A Sociedade Metropolitana de Desenvolvimento, S. A.;
+
+f) A Madeira Parques Empresariais, Sociedade Gestora, S. A.;
+
+g) O Instituto do Desenvolvimento Empresarial da Madeira;
+
+h) A Agência Regional de Energia e Ambiente;
+
+i) O Centro de Empresas e Inovação da Madeira;
+
+j) O Gabinete de Gestão da Loja do Cidadão da Madeira;
+
+l) O Pólo Científico e Tecnológico da Madeira, Madeira Tecnopolo, S. A.
+
+###### Artigo 3.º — Secretaria Regional dos Recursos Humanos
+
+1 - À Secretaria Regional dos Recursos Humanos são cometidas as atribuições referentes aos sectores seguintes:
+
+a) Comunicação social;
+
+b) Comunidades madeirenses;
+
+c) Defesa do consumidor;
+
+d) Emprego;
+
+e) Juventude;
+
+f) Trabalho;
+
+g) Inspecção regional do trabalho;
+
+h) Inspecção regional das actividades económicas.
+
+2 - A Secretaria Regional dos Recursos Humanos exerce a tutela sobre:
+
+a) O Conselho Económico e Social;
+
+b) A Empresa Jornal da Madeira;
+
+c) O Instituto Regional do Emprego.
+
+###### Artigo 4.º — Secretaria Regional do Equipamento Social
+
+1 - À Secretaria Regional do Equipamento Social são cometidas as atribuições referentes aos sectores seguintes:
+
+a) Obras públicas, edifícios e equipamentos públicos;
+
+b) Estradas;
+
+c) Informação geográfica, cartográfica e cadastral.
+
+d) (Eliminada.)
+
+e) (Eliminada.)
+
+f) (Eliminada.)
+
+2 - A Secretaria Regional do Equipamento Social exerce a tutela sobre:
+
+a) O Laboratório Regional de Engenharia Civil;
+
+b) A Cimentos Madeira, Lda.;
+
+c) A VIALITORAL - Concessões Rodoviárias da Madeira, S. A.;
+
+d) A concessionária de estradas Viaexpresso da Madeira, S. A.;
+
+e) A RAMEDM - Estradas da Madeira, S. A.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2011/M - Diário da República n.º 106/2011, Série I de 2011-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2011-673472), em vigor a partir de 2011-06-02
+
+###### Artigo 5.º — Secretaria Regional do Turismo e Transportes
+
+1 - À Secretaria Regional do Turismo e Transportes são cometidas as atribuições referentes aos sectores seguintes:
+
+a) Turismo;
+
+b) Transportes.
+
+2 - A Secretaria Regional do Turismo e Transportes exerce a tutela sobre:
+
+a) A Horários do Funchal - Transportes Públicos, S. A.;
+
+b) A Aeroportos e Navegação Aérea da Madeira, S. A.;
+
+c) A Administração dos Portos da Região Autónoma da Madeira, S. A.
+
+###### Artigo 6.º — Secretaria Regional de Educação e Cultura
+
+1 - À Secretaria Regional de Educação e Cultura são cometidas as atribuições referentes aos sectores seguintes:
+
+a) Educação;
+
+b) Desporto;
+
+c) Formação profissional;
+
+d) Educação especial;
+
+e) Sociedade de informação e do conhecimento;
+
+f) Comunicações;
+
+g) Cultura.
+
+2 - A Secretaria Regional de Educação e Cultura exerce a tutela sobre:
+
+a) O Instituto do Desporto da Região Autónoma da Madeira;
+
+b) O Conservatório - Escola Profissional das Artes da Madeira - Engenheiro Luiz Peter Clode;
+
+c) A Escola Profissional de Hotelaria e Turismo da Madeira.
+
+###### Artigo 7.º — Secretaria Regional do Plano e Finanças
+
+1 - À Secretaria Regional do Plano e Finanças são cometidas as atribuições referentes aos sectores seguintes:
+
+a) Plano;
+
+b) Finanças;
+
+c) Orçamento;
+
+d) Património;
+
+e) Estatística;
+
+f) Inspecção de finanças;
+
+g) Informática da Administração Pública;
+
+h) Centro Internacional de Negócios da Madeira;
+
+i) Fundos comunitários;
+
+j) Habitação;
+
+l) Assuntos fiscais.
+
+2 - A Secretaria Regional do Plano e Finanças exerce a tutela sobre:
+
+a) A SDM - Sociedade de Desenvolvimento da Madeira, S. A.;
+
+b) A IHM - Investimentos Habitacionais da Madeira, E. P. E.;
+
+c) A PATRIRAM - Titularidade e Gestão do Património Público Regional, S. A.
+
+###### Artigo 8.º — Secretaria Regional do Ambiente e dos Recursos Naturais
+
+1 - À Secretaria Regional do Ambiente e dos Recursos Naturais são cometidas as atribuições referentes aos sectores seguintes:
+
+a) Ambiente;
+
+b) Água;
+
+c) Saneamento básico;
+
+d) Florestas;
+
+e) Pescas;
+
+f) Agro-pecuária;
+
+g) Artesanato.
+
+h) Urbanismo;
+
+i) Litoral;
+
+j) Ordenamento do território.
+
+2 - A Secretaria Regional do Ambiente e dos Recursos Naturais exerce a tutela sobre:
+
+a) O Instituto do Vinho, do Bordado e Artesanato da Madeira, I. P.;
+
+b) O Parque Natural da Madeira;
+
+c) A IGA - Investimentos e Gestão da Água, S. A.;
+
+d) A Valor Ambiente - Gestão e Administração de Resíduos da Madeira, S. A.;
+
+e) A CARAM - Centro de Abate da Região Autónoma da Madeira, E. P. E.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2011/M - Diário da República n.º 106/2011, Série I de 2011-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2011-673472), em vigor a partir de 2011-06-02
+
+###### Artigo 9.º — Secretaria Regional dos Assuntos Sociais
+
+1 - À Secretaria Regional dos Assuntos Sociais são cometidas as atribuições referentes aos sectores seguintes:
+
+a) Saúde;
+
+b) Segurança social;
+
+c) Protecção civil.
+
+2 - A Secretaria Regional dos Assuntos Sociais exerce a tutela sobre:
+
+a) O Centro de Segurança Social da Madeira;
+
+b) O Serviço Regional de Protecção Civil e Bombeiros da Madeira, I. P.;
+
+c) O Serviço Regional de Saúde, Entidade Pública Empresarial, E. P. E.
+
+### Capítulo III — Gabinetes dos membros do Governo Regional
+
+###### Artigo 10.º — Composição dos gabinetes
+
+1 - Os gabinetes dos membros do Governo Regional são compostos pelos chefe de gabinete, adjuntos do gabinete e secretários pessoais.
+
+2 - O Gabinete do Presidente do Governo Regional é composto por um máximo de quatro adjuntos e quatro secretários pessoais, o do Vice-Presidente do Governo composto por um máximo de três adjuntos e três secretários pessoais e dos secretários regionais, compostos por um máximo de dois adjuntos e dois secretários pessoais.
+
+3 - O regime, a composição e a orgânica dos Gabinetes referidos no n.º 1 deste artigo regem-se pela legislação específica regional e, subsidiariamente, pelo disposto no Decreto-Lei n.º 262/88, de 23 de Julho.
+
+###### Artigo 11.º — Conselheiros técnicos
+
+1 - Para a prossecução de assuntos interdepartamentais, poderão ser nomeados conselheiros técnicos, que farão parte integrante dos gabinetes dos membros do Governo Regional, os quais serão, para todos os efeitos, equiparados a adjuntos.
+
+2 - Os conselheiros técnicos serão nomeados e exonerados livremente por resolução do Conselho do Governo Regional e mediante proposta do membro do Governo Regional responsável pelo sector.
+
+### Capítulo IV — Disposições finais e transitórias
+
+Título único
+
+Normas transitórias
+
+###### Artigo 12.º — Reestruturações orgânicas
+
+1 - Nos termos da alínea c) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, a Vice-Presidência do Governo e as secretarias regionais procederão às reestruturações orgânicas decorrentes do presente diploma.
+
+2 - No prazo de 180 dias a contar da data de entrada em vigor do presente diploma, devem ser submetidos ao Conselho do Governo Regional as propostas de decreto regulamentar regional que consagrem para os departamentos governamentais referidos no número anterior, organismos ou serviços as alterações que se revelem necessárias e decorram do presente diploma.
+
+###### Artigo 13.º — Norma remissiva
+
+1 - As referências feitas em diplomas legais às secretarias regionais extintas consideram-se para todos os efeitos como reportadas à Vice-Presidência ou secretarias regionais que, pelo presente diploma, detenham a tutela do sector.
+
+2 - As atribuições e competências relativas aos sectores que, mediante o presente diploma, transitam para a Vice-Presidência ou secretarias regionais consideram-se cometidas automaticamente a estas últimas.
+
+###### Artigo 14.º — Transferência de serviços, de competências e tutelas
+
+1 - Todos os serviços que são transferidos ou integrados noutros departamentos do Governo Regional mantêm a mesma natureza jurídica, modificando-se apenas, conforme os casos, o superior hierárquico ou o órgão de tutela, sem prejuízo do que nesta matéria as respectivas leis orgânicas vierem a dispor.
+
+2 - As competências, os direitos e as obrigações de que eram titulares os departamentos, organismos ou serviços são automaticamente transferidos para os correspondentes novos departamentos, organismos ou serviços que os substituem, sem dependência de quaisquer formalidades.
+
+3 - A superintendência e a tutela da Administração Pública regional indirecta, das empresas do sector público regional, das sociedades participadas ou a elas equiparadas, serão exercidas pelo membro do Governo Regional que tenha a seu cargo o sector em que se integram.
+
+###### Artigo 15.º — Transferência de pessoal
+
+As alterações na organização e funcionamento do Governo Regional são acompanhadas pela correspondente transferência do pessoal sem dependência de quaisquer formalidades e sem prejuízo dos respectivos direitos consagrados na lei.
+
+###### Artigo 16.º — Encargos orçamentais
+
+1 - Até à aprovação do Orçamento da Região Autónoma da Madeira para 2008 mantém-se a expressão orçamental da organização e funcionamento do Governo Regional, aprovada pelo Decreto Legislativo Regional n.º 3/2007/M, de 9 de Janeiro.
+
+2 - Os encargos com os Gabinetes dos membros do Governo Regional criados ou reestruturados pelo presente diploma serão satisfeitos por conta das verbas dos correspondentes gabinetes extintos ou integrados noutros departamentos.
+
+3 - Os encargos relativos aos serviços ou organismos que transitam, no todo ou em parte, para departamentos diferentes continuam a ser processados por conta das verbas que lhes estão afectos.
+
+4 - Os projectos integrados no PIDDAR mantêm a expressão orçamental decorrente do Orçamento Regional para 2007, aprovado pelo diploma acima citado, sendo os encargos processados pelos serviços ou organismos que tutelam os respectivos sectores.
+
+5 - Todos os actos do Governo Regional relacionados com a aplicação do presente diploma que envolvam aumento de despesas ou diminuição de receitas são obrigatoriamente aprovados pelo Secretário Regional do Plano e Finanças.
+
+###### Artigo 17.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional em 21 de Junho de 2007.
+
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
+
+Assinado em 2 de Julho de 2007.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

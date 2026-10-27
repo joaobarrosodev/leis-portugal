@@ -1,0 +1,490 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32012R0392:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R0392-20200809",
+ "dre_path": null,
+ "source_lastmod": "2020-08-09",
+ "versions": [
+  {
+   "date": "2012-05-09",
+   "future": false,
+   "celex": "32012R0392",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "69ebdefb52daf4cb",
+    "3eb412cf6691047c",
+    "e396a8022234fd04",
+    "0d603c991597512d",
+    "19e9627f3c7d5ee8",
+    "171c17bcfc6de578",
+    "eaac79ff00e4aed1",
+    "05ce7233092e1a83",
+    "99e04a2e809fbe57",
+    "987aee3a886bedb2",
+    "9e05df17a29b9974",
+    "caf8a93a7c0ed103"
+   ]
+  },
+  {
+   "date": "2020-08-09",
+   "future": false,
+   "celex": "02012R0392-20200809",
+   "acts": [
+    {
+     "id": "eu:celex:32014R0518:por",
+     "title": "REGULAMENTO DELEGADO (UE) N. o 518/2014 DA COMISSÃO de 5 de março de 2014",
+     "published": null,
+     "celex": "32014R0518"
+    },
+    {
+     "id": "eu:celex:32017R0254:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2017/254 DA COMISSÃO de 30 de novembro de 2016",
+     "published": null,
+     "celex": "32017R0254"
+    },
+    {
+     "id": "eu:celex:32020R1059:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2020/… DA COMISSÃO de 27 de abril de 2020",
+     "published": null,
+     "celex": "32020R1059"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Responsabilidades dos fornecedores",
+    "Altera Artigo 4.º — Responsabilidades dos comerciantes",
+    "Altera Artigo 8.º — Revogação",
+    "Altera Artigo 9.º — Disposições transitórias",
+    "Altera Artigo 10.º — Entrada em vigor e aplicação",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita Rótulo",
+    "Adita 1. RÓTULO DOS SECADORES DE ROUPA POR EXAUSTÃO PARA USO DOMÉSTICO",
+    "Adita 2. RÓTULO DOS SECADORES DE ROUPA POR CONDENSAÇÃO PARA USO DOMÉSTICO",
+    "Adita 3. RÓTULO DOS SECADORES DE ROUPA ALIMENTADOS A GÁS PARA USO DOMÉSTICO",
+    "Adita 4. FORMATO DO RÓTULO",
+    "Adita ANEXO II",
+    "Adita Ficha de produto",
+    "Adita ANEXO III",
+    "Adita Documentação técnica",
+    "Adita ANEXO IV",
+    "Adita Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto",
+    "Adita ANEXO V",
+    "Adita Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+    "Adita ANEXO VI",
+    "Adita Classes de eficiência energética e classes de eficiência de condensação",
+    "Adita 1. CLASSES DE EFICIÊNCIA ENERGÉTICA",
+    "Adita 2. CLASSES DE EFICIÊNCIA DE CONDENSAÇÃO",
+    "Adita ANEXO VII",
+    "Adita Método de cálculo do índice de eficiência energética e da eficiência de condensação ponderada",
+    "Adita 1. CÁLCULO DO ÍNDICE DE EFICIÊNCIA ENERGÉTICA",
+    "Adita 2. CÁLCULOS RESPEITANTES ÀS INFORMAÇÕES SOBRE OS PRODUTOS PREVISTAS NOS ANEXOS II (FICHA DE PRODUTO), III (DOCUMENTAÇÃO TÉCNICA) E IV (INFORMAÇÕES A FORNECER NOS CASOS EM QUE NÃO SE PODE ESPERAR QUE OS UTILIZADORES FINAIS VEJAM O PRODUTO EXPOSTO)",
+    "Adita 3. CÁLCULO DA EFICIÊNCIA DE CONDENSAÇÃO PONDERADA",
+    "Adita ANEXO VIII",
+    "Adita Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet"
+   ],
+   "fragments": [
+    "cc011fbccf6aa62d",
+    "3eb412cf6691047c",
+    "2d0a17d973baa9fe",
+    "b07faea6cc757158",
+    "e6fd791bfccaccfc",
+    "171c17bcfc6de578",
+    "eaac79ff00e4aed1",
+    "05ce7233092e1a83",
+    "b99d674d0398709a",
+    "4b35aff05ea65332",
+    "1c93ccf79e145cfe",
+    "d664376e2a8dcecd",
+    "cd72cf4170b55dce",
+    "73024dc205b4a838",
+    "4d7dab5d2aa63c7f",
+    "a582e7d6c73a1207",
+    "554b8fb558210566",
+    "852174729551523b",
+    "59a971c822ada198",
+    "720af75c92791b10",
+    "3c1da05c2104a09c",
+    "e03a0eb4d5b2eef3",
+    "64f2965248ecedee",
+    "64610ae29a6cb67c",
+    "ea91b1f76506df55",
+    "90c7d2baf4d44ee2",
+    "84f04cb1bbda76b1",
+    "d164e032f9251d75",
+    "01b621c3ac70bd92",
+    "d46ca50274582635",
+    "451128a1a8e1c2a6",
+    "137dbdb4e53b76d6",
+    "3632e708503b8a3f",
+    "cfaf3fa00373768b",
+    "1b41b51ec3248d43",
+    "9887bfa6a6962aa2",
+    "914cc11f37d974ee"
+   ]
+  }
+ ],
+ "fragments": {
+  "69ebdefb52daf4cb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de março de 2012\n\nque complementa a Diretiva 2010/30/UE do Parlamento Europeu e do Conselho no que respeita à rotulagem energética dos secadores de roupa para uso doméstico\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Diretiva 2010/30/UE do Parlamento Europeu e do Conselho, de 19 de maio de 2010, relativa à indicação do consumo de energia e de outros recursos por parte dos produtos relacionados com a energia, por meio de rotulagem e outras indicações uniformes relativas aos produtos [([^1])](http://publications.europa.eu/resource/cellar/ed10ba42-5bc7-49e1-ad1a-9ea98efaaf15.0001.04/DOC_1#ntr1-L_2012123PT.01000101-E0001), nomeadamente o artigo 10.º,\n\nConsiderando o seguinte:\n\n(1) Nos termos da Diretiva 2010/30/UE, a Comissão deve adotar atos delegados relativos à rotulagem dos produtos relacionados com a energia que representem um potencial significativo de poupança de energia e cujos níveis de desempenho variem consideravelmente para uma funcionalidade equivalente.\n\n(2) Foram estabelecidas disposições em matéria de rotulagem energética dos secadores de roupa para uso doméstico pela Diretiva 95/13/CE da Comissão, de 23 de maio de 1995, relativa à aplicação da Diretiva 92/75/CEE do Conselho à rotulagem energética de secadores de roupa elétricos para uso doméstico [([^2])](http://publications.europa.eu/resource/cellar/ed10ba42-5bc7-49e1-ad1a-9ea98efaaf15.0001.04/DOC_1#ntr2-L_2012123PT.01000101-E0002).\n\n(3) A energia consumida pelos secadores de roupa para uso doméstico representa uma parte importante da procura total de energia para uso doméstico na União. Para além das melhorias de eficiência energética já alcançadas, existe ainda margem para uma redução substancial do consumo de energia dos secadores de roupa para uso doméstico.\n\n(4) Importa revogar a Diretiva 95/13/CE e estabelecer novas disposições por intermédio do presente regulamento, de forma a assegurar que o rótulo energético proporcione incentivos dinâmicos para que os fornecedores melhorem ainda mais a eficiência energética dos secadores de roupa para uso doméstico e acelerem a transformação do mercado rumo a tecnologias energeticamente eficientes.\n\n(5) As máquinas combinadas de lavar e secar roupa para uso doméstico são abrangidas pela Diretiva 96/60/CE da Comissão, de 19 de setembro de 1996, relativa à aplicação da Diretiva 92/75/CEE do Conselho à etiquetagem energética das máquinas combinadas de lavar e secar roupa para uso doméstico [([^3])](http://publications.europa.eu/resource/cellar/ed10ba42-5bc7-49e1-ad1a-9ea98efaaf15.0001.04/DOC_1#ntr3-L_2012123PT.01000101-E0003). Têm características especiais e devem, por conseguinte, ser isentas do âmbito de aplicação do presente regulamento.\n\n(6) As informações fornecidas no rótulo devem ser obtidas utilizando métodos de medição fiáveis, precisos e reprodutíveis que tomem em consideração os métodos de medição geralmente reconhecidos como os mais avançados, incluindo, quando disponíveis, as normas harmonizadas adotadas pelos organismos europeus de normalização, enumeradas no anexo I da Diretiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas [([^4])](http://publications.europa.eu/resource/cellar/ed10ba42-5bc7-49e1-ad1a-9ea98efaaf15.0001.04/DOC_1#ntr4-L_2012123PT.01000101-E0004).\n\n(7) O presente regulamento deve especificar um modelo e um conteúdo uniformes para o rótulo dos secadores de roupa para uso doméstico.\n\n(8) Além disso, o presente regulamento deve especificar os requisitos em matéria de «documentação técnica» e de «ficha de produto» dos secadores de roupa para uso doméstico.\n\n(9) Por outro lado, o presente regulamento deve especificar os requisitos relativos às informações a fornecer para qualquer forma de venda à distância e de publicidade aos secadores de roupa para uso doméstico, bem como qualquer forma de material técnico para a promoção de tais aparelhos.\n\n(10) É adequado prever uma revisão do presente regulamento tendo em conta o progresso tecnológico.\n\n(11) A fim de facilitar a transição da Diretiva 95/13/CE para o presente regulamento, os secadores de roupa para uso doméstico rotulados em conformidade com o presente regulamento devem ser considerados conformes com a Diretiva 95/13/CE.\n\n(12) A Diretiva 95/13/CE deve, por conseguinte, ser revogada,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "3eb412cf6691047c": {
+   "fragment_id": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1. O presente regulamento estabelece requisitos para a rotulagem e o fornecimento de informações adicionais sobre os secadores de roupa para uso doméstico alimentados pela rede de eletricidade e alimentados a gás e sobre os secadores de roupa para uso doméstico encastrados, incluindo os vendidos para uso não doméstico.\n\n2. O presente regulamento não é aplicável às máquinas combinadas de lavar e secar roupa para uso doméstico nem aos hidroextratores para uso doméstico."
+  },
+  "e396a8022234fd04": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nAlém das definições estabelecidas no artigo 2.º da Diretiva 2010/30/UE, são aplicáveis para efeitos do presente regulamento as seguintes definições:\n\n1) **«Secador de roupa para uso doméstico»**: um aparelho no qual os têxteis são secados por rotação num tambor em que passa ar aquecido e que é concebido para ser utilizado principalmente para fins não profissionais;\n\n2) **«Secador de roupa para uso doméstico, encastrado»**: um secador de roupa para uso doméstico destinado a ser instalado num armário, numa reentrância preparada numa parede, ou num local semelhante, com adaptação necessária ao equipamento circundante;\n\n3) **«Máquina combinada de lavar e secar roupa para uso doméstico»**: uma máquina de lavar roupa para uso doméstico que inclui uma função de extração por centrifugação e uma função de secagem dos têxteis, normalmente por aquecimento e rotação;\n\n4) **«Hidroextrator para uso doméstico», também conhecido pela designação comercial de «centrifugador»**: um aparelho no qual a água é removida dos têxteis por ação centrífuga num tambor rotativo e é drenada por uma bomba automática, destinado a ser utilizado principalmente para fins não profissionais;\n\n5) **«Secador de roupa por exaustão»**: um secador de roupa que recolhe no exterior ar fresco, o faz passar nos têxteis e que evacua o ar húmido resultante para o espaço interior ou para o exterior;\n\n6) **«Secador de roupa por condensação»**: um secador de roupa que inclui um dispositivo (que utiliza a condensação ou qualquer outro meio) para a remoção da humidade do ar utilizado para o processo de secagem;\n\n7) **«Secador de roupa automático»**: um secador de roupa que interrompe o processo de secagem quando é detetado na carga um certo teor de humidade, por exemplo, mediante sensor de condutividade ou sensor térmico;\n\n8) **«Secador de roupa não automático»**: um secador de roupa que interrompe o processo de secagem após um período predefinido, habitualmente controlado por temporizador, mas que pode também ser desligado manualmente;\n\n9) **«Programa»**: uma série de operações predefinidas e declaradas pelo fornecedor como adequadas para a secagem de certos tipos de têxteis;\n\n10) **«Ciclo»**: um processo de secagem completo, conforme definido para o programa selecionado;\n\n11) **«Duração do programa»**: o tempo decorrido entre o início e o fim do programa, excluindo o eventual funcionamento diferido programado pelo utilizador final;\n\n12) **«Capacidade nominal»**: a massa máxima em quilogramas, indicada pelo fornecedor em frações de 0,5 kg de têxteis secos de um determinado tipo, que pode ser tratada num secador de roupa para uso doméstico no programa selecionado, quando carregado de acordo com as instruções do fornecedor;\n\n13) **«Carga parcial»**: metade da capacidade nominal de um secador de roupa para uso doméstico num dado programa;\n\n14) **«Eficiência de condensação»**: a relação entre a massa de água condensada por um secador de roupa por condensação e a massa de água removida da carga no final de um ciclo;\n\n15) **«Estado de desativação»**: estado em que o secador de roupa para uso doméstico é desligado, por meio de comandos do aparelho ou de interruptores acessíveis e destinados a ser operados pelo utilizador final durante a utilização normal, de modo a atingir o consumo de energia mais reduzido, suscetível de persistir por tempo indeterminado, enquanto o secador de roupa para uso doméstico está ligado a uma fonte de energia e é utilizado de acordo com as instruções do fornecedor; quando não existem comandos ou interruptores acessíveis ao utilizador final, o «estado de desativação» significa o estado seguinte à passagem do secador de roupa para uso doméstico, pelos seus próprios meios, a um consumo estacionário em termos de potência;\n\n16) **«Estado inativo»**: o estado de consumo de energia mais reduzido que pode persistir por tempo indeterminado após o final do programa sem qualquer intervenção suplementar do utilizador final que não seja o descarregamento do secador de roupa para uso doméstico;\n\n17) **«Secador de roupa para uso doméstico equivalente»**: um modelo de secador de roupa para uso doméstico colocado no mercado com capacidade nominal, características técnicas e de desempenho, consumo de energia, eventual eficiência de condensação, duração do programa normal de algodão e emissão de ruído aéreo durante a secagem idênticos aos de outro modelo de secador de roupa para uso doméstico colocado no mercado com um número de código comercial diferente pelo mesmo fornecedor;\n\n18) **«Utilizador final»**: um consumidor que compra ou se prevê que compre um secador de roupa para uso doméstico;\n\n19) **«Ponto de venda»**: um local no qual os secadores de roupa para uso doméstico são colocados em exposição ou postos à venda, em locação ou em locação com opção de compra.\n\n20) **«Programa normal de algodão»**: o ciclo que efetua a secagem de roupa de algodão, com um teor inicial de humidade da carga de 60 % e um teor final que pode descer até 0 %."
+  },
+  "0d603c991597512d": {
+   "fragment_id": "Artigo 3.º — Responsabilidades dos fornecedores",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Responsabilidades dos fornecedores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Responsabilidades dos fornecedores\n\nOs fornecedores devem assegurar que:\n\na) Cada secador de roupa para uso doméstico seja fornecido com um rótulo impresso com o formato e as informações previstos no anexo I;\n\nb) Seja disponibilizada uma ficha de produto, como previsto no anexo II;\n\nc) A documentação técnica prevista no anexo III seja disponibilizada, mediante pedido, às autoridades dos Estados-Membros e à Comissão;\n\nd) Qualquer anúncio relativo a um modelo específico de secador de roupa para uso doméstico indique a classe de eficiência energética, no caso de o anúncio fornecer informação relativa à energia ou aos preços;\n\ne) Qualquer material técnico promocional relativo a um modelo específico de secador de roupa para uso doméstico, que descreve os seus parâmetros técnicos específicos, indique a classe de eficiência energética do referido modelo."
+  },
+  "19e9627f3c7d5ee8": {
+   "fragment_id": "Artigo 4.º — Responsabilidades dos comerciantes",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Responsabilidades dos comerciantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Responsabilidades dos comerciantes\n\nOs comerciantes devem assegurar que:\n\na) Cada secador de roupa para uso doméstico, no ponto de venda, ostente o rótulo facultado pelos fornecedores, em conformidade com o artigo 3.º, alínea a), na sua parte externa, à frente ou em cima, de modo a ser manifestamente visível;\n\nb) Os secadores de roupa para uso doméstico colocados à venda, em locação ou em locação com opção de compra em condições em que não se pode esperar que o utilizador final veja o produto exposto, como especificado no artigo 7.º da Diretiva 2010/30/UE, sejam comercializados com as informações que os fornecedores devem facultar nos termos do anexo IV do presente regulamento;\n\nc) Qualquer anúncio relativo a um modelo específico de secador de roupa para uso doméstico contenha uma referência à classe de eficiência energética, no caso de o anúncio fornecer informação relativa à energia ou aos preços;\n\nd) Qualquer material técnico promocional relativo a um modelo específico de secador de roupa para uso doméstico, que descreve os seus parâmetros técnicos específicos, inclua uma referência à classe de eficiência energética do referido modelo."
+  },
+  "171c17bcfc6de578": {
+   "fragment_id": "Artigo 5.º — Métodos de medição",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Métodos de medição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Métodos de medição\n\nAs informações a facultar nos termos dos artigos 3.º e 4.º devem ser obtidas por métodos de medição fiáveis, precisos e reprodutíveis, que tomem em consideração os métodos de medição geralmente reconhecidos como os mais avançados."
+  },
+  "eaac79ff00e4aed1": {
+   "fragment_id": "Artigo 6.º — Procedimento de verificação para efeitos de fiscalização do mercado",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Procedimento de verificação para efeitos de fiscalização do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Procedimento de verificação para efeitos de fiscalização do mercado\n\nOs Estados-Membros devem aplicar o procedimento previsto no anexo V ao avaliarem a conformidade da classe de eficiência energética declarada, do consumo de energia por ciclo, da eventual classe de eficiência de condensação, da capacidade nominal, do consumo de energia em estado de desativação e em estado inativo, da duração do estado inativo, da duração do programa e da emissão de ruído aéreo."
+  },
+  "05ce7233092e1a83": {
+   "fragment_id": "Artigo 7.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Revisão\n\nA Comissão revê o presente regulamento com base no progresso tecnológico o mais tardar cinco anos após a sua entrada em vigor. Nessa revisão são avaliadas, nomeadamente, as tolerâncias aplicáveis à verificação que constam do anexo V."
+  },
+  "99e04a2e809fbe57": {
+   "fragment_id": "Artigo 8.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Revogação\n\nA Diretiva 95/13/CE é revogada com efeitos a partir de 29 de maio de 2012."
+  },
+  "987aee3a886bedb2": {
+   "fragment_id": "Artigo 9.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições transitórias\n\n1. O artigo 3.º, alíneas d) e e), e o artigo 4.º, alíneas b), c) e d), não se aplicam aos anúncios impressos nem ao material técnico promocional impresso publicados antes de 29 de setembro de 2012.\n\n2. Os secadores de roupa para uso doméstico colocados no mercado antes de 29 de maio de 2012 devem cumprir as disposições previstas na Diretiva 95/12/CE.\n\n3. Os secadores de roupa para uso doméstico que cumprem as disposições do presente regulamento e que sejam colocados no mercado ou postos à venda, em locação ou em locação com opção de compra antes de 29 de maio de 2012 são considerados conformes com os requisitos da Diretiva 95/13/CE."
+  },
+  "9e05df17a29b9974": {
+   "fragment_id": "Artigo 10.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor e aplicação\n\n1. O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\n2. É aplicável a partir de 29 de maio de 2012. Contudo, o artigo 3.º, alíneas d) e e), e o artigo 4.º, alíneas b), c) e d), são aplicáveis a partir de 29 de setembro de 2012.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 1 de março de 2012.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "caf8a93a7c0ed103": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/ed10ba42-5bc7-49e1-ad1a-9ea98efaaf15.0001.04/DOC_1#ntc1-L_2012123PT.01000101-E0001) [JO L 153 de 18.6.2010, p. 1](http://publications.europa.eu/resource/oj/JOL_2010_153_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/ed10ba42-5bc7-49e1-ad1a-9ea98efaaf15.0001.04/DOC_1#ntc2-L_2012123PT.01000101-E0002) [JO L 136 de 21.6.1995, p. 28](http://publications.europa.eu/resource/oj/JOL_1995_136_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/ed10ba42-5bc7-49e1-ad1a-9ea98efaaf15.0001.04/DOC_1#ntc3-L_2012123PT.01000101-E0003) [JO L 266 de 18.10.1996, p. 1](http://publications.europa.eu/resource/oj/JOL_1996_266_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/ed10ba42-5bc7-49e1-ad1a-9ea98efaaf15.0001.04/DOC_1#ntc4-L_2012123PT.01000101-E0004) [JO L 204 de 21.7.1998, p. 37](http://publications.europa.eu/resource/oj/JOL_1998_204_R_TOC)."
+  },
+  "cc011fbccf6aa62d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de março de 2012\n\nque complementa a Diretiva 2010/30/UE do Parlamento Europeu e do Conselho no que respeita à rotulagem energética dos secadores de roupa para uso doméstico\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "2d0a17d973baa9fe": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nAlém das definições estabelecidas no artigo 2.º da Diretiva 2010/30/UE, são aplicáveis para efeitos do presente regulamento as seguintes definições:\n\n1) «Secador de roupa para uso doméstico»: um aparelho no qual os têxteis são secados por rotação num tambor em que passa ar aquecido e que é concebido para ser utilizado principalmente para fins não profissionais;\n\n2) «Secador de roupa para uso doméstico, encastrado»: um secador de roupa para uso doméstico destinado a ser instalado num armário, numa reentrância preparada numa parede, ou num local semelhante, com adaptação necessária ao equipamento circundante;\n\n3) «Máquina combinada de lavar e secar roupa para uso doméstico»: uma máquina de lavar roupa para uso doméstico que inclui uma função de extração por centrifugação e uma função de secagem dos têxteis, normalmente por aquecimento e rotação;\n\n4) «Hidroextrator para uso doméstico», também conhecido pela designação comercial de «centrifugador»: um aparelho no qual a água é removida dos têxteis por ação centrífuga num tambor rotativo e é drenada por uma bomba automática, destinado a ser utilizado principalmente para fins não profissionais;\n\n5) «Secador de roupa por exaustão»: um secador de roupa que recolhe no exterior ar fresco, o faz passar nos têxteis e que evacua o ar húmido resultante para o espaço interior ou para o exterior;\n\n6) «Secador de roupa por condensação»: um secador de roupa que inclui um dispositivo (que utiliza a condensação ou qualquer outro meio) para a remoção da humidade do ar utilizado para o processo de secagem;\n\n7) «Secador de roupa automático»: um secador de roupa que interrompe o processo de secagem quando é detetado na carga um certo teor de humidade, por exemplo, mediante sensor de condutividade ou sensor térmico;\n\n8) «Secador de roupa não automático»: um secador de roupa que interrompe o processo de secagem após um período predefinido, habitualmente controlado por temporizador, mas que pode também ser desligado manualmente;\n\n9) «Programa»: uma série de operações predefinidas e declaradas pelo fornecedor como adequadas para a secagem de certos tipos de têxteis;\n\n10) «Ciclo»: um processo de secagem completo, conforme definido para o programa selecionado;\n\n11) «Duração do programa»: o tempo decorrido entre o início e o fim do programa, excluindo o eventual funcionamento diferido programado pelo utilizador final;\n\n12) «Capacidade nominal»: a massa máxima em quilogramas, indicada pelo fornecedor em frações de 0,5 kg de têxteis secos de um determinado tipo, que pode ser tratada num secador de roupa para uso doméstico no programa selecionado, quando carregado de acordo com as instruções do fornecedor;\n\n13) «Carga parcial»: metade da capacidade nominal de um secador de roupa para uso doméstico num dado programa;\n\n14) «Eficiência de condensação»: a relação entre a massa de água condensada por um secador de roupa por condensação e a massa de água removida da carga no final de um ciclo;\n\n15) «Estado de desativação»: estado em que o secador de roupa para uso doméstico é desligado, por meio de comandos do aparelho ou de interruptores acessíveis e destinados a ser operados pelo utilizador final durante a utilização normal, de modo a atingir o consumo de energia mais reduzido, suscetível de persistir por tempo indeterminado, enquanto o secador de roupa para uso doméstico está ligado a uma fonte de energia e é utilizado de acordo com as instruções do fornecedor; quando não existem comandos ou interruptores acessíveis ao utilizador final, o «estado de desativação» significa o estado seguinte à passagem do secador de roupa para uso doméstico, pelos seus próprios meios, a um consumo estacionário em termos de potência;\n\n16) «Estado inativo»: o estado de consumo de energia mais reduzido que pode persistir por tempo indeterminado após o final do programa sem qualquer intervenção suplementar do utilizador final que não seja o descarregamento do secador de roupa para uso doméstico;\n\n17) «Secador de roupa para uso doméstico equivalente»: um modelo de secador de roupa para uso doméstico colocado no mercado com capacidade nominal, características técnicas e de desempenho, consumo de energia, eventual eficiência de condensação, duração do programa normal de algodão e emissão de ruído aéreo durante a secagem idênticos aos de outro modelo de secador de roupa para uso doméstico colocado no mercado com um número de código comercial diferente pelo mesmo fornecedor;\n\n18) «Utilizador final»: um consumidor que compra ou se prevê que compre um secador de roupa para uso doméstico;\n\n19) «Ponto de venda»: um local no qual os secadores de roupa para uso doméstico são colocados em exposição ou postos à venda, em locação ou em locação com opção de compra.\n\n20) «Programa normal de algodão»: o ciclo que efetua a secagem de roupa de algodão, com um teor inicial de humidade da carga de 60 % e um teor final que pode descer até 0 %."
+  },
+  "b07faea6cc757158": {
+   "fragment_id": "Artigo 3.º — Responsabilidades dos fornecedores",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Responsabilidades dos fornecedores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Responsabilidades dos fornecedores\n\nOs fornecedores devem assegurar que:\n\na) Cada secador de roupa para uso doméstico seja fornecido com um rótulo impresso com o formato e as informações previstos no anexo I;\n\nb) Seja disponibilizada uma ficha de produto, como previsto no anexo II;\n\nc) A documentação técnica prevista no anexo III seja disponibilizada, mediante pedido, às autoridades dos Estados-Membros e à Comissão;\n\nd) Qualquer anúncio relativo a um modelo específico de secador de roupa para uso doméstico indique a classe de eficiência energética, no caso de o anúncio fornecer informação relativa à energia ou aos preços;\n\ne) Qualquer material técnico promocional relativo a um modelo específico de secador de roupa para uso doméstico, que descreve os seus parâmetros técnicos específicos, indique a classe de eficiência energética do referido modelo;\n\nf) Seja disponibilizado aos comerciantes um rótulo eletrónico com o formato e as informações previstos no anexo I, para cada modelo de secador de roupa para uso doméstico colocado no mercado a partir de 1 de janeiro de 2015 com um novo identificador de modelo. Esse rótulo pode também ser disponibilizado aos distribuidores para outros modelos de secador de roupa para uso doméstico;\n\ng) Seja disponibilizada aos comerciantes uma ficha de produto eletrónica como previsto no anexo II, para cada modelo de secador de roupa para uso doméstico colocado no mercado a partir de 1 de janeiro de 2015 com um novo identificador de modelo. Essa ficha pode também ser disponibilizada aos distribuidores para outros modelos de secador de roupa para uso doméstico."
+  },
+  "e6fd791bfccaccfc": {
+   "fragment_id": "Artigo 4.º — Responsabilidades dos comerciantes",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Responsabilidades dos comerciantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Responsabilidades dos comerciantes\n\nOs comerciantes devem assegurar que:\n\na) Cada secador de roupa para uso doméstico, no ponto de venda, ostente o rótulo facultado pelos fornecedores, em conformidade com o artigo 3.º, alínea a), na sua parte externa, à frente ou em cima, de modo a ser manifestamente visível;\n\nb) Os secadores de roupa para uso doméstico postos à venda, em locação ou em locação com opção de compra em condições em que não se pode esperar que o utilizador final veja o produto exposto, como especificado no artigo 7.º da Diretiva 2010/30/UE, sejam comercializados com as informações facultadas pelos fornecedores nos termos do anexo IV do presente regulamento. Caso a oferta seja feita através da Internet e tenham sido disponibilizados um rótulo e uma ficha de produto eletrónicos em conformidade com o artigo 3.º, alíneas f) e g), aplica-se, em vez do que precede, o disposto no anexo VIII;\n\nc) Qualquer anúncio relativo a um modelo específico de secador de roupa para uso doméstico contenha uma referência à classe de eficiência energética, no caso de o anúncio fornecer informação relativa à energia ou aos preços;\n\nd) Qualquer material técnico promocional relativo a um modelo específico de secador de roupa para uso doméstico, que descreve os seus parâmetros técnicos específicos, inclua uma referência à classe de eficiência energética do referido modelo."
+  },
+  "b99d674d0398709a": {
+   "fragment_id": "Artigo 8.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Revogação\n\nA Diretiva 95/13/CE é revogada com efeitos a partir de [**►C1**](http://publications.europa.eu/resource/celex/32012R0392R%2801%29) 29 de maio de 2013**◄**."
+  },
+  "4b35aff05ea65332": {
+   "fragment_id": "Artigo 9.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições transitórias\n\n1. O artigo 3.º, alíneas d) e e), e o artigo 4.º, alíneas b), c) e d), não se aplicam aos anúncios impressos nem ao material técnico promocional impresso publicados antes de [**►C1**](http://publications.europa.eu/resource/celex/32012R0392R%2801%29) 29 de setembro de 2013**◄**.\n\n2. Os secadores de roupa para uso doméstico colocados no mercado antes de [**►C1**](http://publications.europa.eu/resource/celex/32012R0392R%2801%29) 29 de maio de 2013**◄** devem cumprir as disposições previstas na Diretiva 95/12/CE.\n\n3. Os secadores de roupa para uso doméstico que cumprem as disposições do presente regulamento e que sejam colocados no mercado ou postos à venda, em locação ou em locação com opção de compra antes de [**►C1**](http://publications.europa.eu/resource/celex/32012R0392R%2801%29) 29 de maio de 2013**◄** são considerados conformes com os requisitos da Diretiva 95/13/CE."
+  },
+  "1c93ccf79e145cfe": {
+   "fragment_id": "Artigo 10.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor e aplicação\n\n1. O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\n2. É aplicável a partir de 29 de maio de 2013. Contudo, o artigo 3.º, alíneas d) e e), e o artigo 4.º, alíneas b), c) e d), são aplicáveis a partir de 29 de setembro de 2013.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "cd72cf4170b55dce": {
+   "fragment_id": "Rótulo",
+   "type": "divisao",
+   "heading": "Rótulo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Rótulo"
+  },
+  "73024dc205b4a838": {
+   "fragment_id": "1. RÓTULO DOS SECADORES DE ROUPA POR EXAUSTÃO PARA USO DOMÉSTICO",
+   "type": "divisao",
+   "heading": "1. RÓTULO DOS SECADORES DE ROUPA POR EXAUSTÃO PARA USO DOMÉSTICO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. RÓTULO DOS SECADORES DE ROUPA POR EXAUSTÃO PARA USO DOMÉSTICO\n\n1.1. O rótulo dos secadores de roupa por exaustão para uso doméstico deve conter as seguintes informações:\n\nI. O nome do fornecedor ou marca comercial;\n\nII. O identificador de modelo do fornecedor, isto é, o código, geralmente alfanumérico, que distingue um modelo específico de secador de roupa para uso doméstico de outros modelos com a mesma marca comercial ou o mesmo nome de fornecedor;\n\nIII. A classe de eficiência energética, tal como definida na secção 1 do anexo VI; a ponta da seta correspondente à classe de eficiência energética do secador de roupa para uso doméstico deve ficar no mesmo nível que a ponta da seta da correspondente classe de eficiência energética;\n\nIV. O consumo anual de energia ponderado (*AEC*), expresso em kWh/ano, arredondado por excesso às unidades e calculado em conformidade com o anexo VII;\n\nV. Informações sobre o tipo de secador de roupa para uso doméstico;\n\nVI. A duração do ciclo correspondente ao programa normal de algodão em plena carga, em minutos, arredondada ao minuto;\n\nVII. A capacidade nominal, em kg, para o programa normal de algodão em plena carga;\n\nVIII. O nível de potência sonora (valor médio ponderado – LWA) durante a fase de secagem, no programa normal de algodão em plena carga, expresso em dB, arredondado às unidades.\n\n1.2. O formato do rótulo dos secadores de roupa por exaustão para uso doméstico deve ser conforme com a secção 4 do presente anexo. Todavia, se a um modelo tiver sido atribuído um «Rótulo ecológico da UE» ao abrigo do Regulamento (CE) n.º 66/2010 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/cd4ee346-dbee-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#E0001)), pode ser acrescentada uma cópia do rótulo ecológico."
+  },
+  "4d7dab5d2aa63c7f": {
+   "fragment_id": "2. RÓTULO DOS SECADORES DE ROUPA POR CONDENSAÇÃO PARA USO DOMÉSTICO",
+   "type": "divisao",
+   "heading": "2. RÓTULO DOS SECADORES DE ROUPA POR CONDENSAÇÃO PARA USO DOMÉSTICO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. RÓTULO DOS SECADORES DE ROUPA POR CONDENSAÇÃO PARA USO DOMÉSTICO\n\n2.1. Para além das informações enumeradas na secção 1, ponto 1, o rótulo dos secadores de roupa por condensação para uso doméstico deve incluir:\n\nIX. A classe de eficiência de condensação, em conformidade com a secção 2 do anexo VI;\n\n2.2. O formato do rótulo dos secadores de roupa por condensação para uso doméstico deve ser conforme com a secção 4 do presente anexo. Todavia, se a um modelo tiver sido atribuído um «Rótulo ecológico da UE» ao abrigo do Regulamento (CE) n.º 66/2010, pode ser acrescentada uma cópia do rótulo ecológico da UE."
+  },
+  "a582e7d6c73a1207": {
+   "fragment_id": "3. RÓTULO DOS SECADORES DE ROUPA ALIMENTADOS A GÁS PARA USO DOMÉSTICO",
+   "type": "divisao",
+   "heading": "3. RÓTULO DOS SECADORES DE ROUPA ALIMENTADOS A GÁS PARA USO DOMÉSTICO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. RÓTULO DOS SECADORES DE ROUPA ALIMENTADOS A GÁS PARA USO DOMÉSTICO\n\n3.1. Devem ser incluídas no rótulo dos secadores de roupa alimentados a gás para uso doméstico as informações enumeradas na secção 1, ponto 1.\n\n3.2. O formato do rótulo dos secadores de roupa alimentados a gás para uso doméstico deve ser conforme com a secção 4 do presente anexo. Todavia, se a um modelo tiver sido atribuído um «Rótulo ecológico da UE» ao abrigo do Regulamento (CE) n.º 66/2010, pode ser acrescentada uma cópia do rótulo ecológico da UE."
+  },
+  "554b8fb558210566": {
+   "fragment_id": "4. FORMATO DO RÓTULO",
+   "type": "divisao",
+   "heading": "4. FORMATO DO RÓTULO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. FORMATO DO RÓTULO\n\n4.1. O rótulo dos secadores de roupa por exaustão para uso doméstico deve respeitar o seguinte formato.\n\na) O rótulo deve ter, pelo menos, uma largura de 110 mm e uma altura de 220 mm. Se o rótulo for impresso num formato maior, o seu conteúdo deve, contudo, manter-se proporcionado relativamente às especificações supra;\n\nb) O fundo deve ser branco;\n\nc) As cores são CMAP – ciano, magenta, amarelo e preto, de acordo com o seguinte exemplo: 00-70-X-00: 0 % ciano, 70 % magenta, 100 % amarelo, 0 % preto;\n\nd) O rótulo deve cumprir todos os requisitos que se seguem (os números referem-se à figura anterior):\n\n**Traço de rebordo do rótulo UE:** 5 pt – cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n**Logótipo UE** – cores: X-80-00-00 e 00-00-X-00.\n\n**Logótipo de energia:** cor: X-00-00-00. Pictograma apresentado; logótipo UE e logótipo de energia (combinados): largura: 92 mm, altura: 17 mm.\n\n**Rebordo dos sublogótipos:** 1 pt – cor: ciano 100 % – comprimento: 92,5 mm.\n\n**Escala de A-G**\n\n— **Seta:** altura: 7 mm, intervalo: 0,75 mm – cores:\n\n— **Texto:** Calibri bold 18 pt, maiúsculas e branco; símbolos «+»: Calibri bold 12 pt, branco, alinhado numa fila única.\n\n**Classe de eficiência energética**\n\n— **Seta:** largura: 26 mm, altura: 14 mm, 100 % preto;\n\n— **Texto:** Calibri bold 29 pt, maiúsculas e branco; símbolos «+»: Calibri bold 18 pt, branco, alinhado numa fila única.\n\n**Energia**\n\n— **Texto:** Calibri normal 11 pt, maiúsculas, 100 % preto.\n\n**Consumo de energia anual ponderado:**\n\n— **Rebordo:** 2 pt – cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n— **Valor:** Calibri bold 30 pt, 100 % preto.\n\n— **Segunda linha:** Calibri normal 14 pt, 100 % preto.\n\n**Tipo de secador de roupa para uso doméstico:**\n\n— **Pictograma apresentado**\n\n— **Rebordo:** 2 pt – cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n**Duração do ciclo:**\n\n— **Pictograma apresentado**\n\n— **Rebordo:** 2 pt – cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n— **Valor:** Calibri bold 24 pt, 100 % preto; e Calibri normal 16pt, 100 % preto.\n\n**Capacidade nominal:**\n\n— **Pictograma apresentado**\n\n— **Rebordo:** 2 pt – cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n— **Valor:** Calibri bold 24 pt, 100 % preto; e Calibri normal 16 pt, 100 % preto.\n\n**Nível de potência sonora:**\n\n— **Pictograma apresentado**\n\n— **Rebordo:** 2 pt – cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n— **Valor:** Calibri bold 24 pt, 100 % preto; e Calibri normal 16 pt, 100 % preto.\n\n**Asterisco:** Calibri normal 6 pt, 100 % preto.\n\n**Nome ou marca comercial do fornecedor.**\n\n**Identificador de modelo do fornecedor.**\n\nO nome do fornecedor ou marca comercial e o identificador de modelo devem caber num espaço de 92 × 15 mm.\n\n**Número do regulamento:** Calibri bold 9 pt, 100 % preto.\n\n4.2. O rótulo dos secadores de roupa por condensação para uso doméstico deve respeitar o seguinte formato.\n\na) O rótulo deve ter, pelo menos, uma largura de 110 mm e uma altura de 220 mm. Se o rótulo for impresso num formato maior, o seu conteúdo deve, contudo, manter-se proporcionado relativamente às especificações supra;\n\nb) O fundo deve ser branco;\n\nc) As cores são CMAP – ciano, magenta, amarelo e preto, de acordo com o seguinte exemplo: 00-70-X-00: 0 % ciano, 70 % magenta, 100 % amarelo, 0 % preto;\n\nd) O rótulo deve cumprir todos os requisitos que se seguem (os números referem-se à figura anterior):\n\n**Traço de rebordo do rótulo UE:** 5 pt – cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n**Logótipo UE** – cores: X-80-00-00 e 00-00-X-00.\n\n**Logótipo de energia:** cor: X-00-00-00. Pictograma apresentado; logótipo UE e logótipo de energia (combinados): largura: 92 mm, altura: 17 mm.\n\n**Rebordo dos sublogótipos:** 1 pt – cor: ciano 100 % – comprimento: 92,5 mm.\n\n**Escala de A-G**\n\n— **Seta:** altura: 7 mm, intervalo: 0,75 mm – cores:\n\n— **Texto:** Calibri bold 18 pt, maiúsculas e branco; símbolos «+»: Calibri bold 12 pt, branco, alinhado numa fila única.\n\n**Classe de eficiência energética**\n\n— **Seta:** largura: 26 mm, altura: 14 mm, 100 % preto;\n\n— **Texto:** Calibri bold 29 pt, maiúsculas e branco; símbolos «+»: Calibri bold 18 pt, branco, alinhado numa fila única.\n\n**Energia**\n\n— **Texto:** Calibri normal 11 pt, maiúsculas, 100 % preto.\n\n**Consumo de energia anual ponderado:**\n\n— **Rebordo:** 2 pt – cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n— **Valor:** Calibri bold 30 pt, 100 % preto.\n\n— **Segunda linha:** Calibri normal 14 pt, 100 % preto.\n\n**Tipo de secador de roupa para uso doméstico:**\n\n— **Pictograma apresentado**\n\n— **Rebordo:** 2 pt – cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n**Duração do ciclo:**\n\n— **Pictograma apresentado**\n\n— **Rebordo:** 2 pt – cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n— **Valor:** Calibri bold 24 pt, 100 % preto; e Calibri normal 16 pt, 100 % preto.\n\n**Capacidade nominal:**\n\n— **Pictograma apresentado**\n\n— **Rebordo:** 2 pt – cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n— **Valor:** Calibri bold 24 pt, 100 % preto; e Calibri normal 16 pt, 100 % preto.\n\n**Nível de potência sonora:**\n\n— **Pictograma apresentado**\n\n— **Rebordo:** 2 pt – cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n— **Valor:** Calibri bold 24 pt, 100 % preto; e Calibri normal 16 pt, 100 % preto.\n\n**Asterisco:** Calibri normal 6 pt, 100 % preto.\n\n**Nome ou marca comercial do fornecedor.**\n\n**Identificador de modelo do fornecedor.**\n\nO nome do fornecedor ou marca comercial e o identificador de modelo devem caber num espaço de 92 × 15 mm.\n\n**Número do regulamento:** Calibri bold 9 pt, 100 % preto.\n\n**Classe de eficiência de condensação:**\n\n— **Pictograma apresentado**\n\n— **Rebordo:** 2 pt – cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n— **Valor:** Calibri normal 16 pt, escala horizontal 75%, 100 % preto e Calibri bold 22 pt, escala horizontal 75%, 100 % preto.\n\n4.3. O rótulo dos secadores de roupa para uso doméstico alimentados a gás deve respeitar o seguinte formato.\n\na) O rótulo deve ter, pelo menos, uma largura de 110 mm e uma altura de 220 mm. Se o rótulo for impresso num formato maior, o seu conteúdo deve, contudo, manter-se proporcionado relativamente às especificações supra;\n\nb) O fundo deve ser branco;\n\nc) As cores são CMAP – ciano, magenta, amarelo e preto, de acordo com o seguinte exemplo: 00-70-X-00: 0 % ciano, 70 % magenta, 100 % amarelo, 0 % preto.\n\nd) O rótulo deve cumprir todos os requisitos que se seguem (os números referem-se à figura anterior):\n\n**Traço de rebordo do rótulo UE:** 5 pt – cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n**Logótipo UE** – cores: X-80-00-00 e 00-00-X-00.\n\n**Logótipo de energia:** cor: X-00-00-00. Pictograma apresentado; logótipo UE e logótipo de energia (combinados): largura: 92 mm, altura: 17 mm.\n\n**Rebordo dos sublogótipos:** 1 pt – cor: ciano 100 % – comprimento: 92,5 mm.\n\n**Escala de A-G**\n\n— **Seta:** altura: 7 mm, intervalo: 0,75 mm – cores:\n\n— **Texto:** Calibri bold 18 pt, maiúsculas e branco; símbolos «+»: Calibri bold 12 pt, branco, alinhado numa fila única.\n\n**Classe de eficiência energética**\n\n— **Seta:** largura: 26 mm, altura: 14 mm, 100 % preto.\n\n— **Texto:** Calibri bold 29 pt, maiúsculas e branco; símbolos «+»: Calibri bold 18 pt, branco, alinhado numa fila única.\n\n**Energia**\n\n— **Texto:** Calibri normal 11 pt, maiúsculas, 100 % preto.\n\n**Consumo de energia anual ponderado:**\n\n— **Rebordo:** 2 pt – cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n— **Valor:** Calibri bold 30 pt, 100 % preto.\n\n— **Segunda linha:** Calibri normal 14 pt, 100 % preto.\n\n**Tipo de secador de roupa para uso doméstico:**\n\n— **Pictograma apresentado**\n\n— **Rebordo:** 2 pt – cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n**Duração do ciclo:**\n\n— **Pictograma apresentado**\n\n— **Rebordo:** 2 pt – cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n— **Valor:** Calibri bold 24 pt, 100 % preto; e Calibri normal 16 pt, 100 % preto.\n\n**Capacidade nominal:**\n\n— **Pictograma apresentado**\n\n— **Rebordo:** 2 pt – cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n— **Valor:** Calibri bold 24 pt, 100 % preto; e Calibri normal 16 pt, 100 % preto.\n\n**Nível de potência sonora:**\n\n— **Pictograma apresentado**\n\n— **Rebordo:** 2 pt – cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n— **Valor:** Calibri bold 24 pt, 100 % preto; e Calibri normal 16 pt, 100 % preto.\n\n**Asterisco:** Calibri normal 6 pt, 100 % preto.\n\n**Nome ou marca comercial do fornecedor.**\n\n**Identificador de modelo do fornecedor.**\n\nO nome do fornecedor ou marca comercial e o identificador de modelo devem caber num espaço de 92 × 15 mm.\n\n**Número do regulamento:** Calibri bold 9 pt, 100 % preto."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "59a971c822ada198": {
+   "fragment_id": "Ficha de produto",
+   "type": "divisao",
+   "heading": "Ficha de produto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Ficha de produto\n\n1. As informações contidas na ficha de produto dos secadores de roupa para uso doméstico são facultadas pela ordem seguinte e incluídas na brochura de produto ou noutra documentação fornecida com o produto:\n\na) O nome do fornecedor ou marca comercial;\n\nb) O identificador de modelo do fornecedor, isto é, o código, geralmente alfanumérico, que distingue um modelo específico de secador de roupa para uso doméstico de outros modelos com a mesma marca registada ou o mesmo nome de fornecedor;\n\nc) A capacidade nominal, em kg de roupa de algodão, para o programa normal de algodão em plena carga;\n\nd) Uma menção indicando se se trata de um secador de roupa por exaustão, de um secador de roupa por condensação ou de um secador de roupa alimentado a gás, para uso doméstico;\n\ne) A classe de eficiência energética em conformidade com a secção 1 do anexo VI;\n\nf) Para secadores de roupa para uso doméstico alimentados pela rede de eletricidade:\n\ng) Uma indicação de que o secador de roupa para uso doméstico é um «secador de roupa automático» ou um «secador de roupa não automático»;\n\nh) Se tiver sido atribuído ao secador de roupa para uso doméstico um «Rótulo ecológico da UE» ao abrigo do Regulamento (CE) n.º 66/2010, esta informação pode ser incluída;\n\ni) O consumo de energia (*Edry*, *Edry½*, *Egdry*, *Egdry½*, *Egdry,a*, *Egdry½,a*) do programa normal de algodão em plena carga e em carga parcial;\n\nj) O consumo de energia em estado de desativação (*Po*) e em estado inativo (*Pl*) do programa normal de algodão em plena carga;\n\nk) Se o secador de roupa para uso doméstico estiver equipado com um sistema de gestão da energia, a duração do «estado inativo»;\n\nl) A indicação de que o «programa normal de algodão» utilizado em plena carga e em carga parcial é o programa normal de secagem a que se referem as informações constantes do rótulo e da ficha, de que esse programa é adequado para a secagem de roupa de algodão com um teor de humidade normal e de que é o programa mais eficiente para o algodão em termos de consumo de energia;\n\nm) A duração ponderada do «programa normal de algodão em plena carga e em carga parcial» (*Tt*) em minutos e arredondada ao minuto, bem como a duração do «programa normal de algodão em plena carga» (*Tdry*) e a duração do «programa normal de algodão em carga parcial» (*Tdry½*) em minutos e arredondada ao minuto;\n\nn) Se o secador de roupa para uso doméstico for um secador de roupa por condensação, a classe de eficiência de condensação em conformidade com a secção 2 do anexo VI, expressa como «a classe de eficiência de condensação \"X\" numa escala de G (menos eficiente) a A (mais eficiente)»; pode ser expressa por outros meios, desde que seja claro que a escala vai de G (menos eficiente) a A (mais eficiente);\n\no) Se o secador de roupa para uso doméstico for um secador de roupa por condensação, a eficiência média de condensação *Cdry* e *Cdry½* do programa normal de algodão em plena carga e em carga parcial e a eficiência de condensação ponderada (*Ct*) do «programa normal de algodão em plena carga e em carga parcial», expressa em percentagem e arredondada às unidades;\n\np) O nível de potência sonora (valor médio ponderado – LWA), expresso em dB e arredondado às unidades, do programa normal de algodão em plena carga;\n\nq) Se o secador de roupa para uso doméstico se destinar a ser encastrado, uma indicação nesse sentido.\n\n2. Uma ficha pode abranger vários modelos de secadores de roupa para uso doméstico fornecidos pelo mesmo fornecedor.\n\n3. Os dados constantes da ficha podem assumir a forma de uma cópia do rótulo, a cores ou a preto e branco. Nesse caso, devem ser também incluídos os dados enumerados na secção 1 que não estejam contidos no rótulo."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "3c1da05c2104a09c": {
+   "fragment_id": "Documentação técnica",
+   "type": "divisao",
+   "heading": "Documentação técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Documentação técnica\n\n1. A documentação técnica referida no artigo 3.º, alínea c), deve incluir:\n\na) O nome e endereço do fornecedor;\n\nb) Uma descrição geral do modelo de secador de roupa para uso doméstico, suficiente para a sua identificação inequívoca e fácil;\n\nc) Se adequado, as referências das normas harmonizadas aplicadas;\n\nd) Se adequado, as outras normas e especificações técnicas utilizadas;\n\ne) A identificação e assinatura da pessoa com poderes para representar o fornecedor;\n\nf) Os seguintes parâmetros técnicos para as medições:\n\ni) para secadores de roupa para uso doméstico alimentados pela rede de eletricidade:\n\nii) o consumo, em termos de potência, em «estado de desativação» e em «estado inativo»,\n\niii) a duração do «programa normal de algodão em plena carga» (*Tdry*) e do «programa normal de algodão em carga parcial» (*Tdry½*), em minutos e arredondada ao minuto,\n\niv) a duração do «estado inativo», se o secador de roupa para uso doméstico estiver equipado com um sistema de gestão da energia,\n\nv) se o secador de roupa para uso doméstico for um secador de roupa por condensação, a eficiência média de condensação do programa normal de algodão em plena carga *Cdry* e a eficiência média de condensação do programa normal de algodão em carga parcial *Cdry½*,\n\nvi) o nível de potência sonora;\n\ng) Os resultados dos cálculos efetuados em conformidade com o anexo VII.\n\n2. Sempre que as informações incluídas na documentação técnica relativamente a um modelo específico de secador de roupa para uso doméstico sejam resultantes de cálculos efetuados com base na conceção ou de extrapolações feitas a partir de outros secadores de roupa para uso doméstico equivalentes, ou de ambos, a documentação deve incluir os pormenores desses cálculos ou dessas extrapolações, ou de ambos, e dos ensaios realizados pelos fornecedores para verificarem a precisão dos cálculos efetuados. A documentação deve também incluir uma lista de todos os outros modelos de secadores de roupa para uso doméstico equivalentes para os quais as informações nela contidas tenham sido obtidas do mesmo modo."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "64f2965248ecedee": {
+   "fragment_id": "Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto",
+   "type": "divisao",
+   "heading": "Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto\n\n1. As informações referidas no artigo 4.º, alínea b), devem ser fornecidas pela seguinte ordem:\n\na) A capacidade nominal, em kg de algodão, para o programa normal de algodão em plena carga;\n\nb) Uma menção indicando se se trata de um secador de roupa por exaustão, de um secador de roupa por condensação ou de um secador de roupa alimentado a gás, para uso doméstico;\n\nc) A classe de eficiência energética, tal como definida na secção 1 do anexo VI;\n\nd) Para secadores de roupa para uso doméstico alimentados pela rede de eletricidade:\n\ne) Uma indicação de que o secador de roupa para uso doméstico é um «secador de roupa automático» ou um «secador de roupa não automático»;\n\nf) O consumo de energia (*Edry*,, *Egdry*,, *Egdry,a*, ) do programa normal de algodão em plena carga e em carga parcial, arredondado por excesso às centésimas e calculado em conformidade com o anexo VII;\n\ng) O consumo de energia em estado de desativação (*Po*) e em estado inativo (*Pl*) do programa normal de algodão em plena carga;\n\nh) A duração do «programa normal de algodão em plena carga» (*Tdry*) e do «programa normal de algodão em carga parcial» (*Tdry½*), em minutos e arredondada ao minuto, calculada em conformidade com o anexo VII;\n\ni) Se o secador de roupa para uso doméstico for um secador de roupa por condensação, a classe de eficiência de condensação em conformidade com a secção 2 do anexo VI;\n\nj) O nível de potência sonora (valor médio ponderado – LWA), expresso em dB e arredondado às unidades, do programa normal de algodão em plena carga;\n\nk) Se o secador de roupa para uso doméstico se destinar a ser encastrado, uma indicação nesse sentido.\n\n2. Caso sejam apresentados outros dados constantes da ficha de produto, esses dados devem respeitar a forma e a ordem especificadas no anexo II.\n\n3. A dimensão e o tipo de carateres utilizados para a impressão ou indicação dos dados referidos no presente anexo devem assegurar a sua legibilidade."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "ea91b1f76506df55": {
+   "fragment_id": "Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+   "type": "divisao",
+   "heading": "Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado\n\nAs tolerâncias de verificação definidas no presente anexo dizem apenas respeito à verificação, pelas autoridades dos Estados-Membros, dos parâmetros medidos e não podem ser utilizadas pelo fornecedor como tolerâncias admitidas para o estabelecimento dos valores constantes da documentação técnica. Os valores e classes indicados no rótulo ou na ficha de produto não podem ser mais favoráveis para o fornecedor do que os indicados na documentação técnica.\n\nQuando da verificação da conformidade do modelo de um produto com os requisitos estabelecidos no presente regulamento delegado, as autoridades dos Estados-Membros devem, relativamente aos requisitos referidos no presente anexo, aplicar o seguinte procedimento:\n\n(1) As autoridades dos Estados-Membros devem verificar uma só unidade do modelo.\n\n(2) Deve considerar-se que o modelo cumpre os requisitos aplicáveis se:\n\na) Os valores indicados na documentação técnica, nos termos do artigo 5.º, alínea b), da Diretiva 2010/30/UE (valores declarados), e, quando for caso disso, os valores utilizados para calcular esses valores não forem mais favoráveis para o fornecedor do que os valores correspondentes apresentados nos relatórios de ensaio em conformidade com o ponto iii) do referido artigo; e\n\nb) Os valores publicados no rótulo e na ficha do produto não forem mais favoráveis para o fornecedor do que os valores declarados, e a classe de eficiência energética indicada não for mais favorável para o fornecedor do que a classe determinada em função dos valores declarados; e\n\nc) Quando as autoridades do Estado-Membro procederem ao ensaio da unidade do modelo, os valores determinados (os valores dos parâmetros relevantes medidos no ensaio e os valores calculados a partir dessas medições) se situarem dentro dos limites das respetivas tolerâncias de verificação, constantes do quadro 1.\n\n(3) Se não se obtiverem os resultados referidos no ponto 2, alíneas a) ou b), deve considerar-se que o modelo e todos os modelos que figurem na documentação técnica do fornecedor como modelos equivalentes de secadores de roupa para uso doméstico não estão conformes com o presente regulamento delegado.\n\n(4) Se não se obtiver o resultado referido no ponto 2, alínea c), as autoridades dos Estados-Membros devem selecionar para ensaio três unidades adicionais do mesmo modelo. Em alternativa, as três unidades adicionais selecionadas podem ser de um ou mais dos modelos indicados como modelos equivalentes na documentação técnica do fornecedor.\n\n(5) O modelo deve ser considerado conforme com os requisitos aplicáveis se, relativamente a essas três unidades, a média aritmética dos valores determinados estiver conforme com as respetivas tolerâncias, constantes do quadro 1.\n\n(6) Se não se obtiver o resultado referido no ponto 5, deve considerar-se que o modelo e todos os modelos que figurem na documentação técnica do fornecedor como modelos equivalentes de secadores de roupa para uso doméstico não estão conformes com o presente regulamento delegado.\n\n(7) As autoridades dos Estados-Membros devem facultar, sem demora, todas as informações relevantes às autoridades dos outros Estados-Membros e à Comissão após ter sido tomada uma decisão de não-conformidade do modelo de acordo com o disposto nos pontos 3 e 6.\n\nAs autoridades dos Estados-Membros devem utilizar processos de medição que tomem em consideração os métodos de medição geralmente reconhecidos como os mais avançados, fiáveis, precisos e reprodutíveis, incluindo os métodos descritos em documentos cujas referências tenham sido publicadas para o efeito no *Jornal Oficial da União Europeia*. As autoridades dos Estados-Membros devem aplicar os métodos de medição e de cálculo estabelecidos no anexo VII.\n\nAs autoridades dos Estados-Membros devem aplicar apenas as tolerâncias de verificação que constam do quadro 1 e utilizar apenas o procedimento descrito nos pontos 1 a 7 no que diz respeito aos requisitos referidos no presente anexo. Não podem ser aplicadas outras tolerâncias, como as estabelecidas em normas harmonizadas ou em qualquer outro método de medição.\n\nParâmetros Tolerâncias de verificação\n\nConsumo anual de energia ponderado (*AEC*) O valor determinado não pode ser superior ao valor declarado de *AEC* em mais de 6 %.\n\nConsumo de energia ponderado (*Et*) O valor determinado não pode ser superior ao valor declarado de *Et* em mais de 6 %.\n\nEficiência de condensação ponderada (*Ct*) O valor determinado não pode ser inferior ao valor declarado de *Ct* em mais de 6 %.\n\nDuração ponderada do programa (*Tt*) O valor determinado não pode ser superior ao valor declarado de *Tt* em mais de 6 %.\n\nConsumo de energia em estado de desativação e em estado inativo (*Po* e *Pl*) Os valores determinados do consumo de energia *Po* e *Pl* de mais de 1,00 W não podem ser superiores aos valores declarados *Po* e *Pl* em mais de 6 %. O valor determinado do consumo de energia *Po* e *Pl* igual ou inferior a 1,00 W não pode ser superior aos valores declarados *Po* e *Pl* em mais de 0,10 W.\n\nDuração do estado inativo (*Tl*) O valor determinado não pode ser superior ao valor declarado de *Tl* em mais de 6 %.\n\nNível de potência sonora, *LWA* O valor determinado não pode ser superior ao valor declarado de *LWA*."
+  },
+  "90c7d2baf4d44ee2": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI"
+  },
+  "84f04cb1bbda76b1": {
+   "fragment_id": "Classes de eficiência energética e classes de eficiência de condensação",
+   "type": "divisao",
+   "heading": "Classes de eficiência energética e classes de eficiência de condensação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Classes de eficiência energética e classes de eficiência de condensação"
+  },
+  "d164e032f9251d75": {
+   "fragment_id": "1. CLASSES DE EFICIÊNCIA ENERGÉTICA",
+   "type": "divisao",
+   "heading": "1. CLASSES DE EFICIÊNCIA ENERGÉTICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. CLASSES DE EFICIÊNCIA ENERGÉTICA\n\nA classe de eficiência energética de um secador de roupa para uso doméstico é determinada com base no seu índice de eficiência energética (*EEI*) tal como estabelecido no Quadro 1.\n\nO índice de eficiência energética (*EEI*) de um secador de roupa para uso doméstico é calculado em conformidade com a secção 1 do anexo VII.\n\nClasse de eficiência energética Índice de eficiência energética\n\nA+++ (a mais eficiente) EEI < 24\n\nA++ 24 ≤ EEI < 32\n\nA+ 32 ≤ EEI < 42\n\nA 42 ≤ EEI < 65\n\nB 65 ≤ EEI < 76\n\nC 76 ≤ EEI < 85\n\nD (a menos eficiente) 85 ≤ EEI"
+  },
+  "01b621c3ac70bd92": {
+   "fragment_id": "2. CLASSES DE EFICIÊNCIA DE CONDENSAÇÃO",
+   "type": "divisao",
+   "heading": "2. CLASSES DE EFICIÊNCIA DE CONDENSAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. CLASSES DE EFICIÊNCIA DE CONDENSAÇÃO\n\nA classe de eficiência de condensação de um secador de roupa por condensação para uso doméstico é determinada com base na sua eficiência de condensação ponderada (*Ct*) tal como estabelecido no Quadro 2.\n\nA eficiência de condensação ponderada (*Ct*) de um secador de roupa por condensação para uso doméstico é determinada em conformidade com a secção 3 do anexo VII.\n\nClasse de eficiência de condensação Eficiência de condensação ponderada\n\nA (a mais eficiente) *Ct* > 90\n\nB 80 < *Ct* ≤ 90\n\nC 70 < *Ct* ≤ 80\n\nD 60 < *Ct* ≤ 70\n\nE 50 < *Ct* ≤ 60\n\nF 40 < *Ct* ≤ 50\n\nG (a menos eficiente) *Ct* ≤ 40"
+  },
+  "d46ca50274582635": {
+   "fragment_id": "ANEXO VII",
+   "type": "divisao",
+   "heading": "ANEXO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII"
+  },
+  "451128a1a8e1c2a6": {
+   "fragment_id": "Método de cálculo do índice de eficiência energética e da eficiência de condensação ponderada",
+   "type": "divisao",
+   "heading": "Método de cálculo do índice de eficiência energética e da eficiência de condensação ponderada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Método de cálculo do índice de eficiência energética e da eficiência de condensação ponderada"
+  },
+  "137dbdb4e53b76d6": {
+   "fragment_id": "1. CÁLCULO DO ÍNDICE DE EFICIÊNCIA ENERGÉTICA",
+   "type": "divisao",
+   "heading": "1. CÁLCULO DO ÍNDICE DE EFICIÊNCIA ENERGÉTICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. CÁLCULO DO ÍNDICE DE EFICIÊNCIA ENERGÉTICA\n\nPara o cálculo do índice de eficiência energética (*EEI*) de um modelo de secador de roupa para uso doméstico, o consumo anual de energia ponderado do referido secador no programa normal de algodão em plena carga e em carga parcial é comparado com o seu consumo anual de energia normalizado.\n\na) O índice de eficiência energética (*EEI*) é calculado do seguinte modo e aproximado às décimas:\n\n| AEC | = | consumo anual de energia ponderado do secador de roupa para uso doméstico |\n| --- | --- | --- |\n\n| SAEC | = | consumo anual de energia normalizado do secador de roupa para uso doméstico. |\n| --- | --- | --- |\n\nb) O consumo anual de energia normalizado (*SAEC*) é calculado do seguinte modo, expresso em kWh/ano e aproximado às centésimas:\n\n— para todos os secadores de roupa para uso doméstico que não sejam por exaustão:\n\n— para os secadores de roupa por exaustão para uso doméstico:\n\nc é a capacidade nominal do secador de roupa para uso doméstico no programa normal de algodão;\n\nTt é a duração ponderada do programa normal de algodão.\n\nc) O consumo anual de energia ponderado (*AEC*) é calculado do seguinte modo, expresso em kWh/ano e aproximado às centésimas:\n\ni)\n\n| Et | = | consumo de energia ponderado, em kWh e arredondado às centésimas, |\n| --- | --- | --- |\n\n| Po | = | potência em «estado de desativação» para o programa normal de algodão, em W e arredondada às centésimas, |\n| --- | --- | --- |\n\n| Pl | = | potência em «estado inativo» para o programa normal de algodão em plena carga, em W e arredondada às centésimas, |\n| --- | --- | --- |\n\n| Tt | = | duração ponderada do programa, em minutos e arredondada ao minuto, |\n| --- | --- | --- |\n\n| 160 | = | número total de ciclos de secagem por ano. |\n| --- | --- | --- |\n\nii) Quando o secador de roupa para uso doméstico é equipado de um sistema de gestão da energia, em que secador de roupa para uso doméstico passa automaticamente ao «estado de desativação» após o final do programa, o consumo anual de energia ponderado (*AEC*) é calculado tomando em consideração a duração efetiva do «estado inativo», de acordo com a seguinte fórmula:\n\n| Tl | = | Duração do «estado inativo» para o programa normal de algodão em plena carga, em minutos e arredondada ao minuto. |\n| --- | --- | --- |\n\nd) A duração ponderada do programa normal de algodão (*Tt*) é calculada em minutos do seguinte modo e arredondada ao minuto:\n\n| Tdry | = | duração do programa normal de algodão em plena carga, em minutos e arredondada ao minuto |\n| --- | --- | --- |\n\n| Tdry½ | = | duração do programa normal de algodão em carga parcial, em minutos e arredondada ao minuto. |\n| --- | --- | --- |\n\ne) O consumo de energia ponderado (*Et*) é calculado do seguinte modo, expresso em kWh e arredondado às centésimas:\n\n| Edry | = | consumo de energia do programa normal de algodão em plena carga, em kWh e arredondado às centésimas; |\n| --- | --- | --- |\n\n| Edry½ | = | consumo de energia do programa normal de algodão em carga parcial, em kWh e arredondado às centésimas. |\n| --- | --- | --- |\n\nf) Para os secadores de roupa para uso doméstico alimentados a gás, o consumo de energia no programa normal de algodão em plena carga e em carga parcial é calculado em kWh e arredondado às centésimas, do seguinte modo:\n\n| Egdry | = | consumo de gás do programa normal de algodão em plena carga, em kWh e arredondado às centésimas; |\n| --- | --- | --- |\n\n| Egdry½ | = | consumo de gás do programa normal de algodão em carga parcial, em kWh e arredondado às centésimas; |\n| --- | --- | --- |\n\n| Egdry | = | consumo de eletricidade auxiliar do programa normal de algodão em plena carga, em kWh e arredondado às centésimas; |\n| --- | --- | --- |\n\n| Egdry½,a | = | consumo de eletricidade auxiliar do programa normal de algodão em carga parcial, em kWh e arredondado às centésimas; |\n| --- | --- | --- |\n\n| fg | = | 2,5. |\n| --- | --- | --- |"
+  },
+  "3632e708503b8a3f": {
+   "fragment_id": "2. CÁLCULOS RESPEITANTES ÀS INFORMAÇÕES SOBRE OS PRODUTOS PREVISTAS NOS ANEXOS II (FICHA DE PRODUTO), III (DOCUMENTAÇÃO TÉCNICA) E IV (INFORMAÇÕES A FORNECER NOS CASOS EM QUE NÃO SE PODE ESPERAR QUE OS UTILIZADORES FINAIS VEJAM O PRODUTO EXPOSTO)",
+   "type": "divisao",
+   "heading": "2. CÁLCULOS RESPEITANTES ÀS INFORMAÇÕES SOBRE OS PRODUTOS PREVISTAS NOS ANEXOS II (FICHA DE PRODUTO), III (DOCUMENTAÇÃO TÉCNICA) E IV (INFORMAÇÕES A FORNECER NOS CASOS EM QUE NÃO SE PODE ESPERAR QUE OS UTILIZADORES FINAIS VEJAM O PRODUTO EXPOSTO)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. CÁLCULOS RESPEITANTES ÀS INFORMAÇÕES SOBRE OS PRODUTOS PREVISTAS NOS ANEXOS II (FICHA DE PRODUTO), III (DOCUMENTAÇÃO TÉCNICA) E IV (INFORMAÇÕES A FORNECER NOS CASOS EM QUE NÃO SE PODE ESPERAR QUE OS UTILIZADORES FINAIS VEJAM O PRODUTO EXPOSTO)\n\nPara os para secadores de roupa a gás para uso doméstico, o consumo de energia (gás) no programa normal de algodão em plena carga e em carga parcial, a indicar como previsto nos anexos II, III e IV, é calculado do seguinte modo, em kWhGas e arredondado às centésimas:\n\n*AE* *C*(*Gas*) = 160 × (3 × *Egdry* + 4 × *Egdry1/2*)/7\n\nPara os para secadores de roupa a gás para uso doméstico, o consumo de energia (eletricidade) no programa normal de algodão em plena carga e em carga parcial, a indicar como previsto nos anexos II, III e IV, é calculado do seguinte modo, em kWh e arredondado às centésimas:\n\n*AEC(Gas)el* = 160 × (3 × *Egdry,a* + 4 × *Egdry1/2,a*)/7 + ((*Pl* × *Tl* × 160) + *Po* × [525 600 – (*Tt* × 160) – (*Tl* × 160)])/60 × 1 000"
+  },
+  "cfaf3fa00373768b": {
+   "fragment_id": "3. CÁLCULO DA EFICIÊNCIA DE CONDENSAÇÃO PONDERADA",
+   "type": "divisao",
+   "heading": "3. CÁLCULO DA EFICIÊNCIA DE CONDENSAÇÃO PONDERADA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. CÁLCULO DA EFICIÊNCIA DE CONDENSAÇÃO PONDERADA\n\nA eficiência de condensação de um programa é a relação entre a massa de água condensada e recolhida no reservatório de um secador de roupa por condensação para uso doméstico e a massa de água removida da carga pelo programa, sendo esta última a diferença entre a massa da carga de ensaio húmida antes da secagem e a massa da carga de ensaio após a secagem. Para calcular a eficiência de condensação ponderada, é tomada em consideração a eficiência média de condensação no programa normal de algodão em plena carga e em carga parcial.\n\nA eficiência de condensação ponderada (*Ct*) de um programa é calculada em percentagem e arredondada às unidades, do seguinte modo:\n\n*Ct* = (3 × *Cdry* + 4 × *Cdry½*)/7\n\nem que:\n\n| Cdry | = | eficiência média de condensação do programa normal de algodão em plena carga; |\n| --- | --- | --- |\n\n| Cdry½ | = | eficiência média de condensação do programa normal de algodão em carga parcial. |\n| --- | --- | --- |\n\nA eficiência média de condensação *C* é calculada a partir dos valores da eficiência de condensação medidos durante os ensaios e expressa em percentagem:\n\nem que:\n\nn é o número de ensaios, que deve compreender pelo menos quatro ensaios válidos para o programa selecionado;\n\nj é o número do ensaio;\n\nWwj é a massa de água recolhida no reservatório do condensador durante o ensaio *j*;\n\nWi é a massa da carga húmida de ensaio antes da secagem;\n\nWf é a massa da carga de ensaio após a secagem."
+  },
+  "1b41b51ec3248d43": {
+   "fragment_id": "ANEXO VIII",
+   "type": "divisao",
+   "heading": "ANEXO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII"
+  },
+  "9887bfa6a6962aa2": {
+   "fragment_id": "Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet",
+   "type": "divisao",
+   "heading": "Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet\n\n1) Para efeitos dos pontos 2 a 5 do presente anexo, aplicam-se as seguintes definições:\n\na) «mecanismo de visualização», qualquer ecrã, inclusive um ecrã tátil, ou outra tecnologia de visualização utilizada para a apresentação de conteúdos da Internet aos utilizadores;\n\nb) «apresentação em ninho», uma interface visual em que o acesso a uma imagem ou a um conjunto de dados se faz através de um clique no rato, do movimento do rato ou da expansão em ecrã tátil sobre outra imagem ou outro conjunto de dados;\n\nc) «ecrã tátil», um ecrã que reage ao toque, como é o caso nos computadores-tablete, computadores-ardósia ou telefones inteligentes;\n\nd) «texto alternativo», texto fornecido em alternativa a um gráfico, permitindo que a informação seja apresentada em forma não gráfica, nos casos em que os dispositivos de visualização não podem produzir o gráfico ou em que se pretende melhorar a acessibilidade, nomeadamente através de aplicações de síntese de voz.\n\n2) O rótulo pertinente, disponibilizado pelos fornecedores em conformidade com o artigo 3.º, alínea f), deve ser apresentado no mecanismo de visualização junto do preço do produto. As dimensões devem ser tais que o rótulo seja claramente visível e legível e devem ser proporcionais às dimensões especificadas no anexo I, ponto 4. O rótulo pode ser apresentado em ninho, caso em que a imagem utilizada para se aceder ao rótulo deve obedecer às especificações estabelecidas no ponto 3 do presente anexo. Caso se utilize a apresentação em ninho, o rótulo deve surgir com o primeiro clique no rato, o movimento do rato ou a expansão em ecrã tátil sobre a imagem.\n\n3) A imagem utilizada para se aceder ao rótulo no caso da apresentação em ninho deve:\n\na) ser uma seta de cor correspondente à classe de eficiência energética do produto indicada no rótulo;\n\nb) indicar na seta a classe de eficiência energética do produto, a branco e com carateres de tamanho equivalente ao dos do preço; e\n\nc) obedecer a um dos seguintes formatos:\n\n4) No caso da apresentação em ninho, a sequência de apresentação do rótulo deve ser a seguinte:\n\na) a imagem a que se refere o ponto 3 do presente anexo deve ser apresentada ao utilizador final na primeira apresentação e nas subsequentes apresentações de informações sobre o preço do produto;\n\nb) a imagem deve remeter, por hiperligação, para o rótulo;\n\nc) o rótulo deve ser apresentado após um clique no rato, o movimento do rato ou a expansão em ecrã tátil sobre a imagem;\n\nd) o rótulo deve ser apresentado em janela emergente, novo separador, nova página ou inserção no ecrã;\n\ne) para ampliar o rótulo em ecrãs táteis, aplicam-se os procedimentos específicos do dispositivo para o efeito;\n\nf) a apresentação do rótulo deve cessar mediante recurso a uma opção de fecho ou a outro mecanismo de fecho normal;\n\ng) o texto alternativo à imagem, a apresentar em caso de impossibilidade de apresentação do rótulo, deve indicar a classe de eficiência energética do produto em carateres de tamanho equivalente ao dos do preço.\n\n5) A ficha de produto pertinente, disponibilizada pelos fornecedores em conformidade com o artigo 3.º, alínea g), deve ser apresentada no mecanismo de visualização junto do preço do produto. As dimensões devem ser tais que as informações sejam claramente visíveis e legíveis. A ficha de produto pode ser apresentada em ninho, caso em que a ligação utilizada para se aceder à ficha deve indicar, de forma clara e legível, «Ficha de produto». Caso se utilize a apresentação em ninho, a ficha de produto deve surgir com o primeiro clique no rato, o movimento do rato ou a expansão em ecrã tátil sobre a ligação.\n\n---"
+  },
+  "914cc11f37d974ee": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/cd4ee346-dbee-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#src.E0001)) JO L 27 de 30.1.2010, p. 1."
+  }
+ }
+}

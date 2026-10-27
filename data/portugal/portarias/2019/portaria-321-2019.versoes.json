@@ -1,0 +1,261 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:124831331:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-910584227",
+ "dre_path": "/dr/detalhe/portaria/321-2019-124831331",
+ "source_lastmod": "2025-03-12",
+ "versions": [
+  {
+   "date": "2019-09-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "910584386",
+    "910584387",
+    "910584388",
+    "910584389",
+    "910584390",
+    "910584391",
+    "910584392",
+    "910584393",
+    "910584394",
+    "910584395",
+    "910584396"
+   ]
+  },
+  {
+   "date": "2025-03-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:910517159:por",
+     "title": "Portaria n.º 98/2025/1",
+     "published": "2025-03-12",
+     "dre_path": "/dr/detalhe/portaria/98-2025-910517159"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "910584386",
+    "910584387",
+    "910584388",
+    "910584389",
+    "910584406",
+    "910584407",
+    "910584408",
+    "910584409",
+    "910584410",
+    "910584411",
+    "910584412",
+    "910584392",
+    "910584413",
+    "910584394",
+    "910584414",
+    "910584396",
+    "910584397",
+    "910584404",
+    "910584405"
+   ]
+  }
+ ],
+ "fragments": {
+  "910584386": {
+   "fragment_id": "910584228",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 321/2019\n\nde 19 de setembro\n\nSumário: Aprova o Regulamento do Controlo Metrológico Legal dos Instrumentos de Medição.\n\nO Decreto-Lei n.º 45/2017, de 27 de abril, que transpôs para a ordem jurídica nacional a Diretiva 2014/32/UE, do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, alterada pela Diretiva Delegada (UE) 2015/13, da Comissão, de 31 de outubro de 2014, fixa os requisitos essenciais a que deve obedecer o fabrico e comercialização de «contadores de água», «contadores de gás e instrumentos de conversão de volume», «contadores de energia elétrica ativa», «contadores de energia térmica», «sistemas de medição contínua e dinâmica de quantidades de líquidos com exclusão da água», «instrumentos de pesagem automáticos», «taxímetros», «medidas materializadas», «instrumentos de medição de dimensões» e «analisadores de gases de escape», novos ou em segunda mão, aplicando-se a todas as formas de fornecimento daqueles instrumentos, incluindo a venda à distância.\n\nAos instrumentos de medição abrangidos pelo Decreto-Lei n.º 45/2017, de 27 de abril, aplicam-se, após colocação em serviço, as disposições do Decreto-Lei n.º 291/90, de 20 de setembro, que estabelece o regime de controlo metrológico de métodos e instrumentos de medição, e da Portaria n.º 962/90, de 9 de outubro, que aprova o regulamento geral do controlo metrológico.\n\nAos instrumentos acima referidos é ainda aplicável o regulamento específico do controlo metrológico legal dos instrumentos de medição, a aprovar por portaria do membro do Governo responsável pela área da economia, nos termos do n.º 2 do artigo 41.º do Decreto-Lei n.º 45/2017, de 27 de abril.\n\nAssim:\n\nAo abrigo do disposto do n.º 2 do artigo 41.º do Decreto-Lei n.º 45/2017, de 27 de abril, e das competências delegadas pelo Ministro Adjunto e da Economia previstas na alínea b) do n.º 8.1 do Despacho n.º 10723/2018, de 20 de novembro, publicado no Diário da República, 2.ª série, n.º 223, manda o Governo, pelo Secretário de Estado da Economia, o seguinte:"
+  },
+  "910584387": {
+   "fragment_id": "910584229",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovado, em anexo à presente portaria e da qual faz parte integrante, o Regulamento do Controlo Metrológico Legal dos Instrumentos de Medição."
+  },
+  "910584388": {
+   "fragment_id": "910584230",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Norma revogatória\n\nSão revogadas:\n\na) A Portaria n.º 12/2007, de 4 de janeiro;\n\nb) A Portaria n.º 18/2007, de 5 de janeiro;\n\nc) A Portaria n.º 19/2007, de 5 de janeiro;\n\nd) A Portaria n.º 20/2007, de 5 de janeiro;\n\ne) A Portaria n.º 21/2007, de 5 de janeiro;\n\nf) A Portaria n.º 22/2007, de 5 de janeiro;\n\ng) A Portaria n.º 33/2007, de 8 de janeiro;\n\nh) A Portaria n.º 34/2007, de 8 de janeiro;\n\ni) A Portaria n.º 57/2007, de 10 de janeiro;\n\nj) A Portaria n.º 87/2007, de 15 de janeiro."
+  },
+  "910584389": {
+   "fragment_id": "910584231",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "910584390": {
+   "fragment_id": "910584232",
+   "type": 11,
+   "heading": "Artigo 4.º — Controlo metrológico legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Controlo metrológico legal\n\n1 - O controlo metrológico legal dos instrumentos de medição compete ao Instituto Português da Qualidade, I. P. (IPQ, I. P.), sem prejuízo do disposto na alínea c) do n.º 1 do artigo 8.º do Decreto-Lei n.º 291/90, de 20 de setembro.\n\n2 - O controlo metrológico legal compreende as operações de verificação periódica, verificação extraordinária e de primeira verificação após a reparação."
+  },
+  "910584391": {
+   "fragment_id": "910584233",
+   "type": 11,
+   "heading": "Artigo 5.º — Verificações metrológicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Verificações metrológicas\n\n1 - As verificações metrológicas aplicam-se a todos os instrumentos de medição abrangidos pelo Decreto-Lei n.º 45/2017, de 27 de abril, com as especificidades seguintes:\n\na) No caso dos contadores de água, o controlo em serviço aplica-se apenas aos contadores de água potável fria inseridos na rede de serviço público;\n\nb) No caso dos sistemas de medição contínua e dinâmica de quantidades de líquidos com exclusão da água, o controlo em serviço aplica-se apenas aos sistemas de medição identificados no quadro n.º 5 do IM-005 do anexo ii do Decreto-Lei n.º 45/2017, de 27 de abril, para as classes de exatidão 0,5 e 1,0 e quando utilizados para o cálculo de impostos e taxas ou na venda direta;\n\nc) No caso das medidas materializadas de comprimento, o controlo em serviço aplica-se apenas às sondas.\n\n2 - Aos contadores de energia térmica e aos recipientes para comercialização de bebidas não se aplica o controlo em serviço."
+  },
+  "910584392": {
+   "fragment_id": "910584234",
+   "type": 11,
+   "heading": "Artigo 6.º — Primeira verificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Primeira verificação\n\n1 - A primeira verificação é efetuada aos instrumentos de medição após a reparação e sempre que ocorra violação do sistema de selagem dos instrumentos de medição.\n\n2 - No ano em que se realizar a primeira verificação fica dispensada a realização da verificação periódica.\n\n3 - Os valores dos erros máximos admissíveis para a primeira verificação, dos instrumentos de medição colocados no mercado ou em serviço ao abrigo do Decreto-Lei n.º 45/2017, de 27 de abril, são iguais aos valores dos erros máximos admissíveis estabelecidos no anexo ii do referido decreto-lei, para cada tipo de instrumento de medição."
+  },
+  "910584393": {
+   "fragment_id": "910584235",
+   "type": 11,
+   "heading": "Artigo 7.º — Verificação periódica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Verificação periódica\n\n1 - A verificação periódica dos instrumentos de medição é anual, salvo no caso dos contadores de água, dos contadores de gás e instrumentos de conversão de volume e dos contadores de energia elétrica ativa, cuja periodicidade é a indicada no quadro n.º 1 constante do anexo ao presente Regulamento e que dele faz parte integrante.\n\n2 - Os valores dos erros máximos admissíveis na verificação periódica são iguais aos valores dos erros máximos admissíveis estabelecidos nos requisitos específicos do anexo ii do Decreto-Lei n.º 45/2017, de 27 de abril, para cada tipo de instrumento de medição, salvo no caso dos instrumentos previstos no quadro n.º 2 constante do anexo ao presente Regulamento e que dele faz parte integrante, cujos valores dos erros máximos admissíveis são os ali previstos."
+  },
+  "910584394": {
+   "fragment_id": "910584236",
+   "type": 11,
+   "heading": "Artigo 8.º — Verificação extraordinária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Verificação extraordinária\n\n1 - A verificação extraordinária compreende os ensaios da verificação periódica.\n\n2 - Os valores dos erros máximos admissíveis na verificação extraordinária são iguais aos valores dos erros máximos admissíveis estabelecidos para a verificação periódica."
+  },
+  "910584395": {
+   "fragment_id": "910584237",
+   "type": 11,
+   "heading": "Artigo 9.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposição transitória\n\n1 - Os instrumentos de medição colocados em serviço ao abrigo de regulamentos anteriores à data da presente portaria podem permanecer em uso enquanto estiverem em bom estado de conservação e desde que os valores dos erros, nos ensaios de verificação periódica, sejam menores ou iguais aos valores dos erros máximos admissíveis, estabelecidos no Decreto-Lei n.º 45/2017, de 27 de abril.\n\n2 - Os contadores de gás em utilização e instalados ao abrigo de regulamentos anteriores à data da presente portaria podem permanecer em uso enquanto estiverem em bom estado de conservação e desde que:\n\na) Sejam submetidos à verificação periódica, de acordo com a NP 2243, por amostragem no prazo de 10 anos e a todas as unidades no prazo de 20 anos, contados a partir da data em que forem sujeitos à primeira verificação;\n\nb) Os valores dos erros nos ensaios de verificação periódica sejam menores ou iguais ao dobro dos valores dos erros máximos admissíveis estabelecidos para a classe de exatidão 1,5 (anexo ii do Decreto-Lei n.º 45/2017, de 27 de abril, IM-002 n.º 2, quadro n.º 1).\n\n3 - Os contadores de energia elétrica ativa em utilização e instalados ao abrigo de regulamentos anteriores à data da presente portaria podem permanecer em utilização enquanto estiverem em bom estado de conservação e desde que:\n\na) Sejam sujeitos à verificação periódica no prazo de 20 anos contados a partir da data em que foram sujeitos à primeira verificação;\n\nb) Os valores dos erros nos ensaios de verificação periódica sejam menores ou iguais aos valores dos erros máximos admissíveis estabelecidos para os contadores de classe de exatidão A previstos no anexo ii do Decreto-Lei n.º 45/2017, de 27 de abril, IM-003, n.º 3, quadro n.º 2.\n\n4 - Os analisadores de gases de escape, colocados em utilização ao abrigo de regulamentos anteriores à data da presente portaria podem permanecer em uso enquanto estiverem em bom estado de conservação e desde que os valores dos erros nos ensaios de verificação periódica sejam menores ou iguais aos valores dos erros máximos admissíveis estabelecidos no anexo ii do Decreto-Lei n.º 45/2017, de 27 de abril, IM-010, n.º 3, quadro n.º 2, para a classe de exatidão 0 e i e no quadro n.º 3 constante do anexo ao presente Regulamento e que dele faz parte integrante, para a classe de exatidão ii."
+  },
+  "910584396": {
+   "fragment_id": "910584238",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "910584406": {
+   "fragment_id": "910584242",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Economia, João Jorge Arede Correia Neves, em 26 de agosto de 2019."
+  },
+  "910584407": {
+   "fragment_id": "910584243",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DO CONTROLO METROLÓGICO LEGAL DOS INSTRUMENTOS DE MEDIÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DO CONTROLO METROLÓGICO LEGAL DOS INSTRUMENTOS DE MEDIÇÃO"
+  },
+  "910584408": {
+   "fragment_id": "910584244",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nO presente Regulamento aplica-se aos instrumentos de medição abrangidos pelo Decreto-Lei n.º 45/2017, de 27 de abril."
+  },
+  "910584409": {
+   "fragment_id": "910584245",
+   "type": 11,
+   "heading": "Artigo 2.º — Colocação em serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Colocação em serviço\n\n1 - Só podem ser colocados em serviço os instrumentos de medição que cumpram com as disposições do artigo 5.º do Decreto-Lei n.º 45/2017, de 27 de abril, salvo o disposto no artigo 42.º do mesmo diploma\n\n2 - Sem prejuízo do disposto no número anterior, os taxímetros só podem ser colocados em serviço desde que cumpram também com o disposto na legislação nacional relativa ao transporte em táxi, bem como as convenções tarifárias."
+  },
+  "910584410": {
+   "fragment_id": "910584246",
+   "type": 11,
+   "heading": "Artigo 3.º — Avaliação da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Avaliação da conformidade\n\nA avaliação da conformidade dos instrumentos de medição pode ser efetuada através de um dos procedimentos referidos no artigo 13.º do Decreto-Lei n.º 45/2017, de 27 de abril, à escolha do fabricante."
+  },
+  "910584411": {
+   "fragment_id": "910584232",
+   "type": 11,
+   "heading": "Artigo 4.º — Controlo metrológico legal",
+   "in_force_from": "2025-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2025/1 - Diário da República n.º 50/2025, Série I de 2025-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/98-2025-910517159), em vigor a partir de 2025-03-13"
+   ],
+   "markdown": "###### Artigo 4.º — Controlo metrológico legal\n\n1 - O controlo metrológico legal dos instrumentos de medição compete ao Instituto Português da Qualidade, I. P. (IPQ, I. P.), sem prejuízo do disposto no n.º 1 do artigo 13.º do Decreto-Lei n.º 29/2022, de 7 de abril.\n\n2 - O controlo metrológico legal compreende as operações de verificação periódica, verificação extraordinária e de primeira verificação após a reparação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2025/1 - Diário da República n.º 50/2025, Série I de 2025-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/98-2025-910517159), em vigor a partir de 2025-03-13"
+  },
+  "910584412": {
+   "fragment_id": "910584233",
+   "type": 11,
+   "heading": "Artigo 5.º — Verificações metrológicas",
+   "in_force_from": "2025-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2025/1 - Diário da República n.º 50/2025, Série I de 2025-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/98-2025-910517159), em vigor a partir de 2025-03-13"
+   ],
+   "markdown": "###### Artigo 5.º — Verificações metrológicas\n\n1 - As verificações metrológicas aplicam-se a todos os instrumentos de medição abrangidos pelo Decreto-Lei n.º 45/2017, de 27 de abril, com as especificidades seguintes:\n\na) No caso dos contadores de água, o controlo em serviço aplica-se apenas aos contadores de água potável fria inseridos na rede de serviço público;\n\nb) No caso dos sistemas de medição contínua e dinâmica de quantidades de líquidos com exclusão da água, o controlo em serviço aplica-se apenas aos sistemas de medição identificados no Quadro 5 do IM - 005 do anexo ii ao Decreto-Lei n.º 45/2017, de 27 de abril, para as classes de exatidão 0,5 e 1,0, bem como para a classe de exatidão 2,5 no caso de se tratar de quantidades de Gás Natural Liquefeito e de Hidrogénio, quando utilizados para o cálculo de impostos e taxas ou na venda direta;\n\nc) No caso das medidas materializadas de comprimento, o controlo em serviço aplica-se apenas às sondas.\n\n2 - Aos contadores de energia térmica e aos recipientes para comercialização de bebidas não se aplica o controlo em serviço.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2025/1 - Diário da República n.º 50/2025, Série I de 2025-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/98-2025-910517159), em vigor a partir de 2025-03-13"
+  },
+  "910584413": {
+   "fragment_id": "910584235",
+   "type": 11,
+   "heading": "Artigo 7.º — Verificação periódica",
+   "in_force_from": "2025-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2025/1 - Diário da República n.º 50/2025, Série I de 2025-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/98-2025-910517159), em vigor a partir de 2025-03-13"
+   ],
+   "markdown": "###### Artigo 7.º — Verificação periódica\n\n1 - A verificação periódica tem uma periodicidade anual e é válida durante um ano após a sua realização, salvo no caso dos contadores de água, dos contadores de gás e instrumentos de conversão de volume e dos contadores de energia elétrica ativa, cuja periodicidade é a indicada no quadro 1, constante do anexo ao presente Regulamento e que dele faz parte integrante, e é válida durante o prazo aí designado após a sua última realização.\n\n2 - Os valores dos erros máximos admissíveis na verificação periódica são iguais aos valores dos erros máximos admissíveis estabelecidos nos requisitos específicos do anexo ii do Decreto-Lei n.º 45/2017, de 27 de abril, para cada tipo de instrumento de medição, salvo no caso dos instrumentos previstos no quadro n.º 2 constante do anexo ao presente Regulamento e que dele faz parte integrante, cujos valores dos erros máximos admissíveis são os ali previstos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2025/1 - Diário da República n.º 50/2025, Série I de 2025-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/98-2025-910517159), em vigor a partir de 2025-03-13"
+  },
+  "910584414": {
+   "fragment_id": "910584237",
+   "type": 11,
+   "heading": "Artigo 9.º — Disposição transitória",
+   "in_force_from": "2025-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2025/1 - Diário da República n.º 50/2025, Série I de 2025-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/98-2025-910517159), em vigor a partir de 2025-03-13"
+   ],
+   "markdown": "###### Artigo 9.º — Disposição transitória\n\n1 - Os instrumentos de medição colocados em serviço ao abrigo de regulamentos anteriores à data da presente portaria podem permanecer em uso enquanto estiverem em bom estado de conservação e desde que os valores dos erros, nos ensaios de verificação periódica, sejam menores ou iguais aos valores dos erros máximos admissíveis, estabelecidos no Decreto-Lei n.º 45/2017, de 27 de abril.\n\n2 - Os contadores de gás em utilização e instalados ao abrigo de regulamentos anteriores à data da presente portaria podem permanecer em uso enquanto estiverem em bom estado de conservação e desde que:\n\na) Sejam submetidos à verificação periódica, de acordo com a NP 2243, por amostragem no prazo de 10 anos e a todas as unidades no prazo de 20 anos, contados a partir da data em que forem sujeitos à primeira verificação;\n\nb) Os valores dos erros nos ensaios de verificação periódica sejam menores ou iguais ao dobro dos valores dos erros máximos admissíveis estabelecidos para a classe de exatidão 1,5 (anexo ii do Decreto-Lei n.º 45/2017, de 27 de abril, IM-002 n.º 2, quadro n.º 1).\n\n3 - Os contadores de energia elétrica ativa em utilização e instalados ao abrigo de regulamentos anteriores à data da presente portaria podem permanecer em utilização enquanto estiverem em bom estado de conservação e desde que:\n\na) Sejam sujeitos à verificação periódica no prazo de 20 anos contados a partir da data em que foram sujeitos à primeira verificação;\n\nb) Os valores dos erros nos ensaios de verificação periódica sejam menores ou iguais aos valores dos erros máximos admissíveis estabelecidos para os contadores de classe de exatidão A previstos no anexo ii do Decreto-Lei n.º 45/2017, de 27 de abril, IM-003, n.º 3, quadro n.º 2.\n\n4 - Para efeitos do n.º 1, a primeira verificação dos instrumentos de sistemas de medição contínua e dinâmica de quantidades de líquidos com exclusão da água, identificados no quadro 5 do IM - 005 do anexo ii ao Decreto-Lei n.º 45/2017, de 27 de abril, com a classe 2,5, em uso, deve ser requerida, pelos utilizadores, ao IPQ, I. P., ou a entidade por este designada, no prazo de 180 dias a partir da data da entrada em vigor deste diploma.\n\n5 - Os analisadores de gases de escape, colocados em utilização ao abrigo de regulamentos anteriores à data da presente portaria podem permanecer em uso enquanto estiverem em bom estado de conservação e desde que os valores dos erros nos ensaios de verificação periódica sejam menores ou iguais aos valores dos erros máximos admissíveis estabelecidos no anexo ii do Decreto-Lei n.º 45/2017, de 27 de abril, IM-010, n.º 3, quadro n.º 2, para a classe de exatidão 0 e i e no quadro n.º 3 constante do anexo ao presente Regulamento e que dele faz parte integrante, para a classe de exatidão ii.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2025/1 - Diário da República n.º 50/2025, Série I de 2025-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/98-2025-910517159), em vigor a partir de 2025-03-13"
+  },
+  "910584397": {
+   "fragment_id": "910584239",
+   "type": 11,
+   "heading": "QUADRO N.º 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### QUADRO N.º 1.º\n\n(a que se refere o n.º 1 do artigo 7.º)\n\n(ver documento original)"
+  },
+  "910584404": {
+   "fragment_id": "910584240",
+   "type": 11,
+   "heading": "QUADRO N.º 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### QUADRO N.º 2.º\n\n(a que se refere o n.º 2 do artigo 7.º)\n\n(ver documento original)"
+  },
+  "910584405": {
+   "fragment_id": "910584241",
+   "type": 11,
+   "heading": "QUADRO N.º 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### QUADRO N.º 3.º\n\n(a que se refere o n.º 4 do artigo 9.º)\n\n(ver documento original)\n\n112545097"
+  }
+ }
+}

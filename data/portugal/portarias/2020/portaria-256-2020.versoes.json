@@ -1,0 +1,258 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:146608649:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-146809889",
+ "dre_path": "/dr/detalhe/portaria/256-2020-146608649",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-10-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "177445495",
+    "146894176",
+    "146894177",
+    "146894178",
+    "146894179"
+   ]
+  },
+  {
+   "date": "2021-02-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:157362797:por",
+     "title": "Portaria n.º 37/2021",
+     "published": "2021-02-15",
+     "dre_path": "/dr/detalhe/portaria/37-2021-157362797"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "146894175",
+    "146894176",
+    "146894177",
+    "157556404",
+    "146894179",
+    "146894180"
+   ]
+  },
+  {
+   "date": "2021-09-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:171942717:por",
+     "title": "Portaria n.º 202/2021",
+     "published": "2021-09-27",
+     "dre_path": "/dr/detalhe/portaria/202-2021-171942717"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "146894175",
+    "146894176",
+    "146894177",
+    "171958529",
+    "146894179",
+    "146894180"
+   ]
+  },
+  {
+   "date": "2021-12-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175532475:por",
+     "title": "Portaria n.º 286/2021",
+     "published": "2021-12-07",
+     "dre_path": "/dr/detalhe/portaria/286-2021-175532475"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "146894175",
+    "146894176",
+    "146894177",
+    "175531143",
+    "146894179",
+    "146894180"
+   ]
+  },
+  {
+   "date": "2022-01-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:177363476:por",
+     "title": "Decreto Regulamentar n.º 1/2022",
+     "published": "2022-01-10",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/1-2022-177363476"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "177445495",
+    "177445496",
+    "177445497",
+    "177445498",
+    "177445499",
+    "177445500"
+   ]
+  }
+ ],
+ "fragments": {
+  "177445495": {
+   "fragment_id": "146809890",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-01-11",
+   "changed_by": [],
+   "markdown": "Portaria n.º 256/2020\n\nde 28 de outubro\n\nSumário: Simplifica o processo de reconhecimento do Estatuto do Cuidador Informal, aprovado em anexo à Lei n.º 100/2019, de 6 de setembro.\n\nA Portaria n.º 2/2020, de 10 de janeiro, definiu o processo de reconhecimento dos cuidadores informais.\n\nNo contexto da pandemia que vivemos, verifica-se a necessidade de dispensar a junção ao processo de documentos que nesta fase são de difícil obtenção, pelo que se altera a portaria com o objetivo de permitir a dispensa destes elementos, e reduz-se para metade o prazo para conclusão do processo, passando de 60 para 30 dias.\n\nAssim, ao abrigo da alínea b) do n.º 1 do artigo 15.º da Lei n.º 100/2019, de 6 de setembro, manda o Governo, pela Ministra do Trabalho, Solidariedade e Segurança Social, o seguinte:\n\n> Nota: [Artigo 3.º, Portaria n.º 286/2021 - Diário da República n.º 236/2021, Série I de 2021-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/286-2021-175532475) A presente portaria produz efeitos a partir de 1 de dezembro de 2021 e aplica-se aos processos que se encontram a aguardar a entrega dos documentos a que faz referência o artigo 3.º da Portaria n.º 256/2020, de 28 de outubro."
+  },
+  "146894176": {
+   "fragment_id": "146809891",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria simplifica o processo de reconhecimento do Estatuto do Cuidador Informal, aprovado em anexo à Lei n.º 100/2019, de 6 de setembro, elimina a necessidade de atestado médico que certifique que o requerente possui condições físicas e psicológicas adequadas e prevê, até 31 de dezembro de 2020, a possibilidade de apresentação de documentos que impliquem atos médicos em momento posterior."
+  },
+  "146894177": {
+   "fragment_id": "146809892",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Portaria n.º 2/2020, de 10 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração à Portaria n.º 2/2020, de 10 de janeiro\n\nSão alterados os artigos 8.º e 10.º da Portaria n.º 2/2020, de 10 de janeiro, que passam a ter a seguinte redação:\n\n«Artigo 8.º\n\nProcesso de reconhecimento\n\n1 - [...]\n\n2 - [...]\n\n3 - O requerimento deve ser instruído com comprovativo do consentimento da pessoa cuidada nos termos do artigo 7.º\n\n4 - [...].\n\nArtigo 10.º\n\nDecisão\n\n1 - Os serviços competentes de segurança social proferem decisão em 30 dias a contar da entrada do requerimento, desde que devidamente instruído.\n\n2 - [...].\n\n3 - [...].»"
+  },
+  "146894178": {
+   "fragment_id": "146809893",
+   "type": 11,
+   "heading": "Artigo 3.º — Dispensa transitória de declaração médica quanto a consentimento da pessoa cuidada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Dispensa transitória de declaração médica quanto a consentimento da pessoa cuidada\n\n1 - Até 31 de dezembro de 2020, para efeitos da alínea b) do n.º 2 do artigo 7.º da Portaria n.º 2/2020, os pedidos podem ser apresentados e deferidos apenas com a apresentação da declaração de consentimento informado assinada pela pessoa cuidada.\n\n2 - Para efeito do número anterior, é concedido um prazo de 90 dias, a contar da data de deferimento, para apresentação da declaração médica prevista na alínea b) do n.º 2 do artigo 7.º da Portaria n.º 2/2020, de 10 de janeiro, sob pena da caducidade.\n\n> Nota: [Artigo 3.º, Portaria n.º 202/2021 - Diário da República n.º 188/2021, Série I de 2021-09-27](https://diariodarepublica.pt/dr/detalhe/portaria/202-2021-171942717) A presente portaria aplica-se aos processos que se encontram a aguardar a entrega dos documentos a que faz referência o artigo 3.º da Portaria n.º 256/2020, de 28 de outubro."
+  },
+  "146894179": {
+   "fragment_id": "146809894",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e aplica-se também aos processos pendentes."
+  },
+  "146894175": {
+   "fragment_id": "146809890",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 256/2020\n\nde 28 de outubro\n\nSumário: Simplifica o processo de reconhecimento do Estatuto do Cuidador Informal, aprovado em anexo à Lei n.º 100/2019, de 6 de setembro.\n\nA Portaria n.º 2/2020, de 10 de janeiro, definiu o processo de reconhecimento dos cuidadores informais.\n\nNo contexto da pandemia que vivemos, verifica-se a necessidade de dispensar a junção ao processo de documentos que nesta fase são de difícil obtenção, pelo que se altera a portaria com o objetivo de permitir a dispensa destes elementos, e reduz-se para metade o prazo para conclusão do processo, passando de 60 para 30 dias.\n\nAssim, ao abrigo da alínea b) do n.º 1 do artigo 15.º da Lei n.º 100/2019, de 6 de setembro, manda o Governo, pela Ministra do Trabalho, Solidariedade e Segurança Social, o seguinte:"
+  },
+  "157556404": {
+   "fragment_id": "146809893",
+   "type": 11,
+   "heading": "Artigo 3.º — Dispensa transitória de documentos",
+   "in_force_from": "2021-02-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 37/2021 - Diário da República n.º 31/2021, Série I de 2021-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/37-2021-157362797), em vigor a partir de 2021-02-16, produz efeitos a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Dispensa transitória de documentos\n\n1 - Até 30 de junho de 2021, para efeitos da alínea b) do n.º 2 do artigo 7.º da Portaria n.º 2/2020, de 10 de janeiro, os requerimentos do reconhecimento do Estatuto do Cuidador Informal podem ser apresentados e decididos apenas com a apresentação da declaração de consentimento informado assinada pela pessoa cuidada.\n\n2 - Até 30 de junho de 2021, para efeitos do n.º 4 do artigo 7.º da Portaria n.º 2/2020, de 10 de janeiro, os requerimentos do reconhecimento do Estatuto do Cuidador Informal podem ser apresentados e decididos sem os documentos comprovativos da propositura da ação de acompanhamento.\n\n3 - Para efeito dos números anteriores, é concedido um prazo de 180 dias, a contar da data de deferimento, para apresentação dos documentos previstos na alínea b) do n.º 2 e no n.º 4 do artigo 7.º da Portaria n.º 2/2020, de 10 de janeiro, sob pena de caducidade.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 37/2021 - Diário da República n.º 31/2021, Série I de 2021-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/37-2021-157362797), em vigor a partir de 2021-02-16, produz efeitos a partir de 2021-01-01"
+  },
+  "146894180": {
+   "fragment_id": "146809895",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 26 de outubro de 2020.\n\n113677194"
+  },
+  "171958529": {
+   "fragment_id": "146809893",
+   "type": 11,
+   "heading": "Artigo 3.º — Dispensa transitória de documentos",
+   "in_force_from": "2021-09-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 202/2021 - Diário da República n.º 188/2021, Série I de 2021-09-27](https://diariodarepublica.pt/dr/detalhe/portaria/202-2021-171942717), em vigor a partir de 2021-09-28",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 37/2021 - Diário da República n.º 31/2021, Série I de 2021-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/37-2021-157362797), em vigor a partir de 2021-02-16, produz efeitos a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Dispensa transitória de documentos\n\n1 - Até 30 de junho de 2021, para efeitos da alínea b) do n.º 2 do artigo 7.º da Portaria n.º 2/2020, de 10 de janeiro, os requerimentos do reconhecimento do Estatuto do Cuidador Informal podem ser apresentados e decididos apenas com a apresentação da declaração de consentimento informado assinada pela pessoa cuidada.\n\n2 - Até 30 de junho de 2021, para efeitos do n.º 4 do artigo 7.º da Portaria n.º 2/2020, de 10 de janeiro, os requerimentos do reconhecimento do Estatuto do Cuidador Informal podem ser apresentados e decididos sem os documentos comprovativos da propositura da ação de acompanhamento.\n\n3 - Para efeitos do disposto nos números anteriores, os documentos previstos na alínea b) do n.º 2 e no n.º 4 do artigo 7.º da Portaria n.º 2/2020, de 10 de janeiro, podem ser apresentados até 30 de novembro de 2021, sob pena de caducidade.\n\n> Nota: [Artigo 3.º, Portaria n.º 202/2021 - Diário da República n.º 188/2021, Série I de 2021-09-27](https://diariodarepublica.pt/dr/detalhe/portaria/202-2021-171942717) A presente portaria aplica-se aos processos que se encontram a aguardar a entrega dos documentos a que faz referência o artigo 3.º da Portaria n.º 256/2020, de 28 de outubro.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 202/2021 - Diário da República n.º 188/2021, Série I de 2021-09-27](https://diariodarepublica.pt/dr/detalhe/portaria/202-2021-171942717), em vigor a partir de 2021-09-28\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 37/2021 - Diário da República n.º 31/2021, Série I de 2021-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/37-2021-157362797), em vigor a partir de 2021-02-16, produz efeitos a partir de 2021-01-01"
+  },
+  "175531143": {
+   "fragment_id": "146809893",
+   "type": 11,
+   "heading": "Artigo 3.º — Dispensa transitória de documentos",
+   "in_force_from": "2021-12-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 286/2021 - Diário da República n.º 236/2021, Série I de 2021-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/286-2021-175532475), em vigor a partir de 2021-12-08, produz efeitos a partir de 2021-12-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 202/2021 - Diário da República n.º 188/2021, Série I de 2021-09-27](https://diariodarepublica.pt/dr/detalhe/portaria/202-2021-171942717), em vigor a partir de 2021-09-28",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 37/2021 - Diário da República n.º 31/2021, Série I de 2021-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/37-2021-157362797), em vigor a partir de 2021-02-16, produz efeitos a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Dispensa transitória de documentos\n\n1 - Até 30 de junho de 2021, para efeitos da alínea b) do n.º 2 do artigo 7.º da Portaria n.º 2/2020, de 10 de janeiro, os requerimentos do reconhecimento do Estatuto do Cuidador Informal podem ser apresentados e decididos apenas com a apresentação da declaração de consentimento informado assinada pela pessoa cuidada.\n\n2 - Até 30 de junho de 2021, para efeitos do n.º 4 do artigo 7.º da Portaria n.º 2/2020, de 10 de janeiro, os requerimentos do reconhecimento do Estatuto do Cuidador Informal podem ser apresentados e decididos sem os documentos comprovativos da propositura da ação de acompanhamento.\n\n3 - Para efeitos do disposto nos números anteriores, os documentos previstos na alínea b) do n.º 2 e no n.º 4 do artigo 7.º da Portaria n.º 2/2020, de 10 de janeiro, podem ser apresentados até 31 de março de 2022, sob pena de caducidade.\n\n> Nota: [Artigo 3.º, Portaria n.º 202/2021 - Diário da República n.º 188/2021, Série I de 2021-09-27](https://diariodarepublica.pt/dr/detalhe/portaria/202-2021-171942717) A presente portaria aplica-se aos processos que se encontram a aguardar a entrega dos documentos a que faz referência o artigo 3.º da Portaria n.º 256/2020, de 28 de outubro.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 286/2021 - Diário da República n.º 236/2021, Série I de 2021-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/286-2021-175532475), em vigor a partir de 2021-12-08, produz efeitos a partir de 2021-12-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 202/2021 - Diário da República n.º 188/2021, Série I de 2021-09-27](https://diariodarepublica.pt/dr/detalhe/portaria/202-2021-171942717), em vigor a partir de 2021-09-28\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 37/2021 - Diário da República n.º 31/2021, Série I de 2021-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/37-2021-157362797), em vigor a partir de 2021-02-16, produz efeitos a partir de 2021-01-01"
+  },
+  "177445496": {
+   "fragment_id": "146809891",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2022-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto Regulamentar n.º 1/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2022-177363476), em vigor a partir de 2022-01-11"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria simplifica o processo de reconhecimento do Estatuto do Cuidador Informal, aprovado em anexo à Lei n.º 100/2019, de 6 de setembro, elimina a necessidade de atestado médico que certifique que o requerente possui condições físicas e psicológicas adequadas e prevê, até 31 de dezembro de 2020, a possibilidade de apresentação de documentos que impliquem atos médicos em momento posterior.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto Regulamentar n.º 1/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2022-177363476), em vigor a partir de 2022-01-11"
+  },
+  "177445497": {
+   "fragment_id": "146809892",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Portaria n.º 2/2020, de 10 de janeiro",
+   "in_force_from": "2022-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto Regulamentar n.º 1/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2022-177363476), em vigor a partir de 2022-01-11"
+   ],
+   "markdown": "###### Artigo 2.º — Alteração à Portaria n.º 2/2020, de 10 de janeiro\n\nSão alterados os artigos 8.º e 10.º da Portaria n.º 2/2020, de 10 de janeiro, que passam a ter a seguinte redação:\n\n«Artigo 8.º\n\nProcesso de reconhecimento\n\n1 - [...]\n\n2 - [...]\n\n3 - O requerimento deve ser instruído com comprovativo do consentimento da pessoa cuidada nos termos do artigo 7.º\n\n4 - [...].\n\nArtigo 10.º\n\nDecisão\n\n1 - Os serviços competentes de segurança social proferem decisão em 30 dias a contar da entrada do requerimento, desde que devidamente instruído.\n\n2 - [...].\n\n3 - [...].»\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto Regulamentar n.º 1/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2022-177363476), em vigor a partir de 2022-01-11"
+  },
+  "177445498": {
+   "fragment_id": "146809893",
+   "type": 11,
+   "heading": "Artigo 3.º — Dispensa transitória de documentos",
+   "in_force_from": "2022-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto Regulamentar n.º 1/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2022-177363476), em vigor a partir de 2022-01-11",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 286/2021 - Diário da República n.º 236/2021, Série I de 2021-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/286-2021-175532475), em vigor a partir de 2021-12-08, produz efeitos a partir de 2021-12-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 202/2021 - Diário da República n.º 188/2021, Série I de 2021-09-27](https://diariodarepublica.pt/dr/detalhe/portaria/202-2021-171942717), em vigor a partir de 2021-09-28",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 37/2021 - Diário da República n.º 31/2021, Série I de 2021-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/37-2021-157362797), em vigor a partir de 2021-02-16, produz efeitos a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Dispensa transitória de documentos\n\n1 - Até 30 de junho de 2021, para efeitos da alínea b) do n.º 2 do artigo 7.º da Portaria n.º 2/2020, de 10 de janeiro, os requerimentos do reconhecimento do Estatuto do Cuidador Informal podem ser apresentados e decididos apenas com a apresentação da declaração de consentimento informado assinada pela pessoa cuidada.\n\n2 - Até 30 de junho de 2021, para efeitos do n.º 4 do artigo 7.º da Portaria n.º 2/2020, de 10 de janeiro, os requerimentos do reconhecimento do Estatuto do Cuidador Informal podem ser apresentados e decididos sem os documentos comprovativos da propositura da ação de acompanhamento.\n\n3 - Para efeitos do disposto nos números anteriores, os documentos previstos na alínea b) do n.º 2 e no n.º 4 do artigo 7.º da Portaria n.º 2/2020, de 10 de janeiro, podem ser apresentados até 31 de março de 2022, sob pena de caducidade.\n\n> Nota: [Artigo 3.º, Portaria n.º 202/2021 - Diário da República n.º 188/2021, Série I de 2021-09-27](https://diariodarepublica.pt/dr/detalhe/portaria/202-2021-171942717) A presente portaria aplica-se aos processos que se encontram a aguardar a entrega dos documentos a que faz referência o artigo 3.º da Portaria n.º 256/2020, de 28 de outubro.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto Regulamentar n.º 1/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2022-177363476), em vigor a partir de 2022-01-11\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 286/2021 - Diário da República n.º 236/2021, Série I de 2021-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/286-2021-175532475), em vigor a partir de 2021-12-08, produz efeitos a partir de 2021-12-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 202/2021 - Diário da República n.º 188/2021, Série I de 2021-09-27](https://diariodarepublica.pt/dr/detalhe/portaria/202-2021-171942717), em vigor a partir de 2021-09-28\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 37/2021 - Diário da República n.º 31/2021, Série I de 2021-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/37-2021-157362797), em vigor a partir de 2021-02-16, produz efeitos a partir de 2021-01-01"
+  },
+  "177445499": {
+   "fragment_id": "146809894",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": "2022-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto Regulamentar n.º 1/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2022-177363476), em vigor a partir de 2022-01-11"
+   ],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e aplica-se também aos processos pendentes.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto Regulamentar n.º 1/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2022-177363476), em vigor a partir de 2022-01-11"
+  },
+  "177445500": {
+   "fragment_id": "146809895",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto Regulamentar n.º 1/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2022-177363476), em vigor a partir de 2022-01-11"
+   ],
+   "markdown": "A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 26 de outubro de 2020.\n\n113677194\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto Regulamentar n.º 1/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2022-177363476), em vigor a partir de 2022-01-11"
+  }
+ }
+}

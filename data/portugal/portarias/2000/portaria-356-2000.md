@@ -1,0 +1,361 @@
+---
+schema_version: '1.0'
+id: pt:dre:288665:por
+title: Portaria n.º 356/2000
+short_title: null
+summary: Regula o exercício das competências das diferentes entidades envolvidas na execução das acções de profilaxia e polícia
+  sanitária inerentes aos diversos planos de erradicação das doenças dos animais. Revoga a Portaria n.º 1088/97, de 30 de
+  Outubro, com a redacção que lhe foi dada pela Portaria n.º 68/99, de 28 de Janeiro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 356/2000
+official_date: null
+publication_date: '2000-06-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 138/2000, Série I-B de 2000-06-16
+  number: '138'
+  series: I
+  supplement: null
+  pages: 2647 - 2651
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/06/138b00/26472651.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/356/2000/06/16/p/dre/pt/html
+  oj: null
+  dre: '288665'
+  dre_path: /dr/detalhe/portaria/356-2000-288665
+  internal: pt:dre:288665:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/356-2000-288665
+  metadata_url: https://data.dre.pt/eli/port/356/2000/06/16/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/356-2000-288665
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:23:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 915c29ba75b03a62b402849ffe38dc6cbe37decfff7e58529dcaef382ca99033
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:06Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agrupamento de Produtores
+- Comparticipação do Estado
+- Controlo Sanitário
+- Definição de Competências
+- Direção Geral de Veterinária
+- Direcção Regional de Agricultura
+- Doença Animal
+- Gado Bovino
+- Gado Caprino
+- Gado Ovino
+- Pecuária
+- Sanção
+- Transporte de Animais
+relationships:
+- type: amended_by
+  target: pt:dre:200418:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:314202:por
+  label: "Alterado o nº 18, pela PORT.492/2001.2001.05.11.MADRP, DR.IS-B [109]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/492-2001-314202
+  date: '2001-05-11'
+- type: amended_by
+  target: pt:dre:536021:por
+  label: "Alterado o nº 18 do presente diploma, na redacção dada pela Port 492/2001 de 11-Mai, pela PORT.1459/2001.2001.12.28.MADRP,\
+    \ DR.IS-B [299]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1459-2001-536021
+  date: '2001-12-28'
+- type: cites
+  target: pt:dre:180602:por
+  label: null
+  source: http://data.dre.pt/eli/port/68/1999/01/28/p/dre
+- type: cites
+  target: pt:dre:433825:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/338/1999/08/24/p/dre
+- type: cites
+  target: pt:dre:643502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674035:por
+  label: null
+  source: http://data.dre.pt/eli/port/1088/1997/10/30/p/dre
+- type: corrected_by
+  target: pt:dre:145028:por
+  label: "Rectificada pela DECL-RECT.7-H/2000.2000.06.30.PCM DR.IS-B [144]2ºSupl de 30-Jun/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-h-2000-145028
+  date: '2000-06-30'
+- type: repealed_by
+  target: pt:dre:200418:por
+  label: "Revogada pela PORT.122/2003.2003.02.05.MADRP DR.IS-B [30]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/122-2003-200418
+  date: '2003-02-05'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:23:06Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 356/2000
+
+de 16 de Junho
+
+Tendo em conta que Portugal tem vindo a aplicar diferentes planos de erradicação de várias doenças dos animais, designadamente dos grandes e pequenos ruminantes, e que, face aos condicionamentos à livre circulação dos animais no espaço da União Europeia em resultado do estatuto sanitário dos efectivos nacionais, constitui objectivo primordial daqueles planos a melhoria da classificação sanitária, como consequência do estabelecimento de efectivos e áreas indemnes e oficialmente indemnes das doenças;
+
+Considerando que o desenvolvimento dos planos de erradicação, sem prejuízo da responsabilidade global da Direcção-Geral de Veterinária enquanto autoridade sanitária veterinária nacional, resulta da execução de um conjunto de acções de profilaxia e polícia sanitária a cargo de diversas entidades, por competências próprias ou delegadas, tornando-se necessário estabelecer o regime de responsabilidade, aos diversos níveis, na execução de tais acções;
+
+Considerando, ainda, que o Estado assume já a responsabilidade pelas despesas relativas ao pagamento de indemnizações, análises laboratoriais, transporte e abate dos animais detectados como positivos no âmbito da aplicação dos planos de erradicação;
+
+Considerando igualmente que é indispensável estabelecer mecanismos relativos ao pagamento pelos criadores das acções de profilaxia médica e sanitária quando estas forem executadas pelos serviços veterinários oficiais;
+
+Considerando, por último, que a instituição de um novo modo de relacionamento entre as entidades oficiais e as OPP, bem como o termo do Quadro Comunitário de Apoio II em 31 de Dezembro de 1999, ao abrigo do qual eram atribuídas as subvenções àquelas organizações, determina a necessidade de revogação da [Portaria n.º 1088/97](https://diariodarepublica.pt/dr/detalhe/portaria/1088-1997-674035), de 30 de Outubro, na redacção que lhe foi dada pela [Portaria n.º 68/99](https://diariodarepublica.pt/dr/detalhe/portaria/68-1999-180602), 28 de Janeiro:
+
+Assim:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do artigo 4.º do [Decreto-Lei n.º 39209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39209-1953-643502), de 14 de Maio de 1953, o seguinte:
+
+1.º A presente portaria regulamenta o exercício das competências das diferentes entidades envolvidas na execução das acções de profilaxia e polícia sanitária inerentes aos diversos planos de erradicação das doenças dos animais, bem como a modalidade de subvenção do Estado às acções executadas por entidades associativas com competências delegadas e, ainda, o pagamento pelos criadores não associados das acções executadas pelos serviços oficiais.
+
+2.º Para efeitos da presente portaria, entende-se por:
+
+a) Autoridade sanitária veterinária nacional - a Direcção-Geral de Veterinária, adiante designada por DGV;
+
+b) Autoridades sanitárias veterinárias regionais - as direcções regionais de agricultura, adiante designadas por DRA;
+
+c) Entidades com competências delegadas - as organizações de produtores pecuários, adiante designados por OPP, já existentes e outras que venham a constituir-se com base nos critérios definidos na presente portaria;
+
+d) Médicos veterinários coordenadores e executores - os médicos veterinários ao serviço das OPP;
+
+e) Programa sanitário - programa anual das acções sanitárias a executar pelas OPP, detalhado por espécie de acordo com os planos de erradicação em vigor, baseado na classificação sanitária dos efectivos e regiões envolvidas.
+
+3.º - 1 - A execução das acções de profilaxia médica e sanitária dos planos de erradicação compete:
+
+a) À DGV e às DRA, na qualidade de autoridade sanitária veterinária nacional e autoridades sanitárias veterinárias regionais, respectivamente;
+
+b) Às OPP que estabelecerem protocolos de delegação de competências com a DGV no âmbito do Plano Nacional de Saúde Animal, através dos seus médicos veterinários coordenadores e executores.
+
+2 - A execução das acções de polícia sanitária compete exclusivamente à DGV e às DRA.
+
+3 - A DGV e as DRA poderão solicitar acções pontuais às OPP, não previstas no âmbito dos protocolos referidos na alínea b) do n.º 1, designadamente quando da ocorrência inopinada de surtos de doenças dos animais, nas condições que, em cada caso, forem definidas em despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+4.º - 1 - Podem candidatar-se à execução das acções de profilaxia médica e sanitária as OPP já existentes e como tal reconhecidas pela DGV e outras que venham a constituir-se, desde que a sua actividade se enquadre no sector objecto das acções a desenvolver.
+
+2 - As actuais OPP têm prioridade sobre outras que pela primeira vez se candidatem à delegação de competências para a execução de acções de profilaxia médica e sanitária no âmbito dos planos de erradicação.
+
+5.º - 1 - Os pedidos de reconhecimento de novas OPP devem ser dirigidos ao director-geral de Veterinária, acompanhados de cópia da respectiva escritura pública, dos estatutos e ainda dos seguintes elementos:
+
+a) Ficha de cada criador associado donde conste o nome, morada, telefone, explorações em seu nome, respectiva marca de exploração, com discriminação, actualizada à data, do efectivo existente por espécie e raça e a respectiva classificação sanitária, devidamente assinada pelo criador e acompanhada de fotocópia do bilhete de identidade;
+
+b) Identificação do médico veterinário coordenador e dos médicos veterinários executores;
+
+c) Programa sanitário anual, proposto para o ano seguinte, nos termos do n.º 9.º, alínea a).
+
+2 - A DRA respectiva verificará a conformidade das fichas e a percentagem de criadores do concelho ou grupo de concelhos e aprovará o programa sanitário, remetendo-o posteriormente à DGV para homologação.
+
+3 - O reconhecimento de novas OPP é da competência do director-geral de Veterinária.
+
+6.º - 1 - Como condição para obter o respectivo reconhecimento e o manter, as OPP devem integrar um número de criadores igual ou superior a 60% dos registados num concelho, ou num conjunto de concelhos contíguos, desde que dentro da mesma região agrária.
+
+2 - As OPP já reconhecidas e que se encontram em funcionamento à data de entrada em vigor deste diploma mantêm o seu reconhecimento enquanto cumprirem o disposto no número anterior e desde que apresentem a sua candidatura à celebração do protocolo de delegação de competências, nos termos da presente portaria.
+
+3 - As OPP poderão sempre alargar a sua área de intervenção a áreas contíguas, desde que estas se situem dentro da mesma região agrária e não estejam abrangidas por outras entidades com idênticos objectivos.
+
+4 - Em cumprimento das deliberações das respectivas assembleias gerais, pode haver lugar à fusão de duas ou mais OPP, atento o disposto nos n.os 1 e 2 do presente número, com o acordo prévio da DGV e ouvida a respectiva DRA, por forma a ser assegurada a continuidade dos programas anuais em curso.
+
+7.º Para efeitos do disposto na alínea a) do n.º 1 do n.º 3.º, compete à DGV:
+
+a) A direcção, coordenação e controlo das acções de profilaxia médica e sanitária executadas, quer pelos médicos veterinários dos serviços oficiais, quer pelos médicos veterinários ao serviço das OPP;
+
+b) Homologar os programas sanitários anuais apresentados pelas OPP, após a sua aprovação pelas DRA;
+
+c) Aprovar a designação dos médicos veterinários coordenadores e dos médicos veterinários executores das OPP;
+
+d) Proceder à avaliação das acções desenvolvidas pelas OPP, verificando nomeadamente a sua compatibilidade com os programas homologados;
+
+e) Efectuar, em colaboração com as DRA, as adequadas auditorias de natureza técnica relativas à execução das acções de profilaxia médica e sanitária;
+
+f) Assegurar a coordenação do sistema informático necessário à interligação das entidades envolvidas na execução das acções de profilaxia médica e sanitária;
+
+g) Aplicar as eventuais sanções por incumprimento previstas na lei e nos protocolos de delegação de competências, de modo próprio ou por proposta das DRA respectivas.
+
+8.º Para efeitos do disposto na alínea a) do n.º 1 do n.º 3.º, compete às DRA:
+
+a) Executar, ao nível da sua área de influência, as orientações da DGV;
+
+b) Coordenar, promover, executar e verificar a execução, na respectiva área de influência, das acções de profilaxia médica e sanitária;
+
+c) Proceder à classificação sanitária dos efectivos e regiões em colaboração com os médicos veterinários coordenadores das OPP e informar a DGV;
+
+d) Aprovar os programas sanitários anuais que lhes forem propostos pelas OPP, para posterior homologação pela DGV;
+
+e) Elaborar e enviar trimestralmente à DGV os relatórios técnicos sobre a execução dos programas sanitários;
+
+f) Efectuar regularmente visitas de controlo e auditoria bem como de inspecção às OPP envolvidas, de modo próprio ou a solicitação da DGV;
+
+g) Avaliar a acção dos médicos veterinários ao serviço das OPP, dando conhecimento à DGV de toda e qualquer anomalia ou irregularidade detectada;
+
+h) Informar a DGV dos incumprimentos do programa sanitário anual e preparar os respectivos procedimentos sancionatórios;
+
+i) Assegurar a coordenação regional do sistema informático necessário à interligação das entidades envolvidas na execução das acções de profilaxia médica e sanitária, mantendo actualizada a base de dados regional e nacional.
+
+9.º Para efeitos do disposto na alínea b) do n.º 1 do n.º 3.º, compete às OPP:
+
+a) Apresentar até 15 de Outubro de cada ano o programa sanitário inerente aos diferentes planos de erradicação em vigor relativo ao ano seguinte, devidamente assinado pelo médico veterinário coordenador;
+
+b) Enviar atempadamente à DRA respectiva a calendarização das acções de profilaxia médica e sanitária que se propõe executar;
+
+c) Executar, ao nível da sua área de influência, as acções de profilaxia médica e sanitária relativas aos efectivos dos criadores seus associados;
+
+d) Enviar a informação sanitária nos moldes e frequência que vierem a ser definidos pela DGV;
+
+e) Disponibilizar para efeitos de controlo, auditoria e inspecção toda a informação solicitada;
+
+f) Indicar às autoridades veterinárias competentes o médico veterinário coordenador, de acordo com o estipulado no n.º 2 do n.º 11.º;
+
+g) Realizar, de acordo com protocolos a estabelecer com a DGV, as acções inseridas no âmbito do Plano Nacional de Saúde Animal não contempladas na presente portaria;
+
+h) Proceder à identificação animal, em conformidade com o [Decreto-Lei n.º 338/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1999-433825), de 24 de Agosto;
+
+i) Promover à uniformização da utilização da marca de exploração;
+
+j) Proceder à actualização do registo dos efectivos dos seus beneficiários;
+
+k) Manter em funcionamento a aplicação informática indicada pela DGV para utilização no âmbito dos planos de erradicação;
+
+l) Proceder à informatização de todas as acções executadas no âmbito do programa anual;
+
+m) Colocar à disposição do médico veterinário coordenador os meios indispensáveis à elaboração do relatório técnico, de modo a permitir às DRA respectivas a correcta avaliação dos níveis de execução;
+
+n) Comunicar às DRA as irregularidades sanitárias detectadas, nomeadamente no que à movimentação animal diz respeito;
+
+o) Prestar colaboração às DRA, no que se refere aos protocolos assinados no âmbito das delegações de competências previstas no [Decreto-Lei n.º 338/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1999-433825), de 24 de Agosto.
+
+10.º Os associados das OPP estão obrigados a:
+
+a) Colaborar na organização, execução e controlo das medidas sanitárias aprovadas;
+
+b) Apoiar o trabalho desenvolvido pelos técnicos ao serviço da organização;
+
+c) Dar conhecimento ao médico veterinário coordenador de qualquer alteração de natureza sanitária detectada nos animais da sua exploração;
+
+d) Reportar ao médico veterinário coordenador, por escrito, toda e qualquer anomalia sanitária que entendam possa constituir factor de risco para os animais da sua exploração;
+
+e) Assegurar-se, mediante prova documental, de que só adquirem animais com origem em efectivos cujo estatuto sanitário seja igual ou superior ao seu.
+
+11.º - 1 - Da lista de médicos veterinários ao serviço de cada OPP é reconhecido ao criador o direito à escolha do seu médico veterinário.
+
+2 - O médico veterinário coordenador de cada OPP será designado pela respectiva direcção, de entre os médicos veterinários ao seu serviço, ouvidos estes profissionais.
+
+3 - O número máximo de animais/ano a intervencionar por cada médico veterinário, tendo em conta a relação de uma cabeça normal de bovino adulto para sete de pequenos ruminantes, será determinada pela DRA competente.
+
+12.º São competências do médico veterinário coordenador:
+
+a) Elaborar o programa sanitário anual e apresentá-lo à direcção da OPP, que o submeterá à DRA competente para aprovação;
+
+b) Coordenar e assegurar a boa execução do programa anual aprovado;
+
+c) Proceder a visitas periódicas e sistemáticas, para efeito de verificação das condições hígio-sanitárias e de bem-estar animal, relacionadas com as medidas de profilaxia e maneio;
+
+d) Elaborar relatórios técnicos mensais e anuais, segundo modelo uniformizado previamente definido pela DGV, a enviar à DRA competente;
+
+e) Identificar e informar a DGV, através da DRA respectiva, das anomalias e irregularidades detectadas, nomeadamente na movimentação animal;
+
+f) Coordenar e orientar a actividade dos médicos veterinários executores que prestem serviço na respectiva OPP.
+
+13.º - 1 - Não há lugar à suspensão ou demissão do médico veterinário coordenador ou dos médicos veterinários executores no decurso do programa anual, a não ser por motivo de força maior, devidamente justificado e aceite pela DRA respectiva, com posterior aprovação pela DGV.
+
+2 - Em caso de suspensão ou demissão do médico veterinário coordenador, a DRA competente assegurará a necessária assistência técnica durante o prazo máximo de 60 dias, durante os quais a OPP deverá propor a substituição, de acordo com o previsto no n.º 2 do n.º 11.º
+
+3 - No caso de suspensão ou demissão de um médico veterinário executor, os demais médicos veterinários executores assegurarão a necessária assistência técnica pelo prazo máximo de 60 dias, durante o qual a OPP deverá indicar um substituto.
+
+14.º - 1 - A execução das acções do programa sanitário anual compete exclusivamente a médicos veterinários executores, aos quais incumbe:
+
+a) Executar as acções técnicas constantes do programa anual homologado, sob orientação do médico veterinário coordenador;
+
+b) Aconselhar tecnicamente os produtores sobre a execução das medidas hígio-sanitárias e de bem-estar animal adequadas;
+
+c) Informar o médico veterinário coordenador das dificuldades e anomalias encontradas no desempenho das suas funções.
+
+2 - O médico veterinário coordenador só poderá executar acções que são da competência dos médicos veterinários executores, mediante parecer prévio da respectiva DRA e sem prejuízo das competências específicas que lhe estão cometidas no n.º 12.º
+
+15.º - 1 - Para efeitos da execução das acções de profilaxia médica e sanitária no âmbito dos planos de erradicação em vigor, por parte das OPP, serão estabelecidos protocolos anuais de delegação de competências com a DGV e as DRA.
+
+2 - Os protocolos de delegação de competências a estabelecer entre a DGV e as DRA, por um lado, e as OPP, por outro, são de modelo a definir pela DGV.
+
+16.º - 1 - No caso de as OPP executoras não cumprirem o programa sanitário homologado em pelo menos 80% relativamente a cada um dos planos de erradicação e se de tal facto resultar o incumprimento da legislação em vigor relativa à classificação sanitária de efectivos e áreas das doenças, a autoridade sanitária veterinária nacional poderá retirar-lhes a competência delegada para execução de acções de profilaxia médica e sanitária, determinando a cessação do respectivo protocolo no todo ou em parte.
+
+2 - Aos criadores que não cumprirem a legislação e normas técnicas em vigor, relativas aos diferentes planos de erradicação e à circulação animal, ou que de algum modo obstarem à sua aplicação, serão aplicadas as sanções previstas na lei.
+
+17.º - 1 - Para a execução das acções de profilaxia médica e sanitária efectuadas pelas OPP referidas na alínea b) do n.º 1 do n.º 3.º, a DGV concede uma subvenção anual a fundo perdido, destinada a apoiar as organizações na aquisição de material específico, de montante definido no anexo I à presente portaria e que dela faz parte integrante.
+
+2 - Os procedimentos administrativos a seguir relativamente à subvenção referida no n.º 1 constarão do protocolo de delegação de competências.
+
+18.º Devido ao actual estado sanitário dos efectivos afectos às OPP da região agrária de Trás-os-Montes, a subvenção a que aquelas organizações têm direito nos termos do anexo I é majorada excepcionalmente no ano 2000 em 40%.
+
+19.º Pela execução por médicos veterinários dos serviços oficiais das acções de profilaxia médica e sanitária inerentes aos planos de erradicação, nos termos do disposto na alínea a) do n.º 1 do n.º 3.º, os criadores não integrados em OPP com delegação de competências pagarão ao serviço executor os montantes referidos no anexo II à presente portaria e que dela faz parte integrante.
+
+20.º Para a execução das acções de profilaxia e polícia sanitária referentes aos planos de erradicação a autoridade sanitária veterinária poderá recorrer à celebração de contratos com médicos veterinários, no cumprimento da legislação em vigor.
+
+21.º Sem prejuízo do disposto na alínea a) do n.º 9.º, para o ano 2000 o programa sanitário anual deve ser apresentado até 10 dias úteis após a publicação da presente portaria.
+
+22.º É revogada a [Portaria n.º 1088/97](https://diariodarepublica.pt/dr/detalhe/portaria/1088-1997-674035), de 30 de Outubro, com a redacção que lhe foi dada pela [Portaria n.º 68/99](https://diariodarepublica.pt/dr/detalhe/portaria/68-1999-180602), de 28 de Janeiro.
+
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar, em 19 de Maio de 2000.
+
+## ANEXO I — Subvenção a que se refere o n.º 1 do n.º 17.º
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/06/138b00/26472651.pdf)
+
+## ANEXO II — Pagamento a que se refere o n.º 18.º
+
+1 - Bovinos:
+
+a) 2500$00 por animal submetido ao primeiro controlo do ano relativo aos planos de erradicação em vigor;
+
+b) 1000$00 por animal em cada um dos controlos seguintes.
+
+2 - Ovinos e caprinos:
+
+a) 350$00 por animal submetido ao primeiro controlo do ano relativo aos planos de erradicação em vigor;
+
+b) 250$00 por animal em cada um dos controlos seguintes.

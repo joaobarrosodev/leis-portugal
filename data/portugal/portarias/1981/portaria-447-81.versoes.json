@@ -1,0 +1,141 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:574495:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1981-934784867",
+ "dre_path": "/dr/detalhe/portaria/447-1981-574495",
+ "source_lastmod": "2025-09-11",
+ "versions": [
+  {
+   "date": "1981-06-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "935095881"
+   ]
+  },
+  {
+   "date": "2025-09-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:935004234:por",
+     "title": "Portaria n.º 306/2025/1",
+     "published": "2025-09-11",
+     "dre_path": "/dr/detalhe/portaria/306-2025-935004234"
+    }
+   ],
+   "changes": [
+    "Altera 4.º",
+    "Altera 5.º",
+    "Altera 7.º",
+    "Revoga 2.º",
+    "Revoga 6.º"
+   ],
+   "fragments": [
+    "935095881",
+    "935095889",
+    "935095902",
+    "935095887",
+    "935095899",
+    "935095900",
+    "935095903",
+    "935095901",
+    "935095882",
+    "935095890"
+   ]
+  }
+ ],
+ "fragments": {
+  "935095881": {
+   "fragment_id": "934784868",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 447/81\n\nde 2 de Junho\n\nTendo em consideração a necessidade de ajustar os montantes constantes da Portaria n.º 99-D/77, de 28 de Fevereiro, bem como simplificar o cálculo do valor a transmitir em caso de falecimento de qualquer titular dos certificados de aforro:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado Adjunto do Ministro das Finanças e do Plano, de harmonia com o disposto no § único do artigo 14.º do Decreto-Lei n.º 43453, de 30 de Dezembro de 1960, e no artigo 3.º do Decreto-Lei n.º 48214, de 22 de Janeiro de 1968, o seguinte:"
+  },
+  "935095889": {
+   "fragment_id": "935098376",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nEm caso de falecimento de qualquer titular de certificados de aforro, o valor a transmitir será acrescido de um capital a calcular nos termos dos números seguintes."
+  },
+  "935095902": {
+   "fragment_id": "935098375",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": "2025-09-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 306/2025/1 - Diário da República n.º 175/2025, Série I de 2025-09-11](https://diariodarepublica.pt/dr/detalhe/portaria/306-2025-935004234), em vigor a partir de 2025-09-12"
+   ],
+   "markdown": "###### 2.º\n\nO direito a que se refere o número precedente só pode ser exercido se o falecimento do titular ocorrer, pelo menos, três anos depois da emissão do correspondente certificado de aforro.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 306/2025/1 - Diário da República n.º 175/2025, Série I de 2025-09-11](https://diariodarepublica.pt/dr/detalhe/portaria/306-2025-935004234), em vigor a partir de 2025-09-12"
+  },
+  "935095887": {
+   "fragment_id": "934784874",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nO capital a receber nos termos do n.º 1.º corresponderá a uma percentagem do valor de aquisição do respectivo certificado de aforro, a qual será de 10% quando se perfaçam três anos após a data da emissão e mais 2% por ano completo além do terceiro."
+  },
+  "935095899": {
+   "fragment_id": "934784873",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": "2025-09-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2025/1 - Diário da República n.º 175/2025, Série I de 2025-09-11](https://diariodarepublica.pt/dr/detalhe/portaria/306-2025-935004234), em vigor a partir de 2025-09-12"
+   ],
+   "markdown": "###### 4.º\n\nO capital a que se refere o número anterior será sempre arredondado para o maior múltiplo de 1 euro que nele se contenha.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2025/1 - Diário da República n.º 175/2025, Série I de 2025-09-11](https://diariodarepublica.pt/dr/detalhe/portaria/306-2025-935004234), em vigor a partir de 2025-09-12"
+  },
+  "935095900": {
+   "fragment_id": "934784872",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": "2025-09-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2025/1 - Diário da República n.º 175/2025, Série I de 2025-09-11](https://diariodarepublica.pt/dr/detalhe/portaria/306-2025-935004234), em vigor a partir de 2025-09-12"
+   ],
+   "markdown": "###### 5.º\n\na) O capital a receber por falecimento de cada titular de certificados de aforro será representado por certificados de aforro da série em comercialização, cujo valor de aquisição não poderá exceder 1047,00 euros.\n\nb) Caso o herdeiro do titular de certificados de aforro pretenda fazer o resgate dos títulos que lhe cabem por herança, pela sua totalidade, o capital a receber, nos termos dos n.os 1.º e 3.º, poderá será pago por transferência bancária conjuntamente com o produto do resgate.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2025/1 - Diário da República n.º 175/2025, Série I de 2025-09-11](https://diariodarepublica.pt/dr/detalhe/portaria/306-2025-935004234), em vigor a partir de 2025-09-12"
+  },
+  "935095903": {
+   "fragment_id": "934784871",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": "2025-09-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 306/2025/1 - Diário da República n.º 175/2025, Série I de 2025-09-11](https://diariodarepublica.pt/dr/detalhe/portaria/306-2025-935004234), em vigor a partir de 2025-09-12"
+   ],
+   "markdown": "###### 6.º\n\nO limite máximo de valores de aquisição dos certificados de aforro emitidos a favor de uma mesma pessoa será de 5250 contos, podendo esse limite ser alterado até 7000 contos por simples despacho da Junta do Crédito Público.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 306/2025/1 - Diário da República n.º 175/2025, Série I de 2025-09-11](https://diariodarepublica.pt/dr/detalhe/portaria/306-2025-935004234), em vigor a partir de 2025-09-12"
+  },
+  "935095901": {
+   "fragment_id": "934784870",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": "2025-09-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2025/1 - Diário da República n.º 175/2025, Série I de 2025-09-11](https://diariodarepublica.pt/dr/detalhe/portaria/306-2025-935004234), em vigor a partir de 2025-09-12"
+   ],
+   "markdown": "###### 7.º\n\nPara efeito dos limites fixados na Ficha Técnica dos certificados de aforro em comercialização, não são considerados os certificados de aforro adquiridos por herança ou legado, nem os emitidos de harmonia com o n.º 5.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2025/1 - Diário da República n.º 175/2025, Série I de 2025-09-11](https://diariodarepublica.pt/dr/detalhe/portaria/306-2025-935004234), em vigor a partir de 2025-09-12"
+  },
+  "935095882": {
+   "fragment_id": "934784869",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º\n\nÉ revogada a Portaria n.º 99-D/77, de 28 de Fevereiro."
+  },
+  "935095890": {
+   "fragment_id": "935098377",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério das Finanças e do Plano, 14 de Maio de 1981. - O Secretário de Estado Adjunto do Ministro das Finanças e do Plano, António José Nunes Loureiro Borges."
+  }
+ }
+}

@@ -1,0 +1,470 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32003L0098:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0098-20210717",
+ "dre_path": null,
+ "source_lastmod": "2021-07-17",
+ "versions": [
+  {
+   "date": "2003-12-31",
+   "future": false,
+   "celex": "02003L0098-20031231",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ebff2dc24a141fcc",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "f36157e01fef321b",
+    "6c31759017f09327",
+    "54cdf32c93f83b8c",
+    "f0f8c960bfdbce9b",
+    "86b0e4ec2fc6366d",
+    "8a2d74569b0fddab",
+    "1e7a0903d2eed348",
+    "fd346311715baf0c",
+    "b4625a804c327f27",
+    "b4ad27481f352ca0",
+    "20beeb2ba0fdb20a",
+    "8a5c49005739179d",
+    "a34a1f7f9d324ca4",
+    "1ecfc79da3f1ac7f",
+    "b1487e8dfe38d20a",
+    "718643bebcd30a73",
+    "fb6b0f0dcde3a290",
+    "40ed6b62e188ac6f",
+    "dde9cf53e9ae6c9a",
+    "c9fa80f11c76cf91",
+    "470b29c30e9da785",
+    "0863a5999fe1e1cd",
+    "bcd5282fad9601e8",
+    "15c98b20b741ba49"
+   ]
+  },
+  {
+   "date": "2013-07-17",
+   "future": false,
+   "celex": "02003L0098-20130717",
+   "acts": [
+    {
+     "id": "eu:celex:32013L0037:por",
+     "title": "DIRETIVA 2013/37/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 26 de junho de 2013",
+     "published": null,
+     "celex": "32013L0037"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Objecto e âmbito de aplicação",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 3.º — Princípio geral",
+    "Altera Artigo 4.º — Requisitos para o tratamento dos pedidos de reutilização",
+    "Altera Artigo 5.º — Formatos disponíveis",
+    "Altera Artigo 6.º — Princípios aplicáveis aos emolumentos",
+    "Altera Artigo 7.º — Transparência",
+    "Altera Artigo 8.º — Licenças",
+    "Altera Artigo 9.º — Disposições práticas",
+    "Altera Artigo 11.º — Proibição de acordos exclusivos",
+    "Altera Artigo 13.º — Exame",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "d9e82a55bd9e2eb9",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "d2913f9f4d08dd69",
+    "d18c106b8f6278a4",
+    "9b0f92162fb096c6",
+    "f0f8c960bfdbce9b",
+    "86b0e4ec2fc6366d",
+    "5a021316409d8389",
+    "1e7a0903d2eed348",
+    "fd346311715baf0c",
+    "af6192276a9d7efe",
+    "828d3268c225323b",
+    "cf9a86c89ccbbc7a",
+    "3ec84df127846530",
+    "4d5cce602447df76",
+    "1ecfc79da3f1ac7f",
+    "b1487e8dfe38d20a",
+    "718643bebcd30a73",
+    "cde2768439517d24",
+    "40ed6b62e188ac6f",
+    "dde9cf53e9ae6c9a",
+    "c9fa80f11c76cf91",
+    "b7aa411a98bbe4a3",
+    "0863a5999fe1e1cd",
+    "bcd5282fad9601e8",
+    "943aab5269654b80"
+   ]
+  },
+  {
+   "date": "2021-07-17",
+   "future": false,
+   "celex": "02003L0098-20210717",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 1.º — Objecto e âmbito de aplicação",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Princípio geral",
+    "Suprime CAPÍTULO II",
+    "Suprime PEDIDOS DE REUTILIZAÇÃO",
+    "Suprime Artigo 4.º — Requisitos para o tratamento dos pedidos de reutilização",
+    "Suprime CAPÍTULO III",
+    "Suprime CONDIÇÕES DE REUTILIZAÇÃO",
+    "Suprime Artigo 5.º — Formatos disponíveis",
+    "Suprime Artigo 6.º — Princípios aplicáveis aos emolumentos",
+    "Suprime Artigo 7.º — Transparência",
+    "Suprime Artigo 8.º — Licenças",
+    "Suprime Artigo 9.º — Disposições práticas",
+    "Suprime CAPÍTULO IV",
+    "Suprime NÃO DISCRIMINAÇÃO E CONCORRÊNCIA LEAL",
+    "Suprime Artigo 10.º — Não discriminação",
+    "Suprime Artigo 11.º — Proibição de acordos exclusivos",
+    "Suprime CAPÍTULO V",
+    "Suprime DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 12.º — Execução",
+    "Suprime Artigo 13.º — Exame",
+    "Suprime Artigo 14.º — Entrada em vigor",
+    "Suprime Artigo 15.º — Destinatários",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "5a20e7e78c2722b4"
+   ]
+  }
+ ],
+ "fragments": {
+  "ebff2dc24a141fcc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Novembro de 2003\n\nrelativa à reutilização de informações do sector público\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 95.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/6e036d60-e283-4be4-b6f7-7953911cc4ce.0004.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^2^](http://publications.europa.eu/resource/cellar/6e036d60-e283-4be4-b6f7-7953911cc4ce.0004.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/6e036d60-e283-4be4-b6f7-7953911cc4ce.0004.03/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^4^](http://publications.europa.eu/resource/cellar/6e036d60-e283-4be4-b6f7-7953911cc4ce.0004.03/DOC_1#E0004)),\n\n(1) O Tratado estabelece a criação de um mercado interno e de um sistema que impeça a distorção da concorrência nesse mercado. A harmonização das regras e práticas dos Estados-Membros em matéria de exploração da informação do sector público contribui para a realização destes objectivos.\n\n(2) A evolução para uma sociedade da informação e do conhecimento influencia a vida de todos os cidadãos da Comunidade, permitindo-lhes, designadamente, obter novos meios de acesso e aquisição de conhecimento.\n\n(3) Os conteúdos digitais desempenham um importante papel nesta evolução. A produção de conteúdos tem dado e continuará a dar origem à rápida criação de emprego. Na maioria dos casos, esse emprego é criado em pequenas empresas emergentes.\n\n(4) O sector público recolhe, produz, reproduz e divulga um largo espectro de informações em muitas áreas de actividade, como informações sociais, económicas, geográficas, meteorológicas, turísticas, empresariais e sobre patentes e educação.\n\n(5) Um dos principais objectivos do estabelecimento de um mercado interno é a criação de condições conducentes ao desenvolvimento de serviços à escala comunitária. A informação do sector público constitui uma importante matéria-prima para os produtos e serviços de conteúdo digital e tornar-se-á um recurso de conteúdos ainda mais importante com o desenvolvimento dos serviços de conteúdo sem fios. Neste contexto, é também essencial uma vasta cobertura geográfica transfronteiriça. A existência de possibilidades mais vastas de reutilização das informações do sector público deverá permitir nomeadamente às empresas europeias explorar o potencial dessas informações e contribuir para o crescimento económico e a geração de emprego.\n\n(6) Existem diferenças consideráveis nas regras e práticas em vigor nos Estados-Membros em matéria de exploração dos recursos da informação do sector público, diferenças essas que constituem obstáculos à plena materialização do potencial económico deste recurso essencial de documentos. A tradição dos organismos públicos quanto à utilização de informações do sector público evoluiu de forma muito variada, pelo que esse facto deve ser tomado em consideração. É portanto necessário levar a efeito uma harmonização mínima das regras e práticas nacionais de reutilização de documentos do sector público, nos casos em que as diferenças existentes na regulamentação e nas práticas nacionais, ou a ausência de clareza, impeçam o bom funcionamento do mercado interno e o desenvolvimento adequado da sociedade da informação na Comunidade.\n\n(7) Por outro lado, sem uma harmonização mínima a nível comunitário, as actividades legislativas a nível nacional, já iniciadas em diversos Estados-Membros para responder aos desafios tecnológicos, poderão originar diferenças ainda maiores. O impacto dessas diferenças e incertezas no plano legislativo tornar-se-á mais significativo com o desenvolvimento da sociedade da informação, que conduziu já a um grande aumento da exploração transfronteiriça da informação.\n\n(8) É necessário estabelecer um quadro geral das condições de reutilização de documentos do sector público, com vista a garantir condições justas, proporcionadas e não discriminatórias na reutilização dessa informação. Os organismos do sector público recolhem, produzem, reproduzem e divulgam documentos para cumprir as suas missões de serviço público. A utilização de tais documentos para outros fins constitui uma reutilização. As políticas dos Estados-Membros podem ir além das normas mínimas estabelecidas na presente directiva, permitindo assim uma reutilização mais alargada.\n\n(9) A presente directiva não obriga a autorizar a reutilização de documentos. A decisão de autorização ou não caberá aos Estados-Membros ou aos organismos do sector público interessados. A presente directiva deve aplicar-se aos documentos disponibilizados para reutilização sempre que os organismos públicos autorizem, vendam, divulguem, troquem ou prestem informações. Para evitar subsídios cruzados, a reutilização inclui a continuação da utilização de documentos dentro do próprio organismo para actividades que estejam fora do âmbito das suas atribuições públicas. Essas actividades incluirão normalmente o fornecimento de documentos produzidos e cobrados exclusivamente numa base comercial e em concorrência com outros no mercado. A definição de «documento» não pretende abranger os programas informáticos. A presente directiva assenta nos regimes de acesso existentes nos Estados-Membros e não altera as regras nacionais de acesso aos documentos. A directiva não é aplicável a casos em que cidadãos ou empresas, ao abrigo do regime de acesso pertinente, apenas possam obter determinado documento se comprovarem o seu particular interesse. A nível comunitário, nos artigos 41.º (direito a uma boa administração) e 42.º (direito de acesso aos documentos) da Carta dos Direitos Fundamentais da União Europeia reconhece-se a qualquer cidadão da União, bem como a qualquer pessoa singular ou colectiva com residência ou sede social num Estado-Membro o direito de acesso aos documentos do Parlamento Europeu, do Conselho e da Comissão. Os organismos do sector público devem ser incentivados a disponibilizar para efeitos de reutilização todos os documentos na sua posse. Os organismos do sector público devempromover e incentivar a reutilização de documentos, nomeadamente de textos oficiais de carácter legislativo e administrativo, sempre que detenham o direito de autorizar a sua reutilização.\n\n(10) As definições de «organismo público» e de «organismo de direito público» foram retomadas das directivas sobre contratos públicos [92/50/CEE ([^5^](http://publications.europa.eu/resource/cellar/6e036d60-e283-4be4-b6f7-7953911cc4ce.0004.03/DOC_1#E0005)), 93/36/CEE ([^6^](http://publications.europa.eu/resource/cellar/6e036d60-e283-4be4-b6f7-7953911cc4ce.0004.03/DOC_1#E0006)), 93/37/CEE ([^7^](http://publications.europa.eu/resource/cellar/6e036d60-e283-4be4-b6f7-7953911cc4ce.0004.03/DOC_1#E0007)) e 98/4/CE ([^8^](http://publications.europa.eu/resource/cellar/6e036d60-e283-4be4-b6f7-7953911cc4ce.0004.03/DOC_1#E0008))]. As empresas públicas não estão abrangidas por estas definições.\n\n(11) A presente directiva prevê uma definição genérica do termo «documento», na linha da evolução da sociedade da informação. Abrange qualquer representação de actos, factos ou informações — e qualquer compilação destes — na posse dos organismos públicos, seja qual for o seu meio (papel, suporte electrónico, registo sonoro, visual ou audiovisual). Por documento na posse de um organismo do sector público entende-se um documento cuja reutilização possa ser autorizada legalmente por esse organismo.\n\n(12) O prazo de resposta a pedidos de reutilização deve ser razoável e alinhado pelo prazo de resposta aplicável aos pedidos de acesso a documentos, ao abrigo dos regimes de acesso pertinentes em vigor. A fixação de prazos razoáveis em toda a União irá estimular a criação de novos produtos e serviços de informação agregada a nível paneuropeu. Uma vez que o pedido para a reutilização tenha sido aceite, os organismos do sector público devem tornar os documentos estejam disponíveis num prazo que permita a plena exploração do seu potencial económico. Isto é particularmente importante para o conteúdo dinâmico (por exemplo, informações sobre a circulação), cujo valor económico depende da sua disponibilidade imediata e de actualizações regulares. Logo que uma licença é utilizada, o período de disponibilidade dos documentos pode fazer parte integrante das condições previstas na licença.\n\n(13) As possibilidades de reutilização poderão ser melhoradas limitando a necessidade de digitalizar documentos em papel ou de manipular ficheiros digitais de modo a torná-los compatíveis entre si. Por conseguinte, os organismos do sector público deverão disponibilizar os documentos nos formatos ou linguagens em que já existam, sempre que possível e adequado através de meios electrónicos. Os organismos do sector público deverão considerar positivamente os pedidos de um extracto de documento existente quando a satisfação desses pedidos apenas implicar uma simples manipulação. No entanto, os organismos do sector público não estão obrigados a fornecer um extracto de documento quando tal implicar um esforço desproporcionado. A fim de facilitar a reutilização, os organismos do sector público devem providenciar para que os seus próprios documentos fiquem disponíveis num formato que, tanto quanto possível e adequado, não esteja dependente da utilização de um suporte lógico («*software*») específico. Sempre que possível e adequado, os organismos do sector público devem tomar em consideração as possibilidades de reutilização de documentos por e para pessoas com deficiência.\n\n(14) Sempre que forem cobrados emolumentos, a receita total não poderá exceder o custo total da produção, reprodução e divulgação dos documentos, com uma rentabilidade razoável para o investimento, tendo na devida conta os requisitos de autofinanciamento do organismo do sector público em causa, quando aplicável. A produção inclui a criação e a recolha, e a divulgação pode incluir o apoio ao utilizador. A recuperação dos custos, acrescida de um rendimento razoável do investimento, consentâneo com os princípios contabilísticos aplicáveis e com o método de cálculo de custos pertinente do organismo do sector público em causa, constitui o limite máximo do preço, devendo ser proibida a fixação de preços excessivos. O limite superior de preços fixado na presente directiva em nada altera o direito dos Estados-Membros ou dos organismos do sector público de aplicarem preços mais baixos ou não cobrarem qualquer preço, devendo os Estados-Membros incentivar os referidos organismos a disponibilizarem os documentos a preços que não excedam os custos marginais correspondentes à sua reprodução e divulgação.\n\n(15) Garantir a clareza e a disponibilização ao público das condições de reutilização dos documentos do sector público constitui um requisito prévio ao desenvolvimento de um mercado da informação à escala comunitária. Assim, todas as condições aplicáveis à reutilização de documentos devem ser claramente apresentadas aos potenciais reutilizadores. Os Estados-Membros deverão incentivar a criação de índices, se for caso disso, acessíveis em linha, de documentos disponíveis, por forma a promover e facilitar os pedidos de reutilização. Os requerentes da reutilização de documentos devem ser informados das vias de recurso de que dispõem para poderem contestar as decisões ou práticas que os afectam. Tal facto será particularmente importante para as PME que possam não estar familiarizadas nas relações com organismos do sector público de outros Estados-Membros e das suas correspondentes vias de recurso.\n\n(16) A divulgação de todos os documentos geralmente disponíveis que se encontram na posse dos organismos públicos — não só relativa aos actos políticos, mas também aos processos judiciais e administrativos — constitui um instrumento fundamental para alargar o direito ao conhecimento, que constitui um princípio fundamental da democracia. Este objectivo deve aplicar-se a instituições a todos os níveis: local, nacional e internacional.\n\n(17) Em alguns casos, a reutilização de documentos terá lugar sem que tenha sido concedida uma licença. Noutros casos, será emitida uma licença impondo as condições de reutilização pelo detentor da licença, focando questões como a responsabilidade, a utilização adequada dos documentos e garantindo a sua não alteração e o reconhecimento da fonte. Se os organismos do sector público emitirem licenças de reutilização de documentos, as condições devem ser justas e transparentes. As licenças-tipo disponíveis em linha podem também desempenhar um importante papel nesta matéria. Portanto, os Estados-Membros devem providenciar no sentido de disponibilizar licenças-tipo.\n\n(18) Caso os serviços responsáveis decidam deixar de colocar à disposição determinados documentos, devem tornar pública tal decisão, em tempo oportuno e por meios electrónicos sempre que possível.\n\n(19) As condições de reutilização não deverão ser discriminatórias para categorias de reutilização equivalentes. Não deverá, por exemplo, impedir-se o intercâmbio de informações sem encargos entre organismos do sector público no exercício das suas atribuições públicas, embora a outras partes seja cobrada a reutilização dos mesmos documentos. Tampouco se deverá impedir a adopção de uma política de preços diferenciada consoante a reutilização seja comercial ou não comercial.\n\n(20) Ao estabelecerem os princípios de reutilização dos documentos, os organismos do sector público devem respeitar as regras da concorrência e, na medida do possível, evitar a celebração de contratos de exclusividade com entidades privadas. Todavia, tendo em vista a prestação de um serviço de interesse económico geral, poderá, por vezes, revelar-se necessária a atribuição de um direito exclusivo de reutilização de documentos específicos do sector público. Estas situações poderão ocorrer nos casos em que nenhum editor comercial estiver disposto a publicar a informação sem esse direito exclusivo.\n\n(21) A presente directiva deve ser aplicada e executada no pleno cumprimento dos princípios relativos à protecção de dados pessoais, nos termos da Directiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de Outubro de 1995, relativa à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados ([^9^](http://publications.europa.eu/resource/cellar/6e036d60-e283-4be4-b6f7-7953911cc4ce.0004.03/DOC_1#E0009)).\n\n(22) Os direitos de propriedade intelectual de terceiros não são afectados pela presente directiva. Para evitar dúvidas, a expressão «direitos de propriedade intelectual» refere-se apenas aos direitos de autor e direitos conexos (incluindo formas de protecção *sui generis*). A presente directiva não é aplicável a documentos abrangidos por direitos de propriedade industrial, tais como patentes, modelos e marcas registados. A presente directiva em nada afecta a existência ou a detenção de direitos de propriedade intelectual de organismos do sector público, nem restringe o exercício desses direitos para além dos limites estabelecidos na presente directiva. As obrigações decorrentes da presente directiva só devem ser aplicáveis na medida em que sejam compatíveis com as disposições dos acordos internacionais sobre protecção de direitos de propriedade intelectual, em especial a Convenção de Berna para a Protecção das Obras Literárias e Artísticas («Convenção de Berna») e o Acordo sobre os Aspectos dos Direitos de Propriedade Intelectual relacionados com o Comércio («Acordo TRIPS». No entanto, os organismos públicos devem exercer os seus direitos de autor de uma forma que facilite a reutilização.\n\n(23) Os instrumentos que contribuam para que os potenciais reutilizadores encontrem os documentos disponíveis para a reutilização e permitam as condições de reutilização podem facilitar consideravelmente a utilização transfronteiras dos documentos do sector público. Assim sendo, os Estados-Membros devem assegurar a existência de modalidades práticas que ajudem os reutilizadores na sua procura de documentos disponíveis para reutilização. Listas, das existências de preferência acessíveis em linha, dos documentos mais importantes (documentos que sejam reutilizados de forma extensiva ou que potencialmente o sejam) e portais ligados a listas descentralizadas são exemplos dessas modalidades práticas.\n\n(24) A presente directiva não prejudica a Directiva 2001/29/CE, do Parlamento Europeu e do Conselho, de 22 de Maio de 2001, relativa à harmonização de certos aspectos do direito de autor e dos direitos conexos na Sociedade da Informação ([^10^](http://publications.europa.eu/resource/cellar/6e036d60-e283-4be4-b6f7-7953911cc4ce.0004.03/DOC_1#E0010)), nem a Directiva 96/9/CE do Parlamento Europeu e do Conselho, de 11 de Março de 1996, relativa à protecção jurídica das bases de dados ([^11^](http://publications.europa.eu/resource/cellar/6e036d60-e283-4be4-b6f7-7953911cc4ce.0004.03/DOC_1#E0011)). Expõe as condições em que os organismos do sector público podem exercer os seus direitos de propriedade intelectual no mercado interno da informação ao permitirem a reutilização de documentos.\n\n(25) Atendendo a que os objectivos da acção proposta, isto é, facilitar a criação de produtos e serviços da informação à escala comunitária baseados nos documentos do sector público, melhorar a efectiva utilização transfronteiriça, por empresas privadas, dos documentos do sector público em produtos e serviços de valor acrescentado de informação e limitar as distorções da concorrência no mercado comunitário, não podem ser suficientemente realizados pelos Estados-Membros e podem, pois, devido ao âmbito e ao impacto intrinsecamente comunitários dessa acção, ser melhor alcançados ao nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aqueles objectivos. A presente directiva deverá alcançar uma harmonização mínima, evitando-se assim maiores disparidades entre as acções dos Estados-Membros no domínio da reutilização de documentos do sector público,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "f36157e01fef321b": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1. A presente directiva estabelece um conjunto mínimo de regras aplicáveis à reutilização e aos meios práticos de facilitar a reutilização de documentos na posse de organismos do sector público dos Estados-Membros.\n\n2. A presente directiva não é aplicável a:\n\na) Documentos cujo fornecimento seja uma actividade fora do âmbito das funções de serviço público dos organismos em causa, tal como definidas na legislação ou noutras normas vinculativas dos Estados-Membros, ou, na ausência de tais normas, em consonância com a prática administrativa corrente no Estado-Membro em causa;\n\nb) Documentos cujos direitos de propriedade intelectual sejam detidos por terceiros;\n\nc) Documentos não acessíveis por força dos regimes de acesso dos Estados-Membros, nomeadamente por razões de:\n\n— protecção da segurança nacional (ou seja, segurança do Estado), defesa ou segurança pública,\n\n— confidencialidade estatística ou comercial;\n\nd) Documentos na posse de empresas de radiodifusão de serviço público e suas filiais e de outros organismos ou suas filiais com vista ao cumprimento das suas funções de radiodifusão de serviço público;\n\ne) Documentos na posse de estabelecimentos de ensino e investigação, como escolas, universidades, arquivos, bibliotecas e centros de investigação, incluindo, quando pertinente, organizações criadas com vista à transferência de resultados de investigação;\n\nf) Documentos na posse de instituições culturais, como museus, bibliotecas, arquivos, orquestras, óperas, companhias de bailado e teatros.\n\n3. A presente directiva assenta nos regimes de acesso existentes nos Estados-Membros e não os prejudica. A presente directiva não é aplicável a casos em que cidadãos ou empresas tenham de provar um interesse particular na obtenção de documentos ao abrigo do regime de acesso.\n\n4. A presente directiva não modifica, nem de modo algum afecta o nível de protecção dos indivíduos relativamente ao processamento de dados pessoais nos termos das disposições de direito nacional e comunitário, nem altera, em particular, as obrigações e direitos estabelecidos na Directiva 95/46/CE.\n\n5. As obrigações decorrentes da presente directiva só devem ser aplicáveis na medida em que sejam compatíveis com as disposições dos acordos internacionais sobre protecção de direitos de propriedade intelectual, em especial a Convenção de Berna e o Acordo TRIPS."
+  },
+  "6c31759017f09327": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, são aplicáveis as seguintes definições:\n\n1. «Organismo do sector público» significa o Estado, as autoridades regionais ou locais, os organismos de direito público e as associações formadas por uma ou mais autoridades ou por um ou mais organismos de direito público.\n\n2. «Organismo de direito público» significa qualquer organismo:\n\na) Criado para satisfazer especificamente necessidades de interesse geral, sem carácter industrial ou comercial;\n\nb) Dotado de personalidade jurídica; e\n\nc) Financiado maioritariamente pelo Estado, por autoridades regionais ou locais ou por outros organismos de direito público, ou cuja gestão esteja sujeita a um controlo por parte de tais organismos, ou cujos órgãos de administração, de direcção ou de fiscalização sejam compostos maioritariamente por membros designados pelo Estado, por autoridades regionais ou locais ou por outros organismos de direito público.\n\n3. «Documento» significa:\n\na) Qualquer conteúdo, seja qual for o seu suporte (documento escrito em suporte papel ou electrónico, registo sonoro, visual ou audiovisual);\n\nb) Qualquer parte desse conteúdo.\n\n4. «Reutilização» significa a utilização por pessoas singulares ou colectivas de documentos na posse de organismos do sector público, para fins comerciais ou não comerciais diferentes do fim inicial de serviço público para o qual os documentos foram produzidos. O intercâmbio de documentos entre organismos do sector público exclusivamente no desempenho das suas funções não constitui reutilização.\n\n5. «Dados pessoais» significa os dados definidos nos termos da alínea a) do artigo 2.º da Directiva 95/46/CE."
+  },
+  "54cdf32c93f83b8c": {
+   "fragment_id": "Artigo 3.º — Princípio geral",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípio geral\n\nOs Estados-Membros garantirão que, sempre que seja permitida a reutilização de documentos na posse de organismos do sector público, tais documentos sejam reutilizáveis para fins comerciais ou não comerciais, nos termos dos capítulos III e IV. Sempre que possível, os documentos serão postos à disposição através de meios electrónicos."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "86b0e4ec2fc6366d": {
+   "fragment_id": "PEDIDOS DE REUTILIZAÇÃO",
+   "type": "divisao",
+   "heading": "PEDIDOS DE REUTILIZAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PEDIDOS DE REUTILIZAÇÃO"
+  },
+  "8a2d74569b0fddab": {
+   "fragment_id": "Artigo 4.º — Requisitos para o tratamento dos pedidos de reutilização",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Requisitos para o tratamento dos pedidos de reutilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos para o tratamento dos pedidos de reutilização\n\n1. Os organismos do sector público tratam os pedidos de reutilização e põem o documento à disposição do requerente ou, caso seja necessária uma licença, apresentam ao requerente a oferta de licença definitiva num prazo razoável, compatível com os prazos previstos para o tratamento de pedidos de acesso aos documentos, sempre que possível e adequado através de meios electrónicos.\n\n2. Caso não tenham sido estabelecidos prazos ou outras regras que regulem a entrega atempada dos documentos, os organismos do sector público tratam o pedido e porão os documentos à disposição do requerente ou, caso seja necessária uma licença, apresentam ao requerente a oferta de licença definitiva num prazo não superior a 20 dias úteis após a recepção do pedido. Este prazo pode ser prorrogado por mais 20 dias úteis para pedidos extensos ou complexos. Nesse caso, o requerente deve ser notificado, no prazo de três semanas após o pedido inicial, de que este requer um tratamento mais demorado.\n\n3. Em caso de indeferimento, os organismos do sector público devem comunicar ao requerente os motivos da recusa, com base nas disposições pertinentes do regime de acesso em vigor nesse Estado-Membro ou nas disposições nacionais aprovadas em aplicação da presente directiva, em especial das alíneas a), b) e c) do n.º 2 do artigo 1.º ou do artigo 3.º Em caso de indeferimento baseado na alínea b) do n.º 2 do artigo 1.º, o organismo do sector público deve incluir uma referência à pessoa singular ou colectiva titular do direito, nos casos em que esta seja conhecida, ou, em alternativa, à entidade licenciadora que cedeu o material em causa ao organismo do sector público.\n\n4. As decisões de indeferimento devem incluir uma referência às vias de recurso, para a eventualidade de o requerente querer recorrer da decisão.\n\n5. Os organismos do sector público abrangidos pelas alíneas d), e) e f) do n.º 2 do artigo 1.º não têm de satisfazer os requisitos constantes do presente artigo."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "fd346311715baf0c": {
+   "fragment_id": "CONDIÇÕES DE REUTILIZAÇÃO",
+   "type": "divisao",
+   "heading": "CONDIÇÕES DE REUTILIZAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONDIÇÕES DE REUTILIZAÇÃO"
+  },
+  "b4625a804c327f27": {
+   "fragment_id": "Artigo 5.º — Formatos disponíveis",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Formatos disponíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Formatos disponíveis\n\n1. Os organismos do sector público devem disponibilizar os seus documentos em qualquer formato ou linguagem em que já existam, sempre que possível e adequado por via electrónica. Esse facto não implica, para os organismos do sector público, o dever de criar ou adaptar documentos para satisfazer o pedido, nem a obrigação de fornecer extractos de documentos, caso isso envolva um esforço desproporcionado, que ultrapasse a simples manipulação.\n\n2. Com base na presente directiva, não se pode exigir aos organismos do sector público que mantenham a produção de determinado tipo de documentos com vista à sua reutilização por organismos do sector público ou privado."
+  },
+  "b4ad27481f352ca0": {
+   "fragment_id": "Artigo 6.º — Princípios aplicáveis aos emolumentos",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Princípios aplicáveis aos emolumentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Princípios aplicáveis aos emolumentos\n\nSempre que forem cobrados emolumentos, a receita total proveniente do fornecimento e da autorização de reutilização de documentos não poderá exceder o custo da sua recolha, produção, reprodução e divulgação, acrescido de uma rentabilidade razoável para o investimento. Os emolumentos deverão basear-se nos custos durante o exercício contabilístico normal e ser calculados de harmonia com os princípios contabilísticos aplicáveis aos organismos do sector público interessados."
+  },
+  "20beeb2ba0fdb20a": {
+   "fragment_id": "Artigo 7.º — Transparência",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Transparência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Transparência\n\nAs eventuais condições e preços normais aplicáveis à reutilização de documentos detidos por organismos públicos são pré-estabelecidos e publicados, quando possível e adequado, por via electrónica. A pedido, o organismo do sector público indicará a base de cálculo utilizada para estabelecer o preço publicado. O organismo do sector público em questão deve indicar ainda quais os factores que serão tidos em conta no cálculo dos preços, em casos atípicos. Os organismos do sector público garantirão que os requerentes da reutilização de documentos sejam informados das vias de recurso de que dispõem para poderem contestar as decisões ou práticas que os afectam."
+  },
+  "8a5c49005739179d": {
+   "fragment_id": "Artigo 8.º — Licenças",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Licenças\n\n1. Os organismos do sector público podem autorizar a reutilização de documentos sem condições, ou impor condições, sempre que adequado através de uma licença, que trate de questões relevantes. Essas condições não devem restringir desnecessariamente as possibilidades de reutilização e não devem ser utilizadas para limitar a concorrência.\n\n2. Nos Estados-Membros em que forem utilizadas licenças, deve ser garantido que as licenças-tipo para a reutilização de documentos do sector público, que podem ser adaptados para satisfazer pedidos de licença específicos, estejam disponíveis em formato digital e possam ser processados electronicamente. Os Estados-Membros incentivam todos os organismos do sector público a fazer uso das licenças-tipo."
+  },
+  "a34a1f7f9d324ca4": {
+   "fragment_id": "Artigo 9.º — Disposições práticas",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Disposições práticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições práticas\n\nOs Estados-Membros assegurarão a existência de modalidades práticas que ajudem os reutilizadores na sua procura de documentos disponíveis para a reutilização, tais como listas de existências, de preferência acessíveis em linha, dos documentos mais importantes, assim como portais ligados a listas de existências descentralizadas."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "b1487e8dfe38d20a": {
+   "fragment_id": "NÃO DISCRIMINAÇÃO E CONCORRÊNCIA LEAL",
+   "type": "divisao",
+   "heading": "NÃO DISCRIMINAÇÃO E CONCORRÊNCIA LEAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### NÃO DISCRIMINAÇÃO E CONCORRÊNCIA LEAL"
+  },
+  "718643bebcd30a73": {
+   "fragment_id": "Artigo 10.º — Não discriminação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Não discriminação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Não discriminação\n\n1. As eventuais condições aplicáveis à reutilização de documentos não devem ser discriminatórias para categorias de reutilização equivalentes.\n\n2. Caso um organismo do sector público reutilize documentos como estímulo para as suas actividades comerciais, fora do âmbito das suas atribuições públicas, ao fornecimento de documentos para tais actividades devem aplicar-se preços e condições idênticas às aplicáveis aos restantes utilizadores."
+  },
+  "fb6b0f0dcde3a290": {
+   "fragment_id": "Artigo 11.º — Proibição de acordos exclusivos",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Proibição de acordos exclusivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Proibição de acordos exclusivos\n\n1. A reutilização de documentos está aberta a todos os potenciais intervenientes no mercado, ainda que um ou mais explorem já produtos de valor acrescentado baseados nesses documentos. Os contratos ou outros acordos celebrados entre organismos do sector público que possuam esses documentos e terceiros não criam direitos exclusivos.\n\n2. No entanto, nos casos em que seja necessário um direito exclusivo para a prestação de um serviço de interesse público, a validade dos motivos que tenham conduzido à criação do direito exclusivo deve ser objecto de exame periódico, devendo, em qualquer caso, ser revista de três em três anos. Os acordos exclusivos estabelecidos após a entrada em vigor da presente directiva devem ser transparentes e publicitados.\n\n3. Ao expirarem os contratos ou, em qualquer caso, até 31 de Dezembro de 2008, será posto termo aos acordos exclusivos existentes não abrangidos pela derrogação prevista no n.º 2."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "c9fa80f11c76cf91": {
+   "fragment_id": "Artigo 12.º — Execução",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Execução\n\nOs Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 1 de Julho de 2005 e informar imediatamente a Comissão desse facto.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros."
+  },
+  "470b29c30e9da785": {
+   "fragment_id": "Artigo 13.º — Exame",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Exame",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Exame\n\n1. A Comissão reavaliará a aplicação da presente directiva antes de 1 de Julho de 2008 e comunicará ao Parlamento Europeu e ao Conselho os resultados dessa avaliação, juntamente com eventuais propostas de alteração da directiva.\n\n2. A avaliação abrangerá, em especial, o âmbito e o impacto da presente directiva, incluindo o nível do aumento da reutilização de documentos do sector público, os efeitos dos princípios aplicáveis aos preços e a reutilização de textos oficiais de carácter legislativo e administrativo, bem como outras possibilidades de melhorar o funcionamento do mercado interno e o desenvolvimento da indústria europeia de conteúdos."
+  },
+  "0863a5999fe1e1cd": {
+   "fragment_id": "Artigo 14.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nA presente directiva entra em vigor na data da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "bcd5282fad9601e8": {
+   "fragment_id": "Artigo 15.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva.\n\n---"
+  },
+  "15c98b20b741ba49": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/6e036d60-e283-4be4-b6f7-7953911cc4ce.0004.03/DOC_1#src.E0001)) JO C 227 E de 24.9.2002, p. 382.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/6e036d60-e283-4be4-b6f7-7953911cc4ce.0004.03/DOC_1#src.E0002)) JO C 85 de 8.4.2003, p. 25.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/6e036d60-e283-4be4-b6f7-7953911cc4ce.0004.03/DOC_1#src.E0003)) JO C 73 de 26.3.2003, p. 38.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/6e036d60-e283-4be4-b6f7-7953911cc4ce.0004.03/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 12 de Fevereiro de 2003 (ainda não publicado no Jornal Oficial, posição comum do Conselho de 26 de Maio de 2003 (JO C 159 E de 8.7.2003, p. 1) e posição do Parlamento Europeu de 25 de Setembro de 2003 (ainda não publicada no Jornal Oficial). Decisão do Conselho de 27 de Outubro de 2003.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/6e036d60-e283-4be4-b6f7-7953911cc4ce.0004.03/DOC_1#src.E0005)) JO L 209 de 24.7.1992, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2001/78/CE da Comissão (JO L 285 de 29.10.2001, p. 1).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/6e036d60-e283-4be4-b6f7-7953911cc4ce.0004.03/DOC_1#src.E0006)) JO L 199 de 9.8.1993, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2001/78/CE da Comissão.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/6e036d60-e283-4be4-b6f7-7953911cc4ce.0004.03/DOC_1#src.E0007)) JO L 199 de 9.8.1993, p. 54. Directiva com a última redacção que lhe foi dada pela Directiva 2001/78/CE da Comissão.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/6e036d60-e283-4be4-b6f7-7953911cc4ce.0004.03/DOC_1#src.E0008)) JO L 101 de 1.4.1998, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/6e036d60-e283-4be4-b6f7-7953911cc4ce.0004.03/DOC_1#src.E0009)) JO L 281 de 23.11.1995, p. 31.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/6e036d60-e283-4be4-b6f7-7953911cc4ce.0004.03/DOC_1#src.E0010)) JO L 167 de 22.6.2001, p. 10.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/6e036d60-e283-4be4-b6f7-7953911cc4ce.0004.03/DOC_1#src.E0011)) JO L 77 de 27.3.1996, p. 20."
+  },
+  "d9e82a55bd9e2eb9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Novembro de 2003\n\nrelativa à reutilização de informações do sector público\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 95.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/fe6be64e-2c5f-4d05-a808-b21f960bbdda.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^2^](http://publications.europa.eu/resource/cellar/fe6be64e-2c5f-4d05-a808-b21f960bbdda.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/fe6be64e-2c5f-4d05-a808-b21f960bbdda.0018.03/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^4^](http://publications.europa.eu/resource/cellar/fe6be64e-2c5f-4d05-a808-b21f960bbdda.0018.03/DOC_1#E0004)),\n\n(1) O Tratado estabelece a criação de um mercado interno e de um sistema que impeça a distorção da concorrência nesse mercado. A harmonização das regras e práticas dos Estados-Membros em matéria de exploração da informação do sector público contribui para a realização destes objectivos.\n\n(2) A evolução para uma sociedade da informação e do conhecimento influencia a vida de todos os cidadãos da Comunidade, permitindo-lhes, designadamente, obter novos meios de acesso e aquisição de conhecimento.\n\n(3) Os conteúdos digitais desempenham um importante papel nesta evolução. A produção de conteúdos tem dado e continuará a dar origem à rápida criação de emprego. Na maioria dos casos, esse emprego é criado em pequenas empresas emergentes.\n\n(4) O sector público recolhe, produz, reproduz e divulga um largo espectro de informações em muitas áreas de actividade, como informações sociais, económicas, geográficas, meteorológicas, turísticas, empresariais e sobre patentes e educação.\n\n(5) Um dos principais objectivos do estabelecimento de um mercado interno é a criação de condições conducentes ao desenvolvimento de serviços à escala comunitária. A informação do sector público constitui uma importante matéria-prima para os produtos e serviços de conteúdo digital e tornar-se-á um recurso de conteúdos ainda mais importante com o desenvolvimento dos serviços de conteúdo sem fios. Neste contexto, é também essencial uma vasta cobertura geográfica transfronteiriça. A existência de possibilidades mais vastas de reutilização das informações do sector público deverá permitir nomeadamente às empresas europeias explorar o potencial dessas informações e contribuir para o crescimento económico e a geração de emprego.\n\n(6) Existem diferenças consideráveis nas regras e práticas em vigor nos Estados-Membros em matéria de exploração dos recursos da informação do sector público, diferenças essas que constituem obstáculos à plena materialização do potencial económico deste recurso essencial de documentos. A tradição dos organismos públicos quanto à utilização de informações do sector público evoluiu de forma muito variada, pelo que esse facto deve ser tomado em consideração. É portanto necessário levar a efeito uma harmonização mínima das regras e práticas nacionais de reutilização de documentos do sector público, nos casos em que as diferenças existentes na regulamentação e nas práticas nacionais, ou a ausência de clareza, impeçam o bom funcionamento do mercado interno e o desenvolvimento adequado da sociedade da informação na Comunidade.\n\n(7) Por outro lado, sem uma harmonização mínima a nível comunitário, as actividades legislativas a nível nacional, já iniciadas em diversos Estados-Membros para responder aos desafios tecnológicos, poderão originar diferenças ainda maiores. O impacto dessas diferenças e incertezas no plano legislativo tornar-se-á mais significativo com o desenvolvimento da sociedade da informação, que conduziu já a um grande aumento da exploração transfronteiriça da informação.\n\n(8) É necessário estabelecer um quadro geral das condições de reutilização de documentos do sector público, com vista a garantir condições justas, proporcionadas e não discriminatórias na reutilização dessa informação. Os organismos do sector público recolhem, produzem, reproduzem e divulgam documentos para cumprir as suas missões de serviço público. A utilização de tais documentos para outros fins constitui uma reutilização. As políticas dos Estados-Membros podem ir além das normas mínimas estabelecidas na presente directiva, permitindo assim uma reutilização mais alargada.\n\n(9) A presente directiva não obriga a autorizar a reutilização de documentos. A decisão de autorização ou não caberá aos Estados-Membros ou aos organismos do sector público interessados. A presente directiva deve aplicar-se aos documentos disponibilizados para reutilização sempre que os organismos públicos autorizem, vendam, divulguem, troquem ou prestem informações. Para evitar subsídios cruzados, a reutilização inclui a continuação da utilização de documentos dentro do próprio organismo para actividades que estejam fora do âmbito das suas atribuições públicas. Essas actividades incluirão normalmente o fornecimento de documentos produzidos e cobrados exclusivamente numa base comercial e em concorrência com outros no mercado. A definição de «documento» não pretende abranger os programas informáticos. A presente directiva assenta nos regimes de acesso existentes nos Estados-Membros e não altera as regras nacionais de acesso aos documentos. A directiva não é aplicável a casos em que cidadãos ou empresas, ao abrigo do regime de acesso pertinente, apenas possam obter determinado documento se comprovarem o seu particular interesse. A nível comunitário, nos artigos 41.º (direito a uma boa administração) e 42.º (direito de acesso aos documentos) da Carta dos Direitos Fundamentais da União Europeia reconhece-se a qualquer cidadão da União, bem como a qualquer pessoa singular ou colectiva com residência ou sede social num Estado-Membro o direito de acesso aos documentos do Parlamento Europeu, do Conselho e da Comissão. Os organismos do sector público devem ser incentivados a disponibilizar para efeitos de reutilização todos os documentos na sua posse. Os organismos do sector público devempromover e incentivar a reutilização de documentos, nomeadamente de textos oficiais de carácter legislativo e administrativo, sempre que detenham o direito de autorizar a sua reutilização.\n\n(10) As definições de «organismo público» e de «organismo de direito público» foram retomadas das directivas sobre contratos públicos [92/50/CEE ([^5^](http://publications.europa.eu/resource/cellar/fe6be64e-2c5f-4d05-a808-b21f960bbdda.0018.03/DOC_1#E0005)), 93/36/CEE ([^6^](http://publications.europa.eu/resource/cellar/fe6be64e-2c5f-4d05-a808-b21f960bbdda.0018.03/DOC_1#E0006)), 93/37/CEE ([^7^](http://publications.europa.eu/resource/cellar/fe6be64e-2c5f-4d05-a808-b21f960bbdda.0018.03/DOC_1#E0007)) e 98/4/CE ([^8^](http://publications.europa.eu/resource/cellar/fe6be64e-2c5f-4d05-a808-b21f960bbdda.0018.03/DOC_1#E0008))]. As empresas públicas não estão abrangidas por estas definições.\n\n(11) A presente directiva prevê uma definição genérica do termo «documento», na linha da evolução da sociedade da informação. Abrange qualquer representação de actos, factos ou informações — e qualquer compilação destes — na posse dos organismos públicos, seja qual for o seu meio (papel, suporte electrónico, registo sonoro, visual ou audiovisual). Por documento na posse de um organismo do sector público entende-se um documento cuja reutilização possa ser autorizada legalmente por esse organismo.\n\n(12) O prazo de resposta a pedidos de reutilização deve ser razoável e alinhado pelo prazo de resposta aplicável aos pedidos de acesso a documentos, ao abrigo dos regimes de acesso pertinentes em vigor. A fixação de prazos razoáveis em toda a União irá estimular a criação de novos produtos e serviços de informação agregada a nível paneuropeu. Uma vez que o pedido para a reutilização tenha sido aceite, os organismos do sector público devem tornar os documentos estejam disponíveis num prazo que permita a plena exploração do seu potencial económico. Isto é particularmente importante para o conteúdo dinâmico (por exemplo, informações sobre a circulação), cujo valor económico depende da sua disponibilidade imediata e de actualizações regulares. Logo que uma licença é utilizada, o período de disponibilidade dos documentos pode fazer parte integrante das condições previstas na licença.\n\n(13) As possibilidades de reutilização poderão ser melhoradas limitando a necessidade de digitalizar documentos em papel ou de manipular ficheiros digitais de modo a torná-los compatíveis entre si. Por conseguinte, os organismos do sector público deverão disponibilizar os documentos nos formatos ou linguagens em que já existam, sempre que possível e adequado através de meios electrónicos. Os organismos do sector público deverão considerar positivamente os pedidos de um extracto de documento existente quando a satisfação desses pedidos apenas implicar uma simples manipulação. No entanto, os organismos do sector público não estão obrigados a fornecer um extracto de documento quando tal implicar um esforço desproporcionado. A fim de facilitar a reutilização, os organismos do sector público devem providenciar para que os seus próprios documentos fiquem disponíveis num formato que, tanto quanto possível e adequado, não esteja dependente da utilização de um suporte lógico («*software*») específico. Sempre que possível e adequado, os organismos do sector público devem tomar em consideração as possibilidades de reutilização de documentos por e para pessoas com deficiência.\n\n(14) Sempre que forem cobrados emolumentos, a receita total não poderá exceder o custo total da produção, reprodução e divulgação dos documentos, com uma rentabilidade razoável para o investimento, tendo na devida conta os requisitos de autofinanciamento do organismo do sector público em causa, quando aplicável. A produção inclui a criação e a recolha, e a divulgação pode incluir o apoio ao utilizador. A recuperação dos custos, acrescida de um rendimento razoável do investimento, consentâneo com os princípios contabilísticos aplicáveis e com o método de cálculo de custos pertinente do organismo do sector público em causa, constitui o limite máximo do preço, devendo ser proibida a fixação de preços excessivos. O limite superior de preços fixado na presente directiva em nada altera o direito dos Estados-Membros ou dos organismos do sector público de aplicarem preços mais baixos ou não cobrarem qualquer preço, devendo os Estados-Membros incentivar os referidos organismos a disponibilizarem os documentos a preços que não excedam os custos marginais correspondentes à sua reprodução e divulgação.\n\n(15) Garantir a clareza e a disponibilização ao público das condições de reutilização dos documentos do sector público constitui um requisito prévio ao desenvolvimento de um mercado da informação à escala comunitária. Assim, todas as condições aplicáveis à reutilização de documentos devem ser claramente apresentadas aos potenciais reutilizadores. Os Estados-Membros deverão incentivar a criação de índices, se for caso disso, acessíveis em linha, de documentos disponíveis, por forma a promover e facilitar os pedidos de reutilização. Os requerentes da reutilização de documentos devem ser informados das vias de recurso de que dispõem para poderem contestar as decisões ou práticas que os afectam. Tal facto será particularmente importante para as PME que possam não estar familiarizadas nas relações com organismos do sector público de outros Estados-Membros e das suas correspondentes vias de recurso.\n\n(16) A divulgação de todos os documentos geralmente disponíveis que se encontram na posse dos organismos públicos — não só relativa aos actos políticos, mas também aos processos judiciais e administrativos — constitui um instrumento fundamental para alargar o direito ao conhecimento, que constitui um princípio fundamental da democracia. Este objectivo deve aplicar-se a instituições a todos os níveis: local, nacional e internacional.\n\n(17) Em alguns casos, a reutilização de documentos terá lugar sem que tenha sido concedida uma licença. Noutros casos, será emitida uma licença impondo as condições de reutilização pelo detentor da licença, focando questões como a responsabilidade, a utilização adequada dos documentos e garantindo a sua não alteração e o reconhecimento da fonte. Se os organismos do sector público emitirem licenças de reutilização de documentos, as condições devem ser justas e transparentes. As licenças-tipo disponíveis em linha podem também desempenhar um importante papel nesta matéria. Portanto, os Estados-Membros devem providenciar no sentido de disponibilizar licenças-tipo.\n\n(18) Caso os serviços responsáveis decidam deixar de colocar à disposição determinados documentos, devem tornar pública tal decisão, em tempo oportuno e por meios electrónicos sempre que possível.\n\n(19) As condições de reutilização não deverão ser discriminatórias para categorias de reutilização equivalentes. Não deverá, por exemplo, impedir-se o intercâmbio de informações sem encargos entre organismos do sector público no exercício das suas atribuições públicas, embora a outras partes seja cobrada a reutilização dos mesmos documentos. Tampouco se deverá impedir a adopção de uma política de preços diferenciada consoante a reutilização seja comercial ou não comercial.\n\n(20) Ao estabelecerem os princípios de reutilização dos documentos, os organismos do sector público devem respeitar as regras da concorrência e, na medida do possível, evitar a celebração de contratos de exclusividade com entidades privadas. Todavia, tendo em vista a prestação de um serviço de interesse económico geral, poderá, por vezes, revelar-se necessária a atribuição de um direito exclusivo de reutilização de documentos específicos do sector público. Estas situações poderão ocorrer nos casos em que nenhum editor comercial estiver disposto a publicar a informação sem esse direito exclusivo.\n\n(21) A presente directiva deve ser aplicada e executada no pleno cumprimento dos princípios relativos à protecção de dados pessoais, nos termos da Directiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de Outubro de 1995, relativa à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados ([^9^](http://publications.europa.eu/resource/cellar/fe6be64e-2c5f-4d05-a808-b21f960bbdda.0018.03/DOC_1#E0009)).\n\n(22) Os direitos de propriedade intelectual de terceiros não são afectados pela presente directiva. Para evitar dúvidas, a expressão «direitos de propriedade intelectual» refere-se apenas aos direitos de autor e direitos conexos (incluindo formas de protecção *sui generis*). A presente directiva não é aplicável a documentos abrangidos por direitos de propriedade industrial, tais como patentes, modelos e marcas registados. A presente directiva em nada afecta a existência ou a detenção de direitos de propriedade intelectual de organismos do sector público, nem restringe o exercício desses direitos para além dos limites estabelecidos na presente directiva. As obrigações decorrentes da presente directiva só devem ser aplicáveis na medida em que sejam compatíveis com as disposições dos acordos internacionais sobre protecção de direitos de propriedade intelectual, em especial a Convenção de Berna para a Protecção das Obras Literárias e Artísticas («Convenção de Berna») e o Acordo sobre os Aspectos dos Direitos de Propriedade Intelectual relacionados com o Comércio («Acordo TRIPS». No entanto, os organismos públicos devem exercer os seus direitos de autor de uma forma que facilite a reutilização.\n\n(23) Os instrumentos que contribuam para que os potenciais reutilizadores encontrem os documentos disponíveis para a reutilização e permitam as condições de reutilização podem facilitar consideravelmente a utilização transfronteiras dos documentos do sector público. Assim sendo, os Estados-Membros devem assegurar a existência de modalidades práticas que ajudem os reutilizadores na sua procura de documentos disponíveis para reutilização. Listas, das existências de preferência acessíveis em linha, dos documentos mais importantes (documentos que sejam reutilizados de forma extensiva ou que potencialmente o sejam) e portais ligados a listas descentralizadas são exemplos dessas modalidades práticas.\n\n(24) A presente directiva não prejudica a Directiva 2001/29/CE, do Parlamento Europeu e do Conselho, de 22 de Maio de 2001, relativa à harmonização de certos aspectos do direito de autor e dos direitos conexos na Sociedade da Informação ([^10^](http://publications.europa.eu/resource/cellar/fe6be64e-2c5f-4d05-a808-b21f960bbdda.0018.03/DOC_1#E0010)), nem a Directiva 96/9/CE do Parlamento Europeu e do Conselho, de 11 de Março de 1996, relativa à protecção jurídica das bases de dados ([^11^](http://publications.europa.eu/resource/cellar/fe6be64e-2c5f-4d05-a808-b21f960bbdda.0018.03/DOC_1#E0011)). Expõe as condições em que os organismos do sector público podem exercer os seus direitos de propriedade intelectual no mercado interno da informação ao permitirem a reutilização de documentos.\n\n(25) Atendendo a que os objectivos da acção proposta, isto é, facilitar a criação de produtos e serviços da informação à escala comunitária baseados nos documentos do sector público, melhorar a efectiva utilização transfronteiriça, por empresas privadas, dos documentos do sector público em produtos e serviços de valor acrescentado de informação e limitar as distorções da concorrência no mercado comunitário, não podem ser suficientemente realizados pelos Estados-Membros e podem, pois, devido ao âmbito e ao impacto intrinsecamente comunitários dessa acção, ser melhor alcançados ao nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aqueles objectivos. A presente directiva deverá alcançar uma harmonização mínima, evitando-se assim maiores disparidades entre as acções dos Estados-Membros no domínio da reutilização de documentos do sector público,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "d2913f9f4d08dd69": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1. A presente directiva estabelece um conjunto mínimo de regras aplicáveis à reutilização e aos meios práticos de facilitar a reutilização de documentos na posse de organismos do sector público dos Estados-Membros.\n\n2. A presente directiva não é aplicável a:\n\na) Documentos cujo fornecimento seja uma atividade fora do âmbito das funções de serviço público dos organismos públicos em causa, tal como definidas na lei ou noutras regras vinculativas do Estado-Membro, ou na ausência de tais regras, tal como definidas de acordo com a prática administrativa corrente no Estado-Membro em causa, desde que o âmbito das missões de serviço público seja transparente e passível de exame;\n\nb) Documentos cujos direitos de propriedade intelectual sejam detidos por terceiros;\n\nc) Documentos não acessíveis por força dos regimes de acesso dos Estados-Membros, nomeadamente por razões de:\n\n— proteção da segurança nacional (ou seja, segurança do Estado), defesa ou segurança pública,\n\n— confidencialidade estatística,\n\n— confidencialidade comercial (por exemplo, segredos de negócios, profissionais ou de empresa);\n\nc-A) Documentos cujo acesso é restrito por força dos regimes de acesso dos Estados-Membros, incluindo o caso em que cidadãos ou empresas têm que provar um interesse particular para obter acesso a documentos;\n\nc-B) Partes de documentos que contêm apenas logótipos, brasões e insígnias;\n\nc-C) Documentos não acessíveis ou de acesso restrito por força dos regimes de acesso por motivos de proteção de dados pessoais e partes de documentos acessíveis por força desses regimes que contêm dados pessoais cuja reutilização foi definida por lei como incompatível com a legislação relativa à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais;\n\nd) Documentos na posse de empresas de radiodifusão de serviço público e suas filiais e de outros organismos ou suas filiais com vista ao cumprimento das suas funções de radiodifusão de serviço público;\n\ne) Documentos na posse de estabelecimentos de ensino e investigação, incluindo organizações criadas com vista à transferência de resultados de investigação, escolas e universidades, com exceção das bibliotecas universitárias e\n\nf) Documentos na posse de instituições culturais, exceto bibliotecas, museus e arquivos.\n\n3. A presente diretiva baseia-se nos regimes de acesso dos Estados-Membros e é aplicável sem seu prejuízo.\n\n4. A presente directiva não modifica, nem de modo algum afecta o nível de protecção dos indivíduos relativamente ao processamento de dados pessoais nos termos das disposições de direito nacional e [**►M1**](http://publications.europa.eu/resource/celex/32013L0037) da União**◄**, nem altera, em particular, as obrigações e direitos estabelecidos na Directiva 95/46/CE.\n\n5. As obrigações decorrentes da presente directiva só devem ser aplicáveis na medida em que sejam compatíveis com as disposições dos acordos internacionais sobre protecção de direitos de propriedade intelectual, em especial a Convenção de Berna e o Acordo TRIPS."
+  },
+  "d18c106b8f6278a4": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, são aplicáveis as seguintes definições:\n\n1. «Organismo do sector público» significa o Estado, as autoridades regionais ou locais, os organismos de direito público e as associações formadas por uma ou mais autoridades ou por um ou mais organismos de direito público.\n\n2. «Organismo de direito público» significa qualquer organismo:\n\na) Criado para satisfazer especificamente necessidades de interesse geral, sem carácter industrial ou comercial;\n\nb) Dotado de personalidade jurídica; e\n\nc) Financiado maioritariamente pelo Estado, por autoridades regionais ou locais ou por outros organismos de direito público, ou cuja gestão esteja sujeita a um controlo por parte de tais organismos, ou cujos órgãos de administração, de direcção ou de fiscalização sejam compostos maioritariamente por membros designados pelo Estado, por autoridades regionais ou locais ou por outros organismos de direito público.\n\n3. «Documento» significa:\n\na) Qualquer conteúdo, seja qual for o seu suporte (documento escrito em suporte papel ou electrónico, registo sonoro, visual ou audiovisual);\n\nb) Qualquer parte desse conteúdo.\n\n4. «Reutilização» significa a utilização por pessoas singulares ou colectivas de documentos na posse de organismos do sector público, para fins comerciais ou não comerciais diferentes do fim inicial de serviço público para o qual os documentos foram produzidos. O intercâmbio de documentos entre organismos do sector público exclusivamente no desempenho das suas funções não constitui reutilização.\n\n5. «Dados pessoais» significa os dados definidos nos termos da alínea a) do artigo 2.º da Directiva 95/46/CE.\n\n6. «Formato legível por máquina» significa um formato de ficheiro estruturado de modo a ser facilmente possível, por meio de aplicações de *software*, identificar, reconhecer e extrair dados específicos, incluindo declarações de facto, e a sua estrutura interna.\n\n7. «Formato aberto» significa um formato de ficheiro independente da plataforma e disponibilizado ao público sem qualquer restrição que impede a reutilização de documentos.\n\n8. «Norma formal aberta» significa uma norma estabelecida em forma escrita, que pormenoriza especificações no que diz respeito aos requisitos para assegurar a interoperabilidade de *software*.\n\n9. «Universidade» significa qualquer organismo do setor público que ministra ensino superior pós-secundário conducente a graus académicos."
+  },
+  "9b0f92162fb096c6": {
+   "fragment_id": "Artigo 3.º — Princípio geral",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípio geral\n\n1. Sem prejuízo do disposto no n.º 2, os Estados-Membros devem assegurar que os documentos aos quais a presente diretiva é aplicável nos termos do artigo 1.º sejam reutilizáveis para fins comerciais ou não comerciais, de acordo com as condições previstas nos capítulos III e IV.\n\n2. Relativamente aos documentos sobre os quais bibliotecas, incluindo as bibliotecas universitárias, museus e arquivos sejam titulares de direitos de propriedade intelectual, os Estados-Membros devem assegurar que, caso seja permitida a sua reutilização, tais documentos sejam reutilizáveis para fins comerciais ou não comerciais, de acordo com as condições previstas nos capítulos III e IV."
+  },
+  "5a021316409d8389": {
+   "fragment_id": "Artigo 4.º — Requisitos para o tratamento dos pedidos de reutilização",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Requisitos para o tratamento dos pedidos de reutilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos para o tratamento dos pedidos de reutilização\n\n1. Os organismos do sector público tratam os pedidos de reutilização e põem o documento à disposição do requerente ou, caso seja necessária uma licença, apresentam ao requerente a oferta de licença definitiva num prazo razoável, compatível com os prazos previstos para o tratamento de pedidos de acesso aos documentos, sempre que possível e adequado através de meios electrónicos.\n\n2. Caso não tenham sido estabelecidos prazos ou outras regras que regulem a entrega atempada dos documentos, os organismos do sector público tratam o pedido e porão os documentos à disposição do requerente ou, caso seja necessária uma licença, apresentam ao requerente a oferta de licença definitiva num prazo não superior a 20 dias úteis após a recepção do pedido. Este prazo pode ser prorrogado por mais 20 dias úteis para pedidos extensos ou complexos. Nesse caso, o requerente deve ser notificado, no prazo de três semanas após o pedido inicial, de que este requer um tratamento mais demorado.\n\n3. Em caso de indeferimento, os organismos do setor público devem comunicar ao requerente os motivos da recusa, com base nas disposições pertinentes do regime de acesso em vigor nesse Estado-Membro ou nas disposições nacionais aprovadas em aplicação da presente diretiva, em especial do artigo 1.º, n.º 2, alíneas a) a c-C), ou do artigo 3.º. Em caso de indeferimento baseado no artigo 1.º, n.º 2, alínea b), o organismo do setor público deve incluir uma referência à pessoa singular ou coletiva titular do direito, nos casos em que esta seja conhecida, ou, em alternativa, à entidade licenciadora que cedeu o material em causa ao organismo do setor público. As bibliotecas, incluindo as bibliotecas universitárias, os museus e os arquivos não são obrigados a incluir essa referência.\n\n4. Qualquer decisão sobre reutilização deve incluir uma referência às vias de recurso, no caso de o requerente desejar recorrer da decisão. As vias de recurso incluem a possibilidade de exame por um organismo imparcial de recurso com a competência técnica adequada, como a autoridade nacional da concorrência, a autoridade nacional de acesso a documentos ou uma autoridade judicial nacional, cujas decisões sejam vinculativas para o organismo do setor público em questão.\n\n5. Os organismos do sector público abrangidos pelas alíneas d), e) e f) do n.º 2 do artigo 1.º não têm de satisfazer os requisitos constantes do presente artigo."
+  },
+  "af6192276a9d7efe": {
+   "fragment_id": "Artigo 5.º — Formatos disponíveis",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Formatos disponíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Formatos disponíveis\n\n1. Os organismos do setor público devem disponibilizar os seus documentos em qualquer formato ou linguagem em que já existam e, se possível e adequado, num formato aberto e legível por máquina e com os respetivos metadados. Tanto o formato como os metadados deverão, na medida do possível, respeitar normas formais abertas.\n\n2. O n.º 1 não implica, para os organismos do setor público, o dever de criar ou adaptar documentos ou de fornecer extratos a fim de cumprir as suas disposições, caso isso envolva um esforço desproporcionado, que ultrapasse a simples manipulação.\n\n3. Com base na presente diretiva, não se pode exigir aos organismos do setor público que mantenham a produção e o armazenamento de determinado tipo de documentos com vista à sua reutilização por organismos do setor público ou privado."
+  },
+  "828d3268c225323b": {
+   "fragment_id": "Artigo 6.º — Princípios aplicáveis aos emolumentos",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Princípios aplicáveis aos emolumentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Princípios aplicáveis aos emolumentos\n\n1. Caso sejam cobrados emolumentos pela reutilização de documentos, esses emolumentos devem limitar-se aos custos marginais incorridos na sua reprodução, disponibilização e divulgação.\n\n2. O n.º 1 não é aplicável a:\n\na) Organismos do setor público que são obrigados a gerar receitas para cobrir uma parte substancial dos seus custos relacionados com o desempenho das suas missões de serviço público;\n\nb) A título excecional, documentos para os quais o organismo do setor público é obrigado a gerar receitas suficientes para cobrir uma parte substancial dos custos relacionados com a sua recolha, produção, reprodução e divulgação. Essas obrigações devem ser definidas por lei ou outras regras vinculativas no Estado-Membro. Na ausência de tais regras, as obrigações devem ser definidas de acordo com a prática administrativa corrente no Estado-Membro;\n\nc) Bibliotecas, incluindo bibliotecas universitárias, museus e arquivos.\n\n3. Nos casos a que se refere o n.º 2, alíneas a) e b), os organismos do setor público em causa devem calcular os emolumentos totais segundo critérios objetivos, transparentes e verificáveis a estabelecer pelos Estados-Membros. A receita total desses organismos proveniente do fornecimento e da autorização de reutilização de documentos durante o período contabilístico adequado não poderá exceder o custo da sua recolha, produção, reprodução e divulgação, acrescido de uma rentabilidade razoável para o investimento. Os emolumentos devem ser calculados de harmonia com os princípios contabilísticos aplicáveis aos organismos do setor público interessados.\n\n4. No caso de serem cobrados emolumentos por organismos do setor público a que se refere o n.º 2, alínea c), a receita total proveniente do fornecimento e da autorização de reutilização de documentos durante o período contabilístico adequado não pode exceder o custo da sua recolha, produção, reprodução, divulgação, preservação e cessão de direitos, acrescido de uma rentabilidade razoável para o investimento. Os emolumentos devem ser calculados de harmonia com os princípios contabilísticos aplicáveis aos organismos do setor público interessados."
+  },
+  "cf9a86c89ccbbc7a": {
+   "fragment_id": "Artigo 7.º — Transparência",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Transparência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Transparência\n\n1. No caso de emolumentos normais aplicáveis à reutilização de documentos detidos por organismos públicos, as eventuais condições e o montante efetivo desses emolumentos, incluindo a base de cálculo dos referidos emolumentos, são preestabelecidos e publicados, se possível e adequado, por via eletrónica.\n\n2. No caso de emolumentos aplicáveis à reutilização que não os referidos no n.º 1, o organismo do setor público em questão deve indicar previamente os fatores que são tidos em conta no cálculo desses emolumentos. A pedido, o organismo do setor público em causa deve também indicar a forma como os referidos emolumentos foram calculados no que diz respeito ao pedido específico de reutilização.\n\n3. As obrigações a que se refere o artigo 6.º, n.º 2, alínea b), devem ser preestabelecidas. Se possível e adequado, são publicadas por via eletrónica.\n\n4. Os organismos do setor público asseguram que os requerentes da reutilização de documentos sejam informados das vias de recurso de que dispõem para poderem contestar as decisões ou práticas que os afetam."
+  },
+  "3ec84df127846530": {
+   "fragment_id": "Artigo 8.º — Licenças",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Licenças\n\n1. Os organismos do setor público podem autorizar a reutilização sem condições ou podem impor condições, se adequado através de uma licença. Essas condições não devem restringir desnecessariamente as possibilidades de reutilização e não devem ser utilizadas para limitar a concorrência.\n\n2. Nos Estados-Membros em que forem utilizadas licenças, deve ser garantido que as licenças-tipo para a reutilização de documentos do sector público, que podem ser adaptados para satisfazer pedidos de licença específicos, estejam disponíveis em formato digital e possam ser processados electronicamente. Os Estados-Membros incentivam todos os organismos do sector público a fazer uso das licenças-tipo."
+  },
+  "4d5cce602447df76": {
+   "fragment_id": "Artigo 9.º — Disposições práticas",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Disposições práticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições práticas\n\nOs Estados-Membros devem estabelecer modalidades práticas que facilitem a pesquisa de documentos disponíveis para reutilização, tais como inventários dos documentos mais importantes juntamente com os metadados conexos acessíveis, se possível e adequado, em linha e em formato legível por máquina, assim como portais com ligação aos inventários. Se possível, os Estados-Membros devem facilitar a pesquisa multilingue de documentos."
+  },
+  "cde2768439517d24": {
+   "fragment_id": "Artigo 11.º — Proibição de acordos exclusivos",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Proibição de acordos exclusivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Proibição de acordos exclusivos\n\n1. A reutilização de documentos está aberta a todos os potenciais intervenientes no mercado, ainda que um ou mais explorem já produtos de valor acrescentado baseados nesses documentos. Os contratos ou outros acordos celebrados entre organismos do sector público que possuam esses documentos e terceiros não criam direitos exclusivos.\n\n2. No entanto, nos casos em que seja necessário um direito exclusivo para a prestação de um serviço de interesse público, a validade dos motivos que tenham conduzido à criação do direito exclusivo deve ser objecto de exame periódico, devendo, em qualquer caso, ser revista de três em três anos. Os acordos exclusivos estabelecidos após a entrada em vigor da presente directiva devem ser transparentes e publicitados.\n\nO presente número não se aplica à digitalização de recursos culturais.\n\n2-A. Não obstante o disposto no n.º 1, no caso de um direito exclusivo dizer respeito à digitalização de recursos culturais, o período de exclusividade não deve, em geral, exceder 10 anos. No caso de esse período exceder 10 anos, a sua duração deve ser objeto de exame durante o 11.º ano e, posteriormente, se aplicável, todos os sete anos.\n\nOs acordos que conferem direitos exclusivos a que se refere o primeiro parágrafo devem ser transparentes e publicitados.\n\nCaso exista um direito exclusivo a que se refere o primeiro parágrafo, deve ser fornecida ao organismo do setor público em causa, como parte integrante desses acordos, a título gratuito, uma cópia dos recursos culturais digitalizados. Essa cópia deve estar disponível para reutilização no termo do período de exclusividade.\n\n3. Os acordos exclusivos em vigor em 1 de julho de 2005, não abrangidos pelas derrogações previstas no n.º 2, expiram no termo do contrato ou, em qualquer caso, pelo menos em 31 de dezembro de 2008.\n\n4. Sem prejuízo do disposto no n.º 3, os acordos exclusivos existentes em 17 de julho de 2013, não abrangidos pelas derrogações previstas nos n.^os^ 2 e 2-A, expiram no termo do contrato ou, em qualquer caso, pelo menos em 18 de julho de 2043."
+  },
+  "b7aa411a98bbe4a3": {
+   "fragment_id": "Artigo 13.º — Exame",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Exame",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Exame\n\n1. A Comissão reavalia a aplicação da presente diretiva antes de 18 de julho de 2018 e comunica ao Parlamento Europeu e ao Conselho os resultados dessa avaliação, juntamente com eventuais propostas de alteração da presente diretiva.\n\n2. Os Estados-Membros apresentam um relatório de três em três anos à Comissão sobre a disponibilidade de informações do setor público para reutilização e as condições em que são disponibilizadas e as práticas no que diz respeito a vias de recurso. Com base neste relatório, que deve ser tornado público, os Estados-Membros devem fazer um exame da execução do artigo 6.º, em particular no que diz respeito à cobrança de emolumentos superiores aos custos marginais.\n\n3. A avaliação a que se refere o n.º 1 abrange, em especial, o âmbito e o impacto da presente diretiva, incluindo o nível do aumento da reutilização de documentos do setor público, os efeitos dos princípios aplicáveis aos emolumentos e a reutilização de textos oficiais de caráter legislativo e administrativo, a interação entre as regras de proteção de dados e as possibilidades de reutilização, bem como outras possibilidades de melhorar o funcionamento do mercado interno e o desenvolvimento da indústria europeia de conteúdos."
+  },
+  "943aab5269654b80": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/fe6be64e-2c5f-4d05-a808-b21f960bbdda.0018.03/DOC_1#src.E0001)) JO C 227 E de 24.9.2002, p. 382.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/fe6be64e-2c5f-4d05-a808-b21f960bbdda.0018.03/DOC_1#src.E0002)) JO C 85 de 8.4.2003, p. 25.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/fe6be64e-2c5f-4d05-a808-b21f960bbdda.0018.03/DOC_1#src.E0003)) JO C 73 de 26.3.2003, p. 38.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/fe6be64e-2c5f-4d05-a808-b21f960bbdda.0018.03/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 12 de Fevereiro de 2003 (ainda não publicado no Jornal Oficial, posição comum do Conselho de 26 de Maio de 2003 (JO C 159 E de 8.7.2003, p. 1) e posição do Parlamento Europeu de 25 de Setembro de 2003 (ainda não publicada no Jornal Oficial). Decisão do Conselho de 27 de Outubro de 2003.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/fe6be64e-2c5f-4d05-a808-b21f960bbdda.0018.03/DOC_1#src.E0005)) JO L 209 de 24.7.1992, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2001/78/CE da Comissão (JO L 285 de 29.10.2001, p. 1).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/fe6be64e-2c5f-4d05-a808-b21f960bbdda.0018.03/DOC_1#src.E0006)) JO L 199 de 9.8.1993, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2001/78/CE da Comissão.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/fe6be64e-2c5f-4d05-a808-b21f960bbdda.0018.03/DOC_1#src.E0007)) JO L 199 de 9.8.1993, p. 54. Directiva com a última redacção que lhe foi dada pela Directiva 2001/78/CE da Comissão.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/fe6be64e-2c5f-4d05-a808-b21f960bbdda.0018.03/DOC_1#src.E0008)) JO L 101 de 1.4.1998, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/fe6be64e-2c5f-4d05-a808-b21f960bbdda.0018.03/DOC_1#src.E0009)) JO L 281 de 23.11.1995, p. 31.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/fe6be64e-2c5f-4d05-a808-b21f960bbdda.0018.03/DOC_1#src.E0010)) JO L 167 de 22.6.2001, p. 10.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/fe6be64e-2c5f-4d05-a808-b21f960bbdda.0018.03/DOC_1#src.E0011)) JO L 77 de 27.3.1996, p. 20."
+  },
+  "5a20e7e78c2722b4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02003L0098 — PT — 17.07.2021 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32003L0098) [DIRECTIVA 2003/98/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32003L0098) [de 17 de Novembro de 2003](http://publications.europa.eu/resource/celex/32003L0098) [relativa à reutilização de informações do sector público](http://publications.europa.eu/resource/celex/32003L0098) (JO L 345, 31.12.2003, p.90)\n\n**Revogada por:**\n\n- [Diretiva (UE) 2019/1024 do Parlamento Europeu e do Conselho de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019L1024) — L 172 — 56 — 26.6.2019"
+  }
+ }
+}

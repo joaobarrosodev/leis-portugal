@@ -1,0 +1,103 @@
+---
+schema_version: '1.0'
+id: pt:dre:957167:por
+title: Portaria n.º 432/2005 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Gabinete do Ministro
+proposing_entity: null
+official_number: 432/2005 (2.ª série)
+official_date: null
+publication_date: '2005-04-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 67/2005, Série II de 2005-04-06
+  number: '67'
+  series: II
+  supplement: null
+  pages: 5455 - 5455
+  pdf_url: https://files.diariodarepublica.pt/2s/2005/04/067000000/0545505455.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '957167'
+  dre_path: /dr/detalhe/portaria/432-2005-957167
+  internal: pt:dre:957167:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/432-2005-957167
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/432-2005-957167
+  consolidated_url: null
+  retrieved_at: '2026-10-23T16:53:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: cc27ef80735e246f50e129db870f4f767233d08497b8500df3e55ee88025ac53
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:53:00Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:404743:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T16:53:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 432/2005 (2.ª série)
+
+Portaria n.º 432/2005 (2.ª série). - Louvo o engenheiro Bernardo Xavier Alabaça pela forma notável, muito competente e dedicada, permanente disponibilidade e empenho com que vem exercendo as importantes funções de director-geral de Infra-Estruturas para que foi nomeado em Outubro de 2002.
+
+As suas qualidades pessoais associadas à sua inteligência, coragem moral e espírito prático, aliados a uma permanente busca da racionalidade dos problemas e questões, tem sido a base da sua preocupação de bem servir, cuja capacidade de trabalho, incondicional disponibilidade e apurada noção do essencial, tem sido determinante no desempenho demonstrado e na dinâmica que tem vindo a imprimir à DGIE.
+
+A experiência profissional do engenheiro Bernardo Alabaça que demonstrou na exigente prestação do serviço público, desenvolveu na Direcção-Geral o planeamento e execução de infra-estruturas ao serviço da OTAN em território nacional, assegurando o respectivo financiamento por parte da mesma organização, a consolidação de uma política ambiental nas Forças Armadas e ainda o estabelecimento e prossecução de princípios orientadores de uma eficaz e eficiente gestão do património imobiliário afecto à defesa nacional.
+
+Constitui um exemplo a perseverança, dedicação e minúcia que demonstrou na concretização da contratualização do fornecimento do equipamento e sistemas associados a instalar na futura estação radar da Madeira, o que corresponde a um passo decisivo no cumprimento de um desígnio nacional - abranger o arquipélago da Madeira no Sistema de Defesa Aérea de Portugal.
+
+É de realçar o manifesto empenho que imprimiu na integração da Direcção-Geral em iniciativas estruturantes e transversais ao Ministério da Defesa Nacional, de entre as quais se destaca a implementação do sistema integrado de gestão ou a sistematização do procedimento de aquisições através da criação da Central de Compras da Defesa Nacional.
+
+Assim:
+
+Manda o Governo, pelo Ministro de Estado, da Defesa Nacional e dos Assuntos do Mar, nos termos do n.º 3 do artigo 34.º, do artigo 26.º e da alínea a) do n.º 1 do artigo 27.º do Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas, aprovado pelo [Decreto-Lei n.º 316/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2002-404743), de 27 de Dezembro, condecorar com a medalha da defesa nacional de 1.ª classe o engenheiro Bernardo Xavier Alabaça.
+
+8 de Março de 2005. - O Ministro de Estado, da Defesa Nacional e dos Assuntos do Mar, Paulo Sacadura Cabral Portas.

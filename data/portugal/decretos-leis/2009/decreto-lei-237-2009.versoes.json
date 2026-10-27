@@ -1,0 +1,596 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:489712:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-34513775",
+ "dre_path": "/dr/detalhe/decreto-lei/237-2009-489712",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-09-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "51926575",
+    "51926675",
+    "51926775",
+    "51926875",
+    "51926975",
+    "51927075",
+    "51927175",
+    "51927275",
+    "51927375",
+    "51927475",
+    "51927575",
+    "51927675",
+    "51927775",
+    "51927875",
+    "51927975",
+    "51928075",
+    "51928175",
+    "51928275",
+    "51928375",
+    "51928475",
+    "51928575",
+    "51928675",
+    "51928775",
+    "51928875",
+    "51928975",
+    "51929075",
+    "51929175",
+    "51929275",
+    "51929375",
+    "51929475",
+    "51929575",
+    "51929675",
+    "51929775",
+    "51929875",
+    "51929975",
+    "51930075",
+    "51930175",
+    "51930275",
+    "51930375",
+    "51930475",
+    "51930575",
+    "51930675",
+    "51930775",
+    "51930875",
+    "51930975",
+    "51931075",
+    "51931175",
+    "51931275",
+    "51931375",
+    "51931475",
+    "51931575",
+    "51931675",
+    "51931775"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 33.º",
+    "Altera Artigo 35.º"
+   ],
+   "fragments": [
+    "51926575",
+    "51926675",
+    "51926775",
+    "51926875",
+    "51926975",
+    "51927075",
+    "51927175",
+    "51927275",
+    "51927375",
+    "51927475",
+    "51927575",
+    "51927675",
+    "51927775",
+    "51927875",
+    "51927975",
+    "51928075",
+    "51928175",
+    "51928275",
+    "51928375",
+    "51928475",
+    "51928575",
+    "51928675",
+    "51928775",
+    "51928875",
+    "51928975",
+    "51929075",
+    "51929175",
+    "51929275",
+    "51929375",
+    "51929475",
+    "51929575",
+    "51929675",
+    "51929775",
+    "51929875",
+    "51929975",
+    "51930075",
+    "51930175",
+    "51930275",
+    "51930375",
+    "156694777",
+    "51930575",
+    "156694778",
+    "51930775",
+    "51930875",
+    "51930975",
+    "51931075",
+    "51931175",
+    "51931275",
+    "51931375",
+    "51931475",
+    "51931575",
+    "51931675",
+    "51931775",
+    "51932575"
+   ]
+  }
+ ],
+ "fragments": {
+  "51926575": {
+   "fragment_id": "35133575",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 237/2009\n\nde 15 de Setembro\n\nO Decreto-Lei n.º 232/99, de 24 de Junho, estabelece as normas relativas ao fabrico, autorização de introdução no mercado, armazenamento, comercialização e utilização de produtos de uso veterinário.\n\nOs avanços técnicos e científicos entretanto verificados no domínio daqueles produtos, o seu impacte no que diz respeito aos resíduos nos géneros alimentícios de origem animal e a necessidade de harmonização, com as normas comunitárias em matéria de procedimentos para a introdução no mercado, de alguns produtos de uso veterinário, impõem a reformulação do enquadramento legislativo relativo a esta matéria. Por essa razão, o Decreto-Lei n.º 148/2008, de 29 de Julho, que aprova as normas respeitantes ao medicamento veterinário, criou um procedimento de reclassificação e de registo para medicamentos veterinários destinados a espécies menores de companhia, tendo revogado, na parte aplicável, o Decreto-Lei n.º 232/99, de 24 de Junho. Da mesma forma, o Decreto-Lei n.º 121/2002, de 3 de Maio, revogou o Decreto-Lei n.º 232/99, de 24 de Junho, na parte aplicável aos biocidas de uso veterinário.\n\nÉ, contudo, imprescindível manter, para os restantes produtos de uso veterinário, um processo de autorização de venda que garanta a avaliação daqueles produtos, de modo a assegurar os padrões actualmente exigidos, em termos de eficácia, qualidade e segurança.\n\nDeste modo, visa-se igualmente garantir que os produtos de uso veterinário autorizados são apenas fabricados por titulares de uma autorização, cuja actividade é regularmente inspeccionada.\n\nPor outro lado, tendo em conta que os produtos de uso veterinário não são sujeitos a prescrição médico-veterinária, é essencial que estes contenham na respectiva rotulagem e ou embalagem toda a informação adequada em matéria de segurança, qualidade e eficácia.\n\nPor fim, na perspectiva de defesa da saúde pública, é igualmente necessário assegurar o controlo dos resíduos de produtos de uso veterinário nos alimentos de origem animal. Deste modo, o presente decreto-lei estabelece as normas a que devem obedecer o fabrico, a autorização de venda, a importação, a exportação, a comercialização e a publicidade de produtos de uso veterinário, revogando o Decreto-Lei n.º 232/99, de 24 de Junho.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nFoi ouvida a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "51926675": {
+   "fragment_id": "36192575",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "51926775": {
+   "fragment_id": "37696075",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei estabelece as normas a que devem obedecer o fabrico, a autorização de venda, a importação, a exportação, a comercialização e a publicidade de produtos de uso veterinário."
+  },
+  "51926875": {
+   "fragment_id": "37696175",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente decreto-lei aplica-se aos produtos de uso veterinário que consistam em:\n\na) Coadjuvantes de acções de tratamento ou de profilaxia nos animais;\n\nb) Reguladores de condições adequadas no ambiente que rodeia os animais, designadamente os de acção desodorizante;\n\nc) Produtos destinados à higiene, incluindo a higiene oral, ocular, otológica e genital, embelezamento e protecção dos animais, designadamente da pele, pêlo e fâneros e, bem assim, das suas instalações;\n\nd) Kits de diagnóstico rápido de doenças dos animais;\n\ne) Condicionadores de comportamento fisiológico e reprodutivo dos animais.\n\n2 - São excluídos do âmbito de aplicação do presente decreto-lei:\n\na) Os produtos destinados à alimentação animal, designadamente os alimentos compostos e os alimentos para animais com objectivos nutricionais específicos, também designados como dietéticos;\n\nb) Os produtos de efeito biocida para uso veterinário, designadamente:\n\ni) Desinfectantes para a pele intacta dos animais, incluindo a dos tetos e do úbere e para as instalações, transportes de animais e equipamentos, designadamente pedilúvios e rodilúvios;\n\nii) Insecticidas para instalações e transportes dos animais ou para o ambiente que os rodeia;\n\nc) Os medicamentos veterinários, incluindo os de acção insecticida nos animais, contra endo e ectoparasitas;\n\nd) As prestações de serviços ocasionais."
+  },
+  "51926975": {
+   "fragment_id": "37696275",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente decreto-lei, entende-se por:\n\na) «Autoridade competente» a Direcção-Geral de Veterinária (DGV);\n\nb) «Carta de acesso» o documento, assinado pelo proprietário, ou proprietários, contendo os dados pertinentes e protegidos ao abrigo do disposto no presente decreto-lei, que declare que esses dados podem ser utilizados pela autoridade competente, para efeitos de concessão de autorização de venda de um produto de uso veterinário, nos termos do presente decreto-lei;\n\nc) «Introdução no mercado» a detenção, ou a exposição destinada à venda, a colocação à venda, a venda, a entrega, ou qualquer modo de introdução dos produtos de uso veterinário no mercado;\n\nd) «Distribuição por grosso de produtos de uso veterinário» a actividade que compreende o abastecimento, posse, armazenagem ou fornecimento de produtos de uso veterinário destinados à revenda ou utilização em serviços médico-veterinários, excluindo o fornecimento ao público;\n\ne) «Fabrico» a produção total ou parcial, as operações de divisão, de acondicionamento, de apresentação para venda ou de controlo de matéria-prima ou do produto final;\n\nf) «Produto de uso veterinário (PUV)» a substância ou mistura de substâncias, sem indicações terapêuticas ou profilácticas, destinada:\n\ni) Aos animais, para promoção do bem-estar e estado higio-sanitário, coadjuvando acções de tratamento, de profilaxia ou de maneio zootécnico, designadamente o da reprodução;\n\nii) Ao diagnóstico médico-veterinário;\n\niii) Ao ambiente que rodeia os animais, designadamente às suas instalações;\n\ng) «Publicidade» qualquer forma de comunicação, informação, de prospecção ou de incentivo que directa ou indirectamente promova o PUV para utilização, dispensa, venda, aquisição ou consumo;\n\nh) «Kit de diagnóstico rápido» o conjunto formado por material de diagnóstico usado para teste rápido de doenças nos animais;\n\ni) «Resíduos de produtos de uso veterinário» todas as substâncias toxicologicamente activas que permanecem nos géneros alimentícios provenientes de animais de exploração em que tenham sido administrados os PUV que os originam;\n\nj) «Responsável pela introdução no mercado (RIM)» a empresa titular da autorização de venda;\n\nl) «Venda a retalho» a actividade que consiste no fornecimento ao público de produtos de uso veterinário;\n\nm) «Estabelecimento» o acesso e o exercício efectivo, pelo prestador de uma actividade económica não assalariada, na acepção do artigo 43.º do Tratado da Comunidade Europeia, assim como a constituição e gestão de empresas e, especialmente, de sociedades comerciais, por um período indeterminado e através de uma infra-estrutura estável a partir da qual a prestação de serviços é efectivamente assegurada."
+  },
+  "51927075": {
+   "fragment_id": "36192675",
+   "type": 1,
+   "heading": "Capítulo II — Fabrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Fabrico"
+  },
+  "51927175": {
+   "fragment_id": "37696375",
+   "type": 11,
+   "heading": "Artigo 4.º — Fabrico de produtos de uso veterinário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Fabrico de produtos de uso veterinário\n\n1 - O fabrico de PUV ou a realização de qualquer dos processos conducentes ao fabrico são objecto de autorização da autoridade competente.\n\n2 - Para efeitos do disposto no número anterior, devem ser remetidos à autoridade competente, em modelo a disponibilizar pela autoridade competente, os seguintes elementos:\n\na) O nome ou denominação social e demais elementos identificativos;\n\nb) A indicação da sede social ou domicílio;\n\nc) O número de identificação fiscal, excepto se o requerente tiver a sua sede, domicílio ou estabelecimento principal noutro Estado membro;\n\nd) Especificação das formulações que serão fabricadas;\n\ne) Indicação do local, estabelecimento ou laboratório de fabrico ou armazenagem, do equipamento técnico bem como e ou do seu controlo para o correcto fabrico e conservação;\n\nf) Descrição da redução da margem de erro através da correcta disposição dos elementos de fabrico e da linha de fabrico e da adequada utilização de locais e equipamento, facilitando a limpeza e a manutenção eficaz, com o objectivo de evitar a contaminação cruzada ou qualquer efeito sobre a qualidade;\n\ng) Indicação de um director técnico, de um responsável pelo fabrico e de um responsável pelo controlo de qualidade, ficando estes dois últimos técnicos na dependência do director técnico.\n\n3 - Os elementos referidos no número anterior devem ser acompanhados de:\n\na) Planta e memória descritiva das instalações;\n\nb) Identificação do médico veterinário que assegura a direcção técnica e o documento comprovativo das respectivas habilitações académicas e profissionais;\n\nc) Termo de responsabilidade e aceitação do director técnico, em modelo a disponibilizar pela autoridade competente, acompanhado do respectivo currículo profissional;\n\nd) Documento comprovativo do pagamento da taxa.\n\n4 - No caso de estabelecimentos legalmente enquadrados como pequenas ou médias empresas, o director técnico pode assumir a função de controlo de qualidade, mantendo-se a obrigatoriedade de existência de um outro técnico responsável pelo fabrico."
+  },
+  "51927275": {
+   "fragment_id": "37696475",
+   "type": 11,
+   "heading": "Artigo 5.º — Autorização de fabrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Autorização de fabrico\n\n1 - O exercício da actividade de fabrico de PUV, da exclusiva responsabilidade do seu fabricante, é autorizado desde que este disponha de instalações e equipamentos adequados e suficientes, com capacidade para garantir a qualidade dos mesmos e as boas práticas de fabrico de PUV, as quais constam de portaria do membro do Governo responsável pela área da agricultura.\n\n2 - A autorização prevista no número anterior é concedida após avaliação dos elementos a que se refere o artigo anterior, a realizar no prazo de 15 dias a partir da data de recepção do pedido.\n\n3 - O prazo a que se refere o número anterior suspende-se sempre que a autoridade competente constate existirem deficiências na instrução do processo que não permitam a validação ou a avaliação do pedido, serem necessárias informações adicionais ou a correcção de deficiências, e solicita ao requerente que proceda à eliminação ou correcção das mesmas no prazo máximo de 120 dias, findo o qual o processo é arquivado, caso aquelas se mantenham.\n\n4 - Todas as alterações à autorização de fabricante devem ser comunicadas à autoridade competente, no prazo máximo de 10 dias após a sua ocorrência."
+  },
+  "51927375": {
+   "fragment_id": "37696575",
+   "type": 11,
+   "heading": "Artigo 6.º — Obrigações do responsável pelo fabrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigações do responsável pelo fabrico\n\n1 - O titular da autorização de fabrico de PUV encontra-se sujeito ao cumprimento das seguintes obrigações:\n\na) Fabricar apenas PUV autorizados ao abrigo do presente decreto-lei;\n\nb) Garantir a qualidade, a segurança e eficácia dos produtos fabricados e execução dos controlos precedentes;\n\nc) Comunicar qualquer alteração, suspensão ou encerramento da actividade;\n\nd) Colaborar com as autoridades sempre que tal seja solicitado, nomeadamente no acesso aos locais e arquivos para efeitos de inspecção;\n\ne) Manter, durante cinco anos, registos detalhados de cada lote de todos os PUV vendidos ou dispensados, designadamente a data da transacção, o nome do PUV, a quantidade, o nome e o endereço do destinatário e o número de lote.\n\n2 - Os fabricantes de PUV podem encarregar terceiros da realização de determinadas fases do fabrico e ou determinados controlos previstos no presente decreto-lei, desde que cumpram os requisitos seguintes:\n\na) A entidade contratada disponha de autorização de fabrico;\n\nb) Informe a autoridade competente que a realização de determinadas fases do fabrico e ou determinados controlos serão efectuados por terceiros."
+  },
+  "51927475": {
+   "fragment_id": "36192775",
+   "type": 1,
+   "heading": "Capítulo III — Comercialização, importação e exportação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Comercialização, importação e exportação"
+  },
+  "51927575": {
+   "fragment_id": "37696675",
+   "type": 11,
+   "heading": "Artigo 7.º — Distribuição por grosso de produtos de uso veterinário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Distribuição por grosso de produtos de uso veterinário\n\n1 - O exercício da actividade de distribuição por grosso depende de notificação prévia à autoridade competente e deve garantir a correcta armazenagem dos PUV de modo devidamente compartimentado de acordo com a sua natureza e especificações, nos termos da autorização de venda do produto em causa, incluindo as respectivas condições de conservação, bem como a existência de um sistema apropriado de registos e de recolha de PUV.\n\n2 - Para efeitos do número anterior, devem ser remetidos à autoridade competente:\n\na) A denominação social ou nome da entidade em causa e demais elementos identificativos;\n\nb) A indicação da sede social ou domicílio;\n\nc) O número de identificação fiscal, excepto se o requerente tiver a sua sede, domicílio ou estabelecimento principal noutro Estado membro;\n\nd) A identificação do médico veterinário que assegura a direcção técnica e o documento comprovativo das respectivas habilitações académicas e profissionais;\n\ne) Localização do estabelecimento.\n\n3 - Os elementos referidos no número anterior devem ser acompanhados de:\n\na) Planta de piso e memória descritiva das instalações;\n\nb) Termo de responsabilidade, em modelo a disponibilizar pela autoridade competente, assinado pelo director técnico acompanhado pelo respectivo currículo profissional;\n\nc) Documento comprovativo do pagamento da taxa.\n\n4 - As pessoas singulares e colectivas estabelecidas noutro Estado membro da União Europeia, e que aí se encontrem legalmente autorizadas, que venham a Portugal prestar serviços ocasionais estão dispensadas da notificação prevista no presente artigo, a qual é exigida apenas ao estabelecimento de empresas, desde que os PUV cumpram o disposto no artigo 22.º\n\n5 - Ficam ainda dispensados da notificação a que se refere o n.º 1 os titulares de uma autorização de:\n\na) Fabrico, desde que apenas distribuam os PUV por si fabricados;\n\nb) Exercício da actividade de distribuição por grosso de medicamentos veterinários."
+  },
+  "51927675": {
+   "fragment_id": "37696775",
+   "type": 11,
+   "heading": "Artigo 8.º — Obrigações inerentes à actividade de distribuição por grosso de produtos de uso veterinário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Obrigações inerentes à actividade de distribuição por grosso de produtos de uso veterinário\n\nA entidade à qual seja autorizada a distribuição por grosso de PUV fica obrigada a:\n\na) Adquirir PUV apenas às entidades legalmente autorizadas, nos termos do presente decreto-lei;\n\nb) Dispensar PUV apenas em embalagens intactas e não violadas que beneficiem de uma autorização de venda;\n\nc) Dispensar PUV apenas a outros distribuidores por grosso, às entidades que procedam à venda a retalho de PUV e ou medicamentos veterinários, às farmácias, aos médicos veterinários e aos centros de atendimento médico-veterinários, ou a outras entidades onde se pratique o ensino, a investigação ou qualquer outra actividade relacionada com a medicina veterinária, bem como a explorações pecuárias e a organizações de produtores pecuários (OPP) que possuam um médico veterinário como responsável;\n\nd) Não dispensar PUV cuja retirada do mercado tenha sido ordenada pela autoridade competente ou decidida pelos titulares de uma autorização;\n\ne) Manter registos durante cinco anos de todas as transacções de PUV;\n\nf) Manter os PUV armazenados de acordo com as condições estabelecidas na respectiva rotulagem;\n\ng) Informar previamente a DGV de qualquer alteração que pretenda efectuar no que se refere às informações referidas nos n.os 2 e 3 do artigo anterior."
+  },
+  "51927775": {
+   "fragment_id": "37696875",
+   "type": 11,
+   "heading": "Artigo 9.º — Obrigações inerentes à actividade de venda a retalho de produtos de uso veterinário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Obrigações inerentes à actividade de venda a retalho de produtos de uso veterinário\n\n1 - A entidade que se dedica à actividade de venda a retalho de PUV fica obrigada a:\n\na) Adquirir PUV apenas às entidades legalmente autorizadas nos termos do presente decreto-lei;\n\nb) Dispensar PUV apenas em embalagens intactas e não violadas que beneficiem de uma autorização de venda;\n\nc) Não dispensar os PUV cuja retirada do mercado tenha sido ordenada pela autoridade competente ou decidida pelos titulares de uma autorização;\n\nd) Manter os PUV armazenados de acordo com as condições estabelecidas na respectiva rotulagem;\n\ne) Nos locais de venda, os PUV cuja aplicação possa carecer de um acompanhamento técnico não podem estar acessíveis ao público e a sua entrega é efectuada exclusivamente por pessoal afecto à actividade.\n\n2 - São excluídos da venda a retalho os PUV a que se refere a alínea d) do n.º 1 do artigo 2.º os quais se destinam a ser adquiridos, exclusivamente, por médicos veterinários, por centros de atendimento médico-veterinários, por estabelecimentos de ensino de medicina veterinária ou outros onde se pratiquem actos médico-veterinários, designadamente os de diagnóstico das doenças dos animais."
+  },
+  "51927875": {
+   "fragment_id": "37696975",
+   "type": 11,
+   "heading": "Artigo 10.º — Importação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Importação\n\n1 - A importação de PUV depende de autorização, a conceder pela autoridade competente, sendo aplicável à mesma o disposto no artigo anterior, com as necessárias adaptações.\n\n2 - Só podem ser importados PUV que:\n\na) Possuam autorização de venda ao abrigo do artigo 12.º;\n\nb) Se destinem a ensaios autorizados ao abrigo do artigo 29.º"
+  },
+  "51927975": {
+   "fragment_id": "37697075",
+   "type": 11,
+   "heading": "Artigo 11.º — Exportação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Exportação\n\n1 - Só podem ser exportados PUV desde que sejam fabricados por titulares de autorização de fabrico.\n\n2 - As normas do presente decreto-lei relativas ao acondicionamento, à rotulagem e à apresentação não são aplicáveis aos PUV destinados exclusivamente à exportação.\n\n3 - Para efeitos de exportação, a autoridade competente, no prazo de 10 dias, a requerimento do fabricante, do exportador ou das autoridades de um país terceiro importador emite:\n\na) Certificado que comprove a autorização de fabrico para o PUV, em território nacional;\n\nb) Cópia do resumo das características do produto de uso veterinário (RCPUV) aprovado ou documento equivalente;\n\nc) Declaração que indica que o PUV nela descriminado está autorizado a ser comercializado em território nacional.\n\n4 - É proibida a exportação de PUV que tenham sido retirados do mercado por razões de saúde pública, de saúde animal ou de defesa do ambiente;"
+  },
+  "51928075": {
+   "fragment_id": "36192875",
+   "type": 1,
+   "heading": "Capítulo IV — Autorização dos produtos de uso veterinário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Autorização dos produtos de uso veterinário"
+  },
+  "51928175": {
+   "fragment_id": "37697175",
+   "type": 11,
+   "heading": "Artigo 12.º — Introdução no mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Introdução no mercado\n\n1 - A introdução no mercado de PUV depende de autorização, a conceder pela autoridade competente.\n\n2 - Nos casos em que o pedido de autorização a que se refere o número anterior é apreciado favoravelmente, a autoridade competente atribui um número de autorização de venda ao produto.\n\n3 - A autorização de venda só pode ser concedida aos PUV cujos requerentes se encontrem estabelecidos no espaço económico europeu (EEE).\n\n4 - A transferência de titular de autorização de introdução no mercado depende igualmente de autorização, a conceder pela autoridade competente."
+  },
+  "51928275": {
+   "fragment_id": "37697275",
+   "type": 11,
+   "heading": "Artigo 13.º — Pedido de autorização de venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Pedido de autorização de venda\n\n1 - O pedido de autorização de venda é apresentado à autoridade competente, em língua portuguesa, onde conste:\n\na) Nome ou designação social e domicílio ou sede do requerente;\n\nb) Nome ou designação social e domicílio ou sede do titular da autorização de fabrico;\n\nc) Número de identificação fiscal do requerente, excepto se o requerente tiver a sua sede ou domicílio noutro Estado membro;\n\nd) Nome de fantasia proposto para o produto de uso veterinário;\n\ne) Indicação do fim a que o PUV se destina, nos termos do n.º 1 do artigo 2.º\n\n2 - O requerimento a que se refere o número anterior deve ser acompanhado da seguinte informação:\n\na) Documentação técnica e ou científica, incluindo bibliografia publicada, que suporte a qualidade, a segurança e a eficácia do PUV ou, em alternativa, uma carta de acesso;\n\nb) Projecto do RCPUV, elaborado nos termos do artigo 21.º;\n\nc) Projecto de cartonagem, rotulagem e de literatura inclusa, se for caso disso, em língua portuguesa, de acordo com o disposto no artigo 22.º;\n\nd) Comprovativo do pagamento da taxa.\n\n3 - Sem prejuízo do disposto nos números anteriores, a autoridade competente pode solicitar uma única vez ao requerente todas as informações adicionais que considere indispensáveis para a validação e avaliação do processo em causa.\n\n4 - A documentação técnica e ou científica a apresentar, nos termos da alínea a) do n.º 2, é definida, para os vários tipos de PUV, por despacho do director-geral de Veterinária.\n\n5 - Caso o PUV beneficie de uma autorização ou registo que permita a sua comercialização noutro Estado membro, deve mencionar esse facto no requerimento e fazer prova do mesmo, o qual é tido em conta pela autoridade competente."
+  },
+  "51928375": {
+   "fragment_id": "37697375",
+   "type": 11,
+   "heading": "Artigo 14.º — Instruções para apresentação do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Instruções para apresentação do pedido\n\n1 - O nome de fantasia proposto para cada PUV deve ser único e inconfundível, não podendo ser susceptível de criar equívocos quanto ao próprio produto, a outros PUV, a biocidas de uso veterinário ou a medicamentos veterinários.\n\n2 - Para que seja atribuída a autorização de venda a um PUV coadjuvante de acções terapêuticas ou profilácticas destinado a animais de exploração, este apenas pode conter substâncias activas que figurem nos anexos i, ii ou iii do Regulamento CEE n.º <a href=\"eurlex.asp?ano=1990&id=390R2377\" title=\"Link para Regulamento da Comunidade Europeia\">2377/90</a>, do Conselho, de 26 de Junho, e respectivas alterações, ou que constem do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=1997&id=397R0434\" title=\"Link para Regulamento da Comunidade Europeia\">434/97</a>, do Conselho, de 3 de Março.\n\n3 - Em derrogação do número anterior, pode ser autorizada a venda de um PUV que contenha:\n\na) Substâncias activas não incluídas nos anexos i, ii ou iii do Regulamento (CEE) n.º <a href=\"eurlex.asp?ano=1990&id=390R2377\" title=\"Link para Regulamento da Comunidade Europeia\">2377/90</a>, do Conselho, de 26 de Junho, desde que seja destinado a equídeos relativamente aos quais tenha sido declarado, nos termos da legislação vigente relativa à identificação, registo e circulação animal, que os mesmos não se destinam ao consumo humano;\n\nb) Substâncias activas não incluídas nos anexos i, ii ou iii do Regulamento (CEE) n.º <a href=\"eurlex.asp?ano=1990&id=390R2377\" title=\"Link para Regulamento da Comunidade Europeia\">2377/90</a>, do Conselho, de 26 de Junho, destinado a espécies animais para as quais não está estabelecido limite máximo de resíduos (LMR), desde que se estabeleçam intervalos de segurança adequados de acordo com as directrizes de extrapolação de LMR em vigor ou, na impossibilidade de extrapolação, sejam fixados intervalos de segurança não inferiores a:\n\ni) 7 dias para os ovos;\n\nii) 7 dias para o leite;\n\niii) 28 dias para a carne de aves de capoeira e de mamíferos, incluindo gordura e vísceras;\n\niv) 500 graus-dia para o peixe.\n\n4 - A validação do pedido é efectuada no prazo de 30 dias após a recepção do mesmo.\n\n5 - A autorização deve ser concedida no prazo de 60 dias a contar da data de entrada do respectivo pedido na autoridade competente, sob pena de deferimento tácito do mesmo.\n\n6 - Os prazos a que se referem os n.os 4 e 5 suspendem-se sempre que a autoridade competente constate existirem deficiências na instrução do processo que não permitam a validação e ou a avaliação do pedido, serem necessárias informações adicionais ou a correcção de deficiências e solicita ao requerente que proceda à eliminação ou correcção das mesmas no prazo máximo de 30 dias, findo o qual o processo é arquivado, caso aquelas se mantenham."
+  },
+  "51928475": {
+   "fragment_id": "37697475",
+   "type": 11,
+   "heading": "Artigo 15.º — Validação do pedido e avaliação do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Validação do pedido e avaliação do processo\n\n1 - Após a recepção de um pedido, a autoridade competente procede:\n\na) À sua validação, verificando a documentação referida no artigo 13.º, bem como o cumprimento das disposições necessárias para a concessão da autorização de venda, suas alterações e renovações;\n\nb) À avaliação do processo.\n\n2 - Sempre que considere necessário, o director-geral de Veterinária pode solicitar pareceres técnico-científicos específicos a peritos de reconhecida competência no âmbito da qualidade, segurança e eficácia dos PUV.\n\n3 - O desempenho de funções de perito a que se refere o número anterior é remunerado.\n\n4 - A remuneração dos peritos, após a conclusão do procedimento, é devida por cada processo de avaliação.\n\n5 - Para efeitos do número anterior, entende-se que um procedimento se encontra concluído na data da sua homologação pelo director-geral de Veterinária.\n\n6 - Para efeitos de remuneração dos peritos, a taxa cobrada pelo procedimento em causa é repartida em 15 % para cada perito interveniente, revertendo o remanescente da taxa para a autoridade competente."
+  },
+  "51928575": {
+   "fragment_id": "37697575",
+   "type": 11,
+   "heading": "Artigo 16.º — Notificação da decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Notificação da decisão\n\nA autoridade competente comunica ao requerente a autorização de venda do PUV, atribuindo um número de autorização de venda e transmitindo as condições de aprovação."
+  },
+  "51928675": {
+   "fragment_id": "37697675",
+   "type": 11,
+   "heading": "Artigo 17.º — Recusa de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Recusa de autorização\n\n1 - O pedido de autorização de venda pode ser recusado sempre que na validação e avaliação do respectivo processo se verifique que:\n\na) O processo não foi instruído de acordo com as disposições constantes do presente decreto-lei;\n\nb) O PUV é nocivo nas condições de utilização indicadas;\n\nc) O efeito previsto não está suficientemente justificado para os fins a que se destina;\n\nd) O intervalo de segurança proposto, quando seja caso disso, é insuficiente para que os géneros alimentícios provenientes dos animais em que se utilizou o PUV não contenham resíduos susceptíveis de apresentar perigo para a saúde do consumidor;\n\ne) O PUV destina-se a uma utilização interdita de acordo com a legislação em vigor;\n\nf) O PUV apresenta algum risco inaceitável para a saúde humana, para a saúde animal ou para o ambiente.\n\n2 - A decisão de recusa de autorização de venda é comunicada ao requerente, pela autoridade competente, acompanhada com a respectiva fundamentação."
+  },
+  "51928775": {
+   "fragment_id": "37697775",
+   "type": 11,
+   "heading": "Artigo 18.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Responsabilidade\n\n1 - É da exclusiva responsabilidade do fabricante e do responsável pela introdução no mercado (RIM) de um PUV a veracidade e a validade técnico-científica de toda a documentação apresentada para efeitos da respectiva avaliação.\n\n2 - A realização de exames ou controlos laboratoriais de um PUV, quando necessários, designadamente para efeitos do artigo 17.º, da alínea c) do n.º 1 do artigo 19.º e do artigo 24.º, constituem um encargo financeiro do fabricante ou do RIM, consoante os casos."
+  },
+  "51928875": {
+   "fragment_id": "37697875",
+   "type": 11,
+   "heading": "Artigo 19.º — Alteração do regime de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Alteração do regime de autorização\n\n1 - Por razões de interesse público, defesa ou segurança de pessoas, dos animais ou do meio ambiente, o director-geral de Veterinária pode:\n\na) Suspender, alterar ou restringir as condições de autorização de um PUV, por aplicação das normas decorrentes das políticas de saúde animal ou de saúde pública veterinária, ou aquelas que sejam resultantes do Sistema Nacional de Farmacovigilância Veterinária, instituído pelo Decreto-Lei n.º 148/2008, de 29 de Julho;\n\nb) Sujeitar a autorização a regime específico, sempre que os PUV assim o exijam pela sua natureza ou características, podendo estas restrições incluir a limitação da sua comercialização, detenção, posse ou utilização;\n\nc) As restrições referidas na alínea anterior estão sujeitas a controlo oficial ou ao cumprimento de requisitos específicos, a determinar em cada caso, pelo director-geral de Veterinária.\n\n2 - A autoridade competente deve comunicar ao responsável pela autorização de venda a alteração referida no número anterior, a qual deve ser acompanhada da respectiva fundamentação e do prazo para proceder às modificações necessárias."
+  },
+  "51928975": {
+   "fragment_id": "37697975",
+   "type": 11,
+   "heading": "Artigo 20.º — Obrigações do responsável pela introdução no mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Obrigações do responsável pela introdução no mercado\n\n1 - Após a obtenção da autorização de venda de um PUV, e tendo em consideração o progresso técnico e científico, o respectivo RIM deve propor as alterações consideradas necessárias de modo a garantir a qualidade, segurança e eficácia do PUV.\n\n2 - As alterações previstas no número anterior são submetidas à autoridade competente para validação e avaliação, de acordo com o artigo 23.º\n\n3 - O RIM informa a autoridade competente de quaisquer novos elementos que impliquem alterações dos documentos referidos no artigo 13.º ou no RCPUV e no rótulo aprovados, nomeadamente qualquer proibição ou restrição à comercialização do PUV noutro país.\n\n4 - O RIM informa a autoridade competente sobre a quantidade de PUV comercializado no ano transacto, em modelo a disponibilizar pela autoridade competente, no primeiro mês de cada ano e em tempo útil, caso ocorra qualquer desistência, temporária ou definitiva, de comercialização de um PUV.\n\n5 - O RIM é responsável pela retirada, recolha ou eliminação de PUV e dos acondicionamentos que devam ser retirados do mercado, sem prejuízo da possibilidade de a retirada ser desencadeada pelos distribuidores grossistas e pelos retalhistas, no caso dos PUV cujo prazo de validade tenha expirado.\n\n6 - A alteração de RIM deve ser autorizada pelo director-geral de Veterinária."
+  },
+  "51929075": {
+   "fragment_id": "37698075",
+   "type": 11,
+   "heading": "Artigo 21.º — Resumo de características do produto de uso veterinário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Resumo de características do produto de uso veterinário\n\n1 - O projecto de RCPUV deve ser apresentado em língua portuguesa e conter as seguintes informações:\n\na) Nome do PUV e indicação do fim a que se destina, nos termos do n.º 1 do artigo 2.º;\n\nb) Nome ou designação social e domicílio ou sede do responsável pela autorização de venda (AV) e do fabricante;\n\nc) Composição qualitativa e quantitativa dos componentes;\n\nd) Tipo de apresentação e formulação;\n\ne) Espécies animais ou outras finalidades a que se destina;\n\nf) Indicações de utilização;\n\ng) Dose e ou modo de utilização;\n\nh) Descrição sucinta do modo de acção;\n\ni) Intervalo de segurança proposto;\n\nj) Contra-indicações e reacções adversas;\n\nl) Sobredosagem, identificando sintomas, medidas de urgência e antídotos;\n\nm) Advertências especiais;\n\nn) Utilização durante a gestação e aleitamento;\n\no) Precauções especiais de utilização;\n\np) Eventuais interacções com outras substâncias;\n\nq) Incompatibilidades;\n\nr) Prazo de validade proposto;\n\ns) Precauções particulares de utilização;\n\nt) Precauções especiais de conservação e de transporte;\n\nu) Natureza e conteúdo do recipiente;\n\nv) Precauções especiais para eliminação dos produtos não utilizados ou dos desperdícios derivados desses produtos, caso existam;\n\nx) Indicação e justificação de quaisquer medidas de prevenção ou de segurança a adoptar, se for caso disso.\n\n2 - A atribuição da autorização de venda inclui a aprovação do RCPUV."
+  },
+  "51929175": {
+   "fragment_id": "37698175",
+   "type": 11,
+   "heading": "Artigo 22.º — Cartonagem, rotulagem e literatura inclusa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Cartonagem, rotulagem e literatura inclusa\n\n1 - Os recipientes e embalagens exteriores de PUV devem conter, em caracteres legíveis e em língua portuguesa, as seguintes menções:\n\na) Nome de fantasia do PUV;\n\nb) Composição qualitativa e quantitativa dos componentes;\n\nc) Espécies animais ou outras finalidades a que o produto se destina;\n\nd) Dose de utilização;\n\ne) Modo de emprego;\n\nf) Intervalo ou intervalos de segurança, quando for caso disso;\n\ng) Formulação e o conteúdo;\n\nh) Lote de fabrico;\n\ni) Número de AV;\n\nj) Nome ou a denominação social e o domicílio ou a sede social do fabricante, do RIM e do distribuidor, quando for caso disso;\n\nl) Prazo de validade;\n\nm) Precauções particulares de conservação e transporte, se for caso disso;\n\nn) Precauções particulares de eliminação do produto, se for caso disso;\n\no) Menção «Uso veterinário», em fundo verde, impressa na face principal da rotulagem;\n\np) Menção «Manter fora do alcance e da vista das crianças» na face principal;\n\nq) Menção «Uso externo», em fundo vermelho, quando for caso disso, impressa na face principal da rotulagem.\n\n2 - Quando se trate de pequenos recipientes, nos quais se torna impossível mencionar todas as indicações referidas no número anterior, aquelas devem ser apostas na embalagem exterior.\n\n3 - Sem prejuízo do disposto no número anterior, a rotulagem de pequenos recipientes deve conter, pelo menos, as seguintes menções:\n\na) Nome do PUV;\n\nb) Espécies animais ou outra finalidade a que se destina;\n\nc) Número de lote;\n\nd) Prazo de validade.\n\n4 - O conteúdo da literatura inclusa de um PUV é definido casuisticamente, mediante proposta do requerente.\n\n5 - À cartonagem, rotulagem e literatura inclusa nos kits de teste de diagnóstico rápido de doenças de animais não se aplica o disposto nas suas alíneas d), f), g), p) e q) do n.º 1, devendo aquelas, em alternativa, conter as seguintes informações:\n\na) Classificação do PUV, de acordo com a alínea d) do artigo 2.º;\n\nb) Material e equipamento não fornecido e necessário;\n\nc) Princípio do teste, cálculos, interpretação dos resultados e exemplos.\n\n6 - A atribuição da autorização de venda compreende a aprovação do projecto de cartonagem, de rotulagem e de literatura inclusa."
+  },
+  "51929275": {
+   "fragment_id": "37698275",
+   "type": 11,
+   "heading": "Artigo 23.º — Alteração da autorização de venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Alteração da autorização de venda\n\n1 - A alteração dos termos da autorização de venda depende de autorização do director-geral de Veterinária.\n\n2 - O pedido de autorização a que se refere o número anterior é dirigido ao director-geral de Veterinária, aplicando-se, com as necessárias adaptações, o disposto nos n.os 1 e 2 do artigo 12.º e nos n.os 4 e 5 do artigo 13.º\n\n3 - A alteração dos termos de uma autorização de venda corresponde a um pedido de autorização, excepto quando da alteração requerida resultem outras alterações, as quais podem ser incluídas no mesmo pedido, devendo, neste caso, descrever a relação entre a alteração principal e as subsequentes.\n\n4 - Caso a alteração se refira aos elementos mencionados nas alíneas a) a c) do n.º 1 do artigo 13.º, esta deve apenas ser comunicada à autoridade competente, nos termos do n.º 2.\n\n5 - Sempre que considere necessário, a autoridade competente pode solicitar, uma única vez ao requerente, todas as informações complementares.\n\n6 - O prazo para a actualização da rotulagem e do RCPUV, decorrente da alteração de autorização de venda, é fixado pelo director-geral de Veterinária, aquando da aprovação da alteração."
+  },
+  "51929375": {
+   "fragment_id": "37698375",
+   "type": 11,
+   "heading": "Artigo 24.º — Renovação da autorização de venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Renovação da autorização de venda\n\n1 - A autorização de venda tem a validade de cinco anos, podendo ser renovada nos termos seguintes:\n\na) O pedido da primeira renovação deve ser apresentado nos 90 dias anteriores ao termo da primeira autorização, sob pena de esta caducar;\n\nb) As renovações subsequentes são concedidas automaticamente, desde que sejam enviados trienalmente à autoridade competente os respectivos relatórios de farmacovigilância veterinária, sob pena de revogação da autorização de venda.\n\n2 - O pedido de renovação deve ser dirigido ao director-geral de Veterinária, em requerimento, em língua portuguesa, acompanhado de:\n\na) RCPUV, projecto de cartonagem, rotulagem e de literatura inclusa, actualizados;\n\nb) Informação respeitante aos dados de farmacovigilância veterinária;\n\nc) Informação técnico-científica actualizada, quando for caso disso.\n\n3 - Sempre que considere necessário, a autoridade competente pode solicitar informações complementares ao requerente.\n\n4 - Os prazos para a concessão da renovação de autorização de venda de um PUV são os que se encontram fixados nos n.os 4 e 5 do artigo 14.º"
+  },
+  "51929475": {
+   "fragment_id": "37698475",
+   "type": 11,
+   "heading": "Artigo 25.º — Assessoria técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Assessoria técnica\n\nTodos os que solicitem a autorização de venda de um PUV devem ter ao seu serviço um médico veterinário como assessor técnico, ao qual compete:\n\na) Elaborar e coordenar toda a informação técnico-científica respeitante aos PUV;\n\nb) Assegurar a coordenação de informação no âmbito do Sistema Nacional de Farmacovigilância Veterinária."
+  },
+  "51929575": {
+   "fragment_id": "37698575",
+   "type": 11,
+   "heading": "Artigo 26.º — Revogação da autorização de venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Revogação da autorização de venda\n\nO director-geral de Veterinária pode revogar a autorização de venda de um PUV sempre que:\n\na) Este se revele nocivo para a saúde dos animais, nas suas condições de utilização;\n\nb) Se comprove não ter, ou ser insuficiente, o efeito anunciado para o qual o PUV se destina;\n\nc) Se verifique, quando for caso disso, que o intervalo de segurança indicado não é adequado;\n\nd) Se torne necessário assegurar a protecção da saúde pública ou dos animais;\n\ne) Se verifique que as indicações fornecidas no processo que acompanha o pedido de autorização são erróneas ou novos conhecimentos as contrariam;\n\nf) Não tenham as composições qualitativa e ou quantitativa declaradas;\n\ng) Sempre que, sendo destinado a animais de exploração, contenha substâncias activas ou excipientes incluídos no anexo iv do Regulamento CEE n.º <a href=\"eurlex.asp?ano=1990&id=390R2377\" title=\"Link para Regulamento da Comunidade Europeia\">2377/90</a>, do Conselho, de 26 de Junho, ou em qualquer legislação restritiva de uso dessa substância;\n\nh) Seja apresentado para uma utilização interdita por legislação comunitária ou nacional.\n\ni) Após a concessão da autorização de venda de um PUV, o mesmo não seja comercializado por um período superior a três anos."
+  },
+  "51929675": {
+   "fragment_id": "37698675",
+   "type": 11,
+   "heading": "Artigo 27.º — Suspensão da autorização de venda e proibição de comercialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Suspensão da autorização de venda e proibição de comercialização\n\n1 - O director-geral de Veterinária pode proibir a importação e a comercialização de PUV ou ordenar a sua retirada do mercado ou a suspensão da autorização de venda sempre que:\n\na) Se verifique qualquer das situações referidas no artigo anterior;\n\nb) Seja necessário adoptar medidas decorrentes do Sistema Nacional de Farmacovigilância Veterinária;\n\nc) Seja necessário tomar medidas adequadas, caso sejam detectados defeitos de qualidade do PUV;\n\nd) Esteja em causa a salvaguarda da saúde animal, do bem-estar animal, da saúde pública ou de protecção ambiental.\n\n2 - A suspensão ou proibição de venda e a retirada prevista no número anterior podem incidir apenas sobre determinados lotes.\n\n3 - Em caso de suspensão deve ser concedido ao interessado um prazo para, sempre que possível, suprir as deficiências verificadas, o qual não deve ultrapassar os 90 dias, findo o qual, se o interessado não cumprir o determinado pelo director-geral de Veterinária, a autorização pode ser revogada.\n\n4 - A suspensão ou proibição de venda e a retirada do mercado são da responsabilidade do titular da autorização e devem ser realizadas no prazo fixado pelo director-geral de Veterinária.\n\n5 - A suspensão e a revogação são notificadas ao interessado com indicação dos seus fundamentos e da possibilidade de recurso, bem como do prazo em que o mesmo pode ser apresentado."
+  },
+  "51929775": {
+   "fragment_id": "37698775",
+   "type": 11,
+   "heading": "Artigo 28.º — Autorização especial de venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Autorização especial de venda\n\n1 - Mediante pedido das entidades legalmente autorizadas para a comercialização de PUV, o director-geral de Veterinária pode conceder, no prazo de cinco dias, a autorização especial de venda de um PUV, fixando o período de utilização do mesmo, desde que aquele se destine a:\n\na) Defesa da saúde animal, do bem-estar animal, da saúde pública ou da protecção ambiental, ou\n\nb) Utilização com fins exclusivos de investigação, análise ou ensaio de segurança e de eficácia, que não podem ser objecto de venda ou cedência com fins lucrativos.\n\n2 - A importação dos produtos referidos no número anterior depende de autorização prévia do director-geral de Veterinária, a conceder no prazo de cinco dias.\n\n3 - Para efeitos do disposto no n.º 1, o pedido, devidamente fundamentado, é dirigido ao director-geral de Veterinária, acompanhado dos necessários documentos que visem:\n\na) Parecer técnico fundamentado relativo à imprescindibilidade do produto;\n\nb) Comprovativo de pagamento da respectiva taxa."
+  },
+  "51929875": {
+   "fragment_id": "37698875",
+   "type": 11,
+   "heading": "Artigo 29.º — Ensaios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Ensaios\n\n1 - A realização de ensaios de segurança e de eficácia com PUV não autorizados ao abrigo do presente decreto-lei depende de autorização do director-geral de Veterinária.\n\n2 - O pedido a que se refere o número anterior deve ser acompanhado dos seguintes documentos:\n\na) Protocolo, em modelo a disponibilizar pela autoridade competente, do qual conste:\n\ni) Objectivo e justificação para o ensaio;\n\nii) Descrição das acções a realizar e respectivo calendário;\n\niii) Informação pertinente sobre o PUV submetido ao ensaio;\n\niv) Normas e restrições para a execução prática do ensaio;\n\nv) Identificação do responsável técnico pelo ensaio;\n\nvi) Identificação dos locais seleccionados para o ensaio, se for caso disso;\n\nb) Termo de responsabilidade do responsável técnico referido na alínea v) da alínea anterior, em modelo a disponibilizar pela autoridade competente.\n\n3 - O director-geral de Veterinária decide sobre o pedido a que se refere o n.º 1 no prazo máximo de 30 dias a contar da data da sua recepção.\n\n4 - No prazo de 30 dias após finalizado o ensaio deve ser enviado à autoridade competente o relatório final do mesmo subscrito pelo responsável técnico."
+  },
+  "51929975": {
+   "fragment_id": "36192975",
+   "type": 1,
+   "heading": "Capítulo V — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Publicidade"
+  },
+  "51930075": {
+   "fragment_id": "37698975",
+   "type": 11,
+   "heading": "Artigo 30.º — Regras sobre publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Regras sobre publicidade\n\n1 - É proibida a publicidade de PUV para os quais não tenha sido concedida uma autorização de venda.\n\n2 - A publicidade de PUV:\n\na) Deve promover a sua utilização racional, fazendo-a de forma objectiva e sem exagerar as suas propriedades;\n\nb) Não pode divergir das informações constantes do RCPUV, tal como foi autorizado;\n\nc) Não pode ser enganosa.\n\n3 - A publicidade deve ser verdadeira e correcta, de modo que o destinatário possa fazer uma ideia correcta do valor pretendido do PUV, não podendo conter informações, indicações técnicas ou outras que possam induzir aquele em erro.\n\n4 - A publicidade de PUV não pode conter qualquer elemento que:\n\na) Sugira que o efeito do produto está garantido, sem efeitos secundários, com resultados superiores ou equivalentes aos de outro produto;\n\nb) Sugira que o estado normal de saúde dos animais possa ser melhorado através da utilização do produto;\n\nc) Sugira que o estado normal de saúde do animal possa ser prejudicado caso o produto não seja utilizado;\n\nd) Faça referência a alguém que, pelo seu prestígio, possa incitar ao consumo dos produtos;\n\ne) Sugira que a segurança ou eficácia do PUV é devida ao facto de ser considerado um produto natural."
+  },
+  "51930175": {
+   "fragment_id": "37699075",
+   "type": 11,
+   "heading": "Artigo 31.º — Proibição de referência a outras marcas comerciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Proibição de referência a outras marcas comerciais\n\nNo recipiente, na embalagem exterior ou no folheto informativo que acompanha o PUV não podem figurar referências a marcas comerciais de outros produtos."
+  },
+  "51930275": {
+   "fragment_id": "36193075",
+   "type": 1,
+   "heading": "Capítulo VI — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Regime sancionatório"
+  },
+  "51930375": {
+   "fragment_id": "37699175",
+   "type": 11,
+   "heading": "Artigo 32.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Fiscalização\n\nCompete à autoridade competente assegurar a fiscalização do cumprimento das normas do presente decreto-lei, sem prejuízo das competências atribuídas por lei a outras entidades, designadamente à Autoridade de Segurança Alimentar e Económica (ASAE)."
+  },
+  "51930475": {
+   "fragment_id": "37699275",
+   "type": 11,
+   "heading": "Artigo 33.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Contra-ordenações\n\n1 - Constitui contra-ordenação, punível com coima cujo montante mínimo é de (euro) 100 ou (euro) 250 e o máximo de (euro) 3740 ou (euro) 44 890, consoante o agente seja pessoa singular ou colectiva:\n\na) O fabrico e a introdução no mercado dos PUV que não tenham a autorização a que se refere o n.º 1 do artigo 4.º;\n\nb) O incumprimento dos requisitos para a introdução dos PUV no mercado, a que se referem os artigos 4.º a 11.º;\n\nc) A comercialização dos PUV por estabelecimentos que não tenham notificado a autoridade competente, nos termos do n.º 1 do artigo 7.º;\n\nd) O incumprimento dos requisitos fixados para a comercialização dos PUV a que se referem os artigos 7.º a 27.º;\n\ne) A comercialização de PUV que não disponham de autorização de venda a que se refere o n.º 1 do artigo 12.º ou a autorização especial a que se refere o artigo 28.º;\n\nf) O não cumprimento das obrigações do responsável pela introdução no mercado, a que se refere o artigo 18.º;\n\ng) A publicidade aos PUV que não cumpra o disposto nos artigos 30.º e 31.º\n\n2 - A tentativa e a negligência são puníveis, sendo os limites máximos e mínimos das coimas reduzidos a metade."
+  },
+  "51930575": {
+   "fragment_id": "37699375",
+   "type": 11,
+   "heading": "Artigo 34.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Sanções acessórias\n\n1 - Consoante a gravidade da contra-ordenação e a culpa do agente, podem ser aplicadas, cumulativamente com a coima, as seguintes sanções acessórias:\n\na) Perda a favor do Estado de objectos pertencentes ao agente;\n\nb) Interdição do exercício de uma profissão ou actividade cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito de participar em feiras, mercados, exposições ou concursos;\n\nd) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\ne) Suspensão de autorizações, licenças e alvarás.\n\n2 - As sanções referidas nas alíneas b) e seguintes do número anterior têm a duração máxima de dois anos contados a partir do trânsito em julgado da decisão condenatória."
+  },
+  "51930675": {
+   "fragment_id": "37699475",
+   "type": 11,
+   "heading": "Artigo 35.º — Processamento das contra-ordenações, decisão e destino das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Processamento das contra-ordenações, decisão e destino das coimas\n\n1 - A instrução dos processos de contra-ordenação compete aos serviços veterinários regionais da autoridade competente territorialmente competentes em função da área da prática da infracção.\n\n2 - A aplicação das coimas e sanções acessórias compete ao director-geral de Veterinária.\n\n3 - O produto das coimas é distribuído da seguinte forma:\n\na) 10 % para a entidade que levantou o auto;\n\nb) 30 % para a DGV;\n\nc) 60 % para o Estado."
+  },
+  "51930775": {
+   "fragment_id": "37699575",
+   "type": 11,
+   "heading": "Artigo 36.º — Destruição dos produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Destruição dos produtos\n\n1 - Os produtos que tenham sido apreendidos para fazer cessar a infracção e que não possam voltar a ser introduzidos no mercado são destruídos logo que deixem de ter utilidade como prova.\n\n2 - As despesas inerentes àquela destruição são suportadas pelo detentor dos produtos na data da apreensão, sendo as mesmas cobradas a título de custas de processo."
+  },
+  "51930875": {
+   "fragment_id": "36193175",
+   "type": 1,
+   "heading": "Capítulo VII — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Taxas"
+  },
+  "51930975": {
+   "fragment_id": "37699675",
+   "type": 11,
+   "heading": "Artigo 37.º — Pagamento de taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Pagamento de taxas\n\n1 - Os actos relativos aos procedimentos previstos no presente decreto-lei são sujeitos ao pagamento de taxas pelos requerentes.\n\n2 - O produto das taxas cobradas pelos serviços prestados constitui receita da autoridade competente.\n\n3 - As taxas a que se refere o número anterior constituem condição do prosseguimento dos pedidos a que respeitam e são devidas:\n\na) Pelos destinatários de quaisquer actos ou factos praticados pela autoridade competente, previstos na lei, incluindo, nomeadamente, os actos de autorização, alteração, renovação ou reavaliação, declaração e emissão de cópia ou de certidão;\n\nb) Pelas entidades cuja actividade se encontre sujeita à autorização da autoridade competente, em contrapartida dos serviços de manutenção dos registos e seus averbamentos.\n\n4 - As taxas a que se refere o número anterior são fixadas, liquidadas e cobradas nos termos definidos por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e da agricultura, sob proposta do director-geral de Veterinária, a qual define o montante específico, o reembolso quando for caso disso e a actualização anual das mesmas.\n\n5 - A cobrança coerciva das dívidas provenientes da falta de pagamento das taxas realiza-se através de processo de execução fiscal, servindo de título executivo a certidão passada para o efeito pela autoridade competente."
+  },
+  "51931075": {
+   "fragment_id": "36193275",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais e transitórias"
+  },
+  "51931175": {
+   "fragment_id": "37699775",
+   "type": 11,
+   "heading": "Artigo 38.º — Campanhas de sanidade animal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Campanhas de sanidade animal\n\nA autoridade competente, sempre que, por razões de sanidade animal, realize campanhas de carácter preventivo ou curativo, pode distribuir PUV, de acordo com normas fixadas, para o efeito, em despacho do director-geral de Veterinária."
+  },
+  "51931275": {
+   "fragment_id": "37699875",
+   "type": 11,
+   "heading": "Artigo 39.º — Formulários, notificações e publicitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Formulários, notificações e publicitação\n\n1 - Os formulários dos requerimentos previstos no presente decreto-lei são disponibilizados no sítio da Internet da DGV e podem ser entregues nas direcções de serviços veterinários regionais ou remetidos por via electrónica.\n\n2 - As comunicações mantidas para efeitos do presente decreto-lei são feitas preferencialmente por via electrónica.\n\n3 - A DGV divulga na sua página electrónica a lista dos centros de atendimento médico-veterinário em exercício de actividade.\n\n4 - Os despachos do director-geral de Veterinária previstos no presente decreto-lei são publicitados na 2.ª série do Diário da República.\n\n5 - Salvo disposição em contrário, todos os prazos previstos no presente decreto-lei são fixados em dias consecutivos e contados nos termos do disposto no artigo 279.º do Código Civil."
+  },
+  "51931375": {
+   "fragment_id": "37699975",
+   "type": 11,
+   "heading": "Artigo 40.º — Devolução da documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Devolução da documentação\n\n1 - Após análise da documentação relativa à autorização, suas alterações e renovações, aquela que a autoridade competente não considere necessária para o seu arquivo é devolvida aos respectivos representantes legais ou destruída pela autoridade competente quando aqueles não manifestem intenção em contrário, no prazo de 30 dias, após a sua notificação.\n\n2 - À documentação que constitui os processos que já se encontrem concluídos e arquivados, ao abrigo do Decreto-Lei n.º 232/99, de 24 de Junho, é aplicável o disposto no número anterior, após serem retirados os elementos que a autoridade competente considere necessários para o seu arquivo, sendo a restante devolvida aos respectivos representantes legais ou destruída, caso estes não manifestem interesse em contrário no prazo de 60 dias a contar da data da entrada em vigor do presente decreto-lei."
+  },
+  "51931475": {
+   "fragment_id": "37700075",
+   "type": 11,
+   "heading": "Artigo 41.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Norma transitória\n\n1 - Com a publicação do presente decreto-lei mantêm-se válidas as autorizações de fabrico e de distribuição por grosso, concedidas ao abrigo do Decreto-Lei n.º 232/99, de 24 de Junho.\n\n2 - Os PUV que sejam excluídos do âmbito de aplicação do presente decreto-lei passam a encontrar-se regulados pelas normas constantes do Decreto-Lei n.º 148/2008, de 29 de Julho, após a sua reclassificação nos termos do artigo 127.º do mesmo decreto-lei.\n\n3 - Os PUV a que se refere o número anterior só deixam de se encontrar abrangidos pelo disposto no presente decreto-lei quando se encontre concluída a sua reclassificação.\n\n4 - Os pedidos de autorização e as suas renovações, cuja avaliação se encontre em curso, ao abrigo do Decreto-Lei n.º 232/99, de 24 de Junho, que digam respeito a PUV agora excluídos do âmbito de aplicação do presente decreto-lei, é concluída nos termos do presente decreto-lei.\n\n5 - Sem prejuízo do disposto no n.º 1 do artigo 12.º e no n.º 1 do artigo 23.º, os PUV que já tenham sido objecto de, pelo menos, uma renovação quinquenal, ao abrigo do Decreto-Lei n.º 232/99, de 24 de Junho, estão isentos de renovação, aplicando-se o disposto no n.º 4 do artigo 12.º\n\n6 - Os PUV abrangidos pelo presente decreto-lei que não detenham qualquer autorização de comercialização na data da entrada em vigor do presente decreto-lei dispõem de 120 dias a partir daquela data para proceder à sua regularização."
+  },
+  "51931575": {
+   "fragment_id": "37700175",
+   "type": 11,
+   "heading": "Artigo 42.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Regiões Autónomas\n\nO disposto no presente decreto-lei aplica-se às Regiões Autónomas, sendo as competências cometidas a serviços ou organismos da administração do Estado exercidas pelos correspondentes serviços e organismos das administrações regionais com idênticas atribuições e competências."
+  },
+  "51931675": {
+   "fragment_id": "37700275",
+   "type": 11,
+   "heading": "Artigo 43.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 232/99, de 24 de Junho."
+  },
+  "51931775": {
+   "fragment_id": "37700375",
+   "type": 11,
+   "heading": "Artigo 44.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no prazo de 30 dias após a data da sua publicação."
+  },
+  "156694777": {
+   "fragment_id": "37699275",
+   "type": 11,
+   "heading": "Artigo 33.º — Contra-ordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 33.º — Contra-ordenações\n\n1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):\n\na) O fabrico e a introdução no mercado dos PUV que não tenham a autorização a que se refere o n.º 1 do artigo 4.º;\n\nb) O incumprimento dos requisitos para a introdução dos PUV no mercado, a que se referem os artigos 4.º a 11.º;\n\nc) A comercialização dos PUV por estabelecimentos que não tenham notificado a autoridade competente, nos termos do n.º 1 do artigo 7.º;\n\nd) O incumprimento dos requisitos fixados para a comercialização dos PUV a que se referem os artigos 7.º a 27.º;\n\ne) A comercialização de PUV que não disponham de autorização de venda a que se refere o n.º 1 do artigo 12.º ou a autorização especial a que se refere o artigo 28.º;\n\nf) O não cumprimento das obrigações do responsável pela introdução no mercado, a que se refere o artigo 18.º;\n\ng) A publicidade aos PUV que não cumpra o disposto nos artigos 30.º e 31.º\n\n2 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156694778": {
+   "fragment_id": "37699475",
+   "type": 11,
+   "heading": "Artigo 35.º — Processamento das contra-ordenações, decisão e destino das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 35.º — Processamento das contra-ordenações, decisão e destino das coimas\n\n1 - A instrução dos processos de contra-ordenação compete aos serviços veterinários regionais da autoridade competente territorialmente competentes em função da área da prática da infracção.\n\n2 - A aplicação das coimas e sanções acessórias compete ao director-geral de Veterinária.\n\n3 - O produto das coimas é distribuído da seguinte forma:\n\na) 10 % para a entidade que levantou o auto;\n\nb) 30 % para a DGV;\n\nc) 60 % para o Estado.\n\n3 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas neste diploma é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "51932575": {
+   "fragment_id": "36193375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 5 de Agosto de 2009. - Fernando Teixeira dos Santos - Fernando Teixeira dos Santos - Rui Nuno Garcia de Pina Neves Baleiras - Luís Medeiros Vieira - Manuel Francisco Pizarro de Sampaio e Castro.\n\nPromulgado em 31 de Agosto de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 1 de Setembro de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

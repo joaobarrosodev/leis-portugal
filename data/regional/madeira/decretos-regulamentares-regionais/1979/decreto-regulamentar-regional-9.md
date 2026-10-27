@@ -1,0 +1,270 @@
+---
+schema_version: '1.0'
+id: pt:dre:383619:por
+title: Decreto Regulamentar Regional n.º 9
+short_title: null
+summary: Aprova a Lei Orgânica da Secretaria Regional de Planeamento e Finanças
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Governo Regional
+proposing_entity: null
+official_number: '9'
+official_date: null
+publication_date: '1979-05-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 123/1979, Série I de 1979-05-29
+  number: '123'
+  series: I
+  supplement: null
+  pages: 1152 - 1154
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/05/12300/11521154.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '383619'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/9-1979-383619
+  internal: pt:dre:383619:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1979-383619
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1979-383619
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:43:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: fbb1d6e55e83a24de3f50dab187c239ea14dcfa079af512e9189f48fa2f6557e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:59Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Direcção Regional de Finanças
+- Direcção Regional do Planeamento
+- Madeira.região Autónoma
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Regional do Planeamento e Finanças
+relationships:
+- type: amended_by
+  target: pt:dre:457425:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446142:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:380524:por
+  label: Rectificado pela DECL.DD776.21.06.1979.PCM, DR.IS [155] de 07.07.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-380524
+  date: '1979-06-21'
+- type: repealed_by
+  target: pt:dre:457425:por
+  label: "Revogado o presente diploma e respectivo anexo, pelo DRR.11/80/M.08.09.1980.GR-RAM, DR.IS [260] de 10.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-1980-457425
+  date: '1980-09-08'
+article_structure:
+  article_count: 0
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:43:59Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 9
+
+Torna-se necessária e urgente a reorganização da Administração Pública na Região, por forma a ser possível dar uma resposta capaz às solicitações exigidas pela autonomia consagrada na Constituição da República para o arquipélago da Madeira.
+
+Assim, no presente diploma, é criada uma orgânica ditada pela necessidade imperiosa de haver uma estrutura de serviços que possibilite uma actuação do Governo Regional nos domínios do planeamento, orçamento, contabilidade, tesouro, contribuições e impostos, crédito, património, e de outras atribuições que lhes são complementares.
+
+Nestes termos:
+
+Em execução do [Decreto Regional n.º 12/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/12-1978-446142), de 10 de Março, e nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o Governo Regional decreta o seguinte:
+
+### CAPÍTULO I — Da Secretaria Regional de Planeamento e Finanças
+
+Artigo 1.º São atribuições fundamentais da Secretaria Regional de Planeamento e Finanças, em colaboração com as Secretarias Regionais competentes:
+
+a) Promover e coordenar a definição da política económica global do Governo;
+
+b) Promover o contrôle da execução das medidas adoptadas em matéria de política económica global e apresentar os resultados alcançados;
+
+c) Assegurar a compatibilização das medidas de política sectorial com os objectivos e estratégias definidos no âmbito da política económica global;
+
+d) Coordenar a expressão das populações locais e elementos representativos da Região da Madeira quanto às necessidades e aspirações respeitantes ao seu desenvolvimento económico e social;
+
+e) Promover acções que visem o maior benefício colectivo nos sectores público e privado da actividade sócio-económica da Região;
+
+f) Aproveitar e divulgar os estudos e estatísticas que interessem às actividades sócio-económicas da Região;
+
+g) Coordenar e superintender na actuação dos serviços que a integrarem;
+
+h) Colaborar nas tarefas de preparação da política fiscal, orçamental e de crédito da Região;
+
+i) Participar na definição das relações financeiras entre o Governo Regional e as empresas públicas ou com participação da Região que actuem exclusivamente na Madeira, assim como acompanhar a gestão daquelas empresas;
+
+j) Colaborar na decisão sobre a forma de obter e utilizar os meios financeiros requeridos para os investimentos públicos regionais;
+
+l) Pronunciar-se sobre os critérios reguladores do investimento estrangeiro na Região, bem como na definição dos sectores e áreas onde o mesmo seja considerado prioritário;
+
+m) Elaborar e gerir o orçamento cambial do sector público na Região;
+
+n) Participar na elaboração da legislação nacional de natureza fiscal, monetária, financeira e cambial;
+
+o) Estabelecer critérios atinentes à concessão pelo Governo Regional de subvenções, empréstimos ou outros benefícios a actividades já em exercício ou a implantar na Região e superintender no seu efectivo cumprimento;
+
+p) Promover a realização, segundo a orientação superiormente definida pelo Governo Regional, dos estudos respeitantes à determinação dos objectivos e instrumentos de uma política de desenvolvimento económico e social;
+
+q) Coordenar os programas de assistência técnica prestada por organismos internacionais a projectos que interessem ao desenvolvimento económico regional e propor, ouvidos os serviços competentes, as modalidades a adoptar nesses programas;
+
+r) Definir objectivos e medidas de política de crédito;
+
+s) Exercer quaisquer outras funções que legalmente lhe sejam cometidas.
+
+Art. 2.º No âmbito da Secretaria Regional de Planeamento e Finanças são criadas duas direcções regionais:
+
+Direcção Regional de Planeamento;
+
+Direcção Regional de Finanças.
+
+§ único. Por via da regionalização dos serviços, criar-se-ão outros departamentos que pela sua especificidade caibam no âmbito da SRPF.
+
+### CAPÍTULO II — Da Direcção Regional de Planeamento
+
+Art. 3.º À Direcção Regional de Planeamento compete:
+
+a) Estudar as perspectivas de desenvolvimento económico-social e elaborar previsões quantitativas, globais, sectoriais e sub-regionais, que permitam a formulação das opções fundamentais e dos objectivos do Plano, assim como a fixação de metas de desenvolvimento;
+
+b) Manter estreita ligação com as várias Secretarias Regionais, formulando orientações ou directivas e acompanhando de perto a elaboração dos planos sectoriais, em ordem a facilitar a sua posterior integração no Plano;
+
+c) Assegurar a compatibilização dos domínios globais e sectoriais do planeamento, tendo em vista a elaboração do Plano;
+
+d) Promover a realização de estudos de ordenamento do território por forma a, garantindo a preservação e defesa do meio ambiente, possibilitar uma racional repartição dos factores produtivos;
+
+e) Preparar, para decisão do Governo Regional, o projecto do plano regional;
+
+f) Preparar, em colaboração com as várias Secretarias Regionais, os programas anuais de execução do Plano, acompanhar a sua execução e elaborar os respectivos relatórios;
+
+g) Informar das dificuldades que eventualmente surjam no processo de desenvolvimento económico regional e propor as medidas de correcção julgadas convenientes, de acordo com os objectivos do Plano;
+
+h) Elaborar estudos de conjuntura, mantendo uma análise permanente da realidade regional;
+
+i) Promover a realização de estudos de base que se revelem de interesse económico e social para a Região;
+
+j) Emitir parecer quanto à viabilidade económica e integração no Plano sobre investimentos públicos não programados e sobre investimentos privados cuja concretização dependa da autorização do Governo Regional ou possa vir a usufruir de incentivos ou vantagens;
+
+l) Elaborar e avaliar projectos de investimentos a integrar no Plano;
+
+m) Assegurar as necessárias ligações com os órgãos centrais de planeamento e com os organismos produtores de material estatístico.
+
+Compete ainda à Direcção Regional de Planeamento, através do seu Centro de Informação e Documentação:
+
+n) Organizar e manter actualizados os serviços de informação e documentação económica necessários ao pleno e correcto exercício da sua competência;
+
+o) Cooperar, a nível nacional e internacional, com organismos de vocação económico-social, por forma a garantir o acesso a mais vastas fontes de informação;
+
+p) Assegurar a publicação e divulgação dos seus trabalhos;
+
+q) Organizar, com o apoio dos vários departamentos, outras actividades informativas dirigidas aos restantes órgãos da Administração, às associações sócio-profissionais e ao público em geral, sobre aspectos particularmente relevantes do planeamento económico;
+
+r) Recolher, tratar e difundir a documentação e informação de carácter sócio-económico indispensável à concretização dos seus objectivos.
+
+### CAPÍTULO III — Da Direcção Regional de Finanças
+
+Art. 4.º À Direcção Regional de Finanças compete:
+
+a) Elaborar, para decisão do Governo Regional, a proposta de orçamento anual da Região, em colaboração com os serviços das Secretarias Regionais;
+
+b) Exercer o contrôle do orçamento da Região e propor à entidade competente as necessárias modificações em ordem a ser conseguida uma correcta gestão orçamental na Região;
+
+c) Dar parecer sobre a concessão de avales, benefícios fiscais e outros por parte do Governo Regional;
+
+d) Acompanhar a evolução dos recursos financeiros da Região através do contacto permanente com as repartições públicas, banca local e actividade seguradora;
+
+e) Elaborar a conta de gerência do Governo Regional;
+
+f) Elaborar pareceres e prestar apoio técnico relativamente a assuntos da sua competência;
+
+g) Uniformizar e simplificar os serviços de contabilidade de todos os departamentos da Região;
+
+h) Apoiar o Secretário Regional na definição e contrôle da execução regional das políticas monetária, financeira e cambial, nos termos da lei;
+
+i) Apoiar o Secretário Regional na reestruturação da actividade bancária e seguradora de âmbito regional;
+
+j) Acompanhar a gestão das empresas pertencentes ao sector público que desenvolvam a sua actividade exclusivamente na Região;
+
+l) Contribuir para a definição da política de participações financeiras da Região;
+
+m) Propor a realização de contratos de empréstimos a contrair na Região;
+
+n) Registar e superintender, nos termos da lei, nas operações relativas aos movimentos de fundos da Região com os restantes espaços nacionais e com o estrangeiro.
+
+### CAPÍTULO IV — Pessoal administrativo
+
+Art. 5.º O apoio administrativo à Secretaria Regional de Planeamento e Finanças é dado pelo pessoal constante do quadro anexo ao presente diploma.
+
+### CAPÍTULO V — Do pessoal. Disposições finais
+
+Art. 6.º - 1 - As normas de integração e reclassificação do pessoal são as definidas pelo [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro.
+
+2 - No que respeita à aplicação do artigo 30.º do diploma referido no n.º 1, depende exclusivamente do plenário do Governo Regional, por iniciativa do respectivo Presidente ou de qualquer Secretaria Regional.
+
+3 - As reclassificações produzirão efeito a partir do dia 1 de Janeiro de 1979.
+
+Art. 7.º O quadro do pessoal da Secretaria Regional de Planeamento e Finanças é o constante do mapa anexo ao presente diploma.
+
+Art. 8.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho conjunto do Presidente do Governo da Região e do Secretário Regional de Planeamento e Finanças.
+
+Art. 9.º Este diploma entra imediatamente em vigor.
+
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
+
+Assinado em 18 de Abril de 1979.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
+
+## ANEXO — Quadros e vencimentos do pessoal a que se refere o artigo 7.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/12300/11521154.pdf)
+
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.

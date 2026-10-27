@@ -1,0 +1,365 @@
+---
+schema_version: '1.0'
+id: pt:dre:205016:por
+title: Portaria n.º 115-A/2011
+short_title: null
+summary: Segunda alteração à Portaria n.º 143/2009, de 5 de Fevereiro, que define os condicionalismos específicos ao exercício
+  da pesca lúdica no Parque Natural do Sudoeste Alentejano e Costa Vicentina (PNSACV)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios da Defesa Nacional, da Economia, da Inovação e do Desenvolvimento, da
+  Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente e do Ordenamento do Território
+proposing_entity: null
+official_number: 115-A/2011
+official_date: null
+publication_date: '2011-03-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 59/2011, 1º Suplemento, Série I de 2011-03-24
+  number: '59'
+  series: I
+  supplement: null
+  pages: 1668-(2) a 1668-(5)
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/03/05901/0000200005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/115-a/2011/03/24/p/dre/pt/html
+  oj: null
+  dre: '205016'
+  dre_path: /dr/detalhe/portaria/115-a-2011-205016
+  internal: pt:dre:205016:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/115-a-2011-205016
+  metadata_url: https://data.dre.pt/eli/port/115-a/2011/03/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/115-a-2011-205016
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:50:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8d88c7e898c048656b8346f0f7e0908307f3184aaa7fd8504f02fb746e334724
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:45Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CAÇA Submarina
+- Gestão dos Recursos
+- Parque Natural do Sudoeste Alentejano e Costa Vicentina
+- Pesca
+- Pesca Desportiva
+- Proteção do Ambiente
+- ZONA de Pesca
+- Zona de Proteção
+relationships:
+- type: amended_by
+  target: pt:dre:571046:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:235911:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/112/2005/07/08/p/dre
+- type: cites
+  target: pt:dre:333330:por
+  label: null
+  source: http://data.dre.pt/eli/port/458-a/2009/05/04/p/dre
+- type: cites
+  target: pt:dre:518464:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/56/2007/03/13/p/dre
+- type: cites
+  target: pt:dre:553876:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/246/2000/09/29/p/dre
+- type: cites
+  target: pt:dre:601556:por
+  label: null
+  source: http://data.dre.pt/eli/port/143/2009/02/05/p/dre
+- type: repealed_by
+  target: pt:dre:571046:por
+  label: "Revogada a Port 143/2009, de 05-fev, na redacção da presente Portaria, pela PORT.14/2014.23.01.2014.MAGM, DR.IS\
+    \ [16] de 23.01.2014\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/14-2014-571046
+  date: '2014-01-23'
+article_structure:
+  article_count: 15
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:50:45Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 115-A/2011
+
+de 24 de Março
+
+A Portaria n.º 143/2009, de 5 de Fevereiro, posteriormente alterada pela [Portaria n.º 458-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/458-a-2009-333330), de 4 de Maio, definiu os condicionalismos específicos ao exercício da pesca lúdica no Parque Natural do Sudoeste Alentejano e Costa Vicentina (PNSACV), tendo por objectivo a preservação dos valores naturais e dos recursos haliêuticos existentes na extensa faixa de litoral e meio marinho daquela área protegida.
+
+Assim, entre outros aspectos, a referida portaria introduziu áreas de interdição à pesca lúdica, correspondentes a zonas importantes do ponto de vista ecológico, por constituírem locais privilegiados de desova e crescimento de juvenis, de refúgio, protecção a predadores e alimentação de inúmeras espécies marinhas.
+
+Com a revisão do Plano de Ordenamento do Parque Natural do Sudoeste Alentejano e Costa Vicentina, o qual veio pela primeira vez introduzir regras relativas à área de jurisdição marinha do Parque, torna-se necessário compatibilizar o estabelecido na referida portaria com a revisão do Plano de Ordenamento, em especial quanto às áreas de interdição da pesca lúdica.
+
+Na oportunidade, e decorrente da experiência de implementação da referida portaria, procede-se ainda a alguns acertos relativos, designadamente, a espécies, artes e períodos de captura. Redefinem-se os utensílios auxiliares permitidos na apanha manual e respectivas dimensões, bem como a utilização de anzóis por cana ou linha de mão. Permite-se ainda o exercício da pesca lúdica na variante de pesca à linha durante o período nocturno, mediante certos condicionalismos de segurança.
+
+Procede-se, assim, à alteração da Portaria n.º 143/2009, de 5 de Fevereiro, alterada pela [Portaria n.º 458-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/458-a-2009-333330), de 4 de Maio, nos termos acima expostos.
+
+Assim:
+
+Manda o Governo, pelos Ministros da Presidência, da Defesa Nacional, da Economia, da Inovação e do Desenvolvimento, da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente e do Ordenamento do Território, ao abrigo do disposto no artigo 10.º do [Decreto-Lei n.º 246/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2000-553876), de 29 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 112/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), de 8 de Julho, e pelo [Decreto-Lei n.º 56/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2007-518464), de 13 de Março, o seguinte:
+
+###### Artigo 1.º — Alteração à Portaria n.º 143/2009, de 5 de Fevereiro
+
+1 - Os artigos 2.º, 3.º, 4.º, 5.º, 6.º e 7.º e o anexo iii da Portaria n.º 143/2009, de 5 de Fevereiro, alterada pela [Portaria n.º 458-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/458-a-2009-333330), de 4 de Maio, que define os condicionalismos específicos ao exercício da pesca lúdica no Parque Natural do Sudoeste Alentejano e Costa Vicentina (PNSACV), passam a ter a seguinte redacção:
+
+«Artigo 2.º
+
+[...]
+
+Sem prejuízo das interdições previstas na Portaria n.º 144/2008, de 5 de Fevereiro, o exercício da pesca lúdica é interdito:
+
+a) Nas áreas de protecção total e nas áreas de protecção parcial do tipo i definidas no Plano de Ordenamento do PNSACV para todas as modalidades de pesca lúdica;
+
+b) Nas áreas de protecção parcial do tipo ii definidas no Plano de Ordenamento do PNSACV na modalidade de pesca submarina;
+
+c) Nas áreas de interdição definidas nos Planos de Ordenamento da Orla Costeira eficazes.
+
+Artigo 3.º
+
+[...]
+
+Sem prejuízo das condicionantes gerais ao exercício da pesca lúdica, na área do PNSACV a pesca à linha:
+
+a) ...
+
+b) Por cada cana ou linha, é permitida a utilização de um máximo de três anzóis com uma abertura igual ou superior a 9 mm, ou uma única amostra (isco artificial) que contenha anzóis simples, ou múltiplos, com abertura igual ou superior a 9 mm.
+
+Artigo 4.º
+
+[...]
+
+1 - A pesca lúdica no PNSACV é proibida às quartas-feiras, excepto feriados nacionais.
+
+2 - A pesca lúdica praticada entre o pôr e o nascer do sol, independentemente do local da actividade, só é permitida se os praticantes usarem colete reflector e flutuante.
+
+3 - ...
+
+a) Sargos, Diplodus sargus e Diplodus vulgaris, entre 1 de Fevereiro e 15 de Março;
+
+b) ...
+
+Artigo 5.º
+
+[...]
+
+1 - ...
+
+a) Burriés, lapas, mexilhões, navalheiras, ouriços-do-mar, perceves e polvos constantes do anexo ii da presente portaria, da qual faz parte integrante;
+
+b) ...
+
+2 - ...
+
+3 - A captura manual dos organismos referidos na alínea a) do n.º 1 pode ser efectuada com auxílio de faca de mariscar, com lâmina de dimensões não superiores a 15 cm de comprimento por 3 cm de largura ou com auxílio de instrumentos tradicionais adaptados, nomea-damente 'arrilhada', desde que a lâmina não exceda 20 cm de comprimento por 2 cm de largura no bordo de ataque, sendo este bordo o único cortante, e o cabo não exceda 60 cm de comprimento.
+
+4 - A captura manual dos organismos referidos na alínea b) do n.º 1 pode ser efectuada com o auxílio de um sacho de cabo não superior a 50 cm de comprimento e de lâmina não superior a 10 cm de largura.
+
+5 - Para a captura manual do polvo pode ser utilizada uma vara metálica curvada em forma de gancho e não cortante na ponta, sem barbela, tradicionalmente designado por 'puxeiro' ou 'bicheiro', de abertura entre 3 cm e 5 cm.
+
+6 - A apanha das espécies constantes da alínea a) do n.º 1 só é permitida aos detentores de licença de pesca lúdica que sejam naturais ou residentes nos concelhos abrangidos pelo PNSACV, Sines, Odemira, Alzejur e Vila do Bispo, devendo os praticantes estar munidos de prova do estatuto.
+
+Artigo 6.º
+
+Tamanhos mínimos
+
+1 - A captura de espécies no PNSACV está condicionada ao cumprimento dos tamanhos mínimos fixados na legislação em vigor para a pesca comercial.
+
+2 - ...
+
+Artigo 7.º
+
+[...]
+
+1 - Para as espécies de peixes e cefalópodes, o peso máximo total permitido por dia é de 7,5 kg, não sendo contabilizado para o efeito o peso do exemplar maior, e não podendo a captura do polvo exceder dois exemplares.
+
+2 - ...
+
+3 - ...
+
+4 - Na pesca submarina, a captura de bodião, Labrus bergylta, está limitada a dois exemplares, por dia e por praticante.
+
+ANEXO III
+
+Tamanhos mínimos e parâmetros para a sua medição
+
+(a que se refere o n.º 2 do artigo 6.º)
+
+Lapas, Patella spp. - 3,5 cm, distância máxima entre os bordos da concha.
+
+Mexilhões, Mytillus spp. - 6,5 cm, dimensão maior da valva esquerda (face externa).
+
+Navalheiras, Liocarcinus spp. e Necora spp. - 6 cm, largura máxima da carapaça medida perpendicularmente à sua mediana ântero-posterior.»
+
+2 - É aditada ao anexo ii a última linha com a seguinte redacção: «Polvo, Octopus vulgaris.»
+
+###### Artigo 2.º — Revogação à Portaria n.º 143/2009, de 5 de Fevereiro
+
+São revogados o artigo 10.º e o anexo i da Portaria n.º 143/2009, de 5 de Fevereiro, alterada pela [Portaria n.º 458-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/458-a-2009-333330), de 4 de Maio.
+
+###### Artigo 3.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+###### Artigo 4.º — Republicação
+
+A Portaria n.º 143/2009, de 5 de Fevereiro, com as alterações introduzidas pela [Portaria n.º 458-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/458-a-2009-333330), de 4 de Maio, e pela presente portaria, é republicada em anexo e faz parte integrante da presente portaria.
+
+Pelo Ministro da Presidência, Laurentino José Monteiro Castro Dias, Secretário de Estado da Juventude e do Desporto, em 18 de Março de 2011. - Pelo Ministro da Defesa Nacional, Marcos da Cunha e Lorena Perestrello de Vasconcellos, Secretário de Estado da Defesa Nacional e dos Assuntos do Mar, em 22 de Março de 2011. - Pelo Ministro da Economia, da Inovação e do Desenvolvimento, Bernardo Luís Amador Trindade, Secretário de Estado do Turismo, em 22 de Março de 2011. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado das Pescas e Agricultura, em 22 de Março de 2011. - Pela Ministra do Ambiente e do Ordenamento do Território, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 17 de Março de 2011.
+
+## ANEXO
+
+###### Artigo 1.º
+
+Objecto
+
+A presente portaria define os condicionalismos específicos ao exercício da pesca lúdica no Parque Natural do Sudoeste Alentejano e Costa Vicentina (PNSACV).
+
+###### Artigo 2.º — Áreas de interdição
+
+Sem prejuízo das interdições previstas na Portaria n.º 144/2008, de 5 de Fevereiro, o exercício da pesca lúdica é interdito:
+
+a) Nas áreas de protecção total e nas áreas de protecção parcial do tipo i definidas no Plano de Ordenamento do PNSACV para todas as modalidades de pesca lúdica;
+
+b) Nas áreas de protecção parcial do tipo ii definidas no Plano de Ordenamento do PNSACV na modalidade de pesca submarina;
+
+c) Nas áreas de interdição definidas nos Planos de Ordenamento da Orla Costeira eficazes.
+
+###### Artigo 3.º — Limitações à utilização de artes e utensílios
+
+Sem prejuízo das condicionantes gerais ao exercício da pesca lúdica, na área do PNSACV a pesca à linha:
+
+a) Pode ser exercida com um máximo de duas canas ou linhas de mão;
+
+b) Por cada cana ou linha, é permitida a utilização de um máximo de três anzóis com uma abertura igual ou superior a 9 mm, ou uma única amostra (isco artificial) que contenha anzóis simples, ou múltiplos, com abertura igual ou superior a 9 mm.
+
+###### Artigo 4.º — Limitações temporais ao exercício da pesca lúdica
+
+1 - A pesca lúdica no PNSACV é proibida às quartas-feiras, excepto feriados nacionais.
+
+2 - A pesca lúdica praticada entre o pôr e o nascer do sol, independentemente do local da actividade, só é permitida se os praticantes usarem colete reflector e flutuante.
+
+3 - Sem prejuízo da aplicação dos períodos de defeso fixados na legislação em vigor para a pesca comercial e na regulamentação para a apanha comercial do perceve no PNSACV, é interdita a captura de:
+
+a) Sargos, Diplodus sargus e Diplodus vulgaris, entre 1 de Fevereiro e 15 de Março;
+
+b) Bodião, Labrus bergylta, entre 1 de Março e 31 de Maio.
+
+###### Artigo 5.º — Apanha
+
+1 - As espécies passíveis de apanha são as seguintes:
+
+a) Burriés, lapas, mexilhões, navalheiras, ouriços-do-mar, perceves e polvos constantes do anexo ii da presente portaria, da qual faz parte integrante;
+
+b) Poliquetas para isco, nos termos da legislação em vigor.
+
+2 - É interdita a apanha de fêmeas de navalheira quando estas estiverem ovadas.
+
+3 - A captura manual dos organismos referidos na alínea a) do n.º 1 pode ser efectuada com auxílio de faca de mariscar, com lâmina de dimensões não superiores a 15 cm de comprimento por 3 cm de largura ou com auxílio de instrumentos tradicionais adaptados nomeadamente «arrilhada», desde que a lâmina não exceda 20 cm de comprimento por 2 cm de largura no bordo de ataque, sendo este bordo o único cortante, e o cabo não exceda 60 cm de comprimento.
+
+4 -A captura manual dos organismos referidos na alínea b) do n.º 1 pode ser efectuada com o auxílio de um sacho de cabo não superior a 50 cm de comprimento e de lâmina não superior a 10 cm de largura.
+
+5 - Para a captura manual do polvo pode ser utilizada uma vara metálica curvada em forma de gancho e não cortante na ponta, sem barbela, tradicionalmente designado por «puxeiro» ou «bicheiro», de abertura entre 3 cm e 5 cm.
+
+6 - A apanha das espécies constantes da alínea a) do n.º 1 só é permitida aos detentores de licença de pesca lúdica que sejam naturais ou residentes nos concelhos abrangidos pelo PNSACV, Sines, Odemira, Alzejur e Vila do Bispo, devendo os praticantes estar munidos de prova do estatuto.
+
+###### Artigo 6.º — Tamanhos mínimos
+
+1 - A captura de espécies no PNSACV está condicionada ao cumprimento dos tamanhos mínimos fixados na legislação em vigor para a pesca comercial.
+
+2 - Para além do cumprimento do disposto no número anterior, são estabelecidos tamanhos mínimos de captura para as espécies constantes do anexo iii da presente portaria, da qual faz parte integrante.
+
+###### Artigo 7.º — Limites de captura diária
+
+1 - Para as espécies de peixes e cefalópodes, o peso máximo total permitido por dia é de 7,5 kg, não sendo contabilizado para o efeito o peso do exemplar maior, e não podendo a captura do polvo exceder dois exemplares.
+
+2 - O peso máximo total de capturas diárias de crustáceos e outros organismos distintos dos referidos no número anterior é de 2 kg, não sendo contabilizado para o efeito o peso do exemplar maior.
+
+3 - Excepciona-se do disposto no número anterior o limite de captura diária dos mexilhões, cujo peso máximo é de 3 kg, e dos perceves, cujo peso máximo é de 1 kg.
+
+4 - Na pesca submarina, a captura de bodião, Labrus bergylta, está limitada a dois exemplares, por dia e por praticante.
+
+###### Artigo 8.º — Contra-ordenações
+
+As violações ao disposto no presente diploma constituem contra-ordenações puníveis nos termos do artigo 14.º do [Decreto-Lei n.º 246/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2000-553876), de 29 de Setembro, aplicando-se o respectivo regime sancionatório.
+
+###### Artigo 9.º — Competições desportivas
+
+1 - O disposto nos artigos 6.º e 7.º da presente portaria não se aplica às competições de pesca desportiva.
+
+2 - O disposto no n.º 3 do artigo 4.º da presente portaria não se aplica às competições de pesca desportiva na modalidade de pesca à linha.
+
+###### Artigo 10.º — (Revogado.)
+
+###### Artigo 11.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+## ANEXO I — (Revogado.)
+
+## ANEXO II — Espécies passíveis de apanha
+
+[a que se refere a alínea a) do n.º 1 do artigo 5.º]
+
+Burriés, Gibulla spp., Littorina litorea e Monodonta lineata.
+
+Lapas, Patella spp.
+
+Mexilhões, Mytillus spp.
+
+Navalheiras, Liocarcinus spp. e Necora spp.
+
+Ouriços-do-mar, Paracentrotus lividus, Echinus spp. e Spharechinus granularis.
+
+Perceve, Pollicipes pollicipes.
+
+Polvo, Octopus vulgaris.
+
+## ANEXO III — Tamanhos mínimos e parâmetros para a sua medição
+
+(a que se refere o n.º 2 do artigo 6.º)
+
+Lapas, Patella spp. - 3,5 cm, distância máxima entre os bordos da concha.
+
+Mexilhões, Mytillus spp. - 6,5 cm, dimensão maior da valva esquerda (face externa).
+
+Navalheiras, Liocarcinus spp. e Necora spp. - 6 cm, largura máxima da carapaça medida perpendicularmente à sua mediana ântero-posterior.

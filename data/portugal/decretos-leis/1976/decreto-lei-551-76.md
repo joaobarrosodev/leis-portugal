@@ -1,0 +1,207 @@
+---
+schema_version: '1.0'
+id: pt:dre:430425:por
+title: Decreto-Lei n.º 551/76
+short_title: null
+summary: Extingue o Tribunal Colectivo dos Géneros Alimentícios
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça - Gabinete do Ministro
+proposing_entity: null
+official_number: 551/76
+official_date: null
+publication_date: '1976-07-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 162/1976, Série I de 1976-07-13
+  number: '162'
+  series: I
+  supplement: null
+  pages: 1541 - 1543
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16200/15411543.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '430425'
+  dre_path: /dr/detalhe/decreto-lei/551-1976-430425
+  internal: pt:dre:430425:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/551-1976-430425
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/551-1976-430425
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:55:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 31667f6729e4387396c2461d4162344a5106ea9a7ff5c3640cfb4e728695fe4d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:55:55Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alimentação
+- Extinção de Serviços
+- Fiscalização
+- Ministério da Justiça
+- Produto Alimentar
+- Transferência de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:122434535:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:409128:por
+  label: "Alterados os nºs. 1 e 4 do art. 6º e o art. 9º pelo DEC LEI.689/76.20.09.1976.MJ, DR.IS [221] de 20.09.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/689-1976-409128
+  date: '1976-09-20'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:55:55Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 551/76
+
+de 13 de Julho
+
+A Constituição da República Portuguesa proíbe a existência de tribunais com competência exclusiva para o julgamento de certas categorias de crimes - artigo 213.º, n.º 3.
+
+Criado, essencialmente, com vista à repressão das infracções contra a saúde pública, muito embora posteriormente lhe fosse atribuída competência para conhecer de outras infracções, o Tribunal Colectivo dos Géneros Alimentícios é um tribunal especial, actualmente dependente do Ministério da Administração Interna e, como tal, terá de ser extinto.
+
+A existência deste Tribunal já era fonte de alguma controvérsia mesmo no domínio do regime deposto em 25 de Abril de 1974, não faltando quem sustentasse a sua inconstitucionalidade.
+
+Apesar disso, só a partir daquela data se abriu caminho para a sua extinção a curto prazo, sendo certo que o Programa do Movimento das Forças Armadas desde logo previu a extinção de tribunais especiais na nova ordem jurídica a instituir.
+
+O plano de acção do Ministério da Justiça previa, por seu turno, a extinção do Tribunal Colectivo dos Géneros Alimentícios e a passagem para os tribunais comuns de jurisdição ordinária das respectivas atribuições.
+
+Segundo este plano, a inspecção, fiscalização e perícias manter-se-iam, porém, no âmbito do Ministério da Economia, embora se salientasse a conveniência de unificar a legislação substantiva subjacente, o que só poderia ser obra conjunta daquele Ministério, e dos Ministérios da Administração Interna, da Justiça e dos Assuntos Sociais.
+
+Por despacho do Ministro da Justiça de 26 de Fevereiro de 1976, foi constituído um grupo de trabalho com a missão de elaborar um anteprojecto de diploma necessário à extinção do referido Tribunal e à passagem das suas atribuições para os tribunais comuns de jurisdição ordinária.
+
+Foi com base nas conclusões e sugestões desse grupo de trabalho que se estruturou o presente diploma.
+
+Além do objectivo principal a atingir - extinção do Tribunal Colectivo dos Géneros Alimentícios -, houve que resolver diversos problemas, desde a regulamentação da forma de processo aplicável ao tipo de infracções compreendidas na competência do mesmo Tribunal até à colocação do promotor de Justiça e à inserção dos funcionários, passando pelas providências adequadas em matéria de transferência de arquivos e livros.
+
+Entendeu-se que não seria justificado criar novos tribunais, ainda que de competência tão-somente especializada, para o julgamento das infracções até aqui da competência do órgão extinto.
+
+O eventual acréscimo de serviço que possa resultar para os tribunais comuns, em alguns casos, terá de ser solucionado por outros meios, de resto previstos na lei, em benefício da mais perfeita realização do princípio constitucional e da comodidade dos povos.
+
+Não se julgou oportuno, por outro lado, e dadas as dificuldades que implicaria, introduzir, desde já, reformas de fundo em certos aspectos da problemática do combate às infracções cujo julgamento era, até aqui, da competência do Tribunal extinto e que carecem de estudo mais aturado.
+
+Estão neste caso a legislação relativa à investigação daquelas infracções e a lei substantiva aplicável.
+
+Estes aspectos postulam, com efeito, delicados problemas de carácter técnico e de preparação profissional, por um lado, e a reforma, mais vasta, da lei penal, por outro, pelo que terão de aguardar melhor oportunidade.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º É extinto o Tribunal Colectivo dos Géneros Alimentícios, e as suas atribuições passam para os tribunais comuns de jurisdição ordinária.
+
+Art. 2.º - 1. Mantém-se em vigor a legislação referente à instrução dos processos relativos a infracções que eram da competência do Tribunal extinto, sem prejuízo do disposto nos números seguintes.
+
+2. A instrução preparatória será realizada, sob a direcção do juiz de instrução, pelas entidades a quem competia, até 4 de Maio de 1976, a direcção da mesma.
+
+3. Na direcção da instrução preparatória compete, nomeadamente, ao juiz:
+
+a) Presidir aos actos de instrução em que o arguido deva estar presente e aos restantes, sempre que o julgue conveniente;
+
+b) Autorizar a realização de quaisquer diligências a efectuar pela entidade que realizar a instrução preparatória, mediante a aprovação de um plano de instrução;
+
+c) Determinar a realização de quaisquer diligências ou proceder directamente à sua realização.
+
+4. Finda a instrução preparatória, serão os autos remetidos ao tribunal territorialmente competente para conhecer da infracção segundo as regras do Código de Processo Penal.
+
+Art. 3.º - 1. Remetido o processo a juízo, observar-se-ão as normas relativas ao processo correccional em tudo o que não for regulado pelos números seguintes.
+
+2. O número de testemunhas a oferecer pela acusação e pela defesa não poderá exceder a oito, por cada infracção, quando haja lugar a pena de prisão, e a três, por cada infracção, se a pena aplicável for apenas a de multa.
+
+3. Quando a infracção for apenas punível com multa, é admitido o pagamento voluntário desta, depois de recebida a acusação e em qualquer fase do processo.
+
+4. É obrigatóra a comparência do arguido a julgamento quando ao mesmo seja aplicável pena de prisão e, tratando-se de pena de multa, sempre que o juiz o determine.
+
+Art. 4.º - 1. A matéria de tributação regular-se-á pelas normas estabelecidas no Código das Custas Judiciais para o processo correccional.
+
+2. As receitas cobradas em juízo terão o destino fixado na lei geral, salvo qualquer destinação fixada em lei especial.
+
+3. As multas e as custas, quando não pagas no prazo legal, serão cobradas através do processo de execução por custas.
+
+Art. 5.º - 1. O actual promotor de Justiça junto do Tribunal extinto será colocado, se o requerer, no Ministério da Administração Interna ou no Ministério do Comércio Interno, em lugar compatível com as suas habilitações literárias, a sua categoria, actual vencimento e tempo de serviço.
+
+2. Quando a colocação se efectue no Ministério do Comércio Interno, serão, ainda, factores atendíveis a experiência e preparação especializadas, decorrentes do desempenho do actual cargo.
+
+3. Na falta de requerimento, o promotor de Justiça ficará na situação de adido no Ministério da Administração Interna.
+
+Art. 6.º - 1. Os actuais funcionários do Tribunal extinto serão colocados no Ministério da Justiça, em efectividade de serviço, atendendo-se à sua actual categoria, vencimentos e tempo de serviço.
+
+2. Os terceiros-oficiais do mesmo Tribunal serão equiparados, para todos os efeitos, a ajudantes de escrivão.
+
+3. Os funcionários referidos nos números anteriores terão preferência no preenchimento de lugares em quaisquer tribunais com sede em Lisboa, desde que o requeiram.
+
+4. Os funcionários judiciais que, em comissão de serviço, desempenhem funções no Tribunal extinto regressam ao seu quadro de origem e terão preferência no preenchimento de lugares da sua categoria na comarca de Lisboa.
+
+Art. 7.º - 1. No prazo de vinte dias, a contar da entrada em vigor deste diploma, os processos pendentes no Tribunal extinto serão remetidos ao tribunal que for competente nos termos do n.º 4 do artigo 2.º
+
+2. Os processos relativos a réus presos ou em cumprimento da pena serão, porém, remetidos no prazo de dez dias.
+
+Art. 8.º Os valores das cauções, ou de outra natureza, respeitantes a processos do Tribunal extinto serão transferidos ou remetidos para ou ao tribunal que for competente, nos termos do n.º 4 do artigo 2.º, e nos prazos referidos no artigo anterior.
+
+Art. 9.º - 1. Os processos e livros arquivados, instaurados ou iniciados há mais de trinta anos serão remetidos ao Arquivo Distrital de Lisboa.
+
+2. Os demais processos e livros em arquivo serão remetidos aos tribunais que forem competentes, nos termos do n.º 4 do artigo 2.º
+
+3. No cumprimento do estabelecido neste preceito observar-se-á o prazo fixado no n.º 1 do artigo 7.º
+
+Art. 10.º - 1. O cadastro individual dos antigos funcionários do Tribunal extinto e da antiga Inspecção-Geral dos Serviços de Fiscalização dos Géneros Alimentícios serão remetidos ao Comando-Geral da Polícia de Segurança Pública.
+
+2. Os processos individuais dos actuais funcionários do mesmo Tribunal serão remetidos à entidade que superintender nos serviços em que os funcionários venham a ser colocados, de harmonia com o presente diploma.
+
+3. Para cumprimento do disposto nos números anteriores, observar-se-á o prazo fixado no n.º 1 do artigo 7.º
+
+Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Joaquim Jorge Magalhães Mota.
+
+Promulgado em 1 de Julho de 1976.
+
+Publique-se.
+
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -1,0 +1,1552 @@
+---
+schema_version: '1.0'
+id: pt:dre:157050:por
+title: Decreto-Lei n.º 519-F2/79
+short_title: null
+summary: Aprova a nova Lei Orgânica dos Serviços dos Registos e do Notariado
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 519-F2/79
+official_date: null
+publication_date: '1979-12-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 299/1979, 9º Suplemento, Série I de 1979-12-29
+  number: '299'
+  series: I
+  supplement: 9º Suplemento
+  pages: 3446-(179) a 3446-(192)
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29909/01790192.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2018-12-26'
+version_history:
+  file: decreto-lei-519-f2-79.versoes.json
+  count: 20
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1979-12-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-04-20'
+    amending: pt:dre:681996:por
+    amending_title: Decreto-Lei n.º 71/80
+    changes:
+    - Adita Artigo 89.º-A
+    - Adita Artigo 89.º-B
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 30.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Artigo 54.º
+    - Altera Artigo 61.º
+    - Altera Artigo 66.º
+    - Altera Artigo 90.º
+  - date: '1980-10-12'
+    amending: pt:dre:462182:por
+    amending_title: Decreto-Lei n.º 449/80
+    changes:
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 36.º
+    - Altera Artigo 59.º
+    - Altera Artigo 88.º
+    - Altera Artigo 89.º-A
+  - date: '1983-11-07'
+    amending: pt:dre:443686:por
+    amending_title: Decreto-Lei n.º 397/83
+    changes:
+    - Altera Artigo 68.º
+  - date: '1985-05-13'
+    amending: pt:dre:152365:por
+    amending_title: Decreto-Lei n.º 145/85
+    changes:
+    - Revoga Artigo 20.º
+    - Revoga Artigo 73.º
+  - date: '1987-08-05'
+    amending: pt:dre:417220:por
+    amending_title: Decreto-Lei n.º 297/87
+    changes:
+    - Altera Artigo 38.º
+  - date: '1988-03-06'
+    amending: pt:dre:287458:por
+    amending_title: Decreto-Lei n.º 66/88
+    changes:
+    - Revoga Artigo 81.º
+  - date: '1989-02-27'
+    amending: pt:dre:441504:por
+    amending_title: Declaração; Decreto-Lei n.º 52/89
+    changes:
+    - Retifica Artigo 38.º
+    - Altera Artigo 38.º
+    - Altera Artigo 53.º
+  - date: '1990-03-22'
+    amending: pt:dre:333164:por
+    amending_title: Decreto-Lei n.º 92/90
+    changes:
+    - Altera Artigo 24.º
+    - Altera Artigo 30.º
+    - Altera Artigo 68.º
+    - Altera Artigo 71.º
+    - Altera Artigo 80.º
+    - Revoga Artigo 22.º
+    - Revoga Artigo 36.º
+    - Revoga Artigo 37.º
+    - Revoga Artigo 38.º
+    - Revoga Artigo 39.º
+  - date: '1990-10-05'
+    amending: pt:dre:554583:por
+    amending_title: Decreto-Lei n.º 312/90
+    changes:
+    - Altera Artigo 75.º
+  - date: '1991-04-07'
+    amending: pt:dre:621953:por
+    amending_title: Decreto-Lei n.º 131/91
+    changes:
+    - Altera Artigo 53.º
+    - Altera Artigo 59.º
+    - Revoga Artigo 43.º
+    - Revoga Artigo 60.º
+  - date: '1993-09-01'
+    amending: pt:dre:633943:por
+    amending_title: Decreto-Lei n.º 300/93
+    changes:
+    - Altera Artigo 28.º
+    - Altera Artigo 34.º
+  - date: '1995-09-15'
+    amending: pt:dre:521238:por
+    amending_title: Decreto-Lei n.º 131/95
+    changes:
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 51.º
+    - Revoga Artigo 64.º
+    - Revoga Artigo 86.º
+    - Revoga Artigo 87.º
+  - date: '1995-10-05'
+    amending: pt:dre:575724:por
+    amending_title: Decreto-Lei n.º 256/95
+    changes:
+    - Altera Artigo 26.º
+    - Altera Artigo 56.º
+  - date: '2006-06-30'
+    amending: pt:dre:620286:por
+    amending_title: Decreto-Lei n.º 76-A/2006
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+  - date: '2007-10-03'
+    amending: pt:dre:642527:por
+    amending_title: Decreto-Lei n.º 324/2007
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
+  - date: '2009-01-01'
+    amending: pt:dre:456492:por
+    amending_title: Decreto-Lei n.º 116/2008
+    changes:
+    - Adita Artigo 6.º-A
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+  - date: '2012-10-01'
+    amending: pt:dre:176071:por
+    amending_title: Decreto-Lei n.º 209/2012
+    changes:
+    - Altera Artigo 65.º
+  - date: '2015-11-01'
+    amending: pt:dre:70300348:por
+    amending_title: Decreto-Lei n.º 201/2015
+    changes:
+    - Altera Artigo 6.º-A
+  - date: '2018-12-26'
+    amending: pt:dre:117471256:por
+    amending_title: Decreto-Lei n.º 115/2018
+    changes:
+    - Revoga Artigo 21.º
+    - Revoga Artigo 23.º
+    - Revoga Artigo 24.º
+    - Revoga Artigo 25.º
+    - Revoga Artigo 26.º
+    - Revoga Artigo 27.º
+    - Revoga Artigo 28.º
+    - Revoga Artigo 29.º
+    - Revoga Artigo 30.º
+    - Revoga Artigo 31.º
+    - Revoga Artigo 32.º
+    - Revoga Artigo 33.º
+    - Revoga Artigo 35.º
+    - Revoga Artigo 40.º
+    - Revoga Artigo 41.º
+    - Revoga Artigo 42.º
+    - Revoga Artigo 44.º
+    - Revoga Artigo 46.º
+    - Revoga Artigo 47.º
+    - Revoga Artigo 48.º
+    - Revoga Artigo 49.º
+    - Revoga Artigo 50.º
+    - Revoga Artigo 76.º
+    - Revoga Artigo 88.º
+    - Revoga Artigo 89.º
+    - Revoga Artigo 89.º-A
+    - Revoga Artigo 89.º-B
+    - Revoga Artigo 90.º
+    - Revoga Artigo 91.º
+    - Revoga Artigo 94.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/519-f2/1979/p/cons/20190923/pt/html
+  oj: null
+  dre: '157050'
+  dre_path: /dr/detalhe/decreto-lei/519-f2-1979-157050
+  internal: pt:dre:157050:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050
+  metadata_url: https://data.dre.pt/eli/dec-lei/519-f2/1979/p/cons/20190923/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1979-117479575
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1979-117479575
+  retrieved_at: '2026-10-22T12:23:18Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: f85c327bd004be7cba3a64e75ec7c03fe713ba3533ab7c9b22dd28cacbdc3429
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:23:18Z'
+  notes: 20 versão(ões); histórico completo em decreto-lei-519-f2-79.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cartório Notarial
+- Cartório Privativo do Protesto de Letras
+- Conservador
+- Conservatória do Registo Automóvel
+- Conservatória do Registo Civil
+- Conservatória do Registo Comercial
+- Conservatória do Registo Predial
+- Conservatória dos Registos Centrais
+- Emolumento do Notariado
+- Formas de Provimento
+- Notário
+- Orgânica
+- Quadro de Pessoal
+- Remuneração
+- Serviços de Registo e Notariado
+relationships:
+- type: amended_by
+  target: pt:dre:681996:por
+  label: Adita Artigo 89.º-A; Adita Artigo 89.º-B; Altera Artigo 24.º; Altera Artigo 26.º; Altera Artigo 27.º; Altera Artigo
+    28.º; Altera Artigo 30.º; Altera Artigo 36.º; Altera Artigo 37.º; Altera Artigo 38.º; Altera Artigo 39.º; Altera Artigo
+    40.º; Altera Artigo 54.º; Altera Artigo 61.º; Altera Artigo 66.º; Altera Artigo 90.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1980-681996
+  date: '1980-04-15'
+- type: amended_by
+  target: pt:dre:462182:por
+  label: Altera Artigo 24.º; Altera Artigo 26.º; Altera Artigo 27.º; Altera Artigo 28.º; Altera Artigo 36.º; Altera Artigo
+    59.º; Altera Artigo 88.º; Altera Artigo 89.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1980-462182
+  date: '1980-10-07'
+- type: amended_by
+  target: pt:dre:443686:por
+  label: Altera Artigo 68.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686
+  date: '1983-11-02'
+- type: amended_by
+  target: pt:dre:152365:por
+  label: Revoga Artigo 20.º; Revoga Artigo 73.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1985-152365
+  date: '1985-05-08'
+- type: amended_by
+  target: pt:dre:417220:por
+  label: Altera Artigo 38.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1987-417220
+  date: '1987-07-31'
+- type: amended_by
+  target: pt:dre:287458:por
+  label: Revoga Artigo 81.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1988-287458
+  date: '1988-03-01'
+- type: amended_by
+  target: pt:dre:612412:por
+  label: Retifica Artigo 38.º; Altera Artigo 38.º; Altera Artigo 53.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-1989-612412
+  date: '1989-02-22'
+- type: amended_by
+  target: pt:dre:441504:por
+  label: Retifica Artigo 38.º; Altera Artigo 38.º; Altera Artigo 53.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao/1989-441504
+  date: '1989-04-29'
+- type: amended_by
+  target: pt:dre:333164:por
+  label: Altera Artigo 24.º; Altera Artigo 30.º; Altera Artigo 68.º; Altera Artigo 71.º; Altera Artigo 80.º; Revoga Artigo
+    22.º; Revoga Artigo 36.º; Revoga Artigo 37.º; Revoga Artigo 38.º; Revoga Artigo 39.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1990-333164
+  date: '1990-03-17'
+- type: amended_by
+  target: pt:dre:554583:por
+  label: Altera Artigo 75.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1990-554583
+  date: '1990-10-02'
+- type: amended_by
+  target: pt:dre:621953:por
+  label: Altera Artigo 53.º; Altera Artigo 59.º; Revoga Artigo 43.º; Revoga Artigo 60.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1991-621953
+  date: '1991-04-02'
+- type: amended_by
+  target: pt:dre:633943:por
+  label: Altera Artigo 28.º; Altera Artigo 34.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1993-633943
+  date: '1993-08-31'
+- type: amended_by
+  target: pt:dre:521238:por
+  label: Revoga Artigo 11.º; Revoga Artigo 12.º; Revoga Artigo 19.º; Revoga Artigo 51.º; Revoga Artigo 64.º; Revoga Artigo
+    86.º; Revoga Artigo 87.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1995-521238
+  date: '1995-06-06'
+- type: amended_by
+  target: pt:dre:575724:por
+  label: Altera Artigo 26.º; Altera Artigo 56.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1995-575724
+  date: '1995-09-30'
+- type: amended_by
+  target: pt:dre:145870:por
+  label: Altera Artigo 26.º; Altera Artigo 56.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1996-145870
+  date: '1996-12-26'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: Altera Artigo 5.º; Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: Altera Artigo 6.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:642527:por
+  label: Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-2007-642527
+  date: '2007-09-28'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: Adita Artigo 6.º-A; Altera Artigo 5.º; Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: amended_by
+  target: pt:dre:176071:por
+  label: Altera Artigo 65.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2012-176071
+  date: '2012-09-19'
+- type: amended_by
+  target: pt:dre:70300348:por
+  label: Altera Artigo 6.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2015-70300348
+  date: '2015-09-17'
+- type: amended_by
+  target: pt:dre:117471256:por
+  label: Revoga Artigo 21.º; Revoga Artigo 23.º; Revoga Artigo 24.º; Revoga Artigo 25.º; Revoga Artigo 26.º; Revoga Artigo
+    27.º; Revoga Artigo 28.º; Revoga Artigo 29.º; Revoga Artigo 30.º; Revoga Artigo 31.º; Revoga Artigo 32.º; Revoga Artigo
+    33.º; Revoga Artigo 35.º; Revoga Artigo 40.º; Revoga Artigo 41.º; Revoga Artigo 42.º; Revoga Artigo 44.º; Revoga Artigo
+    46.º; Revoga Artigo 47.º; Revoga Artigo 48.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256
+  date: '2018-12-21'
+article_structure:
+  article_count: 99
+  section_count: 22
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:23:18Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 519-F2/79
+
+Decreto-Lei n.º 519-F2/79
+
+de 29 de Dezembro
+
+A nova disciplina orgânica dos serviços dos registos e do notariado aproveitou, na medida julgada conveniente, a traça geral do sistema agora substituído, adaptando-o embora, com o desenvolvimento adequado, às necessidades orgânicas actuais.
+
+Das alterações introduzidas, as mais profundas respeitam à organização dos diversos serviços e muito especialmente a disciplina que passa a reger a situação dos seus funcionários.
+
+No que respeita à orgânica propriamente dita, faz-se notar a possibilidade de criação de conservatórias e cartórios em localidades que, embora não sendo sede de concelho, atinjam uma certa projecção sócio-económica, dando-se assim satisfação aos legítimos anseios das respectivas populações; criam-se também conservatórias de registo comercial em todos os concelhos onde existem conservatórias de registo predial, em regime de anexação com estas.
+
+Aponta-se ainda, neste domínio, para a abolição das secretarias notariais e das conservatórias divididas em secções.
+
+Mais significativas são porém as alterações introduzidas no sector do pessoal.
+
+Assim, procurou-se dignificar a função do conservador e notário reestruturando-se o condicionalismo exigido para o ingresso na respectiva carreira, com instituição de um curso de formação profissional com carácter teórico-prático, cuja frequência é subsidiada. Prevê-se ainda um mecanismo adequado à garantia de emprego de todos os que terminem o curso com aproveitamento, enquanto não se verificar o seu ingresso efectivo nos quadros de conservadores ou notários.
+
+No capítulo de remuneração procura-se elevar condignamente as letras correspondentes ao vencimento de categoria, ao mesmo tempo que se procede à revisão da participação emolumentar.
+
+No tocante ao exercício da advocacia por conservadores e notários, restringe-se aos de 3.ª classe enquanto providos em lugares da mesma classe, ressalvando-se, todavia, na medida do possível, situações já existentes, não enquadráveis no condicionalismo actual.
+
+Alteração de igual modo relevante operou-se no regime do anteriormente denominado pessoal auxiliar, que passa a designar-se genericamente por oficiais dos registos e do notariado.
+
+Além de se autonomizar em carreiras distintas os ajudantes e escriturários, prevê-se para esta última um sistema de promoção automática em função da antiguidade e da classificação de serviço.
+
+No que se refere à remuneração destes funcionários, adopta-se um sistema paralelo ao dos conservadores e notários, com subida significativa das letras e actualização da participação emolumentar.
+
+As medidas decretadas no presente diploma legislativo serão complementadas através de regulamento cuja publicação se prevê para breve.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+> Nota: [Decreto-Lei n.º 131/91 - Diário da República n.º 76/1991, Série I-A de 1991-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1991-621953) O pessoal a que se refere o presente diploma transita para as novas escalas salariais com efeitos a 1 de Janeiro de 1990
+
+### Capítulo I — Dos serviços dos registos e do notariado
+
+#### Secção I — Serviços externos dos registos e do notariado
+
+###### Artigo 1.º
+
+Os serviços externos dos registos e do notariado compreendem:
+
+a) A Conservatória dos Registos Centrais;
+
+b) As conservatórias do registo civil;
+
+c) As conservatórias do registo predial;
+
+d) As conservatórias do registo comercial;
+
+e) As conservatórias do registo automóvel;
+
+f) Os cartórios notariais;
+
+g) Os arquivos centrais.
+
+###### Artigo 2.º
+
+Para efeitos deste diploma consideram-se da mesma espécie:
+
+a) Os serviços de registos centrais e os de registo civil;
+
+b) Os registos predial, comercial e de automóveis;
+
+c) Os serviços do notariado e do protesto de letras.
+
+#### Secção II — Registos centrais
+
+###### Artigo 3.º
+
+1 - À Conservatória dos Registos Centrais compete, em especial:
+
+a) O registo central da nacionalidade e respectivo contencioso;
+
+b) O registo central do estado civil.
+
+2 - O registo central de escrituras e testamentos mantém-se na competência da Conservatória dos Registos Centrais, enquanto não for criado serviço próprio a instituir por portaria.
+
+3 - À Conservatória dos Registos Centrais compete ainda a organização da estatística anual dos actos de registo e do notariado, bem como emitir pareceres e executar outros trabalhos sobre matérias da sua especialidade e do registo civil em geral que lhe sejam cometidos por lei ou por despacho do director-geral dos Registos e do Notariado.
+
+###### Artigo 4.º
+
+1 - Podem existir arquivos centrais para onde serão transferidos, em termos a definir pela portaria de criação, livros findos dos actos de registo civil e notariais pertencentes às conservatórias e cartórios da área a fixar pela mesma portaria.
+
+2 - A transferência dos livros para o Arquivo Central do Porto mantém-se nos termos actuais até ser revista por portaria.
+
+3 - Aos arquivos centrais compete lavrar, nos livros neles arquivados, os averbamentos devidos e o serviço de passagem de certidões ou fotocópias que desses livros hajam de ser extraídas.
+
+4 - A rectificação de registos integrados em livros já pertencentes ao arquivo central são da competência destes serviços.
+
+5 - É também da competência dos arquivos centrais a transcrição de assentos nos termos do artigo 104.º do Código do Registo Civil, com referência a registos constantes de livros ali arquivados.
+
+#### Secção III — Conservatórias do registo civil, predial, comercial e de automóveis
+
+###### Artigo 5.º
+
+1 - Na sede de cada concelho do continente e das Regiões Autónomas existe uma conservatória do registo civil, do registo predial e do registo comercial, sem prejuízo do disposto nos n.os 2 e 3 deste artigo e no artigo seguinte.
+
+2 - Na área de cada concelho, na sede ou fora dela, pode haver mais de uma conservatória da mesma espécie, quando o volume de serviço o justifique.
+
+3 - Fora da sede do concelho só podem existir conservatórias em localidades que sejam sede de freguesia e tenham população superior a 30000 habitantes.
+
+> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), em vigor a partir de 2009-01-01
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30
+
+###### Artigo 6.º
+
+1 - Sempre que se justifique, podem ser criados novos serviços de registo ou reajustados os existentes.
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+4 - As alterações introduzidas na demarcação administrativa da área de qualquer concelho, bem como nos limites das respectivas freguesias, só são consideradas para fins de registo quando seja determinado por despacho do presidente do Instituto dos Registos e do Notariado, I. P.
+
+> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), em vigor a partir de 2009-01-01
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30
+
+###### Artigo 6.º-A
+
+1 - Os serviços de registo predial funcionam como repartições autónomas ou em regime de anexação.
+
+2 - Os actos de registo predial podem ser efectuados e os respectivos meios de prova obtidos em qualquer serviço do registo predial, independentemente da sua localização geográfica.
+
+3 - A competência para a prática dos actos previstos no número anterior pode ser atribuída a qualquer serviço de registos, através de despacho do presidente do Instituto dos Registos e do Notariado, I. P.
+
+4 - Quando o facto incidir sobre um prédio situado em mais do que uma freguesia:
+
+a) O pedido de registo pode ser apresentado por referência a qualquer delas;
+
+b) O registo é efetuado em todas, sem acréscimo emolumentar por este facto.
+
+> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2015-70300348), em vigor a partir de 2015-11-01
+
+> Aditado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), em vigor a partir de 2009-01-01
+
+###### Artigo 7.º
+
+1 - As conservatórias do registo comercial funcionam como repartições autónomas ou em regime de anexação com outras conservatórias.
+
+2 - Os actos do registo comercial podem ser efectuados e os respectivos meios de prova obtidos em qualquer conservatória do registo comercial, independentemente da sua localização geográfica.
+
+3 - A competência para a prática dos actos referidos no número anterior pode ser atribuída a qualquer conservatória de registos, através de despacho do presidente do Instituto dos Registos e do Notariado, I. P.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 324/2007 - Diário da República n.º 188/2007, Série I de 2007-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-2007-642527), em vigor a partir de 2007-10-03
+
+###### Artigo 8.º
+
+1 - Os actos relativos a veículos a motor e respectivos reboques podem ser efectuados e os respectivos meios de prova obtidos em qualquer conservatória do registo de veículos, independentemente da sua localização geográfica.
+
+2 - A competência para a prática dos actos previstos no número anterior pode ser atribuída a qualquer conservatória de registos, através de despacho do presidente do Instituto dos Registos e do Notariado, I. P.
+
+3 - Às conservatórias do registo de veículos é aplicável o disposto no n.º 1 do artigo 7.º
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 324/2007 - Diário da República n.º 188/2007, Série I de 2007-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-2007-642527), em vigor a partir de 2007-10-03
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 254/96 - Diário da República n.º 298/1996, Série I-A de 1996-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1996-145870), em vigor a partir de 1996-07-14
+
+###### Artigo 9.º
+
+As actuais conservatórias divididas em secções são transformadas em serviços autónomos à medida que se torne possível a sua transferência para instalações separadas.
+
+###### Artigo 10.º
+
+Quando as circunstâncias o aconselhem, pode ser determinada a fusão numa só de duas ou mais conservatórias da mesma espécie com sede na mesma localidade.
+
+#### Secção IV — Postos de registo civil
+
+###### Artigo 11.º
+
+1 - Nos estabelecimentos hospitalares de grande movimento pode funcionar um posto de registo civil.
+
+2 - Cada posto hospitalar pode servir mais do que um estabelecimento dependente da mesma administração.
+
+3 - Os postos de registo civil são designados pelo nome do estabelecimento hospitalar da respectiva sede e pertencem à conservatória do registo civil em cuja área estejam situados.
+
+4 - Os postos hospitalares com sede nas cidades de Lisboa e Porto permanecem dependentes das conservatórias a que actualmente pertencem, enquanto a área destas não for alterada.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 324/2007 - Diário da República n.º 188/2007, Série I de 2007-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-2007-642527), em vigor a partir de 2007-10-03
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 131/95 - Diário da República n.º 131/1995, Série I-A de 1995-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1995-521238), em vigor a partir de 1995-09-15
+
+###### Artigo 12.º
+
+Os postos de registo civil actualmente existentes em freguesias rurais podem ser extintos à medida que vagar o respectivo lugar de ajudante, sob proposta fundamentada do director-geral dos Registos do Notariado.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 131/95 - Diário da República n.º 131/1995, Série I-A de 1995-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1995-521238), em vigor a partir de 1995-09-15
+
+#### Secção V — Cartórios notariais
+
+###### Artigo 13.º
+
+1 - Na sede de cada concelho do continente e das regiões autónomas há um ou mais cartórios notariais.
+
+2 - Fora da sede dos concelhos podem existir cartórios notariais em localidades que sejam sede de freguesia e tenham população superior a 30000 habitantes.
+
+3 - Os cartórios notariais são competentes para praticar, dentro do concelho onde se situem, quaisquer actos notariais, ainda que respeitem a pessoas domiciliadas ou a bens situados fora da área do respectivo concelho.
+
+4 - Em Lisboa e Porto há cartórios privativos para os serviços de protesto de letras e outros títulos de crédito.
+
+5 - Os cartórios a que se refere o número anterior têm competência para lavrar termos de abertura de sinal e efectuar reconhecimentos de letra e assinatura apostas em documentos particulares, bem como para lavrar termos de autenticação dos mesmos documentos, autenticar fotocópias, fazer procurações e arquivar documentos a pedido das partes.
+
+###### Artigo 14.º
+
+Os serviços notariais que actualmente funcionam em regime de secretaria são transformados em cartórios autónomos à medida que se tornar possível a sua transferência para instalações separadas.
+
+#### Secção VI — Serviços anexados
+
+###### Artigo 15.º
+
+1 - Os serviços de registo e do notariado da mesma sede, que normalmente tenham reduzido movimento, podem ser anexados entre si, pela forma que as circunstâncias mostrem mais conveniente.
+
+2 - Os serviços anexados funcionam com pessoal, receitas e despesas comuns e só em casos excepcionais podem funcionar em instalações separadas.
+
+3 - O regime de anexação pode cessar ou ser modificado logo que a evolução do movimento dos serviços ou outras circunstâncias especiais o justifiquem.
+
+#### Secção VII — Classificação das conservatórias e cartórios
+
+###### Artigo 16.º
+
+1 - As conservatórias do registo civil e predial e os cartórios notariais são divididos em três classes.
+
+2 - A classe de cada conservatória ou cartório é fixada em função do movimento e rendimento do respectivo serviço.
+
+3 - As conservatórias do registo comercial e de automóveis, quando funcionem em regime de anexação, têm a classe das conservatórias a que estão anexadas.
+
+#### Secção VIII — Instalação e funcionamento dos serviços
+
+###### Artigo 17.º
+
+1 - A instalação dos serviços dos registos e do notariado constitui encargo do Estado, quando não assumido pelas respectivas autarquias locais.
+
+2 - Enquanto o Estado não dispuser de instalações adequadas, mantém-se a instalação, em regime de gratuitidade, dos serviços em imóveis ou parte de imóveis pertencentes a autarquias locais, competindo àquele as despesas de conservação.
+
+###### Artigo 18.º
+
+Considera-se transmitida para o Estado a posição de arrendatário de prédio onde estejam instalados serviços dos registos e do notariado, sempre que nos contratos de arrendamento figurem como arrendatário as autarquias locais, o conservador ou o notário.
+
+###### Artigo 19.º
+
+A instalação dos postos de registo civil constitui encargo da junta de freguesia ou do estabelecimento hospitalar da sua sede.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 131/95 - Diário da República n.º 131/1995, Série I-A de 1995-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1995-521238), em vigor a partir de 1995-09-15
+
+###### Artigo 20.º
+
+É aplicável ao horário de serviço das conservatórias e cartórios notariais o regime previsto na lei geral, na parte que não for contrariado pelo regulamento do presente diploma.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 145/85 - Diário da República n.º 105/1985, Série I de 1985-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1985-152365), em vigor a partir de 1985-05-13
+
+### Capítulo II — Do pessoal
+
+#### Secção I — Pessoal das conservatórias e cartórios notariais
+
+###### Artigo 21.º
+
+1 - O pessoal das conservatórias e cartórios notariais divide-se em:
+
+a) Pessoal dirigente, que compreende as categorias de conservador e notário;
+
+b) Oficiais de registo e de notariado, que compreendem as categorias de primeiro, segundo e terceiro-ajudantes e as de escriturário superior de 1.ª e 2.ª classes:
+
+c) Pessoal auxiliar, que compreende as categorias de telefonista e contínuo.
+
+2 - Na Conservatória dos Registos Centrais, além das categorias previstas no número anterior, há ainda as de conservador-adjunto, conservador auxiliar e chefe de secção.
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+###### Artigo 22.º
+
+1 - Podem ser autorizados, pelos conservadores e notários, a prestar serviço nas repartições de registo e do notariado, com vista a adquirir prática dos serviços, estagiários, no máximo de dois por repartição, pelo período improrrogável de um ano, sendo o estágio válido por três anos contados a partir do seu termo.
+
+2 - Os estagiários não fazem parte do quadro e não auferem remuneração.
+
+> Revogado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 92/90 - Diário da República n.º 64/1990, Série I de 1990-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1990-333164), em vigor a partir de 1990-03-22
+
+#### Secção II — Conservadores e notários
+
+###### Artigo 23.º
+
+1 - Cada conservatória e cada cartório notarial é chefiado, respectivamente, por um conservador e por um notário.
+
+2 - Os serviços anexados funcionam, conforme os casos, sob a chefia de um conservador ou conservador-notário.
+
+3 - Os arquivos centrais são chefiados por conservadores do registo civil.
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+###### Artigo 24.º
+
+1 - São condições de ingresso na carreira de conservadores e de notários:
+
+a) Ser cidadão português:
+
+b) Ser licenciado em Direito por Universidades portuguesas ou possuir habilitação equivalente à face da lei portuguesa;
+
+c) Ter frequentado, com aproveitamento, o curso de formação profissional previsto na presente lei para o exercício de funções de conservadores e notários ou ter aprovação válida em concurso de habilitação, nos termos da lei anterior:
+
+d) Reunir os demais requisitos de ingresso na função pública.
+
+2 - Ficam dispensados da condição prevista na alínea c) do número anterior:
+
+1) Os magistrados judiciais e do Ministério Público com, pelo menos, cinco anos de bom e efectivo serviço;
+
+2) Os licenciados em Direito com classificação mínima de 14 valores nos cursos complementares a que se refere o Decreto-Lei n.º 3485, de 21 de Agosto de 1945;
+
+3) Os inspectores e os técnicos dos serviços técnicos da Direcção-Geral dos Registos e do Notariado, bem como os chefes dos mesmos serviços, com mais de cinco anos de bom e efectivo serviço.
+
+3 - Os primeiros-ajudantes e segundos-ajudantes. licenciados em Direito, com mais de cinco anos de bom e efectivo serviço como ajudantes, beneficiam do regime especial de frequência do curso de formação profissional de conservadores e de notários, a prever no regulamento do presente diploma.
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 92/90 - Diário da República n.º 64/1990, Série I de 1990-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1990-333164), em vigor a partir de 1990-03-22
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 449/80 - Diário da República n.º 232/1980, Série I de 1980-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1980-462182), em vigor a partir de 1980-10-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 71/80 - Diário da República n.º 88/1980, Série I de 1980-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1980-681996), em vigor a partir de 1980-04-20
+
+###### Artigo 25.º
+
+Os conservadores e notários são funcionários públicos nomeação definitiva e exercem as suas funções na área de competência da respectiva conservatória ou cartório.
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+###### Artigo 26.º
+
+1 - Em caso de vacatura do lugar, licença ou de impedimento que se presuma superior a 30 dias, os conservadores e notários são substituídos pelo conservador, notário ou adjunto que para o efeito for nomeado ou destacado.
+
+2 - Na impossibilidade de a substituição se efectuar nos termos previstos no número anterior, o director-geral designa para o efeito um ajudante da repartição.
+
+3 - Se o impedimento for previsivelmente de longa duração, o director-geral pode determinar o provimento interino do lugar.
+
+4 - A substituição por período não superior a 30 dias é assegurada pelo adjunto ou, na sua falta, pelo ajudante da repartição designado pelo director-geral.
+
+5 - No caso previsto no número anterior, em conservatórias com mais de um conservador e nas secretarias notariais os conservadores e notários substituem-se entre si.
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 256/95 - Diário da República n.º 227/1995, Série I-A de 1995-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1995-575724), em vigor a partir de 1995-10-05
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 449/80 - Diário da República n.º 232/1980, Série I de 1980-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1980-462182), em vigor a partir de 1980-10-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 71/80 - Diário da República n.º 88/1980, Série I de 1980-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1980-681996), em vigor a partir de 1980-04-20
+
+###### Artigo 27.º
+
+1 - O exercício do cargo de conservador ou notário é incompatível:
+
+a) Com qualquer função pública remunerada, excepto os casos expressamente previstos na lei:
+
+b) Com a administração, direcção ou gerência de sociedades ou estabelecimentos comerciais e suas agências:
+
+c) Com o exercício da advocacia, excepto quanto a conservadores e notários de 3.ª classe providos em lugares da mesma classe situados na sede da comarca.
+
+2 - O exercício das actividades a que se refere a alínea b) do número anterior pode ser autorizado aos conservadores pelo Ministro da Justiça, desde que dele não resultem prejuízos para a função.
+
+3 - Os conservadores e notários que, em virtude do disposto na alínea c) do n.º 1 do presente artigo deixem de poder exercer a advocacia continuam a poder fazê-lo até 31 de Dezembro de 1980, se e enquanto não forem transferidos.
+
+4 - O Ministro da Justiça pode prorrogar o prazo previsto no número anterior por períodos de três anos, caso a caso, desde que não haja prejuízo para o exercício do cargo, considerando a classe do lugar e as classificações de serviço do conservador ou notário, se e enquanto não for transferido.
+
+5 - O exercício da advocacia, nos casos em que é permitido, pode ser proibido pelo Ministro da Justiça aos conservadores e notários que, por causa dele, descuidem os serviços a seu cargo ou se utilizem deste em proveito da sua clientela de advogado.
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 449/80 - Diário da República n.º 232/1980, Série I de 1980-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1980-462182), em vigor a partir de 1980-10-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 71/80 - Diário da República n.º 88/1980, Série I de 1980-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1980-681996), em vigor a partir de 1980-04-20
+
+###### Artigo 28.º
+
+1 - Os conservadores e notários são integrados em três quadros distintos: um de conservadores do registo civil, outro de conservadores do registo predial e o terceiro de notários.
+
+2 - Os funcionários pertencentes a cada um dos quadros são agrupados em três classes, segundo a sua antiguidade e classificação de serviço.
+
+3 - O número de funcionários de cada classe é igual ao número de lugares da mesma classe.
+
+4 - (Revogados).
+
+5 - (Revogados).
+
+6 - Os conservadores dos arquivos centrais e os conservadores auxiliares da Conservatória dos Registos Centrais fazem parte do quadro de conservadores do registo civil.
+
+7 - Os conservadores privativos dos registos comercial e de automóveis fazem parte do quadro do registo predial.
+
+8 - Os funcionários providos em serviços anexados nos termos do artigo 15.º são colocados simultaneamente nos quadros a que pertençam os lugares que ocupam, enquanto durar a acumulação das respectivas funções.
+
+9 - Para efeitos de antiguidade na classe, o serviço dos funcionários a que se refere o número anterior é contado separadamente em cada um dos serviços.
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 300/93 - Diário da República n.º 204/1993, Série I-A de 1993-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1993-633943), em vigor a partir de 1993-09-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 449/80 - Diário da República n.º 232/1980, Série I de 1980-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1980-462182), em vigor a partir de 1980-10-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 71/80 - Diário da República n.º 88/1980, Série I de 1980-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1980-681996), em vigor a partir de 1980-04-20
+
+###### Artigo 29.º
+
+O acesso dos conservadores e notários à classe imediata é realizado à medida que haja vagas abertas no respectivo quadro, segundo a ordem por que forem graduados pelo conselho técnico da Direcção-Geral dos Registos e do Notariado, de harmonia com a sua antiguidade e classificação de serviço.
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+###### Artigo 30.º
+
+1 - Os lugares de conservador e notário são providos mediante concurso documental aberto perante a Direcção-Geral dos Registos e do Notariado nos termos previstos no regulamento do presente diploma, salvo em caso de transferência imposta como pena em processo disciplinar, nos termos da lei geral.
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 92/90 - Diário da República n.º 64/1990, Série I de 1990-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1990-333164), em vigor a partir de 1990-03-22
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 71/80 - Diário da República n.º 88/1980, Série I de 1980-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1980-681996), em vigor a partir de 1980-04-20
+
+###### Artigo 31.º
+
+Os funcionários que sejam nomeados conservadores ou notários, nos termos do n.º 2 do artigo antecedente, ocupam nos respectivos quadros o lugar correspondente ao tempo de serviço que tiverem nas funções anteriores, independentemente da classe ou do lugar em que forem providos. Se a nomeação for para quadro a que já tiverem pertencido ser-lhes-á contado ainda o tempo de serviço prestado nesse quadro.
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+###### Artigo 32.º
+
+1 - Os magistrados judiciais e do Ministério Público nomeados conservadores ou notários ingressam no quadro de 3.ª classe do serviço em que venham a ser colocados, sendo-lhes contado, para efeito de graduação na classe, o serviço prestado no quadro a que anteriormente pertenciam, até ao máximo de três anos.
+
+2 - O disposto no número anterior é aplicável ainda aos funcionários, originários daquelas magistraturas, já pertencentes aos quadros, quando não lhes tenha sido contado o tempo de serviço prestado naquela qualidade.
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+###### Artigo 33.º
+
+1 - Os conservadores e notários que transitem de um para outro quadro ingressam no quadro de 3.ª classe do serviço em que venham a ser colocados.
+
+2 - Aos conservadores e notários que transitem de um quadro para outro apenas é contado, para efeitos de graduação na classe do quadro em que ingressem, o tempo de serviço prestado no quadro anterior, até ao máximo de três anos.
+
+3 - Aos funcionários que, tendo transitado de quadro, venham a regressar ao quadro de origem será contado o tempo de serviço anteriormente prestado neste quadro, para efeitos de graduação na classe.
+
+4 - Há trânsito de quadro quando os funcionários saem de um quadro e entram noutro de espécie diferente ou quando ingressam noutro quadro, ainda que permaneçam, simultaneamente, naquele a que pertencem.
+
+5 - Os funcionários de serviços anexados que venham a ser colocados em serviço diferente de alguma das espécies a cujo quadro pertençam são eliminados do quadro a que deixem de pertencer.
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+###### Artigo 34.º
+
+1 - O lugar de conservador da Conservatória dos Registos Centrais é provido, em comissão de serviço, por períodos trienais, por despacho do Ministro da Justiça, de entre conservadores do registo civil com mais de oito anos de serviço e com classificação não inferior a Bom com distinção.
+
+2 - Os lugares de conservador-adjunto da Conservatória dos Registos Centrais são providos, em comissão de serviço, por períodos trienais, por despacho do Ministro da Justiça, de entre conservadores do registo civil com mais de cinco anos de serviço e classificação não inferior a Bom.
+
+3 - Ao provimento dos lugares de conservador auxiliar da Conservatória dos Registos Centrais é aplicável o disposto no n.º 1 do artigo 30.º do presente diploma.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 300/93 - Diário da República n.º 204/1993, Série I-A de 1993-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1993-633943), em vigor a partir de 1993-09-01
+
+###### Artigo 35.º
+
+1 - A nomeação de conservador e notário em comissão de serviço carece de autorização do Ministro da Justiça, ouvida a Direcção-Geral dos Registos e do Notariado.
+
+2 - A autorização a que se refere o número antecedente não pode ser concedida por período superior a três anos e pode ser renovada apenas uma vez, salvo se respeitar a comissão a exercer em serviço dependente do Ministério da Justiça.
+
+3 - O lugar dos comissionados pode ser provido interinamente enquanto durar a comissão.
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+#### Secção III — Adjuntos estagiários e adjuntos de conservadores e notários
+
+###### Artigo 36.º
+
+1 - Ao concurso de habilitação para conservadores e notários a que se refere a alínea c) do n.º 1 do artigo 24.º são admitidos os licenciados em Direito que, como adjuntos estagiários, tenham concluído, com nota não inferior a Bom, o tempo de prática dos serviços de registos e do notariado exigidos por lei.
+
+2 - As condições de admissão ao estágio e duração deste, bem como as condições do exercício efectivo do cargo de adjunto estagiário, serão estabelecidas em regulamento.
+
+> Revogado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 92/90 - Diário da República n.º 64/1990, Série I de 1990-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1990-333164), em vigor a partir de 1990-03-22
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 449/80 - Diário da República n.º 232/1980, Série I de 1980-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1980-462182), em vigor a partir de 1980-10-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 71/80 - Diário da República n.º 88/1980, Série I de 1980-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1980-681996), em vigor a partir de 1980-04-20
+
+###### Artigo 37.º
+
+1 - O número de licenciados a admitir a estágio em cada ano será fixado pela Direcção-Geral dos Registos e do Notariado, segundo as necessidades do serviço.
+
+2 - Os adjuntos estagiários têm direito a um subsídio mensal de formação correspondente a 60% do ordenado de um conservador ou notário de 3.ª classe em lugar da mesma classe.
+
+3 - Na fase dos estágios, os adjuntos estagiários participam na actividade registral e notarial sob a responsabilidade do conservador ou do notário encarregado do estágio, coadjuvando-o na preparação dos actos que lhe forem confiados.
+
+> Revogado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 92/90 - Diário da República n.º 64/1990, Série I de 1990-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1990-333164), em vigor a partir de 1990-03-22
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 71/80 - Diário da República n.º 88/1980, Série I de 1980-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1980-681996), em vigor a partir de 1980-04-20
+
+###### Artigo 38.º
+
+1 - Concluídos os estágios com aproveitamento, os adjuntos estagiários classificados pelo menos de Bom serão colocados, para completamento da sua formação profissional, mediante despacho do director-geral dos Registos e do Notariado, com a categoria de adjunto de conservador ou notário, nos serviços centrais ou periféricos mais adequados ao completamento dessa formação ou mais carenciados desse tipo de colaboração.
+
+2 - Os adjuntos dos conservadores e notários podem ser designados substitutos de conservadores ou notários, na ausência dos mesmos, por despacho do director-geral dos Registos e do Notariado.
+
+3 - Os adjuntos dos conservadores e notários, enquanto se mantiverem nesta situação, têm direito a um vencimento correspondente à letra E da tabela geral de vencimentos da função pública, sem prejuízo do disposto no artigo 56.º do presente diploma.
+
+4 - Os adjuntos dos conservadores e notários e os adjuntos estagiários que não se apresentarem aos primeiros concursos de habilitação realizados após a sua colocação referida no n.º 1 ou o termo do estágio cessam o seu vínculo com a Administração e ficam obrigados a restituir ao Cofre dos Conservadores, Notários e Funcionários de Justiça os vencimentos que hajam auferido, nos termos a fixar em regulamento.
+
+> Revogado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 92/90 - Diário da República n.º 64/1990, Série I de 1990-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1990-333164), em vigor a partir de 1990-03-22
+
+> Retificado pelo/a [Declaração - Diário da República n.º 99/1989, 1º Suplemento, Série I de 1989-04-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-441504), em vigor a partir de 1989-02-27, produz efeitos a partir de 1989-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 52/89 - Diário da República n.º 44/1989, Série I de 1989-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-1989-612412), em vigor a partir de 1989-02-27, produz efeitos a partir de 1989-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 297/87 - Diário da República n.º 174/1987, Série I de 1987-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1987-417220), em vigor a partir de 1987-08-05
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 71/80 - Diário da República n.º 88/1980, Série I de 1980-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1980-681996), em vigor a partir de 1980-04-20
+
+###### Artigo 39.º
+
+1 - Os adjuntos dos conservadores e notários, colocados nos termos referidos no n.º 1 do artigo 38.º, que obtiverem aprovação no concurso de habilitação permanecem como adjuntos dos conservadores ou notários até à sua colocação nos quadros.
+
+2 - Os adjuntos dos conservadores e notários que, injustificadamente, não concorrerem às vagas abertas no período máximo de um ano após a realização dos concursos ou não tomem posse do lugar para que foram nomeados e, bem assim, os que, também injustificadamente, requeiram a exoneração ou passagem à licença ilimitada antes de decorridos cinco anos sobre a colocação a que se refere o n.º 1 do artigo 38.º cessam o seu vínculo com a Administração e ficam igualmente obrigados a restituir ao Cofre dos Conservadores, Notários e Funcionários de Justiça os vencimentos que hajam auferido, nos termos a fixar em regulamento.
+
+> Revogado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 92/90 - Diário da República n.º 64/1990, Série I de 1990-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1990-333164), em vigor a partir de 1990-03-22
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 71/80 - Diário da República n.º 88/1980, Série I de 1980-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1980-681996), em vigor a partir de 1980-04-20
+
+#### Secção IV — Ajudantes e escriturários
+
+###### Artigo 40.º
+
+1 - Os ajudantes das conservatórias e cartórios são funcionários públicos de nomeação definitiva e são integrados em três quadros distintos: um de registo civil, outro de registo predial e o terceiro de notariado.
+
+2 - Os ajudantes pertencentes a cada um dos quadros são agrupados em três classes, segundo a sua antiguidade e classificação de serviço.
+
+3 - Sem prejuízo do disposto no artigo 89.º-A do presente diploma, o número de ajudantes de cada classe é igual ao número de lugares da mesma categoria.
+
+4 - Os ajudantes colocados em serviços anexados pertencem aos quadros das espécies de serviços em que estejam colocados enquanto durar a acumulação das respectivas funções.
+
+5 - Os ajudantes colocados em serviços anexados que venham a ser transferidos para serviço diferente de alguma ou algumas das espécies a cujo quadro pertençam são eliminados do quadro a que deixem de pertencer.
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 71/80 - Diário da República n.º 88/1980, Série I de 1980-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1980-681996), em vigor a partir de 1980-04-20
+
+###### Artigo 41.º
+
+1 - Os ajudantes que transitem de um para outro quadro ingressam no quadro de 3.ª classe da espécie do serviço em que venham a ser colocados, sendo-lhes apenas contado, para efeitos de graduação, na classe do quadro em que ingressem, o tempo de serviço prestado no quadro anterior, até ao máximo de três anos.
+
+2 - Aos ajudantes que, tendo transitado de um quadro para outro, regressem ao quadro de origem ser-lhes-á contado o tempo de serviço prestado neste quadro para efeito de graduação na classe.
+
+3 - Os ajudantes em serviços anexados que venham a ser colocados em serviço diferente de alguma das espécies a cujo quadro pertençam são eliminados do quadro a que deixem de pertencer.
+
+4 - aplicável aos ajudantes a regra do n.º 4 do artigo 33.º
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+###### Artigo 42.º
+
+O acesso dos ajudantes à classe imediata é realizado à medida que haja vagas abertas no respectivo quadro, segundo a ordem por que forem graduados pelo conselho técnico da Direcção-Geral dos Registos e do Notariado, de harmonia com a sua antiguidade e classificação de serviço.
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+###### Artigo 43.º
+
+1 - Os escriturários são funcionários públicos de provimento definitivo e, seja qual for o serviço a que pertençam, são agrupados num quadro único dividido em três classes, segunda, primeira e superior, conforme a sua antiguidade e classificação de serviço.
+
+2 - O acesso à classe imediata fica condicionado à permanência de cinco anos de serviço na classe anterior, com classificação não inferior a Bom, segundo a ordem de graduação estabelecida pelo conselho técnico da Direcção-Geral dos Registos e do Notariado.
+
+3 - A categoria do lugar corresponde sempre a classe pessoal do escriturário que o ocupar.
+
+> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 131/91 - Diário da República n.º 76/1991, Série I-A de 1991-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1991-621953), em vigor a partir de 1991-04-07
+
+###### Artigo 44.º
+
+Os lugares de oficial de registo e notariado são providos nos termos previstos no regulamento do presente diploma, salvo o caso de transferência imposta como pena em processo disciplinar.
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+###### Artigo 45.º
+
+1 - Cada repartição de serviços de registo ou notariado tem um quadro de pessoal com a composição determinada pelo regulamento do presente diploma.
+
+2 - Enquanto se verificar a existência de serviços organizados em regime de secretaria, os oficiais de registo e do notariado são comuns a todas as secções ou cartórios que a constituem.
+
+###### Artigo 46.º
+
+Os oficiais dos registos e do notariado gozam de todos os direitos e estão sujeitos a todos os deveres dos funcionários dos quadros permanentes dos serviços do Estado.
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+###### Artigo 47.º
+
+É aplicável aos oficiais dos registos e do notariado o disposto no artigo 35.º do presente diploma.
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+###### Artigo 48.º
+
+Os oficiais dos registos e do notariado estão sujeitos às incompatibilidades e inibições estabelecidas na lei geral para os funcionários públicos e não podem exercer a profissão de solicitador, advogado, comerciante ou industrial, salvo, quanto às duas últimas, quando autorizados pelo Ministro da Justiça, ouvida a Direcção-Geral dos Registos e do Notariado.
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+#### Secção V — Chefes de secção
+
+###### Artigo 49.º
+
+Os chefes de secção da Conservatória dos Registos Centrais são nomeados, por consulta documental, de entre os primeiros-ajudantes do quadro do registo civil com, pelo menos, três anos de bom e efectivo serviço.
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+#### Secção VI — Telefonistas e contínuos
+
+###### Artigo 50.º
+
+Os telefonistas e contínuos dos serviços externos ficam sujeitos ao regime previsto na lei geral.
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+#### Secção VII — Chefes dos postos
+
+###### Artigo 51.º
+
+1 - Os postos hospitalares são chefiados por um escriturário do quadro da conservatória a que o posto pertença, designado pelo director-geral dos Registos e do Notariado mediante proposta do respectivo conservador.
+
+2 - Na sua falta ou impedimento, o chefe do posto hospitalar é substituído por outro funcionário da conservatória designado nos termos do número antecedente.
+
+3 - Os postos rurais são chefiados por ajudante de posto, nomeado pelo director-geral sob proposta do respectivo conservador, de preferência entre professores do magistério primário.
+
+4 - No seu impedimento o ajudante de posto rural é substituído pelo presidente da junta de freguesia a que o posto pertença.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 131/95 - Diário da República n.º 131/1995, Série I-A de 1995-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1995-521238), em vigor a partir de 1995-09-15
+
+### Capítulo III — Da remuneração dos funcionários e da receita dos serviços
+
+#### Secção I — Remuneração dos funcionários
+
+###### Artigo 52.º
+
+O vencimento dos conservadores e notários é constituído por uma parte fixa ou ordenado e pela participação no rendimento emolumentar da respectiva repartição.
+
+###### Artigo 53.º
+
+1 - (Revogado).
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+4 - (Revogado).
+
+5 - O ordenado equivale, para todos os efeitos, ao vencimento de categoria e é abonado sempre que, segundo a lei geral, se mantém o direito a esse vencimento.
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 131/91 - Diário da República n.º 76/1991, Série I-A de 1991-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1991-621953), em vigor a partir de 1991-04-07
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 52/89 - Diário da República n.º 44/1989, Série I de 1989-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-1989-612412), em vigor a partir de 1989-02-27, produz efeitos a partir de 1989-01-01
+
+###### Artigo 54.º
+
+1 - A participação emolumentar é determinada para conservadores e notários pela aplicação das seguintes percentagens sobre a receita mensal líquida:
+
+a) Até 15000$00 na 3.ª classe, até 20000$00 na 2.ª classe e até 25000$00 na 1.ª classe, 30%;
+
+b) Sobre o excedente até 45000$00 na 3.ª classe, 60000$00 na 2.ª classe e 70000$00 na 1.ª classe, 10%;
+
+c) Sobre o excedente até 100000$00 na 3.ª classe, 200000$00 na 2.ª classe e 400000$00 na 1.ª classe, 1%;
+
+d) Sobre o excedente, para notários, até 200000$00 na 3.ª classe, 400000$00 na 2.ª classe e 800000$00 na 1.ª classe, 0,5%.
+
+e) Em qualquer das situações, ficam assegurados aos conservadores e notários os mínimos de 6800$00, 8800$00 e 10800$00, respectivamente para os de 3.ª, 2.ª e 1.ª classes, sendo a diferença suportada pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
+
+2 - A participação emolumentar do conservador dos registos centrais é determinada por aplicação das percentagens previstas nas alíneas a) a d) do número anterior; aos conservadores-adjuntos e conservadores auxiliares será abonada pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, a título de participação emolumentar, uma importância equivalente a 80% e 40%, respectivamente, da participação apurada para o conservador.
+
+3 - Nas conservatórias divididas em secções e nas secretarias notariais a importância a considerar para a aplicação das percentagens referidas no n.º 1 é a que resultar da divisão da receita líquida da repartição pelo número dos seus conservadores ou notários.
+
+4 - Da receita mensal líquida cobrada nos arquivos centrais cabe ao respectivo conservador a participação de 4% revertendo o restante para as conservatórias ou cartórios a cujos livros respeitem os serviços que o hajam produzido.
+
+5 - A participação emolumentar corresponde ao vencimento de exercício e só é de abonar nos casos em que a este haja direito.
+
+6 - As participações emolumentares previstas nos números anteriores são abonadas pela Direcção-Geral dos Registos e do Notariado.
+
+> Alterado pelo/a Artigo 155.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 71/80 - Diário da República n.º 88/1980, Série I de 1980-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1980-681996), em vigor a partir de 1980-04-20
+
+###### Artigo 55.º
+
+1 - O conservador ou notário que exerça funções em serviços anexados recebe somente o ordenado de um dos lugares acumulados, mas tem direito à participação emolumentar de todos eles, tomando-se a soma das respectivas receitas líquidas para a determinação da percentagem aplicável.
+
+2 - Se os lugares anexados forem de classe diferente, atender-se-á ao da classe superior para determinação do ordenado e aplicação dos escalões relativos à participação emolumentar.
+
+###### Artigo 56.º
+
+1 - Sempre que se verifique a substituição do conservador ou notário nos termos dos nos 1 e 2 do artigo 26.º, o substituto tem direito:
+
+a) A 70% da participação emolumentar corespondente ao lugar e ao período da substituição, se for conservador ou notário designado em acumulação com as suas funções próprias;
+
+b) À participação emolumentar por inteiro, se for conservador, notário ou adjunto nomeado ou destacado em função exclusiva de substituição;
+
+c) À opção pela participação emolumentar correspondente ao lugar e ao período da substituição, se for ajudante.
+
+2 - No caso de provimento interino, o substituto tem direito à participação emolumentar correspondente ao lugar.
+
+3 - Salvo no caso de provimento interino, o substituto tem direito, nos termos da lei geral, às despesas de transporte que tiver de efectuar por força da substituição e, se a substituição se der em acumulação com a chefia da repartição sediada noutra localidade, a ajudas de custo.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 256/95 - Diário da República n.º 227/1995, Série I-A de 1995-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1995-575724), em vigor a partir de 1995-10-05
+
+###### Artigo 57.º
+
+1 - No caso de provimento interino dos lugares de conservador e notário, o vencimento a atribuir é o correspondente à média dos ordenados da classe do lugar e da classe pessoal do interino, mais a participação emolumentar que respeitar ao lugar.
+
+2 - Sempre que o interino não pertença aos quadros de conservadores ou notários, a classe pessoal a considerar, para efeitos do disposto no número anterior, é a de 3.ª
+
+###### Artigo 58.º
+
+Aos conservadores, notários e demais funcionários que sejam desligados do serviço a aguardar aposentação é abonada pela Direcção-Geral dos Registos e do Notariado a pensão provisória que lhes seja fixada pela Caixa Geral de Aposentações.
+
+> Alterado pelo/a Artigo 155.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2017-01-01
+
+###### Artigo 59.º
+
+1 - (Revogado).
+
+2 - (Revogado).
+
+3 - O ordenado equivale, para todos os efeitos, ao vencimento de categoria e é abonado sempre que, segundo a lei geral, se mantém o direito a esse vencimento.
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 131/91 - Diário da República n.º 76/1991, Série I-A de 1991-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1991-621953), em vigor a partir de 1991-04-07
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 449/80 - Diário da República n.º 232/1980, Série I de 1980-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1980-462182), em vigor a partir de 1980-10-12
+
+###### Artigo 60.º
+
+O ordenado dos chefes de secção da Conservatória dos Registos Centrais é o correspondente à letra I.
+
+> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 131/91 - Diário da República n.º 76/1991, Série I-A de 1991-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1991-621953), em vigor a partir de 1991-04-07
+
+###### Artigo 61.º
+
+1 - Aos oficiais de registo e do notariado é abonada, a título de participação emolumentar, uma percentagem da receita global líquida da totalidade dos serviços apurada em cada mês a favor do Cofre dos Conservadores, Notários e Funcionários de Justiça.
+
+2 - A percentagem a que se refere o número anterior, a proporção da sua distribuição pelo pessoal que a ela tenha direito e as normas a que devem obedecer a respectiva atribuição e liquidação são fixadas por portaria do Ministro da Justiça e periodicamente revistas.
+
+3 - Também é abonada percentagem emolumentar, fixada nos números antecedentes, ao chefe de secção da Conservatória dos Registos Centrais.
+
+4 - A participação emolumentar é considerada, para todos os efeitos, vencimento de exercício.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 71/80 - Diário da República n.º 88/1980, Série I de 1980-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1980-681996), em vigor a partir de 1980-04-20
+
+###### Artigo 62.º
+
+Às telefonistas e aos contínuos é atribuído o vencimento estabelecido na lei geral para a categoria correspondente.
+
+###### Artigo 63.º
+
+1 - Os emolumentos especiais cobrados pela realização de actos de registo civil e do notariado fora das repartições e os cobrados pela elaboração e feitura de requerimentos a que se refere o n.º 1 do artigo 68.º do presente diploma revertem, como emolumentos de natureza pessoal sujeito aos descontos legais, em proveito dos funcionários da repartição, na proporção dos respectivos ordenados.
+
+2 - O montante máximo dos emolumentos pessoais, calculado nos termos do número anterior, é fixado por despacho do Ministro da Justiça sob proposta do director-geral.
+
+3 - A parte excedente da receita total reverte a favor dos Serviços Sociais do Ministério da Justiça.
+
+###### Artigo 64.º
+
+1 - Os chefes dos postos rurais que não pertençam ao quadro do pessoal da respectiva conservatória têm direito:
+
+a) A metade dos emolumentos correspondentes aos assentos de nascimento e de óbito realizados com base em autos de declarações lavradas no posto;
+
+b) À totalidade dos emolumentos cobrados pela requisição, realizada por seu intermédio de certidões cuja passagem seja da competência de conservatória diversa daquela a que o posto pertence.
+
+2 - Os chefes dos postos hospitalares recebem o vencimento correspondente à categoria que possuam no quadro da conservatória a que pertençam.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 131/95 - Diário da República n.º 131/1995, Série I-A de 1995-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1995-521238), em vigor a partir de 1995-09-15
+
+#### Secção II — Receitas e despesas
+
+###### Artigo 65.º
+
+1 - Sem prejuízo do disposto no Decreto Regulamentar n.º 55/80, de 8 de outubro, e em lei especial, e com exceção da receita cobrada a título de emolumentos pessoais, os emolumentos cobrados em cada mês, por cada conservatória, secretaria ou cartório notarial e arquivo central, incluindo, no que respeita às conservatórias e cartórios, a parte que lhes couber na receita do arquivo central, constituem integralmente receita do Instituto de Gestão Financeira e Patrimonial da Justiça.
+
+2 - (Revogado).
+
+3 - Os emolumentos arrecadados pelos serviços de registo e do notariado estão unicamente sujeitos aos descontos previstos neste diploma.
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2012-176071), em vigor a partir de 2012-10-01
+
+> Alterado pelo/a Artigo 155.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2017-01-01
+
+###### Artigo 66.º
+
+1 - Ficam a cargo da Direcção-Geral dos Registos e do Notariado as seguintes despesas:
+
+a) Os ordenados dos conservadores e notários;
+
+b) Os vencimentos do pessoal da Conservatória dos Registos Centrais, bem como todas as demais despesas necessárias ao funcionamento desta repartição;
+
+c) Os vencimentos dos adjuntos de conservadores e notários;
+
+d) Os vencimentos dos oficiais de registo e do notariado, bem como dos interinamente nomeados;
+
+e) Os vencimentos, ajudas de custo e despesas de transporte dos inspectores extraordinários e dos secretários dos serviços de inspecção;
+
+f) Os vencimentos dos contínuos e telefonistas;
+
+g) O pagamento de abono de família e de prestações complementares ao pessoal referido nas alíneas anteriores;
+
+h) O pagamento de ajudas de custo e despesas de transportes devidas aos funcionários destacados;
+
+i) O subsídio de formação dos adjuntos estagiários;
+
+j) O pagamento da participação emolumentar que venha a ser atribuída aos oficiais de registo e do notariado e aos chefes de secção da Conservatória dos Registos Centrais;
+
+l) Os vencimentos do pessoal eventual em regime de prestação de serviço;
+
+m) As ajudas de custo e despesas de transporte devidas ao director-geral dos Registos e do Notariado pelas suas deslocações em serviço;
+
+n) (Revogada).
+
+o) O fornecimento de fardamento para o pessoal auxiliar;
+
+p) A reparação, quando devida nos termos da lei geral, aos funcionários do registo e do notariado, do vencimento perdido por motivo de procedimento disciplinar ou criminal;
+
+q) O pagamento dos encargos inerentes à inscrição do País como membro da União Internacional do Notariado Latino e as despesas de representação oficial nos respectivos congressos, bem como nas reuniões da Comissão dos Assuntos Europeus da referida União;
+
+r) A reforma e a restauração dos livros e verbetes das conservatórias ou cartórios quando a sua perda, destruição ou deterioração não sejam imputáveis à negligência dos funcionários;
+
+s) (Revogada).
+
+t) A aquisição de mobiliário para as conservatórias e cartórios;
+
+u) O fornecimento dos livros necessários ao início e funcionamento de novas conservatórias e cartórios e as demais despesas com a transcrição oficiosa dos registos em todos os casos de alteração de área de competência territorial das conservatórias do registo predial;
+
+v) O pagamento da despesa com a edição do Boletim da Direcção-Geral dos Registos e do Notariado, bem como de outras publicações que a mesma Direcção-Geral venha a fazer, e o encargo do fornecimento de um Boletim, atrás referido, a cada repartição;
+
+x) As demais despesas expressamente previstas no presente diploma.
+
+2 - (Revogado).
+
+3 - Nas despesas de apetrechamento e aquisição de mobiliário considera-se compreendido o fornecimento de todos os objectos de utilização permanente necessários ao funcionamento dos serviços.
+
+> Alterado pelo/a Artigo 155.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 71/80 - Diário da República n.º 88/1980, Série I de 1980-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1980-681996), em vigor a partir de 1980-04-20
+
+###### Artigo 67.º
+
+1 - Serão satisfeitos por força das taxas de reembolso os encargos dos serviços resultantes de:
+
+a) Aquisição e encadernação dos livros, incluindo o previsto no artigo 30.º do Código do Registo Civil;
+
+b) Aquisição de impressos, papeís, artigos de expediente e qualquer outro material de equipamento de secretaria;
+
+c) Manutenção e funcionamento de fotocopiadores;
+
+d) Aquisição do Diário da República, 1.ª série;
+
+e) Conservação e reparação corrente do mobiliário:
+
+f) Comunicações, compreendendo as despesas de correio e telefone, limpeza de instalações, aquecimento, e consumo de água e electricidade, quando este encargo não seja assumido pelas câmaras municipais;
+
+g) Encargo com o pessoal de limpeza.
+
+2 - Para fazer face às despesas referidas no n.º 1, os conservadores e notários apenas podem despender o quantitativo mensal máximo que, por despacho do Ministro da Justiça, for respectivamente fixado, consoante se trate de repartições de 1.ª 2.ª e 3.ª classe.
+
+Nas secretarias e conservatórias divididas em secções, o montante a despender é igual ao número de cartórios ou secções, multiplicado pelo quantitativo correspondente à classe da repartição.
+
+3 - Sendo insuficiente o quantitativo mensal das taxas de reembolso arrecadadas para cobrir a despesa efectuada, o saldo negativo transitará para o mês seguinte.
+
+4 - No fim de cada trimestre o saldo positivo que vier a ser apurado é depositado a favor dos Serviços Sociais do Ministério da Justiça e o saldo negativo é suportado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
+
+5 - O saldo das taxas de reembolso constitui receita dos Serviços Sociais do Ministério da Justiça.
+
+> Alterado pelo/a Artigo 155.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2017-01-01
+
+### Capítulo IV — Disposições diversas
+
+###### Artigo 68.º
+
+Os requerimentos, auto-requerimentos, requisições e outros pedidos legalmente indispensáveis para a realização de qualquer acto de registo, requisição de certidão ou actos afins e, bem assim, os directamente relacionados com actos de registo ou notariais que devam ser apresentados em outras repartições, bem como os impressos necessários para o efeito, podem, a pedido dos interessados e sem prejuízo dos demais serviços, ser elaborados nas conservatórias e cartórios notariais pelos respectivos funcionários, mediante o pagamento de emolumentos a fixar por portaria do Ministro da Justiça.
+
+> Alterado pelo/a Artigo 60.º do/a [Decreto-Lei n.º 92/90 - Diário da República n.º 64/1990, Série I de 1990-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1990-333164), em vigor a partir de 1990-03-22
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 397/83 - Diário da República n.º 252/1983, Série I de 1983-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), em vigor a partir de 1983-11-07
+
+###### Artigo 69.º
+
+1 - Das decisões proferidas pelos conservadores e notários sobre reclamações contra erros de conta, bem como da sua recusa a efectuar algum registo nos termos requeridos ou a praticar qualquer acto da sua competência, podem os interessados reclamar para o director-geral dos Registos e do Notariado.
+
+2 - Se a decisão do conservador ou notário admitir recurso para o tribunal da comarca, a faculdade de reclamação só pode ser exercida antes de interposto o recurso a que haja lugar, nos termos das disposições legais aplicáveis.
+
+3 - A reclamação deve ser interposta no prazo de sessenta dias a contar do recebimento da comunicação do despacho dado ao requerido.
+
+4 - Do despacho proferido pelo director-geral sobre a reclamação não há recurso; mas quando for desfavorável ao reclamante pode este, no prazo de oito dias, a contar da notificação daquele despacho, interpor o recurso que couber da decisão inicial do conservador ou notário.
+
+5 - Se forem postos, simultaneamente, recurso para o tribunal e reclamação hierárquica ou, sucessivamente, mas intentado o recurso contencioso antes de julgada a reclamação hierárquica, apenas poderá prosseguir seus termos o recurso contencioso, considerando-se prejudicada a reclamação.
+
+###### Artigo 70.º
+
+1 - As contas de emolumentos e demais encargos legais devidos por actos de registo ou do notariado que não forem voluntariamente pagos são exigíveis pela forma prescrita para a execução por custas judiciais.
+
+2 - A execução terá por base o certificado da conta, passado pelo conservador ou notário, e será promovida pelo Ministério Público.
+
+3 - É competente para a execução o tribunal da comarca a que pertence a sede da respectiva conservatória ou cartório.
+
+4 - São solidariamente responsáveis pelo pagamento da conta as partes, nos actos notariais, e o requerente ou declarante, nos actos de registo.
+
+5 - Excluem-se do disposto no número anterior os mandatários, os gestores de negócios cuja gestão seja ratificada e os que fizerem as declarações para registo oficiosamente.
+
+###### Artigo 71.º
+
+1 - A Direcção-Geral dos Registos e do Notariado assume a responsabilidade solidária que caiba ao Estado pelos danos que os trabalhadores dos serviços dos registos causem a terceiros no exercício das suas funções nos termos da lei, sem prejuízo do direito de regresso contra esses trabalhadores.
+
+2 - O disposto no número anterior aplica-se aos trabalhadores dos cartórios notariais públicos, enquanto a licença do respectivo cartório não seja atribuída a notário, nos termos do Estatuto do Notariado, aprovado pelo Decreto-Lei n.º 26/2004, de 4 de Fevereiro.
+
+3 - O direito de regresso contra os funcionários directamente responsáveis é exercido pela Direcção-Geral dos Registos e do Notariado nos termos da lei, podendo ser representado, para o efeito, pelo Ministério Público.
+
+> Alterado pelo/a Artigo 155.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 60.º do/a [Decreto-Lei n.º 92/90 - Diário da República n.º 64/1990, Série I de 1990-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1990-333164), em vigor a partir de 1990-03-22
+
+###### Artigo 72.º
+
+À receita emolumentar arrecadada pelos serviços prestados nas conservatórias do registo civil, como intermediárias da requisição de bilhetes de identidade, será deduzida mensalmente a despesa realizada com a transferência das taxas correspondentes aos bilhetes requisitados.
+
+###### Artigo 73.º
+
+1 - O Ministro da Justiça pode determinar que os livros e impressos em uso nas conservatórias e cartórios notariais passem a ser fornecidos por um serviço dependente do Cofre dos Conservadores, Notários e Funcionários de Justiça.
+
+2 - Os livros das conservatórias e cartórios são legalizados pelos respectivos conservadores e notários.
+
+3 - O saldo líquido do produto da venda de livros e impressos constitui receita dos Serviços Sociais do Ministério da Justiça.
+
+4 - Havendo alteração de impressos, mas verificando-se a sua existência em armazém, pode o Ministro da Justiça autorizar, por despacho, o uso dos modelos antigos até se esgotarem.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 145/85 - Diário da República n.º 105/1985, Série I de 1985-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1985-152365), em vigor a partir de 1985-05-13
+
+###### Artigo 74.º
+
+1 - É obrigatória a existência de selo branco em todas as repartições do registo e do notariado.
+
+2 - O selo é em relevo, de forma circular, e contêm o escudo nacional e a designação da respectiva repartição.
+
+3 - A aposição do selo branco junto da assinatura do conservador, notário, adjunto ou ajudante em qualquer documento emanado da repartição tem o mesmo valor que o reconhecimento notarial.
+
+### Capítulo V — Disposições finais e transitórias
+
+###### Artigo 75.º
+
+1 - Sempre que se mostre conveniente, o director-geral dos Registos e do Notariado pode, ouvido o interessado, autorizar o destacamento temporário de qualquer conservador, notário ou oficial de registos e do notariado para prestar serviço em outra repartição de espécie igual aquela a que pertencem.
+
+2 - Ao funcionário destacado é abonada, além das ajudas de custo e despesas de transporte devidas, uma participação emolumentar a fixar, caso a caso, por despacho do director-geral dos Registos e do Notariado, quando não haja lugar à reversão de vencimento de exercício nos termos da lei geral.
+
+3 - O destacamento de conservadores ou notários dentro da mesma localidade ou para localidade próxima pode ser determinado em regime de acumulação.
+
+4 - O tempo de serviço prestado no lugar para que o funcionário seja destacado vale para todos os efeitos legais como sendo prestado no lugar de origem.
+
+5 - O destacamento a que se refere o n.º 1 pode efectuar-se independentemente da espécie da repartição quando o interesse do serviço o justifique e desde que haja anuência dos responsáveis dos respectivos serviços.
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 312/90 - Diário da República n.º 228/1990, Série I de 1990-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1990-554583), em vigor a partir de 1990-10-05
+
+###### Artigo 76.º
+
+Sempre que circunstâncias excepcionais o justifiquem, pode o director-geral autorizar a admissão temporária de pessoal eventual em regime de prestação de serviços, nos termos em que a lei geral o permitir.
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+###### Artigo 77.º
+
+1 - Quando esteja atrasado o serviço de inspecção, pode o Ministro da Justiça, sob proposta do director-geral, nomear inspectores extraordinários, em comissão temporária de serviço, escolhendo-os de entre os conservadores e notários ou funcionários do quadro da Direcção-Geral dos Registos e do Notariado qualificados para o efeito.
+
+2 - Sempre que se verifique necessidade de proceder a inspecções extraordinárias com o fim de apreciar especificamente a contabilidade de algum cartório ou conservatória, pode o Ministro da Justiça nomear, sob proposta do director-geral dos Registos e do Notariado, inspectores-contadores qualificados para o efeito, em comissão temporária de serviço, cujo vencimento é pago pela Direcção-Geral dos Registos e do Notariado.
+
+> Alterado pelo/a Artigo 155.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2017-01-01
+
+###### Artigo 78.º
+
+1 - O Ministro da Justiça pode autorizar, sob proposta do director-geral, a requisição de qualquer conservador ou notário para, temporariamente, exercer funções nos serviços técnicos da Direcção-Geral dos Registos e do Notariado, quando as necessidades do serviço assim o exijam.
+
+2 - Aos funcionários requisitados é abonado pela Direcção-Geral dos Registos e do Notariado o vencimento, correspondente à média dos dois últimos anos, do lugar que ocupam nos serviços externos.
+
+3 - Nas condições previstas nos números anteriores podem igualmente ser requisitados para exercer funções nos serviços centrais ajudantes ou escriturários de conservatórias e cartórios.
+
+4 - O tempo de serviço prestado pelo pessoal a que se refere o número anterior nos serviços centrais da Direcção-Geral dos Registos e do Notariado é equiparado, para todos os efeitos, ao prestado nos quadros das conservatórias e cartórios notariais a que pertença.
+
+> Alterado pelo/a Artigo 155.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2017-01-01
+
+###### Artigo 79.º
+
+1 - Os inspectores dos registos e do notariado podem ser auxiliados na execução dos serviços afectos à inspecção por secretários escolhidos de entre os oficiais de registo e do notariado.
+
+2 - O pagamento do vencimento dos funcionários a que se refere o número anterior compete à Direcção-Geral dos Registos e do Notariado.
+
+3 - O desempenho das funções de secretário dos inspectores considera-se, para todos os efeitos, como serviço prestado no quadro a que o funcionário pertença.
+
+> Alterado pelo/a Artigo 155.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2017-01-01
+
+###### Artigo 80.º
+
+1 - Os membros do Conselho Técnico dos Registos e do Notariado têm direito ao abono de senhas de presença de quantitativo a fixar por despacho conjunto dos Ministros das Finanças e da Justiça e, quando exerçam funções fora de Lisboa, a ajudas de custo e despesas de transporte.
+
+2 - Por cada parecer técnico elaborado, ao vogal do conselho relator do respectivo processo é paga pela Direcção-Geral dos Registos e do Notariado uma retribuição, a fixar pelo Ministro da Justiça, sob proposta devidamente fundamentada do director-geral.
+
+> Alterado pelo/a Artigo 155.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 60.º do/a [Decreto-Lei n.º 92/90 - Diário da República n.º 64/1990, Série I de 1990-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1990-333164), em vigor a partir de 1990-03-22
+
+###### Artigo 81.º
+
+Os conservadores e notários colocados em repartições de 3.ª classe das ilhas adjacentes auferem o vencimento acrescido de um terço do vencimento correspondente à classe do lugar, a contar do dia de posse e entrada em exercício, até àquele em que chegue à comarca o Diário da República que publicar o despacho da sua transferência para a repartição de classe superior ou do continente; se o funcionário transferido se encontrar no continente em gozo de licença, o direito ao vencimento acrescido cessa no dia da publicação do despacho de transferência, o qual também não é devido pelo tempo de licença excedente a trinta dias em cada ano.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/88 - Diário da República n.º 50/1988, Série I de 1988-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1988-287458), em vigor a partir de 1988-03-06
+
+###### Artigo 82.º
+
+1 - Os funcionários dos registos e do notariado têm direito ao reembolso, se não optarem pelo recebimento adiantado, das despesas com a sua viagem e a do agregado familiar e transporte de bagagem nas deslocações:
+
+a) Entre o continente e as regiões autónomas;
+
+b) Entre qualquer das regiões autónomas.
+
+2 - O disposto no número anterior não é aplicável aos casos em que a deslocação se deva a motivo de natureza disciplinar.
+
+3 - Os encargos a que se refere o n.º 1 são suportados pela Direcção-Geral dos Registos e do Notariado.
+
+> Alterado pelo/a Artigo 155.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2017-01-01
+
+###### Artigo 83.º
+
+1 - Para fins de abono de despesas de viagem a que se refere o artigo antecedente, o funcionário, no prazo de 15 dias a contar da publicação do despacho de nomeação, deve enviar à Direcção-Geral dos Registos e do Notariado declaração especificada das pessoas de família de que pretenda fazer-se acompanhar, indicando a data em que deseja embarcar.
+
+2 - Se, depois de recebidas as importâncias a que tem direito, o funcionário, por qualquer motivo, não seguir o seu destino, fica obrigado à reposição integral do que haja recebido, no prazo de 15 dias a contar da data em que, para o efeito, seja avisado pela Direcção-Geral dos Registos e do Notariado, sob pena de responsabilidade disciplinar e cobrança coerciva.
+
+3 - Os funcionários a quem sejam abonadas as importâncias para viagem são responsáveis pelo seu reembolso se antes de dois anos de serviço nas ilhas adjacentes, a seu pedido, vierem a ser exonerados, colocados na inactividade ou transferidos para lugar no continente.
+
+> Alterado pelo/a Artigo 155.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2017-01-01
+
+###### Artigo 84.º
+
+1 - O Ministro da Justiça, sempre que as circunstâncias o tornem indispensável, pode autorizar a aquisição de casas destinadas a habitação dos conservadores e notários e demais pessoal de conservatórias e cartórios na sede dos respectivos lugares a expensas do Instituto de Gestão Financeira e Patrimonial da Justiça.
+
+2 - Ao conselho directivo do Instituto de Gestão Financeira e Patrimonial da Justiça compete fixar, em cada caso, a renda a pagar pelo funcionário, de harmonia com o custo da casa.
+
+3 - Às casas a que se refere este artigo e ao pagamento da renda é aplicável, com as necessárias adaptações, o disposto no n.º 4 do artigo 167.º e nos artigos 168.º e 169.º do Estatuto Judiciário.
+
+> Alterado pelo/a Artigo 155.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2017-01-01
+
+###### Artigo 85.º
+
+É mantida a área de competência actual das conservatórias do registo predial em funcionamento até que, em relação a cada concelho, seja determinada a adaptação prevista no n.º 1 do artigo 6.º
+
+###### Artigo 86.º
+
+As delegações do registo civil e do registo predial são extintas à medida que forem incorporadas nas respectivas conservatórias ou transformadas em conservatórias autónomas, conforme o volume de serviço e respectivo rendimento, através de portaria.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 131/95 - Diário da República n.º 131/1995, Série I-A de 1995-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1995-521238), em vigor a partir de 1995-09-15
+
+###### Artigo 87.º
+
+1 - Os actuais ajudantes de postos hospitalares ingressam no quadro da conservatória de que o posto depende com a classe de escriturário de 1.ª ou 2.ª, conforme as suas habilitações literárias e tempo de serviço.
+
+2 - Apenas os actuais ajudantes que perfaçam dez anos de bom e efectivo serviço habilitados com a escolaridade obrigatória ou os que tenham o curso geral dos liceus ou equivalente com um ano de bom e efectivo serviço podem ingressar com a classe de escriturários de 1.ª
+
+3 - Os ajudante que sejam funcionários dos serviços hospitalares podem manter-se na situação actual ou optar pelo ingresso no quadro dos oficiais dos registos e do notariado da conservatória a que o posto pertence, desde que tenham as condições legais para o efeito.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 131/95 - Diário da República n.º 131/1995, Série I-A de 1995-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1995-521238), em vigor a partir de 1995-09-15
+
+###### Artigo 88.º
+
+1 - Os lugares do quadro paralelo criado pela Portaria n.º 513/78, de 6 de Setembro, são transformados em lugares dos quadros privativos dos serviços do registo e do notariado.
+
+2 - A transformação referida no número anterior concretizar-se-á no quadro dos serviços onde os agentes do quadro paralelo se encontrem ou eventualmente venham a ser colocados e constará do respectivo mapa anexo ao regulamento do presente diploma.
+
+3 - Os lugares resultantes da aplicação do disposto nos números anteriores são extintos, à medida que vagarem, sempre que as circunstâncias o aconselhem.
+
+4 - Os agentes do quadro paralelo transitam para os novos lugares mediante lista nominativa aprovada por despacho do Ministro da Justiça, sem dependência de qualquer formalidade, salvo a publicação no Diário da República, e ingressam nos respectivos quadros de pessoal.
+
+5 - A todos os funcionários oriundos dos serviços de registo e do notariado das ex-colónias, quer façam parte do quadro paralelo, quer se encontrem já integrados nos quadros dos serviços externos da Direcção-Geral, é contado, para efeitos de colocação nos quadros pessoais respectivos, todo o tempo de serviço anteriormente prestado em repartições da mesma espécie.
+
+6 - É aplicável aos funcionários a que se refere o presente artigo o disposto no artigo 89.º-A do presente diploma.
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 449/80 - Diário da República n.º 232/1980, Série I de 1980-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1980-462182), em vigor a partir de 1980-10-12
+
+###### Artigo 89.º
+
+1 - Os actuais técnicos da Conservatória dos Registos Centrais transitam, mediante lista nominativa aprovada por despacho do Ministro da Justiça, sem dependência de qualquer formalidade, salvo a publicação no Diário da República, para as categorias de conservador auxiliar da mesma conservatória e ingressam na 3.ª classe do quadro de conservadores do registo civil, contando-se-lhes, para o efeito, todo o tempo de serviço prestado nas funções de técnico e de chefe de secção daquela conservatória.
+
+2 - Consumada que seja a transição determinada no número anterior, são extintos os lugares de técnico da nomeada conservatória.
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+###### Artigo 89.º-A
+
+1 - Nas 1.ª e 2.ª classes dos quadros a que se refere o n.º 1 do artigo 40.º do presente diploma será aditado ao número de ajudantes determinado segundo a regra do seu n.º 3 o número de vagas suficientes para nelas ficarem incluídos os ajudantes que até 31 de Dezembro de 1979 se encontravam providos em lugares, respectivamente, de primeiro-ajudante e de segundo-ajudante.
+
+2 - Os ajudantes que ingressem nos quadros nos termos do número anterior ficam colocados segundo o regime do artigo 42.º
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 449/80 - Diário da República n.º 232/1980, Série I de 1980-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1980-462182), em vigor a partir de 1980-10-12
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/80 - Diário da República n.º 88/1980, Série I de 1980-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1980-681996), em vigor a partir de 1980-04-20
+
+###### Artigo 89.º-B
+
+Considera-se integrada nos respectivos vencimentos, para todos os efeitos legais, designadamente para os de aposentação, a gratificação que vem sendo abonada pelo Cofre Geral dos Tribunais aos membros do conselho administrativo dos Cofres.
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/80 - Diário da República n.º 88/1980, Série I de 1980-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1980-681996), em vigor a partir de 1980-04-20
+
+###### Artigo 90.º
+
+O ingresso dos actuais ajudantes e escriturários nos respectivos quadros de pessoal é feito de acordo com o disposto nos artigos 42.º, 43.º, n.º 2, e 89.º-A e constará de lista nominativa, aprovada por despacho do Ministro da Justiça, a publicar no Diário da República no prazo máximo de sessenta dias a contar da data da publicação do presente diploma.
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 71/80 - Diário da República n.º 88/1980, Série I de 1980-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1980-681996), em vigor a partir de 1980-04-20
+
+###### Artigo 91.º
+
+Os lugares de escriturário que vierem a ser criados pelo regulamento do presente diploma podem ser preenchidos, independentemente de concurso, por assalariados ou praticantes, nos termos e condições que vierem a ser definidos no mesmo regulamento.
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+###### Artigo 92.º
+
+A estrutura orgânica da Conservatória dos Registos Centrais, bem como a definição de competência das diversas categorias funcionais de chefia, constará do regulamento do presente diploma.
+
+###### Artigo 93.º
+
+Nas conservatórias, secretarias e cartórios notariais cuja receita atinja o escalão a que se refere a alínea d) do artigo 150.º da Lei n.º 2049, de 6 de Agosto de 1961, continuar-se-á a liquidar, a favor dos actuais conservadores e notários abrangidos pelo disposto no artigo 53.º do Decreto-Lei n.º 44063, de 28 de Novembro de 1961, e até à vacatura dos respectivos lugares, as percentagens previstas no referido artigo 150.º a não ser que as percentagens e o regime constantes do artigo 54.º do presente diploma produzam mais elevada participação.
+
+###### Artigo 94.º
+
+Após a entrada em vigor do presente diploma, realizar-se-á ainda um concurso de habilitação para os cargos de conservador e notário nos termos da lei anterior, ao qual se poderão candidatar todos os ajudantes estagiários com estágios completos e válidos.
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 115/2018 - Diário da República n.º 246/2018, Série I de 2018-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), em vigor a partir de 2018-12-26, produz efeitos a partir de 2018-01-01
+
+###### Artigo 95.º
+
+O vencimento de categoria dos funcionários dos registos e do notariado previsto na presente lei é devido a partir de 1 de Julho de 1979.
+
+###### Artigo 96.º
+
+1 - Este diploma entra em vigor em 1 de Abril de 1980, data até à qual terá de ser publicado o seu regulamento.
+
+2 - Exceptuam-se do disposto no número anterior os artigos 42.º, 43.º, 89.º e 90.º, que entram imediatamente em vigor, bem como todas as disposições referentes ao novo regime de remunerações, cuja vigência terá início na data da publicação das listas a que se referem os citados artigos 89.º e 90.º
+
+Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - Pedro de Lemos e Sousa Macedo.
+
+Promulgado em 24 de Dezembro de 1979.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

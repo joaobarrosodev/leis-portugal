@@ -1,0 +1,564 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:641436:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-115375948",
+ "dre_path": "/dr/detalhe/portaria/1358-2007-641436",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-10-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "176774453",
+    "115374604",
+    "115374605",
+    "115374606",
+    "115374607",
+    "115374608",
+    "115374609",
+    "115374610",
+    "115374611",
+    "115374612",
+    "115374613",
+    "115374614",
+    "115374615",
+    "115374616",
+    "115374617",
+    "115374618"
+   ]
+  },
+  {
+   "date": "2011-02-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:279792:por",
+     "title": "Portaria n.º 75/2011",
+     "published": "2011-02-15",
+     "dre_path": "/dr/detalhe/portaria/75-2011-279792"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-A",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "115374603",
+    "115374604",
+    "115374605",
+    "115374606",
+    "115374607",
+    "115374608",
+    "115374609",
+    "115374640",
+    "115374630",
+    "115374631",
+    "115374632",
+    "115374633",
+    "115374634",
+    "115374635",
+    "115374636",
+    "115374637",
+    "115374638",
+    "115374639"
+   ]
+  },
+  {
+   "date": "2018-05-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115375942:por",
+     "title": "Portaria n.º 148-A/2018",
+     "published": "2018-05-22",
+     "dre_path": "/dr/detalhe/portaria/148-a-2018-115375942"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "115374603",
+    "115374641",
+    "115374605",
+    "115374606",
+    "115374607",
+    "115374642",
+    "115374609",
+    "115374640",
+    "115374630",
+    "115374631",
+    "115374632",
+    "115374633",
+    "115374634",
+    "115374635",
+    "115374636",
+    "115374637",
+    "115374638",
+    "115374639"
+   ]
+  },
+  {
+   "date": "2022-01-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176714556:por",
+     "title": "Portaria n.º 322/2021",
+     "published": "2021-12-29",
+     "dre_path": "/dr/detalhe/portaria/322-2021-176714556"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "176774453",
+    "176774454",
+    "176774455",
+    "176774456",
+    "176774457",
+    "176774458",
+    "176774459",
+    "176774460",
+    "176774461",
+    "176774462",
+    "176774463",
+    "176774464",
+    "176774465",
+    "176774466",
+    "176774467",
+    "176774468",
+    "176774469",
+    "176774470"
+   ]
+  }
+ ],
+ "fragments": {
+  "176774453": {
+   "fragment_id": "115375949",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-01-03",
+   "changed_by": [],
+   "markdown": "Portaria n.º 1358/2007\n\nde 15 de Outubro\n\nO Decreto-Lei n.º 247/2007, de 27 de Junho, veio determinar o regime jurídico aplicável à constituição, organização, funcionamento e extinção dos corpos de bombeiros no território continental.\n\nNo n.º 5 do artigo 17.º do referido diploma está previsto que nos municípios em que se justifique os corpos de bombeiros detidos por associações humanitárias de bombeiros podem dispor de equipas de intervenção permanente, cuja composição e funcionamento é definida por portaria do membro do Governo responsável pela área da administração interna.\n\nO programa do Governo prevê a criação de equipas de intervenção permanente nos concelhos de maior risco. Foi com esse objectivo que, através de protocolo celebrado entre a Autoridade Nacional de Protecção Civil, a Associação Nacional de Municípios Portugueses e a Liga dos Bombeiros Portugueses, se definiu, como meta a criação de 200 equipas até ao final do ano 2009. A implementação e o funcionamento das mesmas passa, pois, pela congregação de esforços entre a Autoridade Nacional de Protecção Civil, as Câmaras Municipais e as Associações Humanitárias de Bombeiros.\n\nA presente portaria pretende garantir às equipas de intervenção permanente (EIP) um funcionamento baseado numa definição clara das suas funções, as quais se destinam ao cumprimento de missões que, no âmbito do Sistema de Protecção Civil, estão confiadas aos corpos de bombeiros.\n\nNuma óptica de conferir sistematização jurídica à criação destas EIP consubstanciadas nos diplomas que enformam o desenvolvimento das suas missões, importa regulamentar de forma clara as regras e os procedimentos a observar na criação destas equipas e na regulação dos apoios à sua actividade, de forma a conferir um ordenamento jurídico metodizado.\n\nAssim, ao abrigo do disposto no n.º 5 do artigo 17.º do Decreto-Lei n.º 247/2007, de 27 de Junho, manda o Governo, pelo Ministro da Administração Interna, o seguinte:"
+  },
+  "115374604": {
+   "fragment_id": "115375950",
+   "type": 11,
+   "heading": "Artigo 1.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Composição\n\nAs equipas de intervenção permanente, doravante designadas EIP, são compostas por cinco elementos:\n\na) O chefe de equipa, recrutado na estrutura de comando, de entre oficiais bombeiros ou de entre chefias existentes no quadro activo do corpo de bombeiros;\n\nb) Quatro bombeiros, devendo dois deles possuir carta de condução que o habilite a conduzir veículos pesados."
+  },
+  "115374605": {
+   "fragment_id": "115375951",
+   "type": 11,
+   "heading": "Artigo 2.º — Missões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missões\n\n1 - A EIP visa assegurar, em permanência, o socorro às populações, designadamente nos seguintes casos:\n\na) Combate a incêndios;\n\nb) Socorro às populações em caso de incêndios, inundações, desabamentos, abalroamentos e em todos os acidentes ou catástrofes;\n\nc) Socorro a náufragos;\n\nd) Socorro complementar, em segunda intervenção, desencarceramento ou apoio a sinistrados no âmbito da urgência pré-hospitalar, não podendo substituir-se aos acordos com a autoridade nacional de emergência médica;\n\ne) Minimização de riscos em situações de previsão ou ocorrência de acidente grave;\n\nf) Colaboração em outras actividades de protecção civil, no âmbito do exercício das funções específicas que são cometidas aos corpos de bombeiros.\n\n2 - Os elementos que constituem as EIP desempenham, ainda, outras tarefas de âmbito operacional, incluindo planeamento, formação, reconhecimento dos locais de risco e das zonas críticas, preparação física e desportos, limpeza e manutenção de equipamento, viaturas e instalações, sem prejuízo da prontidão e socorro."
+  },
+  "115374606": {
+   "fragment_id": "115375952",
+   "type": 11,
+   "heading": "Artigo 3.º — Área de actuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Área de actuação\n\n1 - As EIP asseguram a prestação do socorro na área de actuação do respectivo corpo de bombeiros.\n\n2 - Nos concelhos onde exista uma única EIP esta assegura o socorro e a emergência na área do município, podendo em situações de reconhecida necessidade actuar fora dessa área, em municípios adjacentes ou fora do distrito, por solicitação do competente comando distrital de operações de socorro ao comando do corpo de bombeiros detentor da EIP.\n\n3 - A intervenção fora do município prevista no n.º 2 do presente artigo carece de comunicação e autorização do presidente da câmara municipal respectiva ou do seu substituto legal."
+  },
+  "115374607": {
+   "fragment_id": "115375953",
+   "type": 11,
+   "heading": "Artigo 4.º — Critérios de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Critérios de selecção\n\nOs critérios de selecção das EIP e os programas dos cursos de formação são aprovados por despacho do director nacional de Bombeiros, mediante proposta da Escola Nacional de Bombeiros, entidade responsável por aqueles, podendo, para o efeito, ser obtida a participação ou parecer de outras entidades com actividades na área da formação especializada."
+  },
+  "115374608": {
+   "fragment_id": "115375954",
+   "type": 11,
+   "heading": "Artigo 5.º — Candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Candidatos\n\nPodem ser candidatos a integrar uma EIP os bombeiros que no momento da candidatura possuam idade compreendida ente os 20 e os 40 anos e que preferencialmente observem os critérios de prioridade a que se refere o n.º 3 do artigo 6.º"
+  },
+  "115374609": {
+   "fragment_id": "115375955",
+   "type": 11,
+   "heading": "Artigo 6.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Candidaturas\n\n1 - As candidaturas dos oficiais bombeiros e bombeiros ao processo de recrutamento devem ser entregues na respectiva associação humanitária de bombeiros.\n\n2 - A aprovação das candidaturas e consequente selecção dos elementos que integram a EIP é da competência da direcção da associação humanitária de bombeiros, por proposta fundamentada do comandante do corpo de bombeiros.\n\n3 - A selecção referida no número anterior carece de homologação do director nacional de Bombeiros, só produzindo efeitos após a emissão do correspondente despacho deste.\n\n4 - Na aprovação da candidatura devem ser observados os critérios de selecção referidos no artigo 4.º e os seguintes critérios preferenciais, relativos ao cumprimento pelos candidatos dos seguintes requisitos:\n\na) Possuir o 12.º ano ou equivalente;\n\nb) Ter concluído a formação básica para cada uma das categorias previstas no n.º 1 do artigo 1.º e sendo bombeiro há pelo menos dois anos;\n\nc) Possuir capacidade e robustez física comprovada, através da prestação de provas de aptidão para o exercício da função, definidos pela Direcção Nacional de Bombeiros;\n\nd) Possuir carta de condução, preferencialmente que habilite a conduzir veículos pesados, e formação adequada para a condução de veículos de emergência."
+  },
+  "115374610": {
+   "fragment_id": "115375956",
+   "type": 11,
+   "heading": "Artigo 7.º — Contrato e remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Contrato e remuneração\n\n1 - Os candidatos seleccionados que integrarem as EIP celebrarão com a entidade detentora a que pertencem um contrato individual de trabalho a termo certo, por um período até três anos.\n\n2 - A remuneração destes elementos é a que vier a ficar determinada no protocolo a subscrever entre a Autoridade Nacional de Protecção Civil, a respectiva câmara municipal e a associação humanitária de bombeiros."
+  },
+  "115374611": {
+   "fragment_id": "115375957",
+   "type": 11,
+   "heading": "Artigo 8.º — Identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Identificação\n\nOs bombeiros integrantes das EIP deverão ser portadores de identificação específica."
+  },
+  "115374612": {
+   "fragment_id": "115375958",
+   "type": 11,
+   "heading": "Artigo 9.º — Comandante do corpo de bombeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Comandante do corpo de bombeiros\n\n1 - O comandante do corpo de bombeiros é o responsável técnico e operacional da EIP, nomeadamente no que respeita:\n\na) Formação contínua de todos os elementos;\n\nb) Escalas de serviço;\n\nc) Procedimentos operacionais;\n\nd) Gestão operacional da EIP;\n\ne) Rapidez e qualidade de intervenção;\n\nf) Disciplina na acção.\n\n2 - Para além das competências do comandante referidas no número anterior, cabem-lhe ainda as relativas à gestão do pessoal e as de natureza disciplinar.\n\n3 - As infracções disciplinares são participadas pelo comandante directamente à direcção da AHB, para o competente procedimento disciplinar, nos termos da legislação aplicável."
+  },
+  "115374613": {
+   "fragment_id": "115375959",
+   "type": 11,
+   "heading": "Artigo 10.º — Dever de permanência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Dever de permanência\n\n1 - Todos os elementos que constituem as EIP devem permanecer nos quartéis durante o período considerado de serviço, prontos a intervir para as missões que lhe forem determinadas.\n\n2 - Para além de intervirem nas missões que lhe forem determinadas, os elementos das EIP poderão estar ocupados nas tarefas e actividades referidas no n.º 2 do artigo 2.º da presente portaria."
+  },
+  "115374614": {
+   "fragment_id": "115375960",
+   "type": 11,
+   "heading": "Artigo 11.º — Pagamentos e contribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Pagamentos e contribuições\n\n1 - A AHB efectuará o pagamento das remunerações e das contribuições para a segurança social, bem como dos valores correspondentes à taxa de segurança e higiene no trabalho, fazendo a entrega das contribuições e taxa às entidades competentes.\n\n2 - As despesas referidas no número anterior são suportadas em partes iguais pela ANPC e pela câmara municipal respectiva.\n\n3 - Para os efeitos do número anterior, as entidades referidas transferem com a antecedência de um mês as verbas correspondentes aos encargos devidos ao mês seguinte, apresentando mensalmente as AHB, por via informática, às mesmas entidades, os documentos de despesa comprovativos."
+  },
+  "115374615": {
+   "fragment_id": "115375961",
+   "type": 11,
+   "heading": "Artigo 12.º — Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Informação\n\n1 - As associações humanitárias de bombeiros detentoras de EIP devem facultar à ANPC e à respectiva câmara municipal, bem como aos seus representantes ou mandatários, todos os elementos e informação relativamente ao pessoal contratado e à execução escrupulosa dos contratos.\n\n2 - Os comandantes dos corpos de bombeiros das associações referidas devem fornecer toda a informação respeitante à actividade operacional exercida pelas EIP às entidades mencionadas no número anterior."
+  },
+  "115374616": {
+   "fragment_id": "115375962",
+   "type": 11,
+   "heading": "Artigo 13.º — Plano e relatório de actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Plano e relatório de actividades\n\n1 - As entidades detentoras das EIP, por proposta do comandante do corpo de bombeiros, devem remeter, até ao dia 30 de Novembro de cada ano, à Direcção Nacional de Bombeiros, um plano de actividades para o ano seguinte, onde serão definidas as prioridades de intervenção, formação e sensibilização.\n\n2 - As associações humanitárias de bombeiros, em conjunto com o comandante do corpo de bombeiros, devem elaborar, até ao dia 30 de Abril de cada ano, um relatório de actividades respeitante ao ano transacto a que reporta, explicitando as áreas de actuação, as acções desenvolvidas e a respectiva quantificação.\n\n3 - Os relatórios devem ser submetidos à Direcção Nacional de Bombeiros e à câmara municipal respectiva."
+  },
+  "115374617": {
+   "fragment_id": "115375963",
+   "type": 11,
+   "heading": "Artigo 14.º — Suspensão de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Suspensão de pagamento\n\nO não cumprimento do disposto na presente portaria, por AHB detentora de EIP, faz suspender o pagamento dos apoios e financiamento ao funcionamento da EIP dessa AHB, bem como a relação contratual inerente."
+  },
+  "115374618": {
+   "fragment_id": "115375964",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "115374603": {
+   "fragment_id": "115375949",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1358/2007\n\nde 15 de Outubro\n\nO Decreto-Lei n.º 247/2007, de 27 de Junho, veio determinar o regime jurídico aplicável à constituição, organização, funcionamento e extinção dos corpos de bombeiros no território continental.\n\nNo n.º 5 do artigo 17.º do referido diploma está previsto que nos municípios em que se justifique os corpos de bombeiros detidos por associações humanitárias de bombeiros podem dispor de equipas de intervenção permanente, cuja composição e funcionamento é definida por portaria do membro do Governo responsável pela área da administração interna.\n\nO programa do Governo prevê a criação de equipas de intervenção permanente nos concelhos de maior risco. Foi com esse objectivo que, através de protocolo celebrado entre a Autoridade Nacional de Protecção Civil, a Associação Nacional de Municípios Portugueses e a Liga dos Bombeiros Portugueses, se definiu, como meta a criação de 200 equipas até ao final do ano 2009. A implementação e o funcionamento das mesmas passa, pois, pela congregação de esforços entre a Autoridade Nacional de Protecção Civil, as Câmaras Municipais e as Associações Humanitárias de Bombeiros.\n\nA presente portaria pretende garantir às equipas de intervenção permanente (EIP) um funcionamento baseado numa definição clara das suas funções, as quais se destinam ao cumprimento de missões que, no âmbito do Sistema de Protecção Civil, estão confiadas aos corpos de bombeiros.\n\nNuma óptica de conferir sistematização jurídica à criação destas EIP consubstanciadas nos diplomas que enformam o desenvolvimento das suas missões, importa regulamentar de forma clara as regras e os procedimentos a observar na criação destas equipas e na regulação dos apoios à sua actividade, de forma a conferir um ordenamento jurídico metodizado.\n\nAssim, ao abrigo do disposto no n.º 5 do artigo 17.º do Decreto-Lei n.º 247/2007, de 27 de Junho, manda o Governo, pelo Ministro da Administração Interna, o seguinte:"
+  },
+  "115374640": {
+   "fragment_id": "115375956",
+   "type": 11,
+   "heading": "Artigo 7.º — Contrato e remuneração",
+   "in_force_from": "2011-02-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 75/2011 - Diário da República n.º 32/2011, Série I de 2011-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/75-2011-279792), em vigor a partir de 2011-02-16"
+   ],
+   "markdown": "###### Artigo 7.º — Contrato e remuneração\n\n1 - Os candidatos seleccionados para integrarem as EIP celebrarão com a entidade detentora a que pertencem um contrato individual de trabalho.\n\n2 - A remuneração destes elementos é a que vier a ficar determinada no protocolo a que se refere o n.º 1 do artigo 7.º-A.\n\n3 - No caso de denúncia do protocolo nos termos do n.º 3 do artigo 7.º-A, a entidade denunciante assume todos os encargos decorrentes da cessação dos contratos de trabalho dos elementos que integram a EIP.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 75/2011 - Diário da República n.º 32/2011, Série I de 2011-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/75-2011-279792), em vigor a partir de 2011-02-16"
+  },
+  "115374630": {
+   "fragment_id": "115379278",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Protocolo",
+   "in_force_from": "2011-02-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 75/2011 - Diário da República n.º 32/2011, Série I de 2011-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/75-2011-279792), em vigor a partir de 2011-02-16"
+   ],
+   "markdown": "###### Artigo 7.º-A — Protocolo\n\n1 - Sem prejuízo do disposto na presente portaria, as condições de contratação e funcionamento da EIP são estabelecidas em protocolo a subscrever entre a Autoridade Nacional de Protecção Civil, a respectiva câmara municipal e a associação humanitária de bombeiros.\n\n2 - O protocolo previsto no número anterior vigorará por um período de três anos, renovável automática e sucessivamente por igual período, sem prejuízo do disposto no número seguinte.\n\n3 - As entidades subscritoras podem denunciar o protocolo previsto no n.º 1, com a antecedência mínima de 60 dias sobre o final da sua vigência ou de qualquer uma das suas renovações.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 75/2011 - Diário da República n.º 32/2011, Série I de 2011-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/75-2011-279792), em vigor a partir de 2011-02-16"
+  },
+  "115374631": {
+   "fragment_id": "115375957",
+   "type": 11,
+   "heading": "Artigo 8.º — Identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Identificação\n\nOs bombeiros integrantes das EIP deverão ser portadores de identificação específica."
+  },
+  "115374632": {
+   "fragment_id": "115375958",
+   "type": 11,
+   "heading": "Artigo 9.º — Comandante do corpo de bombeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Comandante do corpo de bombeiros\n\n1 - O comandante do corpo de bombeiros é o responsável técnico e operacional da EIP, nomeadamente no que respeita:\n\na) Formação contínua de todos os elementos;\n\nb) Escalas de serviço;\n\nc) Procedimentos operacionais;\n\nd) Gestão operacional da EIP;\n\ne) Rapidez e qualidade de intervenção;\n\nf) Disciplina na acção.\n\n2 - Para além das competências do comandante referidas no número anterior, cabem-lhe ainda as relativas à gestão do pessoal e as de natureza disciplinar.\n\n3 - As infracções disciplinares são participadas pelo comandante directamente à direcção da AHB, para o competente procedimento disciplinar, nos termos da legislação aplicável."
+  },
+  "115374633": {
+   "fragment_id": "115375959",
+   "type": 11,
+   "heading": "Artigo 10.º — Dever de permanência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Dever de permanência\n\n1 - Todos os elementos que constituem as EIP devem permanecer nos quartéis durante o período considerado de serviço, prontos a intervir para as missões que lhe forem determinadas.\n\n2 - Para além de intervirem nas missões que lhe forem determinadas, os elementos das EIP poderão estar ocupados nas tarefas e actividades referidas no n.º 2 do artigo 2.º da presente portaria."
+  },
+  "115374634": {
+   "fragment_id": "115375960",
+   "type": 11,
+   "heading": "Artigo 11.º — Pagamentos e contribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Pagamentos e contribuições\n\n1 - A AHB efectuará o pagamento das remunerações e das contribuições para a segurança social, bem como dos valores correspondentes à taxa de segurança e higiene no trabalho, fazendo a entrega das contribuições e taxa às entidades competentes.\n\n2 - As despesas referidas no número anterior são suportadas em partes iguais pela ANPC e pela câmara municipal respectiva.\n\n3 - Para os efeitos do número anterior, as entidades referidas transferem com a antecedência de um mês as verbas correspondentes aos encargos devidos ao mês seguinte, apresentando mensalmente as AHB, por via informática, às mesmas entidades, os documentos de despesa comprovativos."
+  },
+  "115374635": {
+   "fragment_id": "115375961",
+   "type": 11,
+   "heading": "Artigo 12.º — Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Informação\n\n1 - As associações humanitárias de bombeiros detentoras de EIP devem facultar à ANPC e à respectiva câmara municipal, bem como aos seus representantes ou mandatários, todos os elementos e informação relativamente ao pessoal contratado e à execução escrupulosa dos contratos.\n\n2 - Os comandantes dos corpos de bombeiros das associações referidas devem fornecer toda a informação respeitante à actividade operacional exercida pelas EIP às entidades mencionadas no número anterior."
+  },
+  "115374636": {
+   "fragment_id": "115375962",
+   "type": 11,
+   "heading": "Artigo 13.º — Plano e relatório de actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Plano e relatório de actividades\n\n1 - As entidades detentoras das EIP, por proposta do comandante do corpo de bombeiros, devem remeter, até ao dia 30 de Novembro de cada ano, à Direcção Nacional de Bombeiros, um plano de actividades para o ano seguinte, onde serão definidas as prioridades de intervenção, formação e sensibilização.\n\n2 - As associações humanitárias de bombeiros, em conjunto com o comandante do corpo de bombeiros, devem elaborar, até ao dia 30 de Abril de cada ano, um relatório de actividades respeitante ao ano transacto a que reporta, explicitando as áreas de actuação, as acções desenvolvidas e a respectiva quantificação.\n\n3 - Os relatórios devem ser submetidos à Direcção Nacional de Bombeiros e à câmara municipal respectiva."
+  },
+  "115374637": {
+   "fragment_id": "115375963",
+   "type": 11,
+   "heading": "Artigo 14.º — Suspensão de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Suspensão de pagamento\n\nO não cumprimento do disposto na presente portaria, por AHB detentora de EIP, faz suspender o pagamento dos apoios e financiamento ao funcionamento da EIP dessa AHB, bem como a relação contratual inerente."
+  },
+  "115374638": {
+   "fragment_id": "115375964",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "115374639": {
+   "fragment_id": "115375965",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro da Administração Interna, Ascenso Luís Seixas Simões, Secretário de Estado da Protecção Civil, em 1 de Outubro de 2007."
+  },
+  "115374641": {
+   "fragment_id": "115375950",
+   "type": 11,
+   "heading": "Artigo 1.º — Composição",
+   "in_force_from": "2018-05-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 148-A/2018 - Diário da República n.º 98/2018, 1º Suplemento, Série I de 2018-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/148-a-2018-115375942), em vigor a partir de 2018-05-23"
+   ],
+   "markdown": "###### Artigo 1.º — Composição\n\nAs equipas de intervenção permanente, doravante designadas EIP, são compostas por cinco elementos:\n\na) O chefe de equipa, recrutado na estrutura de comando, de entre oficiais bombeiros, chefes, subchefes ou bombeiros de 1.ª do quadro ativo do corpo de bombeiros;\n\nb) Quatro bombeiros, devendo dois deles possuir carta de condução que o habilite a conduzir veículos pesados.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 148-A/2018 - Diário da República n.º 98/2018, 1º Suplemento, Série I de 2018-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/148-a-2018-115375942), em vigor a partir de 2018-05-23"
+  },
+  "115374642": {
+   "fragment_id": "115375954",
+   "type": 11,
+   "heading": "Artigo 5.º — Candidatos",
+   "in_force_from": "2018-05-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148-A/2018 - Diário da República n.º 98/2018, 1º Suplemento, Série I de 2018-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/148-a-2018-115375942), em vigor a partir de 2018-05-23"
+   ],
+   "markdown": "###### Artigo 5.º — Candidatos\n\n1 - Podem ser candidatos a integrar uma EIP os bombeiros que no momento da candidatura possuam idade compreendida ente os 20 e os 40 anos e que preferencialmente observem os critérios de prioridade a que se refere o n.º 3 do artigo 6.º.\n\n2 - Sem prejuízo do disposto no número anterior, o chefe de equipa pode ter até 45 anos de idade.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148-A/2018 - Diário da República n.º 98/2018, 1º Suplemento, Série I de 2018-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/148-a-2018-115375942), em vigor a partir de 2018-05-23"
+  },
+  "176774454": {
+   "fragment_id": "115375950",
+   "type": 11,
+   "heading": "Artigo 1.º — Composição",
+   "in_force_from": "2022-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 148-A/2018 - Diário da República n.º 98/2018, 1º Suplemento, Série I de 2018-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/148-a-2018-115375942), em vigor a partir de 2018-05-23"
+   ],
+   "markdown": "###### Artigo 1.º — Composição\n\nAs equipas de intervenção permanente, doravante designadas EIP, são compostas por cinco elementos:\n\na) O chefe de equipa, recrutado na estrutura de comando, de entre oficiais bombeiros, chefes, subchefes ou bombeiros de 1.ª do quadro ativo do corpo de bombeiros;\n\nb) Quatro bombeiros, devendo dois deles possuir carta de condução que o habilite a conduzir veículos pesados.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 148-A/2018 - Diário da República n.º 98/2018, 1º Suplemento, Série I de 2018-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/148-a-2018-115375942), em vigor a partir de 2018-05-23"
+  },
+  "176774455": {
+   "fragment_id": "115375951",
+   "type": 11,
+   "heading": "Artigo 2.º — Missões",
+   "in_force_from": "2022-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03"
+   ],
+   "markdown": "###### Artigo 2.º — Missões\n\n1 - A EIP visa assegurar, em permanência, o socorro às populações, designadamente nos seguintes casos:\n\na) Combate a incêndios;\n\nb) Socorro às populações em caso de incêndios, inundações, desabamentos, abalroamentos e em todos os acidentes ou catástrofes;\n\nc) Socorro a náufragos;\n\nd) Socorro complementar, em segunda intervenção, desencarceramento ou apoio a sinistrados no âmbito da urgência pré-hospitalar, não podendo substituir-se aos acordos com a autoridade nacional de emergência médica;\n\ne) Minimização de riscos em situações de previsão ou ocorrência de acidente grave;\n\nf) Colaboração em outras actividades de protecção civil, no âmbito do exercício das funções específicas que são cometidas aos corpos de bombeiros.\n\n2 - Os elementos que constituem as EIP desempenham, ainda, outras tarefas de âmbito operacional, incluindo planeamento, formação, reconhecimento dos locais de risco e das zonas críticas, preparação física e desportos, limpeza e manutenção de equipamento, viaturas e instalações, sem prejuízo da prontidão e socorro.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03"
+  },
+  "176774456": {
+   "fragment_id": "115375952",
+   "type": 11,
+   "heading": "Artigo 3.º — Área de actuação",
+   "in_force_from": "2022-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03"
+   ],
+   "markdown": "###### Artigo 3.º — Área de actuação\n\n1 - As EIP asseguram a prestação do socorro na área de actuação do respectivo corpo de bombeiros.\n\n2 - Nos concelhos onde exista uma única EIP esta assegura o socorro e a emergência na área do município, podendo em situações de reconhecida necessidade actuar fora dessa área, em municípios adjacentes ou fora do distrito, por solicitação do competente comando distrital de operações de socorro ao comando do corpo de bombeiros detentor da EIP.\n\n3 - A intervenção fora do município prevista no n.º 2 do presente artigo carece de comunicação e autorização do presidente da câmara municipal respectiva ou do seu substituto legal.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03"
+  },
+  "176774457": {
+   "fragment_id": "115375953",
+   "type": 11,
+   "heading": "Artigo 4.º — Critérios de selecção",
+   "in_force_from": "2022-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03"
+   ],
+   "markdown": "###### Artigo 4.º — Critérios de selecção\n\nOs critérios de selecção das EIP e os programas dos cursos de formação são aprovados por despacho do director nacional de Bombeiros, mediante proposta da Escola Nacional de Bombeiros, entidade responsável por aqueles, podendo, para o efeito, ser obtida a participação ou parecer de outras entidades com actividades na área da formação especializada.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03"
+  },
+  "176774458": {
+   "fragment_id": "115375954",
+   "type": 11,
+   "heading": "Artigo 5.º — Candidatos",
+   "in_force_from": "2022-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148-A/2018 - Diário da República n.º 98/2018, 1º Suplemento, Série I de 2018-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/148-a-2018-115375942), em vigor a partir de 2018-05-23"
+   ],
+   "markdown": "###### Artigo 5.º — Candidatos\n\n1 - Podem ser candidatos a integrar uma EIP os bombeiros que no momento da candidatura possuam idade compreendida ente os 20 e os 40 anos e que preferencialmente observem os critérios de prioridade a que se refere o n.º 3 do artigo 6.º.\n\n2 - Sem prejuízo do disposto no número anterior, o chefe de equipa pode ter até 45 anos de idade.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148-A/2018 - Diário da República n.º 98/2018, 1º Suplemento, Série I de 2018-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/148-a-2018-115375942), em vigor a partir de 2018-05-23"
+  },
+  "176774459": {
+   "fragment_id": "115375955",
+   "type": 11,
+   "heading": "Artigo 6.º — Candidaturas",
+   "in_force_from": "2022-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03"
+   ],
+   "markdown": "###### Artigo 6.º — Candidaturas\n\n1 - As candidaturas dos oficiais bombeiros e bombeiros ao processo de recrutamento devem ser entregues na respectiva associação humanitária de bombeiros.\n\n2 - A aprovação das candidaturas e consequente selecção dos elementos que integram a EIP é da competência da direcção da associação humanitária de bombeiros, por proposta fundamentada do comandante do corpo de bombeiros.\n\n3 - A selecção referida no número anterior carece de homologação do director nacional de Bombeiros, só produzindo efeitos após a emissão do correspondente despacho deste.\n\n4 - Na aprovação da candidatura devem ser observados os critérios de selecção referidos no artigo 4.º e os seguintes critérios preferenciais, relativos ao cumprimento pelos candidatos dos seguintes requisitos:\n\na) Possuir o 12.º ano ou equivalente;\n\nb) Ter concluído a formação básica para cada uma das categorias previstas no n.º 1 do artigo 1.º e sendo bombeiro há pelo menos dois anos;\n\nc) Possuir capacidade e robustez física comprovada, através da prestação de provas de aptidão para o exercício da função, definidos pela Direcção Nacional de Bombeiros;\n\nd) Possuir carta de condução, preferencialmente que habilite a conduzir veículos pesados, e formação adequada para a condução de veículos de emergência.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03"
+  },
+  "176774460": {
+   "fragment_id": "115375956",
+   "type": 11,
+   "heading": "Artigo 7.º — Contrato e remuneração",
+   "in_force_from": "2022-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 75/2011 - Diário da República n.º 32/2011, Série I de 2011-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/75-2011-279792), em vigor a partir de 2011-02-16"
+   ],
+   "markdown": "###### Artigo 7.º — Contrato e remuneração\n\n1 - Os candidatos seleccionados para integrarem as EIP celebrarão com a entidade detentora a que pertencem um contrato individual de trabalho.\n\n2 - A remuneração destes elementos é a que vier a ficar determinada no protocolo a que se refere o n.º 1 do artigo 7.º-A.\n\n3 - No caso de denúncia do protocolo nos termos do n.º 3 do artigo 7.º-A, a entidade denunciante assume todos os encargos decorrentes da cessação dos contratos de trabalho dos elementos que integram a EIP.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 75/2011 - Diário da República n.º 32/2011, Série I de 2011-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/75-2011-279792), em vigor a partir de 2011-02-16"
+  },
+  "176774461": {
+   "fragment_id": "115379278",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Protocolo",
+   "in_force_from": "2022-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03",
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 75/2011 - Diário da República n.º 32/2011, Série I de 2011-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/75-2011-279792), em vigor a partir de 2011-02-16"
+   ],
+   "markdown": "###### Artigo 7.º-A — Protocolo\n\n1 - Sem prejuízo do disposto na presente portaria, as condições de contratação e funcionamento da EIP são estabelecidas em protocolo a subscrever entre a Autoridade Nacional de Protecção Civil, a respectiva câmara municipal e a associação humanitária de bombeiros.\n\n2 - O protocolo previsto no número anterior vigorará por um período de três anos, renovável automática e sucessivamente por igual período, sem prejuízo do disposto no número seguinte.\n\n3 - As entidades subscritoras podem denunciar o protocolo previsto no n.º 1, com a antecedência mínima de 60 dias sobre o final da sua vigência ou de qualquer uma das suas renovações.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 75/2011 - Diário da República n.º 32/2011, Série I de 2011-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/75-2011-279792), em vigor a partir de 2011-02-16"
+  },
+  "176774462": {
+   "fragment_id": "115375957",
+   "type": 11,
+   "heading": "Artigo 8.º — Identificação",
+   "in_force_from": "2022-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03"
+   ],
+   "markdown": "###### Artigo 8.º — Identificação\n\nOs bombeiros integrantes das EIP deverão ser portadores de identificação específica.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03"
+  },
+  "176774463": {
+   "fragment_id": "115375958",
+   "type": 11,
+   "heading": "Artigo 9.º — Comandante do corpo de bombeiros",
+   "in_force_from": "2022-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03"
+   ],
+   "markdown": "###### Artigo 9.º — Comandante do corpo de bombeiros\n\n1 - O comandante do corpo de bombeiros é o responsável técnico e operacional da EIP, nomeadamente no que respeita:\n\na) Formação contínua de todos os elementos;\n\nb) Escalas de serviço;\n\nc) Procedimentos operacionais;\n\nd) Gestão operacional da EIP;\n\ne) Rapidez e qualidade de intervenção;\n\nf) Disciplina na acção.\n\n2 - Para além das competências do comandante referidas no número anterior, cabem-lhe ainda as relativas à gestão do pessoal e as de natureza disciplinar.\n\n3 - As infracções disciplinares são participadas pelo comandante directamente à direcção da AHB, para o competente procedimento disciplinar, nos termos da legislação aplicável.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03"
+  },
+  "176774464": {
+   "fragment_id": "115375959",
+   "type": 11,
+   "heading": "Artigo 10.º — Dever de permanência",
+   "in_force_from": "2022-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03"
+   ],
+   "markdown": "###### Artigo 10.º — Dever de permanência\n\n1 - Todos os elementos que constituem as EIP devem permanecer nos quartéis durante o período considerado de serviço, prontos a intervir para as missões que lhe forem determinadas.\n\n2 - Para além de intervirem nas missões que lhe forem determinadas, os elementos das EIP poderão estar ocupados nas tarefas e actividades referidas no n.º 2 do artigo 2.º da presente portaria.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03"
+  },
+  "176774465": {
+   "fragment_id": "115375960",
+   "type": 11,
+   "heading": "Artigo 11.º — Pagamentos e contribuições",
+   "in_force_from": "2022-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03"
+   ],
+   "markdown": "###### Artigo 11.º — Pagamentos e contribuições\n\n1 - A AHB efectuará o pagamento das remunerações e das contribuições para a segurança social, bem como dos valores correspondentes à taxa de segurança e higiene no trabalho, fazendo a entrega das contribuições e taxa às entidades competentes.\n\n2 - As despesas referidas no número anterior são suportadas em partes iguais pela ANPC e pela câmara municipal respectiva.\n\n3 - Para os efeitos do número anterior, as entidades referidas transferem com a antecedência de um mês as verbas correspondentes aos encargos devidos ao mês seguinte, apresentando mensalmente as AHB, por via informática, às mesmas entidades, os documentos de despesa comprovativos.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03"
+  },
+  "176774466": {
+   "fragment_id": "115375961",
+   "type": 11,
+   "heading": "Artigo 12.º — Informação",
+   "in_force_from": "2022-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03"
+   ],
+   "markdown": "###### Artigo 12.º — Informação\n\n1 - As associações humanitárias de bombeiros detentoras de EIP devem facultar à ANPC e à respectiva câmara municipal, bem como aos seus representantes ou mandatários, todos os elementos e informação relativamente ao pessoal contratado e à execução escrupulosa dos contratos.\n\n2 - Os comandantes dos corpos de bombeiros das associações referidas devem fornecer toda a informação respeitante à actividade operacional exercida pelas EIP às entidades mencionadas no número anterior.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03"
+  },
+  "176774467": {
+   "fragment_id": "115375962",
+   "type": 11,
+   "heading": "Artigo 13.º — Plano e relatório de actividades",
+   "in_force_from": "2022-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03"
+   ],
+   "markdown": "###### Artigo 13.º — Plano e relatório de actividades\n\n1 - As entidades detentoras das EIP, por proposta do comandante do corpo de bombeiros, devem remeter, até ao dia 30 de Novembro de cada ano, à Direcção Nacional de Bombeiros, um plano de actividades para o ano seguinte, onde serão definidas as prioridades de intervenção, formação e sensibilização.\n\n2 - As associações humanitárias de bombeiros, em conjunto com o comandante do corpo de bombeiros, devem elaborar, até ao dia 30 de Abril de cada ano, um relatório de actividades respeitante ao ano transacto a que reporta, explicitando as áreas de actuação, as acções desenvolvidas e a respectiva quantificação.\n\n3 - Os relatórios devem ser submetidos à Direcção Nacional de Bombeiros e à câmara municipal respectiva.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03"
+  },
+  "176774468": {
+   "fragment_id": "115375963",
+   "type": 11,
+   "heading": "Artigo 14.º — Suspensão de pagamento",
+   "in_force_from": "2022-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03"
+   ],
+   "markdown": "###### Artigo 14.º — Suspensão de pagamento\n\nO não cumprimento do disposto na presente portaria, por AHB detentora de EIP, faz suspender o pagamento dos apoios e financiamento ao funcionamento da EIP dessa AHB, bem como a relação contratual inerente.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03"
+  },
+  "176774469": {
+   "fragment_id": "115375964",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": "2022-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03"
+   ],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03"
+  },
+  "176774470": {
+   "fragment_id": "115375965",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03"
+   ],
+   "markdown": "Pelo Ministro da Administração Interna, Ascenso Luís Seixas Simões, Secretário de Estado da Protecção Civil, em 1 de Outubro de 2007.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 322/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556), em vigor a partir de 2022-01-03"
+  }
+ }
+}

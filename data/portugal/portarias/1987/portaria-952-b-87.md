@@ -1,0 +1,2020 @@
+---
+schema_version: '1.0'
+id: pt:dre:305449:por
+title: Portaria n.º 952-B/87
+short_title: null
+summary: Altera os quadros de pessoal dos serviços do Ministério Público nos vários tribunais
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Justiça
+proposing_entity: null
+official_number: 952-B/87
+official_date: null
+publication_date: '1987-12-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 294/1987, 2º Suplemento, Série I de 1987-12-23
+  number: '294'
+  series: I
+  supplement: null
+  pages: 4392-(6) a 4392-(17)
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/12/29402/00060017.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '305449'
+  dre_path: /dr/detalhe/portaria/952-b-1987-305449
+  internal: pt:dre:305449:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/952-b-1987-305449
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/952-b-1987-305449
+  consolidated_url: null
+  retrieved_at: '2026-10-23T09:21:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2ee90af999922a0fad0e4fb8b0147baa4b0fc71659aa7a71bcdb74d41323bdaa
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:21:29Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ministério Público
+- Quadro de Pessoal
+- Supremo Tribunal de Justiça
+- Tribunal da Relação
+relationships:
+- type: cites
+  target: pt:dre:375815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650730:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:186879:por
+  label: Rectificada pela DECL.DD2077.1988.01.06.PCM,DR.IS [25]Supl de 30/Jan/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-186879
+  date: '1988-01-06'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T09:21:29Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 952-B/87
+
+de 23 de Dezembro
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Justiça, em conformidade com o disposto no n.º 1 do artigo 2.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, o seguinte:
+
+1.º Os quadros de pessoal dos serviços do Ministério Público nos tribunais abaixo relacionados têm a seguinte composição:
+
+Tribunais judiciais
+
+Tribunais superiores
+
+Supremo Tribunal de Justiça
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal da Relação de Coimbra
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal da Relação de Évora
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal da Relação de Lisboa
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal da Relação do Porto
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunais de 1.ª instância
+
+Tribunal de Abrantes
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Águeda
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto ... 2
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Albergaria-a-Velha
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Albufeira
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Alcácer do Sal
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Alcanena
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Alcobaça
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto ... 2
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Alenquer
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Alfândega da Fé
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Alijó
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Almada
+
+Secção central e duas secções de processos: ... Número de lugares
+
+Secretário técnico ... 1
+
+Técnico de justiça principal ... 2
+
+Técnico de justiça-adjunto (ver nota a) ... 6
+
+Técnico de justiça auxiliar (ver nota a) ... 6
+
+(nota a) Uma unidade para apoio ao tribunal do trabalho.
+
+Tribunal de Almeida
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Almodôvar
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Alvaiázere
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Amarante
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Amares
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Anadia
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto ... 2
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Angra do Heroísmo
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar (ver nota a) ... 2
+
+(nota a) Uma unidade para apoio ao tribunal do trabalho.
+
+Tribunal de Ansião
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Arcos de Valdevez
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Arganil
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Armamar
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Arouca
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Arraiolos
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Aveiro
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Secretário técnico ... 1
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota a) ... 3
+
+Técnico de justiça auxiliar ... 5
+
+Tribunal de Avis
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Baião
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Barcelos
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota a) ... 4
+
+Técnico de justiça auxiliar ... 3
+
+Tribunal do Barreiro
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota a) ... 4
+
+Técnico de justiça auxiliar ... 3
+
+Tribunal de Beja
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota a) ... 3
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Benavente
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Boticas
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Braga
+
+Secção central e duas secções de processos: ... Número de lugares
+
+Secretário técnico ... 1
+
+Técnico de justiça principal ... 2
+
+Técnico de justiça-adjunto (ver nota a) ... 5
+
+Técnico de justiça auxiliar ... 5
+
+Tribunal de Bragança
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota a) ... 2
+
+Técnico de justiça auxiliar ... 2
+
+(nota a) Uma unidade para apoio ao tribunal do trabalho.
+
+Tribunal de Cabeceiras de Basto
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal das Caldas da Rainha
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota a) ... 2
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Caminha
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Cantanhede
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Carrazeda de Ansiães
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal do Cartaxo
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Cascais
+
+Secção central e três secções de processos: ... Número de lugares
+
+Secretário técnico ... 1
+
+Técnico de justiça principal ... 3
+
+Técnico de justiça-adjunto (ver nota a) ... 8
+
+Técnico de justiça auxiliar ... 9
+
+Tribunal de Castelo Branco
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota a) ... 2
+
+Técnico de justiça auxiliar ... 2
+
+(nota a) Uma unidade para apoio ao tribunal do trabalho.
+
+Tribunal de Castelo de Paiva
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Castelo de Vide
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Castro Daire
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Celorico de Basto
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Celorico da Beira
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Chaves
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Cinfães
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Coimbra
+
+Secção central e duas secções de processos: ... Número de lugares
+
+Secretário técnico ... 1
+
+Técnico de justiça principal ... 2
+
+Técnico de justiça-adjunto (ver nota a) ... 8
+
+Técnico de justiça auxiliar (ver nota b) ... 8
+
+(nota a) Três unidades para apoio ao tribunal de instrução criminal, tribunal do trabalho e tribunal de execução das penas.
+
+(nota b) Uma unidade para apoio ao tribunal de menores.
+
+Tribunal de Condeixa-a-Nova
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Coruche
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal da Covilhã
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota c) ... 2
+
+Técnico de justiça auxiliar ... 2
+
+(nota c) Uma unidade para apoio ao tribunal do trabalho.
+
+Tribunal de Cuba
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Elvas
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Espinho
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto ... 2
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Esposende
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Estarreja
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Estremoz
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Évora
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota a) ... 4
+
+Técnico de justiça auxiliar (ver nota b) ... 4
+
+Tribunal de Fafe
+
+Unidades de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Faro
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota a) ... 4
+
+Técnico de justiça auxiliar ... 3
+
+(nota a) Uma unidade para apoio ao tribunal do trabalho.
+
+(nota b) Uma unidade para apoio ao tribunal de execução das penas.
+
+Tribunal de Felgueiras
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Ferreira do Alentejo
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Ferreira do Zêzere
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal da Figueira de Foz
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota a) ... 3
+
+Técnico de justiça auxiliar ... 3
+
+Tribunal de Figueira de Castelo Rodrigo
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Figueiró dos Vinhos
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Fornos de Algodres
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Fronteira
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal do Funchal
+
+Secção central e duas secções de processos: ... Número de lugares
+
+Secretário técnico ... 1
+
+Técnico de justiça principal ... 2
+
+Técnico de justiça-adjunto (ver nota a) ... 6
+
+Técnico de justiça auxiliar (ver nota b) ... 7
+
+Tribunal do Fundão
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal da Golegã
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Gouveia
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Grândola
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal da Guarda
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota a) ... 2
+
+Técnico de justiça auxiliar ... 2
+
+(nota a) Uma unidade para apoio ao tribunal do trabalho.
+
+(nota b) Uma unidade para apoio ao tribunal de menores.
+
+Tribunal de Guimarães
+
+Secção central e duas secções de processos: ... Número de lugares
+
+Secretário técnico ... 1
+
+Secretário de justiça principal ... 2
+
+Técnico de justiça-adjunto (ver nota a) ... 4
+
+Técnico de justiça auxiliar ... 4
+
+Tribunal da Horta
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Idanha-a-Nova
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal da ilha das Flores
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal da ilha Graciosa
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal da ilha do Pico
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal da ilha de Santa Maria
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal da ilha de São Jorge
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Lagos
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Lamego
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota a) ... 2
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Leiria
+
+Secção central e duas secções de processos: ... Número de lugares
+
+Secretário técnico ... 1
+
+Técnico de justiça principal ... 2
+
+Técnico de justiça-adjunto (ver nota a) ... 4
+
+Técnico de justiça auxiliar ... 4
+
+(nota a) Uma unidade para apoio ao tribunal do trabalho.
+
+Tribunais de Lisboa
+
+Juízos cíveis
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Secretário técnico ... 1
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto ... 12
+
+Técnico de justiça auxiliar ... 5
+
+Tribunais do trabalho
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Secretário técnico ... 1
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto ... 13
+
+Técnico de justiça auxiliar ... 14
+
+Tribunais de família
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota a) ... 4
+
+Técnico de justiça auxiliar ... 2
+
+Tribunais criminais
+
+Secção central e sete secções de processos: ... Número de lugares
+
+Secretário técnico ... 1
+
+Técnico de justiça principal ... 8
+
+Técnico de justiça-adjunto (ver nota b) ... 59
+
+Técnico de justiça auxiliar (ver nota c) ... 28
+
+Tribunal de Loulé
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto ... 3
+
+Técnico de justiça auxiliar ... 3
+
+Tribunal de Loures
+
+Secção central e duas secções de processos: ... Número de lugares
+
+Secretário técnico ... 1
+
+Técnico de justiça principal ... 2
+
+Técnico de justiça-adjunto (ver nota d) ... 4
+
+Técnico de justiça auxiliar ... 4
+
+(nota a) Uma unidade para apoio ao tribunal de menores.
+
+(nota b) Uma unidade para apoio ao tribunal de execução das penas e três para apoio ao tribunal de polícia.
+
+(nota c) Duas unidades para apoio ao tribunal de polícia.
+
+(nota d) Uma unidade para apoio ao tribunal do trabalho.
+
+Tribunal da Lourinhã
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal da Lousã
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Lousada
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Mação
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Macedo de Cavaleiros
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Mafra
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Mangualde
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Marco de Canaveses
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal da Marinha Grande
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Matosinhos
+
+Secção central e duas secções de processos: ... Número de lugares
+
+Secretário técnico ... 1
+
+Técnico de justiça principal ... 2
+
+Técnico de justiça-adjunto (ver nota a) ... 4
+
+Técnico de justiça auxiliar (ver nota a) ... 6
+
+(nota a) Uma unidade para apoio ao tribunal do trabalho.
+
+Tribunal de Meda
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Melgaço
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Mértola
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Mesão Frio
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Miranda do Douro
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Mirandela
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Mogadouro
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Moimenta da Beira
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal da Moita
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Monção
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Monchique
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Moncorvo
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Mondim de Basto
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Montalegre
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Montemor-o-Novo
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Montemor-o-Velho
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal do Montijo
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Moura
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Murça
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Nisa
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Nordeste
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Odemira
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Oeiras
+
+Secção central e duas secções de processos: ... Número de lugares
+
+Secretário técnico ... 1
+
+Técnico de justiça principal ... 2
+
+Técnico de justiça-adjunto ... 6
+
+Técnico de justiça auxiliar ... 7
+
+Tribunal de Oleiros
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Olhão
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Oliveira de Azeméis
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota a) ... 3
+
+Técnico de justiça auxiliar ... 2
+
+(nota a) Uma unidade para apoio ao tribunal do trabalho.
+
+Tribunal de Oliveira de Frades
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Oliveira do Hospital
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Ourique
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Ovar
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto ... 2
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Paços de Ferreira
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Pampilhosa da Serra
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Paredes
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto ... 2
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Paredes de Coura
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Penacova
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Penafiel ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota a) ... 2
+
+Técnico de justiça auxiliar ... 2
+
+(nota a) Uma unidade para apoio ao tribunal do trabalho.
+
+Tribunal de Penamacor
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Penela
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Peniche
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Peso da Régua
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Pinhel
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Pombal
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Ponta Delgada
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota a) ... 4
+
+Técnico de justiça auxiliar ... 3
+
+Tribunal de Ponta do Sol
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Ponte da Barca
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Ponte de Lima
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Ponte de Sor
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Portalegre
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota a) ... 2
+
+Técnico de justiça auxiliar ... 2
+
+(nota a) Uma unidade para apoio ao tribunal do trabalho.
+
+Tribunal de Portel
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Portimão
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota a) ... 3
+
+Técnico de justiça auxiliar ... 3
+
+(nota a) Uma unidade para apoio ao tribunal do trabalho.
+
+Tribunais do Porto
+
+Juízeis cíveis e do trabalho
+
+Secção central e duas secções de processos: ... Número de lugares
+
+Secretário técnico ... 1
+
+Técnico de justiça principal ... 2
+
+Técnico de justiça-adjunto (ver nota b) ... 13
+
+Técnico de justiça auxiliar ... 9
+
+(nota b) Uma unidade para apoio ao Tribunal do Trabalho da Maia.
+
+Tribunais de família
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota c) ... 2
+
+Técnico de justiça auxiliar ... 2
+
+(nota c) Uma unidade para apoio ao tribunal de menores.
+
+Tribunais criminais
+
+Secção central e quatro secções de processos: ... Número de lugares
+
+Secretário técnico ... 1
+
+Técnico de justiça principal ... 4
+
+Técnico de justiça-adjunto (ver nota d) ... 24
+
+Técnico de justiça auxiliar (ver nota e) ... 16
+
+(nota d) Duas unidades para apoio ao tribunal de instrução criminal e uma para apoio ao tribunal de polícia.
+
+(nota e) Uma unidade para apoio ao tribunal de instrução criminal e uma para apoio ao tribunal de execução das penas.
+
+Tribunal de Porto de Mós
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal da Povoação
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal da Póvoa de Lanhoso
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal da Póvoa de Varzim
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto ... 2
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal da Praia da Vitória
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Redondo
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Reguengos de Monsaraz
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Resende
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal da Ribeira Grande
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Rio Maior
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Sabrosa
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal do Sabugal
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Santa Comba Dão
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Santa Cruz
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Santa Maria da Feira
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota a) ... 4
+
+Técnico de justiça auxiliar ... 4
+
+(nota a) Uma unidade para apoio ao tribunal do trabalho.
+
+Tribunal de Santarém
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota a) ... 4
+
+Técnico de justiça auxiliar ... 3
+
+Tribunal de Santiago do Cacém
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Santo Tirso
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota a) ... 3
+
+Técnico de justiça auxiliar ... 2
+
+(nota a) Uma unidade para apoio ao tribunal do trabalho.
+
+Tribunal de São João da Madeira
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto ... 2
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de São João da Pesqueira
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de São Pedro do Sul
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de São Vicente
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Sátão
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Seia
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal do Seixal
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto ... 3
+
+Técnico de justiça auxiliar ... 4
+
+Tribunal de Serpa
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal da Sertã
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Sesimbra
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Setúbal
+
+Secção central e duas secções de processos: ... Número de lugares
+
+Secretário técnico ... 1
+
+Técnico de justiça principal ... 2
+
+Técnico de justiça-adjunto (ver nota a) ... 6
+
+Técnico de justiça auxiliar ... 5
+
+Tribunal de Silves
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Sintra
+
+Secção central e três secções de processos: ... Número de lugares
+
+Secretário técnico ... 1
+
+Técnico de justiça principal ... 3
+
+Técnico de justiça-adjunto (ver nota a) ... 7
+
+Técnico de justiça auxiliar ... 7
+
+Tribunal de Soure
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Tábua
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Tabuaço
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Tavira
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Tomar
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota a) ... 3
+
+Técnico de justiça auxiliar ... 2
+
+(nota a) Uma unidade para apoio ao tribunal do trabalho.
+
+Tribunal de Tondela
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Torres Novas
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 2
+
+Tribunal de Torres Vedras
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota a) ... 2
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Trancoso
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Vagos
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Vale de Cambra
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Valença
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Valpaços
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Viana do Castelo
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota a) ... 3
+
+Técnico de justiça auxiliar ... 3
+
+(nota a) Uma unidade para apoio ao tribunal do trabalho.
+
+Tribunal de Vieira do Minho
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Vila do Conde
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto ... 2
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Vila Flor
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Vila Franca do Campo
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Vila Franca de Xira
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota a) ... 4
+
+Técnico de justiça auxiliar ... 3
+
+Tribunal de Vila Nova de Cerveira
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Vila Nova de Famalicão
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota a) ... 4
+
+Técnico de justiça auxiliar ... 3
+
+Tribunal de Vila Nova de Foz Côa
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Vila Nova de Gaia
+
+Secção central e três secções de processos: ... Número de lugares
+
+Secretário técnico ... 1
+
+Técnico de justiça principal ... 3
+
+Técnico de justiça-adjunto (ver nota b) ... 6
+
+Técnico de justiça auxiliar (ver nota a) ... 8
+
+Tribunal de Vila Nova de Ourém
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Vila Pouca de Aguiar
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal de Vila Real
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota a) ... 2
+
+Técnico de justiça auxiliar ... 2
+
+(nota a) Uma unidade para apoio ao tribunal do trabalho.
+
+(nota b) Duas unidades para apoio ao tribunal do trabalho e tribunal de polícia.
+
+Tribunal de Vila Real de Santo António
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Vila Verde
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal de Vila Viçosa
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Vimioso
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Vinhais
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunal de Viseu
+
+Secção central e uma secção de processos: ... Número de lugares
+
+Técnico de justiça principal ... 1
+
+Técnico de justiça-adjunto (ver nota a) ... 4
+
+Técnico de justiça auxiliar ... 3
+
+(nota a) Uma unidade para apoio ao tribunal do trabalho.
+
+Tribunal de Vouzela
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Tribunais administrativos
+
+Supremo Tribunal Administrativo
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 2
+
+Tribunal Administrativo de Círculo de Coimbra
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal Administrativo de Círculo de Lisboa
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+Técnico de justiça auxiliar ... 1
+
+Tribunal Administrativo de Círculo do Porto
+
+Unidade de apoio: ... Número de lugares
+
+Técnico de justiça-adjunto ... 1
+
+2.º Enquanto não forem fixados os novos quadros de pessoal das secretarias judiciais consideram-se reproduzidos os actuais e, em conformidade com o disposto no n.º 1.º, são extintos todos os lugares de funcionários afectos ao serviço do Ministério Público constantes dos mapas anexos ao [Decreto-Lei n.º 385/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1982-375815), de 16 de Setembro, e diplomas complementares.
+
+3.º os funcionários cujos lugares são extintos mantêm-se em funções nos tribunais em que se encontram na situação de supranumerários, até à sua colocação nos termos dos artigos 187.º a 190.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro.
+
+Ministérios das Finanças e da Justiça.
+
+Assinada em 21 de Dezembro de 1987.
+
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Justiça, Joaquim Fernando Nogueira.

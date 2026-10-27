@@ -1,0 +1,250 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:208065:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1998-107796808",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/3-1998-208065",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-04-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107793447",
+    "107793448",
+    "107793449",
+    "107793450",
+    "107793451",
+    "107793452",
+    "107793453",
+    "107793454",
+    "107793455",
+    "107793456",
+    "107793457"
+   ]
+  },
+  {
+   "date": "2002-11-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:449375:por",
+     "title": "Decreto Legislativo Regional n.º 20/2002/M",
+     "published": "2002-11-16",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/20-2002-449375"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "107793447",
+    "107793448",
+    "107797280",
+    "107793450",
+    "107797281",
+    "107793452",
+    "107797282",
+    "107793454",
+    "107793455",
+    "107793456",
+    "107793457",
+    "107793458"
+   ]
+  },
+  {
+   "date": "2017-08-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107791618:por",
+     "title": "Decreto Legislativo Regional n.º 20/2017/M",
+     "published": "2017-08-01",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/20-2017-107791618"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "107793447",
+    "107793448",
+    "107797280",
+    "107797283",
+    "107797284",
+    "107793452",
+    "107797285",
+    "107793454",
+    "107793455",
+    "107793456",
+    "107793457",
+    "107793458"
+   ]
+  }
+ ],
+ "fragments": {
+  "107793447": {
+   "fragment_id": "107796809",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 3/98/M\n\nCriação do Conselho Regional de Educação e Formação Profissional A prossecução de uma adequada política de educação e formação profissional constitui um instrumento essencial ao desenvolvimento coerente e harmonioso de qualquer região.\n\nPor outro lado, a eficácia dessas políticas depende também da possibilidade de participação efectiva dos diferentes sectores envolvidos e interessados na questão, os quais devem procurar promover um contínuo ajustamento à realidade regional de normas e perspectivas estabelecidas quer para o espaço nacional quer para os diferentes países parceiros na construção da União Europeia.\n\nA um outro nível, a audição da sociedade madeirense deve ser perspectivada tendo também em consideração o enquadramento orgânico-legislativo dos órgãos de governo próprio, pelo que, neste contexto, se afigura imperioso promover, neste momento, a aglutinação dos conselhos regionais existentes para os sectores num só órgão consultivo do membro do governo que os tutela.\n\nAssim, a Assembleia Legislativa Regional da Madeira, ao abrigo da alínea a) do n.º 1 do artigo 227.º da Constituição e da alínea c) do n.º 1 do artigo 29.º da Lei n.º 13/91, de 5 de Junho, decreta o seguinte:"
+  },
+  "107793448": {
+   "fragment_id": "107796810",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - É criado o Conselho Regional de Educação e Formação Profissional, adiante designado por CREFP.\n\n2 - A natureza, finalidade, composição, competências e funcionamento do CREFP são os fixados no presente diploma."
+  },
+  "107793449": {
+   "fragment_id": "107796811",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza e finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza e finalidade\n\n1 - O CREFP é um órgão consultivo do membro do Governo Regional responsável pela implementação das políticas educativa e de formação profissional.\n\n2 - O CREFP colabora na definição dos princípios orientadores das políticas educativa e de formação profissional e dos respectivos instrumentos operacionalizantes."
+  },
+  "107793450": {
+   "fragment_id": "107796812",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuições e competências\n\nAo CREFP compete, nomeadamente:\n\n1) Acompanhar a evolução dos sistemas educativos e de formação profissional da Região, nacional e dos restantes países da União Europeia;\n\n2) Emitir opiniões, pareceres e recomendações sobre matéria educativa e de formação profissional, quer por iniciativa própria, bem como em resposta a solicitações que lhe sejam dirigidas."
+  },
+  "107793451": {
+   "fragment_id": "107796813",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Composição\n\n1 - O CREFP tem a seguinte composição:\n\na) O secretário regional que tutela o sector;\n\nb) Um representante por cada uma das secretarias regionais que compõem a\n\nestrutura governamental, excepção feita à Secretaria Regional de Educação;\n\nc) Três representantes do departamento governamental responsável pela\n\nimplementação das políticas educativa e de formação profissional;\n\nd) O representante da Região Autónoma da Madeira no Conselho Nacional de Educação;\n\ne) Um representante da Universidade da Madeira;\n\nf) Um representante da diocese do Funchal;\n\ng) Um representante da Associação de Municípios da Região Autónoma da Madeira - AMRAM;\n\nh) Um representante do Conselho Desportivo Regional;\n\ni) Um representante do Conselho Regional de Juventude;\n\nj) Um representante de cada uma das ordens existentes na Região;\n\nk) Um representante da Associação Comercial e Industrial do Funchal - Câmara de Comércio e Indústria da Madeira - ACIF;\n\nl) Um representante da Associação de Jovens Empresários Madeirenses - AJEM;\n\nm) Um representante da Associação da Indústria, Associação da Construção da Região Autónoma da Madeira - ASSICOM;\n\nn) Um representante da Associação de Comércio e Serviços da Região Autónoma da Madeira;\n\no) Um representante da Associação de Agricultores da Madeira e do Porto Santo;\n\np) Um representante da Associação dos Jovens Agricultores da Madeira e do Porto Santo;\n\nq) Um representante por cada um dos sindicatos de professores existentes;\n\nr) Um representante da União Geral de Trabalhadores;\n\ns) Um representante da União dos Sindicatos do Arquipélago da Madeira;\n\nt) Dois representantes das associações de pais existentes na Região;\n\nu) Um representante da Associação dos Universitários Madeirenses;\n\nv) Dois representantes das associações de estudantes existentes no ensino superior da Região;\n\nw) Dois representantes das associações de estudantes existentes no ensino oficial básico/secundário da Região;\n\nx) Um representante das associações de estudantes do ensino particular e cooperativo existentes na Região;\n\ny) Um representante do Pólo Científico e Tecnológico da Madeira;\n\nz) Um representante do Centro de Ciência e Tecnologia da Madeira - CITMA;\n\naa) Um representante da Agência Regional da Energia e Ambiente da Região Autónoma da Madeira - AREAM;\n\nbb) Um representante da Associação Regional do Desenvolvimento e Tecnologias de Informação da Madeira - DTIM;\n\ncc) Quatro personalidades de reconhecida competência nos sectores, a nomear pelo presidente do CREFP.\n\n2 - A designação dos representantes é da responsabilidade das entidades e organizações referidas.\n\n3 - As personalidades a que se refere a alínea cc) do n.º 1 do presente artigo serão propostas na primeira reunião do CREFP.\n\n4 - Os membros do CREFP não podem representar mais de uma entidade ou organização."
+  },
+  "107793452": {
+   "fragment_id": "107796814",
+   "type": 11,
+   "heading": "Artigo 5.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Funcionamento\n\n1 - O CREFP funciona em plenário ou em comissões especializadas.\n\n2 - O presidente do CREFP poderá delegar as suas competências em elemento por si indicado e adiante referenciado como representante."
+  },
+  "107793453": {
+   "fragment_id": "107796815",
+   "type": 11,
+   "heading": "Artigo 6.º — Reuniões e deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Reuniões e deliberações\n\n1 - O CREFP reúne por iniciativa do seu presidente ou a requerimento de, pelo menos, dois terços dos seus membros, sendo os mesmos convocados para o efeito com a antecedência mínima de oito dias úteis.\n\n2 - O CREFP só funcionará com a presença da maioria dos seus membros e quando estiver presente o presidente ou o seu representante.\n\n3 - As reuniões em comissões especializadas ocorrerão sob convocatória do membro do CREFP indicado em plenário para presidir à referida comissão, submetendo-se, para efeitos de convocatória, ao regime geral expresso neste diploma.\n\n4 - Os membros do CREFP, com excepção dos previstos na alínea cc) do n.º 1 do artigo 4.º deste diploma, poderão ser substituídos, nas suas faltas ou impedimentos, por quem as respectivas entidades ou organizações designarem, devendo, para o efeito, ser dado conhecimento prévio ao presidente do CREFP.\n\n5 - As substituições dos membros referidos na citada alínea cc) do n.º 1 do artigo 4.º só ocorrerão quando se verificar a sua impossibilidade de exercício definitivo ou temporário, desde que superior a seis meses."
+  },
+  "107793454": {
+   "fragment_id": "107796816",
+   "type": 11,
+   "heading": "Artigo 7.º — Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regulamento\n\nO CREFP aprova o seu regulamento interno, sob proposta do presidente, no prazo de 90 dias a contar da data de posse dos seus membros."
+  },
+  "107793455": {
+   "fragment_id": "107796817",
+   "type": 11,
+   "heading": "Artigo 8.º — Apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apoio\n\nO apoio técnico, logístico e material necessário ao funcionamento do CREFP será prestado pela Secretaria Regional de Educação."
+  },
+  "107793456": {
+   "fragment_id": "107796818",
+   "type": 11,
+   "heading": "Artigo 9.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Revogação\n\nSão revogados os Decretos Legislativos Regionais n.os 5/94/M e 23/94/M, de 26 de Março e de 14 de Setembro, respectivamente."
+  },
+  "107793457": {
+   "fragment_id": "107796819",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "107797280": {
+   "fragment_id": "107796811",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza e finalidade",
+   "in_force_from": "2002-11-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2002/M - Diário da República n.º 265/2002, Série I-A de 2002-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2002-449375), em vigor a partir de 2002-11-17"
+   ],
+   "markdown": "###### Artigo 2.º — Natureza e finalidade\n\n1 - O CREFP é um órgão consultivo do membro do Governo Regional responsável pela implementação das políticas educativa e de formação profissional.\n\n2 - O CREFP colabora na definição dos princípios orientadores das políticas educativa e de formação profissional e dos respectivos instrumentos operacionalizantes.\n\n3 - O CREFP pode, por iniciativa dos seus membros, de acordo com o preceituado neste diploma e no respectivo regimento, emitir opiniões, dar pareceres, apresentar propostas e efectuar recomendações ao membro do Governo Regional a quem competir a tutela da educação e da formação profissional.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2002/M - Diário da República n.º 265/2002, Série I-A de 2002-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2002-449375), em vigor a partir de 2002-11-17"
+  },
+  "107797281": {
+   "fragment_id": "107796813",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição",
+   "in_force_from": "2002-11-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2002/M - Diário da República n.º 265/2002, Série I-A de 2002-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2002-449375), em vigor a partir de 2002-11-17"
+   ],
+   "markdown": "###### Artigo 4.º — Composição\n\n1 - O CREFP tem a seguinte composição:\n\na) Um elemento nomeado pelo membro do Governo Regional a quem competir a tutela da educação e formação, que presidirá;\n\nb) Um representante por cada uma das secretarias regionais que compõem a\n\nestrutura governamental, excepção feita à Secretaria Regional de Educação;\n\nc) Três representantes do departamento governamental responsável pela\n\nimplementação das políticas educativa e de formação profissional;\n\nd) O representante da Região Autónoma da Madeira no Conselho Nacional de Educação;\n\ne) Um representante da Universidade da Madeira;\n\nf) Um representante da diocese do Funchal;\n\ng) Um representante da Associação de Municípios da Região Autónoma da Madeira - AMRAM;\n\nh) Um representante do Conselho Desportivo da Região Autónoma da Madeira;\n\ni) Um representante do Instituto da Juventude;\n\nj) Um representante de cada uma das ordens existentes na Região;\n\nk) Um representante da Associação Comercial e Industrial do Funchal - Câmara de Comércio e Indústria da Madeira - ACIF;\n\nl) Um representante da Associação de Jovens Empresários Madeirenses - AJEM;\n\nm) Um representante da Associação da Indústria, Associação da Construção da Região Autónoma da Madeira - ASSICOM;\n\nn) Um representante da Associação de Comércio e Serviços da Região Autónoma da Madeira;\n\no) Um representante da Associação de Agricultores da Madeira e do Porto Santo;\n\np) Um representante da Associação dos Jovens Agricultores da Madeira e do Porto Santo;\n\nq) Um representante do Conselho Empresarial da Madeira - CEM;\n\nr) Um representante de cada uma das associações sindicais de professores existentes na Região Autónoma da Madeira;\n\ns) Um representante da União Geral de Trabalhadores;\n\nt) Um representante da União dos Sindicatos da Região Autónoma da Madeira;\n\nu) Dois representantes das associações de pais existentes na Região Autónoma da Madeira;\n\nv) Um representante da associação de universitários madeirenses;\n\nw) Dois representantes das associações de estudantes do ensino superior existentes na Região;\n\nx) Dois representantes das associações de estudantes do ensino secundário existentes na Região;\n\ny) Um representante das associações de estudantes do ensino particular e cooperativo existentes na Região;\n\nz) Um representante do Pólo Científico e Tecnológico da Madeira;\n\naa) Um representante do Centro de Ciência e Tecnologia da Madeira - CITMA;\n\nbb) Um representante da Agência Regional de Energia e Ambiente da Região Autónoma da Madeira - AREAM;\n\ncc) Um representante da Associação Regional do Desenvolvimento e Tecnologias de Informação da Madeira - DTIM;\n\ndd) Um representante do Instituto de Gestão dos Fundos Comunitários;\n\nee) Quatro personalidades de reconhecida competência nos sectores, a nomear pelo membro do Governo com tutela sobre os sectores de educação, formação profissional e novas tecnologias.\n\n2 - A designação dos representantes é da responsabilidade das entidades e organizações referidas.\n\n3 - As personalidades a que se refere a alínea ee) do n.º 1 do presente artigo serão propostas na primeira reunião do CREFP que ocorra após a publicação do presente diploma.\n\n4 - Os membros do CREFP não podem representar mais de uma entidade ou organização.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2002/M - Diário da República n.º 265/2002, Série I-A de 2002-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2002-449375), em vigor a partir de 2002-11-17"
+  },
+  "107797282": {
+   "fragment_id": "107796815",
+   "type": 11,
+   "heading": "Artigo 6.º — Reuniões e deliberações",
+   "in_force_from": "2002-11-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2002/M - Diário da República n.º 265/2002, Série I-A de 2002-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2002-449375), em vigor a partir de 2002-11-17"
+   ],
+   "markdown": "###### Artigo 6.º — Reuniões e deliberações\n\n1 - O CREFP reúne por iniciativa do seu presidente ou a requerimento de, pelo menos, dois terços dos seus membros, sendo os mesmos convocados para o efeito com a antecedência mínima de oito dias úteis.\n\n2 - O CREFP só funcionará com a presença da maioria dos seus membros e quando estiver presente o presidente ou o seu representante.\n\n3 - As reuniões em comissões especializadas ocorrerão sob convocatória do membro do CREFP indicado em plenário para presidir à referida comissão, submetendo-se, para efeitos de convocatória, ao regime geral expresso neste diploma.\n\n4 - Os membros do CREFP, com excepção dos previstos na alínea cc) do n.º 1 do artigo 4.º deste diploma, poderão ser substituídos, nas suas faltas ou impedimentos, por quem as respectivas entidades ou organizações designarem, devendo, para o efeito, ser dado conhecimento prévio ao presidente do CREFP.\n\n5 - As substituições dos membros referidos na citada alínea cc) do n.º 1 do artigo 4.º só ocorrerão quando se verificar a sua impossibilidade de exercício definitivo ou temporário, desde que superior a seis meses.\n\n6 - Nos casos em que esteja presente o membro do Governo Regional a quem competir a tutela da educação e formação profissional, competir-lhe-á presidir ao plenário do CREFP.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2002/M - Diário da República n.º 265/2002, Série I-A de 2002-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2002-449375), em vigor a partir de 2002-11-17"
+  },
+  "107793458": {
+   "fragment_id": "107796820",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 18 de Fevereiro de 1998.\n\nO Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 16 de Março de 1998.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "107797283": {
+   "fragment_id": "107796812",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições e competências",
+   "in_force_from": "2017-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2017/M - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2017-107791618), em vigor a partir de 2017-08-02"
+   ],
+   "markdown": "###### Artigo 3.º — Atribuições e competências\n\n1 - Ao CREFP compete, nomeadamente:\n\na) Acompanhar a evolução dos sistemas educativos e de formação profissional da Região, nacional e dos restantes países da União Europeia;\n\nb) Promover a reflexão e o debate, emitir opiniões, pareceres e recomendações sobre matéria educativa e de formação profissional, quer por iniciativa própria, bem como em resposta a solicitações que lhe sejam dirigidas;\n\nc) Aprovar o plano anual de atividades e respetivo relatório.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2017/M - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2017-107791618), em vigor a partir de 2017-08-02"
+  },
+  "107797284": {
+   "fragment_id": "107796813",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição",
+   "in_force_from": "2017-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2017/M - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2017-107791618), em vigor a partir de 2017-08-02",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2002/M - Diário da República n.º 265/2002, Série I-A de 2002-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2002-449375), em vigor a partir de 2002-11-17"
+   ],
+   "markdown": "###### Artigo 4.º — Composição\n\n1 - O CREFP tem a seguinte composição:\n\na) Um elemento nomeado pelo membro do Governo Regional a quem competir a tutela da educação e formação, que presidirá;\n\nb) Um representante por cada uma das secretarias regionais que compõem a\n\nestrutura governamental, excepção feita à Secretaria Regional de Educação;\n\nc) Três representantes do departamento governamental responsável pela\n\nimplementação das políticas educativa e de formação profissional;\n\nd) O representante da Região Autónoma da Madeira no Conselho Nacional de Educação;\n\ne) Um representante da Universidade da Madeira;\n\nf) Um representante da diocese do Funchal;\n\ng) Um representante da Associação de Municípios da Região Autónoma da Madeira - AMRAM;\n\nh) Um representante do Conselho Desportivo da Região Autónoma da Madeira;\n\ni) Um representante do Conselho da Juventude da Madeira;\n\nj) Um representante de cada um dos Conselhos Municipais de Educação da Região Autónoma da Madeira;\n\nk) Um representante de cada uma das ordens existentes na Região;\n\nl) Um representante da Associação Comercial e Industrial do Funchal - Câmara de Comércio e Indústria da Madeira - ACIF;\n\nm) Um representante da Associação de Jovens Empresários Madeirenses - AJEM;\n\nn) Um representante da Associação da Indústria, Associação da Construção da Região Autónoma da Madeira - ASSICOM;                                          o) Um representante da Associação de Agricultores da Madeira e do Porto Santo;\n\np) Um representante da Associação dos Jovens Agricultores da Madeira e do Porto Santo;\n\nq) Um representante do Conselho Empresarial da Madeira - CEM;\n\nr) Um representante de cada uma das associações sindicais de professores existentes na Região Autónoma da Madeira;\n\ns) Um representante da União Geral de Trabalhadores;\n\nt) Um representante da União dos Sindicatos da Região Autónoma da Madeira;\n\nu) Dois representantes das associações de pais existentes na Região Autónoma da Madeira;\n\nv) Um representante da associação de universitários madeirenses;\n\nw) Dois representantes das associações de estudantes do ensino superior existentes na Região;\n\nx) Dois representantes das associações de estudantes do ensino secundário existentes na Região;\n\ny) Um representante das associações de estudantes do ensino particular e cooperativo existentes na Região;\n\nz) Um representante do Polo Científico e Tecnológico da Madeira - Madeira Tecnopolo, S. A.;\n\naa) Um representante da Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação - ARDITI;\n\nbb) Um representante da Agência Regional de Energia e Ambiente da Região Autónoma da Madeira - AREAM;\n\ncc) Um representante da Associação Regional do Desenvolvimento e Tecnologias de Informação da Madeira - DTIM;\n\ndd) Um representante do Instituto de Desenvolvimento Regional, IP-RAM;\n\nee) Quatro personalidades de reconhecida competência nos sectores, a nomear pelo membro do Governo com tutela sobre os sectores de educação, formação profissional e novas tecnologias.\n\nff) Um representante dos estabelecimentos de ensino católico designado pela Diocese do Funchal;\n\ngg) Um representante da área da educação especial.\n\n2 - A designação dos representantes é da responsabilidade das entidades e organizações referidas.\n\n3 - As personalidades a que se refere a alínea ee) do n.º 1 do presente artigo serão propostas na primeira reunião do CREFP que ocorra após a publicação do presente diploma.\n\n4 - Os membros do CREFP não podem representar mais de uma entidade ou organização.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2017/M - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2017-107791618), em vigor a partir de 2017-08-02\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2002/M - Diário da República n.º 265/2002, Série I-A de 2002-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2002-449375), em vigor a partir de 2002-11-17"
+  },
+  "107797285": {
+   "fragment_id": "107796815",
+   "type": 11,
+   "heading": "Artigo 6.º — Reuniões e deliberações",
+   "in_force_from": "2017-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2017/M - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2017-107791618), em vigor a partir de 2017-08-02",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2002/M - Diário da República n.º 265/2002, Série I-A de 2002-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2002-449375), em vigor a partir de 2002-11-17"
+   ],
+   "markdown": "###### Artigo 6.º — Reuniões e deliberações\n\n1 - As reuniões ordinárias realizam-se anualmente e as reuniões extraordinárias realizam-se por iniciativa do presidente ou a requerimento de, pelo menos, um terço dos membros do CREPF, sendo os mesmos convocados para o efeito com a antecedência mínima de oito dias úteis.\n\n2 - O CREFP só funcionará com a presença da maioria dos seus membros e quando estiver presente o presidente ou o seu representante.\n\n3 - As reuniões em comissões especializadas ocorrerão sob convocatória do membro do CREFP indicado em plenário para presidir à referida comissão, submetendo-se, para efeitos de convocatória, ao regime geral expresso neste diploma.\n\n4 - Os membros do CREFP, com excepção dos previstos na alínea cc) do n.º 1 do artigo 4.º deste diploma, poderão ser substituídos, nas suas faltas ou impedimentos, por quem as respectivas entidades ou organizações designarem, devendo, para o efeito, ser dado conhecimento prévio ao presidente do CREFP.\n\n5 - As substituições dos membros referidos na citada alínea cc) do n.º 1 do artigo 4.º só ocorrerão quando se verificar a sua impossibilidade de exercício definitivo ou temporário, desde que superior a seis meses.\n\n6 - Nos casos em que esteja presente o membro do Governo Regional a quem competir a tutela da educação e formação profissional, competir-lhe-á presidir ao plenário do CREFP.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2017/M - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2017-107791618), em vigor a partir de 2017-08-02\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2002/M - Diário da República n.º 265/2002, Série I-A de 2002-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2002-449375), em vigor a partir de 2002-11-17"
+  }
+ }
+}

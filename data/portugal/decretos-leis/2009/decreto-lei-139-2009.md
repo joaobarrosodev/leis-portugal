@@ -1,0 +1,645 @@
+---
+schema_version: '1.0'
+id: pt:dre:494544:por
+title: Decreto-Lei n.º 139/2009
+short_title: null
+summary: Estabelece o regime jurídico de salvaguarda do património cultural imaterial
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Cultura
+proposing_entity: null
+official_number: 139/2009
+official_date: null
+publication_date: '2009-06-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 113/2009, Série I de 2009-06-15
+  number: '113'
+  series: I
+  supplement: null
+  pages: 3647 - 3653
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/06/11300/0364703653.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2015-08-09'
+version_history:
+  file: decreto-lei-139-2009.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2009-06-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-08-09'
+    amending: pt:dre:69935162:por
+    amending_title: Decreto-Lei n.º 149/2015
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 28.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/139/2009/p/cons/20150804/pt/html
+  oj: null
+  dre: '494544'
+  dre_path: /dr/detalhe/decreto-lei/139-2009-494544
+  internal: pt:dre:494544:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2009-494544
+  metadata_url: https://data.dre.pt/eli/dec-lei/139/2009/p/cons/20150804/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-70053210
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-70053210
+  retrieved_at: '2026-10-22T12:01:36Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: cb02a54cbca25546cd05194bb9133a5c1653a513f11e75bfa1ed0e7f8433e5fb
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:01:36Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-139-2009.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Património Cultural Imaterial
+- BENS Classificados
+- Instituto dos Museus e da Conservação
+- Definição de Competências
+- Direcção Regional da Cultura
+- Artesanato
+- Património Cultural
+- Ministério da Cultura
+- Base de Dados
+- Inventário do Património Cultural
+- Direcção Geral das Artes
+- Comissão para o Património Cultural Imaterial
+- Protecção do Património
+- Regime Jurídico
+- Autarquia Local
+relationships:
+- type: amended_by
+  target: pt:dre:69935162:por
+  label: Altera Artigo 1.º; Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º;
+    Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º;
+    Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 20.º; Altera Artigo 28.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2015-69935162
+  date: '2015-08-04'
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: pt:dre:246508:por
+  label: null
+  source: http://data.dre.pt/eli/decpresrep/28/2008/03/26/p/dre
+- type: cites
+  target: pt:dre:246512:por
+  label: null
+  source: http://data.dre.pt/eli/resolassrep/12/2008/03/26/p/dre
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
+article_structure:
+  article_count: 31
+  section_count: 4
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:01:36Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 139/2009
+
+Decreto-Lei n.º 139/2009
+
+de 15 de Junho
+
+O presente decreto-lei estabelece o regime jurídico de salvaguarda do património cultural imaterial, em desenvolvimento do disposto na Lei n.º 107/2001, de 8 de Setembro, que estabeleceu as bases da política e do regime de protecção e valorização do património cultural, de harmonia com o direito internacional, nomeadamente com a Convenção para a Salvaguarda do Património Cultural Imaterial, adoptada na 32.ª Conferência Geral da UNESCO, em Paris em 17 de Outubro de 2003, aprovada pela Resolução da Assembleia da República n.º 12/2008, de 24 de Janeiro, e ratificada pelo Decreto do Presidente da República n.º 28/2008, de 26 de Março.
+
+Reconhece-se a importância do património cultural imaterial na articulação com outras políticas sectoriais, e na própria internacionalização da cultura portuguesa, e estabelece-se, de forma pioneira, um sistema de inventariação através de uma base de dados de acesso público que permite a participação das comunidades, dos grupos ou dos indivíduos na defesa e valorização do património cultural imaterial, designadamente do património que criam, mantêm e transmitem.
+
+Valoriza-se, assim, o papel que a vivência e reconhecimento do património cultural imaterial desempenha na sedimentação das identidades colectivas, a nível local e nacional, ao mesmo tempo que se propicia um espaço privilegiado de diálogo, conhecimento e compreensão mútuos entre diferentes tradições.
+
+É precisamente o reconhecimento da importância e diversidade do património cultural imaterial enquanto factor essencial para a preservação da identidade e memória colectivas das comunidades e grupos, bem como da relevância do papel desempenhado por estes nos processos de representação e transmissão do conhecimento, que norteia o regime jurídico de salvaguarda desenvolvido pelo presente decreto-lei.
+
+Em consonância com as novas competências orgânicas decorrentes do Programa de Reestruturação da Administração Central do Estado (PRACE), consagra-se a responsabilidade de coordenação das diversas iniciativas no âmbito da salvaguarda do património cultural imaterial ao Instituto dos Museus e da Conservação, I. P., de forma a articular esforços e potenciar sinergias na salvaguarda deste património.
+
+No âmbito da salvaguarda das manifestações do património cultural imaterial, sobretudo no que diz respeito ao processo de inventariação, as direcções regionais da cultura desempenham um papel determinante, enquanto administração cultural de proximidade, no apoio necessário às comunidades, grupos ou indivíduos. Num procedimento desmaterializado que se opera por plataforma informática, esta colaboração dos serviços mais próximos da população é indispensável para garantir a efectiva participação dos interessados, o que constitui o principal objectivo do sistema.
+
+O decreto-lei enquadra, ainda, a participação das autarquias locais, cujo papel reveste especial importância, na promoção e apoio para o conhecimento, defesa e valorização das manifestações do património cultural imaterial mais representativas das respectivas comunidades, incluindo as minorias étnicas que as integram.
+
+O sistema de inventariação instituído possibilita também, enquanto mecanismo de salvaguarda do património cultural imaterial, a desejável uniformização de procedimentos e o respeito pelas boas práticas em contexto de identificação, recolha, estudo e documentação das múltiplas manifestações do património cultural imaterial.
+
+Ao mesmo tempo o inventário nacional do património cultural imaterial permite corresponder a um dos requisitos fundamentais impostos pela Convenção da UNESCO de 2003 para possíveis candidaturas à Lista Representativa do Património Cultural Imaterial da Humanidade e à Lista do Património Cultural Imaterial Que Necessita de Salvaguarda Urgente.
+
+O inventário nacional resultante da inventariação das manifestações do património cultural imaterial permite, de igual modo, esclarecer o universo e conteúdo das manifestações a serem consideradas em sede de elaboração de planos sectoriais e de propostas de classificação de património cultural móvel e imóvel associado.
+
+A inventariação de manifestações do património cultural imaterial pressupõe uma decisão valorativa para efeitos de inscrição no inventário a qual deve revestir o maior grau de objectividade e isenção. Neste sentido, a inventariação deve resultar do consenso atingido por uma comissão independente, constituída por individualidades de reconhecido mérito no estudo e salvaguarda do património cultural imaterial.
+
+Institui-se, assim, a Comissão para o Património Cultural Imaterial como órgão independente com competência exclusiva para decidir sobre a inscrição de manifestações do património cultural imaterial no inventário nacional. Para o efeito impõe-se a maioria qualificada para as deliberações sobre as inscrições no inventário e consagram-se os deveres e as garantias dos membros da Comissão que são nomeados trienalmente. A par das funções deliberativas, a Comissão tem competências consultivas no âmbito das componentes específicas da política do património cultural imaterial e é igualmente responsável pela actualização do inventário face ao carácter dinâmico e mutável deste tipo de património.
+
+Por último, julga-se de salientar o facto de, para efeitos de aplicação do presente decreto-lei, apenas se considerar como património cultural imaterial o património que se mostre compatível com as disposições nacionais e internacionais que vinculem o Estado Português em matéria de direitos humanos, bem como com as exigências de respeito mútuo entre comunidades, grupos e indivíduos.
+
+Foram ouvidas a Associação Nacional de Municípios Portugueses e a Comissão Nacional de Protecção de Dados.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 107/2001, de 8 de Setembro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto e âmbito de aplicação
+
+1 - O presente decreto-lei estabelece o regime jurídico de salvaguarda do património cultural imaterial, compreendendo as medidas de salvaguarda e o procedimento de proteção legal.
+
+2 - Para efeitos do presente decreto-lei, entende-se por «património cultural imaterial» as manifestações culturais expressas em práticas, representações, conhecimentos e aptidões, de caráter tradicional, independentemente da sua origem popular ou erudita, que as comunidades, os grupos e os indivíduos reconheçam como fazendo parte integrante do seu património cultural, e que, sendo transmitidas de geração em geração, são constantemente recriadas pelas comunidades e grupos em função do seu meio, da sua interação com a natureza e da sua história, incutindo-lhes um sentimento de identidade coletiva.
+
+3 - O património cultural imaterial, tal como definido no número anterior, manifesta-se nos seguintes domínios:
+
+a) Tradições e expressões orais, incluindo a língua como vector do património cultural imaterial;
+
+b) Expressões artísticas e manifestações de carácter performativo;
+
+c) Práticas sociais, rituais e eventos festivos;
+
+d) Conhecimentos e práticas relacionados com a natureza e o universo;
+
+e) Competências no âmbito de processos e técnicas tradicionais.
+
+4 - Para efeitos de aplicação do presente decreto-lei, apenas se considera património cultural imaterial o património que se mostre compatível com as disposições nacionais e internacionais que vinculem o Estado Português em matéria de direitos humanos, bem como com as exigências de respeito mútuo entre comunidades, grupos e indivíduos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 149/2015 - Diário da República n.º 150/2015, Série I de 2015-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2015-69935162), em vigor a partir de 2015-08-09
+
+###### Artigo 2.º — Princípios gerais
+
+1 - O regime previsto no presente decreto-lei obedece aos seguintes princípios:
+
+a) Prevenção, através da identificação, documentação e estudo do património cultural imaterial com vista à respectiva salvaguarda;
+
+b) Equivalência, ao considerar o valor intrínseco dos diferentes tipos de manifestações do património cultural imaterial num plano de igualdade, independentemente do tempo, lugar e modos da sua produção ou reprodução, bem como do contexto e dinâmica específicos de cada comunidade ou grupo;
+
+c) Participação, através do estímulo e garantia do envolvimento das comunidades, dos grupos e dos indivíduos no processo de salvaguarda e gestão do património cultural imaterial, designadamente do património que criam, mantêm e transmitem;
+
+d) Transmissão, através de medidas que promovam as condições de reprodução das manifestações do património cultural imaterial;
+
+e) Acessibilidade, através da informação e divulgação públicas de forma sistematizada do património cultural imaterial, de modo a garantir o seu conhecimento e valorização, bem como a sensibilização para a sua existência, através da sua adequada identificação, documentação, estudo e fruição.
+
+2 - A aplicação dos princípios referidos no número anterior subordina-se e articula-se com os princípios gerais da política e do regime de protecção e valorização do património cultural previstos na Lei n.º 107/2001, de 8 de Setembro.
+
+###### Artigo 3.º — Componentes da política de salvaguarda
+
+A política de salvaguarda do património cultural imaterial integra especificamente as seguintes componentes:
+
+a) Promoção da salvaguarda do património cultural imaterial enquanto testemunho da identidade e memória colectivas;
+
+b) Previsão de medidas para a salvaguarda do património cultural imaterial na actividade de planeamento da Administração Pública;
+
+c) Definição e difusão de normas, metodologias e procedimentos para a salvaguarda do património cultural imaterial;
+
+d) Garantia de apoio técnico por entidades públicas na salvaguarda do património cultural imaterial das comunidades, grupos ou indivíduos, incluindo as minorias étnicas;
+
+e) Apoio a programas e projectos de salvaguarda de tradições e expressões orais, das expressões artísticas e manifestações de carácter performativo, das práticas sociais, rituais e eventos festivos, dos conhecimentos e práticas relacionados com a natureza e o universo e das competências no âmbito dos processos, das técnicas e saberes tradicionais;
+
+f) Apoio aos museus da Rede Portuguesa de Museus na realização de estudos sobre o património cultural imaterial relacionado com os respectivos acervos;
+
+g) Fomento de estudos científicos, técnicos e artísticos, bem como de metodologias de pesquisa, com vista a uma salvaguarda efectiva do património cultural imaterial;
+
+h) Desenvolvimento de programas educativos, designadamente a partir de museus;
+
+i) Elaboração de programas sustentados de aprendizagem e de desenvolvimento de tecnologias e saberes tradicionais;
+
+j) Promoção de campanhas de sensibilização, educação e informação a nível nacional, regional e local sobre a importância da salvaguarda do património cultural imaterial;
+
+l) Cooperação com autarquias locais, estabelecimentos de ensino superior, centros de investigação e associações de defesa do património cultural com vista à salvaguarda do património cultural imaterial.
+
+###### Artigo 4.º — Especiais deveres das entidades públicas
+
+1 - Constituem especiais deveres das entidades públicas:
+
+a) Cooperar institucionalmente na salvaguarda das manifestações do património cultural imaterial;
+
+b) Promover o uso de meios gráficos, sonoros, áudio-visuais, ou outros mais adequados, na identificação, documentação, estudo e divulgação de manifestações do património cultural imaterial para efeitos da sua salvaguarda;
+
+c) Fomentar o acesso à informação relativa às manifestações do património cultural imaterial;
+
+d) Assegurar a compatibilização e progressiva interoperatividade de bases de dados referentes a manifestações do património cultural imaterial.
+
+2 - À Direção-Geral do Património Cultural cabe a responsabilidade da coordenação das diversas iniciativas a desenvolver no âmbito da salvaguarda do património cultural imaterial.
+
+3 - À Direção-Geral do Património Cultural compete decidir sobre os pedidos de registo de inventariação e de registo de salvaguarda urgente no «Inventário Nacional do Património Cultural Imaterial», assim como decidir sobre os respetivos procedimentos de revisão e atualização.
+
+4 - As direções regionais de cultura prestam apoio às comunidades, grupos ou indivíduos na inventariação de manifestações do património cultural imaterial, respeitando as normas, metodologias e procedimentos de salvaguarda estabelecidos pela Direção-Geral do Património Cultural.
+
+5 - As direções regionais de cultura desenvolvem, em articulação com a Direção-Geral do Património Cultural, estratégias e ações para a salvaguarda de manifestações do património cultural imaterial envolvendo as comunidades, grupos e indivíduos.
+
+6 - A Direção-Geral das Artes presta, em articulação com a Direção-Geral do Património Cultural e as direções regionais de cultura, o apoio à divulgação e à valorização de manifestações do património cultural imaterial, sempre que adequado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 149/2015 - Diário da República n.º 150/2015, Série I de 2015-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2015-69935162), em vigor a partir de 2015-08-09
+
+### Capítulo II — Inventariação do património cultural imaterial
+
+###### Artigo 5.º — Iniciativa
+
+A iniciativa para a inventariação pertence ao Estado, às Regiões Autónomas, às autarquias locais ou a qualquer comunidade, grupo ou indivíduo ou organização não governamental de interessados.
+
+###### Artigo 6.º — Inventário Nacional do Património Cultural Imaterial
+
+1 - A proteção legal do património cultural imaterial, através de registo no «Inventário Nacional do Património Cultural Imaterial», constitui componente indispensável da salvaguarda do património cultural imaterial à escala nacional.
+
+2 - Para efeitos do presente decreto-lei, o registo de uma manifestação do património cultural imaterial no «Inventário Nacional do Património Cultural Imaterial» consiste num procedimento participativo, que resulta do consentimento e, preferencialmente, do envolvimento ativo das comunidades, dos grupos e dos indivíduos que se constituem como detentores da respetiva manifestação do património cultural imaterial.
+
+3 - O procedimento de proteção legal do património cultural imaterial realiza-se, de forma desmaterializada, através da base de dados do «Inventário Nacional do Património Cultural Imaterial», em linha e de acesso público.
+
+4 - Atendendo à sua dinâmica específica, uma manifestação do património cultural imaterial é proposta para inscrição:
+
+a) No registo de inventariação, sempre que a sua viabilidade futura não se encontre comprometida;
+
+b) No registo de salvaguarda urgente, sempre que a sua viabilidade futura se encontre comprometida, designadamente devido a ameaças e riscos significativos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 149/2015 - Diário da República n.º 150/2015, Série I de 2015-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2015-69935162), em vigor a partir de 2015-08-09
+
+###### Artigo 7.º — Base de dados
+
+1 - A base de dados referida no n.º 3 do artigo anterior compreende os domínios identificados no n.º 3 do artigo 1.º, que integram categorias predefinidas de manifestações de património cultural imaterial, e deve permitir, designadamente, o acesso aos respetivos elementos de documentação bibliográfica, fotográfica, fonográfica ou audiovisual do património inventariado.
+
+2 - As categorias pré-definidas referidas no número anterior são aprovadas por portaria do membro do Governo responsável pela área da cultura.
+
+3 - Compete à Direção-Geral do Património Cultural gerir a base de dados referida no presente artigo.
+
+4 - [Revogado.]
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 149/2015 - Diário da República n.º 150/2015, Série I de 2015-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2015-69935162), em vigor a partir de 2015-08-09
+
+###### Artigo 8.º — Elementos
+
+1 - O pedido de proteção legal de uma manifestação do património cultural imaterial é dirigido à Direção-Geral do Património Cultural através de formulário eletrónico próprio disponibilizado na página eletrónica do «Inventário Nacional do Património Cultural Imaterial».
+
+2 - O formulário electrónico referido no número anterior é preenchido com os seguintes elementos:
+
+a) A identificação do proponente;
+
+b) A indicação do domínio e respectiva categoria da manifestação do património cultural imaterial;
+
+c) A localização, denominação e descrição sucinta da manifestação do património cultural imaterial;
+
+d) A caracterização detalhada da manifestação do património cultural imaterial;
+
+e) O contexto social, territorial e temporal de produção;
+
+f) O fundamento para a respectiva salvaguarda;
+
+g) O património, material e imaterial, associado;
+
+h) As comunidades, grupos ou indivíduos abrangidos;
+
+i) As pessoas ou instituições envolvidas na prática ou transmissão da manifestação;
+
+j) As ameaças à continuidade da prática, representação e transmissão;
+
+l) As medidas de salvaguarda programadas;
+
+m) A indicação do consentimento prévio informado das respectivas comunidades, grupos ou indivíduos;
+
+n) As práticas costumeiras de divulgação e acesso;
+
+o) A documentação relevante.
+
+3 - Os elementos constantes das alíneas a), b) e c) do número anterior são, desde logo, disponibilizados na base de dados do «Inventário Nacional do Património Cultural Imaterial», mediante autorização expressa do proponente.
+
+4 - Os elementos referidos no número anterior podem ser objecto de observações por qualquer interessado devidamente identificado para o efeito na base de dados.
+
+5 - As observações quando manifestamente desadequadas aos fins da proteção legal podem ser removidas por iniciativa da Direção-Geral do Património Cultural ou mediante pedido fundamentado de qualquer interessado.
+
+6 - O formulário eletrónico referido no n.º 1, as respetivas normas de preenchimento e os elementos relevantes a constar da fundamentação do pedido de proteção legal de uma manifestação do património cultural imaterial são aprovados por portaria do membro do Governo responsável pela área da cultura.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 149/2015 - Diário da República n.º 150/2015, Série I de 2015-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2015-69935162), em vigor a partir de 2015-08-09
+
+###### Artigo 9.º — Arquivamento
+
+O pedido de proteção legal de uma manifestação do património cultural imaterial é arquivado, dispensando a consulta pública prevista no presente decreto-lei, quando o objeto do pedido:
+
+a) Não integre, manifestamente, o conceito de património cultural imaterial, a que se refere o n.º 2 do artigo 1;
+
+b) Não tenha enquadramento direto e exclusivo num dos domínios identificados no n.º 3 do artigo 1.º,
+
+c) Não demonstre, manifestamente, ter resultado do consentimento das comunidades, grupos e ou indivíduos que se constituem como respetivos detentores;
+
+d) Viole as disposições nacionais em matéria de protecção de direitos, liberdades e garantias, ou se revele incompatível com o direito internacional relativo à protecção dos direitos humanos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 149/2015 - Diário da República n.º 150/2015, Série I de 2015-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2015-69935162), em vigor a partir de 2015-08-09
+
+###### Artigo 10.º — Critérios
+
+Na apreciação dos pedidos de proteção legal são tidos em conta, individual ou conjuntamente, os seguintes critérios:
+
+a) A importância da manifestação do património cultural imaterial enquanto reflexo da respectiva comunidade ou grupo;
+
+b) Os processos sociais e culturais nos quais teve origem e se desenvolveu a manifestação do património cultural imaterial até ao presente;
+
+c) As dinâmicas de que são objeto a manifestação do património cultural imaterial na contemporaneidade;
+
+d) Os modos em que se processa a transmissão da manifestação do património cultural imaterial;
+
+e) As ameaças e os riscos suscetíveis de comprometer a viabilidade futura da manifestação do património cultural imaterial;
+
+f) As medidas de salvaguarda propostas para assegurar a valorização e a viabilidade futura da manifestação do património cultural imaterial;
+
+g) O respeito pelos direitos, liberdades e garantias e a compatibilidade com o direito internacional em matéria de defesa dos direitos humanos;
+
+h) A articulação com as exigências de desenvolvimento sustentável e de respeito mútuo entre comunidades, grupos e indivíduos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 149/2015 - Diário da República n.º 150/2015, Série I de 2015-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2015-69935162), em vigor a partir de 2015-08-09
+
+###### Artigo 11.º — Contextos
+
+Na aplicação dos critérios referidos no artigo anterior, a Direção-Geral do Património Cultural pondera os contextos que, pelo seu valor de testemunho, possuam com aqueles uma relação interpretativa e informativa, designadamente os bens móveis ou imóveis que constituem o suporte material da manifestação do património cultural imaterial.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 149/2015 - Diário da República n.º 150/2015, Série I de 2015-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2015-69935162), em vigor a partir de 2015-08-09
+
+###### Artigo 12.º — Aperfeiçoamento
+
+A Direção-Geral do Património Cultural convida ao aperfeiçoamento do pedido de inventariação quando não estiverem satisfeitos os elementos referidos no n.º 2 do artigo 8.º, e, se o julgar necessário, quando se tratem de informações necessárias ao desenvolvimento normal do procedimento ou que impeçam a tomada de decisão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 149/2015 - Diário da República n.º 150/2015, Série I de 2015-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2015-69935162), em vigor a partir de 2015-08-09
+
+###### Artigo 13.º — Parecer prévio
+
+1 - Sempre que estejam em causa decisões sobre o registo no «Inventário Nacional do Património Cultural Imaterial», a Direção-Geral do Património Cultural pede parecer às direções regionais de cultura e às câmaras municipais relevantes em função da abrangência territorial da manifestação do património cultural imaterial, a emitir no prazo de 40 dias, caso as mesmas entidades não sejam o proponente do procedimento de proteção legal.
+
+2 - Quando estejam em causa manifestações do património cultural imaterial no âmbito de práticas, rituais e eventos religiosos, a Direção-Geral do Património Cultural pede parecer à respetiva igreja ou comunidade religiosa, a emitir no prazo previsto no número anterior, caso as mesmas entidades não sejam o proponente do procedimento de proteção legal.
+
+3 - O prazo para a emissão de parecer pode ser prorrogado, por uma só vez e por igual período, mediante pedido fundamentado das entidades referidas nos números anteriores.
+
+4 - A Direção-Geral do Património Cultural pode, ainda, solicitar a emissão de parecer ao Conselho Nacional de Cultura, através da secção especializada competente, bem como consultar entidades de reconhecido mérito no âmbito da investigação e salvaguarda de uma manifestação do património cultural imaterial, designadamente instituições produtoras de conhecimento sobre o universo dos testemunhos etnográficos ou antropológicos, a que se refere o n.º 1 do artigo 91.º da Lei n.º 107/2001, de 8 de setembro.
+
+5 - Nos pedidos de parecer e nas comunicações previstos no presente artigo devem ser utilizados meios eletrónicos, salvo quando, fundamentadamente, tal utilização seja impossível, ineficiente ou outras razões de fundado interesse público o justifiquem.
+
+6 - São aplicáveis subsidiariamente aos pareceres previsto no presente artigo as regras constantes do Código do Procedimento Administrativo, independentemente da natureza da entidade consultada.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 149/2015 - Diário da República n.º 150/2015, Série I de 2015-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2015-69935162), em vigor a partir de 2015-08-09
+
+###### Artigo 14.º — Consulta pública
+
+1 - A Direção-Geral do Património Cultural promove consulta pública do projeto de decisão de proteção legal de uma manifestação do património cultural imaterial através de aviso a publicar no Diário da República, o qual deve prever o recurso a meios eletrónicos para a participação, nomeadamente o recurso a meios eletrónicos específicos para a Administração Pública e a plataformas de participação cívica de âmbito geral.
+
+2 - O prazo de consulta pública não pode ser inferior a 30 dias.
+
+3 - Da publicitação da consulta pública consta, necessariamente:
+
+a) O período da consulta pública;
+
+b) Os elementos que permitam a identificação clara e inequívoca da manifestação do património cultural imaterial objeto de proteção legal;
+
+c) Os locais onde é possível consultar a informação relevante sobre a manifestação do património cultural imaterial;
+
+d) A forma de os interessados apresentarem as respectivas observações.
+
+4 - As direções regionais de cultura, em articulação com a Direção-Geral do Património Cultural, promovem a mais ampla divulgação da consulta pública junto das câmaras municipais relevantes, em função da abrangência da manifestação do património cultural imaterial, bem como das comunidades, grupos ou indivíduos a que a mesma manifestação respeite.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 149/2015 - Diário da República n.º 150/2015, Série I de 2015-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2015-69935162), em vigor a partir de 2015-08-09
+
+###### Artigo 15.º — Decisão
+
+1 - Concluído o período de consulta pública, a Direção-Geral do Património Cultural, decide sobre o pedido de proteção legal no prazo de 120 dias.
+
+2 - A decisão é publicada no Diário da República e divulgada nas páginas eletrónicas da Direção-Geral do Património Cultural e das direções regionais de cultura.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 149/2015 - Diário da República n.º 150/2015, Série I de 2015-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2015-69935162), em vigor a partir de 2015-08-09
+
+###### Artigo 16.º — Salvaguarda do património cultural imaterial à escala internacional
+
+1 - A inscrição de uma manifestação do património cultural imaterial no registo de inventariação do «Inventário Nacional do Património Cultural Imaterial» constitui condição prévia e indispensável para a sua eventual candidatura à «Lista Representativa do Património Cultural Imaterial da Humanidade».
+
+2 - A inscrição de uma manifestação do património cultural imaterial no registo de salvaguarda urgente do «Inventário Nacional do Património Cultural Imaterial» constitui condição prévia e indispensável para a sua eventual candidatura à «Lista do Património Cultural Imaterial que necessita de Salvaguarda Urgente».
+
+3 - Sempre que verificada a maior amplitude ou transversalidade de um elemento considerado para candidatura à «Lista Representativa do Património Cultural Imaterial da Humanidade» face aos domínios a que se refere o n.º 3 do artigo 1.º, é assegurada a inscrição prévia de, pelo menos, uma manifestação do património cultural imaterial relativa àquele elemento no registo de inventariação do «Inventário Nacional do Património Cultural Imaterial».
+
+4 - Sempre que verificada a maior amplitude ou transversalidade de um elemento considerado para candidatura à «Lista do Património Cultural Imaterial que necessita de Salvaguarda Urgente» face aos domínios a que se refere o n.º 3 do artigo 1.º, é assegurada a inscrição prévia de, pelo menos, uma manifestação do património cultural imaterial relativa àquele elemento no registo de salvaguarda urgente do «Inventário Nacional do Património Cultural Imaterial».
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 149/2015 - Diário da República n.º 150/2015, Série I de 2015-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2015-69935162), em vigor a partir de 2015-08-09
+
+###### Artigo 17.º — Salvaguarda urgente
+
+1 - É admissível o registo no «Inventário Nacional do Património Cultural Imaterial» de uma manifestação do património cultural imaterial dispensando a consulta pública prevista no artigo 14.º, desde que comprovada a necessidade de salvaguarda urgente.
+
+2 - O pedido de registo de salvaguarda urgente no «Inventário Nacional do Património Cultural Imaterial» de uma manifestação do património cultural imaterial obedece ao disposto no artigo 8.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 149/2015 - Diário da República n.º 150/2015, Série I de 2015-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2015-69935162), em vigor a partir de 2015-08-09
+
+###### Artigo 18.º — Revisão
+
+1 - O registo de inventariação ou de salvaguarda urgente de uma manifestação do património cultural imaterial é objeto de revisão ordinária em período de 10 anos, sem prejuízo de revisão em período inferior sempre que sejam conhecidas alterações relevantes.
+
+2 - O pedido de revisão ordinária é apresentado até 180 dias antes do termo do período referido no número anterior.
+
+3 - O pedido de revisão a que se refere o presente artigo obedece, com as necessárias adaptações, à apresentação dos elementos referidos nos n.os 1 e 2 do artigo 8.º, à aplicação dos critérios referidos no artigo 10.º e dos contextos referidos no artigo 11.º, bem como à aplicação dos procedimentos administrativos referidos nos artigos 12.º a 15.º
+
+4 - Qualquer interessado pode suscitar, a todo o tempo e nos termos do disposto no número anterior, a revisão extraordinária do registo de inventariação ou de salvaguarda urgente de uma manifestação do património cultural imaterial.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 149/2015 - Diário da República n.º 150/2015, Série I de 2015-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2015-69935162), em vigor a partir de 2015-08-09
+
+###### Artigo 19.º — Elementos de documentação
+
+1 - Os bens móveis suporte de manifestações do património cultural imaterial registadas no «Inventário Nacional do Património Cultural Imaterial», bem como os elementos gráficos, sonoros, audiovisuais usados na respetiva documentação, devem ser, sempre que adequado, objeto de incorporação ou de depósito em museu com vista à sua salvaguarda.
+
+2 - A incorporação ou depósito dos bens e elementos referidos no número anterior efectua-se, preferencialmente, em museu integrante da Rede Portuguesa de Museus, e destinam-se a permitir a constituição de fontes que garantam a investigação, a acessibilidade e fruição públicas.
+
+3 - Os serviços e instituições que detenham elementos de documentação relativos a manifestações do património cultural imaterial cooperam entre si para promover a respectiva investigação, acessibilidade e fruição públicas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 149/2015 - Diário da República n.º 150/2015, Série I de 2015-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2015-69935162), em vigor a partir de 2015-08-09
+
+###### Artigo 20.º — Medidas de salvaguarda
+
+1 - As manifestações do património cultural imaterial registadas no «Inventário Nacional do Património Cultural Imaterial» devem ser consideradas na elaboração de programas sectoriais no âmbito do ordenamento do território, do ambiente, da educação e formação e do turismo.
+
+2 - Sem prejuízo do disposto no número anterior, as direções regionais de cultura, em articulação com a Direção-Geral do Património Cultural e com as comunidades, grupos ou indivíduos interessados, devem planear e executar as medidas de salvaguarda que promovam o conhecimento, a representação e a transmissão dos modos de produção ou reprodução associados às manifestações do património cultural imaterial constantes do inventário.
+
+3 - A proteção legal de uma manifestação do património cultural imaterial pode determinar a inventariação ou a classificação dos bens móveis ou imóveis que representem o seu suporte material e que revelem especial interesse etnográfico ou antropológico.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 149/2015 - Diário da República n.º 150/2015, Série I de 2015-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2015-69935162), em vigor a partir de 2015-08-09
+
+### Capítulo III — Comissão para o património cultural imaterial
+
+###### Artigo 21.º — Natureza e competências
+
+1 - A Comissão é um órgão dotado de autonomia administrativa, técnica e científica, que actua de forma independente e que tem funções deliberativas e consultivas no âmbito da salvaguarda do património cultural imaterial.
+
+2 - Compete à Comissão:
+
+a) A instrução do procedimento de inventariação;
+
+b) Deliberar sobre os pedidos de inventariação;
+
+c) Deliberar sobre a necessidade de salvaguarda urgente;
+
+d) Proceder à revisão e actualização do inventário;
+
+e) Emitir parecer sobre as componentes específicas da política de salvaguarda do património cultural imaterial, sempre que solicitado pelo membro do Governo responsável pela área da cultura;
+
+f) Emitir parecer em relação a candidaturas do Estado Português à Lista Representativa do Património Cultural Imaterial da Humanidade e à Lista do Património Cultural Imaterial Que Necessita de Salvaguarda Urgente instituídas pela Convenção para a Salvaguarda do Património Cultural Imaterial sempre que solicitado pelo membro do Governo responsável pela área da cultura, para posterior determinação e envio pelas entidades competentes;
+
+g) Pronunciar-se sobre as questões relevantes no âmbito da salvaguarda do património cultural imaterial que lhe sejam submetidas pelo seu Presidente;
+
+h) Propor aos serviços competentes do Ministério da Cultura a abertura do procedimento de inventariação ou de classificação dos bens referidos no n.º 3 do artigo 20.º;
+
+i) Aprovar o relatório anual de actividades da Comissão.
+
+###### Artigo 22.º — Composição
+
+1 - A Comissão é constituída pelos seguintes membros:
+
+a) O director do Instituto dos Museus e da Conservação, I. P., que preside;
+
+b) O director do Departamento do Património Imaterial do Instituto dos Museus e da Conservação, I. P.;
+
+c) Cinco individualidades de reconhecido mérito no âmbito da salvaguarda do património cultural imaterial, designadas pelo membro do Governo responsável pela área da cultura;
+
+d) Duas individualidades de reconhecido mérito no âmbito da salvaguarda do património cultural imaterial, designadas pela Associação Nacional de Municípios Portugueses.
+
+2 - Os membros da Comissão são nomeados e exonerados por despacho do membro do Governo responsável pela área da cultura, publicado no Diário da República.
+
+3 - A Comissão inicia funções com a nomeação dos seus membros nos termos do número anterior.
+
+4 - Podem ser temporariamente agregados à Comissão, quando justificado, especialistas em função das matérias a apreciar, sem direito a voto, por proposta do respectivo presidente.
+
+###### Artigo 23.º — Deveres e garantias dos membros da Comissão
+
+1 - Constituem deveres dos membros da Comissão:
+
+a) Exercer o respectivo mandato com isenção, rigor e independência;
+
+b) Participar assiduamente e de forma activa nas reuniões da Comissão e respectivos grupos de trabalho;
+
+c) Guardar sigilo sobre os trabalhos da Comissão.
+
+2 - Os membros da Comissão beneficiam das seguintes garantias:
+
+a) Não podem ser prejudicados no seu emprego e carreira profissional pelo exercício de funções efectivas nas reuniões da Comissão e respectivos grupos de trabalho;
+
+b) Têm direito a ser dispensados das suas actividades públicas ou privadas para o exercício efectivo de funções nas reuniões da Comissão e respectivos grupos de trabalho.
+
+###### Artigo 24.º — Duração do mandato
+
+1 - A nomeação dos membros da Comissão tem a duração de três anos, não podendo ser renovada por mais de uma vez.
+
+2 - No caso de cessação antecipada do mandato de um membro da Comissão, o mesmo deve ser substituído, no prazo de 30 dias, por nomeação nos termos do artigo 22.º
+
+3 - A nomeação prevista no número anterior tem efeitos até ao termo do mandato previsto para o membro da Comissão substituído.
+
+###### Artigo 25.º — Cessação do mandato
+
+1 - As funções de um membro da Comissão cessam nos seguintes casos:
+
+a) Incumprimento dos deveres previstos no n.º 1 do artigo 23.º;
+
+b) Impossibilidade permanente ou temporária incompatível com o exercício do mandato;
+
+c) Renúncia ao mandato dos membros referidos nas alíneas c) e d) do n.º 1 do artigo 22.º;
+
+d) Perda do mandato.
+
+2 - Perdem o mandato os membros da Comissão que faltem, em cada ano civil, a três reuniões regularmente convocadas, salvo motivo justificado.
+
+3 - A justificação de faltas deve ser apresentada, no prazo de cinco dias a contar do termo do facto justificativo, ao presidente da Comissão para sua apreciação.
+
+4 - A perda do mandato torna-se efectiva com o despacho de exoneração do membro do Governo responsável pela área da cultura, publicado no Diário da República.
+
+###### Artigo 26.º — Deliberações
+
+1 - A Comissão delibera com a presença de cinco membros com direito a voto.
+
+2 - As deliberações previstas nas alíneas b), c) e h) do n.º 2 do artigo 21.º são tomadas por maioria qualificada de dois terços dos membros presentes com direito a voto.
+
+3 - As deliberações referidas no número anterior devem ser fundamentadas.
+
+###### Artigo 27.º — Funcionamento
+
+1 - A Comissão reúne sempre que necessário para os efeitos do previsto no n.º 2 do artigo 21.º, de acordo com as regras de funcionamento e a periodicidade previstas no respectivo regulamento interno.
+
+2 - As regras de funcionamento da Comissão constam de regulamento interno proposto pela Comissão e aprovado por despacho do membro do Governo responsável pela área da cultura, publicado no Diário da República.
+
+3 - A Comissão pode organizar grupos de trabalho, em função das matérias a apreciar, sob proposta do respectivo presidente.
+
+4 - O Instituto dos Museus e da Conservação, I. P., presta o apoio logístico, técnico e administrativo necessário ao funcionamento da Comissão.
+
+5 - Os membros da Comissão têm direito a senhas de presença, cujo montante e condições de atribuição são fixados por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da cultura, publicado no Diário da República.
+
+6 - Os membros da Comissão têm direito a ajudas de custo nos termos da lei.
+
+### Capítulo IV — Disposições transitórias e finais
+
+###### Artigo 28.º — Divulgação
+
+1 - A Direção-Geral do Património Cultural divulga na página eletrónica do «Inventário Nacional do Património Cultural Imaterial» as decisões referidas no n.º 3 do artigo 4.º, bem como no sistema de pesquisa online de informação pública que indexa todos os conteúdos públicos dos sítios na Internet das entidades públicas, previsto no artigo 49.º do Decreto-Lei n.º 135/99, de 22 de abril, alterado pelos Decretos-Leis n.os 29/2000, de 13 de março, 72-A/2010, de 16 de junho, e 73/2014, de 13 de maio.
+
+2 - A informação e os dados referidos no número anterior devem ser disponibilizados em formatos abertos, que permitam a leitura por máquina, nos termos da Lei n.º 36/2011, de 21 de junho.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 149/2015 - Diário da República n.º 150/2015, Série I de 2015-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2015-69935162), em vigor a partir de 2015-08-09
+
+###### Artigo 29.º — Dados pessoais
+
+Os dados pessoais recolhidos nos termos dos artigos 6.º, 8.º e 17.º estão sujeitos ao regime previsto na Lei n.º 67/98, de 26 de Outubro.
+
+###### Artigo 30.º — Procedimento transitório
+
+1 - Até à disponibilização do formulário electrónico previsto no n.º 1 do artigo 8.º e sem prejuízo dos elementos aí exigidos, o pedido de inventariação de uma manifestação do património cultural imaterial é apresentado por escrito, em formulário próprio, ao Instituto dos Museus e da Conservação, I. P., dirigido ao presidente da Comissão.
+
+2 - O formulário referido no número anterior é aprovado por portaria do membro do Governo responsável pela área da cultura.
+
+###### Artigo 31.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 19 de Março de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia - Bernardo Luís Amador Trindade - José António Fonseca Vieira da Silva - Maria de Lurdes Reis Rodrigues - Manuel Frederico Tojal de Valsassina Heitor - José António de Melo Pinto Ribeiro.
+
+Promulgado em 4 de Junho de 2009.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 8 de Junho de 2009.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

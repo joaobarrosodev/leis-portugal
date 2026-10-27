@@ -1,0 +1,331 @@
+---
+schema_version: '1.0'
+id: pt:dre:638541:por
+title: Decreto-Lei n.º 212/2007
+short_title: null
+summary: Aprova a orgânica do Instituto de Gestão do Fundo Social Europeu, I. P.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade Social
+proposing_entity: null
+official_number: 212/2007
+official_date: null
+publication_date: '2007-05-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 103/2007, Série I de 2007-05-29
+  number: '103'
+  series: I
+  supplement: null
+  pages: 3479 - 3482
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/05/10300/34793482.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/212/2007/05/29/p/dre/pt/html
+  oj: null
+  dre: '638541'
+  dre_path: /dr/detalhe/decreto-lei/212-2007-638541
+  internal: pt:dre:638541:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2007-638541
+  metadata_url: https://data.dre.pt/eli/dec-lei/212/2007/05/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2007-638541
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:57:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0b14d6588b9d47dd9f6f8038e7361757e72120746cd854f6a8bfe99ebd8ddb0f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:57:56Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho Consultivo
+- Conselho Diretivo
+- Definição de Competências
+- Fiscal Único
+- Gestão Financeira
+- Instituto de Gestão do Fundo Social Europeu
+- Instituto Público
+- Orgânica
+- Regime de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:175345:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:474696:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/45-a/2000/03/22/p/dre
+- type: cites
+  target: pt:dre:481161:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/2/2003/01/06/p/dre
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
+- type: cites
+  target: pt:dre:545639:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/211/2006/10/27/p/dre
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:621125:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/248-a/2000/10/03/p/dre
+- type: repealed_by
+  target: pt:dre:175345:por
+  label: "Revogado, a partir de 01.09.2012, pelo DEC LEI.188/2012.22.08.2012.MEE, DR.IS [162] de 22.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/188-2012-175345
+  date: '2012-08-22'
+article_structure:
+  article_count: 19
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:57:56Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 212/2007
+
+de 29 de Maio
+
+No quadro das orientações definidas pelo Programa de Reestruturação da Administração Central do Estado (PRACE) e dos objectivos do Programa do XVII Governo no tocante à modernização administrativa e à melhoria da qualidade dos serviços públicos, com ganhos de eficiência, importa concretizar o esforço de racionalização estrutural consagrado no [Decreto-Lei n.º 211/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2006-545639), de 27 de Outubro, que aprova a Lei Orgânica do Ministério do Trabalho e da Solidariedade Social (MTSS), avançando na definição dos modelos organizacionais dos serviços que integram a respectiva estrutura.
+
+Adequada a estrutura orgânica do MTSS aos citados princípios orientadores, importa prosseguir a fase de execução do PRACE, procedendo à definição da missão e dos objectivos de cada um dos serviços e organismos dele dependentes ou sob a sua superintendência e tutela, onde se insere o Instituto de Gestão do Fundo Social Europeu, I. P. (IGFSE, I. P.).
+
+Na especialidade, o IGFSE, I. P., foi criado pelo [Decreto-Lei n.º 45-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-a-2000-474696), de 22 de Março, no âmbito tutelar do então Ministro do Trabalho e da Solidariedade, com o objectivo de assegurar, ao nível nacional, a gestão, a coordenação e o controlo financeiro das intervenções apoiadas pelo Fundo Social Europeu (FSE), integrando os diferentes órgãos de decisão e acompanhamento que suportam a execução do 3.º Quadro Comunitário de Apoio, tendo sido responsabilizado ainda, por efeito do disposto no [Decreto-Lei n.º 2/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2003-481161), de 6 de Janeiro, pela conclusão e encerramento dos anteriores períodos de programação na vertente FSE.
+
+Para o período de 2007-2013, na decorrência do Quadro de Referência Estratégico Nacional (QREN) o IGFSE, I. P., assegura a continuidade do financiamento do FSE às políticas de desenvolvimento económico, social e territorial em Portugal, na qualidade de autoridade de certificação e de pagamento e de organismo responsável pela gestão nacional do FSE.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 9.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+1 - O Instituto de Gestão do Fundo Social Europeu, I. P., abreviadamente designado por IGFSE, I. P., é um instituto público integrado na administração indirecta do Estado, dotado de autonomia administrativa e financeira e património próprio.
+
+2 - O IGFSE, I. P., prossegue atribuições do Ministério do Trabalho e da Solidariedade Social (MTSS), sob superintendência e tutela do respectivo Ministro.
+
+3 - No âmbito da sua gestão financeira, o IGFSE, I. P., está igualmente sob superintendência e tutela do membro do Governo responsável pela área das finanças.
+
+###### Artigo 2.º — Jurisdição territorial e sede
+
+1 - O IGFSE, I. P., é um organismo central com jurisdição sobre todo o território nacional, sem prejuízo das atribuições e competências das instituições e serviços das Regiões Autónomas dos Açores e da Madeira.
+
+2 - O IGFSE, I. P., tem sede em Lisboa.
+
+###### Artigo 3.º — Missão e atribuições
+
+1 - O IGFSE, I. P., tem por missão assegurar a gestão nacional do Fundo Social Europeu, abreviadamente designado por FSE.
+
+2 - São atribuições do IGFSE, I. P.:
+
+a) Exercer as funções de interlocutor nacional do FSE, perante a Comissão Europeia, no âmbito das atribuições que prossegue e assegurar as funções de autoridade de certificação e de pagamento em matéria de FSE, a que se refere a legislação comunitária;
+
+b) Desenvolver as actividades de auditoria e controlo da aplicação dos apoios concedidos no âmbito do FSE nos termos previstos na regulamentação aplicável e avaliar a adequação dos sistemas de gestão e de controlo instituídos pelas autoridades de gestão das intervenções operacionais co-financiadas pelo FSE;
+
+c) Assegurar a gestão financeira no âmbito do FSE, bem como a recuperação dos créditos sobre entidades beneficiárias, por via voluntária ou coerciva;
+
+d) Garantir um sistema de informação que consubstancie os indicadores físicos e financeiros necessários à gestão, avaliação e controlo dos apoios concedidos no âmbito do FSE;
+
+e) Assegurar o cumprimento das regras nacionais e comunitárias aplicáveis ao FSE em matéria de informação e publicidade;
+
+f) Esclarecer e harmonizar, designadamente através da emanação de orientações gerais dirigidas às autoridades de gestão de intervenções operacionais, a aplicação das normas comunitárias e nacionais que regem os apoios do FSE;
+
+g) Coordenar as intervenções operacionais no âmbito do FSE nas vertentes técnica e financeira, bem como participar nos órgãos de gestão e de acompanhamento, nos termos previstos nos regulamentos comunitários e na legislação nacional;
+
+h) Assegurar o apoio às missões a promover pelas instâncias comunitárias e nacionais no âmbito do FSE.
+
+###### Artigo 4.º — Órgãos
+
+São órgãos do IGFSE, I. P.:
+
+a) O conselho directivo;
+
+b) O conselho consultivo;
+
+c) O fiscal único.
+
+###### Artigo 5.º — Conselho directivo
+
+1 - O conselho directivo é composto por um presidente e dois vogais.
+
+2 - Sem prejuízo das competências que lhe forem conferidas por lei, ou nele delegadas ou subdelegadas, compete ao conselho directivo, no domínio da gestão nacional do FSE:
+
+a) Proceder em nome do Estado Português, perante a Comissão Europeia, à certificação dos relatórios de utilização dos meios financeiros atribuídos no âmbito das intervenções operacionais;
+
+b) Comunicar às instâncias competentes, nos termos dos normativos nacionais e comunitários aplicáveis, as situações de irregularidades detectadas;
+
+c) Executar as tarefas relativas à gestão financeira, na vertente externa, de cada uma das intervenções operacionais, incluindo a tramitação da assunção de compromissos e da transferência de pagamentos;
+
+d) Assegurar a transferência das contribuições do FSE para as entidades pagadoras, em colaboração com a Direcção-Geral do Tesouro e a Direcção-Geral do Orçamento;
+
+e) Desenvolver as actividades de auditoria e controlo da aplicação dos apoios concedidos no âmbito do FSE nos termos previstos na regulamentação aplicável e avaliar a adequação dos sistemas de gestão e de controlo instituídos pelas autoridades de gestão das intervenções operacionais co-financiadas pelo FSE;
+
+f) Transmitir às autoridades de gestão das intervenções operacionais, na sequência de controlo contabilístico-financeiro, as irregularidades detectadas, tendo em vista, quando for caso disso, a tomada de decisão por parte das referidas autoridades sobre a suspensão de pagamentos, a revogação da decisão de concessão do financiamento ou a redução do mesmo, bem como sobre a recuperação por via voluntária de fundos perdidos;
+
+g) Promover a recuperação de apoios co-financiados pelo FSE indevidamente recebidos e não restituídos voluntariamente, ou não recuperados, pelas autoridades de gestão, através de compensação;
+
+h) Exercer as demais competências que, neste âmbito, lhe sejam conferidas por lei, delegadas ou subdelegadas pela tutela, bem como praticar quaisquer outros actos necessários à prossecução, neste domínio, das atribuições do IGFSE, I. P., que não sejam da competência de outros órgãos.
+
+3 - O conselho directivo pode delegar, com faculdade de subdelegação, em um ou mais dos seus membros as competências que lhe estejam atribuídas, devendo fixar expressamente os respectivos limites.
+
+###### Artigo 6.º — Conselho consultivo
+
+1 - O conselho consultivo é composto por:
+
+a) O coordenador do Plano Nacional de Emprego (PNE), que presidirá, cabendo-lhe designar o membro do conselho consultivo que o deverá substituir nas suas ausências ou impedimentos;
+
+b) Um representante da Direcção-Geral do Emprego e das Relações de Trabalho;
+
+c) Um representante do Instituto do Emprego e da Formação Profissional, I. P.;
+
+d) Um representante do Instituto Financeiro para o Desenvolvimento Regional, I. P.;
+
+e) Um representante da Inspecção-Geral de Finanças;
+
+f) As autoridades de gestão das intervenções operacionais com co-financiamento FSE;
+
+g) Um representante designado por cada um dos parceiros sociais que integram a Comissão Permanente de Concertação Social.
+
+2 - Podem ainda fazer parte do conselho consultivo personalidades de reconhecido mérito na área das atribuições do IGFSE, I. P.
+
+3 - Participa sempre nas reuniões do conselho consultivo, sem direito de voto, pelo menos um dos membros do conselho directivo, por este designado caso a caso, de acordo com a natureza das matérias a tratar.
+
+4 - Ao conselho consultivo compete dar parecer sobre as grandes linhas de orientação estratégica da gestão nacional do FSE, bem sobre todas as questões que lhe sejam submetidas pelo conselho directivo ou pelo respectivo presidente, devendo, no entanto, ser obrigatoriamente ouvido sobre o plano e relatório anuais de actividades e os regulamentos internos do IGFSE, I. P.
+
+5 - O conselho consultivo pode receber reclamações ou queixas do público sobre a organização e funcionamento em geral do IGFSE, I. P., e apresentar ao conselho directivo sugestões ou propostas destinadas a fomentar ou aperfeiçoar as actividades do Instituto.
+
+###### Artigo 7.º — Fiscal único
+
+O fiscal único tem as competências e é nomeado nos termos previstos na [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro.
+
+###### Artigo 8.º — Organização interna
+
+A organização interna do IGFSE, I. P., é a prevista nos respectivos Estatutos.
+
+###### Artigo 9.º — Estatuto dos membros do conselho directivo
+
+Aos membros do conselho directivo é aplicável o regime definido na lei quadro dos institutos públicos e, subsidiariamente, o fixado no estatuto do gestor público.
+
+###### Artigo 10.º — Regime de pessoal
+
+Ao pessoal do IGFSE, I. P., é aplicável o regime do contrato individual de trabalho.
+
+###### Artigo 11.º — Receitas
+
+1 - O IGFSE, I. P., dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado e pelo orçamento da segurança social.
+
+2 - O IGFSE, I. P., dispõe ainda das seguintes receitas próprias:
+
+a) As transferências no âmbito das acções financiadas pelo FSE;
+
+b) Os rendimentos de depósitos em instituições de crédito, na Direcção-Geral do Tesouro ou em qualquer outra instituição;
+
+c) Os subsídios, donativos, heranças ou legados;
+
+d) Os empréstimos contraídos;
+
+e) Quaisquer outras receitas que por lei, contrato ou outro título lhe sejam atribuídas.
+
+3 - As receitas próprias referidas no número anterior são consignadas à realização de despesas do IGFSE, I. P., durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte.
+
+###### Artigo 12.º — Despesas
+
+Constituem despesas do IGFSE, I. P., as que resultem de encargos decorrentes da prossecução das respectivas atribuições, designadamente as transferências para as autoridades de gestão de intervenções operacionais e as amortizações de empréstimos contraídos.
+
+###### Artigo 13.º — Património
+
+O património do IGFSE, I. P., é constituído pela universalidade dos bens, direitos e obrigações de que é titular.
+
+###### Artigo 14.º — Regime transitório de pessoal
+
+1 - Os funcionários públicos do quadro de pessoal do IGFSE, I. P., podem optar pelo regime do contrato individual de trabalho, no prazo de 90 dias a contar da data da notificação que lhe seja feita pelo serviço, nos termos do n.º 7 do artigo 16.º da [Lei n.º 53/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-2006-545575), de 7 de Dezembro, ou, quando não haja lugar à aplicação de métodos de selecção, da publicitação das listas e mapas a que se refere o n.º 3 do artigo 14.º da referida lei.
+
+2 - O direito de opção é exercido mediante declaração escrita, individual e irrevogável, dirigida ao presidente do conselho directivo, no prazo previsto no número anterior.
+
+3 - A celebração do contrato individual de trabalho implica a exoneração do lugar de origem e a cessação do vínculo à função pública, que se torna efectiva com a publicação na 2.ª série do Diário da República.
+
+4 - Os lugares do quadro a que se refere o n.º 1 extinguem-se à medida que vagarem.
+
+###### Artigo 15.º — Dirigentes e chefias
+
+As funções dirigentes e de chefia no IGFSE, I. P., são exercidas em regime de comissão de serviço, previsto no Código do Trabalho e ainda de acordo com o preceituado no regulamento do pessoal dirigente, aprovado pelos membros do Governo responsáveis pelas áreas das finanças e da tutela.
+
+###### Artigo 16.º — Poderes de autoridade
+
+No exercício das suas funções, o pessoal do IGFSE, I. P., goza das seguintes prerrogativas:
+
+a) Direito de acesso e livre trânsito nos termos da lei, pelo tempo e horário necessários ao desempenho das suas funções, em todos os serviços e instalações das entidades públicas e privadas sujeitas ao exercício das suas atribuições;
+
+b) Obter, para auxílio nas acções de controlo e auditoria em curso, a cedência de material e equipamento próprio bem como a colaboração de pessoal que se mostrem indispensáveis;
+
+c) Trocar correspondência, em serviço, com todas as entidades públicas ou privadas sobre assuntos de serviço da sua competência;
+
+d) Requisitar a colaboração necessária das entidades policiais para o exercício das suas funções;
+
+e) Promover, nos termos legais, a selagem de quaisquer instalações, bem como apreensão, requisição ou reprodução de documentos em poder das entidades alvo de controlo e auditoria ou do seu pessoal, quando isso se mostre indispensável à realização da acção para o que deve ser levantado o competente auto dispensável no caso simples reprodução de documento;
+
+f) Requisitar para exame, consulta e junção aos autos livros, documentos, registos, arquivos e outros elementos pertinentes em poder das entidades cuja actividade seja objecto da sua acção de controlo e auditoria.
+
+###### Artigo 17.º — Regulamentos internos
+
+Os regulamentos internos do IGFSE, I. P., são remetidos ao ministro da tutela e ao ministro responsável pela área das finanças, para aprovação nos termos da alínea a) do n.º 4 do artigo 41.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro, no prazo de 90 dias a contar da entrada em vigor do presente decreto-lei.
+
+###### Artigo 18.º — Norma revogatória
+
+É revogado o [Decreto-Lei n.º 248-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-a-2000-621125), de 3 de Outubro.
+
+###### Artigo 19.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 1 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia - José António Fonseca Vieira da Silva.
+
+Promulgado em 14 de Abril de 2007.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 16 de Abril de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

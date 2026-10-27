@@ -1,0 +1,356 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:494545:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-115343278",
+ "dre_path": "/dr/detalhe/decreto-lei/138-2009-494545",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-06-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115346475",
+    "115346476",
+    "115346477",
+    "115346478",
+    "115346479",
+    "115346480",
+    "115346481",
+    "115346482",
+    "115346483",
+    "115346484",
+    "115346485",
+    "115346486"
+   ]
+  },
+  {
+   "date": "2018-05-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115344078:por",
+     "title": "Decreto-Lei n.º 35/2018",
+     "published": "2018-05-18",
+     "dre_path": "/dr/detalhe/decreto-lei/35-2018-115344078"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 8.º-A",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "115346475",
+    "115346496",
+    "115346497",
+    "115346498",
+    "115346499",
+    "115346500",
+    "115346501",
+    "115346508",
+    "115346509",
+    "115346495",
+    "115346504",
+    "115346505",
+    "115346506",
+    "115346507"
+   ]
+  },
+  {
+   "date": "2021-06-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:164712109:por",
+     "title": "Decreto-Lei n.º 42/2021",
+     "published": "2021-06-07",
+     "dre_path": "/dr/detalhe/decreto-lei/42-2021-164712109"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Revoga Artigo 10.º"
+   ],
+   "fragments": [
+    "115346475",
+    "115346496",
+    "115346497",
+    "164747205",
+    "115346499",
+    "164747206",
+    "164747207",
+    "164747208",
+    "115346509",
+    "115346495",
+    "115346504",
+    "164747209",
+    "115346506",
+    "115346507"
+   ]
+  }
+ ],
+ "fragments": {
+  "115346475": {
+   "fragment_id": "115343279",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 138/2009\n\nde 15 de Junho\n\nA constituição do Fundo de Salvaguarda do Património Cultural responde à determinação da Lei n.º 107/2001, de 8 de Setembro, que estabelece as bases da política e do regime de protecção e valorização do património cultural, de criar um fundo público para os bens culturais.\n\nA resolução dos problemas que afectam o património cultural passa pela criação de um conjunto variado de instrumentos financeiros públicos adequados a garantir a salvaguarda da nossa herança nacional, cuja continuidade e enriquecimento constitui uma tarefa fundamental do Estado nos termos da Constituição da República.\n\nO Estado tem constituído fundos de capitais públicos em ordem a agregar e a gerir recursos financeiros provenientes de diversas fontes e orientados para um mesmo objectivo, constituindo, nessa perspectiva, um instrumento relevante na prossecução de políticas públicas.\n\nOs princípios de planeamento, coordenação, eficiência e responsabilidade, que orientam a política pública do património cultural, aconselham a dinamizar o financiamento do património cultural a partir de um instrumento centralizado.\n\nAssim, as medidas de protecção e valorização do património cultural para as quais não se encontrem vocacionados, ou se revelem insuficientes, outros instrumentos públicos, são reforçadas com meios de financiamento próprios que permitem a actuação de diversas entidades orgânicas integradas no Ministério da Cultura, em ordem a complementar a respectiva acção com o recurso ao Fundo de Salvaguarda do Património Cultural. Este Fundo responde às necessidades de salvaguarda de bens culturais em situações de emergência, mas satisfaz igualmente a possibilidade de uma política programada de aquisição, reabilitação, conservação e restauro de bens de relevante interesse cultural.\n\nPor outro lado, dá-se cumprimento ao disposto no Programa de Gestão do Património Imobiliário do Estado, aprovado pela Resolução do Conselho de Ministros n.º 162/2008, de 24 de Outubro, que determina a criação de um fundo, no âmbito do Ministério da Cultura, para a reabilitação e conservação dos imóveis classificados da propriedade do Estado.\n\nCom o propósito de garantir uma intervenção eficaz, prevê-se a articulação com outros fundos nacionais, obviando a eventuais sobreposições destes mecanismos financeiros e, ao mesmo tempo, promovendo uma tutela integrada do património cultural.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 107/2001, de 8 de Setembro, e nos termos das alíneas a) e c) do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "115346476": {
+   "fragment_id": "115343280",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei cria o Fundo de Salvaguarda do Património Cultural, abreviadamente designado por Fundo de Salvaguarda, no âmbito do Ministério da Cultura."
+  },
+  "115346477": {
+   "fragment_id": "115343281",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza\n\nO Fundo de Salvaguarda tem a natureza de património autónomo, sem personalidade jurídica, dotado de autonomia administrativa e financeira."
+  },
+  "115346478": {
+   "fragment_id": "115343282",
+   "type": 11,
+   "heading": "Artigo 3.º — Objecto e finalidade do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objecto e finalidade do Fundo\n\n1 - O Fundo de Salvaguarda destina-se a financiar medidas de protecção e valorização em relação a:\n\na) Imóveis, conjuntos e sítios integrados na lista do património mundial;\n\nb) Bens culturais classificados, ou em vias de classificação, como de interesse nacional ou de interesse público em risco de destruição, perda ou deterioração.\n\n2 - O Fundo de Salvaguarda destina-se, ainda, a:\n\na) Acudir a situações de emergência ou de calamidade pública em relação a bens culturais classificados, ou em vias de classificação, como de interesse nacional ou de interesse público;\n\nb) Financiar operações de reabilitação, conservação e restauro de imóveis classificados no âmbito do Programa de Gestão do Património Imobiliário do Estado, aprovado pela Resolução do Conselho de Ministros n.º 162/2008, de 24 de Outubro;\n\nc) Financiar a aquisição de bens culturais classificados, ou em vias de classificação, designadamente, através do exercício do direito de preferência pelo Estado ou de expropriação;\n\nd) Prestar apoio financeiro a obras ou intervenções ordenadas pela Administração Pública em relação a bens culturais classificados, ou em vias de classificação, como de interesse nacional ou de interesse público.\n\n3 - O Fundo de Salvaguarda pode estabelecer mecanismos de articulação com outros fundos públicos ou privados que tenham como objecto operações de reabilitação, conservação e restauro de imóveis.\n\n4 - Os mecanismos referidos no número anterior abrangem os imóveis, conjuntos e sítios classificados, ou em vias de classificação, bem como os imóveis situados nas respectivas zonas de protecção."
+  },
+  "115346479": {
+   "fragment_id": "115343283",
+   "type": 11,
+   "heading": "Artigo 4.º — Capital inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Capital inicial\n\nO Fundo tem o capital inicial de 5 milhões de euros, a realizar nos termos a definir por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e da cultura."
+  },
+  "115346480": {
+   "fragment_id": "115343284",
+   "type": 11,
+   "heading": "Artigo 5.º — Fontes de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fontes de financiamento\n\n1 - O Fundo de Salvaguarda dispõe das seguintes receitas:\n\na) As dotações que lhe sejam atribuídas pelo Orçamento do Estado;\n\nb) O produto das taxas, contribuições ou impostos que lhe sejam afectos;\n\nc) A parcela do produto de coimas que lhe seja afecta nos termos da lei;\n\nd) As receitas provenientes da aplicação do previsto no Programa de Gestão do Património Imobiliário, relativamente aos imóveis classificados da propriedade do Estado;\n\ne) O montante das indemnizações ou multas fixadas para reparação de danos em bens imóveis classificados ou em vias de classificação;\n\nf) O montante das indemnizações decorrentes do incumprimento das obrigações para com o Fundo de Salvaguarda;\n\ng) O reembolso de despesas por intermédio do mecanismo da sub-rogação;\n\nh) Os rendimentos provenientes da aplicação financeira dos seus capitais;\n\ni) O produto das heranças, legados, doações ou donativos, em dinheiro ou em espécie, ou outras contribuições mecenáticas;\n\nj) Quaisquer outros meios financeiros que lhe venham a ser atribuídos ou consignados por lei ou por negócio jurídico.\n\n2 - A afectação dos impostos constante da alínea b) do número anterior está sujeita aos limites constantes dos n.os 2 e 3 do artigo 7.º da Lei n.º 91/2001, de 30 de Agosto.\n\n3 - Os saldos que vierem a ser apurados no fim de cada ano económico transitam para o ano seguinte."
+  },
+  "115346481": {
+   "fragment_id": "115343285",
+   "type": 11,
+   "heading": "Artigo 6.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Despesas\n\nConstituem despesas do Fundo de Salvaguarda as que resultem dos encargos decorrentes da aplicação do presente decreto-lei."
+  },
+  "115346482": {
+   "fragment_id": "115343286",
+   "type": 11,
+   "heading": "Artigo 7.º — Comissão directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Comissão directiva\n\n1 - O Fundo de Salvaguarda é gerido por uma comissão directiva, à qual compete efectuar, em nome e por conta do Fundo, as operações necessárias à realização do seu objecto.\n\n2 - A comissão directiva tem a seguinte composição:\n\na) Um representante do Instituto de Gestão do Património Arquitectónico e Arqueológico, I. P.;\n\nb) Um representante do Instituto dos Museus e da Conservação, I. P.;\n\nc) Um representante da Secretaria-Geral do Ministério da Cultura.\n\n3 - Os membros da comissão directiva são nomeados por despacho do membro do Governo responsável pela área da cultura, a publicar no Diário da República, não auferindo qualquer remuneração pelo exercício das suas funções.\n\n4 - O mandato dos membros da comissão directiva tem a duração de três anos.\n\n5 - A Secretaria-Geral do Ministério da Cultura presta à comissão directiva o apoio técnico, administrativo e logístico necessário ao respectivo funcionamento, podendo para o efeito adquirir os bens e serviços que se mostrem necessários.\n\n6 - Os montantes despendidos pela Secretaria-Geral do Ministério da Cultura nos termos do número anterior são considerados despesa do Fundo para efeitos do disposto no artigo anterior."
+  },
+  "115346483": {
+   "fragment_id": "115343287",
+   "type": 11,
+   "heading": "Artigo 8.º — Controlo e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Controlo e fiscalização\n\nSem prejuízo das competências legalmente atribuídas a outras entidades, o controlo e a fiscalização da gestão do Fundo de Salvaguarda são exercidos pelo Controlador Financeiro do Ministério da Cultura."
+  },
+  "115346484": {
+   "fragment_id": "115343288",
+   "type": 11,
+   "heading": "Artigo 9.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regulamentação\n\nO modo de funcionamento da comissão directiva e o regulamento de gestão do Fundo de Salvaguarda são definidos por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e da cultura no prazo de 60 dias a contar da data de entrada em vigor do presente decreto-lei."
+  },
+  "115346485": {
+   "fragment_id": "115343289",
+   "type": 11,
+   "heading": "Artigo 10.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regime transitório\n\nDurante o ano de 2009, o Fundo rege-se pelo seguinte regime transitório:\n\na) Não dispõe de autonomia financeira;\n\nb) As despesas financiadas pelas receitas previstas nas alíneas b) a j) do n.º 1 do artigo 5.º são inscritas como despesas com compensação em receita."
+  },
+  "115346486": {
+   "fragment_id": "115343290",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "115346496": {
+   "fragment_id": "115343280",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei cria o Fundo de Salvaguarda do Património Cultural, abreviadamente designado por Fundo de Salvaguarda, no âmbito do Ministério da Cultura."
+  },
+  "115346497": {
+   "fragment_id": "115343281",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza\n\nO Fundo de Salvaguarda tem a natureza de património autónomo, sem personalidade jurídica, dotado de autonomia administrativa e financeira."
+  },
+  "115346498": {
+   "fragment_id": "115343282",
+   "type": 11,
+   "heading": "Artigo 3.º — Objecto e finalidade do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objecto e finalidade do Fundo\n\n1 - O Fundo de Salvaguarda destina-se a financiar medidas de protecção e valorização em relação a:\n\na) Imóveis, conjuntos e sítios integrados na lista do património mundial;\n\nb) Bens culturais classificados, ou em vias de classificação, como de interesse nacional ou de interesse público em risco de destruição, perda ou deterioração.\n\n2 - O Fundo de Salvaguarda destina-se, ainda, a:\n\na) Acudir a situações de emergência ou de calamidade pública em relação a bens culturais classificados, ou em vias de classificação, como de interesse nacional ou de interesse público;\n\nb) Financiar operações de reabilitação, conservação e restauro de imóveis classificados no âmbito do Programa de Gestão do Património Imobiliário do Estado, aprovado pela Resolução do Conselho de Ministros n.º 162/2008, de 24 de Outubro;\n\nc) Financiar a aquisição de bens culturais classificados, ou em vias de classificação, designadamente, através do exercício do direito de preferência pelo Estado ou de expropriação;\n\nd) Prestar apoio financeiro a obras ou intervenções ordenadas pela Administração Pública em relação a bens culturais classificados, ou em vias de classificação, como de interesse nacional ou de interesse público.\n\n3 - O Fundo de Salvaguarda pode estabelecer mecanismos de articulação com outros fundos públicos ou privados que tenham como objecto operações de reabilitação, conservação e restauro de imóveis.\n\n4 - Os mecanismos referidos no número anterior abrangem os imóveis, conjuntos e sítios classificados, ou em vias de classificação, bem como os imóveis situados nas respectivas zonas de protecção."
+  },
+  "115346499": {
+   "fragment_id": "115343283",
+   "type": 11,
+   "heading": "Artigo 4.º — Capital inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Capital inicial\n\nO Fundo tem o capital inicial de 5 milhões de euros, a realizar nos termos a definir por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e da cultura."
+  },
+  "115346500": {
+   "fragment_id": "115343284",
+   "type": 11,
+   "heading": "Artigo 5.º — Fontes de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fontes de financiamento\n\n1 - O Fundo de Salvaguarda dispõe das seguintes receitas:\n\na) As dotações que lhe sejam atribuídas pelo Orçamento do Estado;\n\nb) O produto das taxas, contribuições ou impostos que lhe sejam afectos;\n\nc) A parcela do produto de coimas que lhe seja afecta nos termos da lei;\n\nd) As receitas provenientes da aplicação do previsto no Programa de Gestão do Património Imobiliário, relativamente aos imóveis classificados da propriedade do Estado;\n\ne) O montante das indemnizações ou multas fixadas para reparação de danos em bens imóveis classificados ou em vias de classificação;\n\nf) O montante das indemnizações decorrentes do incumprimento das obrigações para com o Fundo de Salvaguarda;\n\ng) O reembolso de despesas por intermédio do mecanismo da sub-rogação;\n\nh) Os rendimentos provenientes da aplicação financeira dos seus capitais;\n\ni) O produto das heranças, legados, doações ou donativos, em dinheiro ou em espécie, ou outras contribuições mecenáticas;\n\nj) Quaisquer outros meios financeiros que lhe venham a ser atribuídos ou consignados por lei ou por negócio jurídico.\n\n2 - A afectação dos impostos constante da alínea b) do número anterior está sujeita aos limites constantes dos n.os 2 e 3 do artigo 7.º da Lei n.º 91/2001, de 30 de Agosto.\n\n3 - Os saldos que vierem a ser apurados no fim de cada ano económico transitam para o ano seguinte."
+  },
+  "115346501": {
+   "fragment_id": "115343285",
+   "type": 11,
+   "heading": "Artigo 6.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Despesas\n\nConstituem despesas do Fundo de Salvaguarda as que resultem dos encargos decorrentes da aplicação do presente decreto-lei."
+  },
+  "115346508": {
+   "fragment_id": "115343286",
+   "type": 11,
+   "heading": "Artigo 7.º — Comissão directiva",
+   "in_force_from": "2018-05-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2018 - Diário da República n.º 96/2018, Série I de 2018-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2018-115344078), em vigor a partir de 2018-05-23"
+   ],
+   "markdown": "###### Artigo 7.º — Comissão directiva\n\n1 - O Fundo de Salvaguarda é gerido por uma comissão directiva, à qual compete efectuar, em nome e por conta do Fundo, as operações necessárias à realização do seu objecto.\n\n2 - A comissão diretiva é composta por três membros, nomeados por despacho do membro do Governo responsável pela área da cultura, sob proposta da Direção-Geral do Património Cultural, não auferindo qualquer remuneração pelo exercício das suas funções.\n\n3 - O mandato dos membros da comissão directiva tem a duração de três anos.\n\n4 - A comissão diretiva do Fundo de Salvaguarda funciona junto da Direção-Geral do Património Cultural, que presta o apoio técnico, administrativo e logístico necessário ao seu funcionamento.\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2018 - Diário da República n.º 96/2018, Série I de 2018-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2018-115344078), em vigor a partir de 2018-05-23"
+  },
+  "115346509": {
+   "fragment_id": "115343287",
+   "type": 11,
+   "heading": "Artigo 8.º — Controlo e fiscalização",
+   "in_force_from": "2018-05-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2018 - Diário da República n.º 96/2018, Série I de 2018-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2018-115344078), em vigor a partir de 2018-05-23"
+   ],
+   "markdown": "###### Artigo 8.º — Controlo e fiscalização\n\nSem prejuízo das competências legalmente atribuídas a outras entidades, o controlo e a fiscalização da gestão do Fundo de Salvaguarda são exercidos pela Inspeção-Geral das Atividades Culturais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2018 - Diário da República n.º 96/2018, Série I de 2018-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2018-115344078), em vigor a partir de 2018-05-23"
+  },
+  "115346495": {
+   "fragment_id": "115343300",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Comunicação à Direção-Geral do Tesouro e Finanças",
+   "in_force_from": "2018-05-23",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 35/2018 - Diário da República n.º 96/2018, Série I de 2018-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2018-115344078), em vigor a partir de 2018-05-23"
+   ],
+   "markdown": "###### Artigo 8.º-A — Comunicação à Direção-Geral do Tesouro e Finanças\n\nA comissão diretiva do Fundo de Salvaguarda comunica, preferencialmente através de meios eletrónicos, à Direção-Geral do Tesouro e Finanças, no final de cada trimestre, a aprovação e a realização de operações de reabilitação, conservação e restauro de imóveis classificados propriedade do Estado.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 35/2018 - Diário da República n.º 96/2018, Série I de 2018-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2018-115344078), em vigor a partir de 2018-05-23"
+  },
+  "115346504": {
+   "fragment_id": "115343288",
+   "type": 11,
+   "heading": "Artigo 9.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regulamentação\n\nO modo de funcionamento da comissão directiva e o regulamento de gestão do Fundo de Salvaguarda são definidos por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e da cultura no prazo de 60 dias a contar da data de entrada em vigor do presente decreto-lei."
+  },
+  "115346505": {
+   "fragment_id": "115343289",
+   "type": 11,
+   "heading": "Artigo 10.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regime transitório\n\nDurante o ano de 2009, o Fundo rege-se pelo seguinte regime transitório:\n\na) Não dispõe de autonomia financeira;\n\nb) As despesas financiadas pelas receitas previstas nas alíneas b) a j) do n.º 1 do artigo 5.º são inscritas como despesas com compensação em receita."
+  },
+  "115346506": {
+   "fragment_id": "115343290",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "115346507": {
+   "fragment_id": "115343291",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 19 de Março de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José António de Melo Pinto Ribeiro.\n\nPromulgado em 29 de Abril de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 30 de Abril de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "164747205": {
+   "fragment_id": "115343282",
+   "type": 11,
+   "heading": "Artigo 3.º — Objecto e finalidade do Fundo",
+   "in_force_from": "2021-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2021-164712109), em vigor a partir de 2021-06-08"
+   ],
+   "markdown": "###### Artigo 3.º — Objecto e finalidade do Fundo\n\n1 - Constitui missão prioritária do Fundo de Salvaguarda financiar os investimentos em bens imóveis classificados, ou em vias de classificação, do Estado que, através de despacho do membro do Governo responsável pela área da cultura, sejam qualificados como urgentes.\n\n2 - O Fundo de Salvaguarda destina-se, ainda, a:\n\na) Financiar medidas de proteção e valorização em relação a:\n\ni) Imóveis, conjuntos e sítios integrados na lista do património mundial;\n\nii) Bens culturais classificados, ou em vias de classificação, como de interesse nacional ou de interesse público em risco de destruição, perda ou deterioração;\n\nb) Acudir a situações de emergência ou de calamidade pública em relação a bens culturais classificados, ou em vias de classificação, como de interesse nacional ou de interesse público;\n\nc) Financiar operações de reabilitação, conservação e restauro de imóveis classificados no âmbito do Programa de Gestão do Património Imobiliário do Estado, aprovado pela Resolução do Conselho de Ministros n.º 162/2008, de 24 de Outubro;\n\nd) Financiar a aquisição de bens culturais classificados, ou em vias de classificação, designadamente, através do exercício do direito de preferência pelo Estado ou de expropriação;\n\ne) Prestar apoio financeiro a obras ou intervenções ordenadas pela Administração Pública em relação a bens culturais classificados, ou em vias de classificação, como de interesse nacional ou de interesse público.\n\n3 - Para efeitos da qualificação a que se refere o n.º 1, são considerados, designadamente, os seguintes fatores:\n\na) Acesso do público aos bens imóveis;\n\nb) Proteção dos bens imóveis que integrem a lista do património mundial da UNESCO;\n\nc) Coesão territorial, assente designadamente no investimento que promova o equilíbrio territorial e no desenvolvimento de redes e de parcerias que incrementem a diversidade da oferta cultural e a dinamização dos territórios do interior;\n\nd) Adequabilidade dos investimentos aos fatores de risco e às necessidades de salvaguarda patrimonial, bem como aos níveis estimados de procura;\n\ne) Sustentabilidade e equidade intergeracional na distribuição de benefícios e custos entre gerações, tendo em vista garantir que gerações futuras possam usufruir de ativos patrimoniais de excecional interesse cultural, histórico e arquitetónico.\n\n4 - Os investimentos previstos no n.º 1 abrangem ações de reabilitação, preservação, ampliação e dinamização dos bens imóveis, devendo tomar em consideração no seu planeamento e execução, tanto quanto possível, a eficiência energética e dos materiais, com o objetivo de reduzir ou anular as necessidades energéticas dos imóveis objeto de intervenção.\n\n5 - O Fundo de Salvaguarda pode estabelecer mecanismos de articulação com outros fundos públicos ou privados que tenham como objecto operações de reabilitação, conservação e restauro de imóveis.\n\n6 - Os mecanismos referidos no número anterior abrangem os imóveis, conjuntos e sítios classificados, ou em vias de classificação, bem como os imóveis situados nas respectivas zonas de protecção.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2021-164712109), em vigor a partir de 2021-06-08"
+  },
+  "164747206": {
+   "fragment_id": "115343284",
+   "type": 11,
+   "heading": "Artigo 5.º — Fontes de financiamento",
+   "in_force_from": "2021-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2021-164712109), em vigor a partir de 2021-06-08"
+   ],
+   "markdown": "###### Artigo 5.º — Fontes de financiamento\n\n1 - O Fundo de Salvaguarda dispõe das seguintes receitas:\n\na) As dotações que lhe sejam atribuídas pelo Orçamento do Estado;\n\nb) O produto das taxas, contribuições ou impostos que lhe sejam afectos;\n\nc) A parcela do produto de coimas que lhe seja afecta nos termos da lei;\n\nd) As receitas provenientes da aplicação do previsto no Programa de Gestão do Património Imobiliário, relativamente aos imóveis classificados da propriedade do Estado;\n\ne) O montante das indemnizações ou multas fixadas para reparação de danos em bens imóveis classificados ou em vias de classificação;\n\nf) O montante das indemnizações decorrentes do incumprimento das obrigações para com o Fundo de Salvaguarda;\n\ng) O reembolso de despesas por intermédio do mecanismo da sub-rogação;\n\nh) Os rendimentos provenientes da aplicação financeira dos seus capitais;\n\ni) O produto das heranças, legados, doações ou donativos, em dinheiro ou em espécie, ou outras contribuições mecenáticas;\n\nj) As provenientes dos resultados líquidos de exploração de um jogo social do Estado específico, organizado e explorado, em regime de exclusivo para todo o território nacional, pela Santa Casa da Misericórdia de Lisboa, que lhe sejam atribuídas por lei;\n\nk) As provenientes de fundos europeus, na medida em que a despesa seja elegível, designadamente no âmbito dos instrumentos financeiros do 'Next Generation EU', incluindo o Mecanismo de Recuperação e Resiliência ou outros instrumentos de financiamento da União Europeia;\n\nl) Quaisquer outros meios financeiros que lhe venham a ser atribuídos ou consignados por lei ou por negócio jurídico.\n\n2 - A afectação dos impostos constante da alínea b) do número anterior está sujeita aos limites constantes dos n.os 2 e 3 do artigo 7.º da Lei n.º 91/2001, de 30 de Agosto.\n\n3 - Os saldos que vierem a ser apurados no fim de cada ano económico transitam para o ano seguinte.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2021-164712109), em vigor a partir de 2021-06-08"
+  },
+  "164747207": {
+   "fragment_id": "115343285",
+   "type": 11,
+   "heading": "Artigo 6.º — Despesas",
+   "in_force_from": "2021-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2021-164712109), em vigor a partir de 2021-06-08"
+   ],
+   "markdown": "###### Artigo 6.º — Despesas\n\n1 - Constituem despesas do Fundo de Salvaguarda as que resultem dos encargos decorrentes da aplicação do presente decreto-lei.\n\n2 - Os encargos decorrentes da execução da missão a que se refere o n.º 1 do artigo 3.º constam da programação financeira do Fundo de Salvaguarda, tendo em conta as respetivas disponibilidades orçamentais, e são considerados prioritários.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2021-164712109), em vigor a partir de 2021-06-08"
+  },
+  "164747208": {
+   "fragment_id": "115343286",
+   "type": 11,
+   "heading": "Artigo 7.º — Comissão directiva",
+   "in_force_from": "2021-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2021-164712109), em vigor a partir de 2021-06-08",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2018 - Diário da República n.º 96/2018, Série I de 2018-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2018-115344078), em vigor a partir de 2018-05-23"
+   ],
+   "markdown": "###### Artigo 7.º — Comissão directiva\n\n1 - O Fundo de Salvaguarda é gerido por uma comissão directiva, à qual compete efectuar, em nome e por conta do Fundo, as operações necessárias à realização do seu objecto.\n\n2 - A comissão diretiva é composta por três membros, nomeados por despacho do membro do Governo responsável pela área da cultura, sob proposta da Direção-Geral do Património Cultural (DGPC), não auferindo qualquer remuneração pelo exercício das suas funções.\n\n3 - O presidente da comissão diretiva é, por inerência de funções, o diretor-geral da DGPC.\n\n4 - O mandato dos membros da comissão directiva tem a duração de três anos.\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - A comissão diretiva do Fundo de Salvaguarda funciona junto da DGPC, que presta o apoio técnico, administrativo e logístico necessário ao seu funcionamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2021-164712109), em vigor a partir de 2021-06-08\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2018 - Diário da República n.º 96/2018, Série I de 2018-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2018-115344078), em vigor a partir de 2018-05-23"
+  },
+  "164747209": {
+   "fragment_id": "115343289",
+   "type": 11,
+   "heading": "Artigo 10.º — Regime transitório",
+   "in_force_from": "2021-06-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 42/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2021-164712109), em vigor a partir de 2021-06-08"
+   ],
+   "markdown": "###### Artigo 10.º — Regime transitório\n\nDurante o ano de 2009, o Fundo rege-se pelo seguinte regime transitório:\n\na) Não dispõe de autonomia financeira;\n\nb) As despesas financiadas pelas receitas previstas nas alíneas b) a j) do n.º 1 do artigo 5.º são inscritas como despesas com compensação em receita.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 42/2021 - Diário da República n.º 109/2021, Série I de 2021-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2021-164712109), em vigor a partir de 2021-06-08"
+  }
+ }
+}

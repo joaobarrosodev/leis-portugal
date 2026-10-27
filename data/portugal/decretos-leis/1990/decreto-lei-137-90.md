@@ -1,0 +1,169 @@
+---
+schema_version: '1.0'
+id: pt:dre:332221:por
+title: Decreto-Lei n.º 137/90
+short_title: null
+summary: Permite a alienação ou cedência de estruturas pertencentes ao IROMA e afectas à comercialização de produtos agro-pecuários
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 137/90
+official_date: null
+publication_date: '1990-04-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 96/1990, Série I de 1990-04-26
+  number: '96'
+  series: I
+  supplement: null
+  pages: 2010 - 2011
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/04/09600/20102011.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '332221'
+  dre_path: /dr/detalhe/decreto-lei/137-1990-332221
+  internal: pt:dre:332221:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1990-332221
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1990-332221
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:58:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 49a14e00e3bafd0f3ae83bfc073b3c2b00521858d4a2db1d60bfe09e68c813f5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:58:39Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alienação de Imóveis
+- Contrato
+- Definição de Competências
+- Gestão do Património
+- Iroma
+- Ministério da Agricultura Pescas e Alimentação
+relationships:
+- type: cites
+  target: pt:dre:334601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547826:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:58:39Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 137/90
+
+de 26 de Abril
+
+No âmbito da política geral do Governo, e com o objectivo do reforço da capacidade operacional das organizações de produtores que visem a comercialização dos seus produtos, tem vindo o Ministério da Agricultura, Pescas e Alimentação a transferir para as associações do sector agrícola instalações e equipamentos que tornem possível a essas mesmas associações o desempenho das suas atribuições, quando a utilidade daqueles equipamentos e instalações se encontre muito mais próxima da natureza das actividades desenvolvidas por estas entidades do que das prosseguidas pelo Estado, em cuja titularidade se encontram por via indirecta e, na maior parte das vezes, em resultado da extinção das estruturas corporativas.
+
+Encontram-se nesta situação, designadamente, as instalações afectas à comercialização de produtos agro-pecuários, nomeadamente os parques de leilões de gados e armazéns de lãs, salas colectivas de ordenha mecânica, estações fruteiras e armazéns de batata e azeite actualmente na titularidade do Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA), mas cuja finalidade específica, embora situando-se no âmbito do desenvolvimento do sector agro-pecuário, não se encontra, porém, no campo da actuação que o Estado deva gerir e administrar directamente.
+
+Acresce que se tem verificado que algumas dessas infra-estruturas têm vindo a ser gradualmente utilizadas, em regime de cessão exploração, por organizações de agricultores, com resultados positivos na valorização e desenvolvimento do sector.
+
+É, pois, manifesto que esta solução é a que melhor se coaduna com os interesses do desenvolvimento da agricultura portuguesa, no contexto da adesão de Portugal às Comunidades Europeias, e a que se afigura mais vocacionada para permitir a resolução de problemas sentidos pelos agricultores.
+
+Por outro lado, a reestruturação do IROMA, prevista no [Decreto-Lei n.º 55/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1990-334647), de 13 de Fevereiro, com vista a adequar as suas estruturas ao quadro institucional vigente e decorrente da adesão às Comunidades Europeias, reforça a necessidade e oportunidade de se adoptar um regime e uma disciplina gerais sobre o destino a dar às aludidas infra-estruturas, de molde a que, contemplando-se a solução exposta, se salvaguardem outros interesses públicos dignos de protecção.
+
+Esta medida vem, certamente, de encontro às expectativas dos agentes económicos ligados à agro-pecuária e seguramente contribuirá para a racionalização e rentabilização das estruturas ao serviço da agricultura.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, Governo decreta o seguinte:
+
+Artigo 1.º - 1 - Os bens afectos à comercialização de produtos agro-pecuários pertencentes ao Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA) podem ser, no todo ou em parte, alienados, onerosa ou gratuitamente, ou cedidos em regime de comodato ou de concessão de exploração a associações de agricultores, cooperativas ou respectivas organizações de cúpula.
+
+2 - Os bens a que se refere o número anterior podem ainda, a título oneroso, ser alienados ou concedida a respectiva exploração a empresas que tenham por objecto a comercialização de produtos agro-pecuários.
+
+3 - O presente diploma não se aplica à alienação de estabelecimentos de matança de gado pertencentes ao IROMA.
+
+Art. 2.º - 1 - A celebração dos contratos nos termos do presente diploma efectua-se através de instrumento notarial adequado, nos quais o Estado é representado pelo presidente do órgão a quem estiver legalmente cometida a gestão do IROMA.
+
+2 - A celebração dos contratos fica condicionada à apresentação, por parte da entidade adquirente, comodatária ou concessionária, de projectos visando a utilização e rentabilização dos imóveis, podendo dos contratos constar, também, o cumprimento pelas mesmas das obrigações acessórias adequadas a cada caso.
+
+Art. 3.º As entidades adquirentes, comodatárias ou concessionárias obrigam-se a dar plena utilização às referidas estruturas e unicamente para os fins previstos nos contratos a mantê-las em perfeitas condições de exploração e conservação e a ceder a sua utilização ao organismo de intervenção, do âmbito do Ministério da Agricultura, Pescas e Alimentação, nas condições a fixar contratualmente, sempre que tal seja necessário para efeitos de regularização dos mercados agrícolas ou para realização de actividades destinadas a promover o desenvolvimento da agricultura.
+
+Art. 4.º - 1 - As entidades adquirentes, comodatárias ou concessionárias admitirão nos seus quadros de pessoal, no momento de celebração do respectivo instrumento notarial, os trabalhadores do IROMA afectos às respectivos infra-estruturas que tenham optado por esta alternativa, a não ser que outro regime seja contratualmente estabelecido nos casos de comodato e concessão de exploração.
+
+2 - O pessoal que optar por manter o seu vínculo à Administração Pública terá um dos destinos previstos nas alíneas b), c), d) e e) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 44/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1990-334601), de 8 de Fevereiro.
+
+Art. 5.º - 1 - Os imóveis alienados gratuitamente nos termos do presente diploma não podem voltar a ser alienados, no todo ou em parte, nem sobre eles ser constituídos quaisquer ónus ou encargos, se não forem prévia e expressamente autorizados pelo Ministro da Agricultura, Pescas e Alimentação.
+
+2 - São nulos os actos que violem o disposto no número anterior.
+
+3 - Os imóveis a que se refere o n.º 1 são impenhoráveis e não podem ser objecto de hipoteca judicial.
+
+Art. 6.º - 1 - A alienação onerosa das instalações é sempre feita mediante concurso, aplicando-se-lhe, com as devidas adaptações, o regime previsto para vendas no [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), de 12 de Julho.
+
+2 - Nos casos da alienação gratuita, comodato ou concessão de exploração, o Ministro da Agricultura, Pescas e Alimentação designa, mediante despacho, as entidades adquirentes, comodatárias ou concessionárias atenta a sua representatividade, dimensão sócio-económica e capacidade gestora dos bens cedidos e do cumprimento das obrigações assumidas.
+
+3 - Às alienações previstas no presente diploma não se aplica o disposto no [Decreto-Lei n.º 309/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1989-547826), de 19 de Setembro.
+
+Art. 7.º - 1 - Em caso de incumprimento das cláusulas contratuais por parte das entidades adquirentes a título gratuito, comodatárias ou concessionárias, ficam resolvidos os respectivos contratos, revertendo os bens para o Estado.
+
+2 - Verificando-se a dissolução ou falência das entidades referidas no número anterior ou a extinção das suas actividades, pode o Ministério da Agricultura, Pescas e Alimentação, mediante simples notificação por escrito, determinar a reversão para o Estado dos bens transferidos a título gratuito ou resolver os contratos de comodato ou de concessão de exploração.
+
+Art. 8.º Compete ao IROMA promover a prática de todos os actos notariais e de registo resultantes da execução do presente diploma, cabendo à entidade adquirente, comodatária ou concessionária a responsabilidade pelo pagamento das respectivas despesas.
+
+Visto e aprovado em Conselho de Ministros de 8 de Março de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Arlindo Marques da Cunha.
+
+Promulgado em 5 de Abril de 1990.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 11 de Abril de 1990.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

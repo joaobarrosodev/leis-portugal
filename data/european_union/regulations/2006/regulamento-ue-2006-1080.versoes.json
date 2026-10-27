@@ -1,0 +1,706 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32006R1080:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1080-20140101",
+ "dre_path": null,
+ "source_lastmod": "2014-01-01",
+ "versions": [
+  {
+   "date": "2006-07-31",
+   "future": false,
+   "celex": "32006R1080",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "93d0ec6ffec2c3b5",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "25d9a843abbe1f9d",
+    "64dd2a2d1a7aa8dd",
+    "e6dfcbc5df2eede8",
+    "067003898ce39369",
+    "a7e81538cb1950e5",
+    "4cb5d1fea0124c26",
+    "15a97fe54b04f88d",
+    "f0f8c960bfdbce9b",
+    "91eb0517d2b3e3fb",
+    "729aa8b0b13d81e9",
+    "12c0e57c83aa2a5f",
+    "2d27f1f430e9f8dd",
+    "f5995a3840b07ead",
+    "1e7a0903d2eed348",
+    "1bbe483e5cfaf309",
+    "9b406af514eb9164",
+    "c890682d4443d92f",
+    "ea40f85c43e170f2",
+    "c42c0c2b3cabd519",
+    "44cce2810a028fe8",
+    "370ebb431f01fabc",
+    "ac8387eef8dd0a6f",
+    "177dfcf552ef9f48",
+    "18fd934243d7bab1",
+    "09bd631cdbc2e3dc",
+    "0c1a4208ead509d5",
+    "fdc58c77c9eea619",
+    "46a912609465927b",
+    "2a6934845bb7c573",
+    "563d07634426d65a",
+    "c4a3a0cb3801ee8c",
+    "46e389c38d435613",
+    "de4f973690d85ff8",
+    "1ecfc79da3f1ac7f",
+    "dde9cf53e9ae6c9a",
+    "9fb44cb6772951f6",
+    "acb278541ffa8e09",
+    "292ab88cfe2e4640",
+    "2af8b97521a83dae",
+    "68e42470a61db13a"
+   ]
+  },
+  {
+   "date": "2009-06-10",
+   "future": false,
+   "celex": "02006R1080-20090610",
+   "acts": [
+    {
+     "id": "eu:celex:32009R0397:por",
+     "title": "REGULAMENTO (CE) N. o 397/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de Maio de 2009",
+     "published": null,
+     "celex": "32009R0397"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 5.º — Competitividade regional e emprego",
+    "Altera Artigo 6.º — Cooperação territorial europeia",
+    "Altera Artigo 7.º — Elegibilidade das despesas",
+    "Altera Artigo 12.º — Conteúdo",
+    "Altera Artigo 18.º — Agrupamento europeu de cooperação territorial",
+    "Altera Artigo 25.º — Entrada em vigor",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "d615848a78d2a50c",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "25d9a843abbe1f9d",
+    "64dd2a2d1a7aa8dd",
+    "e6dfcbc5df2eede8",
+    "067003898ce39369",
+    "d25e7da8b76ea877",
+    "a87813a38775d3cb",
+    "a46a965935353d8e",
+    "f0f8c960bfdbce9b",
+    "91eb0517d2b3e3fb",
+    "729aa8b0b13d81e9",
+    "12c0e57c83aa2a5f",
+    "2d27f1f430e9f8dd",
+    "f5995a3840b07ead",
+    "1e7a0903d2eed348",
+    "1bbe483e5cfaf309",
+    "9b406af514eb9164",
+    "c890682d4443d92f",
+    "7e7e228e6bfe2c87",
+    "c42c0c2b3cabd519",
+    "44cce2810a028fe8",
+    "370ebb431f01fabc",
+    "ac8387eef8dd0a6f",
+    "177dfcf552ef9f48",
+    "18fd934243d7bab1",
+    "09bd631cdbc2e3dc",
+    "0c1a4208ead509d5",
+    "fdc58c77c9eea619",
+    "118518ba7f973b06",
+    "2a6934845bb7c573",
+    "563d07634426d65a",
+    "c4a3a0cb3801ee8c",
+    "46e389c38d435613",
+    "de4f973690d85ff8",
+    "1ecfc79da3f1ac7f",
+    "dde9cf53e9ae6c9a",
+    "9fb44cb6772951f6",
+    "acb278541ffa8e09",
+    "292ab88cfe2e4640",
+    "0e365aa09f3cdf2b",
+    "a1aa47d17941a421"
+   ]
+  },
+  {
+   "date": "2010-06-18",
+   "future": false,
+   "celex": "02006R1080-20100618",
+   "acts": [
+    {
+     "id": "eu:celex:32010R0437:por",
+     "title": "REGULAMENTO (UE) N. o 437/2010 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de Maio de 2010",
+     "published": null,
+     "celex": "32010R0437"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 7.º — Elegibilidade das despesas",
+    "Altera Artigo 14.º — Designação das autoridades",
+    "Altera Artigo 18.º — Agrupamento europeu de cooperação territorial",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "5cae609d0d074dcc",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "25d9a843abbe1f9d",
+    "64dd2a2d1a7aa8dd",
+    "e6dfcbc5df2eede8",
+    "067003898ce39369",
+    "d25e7da8b76ea877",
+    "a87813a38775d3cb",
+    "16dfe6b2ee149a33",
+    "f0f8c960bfdbce9b",
+    "91eb0517d2b3e3fb",
+    "729aa8b0b13d81e9",
+    "12c0e57c83aa2a5f",
+    "2d27f1f430e9f8dd",
+    "f5995a3840b07ead",
+    "1e7a0903d2eed348",
+    "1bbe483e5cfaf309",
+    "9b406af514eb9164",
+    "c890682d4443d92f",
+    "7e7e228e6bfe2c87",
+    "c42c0c2b3cabd519",
+    "44cce2810a028fe8",
+    "370ebb431f01fabc",
+    "ac8387eef8dd0a6f",
+    "177dfcf552ef9f48",
+    "c6a27642c3c007b3",
+    "09bd631cdbc2e3dc",
+    "0c1a4208ead509d5",
+    "fdc58c77c9eea619",
+    "15773ef8bba60c69",
+    "2a6934845bb7c573",
+    "563d07634426d65a",
+    "c4a3a0cb3801ee8c",
+    "46e389c38d435613",
+    "de4f973690d85ff8",
+    "1ecfc79da3f1ac7f",
+    "dde9cf53e9ae6c9a",
+    "9fb44cb6772951f6",
+    "acb278541ffa8e09",
+    "292ab88cfe2e4640",
+    "0e365aa09f3cdf2b",
+    "117ec40a07f7aed5"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "celex": "02006R1080-20140101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 1.º — Objecto",
+    "Suprime Artigo 2.º — Objectivo",
+    "Suprime Artigo 3.º — Âmbito de intervenção",
+    "Suprime Artigo 4.º — Convergência",
+    "Suprime Artigo 5.º — Competitividade regional e emprego",
+    "Suprime Artigo 6.º — Cooperação territorial europeia",
+    "Suprime Artigo 7.º — Elegibilidade das despesas",
+    "Suprime CAPÍTULO II",
+    "Suprime DISPOSIÇÕES ESPECÍFICAS RELATIVAS AO TRATAMENTO DAS PARTICULARIDADES TERRITORIAIS",
+    "Suprime Artigo 8.º — Desenvolvimento urbano sustentável",
+    "Suprime Artigo 9.º — Coordenação com o FEADER e o FEP",
+    "Suprime Artigo 10.º — Zonas com desvantagens geográficas e naturais",
+    "Suprime Artigo 11.º — Regiões ultraperiféricas",
+    "Suprime CAPÍTULO III",
+    "Suprime DISPOSIÇÕES ESPECÍFICAS RELATIVAS AO OBJECTIVO DA COOPERAÇÃO TERRITORIAL EUROPEIA",
+    "Suprime SECÇÃO 1",
+    "Suprime Programas operacionais",
+    "Suprime Artigo 12.º — Conteúdo",
+    "Suprime SECÇÃO 2",
+    "Suprime Elegibilidade",
+    "Suprime Artigo 13.º — Disposições relativas às regras de elegibilidade das despesas",
+    "Suprime SECÇÃO 3",
+    "Suprime Gestão, acompanhamento e controlo",
+    "Suprime Artigo 14.º — Designação das autoridades",
+    "Suprime Artigo 15.º — Funções da autoridade de gestão",
+    "Suprime Artigo 16.º — Sistema de controlo",
+    "Suprime Artigo 17.º — Gestão financeira",
+    "Suprime Artigo 18.º — Agrupamento europeu de cooperação territorial",
+    "Suprime SECÇÃO 4",
+    "Suprime Operações",
+    "Suprime Artigo 19.º — Selecção das operações",
+    "Suprime Artigo 20.º — Responsabilidades do beneficiário principal e dos outros beneficiários",
+    "Suprime Artigo 21.º — Condições especiais que regem a localização de operações",
+    "Suprime CAPÍTULO IV",
+    "Suprime DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 22.º — Disposições transitórias",
+    "Suprime Artigo 23.º — Revogação",
+    "Suprime Artigo 24.º — Reexame",
+    "Suprime Artigo 25.º — Entrada em vigor",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "a4887ebf16b55360"
+   ]
+  }
+ ],
+ "fragments": {
+  "93d0ec6ffec2c3b5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Julho de 2006\n\nrelativo ao Fundo Europeu de Desenvolvimento Regional e que revoga o Regulamento (CE) n.º 1783/1999\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o primeiro parágrafo do artigo 162.º e o segundo parágrafo do n.º 2 do artigo 299.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/10738ea5-8caa-4ee1-911b-8d9b79729600.0017.03/DOC_1#ntr1-L_2006210PT.01000101-E0001),\n\nTendo em conta o parecer do Comité das Regiões [([^2])](http://publications.europa.eu/resource/cellar/10738ea5-8caa-4ee1-911b-8d9b79729600.0017.03/DOC_1#ntr2-L_2006210PT.01000101-E0002),\n\nDeliberando nos termos do artigo 251.º do Tratado [([^3])](http://publications.europa.eu/resource/cellar/10738ea5-8caa-4ee1-911b-8d9b79729600.0017.03/DOC_1#ntr3-L_2006210PT.01000101-E0003),\n\nConsiderando o seguinte:\n\n(1) O artigo 160.º do Tratado dispõe que o Fundo Europeu de Desenvolvimento Regional (FEDER) tem por objectivo contribuir para a correcção dos principais desequilíbrios regionais na Comunidade. O FEDER contribui, pois, para reduzir a diferença entre os níveis de desenvolvimento das várias regiões e os atrasos de desenvolvimento das regiões menos favorecidas, designadamente as zonas rurais e urbanas, as regiões industriais em declínio e as zonas com desvantagens em termos naturais ou geográficos, como por exemplo as ilhas, as zonas montanhosas, as zonas escassamente povoadas e as regiões fronteiriças.\n\n(2) As disposições comuns aos fundos estruturais e ao Fundo de Coesão constam do Regulamento (CE) n.º 1083/2006 do Conselho, de 11 de Julho de 2006, que estabelece disposições gerais sobre o Fundo Europeu de Desenvolvimento Regional, o Fundo Social Europeu e o Fundo de Coesão [([^4])](http://publications.europa.eu/resource/cellar/10738ea5-8caa-4ee1-911b-8d9b79729600.0017.03/DOC_1#ntr4-L_2006210PT.01000101-E0004). É conveniente estabelecer disposições específicas relativas ao tipo de actividades que podem ser financiadas pelo FEDER no âmbito dos objectivos definidos no referido regulamento.\n\n(3) O FEDER deverá fornecer assistência no contexto de uma estratégia global para uma política de coesão que assegure uma maior concentração da assistência nas prioridades da Comunidade.\n\n(4) O Regulamento (CE) n.º 1083/2006 dispõe que as regras de elegibilidade das despesas devem ser determinadas a nível nacional, com algumas excepções em relação às quais é necessário estabelecer disposições específicas. Deverão, pois, ser aprovadas disposições relativamente às excepções relacionadas com o FEDER.\n\n(5) No âmbito de uma operação de desenvolvimento urbano integrado, considera-se necessário apoiar acções limitadas de renovação de habitações em zonas atingidas ou ameaçadas de degradação física e exclusão social nos Estados-Membros que tenham aderido à União Europeia em ou após 1 de Maio de 2004.\n\n(6) É necessário determinar que a participação do FEDER nas despesas com a habitação deverá referir-se ao fornecimento de alojamentos de boa qualidade a grupos de menores rendimentos, incluindo o parque imobiliário recentemente privatizado, e de alojamentos a grupos sociais vulneráveis.\n\n(7) A execução eficiente e eficaz das acções apoiadas pelo FEDER assenta na boa governação e na parceria entre todos os intervenientes territoriais e socioeconómicos pertinentes, em especial as autoridades regionais e locais, bem como outros organismos adequados, durante as várias fases de execução dos programas operacionais co-financiados pelo FEDER.\n\n(8) Os Estados-Membros e a Comissão deverão garantir que não haja discriminação em razão do sexo, raça ou origem étnica, religião ou crença, deficiência, idade ou orientação sexual durante as várias fases de execução dos programas operacionais co-financiados pelo FEDER.\n\n(9) Com base na experiência e nos pontos fortes da iniciativa comunitária Urban prevista na alínea b) do n.º 1 do artigo 20.º do Regulamento (CE) n.º 1260/1999 do Conselho, de 21 de Junho de 1999, que estabelece disposições gerais sobre os fundos estruturais [([^5])](http://publications.europa.eu/resource/cellar/10738ea5-8caa-4ee1-911b-8d9b79729600.0017.03/DOC_1#ntr5-L_2006210PT.01000101-E0005), o desenvolvimento urbano sustentável deverá ser reforçado através da plena integração de medidas nesse domínio nos programas operacionais co-financiados pelo FEDER, prestando particular atenção ao desenvolvimento local e às iniciativas de emprego e respectivo potencial de inovação.\n\n(10) Deverá procurar-se em especial assegurar a complementaridade e a coerência com outras políticas comunitárias, nomeadamente com o Sétimo Programa-Quadro de Actividades em Matéria de Investigação, Desenvolvimento Tecnológico e Demonstração e com o Programa-Quadro para a Competitividade e a Inovação. Além disso, deverá haver sinergias entre, por um lado, o apoio concedido pelo FEDER e, por outro, o apoio concedido pelo Fundo Social Europeu nos termos do Regulamento (CE) n.º 1081/2006 do Parlamento Europeu e do Conselho, de 5 de Julho de 2006, relativo ao Fundo Social Europeu [([^6])](http://publications.europa.eu/resource/cellar/10738ea5-8caa-4ee1-911b-8d9b79729600.0017.03/DOC_1#ntr6-L_2006210PT.01000101-E0006), pelo Fundo de Coesão nos termos do Regulamento (CE) n.º 1084/2006 do Conselho, de 11 de Julho de 2006, que estabelece um Fundo de Coesão [([^7])](http://publications.europa.eu/resource/cellar/10738ea5-8caa-4ee1-911b-8d9b79729600.0017.03/DOC_1#ntr7-L_2006210PT.01000101-E0007), pelo Fundo Europeu Agrícola de Desenvolvimento Rural nos termos do Regulamento (CE) n.º 1698/2005 do Conselho, de 20 de Setembro de 2005, relativo ao apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) [([^8])](http://publications.europa.eu/resource/cellar/10738ea5-8caa-4ee1-911b-8d9b79729600.0017.03/DOC_1#ntr8-L_2006210PT.01000101-E0008), e por um Fundo Europeu para a Pesca (FEP).\n\n(11) É necessário que as acções apoiadas pelo FEDER a favor das pequenas e médias empresas tenham em conta e apoiem a execução da Carta Europeia das Pequenas e Médias Empresas aprovada pelo Conselho Europeu de Santa Maria da Feira de 19 e 20 de Junho de 2000.\n\n(12) Deverá ser dada especial atenção às regiões ultraperiféricas, designadamente através do alargamento, com carácter excepcional, do âmbito de intervenção do FEDER ao financiamento das ajudas de funcionamento ligadas à compensação dos custos adicionais resultantes da situação económica e social específica dessas regiões, agravada pelo afastamento, insularidade, pequena dimensão, topografia e clima adversos e pela sua dependência económica de um número reduzido de produtos, factores esses cuja persistência e conjugação restringem fortemente o seu desenvolvimento. Tais medidas específicas exigem a utilização do n.º 2 do artigo 299.º do Tratado como base jurídica.\n\n(13) O FEDER deverá abordar os problemas de acessibilidade e afastamento dos grandes mercados com que se confrontam algumas zonas com uma densidade populacional extremamente baixa, tal como referido no protocolo n.º 6 relativo a disposições especiais aplicáveis ao objectivo n.º 6 no âmbito dos fundos estruturais na Finlândia e na Suécia do Acto de Adesão de 1994. O FEDER deverá igualmente abordar as dificuldades especiais sentidas por algumas ilhas, zonas montanhosas, regiões fronteiriças e zonas escassamente povoadas cujo desenvolvimento é entravado pela sua situação geográfica, com o objectivo de apoiar o desenvolvimento sustentável dessas regiões.\n\n(14) É necessário estabelecer disposições específicas relativas à programação, gestão, acompanhamento e controlo dos programas operacionais no âmbito do objectivo da cooperação territorial europeia.\n\n(15) É necessário apoiar uma cooperação transfronteiriça, transnacional e inter-regional eficaz com os países limítrofes da Comunidade sempre que tal seja necessário para garantir que as regiões dos Estados-Membros situadas nas fronteiras com países terceiros possam ser assistidas de forma eficaz no seu desenvolvimento. É, portanto, conveniente autorizar, com carácter excepcional e sempre que tal seja em benefício das regiões da Comunidade, a intervenção do FEDER para o financiamento de projectos situados no território de países terceiros.\n\n(16) Por razões de clareza, o Regulamento (CE) n.º 1783/1999 do Parlamento Europeu e do Conselho, de 12 de Julho de 1999, relativo ao Fundo Europeu de Desenvolvimento Regional [([^9])](http://publications.europa.eu/resource/cellar/10738ea5-8caa-4ee1-911b-8d9b79729600.0017.03/DOC_1#ntr9-L_2006210PT.01000101-E0009), deverá ser, pois, revogado,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "25d9a843abbe1f9d": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1. O presente regulamento estabelece as atribuições do Fundo Europeu de Desenvolvimento Regional (FEDER), o âmbito da sua intervenção em relação aos Objectivos da Convergência, da Competitividade Regional e do Emprego e da Cooperação Territorial Europeia, tal como definidos no n.º 2 do artigo 3.º do Regulamento (CE) n.º 1083/2006, e as regras de elegibilidade para a intervenção.\n\n2. O FEDER rege-se pelo disposto no Regulamento (CE) n.º 1083/2006 e no presente regulamento."
+  },
+  "64dd2a2d1a7aa8dd": {
+   "fragment_id": "Artigo 2.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivo\n\nNos termos do artigo 160.º do Tratado e do Regulamento (CE) n.º 1083/2006, o FEDER participa no financiamento da intervenção destinada ao reforço da coesão económica e social, corrigindo os principais desequilíbrios regionais através do apoio ao desenvolvimento e ao ajustamento estrutural das economias regionais, incluindo a reconversão das regiões industriais em declínio e das regiões menos desenvolvidas, e do apoio à cooperação transfronteiriça, transnacional e inter-regional.\n\nDessa forma, o FEDER dá cumprimento às prioridades da Comunidade e, em especial, à necessidade de reforçar a competitividade e a inovação, de criar e manter empregos sustentáveis e de assegurar o desenvolvimento sustentável."
+  },
+  "e6dfcbc5df2eede8": {
+   "fragment_id": "Artigo 3.º — Âmbito de intervenção",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Âmbito de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de intervenção\n\n1. O FEDER centra a sua intervenção em prioridades temáticas. O tipo e a gama de acções a financiar no âmbito de cada prioridade reflectem o carácter distinto dos objectivos da convergência, da competitividade regional e do emprego e da cooperação territorial europeia, em conformidade com os artigos 4.º, 5.º e 6.º\n\n2. O FEDER contribui para o financiamento:\n\na) Dos investimentos produtivos que contribuam para criar e manter empregos sustentáveis, principalmente através de ajudas directas ao investimento, sobretudo nas pequenas e médias empresas (PME);\n\nb) Dos investimentos em infra-estruturas;\n\nc) Do desenvolvimento do potencial endógeno, através de medidas que apoiem o desenvolvimento regional e local. Essas medidas incluem apoio e serviços a empresas, especialmente PME, criação e desenvolvimento de instrumentos de financiamento tais como capital de risco, fundos de empréstimo e de garantia, fundos de desenvolvimento local, bonificações de juros, trabalho em rede, cooperação e intercâmbio de experiências entre regiões, cidades e intervenientes sociais, económicos e ambientais pertinentes;\n\nd) Da assistência técnica, tal como referida nos artigos 45.º e 46.º do Regulamento (CE) n.º 1083/2006.\n\nOs diversos investimentos e medidas acima enumerados nas alíneas a) a d) estão disponíveis para a execução das prioridades temáticas, em conformidade com os artigos 4.º, 5.º e 6.º"
+  },
+  "067003898ce39369": {
+   "fragment_id": "Artigo 4.º — Convergência",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Convergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Convergência\n\nNo âmbito do Objectivo da Convergência, o FEDER centra a sua intervenção no apoio ao emprego e ao desenvolvimento económico integrado sustentável, a nível regional e local, através da mobilização e do reforço da capacidade endógena, mediante programas operacionais destinados à modernização e diversificação das estruturas económicas e à criação e manutenção de postos de trabalho duradouros. Esses objectivos devem ser perseguidos principalmente através das prioridades a seguir indicadas, dependendo a combinação precisa das especificidades de cada Estado-Membro:\n\n1. Investigação e desenvolvimento tecnológico (IDT), inovação e espírito empresarial, nomeadamente o reforço das capacidades de investigação e de desenvolvimento tecnológico e a respectiva integração no Espaço Europeu de Investigação, incluindo infra-estruturas; ajuda à IDT, nomeadamente nas PME, e à transferência de tecnologias; melhoria das ligações entre as PME, o ensino superior, as instituições de investigação e os centros de investigação e tecnologia; desenvolvimento de redes empresariais; parcerias público-privadas e agrupamentos de empresas; apoio à prestação de serviços empresariais e tecnológicos a grupos de PME; fomento do espírito empresarial e do financiamento da inovação para PME através de instrumentos de engenharia financeira;\n\n2. Sociedade da informação, incluindo o desenvolvimento de infra-estruturas de comunicações electrónicas, de conteúdos, de serviços e de aplicações locais, melhoria do acesso seguro a serviços públicos em linha e respectivo desenvolvimento; ajuda e serviços às PME para a adopção e utilização eficaz das tecnologias da informação e da comunicação (TIC) ou para a exploração de novas ideias;\n\n3. Iniciativas de desenvolvimento local e ajuda às estruturas que prestem serviços de proximidade para criar novos empregos, sempre que essas medidas não se enquadrem no âmbito do Regulamento (CE) n.º 1081/2006;\n\n4. Ambiente, incluindo investimentos relacionados com o abastecimento de água e a gestão de resíduos e da água; tratamento de águas usadas e qualidade do ar; prevenção, controlo e luta contra a desertificação; prevenção e controlo integrados da poluição; ajuda para mitigar os efeitos das alterações climáticas; recuperação do ambiente físico, incluindo sítios e terrenos contaminados e áreas industriais degradadas; promoção da biodiversidade e protecção da natureza, incluindo investimentos nos sítios NATURA 2000; ajuda às PME para promover padrões de produção sustentáveis através da introdução de sistemas rentáveis de gestão ambiental e da adopção e utilização de tecnologias de prevenção da poluição;\n\n5. Prevenção de riscos, incluindo a concepção e execução de planos destinados a prevenir e gerir os riscos naturais e tecnológicos;\n\n6. Turismo, incluindo a promoção dos recursos naturais como potencial para o desenvolvimento do turismo sustentável; protecção e valorização do património natural em apoio do desenvolvimento socioeconómico; ajuda para melhorar a prestação de serviços de turismo, através de novos serviços de maior valor acrescentado, e para incentivar novos modelos de turismo mais sustentáveis;\n\n7. Investimentos na cultura, incluindo a protecção, promoção e preservação do património cultural; desenvolvimento de infra-estruturas culturais em apoio do desenvolvimento socioeconómico, do turismo sustentável e de maiores atractivos regionais; ajuda à melhoria da oferta de serviços culturais através de novos serviços com maior valor acrescentado;\n\n8. Investimentos em transportes, nomeadamente a melhoria das redes transeuropeias e ligações à rede RTE-T; estratégias integradas para a promoção de transportes limpos que contribuam para melhorar o acesso aos serviços de passageiros e mercadorias e a sua qualidade, para obter um maior equilíbrio na distribuição modal dos transportes, para promover sistemas intermodais e para reduzir os impactos ambientais;\n\n9. Investimentos em energia, incluindo investimentos na melhoria das redes transeuropeias que contribuam para reforçar a segurança do abastecimento, a integração de aspectos ambientais, a melhoria da eficiência energética e o desenvolvimento de energias renováveis;\n\n10. Investimentos na educação, nomeadamente na formação profissional, que contribuam para aumentar os atractivos e a qualidade de vida;\n\n11. Investimentos na saúde e nas infra-estruturas sociais que contribuam para o desenvolvimento regional e local e para o aumento da qualidade de vida."
+  },
+  "a7e81538cb1950e5": {
+   "fragment_id": "Artigo 5.º — Competitividade regional e emprego",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Competitividade regional e emprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competitividade regional e emprego\n\nNo âmbito do objectivo da competitividade regional e do emprego, o FEDER centra a sua intervenção no contexto das estratégias de desenvolvimento sustentável, promovendo simultaneamente o emprego, principalmente nas três prioridades seguintes:\n\n1. Inovação e economia baseada no conhecimento, nomeadamente através da criação e reforço de economias regionais de inovação eficazes, de relações sistémicas entre os sectores público e privado, as universidades e os centros de tecnologia, que tenham em conta as necessidades locais, e em especial: a) o desenvolvimento das capacidades regionais de IDT e de inovação directamente relacionadas com objectivos de desenvolvimento económico regional, através do apoio a centros de competência industriais ou tecnológicos, da promoção de IDT industrial, das PME e da transferência de tecnologias, do desenvolvimento da previsão tecnológica e da avaliação comparativa, a nível internacional, das políticas para promover a inovação, e do apoio à colaboração entre empresas e a políticas conjuntas em matéria de IDT e inovação; b) o fomento da inovação e do espírito empresarial em todos os sectores da economia regional e local, através do apoio à comercialização, pelas PME, de produtos, processos e serviços novos ou melhorados, do apoio a redes e agrupamentos empresariais, da melhoria do acesso das PME a financiamentos, da promoção de redes de cooperação entre as empresas e os estabelecimentos de ensino superior e de investigação pertinentes, da promoção do acesso das PME a serviços de apoio a empresas, e do apoio à introdução de tecnologias mais limpas e inovadoras nas PME; c) a promoção do espírito empresarial, nomeadamente facilitando a exploração económica de ideias novas e incentivando a criação de novas empresas por estabelecimentos de ensino superior e de investigação pertinentes e por empresas existentes; d) a criação de instrumentos de engenharia financeira e de incubadoras de empresas que propiciem a capacidade de investigação e de desenvolvimento tecnológico das PME e incentivem o espírito empresarial e a criação de novas empresas, em especial de PME com utilização intensiva do conhecimento.\n\na) o desenvolvimento das capacidades regionais de IDT e de inovação directamente relacionadas com objectivos de desenvolvimento económico regional, através do apoio a centros de competência industriais ou tecnológicos, da promoção de IDT industrial, das PME e da transferência de tecnologias, do desenvolvimento da previsão tecnológica e da avaliação comparativa, a nível internacional, das políticas para promover a inovação, e do apoio à colaboração entre empresas e a políticas conjuntas em matéria de IDT e inovação;\n\nb) o fomento da inovação e do espírito empresarial em todos os sectores da economia regional e local, através do apoio à comercialização, pelas PME, de produtos, processos e serviços novos ou melhorados, do apoio a redes e agrupamentos empresariais, da melhoria do acesso das PME a financiamentos, da promoção de redes de cooperação entre as empresas e os estabelecimentos de ensino superior e de investigação pertinentes, da promoção do acesso das PME a serviços de apoio a empresas, e do apoio à introdução de tecnologias mais limpas e inovadoras nas PME;\n\nc) a promoção do espírito empresarial, nomeadamente facilitando a exploração económica de ideias novas e incentivando a criação de novas empresas por estabelecimentos de ensino superior e de investigação pertinentes e por empresas existentes;\n\nd) a criação de instrumentos de engenharia financeira e de incubadoras de empresas que propiciem a capacidade de investigação e de desenvolvimento tecnológico das PME e incentivem o espírito empresarial e a criação de novas empresas, em especial de PME com utilização intensiva do conhecimento.\n\n2. Ambiente e prevenção de riscos, em especial: a) o estímulo ao investimento para a recuperação do ambiente físico, nomeadamente de sítios e terrenos contaminados, desertificados e degradados; b) a promoção da criação de infra-estruturas relacionadas com a biodiversidade e os investimentos em sítios Natura 2000, sempre que tal contribua para o desenvolvimento económico sustentável e/ou a diversificação das zonas rurais; c) a promoção da eficiência energética e da produção de energia renovável e o desenvolvimento de sistemas eficientes de gestão da energia; d) a promoção de transportes públicos limpos e sustentáveis, em especial nas zonas urbanas; e) a criação de planos e medidas para prevenir e gerir os riscos naturais, como por exemplo a desertificação, a seca, os incêndios e as cheias, e os riscos tecnológicos; f) a protecção e melhoria do património natural e cultural em apoio do desenvolvimento socioeconómico e a promoção dos recursos naturais e culturais como potencial para o desenvolvimento do turismo sustentável.\n\na) o estímulo ao investimento para a recuperação do ambiente físico, nomeadamente de sítios e terrenos contaminados, desertificados e degradados;\n\nb) a promoção da criação de infra-estruturas relacionadas com a biodiversidade e os investimentos em sítios Natura 2000, sempre que tal contribua para o desenvolvimento económico sustentável e/ou a diversificação das zonas rurais;\n\nc) a promoção da eficiência energética e da produção de energia renovável e o desenvolvimento de sistemas eficientes de gestão da energia;\n\nd) a promoção de transportes públicos limpos e sustentáveis, em especial nas zonas urbanas;\n\ne) a criação de planos e medidas para prevenir e gerir os riscos naturais, como por exemplo a desertificação, a seca, os incêndios e as cheias, e os riscos tecnológicos;\n\nf) a protecção e melhoria do património natural e cultural em apoio do desenvolvimento socioeconómico e a promoção dos recursos naturais e culturais como potencial para o desenvolvimento do turismo sustentável.\n\n3. Acesso aos serviços de transportes e telecomunicações de interesse económico geral, em especial: a) o reforço das redes de transporte secundárias através da melhoria das ligações às redes RTE-T, aos nós ferroviários, aeroportos e portos regionais ou às plataformas multimodais, da criação de ligações radiais às principais linhas ferroviárias e da promoção de vias navegáveis interiores regionais e locais e da cabotagem; b) a promoção do acesso das PME às TIC e da sua adopção e utilização eficiente, através do apoio ao acesso a redes, à criação de pontos de acesso públicos à internet, a equipamentos e ao desenvolvimento de serviços e aplicações, incluindo, designadamente, o recurso a planos de acção destinados às microempresas e às empresas artesanais.\n\na) o reforço das redes de transporte secundárias através da melhoria das ligações às redes RTE-T, aos nós ferroviários, aeroportos e portos regionais ou às plataformas multimodais, da criação de ligações radiais às principais linhas ferroviárias e da promoção de vias navegáveis interiores regionais e locais e da cabotagem;\n\nb) a promoção do acesso das PME às TIC e da sua adopção e utilização eficiente, através do apoio ao acesso a redes, à criação de pontos de acesso públicos à internet, a equipamentos e ao desenvolvimento de serviços e aplicações, incluindo, designadamente, o recurso a planos de acção destinados às microempresas e às empresas artesanais.\n\nAlém disso, em relação aos programas apoiados pelo FEDER nas regiões elegíveis para o financiamento específico e transitório referido no n.º 2 do artigo 8.º do Regulamento (CE) n.º 1083/2006, os Estados-Membros e a Comissão podem decidir alargar o apoio às prioridades referidas no artigo 4.º do presente regulamento."
+  },
+  "4cb5d1fea0124c26": {
+   "fragment_id": "Artigo 6.º — Cooperação territorial europeia",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Cooperação territorial europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Cooperação territorial europeia\n\nNo âmbito do objectivo da cooperação territorial europeia, o FEDER centra a sua intervenção nas seguintes prioridades:\n\n1. Desenvolvimento de actividades económicas, sociais e ambientais transfronteiriças através de estratégias conjuntas para o desenvolvimento territorial sustentável, em especial: a) promovendo o espírito empresarial e, designadamente, o desenvolvimento das PME, do turismo, da cultura e do comércio transfronteiriço; b) incentivando e melhorando a protecção e gestão conjuntas dos recursos naturais e culturais, bem como a prevenção dos riscos naturais e tecnológicos; c) reforçando as relações entre as zonas urbanas e rurais; d) reduzindo o isolamento através de um melhor acesso a redes e serviços de transportes, de informação e comunicação, e a sistemas e instalações transfronteiriços de abastecimento de água, de energia e de gestão dos resíduos; e) desenvolvendo a colaboração, as capacidades e a utilização conjunta das infra-estruturas, em especial em sectores como a saúde, a cultura, o turismo e a educação. Além disso, o FEDER pode contribuir para a promoção da cooperação judiciária e administrativa, da integração dos mercados de trabalho transfronteiriços, de iniciativas locais de emprego, da igualdade entre os sexos e da igualdade de oportunidades, da formação e da inclusão social, e para a partilha de recursos humanos e de meios destinados à IDT. No que se refere ao programa PEACE entre a Irlanda do Norte e os condados limítrofes da Irlanda, tal como previsto no ponto 22 do anexo II do Regulamento (CE) n.º 1083/2006, o FEDER contribui, além das acções acima mencionadas, para a promoção da estabilidade social e económica nas regiões em causa, nomeadamente através de acções destinadas a promover a coesão entre as comunidades.\n\na) promovendo o espírito empresarial e, designadamente, o desenvolvimento das PME, do turismo, da cultura e do comércio transfronteiriço;\n\nb) incentivando e melhorando a protecção e gestão conjuntas dos recursos naturais e culturais, bem como a prevenção dos riscos naturais e tecnológicos;\n\nc) reforçando as relações entre as zonas urbanas e rurais;\n\nd) reduzindo o isolamento através de um melhor acesso a redes e serviços de transportes, de informação e comunicação, e a sistemas e instalações transfronteiriços de abastecimento de água, de energia e de gestão dos resíduos;\n\ne) desenvolvendo a colaboração, as capacidades e a utilização conjunta das infra-estruturas, em especial em sectores como a saúde, a cultura, o turismo e a educação.\n\n2. Estabelecimento e desenvolvimento da cooperação transnacional, nomeadamente a cooperação bilateral entre as regiões marítimas não abrangidas pelo ponto 1, mediante o financiamento de redes e acções conducentes a um desenvolvimento territorial integrado, concentrando-se principalmente nos seguintes domínios prioritários: a) inovação: criação e desenvolvimento de redes científicas e tecnológicas e reforço das capacidades regionais de IDT e de inovação, sempre que estas contribuam directamente para o desenvolvimento económico equilibrado de zonas transnacionais. As acções podem incluir a criação de redes entre os estabelecimentos de ensino superior e de investigação pertinentes e as PME, ligações para facilitar o acesso ao conhecimento científico e à transferência de tecnologias entre as instalações de IDT e os centros internacionais de excelência em matéria de IDT, a geminação de organismos de transferência de tecnologias e o desenvolvimento de instrumentos de engenharia financeira conjuntos centrados no apoio à IDT nas PME; b) ambiente: actividades de gestão dos recursos hídricos, eficiência energética, prevenção dos riscos e protecção do ambiente, com uma evidente dimensão transnacional. As acções podem incluir: a protecção e a gestão das bacias hidrográficas, das zonas costeiras, dos recursos marinhos, dos serviços das águas e das zonas húmidas; a prevenção de incêndios, secas e inundações; a promoção da segurança marítima e a protecção contra os riscos naturais e tecnológicos; a protecção e valorização do património natural em apoio do desenvolvimento socioeconómico e do turismo sustentável; c) acessibilidade: actividades para melhorar o acesso e a qualidade dos serviços de transporte e telecomunicações sempre que estes tenham uma clara dimensão transnacional. As acções podem incluir: investimentos relacionados com as secções transfronteiriças das redes transeuropeias, a melhoria do acesso local e regional às redes nacionais e transnacionais, o reforço da interoperabilidade dos sistemas nacionais e regionais, e a promoção de tecnologias avançadas da informação e da comunicação; d) desenvolvimento urbano sustentável: reforço do desenvolvimento policêntrico a nível transnacional, nacional e regional, com claro impacto transnacional. As acções podem incluir: criação e melhoria das redes urbanas e das ligações entre zonas urbanas e rurais, estratégias para abordar questões urbanas/rurais comuns, preservação e promoção do património cultural e integração estratégica de zonas de desenvolvimento numa base transnacional. O apoio à cooperação bilateral entre as regiões marítimas pode ser alargado às prioridades referidas no ponto 1.\n\na) inovação: criação e desenvolvimento de redes científicas e tecnológicas e reforço das capacidades regionais de IDT e de inovação, sempre que estas contribuam directamente para o desenvolvimento económico equilibrado de zonas transnacionais. As acções podem incluir a criação de redes entre os estabelecimentos de ensino superior e de investigação pertinentes e as PME, ligações para facilitar o acesso ao conhecimento científico e à transferência de tecnologias entre as instalações de IDT e os centros internacionais de excelência em matéria de IDT, a geminação de organismos de transferência de tecnologias e o desenvolvimento de instrumentos de engenharia financeira conjuntos centrados no apoio à IDT nas PME;\n\nb) ambiente: actividades de gestão dos recursos hídricos, eficiência energética, prevenção dos riscos e protecção do ambiente, com uma evidente dimensão transnacional. As acções podem incluir: a protecção e a gestão das bacias hidrográficas, das zonas costeiras, dos recursos marinhos, dos serviços das águas e das zonas húmidas; a prevenção de incêndios, secas e inundações; a promoção da segurança marítima e a protecção contra os riscos naturais e tecnológicos; a protecção e valorização do património natural em apoio do desenvolvimento socioeconómico e do turismo sustentável;\n\nc) acessibilidade: actividades para melhorar o acesso e a qualidade dos serviços de transporte e telecomunicações sempre que estes tenham uma clara dimensão transnacional. As acções podem incluir: investimentos relacionados com as secções transfronteiriças das redes transeuropeias, a melhoria do acesso local e regional às redes nacionais e transnacionais, o reforço da interoperabilidade dos sistemas nacionais e regionais, e a promoção de tecnologias avançadas da informação e da comunicação;\n\nd) desenvolvimento urbano sustentável: reforço do desenvolvimento policêntrico a nível transnacional, nacional e regional, com claro impacto transnacional. As acções podem incluir: criação e melhoria das redes urbanas e das ligações entre zonas urbanas e rurais, estratégias para abordar questões urbanas/rurais comuns, preservação e promoção do património cultural e integração estratégica de zonas de desenvolvimento numa base transnacional.\n\n3. Reforço da eficácia da política regional através da promoção: a) da cooperação inter-regional centrada na inovação e na economia baseada no conhecimento e no ambiente e na prevenção dos riscos, na acepção dos pontos 1 e 2 do artigo 5.º, b) do intercâmbio de experiências em matéria de identificação, transferência e divulgação das melhores práticas, incluindo o desenvolvimento urbano sustentável referido no artigo 8.º; e c) de acções ligadas a estudos, recolha de dados e observação e análise das tendências de desenvolvimento na Comunidade.\n\na) da cooperação inter-regional centrada na inovação e na economia baseada no conhecimento e no ambiente e na prevenção dos riscos, na acepção dos pontos 1 e 2 do artigo 5.º,\n\nb) do intercâmbio de experiências em matéria de identificação, transferência e divulgação das melhores práticas, incluindo o desenvolvimento urbano sustentável referido no artigo 8.º; e\n\nc) de acções ligadas a estudos, recolha de dados e observação e análise das tendências de desenvolvimento na Comunidade."
+  },
+  "15a97fe54b04f88d": {
+   "fragment_id": "Artigo 7.º — Elegibilidade das despesas",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Elegibilidade das despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Elegibilidade das despesas\n\n1. As seguintes despesas não são elegíveis para participação do FEDER:\n\na) Juros devedores;\n\nb) Aquisição de terrenos num montante superior a 10 % das despesas totais elegíveis da operação em causa. Em casos excepcionais e devidamente justificados, a autoridade de gestão pode aceitar uma percentagem mais elevada para operações relativas à conservação do ambiente;\n\nc) Desactivação de centrais nucleares;\n\nd) Imposto sobre o valor acrescentado recuperável.\n\n2. As despesas com a habitação são elegíveis apenas para os Estados-Membros que tenham aderido à União Europeia em ou após 1 de Maio de 2004 e nas seguintes circunstâncias:\n\na) As despesas devem ser programadas no âmbito de uma operação de desenvolvimento urbano integrado ou de um eixo prioritário, para as zonas afectadas ou ameaçadas por degradação física ou exclusão social;\n\nb) Os subsídios às despesas com a habitação devem ter um limite máximo de 3 % da intervenção FEDER nos programas operacionais em causa ou de 2 % da intervenção total do FEDER;\n\nc) As despesas devem restringir-se: — a alojamentos plurifamiliares ou — a edifícios que sejam propriedade das autoridades públicas ou de operadores sem fins lucrativos, destinados a alojar agregados familiares com baixos rendimentos ou pessoas com necessidades especiais.\n\n— a alojamentos plurifamiliares ou\n\n— a edifícios que sejam propriedade das autoridades públicas ou de operadores sem fins lucrativos, destinados a alojar agregados familiares com baixos rendimentos ou pessoas com necessidades especiais.\n\nA Comissão aprova, nos termos do n.º 3 do artigo 103.º do Regulamento (CE) n.º 1083/2006, a lista dos critérios necessários para a determinação das zonas referidas na alínea a) e a lista das intervenções elegíveis.\n\n3. As regras de elegibilidade estabelecidas no artigo 11.º do Regulamento (CE) n.º 1081/2006 aplicam-se às acções co-financiadas pelo FEDER que sejam abrangidas pelo âmbito de aplicação do artigo 3.º daquele regulamento."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "91eb0517d2b3e3fb": {
+   "fragment_id": "DISPOSIÇÕES ESPECÍFICAS RELATIVAS AO TRATAMENTO DAS PARTICULARIDADES TERRITORIAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES ESPECÍFICAS RELATIVAS AO TRATAMENTO DAS PARTICULARIDADES TERRITORIAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES ESPECÍFICAS RELATIVAS AO TRATAMENTO DAS PARTICULARIDADES TERRITORIAIS"
+  },
+  "729aa8b0b13d81e9": {
+   "fragment_id": "Artigo 8.º — Desenvolvimento urbano sustentável",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Desenvolvimento urbano sustentável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Desenvolvimento urbano sustentável\n\nAlém das actividades enumeradas nos artigos 4.º e 5.º do presente regulamento, no que diz respeito à acção relativa ao desenvolvimento urbano sustentável referida na alínea a) do n.º 4 do artigo 37.º do Regulamento (CE) n.º 1083/2006, o FEDER pode, sempre que necessário, apoiar a criação de estratégias participativas, integradas e sustentáveis para fazer face à elevada concentração de problemas económicos, ambientais e sociais nas zonas urbanas.\n\nEssas estratégias promovem o desenvolvimento urbano sustentável através de actividades como o reforço do crescimento económico, a reabilitação do ambiente físico, o redesenvolvimento de áreas industriais degradadas, a preservação e valorização do património natural e cultural, a promoção do espírito empresarial, do emprego local e do desenvolvimento comunitário, e a prestação de serviços à população tendo em conta a evolução das estruturas demográficas.\n\nEm derrogação do n.º 2 do artigo 34.º do Regulamento (CE) n.º 1083/2006, e sempre que essas actividades forem executadas através de um programa operacional ou de um eixo prioritário de um programa operacional, o financiamento pelo FEDER das medidas a título do objectivo da competitividade regional e do emprego no âmbito do Regulamento (CE) n.º 1081/2006 pode ser aumentado para 15 % do programa ou do eixo prioritário em causa."
+  },
+  "12c0e57c83aa2a5f": {
+   "fragment_id": "Artigo 9.º — Coordenação com o FEADER e o FEP",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Coordenação com o FEADER e o FEP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Coordenação com o FEADER e o FEP\n\nSempre que um programa operacional apoiado pelo FEDER visar operações também elegíveis ao abrigo de outro instrumento de apoio comunitário, nomeadamente o eixo 3 do FEADER e o desenvolvimento sustentável das zonas costeiras de pesca ao abrigo do FEP, os Estados-Membros fixam, em cada programa operacional, os critérios de delimitação entre as operações apoiadas pelo FEDER e as operações apoiadas pelos outros instrumentos de apoio comunitário."
+  },
+  "2d27f1f430e9f8dd": {
+   "fragment_id": "Artigo 10.º — Zonas com desvantagens geográficas e naturais",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Zonas com desvantagens geográficas e naturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Zonas com desvantagens geográficas e naturais\n\nOs programas regionais co-financiados pelo FEDER que abrangem zonas com desvantagens geográficas e naturais referidas na alínea f) do artigo 52.º do Regulamento (CE) n.º 1083/2006 devem dar especial atenção à resolução das dificuldades específicas das referidas zonas.\n\nSem prejuízo dos artigos 4.º e 5.º, o FEDER pode contribuir, em especial, para o financiamento de investimentos tendentes a melhorar a acessibilidade, a promover e a desenvolver actividades económicas relacionadas com o património cultural e natural, a promover a utilização sustentável dos recursos naturais e a estimular o turismo sustentável."
+  },
+  "f5995a3840b07ead": {
+   "fragment_id": "Artigo 11.º — Regiões ultraperiféricas",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Regiões ultraperiféricas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regiões ultraperiféricas\n\n1. A dotação específica adicional referida no ponto 20 do anexo II do Regulamento (CE) n.º 1083/2006 é utilizada a fim de compensar os custos adicionais relacionados com as desvantagens definidas no n.º 2 do artigo 299.º do Tratado, incorridos nas regiões ultraperiféricas para apoiar:\n\na) As prioridades referidas nos artigos 4.º e/ou 5.º, conforme o caso;\n\nb) Os serviços de transporte de mercadorias e o auxílio ao arranque de serviços de transporte;\n\nc) As operações relacionadas com as limitações da capacidade de armazenamento, o sobredimensionamento e a manutenção dos instrumentos de produção e a carência de capital humano no mercado de trabalho local.\n\n2. No âmbito do artigo 3.º, a dotação específica adicional pode financiar os custos de investimento. Além disso, a dotação específica adicional é utilizada num mínimo de 50 % a fim de contribuir para o financiamento das ajudas ao funcionamento e das despesas relacionadas com obrigações e contratos de serviço público nas regiões ultraperiféricas.\n\n3. O montante a que é aplicável a taxa de co-financiamento é proporcional aos custos adicionais mencionados no n.º 1, incorridos pelo beneficiário, no caso das ajudas ao funcionamento e das despesas relacionadas com obrigações e contratos de serviço público, e pode abranger a totalidade dos custos elegíveis no caso das despesas de investimento.\n\n4. O financiamento ao abrigo do presente artigo não pode ser utilizado para apoiar:\n\na) Operações que envolvam produtos abrangidos pelo anexo I do Tratado;\n\nb) Auxílios ao transporte de pessoas autorizados nos termos da alínea a) do n.º 2 do artigo 87.º do Tratado;\n\nc) Isenções fiscais e isenção de encargos sociais."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "1bbe483e5cfaf309": {
+   "fragment_id": "DISPOSIÇÕES ESPECÍFICAS RELATIVAS AO OBJECTIVO DA COOPERAÇÃO TERRITORIAL EUROPEIA",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES ESPECÍFICAS RELATIVAS AO OBJECTIVO DA COOPERAÇÃO TERRITORIAL EUROPEIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES ESPECÍFICAS RELATIVAS AO OBJECTIVO DA COOPERAÇÃO TERRITORIAL EUROPEIA"
+  },
+  "9b406af514eb9164": {
+   "fragment_id": "SECÇÃO 1",
+   "type": "divisao",
+   "heading": "SECÇÃO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 1"
+  },
+  "c890682d4443d92f": {
+   "fragment_id": "Programas operacionais",
+   "type": "divisao",
+   "heading": "Programas operacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Programas operacionais"
+  },
+  "ea40f85c43e170f2": {
+   "fragment_id": "Artigo 12.º — Conteúdo",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Conteúdo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Conteúdo\n\nCada programa operacional que se enquadre no âmbito do objectivo da cooperação territorial europeia contém as seguintes informações:\n\n1. Uma análise da situação na zona de cooperação em termos de pontos fortes e fracos e da estratégia escolhida para lhes dar resposta;\n\n2. Uma lista das zonas elegíveis existentes no território abrangido pelo programa incluindo, no que respeita aos programas de cooperação transfronteiriça, as zonas de flexibilidade referidas no n.º 1 do artigo 21.º;\n\n3. Uma justificação das prioridades escolhidas tendo em conta as orientações estratégicas da Comunidade em matéria de coesão, o quadro de referência estratégico nacional em que o Estado-Membro decidiu incluir as acções financiadas no âmbito do objectivo da cooperação territorial europeia, e os resultados da avaliação *ex ante* referida no n.º 2 do artigo 48.º do Regulamento (CE) n.º 1083/2006;\n\n4. Informação sobre os eixos prioritários e respectivos objectivos específicos. Esses objectivos devem ser quantificados utilizando um número limitado de indicadores de realização e de resultados, tendo em conta o princípio da proporcionalidade. Os indicadores devem permitir medir os progressos alcançados em relação à situação de base inicial e a realização dos objectivos dos eixos prioritários;\n\n5. Apenas para efeitos de informação, uma repartição indicativa por categorias da utilização programada da participação do FEDER no programa operacional, em conformidade com as regras de execução aprovadas pela Comissão nos termos do n.º 3 do artigo 103.º do Regulamento (CE) n.º 1083/2006;\n\n6. Um plano de financiamento único, sem repartição por Estados-Membros, compreendendo dois quadros: a) um quadro que reparta em relação a cada ano, em conformidade com os artigos 52.º, 53.º e 54.º do Regulamento (CE) n.º 1083/2006, o montante da dotação financeira total prevista para a participação do FEDER. A participação total do FEDER prevista anualmente deve ser compatível com o quadro financeiro aplicável; b) um quadro que especifique, em relação à totalidade do período de programação, para o programa operacional e para cada eixo prioritário, o montante da dotação financeira total da participação comunitária e das contrapartidas nacionais, bem como a taxa de participação do FEDER. Sempre que, em conformidade com o artigo 53.º do Regulamento (CE) n.º 1083/2006, a contrapartida nacional for constituída por despesas públicas e privadas, o quadro deve apresentar a repartição indicativa entre o sector público e o sector privado. Sempre que, em conformidade com o mesmo artigo, a contrapartida nacional for constituída por despesas públicas, o quadro deve indicar o montante da participação pública nacional;\n\na) um quadro que reparta em relação a cada ano, em conformidade com os artigos 52.º, 53.º e 54.º do Regulamento (CE) n.º 1083/2006, o montante da dotação financeira total prevista para a participação do FEDER. A participação total do FEDER prevista anualmente deve ser compatível com o quadro financeiro aplicável;\n\nb) um quadro que especifique, em relação à totalidade do período de programação, para o programa operacional e para cada eixo prioritário, o montante da dotação financeira total da participação comunitária e das contrapartidas nacionais, bem como a taxa de participação do FEDER. Sempre que, em conformidade com o artigo 53.º do Regulamento (CE) n.º 1083/2006, a contrapartida nacional for constituída por despesas públicas e privadas, o quadro deve apresentar a repartição indicativa entre o sector público e o sector privado. Sempre que, em conformidade com o mesmo artigo, a contrapartida nacional for constituída por despesas públicas, o quadro deve indicar o montante da participação pública nacional;\n\n7. Informações sobre a complementaridade com as acções financiadas pelo FEADER e as financiadas pelo FEP, se for caso disso;\n\n8. As disposições de execução do programa operacional, incluindo: a) a designação pelos Estados-Membros de todas as autoridades a que se refere o artigo 14.º; b) uma descrição dos sistemas de acompanhamento e avaliação; c) informações sobre o organismo competente para receber os pagamentos efectuados pela Comissão e sobre o organismo ou organismos responsáveis pelos pagamentos aos beneficiários; d) uma definição dos procedimentos para a mobilização e circulação de fluxos financeiros de modo a garantir a sua transparência; e) os elementos destinados a assegurar a publicidade e a informação relativas ao programa operacional a que se refere o artigo 69.º do Regulamento (CE) n.º 1083/2006; f) uma descrição dos procedimentos acordados entre a Comissão e os Estados-Membros para o intercâmbio dos dados informatizados a fim de cumprir os requisitos do Regulamento (CE) n.º 1083/2006 em matéria de pagamentos, acompanhamento e avaliação;\n\na) a designação pelos Estados-Membros de todas as autoridades a que se refere o artigo 14.º;\n\nb) uma descrição dos sistemas de acompanhamento e avaliação;\n\nc) informações sobre o organismo competente para receber os pagamentos efectuados pela Comissão e sobre o organismo ou organismos responsáveis pelos pagamentos aos beneficiários;\n\nd) uma definição dos procedimentos para a mobilização e circulação de fluxos financeiros de modo a garantir a sua transparência;\n\ne) os elementos destinados a assegurar a publicidade e a informação relativas ao programa operacional a que se refere o artigo 69.º do Regulamento (CE) n.º 1083/2006;\n\nf) uma descrição dos procedimentos acordados entre a Comissão e os Estados-Membros para o intercâmbio dos dados informatizados a fim de cumprir os requisitos do Regulamento (CE) n.º 1083/2006 em matéria de pagamentos, acompanhamento e avaliação;\n\n9. Uma lista indicativa dos grandes projectos, na acepção do artigo 39.º do Regulamento (CE) n.º 1083/2006, que devem ser apresentados durante o período de programação para aprovação pela Comissão."
+  },
+  "c42c0c2b3cabd519": {
+   "fragment_id": "SECÇÃO 2",
+   "type": "divisao",
+   "heading": "SECÇÃO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 2"
+  },
+  "44cce2810a028fe8": {
+   "fragment_id": "Elegibilidade",
+   "type": "divisao",
+   "heading": "Elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Elegibilidade"
+  },
+  "370ebb431f01fabc": {
+   "fragment_id": "Artigo 13.º — Disposições relativas às regras de elegibilidade das despesas",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Disposições relativas às regras de elegibilidade das despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Disposições relativas às regras de elegibilidade das despesas\n\nPara efeitos de determinação da elegibilidade das despesas, são aplicáveis as regras nacionais pertinentes acordadas pelos Estados-Membros participantes num programa operacional ao abrigo do objectivo da cooperação territorial europeia, excepto quando existirem regras comunitárias.\n\nA Comissão aprova, em conformidade com o n.º 4 do artigo 56.º do Regulamento (CE) n.º 1083/2006 e sem prejuízo do artigo 7.º do presente regulamento, regras comuns relativas à elegibilidade das despesas do objectivo da cooperação territorial europeia, nos termos do n.º 3 do artigo 103.º do Regulamento (CE) n.º 1083/2006.\n\nQuando o artigo 7.º estabelecer regras de elegibilidade diferentes para despesas em Estados-Membros diferentes que participem num programa operacional no âmbito do objectivo da cooperação territorial europeia, as regras de elegibilidade mais amplas são aplicáveis a toda a zona do programa."
+  },
+  "ac8387eef8dd0a6f": {
+   "fragment_id": "SECÇÃO 3",
+   "type": "divisao",
+   "heading": "SECÇÃO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 3"
+  },
+  "177dfcf552ef9f48": {
+   "fragment_id": "Gestão, acompanhamento e controlo",
+   "type": "divisao",
+   "heading": "Gestão, acompanhamento e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Gestão, acompanhamento e controlo"
+  },
+  "18fd934243d7bab1": {
+   "fragment_id": "Artigo 14.º — Designação das autoridades",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Designação das autoridades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Designação das autoridades\n\n1. Os Estados-Membros que participem num programa operacional designam uma autoridade de gestão única, uma autoridade de certificação única e uma autoridade de auditoria única, ficando esta última situada no Estado-Membro da autoridade de gestão. A autoridade de certificação recebe os pagamentos efectuados pela Comissão e, em regra geral, efectua os pagamentos ao beneficiário principal.\n\nA autoridade de gestão, após consulta dos Estados-Membros representados na zona abrangida pelo programa, estabelece um secretariado técnico conjunto. O secretariado presta assistência à autoridade de gestão e ao comité de acompanhamento e, se necessário, à autoridade de auditoria, no desempenho das respectivas funções.\n\n2. A autoridade de auditoria para o programa operacional é assistida por um grupo de auditores constituído por um representante de cada Estado-Membro que participe no programa operacional e que assuma as funções previstas no artigo 62.º do Regulamento (CE) n.º 1083/2006. O grupo de auditores é constituído no prazo de três meses a contar da decisão que aprovar o programa operacional. O grupo de auditores elabora o seu próprio regulamento interno. O grupo de auditores é presidido pela autoridade de auditoria para o programa operacional.\n\nOs Estados-Membros participantes podem decidir por unanimidade que a autoridade de auditoria seja autorizada a desempenhar directamente as funções previstas no artigo 62.º do Regulamento (CE) n.º 1083/2006 em todo o território abrangido pelo programa, sem que seja necessário constituir um grupo de auditores tal como definido no primeiro parágrafo.\n\nOs auditores são independentes do sistema de controlo a que se refere o n.º 1 do artigo 16.º\n\n3. Cada Estado-Membro que participe no programa operacional nomeia representantes para o comité de acompanhamento previsto no artigo 62.º do Regulamento (CE) n.º 1083/2006."
+  },
+  "09bd631cdbc2e3dc": {
+   "fragment_id": "Artigo 15.º — Funções da autoridade de gestão",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Funções da autoridade de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Funções da autoridade de gestão\n\n1. A autoridade de gestão desempenha as funções previstas no artigo 60.º do Regulamento (CE) n.º 1083/2006, com excepção das referentes à regularidade das operações e às despesas relacionadas com as normas nacionais e comunitárias, tal como estabelecido na alínea b) do mesmo artigo. Neste contexto, a autoridade de gestão certifica-se de que a despesa de cada beneficiário que participa numa acção foi validada pelo controlador a que se refere o n.º 1 do artigo 16.º do presente regulamento.\n\n2. A autoridade de gestão estabelece as regras de execução para cada operação, em acordo, sempre que necessário, com o beneficiário principal."
+  },
+  "0c1a4208ead509d5": {
+   "fragment_id": "Artigo 16.º — Sistema de controlo",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Sistema de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Sistema de controlo\n\n1. A fim de validar as despesas, cada Estado-Membro estabelece um sistema de controlo que permita verificar o fornecimento dos bens e serviços co-financiados, a adequação das despesas declaradas relativas a operações ou partes de operações executadas no seu território e a conformidade dessas despesas e das correspondentes operações ou partes de operações com as normas comunitárias e as respectivas normas nacionais.\n\nPara o efeito, cada Estado-Membro designa os controladores responsáveis pela verificação da legalidade e regularidade das despesas declaradas por cada beneficiário que participa na acção. Os Estados-Membros podem decidir nomear um controlador único para toda a zona do programa.\n\nQuando o fornecimento dos bens e serviços co-financiados só puder ser verificado em relação à totalidade da operação, a verificação deve ser efectuada pelo controlador do Estado-Membro em que o beneficiário principal esteja situado ou pela autoridade de gestão.\n\n2. Cada Estado-Membro deve assegurar que a despesa possa ser validada pelos controladores no prazo de três meses."
+  },
+  "fdc58c77c9eea619": {
+   "fragment_id": "Artigo 17.º — Gestão financeira",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Gestão financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Gestão financeira\n\n1. A contribuição do FEDER é paga numa conta única sem contas secundárias nacionais.\n\n2. Sem prejuízo da responsabilidade dos Estados-Membros pela detecção e correcção de irregularidades e pela recuperação de montantes indevidamente pagos, a autoridade de certificação deve assegurar que qualquer montante pago em resultado de uma irregularidade seja recuperado junto do beneficiário principal. Os beneficiários reembolsam ao beneficiário principal os montantes pagos indevidamente em conformidade com o acordo existente entre eles.\n\n3. Caso o beneficiário principal não consiga assegurar o reembolso por parte de um beneficiário, o Estado-Membro em cujo território esteja situado o beneficiário em causa deve reembolsar à autoridade de certificação o montante pago indevidamente a esse beneficiário."
+  },
+  "46a912609465927b": {
+   "fragment_id": "Artigo 18.º — Agrupamento europeu de cooperação territorial",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Agrupamento europeu de cooperação territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Agrupamento europeu de cooperação territorial\n\nOs Estados-Membros que participem num programa operacional no âmbito do Objectivo da Cooperação Territorial Europeia podem recorrer a agrupamentos europeus de cooperação territorial nos termos do Regulamento (CE) n.º 1082/2006 do Parlamento Europeu e do Conselho, de 5 de Julho de 2006, relativo aos agrupamentos europeus de cooperação territorial (AECT) [([^10])](http://publications.europa.eu/resource/cellar/10738ea5-8caa-4ee1-911b-8d9b79729600.0017.03/DOC_1#ntr10-L_2006210PT.01000101-E0010), atribuindo-lhes a responsabilidade pela gestão do programa operacional mediante a delegação das competências da autoridade de gestão e do secretariado técnico conjunto. Neste contexto, cada Estado-Membro continua a assumir a responsabilidade financeira."
+  },
+  "2a6934845bb7c573": {
+   "fragment_id": "SECÇÃO 4",
+   "type": "divisao",
+   "heading": "SECÇÃO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 4"
+  },
+  "563d07634426d65a": {
+   "fragment_id": "Operações",
+   "type": "divisao",
+   "heading": "Operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Operações"
+  },
+  "c4a3a0cb3801ee8c": {
+   "fragment_id": "Artigo 19.º — Selecção das operações",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Selecção das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Selecção das operações\n\n1. As operações seleccionadas para programas operacionais destinados ao desenvolvimento de actividades transfronteiriças a que se refere o ponto 1 do artigo 6.º e ao estabelecimento e desenvolvimento da cooperação transnacional a que se refere o ponto 2 do artigo 6.º devem incluir beneficiários de pelo menos dois países, dos quais pelo menos um deve ser um Estado-Membro, que cooperem, no que respeita a cada acção, em pelo menos dois dos seguintes aspectos: concepção conjunta, execução conjunta, pessoal conjunto e financiamento conjunto.\n\nAs operações seleccionadas que preencham as condições acima referidas podem ser levadas a cabo num único país desde que tenham sido propostas por entidades pertencentes a pelo menos dois países.\n\nAs condições acima referidas não são aplicáveis às acções no âmbito do programa PEACE a que se refere o terceiro parágrafo do ponto 1 do artigo 6.º\n\n2. As operações seleccionadas para programas operacionais que envolvam cooperação inter-regional a que se refere a alínea a) do ponto 3 do artigo 6.º devem incluir beneficiários a nível regional ou local de pelo menos:\n\na) Três Estados-Membros; ou\n\nb) Três países, dos quais pelo menos dois devem ser Estados-Membros, sempre que esteja envolvido um beneficiário de um país terceiro.\n\nAs operações seleccionadas para programas operacionais a que se refere a alínea b) do ponto 3 do artigo 6.º devem aplicar, sempre que possível em função do tipo de operação, as condições estabelecidas no primeiro parágrafo do presente número.\n\nOs beneficiários cooperam do seguinte modo no que respeita a cada operação: concepção conjunta, execução conjunta, pessoal conjunto e financiamento conjunto.\n\n3. Para além das atribuições a que se refere o artigo 65.º do Regulamento (CE) n.º 1083/2006, o comité de acompanhamento, ou um comité director que trabalhe sob a sua orientação, é responsável pela selecção das operações."
+  },
+  "46e389c38d435613": {
+   "fragment_id": "Artigo 20.º — Responsabilidades do beneficiário principal e dos outros beneficiários",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Responsabilidades do beneficiário principal e dos outros beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Responsabilidades do beneficiário principal e dos outros beneficiários\n\n1. Relativamente a cada operação, os beneficiários nomeiam entre si um beneficiário principal. Este assume as seguintes responsabilidades:\n\na) Define as normas que regem as suas relações com os beneficiários que participam na operação, através de um acordo que inclua, nomeadamente, disposições que garantam a adequada gestão financeira dos fundos atribuídos à operação, incluindo as disposições relativas à recuperação dos montantes pagos indevidamente;\n\nb) É responsável por assegurar a execução da totalidade da operação;\n\nc) Certifica-se de que as despesas apresentadas pelos beneficiários que participam na operação foram pagas com a finalidade de executar a operação e correspondem às actividades acordadas entre aqueles beneficiários;\n\nd) Verifica que as despesas apresentadas pelos beneficiários que participam na operação foram validadas pelos controladores;\n\ne) É responsável pela transferência da contribuição do FEDER para os beneficiários que participam na operação.\n\n2. Cada beneficiário que participa na operação:\n\na) Assume a responsabilidade em relação a qualquer irregularidade nas despesas que tenha declarado;\n\nb) Informa o Estado-Membro em cujo território esteja situado da sua participação numa operação, caso esse Estado-Membro não participe enquanto tal no programa operacional em causa."
+  },
+  "de4f973690d85ff8": {
+   "fragment_id": "Artigo 21.º — Condições especiais que regem a localização de operações",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Condições especiais que regem a localização de operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Condições especiais que regem a localização de operações\n\n1. No âmbito da cooperação transfronteiriça e em casos devidamente justificados, o FEDER pode financiar despesas incorridas na execução de operações ou de partes de operações até 20 % do montante da sua contribuição para o programa operacional em causa em zonas do nível NUTS 3 adjacentes às zonas elegíveis para o programa referidas no n.º 1 do artigo 7.º do Regulamento (CE) n.º 1083/2006 ou circundadas por essas zonas adjacentes. Em casos excepcionais acordados entre a Comissão e os Estados-Membros, esta flexibilidade pode ser alargada às zonas do nível NUTS 2 em que as zonas referidas no n.º 1 do artigo 7.º do Regulamento (CE) n.º 1083/2006 estejam situadas.\n\nAo nível dos projectos, as despesas incorridas por parceiros situados fora da zona abrangida pelo programa, tal como definida no primeiro parágrafo, podem ser elegíveis caso o projecto só dificilmente pudesse atingir os seus objectivos sem a participação dos referidos parceiros.\n\n2. No âmbito da cooperação transnacional e em casos devidamente justificados, o FEDER pode financiar despesas de execução incorridas por parceiros situados fora da zona que participa nas operações até 20 % do montante da sua contribuição para o programa operacional em causa, sempre que essas despesas beneficiem as regiões situadas na zona do objectivo de cooperação.\n\n3. No âmbito da cooperação transfronteiriça, transnacional e inter-regional, o FEDER pode financiar despesas incorridas na execução de operações ou partes de operações no território de países não pertencentes à Comunidade Europeia até 10 % do montante da sua contribuição para o programa operacional em causa, sempre que as referidas operações impliquem benefícios para as regiões da Comunidade.\n\n4. Os Estados-Membros devem assegurar a legalidade e a regularidade das referidas despesas. A autoridade de gestão deve confirmar a selecção das operações fora das zonas elegíveis a que se referem os n.^os^ 1, 2 e 3."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "9fb44cb6772951f6": {
+   "fragment_id": "Artigo 22.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Disposições transitórias\n\n1. O presente regulamento não afecta a continuação nem a alteração, incluindo a anulação total ou parcial, de intervenções aprovadas pela Comissão com base no Regulamento (CE) n.º 1783/19999 ou em qualquer outra legislação aplicável a essas intervenções em 31 de Dezembro de 2006, que, por conseguinte, será aplicável a essas intervenções ou aos projectos em causa até ao respectivo encerramento.\n\n2. Mantêm-se válidos os pedidos apresentados ao abrigo do Regulamento (CE) n.º 1783/1999."
+  },
+  "acb278541ffa8e09": {
+   "fragment_id": "Artigo 23.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Revogação\n\n1. Sem prejuízo do artigo 22.º do presente regulamento, o Regulamento (CE) n.º 1783/1999 é revogado com efeitos a partir de 1 de Janeiro de 2007.\n\n2. As remissões feitas para o regulamento revogado entendem-se como sendo feitas para o presente regulamento."
+  },
+  "292ab88cfe2e4640": {
+   "fragment_id": "Artigo 24.º — Reexame",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Reexame",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Reexame\n\nO Parlamento Europeu e o Conselho reexaminam o presente regulamento até 31 de Dezembro de 2013, nos termos do artigo 162.º do Tratado."
+  },
+  "2af8b97521a83dae": {
+   "fragment_id": "Artigo 25.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia.*\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Estrasburgo, em 5 de Julho de 2006.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**J. BORRELL FONTELLES**\n\n***Pelo Conselho***\n\n***A Presidente***\n\n**P. LEHTOMÄKI**\n\n---"
+  },
+  "68e42470a61db13a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/10738ea5-8caa-4ee1-911b-8d9b79729600.0017.03/DOC_1#ntc1-L_2006210PT.01000101-E0001) [JO C 255 de 14.10.2005, p. 91](http://publications.europa.eu/resource/oj/JOC_2005_255_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/10738ea5-8caa-4ee1-911b-8d9b79729600.0017.03/DOC_1#ntc2-L_2006210PT.01000101-E0002) [JO C 231 de 20.9.2005, p. 19](http://publications.europa.eu/resource/oj/JOC_2005_231_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/10738ea5-8caa-4ee1-911b-8d9b79729600.0017.03/DOC_1#ntc3-L_2006210PT.01000101-E0003) Parecer do Parlamento Europeu de 6 de Julho de 2005 (ainda não publicado no Jornal Oficial), posição comum do Conselho de 12 de Junho de 2006 (ainda não publicada no Jornal Oficial) e posição do Parlamento Europeu de 4 de Julho de 2006 (ainda não publicada no Jornal Oficial).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/10738ea5-8caa-4ee1-911b-8d9b79729600.0017.03/DOC_1#ntc4-L_2006210PT.01000101-E0004) Ver página 25 do presente Jornal Oficial.\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/10738ea5-8caa-4ee1-911b-8d9b79729600.0017.03/DOC_1#ntc5-L_2006210PT.01000101-E0005) [JO L 161 de 26.6.1999, p. 1](http://publications.europa.eu/resource/oj/JOL_1999_161_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 173/2005 ([JO L 29 de 2.2.2005, p. 3](http://publications.europa.eu/resource/oj/JOL_2005_029_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/10738ea5-8caa-4ee1-911b-8d9b79729600.0017.03/DOC_1#ntc6-L_2006210PT.01000101-E0006) Ver página 12 do presente Jornal Oficial.\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/10738ea5-8caa-4ee1-911b-8d9b79729600.0017.03/DOC_1#ntc7-L_2006210PT.01000101-E0007) Ver página 79 do presente Jornal Oficial.\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/10738ea5-8caa-4ee1-911b-8d9b79729600.0017.03/DOC_1#ntc8-L_2006210PT.01000101-E0008) [JO L 277 de 21.10.2005, p. 1](http://publications.europa.eu/resource/oj/JOL_2005_277_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/10738ea5-8caa-4ee1-911b-8d9b79729600.0017.03/DOC_1#ntc9-L_2006210PT.01000101-E0009) [JO L 213 de 13.8.1999, p. 1](http://publications.europa.eu/resource/oj/JOL_1999_213_R_TOC).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/10738ea5-8caa-4ee1-911b-8d9b79729600.0017.03/DOC_1#ntc10-L_2006210PT.01000101-E0010) Ver página 19 do presente Jornal Oficial."
+  },
+  "d615848a78d2a50c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Julho de 2006\n\nrelativo ao Fundo Europeu de Desenvolvimento Regional e que revoga o Regulamento (CE) n.º 1783/1999\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o primeiro parágrafo do artigo 162.º e o segundo parágrafo do n.º 2 do artigo 299.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/cc473db5-757a-4a51-9847-1e9a1f6813dd.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité das Regiões ([^2^](http://publications.europa.eu/resource/cellar/cc473db5-757a-4a51-9847-1e9a1f6813dd.0018.03/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/cc473db5-757a-4a51-9847-1e9a1f6813dd.0018.03/DOC_1#E0003)),\n\n(1) O artigo 160.º do Tratado dispõe que o Fundo Europeu de Desenvolvimento Regional (FEDER) tem por objectivo contribuir para a correcção dos principais desequilíbrios regionais na Comunidade. O FEDER contribui, pois, para reduzir a diferença entre os níveis de desenvolvimento das várias regiões e os atrasos de desenvolvimento das regiões menos favorecidas, designadamente as zonas rurais e urbanas, as regiões industriais em declínio e as zonas com desvantagens em termos naturais ou geográficos, como por exemplo as ilhas, as zonas montanhosas, as zonas escassamente povoadas e as regiões fronteiriças.\n\n(2) As disposições comuns aos fundos estruturais e ao Fundo de Coesão constam do Regulamento (CE) n.º 1083/2006 do Conselho, de 11 de Julho de 2006, que estabelece disposições gerais sobre o Fundo Europeu de Desenvolvimento Regional, o Fundo Social Europeu e o Fundo de Coesão ([^4^](http://publications.europa.eu/resource/cellar/cc473db5-757a-4a51-9847-1e9a1f6813dd.0018.03/DOC_1#E0004)). É conveniente estabelecer disposições específicas relativas ao tipo de actividades que podem ser financiadas pelo FEDER no âmbito dos objectivos definidos no referido regulamento.\n\n(3) O FEDER deverá fornecer assistência no contexto de uma estratégia global para uma política de coesão que assegure uma maior concentração da assistência nas prioridades da Comunidade.\n\n(4) O Regulamento (CE) n.º 1083/2006 dispõe que as regras de elegibilidade das despesas devem ser determinadas a nível nacional, com algumas excepções em relação às quais é necessário estabelecer disposições específicas. Deverão, pois, ser aprovadas disposições relativamente às excepções relacionadas com o FEDER.\n\n(5) No âmbito de uma operação de desenvolvimento urbano integrado, considera-se necessário apoiar acções limitadas de renovação de habitações em zonas atingidas ou ameaçadas de degradação física e exclusão social nos Estados-Membros que tenham aderido à União Europeia em ou após 1 de Maio de 2004.\n\n(6) É necessário determinar que a participação do FEDER nas despesas com a habitação deverá referir-se ao fornecimento de alojamentos de boa qualidade a grupos de menores rendimentos, incluindo o parque imobiliário recentemente privatizado, e de alojamentos a grupos sociais vulneráveis.\n\n(7) A execução eficiente e eficaz das acções apoiadas pelo FEDER assenta na boa governação e na parceria entre todos os intervenientes territoriais e socioeconómicos pertinentes, em especial as autoridades regionais e locais, bem como outros organismos adequados, durante as várias fases de execução dos programas operacionais co-financiados pelo FEDER.\n\n(8) Os Estados-Membros e a Comissão deverão garantir que não haja discriminação em razão do sexo, raça ou origem étnica, religião ou crença, deficiência, idade ou orientação sexual durante as várias fases de execução dos programas operacionais co-financiados pelo FEDER.\n\n(9) Com base na experiência e nos pontos fortes da iniciativa comunitária Urban prevista na alínea b) do n.º 1 do artigo 20.º do Regulamento (CE) n.º 1260/1999 do Conselho, de 21 de Junho de 1999, que estabelece disposições gerais sobre os fundos estruturais ([^5^](http://publications.europa.eu/resource/cellar/cc473db5-757a-4a51-9847-1e9a1f6813dd.0018.03/DOC_1#E0005)), o desenvolvimento urbano sustentável deverá ser reforçado através da plena integração de medidas nesse domínio nos programas operacionais co-financiados pelo FEDER, prestando particular atenção ao desenvolvimento local e às iniciativas de emprego e respectivo potencial de inovação.\n\n(10) Deverá procurar-se em especial assegurar a complementaridade e a coerência com outras políticas comunitárias, nomeadamente com o Sétimo Programa-Quadro de Actividades em Matéria de Investigação, Desenvolvimento Tecnológico e Demonstração e com o Programa-Quadro para a Competitividade e a Inovação. Além disso, deverá haver sinergias entre, por um lado, o apoio concedido pelo FEDER e, por outro, o apoio concedido pelo Fundo Social Europeu nos termos do Regulamento (CE) n.º 1081/2006 do Parlamento Europeu e do Conselho, de 5 de Julho de 2006, relativo ao Fundo Social Europeu ([^6^](http://publications.europa.eu/resource/cellar/cc473db5-757a-4a51-9847-1e9a1f6813dd.0018.03/DOC_1#E0006)), pelo Fundo de Coesão nos termos do Regulamento (CE) n.º 1084/2006 do Conselho, de 11 de Julho de 2006, que estabelece um Fundo de Coesão ([^7^](http://publications.europa.eu/resource/cellar/cc473db5-757a-4a51-9847-1e9a1f6813dd.0018.03/DOC_1#E0007)), pelo Fundo Europeu Agrícola de Desenvolvimento Rural nos termos do Regulamento (CE) n.º 1698/2005 do Conselho, de 20 de Setembro de 2005, relativo ao apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) ([^8^](http://publications.europa.eu/resource/cellar/cc473db5-757a-4a51-9847-1e9a1f6813dd.0018.03/DOC_1#E0008)), e por um Fundo Europeu para a Pesca (FEP).\n\n(11) É necessário que as acções apoiadas pelo FEDER a favor das pequenas e médias empresas tenham em conta e apoiem a execução da Carta Europeia das Pequenas e Médias Empresas aprovada pelo Conselho Europeu de Santa Maria da Feira de 19 e 20 de Junho de 2000.\n\n(12) Deverá ser dada especial atenção às regiões ultraperiféricas, designadamente através do alargamento, com carácter excepcional, do âmbito de intervenção do FEDER ao financiamento das ajudas de funcionamento ligadas à compensação dos custos adicionais resultantes da situação económica e social específica dessas regiões, agravada pelo afastamento, insularidade, pequena dimensão, topografia e clima adversos e pela sua dependência económica de um número reduzido de produtos, factores esses cuja persistência e conjugação restringem fortemente o seu desenvolvimento. Tais medidas específicas exigem a utilização do n.º 2 do artigo 299.º do Tratado como base jurídica.\n\n(13) O FEDER deverá abordar os problemas de acessibilidade e afastamento dos grandes mercados com que se confrontam algumas zonas com uma densidade populacional extremamente baixa, tal como referido no protocolo n.º 6 relativo a disposições especiais aplicáveis ao objectivo n.º 6 no âmbito dos fundos estruturais na Finlândia e na Suécia do Acto de Adesão de 1994. O FEDER deverá igualmente abordar as dificuldades especiais sentidas por algumas ilhas, zonas montanhosas, regiões fronteiriças e zonas escassamente povoadas cujo desenvolvimento é entravado pela sua situação geográfica, com o objectivo de apoiar o desenvolvimento sustentável dessas regiões.\n\n(14) É necessário estabelecer disposições específicas relativas à programação, gestão, acompanhamento e controlo dos programas operacionais no âmbito do objectivo da cooperação territorial europeia.\n\n(15) É necessário apoiar uma cooperação transfronteiriça, transnacional e inter-regional eficaz com os países limítrofes da Comunidade sempre que tal seja necessário para garantir que as regiões dos Estados-Membros situadas nas fronteiras com países terceiros possam ser assistidas de forma eficaz no seu desenvolvimento. É, portanto, conveniente autorizar, com carácter excepcional e sempre que tal seja em benefício das regiões da Comunidade, a intervenção do FEDER para o financiamento de projectos situados no território de países terceiros.\n\n(16) Por razões de clareza, o Regulamento (CE) n.º 1783/1999 do Parlamento Europeu e do Conselho, de 12 de Julho de 1999, relativo ao Fundo Europeu de Desenvolvimento Regional ([^9^](http://publications.europa.eu/resource/cellar/cc473db5-757a-4a51-9847-1e9a1f6813dd.0018.03/DOC_1#E0009)), deverá ser, pois, revogado,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "d25e7da8b76ea877": {
+   "fragment_id": "Artigo 5.º — Competitividade regional e emprego",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Competitividade regional e emprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competitividade regional e emprego\n\nNo âmbito do objectivo da competitividade regional e do emprego, o FEDER centra a sua intervenção no contexto das estratégias de desenvolvimento sustentável, promovendo simultaneamente o emprego, principalmente nas três prioridades seguintes:\n\n1. Inovação e economia baseada no conhecimento, nomeadamente através da criação e reforço de economias regionais de inovação eficazes, de relações sistémicas entre os sectores público e privado, as universidades e os centros de tecnologia, que tenham em conta as necessidades locais, e em especial:\n\na) o desenvolvimento das capacidades regionais de IDT e de inovação directamente relacionadas com objectivos de desenvolvimento económico regional, através do apoio a centros de competência industriais ou tecnológicos, da promoção de IDT industrial, das PME e da transferência de tecnologias, do desenvolvimento da previsão tecnológica e da avaliação comparativa, a nível internacional, das políticas para promover a inovação, e do apoio à colaboração entre empresas e a políticas conjuntas em matéria de IDT e inovação;\n\nb) o fomento da inovação e do espírito empresarial em todos os sectores da economia regional e local, através do apoio à comercialização, pelas PME, de produtos, processos e serviços novos ou melhorados, do apoio a redes e agrupamentos empresariais, da melhoria do acesso das PME a financiamentos, da promoção de redes de cooperação entre as empresas e os estabelecimentos de ensino superior e de investigação pertinentes, da promoção do acesso das PME a serviços de apoio a empresas, e do apoio à introdução de tecnologias mais limpas e inovadoras nas PME;\n\nc) a promoção do espírito empresarial, nomeadamente facilitando a exploração económica de ideias novas e incentivando a criação de novas empresas por estabelecimentos de ensino superior e de investigação pertinentes e por empresas existentes;\n\nd) a criação de instrumentos de engenharia financeira e de incubadoras de empresas que propiciem a capacidade de investigação e de desenvolvimento tecnológico das PME e incentivem o espírito empresarial e a criação de novas empresas, em especial de PME com utilização intensiva do conhecimento.\n\n2. Ambiente e prevenção de riscos, em especial:\n\na) o estímulo ao investimento para a recuperação do ambiente físico, nomeadamente de sítios e terrenos contaminados, desertificados e degradados;\n\nb) a promoção da criação de infra-estruturas relacionadas com a biodiversidade e os investimentos em sítios Natura 2000, sempre que tal contribua para o desenvolvimento económico sustentável e/ou a diversificação das zonas rurais;\n\nc) a promoção da eficiência energética e da produção de energia renovável e o desenvolvimento de sistemas eficientes de gestão da energia;\n\nd) a promoção de transportes públicos limpos e sustentáveis, em especial nas zonas urbanas;\n\ne) a criação de planos e medidas para prevenir e gerir os riscos naturais, como por exemplo a desertificação, a seca, os incêndios e as cheias, e os riscos tecnológicos;\n\nf) a protecção e melhoria do património natural e cultural em apoio do desenvolvimento socioeconómico e a promoção dos recursos naturais e culturais como potencial para o desenvolvimento do turismo sustentável.\n\n3. Acesso aos serviços de transportes e telecomunicações de interesse económico geral, em especial:\n\na) o reforço das redes de transporte secundárias através da melhoria das ligações às redes RTE-T, aos nós ferroviários, aeroportos e portos regionais ou às plataformas multimodais, da criação de ligações radiais às principais linhas ferroviárias e da promoção de vias navegáveis interiores regionais e locais e da cabotagem;\n\nb) a promoção do acesso das PME às TIC e da sua adopção e utilização eficiente, através do apoio ao acesso a redes, à criação de pontos de acesso públicos à internet, a equipamentos e ao desenvolvimento de serviços e aplicações, incluindo, designadamente, o recurso a planos de acção destinados às microempresas e às empresas artesanais.\n\nAlém disso, em relação aos programas apoiados pelo FEDER nas regiões elegíveis para o financiamento específico e transitório referido no n.º 2 do artigo 8.º do Regulamento (CE) n.º 1083/2006, os Estados-Membros e a Comissão podem decidir alargar o apoio às prioridades referidas no artigo 4.º do presente regulamento."
+  },
+  "a87813a38775d3cb": {
+   "fragment_id": "Artigo 6.º — Cooperação territorial europeia",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Cooperação territorial europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Cooperação territorial europeia\n\nNo âmbito do objectivo da cooperação territorial europeia, o FEDER centra a sua intervenção nas seguintes prioridades:\n\n1. Desenvolvimento de actividades económicas, sociais e ambientais transfronteiriças através de estratégias conjuntas para o desenvolvimento territorial sustentável, em especial:\n\na) promovendo o espírito empresarial e, designadamente, o desenvolvimento das PME, do turismo, da cultura e do comércio transfronteiriço;\n\nb) incentivando e melhorando a protecção e gestão conjuntas dos recursos naturais e culturais, bem como a prevenção dos riscos naturais e tecnológicos;\n\nc) reforçando as relações entre as zonas urbanas e rurais;\n\nd) reduzindo o isolamento através de um melhor acesso a redes e serviços de transportes, de informação e comunicação, e a sistemas e instalações transfronteiriços de abastecimento de água, de energia e de gestão dos resíduos;\n\ne) desenvolvendo a colaboração, as capacidades e a utilização conjunta das infra-estruturas, em especial em sectores como a saúde, a cultura, o turismo e a educação.\n\n2. Estabelecimento e desenvolvimento da cooperação transnacional, nomeadamente a cooperação bilateral entre as regiões marítimas não abrangidas pelo ponto 1, mediante o financiamento de redes e acções conducentes a um desenvolvimento territorial integrado, concentrando-se principalmente nos seguintes domínios prioritários:\n\na) inovação: criação e desenvolvimento de redes científicas e tecnológicas e reforço das capacidades regionais de IDT e de inovação, sempre que estas contribuam directamente para o desenvolvimento económico equilibrado de zonas transnacionais. As acções podem incluir a criação de redes entre os estabelecimentos de ensino superior e de investigação pertinentes e as PME, ligações para facilitar o acesso ao conhecimento científico e à transferência de tecnologias entre as instalações de IDT e os centros internacionais de excelência em matéria de IDT, a geminação de organismos de transferência de tecnologias e o desenvolvimento de instrumentos de engenharia financeira conjuntos centrados no apoio à IDT nas PME;\n\nb) ambiente: actividades de gestão dos recursos hídricos, eficiência energética, prevenção dos riscos e protecção do ambiente, com uma evidente dimensão transnacional. As acções podem incluir: a protecção e a gestão das bacias hidrográficas, das zonas costeiras, dos recursos marinhos, dos serviços das águas e das zonas húmidas; a prevenção de incêndios, secas e inundações; a promoção da segurança marítima e a protecção contra os riscos naturais e tecnológicos; a protecção e valorização do património natural em apoio do desenvolvimento socioeconómico e do turismo sustentável;\n\nc) acessibilidade: actividades para melhorar o acesso e a qualidade dos serviços de transporte e telecomunicações sempre que estes tenham uma clara dimensão transnacional. As acções podem incluir: investimentos relacionados com as secções transfronteiriças das redes transeuropeias, a melhoria do acesso local e regional às redes nacionais e transnacionais, o reforço da interoperabilidade dos sistemas nacionais e regionais, e a promoção de tecnologias avançadas da informação e da comunicação;\n\nd) desenvolvimento urbano sustentável: reforço do desenvolvimento policêntrico a nível transnacional, nacional e regional, com claro impacto transnacional. As acções podem incluir: criação e melhoria das redes urbanas e das ligações entre zonas urbanas e rurais, estratégias para abordar questões urbanas/rurais comuns, preservação e promoção do património cultural e integração estratégica de zonas de desenvolvimento numa base transnacional.\n\n3. Reforço da eficácia da política regional através da promoção:\n\na) da cooperação inter-regional centrada na inovação e na economia baseada no conhecimento e no ambiente e na prevenção dos riscos, na acepção dos pontos 1 e 2 do artigo 5.º,\n\nb) do intercâmbio de experiências em matéria de identificação, transferência e divulgação das melhores práticas, incluindo o desenvolvimento urbano sustentável referido no artigo 8.º; e\n\nc) de acções ligadas a estudos, recolha de dados e observação e análise das tendências de desenvolvimento na Comunidade."
+  },
+  "a46a965935353d8e": {
+   "fragment_id": "Artigo 7.º — Elegibilidade das despesas",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Elegibilidade das despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Elegibilidade das despesas\n\n1. As seguintes despesas não são elegíveis para participação do FEDER:\n\na) Juros devedores;\n\nb) Aquisição de terrenos num montante superior a 10 % das despesas totais elegíveis da operação em causa. Em casos excepcionais e devidamente justificados, a autoridade de gestão pode aceitar uma percentagem mais elevada para operações relativas à conservação do ambiente;\n\nc) Desactivação de centrais nucleares;\n\nd) Imposto sobre o valor acrescentado recuperável.\n\n1-A. Em cada Estado-Membro, as despesas para melhorar a eficiência energética e a utilização de energias renováveis em habitações existentes são elegíveis até um montante máximo de 4 % da dotação total do FEDER.\n\nOs Estados-Membros definem as categorias de habitações elegíveis no âmbito da regulamentação nacional, nos termos do n.º 4 do artigo 56.º do Regulamento (CE) n.º 1083/2006, visando apoiar a coesão social.\n\n2. [**►M1**](http://publications.europa.eu/resource/celex/32009R0397) As despesas com a habitação, à excepção da eficiência energética e da utilização de energias renováveis tal como previstas no n.º 1-A, são elegíveis apenas para os Estados-Membros que tenham aderido à União Europeia em ou após 1 de Maio de 2004, desde que estejam preenchidas as seguintes condições:**◄**\n\na) As despesas devem ser programadas no âmbito de uma operação de desenvolvimento urbano integrado ou de um eixo prioritário, para as zonas afectadas ou ameaçadas por degradação física ou exclusão social;\n\nb) Os subsídios às despesas com a habitação devem ter um limite máximo de 3 % da intervenção FEDER nos programas operacionais em causa ou de 2 % da intervenção total do FEDER;\n\nc) As despesas devem restringir-se:\n\n— a alojamentos plurifamiliares ou\n\n— a edifícios que sejam propriedade das autoridades públicas ou de operadores sem fins lucrativos, destinados a alojar agregados familiares com baixos rendimentos ou pessoas com necessidades especiais.\n\nA Comissão aprova, nos termos do n.º 3 do artigo 103.º do Regulamento (CE) n.º 1083/2006, a lista dos critérios necessários para a determinação das zonas referidas na alínea a) e a lista das intervenções elegíveis.\n\n3. As regras de elegibilidade estabelecidas no artigo 11.º do Regulamento (CE) n.º 1081/2006 aplicam-se às acções co-financiadas pelo FEDER que sejam abrangidas pelo âmbito de aplicação do artigo 3.º daquele regulamento.\n\n4. No caso de subsídios, as seguintes despesas são elegíveis para a contribuição do FEDER, desde que incorridas nos termos da regulamentação nacional, incluindo as regras contabilísticas, e nas condições específicas a seguir previstas:\n\ni) custos indirectos declarados numa base forfetária, até um máximo de 20 % dos custos directos de cada operação,\n\nii) custos de taxa forfetária calculados por aplicação de escalas normalizadas de custos unitários, tal como definidas pelo Estado-Membro,\n\niii) montantes fixos destinados a cobrir a totalidade ou parte dos custos de uma operação.\n\nAs opções referidas nas alíneas i), ii) e iii) só podem ser combinadas se cada uma delas cobrir uma categoria diferente de custos elegíveis ou se forem utilizadas para projectos diferentes no âmbito da mesma operação.\n\nOs custos referidos nas alíneas i), ii) e iii) são estabelecidos previamente com base num cálculo justo, equitativo e verificável.\n\nO montante fixo referido na alínea iii) não deve exceder 50 000 EUR."
+  },
+  "7e7e228e6bfe2c87": {
+   "fragment_id": "Artigo 12.º — Conteúdo",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Conteúdo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Conteúdo\n\nCada programa operacional que se enquadre no âmbito do objectivo da cooperação territorial europeia contém as seguintes informações:\n\n1. Uma análise da situação na zona de cooperação em termos de pontos fortes e fracos e da estratégia escolhida para lhes dar resposta;\n\n2. Uma lista das zonas elegíveis existentes no território abrangido pelo programa incluindo, no que respeita aos programas de cooperação transfronteiriça, as zonas de flexibilidade referidas no n.º 1 do artigo 21.º;\n\n3. Uma justificação das prioridades escolhidas tendo em conta as orientações estratégicas da Comunidade em matéria de coesão, o quadro de referência estratégico nacional em que o Estado-Membro decidiu incluir as acções financiadas no âmbito do objectivo da cooperação territorial europeia, e os resultados da avaliação *ex ante* referida no n.º 2 do artigo 48.º do Regulamento (CE) n.º 1083/2006;\n\n4. Informação sobre os eixos prioritários e respectivos objectivos específicos. Esses objectivos devem ser quantificados utilizando um número limitado de indicadores de realização e de resultados, tendo em conta o princípio da proporcionalidade. Os indicadores devem permitir medir os progressos alcançados em relação à situação de base inicial e a realização dos objectivos dos eixos prioritários;\n\n5. Apenas para efeitos de informação, uma repartição indicativa por categorias da utilização programada da participação do FEDER no programa operacional, em conformidade com as regras de execução aprovadas pela Comissão nos termos do n.º 3 do artigo 103.º do Regulamento (CE) n.º 1083/2006;\n\n6. Um plano de financiamento único, sem repartição por Estados-Membros, compreendendo dois quadros:\n\na) um quadro que reparta em relação a cada ano, em conformidade com os artigos 52.º, 53.º e 54.º do Regulamento (CE) n.º 1083/2006, o montante da dotação financeira total prevista para a participação do FEDER. A participação total do FEDER prevista anualmente deve ser compatível com o quadro financeiro aplicável;\n\nb) um quadro que especifique, em relação à totalidade do período de programação, para o programa operacional e para cada eixo prioritário, o montante da dotação financeira total da participação comunitária e das contrapartidas nacionais, bem como a taxa de participação do FEDER. Sempre que, em conformidade com o artigo 53.º do Regulamento (CE) n.º 1083/2006, a contrapartida nacional for constituída por despesas públicas e privadas, o quadro deve apresentar a repartição indicativa entre o sector público e o sector privado. Sempre que, em conformidade com o mesmo artigo, a contrapartida nacional for constituída por despesas públicas, o quadro deve indicar o montante da participação pública nacional;\n\n7. Informações sobre a complementaridade com as acções financiadas pelo FEADER e as financiadas pelo FEP, se for caso disso;\n\n8. As disposições de execução do programa operacional, incluindo:\n\na) a designação pelos Estados-Membros de todas as autoridades a que se refere o artigo 14.º;\n\nb) uma descrição dos sistemas de acompanhamento e avaliação;\n\nc) informações sobre o organismo competente para receber os pagamentos efectuados pela Comissão e sobre o organismo ou organismos responsáveis pelos pagamentos aos beneficiários;\n\nd) uma definição dos procedimentos para a mobilização e circulação de fluxos financeiros de modo a garantir a sua transparência;\n\ne) os elementos destinados a assegurar a publicidade e a informação relativas ao programa operacional a que se refere o artigo 69.º do Regulamento (CE) n.º 1083/2006;\n\nf) uma descrição dos procedimentos acordados entre a Comissão e os Estados-Membros para o intercâmbio dos dados informatizados a fim de cumprir os requisitos do Regulamento (CE) n.º 1083/2006 em matéria de pagamentos, acompanhamento e avaliação;\n\n9. Uma lista indicativa dos grandes projectos, na acepção do artigo 39.º do Regulamento (CE) n.º 1083/2006, que devem ser apresentados durante o período de programação para aprovação pela Comissão."
+  },
+  "118518ba7f973b06": {
+   "fragment_id": "Artigo 18.º — Agrupamento europeu de cooperação territorial",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Agrupamento europeu de cooperação territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Agrupamento europeu de cooperação territorial\n\nOs Estados-Membros que participem num programa operacional no âmbito do Objectivo da Cooperação Territorial Europeia podem recorrer a agrupamentos europeus de cooperação territorial nos termos do Regulamento (CE) n.º 1082/2006 do Parlamento Europeu e do Conselho, de 5 de Julho de 2006, relativo aos agrupamentos europeus de cooperação territorial (AECT) ([^10^](http://publications.europa.eu/resource/cellar/cc473db5-757a-4a51-9847-1e9a1f6813dd.0018.03/DOC_1#E0010)), atribuindo-lhes a responsabilidade pela gestão do programa operacional mediante a delegação das competências da autoridade de gestão e do secretariado técnico conjunto. Neste contexto, cada Estado-Membro continua a assumir a responsabilidade financeira."
+  },
+  "0e365aa09f3cdf2b": {
+   "fragment_id": "Artigo 25.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia.*\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "a1aa47d17941a421": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/cc473db5-757a-4a51-9847-1e9a1f6813dd.0018.03/DOC_1#src.E0001)) JO C 255 de 14.10.2005, p. 91.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/cc473db5-757a-4a51-9847-1e9a1f6813dd.0018.03/DOC_1#src.E0002)) JO C 231 de 20.9.2005, p. 19.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/cc473db5-757a-4a51-9847-1e9a1f6813dd.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 6 de Julho de 2005 (ainda não publicado no Jornal Oficial), posição comum do Conselho de 12 de Junho de 2006 (ainda não publicada no Jornal Oficial) e posição do Parlamento Europeu de 4 de Julho de 2006 (ainda não publicada no Jornal Oficial).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/cc473db5-757a-4a51-9847-1e9a1f6813dd.0018.03/DOC_1#src.E0004)) Ver página 25 do presente Jornal Oficial.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/cc473db5-757a-4a51-9847-1e9a1f6813dd.0018.03/DOC_1#src.E0005)) JO L 161 de 26.6.1999, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 173/2005 (JO L 29 de 2.2.2005, p. 3).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/cc473db5-757a-4a51-9847-1e9a1f6813dd.0018.03/DOC_1#src.E0006)) Ver página 12 do presente Jornal Oficial.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/cc473db5-757a-4a51-9847-1e9a1f6813dd.0018.03/DOC_1#src.E0007)) Ver página 79 do presente Jornal Oficial.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/cc473db5-757a-4a51-9847-1e9a1f6813dd.0018.03/DOC_1#src.E0008)) JO L 277 de 21.10.2005, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/cc473db5-757a-4a51-9847-1e9a1f6813dd.0018.03/DOC_1#src.E0009)) JO L 213 de 13.8.1999, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/cc473db5-757a-4a51-9847-1e9a1f6813dd.0018.03/DOC_1#src.E0010)) Ver página 19 do presente Jornal Oficial."
+  },
+  "5cae609d0d074dcc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Julho de 2006\n\nrelativo ao Fundo Europeu de Desenvolvimento Regional e que revoga o Regulamento (CE) n.º 1783/1999\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o primeiro parágrafo do artigo 162.º e o segundo parágrafo do n.º 2 do artigo 299.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/ece82624-278d-4613-942f-473532434e3e.0019.03/DOC_2#E0001)),\n\nTendo em conta o parecer do Comité das Regiões ([^2^](http://publications.europa.eu/resource/cellar/ece82624-278d-4613-942f-473532434e3e.0019.03/DOC_2#E0002)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/ece82624-278d-4613-942f-473532434e3e.0019.03/DOC_2#E0003)),\n\n(1) O artigo 160.º do Tratado dispõe que o Fundo Europeu de Desenvolvimento Regional (FEDER) tem por objectivo contribuir para a correcção dos principais desequilíbrios regionais na Comunidade. O FEDER contribui, pois, para reduzir a diferença entre os níveis de desenvolvimento das várias regiões e os atrasos de desenvolvimento das regiões menos favorecidas, designadamente as zonas rurais e urbanas, as regiões industriais em declínio e as zonas com desvantagens em termos naturais ou geográficos, como por exemplo as ilhas, as zonas montanhosas, as zonas escassamente povoadas e as regiões fronteiriças.\n\n(2) As disposições comuns aos fundos estruturais e ao Fundo de Coesão constam do Regulamento (CE) n.º 1083/2006 do Conselho, de 11 de Julho de 2006, que estabelece disposições gerais sobre o Fundo Europeu de Desenvolvimento Regional, o Fundo Social Europeu e o Fundo de Coesão ([^4^](http://publications.europa.eu/resource/cellar/ece82624-278d-4613-942f-473532434e3e.0019.03/DOC_2#E0004)). É conveniente estabelecer disposições específicas relativas ao tipo de actividades que podem ser financiadas pelo FEDER no âmbito dos objectivos definidos no referido regulamento.\n\n(3) O FEDER deverá fornecer assistência no contexto de uma estratégia global para uma política de coesão que assegure uma maior concentração da assistência nas prioridades da Comunidade.\n\n(4) O Regulamento (CE) n.º 1083/2006 dispõe que as regras de elegibilidade das despesas devem ser determinadas a nível nacional, com algumas excepções em relação às quais é necessário estabelecer disposições específicas. Deverão, pois, ser aprovadas disposições relativamente às excepções relacionadas com o FEDER.\n\n(5) No âmbito de uma operação de desenvolvimento urbano integrado, considera-se necessário apoiar acções limitadas de renovação de habitações em zonas atingidas ou ameaçadas de degradação física e exclusão social nos Estados-Membros que tenham aderido à União Europeia em ou após 1 de Maio de 2004.\n\n(6) É necessário determinar que a participação do FEDER nas despesas com a habitação deverá referir-se ao fornecimento de alojamentos de boa qualidade a grupos de menores rendimentos, incluindo o parque imobiliário recentemente privatizado, e de alojamentos a grupos sociais vulneráveis.\n\n(7) A execução eficiente e eficaz das acções apoiadas pelo FEDER assenta na boa governação e na parceria entre todos os intervenientes territoriais e socioeconómicos pertinentes, em especial as autoridades regionais e locais, bem como outros organismos adequados, durante as várias fases de execução dos programas operacionais co-financiados pelo FEDER.\n\n(8) Os Estados-Membros e a Comissão deverão garantir que não haja discriminação em razão do sexo, raça ou origem étnica, religião ou crença, deficiência, idade ou orientação sexual durante as várias fases de execução dos programas operacionais co-financiados pelo FEDER.\n\n(9) Com base na experiência e nos pontos fortes da iniciativa comunitária Urban prevista na alínea b) do n.º 1 do artigo 20.º do Regulamento (CE) n.º 1260/1999 do Conselho, de 21 de Junho de 1999, que estabelece disposições gerais sobre os fundos estruturais ([^5^](http://publications.europa.eu/resource/cellar/ece82624-278d-4613-942f-473532434e3e.0019.03/DOC_2#E0005)), o desenvolvimento urbano sustentável deverá ser reforçado através da plena integração de medidas nesse domínio nos programas operacionais co-financiados pelo FEDER, prestando particular atenção ao desenvolvimento local e às iniciativas de emprego e respectivo potencial de inovação.\n\n(10) Deverá procurar-se em especial assegurar a complementaridade e a coerência com outras políticas comunitárias, nomeadamente com o Sétimo Programa-Quadro de Actividades em Matéria de Investigação, Desenvolvimento Tecnológico e Demonstração e com o Programa-Quadro para a Competitividade e a Inovação. Além disso, deverá haver sinergias entre, por um lado, o apoio concedido pelo FEDER e, por outro, o apoio concedido pelo Fundo Social Europeu nos termos do Regulamento (CE) n.º 1081/2006 do Parlamento Europeu e do Conselho, de 5 de Julho de 2006, relativo ao Fundo Social Europeu ([^6^](http://publications.europa.eu/resource/cellar/ece82624-278d-4613-942f-473532434e3e.0019.03/DOC_2#E0006)), pelo Fundo de Coesão nos termos do Regulamento (CE) n.º 1084/2006 do Conselho, de 11 de Julho de 2006, que estabelece um Fundo de Coesão ([^7^](http://publications.europa.eu/resource/cellar/ece82624-278d-4613-942f-473532434e3e.0019.03/DOC_2#E0007)), pelo Fundo Europeu Agrícola de Desenvolvimento Rural nos termos do Regulamento (CE) n.º 1698/2005 do Conselho, de 20 de Setembro de 2005, relativo ao apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) ([^8^](http://publications.europa.eu/resource/cellar/ece82624-278d-4613-942f-473532434e3e.0019.03/DOC_2#E0008)), e por um Fundo Europeu para a Pesca (FEP).\n\n(11) É necessário que as acções apoiadas pelo FEDER a favor das pequenas e médias empresas tenham em conta e apoiem a execução da Carta Europeia das Pequenas e Médias Empresas aprovada pelo Conselho Europeu de Santa Maria da Feira de 19 e 20 de Junho de 2000.\n\n(12) Deverá ser dada especial atenção às regiões ultraperiféricas, designadamente através do alargamento, com carácter excepcional, do âmbito de intervenção do FEDER ao financiamento das ajudas de funcionamento ligadas à compensação dos custos adicionais resultantes da situação económica e social específica dessas regiões, agravada pelo afastamento, insularidade, pequena dimensão, topografia e clima adversos e pela sua dependência económica de um número reduzido de produtos, factores esses cuja persistência e conjugação restringem fortemente o seu desenvolvimento. Tais medidas específicas exigem a utilização do n.º 2 do artigo 299.º do Tratado como base jurídica.\n\n(13) O FEDER deverá abordar os problemas de acessibilidade e afastamento dos grandes mercados com que se confrontam algumas zonas com uma densidade populacional extremamente baixa, tal como referido no protocolo n.º 6 relativo a disposições especiais aplicáveis ao objectivo n.º 6 no âmbito dos fundos estruturais na Finlândia e na Suécia do Acto de Adesão de 1994. O FEDER deverá igualmente abordar as dificuldades especiais sentidas por algumas ilhas, zonas montanhosas, regiões fronteiriças e zonas escassamente povoadas cujo desenvolvimento é entravado pela sua situação geográfica, com o objectivo de apoiar o desenvolvimento sustentável dessas regiões.\n\n(14) É necessário estabelecer disposições específicas relativas à programação, gestão, acompanhamento e controlo dos programas operacionais no âmbito do objectivo da cooperação territorial europeia.\n\n(15) É necessário apoiar uma cooperação transfronteiriça, transnacional e inter-regional eficaz com os países limítrofes da Comunidade sempre que tal seja necessário para garantir que as regiões dos Estados-Membros situadas nas fronteiras com países terceiros possam ser assistidas de forma eficaz no seu desenvolvimento. É, portanto, conveniente autorizar, com carácter excepcional e sempre que tal seja em benefício das regiões da Comunidade, a intervenção do FEDER para o financiamento de projectos situados no território de países terceiros.\n\n(16) Por razões de clareza, o Regulamento (CE) n.º 1783/1999 do Parlamento Europeu e do Conselho, de 12 de Julho de 1999, relativo ao Fundo Europeu de Desenvolvimento Regional ([^9^](http://publications.europa.eu/resource/cellar/ece82624-278d-4613-942f-473532434e3e.0019.03/DOC_2#E0009)), deverá ser, pois, revogado,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "16dfe6b2ee149a33": {
+   "fragment_id": "Artigo 7.º — Elegibilidade das despesas",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Elegibilidade das despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Elegibilidade das despesas\n\n1. As seguintes despesas não são elegíveis para participação do FEDER:\n\na) Juros devedores;\n\nb) Aquisição de terrenos num montante superior a 10 % das despesas totais elegíveis da operação em causa. Em casos excepcionais e devidamente justificados, a autoridade de gestão pode aceitar uma percentagem mais elevada para operações relativas à conservação do ambiente;\n\nc) Desactivação de centrais nucleares;\n\nd) Imposto sobre o valor acrescentado recuperável.\n\n1-A. Em cada Estado-Membro, as despesas para melhorar a eficiência energética e a utilização de energias renováveis em habitações existentes são elegíveis até um montante máximo de 4 % da dotação total do FEDER.\n\nOs Estados-Membros definem as categorias de habitações elegíveis no âmbito da regulamentação nacional, nos termos do n.º 4 do artigo 56.º do Regulamento (CE) n.º 1083/2006, visando apoiar a coesão social.\n\n2. As despesas com a habitação, com excepção das despesas relativas à eficiência energética e à utilização de energias renováveis, previstas no n.º 1-A, são elegíveis nos seguintes casos:\n\na) Para os Estados-Membros que acederam à União Europeia em 1 de Maio de 2004 ou após essa data, no âmbito de uma operação de desenvolvimento urbano integrado para as zonas afectadas ou ameaçadas por degradação física ou exclusão social;\n\nb) Para todos os Estados-Membros, apenas no âmbito de uma abordagem integrada para as comunidades marginalizadas.\n\nOs subsídios para despesas com a habitação devem ter um limite máximo de 3 % da contribuição do FEDER nos programas operacionais em causa, ou de 2 % da contribuição total do FEDER.\n\n2-A. Para efeitos das alíneas a) e b) do n.º 2, e sem prejuízo do segundo parágrafo do presente número, as despesas devem restringir-se às seguintes intervenções:\n\na) Renovação das partes comuns em alojamentos plurifamiliares existentes;\n\nb) Renovação e mudança de finalidade de utilização de edifícios pertencentes a autoridades públicas ou a operadores sem fins lucrativos, destinados a alojar agregados familiares com baixos rendimentos ou pessoas com necessidades especiais.\n\nPara efeitos da alínea b) do n.º 2, as intervenções podem incluir a renovação ou substituição das habitações existentes.\n\nA Comissão aprova a lista dos critérios necessários para a determinação das zonas referidas na alínea a) do n.º 2 e a lista das intervenções elegíveis, nos termos do n.º 3 do artigo 103.º do Regulamento (CE) n.º 1083/2006.\n\n3. As regras de elegibilidade estabelecidas no artigo 11.º do Regulamento (CE) n.º 1081/2006 aplicam-se às acções co-financiadas pelo FEDER que sejam abrangidas pelo âmbito de aplicação do artigo 3.º daquele regulamento.\n\n4. No caso de subsídios, as seguintes despesas são elegíveis para a contribuição do FEDER, desde que incorridas nos termos da regulamentação nacional, incluindo as regras contabilísticas, e nas condições específicas a seguir previstas:\n\ni) custos indirectos declarados numa base forfetária, até um máximo de 20 % dos custos directos de cada operação,\n\nii) custos de taxa forfetária calculados por aplicação de escalas normalizadas de custos unitários, tal como definidas pelo Estado-Membro,\n\niii) montantes fixos destinados a cobrir a totalidade ou parte dos custos de uma operação.\n\nAs opções referidas nas alíneas i), ii) e iii) só podem ser combinadas se cada uma delas cobrir uma categoria diferente de custos elegíveis ou se forem utilizadas para projectos diferentes no âmbito da mesma operação.\n\nOs custos referidos nas alíneas i), ii) e iii) são estabelecidos previamente com base num cálculo justo, equitativo e verificável.\n\nO montante fixo referido na alínea iii) não deve exceder 50 000 EUR."
+  },
+  "c6a27642c3c007b3": {
+   "fragment_id": "Artigo 14.º — Designação das autoridades",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Designação das autoridades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Designação das autoridades\n\n1. Os Estados-Membros que participem num programa operacional designam uma autoridade de gestão única, uma autoridade de certificação única e uma autoridade de auditoria única, ficando esta última situada no Estado-Membro da autoridade de gestão. A autoridade de certificação recebe os pagamentos efectuados pela Comissão e, em regra geral, efectua os pagamentos ao beneficiário principal.\n\nA autoridade de gestão, após consulta dos Estados-Membros representados na zona abrangida pelo programa, estabelece um secretariado técnico conjunto. O secretariado presta assistência à autoridade de gestão e ao comité de acompanhamento e, se necessário, à autoridade de auditoria, no desempenho das respectivas funções.\n\n2. A autoridade de auditoria para o programa operacional é assistida por um grupo de auditores constituído por um representante de cada Estado-Membro que participe no programa operacional e que assuma as funções previstas no artigo 62.º do Regulamento (CE) n.º 1083/2006. O grupo de auditores é constituído no prazo de três meses a contar da decisão que aprovar o programa operacional. O grupo de auditores elabora o seu próprio regulamento interno. O grupo de auditores é presidido pela autoridade de auditoria para o programa operacional.\n\nOs Estados-Membros participantes podem decidir por unanimidade que a autoridade de auditoria seja autorizada a desempenhar directamente as funções previstas no artigo 62.º do Regulamento (CE) n.º 1083/2006 em todo o território abrangido pelo programa, sem que seja necessário constituir um grupo de auditores tal como definido no primeiro parágrafo.\n\nOs auditores são independentes do sistema de controlo a que se refere o n.º 1 do artigo 16.º\n\n3. Cada Estado-Membro que participe no programa operacional nomeia representantes [**►C1**](http://publications.europa.eu/resource/celex/32006R1080R%2803%29) para o comité de acompanhamento previsto no artigo 63.º do Regulamento (CE) n.º 1083/2006.**◄**"
+  },
+  "15773ef8bba60c69": {
+   "fragment_id": "Artigo 18.º — Agrupamento europeu de cooperação territorial",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Agrupamento europeu de cooperação territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Agrupamento europeu de cooperação territorial\n\nOs Estados-Membros que participem num programa operacional no âmbito do Objectivo da Cooperação Territorial Europeia podem recorrer a agrupamentos europeus de cooperação territorial nos termos do Regulamento (CE) n.º 1082/2006 do Parlamento Europeu e do Conselho, de 5 de Julho de 2006, relativo aos agrupamentos europeus de cooperação territorial (AECT) ([^10^](http://publications.europa.eu/resource/cellar/ece82624-278d-4613-942f-473532434e3e.0019.03/DOC_2#E0010)), atribuindo-lhes a responsabilidade pela gestão do programa operacional mediante a delegação das competências da autoridade de gestão e do secretariado técnico conjunto. Neste contexto, cada Estado-Membro continua a assumir a responsabilidade financeira."
+  },
+  "117ec40a07f7aed5": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ece82624-278d-4613-942f-473532434e3e.0019.03/DOC_2#src.E0001)) JO C 255 de 14.10.2005, p. 91.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ece82624-278d-4613-942f-473532434e3e.0019.03/DOC_2#src.E0002)) JO C 231 de 20.9.2005, p. 19.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/ece82624-278d-4613-942f-473532434e3e.0019.03/DOC_2#src.E0003)) Parecer do Parlamento Europeu de 6 de Julho de 2005 (ainda não publicado no Jornal Oficial), posição comum do Conselho de 12 de Junho de 2006 (ainda não publicada no Jornal Oficial) e posição do Parlamento Europeu de 4 de Julho de 2006 (ainda não publicada no Jornal Oficial).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/ece82624-278d-4613-942f-473532434e3e.0019.03/DOC_2#src.E0004)) Ver página 25 do presente Jornal Oficial.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/ece82624-278d-4613-942f-473532434e3e.0019.03/DOC_2#src.E0005)) JO L 161 de 26.6.1999, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 173/2005 (JO L 29 de 2.2.2005, p. 3).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/ece82624-278d-4613-942f-473532434e3e.0019.03/DOC_2#src.E0006)) Ver página 12 do presente Jornal Oficial.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/ece82624-278d-4613-942f-473532434e3e.0019.03/DOC_2#src.E0007)) Ver página 79 do presente Jornal Oficial.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/ece82624-278d-4613-942f-473532434e3e.0019.03/DOC_2#src.E0008)) JO L 277 de 21.10.2005, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/ece82624-278d-4613-942f-473532434e3e.0019.03/DOC_2#src.E0009)) JO L 213 de 13.8.1999, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/ece82624-278d-4613-942f-473532434e3e.0019.03/DOC_2#src.E0010)) Ver página 19 do presente Jornal Oficial."
+  },
+  "a4887ebf16b55360": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2006R1080 — PT — 01.01.2014 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32006R1080) [REGULAMENTO (CE) N.º 1080/2006 DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32006R1080) [de 5 de Julho de 2006](http://publications.europa.eu/resource/celex/32006R1080) [relativo ao Fundo Europeu de Desenvolvimento Regional e que revoga o Regulamento (CE) n.º 1783/1999](http://publications.europa.eu/resource/celex/32006R1080) (JO L 210, 31.7.2006, p.1)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 1301/2013 do Parlamento Europeu e do Conselho de 17 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1301) — L 347 — 289 — 20.12.2013"
+  }
+ }
+}

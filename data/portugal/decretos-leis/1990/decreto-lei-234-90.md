@@ -1,0 +1,235 @@
+---
+schema_version: '1.0'
+id: pt:dre:575758:por
+title: Decreto-Lei n.º 234/90
+short_title: null
+summary: Reformula o quadro legal das sucursais financeiras e exteriores no off-shore da Madeira
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 234/90
+official_date: null
+publication_date: '1990-07-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 163/1990, Série I de 1990-07-17
+  number: '163'
+  series: I
+  supplement: null
+  pages: 2975 - 2976
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/07/16300/29752976.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '575758'
+  dre_path: /dr/detalhe/decreto-lei/234-1990-575758
+  internal: pt:dre:575758:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1990-575758
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1990-575758
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:01:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3519786ca1f510f20a1c70fccf518848666d3cd0f322e9b9eb61e121f890037d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:01:00Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Instituição de Crédito
+- Madeira.região Autónoma
+- Orgânica
+- Sucursais Financeiras Exteriores
+- Zona Tributária Privilegiada
+relationships:
+- type: amended_by
+  target: pt:dre:159993990:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:228467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610414:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:01:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 234/90
+
+de 17 de Julho
+
+Com o [Decreto-Lei n.º 163/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1986-228467), de 26 de Junho, foram autorizados a constituição e funcionamento de sucursais financeiras exteriores no âmbito institucional da zona franca da Madeira.
+
+Procede-se agora à enunciação das actividades financeiras admitidas, com particular relevo para a actividade de seguros. Acresce também, quanto a esta última actividade, a necessidade de se consagrar a intervenção do Instituto de Seguros de Portugal, quer no que respeita ao licenciamento das entidades, quer enquanto entidade supervisora.
+
+Ouvidos os órgãos de governo próprio da Região Autónoma da Madeira:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+Artigo 1.º Os artigos 1.º, 5.º, 6.º e 16.º do [Decreto-Lei n.º 163/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1986-228467), de 26 de Junho, passam a ter a seguinte redacção:
+
+###### Artigo 1.º — Noção e objecto da sucursal financeira exterior
+
+1 - As sucursais financeiras exteriores têm por objecto, dentro dos limites estatutários da instituição a que pertencem, a realização de operações financeiras internacionais com não residentes em Portugal, sem sujeição às disposições da legislação relativa às instituições que exercem actividade no mercado monetário, financeiro e cambial de Portugal, nos termos do presente diploma.
+
+2 - Para efeitos do presente diploma são operações financeiras internacionais:
+
+a) O comércio bancário em geral, incluindo as operações cambiais à vista e a prazo;
+
+b) A gestão de fundos de investimento mobiliário e imobiliário;
+
+c) A emissão de títulos de crédito negociáveis;
+
+d) A locação financeira e o factoring;
+
+e) A actividade seguradora, sob qualquer das suas formas;
+
+f) A gestão de fundos de pensões;
+
+g) Quaisquer outras operações que venham a ser autorizadas por portaria do Ministro das Finanças, ouvido o Banco de Portugal.
+
+3 - As operações de resseguro podem ser realizadas com empresas estabelecidas em Portugal.
+
+4 - As sucursais financeiras exteriores não podem, em caso algum, exercer a actividade seguradora ou de gestão de fundos de pensões em acumulação com outras operações financeiras internacionais.
+
+###### Artigo 5.º — Instrução do processo
+
+1 - ...
+
+2 - O Governo Regional da Madeira deve remeter o seu parecer ao Banco de Portugal ou ao Instituto de Seguros de Portugal, conforme o caso, no prazo máximo de 30 dias, o qual pode, em caso de justificada necessidade, ser prorrogado.
+
+###### Artigo 6.º — Parecer do Banco de Portugal e do Instituto de Seguros de Portugal
+
+1 - Os pareceres do Banco de Portugal e do Instituto de Seguros de Portugal devem ser remetidos ao Ministro das Finanças no prazo máximo de 60 dias.
+
+2 - O prazo referido no número anterior pode ser prorrogado, por uma vez, em caso de necessidade de obtenção de informações ou elementos complementares ou de efectuação de averiguações consideradas indispensáveis à elaboração do parecer.
+
+###### Artigo 16.º — Fiscalização das contas
+
+1 - ...
+
+2 - Os relatórios dos auditores referentes à actividade das sucursais financeiras exteriores são enviados, consoante ao caso couber, ao Banco de Portugal ou ao Instituto de Seguros de Portugal, acompanhando o relatório e contas de cada exercício.
+
+Art. 2.º O artigo 3.º do [Decreto-Lei n.º 163/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1986-228467), com a redacção que lhe foi dada pelos Decretos-Leis n.os [197/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1988-374259), de 31 de Maio, e [35/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1989-610414), de 1 de Fevereiro, passa a ter a seguinte redacção:
+
+###### Artigo 3.º — Autorização específica e prévia
+
+1 - ...
+
+2 - A autorização é precedida de pareceres do Governo Regional da Madeira, do Instituto de Seguros de Portugal, se o objecto da instituição for a actividade seguradora ou de gestão de fundos de pensões, e do Banco de Portugal, nos restantes casos.
+
+3 - ...
+
+4 - ...
+
+Art. 3.º Os artigos 9.º e 10.º do [Decreto-Lei n.º 163/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1986-228467), com a redacção que lhes foi dada pelo [Decreto-Lei n.º 197/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1988-374259), passam a ter a seguinte redacção:
+
+###### Artigo 9.º — Revogação da autorização
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) Não serem adoptadas providências julgadas adequadas às recomendações da entidade a quem couber a supervisão;
+
+e) Não serem cumpridas as leis, regulamentos e outras instruções que disciplinem a sua actividade, sem prejuízo das outras sanções que ao caso couberem;
+
+f) Deixar de se verificar qualquer das condições referidas nas alíneas a) e b) do n.º 3 do artigo 3.º
+
+2 - ...
+
+3 - Os factos referidos nas alíneas c) e d) do n.º 1 não constituem fundamento de revogação se, no prazo que a instituição de supervisão estabelecer, a instituição tiver procedido à designação de outros gerentes cujo registo seja aceite ou tiver adoptado medidas ou apresentado justificações consentâneas com as recomendações emitidas.
+
+4 - Tratando-se de sucursais de instituições de crédito com sede noutro Estado membro das Comunidades Europeias, a revogação da autorização deve ser precedida de consulta às autoridades competentes do Estado em que tiver sede a instituição de crédito a que a sucursal pertença, podendo esta consulta, em caso de extrema urgência, ser substituída por uma simples informação àquelas autoridades.
+
+###### Artigo 10.º — Formalidades de revogação
+
+1 - A revogação da autorização, ouvidos o Governo Regional da Madeira e a entidade a quem couber a supervisão, reveste a forma de portaria.
+
+2 - ...
+
+3 - ...
+
+Art. 4.º O artigo 17.º do [Decreto-Lei n.º 163/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1986-228467), com a redacção que lhe foi dada pelo [Decreto-Lei n.º 35/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1989-610414), passa a ter a seguinte redacção:
+
+###### Artigo 17.º — Supervisão
+
+1 - As sucursais previstas no presente diploma que tenham como objecto a prática das operações compreendidas nas alínea a), b), c), d) e g) do n.º 2 do artigo 1.º ficam sujeitas:
+
+a) À supervisão do Banco de Portugal, que para o efeito determinará as normas a observar;
+
+b) Ao registo especial regulado pelo [Decreto-Lei n.º 353-S/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-s-1977-240863), de 29 de Agosto, na parte aplicável.
+
+2 - As sucursais que tenham por objecto a prática das operações previstas nas alíneas e) e f) do n.º 2 do artigo 1.º ficam sujeitas à supervisão do Instituto de Seguros de Portugal, que para o efeito determinará as normas a observar.
+
+Visto e aprovado em Conselho de Ministros de 24 de Maio de 1990. - Aníbal António Cavaco Silva - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza.
+
+Promulgado em Coimbra, Paço das Escolas, em 4 de Julho de 1990.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 7 de Julho de 1990.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

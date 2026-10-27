@@ -1,0 +1,176 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:557851:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1961-919685120",
+ "dre_path": "/dr/detalhe/portaria/18209-1961-557851",
+ "source_lastmod": "2025-05-27",
+ "versions": [
+  {
+   "date": "1961-01-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "919685012"
+   ]
+  },
+  {
+   "date": "1980-10-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:462669:por",
+     "title": "Portaria n.º 866/80",
+     "published": "1980-10-23",
+     "dre_path": "/dr/detalhe/portaria/866-1980-462669"
+    }
+   ],
+   "changes": [
+    "Altera 8.º"
+   ],
+   "fragments": [
+    "919685012",
+    "919685013",
+    "919685014",
+    "919685015",
+    "919685016",
+    "919685017",
+    "919685018",
+    "919685019",
+    "919685026",
+    "919685021",
+    "919685022"
+   ]
+  },
+  {
+   "date": "1984-11-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:400800:por",
+     "title": "Portaria n.º 856/84",
+     "published": "1984-11-09",
+     "dre_path": "/dr/detalhe/portaria/856-1984-400800"
+    }
+   ],
+   "changes": [
+    "Altera 2.º"
+   ],
+   "fragments": [
+    "919685012",
+    "919685013",
+    "919685056",
+    "919685015",
+    "919685016",
+    "919685017",
+    "919685018",
+    "919685019",
+    "919685026",
+    "919685021",
+    "919685022"
+   ]
+  }
+ ],
+ "fragments": {
+  "919685012": {
+   "fragment_id": "919685121",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 18209\n\nPrevendo-se para os próximos anos, na Santa Casa da Misericórdia de Lisboa, um volume muito considerável de obras, derivadas quer da criação, remodelação e ampliação de serviços, quer da valorização do seu vasto património, considera-se aconselhável constituir um órgão que lhes assegure o necessário expediente técnico e administrativo.\n\nO regime jurídico especial da Santa Casa da Misericórdia de Lisboa e o volume das obras projectadas aconselham que a sua preparação, execução, administração e fiscalização sejam sujeitas à superintendência técnica do Ministério das Obras Públicas.\n\nE julga-se também conveniente que da comissão faça parte um representante da Câmara Municipal de Lisboa, visto que a quase totalidade dos trabalhos deve ter lugar na área da capital.\n\nNestes termos:\n\nManda o Governo da República Portuguesa, pelos Ministros do Interior, das Obras Públicas e da Saúde e Assistência, o seguinte:\n\n> Nota: [Único, Portaria n.º 640/87 - Diário da República n.º 166/1987, Série I de 1987-07-22](https://diariodarepublica.pt/dr/detalhe/portaria/640-1987-420606) A Portaria n.º 640/87, de 22 de julho extingue a comissão criada pela presente Portaria."
+  },
+  "919685013": {
+   "fragment_id": "919685125",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nÉ criada, com carácter eventual, uma comissão encarregada de promover a preparação, execução, administração e fiscalização das obras respeitantes aos serviços ou ao património da Santa Casa da Misericórdia de Lisboa que não sejam as de pequena conservação."
+  },
+  "919685014": {
+   "fragment_id": "919685126",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nA comissão é constituída por um representante do Ministério das Obras Públicas, que presidirá, por um representante da Câmara Municipal de Lisboa, por um representante da Santa Casa da Misericórdia e por um arquitecto designado pelo Ministro das Obras Públicas."
+  },
+  "919685015": {
+   "fragment_id": "919685127",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nA Santa Casa da Misericórdia de Lisboa assegurará os meios necessários ao funcionamento da comissão."
+  },
+  "919685016": {
+   "fragment_id": "919685128",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nAs gratificações dos membros da comissão e do pessoal administrativo e menor que nela prestar serviço, em acumulação com o da Santa Casa da Misericórdia de Lisboa, bem como a remuneração do outro pessoal administrativo, técnico ou menor que for necessário admitir, serão propostas pela mesa da Santa Casa e aprovadas pelos Ministros das Obras Públicas e da Saúde e Assistência, independentemente da audiência do Ministro das Finanças que for necessária, nos termos da legislação em vigor."
+  },
+  "919685017": {
+   "fragment_id": "919685129",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\nA comissão deverá elaborar programas anuais de obras, de acordo com as necessidades e as disponibilidades da Santa Casa, e submetê-los-á à aprovação da mesa e dos Ministros das Obras Públicas e da Saúde e Assistência."
+  },
+  "919685018": {
+   "fragment_id": "919685130",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º\n\nA comissão promoverá a elaboração de anteprojectos e projectos - incluindo os respectivos orçamentos -, que submeterá, bem como as propostas para adjudicar empreitadas, a despacho do Ministro das Obras Públicas, depois de apreciados pelos departamentos competentes da Santa Casa."
+  },
+  "919685019": {
+   "fragment_id": "919685131",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º\n\nAs importâncias a despender com as obras e outros encargos a que se refere esta portaria serão satisfeitas por verbas inscritas no orçamento da Santa Casa da Misericórdia de Lisboa."
+  },
+  "919685026": {
+   "fragment_id": "919685132",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": "1980-10-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo do/a [Portaria n.º 866/80 - Diário da República n.º 246/1980, Série I de 1980-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/866-1980-462669), em vigor a partir de 1980-10-28"
+   ],
+   "markdown": "###### 8.º\n\nTodos os encargos de direcção, administração e fiscalização das obras e, bem assim, os de instalação, expediente e serviço normal da Comissão, incluindo as despesas com o pessoal, serão levados à conta de despesas gerais das obras.\n\n> Alterado pelo/a Artigo do/a [Portaria n.º 866/80 - Diário da República n.º 246/1980, Série I de 1980-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/866-1980-462669), em vigor a partir de 1980-10-28"
+  },
+  "919685021": {
+   "fragment_id": "919685133",
+   "type": 11,
+   "heading": "9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 9.º\n\nAs atribuições dos membros da comissão e as normas a que esta deverá subordinar a sua actividade serão definidas em regulamento, a propor pela mesa e a aprovar pelos Ministros das Obras Públicas e da Saúde e Assistência."
+  },
+  "919685022": {
+   "fragment_id": "919685134",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministérios do Interior, Obras Públicas e Saúde e Assistência, 16 de Janeiro de 1961. - O Ministro do Interior, Arnaldo Schulz. - O Ministro das Obras Públicas, Eduardo de Arantes e Oliveira. - O Ministro da Saúde e Assistência, Henrique de Miranda Vasconcelos Martins de Carvalho."
+  },
+  "919685056": {
+   "fragment_id": "919685126",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": "1984-11-14",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 856/84 - Diário da República n.º 260/1984, Série I de 1984-11-09](https://diariodarepublica.pt/dr/detalhe/portaria/856-1984-400800), em vigor a partir de 1984-11-14"
+   ],
+   "markdown": "###### 2.º\n\nA Comissão é constituída por um presidente, com voto de qualidade, a designar pela Santa Casa da Misericórdia de Lisboa, por um vice-presidente, a indicar pelo Ministério do Equipamento Social, e por 4 vogais, 2 em representação daquela instituição, deste Ministério e da Câmara Municipal de Lisboa.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 856/84 - Diário da República n.º 260/1984, Série I de 1984-11-09](https://diariodarepublica.pt/dr/detalhe/portaria/856-1984-400800), em vigor a partir de 1984-11-14"
+  }
+ }
+}

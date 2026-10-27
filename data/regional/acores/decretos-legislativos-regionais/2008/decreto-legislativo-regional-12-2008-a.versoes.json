@@ -1,0 +1,699 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:249269:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-884790071",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/12-2008-249269",
+ "source_lastmod": "2024-08-20",
+ "versions": [
+  {
+   "date": "2008-05-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "884781008",
+    "884781009",
+    "884781010",
+    "884781011",
+    "884781012",
+    "884781013",
+    "884781014",
+    "884781015",
+    "884781016",
+    "884781017",
+    "884781018",
+    "884781019",
+    "884781020",
+    "884781021",
+    "884781022",
+    "884781023",
+    "884781024",
+    "884781025",
+    "884781026",
+    "884781027",
+    "884781028",
+    "884781029",
+    "884781030",
+    "884781031",
+    "884781032",
+    "884781033",
+    "884781034",
+    "884781035",
+    "884781036",
+    "884781037",
+    "884781038",
+    "884781039",
+    "884781040",
+    "884781041",
+    "884781042",
+    "884781043",
+    "884781044",
+    "884781045",
+    "884781046",
+    "884781047",
+    "884781048",
+    "884781049",
+    "884781050",
+    "884781051",
+    "884781052",
+    "884781053",
+    "884781054",
+    "884781055",
+    "884781056",
+    "884781057",
+    "884781058"
+   ]
+  },
+  {
+   "date": "2009-10-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:491435:por",
+     "title": "Decreto Legislativo Regional n.º 17/2009/A",
+     "published": "2009-10-14",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/17-2009-491435"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º",
+    "Altera Artigo 23.º"
+   ],
+   "fragments": [
+    "884781008",
+    "884781009",
+    "884781010",
+    "884781011",
+    "884781012",
+    "884781013",
+    "884781014",
+    "884781015",
+    "884781016",
+    "884781017",
+    "884781018",
+    "884781019",
+    "884781020",
+    "884781021",
+    "884781022",
+    "884781023",
+    "884781024",
+    "884781025",
+    "884939817",
+    "884781027",
+    "884781028",
+    "884781029",
+    "884781030",
+    "884781031",
+    "884781032",
+    "884781033",
+    "884781034",
+    "884781035",
+    "884781036",
+    "884781037",
+    "884939818",
+    "884781039",
+    "884781040",
+    "884781041",
+    "884781042",
+    "884781043",
+    "884781044",
+    "884781045",
+    "884781046",
+    "884781047",
+    "884781048",
+    "884781049",
+    "884781050",
+    "884781051",
+    "884781052",
+    "884781053",
+    "884781054",
+    "884781055",
+    "884781056",
+    "884781057",
+    "884781058",
+    "884781059"
+   ]
+  },
+  {
+   "date": "2014-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:58661944:por",
+     "title": "Decreto Legislativo Regional n.º 19/2014/A",
+     "published": "2014-10-30",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/19-2014-58661944"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 12.º-A",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 25.º"
+   ],
+   "fragments": [
+    "884781008",
+    "884781009",
+    "884781010",
+    "884781011",
+    "884781012",
+    "884781013",
+    "884781014",
+    "884781015",
+    "884781016",
+    "884781017",
+    "884781018",
+    "884781019",
+    "884781020",
+    "884781021",
+    "884781022",
+    "884781023",
+    "884939823",
+    "884939831",
+    "884939832",
+    "884939833",
+    "884781027",
+    "884781028",
+    "884781029",
+    "884781030",
+    "884781031",
+    "884781032",
+    "884781033",
+    "884781034",
+    "884781035",
+    "884781036",
+    "884781037",
+    "884939818",
+    "884781039",
+    "884781040",
+    "884939825",
+    "884781042",
+    "884781043",
+    "884781044",
+    "884781045",
+    "884781046",
+    "884781047",
+    "884781048",
+    "884781049",
+    "884781050",
+    "884781051",
+    "884781052",
+    "884781053",
+    "884781054",
+    "884781055",
+    "884781056",
+    "884781057",
+    "884781058",
+    "884781059"
+   ]
+  }
+ ],
+ "fragments": {
+  "884781008": {
+   "fragment_id": "884790072",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 12/2008/A\n\nEstatuto do gestor público regional\n\nO presente diploma estabelece o estatuto do gestor público regional, da Região Autónoma dos Açores, pelo que procede à revogação expressa do regime estatutário que versa sobre a mesma matéria e que se encontra previsto no Decreto Legislativo Regional n.º 6/86/A, de 20 de Janeiro.\n\nEste diploma consagra um conjunto de regras relativas ao gestor público, designadamente, no que concerne ao exercício da gestão, dos direitos e deveres dos gestores, à fixação de mecanismos de avaliação de desempenho, formas de designação ou nomeação, assunção de responsabilidades e cessação de funções, assim como os regimes remuneratório e de pensões.\n\nPretende, deste modo, estabelecer um regime do gestor público regional integrado e adaptado às exigências actuais de modernização, racionalização e de eficiência, por forma que o sector público empresarial da Região satisfaça melhor as necessidades colectivas e potencie a promoção do desenvolvimento económico e social da Região Autónoma dos Açores.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e das alíneas q) do artigo 8.º e c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo, decreta o seguinte:"
+  },
+  "884781009": {
+   "fragment_id": "884790073",
+   "type": 1,
+   "heading": "Capítulo I — Conceito e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Conceito e âmbito de aplicação"
+  },
+  "884781010": {
+   "fragment_id": "884790074",
+   "type": 11,
+   "heading": "Artigo 1.º — Gestor público regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Gestor público regional\n\nPara os efeitos do presente diploma, considera-se gestor público regional quem seja designado para órgão de gestão ou administração das empresas públicas regionais ou de entidades públicas empresariais da Região Autónoma dos Açores."
+  },
+  "884781011": {
+   "fragment_id": "884806375",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime de extensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime de extensão\n\n1 - Aos membros dos órgãos de gestão de empresa participada pela Região Autónoma dos Açores, quando designados pelo Governo Regional, através de resolução, são aplicáveis, com as necessárias adaptações, os artigos 10.º, 11.º, 12.º, n.º 1, 13.º, 14.º, 19.º, n.º 1, e 20.º\n\n2 - O presente diploma é ainda aplicável, com as devidas adaptações, aos membros de órgãos directivos de institutos públicos regionais, nos casos expressamente determinados pelos respectivos diplomas orgânicos."
+  },
+  "884781012": {
+   "fragment_id": "884806376",
+   "type": 11,
+   "heading": "Artigo 3.º — Exclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Exclusão\n\nNão é considerado gestor público regional quem seja eleito para a mesa da assembleia geral, órgão de fiscalização ou outro órgão a que não caibam funções de gestão ou administração."
+  },
+  "884781013": {
+   "fragment_id": "884806377",
+   "type": 1,
+   "heading": "Capítulo II — Exercício da gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Exercício da gestão"
+  },
+  "884781014": {
+   "fragment_id": "884806378",
+   "type": 11,
+   "heading": "Artigo 4.º — Orientações estratégicas de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Orientações estratégicas de gestão\n\nCom vista à definição do exercício da gestão das empresas públicas regionais, devem ser cumpridas as orientações estratégicas de gestão emitidas nos termos do regime do sector empresarial regional."
+  },
+  "884781015": {
+   "fragment_id": "884806379",
+   "type": 11,
+   "heading": "Artigo 5.º — Deveres dos gestores públicos regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Deveres dos gestores públicos regionais\n\nSão deveres dos gestores públicos regionais e, em especial, dos que exerçam funções executivas:\n\na) Prosseguir a realização dos objectivos da empresa definidos em assembleia geral ou, quando existam, em contratos de gestão e promover o seu equilíbrio económico-financeiro;\n\nb) Assegurar a concretização das orientações definidas nos termos da lei e no contrato de gestão, assim como a realização da estratégia da empresa, respeitando o objectivo delineado pelos membros do Governo Regional responsáveis pelas áreas das finanças e pelo sector de actividade, no que respeita ao seu enquadramento na política económico-social do sector;\n\nc) Contribuir activamente para que a empresa possa alcançar os seus objectivos, designadamente, acompanhando, verificando e controlando a evolução das actividades e dos negócios da empresa em todas as suas componentes;\n\nd) Avaliar e gerir os riscos inerentes à actividade da empresa, por forma a assegurar a sua sustentabilidade e potenciar o seu desenvolvimento;\n\ne) Assegurar o tratamento equitativo dos titulares do capital;\n\nf) Assegurar a suficiência, a veracidade e a fiabilidade das informações relativas à empresa, bem como a sua confidencialidade;\n\ng) Guardar sigilo profissional sobre os factos e documentos cujo conhecimento resulte do exercício das suas funções e não divulgar ou utilizar, seja qual for a finalidade, em proveito próprio ou alheio, directamente ou por interposta pessoa, o conhecimento que advenha de tais factos ou documentos;\n\nh) Participar, com assiduidade e eficiência, na actividade dos órgãos em que se integram, prosseguindo critérios de racionalização dos recursos humanos, materiais e financeiros da empresa e promovendo a motivação dos respectivos trabalhadores."
+  },
+  "884781016": {
+   "fragment_id": "884806380",
+   "type": 11,
+   "heading": "Artigo 6.º — Avaliação do desempenho das funções de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Avaliação do desempenho das funções de gestão\n\n1 - O desempenho das funções de gestão deve ser objecto de avaliação sistemática, tendo por parâmetros os objectivos fixados nas orientações previstas no artigo 4.º, ou decorrentes do contrato de gestão, bem como os critérios definidos em assembleia geral e nas orientações directas definidas pelos membros do Governo Regional responsáveis pelas áreas das finanças e pelo sector de actividade.\n\n2 - Nas entidades públicas empresariais, a avaliação do desempenho compete ao membro do Governo Regional responsável pela área das finanças e ao membro do Governo Regional responsável pelo respectivo sector de actividade.\n\n3 - Nas restantes empresas, a avaliação de desempenho implica proposta do titular do capital único ou maioritário, a formular em assembleia geral."
+  },
+  "884781017": {
+   "fragment_id": "884806381",
+   "type": 11,
+   "heading": "Artigo 7.º — Avaliação no âmbito da empresa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Avaliação no âmbito da empresa\n\n1 - Nos casos em que o modelo de gestão da empresa pública regional em causa compreenda gestores com funções executivas e não executivas, compete à comissão de avaliação, caso exista, apresentar anualmente um relatório circunstanciado de avaliação do grau e das condições de cumprimento, em cada exercício, das orientações previstas no artigo 4.º do presente diploma.\n\n2 - Em caso de existência de um conselho geral e de supervisão, os respectivos membros podem designar entre si uma comissão de avaliação, à qual se aplica, com as devidas adaptações, o regime previsto no número anterior."
+  },
+  "884781018": {
+   "fragment_id": "884806382",
+   "type": 11,
+   "heading": "Artigo 8.º — Sociedades participadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sociedades participadas\n\nNas sociedades participadas pela Região Autónoma dos Açores, o membro do órgão de gestão eleito sob proposta do Governo Regional deve exercer as suas funções tendo em conta as orientações fixadas nos termos do artigo 4.º do presente diploma."
+  },
+  "884781019": {
+   "fragment_id": "884806383",
+   "type": 11,
+   "heading": "Artigo 9.º — Poderes próprios da função administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Poderes próprios da função administrativa\n\nO exercício de poderes próprios da função administrativa, nos casos legalmente previstos, observa os princípios gerais de direito administrativo."
+  },
+  "884781020": {
+   "fragment_id": "884806384",
+   "type": 11,
+   "heading": "Artigo 10.º — Autonomia de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Autonomia de gestão\n\nObservado o disposto nas orientações fixadas ao abrigo da lei, designadamente as previstas no artigo 4.º do presente diploma e no contrato de gestão, o órgão de gestão e administração goza de autonomia de gestão."
+  },
+  "884781021": {
+   "fragment_id": "884806385",
+   "type": 11,
+   "heading": "Artigo 11.º — Despesas confidenciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Despesas confidenciais\n\nAos gestores públicos regionais é vedada a realização ou o benefício de quaisquer despesas confidenciais ou não documentadas."
+  },
+  "884781022": {
+   "fragment_id": "884806386",
+   "type": 1,
+   "heading": "Capítulo III — Designação, mandato e contratos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Designação, mandato e contratos de gestão"
+  },
+  "884781023": {
+   "fragment_id": "884806387",
+   "type": 8,
+   "heading": "Secção I — Formas de designação e duração do mandato dos gestores públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Formas de designação e duração do mandato dos gestores públicos"
+  },
+  "884781024": {
+   "fragment_id": "884806388",
+   "type": 11,
+   "heading": "Artigo 12.º — Designação dos gestores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Designação dos gestores\n\n1 - Os gestores públicos regionais são escolhidos de entre pessoas com comprovadas idoneidade, capacidade e experiência de gestão, bem como sentido de interesse público.\n\n2 - Os gestores públicos regionais são designados por nomeação ou por eleição.\n\n3 - A nomeação é feita mediante resolução do Conselho do Governo Regional, sob proposta do membro do Governo Regional responsável pela área das finanças e do membro do Governo Regional responsável pelo respectivo sector de actividade.\n\n4 - Não pode ocorrer a nomeação ou proposta para eleição entre a convocação de eleições para a Assembleia Legislativa da Região Autónoma dos Açores ou a demissão do Governo Regional e a investidura parlamentar do Governo Regional recém-nomeado, salvo se se verificar a vacatura dos cargos em causa e a urgência da designação, caso em que as referidas nomeação ou proposta, de que não tenha ainda resultado eleição, dependem de confirmação pelo Governo Regional recém-nomeado.\n\n5 - A eleição é feita nos termos da lei comercial."
+  },
+  "884781025": {
+   "fragment_id": "884806389",
+   "type": 11,
+   "heading": "Artigo 13.º — Duração do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Duração do mandato\n\n1 - O mandato é exercido, em regra, pelo prazo de três anos, sendo os mandatos dos membros do mesmo órgão de gestão coincidentes.\n\n2 - O mandato pode ser sucessivamente renovado, nos termos do n.º 3 do artigo anterior."
+  },
+  "884781026": {
+   "fragment_id": "884806390",
+   "type": 11,
+   "heading": "Artigo 14.º — Comissões de serviço e mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Comissões de serviço e mobilidade\n\n1 - Para o exercício das funções de gestor podem ser designados, em regime de comissão de serviço, trabalhadores da própria empresa, da empresa mãe, ou de outras relativamente às quais aquela ou a sua empresa mãe exerçam directa ou indirectamente influência dominante, nos termos do regime jurídico do sector empresarial regional.\n\n2 - Podem, ainda, exercer funções de gestor público regional:\n\na) Funcionários, agentes e outros trabalhadores da administração regional autónoma dos Açores, do Estado e de outras pessoas colectivas públicas, por tempo indeterminado, mediante acordo de cedência especial ou de cedência ocasional;\n\nb) Trabalhadores de outras empresas, mediante acordo de cedência ocasional.\n\n3 - À cedência especial e à cedência ocasional referidas na alínea a) do número anterior é aplicável, com as necessárias adaptações, o disposto no decreto legislativo regional que consagra o regime de mobilidade profissional na administração regional autónoma dos Açores.\n\n4 - O tempo de serviço desempenhado em funções de gestor público regional releva como serviço prestado no quadro de origem, com salvaguarda de todos os direitos inerentes."
+  },
+  "884781027": {
+   "fragment_id": "884806391",
+   "type": 8,
+   "heading": "Secção II — Contratos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Contratos de gestão"
+  },
+  "884781028": {
+   "fragment_id": "884806392",
+   "type": 11,
+   "heading": "Artigo 15.º — Contratos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Contratos de gestão\n\n1 - Nas empresas públicas regionais a celebração de contrato de gestão é determinada pelos membros do Governo Regional responsáveis pelas áreas das finanças e pelo sector de actividade, no qual se definirá:\n\na) As formas de concretização das orientações impostas nos termos do artigo 4.º do presente diploma, envolvendo, sempre que tal se mostre exequível, metas quantificadas;\n\nb) Os parâmetros de eficiência da gestão;\n\nc) Outros objectivos específicos;\n\nd) Os elementos referidos no n.º 1 do artigo 27.º\n\n2 - O contrato de gestão é celebrado no prazo de três meses contado a partir da data da designação do gestor público entre este, os titulares do capital social e o membro do Governo Regional responsável pelo respectivo sector de actividade.\n\n3 - Nos casos em que se estipularem objectivos de gestão de exigência acrescida, o contrato de gestão pode ainda, excepcionalmente, mediante prévia autorização do Conselho do Governo Regional através de resolução, estabelecer um regime específico de indemnização por cessação de funções."
+  },
+  "884781029": {
+   "fragment_id": "884806393",
+   "type": 1,
+   "heading": "Capítulo IV — Natureza das funções, impedimentos e incompatibilidades dos gestores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Natureza das funções, impedimentos e incompatibilidades dos gestores"
+  },
+  "884781030": {
+   "fragment_id": "884806394",
+   "type": 11,
+   "heading": "Artigo 16.º — Natureza das funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Natureza das funções\n\nOs gestores públicos regionais podem ter funções executivas ou não executivas, de acordo com o modelo de gestão adoptado na empresa pública regional em causa, nos termos da lei e tendo ainda em conta as boas práticas reconhecidas internacionalmente."
+  },
+  "884781031": {
+   "fragment_id": "884806395",
+   "type": 11,
+   "heading": "Artigo 17.º — Gestores com funções executivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Gestores com funções executivas\n\n1 - Para efeitos do presente diploma, consideram-se gestores com funções executivas os membros do órgão de gestão designados nessa condição.\n\n2 - O exercício de funções executivas tem lugar em regime de exclusividade, sem prejuízo do disposto no número seguinte e no n.º 4 do artigo 19.º, ou quando, de forma fundamentada, conste do respectivo despacho.\n\n3 - São cumuláveis com o exercício de funções executivas:\n\na) As actividades exercidas por inerência;\n\nb) A participação em conselhos consultivos, comissões de fiscalização ou outros organismos colegiais, quando previstos na lei ou quando tal resulte de decisão do Governo Regional;\n\nc) As actividades de docência em estabelecimentos de ensino superior público ou de interesse público, mediante autorização, por despacho conjunto, do membro do Governo Regional responsável pela área das finanças e do membro do Governo Regional responsável pelo respectivo sector de actividade ou nos termos de contrato de gestão;\n\nd) A actividade de criação artística e literária, bem como quaisquer outras de que resulte a percepção de remunerações provenientes de direitos de autor, sem prejuízo do disposto na alínea g) do artigo 5.º;\n\ne) A realização de conferências, palestras, acções de formação de curta duração e outras actividades de idêntica natureza;\n\nf) As actividades médicas dos membros executivos dos estabelecimentos do Serviço Regional de Saúde.\n\n4 - Sem prejuízo do disposto no n.º 6 do artigo 19.º, é ainda cumulável com o exercício de funções executivas o exercício de funções na empresa mãe ou em outras relativamente às quais a própria empresa ou a sua empresa mãe exerçam directa ou indirectamente influência dominante nos termos referidos na parte final do n.º 1 do artigo 14.º do presente diploma."
+  },
+  "884781032": {
+   "fragment_id": "884806396",
+   "type": 11,
+   "heading": "Artigo 18.º — Gestores com funções não executivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Gestores com funções não executivas\n\n1 - Para os efeitos do presente diploma, consideram-se gestores com funções não executivas os membros do órgão de gestão designados nessa condição.\n\n2 - Os gestores com funções não executivas exercem as suas funções com independência, oferecendo garantias de juízo livre e incondicionado em face dos demais gestores, e não podem ter interesses negociais relacionados com a empresa, os seus principais clientes e fornecedores e outros accionistas que não a Região Autónoma dos Açores.\n\n3 - Os gestores com funções não executivas acompanham e avaliam continuamente a gestão da empresa pública em causa por parte dos demais gestores, com vista a assegurar a prossecução dos objectivos estratégicos da empresa, a eficiência das suas actividades e a conciliação dos interesses dos accionistas com o interesse geral.\n\n4 - Aos gestores com funções não executivas são facultados todos os elementos necessários ao exercício das suas funções, designadamente nos aspectos técnicos e financeiros, bem como uma permanente actualização da situação da empresa em todos os planos relevantes para a realização do seu objecto."
+  },
+  "884781033": {
+   "fragment_id": "884806397",
+   "type": 11,
+   "heading": "Artigo 19.º — Incompatibilidades e impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Incompatibilidades e impedimentos\n\n1 - É incompatível com a função de gestor público regional o exercício de cargos de direcção da administração directa e indirecta da administração pública regional, da Região Autónoma dos Açores, do Estado ou das autoridades reguladoras independentes, sem prejuízo do exercício de funções em regime de inerência ou quando se trate de funções não executivas ou exercício de funções em pessoas colectivas sem fins lucrativos.\n\n2 - Os gestores públicos regionais com funções não executivas não podem exercer quaisquer outras actividades temporárias ou permanentes na mesma empresa.\n\n3 - Os gestores públicos regionais com funções não executivas e os membros das mesas de assembleias gerais não podem exercer quaisquer outras actividades temporárias ou permanentes em empresas privadas concorrentes no mesmo sector.\n\n4 - A designação de gestores públicos regionais do sector empresarial da Região Autónoma dos Açores com funções não executivas para outras empresas que integrem o sector público empresarial da Região Autónoma dos Açores deve ser especialmente fundamentada, atendendo à respectiva necessidade ou conveniência, carecendo ainda de autorização do membro do Governo Regional responsável pela área das finanças e do membro do Governo Regional responsável pelo respectivo sector de actividade da empresa em que se encontre a desempenhar funções, se, neste caso, aquela designação ocorrer no âmbito dos sectores empresariais regionais.\n\n5 - O disposto no número anterior não se aplica no caso de designação de gestores públicos regionais do sector empresarial da Região Autónoma dos Açores com funções não executivas nas empresas referidas no n.º 4 do artigo 17.º\n\n6 - Os gestores públicos regionais não podem celebrar durante o exercício dos respectivos mandatos, sob pena de nulidade, quaisquer contratos de trabalho ou de prestação de serviços com as empresas mencionadas nos n.os 2, 3 e 4 que devam vigorar após a cessação das suas funções, salvo mediante autorização expressa do membro do Governo Regional responsável pela área das finanças e do membro do Governo Regional responsável pelo respectivo sector de actividade.\n\n7 - O gestor deve declarar-se impedido de tomar parte em deliberações quando nelas tenha interesse, por si, como representante ou como gestor de negócios de outra pessoa ou ainda quando tal suceda em relação ao seu cônjuge, parente ou afim em linha recta ou até ao 2.º grau em linha colateral ou em relação com pessoa com quem viva em economia comum.\n\n8 - Aos gestores públicos regionais é ainda aplicável, com as necessárias adaptações, o disposto nos artigos 8.º, 9.º, 9.º-A, 11.º, 12.º e 14.º e no n.º 4 do artigo 13.º da Lei n.º 64/93, de 26 de Agosto.\n\n9 - Sem prejuízo do disposto no artigo 11.º da Lei n.º 64/93, de 26 de Agosto, antes do início de funções, o gestor público regional comunica, por escrito, à Inspecção Administrativa Regional todas as participações e interesses patrimoniais que detenha, directa ou indirectamente, na empresa na qual irá exercer funções ou em qualquer outra."
+  },
+  "884781034": {
+   "fragment_id": "884806398",
+   "type": 1,
+   "heading": "Capítulo V — Responsabilidade e cessação de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Responsabilidade e cessação de funções"
+  },
+  "884781035": {
+   "fragment_id": "884806399",
+   "type": 11,
+   "heading": "Artigo 20.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Responsabilidade\n\nOs gestores públicos regionais são penal, civil e financeiramente responsáveis pelos actos e omissões praticados durante a sua gestão, nos termos da lei."
+  },
+  "884781036": {
+   "fragment_id": "884806400",
+   "type": 11,
+   "heading": "Artigo 21.º — Dissolução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Dissolução\n\n1 - Os órgãos de gestão e administração das empresas públicas podem ser dissolvidos em caso de:\n\na) Grave violação, por acção ou omissão, da lei ou dos estatutos da empresa;\n\nb) Não observância, nos orçamentos de exploração e investimento, dos objectivos fixados pelo accionista de controlo ou pela tutela;\n\nc) Desvio substancial entre os orçamentos e a respectiva execução;\n\nd) Grave deterioração dos resultados do exercício ou da situação patrimonial, quando não provocada por razões alheias ao exercício das funções pelos gestores.\n\n2 - A dissolução compete aos órgãos de eleição ou de nomeação dos gestores, requer audiência prévia, pelo menos, do presidente do órgão e é devidamente fundamentada.\n\n3 - A dissolução implica a cessação do mandato de todos os membros do órgão dissolvido, não havendo lugar a qualquer subvenção ou compensação pela cessação de funções."
+  },
+  "884781037": {
+   "fragment_id": "884806401",
+   "type": 11,
+   "heading": "Artigo 22.º — Demissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Demissão\n\n1 - O gestor público regional pode ser demitido quando lhe seja individualmente imputável uma das seguintes situações:\n\na) A avaliação de desempenho seja negativa, designadamente por incumprimento dos objectivos referidos nas orientações fixadas ao abrigo do artigo 4.º do presente diploma ou no contrato de gestão, desde que tal possibilidade esteja contemplada nesse contrato;\n\nb) A violação grave, por acção ou por omissão, da lei ou dos estatutos da empresa;\n\nc) A violação das regras sobre incompatibilidades e impedimentos;\n\nd) A violação do dever de sigilo profissional.\n\n2 - A demissão compete ao órgão de eleição ou nomeação, requer audiência prévia do gestor e é devidamente fundamentada.\n\n3 - A demissão implica a cessação do mandato, não havendo lugar a qualquer subvenção ou compensação pela cessação de funções."
+  },
+  "884781038": {
+   "fragment_id": "884806402",
+   "type": 11,
+   "heading": "Artigo 23.º — Dissolução e demissão por mera conveniência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Dissolução e demissão por mera conveniência\n\n1 - Os órgãos de gestão e de administração das empresas públicas regionais podem ser livremente dissolvidos, ou o gestor público regional livremente demitido, conforme os casos, independentemente dos fundamentos constantes dos artigos anteriores.\n\n2 - A cessação de funções nos termos do número anterior pode ter lugar a qualquer tempo e compete ao órgão de eleição ou nomeação.\n\n3 - Nos casos previstos no presente artigo, o gestor público regional tem direito a uma indemnização correspondente ao vencimento de base que auferiria até ao final do respectivo mandato, com o limite de um ano.\n\n4 - Nos casos de regresso ao exercício de funções ou de aceitação, no prazo a que se refere o número anterior, de função ou cargo no âmbito do sector público administrativo ou empresarial da Região Autónoma dos Açores, ou no caso de regresso às funções anteriormente desempenhadas pelos gestores nomeados em regime de comissão de serviço ou de cedência especial ou ocasional, a indemnização eventualmente devida é reduzida ao montante da diferença entre o vencimento como gestor e o vencimento do lugar de origem à data da cessação de funções de gestor, ou o novo vencimento, caso em que deverá ser devolvida a parte da indemnização que eventualmente haja sido paga."
+  },
+  "884781039": {
+   "fragment_id": "884806403",
+   "type": 11,
+   "heading": "Artigo 24.º — Renúncia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Renúncia\n\n1 - O gestor público regional pode renunciar ao cargo, nos termos da lei comercial.\n\n2 - A renúncia não carece de aceitação, mas deve ser comunicada aos órgãos de eleição ou de nomeação."
+  },
+  "884781040": {
+   "fragment_id": "884806404",
+   "type": 1,
+   "heading": "Capítulo VI — Remunerações e pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Remunerações e pensões"
+  },
+  "884781041": {
+   "fragment_id": "884806405",
+   "type": 11,
+   "heading": "Artigo 25.º — Remuneração fixa e variável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Remuneração fixa e variável\n\n1 - A remuneração dos gestores públicos regionais integra uma componente fixa e pode integrar, no caso dos gestores com funções executivas, uma componente variável.\n\n2 - A remuneração é fixada por deliberação em assembleia geral, no caso das sociedades comerciais, ou por resolução do Conselho do Governo Regional, no caso das entidades públicas empresariais.\n\n3 - A fixação da remuneração é sempre fundamentada e obedece aos critérios estabelecidos no n.º 6.\n\n4 - A competência para a fixação da remuneração pode ainda ser atribuída a uma comissão de fixação de remunerações designada pela assembleia geral, ou através de resolução, nos termos do n.º 2.\n\n5 - Com vista a assegurar a harmonia de critérios no exercício das competências previstas neste artigo relativamente a empresas públicas do mesmo sector de actividade, podem ser constituídas comissões de fixação de remunerações para o mesmo sector de actividade através de resolução do Conselho do Governo Regional.\n\n6 - As componentes fixa e variável da remuneração dos gestores públicos regionais são determinadas, em concreto, em função da complexidade, exigência e responsabilidade inerentes às respectivas funções e atendendo às práticas normais de mercado no respectivo sector de actividade, sem prejuízo das orientações previstas no artigo 4.º do presente diploma.\n\n7 - A componente variável corresponde a um prémio estabelecido, nos termos dos números anteriores, atendendo especialmente ao desempenho de cada gestor público regional e dependendo a sua atribuição, nos termos do artigo 6.º, da efectiva concretização de objectivos previamente determinados.\n\n8 - Nos casos previstos no n.º 1 e na alínea a) do n.º 2 do artigo 14.º, e quando ocorrer autorização expressa do membro do Governo Regional responsável pela área das finanças, os gestores podem optar pela remuneração fixa do lugar de origem, mantendo as regalias ou benefícios remuneratórios que aí detinham, sem prejuízo da componente variável nos termos do número anterior."
+  },
+  "884781042": {
+   "fragment_id": "884806406",
+   "type": 11,
+   "heading": "Artigo 26.º — Remuneração dos gestores não executivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Remuneração dos gestores não executivos\n\n1 - Aos gestores não executivos poderá ser atribuída uma remuneração fixa, correspondente à actividade normal que desempenhem, até ao limite de um terço da remuneração de igual natureza estabelecida para os administradores executivos.\n\n2 - Quando os gestores não executivos tenham efectiva participação em comissões criadas especificamente para acompanhamento da actividade da empresa poderão, ainda, ter direito a uma remuneração complementar, caso em que o limite da remuneração global é de metade da remuneração fixa estabelecida para os gestores executivos.\n\n3 - A remuneração dos gestores não executivos não pode integrar qualquer componente variável."
+  },
+  "884781043": {
+   "fragment_id": "884806407",
+   "type": 11,
+   "heading": "Artigo 27.º — Remunerações decorrentes de contratos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Remunerações decorrentes de contratos de gestão\n\n1 - Os contratos de gestão a celebrar com gestores públicos regionais que exerçam funções executivas, a que se refere o artigo 15.º, contemplam, além das matérias aí indicadas, o seguinte:\n\na) Valores fixados para cada uma das componentes remuneratórias consideradas, incluindo, designadamente, a parte variável da remuneração, a qual pode integrar, sem prejuízo do limite fixado nos respectivos estatutos, prémios de gestão passíveis de atribuição no final do exercício ou do mandato, de acordo com o cumprimento dos critérios objectivos dos quais dependa a sua eventual atribuição;\n\nb) Outras regalias ou benefícios com carácter ou finalidade social ou inseridas no quadro geral das regalias aplicáveis aos demais colaboradores da empresa.\n\n2 - As matérias referidas nas alíneas a) e b) do número anterior são previamente definidas pelo Conselho do Governo Regional, mediante resolução.\n\n3 - A graduação da componente variável de remuneração tem por base indicadores de gestão, que resultem do desenvolvimento estratégico preconizado para cada empresa, no âmbito do sector em que se insere.\n\n4 - Os indicadores referidos no número anterior são definidos em cada contrato de gestão com base nas orientações estabelecidas ao abrigo do artigo 4.º do presente diploma e tendo em consideração as situações específicas em causa, designadamente as resultantes da prestação de serviços de interesse geral."
+  },
+  "884781044": {
+   "fragment_id": "884806408",
+   "type": 11,
+   "heading": "Artigo 28.º — Remunerações em caso de acumulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Remunerações em caso de acumulação\n\n1 - A acumulação de funções prevista no n.º 4 do artigo 17.º não confere direito a qualquer remuneração adicional.\n\n2 - Nos casos de acumulação nos termos do n.º 4 do artigo 19.º, a remuneração acumulada dos gestores não executivos não pode exceder dois terços da remuneração fixa estabelecida para os gestores executivos com a remuneração mais elevada.\n\n3 - No caso previsto no n.º 1, a remuneração que eventualmente caberia ao gestor reverte a favor da empresa em que o mesmo exerce ou passa a exercer funções."
+  },
+  "884781045": {
+   "fragment_id": "884806409",
+   "type": 11,
+   "heading": "Artigo 29.º — Utilização de cartões de crédito e telefones móveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Utilização de cartões de crédito e telefones móveis\n\n1 - A utilização de cartões de crédito pelos gestores públicos tem exclusivamente por objecto despesas ao serviço da empresa, justificadas documentalmente, devendo os limites máximos de utilização ser fixados pelo órgão de gestão.\n\n2 - A utilização de telefones móveis por parte dos gestores está sujeita a limites máximos fixados pelo órgão de gestão."
+  },
+  "884781046": {
+   "fragment_id": "884806410",
+   "type": 11,
+   "heading": "Artigo 30.º — Utilização de viaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Utilização de viaturas\n\n1 - O valor máximo das viaturas de serviço afectas aos gestores públicos regionais é fixado por deliberação em assembleia geral, no caso das sociedades comerciais, ou por despacho conjunto do membro do Governo Regional responsável pela área das finanças e do membro do Governo Regional responsável pelo respectivo sector de actividade, no caso das entidades públicas empresariais da Região Autónoma dos Açores.\n\n2 - O valor previsto no número anterior é fixado à luz das orientações que venham a ser estabelecidas para o efeito, ou pelos titulares do capital social ou pelo membro do Governo Regional responsável pela área das finanças e pelo membro do Governo Regional responsável pelo respectivo sector de actividade, consoante o caso.\n\n3 - O valor máximo de combustível afecto às viaturas de serviço é fixado pelo órgão de gestão e administração da empresa.\n\n4 - É vedado o exercício de qualquer opção por parte dos gestores públicos regionais para aquisição de viaturas de serviço que lhes tenham sido afectas pela respectiva empresa pública regional.\n\n5 - O disposto no presente artigo exerce-se em conformidade com as demais normas legais e regulamentares relativas à utilização de viaturas."
+  },
+  "884781047": {
+   "fragment_id": "884806411",
+   "type": 11,
+   "heading": "Artigo 31.º — Benefícios sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Benefícios sociais\n\n1 - Os gestores públicos regionais gozam dos benefícios sociais conferidos aos trabalhadores da empresa em que exerçam funções, nos termos que venham a ser concretizados pelas respectivas comissões de fixação de remunerações, pela assembleia geral ou pelas respectivas tutelas, consoante o caso, com excepção dos respeitantes a planos complementares de reforma, aposentação, sobrevivência ou invalidez.\n\n2 - Quando exerçam funções através de acordo de cedência especial, os gestores públicos regionais podem optar pelos benefícios sociais do lugar de origem."
+  },
+  "884781048": {
+   "fragment_id": "884806412",
+   "type": 11,
+   "heading": "Artigo 32.º — Pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Pensões\n\nOs gestores públicos regionais beneficiam do regime geral de previdência de que gozavam à data da respectiva designação ou, na sua ausência, do regime geral da segurança social."
+  },
+  "884781049": {
+   "fragment_id": "884806413",
+   "type": 1,
+   "heading": "Capítulo VII — Governo empresarial e transparência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Governo empresarial e transparência"
+  },
+  "884781050": {
+   "fragment_id": "884806414",
+   "type": 11,
+   "heading": "Artigo 33.º — Ética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Ética\n\nOs gestores públicos regionais estão sujeitos às normas de ética aceites no sector de actividade em que se situem as respectivas empresas."
+  },
+  "884781051": {
+   "fragment_id": "884806415",
+   "type": 11,
+   "heading": "Artigo 34.º — Boas práticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Boas práticas\n\n1 - Sem prejuízo do disposto no artigo anterior, os gestores públicos regionais estão igualmente sujeitos às boas práticas decorrentes dos usos internacionais, designadamente em matéria de transparência, respeito pela concorrência e pelos agentes do mercado e prestação de informação sobre a sua organização e as actividades envolvidas.\n\n2 - O Conselho do Governo Regional pode fixar, mediante resolução, os princípios e regras a que se refere o artigo anterior, que devem ser especialmente observados pelos gestores públicos regionais no exercício das suas funções."
+  },
+  "884781052": {
+   "fragment_id": "884806416",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais e transitórias"
+  },
+  "884781053": {
+   "fragment_id": "884806417",
+   "type": 11,
+   "heading": "Artigo 35.º — Exercício de funções por beneficiário de complementos de reforma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Exercício de funções por beneficiário de complementos de reforma\n\nQuem, tendo exercido funções de gestor público regional auferindo, por causa desse exercício, benefícios complementares de reforma, desempenhe funções em empresas ou outras entidades públicas tem o direito de optar entre uma terça parte da remuneração nesta empresa ou entidade e aqueles benefícios ou uma terça parte dos mesmos e aquela remuneração."
+  },
+  "884781054": {
+   "fragment_id": "884806418",
+   "type": 11,
+   "heading": "Artigo 36.º — Aplicação imediata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Aplicação imediata\n\n1 - O disposto no presente diploma aplica-se aos mandatos em curso.\n\n2 - Os gestores públicos regionais que, até à entrada em vigor do presente diploma, preencham os requisitos dos planos complementares de reforma, aposentação, invalidez ou sobrevivência por este suprimidos beneficiam, na aplicação das regras de cálculo da respectiva pensão, apenas do tempo de exercício efectivo de funções verificado à data da sua entrada em vigor.\n\n3 - As prestações complementares de reforma e aposentação apenas podem ser auferidas após a cessação de funções como gestores públicos regionais e a partir do momento em que estejam cumpridos os requisitos gerais de acesso à aposentação ou reforma e esta tenha lugar.\n\n4 - Os gestores públicos regionais relativamente aos quais se verifiquem situações de incompatibilidade ou acumulação de funções em desconformidade com o disposto no presente diploma devem pôr termo a essas situações no prazo máximo de um ano ou fazer cessar os respectivos mandatos.\n\n5 - A cessação de mandato prevista no número anterior não confere direito a qualquer indemnização ou subvenção."
+  },
+  "884781055": {
+   "fragment_id": "884806419",
+   "type": 11,
+   "heading": "Artigo 37.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Direito subsidiário\n\nEm tudo quanto não esteja disposto no presente diploma, aplica-se o Código das Sociedades Comerciais, salvo quanto aos institutos públicos regionais de regime especial."
+  },
+  "884781056": {
+   "fragment_id": "884806420",
+   "type": 11,
+   "heading": "Artigo 38.º — Revisão e adaptação de estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Revisão e adaptação de estatutos\n\n1 - Os estatutos das empresas públicas regionais que contrariem o disposto no presente diploma devem ser revistos e adaptados em conformidade com o mesmo até ao final do ano de 2008.\n\n2 - O disposto no presente diploma prevalece sobre os estatutos das entidades referidas no número anterior que, decorrido o prazo aí mencionado, não tenham sido revistos e adaptados, sem prejuízo do disposto em legislação sectorial especial."
+  },
+  "884781057": {
+   "fragment_id": "884806421",
+   "type": 11,
+   "heading": "Artigo 39.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Norma revogatória\n\nÉ revogado o Decreto Legislativo Regional n.º 6/86/A, de 20 de Janeiro."
+  },
+  "884781058": {
+   "fragment_id": "884806422",
+   "type": 11,
+   "heading": "Artigo 40.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Entrada em vigor\n\nO presente diploma entra em vigor no prazo de 60 dias após a sua publicação."
+  },
+  "884939817": {
+   "fragment_id": "884806390",
+   "type": 11,
+   "heading": "Artigo 14.º — Comissões de serviço e mobilidade",
+   "in_force_from": "2009-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 17/2009/A - Diário da República n.º 199/2009, Série I de 2009-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), em vigor a partir de 2009-10-15"
+   ],
+   "markdown": "###### Artigo 14.º — Comissões de serviço e mobilidade\n\n1 - Para o exercício das funções de gestor podem ser designados, em regime de comissão de serviço, trabalhadores da própria empresa, da empresa mãe, ou de outras relativamente às quais aquela ou a sua empresa mãe exerçam directa ou indirectamente influência dominante, nos termos do regime jurídico do sector empresarial regional.\n\n2 - Podem, ainda, exercer funções de gestor público regional trabalhadores com relação jurídica de emprego público por acordo de cedência de interesse público nos termos da legislação regional em vigor, bem como os trabalhadores de empresas públicas ou privadas por acordo de cedência ocasional nos termos da lei.\n\n3 - O tempo de serviço desempenhado em funções de gestor público regional releva como serviço prestado no quadro de origem, com salvaguarda de todos os direitos inerentes.\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 17/2009/A - Diário da República n.º 199/2009, Série I de 2009-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), em vigor a partir de 2009-10-15"
+  },
+  "884939818": {
+   "fragment_id": "884806402",
+   "type": 11,
+   "heading": "Artigo 23.º — Dissolução por mera conveniência",
+   "in_force_from": "2009-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 17/2009/A - Diário da República n.º 199/2009, Série I de 2009-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), em vigor a partir de 2009-10-15"
+   ],
+   "markdown": "###### Artigo 23.º — Dissolução por mera conveniência\n\n1 - Os órgãos de gestão e de administração das empresas públicas regionais podem ser livremente dissolvidos, ou o gestor público regional livremente demitido, conforme os casos, independentemente dos fundamentos constantes dos artigos anteriores.\n\n2 - A cessação de funções nos termos do número anterior pode ter lugar a qualquer tempo e compete ao órgão de eleição ou nomeação.\n\n3 - Nos casos previstos no presente artigo, o gestor público regional tem direito a uma indemnização correspondente ao vencimento de base que auferiria até ao final do respectivo mandato, com o limite de um ano.\n\n4 - Nos casos de regresso ao exercício de funções ou de aceitação, no prazo a que se refere o número anterior, de função ou cargo no âmbito do sector público administrativo ou empresarial da Região Autónoma dos Açores ou no caso de regresso às funções anteriormente desempenhadas pelos gestores nomeados em regime de comissão de serviço ou de cedência de interesse público, a indemnização eventualmente devida é reduzida ao montante da diferença entre o vencimento como gestor e o vencimento do lugar de origem à data da cessação de funções de gestor, ou do novo vencimento, caso em que deverá ser devolvida a parte da indemnização que eventualmente haja sido paga.\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 17/2009/A - Diário da República n.º 199/2009, Série I de 2009-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), em vigor a partir de 2009-10-15"
+  },
+  "884781059": {
+   "fragment_id": "884806423",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 15 de Abril de 2008.\n\nO Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.\n\nAssinado em Angra do Heroísmo em 7 de Maio de 2008.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, José António Mesquita."
+  },
+  "884939823": {
+   "fragment_id": "884806388",
+   "type": 11,
+   "heading": "Artigo 12.º — Designação dos gestores",
+   "in_force_from": "2014-10-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 19/2014/A - Diário da República n.º 210/2014, Série I de 2014-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2014-58661944), em vigor a partir de 2014-10-31"
+   ],
+   "markdown": "###### Artigo 12.º — Designação dos gestores\n\n1 - Os gestores públicos regionais são escolhidos de entre pessoas com comprovadas idoneidade, capacidade e experiência de gestão, bem como sentido de interesse público.\n\n2 - Os gestores públicos regionais são designados por nomeação ou eleição, sendo que, nos casos de entidade que integre o setor público empresarial da Região Autónoma dos Açores, com participação direta da Região Autónoma dos Açores superior a 50 %, a nomeação deve ser precedida pela audição do indigitado ou proposto para presidente do órgão executivo, em sede de Assembleia Legislativa da Região Autónoma dos Açores.\n\n3 - A nomeação é feita mediante resolução do Conselho do Governo Regional, sob proposta do membro do Governo Regional responsável pela área das finanças e do membro do Governo Regional responsável pelo respetivo setor de atividade, depois de cumprido o disposto no número seguinte.\n\n4 - O gestor público indigitado ou proposto para o cargo de presidente de órgão executivo de entidade que integre o setor público empresarial, com participação direta da Região Autónoma dos Açores superior a 50 %, é, obrigatoriamente, ouvido pela comissão especializada permanente da Assembleia Legislativa da Região Autónoma dos Açores competente em razão da matéria.\n\n5 - Não pode ocorrer a nomeação ou proposta para eleição entre a convocação de eleições para a Assembleia Legislativa da Região Autónoma dos Açores ou a demissão do Governo Regional e a investidura parlamentar do Governo Regional recém-nomeado, salvo se se verificar a vacatura dos cargos em causa e a urgência da designação, caso em que as referidas nomeação ou proposta, de que não tenha ainda resultado eleição, dependem de confirmação pelo Governo Regional recém-nomeado.\n\n6 - A eleição é feita nos termos da lei comercial.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 19/2014/A - Diário da República n.º 210/2014, Série I de 2014-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2014-58661944), em vigor a partir de 2014-10-31"
+  },
+  "884939831": {
+   "fragment_id": "884939893",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Audição pela Assembleia Legislativa da Região Autónoma dos Açores",
+   "in_force_from": "2014-10-31",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 19/2014/A - Diário da República n.º 210/2014, Série I de 2014-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2014-58661944), em vigor a partir de 2014-10-31"
+   ],
+   "markdown": "###### Artigo 12.º-A — Audição pela Assembleia Legislativa da Região Autónoma dos Açores\n\n1 - O processo de audição referido no n.º 2 do artigo anterior inicia-se com a comunicação, pelo Presidente do Governo Regional dos Açores ao Presidente da Assembleia Legislativa da Região Autónoma dos Açores, do nome do indigitado ou proposto e da entidade respetiva, bem como do currículo e outros elementos relevantes para a justificação da proposta.\n\n2 - Recebida a comunicação referida no número anterior, o Presidente da Assembleia Legislativa da Região Autónoma dos Açores, no prazo de três dias úteis, despacha para a comissão especializada permanente, competente em razão da matéria, a fim de ser realizada a respetiva audição.\n\n3 - A comissão especializada permanente respetiva deve proceder à audição no prazo de vinte dias, a contar da data do despacho do Presidente da Assembleia Legislativa da Região Autónoma dos Açores.\n\n4 - A comissão referida no número anterior, ao abrigo das correspondentes normas regimentais, elabora um relatório, do qual deve constar a audição do gestor público indigitado, bem como a posição dos partidos que integrem a comissão sobre a referida audição.\n\n5 - O relatório é obrigatoriamente enviado, no prazo de cinco dias, pelo Presidente da Assembleia Legislativa da Região Autónoma dos Açores ao Presidente do Governo Regional dos Açores, para os devidos efeitos.\n\n6 - Decorridos trinta dias sobre a data da comunicação referida no n.º 1 sem que tenha sido enviado pelo Presidente da Assembleia Legislativa da Região Autónoma dos Açores ao Presidente do Governo Regional dos Açores o relatório da audição, a nomeação poderá concretizar-se mesmo sem este.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 19/2014/A - Diário da República n.º 210/2014, Série I de 2014-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2014-58661944), em vigor a partir de 2014-10-31"
+  },
+  "884939832": {
+   "fragment_id": "884806389",
+   "type": 11,
+   "heading": "Artigo 13.º — Duração do mandato",
+   "in_force_from": "2014-10-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 19/2014/A - Diário da República n.º 210/2014, Série I de 2014-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2014-58661944), em vigor a partir de 2014-10-31"
+   ],
+   "markdown": "###### Artigo 13.º — Duração do mandato\n\n1 - O mandato é exercido, em regra, pelo prazo de três anos, sendo os mandatos dos membros do mesmo órgão de gestão coincidentes.\n\n2 - O mandato pode ser sucessivamente renovado, nos termos do n.º 3 do artigo 12.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 19/2014/A - Diário da República n.º 210/2014, Série I de 2014-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2014-58661944), em vigor a partir de 2014-10-31"
+  },
+  "884939833": {
+   "fragment_id": "884806390",
+   "type": 11,
+   "heading": "Artigo 14.º — Comissões de serviço e mobilidade",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 17/2009/A - Diário da República n.º 199/2009, Série I de 2009-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), em vigor a partir de 2009-10-15"
+   ],
+   "markdown": "###### Artigo 14.º — Comissões de serviço e mobilidade\n\n1 - Para o exercício das funções de gestor podem ser designados, em regime de comissão de serviço, trabalhadores da própria empresa, da empresa mãe, ou de outras relativamente às quais aquela ou a sua empresa mãe exerçam directa ou indirectamente influência dominante, nos termos do regime jurídico do sector empresarial regional.\n\n2 - Podem, ainda, exercer funções de gestor público regional trabalhadores com relação jurídica de emprego público por acordo de cedência de interesse público nos termos da legislação regional em vigor, bem como os trabalhadores de empresas públicas ou privadas por acordo de cedência ocasional nos termos da lei.\n\n3 - O tempo de serviço desempenhado em funções de gestor público regional releva como serviço prestado no quadro de origem, com salvaguarda de todos os direitos inerentes.\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 17/2009/A - Diário da República n.º 199/2009, Série I de 2009-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), em vigor a partir de 2009-10-15"
+  },
+  "884939825": {
+   "fragment_id": "884806405",
+   "type": 11,
+   "heading": "Artigo 25.º — Remuneração fixa e variável",
+   "in_force_from": "2014-10-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 19/2014/A - Diário da República n.º 210/2014, Série I de 2014-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2014-58661944), em vigor a partir de 2014-10-31"
+   ],
+   "markdown": "###### Artigo 25.º — Remuneração fixa e variável\n\n1 - A remuneração dos gestores públicos regionais integra uma componente fixa e pode integrar, no caso dos gestores com funções executivas, uma componente variável.\n\n2 - A remuneração é fixada por deliberação em assembleia geral, no caso das sociedades comerciais, ou por resolução do Conselho do Governo Regional, no caso das entidades públicas empresariais.\n\n3 - A fixação da remuneração é sempre fundamentada e obedece aos critérios estabelecidos no n.º 6.\n\n4 - A competência para a fixação da remuneração pode ainda ser atribuída a uma comissão de fixação de remunerações designada pela assembleia geral, ou através de resolução, nos termos do n.º 2.\n\n5 - Com vista a assegurar a harmonia de critérios no exercício das competências previstas neste artigo relativamente a empresas públicas do mesmo sector de actividade, podem ser constituídas comissões de fixação de remunerações para o mesmo sector de actividade através de resolução do Conselho do Governo Regional.\n\n6 - As componentes fixa e variável da remuneração dos gestores públicos regionais são determinadas, em concreto, em função da complexidade, exigência e responsabilidade inerentes às respectivas funções e atendendo às práticas normais de mercado no respectivo sector de actividade, sem prejuízo das orientações previstas no artigo 4.º do presente diploma.\n\n7 - A componente variável corresponde a um prémio estabelecido, nos termos dos números anteriores, atendendo especialmente ao desempenho de cada gestor público regional e dependendo a sua atribuição, nos termos do artigo 6.º, da efectiva concretização de objectivos previamente determinados.\n\n8 - Nos casos previstos no n.º 1 e na primeira parte do n.º 2 do artigo 14.º, e quando ocorrer autorização expressa do membro do Governo Regional responsável pela área das finanças, os gestores podem optar pela remuneração fixa do lugar de origem, mantendo as regalias ou benefícios remuneratórios que aí detinham, sem prejuízo da componente variável nos termos do número anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 19/2014/A - Diário da República n.º 210/2014, Série I de 2014-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2014-58661944), em vigor a partir de 2014-10-31"
+  }
+ }
+}

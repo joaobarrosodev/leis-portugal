@@ -1,0 +1,263 @@
+---
+schema_version: '1.0'
+id: pt:dre:116043541:por
+title: Decreto Legislativo Regional n.º 13/2018/M
+short_title: null
+summary: Adapta à Região a Lei n.º 91/95, de 2 de setembro, sobre o processo de reconversão das áreas urbanas de génese ilegal,
+  com as alterações introduzidas pela Lei n.º 70/2015, de 16 de julho, definindo os termos aplicáveis à regularização de áreas
+  urbanas de génese ilegal na região
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 13/2018/M
+official_date: null
+publication_date: '2018-08-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 156/2018, Série I de 2018-08-14
+  number: '156'
+  series: I
+  supplement: null
+  pages: 4096 - 4099
+  pdf_url: https://files.diariodarepublica.pt/1s/2018/08/15600/0409604099.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/13/2018/08/14/m/dre/pt/html
+  oj: null
+  dre: '116043541'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/13-2018-116043541
+  internal: pt:dre:116043541:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2018-116043541
+  metadata_url: https://data.dre.pt/eli/declegreg/13/2018/08/14/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2018-116043541
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:42:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0f540253648fdd06317c0af796213577fe43703afc1a4d187911bd28ee4e9542
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:17Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alvará
+- Câmara Municipal
+- Construção Clandestina
+- Definição de Competências
+- Direcção Regional do Ordenamento do Território e Ambiente
+- Habitação
+- Licença de Construção
+- Licença de Loteamento
+- Licenciamento de Obras
+- Loteamento Urbano
+- Madeira.região Autónoma
+- Ordenamento do Território
+- Prédio Urbano
+- Regime Jurídico
+- Renovação Urbana
+- Urbanização
+relationships:
+- type: cites
+  target: pt:dre:140291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: pt:dre:389826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:547220:por
+  label: null
+  source: http://data.dre.pt/eli/lei/91/1995/09/02/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:654940:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69820477:por
+  label: null
+  source: http://data.dre.pt/eli/lei/70/2015/07/16/p/dre
+article_structure:
+  article_count: 15
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:42:17Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 13/2018/M
+
+Reconversão e legalização de áreas urbanas de génese ilegal
+
+Numa significativa parte do País verificou-se a migração de habitantes das zonas rurais para as zonas urbanas por, à partida, subsistir a ideia de uma melhor qualidade de vida e acesso facilitado ao emprego. Este fluxo provocou uma procura pela habitação a baixo custo, associando-se a isto o regresso de muitos portugueses das ex-colónias ultramarinas, fatores que originaram a proliferação de urbanizações, muitas das quais clandestinas e noutros casos mais graves surgiram assentamentos informais e de barracas, desprovidos de qualquer planeamento e sem a necessária qualidade construtiva que garantissem aos moradores conforto térmico, acústico, estético e, em particular, salubridade para uma habitação permanente.
+
+A desorganização urbana destas áreas teve, também, reflexos no espaço público, que é muitas vezes precário e desqualificado, tornando-os em locais ou lugares insalubres e perigosos para a saúde pública, a vários níveis.
+
+Em resultado dos inúmeros inconvenientes causados na qualidade de vida dos residentes nesses locais, em consequência de algumas atividades clandestinas, surgiu no ano de 1976, através do [Decreto-Lei n.º 804/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/804-1976-407335), de 6 de novembro, o primeiro diploma legal que pretendeu introduzir medidas tendentes à legalização de todas as construções de génese ilegal e, em particular, nos grandes centros urbanos, nomeadamente de Lisboa, tendo posteriormente sofrido alterações introduzidas pelo [Decreto-Lei n.º 90/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1977-140291), de 9 de março.
+
+Em 1984, através da [Portaria n.º 243/84](https://diariodarepublica.pt/dr/detalhe/portaria/243-1984-654940), de 17 de abril, foi introduzido um conjunto de normas que pretenderam ultrapassar constrangimentos pela não adequação de muitas das construções clandestinas ao Regulamento Geral de Edificações Urbanas (RGEU), com o objetivo de facilitar a aprovação de projetos de legalização nas áreas destinadas a regeneração em termos urbanísticos.
+
+Não tendo sido suficiente a introdução destes instrumentos para ultrapassar as situações pendentes, em 1995 é aprovada a [Lei n.º 91/95](https://diariodarepublica.pt/dr/detalhe/lei/91-1995-547220), de 2 de setembro, que criou as chamadas Áreas Urbanas de Génese Ilegal (AUGI), pretendendo o diploma estabelecer um regime excecional para a reconversão urbanística destas áreas e assim reduzir significativamente o grosso de todas as construções clandestinas, em particular as que se destinavam a fins habitacionais. Ao longo dos anos, este diploma legal sofreu inúmeras alterações e aperfeiçoamentos, sendo a última alteração de 2015, introduzida pela [Lei n.º 70/2015](https://diariodarepublica.pt/dr/detalhe/lei/70-2015-69820477), de 16 de julho.
+
+Tal como acontece em todo o restante território nacional, na Região também surgiram fenómenos de ocupação descontrolada, desordenada e à margem da lei, de um conjunto de construções urbanas, na sua esmagadora maioria para fins também habitacionais, nas periferias dos centros mais urbanos e nas zonas altas dos municípios mais urbanizados da Madeira. Porém, ao contrário do que sucedeu nas grandes cidades continentais, na Região o fenómeno das construções clandestinas ou de origem ilegal surge associado a problemas relacionados com a titularidade da propriedade ou resultantes de heranças indivisas.
+
+A migração de parte da população das zonas rurais para os municípios do sul da Região à procura de melhores oportunidades de vida, explica também parte do fenómeno da aquisição de prédios em locais cuja capacidade construtiva é mais comprometida e limitada e cujos preços de aquisição tornaram-se, por esta razão, convidativos, não existindo o cuidado por parte dos compradores de saber se as suas pretensões teriam suporte urbanístico no ordenamento municipal.
+
+Além destas questões, a permissividade das autoridades, com tutela no ordenamento do território, e a ocupação descontrolada do território mais periférico e zonas altas, trouxeram problemas de falta de acessos adequados, redes e demais infraestruturas que tornassem estes locais apropriados à vivência humana, hipotecando a qualidade das habitações e as questões de salubridade, situações que se fizeram sentir, também, nos espaços públicos circundantes.
+
+Pelo que existem na Região, e em particular nas periferias das cidades núcleos, áreas ou manchas consideráveis de construções de génese ilegal que importa legalizar, dando assim a possibilidade de requalificar não só espaços já urbanizados, mas também as habitações.
+
+Importa, por isso, adaptar à Região Autónoma a legislação nacional, nomeadamente a [Lei n.º 91/95](https://diariodarepublica.pt/dr/detalhe/lei/91-1995-547220), de 2 de setembro, com as alterações introduzidas pela [Lei n.º 70/2015](https://diariodarepublica.pt/dr/detalhe/lei/70-2015-69820477), de 16 de julho, salvaguardando as especificidades regionais e o interesse local, permitindo assim a criação de um instrumento fulcral para a resolução da maioria dos casos existentes, de maneira a que as populações possam beneficiar da qualificação das suas construções e com elas os espaços públicos envolventes, num investimento conjunto dos residentes, autarquias e da própria Região.
+
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, na alínea c) do n.º 1 do artigo 37.º, na alínea z) do artigo 40.º e no n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, alterado pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto legislativo regional adapta à Região a [Lei n.º 91/95](https://diariodarepublica.pt/dr/detalhe/lei/91-1995-547220), de 2 de setembro, sobre o processo de reconversão das áreas urbanas de génese ilegal, com as alterações introduzidas pela [Lei n.º 70/2015](https://diariodarepublica.pt/dr/detalhe/lei/70-2015-69820477), de 16 de julho, definindo os termos aplicáveis à regularização de áreas urbanas de génese ilegal na região.
+
+###### Artigo 2.º — Adaptações à [Lei n.º 91/95](https://diariodarepublica.pt/dr/detalhe/lei/91-1995-547220), de 2 de setembro
+
+O regime jurídico constante na [Lei n.º 91/95](https://diariodarepublica.pt/dr/detalhe/lei/91-1995-547220), de 2 de setembro, na sua atual redação, aplica-se na Região Autónoma da Madeira, sem prejuízo das adaptações constantes do presente diploma.
+
+###### Artigo 3.º — Âmbito de aplicação
+
+1 - O presente decreto legislativo regional estabelece o regime excecional para a reconversão urbanística das áreas urbanas de génese ilegal (AUGI), na Região Autónoma da Madeira.
+
+2 - Consideram-se AUGI os prédios ou conjuntos de prédios contíguos que, sem a competente licença de loteamento, quando legalmente exigida, tenham sido objeto de operações físicas de parcelamento destinadas à construção até à data da entrada em vigor do [Decreto-Lei n.º 400/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1984-389826), de 31 de dezembro, e que, nos respetivos planos territoriais, estejam classificadas como espaço urbano ou urbanizável, sem prejuízo do disposto na [Lei n.º 70/2015](https://diariodarepublica.pt/dr/detalhe/lei/70-2015-69820477), de 16 de julho, e no presente diploma.
+
+3 - As câmaras municipais podem, a requerimento de qualquer interessado, alterar o processo e a modalidade de reconversão, nos termos previstos na [Lei n.º 70/2015](https://diariodarepublica.pt/dr/detalhe/lei/70-2015-69820477), de 16 de julho e no presente decreto legislativo regional.
+
+###### Artigo 4.º — Processo de reconversão urbanística
+
+Os loteamentos e planos de pormenor previstos na [Lei n.º 70/2015](https://diariodarepublica.pt/dr/detalhe/lei/70-2015-69820477), de 16 de julho, regem-se pelo disposto no presente decreto legislativo regional e, subsidiariamente, pelo disposto no regime jurídico da urbanização e edificação e do regime jurídico dos instrumentos de gestão territorial.
+
+###### Artigo 5.º — Processo de legalização de construções
+
+1 - A legalização de construções nas AUGI é possível, ainda que não tenham sido cumpridas as normas em vigor à data em que foi executada a obra, se forem cumpridas as condições mínimas de habitabilidade definidas na [Portaria n.º 243/84](https://diariodarepublica.pt/dr/detalhe/portaria/243-1984-654940), de 17 de abril, ficando os afastamentos mínimos referidos no artigo 73.º do regulamento geral das edificações urbanas reduzidos a metade, com o mínimo de 1,5 m ao limite de qualquer lote contíguo, tendo por base o previsto na Secção IV - Construções e edificações previstas no Código Civil, nos seus artigos 1360.º, 1361.º, 1362.º, 1363.º, 1364.º e 1365.º
+
+2 - Os afastamentos às vias públicas devem respeitar os afastamentos definidos pelas entidades com a tutela sobre as mesmas, podendo estas definir para as AUGI, alinhamentos e afastamentos mais adequados a cada situação, devendo ser sempre garantido o acesso adequado a veículos de socorro.
+
+3 - A legalização deve observar o previsto nos regulamentos municipais, a que se refere o n.º 7 do artigo 102.º-A do regime jurídico da urbanização e edificação, relativos à concretização dos procedimentos e dos aspetos que envolvam a formulação de valorizações próprias do exercício da função administrativa, nomeadamente, as exigências técnicas cujo cumprimento se tenha tornado impossível ou que não seja razoável exigir.
+
+4 - Para efeitos da aplicação do n.º 5 do artigo 102.º-A do regime jurídico da urbanização e edificação, presume-se que a construção foi realizada na data da respetiva inscrição na matriz, sem prejuízo de o requerente poder ilidir esta presunção.
+
+5 - O instrumento de reconversão estabelece o prazo em que os donos das construções com ele não conformes são obrigados a proceder às alterações necessárias.
+
+6 - A demolição e alteração de qualquer construção para cumprimento do instrumento de reconversão não confere ao respetivo dono direito a indemnização e constitui ónus sujeito a registo predial.
+
+7 - O titular do rendimento de construção inscrita na matriz predial tem legitimidade para promover o processo de legalização.
+
+8 - O processo de licenciamento de alterações a construções existentes para a sua conformação com o instrumento de reconversão segue, com as necessárias adaptações, o processo de legalização previsto nos números anteriores.
+
+###### Artigo 6.º — Competências da comissão de administração
+
+A aprovação das contas anuais, intercalares, cujo movimento do respetivo exercício exceda (euro) 20.000 e a aprovação das contas finais da administração, previstas na alínea d) do n.º 1 do artigo 15.º da [Lei n.º 91/95](https://diariodarepublica.pt/dr/detalhe/lei/91-1995-547220), de 2 de setembro, na sua atual redação, dependem da certificação prévia por revisor oficial de contas ou por uma sociedade de revisores, igualmente a designar pela comissão de administração.
+
+###### Artigo 7.º — Licenciamento da operação de loteamento
+
+As operações de loteamento no âmbito da reconversão de AUGI estão sujeitas ao procedimento de licenciamento previsto no regime jurídico da urbanização e edificação, com as adaptações previstas no presente decreto legislativo regional, e seguem o disposto no artigo 18.º da [Lei n.º 91/95](https://diariodarepublica.pt/dr/detalhe/lei/91-1995-547220), de 2 de setembro, na sua atual redação.
+
+###### Artigo 8.º — Apreciação liminar
+
+A câmara municipal pode, em sede de apreciação liminar, por uma só vez e no prazo de 20 dias a contar da receção do pedido de licença da operação de loteamento ou da apresentação da comunicação prévia das obras de urbanização, solicitar os elementos instrutórios em falta que sejam indispensáveis ao conhecimento do pedido e cuja falta não possa ser oficiosamente suprida.
+
+###### Artigo 9.º — Comunicação prévia de obras de urbanização
+
+As obras de urbanização em área abrangida por operação de loteamento estão sujeitas ao procedimento de comunicação prévia, previsto no regime jurídico da urbanização e edificação, com as adaptações previstas no presente decreto legislativo regional.
+
+###### Artigo 10.º — Áreas insuscetíveis de reconversão urbanística
+
+1 - Até final de 2022, as câmaras municipais elaboram uma carta, que remetem à Direção Regional do Ordenamento do Território e Ambiente, identificando as áreas a que se refere o n.º 7 do artigo 1.º da [Lei n.º 70/2015](https://diariodarepublica.pt/dr/detalhe/lei/70-2015-69820477), de 16 de julho.
+
+2 - Para as áreas referidas no número anterior são elaborados até final de 2024 os estudos da sua reafetação ao uso previsto nos planos territoriais.
+
+3 - No mesmo prazo a que se refere o número anterior, e em simultâneo com o estudo de reafetação, devem ainda as câmaras municipais proceder ao levantamento exaustivo dos agregados familiares que tenham habitação própria permanente nas edificações a desocupar e a demolir e que têm de ser realojados, devendo no recenseamento, designadamente, prever-se a identificação e localização da edificação a demolir, certificar-se a afetação da mesma a habitação própria e permanente do agregado, a identificação e composição deste último e respetivos rendimentos, devendo dar conhecimento disto à entidade pública regional com competência em matéria de habitação e de gestão de parque habitacional.
+
+4 - Aprovado o levantamento pela entidade pública regional com competência em matéria de habitação e de gestão de parque habitacional, os realojamentos poderão ser efetuados com recurso aos instrumentos legais em vigor aplicáveis ao caso, designadamente e em alternativa, através da atribuição pelo município de prioridade nos concursos municipais de habitações a custos controlados para venda ou por via da aplicação do regime para arrendamento em regime de renda apoiada.
+
+###### Artigo 11.º — Comparticipação nos custos das obras de urbanização
+
+A Região e os municípios podem, mediante contrato de urbanização a celebrar com a comissão, comparticipar na realização das obras de urbanização em termos a regulamentar.
+
+###### Artigo 12.º — Informação sobre os processos de reconversão
+
+1 - Com vista à enunciação e elaboração de medidas adequadas à conclusão dos respetivos processos, o município comunica à Direção Regional do Ordenamento do Território e Ambiente, um levantamento rigoroso e exaustivo dos processos de reconversão ainda em curso.
+
+2 - Os municípios devem elaborar o levantamento das AUGI nos termos e condições publicitados pela Direção Regional do Ordenamento do Território e Ambiente, no seu sítio da Internet, no prazo de 30 dias a contar da entrada em vigor do presente decreto legislativo regional, e devem comunicar esses levantamentos às entidades referidas no número anterior, no prazo de um ano a contar dessa publicitação.
+
+3 - A Direção Regional do Ordenamento do Território e Ambiente publicita, ainda, no seu sítio da Internet, no prazo de 90 dias após o termo do prazo para a comunicação dos levantamentos pelos municípios, um relatório com o diagnóstico dos processos de reconversão das AUGI e define eventuais medidas que devam ser adotadas para a sua conclusão.
+
+###### Artigo 13.º — Plano de Formação
+
+A Direção Regional do Ordenamento do Território e Ambiente, em articulação com a Associação de Municípios da Região Autónoma da Madeira, promove um plano de formação para os trabalhadores em funções públicas da administração regional e das autarquias locais, com vista a garantir a aplicação uniforme das disposições legais atinentes à reconversão urbanística de áreas de génese ilegal.
+
+###### Artigo 14.º — Prazos
+
+1 - As AUGI devem dispor de comissão de administração validamente constituída até 31 de dezembro do ano seguinte à entrada em vigor do presente diploma e de título de reconversão até 30 de junho de 2025.
+
+2 - A câmara municipal pode delimitar as AUGI, fixando como respetiva modalidade de reconversão a iniciativa municipal sem o apoio da administração conjunta até 31 de dezembro de 2019.
+
+###### Artigo 15.º — Entrada em vigor
+
+O presente diploma entra em vigor no primeiro dia do terceiro mês seguinte ao da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 14 de junho de 2018.
+
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
+
+Assinado em 2 de agosto de 2018.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+111570553

@@ -1,0 +1,232 @@
+---
+schema_version: '1.0'
+id: pt:dre:392636:por
+title: Resolução n.º 27/79
+short_title: null
+summary: Determina a cessação da intervenção do Estado nas sociedades do grupo Léon Levy
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 27/79
+official_date: null
+publication_date: '1979-01-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 21/1979, Série I de 1979-01-25
+  number: '21'
+  series: I
+  supplement: null
+  pages: 101 - 103
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/01/02100/01010103.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '392636'
+  dre_path: /dr/detalhe/resolucao/27-1979-392636
+  internal: pt:dre:392636:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/27-1979-392636
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/27-1979-392636
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:20:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d2233364a368bc66b36c8a195e6bb398c20338faf107f075aa3cbb9b28abd4e6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:20:48Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Empresa Privada
+- Intervenção do Estado
+- Prorrogação de Prazo
+relationships:
+- type: amended_by
+  target: pt:dre:470851:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:377747:por
+  label: "Prorrogados os prazos fixados nos n.os 8 e 12 do presente diploma, que determina a cessação da intervenção do Estado\
+    \ nas sociedades do grupo Léon Levy, pela RES.253/79.13.08.1979.PCM, DR.IS [186] de 13.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/253-1979-377747
+  date: '1979-08-13'
+- type: amended_by
+  target: pt:dre:470851:por
+  label: "Prorrogados, por 6 meses, os prazos fixados nos n.os 8 e 12 do presente diploma, pela RES.296/80.30.07.1980.PCM,\
+    \ DR.IS [192] de 21.08.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/296-1980-470851
+  date: '1980-07-30'
+- type: cites
+  target: pt:dre:139729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485645:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:20:48Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 27/79
+
+A intervenção do Estado nas sociedades componentes do grupo Léon Levy foi concretizada em sequência da resolução do Conselho de Ministros de 29 de Abril de 1975, por despacho conjunto dos Ministros da Justiça, das Finanças e do Comércio Externo de 5 de Fevereiro de 1976, publicado no Diário do Governo, 2.ª série, n.º 39, de 16 do mesmo mês, que nomeou uma comissão de gestão para as sociedades do grupo Léon Levy e pela Resolução do Conselho de Ministros n.º 35/77, de 27 de Janeiro, publicada no Diário da República, 1.ª série, n.º 37, de 14 de Fevereiro de 1977, que exonerou a comissão de gestão e nomeou uma comissão administrativa para o grupo.
+
+As sociedades referidas, que apresentam potencialidades de índole turística e paraturística dignas de realce, têm, contudo, vindo a confrontar-se com factores desfavoráveis quer de natureza endógena, quer exógena.
+
+Assim sendo, e considerando que:
+
+a) Para os efeitos consignados no [Decreto-Lei n.º 907/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/907-1976-391058), de 31 de Dezembro, foi nomeada, por despacho conjunto dos Ministérios do Plano e Coordenação Económica, das Finanças e do Comércio e Turismo de 15 de Março de 1977, publicado no Diário da República, 2.ª série, de 29 do mesmo mês, uma comissão interministerial, cuja constituição foi sucessivamente alterada pelos despachos conjuntos dos mesmos Ministérios, publicados no Diário da República, 2.ª série, de 10 de Maio e 21 de Julho de 1977;
+
+b) A referida comissão interministerial elaborou, nos termos do [Decreto-Lei n.º 907/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/907-1976-391058), relatório sobre as referidas sociedades visando a cessação da intervenção do Estado nas mesmas, no qual foram tomadas em consideração as propostas apresentadas nos frequentes diálogos com as partes interessadas, designadamente com os corpos gerentes suspensos, os trabalhadores e os investidores;
+
+c) As perspectivas de desenvolvimento do turismo português se apresentam favoráveis e que da situação beneficiarão as actividades que se desenvolvem a montante e jusante deste sector;
+
+d) A análise dos planos de recuperação apresentados quer pela comissão administrativa das sociedades do grupo, quer pelas respectivas administrações suspensas, leva a concluir pela possibilidade de viabilização económico-financeira daquele grupo de sociedades, o que permitirá dispensar certas formas de auxílio a que os mesmas vêm recorrendo;
+
+e) A natureza provisória da gestão não permite simultaneamente estabelecer diagnósticos, identificar aspirações e vocações específicas, fixar objectivos e definir políticas de actuação a curto, médio e longo prazos, ou seja, em resumo, apontar uma estratégia de relançamento do grupo;
+
+f) É, portanto, urgente que a gestão das empresas deixe de ser transitória e incompleta para adquirir características de continuidade e plenitude compatíveis com a dinâmica da economia das empresas, permitindo, desse modo, motivar os trabalhadores, melhorar o aproveitamento dos recursos humanos existentes, suprimindo custos suplementares que a sua subutilização provoca, e admitir os quadros indispensáveis;
+
+g) É necessário melhorar os sistemas de organização do grupo e implantar um sistema de contrôle de gestão, que introduzirá substanciais melhorias na sua economicidade;
+
+h) É necessário relançar a actividade imobiliária turística, estabelecendo planos de actividade industrial e comercial de médio ou longo prazo;
+
+i) A aplicação das medidas preconizadas impõe a concessão do indispensável apoio financeiro intercalar, tanto para a recuperação e reequipamento das instalações actuais como para a conclusão da construção dos investimentos em curso, até à apresentação das condições de viabilização das empresas;
+
+j) É, entretanto, necessário prosseguir as negociações com as entidades financiadoras de modo a conseguir crédito para acabamento dos investimentos mais avançados ou prioritários, os quais permitirão aumentar a capacidade de oferta do grupo e melhorar as condições económicas da sua actividade, nomeadamente pela absorção de postos de trabalho excedentários nas estruturas actuais, diluindo, portanto, os custos fixos e criando novos postos de trabalho;
+
+l) É, ainda, necessário, até à determinação das condições de viabilização das empresas, manter o sistema de moratória que se tem praticado em relação às responsabilidades decorrentes do passivo existente;
+
+m) Os titulares das empresas se declararam dispostos a retomar a sua gestão desde que lhes sejam proporcionados os apoios adequados legalmente admitidos, designadamente na celebração do contrato de viabilização, nos termos do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, e demais legislação subsequente na concessão de crédito financeiro que, devidamente fundamentado, se justificar até à concretização do referido contrato.
+
+Nestas condições:
+
+O Conselho de Ministros, na sua reunião de 10 de Janeiro de 1979, resolveu:
+
+1 - Determinar a cessação da intervenção do Estado, com efeitos a partir da publicação da presente resolução, nas seguintes sociedades:
+
+Nelson - Empresa Turística da Praia Redonda, Lda.
+
+Praia Longa - Sociedade de Empreendimentos Turísticos e Imobiliários, S. A. R. L.
+
+Explotel - Companhia de Exploração de Hotéis, S. A. R. L.
+
+Viturgal - Clube Algarve de Viagens, S. A. R. L.
+
+Abel - Companhia Comercial e Turística de Portugal. S. A. R. L.
+
+Finalgarve - Investimentos Financeiros, S. A. R. L.
+
+Finalgarve - Sociedade de Promoção Imobiliária Turística, S. A. R. L.
+
+Holitel - Sociedade Algarvia de Hotéis da Praia Grande, S. A. R. L.
+
+Findal - Sociedade de Promoção Imobiliária Turística, S. A. R. L.
+
+Belagri - Companhia Comercial e Agrícola de Portugal, S. A. R. L.
+
+2 - Fazer cessar, na mesma data, em consequência do disposto no n.º 1, as funções da comissão administrativa em exercício nesse grupo de sociedades, designada por Resolução do Conselho de Ministros de 27 de Janeiro de 1977, publicada no Diário da República, 1.ª série, n.º 37, de 14 de Fevereiro do mesmo ano, a qual fica, ipso facto, dissolvida.
+
+3 - Levantar a suspensão dos corpos sociais das sociedades indicadas no n.º 1, devendo os conselhos fiscais ser reestruturados, sendo as suas funções exercidas, até à assembleia referida no n.º 6, pelas entidades referidas no n.º 6.2, cuja nomeação se fará imediatamente.
+
+3.1 - Aplicar o disposto no artigo 9.º do [Decreto-Lei n.º 313/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1976-427427), relativamente à suspensão de congelamento dos bens imposta pela resolução do Conselho de Ministros que determinou a intervenção do Estado.
+
+4 - Fixar o prazo até 30 de Abril de 1979, para os corpos sociais das sociedades referidas no n.º 1 apresentarem à instituição bancária maior credora todos os elementos necessários à celebração de um ou mais contratos de viabilização, nos termos do disposto no [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, e demais legislação aplicável.
+
+5 - Instituir imediatamente uma auditoria financeira externa, a designar pelo Ministro da Tutela, a qual ficará a assessorar os conselhos fiscais, perante quem responderá e a quem apresentará os resultados da sua actividade, até à oportunidade em que, por alteração dos respectivos estatutos, as sociedades cumpram a obrigação prevista no n.º 6.3.
+
+6 - Estabelecer que cada uma das sociedades indicadas no n.º 1 proceda, no prazo de sessenta dias a contar da data da publicação desta resolução, à alteração dos respectivos estatutos, neles incluindo obrigatoriamente as seguintes modificações.
+
+6.1 - Autorização para a sociedade emitir obrigações, para subscrição pública, tendo em vista as operações de saneamento financeiro que se mostrem necessárias, independentemente dos limites do artigo 196.º do Código Comercial.
+
+6.2 - Reestruturação do conselho fiscal em termos de um dos seus membros efectivos, até 1980, vir a ser designado pelo Ministério da Tutela, em representação do Estado, outro dos seus membros efectivos, até ao cumprimento das obrigações directamente decorrentes do contrato de viabilização, vir a ser designado pelo Ministério das Finanças e do Plano, em representação da banca credora, e um terceiro membro efectivo vir a ser designado pelos «investidores».
+
+6.2.1 - Para os efeitos do disposto neste número são considerados «investidores» as entidades seguintes:
+
+Titulares de contratos que lhes dêem direito à ocupação temporária de qualquer parcela de um empreendimento turístico-urbanístico, ainda que tal direito de ocupação possa ser substituído pela percepção de um juro ou outro tipo de prestação pecuniária;
+
+Titulares de contratos-promessa de compra e venda ainda não executados, haja ou não concomitante afectação da coisa objecto da promessa à exploração por alguma das sociedades do grupo;
+
+Titulares de propriedades de qualquer parcela de um empreendimento turístico-urbanístico cuja utilização esteja afecta à exploração da actividade de qualquer sociedade do grupo.
+
+6.3 - Instituição de uma auditoria financeira externa, a levar a cabo por entidade independente, estranha ao grupo, a contratar pelo conselho fiscal, mediante parecer favorável do Ministério da Tutela, a qual ficará a assessorar o mesmo, perante quem responderá e a quem apresentará os resultados da sua actividade;
+
+6.4 - No caso específico da Nelson - Empresa Turística da Praia Redonda, Lda., os estatutos deverão, ainda, instituir um órgão de fiscalização, o qual ficará submetido ao disposto no n.º 6.2.
+
+7 - Esclarecer que, para o efeito do disposto nesta resolução, sejam convocadas assembleias gerais extraordinárias das sociedades referidas no n.º 1, com a finalidade de aprovarem as alterações estatutárias referidas no número anterior, eleger novos corpos sociais, se for caso disso, e autorizar as sociedades a proceder a todas as operações de fusão, cisão, transformação e aumento ou redução de capital, as quais deverão estar efectivadas aquando da celebração do contrato de viabilização.
+
+8 - Estabelecer que, até à celebração do contrato de viabilização ou até 30 de Junho de 1979, se entretanto tal contrato não for celebrado, não seja exigido das sociedades referidas no n.º 1 o pagamento das dívidas e respectivos acréscimos legais que se encontrem vencidos à data da desintervenção, ao Estado, autarquias locais, previdência social, banca nacionalizada, salvo se aquelas sociedades puderem dispor, sem prejuízo do seu regular funcionamento, de fundos suficientes para efectuar a sua liquidação.
+
+Em qualquer caso, o não pagamento será justificado, por escrito, junto da entidade credora, com apresentação do calendário de liquidação que a sociedade possa cumprir, sendo as dívidas vencidas perante a banca nacionalizada sempre tituladas.
+
+9 - Determinar que os corpos sociais das sociedades do grupo negoceiem com os investidores, até 31 de Março de 1979, um esquema de regularização da situação destes perante as mesmas sociedades, cujos termos e consequências deverão reflectir-se integralmente no contrato de viabilização.
+
+10 - Estabelecer que o sistema bancário conceda o apoio financeiro transitório, cuja necessidade seja justificada, às sociedades identificadas no n.º 1, até à decisão sobre a sua viabilização, nas seguintes condições:
+
+10.1 - Concessão de apoio financeiro transitório à exploração hoteleira com uma prestação imediata de 6000 contos e entregas posteriores a justificar por orçamentos mensais de tesouraria até ao montante global de 30000 contos, acrescidas dos respectivos encargos financeiros de modo a garantir o funcionamento durante a época baixa, não sendo permitida a cobertura de dívidas anteriores através deste apoio financeiro transitório;
+
+10.2 - Concessão de financiamento imediato de 12000 contos para acabamento dos investimentos em curso, incluídos no «Plano de relançamento dos investimentos turísticos em curso, com coordenação da Enatur», e entregas posteriores escalonadas e com justificação a partir de orçamentos mensais de tesouraria para investimentos até ao montante de 40000 contos, acrescido dos respectivos encargos financeiros.
+
+11 - As operações de financiamento que se integram no apoio financeiro transitório referido no número anterior serão garantidas por hipotecas sobre os bens das empresas, sobre as obras que venham a ser realizadas, ou por quaisquer outras garantias reais ou pessoais aceites pelas entidades financiadoras.
+
+12 - Manter nos termos do n.º 3 do artigo 24.º do [Decreto-Lei n.º 422/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914), na redacção que lhe foi dada pelo [Decreto-Lei n.º 67/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1978-485645), de 5 de Abril, o regime dos artigos 12.º, 13.º e 14.º do mesmo diploma relativamente a todas as sociedades indicadas no n.º 1 até à efectiva outorga dos contratos de viabilização referidos no n.º 4.
+
+13 - Proibir o despedimento de quaisquer trabalhadores das referidas sociedades com fundamento em factos ocorridos até à cessação da intervenção do Estado, salvo os que implicam responsabilidade civil e (ou) criminal dos seus autores, devendo ser assegurados os postos de trabalho, sem prejuízo das medidas previstas na legislação em vigor.
+
+14 - Determinar que, enquanto se mantiver a existência de avales ou quaisquer garantias por parte do Estado a favor das sociedades referidas no n.º 1, a venda ou alienação, a qualquer título, dos bens imóveis propriedade das mesmas, bem como a sua oneração a título diverso do referido no n.º 1.1, depende da prévia autorização do Ministério das Finanças e do Plano, ouvido o conselho fiscal.
+
+15 - Para efeitos de declaração de falência do n.º 1 do artigo 24.º do [Decreto-Lei n.º 422/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914), de 29 de Maio, a comissão de viabilização, expressa e justificadamente, deverá declarar perante os Ministérios das Finanças e do Plano e do Comércio e Turismo a impossibilidade de celebração dos contratos de viabilização, que deverão considerar tanto os aspectos de saneamento económico-financeiro das sociedades como o desenvolvimento integrado das suas actividades futuras.
+
+Presidência do Conselho de Ministros, 10 de Janeiro de 1979. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.

@@ -1,0 +1,186 @@
+---
+schema_version: '1.0'
+id: pt:dre:666127:por
+title: Portaria n.º 297/87
+short_title: null
+summary: Estabelece normas sobre os objectivos do Programa de Drenagem e Conservação do Solo no Alentejo, aprovado pela Comissão
+  das Comunidades Europeias (CCE) ao abrigo dos artigos 5.º, 6.º, 7.º, 8.º, 18.º e 20.º do Regulamento (CEE) n.º 3828/85,
+  que institucionaliza o Programa Específico de Desenvolvimento da Agricultura Portuguesa (PEDAP)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 297/87
+official_date: null
+publication_date: '1987-04-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 84/1987, Série I de 1987-04-10
+  number: '84'
+  series: I
+  supplement: null
+  pages: 1489 - 1491
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/04/08400/14891491.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '666127'
+  dre_path: /dr/detalhe/portaria/297-1987-666127
+  internal: pt:dre:666127:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/297-1987-666127
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/297-1987-666127
+  consolidated_url: null
+  retrieved_at: '2026-10-23T09:04:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1822888faefd2317de5f17a7cb210b646bc330c0aaf96e87102638f914cea453
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:04:31Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agricultura
+- Alentejo
+- Pedap
+- Programa de Drenagem e Conservação do SOLO
+relationships:
+- type: amended_by
+  target: pt:dre:234333:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: repealed_by
+  target: pt:dre:234333:por
+  label: "Revogada pela PORT.6/89.04.01.1989.MAPA, DR.IS [3] de 04.01.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/6-1989-234333
+  date: '1989-01-04'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T09:04:31Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 297/87
+
+de 10 de Abril
+
+Considerando que no âmbito do Regulamento (CEE) n.º [3828/85](https://data.europa.eu/eli/reg/1985/3828/oj?locale=pt), que institucionalizou o Programa Específico de Desenvolvimento da Agricultura Portuguesa (PEDAP), e ao abrigo dos seus artigos 5.º, 6.º, 7.º, 8.º, 18.º e 20.º, foi aprovado pela Comissão das Comunidades Europeias (CCE) o Programa de Drenagem e Conservação do Solo no Alentejo:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Agricultura, Pescas e Alimentação, ao abrigo do artigo 9.º do Decreto-Lei n.º 96/87, de 4 de Março, o seguinte:
+
+1.º O Programa tem por objectivos reduzir perdas nas produções, pela melhoria das condições de drenagem, e combater a erosão hídrica dos solos, por obras do domínio da hidráulica agrícola e ou através da utilização de sistemas culturais que combatam esse tipo de erosão.
+
+A melhoria das condições de drenagem trará um aumento significativo das produções, por um melhor desenvolvimento das plantas, e possibilitará o emprego de uma melhor tecnologia de produção.
+
+A conservação do solo beneficiará, a prazo, variadíssimos aspectos da produção, reduzindo o assoreamento de cursos de água e albufeiras e ajudando a preservar os solos degradados, ao mesmo tempo que melhora a condição poluente das águas de escoamento superficial.
+
+2.º As principais acções a realizar são:
+
+1) No domínio da hidráulica agrícola:
+
+Limpeza e regularização das linhas de drenagem natural;
+
+Abertura de valas de drenagem a céu aberto onde se justifiquem;
+
+Implantação de esquemas de drenagem sub-superficial;
+
+Regularização ou armação dos terrenos baixos, de modo a favorecer a drenagem;
+
+Construção de pequenos pontões ou passagens a vau em locais onde as valas construídas cortam caminhos agrícolas;
+
+Obras de defesa contra a erosão, tais como valas de diversão e obstáculos para controle da velocidade da água;
+
+2) No domínio agronómico:
+
+Delineamento de sistemas alternativos ao uso da terra que incluam a componente económica e conservação do solo.
+
+3.º Os trabalhos de drenagem principal são subsidiados em 80% do seu custo.
+
+Os trabalhos de drenagem das parcelas são subsidiados em 60%, sem prejuízo dos limites fixados no n.º 10.º
+
+As obras de conservação do solo são subsidiadas em 80%, sem prejuízo dos limites fixados no n.º 10.º
+
+As acções no domínio agronómico, nomeadamente o planeamento e a elaboração de planos de exploração, são totalmente subsidiadas.
+
+4.º O Programa aplica-se na área geográfica da Direcção Regional de Agricultura do Alentejo (DRAA) e nas zonas adjacentes pertencentes às bacias hidrográficas a tratar.
+
+5.º O Programa tem a duração prevista de dez anos e dispõe de orçamento aprovado, para uma primeira fase, até finais de 1989.
+
+6.º Os beneficiários serão os empresários agrícolas singulares ou colectivos.
+
+7.º A execução do Programa é liderada pela equipa da Direcção-Geral de Hidráulica e Engenharia Agrícola (DGHEA) que lhe está afecta, em intima colaboração e acordo com a DRAA.
+
+8.º A DRAA indicará ao gestor do Programa um técnico em cada zona agrária, que se encarregará prioritariamente da recepção das intenções de investimento apresentadas no âmbito deste Programa.
+
+Os técnicos das zonas agrárias enviarão essas intenções de investimento ao gestor do Programa, acompanharão a execução dos projectos aprovados na área da sua influência e comunicarão ao gestor a respectiva conclusão.
+
+9.º A fim de possibilitar a preparação eficiente do plano de actividades e o seu orçamento para o ano seguinte, a apresentar no âmbito da programação indicativa constando no Programa, serão observados os seguintes procedimentos e respectiva calendarização:
+
+1) As intenções de investimento apresentadas nas zonas agrárias, acompanhadas da ficha de inscrição preenchida pelos potenciais beneficiários, deverão ser enviadas ao gestor do Programa até 1 de Março;
+
+2) Até 31 de Março o gestor do Programa fará a avaliação e selecção das intenções em carteira e informará os interessados sobre a sua decisão;
+
+3) Os projectos de investimento relativos às intenções seleccionadas, ou anteprojectos contendo descrição e calendarização dos trabalhos a efectuar e respectiva estimativa de custos, deverão estar na posse do gestor até 15 de Junho;
+
+4) O gestor enviará a proposta do plano de actividades e o respectivo orçamento ao coordenador nacional até 30 de Junho. O coordenador nacional fará chegar esses elementos à Direcção-Geral de Planeamento e Agricultura (DGPA) até 15 de Julho;
+
+5) Os projectos definitivos de execução para o ano seguinte deverão estar concluídos e na posse do gestor até 30 de Setembro.
+
+A respectiva aprovação e assinatura dos contratos de concessão de ajudas com os beneficiários deverá concluir-se até 15 de Novembro;
+
+6) Até 15 de Dezembro o gestor fará chegar ao Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) os elementos relativos a cada um dos projectos aprovados que permitam a esta entidade desempenhar as funções que lhe estão atribuídas pelo Decreto-Lei n.º 96/87, de 4 de Março.
+
+10.º A elaboração e execução dos projectos de investimento no âmbito das acções da hidráulica agrícola são da iniciativa e responsabilidade dos beneficiários, os quais poderão recorrer, na medida das disponibilidades, à equipa referida no n.º 7.º desta portaria. Os custos unitários dos trabalhos de drenagem previstos nos projectos de investimento são subsidiados até ao máximo de 300 ECU/ha e os trabalhos de conservação do solo até um máximo de 150 ECU/ha.
+
+11.º A concretização das acções previstas no domínio agronómico, nomeadamente a elaboração de planos de exploração visando a melhoria dos actuais sistemas culturais ou o desenvolvimento de sistemas culturais alternativos e a fornecer aos beneficiários dos investimentos no âmbito da hidráulica agrícola, é da competência exclusiva da equipa referida no n.º 7.º desta portaria. O custo da sua elaboração é elegível pelo Programa até ao máximo de 50 ECU/ha abrangido.
+
+12.º O pagamento aos beneficiários das ajudas a que têm direito será efectuado após conclusão, devidamente certificado pelo gestor, dos investimentos contidos no projecto aprovado.
+
+13.º Excepcionalmente, as intenções de investimento a contemplar ainda em 1987 e as de 1988 deverão ser entregues ao gestor do Programa nos 40 dias úteis posteriores à data da publicação da presente portaria.
+
+O gestor do Programa fará a análise e selecção dessas intenções de investimento no prazo de quinze dias após a sua recepção, devendo estar na posse dos respectivos projectos ou anteprojectos de investimento até 30 de Junho. A proposta do plano de actividades e o respectivo orçamento para 1988 deverão ser entregues na DGPA até 15 de Julho.
+
+Mantêm-se os prazos e procedimentos referidos nos n.os 5) e 6) do n.º 9.º desta portaria.
+
+14.º A fim de permitir conhecimento actualizado sobre a execução do Programa, o gestor enviará mensalmente ao coordenador nacional a informação julgada necessária à concretização desse objectivo.
+
+Ministério da Agricultura, Pescas e Alimentação.
+
+Assinada em 5 de Março de 1987.
+
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.

@@ -1,0 +1,181 @@
+---
+schema_version: '1.0'
+id: pt:dre:390590:por
+title: Portaria n.º 661/93
+short_title: null
+summary: Aprova as áreas a integrar e a excluir da Reserva Ecológica Nacional relativas ao concelho de Vagos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios do Planeamento e da Administração do Território, da Agricultura, das Obras Públicas, Transportes e Comunicações,
+  do Comércio e Turismo e do Ambiente e Recursos Naturais
+proposing_entity: null
+official_number: 661/93
+official_date: null
+publication_date: '1993-07-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 162/1993, Série I-B de 1993-07-13
+  number: '162'
+  series: I
+  supplement: null
+  pages: 3811 - 3812
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/07/162b00/38113812.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/661/1993/07/13/p/dre/pt/html
+  oj: null
+  dre: '390590'
+  dre_path: /dr/detalhe/portaria/661-1993-390590
+  internal: pt:dre:390590:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/661-1993-390590
+  metadata_url: https://data.dre.pt/eli/port/661/1993/07/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/661-1993-390590
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:01:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6524fcbbfdffc6f8c3847b7908fc3b728400342b17ae973b447a05cf8088e0a7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:01:35Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ordenamento do Território
+- Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
+- Vagos
+relationships:
+- type: amended_by
+  target: pt:dre:604808:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:604808:por
+  label: "Aprovada a alteração da delimitação da Reserva Ecológica Nacional do município de Vagos, pela PORT.247/2009.09.03.2009.MAOTDR,\
+    \ DR.IS [47] de 09.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/247-2009-604808
+  date: '2009-03-09'
+- type: amended_by
+  target: pt:dre:119188355:por
+  label: Tornada pública a correção material da carta da Reserva Ecológica Nacional do município de Vagos, aprovada pelo presente
+    diploma, pelo(a) Despacho n.º 1253/2019 - Diário da República n.º 25/2019, Série II de 2019-02-05 que procede à republicação
+    da referida carta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/1253-2019-119188355
+  date: '2019-02-05'
+- type: amended_by
+  target: pt:dre:122071137:por
+  label: Tornada pública a alteração da delimitação da Reserva Ecológica Nacional do município de Vagos, no âmbito das regularizações
+    das explorações pecuárias Vagoleite, Lda. e Isabel Ferreira das Neves, requeridas ao abrigo do RERAE, em Lombomeão, freguesia
+    de Vagos e Santo António e em Ouca, na freguesia de Ouca, respetivamente, com as áreas a excluir identificadas de E1 a
+    E7 e de E8 a E13 na Carta da REN, aprovada pela presente Portaria e procede à republicação da referida carta, pelo(a)
+    Aviso n.º 6658/2019 - Diário da República n.º 72/2019, Série II de 2019-04-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/6658-2019-122071137
+  date: '2019-04-11'
+- type: amended_by
+  target: pt:dre:160201164:por
+  label: Alterada a delimitação da Reserva Ecológica Nacional do município de Vagos e republicada a respetiva carta na versão
+    ora aprovada pelo(a) Aviso n.º 5546/2021 - Diário da República n.º 59/2021, Série II de 2021-03-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/5546-2021-160201164
+  date: '2021-03-25'
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:01:35Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 661/93
+
+de 13 de Julho
+
+Com base em estudos realizados pela Câmara Municipal de Vagos na oportunidade da elaboração do plano director municipal, apresentou a Comissão de Coordenação da Região do Centro, nos termos do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 93/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172), de 19 de Março, uma proposta de delimitação da Reserva Ecológica Nacional para a área daquele concelho, bem como uma proposta de regulamento de ocupação da mesma área.
+
+Sobre as referidas propostas pronunciaram-se favoravelmente a comissão técnica de acompanhamento do plano director municipal e a Comissão da Reserva Ecológica Nacional, ouvidas nos termos do disposto, respectivamente, no n.º 2 e no n.º 1 do preceito acima referido.
+
+Assim, ao abrigo do disposto no n.º 1 do artigo 3.º do [Decreto-Lei n.º 93/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172), de 19 de Março, com a redacção dada pelo [Decreto-Lei n.º 316/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1990-555832), de 13 de Outubro:
+
+Manda o Governo, pelos Ministros do Planeamento e da Administração do Território, da Agricultura, das Obras Públicas, Transportes e Comunicações, do Comércio e Turismo e do Ambiente e Recursos Naturais, o seguinte:
+
+1.º São aprovadas as áreas a integrar e a excluir da Reserva Ecológica Nacional relativas ao concelho de Vagos identificadas na carta publicada em anexo, cujo original fica depositado na sede da Comissão de Coordenação da Região do Centro, em Coimbra.
+
+2.º - 1 - É aprovado o regulamento da Reserva Ecológica Nacional relativo ao concelho de Vagos, que se publica em anexo à presente portaria e que dela faz parte integrante.
+
+2 - O regulamento referido no número anterior integra obrigatoriamente o regulamento do plano director municipal de Vagos.
+
+Ministérios do Planeamento e da Administração do Território, da Agricultura, das Obras Públicas, Transportes e Comunicações, do Comércio e Turismo e do Ambiente e Recursos Naturais.
+
+Assinada em 4 de Junho de 1993.
+
+O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Agricultura, Arlindo Marques da Cunha. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira. - O Ministro do Ambiente e Recursos Naturais, Carlos Albergo Diogo Soares Borrego.
+
+## ANEXO — Reserva Ecológica Nacional - Áreas regulamentadas - Vagos
+
+1 - Integram-se nesta categoria os espaços que, embora incluídos na Reserva Ecológica Nacional, são designados como «potenciais para as infra-estruturas turísticas» (S), a nascente da estrada florestal, de acordo com a planta de ordenamento.
+
+2 - A utilização da área (S) referida no número anterior fica condicionada à elaboração de plano de pormenor a aprovar pela autarquia, nos termos da legislação em vigor.
+
+2.1 - Os estudos referidos no número anterior deverão conter obrigatoriamente projectos de arranjos de espaços exteriores e de estudos de impacte ambiental.
+
+2.2 - O abate das árvores, resultante da implantação destas infra-estruturas turísticas, deve ser reduzido ao mínimo indispensável, não podendo ultrapassar 30% da superfície total de cada empreendimento: terá obrigatoriamente de ser assegurada a manutenção do revestimento florestal adequado em pelo menos 70% da área de ocupação de cada plano de pormenor.
+
+2.3 - As áreas, potenciais para o turismo, referidas no n.º 1 deverão ser dotadas de sistemas de infra-estruturas próprias, designadamente de drenagem de águas residuais e respectivo tratamento.
+
+2.4 - As áreas exteriores e de arruamentos não poderão ser totalmente revestidas com materiais betuminosos, devendo ser utilizada pedra artificial ou natural de modo a não eliminar as áreas de infiltração de águas pluviais no terreno.
+
+2.5 - A área (S) reservada para infra-estruturas turísticas terá uma capacidade máxima potencial de 11000 habitantes, tendo por base uma densidade habitacional média (dm) de 15 habitantes por hectare, definida do seguinte modo:
+
+dm = H/S
+
+em que H é o número de habitantes e S a área total destinada a infra-estruturas turísticas, de acordo com o espaço cartografado na planta de ordenamento.
+
+2.6 - A densidade habitacional a considerar em cada plano de pormenor não pode exceder o valor médio previsto no número anterior, admitindo-se, no entanto, distribuições diferenciadas que poderão atingir a densidade máxima de 60 habitantes por hectare.
+
+2.7 - A altura máxima das construções não pode ultrapassar a altura média da copa das árvores, com um máximo de 10,5 m.
+
+2.8 - Todas as áreas sobrantes afectas a áreas de protecção e zonas verdes previstas reverterão para o domínio público municipal, que acautelará a sua manutenção.
+
+2.9 - Às infra-estruturas turísticas a implantar será vedado o acesso directo à estrada florestal, devendo ser garantida uma faixa de protecção mínima de 50 m.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/162b00/38113812.pdf)

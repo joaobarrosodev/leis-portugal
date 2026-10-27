@@ -1,0 +1,3087 @@
+---
+schema_version: '1.0'
+id: pt:dre:191558:por
+title: Decreto-Lei n.º 398/98
+short_title: null
+summary: Aprova a lei geral tributária que enuncia e define os princípios gerais que regem o direito fiscal português e os
+  poderes da administração tributária e garantias dos contribuintes
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 398/98
+official_date: null
+publication_date: '1998-12-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 290/1998, Série I-A de 1998-12-17
+  number: '290'
+  series: I
+  supplement: null
+  pages: 6872 - 6892
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/12/290a00/68726892.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-07-01'
+version_history:
+  file: decreto-lei-398-98.versoes.json
+  count: 48
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1998-12-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-07-31'
+    amending: pt:dre:353353:por
+    amending_title: Lei n.º 100/99
+    changes:
+    - Altera Artigo 38.º
+    - Altera Artigo 49.º
+    - Altera Artigo 64.º
+    - Altera Artigo 86.º
+    - Altera Artigo 87.º
+    - Altera Artigo 91.º
+    - Altera Artigo 94.º
+    - Entrada Vigor Diploma
+  - date: '2001-01-01'
+    amending: pt:dre:390238:por
+    amending_title: Declaração de Rectificação n.º 8/2001; Lei n.º 30-G/2000
+    changes:
+    - Entrada Vigor Diploma
+    - Retifica Artigo 63.º-B
+    - Retifica Artigo 77.º
+    - Retifica Artigo 88.º
+    - Retifica Artigo 89.º-A
+    - Adita Artigo 63.º-A
+    - Adita Artigo 63.º-B
+    - Adita Artigo 64.º-A
+    - Adita Artigo 89.º-A
+    - Altera Artigo 24.º
+    - Altera Artigo 38.º
+    - Altera Artigo 63.º
+    - Altera Artigo 75.º
+    - Altera Artigo 77.º
+    - Altera Artigo 87.º
+    - Altera Artigo 88.º
+    - Altera Artigo 90.º
+    - Altera Artigo 91.º
+  - date: '2001-07-05'
+    amending: pt:dre:322110:por
+    amending_title: Lei n.º 15/2001
+    changes:
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+    - Altera Artigo 53.º
+    - Entrada Vigor Diploma
+    - Revoga Título V
+  - date: '2002-06-05'
+    amending: pt:dre:533809:por
+    amending_title: Lei n.º 16-A/2002
+    changes:
+    - Altera Artigo 60.º
+    - Entrada Vigor Diploma
+  - date: '2002-11-05'
+    amending: pt:dre:425931:por
+    amending_title: Decreto-Lei n.º 229/2002
+    changes:
+    - Altera Artigo 14.º
+    - Altera Artigo 46.º
+    - Entrada Vigor Diploma
+  - date: '2003-01-01'
+    amending: pt:dre:306915:por
+    amending_title: Decreto-Lei n.º 320-A/2002; Lei n.º 32-B/2002
+    changes:
+    - Altera Artigo 63.º-B
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+    - Altera Artigo 53.º
+    - Altera Artigo 91.º
+    - Entrada Vigor Diploma
+  - date: '2003-07-24'
+    amending: pt:dre:670764:por
+    amending_title: Decreto-Lei n.º 160/2003
+    changes:
+    - Altera Artigo 46.º
+  - date: '2004-01-01'
+    amending: pt:dre:669556:por
+    amending_title: Lei n.º 107-B/2003
+    changes:
+    - Altera Artigo 27.º
+    - Altera Artigo 89.º-A
+  - date: '2005-01-01'
+    amending: pt:dre:689420:por
+    amending_title: Lei n.º 55-B/2004
+    changes:
+    - Adita Artigo 63.º-C
+    - Altera Artigo 19.º
+    - Altera Artigo 45.º
+    - Altera Artigo 48.º
+    - Altera Artigo 60.º
+    - Altera Artigo 63.º
+    - Altera Artigo 63.º-B
+    - Altera Artigo 74.º
+    - Altera Artigo 78.º
+    - Altera Artigo 87.º
+    - Altera Artigo 89.º-A
+  - date: '2005-09-04'
+    amending: pt:dre:245332:por
+    amending_title: Lei n.º 50/2005
+    changes:
+    - Altera Artigo 74.º
+  - date: '2006-01-01'
+    amending: pt:dre:376234:por
+    amending_title: Lei n.º 60-A/2005
+    changes:
+    - Altera Artigo 24.º
+    - Altera Artigo 45.º
+    - Altera Artigo 64.º
+    - Altera Artigo 78.º
+  - date: '2007-01-01'
+    amending: pt:dre:197511:por
+    amending_title: Lei n.º 53-A/2006; Decreto-Lei n.º 238/2006
+    changes:
+    - Altera Artigo 14.º
+    - Altera Artigo 45.º
+    - Altera Artigo 49.º
+    - Altera Artigo 60.º
+    - Altera Artigo 89.º-A
+    - Altera Artigo 54.º
+  - date: '2008-01-01'
+    amending: pt:dre:529450:por
+    amending_title: Lei n.º 67-A/2007
+    changes:
+    - Altera Artigo 44.º
+    - Altera Artigo 52.º
+    - Altera Artigo 102.º
+  - date: '2008-04-26'
+    amending: pt:dre:249976:por
+    amending_title: Lei n.º 19/2008
+    changes:
+    - Altera Artigo 89.º-A
+  - date: '2009-01-01'
+    amending: pt:dre:243747:por
+    amending_title: Lei n.º 64-A/2008
+    changes:
+    - Adita Artigo 68.º-A
+    - Altera Artigo 59.º
+    - Altera Artigo 63.º-A
+    - Altera Artigo 63.º-B
+    - Altera Artigo 68.º
+    - Altera Artigo 87.º
+    - Altera Artigo 89.º-A
+  - date: '2009-09-06'
+    amending: pt:dre:488505:por
+    amending_title: Lei n.º 94/2009
+    changes:
+    - Altera Artigo 63.º
+    - Altera Artigo 63.º-A
+    - Altera Artigo 63.º-B
+    - Altera Artigo 87.º
+    - Altera Artigo 89.º-A
+  - date: '2010-04-29'
+    amending: pt:dre:609990:por
+    amending_title: Lei n.º 3-B/2010
+    changes:
+    - Altera Artigo 44.º
+  - date: '2010-09-03'
+    amending: pt:dre:344257:por
+    amending_title: Lei n.º 37/2010
+    changes:
+    - Altera Artigo 63.º
+    - Altera Artigo 63.º-B
+    - Altera Artigo 63.º-C
+  - date: '2011-01-01'
+    amending: pt:dre:344942:por
+    amending_title: Lei n.º 55-A/2010
+    changes:
+    - Altera Artigo 18.º
+    - Altera Artigo 23.º
+    - Altera Artigo 30.º
+    - Altera Artigo 62.º
+    - Altera Artigo 63.º-A
+    - Altera Artigo 63.º-B
+  - date: '2011-03-02'
+    amending: pt:dre:144217:por
+    amending_title: Decreto-Lei n.º 29-A/2011
+    changes:
+    - Altera Artigo 63.º-A
+  - date: '2012-01-01'
+    amending: pt:dre:243769:por
+    amending_title: Lei n.º 64-B/2011
+    changes:
+    - Adita Artigo 60.º-A
+    - Altera Artigo 19.º
+    - Altera Artigo 23.º
+    - Altera Artigo 43.º
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+    - Altera Artigo 48.º
+    - Altera Artigo 52.º
+    - Altera Artigo 54.º
+    - Altera Artigo 57.º
+    - Altera Artigo 59.º
+    - Altera Artigo 61.º
+    - Altera Artigo 68.º
+    - Altera Artigo 100.º
+  - date: '2012-02-14'
+    amending: pt:dre:543049:por
+    amending_title: Decreto-Lei n.º 32/2012
+    changes:
+    - Altera Artigo 59.º
+  - date: '2012-05-15'
+    amending: pt:dre:552023:por
+    amending_title: Lei n.º 20/2012
+    changes:
+    - Altera Artigo 63.º-A
+    - Altera Artigo 63.º-C
+  - date: '2013-01-01'
+    amending: pt:dre:632448:por
+    amending_title: Lei n.º 66-B/2012
+    changes:
+    - Altera Artigo 19.º
+    - Altera Artigo 45.º
+    - Altera Artigo 49.º
+    - Altera Artigo 52.º
+    - Altera Artigo 60.º
+    - Altera Artigo 63.º-A
+    - Altera Artigo 101.º
+  - date: '2013-06-18'
+    amending: pt:dre:496766:por
+    amending_title: Decreto-Lei n.º 82/2013
+    changes:
+    - Altera Artigo 68.º
+  - date: '2014-01-01'
+    amending: pt:dre:164404:por
+    amending_title: Lei n.º 83-C/2013
+    changes:
+    - Adita Artigo 63.º-D
+    - Altera Artigo 39.º
+    - Altera Artigo 45.º
+    - Altera Artigo 64.º
+    - Altera Artigo 68.º
+    - Altera Artigo 68.º-A
+    - Altera Artigo 75.º
+  - date: '2015-01-01'
+    amending: pt:dre:66022085:por
+    amending_title: Lei n.º 82-E/2014; Lei n.º 82-B/2014
+    changes:
+    - Altera Artigo 19.º
+    - Altera Artigo 22.º
+    - Altera Artigo 28.º
+    - Altera Artigo 45.º
+    - Adita Artigo 64.º-B
+    - Adita Artigo 64.º-C
+    - Altera Artigo 63.º
+    - Altera Artigo 63.º-A
+    - Altera Artigo 63.º-B
+    - Altera Artigo 64.º
+    - Altera Artigo 105.º
+  - date: '2016-03-31'
+    amending: pt:dre:73958532:por
+    amending_title: Lei n.º 7-A/2016
+    changes:
+    - Altera Artigo 49.º
+    - Altera Artigo 63.º-A
+    - Altera Artigo 68.º-B
+    - Altera Artigo 78.º
+  - date: '2016-05-24'
+    amending: pt:dre:74498465:por
+    amending_title: Lei n.º 13/2016
+    changes:
+    - Altera Artigo 49.º
+  - date: '2017-01-01'
+    amending: pt:dre:105637672:por
+    amending_title: Lei n.º 42/2016
+    changes:
+    - Altera Artigo 46.º
+    - Altera Artigo 52.º
+    - Altera Artigo 63.º-D
+    - Altera Artigo 68.º
+  - date: '2017-05-04'
+    amending: pt:dre:106960757:por
+    amending_title: Lei n.º 14/2017
+    changes:
+    - Altera Artigo 63.º-A
+    - Altera Artigo 64.º-B
+  - date: '2017-05-31'
+    amending: pt:dre:107094725:por
+    amending_title: Lei n.º 30/2017
+    changes:
+    - Altera Artigo 64.º
+  - date: '2017-08-23'
+    amending: pt:dre:108030505:por
+    amending_title: Lei n.º 92/2017; Lei n.º 91/2017
+    changes:
+    - Adita Artigo 63.º-E
+    - Altera Artigo 63.º-C
+    - Altera Artigo 63.º-D
+  - date: '2017-08-25'
+    amending: pt:dre:108051987:por
+    amending_title: Lei n.º 98/2017
+    changes:
+    - Altera Artigo 68.º
+  - date: '2018-01-01'
+    amending: pt:dre:114766028:por
+    amending_title: Declaração de Retificação n.º 6/2018; Lei n.º 114/2017
+    changes:
+    - Retifica Artigo 19.º
+    - Altera Artigo 19.º
+    - Altera Artigo 29.º
+    - Altera Artigo 63.º
+    - Altera Artigo 63.º-A
+    - Altera Artigo 63.º-B
+    - Altera Artigo 63.º-D
+  - date: '2018-08-13'
+    amending: pt:dre:115940704:por
+    amending_title: Lei n.º 39/2018
+    changes:
+    - Altera Artigo 59.º
+  - date: '2019-01-01'
+    amending: pt:dre:117537583:por
+    amending_title: Lei n.º 71/2018
+    changes:
+    - Altera Artigo 63.º-A
+  - date: '2019-02-02'
+    amending: pt:dre:118950628:por
+    amending_title: Lei n.º 9/2019
+    changes:
+    - Altera Artigo 43.º
+  - date: '2019-05-04'
+    amending: pt:dre:122217198:por
+    amending_title: Lei n.º 32/2019
+    changes:
+    - Altera Artigo 38.º
+  - date: '2020-04-01'
+    amending: pt:dre:130893436:por
+    amending_title: Lei n.º 2/2020
+    changes:
+    - Adita Artigo 35.º-A
+  - date: '2021-01-01'
+    amending: pt:dre:140950562:por
+    amending_title: Lei n.º 47/2020
+    changes:
+    - Altera Artigo 64.º
+  - date: '2021-02-27'
+    amending: pt:dre:158368130:por
+    amending_title: Lei n.º 7/2021
+    changes:
+    - Adita Artigo 57.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 20.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 31.º
+    - Altera Artigo 49.º
+    - Altera Artigo 57.º
+    - Altera Artigo 59.º
+    - Altera Artigo 63.º-A
+    - Altera Artigo 68.º-A
+    - Altera Artigo 94.º
+    - Altera Artigo 100.º
+    - Altera Artigo 102.º
+    - Altera Artigo 105.º
+  - date: '2022-06-28'
+    amending: pt:dre:185224662:por
+    amending_title: Lei n.º 12/2022
+    changes:
+    - Altera Artigo 57.º-A
+  - date: '2022-07-09'
+    amending: pt:dre:185838981:por
+    amending_title: Decreto-Lei n.º 44/2022
+    changes:
+    - Altera Artigo 19.º
+  - date: '2023-01-01'
+    amending: pt:dre:205557192:por
+    amending_title: Lei n.º 24-D/2022
+    changes:
+    - Altera Artigo 63.º
+  - date: '2024-01-01'
+    amending: pt:dre:835864042:por
+    amending_title: Lei n.º 82/2023
+    changes:
+    - Altera Artigo 40.º
+  - date: '2025-07-01'
+    amending: pt:dre:912653926:por
+    amending_title: Decreto-Lei n.º 49/2025
+    changes:
+    - Altera Artigo 59.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/398/1998/p/cons/20250327/pt/html
+  oj: null
+  dre: '191558'
+  dre_path: /dr/detalhe/decreto-lei/398-1998-191558
+  internal: pt:dre:191558:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1998-191558
+  metadata_url: https://data.dre.pt/eli/dec-lei/398/1998/p/cons/20250327/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-34438775
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-34438775
+  retrieved_at: '2026-10-22T11:42:17Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: e3580fe6dd03fbcb8feb4c37fe865c44da4c567d214fe7cfda876a936ff5e9fc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:42:17Z'
+  notes: 48 versão(ões); histórico completo em decreto-lei-398-98.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Recurso
+- Administração Fiscal
+- Liquidação Judicial
+- Crime
+- Região Autónoma
+- Garantia
+- Modernização Administrativa
+- Código de Processo Tributário
+- Multa
+- Reforma Fiscal
+- Política Fiscal
+- Comissão de Infracções Fiscais
+- Comissão Nacional de Revisão
+- Governo Regional
+- Sistema Judicial
+- Contra-ordenação
+- Contribuinte
+- Criação de Serviços
+- Definição de Competências
+- Direcção Distrital de Finanças
+- Direcção Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros
+- Direcção Geral dos Impostos
+- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Direcção Regional de Finanças
+- Direito Fiscal
+- Direitos e Liberdades
+- Dívida
+- Dívidas ao Estado
+- Domicílio Fiscal
+- Execução Fiscal
+- Fraude Fiscal
+- Garantia do Contribuinte
+- Ministro das Finanças
+- Pagamento
+- Direito à Justiça
+- Informação
+- Infracção Fiscal
+- JURO de MORA
+- Juros
+- Lei Geral Tributária
+- Membros do Governo
+- Pagamento a Prestações
+- Sanção Penal
+- Prazo
+- Prazo Processual
+- Evasão Fiscal
+- Prescrição da Acção
+- Presunção
+- Procedimento Tributário
+- Processo Tributário
+- Madeira.região Autónoma
+- Confidencialidade
+- Prova
+- Reforma Aduaneira
+- Regime Fiscal
+- Regime Geral das Infracções Tributárias
+- Benefícios Fiscais
+- Responsabilidade Tributária
+- Retenção na Fonte
+- Sigilo Bancário
+- Açores
+- Taxa
+- TAXA de JURO
+- Autarquia Local
+- Tributação
+relationships:
+- type: amended_by
+  target: pt:dre:188698:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-b-1999-188698
+  date: '1999-02-27'
+- type: amended_by
+  target: pt:dre:353353:por
+  label: Altera Artigo 38.º; Altera Artigo 49.º; Altera Artigo 64.º; Altera Artigo 86.º; Altera Artigo 87.º; Altera Artigo
+    91.º; Altera Artigo 94.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/100-1999-353353
+  date: '1999-07-26'
+- type: amended_by
+  target: pt:dre:679669:por
+  label: Altera Artigo 38.º; Altera Artigo 49.º; Altera Artigo 64.º; Altera Artigo 86.º; Altera Artigo 87.º; Altera Artigo
+    91.º; Altera Artigo 94.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669
+  date: '2000-04-04'
+- type: amended_by
+  target: pt:dre:212015:por
+  label: Entrada Vigor Diploma; Retifica Artigo 63.º-B; Retifica Artigo 77.º; Retifica Artigo 88.º; Retifica Artigo 89.º-A;
+    Adita Artigo 63.º-A; Adita Artigo 63.º-B; Adita Artigo 64.º-A; Adita Artigo 89.º-A; Altera Artigo 24.º; Altera Artigo
+    38.º; Altera Artigo 63.º; Altera Artigo 75.º; Altera Artigo 77.º; Altera Artigo 87.º; Altera Artigo 88.º; Altera Artigo
+    90.º; Altera Artigo 91.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:390238:por
+  label: Entrada Vigor Diploma; Retifica Artigo 63.º-B; Retifica Artigo 77.º; Retifica Artigo 88.º; Retifica Artigo 89.º-A;
+    Adita Artigo 63.º-A; Adita Artigo 63.º-B; Adita Artigo 64.º-A; Adita Artigo 89.º-A; Altera Artigo 24.º; Altera Artigo
+    38.º; Altera Artigo 63.º; Altera Artigo 75.º; Altera Artigo 77.º; Altera Artigo 87.º; Altera Artigo 88.º; Altera Artigo
+    90.º; Altera Artigo 91.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-2001-390238
+  date: '2001-03-13'
+- type: amended_by
+  target: pt:dre:322110:por
+  label: Altera Artigo 45.º; Altera Artigo 46.º; Altera Artigo 53.º; Entrada Vigor Diploma; Revoga Título V
+  source: https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110
+  date: '2001-06-05'
+- type: amended_by
+  target: pt:dre:533809:por
+  label: Altera Artigo 60.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/16-a-2002-533809
+  date: '2002-05-31'
+- type: amended_by
+  target: pt:dre:425931:por
+  label: Altera Artigo 14.º; Altera Artigo 46.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2002-425931
+  date: '2002-10-31'
+- type: amended_by
+  target: pt:dre:306907:por
+  label: Altera Artigo 63.º-B; Altera Artigo 45.º; Altera Artigo 46.º; Altera Artigo 53.º; Altera Artigo 91.º; Entrada Vigor
+    Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:306915:por
+  label: Altera Artigo 63.º-B; Altera Artigo 45.º; Altera Artigo 46.º; Altera Artigo 53.º; Altera Artigo 91.º; Entrada Vigor
+    Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-a-2002-306915
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:670764:por
+  label: Altera Artigo 46.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2003-670764
+  date: '2003-07-19'
+- type: amended_by
+  target: pt:dre:669556:por
+  label: Altera Artigo 27.º; Altera Artigo 89.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/107-b-2003-669556
+  date: '2003-12-31'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: Adita Artigo 63.º-C; Altera Artigo 19.º; Altera Artigo 45.º; Altera Artigo 48.º; Altera Artigo 60.º; Altera Artigo
+    63.º; Altera Artigo 63.º-B; Altera Artigo 74.º; Altera Artigo 78.º; Altera Artigo 87.º; Altera Artigo 89.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:245332:por
+  label: Altera Artigo 74.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/50-2005-245332
+  date: '2005-08-30'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: Altera Artigo 24.º; Altera Artigo 45.º; Altera Artigo 64.º; Altera Artigo 78.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:552372:por
+  label: Altera Artigo 14.º; Altera Artigo 45.º; Altera Artigo 49.º; Altera Artigo 60.º; Altera Artigo 89.º-A; Altera Artigo
+    54.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2006-552372
+  date: '2006-12-20'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: Altera Artigo 14.º; Altera Artigo 45.º; Altera Artigo 49.º; Altera Artigo 60.º; Altera Artigo 89.º-A; Altera Artigo
+    54.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: Altera Artigo 44.º; Altera Artigo 52.º; Altera Artigo 102.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:249976:por
+  label: Altera Artigo 89.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/19-2008-249976
+  date: '2008-04-21'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: Adita Artigo 68.º-A; Altera Artigo 59.º; Altera Artigo 63.º-A; Altera Artigo 63.º-B; Altera Artigo 68.º; Altera Artigo
+    87.º; Altera Artigo 89.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:488505:por
+  label: Altera Artigo 63.º; Altera Artigo 63.º-A; Altera Artigo 63.º-B; Altera Artigo 87.º; Altera Artigo 89.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/94-2009-488505
+  date: '2009-09-01'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: Altera Artigo 44.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:344257:por
+  label: Altera Artigo 63.º; Altera Artigo 63.º-B; Altera Artigo 63.º-C
+  source: https://diariodarepublica.pt/dr/detalhe/lei/37-2010-344257
+  date: '2010-09-02'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: Altera Artigo 18.º; Altera Artigo 23.º; Altera Artigo 30.º; Altera Artigo 62.º; Altera Artigo 63.º-A; Altera Artigo
+    63.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:144217:por
+  label: Altera Artigo 63.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217
+  date: '2011-03-01'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: Adita Artigo 60.º-A; Altera Artigo 19.º; Altera Artigo 23.º; Altera Artigo 43.º; Altera Artigo 44.º; Altera Artigo
+    45.º; Altera Artigo 46.º; Altera Artigo 48.º; Altera Artigo 52.º; Altera Artigo 54.º; Altera Artigo 57.º; Altera Artigo
+    59.º; Altera Artigo 61.º; Altera Artigo 68.º; Altera Artigo 100.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:543049:por
+  label: Altera Artigo 59.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049
+  date: '2012-02-13'
+- type: amended_by
+  target: pt:dre:552023:por
+  label: Altera Artigo 63.º-A; Altera Artigo 63.º-C
+  source: https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023
+  date: '2012-05-14'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: Altera Artigo 19.º; Altera Artigo 45.º; Altera Artigo 49.º; Altera Artigo 52.º; Altera Artigo 60.º; Altera Artigo
+    63.º-A; Altera Artigo 101.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:496766:por
+  label: Altera Artigo 68.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766
+  date: '2013-06-17'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: Adita Artigo 63.º-D; Altera Artigo 39.º; Altera Artigo 45.º; Altera Artigo 64.º; Altera Artigo 68.º; Altera Artigo
+    68.º-A; Altera Artigo 75.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Altera Artigo 19.º; Altera Artigo 22.º; Altera Artigo 28.º; Altera Artigo 45.º; Adita Artigo 64.º-B; Adita Artigo
+    64.º-C; Altera Artigo 63.º; Altera Artigo 63.º-A; Altera Artigo 63.º-B; Altera Artigo 64.º; Altera Artigo 105.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:66022085:por
+  label: Altera Artigo 19.º; Altera Artigo 22.º; Altera Artigo 28.º; Altera Artigo 45.º; Adita Artigo 64.º-B; Adita Artigo
+    64.º-C; Altera Artigo 63.º; Altera Artigo 63.º-A; Altera Artigo 63.º-B; Altera Artigo 64.º; Altera Artigo 105.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/82-e-2014-66022085
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:73958532:por
+  label: Altera Artigo 49.º; Altera Artigo 63.º-A; Altera Artigo 68.º-B; Altera Artigo 78.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532
+  date: '2016-03-30'
+- type: amended_by
+  target: pt:dre:74498465:por
+  label: Altera Artigo 49.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/13-2016-74498465
+  date: '2016-05-23'
+- type: amended_by
+  target: pt:dre:105637672:por
+  label: Altera Artigo 46.º; Altera Artigo 52.º; Altera Artigo 63.º-D; Altera Artigo 68.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672
+  date: '2016-12-28'
+- type: amended_by
+  target: pt:dre:106960757:por
+  label: Altera Artigo 63.º-A; Altera Artigo 64.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/lei/14-2017-106960757
+  date: '2017-05-03'
+- type: amended_by
+  target: pt:dre:107094725:por
+  label: Altera Artigo 64.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725
+  date: '2017-05-30'
+- type: amended_by
+  target: pt:dre:107791615:por
+  label: Altera Artigo 64.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2017-107791615
+  date: '2017-08-01'
+- type: amended_by
+  target: pt:dre:108030504:por
+  label: Adita Artigo 63.º-E; Altera Artigo 63.º-C; Altera Artigo 63.º-D
+  source: https://diariodarepublica.pt/dr/detalhe/lei/91-2017-108030504
+  date: '2017-08-22'
+- type: amended_by
+  target: pt:dre:108030505:por
+  label: Adita Artigo 63.º-E; Altera Artigo 63.º-C; Altera Artigo 63.º-D
+  source: https://diariodarepublica.pt/dr/detalhe/lei/92-2017-108030505
+  date: '2017-08-22'
+- type: amended_by
+  target: pt:dre:108051987:por
+  label: Altera Artigo 68.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/98-2017-108051987
+  date: '2017-08-24'
+- type: amended_by
+  target: pt:dre:114425586:por
+  label: Retifica Artigo 19.º; Altera Artigo 19.º; Altera Artigo 29.º; Altera Artigo 63.º; Altera Artigo 63.º-A; Altera Artigo
+    63.º-B; Altera Artigo 63.º-D
+  source: https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586
+  date: '2017-12-29'
+- type: amended_by
+  target: pt:dre:114766028:por
+  label: Retifica Artigo 19.º; Altera Artigo 19.º; Altera Artigo 29.º; Altera Artigo 63.º; Altera Artigo 63.º-A; Altera Artigo
+    63.º-B; Altera Artigo 63.º-D
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/6-2018-114766028
+  date: '2018-02-26'
+- type: amended_by
+  target: pt:dre:115940704:por
+  label: Altera Artigo 59.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/39-2018-115940704
+  date: '2018-08-08'
+- type: amended_by
+  target: pt:dre:117537583:por
+  label: Altera Artigo 63.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:118950628:por
+  label: Altera Artigo 43.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/9-2019-118950628
+  date: '2019-02-01'
+- type: amended_by
+  target: pt:dre:122217198:por
+  label: Altera Artigo 38.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/32-2019-122217198
+  date: '2019-05-03'
+- type: amended_by
+  target: pt:dre:130893436:por
+  label: Adita Artigo 35.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436
+  date: '2020-03-31'
+- type: amended_by
+  target: pt:dre:140950562:por
+  label: Altera Artigo 64.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562
+  date: '2020-08-24'
+- type: amended_by
+  target: pt:dre:158368130:por
+  label: Adita Artigo 57.º-A; Altera Artigo 1.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 20.º; Altera Artigo
+    24.º; Altera Artigo 25.º; Altera Artigo 26.º; Altera Artigo 31.º; Altera Artigo 49.º; Altera Artigo 57.º; Altera Artigo
+    59.º; Altera Artigo 63.º-A; Altera Artigo 68.º-A; Altera Artigo 94.º; Altera Artigo 100.º; Altera Artigo 102.º; Altera
+    Artigo 105.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130
+  date: '2021-02-26'
+- type: amended_by
+  target: pt:dre:185224662:por
+  label: Altera Artigo 57.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662
+  date: '2022-06-27'
+- type: amended_by
+  target: pt:dre:185838981:por
+  label: Altera Artigo 19.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2022-185838981
+  date: '2022-07-08'
+- type: amended_by
+  target: pt:dre:205557192:por
+  label: Altera Artigo 63.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192
+  date: '2022-12-30'
+- type: amended_by
+  target: pt:dre:835864042:por
+  label: Altera Artigo 40.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042
+  date: '2023-12-29'
+- type: amended_by
+  target: pt:dre:912653926:por
+  label: Altera Artigo 59.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2025-912653926
+  date: '2025-03-27'
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
+- type: cites
+  target: pt:dre:431227:por
+  label: null
+  source: http://data.dre.pt/eli/lei/41/1998/08/04/p/dre
+- type: cites
+  target: pt:dre:594675:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/154/1991/04/23/p/dre
+article_structure:
+  article_count: 140
+  section_count: 34
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:42:17Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 398/98
+
+A reforma fiscal da tributação directa de 1989 não foi precedida da instituição de uma lei geral tributária que clarificasse os princípios fundamentais do sistema fiscal, as garantias dos contribuintes e os poderes da administração tributária. O Código de Processo Tributário, na esteira do Código de Processo das Contribuições e Impostos, viria a dispor genericamente, no título I, sobre as relações tributárias, especialmente as principais garantias dos contribuintes, mas continua a fazer-se sentir a ausência dessa peça fundamental do sistema fiscal português.
+
+A concentração, clarificação e síntese em único diploma das regras fundamentais do sistema fiscal que só uma lei geral tributária é susceptível de empreender poderão, na verdade, contribuir poderosamente para uma maior segurança das relações entre a administração tributária e os contribuintes, a uniformização dos critérios de aplicação do direito tributário, de que depende a aplicação efectiva do princípio da igualdade, e a estabilidade e coerência do sistema tributário. A imagem de um sistema tributário disperso e contraditório prejudica fortemente a aceitação social das suas normas e, consequentemente, a eficácia do combate à fraude e evasão fiscal.
+
+É tempo de suprir essa lacuna e dotar o sistema tributário português de um meio que o fará aproximar decididamente do sistema tributário das sociedades democráticas mais avançadas. É o que se pretende com a presente lei, cuja aprovação constitui, sem dúvida, um momento fundamental da acção reformadora do Governo, coroando um processo desencadeado a partir de 1996 com o acordo de concertação estratégica e a aprovação do Orçamento do Estado de 1997, onde já vinha prevista a realização de estudos tendentes à aprovação de uma lei geral tributária que clarificasse e sistematizasse os direitos e garantias dos contribuintes e os poderes da administração fiscal, e prosseguido pela Resolução do Conselho de Ministros n.º 119/97, de 14 de Julho, onde, no ponto 8.º, n.º 3, alínea b), se assinala o papel determinante da referida lei na reforma fiscal que o Governo vem empreendendo.
+
+Esse objectivo insere-se, de resto, nos objectivos gerais, enunciados na mesma resolução para a reforma fiscal de transição para o século XXI: estabilidade do sistema; redução das desigualdades na sociedade portuguesa através da redistribuição da carga fiscal; simplificação, modernização e desburocratização da administração fiscal e aduaneira; prossecução, com mais eficácia, da luta contra a evasão e fraude fiscais e aduaneiras; promoção e desenvolvimento sócio-económico sustentável, em particular pela criação de condições favoráveis ao reforço da competitividade, ao crescimento económico e ao emprego e à consolidação e criação de empresas viáveis.
+
+No título I, procede a presente lei, em conformidade com esses objectivos, à definição dos princípios fundamentais da ordem tributária, acolhendo as normas da Constituição fiscal e clarificando as regras de aplicação das leis tributárias no tempo e no espaço. No título II é regulada a relação jurídica tributária, do nascimento à extinção. No título III é regulado o procedimento tributário em ordem à sua adequação ao Código do Procedimento Administrativo e à 4.º revisão da Constituição, que desenvolveu e aprofundou as garantias dos cidadãos. No título IV são definidos os princípios fundamentais, também em harmonia com a 4.º revisão do processo judicial tributário. Finalmente, o título V enuncia os princípios fundamentais do sistema sancionatório tributário.
+
+A presente lei não se limita à sistematização e aperfeiçoamento de normas já existentes, o que já seria relevante tendo em conta a incoerência ou dispersão que ainda caracterizam o actual sistema tributário, mas modifica aspectos fundamentais da relação Fisco-contribuinte, sem prejuízo do reforço de garantias dos contribuintes em termos de sigilo e confidencialidade e sem perversão dos normativos legais em vigor.
+
+São paradigmáticos destes desígnios os seguintes princípios: a consagração da regra geral da transitoriedade dos benefícios fiscais, sujeitando-os a uma avaliação periódica visando impedir a sua transformação em verdadeiros privilégios fiscais; a sujeição a uma regulamentação clara e equilibrada do instituto da responsabilidade subsidiária, incluindo dos administradores ou gerentes, limitando os pressupostos da reversão e libertando, assim, os tribunais tributários de múltiplos casos susceptíveis de resolução meramente administrativa; o encurtamento pontual ou genérico dos prazos de caducidade do direito de liquidação e de prescrição das obrigações tributárias; criação de uma circunstância excepcional de encurtamento do prazo de caducidade do direito de liquidação em caso de fiscalização por iniciativa do sujeito passivo, que será relevante para a vida económica e reestruturação empresarial; a sujeição da possibilidade de adopção de providências cautelares a favor da administração tributária ao princípio da proporcionalidade e à condição de não causarem dano irreparável ao sujeito passivo; a possibilidade de o executado ser isento da prestação de garantia e indemnizado pela prestação de garantia indevida na execução fiscal; o alargamento muito substancial dos deveres de colaboração da administração tributária com o contribuinte; a consagração expressa e regulamentação clara da audiência prévia no procedimento tributário, cuja aplicação efectiva pode reduzir significativamente os litígios; a clarificação dos poderes da fiscalização tributária e sua sujeição expressa ao princípio da proporcionalidade; a definição dos princípios fundamentais da avaliação directa e indirecta da matéria tributável; a substituição das actuais comissões de revisão por um diálogo directo entre o Fisco e o contribuinte, que é susceptível de conferir maior eficácia e independência ao sistema; a clarificação das condições de avaliação indirecta da matéria tributável, explicitando-se os casos em que a administração tributária pode considerar existirem, de acordo com a terminologia dos actuais códigos tributários, indícios fundados de a matéria tributável real não corresponder à declarada, caso em que se invertem as regras gerais do ónus de prova no procedimento tributário.
+
+Tratam-se de exemplos, entre bastantes outros possíveis, de que a presente lei não é a mera reprodução de disposições já existentes mas introduz uma nova filosofia na actividade tributária, assente numa cooperação mais estreita e sólida entre a administração tributária e o contribuinte, ou seja, num contrato de tipo novo, fruto de uma moderna concepção da fiscalidade.
+
+No uso da autorização legislativa concedida pelo artigo 1.º da Lei n.º 41/98, de 4 de Agosto, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º e do n.º 5 do artigo 112.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Aprovação da lei geral tributária
+
+É aprovada a lei geral tributária, em anexo ao presente diploma e que dele faz parte integrante.
+
+###### Artigo 2.º — Revogação de normas do Código de Processo Tributário
+
+1 - Sem prejuízo do disposto no artigo 3.º, n.º 2, são revogados os artigos do Código de Processo Tributário, aprovado pelo artigo 1.º do Decreto-Lei n.º 154/91, de 23 de Abril: artigos 3.º, 4.º, n.º 1, 5.º, 8.º, 9.º, 10.º, 11.º, n.os 1 e 2, 12.º, 13.º, 14.º, 14.º-A, 15.º, 16.º, 17.º, 19.º, 20.º, 21.º, 23.º, 24.º, n.os 1, 2 e 3, 32.º, 33.º, 34.º, 38.º, 48.º, 49.º, n.º 1, 71.º, 72.º, 73.º, 74.º, 78.º, 79.º, 83.º a 90.º-A, 91.º, n.º 2, 93.º, 94.º e 111.º, n.º 1.
+
+2 - A revogação dos artigos 84.º a 90.º-A não prejudica o disposto no artigo 3.º, n.º 2, do presente diploma.
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 7-B/99 - Diário da República n.º 49/1999, Suplemento n.º 2, Série I-A de 1999-02-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-b-1999-188698), em vigor a partir de 1999-01-01
+
+###### Artigo 3.º — Revisão da matéria tributável
+
+1 - O regime da revisão da matéria tributável previsto no presente diploma aplica-se apenas às reclamações apresentadas após a sua entrada em vigor.
+
+2 - O contribuinte pode optar, até à entrada em vigor do novo Código de Processo Tributário, pelo regime de reclamação previsto nos artigos 84.º e seguintes do Código de Processo Tributário vigente.
+
+###### Artigo 4.º — Competências
+
+Para efeitos de regime do processo de revisão da matéria tributável e até à reorganização da Direcção-Geral dos Impostos, são considerados órgãos da administração tributária do domicílio ou sede dos sujeitos passivos os directores distritais de finanças e os directores de finanças das Regiões Autónomas da Madeira e dos Açores.
+
+###### Artigo 5.º — Prazos de prescrição e caducidade
+
+1 - Ao novo prazo de prescrição aplica-se o disposto no artigo 297.º do Código Civil, sem prejuízo do disposto no número seguinte.
+
+2 - Aos impostos já abolidos à data da entrada em vigor da lei geral tributária aplicam-se os novos prazos de prescrição, contando-se para o efeito todo o tempo decorrido, independentemente de suspensões ou interrupções de prazo.
+
+3 - Ao prazo máximo de contagem dos juros de mora previsto na lei geral tributária é aplicável o artigo 297.º do Código Civil.
+
+4 - O disposto no número anterior não se aplica aos regimes excepcionais de pagamento em prestações em vigor.
+
+5 - O novo prazo de caducidade do direito de liquidação dos tributos aplica-se aos factos tributários ocorridos a partir de 1 de Janeiro de 1998.
+
+6 - O disposto no número anterior aplica-se aos prazos previstos nos n.os 1 e 5 do artigo 78.º da lei geral tributária.
+
+###### Artigo 6.º — Entrada em vigor
+
+A presente lei entra em vigor no dia 1 de Janeiro de 1999.
+
+Visto e aprovado em Conselho de Ministros de 28 de Outubro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim.
+
+Promulgado em 30 de Novembro de 1998.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 3 de Dezembro de 1998.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## Anexo — Lei geral tributária
+
+## Título I — Da ordem tributária
+
+### Capítulo I — Princípios gerais
+
+###### Artigo 1.º — Âmbito de aplicação
+
+1 - A presente lei regula as relações jurídico-tributárias, sem prejuízo do disposto no direito da União Europeia e noutras normas de direito internacional que vigorem diretamente na ordem interna ou em legislação especial.
+
+2 - Para efeitos da presente lei, consideram-se relações jurídico-tributárias as estabelecidas entre a administração tributária, agindo como tal, e as pessoas singulares e colectivas e outras entidades legalmente equiparadas a estas.
+
+3 - Integram a administração tributária, para efeitos do número anterior, a Autoridade Tributária e Aduaneira, as demais entidades públicas legalmente incumbidas da liquidação e cobrança dos tributos, o Ministro das Finanças ou outro membro do Governo competente, quando exerçam competências administrativas no domínio tributário, e os órgãos igualmente competentes dos Governos Regionais e das autarquias locais.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+###### Artigo 2.º — Legislação complementar
+
+De acordo com a natureza das matérias, às relações jurídico-tributárias aplicam-se, sucessivamente:
+
+a) A presente lei;
+
+b) O Código de Processo Tributário e os demais códigos e leis tributárias, incluindo a lei geral sobre infracções tributárias e o Estatuto dos Benefícios Fiscais;
+
+c) O Código do Procedimento Administrativo e demais legislação administrativa;
+
+d) O Código Civil e o Código de Processo Civil.
+
+###### Artigo 3.º — Classificação dos tributos
+
+1 - Os tributos podem ser:
+
+a) Fiscais e parafiscais;
+
+b) Estaduais, regionais e locais.
+
+2 - Os tributos compreendem os impostos, incluindo os aduaneiros e especiais, e outras espécies tributárias criadas por lei, designadamente as taxas e demais contribuições financeiras a favor de entidades públicas.
+
+3 - O regime geral das taxas e das contribuições financeiras referidas no número anterior consta de lei especial.
+
+###### Artigo 4.º — Pressupostos dos tributos
+
+1 - Os impostos assentam essencialmente na capacidade contributiva, revelada, nos termos da lei, através do rendimento ou da sua utilização e do património.
+
+2 - As taxas assentam na prestação concreta de um serviço público, na utilização de um bem do domínio público ou na remoção de um obstáculo jurídico ao comportamento dos particulares.
+
+3 - As contribuições especiais que assentam na obtenção pelo sujeito passivo de benefícios ou aumentos de valor dos seus bens em resultado de obras públicas ou da criação ou ampliação de serviços públicos ou no especial desgaste de bens públicos ocasionados pelo exercício de uma actividade são consideradas impostos.
+
+###### Artigo 5.º — Fins da tributação
+
+1 - A tributação visa a satisfação das necessidades financeiras do Estado e de outras entidades públicas e promove a justiça social, a igualdade de oportunidades e as necessárias correcções das desigualdades na distribuição da riqueza e do rendimento.
+
+2 - A tributação respeita os princípios da generalidade, da igualdade, da legalidade e da justiça material.
+
+###### Artigo 6.º — Características da tributação e situação familiar
+
+1 - A tributação directa tem em conta:
+
+a) A necessidade de a pessoa singular e o agregado familiar a que pertença disporem de rendimentos e bens necessários a uma existência digna;
+
+b) A situação patrimonial, incluindo os legítimos encargos, do agregado familiar;
+
+c) A doença, velhice ou outros casos de redução da capacidade contributiva do sujeito passivo.
+
+2 - A tributação indirecta favorece os bens e consumos de primeira necessidade.
+
+3 - A tributação respeita a família e reconhece a solidariedade e os encargos familiares, devendo orientar-se no sentido de que o conjunto dos rendimentos do agregado familiar não esteja sujeito a impostos superiores aos que resultariam da tributação autónoma das pessoas que o constituem.
+
+###### Artigo 7.º — Objectivos e limites da tributação
+
+1 - A tributação favorecerá o emprego, a formação do aforro e o investimento socialmente relevante.
+
+2 - A tributação deverá ter em consideração a competitividade e internacionalização da economia portuguesa, no quadro de uma sã concorrência.
+
+3 - A tributação não discrimina qualquer profissão ou actividade nem prejudica a prática de actos legítimos de carácter pessoal, sem prejuízo dos agravamentos ou benefícios excepcionais determinados por finalidades económicas, sociais, ambientais ou outras.
+
+###### Artigo 8.º — Princípio da legalidade tributária
+
+1 - Estão sujeitos ao princípio da legalidade tributária a incidência, a taxa, os benefícios fiscais, as garantias dos contribuintes, a definição dos crimes fiscais e o regime geral das contra-ordenações fiscais.
+
+2 - Estão ainda sujeitos ao princípio da legalidade tributária:
+
+a) A liquidação e cobrança dos tributos, incluindo os prazos de prescrição e caducidade;
+
+b) A regulamentação das figuras da substituição e responsabilidade tributárias;
+
+c) A definição das obrigações acessórias;
+
+d) A definição das sanções fiscais sem natureza criminal;
+
+e) As regras de procedimento e processo tributário.
+
+###### Artigo 9.º — Acesso à justiça tributária
+
+1 - É garantido o acesso à justiça tributária para a tutela plena e efectiva de todos os direitos ou interesses legalmente protegidos.
+
+2 - Todos os actos em matéria tributária que lesem direitos ou interesses legalmente protegidos são impugnáveis ou recorríveis nos termos da lei.
+
+3 - O pagamento do imposto nos termos de lei que atribua benefícios ou vantagens no conjunto de certos encargos ou condições não preclude o direito de reclamação, impugnação ou recurso, não obstante a possibilidade de renúncia expressa, nos termos da lei.
+
+###### Artigo 10.º — Tributação de rendimentos ou actos ilícitos
+
+O carácter ilícito da obtenção de rendimentos ou da aquisição, titularidade ou transmissão dos bens não obsta à sua tributação quando esses actos preencham os pressupostos das normas de incidência aplicáveis.
+
+### Capítulo II — Normas tributárias
+
+###### Artigo 11.º — Interpretação e integração de lacunas
+
+1 - Na determinação do sentido das normas fiscais e na qualificação dos factos a que as mesmas se aplicam são observadas as regras e princípios gerais de interpretação e aplicação das leis.
+
+2 - Sempre que, nas normas fiscais, se empreguem termos próprios de outros ramos de direito, devem os mesmos ser interpretados no mesmo sentido daquele que aí têm, salvo se outro decorrer directamente da lei.
+
+3 - Persistindo a dúvida sobre o sentido das normas de incidência a aplicar, deve atender-se à substância económica dos factos tributários.
+
+4 - As lacunas resultantes de normas tributárias abrangidas na reserva de lei da Assembleia da República não são susceptíveis de integração analógica.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+###### Artigo 12.º — Aplicação da lei tributária no tempo
+
+1 - As normas tributárias aplicam-se aos factos posteriores à sua entrada em vigor, não podendo ser criados quaisquer tributos retroativos.
+
+2 - Se o facto tributário for de formação sucessiva, a lei nova só se aplica ao período decorrido a partir da sua entrada em vigor.
+
+3 - As normas sobre procedimento e processo são de aplicação imediata, sem prejuízo das garantias, direitos e interesses legítimos anteriormente constituídos dos contribuintes.
+
+4 - Não são abrangidas pelo disposto no número anterior as normas que, embora integradas no processo de determinação da matéria tributável, tenham por função o desenvolvimento das normas de incidência tributária.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+###### Artigo 13.º — Aplicação da lei tributária no espaço
+
+1 - Sem prejuízo de convenções internacionais de que Portugal seja parte e salvo disposição legal em sentido contrário, as normas tributárias aplicam-se aos factos que ocorram no território nacional.
+
+2 - A tributação pessoal abrange ainda todos os rendimentos obtidos pelo sujeito passivo com domicílio, sede ou direcção efectiva em território português, independentemente do local onde sejam obtidos.
+
+###### Artigo 14.º — Benefícios fiscais e outras vantagens de natureza social
+
+1 - A atribuição de benefícios fiscais ou outras vantagens de natureza social concedidas em função dos rendimentos do beneficiário ou do seu agregado familiar depende, nos termos da lei, do conhecimento da situação tributária global do interessado.
+
+2 - Os titulares de benefícios fiscais de qualquer natureza são sempre obrigados a revelar ou a autorizar a revelação à administração tributária dos pressupostos da sua concessão, ou a cumprir outras obrigações previstas na lei ou no instrumento de reconhecimento do benefício, nomeadamente as relativas aos impostos sobre o rendimento, a despesa ou o património, ou às normas do sistema de segurança social, sob pena de os referidos benefícios ficarem sem efeito.
+
+3 - A criação de benefícios fiscais depende da clara definição dos seus objectivos e da prévia quantificação da despesa fiscal.
+
+> Alterado pelo/a Artigo 89.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2002 - Diário da República n.º 252/2002, Série I-A de 2002-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2002-425931), em vigor a partir de 2002-11-05
+
+## Título II — Da relação jurídica tributária
+
+### Capítulo I — Sujeitos da relação jurídica tributária
+
+###### Artigo 15.º — Personalidade tributária
+
+A personalidade tributária consiste na susceptibilidade de ser sujeito de relações jurídicas tributárias.
+
+###### Artigo 16.º — Capacidade tributária
+
+1 - Os actos em matéria tributária praticados pelo representante em nome do representado produzem efeitos na esfera jurídica deste, nos limites dos poderes de representação que lhe forem conferidos por lei ou por mandato.
+
+2 - Salvo disposição legal em contrário, tem capacidade tributária quem tiver personalidade tributária.
+
+3 - Os direitos e os deveres dos incapazes e das entidades sem personalidade jurídica são exercidos, respectivamente, pelos seus representantes, designados de acordo com a lei civil, e pelas pessoas que administrem os respectivos interesses.
+
+4 - O cumprimento dos deveres tributários pelos incapazes não invalida o respectivo acto, sem prejuízo do direito de reclamação, recurso ou impugnação do representante.
+
+5 - Qualquer dos cônjuges pode praticar todos os actos relativos à situação tributária do agregado familiar e ainda os relativos aos bens ou interesses de outro cônjuge, desde que este os conheça e não se lhes tenha expressamente oposto.
+
+6 - O conhecimento e a ausência de oposição expressa referidas no número anterior presumem-se, até prova em contrário.
+
+###### Artigo 17.º — Gestão de negócios
+
+1 - Os actos em matéria tributária que não sejam de natureza puramente pessoal podem ser praticados pelo gestor de negócios, produzindo efeitos em relação ao dono do negócio nos termos da lei civil.
+
+2 - Enquanto a gestão de negócios não for ratificada, o gestor de negócios assume os direitos e deveres do sujeito passivo da relação tributária.
+
+3 - Em caso de cumprimento de obrigações acessórias ou de pagamento, a gestão de negócios presume-se ratificada após o termo do prazo legal do seu cumprimento.
+
+###### Artigo 18.º — Sujeitos
+
+1 - O sujeito activo da relação tributária é a entidade de direito público titular do direito de exigir o cumprimento das obrigações tributárias, quer directamente quer através de representante.
+
+2 - Quando o sujeito activo da relação tributária não for o Estado, todos os documentos emitidos pela administração tributária mencionarão a denominação do sujeito activo.
+
+3 - O sujeito passivo é a pessoa singular ou colectiva, o património ou a organização de facto ou de direito que, nos termos da lei, está vinculado ao cumprimento da prestação tributária, seja como contribuinte directo, substituto ou responsável.
+
+4 - Não é sujeito passivo quem:
+
+a) Suporte o encargo do imposto por repercussão legal, sem prejuízo do direito de reclamação, recurso, impugnação ou de pedido de pronúncia arbitral nos termos das leis tributárias;
+
+b) Deva prestar informações sobre assuntos tributários de terceiros, exibir documentos, emitir laudo em processo administrativo ou judicial ou permitir o acesso a imóveis ou locais de trabalho.
+
+> Alterado pelo/a Artigo 123.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+###### Artigo 19.º — Domicílio fiscal
+
+1 - O domicílio fiscal do sujeito passivo é, salvo disposição em contrário:
+
+a) Para as pessoas singulares, o local da residência habitual;
+
+b) Para as pessoas colectivas, o local da sede ou direcção efectiva ou, na falta destas, do seu estabelecimento estável em Portugal.
+
+2 - O domicílio fiscal integra ainda o domicílio fiscal eletrónico, que inclui o serviço público de notificações eletrónicas associado à morada única digital, bem como a caixa postal eletrónica, nos termos previstos no serviço público de notificações eletrónicas associado à morada única digital e no serviço público de caixa postal eletrónica.
+
+3 - É obrigatória, nos termos da lei, a comunicação do domicílio do sujeito passivo à administração tributária.
+
+4 - É ineficaz a mudança de domicílio enquanto não for comunicada à administração tributária.
+
+5 - Sempre que se altere o estatuto de residência de um sujeito passivo, este deve comunicar, no prazo de 60 dias, tal alteração à administração tributária.
+
+6 - Os sujeitos passivos residentes no estrangeiro, bem como os que, embora residentes no território nacional, se ausentem deste por período superior a seis meses, bem como as pessoas colectivas e outras entidades legalmente equiparadas que cessem a actividade, devem, para efeitos tributários, designar um representante com residência em território nacional.
+
+7 - Independentemente das sanções aplicáveis, depende da designação de representante nos termos do número anterior o exercício dos direitos dos sujeitos passivos nele referidos perante a administração tributária, incluindo os de reclamação, recurso ou impugnação.
+
+8 - O disposto no número anterior não é aplicável, sendo a designação de representante meramente facultativa, em relação a não residentes de, ou a residentes que se ausentem para, Estados membros da União Europeia ou do Espaço Económico Europeu, neste último caso desde que esse Estado membro esteja vinculado a cooperação administrativa no domínio da fiscalidade equivalente à estabelecida no âmbito da União Europeia.
+
+9 - O representante pode renunciar à representação nos termos gerais, mediante comunicação escrita ao representado, enviada para a última morada deste.
+
+10 - A renúncia torna-se eficaz relativamente à Autoridade Tributária e Aduaneira quando lhe for comunicada, devendo esta, no prazo de 90 dias a contar dessa comunicação, proceder às necessárias alterações, desde que tenha decorrido pelo menos um ano desde a nomeação ou tenha sido nomeado novo representante fiscal.
+
+11- A administração tributária poderá rectificar oficiosamente o domicílio fiscal dos sujeitos passivos se tal decorrer dos elementos ao seu dispor.
+
+12 - Os sujeitos passivos do imposto sobre o rendimento das pessoas coletivas com sede ou direção efetiva em território português e os estabelecimentos estáveis de sociedades e outras entidades não residentes, bem como os sujeitos passivos residentes enquadrados no regime normal do imposto sobre o valor acrescentado, são obrigados a possuir caixa postal eletrónica, nos termos do n.º 2, e a comunicá-la à administração tributária no prazo de 30 dias a contar da data do início de atividade ou da data do início do enquadramento no regime normal do imposto sobre o valor acrescentado, quando o mesmo ocorra por alteração.
+
+13 - O Ministro das Finanças regula, por portaria, o regime de obrigatoriedade do domicílio fiscal electrónico dos sujeitos passivos não referidos no n.º 9.
+
+14 - A obrigatoriedade de adesão à caixa postal eletrónica não é aplicável aos sujeitos passivos que adiram ao serviço público de notificações eletrónicas associado à morada única digital ou ao regime de notificações e citações eletrónicas no Portal das Finanças.
+
+15 - A obrigatoriedade de designação de representante fiscal não é aplicável aos sujeitos passivos que adiram ao serviço público de notificações eletrónicas associado à morada única digital, ao regime de notificações e citações eletrónicas no Portal das Finanças ou à caixa postal eletrónica, com exceção do previsto quanto às pessoas coletivas ou a outras entidades legalmente equiparadas que cessem atividade.
+
+16 - O cancelamento da adesão ao serviço público de notificações eletrónicas associado à morada única digital, ao regime de notificações e citações eletrónicas no Portal das Finanças ou à caixa postal eletrónica, relativamente aos sujeitos passivos residentes fora da União Europeia ou do Espaço Económico Europeu, só produz efeitos após a prévia designação de representante fiscal.
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 44/2022 - Diário da República n.º 131/2022, Série I de 2022-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2022-185838981) Determina que o disposto no n.º 14 do presente artigo produz efeitos a partir de 1 de janeiro de 2023.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2022 - Diário da República n.º 131/2022, Série I de 2022-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2022-185838981), em vigor a partir de 2022-07-09
+
+> Retificado pelo/a [Declaração de Retificação n.º 6/2018 - Diário da República n.º 40/2018, Série I de 2018-02-26](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/6-2018-114766028), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 268.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 93/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2017-107791615), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 82-E/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-e-2014-66022085), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 220.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 149.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 40.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+###### Artigo 20.º — Substituição tributária
+
+1 - A substituição tributária verifica-se quando, por imposição da lei, a prestação tributária for exigida a pessoa diferente do contribuinte.
+
+2 - A substituição tributária é efetivada, designadamente, através do mecanismo de retenção na fonte do imposto devido.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+###### Artigo 21.º — Solidariedade passiva
+
+1 - Salvo disposição da lei em contrário, quando os pressupostos do facto tributário se verifiquem em relação a mais de uma pessoa, todas são solidariamente responsáveis pelo cumprimento da dívida tributária.
+
+2 - No caso de liquidação de sociedades de responsabilidade ilimitada ou de outras entidades sujeitas ao mesmo regime de responsabilidade, os sócios ou membros são solidariamente responsáveis, com aquelas e entre si, pelos impostos em dívida.
+
+###### Artigo 22.º — Responsabilidade tributária
+
+1 - A responsabilidade tributária abrange, nos termos fixados na lei, a totalidade da dívida tributária, os juros e demais encargos legais.
+
+2 - Para além dos sujeitos passivos originários, a responsabilidade tributária pode abranger solidária ou subsidiariamente outras pessoas.
+
+3 - A responsabilidade do cônjuge do sujeito passivo é a que decorre da lei civil, sem prejuízo do disposto em lei especial.
+
+4 - A responsabilidade tributária por dívidas de outrem é, salvo determinação em contrário, apenas subsidiária.
+
+5 - As pessoas solidária ou subsidiariamente responsáveis poderão reclamar ou impugnar a dívida cuja responsabilidade lhes for atribuída nos mesmos termos do devedor principal, devendo, para o efeito, a notificação ou citação conter os elementos essenciais da sua liquidação, incluindo a fundamentação nos termos legais.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 82-E/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-e-2014-66022085), em vigor a partir de 2015-01-01
+
+###### Artigo 23.º — Responsabilidade tributária subsidiária
+
+1 - A responsabilidade subsidiária efectiva-se por reversão do processo de execução fiscal.
+
+2 - A reversão contra o responsável subsidiário depende da fundada insuficiência dos bens penhoráveis do devedor principal e dos responsáveis solidários, sem prejuízo do benefício da excussão.
+
+3 - Caso, no momento da reversão, não seja possível determinar a suficiência dos bens penhorados por não estar definido com precisão o montante a pagar pelo responsável subsidiário, o processo de execução fiscal fica suspenso desde o termo do prazo de oposição até à completa excussão do património do executado, sem prejuízo da possibilidade de adopção das medidas cautelares adequadas nos termos da lei.
+
+4 - A reversão, mesmo nos casos de presunção legal de culpa, é precedida de audição do responsável subsidiário nos termos da presente lei e da declaração fundamentada dos seus pressupostos e extensão, a incluir na citação.
+
+5 - O responsável subsidiário fica isento de custas e de juros de mora liquidados no processo de execução fiscal se, citado para cumprir a dívida constante do título executivo, efectuar o respectivo pagamento no prazo de oposição.
+
+6 - O disposto no número anterior não prejudica a manutenção da obrigação do devedor principal ou do responsável solidário de pagarem os juros de mora e as custas, no caso de lhe virem a ser encontrados bens.
+
+7 - O dever de reversão previsto no n.º 3 deste artigo é extensível às situações em que seja solicitada a avocação de processos referida no n.º 2 do artigo 181.º do CPPT, só se procedendo ao envio dos mesmos a tribunal após despacho do órgão da execução fiscal, sem prejuízo da adopção das medidas cautelares aplicáveis.
+
+> Alterado pelo/a Artigo 149.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 123.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+###### Artigo 24.º — Responsabilidade dos membros de corpos sociais e responsáveis técnicos
+
+1 - Os administradores, directores e gerentes e outras pessoas que exerçam, ainda que somente de facto, funções de administração ou gestão em pessoas colectivas e entes fiscalmente equiparados são subsidiariamente responsáveis em relação a estas e solidariamente entre si:
+
+a) Pelas dívidas tributárias cujo facto constitutivo se tenha verificado no período de exercício do seu cargo ou cujo prazo legal de pagamento ou entrega tenha terminado depois deste, quando, em qualquer dos casos, tiver sido por culpa sua que o património da pessoa colectiva ou ente fiscalmente equiparado se tornou insuficiente para a sua satisfação;
+
+b) Pelas dívidas tributárias cujo prazo legal de pagamento ou entrega tenha terminado no período do exercício do seu cargo, quando não provem que não lhes foi imputável a falta de pagamento.
+
+2 - A responsabilidade prevista neste artigo aplica-se aos membros dos órgãos de fiscalização e revisores oficiais de contas nas pessoas colectivas em que os houver, desde que se demonstre que a violação dos deveres tributários destas resultou do incumprimento das suas funções de fiscalização.
+
+3 - A responsabilidade prevista neste artigo aplica-se aos contabilistas certificados desde que se demonstre a violação dolosa dos deveres de assunção de responsabilidade pela regularização técnica nas áreas contabilística e fiscal ou de assinatura de declarações fiscais, demonstrações financeiras e seus anexos.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+> Alterado pelo/a Artigo 57.º do/a [Lei n.º 60-A/2005 - Diário da República n.º 250/2005, 1º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2005-376234), em vigor a partir de 2006-01-01
+
+> Alterado pelo/a Artigo 13.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, Suplemento n.º 3, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01
+
+###### Artigo 25.º — Responsabilidade do titular de estabelecimento individual de responsabilidade limitada
+
+1 - Pelas dívidas tributárias do estabelecimento individual de responsabilidade limitada respondem apenas os bens a este afetos.
+
+2 - Sem prejuízo do disposto no artigo anterior, em caso de insolvência do estabelecimento individual de responsabilidade limitada por causa relacionada com a atividade do seu titular, responderão todos os seus bens, salvo se ele provar que o princípio da separação patrimonial foi devidamente observado na sua gestão.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+###### Artigo 26.º — Responsabilidade dos liquidatários das sociedades
+
+1 - Na liquidação de qualquer sociedade, devem os liquidatários começar por satisfazer as dívidas tributárias, sob pena de ficarem pessoal e solidariamente responsáveis pelas importâncias respetivas.
+
+2 - A responsabilidade prevista no número anterior fica excluída em caso de dívidas da sociedade que gozem de preferência sobre os débitos fiscais.
+
+3 - Quando a liquidação ocorra em processo de insolvência, devem os liquidatários satisfazer os débitos tributários em conformidade com a ordem prescrita na sentença de verificação e graduação dos créditos nele proferida.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+###### Artigo 27.º — Responsabilidade de gestores de bens ou direitos de não residentes
+
+1 - Os gestores de bens ou direitos de não residentes sem estabelecimento estável em território português são solidariamente responsáveis em relação a estes e entre si por todas as contribuições e impostos do não residente relativos ao exercício do seu cargo.
+
+2 - Para os efeitos do presente artigo, consideram-se gestores de bens ou direitos todas aquelas pessoas singulares ou colectivas que assumam ou sejam incumbidas, por qualquer meio, da direcção de negócios de entidade não residente em território português, agindo no interesse e por conta dessa entidade.
+
+3 - O representante fiscal do não residente, quando pessoa diferente do gestor dos bens ou direitos, deve obter a identificação deste e apresentá-la à administração tributária, bem como informar no caso da sua inexistência, presumindo-se, salvo prova em contrário, gestor dos bens ou direitos na falta destas informações.
+
+> Alterado pelo/a Artigo 44.º do/a [Lei n.º 107-B/2003 - Diário da República n.º 301/2003, 2º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/lei/107-b-2003-669556), em vigor a partir de 2004-01-01, produz efeitos a partir de 2004-01-01
+
+###### Artigo 28.º — Responsabilidade em caso de substituição tributária
+
+1 - Em caso de substituição tributária, a entidade obrigada à retenção é responsável pelas importâncias retidas e não entregues nos cofres do Estado, ficando o substituído desonerado de qualquer responsabilidade no seu pagamento, sem prejuízo do disposto nos números seguintes.
+
+2 - Quando a retenção tiver a natureza de pagamento por conta do imposto devido a final, cabe ao substituído a responsabilidade originária pelo imposto não retido e ao substituto a responsabilidade subsidiária, ficando este ainda sujeito aos juros compensatórios devidos desde o termo do prazo de entrega até ao termo do prazo para apresentação da declaração pelo responsável originário ou até à data da entrega do imposto retido, se anterior.
+
+3 - Nos restantes casos, o substituído é apenas subsidiariamente responsável pelo pagamento da diferença entre as importâncias que deveriam ter sido deduzidas e as que efectivamente o foram.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 82-E/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-e-2014-66022085), em vigor a partir de 2015-01-01
+
+###### Artigo 29.º — Transmissão dos créditos e obrigações tributárias
+
+1 - Os créditos tributários não são susceptíveis de cessão a terceiros, salvo nos casos previstos na lei.
+
+2 - As obrigações tributárias originárias e subsidiárias transmitem-se, mesmo que não tenham sido ainda liquidadas, em caso de sucessão universal por morte, sem prejuízo do benefício do inventário.
+
+3 - As obrigações tributárias não são susceptíveis de transmissão inter vivos, salvo nos casos previstos na lei.
+
+4 - O disposto no n.º 1 não obsta a que o pagamento de um crédito resultante de atos de liquidação de imposto seja efetuado a pessoa diferente do sujeito passivo desde que este expressamente o autorize, mediante requerimento a efetuar à Autoridade Tributária e Aduaneira, sem prejuízo dos mecanismos de cobrança ou de constituição de garantias previstos na lei.
+
+> Alterado pelo/a Artigo 268.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+### Capítulo II — Objecto da relação jurídica tributária
+
+###### Artigo 30.º — Objecto da relação jurídica tributária
+
+1 - Integram a relação jurídica tributária:
+
+a) O crédito e a dívida tributários;
+
+b) O direito a prestações acessórias de qualquer natureza e o correspondente dever ou sujeição;
+
+c) O direito à dedução, reembolso ou restituição do imposto;
+
+d) O direito a juros compensatórios;
+
+e) O direito a juros indemnizatórios.
+
+2 - O crédito tributário é indisponível, só podendo fixar-se condições para a sua redução ou extinção com respeito pelo princípio da igualdade e da legalidade tributária.
+
+3 - O disposto no número anterior prevalece sobre qualquer legislação especial.
+
+> Alterado pelo/a Artigo 123.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+###### Artigo 31.º — Obrigações dos sujeitos passivos
+
+1 - Constitui obrigação principal do sujeito passivo efectuar o pagamento da dívida tributária.
+
+2 - São obrigações acessórias do sujeito passivo, designadamente, as que visam possibilitar o apuramento da obrigação de imposto, nomeadamente a apresentação de declarações, a exibição de documentos fiscalmente relevantes, incluindo a contabilidade ou escrita, e a prestação de informações.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+###### Artigo 32.º — Dever de boa prática tributária
+
+Aos representantes de pessoas singulares e quaisquer pessoas que exerçam funções de administração em pessoas colectivas ou entes fiscalmente equiparados incumbe, nessa qualidade, o cumprimento dos deveres tributários das entidades por si representadas.
+
+###### Artigo 33.º — Pagamento por conta
+
+As entregas pecuniárias antecipadas que sejam efectuadas pelos sujeitos passivos no período de formação do facto tributário constituem pagamento por conta do imposto devido a final.
+
+###### Artigo 34.º — Retenções na fonte
+
+As entregas pecuniárias efectuadas por dedução nos rendimentos pagos ou postos à disposição do titular pelo substituto tributário constituem retenção na fonte.
+
+###### Artigo 35.º — Juros compensatórios
+
+1 - São devidos juros compensatórios quando, por facto imputável ao sujeito passivo, for retardada a liquidação de parte ou da totalidade do imposto devido ou a entrega de imposto a pagar antecipadamente, ou retido ou a reter no âmbito da substituição tributária.
+
+2 - São também devidos juros compensatórios quando o sujeito passivo, por facto a si imputável, tenha recebido reembolso superior ao devido.
+
+3 - Os juros compensatórios contam-se dia a dia desde o termo do prazo de apresentação da declaração, do termo do prazo de entrega do imposto a pagar antecipadamente ou retido ou a reter, até ao suprimento, correcção ou detecção da falta que motivou o retardamento da liquidação.
+
+4 - Para efeitos do número anterior, em caso de inspecção, a falta considera-se suprida ou corrigida a partir do auto de notícia.
+
+5 - Se a causa dos juros compensatórios for o recebimento de reembolso indevido, estes contam-se a partir deste até à data do suprimento ou correcção da falta que o motivou.
+
+6 - Para efeitos do presente artigo, considera-se haver sempre retardamento da liquidação quando as declarações de imposto forem apresentadas fora dos prazos legais.
+
+7 - Os juros compensatórios só são devidos pelo prazo máximo de 180 dias no caso de erro do sujeito passivo evidenciado na declaração ou, em caso de falta apurada em acção de fiscalização, até aos 90 dias posteriores à sua conclusão.
+
+8 - Os juros compensatórios integram-se na própria dívida do imposto, com a qual são conjuntamente liquidados.
+
+9 - A liquidação deve sempre evidenciar claramente o montante principal da prestação e os juros compensatórios, explicando com clareza o respectivo cálculo e distinguindo-os de outras prestações devidas.
+
+10 - A taxa dos juros compensatórios é equivalente à taxa dos juros legais fixados nos termos do n.º 1 do artigo 559.º do Código Civil.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 7-B/99 - Diário da República n.º 49/1999, Suplemento n.º 2, Série I-A de 1999-02-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-b-1999-188698), em vigor a partir de 1999-01-01
+
+###### Artigo 35.º-A — Acerto de contas
+
+O sujeito passivo classificado como micro ou pequena empresa, nos termos do artigo 2.º do anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, que, aquando do pagamento de obrigações tributárias, detenha créditos tributários vencidos e não pagos, pode usufruir do respetivo acerto de contas, devendo pagar apenas a diferença entre o valor a receber e a pagar.
+
+> Aditado pelo/a Artigo 364.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+### Capítulo III — Constituição e alteração da relação jurídica tributária
+
+###### Artigo 36.º — Regras gerais
+
+1 - A relação jurídica tributária constitui-se com o facto tributário.
+
+2 - Os elementos essenciais da relação jurídica tributária não podem ser alterados por vontade das partes.
+
+3 - A administração tributária não pode conceder moratórias no pagamento das obrigações tributárias, salvo nos casos expressamente previstos na lei.
+
+4 - A qualificação do negócio jurídico efectuada pelas partes, mesmo em documento autêntico, não vincula a administração tributária.
+
+5 - A administração tributária pode subordinar a atribuição de benefícios fiscais ou a aplicação de regimes fiscais de natureza especial, que não sejam de concessão inteiramente vinculada, ao cumprimento de condições por parte do sujeito passivo, inclusivamente, nos casos previstos na lei, por meio de contratos fiscais.
+
+###### Artigo 37.º — Contratos fiscais
+
+1 - Caso os benefícios fiscais sejam constituídos por contrato fiscal, a tributação depende da sua caducidade ou resolução nos termos previstos na lei.
+
+2 - A lei pode prever que outros contratos sejam celebrados entre a Administração e o contribuinte, sempre com respeito pelos princípios da legalidade, da igualdade, da boa fé e da indisponibilidade do crédito tributário.
+
+###### Artigo 38.º — Ineficácia de actos e negócios jurídicos
+
+1 - A ineficácia dos negócios jurídicos não obsta à tributação, no momento em que esta deva legalmente ocorrer, caso já se tenham produzido os efeitos económicos pretendidos pelas partes.
+
+2 - As construções ou séries de construções que, tendo sido realizadas com a finalidade principal ou uma das finalidades principais de obter uma vantagem fiscal que frustre o objeto ou a finalidade do direito fiscal aplicável, sejam realizadas com abuso das formas jurídicas ou não sejam consideradas genuínas, tendo em conta todos os factos e circunstâncias relevantes, são desconsideradas para efeitos tributários, efetuando-se a tributação de acordo com as normas aplicáveis aos negócios ou atos que correspondam à substância ou realidade económica e não se produzindo as vantagens fiscais pretendidas.
+
+3 - Para efeitos do número anterior considera-se que:
+
+a) Uma construção ou série de construções não é genuína na medida em que não seja realizada por razões económicas válidas que reflitam a substância económica;
+
+b) Uma construção pode ser constituída por mais do que uma etapa ou parte.
+
+4 - Para efeitos de aplicação do disposto no n.º 2, nos casos em que da construção ou série de construções tenha resultado a não aplicação de retenção na fonte com caráter definitivo, ou uma redução do montante do imposto retido a título definitivo, considera-se que a correspondente vantagem fiscal se produz na esfera do beneficiário do rendimento, tendo em conta os negócios ou atos que correspondam à substância ou realidade económica.
+
+5 - Sem prejuízo do número anterior, quando o substituto tenha ou devesse ter conhecimento daquela construção ou série de construções, devem aplicar-se as regras gerais de responsabilidade em caso de substituição tributária.
+
+6 - Em caso de aplicação do disposto no n.º 2, os juros compensatórios que sejam devidos, nos termos do artigo 35.º, são majorados em 15 pontos percentuais, sem prejuízo do disposto no Regime Geral das Infrações Tributárias, aprovado pela Lei n.º 15/2011, de 5 de junho, na sua redação atual.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 32/2019 - Diário da República n.º 85/2019, Série I de 2019-05-03](https://diariodarepublica.pt/dr/detalhe/lei/32-2019-122217198), em vigor a partir de 2019-05-04
+
+> Alterado pelo/a Artigo 13.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, Suplemento n.º 3, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01
+
+> Alterado pelo/a Artigo único do/a [Lei n.º 100/99 - Diário da República n.º 172/1999, Série I-A de 1999-07-26](https://diariodarepublica.pt/dr/detalhe/lei/100-1999-353353), em vigor a partir de 1999-07-31
+
+###### Artigo 39.º — Simulação dos negócios jurídicos
+
+1 - Em caso de simulação de negócio jurídico, a tributação recai sobre o negócio jurídico real e não sobre o negócio jurídico simulado.
+
+2 - (Revogado).
+
+> Alterado pelo/a Artigo 216.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+### Capítulo IV — Extinção da relação jurídica tributária
+
+#### Secção I — Pagamento da prestação tributária
+
+###### Artigo 40.º — Pagamento e outras formas de extinção das prestações tributárias
+
+1 - As prestações tributárias são pagas em moeda corrente ou por cheque, débito em conta, transferência conta a conta e vale postal ou por outros meios utilizados pelos serviços dos correios ou pelas instituições de crédito que a lei expressamente autorize.
+
+2 - O pagamento, por pessoas coletivas, de prestações tributárias e quaisquer outros créditos cobrados pela Autoridade Tributária e Aduaneira, são exclusivamente efetuados por meios de pagamento eletrónico, independentemente de se encontrarem previstos meios de pagamento específicos na legislação especial relativa a cada tributo.
+
+3 - A dação em cumprimento e a compensação são admitidas nos casos expressamente previstos na lei.
+
+4 - Os contribuintes ou terceiros que efectuem o pagamento devem indicar os tributos e períodos de tributação a que se referem.
+
+5 - Sem prejuízo do disposto no n.º 6, em caso de o montante a pagar ser inferior ao devido, o pagamento é sucessivamente imputado pela seguinte ordem a:
+
+a) Juros moratórios;
+
+b) Outros encargos legais;
+
+c) Dívida tributária, incluindo juros compensatórios;
+
+d) Coimas.
+
+6 - Tratando-se de dívidas de recursos próprios tradicionais da União Europeia, o pagamento é sucessivamente imputado pela seguinte ordem a:
+
+a) Dívida tributária, incluindo juros compensatórios;
+
+b) Juros moratórios;
+
+c) Outros encargos legais.
+
+> Alterado pelo/a Artigo 266.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-07-01
+
+###### Artigo 41.º — Pagamento por terceiro
+
+1 - O pagamento das dívidas tributárias pode ser realizado pelo devedor ou por terceiro.
+
+2 - O terceiro que proceda ao pagamento das dívidas tributárias após o termo do prazo do pagamento voluntário fica sub-rogado nos direitos da administração tributária, desde que tenha previamente requerido a declaração de sub-rogação e obtido autorização do devedor ou prove interesse legítimo.
+
+###### Artigo 42.º — Pagamento em prestações
+
+1 - O devedor que não possa cumprir integralmente e de uma só vez a dívida tributária pode requerer o pagamento em prestações, nos termos que a lei fixar.
+
+2 - O disposto no número anterior não se aplica, nos termos da lei, às quantias retidas na fonte ou legalmente repercutidas a terceiros ou ainda quando o pagamento do imposto seja condição da entrega ou transmissão dos bens.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-07-01
+
+###### Artigo 43.º — Pagamento indevido da prestação tributária
+
+1 - São devidos juros indemnizatórios quando se determine, em reclamação graciosa ou impugnação judicial, que houve erro imputável aos serviços de que resulte pagamento da dívida tributária em montante superior ao legalmente devido.
+
+2 - Considera-se também haver erro imputável aos serviços nos casos em que, apesar de a liquidação ser efectuada com base na declaração do contribuinte, este ter seguido, no seu preenchimento, as orientações genéricas da administração tributária, devidamente publicadas.
+
+3 - São também devidos juros indemnizatórios nas seguintes circunstâncias:
+
+a) Quando não seja cumprido o prazo legal de restituição oficiosa dos tributos;
+
+b) Em caso de anulação do acto tributário por iniciativa da administração tributária, a partir do 30.º dia posterior à decisão, sem que tenha sido processada a nota de crédito;
+
+c) Quando a revisão do acto tributário por iniciativa do contribuinte se efectuar mais de um ano após o pedido deste, salvo se o atraso não for imputável à administração tributária.
+
+d) Em caso de decisão judicial transitada em julgado que declare ou julgue a inconstitucionalidade ou ilegalidade da norma legislativa ou regulamentar em que se fundou a liquidação da prestação tributária e que determine a respetiva devolução.
+
+4 - A taxa dos juros indemnizatórios é igual à taxa dos juros compensatórios.
+
+5 - No período que decorre entre a data do termo do prazo de execução espontânea de decisão judicial transitada em julgado e a data da emissão da nota de crédito, relativamente ao imposto que deveria ter sido restituído por decisão judicial transitada em julgado, são devidos juros de mora a uma taxa equivalente ao dobro da taxa dos juros de mora definida na lei geral para as dívidas ao Estado e outras entidades públicas.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 9/2019 - Diário da República n.º 23/2019, Série I de 2019-02-01](https://diariodarepublica.pt/dr/detalhe/lei/9-2019-118950628), em vigor a partir de 2019-02-02
+
+> Alterado pelo/a Artigo 149.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 44.º — Falta de pagamento da prestação tributária
+
+1 - São devidos juros de mora quando o sujeito passivo não pague o imposto devido no prazo legal.
+
+2 - Os juros de mora aplicáveis às dívidas tributárias são devidos até à data do pagamento da dívida.
+
+3 - A taxa de juros de mora é a definida na lei geral para as dívidas ao Estado e outras entidades públicas, excepto no período que decorre entre a data do termo do prazo de execução espontânea de decisão judicial transitada em julgado e a data do pagamento da dívida relativamente ao imposto que deveria ter sido pago por decisão judicial transitada em julgado, em que será aplicada uma taxa equivalente ao dobro daquela.
+
+4 - No caso de a dívida ser paga no prazo de 30 dias contados da data da citação, os juros de mora são contados até à data da emissão desta.
+
+> Alterado pelo/a Artigo 149.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 119.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29
+
+> Alterado pelo/a Artigo 83.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01
+
+#### Secção II — Caducidade do direito de liquidação
+
+###### Artigo 45.º — Caducidade do direito à liquidação
+
+1 - O direito de liquidar os tributos caduca se a liquidação não for validamente notificada ao contribuinte no prazo de quatro anos, quando a lei não fixar outro.
+
+2 - No caso de erro evidenciado na declaração do sujeito passivo o prazo de caducidade referido no número anterior é de três anos.
+
+3 - Em caso de ter sido efetuada qualquer dedução ou crédito de imposto, o prazo de caducidade é o do exercício desse direito.
+
+4 - O prazo de caducidade conta-se, nos impostos periódicos, a partir do termo do ano em que se verificou o facto tributário e, nos impostos de obrigação única, a partir da data em que o facto tributário ocorreu, excepto no imposto sobre o valor acrescentado e nos impostos sobre o rendimento quando a tributação seja efectuada por retenção na fonte a título definitivo, caso em que aquele prazo se conta a partir do início do ano civil seguinte àquele em que se verificou, respectivamente, a exigibilidade do imposto ou o facto tributário.
+
+5 - Sempre que o direito à liquidação respeite a factos relativamente aos quais foi instaurado inquérito criminal, o prazo a que se refere o n.º 1 é alargado até ao arquivamento ou trânsito em julgado da sentença, acrescido de um ano.
+
+6 - Para efeitos de contagem do prazo referido no n.º 1, as notificações sob registo consideram-se validamente efectuadas no 3.º dia posterior ao do registo ou no 1.º dia útil seguinte a esse, quando esse dia não seja útil.
+
+7 - O prazo referido no n.º 1 é de 12 anos sempre que o direito à liquidação respeite a factos tributários conexos com:
+
+a) País, território ou região sujeito a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do Ministro das Finanças, que devendo ser declarados à administração tributária o não sejam; ou
+
+b) Contas de depósito ou de títulos abertas em instituições financeiras não residentes em Estados membros da União Europeia, ou em sucursais localizadas fora da União Europeia de instituições financeiras residentes, cuja existência e identificação não seja mencionada pelos sujeitos passivos do IRS na correspondente declaração de rendimentos do ano em que ocorram os factos tributários.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 82-E/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-e-2014-66022085), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 213.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 220.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 149.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 89.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 57.º do/a [Lei n.º 60-A/2005 - Diário da República n.º 250/2005, 1º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2005-376234), em vigor a partir de 2006-01-01
+
+> Alterado pelo/a Artigo 40.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+> Alterado pelo/a Artigo 43.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 46.º — Suspensão do prazo de caducidade
+
+1 - O prazo de caducidade suspende-se com a notificação ao contribuinte, nos termos legais, da ordem de serviço ou despacho no início da ação de inspeção externa, cessando, no entanto, esse efeito, contando-se o prazo desde o seu início, caso a duração da inspeção externa tenha ultrapassado o prazo de seis meses após a notificação, acrescido do período em que esteja suspenso o prazo para a conclusão do procedimento de inspeção.
+
+2 - O prazo de caducidade suspende-se ainda:
+
+a) Em caso de litígio judicial de cuja resolução dependa a liquidação do tributo, desde o seu início até ao trânsito em julgado da decisão;
+
+b) Em caso de benefícios fiscais de natureza contratual, desde o início até à resolução do contrato ou durante o decurso do prazo dos benefícios;
+
+c) Em caso de benefícios fiscais de natureza condicionada, desde a apresentação da declaração até ao termo do prazo legal do cumprimento da condição;
+
+d) Em caso de o direito à liquidação resultar de reclamação ou impugnação, a partir da sua apresentação até à decisão.
+
+e) Com a apresentação do pedido de revisão da matéria colectável, até à notificação da respectiva decisão.
+
+3 - Em caso de aplicação de sanções da perda de benefícios fiscais de qualquer natureza, o prazo de caducidade suspende-se desde o início do respectivo procedimento criminal, fiscal ou contra-ordenacional até ao trânsito em julgado da decisão final.
+
+> Alterado pelo/a Artigo 228.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 149.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 160/2003 - Diário da República n.º 165/2003, Série I-A de 2003-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2003-670764), em vigor a partir de 2003-07-24, produz efeitos a partir de 2003-07-24
+
+> Alterado pelo/a Artigo 43.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2002 - Diário da República n.º 252/2002, Série I-A de 2002-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2002-425931), em vigor a partir de 2002-11-05
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 47.º — Fiscalização tributária a solicitação do sujeito passivo
+
+1 - Em caso de fiscalização tributária por solicitação do sujeito passivo, nos termos de lei especial e sem prejuízo das disposições desta, não podem ser praticados posteriormente à notificação das suas conclusões ao contribuinte novos actos tributários de liquidação com fundamento em factos ocorridos no período compreendido na referida acção e incluídos no seu objecto.
+
+2 - A fiscalização referida no número anterior poderá, com autorização expressa do sujeito passivo, ser requerida por terceiro que demonstre nela ter igualmente interesse legítimo.
+
+#### Secção III — Prescrição da prestação tributária
+
+###### Artigo 48.º — Prescrição
+
+1 - As dívidas tributárias prescrevem, salvo o disposto em lei especial, no prazo de oito anos contados, nos impostos periódicos, a partir do termo do ano em que se verificou o facto tributário e, nos impostos de obrigação única, a partir da data em que o facto tributário ocorreu, excepto no imposto sobre o valor acrescentado e nos impostos sobre o rendimento quando a tributação seja efectuada por retenção na fonte a título definitivo, caso em que aquele prazo se conta a partir do início do ano civil seguinte àquele em que se verificou, respectivamente, a exigibilidade do imposto ou o facto tributário.
+
+2 - As causas de suspensão ou interrupção da prescrição aproveitam igualmente ao devedor principal e aos responsáveis solidários ou subsidiários.
+
+3 - A interrupção da prescrição relativamente ao devedor principal não produz efeitos quanto ao responsável subsidiário se a citação deste, em processo de execução fiscal, for efectuada após o 5.º ano posterior ao da liquidação.
+
+4 - No caso de dívidas tributárias em que o respectivo direito à liquidação esteja abrangido pelo disposto no n.º 7 do artigo 45.º, o prazo referido no n.º 1 é alargado para 15 anos.
+
+> Alterado pelo/a Artigo 149.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 40.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+###### Artigo 49.º — Interrupção e suspensão da prescrição
+
+1 - A citação, a reclamação, o recurso hierárquico, a impugnação e o pedido de revisão oficiosa da liquidação do tributo interrompem a prescrição.
+
+2 - (Revogado.)
+
+3 - Sem prejuízo do disposto no número seguinte, a interrupção tem lugar uma única vez, com o facto que se verificar em primeiro lugar.
+
+4 - O prazo de prescrição legal suspende-se:
+
+a) Em virtude de pagamento de prestações legalmente autorizados;
+
+b) Enquanto não houver decisão definitiva ou transitada em julgado, que ponha termo ao processo, nos casos de reclamação, impugnação, recurso ou oposição, quando determinem a suspensão da cobrança da dívida;
+
+c) Desde a instauração até ao trânsito em julgado da ação de impugnação pauliana intentada pelo Ministério Público.
+
+d) Durante o período de impedimento legal à realização da venda de imóvel afeto a habitação própria e permanente.
+
+e) Na pendência de reclamação a que se refere o artigo 276.º do Código de Procedimento e de Processo Tributário quando desta resulte a impossibilidade de praticar atos coercivos no respetivo processo de execução;
+
+f) Até ao termo do prazo de suspensão e cessação de efeito a que se refere o n.º 3 do artigo 169.º do Código de Procedimento e de Processo Tributário.
+
+5 - O prazo de prescrição legal suspende-se, ainda, desde a instauração de inquérito criminal até ao arquivamento ou trânsito em julgado da sentença.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 13/2016 - Diário da República n.º 99/2016, Série I de 2016-05-23](https://diariodarepublica.pt/dr/detalhe/lei/13-2016-74498465), em vigor a partir de 2016-05-24
+
+> Alterado pelo/a Artigo 173.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 220.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 89.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo único do/a [Lei n.º 100/99 - Diário da República n.º 172/1999, Série I-A de 1999-07-26](https://diariodarepublica.pt/dr/detalhe/lei/100-1999-353353), em vigor a partir de 1999-07-31
+
+### Capítulo V — Garantia da prestação tributária
+
+###### Artigo 50.º — Garantia dos créditos tributários
+
+1 - O património do devedor constitui a garantia geral dos créditos tributários.
+
+2 - Para garantia dos créditos tributários, a administração tributária dispõe ainda:
+
+a) Dos privilégios creditórios previstos no Código Civil ou nas leis tributárias;
+
+b) Do direito de constituição, nos termos da lei, de penhor ou hipoteca legal, quando essas garantias se revelem necessárias à cobrança efectiva da dívida ou quando o imposto incida sobre a propriedade dos bens;
+
+c) Do direito de retenção de quaisquer mercadorias sujeitas à acção fiscal de que o sujeito passivo seja proprietário, nos termos que a lei fixar.
+
+3 - A eficácia dos direitos referidos na alínea b) do número anterior depende do registo.
+
+###### Artigo 51.º — Providências cautelares
+
+1 - A administração tributária pode, nos termos da lei, tomar providências cautelares para garantia dos créditos tributários em caso de fundado receio de frustração da sua cobrança ou de destruição ou extravio de documentos ou outros elementos necessários ao apuramento da situação tributária dos sujeitos passivos e demais obrigados tributários.
+
+2 - As providências cautelares devem ser proporcionais ao dano a evitar e não causar dano de impossível ou difícil reparação.
+
+3 - As providências cautelares consistem na apreensão de bens, direitos ou documentos ou na retenção, até à satisfação dos créditos tributários, de prestações tributárias a que o contribuinte tenha direito.
+
+###### Artigo 52.º — Garantia da cobrança da prestação tributária
+
+1 - A cobrança da prestação tributária suspende-se no processo de execução fiscal em virtude de pagamento em prestações ou reclamação, recurso, impugnação e oposição à execução que tenham por objecto a ilegalidade ou inexigibilidade da dívida exequenda, bem como durante os procedimentos de resolução de diferendos no quadro da Convenção de Arbitragem n.º 90/436/CEE, de 23 de Julho, relativa à eliminação da dupla tributação em caso de correcção de lucros entre empresas associadas de diferentes Estados membros.
+
+2 - A suspensão da execução nos termos do número anterior depende da prestação de garantia idónea nos termos das leis tributárias.
+
+3 - A administração tributária pode exigir ao executado o reforço da garantia no caso de esta se tornar manifestamente insuficiente para o pagamento da dívida exequenda e acrescido.
+
+4 - A administração tributária pode, a requerimento do executado, isentá-lo da prestação de garantia nos casos de a sua prestação lhe causar prejuízo irreparável ou manifesta falta de meios económicos revelada pela insuficiência de bens penhoráveis para o pagamento da dívida exequenda e acrescido, desde que não existam fortes indícios de que a insuficiência ou inexistência de bens se deveu a atuação dolosa do interessado.
+
+5 - A isenção prevista no número anterior é válida por um ano, salvo se a dívida se encontrar a ser paga em prestações, caso em que é válida durante o período em que esteja a ser cumprido o regime prestacional autorizado, devendo a administração tributária notificar o executado da data da sua caducidade, até 30 dias antes.
+
+6 - Caso o executado não solicite novo período de isenção ou a administração tributária o indefira, é levantada a suspensão do processo.
+
+7 - A garantia pode, uma vez prestada, ser excepcionalmente substituída, em caso de o executado provar interesse legítimo na substituição e daí não resulte prejuízo para o credor tributário.
+
+8 - A garantia só pode ser reduzida após a sua prestação nos casos de anulação parcial da dívida exequenda, pagamento parcial da dívida no âmbito de regime prestacional legalmente autorizado ou se se verificar, posteriormente, qualquer das circunstâncias referidas no n.º 4.
+
+> Alterado pelo/a Artigo 228.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 220.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 149.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 83.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01
+
+###### Artigo 53.º — Garantia em caso de prestação indevida
+
+1 - O devedor que, para suspender a execução, ofereça garantia bancária ou equivalente será indemnizado total ou parcialmente pelos prejuízos resultantes da sua prestação, caso a tenha mantido por período superior a três anos em proporção do vencimento em recurso administrativo, impugnação ou oposição à execução que tenham como objecto a dívida garantida.
+
+2 - O prazo referido no número anterior não se aplica quando se verifique, em reclamação graciosa ou impugnação judicial, que houve erro imputável aos serviços na liquidação do tributo.
+
+3 - A indemnização referida no n.º 1 tem como limite máximo o montante resultante da aplicação ao valor garantido da taxa de juros indemnizatórios prevista na presente lei e pode ser requerida no próprio processo de reclamação ou impugnação judicial, ou autonomamente.
+
+4 - A indemnização por prestação de garantia indevida será paga por abate à receita do tributo do ano em que o pagamento se efectuou.
+
+> Alterado pelo/a Artigo 43.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+## Título III — Do procedimento tributário
+
+### Capítulo I — Regras gerais
+
+###### Artigo 54.º — Âmbito e forma do procedimento tributário
+
+1 - O procedimento tributário compreende toda a sucessão de actos dirigida à declaração de direitos tributários, designadamente:
+
+a) As acções preparatórias ou complementares de informação e fiscalização tributária;
+
+b) A liquidação dos tributos quando efectuada pela administração tributária;
+
+c) A revisão, oficiosa ou por iniciativa dos interessados, dos actos tributários;
+
+d) O reconhecimento ou revogação dos benefícios fiscais;
+
+e) A emissão ou revogação de outros actos administrativos em matéria tributária;
+
+f) As reclamações e os recursos hierárquicos;
+
+g) A avaliação directa ou indirecta dos rendimentos ou valores patrimoniais;
+
+h) A cobrança das obrigações tributárias, na parte que não tiver natureza judicial.
+
+2 - As garantias dos contribuintes previstas no presente capítulo aplicam-se também à autoliquidação, retenção na fonte ou repercussão legal a terceiros da dívida tributária, na parte não incompatível com a natureza destas figuras.
+
+3 - O procedimento tributário segue a forma escrita, sem prejuízo da tramitação electrónica dos actos do procedimento tributário nos termos definidos por portaria do Ministro das Finanças, mediante a qual será regulada a obrigatoriedade de apresentação em suporte electrónico de qualquer documento, designadamente requerimentos, exposições e petições.
+
+4 - Os documentos emitidos e os actos praticados por meios electrónicos pela administração tributária têm o mesmo valor legal dos documentos autênticos emitidos e dos actos praticados em suporte papel, desde que garantida a sua autenticidade, integridade, confidencialidade e conservação de acordo com os requisitos legais e regulamentares exigíveis pelo Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas, nos termos a regulamentar por portaria do Ministro das Finanças.
+
+5 - Os actos praticados por meios electrónicos pelo dirigente máximo do serviço são autenticados com assinatura electrónica avançada certificada nos termos previstos pelo Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas.
+
+6 - Sem prejuízo do disposto na presente lei, o exercício do direito de inspecção tributária constará do diploma regulamentar próprio.
+
+> Alterado pelo/a Artigo 149.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 238/2006 - Diário da República n.º 243/2006, Série I de 2006-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2006-552372), em vigor a partir de 2007-01-01
+
+###### Artigo 55.º — Princípios do procedimento tributário
+
+A administração tributária exerce as suas atribuições na prossecução do interesse público, de acordo com os princípios da legalidade, da igualdade, da proporcionalidade, da justiça, da imparcialidade e da celeridade, no respeito pelas garantias dos contribuintes e demais obrigados tributários.
+
+###### Artigo 56.º — Princípio da decisão
+
+1 - A administração tributária está obrigada a pronunciar-se sobre todos os assuntos da sua competência que lhe sejam apresentados por meio de reclamações, recursos, representações, exposições, queixas ou quaisquer outros meios previstos na lei pelos sujeitos passivos ou quem tiver interesse legítimo.
+
+2 - Não existe dever de decisão quando:
+
+a) A administração tributária se tiver pronunciado há menos de dois anos sobre pedido do mesmo autor com idênticos objecto e fundamentos;
+
+b) Tiver sido ultrapassado o prazo legal de revisão do acto tributário.
+
+###### Artigo 57.º — Prazos
+
+1 - O procedimento tributário deve ser concluído no prazo de quatro meses, devendo a administração tributária e os contribuintes abster-se da prática de actos inúteis ou dilatórios.
+
+2 - Os actos do procedimento tributário devem ser praticados no prazo de oito dias, salvo disposição legal em sentido contrário.
+
+3 - No procedimento tributário, os prazos são contínuos e contam-se nos termos do artigo 279.º do Código Civil.
+
+4 - Os prazos referidos no presente artigo suspendem-se no caso de a dilação do procedimento ser imputável ao sujeito passivo por incumprimento dos seus deveres de cooperação.
+
+5 - Sem prejuízo do princípio da celeridade e diligência, o incumprimento do prazo referido no n.º 1, contado a partir da entrada da petição do contribuinte no serviço competente da administração tributária, faz presumir o seu indeferimento para efeitos de recurso hierárquico, recurso contencioso ou impugnação judicial.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+> Alterado pelo/a Artigo 149.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 57.º-A — Diferimento e suspensão extraordinários de prazos
+
+1 - Sem prejuízo das regras gerais e especiais de caducidade e prescrição, as obrigações tributárias cujo prazo termine no decurso do mês de agosto podem ser cumpridas até ao último dia desse mês, independentemente de ser útil, sem quaisquer acréscimos ou penalidades.
+
+2 - Os prazos do procedimento tributário relativos aos atos praticados pelos contribuintes nos procedimentos constantes das alíneas a), c), d), e), f) e g) do n.º 1 e do n.º 2 do artigo 54.º, bem como os relativos ao exercício do direito de audição ou de defesa em quaisquer procedimentos, ao exercício do direito à redução de coimas, ao pagamento antecipado de coimas, ou aos esclarecimentos solicitados pela administração tributária, que terminem no decurso do mês de agosto são transferidos para o primeiro dia útil do mês seguinte.
+
+3 - São suspensos os prazos relativos ao procedimento de inspeção tributária durante o mês de agosto, para efeitos do artigo 36.º do Regime Complementar do Procedimento de Inspeção Tributária e Aduaneira.
+
+> Alterado pelo/a Artigo 311.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+###### Artigo 58.º — Princípio do inquisitório
+
+A administração tributária deve, no procedimento, realizar todas as diligências necessárias à satisfação do interesse público e à descoberta da verdade material, não estando subordinada à iniciativa do autor do pedido.
+
+###### Artigo 59.º — Princípio da colaboração
+
+1 - Os órgãos da administração tributária e os contribuintes estão sujeitos a um dever de colaboração recíproco.
+
+2 - Presume-se a boa fé da actuação dos contribuintes e da administração tributária.
+
+3 - A colaboração da administração tributária com os contribuintes compreende, designadamente:
+
+a) A informação pública, regular e sistemática sobre os seus direitos e obrigações;
+
+b) A publicação, no prazo de 30 dias, das orientações genéricas sobre a interpretação e aplicação das normas tributárias;
+
+c) A assistência necessária ao cumprimento dos deveres acessórios;
+
+d) A notificação do sujeito passivo ou demais interessados para esclarecimento das dúvidas sobre as suas declarações ou documentos;
+
+e) A prestação de informações vinculativas, nos termos da lei;
+
+f) O esclarecimento regular e atempado das fundadas dúvidas sobre a interpretação e aplicação das normas tributárias;
+
+g) O acesso, a título pessoal ou mediante representante, aos seus processos individuais ou, nos termos da lei, àqueles em que tenham interesse directo, pessoal e legítimo;
+
+h) A criação, por lei, em casos justificados, de regimes simplificados de tributação e a limitação das obrigações acessórias às necessárias ao apuramento da situação tributária dos sujeitos passivos;
+
+i) A publicação, nos termos da lei, dos benefícios ou outras vantagens fiscais salvo quando a sua concessão não comporte qualquer margem de livre apreciação da administração tributária;
+
+j) O direito ao conhecimento pelos contribuintes da identidade dos funcionários responsáveis pela direcção dos procedimentos que lhes respeitem;
+
+l) A comunicação antecipada do início da inspecção da escrita, com a indicação do seu âmbito e extensão e dos direitos e deveres que assistem ao sujeito passivo.
+
+m) Informação ao contribuinte dos seus direitos e obrigações, designadamente nos casos de obrigações periódicas;
+
+n) A interpelação ao contribuinte para proceder à regularização da situação tributária e ao exercício do direito à redução da coima, quando a administração tributária detecte a prática de uma infracção de natureza não criminal;
+
+o) A disponibilização no Portal das Finanças dos formulários digitais, em formato que possibilite o seu preenchimento e submissão, para o cumprimento das obrigações declarativas previstas nos artigos 57.º e 113.º do Código do IRS e nos artigos 120.º e 121.º do Código do IRC, com uma antecedência mínima de 90 dias em relação à data limite do cumprimento da obrigação declarativa.
+
+4 - A colaboração dos contribuintes com a administração tributária compreende o cumprimento das obrigações acessórias previstas na lei e a prestação dos esclarecimentos que esta lhes solicitar sobre a sua situação tributária, bem como sobre as relações económicas que mantenham com terceiros.
+
+5 - A publicação dos elementos referidos nos alíneas a), b), e), f) e i) do n.º 3 é promovida por meios electrónicos.
+
+6 - A administração tributária disponibiliza a versão electrónica dos códigos e demais legislação tributária actualizada.
+
+7 - As comunicações previstas nas alíneas m) e n) do n.º 3 são efetuadas por via eletrónica.
+
+8 - Sempre que a Autoridade Tributária e Aduaneira não cumpra o prazo mínimo de antecedência previsto na alínea o) do n.º 3, a data limite para o cumprimento da respetiva obrigação declarativa prorroga-se pelo mesmo número de dias de atraso.
+
+> Nota: [Artigo 3.º, Lei n.º 39/2018 - Diário da República n.º 152/2018, Série I de 2018-08-08](https://diariodarepublica.pt/dr/detalhe/lei/39-2018-115940704) Nos anos de 2018 e 2019, o prazo de antecedência mínima previsto na alínea o) do n.º 3 do artigo 59.º da LGT é de 90 dias.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 49/2025 - Diário da República n.º 61/2025, Série I de 2025-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2025-912653926), em vigor a partir de 2025-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 39/2018 - Diário da República n.º 152/2018, Série I de 2018-08-08](https://diariodarepublica.pt/dr/detalhe/lei/39-2018-115940704), em vigor a partir de 2018-08-13
+
+> Alterado pelo/a Artigo 81.º do/a [Decreto-Lei n.º 32/2012 - Diário da República n.º 31/2012, Série I de 2012-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), em vigor a partir de 2012-02-14
+
+> Alterado pelo/a Artigo 149.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 107.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 7-B/99 - Diário da República n.º 49/1999, Suplemento n.º 2, Série I-A de 1999-02-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-b-1999-188698), em vigor a partir de 1999-01-01
+
+###### Artigo 60.º — Princípio da participação
+
+1 - A participação dos contribuintes na formação das decisões que lhes digam respeito pode efectuar-se, sempre que a lei não prescrever em sentido diverso, por qualquer das seguintes formas:
+
+a) Direito de audição antes da liquidação;
+
+b) Direito de audição antes do indeferimento total ou parcial dos pedidos, reclamações, recursos ou petições;
+
+c) Direito de audição antes da revogação de qualquer benefício ou acto administrativo em matéria fiscal;
+
+d) Direito de audição antes da decisão de aplicação de métodos indirectos, quando não haja lugar a relatório de inspecção;
+
+e) Direito de audição antes da conclusão do relatório da inspecção tributária.
+
+2 - É dispensada a audição:
+
+a) No caso de a liquidação se efectuar com base na declaração do contribuinte ou a decisão do pedido, reclamação, recurso ou petição lhe seja favorável;
+
+b) No caso de a liquidação se efectuar oficiosamente, com base em valores objectivos previstos na lei, desde que o contribuinte tenha sido notificado para apresentação da declaração em falta, sem que o tenha feito.
+
+3 - Tendo o contribuinte sido anteriormente ouvido em qualquer das fases do procedimento a que se referem as alíneas b) a e) do n.º 1, é dispensada a sua audição antes da liquidação, salvo em caso de invocação de factos novos sobre os quais ainda se não tenha pronunciado.
+
+4 - O direito de audição deve ser exercido no prazo a fixar pela administração tributária em carta registada a enviar para esse efeito para o domicílio fiscal do contribuinte.
+
+5 - Em qualquer das circunstâncias referidas no n.º 1, para efeitos do exercício do direito de audição, deve a administração tributária comunicar ao sujeito passivo o projecto da decisão e sua fundamentação.
+
+6 - O prazo do exercício oralmente ou por escrito do direito de audição é de 15 dias, podendo a administração tributária alargar este prazo até o máximo de 25 dias em função da complexidade da matéria.
+
+7 - Os elementos novos suscitados na audição dos contribuintes são tidos obrigatoriamente em conta na fundamentação da decisão.
+
+> Alterado pelo/a Artigo 220.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 89.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 40.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+> Alterado pelo/a Artigo 13.º do/a [Lei n.º 16-A/2002 - Diário da República n.º 125/2002, Suplemento n.º 1, Série I-A de 2002-05-31](https://diariodarepublica.pt/dr/detalhe/lei/16-a-2002-533809), em vigor a partir de 2002-06-05
+
+###### Artigo 60.º-A — Utilização das tecnologias da informação e da comunicação
+
+1 - A administração tributária pode utilizar tecnologias da informação e da comunicação no procedimento tributário.
+
+2 - A administração tributária dispõe de um serviço na Internet que proporciona, nos termos referidos no número anterior, funcionalidades idênticas às dos serviços em instalações físicas.
+
+3 - Por portaria do Ministro das Finanças são identificadas as obrigações declarativas, de pagamento, e as petições, requerimentos e outras comunicações que são obrigatoriamente entregues por via electrónica, bem como os actos e comunicações que a administração tributária pratica com utilização da mesma via, devendo respeitar-se sempre o princípio da reciprocidade.
+
+> Aditado pelo/a Artigo 150.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+### Capítulo II — Sujeitos
+
+#### Secção I — Administração tributária
+
+###### Artigo 61.º — Competência tributária
+
+1 - A incompetência no procedimento deve ser conhecida oficiosamente pela administração tributária e pode ser arguida pelos interessados.
+
+2 - O órgão da administração tributária material ou territorialmente incompetente é obrigado a enviar as peças do procedimento para o órgão da administração tributária competente no prazo de quarenta e oito horas após a declaração de incompetência, considerando-se o requerimento apresentado na data do primeiro registo do processo.
+
+3 - O interessado será devidamente notificado da remessa prevista no número anterior.
+
+4 - Em caso de dúvida, é competente para o procedimento o órgão da administração tributária do domicílio fiscal do sujeito passivo ou interessado ou, no caso de inexistência de domicílio, do seu representante legal.
+
+5 - Para os sujeitos passivos não residentes sem estabelecimento estável em território nacional, que não tenham representante fiscal, considera-se competente o Serviço de Finanças de Lisboa 3.
+
+> Alterado pelo/a Artigo 149.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 62.º — Delegação de poderes
+
+1 - Salvo nos casos previstos na lei, os órgãos da administração tributária podem delegar a competência do procedimento.
+
+2 - A competência referida no número anterior pode ser subdelegada, com autorização do delegante, salvo nos casos em que a lei o proíba.
+
+> Alterado pelo/a Artigo 123.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+###### Artigo 63.º — Inspecção
+
+1 - Os órgãos competentes podem, nos termos da lei, desenvolver todas as diligências necessárias ao apuramento da situação tributária dos contribuintes, nomeadamente:
+
+a) Aceder livremente às instalações ou locais onde possam existir elementos relacionados com a sua actividade ou com a dos demais obrigados fiscais;
+
+b) Examinar e visar os seus livros e registos da contabilidade ou escrituração, bem como todos os elementos susceptíveis de esclarecer a sua situação tributária;
+
+c) Aceder, consultar e testar o seu sistema informático, incluindo a documentação sobre a sua análise, programação e execução;
+
+d) Solicitar a colaboração de quaisquer entidades públicas necessária ao apuramento da sua situação tributária ou de terceiros com quem mantenham relações económicas;
+
+e) Requisitar documentos dos notários, conservadores e outras entidades oficiais;
+
+f) Utilizar as suas instalações quando a utilização for necessária ao exercício da acção inspectiva.
+
+g) Aceder aos dados constantes do Registo Central do Beneficiário Efetivo.
+
+2 - O acesso à informação protegida pelo segredo profissional ou qualquer outro dever de sigilo legalmente regulado depende de autorização judicial, nos termos da legislação aplicável.
+
+3 - Sem prejuízo do número anterior, o acesso à informação protegida pelo sigilo bancário e pelo sigilo previsto no Regime Jurídico do Contrato de Seguro faz-se nos termos previstos nos artigos 63.º-A, 63.º-B e 63.º-C.
+
+4 - O procedimento da inspeção e os deveres de cooperação são os adequados e proporcionais aos objetivos a prosseguir, só podendo haver mais de um procedimento externo de fiscalização respeitante ao mesmo sujeito passivo ou obrigado tributário, imposto e período de tributação mediante decisão, fundamentada com base em factos novos, do dirigente máximo do serviço, salvo se o procedimento visar apenas a consulta, recolha de documentos ou elementos ou a confirmação dos pressupostos de direitos que o contribuinte invoque perante a administração tributária e sem prejuízo do apuramento da situação tributária do sujeito passivo por meio de inspeção ou inspeções dirigidas a terceiros com quem mantenha relações económicas.
+
+5 - A falta de cooperação na realização das diligências previstas no n.º 1 só será legítima quando as mesmas impliquem:
+
+a) O acesso à habitação do contribuinte;
+
+b) A consulta de elementos abrangidos pelo segredo profissional ou outro dever de sigilo legalmente regulado, com exceção do segredo bancário e do sigilo previsto no Regime Jurídico do Contrato de Seguro, realizada nos termos do n.º 3;
+
+c) O acesso a factos da vida íntima dos cidadãos;
+
+d) A violação dos direitos de personalidade e outros direitos, liberdades e garantias dos cidadãos, nos termos e limites previstos na Constituição e na lei.
+
+6 - Em caso de oposição do contribuinte com fundamento nalgumas circunstâncias referidas no número anterior, a diligência só poderá ser realizada mediante autorização concedida pelo tribunal da comarca competente com base em pedido fundamentado da administração tributária.
+
+7 - A notificação das instituições de crédito, sociedades financeiras e demais entidades, para efeitos de permitirem o acesso a elementos cobertos pelo sigilo a que estejam vinculados quando a administração tributária exija fundamentadamente a sua derrogação, deve ser instruída com os seguintes elementos:
+
+a) Nos casos de acesso directo, cópia da decisão fundamentada proferida pelo director-geral dos Impostos ou pelo director-geral das Alfândegas e dos Impostos Especiais sobre o Consumo, nos termos do n.º 4 do artigo 63.º-B;
+
+b) Nos casos de acesso directo com audição prévia obrigatória do sujeito passivo ou de familiares ou terceiros que se encontrem numa relação especial com o contribuinte, prevista no n.º 5 do artigo 63.º-B, cópia da decisão fundamentada proferida pelo director-geral dos Impostos ou pelo director-geral das Alfândegas e dos Impostos Especiais sobre o Consumo e cópia da notificação dirigida para o efeito de assegurar a referida audição prévia.
+
+8 - As instituições de crédito, sociedades financeiras e demais entidades devem cumprir as obrigações relativas ao acesso a elementos cobertos pelo sigilo a que estejam vinculadas no prazo de 10 dias úteis.
+
+> Alterado pelo/a Artigo 254.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 268.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 220.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 37/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02](https://diariodarepublica.pt/dr/detalhe/lei/37-2010-344257), em vigor a partir de 2010-09-03
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 94/2009 - Diário da República n.º 169/2009, Série I de 2009-09-01](https://diariodarepublica.pt/dr/detalhe/lei/94-2009-488505), em vigor a partir de 2009-09-06
+
+> Alterado pelo/a Artigo 40.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+> Alterado pelo/a Artigo 13.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, Suplemento n.º 3, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01
+
+###### Artigo 63.º-A — Informações relativas a operações financeiras
+
+1 - As instituições de crédito e sociedades financeiras estão sujeitas a mecanismos de informação automática relativamente à abertura ou manutenção de contas por contribuintes cuja situação tributária não se encontre regularizada, nos termos dos n.os 5 e 6 do artigo 64.º, ou inseridos em sectores de risco, bem como quanto às transferências transfronteiras que não sejam relativas a pagamentos de rendimentos sujeitos a algum dos regimes de comunicação para efeitos fiscais já previstos na lei, a transacções comerciais ou efectuadas por entidades públicas, nos termos a definir por portaria do Ministro das Finanças, ouvido o Banco de Portugal.
+
+2 - As instituições de crédito, as sociedades financeiras e as demais entidades que prestem serviços de pagamento estão obrigadas a comunicar à Autoridade Tributária e Aduaneira, até ao final do mês de março de cada ano, através de declaração de modelo oficial, aprovada por portaria do membro do Governo responsável pela área das finanças, as transferências e envio de fundos que tenham como destinatário entidade localizada em país, território ou região com regime de tributação privilegiada mais favorável que não sejam relativas a operações efetuadas por pessoas coletivas de direito público.
+
+3 - A Autoridade Tributária e Aduaneira fica obrigada a publicar anualmente, no seu sítio na Internet, o valor total anual das transferências e envio de fundos, bem como o motivo da transferência, por categoria de operação e de acordo com a respetiva tipologia, quando tenham como destinatários países, territórios e regiões com regime de tributação privilegiada mais favorável.
+
+4 - As instituições de crédito, sociedades financeiras e as demais entidades que prestem serviços de pagamento têm a obrigação de comunicar à Autoridade Tributária e Aduaneira, até ao final do mês de julho de cada ano, através de declaração de modelo oficial, aprovada por portaria do membro do Governo responsável pela área das finanças e ouvido o Banco de Portugal, o valor dos fluxos de pagamentos com cartões de crédito e de débito ou por outros meios de pagamento eletrónico, efetuados por seu intermédio, sem por qualquer forma identificar os mandantes das ordens de pagamento.
+
+5 - Sem prejuízo do disposto no número anterior, as instituições de crédito e sociedades financeiras e as demais entidades que prestem serviços de pagamento têm ainda a obrigação de fornecer, a qualquer momento, a pedido do diretor-geral da Autoridade Tributária e Aduaneira ou do seu substituto legal, ou do conselho diretivo do Instituto de Gestão Financeira da Segurança Social, I. P., as informações respeitantes aos fluxos de pagamentos com cartões de crédito e de débito ou por outros meios de pagamento eletrónico, efetuados por seu intermédio aos sujeitos passivos referidos no número anterior que sejam identificados no referido pedido de informação, sem por qualquer forma identificar os mandantes das ordens de pagamento.
+
+6 - A informação a submeter, nos termos do n.º 1, inclui a identificação das contas, o número de identificação fiscal dos titulares, o valor dos depósitos no ano, o saldo em 31 de Dezembro, bem como outros elementos que constem da declaração de modelo oficial.
+
+7 - A obrigação de comunicação prevista no n.º 2 abrange igualmente as transferências e os envios de fundos efetuados através das respetivas sucursais localizadas fora do território português ou de entidades não residentes com as quais exista uma situação de relações especiais, nos termos do n.º 4 do artigo 63.º do Código do IRC, sempre que a instituição de crédito, sociedade financeira ou entidade prestadora de serviços de pagamento tenha ou devesse ter conhecimento de que aquelas transferências ou envios de fundos têm como destinatário final uma entidade localizada em país, território ou região com regime de tributação privilegiada mais favorável.
+
+8 - Os sujeitos passivos do IRS são obrigados a mencionar na correspondente declaração de rendimentos a existência e a identificação de contas de depósitos ou de títulos abertas em instituição financeira não residente em território português ou em sucursal localizada fora do território português de instituição financeira residente, de que sejam titulares, beneficiários ou que estejam autorizados a movimentar.
+
+9 - Para efeitos do disposto no número anterior, entende-se por 'beneficiário' o sujeito passivo que controle, direta ou indiretamente, e independentemente de qualquer título jurídico mesmo que através de mandatário, fiduciário ou interposta pessoa, os direitos sobre os elementos patrimoniais depositados nessas contas.
+
+10 - A obrigação de entrega da declaração prevista no n.º 2 subsiste mesmo que não tenham ocorrido transferências ou envio de fundos abrangidos pela obrigação se comunicação.
+
+11 - O Banco de Portugal deve disponibilizar à Autoridade Tributária e Aduaneira, dentro do prazo previsto no n.º 2, informação por entidade declarante, em número e valor, agregada por destino e motivo, relativa às transferências e envio de fundos que tenham como destinatário entidade localizada em país, território ou região com regime de tributação privilegiada mais favorável, que tenham sido reportadas ao Banco de Portugal pelas entidades referidas no n.º 2.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+> Alterado pelo/a Artigo 295.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 268.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2017 - Diário da República n.º 85/2017, Série I de 2017-05-03](https://diariodarepublica.pt/dr/detalhe/lei/14-2017-106960757), em vigor a partir de 2017-05-04
+
+> Alterado pelo/a Artigo 173.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 220.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 220.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 11.º do/a [Lei n.º 20/2012 - Diário da República n.º 93/2012, Série I de 2012-05-14](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023), em vigor a partir de 2012-05-15
+
+> Alterado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 29-A/2011 - Diário da República n.º 42/2011, 1º Suplemento, Série I de 2011-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217), em vigor a partir de 2011-03-02
+
+> Alterado pelo/a Artigo 123.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 94/2009 - Diário da República n.º 169/2009, Série I de 2009-09-01](https://diariodarepublica.pt/dr/detalhe/lei/94-2009-488505), em vigor a partir de 2009-09-06
+
+> Alterado pelo/a Artigo 107.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01
+
+> Aditado pelo/a Artigo 13.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, 3º Suplemento, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01, produz efeitos a partir de 2001-01-01
+
+###### Artigo 63.º-B — Acesso a informações e documentos bancários
+
+1 - A administração tributária tem o poder de aceder a todas as informações ou documentos bancários, bem como a informações ou documentos de outras entidades financeiras previstas como tal no artigo 3.º da Lei n.º 25/2008, de 5 de junho, alterado pelos Decretos-Leis n.os 317/2009, de 30 de outubro, e 242/2012, de 7 de novembro, sem dependência do consentimento do titular dos elementos protegidos:
+
+a) Quando existam indícios da prática de crime em matéria tributária;
+
+b) Quando se verifiquem indícios da falta de veracidade do declarado ou esteja em falta declaração legalmente exigível;
+
+c) Quando se verifiquem indícios da existência de acréscimos de património não justificados, nos termos da alínea f) do n.º 1 do artigo 87.º;
+
+d) Quando se trate da verificação de conformidade de documentos de suporte de registos contabilísticos dos sujeitos passivos de IRS e IRC que se encontrem sujeitos a contabilidade organizada ou dos sujeitos passivos de IVA que tenham optado pelo regime de IVA de caixa;
+
+e) Quando exista a necessidade de controlar os pressupostos de regimes fiscais privilegiados de que o contribuinte usufrua;
+
+f) Quando se verifique a impossibilidade de comprovação e quantificação directa e exacta da matéria tributável, nos termos do artigo 88.º, e, em geral, quando estejam verificados os pressupostos para o recurso a uma avaliação indirecta.
+
+g) Quando se verifique a existência comprovada de dívidas à administração fiscal ou à segurança social.
+
+h) Quando se trate de informações solicitadas nos termos de acordos ou convenções internacionais em matéria fiscal a que o Estado português esteja vinculado.
+
+i) Constitui também fundamento da derrogação do sigilo bancário, em sede de procedimento administrativo de inspeção tributária, a comunicação de operações suspeitas, remetidas à Autoridade Tributária e Aduaneira, pelo Departamento Central de Investigação e Ação Penal da Procuradoria-Geral da República (DCIAP) e pela Unidade de Informação Financeira (UIF), no âmbito da legislação relativa à prevenção e repressão do branqueamento de capitais e financiamento do terrorismo.
+
+2 - A administração tributária tem, ainda, o poder de aceder diretamente aos documentos bancários e aos documentos emitidos por outras entidades financeiras previstas como tal no artigo 3.º da Lei n.º 25/2008, de 5 de junho, nas situações de recusa da sua exibição ou de autorização para a sua consulta, quando se trate de familiares ou terceiros que se encontrem numa relação especial com o contribuinte.
+
+3 - (Revogado.)
+
+4 - As decisões da administração tributária referidas nos números anteriores devem ser fundamentadas com expressa menção dos motivos concretos que as justificam e, salvo o disposto no número seguinte e no n.º 13, notificadas aos interessados no prazo de 30 dias após a sua emissão, sendo da competência do diretor-geral da Autoridade Tributária e Aduaneira, ou dos seus substitutos legais, sem possibilidade de delegação.
+
+5 - Os atos praticados ao abrigo da competência definida no n.º 1 são suscetíveis de recurso judicial com efeito meramente devolutivo e, sem prejuízo do disposto no n.º 13, os atos previstos no n.º 2 dependem da audição prévia do familiar ou terceiro e são suscetíveis de recurso judicial com efeito suspensivo, por parte destes.
+
+6 - Nos casos de deferimento do recurso previsto no número anterior, os elementos de prova entretanto obtidos não podem ser utilizados para qualquer efeito em desfavor do contribuinte.
+
+7 - As entidades que se encontrem numa relação de domínio com o contribuinte ficam sujeitas aos regimes de acesso à informação bancária referidos nos n.os 1, 2 e 3.
+
+8 - (Revogado.)
+
+9 - O regime previsto nos números anteriores não prejudica a legislação aplicável aos casos de investigação por infracção penal e só pode ter por objecto operações e movimentos bancários realizados após a sua entrada em vigor, sem prejuízo do regime vigente para as situações anteriores.
+
+10 - Para os efeitos desta lei, considera-se documento bancário qualquer documento ou registo, independentemente do respectivo suporte, em que se titulem, comprovem ou registem operações praticadas por instituições de crédito ou sociedades financeiras no âmbito da respectiva actividade, incluindo os referentes a operações realizadas mediante utilização de cartões de crédito.
+
+11 - Para os efeitos desta lei, considera-se documento de outras entidades financeiras, previstas como tal no artigo 3.º da Lei n.º 25/2008, de 5 de junho, qualquer documento ou registo, independentemente do respetivo suporte, que, não sendo considerado documento bancário, titule, comprove ou registe operações praticadas pelas referidas entidades.
+
+12 - A administração tributária presta ao ministério da tutela informação anual de caráter estatístico sobre os processos em que ocorreu o levantamento do sigilo bancário e do sigilo previsto no Regime Jurídico do Contrato de Seguro, a qual é remetida à Assembleia da República com a apresentação do relatório detalhado sobre a evolução do combate à fraude e à evasão fiscais, previsto no artigo 64.º-B.
+
+13 - Nos casos abrangidos pela alínea h) do n.º 1, não há lugar a notificação dos interessados nem a audição prévia do familiar ou terceiro quando o pedido de informações tenha caráter urgente ou essa audição ou notificação possa prejudicar as investigações em curso no Estado ou jurisdição requerente das informações e tal seja expressamente solicitado por este Estado ou jurisdição.
+
+> Alterado pelo/a Artigo 268.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 220.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 71/2013 - Diário da República n.º 104/2013, Série I de 2013-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2013-513603), produz efeitos a partir de 2013-10-01
+
+> Alterado pelo/a Artigo 123.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 37/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02](https://diariodarepublica.pt/dr/detalhe/lei/37-2010-344257), em vigor a partir de 2010-09-03
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 94/2009 - Diário da República n.º 169/2009, Série I de 2009-09-01](https://diariodarepublica.pt/dr/detalhe/lei/94-2009-488505), em vigor a partir de 2009-09-06
+
+> Alterado pelo/a Artigo 107.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01
+
+> Alterado pelo/a Artigo 40.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 320-A/2002 - Diário da República n.º 301/2002, 5º Suplemento, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-a-2002-306915), em vigor a partir de 2003-01-01, produz efeitos a partir de 2003-01-01
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 8/2001 - Diário da República n.º 61/2001, Série I-A de 2001-03-13](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-2001-390238), em vigor a partir de 2001-01-01
+
+> Aditado pelo/a Artigo 13.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, 3º Suplemento, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01, produz efeitos a partir de 2001-01-01
+
+###### Artigo 63.º-C — Contas bancárias exclusivamente afectas à actividade empresarial
+
+1 - Os sujeitos passivos de IRC, bem como os sujeitos passivos de IRS que disponham ou devam dispor de contabilidade organizada, estão obrigados a possuir, pelo menos, uma conta bancária através da qual devem ser, exclusivamente, movimentados os pagamentos e recebimentos respeitantes à actividade empresarial desenvolvida.
+
+2 - Devem, ainda, ser efectuados através da conta ou contas referidas no n.º 1 todos os movimentos relativos a suprimentos, outras formas de empréstimos e adiantamentos de sócios, bem como quaisquer outros movimentos de ou a favor dos sujeitos passivos.
+
+3 - (Revogado).
+
+4 - A administração tributária pode aceder a todas as informações ou documentos bancários relativos à conta ou contas referidas no n.º 1 sem dependência do consentimento dos respectivos titulares.
+
+5 - A possibilidade prevista no número anterior é estabelecida nos mesmos termos e circunstâncias do artigo 63.º-B.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 92/2017 - Diário da República n.º 161/2017, Série I de 2017-08-22](https://diariodarepublica.pt/dr/detalhe/lei/92-2017-108030505), em vigor a partir de 2017-08-23
+
+> Alterado pelo/a Artigo 11.º do/a [Lei n.º 20/2012 - Diário da República n.º 93/2012, Série I de 2012-05-14](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023), em vigor a partir de 2012-05-15
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 37/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02](https://diariodarepublica.pt/dr/detalhe/lei/37-2010-344257), em vigor a partir de 2010-09-03
+
+> Aditado pelo/a Artigo 40.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+###### Artigo 63.º-D — Países, territórios ou regiões com um regime fiscal claramente mais favorável
+
+1 - O membro do Governo responsável pela área das finanças aprova, por portaria, após parecer prévio da Autoridade Tributária e Aduaneira, a lista dos países, territórios ou regiões com regime claramente mais favorável.
+
+2 - Na elaboração do parecer e da lista a que se refere o número anterior, devem ser considerados, nomeadamente, os seguintes critérios:
+
+a) Inexistência de um imposto de natureza idêntica ou similar ao IRC ou, existindo, a taxa aplicável seja inferior a 60 % da taxa de imposto prevista no n.º 1 do artigo 87.º do Código do IRC;
+
+b) As regras de determinação da matéria coletável sobre a qual incide o imposto sobre o rendimento divirjam significativamente dos padrões internacionalmente aceites ou praticados, nomeadamente pelos países da Organização para a Cooperação e Desenvolvimento Económico (OCDE);
+
+c) Existência de regimes especiais ou de benefícios fiscais, designadamente isenções, deduções ou créditos fiscais, mais favoráveis do que os estabelecidos na legislação nacional, dos quais resulte uma redução substancial da tributação;
+
+d) A legislação ou a prática administrativa não permita o acesso e a troca efetiva de informações relevantes para efeitos fiscais, nomeadamente informações de natureza fiscal, contabilística, societária, bancária ou outras que identifiquem os respetivos sócios ou outras pessoas relevantes, os titulares de rendimentos, bens ou direitos e a realização de operações económicas.
+
+3 - Os países, territórios ou regiões que constem da lista mencionada no n.º 1 podem solicitar ao membro do Governo responsável pela área das finanças um pedido de revisão do respetivo enquadramento na lista prevista no n.º 1, com base, nomeadamente, no não preenchimento dos critérios previstos no n.º 2.
+
+4 - As alterações que sejam introduzidas na lista a que se refere o n.º 1, nomeadamente em consequência de pedidos nos termos do número anterior, apenas produzem efeitos para o futuro.
+
+5 - São, igualmente, considerados países ou jurisdições com regime claramente mais favorável aqueles que, ainda que não constem da lista referida no n.º 1 deste artigo, não disponham de um imposto de natureza idêntica ou similar ao IRC ou, existindo, a taxa aplicável seja inferior a 60 % da taxa de imposto prevista no n.º 1 do artigo 87.º do Código do IRC, sempre que, cumulativamente:
+
+a) Seja feita remissão expressa nos códigos e leis tributárias para este número do presente artigo;
+
+b) Existam relações especiais, nos termos das alíneas a) a g) do n.º 4 do artigo 63.º do Código do IRC, entre as pessoas ou entidades envolvidas nas operações subjacentes às normas referidas na alínea anterior.
+
+6 - O disposto no n.º 5 não é aplicável a Estados-Membros da União Europeia ou a Estados-Membros do Espaço Económico Europeu, neste último caso desde que esse Estado esteja vinculado a cooperação administrativa no domínio da fiscalidade equivalente à estabelecida no âmbito da União Europeia.
+
+> Alterado pelo/a Artigo 268.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 91/2017 - Diário da República n.º 161/2017, Série I de 2017-08-22](https://diariodarepublica.pt/dr/detalhe/lei/91-2017-108030504), em vigor a partir de 2017-08-23
+
+> Alterado pelo/a Artigo 228.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Aditado pelo/a Artigo 214.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+###### Artigo 63.º-E — Proibição de pagamento em numerário
+
+1 - É proibido pagar ou receber em numerário em transações de qualquer natureza que envolvam montantes iguais ou superiores a (euro) 3 000, ou o seu equivalente em moeda estrangeira.
+
+2 - Os pagamentos realizados pelos sujeitos passivos a que se refere o n.º 1 do artigo 63.º-C respeitantes a faturas ou documentos equivalentes de valor igual ou superior a (euro) 1 000, ou o seu equivalente em moeda estrangeira, devem ser efetuados através de meio de pagamento que permita a identificação do respetivo destinatário, designadamente transferência bancária, cheque nominativo ou débito direto.
+
+3 - O limite referido no n.º 1 é de (euro) 10 000, ou o seu equivalente em moeda estrangeira, sempre que o pagamento seja realizado por pessoas singulares não residentes em território português e desde que não atuem na qualidade de empresários ou comerciantes.
+
+4 - Para efeitos do cômputo dos limites referidos nos números anteriores, são considerados de forma agregada todos os pagamentos associados à venda de bens ou prestação de serviços, ainda que não excedam aquele limite se considerados de forma fracionada.
+
+5 - É proibido o pagamento em numerário de impostos cujo montante exceda (euro) 500.
+
+6 - O disposto neste artigo não é aplicável nas operações com entidades financeiras cujo objeto legal compreenda a receção de depósitos, a prestação de serviços de pagamento, a emissão de moeda eletrónica ou a realização de operações de câmbio manual, nos pagamentos decorrentes de decisões ou ordens judiciais e em situações excecionadas em lei especial.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 92/2017 - Diário da República n.º 161/2017, Série I de 2017-08-22](https://diariodarepublica.pt/dr/detalhe/lei/92-2017-108030505), em vigor a partir de 2017-08-23
+
+###### Artigo 64.º — Confidencialidade
+
+1 - Os dirigentes, funcionários e agentes da administração tributária estão obrigados a guardar sigilo sobre os dados recolhidos sobre a situação tributária dos contribuintes e os elementos de natureza pessoal que obtenham no procedimento, nomeadamente os decorrentes do sigilo profissional ou qualquer outro dever de segredo legalmente regulado.
+
+2 - O dever de sigilo cessa em caso de:
+
+a) Autorização do contribuinte para a revelação da sua situação tributária;
+
+b) Cooperação legal da administração tributária com outras entidades públicas, na medida dos seus poderes;
+
+c) Assistência mútua e cooperação da administração tributária com as administrações tributárias de outros países resultante de convenções internacionais a que o Estado Português esteja vinculado, sempre que estiver prevista reciprocidade;
+
+d) Colaboração com a justiça nos termos do Código de Processo Civil e mediante despacho de uma autoridade judiciária, no âmbito do Código de Processo Penal;
+
+e) Confirmação do número de identificação fiscal e domicílio fiscal às entidades legalmente competentes para a realização do registo comercial, predial ou automóvel.
+
+3 - O dever de confidencialidade comunica-se a quem quer que, ao abrigo do número anterior, obtenha elementos protegidos pelo segredo fiscal, nos mesmos termos do sigilo da administração tributária.
+
+4 - O dever de confidencialidade não prejudica o acesso do sujeito passivo aos dados sobre a situação tributária de outros sujeitos passivos que sejam comprovadamente necessários à fundamentação da reclamação, recurso ou impugnação judicial, desde que expurgados de quaisquer elementos susceptíveis de identificar a pessoa ou pessoas a que dizem respeito.
+
+5 - Não contende com o dever de confidencialidade:
+
+a) A divulgação de listas de contribuintes cuja situação tributária não se encontre regularizada, designadamente listas hierarquizadas em função do montante em dívida, desde que já tenha decorrido qualquer dos prazos legalmente previstos para a prestação de garantia ou tenha sido decidida a sua dispensa;
+
+b) A publicação de rendimentos declarados ou apurados por categorias de rendimentos, contribuintes, sectores de actividades ou outras, de acordo com listas que a administração tributária deve organizar anualmente a fim de assegurar a transparência e publicidade.
+
+c) A notificação, pela administração tributária, de sujeito passivo que disponibilize uma interface eletrónica para efeitos de acionar a responsabilidade solidária deste.
+
+6 - Para efeitos do disposto na alínea a) do número anterior, considera-se como situação tributária regularizada o disposto no artigo 177.º-A do CPPT.
+
+7 - Para efeitos do disposto na alínea d) do n.º 2, e com vista à realização das finalidades dos processos judiciais, incluindo as dos inquéritos em processo penal, as autoridades judiciárias acedem diretamente às bases de dados da Autoridade Tributária e Aduaneira.
+
+8 - A concretização do acesso referido no número anterior é disciplinada por protocolo a celebrar entre o Conselho Superior da Magistratura, a Procuradoria-Geral da República e a Autoridade Tributária e Aduaneira.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 18.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31
+
+> Alterado pelo/a Artigo 220.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 213.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 57.º do/a [Lei n.º 60-A/2005 - Diário da República n.º 250/2005, 1º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2005-376234), em vigor a partir de 2006-01-01
+
+> Alterado pelo/a Artigo único do/a [Lei n.º 100/99 - Diário da República n.º 172/1999, Série I-A de 1999-07-26](https://diariodarepublica.pt/dr/detalhe/lei/100-1999-353353), em vigor a partir de 1999-07-31
+
+###### Artigo 64.º-A — Garantias especiais de confidencialidade
+
+Compete ao Ministro das Finanças definir regras especiais de reserva da informação a observar pelos serviços da administração tributária no âmbito dos processos de derrogação do dever de sigilo bancário.
+
+> Aditado pelo/a Artigo 13.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, Suplemento n.º 3, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01
+
+###### Artigo 64.º-B — Combate à fraude e à evasão fiscais
+
+1 - O Governo apresenta à Assembleia da República, até ao final do mês de junho de cada ano, um relatório detalhado sobre a evolução do combate à fraude e à evasão fiscais em todas as áreas da tributação, explicitando os resultados alcançados, designadamente quanto ao valor das liquidações adicionais realizadas, bem como quanto ao valor das coletas recuperadas nos diversos impostos.
+
+2 - O relatório previsto no número anterior deve conter, designadamente:
+
+a) O grau de execução dos planos plurianuais de combate à fraude e evasão fiscais e aduaneiras aprovados pelo Governo;
+
+b) Os resultados obtidos com a utilização dos diversos instrumentos jurídicos para o combate à fraude e à evasão fiscais, nomeadamente:
+
+i) No âmbito legislativo;
+
+ii) No âmbito penal;
+
+iii) No âmbito operacional;
+
+iv) No âmbito do relacionamento institucional com outras entidades públicas nacionais e internacionais; e
+
+v) No âmbito do relacionamento com o contribuinte;
+
+c) A informação estatística relevante sobre a atuação da inspeção tributária, da justiça tributária, de outras áreas da Autoridade Tributária e Aduaneira e de outras entidades que colaboram no combate à fraude e evasão fiscais e aduaneiras.
+
+d) A evolução dos montantes de transferências e envio de fundos quando tenham como destinatários países, territórios e regiões com regime de tributação privilegiada mais favorável, nos termos do n.º 3 do artigo 63.º-A, bem como os resultados da ação da inspeção tributária, da justiça tributária, de outras áreas da Autoridade Tributária e Aduaneira e de outras entidades que colaboram no combate à fraude e evasão fiscais e aduaneiras relativamente a esta matéria, designadamente quanto a número de inspeções realizadas, divergências detetadas, correções à matéria coletável, liquidação de imposto correspondente e remessa ao Ministério Público.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2017 - Diário da República n.º 85/2017, Série I de 2017-05-03](https://diariodarepublica.pt/dr/detalhe/lei/14-2017-106960757), em vigor a partir de 2017-05-04
+
+> Aditado pelo/a Artigo 221.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+###### Artigo 64.º-C — Poderes de autoridade pública
+
+Para efeitos do disposto no Código Penal, os funcionários da Autoridade Tributária e Aduaneira, no exercício das funções que nessa qualidade lhes sejam cometidas, consideram-se investidos de poderes de autoridade pública.
+
+> Aditado pelo/a Artigo 221.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+#### Secção II — Contribuintes e outros interessados
+
+###### Artigo 65.º — Legitimidade
+
+Têm legitimidade no procedimento os sujeitos passivos da relação tributária e quaisquer pessoas que provem interesse legalmente protegido.
+
+###### Artigo 66.º — Actos interlocutórios
+
+1 - Os contribuintes e demais interessados podem, no decurso do procedimento, reclamar de quaisquer actos ou omissões da administração tributária.
+
+2 - A reclamação referida no número anterior não suspende o procedimento, mas os interessados podem recorrer ou impugnar a decisão final com fundamento em qualquer ilegalidade.
+
+###### Artigo 67.º — Direito à informação
+
+1 - O contribuinte tem direito à informação sobre:
+
+a) A fase em que se encontra o procedimento e a data previsível da sua conclusão;
+
+b) A existência e teor das denúncias dolosas não confirmadas e a identificação do seu autor;
+
+c) A sua concreta situação tributária.
+
+2 - As informações referidas no número anterior, quando requeridas por escrito, são prestadas no prazo de 10 dias.
+
+###### Artigo 68.º — Informações vinculativas
+
+1 - As informações vinculativas sobre a situação tributária dos sujeitos passivos, incluindo, nos termos da lei, os pressupostos dos benefícios fiscais, são requeridas ao dirigente máximo do serviço, sendo o pedido acompanhado:
+
+a) Da descrição dos factos cuja qualificação jurídico-tributária se pretenda;
+
+b) Dos elementos necessários nos termos do Decreto-Lei n.º 61/2013, de 10 maio, na sua redação atual, para a Autoridade Tributária e Aduaneira assegurar a troca obrigatória e automática de informações ao abrigo da cooperação administrativa entre autoridades competentes dos Estados-Membros da União Europeia e de outras jurisdições.
+
+2 - Mediante solicitação justificada do requerente, a informação vinculativa pode ser prestada com caráter de urgência, no prazo de 75 dias, desde que o pedido seja acompanhado de uma proposta de enquadramento jurídico-tributário.
+
+3 - As informações vinculativas não podem compreender factos abrangidos por procedimento de inspecção tributária cujo início tenha sido notificado ao contribuinte antes do pedido.
+
+4 - O pedido é apresentado por quaisquer dos sujeitos passivos a que se refere o n.º 3 do artigo 18.º, por outros interessados ou seus representantes legais, por via eletrónica e segundo modelo oficial a aprovar pelo dirigente máximo do serviço, e a resposta é notificada pela mesma via no prazo máximo de 150 dias.
+
+5 - As informações vinculativas podem ser requeridas por advogados, solicitadores, revisores e técnicos oficiais de contas ou por quaisquer entidades habilitadas ao exercício da consultadoria fiscal acerca da situação tributária dos seus clientes devidamente identificados, sendo obrigatoriamente comunicadas também a estes.
+
+6 - Caso a informação vinculativa seja pedida com carácter de urgência, a administração tributária, no prazo máximo de 30 dias, notifica obrigatoriamente o contribuinte do reconhecimento ou não da urgência e, caso esta seja aceite, do valor da taxa devida, a ser paga no prazo de 5 dias.
+
+7 - Pela prestação urgente de uma informação vinculativa é devida uma taxa entre 25 unidades de conta e 250 unidades de conta, a fixar em função da complexidade da matéria.
+
+8 - A proposta de enquadramento jurídico-tributário dos factos a que se refere o pedido de informação vinculativa urgente considera-se tacitamente sancionada pela administração tributária como informação vinculativa se o pedido não for respondido no prazo previsto no n.º 2.
+
+9 - Os efeitos do deferimento tácito previsto no número anterior restringem-se especificamente aos actos e factos identificados no pedido e ao período de tributação em que os mesmos ocorram.
+
+10 - Se a administração tributária notificar o requerente da inexistência dos pressupostos para a prestação de uma informação vinculativa urgente, da existência de especial complexidade técnica que impossibilite a prestação da informação vinculativa, ou em caso de falta de pagamento da taxa prevista no n.º 6, o pedido segue o regime regra da informação vinculativa.
+
+11 - Caso os elementos apresentados pelo contribuinte para a prestação da informação vinculativa se mostrem insuficientes, a administração tributária notifica-o para suprir a falta no prazo de 10 dias, sob pena de arquivamento do procedimento, ficando suspensos os prazos previstos nos n.os 2 e 4.
+
+12 - O pedido de informação vinculativa é arquivado se estiver pendente ou vier a ser apresentada reclamação, recurso ou impugnação judicial que implique os factos objecto do pedido de informação.
+
+13 - Antes da prestação da informação vinculativa, quando o entender conveniente, ou quando o requerente assim o solicitar no pedido, a administração tributária procede à sua audição, ficando suspensos os prazos previstos nos n.os 2 e 4.
+
+14 - A administração tributária, em relação ao objecto do pedido, não pode posteriormente proceder em sentido diverso da informação prestada, salvo em cumprimento de decisão judicial.
+
+15 - As informações vinculativas caducam em caso de alteração superveniente dos pressupostos de facto ou de direito em que assentaram e, em qualquer caso, no prazo de quatro anos após a data da respetiva emissão, salvo se o sujeito passivo solicitar a sua renovação.
+
+16 - As informações vinculativas podem ser revogadas, com efeitos para o futuro, após um ano a contar da sua prestação, precedendo audição do requerente, nos termos da presente lei, com a salvaguarda dos direitos e interesses legítimos anteriormente constituídos.
+
+17 - Todas as informações vinculativas prestadas, incluindo as urgentes, são publicadas no prazo de 30 dias por meios electrónicos, salvaguardando-se os elementos de natureza pessoal do contribuinte.
+
+18 - O incumprimento do prazo previsto no n.º 4 do presente artigo, quando o contribuinte actue com base numa interpretação plausível e de boa-fé da lei, limita a sua responsabilidade à dívida do imposto, abrangendo essa exclusão de responsabilidade as coimas, os juros e outros acréscimos legais.
+
+19 - A limitação de responsabilidade prevista no número anterior compreende o período entre o termo do prazo para a prestação da informação vinculativa e a notificação desta ao requerente.
+
+20 - São passíveis de recurso contencioso autónomo as decisões da administração tributária relativas:
+
+a) À inexistência dos pressupostos para a prestação de uma informação vinculativa ou a recusa de prestação de informação vinculativa urgente; ou
+
+b) À existência de uma especial complexidade técnica que impossibilite a prestação da informação vinculativa; ou
+
+c) Ao enquadramento jurídico-tributário dos factos constantes da resposta ao pedido de informação vinculativa.
+
+21 - Os sujeitos passivos que tenham requerido a prestação de informações vinculativas ficam obrigados a comunicar à Autoridade Tributária e Aduaneira qualquer alteração aos elementos transmitidos no pedido inicial que seja relevante para efeitos da troca obrigatória e automática de informações ao abrigo da cooperação administrativa.
+
+22 - Sem prejuízo da dispensa ou da redução especial da taxa de urgência no caso de os sujeitos passivos requerentes preencherem os critérios de insuficiência económica definidos para a concessão da proteção jurídica ao abrigo do regime de acesso ao direito e aos tribunais, pela prestação urgente de uma informação vinculativa é devida uma taxa entre 12,5 unidades de conta e 125 unidades de conta, no caso de pessoas singulares que aufiram um rendimento máximo anual até ao limite superior do quarto escalão da tabela de Imposto Sobre o Rendimento das Pessoas Singulares e de micro, pequenas e médias empresas, de acordo com os critérios definidos no artigo 2.º do anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, a fixar em função da complexidade da matéria, aplicando-se nos restantes casos o disposto no n.º 7.
+
+23 - Para efeitos da instrução do pedido de informação vinculativa a efetuar nos termos do número anterior, o sujeito passivo deve juntar o documento comprovativo da sua certificação como micro, pequena ou média empresa ou facultar à Autoridade Tributária e Aduaneira a autorização necessária para proceder à verificação da sua qualidade, requisitos ou rendimentos.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-07-01
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 98/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/lei/98-2017-108051987), em vigor a partir de 2017-08-25, produz efeitos a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 228.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 213.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 82/2013 - Diário da República n.º 114/2013, Série I de 2013-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), em vigor a partir de 2013-06-18
+
+> Alterado pelo/a Artigo 149.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 107.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01
+
+###### Artigo 68.º-A — Orientações genéricas
+
+1 - A administração tributária está vinculada às orientações genéricas constantes de circulares, regulamentos ou instrumentos de idêntica natureza, independentemente da sua forma de comunicação, visando a uniformização da interpretação e da aplicação das normas tributárias.
+
+2 - Não são invocáveis retroactivamente perante os contribuintes que tenham agido com base numa interpretação plausível e de boa-fé da lei as orientações genéricas que ainda não estavam em vigor no momento do facto tributário.
+
+3 - A administração tributária deve proceder à conversão das informações vinculativas ou de outro tipo de entendimento prestado aos contribuintes em circulares administrativas, quando tenha sido colocada questão de direito relevante e esta tenha sido apreciada no mesmo sentido em três pedidos de informação ou seja previsível que o venha a ser.
+
+4 - A administração tributária deve rever as orientações genéricas referidas no n.º 1 quando:
+
+a) Versem sobre matéria apreciada em decisão sumária por um tribunal superior, nos termos do artigo 656.º do Código de Processo Civil; ou
+
+b) Exista acórdão de uniformização de jurisprudência proferido pelo Supremo Tribunal Administrativo; ou
+
+c) Exista jurisprudência reiterada dos tribunais superiores, manifestada em cinco decisões transitadas em julgado no mesmo sentido, sem que existam decisões dos tribunais superiores em sentido contrário igualmente transitadas em julgado, em número superior.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+> Alterado pelo/a Artigo 213.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Aditado pelo/a Artigo 108.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01
+
+###### Artigo 68.º-B — Contribuintes de elevada relevância económica e fiscal
+
+1 - Sem prejuízo dos princípios que regem o procedimento tributário, designadamente dos princípios da legalidade e da igualdade, a administração tributária pode, atendendo à elevada relevância económica e fiscal de alguns contribuintes, considerá-los como grandes contribuintes para efeitos do seu acompanhamento permanente e gestão tributária.
+
+2 - Compete ao diretor-geral da Autoridade Tributária e Aduaneira determinar, em função de critérios previamente definidos, a integração de contribuintes de elevada relevância económica e fiscal no grupo de grandes contribuintes e, de entre estes, quais os que devem ter acompanhamento permanente em matérias não aduaneiras por gestor tributário.
+
+3 - Os critérios a que se refere o número anterior são fixados em portaria do membro do Governo responsável pela área das finanças e servem para determinar a eventual relevância económica e fiscal dos contribuintes e a sua qualificação ou desqualificação como grandes contribuintes, devendo abranger:
+
+a) As entidades com um volume de negócios superior a montante a definir;
+
+b) As Sociedades Gestores de Participações Sociais, constituídas nos termos do Decreto-Lei n.º 495/88, de 30 de dezembro, com um valor total de rendimentos superior a montante a definir;
+
+c) As entidades com valor global de pagamento de impostos superior a montante a definir;
+
+d) As sociedades integradas em grupos abrangidos pelo regime especial de tributação dos grupos de sociedades, nos termos do artigo 69.º do Código do IRC, em que alguma das sociedades integrantes do grupo, dominante ou dominada, seja abrangida pelas condições definidas em qualquer das alíneas anteriores;
+
+e) As sociedades não abrangidas por qualquer das alíneas anteriores que sejam consideradas relevantes atendendo à sua relação jurídica ou económica com as sociedades abrangidas por essas alíneas.
+
+f) As pessoas singulares com rendimentos superiores a montante a definir;
+
+g) As pessoas singulares que detenham, direta ou indiretamente, ou sejam beneficiárias efetivas de património, incluindo bens e direitos, de valor superior a montante a definir;
+
+h) As pessoas singulares, bem como as sociedades e outras entidades, que não sendo abrangidas por qualquer das alíneas anteriores sejam consideradas relevantes, atendendo à sua relação jurídica ou económica com os sujeitos passivos abrangidos por essas alíneas.
+
+> Alterado pelo/a Artigo 173.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 6/2013 - Diário da República n.º 12/2013, Série I de 2013-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2013-256471), produz efeitos a partir de 2012-01-01
+
+### Capítulo III — Do procedimento
+
+#### Secção I — Início do procedimento
+
+###### Artigo 69.º — Impulso
+
+1 - O procedimento inicia-se nos prazos e com os fundamentos previstos na lei, por iniciativa dos interessados ou da administração tributária.
+
+2 - O início do procedimento dirigido ao apuramento de qualquer situação tributária é comunicado aos interessados, salvo quando a comunicação possa pôr em causa os efeitos úteis que visa prosseguir ou o procedimento incida sobre situações tributárias em que os interessados não estão ainda devidamente identificados.
+
+###### Artigo 70.º — Denúncia
+
+1 - A denúncia de infracção tributária pode dar origem ao procedimento, caso o denunciante se identifique e não seja manifesta a falta de fundamento da denúncia.
+
+2 - O denunciante não é considerado parte do procedimento, nem tem legitimidade para reclamar, recorrer ou impugnar a decisão.
+
+3 - O contribuinte tem direito a conhecer o teor e autoria das denúncias dolosas não confirmadas sobre a sua situação tributária.
+
+#### Secção II — Instrução
+
+###### Artigo 71.º — Direcção da instrução
+
+1 - A direcção da instrução cabe, salvo disposição legal em sentido diferente, ao órgão da administração tributária competente para a decisão.
+
+2 - Sempre que, nos termos da lei, a instrução for realizada por órgão diferente do competente para a decisão, cabe ao órgão instrutor a elaboração de um relatório definindo o conteúdo e objecto do procedimento instrutório e contendo uma proposta de decisão, cujas conclusões são obrigatoriamente notificadas aos interessados em conjunto com esta.
+
+###### Artigo 72.º — Meios de prova
+
+O órgão instrutor pode utilizar para o conhecimento dos factos necessários à decisão do procedimento todos os meios de prova admitidos em direito.
+
+###### Artigo 73.º — Presunções
+
+As presunções consagradas nas normas de incidência tributária admitem sempre prova em contrário.
+
+###### Artigo 74.º — Ónus da prova
+
+1 - O ónus da prova dos factos constitutivos dos direitos da administração tributária ou dos contribuintes recai sobre quem os invoque.
+
+2 - Quando os elementos de prova dos factos estiverem em poder da administração tributária, o ónus previsto no número anterior considera-se satisfeito caso o interessado tenha procedido à sua correcta identificação junto da administração tributária.
+
+3 - Em caso de determinação da matéria tributável por métodos indirectos, compete à administração tributária o ónus da prova da verificação dos pressupostos da sua aplicação, cabendo ao sujeito passivo o ónus da prova do excesso na respectiva quantificação.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 50/2005 - Diário da República n.º 166/2005, Série I-A de 2005-08-30](https://diariodarepublica.pt/dr/detalhe/lei/50-2005-245332), em vigor a partir de 2005-09-04
+
+> Alterado pelo/a Artigo 40.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+###### Artigo 75.º — Declaração e outros elementos dos contribuintes
+
+1 - Presumem-se verdadeiras e de boa-fé as declarações dos contribuintes apresentadas nos termos previstos na lei, bem como os dados e apuramentos inscritos na sua contabilidade ou escrita, quando estas estiverem organizadas de acordo com a legislação comercial e fiscal, sem prejuízo dos demais requisitos de que depende a dedutibilidade dos gastos.
+
+2 - A presunção referida no número anterior não se verifica quando:
+
+a) As declarações, contabilidade ou escrita revelarem omissões, erros, inexactidões ou indícios fundados de que não reflectem ou impeçam o conhecimento da matéria tributável real do sujeito passivo;
+
+b) O contribuinte não cumprir os deveres que lhe couberem de esclarecimento da sua situação tributária, salvo quando, nos termos da presente lei, for legítima a recusa da prestação de informações;
+
+c) A matéria tributável do sujeito passivo se afastar significativamente para menos, sem razão justificada, dos indicadores objectivos da actividade de base técnico-científica previstos na presente lei.
+
+d) Os rendimentos declarados em sede de IRS se afastarem significativamente para menos, sem razão justificativa, dos padrões de rendimento que razoavelmente possam permitir as manifestações de fortuna evidenciadas pelo sujeito passivo nos termos do artigo 89.º-A.
+
+3 - A força probatória dos dados informáticos dos contribuintes depende, salvo o disposto em lei especial, do fornecimento da documentação relativa à sua análise, programação e execução e da possibilidade de a administração tributária os confirmar.
+
+> Alterado pelo/a Artigo 213.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 13.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, Suplemento n.º 3, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01
+
+###### Artigo 76.º — Valor probatório
+
+1 - As informações prestadas pela inspecção tributária fazem fé, quando fundamentadas e se basearem em critérios objectivos, nos termos da lei.
+
+2 - As cópias obtidas a partir dos dados registados informaticamente ou de outros suportes arquivísticos da administração tributária têm a força probatória do original, desde que devidamente autenticadas.
+
+3 - A autenticação pode efectuar-se pelos meios genericamente definidos pelo dirigente máximo do serviço.
+
+4 - São abrangidas pelo n.º 1 as informações prestadas pelas administrações tributárias estrangeiras ao abrigo de convenções internacionais de assistência mútua a que o Estado Português esteja vinculado, sem prejuízo da prova em contrário do sujeito passivo ou interessado.
+
+### Capítulo IV — Decisão
+
+###### Artigo 77.º — Fundamentação e eficácia
+
+1 - A decisão de procedimento é sempre fundamentada por meio de sucinta exposição das razões de facto e de direito que a motivaram, podendo a fundamentação consistir em mera declaração de concordância com os fundamentos de anteriores pareceres, informações ou propostas, incluindo os que integrem o relatório da fiscalização tributária.
+
+2 - A fundamentação dos actos tributários pode ser efectuada de forma sumária, devendo sempre conter as disposições legais aplicáveis, a qualificação e quantificação dos factos tributários e as operações de apuramento da matéria tributável e do tributo.
+
+3 - Em caso de existência de operações ou séries de operações sobre bens, direitos ou serviços, ou de operações financeiras, efectuadas entre um sujeito passivo de imposto sobre o rendimento e qualquer outra entidade, sujeita ou não a imposto sobre o rendimento, com a qual aquele esteja em situação de relações especiais, e sempre que haja incumprimento de qualquer obrigação estatuída na lei para essa situação, a fundamentação da determinação da matéria tributável corrigida dos efeitos das relações especiais deve observar os seguintes requisitos:
+
+a) Descrição das relações especiais;
+
+b) Indicação das obrigações incumpridas pelo sujeito passivo;
+
+c) Aplicação dos métodos previstos na lei, podendo a Direcção-Geral dos Impostos utilizar quaisquer elementos de que disponha e considerando-se o seu dever de fundamentação dos elementos de comparação adequadamente observado ainda que de tais elementos sejam expurgados os dados susceptíveis de identificar as entidades a quem dizem respeito;
+
+d) Quantificação dos respectivos efeitos.
+
+4 - A decisão da tributação pelos métodos indirectos nos casos e com os fundamentos previstos na presente lei especificará os motivos da impossibilidade da comprovação e quantificação directas e exacta da matéria tributável, ou descreverá o afastamento da matéria tributável do sujeito passivo dos indicadores objectivos da actividade de base científica ou fará a descrição dos bens cuja propriedade ou fruição a lei considerar manifestações de fortuna relevantes, ou indicará a sequência de prejuízos fiscais relevantes, e indicará os critérios utilizados na avaliação da matéria tributável.
+
+5 - Em caso de aplicação de métodos indirectos por afastamento dos indicadores objectivos de actividade de base científica a fundamentação deverá também incluir as razões da não aceitação das justificações apresentadas pelo contribuinte nos termos da presente lei.
+
+6 - A eficácia da decisão depende da notificação.
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 8/2001 - Diário da República n.º 61/2001, Série I-A de 2001-03-13](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-2001-390238), em vigor a partir de 2001-01-01
+
+> Alterado pelo/a Artigo 13.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, Suplemento n.º 3, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01
+
+###### Artigo 78.º — Revisão dos actos tributários
+
+1 - A revisão dos actos tributários pela entidade que os praticou pode ser efectuada por iniciativa do sujeito passivo, no prazo de reclamação administrativa e com fundamento em qualquer ilegalidade, ou, por iniciativa da administração tributária, no prazo de quatro anos após a liquidação ou a todo o tempo se o tributo ainda não tiver sido pago, com fundamento em erro imputável aos serviços.
+
+2 - (Revogado).
+
+3 - A revisão dos actos tributários nos termos do n.º 1, independentemente de se tratar de erro material ou de direito, implica o respectivo reconhecimento devidamente fundamentado nos termos do n.º 1 do artigo anterior.
+
+4 - O dirigente máximo do serviço pode autorizar, excepcionalmente, nos três anos posteriores ao do acto tributário a revisão da matéria tributável apurada com fundamento em injustiça grave ou notória, desde que o erro não seja imputável a comportamento negligente do contribuinte.
+
+5 - Para efeitos do número anterior, apenas se considera notória a injustiça ostensiva e inequívoca e grave a resultante de tributação manifestamente exagerada e desproporcionada com a realidade ou de que tenha resultado elevado prejuízo para a Fazenda Nacional.
+
+6 - A revisão do acto tributário por motivo de duplicação de colecta pode efectuar-se, seja qual for o fundamento, no prazo de quatro anos.
+
+7 - Interrompe o prazo da revisão oficiosa do acto tributário ou da matéria tributável o pedido do contribuinte dirigido ao órgão competente da administração tributária para a sua realização.
+
+> Alterado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 57.º do/a [Lei n.º 60-A/2005 - Diário da República n.º 250/2005, 1º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2005-376234), em vigor a partir de 2006-01-01
+
+> Alterado pelo/a Artigo 40.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+###### Artigo 79.º — Revogação, ratificação, reforma, conversão e rectificação
+
+1 - O acto decisório pode revogar total ou parcialmente acto anterior ou reformá-lo, ratificá-lo ou convertê-lo nos prazos da sua revisão.
+
+2 - A administração tributária pode rectificar as declarações dos contribuintes em caso de erros de cálculo ou escrita.
+
+###### Artigo 80.º — Recurso hierárquico
+
+A decisão do procedimento é susceptível de recurso hierárquico para o mais elevado superior hierárquico do autor do acto, mas, salvo disposição legal em sentido contrário, este é sempre facultativo.
+
+### Capítulo V — Procedimentos de avaliação
+
+#### Secção I — Princípios gerais
+
+###### Artigo 81.º — Âmbito
+
+1 - A matéria tributável é avaliada ou calculada directamente segundo os critérios próprios de cada tributo, só podendo a administração tributária proceder a avaliação indirecta nos casos e condições expressamente previstos na lei.
+
+2 - Em caso de regime simplificado de tributação, o sujeito passivo pode optar pela avaliação directa, nas condições que a lei definir.
+
+###### Artigo 82.º — Competência
+
+1 - A competência para a avaliação directa é da administração tributária e, nos casos de autoliquidação, do sujeito passivo.
+
+2 - A competência para a avaliação indirecta é da administração tributária.
+
+3 - O sujeito passivo participa na avaliação indirecta nos termos da presente lei.
+
+4 - O sujeito passivo pode ainda participar, nos termos da lei, na revisão da avaliação indirecta efectuada pela administração tributária.
+
+###### Artigo 83.º — Fins
+
+1 - A avaliação directa visa a determinação do valor real dos rendimentos ou bens sujeitos a tributação.
+
+2 - A avaliação indirecta visa a determinação do valor dos rendimentos ou bens tributáveis a partir de indícios, presunções ou outros elementos de que a administração tributária disponha.
+
+###### Artigo 84.º — Critérios técnicos
+
+1 - A avaliação dos rendimentos ou valores sujeitos a tributação baseia-se em critérios objectivos.
+
+2 - O sujeito passivo que proceda à autoliquidação deve esclarecer, quando solicitado pela administração tributária, os critérios utilizados e a sua aplicação na determinação dos valores que declarou.
+
+3 - A fundamentação da avaliação contém obrigatoriamente a indicação dos critérios utilizados e a ponderação dos factores que influenciaram a determinação do seu resultado.
+
+###### Artigo 85.º — Avaliação indirecta
+
+1 - A avaliação indirecta é subsidiária da avaliação directa.
+
+2 - À avaliação indirecta aplicam-se, sempre que possível e a lei não prescrever em sentido diferente, as regras da avaliação directa.
+
+###### Artigo 86.º — Impugnação judicial
+
+1 - A avaliação directa é susceptível, nos termos da lei, de impugnação contenciosa directa.
+
+2 - A impugnação da avaliação directa depende do esgotamento dos meios administrativos previstos para a sua revisão.
+
+3 - A avaliação indirecta não é susceptível de impugnação contenciosa directa, salvo quando não dê origem a qualquer liquidação.
+
+4 - Na impugnação do acto tributário de liquidação em que a matéria tributável tenha sido determinada com base em avaliação indirecta, pode ser invocada qualquer ilegalidade desta, salvo quando a liquidação tiver por base o acordo obtido no processo de revisão da matéria tributável regulado no presente capítulo.
+
+5 - Em caso de erro na quantificação ou nos pressupostos da determinação indirecta da matéria tributável, a impugnação judicial da liquidação ou, se esta não tiver lugar, da avaliação indirecta depende da prévia reclamação nos termos da presente lei.
+
+> Alterado pelo/a Artigo único do/a [Lei n.º 100/99 - Diário da República n.º 172/1999, Série I-A de 1999-07-26](https://diariodarepublica.pt/dr/detalhe/lei/100-1999-353353), em vigor a partir de 1999-07-31
+
+#### Secção II — Avaliação indirecta
+
+##### Subsecção I — Pressupostos
+
+###### Artigo 87.º — Realização da avaliação indirecta
+
+1- A avaliação indirecta só pode efectuar-se em caso de:
+
+a) Regime simplificado de tributação, nos casos e condições previstos na lei;
+
+b) Impossibilidade de comprovação e quantificação directa e exacta dos elementos indispensáveis à correcta determinação da matéria tributável de qualquer imposto;
+
+c) A matéria tributável do sujeito passivo se afastar, sem razão justificada, mais de 30% para menos ou, durante três anos seguidos, mais de 15% para menos, da que resultaria da aplicação dos indicadores objectivos da actividade de base técnico-científica referidos na presente lei.
+
+d) Os rendimentos declarados em sede de IRS se afastarem significativamente para menos, sem razão justificada, dos padrões de rendimento que razoavelmente possam permitir as manifestações de fortuna evidenciadas pelo sujeito passivo nos termos do artigo 89.º-A;
+
+e) Os sujeitos passivos apresentarem, sem razão justificada, resultados tributáveis nulos ou prejuízos fiscais durante três anos consecutivos, salvo nos casos de início de actividade, em que a contagem deste prazo se faz do termo do terceiro ano, ou em três anos durante um período de cinco.
+
+f) Acréscimo de património ou despesa efectuada, incluindo liberalidades, de valor superior a (euro) 100 000, verificados simultaneamente com a falta de declaração de rendimentos ou com a existência, no mesmo período de tributação, de uma divergência não justificada com os rendimentos declarados.
+
+2 - No caso de verificação simultânea dos pressupostos de aplicação da alínea d) e da alínea f) do número anterior, a avaliação indirecta deve ser efectuada nos termos dos n.os 3 e 5 do artigo 89.º-A.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 94/2009 - Diário da República n.º 169/2009, Série I de 2009-09-01](https://diariodarepublica.pt/dr/detalhe/lei/94-2009-488505), em vigor a partir de 2009-09-06
+
+> Alterado pelo/a Artigo 107.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01
+
+> Alterado pelo/a Artigo 40.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+> Alterado pelo/a Artigo 13.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, Suplemento n.º 3, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01
+
+> Alterado pelo/a Artigo único do/a [Lei n.º 100/99 - Diário da República n.º 172/1999, Série I-A de 1999-07-26](https://diariodarepublica.pt/dr/detalhe/lei/100-1999-353353), em vigor a partir de 1999-07-31
+
+###### Artigo 88.º — Impossibilidade de determinação directa e exacta da matéria tributável
+
+A impossibilidade de comprovação e quantificação directa e exacta da matéria tributável para efeitos de aplicação de métodos indirectos, referida na alínea b) do artigo anterior, pode resultar das seguintes anomalias e incorrecções quando inviabilizem o apuramento da matéria tributável:
+
+a) Inexistência ou insuficiência de elementos de contabilidade ou declaração, falta ou atraso de escrituração dos livros e registos ou irregularidades na sua organização ou execução quando não supridas no prazo legal, mesmo quando a ausência desses elementos se deva a razões acidentais;
+
+b) Recusa de exibição da contabilidade e demais documentos legalmente exigidos, bem como a sua ocultação, destruição, inutilização, falsificação ou viciação;
+
+c) Existência de diversas contabilidades ou grupos de livros com o propósito de simulação da realidade perante a administração tributária e erros e inexactidões na contabilidade das operações não supridos no prazo legal.
+
+d) Existência de manifesta discrepância entre o valor declarado e o valor de mercado de bens ou serviços, bem como de factos concretamente identificados através dos quais seja patenteada uma capacidade contributiva significativamente maior do que a declarada.
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 8/2001 - Diário da República n.º 61/2001, Série I-A de 2001-03-13](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-2001-390238), em vigor a partir de 2001-01-01
+
+> Alterado pelo/a Artigo 13.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, Suplemento n.º 3, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01
+
+###### Artigo 89.º — Indicadores de actividade inferiores aos normais
+
+1 - A aplicação de métodos indirectos com fundamentos em a matéria tributável ser significativamente inferior à que resultaria da aplicação de indicadores objectivos de actividade de base técnico-científica só pode efectuar-se, para efeitos da alínea c) do artigo 87.º, em caso de o sujeito passivo não apresentar na declaração em que a liquidação se baseia razões justificativas desse afastamento, desde que tenham decorrido mais de três anos sobre o início da sua actividade.
+
+2 - Os indicadores objectivos de base técnico-científica referidos no número anterior são definidos anualmente, nos termos da lei, pelo Ministro das Finanças, após audição das associações empresariais e profissionais, e podem consistir em margens de lucro ou rentabilidade que, tendo em conta a localização e dimensão da actividade, sejam manifestamente inferiores às normais do exercício da actividade e possam, por isso, constituir factores distorsivos da concorrência.
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 7-B/99 - Diário da República n.º 49/1999, Suplemento n.º 2, Série I-A de 1999-02-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-b-1999-188698), em vigor a partir de 1999-01-01
+
+###### Artigo 89.º-A — Manifestações de fortuna
+
+1 - Há lugar a avaliação indireta da matéria coletável quando falte a declaração de rendimentos e o contribuinte evidencie as manifestações de fortuna constantes da tabela prevista no n.º 4 ou quando o rendimento líquido declarado mostre uma desproporção superior a 30 %, para menos, em relação ao rendimento padrão resultante da referida tabela.
+
+2 - Na aplicação da tabela prevista no n.º 4 tomam-se em consideração:
+
+a) Os bens adquiridos no ano em causa ou nos três anos anteriores pelo sujeito passivo ou qualquer elemento do respectivo agregado familiar;
+
+b) Os bens de que frua no ano em causa o sujeito passivo ou qualquer elemento do respectivo agregado familiar, adquiridos, nesse ano ou nos três anos anteriores, por sociedade na qual detenham, directa ou indirectamente, participação maioritária, ou por entidade sediada em território de fiscalidade privilegiada ou cujo regime não permita identificar o titular respectivo.
+
+c) Os suprimentos e empréstimos efectuados pelo sócio à sociedade, no ano em causa, ou por qualquer elemento do seu agregado familiar.
+
+d) A soma dos montantes transferidos de e para contas de depósito ou de títulos abertas pelo sujeito passivo em instituições financeiras residentes em país, território ou região sujeito a um regime fiscal claramente mais favorável, constante da lista aprovada por portaria do Ministro das Finanças, cuja existência e identificação não seja mencionada nos termos previstos no artigo 63.º-A, no ano em causa.
+
+3 - Verificadas as situações previstas no n.º 1 deste artigo, bem como na alínea f) do n.º 1 do artigo 87.º, cabe ao sujeito passivo a comprovação de que correspondem à realidade os rendimentos declarados e de que é outra a fonte das manifestações de fortuna ou do acréscimo de património ou da despesa efectuada.
+
+4 - Quando o sujeito passivo não faça a prova referida no número anterior relativamente às situações previstas no n.º 1 deste artigo, considera-se como rendimento tributável em sede de IRS, a enquadrar na categoria G, no ano em causa, e no caso das alíneas a) e b) do n.º 2, nos três anos seguintes, quando não existam indícios fundados, de acordo com os critérios previstos no artigo 90.º, que permitam à administração tributária fixar rendimento superior, o rendimento padrão apurado nos termos da tabela seguinte:
+
+(ver documento original)
+
+5 - Para efeitos da alínea f) do n.º 1 do artigo 87.º:
+
+a) Considera-se como rendimento tributável em sede de IRS, a enquadrar na categoria G, quando não existam indícios fundados, de acordo com os critérios previstos no artigo 90.º, que permitam à administração tributária fixar rendimento superior, a diferença entre o acréscimo de património ou a despesa efectuada, e os rendimentos declarados pelo sujeito passivo no mesmo período de tributação;
+
+b) Os acréscimos de património consideram-se verificados no período em que se manifeste a titularidade dos bens ou direitos e a despesa quando efectuada;
+
+c) Na determinação dos acréscimos patrimoniais, deve atender-se ao valor de aquisição e, sendo desconhecido, ao valor de mercado;
+
+d) Consideram-se como rendimentos declarados os rendimentos líquidos das diferentes categorias de rendimentos.
+
+6 - A decisão de avaliação da matéria colectável pelo método indirecto constante deste artigo é da competência do director de finanças da área do domicílio fiscal do sujeito passivo, sem faculdade de delegação.
+
+7 - Da decisão de avaliação da matéria colectável pelo método indirecto constante deste artigo cabe recurso para o tribunal tributário, com efeito suspensivo, a tramitar como processo urgente, não sendo aplicável o procedimento constante dos artigos 91.º e seguintes.
+
+8 - Ao recurso referido no número anterior aplica-se, com as necessárias adaptações, a tramitação prevista no artigo 146.º-B do Código de Procedimento e de Processo Tributário.
+
+9 - Para a aplicação dos n.os 3 a 4 da tabela, atende-se ao valor médio de mercado, considerando, sempre que exista, o indicado pelas associações dos sectores em causa.
+
+10 - A decisão de avaliação da matéria colectável com recurso ao método indirecto constante deste artigo, após tornar-se definitiva, deve ser comunicada pelo director de finanças ao Ministério Público e, tratando-se de funcionário ou titular de cargo sob tutela de entidade pública, também à tutela destes para efeitos de averiguações no âmbito da respectiva competência.
+
+11 - A avaliação indirecta no caso da alínea f) do n.º 1 do artigo 87.º deve ser feita no âmbito de um procedimento que inclua a investigação das contas bancárias, podendo no seu decurso o contribuinte regularizar a situação tributária, identificando e justificando a natureza dos rendimentos omitidos e corrigindo as declarações dos respectivos períodos.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 55-A/2012 - Diário da República n.º 209/2012, 1º Suplemento, Série I de 2012-10-29](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2012-146237), produz efeitos a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 94/2009 - Diário da República n.º 169/2009, Série I de 2009-09-01](https://diariodarepublica.pt/dr/detalhe/lei/94-2009-488505), em vigor a partir de 2009-09-06
+
+> Alterado pelo/a Artigo 107.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 19/2008 - Diário da República n.º 78/2008, Série I de 2008-04-21](https://diariodarepublica.pt/dr/detalhe/lei/19-2008-249976), em vigor a partir de 2008-04-26
+
+> Alterado pelo/a Artigo 89.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 40.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+> Alterado pelo/a Artigo 44.º do/a [Lei n.º 107-B/2003 - Diário da República n.º 301/2003, 2º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/lei/107-b-2003-669556), em vigor a partir de 2004-01-01, produz efeitos a partir de 2004-01-01
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 8/2001 - Diário da República n.º 61/2001, Série I-A de 2001-03-13](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-2001-390238), em vigor a partir de 2001-01-01
+
+> Aditado pelo/a Artigo 13.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, Suplemento n.º 3, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01
+
+##### Subsecção II — Critérios
+
+###### Artigo 90.º — Determinação da matéria tributável por métodos indirectos
+
+1 - Em caso de impossibilidade de comprovação e quantificação directa e exacta da matéria tributável, a determinação da matéria tributável por métodos indirectos poderá ter em conta os seguintes elementos:
+
+a) As margens médias do lucro líquido sobre as vendas e prestações de serviços ou compras e fornecimentos de serviços de terceiros;
+
+b) As taxas médias de rentabilidade de capital investido;
+
+c) O coeficiente técnico de consumos ou utilização de matérias-primas e outros custos directos;
+
+d) Os elementos e informações declaradas à administração tributária, incluindo os relativos a outros impostos e, bem assim, os relativos a empresas ou entidades que tenham relações económicas com o contribuinte;
+
+e) A localização e dimensão da actividade exercida;
+
+f) Os custos presumidos em função das condições concretas do exercício da actividade;
+
+g) A matéria tributável do ano ou anos mais próximos que se encontre determinada pela administração tributária.
+
+h) O valor de mercado dos bens ou serviços tributados;
+
+i) Uma relação congruente e justificada entre os factos apurados e a situação concreta do contribuinte.
+
+2 - No caso de a matéria tributável se afastar significativamente para menos, sem razão justificada, dos indicadores objectivos de actividade de base técnico-científica, a sua determinação efectua-se de acordo com esses indicadores.
+
+> Alterado pelo/a Artigo 13.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, Suplemento n.º 3, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01
+
+##### Subsecção III — Procedimentos
+
+###### Artigo 91.º — Pedido de revisão da matéria colectável
+
+1 - O sujeito passivo pode, salvo nos casos de aplicação do regime simplificado de tributação em que não sejam efectuadas correcções com base noutro método indirecto, solicitar a revisão da matéria tributável fixada por métodos indirectos em requerimento fundamentado dirigido ao órgão da administração tributária da área do seu domicílio fiscal, a apresentar no prazo de 30 dias contados a partir da data da notificação da decisão e contendo a indicação do perito que o representa.
+
+2 - O pedido referido no número anterior tem efeito suspensivo da liquidação do tributo.
+
+3 - Recebido o pedido de revisão e se estiverem reunidos os requisitos legais da sua admissão, o órgão da administração tributária referido no n.º 1 designará no prazo de 8 dias um perito da administração tributária que preferencialmente não deve ter tido qualquer intervenção anterior no processo e marcará uma reunião entre este e o perito indicado pelo contribuinte a realizar no prazo máximo de 15 dias.
+
+4 - No requerimento referido no n.º 1, pode o sujeito passivo requerer a nomeação de perito independente, igual faculdade cabendo ao órgão da administração tributária até à marcação da reunião referida no n.º 3.
+
+5 - A convocação é efectuada com antecedência não inferior a oito dias por carta registada e vale como desistência do pedido a não comparência injustificada do perito designado pelo contribuinte.
+
+6 - Em caso de falta do perito do contribuinte, o órgão da administração tributária marcará nova reunião para o 5.º dia subsequente, advertindo simultaneamente o perito do contribuinte que deverá justificar a falta à primeira reunião e que a não justificação da falta ou a não comparência à segunda reunião valem como desistência da reclamação.
+
+7 - A falta do perito independente não obsta à realização das reuniões sem prejuízo de este poder apresentar por escrito as suas observações no prazo de cinco dias a seguir à reunião em que devia ter comparecido.
+
+8 - O sujeito passivo que apresente pedido de revisão da matéria tributável não está sujeito a qualquer encargo em caso de indeferimento do pedido, sem prejuízo do disposto no número seguinte.
+
+9 - Poderá ser aplicado ao sujeito passivo um agravamento até 5% da colecta reclamada quando se verificarem cumulativamente as seguintes circunstâncias:
+
+a) Provar-se que lhe é imputável a aplicação de métodos indirectos;
+
+b) A reclamação ser destituída de qualquer fundamento;
+
+c) Tendo sido deduzida impugnação judicial, esta ser considerada improcedente.
+
+10 - O agravamento referido no número anterior será aplicado pelo órgão da administração tributária referido no n.º 1 e exigido adicionalmente ao tributo a título de custas.
+
+11 - Os peritos da Fazenda Pública constarão da lista de âmbito distrital a aprovar anualmente pelo Ministro das Finanças até 31 de Março.
+
+12 - As listas poderão estar organizadas, por sectores de actividade económica, de acordo com a qualificação dos peritos.
+
+13 - Os processos de revisão serão distribuídos pelos peritos de acordo com a data de entrada e a ordem das listas referidas no n.º 11, salvo impedimento ou outra circunstância devidamente fundamentada pela entidade referida no n.º 1.
+
+14 - As correcções meramente aritméticas da matéria tributável resultantes de imposição legal e as questões de direito, salvo quando referidas aos pressupostos de determinação indirecta da matéria tributável, não estão abrangidas pelo disposto neste artigo.
+
+15 - É autuado um único procedimento de revisão em caso de reclamação de matéria tributável apurada na mesma acção de inspecção, ainda que respeitante a mais de um exercício ou tributo.
+
+> Alterado pelo/a Artigo 43.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 13.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, Suplemento n.º 3, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01
+
+> Alterado pelo/a Artigo único do/a [Lei n.º 100/99 - Diário da República n.º 172/1999, Série I-A de 1999-07-26](https://diariodarepublica.pt/dr/detalhe/lei/100-1999-353353), em vigor a partir de 1999-07-31
+
+###### Artigo 92.º — Procedimento de revisão
+
+1 - O procedimento de revisão da matéria colectável assenta num debate contraditório entre o perito indicado pelo contribuinte e o perito da administração tributária, com a participação do perito independente, quando houver, e visa o estabelecimento de um acordo, nos termos da lei, quanto ao valor da matéria tributável a considerar para efeitos de liquidação.
+
+2 - O procedimento é conduzido pelo perito da administração tributária e deve ser concluído no prazo de 30 dias contados do seu início, dispondo o perito do contribuinte de direito de acesso a todos os elementos que tenham fundamentado o pedido de revisão.
+
+3 - Havendo acordo entre os peritos nos termos da presente subsecção, o tributo será liquidado com base na matéria tributável acordada.
+
+4 - O acordo deverá, em caso de alteração da matéria inicialmente fixada, fundamentar a nova matéria tributável encontrada.
+
+5 - Em caso de acordo, a administração tributária não pode alterar a matéria tributável acordada, salvo em caso de trânsito em julgado de crime de fraude fiscal envolvendo os elementos que serviram de base à sua quantificação, considerando-se então suspenso o prazo de caducidade no período entre o acordo e a decisão judicial.
+
+6 - Na falta de acordo no prazo estabelecido no n.º 2, o órgão competente para a fixação da matéria tributável resolverá, de acordo com o seu prudente juízo, tendo em conta as posições de ambos os peritos.
+
+7 - Se intervier perito independente, a decisão deve obrigatoriamente fundamentar a adesão ou rejeição, total ou parcial, do seu parecer.
+
+8 - No caso de o parecer do perito independente ser conforme ao do perito do contribuinte e a administração tributária resolver em sentido diferente, a reclamação graciosa ou impugnação judicial têm efeito suspensivo, independentemente da prestação de garantia quanto à parte da liquidação controvertida em que aqueles peritos estiveram de acordo.
+
+###### Artigo 93.º — Perito independente
+
+1 - O perito independente referido no artigo anterior é sorteado entre as personalidades constantes de listas distritais, que serão organizadas pela Comissão Nacional, nos termos do artigo 94.º
+
+2 - Os peritos independentes não podem desempenhar, ou ter desempenhado nos últimos três anos, qualquer função ou cargo público na administração financeira do Estado e seus organismos autónomos, Regiões Autónomas e autarquias locais, devem ser especialmente qualificados no domínio da economia, gestão ou auditoria de empresas e exercer actividade há mais de 10 anos.
+
+3 - Sob pena de exclusão das listas distritais a determinar pelo presidente da Comissão Nacional, os peritos independentes não podem intervir nos processos de revisão de matéria tributária dos sujeitos passivos a quem, há menos de três anos, tenham prestado serviços a qualquer título.
+
+4 - A remuneração dos peritos independentes é regulada por portaria do Ministro das Finanças.
+
+> Alterado pelo/a Artigo 69.º do/a [Lei n.º 3-B/2000 - Diário da República n.º 80/2000, Suplemento n.º 2, Série I-A de 2000-04-04](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), em vigor a partir de 2000-01-01
+
+###### Artigo 94.º — Comissão Nacional
+
+1 - Compete à Comissão Nacional de Revisão a elaboração trienal das listas distritais de peritos independentes a que se refere o artigo anterior e contribuir para a uniformidade dos critérios técnicos utilizados na determinação da matéria tributável por métodos indirectos.
+
+2 - No desempenho das competências referidas no número anterior, deve a Comissão Nacional elaborar um relatório anual.
+
+3 - A Comissão Nacional é constituída por representantes da Autoridade Tributária e Aduaneira e da Inspeção-Geral de Finanças e por três fiscalistas de reconhecido mérito que não façam parte daquela Autoridade, nem o tenham feito nos últimos cinco anos, a nomear por despacho do membro do Governo responsável pela área das finanças.
+
+4 - A Comissão Nacional, no exercício das competências referidas no n.º 1, pode apresentar recomendações à administração tributária e proceder a correcção à composição das listas, designadamente afastando aquelas que se revelarem inidóneas para o adequado exercício das funções, por infracção aos deveres de zelo e imparcialidade que lhes cabem ou por falta injustificada às reuniões marcadas para apreciação do pedido de revisão da matéria colectável, fundamentando sempre o respectivo acto.
+
+5 - O funcionamento da Comissão e o estatuto e remuneração dos seus membros são regulados por portaria do Ministro das Finanças.
+
+6 - Os membros da Comissão Nacional são designados por um período de seis anos.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+> Alterado pelo/a Artigo único do/a [Lei n.º 100/99 - Diário da República n.º 172/1999, Série I-A de 1999-07-26](https://diariodarepublica.pt/dr/detalhe/lei/100-1999-353353), em vigor a partir de 1999-07-31
+
+## Título IV — Do processo tributário
+
+### Capítulo I — Acesso à justiça tributária
+
+###### Artigo 95.º — Direito de impugnação ou recurso
+
+1 - O interessado tem o direito de impugnar ou recorrer de todo o acto lesivo dos seus direitos e interesses legalmente protegidos, segundo as formas de processo prescritas na lei.
+
+2 - Podem ser lesivos, nomeadamente:
+
+a) A liquidação de tributos, considerando-se também como tal para efeitos da presente lei os actos de autoliquidação, retenção na fonte e pagamento por conta;
+
+b) A fixação de valores patrimoniais;
+
+c) A determinação da matéria tributável por métodos indirectos quando não dê lugar a liquidação do tributo;
+
+d) O indeferimento, expresso ou tácito e total ou parcial, de reclamações, recursos ou pedidos de revisão ou reforma da liquidação;
+
+e) O agravamento à colecta resultante do indeferimento de reclamação;
+
+f) O indeferimento de pedidos de isenção ou de benefícios fiscais sempre que a sua concessão esteja dependente de procedimento autónomo;
+
+g) A fixação de contrapartidas ou compensações autoritariamente impostas em quaisquer procedimentos de licenciamento ou autorização;
+
+h) Outros actos administrativos em matéria tributária;
+
+i) A aplicação de coimas e sanções acessórias;
+
+j) Os actos praticados na execução fiscal;
+
+l) A apreensão de bens ou outras providências cautelares da competência da administração tributária.
+
+###### Artigo 96.º — Renúncia ao direito de impugnação ou recurso
+
+1 - O direito de impugnação ou recurso não é renunciável, salvo nos casos previstos na lei.
+
+2 - A renúncia ao exercício do direito de impugnação ou recurso só é válida se constar de declaração ou outro instrumento formal.
+
+###### Artigo 97.º — Celeridade da justiça tributária
+
+1 - O direito de impugnar ou de recorrer contenciosamente implica o direito de obter, em prazo razoável, uma decisão que aprecie, com força de caso julgado, a pretensão regularmente deduzida em juízo e a possibilidade da sua execução.
+
+2 - A todo o direito de impugnar corresponde o meio processual mais adequado de o fazer valer em juízo.
+
+3 - Ordenar-se-á a correcção do processo quando o meio usado não for o adequado segundo a lei.
+
+###### Artigo 98.º — Igualdade de meios processuais
+
+As partes dispõem no processo tributário de iguais faculdades e meios de defesa.
+
+###### Artigo 99.º — Princípio do inquisitório e direitos e deveres de colaboração processual
+
+1 - O tribunal deve realizar ou ordenar oficiosamente todas as diligências que se lhe afigurem úteis para conhecer a verdade relativamente aos factos alegados ou de que oficiosamente pode conhecer.
+
+2 - Os particulares estão obrigados a prestar colaboração nos termos da lei de processo civil.
+
+3 - Todas as autoridades ou repartições públicas são obrigadas a prestar as informações ou remeter cópia dos documentos que o juiz entender necessários ao conhecimento do objecto do processo.
+
+###### Artigo 100.º — Efeitos de decisão favorável ao sujeito passivo
+
+1 - A administração tributária está obrigada, em caso de procedência total ou parcial de reclamações ou recursos administrativos, ou de processo judicial a favor do sujeito passivo, à plena reconstituição da situação que existiria se não tivesse sido cometida a ilegalidade, compreendendo o pagamento de juros indemnizatórios, nos termos e condições previstos na lei.
+
+2 - No procedimento tributário, a reconstituição da situação através da reposição da legalidade deve ser executada no prazo de 60 dias.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+> Alterado pelo/a Artigo 149.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+### Capítulo II — Formas de processo e processo de execução
+
+###### Artigo 101.º — Meios processuais tributários
+
+São meios processuais tributários:
+
+a) A impugnação judicial;
+
+b) A acção para reconhecimento de direito ou interesse legítimo em matéria tributária;
+
+c) O recurso, no próprio processo, de actos de aplicação de coimas e sanções acessórias;
+
+d) O recurso dos atos praticados na execução fiscal, no próprio processo ou, nos casos de subida imediata, por apenso;
+
+e) Os procedimentos cautelares de arrolamento e de arresto;
+
+f) Os meios acessórios de intimação para consulta de processos ou documentos administrativos e passagem de certidões;
+
+g) A produção antecipada de prova;
+
+h) A intimação para um comportamento, em caso de omissões da administração tributária lesivas de quaisquer direitos ou interesses legítimos;
+
+i) A impugnação das providências cautelares adoptadas pela administração tributária;
+
+j) Os recursos contenciosos de actos denegadores de isenções ou benefícios fiscais ou de outros actos relativos a questões tributárias que não impliquem a apreciação do acto de liquidação.
+
+> Alterado pelo/a Artigo 220.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+###### Artigo 102.º — Execução da sentença
+
+1 - A execução das sentenças dos tribunais tributários segue o regime previsto para a execução das sentenças dos tribunais administrativos.
+
+2 - Em caso de a sentença implicar a restituição de tributo já pago, são devidos juros de mora a partir do termo do prazo da sua execução espontânea.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+> Alterado pelo/a Artigo 83.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01
+
+###### Artigo 103.º — Processo de execução
+
+1 - O processo de execução fiscal tem natureza judicial, sem prejuízo da participação dos órgãos da administração tributária nos actos que não tenham natureza jurisdicional.
+
+2 - É garantido aos interessados o direito de reclamação para o juiz da execução fiscal dos actos materialmente administrativos praticados por órgãos da administração tributária, nos termos do número anterior.
+
+###### Artigo 104.º — Litigância de má fé
+
+1 - Sem prejuízo da isenção de custas, a administração tributária pode ser condenada numa sanção pecuniária a quantificar de acordo com as regras sobre a litigância de má fé em caso de actuar em juízo contra o teor de informações vinculativas anteriormente prestadas aos interessados ou o seu procedimento no processo divergir do habitualmente adoptado em situações idênticas.
+
+2 - O sujeito passivo poderá ser condenado em multa por litigância de má fé, nos termos da lei geral.
+
+###### Artigo 105.º — Alçadas
+
+A alçada dos tribunais tributários corresponde àquela que se encontra estabelecida no Estatuto dos Tribunais Administrativos e Fiscais.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+> Alterado pelo/a Artigo 220.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+## Título V — Das infracções fiscais
+
+> Revogado pelo/a Artigo 2.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+### Capítulo I — Das infracções fiscais
+
+> Revogado pelo/a Artigo 2.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 106.º — Espécies de infracções
+
+1 - São infracções fiscais os factos típicos, ilícitos e culposos declarados puníveis pelas leis tributárias.
+
+2 - As infracções fiscais podem constituir crimes e contra-ordenações.
+
+> Revogado pelo/a Artigo 2.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 107.º — Crimes e contra-ordenações fiscais
+
+1 - A definição do tipo de crime, contra-ordenação fiscal, sanções e regras de procedimento são objecto de diploma próprio.
+
+2 - São subsidiariamente aplicáveis aos crimes fiscais o Código Penal e o Código de Processo Penal e às contra-ordenações fiscais o regime geral do ilícito de mera ordenação social.
+
+3 - A aplicação de sanções fiscais é sempre efectuada em processo contraditório autónomo do processo de liquidação dos tributos.
+
+> Revogado pelo/a Artigo 2.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 108.º — Dolo e negligência
+
+1 - As contra-ordenações fiscais podem ser punidas a título de dolo ou negligência.
+
+2 - Os crimes só podem ser punidos a título de dolo.
+
+> Revogado pelo/a Artigo 2.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 109.º — Penas aplicáveis
+
+1 - As contra-ordenações fiscais são puníveis com coima e as sanções acessórias que a lei definir.
+
+2 - Aos crimes fiscais são aplicáveis as penas de prisão ou multa.
+
+> Revogado pelo/a Artigo 2.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 110.º — Subsistência da dívida do imposto
+
+O cumprimento integral da sanção efectivamente aplicada não exonera, em nenhuma circunstância, do pagamento do imposto devido e demais acréscimos legais.
+
+> Revogado pelo/a Artigo 2.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 111.º — Responsabilidade das pessoas colectivas
+
+1 - As pessoas colectivas e equiparadas são responsáveis, nos termos da lei, pelas infracções fiscais cometidas pelos seus órgãos ou representantes, em seu nome e no interesse colectivo.
+
+2 - A responsabilidade da pessoa colectiva é excluída quando o agente da infracção tiver comprovadamente actuado contra ordens ou instruções expressas de quem de direito.
+
+3 - A responsabilidade das entidades referidas no n.º 1 não exclui a responsabilidade individual dos respectivos agentes.
+
+> Revogado pelo/a Artigo 2.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 112.º — Responsabilidade solidária e subsidiária
+
+1 - Os administradores, directores, gerentes e outras pessoas que exerçam, ainda que somente de facto, funções de administração em pessoas colectivas e entes fiscalmente equiparados são responsáveis subsidiários:
+
+a) Pelas multas ou coimas cujo facto constitutivo tenha ocorrido no período do exercício do seu cargo ou vencidas antes do início deste quando tiver sido por culpa sua que o património da sociedade ou pessoa colectiva se tornou insuficiente para o seu pagamento;
+
+b) Pelas multas ou coimas vencidas no período do seu mandato, salvo quando provarem que a falta de pagamento lhes não foi imputável.
+
+2 - A responsabilidade subsidiária prevista neste artigo é solidária se forem várias as pessoas a praticar os actos ou omissões culposos de que resulte a insuficiência do património das entidades em causa.
+
+3 - Quem colaborar dolosamente na prática de infracção tributária é solidariamente responsável pelo pagamento das multas e coimas aplicadas ao agente principal da infracção.
+
+> Revogado pelo/a Artigo 2.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 113.º — Contra-ordenações simples, graves e muito graves
+
+Para efeitos das sanções aplicáveis as contra-ordenações fiscais podem ser qualificadas, por lei autónoma, como simples, graves ou muito graves.
+
+> Revogado pelo/a Artigo 2.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 114.º — Cumulação de sanções
+
+Só as contra-ordenações fiscais muito graves podem ser sancionadas simultaneamente a título principal e acessório.
+
+> Revogado pelo/a Artigo 2.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 115.º — Determinação da medida da coima
+
+1 - Na determinação da medida concreta da coima, dentro dos limites mínimo e máximo previstos na lei, devem considerar-se, nomeadamente:
+
+a) Aferição objectiva da gravidade da infracção;
+
+b) Graduação da culpa do agente;
+
+c) Apreciação da situação económica do agente;
+
+d) O benefício económico efectivo resultante da prática da infracção.
+
+2 - A determinação do benefício económico efectivo obtido com a prática da infracção deve ter em conta os juros compensatórios e encargos legais que forem devidos.
+
+> Revogado pelo/a Artigo 2.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 116.º — Regras de extinção da responsabilidade por contra-ordenação
+
+Para além dos casos previstos na lei, pode não ser aplicada coima, desde que se verifiquem cumulativamente as seguintes circunstâncias:
+
+a) A prática da infracção não ocasione prejuízo efectivo à receita fiscal;
+
+b) Se mostre regularizada a falta cometida;
+
+c) Se possa claramente considerar que a falta revela um diminuto grau de culpa.
+
+> Revogado pelo/a Artigo 2.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 117.º — Redução das coimas
+
+Independentemente do disposto no artigo anterior, a coima pode ser reduzida, nos termos da lei, no caso de o infractor reconhecer a sua responsabilidade e regularizar a situação tributária até à decisão do processo de contra-ordenação fiscal.
+
+> Revogado pelo/a Artigo 2.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+### Capítulo II — Processo das contra-ordenações
+
+> Revogado pelo/a Artigo 2.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 118.º — Constituição e composição da comissão de infracções fiscais
+
+É constituída uma comissão de infracções fiscais, composta por quatro especialistas de reconhecida competência técnica, nomeados pelo Ministro das Finanças, com a competência que a lei lhe deferir para aplicar as sanções principais e acessórias previstas na lei para as infracções fiscais e contribuir para a uniformização dos critérios utilizados pela administração tributária.
+
+> Revogado pelo/a Artigo 2.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 119.º — Prescrição do procedimento contra-ordenacional
+
+O procedimento por contra-ordenação extingue-se, por efeito da prescrição, logo que sobre a prática da mesma sejam decorridos cinco anos, sem prejuízo das causas de interrupção e de suspensão previstas na lei.
+
+> Revogado pelo/a Artigo 2.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 120.º — Prescrição das sanções contra-ordenacionais
+
+As sanções por contra-ordenação fiscal prescrevem no prazo de cinco anos a contar da data da sua aplicação, sem prejuízo das causas de interrupção e de suspensão previstas na lei.
+
+> Revogado pelo/a Artigo 2.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05

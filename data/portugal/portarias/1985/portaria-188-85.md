@@ -1,0 +1,121 @@
+---
+schema_version: '1.0'
+id: pt:dre:325531:por
+title: Portaria n.º 188/85
+short_title: null
+summary: Revoga a Portaria n.º 163/84, de 24 de Março, que fixa os preços de venda pela EPAC - Empresa Pública de Abastecimento
+  de Cereais aos industriais descascadores de arroz importado dos tipos comerciais Carolino e Gigante
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Plano, da Agricultura e do Comércio e Turismo - Secretarias de Estado do Orçamento, do Comércio
+  e Indústria Agrícolas e do Comércio Interno
+proposing_entity: null
+official_number: 188/85
+official_date: null
+publication_date: '1985-04-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 80/1985, Série I de 1985-04-06
+  number: '80'
+  series: I
+  supplement: null
+  pages: 951 - 951
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/04/08000/09510951.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '325531'
+  dre_path: /dr/detalhe/portaria/188-1985-325531
+  internal: pt:dre:325531:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/188-1985-325531
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/188-1985-325531
+  consolidated_url: null
+  retrieved_at: '2026-10-23T08:20:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d3d73ffaa7607c28ed47bbba2b30bbbc6f6196da06e2303b092315e078f90ecc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:20:30Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Arroz
+- EPAC
+- Importação
+- Preço
+relationships:
+- type: cites
+  target: pt:dre:416413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681624:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T08:20:30Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 188/85
+
+de 6 de Abril
+
+Ao abrigo do disposto no n.º 2 do artigo 4.º do [Decreto-Lei n.º 609-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/609-a-1975-666720), de 8 de Novembro, e na alínea a) do artigo 5.º do [Decreto-Lei n.º 885/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/885-1976-416413), de 29 de Dezembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 85/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-1980-681624), de 19 de Abril:
+
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Orçamento, do Comércio e Indústria Agrícolas e do Comércio Interno, o seguinte:
+
+1.º É revogada a [Portaria n.º 163/84](https://diariodarepublica.pt/dr/detalhe/portaria/163-1984-661904), de 24 de Março.
+
+2.º Esta portaria entra em vigor no dia da sua publicação.
+
+Secretarias de Estado do Orçamento, do Comércio e Indústria Agrícolas e do Comércio Interno.
+
+Assinada em 18 de Março de 1985.
+
+O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado do Comércio e Indústria Agrícolas, Carlos Alberto Antunes Filipe. - O Secretário de Estado do Comércio Interno, Agostinho Alberto Bento da Silva Abade.

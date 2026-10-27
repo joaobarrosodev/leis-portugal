@@ -1,0 +1,348 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:916745909:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2025-916753152",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/5-2025-916745909",
+ "source_lastmod": "2025-10-01",
+ "versions": [
+  {
+   "date": "2025-05-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "916755008",
+    "916755009",
+    "916755010",
+    "916755011",
+    "916755012",
+    "916755013",
+    "916755014",
+    "916755015",
+    "916755016",
+    "916755017",
+    "916755018",
+    "916755019",
+    "916755020",
+    "916755021",
+    "916755022",
+    "916755023",
+    "916755024",
+    "916755025",
+    "916755026",
+    "916755027",
+    "916755028",
+    "916755029",
+    "916755030",
+    "916755031",
+    "916755032",
+    "916755033"
+   ]
+  },
+  {
+   "date": "2025-10-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:937443531:por",
+     "title": "Decreto Regulamentar Regional n.º 15/2025/M",
+     "published": "2025-10-01",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/15-2025-937443531"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "916755008",
+    "916755009",
+    "937573848",
+    "916755011",
+    "916755012",
+    "937573849",
+    "937573850",
+    "916755015",
+    "916755016",
+    "916755017",
+    "916755018",
+    "916755019",
+    "916755020",
+    "916755021",
+    "916755022",
+    "916755023",
+    "937573851",
+    "916755025",
+    "916755026",
+    "916755027",
+    "916755028",
+    "916755029",
+    "916755030",
+    "916755031",
+    "916755032",
+    "916755033",
+    "916755034"
+   ]
+  }
+ ],
+ "fragments": {
+  "916755008": {
+   "fragment_id": "916753153",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 5/2025/M\n\nAprova a organização e funcionamento do XVI Governo Regional da Madeira\n\nOs artigos 56.º, n.º 3, e 69.º, alínea c), do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, e revisto pelas Leis n.<sup>os</sup> 130/99, de 21 de agosto, e 12/2000, de 21 de junho, estabelecem a competência do Governo Regional para aprovar a sua organização e funcionamento, objetivo prosseguido por via deste diploma, que aprova a sua organização e funcionamento, procedendo à redistribuição e reformulação de atribuições entre os seus departamentos regionais.\n\nAssim, nos termos dos artigos 227.º, n.º 1, alínea d), e 231.º, n.º 6, da Constituição da República Portuguesa e dos artigos 56.º, n.º 3, 69.º, alíneas c) e d), e 70.º, n.º 1, do Estatuto Político-Administrativo da Região Autónoma da Madeira, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "916755009": {
+   "fragment_id": "916753154",
+   "type": 1,
+   "heading": "Capítulo I — DO GOVERNO REGIONAL DA MADEIRA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — DO GOVERNO REGIONAL DA MADEIRA"
+  },
+  "916755010": {
+   "fragment_id": "916753155",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura do Governo Regional da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Estrutura do Governo Regional da Madeira\n\nA estrutura do Governo Regional da Madeira é a seguinte:\n\na) Presidência do Governo Regional;\n\nb) Secretaria Regional de Educação, Ciência e Tecnologia;\n\nc) Secretaria Regional de Turismo, Ambiente e Cultura;\n\nd) Secretaria Regional de Economia;\n\ne) Secretaria Regional de Saúde e Proteção Civil;\n\nf) Secretaria Regional das Finanças;\n\ng) Secretaria Regional de Agricultura e Pescas;\n\nh) Secretaria Regional de Inclusão, Trabalho e Juventude;\n\ni) Secretaria Regional de Equipamentos e Infraestruturas."
+  },
+  "916755011": {
+   "fragment_id": "916753156",
+   "type": 1,
+   "heading": "Capítulo II — DA PRESIDÊNCIA E SECRETARIAS REGIONAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — DA PRESIDÊNCIA E SECRETARIAS REGIONAIS"
+  },
+  "916755012": {
+   "fragment_id": "916753157",
+   "type": 11,
+   "heading": "Artigo 2.º — Presidência do Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Presidência do Governo\n\n1 - À Presidência do Governo Regional são cometidas as atribuições referentes às comunidades, emigração, imigração e cooperação externa.\n\n2 - A Presidência do Governo Regional assegura o apoio necessário à manutenção e gestão às Casas da Madeira de Lisboa, Porto e Coimbra em território continental e na Região Autónoma dos Açores."
+  },
+  "916755013": {
+   "fragment_id": "916753158",
+   "type": 11,
+   "heading": "Artigo 3.º — Secretaria Regional de Educação, Ciência e Tecnologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Secretaria Regional de Educação, Ciência e Tecnologia\n\n1 - À Secretaria Regional de Educação, Ciência e Tecnologia são cometidas as atribuições referentes aos setores seguintes:\n\na) Educação;\n\nb) Educação especial;\n\nc) Formação profissional;\n\nd) Desporto;\n\ne) Ciência, investigação e tecnologia;\n\nf) Administração da justiça;\n\ng) Coordenação política;\n\nh) Assuntos parlamentares;\n\ni) Relações com a Universidade da Madeira e demais entidades de formação superior;\n\nj) Comunicação social.\n\n2 - No âmbito das atribuições referidas no número anterior, funcionam sob a tutela e superintendência da Secretaria Regional de Educação, Ciência e Tecnologia os seguintes serviços da administração indireta da Região Autónoma da Madeira:\n\na) Instituto para a Qualificação, IP-RAM;\n\nb) Conservatório - Escola das Artes da Madeira - Eng.º Luiz Peter Clode;\n\nc) Escola de Hotelaria e Turismo da Madeira (EHTM).\n\n3 - A Secretaria Regional de Educação, Ciência e Tecnologia exerce a tutela sobre a ARDITI - Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação.\n\n4 - Na dependência da Secretaria Regional de Educação, Ciência e Tecnologia funciona a estrutura de missão da Unidade de Implementação da Estratégia Regional de Especialização Inteligente (EREI) da Região Autónoma da Madeira (RAM).\n\n5 - Compete ainda à Secretaria Regional de Educação, Ciência e Tecnologia suportar os encargos relativos às iniciativas das instituições de defesa e militares."
+  },
+  "916755014": {
+   "fragment_id": "916753159",
+   "type": 11,
+   "heading": "Artigo 4.º — Secretaria Regional de Turismo, Ambiente e Cultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Secretaria Regional de Turismo, Ambiente e Cultura\n\n1 - À Secretaria Regional de Turismo, Ambiente e Cultura são cometidas as atribuições referentes aos setores seguintes:\n\na) Turismo;\n\nb) Cultura;\n\nc) Aeroportos e transportes aéreos;\n\nd) Mobilidade aérea.\n\ne) Mar e economia azul;\n\nf) Ambiente;\n\ng) Ação climática;\n\nh) Recursos hídricos;\n\ni) Litoral;\n\nj) Resíduos e economia circular;\n\nk) Ordenamento do território;\n\nl) Urbanismo;\n\nm) Informação geográfica, cartográfica e cadastral;\n\nn) Paisagem;\n\no) Conservação da natureza, geo e biodiversidade;\n\np) Florestas;\n\nq) Áreas protegidas.\n\n2 - No âmbito das atribuições referidas no número anterior, funciona sob a tutela e superintendência da Secretaria Regional de Turismo, Ambiente e Cultura o Instituto das Florestas e Conservação da Natureza, IP-RAM, serviço da administração indireta da Região Autónoma da Madeira.\n\n3 - A Secretaria Regional de Turismo, Ambiente e Cultura exerce a tutela sobre a Associação de Promoção da Madeira.\n\n4 - Na dependência da Secretaria Regional de Turismo, Ambiente e Cultura funciona ainda a estrutura de missão do Observatório do Transporte Aéreo da Região Autónoma da Madeira, OTA-RAM."
+  },
+  "916755015": {
+   "fragment_id": "916753160",
+   "type": 11,
+   "heading": "Artigo 5.º — Secretaria Regional de Economia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Secretaria Regional de Economia\n\n1 - À Secretaria Regional de Economia são cometidas as atribuições referentes aos setores seguintes:\n\na) Economia e empresas;\n\nb) Apoio às empresas;\n\nc) Comércio, serviços e indústria;\n\nd) Empreendedorismo da competitividade e da inovação empresarial;\n\ne) Captação do investimento externo e da internacionalização empresarial;\n\nf) Inspeção das atividades económicas;\n\ng) Qualidade e metrologia;\n\nh) Transportes marítimos e acessibilidades marítimas;\n\ni) Mobilidade marítima.\n\n2 - No âmbito das atribuições referidas no número anterior, funciona sob a tutela e superintendência da Secretaria Regional de Economia o Instituto de Desenvolvimento Empresarial, IP-RAM, serviço da administração indireta da Região Autónoma da Madeira.\n\n3 - Sem prejuízo das atribuições legalmente cometidas à Secretaria Regional das Finanças no âmbito do setor empresarial da Região Autónoma da Madeira, a Secretaria Regional de Economia exerce a tutela setorial sobre as seguintes entidades:\n\na) APRAM - Administração dos Portos da Região Autónoma da Madeira, S. A.;\n\nb) Madeira Parques Empresariais, Sociedade Gestora, S. A.;\n\nc) Startup Madeira - More Than Ideas, L.<sup>da</sup>\n\n4 - A orientação da participação pública na Invest Madeira, Agência para a Internacionalização e Investimento, é da competência da Secretaria Regional de Economia."
+  },
+  "916755016": {
+   "fragment_id": "916753161",
+   "type": 11,
+   "heading": "Artigo 6.º — Secretaria Regional de Saúde e Proteção Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Secretaria Regional de Saúde e Proteção Civil\n\n1 - À Secretaria Regional de Saúde e Proteção Civil são cometidas as atribuições referentes aos seguintes setores:\n\na) Saúde;\n\nb) Proteção civil e bombeiros;\n\nc) Promoção de estilos de vida saudáveis;\n\nd) Prevenção e combate às dependências;\n\ne) Políticas públicas integradas e longevidade.\n\n2 - No âmbito das atribuições referidas no número anterior, funcionam sob a tutela e superintendência da Secretaria Regional de Saúde e Proteção Civil os seguintes serviços da administração indireta da Região Autónoma da Madeira:\n\na) Instituto de Administração da Saúde, IP-RAM;\n\nb) Serviço Regional de Proteção Civil, IP-RAM.\n\n3 - Sem prejuízo das atribuições legalmente cometidas à Secretaria Regional das Finanças no âmbito do setor empresarial da Região Autónoma da Madeira, a Secretaria Regional de Saúde e Proteção Civil exerce a tutela e superintendência sobre o Serviço de Saúde da Região Autónoma da Madeira, EPERAM."
+  },
+  "916755017": {
+   "fragment_id": "916753162",
+   "type": 11,
+   "heading": "Artigo 7.º — Secretaria Regional das Finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Secretaria Regional das Finanças\n\n1 - À Secretaria Regional das Finanças são cometidas as atribuições referentes aos setores seguintes:\n\na) Administração Pública;\n\nb) Administração Pública do Porto Santo;\n\nc) Finanças;\n\nd) Orçamento;\n\ne) Tesouro;\n\nf) Contabilidade;\n\ng) Assuntos fiscais;\n\nh) Estatística;\n\ni) Centro Internacional de Negócios da Madeira;\n\nj) Registo Internacional de Navios da Madeira;\n\nk) Património;\n\nl) Informática;\n\nm) Comunicações;\n\nn) Conformidade digital e proteção de dados;\n\no) Cibersegurança;\n\np) Inspeção Regional de Finanças;\n\nq) Modernização administrativa;\n\nr) Assuntos europeus;\n\ns) Autarquias locais;\n\nt) Planeamento regional e coordenação de políticas públicas;\n\nu) Coordenação geral dos fundos comunitários;\n\nv) Programa Estudante Insular e subsídio social de mobilidade do transporte marítimo e aéreo com o Porto Santo.\n\n2 - No âmbito das atribuições referidas no número anterior, funcionam sob a tutela e superintendência da Secretaria Regional das Finanças os seguintes serviços da administração indireta da Região Autónoma da Madeira:\n\na) Instituto de Desenvolvimento Regional, IP-RAM;\n\nb) Agência de Inovação e Modernização da Região Autónoma da Madeira, IP-RAM.\n\n3 - A Secretaria Regional das Finanças exerce a tutela sobre as seguintes entidades:\n\na) SDM - Sociedade de Desenvolvimento da Madeira, S. A.;\n\nb) PATRIRAM - Titularidade e Gestão do Património Público Regional, S. A.;\n\nc) Polo Científico e Tecnológico da Madeira, Madeira Tecnopolo, S. A.\n\n4 - Compete à Secretaria Regional das Finanças assegurar a colaboração e cooperação entre o Governo Regional e o Banco Português de Fomento, com vista a incrementar instrumentos de apoio financeiro ao investimento regional privado ou público, nomeadamente a realizar pelo setor empresarial regional.\n\n5 - A Secretaria Regional das Finanças exerce ainda, em relação às demais empresas públicas do setor empresarial da Região Autónoma da Madeira, as competências que são cometidas ao membro do Governo responsável pela área das finanças.\n\n6 - No âmbito da sua missão de sustentabilidade das finanças públicas, compete à Secretaria Regional das Finanças a coordenação intersetorial no desenvolvimento das políticas públicas, nomeadamente nas áreas com maior impacto orçamental.\n\n7 - Podem ainda ser cometidas à Secretaria Regional das Finanças atribuições de coordenação e supervisão de atividades comuns ou de funcionamento em rede, intra ou interdepartamental, nos termos e para os efeitos do disposto nos artigos 8.º e 9.º do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup> 24/2012/M, de 30 de agosto, 2/2013/M, de 2 de janeiro, 42-A/2016/M, de 30 de dezembro, e 6/2024/M, de 29 de julho.\n\n8 - Na dependência da Secretaria Regional das Finanças funcionam ainda as seguintes estruturas de missão:\n\na) Unidade de Reforma das Finanças Públicas e de Acompanhamento do Planeamento e Políticas Públicas;\n\nb) Gabinete de Representação em Bruxelas da Região Autónoma da Madeira (GRB-RAM)."
+  },
+  "916755018": {
+   "fragment_id": "916753163",
+   "type": 11,
+   "heading": "Artigo 8.º — Secretaria Regional de Agricultura e Pescas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Secretaria Regional de Agricultura e Pescas\n\n1 - À Secretaria Regional de Agricultura e Pescas são cometidas as atribuições referentes aos setores seguintes:\n\na) Agricultura;\n\nb) Pecuária;\n\nc) Veterinária;\n\nd) Proteção, saúde e bem-estar animal;\n\ne) Desenvolvimento rural e local;\n\nf) Vitivinicultura e bebidas espirituosas;\n\ng) Bordado Madeira, artesanato e artes tradicionais;\n\nh) Qualidade e segurança alimentar;\n\ni) Pescas e aquicultura;\n\nj) Gestão de água e de resíduos;\n\nk) Gestão dos fundos comunitários no âmbito da política agrícola comum e de mar e pescas.\n\n2 - No âmbito das atribuições referidas no número anterior, funciona sob a tutela e superintendência da Secretaria Regional de Agricultura e Pescas o IVBAM - Instituto do Vinho, do Bordado e do Artesanato da Madeira, IP-RAM, serviço da administração indireta da Região Autónoma da Madeira.\n\n3 - Sem prejuízo das atribuições legalmente cometidas à Secretaria Regional das Finanças no âmbito do setor empresarial da Região Autónoma da Madeira, a Secretaria Regional de Agricultura e Pescas exerce a tutela setorial sobre as seguintes entidades:\n\na) ARM - Águas e Resíduos da Madeira, S. A.;\n\nb) CARAM - Centro de Abate da Região Autónoma da Madeira, EPERAM;\n\nc) GESBA - Empresa de Gestão do Setor da Banana, L.<sup>da</sup>\n\n4 - Na dependência da Secretaria Regional de Agricultura e Pescas funciona ainda a estrutura de missão da Autoridade de Gestão do PEPAC - R. A. Madeira."
+  },
+  "916755019": {
+   "fragment_id": "916753164",
+   "type": 11,
+   "heading": "Artigo 9.º — Secretaria Regional de Inclusão, Trabalho e Juventude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Secretaria Regional de Inclusão, Trabalho e Juventude\n\n1 - À Secretaria Regional de Inclusão, Trabalho e Juventude são cometidas as atribuições referentes aos setores seguintes:\n\na) Solidariedade e segurança social;\n\nb) Emprego;\n\nc) Relações laborais e condições de trabalho;\n\nd) Concertação social;\n\ne) Relações com as instituições da economia social;\n\nf) Promoção e proteção social da família, crianças e jovens em risco, pessoas com deficiência e idosos;\n\ng) Cidadania e responsabilidade social;\n\nh) Políticas de inclusão social, igualdade de género, igualdade perante o trabalho e combate às discriminações;\n\ni) Defesa do consumidor;\n\nj) Natalidade;\n\nk) Voluntariado;\n\nl) Juventude;\n\nm) Mecanismos de apoio e de resolução de conflitos de consumo.\n\n2 - No âmbito das atribuições referidas no número anterior, funcionam sob a tutela e superintendência da Secretaria Regional de Inclusão, Trabalho e Juventude os seguintes serviços da administração indireta da Região Autónoma da Madeira:\n\na) Instituto de Emprego da Madeira, IP-RAM;\n\nb) Instituto de Segurança Social da Madeira, IP-RAM.\n\n3 - A manutenção, gestão dos recursos humanos e encargos respeitantes ao funcionamento do Parque Desportivo dos Trabalhadores Dr. Sidónio Fernandes compete à Secretaria Regional de Inclusão, Trabalho e Juventude.\n\n4 - A Secretaria Regional de Inclusão, Trabalho e Juventude assegura ainda os meios indispensáveis ao funcionamento do Centro de Arbitragem de Conflitos de Consumo da Região Autónoma da Madeira."
+  },
+  "916755020": {
+   "fragment_id": "916753165",
+   "type": 11,
+   "heading": "Artigo 10.º — Secretaria Regional de Equipamentos e Infraestruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Secretaria Regional de Equipamentos e Infraestruturas\n\n1 - À Secretaria Regional de Equipamentos e Infraestruturas são cometidas as atribuições referentes aos seguintes setores:\n\na) Edifícios, infraestruturas e equipamentos públicos;\n\nb) Estradas regionais;\n\nc) Obras públicas;\n\nd) Hidráulica fluvial;\n\ne) Barragens;\n\nf) Investigação e monitorização de obras;\n\ng) Energia;\n\nh) Habitação;\n\ni) Transportes e mobilidade terrestre.\n\n2 - No âmbito das atribuições referidas no número anterior, funciona sob a tutela e superintendência da Secretaria Regional de Equipamentos e Infraestruturas o Instituto de Mobilidade e Transportes, IP-RAM, serviço da administração indireta da Região Autónoma da Madeira.\n\n3 - Sem prejuízo das atribuições legalmente cometidas à Secretaria Regional das Finanças no âmbito do setor empresarial da Região Autónoma da Madeira, a Secretaria Regional de Equipamentos e Infraestruturas exerce a tutela setorial sobre as seguintes entidades:\n\na) EEM - Empresa de Eletricidade da Madeira, S. A.;\n\nb) Horários do Funchal - Transportes Públicos, S. A.;\n\nc) TIIM - Transportes Integrados e Intermodais da Madeira, S. A.;\n\nd) IHM - Investimentos Habitacionais da Madeira, EPERAM;\n\ne) Sociedade de Desenvolvimento do Norte da Madeira, S. A.;\n\nf) Sociedade de Desenvolvimento do Porto Santo, S. A.;\n\ng) Sociedade Metropolitana de Desenvolvimento, S. A.;\n\nh) Ponta do Oeste - Sociedade de Promoção e Desenvolvimento da Zona Oeste da Madeira, S. A.\n\n4 - A orientação da participação pública na AREAM - Agência Regional da Energia e Ambiente da Região Autónoma da Madeira é da competência da Secretaria Regional de Equipamentos e Infraestruturas.\n\n5 - As competências e definição das orientações na Concessionária de Estradas - VIAEXPRESSO da Madeira, S. A., e na VIALITORAL - Concessões Rodoviárias da Madeira, S. A., empresas participadas integradas no setor empresarial da Região Autónoma da Madeira, são cometidas à Secretaria Regional de Equipamentos e Infraestruturas."
+  },
+  "916755021": {
+   "fragment_id": "916753166",
+   "type": 1,
+   "heading": "Capítulo III — GABINETES DOS MEMBROS DO GOVERNO REGIONAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — GABINETES DOS MEMBROS DO GOVERNO REGIONAL"
+  },
+  "916755022": {
+   "fragment_id": "916753167",
+   "type": 11,
+   "heading": "Artigo 11.º — Composição dos Gabinetes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Composição dos Gabinetes\n\n1 - Até a entrada em vigor do diploma regional que proceder à aprovação do regime, composição e orgânica dos Gabinetes dos membros do Governo Regional, é aplicável, com as necessárias adaptações, o regime previsto no Decreto-Lei n.º 11/2012, de 20 de janeiro, com as especificidades previstas nos números seguintes.\n\n2 - O Gabinete do Presidente do Governo Regional é composto por um número máximo de cinco adjuntos, três secretários pessoais e quatro motoristas e os Gabinetes dos Secretários Regionais são compostos por um número máximo de três adjuntos, dois secretários pessoais e dois motoristas, sem prejuízo do disposto no número seguinte.\n\n3 - No Gabinete do Secretário Regional das Finanças, acresce à dotação referida no número anterior um adjunto e um motorista para o exercício de funções, respetivamente, de apoio político e técnico na área da Administração Pública no Porto Santo e de motorista do Gabinete no território continental, para assegurar o transporte de todos os membros do Governo Regional nas suas deslocações em serviço."
+  },
+  "916755023": {
+   "fragment_id": "916753168",
+   "type": 1,
+   "heading": "Capítulo IV — DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+  },
+  "916755024": {
+   "fragment_id": "916753169",
+   "type": 11,
+   "heading": "Artigo 12.º — Alterações e reestruturações orgânicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Alterações e reestruturações orgânicas\n\n1 - Nos termos da alínea c) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, a Presidência e as Secretarias Regionais procedem às reestruturações orgânicas decorrentes do presente diploma que se revelem necessárias à sua plena execução.\n\n2 - No prazo de 45 dias a contar da data de entrada em vigor do presente diploma, devem ser submetidas ao Conselho do Governo Regional as propostas de decreto regulamentar regional que consagrem o referido no número anterior.\n\n3 - Todos os departamentos regionais devem contemplar na sua organização interna as unidades de gestão, previstas no artigo 75.º do Decreto Legislativo Regional n.º 6/2024/M, de 29 de julho, as quais devem integrar o serviço que assegura as funções na área da contabilidade.\n\n4 - As unidades de gestão dos departamentos do Governo Regional a que se refere o número anterior devem ainda na sua composição integrar um elemento da carreira de técnico superior ou outra de grau de complexidade 3, ao qual são cometidas funções de acompanhamento do planeamento e políticas públicas e acompanhamento dos investimentos públicos na área setorial do respetivo departamento.\n\n5 - O elemento referido no número anterior deve ainda assumir a função de ponto focal no apoio e na colaboração ao acompanhamento do planeamento regional intersetorial assegurados atualmente pela estrutura de missão que funciona junto da Secretaria Regional das Finanças, Unidade de Reforma das Finanças Públicas e de Acompanhamento do Planeamento e Políticas Públicas.\n\n6 - Os diplomas orgânicos dos departamentos regionais, bem como dos respetivos serviços, que se revelem necessários à execução do presente diploma estão sujeitos a parecer prévio favorável do membro do Governo com a tutela das áreas das finanças e da Administração Pública."
+  },
+  "916755025": {
+   "fragment_id": "916753170",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma remissiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Norma remissiva\n\nAs referências legais aos departamentos do Governo Regional constantes do Decreto Regulamentar Regional n.º 13/2024/M, de 12 de julho, consideram-se, para todos os efeitos, reportadas aos departamentos regionais que, pelo presente diploma, integram as atribuições nas respetivas áreas e tutelam esses setores."
+  },
+  "916755026": {
+   "fragment_id": "916753171",
+   "type": 11,
+   "heading": "Artigo 14.º — Provedorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Provedorias\n\nOs meios físicos, administrativos, técnicos e financeiros necessários ao funcionamento do Provedor da Administração Pública Regional e do Provedor do Animal na Região Autónoma da Madeira são assegurados respetivamente pela Secretaria Regional das Finanças e pela Secretaria Regional de Agricultura e Pescas, que suportam os encargos financeiros decorrentes do mesmo."
+  },
+  "916755027": {
+   "fragment_id": "916753172",
+   "type": 11,
+   "heading": "Artigo 15.º — Transferência de serviços, competências e tutelas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Transferência de serviços, competências e tutelas\n\n1 - Todos os serviços da administração direta e indireta integrados em departamento regional que é extinto ou alterado são transferidos ou integrados nos departamentos do Governo Regional previstos no presente diploma com atribuições no respetivo setor, mantendo a natureza jurídica, modificando-se apenas, conforme os casos, o superior hierárquico ou o órgão de tutela, sem prejuízo do que as respetivas leis orgânicas vierem a dispor nesta matéria.\n\n2 - As competências, os direitos e as obrigações de que eram titulares os departamentos regionais extintos ou alterados são automaticamente transferidos para os correspondentes departamentos regionais previstos no presente diploma, organismos ou serviços que os substituem, sem dependência de quaisquer formalidades.\n\n3 - Até à constituição formal de novas unidades de gestão, as atribuições constantes dos n.<sup>os</sup> 2 a 4 do artigo 75.º do Decreto Legislativo Regional n.º 6/2024/M, de 29 de julho, continuam a ser asseguradas pelas unidades que, até à data, desempenham essas funções."
+  },
+  "916755028": {
+   "fragment_id": "916753173",
+   "type": 11,
+   "heading": "Artigo 16.º — Transferência e afetação de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Transferência e afetação de pessoal\n\n1 - As alterações na organização e funcionamento do Governo Regional são acompanhadas pela correspondente transferência do pessoal, sem dependência de quaisquer formalidades e sem prejuízo dos respetivos direitos e deveres consagrados na lei.\n\n2 - Os novos departamentos governamentais, bem como os departamentos objeto de alteração, devem elaborar ou atualizar as respetivas listas nominativas no âmbito do Sistema Centralizado de Gestão de Recursos Humanos.\n\n3 - Até a aprovação dos diplomas orgânicos dos departamentos referidos no número anterior e elaboração das listas nominativas mencionadas naquele normativo, por despacho conjunto dos membros do Governo Regional com a tutela das finanças, da Administração Pública, do serviço a que pertence o trabalhador e do serviço integrador, pode ocorrer a reafetação de pessoal aos serviços dependentes dos gabinetes das novas secretarias regionais.\n\n4 - A reafetação prevista no número anterior, de acordo com o princípio de rendibilização contínua de recursos humanos, previsto no n.º 1 do artigo 23.º e no artigo 26.º do Decreto Legislativo Regional n.º 11/2018/M, de 3 de agosto, na sua redação atual, pode ainda ser aplicável:\n\na) Ao pessoal a exercer funções nos serviços da administração direta ou indireta integrado, nos termos do n.º 1 do artigo anterior, noutro departamento regional, mediante despacho do membro do Governo Regional que tutela o serviço integrado;\n\nb) Ao pessoal a exercer funções em mobilidade nos serviços dependentes dos gabinetes das secretarias regionais, mediante despacho conjunto dos membros do Governo Regional com a tutela das finanças, da Administração Pública, do serviço a que pertence o trabalhador e do serviço integrador."
+  },
+  "916755029": {
+   "fragment_id": "916753174",
+   "type": 11,
+   "heading": "Artigo 17.º — Encargos orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Encargos orçamentais\n\n1 - Até à aprovação do Orçamento da Região Autónoma da Madeira para 2025 mantém-se a expressão orçamental da organização e funcionamento do Governo Regional, aprovada pelo Decreto Legislativo Regional n.º 6/2024/M, de 29 de julho.\n\n2 - Os encargos com os novos Gabinetes dos membros do Governo Regional são suportados transitoriamente pelos orçamentos vigentes dos gabinetes extintos, de acordo com a área de atribuição do respetivo departamento regional.\n\n3 - Os encargos relativos aos serviços ou organismos que transitam, no todo ou em parte, para departamentos diferentes continuam a ser processados por conta das dotações orçamentais que lhes estão afetas no orçamento em vigor.\n\n4 - Os projetos integrados no Plano e Programa de Investimentos e Despesas de Desenvolvimento da Administração da Região Autónoma da Madeira (PIDDAR) mantêm a expressão orçamental decorrente do Orçamento da Região Autónoma da Madeira para 2024, sendo os encargos processados pelos serviços ou organismos que tutelam os respetivos setores.\n\n5 - Todos os atos do Governo Regional relacionados com a aplicação do presente diploma, que envolvam aumento de despesas ou diminuição de receitas, são aprovados pelo membro do Governo com a tutela das finanças."
+  },
+  "916755030": {
+   "fragment_id": "916914675",
+   "type": 11,
+   "heading": "Artigo 18.º — Precedências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Precedências\n\nA ordem de precedências dos membros do Governo Regional da Madeira, bem como para efeitos de eventual substituição do seu Presidente, é a que consta do artigo 1.º deste diploma."
+  },
+  "916755031": {
+   "fragment_id": "916914676",
+   "type": 11,
+   "heading": "Artigo 19.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Norma revogatória\n\nÉ revogado o Decreto Regulamentar Regional n.º 13/2024/M, de 12 de julho."
+  },
+  "916755032": {
+   "fragment_id": "916914677",
+   "type": 11,
+   "heading": "Artigo 20.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Produção de efeitos\n\nO presente diploma produz efeitos reportados a 15 de abril de 2025, considerando-se ratificados ou confirmados todos os atos que tenham sido praticados desde aquela data em conformidade com o disposto no presente diploma."
+  },
+  "916755033": {
+   "fragment_id": "916914678",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "937573848": {
+   "fragment_id": "916753155",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura do Governo Regional da Madeira",
+   "in_force_from": "2025-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 15/2025/M - Diário da República n.º 189/2025, Série I de 2025-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2025-937443531), em vigor a partir de 2025-10-02, produz efeitos a partir de 2025-09-15"
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura do Governo Regional da Madeira\n\nA estrutura do Governo Regional da Madeira é a seguinte:\n\na) Presidência do Governo Regional;\n\nb) Secretaria Regional de Turismo, Ambiente e Cultura;\n\nc) Secretaria Regional de Educação, Ciência e Tecnologia;\n\nd) Secretaria Regional de Economia;\n\ne) Secretaria Regional de Saúde e Proteção Civil;\n\nf) Secretaria Regional das Finanças;\n\ng) Secretaria Regional de Agricultura e Pescas;\n\nh) Secretaria Regional de Inclusão, Trabalho e Juventude;\n\ni) Secretaria Regional de Equipamentos e Infraestruturas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 15/2025/M - Diário da República n.º 189/2025, Série I de 2025-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2025-937443531), em vigor a partir de 2025-10-02, produz efeitos a partir de 2025-09-15"
+  },
+  "937573849": {
+   "fragment_id": "916753158",
+   "type": 11,
+   "heading": "Artigo 3.º — Secretaria Regional de Turismo, Ambiente e Cultura",
+   "in_force_from": "2025-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 15/2025/M - Diário da República n.º 189/2025, Série I de 2025-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2025-937443531), em vigor a partir de 2025-10-02, produz efeitos a partir de 2025-09-15"
+   ],
+   "markdown": "###### Artigo 3.º — Secretaria Regional de Turismo, Ambiente e Cultura\n\n1 - À Secretaria Regional de Turismo, Ambiente e Cultura são cometidas as atribuições referentes aos setores seguintes:\n\na) Turismo;\n\nb) Cultura;\n\nc) Aeroportos e transportes aéreos;\n\nd) Mobilidade aérea.\n\ne) Coordenação política;\n\nf) Assuntos parlamentares;\n\ng) Mar e economia azul;\n\nh) Coordenação da política regional do mar e articulação com as demais entidades competentes;\n\ni) Ambiente;\n\nj) Ação climática;\n\nk) Recursos hídricos;\n\nl) Litoral;\n\nm) Economia circular;\n\nn) Ordenamento do território;\n\no) Urbanismo;\n\np) Informação geográfica, cartográfica e cadastral;\n\nq) Conservação da natureza, geo e biodiversidade;\n\nr) Florestas;\n\ns) Áreas protegidas.\n\n2 - No âmbito das atribuições referidas no número anterior, funciona sob a tutela e superintendência da Secretaria Regional de Turismo, Ambiente e Cultura, o Instituto das Florestas e Conservação da Natureza, IP-RAM, serviço da administração indireta da Região Autónoma da Madeira.\n\n3 - A Secretaria Regional de Turismo, Ambiente e Cultura exerce a tutela sobre a Associação de Promoção da Madeira.\n\n4 - Na dependência da Secretaria Regional de Turismo, Ambiente e Cultura funciona ainda a estrutura de missão do Observatório do Transporte Aéreo da Região Autónoma da Madeira, OTA-RAM.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 15/2025/M - Diário da República n.º 189/2025, Série I de 2025-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2025-937443531), em vigor a partir de 2025-10-02, produz efeitos a partir de 2025-09-15"
+  },
+  "937573850": {
+   "fragment_id": "916753159",
+   "type": 11,
+   "heading": "Artigo 4.º — Secretaria Regional de Educação, Ciência e Tecnologia",
+   "in_force_from": "2025-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 15/2025/M - Diário da República n.º 189/2025, Série I de 2025-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2025-937443531), em vigor a partir de 2025-10-02, produz efeitos a partir de 2025-09-15"
+   ],
+   "markdown": "###### Artigo 4.º — Secretaria Regional de Educação, Ciência e Tecnologia\n\n1 - À Secretaria Regional de Educação, Ciência e Tecnologia são cometidas as atribuições referentes aos setores seguintes:\n\na) Educação;\n\nb) Educação especial;\n\nc) Formação profissional;\n\nd) Desporto;\n\ne) Ciência, investigação e tecnologia;\n\nf) Administração da justiça;\n\ng) Relações com a Universidade da Madeira e demais entidades de formação superior;\n\nh) Comunicação social.\n\n2 - No âmbito das atribuições referidas no número anterior, funcionam sob a tutela e superintendência da Secretaria Regional de Educação, Ciência e Tecnologia os seguintes serviços da administração indireta da Região Autónoma da Madeira:\n\na) Instituto para a Qualificação, IP-RAM;\n\nb) Conservatório - Escola das Artes da Madeira - Eng.º Luiz Peter Clode;\n\nc) Escola de Hotelaria e Turismo da Madeira (EHTM).\n\n3 - A Secretaria Regional de Educação, Ciência e Tecnologia exerce a tutela sobre a ARDITI - Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação.\n\n4 - Na dependência da Secretaria Regional de Educação, Ciência e Tecnologia funciona a estrutura de missão da Unidade de Implementação da Estratégia Regional de Especialização Inteligente (EREI) da Região Autónoma da Madeira (RAM).\n\n5 - Compete ainda à Secretaria Regional de Educação, Ciência e Tecnologia suportar os encargos relativos às iniciativas das instituições de defesa e militares.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 15/2025/M - Diário da República n.º 189/2025, Série I de 2025-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2025-937443531), em vigor a partir de 2025-10-02, produz efeitos a partir de 2025-09-15"
+  },
+  "937573851": {
+   "fragment_id": "916753169",
+   "type": 11,
+   "heading": "Artigo 12.º — Alterações e reestruturações orgânicas",
+   "in_force_from": "2025-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 15/2025/M - Diário da República n.º 189/2025, Série I de 2025-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2025-937443531), em vigor a partir de 2025-10-02, produz efeitos a partir de 2025-09-15"
+   ],
+   "markdown": "###### Artigo 12.º — Alterações e reestruturações orgânicas\n\n1 - Nos termos da alínea c) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, a Presidência e as Secretarias Regionais procedem às reestruturações orgânicas decorrentes do presente diploma que se revelem necessárias à sua plena execução.\n\n2 - No prazo de 45 dias a contar da data de entrada em vigor do presente diploma, devem ser submetidas ao Conselho do Governo Regional as propostas de decreto regulamentar regional que consagrem o referido no número anterior.\n\n3 - Todos os departamentos regionais devem contemplar na sua organização interna as unidades de gestão previstas no artigo 75.º do Decreto Legislativo Regional n.º 6/2024/M, de 29 de julho.\n\n4 - As unidades de gestão dos departamentos do Governo Regional a que se refere o número anterior devem ainda na sua composição integrar um elemento da carreira de técnico superior ou outra de grau de complexidade 3, ao qual são cometidas funções de acompanhamento do planeamento e políticas públicas e acompanhamento dos investimentos públicos na área setorial do respetivo departamento.\n\n5 - O elemento referido no número anterior deve ainda assumir a função de ponto focal no apoio e na colaboração ao acompanhamento do planeamento regional intersetorial assegurados atualmente pela estrutura de missão que funciona junto da Secretaria Regional das Finanças, Unidade de Reforma das Finanças Públicas e de Acompanhamento do Planeamento e Políticas Públicas.\n\n6 - Os diplomas orgânicos dos departamentos regionais, bem como dos respetivos serviços, que se revelem necessários à execução do presente diploma estão sujeitos a parecer prévio favorável do membro do Governo com a tutela das áreas das finanças e da Administração Pública.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 15/2025/M - Diário da República n.º 189/2025, Série I de 2025-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2025-937443531), em vigor a partir de 2025-10-02, produz efeitos a partir de 2025-09-15"
+  },
+  "916755034": {
+   "fragment_id": "916914679",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional em 16 de abril de 2025.\n\nO Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.\n\nAssinado em 2 de maio de 2025.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.\n\n119004044"
+  }
+ }
+}

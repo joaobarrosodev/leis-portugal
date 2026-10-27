@@ -1,0 +1,820 @@
+---
+schema_version: '1.0'
+id: pt:dre:673411:por
+title: Portaria n.º 207/2011
+short_title: null
+summary: Regulamenta a tramitação do procedimento concursal de recrutamento para os postos de trabalho em funções públicas,
+  no âmbito da carreira especial médica
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Administração Pública e da Saúde
+proposing_entity: null
+official_number: 207/2011
+official_date: null
+publication_date: '2011-05-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 100/2011, Série I de 2011-05-24
+  number: '100'
+  series: I
+  supplement: null
+  pages: 2902 - 2908
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/05/10000/0290202908.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2017-06-10'
+version_history:
+  file: portaria-207-2011.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2011-05-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-12-11'
+    amending: pt:dre:484137:por
+    amending_title: Portaria n.º 355/2013
+    changes:
+    - Altera Artigo 14.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+  - date: '2015-08-04'
+    amending: pt:dre:69933711:por
+    amending_title: Portaria n.º 229-A/2015
+    changes:
+    - Adita Artigo 18.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 32.º
+  - date: '2017-06-10'
+    amending: pt:dre:107495702:por
+    amending_title: Portaria n.º 190/2017
+    changes:
+    - Adita Artigo 26.º-A
+    - Adita Secção VIII
+    - Altera Secção VII
+    - Elimina Capítulo III
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/207/2011/p/cons/20170609/pt/html
+  oj: null
+  dre: '673411'
+  dre_path: /dr/detalhe/portaria/207-2011-673411
+  internal: pt:dre:673411:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/207-2011-673411
+  metadata_url: https://data.dre.pt/eli/port/207/2011/p/cons/20170609/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-70017034
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-70017034
+  retrieved_at: '2026-10-22T12:01:27Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 45e0e914679ba1496747949e7739a506078e391ac8e3006959ba90870495385b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:01:27Z'
+  notes: 4 versão(ões); histórico completo em portaria-207-2011.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Médico
+- Carreira Médica
+- Clínica Geral
+- Concurso
+- Concurso de Habilitação
+- Recrutamento de Pessoal
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:484137:por
+  label: Altera Artigo 14.º; Altera Artigo 18.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 23.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/355-2013-484137
+  date: '2013-12-10'
+- type: amended_by
+  target: pt:dre:69933711:por
+  label: Adita Artigo 18.º-A; Altera Artigo 1.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 12.º; Altera Artigo 13.º;
+    Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 22.º; Altera Artigo 23.º;
+    Altera Artigo 24.º; Altera Artigo 25.º; Altera Artigo 32.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/229-a-2015-69933711
+  date: '2015-08-03'
+- type: amended_by
+  target: pt:dre:107495702:por
+  label: Adita Artigo 26.º-A; Adita Secção VIII; Altera Secção VII; Elimina Capítulo III
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/190-2017-107495702
+  date: '2017-06-09'
+- type: cites
+  target: pt:dre:222785:por
+  label: null
+  source: http://data.dre.pt/eli/port/43/1998/01/26/p/dre
+- type: cites
+  target: pt:dre:222989:por
+  label: null
+  source: http://data.dre.pt/eli/port/44/1998/01/27/p/dre
+- type: cites
+  target: pt:dre:224986:por
+  label: null
+  source: http://data.dre.pt/eli/port/47/1998/01/30/p/dre
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: http://data.dre.pt/eli/lei/59/2008/09/11/p/dre
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
+- type: cites
+  target: pt:dre:493010:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/177/2009/08/04/p/dre
+- type: cites
+  target: pt:dre:515026:por
+  label: null
+  source: http://data.dre.pt/eli/port/177/1997/03/11/p/dre
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: http://data.dre.pt/eli/port/83-a/2009/01/22/p/dre
+article_structure:
+  article_count: 36
+  section_count: 10
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:01:27Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 207/2011
+
+Portaria n.º 207/2011
+
+de 24 de Maio
+
+O Decreto-Lei n.º 177/2009, de 4 de Agosto, que estabelece o regime da carreira especial médica, bem como os respectivos requisitos de habilitação profissional, determina que o recrutamento para os postos de trabalho em funções públicas, no âmbito da carreira médica, incluindo mudança de categoria, se efectua mediante procedimento concursal.
+
+Conforme previsto no n.º 2 do artigo 16.º do mesmo diploma, os requisitos de candidatura e a tramitação daqueles procedimentos concursais são regulados por portaria conjunta dos membros do Governo responsáveis pelas áreas da Administração Pública e da saúde.
+
+Assim:
+
+Ao abrigo do disposto no n.º 2 do artigo 54.º da Lei n.º 12-A/2008, de 27 de Fevereiro, e do disposto no n.º 2 do artigo 16.º do Decreto-Lei n.º 177/2009, de 4 de Agosto, manda o Governo, pelo Ministro de Estado e das Finanças e pela Ministra da Saúde, o seguinte:
+
+> Nota: [Artigo 3.º, Portaria n.º 355/2013 - Diário da República n.º 239/2013, Série I de 2013-12-10](https://diariodarepublica.pt/dr/detalhe/portaria/355-2013-484137) A presente portaria aplica-se aos procedimentos concursais que sejam publicitados após a data da sua entrada em vigor.
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+A presente portaria regulamenta a tramitação do procedimento concursal de recrutamento e seleção para os postos de trabalho, da carreira especial médica, nos termos do n.º 3 do artigo 37.º da Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada em anexo à Lei n.º 35/2014, de 20 de junho, e do n.º 2 do artigo 16.º do Decreto-Lei n.º 177/2009, de 4 de agosto.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 229-A/2015 - Diário da República n.º 149/2015, 1º Suplemento, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/229-a-2015-69933711), em vigor a partir de 2015-08-04
+
+###### Artigo 2.º — Definições
+
+Para os efeitos da presente portaria, entende-se por:
+
+a) «Recrutamento» o conjunto de procedimentos que visa atrair candidatos potencialmente qualificados, capazes de satisfazer as necessidades de pessoal de uma entidade empregadora pública ou de constituir reservas para satisfação de necessidades futuras;
+
+b) «Procedimento concursal» o conjunto de operações que visa a ocupação de postos de trabalho necessários ao desenvolvimento das actividades e à prossecução dos objectivos de órgãos ou serviços;
+
+c) «Selecção de pessoal» o conjunto de operações, enquadrado no processo de recrutamento, que, mediante a utilização de métodos e técnicas adequados, permite avaliar e classificar os candidatos de acordo com as competências indispensáveis à execução das actividades inerentes ao posto de trabalho a ocupar;
+
+d) «Métodos de selecção» as técnicas específicas de avaliação da adequação dos candidatos às exigências de um determinado posto de trabalho, tendo como referência um perfil de competências previamente definido.
+
+###### Artigo 3.º — Modalidades do procedimento concursal
+
+1 - O procedimento concursal pode revestir as seguintes modalidades:
+
+a) Comum, sempre que se destine ao imediato recrutamento para ocupação de postos de trabalho previstos, e não ocupados, nos mapas de pessoal dos órgãos ou serviços;
+
+b) Para constituição de reservas de recrutamento, sempre que se destine à constituição de reservas de pessoal para satisfação de necessidades futuras da entidade empregadora pública.
+
+2 - No caso referido na alínea b) do número anterior, o procedimento concursal cessa no prazo de 18 meses contados da data de homologação da lista unitária de ordenação final.
+
+###### Artigo 4.º — Competência
+
+A abertura do procedimento concursal é da competência do órgão ou dirigente máximo do estabelecimento ou serviço respectivo.
+
+### Capítulo II — Tramitação do procedimento concursal
+
+#### Secção I — Publicitação do procedimento
+
+###### Artigo 5.º — Publicitação do procedimento
+
+1 - A abertura do procedimento concursal é obrigatoriamente tornada pública pelos seguintes meios:
+
+a) Na 2.ª série do Diário da República, por publicação integral;
+
+b) Na bolsa de emprego público, através do preenchimento de formulário próprio, devendo este estar disponível para consulta no 1.º dia útil seguinte à publicação referida na alínea anterior;
+
+c) Na página electrónica da entidade empregadora, por extracto disponível para consulta a partir da data da publicação no Diário da República;
+
+d) Em jornal de expansão nacional, por extracto, no prazo máximo de três dias úteis contados da data da publicação no Diário da República.
+
+2 - A entidade responsável pela realização do procedimento pode ainda proceder à publicitação através de outros meios de divulgação.
+
+3 - A publicação integral contém, designadamente, os seguintes elementos:
+
+a) Identificação do acto que autoriza o procedimento e da entidade que o realiza;
+
+b) Identificação da modalidade do procedimento concursal, prazo de validade, área de exercício profissional e número de postos de trabalho a ocupar e da respectiva modalidade da relação jurídica de emprego público a constituir;
+
+c) Identificação do local de trabalho onde as funções vão ser exercidas;
+
+d) Caracterização dos postos de trabalho, em conformidade com o estabelecido no mapa de pessoal aprovado, tendo em conta a atribuição, competência ou actividade a cumprir ou a executar, a carreira e categoria;
+
+e) Requisitos de admissão previstos no artigo 17.º da LTFP;
+
+f) Indicação sobre a necessidade de se encontrar previamente estabelecida uma relação jurídica de emprego público e, em caso afirmativo, sobre a sua determinabilidade;
+
+g) Identificação do parecer dos membros do Governo, quando possam ser recrutados trabalhadores com relação jurídica de emprego público por tempo determinado ou determinável ou sem relação jurídica de emprego público previamente estabelecida;
+
+h) Nível habilitacional exigido;
+
+i) Requisitos legais especialmente previstos para a titularidade da categoria;
+
+j) Especificação, sendo o caso, de exigências particulares técnico-profissionais do cargo a prover, de acordo com a diferenciação das funções a exercer;
+
+l) Indicação de que não podem ser admitidos candidatos que, cumulativamente, se encontrem integrados na carreira, sejam titulares da categoria e, não se encontrando em mobilidade, ocupem postos de trabalho previstos no mapa de pessoal do órgão ou serviço idênticos aos postos de trabalho para cuja ocupação se publicita o procedimento;
+
+m) Forma e prazo de apresentação da candidatura;
+
+n) Local e endereço postal ou electrónico onde deve ser apresentada a candidatura;
+
+o) Métodos de selecção, respectiva ponderação e sistema de valoração final, bem como as restantes indicações relativas aos métodos exigidas pela presente portaria;
+
+p) Tipo, forma e duração das provas de conhecimentos, bem como as respectivas temáticas;
+
+q) Composição e identificação do júri;
+
+r) Indicação de que as actas do júri, onde constam os parâmetros de avaliação e respectiva ponderação de cada um dos métodos de selecção a utilizar, a grelha classificativa e o sistema de valoração final do método, são facultadas aos candidatos sempre que solicitadas;
+
+s) Identificação dos documentos exigidos para efeitos de admissão ou avaliação dos candidatos e indicação sobre a possibilidade da sua apresentação por via electrónica;
+
+t) Forma de publicitação da lista unitária de ordenação final dos candidatos.
+
+4 - A publicação por extracto deve mencionar a identificação da entidade que realiza o procedimento, o número e caracterização dos postos de trabalho a ocupar, identificando a carreira, categoria e área de formação académica ou profissional exigida, o prazo de candidatura, bem como a referência ao Diário da República onde se encontra a publicação integral.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 229-A/2015 - Diário da República n.º 149/2015, 1º Suplemento, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/229-a-2015-69933711), em vigor a partir de 2015-08-04
+
+#### Secção II — Júri
+
+###### Artigo 6.º — Designação do júri
+
+1 - A publicitação do procedimento concursal implica a designação e constituição de um júri.
+
+2 - O júri é constituído por área de exercício profissional.
+
+3 - O júri é designado pelo dirigente máximo do órgão ou serviço competente para dirigir o procedimento concursal.
+
+4 - No mesmo acto são designados o membro do júri que substitui o presidente nas suas faltas e impedimentos, bem como os suplentes dos vogais efectivos.
+
+###### Artigo 7.º — Composição do júri
+
+1 - O júri é composto por um presidente, por dois vogais efetivos e por dois vogais suplentes.
+
+2 - Todos os membros do júri devem ser titulares de categoria igual ou superior à categoria para que é aberto o procedimento concursal e devem pertencer à respectiva área de exercício profissional e, sempre que possível, ao serviço ou estabelecimento que realiza o procedimento.
+
+3 - Se no serviço ou estabelecimento não existirem médicos com a categoria e cargos para constituir o júri, deve este ser integrado por médicos de outros serviços ou estabelecimentos que reúnam essas condições.
+
+4 - Só em caso de impossibilidade de constituição do júri em que todos os membros sejam da respectiva área profissional é que podem ser nomeados vogais de áreas afins.
+
+5 - Sempre que sejam candidatos ao procedimento titulares de cargos de direcção do órgão ou serviço que realiza o procedimento, o júri é obrigatoriamente oriundo de fora desse órgão ou serviço.
+
+6 - A composição do júri pode ser alterada, quando circunstâncias supervenientes o aconselhem ou exijam, designadamente em caso de falta de quórum constitutivo.
+
+7 - No caso previsto no número anterior, a identificação do novo júri é publicitada pelos meios em que o tenha sido o procedimento concursal.
+
+8 - O novo júri dá continuidade e assume integralmente todas as operações do procedimento já efectuadas.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 229-A/2015 - Diário da República n.º 149/2015, 1º Suplemento, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/229-a-2015-69933711), em vigor a partir de 2015-08-04
+
+###### Artigo 8.º — Competência do júri
+
+1 - Compete ao júri assegurar a tramitação do procedimento concursal, desde a data da sua designação até à elaboração da lista de ordenação final, designadamente:
+
+a) Decidir das fases que comportam os métodos de selecção, obrigatoriamente ouvidas as entidades que os vão aplicar;
+
+b) Fixar os parâmetros de avaliação, a sua ponderação, a grelha classificativa e o sistema de valoração final de cada método de selecção;
+
+c) Requerer ao órgão ou serviço onde o candidato tenha exercido ou exerça funções, ou ao próprio candidato, as informações profissionais e ou habilitacionais que considere relevantes para o procedimento;
+
+d) Admitir e excluir candidatos do procedimento, fundamentando por escrito as respectivas deliberações;
+
+e) Notificar por escrito os candidatos, sempre que tal seja exigido;
+
+f) Garantir aos candidatos o acesso às actas e aos documentos e a emissão de certidões ou reproduções autenticadas, no prazo de três dias úteis contados da data da entrada, por escrito, do pedido.
+
+2 - Os elementos referidos na alínea b) do número anterior são definidos em momento anterior à publicitação do procedimento.
+
+3 - A calendarização a que o júri se propõe obedecer para o cumprimento dos prazos estabelecidos na presente portaria é definida, obrigatoriamente, nos 10 dias úteis subsequentes à data limite de apresentação de candidaturas.
+
+###### Artigo 9.º — Funcionamento do júri
+
+1 - O júri delibera com a participação efectiva e presencial de todos os seus membros, devendo as respectivas deliberações ser tomadas por maioria e sempre por votação nominal.
+
+2 - O júri é secretariado por um dos vogais, previamente escolhido, podendo este ser apoiado por um trabalhador a designar para o efeito pelo estabelecimento ou serviço onde se realize o procedimento concursal.
+
+3 - De cada reunião do júri será lavrada acta, da qual devem constar o local, a data e a hora da reunião, a identificação de todos os participantes, os assuntos apreciados e as deliberações tomadas.
+
+4 - Das actas de reuniões em que seja efectuada a avaliação e classificação de candidatos, ainda que por remissão para mapas ou fichas, devem constar:
+
+a) As classificações atribuídas pelo júri ou, em caso de não unanimidade, por cada membro do júri a cada candidato e em cada um dos parâmetros de avaliação;
+
+b) A fundamentação clara e suficiente das classificações atribuídas pelo júri ou, em caso de não unanimidade, por cada membro do júri a cada candidato e em cada um dos parâmetros de avaliação.
+
+5 - Em caso de impugnação, as deliberações escritas são facultadas à entidade que sobre ela tenha que decidir.
+
+###### Artigo 10.º — Prevalência das funções de júri
+
+1 - O procedimento concursal é urgente, devendo as funções próprias de júri prevalecer sobre todas as outras.
+
+2 - Os membros do júri incorrem em responsabilidade disciplinar quando, injustificadamente, não cumpram os prazos previstos na presente portaria e os que venham a calendarizar.
+
+#### Secção III — Candidatura
+
+###### Artigo 11.º — Requisitos de admissão
+
+1 - Apenas podem ser admitidos ao procedimento os candidatos que reúnam os requisitos legalmente exigidos, fixados na respectiva publicitação.
+
+2 - A verificação da reunião dos requisitos é efectuada em dois momentos:
+
+a) Na admissão ao procedimento concursal, por deliberação do júri;
+
+b) Na constituição da relação jurídica de emprego público, pela entidade empregadora pública.
+
+3 - O candidato deve reunir os requisitos referidos no n.º 1 até à data limite de apresentação da candidatura.
+
+4 - A entidade competente para a abertura do procedimento concursal, em função da diferenciação do serviço ou estabelecimento, sob proposta fundamentada do médico com funções de direcção de departamentos, serviços ou unidades funcionais autónomas e com parecer favorável do director clínico, pode autorizar exigências particulares técnico-profissionais para os postos de trabalho a preencher.
+
+###### Artigo 12.º — Prazo de candidatura
+
+1- A entidade que autoriza o procedimento estabelece, no respectivo acto, um prazo de apresentação de candidaturas, entre um mínimo de 10 e um máximo de 15 dias úteis contados da data da publicação no Diário da República.
+
+2 - Sem prejuízo do disposto no número anterior, em situações de manifesta urgência, devidamente fundamentada e expressa, em termos sintéticos, no respetivo aviso, o prazo de abertura de procedimento concursal de recrutamento para a categoria de assistente é de cinco dias úteis.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 229-A/2015 - Diário da República n.º 149/2015, 1º Suplemento, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/229-a-2015-69933711), em vigor a partir de 2015-08-04
+
+###### Artigo 13.º — Forma de apresentação da candidatura
+
+1 - A apresentação da candidatura é efectuada em suporte de papel ou electrónico, designadamente através do preenchimento de formulário tipo, caso em que é de utilização obrigatória, e contém, entre outros, os seguintes elementos:
+
+a) Identificação do procedimento concursal, com indicação da carreira, categoria e actividade caracterizadoras do posto de trabalho a ocupar;
+
+b) Identificação da entidade que realiza o procedimento, quando não conste expressamente do documento que suporta a candidatura;
+
+c) Identificação do candidato pelo nome, data de nascimento, sexo, nacionalidade, número de identificação fiscal e endereço postal e electrónico, caso exista;
+
+d) Situação perante cada um dos requisitos de admissão exigidos, designadamente:
+
+i) Os previstos no artigo 17.º da LTFP e no artigo 15.º do Decreto-Lei n.º 177/2009, de 4 de agosto;
+
+ii) A identificação da relação jurídica de emprego público previamente estabelecida, quando exista, bem como da carreira e categoria de que seja titular, da actividade que executa e do órgão ou serviço onde exerce funções;
+
+iii) Os relativos ao nível habilitacional e à área de formação académica ou profissional;
+
+e) Menção de que o candidato declara serem verdadeiros os factos constantes da candidatura.
+
+2 - A apresentação da candidatura em suporte de papel é efectuada pessoalmente ou através de correio registado, com aviso de recepção, para o endereço postal do órgão ou serviço, até à data limite fixada na publicitação.
+
+3 - No acto de recepção da candidatura efectuada pessoalmente é obrigatória a passagem de recibo.
+
+4 - Na apresentação da candidatura ou de documentos através de correio registado com aviso de recepção atende-se à data do respectivo registo.
+
+5 - Quando estiver expressamente prevista na publicitação a possibilidade de apresentação da candidatura por via electrónica, a validação electrónica deve ser feita por submissão do formulário disponibilizado para esse efeito, acompanhado do respectivo currículo sempre que este seja exigido, devendo o candidato guardar o comprovativo.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 229-A/2015 - Diário da República n.º 149/2015, 1º Suplemento, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/229-a-2015-69933711), em vigor a partir de 2015-08-04
+
+###### Artigo 14.º — Apresentação de documentos
+
+1 - A reunião dos requisitos legalmente exigidos para o recrutamento é comprovada através de documentos apresentados aquando da candidatura ou da constituição da relação jurídica de emprego público, nomeadamente:
+
+a) Documento comprovativo da posse do grau de especialista na área de exercício profissional a que respeita o procedimento concursal ou, sendo o caso, do grau de consultor;
+
+b) Documento comprovativo do vínculo à Administração Pública ou documento comprovativo do preenchimento dos requisitos necessários para esse vínculo;
+
+c) Documento comprovativo de inscrição na Ordem dos Médicos;
+
+d) Cinco exemplares do curriculum vitae que, embora elaborado em modelo europeu, proceda a uma descrição das actividades desenvolvidas.
+
+2 - Os candidatos a procedimento de recrutamento para preenchimento de postos de trabalho como assistente graduado sénior apresentam também cinco exemplares de um plano de gestão para discutir na prova prática.
+
+3 - A habilitação académica e profissional é comprovada pela fotocópia do respectivo certificado ou outro documento idóneo, legalmente reconhecido para o efeito.
+
+4 - Pode ser exigida aos candidatos a apresentação de documentos comprovativos de factos por eles referidos no currículo que possam relevar para a apreciação do seu mérito e que se encontrem deficientemente comprovados.
+
+5 - Os órgãos ou serviços emitem a documentação solicitada, exigível para a candidatura, no prazo de três dias úteis contados da data do pedido.
+
+6 - Sempre que um ou mais candidatos exerçam funções no órgão ou serviço que procedeu à publicitação do procedimento, os documentos exigidos são solicitados pelo júri ao respectivo serviço de pessoal e àquele entregues oficiosamente.
+
+7 - Aos candidatos referidos no número anterior não é exigida a apresentação de outros documentos comprovativos dos factos indicados no currículo desde que expressamente refiram que os mesmos se encontram arquivados no seu processo individual.
+
+8 - Os documentos exigidos para efeitos de admissão ou avaliação dos candidatos são apresentados por via electrónica, quando expressamente previsto na publicitação, pessoalmente ou enviados por correio registado, com aviso de recepção, para o endereço postal do órgão ou serviço, até à data limite fixada na publicitação.
+
+9 - A não apresentação dos documentos exigidos, nos termos da presente portaria, determina:
+
+a) A exclusão do candidato do procedimento, quando, nos termos da publicitação, a falta desses documentos impossibilite a sua admissão ou avaliação;
+
+b) A impossibilidade de constituição da relação jurídica de emprego público, nos restantes casos.
+
+10 - O júri ou a entidade empregadora pública, conforme os casos, pode, por sua iniciativa ou a requerimento do candidato, conceder um prazo suplementar razoável para apresentação dos documentos exigidos quando seja de admitir que a sua não apresentação atempada se tenha devido a causas não imputáveis a dolo ou negligência do candidato.
+
+11 - A concessão do prazo referido no número anterior é obrigatória quando se trate de trabalhador colocado em situação de mobilidade especial cuja candidatura tenha sido apresentada apenas pela entidade gestora da mobilidade.
+
+12 - A apresentação de documento falso determina a participação à entidade competente para efeitos de procedimento disciplinar e ou penal.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 355/2013 - Diário da República n.º 239/2013, Série I de 2013-12-10](https://diariodarepublica.pt/dr/detalhe/portaria/355-2013-484137), em vigor a partir de 2013-12-11
+
+###### Artigo 15.º — Apreciação das candidaturas
+
+1 - Terminado o prazo para apresentação de candidaturas, o júri procede, nos 10 dias úteis seguintes, à verificação dos elementos apresentados pelos candidatos, designadamente a reunião dos requisitos exigidos e a apresentação dos documentos essenciais à admissão ou avaliação.
+
+2 - Para efeitos do cumprimento do prazo previsto no número anterior, pode o júri requerer que seja designado um trabalhador pertencente ao estabelecimento ou serviço onde se realize o procedimento concursal que o apoie na verificação.
+
+3 - Só podem ser admitidos ao procedimento concursal os candidatos que, até ao termo do prazo fixado no aviso de abertura para apresentação das candidaturas, satisfaçam os requisitos legalmente definidos para o preenchimento dos postos de trabalho objecto do procedimento concursal.
+
+4 - Não havendo lugar à exclusão de qualquer candidato, nos cinco dias úteis seguintes à conclusão do procedimento previsto no n.º 1 convocam-se os candidatos nos termos do n.º 2 do artigo seguinte e do n.º 1 do artigo 18.º e iniciam-se os procedimentos relativos à utilização dos métodos de selecção.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 229-A/2015 - Diário da República n.º 149/2015, 1º Suplemento, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/229-a-2015-69933711), em vigor a partir de 2015-08-04
+
+#### Secção IV — Exclusão e notificação de candidatos
+
+###### Artigo 16.º — Exclusão e notificação
+
+1 - Nos três dias úteis seguintes à conclusão do procedimento concursal previsto no n.º 1 do artigo anterior, os candidatos excluídos são notificados para a realização da audiência dos interessados nos termos do Código do Procedimento Administrativo.
+
+2 - A notificação dos candidatos é efectuada por uma das seguintes formas:
+
+a) Mensagem de correio electrónico, com recibo de entrega da notificação;
+
+b) Ofício registado;
+
+c) Notificação pessoal;
+
+d) Aviso publicado na 2.ª série do Diário da República informando da afixação em local visível e público das instalações da entidade empregadora pública e da disponibilização na sua página electrónica.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 229-A/2015 - Diário da República n.º 149/2015, 1º Suplemento, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/229-a-2015-69933711), em vigor a partir de 2015-08-04
+
+###### Artigo 17.º — Pronúncia dos interessados
+
+1 - O prazo para os interessados se pronunciarem é contado:
+
+a) Da data do recibo de entrega da mensagem de correio electrónico;
+
+b) Da data do registo do ofício, respeitada a dilação de três dias do correio;
+
+c) Da data da notificação pessoal;
+
+d) Da data da publicação do aviso na 2.ª série do Diário da República.
+
+2 - Realizada a audiência dos interessados, o júri aprecia as questões suscitadas no prazo de 10 dias úteis.
+
+3 - Quando os interessados ouvidos sejam em número superior a 100, o prazo referido no número anterior é de 20 dias úteis.
+
+4 - As alegações a apresentar pelos candidatos e a deliberação a proferir sobre as mesmas podem ter por suporte um formulário tipo, caso em que é de utilização obrigatória.
+
+5 - Os candidatos excluídos são notificados nos termos do n.º 2 do artigo anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 229-A/2015 - Diário da República n.º 149/2015, 1º Suplemento, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/229-a-2015-69933711), em vigor a partir de 2015-08-04
+
+###### Artigo 18.º — Início da utilização dos métodos de selecção
+
+1 - Os candidatos admitidos são convocados, no prazo de três dias úteis e pela forma prevista no n.º 2 do artigo 16.º, para a realização dos métodos de seleção, com indicação do local, data e horário em que os mesmos devam ter lugar.
+
+2 - No mesmo prazo iniciam-se os procedimentos relativos à utilização dos métodos que não exijam a presença dos candidatos.
+
+3 - O júri deve iniciar a avaliação curricular dos candidatos admitidos ao procedimento concursal, no prazo máximo de 15 dias úteis, após a data de afixação da respetiva lista, devendo a mesma estar concluída no prazo máximo de 20 dias úteis.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 229-A/2015 - Diário da República n.º 149/2015, 1º Suplemento, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/229-a-2015-69933711), em vigor a partir de 2015-08-04
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 355/2013 - Diário da República n.º 239/2013, Série I de 2013-12-10](https://diariodarepublica.pt/dr/detalhe/portaria/355-2013-484137), em vigor a partir de 2013-12-11
+
+###### Artigo 18.º-A — Procedimentos urgentes
+
+1 - Sem prejuízo do disposto na presente secção, nos procedimentos concursais de recrutamento urgentes, a que alude o n.º 2 do artigo 12.º, não há lugar à audiência prévia dos interessados, podendo ser, desde logo, interposto recurso administrativo.
+
+2 - A dispensa de realização de audiência prévia dos interessados, prevista no número anterior, deve obrigatoriamente constar do aviso de abertura do procedimento.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 229-A/2015 - Diário da República n.º 149/2015, 1º Suplemento, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/229-a-2015-69933711), em vigor a partir de 2015-08-04
+
+#### Secção V — Métodos de selecção
+
+###### Artigo 19.º — Métodos de selecção
+
+Os métodos de selecção dos candidatos são a avaliação e discussão curricular e a prova prática.
+
+###### Artigo 20.º — Avaliação e discussão curricular
+
+1 - A avaliação e discussão curricular, que consiste na apreciação e discussão do currículo profissional do candidato, visa analisar a qualificação dos candidatos, designadamente a competência profissional e científica do mesmo, tendo como referência o perfil de exigências profissionais, genéricas e específicas do posto de trabalho a ocupar, bem como o percurso profissional, a relevância da experiência adquirida e da formação realizada, o tipo de funções exercidas e a avaliação de desempenho obtida.
+
+2 - Na avaliação curricular são considerados e ponderados os elementos de maior relevância para o posto de trabalho a ocupar, bem como os aspectos comportamentais evidenciados durante a interacção, nomeadamente os relacionados com a capacidade de comunicação e de relacionamento interpessoal.
+
+3 - Dos elementos de maior relevância referidos no número anterior, são obrigatoriamente considerados os seguintes:
+
+a) Exercício de funções no âmbito da área de exercício profissional respetiva, tendo em conta a competência técnico-profissional, o tempo de exercício das mesmas e participação em equipas de urgência e de apoio e enquadramento especializado à prática clínica, com especial enfoque para as atividades relevantes para a saúde pública e cuidados de saúde primários, e a avaliação de desempenho obtida;
+
+b) Actividades de formação nos internatos médicos e outras acções de formação e educação médica frequentadas e ministradas;
+
+c) Trabalhos publicados, em especial se publicados em revistas com revisão por pares, e trabalhos apresentados publicamente, sob a forma oral ou poster, e atividades de investigação na área da sua especialidade, de acordo com o seu interesse científico e nível de divulgação, tendo em conta o seu valor relativo;
+
+d) Classificação obtida na avaliação final do internato médico da respetiva área de formação específica;
+
+e) Classificação obtida na avaliação na prova para obtenção do grau de consultor da respetiva área de formação específica;
+
+f) Experiência, capacidade e aptidão para a gestão de equipas, serviços e organizações;
+
+g) Atividades docentes ou de investigação relacionadas com a respetiva área profissional;
+
+h) Outros fatores de valorização profissional, nomeadamente títulos académicos.
+
+4 - Os resultados da avaliação curricular são classificados na escala de 0 a 20 valores, com a seguinte distribuição pelos fatores estabelecidos nas alíneas do número anterior, consoante a categoria a que respeite o procedimento concursal:
+
+a) Categoria de assistente:
+
+Alínea a) - de 0 a 9 valores;
+
+Alínea b) - de 0 a 2 valores;
+
+Alínea c) - de 0 a 3 valores;
+
+Alínea d) - de 0 a 4 valores;
+
+Alínea g) - de 0 a 1 valores;
+
+Alínea h) - de 0 a 1 valores.
+
+b) Categoria de assistente graduado:
+
+Alínea a) - de 0 a 6 valores;
+
+Alínea b) - de 0 a 4 valores;
+
+Alínea c) - de 0 a 4 valores;
+
+Alínea e) - de 0 a 2 valores;
+
+Alínea f) - de 0 a 1 valores;
+
+Alínea g) - de 0 a 2 valores;
+
+Alínea h) - de 0 a 1 valores.
+
+c) Categoria de assistente graduado sénior:
+
+Alínea a) - de 0 a 6 valores;
+
+Alínea b) - de 0 a 2 valores;
+
+Alínea c) - de 0 a 4 valores;
+
+Alínea e) - de 0 a 1 valores;
+
+Alínea f) - de 0 a 5 valores;
+
+Alínea g) - de 0 a 1 valores;
+
+Alínea h) - de 0 a 1 valores.
+
+5 - Cabe ao júri definir em acta, em momento anterior à publicitação do procedimento, os critérios a que irá obedecer a valorização dos factores enunciados nos números precedentes.
+
+6 - Na discussão do currículo devem intervir pelo menos três dos membros do júri, dispondo cada membro de quinze minutos para o efeito, tendo o candidato igual tempo para a resposta.
+
+7 - A discussão curricular é pública, podendo a ela assistir todos os interessados, sendo o local, data e hora da sua realização atempadamente afixados em local visível e público das instalações da entidade empregadora pública e disponibilizados na sua página electrónica.
+
+8 - Os resultados da avaliação curricular, se não atribuídos por unanimidade, são obtidos pela média aritmética das classificações atribuídas por cada membro do júri.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 355/2013 - Diário da República n.º 239/2013, Série I de 2013-12-10](https://diariodarepublica.pt/dr/detalhe/portaria/355-2013-484137), em vigor a partir de 2013-12-11
+
+###### Artigo 21.º — Prova prática
+
+1 - A prova prática destina-se a avaliar a capacidade do candidato para resolver problemas e atuar, assim como reagir, em situações do âmbito da respetiva área profissional de especialidade, com a apresentação e discussão de um plano de gestão clínica do serviço ou unidade da área de especialização à qual concorre, tendo em vista a maximização da eficiência, a melhoria contínua da qualidade, metas e objetivos a alcançar e a forma de seguimento e avaliação de resultados.
+
+2 - A prova prática apenas tem lugar no âmbito dos procedimentos de recrutamento para a categoria de assistente graduado sénior, uma vez que, para as categorias de assistente e de assistente graduado, os objetivos que se pretendem alcançar com a realização desta prova já se encontram acautelados, respetivamente, pela avaliação final do internato médico e pela avaliação final da prova de habilitação ao grau de consultor.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 355/2013 - Diário da República n.º 239/2013, Série I de 2013-12-10](https://diariodarepublica.pt/dr/detalhe/portaria/355-2013-484137), em vigor a partir de 2013-12-11
+
+#### Secção VI — Resultados, ordenação final e recrutamento dos candidatos
+
+###### Artigo 22.º — Ordenação final dos candidatos
+
+1 - Terminada a aplicação dos métodos de seleção, o júri deve elaborar, no prazo máximo de 5 dias úteis, a lista de classificação dos candidatos.1 - Terminada a aplicação dos métodos de selecção, o júri deve preparar, no prazo máximo de 10 dias úteis, a lista de classificação dos candidatos.
+
+2 - A ordenação final dos candidatos que completem o procedimento é efectuada por ordem decrescente, de acordo com a escala classificativa de 0 a 20 valores, em resultado da média aritmética ponderada de 70 % e 30 % das classificações quantitativas obtidas, respectivamente, na avaliação e discussão curricular e na prova prática.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 229-A/2015 - Diário da República n.º 149/2015, 1º Suplemento, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/229-a-2015-69933711), em vigor a partir de 2015-08-04
+
+###### Artigo 23.º — Critérios de ordenação preferencial
+
+1 - Em situações de igualdade de valoração, têm preferência na ordenação final os candidatos que:
+
+a) Se encontrem na situação prevista no n.º 1 do artigo 66.º da LTFP;
+
+b) Se encontrem em outras situações configuradas pela lei como preferenciais.
+
+2 - A ordenação dos candidatos que se encontrem em igualdade de valoração e em situação não configurada pela lei como preferencial é efetuada, de forma decrescente:
+
+a) Em função da classificação obtida na avaliação final do internato médico da área profissional a que respeita o procedimento concursal para o concurso aos postos de Assistente;
+
+b) Em função da classificação obtida na avaliação final das provas para a obtenção do grau de consultar da área profissional a que respeita o procedimento concursal para o concurso aos postos de Assistente Graduado e Assistente Graduado Sénior;
+
+c) Maior duração do vínculo à Administração Pública, ainda que já cessado, na área de exercício profissional a que respeita o procedimento concursal.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 229-A/2015 - Diário da República n.º 149/2015, 1º Suplemento, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/229-a-2015-69933711), em vigor a partir de 2015-08-04
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 355/2013 - Diário da República n.º 239/2013, Série I de 2013-12-10](https://diariodarepublica.pt/dr/detalhe/portaria/355-2013-484137), em vigor a partir de 2013-12-11
+
+###### Artigo 24.º — Audiência dos interessados e homologação
+
+1 - À lista unitária de ordenação final dos candidatos aprovados, bem como às exclusões do procedimento ocorridas na sequência da aplicação de cada um dos métodos de selecção é aplicável, com as necessárias adaptações, o disposto no artigo 16.º e nos n.os 1 a 4 do artigo 17.º
+
+2 - No prazo de três dias úteis após a conclusão da audiência dos interessados, a lista unitária de ordenação final dos candidatos aprovados, acompanhada das restantes deliberações do júri, incluindo as relativas à admissão e exclusão de candidatos, é submetida a homologação do dirigente máximo do órgão ou serviço que procedeu à sua publicitação.
+
+3 - No caso previsto no n.º 5 do artigo 7.º, bem como quando o dirigente máximo seja membro do júri, a homologação da lista é da responsabilidade do membro do Governo responsável pela área da saúde.
+
+4 - Os candidatos, incluindo os que tenham sido excluídos no decurso da aplicação dos métodos de selecção, são notificados do acto de homologação da lista de ordenação final.
+
+5 - A notificação referida no número anterior é efectuada pela forma prevista no n.º 2 do artigo 16.º
+
+6 - A lista unitária de ordenação final, após homologação, é publicada na 2.ª série do Diário da República, afixada em local visível e público das instalações da entidade empregadora pública e disponibilizada na sua página electrónica.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 229-A/2015 - Diário da República n.º 149/2015, 1º Suplemento, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/229-a-2015-69933711), em vigor a partir de 2015-08-04
+
+###### Artigo 25.º — Recrutamento
+
+1 - O recrutamento opera-se nos termos previstos na alínea d) do n.º 1 do artigo 37.º e no artigo 38.º da LTFP.
+
+2 - Apenas podem ser recrutados os candidatos que obtenham classificação final igual ou superior a 10 valores, sem arredondamentos.
+
+3 - Os candidatos aprovados serão recrutados para os postos de trabalho a ocupar segundo a ordenação da lista de ordenação final homologada.
+
+4 - Não podem ser recrutados candidatos que, apesar de aprovados e ordenados na lista unitária de ordenação final, se encontrem nas seguintes situações:
+
+a) Recusem o recrutamento;
+
+b) Recusem, após negociação, a posição remuneratória proposta pela entidade empregadora pública;
+
+c) Apresentem documentos inadequados, falsos ou inválidos que não comprovem as condições necessárias para a constituição da relação jurídica de emprego público;
+
+d) Apresentem os documentos obrigatoriamente exigidos fora do prazo que lhes seja fixado pela entidade empregadora pública;
+
+e) Não compareçam à outorga do contrato ou à aceitação, no prazo legal, por motivos que lhes sejam imputáveis.
+
+5 - Os candidatos que se encontrem nas situações referidas no número anterior são retirados da lista unitária de ordenação final.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 229-A/2015 - Diário da República n.º 149/2015, 1º Suplemento, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/229-a-2015-69933711), em vigor a partir de 2015-08-04
+
+###### Artigo 26.º — Cessação do procedimento concursal
+
+1 - O procedimento concursal cessa com a ocupação dos postos de trabalho constantes da publicitação ou, quando os postos não possam ser totalmente ocupados, por:
+
+a) Inexistência ou insuficiência de candidatos à prossecução do procedimento;
+
+b) Falta de acordo na negociação do posicionamento remuneratório entre a entidade empregadora pública e os candidatos constantes da lista unitária de ordenação final.
+
+2 - Excepcionalmente, ouvidas as organizações sindicais representativas dos trabalhadores médicos, o procedimento concursal pode, ainda, cessar por acto devidamente fundamentado da entidade responsável pela sua realização, homologado pelo respectivo membro do Governo, desde que não se tenha ainda procedido à ordenação final dos candidatos.
+
+#### Secção VII — Procedimentos concursais a nível nacional e regional
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2017 - Diário da República n.º 112/2017, Série I de 2017-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/190-2017-107495702), em vigor a partir de 2017-06-10
+
+###### Artigo 26.º-A — Especificidades dos procedimentos desenvolvidos a nível nacional ou regional
+
+1 - Aos procedimentos concursais de recrutamento e seleção para os postos de trabalho da carreira especial médica que se realizem a nível nacional ou regional, nos termos do artigo 22.º-C do Estatuto do Serviço Nacional de Saúde, aplica-se o disposto na presente portaria com as especificidades previstas nos números seguintes.
+
+2 - Os procedimentos referidos no número anterior são desenvolvidos pela Administração Central do Sistema de Saúde, I. P., salvo se respeitarem a especialidades da área hospitalar, os quais poderão revestir âmbito regional se, por despacho do membro do Governo responsável pela área da saúde, se reconhecer, fundamentadamente, estarem em causa postos de trabalho cuja ocupação exija a posse de condições técnico-profissionais específicas, cabendo, neste caso, o seu desenvolvimento à administração regional de saúde territorialmente competente.
+
+3 - O júri responsável pela aplicação do correspondente método de seleção é constituído por um presidente, dois vogais efetivos e dois vogais suplentes, a designar, por deliberação do conselho diretivo, consoante o caso, da Administração Central do Sistema de Saúde, I. P., ou da administração regional de saúde territorialmente competente, de entre médicos da respetiva especialidade que, preferencialmente, ocupem postos de trabalho nos mapas de pessoal dos serviços e estabelecimentos de saúde cujos postos de trabalho são objeto do procedimento concursal a desenvolver.
+
+4 - Sem prejuízo do disposto no número anterior, o júri é assessorado por um técnico superior especialmente designado para o efeito, a quem compete proceder à análise dos requisitos gerais e especiais para efeitos de admissão ao concurso, bem como para elaboração da correspondente ficha de avaliação curricular, de acordo com os critérios de seleção por aquele previamente fixados.
+
+5 - A ordenação final dos candidatos é efetuada, por ordem decrescente, de acordo com a escala classificativa de 0 a 20 valores, resultante de uma avaliação curricular realizada para o efeito, efetuada e fundamentada pelo júri, de acordo com os critérios fixados no número seguinte e respetiva ponderação.
+
+6 - A avaliação curricular a que se refere o número anterior e que visa analisar a qualificação e experiência profissional dos candidatos deve atender aos seguintes parâmetros e respetiva ponderação:
+
+a) Classificação obtida na avaliação final do internato médico da respetiva área de formação específica - entre 0 e 4 valores, correspondendo 0 (zero) a quem tenha obtido 10 valores e 4 valores para quem tenha obtido 20 valores na avaliação final do internato médico, aplicando-se nas restantes situações uma regra de proporcionalidade direta, aproximada às décimas [fórmula de cálculo: (nota final de internato - 10) x 2/5];
+
+b) Tempo de exercício de funções na respetiva especialidade - 1 valor por ano completo, até ao máximo de 8 valores;
+
+c) Exercício de funções de orientador de formação, nos últimos 10 anos - 0,5 valores por cada interno até ao máximo de 3 valores;
+
+d) Participação em grupos de trabalho de âmbito nacional para elaboração de protocolos de atuação clínica ou organizacional, com publicação formal de relatório ou normas de atuação - 0,5 valores;
+
+e) Participação em equipas de trabalho multidisciplinares com publicação de protocolos ou relatórios - 0,5 valores;
+
+f) Atividades de formação ministradas nos últimos cinco anos, desde que de duração igual ou superior a quatro horas e com interesse para a respetiva área de exercício profissional - 0,2 valores por ação até ao máximo de 1 valores;
+
+g) Atividades de formação frequentadas nos últimos cinco anos, desde que de duração igual ou superior a sete horas e com interesse para a respetiva área de exercício profissional - 0,1 valor por ação até ao máximo de 0,7 valores;
+
+h) Posse de um curso de pós-graduação de duração não inferior a um ano letivo e com avaliação - 0,3 valores;
+
+i) Posse de mestrado ou doutoramento - 0,5 ou 1 valor, respetivamente, para mestrado e doutoramento;
+
+j) Artigos científicos publicados em revista indexada com valorização de 0,25 valores por artigo, bem como a apresentação de trabalhos científicos ou moderação de mesas em congressos nacionais ou internacionais, com valorização de 0,1 por intervenção, até ao máximo total de 1 valor.
+
+> Aditado pelo/a Artigo 1.º do/a [Portaria n.º 190/2017 - Diário da República n.º 112/2017, Série I de 2017-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/190-2017-107495702), em vigor a partir de 2017-06-10
+
+###### Artigo 27.º — Impugnação administrativa
+
+1 - Da exclusão do candidato do procedimento concursal pode ser interposto recurso administrativo.
+
+2 - Quando a decisão do recurso seja favorável ao recorrente, este mantém o direito a completar o procedimento.
+
+3 - Da homologação da lista de ordenação final pode ser interposto recurso administrativo.
+
+#### Secção VIII — Garantias
+
+> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 190/2017 - Diário da República n.º 112/2017, Série I de 2017-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/190-2017-107495702), em vigor a partir de 2017-06-10
+
+###### Artigo 28.º — Restituição e destruição de documentos
+
+1 - É destruída a documentação apresentada pelos candidatos quando a sua restituição não seja solicitada no prazo máximo de um ano após a cessação do respectivo procedimento concursal.
+
+2 - A documentação apresentada pelos candidatos respeitante a procedimentos concursais que tenham sido objecto de impugnação jurisdicional só pode ser destruída ou restituída após a execução da decisão jurisdicional.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2017 - Diário da República n.º 112/2017, Série I de 2017-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/190-2017-107495702)
+
+###### Artigo 29.º — Execução de decisão jurisdicional procedente
+
+Para reconstituição da situação actual hipotética decorrente da procedência de impugnação jurisdicional de acto procedimental que tenha impedido a imediata constituição de uma relação jurídica de emprego público em órgão ou serviço responsável pela realização do procedimento, o impugnante tem o direito a ocupar idêntico posto de trabalho, não ocupado ou a criar no mapa de pessoal, nos termos da lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2017 - Diário da República n.º 112/2017, Série I de 2017-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/190-2017-107495702)
+
+###### Artigo 30.º — Modelos de formulários
+
+1 - São aprovados por despacho do membro do Governo responsável pela área da saúde os modelos de formulário tipo a seguir mencionados:
+
+a) Formulário de candidatura;
+
+b) Formulário para o exercício do direito de participação dos interessados.
+
+2 - Os formulários referidos do número anterior são de utilização obrigatória.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2017 - Diário da República n.º 112/2017, Série I de 2017-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/190-2017-107495702)
+
+###### Artigo 31.º — Aplicação no tempo
+
+A presente portaria aplica-se aos procedimentos concursais que sejam publicitados após a data da sua entrada em vigor.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2017 - Diário da República n.º 112/2017, Série I de 2017-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/190-2017-107495702)
+
+###### Artigo 32.º — Legislação supletiva e subsidiária
+
+1 - A todas as matérias não directamente reguladas pela presente portaria, designadamente no que respeita aos prazos e impugnações, aplica-se o regime estabelecido no Código do Procedimento Administrativo.
+
+2 - Ao procedimento concursal regulado pela presente portaria é subsidiariamente aplicável a Portaria n.º 83-A/2009, de 22 de janeiro, alterada e republicada pela Portaria n.º 145-A/2011, de 6 de abril.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2017 - Diário da República n.º 112/2017, Série I de 2017-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/190-2017-107495702)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 229-A/2015 - Diário da República n.º 149/2015, 1º Suplemento, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/229-a-2015-69933711), em vigor a partir de 2015-08-04
+
+###### Artigo 33.º — Norma revogatória
+
+São revogadas as Portarias n.os 177/97, de 11 de Março, 43/98, de 26 de Janeiro, 44/98, de 27 de Janeiro, e 47/98, de 30 de Janeiro.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2017 - Diário da República n.º 112/2017, Série I de 2017-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/190-2017-107495702)
+
+###### Artigo 34.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2017 - Diário da República n.º 112/2017, Série I de 2017-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/190-2017-107495702)
+
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 13 de Maio de 2011. - A Ministra da Saúde, Ana Maria Teodoro Jorge, em 13 de Abril de 2011.

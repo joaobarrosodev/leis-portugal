@@ -1,0 +1,422 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992R2137:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R2137-20090101",
+ "dre_path": null,
+ "source_lastmod": "2009-01-01",
+ "versions": [
+  {
+   "date": "1992-07-30",
+   "future": false,
+   "celex": "31992R2137",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7aaca8b8b866925b",
+    "505b3ab928321875",
+    "71d12ea24d3c4514",
+    "356fadd802d332d6",
+    "fa30b2eca9bc3616",
+    "33c20c79c476577d",
+    "919237a90653c5a9",
+    "8dc580c35cd65f8b",
+    "751d23f97a000e38",
+    "418847bf59de50c3",
+    "fd1eb257e93aa9a0",
+    "c866d8d04ace6764",
+    "f17a998c7e897006",
+    "cc51ca8bfc8942b5"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01992R2137-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:31994R1278:por",
+     "title": "Regulamento (CE) n o 1278/94 do Conselho de 30 de Maio de 1994",
+     "published": null,
+     "celex": "31994R1278"
+    },
+    {
+     "id": "eu:celex:31997R2536:por",
+     "title": "Regulamento (CE) n o 2536/97 do Conselho de 16 de Dezembro de 1997",
+     "published": null,
+     "celex": "31997R2536"
+    },
+    {
+     "id": "eu:celex:32006R1791:por",
+     "title": "REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro de 2006",
+     "published": null,
+     "celex": "32006R1791"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1º",
+    "Adita Artigo 2º",
+    "Adita Artigo 3º",
+    "Adita Artigo 4º",
+    "Adita Artigo 5º",
+    "Adita Artigo 6º",
+    "Adita Artigo 7º",
+    "Adita Artigo 9º",
+    "Adita Artigo 10º",
+    "Adita ANEXO I",
+    "Adita CONFORMAÇÃO",
+    "Adita Desenvolvimento dos perfis da carcaça, nomeadamente das suas partes essenciais (coxa, dorso, espádua)",
+    "Adita ANEXO II",
+    "Adita CAMADA DE GORDURA",
+    "Adita Quantidade de tecido adiposo no exterior da carcaça e no interior da cavidade torácica",
+    "Adita ANEXO III",
+    "Adita Grelha de classificação de carcaças prevista no nº 2, terceiro parágrafo, do artigo 3º",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime ANEXO I — CONFORMAÇÃO",
+    "Suprime ANEXO II — CAMADA DE GORDURA",
+    "Suprime ANEXO III — Grelha de classificação de carcaças prevista no no 2, terceiro parágrafo, do artigo 3o"
+   ],
+   "fragments": [
+    "0ae5bc03fefa5d25",
+    "67bd5219b39951a2",
+    "73dcb9565127b2fe",
+    "9906659ea3263ce9",
+    "7eb097b7d4d82857",
+    "17a5885dd50846a1",
+    "466055cb76e29f31",
+    "1af792cb5602e73f",
+    "3394dde1034ecdd4",
+    "281ea7d106aa7c6f",
+    "d664376e2a8dcecd",
+    "62870f33c2d8b625",
+    "6a1e9302d93874aa",
+    "852174729551523b",
+    "73a5e12e06b520b3",
+    "7629dece7b56a3bb",
+    "720af75c92791b10",
+    "6d68392828eda37c",
+    "06b4801005544ada"
+   ]
+  },
+  {
+   "date": "2009-01-01",
+   "future": false,
+   "celex": "01992R2137-20090101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime ANEXO I",
+    "Suprime CONFORMAÇÃO",
+    "Suprime Desenvolvimento dos perfis da carcaça, nomeadamente das suas partes essenciais (coxa, dorso, espádua)",
+    "Suprime ANEXO II",
+    "Suprime CAMADA DE GORDURA",
+    "Suprime Quantidade de tecido adiposo no exterior da carcaça e no interior da cavidade torácica",
+    "Suprime ANEXO III",
+    "Suprime Grelha de classificação de carcaças prevista no nº 2, terceiro parágrafo, do artigo 3º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "cc96a3baf86106ac"
+   ]
+  }
+ ],
+ "fragments": {
+  "7aaca8b8b866925b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2137/92 do Conselho, de 23 de Julho de 1992, relativo à grelha comunitária de classificação de carcaças de ovinos e a qualidade-tipo comunitária de carcaças de ovino frescas ou refrigeradas e que prorroga o Regulamento (CEE) nº 338/91** *Jornal Oficial nº L 214 de 30/07/1992 p. 0001 - 0005 Edição especial finlandesa: Capítulo 3 Fascículo 43 p. 0173 Edição especial sueca: Capítulo 3 Fascículo 43 p. 0173*\n\nREGULAMENTO (CEE) No 2137/92 DO CONSELHO de 23 de Julho de 1992 relativo à grelha comunitária de classificação de carcaças de ovinos e a qualidade-tipo comunitária de carcaças de ovino frescas ou refrigeradas e que prorroga o Regulamento (CEE) no 338/91\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) no 3013/89 do Conselho, de 25 de Setembro de 1989, que estabelece a organização comum de mercado no sector das carnes de ovino e caprino (1), e, nomeadamente, o no 2 do seu artigo 4o,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando que são necessárias normas de classificação, a fim de melhorar a transparência do mercado nesse sector;\n\nConsiderando que a classificação deve ser efectuada com base na conformação e na importância da camada de gordura; que a combinação destes dois critérios permite a divisão das carcaças de ovinos em classes; que as carcaças classificadas devem ser objecto de identificação;\n\nConsiderando, no entanto, que podem ser utilizados outros critérios na classificação de carcaças com menos de 13 quilogramas de peso, nomeadamente o peso, a cor da carne e a camada de gordura; que é conveniente que os Estados-membros que pretendam utilizar estes critérios informem do facto a Comissão e os outros Estados-membros;\n\nConsiderando que, a fim de assegurar a aplicação uniforme do presente regulamento na Comunidade, devem ser previstas inspecções no local por um grupo de inspecção comunitário;\n\nConsiderando que o Regulamento (CEE) no 338/91 do Conselho, de 5 de Fevereiro de 1991, que determina a qualidade-tipo comunitária de carcaças de ovino frescas ou refrigeradas (2), é aplicado durante as campanhas de 1991 e 1992, na pendência da definição de classificações-tipo comunitárias para as carcaças;\n\nConsiderando que não é oportuno estabelecer actualmente as normas em questão; que é preferível dispor antes de mais de certa experiência, adquirida durante um período suficientemente longo, na aplicação da grelha de classificação prevista no presente regulamento; que deve, pois, ser prorrogada por uma campanha a aplicação do Regulamento (CEE) no 338/91, com excepção da medida prevista no artigo 7o do Regulamento (CEE) no 3013/89, cuja aplicação é prorrogada até 30 de Junho de 1994;\n\nConsiderando que se afigura oportuno fixar como objectivo a aplicação da grelha comunitária, após um período transitório suficientemente representativo, ao conjunto dos matadouros aprovados para o comércio intracomunitário; que, contudo, por razões de boa gestão administrativa, esta afectação obrigatória poderá não abranger os pequenos matadouros situados em regiões em que a incidência do volume abatido nesses matadouros no preço de mercado é desprezível,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "505b3ab928321875": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nO presente regulamento determina a grelha comunitária de classificação de carcaças de ovinos."
+  },
+  "71d12ea24d3c4514": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nPara efeitos de classificação das carcaças, são aplicadas as seguintes apresentações:\n\na) « Carcaça »: o corpo inteiro de um animal abatido, tal como se apresenta após sangria, evisceração e esfola, e sem cabeça (separada na articulação atlanto-occipital), pés (seccionados ao nível das articulações carpo-metacárpicas ou tarso-metatársicas), cauda (seccionada entre a sexta e a sétima vértebras caudais), úbere, orgãos genitais, fígado e fessura. Os rins e respectiva gordura são incluídos na carcaça;\n\nb) « Meia-carcaça »: o produto obtido por separação da carcaça referida na alínea a), segundo um plano de simetria que passa pelo meio de cada vértebra cervical, dorsal, lombar e sagrada, pelo meio do esterno e da sínfise ísquio-púbica.\n\nNo entanto, os Estados-membros podem ser autorizados a aceitar outras apresentações se não for utilizada a de referência. Nestes casos, as adaptações necessárias para passar destas apresentações à apresentação de referência serão adoptadas segundo o procedimento previsto no artigo 30o do Regulamento (CEE) no 3013/89."
+  },
+  "356fadd802d332d6": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. As carcaças de ovinos são divididas nas seguintes categorias:\n\n- carcaças de ovinos com menos de doze meses de idade,\n\n- carcaças de outros ovinos.\n\n2. As carcaças de ovinos são classificadas por determinação sucessiva da:\n\na) Conformação,\n\nb) Camada de gordura,\n\ncomo definido nos anexos I e II, respectivamente.\n\nA classe de conformação designada no anexo I pela letra S poderá ser utilizada, a título facultativo pelos Estados-membros, para ter em conta a existência de uma classe de conformação superior (tipo culard). Os Estados-membros que pretendam fazer uso desta possibilidade, devem informar desse facto a Comissão e os outros Estados-membros.\n\nNo entanto, no caso dos borregos com carcaças de peso inferior a 13 quilogramas, os Estados-membros podem ser autorizados a utilizar os seguintes critérios de classificação:\n\na) Peso da carcaça,\n\nb) Cor da carne,\n\nc) Camada de gordura,\n\ncomo definido no anexo III. Os Estados-membros que pretendam utilizar esta autorização devem informar do facto a Comissão e os outros Estados-membros antes de 5 de Abril de 1993.\n\n3. Os Estados-membros são autorizados a subdividir cada classe prevista nos anexos I e II num máximo de três subclasses."
+  },
+  "fa30b2eca9bc3616": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. A classificação das carcaças ou das meias-carcaças deve ser efectuada no mais curto prazo possível após o abate e ser realizada no próprio matadouro.\n\n2. As carcaças ou meias-carcaças classificadas devem ser objecto de identificação.\n\n3. As regras de execução do presente artigo serão adoptadas em conformidade com o processo definido no artigo 30o do Regulamento (CEE) no 3013/89, o mais tardar até 31 de Dezembro de 1992."
+  },
+  "33c20c79c476577d": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nEm colaboração com as autoridades nacionais competentes, serão efectuadas inspecções no local por um grupo comunitário de inspecção, constituído por peritos da Comissão e por peritos designados pelos Estados-membros. Este grupo elaborará um relatório, que transmitirá à Comissão e aos outros Estados-membros, sobre os controlos efectuados.\n\nSe necessário, são tomadas as medidas adequadas, de acordo com o procedimento previsto no artigo 30o do Regulamento (CEE) no 3013/89, para efeitos de classificação uniforme.\n\nAs inspecções serão efectuadas por conta da Comunidade, que tomará a cargo os custos correspondentes.\n\nAs regras de execução do presente artigo serão adoptadas em conformidade com o processo definido no artigo 30o do Regulamento (CEE) no 3013/89."
+  },
+  "919237a90653c5a9": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nO mais tardar até 31 de Dezembro de 1992, as disposições complementares que especificam a definição de classes de conformação, camada de gordura, peso da carcaça e cor da carne serão adoptadas em conformidade com o processo definido no artigo 30o do Regulamento (CEE) no 3013/89."
+  },
+  "8dc580c35cd65f8b": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. A partir de 5 de Abril de 1993, e enquanto não tiver sido adoptada uma nova definição da qualidade-tipo, os Estados-membros comunicarão semanalmente à Comissão os preços de mercado das diferentes classes previstas pela grelha de classificação.\n\n2. As regras de execução do presente artigo e, em particular, a frequência e a extensão daqueles levantamentos de preços serão determinados de acordo com o processo previsto no artigo 30o do Regulamento (CEE) no 3013/89.\n\n3. As informações que os Estados-membros transmitam à Comissão devem servir para a elaboração do relatório e das propostas previstas no no 2 do artigo 8o"
+  },
+  "751d23f97a000e38": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. O segundo parágrafo do artigo 2o do Regulamento (CEE) no 338/91 passa a ter a seguinte redacção:\n\n« É aplicável durante as campanhas de comercialização de 1991, 1992 e 1993. Continua, porém, aplicável até 30 de Junho de 1994 para execução da medida prevista no artigo 7o do Regulamento (CEE) no 3013/89. ».\n\n2. Até 31 de Março de 1994, o mais tardar, a Comissão apresentará ao Conselho um relatório acompanhado por uma proposta de definição da qualidade-tipo, sobre a qual o Conselho deverá deliberar por maioria qualificada e que deverá entrar em vigor em 1 de Julho de 1994, com aplicação retroactiva no que se refere ao cálculo do prémio por ovelha, a título da campanha de 1994."
+  },
+  "418847bf59de50c3": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nAté 31 de Dezembro de 1995, o mais tardar, a Comissão apresentará ao Conselho um relatório sobre a aplicação do presente regulamento.\n\nSob reserva das conclusões deste relatório, o Conselho fixa o objectivo de tornar a aplicação da grelha comunitária obrigatória para o conjunto dos matadouros autorizados para o comércio intracomunitário, o mais tardar até 1 de Janeiro de 1997, sem prejuízo da possibilidade de excluir os pequenos matadouros situados em regiões em que a incidência do volume abatido nesses matadouros no preço de mercado é desprezível."
+  },
+  "fd1eb257e93aa9a0": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir da campanha de 1993. O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 23 de Julho de 1992. Pelo Conselho\n\nO Presidente\n\nJohn COPE\n\n(1) JO no L 289 de 7. 10. 1989, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) no 1741/91 (JO no L 163 de 13. 6. 1991, p. 41). (2) JO no L 41 de 14. 2. 1991, p. 1."
+  },
+  "c866d8d04ace6764": {
+   "fragment_id": "ANEXO I — CONFORMAÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO I — CONFORMAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — CONFORMAÇÃO\n\nDesenvolvimento dos perfis da carcaça, nomeadamente das suas partes essenciais (coxa, dorso, espádua)\n\nClasse de conformação Descrição S\n\nSuperior Todos os perfis extremamente convexos; deselvolvimento muscular excepcional com músculos duplos, tipo culard E\n\nExcelente Todos os perfis de convexos a extremamente convexos; desenvolvimento muscular excepcional U\n\nMuito boa Perfis em geral convexos; muito bom desenvolvimento muscular R\n\nBoa Perfis em geral rectilíneos; bom desenvolvimento muscular O\n\nRelativamente boa Perfis rectilíneos a côncavos; desenvolvimento muscular médio P\n\nMedíocre Todos os perfis côncavos a muito côncavos; reduzido desenvolvimento muscular"
+  },
+  "f17a998c7e897006": {
+   "fragment_id": "ANEXO II — CAMADA DE GORDURA",
+   "type": "divisao",
+   "heading": "ANEXO II — CAMADA DE GORDURA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — CAMADA DE GORDURA\n\nQuantidade de tecido adiposo no exterior da carcaça e no interior da cavidade torácica\n\nClasse da camada de gordura Descrição 1\n\nMuito reduzida Camada de gordura inexistente a muito reduzida 2\n\nReduzida Camada de gordura reduzida; carne quase sempre visível 3\n\nMédia Carne quase sempre coberta por gordura, com excepção da coxa e da espádua; reduzidos depósitos de gordura no interior da cavidade torácica 4\n\nAbundante Carne coberta por gordura, mas ainda parcialmente visível ao nível da coxa e da espádua; alguns depósitos separados de gordura no interior da cavidade torácica 5\n\nMuito abundante Carcaça coberta por uma camada espessa de gordura; depósitos substanciais de gordura no interior da cavidade torácica"
+  },
+  "cc51ca8bfc8942b5": {
+   "fragment_id": "ANEXO III — Grelha de classificação de carcaças prevista no no 2, terceiro parágrafo, do artigo 3o",
+   "type": "divisao",
+   "heading": "ANEXO III — Grelha de classificação de carcaças prevista no no 2, terceiro parágrafo, do artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Grelha de classificação de carcaças prevista no no 2, terceiro parágrafo, do artigo 3o\n\nCategoria A B C Peso 7 kg 7,1 - 10 kg 10,1 - 13 kg Qualidade 1a 2a 1a 2a 1a 2a Cor da carne\n\nTeor de gordura (*) rosa\n\nclaro\n\n(1) (2) outra cor ou outro teor de gordura rosa\n\nclaro\n\n(1) (2) outra cor ou outro teor de gordura rosa\n\nclaro\n\n(2) (3) outra cor ou outro teor de gordura\n\n(*) Definido no anexo II."
+  },
+  "0ae5bc03fefa5d25": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Julho de 1992\n\nrelativo à grelha comunitária de classificação de carcaças de ovinos e a qualidade-tipo comunitária de carcaças de ovino frescas ou refrigeradas e que prorroga o Regulamento (CEE) nº 338/91\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) nº 3013/89 do Conselho, de 25 de Setembro de 1989, que estabelece a organização comum de mercado no sector das carnes de ovino e caprino ([^1^](http://publications.europa.eu/resource/cellar/40f66086-bb74-42e5-9c3f-a30477d108b9.0017.03/DOC_1#E0001)), e, nomeadamente, o nº 2 do seu artigo 4º,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando que são necessárias normas de classificação, a fim de melhorar a transparência do mercado nesse sector;\n\nConsiderando que a classificação deve ser efectuada com base na conformação e na importância da camada de gordura; que a combinação destes dois critérios permite a divisão das carcaças de ovinos em classes; que as carcaças classificadas devem ser objecto de identificação;\n\nConsiderando, no entanto, que podem ser utilizados outros critérios na classificação de carcaças com menos de 13 quilogramas de peso, nomeadamente o peso, a cor da carne e a camada de gordura; que é conveniente que os Estados-membros que pretendam utilizar estes critérios informem do facto a Comissão e os outros Estados-membros;\n\nConsiderando que, a fim de assegurar a aplicação uniforme do presente regulamento na Comunidade, devem ser previstas inspecções no local por um grupo de inspecção comunitário;\n\nConsiderando que o Regulamento (CEE) nº 338/91 do Conselho, de 5 de Fevereiro de 1991, que determina a qualidade-tipo comunitária de carcaças de ovino frescas ou refrigeradas ([^2^](http://publications.europa.eu/resource/cellar/40f66086-bb74-42e5-9c3f-a30477d108b9.0017.03/DOC_1#E0002)), é aplicado durante as campanhas de 1991 e 1992, na pendência da definição de classificações-tipo comunitárias para as carcaças;\n\nConsiderando que não é oportuno estabelecer actualmente as normas em questão; que é preferível dispor antes de mais de certa experiência, adquirida durante um período suficientemente longo, na aplicação da grelha de classificação prevista no presente regulamento; que deve, pois, ser prorrogada por uma campanha a aplicação do Regulamento (CEE) nº 338/91, com excepção da medida prevista no artigo 7º do Regulamento (CEE) nº 3013/89, cuja aplicação é prorrogada até 30 de Junho de 1994;\n\nConsiderando que se afigura oportuno fixar como objectivo a aplicação da grelha comunitária, após um período transitório suficientemente representativo, ao conjunto dos matadouros aprovados para o comércio intracomunitário; que, contudo, por razões de boa gestão administrativa, esta afectação obrigatória poderá não abranger os pequenos matadouros situados em regiões em que a incidência do volume abatido nesses matadouros no preço de mercado é desprezível,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "67bd5219b39951a2": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nO presente regulamento determina a grelha comunitária de classificação de carcaças de ovinos."
+  },
+  "73dcb9565127b2fe": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nPara efeitos de classificação das carcaças, são aplicadas as seguintes apresentações:\n\na) «Carcaça»: o corpo inteiro de um animal abatido, tal como se apresenta após sangria, evisceração e esfola, e sem cabeça (separada na articulação atlanto-occipital), pés (seccionados ao nível das articulações carpo-metacárpicas ou tarso-metatársicas), cauda (seccionada entre a sexta e a sétima vértebras caudais), úbere, orgãos genitais, fígado e fessura. Os rins e respectiva gordura são incluídos na carcaça;\n\nb) «Meia-carcaça»: o produto obtido por separação da carcaça referida na alínea a), segundo um plano de simetria que passa pelo meio de cada vértebra cervical, dorsal, lombar e sagrada, pelo meio do esterno e da sínfise ísquio-púbica.\n\nNo entanto, os Estados-membros podem ser autorizados a aceitar outras apresentações se não for utilizada a de referência. Nestes casos, as adaptações necessárias para passar destas apresentações à apresentação de referência serão adoptadas segundo o procedimento previsto no artigo 30º do Regulamento (CEE) nº 3013/89."
+  },
+  "9906659ea3263ce9": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. As carcaças de ovinos são divididas nas seguintes categorias:\n\n— carcaças de ovinos com menos de doze meses de idade,\n\n— carcaças de outros ovinos.\n\n2. As carcaças de ovinos são classificadas por determinação sucessiva da:\n\na) Conformação,\n\nb) Camada de gordura,\n\ncomo definido nos anexos I e II, respectivamente.\n\nA classe de conformação designada no anexo I pela letra S poderá ser utilizada, a título facultativo pelos Estados-membros, para ter em conta a existência de uma classe de conformação superior (tipo *culard*). Os Estados-membros que pretendam fazer uso desta possibilidade, devem informar desse facto a Comissão e os outros Estados-membros.\n\nNo entanto, no caso dos borregos com carcaças de peso inferior a 13 quilogramas, os Estados-membros podem ser autorizados a utilizar os seguintes critérios de classificação:\n\na) Peso da carcaça,\n\nb) Cor da carne,\n\nc) Camada de gordura,\n\ncomo definido no anexo III. Os Estados-membros que pretendam utilizar esta autorização devem informar do facto a Comissão e os outros Estados-membros antes de 5 de Abril de 1993.\n\nCaso a República Checa, a Estónia, Chipre, a Letónia, a Lituânia, a Hungria, Malta a Polónia a Eslovénia ou a Eslováquia pretendam fazer uso desta autorização, devem informar do facto a Comissão e os outros Estados-Membros no prazo máximo de um ano após a data da adesão.\n\nCaso a Bulgária ou a Roménia pretendam fazer uso desta autorização, devem informar do facto a Comissão e os outros Estados-Membros no prazo máximo de um ano após a data da adesão.\n\n3. Os Estados-membros são autorizados a subdividir cada classe prevista nos anexos I e II num máximo de três subclasses.\n\nOs Estados-membros que utilizem o sistema de classificação previsto no anexo III ficam autorizados a dividir a categoria C em duas subcategorias."
+  },
+  "7eb097b7d4d82857": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. A classificação das carcaças ou das meias-carcaças deve ser efectuada no mais curto prazo possível após o abate e ser realizada no próprio matadouro.\n\n2. As carcaças ou meias-carcaças classificadas devem ser objecto de identificação.\n\n3. As regras de execução do presente artigo serão adoptadas em conformidade com o processo definido no artigo 30º do Regulamento (CEE) nº 3013/89, o mais tardar até 31 de Dezembro de 1992."
+  },
+  "17a5885dd50846a1": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nEm colaboração com as autoridades nacionais competentes, serão efectuadas inspecções no local por um grupo comunitário de inspecção, constituído por peritos da Comissão e por peritos designados pelos Estados-membros. Este grupo elaborará um relatório, que transmitirá à Comissão e aos outros Estados-membros, sobre os controlos efectuados.\n\nSe necessário, são tomadas as medidas adequadas, de acordo com o procedimento previsto no artigo 30º do Regulamento (CEE) nº 3013/89, para efeitos de classificação uniforme.\n\nAs inspecções serão efectuadas por conta da Comunidade, que tomará a cargo os custos correspondentes.\n\nAs regras de execução do presente artigo serão adoptadas em conformidade com o processo definido no artigo 30º do Regulamento (CEE) nº 3013/89."
+  },
+  "466055cb76e29f31": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nO mais tardar até 31 de Dezembro de 1992, as disposições complementares que especificam a definição de classes de conformação, camada de gordura, peso da carcaça e cor da carne serão adoptadas em conformidade com o processo definido no artigo 30º do Regulamento (CEE) nº 3013/89."
+  },
+  "1af792cb5602e73f": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. A partir de 5 de Abril de 1993, e enquanto não tiver sido adoptada uma nova definição da qualidade-tipo, os Estados-membros comunicarão semanalmente à Comissão os preços de mercado das diferentes classes previstas pela grelha de classificação.\n\n2. As regras de execução do presente artigo e, em particular, a frequência e a extensão daqueles levantamentos de preços serão determinados de acordo com o processo previsto no artigo 30º do Regulamento (CEE) nº 3013/89.\n\n3. As informações que os Estados-membros transmitam à Comissão devem servir para a elaboração do relatório e das propostas previstas no nº 2 do artigo 8º."
+  },
+  "3394dde1034ecdd4": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nO mais tardar em 31 de Julho de 2002, a Comissão apresentará ao Conselho um relatório sobre o funcionamento do presente sistema, eventualmente acompanhado de propostas adequadas, nomeadamente no que se refere à grelha de classificação das carcaças, com o objectivo de, se possível, tornar a sua aplicação obrigatória."
+  },
+  "281ea7d106aa7c6f": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nÉ aplicável a partir da campanha de 1993.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "62870f33c2d8b625": {
+   "fragment_id": "CONFORMAÇÃO",
+   "type": "divisao",
+   "heading": "CONFORMAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONFORMAÇÃO"
+  },
+  "6a1e9302d93874aa": {
+   "fragment_id": "Desenvolvimento dos perfis da carcaça, nomeadamente das suas partes essenciais (coxa, dorso, espádua)",
+   "type": "divisao",
+   "heading": "Desenvolvimento dos perfis da carcaça, nomeadamente das suas partes essenciais (coxa, dorso, espádua)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Desenvolvimento dos perfis da carcaça, nomeadamente das suas partes essenciais (coxa, dorso, espádua)\n\nClasse de conformação Descrição\n\nS Superior Todos os perfis extremamente convexos; desenvolvimento muscular excepcional com músculos duplos, tipo *culard*\n\nE Excelente Todos os perfis de convexos a extremamente convexos; desenvolvimento muscular excepcional\n\nU Muito boa Perfis em geral convexos; muito bom desenvolvimento muscular\n\nR Boa Perfis em geral rectilíneos; bom desenvolvimento muscular\n\nO Relativamente boa Perfis rectilíneos a côncavos; desenvolvimento muscular médio\n\nP Medíocre Todos os perfis côncavos a muito côncavos; reduzido desenvolvimento muscular"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "73a5e12e06b520b3": {
+   "fragment_id": "CAMADA DE GORDURA",
+   "type": "divisao",
+   "heading": "CAMADA DE GORDURA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAMADA DE GORDURA"
+  },
+  "7629dece7b56a3bb": {
+   "fragment_id": "Quantidade de tecido adiposo no exterior da carcaça e no interior da cavidade torácica",
+   "type": "divisao",
+   "heading": "Quantidade de tecido adiposo no exterior da carcaça e no interior da cavidade torácica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Quantidade de tecido adiposo no exterior da carcaça e no interior da cavidade torácica\n\nClasse da camada de gordura Descrição\n\n1 Muito reduzida Camada de gordura inexistente a muito reduzida\n\n2 Reduzida Camada de gordura reduzida; carne quase sempre visível\n\n3 Média Carne quase sempre coberta por gordura, com excepção da coxa e da espádua; reduzidos depósitos de gordura no interior da cavidade torácica\n\n4 Abundante Carne coberta por gordura, mas ainda parcialmente visível ao nível da coxa e da espádua; alguns depósitos separados de gordura no interior da cavidade torácica\n\n5 Muito abundante Carcaça coberta por uma camada espessa de gordura; depósitos substanciais de gordura no interior da cavidade torácica"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "6d68392828eda37c": {
+   "fragment_id": "Grelha de classificação de carcaças prevista no nº 2, terceiro parágrafo, do artigo 3º",
+   "type": "divisao",
+   "heading": "Grelha de classificação de carcaças prevista no nº 2, terceiro parágrafo, do artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Grelha de classificação de carcaças prevista no nº 2, terceiro parágrafo, do artigo 3º\n\n| Categoria | A | B | C |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| Peso | ≤ 7 kg | 7,1 — 10 kg | 10,1 — 13 kg |  |  |  |\n| Qualidade | 1 | 2 | 1 | 2 | 1 | 2 |\n| Cor da carne | rosa claro | outra cor ou outro teor de gordura | rosa claro ou rosa | outra cor ou outro teor de gordura | rosa claro ou rosa | outra cor ou outro teor de gordura |\n| Teor de gordura [(^1^)](http://publications.europa.eu/resource/cellar/40f66086-bb74-42e5-9c3f-a30477d108b9.0017.03/DOC_1#E0003) | (2) (3) | (2) (3) | (2) (3) |  |  |  |\n| (^1^)Definido no anexo II. |  |  |  |  |  |  |\n\n---"
+  },
+  "06b4801005544ada": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/40f66086-bb74-42e5-9c3f-a30477d108b9.0017.03/DOC_1#src.E0001)) JO nº L 289 de 7. 10. 1989, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 1741/91 (JO nº L 163 de 13. 6. 1991, p. 41).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/40f66086-bb74-42e5-9c3f-a30477d108b9.0017.03/DOC_1#src.E0002)) JO nº L 41 de 14. 2. 1991, p. 1."
+  },
+  "cc96a3baf86106ac": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1992R2137 — PT — 01.01.2009 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31992R2137) [REGULAMENTO (CEE) Nº 2137/92 DO CONSELHO](http://publications.europa.eu/resource/celex/31992R2137) [de 23 de Julho de 1992](http://publications.europa.eu/resource/celex/31992R2137) [relativo à grelha comunitária de classificação de carcaças de ovinos e a qualidade-tipo comunitária de carcaças de ovino frescas ou refrigeradas e que prorroga o Regulamento (CEE) nº 338/91](http://publications.europa.eu/resource/celex/31992R2137) (JO L 214, 30.7.1992, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1234/2007 Do Conselho de 22 de Outubro de 2007](http://publications.europa.eu/resource/celex/32007R1234) — L 299 — 1 — 16.11.2007"
+  }
+ }
+}

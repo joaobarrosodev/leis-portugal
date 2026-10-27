@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:228620:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1986-869605594",
+ "dre_path": "/dr/detalhe/portaria/333-1986-228620",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1986-07-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "868814449"
+   ]
+  }
+ ],
+ "fragments": {
+  "868814449": {
+   "fragment_id": "869605595",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 333/86\n\nde 2 de Julho\n\nConsiderando que importa estabelecer as normas adequadas à leccionação, no ensino primário, da disciplina de Religião e Moral Católicas;\n\nConsiderando haver necessidade de dar cumprimento ao estabelecido no n.º 3 do artigo 5.º do Decreto-Lei n.º 323/83, de 5 de Julho:\n\nNos termos da alínea c) do artigo 202.º da Constituição, manda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura, o seguinte:\n\n> Nota: [Artigo 12.º, Decreto-Lei n.º 70/2013 - Diário da República n.º 99/2013, Série I de 2013-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2013-261111) O presente diploma mantém-se em vigor em tudo o que não contrariar as disposições do Decreto-Lei n.º 70/2013, de 23 de maio."
+  }
+ }
+}

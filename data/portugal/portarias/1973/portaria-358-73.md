@@ -1,0 +1,252 @@
+---
+schema_version: '1.0'
+id: pt:dre:422451:por
+title: Portaria n.º 358/73
+short_title: null
+summary: Publica o regulamento da carteira profissional e o respectivo modelo, respeitante ao pessoal da informação turística
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Corporações e Previdência Social
+proposing_entity: null
+official_number: 358/73
+official_date: null
+publication_date: '1973-05-22'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 120/1973, Série I de 1973-05-22
+  number: '120'
+  series: I
+  supplement: null
+  pages: 868 - 872
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/05/12000/08680872.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '422451'
+  dre_path: /dr/detalhe/portaria/358-1973-422451
+  internal: pt:dre:422451:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/358-1973-422451
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/358-1973-422451
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:04:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7ee39dd45d235a0b9619ab405d490895d4a672cfff0b2a32e7239cbd7becd31b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:04:48Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carreira Profissional
+- Carteira Profissional
+- Informação Turística
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:508797:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:445948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684859:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:508797:por
+  label: "Revogada pela PORT.26-J2/80.09.01.1980.MCT, DR.IS [7]7ºSupl de 09.01.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/26-j2-1980-508797
+  date: '1980-01-09'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:04:48Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 358/73
+
+de 22 de Maio
+
+Constituindo a posse da carteira profissional condição necessária para o exercício das actividades de informação turística.
+
+Achando-se a concessão da referida carteira profissional regulamentada por diploma legal já anteriormente aprovado, torna-se mister proceder à publicação do respectivo regulamento.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Trabalho e Previdência, publicar o regulamento da carteira profissional e o respectivo modelo respeitante ao pessoal da informação turística, previstos no artigo 9.º do [Decreto-Lei n.º 16/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1971-445948), de 26 de Janeiro, e aprovados pela [Portaria n.º 86/73](https://diariodarepublica.pt/dr/detalhe/portaria/86-1973-684859), de 9 de Fevereiro.
+
+Ministério das Corporações e Previdência Social, 24 de Abril de 1973. - O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto.
+
+I
+
+Da carteira profissional
+
+Artigo 1.º - 1. A carteira profissional exigida para o exercício das actividades próprias do pessoal de informação turística, nos termos do [Decreto-Lei n.º 16/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1971-445948), de 26 de Janeiro, e [Decreto n.º 271/71](https://diariodarepublica.pt/dr/detalhe/decreto/271-1971-643348), de 19 de Junho, será passada pelo Sindicato Nacional dos Guias e Intérpretes aos indivíduos que a requeiram e satisfaçam aos requisitos exigidos naqueles diplomas.
+
+2. A circunstância de a carteira profissional ser passada pelo Sindicato não implica a obrigatoriedade de inscrição do seu titular no mesmo organismo.
+
+Art. 2.º - 1. A carteira profissional obedecerá ao modelo anexo à presente portaria.
+
+2. A data e o número de ordem de emissão das carteiras profissionais são atribuídos pela Direcção-Geral do Trabalho e Corporações.
+
+3. As carteiras profissionais deverão ser assinadas pelos seus titulares e pelo presidente da direcção do Sindicato e só serão válidas depois de visadas pelos serviços competentes da Direcção-Geral do Trabalho e Corporações.
+
+4. Os vistos das carteiras profissionais dependem de apresentação dos respectivos processos, organizados no Sindicato e devidamente relacionados.
+
+5. As relações mencionadas no número anterior serão de modelo único aprovado pela Direcção-Geral do Trabalho e Corporações.
+
+Art. 3.º - 1. A passagem da carteira profissional será requerida ao presidente da direcção do Sindicato, devendo o pedido ser instruído com os elementos a seguir indicados e os que são exigidos especificamente para cada uma das diversas profissões:
+
+a) Bilhete de identidade;
+
+b) Certificado de registo criminal;
+
+c) Declaração, sob compromisso de honra, de que o requerente não é proprietário, administrador, gerente ou director de agências de viagens, estabelecimentos hoteleiros e similares ou outras organizações de carácter turístico;
+
+d) Duas fotografias iguais e recentes do tipo do bilhete de identidade;
+
+e) Importância referida no artigo 13.º
+
+2. No caso de dúvida acerca da nacionalidade do requerente, deverá ser exigido certificado de nacionalidade portuguesa ou de registo do estatuto geral de igualdade de direitos e deveres com os nacionais portugueses, se o requerente for brasileiro.
+
+Art. 4.º Os requerimentos para a passagem de carteiras de transferistas deverão ainda ser acompanhados de fotocópia autenticada do diploma do respectivo curso de formação ou, em alternativa, dos certificados de habilitações literárias, não inferiores ao 2.º ciclo liceal, e de aprovação no exame de línguas realizado no Centro Nacional de Formação Turística e Hoteleira e, bem assim, de documento passado pela entidade patronal em que se declare a aptidão do requerente para a profissão.
+
+Art. 5.º Os requerimentos para a passagem de carteiras profissionais de guias regionais, guias-intérpretes, correios de turismo e guias de arte deverão ser acompanhados de fotocópia autenticada do diploma do respectivo curso de formação.
+
+Art. 6.º - 1. As carteiras profissionais serão anualmente revalidadas pelo Sindicato, no decurso do mês de Fevereiro.
+
+2. As revalidações das carteiras profissionais serão requeridas pelos respectivos titulares em impresso próprio.
+
+3. A falta de revalidação da carteiras, por causa imputável aos seus titulares, terá como consequência a impossibilidade de os mesmos continuarem a exercer a profissão.
+
+Art. 7.º - 1. Serão obrigatoriamente averbadas nas carteiras pelo Sindicato as profissões atribuídas e os diplomas de cursos obtidos posteriormente à sua passagem, bem como a designação das entidades exploradoras dos estabelecimentos em que os titulares exerçam a actividade, se for caso disso.
+
+2. A Direcção-Geral do Trabalho e Corporações pode estabelecer a obrigatoriedade de os averbamentos a que se refere o número anterior serem visados pelos respectivos serviços.
+
+Art. 8.º No caso de deterioração ou extravio da carteira profissional, o Sindicato passará ao interessado, mediante requerimento, no prazo de trinta dias, 2.ª via da mesma, entregando nas vinte e quatro horas subsequentes documento provisório que, para todos os efeitos, substituirá a carteira profissional.
+
+Art. 9.º - 1. Haverá recurso, a todo o tempo, para o Ministro das Corporações e Previdência Social da denegação da passagem da carteira profissional.
+
+2. O Ministro das Corporações e Previdência Social ouvirá o Secretário de Estado da Informação e Turismo, bem como a direcção do Sindicato, que se pronunciarão no prazo de quinze dias.
+
+3. A decisão será proferida no prazo de noventa dias a contar da data da interposição do recurso.
+
+Art. 10.º - 1. Haverá recurso, a todo o tempo, para o Ministro das Corporações e Previdência Social de qualquer outra decisão do Sindicato respeitante à carteira profissional considerada injustificada pelo interessado.
+
+2. O Ministro das Corporações e Previdência Social ouvirá a direcção do Sindicato, que se pronunciará no prazo de quinze dias.
+
+3. A decisão será proferida no prazo de sessenta dias a contar da data da interposição do recurso.
+
+Art. 11.º - 1. Quando os recursos obtiverem provimento, a direcção do Sindicato deverá entregar a carteira profissional ou revogará a sua decisão, no prazo de oito dias a contar da data do recebimento da notificação do despacho respectivo.
+
+2. Se a direcção do Sindicato não proceder conforme se determina no número anterior, a Direcção-Geral do Trabalho e Corporações poderá emitir, a favor do indivíduo em causa, uma autorização provisória para o exercício da profissão, que substituirá, para todos os efeitos, a carteira profissional, sendo aplicadas à direcção do Sindicato as sanções previstas na lei.
+
+Art. 12.º - 1. A Direcção-Geral do Trabalho e Corporações comunicará à Direcção-Geral do Turismo o teor da decisão proferida nos recursos interpostos nos termos dos artigos 9.º e 10.º
+
+2. O Sindicato enviará à Direcção-Geral do Turismo no decurso do mês de Abril de cada ano a relação das carteiras concedidas ou revalidadas, contendo os nomes dos seus titulares, números, datas de emissão e profissões atribuídas.
+
+Art. 13.º - 1. O Sindicato cobrará as seguintes importâncias, que constituem receita própria:
+
+a) Pela passagem de 1.ª via da carteira profissional ... 200$00
+
+b) Pela passagem de 2.ª ou outra via de carteira profissional ... 250$00
+
+c) Pela revalidação da carteira profissional:
+
+1 - Durante o prazo estabelecido no artigo 6.º ... 30$00
+
+2 - Fora do prazo referido no número anterior ... 50$00
+
+2. Os impressos dos requerimentos referidos neste regulamento serão fornecidos gratuitamente pelo Sindicato.
+
+Art. 14.º As carteiras profissionais cujos titulares tenham deixado de exercer a actividade definitivamente deverão ser entregues no Sindicato a fim de serem inutilizadas com a carimbo Anulada, em tipo destacado, aposto em todas as suas páginas, após o que poderão ser devolvidas aos interessados, a seu pedido.
+
+Art. 15.º As carteiras profissionais sem validade e, bem assim, as que não foram entregues nos termos do artigo anterior serão apreendidas pela Inpecção do Trabalho, por sua iniciativa ou a pedido dos serviços da Direcção-Geral do Trabalho e Corporações, e enviadas ao Sindicato para efeito de revalidação ou anulação, conforme os casos.
+
+II
+
+Disposições gerais e transitórias
+
+Art. 16.º - 1. Para efeitos de requerer a passagem da respectiva carteira profissional o disposto nos artigos 4.º e 5.º não é aplicável:
+
+a) Aos indivíduos que à data da entrada em vigor desta portaria exerçam a actividade de transferista há mais de dois anos;
+
+b) Aos guias-intérpretes detentores, segundo a legislação anterior ao [Decreto-Lei n.º 16/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1971-445948), de 26 de Janeiro, de título bastante para o exercício da actividade;
+
+c) Aos indivíduos aprovados em exames para guias-intérpretes realizados nos serviços de turismo, ainda que não possuam título bastante para o exercício da profissão;
+
+d) Aos guias-intérpretes que requeiram a carteira profissional de correio de turismo, que já exerçam esta actividade há mais de dois anos à data da entrada em vigor desta portaria;
+
+e) Aos indivíduos inscritos como correio de turismo do Sindicato que exerçam a actividade correspondente há mais de dois anos, contados nos termos da alínea anterior.
+
+Art. 17.º Os indivíduos que se encontrem ao abrigo da alínea a) do artigo anterior deverão apresentar além dos elementos referidos no artigo 3.º os seguintes documentos:
+
+a) Declaração, passada pelas empresas onde prestam ou prestaram serviço, comprovativa do exercício da actividade por um período superior a dois anos;
+
+b) Certificado de habilitações literárias;
+
+c) Certificado de aprovação no exame de língua francesa ou inglesa realizado no Centro Nacional de Formação Turística e Hoteleira.
+
+Art. 18.º Os indivíduos que se encontrem ao abrigo da alínea b) do artigo 16.º deverão fazer acompanhar o seu requerimento de passagem de carteira dos documentos que integram o título bastante para o exercício da actividade nos termos da legislação anterior ao [Decreto-Lei n.º 16/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1971-445948), de 26 de Janeiro.
+
+Art. 19.º Os indivíduos que se encontrem ao abrigo da alínea c) do artigo 16.º deverão fazer acompanhar o seu requerimento de passagem de carteira profissional dos elementos referidos no artigo 3.º e de documento comprovativo de aprovação em exame para guias-intérpretes realizado pelos serviços de turismo, ao abrigo da legislação anterior ao [Decreto-Lei n.º 16/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1971-445948), de 26 de Janeiro.
+
+Art. 20.º Os indivíduos que se encontrem ao abrigo das alíneas d) e e) do artigo 16.º deverão fazer acompanhar o seu requerimento de passagem de carteira profissional de documentos comprovativos do exercício da actividade de correio de turismo há mais de dois anos, além dos elementos referidos no artigo 3.º do presente regulamento.
+
+Art. 21.º Os profissionais e demais indivíduos a que se refere o artigo 16.º devem requerer a passagem das respectivas carteiras no prazo de seis meses a contar da data da publicação do presente regulamento.
+
+Art. 22.º O exercício de actividades de informação turística pelos indivíduos que se encontrem ao abrigo do artigo 16.º, passado o prazo referido no artigo anterior, é considerado exercício de profissão sem título bastante, sujeito às sanções estabelecidas nos artigos 38.º e 39.º do Decreto-Lei n.º 271/71, de 19 de Junho.
+
+Art. 23.º - 1. Os casos omissos neste regulamento e as dúvidas suscitadas na sua interpretação serão resolvidos por despacho do Ministro das Corporações e Previdência Social, ouvidos o Secretário de Estado da Informação e Turismo e a direcção do Sindicato.
+
+2. O despacho mencionado no número anterior será publicado no Boletim do Instituto Nacional do Trabalho e Previdência.
+
+Art. 24.º Este regulamento entra em vigor imediatamente após a sua publicação.
+
+O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/05/12000/08680872.pdf)
+
+O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto.

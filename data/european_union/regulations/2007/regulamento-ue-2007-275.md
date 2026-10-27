@@ -1,0 +1,236 @@
+---
+schema_version: '1.0'
+id: eu:celex:32007R0275:por
+title: Regulamento (CE) n. o 275/2007 da Comissão, de 15 de Março de 2007
+short_title: null
+summary: Regulamento (CE) n. o 275/2007 da Comissão, de 15 de Março de 2007 , que altera o Regulamento (CE) n. o 1825/2000
+  que estabelece as normas de execução do Regulamento (CE) n. o 1760/2000 do Parlamento Europeu e do Conselho no que respeita
+  à rotulagem da carne de bovino e dos produtos à base de carne de bovino
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 2007/275
+official_date: null
+publication_date: '2008-12-05'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 327 de 5.12.2008
+  number: '327'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/2e4ed466-130e-4227-aa42-bce88b34a1a8.0017.01/DOC_1
+entry_into_force_dates:
+- '2007-03-23'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32007R0275
+  eli: http://data.europa.eu/eli/reg/2007/275/oj
+  oj: oj:JOL_2007_076_R_0012_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32007R0275:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32007R0275
+  metadata_url: http://publications.europa.eu/resource/cellar/2e4ed466-130e-4227-aa42-bce88b34a1a8.0017
+  content_url: http://publications.europa.eu/resource/cellar/2e4ed466-130e-4227-aa42-bce88b34a1a8.0017.02/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-26T12:05:43Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-12-04T06:30:19.022+01:00'
+integrity:
+  source_sha256: 5288ef47731a56d1433631e5d807284d8eacea319ae7d73e5c24701f7db7063e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T12:05:43Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- base de dados
+- carne de vaca
+- classificação
+- inspeção sanitária
+- norma alimentar
+- produto à base de carne
+- rastreabilidade
+- rotulagem
+relationships:
+- type: amends
+  target: celex:32000R1825
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c260aaff-d94d-4cab-8da8-5e640a11bc3d
+  date: '2010-03-08'
+- type: based_on
+  target: celex:32000R1760
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c0b254d3-1a9a-46ac-af2b-4243ea07d5ec
+  date: '2000-08-16'
+- type: cites
+  target: celex:31987R2658
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c5a368fa-fd18-4efb-ae18-e4ac4e83055c
+- type: corrected_by
+  target: celex:32007R0275R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/af007a63-8e45-4474-b437-b4b0d93fba73
+  date: '2007-07-10'
+- type: corrected_by
+  target: celex:32007R0275R(02)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7fc56499-a83b-4238-b772-004a70aa9d0d
+  date: '2007-09-19'
+- type: corrected_by
+  target: celex:32007R0275R(03)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6c9e9a0e-71c1-4166-9c7a-7b14001e120d
+  date: '2009-03-17'
+- type: corrected_by
+  target: celex:32007R0275R(04)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/15093512-820e-11eb-9ac9-01aa75ed71a1
+  date: '2021-03-11'
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T12:05:43Z'
+  warnings:
+  - Versão consolidada 02007R0275-20070323 indisponível (Sem expressão na língua por para CELEX 02007R0275-20070323.); usado
+    o texto do JO.
+  errors: []
+---
+
+# REGULAMENTO (CE) N.º 275/2007 DA COMISSÃO
+
+de 15 de Março de 2007
+
+que altera o Regulamento (CE) n.º 1825/2000 que estabelece as normas de execução do Regulamento (CE) n.º 1760/2000 do Parlamento Europeu e do Conselho no que respeita à rotulagem da carne de bovino e dos produtos à base de carne de bovino
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia,
+
+Tendo em conta o Regulamento (CE) n.º 1760/2000 do Parlamento Europeu e do Conselho, de 17 de Julho de 2000, que estabelece um regime de identificação e registo de bovinos e relativo à rotulagem da carne de bovino e dos produtos à base de carne de bovino, e que revoga o Regulamento (CE) n.º 820/97 do Conselho [([^1])](http://publications.europa.eu/resource/cellar/2e4ed466-130e-4227-aa42-bce88b34a1a8.0017.02/DOC_1#ntr1-L_2007076PT.01001201-E0001), nomeadamente o quarto parágrafo do artigo 14.º e as alíneas a) e b) do artigo 19.º,
+
+Considerando o seguinte:
+
+(1) A definição dos grupos mencionados no artigo 13.º do Regulamento (CE) n.º 1760/2000 e a questão da sua homogeneidade foram objecto de interpretações divergentes. Convém, por conseguinte, precisar no Regulamento (CE) n.º 1825/2000 da Comissão [([^2])](http://publications.europa.eu/resource/cellar/2e4ed466-130e-4227-aa42-bce88b34a1a8.0017.02/DOC_1#ntr2-L_2007076PT.01001201-E0002) a forma como estes grupos devem ser constituídos.
+
+(2) A questão da rotulagem da carne de bovino picada, nos casos em que é misturada com carnes de outras espécies, foi objecto de numerosas interrogações. O título I, primeira parte, do anexo I do Regulamento (CEE) n.º 2658/87 do Conselho, de 23 de Julho de 1987, relativo à Nomenclatura Pautal e Estatística e à Pauta Aduaneira Comum [([^3])](http://publications.europa.eu/resource/cellar/2e4ed466-130e-4227-aa42-bce88b34a1a8.0017.02/DOC_1#ntr3-L_2007076PT.01001201-E0003) estabelece normas precisas de classificação dos produtos constituídos por este tipo de misturas. Neste âmbito, a remissão para aquela nomenclatura, através dos códigos NC indicados no artigo 12.º do Regulamento (CE) n.º 1760/2000, permite proporcionar a clarificação necessária.
+
+(3) Devido às limitações quanto à homogeneidade dos grupos resultantes da aplicação do artigo 13.º do Regulamento (CE) n.º 1760/2000, os operadores que produzem carne cortada e aparas encontram dificuldades na constituição de grupos homogéneos com uma dimensão suficiente para satisfazer as exigências dos clientes. Estas dificuldades são ainda maiores quando são pedidas grandes quantidades. A experiência mostra que, devido às dificuldades referidas e às manipulações suplementares importantes que estas geram, são cometidos numerosos erros e a rastreabilidade para este tipo de produção é frequentemente posta em risco.
+
+(4) Quando é possível, estes operadores tendem cada vez mais a seleccionar apenas alguns fornecedores de grandes dimensões, a fim de escapar às limitações suplementares resultantes da gestão de vários grupos com características diferentes. A prazo, esta situação pode representar um risco para a manutenção em actividade de certos estabelecimentos de abate e corte de pequena e média dimensão, que podem, consequentemente, ser excluídos de certos circuitos comerciais.
+
+(5) Na realidade, os problemas encontrados pelos operadores que produzem carne cortada e aparas são da mesma natureza que os encontrados pelos operadores que produzem carne picada. A adopção, relativamente às aparas, de medidas semelhantes às previstas para a carne picada, permitiria resolver as dificuldades enfrentadas por estes operadores. No que respeita à carne cortada, a experiência revela que a introdução da possibilidade de reconstituir grupos a partir de carne proveniente de animais abatidos em três matadouros e de carcaças cortadas em três instalações de corte, salvaguardando simultaneamente a rastreabilidade, seria suficiente para solucionar a grande maioria dos problemas detectados.
+
+(6) A experiência revela igualmente que nos pontos de venda ao consumidor final de carne cortada não pré-embalada, os operadores experimentam frequentemente dificuldades na aplicação das disposições do Regulamento (CE) n.º 1760/2000 respeitantes à rotulagem. O corte e a venda são geralmente realizados nesses locais a pedido do cliente, tornando difícil, ou mesmo impossível, a constituição prévia de grupos de animais, na acepção do n.º 1 do artigo 13.º do Regulamento (CE) n.º 1760/2000. Além disso, parece muito difícil proceder a uma actualização em tempo real das informações de inclusão obrigatória na rotulagem em função da reposição contínua dos produtos expostos para venda. Por conseguinte, afigura-se necessário adoptar igualmente para esta carne disposições simplificadas de rotulagem. A adopção, para esta carne, de disposições similares às existentes para a carne picada permitiria resolver a maioria dos problemas enfrentados por estes operadores.
+
+(7) Paralelamente, convém assegurar que nos pontos de venda ao consumidor final se possa dispor sempre das informações relativas aos estabelecimentos de abate dos animais e desmancha das carcaças, no caso da carne cortada não pré-embalada exposta diariamente para venda, de maneira a poder comunicar estas informações oralmente ao consumidor, sempre que este as solicitar. Desta forma, seria possível manter uma rastreabilidade pelo menos equivalente à prevista para a carne picada.
+
+(8) Além disso, embora mantendo simultaneamente as exigências de rastreabilidade e registo das informações relativas às carnes expostas para venda nos pontos de venda ao consumidor final, convém permitir que o corte destas carnes possa ser efectuado em dias diferentes.
+
+(9) O Regulamento (CE) n.º 1825/2000 deve, por conseguinte, ser alterado em conformidade.
+
+(10) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão da Carne de Bovino,
+
+ADOPTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º
+
+O Regulamento (CE) n.º 1825/2000 é alterado do seguinte modo:
+
+1) A seguir ao artigo 1.º é aditado um novo artigo com a seguinte redacção: «Artigo 1.º-A Definições Para efeitos do disposto no presente regulamento, entende-se por: a) “Carne picada”: a carne reduzida a fragmentos ou passada através de uma picadora de sem-fim, de um dos códigos NC referidos no artigo 12.º do Regulamento (CE) n.º 1760/2000, que contenha menos de 1 % de sal; b) “Aparas”: os pedaços de carne de pequenas dimensões, considerados próprios para consumo humano, resultantes exclusivamente de uma operação de apara e obtidos aquando da desossagem das carcaças e/ou do corte das carnes; c) “Carne cortada”: a carne cortada em pequenos cubos, fatias ou outras porções individuais, que não necessite de operações posteriores de corte por um operador, antes da sua aquisição pelo consumidor final, e que seja directamente utilizável por este último. São excluídas da presente definição a carne picada e as aparas; d) “Carne cortada pré-embalada”: a unidade de venda destinada a ser apresentada como tal ao consumidor final ou a um estabelecimento que tenha como actividade exclusiva o comércio de retalho, constituída pela carne cortada e pela embalagem em que foi acondicionada, antes de ser apresentada para venda, quer a embalagem a cubra na totalidade ou parcialmente, mas de tal modo que o conteúdo não possa ser alterado sem que a embalagem seja aberta ou alterada; e) “Carne cortada não pré-embalada”: a carne cortada exposta para venda, não pré-embalada, num ponto de venda ao consumidor final, bem como qualquer pedaço de carne exposto para venda não pré-embalado num ponto de venda ao consumidor final, com vista ao seu corte a pedido do consumidor final; f) “Lote”: o conjunto de carnes com ou sem ossos, por exemplo, carcaças ou quartos ou pedaços de carne sem ossos, cortadas, picadas ou acondicionadas conjuntamente e em circunstâncias praticamente idênticas; g) “Comércio a retalho”: a manipulação e/ou a transformação de carnes e a respectiva armazenagem nos pontos de venda ou de entrega ao consumidor final, incluindo fornecedores de alimentos preparados, cantinas de empresas, restauração em instituições, restaurantes e outros prestadores de serviços de restauração similares, estabelecimentos comerciais, centros de distribuição a supermercados e grossistas; h) “Consumidor final”: o último consumidor de uma carne cortada que não utilize a mesma no âmbito de uma operação ou actividade de uma empresa do sector alimentar.».
+
+a) “Carne picada”: a carne reduzida a fragmentos ou passada através de uma picadora de sem-fim, de um dos códigos NC referidos no artigo 12.º do Regulamento (CE) n.º 1760/2000, que contenha menos de 1 % de sal;
+
+b) “Aparas”: os pedaços de carne de pequenas dimensões, considerados próprios para consumo humano, resultantes exclusivamente de uma operação de apara e obtidos aquando da desossagem das carcaças e/ou do corte das carnes;
+
+c) “Carne cortada”: a carne cortada em pequenos cubos, fatias ou outras porções individuais, que não necessite de operações posteriores de corte por um operador, antes da sua aquisição pelo consumidor final, e que seja directamente utilizável por este último. São excluídas da presente definição a carne picada e as aparas;
+
+d) “Carne cortada pré-embalada”: a unidade de venda destinada a ser apresentada como tal ao consumidor final ou a um estabelecimento que tenha como actividade exclusiva o comércio de retalho, constituída pela carne cortada e pela embalagem em que foi acondicionada, antes de ser apresentada para venda, quer a embalagem a cubra na totalidade ou parcialmente, mas de tal modo que o conteúdo não possa ser alterado sem que a embalagem seja aberta ou alterada;
+
+e) “Carne cortada não pré-embalada”: a carne cortada exposta para venda, não pré-embalada, num ponto de venda ao consumidor final, bem como qualquer pedaço de carne exposto para venda não pré-embalado num ponto de venda ao consumidor final, com vista ao seu corte a pedido do consumidor final;
+
+f) “Lote”: o conjunto de carnes com ou sem ossos, por exemplo, carcaças ou quartos ou pedaços de carne sem ossos, cortadas, picadas ou acondicionadas conjuntamente e em circunstâncias praticamente idênticas;
+
+g) “Comércio a retalho”: a manipulação e/ou a transformação de carnes e a respectiva armazenagem nos pontos de venda ou de entrega ao consumidor final, incluindo fornecedores de alimentos preparados, cantinas de empresas, restauração em instituições, restaurantes e outros prestadores de serviços de restauração similares, estabelecimentos comerciais, centros de distribuição a supermercados e grossistas;
+
+h) “Consumidor final”: o último consumidor de uma carne cortada que não utilize a mesma no âmbito de uma operação ou actividade de uma empresa do sector alimentar.».
+
+2) O artigo 4.º passa a ter a seguinte redacção: «Artigo 4.º Dimensão e composição de um grupo 1. A dimensão do grupo referido no n.º 1, segundo parágrafo, do artigo 13.º do Regulamento (CE) n.º 1760/2000, é definida: a) Durante o corte das carcaças ou dos quartos, pelo número de carcaças ou quartos que constituam um lote para a instalação de corte em causa; b) Durante as operações posteriores de corte ou picagem da carne, pelo número de carcaças ou de quartos cujas carnes que constituam um lote para a instalação de corte ou de picagem em causa. A dimensão do grupo não pode, em caso algum, exceder a produção de um dia. 2. Aquando da constituição dos lotes referidos no n.º 1, os operadores devem assegurar-se de que: a) Durante as operações de corte das carcaças ou dos quartos, todas as carcaças ou quartos do lote provêm de animais nascidos no mesmo país, criados no(s) mesmo(s) país(es), abatidos no mesmo país e no mesmo matadouro; b) Durante as operações posteriores de corte das carnes, a condição enunciada na alínea a) é respeitada relativamente a todas as carcaças donde provenham as carnes do lote e que todas as carcaças foram cortadas na mesma instalação de corte; c) Durante as operações de picagem, as carnes do lote provêm de animais abatidos no mesmo país. 3. Em derrogação à regra da unicidade de matadouro e de instalação de corte das carcaças, referida na alínea b) do n.º 2, aquando da produção de carne cortada, os operadores são autorizados a constituir lotes a partir de carnes provenientes de animais abatidos em três matadouros diferentes, no máximo, e de carcaças cortadas em três instalações de corte diferentes, no máximo. 4. Em derrogação ao disposto na alínea b) do n.º 2, aquando da produção de aparas, os operadores apenas estão obrigados a respeitar a regra da unicidade de país de abate aquando da constituição dos lotes.».
+
+a) Durante o corte das carcaças ou dos quartos, pelo número de carcaças ou quartos que constituam um lote para a instalação de corte em causa;
+
+b) Durante as operações posteriores de corte ou picagem da carne, pelo número de carcaças ou de quartos cujas carnes que constituam um lote para a instalação de corte ou de picagem em causa.
+
+a) Durante as operações de corte das carcaças ou dos quartos, todas as carcaças ou quartos do lote provêm de animais nascidos no mesmo país, criados no(s) mesmo(s) país(es), abatidos no mesmo país e no mesmo matadouro;
+
+b) Durante as operações posteriores de corte das carnes, a condição enunciada na alínea a) é respeitada relativamente a todas as carcaças donde provenham as carnes do lote e que todas as carcaças foram cortadas na mesma instalação de corte;
+
+c) Durante as operações de picagem, as carnes do lote provêm de animais abatidos no mesmo país.
+
+3) No artigo 5.º, é suprimido o n.º 1.
+
+4) A seguir ao artigo 5.º, são aditados os seguintes artigos: «Artigo 5.º-A Aparas 1. Em derrogação ao n.º 2, alíneas b) e c), e do n.º 5, subalíneas i) e ii) da alínea a), do artigo 13.º do Regulamento (CE) n.º 1760/2000, os operadores e as organizações devem incluir no rótulo das aparas as menções seguintes: a) País de abate dos animais dos quais provêm as aparas; a menção deve figurar do seguinte modo: “Local de abate: (Estado-Membro ou país terceiro de abate)”; b) País de produção das aparas e número de aprovação do estabelecimento em que foram obtidas; a menção deve figurar do seguinte modo: “Local de produção: (Estado-Membro ou país terceiro de produção e número de aprovação do estabelecimento)”; c) Países de nascimento e criação dos animais do grupo; a menção deve figurar do seguinte modo: “País de nascimento e de criação: (lista dos países de nascimento e criação)”. 2. Em derrogação ao n.º 1, alíneas a) e c), quando o país de nascimento, o país de criação e o país de abate for o mesmo para todos os animais do grupo, os operadores são autorizados a utilizar a menção “Origem” seguida da indicação do Estado-Membro ou do país terceiro em que o nascimento, a criação e o abate ocorreram. Artigo 5.º-B Carne cortada pré-embalada Em derrogação ao n.º 2, alíneas b) e c), do artigo 13.º do Regulamento (CE) n.º 1760/2000, os operadores e as organizações que utilizem a possibilidade prevista no n.º 3 do artigo 4.º do presente regulamento devem incluir no rótulo da carne cortada pré-embalada as menções seguintes, que completam as menções referidas no n.º 5, alínea a), do artigo 13.º do Regulamento (CE) n.º 1760/2000: a) País de abate dos animais, seguido do número de aprovação do matadouro ou, se for caso disso, dos dois ou três matadouros em que os animais do grupo foram abatidos; a menção deve figurar do seguinte modo: “Local (x) de abate dos animais do grupo: (Estado-Membro ou país terceiro de abate) [número(s) de aprovação do matadouro ou dos dois ou três matadouros em causa]”; b) País de corte das carcaças, seguido do número de aprovação da instalação ou, se for caso disso, das duas ou três instalações em que as carcaças foram cortadas; a menção deve figurar do seguinte modo: “Local (x) de corte das carnes do lote: (Estado-Membro ou país terceiro das operações de corte) [número(s) de aprovação da instalação ou das duas ou três instalações de corte em causa]”. Artigo 5.º-C Carne cortada não pré-embalada 1. Aquando da exposição para venda de carne cortada não pré-embalada num ponto de venda ao consumidor final, os operadores e as organizações devem assegurar-se, nos casos de aplicação da derrogação prevista no n.º 3 do artigo 4.º, de que a constituição dos lotes é conforme ao disposto no referido número, relativamente a toda a carne cortada não pré-embalada exposta simultaneamente para venda. 2. Em derrogação ao n.º 2, alíneas b) e c), do artigo 13.º do Regulamento (CE) n.º 1760/2000, num ponto de venda ao consumidor final, os operadores e as organizações devem rotular a carne cortada não pré-embalada exposta para venda, indicando os países de nascimento, criação e abate dos animais de onde provém a carne, seguidos dos países de corte das carcaças. As carnes provenientes de animais cujos países de nascimento e/ou criação e/ou abate sejam diferentes devem ser claramente separadas umas das outras aquando da sua exposição para venda. A informação exposta no ponto de venda deve ser colocada junto destas carnes, de maneira a permitir ao consumidor final distinguir facilmente entre as carnes de diferentes origens. O operador deve registar os números de aprovação dos estabelecimentos de abate dos animais e de corte das carcaças para a carne cortada não pré-embalada exposta conjuntamente para venda, diariamente, tomando por referência a data do dia. O operador deve comunicar estas informações ao consumidor sempre que este as solicitar. 3. Em derrogação ao n.º 1, segundo parágrafo, do artigo 4.º, e desde que as condições definidas no n.º 2 do presente artigo sejam respeitadas, relativamente à carne de bovino cortada exposta para venda ao consumidor final não pré-embalada, a dimensão do grupo pode exceder a produção de um dia.».
+
+a) País de abate dos animais dos quais provêm as aparas; a menção deve figurar do seguinte modo: “Local de abate: (Estado-Membro ou país terceiro de abate)”;
+
+b) País de produção das aparas e número de aprovação do estabelecimento em que foram obtidas; a menção deve figurar do seguinte modo: “Local de produção: (Estado-Membro ou país terceiro de produção e número de aprovação do estabelecimento)”;
+
+c) Países de nascimento e criação dos animais do grupo; a menção deve figurar do seguinte modo: “País de nascimento e de criação: (lista dos países de nascimento e criação)”.
+
+a) País de abate dos animais, seguido do número de aprovação do matadouro ou, se for caso disso, dos dois ou três matadouros em que os animais do grupo foram abatidos; a menção deve figurar do seguinte modo: “Local (x) de abate dos animais do grupo: (Estado-Membro ou país terceiro de abate) [número(s) de aprovação do matadouro ou dos dois ou três matadouros em causa]”;
+
+b) País de corte das carcaças, seguido do número de aprovação da instalação ou, se for caso disso, das duas ou três instalações em que as carcaças foram cortadas; a menção deve figurar do seguinte modo: “Local (x) de corte das carnes do lote: (Estado-Membro ou país terceiro das operações de corte) [número(s) de aprovação da instalação ou das duas ou três instalações de corte em causa]”.
+
+###### Artigo 2.º
+
+O presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 15 de Março de 2007.
+
+***Pela Comissão***
+
+**Mariann FISCHER BOEL**
+
+***Membro da Comissão***
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/2e4ed466-130e-4227-aa42-bce88b34a1a8.0017.02/DOC_1#ntc1-L_2007076PT.01001201-E0001) [JO L 204 de 11.8.2000, p. 1](http://publications.europa.eu/resource/oj/JOL_2000_204_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1791/2006 do Conselho ([JO L 363 de 20.12.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_363_R_TOC)).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/2e4ed466-130e-4227-aa42-bce88b34a1a8.0017.02/DOC_1#ntc2-L_2007076PT.01001201-E0002) [JO L 216 de 26.8.2000, p. 8](http://publications.europa.eu/resource/oj/JOL_2000_216_R_TOC).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/2e4ed466-130e-4227-aa42-bce88b34a1a8.0017.02/DOC_1#ntc3-L_2007076PT.01001201-E0003) [JO L 256 de 7.9.1987, p. 1](http://publications.europa.eu/resource/oj/JOL_1987_256_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 129/2007 ([JO L 56 de 23.2.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_056_R_TOC)).

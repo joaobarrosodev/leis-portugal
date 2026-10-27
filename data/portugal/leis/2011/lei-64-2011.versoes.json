@@ -1,0 +1,1071 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:145045:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2011-34582475",
+ "dre_path": "/dr/detalhe/lei/64-2011-145045",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-12-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "53148575",
+    "53148675",
+    "53148775",
+    "53148875",
+    "53148975",
+    "53149075",
+    "53149175",
+    "53149275",
+    "53149375",
+    "53149475",
+    "53149575",
+    "53149675",
+    "53149775",
+    "53149875",
+    "53149975",
+    "53150075",
+    "53150175",
+    "53150275",
+    "53150375",
+    "53150475",
+    "53150575",
+    "53150675",
+    "53150775",
+    "53150875",
+    "53150975",
+    "53151075",
+    "53151175",
+    "53151275",
+    "53151375",
+    "53151475",
+    "53151575",
+    "53151675",
+    "53151775",
+    "53151875",
+    "53151975",
+    "53152075",
+    "53152175",
+    "53152275",
+    "53152375",
+    "53152475",
+    "53152575",
+    "53152675",
+    "53152775",
+    "53152875",
+    "53152975",
+    "53153075",
+    "53153175",
+    "53153275",
+    "53153375",
+    "53153475",
+    "53153575",
+    "53153675",
+    "53153775",
+    "53153875",
+    "53153975",
+    "53154075",
+    "53154175",
+    "53154275",
+    "53154375",
+    "53154475",
+    "53154575",
+    "53154675",
+    "53154775",
+    "53154875",
+    "53154975",
+    "53155075",
+    "53155175",
+    "53155275",
+    "53155375",
+    "53155475",
+    "53155575",
+    "53155675",
+    "53155775",
+    "53155875",
+    "53155975",
+    "53156075",
+    "53156175",
+    "53156275",
+    "53156375",
+    "53156475",
+    "53156575",
+    "53156675",
+    "53156775",
+    "53156875",
+    "53156975",
+    "53157075",
+    "53157175",
+    "53157275",
+    "53157375",
+    "53157475",
+    "53157575",
+    "53157675",
+    "53157775"
+   ]
+  },
+  {
+   "date": "2015-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70179157:por",
+     "title": "Lei n.º 128/2015",
+     "published": "2015-09-03",
+     "dre_path": "/dr/detalhe/lei/128-2015-70179157"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 11.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "53148575",
+    "53148675",
+    "53148775",
+    "53148875",
+    "53148975",
+    "53149075",
+    "53149175",
+    "53149275",
+    "53149375",
+    "53157875",
+    "53149475",
+    "53149575",
+    "212123870",
+    "53149775",
+    "53149875",
+    "53149975",
+    "53150075",
+    "212123871",
+    "212123872",
+    "53150375",
+    "53150475",
+    "53150575",
+    "53150675",
+    "53150775",
+    "212123873",
+    "212302477",
+    "212302478",
+    "53151075",
+    "212123874",
+    "53151275",
+    "212302475",
+    "53151475",
+    "212302476",
+    "53151675",
+    "53151775",
+    "53151875",
+    "53151975",
+    "53152075",
+    "53152175",
+    "53152275",
+    "53152375",
+    "53152475",
+    "53152575",
+    "53152675",
+    "53152775",
+    "53152875",
+    "53152975",
+    "53153075",
+    "53153175",
+    "53153275",
+    "53153375",
+    "53153475",
+    "53153575",
+    "53153675",
+    "53153775",
+    "53153875",
+    "53153975",
+    "53154075",
+    "53154175",
+    "53154275",
+    "53154375",
+    "53154475",
+    "53154575",
+    "53154675",
+    "53154775",
+    "53154875",
+    "53154975",
+    "53155075",
+    "53155175",
+    "53155275",
+    "53155375",
+    "53155475",
+    "53155575",
+    "53155675",
+    "53155775",
+    "53155875",
+    "53155975",
+    "53156075",
+    "53156175",
+    "53156275",
+    "53156375",
+    "53156475",
+    "53156575",
+    "53156675",
+    "53156775",
+    "53156875",
+    "53156975",
+    "53157075",
+    "53157175",
+    "53157275",
+    "53157375",
+    "53157475",
+    "53157575",
+    "53157675",
+    "53157775"
+   ]
+  }
+ ],
+ "fragments": {
+  "53148575": {
+   "fragment_id": "35202275",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 64/2011\n\nde 22 de Dezembro\n\nModifica os procedimentos de recrutamento, selecção e provimento nos cargos de direcção superior da Administração Pública, procedendo à quarta alteração à Lei n.º 2/2004, de 15 de Janeiro, que aprova o estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado, e à quinta alteração à Lei n.º 4/2004, de 15 de Janeiro, que estabelece os princípios e normas a que deve obedecer a organização da administração directa do Estado.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "53148675": {
+   "fragment_id": "36275475",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei modifica os procedimentos de recrutamento, selecção e provimento nos cargos de direcção superior da Administração Pública, procedendo à quarta alteração à Lei n.º 2/2004, de 15 de Janeiro, alterada pelas Leis n.os 51/2005, de 30 de Agosto, 64-A/2008, de 31 de Dezembro, e 3-B/2010, de 28 de Abril, que aprova o estatuto do pessoal dirigente dos serviços e órgãos da administração central, regional e local do Estado, e à quinta alteração à Lei n.º 4/2004, de 15 de Janeiro, alterada pela Lei n.º 51/2005, de 30 de Agosto, pelos Decretos-Leis n.os 200/2006, de 25 de Outubro, e 105/2007, de 3 de Abril, e pela Lei n.º 64-A/2008, de 31 de Dezembro, que estabelece os princípios e normas a que deve obedecer a organização da administração directa do Estado."
+  },
+  "53148775": {
+   "fragment_id": "36275575",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Lei n.º 2/2004, de 15 de Janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração à Lei n.º 2/2004, de 15 de Janeiro\n\n1 - São alterados os artigos 1.º, 5.º, 7.º, 12.º, 16.º, 17.º, 18.º, 19.º, 19.º-A, 20.º, 21.º, 22.º, 24.º, 25.º, 26.º-A, 27.º, 31.º e 33.º da Lei n.º 2/2004, de 15 de Janeiro, alterada pelas Leis n.os 51/2005, de 30 de Agosto, 64-A/2008, de 31 de Dezembro, e 3-B/2010, de 28 de Abril, que passam a ter a seguinte redacção:\n\n«Artigo 1.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\na) ...\n\nb) Das Forças Armadas, das forças e serviços de segurança e dos órgãos públicos que exercem funções de segurança interna, nos termos definidos pela Lei de Segurança Interna, bem como do Sistema de Informações da República Portuguesa e do serviço que tenha por missão assegurar a gestão do sistema prisional;\n\nc) ...\n\nd) ...\n\ne) Do Ministério dos Negócios Estrangeiros que, por força de disposição legal própria, tenham de ser providos por pessoal da carreira diplomática ou para cujo provimento tenha sido escolhido pessoal da mesma carreira ou que sejam exercidos nos serviços externos;\n\nf) ...\n\nArtigo 5.º\n\n[...]\n\n1 - Os titulares dos cargos dirigentes devem promover uma gestão orientada para resultados, de acordo com os objectivos anuais e plurianuais a atingir, definindo os recursos a utilizar e os programas a desenvolver, aplicando de forma sistemática mecanismos de controlo e avaliação dos resultados.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\nArtigo 7.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\na) Fazer cumprir as obrigações definidas nos termos da lei para o processo de avaliação do mérito dos trabalhadores em funções públicas, garantindo a aplicação uniforme do regime de avaliação no âmbito do respectivo serviço ou órgão;\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\nArtigo 12.º\n\n[...]\n\n1 - O desempenho de funções dirigentes é acompanhado pela realização de formação profissional específica em gestão nos domínios da Administração Pública, diferenciada, se necessário, em função do nível, grau, competências e responsabilidades dos cargos dirigentes.\n\n2 - A formação profissional específica privilegia as seguintes áreas de competências:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) Gestão da mudança.\n\n3 - Os cursos adequados à formação profissional específica a que se refere o presente artigo, qualquer que seja a sua designação e duração, são assegurados, preferencialmente, no âmbito da Administração Pública, pelo serviço ou órgão com atribuições na área da formação profissional, devendo os respectivos regulamentos e condições de acesso ser objecto de portaria do membro do Governo responsável pela área da Administração Pública.\n\n4 - A formação específica acima referida pode igualmente ser garantida por instituições de ensino superior, em termos fixados em diploma regulamentar.\n\n5 - ...\n\nArtigo 16.º\n\n[...]\n\n1 - O exercício de cargos dirigentes é feito em regime de exclusividade, nos termos da lei.\n\n2 - O regime de exclusividade implica a renúncia ao exercício de quaisquer outras actividades ou funções de natureza profissional, públicas ou privadas, exercidas com carácter regular ou não, e independentemente da respectiva remuneração, sem prejuízo do disposto nos artigos 27.º a 29.º da Lei n.º 12-A/2008, de 27 de Fevereiro.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - ...\n\n6 - (Revogado.)\n\n7 - ...\n\nArtigo 17.º\n\n[...]\n\n1 - Para além do disposto no artigo anterior, a participação dos titulares dos cargos de direcção superior em órgãos sociais de pessoas colectivas só é permitida, nos termos da lei, quando se trate do exercício de funções em pessoas colectivas sem fins lucrativos.\n\n2 - O pessoal dirigente está sujeito ao regime de incompatibilidades, impedimentos e inibições previstos nas disposições reguladoras de conflitos de interesses resultantes do exercício de funções públicas, designadamente nas constantes da Lei n.º 12-A/2008, de 27 de Fevereiro, e nas dos artigos 44.º a 51.º do Código do Procedimento Administrativo.\n\n3 - Aos titulares dos cargos de direcção superior são ainda aplicáveis, com as necessárias adaptações, os artigos 5.º, 9.º, 9.º-A, 11.º, 12.º, 13.º, n.º 4, e 14.º da Lei n.º 64/93, de 26 de Agosto, na redacção em vigor.\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\nArtigo 18.º\n\n[...]\n\n1 - Os titulares dos cargos de direcção superior são recrutados, por procedimento concursal, nos termos dos artigos seguinte e 19.º-A, de entre indivíduos com licenciatura concluída à data de abertura do concurso há pelo menos 12 ou 8 anos, consoante se trate de cargos de direcção superior de 1.º ou de 2.º grau, vinculados ou não à Administração Pública, que possuam competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respectivas funções.\n\n2 - A iniciativa do procedimento concursal referido no número anterior cabe ao membro do Governo com poder de direcção ou de superintendência e tutela sobre o serviço ou órgão em que se integra o cargo a preencher, competindo-lhe, neste âmbito, definir o perfil, experiência profissional e competências de gestão exigíveis aos candidatos.\n\n3 - O procedimento concursal é efectuado pela Comissão de Recrutamento e Selecção para a Administração Pública, adiante designada por Comissão, entidade independente, que funciona junto do membro do Governo responsável pela área da Administração Pública, nos termos dos respectivos Estatutos.\n\n4 - A Comissão estabelece, nos termos das suas competências, os critérios aplicáveis na selecção de candidatos a cargos de direcção superior, designadamente as competências de liderança, colaboração, motivação, orientação estratégica, orientação para resultados, orientação para o cidadão e serviço público, gestão da mudança e inovação, sensibilidade social, experiência profissional, formação académica e formação profissional.\n\nArtigo 19.º\n\nSelecção e provimento nos cargos de direcção superior\n\n1 - O procedimento concursal é obrigatoriamente publicitado na bolsa de emprego público (BEP) e, pelo menos, na plataforma electrónica do Governo e em duas outras plataformas electrónicas, durante 10 dias, com a indicação dos requisitos formais de provimento, do perfil exigido e dos métodos de selecção, que incluem, necessariamente, a avaliação curricular e, aos candidatos habilitados para o procedimento, a realização de entrevistas de avaliação pela Comissão.\n\n2 - A publicitação referida no número anterior é precedida de aviso a publicar na 2.ª série do Diário da República, podendo ainda ser divulgado em órgão de imprensa de expansão nacional.\n\n3 - A promoção das publicitações previstas nos números anteriores é assegurada pela Direcção-Geral da Administração e do Emprego Público, em conformidade com as instruções da Comissão.\n\n4 - O júri é constituído:\n\na) Pelo presidente da Comissão, que tem voto de qualidade, ou por quem este designe, que preside;\n\nb) Por um vogal permanente da Comissão;\n\nc) Por um vogal não permanente da Comissão, em exercício de funções em órgão ou serviço integrado na orgânica do ministério a que respeita o procedimento concursal, mas em órgão ou serviço não coincidente com este;\n\nd) Pelo perito cooptado pelos anteriores de uma bolsa de peritos que funciona junto da Comissão, em exercício de funções em órgão ou serviço integrado na orgânica do ministério a que respeita o procedimento concursal, mas em órgão ou serviço não coincidente com este.\n\n5 - Na selecção dos candidatos o júri procede à aplicação dos métodos de selecção definidos no respectivo aviso de abertura de procedimento concursal.\n\n6 - O júri, após conclusão da aplicação dos métodos de selecção previstos, elabora a proposta de designação indicando três candidatos, ordenados por ordem alfabética e acompanhados dos fundamentos da escolha de cada um deles, e apresenta-a ao membro do Governo que tenha o poder de direcção ou de superintendência e tutela sobre o serviço ou órgão a que respeita o procedimento concursal, que previamente à designação pode realizar uma entrevista de avaliação aos três candidatos.\n\n7 - Na situação de procedimento concursal em que não haja um número suficiente de candidatos para os efeitos do número anterior ou em que o mesmo fique deserto, deve a Comissão proceder à repetição de aviso de abertura referente ao mesmo procedimento concursal, nos termos do n.º 1 e seguintes e, verificando-se o mesmo resultado, pode o membro do Governo competente para o provimento proceder a recrutamento por escolha, de entre indivíduos que reúnam o perfil definido pelo aviso de abertura.\n\n8 - Os cargos de direcção superior são providos por despacho do membro do Governo competente, em regime de comissão de serviço, por um período de cinco anos, renovável por igual período sem necessidade de recurso a procedimento concursal.\n\n9 - A duração da comissão de serviço e das respectivas renovações não pode exceder, na globalidade, 10 anos consecutivos, não podendo o dirigente ser provido no mesmo cargo do respectivo serviço antes de decorridos 5 anos.\n\n10 - O provimento nos cargos de direcção superior produz efeitos à data do despacho de designação, salvo se outra data for expressamente fixada.\n\n11 - O despacho de designação, devidamente fundamentado, é publicado no Diário da República, juntamente com uma nota relativa ao currículo académico e profissional do designado.\n\n12 - A designação dispensa a autorização do serviço ou órgão de origem do designado.\n\n13 - O procedimento concursal é urgente e de interesse público, não havendo lugar a audiência de interessados.\n\n14 - Não há efeito suspensivo do recurso administrativo interposto do despacho de designação ou de qualquer outro acto praticado no decurso do procedimento.\n\n15 - A propositura de providência cautelar de suspensão da eficácia de um acto administrativo praticado no procedimento não tem por efeito a proibição da execução desse acto.\n\n16 - Em caso de suspensão judicial da eficácia do despacho de designação, é aplicável o disposto no artigo 27.º\n\nArtigo 19.º-A\n\n[...]\n\n1 - Com o aviso de abertura do concurso é publicada a carta de missão, elaborada pelo membro do Governo que dirige ou superintende e tutela o serviço ou órgão em que se insere o cargo a preencher, que constitui um compromisso de gestão.\n\n2 - Na carta de missão são definidos de forma explícita os objectivos, devidamente quantificados e calendarizados, a atingir no decurso do exercício de funções, sem prejuízo da sua revisão, sempre que tal se justifique, por alterações de contexto geral ou por circunstâncias específicas que o determinem, mediante orientação do respectivo membro do Governo.\n\n3 - Os candidatos devem juntar uma declaração à sua candidatura, elaborada em conformidade com modelo aprovado por Regulamento da Comissão de Recrutamento e Selecção para a Administração Pública, aceitando os termos da carta de missão, sob pena de não aceitação da candidatura.\n\nArtigo 20.º\n\n[...]\n\n1 - Os titulares dos cargos de direcção intermédia são recrutados, por procedimento concursal, nos termos do artigo seguinte, de entre trabalhadores em funções públicas contratados ou designados por tempo indeterminado, licenciados, dotados de competência técnica e aptidão para o exercício de funções de direcção, coordenação e controlo que reúnam seis ou quatro anos de experiência profissional em funções, cargos, carreiras ou categorias para cujo exercício ou provimento seja exigível uma licenciatura, consoante se trate de cargos de direcção intermédia de 1.º ou de 2.º grau, respectivamente.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - Nos casos em que o procedimento concursal fique deserto ou em que nenhum dos candidatos reúna condições para ser designado, nos termos do n.º 7 do artigo seguinte, os titulares dos cargos de direcção intermédia podem igualmente ser recrutados, em subsequente procedimento concursal, de entre indivíduos licenciados sem vínculo à Administração Pública que reúnam os requisitos previstos no n.º 1 e desde que:\n\na) O serviço ou órgão interessado o tenha solicitado, em proposta fundamentada, ao membro do Governo responsável pela área da Administração Pública;\n\nb) O recrutamento caiba dentro da quota anualmente fixada para o efeito pelo membro do Governo responsável pela área da Administração Pública;\n\nc) O membro do Governo responsável pela área da Administração Pública o tenha autorizado.\n\nArtigo 21.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - Ao elemento do júri referido na alínea c) do n.º 3 que não seja vinculado à Administração Pública é devida remuneração nos termos fixados pelo membro do Governo responsável pela área da Administração Pública.\n\n6 - ...\n\n7 - ...\n\n8 - A pedido do serviço ou órgão interessado, o procedimento concursal é assegurado por entidade pública competente, integrada em diferente ministério, com dispensa de constituição de júri, mas com intervenção do indivíduo previsto na alínea c) do n.º 3, sendo, nesse caso, aplicável, com as devidas adaptações, o disposto nos n.os 1, 2, 4, 5, 6 e 7.\n\n9 - ...\n\n10 - ...\n\n11 - ...\n\n12 - A designação dispensa a autorização do serviço ou órgão de origem do designado.\n\n13 - (Anterior n.º 12.)\n\n14 - (Anterior n.º 13.)\n\n15 - (Anterior n.º 14.)\n\n16 - (Anterior n.º 15.)\n\nArtigo 22.º\n\n[...]\n\n1 - ...\n\n2 - A comunicação referida no número anterior será acompanhada de relatório dos resultados obtidos durante o exercício do cargo, tendo sempre como referência a carta de missão e os planos e relatórios de actividades, bem como de uma síntese da aplicação do sistema de avaliação do respectivo serviço.\n\n3 - ...\n\nArtigo 24.º\n\n[...]\n\n1 - A decisão sobre a renovação da comissão de serviço a que se referem os artigos anteriores é comunicada por escrito aos interessados até 60 dias antes do seu termo, sendo acompanhada de determinação para abertura do correspondente procedimento concursal quando aquela não tenha sido renovada.\n\n2 - (Revogado.)\n\n3 - Em caso de não renovação da comissão de serviço, as funções são asseguradas em regime de gestão corrente ou, transitoriamente, em regime de substituição até à designação de novo titular.\n\n4 - ...\n\nArtigo 25.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) Nos casos do n.º 7 do artigo 16.º e do n.º 6 do artigo 17.º da presente lei e do n.º 3 do artigo 29.º da Lei n.º 12-A/2008, de 27 de Fevereiro;\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) (Revogada.)\n\ni) ...\n\n2 - ...\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\nArtigo 26.º-A\n\n[...]\n\n1 - A comissão de serviço dos titulares dos cargos de direcção superior de 2.º grau e de direcção intermédia suspende-se quando sejam designados para gabinetes de membros do Governo ou equiparados ou em regime de substituição.\n\n2 - ...\n\n3 - ...\n\nArtigo 27.º\n\nDesignação em substituição\n\n1 - ...\n\n2 - A designação em regime de substituição é feita pela entidade competente, devendo ser observados todos os requisitos legais exigidos para o provimento do cargo, com excepção do procedimento concursal a que se referem os artigos 18.º a 21.º\n\n3 - A substituição cessa na data em que o titular retome funções ou passados 90 dias sobre a data da vacatura do lugar, salvo se estiver em curso procedimento tendente à designação de novo titular.\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\nArtigo 31.º\n\n[...]\n\n1 - ...\n\n2 - Ao pessoal dirigente são abonadas despesas de representação de montante fixado em despacho do Primeiro-Ministro e do membro do Governo responsável pela área da Administração Pública.\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\nArtigo 33.º\n\n[...]\n\n1 - ...\n\n2 - Os titulares dos cargos de direcção superior de 1.º grau podem ser apoiados por um trabalhador que exerça funções de secretariado.\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...»\n\n2 - É alterada a epígrafe do capítulo ii da Lei n.º 2/2004, de 15 de Janeiro, que passa a ter a seguinte redacção: «Recrutamento, selecção, provimento e cessação de funções».\n\n3 - É alterada a epígrafe da secção i do capítulo ii da Lei n.º 2/2004, de 15 de Janeiro, que passa a ter a seguinte redacção: «Recrutamento, selecção e provimento de cargos de direcção superior»."
+  },
+  "53148875": {
+   "fragment_id": "36275675",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nSão revogados os n.os 3, 4 e 6 do artigo 16.º, o n.º 2 do artigo 24.º, a alínea h) do n.º 1, os n.os 3 e 4 do artigo 25.º da Lei n.º 2/2004, de 15 de Janeiro, alterada pelas Leis n.os 51/2005, de 30 de Agosto, 64-A/2008, de 31 de Dezembro, e 3-B/2010, de 28 de Abril."
+  },
+  "53148975": {
+   "fragment_id": "36275775",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração à Lei n.º 4/2004, de 15 de Janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração à Lei n.º 4/2004, de 15 de Janeiro\n\nO artigo 28.º da Lei n.º 4/2004, de 15 de Janeiro, alterada pela Lei n.º 51/2005, de 30 de Agosto, pelos Decretos-Leis n.os 200/2006, de 25 de Outubro, e 105/2007, de 3 de Abril, e pela Lei n.º 64-A/2008, de 31 de Dezembro, passa a ter a seguinte redacção:\n\n«Artigo 28.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\n10 - Os responsáveis das estruturas de missão, das comissões e dos grupos de trabalho ou de projecto são livremente designados e exonerados.»"
+  },
+  "53149075": {
+   "fragment_id": "36275875",
+   "type": 11,
+   "heading": "Artigo 5.º — Comissão de Recrutamento e Selecção para a Administração Pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Comissão de Recrutamento e Selecção para a Administração Pública\n\nÉ criada, pela presente lei, a Comissão de Recrutamento e Selecção para a Administração Pública e são aprovados os respectivos Estatutos, publicados no anexo A à presente lei, da qual fazem parte integrante."
+  },
+  "53149175": {
+   "fragment_id": "36275975",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regime transitório\n\n1 - As comissões de serviço dos titulares de cargos de direcção superior a que se referem os n.os 3 e 4 do artigo 25.º da Lei n.º 2/2004, de 15 de Janeiro, na redacção vigente antes da entrada em vigor da presente lei, e as comissões de serviço dos titulares de cargos de direcção superior que, após 21 de Junho de 2011, foram objecto de renovação nos termos do n.º 2 do artigo 24.º ou iniciadas ao abrigo do artigo 19.º, na redacção vigente antes da entrada em vigor da presente lei, são alvo do procedimento concursal aprovado pela presente lei, a realizar até 31 de Dezembro de 2013.\n\n2 - O prazo previsto no n.º 3 do artigo 27.º da Lei n.º 2/2004, de 15 de Janeiro, relativamente às designações em regime de substituição efectuadas após 21 de Junho de 2011, é excepcionalmente prorrogado, com o limite de 31 de Dezembro de 2013, até à ocorrência de qualquer das seguintes situações:\n\na) Até à designação do novo titular do cargo, a qual segue o procedimento concursal aprovado pela presente lei;\n\nb) Até à extinção ou reorganização da respectiva unidade ou estrutura orgânica.\n\n3 - No decurso do prazo previsto no número anterior, os membros do Governo podem, a título excepcional, delegar nos dirigentes que exerçam cargos de direcção superior de 1.º grau em regime de substituição as competências relativas às atribuições dos respectivos serviços e órgãos.\n\n4 - Se os procedimentos concursais referidos nos n.os 1 e 2 não estiverem concluídos a 31 de Dezembro de 2013, cessam as comissões de serviço e as designações em regime de substituição neles previstas, sendo as funções dos titulares dos cargos de direcção superior asseguradas em regime de gestão corrente até à designação de novo titular."
+  },
+  "53149275": {
+   "fragment_id": "36276075",
+   "type": 11,
+   "heading": "Artigo 7.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Republicação\n\n1 - É republicada no anexo B à presente lei, da qual faz parte integrante, a Lei n.º 2/2004, de 15 de Janeiro, com a redacção actual.\n\n2 - Para efeitos de republicação onde se lê «nomeação», «nomeado», «nomeados», «funcionário», «funcionários», «organismo», «organismos», «do 1.º grau», «do 2.º grau» e «do 3.º grau» deve ler-se, respectivamente, «designação», «designado», «designados», «trabalhador em funções públicas», «trabalhadores em funções públicas», «órgão», «órgãos», «de 1.º grau», «de 2.º grau» e «de 3.º grau»."
+  },
+  "53149375": {
+   "fragment_id": "36276175",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "53149475": {
+   "fragment_id": "36276275",
+   "type": 14,
+   "heading": "Anexo A — ESTATUTOS DA COMISSÃO DE RECRUTAMENTO E SELECÇÃO PARA A ADMINISTRAÇÃO PÚBLICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo A — ESTATUTOS DA COMISSÃO DE RECRUTAMENTO E SELECÇÃO PARA A ADMINISTRAÇÃO PÚBLICA\n\n(a que se refere o artigo 5.º)"
+  },
+  "53149575": {
+   "fragment_id": "37818675",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "53149675": {
+   "fragment_id": "39441075",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e missão\n\n1 - A Comissão de Recrutamento e Selecção para a Administração Pública, adiante designada por Comissão, é uma entidade independente que funciona junto do membro do Governo responsável pela área da Administração Pública.\n\n2 - A Comissão tem por missão o recrutamento e selecção de candidatos para cargos de direcção superior na Administração Pública."
+  },
+  "53149775": {
+   "fragment_id": "39441175",
+   "type": 11,
+   "heading": "Artigo 2.º — Independência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Independência\n\nOs membros da Comissão e da bolsa de peritos actuam de forma independente no exercício das competências que lhes estão cometidas por lei e pelos presentes Estatutos, não podendo solicitar nem receber instruções do Governo ou de quaisquer outras entidades públicas ou privadas."
+  },
+  "53149875": {
+   "fragment_id": "39441275",
+   "type": 11,
+   "heading": "Artigo 3.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regime\n\nA Comissão rege-se pelo disposto nos presentes Estatutos e, no que lhe for aplicável, pela Lei n.º 2/2004, de 15 de Janeiro."
+  },
+  "53149975": {
+   "fragment_id": "39441375",
+   "type": 11,
+   "heading": "Artigo 4.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Sede\n\nA Comissão tem sede em Lisboa, podendo funcionar em instalações do ministério responsável pela área da Administração Pública."
+  },
+  "53150075": {
+   "fragment_id": "37818775",
+   "type": 1,
+   "heading": "Capítulo II — Composição e estatuto dos membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Composição e estatuto dos membros"
+  },
+  "53150175": {
+   "fragment_id": "39441475",
+   "type": 11,
+   "heading": "Artigo 5.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Composição\n\n1 - A Comissão é composta por:\n\na) Um presidente;\n\nb) Três a cinco vogais permanentes;\n\nc) Um vogal não permanente por cada ministério e respectivo suplente, em exercício de funções em órgão ou serviço não coincidente com o do vogal, mas integrado na orgânica do mesmo ministério.\n\n2 - O presidente é designado de entre personalidades de reconhecidos mérito profissional, credibilidade e integridade pessoal.\n\n3 - Os vogais permanentes são designados de entre personalidades de reconhecidos mérito profissional, credibilidade e integridade pessoal, cuja actividade tenha sido exercida preferencialmente na área dos recursos humanos ou da Administração Pública.\n\n4 - Os vogais não permanentes e respectivos suplentes são designados de entre trabalhadores em funções públicas com reconhecidos mérito profissional, credibilidade e integridade pessoal, cuja actividade tenha sido exercida preferencialmente na área dos recursos humanos.\n\n5 - Junto da Comissão funciona uma bolsa de peritos, composta por 20 a 50 membros, designados de entre trabalhadores em funções públicas com reconhecidos mérito profissional, credibilidade e integridade pessoal, que apoiam a Comissão em matérias técnicas específicas e participam nos júris dos procedimentos concursais para cargos de direcção superior na Administração Pública."
+  },
+  "53150275": {
+   "fragment_id": "39441575",
+   "type": 11,
+   "heading": "Artigo 6.º — Provimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Provimento\n\n1 - O presidente da Comissão e os vogais permanentes são providos, após audição pela Assembleia da República, por resolução do Conselho de Ministros, sob proposta do membro do Governo responsável pela área da Administração Pública, em regime de comissão de serviço por um período de cinco e quatro anos, respectivamente, não podendo os mesmos titulares ser providos no mesmo cargo antes de decorrido igual período.\n\n2 - Os vogais não permanentes e os respectivos suplentes são designados por despacho do membro do Governo responsável pela área da Administração Pública e daquele que detenha o poder de direcção ou de superintendência e tutela sobre o serviço ou órgão a que se encontram vinculados, por um período de três anos, não podendo o mesmo titular ser designado para a mesma função antes de decorrido igual período.\n\n3 - Os peritos que integram a bolsa de peritos são designados por despacho do membro do Governo responsável pela área da Administração Pública e daquele que detenha o poder de direcção ou de superintendência e tutela sobre o serviço ou órgão a que se encontrem vinculados, sob proposta da Comissão, pelo período de um ano, renovável até ao limite de três anos.\n\n4 - O provimento do presidente da Comissão deve garantir a alternância de género e o provimento dos vogais permanentes deve assegurar a representação mínima de 33 % de cada género.\n\n5 - Os membros da Comissão e da bolsa de peritos cessam funções com a posse dos novos membros designados para ocupar os respectivos lugares."
+  },
+  "53150375": {
+   "fragment_id": "39441675",
+   "type": 11,
+   "heading": "Artigo 7.º — Incompatibilidades e impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Incompatibilidades e impedimentos\n\n1 - Os membros da Comissão ficam sujeitos ao regime de incompatibilidades e impedimentos estabelecido para os titulares de altos cargos públicos.\n\n2 - Só podem ser membros da Comissão os cidadãos que se encontrem no pleno gozo dos seus direitos civis e políticos.\n\n3 - O presidente e os vogais permanentes da Comissão exercem as suas funções em regime de exclusividade.\n\n4 - Os vogais não permanentes da Comissão e os membros da bolsa de peritos exercem as suas funções em regime de exclusividade apenas quando integrem o júri de procedimento concursal para cargo de direcção superior para o qual sejam cooptados, e até ao seu encerramento.\n\n5 - Os membros da Comissão e da bolsa de peritos não podem ser titulares de órgãos de soberania, das regiões autónomas ou do poder local.\n\n6 - Os membros da Comissão e da bolsa de peritos não podem exercer quaisquer funções ou deter participações sociais em empresas ou quaisquer outras entidades externas à Administração Pública que prestem apoio à Comissão no âmbito do exercício das suas competências."
+  },
+  "53150475": {
+   "fragment_id": "39441775",
+   "type": 11,
+   "heading": "Artigo 8.º — Cessação de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Cessação de funções\n\n1 - As funções dos membros da Comissão e da bolsa de peritos cessa pelo decurso do respectivo prazo, e ainda pela:\n\na) Morte ou impossibilidade física permanente ou com uma duração que se preveja ultrapassar a data do termo da comissão de serviço ou do período para o qual foram designados;\n\nb) Renúncia às funções, através de declaração escrita apresentada à Comissão;\n\nc) Incapacidade ou incompatibilidade superveniente.\n\n2 - No caso de vacatura por um dos motivos previstos no número anterior, a vaga deve ser preenchida no prazo de 15 dias após a sua verificação."
+  },
+  "53150575": {
+   "fragment_id": "39441875",
+   "type": 11,
+   "heading": "Artigo 9.º — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Deveres\n\nConstituem deveres dos membros da Comissão e da bolsa de peritos:\n\na) Exercer as respectivas funções com isenção, rigor e independência;\n\nb) Participar activa e assiduamente nos trabalhos da entidade que integram."
+  },
+  "53150675": {
+   "fragment_id": "39441975",
+   "type": 11,
+   "heading": "Artigo 10.º — Estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Estatuto\n\n1 - O regime remuneratório do presidente da Comissão e dos vogais permanentes é fixado por portaria dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública, podendo aqueles optar pela remuneração de origem.\n\n2 - Os vogais não permanentes e os peritos mantêm a remuneração de origem.\n\n3 - Os membros da Comissão e da bolsa de peritos beneficiam do regime geral de segurança social, se não optarem por outro que os abranja.\n\n4 - O presidente e os vogais permanentes da Comissão não podem ser prejudicados na estabilidade do seu emprego, na sua carreira e no regime de segurança social de que beneficiem por causa do exercício das suas funções.\n\n5 - O presidente e os vogais permanentes da Comissão retomam automaticamente as funções que exerciam à data da designação ou de início de exercício de funções na Comissão, ou aquelas para que foram transferidos ou designados durante esse exercício de funções, designadamente por virtude de promoção.\n\n6 - Durante o exercício das suas funções o presidente e os vogais permanentes da Comissão não perdem a antiguidade nos seus empregos nem podem ser prejudicados nas promoções a que entretanto tenham adquirido direito.\n\n7 - No caso do presidente e dos vogais permanentes da Comissão se encontrarem, à data da designação, investidos em função pública temporária, por virtude de lei, acto ou contrato, o exercício de funções para a Comissão suspende o respectivo prazo.\n\n8 - Quando o presidente e os vogais permanentes da Comissão forem trabalhadores de empresas públicas ou privadas exercem as suas funções em regime de cedência de interesse público.\n\n9 - Os membros da Comissão e da bolsa de peritos que exerçam funções docentes ou de investigação científica no ensino superior podem continuar no exercício dessas funções, sem prejuízo de, quando as mesmas forem exercidas em estabelecimento de ensino público, poderem requerer a suspensão dos prazos dos respectivos contratos ou dos prazos para a apresentação de relatórios ou prestação de provas a que estejam adstritos."
+  },
+  "53150775": {
+   "fragment_id": "37818875",
+   "type": 1,
+   "heading": "Capítulo III — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Competências"
+  },
+  "53150875": {
+   "fragment_id": "39442075",
+   "type": 11,
+   "heading": "Artigo 11.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competências\n\nNo âmbito das suas atribuições, compete à Comissão, nomeadamente:\n\na) Estabelecer, por regulamento, as regras aplicáveis à avaliação de perfis, competências, experiência, conhecimentos, formação académica e formação profissional aplicáveis na selecção de candidatos a cargos de direcção superior na Administração Pública;\n\nb) Proceder, mediante iniciativa dos departamentos governamentais envolvidos, à abertura e desenvolvimento dos procedimentos de recrutamento para cargos de direcção superior na Administração Pública, de acordo com os perfis genericamente definidos naquela iniciativa;\n\nc) Estabelecer os métodos de selecção a aplicar nos procedimentos concursais, garantindo sempre a realização de avaliação curricular e entrevista de avaliação, podendo ainda optar pela aplicação de outros métodos de selecção previstos para o estabelecimento de relações jurídicas de emprego público no regime de vinculação, de carreiras e de remuneração dos trabalhadores que exercem funções públicas;\n\nd) Apoiar a elaboração e o desenvolvimento da política global e sectorial com incidência nos quadros de direcção superior da Administração Pública e participar na sua execução;\n\ne) Promover actividades de pesquisa e de informação relativamente a personalidades que apresentem perfil adequado para as funções de cargos de direcção superior na Administração Pública;\n\nf) Promover as boas práticas de gestão e ética para titulares de cargos de direcção superior na Administração Pública;\n\ng) Promover a aprovação e adopção de princípios orientadores para códigos de conduta destinados a titulares de cargos de direcção superior na Administração Pública;\n\nh) Cooperar com organizações de âmbito internacional, comunitário e demais órgãos congéneres estrangeiros em matérias de recrutamento e selecção na Administração Pública e de boas práticas e códigos de conduta dos cargos de direcção superior;\n\ni) Cooperar com entidades públicas e privadas de níveis nacional, regional e local em matérias de recrutamento e selecção na Administração Pública e de boas práticas e códigos de conduta dos cargos de direcção superior."
+  },
+  "53150975": {
+   "fragment_id": "39442175",
+   "type": 11,
+   "heading": "Artigo 12.º — Regulamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regulamentos\n\n1 - Compete à Comissão aprovar os regulamentos necessários à boa execução do disposto nos presentes Estatutos e na Lei n.º 2/2004, de 15 de Janeiro.\n\n2 - Os regulamentos da Comissão são publicados na 2.ª série do Diário da República."
+  },
+  "53151075": {
+   "fragment_id": "37818975",
+   "type": 1,
+   "heading": "Capítulo IV — Organização e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Organização e funcionamento"
+  },
+  "53151175": {
+   "fragment_id": "39442275",
+   "type": 11,
+   "heading": "Artigo 13.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Funcionamento\n\n1 - O apoio administrativo ao funcionamento da Comissão é assegurado pela secretaria-geral do ministério responsável pela área da Administração Pública.\n\n2 - A Direcção-Geral da Administração e do Emprego Público presta apoio técnico e operacional à Comissão sempre que solicitado e nos termos a definir em regulamento."
+  },
+  "53151275": {
+   "fragment_id": "39442375",
+   "type": 11,
+   "heading": "Artigo 14.º — Deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Deliberações\n\n1 - As deliberações da Comissão são tomadas por maioria dos membros presentes, tendo o presidente voto de qualidade\n\n2 - O disposto nas alíneas a), c) e g) do artigo 11.º só pode ser objecto de deliberação com a presença de pelo menos dois terços dos membros da Comissão."
+  },
+  "53151375": {
+   "fragment_id": "39442475",
+   "type": 11,
+   "heading": "Artigo 15.º — Dever de sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Dever de sigilo\n\nOs membros da Comissão, bem como o pessoal que lhe preste apoio e outros colaboradores eventuais, estão especialmente obrigados ao dever de sigilo nos termos da lei."
+  },
+  "53151475": {
+   "fragment_id": "39442575",
+   "type": 11,
+   "heading": "Artigo 16.º — Dever de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Dever de colaboração\n\nAs secretarias-gerais ou os departamentos responsáveis pelas áreas de recursos humanos dos ministérios devem prestar toda a colaboração solicitada pela Comissão na execução das tarefas relativas aos procedimentos concursais para os cargos de direcção superior que se integrem nos órgãos ou serviços sob o poder de direcção ou de superintendência e tutela do respectivo membro do Governo."
+  },
+  "53151575": {
+   "fragment_id": "39442675",
+   "type": 11,
+   "heading": "Artigo 17.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Publicidade\n\n1 - A Comissão deve disponibilizar no respectivo sítio na Internet toda a informação relevante a seu respeito, nomeadamente as normas que a regulam e a sua composição, incluindo os elementos biográficos e a remuneração dos seus membros, e a legislação e regulamentação aplicável ao recrutamento e selecção para a Administração Pública.\n\n2 - A Comissão deve garantir a disponibilidade em base de dados informatizada de todos os procedimentos concursais para cargos de direcção superior da Administração Pública."
+  },
+  "53151675": {
+   "fragment_id": "37819075",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "53151775": {
+   "fragment_id": "39442775",
+   "type": 11,
+   "heading": "Artigo 18.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regime transitório\n\nDurante o ano de 2011, a Comissão procede à elaboração dos regulamentos indispensáveis ao desempenho das suas competências."
+  },
+  "53151875": {
+   "fragment_id": "36276375",
+   "type": 14,
+   "heading": "Anexo B — Republicação da Lei n.º 2/2004, de 15 de Janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo B — Republicação da Lei n.º 2/2004, de 15 de Janeiro\n\n(a que se refere o artigo 7.º)"
+  },
+  "53151975": {
+   "fragment_id": "37819175",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Princípios gerais"
+  },
+  "53152075": {
+   "fragment_id": "39442875",
+   "type": 8,
+   "heading": "Secção I — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Objecto e âmbito de aplicação"
+  },
+  "53152175": {
+   "fragment_id": "40915375",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - A presente lei estabelece o estatuto do pessoal dirigente dos serviços e órgãos da administração central, local e regional do Estado.\n\n2 - A presente lei é aplicável aos institutos públicos, salvo no que respeita às matérias específicas reguladas pela respectiva lei quadro.\n\n3 - A aplicação do regime previsto na presente lei nas Regiões Autónomas dos Açores e da Madeira não prejudica a publicação de diploma legislativo regional que o adapte às especificidades orgânicas do pessoal dirigente da respectiva administração regional.\n\n4 - A presente lei será aplicada, com as necessárias adaptações, à administração local mediante decreto-lei.\n\n5 - A presente lei não se aplica aos cargos dirigentes:\n\na) Dos órgãos e serviços de apoio ao Presidente da República, à Assembleia da República e aos tribunais;\n\nb) Das Forças Armadas, das forças e serviços de segurança e dos órgãos públicos que exercem funções de segurança interna, nos termos definidos pela Lei de Segurança Interna, bem como do Sistema de Informações da República Portuguesa e do serviço que tenha por missão assegurar a gestão do sistema prisional;\n\nc) Dos órgãos de gestão dos estabelecimentos de ensino;\n\nd) Dos órgãos de gestão dos estabelecimentos do sector público administrativo de saúde;\n\ne) Do Ministério dos Negócios Estrangeiros que, por força de disposição legal própria, tenham de ser providos por pessoal da carreira diplomática ou para cujo provimento tenha sido escolhido pessoal da mesma carreira ou que sejam exercidos nos serviços externos;\n\nf) Integrados em carreiras."
+  },
+  "53152275": {
+   "fragment_id": "40915475",
+   "type": 11,
+   "heading": "Artigo 2.º — Cargos dirigentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Cargos dirigentes\n\n1 - São cargos dirigentes os cargos de direcção, gestão, coordenação e controlo dos serviços e órgãos públicos abrangidos pela presente lei.\n\n2 - Os cargos dirigentes qualificam-se em cargos de direcção superior e cargos de direcção intermédia e, em função do nível hierárquico e das competências e responsabilidades que lhes estão cometidas, subdividem-se, os primeiros, em dois graus e, os segundos, em tantos graus quantos os que a organização interna exija.\n\n3 - São, designadamente, cargos de direcção superior de 1.º grau os de director-geral, secretário-geral, inspector-geral e presidente e de 2.º grau os de subdirector-geral, secretário-geral-adjunto, subinspector-geral e vice-presidente.\n\n4 - São, designadamente, cargos de direcção intermédia de 1.º grau os de director de serviços e de 2.º grau os de chefe de divisão.\n\n5 - (Revogado.)\n\n6 - Os diplomas orgânicos ou estatutários dos serviços e órgãos públicos abrangidos pela presente lei estabelecem, expressamente, a qualificação e grau dos respectivos cargos dirigentes, nos termos do n.º 2, a respectiva designação, bem como, tratando-se de cargos de direcção intermédia de 3.º grau ou inferior, as correspondentes competências."
+  },
+  "53152375": {
+   "fragment_id": "39442975",
+   "type": 8,
+   "heading": "Secção II — Princípios de actuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Princípios de actuação"
+  },
+  "53152475": {
+   "fragment_id": "40915575",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missão\n\nÉ missão do pessoal dirigente garantir a prossecução das atribuições cometidas ao respectivo serviço, assegurando o seu bom desempenho através da optimização dos recursos humanos, financeiros e materiais e promovendo a satisfação dos destinatários da sua actividade, de acordo com a lei, as orientações contidas no Programa do Governo e as determinações recebidas do respectivo membro do Governo."
+  },
+  "53152575": {
+   "fragment_id": "40915675",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios gerais de ética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios gerais de ética\n\nOs titulares dos cargos dirigentes estão exclusivamente ao serviço do interesse público, devendo observar, no desempenho das suas funções, os valores fundamentais e princípios da actividade administrativa consagrados na Constituição e na lei, designadamente os da legalidade, justiça e imparcialidade, competência, responsabilidade, proporcionalidade, transparência e boa fé, por forma a assegurar o respeito e confiança dos trabalhadores em funções públicas e da sociedade na Administração Pública."
+  },
+  "53152675": {
+   "fragment_id": "40915775",
+   "type": 11,
+   "heading": "Artigo 5.º — Princípios de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Princípios de gestão\n\n1 - Os titulares dos cargos dirigentes devem promover uma gestão orientada para resultados, de acordo com os objectivos anuais e plurianuais a atingir, definindo os recursos a utilizar e os programas a desenvolver, aplicando de forma sistemática mecanismos de controlo e avaliação dos resultados.\n\n2 - A actuação dos titulares de cargos dirigentes deve ser orientada por critérios de qualidade, eficácia e eficiência, simplificação de procedimentos, cooperação, comunicação eficaz e aproximação ao cidadão.\n\n3 - Na sua actuação, o pessoal dirigente deve liderar, motivar e empenhar os seus trabalhadores em funções públicas para o esforço conjunto de melhorar e assegurar o bom desempenho e imagem do serviço.\n\n4 - Os titulares dos cargos dirigentes devem adoptar uma política de formação que contribua para a valorização profissional dos trabalhadores em funções públicas e para o reforço da eficiência no exercício das competências dos serviços no quadro das suas atribuições."
+  },
+  "53152775": {
+   "fragment_id": "39443075",
+   "type": 8,
+   "heading": "Secção III — Competências do pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Competências do pessoal dirigente"
+  },
+  "53152875": {
+   "fragment_id": "40915875",
+   "type": 11,
+   "heading": "Artigo 6.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competências\n\n1 - O pessoal dirigente exerce as suas competências no âmbito da unidade orgânica em que se integra e desenvolve a sua actividade de harmonia com os princípios enunciados na presente lei, sem prejuízo dos casos em que as respectivas leis orgânicas lhe atribuam competência hierárquica sobre outros serviços ou órgãos.\n\n2 - O pessoal dirigente exerce ainda todas as competências específicas que lhe forem conferidas por lei, respectivas leis orgânicas ou estatutos, assim como as que lhe forem delegadas e subdelegadas pelo membro do Governo ou superior hierárquico respectivo."
+  },
+  "53152975": {
+   "fragment_id": "40915975",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências dos titulares dos cargos de direcção superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competências dos titulares dos cargos de direcção superior\n\n1 - Compete aos titulares dos cargos de direcção superior de 1.º grau, no âmbito da gestão geral do respectivo serviço ou órgão:\n\na) Elaborar os planos anuais e plurianuais de actividades, com identificação dos objectivos a atingir pelos serviços, os quais devem contemplar medidas de desburocratização, qualidade e inovação;\n\nb) Assegurar, controlar e avaliar a execução dos planos de actividades e a concretização dos objectivos propostos;\n\nc) Elaborar os relatórios de actividades com indicação dos resultados atingidos face aos objectivos definidos, bem como o balanço social, nos termos da lei aplicável;\n\nd) Praticar todos os actos necessários ao normal funcionamento dos serviços e órgãos no âmbito da gestão dos recursos humanos, financeiros, materiais e patrimoniais, designadamente os mencionados no anexo i, que é parte integrante da presente lei, tendo em conta os limites previstos nos respectivos regimes legais, desde que tal competência não se encontre expressamente cometida a outra entidade e sem prejuízo dos poderes de direcção, superintendência ou tutela do membro do Governo respectivo;\n\ne) Propor ao membro do Governo competente a prática dos actos de gestão do serviço ou órgão para os quais não tenha competência própria ou delegada, assim como as medidas que considere mais aconselháveis para se atingirem os objectivos e metas consagrados na lei e no Programa do Governo;\n\nf) Organizar a estrutura interna do serviço ou órgão, designadamente através da criação, modificação ou extinção de unidades orgânicas flexíveis, e definir as regras necessárias ao seu funcionamento, articulação e, quando existam, formas de partilha de funções comuns;\n\ng) Garantir a efectiva participação dos trabalhadores em funções públicas na preparação dos planos e relatórios de actividades e proceder à sua divulgação e publicitação;\n\nh) Proceder à difusão interna das missões e objectivos do serviço, das competências das unidades orgânicas e das formas de articulação entre elas, desenvolvendo formas de coordenação e comunicação entre as unidades orgânicas e respectivos trabalhadores em funções públicas;\n\ni) Acompanhar e avaliar sistematicamente a actividade do serviço, responsabilizando os diferentes sectores pela utilização dos meios postos à sua disposição e pelos resultados atingidos, nomeadamente em termos de impacte da actividade e da qualidade dos serviços prestados;\n\nj) Elaborar planos de acção que visem o aperfeiçoamento e a qualidade dos serviços, nomeadamente através de cartas de qualidade, definindo metodologias de melhores práticas de gestão e de sistemas de garantia de conformidade face aos objectivos exigidos;\n\nl) Propor a adequação de disposições legais ou regulamentares desactualizadas e a racionalização e simplificação de procedimentos;\n\nm) Representar o serviço ou órgão que dirige, assim como estabelecer as ligações externas, ao seu nível, com outros serviços e órgãos da Administração Pública e com outras entidades congéneres, nacionais, internacionais e estrangeiras.\n\n2 - No âmbito da gestão dos recursos humanos, compete aos titulares dos cargos de direcção superior de 1.º grau, designadamente:\n\na) Fazer cumprir as obrigações definidas nos termos da lei para o processo de avaliação do mérito dos trabalhadores em funções públicas, garantindo a aplicação uniforme do regime de avaliação no âmbito do respectivo serviço ou órgão;\n\nb) Garantir a elaboração e actualização do diagnóstico de necessidades de formação do serviço ou órgão e, com base neste, a elaboração do respectivo plano de formação, individual ou em grupo, bem como efectuar a avaliação dos efeitos da formação ministrada ao nível da eficácia do serviço e do impacte do investimento efectuado;\n\nc) Adoptar os horários de trabalho mais adequados ao funcionamento dos serviços, observados os condicionalismos legais, bem como estabelecer os instrumentos e práticas que garantam o controlo efectivo da assiduidade;\n\nd) Autorizar a acumulação de actividades ou funções, públicas ou privadas, nos termos da lei;\n\ne) Exercer a competência em matéria disciplinar prevista na lei.\n\n3 - No âmbito da gestão orçamental e realização de despesas, compete aos titulares dos cargos de direcção superior de 1.º grau, designadamente:\n\na) Elaborar os projectos de orçamento de funcionamento e de investimento, tendo em conta os planos de actividades e os programas aprovados;\n\nb) Executar o orçamento de acordo com uma rigorosa gestão dos recursos disponíveis, adoptando as medidas necessárias à correcção de eventuais desvios ou propondo as que ultrapassem a sua competência;\n\nc) Elaborar e aprovar a conta de gerência;\n\nd) Assegurar as condições necessárias ao exercício do controlo financeiro e orçamental pelas entidades legalmente competentes;\n\ne) Autorizar a realização de despesas públicas com obras e aquisição de bens e serviços, dentro dos limites estabelecidos por lei;\n\nf) Autorizar a prestação de serviços e a venda de produtos próprios, fixando os respectivos preços.\n\n4 - No âmbito da gestão de instalações e equipamentos, compete aos titulares dos cargos de direcção superior de 1.º grau, designadamente:\n\na) Superintender na utilização racional das instalações afectas ao respectivo serviço ou órgão, bem como na sua manutenção e conservação e beneficiação;\n\nb) Promover a melhoria de equipamentos que constituam infra-estruturas ao atendimento;\n\nc) Velar pela existência de condições de saúde, higiene e segurança no trabalho, garantindo, designadamente, a avaliação e registo actualizado dos factores de risco, planificação e orçamentação das acções conducentes ao seu efectivo controlo;\n\nd) Gerir de forma eficaz e eficiente a utilização, manutenção e conservação dos equipamentos afectos ao respectivo serviço ou órgão.\n\n5 - As competências dos titulares dos cargos de direcção superior de 1.º grau em matéria de gestão de recursos humanos não prejudicam as competências dos dirigentes dos serviços e órgãos responsáveis pela gestão centralizada de recursos humanos de cada ministério."
+  },
+  "53153075": {
+   "fragment_id": "40916075",
+   "type": 11,
+   "heading": "Artigo 8.º — Competência dos titulares dos cargos de direcção intermédia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competência dos titulares dos cargos de direcção intermédia\n\n1 - Compete aos titulares de cargos de direcção intermédia de 1.º grau:\n\na) Definir os objectivos de actuação da unidade orgânica que dirigem, tendo em conta os objectivos gerais estabelecidos;\n\nb) Orientar, controlar e avaliar o desempenho e a eficiência dos serviços dependentes, com vista à execução dos planos de actividades e à prossecução dos resultados obtidos e a alcançar;\n\nc) Garantir a coordenação das actividades e a qualidade técnica da prestação dos serviços na sua dependência;\n\nd) Gerir com rigor e eficiência os recursos humanos, patrimoniais e tecnológicos afectos à sua unidade orgânica, optimizando os meios e adoptando medidas que permitam simplificar e acelerar procedimentos e promover a aproximação à sociedade e a outros serviços públicos;\n\ne) Praticar os actos previstos no anexo ii, que é parte integrante da presente lei.\n\n2 - Compete aos titulares dos cargos de direcção intermédia de 2.º grau:\n\na) Assegurar a qualidade técnica do trabalho produzido na sua unidade orgânica e garantir o cumprimento dos prazos adequados à eficaz prestação do serviço, tendo em conta a satisfação do interesse dos destinatários;\n\nb) Efectuar o acompanhamento profissional no local de trabalho, apoiando e motivando os trabalhadores em funções públicas e proporcionando-lhes os adequados conhecimentos e aptidões profissionais necessários ao exercício do respectivo posto de trabalho, bem como os procedimentos mais adequados ao incremento da qualidade do serviço a prestar;\n\nc) Divulgar junto dos trabalhadores em funções públicas os documentos internos e as normas de procedimento a adoptar pelo serviço, bem como debater e esclarecer as acções a desenvolver para cumprimento dos objectivos do serviço, de forma a garantir o empenho e a assunção de responsabilidades por parte dos trabalhadores em funções públicas;\n\nd) Proceder de forma objectiva à avaliação do mérito dos trabalhadores em funções públicas, em função dos resultados individuais e de grupo e à forma como cada um se empenha na prossecução dos objectivos e no espírito de equipa;\n\ne) Identificar as necessidades de formação específica dos trabalhadores em funções públicas da sua unidade orgânica e propor a frequência das acções de formação consideradas adequadas ao suprimento das referidas necessidades, sem prejuízo do direito à autoformação;\n\nf) Proceder ao controlo efectivo da assiduidade, pontualidade e cumprimento do período normal de trabalho por parte dos trabalhadores em funções públicas da sua unidade orgânica;\n\ng) Autorizar a passagem de certidões de documentos arquivados na respectiva unidade orgânica, excepto quando contenham matéria confidencial ou reservada, bem como a restituição de documentos aos interessados;\n\nh) Praticar os actos previstos no anexo ii, que é parte integrante da presente lei, quando não se encontrem directamente dependentes dos titulares dos cargos dirigentes referidos no n.º 1."
+  },
+  "53153175": {
+   "fragment_id": "40916175",
+   "type": 11,
+   "heading": "Artigo 9.º — Delegação de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Delegação de competências\n\n1 - Os membros do Governo podem delegar nos titulares dos cargos de direcção superior de 1.º grau as competências relativas às atribuições dos respectivos serviços e órgãos.\n\n2 - Os titulares dos cargos de direcção superior de 1.º grau podem delegar em todos os níveis e graus de pessoal dirigente as suas competências próprias.\n\n3 - A delegação de assinatura da correspondência ou de expediente necessário à mera instrução dos processos é possível em qualquer trabalhador em funções públicas.\n\n4 - A delegação e a subdelegação de competências constituem instrumentos privilegiados de gestão, cabendo aos titulares dos cargos de direcção superior de 1.º grau a promoção da sua adopção, enquanto meios que propiciam a redução de circuitos de decisão e uma gestão mais célere e desburocratizada."
+  },
+  "53153275": {
+   "fragment_id": "40916275",
+   "type": 11,
+   "heading": "Artigo 10.º — Delegação de competências no substituto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Delegação de competências no substituto\n\n(Revogado.)"
+  },
+  "53153375": {
+   "fragment_id": "39443175",
+   "type": 8,
+   "heading": "Secção IV — Qualificação e formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Qualificação e formação"
+  },
+  "53153475": {
+   "fragment_id": "40916375",
+   "type": 11,
+   "heading": "Artigo 11.º — Qualificação e formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Qualificação e formação\n\n1 - O exercício da função dirigente está dependente da posse de perfil, experiência e conhecimentos adequados para o desempenho do respectivo cargo, bem como da formação profissional específica definida na presente lei.\n\n2 - A permanente actualização no domínio das técnicas de gestão e desenvolvimento das competências do pessoal dirigente é garantida através do sistema de formação profissional.\n\n3 - Para além das acções decorrentes do disposto no número anterior, a formação dos dirigentes pode ser actualizada pela participação em congressos, seminários, colóquios e palestras."
+  },
+  "53153575": {
+   "fragment_id": "40916475",
+   "type": 11,
+   "heading": "Artigo 12.º — Formação profissional específica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Formação profissional específica\n\n1 - O desempenho de funções dirigentes é acompanhado pela realização de formação profissional específica em gestão nos domínios da Administração Pública, diferenciada, se necessário, em função do nível, grau, competências e responsabilidades dos cargos dirigentes.\n\n2 - A formação profissional específica privilegia as seguintes áreas de competências:\n\na) Organização e actividade administrativa;\n\nb) Gestão de pessoas e liderança;\n\nc) Gestão de recursos humanos, orçamentais, materiais e tecnológicos;\n\nd) Informação e conhecimento;\n\ne) Qualidade, inovação e modernização;\n\nf) Internacionalização e assuntos comunitários;\n\ng) Gestão da mudança.\n\n3 - Os cursos adequados à formação profissional específica a que se refere o presente artigo, qualquer que seja a sua designação e duração, são assegurados, preferencialmente, no âmbito da Administração Pública, pelo serviço ou órgão com atribuições na área da formação profissional, devendo os respectivos regulamentos e condições de acesso ser objecto de portaria do membro do Governo responsável pela área da Administração Pública.\n\n4 - A formação específica acima referida pode igualmente ser garantida por instituições de ensino superior, em termos fixados em diploma regulamentar.\n\n5 - Os titulares dos cargos dirigentes frequentam um dos cursos a que se refere o n.º 1 durante os dois primeiros anos de exercício de funções ou, em caso de impossibilidade por causa que não lhes seja imputável, no mais breve prazo."
+  },
+  "53153675": {
+   "fragment_id": "39443275",
+   "type": 8,
+   "heading": "Secção V — Exercício de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Exercício de funções"
+  },
+  "53153775": {
+   "fragment_id": "40916575",
+   "type": 11,
+   "heading": "Artigo 13.º — Horário de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Horário de trabalho\n\nO pessoal dirigente está isento de horário de trabalho, não lhe sendo, por isso, devida qualquer remuneração por trabalho prestado fora do período normal de trabalho."
+  },
+  "53153875": {
+   "fragment_id": "40916675",
+   "type": 11,
+   "heading": "Artigo 14.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Avaliação\n\n(Revogado.)"
+  },
+  "53153975": {
+   "fragment_id": "40916775",
+   "type": 11,
+   "heading": "Artigo 15.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Responsabilidade\n\nNo exercício das suas funções, os titulares de cargos dirigentes são responsáveis civil, criminal, disciplinar e financeiramente, nos termos da lei."
+  },
+  "53154075": {
+   "fragment_id": "40916875",
+   "type": 11,
+   "heading": "Artigo 16.º — Exclusividade e acumulação de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Exclusividade e acumulação de funções\n\n1 - O exercício de cargos dirigentes é feito em regime de exclusividade, nos termos da lei.\n\n2 - O regime de exclusividade implica a renúncia ao exercício de quaisquer outras actividades ou funções de natureza profissional, públicas ou privadas, exercidas com carácter regular ou não, e independentemente da respectiva remuneração, sem prejuízo do disposto nos artigos 27.º a 29.º da Lei n.º 12-A/2008, de 27 de Fevereiro.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - Pode haver acumulação de cargos dirigentes do mesmo nível e grau, sem direito a acumulação das remunerações base.\n\n6 - (Revogado.)\n\n7 - A violação do disposto no presente artigo constitui fundamento para dar por finda a comissão de serviço."
+  },
+  "53154175": {
+   "fragment_id": "40916975",
+   "type": 11,
+   "heading": "Artigo 17.º — Incompatibilidades, impedimentos e inibições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Incompatibilidades, impedimentos e inibições\n\n1 - Para além do disposto no artigo anterior, a participação dos titulares dos cargos de direcção superior em órgãos sociais de pessoas colectivas só é permitida, nos termos da lei, quando se trate do exercício de funções em pessoas colectivas sem fins lucrativos.\n\n2 - O pessoal dirigente está sujeito ao regime de incompatibilidades, impedimentos e inibições previstos nas disposições reguladoras de conflitos de interesses resultantes do exercício de funções públicas, designadamente nas constantes da Lei n.º 12-A/2008, de 27 de Fevereiro, e nas dos artigos 44.º a 51.º do Código do Procedimento Administrativo.\n\n3 - Aos titulares dos cargos de direcção superior são ainda aplicáveis, com as necessárias adaptações, os artigos 5.º, 9.º, 9.º-A, 11.º, 12.º, 13.º, n.º 4, e 14.º da Lei n.º 64/93, de 26 de Agosto, na redacção em vigor.\n\n4 - Os titulares de cargos de direcção superior da Administração Pública e os membros dos gabinetes governamentais não podem desempenhar, pelo período de três anos contados da cessação dos respectivos cargos, as funções de inspector-geral e subinspector-geral, ou a estas expressamente equiparadas, no sector específico em que exerceram actividade dirigente ou prestaram funções de assessoria.\n\n5 - Exceptua-se do disposto no número anterior o regresso à actividade exercida à data da investidura no cargo, sem prejuízo da aplicação das disposições relativas a impedimentos constantes dos artigos 44.º a 51.º do Código do Procedimento Administrativo.\n\n6 - A violação do disposto no presente artigo constitui fundamento para dar por finda a comissão de serviço."
+  },
+  "53154275": {
+   "fragment_id": "37819275",
+   "type": 1,
+   "heading": "Capítulo II — Recrutamento, selecção, provimento e cessação de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Recrutamento, selecção, provimento e cessação de funções"
+  },
+  "53154375": {
+   "fragment_id": "39443375",
+   "type": 8,
+   "heading": "Secção I — Recrutamento, selecção e provimento dos cargos de direcção superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Recrutamento, selecção e provimento dos cargos de direcção superior"
+  },
+  "53154475": {
+   "fragment_id": "40917075",
+   "type": 11,
+   "heading": "Artigo 18.º — Recrutamento para os cargos de direcção superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Recrutamento para os cargos de direcção superior\n\n1 - Os titulares dos cargos de direcção superior são recrutados, por procedimento concursal, nos termos dos artigos seguinte e 19.º-A, de entre indivíduos com licenciatura concluída à data de abertura do concurso há pelo menos 12 ou 8 anos, consoante se trate de cargos de direcção superior de 1.º ou de 2.º grau, vinculados ou não à Administração Pública, que possuam competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respectivas funções.\n\n2 - A iniciativa do procedimento concursal referido no número anterior cabe ao membro do Governo com poder de direcção ou de superintendência e tutela sobre o serviço ou órgão em que se integra o cargo a preencher, competindo-lhe, neste âmbito, definir o perfil, experiência profissional e competências de gestão exigíveis aos candidatos.\n\n3 - O procedimento concursal é efectuado pela Comissão de Recrutamento e Selecção para a Administração Pública, adiante designada por Comissão, entidade independente, que funciona junto do membro do Governo responsável pela área da Administração Pública, nos termos dos respectivos Estatutos.\n\n4 - A Comissão estabelece, nos termos das suas competências, os critérios aplicáveis na selecção de candidatos a cargos de direcção superior, designadamente as competências de liderança, colaboração, motivação, orientação estratégica, orientação para resultados, orientação para o cidadão e serviço público, gestão da mudança e inovação, sensibilidade social, experiência profissional, formação académica e formação profissional."
+  },
+  "53154575": {
+   "fragment_id": "40917175",
+   "type": 11,
+   "heading": "Artigo 19.º — Selecção e provimento nos cargos de direcção superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Selecção e provimento nos cargos de direcção superior\n\n1 - O procedimento concursal é obrigatoriamente publicitado na bolsa de emprego público (BEP) e, pelo menos, na plataforma electrónica do Governo e em duas outras plataformas electrónicas, durante 10 dias, com a indicação dos requisitos formais de provimento, do perfil exigido e dos métodos de selecção, que incluem, necessariamente, a avaliação curricular e, aos candidatos habilitados para o procedimento, a realização de entrevistas de avaliação pela Comissão.\n\n2 - A publicitação referida no número anterior é precedida de aviso a publicar na 2.ª série do Diário da República, podendo ainda ser divulgado em órgão de imprensa de expansão nacional.\n\n3 - A promoção das publicitações previstas nos números anteriores é assegurada pela Direcção-Geral da Administração e do Emprego Público, em conformidade com as instruções da Comissão.\n\n4 - O júri é constituído:\n\na) Pelo presidente da Comissão, que tem voto de qualidade, ou por quem este designe, que preside;\n\nb) Por um vogal permanente da Comissão;\n\nc) Por um vogal não permanente da Comissão, em exercício de funções em órgão ou serviço integrado na orgânica do ministério a que respeita o procedimento concursal, mas em órgão ou serviço não coincidente com este;\n\nd) Pelo perito cooptado pelos anteriores de uma bolsa de peritos que funciona junto da Comissão, em exercício de funções em órgão ou serviço integrado na orgânica do ministério a que respeita o procedimento concursal, mas em órgão ou serviço não coincidente com este.\n\n5 - Na selecção dos candidatos o júri procede à aplicação dos métodos de selecção definidos no respectivo aviso de abertura de procedimento concursal.\n\n6 - O júri, após conclusão da aplicação dos métodos de selecção previstos, elabora a proposta de designação indicando três candidatos, ordenados por ordem alfabética e acompanhados dos fundamentos da escolha de cada um deles, e apresenta-a ao membro do Governo que tenha o poder de direcção ou de superintendência e tutela sobre o serviço ou órgão a que respeita o procedimento concursal, que previamente à designação pode realizar uma entrevista de avaliação aos três candidatos.\n\n7 - Na situação de procedimento concursal em que não haja um número suficiente de candidatos para os efeitos do número anterior ou em que o mesmo fique deserto, deve a Comissão proceder à repetição de aviso de abertura referente ao mesmo procedimento concursal, nos termos do n.º 1 e seguintes e, verificando-se o mesmo resultado, pode o membro do Governo competente para o provimento proceder a recrutamento por escolha, de entre indivíduos que reúnam o perfil definido pelo aviso de abertura.\n\n8 - Os cargos de direcção superior são providos por despacho do membro do Governo competente, em regime de comissão de serviço, por um período de cinco anos, renovável por igual período sem necessidade de recurso a procedimento concursal.\n\n9 - A duração da comissão de serviço e das respectivas renovações não pode exceder, na globalidade, 10 anos consecutivos, não podendo o dirigente ser provido no mesmo cargo do respectivo serviço antes de decorridos 5 anos.\n\n10 - O provimento nos cargos de direcção superior produz efeitos à data do despacho de designação, salvo se outra data for expressamente fixada.\n\n11 - O despacho de designação, devidamente fundamentado, é publicado no Diário da República, juntamente com uma nota relativa ao currículo académico e profissional do designado.\n\n12 - A designação dispensa a autorização do serviço ou órgão de origem do designado.\n\n13 - O procedimento concursal é urgente e de interesse público, não havendo lugar a audiência de interessados.\n\n14 - Não há efeito suspensivo do recurso administrativo interposto do despacho de designação ou de qualquer outro acto praticado no decurso do procedimento.\n\n15 - A propositura de providência cautelar de suspensão da eficácia de um acto administrativo praticado no procedimento não tem por efeito a proibição da execução desse acto.\n\n16 - Em caso de suspensão judicial da eficácia do despacho de designação, é aplicável o disposto no artigo 27.º"
+  },
+  "53154675": {
+   "fragment_id": "40917275",
+   "type": 11,
+   "heading": "Artigo 19.º-A — Carta de missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º-A — Carta de missão\n\n1 - Com o aviso de abertura do concurso é publicada a carta de missão, elaborada pelo membro do Governo que dirige ou superintende e tutela o serviço ou órgão em que se insere o cargo a preencher, que constitui um compromisso de gestão.\n\n2 - Na carta de missão são definidos de forma explícita os objectivos, devidamente quantificados e calendarizados, a atingir no decurso do exercício de funções, sem prejuízo da sua revisão, sempre que tal se justifique, por alterações de contexto geral ou por circunstâncias específicas que o determinem, mediante orientação do respectivo membro do Governo.\n\n3 - Os candidatos devem juntar uma declaração à sua candidatura, elaborada em conformidade com modelo aprovado por Regulamento da Comissão de Recrutamento e Selecção para a Administração Pública, aceitando os termos da carta de missão, sob pena de não aceitação da candidatura."
+  },
+  "53154775": {
+   "fragment_id": "39443475",
+   "type": 8,
+   "heading": "Secção II — Recrutamento, selecção e provimento dos cargos de direcção intermédia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Recrutamento, selecção e provimento dos cargos de direcção intermédia"
+  },
+  "53154875": {
+   "fragment_id": "40917375",
+   "type": 11,
+   "heading": "Artigo 20.º — Área de recrutamento dos cargos de direcção intermédia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Área de recrutamento dos cargos de direcção intermédia\n\n1 - Os titulares dos cargos de direcção intermédia são recrutados, por procedimento concursal, nos termos do artigo seguinte, de entre trabalhadores em funções públicas contratados ou designados por tempo indeterminado, licenciados, dotados de competência técnica e aptidão para o exercício de funções de direcção, coordenação e controlo que reúnam seis ou quatro anos de experiência profissional em funções, cargos, carreiras ou categorias para cujo exercício ou provimento seja exigível uma licenciatura, consoante se trate de cargos de direcção intermédia de 1.º ou de 2.º grau, respectivamente.\n\n2 - Os diplomas orgânicos ou estatutários dos serviços e órgãos públicos abrangidos pela presente lei estabelecem, expressamente, a área e os requisitos de recrutamento dos titulares dos cargos de direcção intermédia de 3.º grau ou inferior.\n\n3 - Sem prejuízo do disposto no número anterior, a área de recrutamento para os cargos de direcção intermédia de unidades orgânicas cujas competências sejam essencialmente asseguradas por pessoal integrado em carreiras ou categorias de grau 3 de complexidade funcional a que corresponda uma actividade específica é alargada a trabalhadores integrados nessas carreiras titulares de curso superior que não confira grau de licenciatura.\n\n4 - Quando as leis orgânicas expressamente o prevejam, o recrutamento para os cargos de direcção intermédia pode também ser feito de entre trabalhadores em funções públicas integrados em carreiras específicas dos respectivos serviços ou órgãos, ainda que não possuidores de curso superior.\n\n5 - Nos casos em que o procedimento concursal fique deserto ou em que nenhum dos candidatos reúna condições para ser designado, nos termos do n.º 7 do artigo seguinte, os titulares dos cargos de direcção intermédia podem igualmente ser recrutados, em subsequente procedimento concursal, de entre indivíduos licenciados sem vínculo à Administração Pública que reúnam os requisitos previstos no n.º 1 e desde que:\n\na) O serviço ou órgão interessado o tenha solicitado, em proposta fundamentada, ao membro do Governo responsável pela área da Administração Pública;\n\nb) O recrutamento caiba dentro da quota anualmente fixada para o efeito pelo membro do Governo responsável pela área da Administração Pública;\n\nc) O membro do Governo responsável pela área da Administração Pública o tenha autorizado."
+  },
+  "53154975": {
+   "fragment_id": "40917475",
+   "type": 11,
+   "heading": "Artigo 21.º — Selecção e provimento dos cargos de direcção intermédia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Selecção e provimento dos cargos de direcção intermédia\n\n1 - O procedimento concursal é publicitado na bolsa de emprego público durante 10 dias, com a indicação dos requisitos formais de provimento, do perfil exigido, tal qual se encontra caracterizado no mapa de pessoal e no regulamento interno, da composição do júri e dos métodos de selecção, que incluem, necessariamente, a realização de uma fase final de entrevistas públicas.\n\n2 - A publicitação referida no número anterior é precedida de aviso a publicar em órgão de imprensa de expansão nacional e na 2.ª série do Diário da República, em local especialmente dedicado a concursos para cargos dirigentes, com a indicação do cargo a prover e do dia daquela publicitação.\n\n3 - O júri é constituído:\n\na) Pelo titular do cargo de direcção superior de 1.º grau do serviço ou órgão em cujo quadro se encontre o cargo a prover ou por quem ele designe, que preside;\n\nb) Por dirigente de nível e grau igual ou superior ao do cargo a prover em exercício de funções em diferente serviço ou órgão, designado pelo respectivo dirigente máximo; e\n\nc) Por indivíduo de reconhecida competência na área funcional respectiva, designado por estabelecimento de ensino de nível superior ou por associação pública representativa de profissão correspondente.\n\n4 - Para a selecção dos titulares dos cargos dirigentes intermédios de 3.º grau e inferior, o júri é constituído:\n\na) Pelo titular do cargo de direcção superior de 1.º grau do serviço ou órgão em cujo mapa se encontre o cargo a prover ou por quem ele designe, que preside;\n\nb) Por dois dirigentes de nível e grau igual ou superior ao cargo a prover, um deles em exercício no serviço ou órgão em cujo mapa se encontre o cargo a prover e outro em diferente serviço ou órgão, ambos designados pelo respectivo dirigente máximo.\n\n5 - Ao elemento do júri referido na alínea c) do n.º 3 que não seja vinculado à Administração Pública é devida remuneração nos termos fixados pelo membro do Governo responsável pela área da Administração Pública.\n\n6 - O júri, findo o procedimento concursal, elabora a proposta de designação, com a indicação das razões por que a escolha recaiu no candidato proposto, abstendo-se de ordenar os restantes candidatos.\n\n7 - O júri pode considerar que nenhum dos candidatos reúne condições para ser designado.\n\n8 - A pedido do serviço ou órgão interessado, o procedimento concursal é assegurado por entidade pública competente, integrada em diferente ministério, com dispensa de constituição de júri, mas com intervenção do indivíduo previsto na alínea c) do n.º 3, sendo, nesse caso, aplicável, com as devidas adaptações, o disposto nos n.os 1, 2, 4, 5, 6 e 7.\n\n9 - Os titulares dos cargos de direcção intermédia são providos por despacho do dirigente máximo do serviço ou órgão, em comissão de serviço, pelo período de três anos, renovável por iguais períodos de tempo.\n\n10 - O provimento nos cargos de direcção intermédia produz efeitos à data do despacho de designação, salvo se outra data for expressamente fixada.\n\n11 - O despacho de designação, devidamente fundamentado, é publicado no Diário da República juntamente com uma nota relativa ao currículo académico e profissional do designado.\n\n12 - A designação dispensa a autorização do serviço ou órgão de origem do designado.\n\n13 - O procedimento concursal é urgente e de interesse público, não havendo lugar a audiência de interessados.\n\n14 - Não há efeito suspensivo do recurso administrativo interposto do despacho de designação ou de qualquer outro acto praticado no decurso do procedimento.\n\n15 - A propositura de providência cautelar de suspensão da eficácia de um acto administrativo praticado no procedimento não tem por efeito a proibição da execução desse acto.\n\n16 - Em caso de suspensão judicial da eficácia do despacho de designação, é aplicável o disposto no artigo 27.º"
+  },
+  "53155075": {
+   "fragment_id": "39443575",
+   "type": 8,
+   "heading": "Secção III — Renovação da comissão de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Renovação da comissão de serviço"
+  },
+  "53155175": {
+   "fragment_id": "40917575",
+   "type": 11,
+   "heading": "Artigo 22.º — Renovação da comissão de serviço dos titulares dos cargos de direcção superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Renovação da comissão de serviço dos titulares dos cargos de direcção superior\n\n1 - Para efeitos de eventual renovação da comissão de serviço, os titulares dos cargos de direcção superior darão conhecimento do termo da respectiva comissão de serviço ao membro do Governo competente, com a antecedência mínima de 90 dias.\n\n2 - A comunicação referida no número anterior será acompanhada de relatório dos resultados obtidos durante o exercício do cargo, tendo sempre como referência a carta de missão e os planos e relatórios de actividades, bem como de uma síntese da aplicação do sistema de avaliação do respectivo serviço.\n\n3 - A renovação da comissão de serviço depende dos resultados evidenciados no respectivo exercício."
+  },
+  "53155275": {
+   "fragment_id": "40917675",
+   "type": 11,
+   "heading": "Artigo 23.º — Renovação da comissão de serviço dos titulares dos cargos de direcção intermédia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Renovação da comissão de serviço dos titulares dos cargos de direcção intermédia\n\n1 - Para efeitos de eventual renovação da comissão de serviço, os titulares dos cargos de direcção intermédia darão conhecimento do termo da respectiva comissão de serviço ao dirigente máximo do serviço, com a antecedência mínima de 90 dias.\n\n2 - A renovação da comissão de serviço dependerá da análise circunstanciada do respectivo desempenho e dos resultados obtidos, a qual terá como referência o processo de avaliação do dirigente cessante, assim como de relatório de demonstração das actividades prosseguidas e dos resultados obtidos.\n\n3 - No caso de renovação da comissão de serviço de titulares de cargos de direcção intermédia de 2.º grau ou inferior, a informação a apresentar é confirmada pelo respectivo superior hierárquico."
+  },
+  "53155375": {
+   "fragment_id": "40917775",
+   "type": 11,
+   "heading": "Artigo 24.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Procedimento\n\n1 - A decisão sobre a renovação da comissão de serviço a que se referem os artigos anteriores é comunicada por escrito aos interessados até 60 dias antes do seu termo, sendo acompanhada de determinação para abertura do correspondente procedimento concursal quando aquela não tenha sido renovada.\n\n2 - (Revogado.)\n\n3 - Em caso de não renovação da comissão de serviço, as funções são asseguradas em regime de gestão corrente ou, transitoriamente, em regime de substituição até à designação de novo titular.\n\n4 - O exercício de funções em regime de gestão corrente não poderá exceder o prazo máximo de 90 dias."
+  },
+  "53155475": {
+   "fragment_id": "39443675",
+   "type": 8,
+   "heading": "Secção IV — Cessação da comissão de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Cessação da comissão de serviço"
+  },
+  "53155575": {
+   "fragment_id": "40917875",
+   "type": 11,
+   "heading": "Artigo 25.º — Cessação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Cessação\n\n1 - A comissão de serviço dos titulares dos cargos dirigentes cessa:\n\na) Pelo seu termo, nos casos do n.º 1 do artigo anterior;\n\nb) Pela tomada de posse seguida de exercício, a qualquer título, de outro cargo ou função, salvo nos casos e durante o tempo em que haja lugar a suspensão ou em que seja permitida a acumulação nos termos da presente lei;\n\nc) Por extinção ou reorganização da unidade orgânica, salvo se for expressamente mantida a comissão de serviço no cargo dirigente do mesmo nível que lhe suceda;\n\nd) Nos casos do n.º 7 do artigo 16.º e do n.º 6 do artigo 17.º da presente lei e do n.º 3 do artigo 29.º da Lei n.º 12-A/2008, de 27 de Fevereiro;\n\ne) Por despacho fundamentado numa das seguintes situações:\n\ni) Não realização dos objectivos previstos, designadamente dos constantes da carta de missão;\n\nii) Falta de prestação de informações ou prestação deficiente das mesmas, quando consideradas essenciais para o cumprimento da política global do Governo;\n\niii) Não comprovação superveniente da capacidade adequada a garantir a observação das orientações superiormente fixadas;\n\niv) Necessidade de imprimir nova orientação à gestão dos serviços;\n\nf) Na sequência de procedimento disciplinar em que se tenha concluído pela aplicação de sanção disciplinar;\n\ng) Pela não frequência, por causa que lhes seja imputável, ou pelo não aproveitamento em curso a que se refere o n.º 1 do artigo 12.º;\n\nh) (Revogada.)\n\ni) A requerimento do interessado, apresentado nos serviços com a antecedência mínima de 60 dias, e que se considerará deferido se no prazo de 30 dias a contar da data da sua entrada sobre ele não recair despacho de indeferimento.\n\n2 - A cessação da comissão de serviço com fundamento na alínea e) do número anterior pressupõe a prévia audição do dirigente sobre as razões invocadas, independentemente da organização de qualquer processo.\n\n3 - (Revogado.)\n\n4 - (Revogado.)"
+  },
+  "53155675": {
+   "fragment_id": "40917975",
+   "type": 11,
+   "heading": "Artigo 26.º — Indemnização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Indemnização\n\n1 - Quando a cessação da comissão de serviço se fundamente na extinção ou reorganização da unidade orgânica ou na necessidade de imprimir nova orientação à gestão dos serviços, os dirigentes têm direito a uma indemnização desde que contem, pelo menos, 12 meses seguidos de exercício de funções.\n\n2 - A indemnização referida no número anterior será calculada em função do tempo que faltar para o termo da comissão de serviço e no montante que resultar da diferença entre a remuneração base do cargo dirigente cessante e a remuneração da respectiva categoria de origem.\n\n3 - O montante da indemnização tem como limite máximo o valor correspondente à diferença anual das remunerações, nelas se incluindo os subsídios de férias e de Natal.\n\n4 - O direito à indemnização prevista nos números anteriores só é reconhecido nos casos em que à cessação da comissão de serviço não se siga imediatamente novo exercício de funções dirigentes em cargo de nível igual ou superior ou o exercício de outro cargo público com nível remuneratório igual ou superior.\n\n5 - O exercício das funções referidas no número anterior, no período a que se reporta a indemnização, determina a obrigatoriedade da reposição da importância correspondente à diferença entre o número de meses a que respeite a indemnização percebida e o número de meses que mediar até à nova designação.\n\n6 - Para efeitos do disposto no número anterior, a nova designação será acompanhada de declaração escrita do interessado de que não recebeu ou de que irá proceder à reposição da indemnização recebida, a qual será comunicada aos serviços processadores."
+  },
+  "53155775": {
+   "fragment_id": "40918075",
+   "type": 11,
+   "heading": "Artigo 26.º-A — Suspensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º-A — Suspensão\n\n1 - A comissão de serviço dos titulares dos cargos de direcção superior de 2.º grau e de direcção intermédia suspende-se quando sejam designados para gabinetes de membros do Governo ou equiparados ou em regime de substituição.\n\n2 - A comissão de serviço suspende-se por quatro anos ou enquanto durar o exercício do cargo ou função, se este tiver duração inferior, sendo as funções de origem asseguradas em regime de substituição.\n\n3 - O período de suspensão conta, para todos os efeitos legais, como tempo de serviço prestado no cargo de origem."
+  },
+  "53155875": {
+   "fragment_id": "39443775",
+   "type": 8,
+   "heading": "Secção V — Substituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Substituição"
+  },
+  "53155975": {
+   "fragment_id": "40918175",
+   "type": 11,
+   "heading": "Artigo 27.º — Designação em substituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Designação em substituição\n\n1 - Os cargos dirigentes podem ser exercidos em regime de substituição nos casos de ausência ou impedimento do respectivo titular quando se preveja que estes condicionalismos persistam por mais de 60 dias ou em caso de vacatura do lugar.\n\n2 - A designação em regime de substituição é feita pela entidade competente, devendo ser observados todos os requisitos legais exigidos para o provimento do cargo, com excepção do procedimento concursal a que se referem os artigos 18.º a 21.º\n\n3 - A substituição cessa na data em que o titular retome funções ou passados 90 dias sobre a data da vacatura do lugar, salvo se estiver em curso procedimento tendente à designação de novo titular.\n\n4 - A substituição pode ainda cessar, a qualquer momento, por decisão da entidade competente ou a pedido do substituto, logo que deferido.\n\n5 - O período de substituição conta, para todos os efeitos legais, como tempo de serviço prestado no cargo anteriormente ocupado, bem como no lugar de origem.\n\n6 - O substituto tem direito à totalidade das remunerações e demais abonos e regalias atribuídos pelo exercício do cargo do substituído, independentemente da libertação das respectivas verbas por este, sendo os encargos suportados pelas correspondentes dotações orçamentais."
+  },
+  "53156075": {
+   "fragment_id": "37819375",
+   "type": 1,
+   "heading": "Capítulo III — Direitos e deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Direitos e deveres"
+  },
+  "53156175": {
+   "fragment_id": "39443875",
+   "type": 8,
+   "heading": "Secção I — Direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Direitos"
+  },
+  "53156275": {
+   "fragment_id": "40918275",
+   "type": 11,
+   "heading": "Artigo 28.º — Salvaguarda de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Salvaguarda de direitos\n\n1 - Os titulares de cargos dirigentes gozam, independentemente do seu vínculo de origem, dos direitos gerais reconhecidos aos trabalhadores em funções públicas do serviço ou órgão em que exerçam funções.\n\n2 - O pessoal dirigente conserva o direito ao lugar de origem e ao regime de segurança social por que está abrangido, não podendo ser prejudicado na sua carreira profissional por causa do exercício daquelas funções, relevando para todos os efeitos no lugar de origem o tempo de serviço prestado naquele cargo."
+  },
+  "53156375": {
+   "fragment_id": "40918375",
+   "type": 11,
+   "heading": "Artigo 29.º — Direito à alteração de posicionamento remuneratório na categoria de origem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Direito à alteração de posicionamento remuneratório na categoria de origem\n\n(Revogado.)"
+  },
+  "53156475": {
+   "fragment_id": "40918475",
+   "type": 11,
+   "heading": "Artigo 30.º — Efectivação do direito de acesso na carreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Efectivação do direito de acesso na carreira\n\n(Revogado.)"
+  },
+  "53156575": {
+   "fragment_id": "40918575",
+   "type": 11,
+   "heading": "Artigo 31.º — Estatuto remuneratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Estatuto remuneratório\n\n1 - A remuneração do pessoal dirigente é estabelecida em diploma próprio, o qual poderá determinar níveis diferenciados de remuneração em função do tipo de serviço ou órgão em que exerce funções.\n\n2 - Ao pessoal dirigente são abonadas despesas de representação de montante fixado em despacho do Primeiro-Ministro e do membro do Governo responsável pela área da Administração Pública.\n\n3 - O pessoal dirigente pode, mediante autorização expressa no despacho de designação, optar pelo vencimento ou retribuição base da sua função, cargo ou categoria de origem, não podendo, todavia, exceder, em caso algum, o vencimento base do Primeiro-Ministro.\n\n4 - Os titulares dos cargos de direcção intermédia que não tenham vínculo à Administração Pública não podem optar pelo vencimento ou retribuição base da sua função, cargo ou categoria de origem.\n\n5 - Para efeitos do disposto no n.º 3, é adoptado como referência o vencimento ou retribuição base médio efectivamente percebido durante o ano anterior à data do despacho de designação.\n\n6 - A identificação dos níveis remuneratórios correspondentes às remunerações base dos cargos de direcção intermédia de 3.º grau ou inferior é efectuada no diploma orgânico ou estatutário que os preveja.\n\n7 - Aos titulares de cargos de direcção superior são atribuídos prémios de gestão em termos definidos em decreto regulamentar.\n\n8 - Aos titulares de cargos de direcção intermédia são atribuídos prémios de desempenho nos termos previstos, com as necessárias adaptações, para os trabalhadores que exercem funções públicas."
+  },
+  "53156675": {
+   "fragment_id": "40918675",
+   "type": 11,
+   "heading": "Artigo 32.º — Regime de direito privado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Regime de direito privado\n\n(Revogado.)"
+  },
+  "53156775": {
+   "fragment_id": "40918775",
+   "type": 11,
+   "heading": "Artigo 33.º — Apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Apoio\n\n1 - Aos titulares dos cargos dirigentes são aplicáveis os regimes de patrocínio judiciário e isenção de custas previstos nos Decretos-Leis n.os 148/2000, de 19 de Julho, e 34/2008, de 26 de Fevereiro.\n\n2 - Os titulares dos cargos de direcção superior de 1.º grau podem ser apoiados por um trabalhador que exerça funções de secretariado.\n\n3 - Os trabalhadores que exerçam funções de secretariado são designados, com o seu acordo, por despacho do titular do cargo, afixado no órgão ou no serviço e inserido na respectiva página electrónica, e, sem prejuízo do disposto no número seguinte, cessam aquelas funções, sem quaisquer formalidades, na data da cessação ou da suspensão de funções de quem os designou.\n\n4 - As funções de secretariado cessam, a todo o tempo, por iniciativa do titular do cargo ou do trabalhador.\n\n5 - Os trabalhadores que exerçam funções de secretariado têm direito a um suplemento remuneratório cujo montante pecuniário é fixado na portaria referida no n.º 2 do artigo 68.º da Lei n.º 12-A/2008, de 27 de Fevereiro.\n\n6 - Sem prejuízo do disposto no número anterior, o trabalho prestado fora do período e dos dias normais de trabalho dos trabalhadores que exerçam funções de secretariado não é remunerado."
+  },
+  "53156875": {
+   "fragment_id": "39443975",
+   "type": 8,
+   "heading": "Secção II — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Deveres"
+  },
+  "53156975": {
+   "fragment_id": "40918875",
+   "type": 11,
+   "heading": "Artigo 34.º — Deveres específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Deveres específicos\n\nPara além dos deveres gerais dos trabalhadores do serviço e órgão em que exercem funções, o pessoal dirigente está sujeito aos seguintes deveres específicos:\n\na) Dever de manter informado o Governo, através da via hierárquica competente, sobre todas as questões relevantes referentes aos serviços;\n\nb) Dever de assegurar a conformidade dos actos praticados pelo pessoal do respectivo serviço com o estatuído na lei e com os legítimos interesses dos cidadãos;\n\nc) Dever geral de assiduidade e cumprimento do período normal de trabalho, assim como o dever de a qualquer momento comparecer ao serviço quando chamado."
+  },
+  "53157075": {
+   "fragment_id": "40918975",
+   "type": 11,
+   "heading": "Artigo 35.º — Formação específica supletiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Formação específica supletiva\n\n(Revogado.)"
+  },
+  "53157175": {
+   "fragment_id": "37819475",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "53157275": {
+   "fragment_id": "39444075",
+   "type": 11,
+   "heading": "Artigo 36.º — Prevalência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Prevalência\n\n1 - A presente lei prevalece sobre quaisquer disposições gerais ou especiais relativas aos diversos serviços ou órgãos.\n\n2 - (Revogado.)"
+  },
+  "53157375": {
+   "fragment_id": "39444175",
+   "type": 11,
+   "heading": "Artigo 37.º — Normas transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Normas transitórias\n\n1 - A entrada em vigor da presente lei não prejudica as nomeações do pessoal dirigente existentes àquela data nem a contagem dos respectivos prazos.\n\n2 - A suspensão das comissões de serviço ao abrigo do disposto no artigo 19.º da Lei n.º 49/99, de 22 de Junho, mantém-se até ao termo dos mandatos que lhes deram origem.\n\n3 - As equiparações dos cargos dirigentes feitas antes da entrada em vigor da presente lei consideram-se eficazes para efeitos do disposto nos n.os 3 e 4 do artigo 2.º da mesma.\n\n4 - Mantêm-se válidos os concursos cujos avisos de abertura se encontrem publicados à data de entrada em vigor da presente lei, os quais deverão prosseguir os seus termos ao abrigo da legislação em vigor à data da sua abertura.\n\n5 - Mantém-se em vigor o disposto no artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro.\n\n6 - O disposto no artigo 33.º da Lei n.º 49/99, de 22 de Junho, aplica-se aos dirigentes que se encontrem em funções à data em vigor da presente lei e que preencham os requisitos nele previstos até à cessação da respectiva comissão de serviço."
+  },
+  "53157475": {
+   "fragment_id": "39444275",
+   "type": 11,
+   "heading": "Artigo 38.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Norma revogatória\n\nSão revogadas as Leis n.os 12/96, de 18 de Abril, e 49/99, de 22 de Junho."
+  },
+  "53157575": {
+   "fragment_id": "39444375",
+   "type": 11,
+   "heading": "Artigo 39.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Entrada em vigor\n\nA presente lei entra em vigor no dia 1 do mês seguinte ao da sua publicação."
+  },
+  "53157675": {
+   "fragment_id": "36276475",
+   "type": 14,
+   "heading": "Anexo I — [a que se refere a alínea d) do n.º 1 do artigo 7.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — [a que se refere a alínea d) do n.º 1 do artigo 7.º]\n\nAutorizar a abertura de concursos e praticar todos os actos subsequentes, nomear e exonerar o pessoal do quadro e determinar a conversão da designação provisória em definitiva, bem como autorizar situações de mobilidade e comissões de serviço.\n\nCelebrar, renovar e rescindir contratos de pessoal.\n\nAutorizar a prestação de trabalho extraordinário, nocturno, em dias de descanso e em feriados.\n\nAssinar os termos de aceitação e conferir a posse ao pessoal.\n\nAutorizar a aceitação ou posse em local diferente daquele em que o pessoal foi colocado, prorrogar o respectivo prazo, solicitar que aquelas sejam autorizadas ou conferidas pela autoridade administrativa ou por agente diplomático ou consular e conceder ao pessoal dos serviços externos o direito ao vencimento a partir da data da aceitação ou da posse, independentemente da entrada em exercício das novas funções.\n\nAutorizar a atribuição dos abonos e regalias a que os trabalhadores em funções públicas tenham direito, nos termos da lei.\n\nAutorizar a inscrição e participação do pessoal em congressos, reuniões, seminários, colóquios, cursos de formação ou outras iniciativas semelhantes que decorram em território nacional quando importem custos para o serviço, bem como a inscrição e participação em estágios.\n\nPraticar todos os actos relativos à aposentação do pessoal, salvo no caso de aposentação compulsiva, e, em geral, todos os actos respeitantes ao regime de segurança social, incluindo os referentes a acidentes em serviço.\n\nPraticar os actos da competência dos titulares dos cargos de direcção intermédia relativamente a dirigentes e a pessoal que se encontrem na sua dependência.\n\nAutorizar, dentro dos limites estabelecidos pelo respectivo orçamento anual, transferências de verbas subordinadas à mesma classificação orgânica e a antecipação até dois duodécimos por rubrica, com limites anualmente fixados pelo Ministério das Finanças.\n\nAutorizar a constituição de fundos permanentes das dotações do respectivo orçamento, com excepção das rubricas referentes a pessoal, até ao limite de um duodécimo.\n\nCelebrar contratos de seguro e de arrendamento e autorizar a respectiva actualização, sempre que resulte de imposição legal.\n\nAutorizar deslocações em serviço, qualquer que seja o meio de transporte, bem como o processamento dos correspondentes abonos ou despesas com a aquisição de bilhetes ou títulos de transporte e de ajudas de custo, antecipadas ou não.\n\nAutorizar as despesas resultantes de indemnizações a terceiros ou da recuperação de bens afectos ao serviço danificados por acidentes com intervenção de terceiros.\n\nAutorizar despesas eventuais de representação dos serviços, bem como as de carácter excepcional.\n\nQualificar como acidente em serviço os sofridos pelo pessoal e autorizar o processamento das respectivas despesas.\n\nAutorizar o processamento de despesas cujas facturas, por motivo justificado, dêem entrada nos serviços para além do prazo regulamentar."
+  },
+  "53157775": {
+   "fragment_id": "36276575",
+   "type": 14,
+   "heading": "Anexo II — [a que se refere a alínea e) do n.º 1 e a alínea h) do n.º 2 do artigo 8.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — [a que se refere a alínea e) do n.º 1 e a alínea h) do n.º 2 do artigo 8.º]\n\nAutorizar o exercício de funções a tempo parcial. Justificar ou injustificar faltas. Conceder licenças e autorizar o regresso à actividade, com excepção da licença sem vencimento por um ano por motivo de interesse público e da licença de longa duração.\n\nAutorizar o gozo e a acumulação de férias e aprovar o respectivo plano anual.\n\nAutorizar o abono do vencimento de exercício perdido por motivo de doença.\n\nAutorizar a inscrição e participação do pessoal em congressos, reuniões, seminários, colóquios, cursos de formação em regime de autoformação ou outras iniciativas semelhantes que decorram em território nacional quando não importem custos para o serviço.\n\nAutorizar o pessoal a comparecer em juízo quando requisitado nos termos da lei de processo."
+  },
+  "53157875": {
+   "fragment_id": "36276675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 28 de Outubro de 2011.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 13 de Dezembro de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 14 de Dezembro de 2011.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "212123870": {
+   "fragment_id": "39441075",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e missão",
+   "in_force_from": "2015-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 128/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/lei/128-2015-70179157), em vigor a partir de 2015-10-01"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza e missão\n\n1 - A Comissão de Recrutamento e Selecção para a Administração Pública, adiante designada por Comissão, é uma entidade independente que funciona junto do membro do Governo responsável pela área da Administração Pública.\n\n2 - A Comissão tem por missão o recrutamento e a seleção de candidatos para cargos de direção superior da administração central do Estado abrangidos pelo disposto nos artigos 1.º e 2.º da Lei n.º 2/2004, de 15 de janeiro, ou para cargos a estes equiparados a qualquer título, no respeito pelas exclusões previstas no n.º 5 do artigo 1.º daquela lei.\n\n3 - A Comissão tem ainda por missão a avaliação, nos termos previstos no Estatuto do Gestor Público, aprovado pelo Decreto-Lei n.º 71/2007, de 27 de março, dos currículos e da adequação das competências das personalidades indigitadas para exercer cargos de gestor público ou cargos a estes equiparados a qualquer título.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 128/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/lei/128-2015-70179157), em vigor a partir de 2015-10-01"
+  },
+  "212123871": {
+   "fragment_id": "39441475",
+   "type": 11,
+   "heading": "Artigo 5.º — Composição",
+   "in_force_from": "2015-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 128/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/lei/128-2015-70179157), em vigor a partir de 2015-10-01"
+   ],
+   "markdown": "###### Artigo 5.º — Composição\n\n1 - A Comissão é composta por:\n\na) Um presidente;\n\nb) Três a cinco vogais permanentes;\n\nc) Um vogal não permanente por cada ministério, e respetivos suplentes, em número de dois, e em exercício de funções em órgão ou serviço não coincidente com o do vogal, mas integrado na orgânica do mesmo ministério.\n\n2 - O presidente é designado de entre personalidades de reconhecidos mérito profissional, credibilidade e integridade pessoal.\n\n3 - Os vogais permanentes são designados de entre personalidades de reconhecidos mérito profissional, credibilidade e integridade pessoal, cuja actividade tenha sido exercida preferencialmente na área dos recursos humanos ou da Administração Pública.\n\n4 - Os vogais não permanentes e respectivos suplentes são designados de entre trabalhadores em funções públicas com reconhecidos mérito profissional, credibilidade e integridade pessoal, cuja actividade tenha sido exercida preferencialmente na área dos recursos humanos.\n\n5 - Junto da Comissão funciona uma bolsa de peritos, composta por 20 a 50 membros, designados de entre trabalhadores em funções públicas com reconhecidos mérito profissional, credibilidade e integridade pessoal, que apoiam a Comissão em matérias técnicas específicas e participam nos júris dos procedimentos concursais para cargos de direcção superior na Administração Pública.\n\n6 - Para efeitos do disposto no número anterior, 10 % da bolsa de peritos é obrigatoriamente integrada por técnicos indicados pela Direção-Geral da Qualificação dos Trabalhadores em Funções Públicas (INA), de entre personalidades que nela desenvolvam funções de formação.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 128/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/lei/128-2015-70179157), em vigor a partir de 2015-10-01"
+  },
+  "212123872": {
+   "fragment_id": "39441575",
+   "type": 11,
+   "heading": "Artigo 6.º — Provimento",
+   "in_force_from": "2015-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 128/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/lei/128-2015-70179157), em vigor a partir de 2015-10-01"
+   ],
+   "markdown": "###### Artigo 6.º — Provimento\n\n1 - O presidente da Comissão e os vogais permanentes são providos, após audição pela Assembleia da República, por resolução do Conselho de Ministros, sob proposta do membro do Governo responsável pela área da Administração Pública, em regime de comissão de serviço por um período de cinco e quatro anos, respectivamente, não podendo os mesmos titulares ser providos no mesmo cargo antes de decorrido igual período.\n\n2 - Os vogais não permanentes e os respetivos suplentes, bem como os peritos que integram a bolsa de peritos, são designados por despacho do membro do Governo responsável pela área da Administração Pública e daquele que detenha o poder de direção ou de superintendência e tutela sobre o serviço ou órgão a que se encontram vinculados, por um período de três anos, não podendo o mesmo titular ser designado para a mesma função antes de decorrido igual período.\n\n3 - (Revogado.)\n\n4 - O provimento do presidente da Comissão deve garantir a alternância de género e o provimento dos vogais permanentes deve assegurar a representação mínima de 33 % de cada género.\n\n5 - Os membros da Comissão e da bolsa de peritos cessam funções com a posse dos novos membros designados para ocupar os respectivos lugares.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 128/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/lei/128-2015-70179157), em vigor a partir de 2015-10-01"
+  },
+  "212123873": {
+   "fragment_id": "39442075",
+   "type": 11,
+   "heading": "Artigo 11.º — Competências",
+   "in_force_from": "2015-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 128/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/lei/128-2015-70179157), em vigor a partir de 2015-10-01"
+   ],
+   "markdown": "###### Artigo 11.º — Competências\n\nNo âmbito das suas atribuições, compete à Comissão, nomeadamente:\n\na) Estabelecer, por regulamento, as regras aplicáveis à avaliação de perfis, competências, experiência, conhecimentos, formação académica e formação profissional aplicáveis na selecção de candidatos a cargos de direcção superior na Administração Pública;\n\nb) Proceder, mediante iniciativa dos departamentos governamentais envolvidos, à abertura e desenvolvimento dos procedimentos de recrutamento para cargos de direcção superior na Administração Pública, de acordo com os perfis genericamente definidos naquela iniciativa;\n\nc) Estabelecer os métodos de seleção a aplicar nos procedimentos concursais, havendo sempre lugar à realização de avaliação curricular e entrevista de avaliação, podendo a Comissão optar ainda pela aplicação de outros métodos de seleção previstos para o estabelecimento de vínculos de emprego público na Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, alterada pela Lei n.º 82-B/2014, de 31 de dezembro;\n\nd) Apoiar a elaboração e o desenvolvimento da política global e sectorial com incidência nos quadros de direcção superior da Administração Pública e participar na sua execução;\n\ne) Promover atividades de pesquisa e de confirmação de competências relativamente a personalidades que apresentem perfil adequado para as funções de cargos de direção superior na Administração Pública;\n\nf) Promover as boas práticas de gestão e ética para titulares de cargos de direcção superior na Administração Pública;\n\ng) Promover a aprovação e adopção de princípios orientadores para códigos de conduta destinados a titulares de cargos de direcção superior na Administração Pública;\n\nh) Cooperar com organizações de âmbito internacional, comunitário e demais órgãos congéneres estrangeiros em matérias de recrutamento e selecção na Administração Pública e de boas práticas e códigos de conduta dos cargos de direcção superior;\n\ni) Cooperar com entidades públicas e privadas de níveis nacional, regional e local em matérias de recrutamento e selecção na Administração Pública e de boas práticas e códigos de conduta dos cargos de direcção superior.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 128/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/lei/128-2015-70179157), em vigor a partir de 2015-10-01"
+  },
+  "212302477": {
+   "fragment_id": "212304068",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Competências do presidente",
+   "in_force_from": "2015-10-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 128/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/lei/128-2015-70179157), em vigor a partir de 2015-10-01"
+   ],
+   "markdown": "###### Artigo 11.º-A — Competências do presidente\n\nCompete ao presidente da Comissão:\n\na) Dirigir a atividade da Comissão;\n\nb) Convocar e presidir às reuniões do plenário da Comissão, constituído pelo presidente, pelos vogais permanentes e pelos vogais não permanentes efetivos;\n\nc) Presidir à comissão técnica permanente, constituída pelo presidente e pelos vogais permanentes;\n\nd) Representar a Comissão, interna e externamente;\n\ne) Exercer as responsabilidades de gestão da Comissão, nomeadamente nas áreas financeira e administrativa;\n\nf) Exercer as competências que não estejam expressamente cometidas a outros órgãos da Comissão.\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 128/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/lei/128-2015-70179157), em vigor a partir de 2015-10-01"
+  },
+  "212302478": {
+   "fragment_id": "39442175",
+   "type": 11,
+   "heading": "Artigo 12.º — Regulamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regulamentos\n\n1 - Compete à Comissão aprovar os regulamentos necessários à boa execução do disposto nos presentes Estatutos e na Lei n.º 2/2004, de 15 de Janeiro.\n\n2 - Os regulamentos da Comissão são publicados na 2.ª série do Diário da República."
+  },
+  "212123874": {
+   "fragment_id": "39442275",
+   "type": 11,
+   "heading": "Artigo 13.º — Funcionamento",
+   "in_force_from": "2015-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 128/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/lei/128-2015-70179157), em vigor a partir de 2015-10-01"
+   ],
+   "markdown": "###### Artigo 13.º — Funcionamento\n\n1 - O apoio administrativo ao funcionamento da Comissão é assegurado pela secretaria-geral do ministério responsável pela área da Administração Pública.\n\n2 - A Direção-Geral da Administração e do Emprego Público e o INA prestam apoio técnico e operacional à Comissão, sempre que solicitado e nos termos a definir em regulamento.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 128/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/lei/128-2015-70179157), em vigor a partir de 2015-10-01"
+  },
+  "212302475": {
+   "fragment_id": "39442475",
+   "type": 11,
+   "heading": "Artigo 15.º — Dever de sigilo",
+   "in_force_from": "2015-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 128/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/lei/128-2015-70179157), em vigor a partir de 2015-10-01"
+   ],
+   "markdown": "###### Artigo 15.º — Dever de sigilo\n\n1 - Os membros da Comissão, bem como o pessoal que lhe preste apoio e outros colaboradores eventuais, estão especialmente obrigados ao dever de sigilo nos termos da lei.\n\n2 - O dever de sigilo comporta, designadamente, a obrigação de não divulgação pública dos factos, circunstâncias e critérios do júri, bem como da identidade dos candidatos até à decisão final de designação.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 128/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/lei/128-2015-70179157), em vigor a partir de 2015-10-01"
+  },
+  "212302476": {
+   "fragment_id": "39442675",
+   "type": 11,
+   "heading": "Artigo 17.º — Informação e publicidade",
+   "in_force_from": "2015-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 128/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/lei/128-2015-70179157), em vigor a partir de 2015-10-01"
+   ],
+   "markdown": "###### Artigo 17.º — Informação e publicidade\n\n1 - A Comissão elabora e remete, anualmente, à Assembleia da República, um relatório sobre a sua atividade, do qual consta, designadamente, informação não personalizada sobre os procedimentos concursais e de emissão de pareceres.\n\n2 - A Comissão deve disponibilizar no respectivo sítio na Internet toda a informação relevante a seu respeito, nomeadamente as normas que a regulam e a sua composição, incluindo os elementos biográficos e a remuneração dos seus membros, e a legislação e regulamentação aplicável ao recrutamento e selecção para a Administração Pública.\n\n3 - A Comissão deve garantir a disponibilidade em base de dados informatizada de todos os procedimentos concursais para cargos de direcção superior da Administração Pública.\n\n4 - A avaliação dos currículos e da adequação das competências das personalidades designadas na sequência de concursos que tenham ficado desertos ou das indigitadas para exercer cargos de gestor público ou cargos a estes equiparados a qualquer título, efetuada pela Comissão, apenas é publicitada, na sua parte conclusiva, nos casos de efetiva designação.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 128/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/lei/128-2015-70179157), em vigor a partir de 2015-10-01"
+  }
+ }
+}

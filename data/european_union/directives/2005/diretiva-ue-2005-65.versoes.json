@@ -1,0 +1,506 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32005L0065:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005L0065-20190726",
+ "dre_path": null,
+ "source_lastmod": "2019-07-26",
+ "versions": [
+  {
+   "date": "2005-11-25",
+   "future": false,
+   "celex": "32005L0065",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "658b10899ed245ab",
+    "069bdeece8b36272",
+    "da3cbca4f7d39d47",
+    "622dababcf678eb5",
+    "ccb6281b485d3834",
+    "a92675d6cb8d93a5",
+    "b717f57fdc8f9260",
+    "33dc8e05461a81ba",
+    "e90b80bef024e864",
+    "672e76cb1352f08c",
+    "f90fe1fe633244fe",
+    "dac6db4362786b4e",
+    "750b05369cb8d829",
+    "2660acfa82f8830e",
+    "4c5b27a53856c2d8",
+    "d6b434ccd046a530",
+    "1cd46489f7e5528f",
+    "2597da42f2e15510",
+    "1ff11e98103f2036",
+    "6cb18266d655b322",
+    "cbf66f9be2cd20d7",
+    "ffd20c403b589421",
+    "07711ffe5cbc9783"
+   ]
+  },
+  {
+   "date": "2009-04-20",
+   "future": false,
+   "celex": "02005L0065-20090420",
+   "acts": [
+    {
+     "id": "eu:celex:32009R0219:por",
+     "title": "REGULAMENTO (CE) N. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009",
+     "published": null,
+     "celex": "32009R0219"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 14.º — Adaptações",
+    "Altera Artigo 15.º — Procedimento de comité",
+    "Altera Artigo 16.º — Confidencialidade e divulgação de informações",
+    "Altera Artigo 21.º — Destinatários",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita AVALIAÇÃO DA SEGURANÇA DO PORTO",
+    "Adita ANEXO II",
+    "Adita PLANO DE SEGURANÇA DO PORTO",
+    "Adita ANEXO III",
+    "Adita REQUISITOS BÁSICOS DAS ACÇÕES DE FORMAÇÃO PARA A SEGURANÇA",
+    "Adita ANEXO IV",
+    "Adita CONDIÇÕES A PREENCHER PELAS ORGANIZAÇÕES DE SEGURANÇA RECONHECIDAS"
+   ],
+   "fragments": [
+    "31934e072c405af8",
+    "069bdeece8b36272",
+    "da3cbca4f7d39d47",
+    "622dababcf678eb5",
+    "ccb6281b485d3834",
+    "a92675d6cb8d93a5",
+    "b717f57fdc8f9260",
+    "33dc8e05461a81ba",
+    "e90b80bef024e864",
+    "672e76cb1352f08c",
+    "f90fe1fe633244fe",
+    "dac6db4362786b4e",
+    "750b05369cb8d829",
+    "2660acfa82f8830e",
+    "8593e764b160a762",
+    "37b76eee0933c612",
+    "1c1fc3867a78c5c1",
+    "2597da42f2e15510",
+    "1ff11e98103f2036",
+    "6cb18266d655b322",
+    "cbf66f9be2cd20d7",
+    "1c817c64f52220c2",
+    "d664376e2a8dcecd",
+    "9036fb1de648b342",
+    "852174729551523b",
+    "57ad8ddc9f5eb197",
+    "720af75c92791b10",
+    "28b89f8d5be8fbbe",
+    "e03a0eb4d5b2eef3",
+    "b6d396036e275d63",
+    "f3758c695d799dfd"
+   ]
+  },
+  {
+   "date": "2019-07-26",
+   "future": false,
+   "celex": "02005L0065-20190726",
+   "acts": [
+    {
+     "id": "eu:celex:32019R1243:por",
+     "title": "REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019",
+     "published": null,
+     "celex": "32019R1243"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 16.º — Confidencialidade e divulgação de informações",
+    "Altera Notas",
+    "Adita Artigo 14.º — Alteração dos anexos I a IV",
+    "Adita Artigo 14.º-A — Exercício da delegação",
+    "Adita Artigo 14.º-B — Procedimento de urgência",
+    "Suprime Artigo 14.º — Adaptações",
+    "Suprime Artigo 15.º — Procedimento de comité"
+   ],
+   "fragments": [
+    "cee07c2946cf72ce",
+    "069bdeece8b36272",
+    "da3cbca4f7d39d47",
+    "622dababcf678eb5",
+    "ccb6281b485d3834",
+    "a92675d6cb8d93a5",
+    "b717f57fdc8f9260",
+    "33dc8e05461a81ba",
+    "e90b80bef024e864",
+    "672e76cb1352f08c",
+    "f90fe1fe633244fe",
+    "dac6db4362786b4e",
+    "750b05369cb8d829",
+    "2660acfa82f8830e",
+    "ca80ca9f13e6586d",
+    "c3a43eaa17a6e7bb",
+    "3e855f070737ce9d",
+    "6cc8b6af14ff4cae",
+    "2597da42f2e15510",
+    "1ff11e98103f2036",
+    "6cb18266d655b322",
+    "cbf66f9be2cd20d7",
+    "1c817c64f52220c2",
+    "d664376e2a8dcecd",
+    "9036fb1de648b342",
+    "852174729551523b",
+    "57ad8ddc9f5eb197",
+    "720af75c92791b10",
+    "28b89f8d5be8fbbe",
+    "e03a0eb4d5b2eef3",
+    "b6d396036e275d63",
+    "c0f562979a6f4b2d"
+   ]
+  }
+ ],
+ "fragments": {
+  "658b10899ed245ab": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Outubro de 2005\n\nrelativa ao reforço da segurança nos portos\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 2 do artigo 80.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/d9776dd4-364e-4c37-9144-615c9d278872.0017.03/DOC_1#ntr1-L_2005310PT.01002801-E0001),\n\nTendo em conta o parecer do Comité das Regiões [([^2])](http://publications.europa.eu/resource/cellar/d9776dd4-364e-4c37-9144-615c9d278872.0017.03/DOC_1#ntr2-L_2005310PT.01002801-E0002),\n\nDeliberando nos termos do artigo 251.º do Tratado [([^3])](http://publications.europa.eu/resource/cellar/d9776dd4-364e-4c37-9144-615c9d278872.0017.03/DOC_1#ntr3-L_2005310PT.01002801-E0003),\n\nConsiderando o seguinte:\n\n(1) Os incidentes de segurança resultantes do terrorismo contam-se entre as ameaças mais graves para os ideais de democracia, de liberdade e de paz que constituem a própria essência da União Europeia.\n\n(2) As pessoas, as infra-estruturas e os equipamentos nos portos deverão ser protegidos contra os incidentes de segurança e os respectivos efeitos devastadores. Essa protecção beneficiará os utilizadores dos transportes, a economia e o conjunto da sociedade.\n\n(3) O Parlamento Europeu e o Conselho da União Europeia adoptaram o Regulamento (CE) n.º 725/2004, de 31 de Março de 2004, relativo ao reforço da segurança dos navios e das instalações portuárias [([^4])](http://publications.europa.eu/resource/cellar/d9776dd4-364e-4c37-9144-615c9d278872.0017.03/DOC_1#ntr4-L_2005310PT.01002801-E0004). As medidas de protecção do transporte marítimo previstas nesse regulamento são apenas uma parte das medidas necessárias para garantir um nível de segurança adequado em toda a cadeia de transporte conexa. O âmbito de aplicação desse regulamento limita-se às medidas de segurança a bordo dos navios e na interface navio/porto imediata.\n\n(4) A fim de assegurar a maior protecção possível dos sectores marítimo e portuário, deverão introduzir-se medidas de segurança nos portos, que abranjam cada porto no âmbito dos limites definidos pelo Estado-Membro em causa, assegurando desse modo, através do reforço da segurança nas zonas de actividade portuária, uma maior eficácia das medidas de segurança instituídas nos termos do Regulamento (CE) n.º 725/2004. Estas medidas deverão ser aplicáveis a todos os portos que alberguem uma ou mais instalações portuárias abrangidas pelo Regulamento (CE) n.º 725/2004.\n\n(5) Os objectivos de segurança enunciados na presente directiva deverão ser realizados mediante a adopção de medidas adequadas, sem prejuízo das disposições dos Estados-Membros em matéria de segurança nacional e das medidas que possam ser tomadas com base no título VI do Tratado da União Europeia.\n\n(6) Os Estados-Membros deverão basear-se em avaliações pormenorizadas da segurança para delimitar com precisão a área portuária sensível em termos de segurança, bem como as medidas necessárias para garantir a segurança adequada do porto. Essas medidas deverão ser função do nível de segurança instituído e reflectir o perfil de risco das diferentes zonas do porto.\n\n(7) Os Estados-Membros deverão aprovar planos de segurança portuária que integrem as conclusões da avaliação da segurança do porto. A eficácia de medidas de segurança requer igualmente uma clara divisão de tarefas entre todas as partes envolvidas e a realização de exercícios regulares. Essa clara divisão de tarefas e o estabelecimento de procedimentos para a realização de exercícios no quadro do plano de segurança do porto contribuirão significativamente para a eficácia das medidas de segurança portuária preventivas e correctivas.\n\n(8) Os navios ro-ro são particularmente vulneráveis a incidentes de segurança, em especial se transportarem simultaneamente passageiros e carga. Convirá prever medidas adequadas, com base numa avaliação do risco, que assegurem que os veículos de passageiros ou mercadorias que embarquem em navios ro-ro num serviço doméstico ou internacional não ponham em perigo o navio, os passageiros, a tripulação e a carga. Essas medidas deverão ser executadas de forma a perturbar o menos possível o desenrolar das operações.\n\n(9) Os Estados-Membros deverão ter a possibilidade de instituir comités de segurança portuária com a função de facultar aconselhamento sobre questões práticas nos portos abrangidos pela presente directiva.\n\n(10) Os Estados-Membros deverão assegurar que as responsabilidades a nível da segurança do porto sejam claramente reconhecidas por todas as partes envolvidas. Os Estados-Membros deverão verificar a observância das regras de segurança, designar claramente uma autoridade com competência para todos os seus portos, aprovar as avaliações e planos de segurança dos portos, determinar e comunicar, sempre que se justifique, os níveis de segurança, e assegurar que as medidas sejam devidamente comunicadas, aplicadas e coordenadas.\n\n(11) Os Estados-Membros deverão aprovar as avaliações e os planos de segurança e controlar a sua aplicação nos portos. A fim de reduzir ao mínimo o nível de perturbação nos portos e os encargos administrativos dos órgãos de inspecção, o controlo da aplicação da presente directiva pela Comissão deverá ser efectuado juntamente com as inspecções previstas no n.º 4 do artigo 9.º do Regulamento (CE) n.º 725/2004.\n\n(12) Cada Estado-Membro deverá assegurar a existência de um ponto de contacto para a segurança portuária, que será o interlocutor da Comissão e dos restantes Estados-Membros. Os Estados-Membros deverão informar a Comissão sobre quais os portos abrangidos pela presente directiva com base nas avaliações efectuadas em matéria de segurança.\n\n(13) A aplicação efectiva e normalizada das medidas desta política de segurança suscita importantes questões quanto ao seu financiamento. O financiamento de medidas de segurança suplementares não deve provocar distorções da concorrência. Até 30 de Junho de 2006, a Comissão deverá apresentar ao Parlamento Europeu e ao Conselho os resultados de um estudo sobre os custos inerentes às medidas tomadas no âmbito da presente directiva, abordando em particular a forma de repartição dos custos entre as autoridades públicas, as autoridades portuárias e os operadores.\n\n(14) A presente directiva respeita os direitos fundamentais e observa os princípios reconhecidos, nomeadamente, pela Carta dos Direitos Fundamentais da União Europeia.\n\n(15) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^5])](http://publications.europa.eu/resource/cellar/d9776dd4-364e-4c37-9144-615c9d278872.0017.03/DOC_1#ntr5-L_2005310PT.01002801-E0005).\n\n(16) Convirá prever um procedimento de adaptação da presente directiva a fim de ter em conta a evolução dos instrumentos internacionais e, à luz da experiência adquirida, adaptar ou complementar as disposições dos anexos sem alargar o âmbito de aplicação da presente directiva.\n\n(17) Atendendo a que os objectivos da presente directiva, a saber, a introdução equilibrada de medidas adequadas no domínio da política de transporte marítimo e da política portuária, não podem ser suficientemente realizados pelos Estados-Membros e podem, devido à dimensão europeia da presente directiva, ser melhor alcançados ao nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. De acordo com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aqueles objectivos.\n\n(18) Dado que a presente directiva diz respeito aos portos marítimos, as obrigações dela decorrentes não serão aplicáveis à Áustria, à República Checa, à Hungria, ao Luxemburgo e à Eslováquia,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "069bdeece8b36272": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1. A presente directiva tem por objectivo principal o estabelecimento de medidas comunitárias destinadas a reforçar a segurança nos portos face às ameaças de incidentes de segurança. É igualmente objectivo da presente directiva assegurar uma maior eficácia das medidas de segurança instituídas nos termos do Regulamento (CE) n.º 725/2004, reforçando a segurança nos portos.\n\n2. As medidas a que se refere o n.º 1 consistem no seguinte:\n\na) Regras básicas comuns no que se refere às medidas de segurança portuária;\n\nb) Um dispositivo de aplicação das referidas regras;\n\nc) Mecanismos adequados de controlo da conformidade."
+  },
+  "da3cbca4f7d39d47": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. A presente directiva estabelece medidas de segurança que será necessário observar nos portos. Os Estados-Membros poderão aplicar o disposto na presente directiva às zonas relacionadas com os portos.\n\n2. As medidas previstas na presente directiva são aplicáveis a todos os portos situados no território dos Estados-Membros que alberguem uma ou mais instalações portuárias abrangidas por um plano de segurança das instalações portuárias aprovado de acordo com o Regulamento (CE) n.º 725/2004. A presente directiva não é aplicável às instalações militares situadas nos portos.\n\n3. Os Estados-Membros determinarão o perímetro de cada porto para efeitos da presente directiva, tendo devidamente em conta a informação decorrente da avaliação da segurança do porto.\n\n4. Quando o perímetro de uma instalação portuária, na acepção do Regulamento (CE) n.º 725/2004, tenha sido determinado pelo Estado-Membro como abrangendo todo o porto, as disposições pertinentes do Regulamento (CE) n.º 725/2004 prevalecem sobre as disposições da presente directiva."
+  },
+  "622dababcf678eb5": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. «Porto», qualquer área específica em terra e na água, com limites definidos pelos Estados-Membros em que o porto se situe, contendo obras e equipamentos destinados a facilitar as operações de transporte marítimo comercial.\n\n2. «Interface navio/porto», as interacções que ocorrem quando um navio é directa e imediatamente afectado por actividades que implicam o movimento de pessoas ou mercadorias, ou o fornecimento de serviços portuários, de ou para o navio.\n\n3. «Instalação portuária», o sítio em que tem lugar a interface navio/porto; inclui, consoante adequado, os fundeadouros, os cais de espera e os acessos pelo lado do mar.\n\n4. «Ponto de contacto para a segurança portuária», o organismo designado por cada Estado-Membro para ser o interlocutor da Comissão e dos outros Estados-Membros e para facilitar, supervisionar e prestar informações sobre a aplicação das medidas de segurança portuária fixadas na presente directiva.\n\n5. «Autoridade de segurança portuária», a autoridade competente para as questões de segurança num porto."
+  },
+  "ccb6281b485d3834": {
+   "fragment_id": "Artigo 4.º — Coordenação com as medidas instituídas nos termos do Regulamento (CE) n.º 725/2004",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Coordenação com as medidas instituídas nos termos do Regulamento (CE) n.º 725/2004",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Coordenação com as medidas instituídas nos termos do Regulamento (CE) n.º 725/2004\n\nOs Estados-Membros devem assegurar uma coordenação estreita das medidas de segurança portuária instituídas nos termos da presente directiva com as medidas instituídas nos termos do Regulamento (CE) n.º 725/2004."
+  },
+  "a92675d6cb8d93a5": {
+   "fragment_id": "Artigo 5.º — Autoridade de segurança portuária",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Autoridade de segurança portuária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Autoridade de segurança portuária\n\n1. Os Estados-Membros designarão uma autoridade de segurança portuária para cada porto abrangido pela presente directiva. Pode ser designada uma mesma autoridade de segurança portuária para vários portos.\n\n2. A autoridade de segurança portuária será responsável pela elaboração e pela execução dos planos de segurança do porto, com base nos resultados da avaliação de segurança do porto.\n\n3. Os Estados-Membros podem designar como autoridade de segurança portuária uma «autoridade competente para a protecção do transporte marítimo», tal como prevista no Regulamento (CE) n.º 725/2004."
+  },
+  "b717f57fdc8f9260": {
+   "fragment_id": "Artigo 6.º — Avaliação de segurança do porto",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Avaliação de segurança do porto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Avaliação de segurança do porto\n\n1. Os Estados-Membros devem assegurar a realização de uma avaliação de segurança de cada porto abrangido pela presente directiva. Essa avaliação deverá ter na devida conta as características específicas das diferentes partes do porto, bem como, quando tal seja considerado aplicável pelas autoridades competentes dos Estados-Membros, das zonas adjacentes com impacto na segurança do porto, e as avaliações de segurança das instalações portuárias existentes no seu perímetro efectuadas nos termos do Regulamento (CE) n.º 725/2004.\n\n2. A realização da avaliação de segurança do porto deve atender, no mínimo, aos requisitos estabelecidos no anexo I.\n\n3. As avaliações de segurança podem ser efectuadas por uma organização de segurança reconhecida, conforme referido no artigo 11.º\n\n4. As avaliações de segurança dos portos devem ser aprovadas pelo Estado-Membro em causa."
+  },
+  "33dc8e05461a81ba": {
+   "fragment_id": "Artigo 7.º — Plano de segurança do porto",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Plano de segurança do porto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Plano de segurança do porto\n\n1. Em função dos resultados das avaliações de segurança do porto, os Estados-Membros devem assegurar a elaboração, manutenção e actualização de um plano de segurança do porto. Esse plano terá devidamente em conta as características específicas das diferentes partes do porto e incorporará os planos de segurança das instalações portuárias existentes no seu perímetro, elaborados nos termos do Regulamento (CE) n.º 725/2004.\n\n2. O plano de segurança do porto identificará, para cada nível de segurança referido no artigo 8.º:\n\na) Os procedimentos a seguir;\n\nb) As medidas a instituir;\n\nc) As acções a desenvolver.\n\n3. A elaboração do plano de segurança do porto deve atender, no mínimo, aos requisitos estabelecidos no anexo II. Sempre que apropriado, e na medida do necessário, o plano de segurança do porto incluirá nomeadamente medidas de segurança a aplicar aos passageiros e veículos, estabelecidas para o embarque em navios de mar que transportem passageiros e veículos. No caso dos serviços de transporte marítimo internacional, os Estados-Membros em questão cooperarão em matéria de avaliação de segurança.\n\n4. Os planos de segurança podem ser elaborados por uma organização de segurança reconhecida, tal como referido no artigo 11.º\n\n5. Os planos de segurança do porto devem ser aprovados pelo Estado-Membro em causa antes de serem aplicados.\n\n6. Os Estados-Membros devem assegurar que a aplicação do plano de segurança do porto será supervisionada. Essa supervisão deve ser coordenada com as outras actividades de controlo efectuadas no porto.\n\n7. Os Estados-Membros devem assegurar a realização de exercícios adequados, tendo em conta os requisitos básicos dos exercícios no âmbito das acções de formação para a segurança estabelecidos no anexo III."
+  },
+  "e90b80bef024e864": {
+   "fragment_id": "Artigo 8.º — Níveis de segurança",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Níveis de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Níveis de segurança\n\n1. Os Estados-Membros devem introduzir um regime de níveis de segurança nos portos ou partes de portos.\n\n2. Serão estabelecidos três níveis de segurança, tal como definidos no Regulamento (CE) n.º 725/2004:\n\n— «Nível de segurança 1»: o nível de segurança em que devem vigorar permanentemente medidas de segurança mínimas adequadas;\n\n— «Nível de segurança 2»: o nível de segurança em que devem vigorar durante um determinado período medidas de segurança adicionais adequadas devido a risco acrescido de incidente de segurança;\n\n— «Nível de segurança 3»: o nível de segurança em que devem vigorar durante um período limitado medidas de segurança suplementares especiais devido à probabilidade ou iminência de um incidente de segurança, mesmo que não seja possível identificar o alvo.\n\n3. Os Estados-Membros determinarão os níveis de segurança aplicáveis em cada porto ou parte de um porto. Em cada nível de segurança, o Estado-Membro em causa pode determinar a aplicação de medidas de segurança distintas em diferentes partes do porto, em função das conclusões da avaliação de segurança do porto.\n\n4. Os Estados-Membros devem comunicar à pessoa ou pessoas indicadas os níveis de segurança vigentes em cada porto ou parte de um porto, bem como eventuais alterações a esse respeito."
+  },
+  "672e76cb1352f08c": {
+   "fragment_id": "Artigo 9.º — Agente de segurança do porto",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Agente de segurança do porto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Agente de segurança do porto\n\n1. Para cada porto, o Estado-Membro em causa acreditará um agente de segurança. Cada porto deve ter, se possível, um agente de segurança próprio, mas, se necessário, pode ter um agente de segurança comum a mais de um porto.\n\n2. O agente de segurança do porto desempenhará a função de correspondente para as questões relacionadas com a segurança do porto.\n\n3. Se as funções de agente de segurança do porto e de agente de segurança de instalação portuária designado nos termos do Regulamento (CE) n.º 725/2004 não forem desempenhadas pela mesma pessoa, deve assegurar-se uma cooperação estreita entre ambos."
+  },
+  "f90fe1fe633244fe": {
+   "fragment_id": "Artigo 10.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Revisão\n\n1. Os Estados-Membros devem assegurar, sempre que necessário, a revisão das avaliações e dos planos de segurança dos portos. As avaliações e os planos devem ser revistos, pelo menos, uma vez de cinco em cinco anos.\n\n2. O objectivo da revisão deve obedecer aos artigos 6.º ou 7.º, consoante o caso."
+  },
+  "dac6db4362786b4e": {
+   "fragment_id": "Artigo 11.º — Organizações de segurança reconhecidas",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Organizações de segurança reconhecidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Organizações de segurança reconhecidas\n\nOs Estados-Membros podem designar organizações de segurança reconhecidas para os fins especificados na presente directiva. Essas organizações devem preencher as condições estabelecidas no anexo IV."
+  },
+  "750b05369cb8d829": {
+   "fragment_id": "Artigo 12.º — Ponto de contacto para a segurança portuária",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Ponto de contacto para a segurança portuária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Ponto de contacto para a segurança portuária\n\nOs Estados-Membros devem designar, para os aspectos de segurança portuária, um ponto de contacto, que poderá ser o ponto de contacto designado nos termos do Regulamento (CE) n.º 725/2004. O ponto de contacto para a segurança portuária comunicará à Comissão a lista dos portos abrangidos pela presente directiva e informá-la-á de quaisquer alterações introduzidas nessa lista."
+  },
+  "2660acfa82f8830e": {
+   "fragment_id": "Artigo 13.º — Aplicação e controlo da conformidade",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Aplicação e controlo da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Aplicação e controlo da conformidade\n\n1. Os Estados-Membros devem instituir um sistema que garanta uma supervisão adequada e periódica dos planos de segurança dos portos e da sua aplicação.\n\n2. A Comissão controlará, em cooperação com os pontos de contacto a que se refere o artigo 12.º, a aplicação da presente directiva pelos Estados-Membros.\n\n3. Este controlo será efectuado conjuntamente com as inspecções previstas no n.º 4 do artigo 9.º do Regulamento (CE) n.º 725/2004."
+  },
+  "4c5b27a53856c2d8": {
+   "fragment_id": "Artigo 14.º — Adaptações",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Adaptações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Adaptações\n\nAs disposições dos anexos I a IV podem ser alteradas mediante o procedimento a que se refere o n.º 2 do artigo 15.º, sem alargamento do âmbito de aplicação da directiva."
+  },
+  "d6b434ccd046a530": {
+   "fragment_id": "Artigo 15.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Procedimento de comité\n\n1. A Comissão é assistida pelo comité instituído pelo Regulamento (CE) n.º 725/2004.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de um mês.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "1cd46489f7e5528f": {
+   "fragment_id": "Artigo 16.º — Confidencialidade e divulgação de informações",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Confidencialidade e divulgação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Confidencialidade e divulgação de informações\n\n1. Ao executar a presente directiva, a Comissão tomará medidas adequadas, em conformidade com a Decisão 2001/844/CE, CECA, Euratom [([^6])](http://publications.europa.eu/resource/cellar/d9776dd4-364e-4c37-9144-615c9d278872.0017.03/DOC_1#ntr6-L_2005310PT.01002801-E0006), para proteger as informações sujeitas ao requisito de confidencialidade a que tenha acesso ou que lhe sejam comunicadas pelos Estados-Membros.\n\nOs Estados-Membros tomarão medidas equivalentes em conformidade com a legislação nacional aplicável.\n\n2. As pessoas que efectuam inspecções de segurança ou tratam informações confidenciais relacionadas com a presente directiva devem ser objecto de uma verificação de segurança de nível adequado pelo Estado-Membro de que são nacionais."
+  },
+  "2597da42f2e15510": {
+   "fragment_id": "Artigo 17.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Sanções\n\nOs Estados-Membros devem assegurar a instauração de um regime de sanções efectivas, proporcionadas e dissuasivas a aplicar em caso de infracção das disposições nacionais adoptadas nos termos da presente directiva."
+  },
+  "1ff11e98103f2036": {
+   "fragment_id": "Artigo 18.º — Execução",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Execução\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 15 de Junho de 2007 e informarão imediatamente a Comissão desse facto.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "6cb18266d655b322": {
+   "fragment_id": "Artigo 19.º — Relatório de avaliação",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Relatório de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Relatório de avaliação\n\nAté 15 de Dezembro de 2008 e, ulteriormente, de cinco em cinco anos, a Comissão apresentará um relatório de avaliação ao Parlamento Europeu e ao Conselho, com base, nomeadamente, nas informações obtidas em conformidade com o artigo 13.º Nesse relatório, a Comissão analisará o cumprimento da presente directiva pelos Estados-Membros e a eficácia das medidas tomadas. Se necessário, a Comissão apresentará propostas de medidas adicionais."
+  },
+  "cbf66f9be2cd20d7": {
+   "fragment_id": "Artigo 20.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia.*"
+  },
+  "ffd20c403b589421": {
+   "fragment_id": "Artigo 21.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Destinatários\n\nOs destinatários da presente directiva são os Estados-Membros que possuam portos na acepção do n.º 2 do artigo 2.º\n\nFeito em Estrasburgo, em 26 de Outubro de 2005.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**J. BORRELL FONTELLES**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**D. ALEXANDER**\n\n---"
+  },
+  "07711ffe5cbc9783": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/d9776dd4-364e-4c37-9144-615c9d278872.0017.03/DOC_1#ntc1-L_2005310PT.01002801-E0001) [JO C 120 de 20.5.2005, p. 8](http://publications.europa.eu/resource/oj/JOC_2005_120_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/d9776dd4-364e-4c37-9144-615c9d278872.0017.03/DOC_1#ntc2-L_2005310PT.01002801-E0002) [JO C 43 de 18.2.2005, p. 26](http://publications.europa.eu/resource/oj/JOC_2005_043_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/d9776dd4-364e-4c37-9144-615c9d278872.0017.03/DOC_1#ntc3-L_2005310PT.01002801-E0003) Parecer do Parlamento Europeu de 10 de Maio de 2005 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 6 de Outubro de 2005.\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/d9776dd4-364e-4c37-9144-615c9d278872.0017.03/DOC_1#ntc4-L_2005310PT.01002801-E0004) [JO L 129 de 29.4.2004, p. 6](http://publications.europa.eu/resource/oj/JOL_2004_129_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/d9776dd4-364e-4c37-9144-615c9d278872.0017.03/DOC_1#ntc5-L_2005310PT.01002801-E0005) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC) (rectificação no [JO L 269 de 19.10.1999, p. 45](http://publications.europa.eu/resource/oj/JOL_1999_269_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/d9776dd4-364e-4c37-9144-615c9d278872.0017.03/DOC_1#ntc6-L_2005310PT.01002801-E0006) [JO L 317 de 3.12.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_317_R_TOC). Decisão com a última redacção que lhe foi dada pela Decisão 2005/94/CE, Euratom ([JO L 31 de 4.2.2005, p. 66](http://publications.europa.eu/resource/oj/JOL_2005_031_R_TOC))."
+  },
+  "31934e072c405af8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Outubro de 2005\n\nrelativa ao reforço da segurança nos portos\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 2 do artigo 80.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/009045f0-043a-490d-9fcd-ce364cde2d49.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité das Regiões ([^2^](http://publications.europa.eu/resource/cellar/009045f0-043a-490d-9fcd-ce364cde2d49.0018.03/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/009045f0-043a-490d-9fcd-ce364cde2d49.0018.03/DOC_1#E0003)),\n\n(1) Os incidentes de segurança resultantes do terrorismo contam-se entre as ameaças mais graves para os ideais de democracia, de liberdade e de paz que constituem a própria essência da União Europeia.\n\n(2) As pessoas, as infra-estruturas e os equipamentos nos portos deverão ser protegidos contra os incidentes de segurança e os respectivos efeitos devastadores. Essa protecção beneficiará os utilizadores dos transportes, a economia e o conjunto da sociedade.\n\n(3) O Parlamento Europeu e o Conselho da União Europeia adoptaram o Regulamento (CE) n.º 725/2004, de 31 de Março de 2004, relativo ao reforço da segurança dos navios e das instalações portuárias ([^4^](http://publications.europa.eu/resource/cellar/009045f0-043a-490d-9fcd-ce364cde2d49.0018.03/DOC_1#E0004)). As medidas de protecção do transporte marítimo previstas nesse regulamento são apenas uma parte das medidas necessárias para garantir um nível de segurança adequado em toda a cadeia de transporte conexa. O âmbito de aplicação desse regulamento limita-se às medidas de segurança a bordo dos navios e na interface navio/porto imediata.\n\n(4) A fim de assegurar a maior protecção possível dos sectores marítimo e portuário, deverão introduzir-se medidas de segurança nos portos, que abranjam cada porto no âmbito dos limites definidos pelo Estado-Membro em causa, assegurando desse modo, através do reforço da segurança nas zonas de actividade portuária, uma maior eficácia das medidas de segurança instituídas nos termos do Regulamento (CE) n.º 725/2004. Estas medidas deverão ser aplicáveis a todos os portos que alberguem uma ou mais instalações portuárias abrangidas pelo Regulamento (CE) n.º 725/2004.\n\n(5) Os objectivos de segurança enunciados na presente directiva deverão ser realizados mediante a adopção de medidas adequadas, sem prejuízo das disposições dos Estados-Membros em matéria de segurança nacional e das medidas que possam ser tomadas com base no título VI do Tratado da União Europeia.\n\n(6) Os Estados-Membros deverão basear-se em avaliações pormenorizadas da segurança para delimitar com precisão a área portuária sensível em termos de segurança, bem como as medidas necessárias para garantir a segurança adequada do porto. Essas medidas deverão ser função do nível de segurança instituído e reflectir o perfil de risco das diferentes zonas do porto.\n\n(7) Os Estados-Membros deverão aprovar planos de segurança portuária que integrem as conclusões da avaliação da segurança do porto. A eficácia de medidas de segurança requer igualmente uma clara divisão de tarefas entre todas as partes envolvidas e a realização de exercícios regulares. Essa clara divisão de tarefas e o estabelecimento de procedimentos para a realização de exercícios no quadro do plano de segurança do porto contribuirão significativamente para a eficácia das medidas de segurança portuária preventivas e correctivas.\n\n(8) Os navios ro-ro são particularmente vulneráveis a incidentes de segurança, em especial se transportarem simultaneamente passageiros e carga. Convirá prever medidas adequadas, com base numa avaliação do risco, que assegurem que os veículos de passageiros ou mercadorias que embarquem em navios ro-ro num serviço doméstico ou internacional não ponham em perigo o navio, os passageiros, a tripulação e a carga. Essas medidas deverão ser executadas de forma a perturbar o menos possível o desenrolar das operações.\n\n(9) Os Estados-Membros deverão ter a possibilidade de instituir comités de segurança portuária com a função de facultar aconselhamento sobre questões práticas nos portos abrangidos pela presente directiva.\n\n(10) Os Estados-Membros deverão assegurar que as responsabilidades a nível da segurança do porto sejam claramente reconhecidas por todas as partes envolvidas. Os Estados-Membros deverão verificar a observância das regras de segurança, designar claramente uma autoridade com competência para todos os seus portos, aprovar as avaliações e planos de segurança dos portos, determinar e comunicar, sempre que se justifique, os níveis de segurança, e assegurar que as medidas sejam devidamente comunicadas, aplicadas e coordenadas.\n\n(11) Os Estados-Membros deverão aprovar as avaliações e os planos de segurança e controlar a sua aplicação nos portos. A fim de reduzir ao mínimo o nível de perturbação nos portos e os encargos administrativos dos órgãos de inspecção, o controlo da aplicação da presente directiva pela Comissão deverá ser efectuado juntamente com as inspecções previstas no n.º 4 do artigo 9.º do Regulamento (CE) n.º 725/2004.\n\n(12) Cada Estado-Membro deverá assegurar a existência de um ponto de contacto para a segurança portuária, que será o interlocutor da Comissão e dos restantes Estados-Membros. Os Estados-Membros deverão informar a Comissão sobre quais os portos abrangidos pela presente directiva com base nas avaliações efectuadas em matéria de segurança.\n\n(13) A aplicação efectiva e normalizada das medidas desta política de segurança suscita importantes questões quanto ao seu financiamento. O financiamento de medidas de segurança suplementares não deve provocar distorções da concorrência. Até 30 de Junho de 2006, a Comissão deverá apresentar ao Parlamento Europeu e ao Conselho os resultados de um estudo sobre os custos inerentes às medidas tomadas no âmbito da presente directiva, abordando em particular a forma de repartição dos custos entre as autoridades públicas, as autoridades portuárias e os operadores.\n\n(14) A presente directiva respeita os direitos fundamentais e observa os princípios reconhecidos, nomeadamente, pela Carta dos Direitos Fundamentais da União Europeia.\n\n(15) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^5^](http://publications.europa.eu/resource/cellar/009045f0-043a-490d-9fcd-ce364cde2d49.0018.03/DOC_1#E0005)).\n\n(16) Convirá prever um procedimento de adaptação da presente directiva a fim de ter em conta a evolução dos instrumentos internacionais e, à luz da experiência adquirida, adaptar ou complementar as disposições dos anexos sem alargar o âmbito de aplicação da presente directiva.\n\n(17) Atendendo a que os objectivos da presente directiva, a saber, a introdução equilibrada de medidas adequadas no domínio da política de transporte marítimo e da política portuária, não podem ser suficientemente realizados pelos Estados-Membros e podem, devido à dimensão europeia da presente directiva, ser melhor alcançados ao nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. De acordo com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aqueles objectivos.\n\n(18) Dado que a presente directiva diz respeito aos portos marítimos, as obrigações dela decorrentes não serão aplicáveis à Áustria, à República Checa, à Hungria, ao Luxemburgo e à Eslováquia,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "8593e764b160a762": {
+   "fragment_id": "Artigo 14.º — Adaptações",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Adaptações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Adaptações\n\nA Comissão pode adaptar os anexos I a IV sem alargamento do âmbito de aplicação da directiva. Essas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 2 do artigo 15.º.\n\nPor imperativos de urgência, a Comissão pode recorrer ao procedimento de urgência a que se refere o n.º 3 do artigo 15.º."
+  },
+  "37b76eee0933c612": {
+   "fragment_id": "Artigo 15.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Procedimento de comité\n\n1. A Comissão é assistida pelo comité criado pelo Regulamento (CE) n.º 725/2004.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1, 2, 4 e 6 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "1c1fc3867a78c5c1": {
+   "fragment_id": "Artigo 16.º — Confidencialidade e divulgação de informações",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Confidencialidade e divulgação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Confidencialidade e divulgação de informações\n\n1. Ao executar a presente directiva, a Comissão tomará medidas adequadas, em conformidade com a Decisão 2001/844/CE, CECA, Euratom ([^6^](http://publications.europa.eu/resource/cellar/009045f0-043a-490d-9fcd-ce364cde2d49.0018.03/DOC_1#E0006)), para proteger as informações sujeitas ao requisito de confidencialidade a que tenha acesso ou que lhe sejam comunicadas pelos Estados-Membros.\n\nOs Estados-Membros tomarão medidas equivalentes em conformidade com a legislação nacional aplicável.\n\n2. As pessoas que efectuam inspecções de segurança ou tratam informações confidenciais relacionadas com a presente directiva devem ser objecto de uma verificação de segurança de nível adequado pelo Estado-Membro de que são nacionais."
+  },
+  "1c817c64f52220c2": {
+   "fragment_id": "Artigo 21.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Destinatários\n\nOs destinatários da presente directiva são os Estados-Membros que possuam portos na acepção do n.º 2 do artigo 2.º"
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "9036fb1de648b342": {
+   "fragment_id": "AVALIAÇÃO DA SEGURANÇA DO PORTO",
+   "type": "divisao",
+   "heading": "AVALIAÇÃO DA SEGURANÇA DO PORTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### AVALIAÇÃO DA SEGURANÇA DO PORTO\n\nA avaliação da segurança do porto constitui a base para a elaboração do plano de segurança do porto e a sua aplicação. A avaliação da segurança deve incluir, pelo menos, os seguintes elementos:\n\n— identificação e avaliação dos bens e infra-estruturas que é importante proteger,\n\n— identificação das ameaças possíveis aos bens e infra-estruturas e da probabilidade da sua ocorrência, com vista à definição das medidas de segurança e sua ordem de prioridade,\n\n— identificação, selecção e hierarquização por ordem de prioridade das contramedidas e mudanças de procedimento e identificação do seu nível de eficácia na redução da vulnerabilidade, e\n\n— identificação dos pontos fracos, incluindo o factor humano, da infra-estrutura e das políticas e procedimentos aplicados.\n\nPara esse efeito, a avaliação deverá abranger, pelo menos, os seguintes aspectos:\n\n— identificação de todas as zonas com impacto na segurança do porto e, consequentemente, do perímetro deste. Incluem-se aqui as instalações portuárias abrangidas pelo Regulamento (CE) n.º 725/2004, cuja avaliação de risco servirá de ponto de partida,\n\n— identificação dos problemas de segurança decorrentes da interface das medidas de segurança das instalações portuárias com outras medidas de segurança do porto,\n\n— identificação do pessoal do porto que deve ser submetido a verificação de antecedentes e/ou habilitação de segurança devido à sua interacção com zonas de alto risco,\n\n— subdivisão do porto em zonas, se aconselhável, em função da probabilidade de ocorrência de incidentes de segurança. As diferentes zonas serão avaliadas em função não apenas do seu perfil de alvo potencial directo, mas também da possibilidade de constituírem ponto de passagem quando o alvo sejam zonas vizinhas,\n\n— identificação das variações do risco, por exemplo em função da sua sazonalidade,\n\n— identificação das características específicas de cada zona, nomeadamente localização, acessos, alimentação de energia eléctrica, sistema de comunicações, regime de propriedade, utentes e outros elementos julgados pertinentes para a segurança,\n\n— elaboração de cenários de ameaça potencial para o porto. A totalidade do porto ou partes específicas da sua infra-estrutura, a carga, bagagem, pessoas ou equipamento de transporte que nele se encontrem podem constituir o alvo directo de uma ameaça identificada,\n\n— identificação das consequências específicas de um cenário de ameaça. Estas podem incidir numa só ou em várias zonas. Deverão ser identificadas tanto as consequências directas como as indirectas. O risco de baixas humanas deve merecer atenção especial,\n\n— identificação da possibilidade de potenciação dos efeitos de um incidente de segurança,\n\n— identificação das vulnerabilidades de cada zona,\n\n— identificação dos aspectos organizacionais pertinentes para a segurança geral do porto, incluindo a multiplicidade de autoridades com competências de segurança e os procedimentos e regras vigentes,\n\n— identificação das vulnerabilidades da segurança global do porto em relação com os aspectos da organização, da legislação e dos procedimentos,\n\n— identificação das medidas, procedimentos e acções destinados a reduzir as vulnerabilidades críticas. Deverá dar-se atenção à necessidade, e aos meios, de controlar ou restringir o acesso a todo ou a partes específicas do porto, incluindo a identificação dos passageiros, do pessoal do porto e outros trabalhadores, dos visitantes e dos tripulantes dos navios, bem como de vigilância de zonas ou actividades e de controlo da carga e das bagagens. Essas medidas, procedimentos e acções devem ser consentâneas com o risco percepcionado, que pode variar de zona para zona no porto,\n\n— identificação de mecanismos de reforço das medidas, procedimentos e acções em caso de alteração do nível de segurança para um nível superior,\n\n— definição de regras específicas de tratamento de problemas de segurança tipificados, nomeadamente carga, bagagens, bancas, provisões ou pessoas «suspeitos», volumes não identificados, perigos notórios (por exemplo, uma bomba). Essas regras deverão servir para determinar em que condições será preferível afastar o risco quando este se verificar ou depois de o transferir para uma zona protegida,\n\n— identificação das medidas, procedimentos e acções destinados a limitar e mitigar as repercussões,\n\n— estabelecimento de uma divisão de tarefas compatível com a adequada e correcta aplicação das medidas, procedimentos e acções identificados,\n\n— tomada em consideração, quando adequado, da relação com outros planos de segurança (por exemplo, os planos de segurança das instalações portuárias) e outras medidas de segurança vigentes. Dever-se-á atender igualmente à relação com outros planos de intervenção (por exemplo, plano de combate a marés negras, plano portuário de contingência, plano de acção médica, plano de resposta a acidentes nucleares, etc.),\n\n— identificação dos requisitos de comunicação para o accionamento das medidas e procedimentos,\n\n— tomada em consideração das medidas de protecção das informações de segurança sensíveis.\n\n— determinação da «necessidade de conhecer» relativamente às pessoas directamente envolvidas e, quando adequado, ao público em geral."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "57ad8ddc9f5eb197": {
+   "fragment_id": "PLANO DE SEGURANÇA DO PORTO",
+   "type": "divisao",
+   "heading": "PLANO DE SEGURANÇA DO PORTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PLANO DE SEGURANÇA DO PORTO\n\nO plano de segurança estabelece as disposições de segurança a tomar no porto. O plano deve ter por base as conclusões da avaliação da segurança do porto. Deve estabelecer medidas concretas de forma clara e prever um mecanismo de controlo que permita a adopção de medidas correctivas adequadas quando necessário.\n\nO plano de segurança deve abranger os seguintes aspectos gerais:\n\n— definição das zonas com impacto na segurança do porto. Dependendo da avaliação da segurança do porto, as medidas, procedimentos e acções poderão variar de zona para zona. Certas zonas poderão, com efeito, necessitar de medidas de prevenção mais rigorosas do que outras. Deverá dar-se especial atenção às interfaces entre zonas identificadas na avaliação da segurança,\n\n— coordenação das medidas de segurança relativas a zonas com características de segurança distintas,\n\n— instituição, se for caso disso, de medidas diferenciadas em função da parte do porto de que se trate, da alteração dos níveis de segurança e das informações específicas provenientes dos serviços de informações,\n\n— definição de uma estrutura organizacional que permita reforçar a segurança do porto.\n\nCom base nestes aspectos gerais, o plano de segurança atribuirá as tarefas e estabelecerá os planos de actividade nos seguintes domínios:\n\n— requisitos de acesso. Em algumas zonas, estes requisitos só se aplicarão quando os níveis de segurança excederem patamares mínimos. Os requisitos e patamares devem figurar em detalhe no plano de segurança do porto,\n\n— requisitos de controlo dos documentos de identificação, das bagagens e da carga. Estes requisitos poderão ser ou não aplicáveis, ou ser ou não integralmente aplicáveis, às diferentes zonas. As pessoas que pretendam entrar ou se encontrem numa zona poderão ser objecto de controlo. O plano de segurança deve dar resposta adequada às conclusões da avaliação de segurança do porto, que constitui um instrumento de identificação dos requisitos de segurança a estabelecer para cada zona e em cada nível de segurança. Caso se utilizem cartões de identificação especiais para fins de segurança do porto, deverão estabelecer-se procedimentos claros para a emissão, controlo da utilização e devolução de tais documentos. Esses procedimentos deverão ter em conta as características específicas de certos grupos de utentes do porto, possibilitando a adopção de medidas diferenciadas que limitem o impacto negativo dos requisitos de acesso. As categorias a estabelecer deverão incluir, pelo menos, os marítimos, os agentes das autoridades, as pessoas que trabalham ou se deslocam regularmente ao porto, os residentes no porto e as pessoas que nele trabalham ou a ele se deslocam ocasionalmente,\n\n— ligação com as autoridades responsáveis pelo controlo da carga, das bagagens e dos passageiros. Se necessário, o plano deve prever a ligação com os sistemas de informação e de desembaraço destas autoridades, incluindo os eventuais sistemas de desembaraço pré-chegada,\n\n— procedimentos e medidas para o tratamento de carga, bagagem, bancas, provisões ou pessoas suspeitas, incluindo a designação de uma zona protegida, bem como de outros problemas de segurança e incidentes de violação da segurança do porto,\n\n— requisitos de vigilância de zonas ou de actividades nelas exercidas. A determinação da necessidade de vigilância e das soluções técnicas a utilizar terá por base a avaliação de segurança do porto,\n\n— sinalização. As zonas sujeitas a requisitos (acesso e/ou controlo) devem ser adequadamente sinalizadas. Os requisitos de acesso e de controlo devem ter em conta a legislação aplicável e as práticas vigentes. A vigilância de actividades deve ser devidamente indicada, se a legislação nacional a isso obrigar,\n\n— comunicações e habilitação de segurança. As informações de segurança relevantes devem ser comunicadas correctamente em conformidade com as normas de habilitação de segurança incluídas no plano. Atendendo à sensibilidade de certas informações, a comunicação terá por base o princípio da «necessidade de conhecer», devendo todavia prever-se, nos casos necessários, procedimentos para as comunicações dirigidas ao público em geral. As normas de habilitação de segurança devem fazer parte do plano e destinam-se a proteger da divulgação não autorizada as informações de segurança sensíveis,\n\n— notificação de incidentes de segurança. A fim de assegurar uma intervenção rápida, o plano de segurança deve estabelecer requisitos claros de notificação dos incidentes de segurança ao agente de segurança do porto e/ou à autoridade de segurança portuária,\n\n— integração com outros planos ou actividades de prevenção. O plano deverá abordar expressamente a integração com outras actividades de prevenção e controlo exercidas no porto,\n\n— integração com outros planos de intervenção e/ou inclusão de medidas, procedimentos e acções específicos de intervenção. O plano deverá expor em detalhe a interacção e coordenação com outros planos de intervenção ou emergência. Onde necessário, os conflitos existentes deverão ser resolvidos e as lacunas colmatadas,\n\n— requisitos de formação e de realização de exercícios,\n\n— organização operacional da segurança do porto e métodos de trabalho. O plano de segurança deve detalhar a organização, bem como a divisão de tarefas e os métodos de trabalho a nível da segurança do porto. Deve igualmente especificar as modalidades de coordenação com os agentes de segurança das instalações portuárias e dos navios, de acordo com as necessidades. Deve ainda definir as tarefas do comité de segurança portuária, no caso de este existir,\n\n— procedimentos de adaptação e actualização do plano."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "28b89f8d5be8fbbe": {
+   "fragment_id": "REQUISITOS BÁSICOS DAS ACÇÕES DE FORMAÇÃO PARA A SEGURANÇA",
+   "type": "divisao",
+   "heading": "REQUISITOS BÁSICOS DAS ACÇÕES DE FORMAÇÃO PARA A SEGURANÇA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS BÁSICOS DAS ACÇÕES DE FORMAÇÃO PARA A SEGURANÇA\n\nPelo menos uma vez por ano, mas com intervalos não superiores a 18 meses, deverão realizar-se acções de formação de vários tipos, com a eventual participação dos agentes de segurança das instalações portuárias, em conjugação com as autoridades competentes dos Estados-Membros, os agentes de segurança das companhias e os agentes de segurança dos navios, caso estes se encontrem disponíveis. Os pedidos de participação de agentes de segurança de companhias ou navios em acções de formação conjuntas devem ter em conta as incidências na segurança e no serviço do navio. As acções de formação devem testar as comunicações, a coordenação, a disponibilidade de recursos e a capacidade de intervenção. Essas acções poderão:\n\n1. Ser efectuadas em escala real ou no terreno;\n\n2. Consistir em simulações em maqueta ou seminários; ou\n\n3. Ser combinadas com outras acções, nomeadamente de intervenção de emergência ou outras realizadas pelas autoridades públicas dos portos."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "b6d396036e275d63": {
+   "fragment_id": "CONDIÇÕES A PREENCHER PELAS ORGANIZAÇÕES DE SEGURANÇA RECONHECIDAS",
+   "type": "divisao",
+   "heading": "CONDIÇÕES A PREENCHER PELAS ORGANIZAÇÕES DE SEGURANÇA RECONHECIDAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONDIÇÕES A PREENCHER PELAS ORGANIZAÇÕES DE SEGURANÇA RECONHECIDAS\n\nUma organização de segurança reconhecida deve poder demonstrar:\n\n1. Competências nos aspectos de segurança do porto pertinentes;\n\n2. Conhecimento adequado das operações portuárias, incluindo da configuração e construção do porto;\n\n3. Conhecimento adequado de outras operações com impacto na segurança e que possam afectar a segurança do porto;\n\n4. Capacidade para avaliar os riscos potenciais para a segurança do porto;\n\n5. Capacidade para actualizar e aperfeiçoar as competências do seu pessoal em matéria de segurança portuária;\n\n6. Capacidade para verificar que o seu pessoal continua a ser digno de confiança;\n\n7. Capacidade para manter as medidas adequadas para evitar a divulgação não autorizada de material sensível em matéria de segurança, ou o acesso não autorizado a esse material;\n\n8. Conhecimento da legislação nacional e internacional pertinente e das regras de segurança;\n\n9. Conhecimento das actuais ameaças contra a segurança, nas suas diferentes formas;\n\n10. Capacidade para identificar e detectar armas e substâncias e engenhos perigosos;\n\n11. Conhecimentos em matéria de identificação, sem carácter discriminatório, das características e dos padrões de comportamento das pessoas susceptíveis de ameaçar a segurança do porto;\n\n12. Conhecimento das técnicas utilizadas para contornar as medidas de segurança;\n\n13. Conhecimento dos equipamentos e sistemas de segurança e vigilância e suas limitações operacionais.\n\nUma organização de segurança reconhecida que tenha efectuado a avaliação de segurança de um porto ou procedido à revisão da avaliação de segurança de um porto não está autorizada a elaborar ou a rever o plano de segurança desse porto.\n\n---"
+  },
+  "f3758c695d799dfd": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/009045f0-043a-490d-9fcd-ce364cde2d49.0018.03/DOC_1#src.E0001)) JO C 120 de 20.5.2005, p. 8.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/009045f0-043a-490d-9fcd-ce364cde2d49.0018.03/DOC_1#src.E0002)) JO C 43 de 18.2.2005, p. 26.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/009045f0-043a-490d-9fcd-ce364cde2d49.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 10 de Maio de 2005 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 6 de Outubro de 2005.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/009045f0-043a-490d-9fcd-ce364cde2d49.0018.03/DOC_1#src.E0004)) JO L 129 de 29.4.2004, p. 6.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/009045f0-043a-490d-9fcd-ce364cde2d49.0018.03/DOC_1#src.E0005)) JO L 184 de 17.7.1999, p. 23 (rectificação no JO L 269 de 19.10.1999, p. 45).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/009045f0-043a-490d-9fcd-ce364cde2d49.0018.03/DOC_1#src.E0006)) JO L 317 de 3.12.2001, p. 1. Decisão com a última redacção que lhe foi dada pela Decisão 2005/94/CE, Euratom (JO L 31 de 4.2.2005, p. 66)."
+  },
+  "cee07c2946cf72ce": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Outubro de 2005\n\nrelativa ao reforço da segurança nos portos\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "ca80ca9f13e6586d": {
+   "fragment_id": "Artigo 14.º — Alteração dos anexos I a IV",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Alteração dos anexos I a IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Alteração dos anexos I a IV\n\nA Comissão fica habilitada a adotar atos delegados nos termos do artigo 14.º-A no que diz respeito a alterar os anexos I a IV a fim de os adaptar à luz da experiência adquirida com a sua aplicação, sem alargar o âmbito de aplicação da presente diretiva.\n\nSe, em caso de alterações necessárias para adaptar os anexos I a IV, imperativos de urgência assim o exigirem, aplica-se aos atos delegados adotados nos termos do presente artigo o procedimento previsto no artigo 14.º-B."
+  },
+  "c3a43eaa17a6e7bb": {
+   "fragment_id": "Artigo 14.º-A — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 14.º-A — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º-A — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 14.º é conferido à Comissão por um prazo de cinco anos a contar de 26 de julho de 2019. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 14.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^1^](http://publications.europa.eu/resource/cellar/84556fb2-e432-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0001)).\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 14.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "3e855f070737ce9d": {
+   "fragment_id": "Artigo 14.º-B — Procedimento de urgência",
+   "type": "artigo",
+   "heading": "Artigo 14.º-B — Procedimento de urgência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º-B — Procedimento de urgência\n\n1. Os atos delegados adotados nos termos do presente artigo entram em vigor sem demora e são aplicáveis desde que não tenha sido formulada qualquer objeção nos termos do n.º 2. Na notificação de um ato delegado ao Parlamento Europeu e ao Conselho devem expor-se os motivos que justificam o recurso ao procedimento de urgência.\n\n2. O Parlamento Europeu ou o Conselho podem formular objeções a um ato delegado de acordo com o procedimento a que se refere o artigo 14.º-A, n.º 6. Nesse caso, a Comissão revoga imediatamente o ato após a notificação da decisão pela qual o Parlamento Europeu ou o Conselho tiverem formulado objeções."
+  },
+  "6cc8b6af14ff4cae": {
+   "fragment_id": "Artigo 16.º — Confidencialidade e divulgação de informações",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Confidencialidade e divulgação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Confidencialidade e divulgação de informações\n\n1. Ao executar a presente directiva, a Comissão tomará medidas adequadas, em conformidade com a Decisão 2001/844/CE, CECA, Euratom ([^2^](http://publications.europa.eu/resource/cellar/84556fb2-e432-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0002)), para proteger as informações sujeitas ao requisito de confidencialidade a que tenha acesso ou que lhe sejam comunicadas pelos Estados-Membros.\n\nOs Estados-Membros tomarão medidas equivalentes em conformidade com a legislação nacional aplicável.\n\n2. As pessoas que efectuam inspecções de segurança ou tratam informações confidenciais relacionadas com a presente directiva devem ser objecto de uma verificação de segurança de nível adequado pelo Estado-Membro de que são nacionais."
+  },
+  "c0f562979a6f4b2d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/84556fb2-e432-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0001)) JO L 123 de 12.5.2016, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/84556fb2-e432-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0002)) JO L 317 de 3.12.2001, p. 1. Decisão com a última redacção que lhe foi dada pela Decisão 2005/94/CE, Euratom (JO L 31 de 4.2.2005, p. 66)."
+  }
+ }
+}

@@ -1,0 +1,252 @@
+---
+schema_version: '1.0'
+id: pt:dre:548266:por
+title: Resolução do Conselho de Ministros n.º 156/2004
+short_title: null
+summary: Ratifica o Plano de Pormenor de Ampliação da Zona Industrial de Monte Cavalo, no município de Vouzela
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 156/2004
+official_date: null
+publication_date: '2004-11-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 260/2004, Série I-B de 2004-11-05
+  number: '260'
+  series: I
+  supplement: null
+  pages: 6575 - 6580
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/11/260b00/65756580.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/156/2004/11/05/p/dre/pt/html
+  oj: null
+  dre: '548266'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/156-2004-548266
+  internal: pt:dre:548266:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/156-2004-548266
+  metadata_url: https://data.dre.pt/eli/resolconsmin/156/2004/11/05/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/156-2004-548266
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:49:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a3a0f9e15c1392fdc6e40b49bf1df611837d065d048bac3a610ab112b1e94701
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:49:31Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ordenamento do Território
+- Plano de Pormenor
+- Regulamento
+- Vouzela
+- Zona Industrial
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/41/1994/06/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/41/1994/06/17/p/dre
+- type: cites
+  target: pt:dre:164053:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/155/1997/06/24/p/dre
+- type: cites
+  target: pt:dre:226807:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/69/2003/04/10/p/dre
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:304548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/310/2003/12/10/p/dre
+- type: cites
+  target: pt:dre:430634:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/190/2003/12/16/p/dre
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
+- type: cites
+  target: pt:dre:660128:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/119/2003/08/13/p/dre
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:49:31Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 156/2004
+
+Sob proposta da Câmara Municipal, a Assembleia Municipal de Vouzela aprovou, em 21 de Dezembro de 2001, o Plano de Pormenor de Ampliação da Zona Industrial de Monte Cavalo, no município de Vouzela.
+
+O Plano de Pormenor de Ampliação da Zona Industrial de Monte Cavalo foi elaborado durante a vigência do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, tendo sido cumpridas todas as formalidades legais, designadamente quanto à discussão pública, que decorreu já ao abrigo do artigo 77.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro.
+
+O município de Vouzela dispõe de Plano Director Municipal, ratificado pela [Resolução do Conselho de Ministros n.º 41/94](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/41-1994-304548), de 17 de Junho, e parcialmente suspenso pela [Resolução do Conselho de Ministros n.º 190/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/190-2003-430634), de 16 de Dezembro.
+
+O Plano de Pormenor de Ampliação da Zona Industrial de Monte Cavalo altera o Plano Director Municipal de Vouzela por englobar áreas classificadas neste instrumento de planeamento como espaço florestal arborizado e espaço agrícola complementar, que passam a espaço industrial.
+
+Importa ainda referir que pela [Resolução do Conselho de Ministros n.º 119/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/119-2003-660128), de 13 de Agosto, foi aprovada a alteração à delimitação da Reserva Ecológica Nacional do município de Vouzela, abrangendo a alteração a área de intervenção do Plano de Pormenor.
+
+Verifica-se a conformidade deste Plano de Pormenor com as disposições legais e regulamentares em vigor.
+
+Salienta-se, por último, que a referência às classes dos estabelecimentos industriais constante do artigo 5.º do Regulamento deve ser interpretada de acordo com o disposto no [Decreto-Lei n.º 69/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2003-226807), de 10 de Abril.
+
+Foi emitido parecer favorável pela ex-Direcção Regional do Ambiente e do Ordenamento do Território - Centro.
+
+Considerando o disposto na alínea e) do n.º 3, em conjugação com o n.º 8 do artigo 80.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, na redacção conferida pelo [Decreto-Lei n.º 310/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2003-429407), de 10 de Dezembro:
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Ratificar o Plano de Pormenor de Ampliação da Zona Industrial de Monte Cavalo, no município de Vouzela, cujo Regulamento, planta de implantação e planta de condicionantes se publicam em anexo à presente resolução, dela fazendo parte integrante.
+
+2 - Fica alterado o Plano Director Municipal de Vouzela na área de intervenção do Plano de Pormenor de Ampliação da Zona Industrial de Monte Cavalo.
+
+Presidência do Conselho de Ministros, 24 de Setembro de 2004. - O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
+
+REGULAMENTO
+
+###### Artigo 1.º — Objecto e constituição do Plano
+
+1 - O Plano de Pormenor de Ampliação da Zona Industrial de Monte Cavalo, adiante designado por Plano, é um plano municipal de ordenamento do território, elaborado nos termos do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, com a nova redacção dada pelo [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro, e pelo [Decreto-Lei n.º 155/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1997-164053), de 24 de Junho, e é constituído por:
+
+Regulamento;
+
+Planta de implantação;
+
+Planta de condicionantes;
+
+Memória descritiva e justificativa (integrando relatório, caracterização e programa de execução e de financiamento);
+
+Planta de enquadramento;
+
+Extracto do PDM - ordenamento e condicionantes;
+
+Planta da situação existente;
+
+Plantas de trabalho e perfis.
+
+2 - Com o presente Regulamento e a planta de implantação, estabelecem-se as condições de construção e de utilização de terrenos destinados à instalação das unidades industriais, definindo-se a concepção do espaço da ampliação da zona industrial de Monte Cavalo.
+
+###### Artigo 2.º — Âmbito territorial e regime
+
+1 - O território abrangido pelo Plano, adiante designado por área-plano, é o correspondente à área como tal delimitada na planta de implantação, com a superfície de 40 ha.
+
+2 - O regime do Plano consta do presente Regulamento e é traduzido graficamente na planta de implantação e as suas disposições são aplicáveis a todas as iniciativas de carácter público, privado ou misto a realizar nesta área-plano.
+
+###### Artigo 3.º — Condicionantes
+
+Na área-plano serão observadas todas as protecções, servidões administrativas e restrições de utilidade pública constantes da legislação em vigor ou decorrentes da sua modificação, designadamente as relativas a:
+
+Plano Director Municipal de Vouzela;
+
+Domínio hídrico;
+
+Zona de servidão non aedificandi da EN 16 e EN 333;
+
+Restrições de utilidade pública da linha de média tensão.
+
+###### Artigo 4.º — Estrutura de ordenamento
+
+Para efeitos regulamentares, o território objecto do Plano é estruturado em três categorias:
+
+Área de intervenção (conjunto das parcelas);
+
+Área de uso público;
+
+Área de protecção e enquadramento.
+
+###### Artigo 5.º — Áreas de intervenção
+
+1 - As áreas de intervenção são constituídas pelo conjunto da área das parcelas, sejam estas destinadas à construção de edifícios de carácter industrial, das classes B, C e D, de serviços ou de armazéns (incluindo armazenamento ao ar livre), sejam estas destinadas exclusivamente a armazenamento ao ar livre ou estaleiros, com apoio funcional de pequenas construções de carácter eventual e amovíveis, ou sejam parcelas para equipamentos públicos técnicos e não técnicos.
+
+2 - A área de intervenção (de cada parcela) compreende o polígono base, delimitado para efeitos de implantação das instalações e a área verde de enquadramento (AVE) no interior da parcela e envolvendo aquele polígono base, a qual deverá ser respeitada na sua globalidade, articulação e enquadramento paisagístico, sendo nela interdita a desarborização maciça e apenas autorizado o corte ajardinado.
+
+3 - Na área verde de enquadramento de cada parcela poderão localizar-se pequenos anexos e ou construções de apoio funcional às instalações principais, desde que a sua ocupação não exceda a área indicada para cada parcela, no quadro das disposições específicas de construção nas área de intervenção, com um só piso e ou 4 m de altura absoluta.
+
+4 - Em casos especiais, fundamentados e autorizados pela Câmara Municipal, poderá proceder-se à junção de parcelas para instalação de uma só unidade funcional na parcela resultante dessa junção.
+
+###### Artigo 6.º — Áreas de uso público
+
+As áreas de uso público são constituídas pelas partes do território com um uso de carácter público, designadamente arruamentos, passeios e estacionamentos (ligeiros, pesados, TIR).
+
+###### Artigo 7.º — Áreas de protecção e enquadramento
+
+1 - As áreas de protecção e enquadramento são constituídas fundamentalmente por partes do território a estabelecer como zonas verdes e correspondem às faixas envolventes das áreas de intervenção e áreas de uso público.
+
+2 - As áreas referidas no número anterior deverão ser respeitadas na sua globalidade, articulação e enquadramento paisagístico, sendo nelas interdita a desarborização maciça e apenas autorizado o corte ajardinado.
+
+###### Artigo 8.º — Regulamentação urbanística
+
+1 - As regras de ocupação, uso e transformação do solo incluído na área de intervenção (parcelas) delimitada na planta de implantação, estão estabelecidas no quadro anexo que integra a referida planta e este Regulamento.
+
+2 - Os edifícios respeitarão obrigatoriamente o alinhamento da fachada e os alinhamentos laterais definidos nas peças desenhadas, podendo a área restante adaptar-se às necessidades de funcionamento da unidade a instalar, observando-se ainda dimensões nos logradouros de tardoz no mínimo iguais às dimensões das margens laterais.
+
+3 - Nas áreas verdes de enquadramento, compete à Câmara Municipal estabelecer as medidas concretas tendentes a assegurar o cumprimento do disposto no presente Regulamento quanto ao respeito pelas características naturais dessas áreas, designadamente fixando no alvará de licenciamento das operações de loteamento e de obras de urbanização as condições a observar para protecção e manutenção do enquadramento paisagístico desse empreendimento.
+
+4 - Nas áreas de uso público e nas áreas de protecção e enquadramento, dadas as características dominantes, será interdita qualquer edificação, excepto nas áreas de protecção e enquadramento, onde, a título excepcional e com o devido fundamento, se poderão instalar quaisquer dos equipamentos públicos técnicos previstos no Plano Director Municipal de Vouzela.
+
+5 - Cada unidade funcional, industrial, de serviços ou armazenagem deverá prever, dentro dos limites da parcela que ocupa, as áreas livres necessárias para cargas e descargas, estacionamento próprio e acessos ao interior da parcela, por forma a assegurar o seu correcto funcionamento e autonomia e que constarão do projecto da unidade a instalar.
+
+6 - Sempre que possível, nas zonas contíguas da área de protecção e enquadramento com os limites das parcelas, deverá ser assegurada uma faixa limpa em terra batida, a fim de permitir a circulação de viaturas de combate a incêndios, devendo ainda a faixa arbórea adjacente ser constituída por espécies folhosas.
+
+###### Artigo 9.º — Execução do Plano
+
+1 - A Câmara Municipal, para efeito de execução do Plano, deve garantir a necessária disponibilidade dos terrenos, nomeadamente os relativos às áreas de uso público como arruamentos, passeios, estacionamento, equipamentos colectivos e espaços verdes.
+
+2 - Tal efeito pode constituir fundamento para a Câmara Municipal pedir, se eventualmente necessário, a declaração de utilidade pública para a expropriação desses terrenos.
+
+## ANEXO — [(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2004/11/260b00/65756580.pdf)
+
+[(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/2004/11/260b00/65756580.pdf)

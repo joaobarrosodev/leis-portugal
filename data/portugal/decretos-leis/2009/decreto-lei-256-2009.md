@@ -1,0 +1,662 @@
+---
+schema_version: '1.0'
+id: pt:dre:490451:por
+title: Decreto-Lei n.º 256/2009
+short_title: null
+summary: Estabelece os princípios e orientações para a prática da protecção integrada e produção integrada, bem como o regime
+  das normas técnicas aplicáveis à protecção integrada, produção integrada e modo de produção biológico, e cria, igualmente,
+  um regime de reconhecimento de técnicos em protecção integrada, produção integrada e modo de produção biológico, no âmbito
+  da produção agrícola primária, e revoga o Decreto-Lei n.º 180/95, de 26 de Julho
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 256/2009
+official_date: null
+publication_date: '2009-09-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 186/2009, Série I de 2009-09-24
+  number: '186'
+  series: I
+  supplement: null
+  pages: 6852 - 6857
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/09/18600/0685206857.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2013-03-18'
+version_history:
+  file: decreto-lei-256-2009.versoes.json
+  count: 2
+  source_lastmod: '2025-05-23'
+  versions:
+  - date: '2009-09-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-03-18'
+    amending: pt:dre:259760:por
+    amending_title: Decreto-Lei n.º 37/2013
+    changes:
+    - Adita Artigo 13.º-A
+    - Adita Artigo 14.º-A
+    - Adita Artigo 14.º-B
+    - Adita Artigo 14.º-C
+    - Adita Artigo 14.º-D
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Capítulo VI
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Capítulo VII
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/256/2009/p/cons/20130313/pt/html
+  oj: null
+  dre: '490451'
+  dre_path: /dr/detalhe/decreto-lei/256-2009-490451
+  internal: pt:dre:490451:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2009-490451
+  metadata_url: https://data.dre.pt/eli/dec-lei/256/2009/p/cons/20130313/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-919128721
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-919128721
+  retrieved_at: '2026-10-22T13:26:26Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-05-23T00:00:00Z'
+integrity:
+  source_sha256: dd881a34f7878fb804d4e9a1e96b8689951a976d460d792d0091eb84cdbce179
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:26:26Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-256-2009.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Produto Alimentar
+- Produto Químico
+- Aproximação das Legislações
+- Direção Geral da Agricultura e Desenvolvimento Rural
+- Controlo de Qualidade
+- Direção Geral de Veterinária
+- Definição de Competências
+- Agricultura Biológica
+- Gabinete de Planeamento e Políticas
+- Instituto Nacional de Recursos Biológicos
+- Exploração Agrícola
+- Proteção do Ambiente
+- Proteção Fitossanitária
+- Agricultor
+- Madeira.região Autónoma
+- Protecção Integrada das Culturas
+- Produção Agrícola
+- Pesticida
+- Produto Fitofarmacêutico
+- Agricultura
+- Açores
+- Substância Perigosa
+- Taxa
+- Produto Agrícola
+- Saúde Animal
+relationships:
+- type: amended_by
+  target: pt:dre:259760:por
+  label: Adita Artigo 13.º-A; Adita Artigo 14.º-A; Adita Artigo 14.º-B; Adita Artigo 14.º-C; Adita Artigo 14.º-D; Altera Artigo
+    1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Capítulo
+    VI; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Capítulo VII; Altera Artigo 15.º; Altera Artigo
+    16.º; Altera Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2013-259760
+  date: '2013-03-13'
+- type: cites
+  target: celex:32007R0834
+  label: null
+  source: http://data.europa.eu/eli/reg/2007/834/oj
+- type: cites
+  target: celex:32008R0889
+  label: null
+  source: http://data.europa.eu/eli/reg/2008/889/oj
+- type: cites
+  target: celex:32009R1107
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484981:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/180/1995/07/26/p/dre
+- type: transposes
+  target: celex:32001L0082
+  label: null
+  source: null
+- type: transposes
+  target: celex:32009L0009
+  label: null
+  source: null
+article_structure:
+  article_count: 25
+  section_count: 7
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:26:26Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 256/2009
+
+Decreto-Lei n.º 256/2009
+
+de 24 de Setembro
+
+Os princípios orientadores da política agrícola comum consagram o desenvolvimento sustentável, colocando maior ênfase nos produtos de qualidade, nos métodos e modos de produção sustentáveis, nas matérias-primas renováveis e na protecção da biodiversidade. O Plano Estratégico Nacional para o desenvolvimento rural no período 2007-2013, cujas orientações fundamentais foram aprovadas pela Resolução do Conselho de Ministros n.º 147/2006, de 2 de Novembro, estabelece, como objectivos estratégicos, o aumento da competitividade do sector agrícola e florestal e a promoção da sustentabilidade dos espaços rurais e dos recursos naturais. Face a este enquadramento foram então estabelecidos, a par de outros, objectivos específicos, como é o caso da valorização de produtos de qualidade e do incentivo à introdução ou manutenção de modos de produção compatíveis com a protecção de valores ambientais, no âmbito da actividade agrícola e agro-florestal.
+
+Por outro lado, importa ter presente a adopção, prevista para breve, de um novo quadro regulamentar em matéria de produtos fitofarmacêuticos a nível comunitário, em particular o preconizado pela proposta de directiva do Parlamento Europeu e do Conselho, que estabelece um quadro de acção comunitário para uma utilização sustentável de pesticidas. Segundo esta proposta, importa realçar que, a partir de 1 de Janeiro de 2014, se imporá a obrigatoriedade a todos os agricultores profissionais de serem seguidos os princípios e orientações da protecção integrada na protecção fitossanitária das culturas.
+
+O desenvolvimento das orientações e imposições comunitárias referidas tem repercussões na legislação nacional vigente, nomeadamente na relativa à protecção integrada, produção integrada e ao modo de produção biológico, pelo que se impõe proceder à sua adequação à nova realidade.
+
+O Decreto-Lei n.º 180/95, de 26 de Julho, estabeleceu um regime jurídico de base relativo aos métodos de protecção da produção agrícola e à produção integrada das culturas, promovendo a utilização de práticas agrícolas adequadas à salvaguarda do ambiente e da diversidade biológica, bem como um procedimento conducente ao reconhecimento oficial de organizações de agricultores que apoiam a prática da protecção e ou produção integrada das culturas, regime este complementado por portarias regulamentadoras, mormente quanto à acreditação de técnicos e aprovação de normas técnicas que consubstanciam a aplicação prática daquele método de protecção e modo de produção. Este regime consagrou e desenvolveu evidentes benefícios para a agricultura nacional e consumidores em geral, nomeadamente, pela actividade das organizações de agricultores na consciencialização dos seus associados para o relevante papel da prática da protecção e produção integradas das culturas suportada pela assistência técnica daquelas entidades. A implementação do referido regime legal veio, desde muito cedo, a estar indissociavelmente ligado à faculdade de os agricultores poderem, complementarmente, recorrer a regimes de ajudas financeiras públicas, nomeadamente no âmbito do Plano de Desenvolvimento Rural (RURIS), que exigiam a verificação de certos requisitos que se encontram previstos no referido decreto-lei e sua regulamentação.
+
+Em contexto idêntico, situa-se a Portaria n.º 180/2002, de 28 de Fevereiro, que estabeleceu as condições e o procedimento para o reconhecimento das organizações de agricultores em modo de produção biológico, bem como para o reconhecimento dos técnicos que podem prestar assistência em modo de produção biológico. Este regime, criado em sede de implementação do programa RURIS, trouxe também inegáveis benefícios à agricultura, através do acompanhamento dos agricultores pelas suas organizações e de técnicos dotados de qualificação específica para o desenvolvimento da actividade agrícola em modo de produção biológico. Também, nesta área, foi reconhecida a prerrogativa de os agricultores poderem, paralelamente, recorrer a regimes de ajudas financeiras públicas no âmbito do programa RURIS, mediante adequada assistência técnica das suas organizações, de acordo com os requisitos previstos na referida portaria.
+
+Considera-se, agora, oportuno consolidar e actualizar num único diploma a legislação vigente, eliminando e simplificando procedimentos a cumprir pelos agricultores, tendo em vista uma maior adesão à prática da protecção integrada e aos modos de produção integrada e biológico e, paralelamente, promover a difusão do conhecimento técnico e científico desenvolvido ao longo dos últimos anos, bem como a valorização das competências profissionais dos técnicos oficialmente reconhecidos. Neste sentido, mantém-se a exigência do cumprimento de um conjunto de regras técnicas para um correcto exercício da protecção e produção integradas e do modo de produção biológico, e são reconhecidas as competências obtidas pelos técnicos especializados cujos conhecimentos são passíveis de serem utilizados, embora sem carácter obrigatório, no apoio aos agricultores na melhoria da produção agrícola nacional.
+
+Pelo exposto, com o presente decreto-lei aprova-se um novo quadro regulamentar, que consagra os princípios, orientações e prevê a elaboração de normas técnicas subjacentes à prática da protecção integrada, produção integrada e modo de produção biológico, enquanto método de protecção da produção vegetal e modos de produção agrícola, e sua regulamentação, procedendo-se, em consonância, à revogação do Decreto-Lei n.º 180/95, de 26 de Julho, e da Portaria n.º 180/2002, de 28 de Fevereiro, mantendo-se, no entanto, em vigor a Portaria n.º 131/2005, de 2 de Fevereiro, relativa a medidas de controlo e certificação.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Foram ouvidos, a título facultativo, a Federação Nacional das Cooperativas de Consumidores e a União Geral de Consumidores.
+
+Foi promovida a audição à Associação Nacional de Municípios Portugueses e ao Conselho Nacional de Consumo.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Objecto, definições e competências
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei estabelece os princípios e as orientações para a prática da proteção integrada e da produção integrada e o regime das normas técnicas aplicáveis à proteção integrada, à produção integrada e ao modo de produção biológico, no âmbito da produção agrícola primária, e regulamenta a formação dos técnicos em proteção integrada, em produção integrada ou em modo de produção biológico e o acesso e exercício da atividade das respetivas entidades formadoras.
+
+b) Formação superior em ciências agrárias complementada com ações de formação para técnicos, de que tenha resultado a aquisição de competências na área do modo de produção biológico para a componente animal.
+
+7 - Sempre que razões técnicas fundamentadas justifiquem a necessidade de atualização de conhecimentos, o diretor-geral de agricultura e desenvolvimento rural pode determinar, mediante despacho, a obrigatoriedade dos técnicos que detenham formação regulamentada nos termos dos n.os 2 a 6 concluir, com aproveitamento, ações de formação de atualização, para que continuem a ser considerados detentores de formação regulamentada.
+
+8 - O despacho referido no número anterior é publicado na 2.ª série do Diário da República e publicitado no sítio na Internet da DGADR.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 37/2013 - Diário da República n.º 51/2013, Série I de 2013-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2013-259760), em vigor a partir de 2013-03-18
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente decreto-lei, entende-se por:
+
+a) «Estimativa do risco» a avaliação quantitativa de inimigos das culturas e análise da influência de certos factores nos prejuízos que possam causar;
+
+b) «Medicamentos veterinários» as substâncias ou associação de substâncias como tal definidas na alínea av) do n.º 1 do artigo 3.º do Decreto-Lei n.º 148/2008, de 29 de julho, alterado pelo Decreto-Lei n.º 314/2009, de 28 de outubro, que estabelece o regime jurídico a que obedece a autorização de introdução no mercado e as suas alterações e renovações, o fabrico, a importação, a exportação, a distribuição, a comercialização, a rotulagem e informação, a publicidade, a farmacovigilância, a detenção ou posse e a utilização de medicamentos veterinários;
+
+c) «Meio de protecção» o método de combate contra os inimigos das culturas, abrangendo medidas indirectas de luta ou meios directos de luta;
+
+d) «Modo de produção biológico» a utilização do modo de produção conforme as regras estabelecidas no Regulamento (CE) n.º 834/2007, do Conselho, de 28 de Junho, e sua regulamentação;
+
+e) «Nível económico de ataque» a intensidade de ataque de um inimigo da cultura a que se devem aplicar medidas limitativas ou de combate para impedir que a cultura corra o risco de prejuízos superiores ao custo das medidas de luta a adoptar, acrescidos dos efeitos indesejáveis que estas últimas possam provocar;
+
+f) «Produção integrada» a utilização do modo de produção conforme as regras estabelecidas no presente decreto-lei;
+
+g) «Produtos biocidas de uso veterinário» os produtos tal como definidos na alínea m) do n.º 1 do artigo 3.º do Decreto-Lei n.º 121/2002, de 3 de maio, que estabelece o regime jurídico da colocação no mercado dos produtos biocidas;
+
+h) «Produtos de uso veterinário» os produtos tal como definidos na alínea f) do artigo 3.º do Decreto-Lei n.º 237/2009, de 15 de setembro, que aprova as normas a que devem obedecer o fabrico, a autorização de venda, a importação, a exportação, a comercialização e a publicidade de produtos de uso veterinário;
+
+i) «Produtos fitofarmacêuticos» os produtos tal como definidos no n.º 1 do artigo 2.º do Regulamento (CE) n.º 1107/2009, do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, relativo à colocação dos produtos fitofarmacêuticos no mercado;
+
+j) «Protecção integrada» a utilização do método de protecção conforme as regras estabelecidas no presente decreto-lei;
+
+k) «Uso de produtos fitofarmacêuticos» a aplicação de produtos que obedece ao disposto no Decreto-Lei n.º 173/2005, de 21 de Outubro, que regula as actividades de distribuição, venda, prestação de serviços de aplicação de produtos fitofarmacêuticos e a sua aplicação pelos utilizadores finais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 37/2013 - Diário da República n.º 51/2013, Série I de 2013-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2013-259760), em vigor a partir de 2013-03-18
+
+###### Artigo 3.º — Competências
+
+1 - Para efeitos do presente decreto-lei, compete:
+
+a) À Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR), em articulação com a Direção-Geral de Alimentação e Veterinária (DGAV), estabelecer os princípios, orientações e normas técnicas necessárias à produção integrada, bem como as normas técnicas necessárias ao modo de produção biológico;
+
+b) À DGAV, estabelecer os princípios, orientações e normas técnicas necessárias à proteção integrada;
+
+c) À DGADR, em articulação com a DGAV, proceder à certificação de entidades formadoras de técnicos em proteção integrada, em produção integrada e em modo de produção biológico, bem como regulamentar a respetiva formação;
+
+d) À DGADR e à DGAV, apoiar as direções regionais de agricultura e pescas (DRAP) no domínio do disposto no presente decreto-lei e respetiva regulamentação.
+
+2 - O Instituto Nacional de Investigação Agrária e Veterinária, I. P., colabora com a DGADR e a DGAV na elaboração de normas técnicas, nomeadamente nas áreas da nutrição, fertilização e outras práticas culturais.
+
+3 - O controlo da prática de proteção integrada, produção integrada e a certificação dos produtos produzidos de acordo com estas formas de proteção e produção compete aos organismos de controlo e certificação, reconhecidos nos termos da Portaria n.º 131/2005, de 2 de fevereiro, que aprova o Regulamento de Controlo e Certificação dos Produtos Agrícolas e dos Géneros Alimentícios Derivados de Produtos Agrícolas Obtidos através da Prática da Proteção Integrada e da Produção Integrada.
+
+4 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 37/2013 - Diário da República n.º 51/2013, Série I de 2013-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2013-259760), em vigor a partir de 2013-03-18
+
+### Capítulo II — Protecção integrada
+
+###### Artigo 4.º — Noção de protecção integrada
+
+A protecção integrada consiste na avaliação ponderada de todos os métodos de protecção das culturas disponíveis e a integração de medidas adequadas para diminuir o desenvolvimento de populações de organismos nocivos e manter a utilização dos produtos fitofarmacêuticos e outras formas de intervenção a níveis económica e ecologicamente justificáveis, reduzindo ou minimizando os riscos para a saúde humana e o ambiente, privilegiando o desenvolvimento de culturas saudáveis com a menor perturbação possível dos ecossistemas agrícolas e agro-florestais e incentivando mecanismos naturais de luta contra os inimigos das culturas.
+
+###### Artigo 5.º — Princípios da protecção integrada
+
+A protecção integrada rege-se pelos seguintes princípios básicos:
+
+a) Implementação de medidas visando a limitação natural dos inimigos das culturas com vista a prevenir ou evitar o seu desenvolvimento;
+
+b) Redução, ao mínimo, das intervenções fitossanitárias nos ecossistemas agrícolas e agro-florestais;
+
+c) Utilização de todos os meios de luta disponíveis, integrando-os de forma harmoniosa e privilegiando, sempre que possível, as medidas indirectas;
+
+d) Recurso aos meios de luta directos, nomeadamente o uso de produtos fitofarmacêuticos, quando não haja alternativa;
+
+e) Selecção dos produtos fitofarmacêuticos em função da sua eficácia, persistência, custo e efeitos secundários em relação ao homem, aos auxiliares e ao ambiente.
+
+###### Artigo 6.º — Exercício da protecção integrada
+
+1 - A protecção fitossanitária das culturas rege-se pelos princípios enunciados no artigo anterior e tem por base a estimativa do risco, o nível económico de ataque, a selecção dos meios de luta e a tomada de decisão, nos termos seguintes:
+
+a) A tomada de decisão baseia-se na análise global da estimativa do risco, na referência a níveis económicos de ataque e na selecção dos meios de protecção, de modo a fornecer uma decisão fundamentada sobre a indispensabilidade de intervenção, os meios de luta a adoptar, privilegiando a integração dos meios de luta cultural, genética, biológica e biotécnica e a selecção dos produtos fitofarmacêuticos, se for o caso;
+
+b) A utilização de auxiliares em certas culturas e para determinadas pragas, cuja eficácia se revele determinante, deve ser fomentada com largadas de auxiliares ou com a introdução de órgãos de outras plantas;
+
+c) A realização de tratamentos contra os inimigos das culturas, em particular, os agentes patogénicos, deve ter por base os métodos de previsão ou os modelos de desenvolvimento dos inimigos das culturas, preconizados pelo Sistema Nacional de Avisos Agrícolas (SNAA);
+
+d) O uso de produtos fitofarmacêuticos apenas pode ter lugar quando atingido o nível económico de ataque ou, quando este não tenha sido estabelecido a nível nacional, seja devidamente justificado o seu uso face à importância e extensão dos estragos ou prejuízos causados pelo inimigo a combater;
+
+e) Apenas podem ser aplicados produtos fitofarmacêuticos homologados em Portugal e que constem da lista de produtos fitofarmacêuticos permitidos em protecção integrada da cultura ou grupos de culturas em causa, nos termos definidos no artigo 11.º
+
+2 - Em cada parcela homogénea em protecção integrada deve proceder-se ao registo no caderno de campo, devidamente datado, das intervenções fitossanitárias e outras práticas culturais, de forma a garantir a rastreabilidade e a qualidade da protecção fitossanitária.
+
+3 - Sem prejuízo do disposto nos números anteriores, em protecção integrada apenas podem ser adoptadas práticas que obedeçam às normas técnicas específicas, publicadas de acordo com o definido no artigo 11.º
+
+### Capítulo III — Produção integrada
+
+###### Artigo 7.º — Noção de produção integrada
+
+A produção integrada é um sistema agrícola de produção de alimentos e de outros produtos alimentares de alta qualidade, com gestão racional dos recursos naturais e privilegiando a utilização dos mecanismos de regulação natural em substituição de factores de produção, contribuindo, deste modo, para uma agricultura sustentável.
+
+###### Artigo 8.º — Objectivos da produção integrada
+
+A produção integrada tem por base os seguintes princípios:
+
+a) Regulação do ecossistema, importância do bem-estar dos animais e preservação dos recursos naturais;
+
+b) Exploração agrícola no seu conjunto, como a unidade de implementação da produção integrada;
+
+c) Actualização regular dos conhecimentos dos agricultores sobre produção integrada;
+
+d) Manutenção da estabilidade dos ecossistemas agrários;
+
+e) Equilíbrio do ciclo dos nutrientes, reduzindo as perdas ao mínimo;
+
+f) Preservação e melhoria da fertilidade intrínseca do solo;
+
+g) Fomento da biodiversidade;
+
+h) Entendimento da qualidade dos produtos agrícolas como tendo por base parâmetros ecológicos, assim como critérios usuais de qualidade, externos e internos;
+
+i) Protecção das plantas tendo obrigatoriamente por base os objectivos e as orientações da protecção integrada;
+
+j) Minimização de alguns dos efeitos secundários decorrentes das actividades agrícolas.
+
+###### Artigo 9.º — Exercício da produção integrada
+
+1 - O exercício da produção integrada inicia-se com a elaboração de um plano de exploração, que descreve o sistema agrícola e a estratégia de produção, de forma a permitir a execução de decisões fundamentadas e assentes nos princípios da produção integrada.
+
+2 - O plano de exploração referido no número anterior deve encontrar-se na posse do agricultor, do qual devem constar os elementos referentes ao sistema agrícola e à estratégia de produção, designadamente:
+
+a) O diagnóstico do sistema de produção;
+
+b) A escolha fundamentada de práticas de preservação dos recursos naturais, nomeadamente do solo, da água e da biodiversidade;
+
+c) A indicação de espécies e raças animais;
+
+d) A escolha de culturas e cultivares;
+
+e) A decisão da qualidade do material de propagação;
+
+f) A eleição do local e rotação das culturas;
+
+g) A selecção das técnicas culturais;
+
+h) A estratégia de fertilização;
+
+i) A estratégia de protecção das plantas e de rega;
+
+j) A salvaguarda do bem-estar animal;
+
+l) O maneio e alimentação animal;
+
+m) A profilaxia e saúde animal;
+
+n) A gestão de efluentes de origem animal.
+
+3 - No que respeita à componente vegetal são aplicadas técnicas culturais que estabeleçam um adequado equilíbrio entre a localização da cultura, a variedade ou cultivar e o sistema cultural, de modo que seja possível obter-se uma produção equilibrada em termos de qualidade e quantidade, devendo obedecer aos seguintes critérios:
+
+a) O material destinado à plantação ou sementeira deve ser certificado de acordo com as normas oficiais em vigor, garantindo, nomeadamente, a sua homogeneidade e estado sanitário;
+
+b) A densidade de plantação ou sementeira deve ser adequada às características edafo-climáticas da região;
+
+c) As culturas permanentes devem ser podadas de modo a obter-se um desenvolvimento uniforme e equilibrado, assegurando uma boa utilização do espaço, que permita produções regulares, maximizando a utilização da radiação solar e simplificação das operações culturais.
+
+4 - A estratégia de fertilização e rega deve ser orientada para a nutrição adequada das culturas, corrigindo eventuais carências e evitando excessos minerais, de forma a proporcionar produções de elevada qualidade e a preservação do ambiente, devendo ter em conta, nomeadamente:
+
+a) A satisfação das necessidades nutritivas das culturas para níveis de produção previsíveis em função do potencial genético da cultura, da fertilidade do solo e da possibilidade de assegurar a correcta execução das restantes operações culturais;
+
+b) A capacidade do solo para disponibilizar à cultura os diversos nutrientes de que ela necessita;
+
+c) As características do solo e as condições meteorológicas prevalecentes, de forma a obter a sua melhor eficácia e a reduzir os riscos de perdas em prejuízo do ambiente, as quais influirão na escolha:
+
+i) Dos tipos de fertilizantes, das épocas e técnicas da sua aplicação;
+
+ii) Das técnicas de regadio e das dotações de rega;
+
+d) Com base no exposto na alínea anterior, deve estabelecer-se, para a exploração agrícola, um plano de fertilização e um plano de rega, por parcela homogénea e cultura, no caso das culturas perenes, ou por rotação, no caso das culturas anuais, no qual são definidos de forma objectiva os tipos, as quantidades, as épocas e as técnicas de aplicação dos fertilizantes e água, os quais devem ser revistos periodicamente em função das análises de solo e de água e, sempre que necessário e conveniente, da análise da planta;
+
+e) Sem prejuízo do disposto nas alíneas anteriores, os fertilizantes a aplicar devem obedecer às normas legais vigentes, devendo, em especial, ser isentos ou possuir teores muito baixos de metais pesados ou de outras substâncias perigosas para o ambiente, e ser apenas usados fertilizantes com micronutrientes quando a sua necessidade for tecnicamente reconhecida.
+
+5 - A protecção fitossanitária das culturas em produção integrada rege-se pelos princípios da protecção integrada.
+
+6 - Para a prática da produção integrada na componente animal é necessária a aplicação de técnicas que estabelecem um adequado equilíbrio e salvaguarda do bem-estar animal, de modo que seja possível obter-se uma produção sustentável em termos de qualidade e quantidade, devendo ter em conta, nomeadamente, o maneio e alimentação animal, a profilaxia e saúde animal e a gestão de efluentes de origem animal.
+
+7 - Em cada exploração agrícola em produção integrada deve proceder-se ao registo, no caderno de campo, devidamente datado, das informações relativas às práticas agrícolas adotadas, nomeadamente tratamentos fitossanitários, fertilizações e outras operações culturais, de forma a estimular a qualidade da produção através da autorregulação face ao plano de exploração.
+
+8 - Para efeitos do disposto no número anterior, sempre que as explorações agrícolas detenham animais, devem dispor do registo de medicamentos e medicamentos veterinários, a que se refere o artigo 82.º do Decreto-Lei n.º 148/2008, de 29 de julho, alterado pelo Decreto-Lei n.º 314/2009, de 28 de outubro, que transpõe para a ordem jurídica interna a Diretiva n.º 2009/9/CE, da Comissão, de 10 de fevereiro de 2009, que altera a Diretiva n.º 2001/82/CE, do Parlamento Europeu e do Conselho, de 6 de novembro de 2001, que estabelece um código comunitário relativo aos medicamentos veterinários, onde devem ser também registadas as operações relativas ao maneio e à alimentação dos animais.
+
+9 - Sem prejuízo do disposto nos números anteriores, em produção integrada apenas podem ser adoptadas práticas que obedeçam às normas técnicas específicas, publicadas de acordo com o definido no artigo 11.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 37/2013 - Diário da República n.º 51/2013, Série I de 2013-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2013-259760), em vigor a partir de 2013-03-18
+
+### Capítulo IV — Modo de produção biológico
+
+###### Artigo 10.º — Legislação aplicável
+
+1 - O modo de produção biológico rege-se pelo disposto:
+
+a) No Regulamento (CE) n.º 834/2007, do Conselho, de 28 de Junho, relativo ao modo de produção biológico e à rotulagem dos produtos produzidos em modo de produção biológico, e respectiva regulamentação complementar;
+
+b) No Regulamento (CE) n.º 889/2008, da Comissão, de 5 de Setembro, que estabelece as normas de execução do Regulamento (CE) n.º 834/2007, do Conselho, de 28 de Junho, no que respeita à produção biológica, à rotulagem e ao controlo, e respectiva regulamentação complementar;
+
+c) Nas regras nacionais de execução complementares que venham a ser estabelecidas ao abrigo da regulamentação comunitária referida nas alíneas anteriores.
+
+2 - Em modo de produção biológico apenas podem ser utilizados:
+
+a) Produtos fitofarmacêuticos autorizados ao abrigo do Regulamento (CE) n.º 1107/2009, do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, ou do Decreto-Lei n.º 94/98, de 15 de abril, relativo à colocação nos mercados dos produtos fitofarmacêuticos;
+
+b) Medicamentos veterinários e produtos de uso veterinário autorizados, respetivamente, ao abrigo do Decreto-Lei n.º 148/2008, de 29 de julho, alterado pelo Decreto-Lei n.º 314/2009, de 28 de outubro, e do Decreto-Lei n.º 237/2009, de 15 de setembro;
+
+c) Produtos biocidas de uso veterinário autorizados ao abrigo do Decreto-Lei n.º 121/2002, de 3 de maio.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 37/2013 - Diário da República n.º 51/2013, Série I de 2013-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2013-259760), em vigor a partir de 2013-03-18
+
+### Capítulo V — Normas técnicas
+
+###### Artigo 11.º — Normas técnicas em protecção integrada e produção integrada e normas técnicas complementares em modo de produção biológico
+
+1 - As normas técnicas em protecção integrada, produção integrada e modo de produção biológico são o conjunto de procedimentos e orientações traduzidos em documentos que incluem os aspectos relativos às práticas específicas de cada actividade.
+
+2 - As normas técnicas elaboradas, desenvolvidas e apresentadas no âmbito da protecção integrada, produção integrada e modo de produção biológico incluem procedimentos obrigatórios, proibidos e aconselhados e são sujeitas a actualização ou adaptação periódica, sendo revistas e publicadas sempre que os conhecimentos técnicos e científicos o justifiquem.
+
+3 - As normas técnicas para a protecção integrada, produção integrada e modo de produção biológico são as que constam das publicações e dos documentos complementares específicos.
+
+4 - As publicações referidas nos números anteriores são editadas em formato digital e a sua publicitação é efetuada pela DGADR, no que respeita à produção integrada e ao modo de produção biológico, e pela DGAV, no que respeita à proteção integrada, nomeadamente através dos seus sítios na Internet.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 37/2013 - Diário da República n.º 51/2013, Série I de 2013-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2013-259760), em vigor a partir de 2013-03-18
+
+### Capítulo VI — Acesso e exercício da atividade de apoio técnico e entidades formadoras
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 37/2013 - Diário da República n.º 51/2013, Série I de 2013-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2013-259760), em vigor a partir de 2013-03-18
+
+###### Artigo 12.º — Livre acesso à atividade de apoio técnico
+
+1 - O acesso à atividade de apoio técnico em proteção integrada, em produção integrada ou em modo de produção biológico é livre.
+
+2 - [Revogado].
+
+3 - [Revogado].
+
+4 - [Revogado].
+
+5 - [Revogado].
+
+6 - [Revogado].
+
+7 - [Revogado].
+
+8 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 37/2013 - Diário da República n.º 51/2013, Série I de 2013-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2013-259760), em vigor a partir de 2013-03-18
+
+###### Artigo 13.º — Formação regulamentada
+
+1 - O livre acesso à atividade de apoio técnico em proteção integrada, em produção integrada ou em modo de produção biológico previsto no artigo anterior não prejudica o disposto nos números seguintes quanto à formação regulamentada, tal como definida na alínea g) do artigo 2.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto.
+
+2 - Constitui formação especificamente orientada para o exercício da atividade de apoio técnico em proteção integrada a detenção de:
+
+a) Formação superior em ciências agrárias de que tenha resultado a aquisição de competências na área da proteção integrada; ou
+
+b) Formação superior em ciências agrárias complementada com ações de formação para técnicos de que tenha resultado a aquisição de competências na área da proteção integrada.
+
+3 - Constitui formação especificamente orientada para o exercício da atividade de apoio técnico em produção integrada na componente vegetal a detenção de:
+
+a) Formação superior em ciências agrárias de que tenha resultado a aquisição de competências nas seguintes áreas:
+
+i) Produção vegetal, com abordagem dos conteúdos de escolha de culturas e variedades, material de propagação, rotação de culturas, técnicas de mobilização e regadio e outras técnicas culturais;
+
+ii) Nutrição e fertilização;
+
+iii) Proteção integrada;
+
+iv) Conservação dos recursos naturais, nomeadamente solo, água e biodiversidade; ou
+
+b) Formação superior em ciências agrárias complementada com ações de formação para técnicos, de que tenha resultado a aquisição de competências na área da produção integrada para a componente vegetal.
+
+4 - Constitui formação especificamente orientada para o exercício da atividade de apoio técnico em produção integrada na componente animal a detenção de:
+
+a) Formação superior em ciências agrárias ou médico-veterinárias de que tenha resultado a aquisição de competências nas seguintes áreas:
+
+i) Produção animal, com abordagem dos conteúdos em escolha de espécies e raças, técnicas de maneio, alimentação, profilaxia e saúde animal;
+
+ii) Bem-estar animal;
+
+iii) Gestão de efluentes de origem animal;
+
+iv) Conservação dos recursos naturais, nomeadamente solo, água e biodiversidade; ou
+
+b) Formação superior em ciências agrárias complementada com ações de formação para técnicos, de que tenha resultado a aquisição de competências na área da produção integrada para a componente animal.
+
+5 - Constitui formação especificamente orientada para o exercício da atividade de apoio técnico em modo de produção biológico na componente vegetal a detenção de:
+
+a) Formação superior em ciências agrárias de que tenha resultado a aquisição de competências em modo de produção biológico, nas seguintes áreas:
+
+i) Produção vegetal, com abordagem dos conteúdos de escolha de culturas e variedades, material de propagação, rotação de culturas, técnicas de mobilização e regadio e outras técnicas culturais;
+
+ii) Nutrição e fertilização;
+
+iii) Proteção das plantas;
+
+iv) Conservação dos recursos naturais, nomeadamente solo, água e biodiversidade; ou
+
+b) Formação superior em ciências agrárias complementada com cursos de formação para técnicos, de que tenha resultado a aquisição de competências na área do modo de produção biológico para a componente vegetal.
+
+6 - Constitui formação especificamente orientada para o exercício da atividade de apoio técnico em modo de produção biológico na componente animal a detenção de:
+
+a) Formação superior em ciências agrárias ou médico-veterinárias de que tenha resultado a aquisição de competências em modo de produção biológico, nas seguintes áreas:
+
+i) Produção animal, com abordagem dos conteúdos em escolha de espécies e raças, técnicas de maneio, alimentação, profilaxia e saúde animal;
+
+ii) Bem-estar animal;
+
+iii) Gestão de efluentes de origem animal;
+
+iv) Conservação dos recursos naturais, nomeadamente solo, água e biodiversidade; ou
+
+b) Formação superior em ciências agrárias complementada com ações de formação para técnicos, de que tenha resultado a aquisição de competências na área do modo de produção biológico para a componente animal.
+
+7 - Sempre que razões técnicas fundamentadas justifiquem a necessidade de atualização de conhecimentos, o diretor-geral de agricultura e desenvolvimento rural pode determinar, mediante despacho, a obrigatoriedade dos técnicos que detenham formação regulamentada nos termos dos n.os 2 a 6 concluir, com aproveitamento, ações de formação de atualização, para que continuem a ser considerados detentores de formação regulamentada.
+
+8 - O despacho referido no número anterior é publicado na 2.ª série do Diário da República e publicitado no sítio na Internet da DGADR.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 37/2013 - Diário da República n.º 51/2013, Série I de 2013-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2013-259760), em vigor a partir de 2013-03-18
+
+###### Artigo 13.º-A — Lista de técnicos com formação regulamentada
+
+1 - Quem detiver formação regulamentada nos termos do artigo anterior, ou nos termos de legislação de outro Estado-Membro do Espaço Económico Europeu, pode requerer a sua inscrição, a título facultativo, na lista atualizada de técnicos detentores de formação regulamentada para apoio técnico em proteção integrada, em produção integrada ou em modo de produção biológico, disponível no sítio na Internet da DGADR.
+
+2 - O requerimento para inscrição na lista é dirigido ao diretor-geral de agricultura e desenvolvimento rural e apresentado em formulário eletrónico, disponibilizado no sítio na Internet da DGADR e acessível através do balcão único eletrónico de serviços a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho.
+
+3 - O requerimento a que se refere o número anterior é acompanhado dos comprovativos de que o requerente detém:
+
+a) A formação referida nos n.os 2 a 7 do artigo anterior; ou
+
+b) Formação regulamentada, nos termos de legislação de outro Estado-Membro do Espaço Económico Europeu, para o exercício de atividades comparável ao exercício da atividade de apoio técnico em proteção integrada, em produção integrada ou em modo de produção biológico previsto no presente decreto-lei.
+
+4 - A gestão e a atualização da lista referida no n.º 1 competem à DGADR, que pode, para este efeito, nomea-damente, usar a informação fornecida nos termos da alínea b) do n.º 6 do artigo 14.º-A, solicitar informações às entidades formadoras e aos profissionais em causa e utilizar os meios de cooperação administrativa referidos no artigo 14.º-D.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 37/2013 - Diário da República n.º 51/2013, Série I de 2013-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2013-259760), em vigor a partir de 2013-03-18
+
+###### Artigo 14.º — Deveres
+
+1 - O exercício da atividade de apoio técnico em proteção integrada, em produção integrada ou em modo de produção biológico, nos termos do artigo 12.º ou do artigo 13.º, está sujeito ao cumprimento do disposto nos artigos 4.º a 11.º e, ainda, dos seguintes deveres:
+
+a) Zelar pela correta aplicação da legislação relativa à proteção integrada, à produção integrada e ao modo de produção biológico nas explorações agrícolas e agro-florestais;
+
+b) Divulgar orientações técnicas corretas, nomeadamente as emanadas dos serviços oficiais;
+
+c) Orientar e dar apoio técnico aos agricultores nas diferentes vertentes associadas à proteção integrada, à produção integrada e ao modo de produção biológico, tendo em vista uma correta aplicação dos princípios deste método de proteção e modos de produção.
+
+2 - Quem violar o disposto nos artigos 4.º a 11.º e no número anterior responde civilmente pelos danos resultantes da violação, nos termos gerais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 37/2013 - Diário da República n.º 51/2013, Série I de 2013-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2013-259760), em vigor a partir de 2013-03-18
+
+###### Artigo 14.º-A — Certificação de entidades formadoras e ações de formação
+
+1 - A certificação das entidades formadoras que ministrem ações de formação em proteção integrada, em produção integrada ou em modo de produção biológico abrangidas pelo presente decreto-lei é regulada pela portaria a que se refere o n.º 2 do artigo 16.º do Decreto-Lei n.º 396/2007, de 31 de dezembro, sendo a entidade competente para a certificação a DGADR, mediante parecer prévio da DGAV.
+
+2 - Podem, ainda, ser estabelecidos outros requisitos específicos, em complemento ou em derrogação dos requisitos constantes da portaria a que se refere o n.º 2 do artigo 16.º do Decreto-Lei n.º 396/2007, de 31 de dezembro, mediante portaria do membro do Governo responsável pela área da agricultura.
+
+3 - A certificação, expressa ou tácita, de entidades formadoras é comunicada, no prazo de 10 dias, ao serviço central competente do ministério responsável pela área da formação profissional.
+
+4 - A certificação de entidades formadoras efetuada nos termos dos números anteriores, pela DGADR ou pelos serviços competentes das administrações das Regiões Autónomas competentes nos termos do artigo 15.º, tem validade em todo o território nacional.
+
+5 - As entidades formadoras comunicam previamente à DGADR, pelo meio previsto no n.º 1 do artigo 14.º-C, a realização das ações de formação, incluindo as ações de formação de atualização, devendo identificar:
+
+a) A ação a ministrar, a data de início, a duração, o horário de funcionamento e o local;
+
+b) Os formandos e os formadores e respetivas qualificações.
+
+6 - Devem as entidades formadoras, igualmente:
+
+a) Manter, pelo período de cinco anos, o registo das ações de formação realizadas em território nacional, bem como os processos individuais dos formandos;
+
+b) Comunicar à DGADR a identificação dos formandos que concluíram a ação de formação com aproveitamento, no prazo de 30 dias, pelo meio previsto no n.º 1 do artigo 14.º-C.
+
+7 - O disposto nos n.os 5 e 6 aplica-se às entidades formadoras legalmente estabelecidas noutro Estado-Membro do Espaço Económico Europeu para ministrar ações equivalentes às referidas no n.º 1 que pretendam ministrar ações de formação em território nacional de forma ocasional e esporádica.
+
+8 - As ações de formação ministradas por entidades formadoras não certificadas ou cuja realização não tenha sido previamente comunicada nos termos do n.º 5 não constituem formação regulamentada para o exercício da atividade de apoio técnico em produção integrada, em produção integrada ou em modo de produção biológico.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 37/2013 - Diário da República n.º 51/2013, Série I de 2013-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2013-259760), em vigor a partir de 2013-03-18
+
+###### Artigo 14.º-B — Reconhecimento de qualificações noutros Estados-Membros
+
+A DGADR é a autoridade competente para a aplicação da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, no que respeita aos pedidos de reconhecimento de qualificações apresentados noutros Estados-Membros do Espaço Económico Europeu por nacionais de Estados-Membros formados nos termos previstos no presente decreto-lei.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 37/2013 - Diário da República n.º 51/2013, Série I de 2013-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2013-259760), em vigor a partir de 2013-03-18
+
+### Capítulo VII — Disposições complementares, transitórias e finais
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 37/2013 - Diário da República n.º 51/2013, Série I de 2013-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2013-259760), em vigor a partir de 2013-03-18
+
+###### Artigo 14.º-C — Desmaterialização de procedimentos
+
+1 - Todos os pedidos, comunicações e requerimentos, bem como a apresentação de documentos e de informações, no âmbito dos procedimentos regulados pelo presente decreto-lei, são realizados por via eletrónica, através do balcão único eletrónico dos serviços a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho.
+
+2 - Quando, por motivo de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, os atos aí referidos podem ser praticados por qualquer outro meio previsto na lei.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 37/2013 - Diário da República n.º 51/2013, Série I de 2013-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2013-259760), em vigor a partir de 2013-03-18
+
+###### Artigo 14.º-D — Cooperação administrativa
+
+As autoridades competentes nos termos do presente decreto-lei participam na cooperação administrativa no âmbito dos procedimentos relativos a prestadores provenientes de outro Estado-Membro, nos termos do disposto no capítulo VI do Decreto-Lei n.º 92/2010, de 26 de julho, e do n.º 2 do artigo 51.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, nomeadamente através do Sistema de Informação do Mercado Interno.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 37/2013 - Diário da República n.º 51/2013, Série I de 2013-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2013-259760), em vigor a partir de 2013-03-18
+
+###### Artigo 15.º — Regiões Autónomas
+
+O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, com as devidas adaptações, nos termos da respetiva autonomia político-administrativa, cabendo a sua execução administrativa aos serviços e organismos das respetivas administrações regionais autónomas com atribuições e competências na matéria.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 37/2013 - Diário da República n.º 51/2013, Série I de 2013-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2013-259760), em vigor a partir de 2013-03-18
+
+###### Artigo 16.º — Taxas
+
+Pelos serviços prestados ao abrigo do disposto no presente decreto-lei, nomeadamente em matéria de inscrição na lista de técnicos em proteção integrada, em produção integrada ou em modo de produção biológico detentores de formação regulamentada, e de certificação de entidades formadoras, e tendo em consideração os respetivos custos administrativos, técnicos e logísticos, são devidas taxas a definir por portaria do membro do Governo responsável pela área da agricultura.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 37/2013 - Diário da República n.º 51/2013, Série I de 2013-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2013-259760), em vigor a partir de 2013-03-18
+
+###### Artigo 17.º — Regulamentação
+
+A regulamentação técnica complementar à prevista no presente decreto-lei, nomeadamente em matéria de normas técnicas, de formação regulamentada e de certificação de entidades formadoras no âmbito da proteção integrada, da produção integrada e do modo de produção biológico, é definida por portaria do membro do Governo responsável pela área da agricultura.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 37/2013 - Diário da República n.º 51/2013, Série I de 2013-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2013-259760), em vigor a partir de 2013-03-18
+
+###### Artigo 18.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto-Lei n.º 180/95, de 26 de Julho;
+
+b) As Portarias n.os 180/2002, de 28 de Fevereiro, e 422/2003, de 11 de Maio.
+
+###### Artigo 19.º — Manutenção em vigor
+
+Mantém-se em vigor a Portaria n.º 131/2005, de 2 de Fevereiro, relativa a medidas de controlo e certificação.
+
+###### Artigo 20.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 23 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Fernando Teixeira dos Santos - Luís Medeiros Vieira - Ana Maria Teodoro Jorge.
+
+Promulgado em 11 de Setembro de 2009.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 11 de Setembro de 2009.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

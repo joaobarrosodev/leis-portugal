@@ -1,0 +1,145 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:196745:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-868778812",
+ "dre_path": "/dr/detalhe/decreto-lei/55-1986-196745",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1986-03-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "868689443",
+    "868689444",
+    "868689445",
+    "868689446",
+    "868689447",
+    "868689448",
+    "868689449",
+    "868689450",
+    "868689451",
+    "868689452",
+    "868689453",
+    "868689454",
+    "868689455",
+    "868689456"
+   ]
+  }
+ ],
+ "fragments": {
+  "868689443": {
+   "fragment_id": "868778813",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 55/86\n\nde 15 de Março\n\nPelo Decreto-Lei n.º 45/83, de 27 de Janeiro, sob a designação genérica de medalha desportiva, compreendendo quatro modalidades de condecoração devidamente hierarquizadas, foram aprovados os novos modelos destas insígnias e regulamentada a sua concessão.\n\nConsiderando, porém, que ao criar o modelo para a medalha desportiva não foram contemplados certos conceitos mais actualizados, predominantes nas correntes do pensamento sobre o desporto;\n\nConsiderando que a medalha deverá possuir uma maior dignidade e que se torna necessário instituir as cores adoptadas pelo desporto quando se trate de actos ou realizações de carácter oficial;\n\nConsiderando que tradicionalmente essas cores são o azul e o vermelho, representando a primeira a nobreza do espírito desportivo e a segunda o valor, a combatividade e o espírito agonístico;\n\nConsiderando que se torna necessário criar uma forma que permita condecorar os estandartes das instituições e colectividades desportivas:\n\nEntendeu-se como necessário elaborar um novo diploma que tenha em conta o acima exposto e que venha, portanto, revogar o Decreto-Lei n.º 45/83, de 27 de Janeiro.\n\nDeste modo:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "868689444": {
+   "fragment_id": "868778814",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA medalha desportiva, destinada a galardoar os serviços prestados ao desporto, compreende os seguintes graus:\n\nMedalha de bons serviços desportivos;\n\nMedalha de mérito desportivo;\n\nMedalha de honra ao mérito desportivo;\n\nColar de honra ao mérito desportivo."
+  },
+  "868689445": {
+   "fragment_id": "868778815",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA medalha de bons serviços desportivos destina-se a galardoar indivíduos, organismos ou instituições nacionais ou estrangeiros pelos serviços prestados em favor do desporto nacional, nomeadamente os dirigentes e praticantes desportivos nacionais, pelo valor da sua actuação em funções de direcção ou na prática de actividades desportivas."
+  },
+  "868689446": {
+   "fragment_id": "868778816",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA medalha de mérito desportivo destina-se a galardoar serviços relevantes prestados ao desporto por nacionais ou estrangeiros e os desportistas que obtenham para Portugal classificações notáveis em competições internacionais."
+  },
+  "868689447": {
+   "fragment_id": "868778817",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA medalha de honra ao mérito desportivo destina-se a galardoar individualidades e colectividades nacionais ou estrangeiras pelos serviços prestados em prol do desporto nacional e pela continuidade ou repetição de acções ou factos relevantes prestigiando o desporto nacional e o nome do País."
+  },
+  "868689448": {
+   "fragment_id": "868778818",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO colar de honra ao mérito desportivo destina-se a individualidades e colectividades nacionais ou estrangeiras que se hajam distinguido por valioso e excepcional contributo prestado à causa do desporto e à aproximação desportiva entre os povos."
+  },
+  "868689449": {
+   "fragment_id": "868778819",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAs medalhas referidas nos artigos anteriores são conferidas por despacho do membro do Governo que tutelar a área do desporto."
+  },
+  "868689450": {
+   "fragment_id": "868778820",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - A medalha de bons serviços desportivos, conforme modelo em anexo, é de prata patinada, terá forma circular, com 0,045 m de diâmetro, e o anverso será um baixo-relevo de uma mulher, figurando a República Portuguesa, sentada numa cadeira de espaldar, segurando com a mão esquerda uma bandeira desfraldada e tendo na direita um ramo de oliveira; a seus pés encontra-se um ramo de palma, símbolo da vitória; na parte superior direita, e acompanhando a curvatura da forma, será inscrita a designação do grau, «BONS SERVIÇOS».\n\n2 - No verso será esculpido um escudo de tipo português contendo, em relevo, as cinco quinas dispostas em cruz, cada uma em escudo do mesmo tipo. A envolver o cantão dextro do chefe do escudo será inscrita a designação «DESPORTO».\n\n3 - A medalha de bons serviços desportivos usar-se-á com fivela pendendo de fita de seda de 0,03 m de largura, dividida longitudinalmente em três faixas iguais, duas das quais serão de cor azul e a do meio vermelha.\n\n4 - Aos agraciados com esta medalha é permitido o uso do laço da respectiva fita na botoeira do traje civil e o uso de miniatura da condecoração em traje de cerimónia."
+  },
+  "868689451": {
+   "fragment_id": "868778821",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - A medalha de mérito desportivo, conforme modelo em anexo, é idêntica à de bons serviços desportivos, substituída a designação «BONS SERVIÇOS» pela designação «MÉRITO» e acrescentada de dois ramos de louro entrelaçados na base da medalha, com a largura de 0,005 m, esculpidos em relevo no anverso e verso.\n\n2 - A medalha usar-se-á com fivela pendente de fita de seda idêntica ao anterior grau, tendo, porém, sobre a fivela, uma roseta da cor da fita, com o diâmetro de 0,01 m.\n\n3 - Aos agraciados com este grau é permitido o uso da roseta, com as dimensões atrás referidas, na botoeira do traje civil e o uso de miniatura da condecoração em traje de cerimónia."
+  },
+  "868689452": {
+   "fragment_id": "868778822",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - A medalha de honra ao mérito desportivo, conforme modelo em anexo, é idêntica à de mérito desportivo, substituindo a designação «MÉRITO» por «HONRA AO MÉRITO» e assentando sobre uma cruz pátea orbicular (cruz templária), com 0,065 m de diâmetro, esculpida no anverso e verso e esmaltada de vermelho.\n\n2 - A medalha usar-se-á com fivela pendente de uma fita de seda idêntica ao grau anterior, tendo, sobre a fivela, uma roseta das cores da fita, com o diâmetro de 0,014 m.\n\n3 - Aos agraciados com este grau é permitido o uso da roseta, com 0,014 m de diâmetro, na botoeira do traje civil e o uso de miniatura da condecoração em traje de cerimónia."
+  },
+  "868689453": {
+   "fragment_id": "868778823",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - O colar de honra ao mérito desportivo, conforme modelo em anexo, terá a forma da medalha de honra ao mérito desportivo, mas assente sobre uma estrela de quatro pontas raiadas em vermeil, acompanhando a forma circular da medalha.\n\n2 - A medalha penderá de um colar em prata, formado por palmas de louro entrelaçadas, alternando com escudos das cinco quinas.\n\n3 - Aos agraciados com este grau é permitido o uso, na botoeira, de uma roseta com 0,014 m de diâmetro, tendo ao meio uma coroa de louros entrelaçados, bem como o uso de miniatura em traje de cerimónia.\n\n4 - Nos actos solenes, esta insígnia será usada pendendo do colar."
+  },
+  "868689454": {
+   "fragment_id": "868778824",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - Os vários graus da medalha desportiva, quando atribuídos a colectividades, organismos e instituições, devem pender de laço com fitas de cor azul e vermelha.\n\n2 - Estes agraciados poderão usar a condecoração no seu estandarte e a insígnia da medalha no emblema ou selo que os identifique."
+  },
+  "868689455": {
+   "fragment_id": "868778825",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nCada titular da medalha desportiva terá direito a receber um diploma, em cartolina, com uma esquadria das cores da fita da medalha, instituídas como cores a adoptar pelo desporto a nível oficial, tendo na parte superior o desenho da medalha suspensa do colar de honra ao mérito desportivo e a inscrição da legenda «Gente forte e de altos pensamentos»."
+  },
+  "868689456": {
+   "fragment_id": "868778826",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - A todas as medalhas corresponderá um estojo forrado em pele azul, tendo na tampa uma aplicação, em baixo-relevo, com a esfera armilar e o escudo nacional envolvido por uma coroa de palmas de louro, acompanhada pela sigla «R. P.».\n\n2 - A almofada do interior será em veludo vermelho-escuro e o forro da tampa em tecido acetinado vermelho. O estojo deverá ainda conter as rosetas e laço correspondentes, para uso adequado nas botoeiras ou em traje feminino, bem como uma miniatura da medalha respectiva.\n\nArt. 4.º Fica revogado o Decreto-Lei n.º 45/83, de 27 de Janeiro."
+  }
+ }
+}

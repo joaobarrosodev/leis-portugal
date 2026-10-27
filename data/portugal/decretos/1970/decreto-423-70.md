@@ -1,0 +1,166 @@
+---
+schema_version: '1.0'
+id: pt:dre:148832:por
+title: Decreto n.º 423/70
+short_title: null
+summary: Insere disposições destinadas a regular a instalação, funcionamento e fiscalização das salas de trânsito e das lojas
+  francas nos aeroportos internacionais das províncias ultramarinas, sem prejuízo da demais legislação aplicável
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Inspecção Superior das Alfândegas do Ultramar
+proposing_entity: null
+official_number: 423/70
+official_date: null
+publication_date: '1970-09-04'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 205/1970, Série I de 1970-09-04
+  number: '205'
+  series: I
+  supplement: null
+  pages: 1182 - 1184
+  pdf_url: https://files.diariodarepublica.pt/1s/1970/09/20500/11821184.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '148832'
+  dre_path: /dr/detalhe/decreto/423-1970-148832
+  internal: pt:dre:148832:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/423-1970-148832
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/423-1970-148832
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:14:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a77b64ad9bc721e426a039d7031392ce4a27eed725160ce092a1eb5978cab5a4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:14:04Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:272441:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:14:04Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 423/70
+
+Reconhecendo-se a conveniência de autorizar o estabelecimento de lojas francas nos aeroportos abertos ao tráfego internacional nas províncias ultramarinas e, simultâneamente, regular a instalação e funcionamento das respectivas salas de trânsito, à semelhança do que se verifica noutros aeroportos internacionais, inclusivamente nos da metrópole;
+
+Mediante parecer das províncias ultramarinas interessadas;
+
+Ouvido o Conselho Ultramarino;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+
+Artigo 1.º - 1. A instalação, funcionamento e fiscalização das salas de trânsito e das lojas francas nos aeroportos internacionais das províncias ultramarinas regular-se-ão nos termos do presente diploma, sem prejuízo da demais legislação aplicável.
+
+2. Consideram-se lojas francas os estabelecimentos autorizados a transaccionar, nas salas de trânsito dos aeroportos internacionais, mercadorias nacionais, nacionalizadas e estrangeiras.
+
+3. As mercadorias vendidas nas lojas francas são isentas de direitos de importação e de exportação e demais imposições, incluindo os impostos de produção e de consumo e os emolumentos gerais aduaneiros.
+
+Art. 2.º - 1. As salas de trânsito funcionarão com fiscalização permanente dos serviços das alfândegas e da Direcção-Geral de Segurança e deverão ser instaladas por forma a constituírem um recinto devidamente isolado das restantes dependências do aeroporto.
+
+2. Os serviços das alfândegas e a Direcção-Geral de Segurança darão sempre parecer em relação aos projectos de obras de construção e ampliação das salas de trânsito e das lojas francas.
+
+Art. 3.º - 1. Só podem ter acesso às salas de trânsito:
+
+a) Os passageiros em trânsito;
+
+b) Os passageiros a embarcar com destino à metrópole, às outras províncias ultramarinas e ao estrangeiro, quando não houver no aeroporto sala que lhes seja especialmente destinada;
+
+c) As bagagens de mão dos passageiros referidos nas alíneas antecedentes;
+
+d) As pessoas que tenham necessidade de se deslocar às referidas salas em virtude das suas actividades profissionais;
+
+e) As mercadorias destinadas às lojas francas.
+
+2. A entrada nas salas de trânsito dos passageiros referidos na alínea b) do número anterior e das pessoas mencionadas na alínea d) do mesmo número só será permitida mediante a apresentação, respectivamente, do cartão de embarque, visado pela autoridade policial, ou de licença de acesso, com validade até ao fim do ano civil respectivo, concedida pelos serviços de aeronáutica civil, mediante parecer favorável dos serviços das alfândegas e da Direcção-Geral de Segurança.
+
+Art. 4.º Os passageiros e suas bagagens que entrem nas salas de trânsito e as mercadorias destinadas à venda nas lojas francas só podem entrar ou reentrar no interior da respectiva província ultramarina em casos devidamente justificados e com autorização, respectivamente, da Direcção-Geral de Segurança e dos serviços das alfândegas.
+
+Art. 5.º - 1. São dispensadas do boletim de registo prévio as importações, exportações e reexportações de mercadorias de cada província ultramarina realizadas ao abrigo deste diploma e para os fins nele previstos.
+
+2. Os serviços licenciadores de cada província ultramarina não porão quaisquer obstáculos às importações realizadas ao abrigo e para os fins previstos neste diploma, nem deduzirão essas importações dos contingentes globais.
+
+Art. 6.º - 1. A instalação e exploração das lojas francas nas salas de trânsito dependem de licença, a conceder por despacho do governador da respectiva província.
+
+2. A licença a que se refere este artigo é intransmissível, salvo nos casos em que, por morte do respectivo titular, a transmissão for expressamente autorizada.
+
+Art. 7.º - 1. Pela concessão das licenças de exploração de lojas francas serão devidas taxas, a fixar em portaria do governo de cada província ultramarina.
+
+2. As taxas a que se refere o número anterior serão cobradas pelos aeroportos respectivos e reverterão para o Estado.
+
+Art. 8.º - 1. Os titulares das licenças de exploração das lojas francas poderão, com autorização da alfândega, armazenar as mercadorias destinadas à venda nas referidas lojas em depósitos fora das instalações do aeroporto.
+
+2. Os depósitos de mercadorias e as lojas francas ficam sujeitos às disposições da lei aduaneira aplicáveis, respectivamente, aos armazéns alfandegados e aos armazéns afiançados.
+
+3. As transferências de mercadorias dos armazéns alfandegados para as lojas francas far-se-ão por meio de guias de transferência.
+
+Art. 9.º - 1. Só os passageiros em trânsito e os referidos na alínea b) do artigo 3.º, depois de autorizados a entrar nas salas de trânsito, poderão comprar mercadorias nas lojas francas.
+
+2. Independentemente do disposto no artigo 4.º, os passageiros que usem da faculdade prevista no n.º 1 não poderão sair das salas de trânsito para o interior da província sem prèviamente depositarem na alfândega as mercadorias que houverem comprado.
+
+Art. 10.º Os titulares de licenças de exploração de lojas francas, independentemente da responsabilidade penal ou outra em que possam incorrer, especialmente a prevista no Contencioso Aduaneiro do Ultramar, aprovado pelo [Decreto n.º 33531](https://diariodarepublica.pt/dr/detalhe/decreto/33531-1944-272441), de 21 de Fevereiro de 1944, são sempre responsáveis pelo pagamento dos direitos e mais imposições referidos no n.º 3 do artigo 1.º, respeitantes às mercadorias encontradas a mais ou a menos do que constar nos respectivos registos e serão sempre solidàriamente responsáveis pelo pagamento dos direitos e mais imposições devidos pelas mercadorias descaminhadas cuja proveniência seja a daquelas lojas.
+
+Art. 11.º Sem prejuízo do disposto no artigo 16.º do Contencioso Aduaneiro do Ultramar, considera-se circunstância agravante, sendo-lhe aplicável o disposto no artigo 17.º do mesmo Contencioso, ser a infracção cometida pelas pessoas referidas na alínea d) do artigo 3.º deste diploma.
+
+Art. 12.º A condenação por delito fiscal dos titulares de licenças de exploração de lojas francas importa o cancelamento da respectiva licença, sem direito a qualquer indemnização.
+
+Art. 13.º Os compradores de mercadorias de lojas francas que as cedam a outrem ou que fraudulentamente as descaminhem do fim previsto neste diploma são responsáveis pelo pagamento dos direitos e mais imposições devidos, independentemente da responsabilidade civil e criminal em que possam incorrer pela prática do delito.
+
+Art. 14.º Os governadores das províncias ultramarinas, ouvidos os serviços interessados, expedirão, por portaria, os regulamentos necessários à boa execução deste decreto.
+
+Art. 15.º As alfândegas tomarão as medidas adequadas no sentido de verificar se todas as mercadorias vendidas nas lojas francas saíram efectivamente do território da província e foram vendidas nas condições estabelecidas nos regulamentos referidos no artigo anterior.
+
+Marcello Caetano - Joaquim Moreira da Silva Cunha.
+
+Promulgado em 20 de Agosto de 1970.
+
+Publique-se.
+
+Presidência da República, 4 de Setembro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado nos Boletins Oficiais de Cabo Verde, Angola, Moçambique e Timor. - J. da Silva Cunha.

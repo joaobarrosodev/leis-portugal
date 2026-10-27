@@ -1,0 +1,345 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:115740753:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2018-173130714",
+ "dre_path": "/dr/detalhe/decreto-lei/58-2018-115740753",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2018-07-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "173130618",
+    "173130619",
+    "173130620",
+    "173130621",
+    "173130622",
+    "173130623",
+    "173130624",
+    "173130625",
+    "173130626",
+    "173130627",
+    "173130628",
+    "173130629",
+    "173130630",
+    "173130631",
+    "173130632",
+    "173130633",
+    "173130634",
+    "173130635"
+   ]
+  },
+  {
+   "date": "2021-10-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:173109815:por",
+     "title": "Decreto-Lei n.º 87/2021",
+     "published": "2021-10-20",
+     "dre_path": "/dr/detalhe/decreto-lei/87-2021-173109815"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º",
+    "Altera Artigo 16.º",
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 11.º"
+   ],
+   "fragments": [
+    "173130618",
+    "173130637",
+    "173130638",
+    "173130639",
+    "173130640",
+    "173130641",
+    "173130642",
+    "173130643",
+    "173130644",
+    "173130627",
+    "173130628",
+    "173130645",
+    "173130646",
+    "173130631",
+    "173130632",
+    "173130633",
+    "173130647",
+    "173130635",
+    "173130636"
+   ]
+  }
+ ],
+ "fragments": {
+  "173130618": {
+   "fragment_id": "173130715",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 58/2018\n\nde 23 de julho\n\nA Autoridade Nacional da Aviação Civil (ANAC) aprovou o Regulamento n.º 1093/2016, publicado a 14 de dezembro de 2016 no Diário da República, o qual estabelece as condições de operação aplicáveis aos sistemas de aeronaves civis pilotadas remotamente, tendo em consideração, nomeadamente, as normas aplicáveis à organização do espaço aéreo e as regras do ar, constantes do Regulamento de Execução (UE) n.º 923/2012, da Comissão, de 26 de setembro de 2012, bem como as várias condições existentes, no que concerne aos locais onde estas aeronaves podem ou não ser utilizadas.\n\nA regulamentação emitida pela ANAC visou, essencialmente, garantir a segurança aérea, mediante a adoção de normas de cariz operacional que permitissem fazer face, de forma preliminar, aos riscos de utilização massiva deste tipo de aeronaves em Portugal.\n\nEssa disciplina deve ser completada, no entanto, pelo presente diploma. Constata-se que ainda não existe legislação harmonizada a nível internacional ou europeu aplicável à utilização e operação deste tipo de aeronaves. Sendo certo que foi recentemente disponibilizada, pela Agência Europeia para a Segurança da Aviação, no seu parecer n.º 1/2018, uma proposta de regulamento, as questões de segurança suscitadas pelo fenómeno impõem que o legislador nacional se antecipe a uma eventual regulação da matéria a nível europeu.\n\nTendo em conta as competências do Governo nesta matéria, importa criar um regime jurídico que discipline a nível nacional a utilização de aeronaves não tripuladas, através de mecanismos legais que permitam uma supervisão e fiscalização mais eficaz. Assim, na senda do que diversos países europeus têm vindo a fazer, opta-se pela adoção de legislação dirigida especificamente à criação de um registo dos operadores deste tipo de aeronaves e da obrigatoriedade de constituição de seguro de responsabilidade civil quando se pretenda operar aeronaves mais pesadas. No mesmo sentido, opta-se pela adoção da terminologia «aeronave não tripulada», «operador» e «piloto remoto» nos exatos termos adotados no âmbito da discussão sobre a futura regulamentação a aprovar pelos órgãos legislativos da União Europeia.\n\nCom a publicação do presente decreto-lei, o Governo tem também em vista o disposto no artigo 8.º da Convenção sobre Aviação Civil Internacional, aprovada pelo Estado português através do Decreto-Lei n.º 36158, de 17 de fevereiro de 1947, e ratificada em 28 de abril de 1948, nos termos do qual se dispõe que «as aeronaves suscetíveis de ser comandadas sem piloto só poderão sobrevoar sem piloto o território de um Estado contratante mediante uma autorização especial desse Estado e nas condições estipuladas nessa autorização», e ainda que «cada Estado contratante compromete-se a tomar medidas necessárias para que o voo das aeronaves sem piloto sobre regiões abertas às aeronaves civis seja regulado de modo a evitar qualquer perigo para as aeronaves civis.».\n\nInstitui-se, assim, a obrigatoriedade de registo dos operadores dos sistemas de aeronaves não tripuladas que tenham uma massa máxima operacional superior a 250 gramas, conforme proposto pela Agência Europeia para a Segurança da Aviação em discussão pública sobre a iniciativa legislativa comunitária sobre a matéria. Para o efeito, cria-se um código de identificação a atribuir, obrigatoriamente, a todos os operadores das referidas aeronaves. O registo materializa-se através da introdução de dados de identificação do operador e das aeronaves que este pretende operar. Essa informação constará de uma base de dados gerida pela ANAC, de modo a permitir a eficácia do controlo e da supervisão desta autoridade sobre os operadores dos referidos aparelhos.\n\nEstabelece-se, ainda, a obrigatoriedade de contratualização de seguros de responsabilidade civil quando a massa máxima operacional da aeronave seja superior a 900 gramas, prevendo-se algumas situações em que os operadores ficam excluídos dessa obrigação.\n\nRefira-se, ainda, que o disposto no presente decreto-lei não afasta a necessidade de cumprimento, por parte dos operadores e pilotos destas aeronaves, de outros regimes jurídicos que sejam aplicáveis, como é o caso do regime jurídico de proteção de dados pessoais e do regime dos levantamentos aéreos. Nem afasta a necessidade de garantir o respeito pela privacidade dos cidadãos, tutelada a nível penal, no quadro dos crimes de devassa da vida privada ou de gravações e fotografias ilícitas, que se encontram tipificados no Código Penal, nos artigos 192.º e 199.º, respetivamente.\n\nEstabelece-se o regime sancionatório a aplicar em caso de incumprimento das regras instituídas pelo presente decreto-lei, tarefa que fica a cargo da ANAC, a quem compete garantir a segurança das atividades relacionadas com a utilização civil destas aeronaves.\n\nFinalmente, aproveita-se para esclarecer que a definição de «aeronave não tripulada» é exclusiva do regime criado pelo presente decreto-lei, não devendo, em caso algum, ser entendida no sentido de alargar o conceito de «aeronave» utilizado em legislação avulsa, nomeadamente nos planos de ordenamento de parques naturais e de orlas costeiras, de forma a evitar restrições indesejadas à promoção da recolha de imagens no âmbito de atividades cinematográficas, publicitárias e afins.\n\nO presente decreto-lei foi submetido a consulta pública entre agosto e outubro de 2017. Neste âmbito foram ouvidas a Associação Portuguesa de Aeronaves Não Tripuladas, o Drone Club de Portugal, a Associação Portuguesa de Transporte e Trabalho Aéreo, a Associação Representativa das Companhias Aéreas em Portugal, a Associação dos Pilotos Portugueses de Linha Aérea, a Federação Portuguesa de Aeromodelismo e a Associação Portuguesa de Seguradores.\n\nForam ouvidos os órgãos de governo próprio das Regiões e a Comissão Nacional de Proteção de Dados.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "173130619": {
+   "fragment_id": "173130716",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - O presente decreto-lei estabelece um regime obrigatório de registo e de seguro de responsabilidade civil aplicável a operadores de sistemas de aeronaves civis não tripuladas no espaço aéreo nacional, usualmente designadas por drones.\n\n2 - Excluem-se do âmbito de aplicação do presente decreto-lei as aeronaves de Estado e as aeronaves não tripuladas utilizadas sob a direção e supervisão da Autoridade Nacional de Proteção Civil, pelos serviços de inspeção ambiental e de ordenamento do território e pelos serviços de controlo dos apoios financeiros concedidos no setor agrícola."
+  },
+  "173130620": {
+   "fragment_id": "173130717",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente decreto-lei, adotam-se as seguintes definições:\n\na) «Aeronave não tripulada (UA, Unmanned Aircraft)», uma aeronave operada ou concebida para operar autonomamente, ou para ser pilotada remotamente sem piloto a bordo;\n\nb) «Aeronave de construção amadora», aeronave não tripulada, total ou parcialmente desenvolvida, fabricada ou montada de forma amadora, por pessoas singulares, por pessoas coletivas sem fins lucrativos ou por instituições de ensino superior ou tecnológico, construída com base em:\n\ni) Projetos desenvolvidos pelo construtor amador;\n\nii) Projetos desenvolvidos por terceiros, desde que devidamente autorizado pelos seus autores; ou\n\niii) Kits de natureza comercial fabricados por terceiros;\n\nc) «Aeronaves de Estado», as aeronaves não tripuladas usadas nos serviços militares, aduaneiros e policiais;\n\nd) «Equipamento de controlo remoto de uma aeronave não tripulada», um instrumento, equipamento, mecanismo, aparelho, componente, programa informático ou acessório que é necessário para a operação segura de uma aeronave não tripulada, que não é uma peça da mesma e que não é transportado a bordo da aeronave não tripulada;\n\ne) «Massa máxima operacional», massa da aeronave no momento da descolagem, incluindo todos os equipamentos instalados;\n\nf) «Operador», pessoa singular ou coletiva envolvida, ou que se propõe envolver, na operação de uma ou mais aeronaves não tripuladas;\n\ng) «Piloto remoto», uma pessoa singular responsável por conduzir em segurança o voo de uma aeronave não tripulada operando os seus comandos de voo manualmente ou, no caso das aeronaves não tripuladas em voo automático, controlando a sua rota e apto para intervir e alterar a rota a qualquer momento;\n\nh) «Sistema de aeronave não tripulada (UAS, Unmanned Aircraft System)», sistema que compreende a aeronave não tripulada e o equipamento de controlo remoto da mesma."
+  },
+  "173130621": {
+   "fragment_id": "173130718",
+   "type": 11,
+   "heading": "Artigo 3.º — Registo obrigatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Registo obrigatório\n\n1 - Cada UAS só pode ser operado se o respetivo operador estiver validamente registado junto da Autoridade Nacional da Aviação Civil (ANAC).\n\n2 - Estão sujeitos ao registo obrigatório previsto no presente artigo, na plataforma eletrónica destinada ao efeito, todos os operadores que pretendam operar aeronaves cuja massa máxima operacional seja superior a 250 gramas, ainda que sejam de construção amadora ou que se destinem exclusivamente à realização de testes para efeitos de fabrico ou produção.\n\n3 - O registo é feito a requerimento do operador, ou de quem legalmente o represente, que deve associar ao seu registo as aeronaves que pretende operar cuja massa máxima operacional exceda o previsto no número anterior.\n\n4 - As associações desportivas que se dediquem à prática do aeromodelismo podem proceder ao registo dos operadores de UAS, em representação dos respetivos associados.\n\n5 - Os operadores não residentes em Portugal que utilizem os UAS em território nacional por período não superior a um mês não estão sujeitos à obrigação prevista no n.º 1, devendo efetuar uma comunicação prévia na plataforma eletrónica identificada no n.º 2, sendo-lhes atribuído um número de registo provisório com validade correspondente ao tempo de permanência em território nacional e referência expressa à data da referida comunicação."
+  },
+  "173130622": {
+   "fragment_id": "173130719",
+   "type": 11,
+   "heading": "Artigo 4.º — Procedimento de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Procedimento de registo\n\n1 - O registo é feito junto da ANAC, através de uma plataforma eletrónica, na qual devem ser carregados os seguintes elementos obrigatórios:\n\na) O nome, o número de identificação civil, o número de identificação fiscal, o endereço de correio eletrónico e os números de contacto telefónico do operador requerente, bem como a respetiva morada ou sede, caso se trate de pessoa coletiva;\n\nb) O número de série do UAS, se aplicável;\n\nc) A identificação do fabricante do UAS;\n\nd) A marca e modelo do UAS, se aplicável;\n\ne) A massa máxima operacional da UA;\n\nf) O número de motores da UA;\n\ng) O tipo de propulsão da UA;\n\nh) As dimensões da UA, designadamente altura, largura e comprimento;\n\ni) O tipo de UA, designadamente se é de asa fixa, asa rotativa, planador ou outro;\n\nj) A altitude máxima a que a UA pode voar, a velocidade máxima de deslocação e o raio de ação;\n\nk) Uma lista de qualquer outro material a bordo da UA que possa ser considerado perigoso, designadamente líquidos e gases comprimidos, líquidos e sólidos inflamáveis, substâncias que reagem com água, oxidantes e peróxidos orgânicos, substâncias propensas a combustão espontânea, substâncias tóxicas ou infecciosas, matérias radioativos, matérias magnetizados e corrosivos, ou quaisquer outros de natureza análoga;\n\nl) Informação sobre a capacidade para acoplamento de um sistema de reprodução fotográfica e filmagem;\n\n2 - Após a validação do pedido de registo feito nos termos do número anterior, a ANAC envia os dados necessários ao pagamento das taxas a que se refere o artigo 14.º\n\n3 - Após o recebimento do pagamento a que se refere o número anterior, a ANAC procede ao envio da etiqueta de registo com o código de identificação a que se refere o artigo 7.º, por correio, para a morada indicada no ato do registo, ou à disponibilização de equipamento que permita a identificação eletrónica do UAS.\n\n4 - Em caso de urgência, mediante pedido devidamente fundamentado, e desde que a sua procedência não ponha em causa a segurança aérea, a ANAC pode conceder um registo provisório, sujeito ao pagamento de taxas diferenciadas, devendo o requerimento ser instruído com a informação prevista no presente artigo.\n\n5 - No âmbito da comunicação prévia prevista no n.º 5 do artigo 3.º, os operadores de UAS não residentes em território nacional devem prestar a seguinte informação, através da plataforma eletrónica:\n\na) O nome do requerente do registo e, quando o requerente for pessoa diferente do operador, a qualidade em que requer, bem como o número de identificação civil ou passaporte, o endereço de correio eletrónico, morada ou sede, caso se trate de pessoa coletiva, e os respetivos contactos;\n\nb) A massa máxima operacional da UA; e\n\nc) O período de permanência em território nacional.\n\n6 - O registo é público, com referência ao nome e contacto do operador, número de registo e informação sobre a existência de eventuais mecanismos suscetíveis de afetar a privacidade dos cidadãos, designadamente equipamento que permita a captação de som ou imagens."
+  },
+  "173130623": {
+   "fragment_id": "173130720",
+   "type": 11,
+   "heading": "Artigo 5.º — Transmissão de UAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Transmissão de UAS\n\n1 - A transmissão do UAS é obrigatoriamente comunicada à ANAC, através da alteração da identificação do operador da aeronave na plataforma eletrónica de registo, no prazo de 10 dias úteis.\n\n2 - Para efeitos do disposto no número anterior, o operador que transmite o UAS fica obrigado a eliminar do seu registo a referência a esse UAS, identificando em simultâneo o novo operador.\n\n3 - Nos casos previstos no número anterior, o novo operador do UAS deve atualizar a informação relativa ao UAS na plataforma eletrónica, ou, caso ainda não se encontre registado, deve registar-se nos termos do presente decreto-lei, aplicando-se o disposto nos n.os 1 e 2 do artigo 7.º"
+  },
+  "173130624": {
+   "fragment_id": "173130721",
+   "type": 11,
+   "heading": "Artigo 6.º — UAS utilizados por operador diferente do proprietário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — UAS utilizados por operador diferente do proprietário\n\n1 - O proprietário que não seja operador do UAS, mas que o ceda a título gratuito ou oneroso a um operador, deve manter um registo interno de tal cedência, contendo os dados do operador destinatário, os quais devem ser conservados pelo período mínimo de dois anos após o termo da cedência.\n\n2 - As informações mencionadas no número anterior devem ser disponibilizadas à ANAC, sempre que tal for solicitado."
+  },
+  "173130625": {
+   "fragment_id": "173130722",
+   "type": 11,
+   "heading": "Artigo 7.º — Sistema de identificação dos UAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Sistema de identificação dos UAS\n\n1 - Uma vez efetuado o registo do operador de UAS, a ANAC atribui-lhe um código de identificação, constituído por 10 dígitos gerados automaticamente por uma aplicação informática.\n\n2 - A etiqueta de registo que contém o código de identificação a que se refere o número anterior deve ser afixada na estrutura da(s) UA utilizada(s) pelo operador, devendo ser mantida sem rasuras ou outros danos que comprometam a sua legibilidade, exceto nos casos em que seja possível identificar a UA através de um equipamento de identificação eletrónica.\n\n3 - Ao operador de UAS não residente em território nacional, mencionado no n.º 5 do artigo 3.º, é atribuído um código de identificação provisório com uma referência «TEMP», com validade correspondente ao tempo de permanência em território nacional e referência expressa à data da referida comunicação, devendo o mesmo ser colocado pelo próprio na estrutura da UA, designadamente através de uma etiqueta, autocolante ou de qualquer outro meio que possa ser fixado ou inscrito na aeronave de forma indelével.\n\n4 - O disposto nos números anteriores não é aplicável se a ANAC determinar a obrigatoriedade de instalação de equipamento de identificação eletrónica da aeronave, tal como previsto na parte final do n.º 3 do artigo 4.º, o qual deve ser afixado na estrutura da UA e mantido em condições de funcionamento, de acordo com o regulamento da ANAC que aprove as condições dessa identificação."
+  },
+  "173130626": {
+   "fragment_id": "173130723",
+   "type": 11,
+   "heading": "Artigo 8.º — Registo da venda de UAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Registo da venda de UAS\n\n1 - Os vendedores de UAS que comercializem UA cuja massa máxima operacional seja superior a 250 gramas devem declarar a venda das respetivas aeronaves junto da ANAC.\n\n2 - Para efeitos do disposto no número anterior, os vendedores devem declarar a venda na plataforma informática mencionada no artigo 4.º, que deve conter uma área específica para o efeito.\n\n3 - A declaração deve ser efetuada no ato da venda, devendo o vendedor inserir os dados mencionados nas alíneas b) a l) do n.º 1 do artigo 4.º e identificar o adquirente com os dados necessários para emissão de fatura.\n\n4 - O operador que adquira o UAS diretamente através da internet deve associar a aeronave ao seu registo de operador, ou criar um novo registo de operador para proceder à associação da aeronave."
+  },
+  "173130627": {
+   "fragment_id": "173130724",
+   "type": 11,
+   "heading": "Artigo 9.º — Responsabilidade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Responsabilidade civil\n\n1 - Os operadores de UAS respondem, independentemente de culpa, pelo ressarcimento dos danos causados a terceiros por esse sistema, salvo se o acidente se dever a culpa exclusiva do lesado.\n\n2 - A indemnização fundada em danos causados por UAS, quando não haja culpa do responsável, tem como limite máximo o capital mínimo do seguro obrigatório de responsabilidade civil a fixar nos termos do n.º 3 do artigo seguinte."
+  },
+  "173130628": {
+   "fragment_id": "173130725",
+   "type": 11,
+   "heading": "Artigo 10.º — Seguro obrigatório de responsabilidade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Seguro obrigatório de responsabilidade civil\n\n1 - Os operadores de UAS devem contratar um seguro obrigatório de responsabilidade civil para os danos patrimoniais causados por UAS cuja respetiva aeronave tenha uma massa máxima operacional superior a 900 gramas.\n\n2 - A obrigatoriedade de seguro prevista no número anterior não se aplica aos operadores de UAS que possuam seguro de responsabilidade civil no âmbito da prática desportiva.\n\n3 - As coberturas, condições e capitais mínimos do contrato de seguro previsto no n.º 1 são regulados por portaria dos membros do Governo responsáveis pelas áreas das finanças e da aviação civil, devendo, designadamente, considerar o risco associado ao respetivo UAS, com base nas diferentes massas máximas operacionais das aeronaves.\n\n4 - A submissão da informação e do comprovativo de contratualização do seguro de responsabilidade civil é feita na plataforma eletrónica de registo antes do início da utilização dos UAS por parte do operador."
+  },
+  "173130629": {
+   "fragment_id": "173130726",
+   "type": 11,
+   "heading": "Artigo 11.º — Vicissitudes do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Vicissitudes do registo\n\n1 - O registo dos operadores de UAS é válido por cinco anos, podendo ser revalidado nos 90 dias anteriores ao fim deste período, através de indicação na plataforma eletrónica de que os dados inerentes ao registo se mantêm atuais e que as aeronaves utilizadas pelo operador continuam em condições de utilização.\n\n2 - O registo que não seja revalidado caduca.\n\n3 - Em caso de transferência de UAS para o estrangeiro, o operador deve eliminar a informação referente à respetiva aeronave.\n\n4 - O registo do operador de UAS pode ser objeto de cancelamento a pedido do mesmo ou de quem o represente.\n\n5 - Excecionalmente, o titular do registo pode solicitar a suspensão do mesmo, pelo período máximo de um ano, sem prejuízo da eventual caducidade que, entretanto, possa ocorrer por decorrência do respetivo período de validade, designadamente em caso de suspensão provisória da atividade, reparação, desaparecimento, roubo ou furto da aeronave.\n\n6 - O operador pode igualmente eliminar, na plataforma eletrónica de registo, as aeronaves associadas ao seu registo que sejam abatidas por si ou que deixe de utilizar nas suas operações, assim como acrescentar novas aeronaves ao seu registo de operador."
+  },
+  "173130630": {
+   "fragment_id": "173130727",
+   "type": 11,
+   "heading": "Artigo 12.º — Regime contraordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regime contraordenacional\n\n1 - O procedimento de instauração, instrução e decisão sobre as contraordenações previstas nos números seguintes faz-se nos termos do regime do ilícito de mera ordenação social, aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro, na sua redação atual, sem prejuízo de outros regimes contraordenacionais aplicáveis consoante a conduta em causa.\n\n2 - Constituem contraordenações muito graves, puníveis com coima de (euro) 2000 a (euro) 3500, no caso de pessoas singulares, e de (euro) 5000 a (euro) 7500, no caso de pessoas coletivas:\n\na) A operação de UAS sem que o operador esteja registado na ANAC, em violação do disposto no n.º 1 do artigo 3.º ou, no caso de operador não residente, no n.º 5 do artigo 3.º;\n\nb) A operação de UAS sem que se encontrem afixados na estrutura da aeronave os elementos referidos no n.º 2 do artigo 7.º;\n\nc) A operação de UAS cuja etiqueta de registo afixada se encontre ilegível, em violação do disposto no n.º 2 do artigo 7.º;\n\nd) A operação de UAS por parte de não residentes em território nacional sem que a aeronave contenha os necessários elementos de identificação do operador, em violação do disposto no n.º 3 do artigo 7.º;\n\ne) A operação de UAS sem que se encontre afixado na estrutura da aeronave o equipamento de identificação eletrónica referido no n.º 4 do artigo 7.º, quando obrigatório;\n\nf) A operação de UAS com o equipamento de identificação eletrónica, referido no n.º 4 do artigo 7.º, desligado ou inoperacional;\n\ng) O incumprimento do dever de declarar a venda de UAS junto da ANAC, em violação do disposto no n.º 1 do artigo 8.º;\n\nh) A operação de UAS sem que o operador se encontre coberto por um contrato de seguro de responsabilidade civil, quando este seja obrigatório nos termos do disposto no artigo 10.º\n\n3 - Constituem contraordenações graves, puníveis com coima de (euro) 1000 a (euro) 2500, no caso de pessoas singulares, e de (euro) 3000 a (euro) 5000, no caso de pessoas coletivas:\n\na) A operação de UAS com o registo de operador caducado, em violação do n.º 1 do artigo 3.º;\n\nb) O incumprimento do dever de comunicação à ANAC da transmissão de UAS, em violação do disposto no n.º 1 do artigo 5.º;\n\nc) O incumprimento, por parte dos proprietários que não sejam os operadores do UAS, mas que o cedam a título gratuito ou oneroso a um operador, do dever de manterem um registo interno de tais cedências, contendo os dados do operador destinatário, em violação do disposto no artigo 6.º\n\n4 - Constitui contraordenação leve, punível com coima de (euro) 300 a (euro) 600, no caso de pessoas singulares, e de (euro) 800 a (euro) 1200, no caso de pessoas coletivas, a comunicação à ANAC da transmissão de um UAS após o fim do prazo previsto no artigo 5.º\n\n5 - A competência para processar as contraordenações previstas no presente artigo pertence à ANAC.\n\n6 - O produto das coimas referidas no número anterior é distribuído da seguinte forma:\n\na) 60 % para o Estado;\n\nb) 20 % para a entidade que levanta o auto de notícia;\n\nc) 20 % para a entidade instrutora do processo."
+  },
+  "173130631": {
+   "fragment_id": "173130728",
+   "type": 11,
+   "heading": "Artigo 13.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Sanções acessórias\n\nA ANAC pode determinar a aplicação da sanção acessória de interdição do exercício de atividades com recurso a UAS por um período não superior a dois anos, bem como declarar a perda de UAS ou de UA a favor do Estado, revertendo os mesmos, preferencialmente, para as autoridades que procederam à sua apreensão."
+  },
+  "173130632": {
+   "fragment_id": "173130729",
+   "type": 11,
+   "heading": "Artigo 14.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Taxas\n\n1 - Pelos atos de registo dos UAS previstos no presente decreto-lei são devidas taxas, as quais são cobradas pela ANAC, constituindo receitas próprias desta.\n\n2 - As taxas a cobrar aos membros de associações desportivas que se dediquem à prática do aeromodelismo são reduzidas para metade do seu valor.\n\n3 - A revalidação do registo de operadores, prevista no n.º 1 do artigo 11.º, não está sujeita ao pagamento de taxas.\n\n4 - Os montantes das taxas referidas nos números anteriores são fixados por portaria dos membros do governo responsáveis pelas áreas das finanças e da aviação civil."
+  },
+  "173130633": {
+   "fragment_id": "173130730",
+   "type": 11,
+   "heading": "Artigo 15.º — Infraestruturas aeroportuárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Infraestruturas aeroportuárias\n\n1 - As entidades gestoras de infraestruturas aeroportuárias com um volume global de tráfego superior a um milhão de passageiros por ano devem proceder à instalação de sistemas de deteção e inibição de UAS.\n\n2 - Para os efeitos do número anterior, os sistemas e equipamentos a instalar são objeto de aprovação pela ANAC."
+  },
+  "173130634": {
+   "fragment_id": "173130731",
+   "type": 11,
+   "heading": "Artigo 16.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Norma transitória\n\n1 - Os operadores de UAS devem proceder ao correspondente registo, junto da ANAC, nos termos previstos no presente decreto-lei, no prazo máximo de 60 dias a contar da data da disponibilização da plataforma prevista no artigo 4.º\n\n2 - Para efeitos do disposto no número anterior, a ANAC divulga na sua página eletrónica e em dois jornais nacionais de publicação diária a data oficial da disponibilização e entrada em funcionamento da plataforma eletrónica a utilizar para registo dos operadores de UAS.\n\n3 - Não são devidas taxas pelos atos de registo mencionados no n.º 1, desde que efetuados dentro do prazo aí previsto.\n\n4 - A obrigação prevista no artigo 15.º deve ser cumprida no prazo de 180 dias após a aprovação dos sistemas e equipamentos pela ANAC.\n\n5 - A obrigatoriedade de contratação de seguro de responsabilidade civil produz efeitos na data que vier a ser fixada pela portaria mencionada no artigo 10.º"
+  },
+  "173130635": {
+   "fragment_id": "173130732",
+   "type": 11,
+   "heading": "Artigo 17.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regulamentação\n\nAs portarias a que se referem os artigos 10.º e 14.º devem ser aprovadas no prazo de 60 dias após a entrada em vigor do presente decreto-lei."
+  },
+  "173130637": {
+   "fragment_id": "173130716",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": "2021-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 87/2021 - Diário da República n.º 204/2021, Série I de 2021-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2021-173109815), em vigor a partir de 2021-10-21"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - O presente decreto-lei estabelece um regime obrigatório de registo e de seguro de responsabilidade civil aplicável a operadores de sistemas de aeronaves civis não tripuladas no espaço aéreo nacional, usualmente designadas por drones.\n\n2 - Excluem-se do âmbito de aplicação do presente decreto-lei as aeronaves de Estado e as aeronaves não tripuladas utilizadas sob a direção e supervisão da Autoridade Nacional de Proteção Civil, pelos serviços de inspeção ambiental e de ordenamento do território e pelos serviços de controlo dos apoios financeiros concedidos no setor agrícola.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 87/2021 - Diário da República n.º 204/2021, Série I de 2021-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2021-173109815), em vigor a partir de 2021-10-21"
+  },
+  "173130638": {
+   "fragment_id": "173130717",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2021-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 87/2021 - Diário da República n.º 204/2021, Série I de 2021-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2021-173109815), em vigor a partir de 2021-10-21"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente decreto-lei, adotam-se as seguintes definições:\n\na) «Aeronave não tripulada (UA, Unmanned Aircraft)», uma aeronave operada ou concebida para operar autonomamente, ou para ser pilotada remotamente sem piloto a bordo;\n\nb) «Aeronave de construção amadora», aeronave não tripulada, total ou parcialmente desenvolvida, fabricada ou montada de forma amadora, por pessoas singulares, por pessoas coletivas sem fins lucrativos ou por instituições de ensino superior ou tecnológico, construída com base em:\n\ni) Projetos desenvolvidos pelo construtor amador;\n\nii) Projetos desenvolvidos por terceiros, desde que devidamente autorizado pelos seus autores; ou\n\niii) Kits de natureza comercial fabricados por terceiros;\n\nc) «Aeronaves de Estado», as aeronaves não tripuladas usadas nos serviços militares, aduaneiros e policiais;\n\nd) «Equipamento de controlo remoto de uma aeronave não tripulada», um instrumento, equipamento, mecanismo, aparelho, componente, programa informático ou acessório que é necessário para a operação segura de uma aeronave não tripulada, que não é uma peça da mesma e que não é transportado a bordo da aeronave não tripulada;\n\ne) «Massa máxima operacional», massa da aeronave no momento da descolagem, incluindo todos os equipamentos instalados;\n\nf) «Operador», pessoa singular ou coletiva envolvida, ou que se propõe envolver, na operação de uma ou mais aeronaves não tripuladas;\n\ng) «Piloto remoto», uma pessoa singular responsável por conduzir em segurança o voo de uma aeronave não tripulada operando os seus comandos de voo manualmente ou, no caso das aeronaves não tripuladas em voo automático, controlando a sua rota e apto para intervir e alterar a rota a qualquer momento;\n\nh) «Sistema de aeronave não tripulada (UAS, Unmanned Aircraft System)», sistema que compreende a aeronave não tripulada e o equipamento de controlo remoto da mesma.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 87/2021 - Diário da República n.º 204/2021, Série I de 2021-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2021-173109815), em vigor a partir de 2021-10-21"
+  },
+  "173130639": {
+   "fragment_id": "173130718",
+   "type": 11,
+   "heading": "Artigo 3.º — Registo obrigatório",
+   "in_force_from": "2021-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 87/2021 - Diário da República n.º 204/2021, Série I de 2021-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2021-173109815), em vigor a partir de 2021-10-21"
+   ],
+   "markdown": "###### Artigo 3.º — Registo obrigatório\n\n1 - Cada UAS só pode ser operado se o respetivo operador estiver validamente registado junto da Autoridade Nacional da Aviação Civil (ANAC).\n\n2 - Estão sujeitos ao registo obrigatório previsto no presente artigo, na plataforma eletrónica destinada ao efeito, todos os operadores que pretendam operar aeronaves cuja massa máxima operacional seja superior a 250 gramas, ainda que sejam de construção amadora ou que se destinem exclusivamente à realização de testes para efeitos de fabrico ou produção.\n\n3 - O registo é feito a requerimento do operador, ou de quem legalmente o represente, que deve associar ao seu registo as aeronaves que pretende operar cuja massa máxima operacional exceda o previsto no número anterior.\n\n4 - As associações desportivas que se dediquem à prática do aeromodelismo podem proceder ao registo dos operadores de UAS, em representação dos respetivos associados.\n\n5 - Os operadores não residentes em Portugal que utilizem os UAS em território nacional por período não superior a um mês não estão sujeitos à obrigação prevista no n.º 1, devendo efetuar uma comunicação prévia na plataforma eletrónica identificada no n.º 2, sendo-lhes atribuído um número de registo provisório com validade correspondente ao tempo de permanência em território nacional e referência expressa à data da referida comunicação.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 87/2021 - Diário da República n.º 204/2021, Série I de 2021-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2021-173109815), em vigor a partir de 2021-10-21"
+  },
+  "173130640": {
+   "fragment_id": "173130719",
+   "type": 11,
+   "heading": "Artigo 4.º — Procedimento de registo",
+   "in_force_from": "2021-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 87/2021 - Diário da República n.º 204/2021, Série I de 2021-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2021-173109815), em vigor a partir de 2021-10-21"
+   ],
+   "markdown": "###### Artigo 4.º — Procedimento de registo\n\n1 - O registo é feito junto da ANAC, através de uma plataforma eletrónica, na qual devem ser carregados os seguintes elementos obrigatórios:\n\na) O nome, o número de identificação civil, o número de identificação fiscal, o endereço de correio eletrónico e os números de contacto telefónico do operador requerente, bem como a respetiva morada ou sede, caso se trate de pessoa coletiva;\n\nb) O número de série do UAS, se aplicável;\n\nc) A identificação do fabricante do UAS;\n\nd) A marca e modelo do UAS, se aplicável;\n\ne) A massa máxima operacional da UA;\n\nf) O número de motores da UA;\n\ng) O tipo de propulsão da UA;\n\nh) As dimensões da UA, designadamente altura, largura e comprimento;\n\ni) O tipo de UA, designadamente se é de asa fixa, asa rotativa, planador ou outro;\n\nj) A altitude máxima a que a UA pode voar, a velocidade máxima de deslocação e o raio de ação;\n\nk) Uma lista de qualquer outro material a bordo da UA que possa ser considerado perigoso, designadamente líquidos e gases comprimidos, líquidos e sólidos inflamáveis, substâncias que reagem com água, oxidantes e peróxidos orgânicos, substâncias propensas a combustão espontânea, substâncias tóxicas ou infecciosas, matérias radioativos, matérias magnetizados e corrosivos, ou quaisquer outros de natureza análoga;\n\nl) Informação sobre a capacidade para acoplamento de um sistema de reprodução fotográfica e filmagem;\n\n2 - Após a validação do pedido de registo feito nos termos do número anterior, a ANAC envia os dados necessários ao pagamento das taxas a que se refere o artigo 14.º\n\n3 - Após o recebimento do pagamento a que se refere o número anterior, a ANAC procede ao envio da etiqueta de registo com o código de identificação a que se refere o artigo 7.º, por correio, para a morada indicada no ato do registo, ou à disponibilização de equipamento que permita a identificação eletrónica do UAS.\n\n4 - Em caso de urgência, mediante pedido devidamente fundamentado, e desde que a sua procedência não ponha em causa a segurança aérea, a ANAC pode conceder um registo provisório, sujeito ao pagamento de taxas diferenciadas, devendo o requerimento ser instruído com a informação prevista no presente artigo.\n\n5 - No âmbito da comunicação prévia prevista no n.º 5 do artigo 3.º, os operadores de UAS não residentes em território nacional devem prestar a seguinte informação, através da plataforma eletrónica:\n\na) O nome do requerente do registo e, quando o requerente for pessoa diferente do operador, a qualidade em que requer, bem como o número de identificação civil ou passaporte, o endereço de correio eletrónico, morada ou sede, caso se trate de pessoa coletiva, e os respetivos contactos;\n\nb) A massa máxima operacional da UA; e\n\nc) O período de permanência em território nacional.\n\n6 - O registo é público, com referência ao nome e contacto do operador, número de registo e informação sobre a existência de eventuais mecanismos suscetíveis de afetar a privacidade dos cidadãos, designadamente equipamento que permita a captação de som ou imagens.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 87/2021 - Diário da República n.º 204/2021, Série I de 2021-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2021-173109815), em vigor a partir de 2021-10-21"
+  },
+  "173130641": {
+   "fragment_id": "173130720",
+   "type": 11,
+   "heading": "Artigo 5.º — Transmissão de UAS",
+   "in_force_from": "2021-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 87/2021 - Diário da República n.º 204/2021, Série I de 2021-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2021-173109815), em vigor a partir de 2021-10-21"
+   ],
+   "markdown": "###### Artigo 5.º — Transmissão de UAS\n\n1 - A transmissão do UAS é obrigatoriamente comunicada à ANAC, através da alteração da identificação do operador da aeronave na plataforma eletrónica de registo, no prazo de 10 dias úteis.\n\n2 - Para efeitos do disposto no número anterior, o operador que transmite o UAS fica obrigado a eliminar do seu registo a referência a esse UAS, identificando em simultâneo o novo operador.\n\n3 - Nos casos previstos no número anterior, o novo operador do UAS deve atualizar a informação relativa ao UAS na plataforma eletrónica, ou, caso ainda não se encontre registado, deve registar-se nos termos do presente decreto-lei, aplicando-se o disposto nos n.os 1 e 2 do artigo 7.º\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 87/2021 - Diário da República n.º 204/2021, Série I de 2021-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2021-173109815), em vigor a partir de 2021-10-21"
+  },
+  "173130642": {
+   "fragment_id": "173130721",
+   "type": 11,
+   "heading": "Artigo 6.º — UAS utilizados por operador diferente do proprietário",
+   "in_force_from": "2021-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 87/2021 - Diário da República n.º 204/2021, Série I de 2021-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2021-173109815), em vigor a partir de 2021-10-21"
+   ],
+   "markdown": "###### Artigo 6.º — UAS utilizados por operador diferente do proprietário\n\n1 - O proprietário que não seja operador do UAS, mas que o ceda a título gratuito ou oneroso a um operador, deve manter um registo interno de tal cedência, contendo os dados do operador destinatário, os quais devem ser conservados pelo período mínimo de dois anos após o termo da cedência.\n\n2 - As informações mencionadas no número anterior devem ser disponibilizadas à ANAC, sempre que tal for solicitado.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 87/2021 - Diário da República n.º 204/2021, Série I de 2021-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2021-173109815), em vigor a partir de 2021-10-21"
+  },
+  "173130643": {
+   "fragment_id": "173130722",
+   "type": 11,
+   "heading": "Artigo 7.º — Sistema de identificação dos UAS",
+   "in_force_from": "2021-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 87/2021 - Diário da República n.º 204/2021, Série I de 2021-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2021-173109815), em vigor a partir de 2021-10-21"
+   ],
+   "markdown": "###### Artigo 7.º — Sistema de identificação dos UAS\n\n1 - Uma vez efetuado o registo do operador de UAS, a ANAC atribui-lhe um código de identificação, constituído por 10 dígitos gerados automaticamente por uma aplicação informática.\n\n2 - A etiqueta de registo que contém o código de identificação a que se refere o número anterior deve ser afixada na estrutura da(s) UA utilizada(s) pelo operador, devendo ser mantida sem rasuras ou outros danos que comprometam a sua legibilidade, exceto nos casos em que seja possível identificar a UA através de um equipamento de identificação eletrónica.\n\n3 - Ao operador de UAS não residente em território nacional, mencionado no n.º 5 do artigo 3.º, é atribuído um código de identificação provisório com uma referência «TEMP», com validade correspondente ao tempo de permanência em território nacional e referência expressa à data da referida comunicação, devendo o mesmo ser colocado pelo próprio na estrutura da UA, designadamente através de uma etiqueta, autocolante ou de qualquer outro meio que possa ser fixado ou inscrito na aeronave de forma indelével.\n\n4 - O disposto nos números anteriores não é aplicável se a ANAC determinar a obrigatoriedade de instalação de equipamento de identificação eletrónica da aeronave, tal como previsto na parte final do n.º 3 do artigo 4.º, o qual deve ser afixado na estrutura da UA e mantido em condições de funcionamento, de acordo com o regulamento da ANAC que aprove as condições dessa identificação.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 87/2021 - Diário da República n.º 204/2021, Série I de 2021-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2021-173109815), em vigor a partir de 2021-10-21"
+  },
+  "173130644": {
+   "fragment_id": "173130723",
+   "type": 11,
+   "heading": "Artigo 8.º — Registo da venda de UAS",
+   "in_force_from": "2021-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 87/2021 - Diário da República n.º 204/2021, Série I de 2021-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2021-173109815), em vigor a partir de 2021-10-21"
+   ],
+   "markdown": "###### Artigo 8.º — Registo da venda de UAS\n\n1 - Os vendedores de UAS que comercializem UA cuja massa máxima operacional seja superior a 250 gramas devem declarar a venda das respetivas aeronaves junto da ANAC.\n\n2 - Para efeitos do disposto no número anterior, os vendedores devem declarar a venda na plataforma informática mencionada no artigo 4.º, que deve conter uma área específica para o efeito.\n\n3 - A declaração deve ser efetuada no ato da venda, devendo o vendedor inserir os dados mencionados nas alíneas b) a l) do n.º 1 do artigo 4.º e identificar o adquirente com os dados necessários para emissão de fatura.\n\n4 - O operador que adquira o UAS diretamente através da internet deve associar a aeronave ao seu registo de operador, ou criar um novo registo de operador para proceder à associação da aeronave.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 87/2021 - Diário da República n.º 204/2021, Série I de 2021-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2021-173109815), em vigor a partir de 2021-10-21"
+  },
+  "173130645": {
+   "fragment_id": "173130726",
+   "type": 11,
+   "heading": "Artigo 11.º — Vicissitudes do registo",
+   "in_force_from": "2021-10-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 87/2021 - Diário da República n.º 204/2021, Série I de 2021-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2021-173109815), em vigor a partir de 2021-10-21"
+   ],
+   "markdown": "###### Artigo 11.º — Vicissitudes do registo\n\n1 - O registo dos operadores de UAS é válido por cinco anos, podendo ser revalidado nos 90 dias anteriores ao fim deste período, através de indicação na plataforma eletrónica de que os dados inerentes ao registo se mantêm atuais e que as aeronaves utilizadas pelo operador continuam em condições de utilização.\n\n2 - O registo que não seja revalidado caduca.\n\n3 - Em caso de transferência de UAS para o estrangeiro, o operador deve eliminar a informação referente à respetiva aeronave.\n\n4 - O registo do operador de UAS pode ser objeto de cancelamento a pedido do mesmo ou de quem o represente.\n\n5 - Excecionalmente, o titular do registo pode solicitar a suspensão do mesmo, pelo período máximo de um ano, sem prejuízo da eventual caducidade que, entretanto, possa ocorrer por decorrência do respetivo período de validade, designadamente em caso de suspensão provisória da atividade, reparação, desaparecimento, roubo ou furto da aeronave.\n\n6 - O operador pode igualmente eliminar, na plataforma eletrónica de registo, as aeronaves associadas ao seu registo que sejam abatidas por si ou que deixe de utilizar nas suas operações, assim como acrescentar novas aeronaves ao seu registo de operador.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 87/2021 - Diário da República n.º 204/2021, Série I de 2021-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2021-173109815), em vigor a partir de 2021-10-21"
+  },
+  "173130646": {
+   "fragment_id": "173130727",
+   "type": 11,
+   "heading": "Artigo 12.º — Regime contraordenacional",
+   "in_force_from": "2021-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 87/2021 - Diário da República n.º 204/2021, Série I de 2021-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2021-173109815), em vigor a partir de 2021-10-21"
+   ],
+   "markdown": "###### Artigo 12.º — Regime contraordenacional\n\n1 - O procedimento de instauração, instrução e decisão sobre as contraordenações previstas nos números seguintes faz-se nos termos do regime do ilícito de mera ordenação social, aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro, na sua redação atual, sem prejuízo de outros regimes contraordenacionais aplicáveis consoante a conduta em causa.\n\n2 - Constituem contraordenações muito graves, puníveis com coima de (euro) 2000 a (euro) 3500, no caso de pessoas singulares, e de (euro) 5000 a (euro) 7500, no caso de pessoas coletivas:\n\na) (Revogado.)\n\nb) (Revogado.)\n\nc)  (Revogado.)\n\nd)  (Revogado.)\n\ne) (Revogado.)\n\nf)  (Revogado.)\n\ng)  (Revogado.)\n\nh) A operação de UAS sem que o operador se encontre coberto por um contrato de seguro de responsabilidade civil, quando este seja obrigatório nos termos do disposto no artigo 10.º\n\n3 - (Revogado.)\n\n4 -  (Revogado.)\n\n5 - A competência para processar as contraordenações previstas no presente artigo pertence à ANAC.\n\n6 - O produto das coimas referidas no número anterior é distribuído da seguinte forma:\n\na) 60 % para o Estado;\n\nb) 20 % para a entidade que levanta o auto de notícia;\n\nc) 20 % para a entidade instrutora do processo.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 87/2021 - Diário da República n.º 204/2021, Série I de 2021-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2021-173109815), em vigor a partir de 2021-10-21"
+  },
+  "173130647": {
+   "fragment_id": "173130731",
+   "type": 11,
+   "heading": "Artigo 16.º — Norma transitória",
+   "in_force_from": "2021-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 87/2021 - Diário da República n.º 204/2021, Série I de 2021-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2021-173109815), em vigor a partir de 2021-10-21"
+   ],
+   "markdown": "###### Artigo 16.º — Norma transitória\n\n1 -  (Revogado.)\n\n2 -  (Revogado.)\n\n3 -  (Revogado.)\n\n4 - A obrigação prevista no artigo 15.º deve ser cumprida no prazo de 180 dias após a aprovação dos sistemas e equipamentos pela ANAC.\n\n5 - A obrigatoriedade de contratação de seguro de responsabilidade civil produz efeitos na data que vier a ser fixada pela portaria mencionada no artigo 10.º\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 87/2021 - Diário da República n.º 204/2021, Série I de 2021-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2021-173109815), em vigor a partir de 2021-10-21"
+  },
+  "173130636": {
+   "fragment_id": "173130733",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 5 de julho de 2018. - Maria Manuel de Lemos Leitão Marques - Ricardo Emanuel Martins Mourinho Félix - Carlos Manuel Soares Miguel - Pedro Manuel Dias de Jesus Marques.\n\nPromulgado em 16 de julho de 2018.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 17 de julho de 2018.\n\nPelo Primeiro-Ministro, Maria Manuel de Lemos Leitão Marques, Ministra da Presidência e da Modernização Administrativa.\n\n111520705"
+  }
+ }
+}

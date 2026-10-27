@@ -1,0 +1,408 @@
+---
+schema_version: '1.0'
+id: pt:dre:563603:por
+title: Portaria n.º 1211/90
+short_title: null
+summary: Autoriza a Escola Náutica Infante D. Henrique a conferir o diploma de estudos superiores especializados em Gestão
+  e Tecnologias Marítimas e regula o respectivo curso e condições de acesso
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Educação e das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 1211/90
+official_date: null
+publication_date: '1990-12-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 290/1990, Série I de 1990-12-18
+  number: '290'
+  series: I
+  supplement: null
+  pages: 5129 - 5132
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/12/29000/51295132.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '563603'
+  dre_path: /dr/detalhe/portaria/1211-1990-563603
+  internal: pt:dre:563603:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1211-1990-563603
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1211-1990-563603
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:12:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a9521aa8ff4670542dc05f78c23a7c5c9d9cde7ea13fbe6eb8fd10510dfdadc8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:12:34Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Curso de Estudos Superiores Especializados em Administração e Gestão Marítima
+- Curso de Estudos Superiores Especializados em Gestão e Tecnologias Marítimas
+- Escola Náutica Infante Dom Henrique
+- Licenciatura
+- Plano de Estudos
+relationships:
+- type: amended_by
+  target: pt:dre:429626:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:218566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615194:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:429626:por
+  label: "Revogada pela PORT.413-S/98.1998.07.17.MEPAT DR.IS-B [163]5ºSupl de 17.07.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-s-1998-429626
+  date: '1998-07-17'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:12:34Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1211/90
+
+de 18 de Dezembro
+
+Sob proposta da Escola Náutica Infante D. Henrique;
+
+Ao abrigo do disposto no artigo 2.º do [Decreto-Lei n.º 94/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1989-614779), de 28 de Março, e do capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:
+
+Manda o Governo, pelos Ministros da Educação e das Obras Públicas, Transportes e Comunicações, o seguinte:
+
+1.º
+
+Criação
+
+A Escola Náutica Infante D. Henrique, adiante designada simplesmente por Escola, confere o diploma de estudos superiores especializados em Gestão e Tecnologias Marítimas, ministrando, em consequência, o respectivo curso.
+
+2.º
+
+Habilitações de acesso
+
+1 - Podem candidatar-se à matrícula e inscrição no curso de estudos superiores especializados em Gestão e Tecnologias Marítimas os titulares do grau de bacharel em Pilotagem que satisfaçam uma das seguintes condições:
+
+a) Ser titular da carta de piloto de 2.ª classe, nas condições definidas pela [Portaria n.º 251/89](https://diariodarepublica.pt/dr/detalhe/portaria/251-1989-615194), de 6 de Abril;
+
+b) Ter uma experiência profissional com a duração de 24 meses na área de pilotagem.
+
+2 - Podem igualmente candidatar-se ao curso os titulares de uma habilitação legalmente equivalente ao grau de bacharel em Pilotagem, desde que satisfaçam uma das condições a que se referem as alíneas a) e b) do n.º 1.
+
+3.º
+
+Limitações quantitativas
+
+A matrícula e a inscrição no curso estão sujeitas a limitações quantitativas a fixar anualmente por portaria conjunta dos Ministros da Educação e das Obras Públicas, Transportes e Comunicações, sob proposta do director da Escola Náutica Infante D. Henrique.
+
+4.º
+
+Concurso
+
+1 - A seriação dos candidatos admitidos à matrícula e inscrição no curso é feita através de um concurso de acesso.
+
+2 - O concurso é válido apenas para o ano a que diz respeito.
+
+5.º
+
+Supranumerários
+
+1 - Poderá ser criado um contingente especial, para além das vagas fixadas nos termos do n.º 3.º, destinado a estudantes nacionais das Repúblicas Popular de Angola, de Cabo Verde, da Guiné-Bissau, Popular de Moçambique e Democrática de São Tomé e Príncipe, desde que a sua candidatura seja apresentada previamente pela via diplomática, através do Gabinete Coordenador do Ingresso no Ensino Superior, no âmbito dos acordos de cooperação firmados pelo Estado Português.
+
+2 - Os estudantes a que se refere o n.º 1 têm de ser titulares de habilitação de acesso adequado nos termos do n.º 2.º e estarão sujeitos, se excederem o número de vagas fixadas, às regras de seriação fixadas pela presente portaria.
+
+3 - O número de vagas a afectar a este contingente será fixado pelo director da Escola e não poderá ser superior a 10% das vagas fixadas nos termos do n.º 3.º
+
+6.º
+
+Júri
+
+Para a candidatura ao curso, o conselho científico nomeará um júri, constituído por docentes da Escola Náutica Infante D. Henrique, responsável, nomeadamente, por:
+
+a) Elaborar a proposta de grelha de apreciação do currículo;
+
+b) Proceder à classificação do currículo;
+
+c) Proceder às operações de selecção e seriação dos candidatos e à elaboração das listas ordenadas finais.
+
+7.º
+
+Candidatura
+
+1 - A candidatura à matrícula e inscrição é formulada em requerimento dirigido ao director da Escola Náutica Infante D. Henrique.
+
+2 - Do requerimento deverão constar obrigatoriamente os seguintes elementos:
+
+a) Nome completo;
+
+b) Número do bilhete de identidade e local de emissão;
+
+c) Habilitação de acesso (curso, estabelecimento, ano de conclusão e classificação final);
+
+d) Morada para onde deve ser enviada a correspondência referente à candidatura.
+
+3 - O requerimento poderá ser substituído por impresso de modelo a fixar por despacho do director da Escola.
+
+8.º
+
+Documentos
+
+1 - O requerimento de candidatura deverá ser obrigatoriamente acompanhado dos seguintes documentos:
+
+a) Certidão comprovativa da titularidade do curso com que se candidata, discriminando as disciplinas em que obteve aprovação, a sua classificação e a classificação final do curso;
+
+b) Fotocópia autenticada da carta de piloto de 3.ª classe, quando aplicável;
+
+c) Documento comprovativo da experiência profissional a que se refere a alínea b) do n.º 1 do n.º 2.º, emitido pela entidade empregadora, quando aplicável;
+
+d) Um exemplar do currículo.
+
+2 - Os candidatos poderão juntar ao currículo documentos que entendam relevantes para a apreciação do mesmo.
+
+3 - Os candidatos titulares de um diploma da Escola Náutica Infante D. Henrique estão dispensados de apresentar a certidão referida na alínea a) do n.º 1.
+
+4 - O director da Escola Náutica Infante D. Henrique rejeitará liminarmente as candidaturas que não satisfaçam o disposto na presente portaria.
+
+5 - Dos candidatos rejeitados liminarmente será organizada lista donde constem os fundamentos da rejeição, a qual será tornada pública através de edital a afixar na Escola.
+
+9.º
+
+Currículo
+
+1 - O currículo deverá integrar as componentes profissional, científica e de formação contínua relacionadas com a área do curso.
+
+2 - O currículo profissional abrangerá as funções profissionais desempenhadas após a conclusão do curso com que se candidatam, e para as quais este haja preparado - em qualquer carreira, docente, técnica ou outra -, em instituição pública ou privada ou em trabalho por conta própria.
+
+3 - O currículo científico abrangerá trabalhos e artigos científicos publicados e as comunicações científicas apresentadas em colóquios e conferências.
+
+4 - O currículo de formação contínua abrangerá os cursos de formação complementar e de aperfeiçoamento realizados.
+
+5 - A grelha de apreciação do currículo será aprovada pelo conselho científico da Escola e objecto de afixação pública antes do início do prazo das candidaturas.
+
+6 - Cada uma das componentes do currículo será classificada na escala inteira de 0 a 20.
+
+7 - A classificação do currículo será feita pelo júri a que se refere o n.º 6.º
+
+10.º
+
+Classificação de candidatura
+
+A classificação de candidatura de cada candidato será obtida através da aplicação da seguinte fórmula:
+
+(3Cf + 2Cp)/5
+
+sendo:
+
+Cf - a classificação final do curso a que se refere o n.º 1 do n.º 2.º;
+
+Cp - a classificação da componente profissional do currículo.
+
+11.º
+
+Critérios de selecção e seriação
+
+1 - Se o número de candidatos ao curso exceder o número de vagas respectivo, proceder-se-á à sua seriação através da aplicação sucessiva dos seguintes critérios:
+
+a) Classificação de candidatura a que se refere o n.º 10.º;
+
+b) Cf;
+
+c) Cp;
+
+d) Cm;
+
+e) Cfc;
+
+sendo:
+
+Cf - a classificação final do curso a que se refere o n.º 1 do n.º 2.º;
+
+Cp - a classificação da componente profissional do currículo;
+
+Cm - a média aritmética simples, calculada até às décimas, das classificações nas disciplinas da área específica do curso incluídas no plano de estudos do curso com que se candidata;
+
+Cfc - a classificação da componente de formação contínua do currículo.
+
+2 - Compete ao júri a que se refere o n.º 6.º determinar quais as disciplinas a considerar para o cálculo de Cm.
+
+3 - Quando, esgotada a utilização dos critérios fixados no n.º 1, se verificar uma situação de empate relevante para a escolha dos candidatos a colocar, o júri a que se refere o n.º 6.º procederá à escolha entre os candidatos empatados.
+
+12.º
+
+Resultados da selecção e seriação
+
+Os resultados do processo de selecção e seriação serão tornados públicos através de edital donde conste:
+
+a) A lista dos candidatos não seleccionados;
+
+b) A lista ordenada dos candidatos seleccionados, indicando:
+
+Os candidatos admitidos à matrícula e inscrição;
+
+Os candidatos não admitidos à matrícula e inscrição.
+
+13.º
+
+Reclamações
+
+1 - Do resultado final da candidatura, divulgado nos termos do n.º 12.º, poderão os candidatos apresentar reclamações, devidamente fundamentadas, no prazo fixado, dirigidas ao conselho científico da Escola Náutica Infante D. Henrique.
+
+2 - Para os efeitos do n.º 1, os candidatos poderão requerer cópia autenticada da grelha de classificação do currículo que apresentaram.
+
+3 - As decisões sobre as reclamações são da competência do conselho científico da Escola.
+
+4 - Quando, na sequência do provimento de uma reclamação, um candidato não colocado venha a ficar situado na lista ordenada em posição de colocado, terá direito à colocação, mesmo que para tal seja necessário criar uma vaga adicional.
+
+5 - A rectificação da colocação abrange apenas o candidato cuja reclamação foi provida, não tendo qualquer efeito sobre os restantes candidatos, colocados ou não.
+
+14.º
+
+Matrículas e inscrições
+
+1 - Os candidatos colocados deverão proceder à matrícula e inscrição no prazo fixado nos termos do n.º 19.º
+
+2 - Caso algum candidato colocado desista expressamente da matrícula e inscrição ou não compareça a realizar a mesma, o director da Escola no dia imediato ao do fim do prazo da matrícula e inscrição, através de carta registada com aviso de recepção, convocará para a inscrição o candidato seguinte na lista ordenada, até esgotar as vagas ou os candidatos.
+
+3 - Os candidatos a que se refere a parte final do n.º 2 terão um prazo improrrogável de três dias úteis após a recepção da notificação para procederem à sua matrícula e inscrição.
+
+4 - A decisão de colocação apenas tem efeito para o ano lectivo a que se refere.
+
+15.º
+
+Plano de estudos
+
+O plano de estudos do curso é o fixado em anexo à presente portaria.
+
+16.º
+
+Duração
+
+A duração do curso é de dois semestres lectivos.
+
+17.º
+
+Avaliação de conhecimentos
+
+O regime de avaliação de conhecimentos é fixado nos termos previstos na [Portaria n.º 886/83](https://diariodarepublica.pt/dr/detalhe/portaria/886-1983-442317), de 22 de Setembro, alterada pela [Portaria n.º 410/86](https://diariodarepublica.pt/dr/detalhe/portaria/410-1986-218566), de 29 de Julho.
+
+18.º
+
+Classificação final do curso
+
+1 - A classificação final do curso é a média aritmética ponderada, arrendondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações obtidas pelo aluno nas disciplinas que integram o respectivo plano de estudos.
+
+2 - Os coeficientes de ponderação serão aprovados pelo conselho científico.
+
+19.º
+
+Prazos
+
+1 - Os prazos para a candidatura, selecção, matrícula e inscrição serão fixados anualmente por despacho do director da Escola Náutica Infante D. Henrique.
+
+2 - O despacho a que se refere o n.º 1 será objecto de afixação pública nas instalações da Escola, bem como de publicação na 2.ª série do Diário da República, antes do início dos prazos a que o mesmo se refere.
+
+20.º
+
+Grau de licenciado
+
+Aos titulares do diploma de estudos superiores especializados em Gestão e Tecnologias Marítimas que nele hajam ingressado com a titularidade do bacharelato a que se refere o n.º 1 do n.º 2.º da presente portaria, e verificada a formação de um conjunto coerente entre aquele diploma e este bacharelato, nos termos do n.º 7 do artigo 13.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, é conferido o grau de licenciado em Gestão e Tecnologias Marítimas.
+
+21.º
+
+Classificação
+
+A classificação do grau de licenciado é a resultante do cálculo da expressão seguinte, arrendondada às unidades (considerando como unidade a fracção não inferior a cinco décimas):
+
+(3B + D)/4
+
+em que:
+
+B é a classificação final do curso de bacharelato com que ingressou no curso de estudos superiores especializados;
+
+D é a classificação final do curso de estudos superiores especializados.
+
+22.º
+
+Comunicação ao GCIES
+
+O resultado final da candidatura ao curso, bem como o número de alunos inscritos, serão comunicados ao Gabinete Coordenador do Ingresso no Ensino Superior até 15 dias após o fim das matrículas e inscrições.
+
+23.º
+
+Reingresso, mudança de curso e transferência
+
+1 - Ao curso regulado pela presente portaria não são aplicáveis os regimes de mudança de curso e de transferência.
+
+2 - O reingresso estará sujeito às regras gerais aplicáveis, com as adaptações que sejam introduzidas pelo director da Escola Náutica Infante D. Henrique face à especificidade do curso.
+
+24.º
+
+Entrada em funcionamento
+
+O curso entrará em funcionamento no ano lectivo que for determinado por despacho conjunto dos Ministros da Educação e das Obras Públicas, Transportes e Comunicações, na sequência de relatório da Escola Náutica Infante D. Henrique demonstrativo da existência dos recursos humanos e materiais necessários à sua concretização.
+
+Ministérios da Educação e das Obras Públicas, Transportes e Comunicações.
+
+Assinada em 4 de Dezembro de 1990.
+
+Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/29000/51295132.pdf)

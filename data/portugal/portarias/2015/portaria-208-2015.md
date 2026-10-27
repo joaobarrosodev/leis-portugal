@@ -1,0 +1,307 @@
+---
+schema_version: '1.0'
+id: pt:dre:69812102:por
+title: Portaria n.º 208/2015
+short_title: null
+summary: Aprova os Estatutos do Instituto da Habitação e da Reabilitação Urbana, I. P., e revoga a Portaria n.º 324/2012,
+  de 16 de outubro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Ambiente, Ordenamento do Território e Energia
+proposing_entity: null
+official_number: 208/2015
+official_date: null
+publication_date: '2015-07-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 136/2015, Série I de 2015-07-15
+  number: '136'
+  series: I
+  supplement: null
+  pages: 4853 - 4856
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/07/13600/0485304856.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/208/2015/07/15/p/dre/pt/html
+  oj: null
+  dre: '69812102'
+  dre_path: /dr/detalhe/portaria/208-2015-69812102
+  internal: pt:dre:69812102:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/208-2015-69812102
+  metadata_url: https://data.dre.pt/eli/port/208/2015/07/15/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/208-2015-69812102
+  consolidated_url: null
+  retrieved_at: '2026-10-27T00:41:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 177b3e4039b6978a991d8c0313d57696212ef5d5e9720a6bea73dc4267db4c09
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-27T00:41:36Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho Diretivo
+- Coordenador
+- Definição de Competências
+- Diretor
+- Estatuto
+- Instituto da Habitação e da Reabilitação Urbana
+- Pessoal Dirigente
+relationships:
+- type: cites
+  target: pt:dre:179064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67409483:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:164144651:por
+  label: Revogado, nos termos do art. 2.º, a presente portaria, pelo(a) Portaria n.º 114-A/2021 - Diário da República n.º
+    103/2021, 1º Suplemento, Série I de 2021-05-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/114-a-2021-164144651
+  date: '2021-05-27'
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-27T00:41:36Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 208/2015
+
+de 15 de julho
+
+O [Decreto-Lei n.º 175/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2012-179064), de 2 de agosto, definiu a missão e as atribuições do Instituto da Habitação e da Reabilitação Urbana, IHRU, I. P., tendo a respetiva organização interna sido definida através da [Portaria n.º 324/2012](https://diariodarepublica.pt/dr/detalhe/portaria/324-2012-192394), de 16 de outubro.
+
+Aquele Decreto-Lei veio a ser alterado pelo [Decreto-Lei n.º 102/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2015-67409483), de 5 de junho, no sentido de transferir para a Direção-Geral do Património Cultural as competências até agora exercidas pelo IHRU, I. P., relativas ao desenvolvimento e gestão do Sistema de Informação para o Património (SIPA).
+
+Essa alteração e a experiência entretanto adquirida, justifica a realização de um conjunto de ajustamentos à organização interna do IHRU, tendo em vista a melhoria do desempenho da sua missão e atribuições, numa ótica de racionalização das estruturas da Administração Pública.
+
+Assim:
+
+Ao abrigo do artigo 12.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro, na sua atual redação e do artigo 9.º do [Decreto-Lei n.º 175/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2012-179064), de 2 de agosto, alterado pelo [Decreto-Lei n.º 102/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2015-67409483), de 5 de junho:
+
+Manda o Governo, pela Ministra de Estado e das Finanças e pelo Ministro do Ambiente, Ordenamento do Território e Energia, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+São aprovados, em anexo à presente portaria e da qual fazem parte integrante, os Estatutos do Instituto da Habitação e da Reabilitação Urbana, I. P., abreviadamente designado por IHRU, I. P.
+
+###### Artigo 2.º — Norma revogatória
+
+É revogada a [Portaria n.º 324/2012](https://diariodarepublica.pt/dr/detalhe/portaria/324-2012-192394), de 16 de outubro.
+
+###### Artigo 3.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 23 de junho de 2015. - O Ministro do Ambiente, Ordenamento do Território e Energia, Jorge Manuel Lopes Moreira da Silva, em 22 de junho de 2015.
+
+## ANEXO — (a que se refere o artigo 1.º)
+
+ESTATUTOS DO INSTITUTO DA HABITAÇÃO E DA REABILITAÇÃO URBANA, I. P.
+
+###### Artigo 1.º — Estrutura
+
+1 - A organização interna do IHRU, I. P., integra as seguintes unidades orgânicas de primeiro nível, que dependem hierárquica e funcionalmente do conselho diretivo:
+
+a) A Direção de Gestão Financeira (DGF);
+
+b) A Direção de Administração e Recursos Humanos (DARH);
+
+c) A Direção Jurídica (DJ);
+
+d) A Direção de Estudos, Planeamento e Assessoria (DEPA).
+
+2 - O IHRU, I. P., dispõe de dois serviços territorialmente desconcentrados, designados por Direção de Gestão do Norte (DGN) e Direção de Gestão do Sul (DGS).
+
+3 - Por deliberação do conselho diretivo podem ser criadas, modificadas ou extintas, unidades orgânicas de segundo nível, designadas por gabinetes, quando colocadas na dependência hierárquica e funcional do conselho diretivo, ou departamentos, quando integradas em direções, sendo as respetivas competências definidas naquela deliberação, a qual é objeto de publicação no Diário da República.
+
+4 - O número de unidades orgânicas de segundo nível não pode exceder, em cada momento, o limite máximo total de 16.
+
+###### Artigo 2.º — Cargos dirigentes intermédios
+
+1 - As direções são dirigidas por diretores, cargos de direção intermédia de 1.º grau.
+
+2 - Os departamentos e os gabinetes são dirigidos por coordenadores, cargos de direção intermédia de 2.º grau.
+
+###### Artigo 3.º — Direção de Gestão Financeira
+
+Compete à Direção de Gestão Financeira, abreviadamente designada por DGF:
+
+a) Assegurar, do ponto de vista financeiro, a salvaguarda dos ativos financeiros do Instituto, e sua rentabilização;
+
+b) Assegurar, acompanhar e controlar os pagamentos de subsídios, comparticipações e empréstimos concedidos pelo IHRU, I. P.;
+
+c) Gerir o processo de concessão de bonificações de juros suportadas pelo Estado;
+
+d) Assegurar a ligação, o acompanhamento e monitorização da atividade de sociedades, fundos de investimento imobiliário, consórcios, parcerias ou outras formas de associação em que o IHRU, I. P., participe;
+
+e) Assegurar, em articulação com as Direções de Gestão do Norte e do Sul, o acompanhamento e monitorização das sociedades de reabilitação urbana de que o IHRU, I. P., seja acionista, na componente financeira;
+
+f) Propor, implementar e gerir processos de contração de empréstimos e outras operações no domínio dos mercados monetário e financeiro, que se revelem necessárias ou vantajosas para a prossecução da atividade do IHRU, I. P.;
+
+g) Assegurar a gestão financeira, na observância dos requisitos legais, contabilísticos e de tesouraria, garantido a sua operacionalização e o controle contabilístico-financeiro;
+
+h) Acompanhar e controlar a situação financeira do IHRU, I. P., assegurando o planeamento e o controlo de gestão da sua atividade;
+
+i) Assegurar o reporte de informação financeira, interna e externa, relativa ao acompanhamento da atividade do IHRU, I. P.;
+
+j) Assegurar a análise de risco das operações de financiamento;
+
+k) Avaliar e comunicar às Direções de Gestão do Norte e do Sul, consoante a respetiva área de circunscrição territorial, as situações de atraso no cumprimento por parte de promotores e outros beneficiários de financiamentos e apoio financeiro do IHRU, I. P.
+
+###### Artigo 4.º — Direção de Administração e Recursos Humanos
+
+Compete à Direção de Administração e Recursos Humanos, abreviadamente designada por DARH:
+
+a) Desenvolver as ações necessárias à organização e instrução dos processos relativos aos recursos humanos e respetivo cadastro;
+
+b) Coordenar o sistema de avaliação de desempenho dos dirigentes e trabalhadores;
+
+c) Assegurar o processamento de remunerações, suplementos, abonos e outras prestações devidas a título de despesas com pessoal, bem como a emissão de declarações e outros documentos legalmente necessários nesse domínio;
+
+d) Assegurar os processos de recrutamento e seleção de pessoal;
+
+e) Propor e assegurar metodologias de diagnóstico de necessidades de formação, bem como a inscrição de trabalhadores do IHRU, I. P., em estágios, congressos, seminários, colóquios, cursos e outras iniciativas que se insiram na área da formação;
+
+f) Assegurar o cumprimento das normas legais e regulamentares aplicáveis às condições de segurança e higiene no trabalho;
+
+g) Propor e promover ações que contribuam para o bem-estar físico e moral dos trabalhadores;
+
+h) Manter atualizada e reportar a informação e a documentação técnica e legislativa respeitante à gestão de pessoal;
+
+i) Assegurar a gestão, segurança e higiene das instalações dos serviços do IHRU, I. P.;
+
+j) Instruir e acompanhar os processos de contratação pública, bem como assegurar a sua publicitação e reporte;
+
+k) Assegurar e executar as funções de economato e aprovisionamento;
+
+l) Assegurar a gestão e conservação dos bens móveis do IHRU, I. P.;
+
+m) Assegurar a gestão do arquivo intermédio e do arquivo definitivo do IHRU, I. P.;
+
+n) Assegurar a resposta às solicitações nas áreas da sua competência, nomeadamente nos domínios dos recursos humanos, do economato e dos processos de contratação pública.
+
+###### Artigo 5.º — Direção Jurídica
+
+Compete à Direção Jurídica, abreviadamente designada por DJ:
+
+a) Assegurar e dar apoio à elaboração de projetos legislativos e regulamentares na área das atribuições do IHRU, I. P., bem como emitir parecer sobre quaisquer projetos legislativos a solicitação do conselho diretivo e ou da tutela;
+
+b) Elaborar protocolos e acordos de colaboração e, em geral, todo o tipo de minutas e contratos em que o IHRU, I. P., intervenha, incluindo contratos de empréstimos externos;
+
+c) Preparar e acompanhar, sempre que necessário, os processos de contratação, nomeadamente relativos a contratos de financiamento, de dação em cumprimento, de arrendamento, de compra e venda de imóveis e de terrenos;
+
+d) Assegurar o processo de liquidação e de pagamento do imposto de selo devido pelos contratos celebrados;
+
+e) Assegurar e controlar a realização de atos de registo predial e de inscrição matricial dos imóveis objeto de financiamento, bem como os atos relativos à criação e extinção de garantias, de ónus de inalienabilidade e de regimes especiais de alienação relativos a esses imóveis;
+
+f) Assegurar a consultadoria jurídica a todas as unidades orgânicas do IHRU, I. P.;
+
+g) Praticar quaisquer atos judiciais ou extrajudiciais relativos a situações de recuperação de crédito e de processos em contencioso;
+
+h) Intervir, em articulação com as Direções de Gestão do Norte e do Sul nas respetivas áreas de circunscrição territorial, em quaisquer atos judiciais ou extrajudiciais relacionados com a gestão do património imobiliário do IHRU, I. P., incluindo a interposição de ações e execuções relativas a situações de incumprimento dos contratos de arrendamento e de ocupações ilegais;
+
+i) Intervir, quando tal lhe seja determinado, em quaisquer processos de sindicância, inquéritos ou disciplinares.
+
+###### Artigo 6.º — Direção de Estudos, Planeamento e Assessoria
+
+Compete à Direção de Estudos, Planeamento e Assessoria, abreviadamente designada por DEPA:
+
+a) Apoiar na formulação de políticas nacionais para a habitação;
+
+b) Assegurar a elaboração e monitorização do planeamento estratégico do IHRU, I. P., designadamente, o QUAR e Plano de atividades, bem como o Plano de Gestão de Riscos de Corrupção e Infrações Conexas;
+
+c) Acompanhar os planos nacionais e sectoriais em que o IHRU, I. P., intervém no desempenho da sua missão;
+
+d) Gerir o Portal da Habitação, bem como a presença do IHRU, I. P., na Internet;
+
+e) Assegurar o funcionamento do Observatório da Habitação e da Reabilitação Urbana (OHRU);
+
+f) Assegurar a comunicação e divulgação das ações e iniciativas do IHRU, I. P.;
+
+g) Garantir o acolhimento e atendimento dos cidadãos em geral;
+
+h) Apoiar e assessorar o Conselho Diretivo nas matérias relacionadas com a missão do IHRU, I. P.
+
+###### Artigo 7.º — Direção de Gestão do Norte e Direção de Gestão do Sul
+
+Compete às Direções de Gestão do Norte e do Sul, abreviadamente designadas respetivamente por DGN e DGS, assegurar nas suas áreas de circunscrição territorial, definidas por deliberação do Conselho Diretivo:
+
+a) Gerir os programas de concessão de incentivos à habitação;
+
+b) Propor e promover as soluções de alienação ou de outra forma de cedência onerosa dos imóveis recebidos em dação para pagamento de dívidas;
+
+c) Propor, dar apoio técnico e monitorizar a concessão de comparticipações e empréstimos, com ou sem bonificação de juros, destinados ao financiamento de ações e de programas de iniciativa pública, privada ou cooperativa, designadamente relativos à aquisição, construção e reabilitação de imóveis e à reabilitação urbana;
+
+d) Propor e acompanhar a promoção da celebração de contratos de desenvolvimento ou de contratos-programa no domínio da habitação e da reabilitação urbana;
+
+e) Assegurar o acompanhamento e monitorização, em geral, das áreas de reabilitação urbana, das operações de reabilitação urbana, das sociedades de reabilitação urbana e de outras formas de intervenção nas áreas da habitação e da reabilitação urbana;
+
+f) Definir metodologias e implementar os procedimentos necessários à avaliação técnica dos projetos de obras, bem como certificar a conformidade de programas e de projetos com as disposições legais aplicáveis;
+
+g) Avaliar a viabilidade e a conformidade técnica e legal dos projetos objeto dos financiamentos do IHRU, I. P., e acompanhar a sua execução;
+
+h) Analisar, propor e gerir a intervenção do IHRU, I. P., no que respeita à aquisição, loteamento, urbanização e alienação de terrenos e, em geral, gerir os solos que constituem o património do IHRU, I. P.;
+
+i) Coordenar a intervenção das entidades, públicas ou privadas, promotoras de instalações de interesse público em solo do IHRU, I. P., e acompanhar a promoção privada de empreendimentos nos territórios de gestão urbanística do Instituto;
+
+j) Assegurar a gestão do parque habitacional de outras entidades públicas ou cooperativas com as quais o IHRU, I. P., tenha celebrado contratos para o efeito, em colaboração com outras unidades orgânicas;
+
+k) Gerir o parque habitacional e equipamentos do IHRU, I. P., atribuídos ou a atribuir em arrendamento ou a outro título;
+
+l) Assegurar a conservação e reabilitação do património imobiliário do IHRU, I. P.;
+
+m) Assegurar a conservação e reabilitação das instalações dos serviços do IHRU, I. P.;
+
+n) Assegurar e controlar a realização de atos de registo predial e de inscrição matricial dos imóveis que integram o património do IHRU, I. P.;
+
+o) Assegurar os processos de alienação de imóveis do IHRU, I. P.;
+
+p) Conceder apoio técnico a autarquias locais e a outras instituições no domínio da gestão e conservação do parque habitacional público;
+
+q) Assegurar os processos de contratação da cedência de habitações ou de edifícios para fins habitacionais de interesse social com entidades públicas, privadas ou cooperativas.

@@ -1,0 +1,134 @@
+---
+schema_version: '1.0'
+id: pt:dre:248048:por
+title: Portaria n.º 121/2008
+short_title: null
+summary: Anexa à zona de caça municipal de Sobrado vários prédios rústicos sitos nas freguesias de Ermesinde, Alfena, Valongo
+  e Campo, município de Valongo (processo n.º 4105-DGRF)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento
+  Rural e das Pescas
+proposing_entity: null
+official_number: 121/2008
+official_date: null
+publication_date: '2008-02-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 31/2008, Série I de 2008-02-13
+  number: '31'
+  series: I
+  supplement: null
+  pages: 987 - 988
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/02/03100/0098700988.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/121/2008/02/13/p/dre/pt/html
+  oj: null
+  dre: '248048'
+  dre_path: /dr/detalhe/portaria/121-2008-248048
+  internal: pt:dre:248048:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/121-2008-248048
+  metadata_url: https://data.dre.pt/eli/port/121/2008/02/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/121-2008-248048
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:28:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b8df514cf3efb060023d3c4bf544a19f07c7dfe2d12e170fd4bd6b09391f9600
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:34Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CAÇA
+- Valongo
+- ZONA de CAÇA
+relationships:
+- type: amended_by
+  target: pt:dre:334107:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:334107:por
+  label: "Excluídos terrenos cinegéticos da zona de caça municipal de Sobrado criada pela Port 937/2005, de 28-Set, alterada\
+    \ pelo presente diploma, pela PORT.564/2010.23.07.2010.MADRP, DR.IS [142] de 23.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/564-2010-334107
+  date: '2010-07-23'
+- type: cites
+  target: pt:dre:149665:por
+  label: null
+  source: http://data.dre.pt/eli/port/937/2005/09/28/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
+- type: cites
+  target: pt:dre:541777:por
+  label: null
+  source: http://data.dre.pt/eli/port/1029/2006/09/20/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:28:34Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 121/2008
+
+de 13 de Fevereiro
+
+Pela [Portaria n.º 937/2005](https://diariodarepublica.pt/dr/detalhe/portaria/937-2005-149665), de 28 de Setembro, alterada pela [Portaria n.º 1029/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1029-2006-541777), de 20 de Setembro, foi criada a zona de caça municipal de Sobrado (processo n.º 4105-DGRF), situada no município de Valongo, e transferida a sua gestão para o Clube de Caça e Pesca do Sobrado, com a área de 1904 ha.
+
+A entidade gestora requereu agora a anexação à referida zona de caça de outros prédios rústicos.
+
+Assim:
+
+Com fundamento no disposto nos artigos 11.º e 26.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção que lhe foi conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, e ouvido o Conselho Cinegético Municipal:
+
+Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+
+1.º São anexados à presente zona de caça vários prédios rústicos sitos nas freguesias de Ermesinde, Alfena, Valongo e Campo, município de Valongo, com a área de 2229 ha, ficando a mesma com a área total de 4133 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+
+2.º A presente anexação só produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.
+
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 30 de Janeiro de 2008. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado Adjunto, da Agricultura e das Pescas, em 31 de Janeiro de 2008.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03100/0098700988.pdf)

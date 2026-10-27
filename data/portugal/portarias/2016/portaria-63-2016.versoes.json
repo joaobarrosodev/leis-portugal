@@ -1,0 +1,400 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:73958562:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-114680504",
+ "dre_path": "/dr/detalhe/portaria/63-2016-73958562",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-03-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114670798",
+    "114670799",
+    "114670800",
+    "114670802",
+    "114670803",
+    "114670804",
+    "114670805",
+    "114670806",
+    "114670807",
+    "114670808",
+    "114670809",
+    "114670810",
+    "114670811",
+    "114670812",
+    "114670813",
+    "114670814",
+    "114670815",
+    "114670816",
+    "114670817",
+    "114670818",
+    "114670819",
+    "114670820",
+    "114670821",
+    "114670822",
+    "114670823"
+   ]
+  },
+  {
+   "date": "2018-02-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114682829:por",
+     "title": "Portaria n.º 47/2018",
+     "published": "2018-02-12",
+     "dre_path": "/dr/detalhe/portaria/47-2018-114682829"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "114670798",
+    "114670799",
+    "114670800",
+    "114670801",
+    "114670802",
+    "114670803",
+    "114670804",
+    "114670805",
+    "114670806",
+    "114670807",
+    "114670836",
+    "114670809",
+    "114670837",
+    "114670811",
+    "114670812",
+    "114670813",
+    "114670814",
+    "114670815",
+    "114670816",
+    "114670838",
+    "114670818",
+    "114670819",
+    "114670820",
+    "114670821",
+    "114670822",
+    "114670823"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:126774995:por",
+     "title": "Portaria n.º 400/2019",
+     "published": "2019-12-02",
+     "dre_path": "/dr/detalhe/portaria/400-2019-126774995",
+     "date": "2019-02-03"
+    }
+   ]
+  },
+  {
+   "date": "2022-03-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:180474165:por",
+     "title": "Portaria n.º 114/2022",
+     "published": "2022-03-15",
+     "dre_path": "/dr/detalhe/portaria/114-2022-180474165"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "114670798",
+    "114670799",
+    "114670800",
+    "114670801",
+    "114670802",
+    "114670803",
+    "114670804",
+    "114670805",
+    "114670806",
+    "114670807",
+    "114670836",
+    "114670809",
+    "126813664",
+    "114670811",
+    "114670812",
+    "114670813",
+    "114670814",
+    "114670815",
+    "114670816",
+    "114670838",
+    "114670818",
+    "114670819",
+    "180532616",
+    "114670821",
+    "114670822",
+    "114670823"
+   ]
+  }
+ ],
+ "fragments": {
+  "114670798": {
+   "fragment_id": "114680505",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 63/2016\n\nde 31 de março\n\nO Decreto-Lei n.º 137/2014, de 12 de setembro, que estabelece o modelo de governação dos fundos europeus estruturais e de investimento (FEEI), entre os quais se inclui o Fundo Europeu dos Assuntos Marítimos e das Pescas (FEAMP), determinou que a estruturação operacional deste fundo é composta por um programa operacional de âmbito nacional, designado Mar 2020.\n\nO Mar 2020, que foi aprovado formalmente pela Comissão Europeia através da Decisão de Execução C (2015) 8642, de 30 de novembro de 2015, contempla uma visão estratégica centrada na melhoria da qualidade dos dados biológicos, técnicos, ambientais e socioeconómicos relativos ao sector da pesca, enquadrada na prioridade da União Europeia a que alude a alínea a) do n.º 3 do artigo 6.º do Regulamento (UE) n.º 508/2014 do Parlamento Europeu e do Conselho, de 15 de maio de 2014.\n\nA materialização da referida prioridade conta com a possibilidade de cofinanciamento, no âmbito do artigo 77.º do citado regulamento, de operações nos domínios da recolha, gestão e utilização dos dados para fins de análise científica e execução da Política Comum das Pescas, permitindo aos Estados-Membros a adoção de um regime de apoio mediante a aprovação da competente regulamentação específica.\n\nO Decreto-Lei n.º 159/2014, de 27 de outubro, que estabelece as regras gerais de aplicação dos programas operacionais financiados pelos FEEI, veio prever, na alínea d) do n.º 1 do artigo 4.º e na alínea b) do n.º 2 do artigo 5.º, respetivamente, que o regime jurídico dos FEEI é também integrado pela regulamentação específica dos programas operacionais e que, no caso do FEAMP, a mesma é aprovada por portaria do membro do Governo responsável pela área do mar.\n\nAssim:\n\nManda o Governo, pela Ministra do Mar, ao abrigo do disposto na alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, o seguinte:"
+  },
+  "114670799": {
+   "fragment_id": "114680506",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria aprova o Regulamento do Regime de Apoio à Recolha de Dados no quadro da Política Comum das Pescas, ao abrigo da prioridade da União Europeia estabelecida na alínea a) do n.º 3 do artigo 6.º do Regulamento (UE) n.º 508/2014 do Parlamento Europeu e do Conselho, de 15 de maio de 2014, relativo ao Fundo Europeu dos Assuntos Marítimos e das Pescas, e com enquadramento na medida prevista no artigo 77.º do mesmo regulamento, em anexo à presente portaria, dela fazendo parte integrante."
+  },
+  "114670800": {
+   "fragment_id": "114680507",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "114670802": {
+   "fragment_id": "114680509",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 1.º)\n\nREGULAMENTO DO REGIME DE APOIO À RECOLHA DE DADOS NO QUADRO DA POLÍTICA COMUM DAS PESCAS"
+  },
+  "114670803": {
+   "fragment_id": "114680510",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente regulamento estabelece o Regime de Apoio à Recolha de Dados do Programa Operacional (PO) Mar 2020."
+  },
+  "114670804": {
+   "fragment_id": "114680511",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nOs apoios previstos no presente regulamento têm como finalidade assegurar a recolha, tratamento e divulgação de dados biológicos, ambientais, técnicos e socioeconómicos, tendo em vista fomentar a execução da Política Comum das Pescas."
+  },
+  "114670805": {
+   "fragment_id": "114680512",
+   "type": 11,
+   "heading": "Artigo 3.º — Correspondente nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Correspondente nacional\n\n1 - Para efeitos do presente regulamento, e sem prejuízo do disposto no artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por «correspondente nacional» o ponto focal para a troca de informação entre a Comissão Europeia e Portugal no que respeita à preparação e aplicação dos Planos de Trabalho.\n\n2 - Além do disposto no número anterior, incumbe ainda ao correspondente nacional:\n\na) Coordenar a preparação do relatório técnico anual;\n\nb) Assegurar a transmissão da informação dentro do Estado-Membro;\n\nc) Assegurar a participação dos peritos nacionais adequados nas reuniões organizadas pela Comissão Europeia e nos Grupos de Coordenação regional relevantes;\n\nd) Coordenar a execução do Plano de Trabalho;\n\ne) Pronunciar-se sobre as candidaturas apresentadas ao abrigo do presente regulamento."
+  },
+  "114670806": {
+   "fragment_id": "114680513",
+   "type": 11,
+   "heading": "Artigo 4.º — Tipologia de operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tipologia de operações\n\nSão suscetíveis de apoio as operações de um dos seguintes tipos:\n\na) A recolha, arquivo, gestão, processamento e utilização de dados para fins de análise científica e execução da Política Comum das Pescas (PCP);\n\nb) Os programas plurianuais de amostragem a nível nacional, transnacional e subnacional, desde que estejam relacionados com as unidades populacionais abrangidas pela PCP;\n\nc) O acompanhamento marítimo da pesca comercial e recreativa, incluindo o acompanhamento das capturas acessórias de organismos marinhos, tais como mamíferos e aves marinhos;\n\nd) As campanhas de investigação no mar;\n\ne) A participação de representantes dos Estados-Membros e das autoridades regionais em reuniões de coordenação regional, em reuniões das organizações regionais de gestão das pescas de que a União Europeia é parte contratante ou observadora, ou em reuniões dos organismos internacionais responsáveis pela emissão de pareceres científicos, incluindo a participação de peritos nacionais em reuniões científicas relevantes para a investigação de suporte à Política Comum de Pescas;\n\nf) A melhoria dos sistemas de recolha e gestão de dados e a execução de estudos-piloto destinados a melhorar os sistemas existentes de recolha e gestão de dados."
+  },
+  "114670807": {
+   "fragment_id": "114680514",
+   "type": 11,
+   "heading": "Artigo 5.º — Elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Elegibilidade das operações\n\nPodem beneficiar de apoios ao abrigo do presente regulamento as operações que:\n\na) Não estejam materialmente concluídas, ou totalmente executadas, à data de apresentação da respetiva candidatura, independentemente de todos os pagamentos correspondentes terem sido efetuados pelo beneficiário;\n\nb) Visem os objetivos previstos no artigo 2.º e se enquadrem numa das tipologias elencadas no artigo anterior;\n\nc) Respeitem a ações previstas no Plano de Trabalho Nacional para a Recolha de Dados."
+  },
+  "114670808": {
+   "fragment_id": "114680515",
+   "type": 11,
+   "heading": "Artigo 6.º — Tipologia de beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Tipologia de beneficiários\n\nPodem apresentar candidaturas, ao abrigo do presente regulamento, os seguintes parceiros do Programa Nacional de Recolha de Dados (PNRD):\n\na) A Direção-Geral dos Recursos Naturais Segurança e Serviços Marítimos, responsável pela recolha e tratamento dos dados socioeconómicos relativos à frota de pesca, aquicultura e indústria transformadora dos produtos da pesca e da aquicultura, e pela coordenação da execução do PNRD através do correspondente nacional;\n\nb) A Direção Regional das Pescas dos Açores, responsável pela recolha e tratamento de dados transversais (capacidade), de dados de captura e de dados socioeconómicos;\n\nc) A Direção Regional de Pescas da Região Autónoma da Madeira, responsável pela recolha e tratamento de dados de capturas e de dados biológicos, amostragem biológica e recolha de dados socioeconómicos;\n\nd) O Instituto Português do Mar e da Atmosfera, I. P., responsável pela recolha, arquivo, gestão e tratamento dos dados biológicos, ambientais, dos ecossistemas e pela realização de campanhas de investigação e estudos para a estimação dos parâmetros necessários à avaliação das unidades populacionais;\n\ne) O Instituto do Mar da Universidade dos Açores/Departamento de Oceanografia e Pescas da Universidade dos Açores (IMAR/DOP), responsável pela recolha e tratamento dos dados biológicos e de variáveis transversais (esforço, descargas)."
+  },
+  "114670809": {
+   "fragment_id": "114680516",
+   "type": 11,
+   "heading": "Artigo 7.º — Elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Elegibilidade dos beneficiários\n\nSem prejuízo do disposto no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, apenas são elegíveis os beneficiários que, sendo parceiros do PNRD, tenham o respetivo plano de trabalho aprovado."
+  },
+  "114670810": {
+   "fragment_id": "114680517",
+   "type": 11,
+   "heading": "Artigo 8.º — Elegibilidade das despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Elegibilidade das despesas\n\n1 - Sem prejuízo do disposto no artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são elegíveis as despesas que podem ser enquadradas numa das seguintes categorias, tal como enunciadas no anexo I do Regulamento (CE) n.º 1078/2008 da Comissão, de 3 de novembro de 2008:\n\na) Custos com pessoal;\n\nb) Despesas de viagem;\n\nc) Bens duradouros;\n\nd) Materiais e fornecimento de consumíveis, incluindo os custos de material informático;\n\ne) Custos com navios para as campanhas de investigação;\n\nf) Custos de subcontratação/assistência externa;\n\ng) Outros custos específicos que se encontrem previstos nos orçamentos anuais nacionais ou previamente autorizadas pela Comissão;\n\nh) Subsídios diários e custos de deslocação durante o período de realização das reuniões de peritos, convocadas pela Comissão.\n\n2 - Das despesas enquadradas numa ou mais das categorias previstas no número anterior são elegíveis:\n\na) No âmbito de operações de recolha de dados, as que respeitem a:\n\ni) Recolha direta de amostras e dados, nomeadamente através de inquéritos, nos locais de amostragem, incluindo:\n\nCustos de equipamento de proteção e segurança para o pessoal que embarca e realiza amostragem em lota;\n\nMaterial de divulgação do programa;\n\nCustos de deslocação, subsídios e suplementos previstos na lei necessários para a realização das campanhas de investigação e de todas as operações de recolha de dados ou amostras;\n\nii) Supervisão e amostragem no mar da pesca comercial e recreativa;\n\niii) Campanhas de investigação no mar;\n\nb) No âmbito de operações de gestão de dados, as que respeitem a:\n\ni) Desenvolvimento de bases de dados, sítios web e aplicações móveis;\n\nii) Introdução (armazenamento) de dados;\n\niii) Controlo e validação da qualidade dos dados;\n\niv) Tratamento dos dados primários para obtenção de dados pormenorizados ou agregados;\n\nv) Transformação dos dados socioeconómicos primários e criação de metadados;\n\nc) No âmbito de operações de utilização de dados, as que respeitem a:\n\ni) Produção de conjuntos de dados e sua utilização no apoio a análises científicas como base para a apresentação de pareceres sobre a gestão das pescarias;\n\nii) Estimação de parâmetros biológicos, ecológicos e ambientais;\n\niii) Preparação de conjuntos de dados para avaliação das unidades populacionais;\n\niv) Modelação bioeconómica e análise científica correspondente.\n\n3 - Não são elegíveis as seguintes despesas:\n\na) Margens de lucro, provisões e dívidas de cobrança duvidosa;\n\nb) Juros devidos e encargos bancários;\n\nc) Custos médios da mão-de-obra;\n\nd) Custos indiretos, como por exemplo com edifícios e instalações, custos de administração, pessoal de apoio, material de escritório, infraestruturas e custos de funcionamento e de manutenção, como custos de telecomunicações, bens e serviços;\n\ne) Equipamentos que não sejam utilizados na recolha e gestão de dados, como por exemplo digitalizadores, impressoras, telefones portáteis, walkie talkies e aparelhos ou câmaras de vídeo;\n\nf) Aquisição de veículos;\n\ng) Custos de distribuição, comercialização e publicidade para a promoção de produtos ou atividades comerciais;\n\nh) Despesas de representação, com exceção das que sejam reconhecidamente necessárias para a execução do programa nacional;\n\ni) Despesas com artigos de luxo e publicidade;\n\nj) Despesas respeitantes a outros programas/projetos financiados por terceiros;\n\nk) Despesas relacionadas com a proteção dos resultados dos trabalhos realizados ao abrigo do programa nacional;\n\nl) Valor das contribuições em espécie;\n\nm) Despesas desnecessárias ou injustificadas.\n\n4 - Sem prejuízo do disposto dos números anteriores, podem ser consideradas elegíveis outras despesas, desde que imprescindíveis à realização dos objetivos subjacentes às operações e aprovadas pelo gestor.\n\n5 - Dos custos com navios para a realização de campanhas de investigação no mar efetuados com navios fretados, apenas serão elegíveis os custos de locação e outros custos de funcionamento do navio.\n\n6 - Nos casos em que um determinado navio é propriedade do beneficiário, deve ser apresentada, juntamente com a declaração de despesas, uma discriminação dos custos que permita verificar o modo de cálculo dos custos de funcionamento cobrados."
+  },
+  "114670811": {
+   "fragment_id": "114680518",
+   "type": 11,
+   "heading": "Artigo 9.º — Taxas de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Taxas de apoio\n\nA taxa de apoio público para as operações apresentadas ao abrigo do presente regulamento é de 100 % das despesas elegíveis da operação, dos quais 80 % são suportados pelo Fundo Europeu dos Assuntos Marítimos e das Pescas (FEAMP)."
+  },
+  "114670812": {
+   "fragment_id": "114680519",
+   "type": 11,
+   "heading": "Artigo 10.º — Natureza dos apoios públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Natureza dos apoios públicos\n\nOs apoios públicos previstos no presente regulamento revestem a forma de subvenção não reembolsável."
+  },
+  "114670813": {
+   "fragment_id": "114680520",
+   "type": 11,
+   "heading": "Artigo 11.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apresentação das candidaturas\n\n1 - As candidaturas são apresentadas em contínuo, em conformidade com o previsto no n.º 2 do artigo 16.º do Decreto-Lei n.º 159/2014, de 27 de outubro, podendo ter carácter plurianual.\n\n2 - A apresentação das candidaturas efetua-se nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, através da submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, ou no portal do Mar 2020, em www.mar2020.pt, e estão sujeitos a confirmação eletrónica considerando-se a data de submissão como a data de apresentação da candidatura.\n\n3 - O regime-regra previsto no número anterior não prejudica a possibilidade de a autoridade de gestão admitir, quando tal se justifique, forma diversa de apresentação de candidaturas."
+  },
+  "114670814": {
+   "fragment_id": "114680521",
+   "type": 11,
+   "heading": "Artigo 12.º — Seleção das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Seleção das candidaturas\n\n1 - Às candidaturas que preencham um dos requisitos a seguir indicados é atribuída uma pontuação final de 100 pontos:\n\na) Satisfaçam os requisitos do Programa Nacional para a Recolha de Dados biológicos, ambientais, técnicos e socioeconómicos primários e visem dar cumprimento ao Plano de Trabalho aprovado; ou\n\nb) Visem dar cumprimento ao Plano de Ação para a Recolha de Dados, relativo à condicionalidade específica ex ante do FEAMP.\n\n2 - Às candidaturas que não satisfaçam os requisitos identificados no número anterior é atribuída uma pontuação final (PF) de 0.\n\n3 - São excluídas as candidaturas que não obtenham uma pontuação final de 100 pontos."
+  },
+  "114670815": {
+   "fragment_id": "114680522",
+   "type": 11,
+   "heading": "Artigo 13.º — Análise e decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Análise e decisão das candidaturas\n\n1 - O correspondente nacional emite parecer sobre as candidaturas.\n\n2 - Sem prejuízo do disposto no n.º 3 do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são solicitados aos candidatos, quando se justifique, os documentos exigidos no formulário de candidatura ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta no prazo fixado para o efeito fundamento para o seu indeferimento.\n\n3 - O parecer referido no n.º 1 é remetido à autoridade de gestão num prazo máximo de 40 dias úteis a contar da data da apresentação da candidatura.\n\n4 - O secretariado técnico aprecia o parecer emitido sobre a candidatura com vista a assegurar que a mesma é selecionada em conformidade com as regras e critérios aplicáveis ao Mar 2020 e submete proposta de decisão final ao gestor.\n\n5 - A comissão de gestão emite parecer sobre as propostas de decisão relativas às candidaturas a financiamento.\n\n6 - A decisão das operações que prevejam um investimento elegível igual ou superior a (euro) 2 500 000,00 compete ao membro do Governo responsável pela área do mar.\n\n7 - Antes de ser emitida a decisão final, o secretariado técnico procede à audiência de interessados, nos termos do Código do Procedimento Administrativo, quanto à eventual intenção de indeferimento total ou parcial e respetivos fundamentos.\n\n8 - Sem prejuízo do disposto no n.º 4 do artigo 20.º do Decreto-Lei n.º 159/2014, de 27 de outubro, as candidaturas são objeto de decisão no prazo de 60 dias úteis contados a partir da data da respetiva apresentação, sendo a mesma comunicada aos candidatos pela autoridade de gestão, no prazo máximo de cinco dias úteis a contar da data da sua emissão.\n\n9 - A decisão de aprovação, total ou parcial, das candidaturas é igualmente comunicada pela autoridade de gestão ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), no prazo máximo de cinco dias úteis a contar da data da sua emissão."
+  },
+  "114670816": {
+   "fragment_id": "114680523",
+   "type": 11,
+   "heading": "Artigo 14.º — Termo de aceitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Termo de aceitação\n\n1 - A aceitação do apoio pelo beneficiário, nos termos e condições definidos na decisão da sua atribuição, é efetuada mediante submissão eletrónica e autenticação de termo de aceitação, nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n2 - O beneficiário dispõe de 30 dias úteis para a submissão eletrónica do termo de aceitação, sob pena de caducidade da decisão de aprovação da candidatura, nos termos do disposto no n.º 2 do artigo 21.º do Decreto-Lei n.º 159/2014, de 27 de outubro, salvo motivo justificado não imputável ao beneficiário e aceite pela autoridade de gestão."
+  },
+  "114670817": {
+   "fragment_id": "114680524",
+   "type": 11,
+   "heading": "Artigo 15.º — Pagamento dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Pagamento dos apoios\n\n1 - O pagamento do apoio é feito pelo IFAP, I. P, após apresentação pelo beneficiário do pedido e dos respetivos documentos de suporte, da forma e nos termos previstos nos números seguintes, mediante parecer do correspondente nacional.\n\n2 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n3 - O pedido de pagamento reporta-se às despesas efetivamente realizadas e pagas, devendo os respetivos comprovativos, e demais documentos que o integram, ser submetidos eletronicamente de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal.\n\n4 - Apenas são aceites os pedidos de pagamentos relativos a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato bancário, nos termos previstos no termo de aceitação.\n\n5 - Sem prejuízo do previsto no número anterior, o beneficiário pode constituir um Fundo Fixo de Caixa (FFC), no montante máximo de (euro) 500, em condições a definir em Orientação Técnica Específica.\n\n6 - O apoio é pago proporcionalmente à realização do investimento elegível e nas demais condições previstas na decisão de aprovação.\n\n7 - Podem ser apresentados até quatro pedidos de pagamento por candidatura aprovada, não sendo contabilizado o pedido de pagamento a título de adiantamento a que alude o artigo seguinte."
+  },
+  "114670818": {
+   "fragment_id": "114680525",
+   "type": 11,
+   "heading": "Artigo 16.º — Adiantamento dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Adiantamento dos apoios\n\n1 - O beneficiário poderá solicitar ao IFAP, I. P., a concessão de um ou mais adiantamentos até 50 % do valor do apoio, após submissão do termo de aceitação a que alude o artigo 14.º\n\n2 - No caso de beneficiário de natureza privada, os adiantamentos apenas são concedidos mediante a prévia constituição de garantia a favor do IFAP, I. P., nos termos e condições definidas por este Instituto.\n\n3 - A concessão e o montante dos adiantamentos a que se refere o número anterior ficam limitados às disponibilidades financeiras do Mar 2020.\n\n4 - A concessão de um adiantamento não obsta ao pagamento dos apoios ao abrigo do disposto no artigo anterior, contanto que os pagamentos efetuados a título de adiantamento e de reembolso, no seu conjunto, não excedam a totalidade da ajuda pública atribuída ao beneficiário."
+  },
+  "114670819": {
+   "fragment_id": "114680526",
+   "type": 11,
+   "heading": "Artigo 17.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Obrigações dos beneficiários\n\n1 - Sem prejuízo das obrigações previstas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, constituem obrigações dos beneficiários:\n\na) Iniciar a execução das operações até 90 dias a contar da data da submissão do termo de aceitação, sem prejuízo da elegibilidade temporal prevista no n.º 2 do artigo 65.º do Regulamento (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013;\n\nb) Aplicar integralmente os apoios na realização da operação aprovada, com vista à execução dos objetivos que justificaram a sua atribuição;\n\nc) Cumprir pontualmente as obrigações para o efeito contraídas perante terceiros, de forma a não perturbar a cabal realização dos objetivos subjacentes à atribuição dos apoios;\n\nd) Manter integralmente os requisitos da atribuição dos apoios, designadamente os objetivos da operação, não alterando nem modificando a mesma sem prévia autorização do gestor.\n\n2 - Excecionalmente, pode ser aceite a prorrogação do prazo de início operação, previsto na alínea a) do número anterior, desde que a sua necessidade seja justificada e se fundamente em razões não imputáveis ao beneficiário."
+  },
+  "114670820": {
+   "fragment_id": "114680527",
+   "type": 11,
+   "heading": "Artigo 18.º — Alterações às operações aprovadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Alterações às operações aprovadas\n\nPodem ser admitidas alterações técnicas à operação desde que se mantenha o objetivo do projeto aprovado, seguindo-se o disposto no artigo 21.º, delas não podendo resultar o aumento do apoio público."
+  },
+  "114670821": {
+   "fragment_id": "114680528",
+   "type": 11,
+   "heading": "Artigo 19.º — Cobertura orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Cobertura orçamental\n\nOs encargos com o pagamento dos apoios públicos previstos no presente regulamento são suportados pelo projeto relativo ao Mar 2020, inscrito no Orçamento do Estado, da responsabilidade do IFAP, I. P."
+  },
+  "114670822": {
+   "fragment_id": "114680529",
+   "type": 11,
+   "heading": "Artigo 20.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Reduções e exclusões\n\n1 - Os apoios previstos no presente regulamento estão sujeitos a reduções e exclusões em harmonia com o disposto no artigo 143.º do Regulamento (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013 e demais legislação aplicável, designadamente quando ocorra alguma das seguintes situações:\n\na) Incumprimento pelo beneficiário das obrigações decorrentes da decisão de atribuição do apoio, do termo de aceitação, do presente regulamento ou da legislação nacional e europeia aplicável;\n\nb) Prestação de falsas informações ou informações inexatas ou incompletas, seja sobre factos que serviram de base à apreciação da candidatura, seja sobre a situação da operação ou falsificando documentos fornecidos no âmbito da mesma.\n\n2 - As reduções e exclusões dos apoios são efetuadas nos termos e condições a definir em portaria do membro do Governo responsável pela área do mar.\n\n3 - À recuperação dos montantes indevidamente recebidos, aplica-se o disposto no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, no artigo 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável."
+  },
+  "114670823": {
+   "fragment_id": "114680530",
+   "type": 11,
+   "heading": "Artigo 21.º — Modificação ou extinção da operação por iniciativa do beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Modificação ou extinção da operação por iniciativa do beneficiário\n\nO beneficiário pode requerer ao gestor:\n\na) A extinção da operação, desde que proceda à restituição das importâncias recebidas;\n\nb) A modificação da operação, desde que proceda à restituição das importâncias recebidas, na medida correspondente à modificação."
+  },
+  "114670801": {
+   "fragment_id": "114680508",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra do Mar, Ana Paula Mendes Vitorino, em 16 de março de 2016."
+  },
+  "114670836": {
+   "fragment_id": "114680515",
+   "type": 11,
+   "heading": "Artigo 6.º — Tipologia de beneficiários",
+   "in_force_from": "2018-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 47/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/47-2018-114682829), em vigor a partir de 2018-02-13, produz efeitos a partir de 2016-04-01"
+   ],
+   "markdown": "###### Artigo 6.º — Tipologia de beneficiários\n\nPodem apresentar candidaturas, ao abrigo do presente regulamento, os seguintes parceiros do programa Nacional de Recolha de Dados (PNRD):\n\na) A Direção-Geral dos Recursos Naturais Segurança e Serviços Marítimos, responsável pela recolha e tratamento dos dados socioeconómicos relativos à frota de pesca, aquicultura e indústria transformadora dos produtos da pesca e da aquicultura, e pela coordenação da execução do PNRD através do correspondente nacional;\n\nb) Direção Regional das Pescas da Secretaria Regional do Mar, Ciência e Tecnologia da Região Autónoma dos Açores, responsável pela recolha e tratamento de dados transversais (capacidade), de dados de captura e de dados socioeconómicos, bem como, em substituição dos parceiros indicados na alínea e) ou em parceria com os mesmos ou com o Fundo Regional para a Ciência e Tecnologia ou a LOTAÇOR - Serviço de Lotas dos Açores, S. A., pela recolha e tratamento dos dados biológicos e de variáveis transversais (esforço, descargas);\n\nc) Direção Regional de Pescas da Secretaria Regional de Agricultura e Pescas da Região Autónoma da Madeira, responsável pela recolha e tratamento de dados de capturas e de dados biológicos, amostragem biológica e recolha de dados socioeconómicos;\n\nd) O Instituto Português do Mar e da Atmosfera, I. P., responsável pela recolha, arquivo, gestão e tratamento dos dados biológicos, ambientais, dos ecossistemas e pela realização de campanhas de investigação e estudos para a estimação dos parâmetros necessários à avaliação das unidades populacionais;\n\ne) O Instituto do Mar da Universidade dos Açores/Departamento de Oceanografia e Pescas da Universidade dos Açores (IMAR/DOP), responsável pela recolha e tratamento dos dados biológicos e de variáveis transversais (esforço, descargas).\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 47/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/47-2018-114682829), em vigor a partir de 2018-02-13, produz efeitos a partir de 2016-04-01"
+  },
+  "114670837": {
+   "fragment_id": "114680517",
+   "type": 11,
+   "heading": "Artigo 8.º — Elegibilidade das despesas",
+   "in_force_from": "2018-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 47/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/47-2018-114682829), em vigor a partir de 2018-02-13"
+   ],
+   "markdown": "###### Artigo 8.º — Elegibilidade das despesas\n\n1 - Sem prejuízo do disposto no artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são elegíveis as seguintes despesas, diretamente ligadas às operações enquadráveis no artigo 4.º do presente regulamento:\n\na) Encargos com pessoal;\n\nb) Encargos com deslocações e estadas;\n\nc) Aquisição ou aluguer de bens, incluindo equipamento e programas informáticos;\n\nd) Aquisição de serviços especializados ou de consultadoria, nomeadamente para desenvolvimento de bases de dados, sítios web, aplicações móveis, recolha, introdução, tratamento, análise e controlo da qualidade dos dados, bem como estudos-piloto destinados a melhorar os sistemas existentes de recolha, tratamento e gestão de dados, ou outros que se revelem necessários para a execução do programa;\n\ne) Materiais e consumíveis, incluindo para divulgação do programa;\n\nf) Despesas com os navios para as campanhas de investigação;\n\ng) Subsídios e suplementos previstos na lei, necessários para a realização das campanhas de investigação e de todas as operações de recolha de dados e amostragem da pesca comercial e recreativa;\n\nh) Formação e equipamentos de proteção e segurança para pessoal que efetua amostragens;\n\ni) Encargos relacionados com a locação e utilização de veículos, incluindo o aluguer operacional;\n\n2 - Não são elegíveis as seguintes despesas:\n\na) Custos indiretos;\n\nb) Aquisição de equipamentos que não sejam utilizados para a recolha e gestão de dados;\n\nc) Aquisição de veículos;\n\nd) Custos de distribuição, comercialização e publicidade para a promoção de produtos ou atividades comerciais;\n\ne) Despesas com artigos de luxo.\n\n3 - Sem prejuízo do disposto nos números anteriores, podem ser consideradas elegíveis outras despesas, desde que imprescindíveis à realização dos objetivos subjacentes às operações e aprovadas pelo gestor.\n\n4 - Dos custos com navios para a realização de campanhas de investigação no mar efetuados com navios fretados, apenas serão elegíveis os custos de locação e outros custos de funcionamento do navio.\n\n5 - Nos casos em que um determinado navio é propriedade do beneficiário, ou lhe esteja cedido, deve ser apresentada, juntamente com a declaração de despesas, uma discriminação dos custos que permita verificar o modo de cálculo dos custos de funcionamento cobrados.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 47/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/47-2018-114682829), em vigor a partir de 2018-02-13"
+  },
+  "114670838": {
+   "fragment_id": "114680524",
+   "type": 11,
+   "heading": "Artigo 15.º — Pagamento dos apoios",
+   "in_force_from": "2018-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 47/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/47-2018-114682829), em vigor a partir de 2018-02-13"
+   ],
+   "markdown": "###### Artigo 15.º — Pagamento dos apoios\n\n1 - O pagamento do apoio é feito pelo IFAP, I. P, após apresentação pelo beneficiário do pedido e dos respetivos documentos de suporte, da forma e nos termos previstos nos números seguintes, mediante parecer do correspondente nacional.\n\n2 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n3 - O pedido de pagamento reporta-se às despesas efetivamente realizadas e pagas, devendo os respetivos comprovativos, e demais documentos que o integram, ser submetidos eletronicamente de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal.\n\n4 - Apenas são aceites os pedidos de pagamentos relativos a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato bancário, nos termos previstos no termo de aceitação.\n\n5 - Sem prejuízo do previsto no número anterior, o beneficiário pode constituir um Fundo Fixo de Caixa (FFC), no montante máximo de (euro) 500, em condições a definir em Orientação Técnica Específica.\n\n6 - O apoio é pago proporcionalmente à realização do investimento elegível e nas demais condições previstas na decisão de aprovação.\n\n7 - Em regra, podem ser apresentados até quatro pedidos de pagamento por candidatura aprovada, não sendo contabilizado o pedido de pagamento a título de adiantamento a que alude o artigo seguinte, podendo o gestor, em função da natureza das operações aprovadas, autorizar a apresentação de pedidos de pagamento adicionais.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 47/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/47-2018-114682829), em vigor a partir de 2018-02-13"
+  },
+  "126813664": {
+   "fragment_id": "114680517",
+   "type": 11,
+   "heading": "Artigo 8.º — Elegibilidade das despesas",
+   "in_force_from": "2019-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Portaria n.º 400/2019 - Diário da República n.º 231/2019, Série I de 2019-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/400-2019-126774995), em vigor a partir de 2019-02-03, produz efeitos a partir de 2016-04-10",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 47/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/47-2018-114682829), em vigor a partir de 2018-02-13"
+   ],
+   "markdown": "###### Artigo 8.º — Elegibilidade das despesas\n\n1 - Sem prejuízo do disposto no artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são elegíveis as seguintes despesas, diretamente ligadas às operações enquadráveis no artigo 4.º do presente regulamento:\n\na) Encargos com pessoal;\n\nb) Encargos com deslocações e estadas;\n\nc) Aquisição ou aluguer de bens, incluindo equipamento e programas informáticos;\n\nd) Aquisição de serviços especializados ou de consultadoria, nomeadamente para desenvolvimento de bases de dados, sítios web, aplicações móveis, recolha, introdução, tratamento, análise e controlo da qualidade dos dados, bem como estudos-piloto destinados a melhorar os sistemas existentes de recolha, tratamento e gestão de dados, ou outros que se revelem necessários para a execução do programa;\n\ne) Materiais e consumíveis, incluindo para divulgação do programa;\n\nf) Despesas com os navios para as campanhas de investigação;\n\ng) Subsídios e suplementos previstos na lei, necessários para a realização das campanhas de investigação e de todas as operações de recolha de dados e amostragem da pesca comercial e recreativa;\n\nh) Formação e equipamentos de proteção e segurança para pessoal que efetua amostragens;\n\ni) Encargos relacionados com a locação e utilização de veículos, incluindo o aluguer operacional;\n\nj) Custos relativos à organização de reuniões de trabalho e outros eventos no âmbito da recolha de dados, incluindo inerentes despesas com refeições.\n\n2 - Não são elegíveis as seguintes despesas:\n\na) Custos indiretos;\n\nb) Aquisição de equipamentos que não sejam utilizados para a recolha e gestão de dados;\n\nc) Aquisição de veículos;\n\nd) Custos de distribuição, comercialização e publicidade para a promoção de produtos ou atividades comerciais;\n\ne) Despesas com artigos de luxo.\n\n3 - Sem prejuízo do disposto nos números anteriores, podem ser consideradas elegíveis outras despesas, desde que imprescindíveis à realização dos objetivos subjacentes às operações e aprovadas pelo gestor.\n\n4 - Dos custos com navios para a realização de campanhas de investigação no mar efetuados com navios fretados, apenas serão elegíveis os custos de locação e outros custos de funcionamento do navio.\n\n5 - Nos casos em que um determinado navio é propriedade do beneficiário, ou lhe esteja cedido, deve ser apresentada, juntamente com a declaração de despesas, uma discriminação dos custos que permita verificar o modo de cálculo dos custos de funcionamento cobrados.\n\n> Alterado pelo/a Artigo 9.º do/a [Portaria n.º 400/2019 - Diário da República n.º 231/2019, Série I de 2019-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/400-2019-126774995), em vigor a partir de 2019-02-03, produz efeitos a partir de 2016-04-10\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 47/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/47-2018-114682829), em vigor a partir de 2018-02-13"
+  },
+  "180532616": {
+   "fragment_id": "114680527",
+   "type": 11,
+   "heading": "Artigo 18.º — Alterações às operações aprovadas",
+   "in_force_from": "2022-03-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 114/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/portaria/114-2022-180474165), em vigor a partir de 2022-03-16"
+   ],
+   "markdown": "###### Artigo 18.º — Alterações às operações aprovadas\n\n1 - Podem ser admitidas alterações técnicas à operação, desde que delas não resulte o aumento do apoio público e se mantenha o objetivo do projeto aprovado, seguindo-se o disposto no artigo 21.º, sem prejuízo do disposto no número seguinte.\n\n2 - Caso as alterações técnicas impliquem acréscimo de custos, pode ser considerado o aumento do apoio público desde que observadas as seguintes condições:\n\na) As alterações e necessidade de aumento do apoio público sejam devidamente justificadas;\n\nb) O acréscimo de custos respeite a despesas elegíveis;\n\nc) As alterações em causa estejam em conformidade com as regras da contratação pública; e\n\nd) Exista disponibilidade financeira para acomodar o aumento de apoio solicitado.\n\n3 - A condição prevista na alínea d) do número anterior é dispensada no caso de a entidade beneficiária ter outra(s) operação(ões) aprovada(s) ao abrigo do presente regime em que desista, total ou parcialmente, do apoio que lhe está atribuído, em montante igual ou superior ao do aumento de apoio pretendido.\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 114/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/portaria/114-2022-180474165), em vigor a partir de 2022-03-16"
+  }
+ }
+}

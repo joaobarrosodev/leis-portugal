@@ -1,0 +1,113 @@
+---
+schema_version: '1.0'
+id: pt:dre:457991:por
+title: Resolução n.º 383/80
+short_title: null
+summary: Prorroga o prazo estabelecido no n.º 2 da Resolução n.º 120/80, de 20 de Março (determina a cessação da intervenção
+  do Estado com restituição aos respectivos titulares das empresas do grupo J. Pimenta, S. A. R. L.)
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 383/80
+official_date: null
+publication_date: '1980-11-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 259/1980, Série I de 1980-11-08
+  number: '259'
+  series: I
+  supplement: null
+  pages: 3791 - 3791
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/11/25900/37913791.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '457991'
+  dre_path: /dr/detalhe/resolucao/383-1980-457991
+  internal: pt:dre:457991:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/383-1980-457991
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/383-1980-457991
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:34:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 29f69a9423082f11f334cd43e516cafa8d70511b9ff0683d3dc16d359f2fef46
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:34:00Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Empresa Intervencionada
+- Intervenção do Estado
+- Prorrogação de Prazo
+relationships:
+- type: amended_by
+  target: pt:dre:232545:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:578117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682176:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:34:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 383/80
+
+Pela [Resolução n.º 120/80](https://diariodarepublica.pt/dr/detalhe/resolucao/120-1980-682176), de 20 de Março, foi prorrogado o prazo fixado no n.º 5 da [Resolução n.º 133-A/79](https://diariodarepublica.pt/dr/detalhe/resolucao/133-a-1979-578117), de 11 de Abril, até 30 de Setembro de 1980.
+
+Considerando, contudo, a grave situação económica e financeira em que a empresa Empreendimentos Urbanos e Turismo J. Pimenta, S. A. R. L., se encontra;
+
+Considerando também que, não obstante os esforços desenvolvidos, se encontra ainda por concluir o processo conducente à viabilização desta empresa:
+
+O Conselho de Ministros, reunido em 28 de Outubro de 1980, resolveu:
+
+1 - Prorrogar até 31 de Março o prazo previsto no n.º 2 da [Resolução n.º 120/80](https://diariodarepublica.pt/dr/detalhe/resolucao/120-1980-682176), de 20 de Março, da Presidência do Conselho de Ministros.
+
+2 - Não proceder a prorrogações do prazo a que se refere o n.º 1 para além da data fixada.
+
+Presidência do Conselho de Ministros, 28 de Outubro de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.

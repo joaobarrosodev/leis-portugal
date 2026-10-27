@@ -1,0 +1,207 @@
+---
+schema_version: '1.0'
+id: pt:dre:383437:por
+title: Decreto-Lei n.º 109/97
+short_title: null
+summary: Revê os regimes de intransmissibilidade e inalienabilidade em vigor para as segundas transmissões de habitações a
+  custos controlados
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Equipamento, do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 109/97
+official_date: null
+publication_date: '1997-05-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 106/1997, Série I-A de 1997-05-08
+  number: '106'
+  series: I
+  supplement: null
+  pages: 2201 - 2203
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/05/106a00/22012203.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/109/1997/05/08/p/dre/pt/html
+  oj: null
+  dre: '383437'
+  dre_path: /dr/detalhe/decreto-lei/109-1997-383437
+  internal: pt:dre:383437:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1997-383437
+  metadata_url: https://data.dre.pt/eli/dec-lei/109/1997/05/08/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1997-383437
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:48:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2fcef136da93ea5a066e8f9464779a02f668f4cee3ca0d4fbfaae6d2729babdb
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:48:49Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alienação de Fogos
+- Crédito Bonificado
+- Custo da Construção
+- Habitação
+- Habitação Social
+- Reembolso
+- Transmissão da Propriedade
+relationships:
+- type: cites
+  target: pt:dre:274239:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/162/1993/05/07/p/dre
+- type: cites
+  target: pt:dre:274243:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/165/1993/05/07/p/dre
+- type: cites
+  target: pt:dre:451825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692779:por
+  label: null
+  source: http://data.dre.pt/eli/port/1375/1995/11/22/p/dre
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:48:49Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 109/97
+
+de 8 de Maio
+
+No âmbito das linhas especiais de crédito bonificado para construção de habitações a custos controlados foram, desde logo ou posteriormente, instituídos regimes de intransmissibilidade das habitações que visaram garantir que a concessão de apoio financeiro pelo Estado não fosse desvirtuada, assegurando-se, assim, que fosse efectivamente dirigida a permitir o acesso à habitação por parte dos estratos populacionais de médios e baixos recursos económicos. Na prática, como se pretende sobretudo salvaguardar o retorno ao Estado dos valores que investe a título de bonificação, previu-se para alguns desses casos um complexo processo de levantamento da intransmissibilidade, mediante o reembolso daqueles valores.
+
+Importa, assim, proceder a uma uniformização de regimes que, prosseguindo o objectivo de assegurar o reembolso do apoio financeiro concedido pelo Estado, simplifique os actuais regimes de inalienabilidade ou intransmissibilidade de habitações financiadas com linhas de crédito idênticas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Âmbito
+
+O presente diploma regula os casos de segundas transmissões de habitações construídas com empréstimos bonificados concedidos ao abrigo de regimes de crédito à promoção municipal, cooperativa e privada de habitação a custos controlados para venda.
+
+###### Artigo 2.º — Ónus de inalienabilidade
+
+1 - As habitações referidas no artigo anterior estão sujeitas a um ónus de inalienabilidade pelo prazo de cinco anos a contar da data da primeira aquisição.
+
+2 - Quando os adquirentes das habitações forem a administração directa ou indirecta do Estado, os municípios, as instituições particulares de solidariedade social e as pessoas colectivas de utilidade pública administrativa que prossigam fins assistenciais, o prazo referido no número anterior só é contado a partir da data da transmissão subsequente.
+
+###### Artigo 3.º — Cessação da inalienabilidade
+
+A inalienabilidade das habitações cessa automaticamente:
+
+a) Em caso de morte ou invalidez permanente e absoluta do proprietário ou do respectivo cônjuge;
+
+b) Em caso de execução por dívida relacionada com o financiamento à aquisição da respectiva habitação.
+
+###### Artigo 4.º — Levantamento da inalienabilidade
+
+1 - Se o proprietário pretender alienar a habitação durante o prazo referido no artigo 2.º, deve requerer ao Instituto Nacional de Habitação, adiante designado por INH, o levantamento do ónus de inalienabilidade mediante o reembolso ao Estado do valor atribuído ao respectivo fogo a título de bonificação à taxa de juro, acrescido de 10%.
+
+2 - Cabe ao INH proceder ao cálculo do montante a reembolsar, bem como emitir a declaração de levantamento do ónus de inalienabilidade da habitação.
+
+3 - A declaração de levantamento do ónus deve ser exibida perante o notário no acto de celebração da escritura de transmissão da propriedade da habitação, a quem cabe verificar a regularidade da alienação face ao disposto no n.º 1 do presente artigo.
+
+###### Artigo 5.º — Registo predial
+
+1 - O ónus de inalienabilidade previsto no presente diploma bem como o respectivo prazo estão sujeitos a registo, a efectuar em simultâneo com o registo da propriedade horizontal ou, no caso das habitações unifamiliares, com o registo da respectiva propriedade.
+
+2 - A caducidade do ónus pelo decurso do prazo determina o averbamento oficioso desse facto.
+
+3 - São registados a pedido dos interessados:
+
+a) A cessação do ónus de inalienabilidade nos casos previstos no artigo 3.º, quando comprovados por certidão emitida pelas entidades competentes;
+
+b) O levantamento do ónus de inalienabilidade nos termos do artigo 4.º, quando comprovado com a declaração de levantamento referida no n.º 2 do mesmo artigo.
+
+###### Artigo 6.º — Cláusulas obrigatórias
+
+1 - Os contratos-promessa e as escrituras de compra e venda a celebrar entre os promotores de habitação a custos controlados para venda e os destinatários dos fogos devem conter obrigatoriamente uma cláusula de que conste que os fogos estão sujeitos ao ónus de inalienabilidade, o respectivo prazo e que a segunda transmissão do fogo dentro desse prazo depende do reembolso do valor suportado pelo Estado a título de bonificação, acrescido de 10%.
+
+2 - O não cumprimento do disposto no número anterior só pode ser invocado pelo promitente vendedor e ou vendedor quando tiver sido culposamente causado pela outra parte.
+
+###### Artigo 7.º — Aplicação
+
+1 - O presente regime aplica-se a todas as habitações cujas escrituras de compra e venda entre os promotores e os primeiros adquirentes sejam celebradas após a entrada em vigor do presente diploma.
+
+2 - Nos casos de intransmissibilidade ou inalienabilidade regulados pelo [Decreto-Lei n.º 162/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1993-274239), de 7 de Maio, e pelo artigo 12.º do [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), de 7 de Maio, o respectivo prazo é contado nos termos do disposto no artigo 2.º do presente diploma.
+
+###### Artigo 8.º — Alteração ao regime dos contratos de desenvolvimento para habitação
+
+O artigo 12.º do [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), de 7 de Maio, passa a ter a seguinte redacção:
+
+«Artigo 12.º
+
+Regimes de inalienabilidade e de renda condicionada
+
+1 - Os fogos adquiridos ao abrigo do disposto nas alíneas a) e b) do artigo 10.º ficam sujeitos ao regime legal de inalienabilidade previsto para as habitações a custos controlados para venda.
+
+2 - Nos fogos destinados a arrendamento o valor da renda não pode exceder, durante o prazo de cinco anos, o seu valor calculado em regime de renda condicionada.
+
+3 - O regime de arrendamento referido no número anterior está sujeito a registo e cessa automaticamente com a morte ou invalidez permanente e absoluta do proprietário ou do respectivo cônjuge.
+
+4 - Em caso de execução da garantia hipotecária da entidade financiadora, cessa a sujeição aos valores de venda máximos previstos no presente diploma.
+
+5 - O disposto nos números anteriores aplica-se igualmente aos casos previstos na alínea c) do artigo 10.º, sem prejuízo de outros ónus que porventura lhes sejam aplicáveis por efeito de outras disposições legais.»
+
+###### Artigo 9.º — Norma revogatória
+
+1 - São revogados:
+
+a) O artigo 13.º, bem como o artigo 14.º, na parte em que dispõe quanto ao ónus de inalienabilidade, do [Decreto-Lei n.º 220/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1983-451825), de 26 de Maio;
+
+b) A [Portaria n.º 1375/95](https://diariodarepublica.pt/dr/detalhe/portaria/1375-1995-692779), de 22 de Novembro.
+
+2 - As remissões efectuadas noutros diplomas para as disposições revogadas nos números anteriores consideram-se feitas, com as devidas adaptações, para o presente diploma.
+
+Visto e aprovado em Conselho de Ministros de 13 de Março de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim.
+
+Promulgado em 18 de Abril de 1997.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 22 de Abril de 1997.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

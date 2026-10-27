@@ -1,0 +1,183 @@
+---
+schema_version: '1.0'
+id: pt:dre:572607:por
+title: Decreto Legislativo Regional n.º 20/2003/A
+short_title: null
+summary: Adapta à Região Autónoma dos Açores o Decreto-Lei n.º 61/99, de 2 de Março (regime de acesso e permanência nas actividades
+  de empreiteiro de obras públicas e industrial de construção civil)
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 20/2003/A
+official_date: null
+publication_date: '2003-05-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 104/2003, Série I-A de 2003-05-06
+  number: '104'
+  series: I
+  supplement: null
+  pages: 2918 - 2919
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/05/104a00/29182919.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/20/2003/05/06/a/dre/pt/html
+  oj: null
+  dre: '572607'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/20-2003-572607
+  internal: pt:dre:572607:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2003-572607
+  metadata_url: https://data.dre.pt/eli/declegreg/20/2003/05/06/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2003-572607
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:19:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4ce675addf78df75d39b35b13e6dbc9c866782e1e31622e83f3a3ef5ecd3c0fa
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:47Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Alvará
+- Atividade Industrial
+- Construção Civil
+- Empreiteiro de Obras Públicas
+- Industrial da Construção Civil
+- Licenciamento
+- Obras Particulares
+- Obras Públicas
+- Regime Jurídico
+- TAXA de Prestação de Serviços
+relationships:
+- type: cites
+  target: pt:dre:152528:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/61/1999/03/02/p/dre
+- type: cites
+  target: pt:dre:275240:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/10/2000/05/12/a/dre
+- type: cites
+  target: pt:dre:603512:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/23/2001/11/13/a/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:19:47Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 20/2003/A
+
+Adapta à Região Autónoma dos Açores o [Decreto-Lei n.º 61/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-1999-152528), de 2 de Março (regime de acesso e permanência nas actividades de empreiteiro de obras públicas e industrial de construção civil).
+
+O [Decreto-Lei n.º 61/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-1999-152528), de 2 de Março, veio estabelecer o novo regime das condições de acesso e permanência nas actividades de empreiteiro de obras públicas e industrial de construção civil, assente numa perspectiva mais acentuada de qualificação dos agentes económicos do sector da construção civil e obras públicas.
+
+Tal regime foi, contudo, adaptado à Região Autónoma dos Açores através do [Decreto Legislativo Regional n.º 10/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2000-275240), de 12 de Maio, visando-se, essencialmente, que o processo de certificação nos Açores se processasse de uma forma progressiva e ajustada às especificidades sócio-económicas do sector da construção civil na Região.
+
+Assim, em concreto, o diploma regional anteriormente referido veio permitir a execução de obras particulares, sujeitas a licenciamento municipal, sem a necessidade de registo e de autorização, desde que o respectivo valor não excedesse o valor da primeira das classes de industrial de construção civil.
+
+Posteriormente, a fim de assegurar a certificação plena dos agentes económicos do sector da construção civil na Região, através do [Decreto Legislativo Regional n.º 23/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2001-603512), de 13 de Novembro, foi fixado um termo suspensivo ao regime derrogatório introduzido pelo [Decreto Legislativo Regional n.º 10/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2000-275240), de 12 de Maio, fixando-se a vigência deste último até 31 de Dezembro de 2002.
+
+Porém, não obstante a necessidade de se permitir que o exercício da actividade de construção civil na Região se desenvolva, tanto quanto possível, no âmbito do quadro normativo aplicável a todo o território nacional, a verdade é que a experiência colhida nos últimos anos encaminha-nos forçosamente para o estabelecimento de um quadro normativo próprio que se ajuste aos condicionalismos específicos do sector da construção civil na Região.
+
+Deste modo, sem prejuízo dos princípios que se visa cuidar no [Decreto-Lei n.º 61/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-1999-152528), de 2 de Março, nomeadamente o de credibilizar a actividade de industrial de construção civil, torna-se necessário moldá-lo à estrutura organizacional dos pequenos industriais de construção civil da Região, não só para assegurar a sua sobrevivência económica como a sustentabilidade dos demais sectores económicos associados. Com efeito, é impossível ignorar o facto de o [Decreto-Lei n.º 61/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-1999-152528), de 2 de Março, impor um conjunto de requisitos de acesso e permanência na actividade de industrial de construção civil bastante restritivos, nomeadamente os relacionados com a capacidade técnica, os quais se afiguram de difícil preenchimento em algumas zonas do arquipélago, mormente nas ilhas de menor densidade populacional.
+
+As especificidades do sector da construção civil nos Açores também se evidenciam a outros níveis, sendo de destacar o desajustamento que se verifica ao nível do preço da construção, o qual na Região é mais elevado do que no continente, concorrendo para isso os custos associados à insularidade que tornam mais dispendiosos os materiais e equipamentos de construção e os meios humanos necessários à execução das obras.
+
+Este facto faz que na Região exista uma manifesta desactualização dos valores das classes das autorizações contidas nos certificados de classificação de empreiteiros de obras públicas e industriais de construção civil, situação que desfavorece a concorrência na execução de obras nos Açores, contrariando desta forma o desenvolvimento regional.
+
+Deste modo, para os valores presentemente fixados, nos termos do n.º 5 do artigo 3.º do [Decreto-Lei n.º 61/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-1999-152528), de 2 de Março, para as classes das autorizações contidas nos certificados de classificação de empreiteiros de obras públicas e industriais de construção civil, afigura-se adequada uma majoração de 40%.
+
+Foi ouvido o Conselho Regional de Obras Públicas.
+
+Assim, a Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
+
+###### Artigo 1.º — Objecto e âmbito
+
+As actividades de empreiteiro de obras públicas e de industrial da construção civil na Região Autónoma dos Açores regem-se pelo disposto no [Decreto-Lei n.º 61/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-1999-152528), de 2 de Março, com excepção do que diferentemente se dispõe no presente diploma.
+
+###### Artigo 2.º — Exercício da actividade
+
+1 - O exercício da actividade de construção civil, quando se trate de obras sujeitas a licenciamento municipal cujo valor não ultrapasse 50% do limite fixado para a primeira das classes das autorizações estabelecidas para aquelas actividades, depende de registo no Instituto de Mercados de Obras Públicas e Particulares e do Imobiliário (IMOPPI).
+
+2 - Ao abrigo do disposto no número anterior, poderão ser executadas obras particulares em todas as subcategorias fixadas nos termos do n.º 2 do artigo 26.º do [Decreto-Lei n.º 61/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-1999-152528), de 2 de Março.
+
+###### Artigo 3.º — Majoração dos valores das classes das autorizações EOP e ICC
+
+Na Região Autónoma dos Açores, os valores das classes das autorizações contidas nos certificados de classificação de empreiteiro de obras públicas (EOP) e industrial de construção civil (ICC) consideram-se superiores em 40% aos valores fixados nos termos do n.º 5 do artigo 3.º do [Decreto-Lei n.º 61/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-1999-152528), de 2 de Março.
+
+###### Artigo 4.º — Excepções
+
+O disposto no artigo 3.º não se aplica:
+
+a) Às obras públicas postas a concurso ou adjudicadas em data anterior à da entrada em vigor do presente diploma;
+
+b) Às obras cuja licença de construção tenha sido concedida em data anterior à da entrada em vigor do presente diploma;
+
+c) Aos empresários em nome individual ou às sociedades comerciais que exerçam a actividade de construção civil sem registo ou autorização ao abrigo do [Decreto Legislativo Regional n.º 10/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2000-275240), de 12 de Maio.
+
+###### Artigo 5.º — Alteração do [Decreto Legislativo Regional n.º 10/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2000-275240), de 12 de Maio
+
+O artigo 4.º do [Decreto Legislativo Regional n.º 10/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2000-275240), de 12 de Maio, aditado pelo [Decreto Legislativo Regional n.º 23/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2001-603512), de 13 de Novembro, passa a ter a seguinte redacção:
+
+«Artigo 4.º
+
+[...]
+
+O regime previsto no presente diploma vigora até 30 de Junho de 2003.»
+
+###### Artigo 6.º — Produção de efeitos
+
+1 - O presente diploma entra em vigor no dia imediato ao da sua publicação, sem prejuízo do disposto nos números seguintes.
+
+2 - O estipulado no artigo 2.º do presente diploma vigorará por um período de três anos a contar da data da sua entrada em vigor.
+
+3 - O artigo 5.º do presente diploma reporta os seus efeitos a 1 de Janeiro de 2003.
+
+Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 18 de Março de 2003.
+
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
+
+Assinado em Angra do Heroísmo em 8 de Abril de 2003.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.

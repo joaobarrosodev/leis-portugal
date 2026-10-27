@@ -1,0 +1,106 @@
+---
+schema_version: '1.0'
+id: pt:dre:915864377:por
+title: Declaração de Retificação n.º 420/2025/2
+short_title: null
+summary: Retifica o Despacho (extrato) n.º 4588/2025, publicado no Diário da República, 2.ª série, n.º 74, de 15 de abril
+  de 2025.
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Assembleia da República - Secretário-Geral
+proposing_entity: null
+official_number: 420/2025/2
+official_date: null
+publication_date: '2025-04-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 80/2025, Série II de 2025-04-24
+  number: '80'
+  series: II
+  supplement: null
+  pages: 25 - 25
+  pdf_url: https://files.diariodarepublica.pt/2s/2025/04/080000000/0002500025.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '915864377'
+  dre_path: /dr/detalhe/declaracao-retificacao/420-2025-915864377
+  internal: pt:dre:915864377:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/420-2025-915864377
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/420-2025-915864377
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:59:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e8c36499650db05ab5bc966cc22e4d77ad71add2be7070ed580346a5baa8689b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:07Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:651724:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:915072130:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:59:07Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 420/2025/2
+
+Por ter sido publicado com inexatidão o [Despacho (extrato) n.º 4588/2025](https://diariodarepublica.pt/dr/detalhe/despacho-extrato/4588-2025-915072130), no Diário da República, 2.ª série, n.º 74, de 15 de abril de 2025, procede-se à seguinte retificação:
+
+Onde se lê:
+
+«Nos termos do n.º 6 do artigo 46.º da Lei de Organização e Funcionamento dos Serviços da Assembleia da República, republicada pela [Lei n.º 28/2003](https://diariodarepublica.pt/dr/detalhe/lei/28-2003-651724), de 30 de julho, na sua atual redação, por despacho, datado de 18 de março de 2025, do Presidente do Grupo Parlamentar do Partido Social Democrata, deputado Hugo Soares, é nomeada Maria da Conceição Alves Pereira, para o cargo de assessora, com efeitos a partir de 1 de março de 2025.»
+
+deve ler-se:
+
+«Nos termos do n.º 6 do artigo 46.º da Lei de Organização e Funcionamento dos Serviços da Assembleia da República, republicada pela [Lei n.º 28/2003](https://diariodarepublica.pt/dr/detalhe/lei/28-2003-651724), de 30 de julho, na sua atual redação, por despacho, datado de 18 de março de 2025, do Presidente do Grupo Parlamentar do Partido Social Democrata, deputado Hugo Soares, é nomeada Marisa da Conceição Alves Pereira, para o cargo de assessora, com efeitos a partir de 1 de março de 2025.»
+
+15 de abril de 2025. - A Secretária-Geral, Anabela Leitão Cabral Ferreira.
+
+318961204

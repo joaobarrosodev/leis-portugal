@@ -1,0 +1,145 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:135711318:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-135640328",
+ "dre_path": "/dr/detalhe/portaria/140-2020-135711318",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-06-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "135613907",
+    "135613908",
+    "135613909",
+    "135613910",
+    "135613911",
+    "135613912",
+    "135613913",
+    "135613914",
+    "135613915"
+   ]
+  },
+  {
+   "date": "2020-12-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:150509330:por",
+     "title": "Portaria n.º 280/2020",
+     "published": "2020-12-07",
+     "dre_path": "/dr/detalhe/portaria/280-2020-150509330"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "135613907",
+    "135613908",
+    "135613909",
+    "135613910",
+    "135613911",
+    "135613912",
+    "135613913",
+    "150661666",
+    "135613915",
+    "135613916"
+   ]
+  }
+ ],
+ "fragments": {
+  "135613907": {
+   "fragment_id": "135640329",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 140/2020\n\nde 15 de junho\n\nSumário: Oitava alteração ao Regulamento Específico do Domínio da Competitividade e Internacionalização anexo à Portaria n.º 57-A/2015, de 27 de fevereiro.\n\nO Regulamento (UE) n.º 2020/558 do Parlamento Europeu e do Conselho, de 23 de abril de 2020, que alterou os Regulamentos (UE) n.º 1301/2013 e (UE) n.º 1303/2013, veio prever um conjunto de medidas específicas destinadas a proporcionar uma flexibilidade excecional para a utilização dos Fundos Europeus Estruturais e de Investimento em resposta ao surto de COVID-19, procurando dotar os Estados-Membros de ferramentas que lhes permitam dar resposta ao impacto desta crise de saúde pública, reduzindo os seus graves efeitos negativos sobre as economias e as sociedades da União.\n\nA fim de reduzir os encargos para os orçamentos públicos que dão resposta a esta crise de saúde pública, os Estados-Membros passaram a ter a possibilidade, a título excecional, de beneficiar de reembolsos de 100 % sobre as despesas declaradas nos pedidos de pagamento durante o exercício contabilístico com início a 1 de julho de 2020 e termo a 30 de junho de 2021, em conformidade com as dotações orçamentais, ao nível do Programa e do eixo prioritário, em função das disponibilidades orçamentais.\n\nProsseguindo esse mesmo objetivo, importa agora introduzir ajustamentos à regulamentação específica aplicável aos Fundos da Política de Coesão (Fundo Europeu de Desenvolvimento Regional, Fundo Social Europeu e Fundo de Coesão) de modo a permitir que esta medida excecional prevista no Regulamento comunitário possa viabilizar a aplicação de taxas de cofinanciamento de 100 % às despesas elegíveis, declaradas ao nível da operação, no âmbito destes fundos, salvaguardadas as regras de auxílios de estados, dos princípios da transparência, da não descriminação e da igualdade de tratamento entre beneficiários.\n\nConsiderando que um dos regulamentos específicos agora objeto de ajustamento se refere ao Domínio da Competitividade e Internacionalização, considera-se igualmente oportuno prever no presente diploma a possibilidade de adoção alargada de metodologias de custos simplificados no Sistema de Apoio às Ações Coletivas, não possível na regulação inicial deste instrumento, na medida em que assume um forte contributo para o processo de simplificação ao nível das obrigações do beneficiário e adicionalmente da carga administrativa relacionada com os projetos, a qual se traduzirá numa redução dos prazos para validação das despesas e respetivo pagamento, à semelhança do já verificado noutras áreas de intervenção.\n\nPor fim, a presente alteração visa ainda, também no que respeita ao Regulamento Específico para o Domínio da Competitividade e Internacionalização, estabelecer o adequado enquadramento das despesas com a intervenção dos Contabilistas Certificados, anteriormente denominados Técnicos Oficiais de Contas, e Revisores Oficiais de Contas, na validação da despesa dos pedidos de pagamento, as quais ocorrem ao nível do ciclo de vida da operação por mera imposição da Administração Pública. A exclusão destas despesas do conceito «Data de Conclusão da Operação» permitirá que as mesmas sejam objeto de apoio sem quaisquer penalizações sempre que respeitem a validação de declarações de despesa de investimento finais dos beneficiários.\n\nNos termos da alínea c) do n.º 2 e do n.º 3 do artigo 10.º do Decreto-Lei n.º 137/2014, de 12 de setembro, na sua atual redação, as alterações preconizadas na presente portaria foram aprovadas pela Deliberação n.º 15/2020, da Comissão Interministerial de Coordenação do Acordo de Parceria, de 9 de junho de 2020, carecendo de ser adotadas por portaria.\n\nAssim:\n\nManda o Governo, pelo Ministro do Planeamento, nos termos do disposto no n.º 3 do artigo 10.º do Decreto-Lei n.º 137/2014, de 12 de setembro, alterado pelos Decretos-Leis n.os 34/2018, de 15 de maio e 127/2019, de 29 de agosto, e ao abrigo do n.º 4 do artigo 22.º Decreto-Lei n.º 169-B/2019, de 3 de dezembro, alterado pelo Decreto-Lei n.º 19-B/2020, de 30 de abril, que aprova a organização e funcionamento do XXII Governo Constitucional, o seguinte:"
+  },
+  "135613908": {
+   "fragment_id": "135640330",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede:\n\na) À oitava alteração do Regulamento Específico do Domínio da Competitividade e Internacionalização, anexo à Portaria n.º 57-A/2015, de 27 de fevereiro, que o adotou e da qual faz parte integrante, alterado pela Portaria n.º 181-B/2015, de 19 de junho, pela Declaração de Retificação n.º 30-B/2015, de 26 de junho, pela Portaria n.º 328-A/2015, de 2 de outubro, pela Portaria n.º 211-A/2016, de 2 de agosto, pela Portaria n.º 142/2017, de 20 de abril, pela Portaria n.º 360-A/2017, de 23 de novembro, pela Portaria n.º 217/2018, de 19 de julho, e pela Portaria n.º 316/2018, de 10 de dezembro;\n\nb) À sétima alteração do Regulamento Específico do Domínio da Sustentabilidade e Eficiência no Uso de Recursos, anexo à Portaria n.º 57-B/2015, de 27 de fevereiro, que o adotou e da qual faz parte integrante, alterado pela Portaria n.º 404-A/2015, de 18 de novembro, pela Portaria n.º 238/2016, de 31 de agosto, pela Declaração de Retificação n.º 17/2016, de 26 de setembro, pela Portaria n.º 124/2017, de 27 de março, pela Portaria n.º 260/2017, de 23 de agosto, pela Portaria n.º 325/2017, de 27 de outubro, e pela Portaria n.º 332/2018, de 24 de dezembro;\n\nc) À sexta alteração ao Regulamento Específico do Domínio da Inclusão Social e Emprego, aprovado em anexo à Portaria n.º 97-A/2015, de 30 de março, alterado pela Portaria n.º 181-C/2015, de 19 de junho, pela Portaria n.º 265/2016, de 13 de outubro, pela Portaria n.º 41/2018, de 1 de fevereiro, pela Portaria n.º 235/2018, de 23 de agosto, e pela Portaria n.º 66/2019, de 20 de fevereiro;\n\nd) À sétima alteração ao Regulamento Específico do Domínio do Capital Humano, aprovado em anexo à Portaria n.º 60-C/2015, de 2 de março, alterado pela Portaria n.º 181-A/2015, de 19 de junho, pela Portaria n.º 190-A/2015, de 26 de junho, pela Portaria n.º 148/2016, de 23 de maio, pela Portaria n.º 311/2016, de 12 de dezembro, pela Portaria n.º 2/2018, de 2 de janeiro, e pela Portaria n.º 159/2019, de 23 de maio."
+  },
+  "135613909": {
+   "fragment_id": "135640331",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAlteração e aditamento ao Regulamento Específico do Domínio da Competitividade e Internacionalização anexo à Portaria n.º 57-A/2015, de 27 de fevereiro\n\nSão alterados os artigos 2.º, 136.º e o Anexo D do Regulamento Específico do Domínio da Competitividade e Internacionalização, publicado em anexo à Portaria n.º 57-A/2015, de 27 de fevereiro, na sua redação atual, que passam a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n[...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) [...];\n\ni) [...];\n\nj) [...];\n\nk) [...];\n\nl) [...];\n\nm) [...];\n\nn) [...];\n\no) [...];\n\np) [...];\n\nq) [...];\n\nr) [...];\n\ns) [...];\n\nt) [...];\n\nu) [...]:\n\ni) [...];\n\nii) [...];\n\niii) [...];\n\nv) [...];\n\nw) [...];\n\nx) 'Data de conclusão do projeto ou da operação', corresponde à data de emissão da última fatura ou documento equivalente, imputável ao projeto ou à operação, com exceção das faturas ou documento equivalente do Contabilista Certificado, anteriormente denominado Técnico Oficial de Contas, ou Revisor Oficial de Contas imputável ao projeto ou à operação no âmbito da validação da despesa dos pedidos de pagamento, e sem prejuízo das regras aplicáveis aos projetos financiados pelo FSE;\n\ny) [...];\n\nz) [...];\n\naa) [...];\n\nbb) [...];\n\ncc) [...]:\n\ni) [...];\n\nii) [...];\n\ndd) [...]:\n\ni) [...];\n\nii) [...];\n\nee) [...];\n\nff) [...];\n\ngg) [...];\n\nhh) [...];\n\ni) [...];\n\nii) [...];\n\niii) [...];\n\niv) [...]\n\nii) [...]\n\njj [...];\n\nkk) [...];\n\nll) [...];\n\nmm) [...];\n\nnn) [...];\n\noo) [...];\n\npp) [...];\n\nqq) [...];\n\nrr) [...];\n\nss) [...];\n\ntt) [...];\n\nuu) [...];\n\nvv) [...]:\n\ni) [...];\n\nii) [...];\n\niii) [...];\n\niv) [...];\n\nww) [...];\n\nxx) [...];\n\nyy) [...];\n\nzz) [...];\n\naaa) [...];\n\nbbb) [...];\n\nccc) [...];\n\nddd) [...]:\n\ni) [...];\n\nii) [...];\n\niii) [...];\n\niv) [...];\n\nv) [...];\n\nvi) [...];\n\nvii) [...];\n\nviii) [...];\n\nix) [...];\n\neee) [...];\n\nfff) [...];\n\nggg) [...];\n\nhhh) [...];\n\niii) [...];\n\njjj) [...];\n\nkkk) [...]:\n\ni) [...];\n\nii) [...];\n\nlll) [...];\n\nmmm) [...];\n\nnnn) [...];\n\nooo) [...];\n\nppp) [...];\n\nqqq) [...];\n\nrrr) [...];\n\nsss) [...];\n\nttt) [...];\n\nuuu) [...];\n\nvvv) [...];\n\nwww) [...]:\n\ni) [...];\n\nii) [...];\n\n[...]:\n\ni) [...];\n\nii) [...];\n\nxxx) [...]:\n\ni) [...];\n\nii) [...];\n\niii) [...];\n\niv) [...];\n\nyyy) [...];\n\nzzz) [...].\n\nArtigo 136.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\n8 - [...].\n\n9 - [...].\n\n10 - Os custos elegíveis apresentados nos pedidos de pagamento do beneficiário assentam numa base de custos reais, tendo de ser justificados através de faturas pagas ou outros documentos contabilísticos de valor probatório equivalente, exceto quando as autoridades de gestão estabelecerem, em sede de avisos ou convites para apresentação de candidaturas, que o financiamento seja efetuado através das modalidades custos simplificados previstas no artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro, alterado pelos Decretos-Leis n.os 215/2015, de 6 de outubro, 88/2018, de 6 de novembro, e 127/2019, de 29 de agosto.\n\nANEXO D\n\n[...]\n\n[...]\n\n[...]\n\n1 - [...]\n\n2 - [...]:\n\na) [...];\n\nb) No ano de cruzeiro - que corresponde ao exercício económico completo de laboração após o ano de conclusão física e financeira do projeto, o qual não pode exceder o segundo exercício económico, com exceção dos projetos do setor do turismo em que não pode exceder o terceiro exercício económico - é efetuada uma avaliação sobre o cumprimento dos resultados associados a externalidades positivas geradas na economia, aferindo a possibilidade de manutenção definitiva da componente não reembolsável face aos objetivos contratuais alcançados.\n\n3 - [...]\n\n4 - [...]\n\na) [...];\n\nb) [...];\n\nc) [...].\n\n5 - [...]\n\na) [...];\n\nb) [...];\n\nc) [...].\n\n6 - [...]\n\n7 - [...]\n\n8 - [...]\n\n9 - [...]\n\n10 - [...]\n\n11 - [...]\n\n12 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...].»"
+  },
+  "135613910": {
+   "fragment_id": "135640332",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAditamento ao Regulamento Específico do Domínio da Competitividade e Internacionalização anexo à Portaria n.º 57-A/2015, de 27 de fevereiro\n\nÉ aditado o artigo 2.º-A ao Regulamento Específico do Domínio da Competitividade e Internacionalização, publicado em anexo à Portaria n.º 57-A/2015, de 27 de fevereiro, na sua redação atual, com a seguinte redação:\n\n«Artigo 2.º-A\n\nTaxas de financiamento das despesas elegíveis\n\n1 - A taxa máxima de cofinanciamento é a definida nas disposições específicas de cada tipologia de investimento prevista no presente regulamento.\n\n2 - Nas situações em que as Autoridades de Gestão competentes demonstrem que os compromissos a assumir respeitam a taxa de cofinanciamento do Eixo do Programa Operacional em que se inserem, pode ser autorizado pela Comissão Especializada competente da Comissão Interministerial de Coordenação do Acordo de Parceria (CIC Portugal 2020), o aumento até 100 % da taxa máxima referida no número anterior.\n\n3 - A CIC Portugal 2020 pode ainda autorizar taxas máximas até 100 %, em situações excecionais decorrentes da legislação comunitária, sujeitas a regularização em reprogramações ulteriores.»"
+  },
+  "135613911": {
+   "fragment_id": "135640333",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAlteração ao Regulamento Específico do Domínio da Sustentabilidade e Eficiência no Uso de Recursos anexo à Portaria n.º 57-B/2015, de 27 de fevereiro\n\nÉ alterado o artigo 8.º do Regulamento Específico do Domínio da Sustentabilidade e Eficiência no Uso de Recursos, publicado em anexo à Portaria n.º 57-B/2015, de 27 de fevereiro, na sua redação atual, que passa a ter a seguinte redação:\n\n«Artigo 8.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - Nas situações em que as Autoridades de Gestão competentes demonstrem que os compromissos a assumir respeitam a taxa de cofinanciamento do Eixo do Programa Operacional em que se inserem, pode ser autorizado pela Comissão Especializada competente da Comissão Interministerial de Coordenação do Acordo de Parceria (CIC Portugal 2020), o aumento até 100 % da taxa máxima referida nos números anteriores.\n\n4 - A CIC Portugal 2020 pode ainda autorizar taxas máximas até 100 %, em situações excecionais decorrentes da legislação comunitária, sujeitas a regularização em reprogramações ulteriores.»"
+  },
+  "135613912": {
+   "fragment_id": "135640334",
+   "type": 11,
+   "heading": "Artigo 5.º — Alteração ao Regulamento Específico do Domínio da Inclusão Social e Emprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alteração ao Regulamento Específico do Domínio da Inclusão Social e Emprego\n\nÉ alterado o artigo 5.º do Regulamento Específico do Domínio da Inclusão Social e Emprego, publicado em anexo à Portaria n.º 97-A/2015, de 30 de março, na sua redação atual, que passa a ter a seguinte redação:\n\n«Artigo 5.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - Nas situações em que as Autoridades de Gestão competentes demonstrem que os compromissos a assumir respeitam a taxa de cofinanciamento do Eixo do Programa Operacional em que se inserem, pode ser autorizado pela Comissão Especializada competente da Comissão Interministerial de Coordenação do Acordo de Parceria (CIC Portugal 2020), o aumento até 100 % da taxa máxima referida nos números anteriores.\n\n5 - A CIC Portugal 2020 pode ainda autorizar taxas máximas até 100 %, em situações excecionais decorrentes da legislação comunitária, sujeitas a regularização em reprogramações ulteriores.\n\n6 - (Anterior n.º 5.)\n\n7 - (Anterior n.º 6.)»"
+  },
+  "135613913": {
+   "fragment_id": "135640335",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração ao Regulamento Específico do Domínio do Capital Humano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alteração ao Regulamento Específico do Domínio do Capital Humano\n\nÉ alterado o artigo 3.º do Regulamento Específico do Domínio do Capital Humano, publicado em anexo à Portaria n.º 60-C/2015, de 2 de março, na sua redação atual, que passa a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\n1 - [...]\n\n2 - Nas situações em que as Autoridades de Gestão competentes demonstrem que os compromissos a assumir respeitam a taxa de cofinanciamento do Eixo do Programa Operacional em que se inserem, pode ser autorizado pela Comissão Especializada competente da Comissão Interministerial de Coordenação do Acordo de Parceria (CIC Portugal 2020), o aumento até 100 % da taxa máxima referida no número anterior.\n\n3 - A CIC Portugal 2020 pode ainda autorizar taxas máximas até 100 %, em situações excecionais decorrentes da legislação comunitária, sujeitas a regularização em reprogramações ulteriores.\n\n4 - (Anterior n.º 3.)\n\n5 - (Anterior n. 4).»"
+  },
+  "135613914": {
+   "fragment_id": "135640336",
+   "type": 11,
+   "heading": "Artigo 7.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Produção de efeitos\n\nA presente portaria produz efeitos no dia seguinte ao da sua publicação, com exceção:\n\na) Do artigo 2.º A do Regulamento Específico do Domínio da Competitividade e Internacionalização, publicado em anexo à Portaria n.º 57-A/2015, de 27 de fevereiro, do artigo 8.º do Regulamento Específico do Domínio da Sustentabilidade e Eficiência no Uso de Recursos, publicado em anexo à Portaria n.º 57-B/2015, de 27 de fevereiro, do artigo 5.º do Regulamento Específico do Domínio da Inclusão Social e Emprego, publicado em anexo à Portaria n.º 97-A/2015, de 30 de março, e do artigo 3.º do Regulamento Específico do Domínio do Capital Humano, publicado em anexo à Portaria n.º 60-C/2015, de 2 de março, os quais são aplicáveis aos avisos que à data da entrada em vigor do presente diploma ainda não tenham operações com decisão de encerramento por parte das respetivas autoridades de gestão;\n\nb) Da alínea x) do artigo 2.º e do anexo D do Regulamento Específico do Domínio da Competitividade e Internacionalização, publicado em anexo à Portaria n.º 57-A/2015, de 27 de fevereiro, os quais são aplicáveis aos projetos sem decisão de encerramento ou sem avaliação de resultados."
+  },
+  "135613915": {
+   "fragment_id": "135640337",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "150661666": {
+   "fragment_id": "135640336",
+   "type": 11,
+   "heading": "Artigo 7.º — Produção de efeitos",
+   "in_force_from": "2020-12-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 280/2020 - Diário da República n.º 237/2020, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/280-2020-150509330), em vigor a partir de 2020-12-08, produz efeitos a partir de 2020-06-16"
+   ],
+   "markdown": "###### Artigo 7.º — Produção de efeitos\n\nA presente portaria produz efeitos no dia seguinte ao da sua publicação, com exceção:\n\na) (Revogada.)\n\nb) Da alínea x) do artigo 2.º e do anexo D do Regulamento Específico do Domínio da Competitividade e Internacionalização, publicado em anexo à Portaria n.º 57-A/2015, de 27 de fevereiro, os quais são aplicáveis aos projetos sem decisão de encerramento ou sem avaliação de resultados.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 280/2020 - Diário da República n.º 237/2020, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/280-2020-150509330), em vigor a partir de 2020-12-08, produz efeitos a partir de 2020-06-16"
+  },
+  "135613916": {
+   "fragment_id": "135640338",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro do Planeamento, Ângelo Nelson Rosário de Souza, em 9 de junho de 2020.\n\n113309267"
+  }
+ }
+}

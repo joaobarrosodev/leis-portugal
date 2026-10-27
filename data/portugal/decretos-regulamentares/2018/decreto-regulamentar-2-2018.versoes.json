@@ -1,0 +1,795 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:114561723:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2018-114819379",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/2-2018-114561723",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2018-01-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114900675",
+    "114900676",
+    "114900677",
+    "114900678",
+    "114900679",
+    "114900680",
+    "114900681",
+    "114900682",
+    "114900683",
+    "114900684",
+    "114900685",
+    "114900686",
+    "114900687",
+    "114900688",
+    "114900689",
+    "114900690",
+    "114900691",
+    "114900692",
+    "114900693",
+    "114900694",
+    "114900695",
+    "114900696",
+    "114900697",
+    "114900698",
+    "114900699",
+    "114900700",
+    "114900701",
+    "114900702",
+    "114900703",
+    "114900704",
+    "114900705",
+    "114900706",
+    "114900707",
+    "114900708",
+    "114900709",
+    "114900710",
+    "114900711",
+    "114900712",
+    "114900713",
+    "114900714",
+    "114900715",
+    "114900716",
+    "114900717",
+    "114900718",
+    "114900719",
+    "114900720",
+    "114900721",
+    "114900722",
+    "114900723",
+    "114900724",
+    "114900725",
+    "114900726",
+    "114900727",
+    "114900728",
+    "114900729",
+    "114900730",
+    "114900731",
+    "114900732",
+    "114900733",
+    "114900734",
+    "114900735",
+    "114900736",
+    "114900737",
+    "114900738",
+    "114900739",
+    "114900740",
+    "114900741",
+    "114900742",
+    "114900743",
+    "114900744",
+    "114900745"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:114896642:por",
+     "title": "Declaração de Retificação n.º 11/2018",
+     "published": "2018-03-21",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/11-2018-114896642",
+     "date": "2018-01-25"
+    }
+   ]
+  },
+  {
+   "date": "2020-08-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:140346284:por",
+     "title": "Decreto Regulamentar n.º 3/2020",
+     "published": "2020-08-14",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/3-2020-140346284"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 28.º",
+    "Altera Artigo 34.º"
+   ],
+   "fragments": [
+    "114900675",
+    "114900676",
+    "114900677",
+    "114900678",
+    "114900679",
+    "114900680",
+    "114900681",
+    "114900682",
+    "114900683",
+    "114900684",
+    "114900685",
+    "114900686",
+    "114900687",
+    "114900688",
+    "114900689",
+    "114900690",
+    "114900691",
+    "114900692",
+    "114900693",
+    "114900694",
+    "114900695",
+    "114900696",
+    "114900697",
+    "114900698",
+    "114900699",
+    "114900700",
+    "114900701",
+    "114900702",
+    "114900703",
+    "114900704",
+    "114900705",
+    "114900706",
+    "114900707",
+    "114900708",
+    "140190397",
+    "114900710",
+    "114900711",
+    "114900712",
+    "114900713",
+    "114900714",
+    "114900715",
+    "140190398",
+    "114900717",
+    "114900718",
+    "114900719",
+    "114900720",
+    "114900721",
+    "114900722",
+    "114900723",
+    "114900724",
+    "114900725",
+    "114900726",
+    "114900727",
+    "114900728",
+    "114900729",
+    "114900730",
+    "114900731",
+    "114900732",
+    "114900733",
+    "114900734",
+    "114884509",
+    "114900736",
+    "114900737",
+    "114900738",
+    "114900739",
+    "114900740",
+    "114900741",
+    "114900742",
+    "114900743",
+    "114900744",
+    "114900745",
+    "114900746"
+   ]
+  }
+ ],
+ "fragments": {
+  "114900675": {
+   "fragment_id": "114819380",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 2/2018\n\nde 24 de janeiro\n\nA violência doméstica tem sido um tema abordado por vários instrumentos internacionais, através dos quais os Estados se comprometeram a prosseguir por todos os meios apropriados uma política no sentido da sua eliminação, reconhecendo-se igualmente a necessidade de prestar assistência às vítimas, através de serviços de variada natureza.\n\nO Decreto Regulamentar n.º 1/2006, de 25 de janeiro, visou introduzir no ordenamento jurídico um conjunto de normas técnicas relativas às casas de abrigo para vítimas de violência doméstica, com o objetivo de conferir maior uniformidade à sua aplicação, acautelando, nomeadamente, as condições mínimas de abertura e de funcionamento, bem como a qualidade dos serviços prestados no âmbito da então Lei n.º 107/99, de 3 de agosto, regulamentada pelo Decreto-Lei n.º 323/2000, de 19 de dezembro, que estabeleceu o quadro geral da rede pública de casas de apoio dirigidas às mulheres vítimas de violência.\n\nA Lei n.º 112/2009, de 16 de setembro, que estabelece o regime jurídico aplicável à prevenção da violência doméstica, à proteção e à assistência das suas vítimas, republicada em anexo à Lei n.º 129/2015, de 3 de setembro, procedeu à revogação da Lei n.º 107/99, de 3 de agosto, assim como da respetiva regulamentação, definindo as estruturas e as respostas que integram a rede nacional de apoio às vítimas de violência doméstica.\n\nPara além do organismo da Administração Pública responsável pela área da cidadania e da igualdade de género, a rede nacional de apoio às vítimas de violência doméstica compreende também o Instituto da Segurança Social, I. P., as casas de abrigo, as estruturas de atendimento, as respostas de acolhimento de emergência, as respostas específicas de organismos da Administração Pública, o serviço telefónico gratuito com cobertura nacional de informação a vítimas de violência doméstica e, ainda, sempre que o requeiram, os grupos de ajuda mútua de cariz comunitário que visem promover a autoajuda e o empoderamento das vítimas tendo em vista a sua autonomização.\n\nA rede nacional de apoio às vítimas de violência doméstica é constituída por um conjunto de estruturas e respostas que, a par das casas de abrigo, necessitam de ser regulamentadas, agrupando todos os requisitos aplicáveis a cada uma delas, tendo em vista uma harmonização de âmbito nacional das suas regras de funcionamento e garantindo o mesmo nível de qualidade dos serviços prestados, independentemente da sua natureza jurídica.\n\nPor outro lado, e decorrida uma década da entrada em vigor do Decreto Regulamentar n.º 1/2006, de 25 de janeiro, constata-se que o conteúdo das suas disposições encontra-se não só desajustado às orientações de política nacional e internacional de prevenção da violência doméstica, proteção e assistência das suas vítimas, destacando-se, a este propósito, o previsto na Convenção do Conselho da Europa para a Prevenção e o Combate à Violência contra as Mulheres e a Violência Doméstica (Convenção de Istambul), como desadequado face às alterações entretanto verificadas na composição da atual rede nacional de apoio às vítimas de violência doméstica, ocorridas por via do disposto na Lei n.º 112/2009, de 16 de setembro, na sua redação atual.\n\nCom o presente decreto regulamentar, para além de se clarificarem os aspetos supra referidos, introduz-se um conjunto de regras e de procedimentos tendo em vista a melhoria e eficácia do funcionamento das estruturas de atendimento, respostas de acolhimento de emergência e casas de abrigo, permitindo quer um processo de autoavaliação das mesmas, quer a revisão, de forma sistemática, do seu desempenho, identificando as oportunidades de melhoria e a ligação entre o que se faz e os resultados que se atingem.\n\nForam ouvidos os órgãos de governo próprio das regiões autónomas, a União das Misericórdias Portuguesas, a Confederação Nacional das Instituições de Solidariedade, a União das Mutualidades Portuguesas, o Conselho Consultivo da Comissão para a Cidadania e a Igualdade de Género, a Associação Nacional de Municípios Portugueses e a Comissão Nacional de Proteção de Dados.\n\nAssim:\n\nNos termos da alínea c) do artigo 199.º da Constituição, e da Lei n.º 112/2009, de 16 de setembro, na sua redação atual, o Governo decreta o seguinte:"
+  },
+  "114900676": {
+   "fragment_id": "114819381",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "114900677": {
+   "fragment_id": "114819382",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto regulamentar regula as condições de organização e funcionamento das estruturas de atendimento, das respostas de acolhimento de emergência e das casas de abrigo que integram a rede nacional de apoio às vítimas de violência doméstica, prevista na Lei n.º 112/2009, de 16 de setembro, na sua redação atual."
+  },
+  "114900678": {
+   "fragment_id": "114819383",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente decreto regulamentar, consideram-se:\n\na) «Casas de abrigo», as unidades residenciais destinadas a acolhimento temporário a vítimas de violência doméstica do mesmo sexo, acompanhadas ou não de filhos/as menores ou maiores com deficiência na sua dependência;\n\nb) «Estruturas de atendimento», as unidades constituídas por uma ou mais equipas técnicas de entidades públicas dependentes da administração central ou local, de entidades que com aquelas tenham celebrado acordos ou protocolos de cooperação e de outras organizações de apoio à vítima que assegurem, de forma integrada, com caráter de continuidade, o atendimento, o apoio e o reencaminhamento personalizado de vítimas, tendo em vista a sua proteção;\n\nc) «Respostas de acolhimento de emergência», as unidades residenciais que visam o acolhimento urgente de vítimas do mesmo sexo, acompanhadas ou não de filhos/as menores ou maiores com deficiência na sua dependência, pelo período necessário à avaliação da sua situação, assegurando a proteção da sua integridade física e psicológica."
+  },
+  "114900679": {
+   "fragment_id": "114819384",
+   "type": 11,
+   "heading": "Artigo 3.º — Entidades promotoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entidades promotoras\n\n1 - São promotoras das estruturas de atendimento, respostas de acolhimento de emergência e casas de abrigo as entidades do setor social e solidário e as organizações não-governamentais que tenham celebrado acordos ou protocolos de cooperação com entidades públicas e, subsidiariamente, as entidades públicas com competências nas áreas da prevenção da violência doméstica, da proteção e assistência das suas vítimas.\n\n2 - Os acordos ou protocolos de cooperação referidos no número anterior devem merecer a concordância entre os organismos da Administração Pública responsáveis pelas áreas da cidadania e da igualdade de género e da segurança social.\n\n3 - No âmbito das suas atribuições e competências, os municípios asseguram, no respeito pelo disposto no presente decreto regulamentar, a manutenção das estruturas de atendimento, respostas de acolhimento de emergência e casas de abrigo de que sejam proprietários, podendo contribuir para o bom estado de conservação das restantes, designadamente através dos apoios que entendam ser de disponibilizar para o funcionamento das mesmas."
+  },
+  "114900680": {
+   "fragment_id": "114819385",
+   "type": 11,
+   "heading": "Artigo 4.º — Articulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Articulação\n\n1 - As entidades promotoras devem articular-se entre si ou com as outras entidades que integram a rede nacional de apoio às vítimas de violência doméstica, de forma a garantir:\n\na) O atendimento e apoio, de forma integrada e com caráter de continuidade, preferencialmente na sua área de residência, desde o momento da sua sinalização na rede até ao decurso do eventual processo de autonomização;\n\nb) O acolhimento das vítimas de violência doméstica acompanhadas ou não de filhos/as menores ou maiores com deficiência na sua dependência;\n\nc) O acompanhamento das vítimas durante o período de acolhimento e após a sua cessação.\n\n2 - As entidades promotoras devem cooperar e articular-se entre si através da formalização de parcerias, acordos ou protocolos com outras entidades ou serviços da comunidade vocacionados para a prestação dos apoios adequados às necessidades das vítimas de violência doméstica, designadamente nas áreas da justiça, da saúde, da educação, da administração interna, da segurança social, do emprego, da formação profissional e do sistema de promoção dos direitos e proteção das crianças e jovens."
+  },
+  "114900681": {
+   "fragment_id": "114819386",
+   "type": 11,
+   "heading": "Artigo 5.º — Gratuitidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Gratuitidade\n\nOs serviços prestados pelas estruturas de atendimento, respostas de acolhimento de emergência e casas de abrigo às vítimas de violência doméstica são gratuitos."
+  },
+  "114900682": {
+   "fragment_id": "114819387",
+   "type": 11,
+   "heading": "Artigo 6.º — Apoio judiciário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Apoio judiciário\n\nSem prejuízo do disposto no artigo anterior, o apoio judiciário é prestado nos termos da legislação em vigor."
+  },
+  "114900683": {
+   "fragment_id": "114819388",
+   "type": 11,
+   "heading": "Artigo 7.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Confidencialidade\n\n1 - As entidades promotoras e os/as respetivos/as trabalhadores/as que intervenham em procedimentos de atendimento, encaminhamento, acolhimento e apoio às vítimas de violência doméstica estão obrigados/as ao dever de confidencialidade.\n\n2 - O disposto no número anterior é aplicável às pessoas que se encontrem a desempenhar funções em regime de voluntariado e às restantes entidades que, no âmbito das suas funções, colaborem com as entidades promotoras."
+  },
+  "114900684": {
+   "fragment_id": "114819389",
+   "type": 11,
+   "heading": "Artigo 8.º — Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Segurança\n\nAtendendo à natureza e fins prosseguidos pelas estruturas de atendimento, respostas de acolhimento de emergência e casas de abrigo, as autoridades policiais territorialmente competentes prestam todo o apoio necessário com vista à proteção dos/as respetivos/as trabalhadores/as, incluindo as pessoas que se encontrem a desempenhar funções em regime de voluntariado, e das vítimas, assegurando as medidas que se entendam necessárias e convenientes para o efeito."
+  },
+  "114900685": {
+   "fragment_id": "114819390",
+   "type": 11,
+   "heading": "Artigo 9.º — Proteção de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Proteção de dados\n\n1 - As entidades promotoras devem respeitar a legislação em vigor em matéria de proteção de dados pessoais e de segurança da informação.\n\n2 - Os/As responsáveis pelo tratamento dos dados devem adotar as medidas de segurança técnica e organizacional necessárias a garantir a confidencialidade da informação.\n\n3 - Para os efeitos do número anterior, devem ser fixados diferentes níveis de acesso à informação, e fundamentada a necessidade de a ela aceder.\n\n4 - Os dados recolhidos no âmbito dos procedimentos previstos no presente decreto regulamentar destinam-se exclusivamente a instruir esses mesmos procedimentos, sendo vedada a sua introdução noutras bases de dados."
+  },
+  "114900686": {
+   "fragment_id": "114819391",
+   "type": 11,
+   "heading": "Artigo 10.º — Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Formação\n\nO organismo da Administração Pública responsável pela área da cidadania e da igualdade de género assegura, sem prejuízo da participação de outras entidades, a formação específica e especializada dos recursos humanos das estruturas de atendimento, respostas de acolhimento de emergência e casas de abrigo."
+  },
+  "114900687": {
+   "fragment_id": "114819392",
+   "type": 11,
+   "heading": "Artigo 11.º — Requisitos mínimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Requisitos mínimos\n\nSem prejuízo do disposto no presente decreto regulamentar, as estruturas de atendimento, respostas de acolhimento de emergência e casas de abrigo devem adotar os requisitos mínimos de intervenção em situações de violência doméstica e violência de género estabelecidos e divulgados pelo organismo da Administração Pública responsável pela área da cidadania e da igualdade de género, tendo em vista a uniformização, formalização e melhoramento das práticas e procedimentos a desenvolver no âmbito da violência doméstica."
+  },
+  "114900688": {
+   "fragment_id": "114819393",
+   "type": 11,
+   "heading": "Artigo 12.º — Ficha única de atendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Ficha única de atendimento\n\n1 - A ficha única de atendimento é um instrumento de sistematização da informação recolhida sobre a vítima e o historial de vitimação que visa padronizar o registo, simplificar a recolha e o tratamento de dados e promover a partilha de informação, evitando situações de vitimação secundária e institucional.\n\n2 - O modelo de ficha única de atendimento às vítimas de violência doméstica a utilizar pelas estruturas de atendimento, respostas de acolhimento de emergência e pelas casas de abrigo é elaborado no prazo de 180 dias pelos organismos da Administração Pública responsáveis pelas áreas da cidadania e da igualdade de género e da segurança social, sujeito a consulta aos representantes das entidades do setor social e solidário e à secção das organizações não-governamentais do Conselho Consultivo da Comissão para a Cidadania e a Igualdade de Género."
+  },
+  "114900689": {
+   "fragment_id": "114819394",
+   "type": 11,
+   "heading": "Artigo 13.º — Avaliação e gestão do grau de risco e das necessidades sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Avaliação e gestão do grau de risco e das necessidades sociais\n\n1 - A avaliação e gestão do grau de risco e das necessidades sociais da vítima de violência doméstica é uma metodologia que visa recolher informação acerca das pessoas e das variáveis envolvidas num determinado contexto de violência, com a finalidade de identificar o grau de perigosidade presente e futura, facilitando o processo de tomada de decisão acerca do risco de reincidência da violência, incluindo o risco de violência letal, bem como sobre a necessidade e pertinência de integração na resposta que melhor garanta a proteção e segurança da vítima, apoiando-a nas suas decisões.\n\n2 - O modelo de avaliação e gestão do grau de risco da vítima de violência doméstica a utilizar pelas estruturas de atendimento, respostas de acolhimento de emergência e casas de abrigo é o que resulta do modelo utilizado pelos órgãos de polícia criminal, tendo em consideração os fatores de risco apurados aquando da sinalização, complementados por uma avaliação atuarial, atendendo ao contexto de violência.\n\n3 - O modelo de avaliação das necessidades sociais da vítima de violência doméstica a utilizar pelas estruturas de atendimento, respostas de acolhimento de emergência e casas de abrigo é elaborado no prazo de 180 dias pelos organismos da Administração Pública responsáveis pelas áreas da cidadania e da igualdade de género e da segurança social, sujeito a consulta aos representantes das entidades do setor social e solidário e à secção das organizações não-governamentais do Conselho Consultivo da Comissão para a Cidadania e a Igualdade de Género."
+  },
+  "114900690": {
+   "fragment_id": "114819395",
+   "type": 11,
+   "heading": "Artigo 14.º — Plano de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Plano de segurança\n\n1 - O plano de segurança é um instrumento que assenta na definição e prestação de orientações para autoproteção e prevenção do risco e perigo de uma vítima específica, tendo em conta a caracterização da situação atual relatada, bem como na informação relevante recolhida noutras fontes, definindo estratégias de segurança avaliadas pela própria vítima como possíveis de executar, nos vários contextos em que pode ocorrer vitimação, sem aumentar o possível risco de violência.\n\n2 - Os órgãos de polícia criminal territorialmente competentes devem ter conhecimento de todos os planos de segurança aplicados na respetiva área de intervenção, bem como das eventuais alterações que nos mesmos venham a ser introduzidas.\n\n3 - O modelo de plano de segurança a utilizar pelas estruturas de atendimento é elaborado no prazo de 180 dias pelo organismo da Administração Pública responsável pela área da cidadania e da igualdade de género e os serviços competentes da administração interna, sujeito a consulta aos representantes das entidades do setor social e solidário e à secção das organizações não-governamentais do Conselho Consultivo da Comissão para a Cidadania e a Igualdade de Género."
+  },
+  "114900691": {
+   "fragment_id": "114819396",
+   "type": 11,
+   "heading": "Artigo 15.º — Relatório de encaminhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Relatório de encaminhamento\n\n1 - O relatório de encaminhamento é um documento elaborado pelo/a responsável técnico/a ou pela equipa técnica da entidade encaminhadora, constituído por um conjunto de indicadores e uma avaliação da situação que motivou o pedido de acolhimento da vítima de violência doméstica, a enviar à entidade de acolhimento, nos termos a regulamentar por portaria dos membros do Governo responsáveis pelas áreas da cidadania e da igualdade de género e da segurança social.\n\n2 - O modelo de relatório de encaminhamento a utilizar pelas entidades encaminhadoras das respostas de acolhimento de emergência ou casas de abrigo é elaborado no prazo de 180 dias pelos organismos da Administração Pública responsáveis pelas áreas da cidadania e da igualdade de género e da segurança social, sujeito a consulta aos representantes das entidades do setor social e solidário e à secção das organizações não-governamentais do Conselho Consultivo da Comissão para a Cidadania e a Igualdade de Género."
+  },
+  "114900692": {
+   "fragment_id": "114819397",
+   "type": 11,
+   "heading": "Artigo 16.º — Plano individual de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Plano individual de intervenção\n\n1 - O plano individual de intervenção é um documento programático que define os objetivos e as metas a atingir pela vítima num determinado período temporal, elaborado de acordo com os resultados da avaliação e gestão do grau de risco e das necessidades sociais da mesma, tendo em vista a definição de um projeto de vida que inclua o restabelecimento do seu equilíbrio emocional e psicológico, bem como a sua inserção social e autonomização em condições de segurança e dignidade.\n\n2 - A vítima participa na elaboração do plano individual de intervenção e deve manifestar, por forma expressa, o seu consentimento para a respetiva implementação.\n\n3 - O plano individual de intervenção a utilizar pelas casas de abrigo tem em consideração o projeto de vida da vítima e dos/as filhos/as acolhidos/as.\n\n4 - O modelo de plano individual de intervenção a utilizar pelas estruturas de atendimento e pelas casas de abrigo é elaborado no prazo de 180 dias pelos organismos da Administração Pública responsáveis pelas áreas da cidadania e da igualdade de género e da segurança social, sujeito a consulta aos representantes das entidades do setor social e solidário e à secção das organizações não-governamentais do Conselho Consultivo da Comissão para a Cidadania e a Igualdade de Género."
+  },
+  "114900693": {
+   "fragment_id": "114819398",
+   "type": 11,
+   "heading": "Artigo 17.º — Processo individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Processo individual\n\nAs estruturas de atendimento, respostas de acolhimento de emergência e as casas de abrigo elaboram um processo individual de cada vítima a quem foi prestado apoio, acompanhamento e acolhimento, nos termos a regulamentar por portaria dos membros do Governo responsáveis pelas áreas da cidadania e da igualdade de género e da segurança social."
+  },
+  "114900694": {
+   "fragment_id": "114819399",
+   "type": 1,
+   "heading": "Capítulo II — Estruturas de atendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estruturas de atendimento"
+  },
+  "114900695": {
+   "fragment_id": "114819400",
+   "type": 8,
+   "heading": "Secção I — Objetivos, acompanhamento e encaminhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Objetivos, acompanhamento e encaminhamento"
+  },
+  "114900696": {
+   "fragment_id": "114819401",
+   "type": 11,
+   "heading": "Artigo 18.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Objetivos\n\nSão objetivos das estruturas de atendimento:\n\na) Assegurar o acompanhamento das vítimas de violência doméstica nas vertentes de atendimento psicossocial e de informação jurídica;\n\nb) Proceder à avaliação e gestão do grau de risco e das necessidades sociais das vítimas de violência doméstica, de forma a assegurar uma intervenção promotora da segurança ou o seu eventual reencaminhamento e acolhimento em condições de segurança;\n\nc) Dinamizar ações de informação e de formação sobre a problemática da violência doméstica e de género, junto de públicos estratégicos a nível regional e local, em articulação, designadamente, com as escolas ou agrupamentos, organizações da sociedade civil, autarquias e empresas."
+  },
+  "114900697": {
+   "fragment_id": "114819402",
+   "type": 11,
+   "heading": "Artigo 19.º — Atendimento e acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Atendimento e acompanhamento\n\n1 - O atendimento é efetivado mediante iniciativa da própria vítima por sinalização através de contacto telefónico, nomeadamente por via da Linha do Serviço de Informação a Vítimas de Violência Doméstica e da Linha Nacional de Emergência Social, ou por indicação de outras entidades com competências em matéria de ação social e prevenção e proteção da violência doméstica, nos termos da legislação em vigor aplicável.\n\n2 - O acompanhamento assenta numa intervenção, pontual ou sistemática, e integrada nas áreas do apoio psicossocial e de informação jurídica, e, sempre que necessário, na elaboração de um plano individual de intervenção, em consonância com o pedido da vítima e a dinâmica abusiva.\n\n3 - Nos casos de denúncia pela prática de um crime de violência doméstica, o acompanhamento deve ter também em consideração o plano de segurança da vítima específica previamente realizado pelos respetivos órgãos de polícia criminal ou, na sua ausência, a realizar pela estrutura de atendimento."
+  },
+  "114900698": {
+   "fragment_id": "114819403",
+   "type": 8,
+   "heading": "Secção II — Criação e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Criação e funcionamento"
+  },
+  "114900699": {
+   "fragment_id": "114819404",
+   "type": 11,
+   "heading": "Artigo 20.º — Criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Criação\n\n1 - A criação das estruturas de atendimento depende da verificação cumulativa dos seguintes requisitos:\n\na) Adequação às necessidades reais da comunidade, devidamente fundamentada através da realização prévia de um diagnóstico sobre a densidade populacional e o impacto da nova estrutura face ao número de estruturas existentes na área geográfica, nos termos do modelo a definir pelo organismo da Administração Pública responsável pela área da cidadania e da igualdade de género;\n\nb) Cumprimento das disposições legais relativas à constituição e ao registo da entidade;\n\nc) Capacidade económica e financeira da entidade;\n\nd) Existência de instalações devidamente dimensionadas e equipadas, que garantam que o atendimento se efetive em segurança e discrição;\n\ne) Recursos humanos adequados e preferencialmente com formação específica na área da violência doméstica e de género;\n\nf) Regulamento interno de funcionamento;\n\ng) Certificação pelo organismo da Administração Pública responsável pela área da cidadania e da igualdade de género, nos termos do disposto na alínea i) do artigo 58.º da Lei n.º 112/2009, de 16 de setembro, na sua redação atual;\n\nh) Observância dos requisitos mínimos de intervenção em situações de violência doméstica e violência de género.\n\n2 - As estruturas de atendimento devem ser concebidas, preferencialmente, em unidades próprias e distintas de outras respostas ou valências, sendo independentes e autónomas.\n\n3 - O diagnóstico referido na alínea a) do n.º 1 deve ser entregue junto do organismo da Administração Pública responsável pela área da cidadania e da igualdade de género."
+  },
+  "114900700": {
+   "fragment_id": "114819405",
+   "type": 11,
+   "heading": "Artigo 21.º — Instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Instalações\n\n1 - A estrutura de atendimento dispõe nas suas instalações dos espaços necessários e adequados à capacidade do serviço a prestar, no cumprimento do disposto na legislação em vigor, nomeadamente em matéria de segurança, higiene e saúde no trabalho, edificações e acessibilidade, designadamente das pessoas com deficiência.\n\n2 - A estrutura de atendimento dispõe de áreas funcionais, nos termos a regulamentar por portaria dos membros do Governo responsáveis pelas áreas da cidadania e da igualdade de género e da segurança social.\n\n3 - Os espaços privados existentes nas instalações devem ser concebidos de forma a garantir uma efetiva privacidade às vítimas de violência doméstica."
+  },
+  "114900701": {
+   "fragment_id": "114819406",
+   "type": 11,
+   "heading": "Artigo 22.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Funcionamento\n\n1 - As estruturas de atendimento funcionam durante todo o ano, nos cinco dias úteis da semana, exceto dias feriados, durante 7 horas por dia, devendo as mesmas procurar adequar e flexibilizar o seu horário, de forma a possibilitar às vítimas a efetiva conciliação entre a vida profissional, pessoal e familiar.\n\n2 - As regras de funcionamento constam no regulamento interno de funcionamento da estrutura de atendimento, sendo dado a conhecer às vítimas e afixado em local bem visível."
+  },
+  "114900702": {
+   "fragment_id": "114819407",
+   "type": 11,
+   "heading": "Artigo 23.º — Coordenador/a técnico/a",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Coordenador/a técnico/a\n\n1 - As estruturas de atendimento dispõem de um/a coordenador/a técnico/a com formação superior, preferencialmente na área das ciências sociais ou humanas.\n\n2 - São atribuições do/a coordenador/a técnico/a:\n\na) Coordenar a equipa técnica;\n\nb) Definir orientações técnicas de acordo com o modelo de intervenção das estruturas de atendimento;\n\nc) Assegurar a articulação com outras entidades."
+  },
+  "114900703": {
+   "fragment_id": "114819408",
+   "type": 11,
+   "heading": "Artigo 24.º — Equipa técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Equipa técnica\n\n1 - A intervenção nas estruturas de atendimento é assegurada por uma equipa técnica.\n\n2 - A equipa técnica deve ter uma constituição multidisciplinar, constituída por técnicos/as com formação superior, preferencialmente nas áreas do serviço social, psicologia e direito, num número mínimo de dois, devendo pelo menos um exercer as funções a tempo completo.\n\n3 - São competências da equipa técnica:\n\na) Garantir o atendimento e acompanhamento das vítimas;\n\nb) Proceder à avaliação e gestão do grau de risco e das necessidades sociais das vítimas;\n\nc) Elaborar o plano de segurança quando, face à denúncia da prática do crime de violência doméstica, o mesmo não tiver sido desenvolvido pelos respetivos órgãos de polícia criminal, informando-os do mesmo;\n\nd) Elaborar o plano individual de intervenção, quando aplicável;\n\ne) Avaliar periodicamente o plano de segurança da vítima específica e o plano individual de intervenção, procedendo aos ajustamentos necessários;\n\nf) Articular com as demais estruturas que relevem para o processo de acompanhamento, encaminhamento e autonomização da vítima.\n\n4 - O atendimento e acompanhamento das vítimas previsto na alínea a) do número anterior não pode ter natureza de um processo alternativo de resolução de conflitos, incluindo a mediação e a conciliação, nem pode ser prestado simultaneamente, pela mesma equipa técnica, a vítimas e a agressores/as."
+  },
+  "114900704": {
+   "fragment_id": "114819409",
+   "type": 1,
+   "heading": "Capítulo III — Respostas de acolhimento de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Respostas de acolhimento de emergência"
+  },
+  "114900705": {
+   "fragment_id": "114819410",
+   "type": 8,
+   "heading": "Secção I — Objetivos, acolhimento e acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Objetivos, acolhimento e acompanhamento"
+  },
+  "114900706": {
+   "fragment_id": "114819411",
+   "type": 11,
+   "heading": "Artigo 25.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Objetivos\n\nSão objetivos das respostas de acolhimento de emergência:\n\na) Acolher, transitoriamente, vítimas de violência doméstica em situação de emergência;\n\nb) Assegurar o acompanhamento das vítimas, acompanhadas ou não de filhos/as menores ou maiores com deficiência na sua dependência;\n\nc) Proporcionar as condições necessárias à segurança e bem-estar físico e psicológico das vítimas, em situação de crise."
+  },
+  "114900707": {
+   "fragment_id": "114819412",
+   "type": 11,
+   "heading": "Artigo 26.º — Admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Admissão\n\n1 - A admissão das vítimas nas respostas de acolhimento de emergência processa-se por indicação da equipa técnica da entidade encaminhadora, com base no pedido de acolhimento de emergência, quando da realização da avaliação da situação resultar inequivocamente que o acolhimento imediato é a resposta que melhor garante a integridade física e psicológica da vítima.\n\n2 - Para efeitos de admissão nas respostas de acolhimento de emergência, são entidades encaminhadoras:\n\na) O organismo da Administração Pública responsável pela área da cidadania e da igualdade de género;\n\nb) As estruturas de atendimento;\n\nc) Outras respostas de acolhimento de emergência;\n\nd) As casas de abrigo;\n\ne) Os serviços competentes da segurança social;\n\nf) Os serviços da ação social das câmaras municipais;\n\ng) Os órgãos de polícia criminal.\n\n3 - São requisitos de admissão nas respostas de acolhimento de emergência:\n\na) O encaminhamento feito por indicação de uma entidade referida no número anterior;\n\nb) A apresentação, pela entidade encaminhadora, de um pedido de acolhimento de emergência;\n\nc) A apresentação, pela entidade encaminhadora, do relatório de encaminhamento, constituído por um conjunto de indicadores e pela avaliação da situação que motivou o pedido de acolhimento de emergência;\n\nd) A aceitação pela vítima, por forma expressa, do recurso à resposta de acolhimento de emergência.\n\n4 - O pedido de acolhimento de emergência é formalizado por escrito e remetido pela via mais expedita, sem prejuízo da utilização prévia de outros contactos mais céleres que se possam estabelecer entre as entidades envolvidas.\n\n5 - A avaliação da situação que motivou o pedido de acolhimento de emergência referido na alínea c) do n.º 3 deve conter os seguintes elementos:\n\na) Descrição sucinta do historial de vitimação e do episódio atual;\n\nb) Informações de âmbito jurídico, social e psicológico;\n\nc) Características sociodemográficas do agregado a acolher;\n\nd) Referência de eventuais problemas de saúde ou outros que relevem para a adequada prestação dos serviços pela resposta de acolhimento de emergência;\n\ne) Contactos da entidade e do/a técnico/a responsável pelo pedido de acolhimento de emergência.\n\n6 - Em situação de emergência, as vítimas podem ser admitidas, durante um período não superior a 72 horas, antes da realização da avaliação prevista no número anterior, nomeadamente por indicação dos órgãos de polícia criminal ou outras entidades encaminhadoras, em concertação com a entidade promotora da resposta de acolhimento de emergência ou da casa de abrigo que disponha de vagas para situações de emergência."
+  },
+  "114900708": {
+   "fragment_id": "114819413",
+   "type": 11,
+   "heading": "Artigo 27.º — Acolhimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Acolhimento\n\n1 - O acolhimento é assegurado pela entidade que melhor e com mais celeridade possa garantir uma intervenção imediata face à avaliação da situação que motivou o pedido de acolhimento de emergência, mediante despacho de aceitação do relatório de encaminhamento pelo/a responsável técnico/a.\n\n2 - A intervenção imediata visa:\n\na) Acautelar as condições de segurança e de apoio efetivo da vítima, garantindo a sua integridade física e psicológica, e;\n\nb) Reencaminhar para uma outra estrutura ou resposta social que se revele mais adequada ou para uma casa de abrigo.\n\n3 - A intervenção referida no número anterior é da responsabilidade da equipa técnica da entidade que solicitou o acolhimento de emergência em articulação com o/a responsável técnico/a da resposta de acolhimento de emergência."
+  },
+  "114900709": {
+   "fragment_id": "114819414",
+   "type": 11,
+   "heading": "Artigo 28.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Duração\n\n1 - O acolhimento nas respostas de acolhimento de emergência é transitório e de curta duração, pressupondo uma intervenção imediata, não devendo ser superior a 15 dias.\n\n2 - A título excecional, mediante parecer fundamentado do/a responsável técnico/a da resposta de acolhimento de emergência, acompanhado da avaliação da situação da vítima, o período de acolhimento referido no número anterior pode ser prorrogado, no máximo, por igual período de tempo.\n\n3 - São causas imediatas de cessação do acolhimento:\n\na) A manifestação de vontade da vítima, proferida de forma expressa;\n\nb) Incumprimento das regras estabelecidas no regulamento interno de funcionamento da resposta de acolhimento de emergência;\n\nc) O termo do período inicial de acolhimento ou da sua prorrogação;\n\nd) Quando se verifiquem as condições necessárias e efetivas de encaminhamento para uma casa de abrigo ou outra estrutura ou resposta social que se revele adequada."
+  },
+  "114900710": {
+   "fragment_id": "114819415",
+   "type": 11,
+   "heading": "Artigo 29.º — Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Acompanhamento\n\nO acompanhamento assenta numa intervenção sistemática e integrada nas áreas do apoio psicossocial e de informação jurídica, com especial enfoque na implementação de estratégias de intervenção na crise."
+  },
+  "114900711": {
+   "fragment_id": "114819416",
+   "type": 11,
+   "heading": "Artigo 30.º — Alojamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Alojamento\n\n1 - O alojamento consiste no apoio residencial prestado às vítimas, acompanhadas ou não de filhos/as menores ou maiores com deficiência na sua dependência, por um período de tempo determinado, em instalações coletivas ou apartamentos, conforme a situação e as necessidades da vítima e dos/as filhos/as.\n\n2 - Para efeitos do disposto no número anterior, a entidade responsável pela resposta de acolhimento de emergência pode dispor de apartamentos plurifamiliares ou unifamiliares, em instalações próprias, arrendadas ou cedidas por entidade pública ou privada.\n\n3 - O alojamento compreende, ainda, a prestação de serviços básicos, nomeadamente alimentação, higiene, proteção e segurança."
+  },
+  "114900712": {
+   "fragment_id": "114819417",
+   "type": 8,
+   "heading": "Secção II — Criação e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Criação e funcionamento"
+  },
+  "114900713": {
+   "fragment_id": "114819418",
+   "type": 11,
+   "heading": "Artigo 31.º — Criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Criação\n\n1 - A criação das respostas de acolhimento de emergência está dependente da sua articulação formal com uma estrutura de atendimento e da verificação cumulativa dos requisitos previstos para a criação das casas de abrigo.\n\n2 - As respostas de acolhimento de emergência devem ser concebidas em unidades próprias e distintas de outras respostas ou valências, sendo independentes e autónomas, garantindo a confidencialidade e a segurança da própria estrutura e do encaminhamento das vítimas e dos/as filhos/as acolhidos/as, à exceção das vagas para situações de emergência disponíveis nas casas de abrigo."
+  },
+  "114900714": {
+   "fragment_id": "114819419",
+   "type": 11,
+   "heading": "Artigo 32.º — Instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Instalações\n\n1 - A resposta de acolhimento de emergência dispõe nas suas instalações dos espaços necessários e adequados ao número de vítimas e filhos/as acolhidos/as permitindo que usufruam de um espaço de privacidade e de um grau de autonomia, nos termos da legislação em vigor, nomeadamente em matéria de segurança, higiene e saúde no trabalho, edificações e acessibilidade, designadamente das pessoas com deficiência.\n\n2 - A capacidade das respostas de acolhimento de emergência não deve exceder o máximo de 15 utentes, incluindo as vítimas e filhos/as acolhidos/as.\n\n3 - A resposta de acolhimento de emergência dispõe de áreas funcionais, nos termos a regulamentar por portaria dos membros do Governo responsáveis pelas áreas da cidadania e da igualdade de género e da segurança social.\n\n4 - Nos quartos com mais de uma cama, que possibilitem a permanência das vítimas e dos/as filhos/as acolhidos/as, não deve, preferencialmente, ser alojado mais do que um agregado familiar por quarto.\n\n5 - Os espaços privados existentes nas instalações das respostas de acolhimento de emergência devem ser concebidos de forma a garantir uma efetiva privacidade.\n\n6 - As instalações devem estar providas de mobiliário idêntico ao de qualquer habitação, por forma a proporcionar um ambiente próximo e familiar."
+  },
+  "114900715": {
+   "fragment_id": "114819420",
+   "type": 11,
+   "heading": "Artigo 33.º — Recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Recursos humanos\n\n1 - A intervenção das respostas de acolhimento de emergência é assegurada, no mínimo, por um/a técnico/a, a quem cabe a avaliação da situação da vítima acolhida, designadamente da avaliação e gestão do grau de risco e das necessidades sociais, bem como o apoio na definição e execução do projeto a desenvolver no período posterior ao acolhimento, em articulação com a equipa técnica da entidade que solicitou o acolhimento de emergência.\n\n2 - O pessoal que desempenhe as funções referidas no número anterior tem formação superior, preferencialmente nas áreas das ciências sociais ou humanas e, ainda, a qualificação de técnico/a de apoio à vítima e comprovada experiência profissional em metodologias de intervenção em crise.\n\n3 - As respostas de acolhimento de emergência dispõem, para uma capacidade de 15 vítimas, incluindo os/as filhos/as acolhidos/as, no mínimo de três ajudantes de ação direta, podendo, sempre que se justifique, haver lugar a um reforço da dotação deste pessoal, desenvolvendo tarefas nos termos definidos para as casas de abrigo.\n\n4 - Para garantir o acompanhamento durante 24 horas, um/a dos/as ajudantes de ação direta fica afeto/a ao período noturno."
+  },
+  "114900716": {
+   "fragment_id": "114819421",
+   "type": 11,
+   "heading": "Artigo 34.º — Responsável técnico/a",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Responsável técnico/a\n\n1 - As respostas de acolhimento de emergência dispõem de um/a responsável técnico/a com formação superior, preferencialmente na área das ciências sociais ou humanas, contactável durante 24 horas por dia ou, na sua impossibilidade, por um/a técnico/a indicado/a para o efeito.\n\n2 - São competências do/a responsável técnico/a:\n\na) Garantir o acolhimento e o acompanhamento das vítimas e dos/as filhos/as acolhidos/as em conformidade com os seus direitos e deveres;\n\nb) Promover a avaliação e gestão do grau de risco e das necessidades sociais da vítima, aquando do seu acolhimento;\n\nc) Emitir parecer sobre a necessidade de prorrogação do período de acolhimento;\n\nd) Determinar a cessação do acolhimento, nos termos previstos no n.º 3 do artigo 28.º;\n\ne) Elaborar o relatório de encaminhamento para a casa de abrigo ou outra estrutura ou resposta social que se revele mais adequada, explicitando os motivos do termo do acolhimento na resposta de acolhimento de emergência.\n\n3 - A cessação do acolhimento nos termos da alínea b) do n.º 3 do artigo 28.º está sujeita à realização de um procedimento administrativo interno, da competência do/a responsável técnico/a, de acordo com as seguintes fases:\n\na) Registo das diligências de prova;\n\nb) Audiência do/a interessado/a;\n\nc) Decisão final fundamentada."
+  },
+  "114900717": {
+   "fragment_id": "114819422",
+   "type": 11,
+   "heading": "Artigo 35.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Funcionamento\n\n1 - As respostas de acolhimento de emergência funcionam durante todo o ano, todos os dias da semana, durante 24 horas por dia.\n\n2 - O regulamento interno de funcionamento da resposta de acolhimento de emergência é afixado em local bem visível, obrigatoriamente dado a conhecer às vítimas aquando da sua admissão, ou quando se verificar a estabilização emocional, devendo ser subscrito por estas o correspondente termo de aceitação, e disponibilizado para consulta, sempre que solicitado pelas mesmas.\n\n3 - As alterações efetuadas ao regulamento interno são de comunicação obrigatória às vítimas acolhidas."
+  },
+  "114900718": {
+   "fragment_id": "114819423",
+   "type": 1,
+   "heading": "Capítulo IV — Casas de abrigo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Casas de abrigo"
+  },
+  "114900719": {
+   "fragment_id": "114819424",
+   "type": 8,
+   "heading": "Secção I — Objetivos, admissão e acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Objetivos, admissão e acompanhamento"
+  },
+  "114900720": {
+   "fragment_id": "114819425",
+   "type": 11,
+   "heading": "Artigo 36.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Objetivos\n\nSão objetivos das casas de abrigo:\n\na) Acolher temporariamente vítimas, acompanhadas ou não de filhos/as menores ou maiores com deficiência na sua dependência;\n\nb) Assegurar o acompanhamento das vítimas, acompanhadas ou não de filhos/as;\n\nc) Proporcionar às vítimas e filhos/as acolhidos/as as condições necessárias à sua educação, saúde e bem-estar integral, num ambiente de tranquilidade e segurança;\n\nd) Desenvolver, durante a permanência na casa de abrigo, aptidões pessoais, profissionais e sociais das vítimas, no sentido de alcançar a sua plena autonomia;\n\ne) Promover o restabelecimento do equilíbrio emocional e psicológico das vítimas e filhos/as acolhidos/as, tendo em vista a sua reinserção ou autonomização em condições de dignidade e de segurança."
+  },
+  "114900721": {
+   "fragment_id": "114819426",
+   "type": 11,
+   "heading": "Artigo 37.º — Admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Admissão\n\n1 - A admissão das vítimas nas casas de abrigo processa-se por indicação do/a responsável técnico/a ou da equipa técnica de entidade encaminhadora, com base no relatório de encaminhamento.\n\n2 - Para efeitos de admissão nas casas de abrigo, são entidades encaminhadoras:\n\na) O organismo da Administração Pública responsável pela área da cidadania e da igualdade de género;\n\nb) As estruturas de atendimento;\n\nc) As respostas de acolhimento de emergência;\n\nd) Outras casas de abrigo;\n\ne) Os serviços competentes da segurança social;\n\nf) Os serviços da ação social das câmaras municipais.\n\n3 - São requisitos de admissão nas casas de abrigo:\n\na) O encaminhamento feito por indicação de uma das entidades referidas no número anterior;\n\nb) A apresentação do relatório de encaminhamento;\n\nc) A aceitação pela vítima do acolhimento em casa de abrigo e, por forma expressa, do regulamento interno de funcionamento da casa de abrigo.\n\n4 - Em situação de emergência, e caso não haja possibilidade imediata de integração numa resposta de acolhimento de emergência, a vítima de violência doméstica acompanhada ou não de filhos/as menores ou maiores com deficiência na sua dependência podem ser acolhidos/as durante um período não superior a 72 horas, antes da realização do relatório de encaminhamento referido no número anterior, nomeadamente por indicação das forças de segurança ou outras entidades encaminhadoras."
+  },
+  "114900722": {
+   "fragment_id": "114819427",
+   "type": 11,
+   "heading": "Artigo 38.º — Acolhimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Acolhimento\n\nO acolhimento é assegurado pela entidade que melhor possa garantir as necessidades de segurança e apoio efetivo à vítima mediante despacho de aceitação do relatório de encaminhamento pelo/a diretor/a técnico/a, emitido com base na análise realizada pela equipa técnica da entidade de acolhimento."
+  },
+  "114900723": {
+   "fragment_id": "114819428",
+   "type": 11,
+   "heading": "Artigo 39.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Duração\n\n1 - O acolhimento nas casas de abrigo é temporário, não devendo ser superior a seis meses.\n\n2 - A título excecional, mediante parecer fundamentado da equipa técnica da casa de abrigo, acompanhado da avaliação da situação da vítima, o período de acolhimento referido no número anterior pode ser prorrogado, no máximo, por igual período de tempo.\n\n3 - São causas imediatas de cessação do acolhimento:\n\na) O termo do período inicial de acolhimento ou da sua prorrogação;\n\nb) A manifestação de vontade da vítima, proferida de forma expressa;\n\nc) Incumprimento das regras estabelecidas no regulamento interno de funcionamento da casa de abrigo."
+  },
+  "114900724": {
+   "fragment_id": "114819429",
+   "type": 11,
+   "heading": "Artigo 40.º — Alojamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Alojamento\n\n1 - O alojamento consiste no apoio residencial prestado às vítimas, acompanhadas ou não de filhos/as menores ou maiores com deficiência na sua dependência, por um período de tempo determinado, em instalações coletivas ou apartamentos, conforme a situação e as necessidades da vítima e dos/as filhos/as.\n\n2 - Para efeitos do disposto no número anterior, a entidade responsável pela casa de abrigo pode dispor de apartamentos plurifamiliares ou unifamiliares, em instalações próprias ou cedidas por entidade pública ou privada.\n\n3 - O alojamento compreende, ainda, a prestação de serviços básicos, nomeadamente alimentação, higiene, proteção e segurança."
+  },
+  "114900725": {
+   "fragment_id": "114819430",
+   "type": 11,
+   "heading": "Artigo 41.º — Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Acompanhamento\n\nO acompanhamento assenta numa intervenção sistemática e integrada nas áreas do apoio social, psicológico, educacional, profissional e jurídico, e obedece a um plano individual de intervenção."
+  },
+  "114900726": {
+   "fragment_id": "114819431",
+   "type": 8,
+   "heading": "Secção II — Criação e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Criação e funcionamento"
+  },
+  "114900727": {
+   "fragment_id": "114819432",
+   "type": 11,
+   "heading": "Artigo 42.º — Criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Criação\n\n1 - A criação das casas de abrigo depende da verificação cumulativa dos seguintes requisitos:\n\na) Cumprimento das disposições legais relativas à constituição, ao registo da entidade e ao licenciamento da atividade;\n\nb) Capacidade económica e financeira da entidade;\n\nc) Existência de instalações devidamente dimensionadas e equipadas;\n\nd) Localização na proximidade de serviços públicos de ensino e saúde, bem como das autoridades policiais;\n\ne) Recursos humanos adequados, preferencialmente com formação específica na área da violência doméstica e de género;\n\nf) Regulamento interno de funcionamento;\n\ng) Parecer técnico do organismo da Administração Pública responsável pela área da cidadania e da igualdade de género, no que respeita ao regulamento interno de funcionamento;\n\nh) Certificação pelo organismo da Administração Pública responsável pela área da cidadania e da igualdade de género, nos termos do disposto na alínea i) do artigo 58.º da Lei n.º 112/2009, de 16 de setembro, na sua redação atual;\n\ni) Observância dos requisitos mínimos de intervenção em situações de violência doméstica e violência de género.\n\n2 - À exceção daquelas que disponham de vagas para situações de emergência, as casas de abrigo devem ser concebidas em unidades próprias e distintas de outras respostas ou valências, sendo independentes e autónomas, garantindo a confidencialidade e a segurança da própria estrutura e do encaminhamento das vítimas e dos/as filhos/as acolhidos/as.\n\n3 - O projeto de regulamento interno deve ser entregue para aprovação junto dos serviços territorialmente competentes da segurança social, após emissão do parecer técnico referido na alínea h) do n.º 1."
+  },
+  "114900728": {
+   "fragment_id": "114819433",
+   "type": 11,
+   "heading": "Artigo 43.º — Instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Instalações\n\n1 - A casa de abrigo dispõe nas suas instalações dos espaços necessários e adequados ao número de vítimas e filhos/as acolhidos/as permitindo que usufruam de um espaço de privacidade e de um grau de autonomia na condução da sua vida pessoal adequados à sua idade e situação, nos termos da legislação em vigor, nomeadamente em matéria de segurança, higiene e saúde no trabalho, edificações e acessibilidade, designadamente das pessoas com deficiência.\n\n2 - A capacidade das casas de abrigo não deve exceder o máximo de 30 utentes, incluindo as vítimas e filhos/as acolhidos/as.\n\n3 - A casa de abrigo dispõe de área funcionais, nos termos a regulamentar por portaria dos membros do Governo responsáveis pelas áreas da cidadania e da igualdade de género e da segurança social.\n\n4 - Nos quartos com mais de uma cama, que possibilitem a permanência das vítimas e dos/as filhos/as acolhidos/as, não deve, preferencialmente, ser alojado mais do que um agregado familiar por quarto.\n\n5 - Os espaços privados existentes nas instalações das casas de abrigo devem ser concebidos de forma a garantir uma efetiva privacidade.\n\n6 - As instalações devem estar providas de mobiliário idêntico ao de qualquer habitação, por forma a proporcionar um ambiente próximo e familiar.\n\n7 - A casa de abrigo pode integrar apartamentos plurifamiliares ou unifamiliares com vista à gradual autonomização das vítimas acolhidas, de acordo com os respetivos perfis e a fase do plano individual de intervenção em que se encontram."
+  },
+  "114900729": {
+   "fragment_id": "114819434",
+   "type": 11,
+   "heading": "Artigo 44.º — Recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Recursos humanos\n\n1 - A intervenção das casas de abrigo é assegurada por uma equipa técnica integrando, preferencialmente, técnicos/as de apoio à vítima, a quem cabe a avaliação da situação da vítima acolhida, designadamente da avaliação e gestão do grau de risco e das necessidades sociais, bem como o apoio na definição e execução dos projetos de promoção dos seus direitos e autonomização.\n\n2 - O pessoal que desempenhe as funções previstas no número anterior tem formação superior, preferencialmente em psicologia, serviço social, direito e educação social.\n\n3 - O número de recursos humanos deve ser adequado à capacidade de vítimas na casa de abrigo, a regulamentar por portaria dos membros do Governo responsáveis pelas áreas da cidadania e da igualdade de género e da segurança social."
+  },
+  "114900730": {
+   "fragment_id": "114819435",
+   "type": 11,
+   "heading": "Artigo 45.º — Diretor/a técnico/a",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Diretor/a técnico/a\n\n1 - As casas de abrigo dispõem de um/a diretor/a técnico/a com formação superior, preferencialmente na área das ciências sociais ou humanas.\n\n2 - São atribuições do/a diretor/a técnico/a:\n\na) Dirigir a casa de abrigo, assumindo a responsabilidade pela programação e pela avaliação das atividades a desenvolver;\n\nb) Definir a gestão adequada ao bom funcionamento da casa de abrigo;\n\nc) Coordenar os recursos humanos;\n\nd) Assegurar a articulação com outras entidades.\n\n3 - São competências do/a diretor/a técnico/a, designadamente:\n\na) Decidir pela prorrogação do período de acolhimento na casa de abrigo;\n\nb) Velar para que as vítimas e os/as filhos/as acolhidos/as cumpram as regras estabelecidas no regulamento interno de funcionamento da casa de abrigo, com recurso, se necessário, a repreensão oral ou por escrito, consoante a gravidade do incumprimento;\n\nc) Determinar a cessação do acolhimento, nos termos previstos no n.º 3 do artigo 39.º\n\n4 - A cessação do acolhimento nos termos da alínea c) do n.º 3 do artigo 39.º está sujeita à realização de um procedimento administrativo interno, da competência do/a diretor/a técnico/a, de acordo com as seguintes fases:\n\na) Registo das diligências de prova;\n\nb) Audiência do/a interessado/a;\n\nc) Decisão final fundamentada.\n\n5 - O/a diretor/a técnico/a não deve ser o responsável direto pelo acompanhamento dos processos de apoio e de intervenção das vítimas acolhidas."
+  },
+  "114900731": {
+   "fragment_id": "114819436",
+   "type": 11,
+   "heading": "Artigo 46.º — Equipa técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Equipa técnica\n\nSão competências da equipa técnica:\n\na) Garantir o acolhimento e o acompanhamento das vítimas e dos/as filhos/as acolhidos/as em conformidade com os seus direitos e deveres;\n\nb) Proceder à avaliação e gestão do grau de risco e das necessidades sociais da vítima, aquando do seu acolhimento;\n\nc) Elaborar o plano individual de intervenção;\n\nd) Avaliar periodicamente o plano individual de intervenção, procedendo aos ajustamentos necessários;\n\ne) Emitir parecer sobre a necessidade de prorrogação do período de acolhimento;\n\nf) Articular com as demais estruturas de apoio que relevem para o processo de acompanhamento e autonomização da vítima."
+  },
+  "114900732": {
+   "fragment_id": "114819437",
+   "type": 11,
+   "heading": "Artigo 47.º — Ajudantes de ação direta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Ajudantes de ação direta\n\nOs/As ajudantes de ação direta asseguram, designadamente, as seguintes tarefas:\n\na) Apoio aos cuidados de higiene, alimentação e vestuário das vítimas e dos/as filhos/as acolhidos/as;\n\nb) Apoio na preparação e confeção de alimentos;\n\nc) Apoio na organização e utilização da lavandaria;\n\nd) Vigilância durante o período noturno, nos termos da legislação em vigor."
+  },
+  "114900733": {
+   "fragment_id": "114819438",
+   "type": 11,
+   "heading": "Artigo 48.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Funcionamento\n\n1 - As casas de abrigo funcionam durante todo o ano, todos os dias da semana, durante 24 horas.\n\n2 - O regulamento interno de funcionamento da casa de abrigo é afixado em local bem visível, obrigatoriamente dado a conhecer às vítimas aquando da sua admissão, devendo ser subscrito por estas o correspondente termo de aceitação, e disponibilizado para consulta sempre que solicitado pelas mesmas.\n\n3 - As alterações efetuadas ao regulamento interno são de comunicação obrigatória às vítimas acolhidas."
+  },
+  "114900734": {
+   "fragment_id": "114819439",
+   "type": 1,
+   "heading": "Capítulo V — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Financiamento"
+  },
+  "114900735": {
+   "fragment_id": "114819440",
+   "type": 11,
+   "heading": "Artigo 49.º — Apoios no âmbito do subsistema de ação social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Apoios no âmbito do subsistema de ação social\n\nAo apoio público, a prestar no âmbito do subsistema de ação social para o funcionamento das respostas a que se referem as alíneas a) e b) do artigo 2.º, é aplicado o disposto no decreto regulamentar que define os critérios, regras e formas em que assenta o modelo específico da cooperação estabelecida entre o Instituto da Segurança Social, I. P. (ISS, I. P.), e as instituições particulares de solidariedade social, ou legalmente equiparadas, para o desenvolvimento de respostas sociais."
+  },
+  "114900736": {
+   "fragment_id": "114819441",
+   "type": 11,
+   "heading": "Artigo 50.º — Apoio do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Apoio do Estado\n\nOs critérios, regras e formas de apoio público prestado pelo Estado às respostas a que se refere o artigo 2.º, quando fora do âmbito do subsistema de ação social, são definidas por despacho do membro do Governo responsável pela área da cidadania e da igualdade."
+  },
+  "114900737": {
+   "fragment_id": "114819442",
+   "type": 1,
+   "heading": "Capítulo VI — Supervisão, fiscalização e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Supervisão, fiscalização e avaliação"
+  },
+  "114900738": {
+   "fragment_id": "114819443",
+   "type": 11,
+   "heading": "Artigo 51.º — Supervisão técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Supervisão técnica\n\n1 - As respostas de acolhimento de emergência, estruturas de atendimento e casas de abrigo carecem da supervisão técnica do organismo da Administração Pública responsável pela área da cidadania e da igualdade de género, em articulação com os serviços competentes da segurança social.\n\n2 - A supervisão técnica tem como objetivos:\n\na) A verificação da conformidade dos procedimentos adotados com as orientações técnicas nacionais, comunitárias ou europeias sobre a prevenção da violência doméstica, proteção e assistência das suas vítimas e a sua articulação com as políticas públicas;\n\nb) A monitorização do trabalho das equipas quanto aos modelos de intervenção e práticas de atuação e à formação, informação e atualização das competências técnico-científicas das pessoas que as integram;\n\nc) A verificação da conformidade com os requisitos mínimos de intervenção no âmbito da violência doméstica e violência de género estabelecidos pelo organismo da Administração Pública responsável pela área da cidadania e da igualdade de género, tendo em vista a uniformização, formalização e melhoramento das práticas e procedimentos a desenvolver no âmbito da violência doméstica."
+  },
+  "114900739": {
+   "fragment_id": "114819444",
+   "type": 11,
+   "heading": "Artigo 52.º — Fiscalização e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Fiscalização e controlo\n\n1 - A constituição e fiscalização do funcionamento das respostas a que se refere o artigo 49.º, desenvolvidas no âmbito do subsistema de ação social, compete ao ISS, I. P., bem como o apoio técnico e o acompanhamento das estruturas e respostas objeto de acordo de cooperação, podendo, sempre que o considerem necessário, solicitar a colaboração do organismo da Administração Pública responsável pela área da cidadania e da igualdade de género.\n\n2 - A constituição e controlo do funcionamento das respostas a que se refere o artigo 50.º, desenvolvidas fora do âmbito do subsistema de ação social, compete ao organismo da Administração Pública responsável pela área da cidadania e da igualdade de género, nos termos a definir por despacho do membro do Governo responsável pela área da cidadania e da igualdade."
+  },
+  "114900740": {
+   "fragment_id": "114819445",
+   "type": 11,
+   "heading": "Artigo 53.º — Acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Acompanhamento e avaliação\n\n1 - O acompanhamento e a avaliação do funcionamento das respostas a que se refere o artigo 2.º é realizada:\n\na) Pelo ISS, I. P., nos termos da legislação em vigor, quando desenvolvidas no âmbito do subsistema de ação social, a que se refere o artigo 49.º;\n\nb) Pelo organismo da Administração Pública responsável pela área da cidadania e da igualdade de género, nos termos a definir por despacho do membro do Governo responsável pela área da cidadania e da igualdade, quando desenvolvidas fora do âmbito do subsistema de ação social, a que se refere o artigo 50.º\n\n2 - As entidades promotoras devem proceder à realização de inquéritos de satisfação ao atendimento, acolhimento e acompanhamento prestado às vítimas, a disponibilizar ao organismo da Administração Pública responsável pela área da cidadania e da igualdade de género, sempre que solicitado, para efeitos de revisão, em termos sistemáticos, do seu desempenho, por forma a identificar oportunidades de melhoria e a ligação entre o trabalho realizado e os resultados que se atingem."
+  },
+  "114900741": {
+   "fragment_id": "114819446",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais e transitórias"
+  },
+  "114900742": {
+   "fragment_id": "114819447",
+   "type": 11,
+   "heading": "Artigo 54.º — Período de adaptação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Período de adaptação\n\nAs respostas de acolhimento de emergência, estruturas de atendimento e casas de abrigo que se encontrem em funcionamento à data da entrada em vigor do presente decreto regulamentar devem adaptar-se às condições previstas no presente decreto regulamentar no prazo de 12 meses contados a partir da data da sua entrada em vigor, podendo ser definidos períodos de adaptação distintos ou situações de exceção através de portaria dos membros do Governo responsáveis pelas áreas da cidadania e da igualdade e da segurança social."
+  },
+  "114900743": {
+   "fragment_id": "114819448",
+   "type": 11,
+   "heading": "Artigo 55.º — Modelo de regulamento interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Modelo de regulamento interno\n\nO modelo de regulamento interno das respostas a que se refere o artigo 2.º é definido nos termos a regulamentar por portaria dos membros do Governo responsáveis pelas áreas da cidadania e da igualdade de género e da segurança social."
+  },
+  "114900744": {
+   "fragment_id": "114819449",
+   "type": 11,
+   "heading": "Artigo 56.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Norma revogatória\n\nÉ revogado o Decreto Regulamentar n.º 1/2006, de 25 de janeiro."
+  },
+  "114900745": {
+   "fragment_id": "114819450",
+   "type": 11,
+   "heading": "Artigo 57.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Entrada em vigor\n\nO presente decreto regulamentar entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "140190397": {
+   "fragment_id": "114819414",
+   "type": 11,
+   "heading": "Artigo 28.º — Duração",
+   "in_force_from": "2020-08-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2020 - Diário da República n.º 158/2020, Série I de 2020-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2020-140346284), em vigor a partir de 2020-08-17"
+   ],
+   "markdown": "###### Artigo 28.º — Duração\n\n1 - O acolhimento nas respostas de acolhimento de emergência é transitório e de curta duração, pressupondo uma intervenção imediata, não devendo ser superior a 15 dias.\n\n2 - A título excecional, mediante parecer fundamentado do/a responsável técnico/a da resposta de acolhimento de emergência, acompanhado da avaliação da situação da vítima, o período de acolhimento referido no número anterior pode ser prorrogado, no máximo, por igual período de tempo.\n\n3 - No caso de vítimas de vulnerabilidade acrescida, designadamente em razão da deficiência, da doença mental, da orientação sexual, da identidade e expressão de género, e da idade, o acolhimento pode ter a duração de três meses, prorrogável, no máximo, por dois períodos de tempo iguais, atendendo à especificidade da situação das vítimas, mediante parecer prévio do organismo da Administração Pública responsável pela área da cidadania e da igualdade de género, com base em requerimento fundamentado do/a responsável técnico/a da resposta de acolhimento de emergência.\n\n4 - São causas imediatas de cessação do acolhimento:\n\na) A manifestação de vontade da vítima, proferida de forma expressa;\n\nb) Incumprimento das regras estabelecidas no regulamento interno de funcionamento da resposta de acolhimento de emergência;\n\nc) O termo do período inicial de acolhimento ou da sua prorrogação;\n\nd) Quando se verifiquem as condições necessárias e efetivas de encaminhamento para uma casa de abrigo ou outra estrutura ou resposta social que se revele adequada.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2020 - Diário da República n.º 158/2020, Série I de 2020-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2020-140346284), em vigor a partir de 2020-08-17"
+  },
+  "140190398": {
+   "fragment_id": "114819421",
+   "type": 11,
+   "heading": "Artigo 34.º — Responsável técnico/a",
+   "in_force_from": "2020-08-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2020 - Diário da República n.º 158/2020, Série I de 2020-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2020-140346284), em vigor a partir de 2020-08-17"
+   ],
+   "markdown": "###### Artigo 34.º — Responsável técnico/a\n\n1 - As respostas de acolhimento de emergência dispõem de um/a responsável técnico/a com formação superior, preferencialmente na área das ciências sociais ou humanas, contactável durante 24 horas por dia ou, na sua impossibilidade, por um/a técnico/a indicado/a para o efeito.\n\n2 - São competências do/a responsável técnico/a:\n\na) Garantir o acolhimento e o acompanhamento das vítimas e dos/as filhos/as acolhidos/as em conformidade com os seus direitos e deveres;\n\nb) Promover a avaliação e gestão do grau de risco e das necessidades sociais da vítima, aquando do seu acolhimento;\n\nc) Emitir parecer sobre a necessidade de prorrogação do período de acolhimento;\n\nd) Determinar a cessação do acolhimento, nos termos previstos no n.º 4 do artigo 28.º;\n\ne) Elaborar o relatório de encaminhamento para a casa de abrigo ou outra estrutura ou resposta social que se revele mais adequada, explicitando os motivos do termo do acolhimento na resposta de acolhimento de emergência.\n\n3 - A cessação do acolhimento nos termos da alínea b) do n.º 4 do artigo 28.º está sujeita à realização de um procedimento administrativo interno, da competência do/a responsável técnico/a, de acordo com as seguintes fases:\n\na) Registo das diligências de prova;\n\nb) Audiência do/a interessado/a;\n\nc) Decisão final fundamentada.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2020 - Diário da República n.º 158/2020, Série I de 2020-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2020-140346284), em vigor a partir de 2020-08-17"
+  },
+  "114884509": {
+   "fragment_id": "114819440",
+   "type": 11,
+   "heading": "Artigo 49.º — Apoios no âmbito do subsistema de ação social",
+   "in_force_from": "2018-01-25",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 11/2018 - Diário da República n.º 57/2018, Série I de 2018-03-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-2018-114896642), em vigor a partir de 2018-01-25"
+   ],
+   "markdown": "###### Artigo 49.º — Apoios no âmbito do subsistema de ação social\n\nAo apoio público, a prestar no âmbito do subsistema de ação social para o funcionamento das respostas a que se referem as alíneas a) e b) do artigo 2.º, é aplicado o disposto na portaria que define os critérios, regras e formas em que assenta o modelo específico da cooperação estabelecida entre o Instituto da Segurança Social, I. P. (ISS, I. P.), e as instituições particulares de solidariedade social, ou legalmente equiparadas, para o desenvolvimento de respostas sociais.\n\n> Retificado pelo/a [Declaração de Retificação n.º 11/2018 - Diário da República n.º 57/2018, Série I de 2018-03-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-2018-114896642), em vigor a partir de 2018-01-25"
+  },
+  "114900746": {
+   "fragment_id": "114819451",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de setembro de 2017. - Maria Manuel de Lemos Leitão Marques - Ricardo Emanuel Martins Mourinho Félix - Maria Constança Dias Urbano de Sousa - Francisca Eugénia da Silva Dias Van Dunem - Eduardo Arménio do Nascimento Cabrita - Ana Sofia Pedroso Lopes Antunes.\n\nPromulgado em 15 de janeiro de 2018.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 22 de janeiro de 2018.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n111078179"
+  }
+ }
+}

@@ -1,0 +1,688 @@
+---
+schema_version: '1.0'
+id: pt:dre:175542:por
+title: Portaria n.º 297/2012
+short_title: null
+summary: Cria o Programa Formação-Algarve
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia e do Emprego
+proposing_entity: null
+official_number: 297/2012
+official_date: null
+publication_date: '2012-09-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 189/2012, Série I de 2012-09-28
+  number: '189'
+  series: I
+  supplement: null
+  pages: 5480 - 5485
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/09/18900/0548005485.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2019-12-30'
+version_history:
+  file: portaria-297-2012.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2012-09-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-07-13'
+    amending: pt:dre:497873:por
+    amending_title: Portaria n.º 227/2013
+    changes:
+    - Adita Artigo 8.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Artigo 20.º
+    - Altera Anexo II
+  - date: '2014-07-04'
+    amending: pt:dre:25345133:por
+    amending_title: Portaria n.º 136-A/2014
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 8.º-A
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 17.º
+    - Altera Anexo II
+  - date: '2015-07-11'
+    amending: pt:dre:69782193:por
+    amending_title: Portaria n.º 200/2015
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 19.º
+    - Altera Anexo II
+  - date: '2019-12-30'
+    amending: pt:dre:105643545:por
+    amending_title: Portaria n.º 339/2016
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/297/2012/p/cons/20161229/pt/html
+  oj: null
+  dre: '175542'
+  dre_path: /dr/detalhe/portaria/297-2012-175542
+  internal: pt:dre:175542:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/297-2012-175542
+  metadata_url: https://data.dre.pt/eli/port/297/2012/p/cons/20161229/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-69927769
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-69927769
+  retrieved_at: '2026-10-22T12:01:11Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: ebd281490807edb00dc16e3b1147f3b004c8e8fafab2f01014234f10c39b952a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:01:11Z'
+  notes: 5 versão(ões); histórico completo em portaria-297-2012.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Turismo do Algarve
+- Financiamento
+- Catálogo Nacional de Qualificações
+- Turismo
+- Instituto do Emprego e Formação Profissional
+- Formação Profissional
+- Saúde
+- Algarve
+- Instituto do Turismo de Portugal
+- Programa
+- Cultura
+- Emprego
+- Remuneração
+relationships:
+- type: amended_by
+  target: pt:dre:497873:por
+  label: Adita Artigo 8.º-A; Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º;
+    Altera Artigo 8.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 15.º; Altera Artigo 17.º;
+    Altera Artigo 20.º; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/227-2013-497873
+  date: '2013-07-12'
+- type: amended_by
+  target: pt:dre:25345133:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º;
+    Altera Artigo 8.º; Altera Artigo 8.º-A; Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 13.º; Altera Artigo 14.º;
+    Altera Artigo 17.º; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/136-a-2014-25345133
+  date: '2014-07-03'
+- type: amended_by
+  target: pt:dre:69782193:por
+  label: Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 11.º; Altera Artigo 13.º;
+    Altera Artigo 19.º; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/200-2015-69782193
+  date: '2015-07-10'
+- type: amended_by
+  target: pt:dre:105643545:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545
+  date: '2016-12-29'
+- type: cites
+  target: pt:dre:175166:por
+  label: null
+  source: http://data.dre.pt/eli/resolassrep/114/2012/08/10/p/dre
+- type: cites
+  target: pt:dre:178501:por
+  label: null
+  source: http://data.dre.pt/eli/lei/23/2012/06/25/p/dre
+- type: cites
+  target: pt:dre:321718:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/163/1999/05/13/p/dre
+- type: cites
+  target: pt:dre:343580:por
+  label: null
+  source: http://data.dre.pt/eli/lei/21/2010/08/23/p/dre
+- type: cites
+  target: pt:dre:424733:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/244/2002/11/05/p/dre
+- type: cites
+  target: pt:dre:477153:por
+  label: null
+  source: http://data.dre.pt/eli/lei/3/2012/01/10/p/dre
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
+- type: cites
+  target: pt:dre:534642:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/137/1999/04/22/p/dre
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/396/2007/1
+article_structure:
+  article_count: 21
+  section_count: 6
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:01:11Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 297/2012
+
+Portaria n.º 297/2012
+
+de 28 de setembro
+
+O Compromisso para o Crescimento, Competitividade e Emprego, assinado pelo Governo e pela maioria dos Parceiros Sociais, sublinha a importância de serem aprofundadas as bases para o relançamento do crescimento económico, de forma a combater o desemprego e melhorar as condições de vida e de trabalho.
+
+Importa igualmente reforçar a coesão territorial, criando respostas regionais focalizadas na diversidade de cenários, promovendo a discriminação positiva, no que respeita à dimensão e características da população ativa, do mercado de emprego e dos territórios, bem como adotar medidas que contribuam para um maior equilíbrio social.
+
+Neste sentido, a Resolução da Assembleia da República n.º 114/2012, de 10 de agosto, veio recomendar a criação de um programa específico de formação profissional que aumente a empregabilidade dos trabalhadores através do reforço da sua qualificação profissional e, simultaneamente, estimule os setores económicos do turismo e outros relacionados, com o objetivo de combater o desemprego em geral e os efeitos da sazonalidade na região do Algarve.
+
+Acresce que o Governo considera da maior importância a promoção de vínculos laborais mais estáveis e o combate à segmentação e à precariedade no mercado de trabalho, um dos principais objetivos da reforma da legislação laboral desenvolvida, bem como o investimento na formação profissional, condição necessária para o aumento dos níveis de produtividade e para a melhoria dos níveis de vida dos trabalhadores.
+
+Assim, a presente portaria procede à criação do Programa Formação-Algarve, que visa combater a sazonalidade do emprego na região, resultante da forte dependência económica do turismo, nomeadamente nos concelhos urbanos, reforçando a competitividade e a produtividade dos setores de atividade mais afetados pela sazonalidade.
+
+Este Programa dirige-se aos empregadores que atuam nestes setores e que procedam à celebração de contratos de trabalho ou à renovação ou conversão de contratos de trabalho a termo dos respetivos trabalhadores, comprometendo-se a proporcionar formação profissional certificada durante o período da designada época baixa, reforçando a qualificação profissional dos trabalhadores e aumentando a sua empregabilidade.
+
+Pretende-se, por esta via, contribuir para a renovação destes setores estruturantes para a economia nacional, através do aumento da qualidade, da inovação e da sofisticação de ofertas nestes setores e da sua articulação com outras áreas complementares de modo a gerar sinergias economicamente sustentáveis, que promovam a produtividade e a competitividade e sejam geradoras de emprego.
+
+O Programa Formação-Algarve tem a duração inicial de um ano, devendo ser objeto de avaliação qualitativa e quantitativa conjunta com os Parceiros Sociais, a efetuar até junho de 2013, com vista ao seu aperfeiçoamento e eventual alargamento.
+
+Foram ouvidos os Parceiros Sociais com assento na Comissão Permanente de Concertação Social.
+
+Assim:
+
+Ao abrigo do disposto nas alíneas h) do artigo 2.º, d) do n.º 1 do artigo 3.º e c) e d) do artigo 12.º e no n.º 1 do artigo 17.º do Decreto-Lei n.º 132/99, de 21 de abril, manda o Governo, pelos Secretários de Estado do Emprego e do Turismo, o seguinte:
+
+> Nota: [Artigo 2.º, Portaria n.º 200/2015 - Diário da República n.º 133/2015, Série I de 2015-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/200-2015-69782193) A presente Portaria aplica -se apenas às candidaturas apresentadas após a sua entrada em vigor.
+
+> Nota: [Artigo 3.º, Portaria n.º 136-A/2014 - Diário da República n.º 126/2014, 1º Suplemento, Série I de 2014-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/136-a-2014-25345133) A presente Portaria aplica-se apenas às candidaturas apresentadas após a sua entrada em vigor.
+
+> Nota: [Artigo 4.º, Portaria n.º 227/2013 - Diário da República n.º 133/2013, Série I de 2013-07-12](https://diariodarepublica.pt/dr/detalhe/portaria/227-2013-497873) A presente Portaria aplica-se apenas às candidaturas apresentadas após a sua entrada em vigor.
+
+### Capítulo I — Disposições gerais
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545), em vigor a partir de 2019-12-30
+
+###### Artigo 1.º — Objeto
+
+A presente portaria cria o Programa Formação-Algarve, de ora em diante designado Programa, que visa combater a sazonalidade do desemprego na região do Algarve e reforçar a competitividade e a produtividade dos setores de atividade identificados no Anexo I, através da concessão aos empregadores de um apoio financeiro à renovação ou conversão de contratos de trabalho a termo certo ou a termo incerto em contratos de trabalho sem termo, bem como à qualificação profissional dos trabalhadores.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545), em vigor a partir de 2019-12-30
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 136-A/2014 - Diário da República n.º 126/2014, 1º Suplemento, Série I de 2014-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/136-a-2014-25345133), em vigor a partir de 2014-07-04
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2013 - Diário da República n.º 133/2013, Série I de 2013-07-12](https://diariodarepublica.pt/dr/detalhe/portaria/227-2013-497873), em vigor a partir de 2013-07-13
+
+###### Artigo 2.º — Âmbito
+
+O Programa aplica-se aos empregadores que desenvolvam a sua atividade, nos setores referidos no Anexo I, na região do Algarve, abrangida pelo nível II da nomenclatura de unidades territoriais definida pelo Decreto-Lei n.º 46/89, de 15 de fevereiro, com a redação dada pelos Decretos-Leis n.os 163/99, de 13 de maio, 317/99, de 11 de agosto, e 244/2002, de 5 de novembro, e pela Lei n.º 21/2010, de 23 de agosto.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545), em vigor a partir de 2019-12-30
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 136-A/2014 - Diário da República n.º 126/2014, 1º Suplemento, Série I de 2014-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/136-a-2014-25345133), em vigor a partir de 2014-07-04
+
+> Republicado pelo/a Artigo 6.º do/a [Portaria n.º 227/2013 - Diário da República n.º 133/2013, Série I de 2013-07-12](https://diariodarepublica.pt/dr/detalhe/portaria/227-2013-497873), em vigor a partir de 2013-07-13
+
+###### Artigo 3.º — Destinatários
+
+1 - São destinatários do Programa os trabalhadores dos empregadores candidatos, que se encontrem vinculados através de contrato de trabalho a termo certo ou a termo incerto, cujo prazo de duração termine entre 1 de setembro e 30 de novembro de 2015.
+
+2 - Os trabalhadores mencionados no número anterior apenas podem beneficiar deste Programa uma única vez.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545), em vigor a partir de 2019-12-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 200/2015 - Diário da República n.º 133/2015, Série I de 2015-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/200-2015-69782193), em vigor a partir de 2015-07-11
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 136-A/2014 - Diário da República n.º 126/2014, 1º Suplemento, Série I de 2014-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/136-a-2014-25345133), em vigor a partir de 2014-07-04
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2013 - Diário da República n.º 133/2013, Série I de 2013-07-12](https://diariodarepublica.pt/dr/detalhe/portaria/227-2013-497873), em vigor a partir de 2013-07-13
+
+###### Artigo 4.º — Requisitos da entidade empregadora
+
+1 - Pode candidatar-se ao Programa a pessoa singular ou coletiva de direito privado, com fins lucrativos, cuja atividade se enquadre nas CAE constantes do anexo i, cujo estabelecimento esteja localizado na região do Algarve e que reúna cumulativamente os seguintes requisitos:
+
+a) Estar regularmente constituída e registada;
+
+b) Preencher os requisitos legais exigidos para o exercício da atividade ou apresentar comprovativo de ter iniciado o processo aplicável;
+
+c) Ter a situação contributiva regularizada perante a administração fiscal e a segurança social;
+
+d) Não se encontrar em situação de incumprimento no que respeita a apoios financeiros concedidos pelo Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.);
+
+e) Dispor de contabilidade organizada de acordo com o previsto na lei.
+
+2 - A observância dos requisitos é exigida no momento da apresentação da candidatura e durante todo o período de duração do apoio financeiro.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545), em vigor a partir de 2019-12-30
+
+###### Artigo 5.º — Requisitos para a atribuição de apoio financeiro
+
+1 - Sem prejuízo do disposto no número seguinte, a atribuição do apoio financeiro ao empregador depende da verificação, até 1 de dezembro de 2015, de um dos seguintes requisitos, relativamente a cada trabalhador objeto do apoio:
+
+a) A renovação dos contratos de trabalho a termo certo dos trabalhadores abrangidos pelo Programa por um prazo mínimo de 12 meses, podendo, para este efeito, ser aplicável o regime de renovação extraordinária previsto no artigo 2.º da Lei n.º 76/2013, de 7 de novembro;
+
+b) A conversão de contrato de trabalho a termo certo ou a termo incerto em contrato de trabalho sem termo;
+
+c) (Revogada).
+
+2 - A entidade empregadora deve garantir a frequência de formação profissional aos trabalhadores abrangidos pelo Programa.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545), em vigor a partir de 2019-12-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 200/2015 - Diário da República n.º 133/2015, Série I de 2015-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/200-2015-69782193), em vigor a partir de 2015-07-11
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 136-A/2014 - Diário da República n.º 126/2014, 1º Suplemento, Série I de 2014-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/136-a-2014-25345133), em vigor a partir de 2014-07-04
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2013 - Diário da República n.º 133/2013, Série I de 2013-07-12](https://diariodarepublica.pt/dr/detalhe/portaria/227-2013-497873), em vigor a partir de 2013-07-13
+
+### Capítulo II — Organização e desenvolvimento da formação profissional
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545), em vigor a partir de 2019-12-30
+
+###### Artigo 6.º — Percursos de formação
+
+1 - A formação desenvolvida no âmbito deste Programa deve ter interesse direto para a entidade empregadora e contribuir para a aquisição de competências relevantes para o trabalhador para efeitos de obtenção de uma qualificação.
+
+2 - A formação, organizada em percursos modulares, baseia-se em unidades de formação de curta duração (UFCD) que integram os referenciais de formação dos níveis 2 ou 4 constantes do Catálogo Nacional de Qualificações (CNQ).
+
+3 - A formação a desenvolver tem como referência os Percursos-tipo constantes do Anexo II da presente Portaria, que dela faz parte integrante.
+
+4 - Desde que devidamente fundamentado em sede de candidatura os empregadores podem:
+
+a) Identificar outras UFCD integradas em referenciais de formação de qualquer área de educação e formação do CNQ que se revelem mais ajustadas às características dos trabalhadores abrangidos;
+
+b) Apresentar um plano de formação que contemple formação não disponível no CNQ, desde que não ultrapasse 25% da duração total da formação.
+
+5 - A formação é desenvolvida pelos centros do IEFP, I. P., de gestão direta e de gestão participada, e pela rede de escolas de hotelaria e turismo do Instituto do Turismo de Portugal, I. P.
+
+6 - A formação pode, ainda, ser realizada por outras entidades formadoras certificadas.
+
+7 - Os percursos de formação podem integrar uma componente de formação prática em contexto de trabalho com uma duração até 50% do total da carga horária do percurso de formação desde que a duração total da formação não ultrapasse o limite de 600 horas, em condições a definir em sede de regulamento específico.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545), em vigor a partir de 2019-12-30
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 136-A/2014 - Diário da República n.º 126/2014, 1º Suplemento, Série I de 2014-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/136-a-2014-25345133), em vigor a partir de 2014-07-04
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2013 - Diário da República n.º 133/2013, Série I de 2013-07-12](https://diariodarepublica.pt/dr/detalhe/portaria/227-2013-497873), em vigor a partir de 2013-07-13
+
+###### Artigo 7.º — Duração e horário da formação
+
+1 - A formação deve decorrer no período compreendido entre 1 de outubro de 2015 e 31 de maio de 2016.
+
+2 - A duração total dos percursos de formação varia entre 300 e 600 horas e decorre durante o período normal de trabalho.
+
+3 - No caso de a formação ser realizada, total ou parcialmente, fora do período normal de trabalho, o trabalhador tem direito a uma redução equivalente do tempo de trabalho.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545), em vigor a partir de 2019-12-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 200/2015 - Diário da República n.º 133/2015, Série I de 2015-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/200-2015-69782193), em vigor a partir de 2015-07-11
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 136-A/2014 - Diário da República n.º 126/2014, 1º Suplemento, Série I de 2014-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/136-a-2014-25345133), em vigor a partir de 2014-07-04
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2013 - Diário da República n.º 133/2013, Série I de 2013-07-12](https://diariodarepublica.pt/dr/detalhe/portaria/227-2013-497873), em vigor a partir de 2013-07-13
+
+###### Artigo 8.º — Constituição dos grupos de formação
+
+1 - Os grupos de formação devem ter entre 20 e 30 formandos, podendo integrar trabalhadores de uma ou de várias empregadores.
+
+2 - Quando não existam trabalhadores em número suficiente para a constituição de um grupo de formação, nos termos previstos no número anterior, podem integrar-se desempregados inscritos nos centros do IEFP, I.P. para completar os grupos, desde que o perfil do desempregado se enquadre nos objetivos estabelecidos para a formação profissional.
+
+3 - Sempre que os grupos de formação integrem desempregados subsidiados, a formação é desenvolvida nas redes previstas no n.º 5 do artigo 6.º deste diploma legal.
+
+4 - As habilitações escolares mínimas de acesso às ações de formação são determinadas em função das UFCD que compõem os percursos formativos, conforme constante no regulamento específico previsto no n.º 2 do artigo 19.º
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545), em vigor a partir de 2019-12-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 200/2015 - Diário da República n.º 133/2015, Série I de 2015-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/200-2015-69782193), em vigor a partir de 2015-07-11
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 136-A/2014 - Diário da República n.º 126/2014, 1º Suplemento, Série I de 2014-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/136-a-2014-25345133), em vigor a partir de 2014-07-04
+
+> Republicado pelo/a Artigo 6.º do/a [Portaria n.º 227/2013 - Diário da República n.º 133/2013, Série I de 2013-07-12](https://diariodarepublica.pt/dr/detalhe/portaria/227-2013-497873), em vigor a partir de 2013-07-13
+
+###### Artigo 8.º-A — Contratualização do desenvolvimento da formação
+
+1 - Sempre que os empregadores indiquem como entidade formadora, em sede candidatura, as escolas de hotelaria e turismo do Turismo de Portugal I.P. ou outras entidades formadoras certificadas, cabe ao IEFP I.P. contratualizar com essas entidades o desenvolvimento das ações de formação.
+
+2 - Os apoios a conceder às entidades formadoras estão limitados aos custos elegíveis previstos no diploma que fixa a natureza e os limites máximos dos custos considerados
+
+elegíveis para efeitos de cofinanciamento pelo Fundo Social Europeu.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545), em vigor a partir de 2019-12-30
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 136-A/2014 - Diário da República n.º 126/2014, 1º Suplemento, Série I de 2014-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/136-a-2014-25345133), em vigor a partir de 2014-07-04
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 227/2013 - Diário da República n.º 133/2013, Série I de 2013-07-12](https://diariodarepublica.pt/dr/detalhe/portaria/227-2013-497873), em vigor a partir de 2013-07-13
+
+###### Artigo 9.º — RVCC profissional
+
+1 - Os trabalhadores abrangidos pelo Programa podem ser alvo de um processo de reconhecimento, validação e certificação de competências (RVCC) profissionais, nas saídas profissionais relevantes para o setor em questão, caso se verifique serem detentores de perfil adequado e que esta resposta se enquadra no objetivo do Programa.
+
+2 - O tempo despendido no desenvolvimento do processo de RVCC deve ser contabilizado como horas de formação.
+
+3 - Nas situações acima referidas, a formação a desenvolver subsequentemente, até ao limite previsto no n.º 2 do artigo 7.º, deve privilegiar o previsto nos planos pessoais de qualificação, contribuindo para a obtenção de uma qualificação profissional.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545), em vigor a partir de 2019-12-30
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 136-A/2014 - Diário da República n.º 126/2014, 1º Suplemento, Série I de 2014-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/136-a-2014-25345133), em vigor a partir de 2014-07-04
+
+###### Artigo 10.º — Emissão de certificados
+
+Nos termos dos artigos 7.º e 8.º do Decreto-Lei n.º 396/2007, de 31 de dezembro, a conclusão das ações de formação dá lugar:
+
+a) À emissão de um certificado de qualificações ou de um certificado de formação profissional, consoante se trate, respetivamente, de formação com base em UFCD do CNQ ou de formação não disponível no CNQ, de acordo com os modelos aprovados pelas Portarias n.os 199/2011, de 19 de maio, e 474/2010, de 8 de julho;
+
+b) Ao registo na caderneta individual de competências, de acordo com o modelo aprovado pela Portaria n.º 475/2010, de 8 de julho.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545), em vigor a partir de 2019-12-30
+
+### Capítulo III — Candidatura aos apoios
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545), em vigor a partir de 2019-12-30
+
+###### Artigo 11.º — Apoio ao emprego
+
+1 - O empregador com candidatura aprovada tem direito a um apoio financeiro correspondente a 50 % da retribuição base mensal bruta de cada trabalhador abrangido.
+
+2 - O apoio financeiro corresponde a 70 % da retribuição base mensal bruta do trabalhador nos seguintes casos:
+
+a) Revogada;
+
+b) Quando o trabalhador abrangido se encontre numa das seguintes situações:
+
+i) Idade igual ou inferior a 30 anos;
+
+ii) Idade igual ou superior a 45 anos;
+
+iii) Pessoa com deficiência ou incapacidade;
+
+iv) Nível de qualificação igual ou inferior ao 3.º ciclo do ensino básico;
+
+v) Pessoa responsável por família monoparental;
+
+c) Quando o trabalhador abrangido exerça uma profissão em que se considera existir sub-representação de género, ou seja, em que não se verifica uma representatividade de 33,3 % em relação a um dos sexos, de acordo com a lista de profissões anexa ao regulamento específico previsto no n.º 2 do artigo 19.º
+
+3 - O apoio financeiro corresponde a 70% da retribuição base mensal bruta do trabalhador no caso de conversão do contrato de trabalho a termo certo ou a termo incerto em contrato de trabalho sem termo e este apoio não pode ultrapassar o montante de 1,5 indexante dos apoios sociais (IAS) por mês, durante oito meses.
+
+4 - No caso da renovação do contrato de trabalho a termo, o apoio não pode ultrapassar o montante de 1,1 IAS por mês durante oito meses.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545), em vigor a partir de 2019-12-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 200/2015 - Diário da República n.º 133/2015, Série I de 2015-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/200-2015-69782193), em vigor a partir de 2015-07-11
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 136-A/2014 - Diário da República n.º 126/2014, 1º Suplemento, Série I de 2014-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/136-a-2014-25345133), em vigor a partir de 2014-07-04
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2013 - Diário da República n.º 133/2013, Série I de 2013-07-12](https://diariodarepublica.pt/dr/detalhe/portaria/227-2013-497873), em vigor a partir de 2013-07-13
+
+###### Artigo 12.º — Apoio à formação
+
+(Revogado).
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545), em vigor a partir de 2019-12-30
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2013 - Diário da República n.º 133/2013, Série I de 2013-07-12](https://diariodarepublica.pt/dr/detalhe/portaria/227-2013-497873), em vigor a partir de 2013-07-13
+
+###### Artigo 13.º — Procedimentos de candidatura
+
+1 - Para efeitos de obtenção do apoio, a entidade empregadora apresenta candidatura junto do IEFP, I. P., nos períodos definidos e publicitados por este, através de preenchimento de formulário próprio, instruída com os seguintes elementos:
+
+a) Revogada;
+
+b) Listagem dos trabalhadores a abranger, incluindo o valor da retribuição base mensal bruta, indicando:
+
+i. Os contratos de trabalho a termo certo que são renovados e respetivo período de renovação;
+
+ii. Os contratos a termo certo que são convertidos em contratos de trabalho sem termo;
+
+iii. (Revogada).
+
+c) Percursos-tipo ou outras UFCD, assim como a duração semanal e total da formação pretendida;
+
+d) Plano de formação e custo total da formação, no caso de pretender que a formação seja desenvolvida por entidade formadora certificada;
+
+e) Indicação do tutor que irá assegurar o acompanhamento dos formandos na formação prática em contexto de trabalho, de acordo com o regulamento específico previsto no n.º 2 do artigo 19.º;
+
+f) No caso de se pretender constituir como entidade enquadradora da formação prática em contexto de trabalho, deve sinalizar tal facto e referir as áreas nas quais pode assumir esta função.
+
+As candidaturas são analisadas e classificadas pelo IEFP,I.P., através da Delegação Regional do Algarve, de acordo com as características dos trabalhadores a abranger, priorizando os trabalhadores com menos qualificações ou remunerações mais baixas.
+
+3 - A decisão sobre a candidatura apresentada é proferida pelo delegado regional do Algarve no prazo máximo de 15 dias consecutivos a contar da data da apresentação daquela.
+
+4 - Após a aprovação da candidatura, é assinado o termo de aceitação pela entidade empregadora, nos termos do regulamento específico previsto no n.º 2 do artigo 19.º
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545), em vigor a partir de 2019-12-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 200/2015 - Diário da República n.º 133/2015, Série I de 2015-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/200-2015-69782193), em vigor a partir de 2015-07-11
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 136-A/2014 - Diário da República n.º 126/2014, 1º Suplemento, Série I de 2014-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/136-a-2014-25345133), em vigor a partir de 2014-07-04
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2013 - Diário da República n.º 133/2013, Série I de 2013-07-12](https://diariodarepublica.pt/dr/detalhe/portaria/227-2013-497873), em vigor a partir de 2013-07-13
+
+###### Artigo 14.º — Pagamento do apoio ao emprego
+
+O pagamento do apoio financeiro é efetuado após o envio de cópia da declaração de remunerações, entregue na segurança social, da qual conste o trabalhador apoiado, da seguinte forma:
+
+a) A primeira prestação, correspondente a quatro IAS, é paga após a devolução do termo de aceitação, devidamente assinado;
+
+b) (Revogada).
+
+c) A segunda prestação, no montante remanescente, é paga a partir do 6.º mês após a assinatura do termo de aceitação.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545), em vigor a partir de 2019-12-30
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 136-A/2014 - Diário da República n.º 126/2014, 1º Suplemento, Série I de 2014-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/136-a-2014-25345133), em vigor a partir de 2014-07-04
+
+###### Artigo 15.º — Pagamento do apoio às entidades formadoras
+
+Nos casos previstos no artigo 8.º-A, o pagamento à entidade formadora certificada ou à escola de hotelaria e turismo do Instituto do Turismo de Portugal, I.P. é efetuado nos seguintes termos:
+
+a) Um adiantamento correspondente a 60% do valor total contratualizado após receção de declaração da entidade formadora certificada ou da escola de turismo e hotelaria com indicação da data de início da ação de formação;
+
+b) A título excecional e a pedido da entidade formadora certificada ou da escola de turismo e hotelaria, pode haver lugar a um segundo adiantamento, correspondente a 30% do valor contratualizado, mediante comprovação de que a despesa realizada e paga perfaz, pelo menos, 80% do valor do primeiro adiantamento;
+
+c) O montante remanescente é pago após a conclusão da formação e encerramento de contas.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545), em vigor a partir de 2019-12-30
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2013 - Diário da República n.º 133/2013, Série I de 2013-07-12](https://diariodarepublica.pt/dr/detalhe/portaria/227-2013-497873), em vigor a partir de 2013-07-13
+
+###### Artigo 16.º — Requisitos para o pagamento dos apoios
+
+1 - O pagamento das prestações fica sujeito à verificação dos requisitos necessários à atribuição do apoio.
+
+2 - Para efeitos das alíneas c) dos artigos 14.º e 15.º, a entidade empregadora deve entregar, previamente, a cópia do certificado de qualificações ou do certificado de formação profissional, quando se tratar de formação em entidade formadora certificada, e o relatório da formação prática em contexto de trabalho, quando esta for realizada pela própria entidade empregadora.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545), em vigor a partir de 2019-12-30
+
+###### Artigo 17.º — Incumprimento e restituição dos apoios
+
+1 - O incumprimento por parte da entidade empregadora das obrigações relativas à atribuição dos apoios financeiros concedidos no âmbito da presente portaria implica a imediata cessação de todos os apoios e a restituição do montante já recebido, sem prejuízo do exercício do direito de queixa por eventuais indícios da prática do crime de fraude na obtenção de subsídio de natureza pública.
+
+2 - O incumprimento nos termos previstos no número anterior implica, ainda, a impossibilidade de beneficiar de apoios financeiros públicos durante o período de dois anos.
+
+3 - O apoio financeiro cessa, devendo o empregador restituir proporcionalmente o apoio financeiro recebido, quando, durante o período mínimo de 12 meses contados a partir da renovação ou conversão dos contratos de trabalho abrangidos pelo projeto aprovado em candidatura, se verifique algum dos seguintes casos:
+
+a) O empregador promova a cessação de contrato de trabalho de trabalhadores ao seu serviço e não abrangidos pelo Programa, através de despedimentos coletivo ou por extinção de posto de trabalho, a partir da data em que ocorrer o primeiro despedimento;
+
+b) O trabalhador abrangido pelo Programa promova a denúncia do contrato de trabalho;
+
+c) O empregador e o trabalhador abrangido pelo Programa façam cessar o contrato de trabalho por acordo.
+
+4 - O empregador deve restituir a totalidade do apoio financeiro respeitante ao trabalhador abrangido pela candidatura aprovada em relação ao qual se verifique uma das seguintes situações:
+
+a) Despedimentos coletivo, por extinção de posto de trabalho ou por inadaptação, bem como despedimento por facto imputável ao trabalhador que seja declarado ilícito ou cessação do contrato de trabalho durante o período experimental por iniciativa do empregador, efetuados durante o período de aplicação do Programa;
+
+b) Resolução de contrato de trabalho pelo trabalhador durante o período de aplicação do Programa;
+
+c) Incumprimento da obrigação de prestação de formação.
+
+5 - O IEFP, I. P., deve notificar a entidade empregadora da decisão que põe termo à atribuição do apoio financeiro, indicando a data em que deixa de existir fundamento para a respetiva atribuição, com a consequente obrigação de restituição dos montantes recebidos a partir desse momento.
+
+6 - A restituição deve ser efetuada no prazo de 60 dias consecutivos contados a partir da notificação referida no número anterior, sob pena de pagamento de juros de mora à taxa legal em vigor.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545), em vigor a partir de 2019-12-30
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 136-A/2014 - Diário da República n.º 126/2014, 1º Suplemento, Série I de 2014-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/136-a-2014-25345133), em vigor a partir de 2014-07-04
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2013 - Diário da República n.º 133/2013, Série I de 2013-07-12](https://diariodarepublica.pt/dr/detalhe/portaria/227-2013-497873), em vigor a partir de 2013-07-13
+
+###### Artigo 18.º — Outros apoios
+
+1 - O apoio financeiro previsto na presente portaria pode ser cumulado com a isenção ou redução do pagamento de contribuições para o regime de segurança social.
+
+2 - Sem prejuízo do disposto no número anterior, o apoio financeiro previsto na presente portaria não é cumulável com outros apoios diretos ao emprego aplicáveis ao mesmo posto de trabalho.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545), em vigor a partir de 2019-12-30
+
+### Capítulo IV — Disposições finais
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545), em vigor a partir de 2019-12-30
+
+###### Artigo 19.º — Acompanhamento, regulamentação e avaliação
+
+1 - O IEFP, I. P., é responsável pela execução do Programa e pelo acompanhamento da vertente formativa, em articulação com o Instituto do Turismo de Portugal, I. P.
+
+2 - O IEFP, I. P., elabora o regulamento específico aplicável ao Programa.
+
+3 - O presente Programa é objeto de avaliação em sede da Comissão Permanente de Concertação Social a partir do décimo primeiro mês após a entrada em vigor da presente Portaria.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545), em vigor a partir de 2019-12-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 200/2015 - Diário da República n.º 133/2015, Série I de 2015-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/200-2015-69782193), em vigor a partir de 2015-07-11
+
+###### Artigo 20.º — Vigência
+
+(Revogado).
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545), em vigor a partir de 2019-12-30
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2013 - Diário da República n.º 133/2013, Série I de 2013-07-12](https://diariodarepublica.pt/dr/detalhe/portaria/227-2013-497873), em vigor a partir de 2013-07-13
+
+O Secretário de Estado do Emprego, Pedro Miguel Rodrigues da Silva Martins, em 21 de setembro de 2012. - A Secretária de Estado do Turismo, Cecília Felgueiras de Meireles Graça, em 24 de setembro de 2012.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545), em vigor a partir de 2019-12-30
+
+## Anexo I — Atividades económicas elegíveis
+
+Decreto-Lei n.º 381/2007, de 14 de novembro, que aprovou a Classificação Portuguesa das Atividades Económicas (CAE), revisão 3
+
+(a que se refere o n.º 1 do artigo 4.º)
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545), em vigor a partir de 2019-12-30
+
+## Anexo II — Bolsa de UFCD
+
+Percursos-tipo (a que se refere o n.º 3 do artigo 6.º)
+
+Turismo - Percurso 1
+
+(ver documento original)
+
+Serviço de Andares - Percurso 2
+
+(ver documento original)
+
+Serviço de Restaurante/Bar - Percurso 3
+
+(ver documento original)
+
+Técnicas de Serviço de Restaurante/Bar - Percurso 4
+
+(ver documento original)
+
+Pastelaria - Percurso 5
+
+(ver documento original)
+
+Receção Hoteleira - Percurso 6
+
+(ver documento original)
+
+Cozinha - Percurso 7
+
+(ver documento original)
+
+Construção Civil - Percurso 8
+
+(ver documento original)
+
+Atividades de Comércio - Percurso 9
+
+(ver documento original)
+
+Atividades Administrativas - Percurso 10
+
+(ver documento original)
+
+Atividades Desportivas - Percurso 11
+
+(ver documento original)
+
+Atividades de Animação - Percurso 12
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 339/2016 - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/339-2016-105643545), em vigor a partir de 2019-12-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 200/2015 - Diário da República n.º 133/2015, Série I de 2015-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/200-2015-69782193), em vigor a partir de 2015-07-11
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 136-A/2014 - Diário da República n.º 126/2014, 1º Suplemento, Série I de 2014-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/136-a-2014-25345133), em vigor a partir de 2014-07-04
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 227/2013 - Diário da República n.º 133/2013, Série I de 2013-07-12](https://diariodarepublica.pt/dr/detalhe/portaria/227-2013-497873), em vigor a partir de 2013-07-13

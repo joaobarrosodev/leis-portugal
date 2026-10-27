@@ -1,0 +1,106 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:839799721:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-933766749",
+ "dre_path": "/dr/detalhe/portaria/33-2024-839799721",
+ "source_lastmod": "2025-09-01",
+ "versions": [
+  {
+   "date": "2024-01-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "933764977",
+    "933764978",
+    "933764979",
+    "933764980",
+    "933764981"
+   ]
+  },
+  {
+   "date": "2025-09-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:933746510:por",
+     "title": "Portaria n.º 289/2025/1",
+     "published": "2025-09-01",
+     "dre_path": "/dr/detalhe/portaria/289-2025-933746510"
+    }
+   ],
+   "changes": [
+    "Altera DMR - Declaração Mensal de Remunerações"
+   ],
+   "fragments": [
+    "933764977",
+    "933764978",
+    "933764979",
+    "933764980",
+    "933764981",
+    "933764982",
+    "933764990"
+   ]
+  }
+ ],
+ "fragments": {
+  "933764977": {
+   "fragment_id": "933766750",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 33/2024\n\nde 31 de janeiro\n\nSumário: Aprova a DMR (declaração mensal de remunerações - AT) e respetivas instruções de preenchimento.\n\nA Portaria n.º 307/2022, de 27 de dezembro, procedeu à aprovação do último modelo da declaração mensal de remunerações (DMR) e respetivas instruções de preenchimento, destinada a declarar os rendimentos de trabalho dependente auferidos por sujeitos passivos residentes em território português e respetivas retenções na fonte, entre outros elementos relativos a esta categoria de rendimentos, que deve ser entregue pelas entidades devedoras daqueles rendimentos, nos termos do disposto na subalínea i) da alínea c) e a alínea d) do n.º 1 do artigo 119.º do Código do Imposto sobre o Rendimento das Pessoas Singulares (CIRS).\n\nConsiderando as alterações decorrentes: a) da Lei n.º 24-D/2022, de 30 de dezembro (Lei do Orçamento do Estado para o ano de 2023), que introduz no Código do IRS o «regime de tributação dos criptoativos» e altera os artigos 12.º-A e 12.º-B do Estatuto da Ordem dos Contabilistas Certificados; b) da Lei n.º 20/2023, de 17 de maio, que altera o artigo 39.º-A do Estatuto dos Benefícios Fiscais; c) da Portaria n.º 292-A/2023, de 29 de setembro, que procede à fixação dos valores limite da compensação devida ao trabalhador pelas despesas adicionais com a prestação de trabalho em regime de teletrabalho que não constitui rendimento para efeitos fiscais; e d) da Lei n.º 82/2023, de 29 de dezembro (Lei de Orçamento do Estado para o ano de 2024), que no artigo 234.º cria um incentivo fiscal à habitação dos trabalhadores e que, nos n.os 1 e 2 do artigo 236.º, prevê disposição transitória para a tributação dos montantes atribuídos aos trabalhadores a título de participação nos lucros da empresa, por via da gratificação de balanço, torna-se necessário proceder ao ajustamento do modelo declarativo, bem como das respetivas instruções de preenchimento da DMR - Declaração Mensal de Remunerações, a vigorar no ano de 2024 e seguintes.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do artigo 8.º do Decreto-Lei n.º 442-A/88, de 30 de novembro, o seguinte:"
+  },
+  "933764978": {
+   "fragment_id": "933766751",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - É aprovada a declaração mensal de remunerações - AT, e respetivas instruções de preenchimento, anexas à presente portaria, da qual fazem parte integrante, para cumprimento da obrigação declarativa a que se refere a subalínea i) da alínea c) e a alínea d) do n.º 1 do artigo 119.º do Código do IRS.\n\n2 - Esta declaração deve ser entregue à Autoridade Tributária e Aduaneira (AT) pelas entidades devedoras de rendimentos de trabalho dependente sujeitos a IRS, ainda que dele isentos, bem como os que se encontrem excluídos de tributação, nos termos dos artigos 2.º, 2.º-A, 2.º-B, 12.º, 12.º-A e 12.º-B do Código do IRS, para comunicação daqueles rendimentos e respetivas retenções de imposto, das deduções efetuadas relativamente a contribuições obrigatórias para regimes de proteção social e subsistemas legais de saúde e a quotizações sindicais, relativas ao mês anterior."
+  },
+  "933764979": {
+   "fragment_id": "933766752",
+   "type": 11,
+   "heading": "Artigo 2.º — Cumprimento da obrigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Cumprimento da obrigação\n\n1 - A declaração referida no artigo anterior deve ser enviada por transmissão eletrónica de dados, sem prejuízo do referido no n.º 5.\n\n2 - As entidades e pessoas singulares que procedam ao envio da declaração mensal de remunerações através de transmissão eletrónica de dados podem fazê-lo através do Portal das Finanças ou da Segurança Social, devendo para o efeito:\n\na) Efetuar o registo, caso ainda não disponham de senha de acesso, através do Portal das Finanças, no endereço www.portaldasfinancas.gov.pt e ou no Portal da Segurança Social, no endereço www.seg-social.pt;\n\nb) Efetuar o envio de acordo com os procedimentos indicados nas referidas páginas.\n\n3 - A declaração mensal de remunerações - AT considera-se apresentada na data da respetiva submissão, sob condição da correção de eventuais erros no prazo de 30 dias.\n\n4 - Se, findo o prazo referido no número anterior, não forem corrigidos os erros detetados, a declaração é considerada sem efeito.\n\n5 - As pessoas singulares devedoras de rendimentos do trabalho dependente que não se encontrem inscritas para o exercício de atividade empresarial ou profissional ou, encontrando-se, tais rendimentos não se relacionem exclusivamente com essa atividade, podem optar por declarar esses rendimentos na declaração anual modelo 10.\n\n6 - A opção referida no número anterior não pode ser exercida no caso de ter sido efetuada retenção na fonte."
+  },
+  "933764980": {
+   "fragment_id": "933766753",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogada a Portaria n.º 307/2022, de 27 de dezembro."
+  },
+  "933764981": {
+   "fragment_id": "933766754",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2024."
+  },
+  "933764982": {
+   "fragment_id": "933766755",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 26 de janeiro de 2024."
+  },
+  "933764990": {
+   "fragment_id": "933766756",
+   "type": 14,
+   "heading": "DMR - Declaração Mensal de Remunerações",
+   "in_force_from": "2025-09-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 289/2025/1 - Diário da República n.º 167/2025, Série I de 2025-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/289-2025-933746510), em vigor a partir de 2025-09-02, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "## DMR - Declaração Mensal de Remunerações\n\n<img src=\"https://files.diariodarepublica.pt/images/839799721/839801092.png\" alt=\"A imagem não se encontra disponível.\" />\n\n<img src=\"https://files.diariodarepublica.pt/images/839799721/839801093.png\" alt=\"A imagem não se encontra disponível.\" />\n\n<img src=\"https://files.diariodarepublica.pt/images/839799721/839801094.png\" alt=\"A imagem não se encontra disponível.\" />\n\n<img src=\"https://files.diariodarepublica.pt/images/839799721/839801095.png\" alt=\"A imagem não se encontra disponível.\" />\n\n<img src=\"https://files.diariodarepublica.pt/images/839799721/839801096.png\" alt=\"A imagem não se encontra disponível.\" />\n\n<img src=\"https://files.diariodarepublica.pt/images/839799721/839801097.png\" alt=\"A imagem não se encontra disponível.\" />\n\n<img src=\"https://files.diariodarepublica.pt/images/839799721/839801098.png\" alt=\"A imagem não se encontra disponível.\" />\n\n<img src=\"https://files.diariodarepublica.pt/images/839799721/839801099.png\" alt=\"A imagem não se encontra disponível.\" />\n\n<img src=\"https://files.diariodarepublica.pt/images/839799721/839801100.png\" alt=\"A imagem não se encontra disponível.\" />\n\n<img src=\"https://files.diariodarepublica.pt/images/839799721/839801101.png\" alt=\"A imagem não se encontra disponível.\" />\n\n<img src=\"https://files.diariodarepublica.pt/images/839799721/839801102.png\" alt=\"A imagem não se encontra disponível.\" />\n\n<img src=\"https://files.diariodarepublica.pt/images/839799721/839801103.png\" alt=\"A imagem não se encontra disponível.\" />\n\n117297262\n\n> Nota: [Artigo 2.º, Portaria n.º 289/2025/1 - Diário da República n.º 167/2025, Série I de 2025-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/289-2025-933746510) Revoga as instruções de preenchimento, aprovadas pelo presente anexo.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 289/2025/1 - Diário da República n.º 167/2025, Série I de 2025-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/289-2025-933746510), em vigor a partir de 2025-09-02, produz efeitos a partir de 2025-01-01"
+  }
+ }
+}

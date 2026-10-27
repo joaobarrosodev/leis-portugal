@@ -1,0 +1,120 @@
+---
+schema_version: '1.0'
+id: pt:dre:393197:por
+title: Resolução n.º 37/79
+short_title: null
+summary: Constitui uma comissão eventual de inquérito com o objectivo de averiguar da veracidade das acusações infamantes
+  precisadas no requerimento apresentado pelo Grupo Parlamentar do Partido Socialista de 17 de Outubro de 1978
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 37/79
+official_date: null
+publication_date: '1979-02-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 30/1979, Série I de 1979-02-05
+  number: '30'
+  series: I
+  supplement: null
+  pages: 169 - 169
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/02/03000/01690169.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '393197'
+  dre_path: /dr/detalhe/resolucao/37-1979-393197
+  internal: pt:dre:393197:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/37-1979-393197
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/37-1979-393197
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:23:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b191381559e51ece208a6e57d43ba68e78d1b864129cf1f7ae4fdabc7f807187
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:23:33Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Assembleia da República
+- Comissão Parlamentar
+- Inquérito
+- Inquérito Parlamentar
+relationships:
+- type: cites
+  target: pt:dre:253068:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:23:33Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 37/79
+
+A Assembleia da República, em reunião plenária de 19 de Dezembro de 1978, resolve, ao abrigo do disposto nos artigos 1.º e 2.º da [Lei n.º 43/77](https://diariodarepublica.pt/dr/detalhe/lei/43-1977-253068), de 18 de Junho, constituir uma comissão eventual de inquérito com o objectivo de averiguar da veracidade das acusações infamantes precisadas no requerimento apresentado pelo Grupo Parlamentar do Partido Socialista de 17 de Outubro de 1978, formuladas pelo jornal estatizado O Comércio do Porto e os demais órgãos de comunicação social referidos naquele requerimento (Rádio Renascença, Tempo e Expresso) contra o Deputado António Macedo.
+
+Assembleia da República, 19 de Dezembro de 1978. - O Presidente, Teófilo Carvalho dos Santos.
+
+Comissão eventual de inquérito
+
+A comissão eventual de inquérito acima referida, designada em conferência dos grupos parlamentares, ficou constituída pelos seguintes Deputados:
+
+Armando Filipe Cerejeira Pereira Bacelar, do Partido Socialista, que presidirá.
+
+Herculano Rodrigues Pires (PS).
+
+Armando dos Santos Lopes (PS).
+
+José Bento Gonçalves (PSD).
+
+Arnaldo Ângelo Brito Llamas (PSD).
+
+João da Silva Mendes Morgado (CDS).
+
+João José Magalhães Ferreira Pulido de Almeida (CDS).
+
+Lino Carvalho Lima (PCP).
+
+Severiano Pedro Falcão (PCP).
+
+Assembleia da República, 16 de Janeiro de 1979. - O Secretário-Geral da Assembleia da República, José Paulino da Costa Santos.

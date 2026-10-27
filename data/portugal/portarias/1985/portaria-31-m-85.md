@@ -1,0 +1,258 @@
+---
+schema_version: '1.0'
+id: pt:dre:162787:por
+title: Portaria n.º 31-M/85
+short_title: null
+summary: Actualiza as taxas tarifárias a aplicar na facturação dos fornecimentos de energia eléctrica
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Indústria e Energia
+proposing_entity: null
+official_number: 31-M/85
+official_date: null
+publication_date: '1985-01-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 10/1985, 1º Suplemento, Série I de 1985-01-12
+  number: '10'
+  series: I
+  supplement: null
+  pages: 72-(13) a 72-(17)
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/01/01001/00130017.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '162787'
+  dre_path: /dr/detalhe/portaria/31-m-1985-162787
+  internal: pt:dre:162787:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/31-m-1985-162787
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/31-m-1985-162787
+  consolidated_url: null
+  retrieved_at: '2026-10-23T08:23:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b8a8e9407910af2326849eef6be62ca70a274b495b1062a88cce3766886da11d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:23:36Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- EDP
+- Energia Elétrica
+- Fundo de Apoio Térmico
+- Preço
+- TAXA Adicional
+relationships:
+- type: amended_by
+  target: pt:dre:316712:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:numero:portaria:61/85
+  label: ALTERADOS O PONTO 1.9 DO PREÂMBULO, O NUMERO 1 DO NUMERO 2, O NUMERO 2 DO NUMERO 2 E O QUADRO 1 ANEXO, PELA PORTARIA
+    61/85, DE 30 DE JANEIRO, PUBLICADA NO DR.IS, 25.
+  source: null
+  date: '1985-01-30'
+- type: cites
+  target: pt:dre:146000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621691:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T08:23:36Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 31-M/85
+
+de 12 de Janeiro
+
+A subida verificada nos custos de produção ao longo dos doze meses em que os actuais preços estiveram em vigor, a necessidade de continuar a manter uma certa capacidade de autofinanciamento para a expansão do sector eléctrico e a necessidade de reforçar a receita própria do Fundo de Apoio Térmico para pagar o elevado défice que acumulou nos anos recentes de seca prolongada, cujos efeitos não foram atempadamente repercutidos nos preços, obrigaram a realizar um acréscimo dos preços de venda de electricidade, que o Governo considera incomportável com os objectivos económicos e sociais que pretende atingir em 1985.
+
+O acréscimo que agora se determina e que é da ordem dos 18%, inferior à taxa de inflação prevista para o presente ano, reparte-se em cerca de 16% para acréscimo efectivo das receitas do sector eléctrico, e em cerca de 2%, para acréscimo das receitas do Fundo de Apoio Térmico, que passa a ter um adicional no valor de 8% da factura de electricidade fornecida em alta, média e baixa tensão, adicional estabelecido para vigorar durante 5 anos.
+
+Para que o acréscimo seja limitado ao valor indicado, o Governo, de acordo com as orientações definidas em Conselho de Ministros, determinará as medidas adequadas no campo financeiro para resolver as questões levantadas pela acumulação do enorme volume de dívidas das autarquias à EDP e pelo recurso ao crédito externo, no interesse do Estado, mas para além das necessidades da empresa.
+
+Assim, e para além das medidas adequadas para o financiamento do investimento previsto para 1985, o Governo estabelecerá para as autarquias um empréstimo da ordem de 28 milhões de contos para pagar a diferença entre as dívidas acumuladas e a estimativa do valor dos activos que serão integrados na EDP.
+
+Esta empresa terá ainda acesso a um empréstimo no valor desses activos, cujos encargos suportará.
+
+Os efeitos das alterações cambiais relacionadas com 85% do financiamento externo de médio e longo prazo necessário ao financiamento dos investimentos que vierem a ser aprovados quer os decorrentes do serviço da dívida de empréstimos contraídos em anos anteriores para investimento serão suportados pelo Fundo de Garantia de Riscos Cambiais.
+
+Desde 29 de Março de 1978, data da [Portaria n.º 171/78](https://diariodarepublica.pt/dr/detalhe/portaria/171-1978-219559), que estabelece o sistema tarifário, este tem sido sujeito a alterações pontuais, dispersas nas portarias que foram introduzindo indispensáveis acréscimos às taxas tarifárias, reconhecendo-se interesse na publicação de nova portaria com o texto integral do sistema tarifário, eliminando certas regras com carácter transitório, então justificadas pela dificuldade de adoptar os sistemas de contagem e medida às novas exigências do tarifário. Contudo, tem havido entraves à aplicação integral do sistema tarifário, nomeadamente em áreas não fornecidas pela EDP, razão por que ainda parece prematuro dispensar as disposições de carácter transitório e, consequentemente, publicar uma versão integral do sistema tarifário com carácter definitivo.
+
+No entanto, atendendo à vantagem de introduzir desde já pequenas alterações em regras de carácter permanente, algumas resultantes da análise de exposições dos consumidores, outras de simples estudo de questões apresentadas pelos clientes, esta portaria inclui mais uma vez algumas alterações pontuais ao texto do sistema tarifário em vigor, relegando para melhor ocasião a publicação de uma versão integral e revista.
+
+Assim, reconhecendo-se interesse em ampliar a flexibilidade de fixação dos períodos tarifários, é alterada a redacção dos n.os 1 e 2 do artigo 3.º do sistema tarifário, permitindo para cada concelho e nível tarifário a oferta pelo distribuidor de mais de um horário, deixando à opção do consumidor a escolha do que melhor se adapte às suas necessidades.
+
+Aos consumos das pequenas bombas de água instaladas fora das casas de habitação nem sempre tem sido reconhecida a equiparação a consumos domésticos, razão por que se esclarece agora esta questão.
+
+Esta equiparação a consumos domésticos, que já é aplicada aos fornecimentos a pequenos clientes não domésticos de potência contratada não superior a 1,1 kVA e consumo anual inferior a 120 kWh, é agora estendida para 240 kWh, alargando o âmbito de aplicação desta regalia.
+
+A fronteira de 13,2 kVA, que vinha sendo adoptada para separar os clientes sujeitos à tarifa geral de baixa tensão, definida no quadro 2 anexo ao sistema tarifário, dos clientes sujeitos à tarifa base, definida no quadro 1, tem-se revelado demasiado rígida, suscitando frequentes reclamações dos consumidores quando, devido a mudança de potência contratada, são obrigados a mudar de tarifa. Assim, não só o limite da passagem da tarifa geral de baixa tensão para a tarifa base é elevado de 13,2 kVA para 19,8 kVA, como, além disso, ao consumidor com potência contratada neste intervalo é dada a possibilidade de optar por qualquer uma destas tarifas. Por outro lado, aproxima-se esta tarifa base de baixa tensão da tarifa de média tensão, passando a considerar a potência tomada em cada mês, e não apenas a potência contratada, na facturação mensal.
+
+Outro ponto que tem originado dificuldades resulta de o tarifário ignorar o caso de um consumidor alimentado em baixa tensão que tenha participado no custo do ramal de média tensão e do posto de transformação de serviço público que o alimenta através do ramal exclusivo, pondo-o em igualdade de circunstâncias com o que é alimentado através da rede pública de baixa tensão, aspecto particularmente injusto quando o consumidor opta por facturação pela tarifa de média tensão, pois ficará sujeito à mesma taxa de acesso que o consumidor alimentado através da rede pública de baixa tensão. Assim, procurando maior equidade, o quadro 1 do sistema tarifário passa a apresentar dois valores para a taxa de acesso à tarifa de média tensão, distinguindo entre o consumidor alimentado através da rede pública de baixa tensão e aquele que é alimentado através de ramal exclusivo saindo directamente do quadro de baixa tensão do posto de transformação, em cujo custo de primeiro estabelecimento participou.
+
+Nestes termos, ao abrigo do n.º 1 do artigo 1.º do [Decreto-Lei n.º 344-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-a-1982-621691), de 1 de Setembro, e do [Decreto-Lei n.º 351/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1983-454066), de 1 de Agosto:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Indústria e Energia, ouvidas a Direcção-Geral de Energia e a Electricidade de Portugal (EDP), E. P., o seguinte:
+
+1.º
+
+(Novas taxas tarifárias a fixar)
+
+1 - Na facturação dos fornecimentos de energia eléctrica pelos distribuidores do continente serão aplicadas as taxas tarifárias constantes dos quadros 1 e 2 anexos - que substituem os quadros 1 e 2 anexos à [Portaria n.º 71-C/84](https://diariodarepublica.pt/dr/detalhe/portaria/71-c-1984-146000), 31 de Janeiro -, acrescidas dos adicionais referidos no n.º 2 da presente portaria.
+
+2 - Na venda de energia eléctrica aos distribuidores alimentados em média ou alta tensão, o valor médio anual da receita da EDP por unidade de energia vendida não poderá exceder 1,10 vezes a taxa de energia de horas cheias de baixa tensão, excluídos os adicionais para o Fundo de Apoio Térmico.
+
+2.º
+
+(Adicional para o Fundo de apoio Térmico)
+
+1 - Nos fornecimentos de energia eléctrica facturados pelas tarifas de alta, média ou baixa tensão será aplicado um adicional para o Fundo de Apoio Térmico no valor de 10% da facturação total relativa à venda de energia eléctrica, abrangendo, nomeadamente, as receitas da energia activa, potência, energia reactiva e taxas de acesso a tarifas diferentes das da tensão de entrega.
+
+2 - Nos fornecimentos, de energia eléctrica em média ou alta tensão com facturação pela tarifa de muito alta tensão será aplicado um adicional à respectiva taxa mensal de acesso no valor de 350$00 por kilowatt de potência contratada.
+
+Para os consumidores com redução da taxa de acesso ao abrigo do n.º 3 do artigo 12.º da [Portaria n.º 171/78](https://diariodarepublica.pt/dr/detalhe/portaria/171-1978-219559), de 29 de Março, com a nova redacção dada pela Portaria n.º 1148/81, de 31 de Dezembro, aplicar-se-á a este adicional uma redução idêntica, em percentagem, à aplicada à taxa de acesso.
+
+3 - Na compra de energia eléctrica aos autoprodutores, ao abrigo do [Decreto-Lei n.º 20/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1981-389979), de 28 de Janeiro, a factura total calculada de acordo com os artigos 13.º, 14.º e 15.º deste decreto-lei será igualmente acrescida da percentagem indicada no n.º 1.
+
+4 - A receita resultante da aplicação dos adicionais referidos nos n.os 1 e 2 na facturação da EDP, deduzida na resultante da aplicação do adicional referido no n.º 3, será afecta ao Fundo de Apoio Térmico, nos termos do [Decreto-Lei n.º 350/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/350-1983-454065), de 1 de Agosto.
+
+3.º
+
+(Períodos tarifários)
+
+A redacção dos n.os 1 e 2 do artigo 3.º do sistema tarifário anexo à [Portaria n.º 171/78](https://diariodarepublica.pt/dr/detalhe/portaria/171-1978-219559), de 29 de Março, com a nova redacção dada pela [Portaria n.º 1122/80](https://diariodarepublica.pt/dr/detalhe/portaria/1122-1980-226385), de 31 de Dezembro, é substituída pela seguinte:
+
+1 - Para efeitos do sistema tarifário, definem-se os seguintes períodos tarifários:
+
+Inverno - de 1 de Novembro a 30 de Abril.
+
+Verão - de 1 de Maio a 31 de Outubro.
+
+Horas de ponta - até 4 horas por dia, não podendo ultrapassar 3 horas consecutivas.
+
+Horas de vazio - pelo menos 70 horas por semana.
+
+Horas cheias - principal período de fornecimento, com excepção das horas de vazio e de ponta, quando existirem.
+
+2 - Para cada nível de tensão e para cada concelho, o distribuidor estabelecerá, de acordo com o definido no número anterior, os períodos tarifários que proporá à opção dos consumidores e que só poderá alterar mediante aviso com 3 meses de antecedência.
+
+4.º
+
+(Consumidores sazonais, domésticos e equiparados)
+
+A redacção dos n.os 2 e 3 do artigo 4.º do sistema tarifário anexo à [Portaria n.º 171/78](https://diariodarepublica.pt/dr/detalhe/portaria/171-1978-219559), de 29 de Março, é substituída pela seguinte:
+
+2 - Consumidores domésticos são os que utilizam a energia eléctrica exclusivamente nas suas habitações, mesmo que nelas exerçam uma pequena actividade profissional.
+
+Serão tidos como domésticos, ainda que medidos por contador próprio, os consumos de pequenas bombas de água e os consumos em arrecadações ou garagens, de uso particular, localizadas em anexos ou dependências da casa de habitação.
+
+3 - Para efeitos do sistema tarifário, são equiparados a consumos domésticos:
+
+a) Os efectuados por pessoas colectivas declaradas de utilidade pública, nos termos do [Decreto-Lei n.º 460/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1977-277832), de 7 de Novembro;
+
+b) Os efectuados para a iluminação de escadas e patamares de prédios colectivos, bem como para outros usos comuns dos utilizadores desses prédios;
+
+c) Os relativos a pequenos consumidores não domésticos, com uma potência não superior a 1,1 kVA e um consumo anual não superior a 240 kWh.
+
+5.º
+
+(Potência a facturar em baixa tensão)
+
+A redacção do n.º 1 do artigo 6.º do sistema tarifário anexo à [Portaria n.º 171/78](https://diariodarepublica.pt/dr/detalhe/portaria/171-1978-219559), de 29 de Março, com a nova redacção dada pela [Portaria n.º 1122/80](https://diariodarepublica.pt/dr/detalhe/portaria/1122-1980-226385), de 31 de Dezembro, é substituída pela seguinte:
+
+1 - Nas entregas de energia eléctrica em baixa tensão com potência contratada até 19,8 kVA, inclusive, salvo oposição expressa do consumidor, possível apenas quando a potência contratada for superior a 13,2 kVA, a potência tomada é considerada igual à potência contratada, uma e outra controladas por um disjuntor calibrado, instalado e selado pelo distribuidor. Nas restantes entregas aplicar-se-á o disposto nos n.os 1, 2, 3 e 4 do artigo 5.º
+
+6.º
+
+(Início de aplicação)
+
+1 - Para atender à falta de simultaneidade na determinação dos consumos a facturar no sistema de redes existentes, a aplicação do sistema de facturação agora estabelecido far-se-á escalonadamente, nos seguintes termos:
+
+a) Na venda de energia eléctrica a consumidores finais, o primeiro consumo a que será aplicado o novo sistema de facturação será o que ocorrer após a primeira leitura mensal de contador - na data habitual ou contratual - realizada posteriormente à data da publicação desta portaria;
+
+b) Na venda de energia eléctrica pela Electricidade de Portugal (EDP), E. P., a outros distribuidores, para revenda, o primeiro consumo a que será aplicado o novo sistema de facturação será o que ocorrer após a primeira leitura mensal de contador - na data habitual ou contratual - realizada depois de decorridos 20 dias sobre a data da publicação desta portaria;
+
+c) Nos casos em que a leitura é habitualmente plurimensal, o novo sistema de facturação só será aplicado aos consumos relativos a períodos mensais de facturação posteriores à data da publicação desta portaria. A repartição mensal do consumo ocorrido entre leituras consecutivas de contador será feita segundo as regras normalmente usadas pelo distribuidor;
+
+d) Nos casos em que, por razões imputáveis ao consumidor, não for possível efectuar a leitura na data habitual ou contratual, o distribuidor poderá proceder a uma estimativa do consumo, recorrendo, para o efeito, às regras de cálculo normalmente usadas.
+
+Ministério da Indústria e Energia
+
+Assinada em 10 de Janeiro de 1985.
+
+O Ministro da Indústria e Energia, José Veiga Simão.
+
+QUADRO 1
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/01001/00130017.pdf)
+
+QUADRO 2
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/01001/00130017.pdf)

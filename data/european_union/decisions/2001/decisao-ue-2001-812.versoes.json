@@ -1,0 +1,330 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001D0812:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001D0812-20191214",
+ "dre_path": null,
+ "source_lastmod": "2019-12-14",
+ "versions": [
+  {
+   "date": "2001-11-23",
+   "future": false,
+   "celex": "32001D0812",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "05d6ed20d465f905",
+    "9c39e0d29ebd6c1a",
+    "72d990745113f192",
+    "d4e6a5c973824954",
+    "deaa1f795462e13f",
+    "46b67d2fb32fda2c",
+    "3624db0e189a6696",
+    "e88f89d783ee862f",
+    "49d5573d294299ee",
+    "dca31776c9fd4dd4"
+   ]
+  },
+  {
+   "date": "2006-09-02",
+   "future": false,
+   "celex": "02001D0812-20060902",
+   "acts": [
+    {
+     "id": "eu:celex:32006D0590:por",
+     "title": "DECISÃO DA COMISSÃO de 1 de Setembro de 2006",
+     "published": null,
+     "celex": "32006D0590"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 8.º",
+    "Adita ANEXO",
+    "Adita EXIGÊNCIAS PARA APROVAÇÃO DE POSTOS DE INSPECÇÃO FRONTEIRIÇOS",
+    "Adita 1. Equipamento técnico",
+    "Adita 2. Pessoal",
+    "Adita 3. Documentação",
+    "Adita 4. Registos",
+    "Adita 5. Procedimentos",
+    "Adita Notas",
+    "Suprime ANEXO — EXIGÊNCIAS PARA APROVAÇÃO DE POSTOS DE INSPECÇÃO FRONTEIRIÇOS"
+   ],
+   "fragments": [
+    "054001bc363bd5a0",
+    "42adace8bc9fb11f",
+    "e28074bf26cecd23",
+    "2acd75a0b40810c2",
+    "106041fdb7969799",
+    "80dc3f76567f471a",
+    "be4bb2f82993379b",
+    "0911b7b1e74963d1",
+    "ffc0da30d8bbaa08",
+    "10220b9774fa9034",
+    "e39a538f2ae30533",
+    "26112dc40a68ee31",
+    "5261e9fcba295e0d",
+    "528499f3bef97f37",
+    "79b967b19c1d1487",
+    "e16ca042c88d1be8",
+    "298b6f6e6468f6ed"
+   ]
+  },
+  {
+   "date": "2019-12-14",
+   "future": false,
+   "celex": "02001D0812-20191214",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime ANEXO",
+    "Suprime EXIGÊNCIAS PARA APROVAÇÃO DE POSTOS DE INSPECÇÃO FRONTEIRIÇOS",
+    "Suprime 1. Equipamento técnico",
+    "Suprime 2. Pessoal",
+    "Suprime 3. Documentação",
+    "Suprime 4. Registos",
+    "Suprime 5. Procedimentos",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "a7e204b4676cfad4"
+   ]
+  }
+ ],
+ "fragments": {
+  "05d6ed20d465f905": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**2001/812/CE: Decisão da Comissão, de 21 de Novembro de 2001, que estabelece as exigências para a aprovação dos postos de inspecção fronteiriços responsáveis pelo controlo veterinário dos produtos provenientes de países terceiros introduzidos na Comunidade (Texto relevante para efeitos do EEE) [notificada com o número C(2001) 3687]** *Jornal Oficial nº L 306 de 23/11/2001 p. 0028 - 0033*\n\nDecisão da Comissão\n\nde 21 de Novembro de 2001\n\nque estabelece as exigências para a aprovação dos postos de inspecção fronteiriços responsáveis pelo controlo veterinário dos produtos provenientes de países terceiros introduzidos na Comunidade\n\n[notificada com o número C(2001) 3687]\n\n(Texto relevante para efeitos do EEE)\n\n(2001/812/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 97/78/CE do Conselho, de 18 de Dezembro de 1997, que fixa os princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros introduzidos na Comunidade(1), e, nomeadamente, o n.o 2 do seu artigo 6.o e o seu artigo 33.o,\n\nConsiderando o seguinte:\n\n(1) A aprovação e inclusão no Jornal Oficial dos postos de inspecção fronteiriços pelos quais transitem produtos depende da respectiva conformidade com as condições gerais estabelecidas no anexo II da Directiva 97/78/CE.\n\n(2) Atendendo à experiência adquirida no âmbito das inspecções efectuadas pelo Serviço Alimentar e Veterinário, é adequado alterar e actualizar as exigências específicas aplicáveis aos postos de inspecção fronteiriços e centros de inspecção que os integram. A presente decisão define as instalações, equipamentos e procedimentos operacionais a utilizar e revoga a Decisão 92/525/CE da Comissão(2).\n\n(3) As instalações a utilizar como postos de inspecção fronteiriços devem ser colocadas sob o controlo do veterinário oficial e ser acessíveis por este sempre que necessário. Tal obrigação abrange, nomeadamente, os espaços localizados em edifícios utilizados como estabelecimentos comerciais.\n\n(4) De forma a promover a eficiência das instalações que se ocupem apenas de determinadas categorias de produtos, devem elaborar-se listas dos postos de inspecção fronteiriços afectados apenas às categorias em causa, cujas infra-estruturas podem ser simplificadas e adequadas apenas a essas categorias de produtos.\n\n(5) Por motivos de flexibilidade, um posto de inspecção fronteiriço poderá compreender diversos centros de inspecção que procedem ao exame dos produtos, sem multiplicação dos escritórios, bem como de alguns documentos e equipamentos necessários, mantidos noutras instalações do posto.\n\n(6) Devem, contudo, impor-se algumas restrições à referida flexibilidade, de forma a garantir que os centros de inspecção em causa operem sob a supervisão do veterinário oficial e não estejam localizados a distâncias excessivas do escritório central designado, caso em que deverão ser aprovados como postos de inspecção fronteiriços independentes.\n\n(7) Os postos de inspecção fronteiriços e os centros de inspecção que os integram devem respeitar as exigências mínimas em matéria de infra-estruturas, equipamento e condições operacionais estabelecidas na presente decisão.\n\n(8) Os postos de inspecção fronteiriços devem ser aprovados pela Comissão e enumerados no Jornal Oficial.\n\n(9) Por motivos de transparência, os centros de inspecção que integram um determinado posto de inspecção fronteiriço devem ser mencionados juntamente com o posto em causa na decisão da Comissão publicada no Jornal Oficial.\n\n(10) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Veterinário Permanente,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "9c39e0d29ebd6c1a": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Um posto de inspecção fronteiriço é constituído por instalações destinadas aos controlos veterinários, sendo colocado sob a responsabilidade do veterinário oficial, ou, no caso de produtos da pesca, do veterinário oficial ou do agente oficial referido na Decisão 93/352/CEE da Comissão(3), e localizado de forma que as instalações constituam uma unidade operacional global. Caso um posto de inspecção fronteiriço seja constituído por diversas instalações localizadas no mesmo local, a localização geográfica do grupo qualifica o posto de inspecção fronteiriço, que deve ter uma designação única.\n\n2. Um posto de inspecção fronteiriço deve incluir as instalações especificadas no artigo 4.o da presente decisão, nas quais possam ser apresentados para introdução na Comunidade e ser objecto dos necessários controlos documentais, de identidade e físicos produtos de origem animal provenientes de países terceiros.\n\n3. Se as especificidades geográficas, a extensão das fronteiras ou a gestão eficaz dos controlos nas fronteiras o justificarem, um posto de inspecção fronteiriço pode incluir mais de uma instalação ou centro de inspecção, para a realização das verificações necessárias às categorias de produtos relativamente às quais o posto de inspecção fronteiriço tenha sido aprovado."
+  },
+  "72d990745113f192": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Sem prejuízo do anexo II da Directiva 97/78/CE, para que os postos de inspecção fronteiriços referidos no artigo 6.o da mesma, sejam aprovados, incluídos no Jornal Oficial e mantenham a aprovação, devem possuir instalações, pessoal, equipamento e utilizar procedimentos em conformidade com as especificações da presente decisão e do seu anexo.\n\n2. As instalações utilizadas como postos de inspecção fronteiriços ou quaisquer centros de inspecção que os integrem devem encontrar-se sob a supervisão efectiva do veterinário oficial ou, no caso de produtos da pesca, do veterinário oficial ou do agente oficial referido na Decisão 93/352/CEE, e ser acessíveis em permanência, se necessário."
+  },
+  "d4e6a5c973824954": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Um Estado-Membro pode propor que um posto de inspecção fronteiriço seja oficialmente incluído na lista, após aprovação para a inspecção de todos os produtos ou de apenas determinadas categorias de produtos. Nesse caso, o Estado-Membro deve mostrar que o posto possui as instalações, o pessoal e o equipamento necessários para a inspecção dos produtos em causa.\n\n2. Para efeitos da sua inclusão no Jornal Oficial, os postos de inspecção fronteiriços devem ser classificados de acordo com a sua localização portuária, aeroportuária, rodoviária ou ferroviária. A lista especificará as categorias de produtos para os quais o posto ou, se for caso disso, o centro de inspecção, se encontra aprovado, incluindo pormenores referentes a qualquer restrição complementar dos produtos que um determinado posto de inspecção fronteiriço se encontra habilitado a inspeccionar.\n\n3. Se um posto de inspecção fronteiriço for aprovado para apenas determinadas categorias de produtos, as instalações do posto de inspecção fronteiriço podem ser simplificadas e adequadas apenas à realização dos controlos veterinários das categorias produtos em causa.\n\n4. Todavia, por derrogação ao n.o 3 supra, o sémen ultracongelado e os embriões ultracongelados que possam ser transportados à temperatura ambiente em recipientes selados com regulação de temperatura podem ser inspeccionados em postos de inspecção fronteiriços afectados a produtos não destinados ao consumo humano que se encontrem à temperatura ambiente.\n\n5. Os Estados-Membros notificarão à Comissão quaisquer alterações nas infra-estruturas no funcionamento de um posto de inspecção fronteiriço, ou centro de inspecção que o integre, que tenham incidência na afectação oficial do mesmo. Após a comprovação pela autoridade competente de que as instalações são conformes à presente decisão, os Estados-Membros podem propor aditamentos às categorias de produtos afectadas a um determinado posto de inspecção fronteiriço, tendo em vista a sua aprovação e a alteração da lista pela Comissão."
+  },
+  "deaa1f795462e13f": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. As instalações dos postos de inspecção fronteiriços aprovados devem ser construídas, equipadas, mantidas e operadas em conformidade com as exigências estabelecidas no anexo da presente decisão e na legislação comunitária em vigor. No caso de produtos que não se encontrem totalmente harmonizados em matéria de higiene, poderão aplicar-se exigências nacionais complementares neste domínio.\n\n2. As infra-estruturas mínimas de um posto de inspecção fronteiriço aprovado devem possuir os seguintes elementos, a uma distância operacional:\n\na) Um escritório munido de equipamentos de comunicação tais como telefone, telecopiadora, terminal do sistema Animo, fotocopiadora, toda a documentação necessária e capacidade de arquivação suficiente para os documentos relativos à inspecção dos produtos;\n\nb) Instalações de apoio constituídas por vestiários e instalações sanitárias, para uso do pessoal do posto de inspecção fronteiriço, que apenas podem ser partilhados com outros elementos do pessoal implicados nos controlos oficiais;\n\nc) Uma área para a descarga dos veículos de transporte das remessas, que deverá ser confinada ou coberta, excepto no caso de remessas de lã não transportadas em contentores, proteínas animais transformadas a granel não adequadas ao consumo humano, estrume ou guano a granel e óleos e gorduras líquidas a granel, transportados em navios, a que não se aplica a exigência da cobertura;\n\nNo caso dos produtos de temperatura controlada destinados ao consumo humano, a interface entre as áreas de transporte e descarga deve encontrar-se protegida ou isolada relativamente ao ambiente exterior, excepto no caso de peixe, em que se aplica a derrogação prevista no artigo 2.o da Decisão 93/352/CEE e no capítulo II, ponto 2, do anexo da Directiva 91/493/CEE(4);\n\nd) Uma sala de inspecção para a inspecção dos produtos e a recolha de amostras para a realização de ensaios complementares; não é necessário que a área de recolha de amostras seja separada da sala de inspecção;\n\ne) Salas ou áreas de armazenagem adequadas, de modo a permitir, simultaneamente, manter as remessas retidas congeladas, refrigeradas ou à temperatura ambiente, sob controlo do veterinário oficial, na pendência de resultados de ensaios laboratoriais ou de outras pesquisas.\n\n3. Os postos de inspecção fronteiriços aprovados para produtos congelados, refrigerados e à temperatura ambiente devem possuir capacidade de armazenagem simultânea de quantidades adequadas dos referidos produtos nas diversas gamas de temperaturas. Sempre que necessário, o veterinário oficial deverá ter acesso imediato a um volume de armazenagem adequado.\n\nÉ permitida a utilização de instalações de armazenagem comercial na proximidade do posto de inspecção fronteiriço ou situadas na mesma zona portuária ou aduaneira, sob a supervisão do veterinário oficial, na condição de o produto retido ser armazenado num espaço separado fechado à chave ou numa área totalmente separada dos restantes produtos por uma cerca.\n\nÉ permitida a armazenagem em contentores autónomos colocados em permanência junto da área de descarga, na condição de a passagem entre o local em que se encontram os contentores e a área de descarga permitir que o processo de descarga decorra ao abrigo das condições meteorológicas. É também permitida, a título excepcional e sob a supervisão do veterinário oficial, a armazenagem complementar de cada categoria de produtos no veículo em que uma determinada remessa tenha sido encaminhada para o posto, no caso de postos de inspecção fronteiriços rodoviários, ferroviários ou portuários.\n\n4. Os produtos destinados ao consumo humano e os produtos deles diversos devem transitar por zonas de carga, espaços de inspecção e instalações de armazenagem distintos. Por derrogação a esta exigência, no caso de postos de inspecção fronteiriços oficialmente aprovados restritos a produtos embalados, as áreas de descarga podem ser comuns, nas condição de, durante e após esta última, se observar uma estrita separação dos produtos destinados ao consumo humano dos restantes produtos, de forma a evitar a contaminação cruzada.\n\n5. Por derrogação ao n.o 4, os postos de inspecção fronteiriços pelos quais transitem menos de 500 remessas por ano podem utilizar as mesmas instalações de descarga, inspecção e armazenagem para todos os produtos para os quais o posto tenha sido aprovado, na condição de existir uma descontinuidade temporal entre remessas consecutivas e de se proceder à limpeza e desinfecção adequadas das instalações entre a chegada de remessas diferentes, se necessário."
+  },
+  "46b67d2fb32fda2c": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-Membros podem propor a criação, para inclusão no Jornal Oficial, de centros de inspecção adicionais em postos de inspecção fronteiriços já existentes, após comprovação pela autoridade competente de que são conformes à presente decisão. As instalações desses centros devem ser adequadas à quantidade e ao tipo dos diversos produtos que transitam pelo centro.\n\n2. Se um posto de inspecção fronteiriço compreender diversos centros de inspecção, estes últimos deverão:\n\n- estar localizados na mesma zona de inspecção fronteiriça e na mesma zona ou circunscrição aduaneira que o posto de inspecção fronteiriço a que se encontram adstritos,\n\n- estar localizados a uma distância operacional razoável do escritório central designado do posto de inspecção fronteiriço, devendo provar-se que se encontram sob a supervisão do veterinário oficial,\n\n- manter um registo específico das remessas examinadas no centro.\n\n3. Os centros de inspecção não são obrigados a possuir:\n\n- infra-estruturas de arquivo, um terminal do sistema Animo, ou uma fotocopiadora,\n\n- toda a legislação e documentação relativas aos controlos veterinários, mas apenas os documentos importantes e necessários aos controlos veterinários efectuados no centro."
+  },
+  "3624db0e189a6696": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nNas condições referidas no n.o 2, alínea b), do artigo 6.o da Directiva 97/78/CE, os prazos razoáveis para os Estados-Membros aplicarem as recomendações apresentadas em conformidade com os relatórios de inspecção, sem que a Comissão retire da lista o posto de inspecção fronteiriço em causa, total ou parcialmente (neste último caso, apenas no respeitante às categorias de produtos e/ou centros de inspecção abrangidos pelas recomendações), contados a partir da data de recepção do relatório final, na língua do Estado-Membro, são os seguintes:\n\n- no que respeita a deficiências relativas à construção das instalações ou à quantidade de pessoal: seis meses; todavia, se se encontrarem em construção novas instalações de substituição, os prazos para a conclusão das acções poderão ser determinados, caso a caso, por acordo entre o Estado-Membro e a Comissão;\n\n- no que respeita a quaisquer outras deficiências: três meses.\n\nCaso existam riscos graves para a saúde pública ou animal, os referidos prazos podem ser inferiores."
+  },
+  "e88f89d783ee862f": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nÉ revogada a Decisão 92/525/CEE e em conformidade com o artigo 33.o da Directiva 97/78/CE, as disposições da presente decisão são aplicáveis no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "49d5573d294299ee": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados-Membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 21 de Novembro de 2001.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 24 de 30.1.1998, p. 9.\n\n(2) JO L 331 de 17.11.1992, p. 16.\n\n(3) JO L 144 de 16.6.1993, p. 25.\n\n(4) JO L 268 de 24.9.1991, p. 15."
+  },
+  "dca31776c9fd4dd4": {
+   "fragment_id": "ANEXO — EXIGÊNCIAS PARA APROVAÇÃO DE POSTOS DE INSPECÇÃO FRONTEIRIÇOS",
+   "type": "divisao",
+   "heading": "ANEXO — EXIGÊNCIAS PARA APROVAÇÃO DE POSTOS DE INSPECÇÃO FRONTEIRIÇOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — EXIGÊNCIAS PARA APROVAÇÃO DE POSTOS DE INSPECÇÃO FRONTEIRIÇOS\n\nPara ser aprovado e incluído na lista, um posto de inspecção fronteiriço deve ser construído de forma a proporcionar um nível adequado de higiene e evitar a contaminação cruzada.\n\nOs espaços de descarga, inspecção e armazenagem dos produtos do posto ou centro de inspecção fronteiriço devem possuir:\n\n- paredes com revestimentos de lavagem fácil, que, juntamente com os pavimentos, devem ser de limpeza e desinfecção fáceis e dotados de meios de drenagem adequados,\n\n- um tecto limpo e de limpeza fácil,\n\n- iluminação natural e artificial adequada,\n\n- abastecimento adequado de água quente e fria em todas as salas de inspecção.\n\n1. Equipamento técnico\n\na) Os postos e centros de inspecção fronteiriços devem possuir, no mínimo e em permanência, os seguintes equipamentos:\n\n- equipamentos adequados à pesagem das remessas objecto de controlo, ou acesso a esses equipamentos,\n\n- quaisquer equipamentos necessários à abertura e ao exame das remessas apresentadas,\n\n- equipamentos de limpeza e desinfecção devidamente localizados, adequados às necessidades do posto, ou um sistema eficiente de limpeza e desinfecção por um agente externo, comprovado documentalmente,\n\n- equipamentos destinados a manter a temperatura aos níveis adequados, nos espaços de temperatura controlada;\n\nb) As salas de inspecção devem possuir, no mínimo, o seguinte:\n\n- uma mesa de trabalho com superfície de fácil lavagem, limpeza e desinfecção,\n\n- equipamentos de amostragem - serras, instrumentos de corte, abre-latas, meios de recolha de amostras das remessas e recipientes para amostras,\n\n- fita adesiva; tampas ou rótulos numerados, de marcação clara, com vista a assegurar a rastreabilidade,\n\n- termómetro adequado à medição de temperaturas à superfície e no interior dos produtos, balanças para pesagem e, no caso dos produtos frescos, medidor de pH,\n\n- equipamentos de descongelação ou forno de micro-ondas,\n\n- instalações para a armazenagem temporária de amostras de temperatura controlada, na pendência da sua expedição para o laboratório. Devem, também encontrar-se disponíveis recipientes adequados ao transporte das amostras em causa;\n\nc) Os postos e centros de inspecção fronteiriços afectados apenas a determinadas categorias de produtos devem possuir:\n\n- os equipamentos enumerados nas alíneas a) e b) adequados aos produtos que por eles transitem.\n\n2. Pessoal\n\n1. Os postos de inspecção fronteiriços devem funcionar sob a responsabilidade de um veterinário oficial ou, no caso de produtos da pesca, do veterinário oficial ou do agente oficial referido na Decisão 93/352/CEE, que deve encontrar-se presente no posto de inspecção fronteiriço e nos centros de inspecção durante a realização das verificações nos produtos. Deve haver pessoal em número suficiente para efectuar todos os controlos necessários no posto de inspecção fronteiriço.\n\n2. O veterinário oficial pode ser assistido por indivíduos com formação especial, que, sob a sua autoridade, executem funções tais como:\n\na) Verificação de documentos;\n\nb) Realização de controlos de identidade e exames físicos, recolha de amostras e realização de análises de carácter geral;\n\nc) Tarefas e procedimentos administrativos.\n\nO veterinário oficial é responsável pela decisão final.\n\nDeve manter-se um registo da formação seguida pelo pessoal do posto de inspecção fronteiriço em relação com os controlos veterinários.\n\n3. Documentação\n\nOs postos de inspecção fronteiriços devem manter as informações que se seguem.\n\nNa pendência da aplicação do sistema Shift, o veterinário oficial responsável pelos controlos no posto de inspecção fronteiriço deve ter à sua disposição no escritório central designado, pelo menos:\n\n1. Uma lista actualizada dos países terceiros, ou partes dos mesmos, autorizados a enviar produtos para a Comunidade ou, se aplicável, para determinados Estados-Membros.\n\n2. Exemplares das várias decisões da Comunidade ou dos Estados-Membros que estabelecem um modelo de certificado de saúde pública/sanidade animal ou qualquer outro documento que deva acompanhar os produtos dos países terceiros de expedição até à Comunidade ou, se for caso disso, até determinados Estados-Membros.\n\n3. Uma lista actualizada dos estabelecimentos em países terceiros autorizados a expedir produtos para a Comunidade ou dos estabelecimentos nacionais autorizados, o caso de produtos não harmonizados.\n\n4. Exemplares de quaisquer decisões de salvaguarda que proíbam ou restrinjam a importação de produtos para a Comunidade.\n\n5. Uma lista actualizada dos postos de inspecção fronteiriços, incluindo todos os pormenores disponíveis sobre esses postos.\n\n6. Uma lista actualizada das zonas francas, entrepostos francos e entrepostos aduaneiros aprovados nos termos do n.o 4 do artigo 12.o, bem como dos operadores autorizados nos termos do artigo 13.o da Directiva 97/78/CE, em todos os Estados-Membros.\n\n7. Uma lista actualizada dos estabelecimentos aprovados para a recepção dos produtos em trânsito por um determinado Estado-Membro, em conformidade com o n.o 6 do artigo 8.o da Directiva 97/78/CE.\n\n8. Legislação comunitária actualizada relativa aos produtos e procedimentos abrangidos por controlos veterinários.\n\n4. Registos\n\nDevem também manter-se os seguintes registos:\n\n1. Informações actualizadas sobre as remessas de produtos cuja importação ou entrada na Comunidade tenha sido recusada e que tenham sido reexpedidos; cada Estado-Membro deverá comunicar aos outros Estados-Membros e à Comissão todas as informações referentes às remessas reexpedidas; estas informações devem ser comunicadas a todos os postos de inspecção fronteiriços pela autoridade central competente.\n\n2. Um registo em conformidade com a Decisão 97/394/CE da Comissão, de 6 de Junho de 1997, que define os dados mínimos para as bases de dados relativas aos animais e aos produtos introduzidos na Comunidade(1).\n\n3. Um registo de todas as remessas reexpedidas em conformidade com a Decisão 97/152/CE da Comissão(2), destruídas ou autorizadas pelo veterinário oficial no posto de inspecção fronteiriço para utilizações diversas do consumo humano; o registo deve incluir todas as situações em que exista um prazo para intervenção pelo veterinário oficial no caso de produtos rejeitados, expedidos em trânsito ou encaminhados para um determinado destino, e sempre que sejam necessárias acções de acompanhamento.\n\n4. Um registo das amostras recolhidas no posto de inspecção fronteiriço para exame laboratorial, juntamente com pormenores relativos aos exames laboratoriais solicitados e aos resultados (positivos ou negativos) dos exames em causa.\n\n5. O registo exigido pela Decisão 94/360/CE da Comissão relativa à frequência reduzida de controlos físicos de remessas de certos produtos a importar de países terceiros nos termos da Directiva 90/675/CEE(3), se necessário em formato informatizado.\n\n5. Procedimentos\n\n1. A autoridade competente deverá assegurar uma estreita cooperação entre os diversos serviços implicados na inspecção de produtos provenientes de países terceiros.\n\n2. As inspecções físicas e controlos de identidade, com excepção dos controlos de selagem, devem realizar-se nas instalações de inspecção. Os controlos e inspecções em causa devem ser efectuados de forma a evitar a contaminação cruzada e, se necessário, respeitar as condições de controlo da temperatura às quais os produtos são transportados. Sempre que sejam inspeccionados produtos não embalados destinados ao consumo humano, os controlos devem realizar-se ao abrigo das condições meteorológicas, devendo proceder-se à manipulação higiénica e à protecção dos produtos em causa durante a descarga e a carga.\n\n3. O veterinário oficial deve ter, no mínimo, um conhecimento adequado das disposições aplicáveis à eliminação dos resíduos de origem animal descarregados na área sob a sua jurisdição. Sempre que a eliminação dos resíduos se efectue também sob a sua responsabilidade, devem manter-se registos dos controlos efectuados e das anomalias detectadas. Caso a eliminação dos resíduos seja efectuada sob a responsabilidade de outra autoridade competente, o veterinário oficial deverá cooperar estreitamente com esta última e obter todas as informações necessárias.\n\n4. O veterinário oficial deve ter um conhecimento adequado de quaisquer zonas francas, entrepostos francos, entrepostos aduaneiros ou fornecedores de navios na área abrangida pelo posto de inspecção fronteiriço ou nas imediações da mesma. Devem efectuar-se controlos regulares aos entrepostos ou fornecedores em causa, devendo manter-se no escritório do posto de inspecção fronteiriço um registo que demonstre tal facto.\n\n(1) JO L 164 de 21.6.1997, p. 42.\n\n(2) JO L 59 de 28.2.1997, p. 50.\n\n(3) JO L 158 de 25.6.1994, p. 41."
+  },
+  "054001bc363bd5a0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Novembro de 2001\n\nque estabelece as exigências para a aprovação dos postos de inspecção fronteiriços responsáveis pelo controlo veterinário dos produtos provenientes de países terceiros introduzidos na Comunidade\n\n[notificada com o número C(2001) 3687]\n\n(Texto relevante para efeitos do EEE)\n\n(2001/812/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 97/78/CE do Conselho, de 18 de Dezembro de 1997, que fixa os princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros introduzidos na Comunidade ([^1^](http://publications.europa.eu/resource/cellar/ffa9e458-f4d9-461e-9d12-590802c300f4.0018.03/DOC_1#E0001)), e, nomeadamente, o n.º 2 do seu artigo 6.º e o seu artigo 33.º,\n\n(1) A aprovação e inclusão no Jornal Oficial dos postos de inspecção fronteiriços pelos quais transitem produtos depende da respectiva conformidade com as condições gerais estabelecidas no anexo II da Directiva 97/78/CE.\n\n(2) Atendendo à experiência adquirida no âmbito das inspecções efectuadas pelo Serviço Alimentar e Veterinário, é adequado alterar e actualizar as exigências específicas aplicáveis aos postos de inspecção fronteiriços e centros de inspecção que os integram. A presente decisão define as instalações, equipamentos e procedimentos operacionais a utilizar e revoga a Decisão 92/525/CE da Comissão ([^2^](http://publications.europa.eu/resource/cellar/ffa9e458-f4d9-461e-9d12-590802c300f4.0018.03/DOC_1#E0002)).\n\n(3) As instalações a utilizar como postos de inspecção fronteiriços devem ser colocadas sob o controlo do veterinário oficial e ser acessíveis por este sempre que necessário. Tal obrigação abrange, nomeadamente, os espaços localizados em edifícios utilizados como estabelecimentos comerciais.\n\n(4) De forma a promover a eficiência das instalações que se ocupem apenas de determinadas categorias de produtos, devem elaborar-se listas dos postos de inspecção fronteiriços afectados apenas às categorias em causa, cujas infra-estruturas podem ser simplificadas e adequadas apenas a essas categorias de produtos.\n\n(5) Por motivos de flexibilidade, um posto de inspecção fronteiriço poderá compreender diversos centros de inspecção que procedem ao exame dos produtos, sem multiplicação dos escritórios, bem como de alguns documentos e equipamentos necessários, mantidos noutras instalações do posto.\n\n(6) Devem, contudo, impor-se algumas restrições à referida flexibilidade, de forma a garantir que os centros de inspecção em causa operem sob a supervisão do veterinário oficial e não estejam localizados a distâncias excessivas do escritório central designado, caso em que deverão ser aprovados como postos de inspecção fronteiriços independentes.\n\n(7) Os postos de inspecção fronteiriços e os centros de inspecção que os integram devem respeitar as exigências mínimas em matéria de infra-estruturas, equipamento e condições operacionais estabelecidas na presente decisão.\n\n(8) Os postos de inspecção fronteiriços devem ser aprovados pela Comissão e enumerados no Jornal Oficial.\n\n(9) Por motivos de transparência, os centros de inspecção que integram um determinado posto de inspecção fronteiriço devem ser mencionados juntamente com o posto em causa na decisão da Comissão publicada no Jornal Oficial.\n\n(10) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Veterinário Permanente,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "42adace8bc9fb11f": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Um posto de inspecção fronteiriço é constituído por instalações destinadas aos controlos veterinários, sendo colocado sob a responsabilidade do veterinário oficial, ou, no caso de produtos da pesca, do veterinário oficial ou do agente oficial referido na Decisão 93/352/CEE da Comissão ([^3^](http://publications.europa.eu/resource/cellar/ffa9e458-f4d9-461e-9d12-590802c300f4.0018.03/DOC_1#E0003)), e localizado de forma que as instalações constituam uma unidade operacional global. Caso um posto de inspecção fronteiriço seja constituído por diversas instalações localizadas no mesmo local, a localização geográfica do grupo qualifica o posto de inspecção fronteiriço, que deve ter uma designação única.\n\n2. Um posto de inspecção fronteiriço deve incluir as instalações especificadas no artigo 4.º da presente decisão, nas quais possam ser apresentados para introdução na Comunidade e ser objecto dos necessários controlos documentais, de identidade e físicos produtos de origem animal provenientes de países terceiros.\n\n3. Se as especificidades geográficas, a extensão das fronteiras ou a gestão eficaz dos controlos nas fronteiras o justificarem, um posto de inspecção fronteiriço pode incluir mais de uma instalação ou centro de inspecção, para a realização das verificações necessárias às categorias de produtos relativamente às quais o posto de inspecção fronteiriço tenha sido aprovado."
+  },
+  "e28074bf26cecd23": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Sem prejuízo do anexo II da Directiva 97/78/CE, para que os postos de inspecção fronteiriços referidos no artigo 6.º da mesma, sejam aprovados, incluídos no Jornal Oficial e mantenham a aprovação, devem possuir instalações, pessoal, equipamento e utilizar procedimentos em conformidade com as especificações da presente decisão e do seu anexo.\n\n2. As instalações utilizadas como postos de inspecção fronteiriços ou quaisquer centros de inspecção que os integrem devem encontrar-se sob a supervisão efectiva do veterinário oficial ou, no caso de produtos da pesca, do veterinário oficial ou do agente oficial referido na Decisão 93/352/CEE, e ser acessíveis em permanência, se necessário."
+  },
+  "2acd75a0b40810c2": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Um Estado-Membro pode propor que um posto de inspecção fronteiriço seja oficialmente incluído na lista, após aprovação para a inspecção de todos os produtos ou de apenas determinadas categorias de produtos. Nesse caso, o Estado-Membro deve mostrar que o posto possui as instalações, o pessoal e o equipamento necessários para a inspecção dos produtos em causa.\n\n2. Para efeitos da sua inclusão no Jornal Oficial, os postos de inspecção fronteiriços devem ser classificados de acordo com a sua localização portuária, aeroportuária, rodoviária ou ferroviária. A lista especificará as categorias de produtos para os quais o posto ou, se for caso disso, o centro de inspecção, se encontra aprovado, incluindo pormenores referentes a qualquer restrição complementar dos produtos que um determinado posto de inspecção fronteiriço se encontra habilitado a inspeccionar.\n\n3. Se um posto de inspecção fronteiriço for aprovado para apenas determinadas categorias de produtos, as instalações do posto de inspecção fronteiriço podem ser simplificadas e adequadas apenas à realização dos controlos veterinários das categorias produtos em causa.\n\n4. Por derrogação ao n.º 3, o sémen e os embriões, os subprodutos ou os produtos derivados do sangue de origem animal ultracongelados e transportados para utilização técnica, inclusive para fins farmacêuticos, desde que as remessas sejam transportadas à temperatura ambiente em embalagens ou recipientes selados com auto-regulação da temperatura, podem ser inspeccionados em postos de inspecção fronteiriços com instalações afectadas e aprovadas exclusivamente para a manipulação de produtos embalados que se encontrem à temperatura ambiente.\n\n5. Os Estados-Membros notificarão à Comissão quaisquer alterações nas infra-estruturas no funcionamento de um posto de inspecção fronteiriço, ou centro de inspecção que o integre, que tenham incidência na afectação oficial do mesmo. Após a comprovação pela autoridade competente de que as instalações são conformes à presente decisão, os Estados-Membros podem propor aditamentos às categorias de produtos afectadas a um determinado posto de inspecção fronteiriço, tendo em vista a sua aprovação e a alteração da lista pela Comissão."
+  },
+  "106041fdb7969799": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. As instalações dos postos de inspecção fronteiriços aprovados devem ser construídas, equipadas, mantidas e operadas em conformidade com as exigências estabelecidas no anexo da presente decisão e na legislação comunitária em vigor. No caso de produtos que não se encontrem totalmente harmonizados em matéria de higiene, poderão aplicar-se exigências nacionais complementares neste domínio.\n\n2. As infra-estruturas mínimas de um posto de inspecção fronteiriço aprovado devem possuir os seguintes elementos, a uma distância operacional:\n\na) Um escritório munido de equipamentos de comunicação tais como telefone, telecopiadora, terminal do sistema Animo, fotocopiadora, toda a documentação necessária e capacidade de arquivação suficiente para os documentos relativos à inspecção dos produtos;\n\nb) Instalações de apoio constituídas por vestiários e instalações sanitárias, para uso do pessoal do posto de inspecção fronteiriço, que apenas podem ser partilhados com outros elementos do pessoal implicados nos controlos oficiais;\n\nc) Uma área para a descarga dos veículos de transporte das remessas, que deverá ser confinada ou coberta, excepto no caso de remessas de lã não transportadas em contentores, proteínas animais transformadas a granel não adequadas ao consumo humano, estrume ou guano a granel e óleos e gorduras líquidas a granel, transportados em navios, a que não se aplica a exigência da cobertura;\n\nd) Uma sala de inspecção para a inspecção dos produtos e a recolha de amostras para a realização de ensaios complementares; não é necessário que a área de recolha de amostras seja separada da sala de inspecção;\n\ne) Salas ou áreas de armazenagem adequadas, de modo a permitir, simultaneamente, manter as remessas retidas congeladas, refrigeradas ou à temperatura ambiente, sob controlo do veterinário oficial, na pendência de resultados de ensaios laboratoriais ou de outras pesquisas.\n\n3. Os postos de inspecção fronteiriços aprovados para produtos congelados, refrigerados e à temperatura ambiente devem possuir capacidade de armazenagem simultânea de quantidades adequadas dos referidos produtos nas diversas gamas de temperaturas. Sempre que necessário, o veterinário oficial deverá ter acesso imediato a um volume de armazenagem adequado.\n\nÉ permitida a utilização de instalações de armazenagem comercial na proximidade do posto de inspecção fronteiriço ou situadas na mesma zona portuária ou aduaneira, sob a supervisão do veterinário oficial, na condição de o produto retido ser armazenado num espaço separado fechado à chave ou numa área totalmente separada dos restantes produtos por uma cerca.\n\nÉ permitida a armazenagem em contentores autónomos colocados em permanência junto da área de descarga, na condição de a passagem entre o local em que se encontram os contentores e a área de descarga permitir que o processo de descarga decorra ao abrigo das condições meteorológicas. É também permitida, a título excepcional e sob a supervisão do veterinário oficial, a armazenagem complementar de cada categoria de produtos no veículo em que uma determinada remessa tenha sido encaminhada para o posto, no caso de postos de inspecção fronteiriços rodoviários, ferroviários ou portuários.\n\n4. Os produtos destinados ao consumo humano e os produtos deles diversos devem transitar por zonas de carga, espaços de inspecção e instalações de armazenagem distintos. Por derrogação a esta exigência, no caso de postos de inspecção fronteiriços oficialmente aprovados restritos a produtos embalados, as áreas de descarga podem ser comuns, nas condição de, durante e após esta última, se observar uma estrita separação dos produtos destinados ao consumo humano dos restantes produtos, de forma a evitar a contaminação cruzada.\n\n5. Por derrogação ao n.º 4, e com base numa avaliação do risco pela autoridade competente, os postos de inspecção fronteiriços por onde transite um número limitado de remessas de qualquer categoria, tanto de produtos para consumo humano como de produtos não destinados ao consumo humano, podem utilizar as mesmas instalações de descarga, inspecção e armazenagem para todos os produtos para os quais o posto tenha sido aprovado, na condição de existir um intervalo de tempo entre remessas consecutivas e de se proceder à limpeza e desinfecção adequadas das instalações entre a manipulação e o controlo das remessas, se necessário. Tal derrogação e a avaliação do risco subjacente devem ser notificadas à Comissão."
+  },
+  "80dc3f76567f471a": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-Membros podem propor a criação, para inclusão no Jornal Oficial, de centros de inspecção adicionais em postos de inspecção fronteiriços já existentes, após comprovação pela autoridade competente de que são conformes à presente decisão. As instalações desses centros devem ser adequadas à quantidade e ao tipo dos diversos produtos que transitam pelo centro.\n\n2. Se um posto de inspecção fronteiriço compreender diversos centros de inspecção, estes últimos deverão:\n\n— estar localizados na mesma zona de inspecção fronteiriça e na mesma zona ou circunscrição aduaneira que o posto de inspecção fronteiriço a que se encontram adstritos,\n\n— estar localizados a uma distância operacional razoável do escritório central designado do posto de inspecção fronteiriço, devendo provar-se que se encontram sob a supervisão do veterinário oficial,\n\n— manter um registo específico das remessas examinadas no centro.\n\n3. Os centros de inspecção não são obrigados a possuir:\n\n— infra-estruturas de arquivo, um terminal do sistema Animo, ou uma fotocopiadora,\n\n— toda a legislação e documentação relativas aos controlos veterinários, mas apenas os documentos importantes e necessários aos controlos veterinários efectuados no centro."
+  },
+  "be4bb2f82993379b": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nNas condições referidas no n.º 2, alínea b), do artigo 6.º da Directiva 97/78/CE, os prazos razoáveis para os Estados-Membros aplicarem as recomendações apresentadas em conformidade com os relatórios de inspecção, sem que a Comissão retire da lista o posto de inspecção fronteiriço em causa, total ou parcialmente (neste último caso, apenas no respeitante às categorias de produtos e/ou centros de inspecção abrangidos pelas recomendações), contados a partir da data de recepção do relatório final, na língua do Estado-Membro, são os seguintes:\n\n— no que respeita a deficiências relativas à construção das instalações ou à quantidade de pessoal: seis meses; todavia, se se encontrarem em construção novas instalações de substituição, os prazos para a conclusão das acções poderão ser determinados, caso a caso, por acordo entre o Estado-Membro e a Comissão;\n\n— no que respeita a quaisquer outras deficiências: três meses.\n\nCaso existam riscos graves para a saúde pública ou animal, os referidos prazos podem ser inferiores."
+  },
+  "0911b7b1e74963d1": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nÉ revogada a Decisão 92/525/CEE e em conformidade com o artigo 33.º da Directiva 97/78/CE, as disposições da presente decisão são aplicáveis no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "ffc0da30d8bbaa08": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados-Membros são os destinatários da presente decisão."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "e39a538f2ae30533": {
+   "fragment_id": "EXIGÊNCIAS PARA APROVAÇÃO DE POSTOS DE INSPECÇÃO FRONTEIRIÇOS",
+   "type": "divisao",
+   "heading": "EXIGÊNCIAS PARA APROVAÇÃO DE POSTOS DE INSPECÇÃO FRONTEIRIÇOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### EXIGÊNCIAS PARA APROVAÇÃO DE POSTOS DE INSPECÇÃO FRONTEIRIÇOS\n\nPara ser aprovado e incluído na lista, um posto de inspecção fronteiriço deve ser construído de forma a proporcionar um nível adequado de higiene e evitar a contaminação cruzada.\n\nOs espaços de descarga, inspecção e armazenagem dos produtos do posto ou centro de inspecção fronteiriço devem possuir:\n\n— paredes com revestimentos de lavagem fácil, que, juntamente com os pavimentos, devem ser de limpeza e desinfecção fáceis e dotados de meios de drenagem adequados,\n\n— um tecto limpo e de limpeza fácil,\n\n— iluminação natural e artificial adequada,\n\n— abastecimento adequado de água quente e fria em todas as salas de inspecção."
+  },
+  "26112dc40a68ee31": {
+   "fragment_id": "1. Equipamento técnico",
+   "type": "divisao",
+   "heading": "1. Equipamento técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Equipamento técnico\n\na) Os postos e centros de inspecção fronteiriços devem possuir, no mínimo e em permanência, os seguintes equipamentos:\n\n— equipamentos adequados à pesagem das remessas objecto de controlo, ou acesso a esses equipamentos,\n\n— quaisquer equipamentos necessários à abertura e ao exame das remessas apresentadas,\n\n— equipamentos de limpeza e desinfecção devidamente localizados, adequados às necessidades do posto, ou um sistema eficiente de limpeza e desinfecção por um agente externo, comprovado documentalmente,\n\n— equipamentos destinados a manter a temperatura aos níveis adequados, nos espaços de temperatura controlada;\n\nb) As salas de inspecção devem possuir, no mínimo, o seguinte:\n\n— uma mesa de trabalho com superfície de fácil lavagem, limpeza e desinfecção,\n\n— equipamentos de amostragem — serras, instrumentos de corte, abre-latas, meios de recolha de amostras das remessas e recipientes para amostras,\n\n— fita adesiva; tampas ou rótulos numerados, de marcação clara, com vista a assegurar a rastreabilidade,\n\n— termómetro adequado à medição de temperaturas à superfície e no interior dos produtos, balanças para pesagem e, no caso dos produtos frescos, medidor de pH,\n\n— equipamentos de descongelação ou forno de micro-ondas,\n\n— instalações para a armazenagem temporária de amostras de temperatura controlada, na pendência da sua expedição para o laboratório. Devem, também encontrar-se disponíveis recipientes adequados ao transporte das amostras em causa;\n\nc) Os postos e centros de inspecção fronteiriços afectados apenas a determinadas categorias de produtos devem possuir:\n\n— os equipamentos enumerados nas alíneas a) e b) adequados aos produtos que por eles transitem."
+  },
+  "5261e9fcba295e0d": {
+   "fragment_id": "2. Pessoal",
+   "type": "divisao",
+   "heading": "2. Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Pessoal\n\n1. Os postos de inspecção fronteiriços devem funcionar sob a responsabilidade de um veterinário oficial ou, no caso de produtos da pesca, do veterinário oficial ou do agente oficial referido na Decisão 93/352/CEE, que deve encontrar-se presente no posto de inspecção fronteiriço e nos centros de inspecção durante a realização das verificações nos produtos. Deve haver pessoal em número suficiente para efectuar todos os controlos necessários no posto de inspecção fronteiriço.\n\n2. O veterinário oficial pode ser assistido por indivíduos com formação especial, que, sob a sua autoridade, executem funções tais como: a) Verificação de documentos; b) Realização de controlos de identidade e exames físicos, recolha de amostras e realização de análises de carácter geral; c) Tarefas e procedimentos administrativos. O veterinário oficial é responsável pela decisão final. Deve manter-se um registo da formação seguida pelo pessoal do posto de inspecção fronteiriço em relação com os controlos veterinários."
+  },
+  "528499f3bef97f37": {
+   "fragment_id": "3. Documentação",
+   "type": "divisao",
+   "heading": "3. Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Documentação\n\nOs postos de inspecção fronteiriços devem manter as informações que se seguem.\n\nNa pendência da aplicação do sistema Shift, o veterinário oficial responsável pelos controlos no posto de inspecção fronteiriço deve ter à sua disposição no escritório central designado, pelo menos:\n\n1. Uma lista actualizada dos países terceiros, ou partes dos mesmos, autorizados a enviar produtos para a Comunidade ou, se aplicável, para determinados Estados-Membros.\n\n2. Exemplares das várias decisões da Comunidade ou dos Estados-Membros que estabelecem um modelo de certificado de saúde pública/sanidade animal ou qualquer outro documento que deva acompanhar os produtos dos países terceiros de expedição até à Comunidade ou, se for caso disso, até determinados Estados-Membros.\n\n3. Uma lista actualizada dos estabelecimentos em países terceiros autorizados a expedir produtos para a Comunidade ou dos estabelecimentos nacionais autorizados, o caso de produtos não harmonizados.\n\n4. Exemplares de quaisquer decisões de salvaguarda que proíbam ou restrinjam a importação de produtos para a Comunidade.\n\n5. Uma lista actualizada dos postos de inspecção fronteiriços, incluindo todos os pormenores disponíveis sobre esses postos.\n\n6. Uma lista actualizada das zonas francas, entrepostos francos e entrepostos aduaneiros aprovados nos termos do n.º 4 do artigo 12.º, bem como dos operadores autorizados nos termos do artigo 13.º da Directiva 97/78/CE, em todos os Estados-Membros.\n\n7. Uma lista actualizada dos estabelecimentos aprovados para a recepção dos produtos em trânsito por um determinado Estado-Membro, em conformidade com o n.º 6 do artigo 8.º da Directiva 97/78/CE.\n\n8. Legislação comunitária actualizada relativa aos produtos e procedimentos abrangidos por controlos veterinários."
+  },
+  "79b967b19c1d1487": {
+   "fragment_id": "4. Registos",
+   "type": "divisao",
+   "heading": "4. Registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Registos\n\nSempre que os dados não tenham sido introduzidos no sistema TRACES no posto de inspecção fronteiriço, devem ser mantidos os seguintes registos alternativos em suporte electrónico ou em papel:\n\n1. Informações actualizadas sobre as remessas de produtos cuja importação ou entrada na Comunidade tenha sido recusada e que tenham sido reexpedidos; cada Estado-Membro deverá comunicar aos outros Estados-Membros e à Comissão todas as informações referentes às remessas reexpedidas; estas informações devem ser comunicadas a todos os postos de inspecção fronteiriços pela autoridade central competente.\n\n2. Um registo em conformidade com a Decisão 97/394/CE da Comissão, de 6 de Junho de 1997, que define os dados mínimos para as bases de dados relativas aos animais e aos produtos introduzidos na Comunidade ([^5^](http://publications.europa.eu/resource/cellar/ffa9e458-f4d9-461e-9d12-590802c300f4.0018.03/DOC_1#E0005)).\n\n3. Um registo de todas as remessas reexpedidas em conformidade com a Decisão 97/152/CE da Comissão ([^6^](http://publications.europa.eu/resource/cellar/ffa9e458-f4d9-461e-9d12-590802c300f4.0018.03/DOC_1#E0006)), destruídas ou autorizadas pelo veterinário oficial no posto de inspecção fronteiriço para utilizações diversas do consumo humano; o registo deve incluir todas as situações em que exista um prazo para intervenção pelo veterinário oficial no caso de produtos rejeitados, expedidos em trânsito ou encaminhados para um determinado destino, e sempre que sejam necessárias acções de acompanhamento.\n\n4. Um registo das amostras recolhidas no posto de inspecção fronteiriço para exame laboratorial, juntamente com pormenores relativos aos exames laboratoriais solicitados e aos resultados (positivos ou negativos) dos exames em causa.\n\n5. O registo exigido pela Decisão 94/360/CE da Comissão relativa à frequência reduzida de controlos físicos de remessas de certos produtos a importar de países terceiros nos termos da Directiva 90/675/CEE ([^7^](http://publications.europa.eu/resource/cellar/ffa9e458-f4d9-461e-9d12-590802c300f4.0018.03/DOC_1#E0007)), se necessário em formato informatizado."
+  },
+  "e16ca042c88d1be8": {
+   "fragment_id": "5. Procedimentos",
+   "type": "divisao",
+   "heading": "5. Procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Procedimentos\n\n1. A autoridade competente deverá assegurar uma estreita cooperação entre os diversos serviços implicados na inspecção de produtos provenientes de países terceiros.\n\n2. As inspecções físicas e controlos de identidade, com excepção dos controlos de selagem, devem realizar-se nas instalações de inspecção. Os controlos e inspecções em causa devem ser efectuados de forma a evitar a contaminação cruzada e, se necessário, respeitar as condições de controlo da temperatura às quais os produtos são transportados. Sempre que sejam inspeccionados produtos não embalados destinados ao consumo humano, os controlos devem realizar-se ao abrigo das condições meteorológicas, devendo proceder-se à manipulação higiénica e à protecção dos produtos em causa durante a descarga e a carga.\n\n3. O veterinário oficial deve ter, no mínimo, um conhecimento adequado das disposições aplicáveis à eliminação dos resíduos de origem animal descarregados na área sob a sua jurisdição. Sempre que a eliminação dos resíduos se efectue também sob a sua responsabilidade, devem manter-se registos dos controlos efectuados e das anomalias detectadas. Caso a eliminação dos resíduos seja efectuada sob a responsabilidade de outra autoridade competente, o veterinário oficial deverá cooperar estreitamente com esta última e obter todas as informações necessárias.\n\n4. O veterinário oficial deve ter um conhecimento adequado de quaisquer zonas francas, entrepostos francos, entrepostos aduaneiros ou fornecedores de navios na área abrangida pelo posto de inspecção fronteiriço ou nas imediações da mesma. Devem efectuar-se controlos regulares aos entrepostos ou fornecedores em causa, devendo manter-se no escritório do posto de inspecção fronteiriço um registo que demonstre tal facto.\n\n---"
+  },
+  "298b6f6e6468f6ed": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ffa9e458-f4d9-461e-9d12-590802c300f4.0018.03/DOC_1#src.E0001)) JO L 24 de 30.1.1998, p. 9.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ffa9e458-f4d9-461e-9d12-590802c300f4.0018.03/DOC_1#src.E0002)) JO L 331 de 17.11.1992, p. 16.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/ffa9e458-f4d9-461e-9d12-590802c300f4.0018.03/DOC_1#src.E0003)) JO L 144 de 16.6.1993, p. 25.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/ffa9e458-f4d9-461e-9d12-590802c300f4.0018.03/DOC_1#src.E0004)) JO L 268 de 24.9.1991, p. 15.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/ffa9e458-f4d9-461e-9d12-590802c300f4.0018.03/DOC_1#src.E0005)) JO L 164 de 21.6.1997, p. 42.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/ffa9e458-f4d9-461e-9d12-590802c300f4.0018.03/DOC_1#src.E0006)) JO L 59 de 28.2.1997, p. 50.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/ffa9e458-f4d9-461e-9d12-590802c300f4.0018.03/DOC_1#src.E0007)) JO L 158 de 25.6.1994, p. 41."
+  },
+  "a7e204b4676cfad4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02001D0812 — PT — 14.12.2019 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32001D0812) [DECISÃO DA COMISSÃO](http://publications.europa.eu/resource/celex/32001D0812) [de 21 de Novembro de 2001](http://publications.europa.eu/resource/celex/32001D0812) [que estabelece as exigências para a aprovação dos postos de inspecção fronteiriços responsáveis pelo controlo veterinário dos produtos provenientes de países terceiros introduzidos na Comunidade](http://publications.europa.eu/resource/celex/32001D0812) [[notificada com o número C(2001) 3687]](http://publications.europa.eu/resource/celex/32001D0812) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32001D0812) [(2001/812/CE)](http://publications.europa.eu/resource/celex/32001D0812) (JO L 306, 23.11.2001, p.28)\n\n**Revogada por:**\n\n- [Regulamento de Execução (UE) 2019/1014 da Comissão de 12 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1014) — L 165 — 10 — 21.6.2019"
+  }
+ }
+}

@@ -1,0 +1,199 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31975L0442:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01975L0442-20060517",
+ "dre_path": null,
+ "source_lastmod": "2006-05-17",
+ "versions": [
+  {
+   "date": "1975-07-25",
+   "future": false,
+   "celex": "31975L0442",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "36062acaef4063d5",
+    "f574c157c6c2e5f4",
+    "be96855133092b32",
+    "fe11a73f0ba9912d",
+    "41e05ed052a271d1",
+    "340a5325698df51a",
+    "cb9b776d21304f43",
+    "018bd8569c0ddecc",
+    "79a74bdc4dbccf87",
+    "f8371c75cd328313",
+    "97166f7aa805ebfc",
+    "3170eb6fe878108a",
+    "1b99bfc325531ec9",
+    "38a963566788d164",
+    "a84c24ff4d7ec8cd",
+    "6e0ec9be382a0553"
+   ]
+  },
+  {
+   "date": "2006-05-17",
+   "future": false,
+   "celex": "01975L0442-20060517",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o"
+   ],
+   "fragments": [
+    "fc7b8182f7f22c64"
+   ]
+  }
+ ],
+ "fragments": {
+  "36062acaef4063d5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 75/442/CEE do Conselho, de 15 de Julho de 1975, relativa aos resíduos** *Jornal Oficial nº L 194 de 25/07/1975 p. 0039 - 0041 Edição especial finlandesa: Capítulo 15 Fascículo 1 p. 0238 Edição especial grega: Capítulo 15 Fascículo 1 p. 0086 Edição especial sueca: Capítulo 15 Fascículo 1 p. 0238 Edição especial espanhola: Capítulo 15 Fascículo 1 p. 0129 Edição especial portuguesa: Capítulo 15 Fascículo 1 p. 0129*\n\nDIRECTIVA DO CONSELHO de 15 de Julho de 1975 relativa aos resíduos\n\n(75/442/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 100o e 235o.\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que uma disparidade entre as disposições já aplicáveis ou em preparação nos diferentes Estados-membros, no que diz respeito à eliminação de resíduos, pode criar condições de concorrência desiguais e ter, por isso, uma incidência directa no funcionamento do mercado comum; que convém, portanto, proceder neste domínio à aproximação das legislações prevista no artigo 100o do Tratado;\n\nConsiderando que se mostra necessário fazer acompanhar esta aproximação das legislações de uma acção da Comunidade que visse realizar, mediante uma regulamentação mais ampla, um dos objectivos da Comunidade no domínio da protecção do ambiente e da melhoria da qualidade de vida; que convém, portanto, prever a este título certas disposições específicas; que, não estando previstos no Tratado os poderes de acção necessários para o efeito, haverá que recorrer ao artigo 235o do Tratado;\n\nConsiderando que qualquer regulamentação em matéria de eliminação dos resíduos deve ter como objectivo essencial a protecção da saúde humana e do ambiente contra os efeitos nocivos da recolha, transporte, tratamento, armazenamento e depósito dos resíduos;\n\nConsiderando que se deve incentivar a recuperação dos resíduos e a utilização dos materiais de recuperação, a fim de preservar os recursos naturais;\n\nConsiderando que o programa de acção das Comunidades Europeias em matéria de ambiente (3) sublinha a necessidade de acções comunitárias, incluindo a aproximação das legislações;\n\nConsiderando que deve ser aplicada uma regulamentação eficaz e coerente da eliminação dos resíduos, que não entrave o comércio intracomunitário e não afecte as condições de concorrência, aos bens móveis de que o detentor se desfaz ou tem a obrigação de se desfazer por força das disposições nacionais em vigor, com excepção dos resíduos radioactivos, mineiros e agrícolas, cadáveres de animais, águas residuais, efluentes gasosos e resíduos sujeitos a uma regulamentação comunitária específica;\n\nConsiderando que, para assegurar a protecção do ambiente, se deve prever um regime de autorização das empresas que procedem ao tratamento, armazenamento ou depósito dos Resíduos por conta de outrém, uma fiscalização das empresas que eliminam os seus próprios detritos e das que recolhem os Resíduos de outrém, assim como um plano que cubra os factores essenciais a ter em consideração nas várias operações de eliminação de resíduos;\n\nConsiderando que a parte dos custos não coberta pela valorização dos resíduos deve ser suportada de acordo com o princípio «poluidor-pagador»,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "f574c157c6c2e5f4": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nPara efeitos do disposto na presente directiva, entende-se:\n\na) Por resíduo: qualquer substância ou objecto de que o detentor se desfaz ou tem a obrigação de se desfazer por força das disposições nacionais em vigor;\n\nb) Por eliminação:\n\n- a recolha, a triagem, o transporte e o tratamento de resíduos, assim como o seu armazenamento e o seu depósito à superfície ou enterrado,\n\n- as operações de transformação necessárias à sua reutilização, recuperação ou reciclagem."
+  },
+  "be96855133092b32": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Sem prejuízo do disposto na presente directiva, os Estados-membros podem adoptar regulamentações específicas para categorias particulares de resíduos.\n\n2. São excluídos do campo de aplicação da presente directiva:\n\na) Os resíduos radioactivos;\n\nb) Os resíduos resultantes da prospecção, da extracção, do tratamento e do armazenamento de recursos minerais, assim como da exploração de pedreiras;\n\nc) Os cadáveres de animais e os resíduos agrícolas seguintes: matérias fecais e outras substâncias utilizadas na exploração agrícola;\n\nd) As águas residuais, com excepção dos resíduos em estado líquido;\n\ne) Os efluentes gasosos lançados na atmosfera;\n\nf) Os resíduos sujeitos a regulamentações comunitárias específicas."
+  },
+  "fe11a73f0ba9912d": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Os Estados-membros tomarão as medidas adequadas para promover a prevenção, a reciclagem e a transformação dos resíduos, a obtenção a partir destes de matérias-primas e eventualmente de energia, assim como qualquer outro método que permita a reutilização dos resíduos.\n\n2. Informarão em tempo útil a Comissão sobre qualquer projecto de regulamentação que tenha por objecto tais medidas e, em particular, sobre qualquer projecto de regulamentação que diga respeito:\n\na) Ao emprego de produtos que possam provocar dificuldades técnicas de eliminação ou envolver custos excessivos de eliminação;\n\nb) Ao incentivo:\n\n- da diminuição das quantidades de certos resíduos,\n\n- do tratamento de resíduos com vista à sua reciclagem e reutilização,\n\n- da recuperação de matérias-primas e/ou da produção de energia a partir de certos resíduos;\n\nc) Ao emprego de certos recursos naturais, incluindo os recursos energéticos, quando os mesmos possam ser substituídos por materiais de recuperação."
+  },
+  "41e05ed052a271d1": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nOs Estados-membros tomarão as medidas necessárias para garantir que os resíduos sejam eliminados sem pôr em perigo a saúde humana nem prejudicar o ambiente, e nomeadamente:\n\n- sem criar riscos para a água, ar ou solo, nem para a fauna e a flora,\n\n- sem causar incómodos por ruído ou cheiros,\n\n- sem causar danos aos locais e às paisagens."
+  },
+  "340a5325698df51a": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nOs Estados-membros estabelecerão ou designarão a ou as autoridades competentes encarregadas, numa determinada zona, de planificar, organizar, autorizar e fiscalizar as operações de eliminação dos resíduos."
+  },
+  "cb9b776d21304f43": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nA ou as autoridades competentes mencionadas no artigo 5o devem estabelecer, logo que possível, um ou vários planos referentes, nomeadamente:\n\n- aos tipos e à quantidade de resíduos a eliminar,\n\n- às prescrições técnicas gerais,\n\n- aos locais apropriados para a eliminação,\n\n- a todas as disposições especiais que digam respeito a determinados resíduos.\n\nEsse ou esses planos podem incluir, por exemplo:\n\n- as pessoas singulares ou colectivas habilitadas a proceder à eliminação dos resíduos,\n\n- a estimativa dos custos das operações de eliminação,\n\n- as medidas susceptíveis de incentivar a racionalização da recolha, da triagem e do tratamento dos resíduos."
+  },
+  "018bd8569c0ddecc": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nOs Estados-membros tomarão as disposições necessárias para que qualquer detentor de resíduos:\n\n- os remeta a um colector privado ou público ou a uma empresa de eliminação,\n\nou\n\n- proceda, ele próprio, à eliminação de acordo com as medidas tomadas por força do artigo 4o."
+  },
+  "79a74bdc4dbccf87": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nEm cumprimento das medidas tomadas por força do artigo 4o, qualquer estabelecimento ou empresa que proceda ao tratamento, armazenamento ou depósito de resíduos por conta de outrem deve obter da autoridade competente referida no artigo 5o uma autorização respeitante, nomeadamente:\n\n- aos tipos e quantidades de resíduos a tratar,\n\n- às prescrições técnicas gerais,\n\n- às precauções a tomar,\n\n- às indicações a apresentar, a pedido da autoridade competente, sobre a origem, o destino e o tratamento dos resíduos, assim como sobre os seus tipos e quantidades."
+  },
+  "f8371c75cd328313": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nOs estabelecimentos ou empresas mencionadas no artigo 8o serão periodicamente inspeccionados pela autoridade competente referida no artigo 5o, nomeadamente no que diz respeito ao cumprimento das condições de autorização."
+  },
+  "97166f7aa805ebfc": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nAs empresas que procedem ao transporte, recolha, armazenamento, depósito ou tratamento dos próprios resíduos, assim como as que recolhem ou transportam resíduos por conta de outrem, estão sujeitas à fiscalização da autoridade competente referida no artigo 5o."
+  },
+  "3170eb6fe878108a": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nEm conformidade com o princípio «poluidor-pagador», os custos da eliminação dos resíduos, deduzida a sua eventual valorização, devem ser suportados:\n\n- pelo detentor que remete os resíduos a um colector ou a uma das empresas mencionadas no artigo 8o,\n\n- e/ou pelos detentores anteriores ou pelo produtor do produto gerador de resíduos."
+  },
+  "1b99bfc325531ec9": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nDe três em três anos, os Estados-membros elaborarão um relatório sobre a situação da eliminação dos resíduos nos respectivos países e transmiti-lo-ao à Comissão. Para esse efeito, os estabelecimentos ou empresas mencionados nos artigos 8o e 10o devem fornecer à autoridade competente referida no artigo 5o as informações sobre a eliminação dos resíduos. A Comissão comunicará este relatório aos outros Estados-membros.\n\nA Comissão apresentará ao Conselho e ao Parlamento Europeu, de três em três anos, um relatório sobre a aplicação da presente directiva."
+  },
+  "38a963566788d164": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nOs Estados-membros tomarão as medidas necessárias para darem cumprimento à presente directiva no prazo de vinte e quatro meses a contar da sua notificação e desse facto informarão imediatamente a Comissão."
+  },
+  "a84c24ff4d7ec8cd": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nOs Estados-membros comunicarão à Comissão o texto das principais disposições principais de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "6e0ec9be382a0553": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 15 de Julho de 1975.\n\nPelo Conselho\n\nO Presidente\n\nM. RUMOR\n\n(1) JO no C 32 de 11. 2. 1975, p. 36.(2) JO no C 16 de 23. 1. 1975, p. 12.(3) JO no C 112 de 20. 12. 1973, p. 3."
+  },
+  "fc7b8182f7f22c64": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1975L0442 — PT — 17.05.2006 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31975L0442) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31975L0442) [de 15 de Julho de 1975](http://publications.europa.eu/resource/celex/31975L0442) [relativa aos resíduos](http://publications.europa.eu/resource/celex/31975L0442) [(75/442/CEE)](http://publications.europa.eu/resource/celex/31975L0442) (JO L 194, 25.7.1975, p.39)\n\n**revogado por:**\n\n- [Directiva 2006/12/CE do Parlamento Europeu e do Conselho de 5 de Abril de 2006](http://publications.europa.eu/resource/celex/32006L0012) — L 114 — 9 — 27.4.2006"
+  }
+ }
+}

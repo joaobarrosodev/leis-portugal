@@ -1,0 +1,572 @@
+---
+schema_version: '1.0'
+id: pt:dre:75607855:por
+title: Portaria n.º 283/2016
+short_title: null
+summary: Aprova a delimitação dos perímetros de proteção das captações localizadas no concelho de Arganil, que captam na massa
+  de água Maciço Antigo Indiferenciado da Bacia do Mondego, PT-A0x2RH4
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ambiente
+proposing_entity: null
+official_number: 283/2016
+official_date: null
+publication_date: '2016-10-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 207/2016, Série I de 2016-10-27
+  number: '207'
+  series: I
+  supplement: null
+  pages: 3842 - 3847
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/10/20700/0384203847.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-11-17'
+version_history:
+  file: portaria-283-2016.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2016-10-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-01-05'
+    amending: pt:dre:177088818:por
+    amending_title: Portaria n.º 8/2022
+    changes:
+    - Altera Artigo 1.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Altera Anexo III
+    - Altera Anexo IV
+    - Altera Anexo V
+  - date: '2023-11-17'
+    amending: pt:dre:224366840:por
+    amending_title: Portaria n.º 377/2023
+    changes:
+    - Altera Artigo 1.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Altera Anexo III
+    - Altera Anexo IV
+    - Altera Anexo V
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/283/2016/p/cons/20231116/pt/html
+  oj: null
+  dre: '75607855'
+  dre_path: /dr/detalhe/portaria/283-2016-75607855
+  internal: pt:dre:75607855:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/283-2016-75607855
+  metadata_url: https://data.dre.pt/eli/port/283/2016/p/cons/20231116/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-177088849
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-177088849
+  retrieved_at: '2026-10-22T12:48:22Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: df9b02b57cf71d5857681d2d3aabcd1067de19f1a2f82864b5264630d76858f7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:48:22Z'
+  notes: 3 versão(ões); histórico completo em portaria-283-2016.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Água
+- Recursos Hídricos
+- Proteção do Ambiente
+- Arganil
+- Zona de Proteção
+- Águas Subterrâneas
+- Abastecimento de Água
+relationships:
+- type: amended_by
+  target: pt:dre:177088818:por
+  label: Altera Artigo 1.º; Altera Anexo I; Altera Anexo II; Altera Anexo III; Altera Anexo IV; Altera Anexo V
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/8-2022-177088818
+  date: '2022-01-04'
+- type: amended_by
+  target: pt:dre:224366840:por
+  label: Altera Artigo 1.º; Altera Anexo I; Altera Anexo II; Altera Anexo III; Altera Anexo IV; Altera Anexo V
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/377-2023-224366840
+  date: '2023-11-16'
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:492213:por
+  label: null
+  source: http://data.dre.pt/eli/port/702/2009/07/06/p/dre
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/382/1999/09/22/p/dre
+article_structure:
+  article_count: 6
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:48:22Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 283/2016
+
+Portaria n.º 283/2016
+
+de 27 de outubro
+
+O Decreto-Lei n.º 382/99 de 22 de setembro, alterado pelo Decreto-Lei n.º 226-A/2007, de 31 de maio de 2007, estabelece as normas e os critérios para a delimitação de perímetros de proteção de captações de águas subterrâneas destinadas ao abastecimento público, com a finalidade de proteger a qualidade das águas dessas captações.
+
+Os perímetros de proteção visam prevenir, reduzir e controlar a poluição das águas subterrâneas, nomeadamente por infiltração de águas pluviais lixiviantes e de águas excedentes de rega e de lavagens, bem como potenciar os processos naturais de diluição e de autodepuração, prevenir, reduzir e controlar as descargas acidentais de poluentes e, ainda, proporcionar a criação de sistemas de aviso e alerta para a proteção dos sistemas de abastecimento de água proveniente de captações subterrâneas, em situações de poluição acidental destas águas.
+
+Todas as captações de água subterrânea destinadas ao abastecimento público de água para consumo humano e a delimitação dos respetivos perímetros de proteção estão sujeitas às regras estabelecidas no citado Decreto-Lei n.º 382/99 de 22 de setembro, bem como ao disposto no artigo 37.º da Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de dezembro, e na Portaria n.º 702/2009, de 6 de julho, que estabelece os termos da delimitação dos perímetros de proteção das captações destinadas ao abastecimento público de água para consumo humano, bem como os respetivos condicionamentos.
+
+Na sequência de um estudo apresentado pelo Município de Arganil, a Agência Portuguesa do Ambiente, I. P., elaborou, ao abrigo do n.º 2 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de setembro, uma proposta de delimitação e respetivos condicionamentos dos perímetros de proteção de quatro captações de água subterrânea destinadas ao abastecimento público de água, no concelho de Arganil.
+
+Assim, nos termos do n.º 1 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de setembro, na redação conferida pelo Decreto-Lei n.º 226-A/2007, de 31 de maio, manda o Governo, pelo Secretário de Estado do Ambiente, no uso das competências delegadas pelo Ministro do Ambiente, através da subalínea ii) da alínea d) do n.º 2 do Despacho n.º 489/2016, de 12 de janeiro, publicado no Diário da República, 2.ª série, n.º 7, de 12 de janeiro de 2016, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - É aprovada a delimitação dos perímetros de proteção das captações localizadas no concelho de Arganil, que captam na massa de água Maciço Antigo Indiferenciado da Bacia do Mondego, PT-A0x2RH4, designadas por:
+
+a) Poço Principal de Alagoa;
+
+b) Poço Secundário de Alagoa (Alagoa II);
+
+c) Poço do Feijoal;
+
+d) Poço de Vila Cova de Alva I;
+
+e) Novo Poço de Alagoa (Alagoa IV);
+
+f) Poço de Vila Cova de Alva II.
+
+2 - As coordenadas das captações referidas no número anterior constam do quadro do anexo I à presente portaria, da qual faz parte integrante.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 377/2023 - Diário da República n.º 222/2023, Série I de 2023-11-16](https://diariodarepublica.pt/dr/detalhe/portaria/377-2023-224366840), em vigor a partir de 2023-11-17
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 8/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/portaria/8-2022-177088818), em vigor a partir de 2022-01-05
+
+###### Artigo 2.º — Zona de proteção imediata
+
+1 - A zona de proteção imediata respeitante aos perímetros de proteção das captações mencionadas no artigo anterior correspondem à área da superfície do terreno envolvente às captações, delimitada através de polígonos que resultam da união dos vértices indicados nos quadros constantes do anexo II à presente portaria, da qual faz parte integrante.
+
+2 - É interdita qualquer instalação ou atividade na zona de proteção imediata a que se refere o número anterior, com exceção das que têm por objetivo a conservação, manutenção e melhor exploração da captação.
+
+3 - O terreno abrangido pela zona de proteção imediata deve ser vedado e mantido limpo de quaisquer resíduos, produtos ou líquidos que possam provocar infiltração de substâncias indesejáveis para a qualidade da água da captação, nos termos do n.º 1 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, alterado pelo Decreto-Lei n.º 226-A/2007, de 31 de maio de 2007.
+
+###### Artigo 3.º — Zonas de proteção intermédia
+
+1 - A zona de proteção intermédia respeitante aos perímetros de proteção relativos às captações referidas no artigo 1.º correspondem à área da superfície do terreno delimitada através de polígonos que resultam da união dos vértices indicados nos quadros constantes do anexo III à presente portaria, da qual faz parte integrante.
+
+2 - Nos termos dos n.os 2 e 3 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, nas zonas de proteção intermédia respeitante aos perímetros de proteção das captações mencionadas no número anterior, são interditas as seguintes atividades e instalações:
+
+a) Infraestruturas aeronáuticas;
+
+b) Oficinas e estações de serviço de automóveis;
+
+c) Depósitos de materiais radioativos, de hidrocarbonetos e de resíduos perigosos;
+
+d) Postos de abastecimento e áreas de serviço de combustíveis;
+
+e) Transporte de hidrocarbonetos, de materiais radioativos ou de outras substâncias perigosas;
+
+f) Canalizações de produtos tóxicos;
+
+g) Lixeiras e aterros sanitários;
+
+h) Instalação de estações de tratamento de águas residuais;
+
+i) Unidades industriais suscetíveis de produzir substâncias poluentes que, de forma direta ou indireta, possam vir a alterar a qualidade da água subterrânea;
+
+j) Depósitos de sucata, devendo nos depósitos existentes à data de entrada em vigor da presente portaria ser assegurada a impermeabilização do solo, a recolha e o tratamento das águas de escorrência nas zonas de armazenamento;
+
+k) Cemitérios;
+
+l) Instalação de sistemas autónomos de águas residuais domésticas, tipo fossa, em zonas onde estejam disponíveis sistemas públicos de saneamento de águas residuais, bem como a rejeição e aplicação de efluentes no solo e na água;
+
+m) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas;
+
+n) Lagos e quaisquer obras ou escavações destinadas à extração e armazenamento de água ou de quaisquer outras substâncias suscetíveis de se infiltrarem, no caso de não serem impermeabilizadas, incluindo a realização de sondagens de pesquisa e captação de água subterrânea que não se destinem ao abastecimento público, desde que exista a possibilidade de ligação à rede pública de abastecimento de água, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desativadas;
+
+o) Construção de caminhos-de-ferro.
+
+3 - Nos termos do n.º 2 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, nas zonas de proteção intermédia respeitante aos perímetros de proteção das captações mencionadas no n.º 1, são condicionadas, ficando sujeitas a parecer prévio vinculativo da Agência Portuguesa do Ambiente, I. P., as seguintes atividades e instalações:
+
+a) Usos agrícolas e pecuários, que podem ser permitidos desde que não causem poluição da água subterrânea, nomeadamente através:
+
+i) Da aplicação inadequada de fertilizantes e pesticidas móveis e persistentes na água ou no solo ou que possam formar substâncias tóxicas, persistentes e passíveis de bioacumulação;
+
+ii) Da rejeição de efluentes na água ou no solo, incluindo o armazenamento de estrumes ou produtos potencialmente contaminantes, em locais que não estejam devidamente impermeabilizados e sem sistema de recolha de efluentes;
+
+b) Pastorícia, que pode ser desenvolvida desde que não cause poluição da água subterrânea, nomeadamente através do pastoreio intensivo, devendo ser observadas as regras do código das boas práticas agrícolas;
+
+c) Construção de edificações, que pode ser permitida desde que seja assegurada a ligação à rede de saneamento municipal ou, na sua impossibilidade, a instalação de um sistema autónomo doméstico de armazenamento devidamente estanque e sem qualquer rejeição para a água ou para o solo;
+
+d) Estradas que podem ser permitidas, desde que sejam tomadas as medidas necessárias para evitar a contaminação dos solos e da água;
+
+e) Espaços destinados a práticas desportivas e parques de campismo, que podem ser permitidos desde que as instalações ou atividades não promovam a contaminação da água subterrânea e seja assegurada a ligação das infraestruturas de saneamento à rede municipal ou, na sua impossibilidade, a instalação de um sistema autónomo doméstico de armazenamento devidamente estanque e sem qualquer rejeição para a água ou para o solo;
+
+f) Instalação de coletores de águas residuais, que podem ser permitidos desde que respeitem critérios rigorosos de estanqueidade, devendo estar sujeitos a verificações periódicas do seu estado de conservação.
+
+###### Artigo 4.º — Zonas de proteção alargada
+
+1 - A zona de proteção alargada respeitante aos perímetros de proteção das captações mencionadas no artigo 1.º corresponde à área da superfície do terreno delimitada através do polígono que resulta da união dos vértices indicados no quadro constante do anexo iv à presente portaria, da qual faz parte integrante.
+
+2 - Nos termos dos n.os 4 e 5 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, nas zonas de proteção alargada respeitante aos perímetros de proteção das captações referidas no número anterior, são interditas as seguintes atividades e instalações:
+
+a) Transporte de hidrocarbonetos, de materiais radioativos e de outras substâncias perigosas;
+
+b) Depósitos de materiais radioativos, de hidrocarbonetos e de resíduos perigosos;
+
+c) Canalizações de produtos tóxicos;
+
+d) Refinarias e indústrias químicas;
+
+e) Lixeiras e aterros sanitários;
+
+f) Instalação de sistemas autónomos de águas residuais domésticas, tipo fossa, em zonas onde estejam disponíveis sistemas públicos de saneamento de águas residuais, bem como a rejeição e aplicação de efluentes no solo e na água;
+
+g) Construção de cemitérios;
+
+h) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas;
+
+i) Infraestruturas aeronáuticas.
+
+3 - Nos termos do n.º 4 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, nas zonas de proteção alargada respeitante aos perímetros de proteção das captações referidas no n.º 1, são condicionadas, ficando sujeitas a parecer prévio vinculativo da Agência Portuguesa do Ambiente, I. P., as seguintes atividades e instalações:
+
+a) Usos agrícolas e pecuários, que podem ser permitidos desde que não causem poluição das águas subterrâneas nomeadamente através:
+
+i) Da aplicação inadequada de fertilizantes e pesticidas móveis e persistentes na água ou no solo, ou que possam formar substâncias tóxicas, persistentes e passíveis de bioacumulação;
+
+ii) Da rejeição de efluentes na água ou no solo, incluindo o armazenamento de estrumes ou produtos potencialmente contaminantes, em locais que não estejam devidamente impermeabilizados e sem sistema de recolha de efluentes;
+
+b) Instalação de coletores de águas residuais, que podem ser permitidos desde que respeitem critérios rigorosos de estanqueidade, devendo estar sujeitos a verificações periódicas do seu estado de conservação;
+
+c) Instalação de estações de tratamento de águas residuais urbanas ou industriais, que é permitida desde que as águas residuais sejam sujeitas a tratamento compatível com os objetivos fixados para o meio recetor, não podendo pôr em causa a qualidade da água para abastecimento público;
+
+d) Lagos e quaisquer obras ou escavações destinadas à recolha e armazenamento de água ou quaisquer substâncias suscetíveis de se infiltrarem, que podem ser permitidos desde que sejam devidamente impermeabilizados e a sua profundidade não intersete o nível freático, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desativadas;
+
+e) Oficinas, estações de serviço de automóveis, postos de abastecimento e áreas de serviço de combustíveis, são permitidos desde que:
+
+i) Seja garantida a impermeabilização do solo sob as zonas afetas à manutenção, reparação e circulação de automóveis, bem como as zonas de armazenamento de óleos e lubrificantes, devendo, em qualquer dos casos, ser garantida a recolha e ou o tratamento de efluentes e águas pluviais contaminadas;
+
+ii) Sejam implementados sistemas de controlo e deteção de fugas, no caso de depósitos enterrados de combustível;
+
+f) Depósitos de sucata, devendo nos depósitos existentes à data de entrada em vigor da presente portaria ser assegurada a impermeabilização do solo e a recolha e ou tratamento das águas de escorrência nas zonas de armazenamento;
+
+g) A pesquisa e captação de água subterrânea sujeitas a obtenção de título, nos termos do Decreto-Lei n.º 226-A/2007, de 31 de maio, a emitir pela APA, I. P.
+
+###### Artigo 5.º — Representação das zonas de proteção
+
+As zonas de proteção respeitantes aos perímetros de proteção das captações mencionadas no artigo 1.º, encontram-se representadas no anexo v à presente portaria, da qual faz parte integrante.
+
+###### Artigo 6.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+O Secretário de Estado do Ambiente, Carlos Manuel Martins, em 13 de outubro de 2016.
+
+## Anexo I — (a que se refere o n.º 2 do artigo 1.º)
+
+Coordenadas das captações
+
+| Captação | M (m) | P (m) |
+| --- | --- | --- |
+|  |  |  |
+| Poço Principal de Alagoa... | 6495,6 | 62631,9 |
+| Poço Secundário de Alagoa (Alagoa II)... | 6352,2 | 62574,4 |
+| Poço do Feijoal... | 3318,1 | 64688,7 |
+| Poço de Vila Cova de Alva I... | 16754,34 | 69026,71 |
+| Novo Poço de Alagoa (Alagoa IV)... | 6457,7 | 62624,6 |
+| Poço de Vila Cova de Alva II... | 16721,28 | 69021,08 |
+
+Nota. - As coordenadas das captações encontram-se no sistema de coordenadas EPSG 3763 (PT - TM06/ETRS89, origem no ponto central).
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 377/2023 - Diário da República n.º 222/2023, Série I de 2023-11-16](https://diariodarepublica.pt/dr/detalhe/portaria/377-2023-224366840), em vigor a partir de 2023-11-17
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 8/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/portaria/8-2022-177088818), em vigor a partir de 2022-01-05
+
+## Anexo II — (a que se refere o n.º 1 do artigo 2.º)
+
+Zonas de proteção imediata
+
+Poço Principal de Alagoa, Poço Secundário de Alagoa (Alagoa II) e Novo Poço de Alagoa
+
+(Alagoa IV)
+
+| Vértice | M (m) | P (m) |
+| --- | --- | --- |
+|  |  |  |
+| 1... | 6311,8 | 62595,6 |
+| 2... | 6535,4 | 62647,1 |
+| 3... | 6536,5 | 62615,0 |
+| 4... | 6523,0 | 62603,7 |
+| 5... | 6520,1 | 62600,2 |
+| 6... | 6523,2 | 62585,5 |
+| 7... | 6510,3 | 62552,2 |
+| 8... | 6408,6 | 62535,8 |
+| 9... | 6382,4 | 62525,6 |
+| 10... | 6363,6 | 62508,7 |
+
+Poço de Feijoal
+
+| Vértice | M (m) | P (m) |
+| --- | --- | --- |
+|  |  |  |
+| 1... | 3318,9 | 64690,7 |
+| 2... | 3333,9 | 64704,6 |
+| 3... | 3335,3 | 64703,6 |
+| 4... | 3320,1 | 64688,9 |
+| 5... | 3319,6 | 64687,5 |
+| 6... | 3318,0 | 64686,9 |
+| 7... | 3316,7 | 64687,3 |
+| 8... | 3316,4 | 64689,0 |
+| 9... | 3317,2 | 64690,0 |
+
+Poço de Vila Cova de Alva I e Poço de Vila Cova de Alva II
+
+| Vértice | M (m) | P (m) |
+| --- | --- | --- |
+|  |  |  |
+| 1... | 16695,19 | 69026,19 |
+| 2... | 16773,18 | 69045,63 |
+| 3... | 16776,35 | 69028,93 |
+| 4... | 16775,04 | 69016,91 |
+| 5... | 16764,54 | 69008,79 |
+| 6... | 16770,57 | 68991,39 |
+| 7... | 16761,95 | 68988,64 |
+| 8... | 16722,97 | 68979,67 |
+
+Nota. - As coordenadas dos vértices encontram-se no sistema de coordenadas EPSG 3763 (PT - TM06/ETRS89, origem no ponto central).
+
+## ANEXO III
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 377/2023 - Diário da República n.º 222/2023, Série I de 2023-11-16](https://diariodarepublica.pt/dr/detalhe/portaria/377-2023-224366840), em vigor a partir de 2023-11-17
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 8/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/portaria/8-2022-177088818), em vigor a partir de 2022-01-05
+
+## Anexo III — (a que se refere o n.º 1 do artigo 3.º)
+
+Zonas de proteção intermédia
+
+Poço Principal de Alagoa, Poço Secundário de Alagoa (Alagoa II) e Novo Poço de Alagoa
+
+(Alagoa IV)
+
+| Vértice | M (m) | P (m) |
+| --- | --- | --- |
+|  |  |  |
+| 11... | 6215,4 | 62600,0 |
+| 12... | 6535,1 | 62654,9 |
+| 13... | 6700,2 | 62624,1 |
+| 14... | 6770,8 | 62519,0 |
+| 15... | 6697,4 | 62439,7 |
+| 16... | 6389,9 | 62356,4 |
+
+Poço de Feijoal
+
+| Vértice | M (m) | P (m) |
+| --- | --- | --- |
+|  |  |  |
+| 10... | 3138,4 | 64688,7 |
+| 11... | 3162,7 | 64663,3 |
+| 12... | 3199,8 | 64647,5 |
+| 13... | 3232,0 | 64646,4 |
+| 14... | 3275,4 | 64641,7 |
+| 15... | 3317,8 | 64631,1 |
+| 16... | 3363,8 | 64616,8 |
+| 17... | 3409,3 | 64610,4 |
+| 18... | 3459,1 | 64589,3 |
+| 19... | 3482,6 | 64560,7 |
+| 20... | 3437,4 | 64559,9 |
+| 21... | 3365,1 | 64571,8 |
+| 22... | 3302,4 | 64586,9 |
+| 23... | 3215,1 | 64592,4 |
+| 24... | 3177,8 | 64599,6 |
+| 25... | 3150,8 | 64621,8 |
+| 26... | 3138,9 | 64648,0 |
+| 27... | 3088,6 | 64818,7 |
+| 28... | 2951,1 | 64947,8 |
+| 29... | 2914,0 | 65174,3 |
+| 30... | 2886,5 | 65319,3 |
+| 31... | 2821,4 | 65596,0 |
+| 32... | 2980,2 | 65633,0 |
+| 33... | 3115,1 | 65447,8 |
+| 34... | 3273,9 | 65262,6 |
+| 35... | 3358,5 | 65103,9 |
+| 36... | 3485,5 | 65021,9 |
+| 37... | 3620,5 | 64839,3 |
+| 38... | 3567,5 | 64561,5 |
+| 39... | 3510,9 | 64597,7 |
+| 40... | 3441,9 | 64644,6 |
+| 41... | 3364,1 | 64669,2 |
+| 42... | 3256,9 | 64681,1 |
+| 43... | 3210,1 | 64693,0 |
+| 44... | 3176,7 | 64712,0 |
+| 45... | 3160,1 | 64755,7 |
+| 46... | 3133,9 | 64782,7 |
+| 47... | 3113,2 | 64797,0 |
+
+Poço de Vila Cova de Alva I e Poço de Vila Cova de Alva II
+
+| Vértice | M (m) | P (m) |
+| --- | --- | --- |
+|  |  |  |
+| 9... | 16640,53 | 69052,99 |
+| 10... | 16853,91 | 69075,67 |
+| 11... | 16981,38 | 69109,27 |
+| 12... | 17007,14 | 68998,29 |
+| 13... | 16759,80 | 68953,31 |
+
+Nota. - As coordenadas dos vértices encontram-se no sistema de coordenadas EPSG 3763 (PT - TM06/ETRS89, origem no ponto central).
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 377/2023 - Diário da República n.º 222/2023, Série I de 2023-11-16](https://diariodarepublica.pt/dr/detalhe/portaria/377-2023-224366840), em vigor a partir de 2023-11-17
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 8/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/portaria/8-2022-177088818), em vigor a partir de 2022-01-05
+
+## Anexo IV — (a que se refere o n.º 1 do artigo 4.º)
+
+Zonas de proteção alargada
+
+Poço Principal de Alagoa, Poço Secundário de Alagoa (Alagoa II) e Novo Poço de Alagoa (Alagoa IV)
+
+| Vértice | M (m) | P (m) |
+| --- | --- | --- |
+|  |  |  |
+| 17... | 6339,8 | 62837,3 |
+| 18... | 6660,6 | 62821,8 |
+| 19... | 6866,553 | 63079,2 |
+| 20... | 6952,8 | 63013,3 |
+| 21... | 7063,8 | 62481,1 |
+| 22... | 6772,1 | 62305,2 |
+| 23... | 6658,7 | 62135,3 |
+| 24... | 6743,4 | 61741,3 |
+| 25... | 6634,7 | 61669,6 |
+| 26... | 5973,3 | 62770,0 |
+
+Poço de Feijoal
+
+| Vértice | M (m) | P (m) |
+| --- | --- | --- |
+|  |  |  |
+| 48 ... | 3138,4 | 64688,7 |
+| 49 ... | 3162,7 | 64663,3 |
+| 50 ... | 3199,8 | 64647,5 |
+| 51 ... | 3232,0 | 64646,4 |
+| 52 ... | 3275,4 | 64641,7 |
+| 53 ... | 3317,8 | 64631,1 |
+| 54 ... | 3363,8 | 64616,8 |
+| 55 ... | 3409,3 | 64610,4 |
+| 56 ... | 3459,1 | 64589,3 |
+| 57 ... | 3482,6 | 64560,7 |
+| 58 ... | 3437,4 | 64559,9 |
+| 59 ... | 3365,1 | 64571,8 |
+| 60 ... | 3302,4 | 64586,9 |
+| 61 ... | 3215,1 | 64592,4 |
+| 62 ... | 3177,8 | 64599,6 |
+| 63 ... | 3150,8 | 64621,8 |
+| 64 ... | 3138,9 | 64648,0 |
+| 65 ... | 3088,6 | 64818,7 |
+| 66 ... | 2951,1 | 64947,8 |
+| 67 ... | 2914,0 | 65174,3 |
+| 68 ... | 2886,5 | 65319,3 |
+| 69 ... | 2821,4 | 65596,0 |
+| 70 ... | 2980,2 | 65633,0 |
+| 71 ... | 3115,1 | 65447,8 |
+| 72 ... | 3273,9 | 65262,6 |
+| 73 ... | 3358,5 | 65103,9 |
+| 74 ... | 3485,5 | 65021,9 |
+| 75 ... | 3620,5 | 64839,3 |
+| 76 ... | 3567,5 | 64561,5 |
+| 77 ... | 3510,9 | 64597,7 |
+| 78 ... | 3441,9 | 64644,6 |
+| 79 ... | 3364,1 | 64669,2 |
+| 80 ... | 3256,9 | 64681,1 |
+| 81 ... | 3210,1 | 64693,0 |
+| 82 ... | 3176,7 | 64712,0 |
+| 83 ... | 3160,1 | 64755,7 |
+| 84 ... | 3133,9 | 64782,7 |
+| 85 ... | 3113,2 | 64797,0 |
+
+Poço de Vila Cova de Alva I e Poço de Vila Cova de Alva II
+
+| Vértice | M (m) | P (m) |
+| --- | --- | --- |
+|  |  |  |
+| 14 ... | 16615,85 | 69064,04 |
+| 15 ... | 16845,21 | 69164,48 |
+| 16 ... | 17423,24 | 69243,53 |
+| 17 ... | 17762,54 | 69588,55 |
+| 18 ... | 17924,43 | 69444,58 |
+| 19 ... | 17746,45 | 69199,86 |
+| 20 ... | 17670,42 | 68988,71 |
+| 21 ... | 17262,27 | 68987,76 |
+| 22 ... | 16777,78 | 68897,83 |
+| 23 ... | 16641,53 | 68986,36 |
+
+Nota. - As coordenadas dos vértices encontram-se no sistema de coordenadas EPSG 3763 (PT - TM06/ETRS89, origem no ponto central).
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 377/2023 - Diário da República n.º 222/2023, Série I de 2023-11-16](https://diariodarepublica.pt/dr/detalhe/portaria/377-2023-224366840), em vigor a partir de 2023-11-17
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 8/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/portaria/8-2022-177088818), em vigor a partir de 2022-01-05
+
+## Anexo V — (a que se refere o artigo 5.º)
+
+Plantas com a representação das zonas de proteção
+
+Base: Extrato da Carta Militar de Portugal - 1:25000 (IGeoE)
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366840/224368735.png) |
+| --- |
+
+Poço Principal de Alagoa, Poço Secundário de Alagoa (Alagoa II) e Novo Poço de Alagoa (Alagoa IV)
+
+Poço do Feijoal
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366840/224368736.png) |
+| --- |
+
+Poço de Vila Cova de Alva I e Poço de Vila Cova de Alva II
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/224366840/224368737.png) |
+| --- |
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 377/2023 - Diário da República n.º 222/2023, Série I de 2023-11-16](https://diariodarepublica.pt/dr/detalhe/portaria/377-2023-224366840), em vigor a partir de 2023-11-17
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 8/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/portaria/8-2022-177088818), em vigor a partir de 2022-01-05

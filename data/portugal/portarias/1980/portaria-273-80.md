@@ -1,0 +1,222 @@
+---
+schema_version: '1.0'
+id: pt:dre:474174:por
+title: Portaria n.º 273/80
+short_title: null
+summary: Aprova o Regulamento das Provas de Selecção de Chefes de Repartição de Finanças de 2.ª Classe e Adjuntos de Chefes
+  de Repartição de Finanças de 1.ª Classe
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério das Finanças e do Plano
+proposing_entity: null
+official_number: 273/80
+official_date: null
+publication_date: '1980-05-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 118/1980, Série I de 1980-05-22
+  number: '118'
+  series: I
+  supplement: null
+  pages: 1105 - 1106
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/05/11800/11051106.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '474174'
+  dre_path: /dr/detalhe/portaria/273-1980-474174
+  internal: pt:dre:474174:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/273-1980-474174
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/273-1980-474174
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:16:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b5a3efd21e83f03b6f5e49ce805287a89020d1914101b3231a028de449a5fdb8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:16:13Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral das Contribuições e Impostos
+- Pessoal de Chefia
+- Promoção Profissional
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:326736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382439:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:16:13Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 273/80
+
+de 22 de Maio
+
+Nos termos previstos no artigo 38.º do [Decreto-Lei n.º 363/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1978-326736), de 28 de Novembro, a aprovação dos regulamentos das provas selectivas visando a admissão e a promoção de funcionários da Direcção-Geral das Contribuições e Impostos compete ao Ministro das Finanças e do Plano e ao membro do Governo que tiver a seu cargo a Administração Pública.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano e pelo Secretário de Estado da Reforma Administrativa, o seguinte:
+
+Aprovar o Regulamento das Provas de Selecção de Chefes de Repartição de Finanças de 2.ª Classe e adjuntos de chefes de Repartição de Finanças de 1.ª Classe, anexo à presente portaria.
+
+Presidência do Conselho de Ministros e Ministério das Finanças e do Plano, 12 de Maio de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.
+
+Regulamento das Provas de Selecção de Chefes de Repartição de Finanças de 2.ª Classe e Adjuntos de Chefes de Repartição de Finanças de 1.ª Classe.
+
+I
+
+Da admissão às provas de selecção
+
+1 - São admitidos às provas de selecção para os cargos de chefes de repartição de finanças de 2.ª classe e adjuntos de chefes de repartição de finanças de 1.ª classe os funcionários que reúnam as condições previstas na alínea b) do artigo 63.º do [Decreto Regulamentar n.º 12/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1979-382439), de 16 de Abril.
+
+2 - A realização das provas de selecção referidas no número anterior será autorizada por despacho do Secretário de Estado do Orçamento, mediante proposta do director-geral, e os candidatos terão o prazo de quinze dias a contar da publicação do correspondente aviso no Diário da República para apresentarem, em qualquer serviço da Direcção-Geral, requerimento, dirigido ao director-geral, solicitando a admissão às provas.
+
+3 - Após a organização dos processos pelos competentes serviços da Direcção de Serviços de Administração Geral, será enviada para publicação no Diário da República a lista dos candidatos admitidos e excluídos.
+
+4 - No caso dos candidatos excluídos, serão indicados, na lista a que se refere o número anterior, os motivos da exclusão.
+
+5 - Da decisão sobre a exclusão das provas poderá o interessado reclamar para o director-geral, no prazo de cinco dias a contar da data da publicação da lista, mediante requerimento em que exponha os fundamentos da reclamação.
+
+6 - Da decisão sobre a reclamação será o interessado notificado pelos serviços referidos no n.º 3.
+
+7 - Findas as operações relativas à admissão, será publicado no Diário da República aviso do qual conste o local e o calendário das provas.
+
+II
+
+Das provas de selecção
+
+8 - A selecção constará de duas provas escritas, a realizar em dias sucessivos ou alternados, e de provas orais.
+
+9 - As provas escritas, com a duração máxima de três horas cada uma, incidirão sobre os seguintes impostos:
+
+Primeiro dia:
+
+Impostos sobre o património (imposto sobre as sucessões e doações, sisa e imposto de mais-valias);
+
+Impostos sobre a despesa (imposto de transacções, imposto do selo e imposto sobre veículos).
+
+Segundo dia:
+
+Impostos sobre o rendimento (contribuição predial, contribuição industrial - incluindo o imposto de mais-valias, que com esta contribuição é liquidado -, imposto de capitais, imposto profissional e imposto complementar);
+
+Código de Processo das Contribuições e Impostos.
+
+10 - No início da prova do primeiro dia, o júri indicará o imposto ou impostos sobre o rendimento incluídos na prova do segundo dia.
+
+11 - Para a resolução das provas os candidatos poderão servir-se dos elementos de consulta de que necessitarem, não só dos que sejam postos à sua disposição como ainda daqueles de que sejam portadores.
+
+12 - As provas escritas serão de índole prática e terão em vista a avaliação de conhecimentos dos candidatos no domínio da administração fiscal, bem como as suas capacidades para resolverem problemas concretos de natureza técnico-tributária.
+
+13 - As provas orais constarão de interrogatórios orientados pelos vogais do júri, ou pelo presidente, durante o período máximo de quarenta e cinco minutos, centrados sobre o programa das provas escritas, bem como sobre a organização e o funcionamento dos serviços da Direcção-Geral.
+
+14 - O júri providenciará para que as provas escritas sejam classificadas sob anonimato.
+
+III
+
+Da classificação das provas
+
+15 - Cada prova escrita será valorizada de 0 a 20 valores, consoante os conhecimentos e qualificações revelados através das soluções encontradas para os problemas apresentados.
+
+16 - As provas escritas serão analisadas e classificadas por todos os vogais do júri de modo que cada um desconheça a valorização atribuída pelos outros à mesma prova, sendo a valorização final de cada uma das provas a média dos valores atribuídos pelos diferentes vogais.
+
+17 - No caso de haver uma diferença superior a dois valores relativamente à mesma prova escrita será esta revista em reunião de todos os membros do júri, os quais decidirão sobre a classificação final da prova em causa.
+
+18 - A valorização das provas escritas será a média das notas obtidas em cada prova, nos termos do n.º 16.
+
+19 - São admitidos às provas orais os candidatos que obtiverem nas provas escritas média igual ou superior a 10 valores, sendo excluídos os que não alcançarem aquela média, bem como os que, independentemente da mesma, tenham nota igual ou inferior a 5 valores em qualquer das provas escritas.
+
+20 - Das decisões sobre a admissão às provas orais podem os candidatos excluídos nas provas escritas reclamar, no prazo de cinco dias a contar da data da publicação da lista no Diário da República, mediante requerimento, dirigido ao director-geral, em que exponham os fundamentos da reclamação.
+
+21 - No caso de haver reclamações, as provas serão revistas por todos os membros do júri em reunião a que poderão estar presentes os reclamantes.
+
+22 - Das decisões sobre as reclamações serão notificados os interessados.
+
+23 - Sendo atendida qualquer reclamação, será enviada para publicação no Diário da República, no prazo de cinco dias a contar da decisão, a respectiva rectificação da lista.
+
+24 - As provas orais serão valorizadas de 0 a 20 valores, consoante a profundidade e extensão dos conhecimentos sobre legislação e técnica fiscal revelados pelos candidatos e as aptidões demonstradas pelos mesmos, designadamente quanto à capacidade de análise crítica e de elaboração de síntese, ao desenvolvimento de ideias e à precisão na formulação de conceitos, bem como no que se refere à clareza e facilidade de expressão.
+
+25 - A valorização das provas orais será a média das notas atribuídas pelos diferentes vogais do júri.
+
+26 - A classificação dos candidatos será a média das notas obtidas nas provas escritas e nas provas orais.
+
+IV
+
+Da graduação final dos candidatos
+
+27 - A graduação final dos candidatos será feita nos termos previstos no artigo 70.º do [Decreto Regulamentar n.º 12/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1979-382439), de 16 de Abril.
+
+28 - A nota a que se refere a alínea a) do n.º 1 do preceito legal mencionado no número anterior será a correspondente à classificação obtida pelos candidatos, nos termos do n.º 27.
+
+29 - Serão excluídos os candidatos cuja nota final, determinada com base nos números anteriores, seja inferior a 10 valores.
+
+V
+
+Do júri
+
+30 - O júri será constituído pelo director-geral, ou seu representante, que presidirá, e ainda por dois vogais, a designar por despacho do Secretário de Estado do Orçamento, com a qualificação de administrador tributário.
+
+31 - O júri só poderá decidir estando presentes todos os seus membros, tendo o presidente voto de qualidade.
+
+32 - Das reuniões do júri serão lavradas actas.
+
+VI
+
+Das faltas às provas
+
+33 - Os candidatos que por motivos de força maior não compareçam às provas, desde que o requeiram no prazo de três dias após a realização da primeira prova a que faltarem, poderão ser autorizados a prestá-las em data a indicar pelo presidente do júri, até ao último dia marcado para a realização das provas orais.
+
+34 - Tratando-se de doença devidamente comprovada por atestado médico, os interessados deverão comunicar ao júri, por escrito, o fim da mesma, desde que aquela ocorra antes do termo da validade do atestado, de acordo com o regime de faltas aplicável à função pública, porém sem prejuízo do disposto no número anterior.
+
+VII
+
+Da resolução de dúvidas
+
+35 - As dúvidas que surgirem na aplicação do presente regulamento serão resolvidas por despacho do Secretário de Estado do Orçamento.
+
+O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva.

@@ -1,0 +1,156 @@
+---
+schema_version: '1.0'
+id: pt:dre:532437:por
+title: Resolução do Conselho de Ministros n.º 70/2003
+short_title: null
+summary: Define as orientações estratégicas relativas à privatização da Enatur, Empresa Nacional de Turismo, S. A.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 70/2003
+official_date: null
+publication_date: '2003-05-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 111/2003, Série I-B de 2003-05-14
+  number: '111'
+  series: I
+  supplement: null
+  pages: 3068 - 3069
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/05/111b00/30683069.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/70/2003/05/14/p/dre/pt/html
+  oj: null
+  dre: '532437'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/70-2003-532437
+  internal: pt:dre:532437:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/70-2003-532437
+  metadata_url: https://data.dre.pt/eli/resolconsmin/70/2003/05/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/70-2003-532437
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:48:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2751127c91ebb166a811fc3178776e3cd4ca07e630d92a68782eef2b35cf497a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:48:38Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alienação de BENS
+- Alienação de Participações do Estado
+- Contrato de Cessão
+- Definição de Competências
+- Direcção Geral do Tesouro
+- Enatur
+- Instituto de Financiamento e Apoio ao Turismo
+- Parpública
+- Privatização
+- Setor Empresarial do Estado
+- SGPS
+- Sociedade Anónima
+- Turismo
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/70/2002/04/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/70/2002/04/09/p/dre
+- type: cites
+  target: pt:dre:302877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/558/1999/12/17/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:48:38Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 70/2003
+
+No âmbito da orientação estratégica contida na [Resolução do Conselho de Ministros n.º 70/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/70-2002-302877), de 6 de Agosto, publicada no Diário da República, 2.ª série, de 29 de Agosto de 2002, relativa à extinção do IPE, Investimentos e Participações do Estado, S. A., a participação que aquela sociedade detinha na Enatur, Empresa Nacional de Turismo, S. A., foi transferida para a Parpública, S. A., através do despacho conjunto n.º 201/2003, de 15 de Janeiro, da Ministra de Estado e das Finanças e do Ministro da Economia, e foi determinado prosseguir a estratégia de alienação do capital social da Enatur, complementada com a celebração de um contrato de cessão de exploração da empresa.
+
+Tendo presente a resolução e o despacho supramencionados, bem como os trabalhos entretanto efectuados, cabe agora ao Governo determinar, através de uma orientação estratégica nos termos do n.º 1 do artigo 11.º do [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de Dezembro, que se proceda à venda da participação minoritária, de 37,6%, detida pela Parpública na Enatur, bem como à selecção da entidade privada com a qual será celebrado o contrato de cessão de exploração da rede Pousadas de Portugal. Tendo em vista a situação da Enatur, é igualmente necessário que a entidade privada seleccionada se vincule à subscrição de um aumento de capital social da Enatur que eleve a participação social da nova accionista até 49%.
+
+Assim, perante os contornos da presente operação de privatização e não estando projectada qualquer fase subsequente de privatização, não se prevê a perda da posição maioritária do Estado no capital social da Enatur.
+
+De acordo com o estipulado no artigo 3.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio, uma vez que se trata de uma participação minoritária, a alienação pode ser feita através de negociação particular, devendo a entidade alienante negociar autonomamente as acções em causa.
+
+Quanto ao contrato de cessão de exploração da rede Pousadas de Portugal, deve o mesmo salvaguardar os interesses do Estado, nomeadamente no que diz respeito à conservação dos monumentos nacionais àquela afectos e do respectivo património móvel, que fazem parte do domínio público, atendendo à importância que tais bens possuem para a história e para a cultura de Portugal. Ao mesmo tempo, o contrato deve permitir à entidade privada seleccionada, durante o período de exploração que lhe for atribuído, desenvolver as potencialidades da rede Pousadas de Portugal, melhorando a sua capacidade de atracção de turistas, portugueses e estrangeiros.
+
+Por outro lado, vindo a confluir na pessoa do seleccionado a dupla qualidade de cessionário da exploração da rede Pousadas de Portugal e accionista da Enatur, convirá regular, em sede de acordo parassocial, as relações entre este e os demais titulares de capital da Enatur, isto é, o Estado, através da Direcção-Geral do Tesouro, e o IFT - Instituto de Financiamento e Apoio ao Turismo.
+
+Dada a ligação e interdependência entre o processo de venda da participação minoritária, a negociação do contrato de cessão de exploração e a celebração do referido acordo de accionistas, afigura-se imprescindível que o mesmo seja conduzido sob a mesma direcção.
+
+Em execução desta orientação estratégica, devem a Parpública, SGPS, S. A., a Enatur, o IFT e a Direcção-Geral do Tesouro nomear um único representante para todos os actos e contratos necessários à prossecução destes objectivos.
+
+Assim:
+
+Ao abrigo do artigo 3.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio, e do artigo 11.º do [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de Dezembro, e nos temos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Assumir como orientação estratégica do Governo no quadro da função accionista pública da Parpública, SGPS, S. A., a alienação da participação minoritária de 37,6% que esta sociedade detém na Enatur, Empresa Nacional de Turismo, S. A., e a celebração por esta última sociedade de um contrato de cessão de exploração da rede Pousadas de Portugal.
+
+2 - Determinar que cabe à Parpública, SGPS, S. A., mandatar a Enatur, Empresa Nacional de Turismo, S. A., para que promova a selecção de uma entidade privada com a qual será celebrado, conjuntamente com o contrato de cessão de exploração da rede Pousadas de Portugal referido no número anterior, o contrato de compra e venda da totalidade da participação minoritária actualmente detida pela Parpública na Enatur.
+
+3 - Determinar que os contratos mencionados no número anterior deverão salvaguardar os interesses do Estado em todas as suas vertentes, designadamente no que diz respeito à conservação dos monumentos nacionais afectos à actividade da Enatur e do respectivo património móvel, que fazem parte do domínio público, atendendo à importância que tais bens possuem para a história a para a cultura de Portugal.
+
+4 - Estabelecer que, em execução da orientação estratégica acima enunciada, cabe à Enatur:
+
+4.1 - Promover a selecção de uma entidade privada com a qual será celebrado um contrato de cessão de exploração da rede Pousadas de Portugal e de venda da totalidade da participação minoritária que a Parpública presentemente detém na Enatur;
+
+4.2 - Aprovar os respectivos termos de referência a que obedecerá o processo de selecção e os documentos contratuais que se mostrem adequados;
+
+4.3 - Promover, por via da convocação da respectiva assembleia geral, a deliberação dos accionistas da Enatur no sentido de proceder ao aumento do capital social da própria sociedade, a ser exclusivamente subscrito pela entidade com a qual vier a ser celebrado o contrato de cessão de exploração da rede Pousadas de Portugal e de venda da mencionada participação da Parpública na Enatur, até ao limite de 49% do capital social que vier a resultar daquele aumento e realizado pelo valor, incluindo o respectivo ágio, se a ele houver lugar, correspondente ao preço de aquisição das acções da Enatur que lhe serão vendidas pela Parpública.
+
+5 - Determinar que cabe ao IFT - Instituto de Financiamento e Apoio ao Turismo e à Direcção-Geral do Tesouro proceder à celebração de um acordo parassocial entre os accionistas da Enatur na sequência do processo de alienação objecto desta resolução, com vista a regular a respectiva relação accionista com respeito à Enatur, que, na salvaguarda do interesse público e do necessário equilíbrio contratual entre as partes, defina condições de estabilidade e de transparência para o desenvolvimento dos objectivos da Enatur.
+
+6 - Assumir como orientação estratégica do Governo que a interligação dos processos de venda da participação minoritária na Enatur, da negociação do contrato de cessão de exploração e da celebração de um acordo parassocial que regule as relações entre os accionistas da Enatur seja assegurada por forma coerente e eficaz, sob a mesma direcção.
+
+7 - Estabelecer que, em execução do disposto nos números anteriores, a direcção do presente processo seja assegurada pelo responsável do projecto nomeado nos termos do n.º 3 do despacho conjunto n.º 201/2003, de 15 de Janeiro, da Ministra de Estado e das Finanças e do Ministro da Economia, que, para o efeito actuará como representante conjunto da Enatur, da Direcção-Geral do Tesouro e do IFT - Instituto de Financiamento e Apoio ao Turismo.
+
+8 - Ratificar todos os actos até aqui praticados com vista à prossecução do definido na presente resolução.
+
+Presidência do Conselho de Ministros, 24 de Abril de 2003. - O Primeiro-Ministro, José Manuel Durão Barroso.

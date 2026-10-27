@@ -1,0 +1,730 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:218486:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-886820535",
+ "dre_path": "/dr/detalhe/decreto-lei/43-1998-218486",
+ "source_lastmod": "2024-09-04",
+ "versions": [
+  {
+   "date": "1998-03-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "886820414",
+    "886820415",
+    "886820416",
+    "886820417",
+    "886820418",
+    "886820419",
+    "886820420",
+    "886820421",
+    "886820423",
+    "886820424",
+    "886820425",
+    "886820426",
+    "886820427",
+    "886820428",
+    "886820429",
+    "886820430",
+    "886820431",
+    "886820432",
+    "886820433",
+    "886820434",
+    "886820435",
+    "886820436",
+    "886820437",
+    "886820438",
+    "886820439",
+    "886820440",
+    "886820441",
+    "886820442",
+    "886820443",
+    "886820444",
+    "886820445",
+    "886820446",
+    "886820447",
+    "886820448",
+    "886820449",
+    "886820450",
+    "886820451",
+    "886820452",
+    "886820453",
+    "886820454",
+    "886820455",
+    "886820456",
+    "886820457",
+    "886820458",
+    "886820459"
+   ]
+  },
+  {
+   "date": "1999-11-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:682986:por",
+     "title": "Decreto-Lei n.º 472/99",
+     "published": "1999-11-08",
+     "dre_path": "/dr/detalhe/decreto-lei/472-1999-682986"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "886820414",
+    "886820415",
+    "886820416",
+    "886820417",
+    "886820418",
+    "886820419",
+    "886820420",
+    "886820421",
+    "886820422",
+    "886820423",
+    "886820424",
+    "886820425",
+    "886820426",
+    "886820427",
+    "886820428",
+    "886820429",
+    "886820430",
+    "886820431",
+    "886820432",
+    "886820433",
+    "886820434",
+    "886820435",
+    "886820436",
+    "886820437",
+    "886820438",
+    "886930340",
+    "886820440",
+    "886930341",
+    "886820442",
+    "886820443",
+    "886820444",
+    "886820445",
+    "886820446",
+    "886820447",
+    "886820448",
+    "886820449",
+    "886820450",
+    "886820451",
+    "886930342",
+    "886820453",
+    "886820454",
+    "886930343",
+    "886820456",
+    "886930344",
+    "886820458",
+    "886820459"
+   ]
+  },
+  {
+   "date": "2012-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:243769:por",
+     "title": "Lei n.º 64-B/2011",
+     "published": "2011-12-30",
+     "dre_path": "/dr/detalhe/lei/64-b-2011-243769"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "886820414",
+    "886820415",
+    "886820416",
+    "886820417",
+    "886820418",
+    "886820419",
+    "886820420",
+    "886820421",
+    "886820422",
+    "886820423",
+    "886820424",
+    "886820425",
+    "887067114",
+    "887067117",
+    "886820428",
+    "886820429",
+    "886820430",
+    "886820431",
+    "887067119",
+    "886820433",
+    "886820434",
+    "886820435",
+    "886820436",
+    "886820437",
+    "886820438",
+    "886930340",
+    "886820440",
+    "886930341",
+    "886820442",
+    "886820443",
+    "886820444",
+    "886820445",
+    "886820446",
+    "886820447",
+    "886820448",
+    "886820449",
+    "886820450",
+    "886820451",
+    "886930342",
+    "886820453",
+    "886820454",
+    "887060162",
+    "886820456",
+    "886930344",
+    "886820458",
+    "886820459"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632448:por",
+     "title": "Lei n.º 66-B/2012",
+     "published": "2012-12-31",
+     "dre_path": "/dr/detalhe/lei/66-b-2012-632448"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 27.º"
+   ],
+   "fragments": [
+    "886820414",
+    "886820415",
+    "886820416",
+    "886820417",
+    "886820418",
+    "886820419",
+    "886820420",
+    "886820421",
+    "886820422",
+    "886820423",
+    "886820424",
+    "886820425",
+    "887067114",
+    "887067117",
+    "886820428",
+    "886820429",
+    "886820430",
+    "886820431",
+    "887067119",
+    "886820433",
+    "886820434",
+    "886820435",
+    "886820436",
+    "886820437",
+    "886820438",
+    "886930340",
+    "886820440",
+    "886930341",
+    "886820442",
+    "886820443",
+    "886820444",
+    "886820445",
+    "886820446",
+    "886820447",
+    "886820448",
+    "886820449",
+    "886820450",
+    "886820451",
+    "886930342",
+    "886820453",
+    "886820454",
+    "887060162",
+    "886820456",
+    "887067142",
+    "886820458",
+    "886820459"
+   ]
+  }
+ ],
+ "fragments": {
+  "886820414": {
+   "fragment_id": "886820536",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 43/98\n\nde 3 de Março\n\nOs investimentos efectuados ou a efectuar para a realização da CRIL, CREL, CRIP, CREP e respectivos acessos e da travessia ferroviária do Tejo, troços ferroviários complementares, bem como as extensões do metropolitano de Lisboa e a concretização de sistemas ferroviários ligeiros, vêm valorizar, substancialmente, os prédios rústicos e os terrenos para construção envolventes.\n\nTal valorização justifica a criação de uma contribuição especial, nos termos já adoptados, em caso de obras públicas de elevados custos, nas zonas beneficiadas com o respectivo empreendimento.\n\nRelativamente à CREP, foram consideradas, nesta fase, as intersecções já definidas, correspondentes à parte do seu traçado já projectado.\n\nCom o propósito de evitar sobreposição de tributação sobre as áreas abrangidas pela contribuição ora criada, consagra-se a exclusão de incidência de qualquer encargo de mais-valia ou de outra contribuição especial.\n\nNesse sentido, deixam de estar abrangidas pelo Decreto-Lei n.º 54/95, de 22 de Março, as áreas da freguesia de Marvila, do município de Lisboa, e das freguesias da Portela de Sacavém e de Sacavém, do município de Loures, passando a incluir-se no presente diploma.\n\nPor forma a neutralizar os efeitos da referida alteração, assegura-se a transferência para a Sociedade Parque EXPO 98, S. A., de montante igual ao que lhe é atribuído actualmente.\n\nFoi ouvida a Associação Nacional de Municípios.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelo artigo 34.º da Lei n.º 52-C/96, de 27 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "886820415": {
+   "fragment_id": "886820537",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovado o Regulamento da Contribuição Especial, anexo ao presente diploma e que dele faz parte integrante."
+  },
+  "886820416": {
+   "fragment_id": "886820538",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs modelos de impressos exigidos para dar cumprimento às obrigações impostas pelo Regulamento referido no número anterior serão aprovados por portaria do Ministro das Finanças."
+  },
+  "886820417": {
+   "fragment_id": "886820539",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA administração da contribuição a que se refere o presente diploma cabe à Direcção-Geral dos Impostos (DGCI)."
+  },
+  "886820418": {
+   "fragment_id": "886820540",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - A contribuição especial criada nos termos do presente diploma constitui receita do Estado e tem uma duração de 20 anos.\n\n2 - Anualmente será transferido para os municípios das áreas em que for cobrada contribuição especial um montante equivalente a 30% do que aí for cobrado, salvo o disposto no n.º 3.\n\n3 - A cobrança da contribuição especial incidente sobre os bens situados na área da freguesia de Marvila, do município de Lisboa, e das freguesias da Portela de Sacavém e de Sacavém, do município de Loures, será anualmente transferida para as seguintes entidades, na proporção que vai indicada:\n\na) Para a Sociedade Parque EXPO 98, S. A., um montante equivalente a duas terças partes;\n\nb) Para os municípios de Lisboa e Loures, um montante equivalente a 30% da outra terça parte cobrada na respectiva área municipal.\n\n4 - Será apenas transferida para a Sociedade Parque EXPO 98, S. A., a cobrança referida no número anterior correspondente à contribuição que for devida durante a vigência do Decreto-Lei n.º 54/95, de 22 de Março."
+  },
+  "886820419": {
+   "fragment_id": "886820541",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nSobre as áreas abrangidas pela contribuição especial criada nos termos do presente diploma não incidirá qualquer encargo de mais-valia ou qualquer outra contribuição especial."
+  },
+  "886820420": {
+   "fragment_id": "886820542",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO artigo 4.º do Decreto-Lei n.º 54/95, de 22 de Março, passa a ter a seguinte redacção:\n\n«Artigo 4.º\n\n1 - ...\n\n2 - Anualmente será transferido para a Sociedade Parque EXPO 98, S. A., um montante equivalente ao da receita cobrada na área das freguesias de Santa Maria dos Olivais, do município de Lisboa, e de Moscavide, do município de Loures.»"
+  },
+  "886820421": {
+   "fragment_id": "886820543",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs artigos 1.º e 10.º do Regulamento da Contribuição Especial, aprovado pelo Decreto-Lei n.º 54/95, de 22 de Março, passam a ter a seguinte redacção:\n\n«Artigo 1.º\n\n1 - A contribuição especial incide sobre o aumento de valor dos prédios rústicos, resultante da possibilidade da sua utilização como terrenos para construção urbana, situados na área não incluída na zona de intervenção da EXPO 98, definida na planta anexa ao Decreto-Lei n.º 87/93, de 23 de Março, da freguesia de Santa Maria dos Olivais, do município de Lisboa, e da freguesia de Moscavide, do município de Loures.\n\n2 - ...\n\n3 - ...\n\nArtigo 10.º\n\nA taxa da contribuição é de 30%.»"
+  },
+  "886820423": {
+   "fragment_id": "886820545",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DA CONTRIBUIÇÃO ESPECIAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DA CONTRIBUIÇÃO ESPECIAL"
+  },
+  "886820424": {
+   "fragment_id": "886820546",
+   "type": 1,
+   "heading": "Capítulo I — Incidência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Incidência"
+  },
+  "886820425": {
+   "fragment_id": "886820547",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - A contribuição especial incide sobre o aumento de valor dos prédios rústicos, resultante da possibilidade da sua utilização como terrenos para construção urbana, situados na área das seguintes freguesias:\n\na) Com maior percentagem de área beneficiada:\n\n1) Cova da Piedade, Feijó e Pragal, do município de Almada;\n\n2) Brandoa, Buraca, Falagueira-Venda Nova e Mina, do município da Amadora;\n\n3) Alto do Pina, Ameixoeira, Lumiar e Marvila, do município de Lisboa;\n\n4) Olival Basto, Portela, Póvoa de Santo Adrião, Prior Velho, Ramada, Sacavém e Santo Antão do Tojal, do município de Loures;\n\n5) Avioso (São Pedro), Barca, Gondim, Maia, Moreira, São Pedro Fins, Silva Escura, Vila Nova da Telha e Vermoim, do município da Maia;\n\n6) Custóias, Guifões, Leça da Palmeira, Matosinhos, Perafita, Senhora da Hora e Santa Cruz do Bispo, do município de Matosinhos;\n\n7) Barcarena, Cruz Quebrada-Dafundo, Paço de Arcos e Queijas, do município de Oeiras;\n\n8) Gandra, do município de Paredes;\n\n9) Bonfim, Cedofeita, Lordelo do Ouro, Massarelos, Paranhos, Ramalde, São Nicolau, Sé, Santo Ildefonso e Vitória, do município do Porto;\n\n10) Amora e Arrentela, do município do Seixal;\n\n11) Queluz, do município de Sintra;\n\n12) Vila do Conde, do município de Vila do Conde;\n\n13) Alverca do Ribatejo, do município de Vila Franca de Xira;\n\n14) São Pedro da Afurada, do município de Vila Nova de Gaia;\n\nb) Com menor percentagem de área beneficiada:\n\n1) Almada e Sobreda, do município de Almada;\n\n2) Beato, Benfica, Carnide, São Francisco Xavier e São João, do município de Lisboa;\n\n3) Bucelas, Loures e Odivelas, do município de Loures;\n\n4) Avioso (Santa Maria), Folgosa e Gemunde, do município da Maia;\n\n5) Leça do Bailio e São Mamede de Infesta, do município de Matosinhos;\n\n6) Algés, do município de Oeiras;\n\n7) Campanhã e Miragaia, do município do Porto;\n\n8) Póvoa de Varzim, do município da Póvoa de Varzim;\n\n9) Muro, do município de Santo Tirso;\n\n10) Corroios, do município do Seixal;\n\n11) Árvore, Aveleda, Mindelo e Retorta, do município de Vila do Conde;\n\n12) Forte da Casa e Vialonga, do município de Vila Franca de Xira;\n\n13) Oliveira do Douro, do município de Vila Nova de Gaia.\n\n2 - A contribuição especial incide ainda sobre o aumento de valor dos terrenos para construção e das áreas resultantes da demolição de prédios urbanos já existentes situados nas áreas referidas no número anterior.\n\n3 - A contribuição especial cobrada nos termos do presente Regulamento não poderá ser cobrada mais de uma vez sobre cada prédio.\n\n> Nota: [Acórdão n.º 63/2006 - Diário da República n.º 45/2006, Série I-A de 2006-03-03](https://diariodarepublica.pt/dr/detalhe/acordao/63-2006-693063) Declarada a inconstitucionalidade, com força obrigatória geral, da norma constante do n.º 2 do presente artigo, na interpretação segundo a qual, sendo a licença de construção requerida antes da entrada em vigor do presente diploma, seria devida a contribuição especial por este instituída que, assim, incidiria sobre a valorização do terreno ocorrida entre 1 de Janeiro de 1994 e a data daquele requerimento, com fundamento em violação do princípio da não retroactividade dos impostos, consagrado no artigo 103.º, n.º 3, da Constituição da República Portuguesa."
+  },
+  "886820426": {
+   "fragment_id": "886820548",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - Constitui valor sujeito a contribuição a diferença entre o valor do prédio à data em que for requerido o licenciamento de construção ou de obra e o seu valor à data de 1 de Janeiro de 1994, corrigido por aplicação dos coeficientes de desvalorização da moeda constantes da portaria a que se refere o artigo 43.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas, correspondendo, para o efeito, à data de aquisição a data de 1 de Janeiro de 1994 e à de realização a data da emissão do alvará de licença de construção ou de obra.\n\n2 - Os valores que servem para determinar a diferença são determinados por avaliação nos termos do presente Regulamento."
+  },
+  "886820427": {
+   "fragment_id": "886820549",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA contribuição é devida pelos titulares do direito de construir em cujo nome seja emitido o alvará de licença de construção ou de obra."
+  },
+  "886820428": {
+   "fragment_id": "886820550",
+   "type": 1,
+   "heading": "Capítulo II — Determinação da matéria colectável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Determinação da matéria colectável"
+  },
+  "886820429": {
+   "fragment_id": "886820551",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - A avaliação referida no n.º 2 do artigo 2.º ficará a cargo de uma comissão constituída pelo contribuinte ou seu representante e por dois peritos nomeados pela Direcção-Geral dos Impostos de entre os incluídos nas listas distritais.\n\n2 - Um dos peritos nomeados pela Direcção-Geral dos Impostos terá apenas voto de desempate, devendo conformar-se com qualquer dos laudos apresentados.\n\n3 - A avaliação será efectuada com precedência de vistoria, devendo as decisões ser devidamente fundamentadas."
+  },
+  "886820430": {
+   "fragment_id": "886820552",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - Não poderão simultaneamente fazer parte da mesma comissão parentes e afins de qualquer grau da linha recta e até ao 4.º grau da linha colateral.\n\n2 - Nenhum perito da comissão poderá intervir na avaliação de prédios próprios ou de seus parentes por consaguinidade ou afinidade, na linha recta e até ao 4.º grau da linha colateral, ou que administre.\n\n3 - O contribuinte ou seu representante prestará compromisso de honra perante o chefe da repartição de finanças, lavrando-se o respectivo termo.\n\n4 - Quando, sem motivo justificado, o contribuinte ou seu representante não preste compromisso de honra ou não compareça à avaliação, será substituído por um perito da lista que o chefe da repartição de finanças nomeará."
+  },
+  "886820431": {
+   "fragment_id": "886820553",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - Na determinação dos valores, a comissão terá em consideração a natureza e o destino económico do prédio.\n\n2 - Para efeitos do número anterior, atender-se-á:\n\na) À localização, ao ambiente envolvente e ao desenvolvimento urbanístico da zona;\n\nb) Às infra-estruturas existentes;\n\nc) À caracterização física e topográfica;\n\nd) Aos índices de ocupação e volumetria;\n\ne) Às características agrárias, aos tipos de cultura e à disponibilidade de águas;\n\nf) Ao valor das construções rurais e dependências agrícolas;\n\ng) A quaisquer outros elementos susceptíveis de influírem no valor dos prédios."
+  },
+  "886820432": {
+   "fragment_id": "886820554",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - Os titulares de alvará de licença de construção ou de obra deverão apresentar até ao fim do mês imediato àquele em que tenha sido emitido o referido alvará, na repartição de finanças da área da situação do prédio, declaração do modelo aprovado.\n\n2 - Com a apresentação da declaração deverá ser exibido o alvará de licença de construção ou de obra a fim de ser extraída pela repartição de finanças fotocópia destinada a documentar o processo."
+  },
+  "886820433": {
+   "fragment_id": "886820555",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nApresentada a declaração referida no número anterior, será em seguida entregue à comissão de avaliação constituída nos termos do artigo 4.º, devendo a avaliação ficar concluída no prazo que lhe for fixado pelo chefe da repartição de finanças, o qual não poderá exceder 15 dias, salvo motivo devidamente justificado."
+  },
+  "886820434": {
+   "fragment_id": "886820556",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA avaliação será reduzida a termo no processo, e o termo assinado por todos os que nela intervieram."
+  },
+  "886820435": {
+   "fragment_id": "886820557",
+   "type": 1,
+   "heading": "Capítulo III — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Taxas"
+  },
+  "886820436": {
+   "fragment_id": "886820558",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAs taxas da contribuição são as seguintes:\n\na) Na área referida na alínea a) do n.º 1 do artigo 1.º - 30%;\n\nb) Na área referida na alínea b) do n.º 1 do artigo 1.º - 20%."
+  },
+  "886820437": {
+   "fragment_id": "886820559",
+   "type": 1,
+   "heading": "Capítulo IV — Liquidação e cobrança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Liquidação e cobrança"
+  },
+  "886820438": {
+   "fragment_id": "886820560",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nA contribuição especial será liquidada na repartição de finanças da área da situação dos prédios."
+  },
+  "886820439": {
+   "fragment_id": "886820561",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - Quando, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade da contribuição devida, a esta acrescerão juros compensatórios correspondentes à taxa básica de desconto do Banco de Portugal em vigor na data em que se tiver iniciado o retardamento da liquidação, acrescida de 5 pontos percentuais, sem prejuízo da sanção cominada ao infractor.\n\n2 - Os juros serão contados dia a dia, desde o termo do prazo para o cumprimento da obrigação de que resultou o atraso na liquidação até à data em que vier a ser corrigida ou suprida a falta."
+  },
+  "886820440": {
+   "fragment_id": "886820562",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nNão se procederá a qualquer liquidação, ainda que adicional, quando o seu quantitativo seja inferior a 5000$00."
+  },
+  "886820441": {
+   "fragment_id": "886820563",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nSó poderão ser efectuadas ou corrigidas liquidações, ainda que adicionais, nos cinco anos seguintes àquele em que tiver sido emitido o alvará de licença de construção ou de obra."
+  },
+  "886820442": {
+   "fragment_id": "886820564",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1 - Liquidada a contribuição, o contribuinte será notificado para efectuar o pagamento voluntário até ao fim do mês seguinte ao da notificação, após o qual começarão a vencer-se juros de mora.\n\n2 - Juntamente com a notificação, será enviado ao contribuinte, em triplicado, o documento de cobrança devidamente preenchido."
+  },
+  "886820443": {
+   "fragment_id": "886820565",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nA contribuição poderá ser paga em qualquer tesouraria da Fazenda Pública, a qual, no prazo de vinte e quatro horas, remeterá à repartição de finanças a que se refere o artigo 11.º o original do documento de cobrança."
+  },
+  "886820444": {
+   "fragment_id": "886820566",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nFindo o prazo de pagamento voluntário, será extraída pela repartição de finanças competente a certidão de dívida com base nos elementos que tiver ao seu dispor, para efeito de cobrança coerciva."
+  },
+  "886820445": {
+   "fragment_id": "886820567",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1 - As dívidas de contribuição especial poderão ser pagas em prestações, desde que os contribuintes o requeiram ao chefe da repartição de finanças no prazo estabelecido para o pagamento voluntário.\n\n2 - O número de prestações não poderá exceder 24, sendo de periodicidade mensal.\n\n3 - Nenhuma prestação deverá ser inferior a 50000$00, acrescendo ao valor de cada prestação os juros de mora contados desde o prazo para o pagamento voluntário até ao mês do respectivo pagamento.\n\n4 - No caso de o pagamento ser efectuado em prestações, o contribuinte deverá solicitar à repartição de finanças competente o respectivo documento de cobrança, efectuando o pagamento na tesouraria da Fazenda Pública junto da mesma repartição.\n\n5 - A falta de pagamento de qualquer das prestações importa o vencimento imediato das seguintes, extraindo-se certidão do valor em dívida para efeito de cobrança coerciva."
+  },
+  "886820446": {
+   "fragment_id": "886820568",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nA contribuição especial goza de privilégio imobiliário sobre os prédios para os quais tenha sido emitido o alvará de licença de construção ou de obra e, bem assim, sobre as benfeitorias ou construções neles implantadas."
+  },
+  "886820447": {
+   "fragment_id": "886820569",
+   "type": 1,
+   "heading": "Capítulo V — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Fiscalização"
+  },
+  "886820448": {
+   "fragment_id": "886820570",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nO cumprimento das obrigações impostas por este Regulamento será fiscalizado, dentro dos limites da respectiva competência, por todas as autoridades e repartições públicas e, em especial, pela Direcção-Geral dos Impostos."
+  },
+  "886820449": {
+   "fragment_id": "886820571",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nÀs câmaras municipais da área da situação dos prédios a que se refere o artigo 1.º compete, em particular, colaborar com a Direcção-Geral dos Impostos na fiscalização do cumprimento do disposto neste diploma, devendo, designadamente:\n\na) Enviar à repartição de finanças da área da situação dos prédios, durante o mês seguinte àquele em que foram emitidos, cópia dos alvarás de licenças de construção ou de obra;\n\nb) Enviar, oficiosamente ou a solicitação dos serviços da Direcção-Geral dos Impostos, quaisquer dados considerados pertinentes para uma eficaz fiscalização."
+  },
+  "886820450": {
+   "fragment_id": "886820572",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1 - Não poderão ser pagas indemnizações por expropriações dos prédios sujeitos ao pagamento de contribuição especial, nos termos do presente Regulamento, sem que esta se mostre paga ou garantida.\n\n2 - A garantia será prestada perante o chefe da repartição de finanças competente e consistirá em garantia bancária, caução, seguro-caução ou qualquer meio susceptível de assegurar o valor da dívida."
+  },
+  "886820451": {
+   "fragment_id": "886820573",
+   "type": 1,
+   "heading": "Capítulo VI — Revisão oficiosa, reclamação graciosa e impugnação judicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Revisão oficiosa, reclamação graciosa e impugnação judicial"
+  },
+  "886820452": {
+   "fragment_id": "886820574",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nQuando, por motivos imputáveis aos serviços, tenha sido liquidada contribuição superior à devida, proceder-se-á à anulação oficiosa nos cinco anos posteriores ao termo do prazo de pagamento voluntário ou à data da notificação do acto a rever e no decurso do processo de execução fiscal."
+  },
+  "886820453": {
+   "fragment_id": "886928275",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1 - Os contribuintes e as pessoas solidária ou subsidiariamente responsáveis pelo pagamento da contribuição poderão reclamar contra a liquidação com os fundamentos e nos termos estabelecidos no Código de Processo Tributário.\n\n2 - Em processo de reclamação graciosa não poderão ser apreciados os actos de fixação dos valores atribuídos na avaliação."
+  },
+  "886820454": {
+   "fragment_id": "886928276",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1 - Os contribuintes e as pessoas solidária ou subsidiariamente responsáveis pelo pagamento da contribuição poderão impugnar a liquidação com os fundamentos e nos termos estabelecidos no Código de Processo Tributário.\n\n2 - Os valores determinados em avaliação não são susceptíveis de impugnação judicial autónoma.\n\n3 - Na impugnação da liquidação pode ser invocada qualquer ilegalidade praticada na determinação dos valores atribuídos na avaliação."
+  },
+  "886820455": {
+   "fragment_id": "886928277",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1 - Anulada a liquidação, quer oficiosamente quer por decisão judicial da entidade ou tribunal competente, com trânsito em julgado, efectuar-se-á o respectivo reembolso se a contribuição se encontrar paga.\n\n2 - Não haverá lugar a anulação quando o seu quantitativo seja inferior a 2000$00.\n\n3 - Contar-se-ão a favor do contribuinte juros indemnizatórios correspondentes à taxa básica de desconto do Banco de Portugal em vigor na data do pagamento, acrescida de 5 pontos percentuais, sempre que, estando paga a contribuição, se determine em processo de reclamação graciosa ou de impugnação judicial que na liquidação houve erro imputável aos serviços.\n\n4 - Os juros serão contados dia a dia desde a data do pagamento da contribuição até à data da emissão da respectiva nota de crédito."
+  },
+  "886820456": {
+   "fragment_id": "886928278",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições diversas"
+  },
+  "886820457": {
+   "fragment_id": "886928279",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nIndependentemente da anulação da liquidação, o Ministro das Finanças poderá ordenar o reembolso da contribuição paga nos últimos cinco anos quando a considere indevidamente cobrada, observando-se, na parte aplicável, o disposto nos n.os 1 e 2 do artigo 26.º\n\n> Nota: [Artigo 9.º, Decreto-Lei n.º 472/99 - Diário da República n.º 260/1999, Série I-A de 1999-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986) O disposto no presente artigo, aprovado pelo artigo 1.º do Decreto-lei n.º 43/98, aplica-se apenas aos factos tributários ocorridos a partir de 1 de janeiro de 1998."
+  },
+  "886820458": {
+   "fragment_id": "886928280",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nOs salários dos peritos e os respectivos abonos de transporte, devidos pela avaliação a que se refere o artigo 4.º, constituem encargo do Estado e serão fixados anualmente por despacho do Ministro das Finanças."
+  },
+  "886820459": {
+   "fragment_id": "886928281",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\n1 - O triplicado da declaração a que se refere o artigo 8.º deverá ser devolvido ao apresentante, com menção de recibo.\n\n2 - A declaração e demais documentos exigidos no presente diploma podem ser enviados pelo correio, sob registo postal, acompanhado de um sobrescrito devidamente endereçado e franqueado, destinado à devolução imediata, também sob registo, do duplicado e dos documentos, quando for caso disso."
+  },
+  "886820422": {
+   "fragment_id": "886820544",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1997. - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho.\n\nPromulgado em 12 de Fevereiro de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 18 de Fevereiro de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "886930340": {
+   "fragment_id": "886820561",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1999-11-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 472/99 - Diário da República n.º 260/1999, Série I-A de 1999-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986), em vigor a partir de 1999-11-13"
+   ],
+   "markdown": "###### Artigo 12.º\n\nQuando, por facto imputável ao sujeito passivo, for retardada a liquidação de parte ou da totalidade da contribuição devida, a esta acrescerão juros compensatórios nos termos do artigo 35.º da lei geral tributária.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 472/99 - Diário da República n.º 260/1999, Série I-A de 1999-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986), em vigor a partir de 1999-11-13"
+  },
+  "886930341": {
+   "fragment_id": "886820563",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": "1999-11-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 472/99 - Diário da República n.º 260/1999, Série I-A de 1999-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986), em vigor a partir de 1999-11-13"
+   ],
+   "markdown": "###### Artigo 14.º\n\nSó poderão ser efectuadas ou corrigidas liquidações, ainda que adicionais, nos prazos e termos previstos nos artigos 45.º e 46.º da lei geral tributária, contando-se o respectivo prazo a partir da data em que tiver sido emitido o alvará de licença de construção ou de obra.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 472/99 - Diário da República n.º 260/1999, Série I-A de 1999-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986), em vigor a partir de 1999-11-13"
+  },
+  "886930342": {
+   "fragment_id": "886820574",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": "1999-11-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 472/99 - Diário da República n.º 260/1999, Série I-A de 1999-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986), em vigor a partir de 1999-11-13"
+   ],
+   "markdown": "###### Artigo 23.º\n\nQuando, por motivos imputáveis aos serviços, tenha sido liquidada contribuição superior à devida, proceder-se-á à sua revisão oficiosa, nos termos do artigo 78.º da lei geral tributária.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 472/99 - Diário da República n.º 260/1999, Série I-A de 1999-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986), em vigor a partir de 1999-11-13"
+  },
+  "886930343": {
+   "fragment_id": "886928277",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": "1999-11-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 472/99 - Diário da República n.º 260/1999, Série I-A de 1999-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986), em vigor a partir de 1999-11-13"
+   ],
+   "markdown": "###### Artigo 26.º\n\n1 - Anulada a liquidação, quer oficiosamente quer por decisão judicial da entidade ou tribunal competente, com trânsito em julgado, efectuar-se-á o respectivo reembolso se a contribuição se encontrar paga.\n\n2 - Não haverá lugar a anulação quando o seu quantitativo seja inferior a 2000$00.\n\n3 -  São devidos juros indemnizatórios nos termos do artigo 43.º da lei geral tributária e são liquidados e pagos nos termos do Código de Procedimento e de Processo Tributário.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 472/99 - Diário da República n.º 260/1999, Série I-A de 1999-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986), em vigor a partir de 1999-11-13"
+  },
+  "886930344": {
+   "fragment_id": "886928279",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": "1999-11-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 472/99 - Diário da República n.º 260/1999, Série I-A de 1999-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986), em vigor a partir de 1999-11-13"
+   ],
+   "markdown": "###### Artigo 27.º\n\nIndependentemente da anulação da liquidação, o Ministro das Finanças poderá ordenar o reembolso da contribuição paga nos últimos quatro anos quando a considere indevidamente cobrada, observando-se, na parte aplicável, o disposto nos n.os 1 e 2 do artigo 26.º.\n\n> Nota: [Artigo 9.º, Decreto-Lei n.º 472/99 - Diário da República n.º 260/1999, Série I-A de 1999-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986) O disposto no presente artigo, aprovado pelo artigo 1.º do Decreto-lei n.º 43/98, aplica-se apenas aos factos tributários ocorridos a partir de 1 de janeiro de 1998.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 472/99 - Diário da República n.º 260/1999, Série I-A de 1999-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986), em vigor a partir de 1999-11-13"
+  },
+  "887067114": {
+   "fragment_id": "886820548",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 167.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Declarada Inconstitucionalidade pelo/a [Acórdão n.º 63/2006 - Diário da República n.º 45/2006, Série I-A de 2006-03-03](https://diariodarepublica.pt/dr/detalhe/acordao/63-2006-693063), produz efeitos a partir de 1998-03-08"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - Constitui valor sujeito a contribuição a diferença entre o valor do prédio à data em que for requerido o licenciamento de construção ou de obra, ou apresentação da comunicação prévia e o seu valor à data de 1 de Janeiro de 1994, corrigido por aplicação dos coeficientes de desvalorização da moeda constantes da portaria a que se refere o artigo 47.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas, correspondendo, para o efeito, à data de aquisição a data de 1 de Janeiro de 1994 e à de realização a data da emissão do alvará de licença de construção ou de obra, ou do recibo de apresentação da comunicação prévia daquelas operações urbanísticas, acompanhado do comprovativo da sua admissão nos termos do artigo 36.º-A do Regime Jurídico da Urbanização e da Edificação (RJUE).\n\n2 - Os valores que servem para determinar a diferença são determinados por avaliação nos termos do presente Regulamento.\n\n> Alterado pelo/a Artigo 167.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Declarada Inconstitucionalidade pelo/a [Acórdão n.º 63/2006 - Diário da República n.º 45/2006, Série I-A de 2006-03-03](https://diariodarepublica.pt/dr/detalhe/acordao/63-2006-693063), produz efeitos a partir de 1998-03-08"
+  },
+  "887067117": {
+   "fragment_id": "886820549",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 167.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 3.º\n\nA contribuição é devida pelos titulares do direito de construir em cujo nome seja emitido o alvará de licença de construção ou de obra e, ainda, pelos titulares do recibo de apresentação da comunicação prévia daquelas operações urbanísticas, acompanhado do comprovativo da sua admissão nos termos do artigo 36.º-A do RJUE.\n\n> Alterado pelo/a Artigo 167.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "887067119": {
+   "fragment_id": "886820554",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 167.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 7.º\n\n1 - Os titulares de alvará de licença de construção ou de obra, ou do recibo de apresentação da comunicação prévia daquelas operações urbanísticas, acompanhado do comprovativo da sua admissão nos termos do artigo 36.º-A do RJUE, deverão apresentar até ao fim do mês imediato àquele em que tenha sido emitido a referida licença, na repartição de finanças da área da situação do prédio, declaração do modelo aprovado.\n\n2 - Com a apresentação da declaração deverá ser exibido o alvará de licença de construção ou de obra, ou do recibo de apresentação da comunicação prévia daquelas operações urbanísticas, acompanhado do comprovativo da sua admissão nos termos do artigo 36.º-A do RJUE a fim de ser extraída pela repartição de finanças fotocópia destinada a documentar o processo.\n\n> Alterado pelo/a Artigo 167.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "887060162": {
+   "fragment_id": "886928277",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 4-C/2000 - Diário da República n.º 25/2000, 1º Suplemento, Série I-A de 2000-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-c-2000-596725), produz efeitos a partir de 1998-03-08",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 472/99 - Diário da República n.º 260/1999, Série I-A de 1999-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986), em vigor a partir de 1999-11-13"
+   ],
+   "markdown": "###### Artigo 26.º\n\n1 - Anulada a liquidação, quer oficiosamente quer por decisão judicial da entidade ou tribunal competente, com trânsito em julgado, efectuar-se-á o respectivo reembolso se a contribuição se encontrar paga.\n\n2 - Não haverá lugar a anulação quando o seu quantitativo seja inferior a 2000$00.\n\n3 -  São devidos juros indemnizatórios nos termos do artigo 43.º da lei geral tributária e são liquidados e pagos nos termos do Código de Processo Tributário.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 4-C/2000 - Diário da República n.º 25/2000, 1º Suplemento, Série I-A de 2000-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-c-2000-596725), produz efeitos a partir de 1998-03-08\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 472/99 - Diário da República n.º 260/1999, Série I-A de 1999-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986), em vigor a partir de 1999-11-13"
+  },
+  "887067142": {
+   "fragment_id": "886928279",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 235.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 472/99 - Diário da República n.º 260/1999, Série I-A de 1999-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986), em vigor a partir de 1999-11-13"
+   ],
+   "markdown": "###### Artigo 27.º\n\nIndependentemente da anulação da liquidação, o Ministro das Finanças poderá ordenar o reembolso da contribuição paga nos últimos quatro anos quando a considere indevidamente cobrada, observando-se, na parte aplicável, o disposto nos n.os 1 e 2 do artigo 26.º.\n\n> Nota: [Artigo 9.º, Decreto-Lei n.º 472/99 - Diário da República n.º 260/1999, Série I-A de 1999-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986) O disposto no presente artigo, aprovado pelo artigo 1.º do Decreto-lei n.º 43/98, aplica-se apenas aos factos tributários ocorridos a partir de 1 de janeiro de 1998.\n\n> Revogado pelo/a Artigo 235.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 472/99 - Diário da República n.º 260/1999, Série I-A de 1999-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986), em vigor a partir de 1999-11-13"
+  }
+ }
+}

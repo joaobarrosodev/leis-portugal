@@ -1,0 +1,309 @@
+---
+schema_version: '1.0'
+id: pt:dre:442327:por
+title: Decreto do Governo n.º 73/83
+short_title: null
+summary: Aprova, para ratificação, o Acordo Cultural entre a República Portuguesa e a República Democrática e Popular da Argélia,
+  assinado em Argel em 8 de Dezembro de 1982
+jurisdiction: portugal
+territory: null
+document_type: decreto-governo
+document_type_label: Decreto do Governo
+issuing_authority:
+- Ministério dos Negócios Estrangeiros - Serviços Jurídicos e de Tratados
+proposing_entity: null
+official_number: 73/83
+official_date: null
+publication_date: '1983-09-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 213/1983, Série I de 1983-09-15
+  number: '213'
+  series: I
+  supplement: null
+  pages: 3274 - 3276
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/09/21300/32743276.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '442327'
+  dre_path: /dr/detalhe/decreto-governo/73-1983-442327
+  internal: pt:dre:442327:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/73-1983-442327
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/73-1983-442327
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:27:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: fe9537e68bf97ad655303b2f9b971f1cdc08ba9f1ca8ba1e6bb905e9a693fce1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:27:26Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Argel
+- Argélia
+- Convenção
+- Cooperação Cultural
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:168228:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:168228:por
+  label: "Cessada a vigência do Acordo Cultural entre Portugal e a Argélia aprovado para ratificação pelo presente diploma,\
+    \ pelo DEC.3/2006.06.01.2006.MNE, DR.IS-A [5] de 06.01.2006, a partir da entrada em vigor do Acordo ora aprovado\0o\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/3-2006-168228
+  date: '2006-01-06'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:27:26Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto do Governo n.º 73/83
+
+de 15 de Setembro
+
+O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
+
+Artigo único. É aprovado, para ratificação, o Acordo Cultural entre a República Portuguesa e a República Democrática e Popular da Argélia, assinado em Argel em 8 de Dezembro de 1982, cujo texto em português e francês vai anexo ao presente decreto.
+
+Visto e aprovado em Conselho de Ministros de 18 de Agosto de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Jaime José de Matos Gama.
+
+Assinado em 31 de Agosto de 1983.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 1 de Setembro de 1983.
+
+O Primeiro-Ministro, Mário Soares.
+
+Acordo Cultural entre a República Portuguesa e a República Democrática e Popular da Argélia
+
+O Governo da República Portuguesa e o Governo da República Democrática e Popular da Argélia:
+
+Animados do desejo de reforçar e desenvolver as boas relações que existem entre os 2 países e a amizade que liga os respectivos povos;
+
+Conscientes da necessidade de uma estreita cooperação no domínio cultural,
+
+acordaram no seguinte:
+
+###### ARTIGO 1.º
+
+As Partes Contratantes obrigam-se a desenvolver e a reforçar, na medida do possível, a sua cooperação cultural, com base no respeito da soberania de cada um dos 2 países e da não ingerência nos assuntos internos da outra Parte.
+
+###### ARTIGO 2.º
+
+Conscientes do valor das respectivas línguas, as Partes Contratantes favorecerão a sua difusão nos estabelecimentos de ensino dos 2 países.
+
+###### ARTIGO 3.º
+
+Cada uma das Partes pode criar instituições culturais no território da outra, em conformidade com as leis e regulamentos aí em vigor, e mediante acordo prévio da outra Parte.
+
+###### ARTIGO 4.º
+
+Ambas as Partes encorajarão e facilitarão o conhecimento mútuo no domínio cultural, nomeadamente por:
+
+a) Intercâmbio de documentação, de material educativo, científico e cultural, incluindo o material áudio-visual;
+
+b) O intercâmbio de delegações e personalidades representativas da educação, da ciência e da cultura;
+
+c) Intercâmbio de grupos musicais, de teatro e folclóricos.
+
+###### ARTIGO 5.º
+
+As Partes Contratantes encorajarão o desenvolvimento do intercâmbio nos domínios da juventude, da educação física e desportiva.
+
+###### ARTIGO 6.º
+
+As Partes Contratantes estudarão as possibilidades da equivalência dos certificados, títulos e diplomas emitidos pelos estabelecimentos de ensino dos respectivos países.
+
+###### ARTIGO 7.º
+
+Ambas as Partes Contratantes zelarão pelo reforço das relações entre as instituições educativas, culturais e científicas dos 2 países.
+
+###### ARTIGO 8.º
+
+Cada uma das Partes Contratantes porá, anualmente, segundo as suas possibilidades, bolsas à disposição da outra Parte para o estudo de matérias que serão determinadas de comum acordo.
+
+###### ARTIGO 9.º
+
+Os candidatos às bolsas previstas no artigo 8.º serão propostos pelos serviços competentes do Governo do país que envia. Deverão conformar-se às leis e regulamentos em vigor no país de acolhimento.
+
+###### ARTIGO 10.º
+
+Ambas as Partes Contratantes fornecerão e encorajarão, de comum acordo, a tradução, o intercâmbio e a divulgação de obras de carácter cultural, educativo e científico publicadas nos 2 países.
+
+###### ARTIGO 11.º
+
+Cada uma das Partes Contratantes zelará pela salvaguarda e protecção dos direitos de autor dos cidadãos da outra Parte.
+
+###### ARTIGO 12.º
+
+As Partes Contratantes comprometem-se a manter uma estreita colaboração para fiscalizar e impedir o tráfico ilegal de obras de arte, de documentos e de quaisquer objectos de valor científico ou histórico, no quadro e nos limites da sua legislação interna, na base da reciprocidade, contribuindo assim para a salvaguarda e conservação do património cultural dos respectivos países.
+
+###### ARTIGO 13.º
+
+No quadro das actividades previstas no presente acordo, ambas as Partes concederão, mutuamente, em conformidade com a regulamentação em vigor nos países de acolhimento, facilidades alfandegárias para a entrada e saída de todos os materiais destinados à realização de manifestações culturais sem fins lucrativos.
+
+###### ARTIGO 14.º
+
+O presente Acordo não exclui a possibilidade de realização de outras actividades no domínio cultural, que poderão ser acordadas por ambas as Partes.
+
+###### ARTIGO 15.º
+
+Tendo em vista assegurar a execução das disposições do presente Acordo, as Partes Contratantes criam uma comissão mista, que se reunirá de 3 em 3 anos, alternadamente, nas capitais dos 2 países.
+
+Esta comissão terá por função examinar e adoptar os programas de actividade e manifestações culturais que lhe serão propostas por ambas as Partes.
+
+###### ARTIGO 16.º
+
+O presente Acordo será válido por um período de 5 anos renovável por tácita recondução, a não ser que uma das Partes Contratantes notifique, por escrito, à outra, com 3 meses de antecedência, o desejo de o rever total ou parcialmente.
+
+###### ARTIGO 17.º
+
+Este Acordo será ratificado pelas Partes Contratantes em conformidade com a legislação de cada um dos países. Entrará provisoriamente em vigor no dia da sua assinatura e definitivamente no momento de troca dos instrumentos de ratificação.
+
+Feito e assinado em Argel no dia 8 de Dezembro de 1982, em duplo exemplar, em português, árabe e francês, fazendo os 3 textos igualmente fé.
+
+Pelo Governo da República Portuguesa:
+
+Ricardo Manuel Simões Bayão Horta.
+
+Pelo Governo da República Democrática e Popular da Argélia:
+
+(Assinatura ilegível.)
+
+Accord Culturel entre le Gouvernement de la République portugaise et le Gouvernement de la République algérienne démocratique et populaire.
+
+Le Gouvernement de la République portugaise et le Gouvernement de la République algérienne démocratique et populaire:
+
+Désireux de renforcer et de développer les bonnes relations qui existent entre les deux pays et l'amitié qui lie les deux peuples;
+
+Conscientes de la nécessité d'une étroite coopération dans le domaine culturel,
+
+ont résolu de conclure le présent Accord:
+
+ARTICLE PRÉMIER
+
+Les Parties contractantes s'engagent à développer et à renforcer, dans toute la mesure du possible, leur coopération culturelle, sur la base du respect de la souveraineté de chacun des deux pays et de la non ingérence dans les affaires intérieures de l'autre Partie.
+
+ARTICLE 2
+
+Conscientes de la valeur de leurs langues respectives, les Parties contractantes en favoriseront la diffusion dans les établissements d'enseignement des deux pays.
+
+ARTICLE 3
+
+Chacune des Parties peut créer des institutions culturelles sur le territoire de l'autre, conformément aux lois et règlements qui y sont en vigueur et après accord préalable de l'autre Partie.
+
+ARTICLE 4
+
+Les deux Parties encourageront et faciliteront la connaissance mutuelle dans le domaine culturel, notamment par:
+
+a) L'échange de documentation, de matériel éducatif, scientifique et culturel y compris le matériel audio-visuel;
+
+b) L'échange de délégations et de personnalités representatives de l'éducation, de la science et de la culture;
+
+c) L'échange de formations musicales, théatrales et folkloriques.
+
+ARTICLE 5
+
+Les Parties contractantes encourageront le développement des échanges dans les domaines de la jeunesse, de l'éducation physique et sportive.
+
+ARTICLE 6
+
+Les Parties contractantes étudieront toutes les possibilités d'équivalence des certificats, titres et diplômes délivrés par les établissements d'enseignement des deux Parties.
+
+ARTICLE 7
+
+Les Parties contractantes veilleront à renforcer les relations entre les institutions éducatives, culturelles et scientifiques des deux pays.
+
+ARTICLE 8
+
+Chaque Partie contractante mettra annuellement, suivant ses possibilités, des bourses à la disposition de l'autre Partie, pour l'étude des matières qui seront déterminées d'un commun accord.
+
+ARTICLE 9
+
+Les candidats aux bourses prévues à l'article 8, seront proposés par les services compétents du gouvernement du pays d'envoi. Ils devront se conformer aux lois et règlements en vigueur dans le pays d'accueil.
+
+ARTICLE 10
+
+Les Parties contractantes favoriseront et encourageront d'un commun accord la traduction, les échanges et la diffusion des oeuvres à caractère culturel, éducatif et scientifique publiées dans les deux pays.
+
+ARTICLE 11
+
+Chacune des Parties contractantes veillera à la sauvegarde et à la protection des droits d'auteurs des citoyens de l'autre Partie.
+
+ARTICLE 12
+
+Les Parties contractantes s'engagent à maintenir une étroit collaboration pour surveiller et empêcher le trafic illégal d'oeuvres d'art, de documents et de tous autres objets de valeur scientifique ou historique, dans le cadre et les limites de leur législation interne et sur la base de la réciprocité, contribuant ainsi, à la sauvegarde et à la conservation du patrimoine culturel de leur pays respectif.
+
+ARTICLE 13
+
+Dans le cadre des activités prévues dans le présent Accord, les deux parties s'accorderont mutuellement sur la base de la règlementation en vigueur des pays d'accueil, des facilités douanières permettant l'entrée et la sortie de tous les matériaux destinés à la réalisation de manifestations culturelles sans but lucratif.
+
+ARTICLE 14
+
+Le présent Accord n'exclut pas la possibilité de réaliser d'autres activités dans le domaine culturel qui pourront être convenues par les deux parties.
+
+ARTICLE 15
+
+En vue d'assurer la mise en application des dispositions du présent Accord, les Parties contractantes créent une commission mixte, qui se réunira une fois tous les trois ans, alternativement dans les capitales des deux pays.
+
+Cette commission aura pour tâche d'examiner et d'adopter les programmes d'activité et manifestations culturelles qui lui seront proposés par les deux Parties.
+
+ARTICLE 16
+
+Le présent Accord est conclu pour une durée de cinq ans renouvelable par tacite reconduction à moins que l'une des Parties contractantes n'ait, trois mois au préalable, signifié à l'autre, par écrit, son intention de le reviser totalement ou en partie.
+
+ARTICLE 17
+
+Le présent Accord sera ratifié par les Parties contractantes en conformité avec la législation de chacun des deux pays. Il entrera en vigueur provisoirement le jour de sa signature et définitivement au moment de l'échange des instruments de ratification.
+
+Fait et signé à Alger, le 8 décembre 1982, en double exemplaire en langues portugaise, arabe et française, les trois textes faisant également foi.
+
+Pour le Gouvernement de la République portugaise:
+
+Ricardo Manuel Simões Bayão Horta.
+
+Pour le Gouvernement de la République algérienne démocratique et populaire:
+
+(Signature illisible.)

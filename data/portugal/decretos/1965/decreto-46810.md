@@ -1,0 +1,108 @@
+---
+schema_version: '1.0'
+id: pt:dre:508425:por
+title: Decreto n.º 46810
+short_title: null
+summary: Autoriza a Direcção-Geral dos Serviços Hidráulicos a despender no ano de 1966 uma importância, ou a que se apurar
+  como saldo do contrato, para a execução da empreitada de construção das obras de regadio da veiga da Beselga
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Obras Públicas - Direcção-Geral dos Serviços Hidráulicos
+proposing_entity: null
+official_number: '46810'
+official_date: null
+publication_date: '1965-12-30'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 295/1965, Série I de 1965-12-30
+  number: '295'
+  series: I
+  supplement: null
+  pages: 1859 - 1859
+  pdf_url: https://files.diariodarepublica.pt/1s/1965/12/29500/18591859.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '508425'
+  dre_path: /dr/detalhe/decreto/46810-1965-508425
+  internal: pt:dre:508425:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/46810-1965-508425
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46810-1965-508425
+  consolidated_url: null
+  retrieved_at: '2026-10-22T19:49:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: bf98cf47a685d6657c28e2a1c549fa7f7a2a86a20e8991c59641bd531c082603
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:49:26Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:537652:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T19:49:26Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 46810
+
+Considerando que, em execução do [Decreto n.º 45927](https://diariodarepublica.pt/dr/detalhe/decreto/45927-1964-537652), de 16 de Setembro de 1964, foi celebrado contrato entre a Direcção-Geral dos Serviços Hidráulicos e a firma Simões Pereira & C.ª, Lda., datado de 20 de Novembro de 1964, para execução da empreitada de construção das obras do regadio da veiga da Beselga, cuja prazo de conclusão foi fixado para o ano de 1965;
+
+Considerando que no referido contrato se estipulou que os pagamentos a efectuar, até ao limite de 1829982$90, não poderiam exceder:
+
+Em 1964 ... 960000$00
+
+Em 1965 ... 869982$90
+
+acrescendo a esta última importância o saldo do ano anterior;
+
+Considerando que, por motivo de diversas dificuldades que surgiram, se julga presentemente necessário prorrogar o prazo contratual da empreitada até ao ano de 1966, o que envolve um encargo nesse ano que se estima em 300000$00;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo único. É a Direcção-Geral dos Serviços Hidráulicos autorizada a despender no ano de 1966 a importância de 300000$00, ou a que se apurar como saldo do contrato, para execução da empreitada de construção das obras do regadio da veiga da Beselga.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 30 de Dezembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Eduardo de Arantes e Oliveira.

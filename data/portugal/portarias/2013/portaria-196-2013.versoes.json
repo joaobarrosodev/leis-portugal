@@ -1,0 +1,109 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:513597:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-905920687",
+ "dre_path": "/dr/detalhe/portaria/196-2013-513597",
+ "source_lastmod": "2025-02-03",
+ "versions": [
+  {
+   "date": "2013-05-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "905457642",
+    "905457643",
+    "905457644",
+    "905457645",
+    "905457646",
+    "905457647",
+    "905457648",
+    "905457649",
+    "905457650",
+    "905457652"
+   ]
+  }
+ ],
+ "fragments": {
+  "905457642": {
+   "fragment_id": "905920688",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 196/2013\n\nde 28 de maio\n\nO Decreto-Lei n.º 42/2013, de 22 de março, estabeleceu o regime aplicável a todos os contratos de compra e venda de leite cru de vaca proveniente de qualquer Estado-Membro da União Europeia celebrados entre produtores, intermediários e transformadores.\n\nNos termos do citado diploma a redução a escrito daqueles contratos é obrigatória, sendo ainda definidos os seus elementos essenciais e as disposições associadas ao acompanhamento, à monitorização, à fiscalização e ao regime sancionatório aplicável.\n\nOs contratos de compra e venda de leite cru de vaca sendo negociáveis, não deixam de estar sujeitos a determinados requisitos, podendo as partes optar, igualmente, por um contrato-tipo previamente aprovado.\n\nO Decreto-Lei n.º 42/2013, de 22 de março, remete para portaria do membro do Governo responsável pela área da agricultura a regulação dos termos e condições dos elementos obrigatórios do contrato de compra e venda de leite cru de vaca e a aprovação do contrato-tipo.\n\nNeste sentido, importa estabelecer os termos e condições dos elementos do contrato e aprovar o contrato-tipo de compra e venda de leite.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo do disposto no n.º 3 do artigo 3.º e do n.º 1 do artigo 4.º do Decreto-Lei n.º 42/2013, de 22 de março, e no uso das competências delegadas através do Despacho n.º 4704/2013, de 4 de abril, o seguinte:"
+  },
+  "905457643": {
+   "fragment_id": "905920689",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma estabelece os termos e as condições dos elementos obrigatórios dos contratos de compra e venda de leite cru de vaca, adiante designado leite, e aprova o respetivo contrato-tipo, nos termos do Decreto-Lei n.º 42/2013, de 22 de março."
+  },
+  "905457644": {
+   "fragment_id": "905920690",
+   "type": 11,
+   "heading": "Artigo 2.º — Autonomia das partes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Autonomia das partes\n\nSem prejuízo da autonomia da vontade das partes, o contrato de compra e venda de leite deve respeitar o disposto nos artigos seguintes."
+  },
+  "905457645": {
+   "fragment_id": "905920691",
+   "type": 11,
+   "heading": "Artigo 3.º — Preço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Preço\n\n1 - O contrato pode indicar um preço fixo ou um preço variável, ou a conjugação de ambos.\n\n2 - Caso se opte por um preço variável, o contrato deve indicar a combinação de fatores através dos quais se calcula o preço, podendo incluir indicadores que reflitam as alterações das condições de mercado, o volume entregue e a qualidade ou composição do leite cru entregue.\n\n3 - O contrato pode, igualmente, prever a combinação de um preço fixo, para um determinado volume de leite, e um preço variável, para o volume remanescente relativamente ao volume total contratualizado.\n\n4 - Caso a indicação do preço seja feita através da combinação de fatores nos termos do n.º 2, os indicadores que reflitam as alterações das condições de mercado relevantes para efeitos do método de cálculo devem ser comunicados à organização interprofissional do sector, para efeitos de publicitação."
+  },
+  "905457646": {
+   "fragment_id": "905920692",
+   "type": 11,
+   "heading": "Artigo 4.º — Prazos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Prazos de pagamento\n\nOs prazos de pagamento do contrato de compra e venda de leite obedecem, quando aplicável, ao disposto no Decreto-Lei n.º 118/2010, de 25 de outubro, com a redação que lhe foi conferida pelo Decreto-Lei n.º 2/2013, de 9 de janeiro."
+  },
+  "905457647": {
+   "fragment_id": "905920693",
+   "type": 11,
+   "heading": "Artigo 5.º — Duração do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Duração do contrato\n\n1 - O contrato celebrado entre o produtor e o primeiro comprador deve ter uma duração mínima de seis meses.\n\n2 - A duração do contrato pode ser inferior ao disposto no número anterior, caso o produtor recuse, por escrito, aquele prazo.\n\n3 - O disposto nos números anteriores é aplicável às propostas contratuais apresentadas nos termos do artigo 5.º do Decreto-Lei n.º 42/2013, de 22 de março.\n\n4 - Caso a duração do contrato seja indeterminada, aquele deve estabelecer as respetivas condições de denúncia."
+  },
+  "905457648": {
+   "fragment_id": "905920694",
+   "type": 11,
+   "heading": "Artigo 6.º — Contrato-tipo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Contrato-tipo\n\nÉ aprovado, em anexo à presente portaria, dela fazendo parte integrante, o contrato-tipo de compra e venda de leite, de utilização facultativa, previsto no artigo 4.º do Decreto-Lei n.º 42/2013, de 22 de março."
+  },
+  "905457649": {
+   "fragment_id": "905920695",
+   "type": 11,
+   "heading": "Artigo 7.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regiões Autónomas\n\nA presente portaria aplica-se às Regiões Autónomas dos Açores e da Madeira."
+  },
+  "905457650": {
+   "fragment_id": "905920696",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia 1 de junho de 2013."
+  },
+  "905457652": {
+   "fragment_id": "905920698",
+   "type": 14,
+   "heading": "Anexo — Contrato-tipo de compra e venda de leite cru de vaca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Contrato-tipo de compra e venda de leite cru de vaca\n\nEntre:\n\n... [Nome do transformador/ recetor de leite cru de vaca], adiante designado comprador, com o NIF n.º ..., agindo em nome próprio ou em representação de ..., com o NIPC n.º ..., e com sede social na ... [Rua/Avenida/Travessa] n.º ..., Código Postal ...-..., ... [País].\n\nE,\n\n... [Nome do fornecedor de leite cru de vaca], adiante designado vendedor, com o NIF n.º ... agindo em nome próprio ou em representação de ..., com o NIPC n.º ..., e com sede social na ... [Morada] n.º..., Código Postal ...-..., ... [País].\n\nÉ celebrado o presente contrato de compra e venda de leite cru de vaca ao abrigo do disposto nos artigos 2.º e 4.º do Decreto-Lei n.º 42/2013, de 22 de março, regendo-se pelas seguintes cláusulas:\n\nCláusula primeira\n\nObjeto\n\n1 - O vendedor compromete-se a entregar ao comprador, e este a adquirir, a quantidade de ... [referir quantidade expressa em litros ou quilogramas] de leite cru de vaca, comercializável nos termos da legislação aplicável e nas condições estabelecidas no presente contrato.\n\n2 - As partes aceitam uma variação da quantidade estabelecida no número anterior de ... % [a identificar pelas partes] durante o período de ... [identificar o período, total ou parcial] de vigência do contrato.\n\nCláusula segunda\n\nLocal e condições de entrega\n\nA quantidade contratada é disponibilizada pelo vendedor ao comprador em ... [identificar local da recolha ou da entrega], com a periodicidade ... [identificar a periodicidade].\n\nCláusula terceira\n\nPreço\n\n1 - O preço total a pagar pelo comprador respeitante ao volume abrangido pelo presente contrato, é de .../ O método de cálculo do preço a pagar pelo comprador é o seguinte ... [riscar o que não interessa e para preço variável identificar fatores e método, eventualmente em anexo]\n\n2 - O preço referido no número anterior corresponde ao valor aplicável ao local definido na cláusula segunda, com custos de transporte para o local de destino a cargo do comprador/vendedor [riscar o que não interessa], acrescido do IVA, à taxa em vigor.\n\nCláusula quarta\n\nPagamento\n\nO pagamento é efetuado no prazo de ... [periodicidade a definir pelas partes, respeitando o Decreto-Lei n.º 118/2010], a contar de ... [a definir pelas partes], no respeito do Decreto-Lei n.º 118/2010, de 25 de outubro [quando aplicável].\n\nCláusula quinta\n\nQualidade e rastreabilidade\n\n1 - O leite fornecido nos termos do presente contrato deve cumprir as normas de comercialização aplicáveis no que respeita a condições de higiene, sanidade e rastreabilidade, devendo o comprador recusar todo o produto que não respeite essas condições, sem que o vendedor tenha direito a qualquer compensação ou pagamento.\n\n2 - Sem prejuízo das condições definidas no Regulamento (CE) n.º 853/2004, do Parlamento Europeu e do Conselho, de 29 de abril, e demais legislação aplicável, os parâmetros a ter em conta para efeitos de aferição da qualidade do leite fornecido constam do anexo ao presente contrato. [utilizar quando as partes pretendam ter parâmetros contratuais]\n\nCláusula sexta\n\nLaboratório de referência\n\nA verificação das características do leite fornecido no que respeita a critérios de comercialização é efetuada com base em análises realizadas pela ... [ALIP - Associação para o Laboratório Interprofissional do Sector do Leite e Lacticínios OU por laboratório a designar por comum acordo].\n\nCláusula sétima\n\nDuração\n\nO presente contrato tem a duração de ... meses [mínimo 6 meses], contado do início da sua vigência, sendo renovável por períodos iguais, se não for denunciado por escrito com a antecedência mínima de ... [prazo a acordar pelas partes] dias sobre o termo do seu período inicial de vigência ou de qualquer uma das suas renovações.\n\nCláusula oitava\n\nIncumprimento\n\nO incumprimento do prazo de pagamento previsto na Cláusula Quarta do presente contrato dá lugar ao pagamento de juros de mora e indemnização nos termos da legislação aplicável, [sem prejuízo das sanções compulsórias e cláusulas penais estipuladas no presente contrato].(1)\n\nCláusula nona\n\nForça maior\n\n1 - Nenhum dos contratantes incorrerá em responsabilidade se, por caso de força maior, não for possível o cumprimento das obrigações assumidas no presente contrato, entendendo-se como casos de força maior as circunstâncias que impossibilitem a respetiva realização, alheias à vontade da parte afetada, que ela não pudesse conhecer ou prever à data da celebração do contrato e cujos efeitos não lhe fosse razoavelmente exigível contornar ou evitar.\n\n2 - Podem constituir força maior, designadamente, tremores de terra, inundações, incêndios, epizootia que afete parte do efetivo pecuário, condições climatéricas adversas embargos ou bloqueios internacionais, atos de guerra ou terrorismo.\n\n3 - A parte que invocar casos de força maior comunica e justifica tais situações à outra parte, e informa o prazo previsível para restabelecer a situação.\n\nCláusula décima\n\nCláusula compromissória\n\nQualquer divergência entre as partes contratantes quanto à interpretação ou aplicação do presente contrato, bem como os litígios emergentes do presente contrato são submetidos a arbitragem, no Centro de Arbitragem de ... [a indicar pelos contratantes] entidade autorizada pelo Ministro da Justiça, nos termos do Decreto-Lei n.º 425/86, de 27 dezembro.\n\n(1) A utilizar caso as partes entendam estipular sanções compulsórias e cláusulas penais adicionais, podendo fazê-lo num outro número a inserir nesta Cláusula."
+  }
+ }
+}

@@ -1,0 +1,410 @@
+---
+schema_version: '1.0'
+id: pt:dre:514837:por
+title: Decreto-Lei n.º 43178
+short_title: null
+summary: Adapta a organização da Câmara Corporativa às corporações recentemente criadas e altera e completa algumas das disposições
+  legais por que se rege a mesma Câmara
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho
+proposing_entity: null
+official_number: '43178'
+official_date: null
+publication_date: '1960-09-23'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 222/1960, Série I de 1960-09-23
+  number: '222'
+  series: I
+  supplement: null
+  pages: 1984 - 1986
+  pdf_url: https://files.diariodarepublica.pt/1s/1960/09/22200/19841986.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '514837'
+  dre_path: /dr/detalhe/decreto-lei/43178-1960-514837
+  internal: pt:dre:514837:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43178-1960-514837
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43178-1960-514837
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:33:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 689e60d1bc925d9bb8d683faf487043744a6625c8b402b0662fa59b081d3defa
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:33:39Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Bastonário
+- Câmara Corporativa
+- Definição de Competências
+- Orgânica
+- Organismo Corporativo
+- Presidente
+relationships:
+- type: amended_by
+  target: pt:dre:216969:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:510664:por
+  label: "Alterado o art. 5º pelo DEC LEI.46596.15.10.1965.MCPS, DG.IS [234] de 15.10.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46596-1965-510664
+  date: '1965-10-15'
+- type: amended_by
+  target: pt:dre:263072:por
+  label: "Dada nova redacção ao § 2º do art. 1º pelo DEC LEI.48698.23.11.1968.PC, DG.IS [276] de 23.11.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48698-1968-263072
+  date: '1968-11-23'
+- type: cites
+  target: pt:dre:254775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:254776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:254777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:254778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:338215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:338216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429416:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:33:39Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 43178
+
+Considerando a necessidade de adaptar a organização da Câmara Corporativa às corporações recentemente instituídas;
+
+Atendendo a que se torna mister alterar e completar algumas das disposições legais por que se rege a mesma Câmara;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º O agrupamento das secções e subsecções da Câmara Corporativa faz-se pela forma que de seguida se indica:
+
+Secção I - Interesses de ordem espiritual e moral:
+
+Pela Igreja Católica:
+
+Um representante a designar pelo Episcopado Português.
+
+Pelas dioceses ultramarinas e institutos missionários:
+
+Um representante a designar pelos prelados do ultramar.
+
+Pelas Misericórdias:
+
+O provedor escolhido por eleição entre os provedores das Misericórdias do País.
+
+Pelas instituições privadas de assistência:
+
+Um representante.
+
+Secção II - Interesses de ordem cultural:
+
+1.ª subsecção - Ciências e letras:
+
+Pelas Universidades:
+
+O reitor de uma delas.
+
+Pela Academia das Ciências de Lisboa:
+
+Um representante.
+
+Pela Academia Portuguesa da História:
+
+Um representante.
+
+Pelos demais institutos de investigação científica:
+
+Um representante.
+
+Um homem de letras.
+
+2.ª subsecção - Ensino:
+
+Pelas Universidades:
+
+O representante designado para a 1.ª subsecção.
+
+Pelo Grémio dos Proprietários dos Estabelecimentos de Ensino Particular:
+
+O presidente da direcção.
+
+Pelo Sindicato Nacional dos Professores:
+
+O presidente da direcção.
+
+Dois professores do ensino secundário e primário. 3.ª subsecção - Belas-artes:
+
+Pela Academia Nacional de Belas-Artes:
+
+Um representante.
+
+Pelo Sindicato Nacional dos Arquitectos:
+
+O presidente da direcção.
+
+Pelo Sindicato Nacional dos Músicos:
+
+O presidente da direcção.
+
+Um artista plástico.
+
+4.ª subsecção - Educação física e desportos:
+
+Pelos estabelecimentos e organizações de educação física:
+
+Um representante.
+
+Pelas federações desportivas:
+
+Um representante.
+
+Pelas associações venatórias e piscatórias:
+
+Um representante.
+
+Pela Fundação Nacional para a Alegria no Trabalho:
+
+Um representante.
+
+#### Secção III - Lavoura:
+
+Quatro representantes de cada uma das secções da Corporação da Lavoura, sendo dois das entidades patronais e dois dos trabalhadores, designados nos termos da alínea a) do artigo 14.º do [Decreto n.º 41287](https://diariodarepublica.pt/dr/detalhe/decreto/41287-1957-254775), de 23 de Setembro de 1958, de entre os membros dos conselhos da Corporação e das secções ou da junta disciplinar pertencentes ao sector abrangido pela respectiva secção da Corporação.
+
+Esta secção tem as seguintes subsecções, correspondentes às secções da Corporação:
+
+1.ª subsecção - Azeite.
+
+2.ª subsecção - Cereais.
+
+3.ª subsecção - Frutas e produtos hortícolas.
+
+4.ª subsecção - Pecuária.
+
+5.ª subsecção - Produtos florestais.
+
+6.ª subsecção - Vinhos.
+
+#### Secção IV - Comércio:
+
+Quatro representantes de cada uma das secções da Corporação do Comércio, sendo dois das entidades patronais e dois dos trabalhadores, designados nos termos da alínea a) do artigo 14.º do [Decreto n.º 41876](https://diariodarepublica.pt/dr/detalhe/decreto/41876-1958-338216), de 23 de Setembro de 1958, de entre os membros dos conselhos da Corporação e das secções ou da junta disciplinar pertencentes ao sector abrangido pela respectiva secção da Corporação.
+
+Esta secção tem as seguintes subsecções, correspondentes às secções da Corporação:
+
+1.ª subsecção - Comércio de exportação.
+
+2.ª subsecção - Comércio armazenista e de importação.
+
+3.ª subsecção - Comércio retalhista diferenciado.
+
+4.ª subsecção - Comércio retalhista misto.
+
+#### Secção V - Indústria:
+
+Quatro representantes de cada uma das secções da Corporação da Indústria, sendo dois das entidades patronais e dois dos trabalhadores, designados nos termos da alínea a) do artigo 14.º do [Decreto n.º 41875](https://diariodarepublica.pt/dr/detalhe/decreto/41875-1958-338215), de 23 de Setembro de 1958, de entre os membros dos conselhos da Corporação e das secções ou da junta disciplinar pertencentes ao sector abrangido pela respectiva secção da Corporação.
+
+Esta secção tem as seguintes subsecções, correspondentes às secções da Corporação:
+
+1.ª subsecção - Indústrias extractivas, energia e combustíveis.
+
+2.ª subsecção - Construção, vidro e cerâmica.
+
+3.ª subsecção - Alimentação.
+
+4.ª subsecção - Têxteis e vestuário.
+
+5.ª subsecção - Curtumes e calçado.
+
+6.ª subsecção - Cortiças.
+
+7.ª subsecção - Indústrias químicas.
+
+8.ª subsecção - Indústrias metalúrgicas e metalomecânicas.
+
+9.ª subsecção - Indústrias transformadoras diversas.
+
+Secção VI - Pesca e conservas:
+
+Quatro representantes de cada uma das secções da Corporação da Pesca e Conservas, sendo dois das entidades patronais e dois dos trabalhadores, designados nos termos da alínea a) do artigo 14.º do [Decreto n.º 41290](https://diariodarepublica.pt/dr/detalhe/decreto/41290-1957-254778), de 23 de Setembro de 1957, de entre os membros dos conselhos da Corporação e das secções ou da junta disciplinar pertencentes ao sector abrangido pela respectiva secção da Corporação.
+
+Esta secção tem as seguintes subsecções, correspondentes às secções da Corporação:
+
+1.ª subsecção - Pesca.
+
+2.ª subsecção - Conservas de peixe.
+
+Secção VII - Transportes e turismo:
+
+Quatro representantes de cada uma das secções da Corporação dos Transportes e Turismo, sendo dois das entidades patronais e dois dos trabalhadores, designados nos termos da alínea a) do artigo 14.º do [Decreto n.º 41288](https://diariodarepublica.pt/dr/detalhe/decreto/41288-1957-254776), de 23 de Setembro de 1957, de entre os membros dos conselhos da Corporação e das secções ou da junta disciplinar pertencentes ao sector abrangido pela respectiva secção da Corporação.
+
+Esta secção tem as seguintes subsecções, correspondentes às secções da Corporação:
+
+1.ª subsecção - Transportes terrestres e aéreos.
+
+2.ª subsecção - Transportes marítimos e fluviais.
+
+3.ª subsecção - Turismo e indústria hoteleira.
+
+Secção VIII - Imprensa e artes gráficas:
+
+Dois representantes de cada uma das secções da Corporação da Imprensa e Artes Gráficas, sendo um das entidades patronais e um dos profissionais, designados nos termos da alínea a) do artigo 13.º do [Decreto n.º 42523](https://diariodarepublica.pt/dr/detalhe/decreto/42523-1959-429415), de 23 de Setembro de 1959, de entre os membros dos conselhos da Corporação e das secções ou da junta disciplinar pertencentes ao sector abrangido pela respectiva secção da Corporação.
+
+Esta secção tem as seguintes subsecções, correspondentes às secções da Corporação:
+
+1.ª subsecção - Imprensa.
+
+2.ª subsecção - Livro e artes gráficas.
+
+3.ª subsecção - Indústria do papel.
+
+Secção IX - Espectáculos:
+
+Dois representantes de cada uma das secções da Corporação dos Espectáculos, sendo um das entidades patronais e um dos profissionais, designados nos termos da alínea a) do artigo 13.º do [Decreto n.º 42524](https://diariodarepublica.pt/dr/detalhe/decreto/42524-1959-429416), de 23 de Setembro de 1959, de entre os membros dos conselhos da Corporação e das secções ou cia junta disciplinar pertencentes ao sector abrangido pela respectiva secção da Corporação. O representante das entidades patronais será o mesmo para as três subsecções.
+
+Esta secção tem as seguintes subsecções, correspondentes às secções da Corporação:
+
+1.ª subsecção - Teatro, música e dança.
+
+2.ª subsecção - Cinema. 3.ª subsecção - Diversões públicas.
+
+Secção X - Crédito e seguros:
+
+Dois representantes de cada uma das secções da Corporação de Crédito e Seguros, sendo um das entidades patronais e um dos trabalhadores, designados nos termos da alínea a) do artigo 13.º do [Decreto n.º 41289](https://diariodarepublica.pt/dr/detalhe/decreto/41289-1957-254777), de 23 de Setembro de 1957, de entre os membros dos conselhos da Corporação e das secções ou da junta disciplinar pertencentes ao sector abrangido pela respectiva secção da Corporação.
+
+Esta secção tem as seguintes subsecções, correspondentes às secções da Corporação:
+
+1.ª subsecção - Crédito.
+
+2.ª subsecção - Seguros.
+
+Na 1.ª subsecção - Crédito, haverá um representante do Governo do Banco do Portugal; na 2.ª subsecção - Seguros, terá assento um representante das instituições de previdência social.
+
+Secção XI - Autarquias locais:
+
+Pela Câmara Municipal de Lisboa: o presidente;
+
+Pela Câmara Municipal do Porto: o presidente;
+
+Pelos restantes municípios urbanos do continente: um representante designado por eleição dos presidentes das respectivas câmaras municipais;
+
+Pelos municípios rurais dos distritos de Viana do Castelo, Braga, Bragança, Vila Real e Porto: um representante designado por eleição dos presidentes das respectivas câmaras municipais;
+
+Pelos municípios rurais dos distritos de Aveiro, Viseu, Coimbra, Guarda, Castelo Branco, Leiria e Lisboa: um representante designado por eleição dos presidentes das respectivas câmaras municipais;
+
+Pelos municípios rurais dos distritos de Santarém, Setúbal, Portalegre, Évora, Beja e Faro: um representante designado por eleição dos presidentes das respectivas câmaras municipais;
+
+Pelos municípios do arquipélago da Madeira: um representante designado por eleição dos presidentes das respectivas câmaras municipais;
+
+Pelos municípios do arquipélago dos Açores: um representante designado por eleição dos presidentes das respectivas câmaras municipais.
+
+Secção XII - Interesses de ordem administrativa:
+
+1.ª subsecção - Política e administração geral.
+
+2.ª subsecção - Defesa nacional.
+
+3.ª subsecção - Justiça.
+
+4.ª subsecção - Obras públicas e comunicações.
+
+5.ª subsecção - Política e economia ultramarinas.
+
+6.ª subsecção - Finanças e economia geral.
+
+7.ª subsecção - Relações internacionais.
+
+§ 1.º Salvo os casos previstos no § 2.º deste artigo e no artigo 3.º, compete ao Conselho Corporativo designar os Procuradores que hão-de fazer parte da secção XII. O seu número não poderá exceder um terço do total do número dos Procuradores que constituam a Câmara Corporativa e a designação deverá recair em pessoa de superior competência e com comprovado conhecimento das questões de administração pública.
+
+§ 2.º A representação dos interesses da defesa nacional competirá ao secretário adjunto do Secretariado-Geral da Defesa Nacional e aos subchefes dos Estados-Maiores do Exército, Naval e da Força Aérea.
+
+§ 3.º Quando não se encontrar expressamente indicada a forma de designação dos Procuradores, competirá ao Conselho Corporativo proceder a essa designação ou estabelecer a forma por que esta deva ser feita.
+
+Art. 2.º Os presidentes das Corporações serão, por direito próprio, Procuradores à Câmara Corporativa pelas secções correspondentes e fazem parte de todas as subsecções em que estas se encontram divididas.
+
+Art. 3.º Os bastonários das Ordens serão igualmente Procuradores à Câmara Corporativa por direito próprio, tendo assento nas seguintes secções e subsecções:
+
+Bastonário da Ordem dos Advogados: 3.ª subsecção (Justiça) da secção XII (Interesses de ordem administrativa);
+
+Bastonário da Ordem dos Engenheiros: subsecções das secções III (Lavoura) e V (Indústria), em conjunto, e 4.ª subsecção (Obras públicas e comunicações) da secção XII (Interesses de ordem administrativa);
+
+Bastonário da Ordem dos Médicos: secção I (Interesses de ordem espiritual e moral); 4.ª subsecção (Educação física e desportos) da secção II (Interesses de ordem cultural).
+
+Art. 4.º Quando qualquer das secções das corporações não puder ser constituída, os representantes das respectivas actividades serão designados pelo Conselho Corporativo ou pela forma que este fixar.
+
+Art. 5.º O Conselho Corporativo poderá alterar o número e a designação dos agrupamentos de actividades e interesses previstos nos artigos anteriores, nomeadamente para adoptar a organização da Câmara Corporativa às corporações que forem instituídas.
+
+§ único. À medida que forem instituídas novas corporações, os respectivos representantes substituir-se-ão aos que estiverem a representar na Câmara os mesmos interesses.
+
+Art. 6.º O Conselho Corporativo enviará à Câmara Corporativa, até oito dias antes do início de cada legislatura, uma relação dos Procuradores que tiver designado ao abrigo da sua competência.
+
+Art. 7.º Até à data indicada no artigo anterior serão enviados à Câmara Corporativa, pelas entidades competentes, os documentos comprovativos da eleição ou escolha dos Procuradores que devam ser designados por qualquer destes meios ou a indicação das pessoas a quem compete a representação por inerência dos seus cargos.
+
+Art. 8.º O acórdão da Comissão de Verificação de Poderes da Câmara Corporativa que for lido na segunda sessão preparatória de cada legislatura deverá indicar os nomes dos Procuradores em relação às secções e subsecções da Câmara. A lista dos Procuradores será publicada no Diário do Governo.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 23 de Setembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ. - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

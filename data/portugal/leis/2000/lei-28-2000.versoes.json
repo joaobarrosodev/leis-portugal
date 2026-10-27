@@ -1,0 +1,216 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:599718:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2000-75405822",
+ "dre_path": "/dr/detalhe/lei/28-2000-599718",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2000-11-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75403680",
+    "75403681",
+    "75403682",
+    "75403683",
+    "75403684",
+    "75403685",
+    "75403686"
+   ]
+  },
+  {
+   "date": "2003-08-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:656117:por",
+     "title": "Lei n.º 35/2003",
+     "published": "2003-08-22",
+     "dre_path": "/dr/detalhe/lei/35-2003-656117"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "75403680",
+    "75403711",
+    "75403682",
+    "75403683",
+    "75403684",
+    "75403685",
+    "75403686",
+    "75403687"
+   ]
+  },
+  {
+   "date": "2016-06-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:74661189:por",
+     "title": "Lei n.º 14/2016",
+     "published": "2016-06-09",
+     "dre_path": "/dr/detalhe/lei/14-2016-74661189"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "75403680",
+    "75403712",
+    "75403714",
+    "75403715",
+    "75403713",
+    "75403716",
+    "75403717",
+    "75403687"
+   ]
+  }
+ ],
+ "fragments": {
+  "75403680": {
+   "fragment_id": "75405823",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 28/2000\n\nde 29 de Novembro\n\nDefine e regula as honras do Panteão Nacional\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "75403681": {
+   "fragment_id": "75405824",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO Panteão Nacional, criado pelo Decreto de 26 de Setembro de 1836, fica instalado em Lisboa, na Igreja de Santa Engrácia."
+  },
+  "75403682": {
+   "fragment_id": "75405825",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - As honras do Panteão destinam-se a homenagear e a perpetuar a memória dos cidadãos portugueses que se distinguiram por serviços prestados ao País, no exercício de altos cargos públicos, altos serviços militares, na expansão da cultura portuguesa, na criação literária, científica e artística ou na defesa dos valores da civilização, em prol da dignificação da pessoa humana e da causa da liberdade.\n\n2 - As honras do Panteão podem consistir:\n\na) Na deposição no Panteão Nacional dos restos mortais dos cidadãos distinguidos;\n\nb) Na afixação no Panteão Nacional da lápide alusiva à sua vida e à sua obra."
+  },
+  "75403683": {
+   "fragment_id": "75405826",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - A concessão das honras do Panteão é da competência exclusiva da Assembleia da República.\n\n2 - O acto referido no número anterior será sempre fundamentado e reveste a forma de resolução da Assembleia da República."
+  },
+  "75403684": {
+   "fragment_id": "75405827",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAs honras do Panteão não poderão ser concedidas antes do decurso do prazo de um ano sobre a morte dos cidadãos distinguidos."
+  },
+  "75403685": {
+   "fragment_id": "75405828",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nSão revogados o Decreto de 26 de Setembro de 1836 e a Lei n.º 520, de 29 de Abril de 1916."
+  },
+  "75403686": {
+   "fragment_id": "75405829",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA presente lei entra em vigor no primeiro dia após a sua publicação."
+  },
+  "75403711": {
+   "fragment_id": "75405824",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2003-08-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Lei n.º 35/2003 - Diário da República n.º 193/2003, Série I-A de 2003-08-22](https://diariodarepublica.pt/dr/detalhe/lei/35-2003-656117), em vigor a partir de 2003-08-27"
+   ],
+   "markdown": "###### Artigo 1.º\n\nO Panteão Nacional, criado pelo Decreto de 26 de Setembro de 1836, fica instalado em Lisboa, na Igreja de Santa Engrácia, e em Coimbra, na Igreja de Santa Cruz, estando o uso desta última, sem prejuízo da prática do culto religioso, destinado em exclusivo à prestação de honras ao primeiro rei de Portugal e seus sucessores aí sepultados.\n\n> Alterado pelo/a Artigo único do/a [Lei n.º 35/2003 - Diário da República n.º 193/2003, Série I-A de 2003-08-22](https://diariodarepublica.pt/dr/detalhe/lei/35-2003-656117), em vigor a partir de 2003-08-27"
+  },
+  "75403687": {
+   "fragment_id": "75405830",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 12 de Outubro de 2000.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 14 de Novembro de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 16 de Novembro de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "75403712": {
+   "fragment_id": "75405824",
+   "type": 11,
+   "heading": "Artigo 1.º — Panteão Nacional",
+   "in_force_from": "2016-06-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 14/2016 - Diário da República n.º 111/2016, Série I de 2016-06-09](https://diariodarepublica.pt/dr/detalhe/lei/14-2016-74661189), em vigor a partir de 2016-06-14",
+    "Alterado pelo/a Artigo único do/a [Lei n.º 35/2003 - Diário da República n.º 193/2003, Série I-A de 2003-08-22](https://diariodarepublica.pt/dr/detalhe/lei/35-2003-656117), em vigor a partir de 2003-08-27"
+   ],
+   "markdown": "###### Artigo 1.º — Panteão Nacional\n\n1 - O Panteão Nacional, criado pelo Decreto de 26 de setembro de 1836, fica instalado em Lisboa, na Igreja de Santa Engrácia.\n\n2 - É ainda reconhecido o estatuto de Panteão Nacional, sem prejuízo da prática do culto religioso:\n\na) Ao Mosteiro dos Jerónimos, em Lisboa;\n\nb) Ao Mosteiro de Santa Maria da Vitória, na Batalha;\n\nc) À Igreja de Santa Cruz, em Coimbra.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 14/2016 - Diário da República n.º 111/2016, Série I de 2016-06-09](https://diariodarepublica.pt/dr/detalhe/lei/14-2016-74661189), em vigor a partir de 2016-06-14\n\n> Alterado pelo/a Artigo único do/a [Lei n.º 35/2003 - Diário da República n.º 193/2003, Série I-A de 2003-08-22](https://diariodarepublica.pt/dr/detalhe/lei/35-2003-656117), em vigor a partir de 2003-08-27"
+  },
+  "75403714": {
+   "fragment_id": "75405825",
+   "type": 11,
+   "heading": "Artigo 2.º — Honras do Panteão",
+   "in_force_from": "2016-06-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 14/2016 - Diário da República n.º 111/2016, Série I de 2016-06-09](https://diariodarepublica.pt/dr/detalhe/lei/14-2016-74661189), em vigor a partir de 2016-06-14"
+   ],
+   "markdown": "###### Artigo 2.º — Honras do Panteão\n\n1 - As honras do Panteão destinam-se a homenagear e a perpetuar a memória dos cidadãos portugueses que se distinguiram por serviços prestados ao País, no exercício de altos cargos públicos, altos serviços militares, na expansão da cultura portuguesa, na criação literária, científica e artística ou na defesa dos valores da civilização, em prol da dignificação da pessoa humana e da causa da liberdade.\n\n2 - As honras do Panteão podem consistir:\n\na) Na deposição no Panteão Nacional dos restos mortais dos cidadãos distinguidos;\n\nb) Na afixação no Panteão Nacional da lápide alusiva à sua vida e à sua obra.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 14/2016 - Diário da República n.º 111/2016, Série I de 2016-06-09](https://diariodarepublica.pt/dr/detalhe/lei/14-2016-74661189), em vigor a partir de 2016-06-14"
+  },
+  "75403715": {
+   "fragment_id": "75405826",
+   "type": 11,
+   "heading": "Artigo 3.º — Competência para concessão",
+   "in_force_from": "2016-06-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 14/2016 - Diário da República n.º 111/2016, Série I de 2016-06-09](https://diariodarepublica.pt/dr/detalhe/lei/14-2016-74661189), em vigor a partir de 2016-06-14"
+   ],
+   "markdown": "###### Artigo 3.º — Competência para concessão\n\n1 - A concessão das honras do Panteão é da competência exclusiva da Assembleia da República.\n\n2 - O acto referido no número anterior será sempre fundamentado e reveste a forma de resolução da Assembleia da República.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 14/2016 - Diário da República n.º 111/2016, Série I de 2016-06-09](https://diariodarepublica.pt/dr/detalhe/lei/14-2016-74661189), em vigor a partir de 2016-06-14"
+  },
+  "75403713": {
+   "fragment_id": "75405827",
+   "type": 11,
+   "heading": "Artigo 4.º — Prazo de concessão",
+   "in_force_from": "2016-06-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 14/2016 - Diário da República n.º 111/2016, Série I de 2016-06-09](https://diariodarepublica.pt/dr/detalhe/lei/14-2016-74661189), em vigor a partir de 2016-06-14"
+   ],
+   "markdown": "###### Artigo 4.º — Prazo de concessão\n\nAs honras do Panteão não podem ser concedidas antes do decurso do prazo de:\n\na) Vinte anos sobre a morte das pessoas distinguidas, nos casos da alínea a) do n.º 2 do artigo 2.º;\n\nb) Cinco anos sobre a morte das pessoas distinguidas, nos casos da alínea b) do n.º 2 do artigo 2.º.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 14/2016 - Diário da República n.º 111/2016, Série I de 2016-06-09](https://diariodarepublica.pt/dr/detalhe/lei/14-2016-74661189), em vigor a partir de 2016-06-14"
+  },
+  "75403716": {
+   "fragment_id": "75405828",
+   "type": 11,
+   "heading": "Artigo 5.º — Norma revogatória",
+   "in_force_from": "2016-06-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 14/2016 - Diário da República n.º 111/2016, Série I de 2016-06-09](https://diariodarepublica.pt/dr/detalhe/lei/14-2016-74661189), em vigor a partir de 2016-06-14"
+   ],
+   "markdown": "###### Artigo 5.º — Norma revogatória\n\nSão revogados o Decreto de 26 de Setembro de 1836 e a Lei n.º 520, de 29 de Abril de 1916.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 14/2016 - Diário da República n.º 111/2016, Série I de 2016-06-09](https://diariodarepublica.pt/dr/detalhe/lei/14-2016-74661189), em vigor a partir de 2016-06-14"
+  },
+  "75403717": {
+   "fragment_id": "75405829",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": "2016-06-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 14/2016 - Diário da República n.º 111/2016, Série I de 2016-06-09](https://diariodarepublica.pt/dr/detalhe/lei/14-2016-74661189), em vigor a partir de 2016-06-14"
+   ],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente lei entra em vigor no primeiro dia após a sua publicação.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 14/2016 - Diário da República n.º 111/2016, Série I de 2016-06-09](https://diariodarepublica.pt/dr/detalhe/lei/14-2016-74661189), em vigor a partir de 2016-06-14"
+  }
+ }
+}

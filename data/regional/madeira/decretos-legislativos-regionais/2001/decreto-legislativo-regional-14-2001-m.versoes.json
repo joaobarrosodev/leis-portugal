@@ -1,0 +1,46 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:313835:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-957618011",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/14-2001-313835",
+ "source_lastmod": "2025-11-28",
+ "versions": [
+  {
+   "date": "2001-05-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "953218371",
+    "953218372",
+    "953218373"
+   ]
+  }
+ ],
+ "fragments": {
+  "953218371": {
+   "fragment_id": "957618012",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 14/2001/M\n\nAltera o Decreto Legislativo Regional n.º 5/2000/M, de 28 de Fevereiro, que estabelece o regime de deduções à colecta relativa aos lucros comerciais, industriais e agrícolas reinvestidos pelos sujeitos passivos de IRS.\n\nO presente decreto legislativo regional vem alterar o Decreto Legislativo Regional n.º 5/2000/M, de 28 de Fevereiro, que estabelece o regime de deduções à colecta relativa aos lucros comerciais, industriais e agrícolas reinvestidos pelos sujeitos passivos de IRS que exerçam a título principal uma actividade de natureza comercial, industrial ou agrícola, incluídos nas categorias C e D daquele imposto, que possuam, ou venham a possuir, para efeitos de aplicação deste diploma, contabilidade organizada e que sejam considerados fiscalmente residentes na Região Autónoma da Madeira.\n\nAs alterações agora efectuadas atendem ao estabelecido nas orientações comunitárias relativas aos auxílios estatais com finalidade regional (JO, n.º C 74, de 10 de Março de 1988), à luz das quais o presente regime de auxílio ao investimento foi examinado pela Comissão Europeia.\n\nApós a análise efectuada, a Comissão decidiu não levantar objecções à aplicação do referido regime de auxílios, por ter verificado que o mesmo satisfazia as condições estabelecidas para se considerar compatível com o mercado comum, ao abrigo das derrogações previstas na alínea a) do n.º 3 do artigo 87.º do Tratado CE e na alínea a) do n.º 3 do artigo 61.º do Acordo sobre o Espaço Económico Europeu (EEE).\n\nPorém, tal decisão implica que a aplicação do regime tome em conta o disposto nas orientações comunitárias relativas à concessão de auxílios estatais com finalidade regional e, bem assim, que se proceda no Decreto Legislativo Regional n.º 5/2000/M, de 28 de Fevereiro, à alteração respeitante nomeadamente ao período mínimo que o investimento produtivo objecto de auxílio deverá manter-se na Região (cinco anos), bem como à introdução de demais elementos que decorrentes daquelas orientações se entendem como de precisão na aplicação do regime.\n\nAssim:\n\nA Assembleia Legislativa Regional da Madeira decreta, ao abrigo do disposto na alínea i) do n.º 1 do artigo 227.º da Constituição e da alínea f) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, na redacção e numeração da Lei n.º 130/99, de 21 de Agosto, o seguinte:"
+  },
+  "953218372": {
+   "fragment_id": "957618013",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs artigos 3.º e 4.º do Decreto Legislativo Regional n.º 5/2000/M, de 28 de Fevereiro, passam a ter a seguinte redacção:\n\n«Artigo 1.º\n\nInvestimento elegível\n\n1 - Para efeitos do disposto no artigo anterior, considera-se elegível o investimento em activo imobilizado corpóreo concretizado na Região Autónoma da Madeira que seja afecto à exploração pelo sujeito passivo e que tenha sido adquirido em estado novo, com excepção de:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) Despesas destinadas à aquisição de material de transporte, no sector dos transportes;\n\nf) Outros bens de investimento não directa e imprescindivelmente associados à actividade produtiva exercida pelo sujeito passivo.\n\n2 - Atentas as excepções indicadas, entende-se por investimento elegível o investimento inicial em activo imobilizado corpóreo para a criação de um novo estabelecimento, para a extensão de um estabelecimento existente ou para o arranque de uma actividade que implique uma alteração fundamental do produto ou do processo de produção de um estabelecimento existente, através da racionalização, diversificação ou modernização.\n\n3 - Os projectos elegíveis devem ser financeira e economicamente viáveis, sendo fixada em 25% a taxa mínima de comparticipação do beneficiário no financiamento dos mesmos.\n\nArtigo 4.º\n\nCondições de acesso\n\n...\n\na) ...\n\nb) Mantenham afectos à exploração durante um período mínimo de cinco anos os bens objecto do investimento;\n\nc) ..."
+  },
+  "953218373": {
+   "fragment_id": "957618014",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

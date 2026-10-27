@@ -1,0 +1,1082 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32000R2707:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000R2707-20080801",
+ "dre_path": null,
+ "source_lastmod": "2008-08-01",
+ "versions": [
+  {
+   "date": "2000-12-12",
+   "future": false,
+   "celex": "32000R2707",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "132d8e2dc13a6d68",
+    "70cfda63edd269f2",
+    "d5539b0431a633d3",
+    "f68e85c518b2838c",
+    "6a9a673d559e808c",
+    "62f69a2dd8af1549",
+    "037decbbacdd4c27",
+    "781a714172c1b346",
+    "eef639f21e585034",
+    "3b92ccd748ad8d29",
+    "cce5138210edacaa",
+    "6d7ff64290028e66",
+    "07f405b1a8904980",
+    "fbd462db52950be1",
+    "f065d76e3c72c99f",
+    "55942fb89902275b",
+    "fb8865bd8607b603",
+    "1b52b3d6df47d900",
+    "75abe5aa6887cdcb"
+   ]
+  },
+  {
+   "date": "2004-05-01",
+   "future": false,
+   "celex": "02000R2707-20040501",
+   "acts": [
+    {
+     "id": "eu:celex:32004R0816:por",
+     "title": "REGULAMENTO (CE) N. o 816/2004 DA COMISSÃO de 29 de Abril de 2004",
+     "published": null,
+     "celex": "32004R0816"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Beneficiários da ajuda",
+    "Altera Artigo 3.º — Produtos lácteos elegíveis para a concessão da ajuda",
+    "Altera Artigo 4.º — Montante da ajuda",
+    "Altera Artigo 14.º — Medidas de controlo",
+    "Altera Artigo 15.º — Comunicações",
+    "Altera Artigo 17.º — Entrada em vigor",
+    "Adita Artigo 5.º",
+    "Adita ANEXO I",
+    "Adita Lista dos produtos que podem beneficiar da ajuda comunitária",
+    "Adita Categoria I",
+    "Adita Categoria II",
+    "Adita Categoria III",
+    "Adita Categoria IV",
+    "Adita Categoria V",
+    "Adita Categoria VI",
+    "Adita Categoria VII",
+    "Adita Categoria VIII",
+    "Adita Categoria IX",
+    "Adita Categoria X",
+    "Adita Categoria XI",
+    "Adita Categoria XII",
+    "Adita ANEXO II",
+    "Adita A. Montantes da ajuda para o período de 1 de Maio de 2004 a 30 de Junho de 2004:",
+    "Adita B. Montantes da ajuda para o período de 1 de Julho de 2004 a 30 de Junho de 2005:",
+    "Adita C. Montantes da ajuda para o período de 1 de Julho de 2005 a 30 de Junho de 2006:",
+    "Adita D. Montantes da ajuda para o período de 1 de Julho de 2006 a 30 de Junho de 2007:",
+    "Adita E. Montantes da ajuda a partir de 1 de Julho de 2007:",
+    "Adita Notas",
+    "Suprime Artigo 5.º — Aplicação da quantidade máxima subvencionada",
+    "Suprime ANEXO — LISTA DOS PRODUTOS QUE PODEM BENEFICIAR DA AJUDA COMUNITÁRIA"
+   ],
+   "fragments": [
+    "be200a827673a7c6",
+    "3a14f97c50b75746",
+    "d3646423335b5f34",
+    "c77d6b65aa1b1df3",
+    "dfc279fce36ff630",
+    "e400b44bd2a5c7cf",
+    "38f6e82f46c2bdf8",
+    "781a714172c1b346",
+    "4917014f6c2b4a43",
+    "58b112e0d36f9a96",
+    "4c9647e9871a2d18",
+    "6d7ff64290028e66",
+    "fad97089a616af9e",
+    "8a383cf76c043072",
+    "1cdc8ab69e34237c",
+    "ac84277c3b49ec7f",
+    "ebe86c20f8225406",
+    "617131ab2b7ae07f",
+    "d664376e2a8dcecd",
+    "d8aac8caec2e6de1",
+    "75ea67953af2b4d2",
+    "2fbf5a7c60ca4083",
+    "8edc0e293ffdf42b",
+    "9b8230cbc527b915",
+    "60935b046b9d1eaf",
+    "71221ef7859c3edd",
+    "76fff6385e08a22c",
+    "8f6c40393e58db0d",
+    "3e2d805576dd3313",
+    "42dca5c0cd86e53a",
+    "469ee94e086784f2",
+    "6370ac0a3f74c015",
+    "852174729551523b",
+    "69d9f7875fa3aea1",
+    "bf0a74654c422567",
+    "d7b48318a1f3a5d2",
+    "8f4f2ea698a18d59",
+    "50e2228f8309ade3",
+    "11fbe4771611a7aa"
+   ]
+  },
+  {
+   "date": "2006-01-01",
+   "future": false,
+   "celex": "02000R2707-20060101",
+   "acts": [
+    {
+     "id": "eu:celex:32005R2107:por",
+     "title": "REGULAMENTO (CE) N. o 2107/2005 DA COMISSÃO de 21 de Dezembro de 2005",
+     "published": null,
+     "celex": "32005R2107"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Produtos lácteos elegíveis para a concessão da ajuda",
+    "Altera Categoria VIII",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "2a02b613e6cf8109",
+    "3a14f97c50b75746",
+    "d3646423335b5f34",
+    "624850005a4b3b07",
+    "dfc279fce36ff630",
+    "e400b44bd2a5c7cf",
+    "38f6e82f46c2bdf8",
+    "781a714172c1b346",
+    "4917014f6c2b4a43",
+    "58b112e0d36f9a96",
+    "4c9647e9871a2d18",
+    "6d7ff64290028e66",
+    "fad97089a616af9e",
+    "8a383cf76c043072",
+    "1cdc8ab69e34237c",
+    "ac84277c3b49ec7f",
+    "ebe86c20f8225406",
+    "617131ab2b7ae07f",
+    "d664376e2a8dcecd",
+    "d8aac8caec2e6de1",
+    "75ea67953af2b4d2",
+    "2fbf5a7c60ca4083",
+    "8edc0e293ffdf42b",
+    "9b8230cbc527b915",
+    "60935b046b9d1eaf",
+    "71221ef7859c3edd",
+    "76fff6385e08a22c",
+    "55e4f1f3ea43d2f6",
+    "3e2d805576dd3313",
+    "42dca5c0cd86e53a",
+    "469ee94e086784f2",
+    "6370ac0a3f74c015",
+    "852174729551523b",
+    "69d9f7875fa3aea1",
+    "bf0a74654c422567",
+    "d7b48318a1f3a5d2",
+    "8f4f2ea698a18d59",
+    "50e2228f8309ade3",
+    "375e3a03c74c0a7f"
+   ]
+  },
+  {
+   "date": "2006-06-30",
+   "future": false,
+   "celex": "02000R2707-20060630",
+   "acts": [
+    {
+     "id": "eu:celex:32006R0943:por",
+     "title": "REGULAMENTO (CE) N. o 943/2006 DA COMISSÃO de 26 de Junho de 2006",
+     "published": null,
+     "celex": "32006R0943"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Produtos lácteos elegíveis para a concessão da ajuda",
+    "Altera Artigo 4.º — Montante da ajuda",
+    "Altera Categoria VIII",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "b51fc6a7884155eb",
+    "3a14f97c50b75746",
+    "d3646423335b5f34",
+    "7e1988c5eb9bb13a",
+    "11f66594083b3552",
+    "e400b44bd2a5c7cf",
+    "38f6e82f46c2bdf8",
+    "781a714172c1b346",
+    "4917014f6c2b4a43",
+    "58b112e0d36f9a96",
+    "4c9647e9871a2d18",
+    "6d7ff64290028e66",
+    "fad97089a616af9e",
+    "8a383cf76c043072",
+    "1cdc8ab69e34237c",
+    "ac84277c3b49ec7f",
+    "ebe86c20f8225406",
+    "617131ab2b7ae07f",
+    "d664376e2a8dcecd",
+    "d8aac8caec2e6de1",
+    "75ea67953af2b4d2",
+    "2fbf5a7c60ca4083",
+    "8edc0e293ffdf42b",
+    "9b8230cbc527b915",
+    "60935b046b9d1eaf",
+    "71221ef7859c3edd",
+    "76fff6385e08a22c",
+    "32e0de3ea1ea70b4",
+    "3e2d805576dd3313",
+    "42dca5c0cd86e53a",
+    "469ee94e086784f2",
+    "6370ac0a3f74c015",
+    "852174729551523b",
+    "69d9f7875fa3aea1",
+    "bf0a74654c422567",
+    "d7b48318a1f3a5d2",
+    "8f4f2ea698a18d59",
+    "50e2228f8309ade3",
+    "a12486b29f54d01e"
+   ]
+  },
+  {
+   "date": "2007-06-25",
+   "future": false,
+   "celex": "02000R2707-20070625",
+   "acts": [
+    {
+     "id": "eu:celex:32007R0704:por",
+     "title": "REGULAMENTO (CE) N. o 704/2007 DA COMISSÃO de 21 de Junho de 2007",
+     "published": null,
+     "celex": "32007R0704"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Produtos lácteos elegíveis para a concessão da ajuda",
+    "Altera Artigo 4.º — Montante da ajuda",
+    "Altera Categoria VIII",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "b66e8bb5e265244c",
+    "3a14f97c50b75746",
+    "d3646423335b5f34",
+    "934edf34a7c13fc4",
+    "b2ace1394f70ad0f",
+    "e400b44bd2a5c7cf",
+    "38f6e82f46c2bdf8",
+    "781a714172c1b346",
+    "4917014f6c2b4a43",
+    "58b112e0d36f9a96",
+    "4c9647e9871a2d18",
+    "6d7ff64290028e66",
+    "fad97089a616af9e",
+    "8a383cf76c043072",
+    "1cdc8ab69e34237c",
+    "ac84277c3b49ec7f",
+    "ebe86c20f8225406",
+    "617131ab2b7ae07f",
+    "d664376e2a8dcecd",
+    "d8aac8caec2e6de1",
+    "75ea67953af2b4d2",
+    "2fbf5a7c60ca4083",
+    "8edc0e293ffdf42b",
+    "9b8230cbc527b915",
+    "60935b046b9d1eaf",
+    "71221ef7859c3edd",
+    "76fff6385e08a22c",
+    "84f220d65e50a430",
+    "3e2d805576dd3313",
+    "42dca5c0cd86e53a",
+    "469ee94e086784f2",
+    "6370ac0a3f74c015",
+    "852174729551523b",
+    "69d9f7875fa3aea1",
+    "bf0a74654c422567",
+    "d7b48318a1f3a5d2",
+    "8f4f2ea698a18d59",
+    "50e2228f8309ade3",
+    "92743729fb7240d6"
+   ]
+  },
+  {
+   "date": "2008-01-01",
+   "future": false,
+   "celex": "02000R2707-20080101",
+   "acts": [
+    {
+     "id": "eu:celex:32007R1544:por",
+     "title": "REGULAMENTO (CE) N. o 1544/2007 DA COMISSÃO de 20 de Dezembro de 2007",
+     "published": null,
+     "celex": "32007R1544"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º — Montante da ajuda",
+    "Altera Artigo 5.º",
+    "Altera Categoria I",
+    "Altera Categoria II",
+    "Altera Categoria III",
+    "Altera Categoria IV",
+    "Altera Categoria V",
+    "Altera Categoria VI",
+    "Altera Notas",
+    "Adita Artigo 3.º",
+    "Adita Montantes da ajuda",
+    "Suprime Artigo 3.º — Produtos lácteos elegíveis para a concessão da ajuda",
+    "Suprime Categoria VII",
+    "Suprime Categoria VIII",
+    "Suprime Categoria IX",
+    "Suprime Categoria X",
+    "Suprime Categoria XI",
+    "Suprime Categoria XII",
+    "Suprime A. Montantes da ajuda para o período de 1 de Maio de 2004 a 30 de Junho de 2004:",
+    "Suprime B. Montantes da ajuda para o período de 1 de Julho de 2004 a 30 de Junho de 2005:",
+    "Suprime C. Montantes da ajuda para o período de 1 de Julho de 2005 a 30 de Junho de 2006:",
+    "Suprime D. Montantes da ajuda para o período de 1 de Julho de 2006 a 30 de Junho de 2007:",
+    "Suprime E. Montantes da ajuda a partir de 1 de Julho de 2007:"
+   ],
+   "fragments": [
+    "083088883d16db05",
+    "3a14f97c50b75746",
+    "d3646423335b5f34",
+    "f21ab802633fa8d9",
+    "4a602f9f9b6659fc",
+    "ad06b2b4bf2890d4",
+    "38f6e82f46c2bdf8",
+    "781a714172c1b346",
+    "4917014f6c2b4a43",
+    "58b112e0d36f9a96",
+    "4c9647e9871a2d18",
+    "6d7ff64290028e66",
+    "fad97089a616af9e",
+    "8a383cf76c043072",
+    "1cdc8ab69e34237c",
+    "ac84277c3b49ec7f",
+    "ebe86c20f8225406",
+    "617131ab2b7ae07f",
+    "d664376e2a8dcecd",
+    "d8aac8caec2e6de1",
+    "7a95e4187884fb79",
+    "e78748cec4de6309",
+    "c1f3aa13cd1bad15",
+    "8e19b3236d8a1e33",
+    "7a03271295b3319a",
+    "544f9da237b525e5",
+    "852174729551523b",
+    "c5a1d5c3f379dc09",
+    "22fe0a2ee8e3e9ca"
+   ]
+  },
+  {
+   "date": "2008-08-01",
+   "future": false,
+   "celex": "02000R2707-20080801",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objecto",
+    "Suprime Artigo 2.º — Beneficiários da ajuda",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º — Montante da ajuda",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º — Condições gerais para a concessão da ajuda",
+    "Suprime Artigo 7.º — Aprovação dos requerentes",
+    "Suprime Artigo 8.º — Condições gerais de aprovação",
+    "Suprime Artigo 9.º — Condições específicas para a aprovação de determinados requerentes",
+    "Suprime Artigo 10.º — Suspensão e revogação da aprovação",
+    "Suprime Artigo 11.º — Pedido de pagamento",
+    "Suprime Artigo 12.º — Pagamento da ajuda",
+    "Suprime Artigo 13.º — Pagamento de adiantamentos",
+    "Suprime Artigo 14.º — Medidas de controlo",
+    "Suprime Artigo 15.º — Comunicações",
+    "Suprime Artigo 16.º — Revogação",
+    "Suprime Artigo 17.º — Entrada em vigor",
+    "Suprime ANEXO I",
+    "Suprime Lista dos produtos que podem beneficiar da ajuda comunitária",
+    "Suprime Categoria I",
+    "Suprime Categoria II",
+    "Suprime Categoria III",
+    "Suprime Categoria IV",
+    "Suprime Categoria V",
+    "Suprime Categoria VI",
+    "Suprime ANEXO II",
+    "Suprime Montantes da ajuda",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "79947ca40e0ee082"
+   ]
+  }
+ ],
+ "fragments": {
+  "132d8e2dc13a6d68": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.o 2707/2000 da Comissão, de 11 de Dezembro de 2000, que estabelece as normas de execução do Regulamento (CE) n.o 1255/1999 do Conselho no que respeita à concessão de uma ajuda comunitária para o fornecimento de leite e de determinados produtos lácteos aos alunos de estabelecimentos de ensino** *Jornal Oficial nº L 311 de 12/12/2000 p. 0037 - 0042*\n\nRegulamento (CE) n.o 2707/2000 da Comissão\n\nde 11 de Dezembro de 2000\n\nque estabelece as normas de execução do Regulamento (CE) n.o 1255/1999 do Conselho no que respeita à concessão de uma ajuda comunitária para o fornecimento de leite e de determinados produtos lácteos aos alunos de estabelecimentos de ensino\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.o 1255/1999 do Conselho, de 17 de Maio de 1999, que estabelece a organização comum de mercado no sector do leite e dos produtos lácteos(1), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1670/2000(2), e, nomeadamente, o seu artigo 15.o,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.o 1255/1999 substituiu o Regulamento (CEE) n.o 804/68 do Conselho(3), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1587/96(4), e, entre outros, o Regulamento (CEE) n.o 1842/83 do Conselho(5), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1958/97(6), que estabelece as regras gerais relativas ao fornecimento de leite e de certos produtos lácteos aos alunos dos estabelecimentos escolares. De modo a ter em conta o novo regime de ajuda comunitária, bem como a experiência adquirida, importa alterar e simplificar as disposições do Regulamento (CE) n.o 3392/93 da Comissão, de 10 de Dezembro de 1993, relativo às normas de execução do Regulamento (CEE) n.o 1842/83 respeitantes à cessão do leite e de certos produtos lácteos aos alunos dos estabelecimentos de ensino(7), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 2235/97(8). Além da referida alteração, é oportuno, por motivos de clareza, efectuar uma reformulação do regulamento em causa.\n\n(2) No que respeita aos beneficiários do regime de ajuda, há que privilegiar os jardins de infância e o ensino primário, facultando aos Estados-Membros a opção de abranger ou não o ensino secundário. De modo a simplificar a gestão do regime, recomenda-se a exclusão do consumo dos alunos no decurso de estadias em colónias de férias.\n\n(3) A utilização de produtos lácteos subvencionados na preparação de refeições destinadas aos alunos confronta-se com problemas de controlo. Além disso, a referida utilização afigura-se um meio pouco eficaz para atingir os objectivos do regime de ajudas em causa. Deve, pois, restringir-se aquela possibilidade de distribuição.\n\n(4) No estabelecimento da lista dos produtos lácteos elegíveis para a ajuda devem privilegiar-se alguns produtos lácteos de base cujo consumo é essencial para o equilíbrio do mercado. Além disso, de modo a ter em conta os diversos hábitos de consumo na Comunidade, deve prever-se a possibilidade de os Estados-Membros incluírem também determinados produtos lácteos com teor de gordura reduzido, bem como determinados queijos.\n\n(5) O n.o 3 do artigo 14.o do Regulamento (CE) n.o 1255/1999, alterado pelo Regulamento (CE) n.o 1670/2000, prevê, para o leite inteiro, um novo montante de ajuda igual a 75 % do preço indicativo, e, para os restantes produtos lácteos, uma ajuda cujo montante é estabelecido em função dos componentes lácteos dos produtos. Há que especificar o montante das ajudas para os diversos produtos tendo em conta as normas supracitadas.\n\n(6) No que respeita ao pagamento da ajuda, importa especificar as condições que os requerentes da mesma devem satisfazer, bem como as formalidades a cumprir para a entrega dos pedidos, as verificações a efectuar pelas autoridades competentes e as modalidades de pagamento. É recomendável basear a gestão dos pagamentos das ajudas e o controlo do regime no acordo dos interessados. De modo a simplificar a gestão do regime, deve facilitar-se a centralização dos pedidos de ajudas por organizações que efectuem o pedido para vários estabelecimentos de ensino.\n\n(7) O n.o 4 do artigo 14.o do Regulamento (CE) n.o 1255/1999 estipula que a concessão da ajuda é limitada a uma quantidade de 0,25 litros de equivalente-leite por aluno e por dia. Há que especificar os valores dos equivalentes-leite para os diversos produtos.\n\n(8) Devem estabelecer-se as normas de controlo do regime de ajuda em causa, de modo a garantir, nomeadamente, que o montante da ajuda se reflecte no preço pago pelos beneficiários e que os produtos lácteos subvencionados não são desviados do destino previsto.\n\n(9) Em virtude da data de aplicação do novo montante da ajuda e de modo a permitir que as autoridades competentes preparem a aplicação das novas disposições, é conveniente aplicar o presente regulamento a partir de 1 de Janeiro de 2001.\n\n(10) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão do Leite e dos Produtos Lácteos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "70cfda63edd269f2": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente regulamento estabelece as normas de execução do Regulamento (CE) n.o 1255/1999 no que respeita à concessão de uma ajuda comunitária para o fornecimento de determinados produtos lácteos aos alunos de estabelecimentos de ensino (a seguir denominada \"ajuda\"), nos termos do seu artigo 14.o"
+  },
+  "d5539b0431a633d3": {
+   "fragment_id": "Artigo 2.º — Beneficiários da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Beneficiários da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Beneficiários da ajuda\n\n1. Os beneficiários da ajuda são os alunos que frequentam regularmente um estabelecimento de ensino incluído numa das seguintes categorias:\n\na) Jardins de infância e outros estabelecimentos de ensino pré-escolar organizados ou reconhecidos pela autoridade competente do Estado-Membro;\n\nb) Escolas primárias;\n\nc) Escolas secundárias, se o Estado-Membro em causa decidir incluí-las no regime aplicado no seu território.\n\n2. Os alunos referidos no n.o 1 não beneficiam da ajuda durante as suas estadias em colónias de férias organizadas, nomeadamente, pelo estabelecimento de ensino em causa ou pela respectiva instituição de administração escolar.\n\n3. A concessão da ajuda depende do compromisso por escrito, perante a autoridade competente, do estabelecimento de ensino ou, se for caso disso, da instituição de administração escolar, de não utilizar os produtos lácteos subvencionados na preparação de refeições.\n\nTodavia, mediante pedido devidamente justificado de um Estado-Membro, a Comissão pode autorizar este último a derrogar o disposto no primeiro parágrafo."
+  },
+  "f68e85c518b2838c": {
+   "fragment_id": "Artigo 3.º — Produtos lácteos elegíveis para a concessão da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Produtos lácteos elegíveis para a concessão da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Produtos lácteos elegíveis para a concessão da ajuda\n\n1. Os Estados-Membros pagam a ajuda para os produtos lácteos incluídos nas categorias I e III do anexo.\n\n2. Sem prejuízo do Regulamento (CE) n.o 2596/97 do Conselho(9), os Estados-Membros têm a possibilidade de pagar a ajuda aos produtos lácteos incluídos nas categorias II e IV a IX do anexo.\n\n3. No que respeita aos departamentos ultramarinos franceses, o leite achocolatado ou leite aromatizado incluído no anexo pode ser leite reconstituído.\n\n4. Os Estados-Membros podem autorizar a adição de, no máximo, 5 miligramas de flúor por quilograma de produto incluído nas categorias I a V do anexo.\n\n5. Os produtos incluídos no n.o 2, alíneas b) e c), do artigo 3.o do Regulamento (CE) n.o 2597/97 do Conselho(10) são assimilados, de acordo com o caso, a leite inteiro, leite meio-gordo e leite magro."
+  },
+  "6a9a673d559e808c": {
+   "fragment_id": "Artigo 4.º — Montante da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Montante da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Montante da ajuda\n\n1. O montante da ajuda comunitária é de:\n\na) 23,24 euros por 100 kg de produtos da categoria I do anexo;\n\nb) 21,82 euros por 100 kg de produtos da categoria II do anexo;\n\nc) 17,58 euros por 100 kg de produtos da categoria III do anexo;\n\nd) 16,17 euros por 100 kg de produtos da categoria IV do anexo;\n\ne) 13,34 euros por 100 kg de produtos da categoria V do anexo;\n\nf) 69,72 euros por 100 kg de produtos da categoria VI do anexo;\n\ng) 177,79 euros por 100 kg de produtos da categoria VII do anexo;\n\nh) 197,54 euros por 100 kg de produtos da categoria VIII do anexo;\n\ni) 217,29 euros por 100 kg de produtos da categoria IX do anexo.\n\n2. Em derrogação ao n.o 1, no caso de a ajuda exceder o preço de venda praticado pelo fornecedor antes da dedução da ajuda, a mesma é reduzida de modo a não exceder o preço do produto em causa.\n\n3. Em caso de alteração do montante da ajuda, expresso em euros, o referido montante, no que respeita às quantidades a preços reduzidos fornecidas no mês em curso, é o montante aplicável no primeiro dia do mês.\n\n4. Se as quantidades de produtos fornecidos forem expressas em litros, a conversão de litros em quilogramas é efectuada por aplicação do coeficiente 1,03."
+  },
+  "62f69a2dd8af1549": {
+   "fragment_id": "Artigo 5.º — Aplicação da quantidade máxima subvencionada",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Aplicação da quantidade máxima subvencionada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Aplicação da quantidade máxima subvencionada\n\n1. Para a aplicação da quantidade máxima de 0,25 litros referida no n.o 4 do artigo 14.o do Regulamento (CE) n.o 1255/1999, são tidas em conta as quantidades totais de produtos lácteos que dão direito à ajuda no período para o qual a mesma é solicitada, bem como o número de alunos inscritos no estabelecimento de ensino em causa.\n\n2. No caso dos produtos das categorias VI a IX do anexo, o cálculo referido no n.o 1 é efectuado com base nas seguintes quantidades:\n\na) 100 kg de produtos da categoria VI do anexo correspondem a 300 kg de leite inteiro;\n\nb) 100 kg de produtos da categoria VII do anexo correspondem a 765 kg de leite inteiro;\n\nc) 100 kg de produtos da categoria VIII do anexo correspondem a 850 kg de leite inteiro;\n\nd) 100 kg de produtos da categoria IX do anexo correspondem a 935 kg de leite inteiro."
+  },
+  "037decbbacdd4c27": {
+   "fragment_id": "Artigo 6.º — Condições gerais para a concessão da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Condições gerais para a concessão da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições gerais para a concessão da ajuda\n\n1. A ajuda é concedida a um requerente aprovado em conformidade com os artigos 7.o, 8.o e 9.o, para o fornecimento de géneros produzidos na Comunidade e incluídos no anexo, comprados no Estado-Membro em que se situa o estabelecimento de ensino.\n\n2. A ajuda pode ser solicitada para:\n\na) O estabelecimento de ensino;\n\nb) A instituição de administração escolar que apresenta o pedido de ajuda para os produtos distribuídos aos alunos sob a sua competência;\n\nc) Caso tal seja previsto pelo Estado-Membro, o fornecedor dos produtos;\n\nd) Caso tal seja previsto pelo Estado-Membro, uma organização que efectua o pedido de ajuda por conta de uma ou mais escolas ou instituições de administração escolar, constituída especificamente para a finalidade em causa."
+  },
+  "781a714172c1b346": {
+   "fragment_id": "Artigo 7.º — Aprovação dos requerentes",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Aprovação dos requerentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Aprovação dos requerentes\n\nO requerente da ajuda deve ser aprovado para esse fim pelo organismo competente do Estado-Membro em cujo território se situa o estabelecimento de ensino ao qual os produtos lácteos são fornecidos."
+  },
+  "eef639f21e585034": {
+   "fragment_id": "Artigo 8.º — Condições gerais de aprovação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Condições gerais de aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Condições gerais de aprovação\n\nA aprovação encontra-se dependente dos seguintes compromissos, assumidos por escrito pelo requerente perante a autoridade competente:\n\na) Apenas utilizar os produtos lácteos para consumo pelos alunos com vínculo ao seu estabelecimento ou aos estabelecimentos para os quais tenha solicitado a ajuda, consoante o caso;\n\nb) Reembolsar as ajudas pagas indevidamente para as quantidades em causa, se se verificar que os produtos lácteos não foram fornecidos aos beneficiários previstos no artigo 2.o ou que a ajuda foi paga para quantidades superiores às decorrentes da aplicação do artigo 5.o;\n\nc) Colocar à disposição das autoridades competentes, a pedido destas, documentos justificativos;\n\nd) Permitir a realização de inspecções no local."
+  },
+  "3b92ccd748ad8d29": {
+   "fragment_id": "Artigo 9.º — Condições específicas para a aprovação de determinados requerentes",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Condições específicas para a aprovação de determinados requerentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Condições específicas para a aprovação de determinados requerentes\n\n1. Caso a ajuda seja solicitada pelo fornecedor, além das condições previstas no artigo 8.o, a aprovação encontra-se dependente dos seguintes compromissos assumidos por escrito pelo mesmo:\n\na) Manter uma contabilidade em que sejam registados, nomeadamente, o fabricante dos produtos lácteos, o nome e o endereço dos estabelecimentos de ensino ou, se for caso disso, das instituições de administração escolar, e as quantidades de produtos lácteos vendidas ou fornecidas aos estabelecimentos em causa;\n\nb) Submeter-se a qualquer medida de controlo determinada pelo organismo competente do Estado-Membro em causa, nomeadamente no que respeita à verificação da contabilidade.\n\n2. Caso a ajuda seja solicitada por uma organização referida no n.o 2, alínea d), do artigo 6.o, além das condições previstas no artigo 8.o, a aprovação encontra-se dependente dos seguintes compromissos assumidos por escrito pela mesma:\n\na) Manter uma contabilidade que inclua, nomeadamente, o fabricante ou fornecedor dos produtos lácteos, o nome e o endereço dos estabelecimentos de ensino ou, se for caso disso, das instituições de administração escolar, e as quantidades de produtos lácteos vendidas ou fornecidas aos estabelecimentos em causa;\n\nb) Submeter-se a qualquer medida de controlo determinada pelo organismo competente do Estado-Membro em causa, nomeadamente no que respeita à verificação da contabilidade."
+  },
+  "cce5138210edacaa": {
+   "fragment_id": "Artigo 10.º — Suspensão e revogação da aprovação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Suspensão e revogação da aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Suspensão e revogação da aprovação\n\nCaso se observe que um requerente da ajuda deixou de satisfazer as condições referidas nos artigos 8.o e 9.o ou qualquer outra obrigação decorrente do presente regulamento, a aprovação é suspensa por um período de um a doze meses ou revogada, em função da gravidade da ocorrência.\n\nAs medidas previstas no primeiro parágrafo não são aplicáveis em caso de força maior e se o Estado-Membro comprovar que a irregularidade não foi cometida deliberadamente ou por negligência, ou se a mesma for de importância reduzida.\n\nEm caso de revogação da aprovação, esta última pode ser restabelecida, a pedido do interessado, decorrido um período de, pelo menos, seis meses."
+  },
+  "6d7ff64290028e66": {
+   "fragment_id": "Artigo 11.º — Pedido de pagamento",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Pedido de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Pedido de pagamento\n\n1. O pedido de pagamento da ajuda deve ser apresentado em conformidade com as normas especificadas pela autoridade competente do Estado-Membro e incluir, pelo menos, as seguintes indicações:\n\na) Quantidades distribuídas por categorias de produtos;\n\nb) Nome e endereço do estabelecimento de ensino ou da instituição de administração escolar.\n\n2. O Estado-Membro determina a periodicidade dos pedidos de pagamento das ajudas. Os pedidos referem-se a um período de um a sete meses, em função, nomeadamente, do montante das ajudas solicitado pelo interessado.\n\n3. Salvo em caso de força maior, para serem admissíveis, os pedidos de pagamentos das ajudas devem ser apresentados, o mais tardar, no último dia do quarto mês subsequente ao final do período objecto dos mesmos.\n\nNo caso de se verificar um atraso inferior a dois meses em relação ao prazo previsto no primeiro parágrafo, a ajuda é paga, embora com as seguintes reduções:\n\na) 5 % do respectivo montante, se o atraso for inferior a um mês;\n\nb) 10 % do respectivo montante, nos restantes casos.\n\n4. Os montantes indicados no pedido de pagamento devem ser justificados por documentos adequados postos à disposição das autoridades competentes. Esses documentos devem indicar separadamente o preço de cada produto entregue incluído no anexo e conter a indicação da sua quitação ou ser acompanhados da prova de pagamento."
+  },
+  "07f405b1a8904980": {
+   "fragment_id": "Artigo 12.º — Pagamento da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Pagamento da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Pagamento da ajuda\n\n1. Sem prejuízo do n.o 4 do artigo 11.o, a ajuda apenas é paga a um fornecedor:\n\na) Mediante apresentação de um recibo que especifique as quantidades efectivamente entregues; ou\n\nb) Com base num relatório de controlo da autoridade competente elaborado antes do pagamento definitivo da ajuda, que comprove que se encontram reunidas as condições necessárias ao pagamento; ou\n\nc) Se tal for autorizado pelo Estado-Membro, mediante apresentação do extracto de conta do fornecedor para cujo crédito são pagas as quantidades fornecidas no âmbito do presente regulamento, à excepção de quaisquer outras operações.\n\n2. O pagamento da ajuda é efectuado pela autoridade competente no prazo de quatro meses a contar do dia de entrega do pedido previsto no n.o 3 do artigo 11.o, salvo no caso de ter sido iniciado um inquérito administrativo referente ao direito à ajuda.\n\n3. Os Estados-Membros podem mandatar as autoridades locais para efectuar o pagamento da ajuda e assegurar a gestão da medida prevista no presente regulamento.\n\nNo casos a determinar pelos Estados-Membros, as autoridades locais podem ser substituídas por uma associação aprovada pelo Estado-Membro em que se situam os estabelecimentos de ensino em causa."
+  },
+  "fbd462db52950be1": {
+   "fragment_id": "Artigo 13.º — Pagamento de adiantamentos",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Pagamento de adiantamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Pagamento de adiantamentos\n\n1. Os Estados-Membros são autorizados a pagar um adiantamento de montante igual ao da ajuda solicitada, após constituição de uma garantia de 110 % do montante adiantado.\n\n2. Se o pedido de adiantamento for efectuado por um fornecedor, a autoridade competente é autorizada a pagar o adiantamento com base nas quantidades entregues, sem exigir os documentos justificativos referidos no n.o 1 do artigo 12.o No prazo de seis meses a contar do pagamento do adiantamento, o fornecedor enviará à autoridade competente os documentos necessários ao pagamento definitivo da ajuda, excepto no caso de a autoridade em causa elaborar o relatório referido no n.o 1, alínea b), do artigo 12.o\n\n3. O pagamento definitivo da ajuda é efectuado, o mais tardar, no final do sexto mês seguinte ao termo do ano lectivo em causa."
+  },
+  "f065d76e3c72c99f": {
+   "fragment_id": "Artigo 14.º — Medidas de controlo",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Medidas de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Medidas de controlo\n\n1. O Estados-Membros tomarão as medidas necessárias para assegurar que o montante da ajuda se repercute no preço pago pelo beneficiário.\n\nPara tal, os Estados-Membros fixarão preços máximos a pagar, por aluno, para os diversos produtos incluídos no anexo distribuídos no seu território. Esses preços serão comunicados à Comissão juntamente com os elementos justificativos da sua fixação.\n\n2. Os Estados-Membros adoptarão as medidas de controlo necessárias para assegurar o respeito do presente regulamento.\n\nEsses controlos incluem, nomeadamente, a verificação dos documentos justificativos referentes à entrega dos produtos incluídos no anexo e do respeito das quantidades máximas que podem beneficiar da ajuda.\n\n3. Os controlos previstos no n.o 2 são complementados por inspecções no local, com o objectivo de verificar, nomeadamente:\n\na) A repercussão da ajuda no preço pago pelo beneficiário, nomeadamente, o respeito dos preços máximos referidos no n.o 1;\n\nb) A contabilidade referida no artigo 9.o;\n\nc) A utilização dos produtos subvencionados em conformidade com as disposições do presente regulamento, nomeadamente no caso de existirem indícios de um eventual desvio dos produtos em causa;\n\nd) O preço dos produtos pago ao fornecedor, assegurando-se de que o mesmo não é inferior à ajuda correspondente."
+  },
+  "55942fb89902275b": {
+   "fragment_id": "Artigo 15.º — Comunicações",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Comunicações\n\n1. No prazo de seis meses a contar da entrada em vigor do presente regulamento, os Estados-Membros comunicam à Comissão as medidas nacionais que tenham adoptado para a aplicação do presente regulamento, nomeadamente as modalidades de controlo.\n\n2. Os Estados-Membros comunicarão, até 31 de Dezembro de cada ano:\n\na) As quantidades para as quais tenham sido pagas ajudas no ano lectivo precedente;\n\nb) Uma lista das acções de informação e promoção relativas a produtos lácteos eventualmente realizadas no âmbito da distribuição dos produtos subvencionados nas escolas."
+  },
+  "fb8865bd8607b603": {
+   "fragment_id": "Artigo 16.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Revogação\n\nÉ revogado o Regulamento (CE) n.o 3392/93.\n\nAs referências ao regulamento revogado entendem-se como feitas ao presente regulamento.\n\nAs derrogações concedidas nos termos do n.o 3 do artigo 3.o do Regulamento (CE) n.o 3392/93 permanecem válidas no contexto da aplicação do presente regulamento.\n\nAs aprovações concedidas nos termos do artigo 6.o do Regulamento (CE) n.o 3392/93 permanecem válidas no contexto da aplicação do presente regulamento."
+  },
+  "1b52b3d6df47d900": {
+   "fragment_id": "Artigo 17.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 1 de Janeiro de 2001.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 11 de Dezembro de 2000.\n\nPela Comissão\n\nFranz Fischler\n\nMembro da Comissão\n\n(1) JO L 160 de 26.6.1999, p. 48.\n\n(2) JO L 193 de 29.7.2000, p. 10.\n\n(3) JO L 148 de 28.6.1968, p. 13.\n\n(4) JO L 206 de 16.8.1996, p. 21.\n\n(5) JO L 183 de 7.7.1983, p. 1.\n\n(6) JO L 277 de 10.10.1997, p. 1.\n\n(7) JO L 306 de 11.12.1993, p. 27.\n\n(8) JO L 306 de 11.11.1997, p. 11.\n\n(9) JO L 351 de 23.12.1997, p. 12.\n\n(10) JO L 351 de 23.12.1997, p. 13."
+  },
+  "75abe5aa6887cdcb": {
+   "fragment_id": "ANEXO — LISTA DOS PRODUTOS QUE PODEM BENEFICIAR DA AJUDA COMUNITÁRIA",
+   "type": "divisao",
+   "heading": "ANEXO — LISTA DOS PRODUTOS QUE PODEM BENEFICIAR DA AJUDA COMUNITÁRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — LISTA DOS PRODUTOS QUE PODEM BENEFICIAR DA AJUDA COMUNITÁRIA\n\nCategoria I\n\na) Leite inteiro tratado termicamente;\n\nb) Leite inteiro achocolatado ou aromatizado tratado termicamente, com teor ponderal de matéria gorda não inferior a 90 %;\n\nc) Iogurte inteiro.\n\nCategoria II\n\na) Leite tratado termicamente com teor mínimo de matéria gorda de 3 %;\n\nb) Leite achocolatado ou aromatizado tratado termicamente, com teor ponderal do leite referido na alínea a) não inferior a 90 %;\n\nc) \"Piimä/filmjölk\" com teor de matéria gorda não inferior a 3 %.\n\nCategoria III\n\na) Leite meio-gordo tratado termicamente;\n\nb) Leite meio-gordo achocolatado ou aromatizado tratado termicamente, com teor ponderal de leite meio-gordo não inferior a 90 %;\n\nc) Iogurte meio-gordo;\n\nd) \"Piimä/fil\" com teor de matéria gorda não inferior a 1,5 %.\n\nCategoria IV\n\na) Leite tratado termicamente, com teor de matéria gorda não inferior a 1 %;\n\nb) Leite achocolatado ou aromatizado tratado termicamente, com teor ponderal do leite referido na alínea a) não inferior a 90 %.\n\nCategoria V\n\na) Leite magro tratado termicamente;\n\nb) Leite magro achocolatado ou aromatizado tratado termicamente, com teor ponderal de leite magro não inferior a 90 %;\n\nc) Iogurte magro;\n\nd) \"Piimä/fil\" com teor de matéria gorda inferior a 1,5 %.\n\nCategoria VI\n\nQueijo fresco e queijo fundido com teor ponderal de matéria gorda, em relação à matéria seca, não inferior a 40 %.\n\nCategoria VII\n\nOutros queijos (diversos do queijo fresco e do queijo fundido), com teor ponderal de matéria gorda, em relação à matéria seca, não inferior a 45 %.\n\nCategoria VIII\n\nQueijo \"Grana Padano\".\n\nCategoria IX\n\nQueijo \"Parmigiano Reggiano\"."
+  },
+  "be200a827673a7c6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Dezembro de 2000\n\nque estabelece as normas de execução do Regulamento (CE) n.º 1255/1999 do Conselho no que respeita à concessão de uma ajuda comunitária para o fornecimento de leite e de determinados produtos lácteos aos alunos de estabelecimentos de ensino\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1255/1999 do Conselho, de 17 de Maio de 1999, que estabelece a organização comum de mercado no sector do leite e dos produtos lácteos ([^1^](http://publications.europa.eu/resource/cellar/4b7b6927-99ff-419a-949e-d1e5bfaf32f7.0017.03/DOC_1#E0001)), com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1670/2000 ([^2^](http://publications.europa.eu/resource/cellar/4b7b6927-99ff-419a-949e-d1e5bfaf32f7.0017.03/DOC_1#E0002)), e, nomeadamente, o seu artigo 15.º,\n\n(1) O Regulamento (CE) n.º 1255/1999 substituiu o Regulamento (CEE) n.º 804/68 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/4b7b6927-99ff-419a-949e-d1e5bfaf32f7.0017.03/DOC_1#E0003)), com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1587/96 ([^4^](http://publications.europa.eu/resource/cellar/4b7b6927-99ff-419a-949e-d1e5bfaf32f7.0017.03/DOC_1#E0004)), e, entre outros, o Regulamento (CEE) n.º 1842/83 do Conselho ([^5^](http://publications.europa.eu/resource/cellar/4b7b6927-99ff-419a-949e-d1e5bfaf32f7.0017.03/DOC_1#E0005)), com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1958/97 ([^6^](http://publications.europa.eu/resource/cellar/4b7b6927-99ff-419a-949e-d1e5bfaf32f7.0017.03/DOC_1#E0006)), que estabelece as regras gerais relativas ao fornecimento de leite e de certos produtos lácteos aos alunos dos estabelecimentos escolares. De modo a ter em conta o novo regime de ajuda comunitária, bem como a experiência adquirida, importa alterar e simplificar as disposições do Regulamento (CE) n.º 3392/93 da Comissão, de 10 de Dezembro de 1993, relativo às normas de execução do Regulamento (CEE) n.º 1842/83 respeitantes à cessão do leite e de certos produtos lácteos aos alunos dos estabelecimentos de ensino ([^7^](http://publications.europa.eu/resource/cellar/4b7b6927-99ff-419a-949e-d1e5bfaf32f7.0017.03/DOC_1#E0007)), com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2235/97 ([^8^](http://publications.europa.eu/resource/cellar/4b7b6927-99ff-419a-949e-d1e5bfaf32f7.0017.03/DOC_1#E0008)). Além da referida alteração, é oportuno, por motivos de clareza, efectuar uma reformulação do regulamento em causa.\n\n(2) No que respeita aos beneficiários do regime de ajuda, há que privilegiar os jardins de infância e o ensino primário, facultando aos Estados-Membros a opção de abranger ou não o ensino secundário. De modo a simplificar a gestão do regime, recomenda-se a exclusão do consumo dos alunos no decurso de estadias em colónias de férias.\n\n(3) A utilização de produtos lácteos subvencionados na preparação de refeições destinadas aos alunos confronta-se com problemas de controlo. Além disso, a referida utilização afigura-se um meio pouco eficaz para atingir os objectivos do regime de ajudas em causa. Deve, pois, restringir-se aquela possibilidade de distribuição.\n\n(4) No estabelecimento da lista dos produtos lácteos elegíveis para a ajuda devem privilegiar-se alguns produtos lácteos de base cujo consumo é essencial para o equilíbrio do mercado. Além disso, de modo a ter em conta os diversos hábitos de consumo na Comunidade, deve prever-se a possibilidade de os Estados-Membros incluírem também determinados produtos lácteos com teor de gordura reduzido, bem como determinados queijos.\n\n(5) O n.º 3 do artigo 14.º do Regulamento (CE) n.º 1255/1999, alterado pelo Regulamento (CE) n.º 1670/2000, prevê, para o leite inteiro, um novo montante de ajuda igual a 75 % do preço indicativo, e, para os restantes produtos lácteos, uma ajuda cujo montante é estabelecido em função dos componentes lácteos dos produtos. Há que especificar o montante das ajudas para os diversos produtos tendo em conta as normas supracitadas.\n\n(6) No que respeita ao pagamento da ajuda, importa especificar as condições que os requerentes da mesma devem satisfazer, bem como as formalidades a cumprir para a entrega dos pedidos, as verificações a efectuar pelas autoridades competentes e as modalidades de pagamento. É recomendável basear a gestão dos pagamentos das ajudas e o controlo do regime no acordo dos interessados. De modo a simplificar a gestão do regime, deve facilitar-se a centralização dos pedidos de ajudas por organizações que efectuem o pedido para vários estabelecimentos de ensino.\n\n(7) O n.º 4 do artigo 14.º do Regulamento (CE) n.º 1255/1999 estipula que a concessão da ajuda é limitada a uma quantidade de 0,25 litros de equivalente-leite por aluno e por dia. Há que especificar os valores dos equivalentes-leite para os diversos produtos.\n\n(8) Devem estabelecer-se as normas de controlo do regime de ajuda em causa, de modo a garantir, nomeadamente, que o montante da ajuda se reflecte no preço pago pelos beneficiários e que os produtos lácteos subvencionados não são desviados do destino previsto.\n\n(9) Em virtude da data de aplicação do novo montante da ajuda e de modo a permitir que as autoridades competentes preparem a aplicação das novas disposições, é conveniente aplicar o presente regulamento a partir de 1 de Janeiro de 2001.\n\n(10) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão do Leite e dos Produtos Lácteos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "3a14f97c50b75746": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente regulamento estabelece as normas de execução do Regulamento (CE) n.º 1255/1999 no que respeita à concessão de uma ajuda comunitária para o fornecimento de determinados produtos lácteos aos alunos de estabelecimentos de ensino (a seguir denominada «ajuda»), nos termos do seu artigo 14.º"
+  },
+  "d3646423335b5f34": {
+   "fragment_id": "Artigo 2.º — Beneficiários da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Beneficiários da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Beneficiários da ajuda\n\n1. Os beneficiários da ajuda são os alunos que frequentam regularmente um estabelecimento de ensino incluído numa das seguintes categorias:\n\na) Jardins de infância e outros estabelecimentos de ensino pré-escolar organizados ou reconhecidos pela autoridade competente do Estado-Membro;\n\nb) Escolas primárias;\n\nc) Escolas secundárias, se o Estado-Membro em causa decidir incluí-las no regime aplicado no seu território.\n\n2. Os beneficiários especificados no n.º 1 beneficiam da ajuda todos os dias lectivos. O número total de dias lectivos, excluindo os feriados, é confirmado pela instituição de administração escolar ou pelo estabelecimento de ensino. Os alunos não beneficiam da ajuda durante as suas estadias em colónias de férias organizadas, nomeadamente, pelo estabelecimento de ensino em causa ou pela respectiva instituição de administração escolar.\n\n3. A concessão da ajuda depende do compromisso por escrito, perante a autoridade competente, do estabelecimento de ensino ou, se for caso disso, da instituição de administração escolar, de não utilizar os produtos lácteos subvencionados na preparação de refeições.\n\nTodavia, mediante pedido devidamente justificado de um Estado-Membro, a Comissão pode autorizar este último a derrogar o disposto no primeiro parágrafo."
+  },
+  "c77d6b65aa1b1df3": {
+   "fragment_id": "Artigo 3.º — Produtos lácteos elegíveis para a concessão da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Produtos lácteos elegíveis para a concessão da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Produtos lácteos elegíveis para a concessão da ajuda\n\n1. Os Estados-Membros pagam a ajuda relativamente aos produtos lácteos incluídos nas categorias I e V do anexo I.\n\n2. Os Estados-Membros têm a possibilidade de pagar a ajuda relativamente aos produtos lácteos incluídos nas categorias II, III, IV e VI a XII do anexo I.\n\n3. No que respeita aos departamentos ultramarinos franceses, o leite achocolatado ou leite aromatizado incluído no anexo pode ser leite reconstituído.\n\n4. Os Estados-Membros podem autorizar a adição de, no máximo, 5 miligramas de flúor por quilograma de produto incluído nas categorias I a VII.\n\n5. Os produtos incluídos no n.º 2, alíneas b) e c), do artigo 3.º do Regulamento (CE) n.º 2597/97 do Conselho ([^9^](http://publications.europa.eu/resource/cellar/4b7b6927-99ff-419a-949e-d1e5bfaf32f7.0017.03/DOC_1#E0010)) são assimilados, de acordo com o caso, a leite inteiro, leite meio-gordo e leite magro.\n\n6. Só será concedida ajuda em relação a produtos incluídos no anexo I do presente regulamento se os mesmos satisfizerem as exigências da Directiva 92/46/CEE ([^10^](http://publications.europa.eu/resource/cellar/4b7b6927-99ff-419a-949e-d1e5bfaf32f7.0017.03/DOC_1#E0011)), nomeadamente as referentes à sua preparação em estabelecimentos aprovados e as referentes à marcação de salubridade especificadas na parte A do capítulo IV do anexo C daquela directiva."
+  },
+  "dfc279fce36ff630": {
+   "fragment_id": "Artigo 4.º — Montante da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Montante da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Montante da ajuda\n\n1. Os montantes da ajuda comunitária para os períodos de 1 de Maio de 2004 a 30 de Junho de 2004, de 1 de Julho de 2004 a 30 de Junho de 2005, de 1 de Julho de 2005 a 30 de Junho de 2006, de 1 de Julho de 2006 a 30 de Junho de 2007 e a partir de 1 de Julho de 2007 constam do anexo II do presente regulamento.\n\n2. Em derrogação ao n.º 1, no caso de a ajuda exceder o preço de venda praticado pelo fornecedor antes da dedução da ajuda, a mesma é reduzida de modo a não exceder o preço do produto em causa.\n\n3. Em caso de alteração do montante da ajuda, expresso em euros, o referido montante, no que respeita às quantidades fornecidas no mês em curso, é o montante aplicável no primeiro dia do mês.\n\nTodavia, em relação ao ano lectivo de 2003/2004, o montante da ajuda aplicável no primeiro dia de Junho pode ser aplicável durante o mês de Julho, se o ano lectivo do Estado-Membro terminar em Julho.\n\n4. Se as quantidades de produtos fornecidos forem expressas em litros, a conversão de litros em quilogramas é efectuada por aplicação do coeficiente 1,03."
+  },
+  "e400b44bd2a5c7cf": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Para a aplicação da quantidade máxima de 0,25 litros referida no n.º 4 do artigo 14.º do Regulamento (CE) n.º 1255/1999, a quantidade total de produtos lácteos que dão direito à ajuda no período para o qual a mesma é solicitada será calculada com base no número de alunos inscritos no estabelecimento de ensino em causa ou, casos se aplique a alínea c) ou d) do n.º 2 do artigo 6.º, com base no número de alunos inscritos na lista do requerente.\n\n2. No caso dos produtos das categorias VIII a XII do anexo I, o referido cálculo é efectuado com base nas seguintes equivalências:\n\na) 100 kg de produtos da categoria VIII correspondem a 300 kg de leite inteiro;\n\nb) 100 kg de produtos da categoria IX correspondem a 765 kg de leite inteiro;\n\nc) 100 kg de produtos da categoria X correspondem a 850 kg de leite inteiro;\n\nd) 100 kg de produtos da categoria XI correspondem a 935 kg de leite inteiro;\n\ne) 100 kg de produtos da categoria XII correspondem a 750 kg de leite inteiro."
+  },
+  "38f6e82f46c2bdf8": {
+   "fragment_id": "Artigo 6.º — Condições gerais para a concessão da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Condições gerais para a concessão da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições gerais para a concessão da ajuda\n\n1. A ajuda é concedida a um requerente aprovado em conformidade com os artigos 7.º, 8.º e 9.º, para o fornecimento de géneros produzidos na Comunidade e incluídos no anexo, comprados no Estado-Membro em que se situa o estabelecimento de ensino.\n\n2. A ajuda pode ser solicitada para:\n\na) O estabelecimento de ensino;\n\nb) A instituição de administração escolar que apresenta o pedido de ajuda para os produtos distribuídos aos alunos sob a sua competência;\n\nc) Caso tal seja previsto pelo Estado-Membro, o fornecedor dos produtos;\n\nd) Caso tal seja previsto pelo Estado-Membro, uma organização que efectua o pedido de ajuda por conta de uma ou mais escolas ou instituições de administração escolar, constituída especificamente para a finalidade em causa."
+  },
+  "4917014f6c2b4a43": {
+   "fragment_id": "Artigo 8.º — Condições gerais de aprovação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Condições gerais de aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Condições gerais de aprovação\n\nA aprovação encontra-se dependente dos seguintes compromissos, assumidos por escrito pelo requerente perante a autoridade competente:\n\na) Apenas utilizar os produtos lácteos para consumo pelos alunos com vínculo ao seu estabelecimento ou aos estabelecimentos para os quais tenha solicitado a ajuda, consoante o caso;\n\nb) Reembolsar as ajudas pagas indevidamente para as quantidades em causa, se se verificar que os produtos lácteos não foram fornecidos aos beneficiários previstos no artigo 2.º ou que a ajuda foi paga para quantidades superiores às decorrentes da aplicação do artigo 5.º;\n\nc) Colocar à disposição das autoridades competentes, a pedido destas, documentos justificativos;\n\nd) Permitir a realização de inspecções no local."
+  },
+  "58b112e0d36f9a96": {
+   "fragment_id": "Artigo 9.º — Condições específicas para a aprovação de determinados requerentes",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Condições específicas para a aprovação de determinados requerentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Condições específicas para a aprovação de determinados requerentes\n\n1. Caso a ajuda seja solicitada pelo fornecedor, além das condições previstas no artigo 8.º, a aprovação encontra-se dependente dos seguintes compromissos assumidos por escrito pelo mesmo:\n\na) Manter uma contabilidade em que sejam registados, nomeadamente, o fabricante dos produtos lácteos, o nome e o endereço dos estabelecimentos de ensino ou, se for caso disso, das instituições de administração escolar, e as quantidades de produtos lácteos vendidas ou fornecidas aos estabelecimentos em causa;\n\nb) Submeter-se a qualquer medida de controlo determinada pelo organismo competente do Estado-Membro em causa, nomeadamente no que respeita à verificação da contabilidade.\n\n2. Caso a ajuda seja solicitada por uma organização referida no n.º 2, alínea d), do artigo 6.º, além das condições previstas no artigo 8.º, a aprovação encontra-se dependente dos seguintes compromissos assumidos por escrito pela mesma:\n\na) Manter uma contabilidade que inclua, nomeadamente, o fabricante ou fornecedor dos produtos lácteos, o nome e o endereço dos estabelecimentos de ensino ou, se for caso disso, das instituições de administração escolar, e as quantidades de produtos lácteos vendidas ou fornecidas aos estabelecimentos em causa;\n\nb) Submeter-se a qualquer medida de controlo determinada pelo organismo competente do Estado-Membro em causa, nomeadamente no que respeita à verificação da contabilidade."
+  },
+  "4c9647e9871a2d18": {
+   "fragment_id": "Artigo 10.º — Suspensão e revogação da aprovação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Suspensão e revogação da aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Suspensão e revogação da aprovação\n\nCaso se observe que um requerente da ajuda deixou de satisfazer as condições referidas nos artigos 8.º e 9.º ou qualquer outra obrigação decorrente do presente regulamento, a aprovação é suspensa por um período de um a doze meses ou revogada, em função da gravidade da ocorrência.\n\nAs medidas previstas no primeiro parágrafo não são aplicáveis em caso de força maior e se o Estado-Membro comprovar que a irregularidade não foi cometida deliberadamente ou por negligência, ou se a mesma for de importância reduzida.\n\nEm caso de revogação da aprovação, esta última pode ser restabelecida, a pedido do interessado, decorrido um período de, pelo menos, seis meses."
+  },
+  "fad97089a616af9e": {
+   "fragment_id": "Artigo 12.º — Pagamento da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Pagamento da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Pagamento da ajuda\n\n1. Sem prejuízo do n.º 4 do artigo 11.º, a ajuda apenas é paga a um fornecedor:\n\na) Mediante apresentação de um recibo que especifique as quantidades efectivamente entregues; ou\n\nb) Com base num relatório de controlo da autoridade competente elaborado antes do pagamento definitivo da ajuda, que comprove que se encontram reunidas as condições necessárias ao pagamento; ou\n\nc) Se tal for autorizado pelo Estado-Membro, mediante apresentação do extracto de conta do fornecedor para cujo crédito são pagas as quantidades fornecidas no âmbito do presente regulamento, à excepção de quaisquer outras operações.\n\n2. O pagamento da ajuda é efectuado pela autoridade competente no prazo de quatro meses a contar do dia de entrega do pedido previsto no n.º 3 do artigo 11.º, salvo no caso de ter sido iniciado um inquérito administrativo referente ao direito à ajuda.\n\n3. Os Estados-Membros podem mandatar as autoridades locais para efectuar o pagamento da ajuda e assegurar a gestão da medida prevista no presente regulamento.\n\nNo casos a determinar pelos Estados-Membros, as autoridades locais podem ser substituídas por uma associação aprovada pelo Estado-Membro em que se situam os estabelecimentos de ensino em causa."
+  },
+  "8a383cf76c043072": {
+   "fragment_id": "Artigo 13.º — Pagamento de adiantamentos",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Pagamento de adiantamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Pagamento de adiantamentos\n\n1. Os Estados-Membros são autorizados a pagar um adiantamento de montante igual ao da ajuda solicitada, após constituição de uma garantia de 110 % do montante adiantado.\n\n2. Se o pedido de adiantamento for efectuado por um fornecedor, a autoridade competente é autorizada a pagar o adiantamento com base nas quantidades entregues, sem exigir os documentos justificativos referidos no n.º 1 do artigo 12.º No prazo de seis meses a contar do pagamento do adiantamento, o fornecedor enviará à autoridade competente os documentos necessários ao pagamento definitivo da ajuda, excepto no caso de a autoridade em causa elaborar o relatório referido no n.º 1, alínea b), do artigo 12.º\n\n3. O pagamento definitivo da ajuda é efectuado, o mais tardar, no final do sexto mês seguinte ao termo do ano lectivo em causa."
+  },
+  "1cdc8ab69e34237c": {
+   "fragment_id": "Artigo 14.º — Medidas de controlo",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Medidas de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Medidas de controlo\n\n1. Os Estados-Membros tomarão as medidas necessárias para assegurar que o montante da ajuda se repercute no preço pago pelo beneficiário.\n\nPara tal, os Estados-Membros fixarão preços máximos a pagar pelos alunos para os diversos produtos incluídos no anexo I distribuídos no seu território. Os Estados-Membros fixam os preços máximos no início de cada ano lectivo ou, o mais tardar, em 1 de Outubro. Caso os Estados-Membros forneçam os produtos gratuitamente, não é necessário fixar preços máximos.\n\n2. Os Estados-Membros adoptarão as medidas de controlo necessárias para assegurar o respeito do presente regulamento.\n\nEsses controlos incluem, nomeadamente, a verificação dos documentos justificativos referentes à entrega dos produtos incluídos no anexo e do respeito das quantidades máximas que podem beneficiar da ajuda.\n\n3. Os controlos previstos no n.º 2 são complementados por inspecções no local, com o objectivo de verificar, nomeadamente:\n\na) A repercussão da ajuda no preço pago pelo beneficiário, nomeadamente, o respeito dos preços máximos referidos no n.º 1;\n\nb) A contabilidade referida no artigo 9.º;\n\nc) A utilização dos produtos subvencionados em conformidade com as disposições do presente regulamento, nomeadamente no caso de existirem indícios de um eventual desvio dos produtos em causa;\n\nd) O preço dos produtos pago ao fornecedor, assegurando-se de que o mesmo não é inferior à ajuda correspondente."
+  },
+  "ac84277c3b49ec7f": {
+   "fragment_id": "Artigo 15.º — Comunicações",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Comunicações\n\n1. No prazo de seis meses a contar da entrada em vigor do presente regulamento, os Estados-Membros comunicam à Comissão as medidas nacionais que tenham adoptado para a aplicação do presente regulamento, nomeadamente as modalidades de controlo.\n\n2. Os Estados-Membros comunicarão, até 31 de Dezembro de cada ano:\n\na) As quantidades relativamente às quais tenham sido pagas ajudas no ano lectivo precedente, bem como a quantidade máxima permitida;\n\nb) Uma lista das acções de informação e promoção relativas a produtos lácteos eventualmente realizadas no âmbito da distribuição dos produtos subvencionados nas escolas;\n\nc) Os preços máximos referidos no n.º 1, segundo parágrafo, do artigo 14.º para o ano lectivo em curso, juntamente com os elementos justificativos da sua fixação."
+  },
+  "ebe86c20f8225406": {
+   "fragment_id": "Artigo 16.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Revogação\n\nÉ revogado o Regulamento (CE) n.º 3392/93.\n\nAs referências ao regulamento revogado entendem-se como feitas ao presente regulamento.\n\nAs derrogações concedidas nos termos do n.º 3 do artigo 3.º do Regulamento (CE) n.º 3392/93 permanecem válidas no contexto da aplicação do presente regulamento.\n\nAs aprovações concedidas nos termos do artigo 6.º do Regulamento (CE) n.º 3392/93 permanecem válidas no contexto da aplicação do presente regulamento."
+  },
+  "617131ab2b7ae07f": {
+   "fragment_id": "Artigo 17.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nÉ aplicável a partir de 1 de Janeiro de 2001.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "d8aac8caec2e6de1": {
+   "fragment_id": "Lista dos produtos que podem beneficiar da ajuda comunitária",
+   "type": "divisao",
+   "heading": "Lista dos produtos que podem beneficiar da ajuda comunitária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista dos produtos que podem beneficiar da ajuda comunitária"
+  },
+  "75ea67953af2b4d2": {
+   "fragment_id": "Categoria I",
+   "type": "divisao",
+   "heading": "Categoria I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Categoria I\n\na) Leite inteiro tratado termicamente, conforme, no respeitante ao teor de matéria gorda, às exigências do n.º 1, alínea b), do artigo 3.º do Regulamento (CE) n.º 2597/97.\n\nb) Leite inteiro achocolatado ou aromatizado tratado termicamente, com teor ponderal de leite referido na alínea a) não inferior a 90 %.\n\nc) Iogurte inteiro obtido por transformação do leite referido na alínea a)."
+  },
+  "2fbf5a7c60ca4083": {
+   "fragment_id": "Categoria II",
+   "type": "divisao",
+   "heading": "Categoria II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Categoria II\n\na) Leite tratado termicamente, com teor de matéria gorda não inferior a 3 %.\n\nb) Leite achocolatado ou aromatizado tratado termicamente, com teor ponderal de leite referido na alínea a) não inferior a 90 %.\n\nc) *Piimä/filmjölk* ou iogurte obtido por transformação do leite referido na alínea a)."
+  },
+  "8edc0e293ffdf42b": {
+   "fragment_id": "Categoria III",
+   "type": "divisao",
+   "heading": "Categoria III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Categoria III\n\na) Leite tratado termicamente, com teor de matéria gorda não inferior a 2,5 %.\n\nb) Leite achocolatado ou aromatizado tratado termicamente, com teor ponderal de leite referido na alínea a) não inferior a 90 %.\n\nc) Iogurte obtido por transformação do leite referido na alínea a)."
+  },
+  "9b8230cbc527b915": {
+   "fragment_id": "Categoria IV",
+   "type": "divisao",
+   "heading": "Categoria IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Categoria IV\n\na) Leite tratado termicamente, com teor de matéria gorda não inferior a 2 %.\n\nb) Leite achocolatado ou aromatizado tratado termicamente, com teor ponderal de leite referido na alínea a) não inferior a 90 %.\n\nc) Iogurte obtido por transformação do leite referido na alínea a)."
+  },
+  "60935b046b9d1eaf": {
+   "fragment_id": "Categoria V",
+   "type": "divisao",
+   "heading": "Categoria V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Categoria V\n\na) Leite meio-gordo tratado termicamente, conforme, no respeitante ao teor de matéria gorda, às exigências do n.º 1, alínea c), do artigo 3.º do Regulamento (CE) n.º 2597/97.\n\nb) Leite meio-gordo achocolatado ou aromatizado tratado termicamente, com teor ponderal de leite meio-gordo referido na alínea a) não inferior a 90 %.\n\nc) Iogurte meio-gordo obtido por transformação do leite referido na alínea a).\n\nd) *Piimä/fil* com teor de matéria gorda não inferior a 1,5 %."
+  },
+  "71221ef7859c3edd": {
+   "fragment_id": "Categoria VI",
+   "type": "divisao",
+   "heading": "Categoria VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Categoria VI\n\na) Leite tratado termicamente, com teor de matéria gorda não inferior a 1 %.\n\nb) Leite achocolatado ou aromatizado tratado termicamente, com teor ponderal de leite referido na alínea a) não inferior a 90 %.\n\nc) Iogurte obtido por transformação do leite referido na alínea a)."
+  },
+  "76fff6385e08a22c": {
+   "fragment_id": "Categoria VII",
+   "type": "divisao",
+   "heading": "Categoria VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Categoria VII\n\na) Leite magro tratado termicamente, conforme, no respeitante ao teor de matéria gorda, às exigências do n.º 1, alínea d), do artigo 3.º do Regulamento (CE) n.º 2597/97.\n\nb) Leite magro achocolatado ou aromatizado tratado termicamente, com teor ponderal de leite referido na alínea a) não inferior a 90 %.\n\nc) Iogurte magro obtido por transformação do leite referido na alínea a).\n\nd) *Piimä/fil* com teor de matéria gorda inferior a 1,5 %."
+  },
+  "8f6c40393e58db0d": {
+   "fragment_id": "Categoria VIII",
+   "type": "divisao",
+   "heading": "Categoria VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Categoria VIII\n\nQueijo fresco e queijo fundido não aromatizados ([^11^](http://publications.europa.eu/resource/cellar/4b7b6927-99ff-419a-949e-d1e5bfaf32f7.0017.03/DOC_1#E0012)) com teor ponderal de matéria gorda, em relação à matéria seca, não inferior a 40 %."
+  },
+  "3e2d805576dd3313": {
+   "fragment_id": "Categoria IX",
+   "type": "divisao",
+   "heading": "Categoria IX",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Categoria IX\n\nOutros queijos (diversos do queijo fresco e do queijo fundido), com teor ponderal de matéria gorda, em relação à matéria seca, não inferior a 45 %."
+  },
+  "42dca5c0cd86e53a": {
+   "fragment_id": "Categoria X",
+   "type": "divisao",
+   "heading": "Categoria X",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Categoria X\n\nQueijo «Grana Padano»."
+  },
+  "469ee94e086784f2": {
+   "fragment_id": "Categoria XI",
+   "type": "divisao",
+   "heading": "Categoria XI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Categoria XI\n\nQueijo «Parmigiano Reggiano»."
+  },
+  "6370ac0a3f74c015": {
+   "fragment_id": "Categoria XII",
+   "type": "divisao",
+   "heading": "Categoria XII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Categoria XII\n\nQueijo «Halloumi»."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "69d9f7875fa3aea1": {
+   "fragment_id": "A. Montantes da ajuda para o período de 1 de Maio de 2004 a 30 de Junho de 2004:",
+   "type": "divisao",
+   "heading": "A. Montantes da ajuda para o período de 1 de Maio de 2004 a 30 de Junho de 2004:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Montantes da ajuda para o período de 1 de Maio de 2004 a 30 de Junho de 2004:\n\na) 23,24 euros por 100 kg de produtos da categoria I;\n\nb) 21,82 euros por 100 kg de produtos da categoria II;\n\nc) 20,41 euros por 100 kg de produtos da categoria III;\n\nd) 19,00 euros por 100 kg de produtos da categoria IV;\n\ne) 17,58 euros por 100 kg de produtos da categoria V;\n\nf) 16,17 euros por 100 kg de produtos da categoria VI;\n\ng) 13,34 euros por 100 kg de produtos da categoria VII;\n\nh) 69,72 euros por 100 kg de produtos da categoria VIII;\n\ni) 177,79 euros por 100 kg de produtos da categoria IX;\n\nj) 197,54 euros por 100 kg de produtos da categoria X;\n\nk) 217,29 euros por 100 kg de produtos da categoria XI;\n\nl) 174,30 euros por 100 kg de produtos da categoria XII."
+  },
+  "bf0a74654c422567": {
+   "fragment_id": "B. Montantes da ajuda para o período de 1 de Julho de 2004 a 30 de Junho de 2005:",
+   "type": "divisao",
+   "heading": "B. Montantes da ajuda para o período de 1 de Julho de 2004 a 30 de Junho de 2005:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Montantes da ajuda para o período de 1 de Julho de 2004 a 30 de Junho de 2005:\n\na) 21,69 euros por 100 kg de produtos da categoria I;\n\nb) 20,39 euros por 100 kg de produtos da categoria II;\n\nc) 19,08 euros por 100 kg de produtos da categoria III;\n\nd) 17,78 euros por 100 kg de produtos da categoria IV;\n\ne) 16,47 euros por 100 kg de produtos da categoria V;\n\nf) 15,17 euros por 100 kg de produtos da categoria VI;\n\ng) 12,56 euros por 100 kg de produtos da categoria VII;\n\nh) 65,07 euros por 100 kg de produtos da categoria VIII;\n\ni) 165,93 euros por 100 kg de produtos da categoria IX;\n\nj) 184,37 euros por 100 kg de produtos da categoria X;\n\nk) 202,80 euros por 100 kg de produtos da categoria XI;\n\nl) 162,68 euros por 100 kg de produtos da categoria XII."
+  },
+  "d7b48318a1f3a5d2": {
+   "fragment_id": "C. Montantes da ajuda para o período de 1 de Julho de 2005 a 30 de Junho de 2006:",
+   "type": "divisao",
+   "heading": "C. Montantes da ajuda para o período de 1 de Julho de 2005 a 30 de Junho de 2006:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### C. Montantes da ajuda para o período de 1 de Julho de 2005 a 30 de Junho de 2006:\n\na) 20,16 euros por 100 kg de produtos da categoria I;\n\nb) 18,95 euros por 100 kg de produtos da categoria II;\n\nc) 17,76 euros por 100 kg de produtos da categoria III;\n\nd) 16,57 euros por 100 kg de produtos da categoria IV;\n\ne) 15,39 euros por 100 kg de produtos da categoria V;\n\nf) 14,17 euros por 100 kg de produtos da categoria VI;\n\ng) 11,78 euros por 100 kg de produtos da categoria VII;\n\nh) 63,48 euros por 100 kg de produtos da categoria VIII;\n\ni) 161,87 euros por 100 kg de produtos da categoria IX;\n\nj) 179,86 euros por 100 kg de produtos da categoria X;\n\nk) 197,85 euros por 100 kg de produtos da categoria XI;\n\nl) 158,70 euros por 100 kg de produtos da categoria XII."
+  },
+  "8f4f2ea698a18d59": {
+   "fragment_id": "D. Montantes da ajuda para o período de 1 de Julho de 2006 a 30 de Junho de 2007:",
+   "type": "divisao",
+   "heading": "D. Montantes da ajuda para o período de 1 de Julho de 2006 a 30 de Junho de 2007:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### D. Montantes da ajuda para o período de 1 de Julho de 2006 a 30 de Junho de 2007:\n\na) 18,61 euros por 100 kg de produtos da categoria I;\n\nb) 17,52 euros por 100 kg de produtos da categoria II;\n\nc) 16,43 euros por 100 kg de produtos da categoria III;\n\nd) 15,34 euros por 100 kg de produtos da categoria IV;\n\ne) 14,25 euros por 100 kg de produtos da categoria V;\n\nf) 13,16 euros por 100 kg de produtos da categoria VI;\n\ng) 10,97 euros por 100 kg de produtos da categoria VII;\n\nh) 55,83 euros por 100 kg de produtos da categoria VIII;\n\ni) 142,37 euros por 100 kg de produtos da categoria IX;\n\nj) 158,19 euros por 100 kg de produtos da categoria X;\n\nk) 174,00 euros por 100 kg de produtos da categoria XI;\n\nl) 139,58 euros por 100 kg de produtos da categoria XII."
+  },
+  "50e2228f8309ade3": {
+   "fragment_id": "E. Montantes da ajuda a partir de 1 de Julho de 2007:",
+   "type": "divisao",
+   "heading": "E. Montantes da ajuda a partir de 1 de Julho de 2007:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### E. Montantes da ajuda a partir de 1 de Julho de 2007:\n\na) 18,15 euros por 100 kg de produtos da categoria I;\n\nb) 17,12 euros por 100 kg de produtos da categoria II;\n\nc) 16,10 euros por 100 kg de produtos da categoria III;\n\nd) 15,07 euros por 100 kg de produtos da categoria IV;\n\ne) 14,04 euros por 100 kg de produtos da categoria V;\n\nf) 13,01 euros por 100 kg de produtos da categoria VI;\n\ng) 10,96 euros por 100 kg de produtos da categoria VII;\n\nh) 54,45 euros por 100 kg de produtos da categoria VIII;\n\ni) 138,85 euros por 100 kg de produtos da categoria IX;\n\nj) 154,28 euros por 100 kg de produtos da categoria X;\n\nk) 169,70 euros por 100 kg de produtos da categoria XI;\n\nl) 136,13 euros por 100 kg de produtos da categoria XII.\n\n---"
+  },
+  "11fbe4771611a7aa": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4b7b6927-99ff-419a-949e-d1e5bfaf32f7.0017.03/DOC_1#src.E0001)) JO L 160 de 26.6.1999, p. 48.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/4b7b6927-99ff-419a-949e-d1e5bfaf32f7.0017.03/DOC_1#src.E0002)) JO L 193 de 29.7.2000, p. 10.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/4b7b6927-99ff-419a-949e-d1e5bfaf32f7.0017.03/DOC_1#src.E0003)) JO L 148 de 28.6.1968, p. 13.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/4b7b6927-99ff-419a-949e-d1e5bfaf32f7.0017.03/DOC_1#src.E0004)) JO L 206 de 16.8.1996, p. 21.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/4b7b6927-99ff-419a-949e-d1e5bfaf32f7.0017.03/DOC_1#src.E0005)) JO L 183 de 7.7.1983, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/4b7b6927-99ff-419a-949e-d1e5bfaf32f7.0017.03/DOC_1#src.E0006)) JO L 277 de 10.10.1997, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/4b7b6927-99ff-419a-949e-d1e5bfaf32f7.0017.03/DOC_1#src.E0007)) JO L 306 de 11.12.1993, p. 27.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/4b7b6927-99ff-419a-949e-d1e5bfaf32f7.0017.03/DOC_1#src.E0008)) JO L 306 de 11.11.1997, p. 11.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/4b7b6927-99ff-419a-949e-d1e5bfaf32f7.0017.03/DOC_1#src.E0010)) JO L 351 de 23.12.1997, p. 13.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/4b7b6927-99ff-419a-949e-d1e5bfaf32f7.0017.03/DOC_1#src.E0011)) JO L 268 de 14.9.1992.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/4b7b6927-99ff-419a-949e-d1e5bfaf32f7.0017.03/DOC_1#src.E0012)) 1 Para efeitos da presente categoria, entende-se por queijo não aromatizado o queijo derivado exclusivamente do leite, podendo ser adicionadas substâncias necessárias ao seu fabrico, desde que essas substâncias não sejam utilizadas para substituir, no todo ou em parte, qualquer um dos constituintes do leite."
+  },
+  "2a02b613e6cf8109": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Dezembro de 2000\n\nque estabelece as normas de execução do Regulamento (CE) n.º 1255/1999 do Conselho no que respeita à concessão de uma ajuda comunitária para o fornecimento de leite e de determinados produtos lácteos aos alunos de estabelecimentos de ensino\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1255/1999 do Conselho, de 17 de Maio de 1999, que estabelece a organização comum de mercado no sector do leite e dos produtos lácteos ([^1^](http://publications.europa.eu/resource/cellar/6b78602d-0e02-42e8-9322-6e0a9514f5cc.0016.03/DOC_1#E0001)), com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1670/2000 ([^2^](http://publications.europa.eu/resource/cellar/6b78602d-0e02-42e8-9322-6e0a9514f5cc.0016.03/DOC_1#E0002)), e, nomeadamente, o seu artigo 15.º,\n\n(1) O Regulamento (CE) n.º 1255/1999 substituiu o Regulamento (CEE) n.º 804/68 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/6b78602d-0e02-42e8-9322-6e0a9514f5cc.0016.03/DOC_1#E0003)), com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1587/96 ([^4^](http://publications.europa.eu/resource/cellar/6b78602d-0e02-42e8-9322-6e0a9514f5cc.0016.03/DOC_1#E0004)), e, entre outros, o Regulamento (CEE) n.º 1842/83 do Conselho ([^5^](http://publications.europa.eu/resource/cellar/6b78602d-0e02-42e8-9322-6e0a9514f5cc.0016.03/DOC_1#E0005)), com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1958/97 ([^6^](http://publications.europa.eu/resource/cellar/6b78602d-0e02-42e8-9322-6e0a9514f5cc.0016.03/DOC_1#E0006)), que estabelece as regras gerais relativas ao fornecimento de leite e de certos produtos lácteos aos alunos dos estabelecimentos escolares. De modo a ter em conta o novo regime de ajuda comunitária, bem como a experiência adquirida, importa alterar e simplificar as disposições do Regulamento (CE) n.º 3392/93 da Comissão, de 10 de Dezembro de 1993, relativo às normas de execução do Regulamento (CEE) n.º 1842/83 respeitantes à cessão do leite e de certos produtos lácteos aos alunos dos estabelecimentos de ensino ([^7^](http://publications.europa.eu/resource/cellar/6b78602d-0e02-42e8-9322-6e0a9514f5cc.0016.03/DOC_1#E0007)), com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2235/97 ([^8^](http://publications.europa.eu/resource/cellar/6b78602d-0e02-42e8-9322-6e0a9514f5cc.0016.03/DOC_1#E0008)). Além da referida alteração, é oportuno, por motivos de clareza, efectuar uma reformulação do regulamento em causa.\n\n(2) No que respeita aos beneficiários do regime de ajuda, há que privilegiar os jardins de infância e o ensino primário, facultando aos Estados-Membros a opção de abranger ou não o ensino secundário. De modo a simplificar a gestão do regime, recomenda-se a exclusão do consumo dos alunos no decurso de estadias em colónias de férias.\n\n(3) A utilização de produtos lácteos subvencionados na preparação de refeições destinadas aos alunos confronta-se com problemas de controlo. Além disso, a referida utilização afigura-se um meio pouco eficaz para atingir os objectivos do regime de ajudas em causa. Deve, pois, restringir-se aquela possibilidade de distribuição.\n\n(4) No estabelecimento da lista dos produtos lácteos elegíveis para a ajuda devem privilegiar-se alguns produtos lácteos de base cujo consumo é essencial para o equilíbrio do mercado. Além disso, de modo a ter em conta os diversos hábitos de consumo na Comunidade, deve prever-se a possibilidade de os Estados-Membros incluírem também determinados produtos lácteos com teor de gordura reduzido, bem como determinados queijos.\n\n(5) O n.º 3 do artigo 14.º do Regulamento (CE) n.º 1255/1999, alterado pelo Regulamento (CE) n.º 1670/2000, prevê, para o leite inteiro, um novo montante de ajuda igual a 75 % do preço indicativo, e, para os restantes produtos lácteos, uma ajuda cujo montante é estabelecido em função dos componentes lácteos dos produtos. Há que especificar o montante das ajudas para os diversos produtos tendo em conta as normas supracitadas.\n\n(6) No que respeita ao pagamento da ajuda, importa especificar as condições que os requerentes da mesma devem satisfazer, bem como as formalidades a cumprir para a entrega dos pedidos, as verificações a efectuar pelas autoridades competentes e as modalidades de pagamento. É recomendável basear a gestão dos pagamentos das ajudas e o controlo do regime no acordo dos interessados. De modo a simplificar a gestão do regime, deve facilitar-se a centralização dos pedidos de ajudas por organizações que efectuem o pedido para vários estabelecimentos de ensino.\n\n(7) O n.º 4 do artigo 14.º do Regulamento (CE) n.º 1255/1999 estipula que a concessão da ajuda é limitada a uma quantidade de 0,25 litros de equivalente-leite por aluno e por dia. Há que especificar os valores dos equivalentes-leite para os diversos produtos.\n\n(8) Devem estabelecer-se as normas de controlo do regime de ajuda em causa, de modo a garantir, nomeadamente, que o montante da ajuda se reflecte no preço pago pelos beneficiários e que os produtos lácteos subvencionados não são desviados do destino previsto.\n\n(9) Em virtude da data de aplicação do novo montante da ajuda e de modo a permitir que as autoridades competentes preparem a aplicação das novas disposições, é conveniente aplicar o presente regulamento a partir de 1 de Janeiro de 2001.\n\n(10) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão do Leite e dos Produtos Lácteos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "624850005a4b3b07": {
+   "fragment_id": "Artigo 3.º — Produtos lácteos elegíveis para a concessão da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Produtos lácteos elegíveis para a concessão da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Produtos lácteos elegíveis para a concessão da ajuda\n\n1. Os Estados-Membros pagam a ajuda relativamente aos produtos lácteos incluídos nas categorias I e V do anexo I.\n\n2. Os Estados-Membros têm a possibilidade de pagar a ajuda relativamente aos produtos lácteos incluídos nas categorias II, III, IV e VI a XII do anexo I.\n\n3. No que respeita aos departamentos ultramarinos franceses, o leite achocolatado ou leite aromatizado incluído no anexo pode ser leite reconstituído.\n\n4. Os Estados-Membros podem autorizar a adição de, no máximo, 5 miligramas de flúor por quilograma de produto incluído nas categorias I a VII.\n\n5. Os produtos incluídos no n.º 2, alíneas b) e c), do artigo 3.º do Regulamento (CE) n.º 2597/97 do Conselho ([^9^](http://publications.europa.eu/resource/cellar/6b78602d-0e02-42e8-9322-6e0a9514f5cc.0016.03/DOC_1#E0010)) são assimilados, de acordo com o caso, a leite inteiro, leite meio-gordo e leite magro.\n\n6. Só será concedida ajuda em relação a produtos incluídos no anexo I do presente regulamento se os mesmos satisfizerem as exigências do Regulamento (CE) n.º 852/2004 do Parlamento Europeu e do Conselho ([^10^](http://publications.europa.eu/resource/cellar/6b78602d-0e02-42e8-9322-6e0a9514f5cc.0016.03/DOC_1#E1014)) e do Regulamento (CE) n.º 853/2004 do Parlamento Europeu e do Conselho ([^11^](http://publications.europa.eu/resource/cellar/6b78602d-0e02-42e8-9322-6e0a9514f5cc.0016.03/DOC_1#E1015)), nomeadamente serem preparados num estabelecimento aprovado e cumprirem as condições relativas às marcas de identificação enunciadas na secção I do anexo II do Regulamento (CE) n.º 853/2004."
+  },
+  "55e4f1f3ea43d2f6": {
+   "fragment_id": "Categoria VIII",
+   "type": "divisao",
+   "heading": "Categoria VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Categoria VIII\n\nQueijo fresco e queijo fundido não aromatizados ([^12^](http://publications.europa.eu/resource/cellar/6b78602d-0e02-42e8-9322-6e0a9514f5cc.0016.03/DOC_1#E0012)) com teor ponderal de matéria gorda, em relação à matéria seca, não inferior a 40 %."
+  },
+  "375e3a03c74c0a7f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/6b78602d-0e02-42e8-9322-6e0a9514f5cc.0016.03/DOC_1#src.E0001)) JO L 160 de 26.6.1999, p. 48.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/6b78602d-0e02-42e8-9322-6e0a9514f5cc.0016.03/DOC_1#src.E0002)) JO L 193 de 29.7.2000, p. 10.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/6b78602d-0e02-42e8-9322-6e0a9514f5cc.0016.03/DOC_1#src.E0003)) JO L 148 de 28.6.1968, p. 13.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/6b78602d-0e02-42e8-9322-6e0a9514f5cc.0016.03/DOC_1#src.E0004)) JO L 206 de 16.8.1996, p. 21.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/6b78602d-0e02-42e8-9322-6e0a9514f5cc.0016.03/DOC_1#src.E0005)) JO L 183 de 7.7.1983, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/6b78602d-0e02-42e8-9322-6e0a9514f5cc.0016.03/DOC_1#src.E0006)) JO L 277 de 10.10.1997, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/6b78602d-0e02-42e8-9322-6e0a9514f5cc.0016.03/DOC_1#src.E0007)) JO L 306 de 11.12.1993, p. 27.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/6b78602d-0e02-42e8-9322-6e0a9514f5cc.0016.03/DOC_1#src.E0008)) JO L 306 de 11.11.1997, p. 11.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/6b78602d-0e02-42e8-9322-6e0a9514f5cc.0016.03/DOC_1#src.E0010)) JO L 351 de 23.12.1997, p. 13.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/6b78602d-0e02-42e8-9322-6e0a9514f5cc.0016.03/DOC_1#src.E1014)) JO L 139 de 30.4.2004, p. 1. Versão rectificada no JO L 226 de 25.6.2004, p. 3.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/6b78602d-0e02-42e8-9322-6e0a9514f5cc.0016.03/DOC_1#src.E1015)) JO L 139 de 30.4.2004, p. 55. Versão rectificada no JO L 226 de 25.6.2004, p. 22.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/6b78602d-0e02-42e8-9322-6e0a9514f5cc.0016.03/DOC_1#src.E0012)) 1 Para efeitos da presente categoria, entende-se por queijo não aromatizado o queijo derivado exclusivamente do leite, podendo ser adicionadas substâncias necessárias ao seu fabrico, desde que essas substâncias não sejam utilizadas para substituir, no todo ou em parte, qualquer um dos constituintes do leite."
+  },
+  "b51fc6a7884155eb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Dezembro de 2000\n\nque estabelece as normas de execução do Regulamento (CE) n.º 1255/1999 do Conselho no que respeita à concessão de uma ajuda comunitária para o fornecimento de leite e de determinados produtos lácteos aos alunos de estabelecimentos de ensino\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1255/1999 do Conselho, de 17 de Maio de 1999, que estabelece a organização comum de mercado no sector do leite e dos produtos lácteos ([^1^](http://publications.europa.eu/resource/cellar/34157f89-3f7c-42f4-8c17-35506978e149.0016.03/DOC_1#E0001)), com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1670/2000 ([^2^](http://publications.europa.eu/resource/cellar/34157f89-3f7c-42f4-8c17-35506978e149.0016.03/DOC_1#E0002)), e, nomeadamente, o seu artigo 15.º,\n\n(1) O Regulamento (CE) n.º 1255/1999 substituiu o Regulamento (CEE) n.º 804/68 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/34157f89-3f7c-42f4-8c17-35506978e149.0016.03/DOC_1#E0003)), com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1587/96 ([^4^](http://publications.europa.eu/resource/cellar/34157f89-3f7c-42f4-8c17-35506978e149.0016.03/DOC_1#E0004)), e, entre outros, o Regulamento (CEE) n.º 1842/83 do Conselho ([^5^](http://publications.europa.eu/resource/cellar/34157f89-3f7c-42f4-8c17-35506978e149.0016.03/DOC_1#E0005)), com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1958/97 ([^6^](http://publications.europa.eu/resource/cellar/34157f89-3f7c-42f4-8c17-35506978e149.0016.03/DOC_1#E0006)), que estabelece as regras gerais relativas ao fornecimento de leite e de certos produtos lácteos aos alunos dos estabelecimentos escolares. De modo a ter em conta o novo regime de ajuda comunitária, bem como a experiência adquirida, importa alterar e simplificar as disposições do Regulamento (CE) n.º 3392/93 da Comissão, de 10 de Dezembro de 1993, relativo às normas de execução do Regulamento (CEE) n.º 1842/83 respeitantes à cessão do leite e de certos produtos lácteos aos alunos dos estabelecimentos de ensino ([^7^](http://publications.europa.eu/resource/cellar/34157f89-3f7c-42f4-8c17-35506978e149.0016.03/DOC_1#E0007)), com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2235/97 ([^8^](http://publications.europa.eu/resource/cellar/34157f89-3f7c-42f4-8c17-35506978e149.0016.03/DOC_1#E0008)). Além da referida alteração, é oportuno, por motivos de clareza, efectuar uma reformulação do regulamento em causa.\n\n(2) No que respeita aos beneficiários do regime de ajuda, há que privilegiar os jardins de infância e o ensino primário, facultando aos Estados-Membros a opção de abranger ou não o ensino secundário. De modo a simplificar a gestão do regime, recomenda-se a exclusão do consumo dos alunos no decurso de estadias em colónias de férias.\n\n(3) A utilização de produtos lácteos subvencionados na preparação de refeições destinadas aos alunos confronta-se com problemas de controlo. Além disso, a referida utilização afigura-se um meio pouco eficaz para atingir os objectivos do regime de ajudas em causa. Deve, pois, restringir-se aquela possibilidade de distribuição.\n\n(4) No estabelecimento da lista dos produtos lácteos elegíveis para a ajuda devem privilegiar-se alguns produtos lácteos de base cujo consumo é essencial para o equilíbrio do mercado. Além disso, de modo a ter em conta os diversos hábitos de consumo na Comunidade, deve prever-se a possibilidade de os Estados-Membros incluírem também determinados produtos lácteos com teor de gordura reduzido, bem como determinados queijos.\n\n(5) O n.º 3 do artigo 14.º do Regulamento (CE) n.º 1255/1999, alterado pelo Regulamento (CE) n.º 1670/2000, prevê, para o leite inteiro, um novo montante de ajuda igual a 75 % do preço indicativo, e, para os restantes produtos lácteos, uma ajuda cujo montante é estabelecido em função dos componentes lácteos dos produtos. Há que especificar o montante das ajudas para os diversos produtos tendo em conta as normas supracitadas.\n\n(6) No que respeita ao pagamento da ajuda, importa especificar as condições que os requerentes da mesma devem satisfazer, bem como as formalidades a cumprir para a entrega dos pedidos, as verificações a efectuar pelas autoridades competentes e as modalidades de pagamento. É recomendável basear a gestão dos pagamentos das ajudas e o controlo do regime no acordo dos interessados. De modo a simplificar a gestão do regime, deve facilitar-se a centralização dos pedidos de ajudas por organizações que efectuem o pedido para vários estabelecimentos de ensino.\n\n(7) O n.º 4 do artigo 14.º do Regulamento (CE) n.º 1255/1999 estipula que a concessão da ajuda é limitada a uma quantidade de 0,25 litros de equivalente-leite por aluno e por dia. Há que especificar os valores dos equivalentes-leite para os diversos produtos.\n\n(8) Devem estabelecer-se as normas de controlo do regime de ajuda em causa, de modo a garantir, nomeadamente, que o montante da ajuda se reflecte no preço pago pelos beneficiários e que os produtos lácteos subvencionados não são desviados do destino previsto.\n\n(9) Em virtude da data de aplicação do novo montante da ajuda e de modo a permitir que as autoridades competentes preparem a aplicação das novas disposições, é conveniente aplicar o presente regulamento a partir de 1 de Janeiro de 2001.\n\n(10) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão do Leite e dos Produtos Lácteos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "7e1988c5eb9bb13a": {
+   "fragment_id": "Artigo 3.º — Produtos lácteos elegíveis para a concessão da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Produtos lácteos elegíveis para a concessão da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Produtos lácteos elegíveis para a concessão da ajuda\n\n1. Os Estados-Membros pagam a ajuda relativamente aos produtos lácteos incluídos nas categorias I e V do anexo I.\n\n2. Os Estados-Membros têm a possibilidade de pagar a ajuda relativamente aos produtos lácteos incluídos nas categorias II, III, IV e VI a XII do anexo I.\n\n3. No que respeita aos departamentos ultramarinos franceses, o leite achocolatado ou leite aromatizado incluído no anexo pode ser leite reconstituído.\n\n4. Os Estados-Membros podem autorizar a adição de, no máximo, 5 miligramas de flúor por quilograma de produto incluído nas categorias I a VII.\n\n5. Os produtos incluídos no n.º 2, alíneas b) e c), do artigo 3.º do Regulamento (CE) n.º 2597/97 do Conselho ([^9^](http://publications.europa.eu/resource/cellar/34157f89-3f7c-42f4-8c17-35506978e149.0016.03/DOC_1#E0010)) são assimilados, de acordo com o caso, a leite inteiro, leite meio-gordo e leite magro.\n\n6. Só será concedida ajuda em relação a produtos incluídos no anexo I do presente regulamento se os mesmos satisfizerem as exigências do Regulamento (CE) n.º 852/2004 do Parlamento Europeu e do Conselho ([^10^](http://publications.europa.eu/resource/cellar/34157f89-3f7c-42f4-8c17-35506978e149.0016.03/DOC_1#E1014)) e do Regulamento (CE) n.º 853/2004 do Parlamento Europeu e do Conselho ([^11^](http://publications.europa.eu/resource/cellar/34157f89-3f7c-42f4-8c17-35506978e149.0016.03/DOC_1#E1015)), nomeadamente serem preparados num estabelecimento aprovado e cumprirem as condições relativas às marcas de identificação enunciadas na secção I do anexo II do Regulamento (CE) n.º 853/2004."
+  },
+  "11f66594083b3552": {
+   "fragment_id": "Artigo 4.º — Montante da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Montante da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Montante da ajuda\n\n1. Os montantes da ajuda comunitária para os períodos de 1 de Maio de 2004 a 30 de Junho de 2004, de 1 de Julho de 2004 a 30 de Junho de 2005, de 1 de Julho de 2005 a 30 de Junho de 2006, de 1 de Julho de 2006 a 30 de Junho de 2007 e a partir de 1 de Julho de 2007 constam do anexo II do presente regulamento.\n\n2. Em derrogação ao n.º 1, no caso de a ajuda exceder o preço de venda praticado pelo fornecedor antes da dedução da ajuda, a mesma é reduzida de modo a não exceder o preço do produto em causa.\n\n3. Em caso de alteração do montante da ajuda, expresso em euros, o referido montante, no que respeita às quantidades fornecidas no mês em curso, é o montante aplicável no primeiro dia do mês.\n\nTodavia, em relação ao ano lectivo de 2005/2006, o montante da ajuda aplicável no primeiro dia de Junho pode ser aplicado durante o mês de Julho, se o ano lectivo no Estado-Membro terminar em Julho.\n\n4. Se as quantidades de produtos fornecidos forem expressas em litros, a conversão de litros em quilogramas é efectuada por aplicação do coeficiente 1,03."
+  },
+  "32e0de3ea1ea70b4": {
+   "fragment_id": "Categoria VIII",
+   "type": "divisao",
+   "heading": "Categoria VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Categoria VIII\n\nQueijo fresco e queijo fundido não aromatizados ([^12^](http://publications.europa.eu/resource/cellar/34157f89-3f7c-42f4-8c17-35506978e149.0016.03/DOC_1#E0012)) com teor ponderal de matéria gorda, em relação à matéria seca, não inferior a 40 %."
+  },
+  "a12486b29f54d01e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/34157f89-3f7c-42f4-8c17-35506978e149.0016.03/DOC_1#src.E0001)) JO L 160 de 26.6.1999, p. 48.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/34157f89-3f7c-42f4-8c17-35506978e149.0016.03/DOC_1#src.E0002)) JO L 193 de 29.7.2000, p. 10.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/34157f89-3f7c-42f4-8c17-35506978e149.0016.03/DOC_1#src.E0003)) JO L 148 de 28.6.1968, p. 13.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/34157f89-3f7c-42f4-8c17-35506978e149.0016.03/DOC_1#src.E0004)) JO L 206 de 16.8.1996, p. 21.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/34157f89-3f7c-42f4-8c17-35506978e149.0016.03/DOC_1#src.E0005)) JO L 183 de 7.7.1983, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/34157f89-3f7c-42f4-8c17-35506978e149.0016.03/DOC_1#src.E0006)) JO L 277 de 10.10.1997, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/34157f89-3f7c-42f4-8c17-35506978e149.0016.03/DOC_1#src.E0007)) JO L 306 de 11.12.1993, p. 27.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/34157f89-3f7c-42f4-8c17-35506978e149.0016.03/DOC_1#src.E0008)) JO L 306 de 11.11.1997, p. 11.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/34157f89-3f7c-42f4-8c17-35506978e149.0016.03/DOC_1#src.E0010)) JO L 351 de 23.12.1997, p. 13.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/34157f89-3f7c-42f4-8c17-35506978e149.0016.03/DOC_1#src.E1014)) JO L 139 de 30.4.2004, p. 1. Versão rectificada no JO L 226 de 25.6.2004, p. 3.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/34157f89-3f7c-42f4-8c17-35506978e149.0016.03/DOC_1#src.E1015)) JO L 139 de 30.4.2004, p. 55. Versão rectificada no JO L 226 de 25.6.2004, p. 22.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/34157f89-3f7c-42f4-8c17-35506978e149.0016.03/DOC_1#src.E0012)) 1 Para efeitos da presente categoria, entende-se por queijo não aromatizado o queijo derivado exclusivamente do leite, podendo ser adicionadas substâncias necessárias ao seu fabrico, desde que essas substâncias não sejam utilizadas para substituir, no todo ou em parte, qualquer um dos constituintes do leite."
+  },
+  "b66e8bb5e265244c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Dezembro de 2000\n\nque estabelece as normas de execução do Regulamento (CE) n.º 1255/1999 do Conselho no que respeita à concessão de uma ajuda comunitária para o fornecimento de leite e de determinados produtos lácteos aos alunos de estabelecimentos de ensino\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1255/1999 do Conselho, de 17 de Maio de 1999, que estabelece a organização comum de mercado no sector do leite e dos produtos lácteos ([^1^](http://publications.europa.eu/resource/cellar/045749c1-e0b0-48f7-9773-34247177d1b1.0017.03/DOC_1#E0001)), com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1670/2000 ([^2^](http://publications.europa.eu/resource/cellar/045749c1-e0b0-48f7-9773-34247177d1b1.0017.03/DOC_1#E0002)), e, nomeadamente, o seu artigo 15.º,\n\n(1) O Regulamento (CE) n.º 1255/1999 substituiu o Regulamento (CEE) n.º 804/68 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/045749c1-e0b0-48f7-9773-34247177d1b1.0017.03/DOC_1#E0003)), com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1587/96 ([^4^](http://publications.europa.eu/resource/cellar/045749c1-e0b0-48f7-9773-34247177d1b1.0017.03/DOC_1#E0004)), e, entre outros, o Regulamento (CEE) n.º 1842/83 do Conselho ([^5^](http://publications.europa.eu/resource/cellar/045749c1-e0b0-48f7-9773-34247177d1b1.0017.03/DOC_1#E0005)), com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1958/97 ([^6^](http://publications.europa.eu/resource/cellar/045749c1-e0b0-48f7-9773-34247177d1b1.0017.03/DOC_1#E0006)), que estabelece as regras gerais relativas ao fornecimento de leite e de certos produtos lácteos aos alunos dos estabelecimentos escolares. De modo a ter em conta o novo regime de ajuda comunitária, bem como a experiência adquirida, importa alterar e simplificar as disposições do Regulamento (CE) n.º 3392/93 da Comissão, de 10 de Dezembro de 1993, relativo às normas de execução do Regulamento (CEE) n.º 1842/83 respeitantes à cessão do leite e de certos produtos lácteos aos alunos dos estabelecimentos de ensino ([^7^](http://publications.europa.eu/resource/cellar/045749c1-e0b0-48f7-9773-34247177d1b1.0017.03/DOC_1#E0007)), com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2235/97 ([^8^](http://publications.europa.eu/resource/cellar/045749c1-e0b0-48f7-9773-34247177d1b1.0017.03/DOC_1#E0008)). Além da referida alteração, é oportuno, por motivos de clareza, efectuar uma reformulação do regulamento em causa.\n\n(2) No que respeita aos beneficiários do regime de ajuda, há que privilegiar os jardins de infância e o ensino primário, facultando aos Estados-Membros a opção de abranger ou não o ensino secundário. De modo a simplificar a gestão do regime, recomenda-se a exclusão do consumo dos alunos no decurso de estadias em colónias de férias.\n\n(3) A utilização de produtos lácteos subvencionados na preparação de refeições destinadas aos alunos confronta-se com problemas de controlo. Além disso, a referida utilização afigura-se um meio pouco eficaz para atingir os objectivos do regime de ajudas em causa. Deve, pois, restringir-se aquela possibilidade de distribuição.\n\n(4) No estabelecimento da lista dos produtos lácteos elegíveis para a ajuda devem privilegiar-se alguns produtos lácteos de base cujo consumo é essencial para o equilíbrio do mercado. Além disso, de modo a ter em conta os diversos hábitos de consumo na Comunidade, deve prever-se a possibilidade de os Estados-Membros incluírem também determinados produtos lácteos com teor de gordura reduzido, bem como determinados queijos.\n\n(5) O n.º 3 do artigo 14.º do Regulamento (CE) n.º 1255/1999, alterado pelo Regulamento (CE) n.º 1670/2000, prevê, para o leite inteiro, um novo montante de ajuda igual a 75 % do preço indicativo, e, para os restantes produtos lácteos, uma ajuda cujo montante é estabelecido em função dos componentes lácteos dos produtos. Há que especificar o montante das ajudas para os diversos produtos tendo em conta as normas supracitadas.\n\n(6) No que respeita ao pagamento da ajuda, importa especificar as condições que os requerentes da mesma devem satisfazer, bem como as formalidades a cumprir para a entrega dos pedidos, as verificações a efectuar pelas autoridades competentes e as modalidades de pagamento. É recomendável basear a gestão dos pagamentos das ajudas e o controlo do regime no acordo dos interessados. De modo a simplificar a gestão do regime, deve facilitar-se a centralização dos pedidos de ajudas por organizações que efectuem o pedido para vários estabelecimentos de ensino.\n\n(7) O n.º 4 do artigo 14.º do Regulamento (CE) n.º 1255/1999 estipula que a concessão da ajuda é limitada a uma quantidade de 0,25 litros de equivalente-leite por aluno e por dia. Há que especificar os valores dos equivalentes-leite para os diversos produtos.\n\n(8) Devem estabelecer-se as normas de controlo do regime de ajuda em causa, de modo a garantir, nomeadamente, que o montante da ajuda se reflecte no preço pago pelos beneficiários e que os produtos lácteos subvencionados não são desviados do destino previsto.\n\n(9) Em virtude da data de aplicação do novo montante da ajuda e de modo a permitir que as autoridades competentes preparem a aplicação das novas disposições, é conveniente aplicar o presente regulamento a partir de 1 de Janeiro de 2001.\n\n(10) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão do Leite e dos Produtos Lácteos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "934edf34a7c13fc4": {
+   "fragment_id": "Artigo 3.º — Produtos lácteos elegíveis para a concessão da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Produtos lácteos elegíveis para a concessão da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Produtos lácteos elegíveis para a concessão da ajuda\n\n1. Os Estados-Membros pagam a ajuda relativamente aos produtos lácteos incluídos nas categorias I e V do anexo I.\n\n2. Os Estados-Membros têm a possibilidade de pagar a ajuda relativamente aos produtos lácteos incluídos nas categorias II, III, IV e VI a XII do anexo I.\n\n3. No que respeita aos departamentos ultramarinos franceses, o leite achocolatado ou leite aromatizado incluído no anexo pode ser leite reconstituído.\n\n4. Os Estados-Membros podem autorizar a adição de, no máximo, 5 miligramas de flúor por quilograma de produto incluído nas categorias I a VII.\n\n5. Os produtos incluídos no n.º 2, alíneas b) e c), do artigo 3.º do Regulamento (CE) n.º 2597/97 do Conselho ([^9^](http://publications.europa.eu/resource/cellar/045749c1-e0b0-48f7-9773-34247177d1b1.0017.03/DOC_1#E0009)) são assimilados, de acordo com o caso, a leite inteiro, leite meio-gordo e leite magro.\n\n6. Só será concedida ajuda em relação a produtos incluídos no anexo I do presente regulamento se os mesmos satisfizerem as exigências do Regulamento (CE) n.º 852/2004 do Parlamento Europeu e do Conselho ([^10^](http://publications.europa.eu/resource/cellar/045749c1-e0b0-48f7-9773-34247177d1b1.0017.03/DOC_1#E0010)) e do Regulamento (CE) n.º 853/2004 do Parlamento Europeu e do Conselho ([^11^](http://publications.europa.eu/resource/cellar/045749c1-e0b0-48f7-9773-34247177d1b1.0017.03/DOC_1#E0011)), nomeadamente serem preparados num estabelecimento aprovado e cumprirem as condições relativas às marcas de identificação enunciadas na secção I do anexo II do Regulamento (CE) n.º 853/2004."
+  },
+  "b2ace1394f70ad0f": {
+   "fragment_id": "Artigo 4.º — Montante da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Montante da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Montante da ajuda\n\n1. Os montantes da ajuda comunitária para os períodos de 1 de Maio de 2004 a 30 de Junho de 2004, de 1 de Julho de 2004 a 30 de Junho de 2005, de 1 de Julho de 2005 a 30 de Junho de 2006, de 1 de Julho de 2006 a 30 de Junho de 2007 e a partir de 1 de Julho de 2007 constam do anexo II do presente regulamento.\n\n2. Em derrogação ao n.º 1, no caso de a ajuda exceder o preço de venda praticado pelo fornecedor antes da dedução da ajuda, a mesma é reduzida de modo a não exceder o preço do produto em causa.\n\n3. Em caso de alteração do montante da ajuda, expresso em euros, o referido montante, no que respeita às quantidades fornecidas no mês em curso, é o montante aplicável no primeiro dia do mês.\n\nTodavia, em relação ao ano lectivo de 2006/2007, o montante da ajuda aplicável no primeiro dia de Junho pode ser aplicado durante o mês de Julho, se o ano lectivo no Estado-Membro terminar em Julho.\n\n4. Se as quantidades de produtos fornecidos forem expressas em litros, a conversão de litros em quilogramas é efectuada por aplicação do coeficiente 1,03."
+  },
+  "84f220d65e50a430": {
+   "fragment_id": "Categoria VIII",
+   "type": "divisao",
+   "heading": "Categoria VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Categoria VIII\n\nQueijo fresco e queijo fundido não aromatizados ([^12^](http://publications.europa.eu/resource/cellar/045749c1-e0b0-48f7-9773-34247177d1b1.0017.03/DOC_1#E0012)) com teor ponderal de matéria gorda, em relação à matéria seca, não inferior a 40 %."
+  },
+  "92743729fb7240d6": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/045749c1-e0b0-48f7-9773-34247177d1b1.0017.03/DOC_1#src.E0001)) JO L 160 de 26.6.1999, p. 48.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/045749c1-e0b0-48f7-9773-34247177d1b1.0017.03/DOC_1#src.E0002)) JO L 193 de 29.7.2000, p. 10.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/045749c1-e0b0-48f7-9773-34247177d1b1.0017.03/DOC_1#src.E0003)) JO L 148 de 28.6.1968, p. 13.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/045749c1-e0b0-48f7-9773-34247177d1b1.0017.03/DOC_1#src.E0004)) JO L 206 de 16.8.1996, p. 21.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/045749c1-e0b0-48f7-9773-34247177d1b1.0017.03/DOC_1#src.E0005)) JO L 183 de 7.7.1983, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/045749c1-e0b0-48f7-9773-34247177d1b1.0017.03/DOC_1#src.E0006)) JO L 277 de 10.10.1997, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/045749c1-e0b0-48f7-9773-34247177d1b1.0017.03/DOC_1#src.E0007)) JO L 306 de 11.12.1993, p. 27.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/045749c1-e0b0-48f7-9773-34247177d1b1.0017.03/DOC_1#src.E0008)) JO L 306 de 11.11.1997, p. 11.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/045749c1-e0b0-48f7-9773-34247177d1b1.0017.03/DOC_1#src.E0009)) JO L 351 de 23.12.1997, p. 13.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/045749c1-e0b0-48f7-9773-34247177d1b1.0017.03/DOC_1#src.E0010)) JO L 139 de 30.4.2004, p. 1. Versão rectificada no JO L 226 de 25.6.2004, p. 3.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/045749c1-e0b0-48f7-9773-34247177d1b1.0017.03/DOC_1#src.E0011)) JO L 139 de 30.4.2004, p. 55. Versão rectificada no JO L 226 de 25.6.2004, p. 22.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/045749c1-e0b0-48f7-9773-34247177d1b1.0017.03/DOC_1#src.E0012)) 1 Para efeitos da presente categoria, entende-se por queijo não aromatizado o queijo derivado exclusivamente do leite, podendo ser adicionadas substâncias necessárias ao seu fabrico, desde que essas substâncias não sejam utilizadas para substituir, no todo ou em parte, qualquer um dos constituintes do leite."
+  },
+  "083088883d16db05": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Dezembro de 2000\n\nque estabelece as normas de execução do Regulamento (CE) n.º 1255/1999 do Conselho no que respeita à concessão de uma ajuda comunitária para o fornecimento de leite e de determinados produtos lácteos aos alunos de estabelecimentos de ensino\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1255/1999 do Conselho, de 17 de Maio de 1999, que estabelece a organização comum de mercado no sector do leite e dos produtos lácteos ([^1^](http://publications.europa.eu/resource/cellar/960669b7-7410-4981-b9bf-d31a8b3072ea.0017.03/DOC_1#E0001)), com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1670/2000 ([^2^](http://publications.europa.eu/resource/cellar/960669b7-7410-4981-b9bf-d31a8b3072ea.0017.03/DOC_1#E0002)), e, nomeadamente, o seu artigo 15.º,\n\n(1) O Regulamento (CE) n.º 1255/1999 substituiu o Regulamento (CEE) n.º 804/68 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/960669b7-7410-4981-b9bf-d31a8b3072ea.0017.03/DOC_1#E0003)), com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1587/96 ([^4^](http://publications.europa.eu/resource/cellar/960669b7-7410-4981-b9bf-d31a8b3072ea.0017.03/DOC_1#E0004)), e, entre outros, o Regulamento (CEE) n.º 1842/83 do Conselho ([^5^](http://publications.europa.eu/resource/cellar/960669b7-7410-4981-b9bf-d31a8b3072ea.0017.03/DOC_1#E0005)), com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1958/97 ([^6^](http://publications.europa.eu/resource/cellar/960669b7-7410-4981-b9bf-d31a8b3072ea.0017.03/DOC_1#E0006)), que estabelece as regras gerais relativas ao fornecimento de leite e de certos produtos lácteos aos alunos dos estabelecimentos escolares. De modo a ter em conta o novo regime de ajuda comunitária, bem como a experiência adquirida, importa alterar e simplificar as disposições do Regulamento (CE) n.º 3392/93 da Comissão, de 10 de Dezembro de 1993, relativo às normas de execução do Regulamento (CEE) n.º 1842/83 respeitantes à cessão do leite e de certos produtos lácteos aos alunos dos estabelecimentos de ensino ([^7^](http://publications.europa.eu/resource/cellar/960669b7-7410-4981-b9bf-d31a8b3072ea.0017.03/DOC_1#E0007)), com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2235/97 ([^8^](http://publications.europa.eu/resource/cellar/960669b7-7410-4981-b9bf-d31a8b3072ea.0017.03/DOC_1#E0008)). Além da referida alteração, é oportuno, por motivos de clareza, efectuar uma reformulação do regulamento em causa.\n\n(2) No que respeita aos beneficiários do regime de ajuda, há que privilegiar os jardins de infância e o ensino primário, facultando aos Estados-Membros a opção de abranger ou não o ensino secundário. De modo a simplificar a gestão do regime, recomenda-se a exclusão do consumo dos alunos no decurso de estadias em colónias de férias.\n\n(3) A utilização de produtos lácteos subvencionados na preparação de refeições destinadas aos alunos confronta-se com problemas de controlo. Além disso, a referida utilização afigura-se um meio pouco eficaz para atingir os objectivos do regime de ajudas em causa. Deve, pois, restringir-se aquela possibilidade de distribuição.\n\n(4) No estabelecimento da lista dos produtos lácteos elegíveis para a ajuda devem privilegiar-se alguns produtos lácteos de base cujo consumo é essencial para o equilíbrio do mercado. Além disso, de modo a ter em conta os diversos hábitos de consumo na Comunidade, deve prever-se a possibilidade de os Estados-Membros incluírem também determinados produtos lácteos com teor de gordura reduzido, bem como determinados queijos.\n\n(5) O n.º 3 do artigo 14.º do Regulamento (CE) n.º 1255/1999, alterado pelo Regulamento (CE) n.º 1670/2000, prevê, para o leite inteiro, um novo montante de ajuda igual a 75 % do preço indicativo, e, para os restantes produtos lácteos, uma ajuda cujo montante é estabelecido em função dos componentes lácteos dos produtos. Há que especificar o montante das ajudas para os diversos produtos tendo em conta as normas supracitadas.\n\n(6) No que respeita ao pagamento da ajuda, importa especificar as condições que os requerentes da mesma devem satisfazer, bem como as formalidades a cumprir para a entrega dos pedidos, as verificações a efectuar pelas autoridades competentes e as modalidades de pagamento. É recomendável basear a gestão dos pagamentos das ajudas e o controlo do regime no acordo dos interessados. De modo a simplificar a gestão do regime, deve facilitar-se a centralização dos pedidos de ajudas por organizações que efectuem o pedido para vários estabelecimentos de ensino.\n\n(7) O n.º 4 do artigo 14.º do Regulamento (CE) n.º 1255/1999 estipula que a concessão da ajuda é limitada a uma quantidade de 0,25 litros de equivalente-leite por aluno e por dia. Há que especificar os valores dos equivalentes-leite para os diversos produtos.\n\n(8) Devem estabelecer-se as normas de controlo do regime de ajuda em causa, de modo a garantir, nomeadamente, que o montante da ajuda se reflecte no preço pago pelos beneficiários e que os produtos lácteos subvencionados não são desviados do destino previsto.\n\n(9) Em virtude da data de aplicação do novo montante da ajuda e de modo a permitir que as autoridades competentes preparem a aplicação das novas disposições, é conveniente aplicar o presente regulamento a partir de 1 de Janeiro de 2001.\n\n(10) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão do Leite e dos Produtos Lácteos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "f21ab802633fa8d9": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros podem pagar a ajuda relativamente aos produtos elegíveis, constantes da lista do anexo I.\n\n2. No que respeita aos departamentos ultramarinos franceses, o leite achocolatado ou leite aromatizado pode ser leite reconstituído.\n\n3. Os Estados-Membros podem autorizar a adição de, no máximo, 5 mg de flúor por quilograma de produto da categoria I.\n\n4. Só será concedida ajuda em relação a produtos incluídos no anexo I do presente regulamento se os mesmos satisfizerem as exigências do Regulamento (CE) n.º 852/2004 do Parlamento Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/960669b7-7410-4981-b9bf-d31a8b3072ea.0017.03/DOC_1#E0009)) e do Regulamento (CE) n.º 853/2004 do Parlamento Europeu e do Conselho ([^10^](http://publications.europa.eu/resource/cellar/960669b7-7410-4981-b9bf-d31a8b3072ea.0017.03/DOC_1#E0010)), nomeadamente serem preparados num estabelecimento aprovado e cumprirem as condições relativas às marcas de identificação enunciadas na secção I do anexo II do Regulamento (CE) n.º 853/2004."
+  },
+  "4a602f9f9b6659fc": {
+   "fragment_id": "Artigo 4.º — Montante da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Montante da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Montante da ajuda\n\n1. Os montantes da ajuda constam do anexo II.\n\n2. Em derrogação ao n.º 1, no caso de a ajuda exceder o preço de venda praticado pelo fornecedor antes da dedução da ajuda, a mesma é reduzida de modo a não exceder o preço do produto em causa.\n\n3. Em caso de alteração do montante da ajuda, expresso em euros, o referido montante, no que respeita às quantidades fornecidas no mês em curso, é o montante aplicável no primeiro dia do mês.\n\nTodavia, em relação ao ano lectivo de 2006/2007, o montante da ajuda aplicável no primeiro dia de Junho pode ser aplicado durante o mês de Julho, se o ano lectivo no Estado-Membro terminar em Julho.\n\n4. Se as quantidades de produtos fornecidos forem expressas em litros, a conversão de litros em quilogramas é efectuada por aplicação do coeficiente 1,03."
+  },
+  "ad06b2b4bf2890d4": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Para a aplicação da quantidade máxima de 0,25 litros referida no n.º 4 do artigo 14.º do Regulamento (CE) n.º 1255/1999, a quantidade total de produtos lácteos que dão direito à ajuda no período para o qual a mesma é solicitada será calculada com base no número de alunos inscritos no estabelecimento de ensino em causa ou, casos se aplique a alínea c) ou d) do n.º 2 do artigo 6.º, com base no número de alunos inscritos na lista do requerente.\n\n2. No caso dos produtos das categorias II a VI do anexo I, o referido cálculo é efectuado com base nas seguintes equivalências:\n\na) Categoria II: 100 kg = 300 kg de leite;\n\nb) Categoria III: 100 kg = 765 kg de leite;\n\nc) Categoria IV: 100 kg = 850 kg de leite;\n\nd) Categoria V: 100 kg = 935 kg de leite;\n\ne) Categoria VI: 100 kg = 750 kg de leite."
+  },
+  "7a95e4187884fb79": {
+   "fragment_id": "Categoria I",
+   "type": "divisao",
+   "heading": "Categoria I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Categoria I\n\na) Leite tratado termicamente;\n\nb) Leite achocolatado ou aromatizado tratado termicamente, com teor ponderal de leite referido na alínea a) não inferior a 90 %;\n\nc) Iogurte ou *piimä/filmjölk* ou *piimä/fil* obtidos por transformação do leite referido na alínea a)."
+  },
+  "e78748cec4de6309": {
+   "fragment_id": "Categoria II",
+   "type": "divisao",
+   "heading": "Categoria II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Categoria II\n\nQueijo fresco e queijo fundido não-aromatizados ([^11^](http://publications.europa.eu/resource/cellar/960669b7-7410-4981-b9bf-d31a8b3072ea.0017.03/DOC_1#E0011)), com teor ponderal de matéria gorda, em relação à matéria seca, não inferior a 40 %."
+  },
+  "c1f3aa13cd1bad15": {
+   "fragment_id": "Categoria III",
+   "type": "divisao",
+   "heading": "Categoria III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Categoria III\n\nOutros queijos (diversos do queijo fresco e do queijo fundido), com teor ponderal de matéria gorda, em relação à matéria seca, não inferior a 45 %."
+  },
+  "8e19b3236d8a1e33": {
+   "fragment_id": "Categoria IV",
+   "type": "divisao",
+   "heading": "Categoria IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Categoria IV\n\nQueijo «Grana Padano»."
+  },
+  "7a03271295b3319a": {
+   "fragment_id": "Categoria V",
+   "type": "divisao",
+   "heading": "Categoria V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Categoria V\n\nQueijo «Parmigiano Reggiano»."
+  },
+  "544f9da237b525e5": {
+   "fragment_id": "Categoria VI",
+   "type": "divisao",
+   "heading": "Categoria VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Categoria VI\n\nQueijo «Halloumi»."
+  },
+  "c5a1d5c3f379dc09": {
+   "fragment_id": "Montantes da ajuda",
+   "type": "divisao",
+   "heading": "Montantes da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Montantes da ajuda\n\na) 18,15 EUR por 100 kg de produtos da categoria I;\n\nb) 54,45 EUR por 100 kg de produtos da categoria II;\n\nc) 138,85 EUR por 100 kg de produtos da categoria III;\n\nd) 154,28 EUR por 100 kg de produtos da categoria IV;\n\ne) 169,70 EUR por 100 kg de produtos da categoria V;\n\nf) 136,13 EUR por 100 kg de produtos da categoria VI.\n\n---"
+  },
+  "22fe0a2ee8e3e9ca": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/960669b7-7410-4981-b9bf-d31a8b3072ea.0017.03/DOC_1#src.E0001)) JO L 160 de 26.6.1999, p. 48.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/960669b7-7410-4981-b9bf-d31a8b3072ea.0017.03/DOC_1#src.E0002)) JO L 193 de 29.7.2000, p. 10.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/960669b7-7410-4981-b9bf-d31a8b3072ea.0017.03/DOC_1#src.E0003)) JO L 148 de 28.6.1968, p. 13.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/960669b7-7410-4981-b9bf-d31a8b3072ea.0017.03/DOC_1#src.E0004)) JO L 206 de 16.8.1996, p. 21.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/960669b7-7410-4981-b9bf-d31a8b3072ea.0017.03/DOC_1#src.E0005)) JO L 183 de 7.7.1983, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/960669b7-7410-4981-b9bf-d31a8b3072ea.0017.03/DOC_1#src.E0006)) JO L 277 de 10.10.1997, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/960669b7-7410-4981-b9bf-d31a8b3072ea.0017.03/DOC_1#src.E0007)) JO L 306 de 11.12.1993, p. 27.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/960669b7-7410-4981-b9bf-d31a8b3072ea.0017.03/DOC_1#src.E0008)) JO L 306 de 11.11.1997, p. 11.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/960669b7-7410-4981-b9bf-d31a8b3072ea.0017.03/DOC_1#src.E0009)) JO L 139 de 30.4.2004, p. 1. Rectificação no JO L 226 de 25.6.2004, p. 3.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/960669b7-7410-4981-b9bf-d31a8b3072ea.0017.03/DOC_1#src.E0010)) JO L 139 de 30.4.2004, p. 55. Rectificação no JO L 226 de 25.6.2004, p. 22.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/960669b7-7410-4981-b9bf-d31a8b3072ea.0017.03/DOC_1#src.E0011)) Para efeitos desta categoria, entende-se por queijo não-aromatizado o queijo derivado exclusivamente de leite, podendo ser adicionadas substâncias necessárias ao seu fabrico, desde que essas substâncias não sejam utilizadas para substituir, no todo ou em parte, qualquer dos constituintes do leite."
+  },
+  "79947ca40e0ee082": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2000R2707 — PT — 01.08.2008 — 006.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32000R2707) [REGULAMENTO (CE) N.º 2707/2000DA COMISSÃO](http://publications.europa.eu/resource/celex/32000R2707) [de 11 de Dezembro de 2000](http://publications.europa.eu/resource/celex/32000R2707) [que estabelece as normas de execução do Regulamento (CE) n.º 1255/1999 do Conselho no que respeita à concessão de uma ajuda comunitária para o fornecimento de leite e de determinados produtos lácteos aos alunos de estabelecimentos de ensino](http://publications.europa.eu/resource/celex/32000R2707) (JO L 311, 12.12.2000, p.37)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 657/2008 da Comissão de 10 de Julho de 2008](http://publications.europa.eu/resource/celex/32008R0657) — L 183 — 17 — 11.7.2008"
+  }
+ }
+}

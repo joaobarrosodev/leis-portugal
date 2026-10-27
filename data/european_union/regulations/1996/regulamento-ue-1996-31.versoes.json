@@ -1,0 +1,255 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31996R0031:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996R0031-20230213",
+ "dre_path": null,
+ "source_lastmod": "2023-02-13",
+ "versions": [
+  {
+   "date": "1996-01-11",
+   "future": false,
+   "celex": "31996R0031",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "026fb7d5034bb234",
+    "1af665606562e4a0",
+    "aa847358a487a7c2",
+    "3dadf170455b8aee",
+    "a09f096da2ad5491",
+    "a7edd2254a75a21d",
+    "e748b76d20f303e5",
+    "ec30f790808a0579",
+    "068c8f6d7eda4f7b"
+   ]
+  },
+  {
+   "date": "2022-07-01",
+   "future": false,
+   "celex": "01996R0031-20220701",
+   "acts": [
+    {
+     "id": "eu:celex:32022R0829:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2022/829 DA COMISSÃO de 25 de maio de 2022",
+     "published": null,
+     "celex": "32022R0829"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita ANEXO",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime ANEXO — >REFERÊNCIA A UMA IMAGEN>"
+   ],
+   "fragments": [
+    "3af3ec5fc495998e",
+    "84b22f6f6955a367",
+    "4ff8b18187b85bdb",
+    "26eee62761010057",
+    "504cfa5de8f202b5",
+    "75292f440d280585",
+    "b96ed55ed8b633cc",
+    "bb7eb4512f0abee3",
+    "d347576066fa1820",
+    "054e825acf115951"
+   ]
+  },
+  {
+   "date": "2023-02-13",
+   "future": false,
+   "celex": "01996R0031-20230213",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime ANEXO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "0dd1e44cd9a05e85"
+   ]
+  }
+ ],
+ "fragments": {
+  "026fb7d5034bb234": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 31/96 da Comissão, de 10 de Janeiro de 1996, relativo ao certificado de isenção de impostos especiais de consumo** *Jornal Oficial nº L 008 de 11/01/1996 p. 0011 - 0015*\n\nREGULAMENTO (CE) Nº 31/96 DA COMISSÃO de 10 de Janeiro de 1996 relativo ao certificado de isenção de impostos especiais de consumo\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 92/12/CEE do Conselho, de 25 de Fevereiro de 1992, relativa ao regime geral, à detenção, à circulação e aos controlos dos produtos sujeitos a impostos especiais de consumo (1), com a última redacção que lhe foi dada pela Directiva 94/74/CE (2), e, nomeadamente, o nº 1, alínea a), do seu artigo 23º,\n\nConsiderando que os Estados-membros devem isentar de impostos especiais de consumo os produtos sujeitos a esses impostos entregues às forças armadas e às instituições referidas no nº 1 do artigo 23º da Directiva 92/12/CEE;\n\nConsiderando que, nos termos do nº 1A do artigo 23º da Directiva 92/12/CEE, as forças armadas e as instituições referidas no nº 1 do artigo 23º estão autorizadas a receber produtos de outros Estados-membros em regime de suspensão dos impostos especiais de consumo, a coberto de um documento de acompanhamento, na condição de esse documento ser acompanhado de um certificado de isenção; que é necessário estabelecer a forma e conteúdo do certificado de isenção;\n\nConsiderando que se deve permitir aos Estados-membros alargar as disposições do presente regulamento a outros domínios dos impostos indirectos;\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité dos impostos especiais de consumo,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "1af665606562e4a0": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nO documento em anexo será utilizado como certificado de isenção, nos termos do nº 1A do artigo 23º da Directiva 92/12/CEE, em conformidade com as notas explicativas do referido anexo."
+  },
+  "aa847358a487a7c2": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nOs Estados-membros podem adaptar o certificado de isenção referido no artigo 1º, de modo a abranger outros domínios dos impostos indirectos e a fim de garantir a compatibilidade da isenção com as condições e limites previstos pela legislação nacional para a concessão de isenção."
+  },
+  "3dadf170455b8aee": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nOs Estados-membros que pretendam adaptar o certificado de isenção informarão a Comissão e apresentar-lhe-ão todas as informações necessárias ou relevantes. A Comissão informará os restantes Estados-membros."
+  },
+  "a09f096da2ad5491": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nO certificado de isenção será emitido em duplicado:\n\n- um exemplar será conservado pelo expedidor,\n\n- o outro exemplar será junto ao documento administrativo de acompanhamento especificado no artigo 18º da Directiva 92/12/CEE.\n\nOs Estados-membros podem solicitar um exemplar suplementar por motivos administrativos."
+  },
+  "a7edd2254a75a21d": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Os depositários autorizados que procedam à entrega de produtos ao abrigo de regimes suspensivos dos impostos especiais de consumo às forças armadas e às instituições referidas no nº 1 do artigo 23º da Directiva 92/12/CEE devem conservar nos seus arquivos o certificado de isenção de imposto.\n\n2. O destinatário enviará ao depositário autorizado o certificado de isenção de imposto, devidamente carimbado pelas autoridades competentes do Estado-membro de acolhimento, para os efeitos do nº 1.\n\nNo entanto, se os bens entregues se destinarem a utilização oficial, os Estados-membros podem dispensar o destinatário da obrigação de solicitar que o certificado seja carimbado nas condições por si estabelecidas."
+  },
+  "e748b76d20f303e5": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Os Estados-membros informarão a Comissão sobre qual o serviço responsável por carimbar o certificado de isenção.\n\n2. Os Estados-membros que dispensarem o destinatário da obrigação de solicitar que o certificado seja carimbado, nos termos do nº 2, segundo parágrafo, do artigo 5º, informarão desse facto a Comissão.\n\n3. A Comissão informará os restantes Estados-membros, no prazo de um mês, relativamente às informações recebidas dos Estados-membros ao abrigo do disposto nos nºs 1 e 2."
+  },
+  "ec30f790808a0579": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 10 de Janeiro de 1996.\n\nPela Comissão\n\nMario MONTI\n\nMembro da Comissão\n\n(1) JO nº L 76 de 23. 3. 1992, p. 1.\n\n(2) JO nº L 365 de 31. 12. 1994, p. 46."
+  },
+  "068c8f6d7eda4f7b": {
+   "fragment_id": "ANEXO — >REFERÊNCIA A UMA IMAGEN>",
+   "type": "divisao",
+   "heading": "ANEXO — >REFERÊNCIA A UMA IMAGEN>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — >REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\nNotas explicativas\n\n1. Para o depositário autorizado, o presente certificado constitui um documento justificativo da isenção fiscal aplicável à expedição de bens para as instituições/pessoas singulares beneficiárias, referidas no nº 1 do artigo 23º da Directiva 92/12/CEE. Assim, será emitido um certificado para cada depositário. Além disso, o depositário deve conservar este certificado nos seus arquivos, de acordo com as disposições legais aplicáveis no seu Estado-membro.\n\n2. a) As especificações gerais do papel a utilizar são as fixadas no Jornal Oficial das Comunidades Europeias nº C 164 de 1 de Julho de 1989, página 3.\n\nO papel deve ser em branco, para todos os exemplares, e deverá ter as dimensões de 210 milímetros por 297 milímetros, com uma tolerância máxima de 5 milímetros, para menos, e 8 milímetros, para mais, relativamente ao comprimento.\n\nO certificado de isenção será emitido em duplicado:\n\n- um exemplar será conservado pelo expedidor,\n\n- o outro exemplar deverá ser junto ao documento administrativo de acompanhamento.\n\nb) Qualquer espaço não utilizado na casa 5.B deverá ser riscado, de forma a impedir qualquer aditamento.\n\nc) O documento dever ser preenchido de modo legível e de forma a que as inscrições nele contidas sejam indeléveis. Não será permitida qualquer rasura ou emenda, devendo ser preenchido numa língua reconhecida pelo Estado-membro de acolhimento.\n\nd) Caso a descrição dos bens (casa 5.B do certificado) faça referência a uma nota de encomenda redigida numa língua não reconhecida pelo Estado-membro de acolhimento, a instituição/pessoa singular beneficiária deverá juntar uma tradução.\n\ne) Além disso, caso o certificado seja redigido numa língua não reconhecida pelo Estado-membro do depositário, a instituição/pessoa singular beneficiária deverá juntar uma tradução das informações respeitantes aos bens constantes da casa 5.B.\n\nf) Por língua reconhecida, entende-se uma das línguas oficialmente utilizadas no Estado-membro ou qualquer outra língua oficial da Comunidade, que o Estado-membro declare poder ser utilizada para este efeito.\n\n3. Através da sua declaração na casa 3 do certificado, a instituição/pessoa singular beneficiária presta as informações necessárias para a avaliação do pedido de isenção no Estado-membro de acolhimento.\n\n4. Através da sua declaração na casa 4 do certificado, a instituição confirma as informações da casa 1 e da alínea a) da casa 3 do documento e certifica que a pessoa singular beneficiária é um membro do pessoal da instituição.\n\n5. a) A referência a uma nota de encomenda (casa 5.B do certificado) deve conter pelo menos a data e número da nota. A nota de encomenda deve conter todos os elementos constantes da casa 5 do certificado. No caso de o certificado dever ser carimbado pela autoridade competente do Estado-membro de acolhimento, a nota de encomenda deverá igualmente ser carimbada.\n\nb) A indicação do número de registo para efeitos de impostos especiais de consumo do depositário autorizado, definido no nº 2, alínea a), do artigo 15ºA da Directiva 92/12/CEE, é facultativa.\n\nc) As moedas devem ser indicadas através de um código de três letras em conformidade com a norma ISOIDIS 4127 da Organização Internacional de Normalização (1).\n\n6. A declaração acima referida da instituição/pessoa singular beneficiária será autenticada na casa 6, através de carimbo da autoridade competente do Estado-membro de acolhimento. Essa autoridade pode condicionar a sua aprovação ao acordo de outra autoridade do seu Estado-membro. Competirá à autoridade fiscal competente obter esse acordo.\n\n7. Para fins de simplificação processual, a autoridade competente pode dispensar as instituições beneficiárias de solicitar o carimbo, no caso de uma isenção para utilização oficial. A instituição beneficiária deverá mencionar esta dispensa na casa 7 do certificado.\n\n(1) A título exemplificativo apresentam-se alguns códigos referentes a moedas correntemente usadas: BEF (franco belga), DEM (marco alemão), DKK (coroa dinamarquesa), ESP (peseta espanhola), FRF (franco francês), GBP (libra esterlina), GRD (dracma grega), IEP (libra irlandesa), ITL (lira italiana), LUF (franco luxemburguês), NLG (florim neerlandês), PTE (escudo português), ATS (xelim austríaco), FIM (marco finlandês), SEK (coroa sueca) e USD (dólar dos Estados Unidos)."
+  },
+  "3af3ec5fc495998e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Janeiro de 1996\n\nrelativo ao certificado de isenção de impostos especiais de consumo"
+  },
+  "84b22f6f6955a367": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO documento em anexo será utilizado como certificado de isenção, nos termos do n.º 1A do artigo 23.º da Directiva 92/12/CEE, em conformidade com as notas explicativas do referido anexo."
+  },
+  "4ff8b18187b85bdb": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-membros podem adaptar o certificado de isenção referido no artigo 1.º, de modo a abranger outros domínios dos impostos indirectos e a fim de garantir a compatibilidade da isenção com as condições e limites previstos pela legislação nacional para a concessão de isenção."
+  },
+  "26eee62761010057": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-membros que pretendam adaptar o certificado de isenção informarão a Comissão e apresentar-lhe-ão todas as informações necessárias ou relevantes. A Comissão informará os restantes Estados-membros."
+  },
+  "504cfa5de8f202b5": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO certificado de isenção será emitido em duplicado:\n\n— um exemplar será conservado pelo expedidor,\n\n— o outro exemplar será junto ao documento administrativo de acompanhamento especificado no artigo 18.º da Directiva 92/12/CEE.\n\nOs Estados-membros podem solicitar um exemplar suplementar por motivos administrativos."
+  },
+  "75292f440d280585": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os depositários autorizados que procedam à entrega de produtos ao abrigo de regimes suspensivos dos impostos especiais de consumo às forças armadas e às instituições referidas no n.º 1 do artigo 23.º da Directiva 92/12/CEE devem conservar nos seus arquivos o certificado de isenção de imposto.\n\n2. O destinatário enviará ao depositário autorizado o certificado de isenção de imposto, devidamente carimbado pelas autoridades competentes do Estado-membro de acolhimento, para os efeitos do n.º 1.\n\nNo entanto, se os bens entregues se destinarem a utilização oficial, os Estados-membros podem dispensar o destinatário da obrigação de solicitar que o certificado seja carimbado nas condições por si estabelecidas."
+  },
+  "b96ed55ed8b633cc": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-membros informarão a Comissão sobre qual o serviço responsável por carimbar o certificado de isenção.\n\n2. Os Estados-membros que dispensarem o destinatário da obrigação de solicitar que o certificado seja carimbado, nos termos do n.º 2, segundo parágrafo, do artigo 5.º, informarão desse facto a Comissão.\n\n3. A Comissão informará os restantes Estados-membros, no prazo de um mês, relativamente às informações recebidas dos Estados-membros ao abrigo do disposto nos n.^os^ 1 e 2."
+  },
+  "bb7eb4512f0abee3": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros."
+  },
+  "d347576066fa1820": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n**Notas explicativas**\n\n1. Para o depositário autorizado, o presente certificado serve de documento comprovativo da isenção fiscal da expedição de bens destinados aos organismos/pessoas elegíveis referidos no ponto 12, n.º 1, da Diretiva 2008/118/CE. Por conseguinte, deve ser estabelecido um certificado para cada depositário. Além disso, o depositário deve conservar este certificado no seu arquivo, de acordo com as disposições legais aplicáveis no respetivo Estado-Membro.\n\na) O papel a utilizar deve respeitar as especificações gerais que figuram no *Jornal Oficial das Comunidades Europeias* n.º C 164 de 1 de julho de 1989.\n\ni) o primeiro exemplar deve ser conservado pelo expedidor,\n\nii) o segundo exemplar deve ser anexo ao documento administrativo de acompanhamento.\n\nb) O espaço não utilizado no campo 5.B deve ser inutilizado, a fim de impedir qualquer aditamento.\n\nc) O documento deve ser preenchido de forma legível e indelével. Não pode conter rasuras ou emendas. Deve ser preenchido numa língua reconhecida pelo Estado-Membro de acolhimento.\n\nd) Caso a descrição dos bens (campo 5.B do certificado) refira uma nota de encomenda redigida numa língua não reconhecida pelo Estado-Membro de acolhimento, o organismo/pessoa elegível deve juntar a respetiva tradução.\n\ne) Além disso, caso o certificado seja redigido numa língua não reconhecida pelo Estado-Membro do depositário, o organismo/pessoa elegível deve juntar a tradução das informações respeitantes aos bens descritos no campo 5.B.\n\nf) Por «língua reconhecida» entende-se uma das línguas oficialmente utilizadas no Estado-Membro ou qualquer outra língua da União que o Estado-Membro declare poder ser utilizada para esse efeito.\n\n3. Através da declaração feita no campo 3 do certificado, o organismo/pessoa elegível presta as informações necessárias para avaliar o pedido de isenção no Estado-Membro de acolhimento.\n\n4. Através da declaração feita no campo 4 do certificado, o organismo confirma as informações do campo 1 e da alínea a) do campo 3 do documento e certifica que a pessoas elegível é membro do pessoal da instituição.\n\na) A referência à nota de encomenda (campo 5.B do certificado) deve mencionar, pelo menos, a data e o número da nota. A nota de encomenda deve incluir todos os elementos constantes do campo 5 do certificado. Se o certificado tiver de ser carimbado pela autoridade competente do Estado-Membro de acolhimento, a nota de encomenda é igualmente carimbada.\n\nb) A indicação do número de registo para efeitos de impostos especiais de consumo (IEC) do depositário autorizado, como definido no n.º 2, alínea a), do artigo 19.º do Regulamento (UE) n.º 389/2012 do Conselho ([^1^](http://publications.europa.eu/resource/cellar/d005e5d5-fcaa-11ec-b94a-01aa75ed71a1.0019.02/DOC_1#E0001)), é facultativa.\n\nc) As divisas devem ser indicadas utilizando o código de três letras em conformidade com a norma ISO 4217 da Organização Internacional de Normalização.\n\n6. A declaração acima referida do organismo/pessoa elegível deve ser autenticada no campo 6, por meio de carimbo da autoridade competente do Estado-Membro de acolhimento. Essa autoridade pode sujeitar a sua aprovação ao acordo de outra autoridade do mesmo Estado-Membro. Incumbe à autoridade fiscal competente obter esse acordo.\n\n7. Para fins de simplificação processual, a autoridade competente pode dispensar o organismo elegível da obrigação de solicitar o carimbo, no caso de isenção para utilização oficial. O organismo elegível deve mencionar essa dispensa no campo 7 do certificado.\n\n---"
+  },
+  "054e825acf115951": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/d005e5d5-fcaa-11ec-b94a-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (UE) n.º 389/2012 do Conselho, de 2 de maio de 2012, relativo à cooperação administrativa no domínio dos impostos especiais de consumo e que revoga o Regulamento (CE) n.º 2073/2004 (JO L 121 de 8.5.2012, p. 1)."
+  },
+  "0dd1e44cd9a05e85": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01996R0031 — PT — 13.02.2023 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31996R0031) [REGULAMENTO (CE) N.º 31/96 DA COMISSÃO](http://publications.europa.eu/resource/celex/31996R0031) [de 10 de Janeiro de 1996](http://publications.europa.eu/resource/celex/31996R0031) [relativo ao certificado de isenção de impostos especiais de consumo](http://publications.europa.eu/resource/celex/31996R0031) (JO L 008, 11.1.1996, p.11)\n\n**Revogado por:**\n\n- [Regulamento de Execução (UE) 2022/1637 da Comissão de 5 de julho de 2022](http://publications.europa.eu/resource/celex/32022R1637) — L 247 — 57 — 23.9.2022"
+  }
+ }
+}

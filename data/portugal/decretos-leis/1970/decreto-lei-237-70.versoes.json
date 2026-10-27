@@ -1,0 +1,394 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:142369:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1970-899719960",
+ "dre_path": "/dr/detalhe/decreto-lei/237-1970-142369",
+ "source_lastmod": "2024-12-10",
+ "versions": [
+  {
+   "date": "1970-05-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "899755694",
+    "899755695",
+    "899755696",
+    "899755697",
+    "899755698",
+    "899755699",
+    "899755700",
+    "899755701",
+    "899755702",
+    "899755703",
+    "899755704",
+    "899755705",
+    "899755706",
+    "899755707",
+    "899755708",
+    "899755709",
+    "899755710",
+    "899755711",
+    "899755712",
+    "899755713",
+    "899755714"
+   ]
+  },
+  {
+   "date": "1979-09-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:256638:por",
+     "title": "Decreto-Lei n.º 374-B/79",
+     "published": "1979-09-10",
+     "dre_path": "/dr/detalhe/decreto-lei/374-b-1979-256638"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º"
+   ],
+   "fragments": [
+    "899755694",
+    "899755716",
+    "899755695",
+    "899755717",
+    "899755696",
+    "899755697",
+    "899755718",
+    "899755698",
+    "899755719",
+    "899755699",
+    "899755720",
+    "899755700",
+    "899755701",
+    "899755702",
+    "899755723",
+    "899755724",
+    "899755725",
+    "899755726",
+    "899755727",
+    "899755728",
+    "899755729",
+    "899755710",
+    "899755711",
+    "899755721",
+    "899755712",
+    "899755722",
+    "899755713",
+    "899755714",
+    "899755715"
+   ]
+  }
+ ],
+ "fragments": {
+  "899755694": {
+   "fragment_id": "899719961",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 237/70\n\nA actualização do sistema de impostos indirectos implica, naturalmente, em relação a alguns, uma verdadeira revisão de estruturas, se não até a equação da sua razão de ser entre a relatividade de fundamentação das fontes tributárias.\n\nO imposto de pescado, tal como se tem mantido até agora, sofre precisamente de uma verdadeira inadequação perante a generalidade dos princípios em que se baseia, actualmente, a tributação da despesa. Se, no regime do imposto de transacções, se procurou preservar o sector da alimentação contra os efeitos que, pela própria natureza desta forma tributária, acabam por incidir sobre o consumidor, não se poderá manter um imposto como este - que se sabe ser repercutível - precisamente sobre um dos produtos que tem lugar de maior relevo nos hábitos alimentares da gente portuguesa, e pesa fortemente, ainda, na economia das fontes de nutrição das classes menos favorecidas.\n\nA experiência que se levou a efeito através da suspensão temporária deste imposto acabou por confirmar que a solução seguramente mais lógica é a da sua extinção total pura e simples e da sujeição da actividade das pescas ao regime geral de tributação directa a que estão sujeitos os rendimentos de quaisquer outras actividades. E nem sequer pode pesar a circunstância de o regime da exploração piscatória compreender, por vezes, formas pouco significativas ou reconhecidamente débeis do ponto de vista da estrutura económica, uma vez que o sistema da tributação de lucros e a utilização, neste caso, dos critérios adoptados para o imposto profissional afasta da sujeição tributária não só as situações de ausência efectiva de rendimentos das explorações em regime empresarial, mas permite também a exclusão dos rendimentos mínimos que tenham o trabalho como fonte essencial ou mais predominante.\n\nOs efeitos financeiros que resultam desta medida ultrapassam em muito a ordem da centena de milhares de contos da perda da receita; e importa, por isso, não perder de vista esta realidade quando seja posta em causa a necessidade de recorrer aos métodos ou às fontes normais de reforço ou, pelo menos, de não redução dos meios financeiros.\n\nMedida que também se adopta com objectivo de supressão radical de inconvenientes assinalados no campo dos condicionalismos legais da vida corrente é a eliminação pura e simples da licença para o uso de isqueiros. A inclusão destes instrumentos na lista agravada do imposto de transacções não compensa em nada - pode bem dizer-se - aquilo que se perde; mas não hesita o Governo, mesmo assim, em pôr termo, de vez, a uma situação que tem sido fonte de incómodos de tal modo gravosos que o respectivo rigor se não harmoniza, pelo menos na actualidade, com a natureza e razão de ser do imposto em causa.\n\nÉ ainda no campo do imposto de transacções que se introduz, por este diploma, grande número de medidas, baseadas fundamentalmente em objectivos de simplificação e no propósito de dar satisfação, tanto quanto possível, a sugestões que traduzem, por uma forma que se afigura inequívoca, o pensamento da generalidade dos responsáveis pela sua cobrança. Uma ou outra alteração que vai além deste objectivo assenta na necessidade de rectificar ou esclarecer casos que se apresentam, na prática, como fontes de dúvidas.\n\nAvulta entre as simplificações a alteração que se introduz no sistema formal de isenções das transacções de bens de equipamento, cuja declaração deixa de se processar anteriormente à transacção e com intervenção activa e condicionante dos serviços tributários, para passar a reportar-se, mais predominantemente, ao domínio normal das relações comerciais, com reduzida participação de administração fiscal, que, nos casos em que é necessária, passa a intervir apenas em momento posterior sem efeito constitutivo ou condicionante, e em prazo tão amplo que em nada poderá perturbar a vida económica.\n\nAmplia-se também a faculdade de substituição por meios mais simples da documentação normal que a lei estabelece para a prova da regularidade do cumprimento das obrigações respeitantes a este imposto. E é ainda no domínio da supressão de complexidades que ainda subsistem - e correspondendo a solicitações frequentes de muitos dos responsáveis por este imposto - que se estabelece como base do valor das transacções o preço ilíquido, dada a variabilidade dos sistemas de descontos, nem sempre consentânea com os próprios interesses da regularidade da vida comercial; e que se estabelece um mínimo de valor para as transacções de bens de equipamento susceptíveis de isenção.\n\nEstabelece-se ampla isenção para as máquinas agrícolas, compreendendo expressamente os tractores, os motocultivadores, e substitui-se a condição de exclusividade do destino a fins agrícolas pela regra do predomínio, deixando também de se exigir a aplicação às actividades agrícolas do próprio adquirente. Retiram-se da taxa correspondente às transacções de objectos de luxo ou equiparados fiscalmente as bebidas alcoólicas, com exclusão apenas daquelas cujo preço constitua seguro índice de uma qualidade manifestamente sumptuária.\n\nVerifica-se também uma necessidade premente de habilitar o Fundo de Desemprego com os meios financeiros indispensáveis à sua efectiva comparticipação na cobertura dos deficits que ocorrerem em cada gerência respeitante ao regime especial do abono de família dos trabalhadores agrícolas, regulamentado pelo Decreto n.º 49216, de 30 de Agosto de 1969. Por isso se altera a taxa do artigo 1.º do Decreto-Lei n.º 45080, de 20 de Junho de 1963.\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "899755695": {
+   "fragment_id": "899719962",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ abolido o imposto de pescado."
+  },
+  "899755696": {
+   "fragment_id": "899719963",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nÉ aditado ao Código da Contribuição Industrial o artigo 120.º-A, com a seguinte redacção:\n\nArt. 120.º-A. Os serviços encarregados da venda do pescado ou que nela intervenham, nos termos do Decreto n.º 29755, de 17 de Julho de 1939, Decreto n.º 31848, de 14 de Janeiro de 1942, Decreto-Lei n.º 40764, de 7 de Setembro de 1956, e Decreto-Lei n.º 48507, de 30 de Julho de 1968, remeterão mensalmente à Direcção-Geral das Contribuições e Impostos notas, em relação a cada empresa de pesca, do valor do pescado vendido no mês anterior."
+  },
+  "899755697": {
+   "fragment_id": "899719964",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nÉ eliminado o n.º 23 do artigo 14.º do Código da Contribuição Industrial e passam a ter a seguinte redacção os seus artigos 120.º e 143.º:\n\nArt. 120.º Os directores das alfândegas do continente e ilhas adjacentes remeterão mensalmente à Direcção-Geral das Contribuições e Impostos notas das mercadorias importadas ou exportadas por comerciantes ou industriais, no mês anterior, com indicação das espécies, quantidades e valores e dos nomes dos importadores ou exportadores.\n\nArt. 143.º As infracções dos artigos 116.º a 118.º e a falta das comunicações ou notas a que aludem os artigos 119.º, 120.º-A, 125.º e 126.º, bem como as omissões ou inexactidões nelas praticadas, serão punidas com multa de 100$00 a 10000$00, salvo sendo cometidas por funcionários públicos, aos quais será aplicável o disposto no artigo 148.º\n\nc) Imposto profissional"
+  },
+  "899755698": {
+   "fragment_id": "899719965",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO § 2.º do artigo 1.º, o § 1.º do artigo 2.º e o artigo 26.º do Código do Imposto Profissional passam a ter a seguinte redacção:\n\nArt. 1.º ...\n\n...\n\n§ 2.º ...\n\n...\n\nd) A quota-parte, acrescida dos descontos para a Previdência que constituam encargo do beneficiário, atribuída a título de participação nas campanhas de pesca aos pescadores que limitam a sua actuação à prestação de trabalho.\n\nArt. 2.º ...\n\n§ 1.º Consideram-se incluídos na alínea a) os membros dos corpos gerentes, conselhos fiscais, mesas das assembleias gerais ou de outros órgãos das sociedades, ainda que nomeados pelo Governo ou designados por lei, assim como os que, embora trabalhando de sua conta, recebam comissões por angariação de seguros, e ainda os donos de firmas em nome individual e os pescadores referidos, respectivamente, nas alíneas c) e d) do § 2.º do artigo anterior.\n\nArt. 26.º ...\n\n...\n\n§ 3.º Na actividade de pesca em regime de companha compete ao dono da embarcação o cumprimento do disposto no presente artigo relativamente à quota-parte do produto do pescado atribuída aos pescadores sujeitos a imposto."
+  },
+  "899755699": {
+   "fragment_id": "899719966",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nÉ abolida a taxa de licença de uso ou detenção de acendedores e isqueiros estabelecida no artigo 41.º, § 1.º, do Regulamento do Imposto do Selo, e artigo 105.º, verba XII, da respectiva tabela e Decreto-Lei n.º 28219, de 24 de Novembro de 1937."
+  },
+  "899755700": {
+   "fragment_id": "899719967",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs artigos 3.º, 8.º e 49.º do Código do Imposto de Transacções, neste diploma designado por Código, passam a ter a seguinte redacção:\n\nArt. 3.º ...\n\n§ 1.º ...\n\n§ 2.º ...\n\n§ 3.º São equiparados a grossistas os leiloeiros e, bem assim, as pessoas que habitualmente exerçam a actividade de venda ao consumidor, de antiguidades, raridades e objectos de colecção, ou de quaisquer mercadorias transaccionadas como tais.\n\n...\n\nArt. 8.º O valor das transacções sujeitas a imposto será o preço ilíquido praticado à saída do armazém, local de produção ou outros locais de venda, sem consideração das deduções que tiverem sido efectuadas por qualquer meio ou processo, designadamente a título de desconto, abatimento ou bónus.\n\n§ 1.º ...\n\n§ 2.º ...\n\n...\n\nArt. 49.º ...\n\n§ 1.º ...\n\n§ 2.º ...\n\n§ 3.º O disposto no § 2.º não é aplicável aos produtores ou grossistas que beneficiem de qualquer das isenções referidas nos n.os 1.º a 5.º do artigo 14.º do Código da Contribuição Industrial."
+  },
+  "899755701": {
+   "fragment_id": "899719968",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs verbas n.os 30 e 36 da lista A anexa ao Código passam a ter a seguinte redacção:\n\n30. Produtos alimentícios, com excepção dos de confeitaria, doçaria e pastelaria, de chocolates e seus compostos e de bebidas de qualquer natureza, contidas em garrafas, garrafões, botijas, frascos ou outros recipientes análogos.\n\nCompreende-se nesta isenção o leite engarrafado.\n\n...\n\n36. Utensílios e alfaias agrícolas, motocultivadores, tractores e outras máquinas e aparelhos, exclusiva ou principalmente destinados à agricultura, pecuária e silvicultura.\n\nCompreendem-se nesta verba as partes peças e acessórios, desde que sejam reconhecíveis como exclusiva ou principalmente destinados aos bens nela referidos, com exclusão, porém, dos protectores, pneumáticos e câmaras-de-ar."
+  },
+  "899755702": {
+   "fragment_id": "899719969",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nÉ aditada à lista B anexa ao Código a verba n.º 6-A e dada nova redacção à verba n.º 4 da mesma lista, nos seguintes termos:\n\n...\n\n4. Bebidas alcoólicas e extractos concentrados e compostos para a sua preparação ou fabrico, de preço superior a 50$00 por unidade até 1 l.\n\n...\n\n6-A. Isqueiros e acendedores, domésticos ou portáteis."
+  },
+  "899755703": {
+   "fragment_id": "899719970",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n- 1. A declaração modelo n.º 13, a que se refere o § 2.º do artigo 5.º do Código, relativa à aquisição de mercadorias que se não faça por importação directa, será apresentada, em duplicado, ao produto ou grossista que efectuar a transacção.\n\n2. O produtor ou grossista alienante, depois de preenchidos os dois exemplares da declaração na parte que lhe respeita, deverá apresentá-los, té ao fim do mês seguinte ao da realização da transacção, na repartição de finanças do concelho ou bairro da situação do estabelecimento onde foi efectuada.\n\n3. A repartição de finanças devolverá ao representante o duplicado, com recibo autenticado com o selo branco, promovendo seguidamente, quando for caso disso, a remessa do original à repartição de finanças do concelho ou bairro onde os bens devam ser utilizados.\n\n4. A falta de entrega da declaração ou a sua entrega fora do prazo estabelecido no n.º 2 será punida nos termos do artigo 107.º do Código.\n\n5. As declarações de que trata este artigo não terão valor jurídico para efeitos do imposto desde que não se encontrem devidamente preenchidas."
+  },
+  "899755704": {
+   "fragment_id": "899719971",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n- 1. A utilização da declaração modelo n.º 13 na aquisição de bens não compreendidos nas verbas n.os 2, 23 e 24 da lista A sujeita o adquirente às penalidades previstas no artigo 116.º do Código do Imposto de Transacções, pelas quais responde solidàriamente o alienante quando, razoàvelmente, não deva desconhecer o facto.\n\n2. O imposto será liquidado pela repartição de finanças do concelho ou bairro da situação do estabelecimento onde se efectuou a transacção."
+  },
+  "899755705": {
+   "fragment_id": "899719972",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n- 1. Sempre que às mercadorias seja dado destino diferente daquele em que se baseou o benefício da isenção proceder-se-á de harmonia com as seguintes regras:\n\n1.ª Se a alteração do destino das mercadorias se operar antes de serem utilizadas no fim constante da declaração, o adquirente deverá participar o facto à repartição de finanças competente, no prazo de quinze dias, para que lhe seja liquidado o imposto correspondente;\n\n2.ª Se a alteração tiver lugar depois da utilização, o adquirente fica obrigado a participar o facto, no mesmo prazo, à repartição de finanças, a fim de lhe ser liquidado o imposto que ainda se mostre devido;\n\n3.ª Se a alteração resultar de transmissão da mercadoria a produtor que a destine aos fins previstos nas verbas n.os 2, 23 e 24 da lista A, não é devido imposto desde que o adquirente apresente a competente declaração modelo n.º 3 ao alienante.\n\n2. No caso previsto na regra 2.ª do número anterior, o imposto incidirá sobre o valor determinado nos termos do artigo 8.º do Código, com dedução do montante das reintegrações calculadas segundo as taxas máximas aplicáveis aos respectivos bens para efeitos de contribuição industrial e reportadas ao dia 31 de Dezembro anterior ao da participação ou, na falta desta, a igual dia do ano anterior àquele em que tiver ocorrido o desvio."
+  },
+  "899755706": {
+   "fragment_id": "899719973",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nAs isenções previstas nas verbas n.os 2, 23 e 24 da lista A anexa ao Código apenas aproveitam às transacções cujo valor global, por cada declaração modelo n.º 13, seja superior a 10000$00."
+  },
+  "899755707": {
+   "fragment_id": "899719974",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nOs produtores que disponham de mapas ou folhas de produção, donde conste o consumo de matérias-primas e as correspondentes quantidades de produtos fabricados, poderão utilizar apenas um grupo de livros modelo n.os 7 a 9 anexos ao Código."
+  },
+  "899755708": {
+   "fragment_id": "899756275",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nA escrituração de verbetes ou fichas das existências a que se refere o n.º 4.º do artigo 75.º do Código do Imposto de Transacções poderá, por despacho da Direcção-Geral das Contribuições e Impostos, ser dispensada ou substituída por outra, quando se verifique:\n\na) Ser manifestamente difícil a organização e manutenção em dia dos referidos verbetes ou fichas, dada a natureza da actividade exercida, a grande variedade de mercadorias ou outra razão ponderosa;\n\nb) Dispor o produtor ou grossista de outro sistema de fiscalização permanente das existências que substitua satisfatòriamente os verbetes ou fichas."
+  },
+  "899755709": {
+   "fragment_id": "899756276",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n- 1. Quando no mesmo estabelecimento seja exercida actividade de retalhista cumulativamente com a de produtor ou grossista será obrigatória a separação física das respectivas existências, a qual, no entanto, poderá ser dispensada pela Direcção-Geral das Contribuições e Impostos, desde que se mostre manifestamente difícil efectuar essa separação, tendo em conta o volume das operações e a diversidade das mercadorias.\n\n2. O imposto correspondente às mercadorias transaccionadas a retalho incidirá, nos termos do artigo 8.º do Código, sobre o valor total diário das respectivas transacções e será liquidado em factura interna processada diàriamente para o efeito."
+  },
+  "899755710": {
+   "fragment_id": "899756277",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nO modelo da declaração a que se refere o § 2.º do artigo 5.º do Código do Imposto de Transacções é substituído pelo que vai anexo ao presente diploma."
+  },
+  "899755711": {
+   "fragment_id": "899756278",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n- 1. É admitida, por via judicial, a suspensão condicional das penas respeitantes a infracções ao Código do Imposto de Transacções, excepto se o infractor, nos últimos cinco anos, tiver cometido infracção dolosa a preceitos contidos no mesmo diploma.\n\n2. As condições de suspensão dependem de proposta do Ministério Público, devendo incidir, fundamentalmente, sobre a adopção, por parte do infractor, das técnicas estabelecidas na lei sobre documentação e normas contabilísticas genèricamente aprovadas ou recomendadas.\n\n3. É permitida a relevação, por despacho do Ministro das Finanças, de faltas cometidas até à publicação do presente decreto-lei, nos casos em que não tenha havido dolo, e mediante o estabelecimento prévio de condicionalismo igual ao referido no número anterior."
+  },
+  "899755712": {
+   "fragment_id": "899756279",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nÉ fixada em 1,5 por cento a taxa a que se refere o artigo 1.º do Decreto-Lei n.º 45080, de 20 de Junho de 1963.\n\ng) Disposições gerais"
+  },
+  "899755713": {
+   "fragment_id": "899756280",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n- 1. Os contribuintes que à data da entrada em vigor deste diploma exerçam a actividade de pesca e que deixam de beneficiar da isenção de contribuição industrial devem apresentar a declaração exigida pelo artigo 111.º do Código da Contribuição Industrial até ao fim do mês de Junho de 1970.\n\n2. A infracção ao disposto neste artigo será punida com as multas estabelecidas no artigo 142.º do referido Código."
+  },
+  "899755714": {
+   "fragment_id": "899756281",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nO presente diploma entra em vigor em 1 de Junho de 1970."
+  },
+  "899755716": {
+   "fragment_id": "899756283",
+   "type": 4,
+   "heading": "a) Imposto de pescado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## a) Imposto de pescado"
+  },
+  "899755717": {
+   "fragment_id": "899756284",
+   "type": 4,
+   "heading": "b) Contribuição industrial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## b) Contribuição industrial"
+  },
+  "899755718": {
+   "fragment_id": "899756285",
+   "type": 4,
+   "heading": "c) Imposto profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## c) Imposto profissional"
+  },
+  "899755719": {
+   "fragment_id": "899756286",
+   "type": 4,
+   "heading": "d) Imposto do selo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## d) Imposto do selo"
+  },
+  "899755720": {
+   "fragment_id": "899756287",
+   "type": 4,
+   "heading": "e) Imposto de transacções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## e) Imposto de transacções"
+  },
+  "899755723": {
+   "fragment_id": "899719970",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1979-09-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 374-B/79 - Diário da República n.º 209/1979, 1º Suplemento, Série I de 1979-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-b-1979-256638), em vigor a partir de 1979-09-15"
+   ],
+   "markdown": "###### Artigo 9.º\n\n- 1. A declaração modelo n.º 13, a que se refere o § 2.º do artigo 5.º do Código, relativa à aquisição de mercadorias que se não faça por importação directa, será apresentada, em duplicado, ao produto ou grossista que efectuar a transacção.\n\n2. O produtor ou grossista alienante, depois de preenchidos os dois exemplares da declaração na parte que lhe respeita, deverá apresentá-los, té ao fim do mês seguinte ao da realização da transacção, na repartição de finanças do concelho ou bairro da situação do estabelecimento onde foi efectuada.\n\n3. A repartição de finanças devolverá ao representante o duplicado, com recibo autenticado com o selo branco, promovendo seguidamente, quando for caso disso, a remessa do original à repartição de finanças do concelho ou bairro onde os bens devam ser utilizados.\n\n4. A falta de entrega da declaração ou a sua entrega fora do prazo estabelecido no n.º 2 será punida nos termos do artigo 107.º do Código.\n\n5. As declarações de que trata este artigo não terão valor jurídico para efeitos do imposto desde que não se encontrem devidamente preenchidas.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 374-B/79 - Diário da República n.º 209/1979, 1º Suplemento, Série I de 1979-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-b-1979-256638), em vigor a partir de 1979-09-15"
+  },
+  "899755724": {
+   "fragment_id": "899719971",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1979-09-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 374-B/79 - Diário da República n.º 209/1979, 1º Suplemento, Série I de 1979-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-b-1979-256638), em vigor a partir de 1979-09-15"
+   ],
+   "markdown": "###### Artigo 10.º\n\n- 1. A utilização da declaração modelo n.º 13 na aquisição de bens não compreendidos nas verbas n.os 2, 23 e 24 da lista A sujeita o adquirente às penalidades previstas no artigo 116.º do Código do Imposto de Transacções, pelas quais responde solidàriamente o alienante quando, razoàvelmente, não deva desconhecer o facto.\n\n2. O imposto será liquidado pela repartição de finanças do concelho ou bairro da situação do estabelecimento onde se efectuou a transacção.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 374-B/79 - Diário da República n.º 209/1979, 1º Suplemento, Série I de 1979-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-b-1979-256638), em vigor a partir de 1979-09-15"
+  },
+  "899755725": {
+   "fragment_id": "899719972",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": "1979-09-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 374-B/79 - Diário da República n.º 209/1979, 1º Suplemento, Série I de 1979-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-b-1979-256638), em vigor a partir de 1979-09-15"
+   ],
+   "markdown": "###### Artigo 11.º\n\n- 1. Sempre que às mercadorias seja dado destino diferente daquele em que se baseou o benefício da isenção proceder-se-á de harmonia com as seguintes regras:\n\n1.ª Se a alteração do destino das mercadorias se operar antes de serem utilizadas no fim constante da declaração, o adquirente deverá participar o facto à repartição de finanças competente, no prazo de quinze dias, para que lhe seja liquidado o imposto correspondente;\n\n2.ª Se a alteração tiver lugar depois da utilização, o adquirente fica obrigado a participar o facto, no mesmo prazo, à repartição de finanças, a fim de lhe ser liquidado o imposto que ainda se mostre devido;\n\n3.ª Se a alteração resultar de transmissão da mercadoria a produtor que a destine aos fins previstos nas verbas n.os 2, 23 e 24 da lista A, não é devido imposto desde que o adquirente apresente a competente declaração modelo n.º 3 ao alienante.\n\n2. No caso previsto na regra 2.ª do número anterior, o imposto incidirá sobre o valor determinado nos termos do artigo 8.º do Código, com dedução do montante das reintegrações calculadas segundo as taxas máximas aplicáveis aos respectivos bens para efeitos de contribuição industrial e reportadas ao dia 31 de Dezembro anterior ao da participação ou, na falta desta, a igual dia do ano anterior àquele em que tiver ocorrido o desvio.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 374-B/79 - Diário da República n.º 209/1979, 1º Suplemento, Série I de 1979-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-b-1979-256638), em vigor a partir de 1979-09-15"
+  },
+  "899755726": {
+   "fragment_id": "899719973",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1979-09-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 374-B/79 - Diário da República n.º 209/1979, 1º Suplemento, Série I de 1979-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-b-1979-256638), em vigor a partir de 1979-09-15"
+   ],
+   "markdown": "###### Artigo 12.º\n\nAs isenções previstas nas verbas n.os 2, 23 e 24 da lista A anexa ao Código apenas aproveitam às transacções cujo valor global, por cada declaração modelo n.º 13, seja superior a 10000$00.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 374-B/79 - Diário da República n.º 209/1979, 1º Suplemento, Série I de 1979-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-b-1979-256638), em vigor a partir de 1979-09-15"
+  },
+  "899755727": {
+   "fragment_id": "899719974",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": "1979-09-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 374-B/79 - Diário da República n.º 209/1979, 1º Suplemento, Série I de 1979-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-b-1979-256638), em vigor a partir de 1979-09-15"
+   ],
+   "markdown": "###### Artigo 13.º\n\nOs produtores que disponham de mapas ou folhas de produção, donde conste o consumo de matérias-primas e as correspondentes quantidades de produtos fabricados, poderão utilizar apenas um grupo de livros modelo n.os 7 a 9 anexos ao Código.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 374-B/79 - Diário da República n.º 209/1979, 1º Suplemento, Série I de 1979-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-b-1979-256638), em vigor a partir de 1979-09-15"
+  },
+  "899755728": {
+   "fragment_id": "899756275",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": "1979-09-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 374-B/79 - Diário da República n.º 209/1979, 1º Suplemento, Série I de 1979-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-b-1979-256638), em vigor a partir de 1979-09-15"
+   ],
+   "markdown": "###### Artigo 14.º\n\nA escrituração de verbetes ou fichas das existências a que se refere o n.º 4.º do artigo 75.º do Código do Imposto de Transacções poderá, por despacho da Direcção-Geral das Contribuições e Impostos, ser dispensada ou substituída por outra, quando se verifique:\n\na) Ser manifestamente difícil a organização e manutenção em dia dos referidos verbetes ou fichas, dada a natureza da actividade exercida, a grande variedade de mercadorias ou outra razão ponderosa;\n\nb) Dispor o produtor ou grossista de outro sistema de fiscalização permanente das existências que substitua satisfatòriamente os verbetes ou fichas.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 374-B/79 - Diário da República n.º 209/1979, 1º Suplemento, Série I de 1979-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-b-1979-256638), em vigor a partir de 1979-09-15"
+  },
+  "899755729": {
+   "fragment_id": "899756276",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "1979-09-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 374-B/79 - Diário da República n.º 209/1979, 1º Suplemento, Série I de 1979-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-b-1979-256638), em vigor a partir de 1979-09-15"
+   ],
+   "markdown": "###### Artigo 15.º\n\n- 1. Quando no mesmo estabelecimento seja exercida actividade de retalhista cumulativamente com a de produtor ou grossista será obrigatória a separação física das respectivas existências, a qual, no entanto, poderá ser dispensada pela Direcção-Geral das Contribuições e Impostos, desde que se mostre manifestamente difícil efectuar essa separação, tendo em conta o volume das operações e a diversidade das mercadorias.\n\n2. O imposto correspondente às mercadorias transaccionadas a retalho incidirá, nos termos do artigo 8.º do Código, sobre o valor total diário das respectivas transacções e será liquidado em factura interna processada diàriamente para o efeito.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 374-B/79 - Diário da República n.º 209/1979, 1º Suplemento, Série I de 1979-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-b-1979-256638), em vigor a partir de 1979-09-15"
+  },
+  "899755721": {
+   "fragment_id": "899756288",
+   "type": 4,
+   "heading": "f) Fundo de Desemprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## f) Fundo de Desemprego"
+  },
+  "899755722": {
+   "fragment_id": "899756289",
+   "type": 4,
+   "heading": "g) Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## g) Disposições gerais"
+  },
+  "899755715": {
+   "fragment_id": "899756282",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.\n\nPromulgado em 8 de Maio de 1970.\n\nPublique-se.\n\nPresidência da República, 25 de Maio de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.\n\n(ver documento original)\n\nMinistério das Finanças, 8 de Maio de 1970. - O Ministro das Finanças, João Augusto Dias Rosas."
+  }
+ }
+}

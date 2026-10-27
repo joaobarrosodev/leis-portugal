@@ -1,0 +1,235 @@
+---
+schema_version: '1.0'
+id: pt:dre:515849:por
+title: Portaria n.º 171/79
+short_title: null
+summary: Define as regras a seguir na actividade de transformação e comercialização do pescado congelado
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Agricultura e Pescas e do Comércio e Turismo - Secretarias de Estado das Pescas e do Comércio Interno
+proposing_entity: null
+official_number: 171/79
+official_date: null
+publication_date: '1979-04-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 85/1979, 1º Suplemento, Série I de 1979-04-11
+  number: '85'
+  series: I
+  supplement: null
+  pages: 594-(14) a 594-(15)
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/04/08501/00140015.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '515849'
+  dre_path: /dr/detalhe/portaria/171-1979-515849
+  internal: pt:dre:515849:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/171-1979-515849
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/171-1979-515849
+  consolidated_url: null
+  retrieved_at: '2026-10-23T05:52:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 716e7b310bbb21fb44592405f17549344e5c433e84277ce3277326fbac5b4a77
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:52:07Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comércio
+- Comissão Reguladora do Comércio do Bacalhau
+- Direcção Geral do Comércio Alimentar
+- Peixe Congelado
+relationships:
+- type: amended_by
+  target: pt:dre:575711:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:678654:por
+  label: "Alterados alguns números pela PORT.87/80.04.03.1980.MAP, DR.IS [53] de 04.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/87-1980-678654
+  date: '1980-03-04'
+- type: amended_by
+  target: pt:dre:382246:por
+  label: "Alterados os n.ºs 3 e 4 do n.º 6.º do presente diploma, com a redacção dada pela Port 87/80, de 04-Mar, pela PORT.580/84.08.08.1984.MCT,\
+    \ DR.IS [183] de 08.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/580-1984-382246
+  date: '1984-08-08'
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:325675:por
+  label: "Revogado o n.º 2 do n.º 1.º pela PORT.215/85.17.04.1985.MCT, DR.IS [89] de 17.04.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/215-1985-325675
+  date: '1985-04-17'
+- type: repealed_by
+  target: pt:dre:575711:por
+  label: "Revogada, com as alterações introduzidas pelas Portarias nºs 87/80, de 4 de Março, e 580/84, de 8 de Agosto, pelo\
+    \ DEC LEI.230/90.11.07.1990.MAPA, DR.IS [158] de 11.07.1990\090\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/230-1990-575711
+  date: '1990-07-11'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T05:52:07Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 171/79
+
+de 11 de Abril
+
+A experiência obtida na aplicação de sucessivas disposições legais referentes ao pescado congelado, num País com as características e condicionalismos do nosso, aponta para uma maior liberdade de actuação dos agentes económicos intervenientes, bem como para uma reformulação na acção correctora dos agentes públicos.
+
+A expansão disciplinada do consumo de pescado congelado, que é imperiosa necessidade para a produção nacional, só pode processar-se com o apoio das estruturas e circuitos de transformação e comercialização, tendo em vista os interesses e a defesa do consumidor.
+
+Assim:
+
+Manda o Governo da República Portuguesa, pelos Secretários de Estado das Pescas e do Comércio Interno, ao abrigo do n.º 1 do artigo 2.º do [Decreto-Lei n.º 45835](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45835-1964-579491), de 27 de Julho de 1964, o seguinte:
+
+1.º - 1 - Na comercialização do pescado congelado, qualquer que seja a sua origem e proveniência, só podem intervir:
+
+a) Produtor ou importador:
+
+b) Industrial de congelação e de transformação;
+
+c) Armazenista;
+
+d) Retalhista.
+
+2 - O industrial de congelação e de transformação de pescado congelado é equiparado, para efeitos de margem de comercialização, ao armazenista quando exerça as funções deste.
+
+2.º O Governo, através dos Secretários de Estado do Comércio Interno e das Pescas, pode determinar a intervenção, nos circuitos de comercialização, de organismos públicos ou empresas públicas ou nacionalizadas, que ficam autorizados a adquirir, por protocolo de acordo, todo o pescado congelado oferecido pela produção nacional, a preços de garantia e nas condições e termos a fixar entre as partes.
+
+§ único. A Comissão Reguladora do Comércio de Bacalhau está desde já autorizada a intervir nos termos do corpo deste número, ficando, para efeitos do disposto na presente portaria e, bem assim, da legislação que vier a ser publicada sobre comercialização e preços de pescado congelado, equiparada ao produtor ou importador.
+
+3.º Entende-se por:
+
+1 - Pescado congelado - animais subaquáticos (crustáceos, moluscos, equinodermes, ciclóstomos, peixes, batráquios, répteis e mamíferos), suas partes ou produtos, destinados a fins alimentares que, encontrando-se em perfeito estado de frescura e de salubridade, sofrem um arrefecimento de forma tal que a sua água de constituição esteja congelada, atingindo uma temperatura igual ou inferior a -18ºC no seu centro térmico, e sejam em seguida mantidos a esta temperatura até à entrega ao consumidor.
+
+2 - Produtor - a entidade que captura e congela o pescado e abastece o armazenista e a indústria transformadora de pescado congelado ou directamente o retalhista e os consumidores colectivos.
+
+3 - Importador - a entidade que adquire o pescado congelado no estrangeiro e abastece o armazenista e a indústria transformadora de pescado congelado ou directamente o retalhista e os consumidores colectivos.
+
+4 - Industrial de congelação e de transformação - a entidade que fracciona, transforma e embala o pescado congelado adquirido ao produtor ou ao importador e o distribui ao armazenista ou directamente ao retalhista ou consumidores colectivos.
+
+5 - Armazenista - a entidade que adquire o pescado congelado ao produtor ou ao importador e ao industrial de congelação e de transformação e o distribui ao comércio retalhista ou aos consumidores colectivos.
+
+6 - Retalhista - a entidade que adquire o pescado congelado ao armazenista, ao industrial de congelação e de transformação ou directamente ao produtor ou ao importador e o vende aos consumidores.
+
+4.º O pescado congelado só pode apresentar-se, na comercialização, sob as seguintes formas:
+
+1 - Inteiro - aquele que se apresenta com cabeça e com vísceras ou com cabeça e sem vísceras, mas não fraccionado.
+
+2 - Semitransformado - aquele que se apresenta sem cabeça e sem vísceras, mas não fraccionado.
+
+3 - Fraccionado - aquele que, com cabeça e sem vísceras, ou sem cabeça e sem vísceras, se apresenta cortado em postas, troços, pedaços, bocados ou porções.
+
+4 - Transformado - aquele que, beneficiando de diversas operações tecnológicas, se apresenta em filetes, fatias, tranchas ou tiras, com ou sem pele, sem escamas e sem espinhas ou esqueleto, devidamente embalado para venda ao público.
+
+§ único. As formas de apresentação indicadas nos pontos 1, 2 e 3 devem fazer-se por tipo comercial do pescado congelado, ou seja, por escalão de pesos ou medidas da espécie considerada, referidos nas tabelas de preços ou nos documentos de venda.
+
+5.º Na comercialização do pescado congelado apenas são permitidos os seguintes tipos de embalagem:
+
+1 - Embalagem de origem - aquela que é incorporada pelo produtor ou pelo exportador.
+
+2 - Embalagem comercial - aquela que, não sendo de origem, contém o pescado congelado individualizado, inteiro, semitransformado, fraccionado ou transformado com o peso até 1,5 kg e se apresenta hermeticamente fechada.
+
+6.º - 1 - O pescado congelado fraccionado (cortado em postas, troços, pedaços, bocados ou porções) e transformado (filetes, fatias, tranchas ou tiras) só pode ser vendido ao público devidamente acondicionado em embalagens comerciais.
+
+2 - Só ao industrial de congelação e de transformação é permitida a laboração da embalagem comercial.
+
+3 - Nas embalagens comerciais devem constar, para além de outras indicações exigidas por lei, a espécie e o tipo comercial do pescado congelado, o preço máximo por quilograma, o peso líquido, o preço de venda ao público, a data do embalamento e a designação «Produto congelado».
+
+4 - As indicações constantes das embalagens comerciais são da responsabilidade do industrial de congelação e de transformação, o qual pode autorizar expressamente no documento de venda o armazenista ou o retalhista a proceder à inscrição do preço de venda por quilograma e do preço de venda ao público, sem que, contudo, seja violada a embalagem comercial.
+
+7.º Nos postos de venda ao público é obrigatória a afixação, em lugar bem visível, de um quadro com a indicação «Pescado congelado inteiro e semitransformado não embalado» e onde constem as espécies e os tipos comerciais e os respectivos preços por quilograma.
+
+8.º Na comercialização de pescado congelado é obrigatório para o vendedor, com excepção do retalhista, passar documento de venda devidamente datado e onde constem os nomes e moradas dos vendedores e compradores, os respectivos números de inscrição na Direcção-Geral do Comércio Alimentar, a qualidade em que intervém, a indicação da quantidade, espécie e tipo comercial do pescado e o preço por quilograma, documento esse que o comprador terá de apresentar sempre que lhe for exigido por quem de direito.
+
+§ 1.º Considera-se como inexistente o documento de venda que não contenha todos os elementos mencionados no corpo do presente número.
+
+§ 2.º A não apresentação pelo comprador do documento de venda a que se refere este número, designadamente por não lhe ter sido passado pelo vendedor ou se ter extraviado, não constitui para aquele circunstância dirimente da sua responsabilidade criminal.
+
+§ 3.º Independentemente do disposto no parágrafo anterior, cabe ainda ao comprador a obrigação de identificar o vendedor.
+
+9.º É obrigatória a inscrição na Direcção-Geral do Comércio Alimentar para os industriais de congelação e de transformação e armazenistas de pescado congelado, depois de cumpridas as formalidades previstas no [Decreto-Lei n.º 247/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1978-299014), de 22 de Agosto, e as exigências especificadas no diploma que regulamentar essa inscrição.
+
+10.º - 1 - A exposição ou venda ao público de pescado congelado com infracção do disposto no n.º 3.º, n.º 1, é punida nos termos do artigo 17.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+
+2 - A apresentação ou venda de pescado congelado com infracção do disposto no § único do n.º 4.º, quando não constitua prática do crime de especulação, será punível nos termos do artigo 29.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+
+3 - As infracções ao disposto nos n.os 6.º, n.os 1 e 2, 8.º e seus parágrafos e 9.º são punidas com multa de 10000$00.
+
+4 - As infracções ao disposto no n.º 6.º, n.os 3 e 4, serão punidas nos termos do artigo 7.º do [Decreto-Lei n.º 314/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1972-676446), de 17 de Agosto.
+
+5 - A infracção ao disposto no n.º 7.º constitui contravenção punível com a multa de 5000$00 a 10000$00.
+
+11.º São revogadas as Portarias n.os [551/77](https://diariodarepublica.pt/dr/detalhe/portaria/551-1977-286483), de 3 de Setembro, e [742/77](https://diariodarepublica.pt/dr/detalhe/portaria/742-1977-279810), de 9 de Dezembro.
+
+12.º As dúvidas e os casos omissos suscitados na aplicação desta portaria serão resolvidos por despacho conjunto dos Secretários de Estado das Pescas e do Comércio Interno.
+
+13.º O disposto na presente portaria aplica-se apenas ao território do continente.
+
+14.º Esta portaria entra imediatamente em vigor, com excepção do disposto no n.º 9.º, que apenas se tornará obrigatório quando assim for determinado pelo diploma que regulamentará a inscrição referida naquele número.
+
+Secretarias de Estado das Pescas e do Comércio Interno, 6 de Abril de 1979. - O Secretário de Estado das Pescas, João de Albuquerque. - O Secretário de Estado do Comércio Interno, Manuel Duarte Pereira.

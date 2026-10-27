@@ -1,0 +1,145 @@
+---
+schema_version: '1.0'
+id: pt:dre:301607:por
+title: Portaria n.º 964/91
+short_title: null
+summary: Aprova como Regulamento de Segurança de Ascensores Hidráulicos (RSAH) a norma NP EN 81-2 (1990)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Indústria e Energia
+proposing_entity: null
+official_number: 964/91
+official_date: null
+publication_date: '1991-09-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 217/1991, Série I-B de 1991-09-20
+  number: '217'
+  series: I
+  supplement: null
+  pages: 4989 - 4989
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/09/217b00/49894989.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/964/1991/09/20/p/dre/pt/html
+  oj: null
+  dre: '301607'
+  dre_path: /dr/detalhe/portaria/964-1991-301607
+  internal: pt:dre:301607:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/964-1991-301607
+  metadata_url: https://data.dre.pt/eli/port/964/1991/09/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/964-1991-301607
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:05:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ab927cccfc2f3cbe1c30b195fe5c81099b4388aefe32d9f2b7b13d115ada0f16
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:05:20Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- CEE
+- Elevador
+- Normas de Segurança
+- Regulamento
+- Segurança dos Edifícios
+relationships:
+- type: cites
+  target: celex:31984L0529
+  label: null
+  source: http://data.europa.eu/eli/dir/1984/529/oj
+- type: cites
+  target: celex:31990L0486
+  label: null
+  source: http://data.europa.eu/eli/dir/1990/486/oj
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:05:20Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 964/91
+
+de 20 de Setembro
+
+Considerando que o Decreto-Lei n.º 110/91, de 18 de Março, que operou a transposição da Directiva n.º [84/529/CEE](http://data.europa.eu/eli/dir/1984/529/oj?locale=pt), de 17 de Setembro, estabeleceu no seu artigo 1.º que a instalação e a exploração de novos elevadores deverão obedecer aos requisitos técnicos e de segurança a estabelecer por portaria do Ministro da Indústria e Energia;
+
+Considerando que a Directiva n.º [84/529/CEE](http://data.europa.eu/eli/dir/1984/529/oj?locale=pt), de 17 de Setembro, sofreu alterações introduzidas pela Directiva n.º [90/486/CEE](http://data.europa.eu/eli/dir/1990/486/oj?locale=pt), de 17 de Setembro, estabelecendo que a instalação dos elevadores hidráulicos deveria obedecer à norma europeia EN 81-2 (edição de 1987);
+
+Considerando a necessidade de transpor a referida directiva e da aprovação de um regulamento de segurança para os ascensores hidráulicos:
+
+Manda o Governo, pelo Ministro da Indústria e Energia, ao abrigo do disposto no artigo 1.º do Decreto-Lei n.º 110/91, de 18 de Março, o seguinte:
+
+1.º É aprovada como Regulamento de Segurança de Ascensores Hidráulicos (RSAH) a norma NP EN 81-2 (1990), que resultou da atribuição do estatuto de norma portuguesa à norma europeia EN 81-2 (edição de 1987).
+
+2.º O RSAH aplica-se aos ascensores accionados hidraulicamente instalados definitivamente, servindo pisos definidos, tendo uma cabina destinada ao transporte de pessoas ou de pessoas e objectos, suspensa por cabos ou cadeias ou suportada por um ou mais cilindros, movimentando-se, pelo menos parcialmente, ao longo de guias verticais ou cuja inclinação em relação à vertical seja inferior a 15º.
+
+3.º Não são abrangidos pelo presente diploma os ascensores especialmente concebidos para fins militares ou experimentais, os utilizados como equipamento de navios, os utilizados nas instalações destinadas à prospecção ou exploração no mar, nas minas ou para a manipulação de substâncias radioactivas, os monta-cargas, os ascensores eléctricos, os ascensores não accionados por um motor eléctrico, os elevadores conhecidos sob as denominações seguintes: paternosters, de cremalheira, de parafuso, de palco, aparelhos de carga, skips, ascensores e monta-cargas de estaleiros de construção civil e de obras públicas, aparelhos de construção e de manutenção e aparelhos de elevação de fabrico especial para o transporte de deficientes.
+
+4.º A instalação eléctrica dos ascensores deve:
+
+a) Satisfazer as exigências dos documentos de harmonização do Comité Europeu de Normalização Electrotécnica (CENELEC) que tiverem sido aceites pelo organismo nacional de normalização;
+
+b) Satisfazer as exigências da regulamentação portuguesa, na falta dos documentos de harmonização referidos na alínea anterior.
+
+5.º Nas casas das máquinas e nos locais das rodas é necessária uma protecção contra contactos directos por meio de invólucros que apresentem pelo menos um grau de protecção IP 2 X.
+
+6.º Se o laboratório encarregado do conjunto de exames de um dos componentes referidos no n.º 7.º não dispuser de meios apropriados para algum dos ensaios de exames, pode, sob sua responsabilidade, mandá-los executar por qualquer dos laboratórios constantes da lista referida no número 10.º
+
+7.º Os componentes dos ascensores que serão submetidos ao exame CEE de tipo e ao controlo CEE são os seguintes:
+
+a) Dispositivo de encravamento das portas de patamar;
+
+b) Limitadores de velocidade da cabina e do contrapeso;
+
+c) Pára-quedas da cabina e do contrapeso;
+
+d) Amortecedores de acumulação de energia com amortecimento do movimento de retorno e amortecedores de dissipação de energia.
+
+8.º Sempre que os componentes indicados no número anterior ostentarem o símbolo de exame CEE de tipo e forem acompanhados de uma declaração de conformidade CEE, emitida pelo fabricante do componente, não poderá ser recusada, proibida ou restringida a sua colocação no mercado.
+
+9.º O certificado de exame CEE de tipo confirma que o componente do ascensor satisfaz as disposições comunitárias e será válido por um período de 10 anos, podendo ser renovado por iguais períodos.
+
+10.º Por despacho do Ministro da Indústria e Energia será publicada no Diário da República a lista dos organismos de certificação e dos laboratórios acreditados, no âmbito do Sistema Nacional de Gestão da Qualidade, a que se refere o Decreto-Lei n.º 165/83, de 27 de Abril, para proceder, respectivamente, ao exame CEE de tipo e ao controlo CEE previstos nos números anteriores e à execução de ensaios a efectuar no quadro dos mesmos.
+
+Ministério da Indústria e Energia
+
+Assinada em 19 de Agosto de 1991.
+
+Pelo Ministro da Indústria e Energia, Nuno Manuel Franco Ribeiro da Silva, Secretário de Estado da Energia.

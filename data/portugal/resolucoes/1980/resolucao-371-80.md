@@ -1,0 +1,92 @@
+---
+schema_version: '1.0'
+id: pt:dre:457659:por
+title: Resolução n.º 371/80
+short_title: null
+summary: Exonera, a seu pedido, das funções de presidente da comissão de gestão da SNAPA - Sociedade Nacional dos Armadores
+  da Pesca de Arrasto, S. A. R. L., o comandante Armando António Pimentel Saraiva
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 371/80
+official_date: null
+publication_date: '1980-10-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 252/1980, Série I de 1980-10-30
+  number: '252'
+  series: I
+  supplement: null
+  pages: 3673 - 3673
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/10/25200/36733673.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '457659'
+  dre_path: /dr/detalhe/resolucao/371-1980-457659
+  internal: pt:dre:457659:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/371-1980-457659
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/371-1980-457659
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:33:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b45f678a378ff385a28fb0a9dc05ea260ffbcd65d41dde0fe27ed8e01b26f4da
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:33:45Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão de Gestão
+- Exoneração
+- Presidente
+- Sociedade Nacional dos Armadores da Pesca do Arrasto
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:33:45Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 371/80
+
+O Conselho de Ministros, reunido em 21 de Outubro de 1980, resolveu exonerar, a seu pedido, das funções de presidente da comissão de gestão da SNAPA - Sociedade Nacional dos Armadores da Pesca de Arrasto, S. A. R. L., o comandante Armando António Pimentel Saraiva.
+
+Presidência do Conselho de Ministros, 21 de Outubro de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.

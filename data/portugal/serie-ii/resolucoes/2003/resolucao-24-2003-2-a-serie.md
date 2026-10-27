@@ -1,0 +1,191 @@
+---
+schema_version: '1.0'
+id: pt:dre:1817445:por
+title: Resolução n.º 24/2003 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Universidade do Minho - Senado Universitário
+proposing_entity: null
+official_number: 24/2003 (2.ª série)
+official_date: null
+publication_date: '2003-03-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 68/2003, Série II de 2003-03-21
+  number: '68'
+  series: II
+  supplement: null
+  pages: 4554 - 4554
+  pdf_url: https://files.diariodarepublica.pt/2s/2003/03/068000000/0455404554.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1817445'
+  dre_path: /dr/detalhe/resolucao/24-2003-1817445
+  internal: pt:dre:1817445:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/24-2003-1817445
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/24-2003-1817445
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:11:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 24a7ac945b0741eed1dff8742211807ad8150edc6330201efd23ebd879cc11e0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:11:45Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611537:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:11:45Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 24/2003 (2.ª série)
+
+Resolução n.º 24/2003 (2.ª série). - Resolução SU-11/03. - Sob proposta do Instituto de Letras e Ciências Humanas;
+
+Ouvido o conselho académico, nos termos da alínea g) do n.º 2 do artigo 25.º dos Estatutos da Universidade;
+
+Ao abrigo do disposto no n.º 1 do artigo 7.º da [Lei n.º 108/88](https://diariodarepublica.pt/dr/detalhe/lei/108-1988-355494), de 24 de Setembro, no n.º 1 do artigo 1.º do [Decreto-Lei n.º 155/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1989-611537), de 11 de Maio, e no n.º 2 do artigo 21.º dos Estatutos da Universidade do Minho:
+
+O senado universitário da Universidade do Minho, em sessão plenária de 27 de Janeiro de 2003, determina:
+
+1.º
+
+Alteração do curso
+
+1 - O curso de mestrado em Língua e Literatura Francesas, criado pela resolução SU-16/94, de 2 de Maio, passa a ser estruturado de acordo com a presente resolução.
+
+2 - O curso de mestrado em Língua e Literatura Francesas passa a designar-se por curso de mestrado em Estudos Franceses.
+
+2.º
+
+Organização do curso
+
+O curso conducente ao mestrado em Estudos Franceses, adiante simplesmente designado por curso, organiza-se pelo sistema de unidades de crédito.
+
+3.º
+
+Estrutura curricular
+
+Os elementos a que se refere o artigo 3.º do [Decreto-Lei n.º 155/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1989-611537), de 11 de Maio, são os constantes do anexo da presente resolução.
+
+4.º
+
+Plano de estudos
+
+O plano de estudos do curso será fixado por despacho do reitor, sob proposta do conselho académico, a publicar no Diário da República, 2.ª série.
+
+5.º
+
+Habilitações de acesso
+
+1 - São admitidos à candidatura à matrícula no curso os titulares de uma licenciatura na área de Estudos Franceses com a classificação mínima de licenciatura igual ou superior a 14 valores.
+
+2 - Excepcionalmente, em casos devidamente justificados, poderão ser admitidos à matrícula candidatos cujo currículo demonstre uma adequada preparação científica de base ou experiência profissional relevante embora tenham classificação de licenciatura inferior a 14 valores.
+
+6.º
+
+Condições de acesso
+
+1 - A matrícula e inscrição no curso estão sujeitas a limitações quantitativas a fixar anualmente por despacho do reitor.
+
+2 - O despacho a que se refere o n.º 1 deste artigo estabelecerá:
+
+a) Qual a percentagem de vagas que será reservada prioritariamente a docentes de estabelecimentos de ensino superior;
+
+b) Qual o número mínimo de inscrições indispensável ao funcionamento do curso.
+
+7.º
+
+Certificado do curso
+
+Os alunos que terminem com aproveitamento a parte escolar do plano de estudos do curso têm direito à obtenção de um diploma.
+
+8.º
+
+Início de funcionamento
+
+O início de funcionamento do curso será fixado por despacho do reitor, sob proposta do conselho académico, desde que verificada a existência de recursos humanos e materiais necessários à sua concretização.
+
+9.º
+
+Disposição revogatória
+
+É revogada a resolução SU-16/94, de 2 de Maio, relativa ao mestrado em Língua e Literatura Francesas.
+
+27 de Janeiro de 2003. - O Presidente, A. Guimarães Rodrigues.
+
+ANEXO DA RESOLUÇÃO SU-11/03
+
+(altera o anexo da resolução SU-16/94, de 2 de Maio)
+
+Curso de mestrado em Estudos Franceses
+
+1 - Área científica do curso - Estudos Franceses.
+
+2 - Duração normal do curso - dois semestres lectivos e dois semestres de dissertação.
+
+3 - Número mínimo de unidades de crédito necessário à concessão do grau - 19,5.
+
+4 - Áreas científicas e distribuição das unidades de crédito:
+
+4.1 - Área científica obrigatória - Estudos Literários - de 4 a 11;
+
+4.2 - Áreas científicas optativas:
+
+Estudos Literários - de 3 a 6;
+
+Estudos Linguísticos - de 3 a 6;
+
+Cultura Francesa - de 3 a 6.
+
+5 - Taxa de matrícula e propinas - estes montantes serão fixados pelo conselho académico, nos termos dos Estatutos da Universidade.

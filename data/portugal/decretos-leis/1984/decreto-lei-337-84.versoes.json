@@ -1,0 +1,57 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:400193:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1984-890051659",
+ "dre_path": "/dr/detalhe/decreto-lei/337-1984-400193",
+ "source_lastmod": "2024-10-04",
+ "versions": [
+  {
+   "date": "1984-10-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "890051702"
+   ]
+  },
+  {
+   "date": "1984-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:446498:por",
+     "title": "Declaração",
+     "published": "1984-10-31",
+     "dre_path": "/dr/detalhe/declaracao/1984-446498"
+    }
+   ],
+   "changes": [
+    "Retifica Assinatura"
+   ],
+   "fragments": [
+    "890051702",
+    "890051706"
+   ]
+  }
+ ],
+ "fragments": {
+  "890051702": {
+   "fragment_id": "890051660",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 337/84\n\nde 19 de Outubro\n\nConsiderando as dúvidas suscitadas a propósito da vigência do n.º 2 do artigo 4.º do Decreto-Lei n.º 282/76, de 20 de Abril, na parte que sujeita ao foro militar o pessoal militarizado da Marinha, como se se tratasse de militar, com o argumento de que esta norma teria sido derrogada pelo Código de Justiça Militar de 1977;\n\nConsiderando que com a publicação do Decreto-Lei n.º 392/83, de 22 de Outubro, se deu a interpretação autêntica, e sem carácter inovador, àquela disposição, no sentido de que as referências feitas no Código de Justiça Militar a militares compreendem os elementos do pessoal militarizado da Marinha;\n\nAtendendo à possibilidade de idênticas dúvidas se colocarem a respeito de outro pessoal militarizado das Forças Armadas, como seja o do quadro criado pelo Decreto-Lei n.º 442/75, de 19 de Agosto;\n\nPonderando que tais dúvidas, a subsistirem, desequilibrariam a disciplina desse pessoal, mercê da natural interpenetração dos foros criminal militar e disciplinar stricto sensu, na medida em que, por um lado, continuaria a reconhecer-se-lhe a sua equiparação aos militares em matéria de disciplina [v. artigo 5.º, n.º 1, alínea c), do Regulamento de Disciplina Militar], como, aliás, nos domínios de vencimentos e benefícios sociais, honras e continências, uso e porte de armas, e, por outro lado, retirar-se-lhe-ia a possibilidade de ser incriminado pela violação dos deveres militares mais graves (v. artigo 2.º do Código de Justiça Militar);\n\nTendo em conta, ainda, a necessidade de se verificar a existência de uma completa normalização de procedimentos para todo o pessoal militarizado das Forças Armadas:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo único. As referências feitas no Código de Justiça Militar a militares, oficiais, sargentos ou praças compreendem, para efeitos do mesmo Código, os elementos do pessoal militarizado das Forças Armadas, atentas as equivalências de categorias e postos estabelecidos nos respectivos quadros."
+  },
+  "890051706": {
+   "fragment_id": "890051661",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "1984-10-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 253/1984, 2º Suplemento, Série I de 1984-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-446498), em vigor a partir de 1984-10-31"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 2 de Outubro de 1984. - O Primeiro-Ministro em exercício e Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto.\n\nPromulgado em 4 de Outubro de 1984.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 9 de Outubro de 1984.\n\nO Primeiro-Ministro, Mário Soares.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 253/1984, 2º Suplemento, Série I de 1984-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-446498), em vigor a partir de 1984-10-31"
+  }
+ }
+}

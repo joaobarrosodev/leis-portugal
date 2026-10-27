@@ -1,0 +1,149 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:529431:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1997-1024687700",
+ "dre_path": "/dr/detalhe/portaria/234-1997-529431",
+ "source_lastmod": "2026-02-05",
+ "versions": [
+  {
+   "date": "1997-04-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1038914176",
+    "1024951575",
+    "1024951775"
+   ]
+  },
+  {
+   "date": "2001-10-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:147874:por",
+     "title": "Portaria n.º 1179-A/2001",
+     "published": "2001-10-10",
+     "dre_path": "/dr/detalhe/portaria/1179-a-2001-147874"
+    }
+   ],
+   "changes": [
+    "Revoga 1.º"
+   ],
+   "fragments": [
+    "1024951375",
+    "1037799052",
+    "1037796089",
+    "1037796090",
+    "1037796091",
+    "1037796092",
+    "1037796093",
+    "1037796094",
+    "1037796095",
+    "1024951575",
+    "1024951775"
+   ]
+  }
+ ],
+ "fragments": {
+  "1038914176": {
+   "fragment_id": "1024951275",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A implantação do gasóleo colorido e marcado para a agricultura é um projecto de âmbito nacional, ao qual foi emprestado interesse renovado pelas recentes determinações comunitárias relativas à necessidade de colorir e marcar os produtos que beneficiem de isenção ou de redução da taxa do imposto sobre os produtos petrolíferos (ISP). Tendo em vista a disponibilização, tão cedo quanto possível, do produto aos agricultores, sob proposta do grupo de trabalho criado pelos Despachos A-89/96-XIII e A-126/96-XIII, procede-se à fixação do valor do factor de compensação (FC) previsto no Decreto-Lei n.º 15/97, de 17 de Janeiro, e ao estabelecimento do sistema de funcionamento da futura rede de venda ao público do produto.\n\nAssim:\n\nManda o Governo, pelos Ministros das Finanças, da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas, em cumprimento do determinado no artigo 4.º do Decreto-Lei n.º 15/97, de 17 de Janeiro, o seguinte:"
+  },
+  "1024951575": {
+   "fragment_id": "1024951475",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministérios das Finanças, da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas.\n\nAssinada em 17 de Março de 1997.\n\nO Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Economia, Augusto Carlos Serra Ventura Mateus. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva."
+  },
+  "1024951775": {
+   "fragment_id": "1024951675",
+   "type": 14,
+   "heading": "Anexo — Identificação de bomba de gasóleo agrícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Identificação de bomba de gasóleo agrícola\n\nNormas de aplicação\n\n(ver documento original)"
+  },
+  "1024951375": {
+   "fragment_id": "1024951275",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A implantação do gasóleo colorido e marcado para a agricultura é um projecto de âmbito nacional, ao qual foi emprestado interesse renovado pelas recentes determinações comunitárias relativas à necessidade de colorir e marcar os produtos que beneficiem de isenção ou de redução da taxa do imposto sobre os produtos petrolíferos (ISP). Tendo em vista a disponibilização, tão cedo quanto possível, do produto aos agricultores, sob proposta do grupo de trabalho criado pelos Despachos A-89/96-XIII e A-126/96-XIII, procede-se à fixação do valor do factor de compensação (FC) previsto no Decreto-Lei n.º 15/97, de 17 de Janeiro, e ao estabelecimento do sistema de funcionamento da futura rede de venda ao público do produto.\n\nAssim:\n\nManda o Governo, pelos Ministros das Finanças, da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas, em cumprimento do determinado no artigo 4.º do Decreto-Lei n.º 15/97, de 17 de Janeiro, o seguinte:"
+  },
+  "1037799052": {
+   "fragment_id": "1038096470",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": "2001-10-11",
+   "changed_by": [
+    "Revogado pelo/a 2.º do/a [Portaria n.º 1179-A/2001 - Diário da República n.º 235/2001, 1º Suplemento, Série I-B de 2001-10-10](https://diariodarepublica.pt/dr/detalhe/portaria/1179-a-2001-147874), em vigor a partir de 2001-10-11",
+    "Retificado pelo/a [Declaração de Rectificação n.º 8-E/97 - Diário da República n.º 100/1997, 2º Suplemento, Série I-B de 1997-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-e-1997-157991), produz efeitos a partir de 1997-04-30"
+   ],
+   "markdown": "###### 1.º\n\nO valor unitário do factor de compensação (FC) do gasóleo colorido e marcado, previsto na fórmula de cálculo do preço máximo de venda ao público dos produtos petrolíferos, constanteda Portaria n.º 224-A/96, de 24 de Junho, é superior em 2$50 por litro ao valor do respectivo factor estabelecido para o gasóleo rodoviário.\n\n> Revogado pelo/a 2.º do/a [Portaria n.º 1179-A/2001 - Diário da República n.º 235/2001, 1º Suplemento, Série I-B de 2001-10-10](https://diariodarepublica.pt/dr/detalhe/portaria/1179-a-2001-147874), em vigor a partir de 2001-10-11\n\n> Retificado pelo/a [Declaração de Rectificação n.º 8-E/97 - Diário da República n.º 100/1997, 2º Suplemento, Série I-B de 1997-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-e-1997-157991), produz efeitos a partir de 1997-04-30"
+  },
+  "1037796089": {
+   "fragment_id": "1038096471",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nA bomba do gasóleo colorido e marcado a instalar nos postos de venda ao público apresentará, obrigatoriamente, o aspecto e características previstos no anexo à presente portaria, que dela faz parte integrante."
+  },
+  "1037796090": {
+   "fragment_id": "1038096472",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nAs empresas petrolíferas que detenham, ou venham a deter, o estatuto de depositário autorizado ou de operador registado, previstos no Decreto-Lei n.º 52/93, de 26 de Fevereiro, e no Decreto-Lei n.º 123/94, de 18 de Maio, poderão comercializar o gasóleo colorido e marcado destinado a usos agrícolas a partir da data em que o produto estiver disponível no mercado nacional."
+  },
+  "1037796091": {
+   "fragment_id": "1038096473",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nA faculdade referida no número anterior fica condicionada à celebração de um contrato entre o Estado e a empresa candidata, no qual esta se comprometerá a disponibilizar a venda ao público de gasóleo colorido e marcado, na proporção de, pelo menos, um posto de abastecimento por cada 600000 l de gasóleo vendido à agricultura em 1995."
+  },
+  "1037796092": {
+   "fragment_id": "1038096474",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\nAs empresas petrolíferas que já outorgaram contratos com o Estado no âmbito do anterior sistema de isenção parcial do imposto sobre os produtos petrolíferos (ISP) para o gasóleo destinado à agricultura somente necessitarão de celebrar um aditamento a esses contratos, relativo à rede mínima de postos de venda ao público do novo produto."
+  },
+  "1037796093": {
+   "fragment_id": "1038099375",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º\n\nOs contratos referidos no número anterior serão celebrados no prazo máximo de 30 dias contados a partir da data da entrada em vigor da presente portaria."
+  },
+  "1037796094": {
+   "fragment_id": "1038099376",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º\n\nOs proprietários ou os responsáveis legais pela exploração dos postos autorizados para a venda ao público do gasóleo colorido e marcado só poderão vender o produto aos titulares de cartões com microcircuito, emitidos sob a responsabilidade do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, sendo responsáveis pelo pagamento do ISP e respectivo IVA resultantes da diferença entre a taxa do imposto aplicável ao gasóleo rodoviário e a taxa do imposto aplicável ao gasóleo colorido e marcado em relação às quantidades que venderem e que não fiquem documentadas no movimento contabilístico do posto."
+  },
+  "1037796095": {
+   "fragment_id": "1038099377",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º\n\nO controlo das quantidades vendidas pelos postos de abastecimento previstos no número anterior é da competência da Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo e terá por base a informação constante dos sistemas informáticos relativos ao gasóleo agrícola geridos pela Sociedade Interbancária de Serviços (SIBS) e pela empresa Petróleos de Portugal - Petrogal, S. A."
+  }
+ }
+}

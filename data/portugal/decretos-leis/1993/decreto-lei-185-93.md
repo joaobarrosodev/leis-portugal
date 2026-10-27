@@ -1,0 +1,959 @@
+---
+schema_version: '1.0'
+id: pt:dre:282517:por
+title: Decreto-Lei n.º 185/93
+short_title: null
+summary: Aprova o novo regime jurídico da adopção. Altera o Código Civil e a Organização Tutelar de Menores
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 185/93
+official_date: null
+publication_date: '1993-05-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 119/1993, Série I-A de 1993-05-22
+  number: '119'
+  series: I
+  supplement: null
+  pages: 2792 - 2801
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/05/119a00/27922801.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2015-12-07'
+version_history:
+  file: decreto-lei-185-93.versoes.json
+  count: 6
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1993-05-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-08-22'
+    amending: pt:dre:490024:por
+    amending_title: Declaração de Rectificação n.º 103/93
+    changes:
+    - Retifica Diploma
+  - date: '1998-06-08'
+    amending: pt:dre:517214:por
+    amending_title: Decreto-Lei n.º 120/98
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+  - date: '2003-09-22'
+    amending: pt:dre:656109:por
+    amending_title: Lei n.º 31/2003
+    changes:
+    - Adita Artigo 11.º-A
+    - Adita Artigo 11.º-B
+    - Adita Artigo 11.º-C
+    - Adita Artigo 26.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Altera Artigo 26.º
+  - date: '2007-08-07'
+    amending: pt:dre:636450:por
+    amending_title: Lei n.º 28/2007
+    changes:
+    - Altera Artigo 15.º
+  - date: '2015-12-07'
+    amending: pt:dre:70215247:por
+    amending_title: Lei n.º 143/2015
+    changes:
+    - Revoga Capítulo III
+    - Revoga Capítulo IV
+    - Revoga Capítulo V
+    - Revoga Artigo 28.º
+    - Revoga Artigo 29.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/185/1993/p/cons/20150908/pt/html
+  oj: null
+  dre: '282517'
+  dre_path: /dr/detalhe/decreto-lei/185-1993-282517
+  internal: pt:dre:282517:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1993-282517
+  metadata_url: https://data.dre.pt/eli/dec-lei/185/1993/p/cons/20150908/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1993-34464775
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1993-34464775
+  retrieved_at: '2026-10-22T11:43:24Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 87bcf19be95155aafabfd2e426698235f4ce1bddcb405c5ba9cb360e0dd8ca30
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:43:24Z'
+  notes: 6 versão(ões); histórico completo em decreto-lei-185-93.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Adopção
+- Código Civil
+- Tutela de Menores
+- Proteção à Infância
+- Segurança Social
+- Direito de Família
+relationships:
+- type: amended_by
+  target: pt:dre:490024:por
+  label: Retifica Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/103-1993-490024
+  date: '1993-06-30'
+- type: amended_by
+  target: pt:dre:517214:por
+  label: Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º;
+    Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º;
+    Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 20.º;
+    Altera Artigo 21.º; Altera Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214
+  date: '1998-05-08'
+- type: amended_by
+  target: pt:dre:656109:por
+  label: Adita Artigo 11.º-A; Adita Artigo 11.º-B; Adita Artigo 11.º-C; Adita Artigo 26.º-A; Altera Artigo 3.º; Altera Artigo
+    4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 11.º;
+    Altera Artigo 12.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 19.º; Altera Artigo 20.º; Altera Artigo 22.º;
+    Altera Artigo 26.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/31-2003-656109
+  date: '2003-08-22'
+- type: amended_by
+  target: pt:dre:636450:por
+  label: Altera Artigo 15.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/28-2007-636450
+  date: '2007-08-02'
+- type: amended_by
+  target: pt:dre:70215247:por
+  label: Revoga Capítulo III; Revoga Capítulo IV; Revoga Capítulo V; Revoga Artigo 28.º; Revoga Artigo 29.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247
+  date: '2015-09-08'
+- type: cites
+  target: eli:http://data.europa.eu/eli/reco/1988/1074/oj
+  label: null
+  source: http://data.europa.eu/eli/reco/1988/1074/oj
+article_structure:
+  article_count: 35
+  section_count: 6
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:43:24Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 185/93
+
+Uma das inovações mais importantes do actual Código Civil, aprovado pelo Decreto-Lei n.º 47344, de 25 de Novembro de 1966, e que entrou em vigor, na quase totalidade, em 1 de Junho de 1967, foi o reconhecimento da adopção como fonte de relações jurídicas familiares, retomando-se, assim, uma tradição do nosso direito que o Código de Seabra havia interrompido.
+
+Este reconhecimento processou-se à luz de um novo espírito: o instituto da adopção projectou-se num quadro geral de protecção à criança desprovida de meio familiar normal, privilegiando-se o interesse do adoptado.
+
+O regime que vigorou até à reforma de 1977, de aplicação restrita, revelou, com o desenrolar dos anos e a sequência das transformações sócio-políticas ocorridas na década de setenta, algumas limitações.
+
+Assim, e a partir de 1 de Abril de 1978, data em que, ressalvados alguns aspectos transitórios, a reforma introduzida pelo Decreto-Lei n.º 496/77, de 25 de Novembro, entrou em vigor, houve uma valorização do instituto, respondendo-se, como esclarece o n.º 39 do preâmbulo, a imperativos de ordem constitucional e a «solicitações surgidas de muitos lados».
+
+Como aspectos mais significativos das mudanças operadas, contam-se os seguintes: alargou-se o campo de aplicação da adopção plena aos casados há mais de cinco anos não separados judicialmente, deixou de se fazer a exigência da não existência de filhos dos adoptantes, passou a permitir-se a adopção plena mesmo a pessoa não casada. No que concerne aos adoptados, aceitou-se que a adopção não se limitasse aos filhos do cônjuge do adoptante ou de pais incógnitos ou falecidos, mas que abrangesse também os menores judicialmente declarados abandonados e, em geral, os que há mais de um ano residissem com o adoptante e estivessem a seu cargo.
+
+Criou-se e regulamentou-se a declaração judicial do estado de abandono que leva à dispensa do consentimento dos pais biológicos nos casos em que, por decisão judicial, é reconhecido o comprometimento da subsistência dos vínculos próprios da filiação e inseriu-se no Código Civil a obrigatoriedade de se proceder à realização de um inquérito.
+
+Os anos entretanto decorridos, a experiência acumulada e as contínuas transformações sociais ocorridas, se mantêm actual o interesse pela adopção como sadio instrumento utilizado pela comunidade a favor das crianças mais desprotegidas, aconselham a que se perspective novamente o instituto em ordem à sua actualização.
+
+A despeito das modificações ocorridas na composição e na estrutura da família, limitada agora àquilo a que alguém já chamou o seu «núcleo irredutível», ela continua a ser a principal instituição socializadora das crianças, sendo nela que se opera o «segundo nascimento do homem». Entre os princípios constitucionais do nosso direito da família incluem-se o direito de constituir família e a atribuição aos pais do poder dever de educação dos filhos; o Conselho da Europa em 1988, na Recomendação n.º <a href="eurlex.asp?ano=1988&id=388H1074" title="Link para Recomendação da Comunidade Europeia">88/1074/CEE</a>, relativa à política de família, reconhece-a como o lugar onde as relações familiares são mais densas e ricas, o lugar por excelência para a educação das crianças.
+
+Estes princípios harmonizam-se com outros que nacional e internacionalmente visam uma atenção activa para com os jovens em geral e em especial para com os mais desprotegidos, como o da protecção à infância e o da protecção à adopção, previstos, respectivamente, nos artigos 69.º e 36.º, n.º 7, da Constituição, tendo o último sido introduzido na revisão constitucional de 1982. A nível internacional, concluiu-se a Convenção das Nações Unidas sobre os Direitos da Criança, feita em 20 de Novembro de 1989, à qual Portugal foi dos primeiros aderentes e que foi ratificada pelo Decreto do Presidente da República n.º 49/90, de 12 de Setembro, nela se prevendo - artigos 20.º e 21.º - que os Estados partes assegurem à criança privada de meio familiar normal uma protecção alternativa que, satisfeitas certas condições, poderá consistir na adopção.
+
+É na convicção de que a adopção mantém uma grande importância e que as alterações ao seu regime poderão potenciar todas as suas virtualidades, reforçando-a como um dos mais relevantes recursos na resposta à situação da criança desprovida de meio familiar normal, que se procede à sua revisão.
+
+Esta dinâmica insere-se num contexto geral de renovação e adequação de todos os instrumentos que podem dignificar a criança e prevenir desajustamentos futuros, de que, no campo legislativo, são também reflexo a recente adesão à Convenção Europeia em Matéria de Adopção de Crianças, que Portugal ratificou pelo Decreto do Presidente da República n.º 7/90, de 20 de Fevereiro, e a institucionalização das novas comissões de protecção de menores, pelo Decreto-Lei n.º 189/91, de 17 de Maio. É de registar, ainda, a presença do nosso país nos trabalhos preparatórios da Conferência da Haia de Direito Internacional Privado, em que se perspectiva a problemática relativa à adopção de crianças originárias do estrangeiro.
+
+As alterações agora introduzidas abrangem os aspectos substantivos e adjectivos, projectando-se no campo administrativo e levando a modificações no Código Civil, na Organização Tutelar de Menores, bem como à revogação do Decreto-Lei n.º 274/80, de 13 de Agosto.
+
+No que concerne à regulamentação da adopção transnacional que, embora prevista no último diploma legal referido, não fora até ao momento concretizada, pareceu prudente limitá-la, por ora, às áreas mais carecidas de clarificação e também mais sensíveis, aliás de acordo com o disposto no artigo 21.º da Convenção das Nações Unidas sobre os Direitos da Criança e enquanto se aguarda o desenvolvimento dos trabalhos da Conferência da Haia que provavelmente terminarão com a elaboração de uma convenção internacional sobre a matéria.
+
+Ao nível do Código Civil, a actualização a que agora se submete o instituto da adopção consiste, fundamentalmente, na criação do instituto da confiança do menor com vista a futura adopção, na alteração das idades previstas para adoptantes e adoptados, numa melhor clareza relativamente às questões que se prendem com o consentimento, aqui se incluindo o consentimento prévio, numa verdadeira tutela dos interesses em jogo que se visam defender através do segredo da identidade do adoptante e dos pais naturais e do carácter secreto do processo de adopção e, finalmente, na forma mais realista como se encara a problemática do nome do adoptado por efeito da adopção.
+
+A confiança do menor com vista a futura adopção, cujas situações se mostram tipificadas no artigo 1978.º, radica na consciência de que aquele necessita, desde o nascimento e especialmente na primeira infância, de uma relação minimamente equilibrada com ambos os pais, contacto que deve decorrer sem descontinuidades importantes durante a menoridade, embora com as alterações na relação que as várias fases das crianças e dos jovens naturalmente aconselham.
+
+Quando situações de vária ordem não permitem a existência de um quadro familiar deste tipo ou provocam a sua ruptura, cria-se uma situação de risco grave para o menor, que os seus outros familiares deverão procurar evitar, porporcionando uma relação substitutiva o mais próxima possível daquela que, em princípio, é considerada a situação normal.
+
+Não havendo familiares próximos que possam assumir esta função, compete à sociedade tomar com urgência as medidas adequadas para proporcionar ao menor em risco uma relação substitutiva.
+
+A confiança judicial do menor tem, como primeira finalidade, a defesa deste, evitando que se prolonguem situações em que esta sofre as carências derivadas da ausência de uma relação familiar com um mínimo de qualidade e em que os seus pais ou não existem ou, não se mostrando dispostos a dar o consentimento para uma adopção, mantêm de facto uma ausência, um desinteresse e uma distância que não permitem prever a viabilidade de proporcionarem ao filho em tempo útil a relação de que ele precisa para se desenvolver harmoniosamente.
+
+No que respeita à adopção conjunta, diminui-se para quatro anos o tempo de duração do casamento. Embora se deva procurar avaliar a estabilidade da relação matrimonial, não se vê razão para pensar que, como regra, os cinco anos, anteriormente previstos, darão mais garantias.
+
+A idade mínima para a adopção plena singular baixa para 30 anos, por se afigurar mais favorável à adopção.
+
+O espírito do instituto, a que preside a criação de um vínculo semelhante à filiação, aconselha a diminuição para 50 anos do limite máximo de idade do adoptante, clarificando-se, agora, que essa exigência se afere à data em que o menor haja sido confiado, judicial ou administrativamente; salvaguarda-se, porém, a situação em que o adoptando é filho do cônjuge do adoptante.
+
+Quanto ao adoptando, eleva-se para 15 anos o limite a que se refere o n.º 2 do artigo 1980.º do Código Civil, estabelecendo-se, no entanto, a possibilidade de vir a ser adoptado quem, à data da petição judicial de adopção, tenha menos de 18 anos e não se encontre emancipado, desde que tenha sido confiado aos adoptantes ou a um deles com idade não superior a 15 anos ou quando for filho do cônjuge do adoptante. Espera-se, por um lado, possibilitar a adopção de crianças com idade mais elevada e, por outro, privilegiar a desejável precocidade da adopção, sem prejuízo da necessária segurança. Assim, exige-se agora em todos os casos que o adoptando tenha estado ao cuidado do adoptante durante prazo suficiente para se poder avaliar da conveniência da constituição do vínculo.
+
+Adapta-se o regime do consentimento às exigências da confiança do menor com vista a futura adopção e disciplina-se a sua dispensa no intuito de obviar a situações de incerteza que a doutrina e a jurisprudência não lograram superar.
+
+A alteração do n.º 3 do artigo 1982.º do Código Civil tem em vista adequar o prazo aí estabelecido ao que consta da Convenção Europeia em matéria de adopção de crianças, possibilitando que se retire a correspondente reserva formulada aquando da ratificação.
+
+Torna-se obrigatória, em princípio, a audição dos ascendentes ou, na sua falta, dos irmãos maiores do progenitor falecido, sempre que o adoptando seja filho do cônjuge do adoptante e o seu consentimento não se mostre necessário.
+
+Dados os interesses, por vezes conflituantes, que contendem com a adopção, concede-se ao adoptante e aos pais naturais o direito de se oporem a que a sua identidade seja revelada, procurando-se, assim, que a adopção se promova num clima de reserva e serenidade.
+
+Potenciando o interesse do menor e favorecendo a sua integração no ambiente familiar adoptivo, permite-se agora que o tribunal, excepcionalmente, modifique o seu nome próprio.
+
+Quanto ao mais, mantém-se a actual redacção da lei, com a ressalva da modificação das idades na adopção restrita, o que se justifica pela necessidade de harmonizar o regime com o agora previsto para a adopção plena.
+
+As alterações operadas na Organização Tutelar de Menores subordinam-se à disciplina substantivamente traçada. Algumas especificidades têm suporte na experiência entretanto adquirida.
+
+A necessidade de que todo o sistema funcione harmoniosamente conduziu a que fosse introduzida uma norma obrigando o tribunal a, requerida a confiança judicial, consultar o organismo de segurança social da área da residência do menor.
+
+Pode também o Ministério Público, interpretando a vontade dos pais naturais, requerer a designação de dia para a prestação do consentimento prévio, o que se legisla por parecer que pode facilitar a prossecução de todo o processo sem pôr em causa a livre e consciente prestação, pelos pais, desse consentimento.
+
+A protecção do segredo da identidade exige que se atribua carácter secreto ao processo de adopção e aos procedimentos preliminares, incluindo os de natureza administrativa, e que se crie um crime próprio para quem viole esse segredo. Trata-se de um princípio que admite excepções definidas apenas judicialmente.
+
+Dada a relevância que o consentimento prévio e a confiança judicial assumem em todo o instituto da adopção, confere-se-lhes carácter urgente, correndo igualmente durante as férias judiciais.
+
+Em conexão com o que atrás se expôs, houve que substituir o Decreto-Lei n.º 274/80, de 13 de Agosto, e a tal se procedeu na convicção de que a interdisciplinaridade e a interinstitucionalidade passaram definitivamente do discurso à prática. A intervenção judiciária e a intervenção administrativa submetem-se ao escopo principal que se prossegue, complementando-se na acção.
+
+Os organismos de segurança social têm, agora, competência para decidir da confiança administrativa do menor e legitimidade para requerer a sua confiança judicial e são, como se expôs, ouvidos obrigatoriamente antes que o tribunal tome a decisão.
+
+É de realçar, todavia, que a confiança administrativa não pode ser decidida se houver oposição de quem exerça o poder paternal ou a tutela ou de quem detenha, de direito ou de facto, a guarda do menor e que o organismo de segurança social tem o dever de comunicar, em cinco dias, ao magistrado do Ministério Público junto do tribunal competente, quer a decisão e seus fundamentos, quer a oposição que tenha impedido essa confiança.
+
+Procura-se, por outro lado, que todas as situações de menores relativamente aos quais se pode desencadear o processo judicial de confiança sejam dadas a conhecer a esses organismos, aos quais igualmente deverão dirigir-se todos os que pretendem adoptar.
+
+A preocupação do combate às situações de trabalho infantil, com a clara consciência dos perigos graves que envolvem para a segurança, a saúde, a formação moral e a educação do menor, levou à consagração expressa da obrigatoriedade da sua comunicação para efeitos de estudo aprofundado e eventual aplicação das medidas que a defesa do menor exigir, entre as quais se podem incluir as especialmente previstas neste diploma.
+
+De uma maneira geral, e visando a maior objectividade e transparência possíveis, definem-se prazos e concretizam-se as áreas sobre que incidem os estudos relativos à situação do candidato a adoptante e do adoptando, passando a reconhecer-se àquele o direito de recorrer para o tribunal competente em matéria de família ou de família e de menores de decisões do organismo de segurança social.
+
+Pela primeira vez é estabelecido um prazo máximo para, terminado o período de pré-adopção, ser requerida a adopção, o que, a não suceder, conduz, em princípio, à reapreciação de toda a situação, visando-se obviar a um prolongamento injustificado daquele período, em prejuízo da criança adoptável.
+
+Previne-se, na defesa dos candidatos, que os atrasos que lhes não sejam imputáveis obstem a que possam requerer a adopção.
+
+Na sequência da situação existente, cria-se a obrigação de o tribunal manter o organismo de segurança social inteirado do evoluir e da decisão dos processos.
+
+Finalmente, adapta-se o regime criado à situação particular em que o adoptando é filho do cônjuge do adoptante.
+
+Regula-se a colocação no estrangeiro de menores residentes em Portugal para aí serem adoptados, introduzindo regras que procuram garantir a clareza e a segurança dos procedimentos.
+
+Em sintonia com as orientações dominantes em matéria de adopção transnacional, acolhe-se o princípio da subsidiariedade e estabelecem-se disposições que permitam às entidades portuguesas responsáveis avaliar das condições em que pode ser decretada a confiança judicial de menor para colocação no estrangeiro com vista à sua adopção.
+
+Confere-se ao Ministério Público legitimidade para requerer a revisão de decisão estrangeira que decrete a adopção de menor nacional, caso não tenha sido pedida pelos adoptantes, por forma a facilitar a concretização do interesse do menor em ver reconhecida, também no seu país de origem, a nova situação. Assim se corresponde a orientações e a princípios internacionais, de que se salienta o princípio consignado no artigo 23.º da Declaração sobre os Princípios Sociais e Jurídicos Aplicáveis à Protecção e ao Bem-Estar das Crianças, Encarados sobretudo do Ponto de Vista das Práticas em Matéria de Adopção e de Colocação Familiar nos Planos Nacional e Internacional, adoptada pela Assembleia Geral das Nações Unidas através da Resolução n.º 41/85.
+
+Assim:
+
+No uso da autorização legislativa concedida pela Lei n.º 2/93, de 6 de Janeiro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Alterações ao Código Civil
+
+###### Artigo 1.º
+
+Os artigos 1974.º, 1978.º, 1979.º, 1980.º, 1981.º, 1982.º, 1983.º, 1984.º, 1985.º, 1988.º e 1992.º do Código Civil, aprovado pelo Decreto-Lei n.º 47344, de 25 de Novembro de 1966, na versão dada pelo Decreto-Lei n.º 496/77, de 25 de Novembro, passam a ter a seguinte redacção:
+
+Artigo 1974.º
+
+[...]
+
+1 - ...
+
+2 - O adoptando deverá ter estado ao cuidado do adoptante durante prazo suficiente para se poder avaliar da conveniência da constituição do vínculo.
+
+Artigo 1978.º
+
+Confiança com vista a futura adopção
+
+1 - Com vista a futura adopção, o tribunal pode confiar o menor a casal, a pessoa singular ou a instituição em qualquer das situações seguintes:
+
+a) Se o menor for filho de pais incógnitos ou falecidos;
+
+b) Se tiver havido consentimento prévio para a adopção;
+
+c) Se os pais tiverem abandonado o menor;
+
+d) Se os pais, por acção ou omissão, puserem em perigo a segurança, a saúde, a formação moral ou a educação do menor em termos que, pela sua gravidade, comprometam seriamente os vínculos afectivos próprios da filiação;
+
+e) Se os pais do menor acolhido por um particular ou por uma instituição tiverem revelado manifesto desinteresse pelo filho, em termos de comprometer seriamente os vínculos afectivos próprios da filiação, durante, pelo menos, os seis meses que precederam o pedido de confiança.
+
+2 - A confiança com fundamento nas situações previstas nas alíneas c), d) e e) do número anterior não pode ser decidida se o menor se encontrar a viver com ascendente, colateral até ao 3.º grau ou tutor e a seu cargo, salvo se aqueles familiares ou o tutor puserem em perigo, de forma grave, a segurança, a saúde, a formação moral ou a educação do menor ou se o tribunal concluir que a situação não é adequada a assegurar suficientemente o interesse do menor.
+
+3 - Têm legitimidade para requerer a confiança judicial do menor o Ministério Público, o organismo de segurança social da área da residência do menor, a pessoa a quem o menor tenha sido administrativamente confiado e o director do estabelecimento público ou a direcção da instituição particular que o tenha acolhido.
+
+Artigo 1979.º
+
+[...]
+
+1 - Podem adoptar plenamente duas pessoas casadas há mais de quatro anos e não separadas judicialmente de pessoas e bens ou de facto, se ambas tiverem mais de 25 anos.
+
+2 - Pode ainda adoptar plenamente quem tiver mais de 30 anos ou, se o adoptando for filho do cônjuge do adoptante, mais de 25.
+
+3 - Só pode adoptar plenamente quem não tiver mais de 50 anos à data em que o menor lhe tenha sido confiado, salvo se o adoptando for filho do cônjuge do adoptante.
+
+Artigo 1980.º
+
+[...]
+
+1 - Podem ser adoptados plenamente os menores filhos do cônjuge do adoptante e aqueles que tenham sido confiados, judicial ou administrativamente, ao adoptante.
+
+2 - O adoptando dever ter menos de 15 anos à data da petição judicial de adopção; poderá, no entanto, ser adoptado quem, a essa data, tenha menos de 18 anos e não se encontre emancipado, quando, desde idade não superior a 15 anos, tenha sido confiado aos adoptantes ou a um deles ou quando for filho do cônjuge do adoptante.
+
+Artigo 1981.º
+
+[...]
+
+1 - É necessáro para a adopção o consentimento:
+
+a) ...
+
+b) ...
+
+c) Dos pais do adoptando, ainda que menores e mesmo que não exerçam o poder paternal, desde que não tenha havido confiança judicial.
+
+2 - No caso previsto no n.º 2 do artigo 1978.º não é exigido o consentimento dos pais, mas é necessário o do parente aí referido ou do tutor, salvo se tiver sido decidida a confiança judicial do menor.
+
+3 - ...
+
+4 - O tribunal poderá ainda dispensar o consentimento das pessoas referidas na alínea c) do n.º 1 e no n.º 2 quando se verificar alguma das situações que, nos termos das alíneas c), d) e e) do n.º 1 e do n.º 2 do artigo 1978.º, permitiriam a confiança judicial.
+
+Artigo 1982.º
+
+[...]
+
+1 - ...
+
+2 - O consentimento dos pais pode ser prestado independentemente da instauração do processo de adopção se o adoptando tiver sido acolhido por alguém que pretenda adoptá-lo ou em estabelecimento público ou particular, não sendo necessária a identificação do futuro adoptante.
+
+3 - A mãe não pode dar o seu consentimento antes de decorridas seis semanas após o parto.
+
+Artigo 1983.º
+
+[...]
+
+1 - O consentimento prestado nos termos do n.º 2 do artigo anterior poderá ser revogado no prazo de dois meses; decorrido este prazo só é revogável enquanto o menor não se encontrar acolhido por alguém que pretenda adoptá-lo.
+
+2 - ...
+
+3 - O consentimento caduca se, no prazo de três anos, o menor não tiver sido adoptado nem confiado judicial ou administrativamente com vista a futura adopção.
+
+Artigo 1984.º
+
+Audição obrigatória
+
+O juiz deverá ouvir:
+
+a) Os filhos do adoptante maiores de 14 anos;
+
+b) Os ascendentes ou, na sua falta, os irmãos maiores do progenitor falecido, se o adoptando for filho do cônjuge do adoptante e o seu consentimento não for necessário, salvo se estiverem privados das faculdades mentais ou se, por qualquer outra razão, houver grave dificuldade em os ouvir.
+
+Artigo 1985.º
+
+Segredo da identidade
+
+1 - A identidade do adoptante não pode ser revelada aos pais naturais do adoptado, salvo se aquele declarar expressamente que não se opõe a essa revelação.
+
+2 - Os pais naturais do adoptado podem opor-se, mediante declaração expressa, a que a sua identidade seja revelada ao adoptante.
+
+Artigo 1988.º
+
+Nome próprio e apelidos do adoptado
+
+1 - O adoptado perde os seus apelidos de origem, sendo o seu novo nome constituído, com as necessárias adaptações, nos termos do artigo 1875.º
+
+2 - A pedido do adoptante, pode o tribunal, excepcionalmente, modificar o nome próprio do menor, se a modificação salvaguardar o seu interesse, nomeadamente o direito à identidade pessoal, e favorecer a integração na família.
+
+Artigo 1992.º
+
+[...]
+
+1 - Pode adoptar restritamente quem tiver mais de 25 anos.
+
+2 - Só pode adoptar restritamente quem não tiver mais de 50 anos à data em que o menor lhe tenha sido confiado, salvo se o adoptando for filho do cônjuge do adoptante.
+
+### Capítulo II — Alterações à Organização Tutelar de Menores
+
+###### Artigo 2.º
+
+Os artigos 162.º, 163.º, 164.º, 166.º, 167.º, 169.º, 170.º, 172.º e 173.º do Decreto-Lei n.º 314/78, de 27 de Outubro, passam a ter a seguinte redacção:
+
+Artigo 162.º
+
+Petição
+
+1 - ...
+
+2 - Sem prejuízo do disposto no n.º 2 do artigo 1985.º do Código Civil, com a petição serão oferecidos todos os meios de prova, nomeadamente certidões de cópia integral do registo de nascimento do adoptando e do adoptante e certificado comprovativo das diligências relativas à prévia intervenção dos organismos previstos na lei.
+
+Artigo 163.º
+
+Inquérito
+
+1 - Quando o inquérito previsto no n.º 2 do artigo 1973.º do Código Civil não acompanhar a petição, o tribunal solicitá-lo-á ao organismo competente, que o deverá remeter no prazo máximo de 14 dias, prorrogável por igual período, em caso devidamente justificado.
+
+2 - Se não for junto o inquérito no prazo fixado, o tribunal ordenará que seja realizado pela entidade que considere adequada.
+
+Artigo 164.º
+
+Diligências subsequentes
+
+1 - Realizado o inquérito, o juiz, com a assistência do Ministério Público, ouvirá o adoptante e as pessoas cujo consentimento ou audiência a lei exija, ainda que o consentimento possa ser dispensado nos termos do n.º 4 do artigo 1981.º do Código Civil.
+
+2 - A audição das pessoas referidas no número anterior deve ser feita separadamente e por forma a salvaguardar o segredo da identidade que a lei prevê.
+
+3 - O juiz deve esclarecer as pessoas de cujo consentimento a adopção depende sobre o significado e os efeitos do acto.
+
+Artigo 166.º
+
+Processo de confiança judicial
+
+1 - Requerida a confiança judicial do menor, serão citados, para contestar os pais, o Ministério Público, quando não tiver sido requerente, e, sendo caso disso, os parentes ou o tutor referidos no n.º 2 do artigo 1978.º do Código Civil.
+
+2 - São aplicáveis, com as necessárias adaptações, as disposições constantes do n.º 2 do artigo 195.º e dos artigos 196.º a 198.º; não havendo contestação, findo o prazo para apresentação desta, o juiz procede às diligências que entender necessárias e, em seguida, decide.
+
+3 - A confiança judicial não será decidida sem prévia audição do organismo de segurança social da área da residência do menor.
+
+4 - O tribunal fará à conservatória do registo civil onde esteja lavrado o assento do nascimento do menor, cuja confiança tenha sido requerida ou decidida, as comunicações necessárias à preservação do segredo de identidade previsto no artigo 1985.º do Código Civil.
+
+5 - Requerida a adopção do menor, o incidente será apensado ao processo de adopção.
+
+Artigo 167.º
+
+Suprimento do exercício do poder paternal
+
+1 - Na sentença que decida a confiança do menor, o tribunal designará um curador provisório que exercerá funções até ser decretada a adopção ou instituída tutela.
+
+2 - Curador provisório será a pessoa a quem o menor tenha sido confiado; no caso de confiança a instituição, será, de preferência, quem com ele tenha mais directo contacto.
+
+Artigo 169.º
+
+Consentimento prévio
+
+1 - Para os efeitos previstos no n.º 2 do artigo 1982.º do Código Civil, os pais ou o Ministério Público requererão ao tribunal da área da residência do menor ou de qualquer dos pais a designação de dia para prestarem o consentimento, que o juiz deve receber no mais curto prazo possível.
+
+2 - Requerida a adopção, o incidente referido no número anterior será apensado ao respectivo processo.
+
+Artigo 170.º
+
+Carácter secreto
+
+1 - O processo de adopção e os respectivos procedimentos preliminares, incluindo os de natureza administrativa, têm carácter secreto.
+
+2 - Por motivos ponderosos e nas condições e com os limites a fixar, pode o tribunal, a requerimento de quem invoque interesse legítimo e ouvido o Ministério Público, se não for o requerente, consentir na consulta dos processos referidos no número anterior e na extracção de certidões; se não existir processo judicial, o requerimento deve ser dirigido ao tribunal competente em matéria de família ou de família e de menores da área da sede do organismo de segurança social.
+
+3 - A violação do segredo dos processos referidos no n.º 1 e a utilização de certidões para fim diverso do expressamente alegado constituem crime a que corresponde a pena de prisão até um ano ou de multa até 120 dias.
+
+Artigo 172.º
+
+Revogação e revisão
+
+1 - Nos incidentes de revogação ou de revisão, bem como no recurso extraordinário de revisão, o menor é representado pelo Ministério Público.
+
+2 - Apresentado o pedido nos incidentes de revogação ou de revisão da adopção, serão citados os requeridos e o Ministério Público para contestarem.
+
+3 - Aos incidentes aplicam-se, com as necessárias adaptações, as disposições constantes do n.º 2 do artigo 195.º e dos artigos 196.º a 198.º
+
+Artigo 173.º
+
+Carácter urgente
+
+Independentemente do disposto no artigo 160.º, os processos relativos ao consentimento prévio e à confiança judicial de menor têm carácter urgente e correm durante as férias judiciais.
+
+### Capítulo III — Intervenção dos organismos de segurança social
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+###### Artigo 3.º — Comunicação ao Ministério Público, às comissões de protecção de menores e aos organismos de segurança social
+
+1 - As instituições oficiais ou particulares que tenham conhecimento de menores em alguma das situações previstas no artigo 1978.º do Código Civil devem dar conhecimento desse facto ao organismo de segurança social da respectiva área, o qual procederá ao estudo da situação e tomará as providências adequadas.
+
+2 - As instituições públicas e particulares de solidariedade social comunicam obrigatoriamente, em cinco dias, às comissões de protecção de crianças e jovens em perigo, ou, no caso de não se encontrarem instaladas, ao Ministério Público junto do tribunal competente em matéria de família e menores da área da residência do menor, o acolhimento de menores a que procederem em qualquer das situações previstas no artigo 1918.º do Código Civil e no artigo 3.º da Lei de Protecção de Crianças e Jovens em Perigo.
+
+3 - Quem tiver menor a seu cargo em situação de poder vir a ser adoptado deve dar conhecimento da situação ao organismo de segurança social da área da sua residência, o qual procederá ao estudo da situação.
+
+4 - O organismo de segurança social deve dar conhecimento, no prazo de 15 dias, ao magistrado do Ministério Público junto do tribunal competente das comunicações que receber, dos estudos que realizar e das providências que tomar nos termos do n.º 1.
+
+5 - As comunicações referidas nos n.os 1 e 2 são feitas sem prejuízo do disposto na Lei de Protecção de Crianças e Jovens em Perigo.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 31/2003 - Diário da República n.º 193/2003, Série I-A de 2003-08-22](https://diariodarepublica.pt/dr/detalhe/lei/31-2003-656109), em vigor a partir de 2003-09-22, produz efeitos a partir de 2003-09-22
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/98 - Diário da República n.º 106/1998, Série I-A de 1998-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214), em vigor a partir de 1998-06-08, produz efeitos a partir de 1998-06-08
+
+###### Artigo 4.º — Estudo da situação do menor
+
+1 - O estudo da situação do menor deverá incidir, nomeadamente, sobre a saúde, o desenvolvimento e a situação familiar e jurídica do adoptando.
+
+2 - O estudo será realizado com a maior brevidade possível, tendo em conta o interesse do menor e as circunstâncias do caso.
+
+3 - Não se mostrando possível a adopção em Portugal, em tempo útil, e tendo sido já decretada a confiança judicial do menor, o organismo de segurança social informará a autoridade central, no prazo de 15 dias contados do trânsito em julgado daquela decisão, para efeitos de colocação no estrangeiro de menores residentes em Portugal com vista à futura adopção.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 31/2003 - Diário da República n.º 193/2003, Série I-A de 2003-08-22](https://diariodarepublica.pt/dr/detalhe/lei/31-2003-656109), em vigor a partir de 2003-09-22, produz efeitos a partir de 2003-09-22
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/98 - Diário da República n.º 106/1998, Série I-A de 1998-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214), em vigor a partir de 1998-06-08, produz efeitos a partir de 1998-06-08
+
+###### Artigo 5.º — Candidato a adoptante
+
+1 - Quem pretender adoptar deve comunicar essa intenção ao organismo de segurança social da área da sua residência.
+
+2 - O organismo de segurança social emite e entrega ao candidato a adoptante, verificados os requisitos legais, certificado da comunicação e do respectivo registo.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 31/2003 - Diário da República n.º 193/2003, Série I-A de 2003-08-22](https://diariodarepublica.pt/dr/detalhe/lei/31-2003-656109), em vigor a partir de 2003-09-22, produz efeitos a partir de 2003-09-22
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/98 - Diário da República n.º 106/1998, Série I-A de 1998-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214), em vigor a partir de 1998-06-08, produz efeitos a partir de 1998-06-08
+
+###### Artigo 6.º — Estudo da pretensão e decisão
+
+1 - Recebida a comunicação, o organismo de segurança social procede ao estudo da pretensão no prazo máximo de seis meses.
+
+2 - O estudo da pretensão do candidato a adoptante deverá incidir, nomeadamente, sobre a personalidade, a saúde, a idoneidade para criar e educar o menor e a situação familiar e económica do candidato a adoptante e as razões determinantes do pedido de adopção.
+
+3 - Não se mostrando possível a adopção em Portugal, em tempo útil, e tendo sido já decretada a confiança judicial do menor, o organismo de segurança social informará a autoridade central, no prazo de 15 dias contados do trânsito em julgado daquela decisão, para efeitos de colocação no estrangeiro de menores residentes em Portugal com vista à futura adopção.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 31/2003 - Diário da República n.º 193/2003, Série I-A de 2003-08-22](https://diariodarepublica.pt/dr/detalhe/lei/31-2003-656109), em vigor a partir de 2003-09-22, produz efeitos a partir de 2003-09-22
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/98 - Diário da República n.º 106/1998, Série I-A de 1998-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214), em vigor a partir de 1998-06-08, produz efeitos a partir de 1998-06-08
+
+###### Artigo 7.º — Recurso
+
+1 - Da decisão que rejeite a candidatura, recuse a entrega do menor ao candidato a adoptante ou não confirme a permanência do menor a cargo, cabe recurso, a interpor no prazo de 30 dias, para o tribunal competente em matéria de família e menores da área da sede do organismo da segurança social.
+
+2 - O requerimento, acompanhado das respectivas alegações, é apresentado ao organismo que proferiu a decisão, o qual poderá repará-la; não o fazendo, o organismo remete o processo ao tribunal, no prazo de 15 dias, com as observações que entender convenientes.
+
+3 - Recebido o recurso, o juiz ordena as diligências que julgue necessárias e, dada vista ao Ministério Público, profere a decisão no prazo de 15 dias.
+
+4 - A decisão não admite recurso.
+
+5 - Para o fim de interposição do recurso a que se refere o n.º 1, pode o requerente, por si ou por mandatário judicial, examinar o processo.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 31/2003 - Diário da República n.º 193/2003, Série I-A de 2003-08-22](https://diariodarepublica.pt/dr/detalhe/lei/31-2003-656109), em vigor a partir de 2003-09-22, produz efeitos a partir de 2003-09-22
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/98 - Diário da República n.º 106/1998, Série I-A de 1998-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214), em vigor a partir de 1998-06-08, produz efeitos a partir de 1998-06-08
+
+###### Artigo 8.º — Confiança do menor
+
+1 - O candidato a adoptante só pode tomar o menor a seu cargo, com vista a futura adopção, mediante confiança administrativa, confiança judicial ou medida de promoção e protecção de confiança a pessoa seleccionada para a adopção.
+
+2 - A confiança administrativa resulta de decisão que entregue o menor, com idade superior a seis semanas, ao candidato a adoptante ou confirme a permanência de menor a seu cargo.
+
+3 - A confiança administrativa só pode ser atribuída se, após audição do representante legal e de quem tiver a guarda de direito e de facto do menor e, ainda, do menor com idade superior a 12 anos, resultar, inequivocamente, que estes não se opõem a tal decisão.
+
+4 - Estando pendente processo de promoção e protecção ou tutelar cível, é também necessário que o tribunal, a requerimento do Ministério Público ou do organismo de segurança social, considere que a confiança administrativa corresponde ao interesse do menor.
+
+5 - Para os efeitos previstos no número anterior, considera-se que tem a guarda de facto quem, nas situações previstas nos artigos 1915.º e 1918.º do Código Civil, e não havendo qualquer decisão judicial nesse sentido, vem assumindo com continuidade as funções essenciais próprias do poder paternal.
+
+6 - O organismo de segurança social deve:
+
+a) Comunicar, em cinco dias, ao Ministério Público junto do tribunal de família e menores da área de residência do menor a decisão relativa à confiança administrativa e os respectivos fundamentos, bem como a oposição que, nos termos do n.º 3, tenha impedido a confiança;
+
+b) Efectuar as comunicações necessárias à conservatória do registo civil onde estiver lavrado o assento de nascimento do menor, para efeitos de preservação do segredo de identidade previsto no artigo 1985.º do Código Civil;
+
+c) Emitir e entregar ao candidato a adoptante certificado da data em que o menor lhe foi confiado.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 31/2003 - Diário da República n.º 193/2003, Série I-A de 2003-08-22](https://diariodarepublica.pt/dr/detalhe/lei/31-2003-656109), em vigor a partir de 2003-09-22, produz efeitos a partir de 2003-09-22
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/98 - Diário da República n.º 106/1998, Série I-A de 1998-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214), em vigor a partir de 1998-06-08, produz efeitos a partir de 1998-06-08
+
+###### Artigo 9.º — Período de pré-adopção e realização de inquérito
+
+1 - Estabelecida a confiança administrativa, a confiança judicial ou confiança a pessoa seleccionada para a adopção, e após a verificação do início do processo de vinculação observada, o organismo de segurança social procede ao acompanhamento da situação do menor durante um período de pré-adopção não superior a seis meses e à realização do inquérito a que se refere o n.º 2 do artigo 1973.º do Código Civil.
+
+2 - Quando considere verificadas as condições para ser requerida a adopção, ou decorrido o período de pré-adopção, o organismo de segurança social elabora, em 30 dias, o relatório do inquérito.
+
+3 - O organismo de segurança social notifica o candidato a adoptante do resultado do inquérito, fornecendo-lhe cópia do relatório.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 31/2003 - Diário da República n.º 193/2003, Série I-A de 2003-08-22](https://diariodarepublica.pt/dr/detalhe/lei/31-2003-656109), em vigor a partir de 2003-09-22, produz efeitos a partir de 2003-09-22
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/98 - Diário da República n.º 106/1998, Série I-A de 1998-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214), em vigor a partir de 1998-06-08, produz efeitos a partir de 1998-06-08
+
+###### Artigo 10.º — Pedido de adopção
+
+1 - A adopção só pode ser requerida após a notificação prevista no artigo anterior ou decorrido o prazo de elaboração do relatório.
+
+2 - Caso a adopção não seja requerida dentro do prazo de um ano, o organismo de segurança social reapreciará obrigatoriamente a situação.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/98 - Diário da República n.º 106/1998, Série I-A de 1998-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214), em vigor a partir de 1998-06-08, produz efeitos a partir de 1998-06-08
+
+###### Artigo 11.º — Pessoal com formação adequada
+
+1 - Os organismos de segurança social devem providenciar no sentido de o acompanhamento e o apoio às situações de adopção serem assegurados por equipas técnicas pluridisciplinares suficientemente dimensionadas e qualificadas em termos de recursos humanos, integrando designadamente as valências da psicologia, do serviço social, do direito e da educação.
+
+2 - As equipas que intervêm no estudo da situação social e jurídica da criança e do jovem e na concretização do seu projecto de vida, com vista à sua adopção, devem ser autónomas e distintas relativamente às equipas que intervêm na selecção dos candidatos a adoptantes.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 31/2003 - Diário da República n.º 193/2003, Série I-A de 2003-08-22](https://diariodarepublica.pt/dr/detalhe/lei/31-2003-656109), em vigor a partir de 2003-09-22, produz efeitos a partir de 2003-09-22
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/98 - Diário da República n.º 106/1998, Série I-A de 1998-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214), em vigor a partir de 1998-06-08, produz efeitos a partir de 1998-06-08
+
+###### Artigo 11.º-A — Responsável pelos processos de adopção
+
+Em cada organismo de segurança social deve existir um responsável pelo accionamento e seguimento de todos os procedimentos e processos tendentes à instauração de adopções.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Aditado pelo/a Artigo 7.º do/a [Lei n.º 31/2003 - Diário da República n.º 193/2003, Série I-A de 2003-08-22](https://diariodarepublica.pt/dr/detalhe/lei/31-2003-656109), em vigor a partir de 2003-09-22, produz efeitos a partir de 2003-09-22
+
+###### Artigo 11.º-B — Listas nacionais para a adopção
+
+Devem existir, no âmbito dos organismos de segurança social, listas nacionais dos candidatos seleccionados para a adopção, bem como das crianças e dos jovens em situação de adoptabilidade, por forma a aumentar as possibilidades de adopção e a melhor adequação na escolha dos candidatos a adoptantes e dos menores que lhes sejam confiados para a adopção.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Aditado pelo/a Artigo 7.º do/a [Lei n.º 31/2003 - Diário da República n.º 193/2003, Série I-A de 2003-08-22](https://diariodarepublica.pt/dr/detalhe/lei/31-2003-656109), em vigor a partir de 2003-09-22, produz efeitos a partir de 2003-09-22
+
+###### Artigo 11.º-C — Regras de procedimentos e de boas práticas
+
+A definição de padrões mínimos de qualidade dos serviços de adopção, bem como de procedimentos a observar na definição de projectos de vida e no encaminhamento de crianças e jovens para a adopção e na selecção dos candidatos a adoptantes, constará de normas a aplicar uniformemente por todos os organismos de segurança social.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Aditado pelo/a Artigo 7.º do/a [Lei n.º 31/2003 - Diário da República n.º 193/2003, Série I-A de 2003-08-22](https://diariodarepublica.pt/dr/detalhe/lei/31-2003-656109), em vigor a partir de 2003-09-22, produz efeitos a partir de 2003-09-22
+
+###### Artigo 12.º — Comunicações do tribunal
+
+O tribunal deve comunicar ao organismo de segurança social o consentimento prévio para a adopção e remeter cópias das sentenças proferidas nos processos de promoção e protecção, quando for aplicada a medida de confiança a pessoa seleccionada para a adopção ou de confiança a instituição com vista a futura adopção, nos processos de confiança judicial e nos processos de adopção e seus incidentes.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 31/2003 - Diário da República n.º 193/2003, Série I-A de 2003-08-22](https://diariodarepublica.pt/dr/detalhe/lei/31-2003-656109), em vigor a partir de 2003-09-22, produz efeitos a partir de 2003-09-22
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/98 - Diário da República n.º 106/1998, Série I-A de 1998-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214), em vigor a partir de 1998-06-08, produz efeitos a partir de 1998-06-08
+
+###### Artigo 13.º — Adopção de filho do cônjuge do adoptante
+
+1 - Se o adoptando for filho do cônjuge do adoptante, à comunicação prevista no n.º 1 do artigo 6.º seguir-se-á o período de pré-adopção, que não excederá três meses, sendo correspondentemente aplicável o disposto no artigo 9.º
+
+2 - À adopção prevista no número anterior não é aplicável o disposto no n.º 2 do artigo 10.º
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/98 - Diário da República n.º 106/1998, Série I-A de 1998-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214), em vigor a partir de 1998-06-08, produz efeitos a partir de 1998-06-08
+
+### Capítulo IV — Colocação no estrangeiro de menores residentes em Portugal com vista à sua adopção
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+###### Artigo 14.º — Necessidade de prévia decisão judicial
+
+1 - A colocação no estrangeiro de menores residentes em Portugal com vista à adopção depende de prévia decisão judicial de aplicação de medida de promoção e protecção de confiança a pessoa seleccionada para a adopção ou a instituição com vista a futura adopção, ou de confiança judicial do menor.
+
+2 - À confiança judicial prevista no número anterior aplica-se, com as necessárias adaptações, o disposto no artigo 1978.º do Código Civil e nos artigos 164.º, 165.º, 166.º e 167.º do Decreto-Lei n.º 314/78, de 27 de Outubro.
+
+3 - Sempre que tenha sido decretada confiança judicial do menor ou confiança a pessoa seleccionada para a adopção sem referência à colocação do menor no estrangeiro, o tribunal, a requerimento do Ministério Público ou da segurança social, após verificar os requisitos do artigo 16.º, transfere a curadoria provisória do menor para o candidato a adoptante, no mesmo processo.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 31/2003 - Diário da República n.º 193/2003, Série I-A de 2003-08-22](https://diariodarepublica.pt/dr/detalhe/lei/31-2003-656109), em vigor a partir de 2003-09-22, produz efeitos a partir de 2003-09-22
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/98 - Diário da República n.º 106/1998, Série I-A de 1998-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214), em vigor a partir de 1998-06-08, produz efeitos a partir de 1998-06-08
+
+###### Artigo 15.º — Princípio da subsidiariedade
+
+1 - Quando se mostrar viável a adopção em Portugal, não é permitida a colocação de menor com vista à sua adopção no estrangeiro.
+
+2 - Para efeitos do disposto no número anterior, considera-se viável a adopção em Portugal quando, à data do pedido de confiança judicial ou da aplicação de medida de promoção e protecção de confiança a pessoa seleccionada para a adopção ou a instituição com vista a futura adopção, existam candidatos residentes em território nacional cuja pretensão se apresente com probabilidade de vir a proceder em tempo útil, tendo em atenção o interesse do menor.
+
+3 - Não é aplicável o disposto no n.º 1 se o menor for da nacionalidade do candidato a adoptante ou filho do cônjuge deste ou se o interesse do menor aconselhar a adopção no estrangeiro.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Alterado pelo/a [Lei n.º 28/2007 - Diário da República n.º 148/2007, Série I de 2007-08-02](https://diariodarepublica.pt/dr/detalhe/lei/28-2007-636450), em vigor a partir de 2007-08-07, produz efeitos a partir de 2007-08-07
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 31/2003 - Diário da República n.º 193/2003, Série I-A de 2003-08-22](https://diariodarepublica.pt/dr/detalhe/lei/31-2003-656109), em vigor a partir de 2003-09-22, produz efeitos a partir de 2003-09-22
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/98 - Diário da República n.º 106/1998, Série I-A de 1998-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214), em vigor a partir de 1998-06-08, produz efeitos a partir de 1998-06-08
+
+###### Artigo 16.º — Requisitos da colocação
+
+A colocação do menor no estrangeiro, nos termos e para os efeitos previstos no artigo 15.º, só poderá ser deferida:
+
+a) Se for prestado consentimento ou se verificarem as condições que justificam a sua dispensa, nos termos da lei portuguesa;
+
+b) Se os serviços competentes segundo a lei do Estado da residência dos candidatos a adoptantes reconhecerem estes como idóneos e a adopção do menor em causa como possível no respectivo país;
+
+c) Se estiver previsto um período de convivência entre o menor e o candidato a adoptante suficiente para avaliar da conveniência da constituição do vínculo;
+
+d) Se houver indícios de que a futura adopção apresenta vantagens reais para o adoptando e se funda em motivos legítimos e for razoável supor que entre adoptante e adoptando virá a estabelecer-se um vínculo semelhante ao da filiação.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/98 - Diário da República n.º 106/1998, Série I-A de 1998-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214), em vigor a partir de 1998-06-08, produz efeitos a partir de 1998-06-08
+
+###### Artigo 17.º — Manifestação e apreciação da vontade de adoptar
+
+1 - A manifestação da vontade de adoptar deve ser dirigida directamente à autoridade central portuguesa pela autoridade central ou outros serviços competentes do país de residência dos candidatos, ou ainda por intermédio de entidade autorizada, quer em Portugal, quer no país da residência dos candidatos, a exercer actividade mediadora nesta matéria.
+
+2 - Recebida a pretensão de adoptar, a autoridade central procede à sua apreciação, no prazo de 10 dias, aceitando-a, rejeitando-a ou convidando a completá-la ou aperfeiçoá-la, e comunica a decisão à entidade que haja remetido a pretensão.
+
+3 - A pretensão deve ser instruída com os documentos que forem necessários à demonstração de que os candidatos reúnem os requisitos previstos no artigo anterior.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/98 - Diário da República n.º 106/1998, Série I-A de 1998-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214), em vigor a partir de 1998-06-08, produz efeitos a partir de 1998-06-08
+
+###### Artigo 18.º — Estudo da viabilidade
+
+1 - Na situação referida no n.º 3 do artigo 4.º, a viabilidade concreta da adopção pretendida será analisada conjuntamente pela autoridade central portuguesa e pelo organismo de segurança social da área de residência do menor, levando em conta o perfil dos candidatos e as características daquele.
+
+2 - Para os efeitos do disposto no número anterior, o organismo de segurança social elaborará estudo donde constem a identidade do menor, a apreciação da possibilidade de adopção, a caracterização do meio social e da evolução pessoal e familiar do menor, o seu passado médico e o da sua família, bem como os demais elementos que considere necessários, designadamente os referidos no artigo 16.º
+
+3 - O relatório será comunicado pela autoridade central à autoridade que apresentou a pretensão de adoptar.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/98 - Diário da República n.º 106/1998, Série I-A de 1998-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214), em vigor a partir de 1998-06-08, produz efeitos a partir de 1998-06-08
+
+###### Artigo 19.º — Confiança judicial
+
+1 - Caso se conclua pela viabilidade da adopção, o organismo de segurança social providenciará junto do Ministério Público para que a confiança judicial seja transferida para o candidato a adoptante.
+
+2 - Para efeitos do disposto no número anterior, as autoridades centrais dos dois Estados ou a autoridade central e a entidade competente que apresenta a pretensão deverão desenvolver as medidas necessárias com vista à obtenção de autorização de saída do Estado de origem e de entrada e permanência no Estado de acolhimento.
+
+3 - A decisão proferida num processo de confiança judicial que não tenha sido requerida no âmbito de um processo de adopção internacional também é válida para esses efeitos quando se verificarem os outros requisitos da adopção internacional.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 31/2003 - Diário da República n.º 193/2003, Série I-A de 2003-08-22](https://diariodarepublica.pt/dr/detalhe/lei/31-2003-656109), em vigor a partir de 2003-09-22, produz efeitos a partir de 2003-09-22
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/98 - Diário da República n.º 106/1998, Série I-A de 1998-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214), em vigor a partir de 1998-06-08, produz efeitos a partir de 1998-06-08
+
+###### Artigo 20.º — Acompanhamento e reapreciação da situação
+
+1 - Durante o período de pré-adopção, a autoridade central acompanhará a evolução da situação, através de contactos regulares com a autoridade central do país de residência dos candidatos ou com a entidade competente para o efeito.
+
+2 - Caso não esteja previsto no país de acolhimento um período de pré-adopção, o candidato a adoptante deverá permanecer em Portugal durante um período de tempo suficiente para avaliar da conveniência da constituição do vínculo.
+
+3 - Sempre que dos acompanhamentos referidos nos números anteriores se conclua que a situação não corresponde ao interesse do menor, serão tomadas as medidas necessárias à protecção do menor, pondo-se em prática um projecto de vida alternativo que salvaguarde aquele interesse.
+
+4 - A autoridade central remeterá cópia das informações prestadas ao organismo de segurança social e ao tribunal que tiver decidido a confiança judicial do menor.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 31/2003 - Diário da República n.º 193/2003, Série I-A de 2003-08-22](https://diariodarepublica.pt/dr/detalhe/lei/31-2003-656109), em vigor a partir de 2003-09-22, produz efeitos a partir de 2003-09-22
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/98 - Diário da República n.º 106/1998, Série I-A de 1998-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214), em vigor a partir de 1998-06-08, produz efeitos a partir de 1998-06-08
+
+###### Artigo 21.º — Comunicação da decisão
+
+A autoridade central providenciará para que, decretada a adopção no estrangeiro, lhe seja remetida cópia da decisão, que comunicará ao tribunal que tiver decidido a confiança judicial do menor.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/98 - Diário da República n.º 106/1998, Série I-A de 1998-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214), em vigor a partir de 1998-06-08, produz efeitos a partir de 1998-06-08
+
+###### Artigo 22.º — Revisão da decisão
+
+1 - O Ministério Público tem legitimidade para requerer a revisão da decisão estrangeira que decrete a adopção de menor nacional, devendo fazê-lo sempre que esta não tenha sido requerida pelos adoptantes no prazo de três meses a contar da data do trânsito em julgado.
+
+2 - Para os efeitos previstos no número anterior, a autoridade central remeterá ao Ministério Público junto do tribunal competente todos os elementos necessários à revisão.
+
+3 - O tribunal deve remeter à autoridade central cópia da decisão de revisão de decisão estrangeira que decrete a adopção.
+
+4 - No processo de revisão de sentença estrangeira que haja decretado a adopção plena, na citação, nas notificações e no acesso aos autos deverá ser preservado o segredo de identidade, nos termos do artigo 1985.º do Código Civil.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 31/2003 - Diário da República n.º 193/2003, Série I-A de 2003-08-22](https://diariodarepublica.pt/dr/detalhe/lei/31-2003-656109), em vigor a partir de 2003-09-22, produz efeitos a partir de 2003-09-22
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/98 - Diário da República n.º 106/1998, Série I-A de 1998-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214), em vigor a partir de 1998-06-08, produz efeitos a partir de 1998-06-08
+
+### Capítulo V — Adopção por residentes em Portugal de menores residentes no estrangeiro
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+###### Artigo 23.º — Candidatura
+
+1 - Quem, residindo habitualmente em Portugal, pretenda adoptar menor residente no estrangeiro deve apresentar a sua candidatura ao organismo de segurança social da área da sua residência, o qual procederá ao estudo da pretensão, com vista a concluir sobre a aptidão do requerente para a adopção internacional.
+
+2 - À candidatura e ao estudo referidos no número anterior aplica-se o disposto no n.º 2 do artigo 5.º e nos artigos 6.º e 7.º do presente diploma.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/98 - Diário da República n.º 106/1998, Série I-A de 1998-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214), em vigor a partir de 1998-06-08, produz efeitos a partir de 1998-06-08
+
+###### Artigo 24.º — Transmissão da candidatura
+
+Se for reconhecida ao candidato aptidão para a adopção internacional, o organismo de segurança social transmite a candidatura e o estudo referidos no artigo anterior à autoridade central, que, por sua vez, os transmitirá à autoridade central ou a outros serviços competentes do país de residência do adoptando, ou ainda à entidade autorizada, quer em Portugal, quer no país de residência dos candidatos, a exercer actividade mediadora nesta matéria.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/98 - Diário da República n.º 106/1998, Série I-A de 1998-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214), em vigor a partir de 1998-06-08, produz efeitos a partir de 1998-06-08
+
+###### Artigo 25.º — Estudo de viabilidade
+
+1 - A autoridade central analisará com o organismo de segurança social competente a viabilidade da adopção pretendida, tendo em conta o perfil do candidato e o relatório sobre a situação do menor elaborado pela autoridade central ou por outra entidade competente do seu país de residência.
+
+2 - Caso se conclua pela viabilidade da adopção, a autoridade central fará a respectiva comunicação à autoridade central ou à entidade competente do país de residência do menor, devendo assegurar-se os procedimentos previstos no artigo 19.º
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/98 - Diário da República n.º 106/1998, Série I-A de 1998-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214), em vigor a partir de 1998-06-08, produz efeitos a partir de 1998-06-08
+
+###### Artigo 26.º — Acompanhamento do processo
+
+1 - O organismo de segurança social da área de residência do candidato deve comunicar ao Ministério Público o início do período de pré-adopção e acompanhar a situação do menor durante esse período, nos termos referidos no artigo 9.º, mantendo informada a autoridade central sobre a respectiva evolução.
+
+2 - A autoridade central prestará à entidade competente do país de residência do menor as informações relativas ao acompanhamento da situação.
+
+3 - Nas fases ulteriores do processo é aplicável, com as necessárias adaptações, o disposto nos artigos 9.º, 10.º e 20.º
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 31/2003 - Diário da República n.º 193/2003, Série I-A de 2003-08-22](https://diariodarepublica.pt/dr/detalhe/lei/31-2003-656109), em vigor a partir de 2003-09-22, produz efeitos a partir de 2003-09-22
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/98 - Diário da República n.º 106/1998, Série I-A de 1998-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214), em vigor a partir de 1998-06-08, produz efeitos a partir de 1998-06-08
+
+###### Artigo 26.º-A — Revisão de decisão estrangeira
+
+1 - Caso a adopção tenha sido decretada no país de origem do menor, deverá a autoridade central requerer a revisão da decisão estrangeira, sempre que esta não tenha sido requerida pelos adoptantes, no prazo de três meses a contar da data do trânsito em julgado.
+
+2 - Para os efeitos do número anterior, a autoridade central remeterá ao Ministério Público junto do tribunal competente todos os elementos necessários à revisão.
+
+3 - O tribunal deve remeter à autoridade central cópia da revisão da decisão estrangeira de adopção.
+
+4 - No processo de revisão de sentença estrangeira que haja decretado a adopção plena, deve ser preservado o segredo de identidade, nos termos do artigo 1985.º do Código Civil.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Aditado pelo/a Artigo 7.º do/a [Lei n.º 31/2003 - Diário da República n.º 193/2003, Série I-A de 2003-08-22](https://diariodarepublica.pt/dr/detalhe/lei/31-2003-656109), em vigor a partir de 2003-09-22, produz efeitos a partir de 2003-09-22
+
+###### Artigo 27.º — Comunicação da decisão
+
+O organismo de segurança social enviará cópia autenticada da decisão de adopção à autoridade central, que, por sua vez, a remeterá à autoridade central ou à entidade competente do país de residência do adoptando.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/98 - Diário da República n.º 106/1998, Série I-A de 1998-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214), em vigor a partir de 1998-06-08, produz efeitos a partir de 1998-06-08
+
+### Capítulo VI — Disposições finais e transitórias
+
+###### Artigo 28.º — Atribuições da autoridade central
+
+À autoridade central compete, nomeadamente:
+
+a) Exercer as funções de autoridade central prevista em convenções internacionais relativas à adopção de que Portugal seja parte;
+
+b) Preparar acordos e protocolos em matéria de adopção internacional;
+
+c) Acompanhar, prestar a colaboração necessária e avaliar os procedimentos respeitantes à adopção internacional;
+
+d) Proceder à recolha, tratamento e divulgação dos dados estatísticos relativos à adopção internacional;
+
+e) Elaborar e publicar anualmente relatório de actividades, donde constem, designadamente, informações e conclusões sobre as atribuições referidas nas alíneas anteriores.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/98 - Diário da República n.º 106/1998, Série I-A de 1998-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214), em vigor a partir de 1998-06-08, produz efeitos a partir de 1998-06-08
+
+###### Artigo 29.º — Entidades intervenientes
+
+1 - Para os efeitos do presente diploma entende-se por:
+
+a) Organismos de segurança social: os centros regionais de segurança social e, no município de Lisboa, a Santa Casa da Misericórdia de Lisboa;
+
+b) Autoridade central: a Direcção-Geral da Acção Social.
+
+2 - As instituições particulares de solidariedade social que disponham de equipas adequadas, de acordo com o disposto no artigo 11.º, podem actuar como organismos de segurança social nos termos para estes previstos se, por portaria conjunta dos Ministros da Justiça e do Trabalho e da Solidariedade, lhes for reconhecida capacidade para essa actuação.
+
+3 - A autorização para o exercício, em Portugal, da actividade mediadora prevista no n.º 1 do artigo 17.º e no artigo 24.º é concedida por portaria conjunta dos Ministros da Justiça e do Trabalho e da Solidariedade.
+
+4 - A concessão das autorizações previstas nos n.os 2 e 3 está sujeita às condições a estabelecer por decreto regulamentar, que especificará, nomeadamente, as actividades a desenvolver pelas instituições particulares de solidariedade social e pelas entidades mediadoras, assim como a respectiva articulação com os organismos de segurança social.
+
+> Revogado pelo/a Artigo 9.º do/a [Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08](https://diariodarepublica.pt/dr/detalhe/lei/143-2015-70215247), em vigor a partir de 2015-12-07
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/98 - Diário da República n.º 106/1998, Série I-A de 1998-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214), em vigor a partir de 1998-06-08, produz efeitos a partir de 1998-06-08
+
+###### Artigo 30.º — Revogação de direito anterior
+
+São revogados o Decreto-Lei n.º 274/80, de 13 de Agosto, e o artigo 168.º do Decreto-Lei n.º 314/78, de 27 de Outubro.
+
+###### Artigo 31.º — Aplicação no tempo
+
+1 - O presente diploma entra em vigor três meses após a data da sua publicação e não se aplica aos processos judiciais de adopção então pendentes, salvo se as respectivas disposições forem mais favoráveis à constituição de vínculo.
+
+2 - A primeira parte do n.º 3 do artigo 1979.º e a primeira parte do n.º 2 do artigo 1992.º do Código Civil, nas versões dadas pelo artigo 1.º do presente diploma, entram em vigor dois anos após a sua publicação e não se aplicam aos processos judiciais de adopção então pendentes.
+
+3 - São imediatamente aplicáveis, mesmo aos processos pendentes, a alínea b) do artigo 1984.º e o n.º 2 do artigo 1988.º do Código Civil na versão dada pelo artigo 1.º do presente diploma, bem como as disposições do capítulo IV deste.
+
+Visto e aprovado em Conselho de Ministros de 28 de Janeiro de 1993. - Aníbal António Cavaco Silva - Álvaro José Brilhante Laborinho Lúcio - José Albino da Silva Peneda - Luís Manuel Gonçalves Marques Mendes.
+
+Promulgado em 26 de Abril de 1993.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 27 de Abril de 1993.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

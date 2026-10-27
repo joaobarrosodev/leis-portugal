@@ -1,0 +1,804 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:602685:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-971520306",
+ "dre_path": "/dr/detalhe/decreto-lei/21-2009-602685",
+ "source_lastmod": "2026-07-14",
+ "versions": [
+  {
+   "date": "2014-12-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:65990732:por",
+     "title": "Decreto-Lei n.º 182/2014",
+     "published": "2014-12-26",
+     "dre_path": "/dr/detalhe/decreto-lei/182-2014-65990732"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 11",
+    "Altera Artigo 12.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 23.º"
+   ],
+   "fragments": [
+    "971571175",
+    "971571375",
+    "971571575",
+    "971571775",
+    "971571975",
+    "971572175",
+    "971572375",
+    "971572575",
+    "1143517375",
+    "971572975",
+    "971573175",
+    "971573375",
+    "971573575",
+    "1143517575",
+    "1143516275",
+    "971574175",
+    "971574375",
+    "971574575",
+    "1143516475",
+    "971574975",
+    "971575175",
+    "971575375",
+    "971575575",
+    "971575775",
+    "971575975",
+    "971576175",
+    "971576375",
+    "1143516675",
+    "971576775",
+    "971576975",
+    "971577175",
+    "971577375",
+    "971577575",
+    "971577775",
+    "971577975",
+    "971578175",
+    "971578375"
+   ]
+  },
+  {
+   "date": "2015-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66229856:por",
+     "title": "Decreto-Lei n.º 10/2015",
+     "published": "2015-01-16",
+     "dre_path": "/dr/detalhe/decreto-lei/10-2015-66229856"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1147424575",
+    "1147424775",
+    "1147424875",
+    "1147424975",
+    "1147425075",
+    "1147425175",
+    "1147425275",
+    "1147425375",
+    "1147425475",
+    "1147425575",
+    "1147425675",
+    "1147425775",
+    "1147425875",
+    "1147425975",
+    "1147426075",
+    "1147426175",
+    "1147426275",
+    "1147426375",
+    "1147426475",
+    "1147426575",
+    "1147426675",
+    "1147426775",
+    "1147426875",
+    "1147426975",
+    "1147427075",
+    "1147427175",
+    "1147427275",
+    "1147427375",
+    "1147427475",
+    "1147427575",
+    "1147427675",
+    "1147427775",
+    "1147427875",
+    "1147427975",
+    "1147428075",
+    "1147428175",
+    "1147428275"
+   ]
+  }
+ ],
+ "fragments": {
+  "971571175": {
+   "fragment_id": "971571075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Lei n.º 12/2004, de 30 de Março, que estabelece o regime de autorização a que estão sujeitas a instalação e a modificação de estabelecimentos de comércio a retalho e de comércio por grosso em livre serviço e a instalação de conjuntos comerciais prevê, no seu artigo 37.º, que a mesma seja objecto de revisão no prazo de três anos após a sua entrada em vigor, na sequência de apresentação pelo Governo, à Assembleia da República, de um relatório de avaliação da sua aplicação.\n\nA experiência obtida com a aplicação da referida lei demonstrou diversos desajustes, quer relativos à sua estruturação, quer na sua implementação.\n\nCom o presente decreto-lei pretende-se dar cumprimento aos princípios do Programa de Simplificação Administrativa e Legislativa - SIMPLEX, promovendo uma simplificação de procedimentos demasiado complexos e geradores de constrangimentos e morosidade nos processos, bem como um encurtamento dos prazos de decisão, diminuindo, desta forma, os custos de contexto para as empresas.\n\nPor outro lado, regula-se a implantação das estruturas empresariais do comércio, de forma a assegurar a sua inserção espacial, de acordo com critérios que promovam um adequado ordenamento do território, salvaguardem a protecção do ambiente, valorizem os centros urbanos existentes e contribuam para a multiplicidade da oferta comercial e para o abastecimento diversificado das populações.\n\nVisa-se, assim, contribuir para a competitividade do sistema urbano, dinamizando as centralidades urbanas existentes, favorecendo a sociabilidade urbana e a melhoria do abastecimento e da qualidade de vida das populações.\n\nNa apreciação dos novos estabelecimentos e conjuntos comerciais, é dada uma especial relevância à contribuição positiva de tais empreendimentos para a promoção da melhoria do ambiente, preenchendo exigências de eco-eficiência, do desenvolvimento da qualificação do emprego e da responsabilidade social das empresas promotoras dos projectos em apreciação.\n\nEm concreto, e no que concerne ao regime consagrado na Lei n.º 12/2004, de 30 de Março, o presente decreto-lei reduz o universo de estabelecimentos de comércio, isolados ou em grupo, sujeitos ao regime de autorização, pela elevação dos limites das áreas de venda no caso do comércio a retalho e da área bruta locável no caso de conjuntos comerciais.\n\nSão excluídas do regime de autorização as empresas de comércio por grosso e as micro empresas e sujeita ao regime de autorização as modificações em conjuntos comerciais.\n\nÉ imposta a obtenção de informação prévia de localização favorável e da declaração de impacte ambiental favorável, nos casos abrangidos pelo regime jurídico de avaliação de impacte ambiental, anterior ao processo de autorização, eliminando do procedimento os projectos considerados inviáveis quanto à localização e à avaliação de impacte ambiental, evitando, assim, análises e processos decisórios desnecessários.\n\nSão alterados os critérios de autorização de instalação e modificação, de forma a adequá-los aos imperativos comunitários em matéria de concorrência e de liberdade de estabelecimento.\n\nÉ abandonado o sistema de fases de candidatura, penalizador do investimento e dos promotores, adoptando um sistema de entrada de processos contínuo.\n\nPor fim, substitui-se, ao nível da decisão, as três entidades decisórias actualmente existentes - direcção regional de economia, comissões regionais e comissões municipais - por uma única entidade - a comissão de avaliação comercial (COMAC) - que decide, ao nível da NUT III, os pedidos de autorização, com uma periodicidade mensal.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas e a Associação Nacional de Municípios Portugueses.\n\nFoi promovida a audição ao Conselho Nacional do Consumo. Foram ouvidos, a título facultativo, a Associação Portuguesa para a Defesa do Consumidor, a União Geral de Consumidores, a Associação de Consumidores da Região dos Açores e a Federação Nacional das Cooperativas de Consumidores.\n\nForam ouvidos, a título facultativo, a Confederação do Comércio e Serviços de Portugal, a Associação Portuguesa das Empresas de Distribuição, a Associação Portuguesa dos Centros Comerciais, a Associação Empresarial de Portugal e a Associação Industrial Portuguesa.\n\nAssim:\n\nNo uso da autorização legislativa concedida pela Lei n.º 42/2008, de 27 de Agosto, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "971571375": {
+   "fragment_id": "971571275",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "971571575": {
+   "fragment_id": "971571475",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei estabelece o regime jurídico da instalação e da modificação dos estabelecimentos de comércio a retalho e dos conjuntos comerciais."
+  },
+  "971571775": {
+   "fragment_id": "971571675",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - Estão abrangidos pelo presente decreto-lei os seguintes estabelecimentos e conjuntos comerciais:\n\na) Estabelecimentos de comércio a retalho, isoladamente considerados ou inseridos em conjuntos comerciais, que tenham uma área de venda igual ou superior a 2000 m2;\n\nb) Estabelecimentos de comércio a retalho, isoladamente considerados ou inseridos em conjuntos comerciais, independentemente da respectiva área de venda, que pertençam a uma empresa que utilize uma ou mais insígnias ou estejam integrados num grupo, que disponham, a nível nacional, de uma área de venda acumulada igual ou superior a 30 000 m2;\n\nc) Conjuntos comerciais que tenham uma área bruta locável igual ou superior a 8000 m2;\n\nd) Estabelecimentos e conjuntos comerciais referidos nas alíneas anteriores e que se encontrem desactivados há mais de 12 meses, caso os respectivos titulares pretendam reiniciar o seu funcionamento.\n\n2 - O disposto no presente decreto-lei não é aplicável:\n\na) Aos estabelecimentos de comércio a retalho pertencentes a micro empresas juridicamente distintas mas que utilizem uma insígnia comum;\n\nb) Aos estabelecimentos pertencentes a sociedades cujo capital seja subscrito maioritariamente por micro empresas;\n\nc) Aos estabelecimentos especializados de comércio a retalho de armas e munições, de combustíveis para veículos a motor e às farmácias."
+  },
+  "971571975": {
+   "fragment_id": "971571875",
+   "type": 11,
+   "heading": "Artigo 3.º — Regime aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regime aplicável\n\n1 - Está sujeita ao regime de autorização a instalação dos estabelecimentos e conjuntos comerciais referidos no n.º 1 do artigo anterior.\n\n2 - Estão, ainda, sujeitas ao regime de autorização as modificações dos estabelecimentos e conjuntos comerciais referidos no n.º 1 do artigo anterior que configurem:\n\na) Alteração de localização dos estabelecimentos com excepção das referidas na alínea a) do número seguinte;\n\nb) Alteração da tipologia dos estabelecimentos;\n\nc) Aumento da área de venda dos estabelecimentos;\n\nd) Alteração de insígnia ou do titular de exploração dos estabelecimentos, que não ocorra dentro do mesmo grupo;\n\ne) Alteração de localização dos conjuntos comerciais;\n\nf) Alteração da tipologia dos conjuntos comerciais;\n\ng) Aumento da área bruta locável dos conjuntos comerciais.\n\n3 - Estão sujeitas a comunicação as modificações dos estabelecimentos e conjuntos comerciais referidos no n.º 1 do artigo anterior que configurem:\n\na) Alteração de localização de estabelecimentos comerciais no interior de conjuntos comerciais, que não se traduza em aumento de áreas de venda;\n\nb) Diminuição da área de venda dos estabelecimentos comerciais;\n\nc) Alteração de insígnia ou do titular de exploração dos estabelecimentos, dentro do mesmo grupo;\n\nd) Diminuição da área bruta locável dos conjuntos comerciais;\n\ne) Alteração do titular de exploração dos conjuntos comerciais.\n\n4 - As modificações referidas no número anterior são comunicadas à entidade coordenadora referida no artigo 6.º, pelo titular do empreendimento, até 20 dias antes da sua realização.\n\n5 - A comunicação é efectuada electronicamente através de modelo disponibilizado no sistema de informação referido no artigo 7.º"
+  },
+  "971572175": {
+   "fragment_id": "971572075",
+   "type": 11,
+   "heading": "Artigo 4.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Definições\n\nPara efeitos do presente decreto-lei, entende-se por:\n\na) «Área de venda acumulada», compreende o somatório da área de venda em funcionamento, da área de venda autorizada no âmbito da Lei n.º 12/2004, de 30 de Março, mas que ainda não entrou em funcionamento e da área de venda autorizada ao abrigo do regime jurídico da urbanização e da edificação;\n\nb) «Área bruta locável (ABL) do conjunto comercial» a área que produz rendimento no conjunto comercial, quer seja uma área arrendada ou vendida, e que inclui os espaços de armazenagem e escritórios afectos a todos os estabelecimentos;\n\nc) «Área de influência» a freguesia ou o conjunto de freguesias que se integrem na área geográfica definida em função de um limite máximo de tempo de deslocação do consumidor ao estabelecimento ou conjunto comercial em causa, contado a partir deste, o qual pode variar, nomeadamente, em função da respectiva dimensão e tipo de comércio exercido, das estruturas de lazer e de serviços que lhe possam estar associadas, da sua inserção em meio urbano ou rural, ou da qualidade das infra-estruturas que lhe servem de acesso;\n\nd) «Área de venda do estabelecimento» toda a área destinada a venda, onde compradores têm acesso ou os produtos se encontram expostos ou são preparados para entrega imediata, nela se incluindo a zona ocupada pelas caixas de saída e as zonas de circulação dos consumidores internas ao estabelecimento, nomeadamente as escadas de ligação entre os vários pisos;\n\ne) «Centro urbano» o núcleo urbano consolidado conforme previsto nos instrumentos de planeamento territorial em vigor ou, não estando aí definido, a zona urbana consolidada nos termos do disposto na alínea o) do artigo 2.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, com a redacção que lhe foi dada pela Lei n.º 60/2007, de 4 de Setembro;\n\nf) «Conjunto comercial» o empreendimento planeado e integrado, composto por um ou mais edifícios nos quais se encontra instalado um conjunto diversificado de estabelecimentos de comércio a retalho e ou de prestação de serviços, quer sejam ou não propriedade ou explorados pela mesma entidade, que preencha cumulativamente os seguintes requisitos:\n\ni) Disponha de um conjunto de facilidades concebidas para permitir a uma mesma clientela o acesso aos diversos estabelecimentos;\n\nii) Seja objecto de uma gestão comum, responsável, designadamente, pela disponibilização de serviços colectivos, pela instituição de práticas comuns e pela política de comunicação e animação do empreendimento;\n\nAdoptando uma das seguintes tipologias:\n\niii) Centro comercial tradicional - compreende estabelecimentos indiferenciados ou especializados integrados em empreendimento fechado ou «a céu aberto»;\n\niv) Centro comercial especializado - compreende, nomeadamente, os denominados retail park, os outlet centre ou os temáticos. Incluem quer estabelecimentos especializados, geralmente de maior dimensão, com acesso directo ao parque de estacionamento ou a áreas pedonais, quer estabelecimentos, de pequena e média dimensão, onde produtores e retalhistas vendem os seus produtos com desconto no preço provenientes de excedentes, bem como artigos com pequenos defeitos, ou outros desenvolvidos em torno de uma categoria específica de comércio especializado;\n\ng) «Empresa», qualquer entidade abrangida pelo n.º 1 do artigo 2.º da Lei n.º 18/2003, de 11 de Junho;\n\nh) «Estabelecimento de comércio a retalho» o local no qual se exerce a actividade de comércio a retalho, tal como é definida na alínea b) do n.º 1 do artigo 1.º do Decreto-Lei n.º 339/85, de 21 de Agosto;\n\ni) «Estabelecimento de comércio alimentar» o local no qual se exerce exclusivamente uma actividade de comércio alimentar ou onde esta representa uma percentagem igual ou superior a 90 % do respectivo volume total de vendas;\n\nj) «Estabelecimento de comércio não alimentar» o local no qual se exerce exclusivamente uma actividade de comércio não alimentar ou onde esta representa uma percentagem igual ou superior a 90 % do respectivo volume total de vendas;\n\nl) «Estabelecimento de comércio misto» o local no qual se exercem, em simultâneo, actividades de comércio alimentar e não alimentar e a que não seja aplicável o disposto nas alíneas i) e j);\n\nm) «Formato de estabelecimento do ramo alimentar ou misto» a dimensão da sua da área de venda. Para a determinação do formato do estabelecimento do ramo alimentar ou misto são consideradas as seguintes áreas de venda:\n\ni) Área de venda (menor que) 400 m2 - minimercado ou pequeno supermercado;\n\nii) Área de venda (igual ou maior que) 400 m2 e (menor que) 2000 m2 - supermercado;\n\niii) Área de venda (igual ou maior que) 2000 m2 - hipermercado;\n\nn) «Gestor do procedimento» o técnico designado pela entidade coordenadora para efeitos de verificação da instrução do pedido de autorização e acompanhamento das várias etapas do processo, constituindo-se como interlocutor privilegiado do requerente;\n\no) «Grupo» o conjunto de empresas que, embora juridicamente distintas, mantêm entre si laços de interdependência ou subordinação decorrentes da utilização da mesma insígnia ou os direitos ou poderes enumerados n.º 1 do artigo 10.º da Lei n.º 18/2003, de 11 de Junho;\n\np) «Instalação» a criação de um estabelecimento de comércio a retalho ou conjunto comercial, quer tal se traduza em novas edificações, quer resulte de obras em edificações já existentes;\n\nq) «Interlocutor responsável pelo projecto» a pessoa ou entidade designada pelo requerente para efeitos de demonstração de que o projecto se encontra em conformidade com a legislação aplicável e para o relacionamento com a entidade coordenadora e as demais entidades intervenientes no processo de autorização;\n\nr) «Responsabilidade social da empresa» a integração voluntária, por parte da empresa, de preocupações sociais na prossecução da sua actividade e interligação da mesma com as comunidades locais e outras partes interessadas;\n\ns) «Tipologia de estabelecimentos comerciais» os estabelecimentos de comércio a retalho alimentar e misto e não alimentar;\n\nt) «Tipologia de conjuntos comerciais» o centro comercial tradicional e o especializado."
+  },
+  "971572375": {
+   "fragment_id": "971572275",
+   "type": 1,
+   "heading": "Capítulo II — Autorização de instalação e de modificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Autorização de instalação e de modificação"
+  },
+  "971572575": {
+   "fragment_id": "971572475",
+   "type": 11,
+   "heading": "Artigo 5.º — Informação prévia de localização e declaração de impacte ambiental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Informação prévia de localização e declaração de impacte ambiental\n\n1 - Para efeitos de instrução do processo de autorização de instalação e de modificação dos estabelecimentos e conjuntos comerciais, e desde que o mesmo implique uma operação urbanística sujeita a controlo prévio, os interessados devem solicitar à câmara municipal pedido de informação prévia sobre a conformidade do empreendimento na localização pretendida com os instrumentos de gestão territorial vigentes, nos termos dos artigos 14.º e seguintes do Decreto-Lei n.º 555/99, de 16 de Dezembro, com a redacção que lhe foi dada pela Lei n.º 60/2007, de 4 de Setembro.\n\n2 - No caso dos estabelecimentos e conjuntos comerciais abrangidos pelo regime jurídico de avaliação de impacte ambiental (AIA), para além do disposto no número anterior, os interessados devem instruir o processo com declaração de impacte ambiental (DIA) favorável ou condicionalmente favorável e, no caso do procedimento de AIA ter decorrido em fase de estudo prévio, com o parecer relativo à conformidade do projecto de execução com a DIA.\n\n3 - Caso a instalação ou modificação dos estabelecimentos ou conjuntos comerciais ocorra em instalações anteriormente afectas ao uso comercial e desde que o pedido não implique alteração de parâmetros urbanísticos, a informação prévia de localização pode ser substituída pelo alvará de licença de construção ou documento comprovativo da admissão da comunicação prévia que admitam aquele fim ou utilização no referido lote ou prédio ou pelo alvará de autorização de utilização para fins comerciais.\n\n4 - No caso de estabelecimentos de comércio inseridos em conjuntos comerciais, a informação prévia de localização é substituída pelo alvará de autorização de utilização do conjunto comercial ou pela autorização de instalação do conjunto comercial, caso exista."
+  },
+  "1143517375": {
+   "fragment_id": "971572675",
+   "type": 11,
+   "heading": "Artigo 6.º — Entidade coordenadora",
+   "in_force_from": "2014-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 182/2014 - Diário da República n.º 249/2014, Série I de 2014-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2014-65990732), em vigor a partir de 2014-12-27."
+   ],
+   "markdown": "###### Artigo 6.º — Entidade coordenadora\n\n1 - A coordenação do processo de autorização de instalação e de modificação, incluindo o apoio técnico e administrativo à entidade decisora, cabe à Direcção-Geral das Actividades Económicas (DGAE), designada por entidade coordenadora, a qual é considerada, para o efeito, o interlocutor único do requerente.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 182/2014 - Diário da República n.º 249/2014, Série I de 2014-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2014-65990732), em vigor a partir de 2014-12-27."
+  },
+  "971572975": {
+   "fragment_id": "971572875",
+   "type": 11,
+   "heading": "Artigo 7.º — Sistema de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Sistema de informação\n\n1 - A tramitação dos procedimentos previstos no presente decreto-lei é realizada de forma desmaterializada logo que estejam em funcionamento os respectivos sistemas de informação, os quais, de forma integrada, entre outras funcionalidades, permitem:\n\na) A entrega de pedidos de autorização, comunicações e documentos;\n\nb) A consulta pelos interessados do estado do respectivo processo;\n\nc) O envio e recepção do relatório final;\n\nd) A emissão da decisão.\n\n2 - A prestação de informação às diferentes entidades com competência no âmbito do presente decreto-lei é realizada de forma desmaterializada, por meio da integração e garantia de interoperacionalidade entre os respectivos sistemas de informação.\n\n3 - É atribuído um número de referência a cada processo no início da tramitação que é mantido em todos os documentos em que se traduzem os actos e formalidades da competência da entidade coordenadora ou da competência de qualquer das entidades intervenientes.\n\n4 - As funcionalidades do sistema de informação incluem a rejeição de operações de cuja execução resultariam vícios ou deficiências de instrução, designadamente recusando o recebimento dos pedidos que não estejam devidamente instruídos.\n\n5 - Os sistemas de informação produzem notificações automáticas para as entidades envolvidas sempre que novos elementos sejam adicionados ao processo."
+  },
+  "971573175": {
+   "fragment_id": "971573075",
+   "type": 11,
+   "heading": "Artigo 8.º — Tramitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Tramitação\n\n1 - Os procedimentos previstos no presente decreto-lei iniciam-se através de requerimento ou comunicação apresentados com recurso a meios electrónicos e através do sistema previsto no artigo anterior, dirigidos à entidade coordenadora, acompanhados dos elementos instrutórios referidos no anexo ao presente decreto-lei e que dele faz parte integrante.\n\n2 - Com a apresentação do requerimento ou comunicação por via electrónica, é emitido recibo de recepção entregue pela mesma forma.\n\n3 - O requerente deve identificar um interlocutor responsável pelo processo e a entidade coordenadora designa um gestor do procedimento, a quem compete assegurar o desenvolvimento da tramitação processual, acompanhando, nomeadamente, a instrução, o cumprimento dos prazos e a prestação de informação e esclarecimentos aos requerentes.\n\n4 - Quando na verificação dos documentos instrutórios do processo se constatar que estes não se encontram em conformidade com o disposto no n.º 1, a entidade coordenadora rejeita liminarmente o pedido de autorização, sem prejuízo do disposto nos n.os 3 e 4 do artigo 9.º\n\n5 - O processo só se encontra devidamente instruído na data da recepção do último dos elementos em falta."
+  },
+  "971573375": {
+   "fragment_id": "971573275",
+   "type": 11,
+   "heading": "Artigo 9.º — Instrução técnica do processo e relatório final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Instrução técnica do processo e relatório final\n\n1 - A DGAE efectua a instrução técnica do processo e elabora um relatório final no qual formula uma proposta de decisão para a COMAC no prazo de 30 dias contados da data da recepção do processo devidamente instruído nos termos do artigo anterior.\n\n2 - O relatório referido no número anterior é efectuado com base nos parâmetros referidos no artigo 10.º\n\n3 - A DGAE pode solicitar, nos primeiros 10 dias do prazo, esclarecimentos ou informações complementares, considerando-se suspenso o prazo para elaboração do respectivo relatório até à recepção dos elementos solicitados.\n\n4 - Os requerentes dispõem de um prazo de 10 dias a contar da data da recepção do respectivo pedido para efeitos de resposta."
+  },
+  "971573575": {
+   "fragment_id": "971573475",
+   "type": 11,
+   "heading": "Artigo 10.º — Parâmetros para a elaboração do relatório final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Parâmetros para a elaboração do relatório final\n\n1 - Para efeito da elaboração do relatório final, a DGAE procede à pontuação dos processos em função da valia do projecto (VP), de acordo com os seguintes parâmetros definidos para as diferentes tipologias comerciais:\n\na) Contribuição do estabelecimento para a multiplicidade da oferta comercial, tanto em formatos, no retalho alimentar e misto, como em insígnias, no retalho não alimentar, de forma a promover a concorrência efectiva entre empresas e grupos na área de influência, atendendo-se, nos conjuntos comerciais, à diversidade das suas actividades;\n\nb) Avaliação dos serviços prestados ao consumidor, nomeadamente os que promovam o conforto na compra, uma melhor integração das pessoas com deficiências e incapacidades e a adesão a processos de resolução de conflitos de consumo;\n\nc) Avaliação da qualidade do emprego no estabelecimento e da responsabilidade social da empresa;\n\nd) Avaliação da integração do estabelecimento ou conjunto comercial no ambiente urbano, fortalecendo a capacidade de atracção do centro urbano como destino comercial e de lazer e contribuindo para a diminuição das deslocações pendulares;\n\ne) Contribuição do estabelecimento ou conjunto comercial para a eficiência energética ou utilização de energias renováveis, utilização de materiais recicláveis e ou degradáveis e reciclagem de resíduos.\n\n2 - A forma de cálculo da VP resulta do somatório das pontuações obtidas em cada um dos parâmetros referidos no número anterior, sendo positiva quando o processo obtenha uma VP superior a 50 % da pontuação global.\n\n3 - Os compromissos assumidos nas alíneas b), c) e e) do n.º 1 devem ser apresentados de forma quantificada e podem ser objecto de verificação anual pela entidade fiscalizadora, durante um período de cinco anos, contado da data de entrada em funcionamento do estabelecimento ou conjunto comercial.\n\n4 - A metodologia para a determinação da VP, a sua aplicação aos estabelecimentos de retalho alimentar e misto, não alimentar e conjuntos comerciais, bem como as restantes regras técnicas necessárias à execução dos parâmetros para a elaboração do relatório, são fixadas por portaria do membro do Governo responsável pela área do comércio."
+  },
+  "1143517575": {
+   "fragment_id": "971573675",
+   "type": 11,
+   "heading": "Artigo 11.º — Comissão de autorização comercial",
+   "in_force_from": "2014-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 182/2014 - Diário da República n.º 249/2014, Série I de 2014-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2014-65990732), em vigor a partir de 2014-12-27."
+   ],
+   "markdown": "###### Artigo 11.º — Comissão de autorização comercial\n\n1 - A competência para conceder a autorização de instalação e modificação referida nos n.os 1 e 2 do artigo 3.º cabe à comissão de autorização comercial (COMAC) territorialmente competente.\n\n2 - As COMAC têm a seguinte composição:\n\na) Um autarca indicado pelo conjunto de municípios organizados territorialmente com base nas unidades de nível iii das NUTS em que se pretende instalar ou modificar o estabelecimento de comércio a retalho ou o conjunto comercial, que preside;\n\nb) O presidente da câmara municipal respectiva;\n\nc) O presidente da comissão de coordenação e desenvolvimento regional (CCDR) territorialmente competente;\n\nd) O director-geral das Actividades Económicas;\n\ne) [Revogada.]\n\n3 - As entidades referidas no número anterior podem fazer-se representar por um elemento por si designado.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 182/2014 - Diário da República n.º 249/2014, Série I de 2014-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2014-65990732), em vigor a partir de 2014-12-27."
+  },
+  "1143516275": {
+   "fragment_id": "971573875",
+   "type": 11,
+   "heading": "Artigo 12.º — Funcionamento da COMAC",
+   "in_force_from": "2014-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 182/2014 - Diário da República n.º 249/2014, Série I de 2014-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2014-65990732), em vigor a partir de 2014-12-27."
+   ],
+   "markdown": "###### Artigo 12.º — Funcionamento da COMAC\n\n1 - As COMAC reúnem, mensalmente, para apreciação de todos os processos que lhe tenham sido submetidos pela entidade coordenadora.\n\n2 - As regras de funcionamento da COMAC são fixadas por portaria do membro do Governo responsável pela área do comércio.\n\n3 - Os membros da COMAC ficam sujeitos às regras de confidencialidade aplicáveis aos funcionários do Estado, relativamente aos factos de que tomem conhecimento no exercício das suas funções.\n\n4 - É admitida a participação dos membros nas reuniões da COMAC por recurso a videoconferência ou teleconferência.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 182/2014 - Diário da República n.º 249/2014, Série I de 2014-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2014-65990732), em vigor a partir de 2014-12-27."
+  },
+  "971574175": {
+   "fragment_id": "971574075",
+   "type": 11,
+   "heading": "Artigo 13.º — Critérios de decisão da COMAC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Critérios de decisão da COMAC\n\n1 - As decisões da COMAC são emitidas após análise do relatório final efectuado pela DGAE, a que se refere o n.º 1 do artigo 9.º, sendo a apreciação dos processos efectuada com base nos seguintes critérios:\n\na) Respeito pelas normas de ordenamento do território em vigor, bem como adequação a planos sectoriais ou outras normas orientadoras definidas nos diversos instrumentos de planeamento territorial;\n\nb) Contribuição positiva em matéria de protecção ambiental, valorizando projectos energeticamente mais eficientes e com menor impacte na envolvente, avaliada de acordo com a alínea e) do n.º 1 do artigo 10.º;\n\nc) Avaliação da articulação funcional do estabelecimento ou conjunto comercial com o centro urbano, como forma de qualificar as centralidades existentes, promover a atractividade urbana, diminuir as deslocações pendulares e reduzir o congestionamento das infra-estruturas, avaliada de acordo com a alínea d) do n.º 1 do artigo 10.º;\n\nd) Contribuição para o desenvolvimento da qualidade do emprego, valorizando-se a responsabilidade social, avaliada de acordo com a alínea c) do n.º 1 do artigo 10.º;\n\ne) Contribuição para a multiplicidade da oferta comercial, avaliada de acordo com a alínea a) do n.º 1 do artigo 10.º;\n\nf) Contribuição para a diversificação e qualificação dos serviços ao consumidor, avaliada de acordo com a alínea b) do n.º 1 do artigo 10.º\n\n2 - Nos casos em que a VP não atinja a pontuação global positiva referida no n.º 2 do artigo 10.º, a decisão da COMAC é desfavorável."
+  },
+  "971574375": {
+   "fragment_id": "971574275",
+   "type": 11,
+   "heading": "Artigo 14.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Decisão\n\n1 - A entidade coordenadora envia aos membros da COMAC competente para efeitos de decisão, cópia do processo e do relatório da DGAE referido no n.º 1 do artigo 9.º\n\n2 - Na falta de emissão do relatório referido no número anterior, é emitido, pela entidade coordenadora, documento comprovativo de se encontrar decorrido o prazo necessário para a sua emissão.\n\n3 - Para efeitos de decisão, a COMAC analisa, em cada reunião, todos os processos que lhe tenham sido remetidos até cinco dias antes pela entidade coordenadora.\n\n4 - Podem ser solicitados, através da entidade coordenadora, e de uma só vez, esclarecimentos ou informações complementares à entidade que emitiu o relatório e ao requerente, os quais dispõem de um prazo máximo de 15 dias para efeitos de resposta, sendo o processo submetido a decisão na reunião seguinte.\n\n5 - A decisão tomada é acompanhada da imposição de obrigações destinadas a garantir o cumprimento de compromissos assumidos pelo requerente e que tenham constituído pressupostos da autorização.\n\n6 - A entidade coordenadora notifica o requerente da decisão, só podendo o documento comprovativo da autorização concedida ser emitido após o pagamento da taxa devida, nos termos do artigo 25.º do presente decreto-lei.\n\n7 - O documento comprovativo referido no número anterior é considerado para efeitos do disposto no artigo 37.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, com a redacção que lhe foi dada pela Lei n.º 60/2007, de 4 de Setembro."
+  },
+  "971574575": {
+   "fragment_id": "971574475",
+   "type": 11,
+   "heading": "Artigo 15.º — Impugnação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Impugnação\n\nDa decisão da COMAC cabe impugnação para os tribunais administrativos de círculo, cabendo à secretaria-geral do ministério responsável pela área do comércio, com a colaboração das entidades intervenientes no processo de autorização, prestar o necessário apoio jurídico."
+  },
+  "1143516475": {
+   "fragment_id": "971574675",
+   "type": 11,
+   "heading": "Artigo 16.º — Caducidade da autorização",
+   "in_force_from": "2014-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 182/2014 - Diário da República n.º 249/2014, Série I de 2014-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2014-65990732), em vigor a partir de 2014-12-27."
+   ],
+   "markdown": "###### Artigo 16.º — Caducidade da autorização\n\n1 - A autorização concedida caduca se, no prazo de seis ou oito anos a contar da data da sua emissão, não se verificar a entrada em funcionamento, respetivamente, do estabelecimento de comércio ou do conjunto comercial a que a mesma respeita.\n\n2 - No caso dos estabelecimentos comerciais inseridos em conjuntos comerciais, a autorização caduca na data da caducidade da autorização do conjunto comercial.\n\n3 - A título excepcional, a COMAC pode prorrogar a autorização concedida até ao máximo de um ano, quando se trate de estabelecimento de comércio, ou até ao máximo de dois anos, no caso de conjunto comercial, com base em requerimento do interessado, devidamente fundamentado e apresentado, com a antecedência mínima de 45 dias da data da caducidade da autorização, à entidade coordenadora, que emite um parecer sobre o mesmo.\n\n4 - O prazo de caducidade previsto nos números anteriores não se interrompe nem se suspende.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 182/2014 - Diário da República n.º 249/2014, Série I de 2014-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2014-65990732), em vigor a partir de 2014-12-27."
+  },
+  "971574975": {
+   "fragment_id": "971574875",
+   "type": 11,
+   "heading": "Artigo 17.º — Alterações posteriores à autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Alterações posteriores à autorização\n\n1 - As alterações que o requerente pretenda introduzir no processo entre a data de emissão da autorização e a entrada em funcionamento do estabelecimento ou do conjunto comercial, susceptíveis de alterar os pressupostos em que aquela se baseou e que digam respeito, nomeadamente, ao aumento da área de venda ou da área bruta locável, à tipologia ou à entidade exploradora se configurar alteração de grupo, são obrigatoriamente comunicadas à entidade coordenadora até 45 dias antes da data prevista de entrada em funcionamento do estabelecimento ou do conjunto comercial.\n\n2 - No prazo de três dias contados da data da sua recepção, a entidade coordenadora remete o pedido de alteração às entidades que intervieram no processo de autorização, para efeitos de apreciação.\n\n3 - A instrução técnica do processo e a elaboração do relatório final previsto no n.º 1 do artigo 9.º são efectuadas no prazo de 10 dias contado da data da recepção do pedido.\n\n4 - A COMAC decide na reunião seguinte à data da recepção do relatório referido no número anterior ou do fim do prazo para a respectiva emissão, decorrido o qual, sem que a decisão seja tomada, se considera que o pedido de alteração foi deferido."
+  },
+  "971575175": {
+   "fragment_id": "971575075",
+   "type": 1,
+   "heading": "Capítulo III — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Funcionamento"
+  },
+  "971575375": {
+   "fragment_id": "971575275",
+   "type": 11,
+   "heading": "Artigo 18.º — Comunicação de abertura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Comunicação de abertura\n\n1 - Sem prejuízo da obtenção do alvará de autorização de utilização, previsto no regime jurídico da urbanização e da edificação, o titular do empreendimento, até 20 dias antes da abertura do estabelecimento ou conjunto comercial, comunica tal facto à entidade coordenadora e à câmara municipal respectiva, acompanhado de termo de responsabilidade segundo o qual o estabelecimento ou conjunto comercial cumpre os compromissos que fundamentaram a autorização de instalação ou de modificação.\n\n2 - A comunicação referida no número anterior é considerada para efeitos do disposto no Decreto-Lei n.º 259/2007, de 17 de Julho.\n\n3 - A comunicação é efectuada através do modelo referido no n.º 5 do artigo 3.º"
+  },
+  "971575575": {
+   "fragment_id": "971575475",
+   "type": 11,
+   "heading": "Artigo 19.º — Comunicação do encerramento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Comunicação do encerramento\n\nO encerramento dos estabelecimentos e conjuntos comerciais abrangidos pelo presente decreto-lei deve ser comunicado à entidade coordenadora, até 20 dias após a sua ocorrência, através do modelo referido no n.º 5 do artigo 3.º"
+  },
+  "971575775": {
+   "fragment_id": "971575675",
+   "type": 11,
+   "heading": "Artigo 20.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Registo\n\n1 - A abertura, as modificações e o encerramento dos estabelecimentos e conjuntos comerciais abrangidos pelo presente decreto-lei são objecto de registo, efectuado pela DGAE, o qual é considerado para efeitos do disposto no Decreto-Lei n.º 462/99, de 5 de Novembro, e do artigo 6.º do Decreto-Lei n.º 259/2007, de 17 de Julho.\n\n2 - O registo é efectuado com base nas comunicações efectuadas ao abrigo do n.º 4 do artigo 3.º, do n.º 1 do artigo 18.º e do artigo 19.º"
+  },
+  "971575975": {
+   "fragment_id": "971575875",
+   "type": 1,
+   "heading": "Capítulo IV — Pedidos de informação, fiscalização e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Pedidos de informação, fiscalização e sanções"
+  },
+  "971576175": {
+   "fragment_id": "971576075",
+   "type": 11,
+   "heading": "Artigo 21.º — Prestação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Prestação de informações\n\nA DGAE, no exercício das competências que lhes são conferidas pelo presente decreto-lei, pode solicitar a prestação de informações aos promotores e a associações de empresas, fixando, para o efeito, os prazos que entenda razoáveis."
+  },
+  "971576375": {
+   "fragment_id": "971576275",
+   "type": 11,
+   "heading": "Artigo 22.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Fiscalização\n\nA fiscalização do cumprimento do disposto no presente decreto-lei, incluindo a verificação regular do cumprimento das condições e dos compromissos assumidos pelos promotores, que condicionaram a emissão da autorização, compete à Autoridade de Segurança Alimentar e Económica (ASAE), sem prejuízo das competências legalmente atribuídas a outras entidades."
+  },
+  "1143516675": {
+   "fragment_id": "971576475",
+   "type": 11,
+   "heading": "Artigo 23.º — Infracções",
+   "in_force_from": "2014-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 182/2014 - Diário da República n.º 249/2014, Série I de 2014-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2014-65990732), em vigor a partir de 2014-12-27."
+   ],
+   "markdown": "###### Artigo 23.º — Infracções\n\n1 - Constituem contra-ordenações puníveis com as seguintes coimas, quando cometidas por pessoa singular:\n\na) De (euro) 5000 a (euro) 25 000, a instalação ou modificação de um estabelecimento ou conjunto comercial sem a autorização legalmente exigida e o incumprimento das obrigações que fundamentaram a decisão de autorização emitida pela COMAC;\n\nb) De (euro) 2500 a (euro) 12 500, a falta de comunicação atempada à entidade coordenadora de quaisquer alterações posteriores à emissão da autorização e anteriores à entrada de funcionamento do estabelecimento ou conjunto comercial, susceptíveis de alterar os pressupostos da decisão de autorização;\n\nc) De (euro) 500 a (euro) 2500, a falta de comunicação atempada das modificações previstas no n.º 4 do artigo 3.º, a abertura do estabelecimento ou conjunto comercial sem comunicar atempadamente à entidade coordenadora e à câmara municipal respectiva e o encerramento do estabelecimento ou conjunto comercial sem comunicar atempadamente à entidade coordenadora;\n\nd) De (euro) 250 a (euro) 1250, a falta de envio de informações à DGAE pelos promotores.\n\n2 - Constituem contra-ordenações puníveis com as seguintes coimas, quando cometidas por pessoa colectiva:\n\na) De (euro) 100 000 a (euro) 500 000, a instalação ou modificação de um estabelecimento ou conjunto comercial sem a autorização legalmente exigida e o incumprimento das obrigações que fundamentaram a decisão de autorização emitida pela COMAC;\n\nb) De (euro) 30 000 a (euro) 150 000, a falta de comunicação atempada à entidade coordenadora de quaisquer alterações posteriores à emissão da autorização e anteriores à entrada de funcionamento do estabelecimento ou conjunto comercial, susceptíveis de alterar os pressupostos da decisão de autorização;\n\nc) De (euro) 5000 a (euro) 25 000, a falta de comunicação atempada das modificações previstas no n.º 4 do artigo 3.º, a abertura do estabelecimento ou conjunto comercial sem comunicar atempadamente à entidade coordenadora e à câmara municipal respectiva e o encerramento do estabelecimento ou conjunto comercial sem comunicar atempadamente à entidade coordenadora;\n\nd) De (euro) 2500 a (euro) 15 000, a falta de envio de informações à DGAE pelos promotores ou associações de empresas.\n\n3 - A negligência é punível, sendo os limites mínimo e máximo das coimas aplicáveis reduzidos a metade.\n\n4 - A ASAE pode solicitar a colaboração de quaisquer outras entidades sempre que o julgue necessário ao exercício das suas funções.\n\n5 - A instrução dos processos de contra-ordenação compete à ASAE.\n\n6 - A aplicação das coimas e sanções acessórias previstas no presente decreto-lei compete ao inspetor-geral da ASAE.\n\n7 - O produto das coimas aplicadas no âmbito da presente lei reverte:\n\na) 60 % para o Estado;\n\nb) 40 % para a ASAE;\n\nc) [Revogada].\n\n8 - [Revogado].\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 182/2014 - Diário da República n.º 249/2014, Série I de 2014-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2014-65990732), em vigor a partir de 2014-12-27."
+  },
+  "971576775": {
+   "fragment_id": "971576675",
+   "type": 11,
+   "heading": "Artigo 24.º — Sanção acessória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Sanção acessória\n\nNo caso das contra-ordenações previstas nas alíneas a) e b) dos n.os 1 e 2 do artigo anterior, simultaneamente com a coima, pode ser aplicada, por período não superior a dois anos, a sanção acessória prevista na alínea f) do n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro, na redacção que lhe foi dada pelo Decreto-Lei n.º 244/95, de 14 de Setembro, ficando o reinício de actividade dependente da concessão de autorização a emitir pela entidade competente nos termos do presente decreto-lei."
+  },
+  "971576975": {
+   "fragment_id": "971576875",
+   "type": 11,
+   "heading": "Artigo 25.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Taxas\n\n1 - Os actos relativos à autorização dos processos de instalação e de modificação dos estabelecimentos de comércio e conjuntos comerciais, incluindo as prorrogações, estão sujeitos ao pagamento da respectiva taxa, cujo montante varia em função da área de venda ou área bruta locável objecto de autorização.\n\n2 - As taxas referidas no número anterior são as seguintes:\n\na) A taxa de autorização dos pedidos de instalação ou de modificação dos estabelecimentos de comércio a retalho é de (euro) 30 por metro quadrado de área de venda autorizada;\n\nb) No caso de estabelecimentos integrados em conjuntos comerciais, o montante da taxa referida na alínea anterior é reduzido a metade;\n\nc) A taxa de autorização de instalação ou de modificação de conjuntos comerciais é de (euro) 20 por metro quadrado de área bruta locável autorizada, com um limite máximo de (euro) 1 000 000;\n\nd) As taxas relativas aos processos de modificação de estabelecimentos de comércio a retalho decorrentes de operações de concentração de empresas sujeitas a notificação prévia, nos termos da legislação de concorrência nacional ou comunitária, sofrem uma redução de dois terços em relação aos valores referidos nas alíneas anteriores;\n\ne) As taxas relativas à prorrogação das autorizações de instalação ou modificação de estabelecimentos ou conjuntos comerciais são de:\n\ni) (euro) 300, para os estabelecimentos;\n\nii) (euro) 1500, para os conjuntos comerciais.\n\n3 - As taxas referidas no número anterior são pagas à entidade coordenadora no prazo de 30 dias após a data da recepção pelo promotor da notificação da decisão referida no artigo 14.º\n\n4 - A autorização de instalação e modificação caduca se as taxas não forem liquidadas no prazo indicado no número anterior.\n\n5 - As receitas resultantes da cobrança das taxas de autorização dos processos e das prorrogações revertem em 1 % a favor da entidade coordenadora, em 0,5 % a favor da entidade que efectua a instrução técnica do processo e elabora o relatório final previsto no artigo 9.º e o restante a favor do Fundo de Modernização do Comércio, criado pelo Decreto-Lei n.º 178/2004, de 27 de Julho, alterado pelo Decreto-Lei n.º 143/2005, de 26 de Agosto, bem como do fundo de apoio aos empresários comerciais a que se refere o despacho conjunto n.º 324/2002, de 8 de Março, publicado no Diário da República, 2.ª série, n.º 94, de 22 de Abril de 2002, sem prejuízo das dotações previstas no mesmo despacho conjunto.\n\n6 - A liquidação e a cobrança das taxas são da competência da entidade coordenadora, a qual procede ao pagamento, até ao dia 10 de cada mês, através de transferência bancária ou cheque, às demais entidades, acompanhado da relação dos processos a que se referem."
+  },
+  "971577175": {
+   "fragment_id": "971577075",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "971577375": {
+   "fragment_id": "971577275",
+   "type": 11,
+   "heading": "Artigo 26.º — Processos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Processos pendentes\n\n1 - Os processos relativos a estabelecimentos e conjuntos comerciais que, por força da alteração do âmbito de aplicação do presente decreto-lei, deixam de estar abrangidos pelo regime de autorização, são considerados extintos.\n\n2 - Os processos que, à data da entrada em vigor do presente decreto-lei, não tenham ainda obtido a decisão referida no artigo 17.º da Lei n.º 12/2004, de 30 de Março, são decididos de acordo com o disposto no presente decreto-lei, podendo a entidade coordenadora solicitar os elementos necessários à sua avaliação, de acordo com os novos parâmetros e critérios de apreciação.\n\n3 - O presente decreto-lei aplica-se aos pedidos de modificação previstos no artigo 21.º da Lei n.º 12/2004, de 30 de Março, bem como às prorrogações das autorizações, referidas no seu artigo 20.º\n\n4 - O disposto no presente decreto-lei não se aplica às modificações de conjuntos comerciais referidos no n.º 2 do artigo 3.º, relativamente aos quais, à data da entrada em vigor deste decreto-lei, já tenha sido emitida informação prévia favorável ou licença de construção, nos termos do regime jurídico da urbanização e da edificação.\n\n5 - As autorizações de instalação ou modificação cujos prazos de caducidade foram suspensos, caducam definitivamente se no prazo de 180 dias após a data da entrada em vigor do presente decreto-lei não se verificar a entrada em funcionamento do estabelecimento ou conjunto comercial a que as mesmas respeitam."
+  },
+  "971577575": {
+   "fragment_id": "971577475",
+   "type": 11,
+   "heading": "Artigo 27.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Norma revogatória\n\n1 - É revogada a Lei n.º 12/2004, de 30 de Março, e as Portarias n.os 518/2004, 519/2004 e 520/2004, todas de 20 de Maio, e 620/2004, de 7 de Junho.\n\n2 - A revogação prevista no número anterior não prejudica a remissão operada por diplomas legais em vigor para:\n\na) A definição de «grandes superfícies comerciais», estabelecida na alínea a) do n.º 1 do artigo 2.º do Decreto-Lei n.º 258/92, de 20 de Novembro;\n\nb) A definição de «estabelecimento de comércio por grosso», estabelecida na alínea a) do artigo 3.º da Lei n.º 12/2004, de 30 de Março.\n\n3 - Para efeitos de sujeição a procedimento de AIA, a remissão operada pela alínea b) do n.º 10 do anexo ii do Decreto-Lei n.º 69/2000, de 3 de Maio, com a redacção que lhe foi dada pelo Decreto-Lei n.º 197/2005, de 8 de Novembro, para a definição de estabelecimento de comércio ou conjunto comercial, considera-se efectuada para as alíneas f) e h) a l) do artigo 4.º do presente decreto-lei, sem prejuízo do disposto na alínea b) do número anterior."
+  },
+  "971577775": {
+   "fragment_id": "971577675",
+   "type": 11,
+   "heading": "Artigo 28.º — Avaliação da aplicação do regime de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Avaliação da aplicação do regime de autorização\n\nA entidade coordenadora está obrigada a elaborar relatórios anuais com indicação dos elementos estatísticos relevantes relativos à tramitação dos procedimentos previstos no presente decreto-lei, bem como eventuais constrangimentos identificados, designadamente, no sistema de informação e nas regras aplicáveis."
+  },
+  "971577975": {
+   "fragment_id": "971577875",
+   "type": 11,
+   "heading": "Artigo 29.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 90 dias após a sua publicação."
+  },
+  "971578175": {
+   "fragment_id": "971578075",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 4 de Dezembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Rui Nuno Garcia de Pina Neves Baleiras - Manuel António Gomes de Almeida de Pinho.\n\nPromulgado em 8 de Janeiro de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 9 de Janeiro de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "971578375": {
+   "fragment_id": "971578275",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 1 do artigo 8.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 1 do artigo 8.º)\n\nElementos que devem acompanhar o pedido de instalação ou modificação dos estabelecimentos a retalho e dos conjuntos comerciais, de acordo com o previsto no n.º 1 do artigo 8.º do presente decreto-lei.\n\nA - Elementos aplicáveis aos estabelecimentos\n\nQuando estejam em causa estabelecimentos de comércio a retalho referidos nas alíneas a) e b) do n.º 1 do artigo 2.º do presente decreto-lei, os pedidos de autorização devem ser acompanhados dos seguintes elementos:\n\nI - Informação geral:\n\na) Legitimidade para apresentação do pedido - título de propriedade, contrato-promessa ou qualquer outro documento bastante, de que resulte ou possa vir a resultar a legitimidade do requerente para construir o estabelecimento em causa ou, caso estes já existam, para os explorar comercialmente;\n\nb) Número e localização de estabelecimentos que preencham os requisitos previstos no n.º 1 do artigo 2.º do presente decreto-lei que, eventualmente, já detenha, referindo os respectivos anos de abertura, áreas de venda e número de trabalhadores;\n\nc) Informação prévia de localização favorável ou documento que a substitua nos termos do previsto no artigo 5.º do presente decreto-lei;\n\nd) No caso de estabelecimentos comerciais abrangidos pelo regime jurídico de avaliação de impacte ambiental, declaração de impacte ambiental favorável ou documento que a substitua, nos termos do previsto no artigo 5.º do presente decreto-lei.\n\nII - Caracterização - características do estabelecimento de comércio:\n\nLocalização;\n\nNome/insígnia/designação;\n\nTipologia de comércio (alimentar, não alimentar - com indicação do respectivo ramo de actividade - ou misto);\n\nNúmero de pisos;\n\nÁrea de venda/áreas de armazenagem, de serviços de apoio e de escritórios;\n\nNúmero de lugares de estacionamento e de cargas e descargas previstos e respectivas áreas;\n\nPrazo previsível de construção e de abertura ao público.\n\nIII - Área de influência:\n\na) Definição da área de influência - identificação, fundamentação e caracterização da área de influência a que se reporta o pedido e apresentação da metodologia subjacente;\n\nb) Descrição da diversidade comercial que se verifica na área de influência a que se reporta o pedido - número e características dos estabelecimentos existentes e que estejam abrangidos pelo n.º 1 do artigo 2.º do presente decreto-lei, especificando, designadamente, as respectivas localizações, especificando a freguesia, áreas de venda, insígnias, ramos de comércio e métodos de venda.\n\nIV - Apreciação:\n\na) Cumprimento dos parâmetros de apreciação - demonstração do cumprimento dos parâmetros de apreciação referidos no n.º 1 do artigo 10.º do presente decreto-lei, incluindo apresentação de documento do qual constem os compromissos a que se refere o n.º 3 do artigo 10.º do presente decreto-lei;\n\nb) Para efeito da avaliação prevista na alínea b) do n.º 1 do artigo 10.º do presente decreto-lei - serviços prestados ao consumidor - deve indicar de forma quantificada e discriminada:\n\ni) Quais os serviços de apoio às pessoas com deficiências e incapacidades;\n\nii) Existência de cartão de desconto ao cliente;\n\niii) Existência de serviço de entrega ao domicílio, se aplicável;\n\niv) Existência de assistência de pós-venda, se aplicável;\n\nv) Existência de vendas à distância, se aplicável;\n\nvi) Adesão ao centro de arbitragem de conflitos de consumo;\n\nc) Para efeito da avaliação prevista na alínea c) do n.º 1 do artigo 10.º do presente decreto-lei - qualidade do emprego e responsabilidade social - deve indicar de forma quantificada e discriminada:\n\ni) Número de pessoas ao serviço;\n\nii) Número de trabalhadores contratados por tipo de vínculo contratual e categoria profissional;\n\niii) Número de contratos celebrados com pessoas com deficiências e incapacidades;\n\niv) Existência de plano de formação contínua para todos os trabalhadores;\n\nd) Para efeito da avaliação prevista na alínea d) do n.º 1 do artigo 10.º do presente decreto-lei - localização do estabelecimento no centro urbano - deve apresentar declaração da câmara municipal indicando se o estabelecimento se situa dentro ou fora do centro urbano conforme definido na alínea e) do artigo 4.º do presente decreto-lei;\n\ne) Para efeito da avaliação prevista na alínea e) do n.º 1 do artigo 10.º do presente decreto-lei - eco eficiência - deve indicar de forma discriminada:\n\ni) Existência de certificação energética conforme referido no anexo xi do Decreto-Lei n.º 79/2006, de 4 de Abril;\n\nii) Adopção de medidas tendentes à melhoria da qualidade ambiental através da utilização de materiais recicláveis e ou degradáveis, nomeadamente, em sacos de compras e embalagens, existência de pontos de recolha de embalagens e outros bens reutilizáveis, produtos poluentes, etc.;\n\niii) Existência de reciclagem de resíduos e qual a percentagem.\n\nOu, em sua substituição, a existência de Certificação Ambiental conforme Norma NP EN ISO 14001:2004.\n\nTodos os elementos que, à data da apresentação do pedido de instalação, não possam ser objecto de comprovação, são substituídos por declaração sob compromisso de honra.\n\nB - Elementos aplicáveis aos conjuntos comerciais\n\nQuando estejam em causa conjuntos comerciais referidos nas alíneas c) e d) do n.º 1 do artigo 2.º do presente decreto-lei, os pedidos de autorização devem ser acompanhados dos seguintes elementos:\n\nI - Informação geral:\n\na) Legitimidade para apresentação do pedido - título de propriedade, contrato-promessa ou qualquer outro documento bastante, de que resulte ou possa vir a resultar a legitimidade do requerente para construir o conjunto comercial em causa ou, caso este já exista, para o explorar comercialmente;\n\nb) Número e localização dos conjuntos comerciais que preencham os requisitos previstos no n.º 1 do artigo 2.º do presente decreto-lei que, eventualmente, já detenha, referindo os respectivos anos de abertura, áreas brutas locáveis, estabelecimentos que os constituem, mix comercial e número de estabelecimentos em funcionamento, número de trabalhadores próprios e das lojas;\n\nc) Informação prévia de localização favorável ou documento que a substitua nos termos do previsto no artigo 5.º do presente decreto-lei;\n\nd) No caso de conjuntos comerciais abrangidos pelo regime jurídico de avaliação de impacte ambiental, declaração de impacte ambiental favorável ou documento que a substitua, nos termos do previsto no artigo 5.º do presente decreto-lei.\n\nII - Caracterização - características do conjunto comercial:\n\nLocalização;\n\nNome/designação;\n\nNúmero de pisos;\n\nÁrea bruta locável;\n\nÁreas de armazenagem, de serviços de apoio e de escritórios;\n\nNúmero de lugares de estacionamento e de cargas e descargas previstos e respectivas áreas;\n\nNúmero dos estabelecimentos de comércio que integram o conjunto comercial e mix comercial previsto;\n\nDistribuição das lojas por grupos de actividades;\n\nNúmero de postos de trabalho estimados das lojas e do CC;\n\nPrazo previsível de construção e de abertura ao público.\n\nIII - Área de influência:\n\na) Definição da área de influência - identificação e caracterização da área de influência a que se reporta o pedido e apresentação da metodologia subjacente;\n\nb) Descrição da diversidade comercial que se verifica na área de influência a que se reporta o pedido - número e características dos conjuntos comerciais que preencham os requisitos previstos no n.º 1 do artigo 2.º do presente decreto-lei, especificando, designadamente, a respectiva localização, especificando a freguesia, e áreas brutas locáveis.\n\nIV - Apreciação:\n\na) Cumprimento dos parâmetros de apreciação - demonstração do cumprimento dos parâmetros de apreciação referidos no n.º 1 do artigo 10.º do presente decreto-lei, incluindo apresentação de documento do qual constem os compromissos a que se refere o n.º 3 do artigo 10.º do presente decreto-lei;\n\nb) Para efeito da avaliação prevista na alínea a) do n.º 1 do artigo 10.º do presente decreto-lei - diversidade de actividades - deve indicar de forma quantificada e discriminada as actividades que definem o seu mix;\n\nc) Para efeito da avaliação prevista na alínea b) do n.º 1 do artigo 10.º do presente decreto-lei - serviços prestados ao consumidor - deve indicar de forma quantificada e discriminada:\n\ni) Quais os serviços de apoio ao idoso e à pessoa com deficiência e incapacidade;\n\nii) Existência de serviços de guarda e acompanhamento de crianças e qual o seu custo para o cliente;\n\niii) Existência de estacionamento e qual o seu custo para o cliente;\n\niv) Existência de cartão de desconto para o cliente;\n\nv) Existência de carta de compra com ponto único de entrega das compras;\n\nvi) Adesão ao centro de arbitragem de conflitos de consumo;\n\nd) Para efeito da avaliação prevista na alínea c) do n.º 1 do artigo 10.º do presente decreto-lei - responsabilidade social da empresa - deve indicar de forma quantificada e discriminada:\n\ni) Existência de espaços de lazer e tomada de refeições para os trabalhadores dos estabelecimentos inseridos no conjunto comercial;\n\nii) Existência de creche para os filhos dos trabalhadores dos estabelecimentos inseridos no conjunto comercial;\n\ne) Para efeito da avaliação prevista na alínea d) do n.º 1 do artigo 10.º do presente decreto-lei - localização do conjunto comercial no centro urbano - deve apresentar declaração da câmara municipal indicando se o estabelecimento se situa dentro ou fora do centro urbano conforme definido na alínea e) do artigo 4.º do presente decreto-lei;\n\nf) Para efeito da avaliação prevista na alínea e) do n.º 1 do artigo 10.º do presente decreto-lei - eco eficiência - deve indicar de forma discriminada:\n\ni) Existência de certificação energética conforme referido no anexo xi do Decreto-Lei n.º 79/2006, de 4 de Abril;\n\nii) Adopção de medidas tendentes à melhoria da qualidade ambiental através da utilização de materiais recicláveis e ou degradáveis, nomeadamente, em sacos de compras e embalagens, existência de pontos de recolha de embalagens e outros bens reutilizáveis, produtos poluentes, etc.;\n\niii) Existência de reciclagem de resíduos e qual a percentagem.\n\nOu, em sua substituição, a existência de Certificação Ambiental conforme Norma NP EN ISO 14001:2004.\n\nTodos os elementos que, à data da apresentação do pedido de instalação, não possam ser objecto de comprovação, são substituídos por declaração sob compromisso de honra."
+  },
+  "1147424575": {
+   "fragment_id": "971571075",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "A Lei n.º 12/2004, de 30 de Março, que estabelece o regime de autorização a que estão sujeitas a instalação e a modificação de estabelecimentos de comércio a retalho e de comércio por grosso em livre serviço e a instalação de conjuntos comerciais prevê, no seu artigo 37.º, que a mesma seja objecto de revisão no prazo de três anos após a sua entrada em vigor, na sequência de apresentação pelo Governo, à Assembleia da República, de um relatório de avaliação da sua aplicação.\n\nA experiência obtida com a aplicação da referida lei demonstrou diversos desajustes, quer relativos à sua estruturação, quer na sua implementação.\n\nCom o presente decreto-lei pretende-se dar cumprimento aos princípios do Programa de Simplificação Administrativa e Legislativa - SIMPLEX, promovendo uma simplificação de procedimentos demasiado complexos e geradores de constrangimentos e morosidade nos processos, bem como um encurtamento dos prazos de decisão, diminuindo, desta forma, os custos de contexto para as empresas.\n\nPor outro lado, regula-se a implantação das estruturas empresariais do comércio, de forma a assegurar a sua inserção espacial, de acordo com critérios que promovam um adequado ordenamento do território, salvaguardem a protecção do ambiente, valorizem os centros urbanos existentes e contribuam para a multiplicidade da oferta comercial e para o abastecimento diversificado das populações.\n\nVisa-se, assim, contribuir para a competitividade do sistema urbano, dinamizando as centralidades urbanas existentes, favorecendo a sociabilidade urbana e a melhoria do abastecimento e da qualidade de vida das populações.\n\nNa apreciação dos novos estabelecimentos e conjuntos comerciais, é dada uma especial relevância à contribuição positiva de tais empreendimentos para a promoção da melhoria do ambiente, preenchendo exigências de eco-eficiência, do desenvolvimento da qualificação do emprego e da responsabilidade social das empresas promotoras dos projectos em apreciação.\n\nEm concreto, e no que concerne ao regime consagrado na Lei n.º 12/2004, de 30 de Março, o presente decreto-lei reduz o universo de estabelecimentos de comércio, isolados ou em grupo, sujeitos ao regime de autorização, pela elevação dos limites das áreas de venda no caso do comércio a retalho e da área bruta locável no caso de conjuntos comerciais.\n\nSão excluídas do regime de autorização as empresas de comércio por grosso e as micro empresas e sujeita ao regime de autorização as modificações em conjuntos comerciais.\n\nÉ imposta a obtenção de informação prévia de localização favorável e da declaração de impacte ambiental favorável, nos casos abrangidos pelo regime jurídico de avaliação de impacte ambiental, anterior ao processo de autorização, eliminando do procedimento os projectos considerados inviáveis quanto à localização e à avaliação de impacte ambiental, evitando, assim, análises e processos decisórios desnecessários.\n\nSão alterados os critérios de autorização de instalação e modificação, de forma a adequá-los aos imperativos comunitários em matéria de concorrência e de liberdade de estabelecimento.\n\nÉ abandonado o sistema de fases de candidatura, penalizador do investimento e dos promotores, adoptando um sistema de entrada de processos contínuo.\n\nPor fim, substitui-se, ao nível da decisão, as três entidades decisórias actualmente existentes - direcção regional de economia, comissões regionais e comissões municipais - por uma única entidade - a comissão de avaliação comercial (COMAC) - que decide, ao nível da NUT III, os pedidos de autorização, com uma periodicidade mensal.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas e a Associação Nacional de Municípios Portugueses.\n\nFoi promovida a audição ao Conselho Nacional do Consumo. Foram ouvidos, a título facultativo, a Associação Portuguesa para a Defesa do Consumidor, a União Geral de Consumidores, a Associação de Consumidores da Região dos Açores e a Federação Nacional das Cooperativas de Consumidores.\n\nForam ouvidos, a título facultativo, a Confederação do Comércio e Serviços de Portugal, a Associação Portuguesa das Empresas de Distribuição, a Associação Portuguesa dos Centros Comerciais, a Associação Empresarial de Portugal e a Associação Industrial Portuguesa.\n\nAssim:\n\nNo uso da autorização legislativa concedida pela Lei n.º 42/2008, de 27 de Agosto, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147424775": {
+   "fragment_id": "971571275",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147424875": {
+   "fragment_id": "971571475",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei estabelece o regime jurídico da instalação e da modificação dos estabelecimentos de comércio a retalho e dos conjuntos comerciais.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147424975": {
+   "fragment_id": "971571675",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - Estão abrangidos pelo presente decreto-lei os seguintes estabelecimentos e conjuntos comerciais:\n\na) Estabelecimentos de comércio a retalho, isoladamente considerados ou inseridos em conjuntos comerciais, que tenham uma área de venda igual ou superior a 2000 m2;\n\nb) Estabelecimentos de comércio a retalho, isoladamente considerados ou inseridos em conjuntos comerciais, independentemente da respectiva área de venda, que pertençam a uma empresa que utilize uma ou mais insígnias ou estejam integrados num grupo, que disponham, a nível nacional, de uma área de venda acumulada igual ou superior a 30 000 m2;\n\nc) Conjuntos comerciais que tenham uma área bruta locável igual ou superior a 8000 m2;\n\nd) Estabelecimentos e conjuntos comerciais referidos nas alíneas anteriores e que se encontrem desactivados há mais de 12 meses, caso os respectivos titulares pretendam reiniciar o seu funcionamento.\n\n2 - O disposto no presente decreto-lei não é aplicável:\n\na) Aos estabelecimentos de comércio a retalho pertencentes a micro empresas juridicamente distintas mas que utilizem uma insígnia comum;\n\nb) Aos estabelecimentos pertencentes a sociedades cujo capital seja subscrito maioritariamente por micro empresas;\n\nc) Aos estabelecimentos especializados de comércio a retalho de armas e munições, de combustíveis para veículos a motor e às farmácias.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147425075": {
+   "fragment_id": "971571875",
+   "type": 11,
+   "heading": "Artigo 3.º — Regime aplicável",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "###### Artigo 3.º — Regime aplicável\n\n1 - Está sujeita ao regime de autorização a instalação dos estabelecimentos e conjuntos comerciais referidos no n.º 1 do artigo anterior.\n\n2 - Estão, ainda, sujeitas ao regime de autorização as modificações dos estabelecimentos e conjuntos comerciais referidos no n.º 1 do artigo anterior que configurem:\n\na) Alteração de localização dos estabelecimentos com excepção das referidas na alínea a) do número seguinte;\n\nb) Alteração da tipologia dos estabelecimentos;\n\nc) Aumento da área de venda dos estabelecimentos;\n\nd) Alteração de insígnia ou do titular de exploração dos estabelecimentos, que não ocorra dentro do mesmo grupo;\n\ne) Alteração de localização dos conjuntos comerciais;\n\nf) Alteração da tipologia dos conjuntos comerciais;\n\ng) Aumento da área bruta locável dos conjuntos comerciais.\n\n3 - Estão sujeitas a comunicação as modificações dos estabelecimentos e conjuntos comerciais referidos no n.º 1 do artigo anterior que configurem:\n\na) Alteração de localização de estabelecimentos comerciais no interior de conjuntos comerciais, que não se traduza em aumento de áreas de venda;\n\nb) Diminuição da área de venda dos estabelecimentos comerciais;\n\nc) Alteração de insígnia ou do titular de exploração dos estabelecimentos, dentro do mesmo grupo;\n\nd) Diminuição da área bruta locável dos conjuntos comerciais;\n\ne) Alteração do titular de exploração dos conjuntos comerciais.\n\n4 - As modificações referidas no número anterior são comunicadas à entidade coordenadora referida no artigo 6.º, pelo titular do empreendimento, até 20 dias antes da sua realização.\n\n5 - A comunicação é efectuada electronicamente através de modelo disponibilizado no sistema de informação referido no artigo 7.º\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147425175": {
+   "fragment_id": "971572075",
+   "type": 11,
+   "heading": "Artigo 4.º — Definições",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "###### Artigo 4.º — Definições\n\nPara efeitos do presente decreto-lei, entende-se por:\n\na) «Área de venda acumulada», compreende o somatório da área de venda em funcionamento, da área de venda autorizada no âmbito da Lei n.º 12/2004, de 30 de Março, mas que ainda não entrou em funcionamento e da área de venda autorizada ao abrigo do regime jurídico da urbanização e da edificação;\n\nb) «Área bruta locável (ABL) do conjunto comercial» a área que produz rendimento no conjunto comercial, quer seja uma área arrendada ou vendida, e que inclui os espaços de armazenagem e escritórios afectos a todos os estabelecimentos;\n\nc) «Área de influência» a freguesia ou o conjunto de freguesias que se integrem na área geográfica definida em função de um limite máximo de tempo de deslocação do consumidor ao estabelecimento ou conjunto comercial em causa, contado a partir deste, o qual pode variar, nomeadamente, em função da respectiva dimensão e tipo de comércio exercido, das estruturas de lazer e de serviços que lhe possam estar associadas, da sua inserção em meio urbano ou rural, ou da qualidade das infra-estruturas que lhe servem de acesso;\n\nd) «Área de venda do estabelecimento» toda a área destinada a venda, onde compradores têm acesso ou os produtos se encontram expostos ou são preparados para entrega imediata, nela se incluindo a zona ocupada pelas caixas de saída e as zonas de circulação dos consumidores internas ao estabelecimento, nomeadamente as escadas de ligação entre os vários pisos;\n\ne) «Centro urbano» o núcleo urbano consolidado conforme previsto nos instrumentos de planeamento territorial em vigor ou, não estando aí definido, a zona urbana consolidada nos termos do disposto na alínea o) do artigo 2.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, com a redacção que lhe foi dada pela Lei n.º 60/2007, de 4 de Setembro;\n\nf) «Conjunto comercial» o empreendimento planeado e integrado, composto por um ou mais edifícios nos quais se encontra instalado um conjunto diversificado de estabelecimentos de comércio a retalho e ou de prestação de serviços, quer sejam ou não propriedade ou explorados pela mesma entidade, que preencha cumulativamente os seguintes requisitos:\n\ni) Disponha de um conjunto de facilidades concebidas para permitir a uma mesma clientela o acesso aos diversos estabelecimentos;\n\nii) Seja objecto de uma gestão comum, responsável, designadamente, pela disponibilização de serviços colectivos, pela instituição de práticas comuns e pela política de comunicação e animação do empreendimento;\n\nAdoptando uma das seguintes tipologias:\n\niii) Centro comercial tradicional - compreende estabelecimentos indiferenciados ou especializados integrados em empreendimento fechado ou «a céu aberto»;\n\niv) Centro comercial especializado - compreende, nomeadamente, os denominados retail park, os outlet centre ou os temáticos. Incluem quer estabelecimentos especializados, geralmente de maior dimensão, com acesso directo ao parque de estacionamento ou a áreas pedonais, quer estabelecimentos, de pequena e média dimensão, onde produtores e retalhistas vendem os seus produtos com desconto no preço provenientes de excedentes, bem como artigos com pequenos defeitos, ou outros desenvolvidos em torno de uma categoria específica de comércio especializado;\n\ng) «Empresa», qualquer entidade abrangida pelo n.º 1 do artigo 2.º da Lei n.º 18/2003, de 11 de Junho;\n\nh) «Estabelecimento de comércio a retalho» o local no qual se exerce a actividade de comércio a retalho, tal como é definida na alínea b) do n.º 1 do artigo 1.º do Decreto-Lei n.º 339/85, de 21 de Agosto;\n\ni) «Estabelecimento de comércio alimentar» o local no qual se exerce exclusivamente uma actividade de comércio alimentar ou onde esta representa uma percentagem igual ou superior a 90 % do respectivo volume total de vendas;\n\nj) «Estabelecimento de comércio não alimentar» o local no qual se exerce exclusivamente uma actividade de comércio não alimentar ou onde esta representa uma percentagem igual ou superior a 90 % do respectivo volume total de vendas;\n\nl) «Estabelecimento de comércio misto» o local no qual se exercem, em simultâneo, actividades de comércio alimentar e não alimentar e a que não seja aplicável o disposto nas alíneas i) e j);\n\nm) «Formato de estabelecimento do ramo alimentar ou misto» a dimensão da sua da área de venda. Para a determinação do formato do estabelecimento do ramo alimentar ou misto são consideradas as seguintes áreas de venda:\n\ni) Área de venda (menor que) 400 m2 - minimercado ou pequeno supermercado;\n\nii) Área de venda (igual ou maior que) 400 m2 e (menor que) 2000 m2 - supermercado;\n\niii) Área de venda (igual ou maior que) 2000 m2 - hipermercado;\n\nn) «Gestor do procedimento» o técnico designado pela entidade coordenadora para efeitos de verificação da instrução do pedido de autorização e acompanhamento das várias etapas do processo, constituindo-se como interlocutor privilegiado do requerente;\n\no) «Grupo» o conjunto de empresas que, embora juridicamente distintas, mantêm entre si laços de interdependência ou subordinação decorrentes da utilização da mesma insígnia ou os direitos ou poderes enumerados n.º 1 do artigo 10.º da Lei n.º 18/2003, de 11 de Junho;\n\np) «Instalação» a criação de um estabelecimento de comércio a retalho ou conjunto comercial, quer tal se traduza em novas edificações, quer resulte de obras em edificações já existentes;\n\nq) «Interlocutor responsável pelo projecto» a pessoa ou entidade designada pelo requerente para efeitos de demonstração de que o projecto se encontra em conformidade com a legislação aplicável e para o relacionamento com a entidade coordenadora e as demais entidades intervenientes no processo de autorização;\n\nr) «Responsabilidade social da empresa» a integração voluntária, por parte da empresa, de preocupações sociais na prossecução da sua actividade e interligação da mesma com as comunidades locais e outras partes interessadas;\n\ns) «Tipologia de estabelecimentos comerciais» os estabelecimentos de comércio a retalho alimentar e misto e não alimentar;\n\nt) «Tipologia de conjuntos comerciais» o centro comercial tradicional e o especializado.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147425275": {
+   "fragment_id": "971572275",
+   "type": 1,
+   "heading": "Capítulo II — Autorização de instalação e de modificação",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "### Capítulo II — Autorização de instalação e de modificação\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147425375": {
+   "fragment_id": "971572475",
+   "type": 11,
+   "heading": "Artigo 5.º — Informação prévia de localização e declaração de impacte ambiental",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "###### Artigo 5.º — Informação prévia de localização e declaração de impacte ambiental\n\n1 - Para efeitos de instrução do processo de autorização de instalação e de modificação dos estabelecimentos e conjuntos comerciais, e desde que o mesmo implique uma operação urbanística sujeita a controlo prévio, os interessados devem solicitar à câmara municipal pedido de informação prévia sobre a conformidade do empreendimento na localização pretendida com os instrumentos de gestão territorial vigentes, nos termos dos artigos 14.º e seguintes do Decreto-Lei n.º 555/99, de 16 de Dezembro, com a redacção que lhe foi dada pela Lei n.º 60/2007, de 4 de Setembro.\n\n2 - No caso dos estabelecimentos e conjuntos comerciais abrangidos pelo regime jurídico de avaliação de impacte ambiental (AIA), para além do disposto no número anterior, os interessados devem instruir o processo com declaração de impacte ambiental (DIA) favorável ou condicionalmente favorável e, no caso do procedimento de AIA ter decorrido em fase de estudo prévio, com o parecer relativo à conformidade do projecto de execução com a DIA.\n\n3 - Caso a instalação ou modificação dos estabelecimentos ou conjuntos comerciais ocorra em instalações anteriormente afectas ao uso comercial e desde que o pedido não implique alteração de parâmetros urbanísticos, a informação prévia de localização pode ser substituída pelo alvará de licença de construção ou documento comprovativo da admissão da comunicação prévia que admitam aquele fim ou utilização no referido lote ou prédio ou pelo alvará de autorização de utilização para fins comerciais.\n\n4 - No caso de estabelecimentos de comércio inseridos em conjuntos comerciais, a informação prévia de localização é substituída pelo alvará de autorização de utilização do conjunto comercial ou pela autorização de instalação do conjunto comercial, caso exista.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147425475": {
+   "fragment_id": "971572675",
+   "type": 11,
+   "heading": "Artigo 6.º — Entidade coordenadora",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01.",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 182/2014 - Diário da República n.º 249/2014, Série I de 2014-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2014-65990732), em vigor a partir de 2014-12-27."
+   ],
+   "markdown": "###### Artigo 6.º — Entidade coordenadora\n\n1 - A coordenação do processo de autorização de instalação e de modificação, incluindo o apoio técnico e administrativo à entidade decisora, cabe à Direcção-Geral das Actividades Económicas (DGAE), designada por entidade coordenadora, a qual é considerada, para o efeito, o interlocutor único do requerente.\n\n2 - (Revogado.)\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 182/2014 - Diário da República n.º 249/2014, Série I de 2014-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2014-65990732), em vigor a partir de 2014-12-27."
+  },
+  "1147425575": {
+   "fragment_id": "971572875",
+   "type": 11,
+   "heading": "Artigo 7.º — Sistema de informação",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "###### Artigo 7.º — Sistema de informação\n\n1 - A tramitação dos procedimentos previstos no presente decreto-lei é realizada de forma desmaterializada logo que estejam em funcionamento os respectivos sistemas de informação, os quais, de forma integrada, entre outras funcionalidades, permitem:\n\na) A entrega de pedidos de autorização, comunicações e documentos;\n\nb) A consulta pelos interessados do estado do respectivo processo;\n\nc) O envio e recepção do relatório final;\n\nd) A emissão da decisão.\n\n2 - A prestação de informação às diferentes entidades com competência no âmbito do presente decreto-lei é realizada de forma desmaterializada, por meio da integração e garantia de interoperacionalidade entre os respectivos sistemas de informação.\n\n3 - É atribuído um número de referência a cada processo no início da tramitação que é mantido em todos os documentos em que se traduzem os actos e formalidades da competência da entidade coordenadora ou da competência de qualquer das entidades intervenientes.\n\n4 - As funcionalidades do sistema de informação incluem a rejeição de operações de cuja execução resultariam vícios ou deficiências de instrução, designadamente recusando o recebimento dos pedidos que não estejam devidamente instruídos.\n\n5 - Os sistemas de informação produzem notificações automáticas para as entidades envolvidas sempre que novos elementos sejam adicionados ao processo.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147425675": {
+   "fragment_id": "971573075",
+   "type": 11,
+   "heading": "Artigo 8.º — Tramitação",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "###### Artigo 8.º — Tramitação\n\n1 - Os procedimentos previstos no presente decreto-lei iniciam-se através de requerimento ou comunicação apresentados com recurso a meios electrónicos e através do sistema previsto no artigo anterior, dirigidos à entidade coordenadora, acompanhados dos elementos instrutórios referidos no anexo ao presente decreto-lei e que dele faz parte integrante.\n\n2 - Com a apresentação do requerimento ou comunicação por via electrónica, é emitido recibo de recepção entregue pela mesma forma.\n\n3 - O requerente deve identificar um interlocutor responsável pelo processo e a entidade coordenadora designa um gestor do procedimento, a quem compete assegurar o desenvolvimento da tramitação processual, acompanhando, nomeadamente, a instrução, o cumprimento dos prazos e a prestação de informação e esclarecimentos aos requerentes.\n\n4 - Quando na verificação dos documentos instrutórios do processo se constatar que estes não se encontram em conformidade com o disposto no n.º 1, a entidade coordenadora rejeita liminarmente o pedido de autorização, sem prejuízo do disposto nos n.os 3 e 4 do artigo 9.º\n\n5 - O processo só se encontra devidamente instruído na data da recepção do último dos elementos em falta.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147425775": {
+   "fragment_id": "971573275",
+   "type": 11,
+   "heading": "Artigo 9.º — Instrução técnica do processo e relatório final",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "###### Artigo 9.º — Instrução técnica do processo e relatório final\n\n1 - A DGAE efectua a instrução técnica do processo e elabora um relatório final no qual formula uma proposta de decisão para a COMAC no prazo de 30 dias contados da data da recepção do processo devidamente instruído nos termos do artigo anterior.\n\n2 - O relatório referido no número anterior é efectuado com base nos parâmetros referidos no artigo 10.º\n\n3 - A DGAE pode solicitar, nos primeiros 10 dias do prazo, esclarecimentos ou informações complementares, considerando-se suspenso o prazo para elaboração do respectivo relatório até à recepção dos elementos solicitados.\n\n4 - Os requerentes dispõem de um prazo de 10 dias a contar da data da recepção do respectivo pedido para efeitos de resposta.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147425875": {
+   "fragment_id": "971573475",
+   "type": 11,
+   "heading": "Artigo 10.º — Parâmetros para a elaboração do relatório final",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "###### Artigo 10.º — Parâmetros para a elaboração do relatório final\n\n1 - Para efeito da elaboração do relatório final, a DGAE procede à pontuação dos processos em função da valia do projecto (VP), de acordo com os seguintes parâmetros definidos para as diferentes tipologias comerciais:\n\na) Contribuição do estabelecimento para a multiplicidade da oferta comercial, tanto em formatos, no retalho alimentar e misto, como em insígnias, no retalho não alimentar, de forma a promover a concorrência efectiva entre empresas e grupos na área de influência, atendendo-se, nos conjuntos comerciais, à diversidade das suas actividades;\n\nb) Avaliação dos serviços prestados ao consumidor, nomeadamente os que promovam o conforto na compra, uma melhor integração das pessoas com deficiências e incapacidades e a adesão a processos de resolução de conflitos de consumo;\n\nc) Avaliação da qualidade do emprego no estabelecimento e da responsabilidade social da empresa;\n\nd) Avaliação da integração do estabelecimento ou conjunto comercial no ambiente urbano, fortalecendo a capacidade de atracção do centro urbano como destino comercial e de lazer e contribuindo para a diminuição das deslocações pendulares;\n\ne) Contribuição do estabelecimento ou conjunto comercial para a eficiência energética ou utilização de energias renováveis, utilização de materiais recicláveis e ou degradáveis e reciclagem de resíduos.\n\n2 - A forma de cálculo da VP resulta do somatório das pontuações obtidas em cada um dos parâmetros referidos no número anterior, sendo positiva quando o processo obtenha uma VP superior a 50 % da pontuação global.\n\n3 - Os compromissos assumidos nas alíneas b), c) e e) do n.º 1 devem ser apresentados de forma quantificada e podem ser objecto de verificação anual pela entidade fiscalizadora, durante um período de cinco anos, contado da data de entrada em funcionamento do estabelecimento ou conjunto comercial.\n\n4 - A metodologia para a determinação da VP, a sua aplicação aos estabelecimentos de retalho alimentar e misto, não alimentar e conjuntos comerciais, bem como as restantes regras técnicas necessárias à execução dos parâmetros para a elaboração do relatório, são fixadas por portaria do membro do Governo responsável pela área do comércio.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147425975": {
+   "fragment_id": "971573675",
+   "type": 11,
+   "heading": "Artigo 11.º — Comissão de autorização comercial",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01.",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 182/2014 - Diário da República n.º 249/2014, Série I de 2014-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2014-65990732), em vigor a partir de 2014-12-27."
+   ],
+   "markdown": "###### Artigo 11.º — Comissão de autorização comercial\n\n1 - A competência para conceder a autorização de instalação e modificação referida nos n.os 1 e 2 do artigo 3.º cabe à comissão de autorização comercial (COMAC) territorialmente competente.\n\n2 - As COMAC têm a seguinte composição:\n\na) Um autarca indicado pelo conjunto de municípios organizados territorialmente com base nas unidades de nível iii das NUTS em que se pretende instalar ou modificar o estabelecimento de comércio a retalho ou o conjunto comercial, que preside;\n\nb) O presidente da câmara municipal respectiva;\n\nc) O presidente da comissão de coordenação e desenvolvimento regional (CCDR) territorialmente competente;\n\nd) O director-geral das Actividades Económicas;\n\ne) [Revogada.]\n\n3 - As entidades referidas no número anterior podem fazer-se representar por um elemento por si designado.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 182/2014 - Diário da República n.º 249/2014, Série I de 2014-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2014-65990732), em vigor a partir de 2014-12-27."
+  },
+  "1147426075": {
+   "fragment_id": "971573875",
+   "type": 11,
+   "heading": "Artigo 12.º — Funcionamento da COMAC",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 182/2014 - Diário da República n.º 249/2014, Série I de 2014-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2014-65990732), em vigor a partir de 2014-12-27."
+   ],
+   "markdown": "###### Artigo 12.º — Funcionamento da COMAC\n\n1 - As COMAC reúnem, mensalmente, para apreciação de todos os processos que lhe tenham sido submetidos pela entidade coordenadora.\n\n2 - As regras de funcionamento da COMAC são fixadas por portaria do membro do Governo responsável pela área do comércio.\n\n3 - Os membros da COMAC ficam sujeitos às regras de confidencialidade aplicáveis aos funcionários do Estado, relativamente aos factos de que tomem conhecimento no exercício das suas funções.\n\n4 - É admitida a participação dos membros nas reuniões da COMAC por recurso a videoconferência ou teleconferência.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 182/2014 - Diário da República n.º 249/2014, Série I de 2014-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2014-65990732), em vigor a partir de 2014-12-27."
+  },
+  "1147426175": {
+   "fragment_id": "971574075",
+   "type": 11,
+   "heading": "Artigo 13.º — Critérios de decisão da COMAC",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "###### Artigo 13.º — Critérios de decisão da COMAC\n\n1 - As decisões da COMAC são emitidas após análise do relatório final efectuado pela DGAE, a que se refere o n.º 1 do artigo 9.º, sendo a apreciação dos processos efectuada com base nos seguintes critérios:\n\na) Respeito pelas normas de ordenamento do território em vigor, bem como adequação a planos sectoriais ou outras normas orientadoras definidas nos diversos instrumentos de planeamento territorial;\n\nb) Contribuição positiva em matéria de protecção ambiental, valorizando projectos energeticamente mais eficientes e com menor impacte na envolvente, avaliada de acordo com a alínea e) do n.º 1 do artigo 10.º;\n\nc) Avaliação da articulação funcional do estabelecimento ou conjunto comercial com o centro urbano, como forma de qualificar as centralidades existentes, promover a atractividade urbana, diminuir as deslocações pendulares e reduzir o congestionamento das infra-estruturas, avaliada de acordo com a alínea d) do n.º 1 do artigo 10.º;\n\nd) Contribuição para o desenvolvimento da qualidade do emprego, valorizando-se a responsabilidade social, avaliada de acordo com a alínea c) do n.º 1 do artigo 10.º;\n\ne) Contribuição para a multiplicidade da oferta comercial, avaliada de acordo com a alínea a) do n.º 1 do artigo 10.º;\n\nf) Contribuição para a diversificação e qualificação dos serviços ao consumidor, avaliada de acordo com a alínea b) do n.º 1 do artigo 10.º\n\n2 - Nos casos em que a VP não atinja a pontuação global positiva referida no n.º 2 do artigo 10.º, a decisão da COMAC é desfavorável.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147426275": {
+   "fragment_id": "971574275",
+   "type": 11,
+   "heading": "Artigo 14.º — Decisão",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "###### Artigo 14.º — Decisão\n\n1 - A entidade coordenadora envia aos membros da COMAC competente para efeitos de decisão, cópia do processo e do relatório da DGAE referido no n.º 1 do artigo 9.º\n\n2 - Na falta de emissão do relatório referido no número anterior, é emitido, pela entidade coordenadora, documento comprovativo de se encontrar decorrido o prazo necessário para a sua emissão.\n\n3 - Para efeitos de decisão, a COMAC analisa, em cada reunião, todos os processos que lhe tenham sido remetidos até cinco dias antes pela entidade coordenadora.\n\n4 - Podem ser solicitados, através da entidade coordenadora, e de uma só vez, esclarecimentos ou informações complementares à entidade que emitiu o relatório e ao requerente, os quais dispõem de um prazo máximo de 15 dias para efeitos de resposta, sendo o processo submetido a decisão na reunião seguinte.\n\n5 - A decisão tomada é acompanhada da imposição de obrigações destinadas a garantir o cumprimento de compromissos assumidos pelo requerente e que tenham constituído pressupostos da autorização.\n\n6 - A entidade coordenadora notifica o requerente da decisão, só podendo o documento comprovativo da autorização concedida ser emitido após o pagamento da taxa devida, nos termos do artigo 25.º do presente decreto-lei.\n\n7 - O documento comprovativo referido no número anterior é considerado para efeitos do disposto no artigo 37.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, com a redacção que lhe foi dada pela Lei n.º 60/2007, de 4 de Setembro.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147426375": {
+   "fragment_id": "971574475",
+   "type": 11,
+   "heading": "Artigo 15.º — Impugnação",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "###### Artigo 15.º — Impugnação\n\nDa decisão da COMAC cabe impugnação para os tribunais administrativos de círculo, cabendo à secretaria-geral do ministério responsável pela área do comércio, com a colaboração das entidades intervenientes no processo de autorização, prestar o necessário apoio jurídico.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147426475": {
+   "fragment_id": "971574675",
+   "type": 11,
+   "heading": "Artigo 16.º — Caducidade da autorização",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 182/2014 - Diário da República n.º 249/2014, Série I de 2014-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2014-65990732), em vigor a partir de 2014-12-27."
+   ],
+   "markdown": "###### Artigo 16.º — Caducidade da autorização\n\n1 - A autorização concedida caduca se, no prazo de seis ou oito anos a contar da data da sua emissão, não se verificar a entrada em funcionamento, respetivamente, do estabelecimento de comércio ou do conjunto comercial a que a mesma respeita.\n\n2 - No caso dos estabelecimentos comerciais inseridos em conjuntos comerciais, a autorização caduca na data da caducidade da autorização do conjunto comercial.\n\n3 - A título excepcional, a COMAC pode prorrogar a autorização concedida até ao máximo de um ano, quando se trate de estabelecimento de comércio, ou até ao máximo de dois anos, no caso de conjunto comercial, com base em requerimento do interessado, devidamente fundamentado e apresentado, com a antecedência mínima de 45 dias da data da caducidade da autorização, à entidade coordenadora, que emite um parecer sobre o mesmo.\n\n4 - O prazo de caducidade previsto nos números anteriores não se interrompe nem se suspende.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 182/2014 - Diário da República n.º 249/2014, Série I de 2014-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2014-65990732), em vigor a partir de 2014-12-27."
+  },
+  "1147426575": {
+   "fragment_id": "971574875",
+   "type": 11,
+   "heading": "Artigo 17.º — Alterações posteriores à autorização",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "###### Artigo 17.º — Alterações posteriores à autorização\n\n1 - As alterações que o requerente pretenda introduzir no processo entre a data de emissão da autorização e a entrada em funcionamento do estabelecimento ou do conjunto comercial, susceptíveis de alterar os pressupostos em que aquela se baseou e que digam respeito, nomeadamente, ao aumento da área de venda ou da área bruta locável, à tipologia ou à entidade exploradora se configurar alteração de grupo, são obrigatoriamente comunicadas à entidade coordenadora até 45 dias antes da data prevista de entrada em funcionamento do estabelecimento ou do conjunto comercial.\n\n2 - No prazo de três dias contados da data da sua recepção, a entidade coordenadora remete o pedido de alteração às entidades que intervieram no processo de autorização, para efeitos de apreciação.\n\n3 - A instrução técnica do processo e a elaboração do relatório final previsto no n.º 1 do artigo 9.º são efectuadas no prazo de 10 dias contado da data da recepção do pedido.\n\n4 - A COMAC decide na reunião seguinte à data da recepção do relatório referido no número anterior ou do fim do prazo para a respectiva emissão, decorrido o qual, sem que a decisão seja tomada, se considera que o pedido de alteração foi deferido.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147426675": {
+   "fragment_id": "971575075",
+   "type": 1,
+   "heading": "Capítulo III — Funcionamento",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "### Capítulo III — Funcionamento\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147426775": {
+   "fragment_id": "971575275",
+   "type": 11,
+   "heading": "Artigo 18.º — Comunicação de abertura",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "###### Artigo 18.º — Comunicação de abertura\n\n1 - Sem prejuízo da obtenção do alvará de autorização de utilização, previsto no regime jurídico da urbanização e da edificação, o titular do empreendimento, até 20 dias antes da abertura do estabelecimento ou conjunto comercial, comunica tal facto à entidade coordenadora e à câmara municipal respectiva, acompanhado de termo de responsabilidade segundo o qual o estabelecimento ou conjunto comercial cumpre os compromissos que fundamentaram a autorização de instalação ou de modificação.\n\n2 - A comunicação referida no número anterior é considerada para efeitos do disposto no Decreto-Lei n.º 259/2007, de 17 de Julho.\n\n3 - A comunicação é efectuada através do modelo referido no n.º 5 do artigo 3.º\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147426875": {
+   "fragment_id": "971575475",
+   "type": 11,
+   "heading": "Artigo 19.º — Comunicação do encerramento",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "###### Artigo 19.º — Comunicação do encerramento\n\nO encerramento dos estabelecimentos e conjuntos comerciais abrangidos pelo presente decreto-lei deve ser comunicado à entidade coordenadora, até 20 dias após a sua ocorrência, através do modelo referido no n.º 5 do artigo 3.º\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147426975": {
+   "fragment_id": "971575675",
+   "type": 11,
+   "heading": "Artigo 20.º — Registo",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "###### Artigo 20.º — Registo\n\n1 - A abertura, as modificações e o encerramento dos estabelecimentos e conjuntos comerciais abrangidos pelo presente decreto-lei são objecto de registo, efectuado pela DGAE, o qual é considerado para efeitos do disposto no Decreto-Lei n.º 462/99, de 5 de Novembro, e do artigo 6.º do Decreto-Lei n.º 259/2007, de 17 de Julho.\n\n2 - O registo é efectuado com base nas comunicações efectuadas ao abrigo do n.º 4 do artigo 3.º, do n.º 1 do artigo 18.º e do artigo 19.º\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147427075": {
+   "fragment_id": "971575875",
+   "type": 1,
+   "heading": "Capítulo IV — Pedidos de informação, fiscalização e sanções",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "### Capítulo IV — Pedidos de informação, fiscalização e sanções\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147427175": {
+   "fragment_id": "971576075",
+   "type": 11,
+   "heading": "Artigo 21.º — Prestação de informações",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "###### Artigo 21.º — Prestação de informações\n\nA DGAE, no exercício das competências que lhes são conferidas pelo presente decreto-lei, pode solicitar a prestação de informações aos promotores e a associações de empresas, fixando, para o efeito, os prazos que entenda razoáveis.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147427275": {
+   "fragment_id": "971576275",
+   "type": 11,
+   "heading": "Artigo 22.º — Fiscalização",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "###### Artigo 22.º — Fiscalização\n\nA fiscalização do cumprimento do disposto no presente decreto-lei, incluindo a verificação regular do cumprimento das condições e dos compromissos assumidos pelos promotores, que condicionaram a emissão da autorização, compete à Autoridade de Segurança Alimentar e Económica (ASAE), sem prejuízo das competências legalmente atribuídas a outras entidades.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147427375": {
+   "fragment_id": "971576475",
+   "type": 11,
+   "heading": "Artigo 23.º — Infracções",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 182/2014 - Diário da República n.º 249/2014, Série I de 2014-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2014-65990732), em vigor a partir de 2014-12-27."
+   ],
+   "markdown": "###### Artigo 23.º — Infracções\n\n1 - Constituem contra-ordenações puníveis com as seguintes coimas, quando cometidas por pessoa singular:\n\na) De (euro) 5000 a (euro) 25 000, a instalação ou modificação de um estabelecimento ou conjunto comercial sem a autorização legalmente exigida e o incumprimento das obrigações que fundamentaram a decisão de autorização emitida pela COMAC;\n\nb) De (euro) 2500 a (euro) 12 500, a falta de comunicação atempada à entidade coordenadora de quaisquer alterações posteriores à emissão da autorização e anteriores à entrada de funcionamento do estabelecimento ou conjunto comercial, susceptíveis de alterar os pressupostos da decisão de autorização;\n\nc) De (euro) 500 a (euro) 2500, a falta de comunicação atempada das modificações previstas no n.º 4 do artigo 3.º, a abertura do estabelecimento ou conjunto comercial sem comunicar atempadamente à entidade coordenadora e à câmara municipal respectiva e o encerramento do estabelecimento ou conjunto comercial sem comunicar atempadamente à entidade coordenadora;\n\nd) De (euro) 250 a (euro) 1250, a falta de envio de informações à DGAE pelos promotores.\n\n2 - Constituem contra-ordenações puníveis com as seguintes coimas, quando cometidas por pessoa colectiva:\n\na) De (euro) 100 000 a (euro) 500 000, a instalação ou modificação de um estabelecimento ou conjunto comercial sem a autorização legalmente exigida e o incumprimento das obrigações que fundamentaram a decisão de autorização emitida pela COMAC;\n\nb) De (euro) 30 000 a (euro) 150 000, a falta de comunicação atempada à entidade coordenadora de quaisquer alterações posteriores à emissão da autorização e anteriores à entrada de funcionamento do estabelecimento ou conjunto comercial, susceptíveis de alterar os pressupostos da decisão de autorização;\n\nc) De (euro) 5000 a (euro) 25 000, a falta de comunicação atempada das modificações previstas no n.º 4 do artigo 3.º, a abertura do estabelecimento ou conjunto comercial sem comunicar atempadamente à entidade coordenadora e à câmara municipal respectiva e o encerramento do estabelecimento ou conjunto comercial sem comunicar atempadamente à entidade coordenadora;\n\nd) De (euro) 2500 a (euro) 15 000, a falta de envio de informações à DGAE pelos promotores ou associações de empresas.\n\n3 - A negligência é punível, sendo os limites mínimo e máximo das coimas aplicáveis reduzidos a metade.\n\n4 - A ASAE pode solicitar a colaboração de quaisquer outras entidades sempre que o julgue necessário ao exercício das suas funções.\n\n5 - A instrução dos processos de contra-ordenação compete à ASAE.\n\n6 - A aplicação das coimas e sanções acessórias previstas no presente decreto-lei compete ao inspetor-geral da ASAE.\n\n7 - O produto das coimas aplicadas no âmbito da presente lei reverte:\n\na) 60 % para o Estado;\n\nb) 40 % para a ASAE;\n\nc) [Revogada].\n\n8 - [Revogado].\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 182/2014 - Diário da República n.º 249/2014, Série I de 2014-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2014-65990732), em vigor a partir de 2014-12-27."
+  },
+  "1147427475": {
+   "fragment_id": "971576675",
+   "type": 11,
+   "heading": "Artigo 24.º — Sanção acessória",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "###### Artigo 24.º — Sanção acessória\n\nNo caso das contra-ordenações previstas nas alíneas a) e b) dos n.os 1 e 2 do artigo anterior, simultaneamente com a coima, pode ser aplicada, por período não superior a dois anos, a sanção acessória prevista na alínea f) do n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro, na redacção que lhe foi dada pelo Decreto-Lei n.º 244/95, de 14 de Setembro, ficando o reinício de actividade dependente da concessão de autorização a emitir pela entidade competente nos termos do presente decreto-lei.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147427575": {
+   "fragment_id": "971576875",
+   "type": 11,
+   "heading": "Artigo 25.º — Taxas",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "###### Artigo 25.º — Taxas\n\n1 - Os actos relativos à autorização dos processos de instalação e de modificação dos estabelecimentos de comércio e conjuntos comerciais, incluindo as prorrogações, estão sujeitos ao pagamento da respectiva taxa, cujo montante varia em função da área de venda ou área bruta locável objecto de autorização.\n\n2 - As taxas referidas no número anterior são as seguintes:\n\na) A taxa de autorização dos pedidos de instalação ou de modificação dos estabelecimentos de comércio a retalho é de (euro) 30 por metro quadrado de área de venda autorizada;\n\nb) No caso de estabelecimentos integrados em conjuntos comerciais, o montante da taxa referida na alínea anterior é reduzido a metade;\n\nc) A taxa de autorização de instalação ou de modificação de conjuntos comerciais é de (euro) 20 por metro quadrado de área bruta locável autorizada, com um limite máximo de (euro) 1 000 000;\n\nd) As taxas relativas aos processos de modificação de estabelecimentos de comércio a retalho decorrentes de operações de concentração de empresas sujeitas a notificação prévia, nos termos da legislação de concorrência nacional ou comunitária, sofrem uma redução de dois terços em relação aos valores referidos nas alíneas anteriores;\n\ne) As taxas relativas à prorrogação das autorizações de instalação ou modificação de estabelecimentos ou conjuntos comerciais são de:\n\ni) (euro) 300, para os estabelecimentos;\n\nii) (euro) 1500, para os conjuntos comerciais.\n\n3 - As taxas referidas no número anterior são pagas à entidade coordenadora no prazo de 30 dias após a data da recepção pelo promotor da notificação da decisão referida no artigo 14.º\n\n4 - A autorização de instalação e modificação caduca se as taxas não forem liquidadas no prazo indicado no número anterior.\n\n5 - As receitas resultantes da cobrança das taxas de autorização dos processos e das prorrogações revertem em 1 % a favor da entidade coordenadora, em 0,5 % a favor da entidade que efectua a instrução técnica do processo e elabora o relatório final previsto no artigo 9.º e o restante a favor do Fundo de Modernização do Comércio, criado pelo Decreto-Lei n.º 178/2004, de 27 de Julho, alterado pelo Decreto-Lei n.º 143/2005, de 26 de Agosto, bem como do fundo de apoio aos empresários comerciais a que se refere o despacho conjunto n.º 324/2002, de 8 de Março, publicado no Diário da República, 2.ª série, n.º 94, de 22 de Abril de 2002, sem prejuízo das dotações previstas no mesmo despacho conjunto.\n\n6 - A liquidação e a cobrança das taxas são da competência da entidade coordenadora, a qual procede ao pagamento, até ao dia 10 de cada mês, através de transferência bancária ou cheque, às demais entidades, acompanhado da relação dos processos a que se referem.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147427675": {
+   "fragment_id": "971577075",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "### Capítulo V — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147427775": {
+   "fragment_id": "971577275",
+   "type": 11,
+   "heading": "Artigo 26.º — Processos pendentes",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "###### Artigo 26.º — Processos pendentes\n\n1 - Os processos relativos a estabelecimentos e conjuntos comerciais que, por força da alteração do âmbito de aplicação do presente decreto-lei, deixam de estar abrangidos pelo regime de autorização, são considerados extintos.\n\n2 - Os processos que, à data da entrada em vigor do presente decreto-lei, não tenham ainda obtido a decisão referida no artigo 17.º da Lei n.º 12/2004, de 30 de Março, são decididos de acordo com o disposto no presente decreto-lei, podendo a entidade coordenadora solicitar os elementos necessários à sua avaliação, de acordo com os novos parâmetros e critérios de apreciação.\n\n3 - O presente decreto-lei aplica-se aos pedidos de modificação previstos no artigo 21.º da Lei n.º 12/2004, de 30 de Março, bem como às prorrogações das autorizações, referidas no seu artigo 20.º\n\n4 - O disposto no presente decreto-lei não se aplica às modificações de conjuntos comerciais referidos no n.º 2 do artigo 3.º, relativamente aos quais, à data da entrada em vigor deste decreto-lei, já tenha sido emitida informação prévia favorável ou licença de construção, nos termos do regime jurídico da urbanização e da edificação.\n\n5 - As autorizações de instalação ou modificação cujos prazos de caducidade foram suspensos, caducam definitivamente se no prazo de 180 dias após a data da entrada em vigor do presente decreto-lei não se verificar a entrada em funcionamento do estabelecimento ou conjunto comercial a que as mesmas respeitam.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147427875": {
+   "fragment_id": "971577475",
+   "type": 11,
+   "heading": "Artigo 27.º — Norma revogatória",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "###### Artigo 27.º — Norma revogatória\n\n1 - É revogada a Lei n.º 12/2004, de 30 de Março, e as Portarias n.os 518/2004, 519/2004 e 520/2004, todas de 20 de Maio, e 620/2004, de 7 de Junho.\n\n2 - A revogação prevista no número anterior não prejudica a remissão operada por diplomas legais em vigor para:\n\na) A definição de «grandes superfícies comerciais», estabelecida na alínea a) do n.º 1 do artigo 2.º do Decreto-Lei n.º 258/92, de 20 de Novembro;\n\nb) A definição de «estabelecimento de comércio por grosso», estabelecida na alínea a) do artigo 3.º da Lei n.º 12/2004, de 30 de Março.\n\n3 - Para efeitos de sujeição a procedimento de AIA, a remissão operada pela alínea b) do n.º 10 do anexo ii do Decreto-Lei n.º 69/2000, de 3 de Maio, com a redacção que lhe foi dada pelo Decreto-Lei n.º 197/2005, de 8 de Novembro, para a definição de estabelecimento de comércio ou conjunto comercial, considera-se efectuada para as alíneas f) e h) a l) do artigo 4.º do presente decreto-lei, sem prejuízo do disposto na alínea b) do número anterior.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147427975": {
+   "fragment_id": "971577675",
+   "type": 11,
+   "heading": "Artigo 28.º — Avaliação da aplicação do regime de autorização",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "###### Artigo 28.º — Avaliação da aplicação do regime de autorização\n\nA entidade coordenadora está obrigada a elaborar relatórios anuais com indicação dos elementos estatísticos relevantes relativos à tramitação dos procedimentos previstos no presente decreto-lei, bem como eventuais constrangimentos identificados, designadamente, no sistema de informação e nas regras aplicáveis.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147428075": {
+   "fragment_id": "971577875",
+   "type": 11,
+   "heading": "Artigo 29.º — Entrada em vigor",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "###### Artigo 29.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 90 dias após a sua publicação.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147428175": {
+   "fragment_id": "971578075",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 4 de Dezembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Rui Nuno Garcia de Pina Neves Baleiras - Manuel António Gomes de Almeida de Pinho.\n\nPromulgado em 8 de Janeiro de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 9 de Janeiro de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  },
+  "1147428275": {
+   "fragment_id": "971578275",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 1 do artigo 8.º)",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+   ],
+   "markdown": "## Anexo — (a que se refere o n.º 1 do artigo 8.º)\n\nElementos que devem acompanhar o pedido de instalação ou modificação dos estabelecimentos a retalho e dos conjuntos comerciais, de acordo com o previsto no n.º 1 do artigo 8.º do presente decreto-lei.\n\nA - Elementos aplicáveis aos estabelecimentos\n\nQuando estejam em causa estabelecimentos de comércio a retalho referidos nas alíneas a) e b) do n.º 1 do artigo 2.º do presente decreto-lei, os pedidos de autorização devem ser acompanhados dos seguintes elementos:\n\nI - Informação geral:\n\na) Legitimidade para apresentação do pedido - título de propriedade, contrato-promessa ou qualquer outro documento bastante, de que resulte ou possa vir a resultar a legitimidade do requerente para construir o estabelecimento em causa ou, caso estes já existam, para os explorar comercialmente;\n\nb) Número e localização de estabelecimentos que preencham os requisitos previstos no n.º 1 do artigo 2.º do presente decreto-lei que, eventualmente, já detenha, referindo os respectivos anos de abertura, áreas de venda e número de trabalhadores;\n\nc) Informação prévia de localização favorável ou documento que a substitua nos termos do previsto no artigo 5.º do presente decreto-lei;\n\nd) No caso de estabelecimentos comerciais abrangidos pelo regime jurídico de avaliação de impacte ambiental, declaração de impacte ambiental favorável ou documento que a substitua, nos termos do previsto no artigo 5.º do presente decreto-lei.\n\nII - Caracterização - características do estabelecimento de comércio:\n\nLocalização;\n\nNome/insígnia/designação;\n\nTipologia de comércio (alimentar, não alimentar - com indicação do respectivo ramo de actividade - ou misto);\n\nNúmero de pisos;\n\nÁrea de venda/áreas de armazenagem, de serviços de apoio e de escritórios;\n\nNúmero de lugares de estacionamento e de cargas e descargas previstos e respectivas áreas;\n\nPrazo previsível de construção e de abertura ao público.\n\nIII - Área de influência:\n\na) Definição da área de influência - identificação, fundamentação e caracterização da área de influência a que se reporta o pedido e apresentação da metodologia subjacente;\n\nb) Descrição da diversidade comercial que se verifica na área de influência a que se reporta o pedido - número e características dos estabelecimentos existentes e que estejam abrangidos pelo n.º 1 do artigo 2.º do presente decreto-lei, especificando, designadamente, as respectivas localizações, especificando a freguesia, áreas de venda, insígnias, ramos de comércio e métodos de venda.\n\nIV - Apreciação:\n\na) Cumprimento dos parâmetros de apreciação - demonstração do cumprimento dos parâmetros de apreciação referidos no n.º 1 do artigo 10.º do presente decreto-lei, incluindo apresentação de documento do qual constem os compromissos a que se refere o n.º 3 do artigo 10.º do presente decreto-lei;\n\nb) Para efeito da avaliação prevista na alínea b) do n.º 1 do artigo 10.º do presente decreto-lei - serviços prestados ao consumidor - deve indicar de forma quantificada e discriminada:\n\ni) Quais os serviços de apoio às pessoas com deficiências e incapacidades;\n\nii) Existência de cartão de desconto ao cliente;\n\niii) Existência de serviço de entrega ao domicílio, se aplicável;\n\niv) Existência de assistência de pós-venda, se aplicável;\n\nv) Existência de vendas à distância, se aplicável;\n\nvi) Adesão ao centro de arbitragem de conflitos de consumo;\n\nc) Para efeito da avaliação prevista na alínea c) do n.º 1 do artigo 10.º do presente decreto-lei - qualidade do emprego e responsabilidade social - deve indicar de forma quantificada e discriminada:\n\ni) Número de pessoas ao serviço;\n\nii) Número de trabalhadores contratados por tipo de vínculo contratual e categoria profissional;\n\niii) Número de contratos celebrados com pessoas com deficiências e incapacidades;\n\niv) Existência de plano de formação contínua para todos os trabalhadores;\n\nd) Para efeito da avaliação prevista na alínea d) do n.º 1 do artigo 10.º do presente decreto-lei - localização do estabelecimento no centro urbano - deve apresentar declaração da câmara municipal indicando se o estabelecimento se situa dentro ou fora do centro urbano conforme definido na alínea e) do artigo 4.º do presente decreto-lei;\n\ne) Para efeito da avaliação prevista na alínea e) do n.º 1 do artigo 10.º do presente decreto-lei - eco eficiência - deve indicar de forma discriminada:\n\ni) Existência de certificação energética conforme referido no anexo xi do Decreto-Lei n.º 79/2006, de 4 de Abril;\n\nii) Adopção de medidas tendentes à melhoria da qualidade ambiental através da utilização de materiais recicláveis e ou degradáveis, nomeadamente, em sacos de compras e embalagens, existência de pontos de recolha de embalagens e outros bens reutilizáveis, produtos poluentes, etc.;\n\niii) Existência de reciclagem de resíduos e qual a percentagem.\n\nOu, em sua substituição, a existência de Certificação Ambiental conforme Norma NP EN ISO 14001:2004.\n\nTodos os elementos que, à data da apresentação do pedido de instalação, não possam ser objecto de comprovação, são substituídos por declaração sob compromisso de honra.\n\nB - Elementos aplicáveis aos conjuntos comerciais\n\nQuando estejam em causa conjuntos comerciais referidos nas alíneas c) e d) do n.º 1 do artigo 2.º do presente decreto-lei, os pedidos de autorização devem ser acompanhados dos seguintes elementos:\n\nI - Informação geral:\n\na) Legitimidade para apresentação do pedido - título de propriedade, contrato-promessa ou qualquer outro documento bastante, de que resulte ou possa vir a resultar a legitimidade do requerente para construir o conjunto comercial em causa ou, caso este já exista, para o explorar comercialmente;\n\nb) Número e localização dos conjuntos comerciais que preencham os requisitos previstos no n.º 1 do artigo 2.º do presente decreto-lei que, eventualmente, já detenha, referindo os respectivos anos de abertura, áreas brutas locáveis, estabelecimentos que os constituem, mix comercial e número de estabelecimentos em funcionamento, número de trabalhadores próprios e das lojas;\n\nc) Informação prévia de localização favorável ou documento que a substitua nos termos do previsto no artigo 5.º do presente decreto-lei;\n\nd) No caso de conjuntos comerciais abrangidos pelo regime jurídico de avaliação de impacte ambiental, declaração de impacte ambiental favorável ou documento que a substitua, nos termos do previsto no artigo 5.º do presente decreto-lei.\n\nII - Caracterização - características do conjunto comercial:\n\nLocalização;\n\nNome/designação;\n\nNúmero de pisos;\n\nÁrea bruta locável;\n\nÁreas de armazenagem, de serviços de apoio e de escritórios;\n\nNúmero de lugares de estacionamento e de cargas e descargas previstos e respectivas áreas;\n\nNúmero dos estabelecimentos de comércio que integram o conjunto comercial e mix comercial previsto;\n\nDistribuição das lojas por grupos de actividades;\n\nNúmero de postos de trabalho estimados das lojas e do CC;\n\nPrazo previsível de construção e de abertura ao público.\n\nIII - Área de influência:\n\na) Definição da área de influência - identificação e caracterização da área de influência a que se reporta o pedido e apresentação da metodologia subjacente;\n\nb) Descrição da diversidade comercial que se verifica na área de influência a que se reporta o pedido - número e características dos conjuntos comerciais que preencham os requisitos previstos no n.º 1 do artigo 2.º do presente decreto-lei, especificando, designadamente, a respectiva localização, especificando a freguesia, e áreas brutas locáveis.\n\nIV - Apreciação:\n\na) Cumprimento dos parâmetros de apreciação - demonstração do cumprimento dos parâmetros de apreciação referidos no n.º 1 do artigo 10.º do presente decreto-lei, incluindo apresentação de documento do qual constem os compromissos a que se refere o n.º 3 do artigo 10.º do presente decreto-lei;\n\nb) Para efeito da avaliação prevista na alínea a) do n.º 1 do artigo 10.º do presente decreto-lei - diversidade de actividades - deve indicar de forma quantificada e discriminada as actividades que definem o seu mix;\n\nc) Para efeito da avaliação prevista na alínea b) do n.º 1 do artigo 10.º do presente decreto-lei - serviços prestados ao consumidor - deve indicar de forma quantificada e discriminada:\n\ni) Quais os serviços de apoio ao idoso e à pessoa com deficiência e incapacidade;\n\nii) Existência de serviços de guarda e acompanhamento de crianças e qual o seu custo para o cliente;\n\niii) Existência de estacionamento e qual o seu custo para o cliente;\n\niv) Existência de cartão de desconto para o cliente;\n\nv) Existência de carta de compra com ponto único de entrega das compras;\n\nvi) Adesão ao centro de arbitragem de conflitos de consumo;\n\nd) Para efeito da avaliação prevista na alínea c) do n.º 1 do artigo 10.º do presente decreto-lei - responsabilidade social da empresa - deve indicar de forma quantificada e discriminada:\n\ni) Existência de espaços de lazer e tomada de refeições para os trabalhadores dos estabelecimentos inseridos no conjunto comercial;\n\nii) Existência de creche para os filhos dos trabalhadores dos estabelecimentos inseridos no conjunto comercial;\n\ne) Para efeito da avaliação prevista na alínea d) do n.º 1 do artigo 10.º do presente decreto-lei - localização do conjunto comercial no centro urbano - deve apresentar declaração da câmara municipal indicando se o estabelecimento se situa dentro ou fora do centro urbano conforme definido na alínea e) do artigo 4.º do presente decreto-lei;\n\nf) Para efeito da avaliação prevista na alínea e) do n.º 1 do artigo 10.º do presente decreto-lei - eco eficiência - deve indicar de forma discriminada:\n\ni) Existência de certificação energética conforme referido no anexo xi do Decreto-Lei n.º 79/2006, de 4 de Abril;\n\nii) Adopção de medidas tendentes à melhoria da qualidade ambiental através da utilização de materiais recicláveis e ou degradáveis, nomeadamente, em sacos de compras e embalagens, existência de pontos de recolha de embalagens e outros bens reutilizáveis, produtos poluentes, etc.;\n\niii) Existência de reciclagem de resíduos e qual a percentagem.\n\nOu, em sua substituição, a existência de Certificação Ambiental conforme Norma NP EN ISO 14001:2004.\n\nTodos os elementos que, à data da apresentação do pedido de instalação, não possam ser objecto de comprovação, são substituídos por declaração sob compromisso de honra.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01."
+  }
+ }
+}

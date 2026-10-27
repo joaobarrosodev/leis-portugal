@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31973L0241:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01973L0241-20030803",
+ "dre_path": null,
+ "source_lastmod": "2003-08-03",
+ "versions": [
+  {
+   "date": "2003-08-03",
+   "future": false,
+   "celex": "01973L0241-20030803",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "19e04a7dfbd48796"
+   ]
+  }
+ ],
+ "fragments": {
+  "19e04a7dfbd48796": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01973L0241 — PT — 03.08.2003 — 012.002\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31973L0241) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31973L0241) [de 24 de Julho de 1973](http://publications.europa.eu/resource/celex/31973L0241) [relativa à aproximação das legislações dos Estados-membros respeitantes aos produtos de cacau e de chocolate destinados à alimentação humana](http://publications.europa.eu/resource/celex/31973L0241) [(73/241/CEE)](http://publications.europa.eu/resource/celex/31973L0241) (JO L 228, 16.8.1973, p.23)\n\n**Revogada por:**\n\n- [Directiva 2000/36/CE do Parlamento Europeu e do Conselho de 23 de Junho de 2000](http://publications.europa.eu/resource/celex/32000L0036) — L 197 — 19 — 3.8.2000"
+  }
+ }
+}

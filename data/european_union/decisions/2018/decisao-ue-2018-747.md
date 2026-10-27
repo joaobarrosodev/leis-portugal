@@ -1,0 +1,174 @@
+---
+schema_version: '1.0'
+id: eu:celex:32018D0747:por
+title: Decisão de Execução (UE) 2018/747 do Conselho, de 14 de maio de 2018
+short_title: null
+summary: Decisão de Execução (UE) 2018/747 do Conselho, de 14 de maio de 2018, que sujeita a nova substância psicoativa N-(1-amino-3,3-dimetil-1-oxobutan-2-il)-1-(ciclo-hexilmetil)-1H-indazole-3-carboxamida
+  (ADB-CHMINACA) a medidas de controlo
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão de Execução
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 2018/747
+official_date: null
+publication_date: '2018-05-22'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 125 de 22.5.2018
+  number: '125'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/cbc67877-5d87-11e8-ab41-01aa75ed71a1.0018.01/DOC_1
+entry_into_force_dates:
+- '2018-05-23'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32018D0747
+  eli: http://data.europa.eu/eli/dec_impl/2018/747/oj
+  oj: oj:JOL_2018_125_R_0002
+  dre: null
+  dre_path: null
+  internal: eu:celex:32018D0747:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32018D0747
+  metadata_url: http://publications.europa.eu/resource/cellar/cbc67877-5d87-11e8-ab41-01aa75ed71a1.0018
+  content_url: http://publications.europa.eu/resource/cellar/cbc67877-5d87-11e8-ab41-01aa75ed71a1.0018.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-26T12:26:44Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-02-12T18:21:18.712+01:00'
+integrity:
+  source_sha256: 4018c3ca861379b384a94b55f0dbe245993484fcc00808212f43b6d696c0e9dd
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T12:26:44Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- controlo da UE
+- cooperação judiciária em matéria penal (UE)
+- inspeção sanitária
+- risco sanitário
+- toxicologia
+- toxicomania
+- tranquilizante
+- tráfico de estupefacientes
+relationships:
+- type: based_on
+  target: celex:32005D0387
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1220f240-3f1a-4a14-9df7-9cd2b297f4bb
+  date: '2005-05-24'
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T12:26:44Z'
+  warnings: []
+  errors: []
+---
+
+# DECISÃO DE EXECUÇÃO (UE) 2018/747 DO CONSELHO
+
+de 14 de maio de 2018
+
+que sujeita a nova substância psicoativa *N*-(1-amino-3,3-dimetil-1-oxobutan-2-il)-1-(ciclo-hexilmetil)-1*H*-indazole-3-carboxamida (ADB-CHMINACA) a medidas de controlo
+
+O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta a Decisão 2005/387/JAI do Conselho, de 10 de maio de 2005, relativa ao intercâmbio de informações, avaliação de riscos e controlo de novas substâncias psicoativas [([^1])](http://publications.europa.eu/resource/cellar/cbc67877-5d87-11e8-ab41-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2018125PT.01000801-E0001), nomeadamente o artigo 8.º, n.º 3,
+
+Tendo em conta a proposta da Comissão Europeia,
+
+Tendo em conta o parecer do Parlamento Europeu [([^2])](http://publications.europa.eu/resource/cellar/cbc67877-5d87-11e8-ab41-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2018125PT.01000801-E0002),
+
+Considerando o seguinte:
+
+(1) Nos termos do artigo 6.º da Decisão 2005/387/JAI, numa reunião especial, o Comité Científico alargado do Observatório Europeu da Droga e da Toxicodependência elaborou um relatório de avaliação de riscos da nova substância psicoativa *N*-(1-amino-3,3-dimetil-1-oxobutan-2-il)-1-(ciclo-hexilmetil)-1*H*-indazole-3-carboxamida (ADB-CHMINACA). Esse relatório foi enviado à Comissão e ao Conselho em 14 de novembro de 2017.
+
+(2) O ADB-CHMINACA é um canabinoide sintético. Apresenta efeitos semelhantes aos do THC, o principal responsável pelos efeitos psicoativos da canábis, mas o ADB-CHMINACA possui toxicidade adicional, que pode ser mortal. A elevada potência do ADB-CHMINACA, por um lado, e o facto de poder apresentar-se em percentagem elevada ou desconhecida variável em misturas para fumar, por outro, explicam o grande risco de envenenamento que a substância representa.
+
+(3) O ADB-CHMINACA está acessível na União pelo menos desde agosto de 2014, tendo a sua presença sido detetada em 17 Estados-Membros. Devido à sua natureza, é provável que o número de casos detetados seja inferior ao real uma vez que o ADB-CHMINACA não é regularmente rastreado. Na maior parte dos casos, o ADB-CHMINACA foi apreendido sob a forma de uma mistura de ervas ou plantas e sob a forma pulverulenta, mas também o foi, em menos casos, noutras formas físicas, por exemplo impregnada em papel mata-borrão. Foram realizadas mais de 630 apreensões na União.
+
+(4) Três Estados-Membros comunicaram a ocorrência de 13 mortes associadas ao ADB-CHMINACA. Em, pelo menos, nove casos, o ADB-CHMINACA foi a causa da morte ou provavelmente contribuiu para ela. Além disso, um Estado-Membro comunicou a ocorrência de três intoxicações agudas não-fatais associadas ao ADB-CHMINACA. Dada a natureza do ADB-CHMINACA, é provável que o número de casos detetados e comunicados de de intoxicação não-fatal e de morte causadas pelo ADB-CHMINACA seja inferior ao real.
+
+(5) Não há informações sobre o envolvimento da criminalidade organizada no fabrico, na distribuição, no tráfico e no fornecimento de ADB-CHMINACA na União. As informações disponíveis sugerem que o ADB-CHMINACA é produzido por empresas químicas na China.
+
+(6) O ADB-CHMINACA é normalmente vendido em pequenas quantidades e a granel em lojas de drogas legais com a designação de mistura de drogas legais, como misturas para fumar ou sob forma pulverulenta, bem como através da internet, como sucedâneo legal da canábis. Também pode ser vendido diretamente no mercado das drogas ilícitas. Uma vez que a embalagem destes produtos raramente indica a sua composição, a maior parte dos consumidores desconhece estar a utilizar o ADB-CHMINACA, ou até canabinoides sintéticos, em geral.
+
+(7) O ADB-CHMINACA não tem utilizações médicas ou veterinárias reconhecidas na União nem aparentemente fora dela. Não há indicações de que possa ser utilizado para outros fins que não o de padrão analítico de referência ou em investigação científica.
+
+(8) O relatório de avaliação de riscos revela que muitas das questões relacionadas com o ADB-CHMINACA, colocadas pela falta de dados sobre os riscos para a saúde das pessoas e para a saúde pública e sobre os riscos no plano social, podem obter resposta por via de mais investigação. No entanto, os dados e informações disponíveis sobre os riscos sanitários e sociais do ADB-CHMINACA constituem motivo suficiente para sujeitar esta substância a medidas de controlo em toda a União.
+
+(9) O ADB-CHMINACA não consta da lista de substâncias a controlar ao abrigo da Convenção Única das Nações Unidas de 1961 sobre os Estupefacientes ou da Convenção das Nações Unidas de 1971 sobre as Substâncias Psicotrópicas. O ADB-CHMINACA não está atualmente sob avaliação pelo sistema das Nações Unidas.
+
+(10) Atendendo a que 13 Estados-Membros aplicam medidas de controlo ao ADB-CHMINACA ao abrigo das suas legislações nacionais em matéria de controlo da droga e que quatro Estados-Membros recorrem a outras medidas legislativas para o referido controlo, a sujeição do ADB-CHMINACA a medidas de controlo em toda a União contribuirá para evitar o surgimento de obstáculos à cooperação policial e judiciária transfronteiras, bem como para proteger as pessoas dos riscos associados à disponibilidade e ao consumo da substância.
+
+(11) A Decisão 2005/387/JAI atribui ao Conselho competências de execução com vista a uma resposta rápida e baseada em conhecimentos especializados, a nível da União, ao surgimento de novas substâncias psicoativas detetadas e notificadas pelos Estados-Membros, sujeitando essas substâncias a medidas de controlo em toda a União. Uma vez que estão satisfeitas as condições e o processo de desencadeamento do exercício dessas competências de execução, deverá ser adotada uma decisão de execução que sujeite o ADB-CHMINACA a medidas de controlo em toda a União.
+
+(12) A Dinamarca está vinculada à Decisão 2005/387/JAI e, por conseguinte, participa na adoção e aplicação da presente decisão, que dá execução à Decisão 2005/387/JAI.
+
+(13) A Irlanda está vinculada à Decisão 2005/387/JAI e, por conseguinte, participa na adoção e aplicação da presente decisão, que dá execução à Decisão 2005/387/JAI.
+
+(14) O Reino Unido não está vinculado à Decisão 2005/387/JAI e, por conseguinte, não participa na adoção nem na aplicação da presente decisão e não fica a ela vinculado nem sujeito à sua aplicação,
+
+ADOTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º
+
+A nova substância psicoativa *N*-(1-amino-3,3-dimetil-1-oxobutan-2-il)-1-(ciclo-hexilmetil)-1*H*-indazo-3-carboxamida (ADB-CHMINACA) fica sujeita a medidas de controlo em toda a União.
+
+###### Artigo 2.º
+
+Até 23 de maio de 2019, os Estados-Membros devem tomar as medidas necessárias para, em conformidade com o seu direito interno, sujeitar ao ADB-CHMINACA a medidas de controlo e sanções penais previstas nas respetivas legislações, em cumprimento das suas obrigações decorrentes da Convenção das Nações Unidas de 1971 sobre as Substâncias Psicotrópicas.
+
+###### Artigo 3.º
+
+A presente decisão entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+A presente decisão é aplicável nos termos dos Tratados.
+
+Feito em Bruxelas, em 14 de maio de 2018.
+
+***Pelo Conselho***
+
+***A Presidente***
+
+**E. ZAHARIEVA**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/cbc67877-5d87-11e8-ab41-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2018125PT.01000801-E0001) [JO L 127 de 20.5.2005, p. 32](http://publications.europa.eu/resource/oj/JOL_2005_127_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/cbc67877-5d87-11e8-ab41-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2018125PT.01000801-E0002) Parecer de 3 de maio de 2018 (ainda não publicado no Jornal Oficial).

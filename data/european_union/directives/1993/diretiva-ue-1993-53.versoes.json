@@ -1,0 +1,842 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993L0053:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0053-20080801",
+ "dre_path": null,
+ "source_lastmod": "2008-08-01",
+ "versions": [
+  {
+   "date": "1993-07-19",
+   "future": false,
+   "celex": "31993L0053",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e17a267650ab4534",
+    "2cbcdc2c1967aa55",
+    "7351c59abc56c523",
+    "4a8ee465b7466573",
+    "a99ee495a98fe310",
+    "9e4fa10a8850ef37",
+    "a8b00839b9160dd3",
+    "2d6e545611b0e069",
+    "c17b6e664555da88",
+    "ded4ad36897389d7",
+    "59bcfa83db1a635b",
+    "b78dcfb5bf5be2b0",
+    "a46a8c70c6c8ad33",
+    "00cc1ffd8fe4a0f0",
+    "837828acfe4da182",
+    "5632df6db6724a5e",
+    "74b0ad767ce7a298",
+    "7c87e712691056b6",
+    "c9eccf57ae65e4ec",
+    "9eb38c5875bc386e",
+    "04039833c5bdd662",
+    "d853158a911a7529",
+    "14410c66b6827972",
+    "54e9df19c3a912ea",
+    "8239ced9182cd941",
+    "22a55b08f706ba51"
+   ]
+  },
+  {
+   "date": "2006-12-12",
+   "future": false,
+   "celex": "01993L0053-20061212",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I Disposições gerais — Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime CAPÍTULO II Medidas de combate às doenças da lista I — Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime CAPÍTULO III Medidas de combate às doenças da lista II — Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime CAPÍTULO IV Disposições finais — Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime Artigo 19o",
+    "Suprime Artigo 20o",
+    "Suprime Artigo 21o",
+    "Suprime ANEXO A",
+    "Suprime ANEXO B",
+    "Suprime ANEXO C",
+    "Suprime ANEXO D"
+   ],
+   "fragments": [
+    "11559db9267d1ac7"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01993L0053-20070101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo"
+   ],
+   "fragments": [
+    "669bfd4cd2470f27"
+   ]
+  },
+  {
+   "date": "2007-11-13",
+   "future": false,
+   "celex": "01993L0053-20071113",
+   "acts": [
+    {
+     "id": "eu:celex:32000L0027:por",
+     "title": "DIRECTIVA 2000/27/CE DO CONSELHO de 2 de Maio de 2000",
+     "published": null,
+     "celex": "32000L0027"
+    },
+    {
+     "id": "eu:celex:32001D0288:por",
+     "title": "M2",
+     "published": null,
+     "celex": "32001D0288"
+    },
+    {
+     "id": "eu:celex:32006D0911:por",
+     "title": "DECISÃO DA COMISSÃO de 5 de Dezembro de 2006",
+     "published": null,
+     "celex": "32006D0911"
+    },
+    {
+     "id": "eu:celex:32006L0104:por",
+     "title": "DIRECTIVA 2006/104/CE DO CONSELHO de 20 de Novembro de 2006",
+     "published": null,
+     "celex": "32006L0104"
+    },
+    {
+     "id": "eu:celex:32007D0729:por",
+     "title": "DECISÃO DA COMISSÃO de 7 de Novembro de 2007",
+     "published": null,
+     "celex": "32007D0729"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita CAPÍTULO I",
+    "Adita Disposições gerais",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita CAPÍTULO II",
+    "Adita Medidas de combate às doenças da lista I",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita CAPÍTULO III",
+    "Adita Medidas de combate às doenças da lista II",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita CAPÍTULO IV",
+    "Adita Disposições finais",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita Artigo 17.º",
+    "Adita Artigo 18.º",
+    "Adita Artigo 18.ºA",
+    "Adita Artigo 19.º",
+    "Adita Artigo 20.º",
+    "Adita Artigo 21.º",
+    "Adita ANEXO A",
+    "Adita ANEXO B",
+    "Adita LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS PEIXES",
+    "Adita ANEXO C",
+    "Adita COMPETÊNCIAS E FUNÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS PEIXES",
+    "Adita ANEXO D",
+    "Adita CRITÉRIOS MÍNIMOS APLICÁVEIS AOS PLANOS DE EMERGÊNCIA",
+    "Adita ANEXO E",
+    "Adita CRITÉRIOS PARA OS PROGRAMAS DE VACINAÇÃO",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "07877edb14ecec60",
+    "226c39ffd0a88dad",
+    "7fabed8a0a46afb5",
+    "0a1894414adff409",
+    "86e617c467635274",
+    "49265300b3bedafb",
+    "9b58631b15d3a40d",
+    "f0f8c960bfdbce9b",
+    "4bcf7a0da58833c1",
+    "99f4d4cb531acfc5",
+    "117f299d7a659b99",
+    "748db04a9ae63b60",
+    "0495187cb2795927",
+    "1e7a0903d2eed348",
+    "9e9b19680a393831",
+    "3ad0f5406a6214a8",
+    "906c7bc919686651",
+    "1ecfc79da3f1ac7f",
+    "bbdde795c58f027f",
+    "5c39995d4c496042",
+    "31aec6a8ab28a504",
+    "4469201e43d0b9f9",
+    "6814e54777027eca",
+    "3a1cdfce9c81b323",
+    "3ecbf123127ef6bb",
+    "e63df744abff4aa8",
+    "51a77cc5bbdcb8c6",
+    "e2c21ec626b366e1",
+    "c4f9d08666a08574",
+    "78d67608fac64935",
+    "2f63a689be3366d5",
+    "4bbeae9ce601038d",
+    "c13b99ba13d00e28",
+    "2729004485c1e5d4",
+    "591b360bfddd10d2",
+    "1ebe91f6ca28e332",
+    "0470f2b2d090a327",
+    "e70ce298161a9aa4",
+    "770bf5cf1c6359a7",
+    "b3e6cf8a8f7b240c",
+    "fa62eafd5c5abaf1"
+   ]
+  },
+  {
+   "date": "2008-08-01",
+   "future": false,
+   "celex": "01993L0053-20080801",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime Disposições gerais",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime CAPÍTULO II",
+    "Suprime Medidas de combate às doenças da lista I",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime CAPÍTULO III",
+    "Suprime Medidas de combate às doenças da lista II",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime CAPÍTULO IV",
+    "Suprime Disposições finais",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 18.ºA",
+    "Suprime Artigo 19.º",
+    "Suprime Artigo 20.º",
+    "Suprime Artigo 21.º",
+    "Suprime ANEXO A",
+    "Suprime ANEXO B",
+    "Suprime LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS PEIXES",
+    "Suprime ANEXO C",
+    "Suprime COMPETÊNCIAS E FUNÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS PEIXES",
+    "Suprime ANEXO D",
+    "Suprime CRITÉRIOS MÍNIMOS APLICÁVEIS AOS PLANOS DE EMERGÊNCIA",
+    "Suprime ANEXO E",
+    "Suprime CRITÉRIOS PARA OS PROGRAMAS DE VACINAÇÃO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "842a0c1741f8f4a9"
+   ]
+  }
+ ],
+ "fragments": {
+  "e17a267650ab4534": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 93/53/CEE do Conselho, de 24 de Junho de 1993, que introduz medidas comunitárias mínimas de combate a certas doenças dos peixes** *Jornal Oficial nº L 175 de 19/07/1993 p. 0023 - 0033 Edição especial finlandesa: Capítulo 3 Fascículo 53 p. 0140 Edição especial sueca: Capítulo 3 Fascículo 53 p. 0140*\n\nDIRECTIVA 93/53/CEE DO CONSELHO de 24 de Junho de 1993 que introduz medidas comunitárias mínimas de combate a certas doenças dos peixes\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que os peixes constam da lista do anexo II do Tratado; que a comercialização dos peixes constitui uma importante fonte de rendimentos para o sector da aquicultura;\n\nConsiderando que é necessário estabelecer, a nível comunitário, as medidas de combate a adoptar em casos de surtos de doença, de forma a assegurar um desenvolvimento racional da aquicultura e a contribuir para a protecção da saúde animal na Comunidade;\n\nConsiderando que, no que respeita às doenças a tomar em consideração, é necessário referir-se às listas incluídas no anexo A da Directiva 91/67/CEE do Conselho, de 28 de Janeiro de 1991, relativa às condições de polícia sanitária que regem a introdução no mercado de animais e produtos da aquicultura (4);\n\nConsiderando que um foco de doença pode adquirir rapidamente proporções epizoóticas, causando mortalidade e distúrbios numa escala susceptível de reduzir gravemente a rentabilidade da aquicultura;\n\nConsiderando que devem ser tomadas medidas de combate a partir o momento em que se suspeite da prescença de uma doença, de forma a que possam ser desenvolvidas acções imediatas e eficazes logo que aquela seja confirmada;\n\nConsiderando que essas medidas se devem destinar a prevenir a propagação da doença, nomeadamente através do controlo rigoroso da circulação de peixes e de produtos susceptíveis de propagar a infecção;\n\nConsiderando que a prevenção dessas doenças na Comunidade se baseará normalmente numa política de não vacinação;\n\nConsiderando que é essencial um inquérito epizootiológico rigoroso para prevenir a propagação dessas doenças; que os Estados-membros devem criar unidades especiais para esse efeito;\n\nConsiderando que, para assegurar um sistema eficaz de controlo, o diagnóstico das doenças deve ser harmonizado e realizado sob a égide de laboratórios responsáveis, cabendo a coordenação a um laboratório de referência designado pela Comunidade;\n\nConsiderando que, para assegurar uma aplicação uniforme da presente directiva, deve ser criado um processo comunitário de inspecção;\n\nConsiderando que as medidas comuns de combate a essas doenças constituem pelo menos uma base para a manutenção de um nível uniforme de saúde animal;\n\nConsiderando que as disposições da Decisão 90/424/CEE do Conselho, de 26 de Junho de 1990, relativa a determinadas despesas no domínio veterinário (5), e nomeadamente o seu artigo 5o, se aplicam sempre que se verifique um surto de uma das doenças referidas no anexo A da Directiva 91/67/CEE;\n\nConsiderando que é conveniente confiar à Comissão a adopção das necessárias medidas de execução; que, para esse fim, deve ser previsto um processo que estabeleça uma cooperação estreita e eficaz entre a Comissão e os Estados-membros no Comité veterinário permanente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "2cbcdc2c1967aa55": {
+   "fragment_id": "CAPÍTULO I Disposições gerais — Artigo 1o",
+   "type": "divisao",
+   "heading": "CAPÍTULO I Disposições gerais — Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I Disposições gerais — Artigo 1o\n\nA presente directiva define as medidas comunitárias mínimas de combate às doenças dos peixes referidas no anexo A, listas I e II, da Directiva 91/67/CEE."
+  },
+  "7351c59abc56c523": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nPara efeitos do disposto na presente directiva, são aplicáveis, na medida do necessário, as definições estabelecidas no artigo 2o da Directiva 91/67/CEE.\n\nAlém disso, considera-se:\n\n1. Doenças da lista I: as doenças dos peixes referidas na lista I do anexo A, da Directiva 91/67/CEE;\n\n2. Doenças da lista II: as doenças dos peixes referidas na lista II do anexo A, da Directiva 91/67/CEE;\n\n3. Peixes suspeitos de estarem infectados: os peixes que apresentem sintomas clínicos ou lesões post-mortem ou reacções duvidosas em análises de laboratório que permitam suspeitar, de modo razoável, da presença de uma doença da lista I ou da lista II;\n\n4. Peixes infectados: os peixes em que foi oficialmente confirmada a presença de uma doença da lista I ou da lista II, na sequência de uma análise de laboratório ou, no caso de anemia infecciosa do salmão, na sequência de uma exame clínico e de um exame post-mortem;\n\n5. Exploração suspeita de estar infectada: exploração que contenha peixes suspeitos de estarem infectados;\n\n6. Exploração infectada: exploração que contenha peixes infectados, bem como as explorações esvaziadas ainda não desinfectadas."
+  },
+  "4a8ee465b7466573": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nOs Estados-membros assegurarão que todas as explorações em que se criem ou mantenham peixes sensíveis às doenças da lista I ou da lista II:\n\n1. Sejam registadas pelo serviço oficial; esse registo deve ser constantemente actualizado;\n\n2. Mantenham um registo:\n\na) Dos peixes vivos, ovos e gâmetas que entrem na exploração, do qual constem todas as informações relativas ao seu fornecimento, ao seu número ou peso, ao seu tamanho, à sua origem e aos seus fornecedores;\n\nb) Dos peixes vivos, ovos e gâmetas que saiam da exploração, de que constem todas as informações relativas à sua expedição, ao seu número ou peso, ao seu tamanho e ao seu destino;\n\nc) Da mortalidade verificada.\n\nEsse registo, que pode ser examinado pelo serviço oficial, a qualquer momento e a seu pedido, deve ser regularmente actualizado e será conservado durante quatro anos."
+  },
+  "a99ee495a98fe310": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nOs Estados-membros garantirão que a suspeita da existência de uma das doenças da lista I ou da lista II seja objecto, o mais rapidamente possível, de uma notificação obrigatória do serviço oficial."
+  },
+  "9e4fa10a8850ef37": {
+   "fragment_id": "CAPÍTULO II Medidas de combate às doenças da lista I — Artigo 5o",
+   "type": "divisao",
+   "heading": "CAPÍTULO II Medidas de combate às doenças da lista I — Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II Medidas de combate às doenças da lista I — Artigo 5o\n\n1. Quando numa exploração se encontrarem peixes suspeitos de estarem infectados por uma doença da lista I, os Estados-membros garantirão que o serviço oficial ponha imediatamente a funcionar os meios de investigação oficial para confirmar ou desmentir a presença da doença em causa, nomeadamente a análise clínica; o serviço oficial procederá ou mandará proceder, sobretudo, à colheita das amostras apropriadas para as análises de laboratório.\n\n2. A partir da notificação da suspeita da presença de uma doença, o serviço oficial colocará a exploração sob vigilância oficial e ordenará nomeadamente que:\n\na) Seja feito um recenseamento oficial de todas as espécies e categorias de peixes e que, em relação a cada uma delas, seja registado o número de peixes já mortos, infectados ou suspeitos de estarem infectados ou contaminados; o recenseamento deve ser actualizado pelo proprietário ou pelo detentor dos animais de modo a reflectir o aumento da população ou a nova mortalidade durante o período de suspeita; os dados do recenseamento devem ser apresentados sob pedido e podem ser controlados em cada inspecção;\n\nb) Nenhum peixe, vivo ou morto, ovo ou gâmeta possa entrar ou sair da exploração sem autorização do serviço oficial;\n\nc) A destruição dos peixes mortos ou das suas miudezas seja realizada sob o controlo do serviço oficial;\n\nd) A entrada ou saída de alimentos para animais, utensílios, objectos ou outras substâncias, tais como resíduos, susceptíveis de transmitir a doença sejam sujeitos, se necessário, à autorização do serviço oficial, que definirá as condições destinadas a prevenir a propagação do agente patogénico;\n\ne) A circulação de pessoas com destino à exploração ou dela provenientes seja sujeita a autorização do serviço oficial;\n\nf) A entrada e saída de veículos da exploração seja sujeita a autorização do serviço oficial, que definirá as condições necessárias para prevenir a propagação do agente patogénico;\n\ng) Sejam utilizados meios adequados de desinfecção nas entradas e saídas da exploração;\n\nh) Seja realizado um inquérito epizootiológico nos temos do no 1 do artigo 8o;\n\ni) Todas as explorações situadas na mesma zona de captação de águas ou na mesma zona costeira sejam colocadas sob vigilância oficial e nenhum peixe, ovo ou gâmeta saia dessas explorações sem autorização do serviço oficial; no caso de zonas de captação de água ou costeiras extensas, o serviço oficial pode decidir limitar esta medida a uma superfície menos extensa próxima da exploração suspeita de estar infectada, se considerar que essa superfície oferece as garantias máximas para a prevenção da propagação da doença;\n\nse necessário, os serviços oficiais dos Estados-membros ou países terceiros limítrofes devem ser informados da suspeita; nesse caso, os serviços oficiais dos Estados-membros em causa tomarão todas as disposições necessárias para aplicar as medidas previstas no presente artigo.\n\nSe necessário, serão adoptadas medidas específicas em conformidade com o processo previsto no artigo 19o\n\n3. Enquanto não entram em vigor as medidas oficiais previstas no no 2, o proprietário ou possuidor de peixes suspeitos de estarem atingidos da doença tomará todas as medidas necessárias para cumprir o disposto no no 2, à excepção das alíneas h) e i).\n\n4. As medidas previstas no no 2 não serão revogadas antes de a suspeita da doença ter sido oficialmente desmentida."
+  },
+  "a8b00839b9160dd3": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nLogo que seja oficialmente confirmada a presença de uma das doenças da lista I, os Estados-membros garantirão que o serviço oficial, para além das medidas enunciadas no no 2 do artigo 5o, ordenará a adopção das seguintes medidas:\n\na) Na exploração infectada:\n\n- todos os animais devem ser imediatamente retirados,\n\n- no caso de explorações terrestres, todos os viveiros devem ser esvaziados das suas águas, a fim de serem limpos e desinfectados,\n\n- todos os ovos e gâmetas, peixes mortos e peixes que apresentem sinais clínicos de doença serão considerados material de alto risco e devem ser destruídos sob o controlo do serviço oficial, nos termos da Directiva 90/667/CEE (6),\n\n- todos os peixes vivos serão mortos e destruídos sob o controlo do serviço oficial, nos termos da Directiva 90/667/CEE, ou, no que se refere aos peixes que tenham atingido o tamanho comercial e não apresentem nenhum sinal clínico de doença, abatidos sob o controlo do serviço oficial para comercialização ou transformação para consumo humano.\n\nNeste último caso, o serviço oficial garantirá que os peixes sejam imediatamente abatidos e eviscerados, que essas operações sejam efectuadas em condições adequadas para evitar a propagação dos agentes patogénicos, que os resíduos e miudezas sejam considerados como material de alto risco e sejam sujeitos a um tratamento que destrua os agentes patogénicos nos termos da Directiva 90/667/CEE e que as águas utilizadas sejam sujeitas a um tratamento que torne inactivos os agentes patogénicos eventualmente presentes,\n\n- após a retirada dos peixes, ovos e gâmetas, os viveiros, o equipamento e todas as substâncias susceptíveis de terem sido contaminados devem ser limpos e desinfectados o mais rapidamente possível, de acordo com as instruções definidas pelo serviço oficial, de modo a eliminar qualquer risco de propagação ou de sobrevivência do agente da doença. Os processos de limpeza e desinfecção de uma exploração infectada são determinados de acordo com o processo previsto no artigo 19o,\n\n- todas as matérias referidas no no 2, alínea d), do artigo 5o, que possam estar contaminadas, devem ser destruídas ou tratadas de forma a garantir a destruição de qualquer agente patogénico presente,\n\n- deve realizar-se um inquérito epizootiológico nos termos no no 1 do artigo 8o e deve ser aplicado o disposto no no 4 do artigo 8o; o inquérito incluirá a colheita de amostras para efeitos de análise de laboratório;\n\nb) Todas as explorações da zona de captação de água ou da zona costeira em que se situa a exploração infectada serão sujeitas a inspecções sanitárias; se essas inspecções revelarem casos positivos, serão aplicáveis as medidas previstas na alínea a) supra;\n\nc) O repovoamento da exploração será autorizado pelo serviço oficial, após inspecção satisfatória das operações de limpeza e desinfecção e depois de decorrido um período considerado adequado pelo serviço oficial para garantir a erradicação do agente patogénico e de quaisquer outras eventuais infecções na mesma zona de captação de água;\n\nd) Se a aplicação das medidas previstas no no 2, alíneas a), b), c) e d), do artigo 5o exigir a cooperação dos serviços oficiais de outros Estados-membros, os serviços oficiais dos Estados-membros em causa colaborarão para assegurar o cumprimento das medidas previstas no presente artigo.\n\nSe necessário, serão adoptadas medidas complementares adequadas, de acordo com o processo previsto no artigo 19o"
+  },
+  "2d6e545611b0e069": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nQuando peixes de origem selvagem não pertencentes a uma exploração, bem como os peixes de lagos, lagoas ou outras instalações destinadas à prática da pesca recreativa ou que possuam peixes ornamentais, sejam suspeitos de estar infectados ou estejam infectados, os Estados-membros assegurarão a aplicação das medidas adequadas. Os Estados-membros informarão a Comissão e os outros Estados-membros das medidas por eles adoptadas, no Comité veterinário permanente."
+  },
+  "c17b6e664555da88": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. O inquérito epizootiológico abrangerá:\n\n- o período provável durante o qual a doença possa ter existido na exploração antes de ter sido notificada ou da sua suspeita,\n\n- a possível origem da doença na exploração e a identificação de outras explorações em que existam ovos ou gâmetas ou peixes de espécies sensíveis que possam ter sido infectados,\n\n- a circulação de peixes, ovos ou gâmetas, pessoas, veículos ou substâncias susceptíveis de terem sido portadores do agente da doença para as explorações em causa ou em proveniência das mesmas,\n\n- a eventual presença de vectores da doença e a sua distribuição.\n\n2. Se o inquérito epizootiológico revelar que a doença pode ter sido introduzida a partir de outra zona de captação de água ou de outra zona costeira, ou transferida para outra zona de captação de água ou para outra zona costeira, na sequência de um contacto devido à circulação de pessoas, de peixes, de ovos ou gâmetas, de animais ou de veículos ou por qualquer outro modo, as explorações dessas zonas de captação e dessas zonas costeiras serão consideradas suspeitas, sendo aplicáveis as medidas previstas no artigo 5o Se se confirmar a presença da doença serão aplicáveis as medidas previstas no artigo 6o\n\n3. Se o inquérito epizootiológico revelar que é necessária a cooperação de serviços oficiais de outros Estados-membros, os serviços oficiais dos Estados-membros em causa adoptarão todas as medidas necessárias para assegurar o respeito do disposto na presente directiva.\n\n4. Será criada uma unidade de crise para se conseguir a plena coordenação de todas as medidas necessárias para assegurar a erradicação da doença o mais rapidamente possível e com vista à realização do inquérito epizootiológico.\n\nO Conselho, deliberando por maioria qualificada, sob proposta da Comissão, adoptará as regras gerais relativas às unidades de crise nacionais e à unidade de crise comunitária.\n\n5. O Conselho, deliberando por maioria qualificada, sob proposta da Comissão, elaborada com base no parecer do Comité científico veterinário, designadamente para ter em conta a evolução científica e tecnológica, reanalisará o disposto no presente artigo antes de 31 de Dezembro de 1996."
+  },
+  "ded4ad36897389d7": {
+   "fragment_id": "CAPÍTULO III Medidas de combate às doenças da lista II — Artigo 9o",
+   "type": "divisao",
+   "heading": "CAPÍTULO III Medidas de combate às doenças da lista II — Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III Medidas de combate às doenças da lista II — Artigo 9o\n\n1. Em caso de suspeita ou de confirmação de uma das doenças da lista II, numa zona aprovada ou numa exploração aprovada situada numa zona não aprovada, será efectuado um inquérito epizootiológico nos termos do artigo 8o Os Estados-membros que pretendam restabelecer o seu estatuto, definido nos termos da Directiva 91/67/CEE, devem sujeitar-se às disposições dos anexos B e C da referida directiva.\n\n2. Se o inquérito epizootiológico revelar que a doença pode ter sido introduzida a partir de uma zona aprovada ou de outra exploração aprovada, ou transferida para outra exploração aprovada na sequência da circulação de pessoas, de ovos ou gâmetas, de peixes, veículos ou por qualquer outro modo, essas zonas ou explorações serão consideradas suspeitas, sendo aplicáveis as medidas adequadas.\n\n3. No entanto, o serviço oficial pode autorizar um período de engorda até que os peixes para abate tenham atingido o tamanho comercial."
+  },
+  "59bcfa83db1a635b": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. Quando uma exploração não aprovada situada numa zona não aprovada contiver peixes suspeitos de estarem infectados com uma doença da lista II, os Estados-membros garantirão que os serviços oficiais:\n\na) Ponham imediatamente em acção os meios oficiais de investigação para confirmar ou desmentir a presença da doença, se necessário através da colheita de amostras para análise num laboratório aprovado;\n\nb) Efectuem ou mandem efectuar um recenseamento oficial das explorações infectadas, que deve ser actualizado regularmente;\n\nc) Coloquem ou mandem colocar as explorações infectadas sob vigilância oficial, de forma a garantir que, a partir de explorações infectadas e em derrogação do no 1, alínea c), do artigo 3o da Directiva 91/67/CEE, apenas sejam autorizados movimentos de peixes vivos, ovos ou gâmetas destinados a outras explorações infectadas pela mesma doença ou ao abate para consumo humano.\n\n2. Os Estados-membros podem pôr em prática, durante um período determinado e sob o controlo do serviço oficial, um programa facultativo ou obrigatório de erradicação das doenças da lista II nas explorações não aprovadas ou nas zonas não aprovadas. Durante esse período, será proibida, numa zona submetida ao programa em causa, a introdução de peixes vivos, ovos ou gâmetas provenientes de explorações infectadas ou de explorações com um estatuto sanitário desconhecido.\n\nEsses programas, que serão elaborados com base em critérios gerais a determinar antes da data referida no artigo 20o e de acordo com o processo previsto no artigo 19o, serão apresentados à Comissão para análise, aprovados e alterados segundo o mesmo processo, se for caso disso.\n\nApós o período referido no primeiro parágrafo, os Estados-membros que recorram a esse processo informarão a Comissão e os outros Estados-membros dos resultados obtidos, no Comité veterinário permanente.\n\n3. O mais tardar em 31 de Dezembro de 1996, a Comissão apresentará ao Conselho um relatório elaborado após parecer do Comité científico veterinário, tendo em conta a experiência adquirida e a evolução técnica e científica; esse relatório será acompanhado de eventuais propostas destinadas a reanalisar o disposto no presente artigo, nomeadamente no que se refere à introdução no mercado de peixes vivos infectados, bem como dos respectivos ovos e gâmetas, destinados à criação ou à engorda, bem como no que se refere à execução de um inquérito epizootiológico em zonas não aprovadas, após suspeita da presença de uma doença numa exploração não aprovada. O Conselho pronunciar-se-á, por maioria qualificada, sobre estas eventuais propostas, elaboradas em função das conclusões daquele relatório.\n\n4. As regras de execução dos nos 1 e 2 do presente artigo serão adoptadas pela Comissão na medida do necessário, de acordo com o processo previsto no artigo 19o"
+  },
+  "b78dcfb5bf5be2b0": {
+   "fragment_id": "CAPÍTULO IV Disposições finais — Artigo 11o",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV Disposições finais — Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV Disposições finais — Artigo 11o\n\n1. A colheita de amostras e as análises de laboratório destinadas a detectar a presença de doenças das listas I e II serão realizadas segundo os métodos definidos no artigo 15o da Directiva 91/67/CEE.\n\n2. As análises para detectar a presença da doença ou de agentes patogénicos serão realizadas num laboratório aprovado pelo serviço oficial. Se necessário, e nomeadamente ao surgir o primeiro surto da doença, essas análises de laboratório devem identificar o tipo, o subtipo ou a variante do agente patogénico, que devem ser confirmados pelo laboratório nacional de referência e que, se necessário, podem ser confirmados pelo laboratório comunitário de referência referido no artigo 13o"
+  },
+  "a46a8c70c6c8ad33": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. Os Estados-membros garantirão que em cada um deles seja designado um laboratório nacional de referência que disponha de instalações e de pessoal especializado que lhes permita determinar em qualquer altura, e nomeadamente durante as primeiras manifestações de uma doença, o tipo, o subtipo e a variante do agente patogénico em causa, e confirmar os resultados obtidos pelos laboratórios regionais de diagnóstico.\n\n2. Os laboratórios nacionais designados para as doenças em causa são responsáveis pela coordenação das normas e dos métodos de diagnóstico, bem como pela utilização de reagentes.\n\n3. Os laboratórios nacionais designados para as doenças em questão são responsáveis pela coordenação das normas e dos métodos de diagnóstico fixados por cada laboratório de diagnóstico de doença em causa nesse Estado-membro. Para o efeito, os Estados-membros:\n\na) Podem fornecer reagentes de diagnóstico aos laboratórios aprovados pelo Estado-membro;\n\nb) Controlam a qualidade de todos os reagentes de diagnóstico utilizados no Estado-membro;\n\nc) Organizam periodicamente testes comparativos;\n\nd) Conservam «isolatos» do agente patogénico da doença provenientes de casos confirmados nesse Estado-membro;\n\ne) Asseguram que sejam confirmados os resultados positivos obtidos nos laboratórios de diagnóstico aprovados pelo Estado-membro.\n\n4. Contudo, em derrogação do no 1, os Estados-membros que não dispuserem de laboratório nacional competente para a doença em causa podem recorrer aos serviços do laboratório nacional competente na matéria de outro Estado-membro.\n\n5. A lista dos laboratórios nacionais de referência para as doenças de peixes figura no anexo A.\n\n6. Os laboratórios nacionais designados para as referidas doenças cooperarão com o laboratório comunitário de referência previsto no artigo 13o\n\n7. As regras de execução do presente artigo serão adoptadas pela Comissão, de acordo com o processo previsto no artigo 19o"
+  },
+  "00cc1ffd8fe4a0f0": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\n1. O laboratório comunitário de referência para as doenças de peixes vem indicado no anexo B.\n\n2. Sem prejuízo do disposto na Decisão 90/424/CEE, e nomeadamente no seu artigo 28o, as competências e funções do laboratório referido no no 1 do presente artigo figuram no anexo C."
+  },
+  "837828acfe4da182": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\n1. É proibida a vacinação contra as doenças da lista II nas zonas aprovadas ou nas explorações aprovadas situadas em zonas não aprovadas e em zonas ou explorações que já tenham iniciado os processos de aprovação previstos na Directiva 91/67/CEE, e contra as doenças da lista I.\n\n2. O mais tardar em 30 de Junho de 1996, o Conselho, deliberando por maioria qualificada sob proposta da Comissão, reanalisará o disposto no presente artigo, nomeadamente no que se refere à determinação das condições específicas de utilização das vacinas e para ter em conta a evolução das pesquisas científicas e tecnológicas em matéria de vacinação."
+  },
+  "5632df6db6724a5e": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\n1. Cada Estado-membro elaborará um plano de intervenção que especificará o modo de aplicação das medidas previstas na presente directiva se se declarar uma das doenças da lista I.\n\nEsse plano deve permitir o acesso às instalações, equipamentos, pessoal e a quaisquer outras estruturas apropriadas necessárias para a erradicação rápida e eficaz da epidemia.\n\n2. Os critérios gerais aplicáveis à elaboração desses planos estão enunciados no anexo D.\n\nContudo, os Estados-membros podem limitar-se à aplicação dos critérios específicos às doenças em causa, quando os critérios gerais já tenham sido objecto de adopção ao serem apresentados planos relativos à aplicação de medidas de combate a outra doença.\n\nA Comissão pode, de acordo com o processo previsto no artigo 19o, alterar ou completar esses critérios tendo em conta a natureza específica da doença.\n\n3. Os planos elaborados em conformidade com os critérios enunciados no anexo D serão apresentados à Comissão o mais tardar após o início de aplicação da presente directiva.\n\n4. A Comissão examinará os planos, de forma a determinar se eles permitem atingir o objectivo pretendido, e sugerirá ao Estado-membro em questão quaisquer alterações necessárias, nomeadamente para garantir a sua compatibilidade com os dos outros Estados-membros.\n\nA Comissão aprovará os planos, eventualmente alterados, de acordo com o processo previsto no artigo 19o\n\nOs planos podem ser posteriormente alterados ou completados, de acordo com o mesmo processo, para tomar em consideração a evolução da situação."
+  },
+  "74b0ad767ce7a298": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\nNa medida do necessário para a aplicação uniforme da presente directiva e em colaboração com as autoridades competentes, os peritos da Comissão podem efectuar controlos no local. Para o efeito, podem verificar, mediante controlo de uma percentagem representativa das explorações, se as autoridades competentes controlam o cumprimento da presente directiva por parte das explorações. A Comissão informará os Estados-membros do resultado dos controlos efectuados.\n\nO Estado-membro em cujo território se efectuar um controlo prestará toda a ajuda necessária aos peritos no cumprimento da sua missão.\n\nAs regras de execução do presente artigo serão adoptadas de acordo com o processo previsto no artigo 19o"
+  },
+  "7c87e712691056b6": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\nAs condições de participação financeira da Comunidade nas acções relacionadas com a execução da presente directiva são definidas na Decisão 90/424/CEE."
+  },
+  "c9eccf57ae65e4ec": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\nOs anexos B, C e D serão alterados, na medida do necessário, pelo Conselho, deliberando por maioria qualificada sob proposta da Comissão, nomeadamente para atender à evolução da investigação e dos processos de diagnóstico.\n\nO anexo A pode ser alterado na medida do necessário, segundo o processo previsto no artigo 19o"
+  },
+  "9eb38c5875bc386e": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\n1. Sempre que se faça referência ao processo definido no presente artigo, o Comité veterinário permanente será imediatamente chamado o pronunciar-se pelo seu presidente, seja por sua própria iniciativa, seja a pedido do representante de um Estado-membnro.\n\n2. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre o projecto num prazo que o presidente pode fixar em função da urgência da questão. O parecer será emitido por maioria, nos termos previstos no no 2 do artigo 148o do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações do comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no mesmo artigo. O presidente não participa na votação.\n\n3. a) A Comissão adoptará as medidas projectadas desde que sejam conformes com o parecer do comité;\n\nb) Se as medidas projectadas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que a proposta da Comissão lhe foi submetida, o Conselho não tiver deliberado, a Comissão adoptará as medidas propostas excepto no caso de o Conselho se ter pronunciado por maioria simples contra as referidas medidas."
+  },
+  "04039833c5bdd662": {
+   "fragment_id": "Artigo 20o",
+   "type": "artigo",
+   "heading": "Artigo 20o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 1 de Julho de 1994. Desse facto informarão imediatamente a Comissão.\n\nEssas disposições devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Contudo, a partir da data indicada no no 1, os Estados-membros podem, no respeito das regras gerais do Tratado, manter ou aplicar nos seus territórios disposições mais rigorosas do que as previstas na presente directiva. Os Estados-membros informarão a Comissão de quaisquer medidas nesse sentido.\n\n3. Os Estados-membros comunicarão à Comissão o texto das disposições essenciais de direito interno que adoptarem no domínio regido pela presente directiva."
+  },
+  "d853158a911a7529": {
+   "fragment_id": "Artigo 21o",
+   "type": "artigo",
+   "heading": "Artigo 21o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21o\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 24 de Junho de 1993.\n\nPelo Conselho\n\nO Presidente\n\nB. WESTH\n\n(1) JO no C 172 de 8. 7. 1992, p. 16.(2) JO no C 150 de 31. 5. 1993.(3) JO no C 19 de 25. 1. 1993, p. 14.(4) JO no L 46 de 19. 2. 1991, p. 1.(5) JO no L 224 de 18. 8. 1990, p. 19. Decisão com a última redacção que lhe foi dada pela Decisão 92/438/CEE (JO no L 243 de 25. 8. 1992, p. 27).(6) Directiva 90/667/CEE do Conselho, de 27 de Novembro de 1990, que estabelece as normas sanitárias para a eliminação e a transformação de resíduos animais, para a sua colocação no mercado e para a prevenção da presença de agentes patogénicos nos alimentos para animais de origem animal ou à base de peixe e que altera a Directiva 90/425/CEE (JO no L 363 de 27. 12. 1990, p. 51). Directiva alterada pela Directiva 92/118/CEE (JO no L 62 de 15. 3. 1993, p. 49)."
+  },
+  "14410c66b6827972": {
+   "fragment_id": "ANEXO A",
+   "type": "divisao",
+   "heading": "ANEXO A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO A\n\nLABORATÓRIOS NACIONAIS PARA AS DOENÇAS DOS PEIXES Bélgica: Institut National de Recherches Vétérinaires, Groeselenberg 99 1180 Bruxelles.\n\nDinamarca: Statens Veterinaere Serumlaboratorium Landbrugsministeriet Hangoevej 2 8200 Aarhus N.\n\nAlemanha: Bundesforschungsanstalt fuer Viruskrankheiten der Tiere - Anstaltsteil Insel Riems - O-2201 Insel Riems.\n\nGrécia: Ergastirio Ichthyopathologias kai Viopathologias Ydrovion Organismon Kentro Ktiniatrikon Idrymaton Athinon Institoyto Loimodon kai Parastikon Nosimaton Neapoleos 25, Agia Paraskevi Attikis 153 10 Athina\n\nEspanha: Laboratorio de sanidad y producción animan de Algete, Madrid.\n\nFrança: Centre National d'Études Vétérinaires et Alimentaires, Laboratoire Central de Recherches Vétérinaires, 22, rue Pierre Curie, Bp 67 94703 Maisons Alfort cédex\n\nIrlanda: Fisheries Research Centre Abbotstown Castleknock Dublin 15.\n\nItália: Istituto Zooprofilattico Sperimentale delle Venezie Sezione Diagnostica di Basaldella di Campoformido Laboratorio di Ittipatologia Via della Roggia 92 33030 Basaldella di Campoformido (Udine).\n\nLuxemburgo: Institut National de Recherches Vétérinaires Groeselenberg 99 1180 Bruxelles.\n\nPaíses Baixos: Centraal Diergeneeskundig Instituut Hoofdgebow Edelhertweg 15 8219 PH Lelystad Postbus 65 8200 AB Lelystad.\n\nCentraal Diergeneeskundig Instituut Vestiging Virologie Houtribweg 39 8221 RA Lelystad Postbus 365 8200 AJ Lelystad.\n\nPortugal: Laboratório Nacional de Investigação Veterinária Estrada de Benfica 701 1500 Lisboa.\n\nReino Unido: Fish Disease Laboratory 14 Albany Road Granby Industrial Site Weymouth Dorset DT4 9TU.\n\nThe Marine Laboratory PO Box 101 Victoria Road Abderdeen AB9 8D8."
+  },
+  "54e9df19c3a912ea": {
+   "fragment_id": "ANEXO B",
+   "type": "divisao",
+   "heading": "ANEXO B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO B\n\nLABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS PEIXES Statens Veterinaere Serumlaboratorium Landbrugsministeriet Hangoevej 2 8200 Aarhus N Dinamarca."
+  },
+  "8239ced9182cd941": {
+   "fragment_id": "ANEXO C",
+   "type": "divisao",
+   "heading": "ANEXO C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO C\n\nCOMPETÊNCIAS E FUNÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS PEIXES O laboratório comunitário de referência para as doenças dos peixes das listas I e II tem as seguintes competências e funções:\n\n1. Coordenar, em consulta com a Comissão, os métodos de diagnóstico da doença em questão nos Estados-membros, mediante, designadamente:\n\na) Especificação, detenção e fornecimento de estirpes do agente patogénico da doença em questão, para execução dos testes serológicos e preparação do anti-soro;\n\nb) Fornecimento de soros de referência e outros reagentes de referência aos laboratórios nacionais de referência com vista à normalização dos testes e dos reagentes utilizados em cada Estado-membro;\n\nc) Reconstituição e conservação de uma colecção de estirpes e de «isolatos» do agente patogénico da doença em questão;\n\nd) Organização periódica de testes comparativos comunitários para os processos de diagnóstico;\n\ne) Recolha e confronto de dados e informações sobre os métodos de diagnóstico utilizados e resultados das análises efectuadas na Comunidade;\n\nf) Caracterização dos «isolatos» do agente patogénico da doença em causa através dos métodos mais avançados e mais adequados a fim de permitir uma melhor compreensão da epizootiologia da doença;\n\ng) Acompanhamento da evolução da situação, em todo o mundo, em matéria de vigilância, epizootiologia e prevenção da doença em questão;\n\nh) Actualização permanente dos conhecimentos sobre o agente patogénico da doença em causa e sobre outros agentes patogénicos implicados, para permitir um diagnóstico diferencial rápido;\n\ni) Aquisição de um conhecimento aprofundado em matéria de preparação e utilização dos produtos de medicina veterinária imunológica utilizados na erradicação e controlo da doença em causa;\n\n2. Prestar uma ajuda activa à identificação dos focos de doença em causa nos Estados-membros, através de estudos dos «isolatos» de agentes patogénicos que lhe forem enviados para confirmação do diagnóstico, caracterização e estudos epizootiológicos;\n\n3. Facilitar a formação ou reciclagem dos peritos em diagnóstico de laboratório, para harmonizar as técnicas de diagnóstico em toda a Comunidade;\n\n4. Colaborar, no domínio dos métodos de diagnóstico das doenças da lista I, com os laboratórios competentes dos países terceiros onde essas doenças se encontram propagadas."
+  },
+  "22a55b08f706ba51": {
+   "fragment_id": "ANEXO D",
+   "type": "divisao",
+   "heading": "ANEXO D",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO D\n\nCRITÉRIOS MÍNIMOS APLICÁVEIS AOS PLANOS DE EMERGÊNCIA Os planos de intervenção devem prever, pelo menos:\n\n1. A criação, a nível nacional, de uma unidade de crise, destinada a coordenar todas as medidas de emergência no Estado-membro em causa;\n\n2. Uma lista dos centros de urgência locais que disponham de equipamentos adequados para coordenar as medidas de controlo à escala local;\n\n3. Informações pormenorizadas sobre o pessoal encarregado das medidas de emergência, respectivas qualificações profissionais e responsabilidades;\n\n4. A possibilidade, para todos os centros de urgência locais, de contactarem rapidamente as pessoas ou organismos directa ou indirectamente envolvidos numa infestação;\n\n5. A disponibilidade do material e equipamento adequados para executar as medidas de emergência;\n\n6. Instruções precisas acerca das acções a desenvolver em caso de suspeita e confirmação de infecção ou de contaminação;\n\n7. Programas de formação para actualização e desenvolvimento dos conhecimento em matéria de actuação no terreno e de processos administrativos;\n\n8. Eventualmente, nos laboratórios de diagnóstico, um serviço de exame post mortem, a capacidade necessária para análises serológicas, histológicas, etc., e a actualização das técnicas de diagnóstico rápido (devem ser adoptadas, para o efeito, disposições para o transporte rápido das amostras);\n\n9. Disposições regulamentares para a aplicação dos planos de intervenção."
+  },
+  "11559db9267d1ac7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993L0053 — PT — 12.12.2006 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/393L0053) [DIRECTIVA 93/53/CEE DO CONSELHO](http://publications.europa.eu/resource/celex/393L0053) [de 24 de Junho de 1993](http://publications.europa.eu/resource/celex/393L0053) [que introduz medidas comunitárias mínimas de combate a certas doenças dos peixes](http://publications.europa.eu/resource/celex/393L0053) (JO L 175, 19.7.1993, p.23)\n\n**revogado por:**"
+  },
+  "669bfd4cd2470f27": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993L0053 — PT — 01.01.2007 — 006.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/393L0053) [DIRECTIVA 93/53/CEE DO CONSELHO](http://publications.europa.eu/resource/celex/393L0053) [de 24 de Junho de 1993](http://publications.europa.eu/resource/celex/393L0053) [que introduz medidas comunitárias mínimas de combate a certas doenças dos peixes](http://publications.europa.eu/resource/celex/393L0053) (JO L 175, 19.7.1993, p.23)\n\n**revogado por:**"
+  },
+  "07877edb14ecec60": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de Junho de 1993\n\nque introduz medidas comunitárias mínimas de combate a certas doenças dos peixes\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/9157cb9e-fbe9-4d4b-a4eb-9d7ea2cad48d.0017.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/9157cb9e-fbe9-4d4b-a4eb-9d7ea2cad48d.0017.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/9157cb9e-fbe9-4d4b-a4eb-9d7ea2cad48d.0017.03/DOC_1#E0003)),\n\nConsiderando que os peixes constam da lista do anexo II do Tratado; que a comercialização dos peixes constitui uma importante fonte de rendimentos para o sector da aquicultura;\n\nConsiderando que é necessário estabelecer, a nível comunitário, as medidas de combate a adoptar em casos de surtos de doença, de forma a assegurar um desenvolvimento racional da aquicultura e a contribuir para a protecção da saúde animal na Comunidade;\n\nConsiderando que, no que respeita às doenças a tomar em consideração, é necessário referir-se às listas incluídas no anexo A da Directiva 91/67/CEE do Conselho, de 28 de Janeiro de 1991, relativa às condições de polícia sanitária que regem a introdução no mercado de animais e produtos da aquicultura ([^4^](http://publications.europa.eu/resource/cellar/9157cb9e-fbe9-4d4b-a4eb-9d7ea2cad48d.0017.03/DOC_1#E0004));\n\nConsiderando que um foco de doença pode adquirir rapidamente proporções epizoóticas, causando mortalidade e distúrbios numa escala susceptível de reduzir gravemente a rentabilidade da aquicultura;\n\nConsiderando que devem ser tomadas medidas de combate a partir o momento em que se suspeite da prescença de uma doença, de forma a que possam ser desenvolvidas acções imediatas e eficazes logo que aquela seja confirmada;\n\nConsiderando que essas medidas se devem destinar a prevenir a propagação da doença, nomeadamente através do controlo rigoroso da circulação de peixes e de produtos susceptíveis de propagar a infecção;\n\nConsiderando que a prevenção dessas doenças na Comunidade se baseará normalmente numa política de não vacinação;\n\nConsiderando que é essencial um inquérito epizootiológico rigoroso para prevenir a propagação dessas doenças; que os Estados-membros devem criar unidades especiais para esse efeito;\n\nConsiderando que, para assegurar um sistema eficaz de controlo, o diagnóstico das doenças deve ser harmonizado e realizado sob a égide de laboratórios responsáveis, cabendo a coordenação a um laboratório de referência designado pela Comunidade;\n\nConsiderando que, para assegurar uma aplicação uniforme da presente directiva, deve ser criado um processo comunitário de inspecção;\n\nConsiderando que as medidas comuns de combate a essas doenças constituem pelo menos uma base para a manutenção de um nível uniforme de saúde animal;\n\nConsiderando que as disposições da Decisão 90/424/CEE do Conselho, de 26 de Junho de 1990, relativa a determinadas despesas no domínio veterinário ([^5^](http://publications.europa.eu/resource/cellar/9157cb9e-fbe9-4d4b-a4eb-9d7ea2cad48d.0017.03/DOC_1#E0005)), e nomeadamente o seu artigo 5.º, se aplicam sempre que se verifique um surto de uma das doenças referidas no anexo A da Directiva 91/67/CEE;\n\nConsiderando que é conveniente confiar à Comissão a adopção das necessárias medidas de execução; que, para esse fim, deve ser previsto um processo que estabeleça uma cooperação estreita e eficaz entre a Comissão e os Estados-membros no Comité veterinário permanente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "7fabed8a0a46afb5": {
+   "fragment_id": "Disposições gerais",
+   "type": "divisao",
+   "heading": "Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições gerais"
+  },
+  "0a1894414adff409": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva define as medidas comunitárias mínimas de combate às doenças dos peixes referidas no anexo A, listas I e II, da Directiva 91/67/CEE."
+  },
+  "86e617c467635274": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do disposto na presente directiva, são aplicáveis, na medida do necessário, as definições estabelecidas no artigo 2.º da Directiva 91/67/CEE.\n\nAlém disso, considera-se:\n\n1. Doenças da lista I: as doenças dos peixes referidas na lista I do anexo A, da Directiva 91/67/CEE;\n\n2. Doenças da lista II: as doenças dos peixes referidas na lista II do anexo A, da Directiva 91/67/CEE;\n\n3. Peixes suspeitos de estarem infectados: os peixes que apresentem sintomas clínicos ou lesões *post-mortem* ou reacções duvidosas em análises de laboratório que permitam suspeitar, de modo razoável, da presença de uma doença da lista I ou da lista II;\n\n4. Peixes infectados: os peixes em que foi oficialmente confirmada a presença de uma doença da lista I ou da lista II, na sequência de uma análise de laboratório ou, no caso de anemia infecciosa do salmão, na sequência de uma exame clínico e de um exame *post-mortem*;\n\n5. Exploração suspeita de estar infectada: exploração que contenha peixes suspeitos de estarem infectados;\n\n6. Exploração infectada: exploração que contenha peixes infectados, bem como as explorações esvaziadas ainda não desinfectadas."
+  },
+  "49265300b3bedafb": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-membros assegurarão que todas as explorações em que se criem ou mantenham peixes sensíveis às doenças da lista I ou da lista II:\n\n1. Sejam registadas pelo serviço oficial; esse registo deve ser constantemente actualizado;\n\n2. Mantenham um registo:\n\na) Dos peixes vivos, ovos e gâmetas que entrem na exploração, do qual constem todas as informações relativas ao seu fornecimento, ao seu número ou peso, ao seu tamanho, à sua origem e aos seus fornecedores;\n\nb) Dos peixes vivos, ovos e gâmetas que saiam da exploração, de que constem todas as informações relativas à sua expedição, ao seu número ou peso, ao seu tamanho e ao seu destino;\n\nc) Da mortalidade verificada."
+  },
+  "9b58631b15d3a40d": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-membros garantirão que a suspeita da existência de uma das doenças da lista I ou da lista II seja objecto, o mais rapidamente possível, de uma notificação obrigatória do serviço oficial."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "4bcf7a0da58833c1": {
+   "fragment_id": "Medidas de combate às doenças da lista I",
+   "type": "divisao",
+   "heading": "Medidas de combate às doenças da lista I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Medidas de combate às doenças da lista I"
+  },
+  "99f4d4cb531acfc5": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Quando numa exploração se encontrarem peixes suspeitos de estarem infectados por uma doença da lista I, os Estados-membros garantirão que o serviço oficial ponha imediatamente a funcionar os meios de investigação oficial para confirmar ou desmentir a presença da doença em causa, nomeadamente a análise clínica; o serviço oficial procederá ou mandará proceder, sobretudo, à colheita das amostras apropriadas para as análises de laboratório.\n\n2. A partir da notificação da suspeita da presença de uma doença, o serviço oficial colocará a exploração sob vigilância oficial e ordenará nomeadamente que:\n\na) Seja feito um recenseamento oficial de todas as espécies e categorias de peixes e que, em relação a cada uma delas, seja registado o número de peixes já mortos, infectados ou suspeitos de estarem infectados ou contaminados; o recenseamento deve ser actualizado pelo proprietário ou pelo detentor dos animais de modo a reflectir o aumento da população ou a nova mortalidade durante o período de suspeita; os dados do recenseamento devem ser apresentados sob pedido e podem ser controlados em cada inspecção;\n\nb) Nenhum peixe, vivo ou morto, ovo ou gâmeta possa entrar ou sair da exploração sem autorização do serviço oficial;\n\nc) A destruição dos peixes mortos ou das suas miudezas seja realizada sob o controlo do serviço oficial;\n\nd) A entrada ou saída de alimentos para animais, utensílios, objectos ou outras substâncias, tais como resíduos, susceptíveis de transmitir a doença sejam sujeitos, se necessário, à autorização do serviço oficial, que definirá as condições destinadas a prevenir a propagação do agente patogénico;\n\ne) A circulação de pessoas com destino à exploração ou dela provenientes seja sujeita a autorização do serviço oficial;\n\nf) A entrada e saída de veículos da exploração seja sujeita a autorização do serviço oficial, que definirá as condições necessárias para prevenir a propagação do agente patogénico;\n\ng) Sejam utilizados meios adequados de desinfecção nas entradas e saídas da exploração;\n\nh) Seja realizado um inquérito epizootiológico nos temos do n.º 1 do artigo 8.º;\n\ni) Todas as explorações situadas na mesma zona de captação de águas ou na mesma zona costeira sejam colocadas sob vigilância oficial e nenhum peixe, ovo ou gâmeta saia dessas explorações sem autorização do serviço oficial; no caso de zonas de captação de água ou costeiras extensas, o serviço oficial pode decidir limitar esta medida a uma superfície menos extensa próxima da exploração suspeita de estar infectada, se considerar que essa superfície oferece as garantias máximas para a prevenção da propagação da doença;\n\n3. Enquanto não entram em vigor as medidas oficiais previstas no n.º 2, o proprietário ou possuidor de peixes suspeitos de estarem atingidos da doença tomará todas as medidas necessárias para cumprir o disposto no n.º 2, à excepção das alíneas h) e i).\n\n4. As medidas previstas no n.º 2 não serão revogadas antes de a suspeita da doença ter sido oficialmente desmentida."
+  },
+  "117f299d7a659b99": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nLogo que seja oficialmente confirmada a presença de uma das doenças da lista I, os Estados-membros garantirão que o serviço oficial, para além das medidas enunciadas no n.º 2 do artigo 5.º, ordenará a adopção das seguintes medidas:\n\na) Na exploração infectada:\n\n— todos os peixes devem ser retirados, de acordo com um plano estabelecido pelo serviço oficial e aprovado pela Comissão nos termos do n.º 2 do artigo 19.º,\n\n— no caso de explorações terrestres, todos os viveiros devem ser esvaziados das suas águas, a fim de serem limpos e desinfectados,\n\n— todos os ovos e gâmetas, peixes mortos e peixes que apresentem sinais clínicos de doença serão considerados material de alto risco e devem ser destruídos sob o controlo do serviço oficial, nos termos da Directiva 90/667/CEE ([^6^](http://publications.europa.eu/resource/cellar/9157cb9e-fbe9-4d4b-a4eb-9d7ea2cad48d.0017.03/DOC_1#E0006)),\n\n— todos os peixes vivos serão mortos e destruídos sob o controlo do serviço oficial, nos termos da Directiva 90/667/CEE, ou, no que se refere aos peixes que tenham atingido o tamanho comercial e não apresentem nenhum sinal clínico de doença, abatidos sob o controlo do serviço oficial para comercialização ou transformação para consumo humano.\n\n— Neste último caso, o serviço oficial garantirá que os peixes sejam imediatamente abatidos e eviscerados, que essas operações sejam efectuadas em condições adequadas para evitar a propagação dos agentes patogénicos, que os resíduos e miudezas sejam considerados como material de alto risco e sejam sujeitos a um tratamento que destrua os agentes patogénicos nos termos da Directiva 90/667/CEE e que as águas utilizadas sejam sujeitas a um tratamento que torne inactivos os agentes patogénicos eventualmente presentes,\n\n— após a retirada dos peixes, ovos e gâmetas, os viveiros, o equipamento e todas as substâncias susceptíveis de terem sido contaminados devem ser limpos e desinfectados o mais rapidamente possível, de acordo com as instruções definidas pelo serviço oficial, de modo a eliminar qualquer risco de propagação ou de sobrevivência do agente da doença. Os processos de limpeza e desinfecção de uma exploração infectada são determinados de acordo com o processo previsto no artigo 19.º,\n\n— todas as matérias referidas no n.º 2, alínea d), do artigo 5.º, que possam estar contaminadas, devem ser destruídas ou tratadas de forma a garantir a destruição de qualquer agente patogénico presente,\n\n— deve realizar-se um inquérito epizootiológico nos termos no n.º 1 do artigo 8.º e deve ser aplicado o disposto no n.º 4 do artigo 8.º; o inquérito incluirá a colheita de amostras para efeitos de análise de laboratório;\n\nb) Todas as explorações da zona de captação de água ou da zona costeira em que se situa a exploração infectada serão sujeitas a inspecções sanitárias; se essas inspecções revelarem casos positivos, serão aplicáveis as medidas previstas na alínea a) supra;\n\nc) O repovoamento da exploração será autorizado pelo serviço oficial, após inspecção satisfatória das operações de limpeza e desinfecção e depois de decorrido um período considerado adequado pelo serviço oficial para garantir a erradicação do agente patogénico e de quaisquer outras eventuais infecções na mesma zona de captação de água;\n\nd) Se a aplicação das medidas previstas no n.º 2, alíneas a), b), c) e d), do artigo 5.º exigir a cooperação dos serviços oficiais de outros Estados-membros, os serviços oficiais dos Estados-membros em causa colaborarão para assegurar o cumprimento das medidas previstas no presente artigo.\n\nSe necessário, serão adoptadas medidas complementares adequadas, de acordo com o processo previsto no artigo 19.º"
+  },
+  "748db04a9ae63b60": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nQuando peixes de origem selvagem não pertencentes a uma exploração, bem como os peixes de lagos, lagoas ou outras instalações destinadas à prática da pesca recreativa ou que possuam peixes ornamentais, sejam suspeitos de estar infectados ou estejam infectados, os Estados-membros assegurarão a aplicação das medidas adequadas. Os Estados-membros informarão a Comissão e os outros Estados-membros das medidas por eles adoptadas, no Comité veterinário permanente."
+  },
+  "0495187cb2795927": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. O inquérito epizootiológico abrangerá:\n\n— o período provável durante o qual a doença possa ter existido na exploração antes de ter sido notificada ou da sua suspeita,\n\n— a possível origem da doença na exploração e a identificação de outras explorações em que existam ovos ou gâmetas ou peixes de espécies sensíveis que possam ter sido infectados,\n\n— a circulação de peixes, ovos ou gâmetas, pessoas, veículos ou substâncias susceptíveis de terem sido portadores do agente da doença para as explorações em causa ou em proveniência das mesmas,\n\n— a eventual presença de vectores da doença e a sua distribuição.\n\n2. Se o inquérito epizootiológico revelar que a doença pode ter sido introduzida a partir de outra zona de captação de água ou de outra zona costeira, ou transferida para outra zona de captação de água ou para outra zona costeira, na sequência de um contacto devido à circulação de pessoas, de peixes, de ovos ou gâmetas, de animais ou de veículos ou por qualquer outro modo, as explorações dessas zonas de captação e dessas zonas costeiras serão consideradas suspeitas, sendo aplicáveis as medidas previstas no artigo 5.º Se se confirmar a presença da doença serão aplicáveis as medidas previstas no artigo 6.º\n\n3. Se o inquérito epizootiológico revelar que é necessária a cooperação de serviços oficiais de outros Estados-membros, os serviços oficiais dos Estados-membros em causa adoptarão todas as medidas necessárias para assegurar o respeito do disposto na presente directiva.\n\n4. Será criada uma unidade de crise para se conseguir a plena coordenação de todas as medidas necessárias para assegurar a erradicação da doença o mais rapidamente possível e com vista à realização do inquérito epizootiológico.\n\nO Conselho, deliberando por maioria qualificada, sob proposta da Comissão, adoptará as regras gerais relativas às unidades de crise nacionais e à unidade de crise comunitária.\n\n5. O Conselho, deliberando por maioria qualificada, sob proposta da Comissão, elaborada com base no parecer do Comité científico veterinário, designadamente para ter em conta a evolução científica e tecnológica, reanalisará o disposto no presente artigo antes de 31 de Dezembro de 1996."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "9e9b19680a393831": {
+   "fragment_id": "Medidas de combate às doenças da lista II",
+   "type": "divisao",
+   "heading": "Medidas de combate às doenças da lista II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Medidas de combate às doenças da lista II"
+  },
+  "3ad0f5406a6214a8": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Em caso de suspeita ou de confirmação de uma das doenças da lista II, numa zona aprovada ou numa exploração aprovada situada numa zona não aprovada, será efectuado um inquérito epizootiológico nos termos do artigo 8.º Os Estados-membros que pretendam restabelecer o seu estatuto, definido nos termos da Directiva 91/67/CEE, devem sujeitar-se às disposições dos anexos B e C da referida directiva.\n\n2. Se o inquérito epizootiológico revelar que a doença pode ter sido introduzida a partir de uma zona aprovada ou de outra exploração aprovada, ou transferida para outra exploração aprovada na sequência da circulação de pessoas, de ovos ou gâmetas, de peixes, veículos ou por qualquer outro modo, essas zonas ou explorações serão consideradas suspeitas, sendo aplicáveis as medidas adequadas.\n\n3. No entanto, o serviço oficial pode autorizar um período de engorda até que os peixes para abate tenham atingido o tamanho comercial."
+  },
+  "906c7bc919686651": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Quando uma exploração não aprovada situada numa zona não aprovada contiver peixes suspeitos de estarem infectados com uma doença da lista II, os Estados-membros garantirão que os serviços oficiais:\n\na) Ponham imediatamente em acção os meios oficiais de investigação para confirmar ou desmentir a presença da doença, se necessário através da colheita de amostras para análise num laboratório aprovado;\n\nb) Efectuem ou mandem efectuar um recenseamento oficial das explorações infectadas, que deve ser actualizado regularmente;\n\nc) Coloquem ou mandem colocar as explorações infectadas sob vigilância oficial, de forma a garantir que, a partir de explorações infectadas e em derrogação do n.º 1, alínea c), do artigo 3.º da Directiva 91/67/CEE, apenas sejam autorizados movimentos de peixes vivos, ovos ou gâmetas destinados a outras explorações infectadas pela mesma doença ou ao abate para consumo humano.\n\n2. Os Estados-membros podem pôr em prática, durante um período determinado e sob o controlo do serviço oficial, um programa facultativo ou obrigatório de erradicação das doenças da lista II nas explorações não aprovadas ou nas zonas não aprovadas. Durante esse período, será proibida, numa zona submetida ao programa em causa, a introdução de peixes vivos, ovos ou gâmetas provenientes de explorações infectadas ou de explorações com um estatuto sanitário desconhecido.\n\nEsses programas, que serão elaborados com base em critérios gerais a determinar antes da data referida no artigo 20.º e de acordo com o processo previsto no artigo 19.º, serão apresentados à Comissão para análise, aprovados e alterados segundo o mesmo processo, se for caso disso.\n\nApós o período referido no primeiro parágrafo, os Estados-membros que recorram a esse processo informarão a Comissão e os outros Estados-membros dos resultados obtidos, no Comité veterinário permanente.\n\n3. O mais tardar em 31 de Dezembro de 1996, a Comissão apresentará ao Conselho um relatório elaborado após parecer do Comité científico veterinário, tendo em conta a experiência adquirida e a evolução técnica e científica; esse relatório será acompanhado de eventuais propostas destinadas a reanalisar o disposto no presente artigo, nomeadamente no que se refere à introdução no mercado de peixes vivos infectados, bem como dos respectivos ovos e gâmetas, destinados à criação ou à engorda, bem como no que se refere à execução de um inquérito epizootiológico em zonas não aprovadas, após suspeita da presença de uma doença numa exploração não aprovada. O Conselho pronunciar-se-á, por maioria qualificada, sobre estas eventuais propostas, elaboradas em função das conclusões daquele relatório.\n\n4. As regras de execução dos n.^os^ 1 e 2 do presente artigo serão adoptadas pela Comissão na medida do necessário, de acordo com o processo previsto no artigo 19.º"
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "bbdde795c58f027f": {
+   "fragment_id": "Disposições finais",
+   "type": "divisao",
+   "heading": "Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições finais"
+  },
+  "5c39995d4c496042": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. A colheita de amostras e as análises de laboratório destinadas a detectar a presença de doenças das listas I e II serão realizadas segundo os métodos definidos no artigo 15.º da Directiva 91/67/CEE.\n\n2. As análises para detectar a presença da doença ou de agentes patogénicos serão realizadas num laboratório aprovado pelo serviço oficial. Se necessário, e nomeadamente ao surgir o primeiro surto da doença, essas análises de laboratório devem identificar o tipo, o subtipo ou a variante do agente patogénico, que devem ser confirmados pelo laboratório nacional de referência e que, se necessário, podem ser confirmados pelo laboratório comunitário de referência referido no artigo 13.º"
+  },
+  "31aec6a8ab28a504": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Os Estados-membros garantirão que em cada um deles seja designado um laboratório nacional de referência que disponha de instalações e de pessoal especializado que lhes permita determinar em qualquer altura, e nomeadamente durante as primeiras manifestações de uma doença, o tipo, o subtipo e a variante do agente patogénico em causa, e confirmar os resultados obtidos pelos laboratórios regionais de diagnóstico.\n\n2. Os laboratórios nacionais designados para as doenças em causa são responsáveis pela coordenação das normas e dos métodos de diagnóstico, bem como pela utilização de reagentes.\n\n3. Os laboratórios nacionais designados para as doenças em questão são responsáveis pela coordenação das normas e dos métodos de diagnóstico fixados por cada laboratório de diagnóstico de doença em causa nesse Estado-membro. Para o efeito, os Estados-membros:\n\na) Podem fornecer reagentes de diagnóstico aos laboratórios aprovados pelo Estado-membro;\n\nb) Controlam a qualidade de todos os reagentes de diagnóstico utilizados no Estado-membro;\n\nc) Organizam periodicamente testes comparativos;\n\nd) Conservam «isolatos» do agente patogénico da doença provenientes de casos confirmados nesse Estado-membro;\n\ne) Asseguram que sejam confirmados os resultados positivos obtidos nos laboratórios de diagnóstico aprovados pelo Estado-membro.\n\n4. Contudo, em derrogação do n.º 1, os Estados-membros que não dispuserem de laboratório nacional competente para a doença em causa podem recorrer aos serviços do laboratório nacional competente na matéria de outro Estado-membro.\n\n5. A lista dos laboratórios nacionais de referência para as doenças de peixes figura no anexo A.\n\n6. Os laboratórios nacionais designados para as referidas doenças cooperarão com o laboratório comunitário de referência previsto no artigo 13.º\n\n7. As regras de execução do presente artigo serão adoptadas pela Comissão, de acordo com o processo previsto no artigo 19.º"
+  },
+  "4469201e43d0b9f9": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. O laboratório comunitário de referência para as doenças de peixes vem indicado no anexo B.\n\n2. Sem prejuízo do disposto na Decisão 90/424/CEE, e nomeadamente no seu artigo 28.º, as competências e funções do laboratório referido no n.º 1 do presente artigo figuram no anexo C."
+  },
+  "6814e54777027eca": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. É proibida a vacinação contra as doenças constantes da lista II e contra as doenças constantes da lista I nas zonas aprovadas ou nas explorações aprovadas situadas em zonas não aprovadas ou nas zonas ou explorações que já tenham iniciado os processos de aprovação previstos na Directiva 91/67/CEE.\n\nNo entanto, por derrogação, poderá ser autorizada a vacinação em caso de foco de doenças constantes da lista I, no caso de as regras de vacinação serem especificadas nos planos de intervenção aprovados nos termos do n.º 1 do artigo 15.º, e tendo em conta os critérios fixados no anexo E.\n\n2. O mais tardar em 30 de Junho de 1996, o Conselho, deliberando por maioria qualificada sob proposta da Comissão, reanalisará o disposto no presente artigo, nomeadamente no que se refere à determinação das condições específicas de utilização das vacinas e para ter em conta a evolução das pesquisas científicas e tecnológicas em matéria de vacinação."
+  },
+  "3a1cdfce9c81b323": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Cada Estado-membro elaborará um plano de intervenção que especificará o modo de aplicação das medidas previstas na presente directiva se se declarar uma das doenças da lista I.\n\nEsse plano deve permitir o acesso às instalações, equipamentos, pessoal e a quaisquer outras estruturas apropriadas necessárias para a erradicação rápida e eficaz da epidemia.\n\n2. Os critérios gerais aplicáveis à elaboração desses planos estão enunciados no anexo D.\n\nContudo, os Estados-membros podem limitar-se à aplicação dos critérios específicos às doenças em causa, quando os critérios gerais já tenham sido objecto de adopção ao serem apresentados planos relativos à aplicação de medidas de combate a outra doença.\n\nA Comissão pode, de acordo com o processo previsto no artigo 19.º, alterar ou completar esses critérios tendo em conta a natureza específica da doença.\n\n3. Os planos elaborados em conformidade com os critérios enunciados no anexo D serão apresentados à Comissão o mais tardar após o início de aplicação da presente directiva.\n\n4. A Comissão examinará os planos, de forma a determinar se eles permitem atingir o objectivo pretendido, e sugerirá ao Estado-membro em questão quaisquer alterações necessárias, nomeadamente para garantir a sua compatibilidade com os dos outros Estados-membros.\n\nA Comissão aprovará os planos, eventualmente alterados, de acordo com o processo previsto no artigo 19.º\n\nOs planos podem ser posteriormente alterados ou completados, de acordo com o mesmo processo, para tomar em consideração a evolução da situação."
+  },
+  "3ecbf123127ef6bb": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nNa medida do necessário para a aplicação uniforme da presente directiva e em colaboração com as autoridades competentes, os peritos da Comissão podem efectuar controlos no local. Para o efeito, podem verificar, mediante controlo de uma percentagem representativa das explorações, se as autoridades competentes controlam o cumprimento da presente directiva por parte das explorações. A Comissão informará os Estados-membros do resultado dos controlos efectuados.\n\nO Estado-membro em cujo território se efectuar um controlo prestará toda a ajuda necessária aos peritos no cumprimento da sua missão.\n\nAs regras de execução do presente artigo serão adoptadas de acordo com o processo previsto no artigo 19.º"
+  },
+  "e63df744abff4aa8": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nAs condições de participação financeira da Comunidade nas acções relacionadas com a execução da presente directiva são definidas na Decisão 90/424/CEE."
+  },
+  "51a77cc5bbdcb8c6": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nOs anexos B, C e D serão alterados, na medida do necessário, pelo Conselho, deliberando por maioria qualificada sob proposta da Comissão, nomeadamente para atender à evolução da investigação e dos processos de diagnóstico.\n\nO anexo A pode ser alterado na medida do necessário, segundo o processo previsto no artigo 19.º"
+  },
+  "e2c21ec626b366e1": {
+   "fragment_id": "Artigo 18.ºA",
+   "type": "artigo",
+   "heading": "Artigo 18.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.ºA\n\nAs medidas necessárias à execução da presente directiva relativas às matérias previstas nos artigos a seguir indicados serão aprovadas pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 19.º:\n\n— n.º 2 do artigo 5.º,\n\n— artigo 6.º,\n\n— n.^os^ 1 e 2 do artigo 10.º,\n\n— artigo 12.º,\n\n— artigo 15.º,\n\n— artigo 16.º,\n\n— segundo parágrafo do artigo 18.º."
+  },
+  "c4f9d08666a08574": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. A Comissão é assistida pelo Comité Veterinário Permanente, instituído pela Decisão 68/361/CEE ([^7^](http://publications.europa.eu/resource/cellar/9157cb9e-fbe9-4d4b-a4eb-9d7ea2cad48d.0017.03/DOC_1#E0007)) (a seguir designado «comité»).\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O comité adopta o seu regulamento interno."
+  },
+  "78d67608fac64935": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 1 de Julho de 1994. Desse facto informarão imediatamente a Comissão.\n\nEssas disposições devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Contudo, a partir da data indicada no n.º 1, os Estados-membros podem, no respeito das regras gerais do Tratado, manter ou aplicar nos seus territórios disposições mais rigorosas do que as previstas na presente directiva. Os Estados-membros informarão a Comissão de quaisquer medidas nesse sentido.\n\n3. Os Estados-membros comunicarão à Comissão o texto das disposições essenciais de direito interno que adoptarem no domínio regido pela presente directiva."
+  },
+  "2f63a689be3366d5": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "4bbeae9ce601038d": {
+   "fragment_id": "ANEXO A",
+   "type": "divisao",
+   "heading": "ANEXO A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO A\n\n| AT | VMU: Veterinärmedizinische Universität Wien, Klinik für Geflügel, Ziervögel, Reptilien und Fische(University of Veterinary Medicine Vienna, clinic for poultry, pet birds, reptiles and fish)Veterinärplatz 1A-1210 Wien |\n| --- | --- |\n| BE | CODA — CERVA — VARVeterinary and Agrochemical Research CentreGroeselenberg 99B-1180 Brussels |\n| [▼M4](http://publications.europa.eu/resource/celex/32006L0104) |  |\n| BG | Национален диагностичен научноизследователски ветеринарномедицински институт Проф. д-р Георги Павлов, Национална референтна лаборатория Болести по рибите и морските мекотелибул. Пенчо Славейков 15София 1606(Instituto Nacional de Investigação e Diagnóstico Veterinários Prof. Dr. Georgi Pavlov, Laboratório Nacional de Referência para as doenças dos peixes e moluscos,15, Pencho Slaveykov Blvd.,1606 Sófia) |\n| [▼M3](http://publications.europa.eu/resource/celex/32006D0911) |  |\n| CY | State Veterinary LaboratoryVeterinary Services1417 AthalassaNicosia |\n| CZ | Veterinary Research InstituteHudcova 70621 32 Brno |\n| [▼M5](http://publications.europa.eu/resource/celex/32007D0729) |  |\n| DE | Friedrich-Loeffler-InstitutBundesforschungsinstitut für TiergesundheitBoddenblick 5a17493 Greifswald — Insel RiemsTel. (49-38351) 7-0Fax (49-38351) 7-219E-Mail: poststelle@fli.bund.de |\n| DK | National Veterinary Institute, Technical University of DenmarkHangøvej 2DK-8200 Aarhus N |\n| [▼M3](http://publications.europa.eu/resource/celex/32006D0911) |  |\n| EE | Veterinaar- ja ToidulaboratooriumVäike-Paala 3, 11415 Tallinn, EstoniaTel.: +372 603 58 10Faks: + 372 603 58 11E-post: tallinn@vetlab.ee |\n| ES | Laboratorio Central de Sanidad Animal de AlgeteCarretera de Algete, km 8Algete 28110 (Madrid)Tel.: +34 916 290 300Fax: +34 916 290 598E-mail: lcv@mapya.es |\n| FI | Finnish Food Safety AuthorityAnimal Diseases and Food Safety ResearchMustialankatu 3FI-00790 Helsinki, FinlandE-mail: info@evira.fiTel.: +358 20 772 003 (exchange)Fax: +358 20 772 4350 |\n| FR | Laboratoire d’études et de recherches avicoles, porcines et piscicolesAFSSA site de Ploufragan/Brest–LERPPBP 7029280 Plouzane |\n| GB | Cefas Weymouth LaboratoryBarrack RoadThe notheWeymouthDorset DT4 8UBUKFRS Marine LaboratoryPO Box 101375 Victoria RoadTorryAberdeenAB11 9DB |\n| GR | Centre of Athens Veterinary InstitutesLaboratory of Fish Pathology and Bio-Pathology of Aquatic Organisms,25 Neapoleos Street,GR-153 10 Agia Paraskevi AttikiTel.: +30.2106010903 |\n| [▼M5](http://publications.europa.eu/resource/celex/32007D0729) |  |\n| HU | Mezőgazdasági Szakigazgatási Hivatal Központ, Állat-egészségügyi Diagnosztikai IgazgatóságCentral Agricultural Office, Veterinary Diagnostic DirectorateAddress: 1149 Budapest, Tábornok u. 2.Mailing Address: 1581 Budapest, 146. Pf. 2.Tel.: +36 1 460-6300Fax: +36 1 252-5177E-mail: titkarsag@oai.hu |\n| [▼M3](http://publications.europa.eu/resource/celex/32006D0911) |  |\n| IE | The Marine InstituteRinvilleOranmoreCo. Galway |\n| IT | Centro di referenza nazionale per lo studio e la diagnosi delle malattie dei pesci, molluschi e crostacei c/o Istituto zooprofilattico sperimentale delle Venezie,V.le dell'Università,10 - 35020 Legnaro (Pd) |\n| LT | National Veterinary Laboratory(Nacionalinė veterinarijos laboratorija)J. Kairiūkščio 10LT-08409 Vilnius, Lietuva |\n| LU | CODA — CERVA — VARVeterinary and Agrochemical Research CentreGroeselenberg 99B-1180 Brussels |\n| LV | Nacionālais diagnostikas centrs(National Diagnostic Centre)Lejupes iela 3, Rīga, LV-1076Tel.: +371 7620526Fax: +371 7620434E-mail: ndc@ndc.gov.lv |\n| MT | Istituto Zooprofilattico Sperimentale delle VenezieLegnaro (PD), Italia |\n| NL | Centraal Instituut voor DierziekteControleCIDC-LelystadHoofdvestiging: Houtribweg 39Nevenvestiging: Edelhertweg 15Postbus 20048203 AA Lelystad |\n| PL | Laboratory Department of Fish DiseasesPaństwowy Instytut Weterynaryjny – Państwowy Instytut BadawczyAl. Partyzantów 57, 24-100 PuławyTel.: +48.81.886 30 51Fax: +48.81.886 25 95E-mail: sekretariat@piwet.pulawy.pl |\n| PT | Laboratório Nacional de Investigação Veterinária (LNIV)Estrada de Benfica, 701P-1549-011 Lisboa |\n| [▼M4](http://publications.europa.eu/resource/celex/32006L0104) |  |\n| RO | Institutul de Diagnostic și Sănătate AnimalăStrada Dr. Staicovici nr. 63Sector 5Codul 050557, București |\n| [▼M3](http://publications.europa.eu/resource/celex/32006D0911) |  |\n| SE | Statens Veterinärmedicinska AnstaltDepartment of Wildlife, Fish and EnvironmentSE-751 89 UppsalaTel (46-18) 674000Fax (46-18) 674044 |\n| SI | Univerza v LjubljaniVeterinarska fakultetaNacionalni veterinarski inštitutGerbičeva 60,SI-1000 Ljubljana |\n| SK | Štátny veterinárny a potravinový ústav,Jánoškova 1611/58,026 80 Dolný Kubín |"
+  },
+  "c13b99ba13d00e28": {
+   "fragment_id": "ANEXO B",
+   "type": "divisao",
+   "heading": "ANEXO B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO B"
+  },
+  "2729004485c1e5d4": {
+   "fragment_id": "LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS PEIXES",
+   "type": "divisao",
+   "heading": "LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS PEIXES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS PEIXES\n\nStatens Veterinære Serumlaboratorium\n\nLandbrugsministeriet\n\nHangøvej 2\n\n8200 Aarhus N\n\nDinamarca."
+  },
+  "591b360bfddd10d2": {
+   "fragment_id": "ANEXO C",
+   "type": "divisao",
+   "heading": "ANEXO C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO C"
+  },
+  "1ebe91f6ca28e332": {
+   "fragment_id": "COMPETÊNCIAS E FUNÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS PEIXES",
+   "type": "divisao",
+   "heading": "COMPETÊNCIAS E FUNÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS PEIXES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COMPETÊNCIAS E FUNÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA PARA AS DOENÇAS DOS PEIXES\n\nO laboratório comunitário de referência para as doenças dos peixes das listas I e II tem as seguintes competências e funções:\n\n1. Coordenar, em consulta com a Comissão, os métodos de diagnóstico da doença em questão nos Estados-membros, mediante, designadamente:\n\na) Especificação, detenção e fornecimento de estirpes do agente patogénico da doença em questão, para execução dos testes serológicos e preparação do anti-soro;\n\nb) Fornecimento de soros de referência e outros reagentes de referência aos laboratórios nacionais de referência com vista à normalização dos testes e dos reagentes utilizados em cada Estado-membro;\n\nc) Reconstituição e conservação de uma colecção de estirpes e de «isolatos» do agente patogénico da doença em questão;\n\nd) Organização periódica de testes comparativos comunitários para os processos de diagnóstico;\n\ne) Recolha e confronto de dados e informações sobre os métodos de diagnóstico utilizados e resultados das análises efectuadas na Comunidade;\n\nf) Caracterização dos «isolatos» do agente patogénico da doença em causa através dos métodos mais avançados e mais adequados a fim de permitir uma melhor compreensão da epizootiologia da doença;\n\ng) Acompanhamento da evolução da situação, em todo o mundo, em matéria de vigilância, epizootiologia e prevenção da doença em questão;\n\nh) Actualização permanente dos conhecimentos sobre o agente patogénico da doença em causa e sobre outros agentes patogénicos implicados, para permitir um diagnóstico diferencial rápido;\n\ni) Aquisição de um conhecimento aprofundado em matéria de preparação e utilização dos produtos de medicina veterinária imunológica utilizados na erradicação e controlo da doença em causa;\n\n2. Prestar uma ajuda activa à identificação dos focos de doença em causa nos Estados-membros, através de estudos dos «isolatos» de agentes patogénicos que lhe forem enviados para confirmação do diagnóstico, caracterização e estudos epizootiológicos;\n\n3. Facilitar a formação ou reciclagem dos peritos em diagnóstico de laboratório, para harmonizar as técnicas de diagnóstico em toda a Comunidade;\n\n4. Colaborar, no domínio dos métodos de diagnóstico das doenças da lista I, com os laboratórios competentes dos países terceiros onde essas doenças se encontram propagadas."
+  },
+  "0470f2b2d090a327": {
+   "fragment_id": "ANEXO D",
+   "type": "divisao",
+   "heading": "ANEXO D",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO D"
+  },
+  "e70ce298161a9aa4": {
+   "fragment_id": "CRITÉRIOS MÍNIMOS APLICÁVEIS AOS PLANOS DE EMERGÊNCIA",
+   "type": "divisao",
+   "heading": "CRITÉRIOS MÍNIMOS APLICÁVEIS AOS PLANOS DE EMERGÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CRITÉRIOS MÍNIMOS APLICÁVEIS AOS PLANOS DE EMERGÊNCIA\n\nOs planos de intervenção devem prever, pelo menos:\n\n1. A criação, a nível nacional, de uma unidade de crise, destinada a coordenar todas as medidas de emergência no Estado-membro em causa;\n\n2. Uma lista dos centros de urgência locais que disponham de equipamentos adequados para coordenar as medidas de controlo à escala local;\n\n3. Informações pormenorizadas sobre o pessoal encarregado das medidas de emergência, respectivas qualificações profissionais e responsabilidades;\n\n4. A possibilidade, para todos os centros de urgência locais, de contactarem rapidamente as pessoas ou organismos directa ou indirectamente envolvidos numa infestação;\n\n5. A disponibilidade do material e equipamento adequados para executar as medidas de emergência;\n\n6. Instruções precisas acerca das acções a desenvolver em caso de suspeita e confirmação de infecção ou de contaminação;\n\n7. Programas de formação para actualização e desenvolvimento dos conhecimento em matéria de actuação no terreno e de processos administrativos;\n\n8. Eventualmente, nos laboratórios de diagnóstico, um serviço de exame *post mortem*, a capacidade necessária para análises serológicas, histológicas, etc., e a actualização das técnicas de diagnóstico rápido (devem ser adoptadas, para o efeito, disposições para o transporte rápido das amostras);\n\n9. Disposições regulamentares para a aplicação dos planos de intervenção."
+  },
+  "770bf5cf1c6359a7": {
+   "fragment_id": "ANEXO E",
+   "type": "divisao",
+   "heading": "ANEXO E",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO E"
+  },
+  "b3e6cf8a8f7b240c": {
+   "fragment_id": "CRITÉRIOS PARA OS PROGRAMAS DE VACINAÇÃO",
+   "type": "divisao",
+   "heading": "CRITÉRIOS PARA OS PROGRAMAS DE VACINAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CRITÉRIOS PARA OS PROGRAMAS DE VACINAÇÃO\n\nOs programas de vacinação deverão conter, pelo menos, os elementos seguintes:\n\n1. A localização da doença que justifica um pedido de vacinação.\n\n2. Informações sobre as zonas litorais, as zonas continentais, localizações e explorações nas quais a vacinação poderá ser efectuada: estas zonas não poderão de modo algum ultrapassar os limites da zona infectada e, se necessário, da zona tampão estabelecida à volta da zona infectada.\n\n3. Informações pormenorizadas sobre a vacina a utilizar, incluindo o tipo ou os tipos de vacina que podem ser utilizados.\n\n4. Informações pormenorizadas sobre as condições de utilização, a frequência de vacinação e os limites de utilização de vacina (que peixes, que gaiolas, etc.).\n\n5. Os critérios de cessação da utilização da vacina.\n\n6. Serão aprovadas disposições para a criação e manutenção de um registo histórico de vacinação (cronologia, localizações e explorações em que foi praticada a vacinação, estabelecimento de uma zona tampão, etc.).\n\n7. Serão instituídas disposições destinadas a limitar a movimentação de peixes na zona de vacinação e a garantir que os peixes só poderão sair da zona de vacinação para serem abatidos para fins de consumo humano ou, se necessário, para serem destruídos.\n\n8. Qualquer outra disposição necessária em caso de vacina.\n\n---"
+  },
+  "fa62eafd5c5abaf1": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/9157cb9e-fbe9-4d4b-a4eb-9d7ea2cad48d.0017.03/DOC_1#src.E0001)) JO n.º C 172 de 8. 7. 1992, p. 16.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/9157cb9e-fbe9-4d4b-a4eb-9d7ea2cad48d.0017.03/DOC_1#src.E0002)) JO n.º C 150 de 31. 5. 1993.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/9157cb9e-fbe9-4d4b-a4eb-9d7ea2cad48d.0017.03/DOC_1#src.E0003)) JO n.º C 19 de 25. 1. 1993, p. 14.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/9157cb9e-fbe9-4d4b-a4eb-9d7ea2cad48d.0017.03/DOC_1#src.E0004)) JO n.º L 46 de 19. 2. 1991, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/9157cb9e-fbe9-4d4b-a4eb-9d7ea2cad48d.0017.03/DOC_1#src.E0005)) JO n.º L 224 de 18. 8. 1990, p. 19. Decisão com a última redacção que lhe foi dada pela Decisão 92/438/CEE (JO n.º L 243 de 25. 8. 1992, p. 27).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/9157cb9e-fbe9-4d4b-a4eb-9d7ea2cad48d.0017.03/DOC_1#src.E0006)) Directiva 90/667/CEE do Conselho, de 27 de Novembro de 1990, que estabelece as normas sanitárias para a eliminação e a transformação de resíduos animais, para a sua colocação no mercado e para a prevenção da presença de agentes patogénicos nos alimentos para animais de origem animal ou à base de peixe e que altera a Directiva 90/425/CEE (JO n.º L 363 de 27. 12. 1990, p. 51). Directiva alterada pela Directiva 92/118/CEE (JO n.º L 62 de 15. 3. 1993, p. 49).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/9157cb9e-fbe9-4d4b-a4eb-9d7ea2cad48d.0017.03/DOC_1#src.E0007)) JO L 255 de 18.10.1968, p. 23."
+  },
+  "842a0c1741f8f4a9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993L0053 — PT — 01.08.2008 — 008.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31993L0053) [DIRECTIVA 93/53/CEE DO CONSELHO](http://publications.europa.eu/resource/celex/31993L0053) [de 24 de Junho de 1993](http://publications.europa.eu/resource/celex/31993L0053) [que introduz medidas comunitárias mínimas de combate a certas doenças dos peixes](http://publications.europa.eu/resource/celex/31993L0053) (JO L 175, 19.7.1993, p.23)\n\n**revogado por:**\n\n- [Directiva 2006/88/CE do Conselho de 24 de Outubro de 2006](http://publications.europa.eu/resource/celex/32006L0088) — L 328 — 14 — 24.11.2006"
+  }
+ }
+}

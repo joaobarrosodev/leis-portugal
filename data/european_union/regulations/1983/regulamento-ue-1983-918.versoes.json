@@ -1,0 +1,1909 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31983R0918:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01983R0918-20100101",
+ "dre_path": null,
+ "source_lastmod": "2010-01-01",
+ "versions": [
+  {
+   "date": "1983-04-23",
+   "future": false,
+   "celex": "31983R0918",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2eb01c9d558cbcf6",
+    "e6f1a48c092bac72",
+    "07ca63495b946313",
+    "a532e36284f1953b",
+    "4c2e4ea6f903b47c",
+    "1e448543bcccff74",
+    "3c819499c9054cd7",
+    "f726232bca023df1",
+    "2dac19b2e91e51ba",
+    "626b0709bec5fde2",
+    "7f3442f34d842004",
+    "47d8802ed739bae5",
+    "b8b7512502dd3c81",
+    "eb06f76596639880",
+    "fa50a7bf53133041",
+    "f1274fed3491a990",
+    "8783135aa383eda1",
+    "dc18c8b8d233521c",
+    "48e5fbcd9e33988f",
+    "e9b485002148a526",
+    "0c204517f6a8e667",
+    "10aad37b56205d98",
+    "be35968ca14ddd74",
+    "03093fbbb0bf0503",
+    "2e034366e5229ca0",
+    "821ad91580ce097f",
+    "48b9006e9839bb0f",
+    "51252b8937ccbe75",
+    "ade8f92e5fd9e00f",
+    "217210b23ab4dd29",
+    "387e4b3b62eee01b",
+    "fb4b9abec18be375",
+    "f8cd4bfbf5b0d457",
+    "bf0bd9eff5299040",
+    "2cf23dc8ea8eaf0d",
+    "ce8dbf9faf7a9257",
+    "ad2da9e7ad0e80e2",
+    "b231ccaa93ee514f",
+    "baba39a284fe6cac",
+    "69ce494dfe8c7565",
+    "9568f73974819057",
+    "40d431355e6166b7",
+    "834735f20fef13ea",
+    "3647b1deb900d945",
+    "7519e8e1d7c08fed",
+    "da6b5a34d54ab72a",
+    "1b6cffd7ab07f1e7",
+    "65ee588a7c653c48",
+    "700abbfa77fd8f7f",
+    "223f5a4c5a397a24",
+    "20bb13badc0b3c94",
+    "76e59c4d5cc57f7c",
+    "f36c6e93218e6c8f",
+    "b80b0a5cb67b8b3f",
+    "b9bb918ca0152d3b",
+    "925f8dd4da7d2e09",
+    "21ab5e812fd7d009",
+    "f1b11e5a5e1f7ff2",
+    "8c7575f3e5ad8bc7",
+    "92cf1124c0e9bc96",
+    "beb3e9183c39163b",
+    "429ae65ed825d7c1",
+    "725814f84ba95b1e",
+    "15c559789dcdda60",
+    "b4d471c9f3353e15",
+    "a9c5b05d29543183",
+    "793fcb86d1c494bb",
+    "aee5da1378f28f34",
+    "fd6f2491d1bc7188",
+    "be0f3971a22e8fe6",
+    "eba3da9216d24bb7",
+    "339fd60c4dda473c",
+    "d3187a1ab3dd0a59",
+    "50547017ba7c94df",
+    "14132a49a6ceb9b7",
+    "3885e831a4d6b654",
+    "7e756e8be94f01c7",
+    "064146da6049afb7",
+    "7a6e2acfbe8bb3e3",
+    "83bc45f25b2e94f5",
+    "98c14b6281a95ba3",
+    "b7c3f3104e96a7a7",
+    "754085df144bb395",
+    "ddeb104c52c8c9c2",
+    "26e548c50fefda18",
+    "1239d6d9226e168f",
+    "2be0c6149873069d",
+    "0134cb3eeb983774",
+    "3fdfd3baa87acf97",
+    "9a68c75e2dd4d06a",
+    "d6c96beb15634281",
+    "4bd5a141613b8590",
+    "772b85382c2bdfd6",
+    "1abc909e6c16eef2",
+    "6454c5855b7ff874",
+    "d9fa72b4fc398846",
+    "cbc473264778b32a",
+    "3744b0c61b7aae21",
+    "b8a6f66262ae85f7",
+    "841d2027adbea9ad",
+    "e5903da238fde602",
+    "71b94cefd6ef7bda",
+    "980eba2addcee52a",
+    "15356dbd2234c7ed",
+    "116aa33ff4e85a99",
+    "a85c5340ad74846f",
+    "8aa777917cd6ab22",
+    "6a6211196c153fe0",
+    "4978e140edf3a254",
+    "baa95385eeaa27f0",
+    "6bcba73e7eaf8f33",
+    "26ea6c2f91a1088e",
+    "c51397abffe8e160",
+    "1fe5993311021a78",
+    "ef61291470e4a40d",
+    "518925f55305dbde",
+    "68aa48520a5abc64",
+    "514898e1c1438415",
+    "6679fe27c5fba2b9",
+    "3201914d6dcecefc",
+    "b1d20722f7c62885",
+    "55e7ede6f1114b17",
+    "fa3b798c9637a5b5",
+    "26f5acf5835a09ad",
+    "ecda5ba999726e97",
+    "479083234e95ddce",
+    "974466391829593c",
+    "b1e833ccd2f1fd34",
+    "8217312aa25ee87c",
+    "f0e7c42926d76c0c",
+    "e8d8c5f813b92ad2",
+    "5a4ec269678cbd84",
+    "7b6e2690b5c387c5",
+    "6dc1b25cd87a3d64",
+    "e90954b2b79f4af6",
+    "5568f6c58bc01935",
+    "523f103fac45264b",
+    "7904ef4b61d0a16f",
+    "8a36c5d53e29a1d0",
+    "f7de785b733f887b",
+    "36ddda67c21bc805",
+    "3ce778de91a2dd9a",
+    "a26518e25c54bdf9",
+    "af64c79f6344cf4f",
+    "01bb4c4c4f73741b",
+    "d12b87de3d7f221b",
+    "6e47e8be56972fe0",
+    "f0e01ca2933f4cac",
+    "04a00c7131264333",
+    "10acc9fc295fc971",
+    "171607d4f9b6ca9b",
+    "c8b87298f0dffc01",
+    "c06e9ea50a7edf6e",
+    "1c8557fc796023c4",
+    "256e8e2492e403e2",
+    "43c3eb3bc9328d55",
+    "2ac5aba82b67d3fc",
+    "6533d1e217edf513",
+    "948e9a0e62eda011",
+    "ab6428308f34aa0e",
+    "5f1c0a248bd9524e",
+    "524e2bf47ccce764",
+    "e76e119411be933f",
+    "9d1e5bba39d352b5",
+    "e3ac2263dd31c9be",
+    "0ee70e4108d61444",
+    "25c1f5de5511241e",
+    "03270e1e047112c1",
+    "ae65efce20a1d998",
+    "9c3ac3c251dae145",
+    "3a95057399b61b7e",
+    "ef16d0db715b5789",
+    "97e131737ed74ba4",
+    "8c62fe12068eaf99",
+    "55e37101be84a544",
+    "ff8a357fc775ab00",
+    "eb89e39c90f4a1f1",
+    "e61cd364c5496355",
+    "5c4e66ca352eb2a1",
+    "b2f6788cded46a87",
+    "6231e2800bd44209",
+    "db4c4e931d0f1548",
+    "107ff0cfd09f2742",
+    "cee7a9c8a134eb54",
+    "159eb0ffc9252119",
+    "b99080c6f3e4b3a9",
+    "5c0ce6769756d9a2"
+   ]
+  },
+  {
+   "date": "2010-01-01",
+   "future": false,
+   "celex": "01983R0918-20100101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime CAPÍTULO I — FRANQUIA DE DIREITOS DE IMPORTAÇÃO",
+    "Suprime TÍTULO I — BENS PESSOAIS PERTENCENTES A PESSOAS SINGULARES QUE TRANSFEREM A SUA RESIDÊNCIA HABITUAL DE UM PAÍS TERCEIRO PARA A COMUNIDADE",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime TÍTULO II — BENS IMPORTADOS POR OCASIAO DE UM CASAMENTO",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime TÍTULO III — BENS PESSOAIS ADQUIRIDOS POR SUCESSÃO EM CASO DE MORTE",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime Artigo 19o",
+    "Suprime TÍTULO IV — RECHEIO PARA GUARNIÇÃO DE UMA RESIDÊNCIA SECUNDÁRIA",
+    "Suprime Artigo 20o",
+    "Suprime Artigo 21o",
+    "Suprime Artigo 22o",
+    "Suprime Artigo 23o",
+    "Suprime Artigo 24o",
+    "Suprime TÍTULO V — ENXOVAIS, MATERIAIS ESCOLARES E OUTRAS COISAS MÓVEIS DE ALUNOS OU ESTUDANTES",
+    "Suprime Artigo 25o",
+    "Suprime Artigo 26o",
+    "Suprime TÍTULO VI — REMESSAS DE VALOR INSIGNIFICANTE",
+    "Suprime Artigo 27o",
+    "Suprime Artigo 28o",
+    "Suprime TÍTULO VII — PEQUENAS REMESSAS SEM CARÁCTER COMERCIAL",
+    "Suprime Artigo 29o",
+    "Suprime Artigo 30o",
+    "Suprime Artigo 31o",
+    "Suprime TÍTULO VIII — BENS DE INVESTIMENTO E OUTROS BENS DE EQUIPAMENTO IMPORTADOS POR OCASIAO DE UMA TRANSFERÊNCIA DE ACTIVIDADES DE UM PAÍS TERCEIRO PARA A COMUNIDADE",
+    "Suprime Artigo 32o",
+    "Suprime Artigo 33o",
+    "Suprime Artigo 34o",
+    "Suprime Artigo 35o",
+    "Suprime Artigo 36o",
+    "Suprime Artigo 37o",
+    "Suprime Artigo 38o",
+    "Suprime TÍTULO IX — PRODUTOS OBTIDOS PELOS PRODUTORES AGRÍCOLAS COMUNITÁRIAS EM PROPRIEDADES SITUADAS NUM PAÍS TERCEIRO",
+    "Suprime Artigo 39o",
+    "Suprime Artigo 40o",
+    "Suprime Artigo 41o",
+    "Suprime Artigo 42o",
+    "Suprime TÍTULO X",
+    "Suprime Artigo 43o",
+    "Suprime Artigo 44o",
+    "Suprime TÍTULO XI — MERCADORIAS CONTIDAS NAS BAGAGENS PESSOAIS DOS VIAJANTES",
+    "Suprime Artigo 45o",
+    "Suprime Artigo 46o",
+    "Suprime Artigo 47o",
+    "Suprime Artigo 48o",
+    "Suprime Artigo 49o",
+    "Suprime TÍTULO XII — OBJECTOS DE CARACTER EDUCATIVO, CIENTÍFICO OU CULTURAL; INSTRUMENTOS E APARELHOS CIENTÍFICOS",
+    "Suprime Artigo 50o",
+    "Suprime Artigo 51o",
+    "Suprime Artigo 52o",
+    "Suprime Artigo 53o",
+    "Suprime Artigo 54o",
+    "Suprime Artigo 55o",
+    "Suprime Artigo 56o",
+    "Suprime Artigo 57o",
+    "Suprime Artigo 58o",
+    "Suprime Artigo 59o",
+    "Suprime TÍTULO XIII — ANIMAIS DE LABORATÓRIO E SUBSTÂNCIAS BIOLÓGICAS OU QUÍMICAS DESTINADAS À INVESTIGAÇÃO",
+    "Suprime Artigo 60o",
+    "Suprime TÍTULO XIV — SUBSTÂNCIAS TERAPÊUTICAS DE ORIGEM HUMANA E REAGENTES PARA A DETERMINAÇÃO DE GRUPOS SANGUÍNEOS E TISSULARES",
+    "Suprime Artigo 61o",
+    "Suprime Artigo 62o",
+    "Suprime Artigo 63o",
+    "Suprime TÍTULO XV — PRODUTOS FARMACÊUTICOS UTILIZADOS POR OCASIAO DE MANIFESTAÇÕES DESPORTIVAS INTERNACIONAIS",
+    "Suprime Artigo 64o",
+    "Suprime TÍTULO XVI — MERCADORIAS ENVIADAS A ORGANISMOS COM FINS CARITATIVOS E FILANTRÓPICOS; OBJECTOS DESTINADOS A CEGOS E A OUTRAS PESSOAS DEFICIENTES",
+    "Suprime Artigo 65o",
+    "Suprime Artigo 66o",
+    "Suprime Artigo 67o",
+    "Suprime Artigo 68o",
+    "Suprime Artigo 69o",
+    "Suprime Artigo 70o",
+    "Suprime Artigo 71o",
+    "Suprime Artigo 72o",
+    "Suprime Artigo 73o",
+    "Suprime Artigo 74o",
+    "Suprime Artigo 75o",
+    "Suprime Artigo 76o",
+    "Suprime Artigo 77o",
+    "Suprime Artigo 78o",
+    "Suprime Artigo 79o",
+    "Suprime Artigo 80o",
+    "Suprime Artigo 81o",
+    "Suprime Artigo 82o",
+    "Suprime Artigo 83o",
+    "Suprime Artigo 84o",
+    "Suprime Artigo 85o",
+    "Suprime TÍTULO XVII — CONDECORAÇÕES E RECOMPENSAS CONCEDIDAS A",
+    "Suprime TÍTULO HONORÍFICO — Artigo 86o",
+    "Suprime TÍTULO XVIII — PRESENTES RECEBIDOS NO ÀMBITO DAS RELAÇÕES INTERNACIONAIS",
+    "Suprime Artigo 87o",
+    "Suprime Artigo 88o",
+    "Suprime Artigo 89o",
+    "Suprime TÍTULO XIX — MERCADORIAS DESTINADAS A USO DE SOBERANOS E DE CHEFES DE ESTADO",
+    "Suprime Artigo 90o",
+    "Suprime TÍTULO XX — MERCADORIAS IMPORTADAS PARA FINS DE PROSPECÇÃO COMERCIAL",
+    "Suprime Artigo 91o",
+    "Suprime Artigo 92o",
+    "Suprime Artigo 93o",
+    "Suprime Artigo 94o",
+    "Suprime Artigo 95o",
+    "Suprime Artigo 96o",
+    "Suprime Artigo 97o",
+    "Suprime Artigo 98o",
+    "Suprime Artigo 99o",
+    "Suprime TÍTULO XXI — MERCADORIAS IMPORTADAS PARA EXAMES, ANÁLISES OU ENSAIOS",
+    "Suprime Artigo 100o",
+    "Suprime Artigo 101o",
+    "Suprime Artigo 102o",
+    "Suprime Artigo 103o",
+    "Suprime Artigo 104o",
+    "Suprime Artigo 105o",
+    "Suprime Artigo 106o",
+    "Suprime TÍTULO XXII — REMESSAS DESTINADAS AOS ORGANISMOS COMPETENTES EM MATÉRIA DE PROTECÇÃO DE DIREITOS DE AUTOR OU DE PROTECÇÃO DA PROPRIEDADE INDUSTRIAL OU COMERCIAL",
+    "Suprime Artigo 107o",
+    "Suprime TÍTULO XXIII — DOCUMENTAÇÃO DE CARÁCTER TURÍSTICO",
+    "Suprime Artigo 108o",
+    "Suprime TÍTULO XXIV — DOCUMENTOS E ARTIGOS DIVERSOS",
+    "Suprime Artigo 109o",
+    "Suprime TÍTULO XXV — MATERIAIS ACESSÓRIOS DE ESTIVA E DE PROTECÇÃO DAS MERCADORIAS DURANTE O SEU TRANSPORTE",
+    "Suprime Artigo 110o",
+    "Suprime TÍTULO XXVI — CAMAS DE PALHA, FORRAGENS E ALIMENTOS DESTINADOS A ANIMAIS DURANTE O SEU TRANSPORTE",
+    "Suprime Artigo 111o",
+    "Suprime TÍTULO XXVI — CARBURANTES E LUBRIFICANTES EXISTENTES EM VEÍCULOS TERRESTRES A MOTOR",
+    "Suprime Artigo 112o",
+    "Suprime Artigo 113o",
+    "Suprime Artigo 114o",
+    "Suprime Artigo 115o",
+    "Suprime Artigo 116o",
+    "Suprime TÍTULO XXVIII — MATERIAIS DESTINADOS À CONSTRUÇÃO, MANUTENÇÃO OU DECORAÇÃO DE MONUMENTOS COMEMORATIVOS OU DE CEMITÉRIOS DE VÍTIMAS DE GUERRA",
+    "Suprime Artigo 117o",
+    "Suprime TÍTULO XXIX — CAIXÕES, URNAS FUNERÁRIAS E ARTIGOS DE ORNAMENTAÇÃO FUNERÁRIA",
+    "Suprime Artigo 118o",
+    "Suprime CAPÍTULO II — FRANQUIA DE DIREITOS DE EXPORTAÇÃO",
+    "Suprime TÍTULO I — REMESSAS DE VALOR INSIGNIFICANTE",
+    "Suprime Artigo 119o",
+    "Suprime TÍTULO II — ANIMAIS DOMÉSTICOS EXPORTADOS POR OCASIAO DE UMA TRANSFERÊNCIA DE EXPLORAÇÃO AGRÍCOLA DA COMUNIDADE PARA UM PAÍS TERCEIRO",
+    "Suprime Artigo 120o",
+    "Suprime TÍTULO III — PRODUTOS OBTIDOS PELOS PRODUTORES AGRÍCOLAS EM PROPRIEDADES SITUADAS NA COMUNIDADE",
+    "Suprime Artigo 121o",
+    "Suprime Artigo 122o",
+    "Suprime Artigo 123o",
+    "Suprime TÍTULO IV — SEMENTES EXPORTADAS POR PRODUTORES AGRÍCOLAS PARA SEREM UTILIZADAS EM PROPRIEDADES SITUADAS EM PAÍSES TERCEIROS",
+    "Suprime Artigo 124o",
+    "Suprime Artigo 125o",
+    "Suprime TÍTULO V — FORRAGENS E ALIMENTOS QUE ACOMPANHEM OS ANIMAIS POR OCASIAO DA SUA EXPORTAÇÃO",
+    "Suprime Artigo 126o",
+    "Suprime CAPÍTULO III — DISPOSIÇÕES GERAIS E FINAIS",
+    "Suprime Artigo 127o",
+    "Suprime Artigo 128o",
+    "Suprime Artigo 129o",
+    "Suprime Artigo 130o",
+    "Suprime Artigo 131o",
+    "Suprime Artigo 132o",
+    "Suprime Artigo 133o",
+    "Suprime Artigo 134o",
+    "Suprime Artigo 135o",
+    "Suprime Artigo 136o",
+    "Suprime Artigo 137o",
+    "Suprime Artigo 138o",
+    "Suprime Artigo 139o",
+    "Suprime Artigo 140o",
+    "Suprime Artigo 141o",
+    "Suprime Artigo 142o",
+    "Suprime Artigo 143o",
+    "Suprime Artigo 144o",
+    "Suprime Artigo 145o",
+    "Suprime ANEXO I — A. Livros, publicações e documentos",
+    "Suprime ANEXO II — A. Material visual e auditivo de carácter educativo, científico ou cultural",
+    "Suprime ANEXO III",
+    "Suprime ANEXO IV"
+   ],
+   "fragments": [
+    "be8df0ab13ce1690"
+   ]
+  }
+ ],
+ "fragments": {
+  "2eb01c9d558cbcf6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 918/83 do Conselho, de 28 de Março de 1983, relativo ao estabelecimento do regime comunitário das franquias aduaneiras** *Jornal Oficial nº L 105 de 23/04/1983 p. 0001 - 0037 Edição especial finlandesa: Capítulo 2 Fascículo 3 p. 0146 Edição especial espanhola: Capítulo 02 Fascículo 9 p. 0276 Edição especial sueca: Capítulo 2 Fascículo 3 p. 0146 Edição especial portuguesa: Capítulo 02 Fascículo 9 p. 0276*\n\nREGULAMENTO (CEE) No 918/83 DO CONSELHO de 28 de Março de 1983 relativo ao estabelecimento do regime comunitário das franquias aduaneiras\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 28o, 43o e 235o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que, salvo derrogação especial estabelecida nos termos do disposto no Tratado, os direitos da pauta aduaneira comum são aplicáveis a todas as mercadorias importadas na Comunidade; que o mesmo acontece com os direitos niveladores agrícolas e com quaisquer outras imposições a cobrar na importação previstas no âmbito da política agrícola comum ou no dos regimes específicos aplicáveis a certos produtos resultantes da transformação de produtos agrícolas;\n\nConsiderando, no entanto, que uma tal tributação não se justifica quando, em certas circunstâncias bem definidas, as condições particulares de importação das mercadorias não exigem a aplicação das medidas habituais de protecção da economia;\n\nConsiderando que convém prever, como é tradicional na maior parte das legislações em matéria aduaneira, que em tais casos a importação se possa efectuar com o benefício de um regime de franquia que isente as mercadorias da aplicação dos direitos de importação de que seriam normalmente passíveis;\n\nConsiderando que tais regimes de franquia resultam igualmente de convenções internacionais de carácter multilateral em que os Estados-membros ou alguns de entre eles são partes contratantes; que, se a Comunidade deve aplicar estas convenções, tal aplicação implica a adopção de uma regulamentação comunitária das franquias aduaneiras, de modo a eliminar, de acordo com as exigências da união aduaneira, as divergências quanto ao objecto, alcance e condições de aplicação das franquias previstas por essas convenções e a permitir a todas as pessoas interessadas beneficiarem das mesmas vantagens em toda a Comunidade;\n\nConsiderando que certas franquias actualmente aplicadas nos Estados-membros resultam de convenções específicas concluídas com países terceiros ou com organizações internacionais; que estas convenções, em razão do seu objecto, só respeitam ao Estado-membro signatário; que não é necessário definir a nível comunitário as condições de concessão de tais franquias, sendo suficiente autorizar a sua concessão pelos Estados-membros em causa, quando necessário, por meio de um procedimento apropriado instituído para o efeito;\n\nConsiderando que a realização da política agrícola comum acarreta a aplicação a certas mercadorias, em determinadas circunstâncias, de direitos de exportação; que convém igualmente definir, a nível comunitário, os casos em que uma franquia desses direitos de exportação pode ser concedida;\n\nConsiderando que o Conselho adoptou já vários regulamentos no domínio as franquias aduaneiras; que, a fim de se estabelecer um regime comunitário de franquias aduaneiras, é conveniente reunir no presente regulamento as disposições desses regulamentos específicos e proceder consequentemente à sua revogação formal;\n\nConsiderando que, com a preocupação de clareza jurídica, convém enumerar as disposições dos actos comunitários que prevejam determinadas franquias que não são afectadas pelo presente regulamento;\n\nConsiderando que o presente regulamento não prejudica a aplicação pelos Estados-membros de proibições ou restrições à importação ou à exportação justificadas por razões de moralidade pública, de ordem pública, e segurança pública; de protecção da saúde e da vida das pessoas e animais ou de preservação das plantas; da protecção do património nacional de valor artístico, histórico ou arqueológico; ou da protecção da propriedade industrial e comercial;\n\nConsiderando que no caso de franquias concedidas dentro do limite dos montantes fixados em ECUs, é necessário definir as regras a seguir para efeito da conversão desses montantes em moedas nacionais;\n\nConsiderando que é necessário garantir a aplicação uniforme do presente regulamento e prever para esse efeito um procedimento comunitário que permita aprovar as modalidades de aplicação dentro de prazos apropriados; que é oportuno para este fim instituir um Comité que permita organizar uma colaboração estreita e eficaz entre os Estados-membros e a Comissão neste domínio, substituindo este Comité o Comité das Franquias Aduaneiras instituído pelo Regulamento (CEE) no 1798/75 do Conselho, de 10 de Julho de 1975, relativo à importação com franquia de direitos da pauta aduaneira comum dos objectos de carácter educativo, científico ou cultural (3),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "e6f1a48c092bac72": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. O presente regulamento determina os casos em que, devido a circunstâncias especiais, é concedida franquia de direitos de importação ou de direitos de exportação, respectivamente, quando as mercadorias são introduzidas em livre prática ou são exportadas da Comunidade.\n\n2. Para efeitos do presente regulamento entendem-se por:\n\na) «Direitos de importação», os direitos aduaneiros e encargos de efeito equivalente, bem como os direitos niveladores agrícolas e outras imposições a cobrar na importação, previstas no âmbito da política agrícola comum ou no dos regimes específicos aplicáveis a certas mercadorias resultantes da transformação de produtos agrícolas;\n\nb) «Direitos de exportação» os direitos niveladores agrícolas e outras imposições a cobrar na exportação, previstas no âmbito da política agrícola comum ou no dos regimes específicos aplicáveis a certas mercadorias resultantes da transformação de produtos agrícolas;\n\nc) «Bens pessoais», os bens afectos ao uso pessoal dos interessados ou às necessidades da sua casa.\n\nConstituem nomeadamente «bens pessoais»:\n\n- o recheio da casa,\n\n- os velocípedes e os motociclos, os veículos automóveis de uso privado e os seus reboques, as caravanas de campismo, os barcos de recreio e os aviões de turismo.\n\nConstituem igualmente «bens pessoais» as provisões de casa que correspondam a um abastecimento familiar normal, os animais domésticos e os animais de sela, assim como os instrumentos portáteis de artes mecânicas ou de profissões liberais necessários ao exercício da profissão do interessado. Os bens pessoais não devem traduzir, pela sua natureza ou quantidade, qualquer preocupação de ordem comercial;\n\nd) «Recheio da casa», os objectos pessoais, a roupa de casa e os móveis ou artigos de equipamento destinados ao uso pessoal dos interessados e às necessidades da sua casa;\n\ne) «Produtos alcoólicos», os produtos (cervejas, vinhos, aperitivos que tenham por base o vinho ou o álcool, aguardentes, licores ou bebidas espirituosas, etc.) incluídos nas posições 22.03 a 22.09 da pauta aduaneira comum.\n\n3. Salvo disposição em contrário do presente regulamento, para efeitos da aplicação do capítulo I a ilha de Helgoland é considerada como um país terceiro."
+  },
+  "07ca63495b946313": {
+   "fragment_id": "CAPÍTULO I — FRANQUIA DE DIREITOS DE IMPORTAÇÃO",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — FRANQUIA DE DIREITOS DE IMPORTAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — FRANQUIA DE DIREITOS DE IMPORTAÇÃO"
+  },
+  "a532e36284f1953b": {
+   "fragment_id": "TÍTULO I — BENS PESSOAIS PERTENCENTES A PESSOAS SINGULARES QUE TRANSFEREM A SUA RESIDÊNCIA HABITUAL DE UM PAÍS TERCEIRO PARA A COMUNIDADE",
+   "type": "divisao",
+   "heading": "TÍTULO I — BENS PESSOAIS PERTENCENTES A PESSOAS SINGULARES QUE TRANSFEREM A SUA RESIDÊNCIA HABITUAL DE UM PAÍS TERCEIRO PARA A COMUNIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — BENS PESSOAIS PERTENCENTES A PESSOAS SINGULARES QUE TRANSFEREM A SUA RESIDÊNCIA HABITUAL DE UM PAÍS TERCEIRO PARA A COMUNIDADE"
+  },
+  "4c2e4ea6f903b47c": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nSem prejuízo do disposto nos artigos 3o a 10o, são admitidos com franquia de direitos de importação os bens pessoais importados por pessoas singulares que transfiram a sua residência habitual para o território aduaneiro da Comunidade."
+  },
+  "1e448543bcccff74": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nA franquia limita-se aos bens pessoais:\n\na) Que, salvo casos especiais que as circunstâncias justifiquem, tenham estado na posse do interessado e, tratando-se de bens não consumíveis, tenham sido por ele utilizados na sua anterior residência habitual durante pelo menos seis meses antes da data em que deixou de ter essa residência no país terceiro de partida;\n\nb) Que se destinem a ser utilizados para os mesmos fins na sua nova residência habitual.\n\nOs Estados-membros podem, além disso, subordinar a admissão com franquia à condição de que os referidos bens tenham sido submetidos, quer no país de origem, quer no país de proveniência, aos encargos aduaneiros e/ou fiscais de que são normalmente passíveis."
+  },
+  "3c819499c9054cd7": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nSó podem beneficiar da franquia as pessoas que tenham a sua residência habitual fora da Comunidade há pelo menos doze meses consecutivos.\n\nNo entanto, as autoridades competentes podem conceder derrogações à regra do primeiro parágrafo, desde que a intenção do interessado tenha sido claramente a de residir fora da Comunidade durante um período mínimo de doze meses."
+  },
+  "f726232bca023df1": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nSão excluídos da franquia:\n\na) Os produtos alcoólicos;\n\nb) O tabaco e os produtos de tabaco;\n\nc) Os meios de transporte comerciais;\n\nd) Os materiais para uso profissional com excepção dos instrumentos portáteis de artes mecânicas ou de profissões liberais."
+  },
+  "2dac19b2e91e51ba": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nSalvo circunstâncias especiais, a franquia só é concedida para bens pessoais declarados para livre prática antes de findo um prazo de doze meses a contar da data do estabelecimento pelo interessado da sua residência habitual no território aduaneiro da Comunidade.\n\nA introdução em livre prática dos bens pessoais pode ser efectuada por várias vezes no prazo referido no parágrafo anterior."
+  },
+  "626b0709bec5fde2": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Num prazo de doze meses a contar da data da aceitação da declaração para livre prática, os bens pessoais importados com franquia não podem ser objecto de empréstimo, penhor, aluguer ou cessão, a título oneroso ou gratuito, sem que as autoridades competentes tenham sido previamente informadas.\n\n2. O empréstimo, o penhor, o aluguer ou a cessão realizados antes de decorrido o prazo referido no no 1 implicarão a aplicação dos direitos de importação relativos aos bens em causa, segundo a taxa em vigor na data do empréstimo, do penhor, do aluguer ou da cessão, consoante a sua natureza e tomando por base o valor aduaneiro reconhecidos ou aceites nessa data pelas autoridades competentes."
+  },
+  "7f3442f34d842004": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. Em derrogação do primeiro parágrafo do artigo 6o, a franquia pode ser concedida para os bens pessoais declarados para livre prática antes do interessado estabelecer a sua residência habitual no território aduaneiro da Comunidade, mediante compromisso por ele assumido de aí a estabelecer efectivamente no prazo de seis meses. Esse compromisso será acompanhado de uma garantia cuja forma e montante serão determinados pelas autoridades competentes.\n\n2. Quando se aplicar o disposto no no 1, o prazo previsto na alínea a) do artigo 3o será calculado a contar da data de introdução dos bens pessoais no território aduaneiro da Comunidade."
+  },
+  "47d8802ed739bae5": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. Quando, devido às suas obrigações profissionais, o interessado abandonar o país terceiro onde tinha a sua residência habitual sem estabelecer simultaneamente residência habitual no território aduaneiro da Comunidade, mas com a intenção de aí a fixar posteriormente, as autoridades competentes podem autorizar a admissão com franquia dos bens pessoais que ele transfira para esse efeito para o referido território.\n\n2. A admissão com franquia dos bens pessoais mencionados no no 1 será concedida nas condições previstas nos artigos 2o a 7o, ficando entendido que:\n\na) Os prazos previstos na alínea a) do artigo 3o e no primeiro parágrafo do artigo 6o serão calculados a contar da data de introdução dos bens pessoais no território aduaneiro da Comunidade;\n\nb) O prazo previsto no no 1 do artigo 7o será calculadó a contar da data do estabelecimento efectivo da residência habitual do interessado no território aduaneiro da Comunidade.\n\n3. A admissão com franquia está além disso subordinada ao compromisso do interessado estabelecer efectivamente a sua residência habitual no território aduaneiro da Comunidade num prazo determinado pelas autoridades competentes em função das circunstâncias. Essas autoridades podem exigir que este compromisso seja acompanhado de uma garantia cuja forma e montante serão por elas determinados."
+  },
+  "b8b7512502dd3c81": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nAs autoridades competentes podem derrogar o disposto nas alíneas a) e b) do artigo 3o, nas alíneas c) e d) do artigo 5o e no artigo 7o quando, devido a circunstâncias políticas excepcionais, uma pessoa tiver de transferir a sua residência habitual de um país terceiro para o território aduaneiro da Comunidade."
+  },
+  "eb06f76596639880": {
+   "fragment_id": "TÍTULO II — BENS IMPORTADOS POR OCASIAO DE UM CASAMENTO",
+   "type": "divisao",
+   "heading": "TÍTULO II — BENS IMPORTADOS POR OCASIAO DE UM CASAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — BENS IMPORTADOS POR OCASIAO DE UM CASAMENTO"
+  },
+  "fa50a7bf53133041": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. Sem prejuízo do disposto nos artigos 12o a 15o, são admitidos com franquia de direitos de importação, os enxovais e coisas móveis, mesmo novas, pertencentes a uma pessoa que transfira a sua residência habitual de um país terceiro para o território aduaneiro da Comunidade por ocasião do seu casamento.\n\n2. Beneficiarão igualmente da franquia de direitos de importação, nas mesmas condições, os presentes habitualmente oferecidos por ocasião de um casamento, enviados para uma pessoa que se encontre nas condições previstas no no 1 por pessoas que tenham sua residência habitual num país terceiro. O valor de cada presente a admitir com franquia não pode, no entanto, exceder 1 000 ECUs."
+  },
+  "f1274fed3491a990": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nSó podem beneficiar da franquia referida no artigo 11o as pessoas:\n\na) Que tenham a sua residência habitual fora do território aduaneiro da Comunidade há pelo menos doze meses consecutivos. No entanto, podem ser concedidas derrogações a esta regra desde que a intenção do interessado tenha sido claramente a de residir fora do território aduaneiro da Comunidade durante um período mínimo de doze meses;\n\nb) Que façam prova do seu casamento."
+  },
+  "8783135aa383eda1": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nEstão excluídos da franquia os produtos alcoólicos e os produtos de tabaco."
+  },
+  "dc18c8b8d233521c": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\n1. Salvo circunstâncias excepcionais, a franquia só é concedida para mercadorias declaradas para livre prática:\n\n- não mais de dois meses antes da data prevista para o casamento. Neste caso a franquia ficará sujeita à prestação de uma garantia apropriada, cuja forma e montante serão determinados pelas autoridades competentes,\n\ne\n\n- o mais tarder quatro meses após a data do casamento.\n\n2. A introdução em livre prática dos bens mencionados no artigo 11o pode efectuar-se por várias vezes no prazo referido no no 1 do presente artigo."
+  },
+  "48e5fbcd9e33988f": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\n1. Num prazo de doze meses a contar da data da aceitação da declaração para livre prática, as mercadorias admitidas com franquia nos termos do artigo 11o não poderão ser objecto de empréstimo, penhor, aluguer ou cessão, a título oneroso ou gratuito, sem que as autoridades competentes tenham sido previamente informadas.\n\n2. O empréstimo, o penhor, o aluguer ou a cessão realizados antes de decorrido o prazo referido no no 1, implicarão a aplicação dos direitos de importação relativos às mercadorias em causa, segundo a taxa em vigor na data do empréstimo, do penhor, do aluguer ou da cessão, consoante a sua natureza e tomando por base o valor aduaneiro reconhecidos ou aceites nessa data pelas autoridades competentes."
+  },
+  "e9b485002148a526": {
+   "fragment_id": "TÍTULO III — BENS PESSOAIS ADQUIRIDOS POR SUCESSÃO EM CASO DE MORTE",
+   "type": "divisao",
+   "heading": "TÍTULO III — BENS PESSOAIS ADQUIRIDOS POR SUCESSÃO EM CASO DE MORTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — BENS PESSOAIS ADQUIRIDOS POR SUCESSÃO EM CASO DE MORTE"
+  },
+  "0c204517f6a8e667": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\n1. Sem prejuízo do disposto nos artigos 17o a 19o, são admitidos com franquia de direitos de importação os bens pessoais adquiridos, quer por sucessão legal, quer por sucessão testamentária, por uma pessoa singular que tenha a sua residência habitual no território aduaneiro da Comunidade.\n\n2. Para efeitos do no 1, entende-se por «bens pessoais» todos os bens referidos no no 2, alínea c), do artigo 1o que integram a herança do falecido."
+  },
+  "10aad37b56205d98": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\nEstão excluídos da franquia:\n\na) Os produtos alcoólicos;\n\nb) O tabaco ou os produtos de tabaco;\n\nc) Os meios de transporte comerciais;\n\nd) Os materiais para uso profissional, com excepção dos instrumentos portáteis de artes mecânicas ou de profissões liberais necessários para o exercício da profissão do falecido;\n\ne) As provisões de matérias-primas e de produtos manufacturados ou semi-manufacturados;\n\nf) O gado vivo e as provisões de produtos agrícolas que excedam as quantidades correspondentes a um abastecimento familiar normal."
+  },
+  "be35968ca14ddd74": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\n1. A franquia só será concedida para os bens pessoais declarados para livre prática o mais tardar num prazo de dois anos a contar da data de entrada na posse dos bens (encerramento da sucessão).\n\nNo entanto, devido a circunstâncias especiais, pode ser concedida uma prorrogação deste prazo pelas autoridades competentes.\n\n2. A importação dos bens pessoais pode efectuar-se por várias vezes dentro do prazo referido no no 1."
+  },
+  "03093fbbb0bf0503": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\nO disposto nos artigos 16o a 18o aplica-se «mutatis mutandis» aos bens pessoais adquiridos por sucessão testamentária por pessoas colectivas estabelecidas no território aduaneiro da Comunidade que exerçam uma actividade sem fins lucrativos."
+  },
+  "2e034366e5229ca0": {
+   "fragment_id": "TÍTULO IV — RECHEIO PARA GUARNIÇÃO DE UMA RESIDÊNCIA SECUNDÁRIA",
+   "type": "divisao",
+   "heading": "TÍTULO IV — RECHEIO PARA GUARNIÇÃO DE UMA RESIDÊNCIA SECUNDÁRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — RECHEIO PARA GUARNIÇÃO DE UMA RESIDÊNCIA SECUNDÁRIA"
+  },
+  "821ad91580ce097f": {
+   "fragment_id": "Artigo 20o",
+   "type": "artigo",
+   "heading": "Artigo 20o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o\n\nSem prejuízo do disposto nos artigos 21o a 24o, é admitido com franquia de direitos de importação o recheio importado por uma pessoa singular que tenha a sua residência habitual fora da Comunidade com vista a guarnecer uma residência secundária situada no território aduaneiro da Comunidade."
+  },
+  "48b9006e9839bb0f": {
+   "fragment_id": "Artigo 21o",
+   "type": "artigo",
+   "heading": "Artigo 21o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21o\n\nA franquia limita-se ao recheio:\n\na) Que, salvo casos especiais que as circunstâncias justifiquem, tenha estado na posse do interessado e tenha sido por ele utilizados durante pelo menos 6 meses antes da data da exportação do recheio em causa;\n\nb) Que corresponda em qualidade e em quantidade ao mobiliário normal da referida residência secundária."
+  },
+  "51252b8937ccbe75": {
+   "fragment_id": "Artigo 22o",
+   "type": "artigo",
+   "heading": "Artigo 22o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22o\n\nA franquia só é concedida às pessoas:\n\na) Que tenham a sua residência habitual fora da Comunidade há pelo menos doze meses consecutivos;\n\nb) Que sejam proprietárias da residência secundária em causa ou a tenham tomado de arrendamento por um periodo mínimo de dois anos,\n\ne\n\nc) Que se comprometam a não arrendar essa residência secundária a terceiros durante a sua ausência ou da sua família.\n\nA franquia pode ser limitada a uma única vez para uma mesma residência secundária."
+  },
+  "ade8f92e5fd9e00f": {
+   "fragment_id": "Artigo 23o",
+   "type": "artigo",
+   "heading": "Artigo 23o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23o\n\nA concessão da franquia pode ser subordinada à constituição de uma garantia para assegurar o pagamento da dívida aduaneira susceptível de nascer da aplicação do artigo 24o."
+  },
+  "217210b23ab4dd29": {
+   "fragment_id": "Artigo 24o",
+   "type": "artigo",
+   "heading": "Artigo 24o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24o\n\n1. O arrendamento da residência secundária a um terceiro ou a sua cessão antes de decorrido um prazo de dois anos a contar da data da aceitação da declaração do recheio para livre prática implicará a aplicação dos direitos de importação relativos ao recheio em causa, segundo a taxa em vigor na data do arrendamento ou da cessão, consoante a sua natureza e tomando por base o valor aduaneiro reconhecidos ou aceites nessa data pelas autoridades competentes.\n\nA franquia continuará, no entanto, a aplicar-se se o recheio em causa for utilizado para guarnecer uma nova residência secundária, desde que seja observado o disposto nas alíneas b) e c) do artigo 22o.\n\n2. O empréstimo, o penhor, o aluguer ou a cessão a título oneroso ou gratuito do próprio recheio antes de decorrido um prazo de dois anos a contar da data da aceitação da sua declaração para livre prática implicarão igualmente a aplicação dos respectivos direitos nas mesmas condições que as referidas no primeiro parágrafo do no 1.\n\nEste prazo pode ser prorrogado até dez anos relativamente a recheio de grande valor."
+  },
+  "387e4b3b62eee01b": {
+   "fragment_id": "TÍTULO V — ENXOVAIS, MATERIAIS ESCOLARES E OUTRAS COISAS MÓVEIS DE ALUNOS OU ESTUDANTES",
+   "type": "divisao",
+   "heading": "TÍTULO V — ENXOVAIS, MATERIAIS ESCOLARES E OUTRAS COISAS MÓVEIS DE ALUNOS OU ESTUDANTES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V — ENXOVAIS, MATERIAIS ESCOLARES E OUTRAS COISAS MÓVEIS DE ALUNOS OU ESTUDANTES"
+  },
+  "fb4b9abec18be375": {
+   "fragment_id": "Artigo 25o",
+   "type": "artigo",
+   "heading": "Artigo 25o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25o\n\n1. São admitidos com franquia de direitos de importação, os enxovais, os materiais escolares e coisas móveis usadas que constituam o mobiliário normal de um quarto de estudante, pertencentes a alunos e estudantes que venham residir no território aduaneiro da Comunidade a fim de aí efectuarem os seus estudos e que se destinem a seu uso pessoal durante os seus estudos.\n\n2. Para efeitos do no 1 entende-se por:\n\na) «Aluno ou estudante» qualquer pessoa regularmente inscrita num estabelecimento de ensino para aí seguir a tempo inteiro os cursos nele ministrados;\n\nb) «Enxoval», a roupa interior ou de casa, assim como o vestuário, mesmo novos;\n\nc) «Materiais escolares», os objectos e instrumentos (incluíndo as máquinas de calcular e de escrever) normalmente utilizados pelos alunos e estudantes na realização dos seus estudos."
+  },
+  "f8cd4bfbf5b0d457": {
+   "fragment_id": "Artigo 26o",
+   "type": "artigo",
+   "heading": "Artigo 26o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26o\n\nA franquia é concedida pelo menos uma vez por ano escolar."
+  },
+  "bf0bd9eff5299040": {
+   "fragment_id": "TÍTULO VI — REMESSAS DE VALOR INSIGNIFICANTE",
+   "type": "divisao",
+   "heading": "TÍTULO VI — REMESSAS DE VALOR INSIGNIFICANTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VI — REMESSAS DE VALOR INSIGNIFICANTE"
+  },
+  "2cf23dc8ea8eaf0d": {
+   "fragment_id": "Artigo 27o",
+   "type": "artigo",
+   "heading": "Artigo 27o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27o\n\nSem prejuízo do disposto no artigo 28o, são admitidas com franquia de direitos de importação as remessas enviadas ao destinatário como objectos de correspondência postal ou como encomenda postal que contenham mercadorias cujo valor global não exceda 10 ECUs."
+  },
+  "ce8dbf9faf7a9257": {
+   "fragment_id": "Artigo 28o",
+   "type": "artigo",
+   "heading": "Artigo 28o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28o\n\nEstão excluídos da franquia:\n\na) Os produtos alcoólicos;\n\nb) Os perfumes e águas de toucador;\n\nc) O tabaco e os produtos de tabaco."
+  },
+  "ad2da9e7ad0e80e2": {
+   "fragment_id": "TÍTULO VII — PEQUENAS REMESSAS SEM CARÁCTER COMERCIAL",
+   "type": "divisao",
+   "heading": "TÍTULO VII — PEQUENAS REMESSAS SEM CARÁCTER COMERCIAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VII — PEQUENAS REMESSAS SEM CARÁCTER COMERCIAL"
+  },
+  "b231ccaa93ee514f": {
+   "fragment_id": "Artigo 29o",
+   "type": "artigo",
+   "heading": "Artigo 29o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29o\n\n1. Sem prejuízo do disposto nos artigos 30o e 31o, são admitidas com franquia de direitos de importação as mercadorias que sejam objecto de pequenas remessas sem carácter comercial expedidas de um país terceiro por um particular para um outro particular que se encontra no território aduaneiro da Comunidade.\n\nA franquia prevista no presente número não se aplica às pequenas remessas sem carácter comercial provenientes da ilha de Helgoland.\n\n2. Para efeitos do no 1, entende-se por «pequenas remessas sem carácter comercial» as remessas que simultaneamente:\n\n- tenham um carácter ocasional;\n\n- contenham exclusivamente mercadorias reservadas ao uso pessoal ou familiar dos destinatários, não traduzindo a sua natureza ou quantidade qualquer preocupação de ordem comercial;\n\n- sejam constituídas por mercadorias cujo valor global, incluindo o dos produtos referidos no artigo 30o, não ultrapasse 35 ECUs;\n\n- sejam enviadas, sem qualquer espécie de pagamento, pelo expedidor ao destinatário."
+  },
+  "baba39a284fe6cac": {
+   "fragment_id": "Artigo 30o",
+   "type": "artigo",
+   "heading": "Artigo 30o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30o\n\nRelativamente às mercadorias a seguir mencionadas, a franquia referida no no 1 do artigo 29o limita-se, por remessa, às quantidades fixadas em relação à cada uma delas:\n\na) Produtos de tabaco:\n\n50 cigarros\n\nou\n\n25 cigarrilhas (charutos com o peso máximo de 3 gramas por unidade)\n\nou\n\n10 charutos\n\nou 50 gramas de tabaco para fumar;\n\nb) Bebidas alcoólicas:\n\n- bebidas destiladas e bebidas espirituosas com teor alcoólico superior a 22 % vol: 1 litro. (Os Estados-membros podem exigir que esta quantidade se apresente contida numa única garrafa)\n\nou\n\n- bebidas destiladas e bebidas espirituosas, aperitivos que tenham por base vinho ou álcool, com teor alcoólico igual ou inferior a 22 % vol: vinhos espumantes e espumosos, vinhos licorosos: 1 litro\n\nou\n\n- vinhos tranquilos: 2 litros\n\nc) Perfumes: 50 gramas\n\nou\n\náguas de toucador: 0,25 litro."
+  },
+  "69ce494dfe8c7565": {
+   "fragment_id": "Artigo 31o",
+   "type": "artigo",
+   "heading": "Artigo 31o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31o\n\nAs mercadorias mencionadas no artigo 30o contidas numa pequena remessa sem carácter comercial em quantidades que excedam as fixadas no referido artigo serão excluídas, na totalidade, do benefício da franquia."
+  },
+  "9568f73974819057": {
+   "fragment_id": "TÍTULO VIII — BENS DE INVESTIMENTO E OUTROS BENS DE EQUIPAMENTO IMPORTADOS POR OCASIAO DE UMA TRANSFERÊNCIA DE ACTIVIDADES DE UM PAÍS TERCEIRO PARA A COMUNIDADE",
+   "type": "divisao",
+   "heading": "TÍTULO VIII — BENS DE INVESTIMENTO E OUTROS BENS DE EQUIPAMENTO IMPORTADOS POR OCASIAO DE UMA TRANSFERÊNCIA DE ACTIVIDADES DE UM PAÍS TERCEIRO PARA A COMUNIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VIII — BENS DE INVESTIMENTO E OUTROS BENS DE EQUIPAMENTO IMPORTADOS POR OCASIAO DE UMA TRANSFERÊNCIA DE ACTIVIDADES DE UM PAÍS TERCEIRO PARA A COMUNIDADE"
+  },
+  "40d431355e6166b7": {
+   "fragment_id": "Artigo 32o",
+   "type": "artigo",
+   "heading": "Artigo 32o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32o\n\n1. Sem prejuízo das medidas em vigor nos Estados-membros em matéria de política industrial e comercial, são admitidos com franquia de direitos, nos termos do disposto nos artigos 33o a 37o, os bens de investimento e outros bens de equipamento pertencentes a empresas que cessem definitivamente a sua actividade num país terceiro para virem exercer uma actividade similar no território aduaneiro da Comunidade.\n\nQuando a empresa transferida é uma exploração agrícola, o gado vivo será igualmente admitido com franquia.\n\n2. Para efeitos do no 1 entende-se por «empresa», uma unidade económica autónoma de produção ou de serviços."
+  },
+  "834735f20fef13ea": {
+   "fragment_id": "Artigo 33o",
+   "type": "artigo",
+   "heading": "Artigo 33o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33o\n\nA franquia referida no artigo 32o limita-se aos bens de investimento e outros bens de equipamento:\n\na) Que, salvo casos especiais justificados pelas circunstâncias, tenham sido efectivamente utilizados na empresa durante pelo menos 12 meses antes da data da cessação da actividade da empresa no país terceiro de onde é transferida;\n\nb) Que sejam destinados a ser utilizados para os mesmos fins após essa transferência;\n\nc) Que estejam em relação com a natureza e a importância da empresa em causa."
+  },
+  "3647b1deb900d945": {
+   "fragment_id": "Artigo 34o",
+   "type": "artigo",
+   "heading": "Artigo 34o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34o\n\nEstão excluídas do benefício da franquia as empresas cuja transferência para o território aduaneiro da Comunidade tenha por motivo ou por finalidade uma fusão com - ou uma absorção por - uma empresa estabelecida no território aduaneiro da Comunidade, sem que tenha sido criada uma actividade nova."
+  },
+  "7519e8e1d7c08fed": {
+   "fragment_id": "Artigo 35o",
+   "type": "artigo",
+   "heading": "Artigo 35o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35o\n\nEstão excluídos da franquia:\n\na) Os meios de transporte que não tenham o carácter de instrumentos de produção ou de serviços;\n\nb) As provisões de qualquer tipo destinadas a consumo humano ou à alimentação de animais;\n\nc) Os combustíveis e as provisões de matérias-primas ou de produtos manufacturados ou semi-manufacturados;\n\nd) O gado em poder de comerciantes de gado."
+  },
+  "da6b5a34d54ab72a": {
+   "fragment_id": "Artigo 36o",
+   "type": "artigo",
+   "heading": "Artigo 36o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36o\n\nSalvo casos especiais que as circunstâncias justifiquem, a franquia referida no artigo 32o, só é concedida para bens de investimento e outros bens de equipamento declarados para livre prática antes de decorrido um prazo de doze meses a contar da data da cessação da actividade da empresa no país terceiro de proveniência."
+  },
+  "1b6cffd7ab07f1e7": {
+   "fragment_id": "Artigo 37o",
+   "type": "artigo",
+   "heading": "Artigo 37o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37o\n\n1. Num prazo de doze meses a contar da data da aceitação da declaração para livre prática, os bens de investimento e outros bens de equipamento admitidos com franquia não podem ser objecto de empréstimo, penhor, aluguer ou cessão, a título oneroso ou gratuito, sem que as autoridades competentes tenham sido previamente informadas.\n\nEste prazo pode ser prorrogado até trinta e seis meses relativamente ao aluguer ou à cessão quando houver risco de abuso.\n\nO empréstimo, penhor, aluguer ou cessão realizados antes de decorrido o prazo referido no no 1 implicarão a aplicação dos direitos de importação relativos aos bens em causa, segundo as taxas em vigor na data do empréstimo, do penhor, do aluguer ou da cessão, consoante a sua natureza e tomando por base o valor aduaneiro reconhecidos ou aceites nessa data pelas autoridades competentes."
+  },
+  "65ee588a7c653c48": {
+   "fragment_id": "Artigo 38o",
+   "type": "artigo",
+   "heading": "Artigo 38o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38o\n\nO disposto nos artigos 32o a 37o aplica-se \"mutatis mutandis\" aos bens de investimento e outros bens de equipamento pertencentes a pessoas que exerçam uma profissão liberal, bem como às pessoas colectivas que exerçam uma actividade sem fins lucrativos, que transfiram essa actividade de um país terceiro para o território aduaneiro da Comunidade."
+  },
+  "700abbfa77fd8f7f": {
+   "fragment_id": "TÍTULO IX — PRODUTOS OBTIDOS PELOS PRODUTORES AGRÍCOLAS COMUNITÁRIAS EM PROPRIEDADES SITUADAS NUM PAÍS TERCEIRO",
+   "type": "divisao",
+   "heading": "TÍTULO IX — PRODUTOS OBTIDOS PELOS PRODUTORES AGRÍCOLAS COMUNITÁRIAS EM PROPRIEDADES SITUADAS NUM PAÍS TERCEIRO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IX — PRODUTOS OBTIDOS PELOS PRODUTORES AGRÍCOLAS COMUNITÁRIAS EM PROPRIEDADES SITUADAS NUM PAÍS TERCEIRO"
+  },
+  "223f5a4c5a397a24": {
+   "fragment_id": "Artigo 39o",
+   "type": "artigo",
+   "heading": "Artigo 39o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39o\n\n1. Sem prejuízo do disposto nos artigos 40o e 41o, são admitidos com franquia de direitos de importação, os produtos da agricultura, da criação de animais, da apicultura, da horticultura ou da silvicultura, provenientes de propriedades situadas num país terceiro na proximidade imediata do território aduaneiro da Comunidade e exploradas por produtores agrícolas cuja sede de exploração esteja situada no referido território aduaneiro, na proximidade imediata do país terceiro em causa.\n\n2. Para beneficiarem do disposto no no 1, os produtos da criação de animais deverão provir de animais originários de Comunidade ou que nela tenham sido introduzidos em livre prática."
+  },
+  "20bb13badc0b3c94": {
+   "fragment_id": "Artigo 40o",
+   "type": "artigo",
+   "heading": "Artigo 40o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40o\n\nA franquia limita-se aos produtos que não tenham sido submetidos a qualquer tratamento diferente daquele a que se procede habitualmente após a colheita ou a produção."
+  },
+  "76e59c4d5cc57f7c": {
+   "fragment_id": "Artigo 41o",
+   "type": "artigo",
+   "heading": "Artigo 41o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41o\n\nA franquia só é concedida para os produtos introduzidos no território aduaneiro da Comunidade pelo produtor agrícola ou por sua conta."
+  },
+  "f36c6e93218e6c8f": {
+   "fragment_id": "Artigo 42o",
+   "type": "artigo",
+   "heading": "Artigo 42o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42o\n\nO disposto nos artigos 39o a 41o aplica-se «mutatis mutandis» aos produtos da pesca e da piscicultura praticadas em lagos e cursos de água limítrofes de um Estado-membro e de um país terceiro pelos pescadores comunitários e aos produtos da caça praticada pelos caçadores comunitários nesses lagos e cursos de água."
+  },
+  "b80b0a5cb67b8b3f": {
+   "fragment_id": "TÍTULO X",
+   "type": "divisao",
+   "heading": "TÍTULO X",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO X\n\nSEMENTES, ADUBOS E PRODUTOS PARA O TRATAMENTO DO SOLO E DE VEGETAIS IMPORTADOS POR PRODUTORES AGRÍCOLAS DE PAÍSES TERCEIROS PARA SEREM UTILIZADOS EM PROPRIEDADES LIMÍTROFES DESSES PAÍSES"
+  },
+  "b9bb918ca0152d3b": {
+   "fragment_id": "Artigo 43o",
+   "type": "artigo",
+   "heading": "Artigo 43o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43o\n\nSem prejuízo do disposto no artigo 44o, são admitidos com franquia de direitos de importação as sementes, os adubos e os produtos para o tratamento do solo e de vegetais destinados à exploração de propriedades situadas no território aduaneiro da Comunidade contíguas a um país terceiro e exploradas por produtores agrícolas cuja sede de exploração se encontra no referido país terceiro na proximidade imediata do território aduaneiro da Comunidade."
+  },
+  "925f8dd4da7d2e09": {
+   "fragment_id": "Artigo 44o",
+   "type": "artigo",
+   "heading": "Artigo 44o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44o\n\n1. A franquia limita-se às quantidades de sementes, de adubos ou de outros produtos necessários à exploração das propriedades.\n\n2. A franquia só é concedida para sementes, adubos ou outros produtos directamente introduzidos no território aduaneiro da Comunidade pelo produtor agrícola ou por sua conta.\n\n3. Os Estados-membros podem subordinar a concessão da franquia à condição de reciprocidade."
+  },
+  "21ab5e812fd7d009": {
+   "fragment_id": "TÍTULO XI — MERCADORIAS CONTIDAS NAS BAGAGENS PESSOAIS DOS VIAJANTES",
+   "type": "divisao",
+   "heading": "TÍTULO XI — MERCADORIAS CONTIDAS NAS BAGAGENS PESSOAIS DOS VIAJANTES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO XI — MERCADORIAS CONTIDAS NAS BAGAGENS PESSOAIS DOS VIAJANTES"
+  },
+  "f1b11e5a5e1f7ff2": {
+   "fragment_id": "Artigo 45o",
+   "type": "artigo",
+   "heading": "Artigo 45o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45o\n\n1. Sem prejuízo do disposto nos artigos 46o a 49o, são admitidas com franquia de direitos de importação as mercadorias contidas nas bagagens pessoais dos viajantes provenientes de um país terceiro, desde que se trate de importações desprovidas de qualquer carácter comercial.\n\n2. Para efeitos do no 1, entendem-se por:\n\na) «Bagagens pessoais» o conjunto de bagagens que o viajante está em condições de apresentar aos serviços aduaneiros por ocasião da sua chegada à Comunidade, assim como as que apresente posteriormente a esses mesmos serviços, sob reserva de justificar que foram registadas como bagagens acompanhadas, no momento da sua partida, na companhia que as transportou do país terceiro de proveniência para a Comunidade.\n\nSem prejuízo do disposto no no 1, alínea b), do artigo 112o, não constituem bagagens pessoais os reservatórios portáteis contendo carburantes.\n\nb) «Importações desprovidas de qualquer carácter comercial», as importações:\n\n- que apresentem um carácter ocasional e\n\n- que respeitem exclusivamente a mercadorias reservadas ao uso pessoal ou familiar dos viajantes, ou destinadas a serem oferecidas como presente, não devendo a sua natureza ou quantidade traduzir qualquer preocupação de ordem comercial."
+  },
+  "8c7575f3e5ad8bc7": {
+   "fragment_id": "Artigo 46o",
+   "type": "artigo",
+   "heading": "Artigo 46o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46o\n\n1. Relativamente às mercadorias abaixo mencionadas, a franquia referida no no 1 do artigo 45o, limita-se por viajante, às quantidades fixadas em relação a cada uma delas:\n\na) Produtos de tabaco:\n\n200 cigarros\n\nou 100 cigarrilhas (charutos com o peso máximo de 3 gramas por unidade)\n\nou 50 charutos\n\nou 250 gramas de tabaco para fumar;\n\nTodavia, para viajantes que não residam na Europa estas quantidades limite são elevadas para:\n\n400 cigarros\n\nou 200 cigarrilhas (charutos com o peso máximo de 3 gramas por unidade)\n\nou 100 charutos\n\nou 500 gramas de tabaco para fumar;\n\nb) Bebidas alcoólicas:\n\n- bebidas destilades e bebidas espirituosas com um teor alcoólico superior a 22 % vol: 1 litro. (Os Estados-membros podem exigir que esta quantidade se apresente contida numa única garrafa),\n\nou\n\n- bebidas destiladas e bebidas espirituosas, aperitivos que tenham por base vinho ou álcool, com um teor alcoólico igual ou inferior a 22 % vol.; vinhos espumantes e espumosos, vinhos licorosos: 2 litros,\n\ne\n\nvinhos tranquilos: 2 litros;\n\nc) Perfumes: 50 gramas\n\ne águas de toucador: 0,25 litro.\n\n2. Os viajantes menores de 17 anos não beneficiam de qualquer franquia relativamente às mercadorias referidas nas alíneas a) e b) do no 1."
+  },
+  "92cf1124c0e9bc96": {
+   "fragment_id": "Artigo 47o",
+   "type": "artigo",
+   "heading": "Artigo 47o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47o\n\nCom excepção das mercadorias enumeradas no artigo 46o, a franquia referida no artigo 45o é concedida, por viajante, até ao valor global de 45 ECUs.\n\nNo entanto, os Estados-membros podem reduzir este montante a 23 ECUs relativamente aos viajantes menores de 15 anos."
+  },
+  "beb3e9183c39163b": {
+   "fragment_id": "Artigo 48o",
+   "type": "artigo",
+   "heading": "Artigo 48o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48o\n\nQuando o valor global de várias mercadorias exceder, por viajante, os montantes referidos no artigo 47o, a franquia é concedida até ao limite desses montantes para aquelas mercadorias que, importadas separadamente, poderiam beneficiar da referida franquia, não podendo o valor de uma mercadoria ser fraccionado."
+  },
+  "429ae65ed825d7c1": {
+   "fragment_id": "Artigo 49o",
+   "type": "artigo",
+   "heading": "Artigo 49o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49o\n\n1. Os Estados-membros podem reduzir o valor e/ou as quantidades de mercadorias a importar com franquia quando importadas por:\n\n- pessoas que tenham a sua residência na zona fronteiriça,\n\n- trabalhadores fronteiriços,\n\n- pessoal dos meios de transporte utilizados no tráfego entre países terceiros e a Comunidade.\n\nEstas restrições não serão aplicáveis quando as pessoas que tenham a sua residência na zona fronteiriça façam prova de que não regressam da zona fronteiriça de país terceiro limítrofe. Continuarão, porém, a aplicar-se aos trabalhadores fronteiriços e ao pessoal dos meios de transporte utilizados no tráfego entre o país terceiro e a Comunidade quando importarem mercadorias por ocasião de uma deslocação efectuada no âmbito da sua actividade profissional.\n\n2. Para efeitos da aplicação do no 1 entendem-se por:\n\n- «zona fronteiriça»: sem prejuízo das convenções sobre a matéria, uma zona que não pode exceder 15 quilómetros de profundidade em linha recta calculada a contar da fronteira. Devem ser consideradas como fazendo parte desta zona as circunscrições administrativas locais cujo território se encontre em parte nelas compreendido;\n\n- «trabalhador fronteiriço» a pessoa cujas actividades normais a obrigam a deslocar-se ao outro lado da fronteira nos seus dias de trabalho."
+  },
+  "725814f84ba95b1e": {
+   "fragment_id": "TÍTULO XII — OBJECTOS DE CARACTER EDUCATIVO, CIENTÍFICO OU CULTURAL; INSTRUMENTOS E APARELHOS CIENTÍFICOS",
+   "type": "divisao",
+   "heading": "TÍTULO XII — OBJECTOS DE CARACTER EDUCATIVO, CIENTÍFICO OU CULTURAL; INSTRUMENTOS E APARELHOS CIENTÍFICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO XII — OBJECTOS DE CARACTER EDUCATIVO, CIENTÍFICO OU CULTURAL; INSTRUMENTOS E APARELHOS CIENTÍFICOS"
+  },
+  "15c559789dcdda60": {
+   "fragment_id": "Artigo 50o",
+   "type": "artigo",
+   "heading": "Artigo 50o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50o\n\nSão admitidos com franquia de direitos de importação os objectos de carácter educativo, científico ou cultural referidos no Anexo I, qualquer que seja o seu destinatário e o uso que deles seja feito."
+  },
+  "b4d471c9f3353e15": {
+   "fragment_id": "Artigo 51o",
+   "type": "artigo",
+   "heading": "Artigo 51o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51o\n\nSão admitidos com franquia de direitos de importação os objectos de carácter educativo, científico ou cultural referidos no Anexo II, quando se destinarem:\n\n- quer a estabelecimentos ou organismos públicos ou de utilidade pública de carácter educativo, científico ou cultural,\n\n- quer a estabelecimentos ou organismos incluídos nas categorias designadas relativamente a cada objecto na coluna 3 do referido anexo, desde que tenham sido aprovados pelas autoridades competentes dos Estados-membros para receber estes objectos com franquia."
+  },
+  "a9c5b05d29543183": {
+   "fragment_id": "Artigo 52o",
+   "type": "artigo",
+   "heading": "Artigo 52o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52o\n\n1. Sem prejuízo do disposto nos artigos 53o a 58o, são admitidos com franquia de direitos de importação os instrumentos e aparelhos científicos não abrangidos pelo artigo 51o quando importados exclusivamente para fins não comerciais.\n\n2. A franquia mencionada no no 1 limita-se aos instrumentos e aparelhos científicos:\n\na) Que se destinem:\n\n- quer a estabelecimentos públicos ou de utilidade pública que tenham como actividade principal o ensino ou a investigação científica, assim como aos serviços dependentes de um estabelecimento público ou de utilidade pública e que tenham como actividade principal o ensino ou a investigação científica,\n\n- quer a estabelecimentos de carácter privado que tenham como actividade principal o ensino ou a investigação científica, aprovados pelas autoridades competentes dos Estados-membros para receber estes objectos com franquia, e\n\nb) Desde que instrumentos ou aparelhos de valor científico equivalente não sejam fabricados na Comunidade."
+  },
+  "793fcb86d1c494bb": {
+   "fragment_id": "Artigo 53o",
+   "type": "artigo",
+   "heading": "Artigo 53o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53o\n\nA franquia aplica-se igualmente:\n\na) Às peças sobresselentes, elementos ou acessórios específicos que se adaptem aos instrumentos ou aparelhos científicos, desde que tais peças sobresselentes, elementos ou acessórios sejam importados ao mesmo tempo que estes instrumentos ou aparelhos ou, se forem importados posteriormente, se reconheça que se destinam a instrumentos ou aparelhos:\n\n- que tenham sido admitidos anteriormente com franquia, desde que esses instrumentos ou aparelhos apresentem ainda carácter científica no momento em que for pedida a franquia para as peças sobresselentes, elementos ou acessórios, específicos,\n\nou\n\n- que sejam susceptíveis de beneficiar da franquia no momento em que esta é requerida para as peças sobresselentes, elementos ou acessórios, específicos:\n\nb) Às ferramentas a utilizar na manutenção, controlo, calibragem ou reparação de instrumentos ou aparelhos científicos, desde que:\n\n- essas ferramentas sejam importadas ao mesmo tempo que estes instrumentos ou aparelhos ou, se forem importadas posteriormente, se reconheça que se destinam a instrumentos ou aparelhos:\n\n- que tenham sido admitidos anteriormente com franquia desde que esses instrumentos ou aparelhos apresentem ainda carácter científico no momento em que for pedida a franquia para as ferramentas,\n\nou\n\n- que sejam susceptíveis de beneficiar da franquia no momento em que esta é requerida para as ferramentas,\n\n- e que ferramentas equivalentes não sejam fabricadas na Comunidade."
+  },
+  "aee5da1378f28f34": {
+   "fragment_id": "Artigo 54o",
+   "type": "artigo",
+   "heading": "Artigo 54o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54o\n\nPara efeitos da aplicação dos artigos 52o e 53o:\n\n- entende-se por «instrumento ou aparelho científico» um instrumento ou aparelho que, em virtude das suas características técnicas objectivas e dos resultados que permite obter, é exclusiva ou principalmente apto para a realização de actividades científicas,\n\n- consideram-se como «importados para fins não comerciais» os aparelhos ou instrumentos científicos destinados a serem utilizados para fins de investigação científica ou de ensino, efectuados sem intuito lucrativo,\n\n- a equivalência do valor científico é apreciada por comparação das características técnicas essenciais próprias do instrumento ou aparelho objecto do pedido de franquia com as do instrumento ou aparelho correspondente fabricado na Comunidade, com vista a determinar se este último poderá ser utilizado para os mesmos fins científicos a que se destina o instrumento ou aparelho objecto do pedido de franquia e se poderá prestar serviços comparáveis,\n\n- um instrumento ou aparelho científico - ou, se for caso disso, uma das ferramentas referidas alínea b) do artigo 53o - é considerando como sendo fabricado na Comunidade quando o seu prazo de entrega, apreciado no momento da encomenda, não for, tendo em consideração os usos comerciais no sector de produção em causa, consideravelmente superior ao prazo de entrega do instrumento ou aparelho - ou, se for caso disso, da ferramenta - objecto do pedido de franquia ou quando não exceder este prazo de tal modo que o destino ou a utilização inicialmente prevista para o instrumento, o aparelho ou a ferramenta fiquem consideravelmente afectados."
+  },
+  "fd6f2491d1bc7188": {
+   "fragment_id": "Artigo 55o",
+   "type": "artigo",
+   "heading": "Artigo 55o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55o\n\nA concessão da franquia dependerá do reconhecimento, nas condições fixadas pelas disposições de aplicação adoptadas segundo o procedimento referido nos no 2 e 3 do artigo 143o, de que instrumentos ou aparelhos de valor científico equivalente ao dos instrumentos ou aparelhos para os quais é requerida a importação com franquia - ou, tratando-se de ferramentas, que ferramentas equivalentes àquelas para as quais a importação é requerida - não são fabricadas na Comunidade."
+  },
+  "be0f3971a22e8fe6": {
+   "fragment_id": "Artigo 56o",
+   "type": "artigo",
+   "heading": "Artigo 56o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56o\n\nA concessão da franquia para os instrumentos ou aparelhos científicos, assim como para as ferramentas, enviados como oferta por uma pessoa estabelecida fora da Comunidade aos estabelecimentos referidos no no 2, alínea a), do artigo 52o, não ficará subordinada às condições previstas no no 2, alínea b), do artigo 52o, na alínea b) do artigo 53o e no artigo 55o.\n\nNo entanto, deve verificar-se, nas condições fixadas pelas disposições de aplicação adoptadas segundo o procedimento referido nos no 2 e 3 do artigo 143o, se a oferta dos instrumentos ou aparelhos científicos em causa não esconde qualquer preocupação de ordem comercial por parte do autor da oferta."
+  },
+  "eba3da9216d24bb7": {
+   "fragment_id": "Artigo 57o",
+   "type": "artigo",
+   "heading": "Artigo 57o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57o\n\n1. Os objectos referidos no artigo 51o e os instrumentos ou aparelhos científicos admitidos com franquia nas condições previstas nos artigos 52o a 56o não podem ser emprestados, alugados ou cedidos, a título oneroso ou gratuito, sem que as autoridades competentes tenham sido do facto previamente informadas.\n\n2. No caso de empréstimo, aluguer ou cessão a um estabelecimento ou organismo com direito a beneficiar da franquia nos termos do artigo 51o ou do no 2, alínea a), do artigo 52o, a franquia manter-se-á desde que aquele estabelecimento ou organismo utilize o objecto, o instrumento ou o aparelho para fins que dêem direito à concessão dessa franquia.\n\nNos outros casos, o empréstimo, o aluguer ou a cessão ficam sujeitos ao pagamento prévio dos direitos de importação, segundo a taxa em vigor na data do empréstimo, do aluguer ou da cessão, segundo a sua natureza e valor aduaneiro reconhecidos ou aceites nessa data pelas autoridades competentes."
+  },
+  "339fd60c4dda473c": {
+   "fragment_id": "Artigo 58o",
+   "type": "artigo",
+   "heading": "Artigo 58o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58o\n\n1. Os estabelecimentos ou organismos referidos nos artigos 51o e 52o que deixarem de satisfazer as condições requeridas para beneficiarem da franquia, ou que tenham em vista a utilização de um objecto admitido com franquia para fins diferentes dos previstos pelos referidos artigos, devem informar desse facto as autoridades competentes.\n\n2. Os objectos que permaneçam em poder de estabelecimentos ou organismos que deixem de satisfazer as condições requeridas para beneficiarem da franquia ficarão sujeitos aos respectivos direitos de importação, segundo a taxa em vigor na data em que as referidas condições deixarem de estar satisfeitas, segundo a sua natureza e valor aduaneiro reconhecidos ou aceites nessa data pelas autoridades competentes.\n\nOs objectos utilizados pelo estabelecimento ou organismo beneficiário da franquia para fins diferentes dos previstos pelos artigos 51o e 52o ficarão sujeitos aos respectivos direitos de importação, segundo a taxa em vigor na data em que lhes tenha sido dado um outro uso, conforme a sua natureza e valor aduaneiro reconhecidos ou aceites nessa data pelas autoridades competentes."
+  },
+  "d3187a1ab3dd0a59": {
+   "fragment_id": "Artigo 59o",
+   "type": "artigo",
+   "heading": "Artigo 59o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59o\n\nOs artigos 56o, 57o e 58o aplicam-se «mutatis mutandis» aos produtos referidos no artigo 53o."
+  },
+  "50547017ba7c94df": {
+   "fragment_id": "TÍTULO XIII — ANIMAIS DE LABORATÓRIO E SUBSTÂNCIAS BIOLÓGICAS OU QUÍMICAS DESTINADAS À INVESTIGAÇÃO",
+   "type": "divisao",
+   "heading": "TÍTULO XIII — ANIMAIS DE LABORATÓRIO E SUBSTÂNCIAS BIOLÓGICAS OU QUÍMICAS DESTINADAS À INVESTIGAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO XIII — ANIMAIS DE LABORATÓRIO E SUBSTÂNCIAS BIOLÓGICAS OU QUÍMICAS DESTINADAS À INVESTIGAÇÃO"
+  },
+  "14132a49a6ceb9b7": {
+   "fragment_id": "Artigo 60o",
+   "type": "artigo",
+   "heading": "Artigo 60o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60o\n\n1. São admitidos com franquia de direitos de importação:\n\na) Os animais especialmente preparados para uso laboratorial;\n\nb) As substâncias biológicas ou químicas de que não exista produção equivalente no território aduaneiro da Comunidade e que sejam importadas exclusivamente para fins não comerciais, desde que figurem numa lista estabelecida segundo o procedimento referido nos no 2 e 3 do artigo 143o.\n\n2. A franquia referida no no 1 limita-se aos animais e substâncias biológicas ou químicas que se destinem:\n\n- quer a estabelecimentos públicos ou de utilidade pública que tenham como actividade principal o ensino ou a investigação científica, assim como aos serviços dependentes de um estabelecimento público ou de utilidade pública que tenham como actividade principal o ensino ou a investigação científica.\n\n- quer a estabelecimentos de carácter privado que tenham como actividade principal o ensino ou a investigação científico, aprovados pelas autoridades competentes dos Estados-membros para receber estes objectos com franquia."
+  },
+  "3885e831a4d6b654": {
+   "fragment_id": "TÍTULO XIV — SUBSTÂNCIAS TERAPÊUTICAS DE ORIGEM HUMANA E REAGENTES PARA A DETERMINAÇÃO DE GRUPOS SANGUÍNEOS E TISSULARES",
+   "type": "divisao",
+   "heading": "TÍTULO XIV — SUBSTÂNCIAS TERAPÊUTICAS DE ORIGEM HUMANA E REAGENTES PARA A DETERMINAÇÃO DE GRUPOS SANGUÍNEOS E TISSULARES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO XIV — SUBSTÂNCIAS TERAPÊUTICAS DE ORIGEM HUMANA E REAGENTES PARA A DETERMINAÇÃO DE GRUPOS SANGUÍNEOS E TISSULARES"
+  },
+  "7e756e8be94f01c7": {
+   "fragment_id": "Artigo 61o",
+   "type": "artigo",
+   "heading": "Artigo 61o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61o\n\n1. Sem prejuízo do disposto no artigo 62o, são admitidos com franquia de direitos de importação:\n\na) As substâncias terapêuticas de origem humana;\n\nb) Os reagentes para a determinação dos grupos sanguíneos;\n\nc) Os reagentes para a determinação dos grupos tissulares.\n\n2. Para efeitos do no 1 entende-se por:\n\n- «substâncias terapêuticas de origem humana»: o sangue humano e os seus derivados (sangue humano total, plasma humano seco, albumina humana e soluções estáveis de proteínas, plasmáticas humanas, imoglobulina humana, fibrinogeniohumano);\n\n- «reagentes para a determinação dos grupos sanguíneos»: todos os reagentes de origem humana, vegetal ou outra para a determinação dos grupos sanguíneos e a detecção de incompatibilidades sanguíneas;\n\n- «reagentes para a determinação dos grupos tissulares»: todos os reagentes de origem humana, animal, vegetal ou outra, para a determinação dos grupos tissulares humanos."
+  },
+  "064146da6049afb7": {
+   "fragment_id": "Artigo 62o",
+   "type": "artigo",
+   "heading": "Artigo 62o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62o\n\nA franquia limita-se aos produtos:\n\na) Destinados a organismos ou laboratórios aprovados pelas autoridades competentes para uso exclusivo em fins médicos ou científicos, com exclusão de qualquer operação comercial;\n\nb) Acompanhados de um certificado de conformidade emitido por um organismo habilitado para esse efeito no país terceiro de proveniência;\n\nc) Contidos em recipientes com um rótulo especial de identificação."
+  },
+  "7a6e2acfbe8bb3e3": {
+   "fragment_id": "Artigo 63o",
+   "type": "artigo",
+   "heading": "Artigo 63o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63o\n\nA franquia aplica-se às embalagens especiais indispensáveis para o transporte de substâncias terapêuticas de origem humana ou de reagentes para a determinação dos grupos sanguíneos ou tissulares, assim como aos solventes e acessórios necessários para a sua utilização eventualmente incluídos nas remessas."
+  },
+  "83bc45f25b2e94f5": {
+   "fragment_id": "TÍTULO XV — PRODUTOS FARMACÊUTICOS UTILIZADOS POR OCASIAO DE MANIFESTAÇÕES DESPORTIVAS INTERNACIONAIS",
+   "type": "divisao",
+   "heading": "TÍTULO XV — PRODUTOS FARMACÊUTICOS UTILIZADOS POR OCASIAO DE MANIFESTAÇÕES DESPORTIVAS INTERNACIONAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO XV — PRODUTOS FARMACÊUTICOS UTILIZADOS POR OCASIAO DE MANIFESTAÇÕES DESPORTIVAS INTERNACIONAIS"
+  },
+  "98c14b6281a95ba3": {
+   "fragment_id": "Artigo 64o",
+   "type": "artigo",
+   "heading": "Artigo 64o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64o\n\nSão admitidos com franquia de direitos de importação os produtos farmacêuticos para medicina humana ou veterinária destinados ao uso de pessoas ou de animais provenientes de países terceiros para participarem em manifestações desportivas internacionais organizadas no território aduaneiro da Comunidade, dentro do limite necessário para cobrir as suas necessidades durante a permanência no referido território."
+  },
+  "b7c3f3104e96a7a7": {
+   "fragment_id": "TÍTULO XVI — MERCADORIAS ENVIADAS A ORGANISMOS COM FINS CARITATIVOS E FILANTRÓPICOS; OBJECTOS DESTINADOS A CEGOS E A OUTRAS PESSOAS DEFICIENTES",
+   "type": "divisao",
+   "heading": "TÍTULO XVI — MERCADORIAS ENVIADAS A ORGANISMOS COM FINS CARITATIVOS E FILANTRÓPICOS; OBJECTOS DESTINADOS A CEGOS E A OUTRAS PESSOAS DEFICIENTES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO XVI — MERCADORIAS ENVIADAS A ORGANISMOS COM FINS CARITATIVOS E FILANTRÓPICOS; OBJECTOS DESTINADOS A CEGOS E A OUTRAS PESSOAS DEFICIENTES\n\nA. Para a realização de objectivos gerais"
+  },
+  "754085df144bb395": {
+   "fragment_id": "Artigo 65o",
+   "type": "artigo",
+   "heading": "Artigo 65o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65o\n\n1. Sem prejuízo do disposto nos artigos 67o e 68o, são admitidos com franquia de direitos de importação, desde que não dêem lugar a abusos ou a distorções de concorrência importantes:\n\na) As mercadorias de primeira necessidade importadas por organismos do Estado ou por outros organismos com fins caritativos ou filantrópicos aprovados pelas autoridades competentes, para serem distribuídas gratuitamente a pessoas necessitadas;\n\nb) As mercadorias de qualquer natureza enviadas gratuitamente por uma pessoa ou por um organismo estabelecido fora da Comunidade e sem qualquer intenção de ordem comercial por parte deste últimos, a organismos do Estado ou a outros organismos com fins caritativos ou filantrópicos aprovados pelas autoridades competentes, para obtenção de fundos em manifestações ocasionais de beneficência em favor de pessoas necessitadas;\n\nc) Os materiais de equipamento e de escritório enviados gratuitamente por uma pessoa ou um organismo estabelecido fora da Comunidade e sem qualquer intenção de ordem comercial por parte destes últimos, a organismos com fins caritativos ou filantrópicos aprovados pelas autoridades competentes, para serem utilizados exclusivamente nas necessidades dos seu funcionamento e na realização dos seus objectivos caritativos ou filantrópicos.\n\n2. Para efeitos da alínea a) do no 1 entende-se por «mercadorias de primeira necessidade» as mercadorias indispensáveis à satisfação das necessidades imediatas das pessoas, tais como géneros alimentícios, medicamentos, vestuário e cobertores."
+  },
+  "ddeb104c52c8c9c2": {
+   "fragment_id": "Artigo 66o",
+   "type": "artigo",
+   "heading": "Artigo 66o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66o\n\nEstão excluídos da franquia:\n\na) Os produtos alcoólicos;\n\nb) O tabaco e os produtos de tabaco;\n\nc) O café e o chá;\n\nd) Os veículos a motor com excepção das ambulâncias."
+  },
+  "26e548c50fefda18": {
+   "fragment_id": "Artigo 67o",
+   "type": "artigo",
+   "heading": "Artigo 67o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67o\n\nA franquia só é concedida aos organismos cuja escrita permita às autoridades competentes controlar as operações e que ofereçam todas as garantias consideradas necessárias."
+  },
+  "1239d6d9226e168f": {
+   "fragment_id": "Artigo 68o",
+   "type": "artigo",
+   "heading": "Artigo 68o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68o\n\n1. As mercadorias e os materiais referidos no artigo 65o não podem ser objecto, por parte do organismo que beneficia da franquia, de empréstimo, aluguer ou cessão, a título oneroso ou gratuito, para fins diferentes dos previstos nas alíneas a) e b) do no 1 do referido artigo sem que as autoridades competentes tenham sido previamente informadas.\n\n2. No caso de empréstimo, aluguer ou cessão a um organismo autorizado a beneficiar da franquia nos termos dos artigos 65o e 67o, a franquia manterse-à, desde que este último utilize as mercadorias e os materiais em causa para fins que confiram o direito à concessão de tal franquia.\n\nNos outros casos, o empréstimo, o aluguer ou a cessão ficarão sujeitos ao pagamento prévio dos direitos de importação segundo a taxa em vigor na data do empréstimo, do aluguer ou da cessão, consoante a sua natureza e tomando por base o valor aduaneiro reconhecidos ou aceites nessa data pelas autoridades competentes."
+  },
+  "2be0c6149873069d": {
+   "fragment_id": "Artigo 69o",
+   "type": "artigo",
+   "heading": "Artigo 69o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69o\n\n1. Os organismos referidos no artigo 65o que deixarem de satisfazer as condições requeridas para beneficiarem da franquia, ou que tiverem em vista a utilização das mercadorias ou dos materiais admitidos com franquia para fins diferentes dos previstos pelo referido artigo, deverão informar desse facto as autoridades competentes.\n\n2. As mercadorias e os materiais que permaneçam em poder de organismos que tenham deixado de satisfazer as condições requeridas para beneficiarem da franquia ficarão sujeitos aos respectivos direitos de importação em vigor na data em que as referidas condições deixarem de estar satisfeitas, consoante a sua natureza e tomando por base o valor aduaneiro reconhecidos ou aceites nessa data pelas autoridades competentes.\n\n3. As mercadorias e os materiais utilizados pelo organismo beneficiário da franquia para fins diferentes dos previstos no artigo 65o ficam sujeitas aos respectivos direitos de importação em vigor na data em que lhe foi dado um outro uso, consoante a sua natureza e tomando por base o valor aduaneiro reconhecidos ou aceites nessa data pelas autoridades competentes.\n\nB. Para pessoas deficientes\n\n1. Objectos destinados a cegos"
+  },
+  "0134cb3eeb983774": {
+   "fragment_id": "Artigo 70o",
+   "type": "artigo",
+   "heading": "Artigo 70o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70o\n\nSão admitidos com franquia de direitos de importação os objectos especialmente concebidos para a promoção educativa, científica ou cultural dos cegos, mencionados no Anexo III."
+  },
+  "3fdfd3baa87acf97": {
+   "fragment_id": "Artigo 71o",
+   "type": "artigo",
+   "heading": "Artigo 71o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71o\n\nSão admitidos com franquia de direitos de importação os objectos especialmente concebidos para a promoção educativa, científica ou cultural dos cegos, mencionados no Anexo IV, quando forem importados:\n\n- quer pelos próprios cegos e para seu próprio uso,\n\n- quer por instituições ou organizações de cegos ou de assistência a cegos aprovadas pelas autoridades competentes dos Estados-membros para receber estes objectos com franquia.\n\nA franquia referida no primeiro parágrafo aplica-se às peças sobresselentes, elementos ou acessórios específicos, que se adaptem aos objectos considerados, assim como às ferramentas a utilizar na manutenção, controlo, calibragem ou reparação dos referidos objectos, desde que tais peças sobresselentes, elementos, acessórios ou ferramentas sejam importados ao mesmo tempo que esses objectos ou, se forem importados posteriormente, se reconheça que se destinam a objectos admitidos anteriormente com franquia ou susceptíveis de beneficiarem da franquia no momento em que esta for pedida para as peças sobresselentes, elementos ou acessórios específicos e ferramentas em causa.\n\n2. Objectos destinados a outros deficientes"
+  },
+  "9a68c75e2dd4d06a": {
+   "fragment_id": "Artigo 72o",
+   "type": "artigo",
+   "heading": "Artigo 72o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72o\n\n1. São admitidos com franquia de direitos de importação os objectos especialmente concebidos para a educação, o emprego e a promoção social das pessoas física ou mentalmente diminuídas que não sejam cegos:\n\na) Quando forem importados:\n\n- quer pelos próprios deficientes e para seu próprio uso,\n\n- quer por instituições ou organizações que tenham como actividade principal a educação de deficientes ou a assistência a essas pessoas e que sejam aprovadas pelas autoridades competentes dos Estados-membros para receber estes objectos com franquia, e\n\nb) Desde que objectos equivalentes não sejam fabricados na Comunidade.\n\nNo entanto, nas condições fixadas por disposições de aplicação adoptadas segundo o procedimento referido nos no 2 e 3 do artigo 143o, poderá ser derrogada a condição prevista na alínea b) desde que a concessão da franquia não seja susceptível de prejudicar a produção comunitária de objectos equivalentes.\n\n2. A franquia referida no no 1 aplica-se às peças sobresselentes, elementos ou acessórios específicos, que se adaptem aos objectos considerados, assim como às ferramentas a utilizar na manutenção, controlo, calibragem ou reparação dos referidos objectos, desde que tais peças sobresselentes, elementos, acessórios ou ferramentas sejam importados ao mesmo tempo que esses objectos ou, se forem importados posteriormente, se reconheça que se destinam a objectos admitidos anteriormente com franquia ou susceptíveis de beneficiarem da franquia no momento em que esta for pedida para as peças sobresselentes, elementos ou acessórios específicos e ferramentas em causa.\n\n3. Para efeitos de aplicação do presente artigo:\n\n- a equivalância dos objectos será apreciada por comparação das características técnicas essenciais próprias do objecto para o qual é requerida a franquia com as do objecto correspondente fabricado na Comunidade, com o fim de determinar se este último pode ser utilizado para os mesmos fins a que se destina o objecto para o qual se requer a franquia e se pode prestar serviços comparáveis;\n\n- um objecto será considerado como sendo fabricado na Comunidade quando o seu prazo de entrega, apreciado no momento da encomenda, não for, tendo em consideração os usos comerciais no sector de produção em causa, consideravelmente superior ao prazo de entrega do objecto para o qual é requerida a franquia, ou quando não exceder este prazo de tal modo que o destino ou a utilização inicialmente prevista para o objecto em questão fique consideravelmente afectada."
+  },
+  "d6c96beb15634281": {
+   "fragment_id": "Artigo 73o",
+   "type": "artigo",
+   "heading": "Artigo 73o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73o\n\nSem prejuízo do no 1, segundo parágrafo, do artigo 72o, a concessão da franquia fica subordinada ao reconhecimento, nas condições fixadas pelas disposições de aplicação adoptadas segundo o procedimento referido nos no 2 e 3 do artigo 143o, de que os objectos equivalentes àqueles para os quais é requerida a franquia não são fabricados na Comunidade."
+  },
+  "4bd5a141613b8590": {
+   "fragment_id": "Artigo 74o",
+   "type": "artigo",
+   "heading": "Artigo 74o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74o\n\nA concessão da franquia para os objectos enviados como oferta aos próprios deficientes e para seu próprio uso ou às instituições referidas no no 1, alínea a), do artigo 72o não está subordinada às condições previstas no no 1, alínea b), do artigo 72o e no artigo 73o.\n\nNo entanto, deve verificar-se, nas condições fixadas pelas disposições de aplicação adoptadas segundo o procedimento referido nos no 2 e 3 do artigo 143o, se a oferta dos objectos em causa não esconde qualquer intenção de ordem comercial por parte do autor da oferta.\n\n3. Disposições comuns"
+  },
+  "772b85382c2bdfd6": {
+   "fragment_id": "Artigo 75o",
+   "type": "artigo",
+   "heading": "Artigo 75o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75o\n\nA concessão directa da franquia, para uso próprio, aos cegos ou a outros deficientes, tal como prevista no primeiro travessão do artigo 71o, no no 1, primeiro travessão da alínea a), do artigo 72o e no artigo 74o fica sujeita à condição de que as disposições em vigor nos Estados-membros permitam aos interessados provar a sua condição de cegos ou de deficientes com direito a tal franquia."
+  },
+  "1abc909e6c16eef2": {
+   "fragment_id": "Artigo 76o",
+   "type": "artigo",
+   "heading": "Artigo 76o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76o\n\n1. Os objectos importados com franquia pelas pessoas referidas nos artigos 71o, 72o e 74o não podem ser emprestados, alugados ou cedidos, a título oneroso ou gratuito, sem que as autoridades competentes tenham sido previamente informadas.\n\n2. No caso de empréstimo, aluguer ou cessão a uma pessoa, instituição ou organismo com direito a beneficiar da franquia nos termos dos artigos 71o a 74o, a franquia menter-se-à desde que aquele estabelecimento ou organismo utilize o objecto para fins que confiram direito à concessão da franquia.\n\nNos outros casos, o empréstimo, o aluguer ou a cessão ficam subordinados ao pagamento prévio dos direitos de importação, segundo a taxa em vigor na data do empréstimo, do aluguer ou da cessão, em conformidade com a sua natureza e valor aduaneiro reconhecidos ou aceites nessa data pelas autoridades competentes."
+  },
+  "6454c5855b7ff874": {
+   "fragment_id": "Artigo 77o",
+   "type": "artigo",
+   "heading": "Artigo 77o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77o\n\n1. Os objectos importados pelas instituições ou organizações aprovadas para beneficiarem da franquia nas condições previstas nos artigos 71o a 74o podem ser emprestados, alugados ou cedidos, sem fim lucrativo, por estas instituições ou organizações aos cegos e outros deficientes de que se ocupam, sem dar lugar ao pagamento dos direitos aduaneiros relativos a esses objectos.\n\n2. Não podem efectuar-se empréstimos, alugueres ou cessões em condições diferentes das previstas no no 1 sem que as autoridades competentes tenham sido previamente informadas.\n\nQuando um tal empréstimo, aluguer ou cessão for efectuado em proveito de uma instituição ou organização com direito a beneficiar da franquia nos termos do primeiro parágrafo do artigo 71o ou do no 1, alínea a), do artigo 72o, a franquia manter-se-à desde que aquela instituição ou organização utilize o objecto em causa para fins que confiram direito à concessão dessa franquia.\n\nNos outros casos, o empréstimo, o aluguer ou a cessão ficam subordinados ao pagamento prévio dos direito aduaneiros, segundo a taxa em vigor na data do empréstimo, do aluguer ou da cessão, em conformidade com a sua natureza e valor aduaneiro reconhecidos ou aceites nessa data pelas autoridades competentes."
+  },
+  "d9fa72b4fc398846": {
+   "fragment_id": "Artigo 78o",
+   "type": "artigo",
+   "heading": "Artigo 78o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78o\n\n1. As instituições ou organizações referidas nos artigos 71o e 72o que deixem de satisfazer as condições requeridas para beneficiarem da franquia, ou que tenham em vista a utilização de um objecto admitido com franquia para fins diferentes dos previstos pelos referidos artigos, devem informar desse facto as autoridades competentes.\n\n2. Os objectos que permaneçam em poder das instituições ou organizações que deixem de satisfazer as condições requeridas para beneficiarem da franquia ficarão sujeitos aos respectivos direitos de importação segundo a taxa em vigor na data em que as referidas condições deixaram de estar satisfeitas, em conformidade com a sua natureza e valor aduaneiro reconhecidos ou aceites nessa data pelas autoridades competentes.\n\n3. Os objectos utilizados pela instituição ou organização beneficiária da franquia para fins diferentes dos previstos pelos artigos 71o e 72o ficam sujeitos aos respectivos direitos de importação segundo a taxa em vigor na data em que lhes foi dado um outro uso, em conformidade com a sua natureza e valor aduaneiro reconhecidos ou aceites nessa data pelas autoridades competentes.\n\nC. Para as vítimas de catástrofes"
+  },
+  "cbc473264778b32a": {
+   "fragment_id": "Artigo 79o",
+   "type": "artigo",
+   "heading": "Artigo 79o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79o\n\n1. Sem prejuízo do disposto nos artigos 80o a 85o, são admitidas com franquia de direitos de importação, as mercadorias importadas por organismos do Estado ou por outros organismos com fins caritativos ou filantrópicos aprovados pelas autoridades competentes, quando se destinem:\n\na) Quer a ser distribuídas gratuitamente às vítimas de catástrofes, que afectem o território de um ou de vários Estados-membros;\n\nb) Quer a serem postas gratuitamente à disposição das vítimas de tais catástrofes, mantendo-se propriedade dos organismos em causa.\n\n2. Beneficiarão igualmente da franquia referida no no 1, nas mesmas condições, as mercadorias importadas para livre prática pelas unidades de socorro para cobrir as suas necessidades durante a sua intervenção."
+  },
+  "3744b0c61b7aae21": {
+   "fragment_id": "Artigo 80o",
+   "type": "artigo",
+   "heading": "Artigo 80o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80o\n\nSão excluídos da franquia os materiais e equipamentos destinados à reconstrução das zonas sinistradas."
+  },
+  "b8a6f66262ae85f7": {
+   "fragment_id": "Artigo 81o",
+   "type": "artigo",
+   "heading": "Artigo 81o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81o\n\nA concessão da franquia está sujeita a decisão da Comissão que actua, a pedido do ou dos Estados-membros interessados, segundo um procedimento de urgência que inclui a consulta aos outros Estados-membros. Esta decisão, se for necessário, fixará o âmbito e as condições de aplicação da franquia.\n\nEnquanto aguardam a notificação da decisão da Comissão, os Estados-membros atingidos por uma catástrofe podem autorizar a importação de mercadorias para os fins previstos no artigo 79o com suspensão dos respectivos direitos aduaneiros, mediante compromisso do organismo importador de pagar os referidos direitos se a franquia não for concedida."
+  },
+  "841d2027adbea9ad": {
+   "fragment_id": "Artigo 82o",
+   "type": "artigo",
+   "heading": "Artigo 82o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82o\n\nA franquia só será concedida aos organismos cuja escrita permita às autoridades competentes controlar as operações e que ofereçam todas as garantias consideradas necessárias."
+  },
+  "e5903da238fde602": {
+   "fragment_id": "Artigo 83o",
+   "type": "artigo",
+   "heading": "Artigo 83o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83o\n\n1. As mercadorias referidas no no 1 do artigo 79o não podem ser objecto, por parte dos organismos beneficiários da franquia, de empréstimo, aluguer ou cessão, a título oneroso ou gratuito, em condições diferentes das previstas no referido artigo, sem que as autoridades competentes tenham sido desse facto previamente informadas.\n\n2. No caso de empréstimo, aluguer, ou cessão a um organismo com direito a beneficiar da franquia nos termos do artigo 79o, a franquia manter-se-à desde que acquele organismo utilize as mercadorias em causa para fins que confiram direito à concessão dessa franquia.\n\nNos outros casos, o empréstimo, o aluguer ou a cessão ficam sujeitos ao pagamento prévio dos direitos de importação segundo a taxa em vigor na data do empréstimo, do aluguer ou da cessão, em conformidade com a natureza e valor aduaneiro reconhecidos ou aceites nessa data pelas autoridades competentes."
+  },
+  "71b94cefd6ef7bda": {
+   "fragment_id": "Artigo 84o",
+   "type": "artigo",
+   "heading": "Artigo 84o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84o\n\n1. As mercadorias referidas no no 1, alínea b), do artigo 79o não podem, após terminada a sua utilização pelas vítimas de catástrofes, ser emprestadas, alugadas ou cedidas, a título oneroso ou gratuito, sem que as autoridades competentes tenham desse facto sido previamente informadas.\n\n2. No caso de empréstimo, aluguer ou cessão a um organismo com direito a beneficiar da franquia nos termos do artigo 79o ou, se for caso disso, a um organismo com direito a beneficiar da franquia nos termos do no 1, alínea a) do artigo 65o, a franquia manter-se-à desde que aqueles organismos utilizem as mercadorias em causa para fins que confiram direito à concessão de tais franquias.\n\nNos outros casos, o empréstimo, o aluguer ou a cessão ficam sujeitos ao pagamento prévio dos direitos de importação segundo a taxa em vigor na data do empréstimo, do aluguer ou da cessão, em conformidade com a sua natureza e valor aduaneiro reconhecidos ou aceites nessa data pelas autoridades competentes."
+  },
+  "980eba2addcee52a": {
+   "fragment_id": "Artigo 85o",
+   "type": "artigo",
+   "heading": "Artigo 85o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85o\n\n1. Os organismos referidos no artigo 79o que deixem de satisfazer as condições requeridas para beneficiarem da franquia, ou que tenham em vista a utilização das mercadorias admitidas com franquia para fins diferentes dos previstos pelo referido artigo, devem informar desse facto as autoridades competentes.\n\n2. No caso de mercadorias que permaneçam em poder organismos que deixaram de satisfazer as condições requeridas para beneficiarem da franquia, quando as mesmas forem cedidas a um organismo com direito a beneficiar da franquia nos termos do artigo 79o ou, se for caso disso, a um organismo com direito a beneficiar da franquia nos termos do no 1, alínea a), do artigo 65o a franquia manter-se-à desde que o referido organismo utilize as mercadorias em causa para fins que confiram direito à concessão de tais franquias. Nos outros casos, as mercadorias ficam sujeitas aos respectivos direitos de importação segundo a taxa em vigor na data em que as referidas condições deixaram de estar satisfeitas, em conformidade com a sua natureza e valor aduaneiro reconhecidos ou aceites nessa data pelas autoridades competentes.\n\n3. As mercadorias utilizadas pelo organismo beneficiária da franquia para fins diferentes dos previstos no artigo 79o ficam sujeitas aos respectivos direitos de importação segundo a taxa em vigor na data em que tenham sido utilizadas para outros fins, em conformidade com a sua natureza e valor aduaneiro reconhecidos ou aceites nessa data pelas autoridades competentes."
+  },
+  "15356dbd2234c7ed": {
+   "fragment_id": "TÍTULO XVII — CONDECORAÇÕES E RECOMPENSAS CONCEDIDAS A",
+   "type": "divisao",
+   "heading": "TÍTULO XVII — CONDECORAÇÕES E RECOMPENSAS CONCEDIDAS A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO XVII — CONDECORAÇÕES E RECOMPENSAS CONCEDIDAS A"
+  },
+  "116aa33ff4e85a99": {
+   "fragment_id": "TÍTULO HONORÍFICO — Artigo 86o",
+   "type": "divisao",
+   "heading": "TÍTULO HONORÍFICO — Artigo 86o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO HONORÍFICO — Artigo 86o\n\nSão admitidas com franquia de direitos de importação, mediante justificação apresentada pelos interessados a contento das autoridades competentes e desde que se trate de operações desprovidas de qualquer carácter comercial:\n\na) As condecorações concedidas pelos governos de países terceiros a pessoas que tenham a sua residência habitual no território aduaneiro da Comunidade;\n\nb) As taças, medalhas e objectos semelhantes com carácter essencialmente simbólico que, atribuídas num país terceiro a pessoas que tenham a sua residência habitual no território aduaneiro da Comunidade em homenagem à actividade desenvolvida em domínios como as artes, as ciências, os desportos, o serviço público, ou em reconhecimento pelos seus méritos por ocasião de um acontecimento particular, sejam importadas na Comunidade por essas mesmas pessoas;\n\nc) As taças, medalhas e objectos semelhantes com carácter essencialmente simbólico oferecidas gratuitamente por autoridades ou pessoas estabelecidas num país terceiro a fim de serem atribuídas, para os mesmos fins que os referidos na alínea b), no território aduaneiro da Comunidade."
+  },
+  "a85c5340ad74846f": {
+   "fragment_id": "TÍTULO XVIII — PRESENTES RECEBIDOS NO ÀMBITO DAS RELAÇÕES INTERNACIONAIS",
+   "type": "divisao",
+   "heading": "TÍTULO XVIII — PRESENTES RECEBIDOS NO ÀMBITO DAS RELAÇÕES INTERNACIONAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO XVIII — PRESENTES RECEBIDOS NO ÀMBITO DAS RELAÇÕES INTERNACIONAIS"
+  },
+  "8aa777917cd6ab22": {
+   "fragment_id": "Artigo 87o",
+   "type": "artigo",
+   "heading": "Artigo 87o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87o\n\nSem prejuízo, se for caso disso, do disposto nos artigos 45o a 49o, são admitidos com franquia de direitos de importação, nos termos do disposto nos artigos 88o e 89o, os objectos:\n\na) Importados no território aduaneiro da Comunidade por pessoas que tenham efectuado uma visita oficial a um país terceiro e que nessa ocasião os tenham recebido como presente das autoridades que os acolheram;\n\nb) Importados por pessoas que venham efectuar uma visita oficial à Comunidade e que tencionem oferecê-los como presente nessa ocasião às autoridades que os acolherem;\n\nc) Enviados como presente, como penhor de amizade ou de boa vontade, por uma autoridade oficial, por uma colectividade pública ou por um group que exerçam actividades de interesse público situados num país terceiro, a uma autoridade oficial, a uma colectividade pública ou a um grupo que exerçam actividades de interesse público situados na Comunidade, aprovados pelas autoridades competentes para receberem tais objectos com franquia."
+  },
+  "6a6211196c153fe0": {
+   "fragment_id": "Artigo 88o",
+   "type": "artigo",
+   "heading": "Artigo 88o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88o\n\nEstão excluídos da franquia os produtos alcoólicos e o tabaco não manipulado e manipulado."
+  },
+  "4978e140edf3a254": {
+   "fragment_id": "Artigo 89o",
+   "type": "artigo",
+   "heading": "Artigo 89o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89o\n\nA franquia só é concedida:\n\n- se os objectos oferecidos como presente o forem a título ocasional,\n\n- se não traduzirem pela sua qualidade, valor e quantidade qualquer intenção de ordem comercial, e\n\n- se não forem utilizados para fins comerciais."
+  },
+  "baa95385eeaa27f0": {
+   "fragment_id": "TÍTULO XIX — MERCADORIAS DESTINADAS A USO DE SOBERANOS E DE CHEFES DE ESTADO",
+   "type": "divisao",
+   "heading": "TÍTULO XIX — MERCADORIAS DESTINADAS A USO DE SOBERANOS E DE CHEFES DE ESTADO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO XIX — MERCADORIAS DESTINADAS A USO DE SOBERANOS E DE CHEFES DE ESTADO"
+  },
+  "6bcba73e7eaf8f33": {
+   "fragment_id": "Artigo 90o",
+   "type": "artigo",
+   "heading": "Artigo 90o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90o\n\nSão admitidos com franquia de direitos de importação, dentro dos limites e condições fixadas pelas autoridades competentes:\n\na) Os presentes oferecidos aos soberanos reinantes e aos chefes de Estado;\n\nb) As mercadorias destinadas a serem utilizadas ou consumidas, durante a sua permanência oficial no território aduaneiro da Comunidade, pelos soberanos reinantes e chefes de Estado de países terceiros, assim como pelas personalidades que os representam oficialmente. Esta franquia pode, no entanto, ser subordinada pelo Estado-membro de importação à condição de reciprocidade.\n\nAs disposições do parágrafo anterior aplicam-se igualmente às pessoas que gozem, no plano internacional, de prerrogativas análogas às de um soberano reinante ou de um chefe de Estado."
+  },
+  "26ea6c2f91a1088e": {
+   "fragment_id": "TÍTULO XX — MERCADORIAS IMPORTADAS PARA FINS DE PROSPECÇÃO COMERCIAL",
+   "type": "divisao",
+   "heading": "TÍTULO XX — MERCADORIAS IMPORTADAS PARA FINS DE PROSPECÇÃO COMERCIAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO XX — MERCADORIAS IMPORTADAS PARA FINS DE PROSPECÇÃO COMERCIAL\n\nA. Amostras de mercadorias de valor insignificante"
+  },
+  "c51397abffe8e160": {
+   "fragment_id": "Artigo 91o",
+   "type": "artigo",
+   "heading": "Artigo 91o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 91o\n\n1. Sem prejuízo do disposto no no 1, alínea a), do artigo 95o, são admitidos com franquia de direitos de importação as amostras de mercadorias de valor insignificante e que sirvam apenas para a obtenção de encomendas relativas a mercadorias do tipo que representam com vista à sua importação no território aduaneiro da Comunidade.\n\n2. As autoridades competentes podem exigir que para poderem beneficiar da franquia certos artigos sejam definitivamente inutilizados por laceração, perfuração, marcação indelével e nítida ou por qualquer outro processo, sem que esta operação destrua a sua qualidade de amostra.\n\n3. Para efeitos do no 1, entende-se por «amostra de mercadorias» os artigos representativos de uma categoria de mercadorias cujo modo de apresentação e quantidade, para mercadorias do mesmo tipo ou qualidade, não admite o seu uso para qualquer fim que não seja a prospecção.\n\nB. Impressos e objectos de carácter publicitário"
+  },
+  "1fe5993311021a78": {
+   "fragment_id": "Artigo 92o",
+   "type": "artigo",
+   "heading": "Artigo 92o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 92o\n\nSem prejuízo do disposto no artigo 93o, são admitidos com franquia de direitos de importação os impressos de carácter publicitário tais como catálogos, listas de preços, instruções para a utilização ou informações comerciais relativas:\n\na) Quer a mercadorias para venda ou aluguer;\n\nb) Quer a ofertas de serviços de transporte, seguro comercial ou operações-bancárias,\n\nPor uma pessoa estabelecida fora do território aduaneiro da Comunidade."
+  },
+  "ef61291470e4a40d": {
+   "fragment_id": "Artigo 93o",
+   "type": "artigo",
+   "heading": "Artigo 93o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 93o\n\nA franquia referida no artigo 92o limita-se aos impressos de carácter publicitário que satisfaçam as seguintes condições:\n\na) Os impressos devem apresentar de forma clara o nome da empresa que produz, vende ou aluga as mercadorias, ou que oferece as prestações de serviços a que se referem;\n\nb) Cada remessa deve conter apenas um documento ou um único exemplar de cada documento se for constituída por vários documentos. As remessas contendo vários exemplares de um mesmo documento podem, contudo, beneficiar da franquia se o seu peso bruto total não exceder 1 quilograma;\n\nc) Os impressos não devem ser objecto de remessas agrupadas de um mesmo expedidor para um mesmo destinatário."
+  },
+  "518925f55305dbde": {
+   "fragment_id": "Artigo 94o",
+   "type": "artigo",
+   "heading": "Artigo 94o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 94o\n\nSão igualmente admitidos com franquia de direitos de importação os objectos de carácter publicitário sem valor comercial intrínseco enviados gratuitamente pelos fornecedores aos seus clientes e que, para além da sua função publicitária, não são utilizados para qualquer outro fim.\n\nC. Produtos utilizados ou consumidos por ocasião de uma exposição ou manifestação semelhante"
+  },
+  "68aa48520a5abc64": {
+   "fragment_id": "Artigo 95o",
+   "type": "artigo",
+   "heading": "Artigo 95o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 95o\n\n1. Sem prejuízo do disposto nos artigos 96o a 99o, são admitidos com franquia de direitos de importação:\n\na) As pequenas amostras representativas de mercadorias fabricadas fora do território aduaneiro da Comunidade destinadas a uma exposição ou manifestação semelhante;\n\nb) As mercadorias importadas unicamente para sua demonstração ou para demonstração de máquinas e aparelhos fabricados fora do território aduaneiro da Comunidade apresentadas numa exposição ou manifestação semelhantes;\n\nc) Os materiais diversos de pequeno valor tais como tintas, vernizes, papel para forrar paredes, etc., utilizados na construção, montagem e decoração de pavilhões provisórios ocupados por representantes de países terceiros numa exposição ou manifestação semelhante e que sejam destruídos devido à sua utilização;\n\nd) Os impressos, catálogos, prospectos, listas de preços, cartazes publicitários, calendários ilustrados ou não, fotografias não emolduradas e outros objectos fornecidos gratuitamente para serem utilizados a título de publicidade de mercadorias fabricadas fora do território aduaneiro da Comunidade apresentados numa exposição ou manifestação semelhante.\n\n2. Para efeitos do no 1, entende-se por \"exposição ou manifestação semelhantes\":\n\na) As exposições, feiras, salões e manifestações semelhantes do comércio, da indústria, da agricultura e do artesanato;\n\nb) As exposições ou manifestações organizadas principalmente com fim filantrópico;\n\nc) As exposições ou manifestações organizadas principalmente com fim científico, técnico, artesanal, artístico, educativo ou cultural, desportivo, religioso ou de culto, sindical ou turístico ou ainda com o fim de promover a melhor compreensão entre os povos;\n\nd) As reuniões de representantes de organizações ou de agrupamentos internacionais;\n\ne) As cerimónias e manifestações de carácter oficial ou comemorativo,\n\nCom excepção das exposições organizadas a título privado em armazéns ou estabelecimentos comerciais, para venda de mercadorias de países terceiros."
+  },
+  "514898e1c1438415": {
+   "fragment_id": "Artigo 96o",
+   "type": "artigo",
+   "heading": "Artigo 96o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 96o\n\nA franquia referida no no 1, alínea a), do artigo 95o limita-se às amostras que:\n\na) Sejam importadas gratuitamente como tal de países terceiros ou obtidas na manifestação a partir de mercadorias importadas a granel desses países;\n\nb) Sejam distribuídas ao público exclusivamente a título gratuito durante a manifestação para serem utilizadas ou consumidas pelas pessoas a quem foram distribuídas;\n\nc) Sejam identificáveis como amostras de carácter publicitário de pequeno valor unitário;\n\nd) Não sejam susceptíveis de comercialização e sejam, se for caso disso, apresentadas em embalagens contendo uma quantidade de mercadoria inferior à mais pequena quantidade da mesma mercadorias vendida efectivamente no comércio;\n\ne) No caso de produtos alimentares e bebidas não acondicionados na forma indicada na alínea d), sejam consumidos no local durante a manifestação;\n\nf) Estejam, pelo seu valor global e quantidade, em correspondência com a natureza da manifestação, o número de visitantes e a importância da participação do expositor."
+  },
+  "6679fe27c5fba2b9": {
+   "fragment_id": "Artigo 97o",
+   "type": "artigo",
+   "heading": "Artigo 97o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 97o\n\nA franquia referida no no 1, alínea b), do artigo 95o limita-se às mercadorias que:\n\na) Sejam consumidas ou destruídas durante a manifestação; e\n\nb) Estejam, pelo seu valor global e quantidade, em correspondência com a natureza da manifestação, o número de visitantes e a importância da participação do expositor."
+  },
+  "3201914d6dcecefc": {
+   "fragment_id": "Artigo 98o",
+   "type": "artigo",
+   "heading": "Artigo 98o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 98o\n\nA franquia referida no no 1, alínea d), do artigo 95o limita-se aos impressos e aos objectos de carácter publicitário que:\n\na) Sejam destinados exclusivamente a distribuição gratuita ao público no local da manifestação;\n\nb) Estejam, pelo seu valor global e quantidade, em correspondência com a natureza da manifestação, o número de visitantes e a importância da participação do expositor."
+  },
+  "b1d20722f7c62885": {
+   "fragment_id": "Artigo 99o",
+   "type": "artigo",
+   "heading": "Artigo 99o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 99o\n\nEstão excluídos da franquia referida no no 1, alíneas a) e b), do artigo 95o:\n\na) Os produtos alcoólicos;\n\nb) O tabaco e os produtos de tabaco;\n\nc) Os combustíveis e os carburantes."
+  },
+  "55e7ede6f1114b17": {
+   "fragment_id": "TÍTULO XXI — MERCADORIAS IMPORTADAS PARA EXAMES, ANÁLISES OU ENSAIOS",
+   "type": "divisao",
+   "heading": "TÍTULO XXI — MERCADORIAS IMPORTADAS PARA EXAMES, ANÁLISES OU ENSAIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO XXI — MERCADORIAS IMPORTADAS PARA EXAMES, ANÁLISES OU ENSAIOS"
+  },
+  "fa3b798c9637a5b5": {
+   "fragment_id": "Artigo 100o",
+   "type": "artigo",
+   "heading": "Artigo 100o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 100o\n\nSem prejuízo do disposto nos artigos 101o a 106o, são admitidas com franquia de direitos de importação as mercadorias destinadas a serem submetidas a exames, análises ou ensaios que tenham por finalidade determinar a sua composição, qualidade ou outras características técnicas, quer para fins de informação, quer para fins de investigação de carácter industrial ou comercial."
+  },
+  "26f5acf5835a09ad": {
+   "fragment_id": "Artigo 101o",
+   "type": "artigo",
+   "heading": "Artigo 101o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 101o\n\nSem prejuízo do disposto no artigo 104o, a concessão da franquia referida no artigo 100o fica sujeita à condição de que as mercadorias submetidas a exames, análises ou ensaios sejam inteiramente consumidas ou destruídas durante esses exames, análises ou ensaios."
+  },
+  "ecda5ba999726e97": {
+   "fragment_id": "Artigo 102o",
+   "type": "artigo",
+   "heading": "Artigo 102o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 102o\n\nEstão excluídas da franquia as mercadorias utilizadas em exames, análises ou ensaios que constituam por si próprios operações de promoção comercial."
+  },
+  "479083234e95ddce": {
+   "fragment_id": "Artigo 103o",
+   "type": "artigo",
+   "heading": "Artigo 103o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 103o\n\nA franquia só será concedida para quantidades de mercadorias estritamente necessárias à realização do objectivo para o qual foram importadas. Estas quantidades serão fixadas caso a caso pelas autoridades competentes, tendo em conta esse objectivo."
+  },
+  "974466391829593c": {
+   "fragment_id": "Artigo 104o",
+   "type": "artigo",
+   "heading": "Artigo 104o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 104o\n\n1. A franquia referida no artigo 100o abrange as mercadorias que não forem inteiramente consumidas ou destruídas durante os exames, análises ou ensaios, desde que os produtos remanescentes sejam, de acordo e sob o controlo das autoridades competentes:\n\n- quer completamente destruídos ou transformados por forma a ficarem sem valor comercial no fim dos exames, análises ou ensaios;\n\n- quer abandonados, sem qualquer encargo, a favor da Fazenda Nacional, se esta possibilidade estiver prevista pela legislação nacional;\n\n- quer, em circunstâncias devidamente justificadas, exportados do território aduaneiro da Comunidade.\n\n2. Para efeitos do no 1 entende-se por «produtos remanescentes» os produtos que resultarem dos exames, análises ou ensaios, bem como as mercadorias que não foram efectivamente utilizadas."
+  },
+  "b1e833ccd2f1fd34": {
+   "fragment_id": "Artigo 105o",
+   "type": "artigo",
+   "heading": "Artigo 105o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 105o\n\nSalvo se for aplicado o disposto no no 1 do artigo 104o, os produtos remanescentes após os exames, análises ou ensaios referidos no artigo 100o ficam sujeitos aos respectivos direitos de importação, segundo a taxa em vigor na data em que esses exames, análises ou ensaios se tenham concluído, em conformidade com a sua natureza e valor aduaneiro reconhecidos ou aceites nessa data pelas autoridades competentes.\n\nNo entanto, o interessado pode, de acordo e sob o controlo das autoridades competentes, reduzir os produtos remanescentes a desperdícios ou fragmentos. Neste caso, os direitos de importação serão os relativos aos desperdícios ou fragmentos na data em que foram obtidos."
+  },
+  "8217312aa25ee87c": {
+   "fragment_id": "Artigo 106o",
+   "type": "artigo",
+   "heading": "Artigo 106o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 106o\n\nO prazo para a realização dos exames, análises ou ensaios e das formalidades administrativas a cumprir para garantir a utilização das mercadorias para os fins previstos serão fixados pelas autoridades competentes."
+  },
+  "f0e7c42926d76c0c": {
+   "fragment_id": "TÍTULO XXII — REMESSAS DESTINADAS AOS ORGANISMOS COMPETENTES EM MATÉRIA DE PROTECÇÃO DE DIREITOS DE AUTOR OU DE PROTECÇÃO DA PROPRIEDADE INDUSTRIAL OU COMERCIAL",
+   "type": "divisao",
+   "heading": "TÍTULO XXII — REMESSAS DESTINADAS AOS ORGANISMOS COMPETENTES EM MATÉRIA DE PROTECÇÃO DE DIREITOS DE AUTOR OU DE PROTECÇÃO DA PROPRIEDADE INDUSTRIAL OU COMERCIAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO XXII — REMESSAS DESTINADAS AOS ORGANISMOS COMPETENTES EM MATÉRIA DE PROTECÇÃO DE DIREITOS DE AUTOR OU DE PROTECÇÃO DA PROPRIEDADE INDUSTRIAL OU COMERCIAL"
+  },
+  "e8d8c5f813b92ad2": {
+   "fragment_id": "Artigo 107o",
+   "type": "artigo",
+   "heading": "Artigo 107o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 107o\n\nSão admitidos com franquia de direitos de importação as marcas, modelos ou desenhos e os processos relativos ao seu depósito, bem como os processos de patentes de invenção ou semelhantes, destinados aos organismos competentes em matéria de protecção de direitos de autor ou de protecção da propriedade industrial ou comercial."
+  },
+  "5a4ec269678cbd84": {
+   "fragment_id": "TÍTULO XXIII — DOCUMENTAÇÃO DE CARÁCTER TURÍSTICO",
+   "type": "divisao",
+   "heading": "TÍTULO XXIII — DOCUMENTAÇÃO DE CARÁCTER TURÍSTICO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO XXIII — DOCUMENTAÇÃO DE CARÁCTER TURÍSTICO"
+  },
+  "7b6e2690b5c387c5": {
+   "fragment_id": "Artigo 108o",
+   "type": "artigo",
+   "heading": "Artigo 108o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 108o\n\nSem prejuízo do disposto nos artigos 50o a 59o são admitidos com franquia de direitos de importação:\n\na) Os documentos (prospectos desdobráveis, brochuras, livros, revistas, guias, cartazes emoldurados ou não, fotografias e ampliações fotográficas não emolduradas, mapas geográficos ilustrados ou não, diapositivos encaixilhados, calendários ilustrados) destinados a serem distribuídos gratuitamente e que tenham por objectivo essencial levar o público a visitar países estrangeiros, nomeadamente a assistir a reuniões ou a manifestações de carácter cultural, turístico, desportivo, religioso ou profissional, desde que esses documentos não contenham mais de 25 % de publicidade comercial privada - com exclusão de toda a publicidade comercial privada a favor de empresas comunitárias - e que a sua finalidade de propaganda de carácter geral seja evidente;\n\nb) As listas e anuários de hotéis estrangeiros publicados por organismos oficiais de turismo ou sob os seus auspícios e os horários relativos aos serviços de transporte explorados no estrangeiro, quando estes documentos se destinem a ser distribuídos gratuitamente e não contenham mais de 25 % de publicidade comercial privada, com exclusão de toda a publicidade comercial privada a favor de empresas comunitárias;\n\nc) O material técnico enviado aos representantes acreditados ou aos correspondentes designados pelos organismos oficiais nacionais de turismo, não destinado a distribuição, isto é, anuários, listas telefónicas ou de telex, listas de hotéis, catálogos de feiras, amostras de produtos de artesanato de valor insignificante, documentação sobre museus, universidades, estações termais ou outras instituições análogas."
+  },
+  "6dc1b25cd87a3d64": {
+   "fragment_id": "TÍTULO XXIV — DOCUMENTOS E ARTIGOS DIVERSOS",
+   "type": "divisao",
+   "heading": "TÍTULO XXIV — DOCUMENTOS E ARTIGOS DIVERSOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO XXIV — DOCUMENTOS E ARTIGOS DIVERSOS"
+  },
+  "e90954b2b79f4af6": {
+   "fragment_id": "Artigo 109o",
+   "type": "artigo",
+   "heading": "Artigo 109o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 109o\n\nSão admitidos com franquia de direitos de importação:\n\na) Os documentos enviados gratuitamente aos serviços públicos dos Estados-membros;\n\nb) As publicações de governos estrangeiros e as publicações de organismos oficiais internacionais destinados a distribuição gratuita;\n\nc) Os boletins de voto destinados a eleições organizadas por organismos estabelecidos em países terceiros;\n\nd) Os objectos destinados a servirem de meio de prova ou para fins semelhantes perante os tribunais ou outras instâncias oficiais dos Estados-membros;\n\ne) Os espécimes de assinaturas e as circulares impressas relativas a assinaturas, expedidos no âmbito de trocas usuais de informações entre serviços públicos ou estabelecimentos bancários;\n\nf) Os impressos de carácter oficial enviados aos bancos centrais dos Estados-membros;\n\ng) Os relatórios, resumos da actividade, notas, prospectos, boletins de subscrição e outros documentos elaborados por sociedades que tenham a sua sede num país terceiro e destinados aos portadores ou subscritores de títulos emitidos por essas sociedades;\n\nh) Os suportes registados (cartas perfuradas, registos sonoros, microfilmes, etc.) utilizados para transmissão de informações enviadas gratuitamente ao destinatário, desde que a franquia não dê lugar a abusos ou a distorções de concorrência importantes;\n\ni) Os processos, arquivos, formulários e outros documentos destinados a utilização em reuniões, conferências ou congressos internacionais, assim como as actas dessas manifestações;\n\nj) Os planos, desenhos técnicos, calcos, descrições e outros documentos semelhantes importados com vista à obtenção ou à execução de encomendas em países terceiros, ou à participação num concurso organizado no território aduaneiro da Comunidade;\n\nk) Os documentos destinados à utilização em exames organizados no território aduaneiro da Comunidade por instituições estabelecidas num país terceiro;\n\nl) Os formulários destinados a serem utilizados como documentos oficiais na circulação internacional de veículos ou de mercadorias, no âmbito de convenções internacionais;\n\nm) Os formulários, etiquetas, títulos de transporte e documentos semelhantes expedidos por empresas de transporte ou por empresas hoteleiras situadas num país terceiro para agências de viagens estabelecidas no território aduaneiro da Comunidade;\n\nn) Os formulários e títulos de transporte, conhecimentos, guias de remessa e outros documentos comerciais ou de escritório que tenham sido utilizados;\n\no) Os impressos oficiais emenados de autoridades de países terceiros ou internacionais, e os impressos que obedeçam aos modelos internacionais enviados para distribuição por associações de países terceiros a associações correspondentes situadas no território aduaneiro da Comunidade;\n\np) As fotografias, diapositivos e cartões para matrizes de fotografias, com ou sem legendas, enviados a agências de notícias ou a editores de jornais ou de publicações periódicas."
+  },
+  "5568f6c58bc01935": {
+   "fragment_id": "TÍTULO XXV — MATERIAIS ACESSÓRIOS DE ESTIVA E DE PROTECÇÃO DAS MERCADORIAS DURANTE O SEU TRANSPORTE",
+   "type": "divisao",
+   "heading": "TÍTULO XXV — MATERIAIS ACESSÓRIOS DE ESTIVA E DE PROTECÇÃO DAS MERCADORIAS DURANTE O SEU TRANSPORTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO XXV — MATERIAIS ACESSÓRIOS DE ESTIVA E DE PROTECÇÃO DAS MERCADORIAS DURANTE O SEU TRANSPORTE"
+  },
+  "523f103fac45264b": {
+   "fragment_id": "Artigo 110o",
+   "type": "artigo",
+   "heading": "Artigo 110o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 110o\n\nSão admitidos com franquia de direitos de importação os materiais diversos tais como: cordas, palha, tecidos, papéis e cartão, madeira, matérias plásticas, utilizados para a estiva e protecção - incluíndo a protecção térmica - das mercadorias durante o seu transporte de um país terceiro para o território aduaneiro da Comunidade, e que não sejam normalmente susceptíveis de voltar a ser usados."
+  },
+  "7904ef4b61d0a16f": {
+   "fragment_id": "TÍTULO XXVI — CAMAS DE PALHA, FORRAGENS E ALIMENTOS DESTINADOS A ANIMAIS DURANTE O SEU TRANSPORTE",
+   "type": "divisao",
+   "heading": "TÍTULO XXVI — CAMAS DE PALHA, FORRAGENS E ALIMENTOS DESTINADOS A ANIMAIS DURANTE O SEU TRANSPORTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO XXVI — CAMAS DE PALHA, FORRAGENS E ALIMENTOS DESTINADOS A ANIMAIS DURANTE O SEU TRANSPORTE"
+  },
+  "8a36c5d53e29a1d0": {
+   "fragment_id": "Artigo 111o",
+   "type": "artigo",
+   "heading": "Artigo 111o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 111o\n\nSão admitidos com franquia de direitos de importação as camas de palha, forragens e alimentos de qualquer natureza colocados nos meios de transporte em que viajam os animais de um país terceiro para o território aduaneiro da Comunidade e que se destinam a ser-lhes distribuídos durante o trajecto."
+  },
+  "f7de785b733f887b": {
+   "fragment_id": "TÍTULO XXVI — CARBURANTES E LUBRIFICANTES EXISTENTES EM VEÍCULOS TERRESTRES A MOTOR",
+   "type": "divisao",
+   "heading": "TÍTULO XXVI — CARBURANTES E LUBRIFICANTES EXISTENTES EM VEÍCULOS TERRESTRES A MOTOR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO XXVI — CARBURANTES E LUBRIFICANTES EXISTENTES EM VEÍCULOS TERRESTRES A MOTOR"
+  },
+  "36ddda67c21bc805": {
+   "fragment_id": "Artigo 112o",
+   "type": "artigo",
+   "heading": "Artigo 112o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 112o\n\n1. Sem prejuízo do disposto nos artigos 113o a 115o, são admitidos com franquia de direitos de importação:\n\na) O carburante contido nos reservatórios normais dos veículos automóveis de turismo, dos veículos automóveis comerciais e dos motociclos que entrem no território aduaneiro da Comunidade;\n\nb) O carburante contido em reservatórios portáteis transportados em veículos automóveis de turismo e motociclos até 10 litros por veículo e sem prejuízo das disposições nacionais em matéria de detenção e transporte de carburante;\n\n2. Para efeitos do no 1 entendem-se por:\n\na) «veículo automóvel comercial» qualquer veículo rodoviário a motor que, pelo seu tipo de construção e equipamento, esteja apto e se destine a transportar com ou sem remuneração:\n\n- mais de nove pessoas, incluindo o condutor,\n\n- mercadorias,\n\nassim como qualquer veículo rodoviário para uso especial que não seja o transporte propriamente dito;\n\nb) «veículo automóvel de turismo» qualquer veículo automóvel não abrangido pela definição da alínea a);\n\nc) «reservatórios normais» os reservatórios fixados com carácter permanente pelo construtor em todos os veículos automóveis do mesmo tipo que o veículo em causa e cuja instalação permanente permite a utilização directa do carburante, tanto para a tracção dos veículos como, se for caso disso, para o funcionamento dos sistemas de refrigeração.\n\nConsideram-se igualmente reservatórios normais os reservatórios a gás adaptados aos veículos a motor que permitam a utilização directa do gás como carburante."
+  },
+  "3ce778de91a2dd9a": {
+   "fragment_id": "Artigo 113o",
+   "type": "artigo",
+   "heading": "Artigo 113o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 113o\n\nRelativamente ao carburante contido nos reservatórios normais dos veículos automóveis comerciais, os Estados-membros poderão limitar a 200 litros a aplicação da franquia por veículo e por viagem."
+  },
+  "a26518e25c54bdf9": {
+   "fragment_id": "Artigo 114o",
+   "type": "artigo",
+   "heading": "Artigo 114o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 114o\n\nOs Estados-membros podem limitar a quantidade de carburante importada com franquia relativamente:\n\n- aos veículos automóveis comerciais que efectuam transportes internacionais para a sua zona fronteiriça até uma profundidade máxima de 25 quilómetros em linha recta, se esses transportes forem efectuados por pessoas que residam nessa zona,\n\n- aos veículos automóveis de turismo pertencentes a pessoas que residam na zona fronteiriça referida no no 2 do artigo 49o."
+  },
+  "af64c79f6344cf4f": {
+   "fragment_id": "Artigo 115o",
+   "type": "artigo",
+   "heading": "Artigo 115o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 115o\n\nOs carburantes importados com franquia nos termos dos artigos 112o a 114o não podem ser utilizados num veículo diferente daquele em que foram importados, nem ser retirados desse veículo e armazenados, salvo durante as reparações necessárias do referido veículo, nem ser cedidos a título oneroso ou gratuito pelo beneficiário da franquia.\n\nO não cumprimento do disposto no primeiro parágrafo dará origem à aplicação dos direitos de importação relativos aos produtos em causa, segundo a taxa em vigor na data do não cumprimento dessas disposições, em conformidade com a sua natureza e valor aduaneiro reconhecidos ou aceites nessa data pelas autoridades competentes."
+  },
+  "01bb4c4c4f73741b": {
+   "fragment_id": "Artigo 116o",
+   "type": "artigo",
+   "heading": "Artigo 116o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 116o\n\nA franquia referida no artigo 112o aplica-se igualmente aos lubrificantes que se encontrem nos veículos automóveis e que correspondam às necessidades normais do seu funcionamento durante o transporte em causa."
+  },
+  "d12b87de3d7f221b": {
+   "fragment_id": "TÍTULO XXVIII — MATERIAIS DESTINADOS À CONSTRUÇÃO, MANUTENÇÃO OU DECORAÇÃO DE MONUMENTOS COMEMORATIVOS OU DE CEMITÉRIOS DE VÍTIMAS DE GUERRA",
+   "type": "divisao",
+   "heading": "TÍTULO XXVIII — MATERIAIS DESTINADOS À CONSTRUÇÃO, MANUTENÇÃO OU DECORAÇÃO DE MONUMENTOS COMEMORATIVOS OU DE CEMITÉRIOS DE VÍTIMAS DE GUERRA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO XXVIII — MATERIAIS DESTINADOS À CONSTRUÇÃO, MANUTENÇÃO OU DECORAÇÃO DE MONUMENTOS COMEMORATIVOS OU DE CEMITÉRIOS DE VÍTIMAS DE GUERRA"
+  },
+  "6e47e8be56972fe0": {
+   "fragment_id": "Artigo 117o",
+   "type": "artigo",
+   "heading": "Artigo 117o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 117o\n\nSão admitidas com franquia de direitos de importação as mercadorias de qualquer natureza importadas por organizações aprovadas para este fim pelas autoridades competentes, para serem utilizadas na construção, manutenção ou decoração de cemitérios, sepulturas e monumentos comemorativos das vítimas de guerra de países terceiros inumadas na Comunidade."
+  },
+  "f0e01ca2933f4cac": {
+   "fragment_id": "TÍTULO XXIX — CAIXÕES, URNAS FUNERÁRIAS E ARTIGOS DE ORNAMENTAÇÃO FUNERÁRIA",
+   "type": "divisao",
+   "heading": "TÍTULO XXIX — CAIXÕES, URNAS FUNERÁRIAS E ARTIGOS DE ORNAMENTAÇÃO FUNERÁRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO XXIX — CAIXÕES, URNAS FUNERÁRIAS E ARTIGOS DE ORNAMENTAÇÃO FUNERÁRIA"
+  },
+  "04a00c7131264333": {
+   "fragment_id": "Artigo 118o",
+   "type": "artigo",
+   "heading": "Artigo 118o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 118o\n\nSão admitidos com franquia de direitos de importação:\n\na) Os caixões contendo os corpos e as urnas contendo as cinzas de defuntos, assim como flores, coroas e outros objectos de ornamentação que normalmente os acompanham;\n\nb) As flores, coroas e outros objectos de ornamentação trazidas pelas pessoas residentes em países terceiros que venham assistir a funerais ou que se destinem a decorar túmulos situados no território aduaneiro da Comunidade, desde que a natureza e quantidade dessas importações não traduzam qualquer intenção de ordem comercial."
+  },
+  "10acc9fc295fc971": {
+   "fragment_id": "CAPÍTULO II — FRANQUIA DE DIREITOS DE EXPORTAÇÃO",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — FRANQUIA DE DIREITOS DE EXPORTAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — FRANQUIA DE DIREITOS DE EXPORTAÇÃO"
+  },
+  "171607d4f9b6ca9b": {
+   "fragment_id": "TÍTULO I — REMESSAS DE VALOR INSIGNIFICANTE",
+   "type": "divisao",
+   "heading": "TÍTULO I — REMESSAS DE VALOR INSIGNIFICANTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — REMESSAS DE VALOR INSIGNIFICANTE"
+  },
+  "c8b87298f0dffc01": {
+   "fragment_id": "Artigo 119o",
+   "type": "artigo",
+   "heading": "Artigo 119o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 119o\n\nBeneficiam da franquia de direitos de exportação as remessas expedidas para o destinatário como objectos de correspondência postal ou encomendas postais contendo mercadorias cujo valor global não exceda 10 ECUs."
+  },
+  "c06e9ea50a7edf6e": {
+   "fragment_id": "TÍTULO II — ANIMAIS DOMÉSTICOS EXPORTADOS POR OCASIAO DE UMA TRANSFERÊNCIA DE EXPLORAÇÃO AGRÍCOLA DA COMUNIDADE PARA UM PAÍS TERCEIRO",
+   "type": "divisao",
+   "heading": "TÍTULO II — ANIMAIS DOMÉSTICOS EXPORTADOS POR OCASIAO DE UMA TRANSFERÊNCIA DE EXPLORAÇÃO AGRÍCOLA DA COMUNIDADE PARA UM PAÍS TERCEIRO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — ANIMAIS DOMÉSTICOS EXPORTADOS POR OCASIAO DE UMA TRANSFERÊNCIA DE EXPLORAÇÃO AGRÍCOLA DA COMUNIDADE PARA UM PAÍS TERCEIRO"
+  },
+  "1c8557fc796023c4": {
+   "fragment_id": "Artigo 120o",
+   "type": "artigo",
+   "heading": "Artigo 120o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 120o\n\n1. Beneficiam da franquia de direitos de exportação os animais que constituam o gado de uma empresa agrícola que, após ter cessado a sua actividade na Comunidade, transfere a sua exploração para um país terceiro.\n\n2. A franquia referida no no 1 limita-se aos animais cujo numero esteja em relação com a natureza e a importância dessa empresa agrícola."
+  },
+  "256e8e2492e403e2": {
+   "fragment_id": "TÍTULO III — PRODUTOS OBTIDOS PELOS PRODUTORES AGRÍCOLAS EM PROPRIEDADES SITUADAS NA COMUNIDADE",
+   "type": "divisao",
+   "heading": "TÍTULO III — PRODUTOS OBTIDOS PELOS PRODUTORES AGRÍCOLAS EM PROPRIEDADES SITUADAS NA COMUNIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — PRODUTOS OBTIDOS PELOS PRODUTORES AGRÍCOLAS EM PROPRIEDADES SITUADAS NA COMUNIDADE"
+  },
+  "43c3eb3bc9328d55": {
+   "fragment_id": "Artigo 121o",
+   "type": "artigo",
+   "heading": "Artigo 121o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 121o\n\n1. Beneficiam da franquia de direitos de exportação os produtos da agricultura ou da criação de animais obtidos no território aduaneiro da Comunidade em propriedades limítrofes exploradas, na qualidade de proprietários ou locatários, por produtores agrícolas que tenham a sede da sua exploração num país terceiro na proximidade imediata do território aduaneiro da Comunidade.\n\n2. Para beneficiarem do disposto no no 1, os produtos obtidos de animais domésticos devem provir de animais originários do país terceiro em causa ou satisfazer os requisitos para circularem livremente."
+  },
+  "2ac5aba82b67d3fc": {
+   "fragment_id": "Artigo 122o",
+   "type": "artigo",
+   "heading": "Artigo 122o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 122o\n\nA franquia referida no no 1 do artigo 121o limita-se aos produtos que não tenham sido submetidos a qualquer tratamento diferente daquele a que habitualmente se procede após a colheita ou a produção."
+  },
+  "6533d1e217edf513": {
+   "fragment_id": "Artigo 123o",
+   "type": "artigo",
+   "heading": "Artigo 123o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 123o\n\nA franquia só e concedida para produtos introduzidos no país terceiro em causa pelo produtor agrícola ou por sua conta."
+  },
+  "948e9a0e62eda011": {
+   "fragment_id": "TÍTULO IV — SEMENTES EXPORTADAS POR PRODUTORES AGRÍCOLAS PARA SEREM UTILIZADAS EM PROPRIEDADES SITUADAS EM PAÍSES TERCEIROS",
+   "type": "divisao",
+   "heading": "TÍTULO IV — SEMENTES EXPORTADAS POR PRODUTORES AGRÍCOLAS PARA SEREM UTILIZADAS EM PROPRIEDADES SITUADAS EM PAÍSES TERCEIROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — SEMENTES EXPORTADAS POR PRODUTORES AGRÍCOLAS PARA SEREM UTILIZADAS EM PROPRIEDADES SITUADAS EM PAÍSES TERCEIROS"
+  },
+  "ab6428308f34aa0e": {
+   "fragment_id": "Artigo 124o",
+   "type": "artigo",
+   "heading": "Artigo 124o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 124o\n\nBeneficiam da franquia de direitos de exportação as sementes destinadas a serem utilizadas em propriedades situadas num país terceiro na proximidade imediata do território aduaneiro da Comunidade e exploradas, na qualidade de proprietários ou locatários, por produtores agrícolas que tenham a sede da sua exploração no referido território na proximidade imediata do país terceiro em causa."
+  },
+  "5f1c0a248bd9524e": {
+   "fragment_id": "Artigo 125o",
+   "type": "artigo",
+   "heading": "Artigo 125o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 125o\n\nA franquia referida no artigo 124o limita-se às quantidades de sementes necessárias à exploração das propriedades.\n\nSó é concedida para sementes directamente exportadas do território aduaneiro da Comunidade pelo produtor agrícola ou por sua conta."
+  },
+  "524e2bf47ccce764": {
+   "fragment_id": "TÍTULO V — FORRAGENS E ALIMENTOS QUE ACOMPANHEM OS ANIMAIS POR OCASIAO DA SUA EXPORTAÇÃO",
+   "type": "divisao",
+   "heading": "TÍTULO V — FORRAGENS E ALIMENTOS QUE ACOMPANHEM OS ANIMAIS POR OCASIAO DA SUA EXPORTAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V — FORRAGENS E ALIMENTOS QUE ACOMPANHEM OS ANIMAIS POR OCASIAO DA SUA EXPORTAÇÃO"
+  },
+  "e76e119411be933f": {
+   "fragment_id": "Artigo 126o",
+   "type": "artigo",
+   "heading": "Artigo 126o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 126o\n\nBeneficiam da franquia de direitos de exportação as forragens e alimentos de qualquer espécie postos nos meios de transporte utilizados para a expedição de animais do território aduaneiro da Comunidade para um país terceiro para serem distribuídos durante a viagem."
+  },
+  "9d1e5bba39d352b5": {
+   "fragment_id": "CAPÍTULO III — DISPOSIÇÕES GERAIS E FINAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — DISPOSIÇÕES GERAIS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — DISPOSIÇÕES GERAIS E FINAIS"
+  },
+  "e3ac2263dd31c9be": {
+   "fragment_id": "Artigo 127o",
+   "type": "artigo",
+   "heading": "Artigo 127o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 127o\n\n1. Sem prejuizo do disposto no no 2, as disposições do capítulo I aplicam-se tanto às mercadorias declaradas para livre prática provenientes directamente de países terceiros, como às declaradas para livre prática após terem sido colocadas sob um outro regime aduaneiro.\n\n2. Os casos em que a franquia não possa ser concedida a mercadorias declaradas para livre prática após terem sido colocadas sob um outro regime aduaneiro, serão determinados segundo o procedimento referido nos no 2 e 3 do artigo 143o."
+  },
+  "0ee70e4108d61444": {
+   "fragment_id": "Artigo 128o",
+   "type": "artigo",
+   "heading": "Artigo 128o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 128o\n\nQuando a franquia de direitos de importação for prevista sob condição de ser dado às mercadorias um determinado uso pelo destinatário, apenas podem conceder esta franquia as autoridades competentes do Estado-membro em cujo território seja dado esse uso às mercadorias em causa."
+  },
+  "25c1f5de5511241e": {
+   "fragment_id": "Artigo 129o",
+   "type": "artigo",
+   "heading": "Artigo 129o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 129o\n\nAs autoridades competentes dos Estados-membros tomarão todas as medidas apropriadas para que as mercadorias colocadas em livre prática com o beneficio de uma franquia de direitos de importação em função do uso que lhes deve ser dado pelo seu destinatário, não possam ser utilizadas para outros fins sem que sejam pagos os direitos de importação respectivos, salvo se esse uso alternativo estiver em conformidade com as condições fixadas pelo presente regulamento."
+  },
+  "03270e1e047112c1": {
+   "fragment_id": "Artigo 130o",
+   "type": "artigo",
+   "heading": "Artigo 130o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 130o\n\nQuando uma mesma pessoa satisfizer simultaneamente as condições requeridas para a concessão de uma franquia de direitos de importação e de direitos de exportação ao abrigo de diferentes disposições do presente regulamento, as disposições em causa ser-lhe-ao aplicadas cumulativamente."
+  },
+  "ae65efce20a1d998": {
+   "fragment_id": "Artigo 131o",
+   "type": "artigo",
+   "heading": "Artigo 131o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 131o\n\nQuando o presente regulamento previr que a concessão da franquia ficará subordinada ao cumprimento de certas condições, a prova de que essas condições foram satisfeitas deverá ser apresentada pelo interessado a contento das autoridades competentes."
+  },
+  "9c3ac3c251dae145": {
+   "fragment_id": "Artigo 132o",
+   "type": "artigo",
+   "heading": "Artigo 132o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 132o\n\nQuando uma franquia de direitos de importação ou de direitos de exportação for concedida no limite de determinado montante em ECUs, os Estados-membros têm a faculdade de arredondar por excesso ou por defeito a soma que resultar da conversão desse montante em moeda nacional.\n\nOs Estados-membros têm igualmente a faculdade de manter inalterado o contravalor em moeda nacional do montante fixado em ECUs se, aquando da adaptação anual prevista no no 2, primeiro parágrafo, do artigo 2o do Regulamento (CEE) no 2779/78 do Conselho, de 23 de Novembro de 1978, que aplica a unidade de conta europeia (UCE) aos actos adoptados no domínio aduaneiro (4), a conversão desse montante implicar, antes do arredondamento previsto no parágrafo anterior, uma modificação do contravalor expresso em moeda nacional inferior a 5 %."
+  },
+  "3a95057399b61b7e": {
+   "fragment_id": "Artigo 133o",
+   "type": "artigo",
+   "heading": "Artigo 133o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 133o\n\n1. O disposto no presente regulamento não prejudica a concessão pelos Estados-membros:\n\na) De franquias resultantes da aplicação da Convenção de Viena sobre as Relações Diplomáticas, de 18 de Abril de 1961, de Convenção de Viena sobre as Relações Consulares, de 24 de Abril de 1963, bem como da Convenção de Nova Iorque, de 16 de Dezembro de 1969, sobre as missões especiais;\n\nb) De franquias resultantes de privilégios habituais concedidos por força de acordos internacionais ou de acordos para estabelecimento de sedes, dos quais é parte contratante quer um país terceiro, quer uma organização internacional, incluindo as franquias concedidas por ocasião de reuniões internacionais;\n\nc) De franquias resultantes de privilégios habituais concedidos por força de acordos internacionais concluídos pelo conjunto dos Estados-membros e que criem uma instituição ou organização de direito internacional de carácter cultural ou científico;\n\nd) De franquias resultantes de privilégios e imunidades habituais concedidos no âmbito de acordos de cooperação cultural, científica ou técnica concluídos com países terceiros;\n\ne) De franquias especiais instituídas no âmbito de acordos concluídos com países terceiros que prevêem acções comuns para protecção das pessoas ou do ambiente;\n\nf) De franquias especiais instituídas no âmbito de acordos concluídos com países terceiros limítrofes, justificadas pela natureza do comércio fronteiriço com os referidos países.\n\n2. Quando uma convenção internacional não abrangida por qualquer uma das categorias referidas no no 1, que um Estado-membro deseje concluir, previr a concessão de franquias, esse Estado-membro submeterá à Comissão um pedido para aplicação dessas franquias, comunicando-lhe todos os elementos de informação necessários.\n\nA decisão sobre este pedido será tomada segundo o procedimento previsto nos no 2 e 3 do artigo 143o.\n\n3. A comunicação referida no no 2 não será exigida quando a convenção internacional em causa previr a concessão de franquias que não excedam os limites fixados pela legislação comunitária."
+  },
+  "ef16d0db715b5789": {
+   "fragment_id": "Artigo 134o",
+   "type": "artigo",
+   "heading": "Artigo 134o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 134o\n\n1. Os Estados-membros comunicarão à Comissão as disposições aduaneiras contidas nas convenções e acordos internacionais do tipo das referidas nas alíneas b), c), d), e) e f) do no 1 e no no 3 do artigo 133o concluídos após a entrada em vigor do presente regulamento.\n\n2. A Comissão transmitirá aos outros Estados-membros o texto das convenções e acordos que lhe forem comunicados nos termos do disposto no no 1."
+  },
+  "97e131737ed74ba4": {
+   "fragment_id": "Artigo 135o",
+   "type": "artigo",
+   "heading": "Artigo 135o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 135o\n\nO disposto no presente regulamento não prejudica a manutenção:\n\na) Pela Grécia, do estatuto especial concedido ao Monte Athos tal como garantido pelo artigo 105o da Constituição helénica;\n\nb) Pela França, das franquias resultantes da Convenção de 22 e 23 de Novembro de 1867 entre este país e os Vales de Andorra."
+  },
+  "8c62fe12068eaf99": {
+   "fragment_id": "Artigo 136o",
+   "type": "artigo",
+   "heading": "Artigo 136o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 136o\n\n1. Até ao estabelecimento e disposições comunitárias nos domínios em causa, os Estados-membros podem conceder franquias especiais:\n\na) Às forças armadas estacionadas no território de um Estado-membro que não sirvam sob a sua bandeira, no cumprimento de acordos internacionais;\n\nb) Às companhías aéreas de países terceiros no cumprimento de acordos bilaterais baseados na reciprocidade.\n\n2. Até ao estabelecimento de disposições comunitárias no domínio em causa, o presente regulamento não prejudica a manutenção pelos Estados-membros de franquias concedidas:\n\na) Aos marinheiros da marinha mercante;\n\nb) Aos trabalhadores que regressem ao seu país depois de terem permanecido fora do território aduaneiro da Comunidade devido à sua actividade profissional durante pelo menos 6 meses."
+  },
+  "55e37101be84a544": {
+   "fragment_id": "Artigo 137o",
+   "type": "artigo",
+   "heading": "Artigo 137o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 137o\n\n1. Até ao estabelecimento de disposições comunitárias no domínio em causa, os Estados-membros podem conceder franquias especiais aquando da importação de instrumentos e aparelhos utilizados na investigação, estabelecimento de diagnósticos ou realização de tratamentos médicos.\n\n2. A franquia referida no no 1 limita-se aos instrumentos e aparelhos doados a organismos de saúde, a serviços hospitalares e a institutos de investigação aprovados pelas autoridades competentes dos Estados-membros para receberem estes objectos com franquia, ou que sejam comprados por esses organismos de saúde, hospitais ou institutos de investigação, inteiramente com fundos fornecidos por uma organização de caridade ou filantrópica ou com a ajuda de contribuições voluntárias, e desde que se verifique:\n\na) Que instrumentos e aparelhos equivalentes não são fabricados na Comunidade,\n\nb) Que a oferta dos instrumentos ou aparelhos em causa não esconde qualquer intenção de ordem comercial por parte do doador.\n\n3. A franquia é igualmente aplicável:\n\na) Às peças sobresselentes, elementos e acessórios específicos de instrumentos e aparelhos, desde que essas peças sobresselentes, elementos e acessórios sejam importados ao mesmo tempo que tais instrumentos ou aparelhos, ou, se forem importados posteriormente, que sejam reconhecidos como sendo destinados a instrumentos ou aparelhos admitidos anteriormente com franquia;\n\nb) Às ferramentas a utilizar para a manutenção, controlo, calibragem ou reparação dos instrumentos ou aparelhos, desde que essas ferramentas sejam importadas ao mesmo tempo que tais instrumentos ou aparelhos, ou, se forem importadas posteriormente, que sejam reconhecidas como sendo destinadas a instrumentos ou aparelhos admitidos anteriormente com franquia."
+  },
+  "ff8a357fc775ab00": {
+   "fragment_id": "Artigo 138o",
+   "type": "artigo",
+   "heading": "Artigo 138o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 138o\n\nPara efeitos da aplicação da franquia referida no artigo 137o, os Estados-membros procedem da seguinte forma:\n\na) Quando a autoridade competente de um Estado-membro tencionar conceder a admissão com franquia de aparelhos ou instrumentos tais como os definidos no no 1 do artigo 137o, consultará os outros Estados-membros.\n\nb) Se, no prazo de dois meses, não for dada qualquer resposta à autoridade consulente, esta considerará que não existe nos Estados-membros consultados produção de instrumentos equivalentes à do que foi objecto do pedido de franquia e que aqueles Estados-membros não têm qualquer objecção quanto à eventual natureza comercial da operação.\n\nc) Quando o prazo de dois meses se revelar insuficiente para a instância consultada, esta informará do facto a autoridade consulente, precisando o prazo dentro do qual será de aguardar uma resposta definitiva da sua parte, prazo esse que não poderá, todavia, exceder dois meses.\n\nd) Se no fim do processo de consulta previsto nas alíneas a) a c), a autoridade consulente verificar que, por um lado, as condições referidas no no 2, alíneas a) e b), do artigo 137o se encontram satisfeitas e que, por outro lado, nenhum Estado-membro alegou ter a questão particular importância para os seus interesses industriais ou esconder qualquer intenção de ordem comercial, concederá a franquia; caso contrário, recusá-la-à.\n\ne) Os Estados-membros enviarão à Comissão a lista de instrumentos, aparelhos, peças sobresselentes, elementos acessórios e ferramentas cujo valor aduaneiro seja superior a 3 000 ECUs e cuja admissão com franquia tenha autorizado. Esta comunicação efectuar-se-à durante o primeiro semestre de cada ano para os objectos em causa que tenham dado lugar a uma autorização de admissão com franquia durante o ano precedente.\n\nA Comissão enviará essas listas aos Estados-membros.\n\nf) Antes de 1 de Julho de 1968, a Comissão fará um relatório ao Conselho propondo as modificações que lhe pareçam necessárias."
+  },
+  "eb89e39c90f4a1f1": {
+   "fragment_id": "Artigo 139o",
+   "type": "artigo",
+   "heading": "Artigo 139o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 139o\n\nO presente regulamento aplica-se sem prejuízo:\n\na) Do Regulamento (CEE) no 754/76 do Conselho, de 25 de Março de 1976, relativo ao tratamento pautal aplicável às mercadorias de retorno ao território aduaneiro da Comunidade (5);\n\nb) Das disposições em vigor em matéria de abastecimento de navios, aeronaves e comboios internacionais;\n\nc) Das disposições em matéria de franquia instituídas por outros actos comunitários."
+  },
+  "e61cd364c5496355": {
+   "fragment_id": "Artigo 140o",
+   "type": "artigo",
+   "heading": "Artigo 140o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 140o\n\n1. São revogados a partir da data de aplicação do presente regulamento:\n\na) O Regulamento (CEE) no 1544/69 do Conselho, de 23 de Julho de 1969, relativo ao tratamento pautal aplicável às mercadorias contidas na bagagem pessoal dos viajantes (6), com a última redacção que lhe foi dada pelo Regulamento (CEE) no 3313/81 (7);\n\nb) O Regulamento (CEE) no 1410/74 do Conselho, de 4 de Junho de 1974, relativo ao tratamento pautal aplicável às mercadorias importadas para livre prática por ocasião de catástrofes que afectem o território de um ou de vários Estados-membros (8);\n\nc) O Regulamento (CEE) no 1818/75 do Conselho, de 10 de Julho de 1975, relativo aos direitos niveladores agrícolas, montantes compensatórios e outras imposições cobradas na importação aplicáveis aos produtos agrícolas e a certas mercadorias que resultem da sua transformação, contidos na bagagem pessoal dos viajantes (9);\n\nd) O Regulamento (CEE) no 1798/75 com a última redacção que lhe foi dada pelo Regulamento (CEE) no 608/82 (10);\n\ne) O Regulamento (CEE) no 1990/76 do Conselho, de 22 de Julho de 1976, relativo ao tratamento pautal aplicável às mercadorias importadas para ensaios (11);\n\nf) O Regulamento (CEE) no 3060/78 do Conselho, de 19 de Dezembro de 1978, que institui uma franquia de direitos de importação para mercadorias que sejam objecto de pequenas remessas sem carácter comercial provenientes de países terceiros (12), com a redacção que lhe foi dada pelo Regulamento (CEE) no 3313/81 (13);\n\ng) O Regulamento (CEE) no 1028/79 do Conselho, de 8 de Maio de 1979, relativo à importação com franquia de direitos da pauta aduaneira comum de objectos destinados a deficientes (14).\n\n2. As referências feitas aos regulamentos referidos no no 1 devem entender-se como feitas ao presente regulamento."
+  },
+  "5c4e66ca352eb2a1": {
+   "fragment_id": "Artigo 141o",
+   "type": "artigo",
+   "heading": "Artigo 141o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 141o\n\n1. È instituído um Comité de Franquias Aduaneiras, a seguir denominado «Comité», composto por representantes dos Estados-membros e presidido por um representante da Comissão.\n\n2. O Comité adoptará o seu regulamento interno."
+  },
+  "b2f6788cded46a87": {
+   "fragment_id": "Artigo 142o",
+   "type": "artigo",
+   "heading": "Artigo 142o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 142o\n\nO Comité examinará qualquer questão relativa à aplicação do presente regulamento que lhe seja apresentada pelo seu presidente, quer por sua iniciativa, quer a pedido do representante de um Estado-membro."
+  },
+  "6231e2800bd44209": {
+   "fragment_id": "Artigo 143o",
+   "type": "artigo",
+   "heading": "Artigo 143o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 143o\n\n1. As disposições necessárias à aplicação do presente regulamento, com excepção dos títulos e artigos seguintes:\n\n- capítulo I, títulos V, XIV, XIX, XXII, XXIII, XXV, XXVI, XXVIII e XXIX,\n\n- capítulo II, IV e V,\n\n- capítulo III, no 1 do artigo 133o e artigo 135o,\n\nserão adoptadas segundo o procedimento definido nos no 2 e 3.\n\n2. O representante da Comissão submeterá ao Comité um projecto das disposições a tomar. O Comité emitirá o seu parecer sobre esse projecto num prazo fixado pelo presidente em função da urgência da questâo em causa. Os pareceres serão emitidos por maioria de 45 votos, sendo aos votos dos Estados-membros atribuída a ponderação prevista no no 2 do artigo 148o do Tratado. O presidente não participa na votação.\n\n3. a) Quando as medidas previstas estiverem conformes com o parecer do Comité, a Comissão adoptá-las-à.\n\nb) Quando as medidas previstas não estiverem conformes com o parecer do Comité ou na falta do parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar.\n\nO Conselho deliberará por maioria qualificada.\n\nc) Se findo um prazo de três meses a contar da data da apresentação da proposta ao Conselho, este não tiver tomado uma decisão, as medidas propostas serão adoptadas pela Comissão."
+  },
+  "db4c4e931d0f1548": {
+   "fragment_id": "Artigo 144o",
+   "type": "artigo",
+   "heading": "Artigo 144o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 144o\n\nA referência ao Comité prevista no artigo 7o do Regulamento (CEE) no 1798/75 feita nos regulamentos que a seguir se indicam é substituída pela referência ao Comité previsto no artigo 141o do presente regulamento.\n\na) Artigo 15o do Regulamento (CEE) no 754/76;\n\nb) Artigo 25o do Regulamento (CEE) no 1430/79 do Conselho, de 2 de Julho de 1979, relativo ao reembolso ou à remissão de pagamento dos direitos de importação ou de exportação (15);\n\nc) Artigo 10o do Regulamento (CEE) no 1697/79, do Conselho, de 24 de Gulho de 1979, respeitante à cobrança «a posteriori» dos direitos de importação ou dos direitos de exportação que não tenham sido exigidos ao devedor por mercadorias declaradas para um regime aduaneiro que implique a obrigação de pagamento dos referidos direitos (16)."
+  },
+  "107ff0cfd09f2742": {
+   "fragment_id": "Artigo 145o",
+   "type": "artigo",
+   "heading": "Artigo 145o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 145o\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da publicação no Jornal Oficial des Comunidades Europeias.\n\nAplica-se a partir de 1 de Julho de 1984.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 28 de Maio de 1983.\n\nPelo Conselho\n\nO Presidente\n\nJ. ERTL\n\n(1) JO no C 4 de 7. 1. 1980, p. 59.(2) JO no C 72 de 24. 3. 1980, p. 20.(3) JO no L 184 de 15. 7. 1975, p. 1.(4) JO no L 333 de 30. 11. 1978, p. 5.(5) JO no L 89 de 2. 4. 1976, p. 1.(6) JO no L 191 de 5. 8. 1969, p. 1.(7) JO no L 334 de 21. 11. 1981, p. 1.(8) JO no L 150 de 7. 6. 1974, p. 4.(9) JO no L 185 de 16. 7. 1975, p. 3.(10) JO no L 74 de 18. 3. 1982, p. 4.(11) JO no L 219 de 12. 8. 1976, p. 14.(12) JO no L 366 de 28. 12. 1978, p. 1.(13) JO no L 334 de 21. 11. 1981, p. 1.(14) JO no L 134 de 31. 5. 1979, p. 8.(15) JO no L 175 de 12. 7. 1979, p. 1.(16) JO no L 197 de 3. 8. 1979, p. 1."
+  },
+  "cee7a9c8a134eb54": {
+   "fragment_id": "ANEXO I — A. Livros, publicações e documentos",
+   "type": "divisao",
+   "heading": "ANEXO I — A. Livros, publicações e documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — A. Livros, publicações e documentos\n\n\"\" ID=\"1\" ASSV=\"3\">37.05> ID=\"2\">Chapas, peliculas não perfuradas e peliculas perfuradas, com excepção dos filmes cinematográficos, impressionadas e reveladas, negativas ou positivas:\"> ID=\"2\">ex A. Microfilmes de livros, de álbuns ou de livros de imagens e de álbuns para desenhar ou colorir para crianças, de livros-cadernos, de colecções de problemas de palavras cruzadas, de jornais e periódicos e de documentos ou relatórios de carácter não comercial e ilustrações isoladas, páginas impressas e provas destinadas à produção de livros\"> ID=\"2\">ex B. Filmes de reprodução destinados à produção de livros\"> ID=\"1\">49.03> ID=\"2\">Álbuns ou livros de ilustrações e álbuns para desenhar ou colorir, brochados, cartonados ou encadernados, para crianças.\"> ID=\"1\" ASSV=\"2\">49.11> ID=\"2\">Estampas, ilustrações, fotografias e outros impressos, obtidos por qualquer processo:\"> ID=\"2\">ex B. outros:\n\n- ilustrações isoladas, páginas impressas e provas em papel destinadas à produção de livros, incluindo as suas micro-reproduções (1)\n\n- Micro-reproduções de livros, de álbuns ou de livros de imagens e de álbuns para desenhar ou colorir para crianças, de livros-cadernos, de colecções de problemas de palavras cruzadas, de jornais e periódicos e de documentos ou relatórios de carácter não comercial (1)\n\n- Catálogos de livros e de publicações, postos à venda por uma casa editora ou por uma livraria estabelecidas fora do território das Comunidades Europeias\n\n- Catálogos de filmes, de registos ou de qualquer outro material visual e auditivo de carácter educativo, cientifico ou cultural\n\n- Mapas relativos a dominios cientificos tais como geologia, zoologia, botânica, mineralogia, paleontologia, arqueologia, etnologia, meteorologia, climatologia e geofisica, assim como diagramas meteorológicos e geofisicos\n\n- Cartazes de propaganda turistica e publicações turisticas (brochuras, guias, horários, prospectos desdobráveis e publicações semelhantes), ilustrados ou não, incluindo os que foram editados por empresas privadas, para promoção junto do público de viagens a efectuar fora do território das Comunidades Europeias, incluindo as suas micro-reproduções (1)\n\n- Publicações convidando para promoção da realização de estudos fora do território das Comunidades Europeias, incluindo as suas micro-reproduções (1)\n\n- Planos e desenhos de arquitectura ou de carácter industrial ou técnico e suas reproduções\n\n- Material publicitário de informação bibliográfica destinado a distribuição gratuita (1)\"> ID=\"1\" ASSV=\"2\">ex 90.21> ID=\"2\">Instrumentos, aparelhos e modelos concebidos para demonstração (tais como os utilizados no ensino, em exposições, etc.) não susceptives de qualquer outro uso:\"> ID=\"2\">- Mapas em relevo relativos aos dominios cientificos tais como geologia, zoologia, botânica, mineralogia, paleontologia, arquelogia, etnologia, meteorologia, climatologia e geofisica, assim como diagramas meteorológicos e geofisicos\"\">\n\nB. Material visual e auditivo de carácter educativo, cientifico ou cultural\n\nArtigos referidos no Anexo II A produzidos pela Organização das Nações Unidas ou por alguma das susas instituições especializadas.\n\n(1) São excluidos da franquia os artigos em que a publicidade exceda 25 % da superficie. No caso de publições e de cartazes de propaganda turistica, esta percentagem apenas diz respeito à publicidade comercial privada."
+  },
+  "159eb0ffc9252119": {
+   "fragment_id": "ANEXO II — A. Material visual e auditivo de carácter educativo, científico ou cultural",
+   "type": "divisao",
+   "heading": "ANEXO II — A. Material visual e auditivo de carácter educativo, científico ou cultural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — A. Material visual e auditivo de carácter educativo, científico ou cultural\n\n\"\" ID=\"1\" ASSV=\"2\">37.09> ID=\"2\">Chapas, películas e filmes, impressionados, não revelados, negativos ou positivios:> ID=\"3\"\"\" ID=\"2\">A. Filmes cinematográficos:\n\nex II. Outros, positivos, de carácter educativo, científico ou cultural> ID=\"3\" ASSV=\"15\" ACCV=\"15.2.34\">Todas as organizações (incluindo os organismos de rádiodifusão ou de televisão), instituições ou associações aprovadas pelas autoridades competentes dos Estados-membros para receberem estes objectos com franquia.\"> ID=\"1\">37.05> ID=\"2\">Chapas, películas não perfuradas e películas perfuradas, com excepção dos filmes cinematográficos, impressionadas e reveladas, negativas ou positivas, de carácter educativo, científico ou cultural\"> ID=\"1\" ASSV=\"3\">37.07> ID=\"2\">Filmes cinematográficos, impressionados e revelados, contendo ou não o registo de som ou contendo apenas esse registo, negativos ou positivos:\"> ID=\"2\">B. II. Outros, positivos:\n\nex a) Filmes de actualidades (com ou sem som) representando acontecimentos com carácter de actualidade na época da importação e importados, para reprodução, até duas cópias por assunto\"> ID=\"2\">ex b) Outros:\n\n- Filmes de arquivo (com ou sem som), destinados a acompanhar filmes de actualidade\n\n- filmes recreativos destinados particularmente a crianças e a jovens\n\n- não especificados, de carácter educativo, científico ou cultural\"> ID=\"1\" ASSV=\"2\">49.11> ID=\"2\">Estampas, ilustrações, fotografias e outros impressos, obtidos por qualquer processo:\"> ID=\"2\">ex B. outros:\n\n- Microcartões ou outros suportes utilizados pelos serviços de informação e de documentação por computador, de carácter educativo, científico ou cultural\n\n- Quadros murais destinados exclusivamente à demonstração ensino\"> ID=\"1\" ASSV=\"3\">ex 90.21> ID=\"2\">Instrumentos, aparelhos e modelos concebidos para demonstração (tais como os utilizados no ensino, em exposições, etc.) não susceptíveis de qualquer outro uso:\"> ID=\"2\">- Modelos, maquetas e quadros murais, de carácter deducativo, científico ou cultural, destinados exclusivamente à demonstração e ao ensino\"> ID=\"2\">- Maquetas ou modelos visuais reduzidos de concepções abstractas tais como estructuras moleculares ou fórmulas matemáticas\"> ID=\"1\" ASSV=\"2\">92.12> ID=\"2\">Suportes de som para os aparelhos do no 92.11 ou para registos análogos: discos, cilindros, ceras, bandas, fitas, fios, etc., preparados para registo ou já registados; matrizes e moldes galvânicos para o fabrico de discos:\"> ID=\"2\">ex B. registados:\n\n- de carácter educativo, científico ou cultural\"> ID=\"1\" ASSV=\"3\">Diversos> ID=\"2\">- Hologramas para projecção por «laser».\"> ID=\"2\">- Jogos multimedia\"> ID=\"2\">- Material de ensino programado, mesmo sob a forma de expositores, acompanhado de material impresso correspondente\">\n\nB. Objectos de colecção e objectos de arte de carácter educativo, científico ou cultural\n\n\"\" ID=\"1\">Diversos> ID=\"2\">Objectos de colecção e objectos de arte não destinados a venda> ID=\"3\">Museus, galerias e outros estabelecimentos aprovados pelas autoridades competentes dos Estados-membros para receberem estes objectos com franquia\">"
+  },
+  "b99080c6f3e4b3a9": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\n\"\" ID=\"1\" ASSV=\"2\">49.11> ID=\"2\">Estampas, ilustrações, fotografias e outros impressos, obtidos por qualquer processo:\"> ID=\"2\">ex B. outros, em relevo, para cegos e ambliopes\">"
+  },
+  "5c0ce6769756d9a2": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV\n\n\"\" ID=\"1\" ASSV=\"2\">48.01> ID=\"2\">Papel e cartão, compreendendo a pasta de celulose, em rolos ou em folhas:\"> ID=\"2\">ex F. outros:\n\n- papel «braille»\"> ID=\"1\" ASSV=\"2\">48.15> ID=\"2\">Papel e cartão não especificados, cortados, para determinados usos:\"> ID=\"2\">ex B. outros:\n\n- Papel «braille»\"> ID=\"1\" ASSV=\"2\">ex 66.02> ID=\"2\">Bengalas (compreendendo as de alpinista e as bengalas-assentos), chicotes, pingalins e semelhantes:\"> ID=\"2\">- Bengalas brancas para cegos e amblíopes\"> ID=\"1\" ASSV=\"2\">84.51> ID=\"2\">Máquinas de escrever sem dispositivo de totalização; máquinas de autenticar cheques:\"> ID=\"2\">ex A. Máquinas de escrever:\n\n- adaptadas para uso de cegos e de ambliopes\"> ID=\"1\" ASSV=\"2\">ex 84.53> ID=\"2\">Máquinas automáticas de tratamento de informação e respectivas unidades; leitores magnéticos ou ópticos, máquinas de registar informações em suporte, sob forma codificada, e máquinas de tratamento dessas informações, não especificadas nem compreendidas noutras posições:\"> ID=\"2\">- Equipamento destinado à produção mecanizada de material em caracteres «braille» e de registos para cegos\"> ID=\"1\" ASSV=\"2\">ex 90.13> ID=\"2\">Aparelhos ou instrumentos de óptica não especificados nem compreendidos em outras posições deste capítulo (compreendendo os projectores): «laser», com exclusão dos díodos «laser»:\"> ID=\"2\">- Tele-ampliadores para cegos e ambliopes\"> ID=\"1\" ASSV=\"2\">90.19> ID=\"2\">Aparelhos de ortopedia (compreendendo as cintas médico-cirúrgicas); aparelhos e outros artefactos para fracturas (talas, goteiras e semelhantes); aparelhos e artefactos de prótese dentária, ocular ou outra; aparelhos para facilitar a audição dos surdos e outros aparelhos que sejam destinados a transportar na mão, sobre a própria pessoa ou a implantar no organismo para compensar uma deficiência ou uma enfermidade:\"> ID=\"2\">ex B. II outros:\n\n- Aparelhos electrónicos de orientação e de detecção de obstáculos para cegos e ambliopes\"> ID=\"1\" ASSV=\"2\">ex 90.21> ID=\"2\">Instrumentos, aparelhos e modelos concebidos para a demonstração (tais como os utilizados no ensino, nas exposições, etc.), não susceptíveis de qualquer outro uso:\"> ID=\"2\">- Auxiliares pedagógicos e aparelhos especificamente concebidos para uso de cegos e de ambliopes\"> ID=\"1\" ASSV=\"2\">ex 91.01> ID=\"2\">Relógios de algibeira, de pulso e semelhantes (compreendendo os contadores de tempo dos mesmos tipos):\"> ID=\"2\">- Relógios «braille» com caixas que não sejam de metais preciosos\"> ID=\"1\" ASSV=\"2\">92.11> ID=\"2\">Gramofones, máquinas de ditar e outros aparelhos de registo ou de reprodução de som, compreendendo os gira-discos, os gira-fitas, os gira-fios, com ou sem leitor de som; aparelhos de registo ou de reprodução de imagens e de som, para televisão:\"> ID=\"2\">ex A. II. Aparelhos de reprodução:\n\n- Electrofones e leitores de «cassettes» especialmente concebidos ou adaptados para uso de cegos e de ambliopes\"> ID=\"1\" ASSV=\"3\">92.12> ID=\"2\">Suportes de som para os aparelhos do no 92.11 ou para registos análogos: discos, cilindros, ceras, bandas, fitas, fios, etc., preparados para registo ou já registados; matrizes e moldes galvânicos para o fabrico de discos:\"> ID=\"2\">ex B. II. a) 2. outros:\n\n- Livros falantes\"> ID=\"2\">ex B. II. b) 2. outros:\n\n- Livros falantes\n\n- Bandas magnéticas e «cassettes» destinadas ao fabrico de livros em caracteres «braille» e de livros falantes\"> ID=\"1\" ASSV=\"2\">97.04> ID=\"2\">Artefactos para jogos (compreendendo os jogos mecânicos para recintos públicos, o ténis de mesa, os bilhares e as mesas especiais para jogos de casino):\"> ID=\"2\">ex C. outros:\n\n- Mesas de jogos e acessórios para uso de cegos e de ambliopes\n\n- Máquinas de ler electrónicas para cegos e ambliopes\n\n- Quaisquer outros objectos especialmente concebidos para a promoção educativa, científica ou cultural de cegos e de ambliopes\">"
+  },
+  "be8df0ab13ce1690": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1983R0918 — PT — 01.01.2010 — 013.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31983R0918) [REGULAMENTO (CEE) N.º 918/83 DO CONSELHO](http://publications.europa.eu/resource/celex/31983R0918) [de 28 de Março de 1983](http://publications.europa.eu/resource/celex/31983R0918) [relativo ao estabelecimento do regime comunitário das franquias aduaneiras](http://publications.europa.eu/resource/celex/31983R0918) (JO L 105, 23.4.1983, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1186/2009 do Conselho de 16 de Novembro de 2009](http://publications.europa.eu/resource/celex/32009R1186) — L 324 — 23 — 10.12.2009"
+  }
+ }
+}

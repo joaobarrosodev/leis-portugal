@@ -1,0 +1,79 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31981R2930:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01981R2930-20060210",
+ "dre_path": null,
+ "source_lastmod": "2006-02-10",
+ "versions": [
+  {
+   "date": "1981-10-13",
+   "future": false,
+   "celex": "31981R2930",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "15c0c36c9668e1e4",
+    "1f6c90a2ec250d31",
+    "de01a42afc1730ee",
+    "d4436334c89e02f4"
+   ]
+  },
+  {
+   "date": "2006-02-10",
+   "future": false,
+   "celex": "01981R2930-20060210",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime ANEXO"
+   ],
+   "fragments": [
+    "04280362a3bffca5"
+   ]
+  }
+ ],
+ "fragments": {
+  "15c0c36c9668e1e4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2930/81 da Comissão, de 12 de Outubro de 1981, que estabelece disposições complementares para a aplicação da grelha comunitária de classificação das carcaças de bovinos adultos** *Jornal Oficial nº L 293 de 13/10/1981 p. 0006 - 0007 Edição especial finlandesa: Capítulo 3 Fascículo 14 p. 0053 Edição especial espanhola: Capítulo 03 Fascículo 23 p. 0143 Edição especial sueca: Capítulo 3 Fascículo 14 p. 0053 Edição especial portuguesa: Capítulo 03 Fascículo 23 p. 0143*\n\nREGULAMENTO (CEE) No 2930/81 DA COMISSÃO de 12 de Outubro de 1981 que estabelece disposições complementares para a aplicação da grelha comunitária de classificação das carcaças de bovinos adultos\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) no 805/68 do Conselho, de 27 de Junho de 1968, que estabelece a organização comum de mercado no sector da carne de bovino (1), com a última redacção que lhe foi dada pelo Acto de Adesão da Grécia,\n\nTendo em conta o Regulamento (CEE) no 1208/81 do Conselho, de 28 de Abril de 1981, que estabelece a grelha comunitária de classificação das carcaças de bovinos adultos (2) e, nomeadamente, o primeiro parágrafo do artigo 6o,\n\nConsiderando que, com vista a assegurar uma classificação uniforme das carcaças de bovinos adultos na Comunidade, é oportuno precisar a definição das classes de conformação e de estado de gordura;\n\nConsiderando que as medidas previstas no presente regulamento são conformes ao parecer do Comité de Gestão da Carne de Bovino,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "1f6c90a2ec250d31": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nAs disposições complementares referidas no primeiro parágrafo do artigo 6o do Regulamento (CEE) no 1208/81 estão incluídas no anexo."
+  },
+  "de01a42afc1730ee": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nO presente regulamento entra em vigor no dia da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas em 12 de Outubro de 1981.\n\nPela Comissão\n\nPoul DALSAGER\n\nMembro da Comissão\n\n(1) JO no L 148 de 28. 6. 1968, p. 24.(2) JO no L 123 de 7. 5. 1981, p. 3."
+  },
+  "d4436334c89e02f4": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n1. CONFORMAÇÃO\n\nDesenvolvimento dos perfis da carcaça e, nomeadamente, das partes essenciais desta (coxa, dorso, pá)\n\n\"\" ID=\"1\">E> ID=\"2\">Coxa: muito arredondada> ID=\"3\">O pojadouro (1) sobressai bastante sobre a sínfise (symphisis pelvis)\"> ID=\"1\" ASSV=\"2\">excelente> ID=\"2\">Dorso: largo e muito espesso, até à altura da pá> ID=\"3\">A alcatra (2) é muito arredondada\"> ID=\"2\">Pá: muito arredondada\"> ID=\"1\">U> ID=\"2\">Coxa: arredondada> ID=\"3\">O pojadouro (1) sobressai sobre a sínfise (symphisis pelvis)\"> ID=\"1\" ASSV=\"2\">muito boa> ID=\"2\">Dorso: largo e espesso até à altura da pá> ID=\"3\">A alcatra (2) é arredondada\"> ID=\"2\">Pá: arredondada\"> ID=\"1\">R> ID=\"2\">Coxa: bem desenvolvida> ID=\"3\">O pojadouro (1) e a alcatra (2) são ligeiramente arredondados\"> ID=\"1\" ASSV=\"2\">boa> ID=\"2\">Dorso: ainda espesso, mas menos largo à altura da pá\"> ID=\"2\">Pá: razoavelmente arredondada\"> ID=\"1\">O> ID=\"2\">Coxa: medianamente desenvolvida> ID=\"3\">A alcatra (2) é rectilínea\"> ID=\"1\" ASSV=\"2\">razoável> ID=\"2\">Dorso: de espessura média\"> ID=\"2\">Pá: entre medianamente desenvolvida e quase chata\"> ID=\"1\">P> ID=\"2\">Coxa: pouco desenvolvida\"> ID=\"1\" ASSV=\"2\">medíocre> ID=\"2\">Dorso: pouco espesso, com ossos aparentes\"> ID=\"2\">Pá: chata, com ossos aparentes\"\">\n\n2. ESTADO DE GORDURA\n\nImportância da gordura no exterior da carcaça e na parede interna da caixa torácica\n\n\"\" ID=\"1\">1//muito ligeiro> ID=\"2\">Ausência de gordura no interior da caixa torácica\"> ID=\"1\">2\n\nligeiro> ID=\"2\">No interior da caixa torácica, os músculos entre as costelas são claramente visíveis\"> ID=\"1\">3\n\nmédio> ID=\"2\">No interior da caixa torácica, os músculos entre as costelas ainda são visíveis\"> ID=\"1\">4\n\nforte> ID=\"2\">As veias de gordura da coxa são salientes. No interior da caixa torácica os músculos entre as costelas podem estar infiltrados de gordura\"> ID=\"1\">5\n\nmuito forte> ID=\"2\">A coxa é quase integralmente coberta por uma camada espessa de gordura, de forma que as veias da gordura são pouco aparentes. No interior da caixa torácica, os músculos entre as costelas estão infiltrados de gordura\">\n\n(1) Denominado na Bélgica «grosse cuisse».\n\n(2) Denominada na Bélgica «petite tête»."
+  },
+  "04280362a3bffca5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1981R2930 — PT — 10.02.2006 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31981R2930) [REGULAMENTO (CEE) N.º 2930/81 DA COMISSÃO](http://publications.europa.eu/resource/celex/31981R2930) [de 12 de Outubro de 1981](http://publications.europa.eu/resource/celex/31981R2930) [que estabelece disposições complementares para a aplicação da grelha comunitária de classificação das carcaças de bovinos adultos](http://publications.europa.eu/resource/celex/31981R2930) (JO L 293, 13.10.1981, p.6)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 103/2006 da Comissão de 20 de Janeiro de 2006](http://publications.europa.eu/resource/celex/32006R0103) — L 17 — 6 — 21.1.2006"
+  }
+ }
+}

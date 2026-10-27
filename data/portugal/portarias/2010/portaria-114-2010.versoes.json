@@ -1,0 +1,95 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:609585:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-869771057",
+ "dre_path": "/dr/detalhe/portaria/114-2010-609585",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2010-02-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "869771164",
+    "869771165",
+    "869771166",
+    "869771167"
+   ]
+  },
+  {
+   "date": "2011-09-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:671008:por",
+     "title": "Portaria n.º 266/2011",
+     "published": "2011-09-14",
+     "dre_path": "/dr/detalhe/portaria/266-2011-671008"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º"
+   ],
+   "fragments": [
+    "869771164",
+    "869771174",
+    "869771166",
+    "869771167",
+    "869771168"
+   ]
+  }
+ ],
+ "fragments": {
+  "869771164": {
+   "fragment_id": "869771058",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 114/2010\n\nde 25 de Fevereiro\n\nA estratégia global de desenvolvimento do currículo nacional e a aplicação do novo Acordo Ortográfico implicam reconhecer que, não obstante se encontrarem praticamente concluídos os procedimentos previstos na Portaria n.º 476/2007, de 18 de Abril, não se encontram ainda reunidas as condições para a entrada em vigor no ano lectivo de 2010-2011 dos novos programas da disciplina de Língua Portuguesa.\n\nAssim:\n\nAo abrigo do disposto no n.º 7 do artigo 50.º da Lei n.º 46/86, de 14 de Outubro, com as alterações que lhe foram introduzidas pelas Leis n.os 115/97, de 19 de Setembro, e 49/2005, de 30 de Agosto, manda o Governo, pela Ministra da Educação, o seguinte:"
+  },
+  "869771165": {
+   "fragment_id": "869771059",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ suspensa a entrada em vigor dos programas de Língua Portuguesa do ensino básico homologados em 31 de Março de 2009."
+  },
+  "869771166": {
+   "fragment_id": "869771060",
+   "type": 11,
+   "heading": "Artigo 2.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Revogação\n\nSão revogados os n.os 6.º e 7.º da Portaria n.º 476/2007, de 18 de Abril."
+  },
+  "869771167": {
+   "fragment_id": "869771061",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "869771174": {
+   "fragment_id": "869771059",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2011-09-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 266/2011 - Diário da República n.º 177/2011, Série I de 2011-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/266-2011-671008), em vigor a partir de 2011-09-15"
+   ],
+   "markdown": "###### Artigo 1.º\n\nÉ suspensa a entrada em vigor dos programas de Língua Portuguesa do ensino básico homologados em 31 de Março de 2009.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 266/2011 - Diário da República n.º 177/2011, Série I de 2011-09-14](https://diariodarepublica.pt/dr/detalhe/portaria/266-2011-671008), em vigor a partir de 2011-09-15"
+  },
+  "869771168": {
+   "fragment_id": "869771062",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra da Educação, Maria Isabel Girão de Melo Veiga Vilar, em 17 de Fevereiro de 2010."
+  }
+ }
+}

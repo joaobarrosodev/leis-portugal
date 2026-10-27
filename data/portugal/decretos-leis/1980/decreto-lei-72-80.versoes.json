@@ -1,0 +1,116 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:681995:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1980-216250643",
+ "dre_path": "/dr/detalhe/decreto-lei/72-1980-681995",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1980-04-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "216251980",
+    "216251981",
+    "216251982",
+    "216251983",
+    "216251984"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632448:por",
+     "title": "Lei n.º 66-B/2012",
+     "published": "2012-12-31",
+     "dre_path": "/dr/detalhe/lei/66-b-2012-632448"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "216251980",
+    "216251986",
+    "216251987",
+    "216251983",
+    "216251984",
+    "216251985"
+   ]
+  }
+ ],
+ "fragments": {
+  "216251980": {
+   "fragment_id": "216250644",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 72/80\n\nde 15 de Abril\n\nO exercício de funções governativas implica a fixação em Lisboa dos membros do Governo, não podendo, por isso, aqueles que habitem a considerável distância da capital deixar de transferir a sua residência para esta cidade.\n\nOs encargos que deste facto resultam para os interessados, agravados pela rarefação de habitações passíveis de arrendamento, justificam a concessão de habitação paga pelo Estado ou de uma compensação monetária, a exemplo do que está estabelecido para os governadores civis pela tabela anexa ao Decreto-Lei n.º 67/79, de 30 de Março, e para os Deputados no artigo 10.º da Lei n.º 5/76, de 10 de Setembro.\n\nAtendendo à especial natureza das funções dos chefes de gabinete dos membros do Governo, justifica-se também que lhes seja concedida semelhante compensação.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "216251981": {
+   "fragment_id": "216250645",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n- 1 - Aos membros do Governo que, ao serem nomeados, não tenham residência permanente na cidade de Lisboa ou numa área circundante de 100 km poderá ser concedida habitação por conta do Estado ou atribuído um subsídio de alojamento, a partir da data da sua tomada de posse.\n\n2 - O subsídio referido no número anterior, que não poderá exceder o quantitativo correspondente a 75% do valor das ajudas de custo estabelecidas para a categoria A do funcionalismo público, será fixado por despacho do Primeiro-Ministro, sob proposta do Ministro das Finanças e do Plano."
+  },
+  "216251982": {
+   "fragment_id": "216250646",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n- 1 - O regime previsto no artigo anterior poderá ser aplicado, a título excepcional, aos elementos nomeados para o exercício das funções de chefe de gabinete dos membros do Governo, quando se encontrem nas mesmas condições.\n\n2 - O subsídio referido no n.º 2 do artigo 1.º não poderá, no caso previsto no número anterior, exceder o montante correspondente a 50% do valor das ajudas de custo estabelecidas para a categoria A do funcionalismo público e será fixado por despacho do Ministro das Finanças e do Plano, sob proposta do Ministro interessado."
+  },
+  "216251983": {
+   "fragment_id": "216250647",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPara satisfação dos encargos resultantes da execução do presente decreto-lei poderá ser utilizada a dotação global a que se refere o n.º 4 do artigo 23.º do Decreto-Lei n.º 3/80, de 7 de Fevereiro."
+  },
+  "216251984": {
+   "fragment_id": "216250648",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO presente diploma produz efeitos a partir do início do ano em curso.\n\nFrancisco Sá Carneiro - Aníbal António Cavaco Silva."
+  },
+  "216251986": {
+   "fragment_id": "216250645",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 43.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - Aos membros do Governo que não tenham residência permanente na cidade de Lisboa ou numa área circundante de 150 km pode ser concedida habitação por conta do Estado ou atribuído um subsídio de alojamento, a partir da data da sua tomada de posse.\n\n2 - O subsídio referido no número anterior, que não pode exceder o quantitativo correspondente a 50 % do valor das ajudas de custo estabelecidas para as remunerações base superiores ao nível remuneratório 18, é fixado por despacho do Primeiro-Ministro, sob proposta do membro do Governo em causa, obtido o parecer favorável do membro do Governo responsável pela área das finanças.\n\n> Alterado pelo/a Artigo 43.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+  },
+  "216251987": {
+   "fragment_id": "216250646",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 43.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 2.º\n\n- 1 - O regime previsto no artigo anterior poderá ser aplicado, a título excepcional, aos elementos nomeados para o exercício das funções de chefe de gabinete dos membros do Governo, quando se encontrem nas mesmas condições.\n\n2 - O subsídio referido no n.º 2 do artigo anterior não pode, no caso previsto no número anterior, exceder o montante correspondente a 40 % do valor das ajudas de custo estabelecidas para as remunerações base superiores ao nível remuneratório 18 e é fixado por despacho dos membros do Governo responsável pela área das finanças e da tutela.\n\n> Alterado pelo/a Artigo 43.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+  },
+  "216251985": {
+   "fragment_id": "216250649",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Promulgado em 1 de Abril de 1980.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

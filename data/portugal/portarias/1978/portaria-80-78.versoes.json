@@ -1,0 +1,839 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:448525:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1978-145013126",
+ "dre_path": "/dr/detalhe/portaria/80-1978-448525",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1978-02-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "145096154",
+    "145096116",
+    "145096117",
+    "145096118",
+    "145096119",
+    "145096120",
+    "145096121",
+    "145096122",
+    "145096123",
+    "145096124",
+    "145096125",
+    "145096126",
+    "145096127",
+    "145096128",
+    "145096129",
+    "145096130",
+    "145096131",
+    "145096132",
+    "145096133",
+    "145096134",
+    "145096135",
+    "145096136",
+    "145096137",
+    "145096138",
+    "145096139",
+    "145096140",
+    "145096141",
+    "145096142",
+    "145096143",
+    "145096144",
+    "145096145",
+    "145096146",
+    "145096147",
+    "145096148",
+    "145096149",
+    "145096150",
+    "145096151"
+   ]
+  },
+  {
+   "date": "1999-05-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:531462:por",
+     "title": "Portaria n.º 297/99",
+     "published": "1999-04-28",
+     "dre_path": "/dr/detalhe/portaria/297-1999-531462"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "145096115",
+    "145096116",
+    "145096117",
+    "145096118",
+    "145096119",
+    "145096120",
+    "145096121",
+    "145096122",
+    "145096153",
+    "145096124",
+    "145096125",
+    "145096126",
+    "145096127",
+    "145096128",
+    "145096129",
+    "145096130",
+    "145096131",
+    "145096132",
+    "145096133",
+    "145096134",
+    "145096135",
+    "145096136",
+    "145096137",
+    "145096138",
+    "145096139",
+    "145096140",
+    "145096141",
+    "145096142",
+    "145096143",
+    "145096144",
+    "145096145",
+    "145096146",
+    "145096147",
+    "145096148",
+    "145096149",
+    "145096150",
+    "145096151"
+   ]
+  },
+  {
+   "date": "2020-10-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:145012186:por",
+     "title": "Portaria n.º 238/2020",
+     "published": "2020-10-09",
+     "dre_path": "/dr/detalhe/portaria/238-2020-145012186"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "145096154",
+    "145096155",
+    "145096156",
+    "145096157",
+    "145096158",
+    "145096159",
+    "145096160",
+    "145096161",
+    "145096162",
+    "145096163",
+    "145096164",
+    "145096165",
+    "145096166",
+    "145096167",
+    "145096168",
+    "145096169",
+    "145096170",
+    "145096171",
+    "145096172",
+    "145096173",
+    "145096174",
+    "145100075",
+    "145100076",
+    "145100077",
+    "145100078",
+    "145100079",
+    "145100080",
+    "145100081",
+    "145100082",
+    "145100083",
+    "145100084",
+    "145100085",
+    "145100086",
+    "145100087",
+    "145100088",
+    "145100089",
+    "145100090"
+   ]
+  }
+ ],
+ "fragments": {
+  "145096154": {
+   "fragment_id": "145013127",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2020-10-10",
+   "changed_by": [],
+   "markdown": "Portaria n.º 80/78\n\nde 10 de Fevereiro\n\nTomando consciência dos problemas que actualmente se põem à Academia Nacional de Belas-Artes, tiveram os actuais académicos a preocupação de estudar novos estatutos que passassem a oferecer uma larga opção de fins.\n\nPor outro lado, aboliu-se o numerus clausus e imprimiu-se carácter colegial à orientação da actividade da Academia - factos sem dúvida de considerar na vida da instituição, correspondentes à evolução do País.\n\nA publicação dos novos estatutos da Academia Nacional de Belas-Artes exprime a atenção que o Governo tem prestado à cultura artística nacional e vem responsabilizar a renovada instituição por uma participação activa nas tarefas urgentes da nossa cultura.\n\nNestes termos, ao abrigo do artigo 3.º do Decreto-Lei n.º 32/78, de 10 de Fevereiro:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado da Cultura, aprovar os estatutos da Academia Nacional de Belas-Artes, anexos a esta portaria.\n\nESTATUTOS DA ACADEMIA NACIONAL DE BELAS-ARTES"
+  },
+  "145096116": {
+   "fragment_id": "145013128",
+   "type": 1,
+   "heading": "Capítulo I — Fins, sede e delegação da Academia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Fins, sede e delegação da Academia"
+  },
+  "145096117": {
+   "fragment_id": "145013129",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Academia Nacional de Belas-Artes, sucessora das extintas Academia Real de Belas-Artes e Academia Portuense de Belas-Artes, é uma instituição de utilidade pública, dotada de personalidade jurídica, sob tutela da Secretaria de Estado da Cultura."
+  },
+  "145096118": {
+   "fragment_id": "145013130",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA Academia Nacional de Belas-Artes tem os seguintes fins:\n\na) Promover a investigação, estudo e divulgação dos problemas postos pelas artes visuais, designadamente através da realização ou da participação em reuniões científicas, seminários, conferências, exposições e publicações e da utilização de meios áudio-visuais adequados;\n\nb) Emitir parecer, quando consultada oficialmente, sobre assuntos abrangidos pelos seus fins estatutários;\n\nc) Colaborar com os organismos competentes na elaboração do inventário descritivo e crítico dos monumentos e obras de arte nacionais ou estrangeiros existentes em Portugal ou no estrangeiro quando, neste caso, interessem à actividade artística nacional, ao seu estudo, história ou tradições;\n\nd) Colaborar com os organismos competentes na classificação, conservação e recuperação do património arqueológico, monumental e artístico do País e seus valores ecológicos e paisagísticos;\n\ne) Colaborar com os organismos competentes na definição de um programa de enriquecimento do património arqueológico e artístico do País, pronunciando-se, em especial, acerca de aquisições de bens culturais destinados a museus ou outros organismos;\n\nf) Colaborar com os organismos competentes em trabalhos de índole museológica, especialmente os respeitantes à instalação de doações feitas ao Estado ou a instituições públicas;\n\ng) Organizar um centro de informação sobre arte portuguesa e arte estrangeira existente ou relacionada com Portugal, compreendendo arquivos documentais e formas de comunicação adequadas;\n\nh) Manter e ampliar um arquivo fotográfico sistemático, especialmente de obras de arte portuguesas e estrangeiras existentes ou relacionadas com Portugal, apoiado num laboratório apropriado;\n\ni) Organizar e manter actualizada uma bibliografia de história da arte portuguesa e ciências afins;\n\nj) Manter e actualizar a sua biblioteca de forma a completar os núcleos bibliográficos existentes e a criar novos núcleos;\n\nl) Colaborar com os organismos competentes no que se refere ao ensino das artes visuais e da história da arte portuguesa;\n\nm) Atribuir prémios a obras de arte e a estudos históricos e críticos sobre arte portuguesa ou participar na sua atribuição, bem como em trabalhos de classificação em concursos;\n\nn) Aceitar doações, legados e heranças que tenham por fim o desenvolvimento das artes visuais e a defesa do património artístico;\n\no) Conservar e expor ao público as suas colecções de arte, incluindo os objectos que venham a ser incorporados no seu património, nos termos da alínea anterior;\n\np) Estabelecer relações com organismos congéneres, nacionais ou estrangeiros, podendo neles assumir as posições convenientes para a prossecução dos seus fins estatutários;\n\nq) Colaborar e participar em reuniões científicas nacionais e internacionais da sua especialidade, nomeadamente naquelas em que se incluam assuntos portugueses;\n\nr) Publicar um boletim e demais trabalhos que resultem da actividade académica."
+  },
+  "145096119": {
+   "fragment_id": "145013131",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA Academia Nacional de Belas-Artes tem a sua sede em Lisboa, provisoriamente instalada no edifício da extinta Academia Real de Belas-Artes, e uma delegação distrital no Porto, constituída pelos académicos residentes naquela cidade.\n\n§ único. A Academia poderá constituir outras delegações distritais."
+  },
+  "145096120": {
+   "fragment_id": "145013132",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nNo património da Academia Nacional de Belas-Artes são incorporados, a título definitivo, a biblioteca, os arquivos, as colecções de arte e o mobiliário da extinta Academia Nacional de Belas-Artes."
+  },
+  "145096121": {
+   "fragment_id": "145013133",
+   "type": 1,
+   "heading": "Capítulo II — Dos académicos e suas categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Dos académicos e suas categorias"
+  },
+  "145096122": {
+   "fragment_id": "145013134",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO Presidente da República é o presidente de honra da Academia Nacional de Belas-Artes."
+  },
+  "145096123": {
+   "fragment_id": "145013135",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA Academia Nacional de Belas-Artes é constituída por:\n\na) Académicos efectivos;\n\nb) Académicos correspondentes nacionais;\n\nc) Académicos correspondentes estrangeiros;\n\nd) Académicos honorários;\n\ne) Académicos de mérito;\n\ng) Académicos jubilados.\n\n§ 1.º Os académicos efectivos são em número de vinte, sendo designados de entre os académicos correspondentes nacionais e residentes em Portugal. As suas cadeiras são numeradas, transmitindo-se o número aos titulares sucessivos.\n\n§ 2.º Os académicos correspondentes nacionais são em número ilimitado, sendo designados de entre artistas e estudiosos de arte de nacionalidade portuguesa.\n\n§ 3.º Será tomada em consideração para a escolha de académicos indicados nos parágrafos anteriores, a necessidade de acolher na Academia artistas plásticos cuja obra marque um lugar importante na história da arte portuguesa contemporânea, professores, investigadores, autores e especialistas de museologia e de conservação do património artístico cuja obra tenha contribuído para o desenvolvimento dos estudos de arte em Portugal.\n\n§ 4.º Os académicos correspondentes estrangeiros são em número ilimitado, sendo designados de entre historiadores e investigadores, autores de trabalhos sobre arte portuguesa ou existente em Portugal.\n\n§ 5.º Os académicos honorários são em número ilimitado, sendo designados de entre individualidades nacionais e estrangeiras, residentes ou não em Portugal, que hajam contribuído com serviços valiosos ou doações para o desenvolvimento da arte e dos estudos artísticos em Portugal.\n\n§ 6.º Poderão ser eleitos académicos de mérito até dois académicos efectivos que hajam prestado altos serviços à arte portuguesa ou à Academia, os quais continuarão a preencher lugar no quadro de efectivos, a menos que sejam abrangidos pelo artigo 14.º\n\n§ 7.º Os académicos efectivos ou correspondentes nacionais passam a académicos jubilados nas circunstâncias definidas pelo artigo 15.º"
+  },
+  "145096124": {
+   "fragment_id": "145013136",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO novo académico efectivo fará, em sessão ordinária e dentro do prazo de seis meses a contar da data da eleição, o «elogio» do académico para cuja cadeira tenha sido eleito, quando vaga por falecimento.\n\n§ 1.º Ao elogio responderá, na mesma sessão, outro académico efectivo convidado para o efeito, justificando a eleição do novo académico.\n\n§ 2.º O académico eleito que não pronuncie o elogio dentro do prazo estabelecido considera-se como havendo resignado, salvo caso de força maior.\n\n§ 3.º A mesa da Academia poderá agrupar «elogios» e «respostas» em sessão plenária."
+  },
+  "145096125": {
+   "fragment_id": "145013137",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAos académicos efectivos incumbe:\n\n1) Deliberar, em sessões ordinárias e extraordinárias, sobre todos os assuntos que interessem à orientação geral e às actividades da Academia, colaborando com a mesa nesse sentido e determinando colegialmente a sua acção;\n\n2) Propor temas de discussão e estudo, iniciativas e intervenções da Academia, apresentar comunicações, realizar conferências, etc.;\n\n3) Aceitar, salvo motivo justificado, os cargos ou comissões para que forem nomeados ou eleitos.\n\n§ 1.º Os académicos efectivos assumem o compromisso de, salvo motivo de força maior, participar, pelo menos, em cinco sessões ordinárias por ano e de apresentar, pelo menos, uma comunicação por ano.\n\n§ 2.º A não apresentação durante dois anos consecutivos da comunicação referida no parágrafo anterior determina, salvo motivo de força maior, a perda de qualidade de académico, mediante deliberação da mesa ou da assembleia extraordinária por esta convocada para esse efeito.\n\n§ 3.º Da deliberação da mesa que excluir o académico nos termos do parágrafo anterior poderá o interessado reclamar para a assembleia, em sessão extraordinária expressa e obrigatoriamente convocada pela mesa para tal fim."
+  },
+  "145096126": {
+   "fragment_id": "145013138",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAos académicos correspondentes nacionais incumbe:\n\n1) Assistir, com função consultiva e sem direito a voto, às sessões para que forem convocados, apresentar comunicações, realizar conferências e colaborar nos trabalhos da Academia;\n\n2) Aceitar, salvo invocação de motivo justificado, as comissões para que forem nomeados ou eleitos."
+  },
+  "145096127": {
+   "fragment_id": "145013139",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs académicos correspondentes estrangeiros só poderão assistir às sessões para que forem convidados, não tendo direito a voto, mas podendo apresentar comunicações e participar em outras iniciativas e manifestações da Academia."
+  },
+  "145096128": {
+   "fragment_id": "145013140",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs académicos honorários, de mérito e jubilados poderão participar, com direito a voto, nas sessões para que foram convocados, tendo assento de direito nas sessões plenárias. Poderão igualmente apresentar comunicações e colaborar nos trabalhos da Academia."
+  },
+  "145096129": {
+   "fragment_id": "145013141",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs académicos da Academia Nacional de Belas-Artes têm direito a usar a insígnia académica.\n\n§ único. O uso da insígnia é obrigatório nas sessões solenes da Academia."
+  },
+  "145096130": {
+   "fragment_id": "145013142",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nOs académicos da Academia Nacional de Belas-Artes usarão de prorrogativas idênticas às dos sócios da Academia das Ciências de Lisboa."
+  },
+  "145096131": {
+   "fragment_id": "145013143",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nPerderão a qualidade de académicos:\n\na) Os académicos efectivos com menos de 70 anos de idade que não compareçam durante dez sessões ordinárias seguidas sem justificarem por escrito as suas faltas;\n\nb) Os académicos que, alegando motivo justificado, requeiram a sua exoneração;\n\nc) Os académicos que promoverem o descrético da Academia ou deixarem de observar os seus estatutos.\n\n§ 1.º A justificação das faltas será apreciada pela mesa; porém, da deliberação da mesa que retire a qualidade de académico, nos termos da alínea a) deste artigo, poderá o interessado apresentar, no prazo de dez dias a contar da notificação, reclamação por escrito, a apreciar em sessão extraordinária.\n\n§ 2.º A exclusão do académico baseada em qualquer dos factos referidos na alínea c) deste artigo só poderá ser deliberada em sessão ordinária, após discussão de relatório apresentado por uma comissão especialmente nomeada pela mesa."
+  },
+  "145096132": {
+   "fragment_id": "145013144",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nO académico, efectivo ou correspondente, que não cumpra as suas obrigações académicas por impossibilidade física permanente ou avançada idade, transitará para a categoria de académico jubilado, por deliberação da assembleia em sessão ordinária."
+  },
+  "145096133": {
+   "fragment_id": "145013145",
+   "type": 1,
+   "heading": "Capítulo III — Dos cargos directivos e das sessões da Academia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Dos cargos directivos e das sessões da Academia"
+  },
+  "145096134": {
+   "fragment_id": "145013146",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nA mesa da Academia Nacional de Belas-Artes, eleita trienalmente de entre os académicos efectivos, é o órgão executivo da instituição, e é composta por um presidente, um vice-presidente, um secretário e um vice-secretário.\n\n§ único. A mesa delibera por maioria simples dos seus membros; em caso de empate, o presidente terá voto de qualidade."
+  },
+  "145096135": {
+   "fragment_id": "145013147",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nA mesa será eleita pela maioria dos académicos efectivos presentes, em escrutínio secreto.\n\n§ 1.º Para eleição da mesa é necessária a presença de um mínimo de metade de académicos efectivos em exercício.\n\n§ 2.º É admitido o voto por correspondência, em papel normalizado, fornecido pela Academia, dobrado em quatro, enviado em sobrescrito lacrado dirigido ao presidente da mesa cessante, anexo a uma justificação da ausência."
+  },
+  "145096136": {
+   "fragment_id": "145013148",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nCompete à mesa:\n\na) Determinar as convocações das sessões da Academia e a ordem dos trabalhos;\n\nb) Fazer cumprir os estatutos;\n\nc) Promover a eleição para o preenchimento das vagas de académicos efectivos, assim como a eleição de académicos para as outras categorias;\n\nd) Organizar o projecto de orçamento e submetê-lo à apreciação da assembleia em sessão ordinária."
+  },
+  "145096137": {
+   "fragment_id": "145013149",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nCompete ao presidente, ou ao vice-presidente no seu impedimento:\n\na) Representar a Academia junto do Governo e outras instâncias oficiais;\n\nb) Representar a Academia junto de organismos culturais congéneres e outros, nacionais ou estrangeiros, e em todos os actos oficiais que justifiquem a sua presença, podendo delegar esta em qualquer vogal efectivo;\n\nc) Dirigir os trabalhos das sessões da Academia;\n\nd) Rubricar os livros da secretaria e assinar os respectivos termos de abertura e encerramento.\n\n§ único. Na ausência do presidente e do vice-presidente, dirigirá os trabalhos o académico efectivo mais antigo dos presentes à sessão."
+  },
+  "145096138": {
+   "fragment_id": "145013150",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nCompete ao secretário:\n\na) Dirigir o expediente;\n\nb) Ler em sessão a correspondência recebida;\n\nc) Redigir as actas em livro especial e proceder à sua leitura em sessão;\n\nd) Minutar a correspondência e redigir comunicados aos órgãos de informação;\n\ne) Convocar, por indicação da mesa, as sessões da Academia mediante avisos especiais, comunicando a ordem dos trabalhos;\n\nf) Inspeccionar os serviços da secretaria, da biblioteca e dos arquivos.\n\n§ 1.º Na ausência do secretário e do vice-secretário, será convidado a secretariar a reunião o académico efectivo mais moderno dos presentes à sessão.\n\n§ 2.º A mesa poderá delegar em qualquer dos académicos que a compõem, ou noutro académico efectivo, a inspecção dos serviços de contabilidade."
+  },
+  "145096139": {
+   "fragment_id": "145013151",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nComo recompensa de serviços prestados, poderá a Academia conceder, por deliberação em sessão ordinária, o título de secretário perpétuo.\n\n§ único. A Academia poderá proceder à eleição de novo secretário quando o secretário perpétuo ascender à categoria de académico jubilado, mantendo o título para além do termo do exercício de funções."
+  },
+  "145096140": {
+   "fragment_id": "145013152",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nO falecimento, exoneração ou impedimento permanente do presidente terá como consequência a demissão da mesa e eleição de nova mesa na primeira ou na segunda sessão ordinária consecutiva.\n\n§ único. No caso de falecimento, exoneração ou impedimento permanente de qualquer outro membro da mesa, proceder-se-á à eleição para o seu cargo na primeira sessão ordinária."
+  },
+  "145096141": {
+   "fragment_id": "145013153",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nSão instituídos os seguintes cargos permanentes destinados a coordenar determinadas funções específicas da Academia:\n\na) Dois académicos-directores da biblioteca;\n\nb) Académico-conservador do património artístico;\n\nc) Académico-director do Centro de Informação e Arquivos;\n\nd) Académico-director do serviço de registo bibliográfico;\n\ne) Comissão directiva dos trabalhos do inventário artístico de Portugal;\n\nf) Comissão directiva do Boletim, composta por três membros, um dos quais terá função de secretário. A mesma comissão terá a seu cargo as outras publicações da Academia.\n\n§ 1.º Estes cargos são exercidos por académicos efectivos ou correspondentes nacionais propostos pela mesa e eleitos trienalmente em sessão extraordinária convocada para o efeito, onde os académicos correspondentes nacionais terão direito a voto.\n\n§ 2.º Os titulares destes cargos apresentarão relatórios anuais, que serão lidos e discutidos em sessão ordinária."
+  },
+  "145096142": {
+   "fragment_id": "145013154",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nAs sessões da Academia Nacional de Belas-Artes poderão ser ordinárias, restritas, extraordinárias ou plenárias.\n\n§ 1.º As sessões ordinárias realizar-se-ão uma vez por mês, exceptuados os meses de Agosto e Setembro. Nelas têm assento os académicos efectivos e, quando convocados, os académicos correspondentes nacionais.\n\n§ 2.º Nas sessões restritas participarão os académicos efectivos ou correspondentes especialmente convocados por motivo dos seus conhecimentos especializados em determinada matéria ou por terem sido encarregados de algum trabalho.\n\n§ 3.º As sessões extraordinárias realizar-se-ão por convocação da mesa, quer por sua iniciativa, quer a requerimento de, pelo menos, cinco académicos efectivos. Nelas têm assento os académicos efectivos e, quando convocados, os académicos correspondentes nacionais.\n\n§ 4.º As sessões plenárias realizar-se-ão por iniciativa da mesa, nelas participando todas as categorias de académicos.\n\n§ único. As actas das sessões, depois de aprovadas, serão assinadas pelo presidente e pelo secretário ou por quem os substitua."
+  },
+  "145096143": {
+   "fragment_id": "145013155",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nAs questões relativas à gestão administrativa da Academia serão resolvidas nas sessões ordinárias."
+  },
+  "145096144": {
+   "fragment_id": "145013156",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nTodas as eleições se realizarão em sessão ordinária, por escrutínio secreto, nelas participando exclusivamente os académicos efectivos, com excepção da eleição para os cargos a que se refere o artigo 23.º, em que participarão também, com direito a voto, os académicos correspondentes nacionais.\n\n§ 1.º Os académicos correspondentes deverão ser eleitos por maioria dos presentes.\n\n§ 2.º Os académicos efectivos e honorários deverão ser eleitos por maioria de dois terços, pelo menos, dos presentes.\n\n§ 3.º Os académicos de mérito deverão ser eleitos por maioria de três quartos, pelo menos, de todos os académicos efectivos, pedindo-se aos ausentes que votem por correspondência.\n\n§ 4.º As eleições a que se refere o artigo 17.º realizar-se-ão no mês de Novembro que anteceder o fim do mandato, sendo permitida a reeleição.\n\n§ 5.º A designação para os cargos ou para qualquer categoria de académicos será sempre publicada no Diário da República."
+  },
+  "145096145": {
+   "fragment_id": "145013157",
+   "type": 1,
+   "heading": "Capítulo IV — Administração da Academia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Administração da Academia"
+  },
+  "145096146": {
+   "fragment_id": "145013158",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nA Academia Nacional de Belas-Artes organizará todos os anos o seu orçamento, do qual constarão as despesas com o inventário artístico de Portugal, a edição do Boletim e demais publicações, congressos, exposições, compras de livros, assinaturas de revistas e outras despesas reputadas indispensáveis."
+  },
+  "145096147": {
+   "fragment_id": "145013159",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nEm regulamento interno, aprovado em sessão ordinária, ficará consignado o modo e funcionamento dos serviços a cargo do pessoal técnico, administrativo e auxiliar do quadro da Academia Nacional de Belas-Artes."
+  },
+  "145096148": {
+   "fragment_id": "145013160",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nO Boletim da Academia Nacional de Belas-Artes terá como director o presidente da Academia e terá um corpo directivo composto por três académicos, um dos quais assumirá as funções de secretário de redacção.\n\n§ 1.º Das conferências, comunicações e outros trabalhos dos académicos publicados no Boletim podem fazer-se edições especiais, em separado, tendo o seu autor direito a cinquenta exemplares.\n\n§ 2.º O Boletim será permutado ou oferecido pela Academia com os estabelecimentos literários e artísticos do País e aos organismos congéneres do estrangeiro.\n\n§ 3.º A colaboração no Boletim, quando não for remunerada, deixa aos autores a propriedade dos seus direitos para futuras publicações.\n\n§ 4.º O Boletim deverá publicar-se, pelo menos, uma vez por ano."
+  },
+  "145096149": {
+   "fragment_id": "145013161",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nTodos os académicos, de qualquer categoria, receberão um exemplar de todas as publicações da Academia a contar da data da sua admissão."
+  },
+  "145096150": {
+   "fragment_id": "145013162",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nOs trabalhos do inventário artístico de Portugal, dos legados e prémios, da missão estética de férais, do património artístico da Academia, biblioteca, do Centro de Informação e Arquivos, dos serviços bibliográficos e das publicações serão objecto de regulamentos específicos."
+  },
+  "145096151": {
+   "fragment_id": "145013163",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nPara os casos omissos, a Academia deliberará em sessão extraordinária, com dependência de homologação do Secretário de Estado.\n\nSecretaria de Estado da Cultura, 27 de Janeiro de 1978. - O Secretário de Estado da Cultura, David Mourão Ferreira."
+  },
+  "145096115": {
+   "fragment_id": "145013127",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 80/78\n\nde 10 de Fevereiro\n\nTomando consciência dos problemas que actualmente se põem à Academia Nacional de Belas-Artes, tiveram os actuais académicos a preocupação de estudar novos estatutos que passassem a oferecer uma larga opção de fins.\n\nPor outro lado, aboliu-se o numerus clausus e imprimiu-se carácter colegial à orientação da actividade da Academia - factos sem dúvida de considerar na vida da instituição, correspondentes à evolução do País.\n\nA publicação dos novos estatutos da Academia Nacional de Belas-Artes exprime a atenção que o Governo tem prestado à cultura artística nacional e vem responsabilizar a renovada instituição por uma participação activa nas tarefas urgentes da nossa cultura.\n\nNestes termos, ao abrigo do artigo 3.º do Decreto-Lei n.º 32/78, de 10 de Fevereiro:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado da Cultura, aprovar os estatutos da Academia Nacional de Belas-Artes, anexos a esta portaria.\n\nESTATUTOS DA ACADEMIA NACIONAL DE BELAS-ARTES"
+  },
+  "145096153": {
+   "fragment_id": "145013135",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1999-05-03",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 297/99 - Diário da República n.º 99/1999, Série I-B de 1999-04-28](https://diariodarepublica.pt/dr/detalhe/portaria/297-1999-531462), em vigor a partir de 1999-05-03"
+   ],
+   "markdown": "###### Artigo 6.º\n\nA Academia Nacional de Belas-Artes é constituída por:\n\na) Académicos efectivos;\n\nb) Académicos correspondentes nacionais;\n\nc) Académicos correspondentes estrangeiros;\n\nd) Académicos honorários;\n\ne) Académicos de mérito;\n\ng) Académicos jubilados.\n\n§ 1.º Os académicos efectivos são em número de vinte, sendo designados de entre os académicos correspondentes nacionais e residentes em Portugal. As suas cadeiras são numeradas, transmitindo-se o número aos titulares sucessivos.\n\n§ 2.º Os académicos correspondentes nacionais são em número ilimitado, sendo designados de entre artistas e estudiosos de arte de nacionalidade portuguesa.\n\n§ 3.º Será tomada em consideração para a escolha de académicos indicados nos parágrafos anteriores, a necessidade de acolher na Academia artistas plásticos cuja obra marque um lugar importante na história da arte portuguesa contemporânea, professores, investigadores, autores e especialistas de museologia e de conservação do património artístico cuja obra tenha contribuído para o desenvolvimento dos estudos de arte em Portugal.\n\n§ 4.º Os académicos correspondentes estrangeiros são em número ilimitado, sendo designados de entre historiadores e investigadores, autores de trabalhos sobre arte portuguesa ou existente em Portugal.\n\n§ 5.º Os académicos honorários são em número ilimitado, sendo designados de entre individualidades nacionais e estrangeiras, residentes ou não em Portugal, que hajam contribuído com serviços valiosos ou doações para o desenvolvimento da arte e dos estudos artísticos em Portugal.\n\n§ 6.º Poderão ser eleitos académicos de mérito até dois académicos efectivos que hajam prestado altos serviços à arte portuguesa ou à Academia, os quais continuarão a preencher lugar no quadro de efectivos, a menos que sejam abrangidos pelo artigo 14.º\n\n§ 7.º Os académicos efectivos ou correspondentes nacionais passam a académicos jubilados nas circunstâncias definidas pelo artigo 15.º\n\n> Alterado pelo/a [Portaria n.º 297/99 - Diário da República n.º 99/1999, Série I-B de 1999-04-28](https://diariodarepublica.pt/dr/detalhe/portaria/297-1999-531462), em vigor a partir de 1999-05-03"
+  },
+  "145096155": {
+   "fragment_id": "145013128",
+   "type": 1,
+   "heading": "Capítulo I — Fins, sede e delegação da Academia",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "### Capítulo I — Fins, sede e delegação da Academia\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145096156": {
+   "fragment_id": "145013129",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 1.º\n\nA Academia Nacional de Belas-Artes, sucessora das extintas Academia Real de Belas-Artes e Academia Portuense de Belas-Artes, é uma instituição de utilidade pública, dotada de personalidade jurídica, sob tutela da Secretaria de Estado da Cultura.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145096157": {
+   "fragment_id": "145013130",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 2.º\n\na) Promover a investigação, estudo e divulgação dos problemas postos pelas artes visuais, designadamente através da realização ou da participação em reuniões científicas, seminários, conferências, exposições e publicações e da utilização de meios áudio-visuais adequados;\n\nb) Emitir parecer, quando consultada oficialmente, sobre assuntos abrangidos pelos seus fins estatutários;\n\nc) Colaborar com os organismos competentes na elaboração do inventário descritivo e crítico dos monumentos e obras de arte nacionais ou estrangeiros existentes em Portugal ou no estrangeiro quando, neste caso, interessem à actividade artística nacional, ao seu estudo, história ou tradições;\n\nd) Colaborar com os organismos competentes na classificação, conservação e recuperação do património arqueológico, monumental e artístico do País e seus valores ecológicos e paisagísticos;\n\ne) Colaborar com os organismos competentes na definição de um programa de enriquecimento do património arqueológico e artístico do País, pronunciando-se, em especial, acerca de aquisições de bens culturais destinados a museus ou outros organismos;\n\nf) Colaborar com os organismos competentes em trabalhos de índole museológica, especialmente os respeitantes à instalação de doações feitas ao Estado ou a instituições públicas;\n\ng) Organizar um centro de informação sobre arte portuguesa e arte estrangeira existente ou relacionada com Portugal, compreendendo arquivos documentais e formas de comunicação adequadas;\n\nh) Manter e ampliar um arquivo fotográfico sistemático, especialmente de obras de arte portuguesas e estrangeiras existentes ou relacionadas com Portugal, apoiado num laboratório apropriado;\n\ni) Organizar e manter actualizada uma bibliografia de história da arte portuguesa e ciências afins;\n\nj) Manter e actualizar a sua biblioteca de forma a completar os núcleos bibliográficos existentes e a criar novos núcleos;\n\nl) Colaborar com os organismos competentes no que se refere ao ensino das artes visuais e da história da arte portuguesa;\n\nm) Atribuir prémios a obras de arte e a estudos históricos e críticos sobre arte portuguesa ou participar na sua atribuição, bem como em trabalhos de classificação em concursos;\n\nn) Aceitar doações, legados e heranças que tenham por fim o desenvolvimento das artes visuais e a defesa do património artístico;\n\no) Conservar e expor ao público as suas colecções de arte, incluindo os objectos que venham a ser incorporados no seu património, nos termos da alínea anterior;\n\np) Estabelecer relações com organismos congéneres, nacionais ou estrangeiros, podendo neles assumir as posições convenientes para a prossecução dos seus fins estatutários;\n\nq) Colaborar e participar em reuniões científicas nacionais e internacionais da sua especialidade, nomeadamente naquelas em que se incluam assuntos portugueses;\n\nr) Publicar um boletim e demais trabalhos que resultem da actividade académica.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145096158": {
+   "fragment_id": "145013131",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 3.º\n\nA Academia Nacional de Belas-Artes tem a sua sede em Lisboa, provisoriamente instalada no edifício da extinta Academia Real de Belas-Artes, e uma delegação distrital no Porto, constituída pelos académicos residentes naquela cidade.\n\n§ único. A Academia poderá constituir outras delegações distritais.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145096159": {
+   "fragment_id": "145013132",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 4.º\n\nNo património da Academia Nacional de Belas-Artes são incorporados, a título definitivo, a biblioteca, os arquivos, as colecções de arte e o mobiliário da extinta Academia Nacional de Belas-Artes.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145096160": {
+   "fragment_id": "145013133",
+   "type": 1,
+   "heading": "Capítulo II — Dos académicos e suas categorias",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "### Capítulo II — Dos académicos e suas categorias\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145096161": {
+   "fragment_id": "145013134",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 5.º\n\nO Presidente da República é o presidente de honra da Academia Nacional de Belas-Artes.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145096162": {
+   "fragment_id": "145013135",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10",
+    "Alterado pelo/a [Portaria n.º 297/99 - Diário da República n.º 99/1999, Série I-B de 1999-04-28](https://diariodarepublica.pt/dr/detalhe/portaria/297-1999-531462), em vigor a partir de 1999-05-03"
+   ],
+   "markdown": "###### Artigo 6.º\n\nA Academia Nacional de Belas-Artes é constituída por:\n\na) Académicos efectivos;\n\nb) Académicos correspondentes nacionais;\n\nc) Académicos correspondentes estrangeiros;\n\nd) Académicos honorários;\n\ne) Académicos de mérito;\n\ng) Académicos jubilados.\n\n§ 1.º Os académicos efectivos são em número de vinte, sendo designados de entre os académicos correspondentes nacionais e residentes em Portugal. As suas cadeiras são numeradas, transmitindo-se o número aos titulares sucessivos.\n\n§ 2.º Os académicos correspondentes nacionais são em número ilimitado, sendo designados de entre artistas e estudiosos de arte de nacionalidade portuguesa.\n\n§ 3.º Será tomada em consideração para a escolha de académicos indicados nos parágrafos anteriores, a necessidade de acolher na Academia artistas plásticos cuja obra marque um lugar importante na história da arte portuguesa contemporânea, professores, investigadores, autores e especialistas de museologia e de conservação do património artístico cuja obra tenha contribuído para o desenvolvimento dos estudos de arte em Portugal.\n\n§ 4.º Os académicos correspondentes estrangeiros são em número ilimitado, sendo designados de entre historiadores e investigadores, autores de trabalhos sobre arte portuguesa ou existente em Portugal.\n\n§ 5.º Os académicos honorários são em número ilimitado, sendo designados de entre individualidades nacionais e estrangeiras, residentes ou não em Portugal, que hajam contribuído com serviços valiosos ou doações para o desenvolvimento da arte e dos estudos artísticos em Portugal.\n\n§ 6.º Poderão ser eleitos académicos de mérito até dois académicos efectivos que hajam prestado altos serviços à arte portuguesa ou à Academia, os quais continuarão a preencher lugar no quadro de efectivos, a menos que sejam abrangidos pelo artigo 14.º\n\n§ 7.º Os académicos efectivos ou correspondentes nacionais passam a académicos jubilados nas circunstâncias definidas pelo artigo 15.º\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10\n\n> Alterado pelo/a [Portaria n.º 297/99 - Diário da República n.º 99/1999, Série I-B de 1999-04-28](https://diariodarepublica.pt/dr/detalhe/portaria/297-1999-531462), em vigor a partir de 1999-05-03"
+  },
+  "145096163": {
+   "fragment_id": "145013136",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 7.º\n\nO novo académico efectivo fará, em sessão ordinária e dentro do prazo de seis meses a contar da data da eleição, o «elogio» do académico para cuja cadeira tenha sido eleito, quando vaga por falecimento.\n\n§ 1.º Ao elogio responderá, na mesma sessão, outro académico efectivo convidado para o efeito, justificando a eleição do novo académico.\n\n§ 2.º O académico eleito que não pronuncie o elogio dentro do prazo estabelecido considera-se como havendo resignado, salvo caso de força maior.\n\n§ 3.º A mesa da Academia poderá agrupar «elogios» e «respostas» em sessão plenária.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145096164": {
+   "fragment_id": "145013137",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 8.º\n\n1) Deliberar, em sessões ordinárias e extraordinárias, sobre todos os assuntos que interessem à orientação geral e às actividades da Academia, colaborando com a mesa nesse sentido e determinando colegialmente a sua acção;\n\n2) Propor temas de discussão e estudo, iniciativas e intervenções da Academia, apresentar comunicações, realizar conferências, etc.;\n\n3) Aceitar, salvo motivo justificado, os cargos ou comissões para que forem nomeados ou eleitos.\n\n§ 1.º Os académicos efectivos assumem o compromisso de, salvo motivo de força maior, participar, pelo menos, em cinco sessões ordinárias por ano e de apresentar, pelo menos, uma comunicação por ano.\n\n§ 2.º A não apresentação durante dois anos consecutivos da comunicação referida no parágrafo anterior determina, salvo motivo de força maior, a perda de qualidade de académico, mediante deliberação da mesa ou da assembleia extraordinária por esta convocada para esse efeito.\n\n§ 3.º Da deliberação da mesa que excluir o académico nos termos do parágrafo anterior poderá o interessado reclamar para a assembleia, em sessão extraordinária expressa e obrigatoriamente convocada pela mesa para tal fim.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145096165": {
+   "fragment_id": "145013138",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 9.º\n\n1) Assistir, com função consultiva e sem direito a voto, às sessões para que forem convocados, apresentar comunicações, realizar conferências e colaborar nos trabalhos da Academia;\n\n2) Aceitar, salvo invocação de motivo justificado, as comissões para que forem nomeados ou eleitos.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145096166": {
+   "fragment_id": "145013139",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 10.º\n\nOs académicos correspondentes estrangeiros só poderão assistir às sessões para que forem convidados, não tendo direito a voto, mas podendo apresentar comunicações e participar em outras iniciativas e manifestações da Academia.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145096167": {
+   "fragment_id": "145013140",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 11.º\n\nOs académicos honorários, de mérito e jubilados poderão participar, com direito a voto, nas sessões para que foram convocados, tendo assento de direito nas sessões plenárias. Poderão igualmente apresentar comunicações e colaborar nos trabalhos da Academia.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145096168": {
+   "fragment_id": "145013141",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 12.º\n\n§ único. O uso da insígnia é obrigatório nas sessões solenes da Academia.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145096169": {
+   "fragment_id": "145013142",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 13.º\n\nOs académicos da Academia Nacional de Belas-Artes usarão de prorrogativas idênticas às dos sócios da Academia das Ciências de Lisboa.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145096170": {
+   "fragment_id": "145013143",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 14.º\n\na) Os académicos efectivos com menos de 70 anos de idade que não compareçam durante dez sessões ordinárias seguidas sem justificarem por escrito as suas faltas;\n\nb) Os académicos que, alegando motivo justificado, requeiram a sua exoneração;\n\nc) Os académicos que promoverem o descrético da Academia ou deixarem de observar os seus estatutos.\n\n§ 1.º A justificação das faltas será apreciada pela mesa; porém, da deliberação da mesa que retire a qualidade de académico, nos termos da alínea a) deste artigo, poderá o interessado apresentar, no prazo de dez dias a contar da notificação, reclamação por escrito, a apreciar em sessão extraordinária.\n\n§ 2.º A exclusão do académico baseada em qualquer dos factos referidos na alínea c) deste artigo só poderá ser deliberada em sessão ordinária, após discussão de relatório apresentado por uma comissão especialmente nomeada pela mesa.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145096171": {
+   "fragment_id": "145013144",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 15.º\n\nO académico, efectivo ou correspondente, que não cumpra as suas obrigações académicas por impossibilidade física permanente ou avançada idade, transitará para a categoria de académico jubilado, por deliberação da assembleia em sessão ordinária.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145096172": {
+   "fragment_id": "145013145",
+   "type": 1,
+   "heading": "Capítulo III — Dos cargos directivos e das sessões da Academia",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "### Capítulo III — Dos cargos directivos e das sessões da Academia\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145096173": {
+   "fragment_id": "145013146",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 16.º\n\nA mesa da Academia Nacional de Belas-Artes, eleita trienalmente de entre os académicos efectivos, é o órgão executivo da instituição, e é composta por um presidente, um vice-presidente, um secretário e um vice-secretário.\n\n§ único. A mesa delibera por maioria simples dos seus membros; em caso de empate, o presidente terá voto de qualidade.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145096174": {
+   "fragment_id": "145013147",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 17.º\n\n§ 1.º Para eleição da mesa é necessária a presença de um mínimo de metade de académicos efectivos em exercício.\n\n§ 2.º É admitido o voto por correspondência, em papel normalizado, fornecido pela Academia, dobrado em quatro, enviado em sobrescrito lacrado dirigido ao presidente da mesa cessante, anexo a uma justificação da ausência.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145100075": {
+   "fragment_id": "145013148",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 18.º\n\na) Determinar as convocações das sessões da Academia e a ordem dos trabalhos;\n\nb) Fazer cumprir os estatutos;\n\nc) Promover a eleição para o preenchimento das vagas de académicos efectivos, assim como a eleição de académicos para as outras categorias;\n\nd) Organizar o projecto de orçamento e submetê-lo à apreciação da assembleia em sessão ordinária.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145100076": {
+   "fragment_id": "145013149",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 19.º\n\na) Representar a Academia junto do Governo e outras instâncias oficiais;\n\nb) Representar a Academia junto de organismos culturais congéneres e outros, nacionais ou estrangeiros, e em todos os actos oficiais que justifiquem a sua presença, podendo delegar esta em qualquer vogal efectivo;\n\nc) Dirigir os trabalhos das sessões da Academia;\n\nd) Rubricar os livros da secretaria e assinar os respectivos termos de abertura e encerramento.\n\n§ único. Na ausência do presidente e do vice-presidente, dirigirá os trabalhos o académico efectivo mais antigo dos presentes à sessão.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145100077": {
+   "fragment_id": "145013150",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 20.º\n\na) Dirigir o expediente;\n\nb) Ler em sessão a correspondência recebida;\n\nc) Redigir as actas em livro especial e proceder à sua leitura em sessão;\n\nd) Minutar a correspondência e redigir comunicados aos órgãos de informação;\n\ne) Convocar, por indicação da mesa, as sessões da Academia mediante avisos especiais, comunicando a ordem dos trabalhos;\n\nf) Inspeccionar os serviços da secretaria, da biblioteca e dos arquivos.\n\n§ 1.º Na ausência do secretário e do vice-secretário, será convidado a secretariar a reunião o académico efectivo mais moderno dos presentes à sessão.\n\n§ 2.º A mesa poderá delegar em qualquer dos académicos que a compõem, ou noutro académico efectivo, a inspecção dos serviços de contabilidade.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145100078": {
+   "fragment_id": "145013151",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 21.º\n\nComo recompensa de serviços prestados, poderá a Academia conceder, por deliberação em sessão ordinária, o título de secretário perpétuo.\n\n§ único. A Academia poderá proceder à eleição de novo secretário quando o secretário perpétuo ascender à categoria de académico jubilado, mantendo o título para além do termo do exercício de funções.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145100079": {
+   "fragment_id": "145013152",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 22.º\n\nO falecimento, exoneração ou impedimento permanente do presidente terá como consequência a demissão da mesa e eleição de nova mesa na primeira ou na segunda sessão ordinária consecutiva.\n\n§ único. No caso de falecimento, exoneração ou impedimento permanente de qualquer outro membro da mesa, proceder-se-á à eleição para o seu cargo na primeira sessão ordinária.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145100080": {
+   "fragment_id": "145013153",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 23.º\n\nSão instituídos os seguintes cargos permanentes destinados a coordenar determinadas funções específicas da Academia:\n\na) Dois académicos-directores da biblioteca;\n\nb) Académico-conservador do património artístico;\n\nc) Académico-director do Centro de Informação e Arquivos;\n\nd) Académico-director do serviço de registo bibliográfico;\n\ne) Comissão directiva dos trabalhos do inventário artístico de Portugal;\n\nf) Comissão directiva do Boletim, composta por três membros, um dos quais terá função de secretário. A mesma comissão terá a seu cargo as outras publicações da Academia.\n\n§ 1.º Estes cargos são exercidos por académicos efectivos ou correspondentes nacionais propostos pela mesa e eleitos trienalmente em sessão extraordinária convocada para o efeito, onde os académicos correspondentes nacionais terão direito a voto.\n\n§ 2.º Os titulares destes cargos apresentarão relatórios anuais, que serão lidos e discutidos em sessão ordinária.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145100081": {
+   "fragment_id": "145013154",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 24.º\n\nAs sessões da Academia Nacional de Belas-Artes poderão ser ordinárias, restritas, extraordinárias ou plenárias.\n\n§ 1.º As sessões ordinárias realizar-se-ão uma vez por mês, exceptuados os meses de Agosto e Setembro. Nelas têm assento os académicos efectivos e, quando convocados, os académicos correspondentes nacionais.\n\n§ 2.º Nas sessões restritas participarão os académicos efectivos ou correspondentes especialmente convocados por motivo dos seus conhecimentos especializados em determinada matéria ou por terem sido encarregados de algum trabalho.\n\n§ 3.º As sessões extraordinárias realizar-se-ão por convocação da mesa, quer por sua iniciativa, quer a requerimento de, pelo menos, cinco académicos efectivos. Nelas têm assento os académicos efectivos e, quando convocados, os académicos correspondentes nacionais.\n\n§ 4.º As sessões plenárias realizar-se-ão por iniciativa da mesa, nelas participando todas as categorias de académicos.\n\n§ único. As actas das sessões, depois de aprovadas, serão assinadas pelo presidente e pelo secretário ou por quem os substitua.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145100082": {
+   "fragment_id": "145013155",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 25.º\n\nAs questões relativas à gestão administrativa da Academia serão resolvidas nas sessões ordinárias.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145100083": {
+   "fragment_id": "145013156",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 26.º\n\nTodas as eleições se realizarão em sessão ordinária, por escrutínio secreto, nelas participando exclusivamente os académicos efectivos, com excepção da eleição para os cargos a que se refere o artigo 23.º, em que participarão também, com direito a voto, os académicos correspondentes nacionais.\n\n§ 1.º Os académicos correspondentes deverão ser eleitos por maioria dos presentes.\n\n§ 2.º Os académicos efectivos e honorários deverão ser eleitos por maioria de dois terços, pelo menos, dos presentes.\n\n§ 3.º Os académicos de mérito deverão ser eleitos por maioria de três quartos, pelo menos, de todos os académicos efectivos, pedindo-se aos ausentes que votem por correspondência.\n\n§ 4.º As eleições a que se refere o artigo 17.º realizar-se-ão no mês de Novembro que anteceder o fim do mandato, sendo permitida a reeleição.\n\n§ 5.º A designação para os cargos ou para qualquer categoria de académicos será sempre publicada no Diário da República.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145100084": {
+   "fragment_id": "145013157",
+   "type": 1,
+   "heading": "Capítulo IV — Administração da Academia",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "### Capítulo IV — Administração da Academia\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145100085": {
+   "fragment_id": "145013158",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 27.º\n\nA Academia Nacional de Belas-Artes organizará todos os anos o seu orçamento, do qual constarão as despesas com o inventário artístico de Portugal, a edição do Boletim e demais publicações, congressos, exposições, compras de livros, assinaturas de revistas e outras despesas reputadas indispensáveis.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145100086": {
+   "fragment_id": "145013159",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 28.º\n\nEm regulamento interno, aprovado em sessão ordinária, ficará consignado o modo e funcionamento dos serviços a cargo do pessoal técnico, administrativo e auxiliar do quadro da Academia Nacional de Belas-Artes.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145100087": {
+   "fragment_id": "145013160",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 29.º\n\nO Boletim da Academia Nacional de Belas-Artes terá como director o presidente da Academia e terá um corpo directivo composto por três académicos, um dos quais assumirá as funções de secretário de redacção.\n\n§ 1.º Das conferências, comunicações e outros trabalhos dos académicos publicados no Boletim podem fazer-se edições especiais, em separado, tendo o seu autor direito a cinquenta exemplares.\n\n§ 2.º O Boletim será permutado ou oferecido pela Academia com os estabelecimentos literários e artísticos do País e aos organismos congéneres do estrangeiro.\n\n§ 3.º A colaboração no Boletim, quando não for remunerada, deixa aos autores a propriedade dos seus direitos para futuras publicações.\n\n§ 4.º O Boletim deverá publicar-se, pelo menos, uma vez por ano.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145100088": {
+   "fragment_id": "145013161",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 30.º\n\nTodos os académicos, de qualquer categoria, receberão um exemplar de todas as publicações da Academia a contar da data da sua admissão.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145100089": {
+   "fragment_id": "145013162",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 31.º\n\nOs trabalhos do inventário artístico de Portugal, dos legados e prémios, da missão estética de férais, do património artístico da Academia, biblioteca, do Centro de Informação e Arquivos, dos serviços bibliográficos e das publicações serão objecto de regulamentos específicos.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  },
+  "145100090": {
+   "fragment_id": "145013163",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": "2020-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+   ],
+   "markdown": "###### Artigo 32.º\n\nPara os casos omissos, a Academia deliberará em sessão extraordinária, com dependência de homologação do Secretário de Estado.\n\nSecretaria de Estado da Cultura, 27 de Janeiro de 1978. - O Secretário de Estado da Cultura, David Mourão Ferreira.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 238/2020 - Diário da República n.º 197/2020, Série I de 2020-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/238-2020-145012186), em vigor a partir de 2020-10-10"
+  }
+ }
+}

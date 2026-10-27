@@ -1,0 +1,333 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32008R0637:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0637-20131220",
+ "dre_path": null,
+ "source_lastmod": "2013-12-20",
+ "versions": [
+  {
+   "date": "2008-07-05",
+   "future": false,
+   "celex": "32008R0637",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b8cf97040f6bf3df",
+    "226c39ffd0a88dad",
+    "a080df32c901b97b",
+    "fadd1e9dda9f2522",
+    "8a6992ea3c104fd1",
+    "1348b881a06e2369",
+    "f99fb24d2da2853f",
+    "3d38db327a69941a",
+    "c682a3a4ab1a7f39",
+    "22fcd3c67b5628d9",
+    "d87641c2b37411f6",
+    "e1529fbeae94c317",
+    "854a40ee927be19b",
+    "33eaeedae52044a2",
+    "1e329c8e06fd333f",
+    "c34b9445885bef73"
+   ]
+  },
+  {
+   "date": "2009-06-16",
+   "future": false,
+   "celex": "02008R0637-20090616",
+   "acts": [
+    {
+     "id": "eu:celex:32009R0472:por",
+     "title": "REGULAMENTO (CE) N. o 472/2009 DO CONSELHO de 25 de Maio de 2009",
+     "published": null,
+     "celex": "32009R0472"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Alteração do Regulamento (CE) n.º 1782/2003",
+    "Altera Artigo 4.º — Apresentação e aplicação dos programas de reestruturação",
+    "Altera Artigo 5.º — Dotação orçamental",
+    "Altera Artigo 7.º — Medidas elegíveis e beneficiários",
+    "Altera Artigo 8.º — Recursos financeiros",
+    "Altera Artigo 9.º — Regras de execução",
+    "Altera Artigo 10.º — Entrada em vigor e aplicação",
+    "Altera Notas",
+    "Adita «CAPÍTULO 10-A"
+   ],
+   "fragments": [
+    "d4b8848abad9110c",
+    "226c39ffd0a88dad",
+    "a080df32c901b97b",
+    "f1bb21ea7537c026",
+    "91d29e006af88871",
+    "3da0a124e4d58c66",
+    "8a6992ea3c104fd1",
+    "1348b881a06e2369",
+    "f99fb24d2da2853f",
+    "3d38db327a69941a",
+    "a571ca60ef9ff00d",
+    "921a41360533faa5",
+    "d87641c2b37411f6",
+    "2130d788f1472d5a",
+    "8b0da58a8d527721",
+    "6d65d167f4b3c28d",
+    "3c00362874d6f632",
+    "708d288f22504312"
+   ]
+  },
+  {
+   "date": "2013-12-20",
+   "future": false,
+   "celex": "02008R0637-20131220",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime PAGAMENTO ESPECÍFICO PARA O ALGODÃO",
+    "Suprime Artigo 1.º — Alteração do Regulamento (CE) n.º 1782/2003",
+    "Suprime «CAPÍTULO 10-A",
+    "Suprime CAPÍTULO 2",
+    "Suprime PROGRAMAS NACIONAIS DE REESTRUTURAÇÃO PARA O SECTOR DO ALGODÃO",
+    "Suprime Artigo 2.º — Âmbito de aplicação",
+    "Suprime Artigo 3.º — Requisitos gerais",
+    "Suprime Artigo 4.º — Apresentação e aplicação dos programas de reestruturação",
+    "Suprime Artigo 5.º — Dotação orçamental",
+    "Suprime Artigo 6.º — Regras gerais aplicáveis ao financiamento dos programas de reestruturação",
+    "Suprime Artigo 7.º — Medidas elegíveis e beneficiários",
+    "Suprime Artigo 8.º — Recursos financeiros",
+    "Suprime Artigo 9.º — Regras de execução",
+    "Suprime Artigo 10.º — Entrada em vigor e aplicação",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "3519987fe8380cfb"
+   ]
+  }
+ ],
+ "fragments": {
+  "b8cf97040f6bf3df": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Junho de 2008\n\nque altera o Regulamento (CE) n.º 1782/2003 e institui programas nacionais de reestruturação para o sector do algodão\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o terceiro parágrafo do n.º 2 do artigo 37.º,\n\nTendo em conta o Acto de Adesão de 1979, nomeadamente o n.º 6 do Protocolo n.º 4 relativo ao algodão [([^1])](http://publications.europa.eu/resource/cellar/483d818c-d325-496b-a33a-0bc9a265d3fe.0018.02/DOC_1#ntr1-L_2008178PT.01000101-E0001), a seguir designado «Protocolo»,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu [([^2])](http://publications.europa.eu/resource/cellar/483d818c-d325-496b-a33a-0bc9a265d3fe.0018.02/DOC_1#ntr2-L_2008178PT.01000101-E0002),\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^3])](http://publications.europa.eu/resource/cellar/483d818c-d325-496b-a33a-0bc9a265d3fe.0018.02/DOC_1#ntr3-L_2008178PT.01000101-E0003),\n\nConsiderando o seguinte:\n\n(1) O capítulo 10-A do título IV do Regulamento (CE) n.º 1782/2003 do Conselho, de 29 de Setembro de 2003, que estabelece regras comuns para os regimes de apoio directo no âmbito da política agrícola comum e institui determinados regimes de apoio aos agricultores [([^4])](http://publications.europa.eu/resource/cellar/483d818c-d325-496b-a33a-0bc9a265d3fe.0018.02/DOC_1#ntr4-L_2008178PT.01000101-E0004), inserido pelo n.º 20 do artigo 1.º do Regulamento (CE) n.º 864/2004 do Conselho [([^5])](http://publications.europa.eu/resource/cellar/483d818c-d325-496b-a33a-0bc9a265d3fe.0018.02/DOC_1#ntr5-L_2008178PT.01000101-E0005), estabelece regras para o pagamento específico para o algodão.\n\n(2) Por acórdão do Tribunal de Justiça das Comunidades Europeias, de 7 de Setembro de 2006, no processo C-310/04 [([^6])](http://publications.europa.eu/resource/cellar/483d818c-d325-496b-a33a-0bc9a265d3fe.0018.02/DOC_1#ntr6-L_2008178PT.01000101-E0006), o capítulo 10-A do título IV do Regulamento (CE) n.º 1782/2003 foi anulado por violação do princípio da proporcionalidade, nomeadamente porque «o Conselho, autor do Regulamento n.º 864/2004, não demonstrou ao Tribunal que o novo regime de ajuda ao algodão instituído por este regulamento tinha sido adoptado mediante um exercício efectivo do seu poder de apreciação, que implicava a tomada em consideração de todos os elementos e circunstâncias pertinentes do caso em apreço, entre os quais todos os custos salariais ligados à cultura do algodão e a viabilidade das empresas de descaroçamento, cuja tomada em consideração era necessária para a apreciação da rentabilidade desta cultura» e por não ter sido permitido ao Tribunal de Justiça «verificar se o legislador comunitário pôde, sem ultrapassar os limites do amplo poder de apreciação de que dispõe na matéria, chegar à conclusão de que a fixação do montante da ajuda específica ao algodão em 35 % do total das ajudas existentes no regime de ajuda anterior basta para garantir o objectivo exposto no quinto considerando do Regulamento (CE) n.º 864/2004, que é assegurar a rentabilidade e, portanto, o prosseguimento dessa cultura, objectivo que reflecte o prescrito no n.º 2 do Protocolo n.º 4». O Tribunal de Justiça ordenou igualmente que os efeitos da anulação fossem mantidos suspensos até à aprovação, num prazo razoável, de um novo regulamento.\n\n(3) É necessário aprovar um novo regime de pagamentos específicos para o algodão em conformidade com o acórdão do Tribunal de Justiça no processo C-310/04.\n\n(4) Todos os elementos e circunstâncias pertinentes relativos à situação específica do sector do algodão, incluindo todos os factores necessários para avaliar a rentabilidade dessa cultura, deverão ser tomados em consideração. Para tal, foi lançado um processo de avaliação e consulta: foram realizados dois estudos sobre o impacto socioeconómico e o impacto ambiental do futuro regime de ajuda ao algodão no sector comunitário do algodão e foram organizados seminários específicos e uma consulta das partes interessadas através da internet.\n\n(5) O novo regime deverá permitir a consecução dos objectivos, estabelecidos no n.º 2 do Protocolo, de promover a produção de algodão nas regiões da Comunidade onde seja importante para a economia agrícola, permitir um rendimento equitativo aos produtores em causa e estabilizar o mercado mediante a melhoria das estruturas ao nível da oferta e da comercialização.\n\n(6) O regime deverá estar também em consonância com uma política de apoio ao rendimento dos agricultores, que é o mais importante princípio orientador da política agrícola comum (PAC) reformada.\n\n(7) A dissociação do apoio directo ao produtor e a introdução de um regime de pagamento único constituem elementos essenciais do processo de reforma da PAC. O Regulamento (CE) n.º 1782/2003 introduziu esses elementos para diversos produtos agrícolas.\n\n(8) Com vista à consecução dos objectivos subjacentes à reforma da PAC, bem como dos objectivos estabelecidos no Protocolo, o apoio ao algodão deverá ser amplamente dissociado e integrado no regime de pagamento único. Atendendo a que esses objectivos não podem ser suficientemente realizados pelos Estados-Membros e podem, pois, devido à necessidade de uma acção comum, ser melhor alcançados ao nível comunitário, a Comunidade pode tomar medidas de acordo com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aqueles objectivos.\n\n(9) A integração plena e imediata do regime de apoio ao sector do algodão no regime de pagamento único implicaria provavelmente um risco significativo de perturbações da produção nas regiões comunitárias produtoras de algodão. Por conseguinte, uma parte do apoio deverá continuar ligada ao cultivo do algodão através de um pagamento específico por hectare elegível. O seu montante deverá ser calculado de modo a possibilitar a realização dos objectivos estabelecidos no n.º 2 do Protocolo e, simultaneamente, a inscrever o regime de apoio ao algodão no processo geral de reforma e simplificação da PAC. Para o efeito, à luz da avaliação realizada, justifica-se que a ajuda disponível total para cada Estado-Membro seja fixada em 35 % da parte nacional da ajuda de que os produtores beneficiavam indirectamente. Tal taxa permite que o sector do algodão se oriente para a viabilidade a longo prazo, promove o desenvolvimento sustentável das regiões produtoras e garante aos agricultores um rendimento equitativo.\n\n(10) É necessário integrar no regime de pagamento único os restantes 65 % da parte nacional da ajuda de que os produtores beneficiavam indirectamente.\n\n(11) Por razões ambientais, deverá ser estabelecida uma superfície de base por Estado-Membro produtor. Além disso, as superfícies elegíveis deverão ficar limitadas às autorizadas pelos Estados-Membros.\n\n(12) Deverá ser estabelecido um rendimento fixo por hectare para cada Estado-Membro produtor. Tal determinará — juntamente com o requisito da superfície de base, a limitação global dos fundos e o carácter fundamentalmente dissociado do regime — a natureza limitativa da produção do programa, satisfazendo ao mesmo tempo os objectivos do Protocolo.\n\n(13) Para satisfazer as necessidades da indústria de descaroçamento, a elegibilidade para a ajuda deverá estar relacionada com uma qualidade mínima de algodão efectivamente colhido.\n\n(14) Além disso, deverá ser incentivada a criação de organizações interprofissionais, que serão aprovadas pelos Estados-Membros, para que os produtores e descaroçadores possam melhorar a qualidade do algodão. A Comunidade deverá contribuir indirectamente para as actividades dessas organizações, através do aumento da ajuda concedida aos agricultores que sejam membros dessas organizações.\n\n(15) Por conseguinte, o Regulamento (CE) n.º 1782/2003 deverá ser alterado em conformidade.\n\n(16) Além do novo regime sobre o pagamento específico para o algodão, seria adequado aprovar outro conjunto de regras destinadas a ajudar o sector do algodão a estabilizar-se no novo contexto jurídico e de mercado.\n\n(17) Na medida em que a presença da indústria de descaroçamento se afigure necessária nas regiões produtoras, as necessidades dessa indústria seriam suficientemente satisfeitas, nomeadamente, fixando uma qualidade mínima do algodão realmente colhido e permitindo às organizações interprofissionais melhorar a qualidade do algodão. Além disso, dada a grande sobrecapacidade da indústria de descaroçamento, é conveniente prever medidas adicionais para apoiar o seu processo de reestruturação tendo em vista uma melhor orientação do mercado.\n\n(18) Além disso, é conveniente introduzir medidas adequadas de orientação do mercado que apoiem regimes de qualidade específicos e actividades de promoção conexas. Por conseguinte, deverão ser instituídos programas nacionais para a reestruturação do sector do algodão. Embora as medidas pertinentes devam ser financiadas pela Comunidade, deverão ser os Estados-Membros a seleccionar a correcta combinação para as suas necessidades, atendendo sempre que necessário às especificidades regionais.\n\n(19) Os programas de reestruturação deverão ser apresentados à Comissão, que verificará se as medidas respeitam as condições estabelecidas no presente regulamento e nas suas regras de execução. Os Estados-Membros deverão ser responsáveis pela execução de tais programas.\n\n(20) As medidas deverão complementar as já existentes no Regulamento (CE) n.º 1698/2005 do Conselho, de 20 de Setembro de 2005, relativo ao apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (Feader) [([^7])](http://publications.europa.eu/resource/cellar/483d818c-d325-496b-a33a-0bc9a265d3fe.0018.02/DOC_1#ntr7-L_2008178PT.01000101-E0007).\n\n(21) As medidas nesses programas podem incluir o desmantelamento total e permanente de parte das instalações de descaroçamento, a fim de assegurar uma indústria de descaroçamento mais viável. Também pode ser dado apoio aos investimentos na indústria de transformação destinados a melhorar o desempenho económico das empresas enquanto tais. Além disso, pode ser disponibilizada ajuda aos fornecedores de maquinaria afectados em consequência da reestruturação do sector do algodão.\n\n(22) Para melhorar a qualidade do algodão europeu, os agricultores que participem em regimes específicos de qualidade deverão receber, no âmbito desses programas, apoio específico para cobrir alguns dos custos conexos. Deverão igualmente ser apoiadas acções de informação e promoção relativas ao algodão abrangidas pelos referidos regimes.\n\n(23) A repartição de fundos pelos Estados-Membros para os programas nacionais de reestruturação deverá basear-se nas necessidades específicas de reestruturação e adaptação nas principais regiões produtoras de algodão. Atendendo ao objectivo temporário de reestruturação e adaptação do sector do algodão, pode ser posto termo aos programas a pedido dos Estados-Membros, após o que o orçamento anual para os programas de reestruturação poderá ser adicionado ao limite máximo nacional do Estado-Membro em questão para os pagamentos dissociados previsto no anexo VIII do Regulamento (CE) n.º 1782/2003.\n\n(24) Atendendo à ausência de indústria de descaroçamento em Portugal e à aplicação do regime de pagamento único por superfície na Bulgária, não é necessário atribuir um orçamento aos programas nacionais de reestruturação nestes dois Estados-Membros.\n\n(25) Para que o novo regime de ajuda ao algodão e o regime de reestruturação deste sector sejam aplicados a partir do início da campanha de produção, o presente regulamento é aplicável a partir do ano civil de 2009,\n\nAPROVOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "a080df32c901b97b": {
+   "fragment_id": "PAGAMENTO ESPECÍFICO PARA O ALGODÃO",
+   "type": "divisao",
+   "heading": "PAGAMENTO ESPECÍFICO PARA O ALGODÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PAGAMENTO ESPECÍFICO PARA O ALGODÃO"
+  },
+  "fadd1e9dda9f2522": {
+   "fragment_id": "Artigo 1.º — Alteração do Regulamento (CE) n.º 1782/2003",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Alteração do Regulamento (CE) n.º 1782/2003",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alteração do Regulamento (CE) n.º 1782/2003\n\nO Regulamento (CE) n.º 1782/2003 é alterado do seguinte modo:\n\n1. No título IV, o capítulo 10-A passa a ter a seguinte redacção: «CAPÍTULO 10-A PAGAMENTO ESPECÍFICO PARA O ALGODÃO Artigo 110.º-A Âmbito de aplicação É concedida uma ajuda aos agricultores que produzam algodão do código NC 5201 00, nas condições estabelecidas no presente capítulo. Artigo 110.º-B Elegibilidade 1. A ajuda é concedida por hectare de superfície elegível de algodão. Para que seja elegível, a superfície deve situar-se em terras agrícolas que beneficiem de uma autorização do Estado-Membro para a produção de algodão, ser semeada com variedades autorizadas e ser efectivamente objecto de colheita em condições de crescimento normais. A ajuda referida no artigo 110.º-A é paga para o algodão de qualidade sã, íntegra e comercializável. 2. Os Estados-Membros autorizam as terras e as variedades referidas no n.º 1 do presente artigo em conformidade com regras de execução e condições aprovadas nos termos do n.º 2 do artigo 144.º Artigo 110.º-C Superfícies de base, rendimentos fixos e montantes de referência 1. São estabelecidas as seguintes superfícies de base nacionais: — Bulgária: 3 342 ha, — Grécia: 250 000 ha, — Espanha: 48 000 ha, — Portugal: 360 ha. 2. São estabelecidos os seguintes rendimentos fixos no período de referência: — Bulgária: 1,2 toneladas/ha, — Grécia: 3,2 toneladas/ha, — Espanha: 3,5 toneladas/ha, — Portugal: 2,2 toneladas/ha. 3. Estabelece-se o montante da ajuda por hectare elegível multiplicando os rendimentos previstos no n.º 2 pelos seguintes montantes de referência: — Bulgária: 671,33 EUR, — Grécia: 251,75 EUR, — Espanha: 400,00 EUR, — Portugal: 252,73 EUR. 4. Se a superfície elegível de algodão num dado Estado-Membro e num dado ano exceder a superfície de base estabelecida no n.º 1, a ajuda referida no n.º 3 para esse Estado-Membro é reduzida proporcionalmente à superação da superfície de base. 5. As regras de execução do presente artigo são aprovadas nos termos do n.º 2 do artigo 144.º Artigo 110.º-D Organizações interprofissionais aprovadas 1. Para efeitos do presente capítulo, entende-se por “organização interprofissional aprovada” uma pessoa colectiva constituída por agricultores que produzam algodão e, pelo menos, um descaroçador, que desenvolvam actividades tais como: — contribuição para uma melhor coordenação da colocação do algodão no mercado, nomeadamente através de pesquisas ou de estudos de mercado, — elaboração de contratos-tipo compatíveis com as regras comunitárias, — orientação da produção para produtos mais bem adaptados às necessidades do mercado e à procura dos consumidores, em especial no que se refere aos aspectos da qualidade e da protecção do consumidor, — actualização de métodos e meios destinados a melhorar a qualidade do produto, — elaboração de estratégias de comercialização destinadas a promover o algodão através de regimes de certificação da qualidade. 2. O Estado-Membro em cujo território os descaroçadores estejam estabelecidos aprova as organizações interprofissionais que respeitem os critérios a aprovar nos termos do n.º 2 do artigo 144.º Artigo 110.º-E Pagamento da ajuda 1. A ajuda é concedida aos agricultores por hectare elegível nos termos do artigo 110.º-C. 2. Os agricultores membros de uma organização interprofissional aprovada recebem uma ajuda por hectare elegível dentro da superfície de base estabelecida no n.º 1 do artigo 110.º-C, acrescida de um montante de 2 EUR.».\n\n— Bulgária: 3 342 ha,\n\n— Grécia: 250 000 ha,\n\n— Espanha: 48 000 ha,\n\n— Portugal: 360 ha.\n\n— Bulgária: 1,2 toneladas/ha,\n\n— Grécia: 3,2 toneladas/ha,\n\n— Espanha: 3,5 toneladas/ha,\n\n— Portugal: 2,2 toneladas/ha.\n\n— Bulgária: 671,33 EUR,\n\n— Grécia: 251,75 EUR,\n\n— Espanha: 400,00 EUR,\n\n— Portugal: 252,73 EUR.\n\n— contribuição para uma melhor coordenação da colocação do algodão no mercado, nomeadamente através de pesquisas ou de estudos de mercado,\n\n— elaboração de contratos-tipo compatíveis com as regras comunitárias,\n\n— orientação da produção para produtos mais bem adaptados às necessidades do mercado e à procura dos consumidores, em especial no que se refere aos aspectos da qualidade e da protecção do consumidor,\n\n— actualização de métodos e meios destinados a melhorar a qualidade do produto,\n\n— elaboração de estratégias de comercialização destinadas a promover o algodão através de regimes de certificação da qualidade.\n\n2. No n.º 2 do artigo 156.º, a alínea g) passa a ter a seguinte redacção: «g) O capítulo 10-A do título IV é aplicável a partir de 1 de Janeiro de 2009 ao algodão semeado a partir dessa data.».\n\n«g) O capítulo 10-A do título IV é aplicável a partir de 1 de Janeiro de 2009 ao algodão semeado a partir dessa data.»."
+  },
+  "8a6992ea3c104fd1": {
+   "fragment_id": "CAPÍTULO 2",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 2"
+  },
+  "1348b881a06e2369": {
+   "fragment_id": "PROGRAMAS NACIONAIS DE REESTRUTURAÇÃO PARA O SECTOR DO ALGODÃO",
+   "type": "divisao",
+   "heading": "PROGRAMAS NACIONAIS DE REESTRUTURAÇÃO PARA O SECTOR DO ALGODÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROGRAMAS NACIONAIS DE REESTRUTURAÇÃO PARA O SECTOR DO ALGODÃO"
+  },
+  "f99fb24d2da2853f": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. O presente capítulo estabelece as regras que regem a atribuição de fundos comunitários aos Estados-Membros e a sua utilização por estes, mediante programas nacionais de reestruturação (adiante designados «programas de reestruturação»), para financiar medidas específicas de reestruturação do sector do algodão.\n\n2. Não é concedido qualquer apoio:\n\na) A projectos de investigação e medidas de apoio a projectos de investigação;\n\nb) A medidas elegíveis para apoio comunitário no âmbito do Regulamento (CE) n.º 1698/2005 do Conselho."
+  },
+  "3d38db327a69941a": {
+   "fragment_id": "Artigo 3.º — Requisitos gerais",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Requisitos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisitos gerais\n\n1. Os programas de reestruturação devem ser compatíveis com a legislação comunitária e coerentes com as actividades, políticas e prioridades da Comunidade.\n\n2. Os Estados-Membros são responsáveis pelos programas de reestruturação, asseguram a sua coerência interna e garantem que sejam elaborados e aplicados de forma objectiva, atendendo à situação económica dos produtores e transformadores em causa e à necessidade de evitar desigualdades de tratamento injustificadas entre produtores e/ou transformadores.\n\nOs Estados-Membros são responsáveis por prever e aplicar os controlos e as sanções necessários em caso de incumprimento dos programas de reestruturação."
+  },
+  "c682a3a4ab1a7f39": {
+   "fragment_id": "Artigo 4.º — Apresentação e aplicação dos programas de reestruturação",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Apresentação e aplicação dos programas de reestruturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Apresentação e aplicação dos programas de reestruturação\n\n1. Cada Estado-Membro produtor apresenta de quatro em quatro anos à Comissão, fazendo-o pela primeira vez até 1 de Janeiro de 2009, um projecto de programa de reestruturação quadrienal, constituído por medidas em conformidade com o presente capítulo.\n\nAntes de ser apresentado à Comissão, o programa de reestruturação é objecto de consultas com as autoridades e organizações competentes no sector do algodão.\n\nCada Estado-Membro apresenta um único projecto de programa, que pode contemplar especificidades regionais.\n\n2. Os programas de reestruturação tornam-se aplicáveis três meses após a sua apresentação à Comissão.\n\nContudo, se o programa apresentado não cumprir as condições estabelecidas no presente capítulo e as suas regras de execução, a Comissão informa do facto o Estado-Membro. Em tal caso, o Estado-Membro apresenta um programa revisto à Comissão. O programa revisto torna-se aplicável dois meses após a sua apresentação, a menos que subsista uma incompatibilidade, caso em que se aplica o presente número.\n\n3. O n.º 2 aplica-se, *mutatis mutandis*, às alterações de programas de reestruturação apresentadas pelos Estados-Membros."
+  },
+  "22fcd3c67b5628d9": {
+   "fragment_id": "Artigo 5.º — Dotação orçamental",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Dotação orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Dotação orçamental\n\n1. O orçamento anual do programa de reestruturação, por Estado-Membro, a partir do exercício financeiro de 2010 é o seguinte:\n\n— Grécia: 4,0 milhões de EUR,\n\n— Espanha: 6,134 milhões de EUR.\n\n2. Cada Estado-Membro pode decidir deixar de utilizar o programa de reestruturação a fim de transferir a título permanente o respectivo orçamento anual, previsto no n.º 1 do presente artigo, para os seus limites máximos nacionais, tal como determinados no anexo VIII do Regulamento (CE) n.º 1782/2003. Essa decisão é notificada à Comissão até 1 de Agosto do ano em causa e é aplicável aos pagamentos directos concedidos a título do ano civil seguinte. A notificação inclui também um relatório sobre a execução do programa de reestruturação e a realização dos seus objectivos.\n\n3. A transferência prevista no n.º 2 do presente artigo, bem como a correspondente alteração do n.º 1 do presente artigo, são aprovadas nos termos do n.º 2 do artigo 144.º do Regulamento (CE) n.º 1782/2003, após avaliação, pela Comissão, da execução do programa de reestruturação à luz dos seus objectivos."
+  },
+  "d87641c2b37411f6": {
+   "fragment_id": "Artigo 6.º — Regras gerais aplicáveis ao financiamento dos programas de reestruturação",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Regras gerais aplicáveis ao financiamento dos programas de reestruturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regras gerais aplicáveis ao financiamento dos programas de reestruturação\n\n1. O apoio comunitário incide apenas nas despesas elegíveis efectuadas após a apresentação do programa de reestruturação pertinente, referido no n.º 1 do artigo 4.º\n\n2. Os Estados-Membros não contribuem para os custos de medidas financiadas pela Comunidade ao abrigo dos programas de reestruturação."
+  },
+  "e1529fbeae94c317": {
+   "fragment_id": "Artigo 7.º — Medidas elegíveis e beneficiários",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Medidas elegíveis e beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Medidas elegíveis e beneficiários\n\n1. Os programas de reestruturação compreendem unicamente uma ou mais das seguintes medidas:\n\na) Desmantelamento total e permanente das instalações de descaroçamento;\n\nb) Investimentos na indústria de descaroçamento;\n\nc) Participação dos agricultores em regimes de qualidade do algodão;\n\nd) Actividades de informação e de promoção;\n\ne) Ajuda aos fornecedores de maquinaria, desde que não exceda as perdas sofridas.\n\n2. Os beneficiários dos programas de reestruturação são:\n\na) Para a ajuda ao abrigo das medidas referidas nas alíneas a), b) e d) do n.º 1 do presente artigo, os beneficiários da ajuda a título do capítulo IV do Regulamento (CE) n.º 1051/2001 do Conselho, de 22 de Maio de 2001, relativo à ajuda à produção de algodão [([^8])](http://publications.europa.eu/resource/cellar/483d818c-d325-496b-a33a-0bc9a265d3fe.0018.02/DOC_1#ntr8-L_2008178PT.01000101-E0008), durante a campanha de comercialização de 2005/2006;\n\nb) Para a ajuda ao abrigo das medidas referidas nas alíneas c) e d) do n.º 1 do presente artigo, os beneficiários da ajuda a título do capítulo 10-A do Regulamento (CE) n.º 1782/2003;\n\nc) Para a ajuda ao abrigo das medidas referidas na alínea d) do n.º 1 do presente artigo, as organizações interprofissionais aprovadas, tal como definidas no capítulo 10-A do Regulamento (CE) n.º 1782/2003;\n\nd) Para a ajuda ao abrigo da medida referida na alínea e) do n.º 1 do presente artigo, os fornecedores de maquinaria que: — são particulares ou empresas que utilizaram a sua maquinaria agrícola para a colheita de algodão no âmbito de um contrato com os produtores ou os descaroçadores durante a campanha de comercialização de 2005/2006, — colheram algodão que foi entregue a instalações de descaroçamento afectadas pelo desmantelamento referido na alínea a) do n.º 1 do presente artigo, e — sofreram perdas demonstráveis em resultado da escassez de algodão a colher.\n\n— são particulares ou empresas que utilizaram a sua maquinaria agrícola para a colheita de algodão no âmbito de um contrato com os produtores ou os descaroçadores durante a campanha de comercialização de 2005/2006,\n\n— colheram algodão que foi entregue a instalações de descaroçamento afectadas pelo desmantelamento referido na alínea a) do n.º 1 do presente artigo, e\n\n— sofreram perdas demonstráveis em resultado da escassez de algodão a colher."
+  },
+  "854a40ee927be19b": {
+   "fragment_id": "Artigo 8.º — Recursos financeiros",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Recursos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Recursos financeiros\n\nAs medidas previstas no presente capítulo constituem intervenções destinadas à regularização dos mercados agrícolas, na acepção da alínea b) do n.º 1 do artigo 3.º do Regulamento (CE) n.º 1290/2005 do Conselho, de 21 de Junho de 2005, relativo ao financiamento da política agrícola comum [([^9])](http://publications.europa.eu/resource/cellar/483d818c-d325-496b-a33a-0bc9a265d3fe.0018.02/DOC_1#ntr9-L_2008178PT.01000101-E0009)."
+  },
+  "33eaeedae52044a2": {
+   "fragment_id": "Artigo 9.º — Regras de execução",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Regras de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regras de execução\n\nAs regras de execução do presente regulamento são aprovadas nos termos do n.º 2 do artigo 195.º do Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de Outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento OCM única) [([^10])](http://publications.europa.eu/resource/cellar/483d818c-d325-496b-a33a-0bc9a265d3fe.0018.02/DOC_1#ntr10-L_2008178PT.01000101-E0010)."
+  },
+  "1e329c8e06fd333f": {
+   "fragment_id": "Artigo 10.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor sete dias após a sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de Janeiro de 2009.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito no Luxemburgo, em 23 de Junho de 2008.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**I. JARC**\n\n---"
+  },
+  "c34b9445885bef73": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/483d818c-d325-496b-a33a-0bc9a265d3fe.0018.02/DOC_1#ntc1-L_2008178PT.01000101-E0001) [JO L 291 de 19.11.1979, p. 174](http://publications.europa.eu/resource/oj/JOL_1979_291_R_TOC). Protocolo com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1050/2001 ([JO L 148 de 1.6.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_148_R_TOC)).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/483d818c-d325-496b-a33a-0bc9a265d3fe.0018.02/DOC_1#ntc2-L_2008178PT.01000101-E0002) Parecer emitido em 14 de Fevereiro de 2008 (ainda não publicado no Jornal Oficial).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/483d818c-d325-496b-a33a-0bc9a265d3fe.0018.02/DOC_1#ntc3-L_2008178PT.01000101-E0003) Parecer emitido em 8 de Maio de 2008 (ainda não publicado no Jornal Oficial).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/483d818c-d325-496b-a33a-0bc9a265d3fe.0018.02/DOC_1#ntc4-L_2008178PT.01000101-E0004) [JO L 270 de 21.10.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_270_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 479/2008 ([JO L 148 de 6.6.2008, p. 1](http://publications.europa.eu/resource/oj/JOL_2008_148_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/483d818c-d325-496b-a33a-0bc9a265d3fe.0018.02/DOC_1#ntc5-L_2008178PT.01000101-E0005) [JO L 161 de 30.4.2004, p. 48](http://publications.europa.eu/resource/oj/JOL_2004_161_R_TOC). Rectificação no [JO L 206 de 9.6.2004, p. 20](http://publications.europa.eu/resource/oj/JOL_2004_206_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/483d818c-d325-496b-a33a-0bc9a265d3fe.0018.02/DOC_1#ntc6-L_2008178PT.01000101-E0006) Colect. 2006, p. I-7285.\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/483d818c-d325-496b-a33a-0bc9a265d3fe.0018.02/DOC_1#ntc7-L_2008178PT.01000101-E0007) [JO L 277 de 21.10.2005, p. 1](http://publications.europa.eu/resource/oj/JOL_2005_277_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 146/2008 ([JO L 46 de 21.2.2008, p. 1](http://publications.europa.eu/resource/oj/JOL_2008_046_R_TOC)).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/483d818c-d325-496b-a33a-0bc9a265d3fe.0018.02/DOC_1#ntc8-L_2008178PT.01000101-E0008) [JO L 148 de 1.6.2001, p. 3](http://publications.europa.eu/resource/oj/JOL_2001_148_R_TOC). Regulamento revogado pelo Regulamento (CE) n.º 1782/2003.\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/483d818c-d325-496b-a33a-0bc9a265d3fe.0018.02/DOC_1#ntc9-L_2008178PT.01000101-E0009) [JO L 209 de 11.8.2005, p. 1](http://publications.europa.eu/resource/oj/JOL_2005_209_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 479/2008.\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/483d818c-d325-496b-a33a-0bc9a265d3fe.0018.02/DOC_1#ntc10-L_2008178PT.01000101-E0010) [JO L 299 de 16.11.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_299_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 510/2008 da Comissão ([JO L 149 de 7.6.2008, p. 61](http://publications.europa.eu/resource/oj/JOL_2008_149_R_TOC))."
+  },
+  "d4b8848abad9110c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Junho de 2008\n\nque altera o Regulamento (CE) n.º 1782/2003 e institui programas nacionais de reestruturação para o sector do algodão\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o terceiro parágrafo do n.º 2 do artigo 37.º,\n\nTendo em conta o Acto de Adesão de 1979, nomeadamente o n.º 6 do Protocolo n.º 4 relativo ao algodão ([^1^](http://publications.europa.eu/resource/cellar/858fad06-e1cd-4af2-bef2-04ae0278828d.0018.03/DOC_1#E0001)), a seguir designado «Protocolo»,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/858fad06-e1cd-4af2-bef2-04ae0278828d.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^3^](http://publications.europa.eu/resource/cellar/858fad06-e1cd-4af2-bef2-04ae0278828d.0018.03/DOC_1#E0003)),\n\n(1) O capítulo 10-A do título IV do Regulamento (CE) n.º 1782/2003 do Conselho, de 29 de Setembro de 2003, que estabelece regras comuns para os regimes de apoio directo no âmbito da política agrícola comum e institui determinados regimes de apoio aos agricultores ([^4^](http://publications.europa.eu/resource/cellar/858fad06-e1cd-4af2-bef2-04ae0278828d.0018.03/DOC_1#E0004)), inserido pelo n.º 20 do artigo 1.º do Regulamento (CE) n.º 864/2004 do Conselho ([^5^](http://publications.europa.eu/resource/cellar/858fad06-e1cd-4af2-bef2-04ae0278828d.0018.03/DOC_1#E0005)), estabelece regras para o pagamento específico para o algodão.\n\n(2) Por acórdão do Tribunal de Justiça das Comunidades Europeias, de 7 de Setembro de 2006, no processo C-310/04 ([^6^](http://publications.europa.eu/resource/cellar/858fad06-e1cd-4af2-bef2-04ae0278828d.0018.03/DOC_1#E0006)), o capítulo 10-A do título IV do Regulamento (CE) n.º 1782/2003 foi anulado por violação do princípio da proporcionalidade, nomeadamente porque «o Conselho, autor do Regulamento n.º 864/2004, não demonstrou ao Tribunal que o novo regime de ajuda ao algodão instituído por este regulamento tinha sido adoptado mediante um exercício efectivo do seu poder de apreciação, que implicava a tomada em consideração de todos os elementos e circunstâncias pertinentes do caso em apreço, entre os quais todos os custos salariais ligados à cultura do algodão e a viabilidade das empresas de descaroçamento, cuja tomada em consideração era necessária para a apreciação da rentabilidade desta cultura» e por não ter sido permitido ao Tribunal de Justiça «verificar se o legislador comunitário pôde, sem ultrapassar os limites do amplo poder de apreciação de que dispõe na matéria, chegar à conclusão de que a fixação do montante da ajuda específica ao algodão em 35 % do total das ajudas existentes no regime de ajuda anterior basta para garantir o objectivo exposto no quinto considerando do Regulamento (CE) n.º 864/2004, que é assegurar a rentabilidade e, portanto, o prosseguimento dessa cultura, objectivo que reflecte o prescrito no n.º 2 do Protocolo n.º 4». O Tribunal de Justiça ordenou igualmente que os efeitos da anulação fossem mantidos suspensos até à aprovação, num prazo razoável, de um novo regulamento.\n\n(3) É necessário aprovar um novo regime de pagamentos específicos para o algodão em conformidade com o acórdão do Tribunal de Justiça no processo C-310/04.\n\n(4) Todos os elementos e circunstâncias pertinentes relativos à situação específica do sector do algodão, incluindo todos os factores necessários para avaliar a rentabilidade dessa cultura, deverão ser tomados em consideração. Para tal, foi lançado um processo de avaliação e consulta: foram realizados dois estudos sobre o impacto socioeconómico e o impacto ambiental do futuro regime de ajuda ao algodão no sector comunitário do algodão e foram organizados seminários específicos e uma consulta das partes interessadas através da internet.\n\n(5) O novo regime deverá permitir a consecução dos objectivos, estabelecidos no n.º 2 do Protocolo, de promover a produção de algodão nas regiões da Comunidade onde seja importante para a economia agrícola, permitir um rendimento equitativo aos produtores em causa e estabilizar o mercado mediante a melhoria das estruturas ao nível da oferta e da comercialização.\n\n(6) O regime deverá estar também em consonância com uma política de apoio ao rendimento dos agricultores, que é o mais importante princípio orientador da política agrícola comum (PAC) reformada.\n\n(7) A dissociação do apoio directo ao produtor e a introdução de um regime de pagamento único constituem elementos essenciais do processo de reforma da PAC. O Regulamento (CE) n.º 1782/2003 introduziu esses elementos para diversos produtos agrícolas.\n\n(8) Com vista à consecução dos objectivos subjacentes à reforma da PAC, bem como dos objectivos estabelecidos no Protocolo, o apoio ao algodão deverá ser amplamente dissociado e integrado no regime de pagamento único. Atendendo a que esses objectivos não podem ser suficientemente realizados pelos Estados-Membros e podem, pois, devido à necessidade de uma acção comum, ser melhor alcançados ao nível comunitário, a Comunidade pode tomar medidas de acordo com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aqueles objectivos.\n\n(9) A integração plena e imediata do regime de apoio ao sector do algodão no regime de pagamento único implicaria provavelmente um risco significativo de perturbações da produção nas regiões comunitárias produtoras de algodão. Por conseguinte, uma parte do apoio deverá continuar ligada ao cultivo do algodão através de um pagamento específico por hectare elegível. O seu montante deverá ser calculado de modo a possibilitar a realização dos objectivos estabelecidos no n.º 2 do Protocolo e, simultaneamente, a inscrever o regime de apoio ao algodão no processo geral de reforma e simplificação da PAC. Para o efeito, à luz da avaliação realizada, justifica-se que a ajuda disponível total para cada Estado-Membro seja fixada em 35 % da parte nacional da ajuda de que os produtores beneficiavam indirectamente. Tal taxa permite que o sector do algodão se oriente para a viabilidade a longo prazo, promove o desenvolvimento sustentável das regiões produtoras e garante aos agricultores um rendimento equitativo.\n\n(10) É necessário integrar no regime de pagamento único os restantes 65 % da parte nacional da ajuda de que os produtores beneficiavam indirectamente.\n\n(11) Por razões ambientais, deverá ser estabelecida uma superfície de base por Estado-Membro produtor. Além disso, as superfícies elegíveis deverão ficar limitadas às autorizadas pelos Estados-Membros.\n\n(12) Deverá ser estabelecido um rendimento fixo por hectare para cada Estado-Membro produtor. Tal determinará — juntamente com o requisito da superfície de base, a limitação global dos fundos e o carácter fundamentalmente dissociado do regime — a natureza limitativa da produção do programa, satisfazendo ao mesmo tempo os objectivos do Protocolo.\n\n(13) Para satisfazer as necessidades da indústria de descaroçamento, a elegibilidade para a ajuda deverá estar relacionada com uma qualidade mínima de algodão efectivamente colhido.\n\n(14) Além disso, deverá ser incentivada a criação de organizações interprofissionais, que serão aprovadas pelos Estados-Membros, para que os produtores e descaroçadores possam melhorar a qualidade do algodão. A Comunidade deverá contribuir indirectamente para as actividades dessas organizações, através do aumento da ajuda concedida aos agricultores que sejam membros dessas organizações.\n\n(15) Por conseguinte, o Regulamento (CE) n.º 1782/2003 deverá ser alterado em conformidade.\n\n(16) Além do novo regime sobre o pagamento específico para o algodão, seria adequado aprovar outro conjunto de regras destinadas a ajudar o sector do algodão a estabilizar-se no novo contexto jurídico e de mercado.\n\n(17) Na medida em que a presença da indústria de descaroçamento se afigure necessária nas regiões produtoras, as necessidades dessa indústria seriam suficientemente satisfeitas, nomeadamente, fixando uma qualidade mínima do algodão realmente colhido e permitindo às organizações interprofissionais melhorar a qualidade do algodão. Além disso, dada a grande sobrecapacidade da indústria de descaroçamento, é conveniente prever medidas adicionais para apoiar o seu processo de reestruturação tendo em vista uma melhor orientação do mercado.\n\n(18) Além disso, é conveniente introduzir medidas adequadas de orientação do mercado que apoiem regimes de qualidade específicos e actividades de promoção conexas. Por conseguinte, deverão ser instituídos programas nacionais para a reestruturação do sector do algodão. Embora as medidas pertinentes devam ser financiadas pela Comunidade, deverão ser os Estados-Membros a seleccionar a correcta combinação para as suas necessidades, atendendo sempre que necessário às especificidades regionais.\n\n(19) Os programas de reestruturação deverão ser apresentados à Comissão, que verificará se as medidas respeitam as condições estabelecidas no presente regulamento e nas suas regras de execução. Os Estados-Membros deverão ser responsáveis pela execução de tais programas.\n\n(20) As medidas deverão complementar as já existentes no Regulamento (CE) n.º 1698/2005 do Conselho, de 20 de Setembro de 2005, relativo ao apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (Feader) ([^7^](http://publications.europa.eu/resource/cellar/858fad06-e1cd-4af2-bef2-04ae0278828d.0018.03/DOC_1#E0007)).\n\n(21) As medidas nesses programas podem incluir o desmantelamento total e permanente de parte das instalações de descaroçamento, a fim de assegurar uma indústria de descaroçamento mais viável. Também pode ser dado apoio aos investimentos na indústria de transformação destinados a melhorar o desempenho económico das empresas enquanto tais. Além disso, pode ser disponibilizada ajuda aos fornecedores de maquinaria afectados em consequência da reestruturação do sector do algodão.\n\n(22) Para melhorar a qualidade do algodão europeu, os agricultores que participem em regimes específicos de qualidade deverão receber, no âmbito desses programas, apoio específico para cobrir alguns dos custos conexos. Deverão igualmente ser apoiadas acções de informação e promoção relativas ao algodão abrangidas pelos referidos regimes.\n\n(23) A repartição de fundos pelos Estados-Membros para os programas nacionais de reestruturação deverá basear-se nas necessidades específicas de reestruturação e adaptação nas principais regiões produtoras de algodão. Atendendo ao objectivo temporário de reestruturação e adaptação do sector do algodão, pode ser posto termo aos programas a pedido dos Estados-Membros, após o que o orçamento anual para os programas de reestruturação poderá ser adicionado ao limite máximo nacional do Estado-Membro em questão para os pagamentos dissociados previsto no anexo VIII do Regulamento (CE) n.º 1782/2003.\n\n(24) Atendendo à ausência de indústria de descaroçamento em Portugal e à aplicação do regime de pagamento único por superfície na Bulgária, não é necessário atribuir um orçamento aos programas nacionais de reestruturação nestes dois Estados-Membros.\n\n(25) Para que o novo regime de ajuda ao algodão e o regime de reestruturação deste sector sejam aplicados a partir do início da campanha de produção, o presente regulamento é aplicável a partir do ano civil de 2009,\n\nAPROVOU O PRESENTE REGULAMENTO:"
+  },
+  "f1bb21ea7537c026": {
+   "fragment_id": "Artigo 1.º — Alteração do Regulamento (CE) n.º 1782/2003",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Alteração do Regulamento (CE) n.º 1782/2003",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alteração do Regulamento (CE) n.º 1782/2003\n\nO Regulamento (CE) n.º 1782/2003 é alterado do seguinte modo:\n\n1. No título IV, o capítulo 10-A passa a ter a seguinte redacção:"
+  },
+  "91d29e006af88871": {
+   "fragment_id": "«CAPÍTULO 10-A",
+   "type": "divisao",
+   "heading": "«CAPÍTULO 10-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## «CAPÍTULO 10-A"
+  },
+  "3da0a124e4d58c66": {
+   "fragment_id": "PAGAMENTO ESPECÍFICO PARA O ALGODÃO",
+   "type": "divisao",
+   "heading": "PAGAMENTO ESPECÍFICO PARA O ALGODÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PAGAMENTO ESPECÍFICO PARA O ALGODÃO\n\nÉ concedida uma ajuda aos agricultores que produzam algodão do código NC 5201 00, nas condições estabelecidas no presente capítulo.\n\n1. A ajuda é concedida por hectare de superfície elegível de algodão. Para que seja elegível, a superfície deve situar-se em terras agrícolas que beneficiem de uma autorização do Estado-Membro para a produção de algodão, ser semeada com variedades autorizadas e ser efectivamente objecto de colheita em condições de crescimento normais.\n\nA ajuda referida no artigo 110.º-A é paga para o algodão de qualidade sã, íntegra e comercializável.\n\n2. Os Estados-Membros autorizam as terras e as variedades referidas no n.º 1 do presente artigo em conformidade com regras de execução e condições aprovadas nos termos do n.º 2 do artigo 144.º\n\n1. São estabelecidas as seguintes superfícies de base nacionais:\n\n— Bulgária: 3 342 ha,\n\n— Grécia: 250 000 ha,\n\n— Espanha: 48 000 ha,\n\n— Portugal: 360 ha.\n\n2. São estabelecidos os seguintes rendimentos fixos no período de referência:\n\n— Bulgária: 1,2 toneladas/ha,\n\n— Grécia: 3,2 toneladas/ha,\n\n— Espanha: 3,5 toneladas/ha,\n\n— Portugal: 2,2 toneladas/ha.\n\n3. Estabelece-se o montante da ajuda por hectare elegível multiplicando os rendimentos previstos no n.º 2 pelos seguintes montantes de referência:\n\n— Bulgária: 671,33 EUR,\n\n— Grécia: 251,75 EUR,\n\n— Espanha: 400,00 EUR,\n\n— Portugal: 252,73 EUR.\n\n4. Se a superfície elegível de algodão num dado Estado-Membro e num dado ano exceder a superfície de base estabelecida no n.º 1, a ajuda referida no n.º 3 para esse Estado-Membro é reduzida proporcionalmente à superação da superfície de base.\n\n5. As regras de execução do presente artigo são aprovadas nos termos do n.º 2 do artigo 144.º\n\n1. Para efeitos do presente capítulo, entende-se por “organização interprofissional aprovada” uma pessoa colectiva constituída por agricultores que produzam algodão e, pelo menos, um descaroçador, que desenvolvam actividades tais como:\n\n— contribuição para uma melhor coordenação da colocação do algodão no mercado, nomeadamente através de pesquisas ou de estudos de mercado,\n\n— elaboração de contratos-tipo compatíveis com as regras comunitárias,\n\n— orientação da produção para produtos mais bem adaptados às necessidades do mercado e à procura dos consumidores, em especial no que se refere aos aspectos da qualidade e da protecção do consumidor,\n\n— actualização de métodos e meios destinados a melhorar a qualidade do produto,\n\n— elaboração de estratégias de comercialização destinadas a promover o algodão através de regimes de certificação da qualidade.\n\n2. O Estado-Membro em cujo território os descaroçadores estejam estabelecidos aprova as organizações interprofissionais que respeitem os critérios a aprovar nos termos do n.º 2 do artigo 144.º\n\n1. A ajuda é concedida aos agricultores por hectare elegível nos termos do artigo 110.º-C.\n\n2. Os agricultores membros de uma organização interprofissional aprovada recebem uma ajuda por hectare elegível dentro da superfície de base estabelecida no n.º 1 do artigo 110.º-C, acrescida de um montante de 2 EUR.».\n\n2. No n.º 2 do artigo 156.º, a alínea g) passa a ter a seguinte redacção:\n\n«g) O capítulo 10-A do título IV é aplicável a partir de 1 de Janeiro de 2009 ao algodão semeado a partir dessa data.»."
+  },
+  "a571ca60ef9ff00d": {
+   "fragment_id": "Artigo 4.º — Apresentação e aplicação dos programas de reestruturação",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Apresentação e aplicação dos programas de reestruturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Apresentação e aplicação dos programas de reestruturação\n\n1. Cada Estado-Membro produtor apresenta de quatro em quatro anos à Comissão, fazendo-o pela primeira vez até 1 de Janeiro de 2009, um projecto de programa de reestruturação quadrienal, constituído por medidas em conformidade com o presente capítulo.\n\nEm derrogação do disposto no primeiro parágrafo, os Estados-Membros podem optar por apresentar à Comissão, até 31 de Dezembro 2009, um único projecto de programa de reestruturação alterado com a duração de oito anos.\n\nAntes de ser apresentado à Comissão, o programa de reestruturação é objecto de consultas com as autoridades e organizações competentes no sector do algodão.\n\nCada Estado-Membro apresenta um único projecto de programa, que pode contemplar especificidades regionais.\n\n2. Os programas de reestruturação tornam-se aplicáveis três meses após a sua apresentação à Comissão.\n\nContudo, se o programa apresentado não cumprir as condições estabelecidas no presente capítulo e as suas regras de execução, a Comissão informa do facto o Estado-Membro. Em tal caso, o Estado-Membro apresenta um programa revisto à Comissão. O programa revisto torna-se aplicável dois meses após a sua apresentação, a menos que subsista uma incompatibilidade, caso em que se aplica o presente número.\n\n3. O n.º 2 aplica-se, *mutatis mutandis*, às alterações de programas de reestruturação apresentadas pelos Estados-Membros."
+  },
+  "921a41360533faa5": {
+   "fragment_id": "Artigo 5.º — Dotação orçamental",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Dotação orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Dotação orçamental\n\n1. O orçamento anual do programa de reestruturação, por Estado-Membro, a partir do exercício financeiro de 2010 é o seguinte:\n\n— Grécia: 4,0 milhões de EUR,\n\n— Espanha: 6,134 milhões de EUR.\n\n2. Cada Estado-Membro pode decidir deixar de utilizar o programa de reestruturação a fim de transferir a título permanente o respectivo orçamento anual, previsto no n.º 1 do presente artigo, para os seus limites máximos nacionais, tal como determinados no anexo VIII do Regulamento (CE) n.º 1782/2003. Essa decisão é notificada à Comissão até 1 de Agosto do ano em causa e é aplicável aos pagamentos directos concedidos a título do ano civil seguinte. A notificação inclui também um relatório sobre a execução do programa de reestruturação e a realização dos seus objectivos.\n\nContudo, se um Estado-Membro optar por apresentar um projecto de programa de reestruturação alterado com a duração de oito anos, conforme previsto no segundo parágrafo do n.º 1 do artigo 4.º, o seu orçamento anual previsto no n.º 1 do presente artigo é transferido para o seu limite máximo nacional determinado no anexo VIII do Regulamento (CE) n.º 73/2009 no exercício orçamental de 2018 e é aplicável aos pagamentos directos efectuados nesse ano. O Estado-Membro em causa apresenta uma comunicação sobre a execução do programa de reestruturação e a realização dos seus objectivos até 1 de Janeiro de 2018.\n\n3. A transferência prevista no n.º 2 do presente artigo, bem como a correspondente alteração do n.º 1 do presente artigo, são aprovadas nos termos do n.º 2 do artigo 144.º do Regulamento (CE) n.º 1782/2003, após avaliação, pela Comissão, da execução do programa de reestruturação à luz dos seus objectivos."
+  },
+  "2130d788f1472d5a": {
+   "fragment_id": "Artigo 7.º — Medidas elegíveis e beneficiários",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Medidas elegíveis e beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Medidas elegíveis e beneficiários\n\n1. Os programas de reestruturação compreendem unicamente uma ou mais das seguintes medidas:\n\na) Desmantelamento total e permanente das instalações de descaroçamento;\n\nb) Investimentos na indústria de descaroçamento;\n\nc) Participação dos agricultores em regimes de qualidade do algodão;\n\nd) Actividades de informação e de promoção;\n\ne) Ajuda aos fornecedores de maquinaria, desde que não exceda as perdas sofridas.\n\n2. Os beneficiários dos programas de reestruturação são:\n\na) Para a ajuda ao abrigo das medidas referidas nas alíneas a), b) e d) do n.º 1 do presente artigo, os proprietários das instalações de descaroçamento relativamente às quais foi concedida ajuda a título do capítulo IV do Regulamento (CE) n.º 1051/2001 do Conselho ([^8^](http://publications.europa.eu/resource/cellar/858fad06-e1cd-4af2-bef2-04ae0278828d.0018.03/DOC_1#E0008)) na campanha de comercialização de 2005/2006;\n\nb) Para a ajuda ao abrigo das medidas referidas nas alíneas c) e d) do n.º 1 do presente artigo, os beneficiários da ajuda a título do capítulo 10-A do Regulamento (CE) n.º 1782/2003;\n\nc) Para a ajuda ao abrigo das medidas referidas na alínea d) do n.º 1 do presente artigo, as organizações interprofissionais aprovadas, tal como definidas no capítulo 10-A do Regulamento (CE) n.º 1782/2003;\n\nd) Para a ajuda ao abrigo da medida referida na alínea e) do n.º 1 do presente artigo, os fornecedores de maquinaria que:\n\n— são particulares ou empresas que utilizaram a sua maquinaria agrícola para a colheita de algodão no âmbito de um contrato com os produtores ou os descaroçadores durante a campanha de comercialização de 2005/2006,\n\n— colheram algodão que foi entregue a instalações de descaroçamento afectadas pelo desmantelamento referido na alínea a) do n.º 1 do presente artigo,\n\n— e\n\n— sofreram perdas demonstráveis em resultado da escassez de algodão a colher."
+  },
+  "8b0da58a8d527721": {
+   "fragment_id": "Artigo 8.º — Recursos financeiros",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Recursos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Recursos financeiros\n\nAs medidas previstas no presente capítulo constituem intervenções destinadas à regularização dos mercados agrícolas, na acepção da alínea b) do n.º 1 do artigo 3.º do Regulamento (CE) n.º 1290/2005 do Conselho, de 21 de Junho de 2005, relativo ao financiamento da política agrícola comum ([^9^](http://publications.europa.eu/resource/cellar/858fad06-e1cd-4af2-bef2-04ae0278828d.0018.03/DOC_1#E0009))."
+  },
+  "6d65d167f4b3c28d": {
+   "fragment_id": "Artigo 9.º — Regras de execução",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Regras de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regras de execução\n\nAs regras de execução do presente regulamento são aprovadas nos termos do n.º 2 do artigo 195.º do Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de Outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento OCM única) ([^10^](http://publications.europa.eu/resource/cellar/858fad06-e1cd-4af2-bef2-04ae0278828d.0018.03/DOC_1#E0010))."
+  },
+  "3c00362874d6f632": {
+   "fragment_id": "Artigo 10.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor sete dias após a sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de Janeiro de 2009.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "708d288f22504312": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/858fad06-e1cd-4af2-bef2-04ae0278828d.0018.03/DOC_1#src.E0001)) JO L 291 de 19.11.1979, p. 174. Protocolo com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1050/2001 (JO L 148 de 1.6.2001, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/858fad06-e1cd-4af2-bef2-04ae0278828d.0018.03/DOC_1#src.E0002)) Parecer emitido em 14 de Fevereiro de 2008 (ainda não publicado no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/858fad06-e1cd-4af2-bef2-04ae0278828d.0018.03/DOC_1#src.E0003)) Parecer emitido em 8 de Maio de 2008 (ainda não publicado no Jornal Oficial).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/858fad06-e1cd-4af2-bef2-04ae0278828d.0018.03/DOC_1#src.E0004)) JO L 270 de 21.10.2003, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 479/2008 (JO L 148 de 6.6.2008, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/858fad06-e1cd-4af2-bef2-04ae0278828d.0018.03/DOC_1#src.E0005)) JO L 161 de 30.4.2004, p. 48. Rectificação no JO L 206 de 9.6.2004, p. 20.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/858fad06-e1cd-4af2-bef2-04ae0278828d.0018.03/DOC_1#src.E0006)) Colect. 2006, p. I-7285.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/858fad06-e1cd-4af2-bef2-04ae0278828d.0018.03/DOC_1#src.E0007)) JO L 277 de 21.10.2005, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 146/2008 (JO L 46 de 21.2.2008, p. 1).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/858fad06-e1cd-4af2-bef2-04ae0278828d.0018.03/DOC_1#src.E0008)) JO L 148 de 1.6.2001, p. 3.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/858fad06-e1cd-4af2-bef2-04ae0278828d.0018.03/DOC_1#src.E0009)) JO L 209 de 11.8.2005, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 479/2008.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/858fad06-e1cd-4af2-bef2-04ae0278828d.0018.03/DOC_1#src.E0010)) JO L 299 de 16.11.2007, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 510/2008 da Comissão (JO L 149 de 7.6.2008, p. 61)."
+  },
+  "3519987fe8380cfb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02008R0637 — PT — 20.12.2013 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32008R0637) [REGULAMENTO (CE) N.º 637/2008 DO CONSELHO](http://publications.europa.eu/resource/celex/32008R0637) [de 23 de Junho de 2008](http://publications.europa.eu/resource/celex/32008R0637) [que altera o Regulamento (CE) n.º 1782/2003 e institui programas nacionais de reestruturação para o sector do algodão](http://publications.europa.eu/resource/celex/32008R0637) (JO L 178, 5.7.2008, p.1)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 1307/2013 do Parlamento Europeu e do Conselho de 17 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1307) — L 347 — 608 — 20.12.2013"
+  }
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:498338:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2003-932603727",
+ "dre_path": "/dr/detalhe/portaria/988-2003-498338",
+ "source_lastmod": "2025-08-19",
+ "versions": [
+  {
+   "date": "2003-09-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "932539198"
+   ]
+  }
+ ],
+ "fragments": {
+  "932539198": {
+   "fragment_id": "932603728",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 988/2003\n\nde 16 de Setembro\n\nA Lei n.º 147/99, de 1 de Setembro, designada «lei de protecção de crianças e jovens em perigo», regula a criação, a competência e o funcionamento das comissões de protecção de crianças e jovens em todos os concelhos do País, determinando que a respectiva instalação seja declarada por portaria conjunta dos Ministros da Justiça e da Segurança Social e do Trabalho.\n\nAcções de informação e articulação entre todas as entidades públicas e particulares intervenientes foram já desenvolvidas no concelho de Calheta, com vista à instalação da respectiva comissão de protecção, dando assim cumprimento ao preceituado na lei de protecção.\n\nAssim:\n\nAo abrigo do n.º 3 do artigo 12.º da lei de protecção, manda o Governo, pelos Ministros da Justiça e da Segurança Social e do Trabalho, o seguinte:"
+  }
+ }
+}

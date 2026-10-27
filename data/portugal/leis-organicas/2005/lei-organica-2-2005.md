@@ -1,0 +1,652 @@
+---
+schema_version: '1.0'
+id: pt:dre:457047:por
+title: Lei Orgânica n.º 2/2005
+short_title: null
+summary: Lei de organização e funcionamento da Entidade das Contas e Financiamentos Políticos
+jurisdiction: portugal
+territory: null
+document_type: lei-organica
+document_type_label: Lei Orgânica
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 2/2005
+official_date: null
+publication_date: '2005-01-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 6/2005, Série I-A de 2005-01-10
+  number: '6'
+  series: I
+  supplement: null
+  pages: 200 - 205
+  pdf_url: https://files.diariodarepublica.pt/1s/2005/01/006a00/02000205.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2019-01-01'
+version_history:
+  file: lei-organica-2-2005.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2005-01-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-04-20'
+    amending: pt:dre:115138846:por
+    amending_title: Lei Orgânica n.º 1/2018
+    changes:
+    - Adita Artigo 46.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 25.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 39.º
+    - Altera Artigo 43.º
+    - Altera Artigo 44.º
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 26.º
+    - Revoga Artigo 29.º
+    - Revoga Artigo 31.º
+    - Revoga Artigo 34.º
+    - Revoga Artigo 40.º
+    - Revoga Artigo 42.º
+    - Revoga Artigo 45.º
+    - Revoga Artigo 48.º
+    - Revoga Artigo 49.º
+  - date: '2019-01-01'
+    amending: pt:dre:117537583:por
+    amending_title: Lei n.º 71/2018
+    changes:
+    - Altera Artigo 8.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/leiorg/2/2005/p/cons/20181231/pt/html
+  oj: null
+  dre: '457047'
+  dre_path: /dr/detalhe/lei-organica/2-2005-457047
+  internal: pt:dre:457047:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2005-457047
+  metadata_url: https://data.dre.pt/eli/leiorg/2/2005/p/cons/20181231/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/lei-organica/2005-108002112
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/lei-organica/2005-108002112
+  retrieved_at: '2026-10-22T12:13:54Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 0cfbbd47929b880997882ee75cb69e49a5f309a5f5a9c42e63cc7e44255d93ff
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:13:54Z'
+  notes: 3 versão(ões); histórico completo em lei-organica-2-2005.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Assembleia Legislativa Regional
+- Campanha Eleitoral
+- Definição de Competências
+- Entidade das Contas e Financiamentos Políticos
+- Fiscalização
+- Presidente da República
+- Incompatibilidades
+- Publicitação
+- Tribunal Constitucional
+- Assembleia da República
+- Parlamento Europeu
+- Partido Político
+- Prestação de Contas
+- Sanção
+- Autarquia Local
+relationships:
+- type: amended_by
+  target: pt:dre:115138846:por
+  label: Adita Artigo 46.º-A; Altera Artigo 2.º; Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 17.º; Altera Artigo
+    18.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 22.º; Altera Artigo 25.º; Altera Artigo 27.º; Altera Artigo
+    28.º; Altera Artigo 32.º; Altera Artigo 33.º; Altera Artigo 35.º; Altera Artigo 36.º; Altera Artigo 37.º; Altera Artigo
+    39.º; Altera Artigo 43.º; Altera Artigo 44.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846
+  date: '2018-04-19'
+- type: amended_by
+  target: pt:dre:117537583:por
+  label: Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583
+  date: '2018-12-31'
+- type: cites
+  target: pt:dre:692850:por
+  label: null
+  source: http://data.dre.pt/eli/lei/19/2003/06/20/p/dre
+article_structure:
+  article_count: 50
+  section_count: 11
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:13:54Z'
+  warnings: []
+  errors: []
+---
+
+# Lei Orgânica n.º 2/2005
+
+Lei Orgânica n.º 2/2005
+
+de 10 de Janeiro
+
+Lei de organização e funcionamento da Entidade das Contas e Financiamentos Políticos
+
+A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, a lei orgânica seguinte:
+
+### Capítulo I — Natureza, regime e sede
+
+###### Artigo 1.º — Objecto
+
+A presente lei regula a organização e funcionamento da Entidade das Contas e Financiamentos Políticos, criada pela Lei n.º 19/2003, de 20 de Junho.
+
+###### Artigo 2.º — Natureza
+
+A Entidade das Contas e Financiamentos Políticos, adiante designada por Entidade, é um órgão independente que funciona junto do Tribunal Constitucional e tem como atribuição a apreciação e fiscalização das contas dos partidos políticos e das campanhas eleitorais para Presidente da República, para a Assembleia da República, para o Parlamento Europeu, para as Assembleias Legislativas das Regiões Autónomas e para as autarquias locais.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+###### Artigo 3.º — Regime
+
+A Entidade rege-se pelo disposto na Lei n.º 19/2003, de 20 de Junho, e na presente lei.
+
+###### Artigo 4.º — Sede
+
+A Entidade tem sede em Lisboa, podendo funcionar em instalações do Tribunal Constitucional.
+
+### Capítulo II — Composição e estatuto dos membros
+
+###### Artigo 5.º — Composição
+
+1 - A Entidade é composta por um presidente e dois vogais.
+
+2 - Pelo menos um dos membros da Entidade deve ser revisor oficial de contas.
+
+3 - Os membros da Entidade são designados por um período de quatro anos, renovável uma vez por igual período, e cessam funções com a tomada de posse do membro designado para ocupar o respectivo lugar.
+
+###### Artigo 6.º — Modo de designação
+
+1 - Os membros da Entidade são eleitos em lista pelo Tribunal Constitucional, em plenário, devendo recolher uma maioria de oito votos.
+
+2 - A elaboração da lista é da iniciativa do Presidente do Tribunal Constitucional.
+
+###### Artigo 7.º — Incompatibilidades
+
+1 - Os membros da Entidade não podem ser titulares de órgãos de soberania, das Regiões Autónomas ou do poder local.
+
+2 - Os membros da Entidade não podem exercer quaisquer funções em órgãos de partidos, de associações políticas ou de fundações com eles conexas, nem desenvolver actividades político-partidárias de carácter público.
+
+3 - Durante o período de desempenho do cargo fica suspenso o estatuto decorrente da filiação em partidos ou associações políticas.
+
+4 - Os membros da Entidade não podem exercer quaisquer funções ou deter participações sociais nas empresas de auditoria ou quaisquer outras que prestem apoio àquela Entidade ou ao Tribunal Constitucional no âmbito da fiscalização das contas dos partidos políticos e das campanhas eleitorais.
+
+5 - Os membros da Entidade não podem exercer quaisquer funções ou deter participações sociais nas empresas que directa ou indirectamente forneçam meios específicos de propaganda aos partidos ou em campanhas eleitorais.
+
+6 - Os membros da Entidade estão obrigados à apresentação de declaração de património e rendimentos no Tribunal Constitucional, nos termos da legislação aplicável.
+
+###### Artigo 8.º — Estatuto
+
+1 - O presidente da Entidade aufere a remuneração correspondente à de inspector-geral de Finanças e os vogais a correspondente à de subinspector-geral de Finanças, acrescendo, em ambos os casos, o respectivo suplemento de função inspectiva.
+
+2 - Ao presidente da Entidade que, à data da sua designação, não tenha residência permanente no local da sede da Entidade ou numa área circundante de 150 km pode ser concedida habitação por conta do Estado ou atribuído um subsídio de residência, a partir da data da sua designação, nos termos previstos no Decreto-Lei n.º 331/88, de 27 de setembro.
+
+3 - Os membros da Entidade não podem ser prejudicados na estabilidade do seu emprego, na sua carreira e no regime de segurança social de que beneficiem por causa do exercício das suas funções.
+
+4 - Os membros da Entidade retomam automaticamente as funções que exerciam à data da posse, ou aquelas para que foram transferidos ou nomeados durante o período de funções na Entidade, designadamente por virtude de promoção.
+
+5 - Durante o exercício das suas funções os membros da Entidade não perdem a antiguidade nos seus empregos nem podem ser prejudicados nas promoções a que entretanto tenham adquirido direito.
+
+6 - No caso de os membros da Entidade se encontrarem à data da posse investidos em função pública temporária, por virtude de lei, acto ou contrato, o exercício de funções na Entidade suspende o respectivo prazo.
+
+7 - Quando os membros da Entidade forem magistrados judiciais ou do Ministério Público, funcionários ou agentes da administração central, regional ou local ou de institutos públicos exercem os seus cargos em comissão de serviço ou em regime de requisição, conforme os casos, com a faculdade de optar pelas remunerações correspondentes aos cargos de origem.
+
+8 - Os magistrados judiciais e do Ministério Público podem ser designados membros da Entidade em comissão de serviço, nos termos do respectivo estatuto, não determinando esse provimento a abertura de vaga no lugar de origem ou naquele para que, entretanto, tenham sido nomeados.
+
+9 - Quando os membros da Entidade forem trabalhadores de empresas públicas ou privadas exercem as suas funções em regime de requisição, nos termos da lei geral em vigor para o respectivo sector.
+
+10 - Os membros da Entidade que exerçam funções docentes ou de investigação científica no ensino superior podem continuar no exercício dessas funções, sem prejuízo de, quando as mesmas forem exercidas em estabelecimento de ensino público, poderem requerer a suspensão dos prazos dos respectivos contratos ou dos prazos para a apresentação de relatórios ou prestação de provas a que estejam adstritos.
+
+11 - Os membros da Entidade podem optar por exercer funções em regime de exclusividade ou em regime de acumulação, auferindo neste último caso 50% da respectiva remuneração.
+
+12 - Por actos praticados no exercício das suas funções, os membros da Entidade são disciplinarmente responsáveis perante o Tribunal Constitucional, devendo a instrução do processo ser realizada pelo secretário-geral e incumbindo a decisão final ao Presidente, com recurso para o plenário, que julga definitivamente.
+
+> Alterado pelo/a Artigo 324.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01, produz efeitos a partir de 2018-01-01
+
+### Capítulo III — Competências
+
+###### Artigo 9.º — Competências
+
+1 - No âmbito das suas atribuições, compete à Entidade, nomeadamente:
+
+a) Instruir os processos respeitantes às contas dos partidos políticos e das campanhas eleitorais;
+
+b) Fiscalizar a correspondência entre os gastos declarados e as despesas efectivamente realizadas, no âmbito das contas dos partidos políticos e das campanhas eleitorais;
+
+c) Realizar inspeções e auditorias de qualquer tipo ou natureza às contas dos partidos políticos e das campanhas eleitorais;
+
+d) Decidir acerca da regularidade e legalidade das contas dos partidos políticos e das campanhas eleitorais, nos termos da legislação em vigor, bem como aplicar as respetivas coimas.
+
+2 - Para efeitos do disposto no número anterior, compete à Entidade realizar as consultas de mercado que permitam a elaboração de lista indicativa do valor dos principais meios de campanha e de propaganda política com vista ao controlo dos preços de aquisição ou de venda de bens e serviços prestados, previstos nas alíneas a) e b) do n.º 3 do artigo 8.º da Lei n.º 19/2003, de 20 de Junho.
+
+3 - A lista a que se refere o número anterior deve ser divulgada até ao dia da publicação do decreto que marca as eleições, não podendo dela constar qualquer dado susceptível de identificar a fonte das informações divulgadas.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+###### Artigo 10.º — Regulamentos
+
+1 - A Entidade pode definir, através de regulamento, as regras necessárias à normalização de procedimentos no que se refere à apresentação de despesas pelos partidos políticos e campanhas eleitorais abrangidas pela presente lei e pelo disposto na Lei n.º 19/2003, de 20 de Junho.
+
+2 - Os regulamentos da Entidade são publicados gratuitamente na 2.ª série do Diário da República e divulgados aos partidos políticos.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+###### Artigo 11.º — Recomendações
+
+A Entidade pode emitir recomendações genéricas, com caráter objetivo e estritamente vinculadas à lei, dirigidas a uma ou mais entidades cujas contas estejam sujeitas aos seus poderes de controlo e fiscalização.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+### Capítulo IV — Organização e funcionamento
+
+###### Artigo 12.º — Deliberações
+
+As deliberações da Entidade são tomadas, pelo menos, por dois votos favoráveis.
+
+###### Artigo 13.º — Funcionamento
+
+1 - O apoio administrativo necessário ao funcionamento da Entidade é prestado pelo Tribunal Constitucional.
+
+2 - Os encargos com o funcionamento da Entidade são suportados pela dotação orçamental atribuída ao Tribunal Constitucional, sendo as correspondentes despesas imputadas à actividade criada para esta Entidade, nos termos da legislação aplicável.
+
+3 - A Entidade pode, sob autorização do Presidente do Tribunal Constitucional, requisitar ou destacar técnicos qualificados de quaisquer serviços públicos ou recorrer, mediante contrato, aos serviços de peritos ou técnicos qualificados exteriores à Administração Pública, a pessoas de reconhecida experiência e conhecimentos em matéria de actividade partidária e campanhas eleitorais, a empresas de auditoria ou a revisores oficiais de contas.
+
+4 - Os contratos referidos no número anterior podem ser celebrados por ajuste directo e a sua eficácia depende unicamente da respectiva aprovação pelo Tribunal Constitucional.
+
+###### Artigo 14.º — Dever de sigilo
+
+Os membros da Entidade, o pessoal que nela exerça funções, bem como os seus colaboradores eventuais ou permanentes, estão especialmente obrigados a guardar sigilo dos factos cujo conhecimento lhes advenha exclusivamente pelo exercício das suas funções, e que não possam ser divulgados, nos termos da lei.
+
+### Capítulo V — Deveres para com a Entidade e o Tribunal Constitucional
+
+###### Artigo 15.º — Dever de colaboração
+
+A Entidade pode solicitar a quaisquer entidades, públicas ou privadas, as informações e a colaboração necessárias para o exercício das suas funções.
+
+###### Artigo 16.º — Dever de comunicação de dados
+
+1 - Os partidos políticos e coligações que apresentem candidaturas às eleições para a Assembleia da República, para o Parlamento Europeu, para as Assembleias das Regiões Autónomas e para as autarquias locais, bem como os cidadãos candidatos às eleições para Presidente da República e os grupos de cidadãos eleitores que apresentem candidatura às eleições dos órgãos das autarquias locais, estão obrigados a comunicar à Entidade as acções de campanha eleitoral que realizem, bem como os meios nelas utilizados, que envolvam um custo superior a um salário mínimo.
+
+2 - Os partidos políticos estão também obrigados a comunicar à Entidade as demais acções de propaganda política que realizem, bem como os meios nelas utilizados, que envolvam um custo superior a um salário mínimo.
+
+3 - Os dados a que se referem os n.os 1 e 2 são fornecidos à Entidade em suporte escrito ou em suporte informático.
+
+4 - O prazo para o cumprimento do dever de comunicação das acções de campanha eleitoral realizadas e dos meios nelas utilizados termina na data de entrega das respectivas contas.
+
+5 - O prazo para o cumprimento do dever de comunicação das acções de propaganda política realizadas pelos partidos e dos meios nelas utilizados termina na data de entrega das contas dos partidos.
+
+###### Artigo 17.º — Dever de entrega do orçamento de campanha
+
+1 - Até ao último dia do prazo para entrega das candidaturas, os candidatos, partidos, coligações e grupos de cidadãos eleitores apresentam à Entidade o seu orçamento de campanha.
+
+2 - É obrigatória a entrega do orçamento de campanha em suporte informático.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+###### Artigo 18.º — Dever de apresentação de contas
+
+1 - Anualmente, os partidos políticos apresentam à Entidade, em suporte escrito e informático, as respetivas contas, devendo, no ano anterior, comunicar à Entidade o seu responsável, quer seja pessoa singular ou órgão interno do partido.
+
+2 - Os mandatários financeiros das campanhas são responsáveis pela elaboração das respetivas contas da campanha, a apresentar à Entidade, no prazo máximo de 90 dias, no caso das eleições autárquicas, e de 60 dias, nos demais casos, após o integral pagamento da subvenção pública, em suporte escrito e informático.
+
+3 - Os candidatos a Presidente da República, os partidos políticos ou coligações, os primeiros candidatos de cada lista ou o primeiro proponente de cada grupo de cidadãos eleitores candidatos a qualquer acto eleitoral, consoante os casos, são subsidiariamente responsáveis com os mandatários financeiros.
+
+4 - Das contas dos partidos políticos e das campanhas eleitorais constam as despesas, o montante e a fonte dos financiamentos recebidos.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+### Capítulo VI — Controlo das contas
+
+#### Secção I — Disposições gerais
+
+###### Artigo 19.º — Base de dados
+
+1 - A Entidade procede à elaboração de uma base de dados informatizada de que constam as acções de propaganda política dos partidos e as acções de campanha eleitoral, bem como os meios nelas utilizados.
+
+2 - Os dados referidos no n.º 1 são fornecidos por cada um dos partidos políticos, coligação, cidadão ou grupo de cidadãos eleitores candidatos a acto eleitoral, nos termos dos n.os 1, 4 e 5 do artigo 16.º
+
+3 - A Entidade pode permitir a actualização online dos dados, mediante identificação, em condições de segurança.
+
+4 - Quando a constituição da base de dados obrigue ao tratamento de dados nominativos, esta fica sujeita às regras gerais de protecção de dados pessoais.
+
+###### Artigo 20.º — Publicitação de informação na Internet
+
+1 - A Entidade deve disponibilizar no sítio na Internet do Tribunal Constitucional toda a informação relativa a seu respeito, nomeadamente as normas que a regulam e a sua composição, incluindo os elementos biográficos dos seus membros e a legislação aplicável ao financiamento dos partidos políticos e das campanhas eleitorais.
+
+2 - Do sítio referido no n.º 1 constam ainda:
+
+a) A lista indicativa do valor dos principais meios de campanha, a disponibilizar até ao dia de publicação do decreto que marca as eleições;
+
+b) Os orçamentos de campanha, a disponibilizar a partir do dia seguinte ao da sua entrega pelas candidaturas;
+
+c) A base de dados relativa a meios e actividades de propaganda política e de campanha eleitoral;
+
+d) As contas dos partidos políticos e das campanhas eleitorais e os relatórios sobre as respectivas auditorias;
+
+e) Os acórdãos do Tribunal Constitucional proferidos em sede de recurso das decisões da Entidade em matéria de regularidade e legalidade das contas dos partidos políticos e das campanhas eleitorais;
+
+f) As decisões da Entidade em matéria de regularidade e legalidade das contas dos partidos políticos e das campanhas eleitorais.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+###### Artigo 21.º — Publicação no Diário da República
+
+1 - A Entidade envia para publicação gratuita na 2.ª série do Diário da República o seguinte:
+
+a) A lista indicativa do valor dos principais meios de campanha;
+
+b) As contas dos partidos políticos e das campanhas eleitorais;
+
+c) As suas decisões em matéria de regularidade e legalidade das contas dos partidos políticos e das campanhas eleitorais.
+
+2 - A lista referida na alínea a) do número anterior deve ser publicada até ao dia de publicação do decreto que marca as eleições.
+
+3 - O Tribunal Constitucional envia para publicação na 2.ª série do Diário da República os acórdãos proferidos em sede de recurso das decisões da Entidade em matéria de regularidade e legalidade das contas dos partidos políticos e das campanhas eleitorais.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+###### Artigo 22.º — Suspensão da prescrição
+
+A prescrição do procedimento pelas contraordenações previstas na Lei n.º 19/2003, de 20 de junho, e na presente lei suspende-se, para além dos casos previstos na lei, até à emissão das decisões previstas nos artigos 28.º e 39.º
+
+> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+###### Artigo 23.º — Recurso das decisões da Entidade
+
+1 - Dos actos da Entidade cabe recurso para o Tribunal Constitucional, em plenário.
+
+2 - São irrecorríveis os actos da Entidade que se traduzam em emissão de recomendações ou que se destinem apenas a instruir ou a preparar decisões do Tribunal Constitucional, com ressalva daqueles que afectem direitos e interesses legalmente protegidos.
+
+###### Artigo 24.º — Meios técnicos
+
+Sem prejuízo do disposto no n.º 3 do artigo 13.º, o Tribunal Constitucional pode requisitar ou destacar técnicos qualificados de quaisquer serviços públicos ou recorrer, mediante contrato, aos serviços de empresas de auditoria ou a revisores oficiais de contas.
+
+#### Secção II — Contas dos partidos políticos
+
+###### Artigo 25.º — Entrega das contas anuais dos partidos políticos
+
+Os partidos políticos enviam à Entidade, para apreciação, as suas contas anuais, no prazo previsto no n.º 1 do artigo 26.º da Lei n.º 19/2003, de 20 de junho.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+###### Artigo 26.º — Envio à Entidade das contas dos partidos políticos
+
+Após a recepção das contas dos partidos políticos, o Tribunal Constitucional remete-as à Entidade para instrução do processo e apreciação.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+###### Artigo 27.º — Auditoria às contas dos partidos políticos
+
+No âmbito da instrução dos processos, a Entidade realiza auditoria à contabilidade dos partidos políticos, circunscrita, no seu âmbito, objetivos e métodos, aos aspetos relevantes para o exercício da sua competência.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+###### Artigo 28.º — Incumprimento da obrigação de entrega de contas dos partidos políticos
+
+1 - No caso de omissão de apresentação de contas, a Entidade verifica a ocorrência de qualquer circunstância que permita excluir, quanto aos partidos em questão, a relevância do incumprimento da referida obrigação legal.
+
+2 - A Entidade decide, quanto a cada partido, se estava ou não sujeito à obrigação legal de apresentação de contas, aplicando as sanções previstas na lei.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+###### Artigo 29.º — Decisão sobre o incumprimento da obrigação de entrega de contas dos partidos políticos
+
+1 - Após receber o parecer da Entidade referido no artigo anterior, o Tribunal Constitucional decide, em plenário, quanto a cada partido político, se estava ou não sujeito à obrigação legal de apresentação de contas.
+
+2 - Se não se verificarem circunstâncias que permitam antecipadamente excluir a relevância do incumprimento da obrigação legal, o Tribunal comunica o facto ao Ministério Público para este promover o que entender relativamente à omissão em causa, nos termos do artigo 103.º-A da lei sobre organização, funcionamento e processo do Tribunal Constitucional.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+###### Artigo 30.º — Relatório sobre a auditoria às contas dos partidos políticos
+
+1 - Face aos resultados da auditoria referida no artigo 27.º e considerada a documentação entregue pelos partidos políticos, a Entidade elabora um relatório do qual constam as questões naquela suscitadas relativamente a cada partido político.
+
+2 - No relatório, a Entidade procede à verificação da correspondência entre os gastos declarados e as despesas efectivamente realizadas pelos partidos políticos, no âmbito de acções de propaganda política.
+
+3 - No relatório, a Entidade pronuncia-se ainda sobre o controlo efectuado nos termos do n.º 2 do artigo 9.º
+
+4 - A Entidade elabora o relatório previsto no n.º 1 no prazo máximo de seis meses a contar da data da recepção das contas.
+
+5 - A Entidade notifica os partidos políticos para se pronunciarem, querendo, no prazo de 30 dias, sobre a matéria constante do relatório referido no n.º 1, na parte que ao mesmo respeite, e prestar sobre ela os esclarecimentos que tiver por convenientes.
+
+###### Artigo 31.º — Parecer sobre a prestação de contas dos partidos políticos
+
+Após o prazo referido no n.º 5 do artigo anterior, a Entidade, tendo em conta as respostas dos partidos políticos, elabora, no prazo de 20 dias, parecer sobre a prestação de contas, identificando as irregularidades verificadas.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+###### Artigo 32.º — Decisão sobre a prestação de contas dos partidos políticos
+
+1 - Tendo em conta as respostas dos partidos políticos, nos termos do n.º 5 do artigo 30.º, a Entidade decide, relativamente a cada partido, num dos seguintes sentidos:
+
+a) Contas não prestadas;
+
+b) Contas prestadas;
+
+c) Contas prestadas com irregularidades.
+
+2 - Para que possa ser havida como cumprida pelos partidos políticos a obrigação de prestação de contas é necessário que a estas subjaza um suporte documental e contabilístico devidamente organizado, nas suas várias vertentes, que permita conhecer da situação financeira e patrimonial dos partidos.
+
+3 - No caso previsto na alínea c) do n.º 1, a Entidade discrimina as irregularidades apuradas.
+
+4 - (Revogado.)
+
+5 - A Entidade notifica os partidos políticos da decisão a que se refere o n.º 1.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+###### Artigo 33.º — Decisão sobre as contraordenações em matéria de contas dos partidos políticos
+
+1 - A Entidade notifica os partidos políticos sobre a sua intenção de decisão acerca das contraordenações em matéria de contas dos partidos políticos.
+
+2 - Os partidos políticos pronunciam-se, querendo, no prazo de 30 dias, sobre a matéria descrita nas notificações, na parte que lhes respeita, e prestam os esclarecimentos que tiverem por convenientes.
+
+3 - Findo o prazo previsto no n.º 2, a Entidade decide do sancionamento ou não dos partidos políticos, bem como das coimas a aplicar.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+###### Artigo 34.º — Decisão sobre as contra-ordenações em matéria de contas de partidos políticos
+
+Findo o prazo previsto no n.º 2 do artigo anterior, o Tribunal Constitucional decide, em plenário, do sancionamento ou não dos partidos políticos, bem como das coimas a aplicar.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+#### Secção III — Contas das campanhas eleitorais
+
+###### Artigo 35.º — Entrega das contas das campanhas eleitorais
+
+1 - Cada candidatura presta à Entidade as contas discriminadas da sua campanha eleitoral, no prazo previsto no n.º 1 do artigo 27.º da Lei n.º 19/2003, de 20 de junho.
+
+2 - Tratando-se de eleições autárquicas, os partidos e coligações devem observar o disposto nos n.os 2 e 3 do artigo 27.º da Lei n.º 19/2003, de 20 de Junho.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+###### Artigo 36.º — Instrução e apreciação
+
+Após a receção das contas das campanhas eleitorais, a Entidade procede à instrução do processo e apreciação.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+###### Artigo 37.º — Contas de campanhas autárquicas
+
+1 - Tratando-se de eleições autárquicas, a Entidade notifica as candidaturas para apresentarem conta de âmbito local, sempre que considere que tal elemento é necessário para a apreciação das respectivas contas da campanha, no prazo previsto no n.º 5 do artigo 27.º da Lei n.º 19/2003, de 20 de Junho.
+
+2 - No caso de candidaturas apresentadas por partidos políticos que concorram a mais de uma autarquia local e de existirem despesas comuns e centrais, previstas no n.º 2 do artigo 15.º da Lei n.º 19/2003, de 20 de Junho, a conta respectiva a estas despesas tem como limite um valor máximo igual a 10% do limite global admissível para o conjunto das candidaturas autárquicas apresentadas.
+
+3 - O prazo para a Entidade se pronunciar sobre a regularidade e a legalidade das contas da campanha suspende-se até à receção da conta de âmbito local.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+###### Artigo 38.º — Auditoria às contas das campanhas eleitorais
+
+1 - No âmbito da instrução dos processos, a Entidade inicia os procedimentos de auditoria às contas das campanhas eleitorais, no prazo de cinco dias após a sua recepção.
+
+2 - A auditoria é concluída no prazo de 35 dias.
+
+###### Artigo 39.º — Incumprimento da obrigação de entrega de contas das campanhas eleitorais
+
+1 - No caso de omissão de apresentação de contas, a Entidade verifica a ocorrência de qualquer circunstância que permita excluir, quanto às candidaturas em questão, a relevância do incumprimento da referida obrigação legal.
+
+2 - A Entidade decide, quanto a cada candidatura, se estava ou não sujeita à obrigação legal de apresentação de contas, aplicando as sanções previstas na lei.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+###### Artigo 40.º — Decisão sobre o incumprimento da obrigação de entrega de contas das campanhas eleitorais
+
+1 - Após receber o parecer da Entidade referido no artigo anterior, o Tribunal Constitucional decide, em plenário, quanto a cada candidatura, se estava ou não sujeita à obrigação legal de apresentação de contas.
+
+2 - Se não se verificarem circunstâncias que permitam antecipadamente excluir a relevância do incumprimento da obrigação legal, o Tribunal comunica o facto ao Ministério Público para este promover o que entender relativamente à omissão em causa.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+###### Artigo 41.º — Relatório sobre a auditoria às contas das campanhas eleitorais
+
+1 - Face aos resultados da auditoria referida no artigo 38.º, a Entidade elabora um relatório do qual constam as questões naquela suscitadas relativamente a cada candidatura.
+
+2 - A Entidade notifica as candidaturas para, no prazo de 10 dias, se pronunciarem, querendo, sobre a matéria constante do relatório referido no n.º 1, na parte que à mesma respeite, e prestar sobre ela os esclarecimentos que tiver por convenientes.
+
+###### Artigo 42.º — Parecer sobre as contas das campanhas eleitorais
+
+1 - A Entidade elabora um parecer, tendo em conta os resultados da auditoria e as respostas das candidaturas, apreciando todas as questões relevantes para que o Tribunal Constitucional possa decidir da existência ou não de irregularidades nas contas apresentadas.
+
+2 - No parecer, a Entidade pronuncia-se sobre a existência de omissões de entrega de contas por parte das candidaturas.
+
+3 - A Entidade elabora o parecer no prazo máximo de 70 dias a partir do fim do prazo de apresentação das contas da campanha eleitoral.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+###### Artigo 43.º — Decisão sobre a prestação de contas das campanhas eleitorais
+
+1 - A Entidade decide do cumprimento da obrigação de prestação de contas das campanhas eleitorais e da existência ou não de irregularidades nas mesmas.
+
+2 - A Entidade pronuncia-se no prazo máximo de um ano a partir do fim do prazo de apresentação das contas da campanha eleitoral.
+
+3 - A Entidade notifica os partidos políticos da decisão a que se refere o n.º 1.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+###### Artigo 44.º — Decisão sobre as contraordenações em matéria de contas das campanhas eleitorais
+
+1 - A Entidade notifica as candidaturas sobre a sua intenção de decisão das contraordenações em matéria de contas das campanhas eleitorais.
+
+2 - As candidaturas pronunciam-se, querendo, no prazo de 30 dias, sobre a matéria descrita na notificação, na parte que lhes respeita, e prestam os esclarecimentos que tiverem por convenientes.
+
+3 - Findo o prazo previsto no n.º 2, a Entidade decide da aplicação ou não das sanções previstas na lei.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+###### Artigo 45.º — Decisão sobre as contra-ordenações em matéria de contas das campanhas eleitorais
+
+Findo o prazo previsto no n.º 2 do artigo anterior, o Tribunal Constitucional decide, em plenário, da punição ou não das candidaturas, bem como das sanções a aplicar.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+### Capítulo VII — Sanções
+
+###### Artigo 46.º — Competência para aplicação de sanções
+
+1 - A Entidade é competente para aplicar as sanções previstas na presente lei e na Lei n.º 19/2003, de 20 de junho, com ressalva das sanções penais.
+
+2 - Das decisões da Entidade previstas no número anterior cabe recurso para o Tribunal Constitucional com efeitos suspensivos.
+
+3 - A interposição do recurso em matéria de contas dos partidos políticos faz-se por meio de requerimento apresentado ao presidente da Entidade, acompanhado da respetiva motivação e da prova documental tida por conveniente, podendo o recorrente solicitar ainda, no requerimento, a produção de outro meio de prova.
+
+4 - O prazo para a interposição do recurso é de 30 dias, a contar da data da notificação ao recorrente da decisão impugnada.
+
+5 - A Entidade pode revogar ou sustentar a sua decisão, caso em que remete os autos ao Tribunal Constitucional.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+###### Artigo 46.º-A — Notificações
+
+As notificações aos partidos, mandatários financeiros, candidatos às eleições presidenciais, primeiros candidatos de cada lista e primeiros proponentes de grupos de cidadãos eleitores são efetuadas através do endereço de correio eletrónico e por correio registado para a morada da sede ou do domicílio, que devem ser indicados e mantidos atualizados junto da Entidade, para efeitos da presente lei.
+
+> Aditado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+###### Artigo 47.º — Incumprimento dos deveres de comunicação e colaboração
+
+1 - Os mandatários financeiros, os candidatos às eleições presidenciais, os primeiros candidatos de cada lista e os primeiros proponentes de grupos de cidadãos eleitores que violem os deveres previstos nos artigos 15.º, 16.º e 46.º-A são punidos com coima mínima no valor de 2 salários mínimos mensais nacionais e máxima no valor de 32 salários mínimos mensais nacionais.
+
+2 - Os partidos políticos que cometam a infracção prevista no n.º 1 são punidos com coima mínima no valor de 6 salários mínimos mensais nacionais e máxima no valor de 96 salários mínimos mensais nacionais.
+
+3 - Os partidos políticos têm a faculdade de se sub-rogarem no pagamento das coimas aplicadas nos termos do n.º 1 aos seus mandatários financeiros ou aos seus candidatos.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+### Capítulo VIII — Disposições finais e transitórias
+
+###### Artigo 48.º — Regime transitório
+
+1 - Para apreciação das contas anuais dos partidos correspondentes ao ano de 2004, o Tribunal Constitucional conta com o apoio técnico da Entidade.
+
+2 - Durante o ano de 2005, a Entidade procede à elaboração dos regulamentos indispensáveis à conformação, por parte dos partidos políticos e das candidaturas, às regras de financiamento e de organização de contas previstas na Lei n.º 19/2003, de 20 de Junho, e na presente lei.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+###### Artigo 49.º — Entrada em vigor
+
+A presente lei entra em vigor em 1 de Janeiro de 2005.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846), em vigor a partir de 2018-04-20
+
+Aprovada em 2 de Dezembro de 2004.
+
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
+
+Promulgada em 30 de Dezembro de 2004.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendada em 30 de Dezembro de 2004.
+
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

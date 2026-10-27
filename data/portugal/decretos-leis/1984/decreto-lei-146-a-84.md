@@ -1,0 +1,404 @@
+---
+schema_version: '1.0'
+id: pt:dre:475558:por
+title: Decreto-Lei n.º 146-A/84
+short_title: null
+summary: Altera a estrutura orgânica do Centro de Estudos Judiciários, dando nova redacção aos artigos 1.º, 5.º, 8.º, 9.º,
+  13.º, 23.º, 24.º, 28.º, 29.º, 35.º, 36.º, 37.º, 45.º, 46.º, 49.º, 50.º, 51.º, 52.º, 53.º, 55.º e 67.º do Decreto-Lei n.º
+  374-A/79, de 10 de Setembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios da Justiça e das Finanças e do Plano
+proposing_entity: null
+official_number: 146-A/84
+official_date: null
+publication_date: '1984-05-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 107/1984, 1º Suplemento, Série I de 1984-05-09
+  number: '107'
+  series: I
+  supplement: null
+  pages: 1508-(1) a 1508-(4)
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/05/10701/00010004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '475558'
+  dre_path: /dr/detalhe/decreto-lei/146-a-1984-475558
+  internal: pt:dre:475558:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-a-1984-475558
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-a-1984-475558
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:57:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 99dbd77dbe977fca93d420359814d7b6d1f603107479dc9340bbebf6fef7ca55
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:57:03Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Centro de Estudos Judiciários
+- Criação de Serviços
+- Formação Profissional
+- Orgânica
+relationships:
+- type: amended_by
+  target: pt:dre:165851:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:256637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517226:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:165851:por
+  label: "Revogado pela LEI.16/98.1998.04.08.AR, DR.IS-A [83] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-1998-165851
+  date: '1998-04-08'
+article_structure:
+  article_count: 21
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:57:03Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 146-A/84
+
+de 9 de Maio
+
+1. A experiência colhida do funcionamento do Centro de Estudos Judiciários e o termo próximo do regime especial de formação previsto pelo artigo 79.º do [Decreto-Lei n.º 374-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-a-1979-256637), de 10 de Setembro, depois da redacção introduzida pelo [Decreto-Lei n.º 264-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-a-1981-517226), de 3 de Setembro, justificam que se adopte uma série de medidas pontuais de alteração na sua estrutura orgânica e no respectivo esquema de funcionamento com vista a conferir-lhe maior eficácia.
+
+2. A modificação introduzida no artigo 1.º permite abrir o Centro de Estudos Judiciários a outros serviços carecidos de formação profissional especializada e para cuja execução o Centro de Estudos Judiciários se mostra especialmente vocacionado, ao mesmo tempo que se lhe proporciona o espaço necessário ao desenvolvimento da investigação.
+
+As alterações introduzidas nos artigos 5.º, 23.º e 67.º têm em vista a sua adaptação às inovações introduzidas na orgânica do Centro de Estudos Judiciários pelo [Decreto-Lei n.º 146-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-b-1984-475559).
+
+A necessidade de institucionalizar a direcção da formação complementar e da formação permanente e de garantir uma assistência continuada aos estágios em curso em todo o País aconselha a criação de um novo lugar de director de estágios, ao mesmo tempo que o volume de serviço a cargo do director justifica a concessão ao director de estudos e aos directores de estágios do estatuto de directores-adjuntos. Daí as alterações introduzidas nos artigos 8.º, 9.º e 13.º
+
+A modificação introduzida no artigo 24.º explica-se pela necessidade de conseguir uma maior rapidez no provimento dos lugares do quadro de pessoal do Centro de Estudos Judiciários.
+
+Ao permitir, com a nova redacção do artigo 28.º, a admissão no Centro de Estudos Judiciários, sem necessidade de graduação em testes de aptidão, dos licenciados em Direito com média final de curso igual ou superior a 14 valores pretende-se incentivar o ingresso nas magistraturas de licenciados mais qualificados, garantindo a natureza selectiva dos cursos a ministrar no Centro de Estudos Judiciários as correcções que vierem a justificar-se.
+
+Do mesmo passo, abolindo-se o limite de idade máxima como condição de ingresso, permitir-se-á o recrutamento de indivíduos capazes de reunirem bons conhecimentos técnicos e apurada experiência da vida, salvaguardando-se a despistagem de situações de menos qualidade através do rigor selectivo dos testes de aptidão e do próprio curso.
+
+As alterações introduzidas nos artigos 35.º, 36.º e 37.º visam conferir aos testes de aptidão maior rigor selectivo, aproximando-os mais da formação de base dos candidatos, proporcionando ao mesmo tempo um mais vasto leque de meios para avaliar da sua capacidade.
+
+Com a nova redacção dos artigos 45.º, 46.º, 49.º, 50.º, 52.º e 55.º introduz-se, nas fases dos cursos normais, um conjunto de modificações que permitem, além de uma ligeira extensão na sua duração total, um tipo de formação integrada, bem como uma mais clara definição dos limites de cada período.
+
+Finalmente, ao modificar-se o artigo 53.º, suprimindo da graduação final, como dado de ponderação, os resultados dos testes de aptidão e conferindo ao currículo académico um valor de natureza meramente complementar, pretende-se colmatar várias situações de menor justiça relativa que o regime até agora previsto vinha proporcionando.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º Os artigos 1.º, 5.º, 8.º, 9.º, 13.º, 23.º, 24.º, 28.º, 29.º, 35.º, 36.º, 37.º, 45.º, 46.º, 49.º, 50.º, 51.º, 52.º, 53.º, 55.º e 67.º do [Decreto-Lei n.º 374-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-a-1979-256637), de 10 de Setembro, passam a ter a seguinte redacção:
+
+###### Artigo 1.º — (Denominação, natureza e funções)
+
+1 - ...
+
+2 - O Centro de Estudos Judiciários é um estabelecimento dotado de personalidade jurídica destinado à formação profissional de magistrados judiciais, de magistrados do ministério público, de conservadores e de notários e à investigação na área da sua actividade formativa, servindo complementarmente para ministrar cursos de aperfeiçoamento para funcionários de justiça.
+
+3 - A solicitação dos respectivos serviços, pode o Centro de Estudos Judiciários levar a efeito acções formativas no quadro das Direcções-Gerais dos Serviços Prisionais e dos Serviços Tutelares de Menores e do Instituto de Reinserção Social.
+
+###### Artigo 5.º — (Órgãos e serviços)
+
+1 - São órgãos do Centro de Estudos Judiciários:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) O conselho técnico;
+
+f) O conselho administrativo.
+
+2 - O Centro de Estudos Judiciários disporá dos seguintes serviços:
+
+a) O Gabinete de Estudos Jurídico-Sociais;
+
+b) A Biblioteca;
+
+c) O Museu;
+
+d) A Secretaria.
+
+###### Artigo 8.º — (Assistência e substituição)
+
+O director é assistido por 3 directores-adjuntos, sendo 1 director de estudos e 2 directores de estágios, que asseguram sucessivamente a sua substituição.
+
+###### Artigo 9.º — (Director de estudos e directores de estágios)
+
+1 - O director de estudos e os directores de estágios são nomeados e exercem funções nos termos previstos no artigo 6.º
+
+2 - A nomeação dos directores de estágios faz-se de entre magistrados judiciais e magistrados do ministério público, pertencendo sempre um a cada magistratura.
+
+3 - Compete especialmente ao director de estudos:
+
+a) ...
+
+b) Exercer as demais funções que lhe sejam atribuídas por lei, pelo regulamento interno ou pelo director.
+
+4 - Compete especialmente ao director de estágios para a magistratura judicial:
+
+a) Preparar o respectivo plano de estágios e orientar directamente a sua execução;
+
+b) Preparar o plano anual de actividades de formação complementar e orientar directamente a sua execução;
+
+c) Exercer as demais funções que lhe sejam atribuídas por lei, pelo regulamento interno ou pelo director.
+
+5 - Compete especialmente ao director de estágios para a magistratura do ministério público:
+
+a) Preparar o respectivo plano de estágios e orientar directamente a sua execução;
+
+b) Preparar o plano anual de actividades de formação permanente e orientar directamente a sua execução;
+
+c) Exercer as demais funções que lhe sejam atribuídas por lei, pelo regulamento interno ou pelo director.
+
+6 - O director de estudos é substituído sucessivamente pelo director de estágios para a magistratura judicial e pelo director de estágios para a magistratura do ministério público e os directores de estágios substituem-se reciprocamente.
+
+7 - Para efeitos de vencimento, o cargo de director-adjunto é equiparado ao de juiz da relação.
+
+###### Artigo 13.º — (Constituição)
+
+Constituem o conselho pedagógico:
+
+a) ...
+
+b) ...
+
+c) Os directores de estágios;
+
+d) ...
+
+e) ...
+
+###### Artigo 23.º — (Competência)
+
+Compete à Secretaria:
+
+a) Assegurar o expediente relativo ao director, ao conselho de gestão, ao conselho pedagógico, ao conselho de disciplina, ao conselho técnico, ao conselho administrativo, ao Gabinete de Estudos Jurídico-Sociais, à Biblioteca e ao Museu;
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+###### Artigo 24.º — (Pessoal)
+
+1 - O secretário é nomeado de entre indivíduos habilitados com o curso superior adequado ou de entre secretários judiciais de reconhecido mérito.
+
+2 - ...
+
+3 - ...
+
+###### Artigo 28.º — (Admissibilidade)
+
+1 - ...
+
+2 - São admitidos sem necessidade de graduação em testes de aptidão:
+
+a) ...
+
+b) ...
+
+c) Licenciados em Direito com classificação média de licenciatura igual ou superior a 14 valores.
+
+3 - ...
+
+###### Artigo 29.º — (Ingresso)
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) Ter mais de 23 anos no dia 1 de Outubro do ano de abertura do concurso;
+
+d) ...
+
+###### Artigo 35.º — (Fases)
+
+1 - ...
+
+2 - ...
+
+3 - Coincidindo com a abertura do concurso, o Centro de Estudos Judiciários fará publicar a lista de matérias sobre que versarão as provas da fase escrita referidas nas alíneas b) e c) do artigo 36.º
+
+###### Artigo 36.º — (Fase escrita)
+
+1 - A fase escrita compreende:
+
+a) ...
+
+b) A resolução de uma questão prática de direito civil ou comercial e de direito processual civil, de direito criminal e de direito processual penal, ou de direito do trabalho e de direito processual do trabalho, à escolha do candidato;
+
+c) A resolução de uma questão prática, sorteada de entre as disciplinas referidas na alínea b) e não escolhidas pelo candidato na prova anterior.
+
+2 - ...
+
+3 - ...
+
+4 - Em caso de manifesta inaptidão, a fase escrita é eliminatória.
+
+###### Artigo 37.º — (Fase oral)
+
+1 - A fase oral compreende:
+
+a) Uma conversação de 30 minutos, tendo como ponto de partida um tema relativo a aspectos sociais, jurídicos, económicos ou culturais, a escolher pelo candidato de uma lista de matérias a publicar pelo Centro de Estudos Judiciários;
+
+b) Um interrogatório de 30 minutos sobre tema a escolher pelo candidato de entre as matérias referidas no n.º 3 do artigo 35.º e relativas à disciplina excluída da fase escrita por força da aplicação do regime previsto nas alíneas b) e c) do artigo 36.º;
+
+c) Uma discussão, por tempo não superior a 30 minutos, tendo como ponto de partida as matérias sobre que versaram as provas escritas.
+
+2 - ...
+
+###### Artigo 45.º — (Enunciação)
+
+O período de formação inicial compreende as seguintes fases sucessivas:
+
+a) ...
+
+b) Um período de iniciação;
+
+c) ...
+
+###### Artigo 46.º — (Organização)
+
+1 - O período de actividades teórico-práticas tem início no dia 1 de Outubro subsequente à data de abertura do concurso de ingresso e termina no dia 31 de Julho seguinte.
+
+2 - ...
+
+3 - ...
+
+##### SUBSECÇÃO III — Período de iniciação
+
+###### Artigo 49.º — (Organização)
+
+1 - O período de iniciação começa no dia 1 de Outubro subsequente ao termo do período de actividades teórico-práticas e termina no dia 31 de Julho seguinte, compreendendo as seguintes fases:
+
+a) Estágio de iniciação, a decorrer entre 1 de Outubro e 30 de Maio;
+
+b) Curso complementar de síntese, a decorrer entre 2 de Junho e 31 de Julho.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+###### Artigo 50.º — (Conteúdo)
+
+1 - ...
+
+2 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+3 - O curso complementar de síntese realiza-se sob a orientação conjunta do director de estudos e dos directores de estágios e com intervenção dos professores do Centro de Estudos Judiciários.
+
+4 - Na organização das actividades ter-se-ão em conta os objectivos de integração e síntese das fases anteriores de formação teórico-prática e de estágio de reflexão crítica e de preparação para a fase seguinte.
+
+###### Artigo 51.º — (Delegação do Centro de Estudos Judiciários)
+
+1 - ...
+
+2 - ...
+
+3 - A função de coordenação e dinamização dos estágios em curso no distrito judicial onde o Centro de Estudos Judiciários tenha a sua sede cabe, directamente, aos respectivos directores de estágios.
+
+###### Artigo 52.º — (Aproveitamento)
+
+1 - Findo o período de iniciação, procede-se à notação do aproveitamento dos auditores de justiça, nos termos estabelecidos no artigo 47.º
+
+2 - ...
+
+###### Artigo 53.º — (Graduação)
+
+A graduação dos auditores de justiça faz-se mediante avaliação global, que terá em conta os níveis de aproveitamento obtidos durante o período de formação inicial e, complementarmente, o currículo académico.
+
+###### Artigo 55.º — (Organização)
+
+1 - O estágio de pré-afectação começa no dia 1 de Outubro subsequente ao termo do período de iniciação e termina no dia 31 de Maio seguinte.
+
+2 - ...
+
+###### Artigo 67.º — (Regime de remuneração)
+
+1 - Será afixado, por despacho conjunto dos Ministros da Justiça, das Finanças e do Plano, e do membro do Governo que tiver a seu cargo a função pública, o regime de remuneração dos docentes, dos delegados regionais, dos formadores, dos membros dos júris, dos membros do conselho de gestão, do conselho pedagógico, do conselho de disciplina, do conselho técnico e dos responsáveis pelos departamentos de estudos do Gabinete de Estudos Jurídico-Sociais.
+
+2 - ...
+
+3 - ...
+
+Art. 2.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 24 de Abril de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes.
+
+Promulgado em 7 de Maio de 1984.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 9 de Maio de 1984.
+
+O Primeiro-Ministro, Mário Soares.

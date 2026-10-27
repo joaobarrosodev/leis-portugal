@@ -1,0 +1,413 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001L0032:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0032-20080723",
+ "dre_path": null,
+ "source_lastmod": "2008-07-23",
+ "versions": [
+  {
+   "date": "2001-05-09",
+   "future": false,
+   "celex": "32001L0032",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "830463d9056b66e2",
+    "5451a7ad76975bb9",
+    "37ed9138ce116e4e",
+    "9a2c93bb69a32300",
+    "dd17cbf2798027e0",
+    "27ab31f757eabee3",
+    "ed6d51964e40b6fe",
+    "fd0ebbcb8a7a7305"
+   ]
+  },
+  {
+   "date": "2004-05-01",
+   "future": false,
+   "celex": "02001L0032-20040501",
+   "acts": [
+    {
+     "id": "eu:celex:32002L0029:por",
+     "title": "DIRECTIVA 2002/29/CE DA COMISSÃO de 19 de Março de 2002",
+     "published": null,
+     "celex": "32002L0029"
+    },
+    {
+     "id": "eu:celex:32003L0021:por",
+     "title": "DIRECTIVA 2003/21/CE DA COMISSÃO de 24 de Março de 2003",
+     "published": null,
+     "celex": "32003L0021"
+    },
+    {
+     "id": "eu:celex:32003L0046:por",
+     "title": "DIRECTIVA 2003/46/CE DA COMISSÃO de 4 de Junho de 2003",
+     "published": null,
+     "celex": "32003L0046"
+    },
+    {
+     "id": "eu:celex:32004L0032:por",
+     "title": "M4",
+     "published": null,
+     "celex": "32004L0032"
+    },
+    {
+     "id": "eu:celex:32004D0522:por",
+     "title": "DECISÃO DA COMISSÃO de 28 de Abril de 2004",
+     "published": null,
+     "celex": "32004D0522"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 6.º",
+    "Adita ANEXO",
+    "Adita Notas",
+    "Suprime ANEXO — ZONAS DA COMUNIDADE RECONHECIDAS COMO \"ZONAS PROTEGIDAS\", EM RELAÇÃO AO ORGANISMO OU ORGANISMOS PREJUDICIAIS INDICADOS PARA CADA ZONA"
+   ],
+   "fragments": [
+    "009bcb80ce37a643",
+    "449842e84a06f69b",
+    "d538af65fb6ea26a",
+    "9a2c93bb69a32300",
+    "dd17cbf2798027e0",
+    "10d6a4a55c349516",
+    "4c55e2d89858ab6b",
+    "30414ec2d7280b3c",
+    "2e155e59fbc1ff93"
+   ]
+  },
+  {
+   "date": "2005-03-06",
+   "future": false,
+   "celex": "02001L0032-20050306",
+   "acts": [
+    {
+     "id": "eu:celex:32005L0018:por",
+     "title": "DIRECTIVA 2005/18/CE DA COMISSÃO de 2 de Março de 2005",
+     "published": null,
+     "celex": "32005L0018"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera ANEXO",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "e93d00f4ccc6a239",
+    "94e878ee589dc144",
+    "d538af65fb6ea26a",
+    "9a2c93bb69a32300",
+    "dd17cbf2798027e0",
+    "10d6a4a55c349516",
+    "4c55e2d89858ab6b",
+    "c8b190a06bf7ee08",
+    "dc516aa466df2dd2"
+   ]
+  },
+  {
+   "date": "2006-04-14",
+   "future": false,
+   "celex": "02001L0032-20060414",
+   "acts": [
+    {
+     "id": "eu:celex:32006L0036:por",
+     "title": "DIRECTIVA 2006/36/CE DA COMISSÃO de 24 de Março de 2006",
+     "published": null,
+     "celex": "32006L0036"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera ANEXO",
+    "Altera Notas",
+    "Suprime Artigo 2.º"
+   ],
+   "fragments": [
+    "061e409841a141ae",
+    "acde973e63f0dda0",
+    "9a2c93bb69a32300",
+    "dd17cbf2798027e0",
+    "10d6a4a55c349516",
+    "4c55e2d89858ab6b",
+    "1508ff0eb42e6448",
+    "9e34fb1be70cc6ed"
+   ]
+  },
+  {
+   "date": "2007-07-19",
+   "future": false,
+   "celex": "02001L0032-20070719",
+   "acts": [
+    {
+     "id": "eu:celex:32007L0040:por",
+     "title": "DIRECTIVA 2007/40/CE DA COMISSÃO de 28 de Junho de 2007",
+     "published": null,
+     "celex": "32007L0040"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "ffe996cbf67da282",
+    "acde973e63f0dda0",
+    "9a2c93bb69a32300",
+    "dd17cbf2798027e0",
+    "10d6a4a55c349516",
+    "4c55e2d89858ab6b",
+    "fafe84fccd8f990b",
+    "bdd079dc31d6e05a"
+   ]
+  },
+  {
+   "date": "2008-07-23",
+   "future": false,
+   "celex": "02001L0032-20080723",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime ANEXO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "51c19564aa99a122"
+   ]
+  }
+ ],
+ "fragments": {
+  "830463d9056b66e2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2001/32/CE da Comissão, de 8 de Maio de 2001, que reconhece zonas protegidas na Comunidade expostas a riscos fitossanitários específicos e que revoga a Directiva 92/76/CEE** *Jornal Oficial nº L 127 de 09/05/2001 p. 0038 - 0041*\n\nDirectiva 2001/32/CE da Comissão\n\nde 8 de Maio de 2001\n\nque reconhece zonas protegidas na Comunidade expostas a riscos fitossanitários específicos e que revoga a Directiva 92/76/CEE\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2000/29/CE do Conselho, de 8 de Maio de 2000, relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais e contra a sua propagação no interior da Comunidade(1), e, nomeadamente, o n.o 1, primeiro parágrafo da alínea h), do seu artigo 2.o,\n\nTendo em conta os pedidos apresentados pela Dinamarca, Grécia, Espanha, França, Irlanda, Itália, Áustria, Portugal, Finlândia, Suécia e Reino Unido,\n\nConsiderando o seguinte:\n\n(1) Em conformidade com a Directiva 2000/29/CE, podem ser definidas \"zonas protegidas\" expostas a riscos fitossanitários específicos, que podem beneficiar de protecção especial, em condições compatíveis com o mercado interno. Essas zonas foram definidas pela Directiva 92/76/CEE da Comissão, de 6 de Outubro de 1992, que reconhece zonas protegidas na Comunidade, expostas a riscos fitossanitários específicos(2), com a última redacção que lhe foi dada pela Directiva 2000/23/CE(3).\n\n(2) Desde então, verificaram-se evoluções significativas no estatuto fitossanitário de algumas dessas zonas inicialmente reconhecidas como zonas protegidas no que diz respeito aos organismos prejudiciais relevantes.\n\n(3) Das informações fornecidas pela Dinamarca, conclui-se que deixou de ser adequado manter a zona protegida reconhecida para a Dinamarca relativamente à Bemisia tabaci Genn. (populações europeias) e ao Tomato spotted wilt virus.\n\n(4) Certas disposições relativas a medidas de protecção em Portugal contra a Gonipterus scutellatus Gyll. e no Reino Unido e na Irlanda contra as Pissodes spp. (europeias) devem ser alteradas a fim de ter em conta a actual distribuição desses organismos nos respectivos países.\n\n(5) Das informações fornecidas pelo Reino Unido e pela Suécia, conclui-se que, na sequência de reorganizações governamentais locais, a actual descrição das respectivas zonas protegidas relativamente à Dendroctonus micans Kugelan e Leptinotarsa decemlineata Say deve ser alterada.\n\n(6) Nos termos da Directiva 92/76/CEE, a Àustria, a Irlanda e as regiões de Apúlia, Emília-Romagnha, Lombardia e Veneto, em Itália, foram reconhecidas provisoriamente como zonas protegidas relativamente à Erwinia amylovora (Burr.) Winsl. et al. por um período que termina em 31 de Março de 2001.\n\n(7) Das informações fornecidas pela Irlanda, constata-se que o reconhecimento provisório de zonas protegidas na Irlanda relativamente à Erwinia amylovora (Burr.) Winsl. et al. deve continuar a vigorar por um período limitado.\n\n(8) Das informações fornecidas pela Áustria e pela Itália, conclui-se que algumas zonas da Áustria e da Itália devem deixar de ser reconhecidas como zonas protegidas relativamente à Erwinia amylovora (Burr.) Winsl. et al., devendo outras zonas ser reconhecidas como zonas protegidas relativamente à Erwinia amylovora (Burr.) Winsl. et al. por um período suplementar limitado.\n\n(9) Das informações fornecidas pela França, conclui-se que certas zonas desse país devem deixar de ser reconhecidas como zonas protegidas relativamente à Erwinia amylovora (Burr.) Winsl. et al.\n\n(10) Das informações fornecidas pelo Reino Unido, conclui-se que o reconhecimento provisório da zona protegida no Reino Unido relativamente ao Beet necrotic yellow vein virus deve continuar a vigorar por um período limitado.\n\n(11) É, pois, necessário alterar as zonas protegidas designadas em vigor. Por razões de clareza, deve ser adoptada uma nova lista dessas zonas. A Directiva 92/76/CEE deve, pois, ser revogada. Devido aos problemas fitossanitários continuados, a presente directiva deve entrar em vigor e ser transposta logo que possível.\n\n(12) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Fitossanitário Permanente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "5451a7ad76975bb9": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSão reconhecidas como \"zonas protegidas\", na acepção do n.o 1, primeiro parágrafo da alínea h), do artigo 2.o da Directiva 2000/29/CE, relativamente ao organismo ou organismos prejudiciais indicados para cada zona, as zonas da Comunidade constantes do anexo.\n\nNo caso do ponto 2, alínea b), relativamente à Irlanda, a Itália (Emília-Romanha: províncias de Forlí-Cesena, Parma, Piacenza e Rimini; Lombardia; Trentino-Alto Adige: província autónoma de Bolzano; Veneto) e à Áustria (Burgenland, Caríntia, Baixa Áustria, Osttirol, Estíria, Viena), essas zonas são reconhecidas até 31 de Março de 2002.\n\nNo caso do ponto 1 da alínea d), essa zona no Reino Unido é reconhecida até 31 de Março de 2002."
+  },
+  "37ed9138ce116e4e": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA prorrogação do reconhecimento para além das datas referidas no artigo 1.o e qualquer alteração da lista zonas protegidas referida no artigo 1.o serão efectuadas de acordo com o procedimento previsto no artigo 18.o da Directiva 2000/29/CE, tendo em conta os resultados dos inquéritos adequados, realizados em condições definidas pela Comunidade, fiscalizados por peritos da Comissão."
+  },
+  "9a2c93bb69a32300": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 21 de Maio de 2001. Os Estados-Membros aplicarão essas disposições a partir de 22 de Maio de 2001. Do facto informarão imediatamente a Comissão. Sempre que os Estados-Membros adoptem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicarão imediatamente à Comissão o texto das principais disposições de direito interno que adoptem no domínimo regido pela presente directiva. A Comissão informará do facto os outros Estados-Membros."
+  },
+  "dd17cbf2798027e0": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA Directiva 92/76/CEE é revogada com efeitos a partir de 22 de Maio de 2001."
+  },
+  "27ab31f757eabee3": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA presente directiva entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 22 de Maio de 2001."
+  },
+  "ed6d51964e40b6fe": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 8 de Maio de 2001.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 169 de 10.7.2000, p. 1.\n\n(2) JO L 305 de 21.10.1992, p. 12.\n\n(3) JO L 103 de 28.4.2000, p. 72."
+  },
+  "fd0ebbcb8a7a7305": {
+   "fragment_id": "ANEXO — ZONAS DA COMUNIDADE RECONHECIDAS COMO \"ZONAS PROTEGIDAS\", EM RELAÇÃO AO ORGANISMO OU ORGANISMOS PREJUDICIAIS INDICADOS PARA CADA ZONA",
+   "type": "divisao",
+   "heading": "ANEXO — ZONAS DA COMUNIDADE RECONHECIDAS COMO \"ZONAS PROTEGIDAS\", EM RELAÇÃO AO ORGANISMO OU ORGANISMOS PREJUDICIAIS INDICADOS PARA CADA ZONA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — ZONAS DA COMUNIDADE RECONHECIDAS COMO \"ZONAS PROTEGIDAS\", EM RELAÇÃO AO ORGANISMO OU ORGANISMOS PREJUDICIAIS INDICADOS PARA CADA ZONA\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "009bcb80ce37a643": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Maio de 2001\n\nque reconhece zonas protegidas na Comunidade expostas a riscos fitossanitários específicos e que revoga a Directiva 92/76/CEE\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2000/29/CE do Conselho, de 8 de Maio de 2000, relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais e contra a sua propagação no interior da Comunidade ([^1^](http://publications.europa.eu/resource/cellar/46c3889b-1ab2-4549-ada0-0eb284af960c.0010.03/DOC_1#E0001)), e, nomeadamente, o n.º 1, primeiro parágrafo da alínea h), do seu artigo 2.º,\n\nTendo em conta os pedidos apresentados pela Dinamarca, Grécia, Espanha, França, Irlanda, Itália, Áustria, Portugal, Finlândia, Suécia e Reino Unido,\n\n(1) Em conformidade com a Directiva 2000/29/CE, podem ser definidas «zonas protegidas» expostas a riscos fitossanitários específicos, que podem beneficiar de protecção especial, em condições compatíveis com o mercado interno. Essas zonas foram definidas pela Directiva 92/76/CEE da Comissão, de 6 de Outubro de 1992, que reconhece zonas protegidas na Comunidade, expostas a riscos fitossanitários específicos ([^2^](http://publications.europa.eu/resource/cellar/46c3889b-1ab2-4549-ada0-0eb284af960c.0010.03/DOC_1#E0002)), com a última redacção que lhe foi dada pela Directiva 2000/23/CE ([^3^](http://publications.europa.eu/resource/cellar/46c3889b-1ab2-4549-ada0-0eb284af960c.0010.03/DOC_1#E0003)).\n\n(2) Desde então, verificaram-se evoluções significativas no estatuto fitossanitário de algumas dessas zonas inicialmente reconhecidas como zonas protegidas no que diz respeito aos organismos prejudiciais relevantes.\n\n(3) Das informações fornecidas pela Dinamarca, conclui-se que deixou de ser adequado manter a zona protegida reconhecida para a Dinamarca relativamente à *Bemisia tabaci* Genn. (populações europeias) e ao *Tomato spotted wilt virus*.\n\n(4) Certas disposições relativas a medidas de protecção em Portugal contra a *Gonipterus scutellatus* Gyll. e no Reino Unido e na Irlanda contra as *Pissodes* spp. (europeias) devem ser alteradas a fim de ter em conta a actual distribuição desses organismos nos respectivos países.\n\n(5) Das informações fornecidas pelo Reino Unido e pela Suécia, conclui-se que, na sequência de reorganizações governamentais locais, a actual descrição das respectivas zonas protegidas relativamente à *Dendroctonus micans* Kugelan e *Leptinotarsa decemlineata* Say deve ser alterada.\n\n(6) Nos termos da Directiva 92/76/CEE, a Àustria, a Irlanda e as regiões de Apúlia, Emília-Romagnha, Lombardia e Veneto, em Itália, foram reconhecidas provisoriamente como zonas protegidas relativamente à *Erwinia amylovora* (Burr.) Winsl. *et al*. por um período que termina em 31 de Março de 2001.\n\n(7) Das informações fornecidas pela Irlanda, constata-se que o reconhecimento provisório de zonas protegidas na Irlanda relativamente à *Erwinia amylovora* (Burr.) Winsl. *et al*. deve continuar a vigorar por um período limitado.\n\n(8) Das informações fornecidas pela Áustria e pela Itália, conclui-se que algumas zonas da Áustria e da Itália devem deixar de ser reconhecidas como zonas protegidas relativamente à *Erwinia amylovora* (Burr.) Winsl. *et al*., devendo outras zonas ser reconhecidas como zonas protegidas relativamente à *Erwinia amylovora* (Burr.) Winsl. *et al*. por um período suplementar limitado.\n\n(9) Das informações fornecidas pela França, conclui-se que certas zonas desse país devem deixar de ser reconhecidas como zonas protegidas relativamente à *Erwinia amylovora* (Burr.) Winsl. *et al*.\n\n(10) Das informações fornecidas pelo Reino Unido, conclui-se que o reconhecimento provisório da zona protegida no Reino Unido relativamente ao *Beet necrotic yellow vein virus* deve continuar a vigorar por um período limitado.\n\n(11) É, pois, necessário alterar as zonas protegidas designadas em vigor. Por razões de clareza, deve ser adoptada uma nova lista dessas zonas. A Directiva 92/76/CEE deve, pois, ser revogada. Devido aos problemas fitossanitários continuados, a presente directiva deve entrar em vigor e ser transposta logo que possível.\n\n(12) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Fitossanitário Permanente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "449842e84a06f69b": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSão reconhecidas como zonas protegidas, na acepção do n.º 1, primeiro parágrafo da alínea h), do artigo 2.º da Directiva 2000/29/CE, relativamente ao organismo ou organismos prejudiciais indicados para cada zona, as zonas da Comunidade constantes do anexo da presente directiva.\n\nNo caso do ponto 3.1 da alínea a) do anexo, essa zona em Chipre é reconhecida até 31 de Março de 2006.\n\nNo caso do ponto 6 da alínea a) do anexo, essas zonas na Letónia, na Eslovénia e na Eslováquia são reconhecidas até 31 de Março de 2006.\n\nNo caso do ponto 11 da alínea a) do anexo, essa zona em Chipre é reconhecida até 31 de Março de 2006.\n\nNo caso do ponto 13 da alínea a) do anexo, essas zonas em Chipre e Malta são reconhecidas até 31 de Março de 2006.\n\nNo caso do ponto 2 da alínea b) do anexo, relativamente à Irlanda, à Itália (Apúlia, Emília-Romanha: províncias de Forlì-Cesena, Parma, Piacenza e Rimini; Lombardia; Trentino-Alto Adige: província autónoma de Trento; Veneto: excepto, na província de Rovigo, os municípios de Rovigo, Polesella, Villamarzana, Fratta Polesine, San Bellino, Badia Polesine, Trecenta, Ceneselli, Pontecchio Polesine, Arquà Polesine, Costa di Rovigo, Occhiobello, Lendinara, Canda, Ficarolo, Guarda Veneta, Frassinelle Polesine, Villanova del Ghebbo, Fiesso Umbertiano, Castelguglielmo, Bagnolo di Po, Giacciano con Baruchella, Bosaro, Canaro, Lusia, Pincara, Stienta, Gaiba e Salara e, na província de Pádua, os municípios de Castelbaldo, Barbona, Piacenza d’Adige, Vescovana, S. Urbano, Boara Pisani e Masi e, na província de Verona, os municípios de Palù, Roverchiara, Legnago, Castagnaro, Ronco all’Adige, Villa Bartolomea, Oppeano, Terrazzo, Isola Rizza e Angiari), à Letónia, à Lituânia, à Áustria [Burgenland, Caríntia, Baixa Áustria, Tirol (distrito administrativo de Lienz), Estíria, Viena], à Eslovénia e à Eslováquia, essas zonas são reconhecidas até 31 de Março de 2006.\n\nNo caso do ponto 1 da alínea d) do anexo, essa zona na Lituânia é reconhecida até 31 de Março de 2006.\n\nNo caso do ponto 3 da alínea d) do anexo, essa zona em Malta é reconhecida até 31 de Março de 2006."
+  },
+  "d538af65fb6ea26a": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA prorrogação do reconhecimento para além das datas referidas no artigo 1.º e qualquer alteração da lista zonas protegidas referida no artigo 1.º serão efectuadas de acordo com o procedimento previsto no artigo 18.º da Directiva 2000/29/CE, tendo em conta os resultados dos inquéritos adequados, realizados em condições definidas pela Comunidade, fiscalizados por peritos da Comissão."
+  },
+  "10d6a4a55c349516": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA presente directiva entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nÉ aplicável a partir de 22 de Maio de 2001."
+  },
+  "4c55e2d89858ab6b": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "30414ec2d7280b3c": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n| Organismos prejudiciais | Zonas protegidas: território de |\n| --- | --- |\n| a) Insectos, ácaros e nemátodos, em qualquer fase de desenvolvimento |  |\n| 1. *Anthonomus grandis* (Boh.) | Grécia, Espanha (Andaluzia, Catalunha, Estremadura, Múrcia, Valência) |\n| 2. *Bemisia tabaci* Genn. (populações europeias) | Irlanda, Portugal (Alentejo, Açores, Beira Interior, Beira Litoral, Entre Douro e Minho, Madeira, Ribatejo e Oeste e Trás-os-Montes), Finlândia, Suécia, Reino Unido |\n| 3. *Cephalcia lariciphila* (Klug.) | Irlanda, Reino Unido (Irlanda do Norte, ilha de Man e Jersey) |\n| [▼A1](http://publications.europa.eu/resource/celex/12003T) |  |\n| 3.1. *Daktulosphaira vitifoliae* (Fitch) | Chipre |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0032) |  |\n| 4. *Dendroctonus micans* Kugelan | [**►M1**](http://publications.europa.eu/resource/celex/32002L0029) Grécia, Irlanda, Reino Unido [Escócia, Irlanda do Norte, Jersey, Inglaterra: os seguintes «counties», «districts» e «unitary authorities»: Barnsley, Bath and North East Somerset, Bedfordshire, Bournemouth, Bracknell Forest, Bradford, Bristol, Brighton and Hove, Buckinghamshire, Calderdale, Cambridgeshire, Cornwall, Cumbria, Darlington, Devon, Doncaster, Dorset, Durham, East Riding of Yorkshire, East Sussex, Essex, Gateshead, Greater London, Hampshire, Hartlepool, Hertfordshire, Kent, Kingston Upon Hull, Kirklees, Leeds, Leicester City, Lincolnshire, Luton, Medway Council, Middlesbrough, Milton Keynes, Newbury, Newcastle Upon Tyne, Norfolk, Northamptonshire, Northumberland, North Lincolnshire, North East Lincolnshire, North Tyneside, North West Somerset, Nottingham City, Nottinghamshire, Oxfordshire, Peterborough, Plymouth, Poole, Portsmouth, Reading, Redcar and Cleveland, Rotherham, Rutland, Sheffield, Slough, Somerset, Southend, Southampton, South Tyneside, Stockton-on-Tees, Suffolk, Sunderland, Surrey, Swindon, Thurrock, Torbay, Wakefield, West Sussex, Windsor and Maidenhead, Wokingham, York, ilha de Man, ilha de Wight, ilhas de Scilly e as seguintes partes de «counties», «districts» e «unitary authorities»: Derby City: a parte da «unitary authority» a norte da fronteira norte da estrada A52(T) e a parte da «unitary authority» a norte da fronteira norte da estrada A6(T); Derbyshire: a parte do «county» a norte da fronteira norte da estrada A52(T) e a parte do «county» a norte da fronteira norte da estrada A6(T); Gloucestershire: a parte do «county» a leste da fronteira leste da Fosse Way Roman road; Leicestershire: a parte do «county» a leste da fronteira leste da Fosse Way Roman road, juntamente com a parte do «county» a leste da fronteira leste da estrada B4114 e a parte do «county» a leste da fronteira leste da auto-estrada M1; North Yorkshire: todo o «county», excepto o «district» de Craven; South Gloucestershire: a parte da «unitary authority» a sul da fronteira sul da auto-estrada M4; Staffordshire: a parte do «county» a leste da fronteira leste da estrada A52(T) e a parte do «county» a leste da fronteira leste da estrada A523; Warwickshire: a parte do «county» a leste da fronteira leste da Fosse Way Roman road; Wiltshire: a parte do «county» a sul da fronteira sul da auto-estrada M4 e a parte do «county» a leste da fronteira leste da Fosse Way Roman road]**◄** |\n| 5. *Gilpinia hercyniae* (Hartig) | Grécia, Irlanda, Reino Unido (Irlanda do Norte, ilha de Man e Jersey) |\n| [▼A1](http://publications.europa.eu/resource/celex/12003T) |  |\n| 6. *Globodera pallida* (Stone) Behrens | Letónia, Eslovénia, Eslováquia, Finlândia |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0032) |  |\n| 7. *Gonipterus scutellatus* Gyll | [**►M3**](http://publications.europa.eu/resource/celex/32003L0046) Grécia, Portugal (Açores)**◄** |\n| 8. *Ips amitinus* Eichhof | Grécia, França (Córsega), Irlanda, Reino Unido |\n| 9. *Ips cembrae* Heer | Grécia, Irlanda, Reino Unido (Irlanda do Norte e ilha de Man) |\n| 10. *Ips duplicatus* Sahlberg | Grécia, Irlanda, Reino Unido |\n| [▼A1](http://publications.europa.eu/resource/celex/12003T) |  |\n| 11. *Ips sexdentatus* Boerner | Irlanda, Chipre, Reino Unido (Irlanda do Norte e Ilha de Man) |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0032) |  |\n| 12. *Ips typographus* Heer | Irlanda, Reino Unido |\n| [▼A1](http://publications.europa.eu/resource/celex/12003T) |  |\n| 13. *Leptinotarsa decemlineata* Say | Espanha (Ibiza e Minorca) Irlanda, Chipre, Malta, Portugal (Açores e Madeira) Finlândia (distritos de Åland, Håme, Kymi, Pirkanmaa, Satakunta, Turku, Uusimaa), Suécia (condados de Blekroge, Gotlands, Halland, Kalmar and Skåne), Reino Unido |\n| [▼M2](http://publications.europa.eu/resource/celex/32003L0021) |  |\n| 14. *Liriomyza bryoniae* (Kaltenbach) | Irlanda, Reino Unido (Irlanda do Norte) |\n| [▼M1](http://publications.europa.eu/resource/celex/32002L0029) ————— |  |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0032) |  |\n| 15. *Sternochetus mangiferae* Fabricius | Espanha (Granada e Málaga), Portugal (Alentejo, Algarve e Madeira) |\n| 16. *Thaumetopoea pityocampa* (Den. and Schiff.) | Espanha (Ibiza) |\n| b) Bactérias |  |\n| 1. *Curtobacterium flaccumfaciens* pv. *flaccumfaciens* (Hedges) Col. | Grécia, Espanha, Portugal |\n| [▼M5](http://publications.europa.eu/resource/celex/32004D0522) |  |\n| 2. *Erwinia amylovora* (Burr.) Winsl. *et al.* | Espanha, França (Córsega), Irlanda, Itália [Abruzzi; Apúlia; Basilicata; Calábria; Campânia; Emília Romanha: províncias de Forlì-Cesena, Parma, Piacenza e Rimini; Friuli-Venécia Júlia; Lácio; Ligúria; Lombardia; Trentino-Alto Adige: província autónoma de Trento; Marcas; Molise; Piemonte; Sardenha; Sicília; Toscânia; Úmbria; Vale de Aosta; Veneto: excepto, na província de Rovigo, os municípios de Rovigo, Polesella, Villamarzana, Fratta Polesine, San Bellino, Badia Polesine, Trecenta, Ceneselli, Pontecchio Polesine, Arquà Polesine, Costa di Rovigo, Occhiobello, Lendinara, Canda, Ficarolo, Guarda Veneta, Frassinelle Polesine, Villanova del Ghebbo, Fiesso Umbertiano, Castelguglielmo, Bagnolo di Po, Giacciano con Baruchella, Bosaro, Canaro, Lusia, Pincara, Stienta, Gaiba, Salara e, na província de Pádua, os municípios de Castelbaldo, Barbona, Piacenza d’Adige, Vescovana, S. Urbano, Boara Pisani, Masi e, na província de Verona, os municípios de Palù, Roverchiara, Legnago, Castagnaro, Ronco all’Adige, Villa Bartolomea, Oppeano, Terrazzo, Isola Rizza e Angiari), Letónia, Lituânia, Áustria [Burgenland, Caríntia, Baixa Áustria, Tirol (distrito administrativo de Lienz), Estíria, Viena], Portugal, Eslovénia, Eslováquia, Finlândia, Reino Unido, (Irlanda do Norte, ilha de Man e ilhas Anglo-Normandas) |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0032) |  |\n| c) Fungos |  |\n| 1. *Glomerella gossypii* Edgerton | Grécia |\n| 2. *Gremmeniella abietina* (Lag.) Morelet | Irlanda, Reino Unido (Irlanda do Norte) |\n| 3. *Hypoxylon mammatum* (Wahl.) J Miller | Irlanda, Reino Unido (Irlanda do Norte) |\n| d) Vírus e organismos similares |  |\n| [▼M5](http://publications.europa.eu/resource/celex/32004D0522) |  |\n| 1. *Beet necrotic yellow vein virus* | Dinamarca, França (Bretanha), Irlanda, Lituânia, Portugal (Açores), Finlândia, Reino Unido (Irlanda do Norte) |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0032) |  |\n| 2. *Tomato spotted wilt virus* | Finlândia, Suécia |\n| [▼A1](http://publications.europa.eu/resource/celex/12003T) |  |\n| 3. *Citrus tristeza virus* (estirpes europeias) | Grécia, França (Córsega), Itália, Malta, Portugal |\n\n---"
+  },
+  "2e155e59fbc1ff93": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/46c3889b-1ab2-4549-ada0-0eb284af960c.0010.03/DOC_1#src.E0001)) JO L 169 de 10.7.2000, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/46c3889b-1ab2-4549-ada0-0eb284af960c.0010.03/DOC_1#src.E0002)) JO L 305 de 21.10.1992, p. 12.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/46c3889b-1ab2-4549-ada0-0eb284af960c.0010.03/DOC_1#src.E0003)) JO L 103 de 28.4.2000, p. 72."
+  },
+  "e93d00f4ccc6a239": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Maio de 2001\n\nque reconhece zonas protegidas na Comunidade expostas a riscos fitossanitários específicos e que revoga a Directiva 92/76/CEE\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2000/29/CE do Conselho, de 8 de Maio de 2000, relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais e contra a sua propagação no interior da Comunidade ([^1^](http://publications.europa.eu/resource/cellar/dffb402d-9d5f-4fa5-b414-ba20b33d8546.0016.03/DOC_1#E0001)), e, nomeadamente, o n.º 1, primeiro parágrafo da alínea h), do seu artigo 2.º,\n\nTendo em conta os pedidos apresentados pela Dinamarca, Grécia, Espanha, França, Irlanda, Itália, Áustria, Portugal, Finlândia, Suécia e Reino Unido,\n\n(1) Em conformidade com a Directiva 2000/29/CE, podem ser definidas «zonas protegidas» expostas a riscos fitossanitários específicos, que podem beneficiar de protecção especial, em condições compatíveis com o mercado interno. Essas zonas foram definidas pela Directiva 92/76/CEE da Comissão, de 6 de Outubro de 1992, que reconhece zonas protegidas na Comunidade, expostas a riscos fitossanitários específicos ([^2^](http://publications.europa.eu/resource/cellar/dffb402d-9d5f-4fa5-b414-ba20b33d8546.0016.03/DOC_1#E0002)), com a última redacção que lhe foi dada pela Directiva 2000/23/CE ([^3^](http://publications.europa.eu/resource/cellar/dffb402d-9d5f-4fa5-b414-ba20b33d8546.0016.03/DOC_1#E0003)).\n\n(2) Desde então, verificaram-se evoluções significativas no estatuto fitossanitário de algumas dessas zonas inicialmente reconhecidas como zonas protegidas no que diz respeito aos organismos prejudiciais relevantes.\n\n(3) Das informações fornecidas pela Dinamarca, conclui-se que deixou de ser adequado manter a zona protegida reconhecida para a Dinamarca relativamente à *Bemisia tabaci* Genn. (populações europeias) e ao *Tomato spotted wilt virus*.\n\n(4) Certas disposições relativas a medidas de protecção em Portugal contra a *Gonipterus scutellatus* Gyll. e no Reino Unido e na Irlanda contra as *Pissodes* spp. (europeias) devem ser alteradas a fim de ter em conta a actual distribuição desses organismos nos respectivos países.\n\n(5) Das informações fornecidas pelo Reino Unido e pela Suécia, conclui-se que, na sequência de reorganizações governamentais locais, a actual descrição das respectivas zonas protegidas relativamente à *Dendroctonus micans* Kugelan e *Leptinotarsa decemlineata* Say deve ser alterada.\n\n(6) Nos termos da Directiva 92/76/CEE, a Àustria, a Irlanda e as regiões de Apúlia, Emília-Romagnha, Lombardia e Veneto, em Itália, foram reconhecidas provisoriamente como zonas protegidas relativamente à *Erwinia amylovora* (Burr.) Winsl. *et al*. por um período que termina em 31 de Março de 2001.\n\n(7) Das informações fornecidas pela Irlanda, constata-se que o reconhecimento provisório de zonas protegidas na Irlanda relativamente à *Erwinia amylovora* (Burr.) Winsl. *et al*. deve continuar a vigorar por um período limitado.\n\n(8) Das informações fornecidas pela Áustria e pela Itália, conclui-se que algumas zonas da Áustria e da Itália devem deixar de ser reconhecidas como zonas protegidas relativamente à *Erwinia amylovora* (Burr.) Winsl. *et al*., devendo outras zonas ser reconhecidas como zonas protegidas relativamente à *Erwinia amylovora* (Burr.) Winsl. *et al*. por um período suplementar limitado.\n\n(9) Das informações fornecidas pela França, conclui-se que certas zonas desse país devem deixar de ser reconhecidas como zonas protegidas relativamente à *Erwinia amylovora* (Burr.) Winsl. *et al*.\n\n(10) Das informações fornecidas pelo Reino Unido, conclui-se que o reconhecimento provisório da zona protegida no Reino Unido relativamente ao *Beet necrotic yellow vein virus* deve continuar a vigorar por um período limitado.\n\n(11) É, pois, necessário alterar as zonas protegidas designadas em vigor. Por razões de clareza, deve ser adoptada uma nova lista dessas zonas. A Directiva 92/76/CEE deve, pois, ser revogada. Devido aos problemas fitossanitários continuados, a presente directiva deve entrar em vigor e ser transposta logo que possível.\n\n(12) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Fitossanitário Permanente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "94e878ee589dc144": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSão reconhecidas como zonas protegidas, na acepção do n.º 1, primeiro parágrafo da alínea h), do artigo 2.º da Directiva 2000/29/CE, relativamente ao organismo ou organismos prejudiciais indicados para cada zona, as zonas da Comunidade constantes do anexo da presente directiva.\n\nNo caso do ponto 3.1 da alínea a) do anexo, essa zona em Chipre é reconhecida até 31 de Março de 2006.\n\nNo caso do ponto 6 da alínea a) do anexo, essas zonas na Letónia, na Eslovénia e na Eslováquia são reconhecidas até 31 de Março de 2006.\n\nNo caso do ponto 11 da alínea a) do anexo, essa zona em Chipre é reconhecida até 31 de Março de 2006.\n\nNo caso do ponto 13 da alínea a) do anexo, essas zonas em Chipre e Malta são reconhecidas até 31 de Março de 2006.\n\nNo caso do ponto 2 da alínea b) do anexo, relativamente à Irlanda, à Itália (Apúlia, Emília-Romanha: províncias de Forlì-Cesena, Parma, Piacenza e Rimini; Lombardia; Trentino-Alto Adige: província autónoma de Trento; Veneto: excepto, na província de Rovigo, os municípios de Rovigo, Polesella, Villamarzana, Fratta Polesine, San Bellino, Badia Polesine, Trecenta, Ceneselli, Pontecchio Polesine, Arquà Polesine, Costa di Rovigo, Occhiobello, Lendinara, Canda, Ficarolo, Guarda Veneta, Frassinelle Polesine, Villanova del Ghebbo, Fiesso Umbertiano, Castelguglielmo, Bagnolo di Po, Giacciano con Baruchella, Bosaro, Canaro, Lusia, Pincara, Stienta, Gaiba e Salara e, na província de Pádua, os municípios de Castelbaldo, Barbona, Piacenza d’Adige, Vescovana, S. Urbano, Boara Pisani e Masi e, na província de Verona, os municípios de Palù, Roverchiara, Legnago, Castagnaro, Ronco all’Adige, Villa Bartolomea, Oppeano, Terrazzo, Isola Rizza e Angiari), à Letónia, à Lituânia, à Áustria [Burgenland, Caríntia, Baixa Áustria, Tirol (distrito administrativo de Lienz), Estíria, Viena], à Eslovénia e à Eslováquia, essas zonas são reconhecidas até 31 de Março de 2006.\n\nNo caso do ponto 1 da alínea d) do anexo, essa zona na Lituânia é reconhecida até 31 de Março de 2006.\n\nNo caso do ponto 3 da alínea d) do anexo, essa zona em Malta é reconhecida até 31 de Março de 2006.\n\nNo caso do ponto 2 da alínea b) do anexo, essa zona na Estónia é reconhecida até 31 de Março de 2007."
+  },
+  "c8b190a06bf7ee08": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n| Organismos prejudiciais | Zonas protegidas: território de |\n| --- | --- |\n| a) Insectos, ácaros e nemátodos, em qualquer fase de desenvolvimento |  |\n| 1. *Anthonomus grandis* (Boh.) | Grécia, Espanha (Andaluzia, Catalunha, Estremadura, Múrcia, Valência) |\n| 2. *Bemisia tabaci* Genn. (populações europeias) | Irlanda, Portugal (Alentejo, Açores, Beira Interior, Beira Litoral, Entre Douro e Minho, Madeira, Ribatejo e Oeste e Trás-os-Montes), Finlândia, Suécia, Reino Unido |\n| 3. *Cephalcia lariciphila* (Klug.) | Irlanda, Reino Unido (Irlanda do Norte, ilha de Man e Jersey) |\n| [▼A1](http://publications.europa.eu/resource/celex/12003T) |  |\n| 3.1. *Daktulosphaira vitifoliae* (Fitch) | Chipre |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0032) |  |\n| 4. *Dendroctonus micans* Kugelan | [**►M6**](http://publications.europa.eu/resource/celex/32005L0018) Grécia, Irlanda, Reino Unido (Irlanda do Norte, Ilha de Man e Jersey)**◄** |\n| 5. *Gilpinia hercyniae* (Hartig) | Grécia, Irlanda, Reino Unido (Irlanda do Norte, ilha de Man e Jersey) |\n| [▼A1](http://publications.europa.eu/resource/celex/12003T) |  |\n| 6. *Globodera pallida* (Stone) Behrens | Letónia, Eslovénia, Eslováquia, Finlândia |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0032) |  |\n| 7. *Gonipterus scutellatus* Gyll | [**►M3**](http://publications.europa.eu/resource/celex/32003L0046) Grécia, Portugal (Açores)**◄** |\n| 8. *Ips amitinus* Eichhof | Grécia, França (Córsega), Irlanda, Reino Unido |\n| 9. *Ips cembrae* Heer | Grécia, Irlanda, Reino Unido (Irlanda do Norte e ilha de Man) |\n| 10. *Ips duplicatus* Sahlberg | Grécia, Irlanda, Reino Unido |\n| [▼A1](http://publications.europa.eu/resource/celex/12003T) |  |\n| 11. *Ips sexdentatus* Boerner | Irlanda, Chipre, Reino Unido (Irlanda do Norte e Ilha de Man) |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0032) |  |\n| 12. *Ips typographus* Heer | Irlanda, Reino Unido |\n| [▼A1](http://publications.europa.eu/resource/celex/12003T) |  |\n| 13. *Leptinotarsa decemlineata* Say | Espanha (Ibiza e Minorca) Irlanda, Chipre, Malta, Portugal (Açores e Madeira) Finlândia (distritos de Åland, Håme, Kymi, Pirkanmaa, Satakunta, Turku, Uusimaa), Suécia (condados de [**►M6**](http://publications.europa.eu/resource/celex/32005L0018) Blekinge, Gotland**◄**, Halland, Kalmar and Skåne), Reino Unido |\n| [▼M2](http://publications.europa.eu/resource/celex/32003L0021) |  |\n| 14. *Liriomyza bryoniae* (Kaltenbach) | Irlanda, Reino Unido (Irlanda do Norte) |\n| [▼M1](http://publications.europa.eu/resource/celex/32002L0029) ————— |  |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0032) |  |\n| 15. *Sternochetus mangiferae* Fabricius | Espanha (Granada e Málaga), Portugal (Alentejo, Algarve e Madeira) |\n| 16. *Thaumetopoea pityocampa* (Den. and Schiff.) | Espanha (Ibiza) |\n| b) Bactérias |  |\n| 1. *Curtobacterium flaccumfaciens* pv. *flaccumfaciens* (Hedges) Col. | Grécia, Espanha, Portugal |\n| [▼M5](http://publications.europa.eu/resource/celex/32004D0522) |  |\n| 2. *Erwinia amylovora* (Burr.) Winsl. *et al.* | Espanha, [**►M6**](http://publications.europa.eu/resource/celex/32005L0018) Estónia, **◄**França (Córsega), Irlanda, Itália [Abruzzi; Apúlia; Basilicata; Calábria; Campânia; Emília Romanha: províncias de Forlì-Cesena, Parma, Piacenza e Rimini; Friuli-Venécia Júlia; Lácio; Ligúria; Lombardia; Trentino-Alto Adige: província autónoma de Trento; Marcas; Molise; Piemonte; Sardenha; Sicília; Toscânia; Úmbria; Vale de Aosta; Veneto: excepto, na província de Rovigo, os municípios de Rovigo, Polesella, Villamarzana, Fratta Polesine, San Bellino, Badia Polesine, Trecenta, Ceneselli, Pontecchio Polesine, Arquà Polesine, Costa di Rovigo, Occhiobello, Lendinara, Canda, Ficarolo, Guarda Veneta, Frassinelle Polesine, Villanova del Ghebbo, Fiesso Umbertiano, Castelguglielmo, Bagnolo di Po, Giacciano con Baruchella, Bosaro, Canaro, Lusia, Pincara, Stienta, Gaiba, Salara e, na província de Pádua, os municípios de Castelbaldo, Barbona, Piacenza d’Adige, Vescovana, S. Urbano, Boara Pisani, Masi e, na província de Verona, os municípios de Palù, Roverchiara, Legnago, Castagnaro, Ronco all’Adige, Villa Bartolomea, Oppeano, Terrazzo, Isola Rizza e Angiari), Letónia, Lituânia, Áustria [Burgenland, Caríntia, Baixa Áustria, Tirol (distrito administrativo de Lienz), Estíria, Viena], Portugal, Eslovénia, Eslováquia, Finlândia, Reino Unido, (Irlanda do Norte, ilha de Man e ilhas Anglo-Normandas) |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0032) |  |\n| c) Fungos |  |\n| [▼M6](http://publications.europa.eu/resource/celex/32005L0018) |  |\n| 01. *Cryphonectria parasitica* (Murrill) Barr | República Checa, Dinamarca, Grécia (Creta e Lesbos), Irlanda, Suécia e Reino Unido (excepto Ilha de Man) |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0032) |  |\n| 1. *Glomerella gossypii* Edgerton | Grécia |\n| 2. *Gremmeniella abietina* (Lag.) Morelet | Irlanda, Reino Unido (Irlanda do Norte) |\n| 3. *Hypoxylon mammatum* (Wahl.) J Miller | Irlanda, Reino Unido (Irlanda do Norte) |\n| d) Vírus e organismos similares |  |\n| [▼M5](http://publications.europa.eu/resource/celex/32004D0522) |  |\n| 1. *Beet necrotic yellow vein virus* | [**►M6**](http://publications.europa.eu/resource/celex/32005L0018) Dinamarca, **◄**França (Bretanha), Irlanda, Lituânia, Portugal (Açores), Finlândia, Reino Unido (Irlanda do Norte) |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0032) |  |\n| 2. *Tomato spotted wilt virus* | Finlândia, Suécia |\n| [▼A1](http://publications.europa.eu/resource/celex/12003T) |  |\n| 3. *Citrus tristeza virus* (estirpes europeias) | Grécia, França (Córsega), [**►M6**](http://publications.europa.eu/resource/celex/32005L0018) Itália, **◄**Malta, Portugal |\n\n---"
+  },
+  "dc516aa466df2dd2": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/dffb402d-9d5f-4fa5-b414-ba20b33d8546.0016.03/DOC_1#src.E0001)) JO L 169 de 10.7.2000, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/dffb402d-9d5f-4fa5-b414-ba20b33d8546.0016.03/DOC_1#src.E0002)) JO L 305 de 21.10.1992, p. 12.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/dffb402d-9d5f-4fa5-b414-ba20b33d8546.0016.03/DOC_1#src.E0003)) JO L 103 de 28.4.2000, p. 72."
+  },
+  "061e409841a141ae": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Maio de 2001\n\nque reconhece zonas protegidas na Comunidade expostas a riscos fitossanitários específicos e que revoga a Directiva 92/76/CEE\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2000/29/CE do Conselho, de 8 de Maio de 2000, relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais e contra a sua propagação no interior da Comunidade ([^1^](http://publications.europa.eu/resource/cellar/ceac9f95-d5ad-4676-a3f1-5f57c20831a8.0016.03/DOC_1#E0001)), e, nomeadamente, o n.º 1, primeiro parágrafo da alínea h), do seu artigo 2.º,\n\nTendo em conta os pedidos apresentados pela Dinamarca, Grécia, Espanha, França, Irlanda, Itália, Áustria, Portugal, Finlândia, Suécia e Reino Unido,\n\n(1) Em conformidade com a Directiva 2000/29/CE, podem ser definidas «zonas protegidas» expostas a riscos fitossanitários específicos, que podem beneficiar de protecção especial, em condições compatíveis com o mercado interno. Essas zonas foram definidas pela Directiva 92/76/CEE da Comissão, de 6 de Outubro de 1992, que reconhece zonas protegidas na Comunidade, expostas a riscos fitossanitários específicos ([^2^](http://publications.europa.eu/resource/cellar/ceac9f95-d5ad-4676-a3f1-5f57c20831a8.0016.03/DOC_1#E0002)), com a última redacção que lhe foi dada pela Directiva 2000/23/CE ([^3^](http://publications.europa.eu/resource/cellar/ceac9f95-d5ad-4676-a3f1-5f57c20831a8.0016.03/DOC_1#E0003)).\n\n(2) Desde então, verificaram-se evoluções significativas no estatuto fitossanitário de algumas dessas zonas inicialmente reconhecidas como zonas protegidas no que diz respeito aos organismos prejudiciais relevantes.\n\n(3) Das informações fornecidas pela Dinamarca, conclui-se que deixou de ser adequado manter a zona protegida reconhecida para a Dinamarca relativamente à *Bemisia tabaci* Genn. (populações europeias) e ao *Tomato spotted wilt virus*.\n\n(4) Certas disposições relativas a medidas de protecção em Portugal contra a *Gonipterus scutellatus* Gyll. e no Reino Unido e na Irlanda contra as *Pissodes* spp. (europeias) devem ser alteradas a fim de ter em conta a actual distribuição desses organismos nos respectivos países.\n\n(5) Das informações fornecidas pelo Reino Unido e pela Suécia, conclui-se que, na sequência de reorganizações governamentais locais, a actual descrição das respectivas zonas protegidas relativamente à *Dendroctonus micans* Kugelan e *Leptinotarsa decemlineata* Say deve ser alterada.\n\n(6) Nos termos da Directiva 92/76/CEE, a Àustria, a Irlanda e as regiões de Apúlia, Emília-Romagnha, Lombardia e Veneto, em Itália, foram reconhecidas provisoriamente como zonas protegidas relativamente à *Erwinia amylovora* (Burr.) Winsl. *et al*. por um período que termina em 31 de Março de 2001.\n\n(7) Das informações fornecidas pela Irlanda, constata-se que o reconhecimento provisório de zonas protegidas na Irlanda relativamente à *Erwinia amylovora* (Burr.) Winsl. *et al*. deve continuar a vigorar por um período limitado.\n\n(8) Das informações fornecidas pela Áustria e pela Itália, conclui-se que algumas zonas da Áustria e da Itália devem deixar de ser reconhecidas como zonas protegidas relativamente à *Erwinia amylovora* (Burr.) Winsl. *et al*., devendo outras zonas ser reconhecidas como zonas protegidas relativamente à *Erwinia amylovora* (Burr.) Winsl. *et al*. por um período suplementar limitado.\n\n(9) Das informações fornecidas pela França, conclui-se que certas zonas desse país devem deixar de ser reconhecidas como zonas protegidas relativamente à *Erwinia amylovora* (Burr.) Winsl. *et al*.\n\n(10) Das informações fornecidas pelo Reino Unido, conclui-se que o reconhecimento provisório da zona protegida no Reino Unido relativamente ao *Beet necrotic yellow vein virus* deve continuar a vigorar por um período limitado.\n\n(11) É, pois, necessário alterar as zonas protegidas designadas em vigor. Por razões de clareza, deve ser adoptada uma nova lista dessas zonas. A Directiva 92/76/CEE deve, pois, ser revogada. Devido aos problemas fitossanitários continuados, a presente directiva deve entrar em vigor e ser transposta logo que possível.\n\n(12) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Fitossanitário Permanente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "acde973e63f0dda0": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSão reconhecidas como zonas protegidas, na acepção do primeiro parágrafo da alínea h) do n.º 1 do artigo 2.º da Directiva 2000/29/CE, relativamente ao organismo ou organismos prejudiciais indicados para cada zona, as zonas da Comunidade constantes do anexo da presente directiva."
+  },
+  "1508ff0eb42e6448": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n| Organismos prejudiciais | Zonas protegidas: território de |\n| --- | --- |\n| a) Insectos, ácaros e nemátodos, em qualquer fase de desenvolvimento |  |\n| 1. *Anthonomus grandis* (Boh.) | Grécia, Espanha (Andaluzia, Catalunha, Estremadura, Múrcia, Valência) |\n| 2. *Bemisia tabaci* Genn. (populações europeias) | Irlanda, Portugal ([**►M7**](http://publications.europa.eu/resource/celex/32006L0036) Açores, Beira Interior, Beira Litoral, Entre Douro e Minho, Madeira, Ribatejo e Oeste (municípios de Alcobaça, Alenquer, Bombarral, Cadaval, Caldas da Rainha, Lourinhã, Nazaré, Óbidos, Peniche e Torres Vedras) e Trás-os-Montes**◄**), Finlândia, Suécia, Reino Unido |\n| 3. *Cephalcia lariciphila* (Klug.) | Irlanda, Reino Unido (Irlanda do Norte, ilha de Man e Jersey) |\n| [▼A1](http://publications.europa.eu/resource/celex/12003T) |  |\n| 3.1. *Daktulosphaira vitifoliae* (Fitch) | Chipre[**►M7**](http://publications.europa.eu/resource/celex/32006L0036) (até 31 de Março de 2008)**◄** |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0032) |  |\n| 4. *Dendroctonus micans* Kugelan | [**►M6**](http://publications.europa.eu/resource/celex/32005L0018) Grécia, Irlanda, Reino Unido (Irlanda do Norte, Ilha de Man e Jersey)**◄** |\n| 5. *Gilpinia hercyniae* (Hartig) | Grécia, Irlanda, Reino Unido (Irlanda do Norte, ilha de Man e Jersey) |\n| [▼A1](http://publications.europa.eu/resource/celex/12003T) |  |\n| 6. *Globodera pallida* (Stone) Behrens | Letónia, Eslovénia, Eslováquia, Finlândia |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0032) |  |\n| 7. *Gonipterus scutellatus* Gyll | [**►M3**](http://publications.europa.eu/resource/celex/32003L0046) Grécia, Portugal (Açores)**◄** |\n| 8. *Ips amitinus* Eichhof | Grécia, França (Córsega), Irlanda, Reino Unido |\n| 9. *Ips cembrae* Heer | Grécia, Irlanda, Reino Unido (Irlanda do Norte e ilha de Man) |\n| 10. *Ips duplicatus* Sahlberg | Grécia, Irlanda, Reino Unido |\n| [▼A1](http://publications.europa.eu/resource/celex/12003T) |  |\n| 11. *Ips sexdentatus* Boerner | Irlanda, Chipre[**►M7**](http://publications.europa.eu/resource/celex/32006L0036) (até 31 de Março de 2008)**◄**, Reino Unido (Irlanda do Norte e Ilha de Man) |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0032) |  |\n| 12. *Ips typographus* Heer | Irlanda, Reino Unido |\n| [▼A1](http://publications.europa.eu/resource/celex/12003T) |  |\n| 13. *Leptinotarsa decemlineata* Say | Espanha (Ibiza e Minorca) Irlanda, Chipre[**►M7**](http://publications.europa.eu/resource/celex/32006L0036) (até 31 de Março de 2008)**◄**, Malta, Portugal (Açores e Madeira) Finlândia (distritos de Åland, Håme, Kymi, Pirkanmaa, Satakunta, Turku, Uusimaa), Suécia (condados de [**►M6**](http://publications.europa.eu/resource/celex/32005L0018) Blekinge, Gotland**◄**, Halland, Kalmar and Skåne), Reino Unido |\n| [▼M2](http://publications.europa.eu/resource/celex/32003L0021) |  |\n| 14. *Liriomyza bryoniae* (Kaltenbach) | Irlanda, Reino Unido (Irlanda do Norte) |\n| [▼M1](http://publications.europa.eu/resource/celex/32002L0029) ————— |  |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0032) |  |\n| 15. *Sternochetus mangiferae* Fabricius | Espanha (Granada e Málaga), Portugal (Alentejo, Algarve e Madeira) |\n| 16. *Thaumetopoea pityocampa* (Den. and Schiff.) | Espanha (Ibiza) |\n| b) Bactérias |  |\n| 1. *Curtobacterium flaccumfaciens* pv. *flaccumfaciens* (Hedges) Col. | Grécia, Espanha, Portugal |\n| [▼M5](http://publications.europa.eu/resource/celex/32004D0522) |  |\n| 2. *Erwinia amylovora* (Burr.) Winsl. *et al.* | [**►M7**](http://publications.europa.eu/resource/celex/32006L0036) — Espanha, Estónia, França (Córsega), Itália (Abruzo; Basilicata; Calábria; Campânia; Friul-Venécia Júlia; Lácio; Ligúria; Marcas; Molise; Piemonte; Sardenha; Sicília; Toscânia; Úmbria; Vale de Aosta), Letónia, Portugal, Finlândia, Reino Unido (Irlanda do Norte, Ilha de Man e Ilhas Anglo-Normandas), — e, até 31 de Março de 2008, a Irlanda, Itália [Apúlia, Emília-Romanha: províncias de Forlí-Cesena (excluindo a área provincial situada na parte norte da estrada estatal n.º 9 — Via Emilia), Parma, Piacenza, Rimini (excluindo a área provincial situada na parte norte da estrada estatal n.º 9 — Via Emilia), Lombardia, Veneto (excepto, na província de Rovigo, os municípios de Rovigo, Polesella, Villamarzana, Fratta Polesine, San Bellino, Badia Polesine, Trecenta, Ceneselli, Pontecchio Polesine, Arquà Polesine, Costa di Rovigo, Occhiobello, Lendinara, Canda, Ficarolo, Guarda Veneta, Frassinelle Polesine, Villanova del Ghebbo, Fiesso Umbertiano, Castelguglielmo, Bagnolo di Po, Giacciano con Baruchella, Bosaro, Canaro, Lusia, Pincara, Stienta, Gaiba, Salara e, na província de Padova, os municípios de Castelbaldo, Barbona, Piacenza d’Adige, Vescovana, S. Urbano, Boara Pisani, Masi e, na província de Verona, os municípios de Palù, Roverchiara, Legnago, Castagnaro, Ronco all’Adige, Villa Bartolomea, Oppeano, Terrazzo, Isola Rizza, Angiari)], Lituânia, Áustria [Burgenland, Carinthia, Niederösterreich, Tirol (distrito administrativo de Lienz), Styria, Viena], Eslovénia (excepto as regiões de Gorenjska e Maribor), Eslováquia [excepto os municípios de Blahová, Horné Mýto e Okoč (condado de Dunajská Streda), Hronovce e Hronské Kľačany (condado de Levice), Veľké Ripňany (condado de Topoľčany), Málinec (condado de Poltár), Hrhov (condado de Rožňava), Kazimír, Luhyňa, Malý Horeš, Svätuše e Zatín (condado de Trebišov)]. **◄** |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0032) |  |\n| c) Fungos |  |\n| [▼M6](http://publications.europa.eu/resource/celex/32005L0018) |  |\n| 01. *Cryphonectria parasitica* (Murrill) Barr | República Checa, Dinamarca, Grécia (Creta e Lesbos), Irlanda, Suécia e Reino Unido (excepto Ilha de Man) |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0032) |  |\n| 1. *Glomerella gossypii* Edgerton | Grécia |\n| 2. *Gremmeniella abietina* (Lag.) Morelet | Irlanda, Reino Unido (Irlanda do Norte) |\n| 3. *Hypoxylon mammatum* (Wahl.) J Miller | Irlanda, Reino Unido (Irlanda do Norte) |\n| d) Vírus e organismos similares |  |\n| [▼M5](http://publications.europa.eu/resource/celex/32004D0522) |  |\n| 1. *Beet necrotic yellow vein virus* | [**►M6**](http://publications.europa.eu/resource/celex/32005L0018) Dinamarca, **◄**França (Bretanha), Irlanda, [**►M7**](http://publications.europa.eu/resource/celex/32006L0036) Lituânia,**◄** Portugal (Açores), Finlândia, Reino Unido (Irlanda do Norte) |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0032) |  |\n| 2. *Tomato spotted wilt virus* | Finlândia, Suécia |\n| [▼A1](http://publications.europa.eu/resource/celex/12003T) |  |\n| 3. *Citrus tristeza virus* (estirpes europeias) | Grécia, França (Córsega), [**►M6**](http://publications.europa.eu/resource/celex/32005L0018) Itália, **◄**Malta[**►M7**](http://publications.europa.eu/resource/celex/32006L0036) (até 31 de Março de 2008)**◄**, Portugal |\n\n---"
+  },
+  "9e34fb1be70cc6ed": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ceac9f95-d5ad-4676-a3f1-5f57c20831a8.0016.03/DOC_1#src.E0001)) JO L 169 de 10.7.2000, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ceac9f95-d5ad-4676-a3f1-5f57c20831a8.0016.03/DOC_1#src.E0002)) JO L 305 de 21.10.1992, p. 12.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/ceac9f95-d5ad-4676-a3f1-5f57c20831a8.0016.03/DOC_1#src.E0003)) JO L 103 de 28.4.2000, p. 72."
+  },
+  "ffe996cbf67da282": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Maio de 2001\n\nque reconhece zonas protegidas na Comunidade expostas a riscos fitossanitários específicos e que revoga a Directiva 92/76/CEE\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2000/29/CE do Conselho, de 8 de Maio de 2000, relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais e contra a sua propagação no interior da Comunidade ([^1^](http://publications.europa.eu/resource/cellar/c4038905-39e0-47e2-bb6b-2da131366a24.0018.03/DOC_1#E0001)), e, nomeadamente, o n.º 1, primeiro parágrafo da alínea h), do seu artigo 2.º,\n\nTendo em conta os pedidos apresentados pela Dinamarca, Grécia, Espanha, França, Irlanda, Itália, Áustria, Portugal, Finlândia, Suécia e Reino Unido,\n\n(1) Em conformidade com a Directiva 2000/29/CE, podem ser definidas «zonas protegidas» expostas a riscos fitossanitários específicos, que podem beneficiar de protecção especial, em condições compatíveis com o mercado interno. Essas zonas foram definidas pela Directiva 92/76/CEE da Comissão, de 6 de Outubro de 1992, que reconhece zonas protegidas na Comunidade, expostas a riscos fitossanitários específicos ([^2^](http://publications.europa.eu/resource/cellar/c4038905-39e0-47e2-bb6b-2da131366a24.0018.03/DOC_1#E0002)), com a última redacção que lhe foi dada pela Directiva 2000/23/CE ([^3^](http://publications.europa.eu/resource/cellar/c4038905-39e0-47e2-bb6b-2da131366a24.0018.03/DOC_1#E0003)).\n\n(2) Desde então, verificaram-se evoluções significativas no estatuto fitossanitário de algumas dessas zonas inicialmente reconhecidas como zonas protegidas no que diz respeito aos organismos prejudiciais relevantes.\n\n(3) Das informações fornecidas pela Dinamarca, conclui-se que deixou de ser adequado manter a zona protegida reconhecida para a Dinamarca relativamente à *Bemisia tabaci* Genn. (populações europeias) e ao *Tomato spotted wilt virus*.\n\n(4) Certas disposições relativas a medidas de protecção em Portugal contra a *Gonipterus scutellatus* Gyll. e no Reino Unido e na Irlanda contra as *Pissodes* spp. (europeias) devem ser alteradas a fim de ter em conta a actual distribuição desses organismos nos respectivos países.\n\n(5) Das informações fornecidas pelo Reino Unido e pela Suécia, conclui-se que, na sequência de reorganizações governamentais locais, a actual descrição das respectivas zonas protegidas relativamente à *Dendroctonus micans* Kugelan e *Leptinotarsa decemlineata* Say deve ser alterada.\n\n(6) Nos termos da Directiva 92/76/CEE, a Àustria, a Irlanda e as regiões de Apúlia, Emília-Romagnha, Lombardia e Veneto, em Itália, foram reconhecidas provisoriamente como zonas protegidas relativamente à *Erwinia amylovora* (Burr.) Winsl. *et al*. por um período que termina em 31 de Março de 2001.\n\n(7) Das informações fornecidas pela Irlanda, constata-se que o reconhecimento provisório de zonas protegidas na Irlanda relativamente à *Erwinia amylovora* (Burr.) Winsl. *et al*. deve continuar a vigorar por um período limitado.\n\n(8) Das informações fornecidas pela Áustria e pela Itália, conclui-se que algumas zonas da Áustria e da Itália devem deixar de ser reconhecidas como zonas protegidas relativamente à *Erwinia amylovora* (Burr.) Winsl. *et al*., devendo outras zonas ser reconhecidas como zonas protegidas relativamente à *Erwinia amylovora* (Burr.) Winsl. *et al*. por um período suplementar limitado.\n\n(9) Das informações fornecidas pela França, conclui-se que certas zonas desse país devem deixar de ser reconhecidas como zonas protegidas relativamente à *Erwinia amylovora* (Burr.) Winsl. *et al*.\n\n(10) Das informações fornecidas pelo Reino Unido, conclui-se que o reconhecimento provisório da zona protegida no Reino Unido relativamente ao *Beet necrotic yellow vein virus* deve continuar a vigorar por um período limitado.\n\n(11) É, pois, necessário alterar as zonas protegidas designadas em vigor. Por razões de clareza, deve ser adoptada uma nova lista dessas zonas. A Directiva 92/76/CEE deve, pois, ser revogada. Devido aos problemas fitossanitários continuados, a presente directiva deve entrar em vigor e ser transposta logo que possível.\n\n(12) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Fitossanitário Permanente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "fafe84fccd8f990b": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n| Organismos prejudiciais | Zonas protegidas: território de |\n| --- | --- |\n| a) Insectos, ácaros e nemátodos, em qualquer fase de desenvolvimento |  |\n| 1. *Anthonomus grandis* (Boh.) | Grécia, Espanha (Andaluzia, Catalunha, Estremadura, Múrcia, Valência) |\n| 2. *Bemisia tabaci* Genn. (populações europeias) | Irlanda, Portugal ([**►M7**](http://publications.europa.eu/resource/celex/32006L0036) Açores, Beira Interior, Beira Litoral, Entre Douro e Minho, Madeira, Ribatejo e Oeste (municípios de Alcobaça, Alenquer, Bombarral, Cadaval, Caldas da Rainha, Lourinhã, Nazaré, Óbidos, Peniche e Torres Vedras) e Trás-os-Montes**◄**), Finlândia, Suécia, Reino Unido |\n| 3. *Cephalcia lariciphila* (Klug.) | Irlanda, Reino Unido (Irlanda do Norte, ilha de Man e Jersey) |\n| [▼A1](http://publications.europa.eu/resource/celex/12003T) |  |\n| 3.1. *Daktulosphaira vitifoliae* (Fitch) | Chipre[**►M7**](http://publications.europa.eu/resource/celex/32006L0036) (até 31 de Março de 2008)**◄** |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0032) |  |\n| 4. *Dendroctonus micans* Kugelan | [**►M6**](http://publications.europa.eu/resource/celex/32005L0018) Grécia, Irlanda, Reino Unido (Irlanda do Norte, Ilha de Man e Jersey)**◄** |\n| 5. *Gilpinia hercyniae* (Hartig) | Grécia, Irlanda, Reino Unido (Irlanda do Norte, ilha de Man e Jersey) |\n| [▼A1](http://publications.europa.eu/resource/celex/12003T) |  |\n| 6. *Globodera pallida* (Stone) Behrens | Letónia, Eslovénia, Eslováquia, Finlândia |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0032) |  |\n| 7. *Gonipterus scutellatus* Gyll | [**►M3**](http://publications.europa.eu/resource/celex/32003L0046) Grécia, Portugal (Açores)**◄** |\n| 8. *Ips amitinus* Eichhof | Grécia, França (Córsega), Irlanda, Reino Unido |\n| 9. *Ips cembrae* Heer | Grécia, Irlanda, Reino Unido (Irlanda do Norte e ilha de Man) |\n| 10. *Ips duplicatus* Sahlberg | Grécia, Irlanda, Reino Unido |\n| [▼A1](http://publications.europa.eu/resource/celex/12003T) |  |\n| 11. *Ips sexdentatus* Boerner | Irlanda, Chipre[**►M7**](http://publications.europa.eu/resource/celex/32006L0036) (até 31 de Março de 2008)**◄**, Reino Unido (Irlanda do Norte e Ilha de Man) |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0032) |  |\n| 12. *Ips typographus* Heer | Irlanda, Reino Unido |\n| [▼A1](http://publications.europa.eu/resource/celex/12003T) |  |\n| 13. *Leptinotarsa decemlineata* Say | Espanha (Ibiza e Minorca) Irlanda, Chipre[**►M7**](http://publications.europa.eu/resource/celex/32006L0036) (até 31 de Março de 2008)**◄**, Malta, Portugal (Açores e Madeira) Finlândia (distritos de Åland, Håme, Kymi, Pirkanmaa, Satakunta, Turku, Uusimaa), Suécia (condados de [**►M6**](http://publications.europa.eu/resource/celex/32005L0018) Blekinge, Gotland**◄**, Halland, Kalmar and Skåne), Reino Unido |\n| [▼M2](http://publications.europa.eu/resource/celex/32003L0021) |  |\n| 14. *Liriomyza bryoniae* (Kaltenbach) | Irlanda, Reino Unido (Irlanda do Norte) |\n| [▼M1](http://publications.europa.eu/resource/celex/32002L0029) ————— |  |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0032) |  |\n| 15. *Sternochetus mangiferae* Fabricius | Espanha (Granada e Málaga), Portugal (Alentejo, Algarve e Madeira) |\n| 16. *Thaumetopoea pityocampa* (Den. and Schiff.) | Espanha (Ibiza) |\n| b) Bactérias |  |\n| 1. *Curtobacterium flaccumfaciens* pv. *flaccumfaciens* (Hedges) Col. | Grécia, Espanha, Portugal |\n| [▼M5](http://publications.europa.eu/resource/celex/32004D0522) |  |\n| 2. *Erwinia amylovora* (Burr.) Winsl. *et al.* | [**►M7**](http://publications.europa.eu/resource/celex/32006L0036) — Espanha, Estónia, França (Córsega), Itália (Abruzo; Basilicata; Calábria; Campânia; Friul-Venécia Júlia; Lácio; Ligúria; Marcas; Molise; Piemonte; Sardenha; Sicília; Toscânia; Úmbria; Vale de Aosta), Letónia, Portugal, Finlândia, Reino Unido (Irlanda do Norte, Ilha de Man e Ilhas Anglo-Normandas), — e, até 31 de Março de 2008, a Irlanda, Itália [Apúlia, Emília-Romanha: províncias de Forlí-Cesena (excluindo a área provincial situada na parte norte da estrada estatal n.º 9 — Via Emilia), Parma, Piacenza, Rimini (excluindo a área provincial situada na parte norte da estrada estatal n.º 9 — Via Emilia), Lombardia, Veneto (excepto, na província de Rovigo, os municípios de Rovigo, Polesella, Villamarzana, Fratta Polesine, San Bellino, Badia Polesine, Trecenta, Ceneselli, Pontecchio Polesine, Arquà Polesine, Costa di Rovigo, Occhiobello, Lendinara, Canda, Ficarolo, Guarda Veneta, Frassinelle Polesine, Villanova del Ghebbo, Fiesso Umbertiano, Castelguglielmo, Bagnolo di Po, Giacciano con Baruchella, Bosaro, Canaro, Lusia, Pincara, Stienta, Gaiba, Salara e, na província de Padova, os municípios de Castelbaldo, Barbona, Piacenza d’Adige, Vescovana, S. Urbano, Boara Pisani, Masi e, na província de Verona, os municípios de Palù, Roverchiara, Legnago, Castagnaro, Ronco all’Adige, Villa Bartolomea, Oppeano, Terrazzo, Isola Rizza, Angiari)], Lituânia, Áustria [Burgenland, Carinthia, Niederösterreich, Tirol (distrito administrativo de Lienz), Styria, Viena], Eslovénia (excepto as regiões de Gorenjska e Maribor), Eslováquia [excepto os municípios de Blahová, Horné Mýto e Okoč (condado de Dunajská Streda), Hronovce e Hronské Kľačany (condado de Levice), Veľké Ripňany (condado de Topoľčany), Málinec (condado de Poltár), Hrhov (condado de Rožňava), Kazimír, Luhyňa, Malý Horeš, Svätuše e Zatín (condado de Trebišov)]. **◄** |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0032) |  |\n| c) Fungos |  |\n| [▼M6](http://publications.europa.eu/resource/celex/32005L0018) |  |\n| 01. *Cryphonectria parasitica* (Murrill) Barr | República Checa,[**►M8**](http://publications.europa.eu/resource/celex/32007L0040) Dinamarca,**◄** Grécia (Creta e Lesbos), Irlanda, Suécia e Reino Unido (excepto Ilha de Man) |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0032) |  |\n| 1. *Glomerella gossypii* Edgerton | Grécia |\n| 2. *Gremmeniella abietina* (Lag.) Morelet | Irlanda, Reino Unido (Irlanda do Norte) |\n| 3. *Hypoxylon mammatum* (Wahl.) J Miller | Irlanda, Reino Unido (Irlanda do Norte) |\n| d) Vírus e organismos similares |  |\n| [▼M5](http://publications.europa.eu/resource/celex/32004D0522) |  |\n| 1. *Beet necrotic yellow vein virus* | [**►M6**](http://publications.europa.eu/resource/celex/32005L0018) Dinamarca, **◄**França (Bretanha), Irlanda, [**►M7**](http://publications.europa.eu/resource/celex/32006L0036) Lituânia,**◄** Portugal (Açores), Finlândia, Reino Unido (Irlanda do Norte) |\n| [▼B](http://publications.europa.eu/resource/celex/32001L0032) |  |\n| 2. *Tomato spotted wilt virus* | Finlândia, Suécia |\n| [▼A1](http://publications.europa.eu/resource/celex/12003T) |  |\n| 3. *Citrus tristeza virus* (estirpes europeias) | Grécia, França (Córsega), [**►M6**](http://publications.europa.eu/resource/celex/32005L0018) Itália, **◄**Malta[**►M7**](http://publications.europa.eu/resource/celex/32006L0036) (até 31 de Março de 2008)**◄**, Portugal |\n| [▼M8](http://publications.europa.eu/resource/celex/32007L0040) |  |\n| 4. Grapevine flavescence dorée MLO | República Checa (até 31 de Março de 2009), regiões de Champanhe-Ardenas, Lorena e Alsácia em França (até 31 de Março de 2009), região de Basilicata em Itália (até 31 de Março de 2009) |\n\n---"
+  },
+  "bdd079dc31d6e05a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/c4038905-39e0-47e2-bb6b-2da131366a24.0018.03/DOC_1#src.E0001)) JO L 169 de 10.7.2000, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/c4038905-39e0-47e2-bb6b-2da131366a24.0018.03/DOC_1#src.E0002)) JO L 305 de 21.10.1992, p. 12.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/c4038905-39e0-47e2-bb6b-2da131366a24.0018.03/DOC_1#src.E0003)) JO L 103 de 28.4.2000, p. 72."
+  },
+  "51c19564aa99a122": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2001L0032 — PT — 23.07.2008 — 008.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32001L0032) [DIRECTIVA 2001/32/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/32001L0032) [de 8 de Maio de 2001](http://publications.europa.eu/resource/celex/32001L0032) [que reconhece zonas protegidas na Comunidade expostas a riscos fitossanitários específicos e que revoga a Directiva 92/76/CEE](http://publications.europa.eu/resource/celex/32001L0032) (JO L 127, 9.5.2001, p.38)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 690/2008 da Comissão de 4 de Julho de 2008](http://publications.europa.eu/resource/celex/32008R0690) — L 193 — 1 — 22.7.2008"
+  }
+ }
+}

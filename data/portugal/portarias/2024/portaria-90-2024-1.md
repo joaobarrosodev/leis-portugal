@@ -1,0 +1,1794 @@
+---
+schema_version: '1.0'
+id: pt:dre:854635720:por
+title: Portaria n.º 90/2024/1
+short_title: null
+summary: Estabelece os requisitos mínimos relativos ao licenciamento, instalação, organização e funcionamento, recursos humanos
+  e instalações técnicas das unidades com internamento detidas por pessoas coletivas públicas, instituições militares, instituições
+  particulares de solidariedade social e entidades privadas.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Defesa Nacional, Trabalho, Solidariedade e Segurança Social e Saúde
+proposing_entity: null
+official_number: 90/2024/1
+official_date: null
+publication_date: '2024-03-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 50/2024, Série I de 2024-03-11
+  number: '50'
+  series: I
+  supplement: null
+  pages: 78 - 121
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/03/05000/0007800121.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-10-07'
+version_history:
+  file: portaria-90-2024-1.versoes.json
+  count: 3
+  source_lastmod: '2025-04-14'
+  versions:
+  - date: '2024-03-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-04-12'
+    amending: pt:dre:914713268:por
+    amending_title: Portaria n.º 174/2025/1
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 10.º
+    - Altera Artigo 15.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Altera Anexo III
+    - Altera Anexo IV
+    - Altera Anexo V
+    - Altera Anexo VI
+    - Altera Anexo VII
+    - Altera Anexo VIII
+    - Altera Anexo IX
+    - Altera Anexo X
+    - Altera Anexo XIV
+    - Altera Anexo XVI
+  - date: '2025-10-07'
+    amending: pt:dre:938108822:por
+    amending_title: Portaria n.º 327/2025/1
+    changes:
+    - Altera Artigo 7.º
+    - Altera Anexo I
+    - Altera Anexo III
+    - Altera Anexo V
+    - Altera Anexo IX
+    - Altera Anexo XIV
+    - Altera Anexo XVI
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/90/2024/p/cons/20251006/pt/html
+  oj: null
+  dre: '854635720'
+  dre_path: /dr/detalhe/portaria/90-2024-854635720
+  internal: pt:dre:854635720:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720
+  metadata_url: https://data.dre.pt/eli/port/90/2024/p/cons/20251006/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-855132042
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-855132042
+  retrieved_at: '2026-10-22T13:25:09Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-04-14T00:00:00Z'
+integrity:
+  source_sha256: 83b30276e5ee28523ff09e63f477938637b880f482df2615b4fb42ee645c40df
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:25:09Z'
+  notes: 3 versão(ões); histórico completo em portaria-90-2024-1.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Medicina Privada
+- Regulamentação de Atos Legislativos
+- Especificação Técnica
+- Licenciamento
+- Normas de Construção
+- Normas de Segurança
+- Informação do Consumidor
+- Recursos Humanos
+- Regulamento Interno
+- Seguro Obrigatório de Responsabilidade Civil
+- Unidade de Internamento
+- Unidade de Saúde Pública
+relationships:
+- type: amended_by
+  target: pt:dre:914713268:por
+  label: Altera Artigo 2.º; Altera Artigo 10.º; Altera Artigo 15.º; Altera Anexo I; Altera Anexo II; Altera Anexo III; Altera
+    Anexo IV; Altera Anexo V; Altera Anexo VI; Altera Anexo VII; Altera Anexo VIII; Altera Anexo IX; Altera Anexo X; Altera
+    Anexo XIV; Altera Anexo XVI
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/174-2025-914713268
+  date: '2025-04-11'
+- type: amended_by
+  target: pt:dre:938108822:por
+  label: Altera Artigo 7.º; Altera Anexo I; Altera Anexo III; Altera Anexo V; Altera Anexo IX; Altera Anexo XIV; Altera Anexo
+    XVI
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/327-2025-938108822
+  date: '2025-10-06'
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/32/2022/05/09/p/dre
+- type: cites
+  target: pt:dre:500051:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/138/2013/10/09/p/dre
+- type: cites
+  target: pt:dre:56304801:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/127/2014/08/22/p/dre
+article_structure:
+  article_count: 24
+  section_count: 22
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:25:09Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 90/2024/1
+
+Portaria n.º 90/2024/1
+
+de 11 de março
+
+O Decreto-Lei n.º 127/2014, de 22 de agosto, na sua redação atual, estabeleceu o regime jurídico a que ficam sujeitos a abertura, a modificação e o funcionamento dos estabelecimentos prestadores de cuidados de saúde, qualquer que seja a sua denominação, natureza jurídica ou entidade titular da exploração.
+
+O n.º 1 do artigo 2.º do referido diploma legal estabelece que a abertura e funcionamento de um estabelecimento prestador de cuidados de saúde dependem da verificação dos requisitos técnicos de funcionamento aplicáveis a cada uma das tipologias, definidos por portaria do membro do Governo responsável pela área da saúde, sendo a mesma titulada por licença, no caso dos estabelecimentos prestadores de cuidados de saúde detidos por entidades privadas e por declaração de conformidade, no caso de estabelecimentos detidos por pessoa coletiva pública ou que seja abrangida pelo artigo 13.º do Decreto-Lei n.º 138/2013, de 9 de outubro.
+
+No que respeita às unidades de saúde cuja titularidade seja de instituições particulares de solidariedade social (IPSS) ou de instituições militares, o n.º 5 do artigo 2.º do referido decreto-lei determina que as condições de abertura e funcionamento, bem como os termos da declaração de conformidade, são definidos por portaria dos membros do Governo responsáveis pelas áreas da defesa nacional, segurança social e saúde.
+
+Considerando que está em causa a fixação de requisitos técnicos que se prendem, no essencial, com a melhoria da qualidade assistencial e a garantia da segurança do utente, decorrentes de determinações legais do ordenamento jurídico nacional ou de regras da União Europeia, é fundamental a uniformização de critérios, independentemente da titularidade do estabelecimento de saúde em causa.
+
+Face ao exposto, a presente portaria promove a regulamentação do processo de abertura e funcionamento dos estabelecimentos prestadores de cuidados de saúde detidos por pessoas coletivas públicas, instituições militares, IPSS ou entidades privadas, salvaguardando-se as especificidades próprias das unidades de saúde militar, nomeadamente as que são utilizadas em contexto operacional.
+
+Registe-se que o já mencionado Decreto-Lei n.º 127/2014, de 22 de agosto, na redação em vigor, previa um prazo de 120 dias, após a sua entrada em vigor, para a regulamentação, por portaria, das condições de licenciamento das diferentes tipologias de unidades de prestação de cuidados de saúde. Encontrando-se já largamente ultrapassado esse prazo, através do Despacho n.º 14603/2022, de 21 de dezembro, do Ministro da Saúde, foi criado um Grupo de Trabalho agregando as instituições públicas com intervenção no processo, designadamente, a Direção Executiva do Serviço Nacional de Saúde, I. P., a Entidade Reguladora da Saúde, e a Administração Central do Sistema de Saúde, I. P., bem como os prestadores mais relevantes dos setores social e privado. A presente portaria reflete o consenso que foi possível alcançar, com trabalho técnico exaustivo e exigente.
+
+Foram também ouvidos a Ordem dos Médicos, a Ordem dos Enfermeiros, a Ordem dos Engenheiros, a Ordem dos Arquitetos, a Ordem dos Médicos Dentistas, a Ordem dos Biólogos, a Ordem dos Farmacêuticos, a Ordem dos Fisioterapeutas, a Associação Nacional de Centros de Diálise, a Associação
+
+Portuguesa de Medicina Física de Reabilitação, a Associação Portuguesa dos Técnicos de Radiologia, Radioterapia e Medicina Nuclear, a Associação Nacional dos Laboratórios Clínicos, a Sociedade Portuguesa de Medicina Nuclear, o Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P., a Sociedade Portuguesa de Genética Humana, a Sociedade Portuguesa de Radioterapia-Oncologia,a Associação Portuguesa de Radioterapeutas, a Sociedade Portuguesa de Anatomia Patológica e a Associação Portuguesa de Técnicos de Anatomia Patológica.
+
+O protelamento da publicação das portarias que regulamentam o Decreto-Lei n.º 127/2014, de 22 de agosto, na sua redação atual, representará a manutenção da insegurança jurídica que condiciona a intervenção dos diferentes agentes do setor da saúde e conduzirá a um ainda maior adiamento da generalização da implementação das normas de qualidade e segurança de que devem beneficiar todos os destinatários dos cuidados prestados, pelo que se entende que, após o moroso e consensual trabalho realizado, este procedimento tem caráter urgente.
+
+Assim:
+
+Manda o Governo, pela Ministra da Defesa Nacional, pela Ministra do Trabalho, Solidariedade e Segurança Social e pelo Ministro da Saúde, ao abrigo do disposto nos n.<sup>os </sup>1 e ٥ do artigo 2.º do Decreto-Lei n.º 127/2014, de 22 de agosto, na sua redação atual, e dos artigos 15.º, 24.º e ٢5.º, todos do Decreto-Lei n.º 32/2022, de 9 de maio, na sua redação atual, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+A presente portaria estabelece os requisitos mínimos relativos ao licenciamento, instalação, organização e funcionamento, recursos humanos e instalações técnicas das unidades de saúde que disponham de internamento, detidas por pessoas coletivas públicas, instituições militares, instituições particulares de solidariedade social (IPSS) e entidades privadas, salvaguardando-se as especificidades próprias das unidades de saúde militares, designadamente as que são utilizadas em contexto operacional.
+
+###### Artigo 2.º — Definições
+
+1 - Para efeitos da presente portaria, consideram-se unidades de saúde com internamento, as unidades onde existam condições que permitam a permanência de doentes cuja admissão e alta seja superior a 24 horas, associado ou não à existência de bloco operatório, onde se exerçam atos médicos e/ou cirúrgicos.
+
+2 - Os requisitos técnicos da presente portaria são ainda aplicáveis às clínicas e consultórios médicos, centros de enfermagem e às unidades de cirurgia de ambulatório que disponham de unidade com internamento.
+
+3 - Consideram-se clínicas e consultórios médicos, centros de enfermagem e unidades de cirurgia de ambulatório, todos os que enquadrem nas definições estabelecidas nas respetivas portarias.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 174/2025/1 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/174-2025-914713268), em vigor a partir de 2025-04-12
+
+### Capítulo II — Organização e funcionamento
+
+###### Artigo 3.º — Qualidade e segurança
+
+As normas de qualidade e segurança devem ser cumpridas em todas as situações previstas na presente portaria, de acordo com as regras, os códigos científicos e técnicos nacionais e internacionalmente reconhecidos nas áreas abrangidas, competindo à Direção-Geral da Saúde (DGS), ouvidas as respetivas ordens e associações profissionais, públicas ou privadas, propor ao membro do Governo responsável pela área da saúde a sua adoção e assegurando-se a devida publicidade.
+
+###### Artigo 4.º — Informação aos utentes
+
+1 - Nas unidades com internamento devem ser colocados, em local bem visível do público, a certidão de registo do estabelecimento na Entidade Reguladora da Saúde (ERS), a licença de funcionamento ou a declaração de conformidade, o horário de funcionamento, o nome do diretor clínico e, quando a unidade esteja integrada num estabelecimento com várias tipologias e ou serviços, do diretor de serviço, a referência à existência de regulamento interno, os procedimentos a adotar em situações de emergência e os direitos e deveres dos utentes, devendo ainda estar disponível para consulta a tabela de preços.
+
+2 - Deve ainda ser afixada, em local bem visível, ou disponibilizada para consulta no local, informação relativa aos acordos e convenções para a prestação de cuidados de saúde aplicáveis à unidade de saúde em causa, bem com os respetivos âmbitos.
+
+###### Artigo 5.º — Seguro de responsabilidade civil
+
+1 - As unidades com internamento devem contratar e manter em vigor um seguro de responsabilidade civil que cubra os riscos inerentes à sua atividade.
+
+2 - As unidades com internamento devem assegurar que os profissionais que nelas exercem a sua atividade estão abrangidos por seguro de responsabilidade civil válido.
+
+###### Artigo 6.º — Regulamento interno
+
+1 - As unidades com internamento devem dispor de um regulamento interno, validado pelo diretor clínico, do qual deve constar, pelo menos, o seguinte:
+
+a) Identificação do diretor clínico e do seu substituto ou do critério de substituição, na ausência de indicação expressa, bem como dos restantes profissionais de saúde e colaboradores;
+
+b) Estrutura organizacional;
+
+c) Categorias e graduações profissionais, funções e competências de cada grupo profissional;
+
+d) Normas de funcionamento.
+
+2 - O regulamento interno deve ainda prever a existência, no próprio documento ou em documento acessório de:
+
+a) Lista e plano anual de manutenção preventiva das instalações e equipamentos e de calibração de equipamento médico ou aferição por tipologia de equipamento;
+
+b) Plano anual de formação e avaliação dos colaboradores;
+
+c) Manual de procedimentos operativos;
+
+d) Plano periódico da participação em programas de avaliação externa da qualidade;
+
+e) Procedimentos de controlo da qualidade;
+
+f) Plano anual de auditorias internas e externas:
+
+g) Condições de higiene e segurança do ambiente, incluindo a recolha, armazenamento e transporte de resíduos sólidos e líquidos, em conformidade com as disposições legais aplicáveis;
+
+h) Procedimento de emergência médica.
+
+###### Artigo 7.º — Registo, conservação e arquivo
+
+1 - As unidades com internamento devem possuir e manter, em arquivo físico ou digital, durante o prazo legalmente estabelecido, os seguintes documentos:
+
+a) Processos clínicos dos doentes contendo os respetivos registos;
+
+b) Cópia dos relatórios dos exames e dos tratamentos realizados.
+
+2 - As unidades com internamento devem conservar durante um mínimo de cinco anos, salvo se prazo mais longo resultar da lei, os seguintes documentos:
+
+a) Os relatórios de classificação de sala limpa referentes às salas de operações, unidade de cuidados intensivos (UCI), unidade de cuidados pós-anestésicos (UCPA), salas de recuperação (recobro - quando integrada no bloco operatório) e zonas limpas (URDMUM) devem ser realizados de acordo com o previsto nas normas ISO 14644-1 e ISO 14644-2 ou ao abrigo de normativo que as venha a substituir;
+
+b) Dados referentes ao controlo da qualidade;
+
+c) Resultados dos programas de garantia da qualidade e segurança, designadamente:
+
+i) Fichas de equipamento e respetivas declarações de conformidade;
+
+ii) Mapas de manutenções preventivas das instalações e equipamentos;
+
+iii) Mapas de calibração do equipamento médico;
+
+d) Folhas de obra das ações corretivas aos equipamentos;
+
+e) Ficha de segurança e bulas de medicamentos em uso;
+
+f) Contratos ou extratos de contratos, celebrados com terceiros, relativos às atividades identificadas no artigo 14.º do presente diploma;
+
+g) Regulamento interno;
+
+h) Resultados das vistorias realizadas pelas entidades competentes;
+
+i) Protocolos técnicos terapêuticos, de formação e outras normas técnicas destinadas à atividade profissional.
+
+3 - Adicionalmente, se aplicável, as unidades com internamento devem dispor ainda em arquivo, físico ou digital, da seguinte documentação:
+
+a) Certificado de exploração ou declaração de inspeção inicial das instalações elétricas, consoante o tipo (A, B ou C);
+
+b) Cópia do termo de responsabilidade pela exploração das instalações elétricas ou da declaração de inspeção periódica, consoante o tipo (A, B ou C) e a potência aparente da instalação;
+
+c) Certificação dos equipamentos elevadores;
+
+d) Cópia ou extrato do contrato de manutenção dos equipamentos elevadores;
+
+e) Certificado de inspeção das instalações de gás;
+
+f) Cópia do relatório de ensaios do sistema de climatização, demonstrativo do cumprimento dos requisitos exigidos na presente portaria e na legislação em vigor, assinado por um técnico habilitado, acompanhado por cópia da declaração válida emitida pela ordem profissional a que pertence o técnico, que ateste as competências para o ato;
+
+g) Cópia dos relatórios de inspeção a sistemas técnicos, no âmbito da legislação em vigor na área da eficiência energética;
+
+h) Cópia dos relatórios das auditorias à qualidade do ar interior, de acordo com o estabelecido na legislação em vigor;
+
+i) Cópia do certificado dos dispositivos médicos, incluindo-se sistema de distribuição de gases medicinais, em conformidade com o previsto na legislação e vigor;
+
+j) Cópia da declaração de validação de funcionamento de recipientes sob pressão simples e/ou o certificado de aprovação de funcionamento de equipamentos sob pressão;
+
+k) Cópia do certificado energético, em conformidade com a legislação em vigor;
+
+l) Cópia do relatório de ensaios que comprovem o funcionamento dos equipamentos geradores de ruído, como, por exemplo, sistemas de vácuo e/ou produção de ar comprimido, em conformidade com o Regulamento Geral do Ruído;
+
+m) Resultados das análises efetuadas no âmbito do controlo sanitário da água;
+
+n) Plano de prevenção e controlo ou programa de manutenção e limpeza, bem como toda a documentação associada, no âmbito da legislação em vigor, no sentido de prevenir o risco de proliferação e disseminação da bactéria Legionella;
+
+o) Cópia do contrato do programa de desfibrilhação automática externa (DAE) e dos registos de formação;
+
+p) Autorização para aquisição direta de medicamentos, emitida pelo INFARMED, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 327/2025/1 - Diário da República n.º 192/2025, Série I de 2025-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/327-2025-938108822), em vigor a partir de 2025-10-07
+
+### Capítulo III — Instrução do pedido e condições de funcionamento
+
+###### Artigo 8.º — Instrução do pedido
+
+Os pedidos de licença de funcionamento ou declaração de conformidade das unidades com internamento, para além dos elementos instrutórios constantes do n.º 3 do artigo 5.º do Decreto-Lei n.º 127/2014, de 22 de agosto, devem ser acompanhados da seguinte documentação:
+
+a) No caso das unidades privadas, certidão atualizada do registo comercial ou código de acesso à certidão permanente de pessoa coletiva ou, no caso de pessoa singular, de cópia do cartão do cidadão;
+
+b) No caso das IPSS, declaração de inscrição como IPSS, emitida pela segurança social;
+
+c) Relação nominal do pessoal que integra a unidade com internamento ou, conforme aplicável, declaração de compromisso de entrega da relação nominal do pessoal e respetivo mapa, com a distribuição pelos diferentes grupos profissionais e cópias das respetivas cédulas ou carteiras profissionais, no prazo máximo de 30 dias a contar da data da licença de funcionamento ou declaração de conformidade;
+
+d) Memória descritiva e justificativa e telas finais dos projetos de arquitetura, instalações e equipamentos elétricos, instalações e equipamentos mecânicos, instalações e equipamentos de águas e esgotos e instalação da rede de gases medicinais;
+
+e) Memória descritiva do programa funcional, indicando a lotação, o número de salas de operações e a designação dos serviços ou valências de que a unidade dispõe;
+
+f) Parecer favorável das medidas de autoproteção ou comprovativo deste pedido, emitido pela Autoridade Nacional de Emergência e Proteção Civil (ANEPC);
+
+g) Relatório da última inspeção regular dentro do prazo legal ou documento comprovativo do pedido, seguindo os critérios estabelecidos no Regime Jurídico de Segurança contra Incêndios em Edifícios;
+
+h) Autorização de utilização para comércio ou serviços, emitida pela câmara municipal competente ou documento(s) equivalente(s), nos termos da legislação em vigor.
+
+###### Artigo 9.º — Condições de funcionamento
+
+1 - São condições de atribuição de licença de funcionamento ou de declaração de conformidade:
+
+a) A idoneidade do requerente, a qual, no caso de se tratar de pessoa coletiva, deve ser preenchida pelos administradores, ou diretores/gerentes que detenham a direção efetiva do estabelecimento;
+
+b) A idoneidade profissional dos elementos da direção clínica e da direção de serviço, se aplicável, demais pessoal clínico e de enfermagem;
+
+c) O cumprimento dos requisitos que permitam a garantia da qualidade técnica dos cuidados e tratamentos a prestar, bem como garantir que os equipamentos de que ficarão dotadas se encontram em perfeito estado de funcionamento.
+
+2 - Para efeitos do disposto na alínea a) do número anterior, são consideradas idóneas as pessoas relativamente às quais não se verifique nenhum dos seguintes impedimentos:
+
+a) Proibição legal do exercício do comércio ou a não conformidade de registo na segurança social;
+
+b) Condenação, com trânsito em julgado, qualquer que tenha sido a natureza do crime, nos casos em que tenha sido decretada a interdição do exercício de profissão;
+
+c) Inibição do exercício da atividade profissional, pela respetiva ordem ou associação profissional, durante o período determinado.
+
+3 - Para efeitos do disposto na alínea b) do n.º 1, são considerados profissionais de saúde idóneos aqueles em relação aos quais não se verifique nenhum dos seguintes impedimentos:
+
+a) Condenação, com trânsito em julgado, qualquer que tenha sido a natureza do crime, nos casos em que tenha sido decretada a interdição do exercício de profissão;
+
+b) Inibição do exercício da atividade profissional, pela respetiva ordem ou associação profissional, durante o período determinado.
+
+4 - O disposto nos números anteriores deixa de produzir efeitos após reabilitação ou pelo decurso do prazo de interdição fixado pela decisão condenatória.
+
+### Capítulo IV — Recursos humanos
+
+###### Artigo 10.º — Direção clínica
+
+1 - As unidades com internamento são tecnicamente dirigidas por um diretor clínico, médico.
+
+2 - Sempre que a unidade se encontre integrada num estabelecimento de saúde onde sejam desenvolvidas outras tipologias de atividade, o estabelecimento é dirigido por um diretor clínico, sendo a responsabilidade técnica da unidade com internamento assumida por um diretor de serviço, também médico.
+
+3 - A atividade das unidades com internamento implica a presença física do diretor clínico ou, no caso previsto no número anterior, do diretor de serviço, por forma a garantir a qualidade dos tratamentos e a supervisão da atividade realizada, devendo ser substituído nos seus impedimentos e ausências por um profissional qualificado com formação equivalente.
+
+4 - Para efeitos do disposto no número anterior, entende-se por impedimentos quaisquer circunstâncias anormais e imprevisíveis que impeçam a efetiva disponibilidade do diretor clínico ou, no caso previsto no n.º 2, do diretor de serviço.
+
+5 - Em caso de impedimento ou cessação permanente de funções do diretor clínico ou, no caso previsto no n.º 2, do diretor de serviço, deve ser promovida a sua substituição no prazo máximo de 30 dias, com comunicação da substituição à entidade competente.
+
+6 - É da responsabilidade do diretor clínico/diretor de serviço:
+
+a) Designar, de entre os profissionais com qualificação equivalente à sua, o seu substituto, durante as suas ausências ou impedimentos, em respeito pelas regras constantes do regulamento interno;
+
+b) Zelar pela qualidade dos cuidados clínicos prestados, tendo em particular atenção os programas de garantia da qualidade, incluindo o controlo de infeção;
+
+c) Garantir a formação contínua do pessoal técnico da unidade;
+
+d) Supervisionar o cumprimento das normas estabelecidas quanto à estratégia terapêutica dos doentes e ao controlo clínico;
+
+e) Aprovar os protocolos técnicos, clínicos e terapêuticos e velar pelo seu cumprimento;
+
+f) Colaborar na definição das normas referentes à proteção da saúde e à segurança do pessoal, bem como respeitar as especificações referentes à proteção do ambiente e da saúde pública e zelar pelo seu cumprimento;
+
+g) Definir os moldes em que é efetivada a cobertura médica durante cada período de funcionamento, num rácio que garanta a segurança e a qualidade dos cuidados prestados;
+
+h) Assegurar o apoio de um médico em presença física, durante todo o período de permanência de doentes na instituição, podendo em unidades com tipologias múltiplas, partilhar o apoio com várias unidades;
+
+i) Garantir a idoneidade e a qualificação técnica dos profissionais adequadas para o desempenho da atividade;
+
+j) Aprovar o procedimento de emergência médica e assegurar a sua divulgação.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 174/2025/1 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/174-2025-914713268), em vigor a partir de 2025-04-12
+
+###### Artigo 11.º — Enfermeiro-diretor
+
+1 - O enfermeiro-diretor é um enfermeiro especialista.
+
+2 - Em caso de impedimento ou cessação permanente de funções do enfermeiro-diretor, deve ser promovida a sua substituição no prazo máximo de 30 dias, com comunicação da substituição à entidade competente para o licenciamento.
+
+3 - Compete ao enfermeiro-diretor:
+
+a) Coordenar a atividade dos enfermeiros e do pessoal que o regulamento interno definir;
+
+b) Garantir uma prática profissional e ética dos enfermeiros, velando pelo cumprimento das leges artis no respeitante aos enfermeiros sob a sua responsabilidade direta;
+
+c) Cumprir as funções que lhe forem atribuídas, dentro da sua área de competência, pelo regulamento interno;
+
+d) Designar, de entre os enfermeiros, o seu substituto durante as suas ausências ou impedimentos;
+
+e) Definir os moldes em que é efetivada a cobertura de enfermagem durante cada período de funcionamento, num rácio que garanta a segurança e a qualidade dos cuidados prestados.
+
+4 - Sempre que existam várias tipologias de prestação de cuidados, poderá haver um único enfermeiro-diretor.
+
+###### Artigo 12.º — Farmacêutico
+
+1 - As unidades com internamento devem dispor da colaboração de um farmacêutico, responsável pelo serviço de farmácia, bem como pela conservação, identificação e distribuição dos medicamentos.
+
+2 - A atividade e o funcionamento do serviço de farmácia das unidades regem-se pela legislação em vigor.
+
+###### Artigo 13.º — Pessoal
+
+1 - As unidades com internamento devem ainda dispor de todos os recursos humanos necessários ao desempenho das funções para que estão legalmente habilitadas por licenciamento ou declaração de conformidade.
+
+2 - As unidades com internamento devem assegurar a presença física e permanente do pessoal necessário ao regular funcionamento da unidade.
+
+###### Artigo 14.º — Recurso a serviços contratados
+
+As unidades com internamento podem recorrer a serviços de terceiros, nomeadamente no âmbito do transporte de doentes, tratamento de roupa, do fornecimento de refeições, de gases medicinais e fornecimento de dispositivos médicos de uso múltiplo e ainda a gestão dos resíduos hospitalares, quando as entidades prestadoras de tais serviços se encontrem, nos termos da legislação em vigor, licenciadas, certificadas ou acreditadas para o efeito.
+
+### Capítulo V — Requisitos técnicos
+
+###### Artigo 15.º — Normas genéricas de construção, segurança e privacidade
+
+1 - As unidades com internamento devem situar-se em locais de fácil acessibilidade e que disponham de infraestruturas viárias, de abastecimento de água, de saneamento, de energia elétrica e de telecomunicações.
+
+2 - As unidades com internamento devem, preferencialmente, estar instaladas em edifícios destinados a esse fim.
+
+3 - Excecionalmente, se a natureza das demais atividades exercidas nos edifícios não o desaconselhar, pode ser admitida a instalação de unidades com internamento em parte de edifício, desde que haja independência operacional das instalações técnicas especiais, ainda que localizadas em zonas comuns, e se observem as disposições técnicas expressas na presente portaria.
+
+4 - A construção deve contemplar a existência de um percurso acessível até aos espaços fundamentais de funcionamento da unidade, nos termos do regime jurídico das acessibilidades em vigor.
+
+5 - A sinalética deve ser concebida de forma a ser compreendida pelos utentes, obedecendo aos requisitos de legibilidade definidos no regime jurídico das acessibilidades em vigor.
+
+6 - Os acabamentos utilizados devem permitir a manutenção de um grau de higienização compatível com a atividade desenvolvida nos locais a que se destinam.
+
+7 - Todos os compartimentos que disponham de lavatório com torneira de comando não manual, devem estar munidos de dispensador de sabão líquido, porta-toalhetes e recipientes de resíduos de abertura não manual, sendo que a parede junto dos lavatórios deve ser revestida de material impermeável e de fácil higienização. Os compartimentos onde haja prestação de cuidados de saúde devem prever a existência de dispensadores de SABA (solução antisséptica de base alcoólica).
+
+8 - As unidades com internamento devem garantir a localização de instalações técnicas, de armazenagem de fluidos inflamáveis ou perigosos e de gases medicinais, caso existam, nas condições de segurança legalmente exigidas.
+
+9 - As circulações horizontais, compartimentos de armazenamento, sujos e despejos e material de limpeza deverão ter como pé direito útil mínimo 2,40 m, entendendo-se como tal a altura livre do pavimento ao teto ou teto falso, devendo nas demais áreas ser cumprido o pé direito útil mínimo previsto na legislação em vigor.
+
+10 - Os vãos das portas utilizadas na passagem de macas e camas devem ter o mínimo de 1,40 m de largura útil.
+
+11 - Sempre que a unidade não disponha de acesso de nível ao exterior ou tenha um desenvolvimento em altura superior a um piso e se preveja a utilização de macas ou camas, deve dispor de, pelo menos, um elevador com capacidade para o transporte de macas com dimensões interiores não inferiores a 2,40 m x 1,30 m x 2,10 m, respetivamente, de comprimento, de largura e de altura.
+
+12 - Os corredores destinados a circulação de camas e macas devem ter o mínimo de 2,20 m de largura útil, com as seguintes ressalvas:
+
+a) Admite-se a existência de corredores com o mínimo de 1,80 m de largura útil, desde que haja bolsas que permitam o cruzamento de camas;
+
+b) Os corredores destinados a circulação de macas devem ter o mínimo de 1,40 m de largura útil.
+
+13 - A zona de armazenagem de medicamentos, quando exista, deve ser apenas acessível a profissionais autorizados, estar identificada e dispor de monitorização das condições de temperatura e humidade.
+
+14 - As unidades com internamento devem garantir as condições que permitam o respeito pela privacidade e dignidade dos utentes.
+
+15 - Nos quartos com mais de uma cama, a distância deve ser:
+
+a) Entre camas, no mínimo, de 0,90 m;
+
+b) Entre uma das camas e a parede lateral, no mínimo, de 0,60 m;
+
+c) Deve também ser considerada uma área livre, na qual se inscreva um círculo de 1,50 m de diâmetro entre o pé da cama e a parede frontal.
+
+16 - Em unidades que prestem cuidados de psiquiatria, as portas dos compartimentos que possam ser utilizadas por doentes não podem permitir o encerramento pelo interior do compartimento.
+
+17 - As unidades com internamento devem ainda garantir:
+
+a) A paragem das ambulâncias sem prejuízo da circulação na via pública;
+
+b) A fácil circulação de macas e cadeiras de rodas;
+
+c) Lugares de estacionamento com acessibilidade para pessoas com mobilidade condicionada.
+
+18 - Todas as escadas onde, em situações de comprovada emergência, seja forçosa a circulação de macas, devem ter largura não inferior a 1,40 m e uma inclinação de acordo com a legislação em vigor.
+
+19 - A largura das portas dos quartos ou enfermarias devem respeitar as exigências previstas no regime de segurança contra incêndios, aprovado pela Portaria n.º 135/2020, de 2 de junho.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 174/2025/1 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/174-2025-914713268), em vigor a partir de 2025-04-12
+
+###### Artigo 16.º — Reprocessamento de dispositivos médicos
+
+1 - Para a obtenção de dispositivos médicos devem adotar-se as seguintes modalidades:
+
+a) Utilização exclusiva de dispositivos médicos de uso único, sendo proibido o reprocessamento para utilização posterior, salvo se permitido por regulamentação específica;
+
+b) Utilização de dispositivos médicos de uso múltiplo reprocessados em entidade externa com implementação ou certificação da NP EN ISO 13485 ou ao abrigo de normativo que a venha a substituir, ou em unidade de saúde licenciada ou com declaração de conformidade, que disponha de unidade central de reprocessamento;
+
+c) Utilização de dispositivos médicos de uso múltiplo reprocessados em unidade interna de reprocessamento de dispositivos médicos de uso múltiplo, para uma parte ou a totalidade das necessidades de um único serviço da unidade de saúde, sendo que, em caso de reprocessamento pela unidade interna de apenas uma parte do material, o restante deve ser obtido com recurso às demais opções descritas;
+
+d) Utilização de dispositivos médicos de uso múltiplo, reprocessados em unidade central de reprocessamento de dispositivos médicos de uso múltiplo, para as necessidades de dois ou mais serviços da unidade de saúde, concebida, organizada e equipada de acordo com os normativos e legislação em vigor, que deve dispor da capacidade adequada às necessidades e ter implementada ou estar certificada pela NP EN ISO 13485, ou ao abrigo de normativo que a venha a substituir.
+
+2 - Todos os dispositivos potencialmente contaminados são manipulados, recolhidos e transportados em caixas ou carros fechados para a área de descontaminação de forma a evitar o risco de contaminação dos circuitos envolventes e de utentes e pessoal.
+
+3 - As unidades internas e centrais de reprocessamento de dispositivos médicos de uso múltiplo devem satisfazer as normas relativas a qualidade e segurança, nos termos do artigo 3.º, com vista a assegurar o cumprimento das seguintes fases, respeitando ainda as instruções do fabricante dos dispositivos médicos, designadamente:
+
+a) Recolha de instrumentos ou dispositivos médicos;
+
+b) Limpeza e desinfeção;
+
+c) Inspeção, montagem e embalagem;
+
+d) Esterilização;
+
+e) Armazenamento.
+
+4 - Qualquer que seja a origem dos dispositivos médicos de uso múltiplo reprocessados, deve existir evidência da validação da eficácia das diferentes fases do reprocessamento, garantindo-se, pelo menos:
+
+a) A validação do ciclo de esterilização, no caso da unidade interna de reprocessamento de dispositivos médicos de uso múltiplo;
+
+b) A validação dos processos de lavagem/desinfeção, embalagem, selagem e esterilização na unidade central de reprocessamento de dispositivos médicos de uso múltiplo.
+
+###### Artigo 17.º — Procedimentos de emergência médica
+
+1 - Todas as instituições com internamento devem ter definidos procedimentos de emergência médica adequados à situação dos doentes internados.
+
+2 - As unidades que optem pela dotação de carros de reanimação com desfibrilhador manual, devem ter em permanência um médico e um enfermeiro com formação certificada em suporte avançado de vida.
+
+3 - Em alternativa, podem optar por equipamentos de DAE, garantindo:
+
+a) A disponibilidade do equipamento em condições de funcionamento;
+
+b) A formação atualizada dos profissionais;
+
+c) A análise dos registos de eventos;
+
+d) A manutenção dos equipamentos.
+
+4 - Como regra, deve ser assegurado que existe equipamento que permita iniciar, pelo menos, suporte básico de vida com DAE a menos de 2 minutos de distância.
+
+5 - No caso concreto dos blocos operatórios, serviços de atendimento permanente/serviço de urgência e unidades de cuidados intensivos, os carros de emergência devem ter pelo menos um carro de emergência com desfibrilhador manual.
+
+###### Artigo 18.º — Serviços especiais
+
+As unidades com internamento devem garantir a disponibilidade permanente de acesso a serviço de farmácia, dotado de instalações próprias, que permitam a boa conservação e inspeção dos medicamentos e a serviço de imuno-hemoterapia.
+
+###### Artigo 19.º — Especificações técnicas
+
+1 - São aprovadas especificações técnicas no que diz respeito aos compartimentos das unidades com internamento e aos requisitos mínimos de equipamentos técnico e médico nos anexos i a xvii à presente portaria, da qual fazem parte integrante.
+
+2 - A área útil prevista nos anexos (nomeadamente a definida por posto, box, cama, maca ou cadeirão) inclui circulações, considerando-se que a área útil total do compartimento resulta do somatório das áreas úteis parciais, sem prejuízo da necessidade de ser assegurada a funcionalidade do espaço, a circulação entre postos e o acesso ao utente, de acordo com o Regime Geral de Segurança contra Incêndios.
+
+### Capítulo VI — Disposições finais
+
+###### Artigo 20.º — Outros serviços de ação médica
+
+Sempre que a unidade dispuser de outros serviços de ação médica, estes devem cumprir as exigências e requisitos constantes nos respetivos diplomas.
+
+###### Artigo 21.º — Livro de reclamações
+
+As unidades com internamento estão sujeitas à obrigatoriedade de existência e disponibilização de livro de reclamações, nos termos da legislação em vigor.
+
+###### Artigo 22.º — Prazo de adaptação
+
+1 - As unidades licenciadas dispõem do prazo de cinco anos, a contar da entrada em vigor da presente portaria, para adaptação aos requisitos técnicos de funcionamento aqui previstos, devendo, no mesmo prazo e sem prejuízo do disposto no artigo 12.º do Decreto-Lei n.º 127/2014, de 22 de agosto, requerer, através do Portal de Licenciamento da ERS, a licença de funcionamento que ateste a conformidade com a regulamentação vigente.
+
+2 - Tratando-se de unidades que disponham de licença de funcionamento emitida pela ERS, ao abrigo do Decreto-Lei n.º 127/2014, de 22 de agosto, e da regulamentação prevista no n.º 2 do artigo 25.º do mesmo diploma, cuja obtenção deva seguir o procedimento ordinário, no prazo definido no número anterior, deverão solicitar, através do Portal de Licenciamento, a emissão de nova licença com dispensa de vistoria prévia, através de requerimento fundamentado que ateste o cumprimento dos novos requisitos técnicos de funcionamento aqui previstos.
+
+3 - As IPSS, as instituições militares e as pessoas coletivas públicas em funcionamento dispõem do prazo de cinco anos, a contar da entrada em vigor da presente portaria, para adaptação aos requisitos técnicos de funcionamento aqui previstos.
+
+4 - Os titulares de processos de licenciamento em curso, à data de entrada em vigor da presente portaria, podem optar pela adequação aos novos requisitos técnicos de funcionamento aqui previstos, mediante requerimento dirigido à ERS.
+
+5 - Nas situações referidas no número anterior, a ERS dará continuidade à tramitação dos processos, aproveitando os atos já praticados e decidindo sobre o pedido de emissão da licença de funcionamento, à luz dos requisitos técnicos definidos na presente portaria.
+
+###### Artigo 23.º — Norma revogatória
+
+É revogada a Portaria n.º 290/2012, de 24 de setembro.
+
+###### Artigo 24.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Em 1 de março de 2024.
+
+A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho. - O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro.
+
+## Anexo I — (a que se refere o artigo 19.º)
+
+Consulta externa
+
+(se existir)
+
+| Designação | Função do compartimento | Área útil mínima (m2) | Largura mínima (m) | Observações |
+| --- | --- | --- | --- | --- |
+| Área de Acolhimento |  |  |  |  |
+| Receção/secretaria | Secretaria com zona de atendimento de público | - | - | Pode ser partilhada com serviços adjacentes |
+| Zona de espera | Para doentes e acompanhantes:- Para adultos- Para crianças (se houver pediatria) | - | - | Junto à receção/secretaria.Pode ser partilhada com serviços adjacentes |
+| Instalação sanitária de público | - | - | - | Acessível a pessoas de mobilidade condicionada, com zona de fraldário se existir pediatria.Pode ser partilhada com serviços adjacentes. |
+| Área clínica/técnica |  |  |  |  |
+| Gabinete de consulta | Elaboração da história clínica dos doentes e observação | 10 (*)12 | 2,6 | - |
+| Sala de observação/tratamento | Observação e tratamentos | 12 (**)16 | 2,6 | Facultativa, exceto no caso de existir ginecologia sem gabinete com marquesa ginecológica. |
+| Sala de pequena cirurgia | Para procedimentos com anestesia local, sem necessidade de cuidados especiais de recobro | 16 | 2,6 | Facultativa |
+| Zona de desinfeção de pessoal | - | - | - | De preferência, em área aberta, contígua à sala de pequena cirurgia. |
+| Sala de prova de esforço | Exames de prova de esforço e estimulação cardíaca | 12 (**)15 | - | Quando haja lugar à sua realização |
+| Sala de exames endoscópicos | Para realização de exames invasivos | 16 | 3,0 | Quando haja lugar à sua realização. |
+| Sala de preparação/recuperação | Para preparação do utente (pré-exame) e para recuperação após exames em que se utilize analgesia/sedação e/ou anestesia. | 4/cadeirão ou 10/maca | - | Exigível em caso de exames com analgesia, sedação ou anestesia.Mínimo dois cadeirões/macas por sala de exames. |
+| IS apoio | Para utentes | - | - | Anexa ou próxima da sala de exames endoscópicos caso exista ou à sala de recuperação. |
+| Área de pessoal |  |  |  |  |
+| Instalação sanitária de pessoal | - | - | - | Pode ser partilhada com serviços adjacentes |
+| Sala de pessoal | - | - | - | Facultativo |
+| Vestiário de pessoal | - | - | - | Com zona de cacifos.Facultativo caso seja centralizado para toda a unidade. |
+| Área logística c) |  |  |  |  |
+| Sala de sujos e despejos | Para arrumação temporária de sacos de roupa suja e de resíduos e despejos | - | - | Não necessita de despejos caso não exista sala de tratamento, pequena cirurgia ou de exames endoscópicos.A área prevista deve garantir a funcionalidade da sala considerando o volume de sujos e tempo de permanência.Deve ser garantida a separação física entre o material de limpeza e os sujos. |
+| Área de reprocessamentoSala de descontaminaçãoa) d) | Para limpeza e desinfeção de dispositivos médicos de uso múltiplo | - | - | Área prevista deve garantir a funcionalidade e segurança em todas as fases do reprocessamento dos dispositivos médicos.Pode ser partilhada com um serviço adjacente. |
+| Área de reprocessamentoSala limpaa) | Com esterilizador de tipo adequado e ligação à sala de descontaminação por guichet ou por máquina de lavar com duas portas | - | - | Pode ser partilhada com um serviço adjacente.b) |
+| Material de limpeza | Armazenagem de material de limpeza | - | - | Possibilidade de partilha com a sala de sujos se as unidades tiverem até cinco gabinetes de consulta e desde que se garanta a separação física. |
+| Zona de roupa limpa | Armazenagem | - | - | Arrumação em armário/estante/carro |
+| Zona de material de consumo | Armazenagem | - | - | Arrumação em armário/estante/carro |
+| Zona de material de uso clínico | Armazenagem | - | - | Arrumação em armário/estante/carro |
+| Sala de equipamento | Armazenagem | - | - | Facultativa |
+
+(*) Aceitável em: (i) gabinetes de consulta das especialidades que dispensam o uso de catre e (ii) em unidades existentes, em funcionamento e, se aplicável, licenciadas, à data da publicação do presente diploma.
+
+(**) Aceitável em unidades existentes, em funcionamento e, se aplicável, licenciadas, à data da publicação do presente diploma.
+
+a) Aplicam-se os comentários do anexo sobre reprocessamento de equipamentos médicos.
+
+b) A sala limpa é exigível quando a unidade não utilize exclusivamente material descartável, não dispuser de serviços centralizados de esterilização ou recurso ao exterior. Deve estar separada da sala de descontaminação por divisória integral até ao teto (ou teto falso), sendo admissível a existência de uma porta de comunicação.
+
+c) Pode partilhar com serviço adjacente.
+
+d) A sala de descontaminação é exigível quando a unidade não utilizar exclusivamente material descartável.
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 327/2025/1 - Diário da República n.º 192/2025, Série I de 2025-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/327-2025-938108822), em vigor a partir de 2025-10-07
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 174/2025/1 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/174-2025-914713268), em vigor a partir de 2025-04-12
+
+## Anexo II — (a que se refere o artigo 19.º)
+
+Serviço de atendimento permanente
+
+(se existir)
+
+Compartimentos a considerar:
+
+| Designação | Função do compartimento | Área útil mínima (m2) | Largura mínima (m) | Observações |
+| --- | --- | --- | --- | --- |
+| Área de acolhimento |  |  |  |  |
+| Receção/secretaria | Secretaria com zona de atendimento de público. | – | – | Pode ser partilhada com serviços adjacentes |
+| Zona de espera | Para doentes e acompanhantes junto à receção/secretaria: | – | – | Junto à receção/secretaria.Pode ser partilhada com serviços adjacentes. |
+|  | Para adultos | – | – |  |
+|  | Para crianças (caso exista pediatria) | – | – |  |
+| Instalação sanitária de público | - | – | – | Acessível a pessoas de mobilidade condicionada. Com fraldário, se houver pediatria. Pode ser partilhada com serviços adjacentes. |
+| Área clínica/técnica |  |  |  |  |
+| Gabinete de consulta | Elaboração da história clínica do doente e observação | 12 | 2,6 | Pode ser substituído por boxes ou sala aberta com 10 m2por posto. |
+| Sala de trabalho de enfermagem | Realização de atividades de enfermagem | 12 | – | - |
+| Zona de inaloterapia | Para tratamentos com aerossóis | 2/posto | – | Pode ser constituída em boxes ou integrada na sala de recuperação. |
+| Sala de tratamentos | Para tratamentos | 16 | 3 | Facultativa. |
+| Sala de gessos | Para gessos e outros tratamentos | 16 | 3 | Exigível nos casos em que não é utilizado gesso sintético. |
+| Sala de observação/recuperação | Restabelecimento de doentes após tratamentos, em cadeirão separados por cortinas | 4/cadeirão 10/maca | – | - |
+| Área de pessoal |  |  |  |  |
+| Instalação sanitária de pessoal | - |  | – | Pode ser partilhada com serviços adjacentes |
+| Sala de pessoal | Pausa de pessoal | – | – | Facultativo |
+| Vestiário de pessoal | - | – | – | Com zona de cacifos e chuveiros.Facultativo (caso seja centralizado para toda a unidade). |
+| Área logística d) |  |  |  |  |
+| Sala de sujos e despejos | Para arrumação temporária de sacos de roupa suja e de resíduos, de despejos e máquina de eliminação de arrastadeiras descartáveis quando existir | – | – | A área mínima deve garantir a funcionalidade da sala considerando o volume de sujos e tempo de permanência. |
+| Área de reprocessamentoSala de descontaminaçãoa) | Para limpeza e desinfeção de dispositivos médicos de uso múltiplo | – | – | Área mínima deve garantir a funcionalidade e segurança em todas as fases do reprocessamento dos dispositivos médicos. |
+| Área de reprocessamentoZona limpaa) | Com esterilizador de tipo adequado e ligação à zona de descontaminação por guichet ou por máquina de lavar com duas portas | – | – | b) c) |
+| Zona de roupa limpa | Armazenagem | – | – | Arrumação em armário/estante/carro |
+| Zona de material de consumo | Armazenagem | – | – | Arrumação em armário/estante/carro |
+| Zona de material de uso clínico | Armazenagem | – | – | Arrumação em armário/estante/carro |
+| Sala de equipamento | Armazenagem | – | – | - |
+| Material de limpeza | Armazenagem | – | – | - |
+
+a) Aplicam-se os comentários do anexo sobre reprocessamento de equipamentos médicos.
+
+b) A zona limpa é exigível quando a unidade não utilize exclusivamente material descartável, não dispuser de serviços centralizados de esterilização ou recurso ao exterior.
+
+c) Deve estar separada da zona de descontaminação por divisória integral até ao teto (ou teto falso), sendo admissível a existência de uma porta de comunicação.
+
+d) Pode ser partilhada com um serviço adjacente.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 174/2025/1 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/174-2025-914713268), em vigor a partir de 2025-04-12
+
+## Anexo III — (a que se refere o artigo 19.º)
+
+Internamento
+
+As instalações referidas em seguida são consideradas por unidade de 30 camas, ou piso de internamento:
+
+| Designação | Função do compartimento | Área útil mínima (m2) | Largura mínima (m) | Observações |
+| --- | --- | --- | --- | --- |
+| Área de acolhimento (*) |  |  |  |  |
+| Sala de estar/visitas | - | - | - | - |
+| Instalação sanitária de público | - | - | - | Acessível a pessoas de mobilidade condicionada |
+| Área clínica/técnica |  |  |  |  |
+| Quarto ou enfermaria (**) | Com uma cama e IS privativa a) | 14 + 5 | 3,5 | As instalações sanitárias devem ser acessíveis a pessoas de mobilidade condicionada e possibilitar o banho assistido em cadeira. |
+|  | Com duas camas e IS privativa a) | 18 + 5 | 3,5 |  |
+|  | Com três camas e IS privativa a) | 24 + 5 | 3,5 |  |
+|  | Com quatro camas e IS privativa a) | 30 + 5 | 3,5 |  |
+| Sala de trabalho de enfermagem | Com zona de realização de atividades de enfermagem e posto de controlo | 12 | - | O posto de controlo deve ter localização na área de internamento e deve permitir a visualização da circulação na unidade. |
+| Instalação sanitária de utentes | Acessível a pessoas de mobilidade condicionada e com possibilidade de banho assistido em cadeira | 5 | - | Exigível no caso de não haver IS nos quartos ou enfermarias b). |
+| Banho assistido | Higiene do utente em maca | 10 | 2,8 | Facultativo no caso de a unidade ser constituída apenas por quartos individuais e duplos que disponham de I.S. privativa acessível a pessoas de mobilidade condicionada e com possibilidade de banho assistido em cadeira. |
+| Sala de tratamentos | Pensos e outros tratamentos | 16 | 3,5 | Facultativo no caso da unidade ser constituída apenas por quartos individuais e duplos. |
+| Área de pessoal (*) |  |  |  |  |
+| Instalação sanitária de pessoal |  |  | - | - |
+| Vestiário de pessoal |  | - | - | Com zona de cacifos. Facultativo caso seja centralizado para toda a unidade. |
+| Sala de pessoal |  | - | - | Facultativo |
+| Gabinete de trabalho | Sala de trabalho para pessoal e reuniões | - | - | Facultativo |
+| Área logística |  |  |  |  |
+| Depósito de cadáveres c) | Depósito temporário de cadáveres | 10 | - | Deve existir, no mínimo, um por unidade de saúde. |
+| Copa | Receção e conferência de dietas. Preparação de refeições ligeiras. | 8 | - | - |
+| Refeitório | - | 14 | - | Dispensável quando na unidade só existam quartos individuais ou duplos. |
+| Sala de lavagem e desinfeção de arrastadeiras | - | - | - | Dispensável quando a unidade utilizar apenas arrastadeiras descartáveis. |
+| Sala de sujos e despejos (*) | Para arrumação temporária de sacos de roupa suja e de resíduos, de despejos e máquina de eliminação de arrastadeiras descartáveis quando existir. | - | - | A área prevista deve garantir a funcionalidade da sala considerando o volume de sujos e tempo de permanência. |
+| Área de reprocessamento (*)Sala de descontaminação e) f) | Para limpeza e desinfeção de dispositivos médicos de uso múltiplo. | - | - | A área mínima deve garantir a funcionalidade e segurança em todas as fases do reprocessamento dos dispositivos médicos. |
+| Área de reprocessamento (*)Sala limpa d) | Com esterilizador de tipo adequado e ligação à sala de descontaminação por guichet ou por máquina de lavar com duas portas | - | - | e) |
+| Zona de roupa limpa | Armazenagem | - | - | Arrumação em armário/estante/carro |
+| Zona de material de consumo | Armazenagem | - | - | Arrumação em armário/estante/carro |
+| Zona de material de uso clínico | Armazenagem | - | - | Arrumação em armário/estante/carro |
+| Sala de equipamento | Armazenagem | 8 | - | Uma sala por 60 camas |
+| Material de limpeza | Armazenagem | - | - | - |
+
+(*) Pode ser partilhada com outro módulo de 30 camas.
+
+(**) Obrigatória a existência de, pelo menos, dois quartos individuais por unidade de 30 camas ou piso de internamento.
+
+a) Não é exigível a existência de instalação sanitária privativa nos quartos ou enfermarias de unidades já existentes à data de publicação no Diário da República da presente portaria.
+
+b) Mínimo uma IS com retrete, lavatório e duche por cada seis camas.
+
+c) Deve estar localizado em lugar recatado e que permita a saída de cadáveres do edifício, através de circuito separado do acesso de doentes e ou visitas, não sendo obrigatória a sua localização integrado na área de internamento.
+
+d) Aplicam-se os comentários do anexo sobre reprocessamento de equipamentos médicos.
+
+e) A sala limpa é exigível quando a unidade não utilize exclusivamente material descartável, não dispuser de serviços centralizados de esterilização ou recurso ao exterior. Deve estar separada da sala de descontaminação por divisória integral até ao teto (ou teto falso), sendo admissível a existência de uma porta de comunicação.
+
+f) A sala de descontaminação é exigível quando a unidade não utilizar exclusivamente material descartável.
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 327/2025/1 - Diário da República n.º 192/2025, Série I de 2025-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/327-2025-938108822), em vigor a partir de 2025-10-07
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 174/2025/1 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/174-2025-914713268), em vigor a partir de 2025-04-12
+
+## Anexo IV — (a que se refere o artigo 19.º)
+
+Urgência
+
+(se existir)
+
+| Designação | Função do compartimento | Área útil mínima (m2) | Largura mínima (m) | Observações |
+| --- | --- | --- | --- | --- |
+| Área de acolhimento |  |  |  |  |
+| Receção/secretaria | Secretaria com zona de atendimento de público | – | – |  |
+| Zona de espera | Para doentes e acompanhantes junto à receção/secretaria: | – | – | Junto à receção/secretaria. |
+|  | Para adultos |  |  |  |
+|  | Para crianças (caso exista pediatria) |  |  |  |
+| Instalação sanitária de público | - | – | – | Separada por sexos, mais uma acessível a pessoas com mobilidade condicionada.Com fraldário, se houver pediatria. |
+| Área clínica/técnica |  |  |  |  |
+| Sala de reanimação/emergência | Aplicação de técnicas de emergência | 25 | 4 | Com acesso direto a partir do vestíbulo junto à entrada de ambulâncias. |
+| Zona de inaloterapia | Para tratamentos com aerossóis | 2/posto | – | Pode ser constituída em boxes ou integrada na sala de recuperação. |
+| Gabinete de consulta | Observação, pré-diagnóstico e priorização do atendimento. | 14 | 2,6 | - |
+| Sala de observação (SO) | Permanência temporária de doentes, após observação/tratamento, com posto de vigilância de enfermagem. | 30 | – | Sempre que o número de camas for superior a duas, haverá um acréscimo na respetiva área de 10 m2/cama. |
+| Sala de trabalho de enfermagem | Realização de atividades de enfermagem, anexa à sala de observação. | 12 | – | - |
+| Sala de tratamentos | Para tratamentos | 16 | 3,5 | Facultativa. |
+| Sala de recuperação | Restabelecimento de doentes após tratamentos, pequenas cirurgias ou aguardando resultado de exames | 4/cadeirão | – | Cadeirões separados por cortinas. |
+| Sala de pequena cirurgia/ tratamentos | Para intervenções cirúrgicas com anestesia local, pensos e outros tratamentos | 24 | 2,6 | Sem necessidade de cuidados especiais de recobro. |
+| Zona de desinfeção de pessoal | - | - | - | De preferência em área aberta, contígua à sala de pequena cirurgia. |
+| Sala de gessos | Para gessos e outros tratamentos | 18 | 3,5 | Exigível nos casos em que não é utilizado gesso sintético. |
+| Sala de raios X | - | – | – | Caso não exista sala de raios X de urgência. |
+| Banho assistido | Higiene do doente em cadeira ou maca | 10 | 2,8 | Permitindo o banho de crianças (caso exista pediatria). |
+| Área de pessoal |  |  |  |  |
+| Instalação sanitária de pessoal | - |  | – | - |
+| Sala de pessoal | Pausa de pessoal | – | – | Facultativo. |
+| Vestiário de pessoal | - | – | – | Com zona de cacifos e chuveiros.Facultativo (caso seja centralizado para toda a unidade). |
+| Área logística |  |  |  |  |
+| Copa | Receção e conferência de dietas. Preparação de refeições ligeiras | 8 | – | - |
+| Sala de lavagem e desinfeção de arrastadeiras | - | – | – | Dispensável quando a unidade utilizar arrastadeiras descartáveis. |
+| Sala de sujos e despejos | Para arrumação temporária de sacos de roupa suja e de resíduos, de despejos e máquina de eliminação de arrastadeiras descartáveis quando existir. | – | – | A área prevista deve garantir a funcionalidade da sala considerando o volume de sujos e tempo de permanência. |
+| Área de reprocessamentoSala de descontaminaçãoa) | Para limpeza e desinfeção de dispositivos médicos de uso múltiplo | – | – | A área mínima deve garantir a funcionalidade e segurança em todas as fases do reprocessamento dos dispositivos médicos. |
+| Área de reprocessamentoSala limpaa) | Com esterilizador de tipo adequado e ligação à zona de descontaminação por guichet ou por máquina de lavar com duas portas. | – | – | b) c) |
+| Zona de roupa limpa | Armazenagem | – | – | Arrumação em armário/estante/carro. |
+| Zona de material de consumo | Armazenagem | – | – | Arrumação em armário/estante/carro. |
+| Zona de material de uso clínico | Armazenagem | – | – | Arrumação em armário/estante/carro. |
+| Sala de equipamento | Armazenagem | – | – | - |
+| Material de limpeza | Armazenagem | – | – | - |
+
+a) Aplicam-se os comentários do anexo sobre reprocessamento de equipamentos médicos.
+
+b) A zona limpa é exigível quando a unidade não utilize exclusivamente material descartável, não dispuser de serviços centralizados de esterilização ou recurso ao exterior.
+
+c) Deve estar separada da zona de descontaminação por divisória integral até ao teto (ou teto falso), sendo admissível a existência de uma porta de comunicação.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 174/2025/1 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/174-2025-914713268), em vigor a partir de 2025-04-12
+
+## Anexo V — (a que se refere o artigo 19.º)
+
+Bloco operatório
+
+(se existir)
+
+Compartimentos a considerar:
+
+| Designação | Função do compartimento | Área útil mínima (m2) | Largura mínima (m) | Observações |
+| --- | --- | --- | --- | --- |
+| Área de acolhimento |  |  |  |  |
+| Receção/secretaria a) | Secretaria com zona de atendimento de público | - | - | - |
+| Vestiário de utentes a) | Para utentes da cirurgia de ambulatório, com instalação sanitária e cacifos | 10 + 4 | - | Mínimo duas cabines, pelo menos uma deve ser acessível a pessoas de mobilidade condicionada. Pode ser organizado em boxes, em zona comum à recuperação final, desde que exista separação de circuitos e IS dedicada, sendo que neste caso a recuperação final se localizará fora do bloco operatório, com transfer direto para o bloco ou, se noutro local ou piso, o doente realizará o circuito em cama ou cadeira de rodas, sem atravessar serviços de internamento. |
+| Zona de espera a) | Para utentes e acompanhantes:- Para adultos- Para crianças (se houver pediatria) | - | - | Junto à receção/secretaria |
+| Instalação sanitária de público a) | - | - | - | Acessível a pessoas de mobilidade condicionada; |
+| Gabinete de consulta | Para avaliação pré-operatória de doentes | 12 | 2,6 | Pode estar localizado na Consulta Externa |
+| Sala de observação e tratamentos | Para observação e preparação de doentes e tratamentos no pós-operatório | 16 | 3,5 | Pode estar localizado na Consulta Externa |
+| Área clínica/técnica de cirurgia |  |  |  |  |
+| Transfer | Transferência do doente da zona externa do bloco para a zona interna, com sinalização visual no pavimento. | - | - | - |
+| Zona de desinfeção de pessoal | Lavagem e desinfeção pré-operatória | - | - | De preferência em área aberta, contígua à sala de operações |
+| Sala de anestesia | Indução anestésica | 14 | - | Facultativa |
+| Sala de operações b) | Classe A - cirurgia minor com anestesia local ou loco-regional a) | 16 | 3,5 | - |
+|  | Classe B - Cirurgia major com anestesia loco-regional a) | 24 | 4,5 |  |
+|  | Para cirurgia de ambulatório major com anestesia geral com suporte ventilatório (classe C) e cirurgia convencional. | 36 | 5,5 |  |
+| Área clínica/técnica de recuperação |  |  |  |  |
+| Unidade de cuidados pós-anestésicos (UCPA), com posto de controlo. | Recuperação pós-operatória e controlo dos utentes com bancada de trabalho de enfermagem no interior da sala | 12/cama10 postos de controlo | 3/cama (*) | Mínimo: 1,5 cama/sala operações. Para cirurgia com internamento e cirurgia de ambulatórioClasse A - não exigida exceto nos casos em que se realizem cirurgias com anestesia loco-regional.A UCPA poderá ficar localizada fora do bloco operatório em zona adjacente e no mesmo piso. O posto de controlo pode ser partilhado pela UCPA e sala de recuperação quando o compartimento seja comum, dispor de visibilidade para ambas e assegurar a visibilidade para todos os postos. |
+| Sala de recuperação c) | Para recuperação final | 10/cama4/cadeirão |  | 2 camas/sala de operações ou 3 cadeirões/sala de operações. Exigível apenas se o bloco funcionar também para cirurgia de ambulatório. |
+| Instalação sanitária de utentes a) | - | - | - | Acessível a pessoas de mobilidade condicionada. |
+| Área de pessoal |  |  |  |  |
+| Vestiário de pessoal | Para higiene do pessoal do bloco e mudança para roupa própria à função. Desenhado de forma a minimizar os cruzamentos entre a zona externa e a zona interna | - | - | Com zona de cacifos, instalação sanitária e chuveiros para cada sexo, com acesso direto à zona operatória. |
+| Sala de pessoal | Pausa de pessoal | - | - | Facultativo. |
+| Gabinete de trabalho | Trabalho de médico, enfermeiro e reuniões | - | - | Facultativo. |
+| Área logística |  |  |  |  |
+| Copa a) | Receção e conferência de dietas. Preparação de refeições ligeiras | - | - | Área mínima deve garantir a funcionalidade da sala e dos equipamentos. |
+| Transfer de material | - | - | - | Entrada de material vindo do exterior do bloco, por guichet ou armário de passagem. |
+| Zona de lavagem ou desinfeção de camas e tampos | - | - | - | Facultativo |
+| Sala de lavagem e desinfeção de arrastadeiras | - | - | - | Dispensável quando a unidade utilizar arrastadeiras descartáveis. |
+| Sala de sujos e despejos | Para arrumação temporária de sacos de roupa suja e de resíduos, de despejos e máquina de eliminação de arrastadeiras descartáveis quando existir | - | - | Área mínima deve garantir a funcionalidade da sala considerando o volume de sujos e tempo de permanência. |
+| Zona de esterilização rápida | De apoio às salas de operações, para esterilizador tipo flash | - | - | Facultativo. |
+| Área de reprocessamentoSala de descontaminação d) | Para limpeza e desinfeção, de dispositivos médicos de uso múltiplo | - | - | Área mínima deve garantir a funcionalidade e segurança em todas as fases do reprocessamento dos dispositivos médicos.A sala de descontaminação é exigível quando a unidade não utilizar exclusivamente material descartável |
+| Área de reprocessamentoSala limpa d) | Com esterilizador de tipo adequado e ligação à sala de descontaminação por guichet ou por máquina de lavar com duas portas | - | - | e) |
+| Zona de roupa limpa | Armazenagem | - | - | Arrumação em armário/estante/carro. |
+| Zona de material de consumo | Armazenagem | - | - | Arrumação em armário/estante/carro. |
+| Zona de material de uso clínico | Armazenagem | - | - | Arrumação em armário/estante/carro. |
+| Zona de medicamentos | Armazenagem | - | - | Arrumação em armário/estante/carro. |
+| Zona de produtos esterilizados | Armazenagem | - | - | Arrumação em armário/estante/carro. |
+| Sala de equipamento | Armazenagem | - | - |  |
+| Sala de material de limpeza | Armazenagem | - | - | - |
+
+(*) Aceitável largura inferior em unidades já existentes e em funcionamento à data da publicação do presente diploma.
+
+a) Compartimentos a considerar quando o bloco operatório for também utilizado para cirurgia de ambulatório.
+
+b) O pavimento, paredes e tetos devem ser laváveis e desinfetáveis e sem juntas. O pavimento deve ser antiestático.
+
+c) Compartimento dispensável quando a UCPA tiver uma organização espacial que permita privacidade aos doentes ambulatórios.
+
+d) Aplicam-se os comentários do anexo sobre reprocessamento de equipamentos médicos.
+
+e) A sala limpa é exigível quando a unidade não utilize exclusivamente material descartável, não dispuser de serviços centralizados de esterilização ou recurso ao exterior. Deve estar separada da sala de desinfeção por divisória integral até ao teto (ou teto falso), sendo admissível a existência de uma porta de comunicação.
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 327/2025/1 - Diário da República n.º 192/2025, Série I de 2025-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/327-2025-938108822), em vigor a partir de 2025-10-07
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 174/2025/1 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/174-2025-914713268), em vigor a partir de 2025-04-12
+
+## Anexo VI — (previsto no artigo 19.º)
+
+Unidade de Cuidados Intermédios
+
+(se existir)
+
+Compartimentos a considerar:
+
+| Designação | Função do compartimento | Área útil mínima (m2) | Largura mínima (m) | Observações |
+| --- | --- | --- | --- | --- |
+| ÁREA CLÍNICA/TÉCNICA |  |  |  |  |
+| Sala aberta com posto de controlo | Alojamento de utentes em camas separadas por cortinas | 10/cama | – | Possibilidade de organização em boxes |
+|  | Controlo dos utentes com bancada de trabalho de enfermagem, no interior da sala | 10 | – | O posto de vigilância/registo deve ser centralizado e localizado em posição central de forma a favorecer a visualização e acesso imediato aos utentes. |
+| Instalação sanitária de utentes | - | – | – | Acessível a pessoas de mobilidade condicionada. |
+| Área de pessoal (*) |  |  |  |  |
+| Instalação sanitária de pessoal | - | – | – |  |
+| Sala de pessoal | Pausa de pessoal | – | – | Facultativo. |
+| Vestiário de pessoal | - | – | – | Com zona de cacifos. Facultativo caso seja centralizado para toda a unidade. |
+| Área logística (*) |  |  |  |  |
+| Copa | Receção e conferência de dietas. Preparação de refeições ligeiras. | – | – | A área prevista deve garantir a funcionalidade da sala e dos equipamentos. |
+| Sala de lavagem e desinfeção de arrastadeiras | - | – | – | Dispensável quando a unidade utilizar arrastadeiras descartáveis. |
+| Sala de sujos e despejos | Para arrumação temporária de sacos de roupa suja e de resíduos, de despejos e máquina de eliminação de arrastadeiras descartáveis quando existir. | – | – | A área prevista deve garantir a funcionalidade da sala considerando o volume de sujos e tempo de permanência. |
+| Área de reprocessamentoSala de descontaminaçãoa) | Para limpeza e desinfeção de dispositivos médicos de uso múltiplo | – | – | A área mínima deve garantir a funcionalidade e segurança em todas as fases do reprocessamento dos dispositivos médicos. |
+| Área de reprocessamentoSala limpaa) | Com esterilizador de tipo adequado e ligação à zona de descontaminação por guichet ou por máquina de lavar com duas portas. | – | – | b) |
+| Zona de roupa limpa | Armazenagem | – | – | Arrumação em armário/estante/carro. |
+| Zona de material de consumo | Armazenagem | – | – | Arrumação em armário/estante/carro. |
+| Zona de material de uso clínico | Armazenagem | – | – | Arrumação em armário/estante/carro. |
+| Sala de equipamento | Armazenagem | – | – |  |
+| Material de limpeza | Armazenagem | – | – | - |
+
+a) Aplicam-se os comentários do anexo sobre reprocessamento de equipamentos médicos.
+
+b) A sala limpa é exigível quando a unidade não utilize exclusivamente material descartável, não dispuser de serviços centralizados de esterilização ou recurso ao exterior. Deve estar separada da sala de descontaminação por divisória integral até ao teto (ou teto falso), sendo admissível a existência de uma porta de comunicação.
+
+(*) Pode ser partilhada com os cuidados intensivos ou com internamento, caso esteja localizada neste espaço.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 174/2025/1 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/174-2025-914713268), em vigor a partir de 2025-04-12
+
+## Anexo VII — (a que se refere o artigo 19.º)
+
+Unidade de cuidados intensivos
+
+(se existir)
+
+Compartimentos a considerar:
+
+| Designação | Função do compartimento | Área útil mínima (m2) | Largura mínima (m) | Observações |
+| --- | --- | --- | --- | --- |
+| Área de acolhimento (*) |  |  |  |  |
+| Zona de entrada com secretariado | Secretaria com zona de atendimento de público | – | – | Facultativo. |
+| Gabinete de apoio | Apoio a familiares, leitura de exames e informação clínica | – | – | - |
+| Área clínica/técnica |  |  |  |  |
+| Antecâmara | De acesso à zona de doentes para mudança de roupa | – | – | - |
+| Sala aberta com posto de controlo | Alojamento de utentes em camas separadas por cortinas ou biombos | 20/cama | – | Possibilidade de organização em boxes. |
+|  | Controlo dos utentes com bancada de trabalho de enfermagem, no interior da sala. | 10 | – | O posto de vigilância/registo deve ser centralizado e localizado em posição central de forma a favorecer a visualização e acesso imediato aos utentes. |
+| Quarto de isolamento | Alojamento de um utente, com antecâmara de entrada, envidraçado para a sala aberta | 20 + 5 | – | - |
+| Gabinete | Trabalho de médico e/ou enfermeiro | – | – | - |
+| Área de pessoal (*) |  |  |  |  |
+| Instalação sanitária de pessoal | - | – | – | - |
+| Sala de pessoal | Pausa de pessoal | – | – | Facultativo |
+| Vestiário de pessoal | - | – | – | Com zona de cacifos. Facultativo caso seja centralizado para toda a unidade. |
+| Área logística |  |  |  |  |
+| Sala de lavagem e desinfeção de arrastadeiras (*) | - | – | – | Dispensável quando a unidade utilizar arrastadeiras descartáveis. |
+| Sala de sujos e despejos | Para arrumação temporária de sacos de roupa suja e de resíduos, de despejos e máquina de eliminação de arrastadeiras descartáveis quando existir. | – | – | A área prevista deve garantir a funcionalidade da sala considerando o volume de sujos e tempo de permanência. |
+| Área de reprocessamento (*)Sala de descontaminaçãoa) | Para limpeza e desinfeção de dispositivos médicos de uso múltiplo | – | – | A área prevista deve garantir a funcionalidade e segurança em todas as fases do reprocessamento dos dispositivos médicos. |
+| Área de reprocessamento (*)Sala limpaa) | Com esterilizador de tipo adequado e ligação à zona de descontaminação por guichet ou por máquina de lavar com duas portas | – | – | b) |
+| Zona de roupa limpa | Armazenagem | – | – | Arrumação em armário/estante/carro. |
+| Zona de material de consumo | Armazenagem | – | – | Arrumação em armário/estante/carro. |
+| Zona de material de uso clínico | Armazenagem | – | – | Arrumação em armário/estante/carro. |
+| Sala de equipamento (*) | Armazenagem | – | – | - |
+| Material de limpeza (*) | Armazenagem | – | – | - |
+
+(*) Pode ser partilhada com os cuidados intermédios
+
+a) Aplicam-se os comentários do anexo sobre reprocessamento de equipamentos médicos.
+
+b) A sala limpa é exigível quando a unidade não utilize exclusivamente material descartável, não dispuser de serviços centralizados de esterilização ou recurso ao exterior. Deve estar separada da zona de desinfeção por divisória integral até ao teto (ou teto falso), sendo admissível a existência de uma porta de comunicação.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 174/2025/1 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/174-2025-914713268), em vigor a partir de 2025-04-12
+
+## Anexo VIII — (a que se refere o artigo 19.º)
+
+Unidade de reprocessamento de dispositivos médicos de uso múltiplo
+
+(se existir)
+
+Compartimentos a considerar:
+
+| Designação | Função do compartimento | Área útil mínima (m2) | Largura mínima (m) | Observações |
+| --- | --- | --- | --- | --- |
+| Área técnica - Receção |  |  |  |  |
+| Área de descontaminação | Triagem, lavagem, desinfeção e secagem dos materiais. Ligação à sala de trabalho através de máquinas de lavagem e desinfeção de dupla porta ou guichet | – | – | - |
+| Adufa | De acesso às zonas limpas (inspeção e embalagem) para mudança de roupa, com lavatório | – | – | Caso exista ligação entra a área de descontaminação e a zona de inspeção e embalagem. |
+| Área técnica - Inspeção e Embalagem |  |  |  |  |
+| Sala de trabalho | Inspeção, teste, preparação e embalagem de materiais | – | – | - |
+| Sala de preparação de têxteis (*) | Preparação de têxteis para esterilizar | – | – | - |
+| Área técnica - Esterilização |  |  |  |  |
+| Barreira sanitária | Barreira física, entre a zona de embalagem e o armazém de esterilizados, integrando autoclaves. | – | – | - |
+| Adufa | De ligação entre a zona de preparação e embalagem e o armazém de esterilizados. | – | – | - |
+| Área técnica - Expedição |  |  |  |  |
+| Armazém de esterilizados | Armazenamento de material esterilizado para expedição. | – | – | - |
+| Área de pessoal |  |  |  |  |
+| Gabinete | Trabalho de responsável, com visualização para a Área de inspeção/embalagem. | – | – | Facultativo. |
+| Instalação Sanitária de pessoal | - |  | – | - |
+| Vestiário de pessoal | - | – | – | Com zona de cacifos, instalação sanitária e chuveiros. |
+| Área logística |  |  |  |  |
+| Sala de sujos e despejos | Para arrumação temporária de sacos de roupa suja e de resíduos, de despejos | – | – | A área prevista deve garantir a funcionalidade da sala considerando o volume de sujos e tempo de permanência. |
+| Zona de roupa limpa | Armazenagem | – | – | Arrumação em armário/estante/carro. |
+| Zona de material de consumo | Armazenagem | – | – | Arrumação em armário/estante/carro. |
+| Material de limpeza | Armazenagem | – | – | A área da descontaminação deve dispor de material de limpeza dedicado/exclusivo. |
+
+(*) Se existir.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 174/2025/1 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/174-2025-914713268), em vigor a partir de 2025-04-12
+
+## Anexo IX — (a que se refere o artigo 19.º)
+
+Aquecimento, ventilação e ar condicionado (AVAC)
+
+Requisitos mínimos a considerar:
+
+1) Todos os compartimentos devem satisfazer as condições ambiente de temperatura e de humidade previstas na legislação em vigor.
+
+2) Em termos de exigências associadas aos equipamentos de renovação e de extração de ar (caudal de ar novo, caudal de extração ou níveis de filtragem, a título exemplificativo), deve ser verificado o maior dos requisitos que resultem da interseção do exigido na presente portaria e na legislação em vigor na área dos edifícios no âmbito da eficiência energética.
+
+3) Os equipamentos de climatização dos espaços interiores devem recorrer a permuta térmica ar-água.
+
+Consulta Externa/Serviço de Atendimento Permanente (SAP)
+
+|  | Sala de observação/tratamentos | Zona de inaloterapia | Sala de observação/recuperação (SAP) |
+| --- | --- | --- | --- |
+| Tratamento | VC/UI * | VC/UI * | VC/UI * |
+| Caudal de ar novo | ** (1) | ** (1) | ** (1) |
+| Condições ambiente | Verão: máximo 25 °CInverno: mínimo 22 °C | Verão: máximo 25 °CInverno: mínimo 22 °C | Verão: máximo 25 °CInverno: mínimo 20 °C |
+| Extração | Sim, forçada (2) | Sim, forçada (2) | Sim, forçada (2) |
+| Sobrepressão/subpressão | Subpressão | - | - |
+|  | Sala de gessos | Área de reprocessamentoSala de descontaminação (se realizar alguma fase do processo de esterilização ou desinfeção de alto nível) | Área de reprocessamentoSala limpa (se realizar alguma fase do processo de esterilização ou desinfeção de alto nível) |
+| Tratamento | VC/UI * | VC/UI * | VC/UI * |
+| Ar novo | ** (1) | 10 ren/h (1) | 10 ren/h (1) |
+| Condições ambiente | Verão: máximo 25 °CInverno: mínimo 22 °C | - | - |
+| Extração | Sim, forçada (2) | Sim, forçada (2) | Sim, forçada (2) |
+| Sobrepressão/subpressão | Subpressão | Subpressão | Sobrepressão |
+|  | Gabinete de consulta | Sala de prova de esforço | - |
+| Tratamento | VC/UI * | VC/UI * | - |
+| Ar novo | ** (1) | 4 ren/h | - |
+| Condições ambiente | Verão: máximo 25 °CInverno: mínimo 22 °C | 21 °C a 24 °C | - |
+| Extração | Sim, forçada (2) | Específica da zona | - |
+| Sobrepressão/subpressão | Equilíbrio | Subpressão | - |
+|  | Sala de Pequena Cirurgia (4) | Sala de exames endoscópicos | Sala de preparação/recuperação (de apoio à sala de exames endoscópicos) |
+| Tratamento | UTA e ventilador privativos - (3)(13)(14) | UTA e ventilador privativos (14) | VC/UI * |
+| Filtragem suplementar | Sim, terminal; H13 | Sim, terminal, H13 | Não |
+| Humidificação | Sim, por vapor | Não | Não |
+| Caudal de ar novo mínimo | 100 m3/h.pessoa ou 5 ren/h no mínimo | 100 m3 /h. pessoa (1) | 35 m3/h.m2 (1), (2) |
+| Insuflação | Difusores com filtragem terminal | Difusores com filtro terminal | - |
+| Sobrepressão/subpressão | Sobrepressão (15± 5 Pa) | Sobrepressão | Sobrepressão |
+| Recirculação | 20 rec/h | 6 rec/h | Sim |
+| Diferencial de temperatura | Máximo 8 °C em frio | máximo: 8 °C em frio | - |
+| Condições ambiente | 20-26 °C; 30 a 60 % + 5 % HR | 20 a 25 °C: 30 a 60 % HR | 20 a 25 °C |
+
+Internamento
+
+|  | Quartos ou enfermarias | Copa/refeitório |
+| --- | --- | --- |
+| Tratamento | VC/UI * | VC/UI * |
+| Caudal de ar novo | ** (1) | ** (1) |
+| Condições ambiente | Verão: máximo 25 °CInverno: mínimo 20 °C | Verão: máximo 25 °CInverno: mínimo 22 °C |
+| Extração | Sim, forçada (2) | Sim, forçada (2) |
+| Sobrepressão/subpressão | Subpressão (conj. enfermaria/IS) | Subpressão |
+
+a) A sala de tratamento do internamento deve cumprir os mesmos requisitos de AVAC da sala de observação/tratamento da Consulta Externa.
+
+Serviço de Urgências
+
+|  | Sala de reanimação/recuperação | Banho assistido | Zona de inaloterapia |
+| --- | --- | --- | --- |
+| Tratamento | VC/UI * | VC/UI * | VC/UI * |
+| Caudal de ar novo | ** (1) | ** (1) | ** (1) |
+| Condições ambiente | Verão: máximo 25 °CInverno: mínimo 20 °C | Verão: máximo 25 °CInverno: mínimo 20 °C | Verão: máximo 25 °CInverno: mínimo 20 °C |
+| Extração | 10 ren./h - (2) | 10 ren./h - (2) | Sim, forçada (2) |
+| Sobrepressão/subpressão | Subpressão | Subpressão | - |
+
+a) O gabinete de consulta, sala de gesso e a sala de pequena cirurgia do Serviço de Urgências devem cumprir os mesmos requisitos do SAP.
+
+|  | Sala de operações Classe A | Sala de operações (Classes B, C e Convencional) | UCPA e sala de recuperação (c) |
+| --- | --- | --- | --- |
+| Tratamento | UTA e ventilador privativos - (3)(13)(14) | UTA e ventilador privativos - (3)(13)(14) | UTA e ventilador de extração privativos (3)(13)(14) |
+| Filtragem do ar | Pré-filtro ISO ePM10 ≥ 50 % e filtro ISO ePM1 ≥ 80 % | Pré-filtro ISO ePM10 ≥ 50 % e filtro ISO ePM1 ≥ 80 % | Pré-filtro ISO ePM10 ≥ 50 % e filtro ISO ePM1 ≥ 80 % |
+| Filtragem suplementar | Sim, terminal; H14 | Sim, terminal; H14 | Sim, terminal; H13 (4) |
+| Humidificação | Sim, por vapor | Sim, por vapor | Sim, por vapor |
+| Sobrepressão/subpressão | Sobrepressão (15Pa) (5) | Sobrepressão 15 Pa (5) | Sobrepressão |
+| Insuflação | Difusores c/filtroTerminal ou teto filtrante | Difusores c/filtroTerminal ou teto filtrante | Difusores |
+| Caudal de ar recirculado | 20 rec/h | 20 rec/h | 10 rec/h |
+| Recirculação | Sim | Sim | Sim |
+| Caudal de ar novo | Mínimo de 600 m3/h | Mínimo de 800 m3/h | 50 m3/h. p |
+| Diferencial de temperatura | Máximo 8 °C em frio | Máximo 8 °C em frio | Máximo: 8 °C em frio |
+| Condições ambiente | 20-26 °C; 30 a 60 % +5 % HR | 20-26 °C; 30 a 60 % + 5 % HR | 23 a 25 °C: 40 a 60 % HR |
+
+Unidade de Cuidados Intensivos/Intermédios
+
+|  | Sala aberta/quartos | Quarto de Isolamento (de proteção) | Quarto de Isolamento (de contenção) |
+| --- | --- | --- | --- |
+| Tratamento | UTA e ventilador privativos - (3)(13)(14) | UTA e ventilador privativos (3)(13)(14) | UTA e ventilador privativos (3)(13)(14) |
+| Filtragem do ar | Pré-filtro ISO ePM10 ≥ 50 % e filtro ISO ePM1 ≥ 80 % | Pré-filtro ISO ePM10 ≥ 50 % e filtro ISO ePM1 ≥ 80 % | Pré-filtro ISO ePM10 ≥ 50 % e filtro ISO ePM1 ≥ 80 % |
+| Filtragem suplementar | Sim, terminal; H13 (4) | Sim, terminal; H13 (4) | Sim, terminal; mínima H13 na extração (4) |
+| Sobrepressão/subpressão | Sobrepressão | 30 Pa (O quarto está em sobrepressão relativamente à antecâmara).15 Pa (a antecâmara está em sobrepressão relativamente ao corredor). | -30 Pa (o quarto está em subpressão relativamente ao corredor).-15 Pa (a antecâmara está em subpressão relativamente ao corredor). |
+| Insuflação | Difusores | Difusores | Difusores |
+| Caudal de ar recirculado | 10 rec/h | 10 rec/h | Não |
+| Recirculação | Sim | Sim | Não (6) |
+| Caudal de ar novo | 100 m3/h. por pessoa | ≥100 m3/h. por doente ou 2 Ren/h | 10 Ren/h |
+| Diferencial de temperatura | Máximo: 8.º C em frio | Máximo: 8 °C em frio | Máximo: 8 °C em frio |
+| Condições ambiente | 23-25 °C; 30 a 60 % ± 5 HR | 23 a 25.º C; 40 a 60 % HR | 23 a 25 °C; 40 a 60 % HR |
+
+Nota. - A copa tem os mesmos requisitos da copa do Internamento.
+
+Farmácia
+
+|  | Armazém Geral (caso exista) | Sala de Citostáticos (caso exista) | Salas de Preparação de Estéreis e de Preparação de Nutrição Parentérica (caso exista) |
+| --- | --- | --- | --- |
+| Tratamento | VC/UI* | UTA e ventilador de extração privativos (13)(14) | UTA e ventilador de extração privativos (13)(14) |
+| Filtragem suplementar | - | Sim; terminal; mínima H14 | Sim; terminal; mínima H14 |
+| Caudal de ar novo | 2 ren/h (1) | 20 Ren/h para as salas de classe B (mínimo) | 10 m3/h.m2 |
+| Condições ambiente | Verão: máximo 25 °CInverno: mínimo 18 °C | Verão: máximo 25 °CInverno: mínimo 20 °C | Verão: máximo 25 °CInverno: mínimo 20 °C |
+| Humidade relativa | - | 45±5 % a 60±5 % HR | 45±5 % a 60±5 % HR |
+| Extração | Sim, forçada (2) | Sim, forçada específica de zona (6) (15) | Específica da sala |
+| Sobrepressão/subpressão | Subpressão | Subpressão (7)-2,5 a - 5Pa | Sobrepressão 10 a 15 Pa (12) |
+| Classe da sala | - | B em conformidade com a publicação “PIC/S” - Guide to Good Practices for the Preparation of Medicinal Products in healthcare establishments (10) | B em conformidade com a publicação “PIC/S” - Guide to Good Practices for the Preparation of Medicinal Products in Healthcare Establishments (12) |
+
+| Compartimento de Inflamáveis (8) |  |
+| --- | --- |
+| Extração | Extração forçada (10 a 15 ren/h), com grelhas localizadas em ponto baixo e em ponto alto. |
+| Ventilador | Privativo, motor em condições de montagem antideflagrante. |
+| Admissão de ar | Do interior, garantindo o varrimento total pela extração com 2 grelhas em material intumescente, desniveladas e interligadas por caixa de ar. |
+| Rejeição | Para o exterior |
+
+Unidade de Reprocessamento de Dispositivos Médicos de Uso Múltiplo
+
+|  | Área de descontaminação | Áreas limpas | Autoclave a óxido de etileno |
+| --- | --- | --- | --- |
+| Tratamento | UTA e ventilador de extração privativos (14) | UTA e Ventilador de extração específico (a abranger as duas áreas limpas) (3)(13)(14) | Extração forçada por ventilador privativo. (10 a 15 ren/h), em montagem antideflagrante, abrangendo a zona de carga técnica e descarga do autoclave e com rejeição para o exterior através de filtro. |
+| Filtragem do ar | Pré-filtro ISO ePM10 ≥ 50 % e filtro ISO ePM1 ≥ 50 % | Pré-filtro (ISO ePM10 ≥ 50 %) e filtro (ISO ePM1 ≥ 80 % |  |
+| Filtragem suplementar | Não | Sim, terminal, H13 (4) |  |
+| Sobrepressão/subpressão | Subpressão (5) | Sobrepressão |  |
+| Insuflação | - | Difusores |  |
+| Caudal de ar recirculado | Não | 8 rec/h |  |
+| Recirculação | Não | Sim |  |
+| Caudal de ar novo | 8 ren/h | 10 m3/h.m2 |  |
+| Diferencial de temperatura | Máximo 8 °C em frio | Máximo: 8 °C em frio |  |
+| Condições ambiente | Verão: máximo 25 °CInverno: mínimo 18 °C30 % a 60 % HR | Verão: máximo 25 °CInverno: mínimo 20 °C30 % a 60 % HR |  |
+| Extração | Sim, forçada (2) | Sim, forçada (2) |  |
+
+| Ventilação - Compartimentos diversos |  |
+| --- | --- |
+| Nas salas de apoio com eventual produção de ambientes poluídos, serão aplicados sistemas de extração forçada de ar, devendo ser consideradas nesses casos as seguintes taxas de extração de ar. |  |
+| Sala de sujos e despejos | 10 ren/h |
+| Instalações sanitárias | Em conformidade com a legislação em vigor no SCE. |
+
+Observações: SCE - Sistema de Certificação Energética dos Edifícios.
+
+(*) VC - Ventiloconvector; UI - Unidade de indução.
+
+(**) Para os caudais mínimos de ar novo, aplica-se a legislação em vigor.
+
+(a) Aplicam-se os comentários do anexo sobre equipamento de desinfeção esterilização.
+
+(c) A sala de recuperação deve observar estas características sempre que esteja integrada no bloco operatório. Se a unidade de recuperação se encontrar em compartimento autónomo deve assegurar o cumprimento dos requisitos mínimos previstos para a sala de observação/recuperação prevista na consulta externa/SAP.
+
+Notas:
+
+(1) A UTAN a utilizar deve ter filtragem final mínima ISO ePM1 ≥ 50 % nas Consultas/SAP, Farmácia e Esterilização (zona suja). ISO ePM1 ≥ 80 %), na Urgência, BO, UCI, C. Intermédios, Cuidados Especiais e Esterilização (zona limpa).
+
+(2) Com sistemas de extração generalizados, o sistema de “sujos” deve ser independente do de “limpos”.
+
+(3) Recomenda-se que a UTA seja dotada de variador de velocidade, garantindo o caudal nominal.
+
+(4) Os filtros poderão estar montados fora da sala e com fácil acessibilidade.
+
+(5) As salas de operações devem estar em sobrepressão em relação aos seus espaços adjacentes, e estes em sobrepressão em relação aos restantes locais do B.O. No geral, o B.O. deve estar em sobrepressão em relação aos serviços adjacentes.
+
+(6) Filtragem na rejeição de ar. As extrações devem ficar localizadas longe das tomadas de ar em conformidade com o definido no SCE.
+
+(7) As câmaras de fluxo laminar, requerem admissão e rejeição próprias.
+
+(8) Com ligação direta ao exterior, com parede ou elemento fusível. Porta interior a abrir para fora, metálica.
+
+(9) A zona de inspeção teste e montagem, que deve estar em sobrepressão, será tratada pelo sistema descrito para a zona estéril.
+
+(10) No caso de ser instalada uma câmara de segurança biológica de classe II tipo B2 (exaustão total).
+
+(11) A sala de preparação deve estar em sobrepressão relativamente à antecâmara.
+
+(12) No caso de ser instalada uma câmara de fluxo laminar horizontal.
+
+(13) Quanto à seleção das unidades de tratamento de ar/novo, recomenda-se que as mesmas devem apresentar certificado de construção higiénica adequada à classe de risco do espaço a climatizar.
+
+(14) Privativo (Equipamento dedicado exclusivamente a um único compartimento/espaço), Específico (Equipamento dedicado a um conjunto específico de compartimentos ou serviço).
+
+(15) Caso não sejam utilizadas câmaras de fluxo laminar CFL_SB Classe III, (isolador), recomenda-se que o ventilador de extração seja mantido em funcionamento permanente. Apenas deve ser desligada se não for utilizada por longos períodos.
+
+Outros requisitos:
+
+Para os compartimentos não indicados, relativamente às condições ambiente (temperatura e humidade), aplica-se a legislação em vigor.
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 327/2025/1 - Diário da República n.º 192/2025, Série I de 2025-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/327-2025-938108822), em vigor a partir de 2025-10-07
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 174/2025/1 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/174-2025-914713268), em vigor a partir de 2025-04-12
+
+## Anexo X — (a que se refere o artigo 19.º)
+
+Gases Medicinais e Aspiração
+Requisitos mínimos a considerar:
+Número mínimo de tomadas a considerar:
+
+| Local | O2 | CO2 | N2O (1) | Aspiração (vácuo) | Ar comprimido respirável |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  | 400kPa | 800kPa |
+| Consulta |  |  |  |  |  |  |
+| Sala de observação/tratamentos | 1/sala | – | – | 1/sala | – | – |
+| Serviço de atendimento permanente |  |  |  |  |  |  |
+| Zona de inaloterapia | 1/posto | – | – | 1/posto | 1/posto | – |
+| Sala de observação/tratamentos | 1/sala | – | – | 1/sala | 1/sala | – |
+| Sala de gessos | 1/sala | – | 1/sala | 1/sala | – | 1/sala |
+| Sala de recuperação | 1/cama | – | – | 1/cama | 1/cama | – |
+| Internamento (exceto em unidades com internamento de psiquiatria) |  |  |  |  |  |  |
+| Quarto | 1/cama | – | – | 1/cama | 1/cama | – |
+| Sala de tratamentos | 1/sala | – | – | 1/sala | 1/sala | – |
+| UrgênciaÁrea clínica |  |  |  |  |  |  |
+| Sala de reanimação/emergência | 2/cama | – | – | 3/cama | 1/cama | 1/cama |
+| Zona de inaloterapia | 1/posto | – | – | 1/posto | 1/posto | – |
+| Sala de observação (SO) | 1/cama | – | – | 1/cama | 1/cama | – |
+| Sala de tratamentos | 1/sala | – | – | 1/sala | – | – |
+| Sala de recuperação | 1/cama | – | – | 1/cama | 1/cama | – |
+| Sala pequena cirurgia/tratamentos | 1/sala | – | 1/sala | 2/sala | 1/cama | – |
+| Sala de gessos (braço extensível ou suporte de teto) | 1/sala | – | 1/sala | 1/sala | – | 1/sala |
+| Bloco operatórioÁrea cirúrgica |  |  |  |  |  |  |
+| Sala de anestesia (caso exista) | 1/cama | – | 1/cama | 1/cama | 1/cama | – |
+| Sala de operações: |  |  |  |  |  |  |
+| Classe A (braço extensível ou suporte de teto) | 1/sala | – | – | 1/sala |  |  |
+| Classe B (braço extensível ou suporte de teto) | 1/sala | – | – | 1/sala | 1/sala |  |
+| Cirurgia convencional ou Classe C: |  |  |  |  |  |  |
+| Em suporte de teto para a cirurgia | – | 1/sala | – | 1/sala | – | 1/sala |
+| Em suporte de teto para a anestesia | 2/sala | – | 1/sala | 2/sala | 2/sala | – |
+| Área de recuperação |  |  |  |  |  |  |
+| Unidade de cuidados pós-anestésicos (UCPA) | 2/cama | – | – | 2/cama | 1/cama | – |
+| Sala de recuperação: | 1/posto | – | – | 1/posto | 1/posto |  |
+| Unidade de cuidados intermédios |  |  |  |  |  |  |
+| Sala aberta | 1/cama | – | – | 1/cama | 1/cama | – |
+| Unidade de cuidados intensivos |  |  |  |  |  |  |
+| Sala aberta (braço extensível ou suporte de teto). | 2/cama | – | – | 2/cama | 2/cama | – |
+| Quarto de isolamento (braço extensível ou suporte de teto) | 2/cama | – | – | 2/cama | 2/cama | – |
+
+Outros requisitos:
+A central de vácuo deve ser fisicamente separada das restantes, e a extração do sistema deve cumprir as distâncias mínimas definidas no diploma do Sistema de Certificação Energética dos Edifícios (SCE). Caso a extração de vácuo esteja abaixo (mesmo alinhamento) de um local onde seja realizada a admissão de ar, deve-se garantir que a extração seja realizada a uma cota de pelo menos 3 m acima das admissões de ar.
+Se o ar comprimido respirável for produzido por compressores, a respetiva central deve de ser fisicamente separada das restantes.
+Todas as centrais devem ter uma fonte primária, uma fonte secundária e uma fonte de reserva, de comutação automática.
+Tomadas de duplo fecho, não intermutáveis de fluido para fluido.
+(1) Exigível, se a unidade não utilizar outro tipo de anestésico.
+A utilização do tubo de poliamida apenas deve ser permitida nas calhas técnicas, suportes de teto e colunas de teto, quando integrado pelo fabricante e desde que acompanhados dos respetivos certificados CE medicinal.
+Em todos os compartimentos onde se preveja a utilização de gases anestésicos devem existir tomadas para extração de gases anestésicos, associadas a central de extração, com duas bombas, sendo uma de serviço e outra de reserva.
+Caso existam ferramentas pneumáticas, o acionamento será obrigatoriamente assegurado por ar comprimido medicinal.
+Os cilindros de gases medicinais devem ser armazenados num compartimento próprio e exclusivo. Este compartimento deve prover adequada fixação, cobertura e ventilação aos cilindros, bem como a necessária proteção para um uso não autorizado.
+A entidade deve estar na posse da documentação que ateste a conformidade da instalação do sistema de distribuição de gases medicinais, nos termos da legislação em vigor.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 174/2025/1 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/174-2025-914713268), em vigor a partir de 2025-04-12
+
+## Anexo XI — (previsto no artigo 19.º)
+
+Instalações e equipamentos para confeção e distribuição de alimentação
+Requisitos mínimos a considerar:
+
+|  | Sem confeção própria (1) | Com confeção própria |
+| --- | --- | --- |
+| Copa de apoio | Sim | – |
+| Bloco de confeção | – | Sim |
+| Equipamento para lavagem de louça | – | Sim |
+| Equipamento adequado à preparação de alimentos | – | Sim |
+| Apanha-fumos, com sistema privativo de extração de ar | – | Sim |
+
+(
+
+1
+
+) Serviço integrado em unidade de saúde com outras valências, incluindo cozinha ou com contrato com entidade externa.
+Outros requisitos:
+As unidades com internamento com atendimento de doentes portadores de doenças infectocontagiosas, devem possuir máquina de lavar louça com programa de desinfeção.
+O equipamento descrito, bem como as respetivas bancadas de apoio, tem de ser construído em material que permita garantir as necessárias condições higiénicas de acordo com a legislação em vigor.
+O equipamento descrito deve ter capacidade adequada às necessidades da unidade de saúde a que se destina.
+
+## Anexo XII — (previsto no artigo 19.º)
+
+Equipamentos para tratamento de roupa
+
+|  | Sem tratamento de roupa (1) | Com tratamento de roupa |
+| --- | --- | --- |
+| Máquina lavadora-extratora | – | Sim |
+| Secador | – | Sim |
+| Máquina de lavar roupa com capacidade de desinfeção | Sim (2) | Sim (2) |
+
+(
+
+1
+
+) Serviço integrado em unidade de saúde com outras valências, incluindo lavandaria ou prestação de serviços por terceiros.
+(
+
+2
+
+) Para unidades com internamento com atendimento de doentes portadores de doenças infectocontagiosas, sendo a roupa acondicionada em sacos hidrossolúveis.
+Observação. - O equipamento descrito deve ter capacidade adequada às necessidades da unidade de saúde a que se destina.
+
+## Anexo XIII — (previsto no artigo 19.º)
+
+Equipamentos frigoríficos
+Requisitos mínimos a considerar:
+
+|  | Setor de alimentação | Setor médico |  |
+| --- | --- | --- | --- |
+| Sem confeção própria (1) | Com confeçãoprópria |  |  |
+| Frigorífico tipo doméstico com congelador independente | Sim | – |  |
+| Equipamento frigorífico com caraterísticas em conformidade com os produtos a que se destinam | – | Sim | – |
+| Frigorífico de modelo laboratorial próprio para a conservação de sangue, certificado para o efeito equipado com registador de temperatura e alarme | – |  | Sim |
+| Equipamento frigorífico para resíduos da cozinha |  | Sim |  |
+| Equipamento frigorífico para resíduos hospitalares (2) |  | – | Sim |
+| Equipamento frigorífico para medicamentos |  |  | Sim |
+
+(
+
+1
+
+) Serviço integrado em unidade de saúde com outras valências, incluindo cozinha ou com contrato com entidade externa.
+(
+
+2
+
+) Apenas nas condições prescritas na legislação em vigor.
+Observação. - O equipamento descrito deve ter capacidade adequada às necessidades da unidade de saúde a que se destina e ser alimentado em energia elétrica pela rede de socorro.
+
+## Anexo XIV — (previsto no artigo 19.º)
+
+Instalações e equipamentos elétricos
+
+As instalações e equipamentos elétricos devem satisfazer as regras e regulamentos aplicáveis e os seguintes requisitos mínimos:
+
+| Serviço/compartimento | Sistema de sinalização de chamada e alarme | Alimentação de energia de socorro (iluminação) (*) | Alimentação de energia de socorro (*) (tomadas de corrente e alimentações especiais). | Alimentação de energia de segurança médica (**) | Ligações equipotenciais, pavimentos antiestáticos e neutro isolado |
+| --- | --- | --- | --- | --- | --- |
+| Consultas e atendimento permanente |  |  |  |  |  |
+| Receção/secretaria | - | (b) | - | - | - |
+| Zona de espera | - | (b) | - | - | - |
+| IS público | (b) | (b) | - | - | - |
+| Gabinete de consulta | - | (b) | (b) | - | - |
+| Sala de observação/tratamentos | (b) | (b) | (b) | - | - |
+| Sala de prova de esforço | (b) | (b) | (b) | - | - |
+| Sala de pequena cirurgia | (b) | (b) | 10 tom | (c) + (h) | (e) + (g) |
+| Sala de endoscopia | (b) | (b) | (b) | (c) + (h) | (e) + (g) |
+| Sala de gessos | (b) | (b) | (b) | - | - |
+| Vestiário de pessoal | - | - | - | - | - |
+| Internamento |  |  |  |  |  |
+| Sala de estar/visitas | (b) | - | - | - | - |
+| IS público | (b) | (b) | - | - | - |
+| Refeitório | (b) | (b) | - | - | - |
+| Copa | - | (b) | (d) | - | - |
+| Gabinete de trabalho | - | (b) | - | - | - |
+| Quarto/enfermaria | (b) | (b) | 4 tom./cama | - | - |
+| IS doentes. | (b) | (b) | - | - | - |
+| Banho assistido | (b) | (b) | - | - | - |
+| Sala de trabalho de enfermagem (c/posto) | (b) | (b) | (b) | (i) |  |
+| Sala de tratamentos | (b) | (b) | (b) | - | - |
+| Urgência |  |  |  |  |  |
+| Receção/secretaria | - | (b) | (b) | - | - |
+| Zona de espera | - | (b) | - | - | - |
+| IS público | (b) | (b) | - | - | - |
+| Vestiários de pessoal | - | (b) | - | - | - |
+| Sala de reanimação/emergência | (b) | (b) | 8 tom | (c) + (h) | (e) + (g) |
+| Zona de inaloterapia | (b) | (b) | 2 tom. /posto | - | - |
+| Gabinete de consulta | - | (b) | (b) | - | - |
+| Sala de observação (SO) | (b) | (b) | (b) | - | - |
+| Sala de trabalho de enfermagem | (b) | (b) | (b) | - | - |
+| Sala de tratamentos | (b) | (b) | (b) | - | - |
+| Sala de pequena cirurgia | (b) | (b) | 10 tom. | (c) + (h) | (e) + (g) |
+| Zona de desinfeção de pessoal | - | (b) | - | - | - |
+| Sala de gessos | (b) | (b) | (b) | - | - |
+| Sala de raios X | - | (b) | (b) | - | (j) |
+| Banho assistido | (b) | (b) | - | - | - |
+| Copa | - | (b) | (d) | - | - |
+| Sala lavagem e desinfeção de arrastadeiras | - | (b) | - | - | - |
+| Sala de sujos e despejos | - | (b) | - | - | - |
+| Zona de roupa limpa | - | (b) | - | - | - |
+| Zona de material de consumo | - | (b) | - | - | - |
+| Sala de equipamento | - | (b) | - | - | - |
+| Sala de material de limpeza | - | (b) | - | - | - |
+| Bloco operatório |  |  |  |  |  |
+| Receção/secretaria | (f) | (b) | (b) | - | - |
+| IS público | (b) | (b) | - | - | - |
+| Vestiário de pessoal | - | (b) | - | - | - |
+| Vestiário de doentes | (b) | (b) | - | - | - |
+| Sala de espera | (b) | (b) | (b) | - | - |
+| Gabinete de consulta | - | (b) | (b) | - | - |
+| Área clínica/técnica de cirurgia |  |  |  |  |  |
+| Transfer | - | (b) | - | - | - |
+| Zona de desinfeção de pessoal | - | (b) | - | - | - |
+| Sala de anestesia | - | (b) | (b) | (c) | (e) + (g) |
+| Sala de operações | (b) | (b) | 12 tom. + alim./marquesa | (c) + (h) | (e) + (g) |
+| Área clínica/técnica de recuperação |  |  |  |  |  |
+| Unidade de cuidados pós-anestésicos | (b) | (b) | 6 tom./cama | (c) | (e) + (g) |
+| Posto de controlo | (b) | (b) | (b) | (c) | (e) + (g) |
+| Sala de recuperação | (b) | (b) | (b) | - | - |
+| Sala lavagem e desinfeção de arrastadeiras | - | (b) | - | - | - |
+| Sala de sujos e despejos | - | (b) | - | - | - |
+| Área de pessoal |  |  |  |  |  |
+| Gabinete | - | (b) | (b) | - | - |
+| Sala de pessoal | - | (b) | (d) | - | - |
+| Área logística |  |  |  |  |  |
+| Sala de equipamento | - | (b) | - | - | - |
+| Copa | - | (b) | (d) | - | - |
+| Zona de roupa limpa | - | (b) | - | - | - |
+| Zona de material de consumo | - | (b) | - | - | - |
+| Zona de material de uso clínico | - | (b) | - | - | - |
+| Sala de material de limpeza | - | (b) | - | - | - |
+| Unidade de cuidados intermédios |  |  |  |  |  |
+| Vestiário de pessoal | - | (b) | - | - | - |
+| Sala aberta | (b) | (b) | 8 tom./cama | (c) | (e) + (g)(***) |
+| Posto de controlo | (b) | (b) | (b) | (c) | (e) + (g) |
+| Instalação sanitária de doentes | (b) | (b) | - | - | - |
+| Copa | - | (b) | (d) | - | - |
+| Sala lavagem e desinfeção de arrastadeiras | - | (b) | - | - | - |
+| Sala de sujos e despejos | - | (b) | - | - | - |
+| Zona de material de consumo | - | (b) | - | - | - |
+| Sala de equipamento | - | (b) | - | - | - |
+| Sala de material de limpeza | - | (b) | - | - | - |
+| Unidade de cuidados intensivos |  |  |  |  |  |
+| Zona de entrada com secretariado | (f) | (b) | (b) | - | - |
+| Gabinete de apoio | - | (b) | - | - | - |
+| Adufa | - | (b) |  |  |  |
+| Sala aberta | - | (b) | 12 tom. /cama | (c) | (e) + (g) |
+| Posto de controlo | (f) (b) | (b) | (b) | (c) | (e) + (g)(***) |
+| Quarto de isolamento | (f) (b) | (b) | 12 tom. /cama | (c) | (e) + (g)(***) |
+| Gabinete | - | (b) | - | - | - |
+| Sala lavagem e desinfeção de arrastadeiras | - | (b) | - | - | - |
+| Sala de sujos e despejos | - | (b) | - | - | - |
+| Vestiário de pessoal | - | (b) | - | - | - |
+| Zona de roupa limpa | - | (b) | - | - | - |
+| Zona de material de consumo | - | (b) | - | - | - |
+| Sala de equipamento | - | (b) | - | - | - |
+| Sala de material de limpeza | - | (b) | - | - | - |
+| Unidade de reprocessamento de dispositivos médicos de uso múltiplo |  |  |  |  |  |
+| Gabinete | - | (b) | (b) | - | - |
+| Vestiários de pessoal | - | - | - | - | - |
+| Área de descontaminação | - | (b) | - | - | - |
+| Adufa | - | (b) | - | - | - |
+| Sala de trabalho | - | (b) | - | - | - |
+| Área de preparação de têxteis | - | (b) | - | - | - |
+| Armazém de esterilizados | - | (b) | - | - | - |
+
+Observações:
+
+(*) Alimentação de socorro ou de substituição: alimentação elétrica destinada a manter em funcionamento uma instalação ou partes desta em caso de falta da alimentação normal por razões que não sejam a segurança de pessoas. A fonte de energia elétrica de socorro será constituída, em regra, por um grupo gerador acionado por motor de combustão.
+
+De acordo com as regras técnicas das instalações elétricas de baixa tensão, os equipamentos essenciais à segurança das pessoas deverão ser alimentados por uma fonte de segurança, que não deve ser usada para outros fins, caso seja única.
+
+Complementarmente, o setor socorrido alimentará o sistema de ventilação (nas salas de operações, UCPA/recobro, quartos de isolamento e UCI), garantindo a alimentação elétrica para as indispensáveis condições de renovação de ar, e manutenção dos gradientes de pressão (sub ou sobrepressão), entre esses compartimentos e os compartimentos contíguos.
+
+(**) Alimentação de energia de segurança médica: alimentação elétrica destinada a manter em funcionamento equipamentos essenciais à realização de exames, prestação de cuidados ou operações aos doentes. Em regra, esta alimentação é assegurada por unidades de alimentação ininterrupta (UPS) ligadas a grupo(s) de socorro. A autonomia das UPS não deve ser inferior a 15 minutos. A iluminação operatória (luz sem sombra) deve ser alimentada por uma fonte com autonomia mínima de 1 hora, que no caso de não haver grupo gerador deve ser de 3 horas.
+
+(***) O posto de enfermagem e os quartos de isolamento se integrados na sala de UCI ou intermédios, podem partilhar os ligadores de terra para massas metálicas não elétricas e pavimentos antiestáticos bem como o sistema de distribuição de energia a neutro isolado (IT médico) com sinalização e alarme de defeito.
+
+(a) Facultativo.
+
+(b) Obrigatório.
+
+(c) Iluminação, tomadas de corrente e alimentação especiais, exceto tomada para RX portátil.
+
+(d) Uma tomada de corrente para frigorífico.
+
+(e) Ligadores de terra para massas metálicas não elétricas e pavimentos antiestáticos.
+
+(f) Sistema que permita a comunicação entre a entrada do serviço e o interior.
+
+(g) Sistema de distribuição de energia a neutro isolado (IT médico) com sinalização e alarme de defeito.
+
+(h) Iluminação de luz sem sombra com autonomia própria mínima de 1 hora.
+
+(i) Alimentação do sistema de sinalização e chamada.
+
+(j) Nas salas em que se pratiquem cateterismos cardíacos deve ser aplicado o regime de neutro isolado (IT médico) com sinalização e alarme de defeito.
+
+Requisitos especiais:
+
+1 - As unidades com internamento devem dispor de um sistema acústico-luminoso que assegure a chamada de enfermagem ou outro pessoal de serviço pelos doentes. Este sistema deve satisfazer às seguintes condições:
+
+a) Incorporar um dispositivo de chamada e um sinalizador luminoso de confirmação de chamada localizado junto à cabeceira da cama ou em local visível pelo doente. O cancelamento da chamada só poderá ser efetuado no próprio compartimento onde se realizou a chamada. Nas IS interiores aos quartos, o cancelamento da chamada poderá ser feito no quarto. A chamada é assinalada por sinalização luminosa junto à porta de entrada da enfermaria ou quarto e no posto de enfermagem com sinal acústico e luminoso;
+
+b) Possibilitar a transferência de chamadas para o local onde se encontrem os enfermeiros e a realização de chamadas de emergência;
+
+c) Os demais compartimentos a que o doente tenha acesso, designadamente casas de banho, sanitários, refeitórios e salas de estar, devem ser abrangidos pelo sistema de chamada de enfermagem;
+
+d) O sistema deve ser considerado uma instalação de segurança.
+
+2 - Nos locais de prestação de cuidados ou de realização de exames em ambulatório, o sistema de sinalização incorpora, apenas, o equipamento indicado em (i) adaptado à respetiva utilização.
+
+3 - Todos os compartimentos deverão dispor do número de tomadas necessárias à ligação individual de todos os equipamentos cuja utilização simultânea esteja prevista (um equipamento por tomada) mais uma tomada adicional para equipamento de limpeza.
+
+4 - Quando estiverem previstos aparelhos de RX portátil que careçam de tomada de alimentação de energia elétrica com características especiais, deverão ser instaladas tomadas apropriadas em todos os locais onde estes aparelhos devam ser utilizados, ou na sua vizinhança.
+
+5 - Todos os elevadores deverão dispor das condições para se movimentarem até ao piso de entrada em caso de falha de energia elétrica. Pelo menos um elevador com capacidade para transporte de camas deve manter-se em funcionamento com alimentação de socorro.
+
+6 - Na iluminação interior, devem ser observadas as orientações constantes da norma ISO 8995 CIE S 008/E, de 15 de maio de 2003, contendo as especificações da Commission Internationale de L’Éclairage, ou da EN 12464-01/2021, sobre os níveis de iluminação e respetiva uniformidade em estabelecimentos de saúde, bem como sobre a capacidade de restituição de cores das fontes luminosas a utilizar e sobre a prevenção do desconforto visual. As unidades novas ou sujeitas a remodelações em data posterior à publicação do presente diploma, devem dar cumprimento aos requisitos dos sistemas fixos de iluminação previstos no n.º 4 do anexo ii da Portaria n.º 138-I/2021, de 1 de julho.
+
+7 - Além das instalações de iluminação de segurança e de vigília definidas na legislação em vigor, nos locais onde o paciente permaneça acamado deve prever-se iluminação geral e iluminação de leitura ou observação à cabeceira da cama.
+
+8 - A instalação elétrica geral, tal como os vários locais de uso médico devem ser concebidos em conformidade com as Regras Técnicas das Instalações Elétricas de Baixa Tensão, previstas na Portaria n.º 949-A/2006, de 11 de setembro.
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 327/2025/1 - Diário da República n.º 192/2025, Série I de 2025-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/327-2025-938108822), em vigor a partir de 2025-10-07
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 174/2025/1 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/174-2025-914713268), em vigor a partir de 2025-04-12
+
+## Anexo XV — (previsto no artigo 19.º)
+
+Equipamento sanitário
+Requisitos mínimos a considerar:
+
+| Serviço/compartimento | Equipamento sanitário |
+| --- | --- |
+| Instalação sanitária de público, adaptada a pessoas com mobilidade condicionada: |  |
+| Antecâmara (se existir) | Lavatório (recomendável). |
+| Cabine de retrete | Bacia de retrete (3). |
+| Gabinete de consulta | Lavatório (4). |
+| Sala de observação/tratamentos | Tina de bancada (4). |
+| Banho assistido | Lavatório, bacia de retrete e base de duche (3) (9). |
+| Sala de gessos | Tina de bancada (4) (7). |
+| Desinfeção de pessoal | Tina de desinfeção (4). |
+| Quarto individual ou enfermaria (sem instalação sanitária privativa) | Lavatório (4). |
+| Instalação sanitária privativa | Lavatório, bacia de retrete e duche (3) (8). |
+| Zona de inaloterapia | Tina de bancada (4) |
+| Instalação sanitária de pessoal | Lavatório. |
+| Antecâmara (se existir) | Lavatório (recomendável). |
+| Cabine de sanita | Bacia de retrete. |
+| Vestiário de pessoal (1) | Lavatório. |
+| Antecâmara (se existir) | Lavatório (recomendável). |
+| Cabine de retrete | Lavatório e bacia de retrete. |
+| Cabine de duche | Tina de duche. |
+| Copa | Tina de bancada. |
+| Refeitório | Lavatório. |
+| Sala de pessoal (se existir) | Tina de bancada. |
+| Adufa | Lavatório (4). |
+| Sala de lavagem e desinfeção de arrastadeiras | Lavatório, pia hospitalar, máquina de lavagem, desinfeção de arrastadeiras (5). |
+| Sala de sujos e despejos | Lavatório, pia hospitalar e máquina de eliminação de arrastadeiras (6). |
+| Sala de reprocessamento (2) | (9). |
+| Depósito de cadáveres | Lavatório. |
+
+(
+
+1
+
+) Do bloco operatório.
+(
+
+2
+
+) De apoio às salas de operação.
+(
+
+3
+
+) Com acessórios para pessoas com mobilidade condicionada.
+(
+
+4
+
+) Com torneiras de comando não manual.
+(
+
+5
+
+) Dispensável quando a unidade utilizar arrastadeiras descartáveis.
+(
+
+6
+
+) Caso sejam utilizadas arrastadeiras descartáveis.
+(
+
+7
+
+) Com cesto retentor de gesso.
+(
+
+8
+
+) Com possibilidade de banho assistido.
+(
+
+9
+
+) Com pontos de água e de esgoto.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 174/2025/1 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/174-2025-914713268)
+
+## Anexo XVI — (previsto no artigo 19.º)
+
+Equipamento médico e equipamento geral
+
+Equipamentos médico e geral a considerar:
+
+Serviço de atendimento permanente
+
+| Designação | Equipamento médico e geral | Quantidade |
+| --- | --- | --- |
+| Disponível no serviço de atendimento permanente | Carro de emergência, com monitor/desfibrilhador manual, aspirador portátil e material acessório, material de intubação traqueal, equipamento de ventilação manual, depósito portátil de oxigénio, tábua e fármacos de reanimação. | Mínimo 1 |
+| Sala de recuperação/observação | Monitor ECG, PNI e SpO2 | 1/cada 2 postos ou fração |
+| Disponível na Unidade (1) | Eletrocardiógrafo | 1 |
+
+(
+
+1
+
+) Pode ser partilhado com outras valências da instituição.
+
+Internamento
+
+| Designação | Equipamento médico e geral | Quantidade |
+| --- | --- | --- |
+| Disponível no serviço de internamento | Carro de emergência, com monitor/desfibrilhador, aspirador portátil e material acessório, material de intubação traqueal, equipamento de ventilação manual, depósito portátil de oxigénio, tábua e fármacos de reanimação | Mínimo 1 |
+| Quarto ou enfermaria | Cama hospitalar para enfermaria | 1 |
+| Mesa de cabeceira | 1 |  |
+| Cortina/biombo separativo(a) ignifugável (Se houver mais do que uma cama) | 1 |  |
+| Sala de equipamento (2) | Eletrocardiógrafo (1) | 1 |
+| Bomba perfusora de seringa | 1/cada 8 camas |  |
+| Bomba perfusora volumétrica (para soros ou alimentação entérica) | 1/cada 8 camas |  |
+| Aparelho de RX portátil (1) | 1 |  |
+| Monitor fisiológico portátil, com monitorização de FC, PNI e SpO2 | 1/cada 6 camas |  |
+| Monitor fisiológico portátil, com monitorização de ECG, FC, PNI e SpO2 | 1/cada 15 camas |  |
+
+(
+
+1
+
+) Pode ser partilhado com outras valências da instituição.
+
+(
+
+2
+
+) São excluídas desta obrigatoriedade unidades monotemáticas (psiquiatria, oftalmologia, p. ex.), sob declaração de compromisso do diretor clínico em como a unidade não tem protocolos de atuação que utilizem estes dispositivos.
+
+Consulta Externa
+
+| Designação | Equipamento médico e geral | Quantidade |
+| --- | --- | --- |
+| Sala de observação/tratamento | Monitor de parâmetros vitais com monitorização contínua de ECG e SPO2 | 1 |
+| Sala de exames endoscópicos | Monitor de parâmetros vitais com monitorização contínua de ECG e SPO2 | 1 |
+| Aspirador de secreções | 1 |  |
+| Carro de anestesia com material para sedação, entubação traqueal |  |  |
+| Disponível na consulta externa | Equipamento de desfibrilhação (dispensável, se houver acesso a menos de 2 minutos). | 1 |
+| Sala de reprocessamento (se realizados exames endoscópicos) | Reprocessador automático de endoscópicos (lavagem e desinfeção) | 1 |
+| Sala de pequena cirurgia/tratamentos | Monitor de parâmetros vitais com monitorização contínua de ECG e SPO2 | 1 |
+| Sala de prova de esforço | Carro de emergência, com monitor/desfibrilhador manual, aspirador portátil e material acessório, material de intubação traqueal, equipamento de ventilação manual, depósito portátil de oxigénio, tábua e fármacos de reanimação. | 1 |
+
+Urgência
+
+| Designação | Equipamento médico e geral | Quantidade |
+| --- | --- | --- |
+| Sala de reanimação/emergência | Carro de emergência, com monitor/desfibrilhador manual, aspirador portátil e material acessório, material de intubação traqueal, equipamento de ventilação manual, depósito portátil de oxigénio, tábua e fármacos de reanimação (1). | 1 |
+| Maca/cama de reanimação | 1 |  |
+|  | Monitor fisiológico portátil, com monitorização de: ECG, FC, PNI e SpO2 | 1 |
+| Ventilador mecânico invasivo para transporte | 1 |  |
+| Bombas perfusoras de seringa | 4/cama |  |
+| Bomba perfusora volumétrica (para soros ou alimentação entérica) | 1 por cama |  |
+| Ecógrafo com sonda vascular, abdominal e cardíaca | 1 |  |
+| Eletrocardiógrafo (2) | 1 |  |
+| Sala de observação | Monitor fisiológico portátil, com monitorização de: ECG, FC, FR, PNI e SpO2 | 1/cama |
+| Ventilador mecânico invasivo para transporte (2) | 1 |  |
+| Eletrocardiógrafo (2) | 1 |  |
+| Bombas perfusoras de seringa | 1/cada 4 camas |  |
+| Bomba perfusora volumétrica (para soros ou alimentação entérica) | 1/cada 4 camas |  |
+| Aparelho de pH e gases no sangue | 1 |  |
+| Cortina/biombo separativo(a) ignifugável (Se houver mais do que uma cama) | 1 |  |
+| Cama ajustável, com mecanismo de imobilização, grades laterais e cabeceira amovível | 1 |  |
+| Sala de recuperação | Monitor fisiológico portátil, com monitorização de: ECG, FC, FR, PNI e SpO2 | 1/cada 6 postos |
+| Cortina/biombo separativo(a) ignifugável (Se houver mais do que uma cama) | A separar cada 2 camas |  |
+| Sala de pequena cirurgia/tratamentos | Mesa operatória simples | 1/posto |
+| Candeeiro de luz sem sombra | 1/posto |  |
+| Monitor fisiológico portátil, com monitorização de ECG, FC, PNI e SpO2 | 1/cada 2 postos |  |
+| Aparelho de eletrocoagulação (2) | 1 |  |
+
+(
+
+1
+
+) Dispensável, se houver acesso fácil a carro de emergência a menos de 2 minutos.
+
+(
+
+2
+
+) Pode ser partilhado com outras valências da instituição.
+
+Bloco operatório
+
+| Designação | Equipamento médico e geral | Quantidade/sala |
+| --- | --- | --- |
+| Sala de anestesia | Aparelho de indução anestésica | 1 |
+| Monitor fisiológico com capacidade de monitorização de ECG, FC, PNI, pressão arterial invasiva e SpO | 1 |  |
+| Sala de operações | Laringoscópio com três lâminas curvas e retas | 1 |
+| Videolaringoscópio | 1/cada 4 salas |  |
+| Mesa operatória | 1 |  |
+| Armadura de teto de luz sem sombra | 1 |  |
+|  | Equipamento de anestesia, com circuito anestésico com ligação obrigatória ao sistema de extração de gases anestésicos | 1 |
+| Equipamento de monitorização de: ECG, FC, FR, pressão arterial invasiva, PNI, SpO2, profundidade anestésica CO e agentes anestésicos | 1 |  |
+| Eletrobisturi | 1 |  |
+| Desfibrilhador, com possibilidade de pacemaker externo | 1/cada 4 salas ou fração |  |
+| Bombas perfusoras de seringa | 1 |  |
+| Bomba perfusora volumétrica | 1 |  |
+| Estimulador de nervos periféricos | 1 |  |
+| Aspirador de campo operatório | 1 |  |
+| Cobertor de aquecimento | 1 |  |
+| Aparelho de aquecimento de sangue e soros | 1 |  |
+| Área Unidade de Cuidados Pós-Anestésicos | Carro de emergência, com monitor/desfibrilhador manual, aspiração, portátil e material acessório, material de intubação traqueal, equipamento de ventilação manual, depósito portátil de oxigénio, tábua e fármacos de reanimação (3) | 1 |
+| Monitor fisiológico com capacidade de monitorização de ECG, FC, FR, PI, PNI, temperatura, SpO2 | 1/cama |  |
+| Ventilador mecânico invasivo para transporte (2) | 1 |  |
+| Bombas perfusoras de seringa | 1/cama |  |
+| Bomba perfusora volumétrica | 1/cama |  |
+| Cobertor de aquecimento | 1/cama |  |
+| Ventilador mecânico invasivo (2) | 1/cada 4 camas |  |
+| Cama ajustável, com mecanismo de imobilização, grades laterais e cabeceira amovível | 1/posto |  |
+| Sala de recuperação | Monitor de ECG, PNI e SpO2 | 1/cada 2 postos ou fração |
+| Cama ajustável, com mecanismo de imobilização, grades laterais e cabeceira amovíveis ou cadeirão reclinável | 1/posto |  |
+| Sala de equipamento | Equipamento de anestesia, com circuito anestésico com ligação obrigatória ao sistema de extração de gases anestésicos. | 1 |
+| Equipamento de monitorização de: ECG, FC, FR, pressão arterial invasiva, PNI, SpO, profundidade anestésica CO e agentes anestésicos | 1 |  |
+| RX portátil com intensificador de imagem (2) | 1 |  |
+
+(
+
+1
+
+) Esta base será complementada de acordo com as valências.
+
+(
+
+2
+
+) Dispensável se existir UCI.
+
+(
+
+3
+
+) Pode ser partilhado com as salas de bloco operatório se contíguas (menos de 2 minutos).
+
+Unidade de cuidados intermédios (*)
+
+| Designação | Equipamento médico e geral | Quantidade/sala |
+| --- | --- | --- |
+| Sala aberta com posto de controlo | Aparelho de indução anestésica | 1 |
+| Monitor de: ECG, FC, PNI, pressão arterial invasiva, SpO2 | 1 |  |
+|  | Ventilador mecânico invasivo para transporte | 1 |
+| Bombas perfusoras de seringa | 2/cama |  |
+| Bomba perfusora volumétrica | 1/cama |  |
+| Monitor de transporte | 1 |  |
+| Eletrocardiógrafo (2) | 1 |  |
+| Cortina separativa ignifugável (se houver mais do que uma cama) | 1 |  |
+| Carro de emergência, com monitor/desfibrilhador, aspirador portátil e material acessório, material de intubação traqueal, equipamento de ventilação manual, bala de oxigénio, tábua e fármacos de reanimação (1) |  |  |
+| Cama ajustável, com mecanismo de imobilização, grades laterais e cabeceira amovível | 1 |  |
+
+(
+
+1
+
+) Dispensável, se houver acesso fácil a carro de emergência, a menos de 2 minutos.
+
+(
+
+2
+
+) Disponível na unidade hospitalar.
+
+(*) Os equipamentos dispostos podem ser reduzidos em número, por declaração de compromisso do diretor de serviço, ratificada pelo diretor clínico, em unidades que tratem exclusivamente de utentes com idade inferior a 18 anos.
+
+Unidade de cuidados intensivos (*)
+
+| Designação | Equipamento médico e geral | Quantidade/sala |
+| --- | --- | --- |
+| Sala aberta com posto de controlo | Camas de cuidados intensivos. Devem permitir movimentos de Trendlenburg e Fowler. | 1 |
+| Monitor cardíaco, com possibilidade de monitorização de: ECG, frequência cardíaca, SpO2, CO2, PI, PNI e temperatura. | 1 |  |
+| Bombas perfusoras de seringa | 6/cama |  |
+| Bomba perfusora volumétrica | 2/cama |  |
+| Ventilador mecânico invasivo | 1/cama |  |
+| Aparelho de hemodiálise contínua | 1/cada 4 camas |  |
+| Aquecedor de sangue | 1/cada 8 camas |  |
+| Central de monitorização | 1 |  |
+| Sala de Equipamento | Camas de cuidados intensivos. Devem permitir movimentos de Trendlenburg e Fowler. | 1 |
+| Monitor cardíaco de reserva, com possibilidade de monitorização de: ECG, frequência cardíaca, SpO2, CO2, PI, PNI e temperatura. | 1 |  |
+| Carro de emergência, com monitor/desfibrilhador, aspirador portátil e material acessório, material de intubação traqueal, equipamento de ventilação manual, bala de oxigénio, tábua e fármacos de reanimação. | 1 |  |
+| Ventilador mecânico invasivo |  |  |
+| Bombas perfusoras de seringa | 6 |  |
+| Bomba perfusora volumétrica | 2 |  |
+|  | Videolaringoscópio (3) | 1 |
+| Candeeiro de observação | 1 |  |
+| Eletrocardiógrafo de 12 canais (2) | 1 |  |
+| Monitor de transporte | 1 |  |
+| Ventilador de transporte | 1 |  |
+| Aparelho de pH e gases no sangue | 1 |  |
+| Ecógrafo rodado com sonda vascular, abdominal e cardíaca | 1 |  |
+| Pacemaker intracavitário | 1 |  |
+
+(
+
+2
+
+) Disponível na unidade hospitalar.
+
+(
+
+3
+
+) Dispensável se comprovado acesso permanente a equipamento existente em bloco operatório existente na mesma unidade hospitalar.
+
+(*) Os equipamentos dispostos podem ser reduzidos em número, por declaração de compromisso do diretor de serviço, ratificada pelo diretor clínico, em unidades que tratem exclusivamente de utentes com idade inferior a 18 anos.
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 327/2025/1 - Diário da República n.º 192/2025, Série I de 2025-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/327-2025-938108822), em vigor a partir de 2025-10-07
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 174/2025/1 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/174-2025-914713268), em vigor a partir de 2025-04-12

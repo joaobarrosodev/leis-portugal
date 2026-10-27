@@ -1,0 +1,1451 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:74811912:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-206198288",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/24-2016-74811912",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-06-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "206206375",
+    "206206376",
+    "206206377",
+    "206206378",
+    "206206380",
+    "206206381",
+    "206206382",
+    "206206383",
+    "206206384",
+    "206206385",
+    "206206386",
+    "206206387",
+    "206206388",
+    "206206389",
+    "206206390",
+    "206206391",
+    "206206392",
+    "206206393",
+    "206206394",
+    "206206395",
+    "206206396",
+    "206206397",
+    "206206398",
+    "206206399",
+    "206206400",
+    "206206401",
+    "206206402",
+    "206206403",
+    "206206404",
+    "206206405",
+    "206206406",
+    "206206407",
+    "206206408",
+    "206206409",
+    "206206410",
+    "206206411",
+    "206206412",
+    "206206413",
+    "206206414",
+    "206206415",
+    "206206416",
+    "206206417",
+    "206206418",
+    "206206419",
+    "206206420",
+    "206206421",
+    "206206422",
+    "206206423",
+    "206206424",
+    "206206425",
+    "206206426",
+    "206206427",
+    "206206428",
+    "206206429",
+    "206206430",
+    "206206431",
+    "206206432",
+    "206206433",
+    "206206434",
+    "206206435",
+    "206206436"
+   ]
+  },
+  {
+   "date": "2018-01-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114484244:por",
+     "title": "Decreto Legislativo Regional n.º 2/2018/M",
+     "published": "2018-01-09",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/2-2018-114484244"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 46.º"
+   ],
+   "fragments": [
+    "206206375",
+    "206206376",
+    "206206377",
+    "206206378",
+    "206206379",
+    "206206380",
+    "206206381",
+    "206206382",
+    "206206383",
+    "206206384",
+    "206206385",
+    "206206386",
+    "206206387",
+    "206206388",
+    "206206389",
+    "206206390",
+    "206206391",
+    "206206392",
+    "206206393",
+    "206206394",
+    "206206395",
+    "206206396",
+    "206206397",
+    "206206398",
+    "206206399",
+    "206206400",
+    "206206401",
+    "206206402",
+    "206206403",
+    "206206404",
+    "206206405",
+    "206206406",
+    "206206407",
+    "206206408",
+    "206206409",
+    "206206410",
+    "206206411",
+    "206206412",
+    "206206413",
+    "206206414",
+    "206206415",
+    "206206416",
+    "206206417",
+    "206206418",
+    "206206419",
+    "206206420",
+    "206206421",
+    "206206422",
+    "206206423",
+    "206206424",
+    "206206425",
+    "206206426",
+    "206206427",
+    "206206428",
+    "206206429",
+    "206206430",
+    "206206431",
+    "206206432",
+    "206206433",
+    "206206434",
+    "206206435",
+    "206206436",
+    "206206437"
+   ]
+  },
+  {
+   "date": "2019-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117537584:por",
+     "title": "Decreto Legislativo Regional n.º 26/2018/M",
+     "published": "2018-12-31",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/26-2018-117537584"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "206206375",
+    "206206376",
+    "206206377",
+    "206206378",
+    "206206379",
+    "206206380",
+    "206206381",
+    "206206382",
+    "206206383",
+    "206206384",
+    "206206438",
+    "206206386",
+    "206206387",
+    "206206388",
+    "206206389",
+    "206206390",
+    "206206391",
+    "206206392",
+    "206206393",
+    "206206394",
+    "206206395",
+    "206206396",
+    "206206397",
+    "206206398",
+    "206206399",
+    "206206400",
+    "206206401",
+    "206206402",
+    "206206403",
+    "206206404",
+    "206206405",
+    "206206406",
+    "206206407",
+    "206206408",
+    "206206409",
+    "206206410",
+    "206206411",
+    "206206412",
+    "206206413",
+    "206206414",
+    "206206415",
+    "206206416",
+    "206206417",
+    "206206418",
+    "206206419",
+    "206206420",
+    "206206421",
+    "206206422",
+    "206206423",
+    "206206424",
+    "206206425",
+    "206206426",
+    "206206427",
+    "206206428",
+    "206206429",
+    "206206430",
+    "206206431",
+    "206206432",
+    "206206433",
+    "206206434",
+    "206206435",
+    "206206436",
+    "206206437"
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:152639812:por",
+     "title": "Decreto Legislativo Regional n.º 18/2020/M",
+     "published": "2020-12-31",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/18-2020-152639812"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "206206375",
+    "206206376",
+    "206206377",
+    "206206378",
+    "206206379",
+    "206206380",
+    "206206381",
+    "206206382",
+    "206206383",
+    "206206384",
+    "206206439",
+    "206206386",
+    "206206387",
+    "206206388",
+    "206206389",
+    "206206390",
+    "206206391",
+    "206206392",
+    "206206393",
+    "206206394",
+    "206206395",
+    "206206396",
+    "206206397",
+    "206206398",
+    "206206399",
+    "206206400",
+    "206206401",
+    "206206402",
+    "206206403",
+    "206206404",
+    "206206405",
+    "206206406",
+    "206206407",
+    "206206408",
+    "206206409",
+    "206206410",
+    "206206411",
+    "206206412",
+    "206206413",
+    "206206414",
+    "206206415",
+    "206206416",
+    "206206417",
+    "206206418",
+    "206206419",
+    "206206420",
+    "206206421",
+    "206206422",
+    "206206423",
+    "206206424",
+    "206206425",
+    "206206426",
+    "206206427",
+    "206206428",
+    "206206429",
+    "206206430",
+    "206206431",
+    "206206432",
+    "206206433",
+    "206206434",
+    "206206435",
+    "206206436",
+    "206206437"
+   ]
+  },
+  {
+   "date": "2023-01-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:206158537:por",
+     "title": "Decreto Legislativo Regional n.º 6/2023/M",
+     "published": "2023-01-16",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/6-2023-206158537"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 23.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 35.º",
+    "Altera Artigo 38.º",
+    "Altera Artigo 45.º"
+   ],
+   "fragments": [
+    "206206375",
+    "206206376",
+    "206206377",
+    "206206378",
+    "206206379",
+    "206206380",
+    "206206381",
+    "206206444",
+    "206206383",
+    "206206384",
+    "206206445",
+    "206206386",
+    "206206387",
+    "206206388",
+    "206206389",
+    "206206390",
+    "206206391",
+    "206206392",
+    "206206393",
+    "206206446",
+    "206206395",
+    "206206396",
+    "206206397",
+    "206206398",
+    "206206399",
+    "206206447",
+    "206206401",
+    "206206402",
+    "206206403",
+    "206206404",
+    "206206405",
+    "206206406",
+    "206206407",
+    "206206408",
+    "206206448",
+    "206206449",
+    "206206440",
+    "206206441",
+    "206206442",
+    "206206443",
+    "206206414",
+    "206206415",
+    "206206416",
+    "206206450",
+    "206206418",
+    "206206419",
+    "206206420",
+    "206206421",
+    "206206422",
+    "206206423",
+    "206206451",
+    "206206425",
+    "206206426",
+    "206206452",
+    "206206428",
+    "206206429",
+    "206206430",
+    "206206431",
+    "206206432",
+    "206206433",
+    "206206434",
+    "206206435",
+    "206206453",
+    "206206437"
+   ]
+  },
+  {
+   "date": "2023-08-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:216512881:por",
+     "title": "Decreto Legislativo Regional n.º 33/2023/M",
+     "published": "2023-08-01",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/33-2023-216512881"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 37.º-A",
+    "Altera Artigo 8.º",
+    "Altera Artigo 37.º",
+    "Altera Artigo 38.º",
+    "Altera Artigo 40.º",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 28.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 31.º",
+    "Revoga Artigo 32.º",
+    "Revoga Artigo 33.º",
+    "Revoga Artigo 34.º"
+   ],
+   "fragments": [
+    "206206375",
+    "206206376",
+    "206206377",
+    "206206378",
+    "206206379",
+    "206206380",
+    "206206381",
+    "206206444",
+    "206206383",
+    "206206384",
+    "206206445",
+    "206206386",
+    "206206387",
+    "206206388",
+    "206206389",
+    "206206390",
+    "206206391",
+    "206206392",
+    "216512791",
+    "206206446",
+    "206206395",
+    "206206396",
+    "206206397",
+    "206206398",
+    "206206399",
+    "206206447",
+    "206206401",
+    "206206402",
+    "206206403",
+    "206206404",
+    "206206405",
+    "206206406",
+    "206206407",
+    "206206408",
+    "206206448",
+    "206206449",
+    "206206440",
+    "206206441",
+    "206206442",
+    "206206443",
+    "206206414",
+    "216512801",
+    "216512802",
+    "216512803",
+    "216512804",
+    "216512805",
+    "216512806",
+    "216512807",
+    "216512808",
+    "206206423",
+    "206206451",
+    "206206425",
+    "216512792",
+    "216512795",
+    "216512796",
+    "216512797",
+    "216512798",
+    "216512799",
+    "216512800",
+    "206206432",
+    "206206433",
+    "206206434",
+    "206206435",
+    "206206453",
+    "206206437"
+   ]
+  },
+  {
+   "date": "2024-07-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:873755644:por",
+     "title": "Decreto Legislativo Regional n.º 6/2024/M",
+     "published": "2024-07-29",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/6-2024-873755644"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 22.º"
+   ],
+   "fragments": [
+    "206206375",
+    "206206376",
+    "206206377",
+    "206206378",
+    "206206379",
+    "206206380",
+    "206206381",
+    "206206444",
+    "206206383",
+    "206206384",
+    "206206445",
+    "206206386",
+    "206206387",
+    "206206388",
+    "206206389",
+    "206206390",
+    "206206391",
+    "206206392",
+    "873753618",
+    "206206446",
+    "206206395",
+    "873753619",
+    "206206397",
+    "873753620",
+    "206206399",
+    "206206447",
+    "206206401",
+    "206206402",
+    "206206403",
+    "206206404",
+    "206206405",
+    "206206406",
+    "206206407",
+    "206206408",
+    "873753621",
+    "206206449",
+    "206206440",
+    "206206441",
+    "206206442",
+    "206206443",
+    "206206414",
+    "216512801",
+    "216512802",
+    "216512803",
+    "216512804",
+    "216512805",
+    "216512806",
+    "216512807",
+    "216512808",
+    "206206423",
+    "206206451",
+    "206206425",
+    "216512792",
+    "216512795",
+    "216512796",
+    "216512797",
+    "216512798",
+    "216512799",
+    "216512800",
+    "206206432",
+    "206206433",
+    "206206434",
+    "206206435",
+    "206206453",
+    "206206437"
+   ]
+  }
+ ],
+ "fragments": {
+  "206206375": {
+   "fragment_id": "206198289",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 24/2016/M\n\nCódigo Fiscal do Investimento na Região Autónoma da Madeira\n\nA Região Autónoma da Madeira constitui uma microeconomia ultraperiférica, em elevado grau de dependência da conjuntura económica nacional e internacional e dista significativamente do continente europeu e dos principais centros urbanos, mercados consumidores, bem como regista evidente descontinuidade territorial, com acesso condicionado e custo acrescido para pessoas, matérias-primas e mercadorias.\n\nSendo a dimensão do mercado interno limitada e a oferta laboral de reduzida especialização, sobrepuseram-se ainda os condicionalismos estruturais regionais que afetaram o tecido empresarial regional, já prejudicado pela fase recessiva do ciclo económico nacional e internacional.\n\nNesta realidade de contexto competitivo dificultado, a sustentação da atividade económica regional e a recuperação da dinâmica natural do tecido empresarial exigem a adoção de medidas excecionais, apoiadas em toda a extensão a nível regional, nacional e comunitário, de forma a reforçar a solidez das empresas regionais e garantir a retoma da dinâmica de mercado, a constituição de novas empresas e a geração de novos empregos.\n\nA Lei de Finanças das Regiões Autónomas, aprovada pela Lei Orgânica n.º 2/2013, de 2 de setembro, alterada pelas Leis n.os 83-C/2013, de 31 de dezembro e 82-B/2014, de 31 de dezembro, no n.º 5 do artigo 59.º, prevê expressamente a adaptação do sistema fiscal nacional às especificidades regionais, prevendo, na matéria aqui em questão, a possibilidade de concessão de benefícios fiscais, designadamente em regime contratual e outros regimes previstos no Código Fiscal do Investimento, aprovado pelo artigo 2.º do Decreto-Lei n.º 162/2014, de 31 de outubro.\n\nDe facto, a Constituição da República Portuguesa e o Estatuto Político-Administrativo da Região Autónoma da Madeira preveem a referida adaptação, pelo que a sua concretização ocorre no cumprimento de todas as normas constitucionais e legais em vigor.\n\nO Decreto-Lei n.º 162/2014, de 31 de outubro, que aprovou o Código Fiscal do Investimento, encontra-se integrado num pacote de medidas de natureza política e legislativa de promoção da competitividade e do investimento, entre as quais também se inclui a Reforma do Imposto sobre o Rendimento das Pessoas Coletivas.\n\nNa sequência da reforma do IRC e com o objetivo de intensificar o apoio ao investimento, favorecendo o crescimento sustentável, a criação de emprego, e contribuindo para o reforço da estrutura de capital das empresas, foi aprovado o Código Fiscal do Investimento, como referido, como meio de promoção de uma revisão global dos regimes de benefícios ao investimento e à capitalização.\n\nA visão centrou-se não só na maior atratividade dos regimes em causa do ponto de vista das condições substanciais dos regimes de benefícios, como também na sua centralização num único diploma, no sentido de facilitar a sua leitura, conhecimento e atratividade de um ponto de vista formal para o investidor.\n\nOra, questões de natureza semelhante se colocam na Região Autónoma da Madeira, agravadas pelas fragilidades conhecidas referentes às caraterísticas específicas do arquipélago.\n\nNesse sentido, consideramos que por uma questão de igualdade do todo nacional e de promoção de medidas de natureza semelhante na Região Autónoma da Madeira, se encontra plenamente justificada a adaptação do Código Fiscal do Investimento.\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo do disposto na alínea i) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, na alínea f) do n.º 1 do artigo 37.º, na alínea ff) do artigo 40.º e do n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, alterado pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, o seguinte:"
+  },
+  "206206376": {
+   "fragment_id": "206198290",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto legislativo regional adapta à Região Autónoma da Madeira os regimes de benefícios fiscais aprovados no Código Fiscal do Investimento, previsto no Decreto-Lei n.º 162/2014, de 31 de outubro, nos termos constantes dos artigos seguintes, criando um Código Fiscal do Investimento da Região Autónoma da Madeira."
+  },
+  "206206377": {
+   "fragment_id": "206198291",
+   "type": 11,
+   "heading": "Artigo 2.º — Aprovação do novo Código Fiscal do Investimento na Região Autónoma da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aprovação do novo Código Fiscal do Investimento na Região Autónoma da Madeira\n\nÉ aprovado, em anexo ao presente decreto legislativo regional e dele fazendo parte integrante, o novo Código Fiscal do Investimento na Região Autónoma da Madeira, procedendo-se deste modo à adaptação às especificidades desta Região Autónoma, dos regimes de benefícios vigentes no território nacional."
+  },
+  "206206378": {
+   "fragment_id": "206198292",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto Legislativo Regional n.º 18/99/M, de 28 de junho, com as alterações introduzidas pelo Decreto Legislativo Regional n.º 17/2006/M, de 23 de maio;\n\nb) O Decreto Legislativo Regional n.º 2/2009/M, de 22 de janeiro."
+  },
+  "206206380": {
+   "fragment_id": "206198294",
+   "type": 14,
+   "heading": "ANEXO — CÓDIGO FISCAL DO INVESTIMENTO NA REGIÃO AUTÓNOMA DA MADEIRA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — CÓDIGO FISCAL DO INVESTIMENTO NA REGIÃO AUTÓNOMA DA MADEIRA\n\n(a que se refere o artigo 2.º)"
+  },
+  "206206381": {
+   "fragment_id": "206198295",
+   "type": 1,
+   "heading": "Capítulo I — Regimes abrangidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Regimes abrangidos"
+  },
+  "206206382": {
+   "fragment_id": "206198296",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O Código Fiscal do Investimento na Região Autónoma da Madeira, doravante designado por Código, estabelece:\n\na) O Regime de Benefícios Fiscais Contratuais ao Investimento Produtivo na Região Autónoma da Madeira;\n\nb) O Regime Fiscal de Apoio ao Investimento na Região Autónoma da Madeira (RFAI-RAM);\n\nc) O Regime de Dedução por Lucros Retidos e Reinvestidos na Região Autónoma da Madeira (DLRR-RAM);\n\nd) O Sistema de Incentivos Fiscais em Investigação e Desenvolvimento Empresarial na Região Autónoma da Madeira (SIFIDE-RAM).\n\n2 - O Regime de Benefícios Fiscais Contratuais ao Investimento Produtivo na Região Autónoma da Madeira e o RFAI-RAM constituem regimes de auxílios com finalidade regional aprovados nos termos do Regulamento (UE) n.º 651/2014 da Comissão, de 16 de junho de 2014, que declara certas categorias de auxílio compatíveis com o mercado interno, em aplicação dos artigos 107.º e 108.º do Tratado, publicado no Jornal Oficial da União Europeia, n.º L 187, de 26 de junho de 2014 (adiante designado Regulamento Geral de Isenção por Categoria ou RGIC).\n\n3 - O DLRR-RAM constitui um regime de incentivos fiscais ao investimento em favor de micro, pequenas e médias empresas aprovado nos termos do RGIC."
+  },
+  "206206383": {
+   "fragment_id": "206198297",
+   "type": 1,
+   "heading": "Capítulo II — Benefícios Fiscais Contratuais ao Investimento Produtivo na Região Autónoma da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Benefícios Fiscais Contratuais ao Investimento Produtivo na Região Autónoma da Madeira"
+  },
+  "206206384": {
+   "fragment_id": "206198298",
+   "type": 8,
+   "heading": "Secção I — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Âmbito de aplicação"
+  },
+  "206206385": {
+   "fragment_id": "206198299",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito objetivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito objetivo\n\n1 - Até 31 de dezembro de 2020, podem ser concedidos benefícios fiscais, em regime contratual, com um período de vigência até 10 anos a contar da conclusão do projeto de investimento, aos projetos de investimento, tal como são caracterizados no presente capítulo, cujas aplicações relevantes sejam de montante igual ou superior a 1.500.000,00 euros, no caso de investimentos realizados na Ilha da Madeira e de 500.000,00 euros no caso de investimentos realizados na Ilha do Porto Santo.\n\n2 - Os benefícios fiscais em regime contratual poderão ainda ser concedidos a projetos de investimento de valor igual ou superior a 500.000,00 euros, em função da sua localização e objetivos específicos, devidamente fundamentados e definidos por decreto regulamentar regional.\n\n3 - Os projetos de investimento referidos nos números anteriores devem ter o seu objeto compreendido, nomeadamente, nas seguintes atividades económicas, respeitando o âmbito sectorial de aplicação das orientações relativas aos auxílios com finalidade regional para o período 2014-2020, publicadas no Jornal Oficial da União Europeia, n.º C 209, de 23 de julho de 2013 (OAR) e do RGIC:\n\na) Indústria extrativa e indústria transformadora;\n\nb) Turismo, incluindo as atividades com interesse para o turismo;\n\nc) Atividades e serviços informáticos e conexos;\n\nd) Atividades agrícolas, aquícolas, piscícolas, agropecuárias e florestais;\n\ne) Atividades de investigação e desenvolvimento e de alta intensidade tecnológica;\n\nf) Tecnologias da informação e produção de audiovisual e multimédia;\n\ng) Ambiente, energia e telecomunicações;\n\nh) Educação;\n\ni) Atividades de saúde humana e apoio social;\n\nj) Atividades de centros de serviços partilhados;\n\nk) Serviços administrativos de apoio à gestão e às empresas.\n\n4 - Por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia são definidos os códigos de atividade económica (CAE) correspondentes às atividades referidas no número anterior."
+  },
+  "206206386": {
+   "fragment_id": "206198300",
+   "type": 8,
+   "heading": "Secção II — Condições de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Condições de elegibilidade"
+  },
+  "206206387": {
+   "fragment_id": "206198301",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições subjetivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições subjetivas\n\n1 - Os projetos de investimento são elegíveis quando:\n\na) Os promotores possuam capacidade técnica e de gestão;\n\nb) Os promotores demonstrem uma situação financeira equilibrada, determinada nos termos do número seguinte;\n\nc) Os promotores disponham de contabilidade regularmente organizada de acordo com as disposições legais em vigor e que seja adequada às análises requeridas para a apreciação e o acompanhamento do projeto e permita autonomizar os efeitos do mesmo;\n\nd) O lucro tributável dos promotores não seja determinado por métodos indiretos de avaliação;\n\ne) A contribuição financeira dos promotores, a partir dos seus recursos próprios ou mediante financiamento externo que assuma uma forma isenta de qualquer apoio público, corresponda, pelo menos, a 25 % dos custos elegíveis;\n\nf) As empresas beneficiárias não sejam consideradas empresas em dificuldade nos termos das orientações relativas aos auxílios estatais de emergência e à reestruturação concedidos a empresas não financeiras em dificuldade, publicada no Jornal Oficial da União Europeia, n.º C 249, de 31 de julho de 2014;\n\ng) Os promotores apresentem a situação fiscal e contributiva regularizada;\n\nh) Os promotores não estejam sujeitos a uma injunção de recuperação na sequência de uma decisão da Comissão que declare um auxílio ilegal e incompatível com o mercado interno.\n\n2 - Para efeitos do disposto na alínea b) do número anterior, considera-se que a situação financeira é equilibrada quando a autonomia financeira, medida pelo rácio entre o capital próprio e o total do ativo líquido, seja igual ou superior a 0,15.\n\n3 - Para efeitos do disposto no número anterior, podem ser considerados capitais próprios os montantes de suprimentos ou empréstimos de sócios, desde que os mesmos venham a ser incluídos no capital social antes da assinatura do contrato referido no artigo 16.º"
+  },
+  "206206388": {
+   "fragment_id": "206198302",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições objetivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições objetivas\n\n1 - Podem ter acesso a benefícios fiscais contratuais ao investimento produtivo os projetos de investimento inicial, cuja realização não se tenha iniciado antes da candidatura prevista no artigo 15.º que demonstrem ter viabilidade técnica, económica e financeira, proporcionem a criação ou manutenção de postos de trabalho e que preencham, pelo menos, uma das seguintes condições:\n\na) Sejam relevantes para o desenvolvimento estratégico da economia regional;\n\nb) Sejam relevantes para a redução das assimetrias existentes entre concelhos da Região Autónoma da Madeira;\n\nc) Contribuam para impulsionar a inovação tecnológica e a investigação científica regional, para a melhoria do ambiente ou para o reforço da competitividade e da eficiência produtiva.\n\n2 - Consideram-se projetos de investimento inicial os investimentos relacionados com a criação de um novo estabelecimento, o aumento da capacidade de um estabelecimento já existente, a diversificação da produção de um estabelecimento no que se refere a produtos não fabricados anteriormente nesse estabelecimento, ou uma alteração fundamental do processo global de produção de um estabelecimento existente.\n\n3 - Para efeitos do disposto no presente regime, considera-se que o início da realização de um projeto de investimento se reporta à data da primeira fatura emitida às empresas promotoras, relativa a débitos efetuados pelos fornecedores no âmbito do projeto, com exceção da aquisição de terrenos e trabalhos preparatórios como a obtenção de licenças e a realização de estudos prévios, bem como os adiantamentos para sinalização, relacionados com o projeto, até ao valor de 50 % do custo de cada aquisição.\n\n4 - No caso de empresas que não se enquadrem na categoria das micro, pequenas e médias empresas, tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003, apenas podem beneficiar do regime dos benefícios fiscais contratuais ao investimento produtivo os projetos de investimento que respeitem a investimentos em novos ativos tangíveis e intangíveis relacionados com a criação de um novo estabelecimento, ou com a diversificação da atividade de um estabelecimento, na condição de a nova atividade não ser a mesma ou uma atividade semelhante à anteriormente exercida no estabelecimento.\n\n5 - O Conselho de Governo Regional pode aprovar, sob proposta da Comissão previsto no artigo 14.º, a concessão de benefícios fiscais em regime contratual a projetos de investimento que não preencham as condições previstas na parte final do número anterior, desde que respeitem as regras comunitárias aplicáveis aos auxílios ad hoc."
+  },
+  "206206389": {
+   "fragment_id": "206198303",
+   "type": 11,
+   "heading": "Artigo 5.º — Efeito de incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Efeito de incentivo\n\nConstitui condição de elegibilidade a demonstração do efeito de incentivo dos benefícios fiscais, a efetuar através de formulário a aprovar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia."
+  },
+  "206206390": {
+   "fragment_id": "206198304",
+   "type": 11,
+   "heading": "Artigo 6.º — Obrigações dos promotores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigações dos promotores\n\n1 - Além das condições previstas nos artigos anteriores, os promotores ficam sujeitos às seguintes obrigações:\n\na) Disponibilizar todos os elementos que lhe forem solicitados pelas entidades competentes para efeitos de acompanhamento, controlo e fiscalização do projeto de investimento, nos prazos por estas estabelecidos;\n\nb) Comunicar às entidades competentes qualquer alteração ou ocorrência que ponha em causa os pressupostos relativos à aprovação do projeto, a sua realização pontual, bem como as obrigações decorrentes do contrato previsto no artigo 16.º;\n\nc) Cumprir atempadamente as obrigações legais a que estejam vinculados, designadamente as tributárias e contributivas;\n\nd) Manter as condições legais necessárias ao exercício da respetiva atividade, nomeadamente quanto à sua situação em matéria de licenciamento;\n\ne) Manter a atividade económica e os investimentos na região e no concelho em causa por um período mínimo de três anos a contar da data da conclusão do projeto de investimento, no caso de micro, pequenas e médias empresas tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003, ou cinco anos, nos restantes casos, exceto quando se tratar de substituição de equipamento obsoleto em razão de evolução tecnológica rápida, e desde que a atividade económica seja mantida na região e no concelho em causa durante o período necessário para completar aqueles prazos;\n\nf) Manter uma situação financeira equilibrada determinada nos termos do n.º 2 do artigo 3.º durante a vigência do contrato.\n\n2 - Nos casos em que o promotor pretenda obter benefícios fiscais em sede de imposto municipal sobre imóveis (IMI) e ou de imposto municipal sobre as transmissões onerosas de bens imóveis (IMT), a atribuição destes benefícios fica condicionada à respetiva aceitação pelo órgão municipal competente nos termos da Lei n.º 169/99, de 18 de setembro, alterada pelas Leis n.os 5-A/2002, de 11 de janeiro, e 67/2007, de 31 de dezembro, pela Lei Orgânica n.º 1/2011, de 20 de novembro, e pela Lei n.º 75/2013, de 12 de setembro, e demais legislação aplicável.\n\n3 - A prova da aceitação referida no número anterior é feita através da junção ao processo de uma declaração de aceitação dos benefícios em causa, emitida pelo órgão municipal competente.\n\n4 - O não cumprimento da obrigação prevista na alínea e) do n.º 1 determina a perda total dos benefícios fiscais concedido nos termos do presente Código e ainda a obrigação de, no prazo de 30 dias a contar da data da respetiva notificação e independentemente do tempo entretanto decorrido desde a data da verificação dos respetivos factos geradores de imposto, pagar nos termos da lei as importâncias correspondentes às receitas fiscais não arrecadadas, acrescidas de juros compensatórios nos termos da lei geral tributária (LGT), aprovada pelo Decreto-Lei n.º 398/98, de 17 de dezembro, havendo lugar a procedimento executivo, verificando-se a falta de pagamento até ao termo daquele prazo de 30 dias.\n\n5 - Os beneficiários dos regimes previstos no presente capítulo devem evidenciar o imposto que deixe de ser pago em resultado da dedução a que se refere o artigo 8.º, mediante menção do valor correspondente no anexo às demonstrações financeiras relativa ao período de tributação em que se efetua a dedução, na contabilidade dos sujeitos passivos de imposto sobre o rendimento das pessoas coletivas (IRC)."
+  },
+  "206206391": {
+   "fragment_id": "206198305",
+   "type": 11,
+   "heading": "Artigo 7.º — Notificação à Comissão Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Notificação à Comissão Europeia\n\nNos termos da legislação europeia, é notificada à Comissão Europeia a concessão de benefícios fiscais que preencham as condições definidas nessa legislação, designadamente aqueles em que o montante ajustado dos auxílios, calculado de acordo com o mecanismo definido no parágrafo 20 do artigo 2.º do RGIC, ultrapasse o limiar de notificação previsto no ponto 20 alínea n) das OAR."
+  },
+  "206206392": {
+   "fragment_id": "206198306",
+   "type": 8,
+   "heading": "Secção III — Benefícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Benefícios"
+  },
+  "206206393": {
+   "fragment_id": "206198307",
+   "type": 11,
+   "heading": "Artigo 8.º — Benefícios fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Benefícios fiscais\n\n1 - Aos projetos de investimento previstos nos artigos anteriores podem ser concedidos, cumulativamente, os seguintes benefícios fiscais:\n\na) Crédito de imposto, determinado com base na aplicação de uma percentagem, compreendida entre 10 % e 35 % das aplicações relevantes do projeto de investimento efetivamente realizadas, a deduzir ao montante da coleta do IRC apurada nos termos da alínea a) do n.º 1 do artigo 90.º do Código do IRC;\n\nb) Isenção ou redução de IMI, durante a vigência do contrato, relativamente aos prédios utilizados pelo promotor no âmbito do projeto de investimento;\n\nc) Isenção ou redução de IMT, relativamente às aquisições de prédios incluídas no plano de investimento e realizadas durante o período de investimento;\n\nd) Isenção de Imposto do Selo, relativamente a todos os atos ou contratos necessários à realização do projeto de investimento.\n\n2 - A dedução prevista na alínea a) do número anterior é efetuada na liquidação de IRC respeitante ao período de tributação em que foram realizadas as aplicações relevantes, podendo ainda essa dedução ser utilizada, nas mesmas condições, na liquidação dos períodos de tributação até ao termo da vigência do contrato referido no artigo 16.º, quando não o tenha sido integralmente efetuada naquele período de tributação.\n\n3 - A dedução prevista na alínea a) do n.º 1 tem os seguintes limites:\n\na) No caso de criação de empresas, a dedução anual pode corresponder ao total da coleta apurada em cada período de tributação;\n\nb) No caso de projetos em sociedades já existentes, a dedução máxima anual não pode exceder o maior valor entre 25 % do total do benefício fiscal concedido ou 50 % da coleta apurada em cada período de tributação.\n\n4 - A comprovação da isenção do imposto previsto na alínea b) do n.º 1 é efetuada mediante a apresentação do contrato referido no artigo 16.º à entidade competente para a respetiva liquidação, não dependendo de qualquer outra formalidade.\n\n5 - As isenções dos impostos previstos nas alíneas c) e d) do n.º 1 são comprovadas mediante apresentação do contrato referido no artigo 16.º à entidade competente pela respetiva liquidação, no momento da realização do ato sobre o qual essas isenções incidem.\n\n6 - O disposto nos n.os 4 e 5 deve estar devidamente documentado e justificado no processo de documentação fiscal previsto no artigo 130.º do Código do IRC."
+  },
+  "206206394": {
+   "fragment_id": "206198308",
+   "type": 11,
+   "heading": "Artigo 9.º — Critérios de determinação dos benefícios fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Critérios de determinação dos benefícios fiscais\n\n1 - O benefício fiscal a conceder aos projetos de investimento corresponde a 10 % das aplicações relevantes do projeto efetivamente realizadas.\n\n2 - A percentagem estabelecida no número anterior pode ser majorada da seguinte forma:\n\na) Até 10 %, em função do índice per capita de poder de compra do concelho em que se localize o projeto, de acordo com os seguintes escalões:\n\ni) Em 8 %, caso o projeto se localize num concelho que, à data da candidatura, não apresente um índice per capita de poder de compra superior a 90 % da média nacional nos dois últimos apuramentos anuais publicados pelo INE, I. P.;\n\nii) Em 10 %, caso o projeto se localize num concelho que, à data da candidatura, não apresente um índice per capita de poder de compra superior a 80 % da média nacional nos dois últimos apuramentos anuais publicados pelo INE, I. P.;\n\nb) Até 12 %, caso o projeto proporcione a criação de postos de trabalho ou a sua manutenção até ao final da vigência do contrato referido no artigo 20.º de acordo com os quatro escalões seguintes:\n\ni) 3 % - (igual ou maior que) 5 postos de trabalho;\n\nii) 6 % - (igual ou maior que) 30 postos de trabalho;\n\niii) 9 % - (igual ou maior que) 60 postos de trabalho;\n\niv) 12 % - (igual ou maior que) 90 postos de trabalho;\n\nc) As majorações indicadas na alínea anterior serão acrescidas em 3 % no caso em que mais de um quinto dos postos trabalho criados forem ocupados por colaboradores com idade igual ou inferior a 30 anos;\n\nd) Até 7 %, em caso de excecional contributo do projeto para as condições enunciadas no n.º 1 do artigo 4.º\n\n3 - No caso de ao projeto ser reconhecida relevância excecional para a economia regional, pode ser atribuída, através de resolução do Conselho de Governo, uma majoração até 5 %.\n\n4 - As percentagens de majoração previstas nos números anteriores podem ser atribuídas cumulativamente, respeitando o limite total de 35 % das aplicações relevantes.\n\n5 - O benefício fiscal total corresponde à quantia resultante da aplicação das percentagens referidas neste artigo ao valor das aplicações relevantes efetivamente realizadas."
+  },
+  "206206395": {
+   "fragment_id": "206198309",
+   "type": 11,
+   "heading": "Artigo 10.º — Limites máximos aplicáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Limites máximos aplicáveis\n\n1 - Os benefícios fiscais concedidos ao abrigo do presente capítulo devem respeitar os limites máximos aplicáveis aos auxílios com finalidade regional, nos termos do artigo 45.º\n\n2 - Caso os projetos de investimento beneficiem de outros auxílios de Estado, o cálculo dos limites referidos no número anterior deve ter em consideração o montante total dos auxílios de Estado com finalidade regional concedidos ao investimento ou projeto de investimento em questão, proveniente de todas as fontes, assim como outras regras de cumulação previstas na legislação comunitária."
+  },
+  "206206396": {
+   "fragment_id": "206198310",
+   "type": 11,
+   "heading": "Artigo 11.º — Aplicações relevantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Aplicações relevantes\n\n1 - Consideram-se aplicações relevantes, para efeitos de cálculo dos benefícios fiscais, as despesas associadas aos projetos de investimento e relativas a:\n\na) Ativos fixos tangíveis afetos à realização do projeto, com exceção de:\n\ni) Terrenos que não se incluam em projetos do setor da indústria extrativa, destinados à exploração de concessões minerais, águas de mesa e medicinais, pedreiras, barreiras e areeiros;\n\nii) Edifícios e outras construções não diretamente ligados ao processo produtivo ou às atividades administrativas essenciais;\n\niii) Viaturas ligeiras ou mistas;\n\niv) Outro material de transporte no valor que ultrapasse 20 % do total das aplicações relevantes;\n\nv) Mobiliário e artigos de conforto ou decoração, salvo equipamento hoteleiro afeto a exploração turística;\n\nvi) Equipamentos sociais;\n\nvii) Outros bens de investimento que não sejam afetos à exploração da empresa, salvo equipamentos produtivos destinados à utilização, para fins económicos, dos resíduos resultantes do processo de transformação produtiva ou de consumo em Portugal, desde que de reconhecido interesse industrial e ambiental;\n\nb) Ativos intangíveis, constituídos por despesas com transferência de tecnologia, nomeadamente através da aquisição de direitos de patentes, licenças, «know-how» ou conhecimentos técnicos não protegidos por patente.\n\n2 - No caso de sujeitos passivos de IRC que não se enquadrem na categoria das micro, pequenas e médias empresas, tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003, as despesas de investimento a que se refere a alínea b) do número anterior não podem exceder 50 % das aplicações relevantes.\n\n3 - Os ativos previstos na alínea a) do n.º 1 podem ser adquiridos em regime de locação financeira, nos termos definidos na alínea b) do parágrafo 6 do artigo 14.º do RGIC, desde que seja exercida a opção de compra prevista no respetivo contrato durante o período de vigência do contrato de concessão de benefícios fiscais.\n\n4 - Para efeitos do disposto nos números anteriores, excluem-se da noção de aplicações relevantes as relativas a equipamentos usados e investimento de substituição.\n\n5 - As aplicações relevantes previstas na alínea a) do n.º 1 e no n.º 2 devem ser contabilizadas no ativo fixo das empresas promotoras dos projetos de investimento, devendo estes bens permanecer no ativo da empresa durante o período de vigência do contrato de concessão de benefícios fiscais, exceto se a respetiva alienação for autorizada mediante despacho dos membros do Governo responsáveis pelas áreas das finanças e da economia, respeitados os limites previstos no n.º 5 do artigo 14.º do RGIC.\n\n6 - São elegíveis os adiantamentos relacionados com o projeto, até ao valor de 50 % do custo de cada aquisição, desde que realizados há menos de um ano antes da data de candidatura a benefícios fiscais.\n\n7 - São elegíveis as despesas relativas aos estudos diretamente relacionados com o projeto de investimento, contabilizadas como ativo intangível, desde que realizados há menos de um ano antes da data de candidatura a benefícios fiscais."
+  },
+  "206206397": {
+   "fragment_id": "206198311",
+   "type": 11,
+   "heading": "Artigo 12.º — Simplificação de procedimentos aduaneiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Simplificação de procedimentos aduaneiros\n\n1 - Os promotores dos projetos de investimento produtivo beneficiam de dispensa de prestação de garantia dos direitos de importação e demais imposições eventualmente devidos pelas mercadorias não comunitárias sujeitas aos regimes de entreposto aduaneiro, aperfeiçoamento ativo em sistema suspensivo e destino especial, durante o período de vigência do contrato ou até à sua resolução, nos termos previstos, respetivamente, nos artigos 16.º e 20.º\n\n2 - Os promotores que pretendam requerer o estatuto de operador económico autorizado para simplificações aduaneiras, devem formular o respetivo pedido junto da Autoridade Tributária e Aduaneira (AT), o qual é apreciado e decidido no prazo de 50 dias contados a partir da respetiva apresentação.\n\n3 - A contagem do prazo referido no número anterior é suspensa quando forem requeridos esclarecimentos adicionais, os quais devem ser apresentados no prazo de 30 dias, findo o qual, na ausência de resposta imputável ao promotor, se considera haver desistência do pedido."
+  },
+  "206206398": {
+   "fragment_id": "206198312",
+   "type": 11,
+   "heading": "Artigo 13.º — Exclusividade dos benefícios fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Exclusividade dos benefícios fiscais\n\n1 - Sem prejuízo do disposto no número seguinte, os benefícios fiscais contratuais relativos às aplicações relevantes do projeto discriminadas no respetivo contrato não são cumuláveis com quaisquer outros benefícios fiscais da mesma natureza relativamente às mesmas aplicações relevantes, incluindo os benefícios fiscais de natureza não contratual, previstos neste ou noutros diplomas legais.\n\n2 - Os benefícios fiscais contratuais previstos nos artigos anteriores são cumuláveis com a DLRR-RAM, desde e na medida em que não sejam ultrapassados os limites máximos aplicáveis previstos no artigo 10.º"
+  },
+  "206206399": {
+   "fragment_id": "206198313",
+   "type": 8,
+   "heading": "Secção IV — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Procedimento"
+  },
+  "206206400": {
+   "fragment_id": "206198314",
+   "type": 11,
+   "heading": "Artigo 14.º — Comissão Regional de Coordenação dos Incentivos Fiscais ao Investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Comissão Regional de Coordenação dos Incentivos Fiscais ao Investimento\n\n1 - A Comissão Regional de Coordenação dos Incentivos Fiscais ao Investimento, abreviadamente designada por Comissão, tem as seguintes competências, no âmbito do regime de benefícios fiscais contratuais ao investimento produtivo:\n\na) Acompanhamento da aplicação das disposições relativas a este tipo de benefícios;\n\nb) Verificação do cumprimento das condições de acesso e de elegibilidade dos projetos de investimento;\n\nc) Pronúncia sobre o interesse dos projetos de investimento quanto aos objetivos visados pelos benefícios fiscais;\n\nd) Avaliação das aplicações relevantes;\n\ne) Avaliação do enquadramento dos projetos de investimento, não estando vinculado a quaisquer medições prefixadas de mérito, para além do disposto no presente Código;\n\nf) Análise do processo e remessa da proposta para aprovação nos termos do artigo 16.º;\n\ng) Emissão de parecer quanto à matéria relativa aos benefícios fiscais;\n\nh) Verificação do cumprimento pelos promotores dos contratos de concessão de benefícios fiscais ao investimento.\n\n2 - A Comissão é presidida por um representante designado por despacho conjunto dos Secretários Regionais responsáveis pelas áreas das finanças e da economia e integra:\n\na) Um representante do Instituto de Desenvolvimento Empresarial, IP-RAM (IDE, IP-RAM);\n\nb) Um representante da AT-RAM.\n\n3 - Os membros da Comissão referidos no número anterior são nomeados por despacho dos membros do Governo responsáveis pelas áreas das finanças e da economia.\n\n4 - O exercício de funções na Comissão, nos termos desta disposição, não confere aos nomeados quaisquer abonos ou remunerações."
+  },
+  "206206401": {
+   "fragment_id": "206198315",
+   "type": 11,
+   "heading": "Artigo 15.º — Candidatura e apreciação dos processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Candidatura e apreciação dos processos\n\n1 - Os promotores dos projetos de investimento devem apresentar, devidamente caracterizado e fundamentado, o processo de candidatura aos benefícios fiscais junto do IDE, IP-RAM.\n\n2 - As candidaturas são apresentadas por via eletrónica.\n\n3 - Sempre que os projetos de investimento tenham implicações sectoriais que o justifiquem, devem ser consultadas as entidades públicas ou privadas competentes, que se pronunciam no prazo de 10 dias úteis.\n\n4 - O IDE, IP-RAM pode, no decurso da fase de verificação das candidaturas, solicitar aos promotores dos projetos de investimento esclarecimentos complementares, os quais devem ser apresentados no prazo de 10 dias úteis, sob pena de se considerar haver desistência do procedimento.\n\n5 - O IDE, IP-RAM submete o processo devidamente instruído, por via eletrónica, acompanhado do respetivo parecer técnico, à Comissão, no prazo de 40 dias úteis contados a partir da data da apresentação da candidatura, que é suspenso nos casos previstos nos n.os 3 e 4.\n\n6 - A Comissão pronuncia-se no prazo de 60 dias úteis a contar da data de submissão do processo nos termos referidos no número anterior.\n\n7 - A Comissão pode solicitar esclarecimentos adicionais ao IDE, IP-RAM, caso em que o prazo previsto no número anterior se suspende."
+  },
+  "206206402": {
+   "fragment_id": "206198316",
+   "type": 11,
+   "heading": "Artigo 16.º — Contrato de concessão dos benefícios fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Contrato de concessão dos benefícios fiscais\n\n1 - A concessão dos benefícios fiscais é objeto de contrato, aprovado por resolução do Conselho de Governo, do qual constam, designadamente, os objetivos e as metas a cumprir pelo promotor e os benefícios fiscais concedidos, e que tem um período de vigência até 10 anos a contar da conclusão do projeto de investimento.\n\n2 - Os contratos de concessão dos benefícios fiscais são celebrados pelas entidades previstas no n.º 1 do artigo anterior na qualidade de representantes da Região Autónoma da Madeira.\n\n3 - Os aditamentos aos contratos de concessão de benefícios fiscais, dos quais não resulte um aumento dos benefícios ou da intensidade do apoio, são aprovados através de despacho dos membros do Governo Regional responsáveis pelas áreas das finanças e da economia.\n\n4 - A aprovação dos contratos ou de aditamentos aos contratos, nos termos dos números anteriores, deve ocorrer no prazo de 60 dias úteis a contar da data da pronúncia prevista no n.º 6 do artigo anterior."
+  },
+  "206206403": {
+   "fragment_id": "206198317",
+   "type": 11,
+   "heading": "Artigo 17.º — Fiscalização e acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Fiscalização e acompanhamento\n\n1 - Sem prejuízo das competências próprias da AT-RAM, em matéria de fiscalização e acompanhamento, a verificação do cumprimento, pelos promotores, dos contratos de concessão de benefícios fiscais ao investimento, compete à Comissão previsto no artigo 14.º\n\n2 - Para efeitos do cumprimento do disposto no artigo 7.º do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, o IDE, IP-RAM envia anualmente à Comissão os relatórios de verificação do cumprimento dos objetivos previstos nos contratos de concessão de benefícios fiscais."
+  },
+  "206206404": {
+   "fragment_id": "206198318",
+   "type": 11,
+   "heading": "Artigo 18.º — Direito de audição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Direito de audição\n\n1 - Caso verifique alguma situação suscetível de conduzir à resolução do contrato, nos termos do disposto no artigo 20.º, a Comissão comunica à entidade beneficiária dos benefícios fiscais a sua intenção de propor a resolução do contrato, podendo esta responder, querendo, no prazo de 30 dias.\n\n2 - Analisada a resposta à comunicação, ou decorrido o prazo para a sua emissão, a Comissão emite um parecer fundamentado, no prazo de 60 dias, no qual propõe, se for o caso, a resolução do contrato de concessão de benefícios fiscais."
+  },
+  "206206405": {
+   "fragment_id": "206198319",
+   "type": 11,
+   "heading": "Artigo 19.º — Renegociação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Renegociação\n\n1 - O contrato pode ser objeto de renegociação a pedido de qualquer das partes, caso ocorra algum evento que altere substancialmente as circunstâncias em que as partes fundaram a sua vontade de contratar.\n\n2 - Qualquer alteração contratual decorrente da renegociação referida no número anterior é submetida a aprovação nos termos dos artigos 15.º e 16.º"
+  },
+  "206206406": {
+   "fragment_id": "206198320",
+   "type": 11,
+   "heading": "Artigo 20.º — Resolução do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Resolução do contrato\n\n1 - A resolução do contrato é declarada por resolução do Conselho de Governo Regional nos seguintes casos:\n\na) Não cumprimento dos objetivos e obrigações estabelecidos no contrato, nos prazos aí fixados, por facto imputável ao promotor;\n\nb) Não cumprimento atempado das obrigações fiscais e contributivas por parte do promotor;\n\nc) Prestação de informações falsas sobre a situação do promotor ou viciação de dados fornecidos na apresentação, apreciação e acompanhamento dos projetos.\n\n2 - Para efeitos da verificação da causa de resolução prevista na alínea a) do número anterior, deve ter-se em atenção o grau de cumprimento dos objetivos contratuais (GCC) acordado contratualmente."
+  },
+  "206206407": {
+   "fragment_id": "206198321",
+   "type": 11,
+   "heading": "Artigo 21.º — Efeitos da resolução do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Efeitos da resolução do contrato\n\n1 - A resolução do contrato nos termos do artigo anterior implica a perda total dos benefícios fiscais concedidos desde a data de aprovação do mesmo, e ainda a obrigação de, no prazo de 30 dias a contar da respetiva notificação, e independentemente do tempo entretanto decorrido desde a data da verificação dos respetivos factos geradores de imposto, pagar, nos termos da lei, as importâncias correspondentes às receitas fiscais não arrecadadas, acrescidas de juros compensatórios, nos termos do artigo 35.º da LGT.\n\n2 - Na falta de pagamento dentro do prazo de 30 dias, referido no número anterior, há lugar a procedimento executivo."
+  },
+  "206206408": {
+   "fragment_id": "206198322",
+   "type": 1,
+   "heading": "Capítulo III — Regime Fiscal de Apoio ao Investimento na Região Autónoma da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Regime Fiscal de Apoio ao Investimento na Região Autónoma da Madeira"
+  },
+  "206206409": {
+   "fragment_id": "206198323",
+   "type": 11,
+   "heading": "Artigo 22.º — Âmbito de aplicação e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Âmbito de aplicação e definições\n\n1 - O RFAI-RAM é aplicável aos sujeitos passivos de IRC que exerçam uma atividade nos setores especificamente previstos no n.º 2 do artigo 2.º, tendo em consideração os códigos de atividade definidos na portaria prevista no n.º 4 do referido artigo, com exceção das atividades excluídas do âmbito sectorial de aplicação das OAR e do RGIC.\n\n2 - Para efeitos do disposto no presente regime, consideram-se aplicações relevantes os investimentos nos seguintes ativos, desde que afetos à exploração da empresa:\n\na) Ativos fixos tangíveis, adquiridos em estado de novo, com exceção de:\n\ni) Terrenos, salvo no caso de se destinarem à exploração de concessões mineiras, águas minerais naturais e de nascente, pedreiras, barreiros e areeiros em investimentos na indústria extrativa;\n\nii) Construção, aquisição, reparação e ampliação de quaisquer edifícios, salvo se forem instalações fabris ou afetos a atividades turísticas, de produção de audiovisual ou administrativas;\n\niii) Viaturas ligeiras de passageiros ou mistas;\n\niv) Mobiliário e artigos de conforto ou decoração, salvo equipamento hoteleiro afeto a exploração turística;\n\nv) Equipamentos sociais;\n\nvi) Outros bens de investimento que não estejam afetos à exploração da empresa;\n\nb) Ativos intangíveis, constituídos por despesas com transferência de tecnologia, nomeadamente através da aquisição de direitos de patentes, licenças, «know-how» ou conhecimentos técnicos não protegidos por patente.\n\n3 - No caso de sujeitos passivos de IRC que não se enquadrem na categoria das micro, pequenas e médias empresas, tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003, as aplicações relevantes a que se refere a alínea b) do número anterior não podem exceder 50 % das aplicações relevantes.\n\n4 - Podem beneficiar dos incentivos fiscais previstos no presente capítulo os sujeitos passivos de IRC que preencham cumulativamente as seguintes condições:\n\na) Disponham de contabilidade regularmente organizada, de acordo com a normalização contabilística e outras disposições legais em vigor para o respetivo setor de atividade;\n\nb) O seu lucro tributável não seja determinado por métodos indiretos;\n\nc) Mantenham na empresa e na Região durante um período mínimo de três anos a contar da data dos investimentos, no caso de micro, pequenas e médias empresas tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003, ou cinco anos nos restantes casos, os bens objeto do investimento ou, quando inferior, durante o respetivo período mínimo de vida útil, determinado nos termos do Decreto Regulamentar n.º 25/2009, de 14 de setembro, alterado pelas Leis n.os 64-B/2011, de 30 de dezembro, e 2/2014, de 16 de janeiro, ou até ao período em que se verifique o respetivo abate físico, desmantelamento, abandono ou inutilização, observadas as regras previstas no artigo 31.º-B do Código do IRC;\n\nd) Não sejam devedores ao Estado e à segurança social de quaisquer contribuições, impostos ou quotizações ou tenham o pagamento dos seus débitos devidamente assegurado;\n\ne) Não sejam consideradas empresas em dificuldade nos termos da comunicação da Comissão - Orientações relativas aos auxílios estatais de emergência e à reestruturação concedidos a empresas não financeiras em dificuldade, publicada no Jornal Oficial da União Europeia, n.º C 249, de 31 de julho de 2014;\n\nf) Efetuem investimento relevante que proporcione a criação de postos de trabalho e a sua manutenção até ao final do período mínimo de manutenção dos bens objeto de investimento, nos termos da alínea c).\n\n5 - Considera-se investimento realizado o correspondente às adições, verificadas em cada período de tributação, de ativos fixos tangíveis e ativos intangíveis e bem assim o que, tendo a natureza de ativo fixo tangível e não dizendo respeito a adiantamentos, se traduza em adições aos investimentos em curso.\n\n6 - Para efeitos do disposto no número anterior, não se consideram as adições de ativos que resultem de transferências de investimentos em curso transitado de períodos anteriores, exceto se forem adiantamentos.\n\n7 - Nas regiões elegíveis para auxílios nos termos da alínea c) do n.º 3 do artigo 107.º, do Tratado sobre o Funcionamento da União Europeia constantes do artigo 45.º, no caso de empresas que não se enquadrem na categoria das micro, pequenas e médias empresas, tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003, apenas podem beneficiar do RFAI-RAM os investimentos que respeitem a uma nova atividade económica, ou seja, a um investimento em ativos fixos tangíveis e intangíveis relacionados com a criação de um novo estabelecimento, ou com a diversificação da atividade de um estabelecimento, na condição de a nova atividade não ser a mesma ou uma atividade semelhante à anteriormente exercida no estabelecimento."
+  },
+  "206206410": {
+   "fragment_id": "206198324",
+   "type": 11,
+   "heading": "Artigo 23.º — Benefícios fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Benefícios fiscais\n\n1 - Aos sujeitos passivos de IRC previstos no n.º 1 do artigo anterior, são concedidos os seguintes benefícios fiscais:\n\na) Dedução à coleta do IRC apurada nos termos da alínea a) do n.º 1 do artigo 90.º do Código do IRC, das seguintes importâncias das aplicações relevantes:\n\ni) 35 % das aplicações relevantes, relativamente ao investimento realizado até ao montante de 1.500.000,00 euros;\n\nii) 15 % das aplicações relevantes, relativamente à parte do investimento realizado que exceda o montante de 1.500.000,00 euros;\n\nb) Isenção ou redução de IMI, por um período até 10 anos a contar do ano de aquisição ou construção do imóvel, relativamente aos prédios utilizados pelo promotor no âmbito dos investimentos que constituam aplicações relevantes, nos termos do artigo 22.º;\n\nc) Isenção ou redução de IMT relativamente às aquisições de prédios que constituam aplicações relevantes nos termos do artigo 22.º;\n\nd) Isenção de Imposto do Selo relativamente às aquisições de prédios que constituam aplicações relevantes nos termos do artigo 22.º\n\n2 - A dedução a que se refere a alínea a) do número anterior é efetuada na liquidação de IRC respeitante ao período de tributação em que sejam realizadas as aplicações relevantes, com os seguintes limites:\n\na) No caso de investimentos realizados no período de tributação do início de atividade e nos dois períodos de tributação seguintes, exceto quando a empresa resultar de cisão, até à concorrência do total da coleta do IRC apurada em cada um desses períodos de tributação;\n\nb) Nos restantes casos, até à concorrência de 50 % da coleta do IRC apurada em cada período de tributação.\n\n3 - Quando a dedução referida no número anterior não possa ser efetuada integralmente por insuficiência de coleta, a importância ainda não deduzida pode sê-lo nas liquidações dos 10 períodos de tributação seguintes, até à concorrência da coleta de IRC apurada em cada um dos períodos de tributação, no caso de investimentos abrangidos pela alínea a) do número anterior ou com o limite previsto na alínea b) do mesmo número, nos casos aí previstos.\n\n4 - Para efeitos do disposto nas alíneas b) e c) do n.º 1, as isenções ou reduções aí previstas são condicionadas ao reconhecimento, pela competente assembleia municipal, do interesse do investimento para a região.\n\n5 - Os benefícios fiscais previstos nos números anteriores devem respeitar os limites máximos aplicáveis aos auxílios com finalidade regional em vigor na região na qual o investimento seja efetuado, nos termos do artigo 45.º\n\n6 - Caso os investimentos beneficiem de outros auxílios de Estado, o cálculo dos limites referidos no número anterior deve ter em consideração o montante total dos auxílios de Estado com finalidade regional concedidos ao investimento em questão, proveniente de todas as fontes.\n\n7 - Para efeitos do disposto no número anterior, os sujeitos passivos ficam sujeitos aos procedimentos especiais de controlo do montante dos auxílios de Estado com finalidade regional concedidos ao investimento, nos termos a definir por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia."
+  },
+  "206206411": {
+   "fragment_id": "206198325",
+   "type": 11,
+   "heading": "Artigo 24.º — Exclusividade dos benefícios fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Exclusividade dos benefícios fiscais\n\n1 - Sem prejuízo do disposto no número seguinte, o RFAI-RAM não é cumulável com quaisquer benefícios fiscais da mesma natureza, incluindo os benefícios fiscais de natureza contratual, relativamente às mesmas aplicações relevantes, previstos neste ou noutros diplomas legais.\n\n2 - O RFAI-RAM é cumulável com a DLRR-RAM, desde e na medida em que não sejam ultrapassados os limites máximos aplicáveis previstos nos n.os 5 e 6 do artigo anterior."
+  },
+  "206206412": {
+   "fragment_id": "206198326",
+   "type": 11,
+   "heading": "Artigo 25.º — Obrigações acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Obrigações acessórias\n\n1 - A dedução prevista na alínea a) do n.º 1 do artigo 23.º é justificada por documento a integrar o processo de documentação fiscal, a que se refere o artigo 130.º do Código do IRC, que identifique, discriminadamente, as aplicações relevantes, o respetivo montante e outros elementos considerados relevantes.\n\n2 - Do processo de documentação fiscal relativo ao exercício da dedução deve ainda constar documento que evidencie o cálculo do benefício fiscal, bem como documentos comprovativos das condições de elegibilidade previstas no artigo 22.º\n\n3 - Nos termos da legislação europeia, é notificada à Comissão Europeia a concessão de benefícios fiscais que preencham as condições definidas nessa legislação, designadamente aqueles em que o montante ajustado dos auxílios, calculado de acordo com o mecanismo definido no parágrafo 20 do artigo 2.º do RGIC, ultrapasse o limiar de notificação previsto no ponto 20 alínea n) das OAR.\n\n4 - Os procedimentos de controlo da verificação das condições para a aplicação do regime de benefícios fiscais previsto no presente capítulo são definidos por despacho dos membros do Governo responsáveis pelas áreas das finanças e da economia."
+  },
+  "206206413": {
+   "fragment_id": "206198327",
+   "type": 11,
+   "heading": "Artigo 26.º — Incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Incumprimento\n\nEm caso de incumprimento do disposto na alínea c) do n.º 4 do artigo 22.º, é adicionado ao IRC relativo ao período de tributação em que o sujeito passivo alienou os bens objeto do investimento o imposto que deixou de ser liquidado em virtude do presente regime, acrescido dos correspondentes juros compensatórios majorados em 10 pontos percentuais."
+  },
+  "206206414": {
+   "fragment_id": "206198328",
+   "type": 1,
+   "heading": "Capítulo IV — Regime da Dedução por Lucros Retidos e Reinvestidos na Região Autónoma da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regime da Dedução por Lucros Retidos e Reinvestidos na Região Autónoma da Madeira"
+  },
+  "206206415": {
+   "fragment_id": "206198329",
+   "type": 11,
+   "heading": "Artigo 27.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Objeto\n\nA DLRR-RAM constitui um regime de incentivos fiscais ao investimento em favor de micro, pequenas e médias empresas nos termos do RGIC."
+  },
+  "206206416": {
+   "fragment_id": "206198330",
+   "type": 11,
+   "heading": "Artigo 28.º — Âmbito de aplicação subjetivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Âmbito de aplicação subjetivo\n\nPodem beneficiar da DLRR-RAM os sujeitos passivos de IRC residentes na Região Autónoma da Madeira, bem como os sujeitos passivos não residentes na Região Autónoma da Madeira mas com estabelecimento estável neste território, que exerçam, a título principal, uma atividade de natureza comercial, industrial ou agrícola, que preencham, cumulativamente, as seguintes condições:\n\na) Sejam micro, pequenas e médias empresas, tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003;\n\nb) Disponham de contabilidade regularmente organizada, de acordo com a normalização contabilística e outras disposições legais em vigor para o respetivo setor de atividade;\n\nc) O seu lucro tributável não seja determinado por métodos indiretos;\n\nd) Tenham a situação fiscal e contributiva regularizada."
+  },
+  "206206417": {
+   "fragment_id": "206198331",
+   "type": 11,
+   "heading": "Artigo 29.º — Dedução por Lucros Retidos e Reinvestidos na Região Autónoma da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Dedução por Lucros Retidos e Reinvestidos na Região Autónoma da Madeira\n\n1 - Os sujeitos passivos referidos no artigo anterior podem deduzir à coleta do IRC, nos períodos de tributação que se iniciem em ou após 1 de janeiro de 2016, até 15 % dos lucros retidos que sejam reinvestidos em aplicações relevantes nos termos do artigo 30.º, no prazo de dois anos contado a partir do final do período de tributação a que correspondam os lucros retidos.\n\n2 - Para efeitos da dedução prevista no número anterior, o montante máximo dos lucros retidos e reinvestidos, em cada período de tributação, é de 1.500.000,00 euros por sujeito passivo.\n\n3 - A dedução prevista no número anterior é feita, nos termos da alínea c) do n.º 2 do artigo 90.º do Código do IRC, até à concorrência de 25 % da coleta do IRC.\n\n4 - Aplicando-se o regime especial de tributação de grupos de sociedades, a dedução prevista no n.º 1:\n\na) Efetua-se ao montante apurado nos termos da alínea a) do n.º 1 do artigo 90.º do Código do IRC, com base na matéria coletável do grupo;\n\nb) É feita até 25 % do montante mencionado na alínea anterior e não pode ultrapassar, em relação a cada sociedade e por cada período de tributação, o limite de 25 % da coleta que seria apurada pela sociedade que realizou as aplicações relevantes caso não se aplicasse o regime especial de tributação de grupos de sociedades."
+  },
+  "206206418": {
+   "fragment_id": "206198332",
+   "type": 11,
+   "heading": "Artigo 30.º — Aplicações relevantes para a aplicação do DLRR-RAM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Aplicações relevantes para a aplicação do DLRR-RAM\n\n1 - Consideram-se aplicações relevantes, para efeitos do presente regime, os ativos fixos tangíveis, adquiridos em estado de novo, com exceção de:\n\na) Terrenos, salvo no caso de se destinarem à exploração de concessões mineiras, águas minerais naturais e de nascente, pedreiras, barreiros e areeiros em projetos de indústria extrativa;\n\nb) Construção, aquisição, reparação e ampliação de quaisquer edifícios, salvo quando afetos a atividades produtivas ou administrativas;\n\nc) Viaturas ligeiras de passageiros ou mistas, barcos de recreio e aeronaves de turismo;\n\nd) Artigos de conforto ou decoração, salvo equipamento hoteleiro afeto a exploração turística;\n\ne) Ativos afetos a atividades no âmbito de acordos de concessão ou de parceria público-privada celebrados com entidades do setor público.\n\n2 - Considera-se investimento realizado em aplicações relevantes o correspondente às adições, verificadas em cada período de tributação, de ativos fixos tangíveis e bem assim o que, tendo a natureza de ativo fixo tangível e não dizendo respeito a adiantamentos, se traduza em adições aos investimentos em curso.\n\n3 - Para efeitos do disposto no número anterior, não se consideram as adições de ativos que resultem de transferências de investimentos em curso.\n\n4 - No caso de ativos adquiridos em regime de locação financeira, a dedução a que se refere o n.º 1 do artigo anterior é condicionada ao exercício da opção de compra pelo sujeito passivo no prazo de cinco anos contado da data da aquisição.\n\n5 - As aplicações relevantes em que seja concretizado o reinvestimento dos lucros retidos devem ser detidas e contabilizadas de acordo com as regras que determinaram a sua elegibilidade, por um período mínimo de cinco anos.\n\n6 - Quando ocorra a transmissão onerosa dos ativos em que seja concretizado o reinvestimento dos lucros retidos antes de decorrido o prazo previsto no número anterior, o sujeito passivo deve reinvestir, no mesmo período de tributação ou no período de tributação seguinte, o respetivo valor de realização em aplicações relevantes nos termos do presente artigo, os quais devem ser detidos, pelo menos, pelo período necessário para completar aquele prazo."
+  },
+  "206206419": {
+   "fragment_id": "206198333",
+   "type": 11,
+   "heading": "Artigo 31.º — Não cumulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Não cumulação\n\n1 - Sem prejuízo do disposto no número seguinte, a DLRR-RAM não é cumulável, relativamente às mesmas aplicações relevantes elegíveis, com quaisquer outros benefícios fiscais ao investimento da mesma natureza.\n\n2 - A DLRR é cumulável com o regime de benefícios contratuais na Região Autónoma da Madeira e com o RFAI-RAM, nos termos e condições previstos nos artigos 13.º e 24.º, respetivamente."
+  },
+  "206206420": {
+   "fragment_id": "206198334",
+   "type": 11,
+   "heading": "Artigo 32.º — Reserva especial por lucros retidos e reinvestidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Reserva especial por lucros retidos e reinvestidos\n\n1 - Os sujeitos passivos que beneficiem da DLRR-RAM devem proceder à constituição, no balanço, de reserva especial correspondente ao montante dos lucros retidos e reinvestidos.\n\n2 - A reserva especial a que se refere o número anterior não pode ser utilizada para distribuição aos sócios antes do fim do quinto exercício posterior ao da sua constituição, sem prejuízo dos demais requisitos legais exigíveis."
+  },
+  "206206421": {
+   "fragment_id": "206198335",
+   "type": 11,
+   "heading": "Artigo 33.º — Outras obrigações acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Outras obrigações acessórias\n\n1 - A dedução prevista no artigo 29.º é justificada por documento a integrar o processo de documentação fiscal a que se refere o artigo 130.º do Código do IRC, que identifique discriminadamente o montante dos lucros retidos e reinvestidos, as aplicações relevantes objeto de reinvestimento, o respetivo montante e outros elementos considerados relevantes.\n\n2 - A contabilidade dos sujeitos passivos de IRC beneficiários da DLRR-RAM deve evidenciar o imposto que deixe de ser pago em resultado da dedução a que se refere o artigo 29.º, mediante menção do valor correspondente no anexo às demonstrações financeiras relativa ao exercício em que se efetua a dedução."
+  },
+  "206206422": {
+   "fragment_id": "206198336",
+   "type": 11,
+   "heading": "Artigo 34.º — Incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Incumprimento\n\nSem prejuízo do disposto no Regime Geral das Infrações Tributárias, aprovado pela Lei n.º 15/2001, de 15 de junho:\n\na) A não concretização da totalidade do investimento nos termos previstos no artigo 30.º até ao termo do prazo de dois anos previsto no n.º 1 do artigo 29.º implica a devolução do montante de imposto que deixou de ser liquidado na parte correspondente ao montante dos lucros não reinvestidos, ao qual é adicionado o montante de imposto a pagar relativo ao segundo período de tributação seguinte, acrescido dos correspondentes juros compensatórios majorados em 15 pontos percentuais;\n\nb) O incumprimento do disposto nos n.os 4, 5 ou 6 do artigo 30.º, implica a devolução do montante de imposto que deixou de ser liquidado na parte correspondente aos ativos relativamente aos quais não seja exercida a opção de compra ou que sejam transmitidos antes de decorrido o prazo de cinco anos, o qual é adicionado ao montante de imposto a pagar relativo ao período em que se verifiquem esses factos, acrescido dos correspondentes juros compensatórios majorados em 15 pontos percentuais;\n\nc) A não constituição da reserva especial nos termos do n.º 1 do artigo 32.º, implica a devolução do montante de imposto que deixou de ser liquidado, ao qual é adicionado o montante de imposto a pagar relativo ao segundo período de tributação seguinte, acrescido dos correspondentes juros compensatórios majorados em 15 pontos percentuais;\n\nd) O incumprimento do disposto no n.º 2 do artigo 32.º implica a devolução do montante de imposto que deixou de ser liquidado correspondente à parte da reserva que seja utilizada para distribuição aos sócios, ao qual é adicionado o montante de imposto a pagar relativo ao segundo período de tributação seguinte, acrescido dos correspondentes juros compensatórios majorados em 15 pontos percentuais."
+  },
+  "206206423": {
+   "fragment_id": "206198337",
+   "type": 1,
+   "heading": "Capítulo V — Sistema de Incentivos Fiscais em Investigação e Desenvolvimento Empresarial na Região Autónoma da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Sistema de Incentivos Fiscais em Investigação e Desenvolvimento Empresarial na Região Autónoma da Madeira"
+  },
+  "206206424": {
+   "fragment_id": "206198338",
+   "type": 11,
+   "heading": "Artigo 35.º — Sistema de Incentivos Fiscais em Investigação e Desenvolvimento Empresarial na Região Autónoma da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Sistema de Incentivos Fiscais em Investigação e Desenvolvimento Empresarial na Região Autónoma da Madeira\n\nO SIFIDE-RAM, a vigorar nos períodos de tributação de 2016 a 2020, processa-se nos termos dos artigos seguintes."
+  },
+  "206206425": {
+   "fragment_id": "206198339",
+   "type": 11,
+   "heading": "Artigo 36.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Definições\n\nPara efeitos do disposto no SIFIDE-RAM, consideram-se:\n\na) «Despesas de investigação», as realizadas pelo sujeito passivo de IRC com vista à aquisição de novos conhecimentos científicos ou técnicos;\n\nb) «Despesas de desenvolvimento», as realizadas pelo sujeito passivo de IRC através da exploração de resultados de trabalhos de investigação ou de outros conhecimentos científicos ou técnicos com vista à descoberta ou melhoria substancial de matérias-primas, produtos, serviços ou processos de fabrico."
+  },
+  "206206426": {
+   "fragment_id": "206198340",
+   "type": 11,
+   "heading": "Artigo 37.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Despesas elegíveis\n\n1 - Consideram-se dedutíveis as seguintes categorias de despesas, desde que se refiram a atividades de investigação e desenvolvimento, tal como definidas no artigo anterior:\n\na) Aquisições de ativos fixos tangíveis, à exceção de edifícios e terrenos, desde que criados ou adquiridos em estado novo e na proporção da sua afetação à realização de atividades de investigação e desenvolvimento;\n\nb) Despesas com pessoal com habilitações literárias mínimas do nível 4 do Quadro Nacional de Qualificações, diretamente envolvido em tarefas de investigação e desenvolvimento;\n\nc) Despesas com a participação de dirigentes e quadros na gestão de instituições de investigação e desenvolvimento;\n\nd) Despesas de funcionamento, até ao máximo de 55 % das despesas com o pessoal com habilitações literárias mínimas do nível 4 do Quadro Nacional de Qualificações diretamente envolvido em tarefas de investigação e desenvolvimento contabilizadas a título de remunerações, ordenados ou salários, respeitantes ao exercício;\n\ne) Despesas relativas à contratação de atividades de investigação e desenvolvimento junto de entidades públicas ou beneficiárias do estatuto de utilidade pública ou de entidades cuja idoneidade em matéria de investigação e desenvolvimento seja reconhecida por despacho dos membros do Governo responsáveis pelas áreas da economia, da inovação, da ciência, da tecnologia e do ensino superior;\n\nf) Participação no capital de instituições de investigação e desenvolvimento e contributos para fundos de investimentos, públicos ou privados, destinados a financiar empresas dedicadas sobretudo a investigação e desenvolvimento, incluindo o financiamento da valorização dos seus resultados, cuja idoneidade em matéria de investigação e desenvolvimento seja reconhecida por despacho membros do Governo responsáveis pelas áreas da economia, do emprego, da educação e da ciência;\n\ng) Custos com registo e manutenção de patentes;\n\nh) Despesas com a aquisição de patentes que sejam predominantemente destinadas à realização de atividades de investigação e desenvolvimento;\n\ni) Despesas com auditorias à investigação e desenvolvimento;\n\nj) Despesas com ações de demonstração que decorram de projetos de investigação e desenvolvimento apoiados.\n\n2 - Sem prejuízo do previsto na alínea e) do número anterior, não são consideradas quaisquer despesas incorridas no âmbito de projetos realizados exclusivamente por conta de terceiros, nomeadamente através de contratos e prestação de serviços de investigação e desenvolvimento.\n\n3 - A alínea h) do n.º 1 só é aplicável às micro, pequenas e médias empresas, tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003.\n\n4 - As despesas referidas na alínea j) do n.º 1 apenas são elegíveis quando tenham sido previamente comunicadas à entidade referida no n.º 1 do artigo 40.º\n\n5 - As despesas referidas na alínea b) do n.º 1, quando digam respeito a pessoal com habilitações literárias mínimas do nível 8 do Quadro Nacional de Qualificações, são consideradas em 120 % do seu quantitativo."
+  },
+  "206206427": {
+   "fragment_id": "206198341",
+   "type": 11,
+   "heading": "Artigo 38.º — Âmbito da dedução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Âmbito da dedução\n\n1 - Os sujeitos passivos de IRC residentes no território da Região Autónoma da Madeira que exerçam, a título principal, uma atividade de natureza agrícola, industrial, comercial e de serviços e os não residentes com estabelecimento estável nesse território podem deduzir ao montante da coleta do IRC apurado nos termos da alínea a) do n.º 1 do artigo 90.º do Código do IRC, e até à sua concorrência, o valor correspondente às despesas com investigação e desenvolvimento, na parte que não tenha sido objeto de comparticipação financeira do Estado a fundo perdido, realizadas nos períodos de tributação com início entre 1 de janeiro de 2016 e até 31 de dezembro de 2020, numa dupla percentagem:\n\na) Taxa de base - 32,5 % das despesas realizadas naquele período;\n\nb) Taxa incremental - 50 % do acréscimo das despesas realizadas naquele período em relação à média aritmética simples dos dois exercícios anteriores, até ao limite de 1.500.000,00 euros.\n\n2 - Para os sujeitos passivos de IRC que se enquadrem na categoria das micro, pequenas ou médias empresas, tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003, que ainda não completaram dois exercícios e que não beneficiaram da taxa incremental fixada na alínea b) do número anterior, aplica-se uma majoração de 15 % à taxa base fixada na alínea a) do número anterior.\n\n3 - A dedução é feita, nos termos do artigo 90.º do Código do IRC, na liquidação respeitante ao período de tributação mencionado no número anterior.\n\n4 - As despesas que, por insuficiência de coleta, não possam ser deduzidas no exercício em que foram realizadas podem ser deduzidas até ao oitavo exercício seguinte.\n\n5 - Para efeitos do disposto nos números anteriores, quando no ano de início de fruição do benefício ocorrer mudança do período de tributação, deve ser considerado o período anual que se inicie naquele ano.\n\n6 - Aos sujeitos passivos que se reorganizem, em resultado de atos de concentração tal como definidos no artigo 73.º do Código do IRC, aplica-se o disposto no n.º 3 do artigo 15.º do Estatuto dos Benefícios Fiscais."
+  },
+  "206206428": {
+   "fragment_id": "206198342",
+   "type": 11,
+   "heading": "Artigo 39.º — Condições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Condições\n\nApenas podem beneficiar da dedução a que se refere o artigo anterior os sujeitos passivos de IRC que preencham cumulativamente as seguintes condições:\n\na) O seu lucro tributável não seja determinado por métodos indiretos;\n\nb) Não sejam devedores ao Estado e à segurança social de quaisquer contribuições, impostos ou quotizações, ou tenham o seu pagamento devidamente assegurado."
+  },
+  "206206429": {
+   "fragment_id": "206198343",
+   "type": 11,
+   "heading": "Artigo 40.º — Obrigações acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Obrigações acessórias\n\n1 - A dedução a que se refere o artigo 38.º deve ser justificada por declaração comprovativa, a requerer pelas entidades interessadas, ou prova da apresentação do pedido de emissão dessa declaração, de que as atividades exercidas ou a exercer correspondem efetivamente a ações de investigação ou desenvolvimento, dos respetivos montantes envolvidos, do cálculo do acréscimo das despesas em relação à média dos dois exercícios anteriores e de outros elementos considerados pertinentes, emitida pela Agência Regional para o Desenvolvimento da Investigação Tecnologia e Inovação - ARDITI, a integrar no processo de documentação fiscal do sujeito passivo a que se refere o artigo 130.º do Código do IRC.\n\n2 - No processo de documentação fiscal do sujeito passivo deve igualmente constar documento que evidencie o cálculo do benefício fiscal, bem como documento comprovativo de que se encontra preenchida a condição referida na alínea b) do artigo anterior.\n\n3 - As entidades interessadas em recorrer ao sistema de incentivos fiscais previstos no presente capítulo devem submeter as candidaturas até ao final do mês de julho do ano seguinte ao do exercício, não sendo aceites candidaturas referentes a anos anteriores a esse período de tributação.\n\n4 - As entidades interessadas em recorrer ao sistema de incentivos fiscais previsto no presente capítulo devem disponibilizar atempadamente as informações solicitadas pela entidade referida no n.º 1 e aceitar submeter-se às auditorias tecnológicas que vierem a ser determinadas.\n\n5 - O membro do Governo Regional responsável pela área da economia, através da entidade a que se refere o n.º 1, comunica por via eletrónica à AT/AT-RAM, até ao fim do mês de fevereiro de cada ano, a identificação dos beneficiários e do montante das despesas consideradas elegíveis reportadas ao ano anterior ao da comunicação.\n\n6 - As entidades interessadas em recorrer ao sistema de incentivos fiscais previstos no presente capítulo são obrigatoriamente submetidas a uma auditoria tecnológica pela entidade referida no n.º 1 no final da vigência dos projetos.\n\n7 - A declaração comprovativa prevista no n.º 1 constitui uma decisão administrativa para efeitos do disposto no n.º 3 do artigo 122.º do Código do IRC."
+  },
+  "206206430": {
+   "fragment_id": "206198344",
+   "type": 11,
+   "heading": "Artigo 41.º — Obrigações contabilísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Obrigações contabilísticas\n\nA contabilidade dos sujeitos passivos de IRC beneficiários deste regime deve dar expressão ao imposto que deixe de ser pago em resultado da dedução a que se refere o artigo 38.º mediante menção do valor correspondente no anexo às demonstrações financeiras relativa ao exercício em que se efetua a dedução."
+  },
+  "206206431": {
+   "fragment_id": "206198345",
+   "type": 11,
+   "heading": "Artigo 42.º — Exclusividade do benefício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Exclusividade do benefício\n\nA dedução a que se refere o artigo 38.º não é cumulável, relativamente às mesmas despesas, com benefícios fiscais da mesma natureza, incluindo os benefícios fiscais de natureza contratual, previstos neste ou noutros diplomas legais."
+  },
+  "206206432": {
+   "fragment_id": "206198346",
+   "type": 1,
+   "heading": "Capítulo VI — Projetos integrados no «Brava Valley»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Projetos integrados no «Brava Valley»"
+  },
+  "206206433": {
+   "fragment_id": "206198347",
+   "type": 11,
+   "heading": "Artigo 43.º — Majoração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Majoração\n\nOs projetos integrados no «Brava Valley» poderão beneficiar de uma majoração de dez pontos percentuais relativamente aos benefícios fiscais previstos neste Código, desde que integrados nos setores de atividade previstos nas alíneas c), e), f) ou h) do n.º 3 do artigo 2.º do Código."
+  },
+  "206206434": {
+   "fragment_id": "206198348",
+   "type": 11,
+   "heading": "Artigo 44.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Regulamentação\n\nO Governo Regional fica autorizado a regulamentar, através de decreto regulamentar regional, quer a atribuição da majoração prevista no artigo anterior, quer as regras relativas ao objeto e âmbito de aplicação dos projetos integrados no «B"
+  },
+  "206206435": {
+   "fragment_id": "206198349",
+   "type": 1,
+   "heading": "Capítulo VII — Limites máximos aplicáveis aos auxílios estatais com finalidade regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Limites máximos aplicáveis aos auxílios estatais com finalidade regional"
+  },
+  "206206436": {
+   "fragment_id": "206198350",
+   "type": 11,
+   "heading": "Artigo 45.º — Limites máximos aplicáveis aos auxílios estatais com finalidade regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Limites máximos aplicáveis aos auxílios estatais com finalidade regional\n\n1 - Em conformidade com o mapa nacional de auxílios estatais com finalidade regional para o período de 1 de julho de 2014 a 31 de dezembro de 2020, aprovado pela Comissão Europeia em 11 de junho de 2014, o limite máximo aplicável aos benefícios fiscais concedidos às empresas no âmbito do regime de benefícios fiscais contratuais ao investimento produtivo e do RFAI, na Região Autónoma da Madeira é de 35 %.\n\n2 - Os limites previstos no número anterior são majorados em 10 pontos percentuais para as médias empresas e em 20 pontos percentuais para as micro e pequenas empresas tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003, exceto quanto a projetos de investimento cujas aplicações relevantes excedam 50.000.000,00 euros.\n\n3 - No caso de projetos de investimento cujas aplicações relevantes excedam 50.000.000,00 euros, independentemente da dimensão da empresa, os limites previstos no n.º 1 estão sujeitos ao ajustamento previsto no estabelecido no parágrafo 20 do artigo 2.º do RGIC."
+  },
+  "206206379": {
+   "fragment_id": "206198293",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 5 de maio de 2016.\n\nO Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.\n\nAssinado em 3 de junho de 2016.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  },
+  "206206437": {
+   "fragment_id": "206198357",
+   "type": 11,
+   "heading": "Artigo 46.º — Condições e Fiscalização",
+   "in_force_from": "2018-01-10",
+   "changed_by": [
+    "Aditado pelo/a Artigo 64.º do/a [Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º 6/2018, Série I de 2018-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), em vigor a partir de 2018-01-10, produz efeitos a partir de 2018-01-10"
+   ],
+   "markdown": "###### Artigo 46.º — Condições e Fiscalização\n\n1 - Aquando da apresentação das respetivas candidaturas aos regimes previstos no n.º 1 do artigo 1.º do presente diploma deverão os interessados:\n\na) Comprovar que não efetuaram uma relocalização para o estabelecimento em que se realizará o investimento inicial, e para o qual se solicita o auxílio, nos dois anos anteriores ao pedido de auxílio; e\n\nb) Comprometer-se a não relocalizar o estabelecimento para o qual se solicitou o respetivo auxílio por um período de dois anos após a conclusão do investimento, sem prejuízo do disposto na alínea e) do n.º 1 do artigo 6.º e da alínea e) do n.º 2 do artigo 22.º\n\n2 - Para efeitos do presente Código, e em conformidade com o Regulamento (UE) 2017/1084 da Comissão de 14 de junho de 2017, 'a relocalização' consiste 'na transferência da mesma atividade, de atividade semelhante ou de parte dessa atividade de um estabelecimento numa parte contratante do Acordo EEE (estabelecimento inicial) para o estabelecimento objeto do auxílio noutra parte contratante do Acordo EEE (estabelecimento auxiliado). Verifica-se uma transferência se o produto ou serviço nos estabelecimentos inicial e auxiliado servir, pelo menos parcialmente, os mesmos fins e satisfizer a procura ou as necessidades do mesmo tipo de clientes e se perderem empregos na mesma atividade ou em atividade semelhante num dos estabelecimentos iniciais do beneficiário no EEE'.\n\n3 - O cumprimento das obrigações impostas pelo n.º 1 do presente artigo é fiscalizado pelo IDE, IP-RAM, o qual deverá, em caso de comprovado incumprimento, desencadear os procedimentos legais conducentes à perda total dos benefícios fiscais concedidos nos termos do presente Código, designadamente, notificar os promotores e beneficiários infratores para, nos termos legais e no prazo de 30 dias, pagarem os montantes correspondentes às receitas fiscais não arrecadadas, acrescidos de juros compensatórios calculados nos termos da Lei Geral Tributária (LGT), aprovada pelo Decreto-Lei n.º 398/98, de 17 de dezembro, na sua atual redação, devendo ser extraída certidão de dívida, para efeitos de instauração de procedimento executivo no serviço de finanças competente, em caso de falta de pagamento até ao termo daquele prazo de 30 dias.\n\n> Aditado pelo/a Artigo 64.º do/a [Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º 6/2018, Série I de 2018-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), em vigor a partir de 2018-01-10, produz efeitos a partir de 2018-01-10"
+  },
+  "206206438": {
+   "fragment_id": "206198299",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito objetivo",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 20.º do/a [Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito objetivo\n\n1 - Até 31 de dezembro de 2020, podem ser concedidos benefícios fiscais, em regime contratual, com um período de vigência até 10 anos a contar da conclusão do projeto de investimento, aos projetos de investimento, tal como são caracterizados no presente capítulo, cujas aplicações relevantes sejam de montante igual ou superior a 750 000,00 euros, no caso de investimentos realizados na Ilha da Madeira e de 250 000,00 euros no caso de investimentos realizados na Ilha do Porto Santo.\n\n2 - Os benefícios fiscais em regime contratual poderão ainda ser concedidos a projetos de investimento de valor igual ou superior a 500.000,00 euros, em função da sua localização e objetivos específicos, devidamente fundamentados e definidos por decreto regulamentar regional.\n\n3 - Os projetos de investimento referidos nos números anteriores devem ter o seu objeto compreendido, nomeadamente, nas seguintes atividades económicas, respeitando o âmbito sectorial de aplicação das orientações relativas aos auxílios com finalidade regional para o período 2014-2020, publicadas no Jornal Oficial da União Europeia, n.º C 209, de 23 de julho de 2013 (OAR) e do RGIC:\n\na) Indústria extrativa e indústria transformadora;\n\nb) Turismo, incluindo as atividades com interesse para o turismo;\n\nc) Atividades e serviços informáticos e conexos;\n\nd) Atividades agrícolas, aquícolas, piscícolas, agropecuárias e florestais;\n\ne) Atividades de investigação e desenvolvimento e de alta intensidade tecnológica;\n\nf) Tecnologias da informação e produção de audiovisual e multimédia;\n\ng) Ambiente, energia e telecomunicações;\n\nh) Educação;\n\ni) Atividades de saúde humana e apoio social;\n\nj) Atividades de centros de serviços partilhados;\n\nk) Serviços administrativos de apoio à gestão e às empresas.\n\n4 - Por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia são definidos os códigos de atividade económica (CAE) correspondentes às atividades referidas no número anterior.\n\n> Alterado pelo/a Artigo 20.º do/a [Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584), em vigor a partir de 2019-01-01"
+  },
+  "206206439": {
+   "fragment_id": "206198299",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito objetivo",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Decreto Legislativo Regional n.º 18/2020/M - Diário da República n.º 253/2020, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2020-152639812), em vigor a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 20.º do/a [Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito objetivo\n\n1 - Até 31 de dezembro de 2023, podem ser concedidos benefícios fiscais, em regime contratual, com um período de vigência até 10 anos a contar da conclusão do projeto de investimento, aos projetos de investimento, tal como são caracterizados no presente capítulo, cujas aplicações relevantes sejam de montante igual ou superior a 750 000,00 euros, no caso de investimentos realizados na ilha da Madeira, e de 250 000,00 euros, no caso de investimentos realizados na ilha do Porto Santo.\n\n2 - Os benefícios fiscais em regime contratual poderão ainda ser concedidos a projetos de investimento de valor igual ou superior a 500.000,00 euros, em função da sua localização e objetivos específicos, devidamente fundamentados e definidos por decreto regulamentar regional.\n\n3 - Os projetos de investimento referidos nos números anteriores devem ter o seu objeto compreendido, nomeadamente, nas seguintes atividades económicas, respeitando o âmbito sectorial de aplicação das orientações relativas aos auxílios com finalidade regional para o período 2014-2020, publicadas no Jornal Oficial da União Europeia, n.º C 209, de 23 de julho de 2013 (OAR) e do RGIC:\n\na) Indústria extrativa e indústria transformadora;\n\nb) Turismo, incluindo as atividades com interesse para o turismo;\n\nc) Atividades e serviços informáticos e conexos;\n\nd) Atividades agrícolas, aquícolas, piscícolas, agropecuárias e florestais;\n\ne) Atividades de investigação e desenvolvimento e de alta intensidade tecnológica;\n\nf) Tecnologias da informação e produção de audiovisual e multimédia;\n\ng) Ambiente, energia e telecomunicações;\n\nh) Educação;\n\ni) Atividades de saúde humana e apoio social;\n\nj) Atividades de centros de serviços partilhados;\n\nk) Serviços administrativos de apoio à gestão e às empresas.\n\n4 - Por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia são definidos os códigos de atividade económica (CAE) correspondentes às atividades referidas no número anterior.\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto Legislativo Regional n.º 18/2020/M - Diário da República n.º 253/2020, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2020-152639812), em vigor a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 20.º do/a [Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584), em vigor a partir de 2019-01-01"
+  },
+  "206206444": {
+   "fragment_id": "206198296",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2023-01-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2023/M - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537), em vigor a partir de 2023-01-17"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O Código Fiscal do Investimento na Região Autónoma da Madeira, doravante designado por Código, estabelece:\n\na) O Regime de Benefícios Fiscais Contratuais ao Investimento Produtivo na Região Autónoma da Madeira;\n\nb) O Regime Fiscal de Apoio ao Investimento na Região Autónoma da Madeira (RFAI-RAM);\n\nc) O Regime de Dedução por Lucros Retidos e Reinvestidos na Região Autónoma da Madeira (DLRR-RAM);\n\nd) O Sistema de Incentivos Fiscais em Investigação e Desenvolvimento Empresarial na Região Autónoma da Madeira (SIFIDE-RAM).\n\n2 - O Regime de Benefícios Fiscais Contratuais ao Investimento Produtivo na Região Autónoma da Madeira e o RFAI-RAM constituem regimes de auxílios com finalidade regional aprovados nos termos do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014, que declara certas categorias de auxílio compatíveis com o mercado interno, em aplicação dos artigos 107.º e 108.º do Tratado, publicado no Jornal Oficial da União Europeia, n.º L 187, de 26 de junho de 2014, e alterado pelo Regulamento (UE) 2021/1237, da Comissão, de 23 de julho de 2021, publicado no Jornal Oficial da União Europeia, n.º L 270/39, de 29 de julho de 2014 (adiante designado por Regulamento Geral de Isenção por Categoria ou RGIC).\n\n3 - O DLRR-RAM constitui um regime de incentivos fiscais ao investimento em favor de micro, pequenas e médias empresas aprovado nos termos do RGIC.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2023/M - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537), em vigor a partir de 2023-01-17"
+  },
+  "206206445": {
+   "fragment_id": "206198299",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito objetivo",
+   "in_force_from": "2023-01-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2023/M - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537), em vigor a partir de 2023-01-17",
+    "Alterado pelo/a Artigo 21.º do/a [Decreto Legislativo Regional n.º 18/2020/M - Diário da República n.º 253/2020, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2020-152639812), em vigor a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 20.º do/a [Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito objetivo\n\n1 - Até 31 de dezembro de 2027, podem ser concedidos benefícios fiscais, em regime contratual, com um período de vigência até 10 anos a contar da conclusão do projeto de investimento, aos projetos de investimento, tal como são caracterizados no presente capítulo, cujas aplicações relevantes sejam de montante igual ou superior a 750 000,00 euros, no caso de investimentos realizados na ilha da Madeira, e de 250 000,00 euros, no caso de investimentos realizados na Ilha do Porto Santo.\n\n2 - Os benefícios fiscais em regime contratual poderão ainda ser concedidos a projetos de investimento de valor igual ou superior a 250 000,00 euros, em função da sua localização e objetivos específicos, devidamente fundamentados e definidos por portaria do Governo Regional.\n\n3 - Os projetos de investimento referidos nos números anteriores devem ter o seu objeto compreendido, nomeadamente, nas seguintes atividades económicas, respeitando o âmbito setorial de aplicação das orientações relativas aos auxílios com finalidade regional para o período 2022-2027, publicadas no Jornal Oficial da União Europeia, n.º C 153/1, de 29 de abril de 2021 (OAR), e do RGIC:\n\na) Indústria extrativa e indústria transformadora;\n\nb) Turismo, incluindo as atividades com interesse para o turismo;\n\nc) Atividades e serviços informáticos e conexos;\n\nd) Atividades agrícolas, aquícolas, piscícolas, agropecuárias e florestais;\n\ne) Atividades de investigação e desenvolvimento e de alta intensidade tecnológica;\n\nf) Tecnologias da informação e produção de audiovisual e multimédia;\n\ng) Ambiente, energia e telecomunicações;\n\nh) Educação;\n\ni) Atividades de saúde humana e apoio social;\n\nj) Atividades de centros de serviços partilhados;\n\nk) Serviços administrativos de apoio à gestão e às empresas.\n\n4 - Por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia são definidos os códigos de atividade económica (CAE) correspondentes às atividades referidas no número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2023/M - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537), em vigor a partir de 2023-01-17\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto Legislativo Regional n.º 18/2020/M - Diário da República n.º 253/2020, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2020-152639812), em vigor a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 20.º do/a [Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584), em vigor a partir de 2019-01-01"
+  },
+  "206206446": {
+   "fragment_id": "206198308",
+   "type": 11,
+   "heading": "Artigo 9.º — Critérios de determinação dos benefícios fiscais",
+   "in_force_from": "2023-01-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2023/M - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537), em vigor a partir de 2023-01-17"
+   ],
+   "markdown": "###### Artigo 9.º — Critérios de determinação dos benefícios fiscais\n\n1 - O benefício fiscal a conceder aos projetos de investimento corresponde a 25 % das aplicações relevantes do projeto efetivamente realizadas.\n\n2 - A percentagem estabelecida no número anterior pode ser majorada da seguinte forma:\n\na) Em 7,5 % caso o projeto de investimento se localize num concelho da Região Autónoma da Madeira considerado desertificado nos termos a definir através de portaria do membro do Governo com a tutela das finanças e da economia;\n\nb) Até 7,5 % se o projeto de investimento proporcionar a criação de postos de trabalho e a sua manutenção até ao final da vigência do contrato referido no artigo 20.º de acordo com os três escalões seguintes:\n\ni) 2,5 % - (igual ou maior que) 5 postos de trabalho;\n\nii) 5 % - (igual ou maior que) 20 postos de trabalho;\n\niii) 7,5 % - (igual ou maior que) 35 postos de trabalho;\n\niv) (Revogada.)\n\nc) (Revogada.)\n\nd) (Revogada.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - O benefício fiscal total corresponde à quantia resultante da aplicação das percentagens referidas neste artigo ao valor das aplicações relevantes efetivamente realizadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2023/M - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537), em vigor a partir de 2023-01-17"
+  },
+  "206206447": {
+   "fragment_id": "206198314",
+   "type": 11,
+   "heading": "Artigo 14.º — Comissão Regional de Coordenação dos Incentivos Fiscais ao Investimento",
+   "in_force_from": "2023-01-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2023/M - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537), em vigor a partir de 2023-01-17"
+   ],
+   "markdown": "###### Artigo 14.º — Comissão Regional de Coordenação dos Incentivos Fiscais ao Investimento\n\n1 - A Comissão Regional de Coordenação dos Incentivos Fiscais ao Investimento, abreviadamente designada por Comissão, tem as seguintes competências, no âmbito do regime de benefícios fiscais contratuais ao investimento produtivo:\n\na) Acompanhamento da aplicação das disposições relativas a este tipo de benefícios;\n\nb) Verificação do cumprimento das condições de acesso e de elegibilidade dos projetos de investimento;\n\nc) Pronúncia sobre o interesse dos projetos de investimento quanto aos objetivos visados pelos benefícios fiscais;\n\nd) Avaliação das aplicações relevantes;\n\ne) Avaliação do enquadramento dos projetos de investimento, não estando vinculado a quaisquer medições prefixadas de mérito, para além do disposto no presente Código;\n\nf) Análise do processo e remessa da proposta para aprovação nos termos do artigo 16.º;\n\ng) Emissão de parecer quanto à matéria relativa aos benefícios fiscais;\n\nh) Verificação do cumprimento pelos promotores dos contratos de concessão de benefícios fiscais ao investimento.\n\n2 - A Comissão é presidida por um representante designado por despacho do membro do Governo responsável pela área das finanças e integra:\n\na) Um representante do Instituto de Desenvolvimento Empresarial, IP-RAM (IDE, IP-RAM);\n\nb) Um representante da AT-RAM.\n\n3 - Os membros da Comissão referidos no número anterior são nomeados por despacho dos secretários regionais que tutelam as respetivas entidades.\n\n4 - O exercício de funções na Comissão, nos termos desta disposição, não confere aos nomeados quaisquer abonos ou remunerações.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2023/M - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537), em vigor a partir de 2023-01-17"
+  },
+  "206206448": {
+   "fragment_id": "206198323",
+   "type": 11,
+   "heading": "Artigo 22.º — Âmbito de aplicação e definições",
+   "in_force_from": "2023-01-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2023/M - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537), em vigor a partir de 2023-01-17"
+   ],
+   "markdown": "###### Artigo 22.º — Âmbito de aplicação e definições\n\n1 - O RFAI-RAM é aplicável aos sujeitos passivos de IRC que exerçam uma atividade nos setores especificamente previstos no n.º 3 do artigo 2.º, tendo em consideração os códigos de atividade definidos na portaria prevista no n.º 4 do referido artigo, com exceção das atividades excluídas do âmbito setorial de aplicação das OAR e do RGIC.\n\n2 - Para efeitos do disposto no presente regime, consideram-se aplicações relevantes os investimentos nos seguintes ativos, desde que afetos à exploração da empresa:\n\na) Ativos fixos tangíveis, adquiridos em estado de novo, com exceção de:\n\ni) Terrenos, salvo no caso de se destinarem à exploração de concessões mineiras, águas minerais naturais e de nascente, pedreiras, barreiros e areeiros em investimentos na indústria extrativa;\n\nii) Construção, aquisição, reparação e ampliação de quaisquer edifícios, salvo se forem instalações fabris ou afetos a atividades turísticas, de produção de audiovisual ou administrativas;\n\niii) Viaturas ligeiras de passageiros ou mistas;\n\niv) Mobiliário e artigos de conforto ou decoração, salvo equipamento hoteleiro afeto a exploração turística;\n\nv) Equipamentos sociais;\n\nvi) Outros bens de investimento que não estejam afetos à exploração da empresa;\n\nb) Ativos intangíveis, constituídos por despesas com transferência de tecnologia, nomeadamente através da aquisição de direitos de patentes, licenças, «know-how» ou conhecimentos técnicos não protegidos por patente.\n\n3 - No caso de sujeitos passivos de IRC que não se enquadrem na categoria das micro, pequenas e médias empresas, tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003, as aplicações relevantes a que se refere a alínea b) do número anterior não podem exceder 50 % das aplicações relevantes.\n\n4 - Podem beneficiar dos incentivos fiscais previstos no presente capítulo os sujeitos passivos de IRC que preencham, cumulativamente, as seguintes condições:\n\na) Disponham de contabilidade regularmente organizada, de acordo com a normalização contabilística e outras disposições legais em vigor para o respetivo setor de atividade;\n\nb) O seu lucro tributável não seja determinado por métodos indiretos;\n\nc) Mantenham na empresa e na Região durante um período mínimo de três anos a contar da data dos investimentos, no caso de micro, pequenas e médias empresas tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003, ou cinco anos nos restantes casos, os bens objeto do investimento ou, quando inferior, durante o respetivo período mínimo de vida útil, determinado nos termos do Decreto Regulamentar n.º 25/2009, de 14 de setembro, alterado pelas Leis n.os 64-B/2011, de 30 de dezembro, e 2/2014, de 16 de janeiro, ou até ao período em que se verifique o respetivo abate físico, desmantelamento, abandono ou inutilização, observadas as regras previstas no artigo 31.º-B do Código do IRC;\n\nd) Não sejam devedores ao Estado e à segurança social de quaisquer contribuições, impostos ou quotizações ou tenham o pagamento dos seus débitos devidamente assegurado;\n\ne) Não sejam consideradas empresas em dificuldade nos termos da comunicação da Comissão - Orientações relativas aos auxílios estatais de emergência e à reestruturação concedidos a empresas não financeiras em dificuldade, publicada no Jornal Oficial da União Europeia, n.º C 249, de 31 de julho de 2014;\n\nf) Efetuem investimento relevante que proporcione a criação de postos de trabalho e a sua manutenção até ao final do período mínimo de manutenção dos bens objeto de investimento, nos termos da alínea c).\n\n5 - Considera-se investimento realizado o correspondente às adições, verificadas em cada período de tributação, de ativos fixos tangíveis e ativos intangíveis e bem assim o que, tendo a natureza de ativo fixo tangível e não dizendo respeito a adiantamentos, se traduza em adições aos investimentos em curso.\n\n6 - Para efeitos do disposto no número anterior, não se consideram as adições de ativos que resultem de transferências de investimentos em curso transitado de períodos anteriores, exceto se forem adiantamentos.\n\n7 - Nas regiões elegíveis para auxílios nos termos da alínea c) do n.º 3 do artigo 107.º, do Tratado sobre o Funcionamento da União Europeia constantes do artigo 45.º, no caso de empresas que não se enquadrem na categoria das micro, pequenas e médias empresas, tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003, apenas podem beneficiar do RFAI-RAM os investimentos que respeitem a uma nova atividade económica, ou seja, a um investimento em ativos fixos tangíveis e intangíveis relacionados com a criação de um novo estabelecimento, ou com a diversificação da atividade de um estabelecimento, na condição de a nova atividade não ser a mesma ou uma atividade semelhante à anteriormente exercida no estabelecimento.\n\n8 - Para efeito do apuramento da condição referida na alínea f) do n.º 4 são considerados os trabalhadores por conta de outrem admitidos por efeitos do investimento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2023/M - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537), em vigor a partir de 2023-01-17"
+  },
+  "206206449": {
+   "fragment_id": "206198324",
+   "type": 11,
+   "heading": "Artigo 23.º — Benefícios fiscais",
+   "in_force_from": "2023-01-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2023/M - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537), em vigor a partir de 2023-01-17"
+   ],
+   "markdown": "###### Artigo 23.º — Benefícios fiscais\n\n1 - Aos sujeitos passivos de IRC previstos no n.º 1 do artigo anterior, são concedidos os seguintes benefícios fiscais:\n\na) Dedução à coleta do IRC apurada nos termos da alínea a) do n.º 1 do artigo 90.º do Código do IRC, de 35 % das aplicações relevantes;\n\ni) (Revogada.)\n\nii) (Revogada.)\n\nb) Isenção ou redução de IMI, por um período até 10 anos a contar do ano de aquisição ou construção do imóvel, relativamente aos prédios utilizados pelo promotor no âmbito dos investimentos que constituam aplicações relevantes, nos termos do artigo 22.º;\n\nc) Isenção ou redução de IMT relativamente às aquisições de prédios que constituam aplicações relevantes nos termos do artigo 22.º;\n\nd) Isenção de Imposto do Selo relativamente às aquisições de prédios que constituam aplicações relevantes nos termos do artigo 22.º\n\n2 - A dedução a que se refere a alínea a) do número anterior é efetuada na liquidação de IRC respeitante ao período de tributação em que sejam realizadas as aplicações relevantes, com os seguintes limites:\n\na) No caso de investimentos realizados no período de tributação do início de atividade e nos dois períodos de tributação seguintes, exceto quando a empresa resultar de cisão, até à concorrência do total da coleta do IRC apurada em cada um desses períodos de tributação;\n\nb) Nos restantes casos, até à concorrência de 50 % da coleta do IRC apurada em cada período de tributação.\n\n3 - Quando a dedução referida no número anterior não possa ser efetuada integralmente por insuficiência de coleta, a importância ainda não deduzida pode sê-lo nas liquidações dos 10 períodos de tributação seguintes, até à concorrência da coleta de IRC apurada em cada um dos períodos de tributação, no caso de investimentos abrangidos pela alínea a) do número anterior ou com o limite previsto na alínea b) do mesmo número, nos casos aí previstos.\n\n4 - Para efeitos do disposto nas alíneas b) e c) do n.º 1, as isenções ou reduções aí previstas são condicionadas ao reconhecimento, pela competente assembleia municipal, do interesse do investimento para a região.\n\n5 - Os benefícios fiscais previstos nos números anteriores devem respeitar os limites máximos aplicáveis aos auxílios com finalidade regional em vigor na região na qual o investimento seja efetuado, nos termos do artigo 45.º\n\n6 - Caso os investimentos beneficiem de outros auxílios de Estado, o cálculo dos limites referidos no número anterior deve ter em consideração o montante total dos auxílios de Estado com finalidade regional concedidos ao investimento em questão, proveniente de todas as fontes.\n\n7 - Para efeitos do disposto no número anterior, os sujeitos passivos ficam sujeitos aos procedimentos especiais de controlo do montante dos auxílios de Estado com finalidade regional concedidos ao investimento, nos termos a definir por portaria dos membros do Governo responsáveis pelas áreas das finanças e dos assuntos europeus.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2023/M - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537), em vigor a partir de 2023-01-17"
+  },
+  "206206440": {
+   "fragment_id": "206198361",
+   "type": 11,
+   "heading": "Artigo 23.º-A — Setor tecnológico",
+   "in_force_from": "2023-01-17",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 6/2023/M - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537), em vigor a partir de 2023-01-17"
+   ],
+   "markdown": "###### Artigo 23.º-A — Setor tecnológico\n\nA dedução à coleta de IRC referida na alínea a) do n.º 1 do artigo anterior, será de 40 % caso as aplicações relevantes sejam afetas a atividades tecnológicas, nomeadamente, as referidas nas alíneas c), e) e f) do n.º 3 do artigo 2.º do presente Código.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 6/2023/M - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537), em vigor a partir de 2023-01-17"
+  },
+  "206206441": {
+   "fragment_id": "206198325",
+   "type": 11,
+   "heading": "Artigo 24.º — Exclusividade dos benefícios fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Exclusividade dos benefícios fiscais\n\n1 - Sem prejuízo do disposto no número seguinte, o RFAI-RAM não é cumulável com quaisquer benefícios fiscais da mesma natureza, incluindo os benefícios fiscais de natureza contratual, relativamente às mesmas aplicações relevantes, previstos neste ou noutros diplomas legais.\n\n2 - O RFAI-RAM é cumulável com a DLRR-RAM, desde e na medida em que não sejam ultrapassados os limites máximos aplicáveis previstos nos n.os 5 e 6 do artigo anterior."
+  },
+  "206206442": {
+   "fragment_id": "206198326",
+   "type": 11,
+   "heading": "Artigo 25.º — Obrigações acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Obrigações acessórias\n\n1 - A dedução prevista na alínea a) do n.º 1 do artigo 23.º é justificada por documento a integrar o processo de documentação fiscal, a que se refere o artigo 130.º do Código do IRC, que identifique, discriminadamente, as aplicações relevantes, o respetivo montante e outros elementos considerados relevantes.\n\n2 - Do processo de documentação fiscal relativo ao exercício da dedução deve ainda constar documento que evidencie o cálculo do benefício fiscal, bem como documentos comprovativos das condições de elegibilidade previstas no artigo 22.º\n\n3 - Nos termos da legislação europeia, é notificada à Comissão Europeia a concessão de benefícios fiscais que preencham as condições definidas nessa legislação, designadamente aqueles em que o montante ajustado dos auxílios, calculado de acordo com o mecanismo definido no parágrafo 20 do artigo 2.º do RGIC, ultrapasse o limiar de notificação previsto no ponto 20 alínea n) das OAR.\n\n4 - Os procedimentos de controlo da verificação das condições para a aplicação do regime de benefícios fiscais previsto no presente capítulo são definidos por despacho dos membros do Governo responsáveis pelas áreas das finanças e da economia."
+  },
+  "206206443": {
+   "fragment_id": "206198327",
+   "type": 11,
+   "heading": "Artigo 26.º — Incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Incumprimento\n\nEm caso de incumprimento do disposto na alínea c) do n.º 4 do artigo 22.º, é adicionado ao IRC relativo ao período de tributação em que o sujeito passivo alienou os bens objeto do investimento o imposto que deixou de ser liquidado em virtude do presente regime, acrescido dos correspondentes juros compensatórios majorados em 10 pontos percentuais."
+  },
+  "206206450": {
+   "fragment_id": "206198331",
+   "type": 11,
+   "heading": "Artigo 29.º — Dedução por Lucros Retidos e Reinvestidos na Região Autónoma da Madeira",
+   "in_force_from": "2023-01-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2023/M - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537), em vigor a partir de 2023-01-17, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 29.º — Dedução por Lucros Retidos e Reinvestidos na Região Autónoma da Madeira\n\n1 - Os sujeitos passivos referidos no artigo anterior, podem deduzir à coleta do IRC, nos períodos de tributação que se iniciem em ou após 1 de janeiro de 2016, até 25 % dos lucros retidos que sejam reinvestidos em aplicações relevantes nos termos do artigo 30.º, no prazo de quatro anos contado a partir do final do período de tributação a que correspondam os lucros retidos.\n\n2 - Para efeitos da dedução prevista no número anterior, o montante máximo dos lucros retidos e reinvestidos, em cada período de tributação, é de 12 000 000,00 euros por sujeito passivo.\n\n3 - A dedução prevista no número anterior é feita, nos termos da alínea c) do n.º 2 do artigo 90.º do Código do IRC, até à concorrência de 25 % da coleta do IRC.\n\n4 - Aplicando-se o regime especial de tributação de grupos de sociedades, a dedução prevista no n.º 1:\n\na) Efetua-se ao montante apurado nos termos da alínea a) do n.º 1 do artigo 90.º do Código do IRC, com base na matéria coletável do grupo;\n\nb) É feita até 25 % do montante mencionado na alínea anterior e não pode ultrapassar, em relação a cada sociedade e por cada período de tributação, o limite de 25 % da coleta que seria apurada pela sociedade que realizou as aplicações relevantes caso não se aplicasse o regime especial de tributação de grupos de sociedades.\n\n5 - No caso dos sujeitos passivos que sejam micro e pequenas empresas, tal como definidas na Recomendação 2003/361/CE, da Comissão, de 6 de maio de 2003, a dedução prevista no n.º 2, nos termos da alínea c) do n.º 2 do artigo 90.º do Código do IRC, é feita até à concorrência de 50 % da coleta do IRC.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2023/M - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537), em vigor a partir de 2023-01-17, produz efeitos a partir de 2022-01-01"
+  },
+  "206206451": {
+   "fragment_id": "206198338",
+   "type": 11,
+   "heading": "Artigo 35.º — Sistema de Incentivos Fiscais em Investigação e Desenvolvimento Empresarial na Região Autónoma da Madeira",
+   "in_force_from": "2023-01-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2023/M - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537), em vigor a partir de 2023-01-17, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 35.º — Sistema de Incentivos Fiscais em Investigação e Desenvolvimento Empresarial na Região Autónoma da Madeira\n\nO SIFIDE-RAM, a vigorar nos períodos de tributação de 2016 a 2025, processa-se nos termos dos artigos seguintes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2023/M - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537), em vigor a partir de 2023-01-17, produz efeitos a partir de 2022-01-01"
+  },
+  "206206452": {
+   "fragment_id": "206198341",
+   "type": 11,
+   "heading": "Artigo 38.º — Âmbito da dedução",
+   "in_force_from": "2023-01-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2023/M - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537), em vigor a partir de 2023-01-17"
+   ],
+   "markdown": "###### Artigo 38.º — Âmbito da dedução\n\n1 - Os sujeitos passivos de IRC residentes no território da Região Autónoma da Madeira que exerçam, a título principal, uma atividade de natureza agrícola, industrial, comercial e de serviços e os não residentes com estabelecimento estável nesse território podem deduzir ao montante da coleta do IRC apurado nos termos da alínea a) do n.º 1 do artigo 90.º do Código do IRC, e até à sua concorrência, o valor correspondente às despesas com investigação e desenvolvimento, na parte que não tenha sido objeto de comparticipação financeira do Estado a fundo perdido, realizadas nos períodos de tributação com início entre 1 de janeiro de 2016 e até 31 de dezembro de 2025, numa dupla percentagem:\n\na) Taxa de base - 32,5 % das despesas realizadas naquele período;\n\nb) Taxa incremental - 50 % do acréscimo das despesas realizadas naquele período em relação à média aritmética simples dos dois exercícios anteriores, até ao limite de 1.500.000,00 euros.\n\n2 - Para os sujeitos passivos de IRC que se enquadrem na categoria das micro, pequenas ou médias empresas, tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003, que ainda não completaram dois exercícios e que não beneficiaram da taxa incremental fixada na alínea b) do número anterior, aplica-se uma majoração de 15 % à taxa base fixada na alínea a) do número anterior.\n\n3 - A dedução é feita, nos termos do artigo 90.º do Código do IRC, na liquidação respeitante ao período de tributação mencionado no número anterior.\n\n4 - As despesas que, por insuficiência de coleta, não possam ser deduzidas no exercício em que foram realizadas podem ser deduzidas até ao oitavo exercício seguinte.\n\n5 - Para efeitos do disposto nos números anteriores, quando no ano de início de fruição do benefício ocorrer mudança do período de tributação, deve ser considerado o período anual que se inicie naquele ano.\n\n6 - Aos sujeitos passivos que se reorganizem, em resultado de atos de concentração tal como definidos no artigo 73.º do Código do IRC, aplica-se o disposto no n.º 3 do artigo 15.º do Estatuto dos Benefícios Fiscais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2023/M - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537), em vigor a partir de 2023-01-17"
+  },
+  "206206453": {
+   "fragment_id": "206198350",
+   "type": 11,
+   "heading": "Artigo 45.º — Limites máximos aplicáveis aos auxílios estatais com finalidade regional",
+   "in_force_from": "2023-01-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2023/M - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537), em vigor a partir de 2023-01-17"
+   ],
+   "markdown": "###### Artigo 45.º — Limites máximos aplicáveis aos auxílios estatais com finalidade regional\n\n1 - Em conformidade com o mapa nacional de auxílios estatais com finalidade regional para o período de 1 de janeiro de 2022 a 31 de dezembro de 2027, aprovado pela Comissão Europeia em 8 de fevereiro de 2022, o limite máximo aplicável aos benefícios fiscais concedidos às empresas no âmbito do regime de benefícios fiscais contratuais ao investimento produtivo e do RFAI, na Região Autónoma da Madeira é de 40 %.\n\n2 - Os limites previstos no número anterior são majorados em 10 pontos percentuais para as médias empresas e em 20 pontos percentuais para as micro e pequenas empresas tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003, exceto quanto a projetos de investimento cujas aplicações relevantes excedam 50.000.000,00 euros.\n\n3 - No caso de projetos de investimento cujas aplicações relevantes excedam 50.000.000,00 euros, independentemente da dimensão da empresa, os limites previstos no n.º 1 estão sujeitos ao ajustamento previsto no estabelecido no parágrafo 20 do artigo 2.º do RGIC.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2023/M - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537), em vigor a partir de 2023-01-17"
+  },
+  "216512791": {
+   "fragment_id": "206198307",
+   "type": 11,
+   "heading": "Artigo 8.º — Benefícios fiscais",
+   "in_force_from": "2023-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 33/2023/M - Diário da República n.º 148/2023, Série I de 2023-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2023-216512881), em vigor a partir de 2023-08-02, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Benefícios fiscais\n\n1 - Aos projetos de investimento previstos nos artigos anteriores podem ser concedidos, cumulativamente, os seguintes benefícios fiscais:\n\na) Crédito de imposto, determinado com base na aplicação de uma percentagem, compreendida entre 25 % e 40 % das aplicações relevantes do projeto de investimento efetivamente realizadas, a deduzir ao montante da coleta do IRC apurada nos termos da alínea a) do n.º 1 do artigo 90.º do Código do IRC;\n\nb) Isenção ou redução de IMI, durante a vigência do contrato, relativamente aos prédios utilizados pelo promotor no âmbito do projeto de investimento;\n\nc) Isenção ou redução de IMT, relativamente às aquisições de prédios incluídas no plano de investimento e realizadas durante o período de investimento;\n\nd) Isenção de Imposto do Selo, relativamente a todos os atos ou contratos necessários à realização do projeto de investimento.\n\n2 - A dedução prevista na alínea a) do número anterior é efetuada na liquidação de IRC respeitante ao período de tributação em que foram realizadas as aplicações relevantes, podendo ainda essa dedução ser utilizada, nas mesmas condições, na liquidação dos períodos de tributação até ao termo da vigência do contrato referido no artigo 16.º, quando não o tenha sido integralmente efetuada naquele período de tributação.\n\n3 - A dedução prevista na alínea a) do n.º 1 tem os seguintes limites:\n\na) No caso de criação de empresas, a dedução anual pode corresponder ao total da coleta apurada em cada período de tributação;\n\nb) No caso de projetos em sociedades já existentes, a dedução máxima anual não pode exceder o maior valor entre 25 % do total do benefício fiscal concedido ou 50 % da coleta apurada em cada período de tributação.\n\n4 - A comprovação da isenção do imposto previsto na alínea b) do n.º 1 é efetuada mediante a apresentação do contrato referido no artigo 16.º à entidade competente para a respetiva liquidação, não dependendo de qualquer outra formalidade.\n\n5 - As isenções dos impostos previstos nas alíneas c) e d) do n.º 1 são comprovadas mediante apresentação do contrato referido no artigo 16.º à entidade competente pela respetiva liquidação, no momento da realização do ato sobre o qual essas isenções incidem.\n\n6 - O disposto nos n.os 4 e 5 deve estar devidamente documentado e justificado no processo de documentação fiscal previsto no artigo 130.º do Código do IRC.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 33/2023/M - Diário da República n.º 148/2023, Série I de 2023-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2023-216512881), em vigor a partir de 2023-08-02, produz efeitos a partir de 2023-01-01"
+  },
+  "216512801": {
+   "fragment_id": "206198329",
+   "type": 11,
+   "heading": "Artigo 27.º — Objeto",
+   "in_force_from": "2023-08-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 33/2023/M - Diário da República n.º 148/2023, Série I de 2023-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2023-216512881), em vigor a partir de 2023-08-02, produz efeitos a partir de 2023-07-27"
+   ],
+   "markdown": "###### Artigo 27.º — Objeto\n\nA DLRR-RAM constitui um regime de incentivos fiscais ao investimento em favor de micro, pequenas e médias empresas nos termos do RGIC.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 33/2023/M - Diário da República n.º 148/2023, Série I de 2023-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2023-216512881), em vigor a partir de 2023-08-02, produz efeitos a partir de 2023-07-27"
+  },
+  "216512802": {
+   "fragment_id": "206198330",
+   "type": 11,
+   "heading": "Artigo 28.º — Âmbito de aplicação subjetivo",
+   "in_force_from": "2023-08-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 33/2023/M - Diário da República n.º 148/2023, Série I de 2023-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2023-216512881), em vigor a partir de 2023-08-02, produz efeitos a partir de 2023-07-27"
+   ],
+   "markdown": "###### Artigo 28.º — Âmbito de aplicação subjetivo\n\nPodem beneficiar da DLRR-RAM os sujeitos passivos de IRC residentes na Região Autónoma da Madeira, bem como os sujeitos passivos não residentes na Região Autónoma da Madeira mas com estabelecimento estável neste território, que exerçam, a título principal, uma atividade de natureza comercial, industrial ou agrícola, que preencham, cumulativamente, as seguintes condições:\n\na) Sejam micro, pequenas e médias empresas, tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003;\n\nb) Disponham de contabilidade regularmente organizada, de acordo com a normalização contabilística e outras disposições legais em vigor para o respetivo setor de atividade;\n\nc) O seu lucro tributável não seja determinado por métodos indiretos;\n\nd) Tenham a situação fiscal e contributiva regularizada.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 33/2023/M - Diário da República n.º 148/2023, Série I de 2023-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2023-216512881), em vigor a partir de 2023-08-02, produz efeitos a partir de 2023-07-27"
+  },
+  "216512803": {
+   "fragment_id": "206198331",
+   "type": 11,
+   "heading": "Artigo 29.º — Dedução por Lucros Retidos e Reinvestidos na Região Autónoma da Madeira",
+   "in_force_from": "2023-08-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 33/2023/M - Diário da República n.º 148/2023, Série I de 2023-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2023-216512881), em vigor a partir de 2023-08-02, produz efeitos a partir de 2023-07-27",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2023/M - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537), em vigor a partir de 2023-01-17, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 29.º — Dedução por Lucros Retidos e Reinvestidos na Região Autónoma da Madeira\n\n1 - Os sujeitos passivos referidos no artigo anterior, podem deduzir à coleta do IRC, nos períodos de tributação que se iniciem em ou após 1 de janeiro de 2016, até 25 % dos lucros retidos que sejam reinvestidos em aplicações relevantes nos termos do artigo 30.º, no prazo de quatro anos contado a partir do final do período de tributação a que correspondam os lucros retidos.\n\n2 - Para efeitos da dedução prevista no número anterior, o montante máximo dos lucros retidos e reinvestidos, em cada período de tributação, é de 12 000 000,00 euros por sujeito passivo.\n\n3 - A dedução prevista no número anterior é feita, nos termos da alínea c) do n.º 2 do artigo 90.º do Código do IRC, até à concorrência de 25 % da coleta do IRC.\n\n4 - Aplicando-se o regime especial de tributação de grupos de sociedades, a dedução prevista no n.º 1:\n\na) Efetua-se ao montante apurado nos termos da alínea a) do n.º 1 do artigo 90.º do Código do IRC, com base na matéria coletável do grupo;\n\nb) É feita até 25 % do montante mencionado na alínea anterior e não pode ultrapassar, em relação a cada sociedade e por cada período de tributação, o limite de 25 % da coleta que seria apurada pela sociedade que realizou as aplicações relevantes caso não se aplicasse o regime especial de tributação de grupos de sociedades.\n\n5 - No caso dos sujeitos passivos que sejam micro e pequenas empresas, tal como definidas na Recomendação 2003/361/CE, da Comissão, de 6 de maio de 2003, a dedução prevista no n.º 2, nos termos da alínea c) do n.º 2 do artigo 90.º do Código do IRC, é feita até à concorrência de 50 % da coleta do IRC.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 33/2023/M - Diário da República n.º 148/2023, Série I de 2023-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2023-216512881), em vigor a partir de 2023-08-02, produz efeitos a partir de 2023-07-27\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2023/M - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537), em vigor a partir de 2023-01-17, produz efeitos a partir de 2022-01-01"
+  },
+  "216512804": {
+   "fragment_id": "206198332",
+   "type": 11,
+   "heading": "Artigo 30.º — Aplicações relevantes para a aplicação do DLRR-RAM",
+   "in_force_from": "2023-08-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 33/2023/M - Diário da República n.º 148/2023, Série I de 2023-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2023-216512881), em vigor a partir de 2023-08-02, produz efeitos a partir de 2023-07-27"
+   ],
+   "markdown": "###### Artigo 30.º — Aplicações relevantes para a aplicação do DLRR-RAM\n\n1 - Consideram-se aplicações relevantes, para efeitos do presente regime, os ativos fixos tangíveis, adquiridos em estado de novo, com exceção de:\n\na) Terrenos, salvo no caso de se destinarem à exploração de concessões mineiras, águas minerais naturais e de nascente, pedreiras, barreiros e areeiros em projetos de indústria extrativa;\n\nb) Construção, aquisição, reparação e ampliação de quaisquer edifícios, salvo quando afetos a atividades produtivas ou administrativas;\n\nc) Viaturas ligeiras de passageiros ou mistas, barcos de recreio e aeronaves de turismo;\n\nd) Artigos de conforto ou decoração, salvo equipamento hoteleiro afeto a exploração turística;\n\ne) Ativos afetos a atividades no âmbito de acordos de concessão ou de parceria público-privada celebrados com entidades do setor público.\n\n2 - Considera-se investimento realizado em aplicações relevantes o correspondente às adições, verificadas em cada período de tributação, de ativos fixos tangíveis e bem assim o que, tendo a natureza de ativo fixo tangível e não dizendo respeito a adiantamentos, se traduza em adições aos investimentos em curso.\n\n3 - Para efeitos do disposto no número anterior, não se consideram as adições de ativos que resultem de transferências de investimentos em curso.\n\n4 - No caso de ativos adquiridos em regime de locação financeira, a dedução a que se refere o n.º 1 do artigo anterior é condicionada ao exercício da opção de compra pelo sujeito passivo no prazo de cinco anos contado da data da aquisição.\n\n5 - As aplicações relevantes em que seja concretizado o reinvestimento dos lucros retidos devem ser detidas e contabilizadas de acordo com as regras que determinaram a sua elegibilidade, por um período mínimo de cinco anos.\n\n6 - Quando ocorra a transmissão onerosa dos ativos em que seja concretizado o reinvestimento dos lucros retidos antes de decorrido o prazo previsto no número anterior, o sujeito passivo deve reinvestir, no mesmo período de tributação ou no período de tributação seguinte, o respetivo valor de realização em aplicações relevantes nos termos do presente artigo, os quais devem ser detidos, pelo menos, pelo período necessário para completar aquele prazo.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 33/2023/M - Diário da República n.º 148/2023, Série I de 2023-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2023-216512881), em vigor a partir de 2023-08-02, produz efeitos a partir de 2023-07-27"
+  },
+  "216512805": {
+   "fragment_id": "206198333",
+   "type": 11,
+   "heading": "Artigo 31.º — Não cumulação",
+   "in_force_from": "2023-08-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 33/2023/M - Diário da República n.º 148/2023, Série I de 2023-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2023-216512881), em vigor a partir de 2023-08-02, produz efeitos a partir de 2023-07-27"
+   ],
+   "markdown": "###### Artigo 31.º — Não cumulação\n\n1 - Sem prejuízo do disposto no número seguinte, a DLRR-RAM não é cumulável, relativamente às mesmas aplicações relevantes elegíveis, com quaisquer outros benefícios fiscais ao investimento da mesma natureza.\n\n2 - A DLRR é cumulável com o regime de benefícios contratuais na Região Autónoma da Madeira e com o RFAI-RAM, nos termos e condições previstos nos artigos 13.º e 24.º, respetivamente.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 33/2023/M - Diário da República n.º 148/2023, Série I de 2023-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2023-216512881), em vigor a partir de 2023-08-02, produz efeitos a partir de 2023-07-27"
+  },
+  "216512806": {
+   "fragment_id": "206198334",
+   "type": 11,
+   "heading": "Artigo 32.º — Reserva especial por lucros retidos e reinvestidos",
+   "in_force_from": "2023-08-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 33/2023/M - Diário da República n.º 148/2023, Série I de 2023-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2023-216512881), em vigor a partir de 2023-08-02, produz efeitos a partir de 2023-07-27"
+   ],
+   "markdown": "###### Artigo 32.º — Reserva especial por lucros retidos e reinvestidos\n\n1 - Os sujeitos passivos que beneficiem da DLRR-RAM devem proceder à constituição, no balanço, de reserva especial correspondente ao montante dos lucros retidos e reinvestidos.\n\n2 - A reserva especial a que se refere o número anterior não pode ser utilizada para distribuição aos sócios antes do fim do quinto exercício posterior ao da sua constituição, sem prejuízo dos demais requisitos legais exigíveis.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 33/2023/M - Diário da República n.º 148/2023, Série I de 2023-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2023-216512881), em vigor a partir de 2023-08-02, produz efeitos a partir de 2023-07-27"
+  },
+  "216512807": {
+   "fragment_id": "206198335",
+   "type": 11,
+   "heading": "Artigo 33.º — Outras obrigações acessórias",
+   "in_force_from": "2023-08-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 33/2023/M - Diário da República n.º 148/2023, Série I de 2023-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2023-216512881), em vigor a partir de 2023-08-02, produz efeitos a partir de 2023-07-27"
+   ],
+   "markdown": "###### Artigo 33.º — Outras obrigações acessórias\n\n1 - A dedução prevista no artigo 29.º é justificada por documento a integrar o processo de documentação fiscal a que se refere o artigo 130.º do Código do IRC, que identifique discriminadamente o montante dos lucros retidos e reinvestidos, as aplicações relevantes objeto de reinvestimento, o respetivo montante e outros elementos considerados relevantes.\n\n2 - A contabilidade dos sujeitos passivos de IRC beneficiários da DLRR-RAM deve evidenciar o imposto que deixe de ser pago em resultado da dedução a que se refere o artigo 29.º, mediante menção do valor correspondente no anexo às demonstrações financeiras relativa ao exercício em que se efetua a dedução.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 33/2023/M - Diário da República n.º 148/2023, Série I de 2023-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2023-216512881), em vigor a partir de 2023-08-02, produz efeitos a partir de 2023-07-27"
+  },
+  "216512808": {
+   "fragment_id": "206198336",
+   "type": 11,
+   "heading": "Artigo 34.º — Incumprimento",
+   "in_force_from": "2023-08-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 33/2023/M - Diário da República n.º 148/2023, Série I de 2023-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2023-216512881), em vigor a partir de 2023-08-02, produz efeitos a partir de 2023-07-27"
+   ],
+   "markdown": "###### Artigo 34.º — Incumprimento\n\nSem prejuízo do disposto no Regime Geral das Infrações Tributárias, aprovado pela Lei n.º 15/2001, de 15 de junho:\n\na) A não concretização da totalidade do investimento nos termos previstos no artigo 30.º até ao termo do prazo de dois anos previsto no n.º 1 do artigo 29.º implica a devolução do montante de imposto que deixou de ser liquidado na parte correspondente ao montante dos lucros não reinvestidos, ao qual é adicionado o montante de imposto a pagar relativo ao segundo período de tributação seguinte, acrescido dos correspondentes juros compensatórios majorados em 15 pontos percentuais;\n\nb) O incumprimento do disposto nos n.os 4, 5 ou 6 do artigo 30.º, implica a devolução do montante de imposto que deixou de ser liquidado na parte correspondente aos ativos relativamente aos quais não seja exercida a opção de compra ou que sejam transmitidos antes de decorrido o prazo de cinco anos, o qual é adicionado ao montante de imposto a pagar relativo ao período em que se verifiquem esses factos, acrescido dos correspondentes juros compensatórios majorados em 15 pontos percentuais;\n\nc) A não constituição da reserva especial nos termos do n.º 1 do artigo 32.º, implica a devolução do montante de imposto que deixou de ser liquidado, ao qual é adicionado o montante de imposto a pagar relativo ao segundo período de tributação seguinte, acrescido dos correspondentes juros compensatórios majorados em 15 pontos percentuais;\n\nd) O incumprimento do disposto no n.º 2 do artigo 32.º implica a devolução do montante de imposto que deixou de ser liquidado correspondente à parte da reserva que seja utilizada para distribuição aos sócios, ao qual é adicionado o montante de imposto a pagar relativo ao segundo período de tributação seguinte, acrescido dos correspondentes juros compensatórios majorados em 15 pontos percentuais.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 33/2023/M - Diário da República n.º 148/2023, Série I de 2023-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2023-216512881), em vigor a partir de 2023-08-02, produz efeitos a partir de 2023-07-27"
+  },
+  "216512792": {
+   "fragment_id": "206198340",
+   "type": 11,
+   "heading": "Artigo 37.º — Despesas elegíveis",
+   "in_force_from": "2023-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 33/2023/M - Diário da República n.º 148/2023, Série I de 2023-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2023-216512881), em vigor a partir de 2023-08-02, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 37.º — Despesas elegíveis\n\n1 - Consideram-se dedutíveis as seguintes categorias de despesas, desde que se refiram a atividades de investigação e desenvolvimento, tal como definidas no artigo anterior:\n\na) Aquisições de ativos fixos tangíveis, à exceção de edifícios e terrenos, desde que criados ou adquiridos em estado novo e na proporção da sua afetação à realização de atividades de investigação e desenvolvimento;\n\nb) Despesas com pessoal com habilitações literárias mínimas do nível 4 do Quadro Nacional de Qualificações, diretamente envolvido em tarefas de investigação e desenvolvimento;\n\nc) Despesas com a participação de dirigentes e quadros na gestão de instituições de investigação e desenvolvimento;\n\nd) Despesas de funcionamento, até ao máximo de 55 % das despesas com o pessoal com habilitações literárias mínimas do nível 4 do Quadro Nacional de Qualificações diretamente envolvido em tarefas de investigação e desenvolvimento contabilizadas a título de remunerações, ordenados ou salários, respeitantes ao exercício;\n\ne) Despesas relativas à contratação de atividades de investigação e desenvolvimento junto de entidades públicas ou beneficiárias do estatuto de utilidade pública ou de entidades cuja idoneidade em matéria de investigação e desenvolvimento seja reconhecida nos termos do artigo 37.º-A;\n\nf) Participação no capital de instituições de investigação e desenvolvimento de contribuições para fundos de investimento, públicos ou privados, que realizem investimentos de capital próprio e de quase-capital, tal como definidos na Comunicação da Comissão 2014/C19/04, de 22 de janeiro de 2014, em empresas dedicadas sobretudo a investigação e desenvolvimento, incluindo o financiamento da valorização dos seus resultados, cuja idoneidade em matéria de investigação e desenvolvimento seja reconhecida pela ARDITI - Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação - Associação, nos termos do n.º 1 do artigo 37.º-A;\n\ng) Custos com registo e manutenção de patentes;\n\nh) Despesas com a aquisição de patentes que sejam predominantemente destinadas à realização de atividades de investigação e desenvolvimento;\n\ni) Despesas com auditorias à investigação e desenvolvimento;\n\nj) Despesas com ações de demonstração que decorram de projetos de investigação e desenvolvimento apoiados.\n\n2 - Sem prejuízo do previsto na alínea e) do número anterior, não são consideradas quaisquer despesas incorridas no âmbito de projetos realizados exclusivamente por conta de terceiros, nomeadamente através de contratos e prestação de serviços de investigação e desenvolvimento.\n\n3 - A alínea h) do n.º 1 só é aplicável às micro, pequenas e médias empresas, tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003.\n\n4 - As despesas referidas na alínea j) do n.º 1 apenas são elegíveis quando tenham sido previamente comunicadas à entidade referida no n.º 1 do artigo 40.º\n\n5 - As despesas referidas na alínea b) do n.º 1, quando digam respeito a pessoal com habilitações literárias mínimas do nível 8 do Quadro Nacional de Qualificações, são consideradas em 120 % do seu quantitativo.\n\n6 - As despesas que digam respeito a atividades de investigação e desenvolvimento associadas a projetos de conceção ecológica de produtos são consideradas em 120 %.\n\n7 - Para efeitos do previsto na alínea f) do n.º 1, considera-se empresa dedicada sobretudo a investigação e desenvolvimento aquela que cumpra os requisitos para o reconhecimento como empresa do setor da tecnologia, previstos no n.º 1 do artigo 3.º da Portaria n.º 195/2018, de 5 de julho, ainda que tenham sido constituídas há mais de seis anos e independentemente de terem obtido ou solicitado tal reconhecimento.\n\n8 - O disposto na alínea f) do n.º 1 não é aplicável às operações realizadas entre entidades com relações especiais nos termos do artigo 63.º do Código do IRC.\n\n9 - Para efeitos do número anterior considera-se existirem relações especiais entre o fundo de investimento e a respetiva sociedade gestora.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 33/2023/M - Diário da República n.º 148/2023, Série I de 2023-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2023-216512881), em vigor a partir de 2023-08-02, produz efeitos a partir de 2023-01-01"
+  },
+  "216512795": {
+   "fragment_id": "216512939",
+   "type": 11,
+   "heading": "Artigo 37.º-A — Reconhecimento da idoneidade e do caráter de investigação e desenvolvimento das entidades",
+   "in_force_from": "2023-08-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 33/2023/M - Diário da República n.º 148/2023, Série I de 2023-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2023-216512881), em vigor a partir de 2023-08-02, produz efeitos a partir de 2023-07-27"
+   ],
+   "markdown": "###### Artigo 37.º-A — Reconhecimento da idoneidade e do caráter de investigação e desenvolvimento das entidades\n\n1 - Cabe à ARDITI - Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação - Associação, o reconhecimento da idoneidade da entidade em matéria de investigação e desenvolvimento a que se referem as alíneas e) e f) do n.º 1 do artigo 37.º\n\n2 - O reconhecimento da idoneidade da entidade nos termos previstos no número anterior é válido até ao décimo segundo exercício seguinte àquele em que foi pedido.\n\n3 - As entidades cuja idoneidade tenha sido reconhecida há 12 anos são objeto de uma reavaliação oficiosa, a efetuar pela ARDITI - Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação - Associação, destinada a verificar a manutenção dos pressupostos que determinaram o reconhecimento.\n\n4 - À manutenção do reconhecimento da idoneidade, após a reavaliação referida no número anterior, aplica-se o disposto no n.º 2.\n\n5 - Caso, em resultado da reavaliação referida no n.º 3 e ouvida a entidade cuja idoneidade se avalia, se verifique que esta não mais reúne os pressupostos do reconhecimento, este cessará.\n\n6 - A cessação do reconhecimento da idoneidade referida no número anterior não obsta a que a entidade faça novo pedido, ficando a consideração das despesas enquadráveis na categoria prevista na alínea e) do n.º 1 do artigo 37.º, dependente do novo reconhecimento.\n\n7 - Os sujeitos passivos de IRC apenas poderão incluir nas suas candidaturas despesas enquadráveis na categoria prevista na alínea e) do n.º 1 do artigo 37.º quando o pedido aí referido tenha sido apresentado em data anterior à celebração do primeiro contrato com a entidade em causa, devendo desse facto fazer menção na sua candidatura.\n\n8 - A consideração das despesas referidas no número anterior fica condicionada à emissão da declaração de reconhecimento da idoneidade da entidade em matéria de investigação e desenvolvimento.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 33/2023/M - Diário da República n.º 148/2023, Série I de 2023-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2023-216512881), em vigor a partir de 2023-08-02, produz efeitos a partir de 2023-07-27"
+  },
+  "216512796": {
+   "fragment_id": "206198341",
+   "type": 11,
+   "heading": "Artigo 38.º — Âmbito da dedução",
+   "in_force_from": "2023-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 33/2023/M - Diário da República n.º 148/2023, Série I de 2023-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2023-216512881), em vigor a partir de 2023-08-02, produz efeitos a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2023/M - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537), em vigor a partir de 2023-01-17"
+   ],
+   "markdown": "###### Artigo 38.º — Âmbito da dedução\n\n1 - Os sujeitos passivos de IRC residentes no território da Região Autónoma da Madeira que exerçam, a título principal, uma atividade de natureza agrícola, industrial, comercial e de serviços e os não residentes com estabelecimento estável nesse território podem deduzir ao montante da coleta do IRC apurado nos termos da alínea a) do n.º 1 do artigo 90.º do Código do IRC, e até à sua concorrência, o valor correspondente às despesas com investigação e desenvolvimento, na parte que não tenha sido objeto de comparticipação financeira do Estado a fundo perdido, realizadas nos períodos de tributação com início entre 1 de janeiro de 2016 e até 31 de dezembro de 2025, numa dupla percentagem:\n\na) Taxa de base - 32,5 % das despesas realizadas naquele período;\n\nb) Taxa incremental - 50 % do acréscimo das despesas realizadas naquele período em relação à média aritmética simples dos dois exercícios anteriores, até ao limite de 1.500.000,00 euros.\n\n2 - Para os sujeitos passivos de IRC que se enquadrem na categoria das micro, pequenas ou médias empresas, tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003, que ainda não completaram dois exercícios e que não beneficiaram da taxa incremental fixada na alínea b) do número anterior, aplica-se uma majoração de 15 % à taxa base fixada na alínea a) do número anterior.\n\n3 - A dedução é feita, nos termos do artigo 90.º do Código do IRC, na liquidação respeitante ao período de tributação mencionado no número anterior.\n\n4 - As despesas que, por insuficiência de coleta, não possam ser deduzidas no período em que foram realizadas podem ser deduzidas até ao décimo segundo período seguinte.\n\n5 - Para efeitos do disposto nos números anteriores, quando no ano de início de fruição do benefício ocorrer mudança do período de tributação, deve ser considerado o período anual que se inicie naquele ano.\n\n6 - Aos sujeitos passivos que se reorganizem, em resultado de atos de concentração tal como definidos no artigo 73.º do Código do IRC, aplica-se o disposto no n.º 3 do artigo 15.º do Estatuto dos Benefícios Fiscais.\n\n7 - Sem prejuízo do disposto no n.º 3:\n\na) Caso as unidades de participação nos fundos de investimento referidos na alínea f) do n.º 1 do artigo 37.º sejam alienadas antes de decorrido o prazo de 10 anos contados da data da aquisição, ao IRC do período da alienação é adicionado o montante que tenha sido deduzido à coleta, na proporção correspondente ao período em falta, acrescido dos correspondentes juros compensatórios;\n\nb) Independentemente do período de investimento previsto no respetivo regulamento de gestão, caso o fundo de investimento não venha a realizar, pelo menos, 85 % do investimento nas empresas dedicadas sobretudo a investigação e desenvolvimento a que se refere a parte final da alínea f) do n.º 1 do artigo 37.º, no prazo de três anos contados da data da aquisição das unidades de participação, ao IRC do período de tributação em que se verifique o incumprimento daquele prazo é adicionado o montante proporcional à parte não concretizada dos investimentos que tenha sido deduzido à coleta;\n\nc) Caso as empresas dedicadas sobretudo a investigação e desenvolvimento a que se refere a parte final da alínea f) do n.º 1 do artigo 37.º não concretizem o investimento em atividades de investigação e desenvolvimento, tendo em conta as aplicações relevantes previstas no n.º 1 do artigo 37.º, no prazo de três anos contados da data de aquisição dos investimentos de capital próprio e de quase-capital, ao IRC do período de tributação em que se verifique o incumprimento daquele prazo é adicionado o montante proporcional à parte não concretizada dos investimentos que tenha sido deduzido à coleta.\n\n8 - Para efeitos do número anterior:\n\na) Os fundos de investimento devem, até ao final do quarto mês de cada período de tributação, entregar aos adquirentes das unidades de participação declaração comprovativa do investimento realizado no período anterior em empresas dedicadas sobretudo a investigação e desenvolvimento, a que se refere a parte final da alínea f) do n.º 1 do artigo 37.º, devendo igualmente informar, sendo o caso, do incumprimento do prazo previsto na alínea b) do número anterior e do montante de investimento não concretizado;\n\nb) As empresas dedicadas sobretudo a investigação e desenvolvimento devem, até ao final do quarto mês de cada período de tributação, entregar aos fundos de investimento declaração comprovativa do investimento realizado no período anterior em aplicações relevantes previstas no n.º 1 do artigo 37.º, bem como, sendo o caso, informar do incumprimento do prazo previsto na alínea c) do número anterior e do montante de investimento não concretizado, cabendo ao fundo de investimento comunicar esta informação aos respetivos adquirentes das unidades de participação para efeitos de regularização do IRC, quando aplicável;\n\nc) As declarações referidas nas alíneas anteriores devem integrar o processo de documentação fiscal, a que se refere o artigo 130.º do Código do IRC, das entidades adquirentes das unidades de participação e dos fundos de investimento.\n\n9 - O disposto na alínea b) do n.º 1 não é aplicável às despesas previstas na alínea f) do n.º 1 do artigo 37.º\n\n10 - As empresas dedicadas sobretudo a investigação e desenvolvimento não podem beneficiar da dedução a que se refere o n.º 1 quando estejam em causa aplicações relevantes no âmbito de atividades de investigação e desenvolvimento financiadas, direta ou indiretamente, por fundos de investimento no âmbito do SIFIDE.\n\n11 - Para efeitos do disposto no número anterior, as entidades participantes devem, até ao final do mês seguinte ao da entrega da declaração a que se refere o artigo 120.º do Código do IRC, informar:\n\na) No caso de participação no capital de instituições de investigação e desenvolvimento, as empresas participadas, de que beneficiam do SIFIDE relativamente ao montante aplicado nos termos da alínea f) do n.º 1 do artigo 37.º;\n\nb) No caso de contribuições para fundos de investimento, a sociedade gestora, de que beneficiam do SIFIDE relativamente ao montante aplicado nos termos da alínea f) do n.º 1 do artigo 37.º, devendo esta, subsequentemente, no prazo de 30 dias, comunicar esse facto às empresas em que realizou investimentos de capital próprio e de quase-capital.\n\n12 - A ausência das comunicações referidas no número anterior determina a impossibilidade de dedução dos montantes aplicados nos termos da alínea f) do n.º 1 do artigo 37.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 33/2023/M - Diário da República n.º 148/2023, Série I de 2023-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2023-216512881), em vigor a partir de 2023-08-02, produz efeitos a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2023/M - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537), em vigor a partir de 2023-01-17"
+  },
+  "216512797": {
+   "fragment_id": "206198342",
+   "type": 11,
+   "heading": "Artigo 39.º — Condições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Condições\n\nApenas podem beneficiar da dedução a que se refere o artigo anterior os sujeitos passivos de IRC que preencham cumulativamente as seguintes condições:\n\na) O seu lucro tributável não seja determinado por métodos indiretos;\n\nb) Não sejam devedores ao Estado e à segurança social de quaisquer contribuições, impostos ou quotizações, ou tenham o seu pagamento devidamente assegurado."
+  },
+  "216512798": {
+   "fragment_id": "206198343",
+   "type": 11,
+   "heading": "Artigo 40.º — Obrigações acessórias",
+   "in_force_from": "2023-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 33/2023/M - Diário da República n.º 148/2023, Série I de 2023-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2023-216512881), em vigor a partir de 2023-08-02, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 40.º — Obrigações acessórias\n\n1 - A dedução a que se refere o artigo 38.º deve ser justificada por declaração comprovativa, a requerer pelas entidades interessadas, ou prova da apresentação do pedido de emissão dessa declaração, de que as atividades exercidas ou a exercer correspondem efetivamente a ações de investigação ou desenvolvimento, dos respetivos montantes envolvidos, excetuando os encargos com os serviços prestados pelas entidades gestoras dos fundos de investimento conforme o máximo definido nos respetivos regulamentos, do cálculo do acréscimo das despesas em relação à média dos dois exercícios anteriores e de outros elementos considerados pertinentes, emitida pela ARDITI - Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação - Associação, no âmbito do sistema de incentivos fiscais em investigação e desenvolvimento empresarial, a integrar no processo de documentação fiscal do sujeito passivo a que se refere o artigo 130.º do Código do IRC.\n\n2 - No processo de documentação fiscal do sujeito passivo deve igualmente constar documento que evidencie o cálculo do benefício fiscal, bem como documento comprovativo de que se encontra preenchida a condição referida na alínea b) do artigo anterior.\n\n3 - As entidades interessadas em recorrer ao sistema de incentivos fiscais previstos no presente capítulo devem submeter as candidaturas até ao final do 5.º mês do ano seguinte ao do exercício, não sendo aceites candidaturas referentes a anos anteriores a esse período de tributação.\n\n4 - As entidades interessadas em recorrer ao sistema de incentivos fiscais previstos no presente capítulo devem disponibilizar atempadamente as informações solicitadas pela entidade referida no n.º 1 e aceitar submeter-se às auditorias tecnológicas que vierem a ser determinadas, de modo a aferir o cumprimento das condições da concessão do incentivo, qualquer que seja a sua natureza.\n\n5 - A ARDITI - Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação - Associação, comunica, por via eletrónica, à AT-RAM, até ao fim do mês de fevereiro de cada ano, a identificação dos beneficiários e do montante das despesas consideradas elegíveis reportadas ao ano anterior ao da comunicação, discriminando os beneficiários e o montante das despesas majoradas nos termos do n.º 6 do artigo 37.º, com projetos validados pela Agência Portuguesa do Ambiente, I. P. (APA, I. P.), nos termos do n.º 8.\n\n6 - As entidades interessadas em recorrer ao sistema de incentivos fiscais previstos no presente capítulo podem ser submetidas a uma auditoria tecnológica pela entidade referida no n.º 1.\n\n7 - A declaração comprovativa prevista no n.º 1 constitui uma decisão administrativa para efeitos do disposto no n.º 3 do artigo 122.º do Código do IRC.\n\n8 - Para efeitos de aplicação da majoração prevista no n.º 6 do artigo 37.º:\n\na) As entidades interessadas devem apresentar à ARDITI - Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação - Associação, a sua candidatura com os elementos que permitam verificar que a despesa a certificar respeita a projetos de conceção ecológica de produtos, incluindo reconhecimentos ou certificações já existentes que atestem essa natureza;\n\nb) A ARDITI - Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação - Associação, remete à APA, I. P., nos 15 dias úteis após o termo do prazo para submissão das candidaturas, os elementos a que se refere a alínea anterior, para que esta possa emitir parecer vinculativo;\n\nc) A APA, I. P., comunica à ARDITI - Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação - Associação, o teor do seu parecer vinculativo até 15 de novembro.\n\n9 - As entidades beneficiadas pelo SIFIDE comprometem-se a comunicar anualmente, no prazo de dois meses após o encerramento de cada exercício, à ARDITI - Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação - Associação, através de mapa de indicadores a disponibilizar por esta, os resultados das atividades apoiadas pelo incentivo fiscal concedido, durante os três anos seguintes à aprovação do mesmo.\n\n10 - Para efeitos de verificação do investimento realizado, em que se inclui também a comprovação da não verificação da condição a que se refere a alínea b) do n.º 7 do artigo 38.º, as entidades gestoras dos fundos de investimento a que se refere a alínea f) do n.º 1 do artigo 37.º enviam à ARDITI - Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação - Associação, até 30 de junho de cada ano, o último relatório anual auditado, bem como documento, seja portefólio ou outro, que comprove os investimentos efetivamente realizados pelo fundo, no período anterior, nas entidades previstas naquela disposição.\n\n11 - As entidades gestoras dos fundos de investimento podem solicitar à ARDITI - Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação - Associação, a emissão de declaração de conformidade da política de investimento prevista no regulamento de gestão do fundo face ao requisito da destinação do investimento referido na alínea f) do n.º 1 do artigo 37.º, não tendo esta declaração caráter vinculativo quanto à elegibilidade futura da despesa a que se refere esta disposição.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 33/2023/M - Diário da República n.º 148/2023, Série I de 2023-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2023-216512881), em vigor a partir de 2023-08-02, produz efeitos a partir de 2023-01-01"
+  },
+  "216512799": {
+   "fragment_id": "206198344",
+   "type": 11,
+   "heading": "Artigo 41.º — Obrigações contabilísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Obrigações contabilísticas\n\nA contabilidade dos sujeitos passivos de IRC beneficiários deste regime deve dar expressão ao imposto que deixe de ser pago em resultado da dedução a que se refere o artigo 38.º mediante menção do valor correspondente no anexo às demonstrações financeiras relativa ao exercício em que se efetua a dedução."
+  },
+  "216512800": {
+   "fragment_id": "206198345",
+   "type": 11,
+   "heading": "Artigo 42.º — Exclusividade do benefício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Exclusividade do benefício\n\nA dedução a que se refere o artigo 38.º não é cumulável, relativamente às mesmas despesas, com benefícios fiscais da mesma natureza, incluindo os benefícios fiscais de natureza contratual, previstos neste ou noutros diplomas legais."
+  },
+  "873753618": {
+   "fragment_id": "206198307",
+   "type": 11,
+   "heading": "Artigo 8.º — Benefícios fiscais",
+   "in_force_from": "2024-07-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 33/2023/M - Diário da República n.º 148/2023, Série I de 2023-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2023-216512881), em vigor a partir de 2023-08-02, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Benefícios fiscais\n\n1 - Aos projetos de investimento previstos nos artigos anteriores podem ser concedidos, cumulativamente, os seguintes benefícios fiscais:\n\na) Crédito de imposto, determinado com base na aplicação de uma percentagem, compreendida entre 25 % e 40 % das aplicações relevantes do projeto de investimento efetivamente realizadas, a deduzir ao montante da coleta do IRC apurada nos termos da alínea a) do n.º 1 do artigo 90.º do Código do IRC;\n\nb) Isenção ou redução de IMI, durante a vigência do contrato, relativamente aos prédios utilizados pelo promotor no âmbito do projeto de investimento;\n\nc) Isenção ou redução de IMT, relativamente às aquisições de prédios incluídas no plano de investimento e realizadas durante o período de investimento;\n\nd) Isenção de Imposto do Selo, relativamente a todos os atos ou contratos necessários à realização do projeto de investimento.\n\ne) Aplicação de taxa especial, nos termos da alínea b) do n.º 1 do artigo 58.º-A do Estatuto dos Benefícios Fiscais, aos trabalhadores que ocupem postos de trabalho qualificados no âmbito do contrato.\n\n2 - A dedução prevista na alínea a) do número anterior é efetuada na liquidação de IRC respeitante ao período de tributação em que foram realizadas as aplicações relevantes, podendo ainda essa dedução ser utilizada, nas mesmas condições, na liquidação dos períodos de tributação até ao termo da vigência do contrato referido no artigo 16.º, quando não o tenha sido integralmente efetuada naquele período de tributação.\n\n3 - A dedução prevista na alínea a) do n.º 1 tem os seguintes limites:\n\na) No caso de criação de empresas, a dedução anual pode corresponder ao total da coleta apurada em cada período de tributação;\n\nb) No caso de projetos em sociedades já existentes, a dedução máxima anual não pode exceder o maior valor entre 25 % do total do benefício fiscal concedido ou 50 % da coleta apurada em cada período de tributação.\n\n4 - A comprovação da isenção do imposto previsto na alínea b) do n.º 1 é efetuada mediante a apresentação do contrato referido no artigo 16.º à entidade competente para a respetiva liquidação, não dependendo de qualquer outra formalidade.\n\n5 - As isenções dos impostos previstos nas alíneas c) e d) do n.º 1 são comprovadas mediante apresentação do contrato referido no artigo 16.º à entidade competente pela respetiva liquidação, no momento da realização do ato sobre o qual essas isenções incidem.\n\n6 - O disposto nos n.os 4 e 5 deve estar devidamente documentado e justificado no processo de documentação fiscal previsto no artigo 130.º do Código do IRC.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 33/2023/M - Diário da República n.º 148/2023, Série I de 2023-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2023-216512881), em vigor a partir de 2023-08-02, produz efeitos a partir de 2023-01-01"
+  },
+  "873753619": {
+   "fragment_id": "206198310",
+   "type": 11,
+   "heading": "Artigo 11.º — Aplicações relevantes",
+   "in_force_from": "2024-07-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Aplicações relevantes\n\n1 - Consideram-se aplicações relevantes, para efeitos de cálculo dos benefícios fiscais, as despesas associadas aos projetos de investimento e relativas a:\n\na) Ativos fixos tangíveis afetos à realização do projeto, com exceção de:\n\ni) Terrenos que não se incluam em projetos do setor da indústria extrativa, destinados à exploração de concessões minerais, águas de mesa e medicinais, pedreiras, barreiras e areeiros;\n\nii) Edifícios e outras construções não diretamente ligados ao processo produtivo ou às atividades administrativas essenciais;\n\niii) Viaturas ligeiras ou mistas;\n\niv) Outro material de transporte no valor que ultrapasse 20 % do total das aplicações relevantes;\n\nv) Mobiliário e artigos de conforto ou decoração, salvo equipamento hoteleiro afeto a exploração turística;\n\nvi) Equipamentos sociais;\n\nvii) Outros bens de investimento que não sejam afetos à exploração da empresa, salvo equipamentos produtivos destinados à utilização, para fins económicos, dos resíduos resultantes do processo de transformação produtiva ou de consumo em Portugal, desde que de reconhecido interesse industrial e ambiental;\n\nb) Ativos intangíveis, constituídos por despesas com transferência de tecnologia, nomeadamente através da aquisição de direitos de patentes, licenças, «know-how» ou conhecimentos técnicos não protegidos por patente.\n\nc) Custos salariais estimados decorrentes da criação de postos de trabalho, quando digam respeito a pessoal com habilitações literárias do nível 7 ou do nível 8 do Quadro Nacional de Qualificações, em virtude do investimento inicial em causa, calculados ao longo de um período de dois anos, conforme previsto na alínea b) do n.º 4 e no n.º 9 do artigo 14.º do Regulamento Geral de Isenção por Categoria, entendendo-se que estes representam o custo total suportado pelas empresas beneficiárias em relação àqueles postos de trabalho criados, incluindo o salário bruto antes de impostos, as contribuições obrigatórias para a segurança social, o seguro de acidentes de trabalho, os encargos com a guarda de crianças e ascendentes, bem como outros encargos de origem legal ou advenientes de regulamentação coletiva de trabalho;\n\nd) Uma combinação das alíneas a), b) e c) que não exceda o montante de a), b) ou c), consoante o que for mais elevado.\n\n2 - No caso de sujeitos passivos de IRC que não se enquadrem na categoria das micro, pequenas e médias empresas, tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003, as despesas de investimento a que se refere a alínea b) do número anterior não podem exceder 50 % das aplicações relevantes.\n\n3 - Os ativos previstos na alínea a) do n.º 1 podem ser adquiridos em regime de locação financeira, nos termos definidos na alínea b) do parágrafo 6 do artigo 14.º do RGIC, desde que seja exercida a opção de compra prevista no respetivo contrato durante o período de vigência do contrato de concessão de benefícios fiscais.\n\n4 - Para efeitos do disposto nos números anteriores, excluem-se da noção de aplicações relevantes as relativas a equipamentos usados e investimento de substituição.\n\n5 - As aplicações relevantes previstas na alínea a) do n.º 1 e no n.º 2 devem ser contabilizadas no ativo fixo das empresas promotoras dos projetos de investimento, devendo estes bens permanecer no ativo da empresa durante o período de vigência do contrato de concessão de benefícios fiscais, exceto se a respetiva alienação for autorizada mediante despacho dos membros do Governo responsáveis pelas áreas das finanças e da economia, respeitados os limites previstos no n.º 5 do artigo 14.º do RGIC.\n\n6 - São elegíveis os adiantamentos relacionados com o projeto, até ao valor de 50 % do custo de cada aquisição, desde que realizados há menos de um ano antes da data de candidatura a benefícios fiscais.\n\n7 - São elegíveis as despesas relativas aos estudos diretamente relacionados com o projeto de investimento, contabilizadas como ativo intangível, desde que realizados há menos de um ano antes da data de candidatura a benefícios fiscais.\n\n8 - No caso de as aplicações relevantes tidas em conta para efeitos de cálculo dos benefícios fiscais incluírem as despesas a que se refere a alínea c) do n.º 1, devem ser preenchidas as seguintes condições:\n\na) O projeto de investimento deve conduzir a um aumento líquido do número de trabalhadores da entidade beneficiária, em comparação com a média dos 12 meses anteriores, ou seja, durante a vigência do contrato de concessão de benefícios fiscais, qualquer perda de postos de trabalho deve ser deduzida do número aparente de postos de trabalho criados nesse período;\n\nb) Cada posto de trabalho deve ser preenchido no prazo de três anos após a conclusão dos trabalhos;\n\nc) Cada posto de trabalho criado através do investimento deve ser mantido durante um período mínimo de cinco anos, a contar da data em que a vaga foi preenchida pela primeira vez.\n\n9 - O número de anos previsto na alínea c) do número anterior é de três anos caso o sujeito passivo se qualifique como micro, pequena ou média empresa ou empresa de pequena-média capitalização (Small Mid Cap), de acordo com os critérios previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01"
+  },
+  "873753620": {
+   "fragment_id": "206198312",
+   "type": 11,
+   "heading": "Artigo 13.º — Exclusividade dos benefícios fiscais",
+   "in_force_from": "2024-07-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Exclusividade dos benefícios fiscais\n\n1 - Sem prejuízo do disposto no número seguinte, os benefícios fiscais contratuais relativos às aplicações relevantes do projeto discriminadas no respetivo contrato não são cumuláveis com quaisquer outros benefícios fiscais da mesma natureza relativamente às mesmas aplicações relevantes, incluindo os benefícios fiscais de natureza não contratual, previstos neste ou noutros diplomas legais.\n\n2 - Os benefícios fiscais contratuais previstos nos artigos anteriores são cumuláveis com a DLRR-RAM, desde e na medida em que não sejam ultrapassados os limites máximos aplicáveis previstos no artigo 10.º\n\n3 - As despesas com pessoal com habilitações literárias mínimas do nível 7 do Quadro Nacional de Qualificações não são cumuláveis para efeitos dos benefícios fiscais previstos no presente Código, sendo consideradas aplicações relevantes pela ordem indicada:\n\na) Nos termos do artigo 11.º, se o sujeito passivo usufruir de benefícios desta natureza;\n\nb) Nos termos do artigo 22.º, se o sujeito passivo usufruir de benefícios desta natureza;\n\nc) Nos termos do artigo 37.º, se o sujeito passivo usufruir de benefícios desta natureza.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01"
+  },
+  "873753621": {
+   "fragment_id": "206198323",
+   "type": 11,
+   "heading": "Artigo 22.º — Âmbito de aplicação e definições",
+   "in_force_from": "2024-07-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2023/M - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537), em vigor a partir de 2023-01-17"
+   ],
+   "markdown": "###### Artigo 22.º — Âmbito de aplicação e definições\n\n1 - O RFAI-RAM é aplicável aos sujeitos passivos de IRC que exerçam uma atividade nos setores especificamente previstos no n.º 3 do artigo 2.º, tendo em consideração os códigos de atividade definidos na portaria prevista no n.º 4 do referido artigo, com exceção das atividades excluídas do âmbito setorial de aplicação das OAR e do RGIC.\n\n2 - Para efeitos do disposto no presente regime, consideram-se aplicações relevantes os investimentos nos seguintes ativos, desde que afetos à exploração da empresa:\n\na) Ativos fixos tangíveis, adquiridos em estado de novo, com exceção de:\n\ni) Terrenos, salvo no caso de se destinarem à exploração de concessões mineiras, águas minerais naturais e de nascente, pedreiras, barreiros e areeiros em investimentos na indústria extrativa;\n\nii) Construção, aquisição, reparação e ampliação de quaisquer edifícios, salvo se forem instalações fabris ou afetos a atividades turísticas, de produção de audiovisual ou administrativas;\n\niii) Viaturas ligeiras de passageiros ou mistas;\n\niv) Mobiliário e artigos de conforto ou decoração, salvo equipamento hoteleiro afeto a exploração turística;\n\nv) Equipamentos sociais;\n\nvi) Outros bens de investimento que não estejam afetos à exploração da empresa;\n\nb) Ativos intangíveis, constituídos por despesas com transferência de tecnologia, nomeadamente através da aquisição de direitos de patentes, licenças, «know-how» ou conhecimentos técnicos não protegidos por patente.\n\nc) Custos salariais decorrentes da criação de postos de trabalho de pessoal com habilitações literárias do nível 7 ou do nível 8 do Quadro Nacional de Qualificações.\n\n3 - No caso de sujeitos passivos de IRC que não se enquadrem na categoria das micro, pequenas e médias empresas, tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003, as aplicações relevantes a que se referem as alíneas b) e c) do número anterior não podem exceder 50 % das aplicações relevantes.\n\n4 - Podem beneficiar dos incentivos fiscais previstos no presente capítulo os sujeitos passivos de IRC que preencham, cumulativamente, as seguintes condições:\n\na) Disponham de contabilidade regularmente organizada, de acordo com a normalização contabilística e outras disposições legais em vigor para o respetivo setor de atividade;\n\nb) O seu lucro tributável não seja determinado por métodos indiretos;\n\nc) Mantenham na empresa e na Região durante um período mínimo de três anos a contar da data dos investimentos, no caso de micro, pequenas e médias empresas tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003, ou cinco anos nos restantes casos, os bens objeto do investimento ou, quando inferior, durante o respetivo período mínimo de vida útil, determinado nos termos do Decreto Regulamentar n.º 25/2009, de 14 de setembro, alterado pelas Leis n.os 64-B/2011, de 30 de dezembro, e 2/2014, de 16 de janeiro, ou até ao período em que se verifique o respetivo abate físico, desmantelamento, abandono ou inutilização, observadas as regras previstas no artigo 31.º-B do Código do IRC;\n\nd) Não sejam devedores ao Estado e à segurança social de quaisquer contribuições, impostos ou quotizações ou tenham o pagamento dos seus débitos devidamente assegurado;\n\ne) Não sejam consideradas empresas em dificuldade nos termos da comunicação da Comissão - Orientações relativas aos auxílios estatais de emergência e à reestruturação concedidos a empresas não financeiras em dificuldade, publicada no Jornal Oficial da União Europeia, n.º C 249, de 31 de julho de 2014;\n\nf) Efetuem investimento relevante que proporcione a criação de postos de trabalho e a sua manutenção até ao final do período mínimo de manutenção dos bens objeto de investimento, nos termos da alínea c), aqui se incluindo os postos de trabalho criados nos termos da alínea c) do n.º 2.\n\n5 - Considera-se investimento realizado o correspondente às adições, verificadas em cada período de tributação, de ativos fixos tangíveis e ativos intangíveis e o que, tendo a natureza de ativo fixo tangível e não dizendo respeito a adiantamentos, se traduza em adições aos investimentos em curso, bem como os custos salariais incorridos com a criação dos postos de trabalho nos termos da alínea c) do n.º 2, aqui se incluindo o salário bruto antes de impostos, as contribuições obrigatórias para a segurança social, o seguro de acidentes de trabalho, os encargos com a guarda de crianças e ascendentes e outros encargos de origem legal ou decorrentes de regulamentação coletiva de trabalho.\n\n6 - Para efeitos do disposto no número anterior, não se consideram as adições de ativos que resultem de transferências de investimentos em curso transitado de períodos anteriores, exceto se forem adiantamentos.\n\n7 - Nas regiões elegíveis para auxílios nos termos da alínea c) do n.º 3 do artigo 107.º, do Tratado sobre o Funcionamento da União Europeia constantes da tabela do artigo 45.º, no caso de empresas que não se enquadrem na categoria das micro, pequenas e médias empresas, tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003, apenas podem beneficiar do RFAI-RAM os investimentos que respeitem a uma nova atividade económica, ou seja, a um investimento em ativos fixos tangíveis, ativos intangíveis e a criação de postos de trabalho nos termos da alínea c) do n.º 2, relacionados com a criação de um novo estabelecimento, ou com a diversificação da atividade de um estabelecimento, na condição de a nova atividade não ser a mesma ou uma atividade semelhante à anteriormente exercida no estabelecimento.\n\n8 - Para efeito do apuramento da condição referida na alínea f) do n.º 4 são considerados os trabalhadores por conta de outrem admitidos por efeitos do investimento.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2023/M - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2023-206158537), em vigor a partir de 2023-01-17"
+  }
+ }
+}

@@ -1,0 +1,222 @@
+---
+schema_version: '1.0'
+id: pt:dre:574765:por
+title: Decreto-Lei n.º 179/90
+short_title: null
+summary: Define o enquadramento no regime geral de segurança social do pessoal docente dos estabelecimentos de ensino não
+  superior, particular e cooperativo
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Emprego e da Segurança Social
+proposing_entity: null
+official_number: 179/90
+official_date: null
+publication_date: '1990-06-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 129/1990, Série I de 1990-06-05
+  number: '129'
+  series: I
+  supplement: null
+  pages: 2446 - 2448
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/06/12900/24462448.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '574765'
+  dre_path: /dr/detalhe/decreto-lei/179-1990-574765
+  internal: pt:dre:574765:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1990-574765
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1990-574765
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:59:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 307a9cc7e1bdcccc81557342f75117e386d2f8d3642aa9cec1923058ee665946
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:59:39Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Caixa Geral de Aposentações
+- Caixa Nacional de Seguros de Doenças Profissionais
+- Centro Nacional de Pensões
+- Contribuições da Segurança Social
+- Ensino Básico
+- Ensino Cooperativo
+- Ensino não Superior
+- Ensino Particular
+- Montepio dos Servidores do Estado
+- Pessoal Docente
+- Prestações da Segurança Social
+- Prestações Familiares
+- Proteção no Desemprego
+- Regime Geral da Segurança Social
+- Segurança Social
+relationships:
+- type: amended_by
+  target: pt:dre:572595:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, das normas dos arts. 4º e 10º, limitando os efeitos\
+    \ da inconstitucionalidade por forma que estes só se produzem a partir da data da publicação do Acórdão, pelo AC.1203/96.\
+    \ 1996.11.27.TCS (Processos nº 1270/90 e 1/92), DR.IS-A [20] de 24/Jan/1997\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/1203-1997-572595
+  date: '1996-11-27'
+- type: cites
+  target: pt:dre:234342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580296:por
+  label: null
+  source: null
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:59:39Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 179/90
+
+de 5 de Junho
+
+O [Decreto-Lei n.º 321/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1988-355488), de 22 de Setembro, definiu um quatro normativo para o pessoal docente do ensino não superior, particular ou cooperativo integrando-o na Caixa Geral de Aposentações e no Montepio dos Servidores do Estado.
+
+O referido diploma visou dar cumprimento ao disposto na [Lei n.º 9/79](https://diariodarepublica.pt/dr/detalhe/lei/9-1979-383221), de 19 de Março, relativa às bases do ensino particular e cooperativo, que determinou que a legislação relativa aos profissionais de ensino, nomeadamente no domínio da Segurança Social, deve ter na devida conta o interesse público que é reconhecido às funções exercidas e a conveniência de harmonizar as suas carreiras com as do ensino público.
+
+Desta forma, o direito às prestações nas eventualidades de velhice, invalidez e morte passou a ser reconhecido aos docentes em causa no âmbito das citadas instituições de protecção social e de acordo com as normas que as regulam.
+
+No que se refere às restantes prestações pecuniárias atribuídas no âmbito do regime geral de segurança social dos trabalhadores por conta de outrem em cujo âmbito aquele pessoal docente se integrava -encargos familiares, incapacidade temporária por doença e maternidade, doença profissional e desemprego-, o diploma em causa nada dispõe.
+
+De resto, nada poderia nesse sentido dispor aquele decreto-lei, dado que, no âmbito da função pública, as referidas prestações, com excepção das prestações de desemprego, são asseguradas directamente pelo Estado e outras pessoas colectivas de direito público, ao passo que os professores em causa estão vinculados por contratos individuais de trabalho a entidades empregadoras de direito privado.
+
+Importa, assim, definir com clareza o enquadramento parcial destes trabalhadores no regime geral dos trabalhadores por conta de outrem, bem como a taxa contributiva que lhes corresponde face à redução do âmbito material do regime, aliás em conformidade com o disposto no n.º 3 do artigo 19.º da [Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/lei/28-1984-382393), de 14 de Agosto, que expressamente prevê que a obrigatoriedade de inscrição possa ser restrita a algumas das eventualidades abrangidas pelo regime geral de segurança social.
+
+É este o objectivo do presente diploma, que concretiza igualmente o princípio do direito à Segurança Social estabelecido no artigo 63.º da Constituição e a solidariedade contributiva em que se baseia o regime geral, nos termos do artigo 53.º da referida [Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/lei/28-1984-382393).
+
+Teve-se, no entanto, em vista que, considerando, por um lado, os encargos decorrentes da inscrição na Caixa Geral de Aposentações e no Montepio dos Servidores do Estado, nos termos do [Decreto-Lei n.º 321/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1988-355488) e da [Portaria n.º 1/89](https://diariodarepublica.pt/dr/detalhe/portaria/1-1989-234342), de 2 de Janeiro, e atendendo, por outro lado, às taxas contributivas do regime geral previstas no [Decreto-Lei n.º 140-D/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-d-1986-569905), de 14 de Junho, que estabeleceu a taxa social única, as entidades empregadores e os trabalhadores não assumam encargos contributivos globais com os dois regimes superiores aos que teriam se permanecessem apenas abrangidos pelo regime geral.
+
+Paralelamente, o presente diploma visa ainda clarificar o âmbito de aplicação pessoal do [Decreto-Lei n.º 321/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1988-355488), de 22 de Setembro.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Âmbito pessoal
+
+O âmbito de aplicação pessoal do [Decreto-Lei n.º 321/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1988-355488), de 22 de Setembro, integra exclusivamente o pessoal docente dos estabelecimentos de ensino não superior, particular e cooperativo, abrangidos pelo [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro.
+
+###### Artigo 2.º — Enquadramento
+
+Continuam obrigatoriamente enquadrados no regime geral de segurança social dos trabalhadores por conta de outrem, com as particularidades constantes do presente diploma, como beneficiários, os docentes referidos no artigo anterior e, como contribuintes, os estabelecimentos de ensino em que aqueles prestem serviço.
+
+###### Artigo 3.º — Âmbito material
+
+Os beneficiários abrangidos pelo presente diploma têm direito às prestações que integram o âmbito material do regime geral de segurança social dos trabalhadores por conta de outrem correspondentes às eventualidades de encargos familiares, de incapacidade temporária para o trabalho por motivo de doença e maternidade, de doença profissional e de desemprego.
+
+###### Artigo 4.º — Esquema contributivo
+
+1 - As contribuições devidas para o regime geral de segurança social são calculadas pela aplicação às remunerações pagas e recebidas da taxa de 10%, da responsabilidade das entidades empregadoras.
+
+2 - A percentagem referida no número anterior engloba a taxa de 0,5% prevista no artigo 2.º do [Decreto-Lei n.º 200/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1981-580296), de 9 de Julho, destinada ao financiamento da cobertura do risco de doença profissional.
+
+###### Artigo 5.º — Cálculo das prestações
+
+1 - O montante das prestações atribuídas nas eventualidades referidas no artigo 3.º é calculado de acordo com as regras em vigor para o regime geral dos trabalhadores por conta de outrem.
+
+2 - Para contagem dos prazos de garantia e dos índices de profissionalidade são tidos em conta os períodos de actividade docente abrangidos pelo regime da função pública.
+
+###### Artigo 6.º — Gestão do regime
+
+A gestão administrativa decorrente da aplicação do presente diploma é da competência dos centros regionais de segurança social, das instituições de segurança social das regiões autónomas, do Centro Nacional de Pensões e da Caixa Nacional de Seguros e Doenças Profissionais, nos termos legalmente prescritos.
+
+###### Artigo 7.º — Regularização das situações contributivas
+
+1 - Os estabelecimentos de ensino que entre a data da produção dos efeitos do presente diploma e a data da sua publicação não tenham pago contribuições à Segurança Social em função do seu pessoal abrangido pelo [Decreto-Lei n.º 321/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1988-355488) devem, no prazo de 30 dias a contar da última data referida, regularizar a sua situação contributiva, pagando as contribuições em dívida ou requerendo o seu pagamento parcelado.
+
+2 - Nos casos referidos no número anterior não há lugar à exigência de juros de mora e o pagamento parcelado não pode exceder 60 prestações mensais.
+
+3 - Sempre que os estabelecimentos de ensino tenham mantido, após a entrada em vigor do [Decreto-Lei n.º 321/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1988-355488), de 22 de Setembro, o pagamento das contribuições calculadas pela aplicação da taxa global em vigor para o regime dos trabalhadores por conta de outrem, devem as instituições de segurança social proceder ao acerto de contas por dedução nas contribuições devidas para o futuro.
+
+###### Artigo 8.º — Pagamento de prestações
+
+1 - Nos casos em que a regularização das situações contributivas se efectue em prestações, o vencimento da primeira tem lugar no último dia do 2.º mês posterior à data da publicação do presente diploma, vencendo-se as restantes no último dia dos meses subsequentes.
+
+2 - A falta de pagamento de uma das prestações até à data do seu vencimento determina o imediato vencimento das restantes prestações e a aplicação de juros de mora nos termos da legislação em vigor.
+
+###### Artigo 9.º — Regularização da atribuição das prestações
+
+Nos casos em que não tenham sido atribuídas prestações de segurança social em razão da suspensão do pagamento de contribuições para o regime dos trabalhadores por conta de outrem no período sequente à entrada em vigor do [Decreto-Lei n.º 321/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1988-355488), de 22 de Setembro, devem as instituições de segurança social proceder à sua atribuição, a requerimento dos interessados, desde que a situação contributiva se encontre regularizada nos termos do n.º 1 do artigo 7.º do presente diploma.
+
+###### Artigo 10.º — Produção de efeitos
+
+O presente diploma produz efeitos desde a data da entrada em vigor do [Decreto-Lei n.º 321/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1988-355488), de 22 de Setembro.
+
+Visto e aprovado em Conselho de Ministros de 25 de Janeiro de 1990. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Roberto Artur da Luz Carneiro - José Albino da Silva Peneda.
+
+Promulgado em 24 de Maio de 1990.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 28 de Maio de 1990.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

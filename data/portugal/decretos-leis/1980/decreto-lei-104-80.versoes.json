@@ -1,0 +1,315 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:475299:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1980-895547996",
+ "dre_path": "/dr/detalhe/decreto-lei/104-1980-475299",
+ "source_lastmod": "2024-11-05",
+ "versions": [
+  {
+   "date": "1980-05-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "895613877",
+    "895588482",
+    "895588483",
+    "895588484",
+    "895588485",
+    "895588486",
+    "895588487"
+   ]
+  },
+  {
+   "date": "1983-06-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:245343:por",
+     "title": "Decreto-Lei n.º 235-B/83",
+     "published": "1983-06-01",
+     "dre_path": "/dr/detalhe/decreto-lei/235-b-1983-245343"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "895588481",
+    "895588482",
+    "895588571",
+    "895588484",
+    "895588485",
+    "895588486",
+    "895588487",
+    "895588488"
+   ]
+  },
+  {
+   "date": "1985-06-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:151914:por",
+     "title": "Decreto-Lei n.º 184/85",
+     "published": "1985-05-28",
+     "dre_path": "/dr/detalhe/decreto-lei/184-1985-151914"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "895588481",
+    "895588572",
+    "895588573",
+    "895588484",
+    "895588485",
+    "895588486",
+    "895588487",
+    "895588488"
+   ]
+  },
+  {
+   "date": "1985-06-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:431017:por",
+     "title": "Declaração",
+     "published": "1985-06-29",
+     "dre_path": "/dr/detalhe/declaracao/1985-431017"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 1.º"
+   ],
+   "fragments": [
+    "895588481",
+    "895613876",
+    "895588573",
+    "895588484",
+    "895588485",
+    "895588486",
+    "895588487",
+    "895588488"
+   ]
+  },
+  {
+   "date": "2001-05-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:314190:por",
+     "title": "Decreto-Lei n.º 156/2001",
+     "published": "2001-05-11",
+     "dre_path": "/dr/detalhe/decreto-lei/156-2001-314190"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "895613877",
+    "895613878",
+    "895613879",
+    "895613880",
+    "895613881",
+    "895613882",
+    "895613883",
+    "895613884"
+   ]
+  }
+ ],
+ "fragments": {
+  "895613877": {
+   "fragment_id": "895547997",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2001-05-16",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 104/80\n\nde 10 de Maio\n\nPela actual orgânica do Ministério da Justiça, à Direcção de Serviços dos Cofres incumbe administrar as receitas do Cofre Geral dos Tribunais e do Cofre dos Conservadores, Notários e Funcionários de Justiça. A seu cargo está ainda o apoio técnico-administrativo ao Serviço Social do Ministério, criado pelo Decreto-Lei n.º 47210, de 22 de Setembro de 1966.\n\nAs suas estruturas não estão, no entanto, adequadas a uma gestão financeira do significativo volume de verbas que administra. Importa ainda que nela se possam introduzir métodos que visem a maximização desses meios financeiros e o contrôle eficaz da sua aplicação.\n\nSe se tiver em conta que só na construção e reparação de edifícios destinados a tribunais e de casas de magistrados a Direcção de Serviços dos Cofres movimentou em 1978 verbas da ordem dos 150000 contos e que, no mesmo ano, despendeu com pessoal pago pelo Cofre dos Conservadores, Notários e Funcionários de Justiça mais de 760000 contos, torna-se patente ser indispensável definir com precisão as suas atribuições.\n\nCria-se, assim, em substituição da Direcção de Serviços dos Cofres, o Gabinete de Gestão Financeira do Ministério da Justiça, organismo ao qual se comete a implementação de estruturas capazes de responder rentavelmente aos objectivos que prossegue.\n\nNesta conformidade:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "895588482": {
+   "fragment_id": "895547998",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO Gabinete de Gestão Financeira do Ministério da Justiça é um órgão de apoio do mesmo Ministério em matéria de administração financeira das receitas do Cofre Geral dos Tribunais e do Cofre dos Conservadores, Notários e Funcionários de Justiça."
+  },
+  "895588483": {
+   "fragment_id": "895547999",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSão atribuições do Gabinete referido no artigo anterior, designadamente:\n\na) Arrecadar e administrar as receitas do Cofre Geral dos Tribunais e do Cofre dos Conservadores, Notários e Funcionários de Justiça;\n\nb) Elaborar os orçamentos dos Cofres referidos na alínea anterior e respectivas alterações, assegurar a sua execução, contabilizar o seu movimento e efectuar os pagamentos autorizados;\n\nc) Elaborar as respectivas contas de gerência;\n\nd) Apreciar e submeter a aprovação superior os orçamentos dos serviços suportados pelos Cofres e as respectivas alterações, vigiar e fiscalizar a sua execução e aprovar as folhas de despesas;\n\ne) Assegurar o contrôle financeiro da utilização das verbas, e designadamente das aprovadas pelo Ministro da Justiça, para construção, remodelação ou conservação dos edifícios afectos ao serviço do Ministério;\n\nf) Promover o apoio técnico-administrativo necessário ao funcionamento dos Serviços Sociais do Ministério;\n\ng) Estudar e propor a aplicação de técnicas e métodos de gestão administrativa e financeira, visando a maximização do rendimento dos meios financeiros a seu cargo."
+  },
+  "895588484": {
+   "fragment_id": "895548000",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - O Gabinete de Gestão Financeira do Ministério da Justiça goza de autonomia administrativa e financeira.\n\n2 - O Gabinete de Gestão Financeira substitui-se à Direcção de Serviços dos Cofres em todas as suas atribuições e ainda em todos os seus direitos e obrigações.\n\n3 - Por força do disposto no número anterior, todas as referências à Direcção de Serviços dos Cofres e ao seu pessoal passam a entender-se como feitas ao Gabinete de Gestão Financeira e ao seu pessoal.\n\n4 - O pessoal da Direcção de Serviços dos Cofres mantém todos os direitos e regalias que usufrui à data da publicação do presente diploma, incluindo a contagem do tempo de serviço na categoria.\n\n5 - O director do Gabinete de Gestão Financeira, equiparado a director-geral, será nomeado de entre subdirectores-gerais e directores de serviços dos quadros do Ministério da Justiça ou de entre indivíduos licenciados de reconhecida competência e que possuam experiência adequada ao exercício das funções, nos termos da lei geral."
+  },
+  "895588485": {
+   "fragment_id": "895548001",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA estrutura, competência dos serviços e quadro do pessoal do Gabinete de Gestão Financeira constará de decreto regulamentar."
+  },
+  "895588486": {
+   "fragment_id": "895548002",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs encargos resultantes do presente diploma serão suportados pelo Cofre dos Conservadores, Notários e Funcionários de Justiça."
+  },
+  "895588487": {
+   "fragment_id": "895548003",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAs dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro da Justiça."
+  },
+  "895588481": {
+   "fragment_id": "895547997",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 104/80\n\nde 10 de Maio\n\nPela actual orgânica do Ministério da Justiça, à Direcção de Serviços dos Cofres incumbe administrar as receitas do Cofre Geral dos Tribunais e do Cofre dos Conservadores, Notários e Funcionários de Justiça. A seu cargo está ainda o apoio técnico-administrativo ao Serviço Social do Ministério, criado pelo Decreto-Lei n.º 47210, de 22 de Setembro de 1966.\n\nAs suas estruturas não estão, no entanto, adequadas a uma gestão financeira do significativo volume de verbas que administra. Importa ainda que nela se possam introduzir métodos que visem a maximização desses meios financeiros e o contrôle eficaz da sua aplicação.\n\nSe se tiver em conta que só na construção e reparação de edifícios destinados a tribunais e de casas de magistrados a Direcção de Serviços dos Cofres movimentou em 1978 verbas da ordem dos 150000 contos e que, no mesmo ano, despendeu com pessoal pago pelo Cofre dos Conservadores, Notários e Funcionários de Justiça mais de 760000 contos, torna-se patente ser indispensável definir com precisão as suas atribuições.\n\nCria-se, assim, em substituição da Direcção de Serviços dos Cofres, o Gabinete de Gestão Financeira do Ministério da Justiça, organismo ao qual se comete a implementação de estruturas capazes de responder rentavelmente aos objectivos que prossegue.\n\nNesta conformidade:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "895588571": {
+   "fragment_id": "895547999",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1983-06-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 235-B/83 - Diário da República n.º 126/1983, 2º Suplemento, Série I de 1983-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-b-1983-245343), em vigor a partir de 1983-06-06"
+   ],
+   "markdown": "###### Artigo 2.º\n\nSão atribuições do Gabinete referido no artigo anterior, designadamente:\n\na) Arrecadar e administrar as receitas do Cofre Geral dos Tribunais e do Cofre dos Conservadores, Notários e Funcionários de Justiça;\n\nb) Elaborar os orçamentos dos Cofres referidos na alínea anterior e respectivas alterações, assegurar a sua execução, contabilizar o seu movimento e efectuar os pagamentos autorizados;\n\nc) Elaborar as respectivas contas de gerência;\n\nd) Apreciar e submeter a aprovação superior os orçamentos dos serviços suportados pelos Cofres e as respectivas alterações, vigiar e fiscalizar a sua execução e aprovar as folhas de despesas;\n\ne) Assegurar o contrôle financeiro da utilização das verbas, e designadamente das aprovadas pelo Ministro da Justiça, para construção, remodelação ou conservação dos edifícios afectos ao serviço do Ministério;\n\nf) (Revogado.)\n\ng) Estudar e propor a aplicação de técnicas e métodos de gestão administrativa e financeira, visando a maximização do rendimento dos meios financeiros a seu cargo.\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 235-B/83 - Diário da República n.º 126/1983, 2º Suplemento, Série I de 1983-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-b-1983-245343), em vigor a partir de 1983-06-06"
+  },
+  "895588488": {
+   "fragment_id": "895548004",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 17 de Abril de 1980. - Francisco Sá Carneiro.\n\nPromulgado em 30 de Abril de 1980.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "895588572": {
+   "fragment_id": "895547998",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1985-06-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 184/85 - Diário da República n.º 122/1985, Série I de 1985-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1985-151914), em vigor a partir de 1985-06-03"
+   ],
+   "markdown": "###### Artigo 1.º\n\nO Gabinete de Gestão Financeira do Ministério da Justiça é o órgão do mesmo Ministério ao qual, na dependência do Ministro e com a fiscalização de um conselho administrativo, cabe administrar as receitas do Cofre Geral dos Tribunais, do Cofre Geral dos Conservadores, Notários e Funcionários de Justiça e dos Serviços Sociais do Ministério da Justiça, além das outras receitas próprias dos serviços.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 184/85 - Diário da República n.º 122/1985, Série I de 1985-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1985-151914), em vigor a partir de 1985-06-03"
+  },
+  "895588573": {
+   "fragment_id": "895547999",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1985-06-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 184/85 - Diário da República n.º 122/1985, Série I de 1985-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1985-151914), em vigor a partir de 1985-06-03",
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 235-B/83 - Diário da República n.º 126/1983, 2º Suplemento, Série I de 1983-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-b-1983-245343), em vigor a partir de 1983-06-06"
+   ],
+   "markdown": "###### Artigo 2.º\n\nSão atribuições do Gabinete referido no artigo anterior, designadamente:\n\na) Arrecadar e administrar as receitas do Cofre Geral dos Tribunais, do Cofre dos Conservadores, Notários e Funcionários de Justiça, dos Serviços Sociais do Ministério da justiça e ainda, por integração no Cofre Geral dos Tribunais, as receitas próprias dos serviços dependentes do Ministério da Justiça, podendo expedir para as entidades responsáveis pela cobrança das receitas e pagamento dos encargos, sob a orientação do Ministro, as instruções adequadas à boa execução dessas actividades;\n\nb) Elaborar os orçamentos dos Cofres referidos na alínea anterior e respectivas alterações, assegurar a sua execução, contabilizar o seu movimento e efectuar os pagamentos autorizados;\n\nc) Elaborar as respectivas contas de gerência;\n\nd) Apreciar e submeter a aprovação superior os orçamentos dos serviços suportados pelos Cofres e as respectivas alterações, vigiar e fiscalizar a sua execução e aprovar as folhas de despesas;\n\ne) Assegurar o contrôle financeiro da utilização das verbas, e designadamente das aprovadas pelo Ministro da Justiça, para construção, remodelação ou conservação dos edifícios afectos ao serviço do Ministério;\n\nf) (Revogado.)\n\ng) Estudar e propor a aplicação de técnicas e métodos de gestão administrativa e financeira, visando a maximização do rendimento dos meios financeiros a seu cargo;\n\nh) Autorizar e promover obras urgentes de conservação ou remodelação dos móveis e imóveis afectos aos serviços dependentes do Ministério da Justiça, com a limitação de custos que o Ministro fixar e sob a orientação deste.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 184/85 - Diário da República n.º 122/1985, Série I de 1985-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1985-151914), em vigor a partir de 1985-06-03\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 235-B/83 - Diário da República n.º 126/1983, 2º Suplemento, Série I de 1983-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-b-1983-245343), em vigor a partir de 1983-06-06"
+  },
+  "895613876": {
+   "fragment_id": "895547998",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1985-06-29",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 147/1985, 1º Suplemento, Série I de 1985-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-431017), em vigor a partir de 1985-06-29",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 184/85 - Diário da República n.º 122/1985, Série I de 1985-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1985-151914), em vigor a partir de 1985-06-03"
+   ],
+   "markdown": "###### Artigo 1.º\n\nO Gabinete de Gestão Financeira do Ministério da Justiça é o órgão do mesmo Ministério ao qual, na dependência do Ministro e com a fiscalização de um conselho administrativo, cabe administrar as receitas do Cofre Geral dos Tribunais, do Cofre dos Conservadores, Notários e Funcionários de Justiça e dos Serviços Sociais do Ministério da Justiça, além das outras receitas próprias dos serviços.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 147/1985, 1º Suplemento, Série I de 1985-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-431017), em vigor a partir de 1985-06-29\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 184/85 - Diário da República n.º 122/1985, Série I de 1985-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1985-151914), em vigor a partir de 1985-06-03"
+  },
+  "895613878": {
+   "fragment_id": "895547998",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2001-05-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 156/2001 - Diário da República n.º 109/2001, Série I-A de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2001-314190), em vigor a partir de 2001-05-16",
+    "Retificado pelo/a [Declaração - Diário da República n.º 147/1985, 1º Suplemento, Série I de 1985-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-431017), em vigor a partir de 1985-06-29",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 184/85 - Diário da República n.º 122/1985, Série I de 1985-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1985-151914), em vigor a partir de 1985-06-03"
+   ],
+   "markdown": "###### Artigo 1.º\n\nO Gabinete de Gestão Financeira do Ministério da Justiça é o órgão do mesmo Ministério ao qual, na dependência do Ministro e com a fiscalização de um conselho administrativo, cabe administrar as receitas do Cofre Geral dos Tribunais, do Cofre dos Conservadores, Notários e Funcionários de Justiça e dos Serviços Sociais do Ministério da Justiça, além das outras receitas próprias dos serviços.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 156/2001 - Diário da República n.º 109/2001, Série I-A de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2001-314190), em vigor a partir de 2001-05-16\n\n> Retificado pelo/a [Declaração - Diário da República n.º 147/1985, 1º Suplemento, Série I de 1985-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-431017), em vigor a partir de 1985-06-29\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 184/85 - Diário da República n.º 122/1985, Série I de 1985-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1985-151914), em vigor a partir de 1985-06-03"
+  },
+  "895613879": {
+   "fragment_id": "895547999",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2001-05-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 156/2001 - Diário da República n.º 109/2001, Série I-A de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2001-314190), em vigor a partir de 2001-05-16",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 184/85 - Diário da República n.º 122/1985, Série I de 1985-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1985-151914), em vigor a partir de 1985-06-03",
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 235-B/83 - Diário da República n.º 126/1983, 2º Suplemento, Série I de 1983-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-b-1983-245343), em vigor a partir de 1983-06-06"
+   ],
+   "markdown": "###### Artigo 2.º\n\nSão atribuições do Gabinete referido no artigo anterior, designadamente:\n\na) Arrecadar e administrar as receitas do Cofre Geral dos Tribunais, do Cofre dos Conservadores, Notários e Funcionários de Justiça, dos Serviços Sociais do Ministério da justiça e ainda, por integração no Cofre Geral dos Tribunais, as receitas próprias dos serviços dependentes do Ministério da Justiça, podendo expedir para as entidades responsáveis pela cobrança das receitas e pagamento dos encargos, sob a orientação do Ministro, as instruções adequadas à boa execução dessas actividades;\n\nb) Elaborar os orçamentos dos Cofres referidos na alínea anterior e respectivas alterações, assegurar a sua execução, contabilizar o seu movimento e efectuar os pagamentos autorizados;\n\nc) Elaborar as respectivas contas de gerência;\n\nd) Apreciar e submeter a aprovação superior os orçamentos dos serviços suportados pelos Cofres e as respectivas alterações, vigiar e fiscalizar a sua execução e aprovar as folhas de despesas;\n\ne) Assegurar o contrôle financeiro da utilização das verbas, e designadamente das aprovadas pelo Ministro da Justiça, para construção, remodelação ou conservação dos edifícios afectos ao serviço do Ministério;\n\nf) (Revogado.)\n\ng) Estudar e propor a aplicação de técnicas e métodos de gestão administrativa e financeira, visando a maximização do rendimento dos meios financeiros a seu cargo;\n\nh) Autorizar e promover obras urgentes de conservação ou remodelação dos móveis e imóveis afectos aos serviços dependentes do Ministério da Justiça, com a limitação de custos que o Ministro fixar e sob a orientação deste.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 156/2001 - Diário da República n.º 109/2001, Série I-A de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2001-314190), em vigor a partir de 2001-05-16\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 184/85 - Diário da República n.º 122/1985, Série I de 1985-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1985-151914), em vigor a partir de 1985-06-03\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 235-B/83 - Diário da República n.º 126/1983, 2º Suplemento, Série I de 1983-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-b-1983-245343), em vigor a partir de 1983-06-06"
+  },
+  "895613880": {
+   "fragment_id": "895548000",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2001-05-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 156/2001 - Diário da República n.º 109/2001, Série I-A de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2001-314190), em vigor a partir de 2001-05-16"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - O Gabinete de Gestão Financeira do Ministério da Justiça goza de autonomia administrativa e financeira.\n\n2 - O Gabinete de Gestão Financeira substitui-se à Direcção de Serviços dos Cofres em todas as suas atribuições e ainda em todos os seus direitos e obrigações.\n\n3 - Por força do disposto no número anterior, todas as referências à Direcção de Serviços dos Cofres e ao seu pessoal passam a entender-se como feitas ao Gabinete de Gestão Financeira e ao seu pessoal.\n\n4 - O pessoal da Direcção de Serviços dos Cofres mantém todos os direitos e regalias que usufrui à data da publicação do presente diploma, incluindo a contagem do tempo de serviço na categoria.\n\n5 - O director do Gabinete de Gestão Financeira, equiparado a director-geral, será nomeado de entre subdirectores-gerais e directores de serviços dos quadros do Ministério da Justiça ou de entre indivíduos licenciados de reconhecida competência e que possuam experiência adequada ao exercício das funções, nos termos da lei geral.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 156/2001 - Diário da República n.º 109/2001, Série I-A de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2001-314190), em vigor a partir de 2001-05-16"
+  },
+  "895613881": {
+   "fragment_id": "895548001",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2001-05-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 156/2001 - Diário da República n.º 109/2001, Série I-A de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2001-314190), em vigor a partir de 2001-05-16"
+   ],
+   "markdown": "###### Artigo 4.º\n\nA estrutura, competência dos serviços e quadro do pessoal do Gabinete de Gestão Financeira constará de decreto regulamentar.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 156/2001 - Diário da República n.º 109/2001, Série I-A de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2001-314190), em vigor a partir de 2001-05-16"
+  },
+  "895613882": {
+   "fragment_id": "895548002",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2001-05-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 156/2001 - Diário da República n.º 109/2001, Série I-A de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2001-314190), em vigor a partir de 2001-05-16"
+   ],
+   "markdown": "###### Artigo 5.º\n\nOs encargos resultantes do presente diploma serão suportados pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 156/2001 - Diário da República n.º 109/2001, Série I-A de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2001-314190), em vigor a partir de 2001-05-16"
+  },
+  "895613883": {
+   "fragment_id": "895548003",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2001-05-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 156/2001 - Diário da República n.º 109/2001, Série I-A de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2001-314190), em vigor a partir de 2001-05-16"
+   ],
+   "markdown": "###### Artigo 6.º\n\nAs dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro da Justiça.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 156/2001 - Diário da República n.º 109/2001, Série I-A de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2001-314190), em vigor a partir de 2001-05-16"
+  },
+  "895613884": {
+   "fragment_id": "895548004",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2001-05-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 156/2001 - Diário da República n.º 109/2001, Série I-A de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2001-314190), em vigor a partir de 2001-05-16"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 17 de Abril de 1980. - Francisco Sá Carneiro.\n\nPromulgado em 30 de Abril de 1980.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 156/2001 - Diário da República n.º 109/2001, Série I-A de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2001-314190), em vigor a partir de 2001-05-16"
+  }
+ }
+}

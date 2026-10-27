@@ -1,0 +1,146 @@
+---
+schema_version: '1.0'
+id: pt:dre:213227:por
+title: Decreto-Lei n.º 49512
+short_title: null
+summary: Autoriza Governo, por intermédio dos Ministros do Ultramar e das Comunicações, a celebrar com a Cable and Wireless,
+  Ltd., um adicional ao contrato de concessão de 27 de Fevereiro de 1956 relativo aos cabos submarinos que amarram em território
+  português, nos termos e condições estabelecidos no anexo ao presente decreto-lei
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios do Ultramar e das Comunicações - Administração-Geral dos Correios, Telégrafos e Telefones
+proposing_entity: null
+official_number: '49512'
+official_date: null
+publication_date: '1969-12-31'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 304/1969, Série I de 1969-12-31
+  number: '304'
+  series: I
+  supplement: null
+  pages: 1990 - 1991
+  pdf_url: https://files.diariodarepublica.pt/1s/1969/12/30400/19901991.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '213227'
+  dre_path: /dr/detalhe/decreto-lei/49512-1969-213227
+  internal: pt:dre:213227:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49512-1969-213227
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49512-1969-213227
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:12:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2b8755c90342933ba08995cbef2994e82338bc5af5c984437e4db35e66b076c2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:12:28Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Contrato de Concessão
+- Empresa Estrangeira
+- Ministro das Comunicações
+- Ministro do Ultramar
+- Radiocomunicações
+relationships:
+- type: cites
+  target: pt:dre:267618:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:12:28Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 49512
+
+Com o fundamento de que a exploração dos novos cabos submarinos telefónicos Reino Unido-Portugal e Portugal-África do Sul reduzirá sensìvelmente o interesse do actual sistema telegráfico submarino do Atlântico, a Cable and Wireless, Ltd., solicitou autorização ao Governo para em 31 de Dezembro de 1969 encerrar as suas estações do Funchal e da Horta e, depois desta data, só manter ao serviço as suas estações de Carcavelos e de S. Vicente de Cabo Verde. Mais solicitou que, para assegurar a progressiva e suave transição do antigo para o novo sistema, se baixasse para um ano o período de três anos fixado no actual contrato para as suas sucessivas prorrogações.
+
+Tendo-se considerado favoràvelmente os pedidos feitos, há agora que modificar, em conformidade, as correspondentes cláusulas contratuais.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo único. É o Governo, por intermédio dos Ministros do Ultramar e das Comunicações, autorizado a celebrar com a Cable and Wireless, Ltd., um adicional ao contrato de concessão de 27 de Fevereiro de 1956 relativo aos cabos submarinos que amarram em território português, nos termos e condições estabelecidos no anexo ao presente decreto-lei, que baixa assinado pelos Ministros do Ultramar e das Comunicações.
+
+Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
+
+Promulgado em 30 de Dezembro de 1969.
+
+Publique-se.
+
+Presidência da República, 31 de Dezembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
+
+Para ser presente à Assembleia Nacional.
+
+Anexo ao Decreto-Lei n.º 49512
+
+Termo do adicional ao contrato de concessão de 27 de Fevereiro de 1956, a celebrar entre o Governo Português e a Cable and Wireless, Ltd.
+
+Artigo 1.º São modificados, nos termos a seguir referidos, o corpo do artigo 1.º, o § 1.º do artigo 5.º e o § 1.º do artigo 8.º e acrescentado um § único ao artigo 20.º do contrato de concessão de 27 de Fevereiro de 1965:
+
+Artigo 1.º Os cabos telegráficos submarinos pertencentes à Cable and Wireless, Ltd., que ligam Carcavelos a Gibraltar, Carcavelos a Porthcurno, S. Vicente de Cabo Verde ao Recife, S. Vicente de Cabo Verde a Ascensão e S. Vicente de Cabo Verde a Bathurst, bem como as estações e instalações acessórias dos mesmos cabos existentes em território português, continuarão a trabalhar em cooperação com os serviços telegráficos dos C. T. T. e dos C. T. T. U. ou com os de outras concessionárias de telecomunicações para tanto devidamente autorizadas.
+
+...
+
+Art. 5.º ...
+
+§ 1.º As taxas a cobrar do público em territórios portugueses pelos telegramas, quer do serviço nacional, quer do serviço internacional, a transmitir pela rede da companhias ficam sujeitas a prévia aprovação do Governo Português. Estas taxas devem ser uniformes para todos os pontos da metrópole, que constituirão assim uma zona única de tarifação. As referidas taxas serão cobradas na moeda legal portuguesa segundo os equivalentes monetários fixados pelo Governo.
+
+...
+
+Art. 8.º ...
+
+§ 1.º O gerente de cada um dos escritórios da companhia e o chefe dos serviços electrotécnicos de cada uma das suas estações, bem como o adjunto técnico do chefe de cada uma das estações de Carcavelos e de S. Vicente, poderão ser estrangeiros.
+
+...
+
+Art. 20.º ...
+
+§ único. A partir de 1 de Janeiro de 1970 o presente contrato será prorrogável automàticamente por períodos sucessivos de um ano, salvo denúncia de uma das partes notificada à outra parte em carta registada, com aviso de recepção, com a antecedência de seis meses, pelo menos, a contar do termo da respectiva vigência.
+
+Art. 2.º Este contrato adicional, depois de visado pelo Tribunal de Contas, nos termos da alínea e) do n.º 2.º do artigo 6.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1933, entrará em vigor no dia 1 de Janeiro de 1970, substituindo, a partir dessa data, as correspondentes cláusulas do actual contrato de 27 de Fevereiro de 1956.
+
+Ministérios do Ultramar e das Comunicações, 30 de Dezembro de 1969. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - O Ministro das Comunicações, Fernando Alberto de Oliveira.

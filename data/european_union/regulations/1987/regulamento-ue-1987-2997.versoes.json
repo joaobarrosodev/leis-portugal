@@ -1,0 +1,128 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31987R2997:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01987R2997-19950101",
+ "dre_path": null,
+ "source_lastmod": "1995-01-01",
+ "versions": [
+  {
+   "date": "1987-10-07",
+   "future": false,
+   "celex": "31987R2997",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0be2cea082b617a9",
+    "70ea5a71f4665ff6",
+    "6b534fb24df50a71",
+    "4f091eabf2101d78",
+    "0cde42a8b70dabbe"
+   ]
+  },
+  {
+   "date": "1995-01-01",
+   "future": false,
+   "celex": "01987R2997-19950101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO — Ajuda concedida aos produtores de lúpulo para a colheita de 1986",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989R1809:PT:NOT)",
+    "Adita Artigo 3.º",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º"
+   ],
+   "fragments": [
+    "6d0fbea439b5f754",
+    "cc94d5627c9036e8",
+    "8b44dcff3dcc77a7",
+    "b0269a19bb00749a",
+    "4bf7b2f34d036b9c"
+   ]
+  }
+ ],
+ "fragments": {
+  "0be2cea082b617a9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2997/87 do Conselho de 22 de Setembro de 1987 que fixa, no sector do lúpulo, o montante da ajuda aos produtores para a colheita de 1986 e prevê medidas especiais a favor de determinadas regiões de produção** *Jornal Oficial nº L 284 de 07/10/1987 p. 0019 - 0020*\n\n*****\n\nREGULAMENTO (CEE) Nº 2997/87 DO CONSELHO\n\nde 22 de Setembro de 1987\n\nque fixa, no sector do lúpulo, o montante da ajuda aos produtores para a colheita de 1986 e prevê medidas especiais a favor de determinadas regiões de produção\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia, e, nomeadamente, os seus artigos 42º e 43º,\n\nTendo em conta o Acto de Adesão de Espanha e de Portugal,\n\nTendo em conta o Regulamento (CEE) nº 1696/71 do Conselho, de 26 de Julho de 1971, que estabelece a organização comum de mercado no sector do lúpulo (1), com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 3800/85 (2), e, nomeadamente, o nº 7 do seu artigo 12º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (3),\n\nConsiderando que o artigo 12º do Regulamento (CEE) nº 1696/71 prevê a possibilidade de concessão de uma ajuda aos produtores de lúpulo a fim de lhes permitir obter um rendimento equitativo; que o montante dessa ajuda é fixado por hectare e diferenciado em função dos grupos de variedades, tendo em conta a receita média realizada nas superfícies em plena produção de comparação com as receitas médias realizadas nas colheitas precedentes, a situação do mercado e a evolução dos custos;\n\nConsiderando que após o exame dos resultados da colheita de 1986 se verifica a necessidade de fixar uma ajuda para determinados grupos de variedades de lúpulo cultivadas na Comunidade;\n\nConsiderando que, nos termos dos artigos 105º e 299º do Acto de Adesão de Espanha e de Portugal, a ajuda ao lúpulo cultivado em Espanha e em Portugal é concedida a partir da colheita de 1986;\n\nConsiderando que o mercado comunitário das variedades amargas do lúpulo se encontra numa situação de desequilíbrio devido a estas não satisfazerem a procura; que, em determinadas regiões, a produção é essencialmente constituída por estas variedades e que esta cultura está em regressão; que é necessário, portanto, adoptar medidas com vista a alterar as estruturas de produção dessas regiões e isto mediante a sua reconversão para variedades mais procuradas; que a concessão de uma ajuda para permitir aos produtores realizar trabalhos de reconversão varietal parece ser uma medida adequada; que é conveniente conceder a ajuda aos agrupamentos de produtores das regiões em causa cujos produtores se comprometam a executar as medidas previstas; que é necessário aplicar essas medidas por um período determinado; que, por razões de equidade e para que as medidas previstas possam ser eficazes, é conveniente prever a extensão máxima da superfície que, em cada Estado-membro em causa, deve ser reconvertida; que, a fim de obter os resultados esperados, é importante prever que seja excluída qualquer extensão da superfície plantada com lúpulo pelos agrupamentos de produtores que são objecto das medidas previstas;\n\nConsiderando que é importante prever que os Estados-membros possam, dentro de certos limites, participar no financiamento do plano de reconversão varietal,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "70ea5a71f4665ff6": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. Em relação à colheita de 1986, é concedida uma ajuda aos produtores de lúpulo da Comunidade para os grupos de variedades enumeradas no anexo.\n\n2. O montante da ajuda é fixado ao nível indicado no anexo."
+  },
+  "6b534fb24df50a71": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. É concedida uma ajuda especial igual a 2 500 ECUs por hectare para superfícies cultivadas essencialmente com variedades amargas de lúpulo, nas condições a determinar de acordo com o processo referido no nº 6, aos agrupamentos de produtores reconhecidos nos termos do Regulamento (CEE) nº 1696/71 cujos membros se comprometam a realizar um plano de reconversão, antes de 31 de Dezembro de 1990, para as variedades aromáticas ou para as variedades do tipo super-alpha. Esta ajuda especial é concedida para uma superfície global não superior a 800 hectares para cada Estado-membro em causa.\n\n2. O Estado-membro em causa pode participar no financiamento do plano de reconversão referido no nº 1. Todavia, o auxílio concedido pelo Estado-membro, acrescido da ajuda especial referida no dito número, não pode ultrapassar 50 % dos custos efectivos do plano de reconversão. Esta percentagem pode atingir 75 % dos custos nas regiões desfavorecidas da Comunidade na acepção da Directiva 75/268/CEE (4), na redacção que lhe foi dada pelo Regulamento (CEE) nº 797/85 (5).\n\n3. Os Estados-membros comunicam à Comissão as disposições legislativas, regulamentares ou administrativas que pretendam adoptar em aplicação do presente regulamento.\n\n4. Os agrupamentos de produtores podem beneficiar da ajuda especial na condição de, durante os anos de 1988 a 1990, a superfície cultivada com lúpulo por estes agrupamentos de produtores não exceder a cultivada em 1986.\n\n5. Os planos de reconversão devem inserir-se no âmbito de programas. Os programas são transmitidos à Comissão pelos Estados-membros em causa. A Comissão decide da sua aprovação, de acordo com o processo previsto no nº 6, em função do interesse económico da reconversão prevista.\n\n6. As regras de execução do presente artigo são adoptadas de acordo com o processo previsto no artigo 20º do Regulamento (CEE) nº 1696/71."
+  },
+  "4f091eabf2101d78": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 22 de Setembro de 1987.\n\nPelo Conselho\n\nO Presidente\n\nL. TOERNAES\n\n(1) JO nº L 175 de 4. 8. 1971, p. 1.\n\n(2) JO nº L 367 de 31. 12. 1985, p. 32.\n\n(3) Parecer emitido em 18 de Setembro de 1987 (ainda não publicado no Jornal Oficial).\n\n(4) JO nº L 128 de 19. 5. 1975, p. 1.\n\n(5) JO nº L 93 de 30. 3. 1985, p. 1."
+  },
+  "0cde42a8b70dabbe": {
+   "fragment_id": "ANEXO — Ajuda concedida aos produtores de lúpulo para a colheita de 1986",
+   "type": "divisao",
+   "heading": "ANEXO — Ajuda concedida aos produtores de lúpulo para a colheita de 1986",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Ajuda concedida aos produtores de lúpulo para a colheita de 1986\n\n(Montantes em ECUs/ha)\n\n1.2 // // // Grupo de variedades // Comunidade dos Doze // // // Aromáticas // 310 // Amargas // 390 // Outras // 390 // //"
+  },
+  "6d0fbea439b5f754": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1987R2997 — PT — 01.01.1995 — 004.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31987R2997:PT:NOT) [REGULAMENTO (CEE) N.o 2997/87 DO CONSELHO de 22 de Setembro de 1987 que fixa, no sector do lúpulo, o montante da ajuda aos produtores para a colheita de 1986 e prevê medidas especiais a favor de determinadas regiões de produção](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31987R2997:PT:NOT) (JO L 284, 7.10.1987, p.19)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989R1809:PT:NOT) | [Regulamento (CEE) n.o 1809/89 do Conselho de 19 de Junho de 1989](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989R1809:PT:NOT) | L 177 | 6 | 24.6.1989 |\n| [M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990R3837:PT:NOT) | [Regulamento (CEE) n.o 3837/90 do Conselho de 20 de Dezembro de 1990](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990R3837:PT:NOT) | L 367 | 2 | 29.12.1990 |\n| [►M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992R3338:PT:NOT) | [Regulamento (CEE) n.o 3338/92 do Conselho de 16 de Novembro de 1992](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992R3338:PT:NOT) | L 336 | 3 | 20.11.1992 |\n| [►M4](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995R0423:PT:NOT) | [Regulamento (CE) n.o 423/95 do Conselho de 20 de Fevereiro de 1995](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995R0423:PT:NOT) | L 45 | 1 | 1.3.1995 |\n\n| NB: Esta versão consolidada contém referências à unidade de conta europeia e/ou ao ecu, que a partir de 1 de Janeiro de 1999 devem ser interpretadas como referências ao euro — Regulamento (CEE) n.o 3308/80 do Conselho (JO L 345 de 20.12.1980, p. 1) e Regulamento (CE) n.o 1103/97 do Conselho (JO L 162 de 19.6.1997, p. 1). |\n| --- |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31987R2997:PT:NOT)\n\nREGULAMENTO (CEE) N.o 2997/87 DO CONSELHO\n\nde 22 de Setembro de 1987\n\nque fixa, no sector do lúpulo, o montante da ajuda aos produtores para a colheita de 1986 e prevê medidas especiais a favor de determinadas regiões de produção\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia, e, nomeadamente, os seus artigos 42.o e 43.o,\n\nTendo em conta o Acto de Adesão de Espanha e de Portugal,\n\nTendo em conta o Regulamento (CEE) n.o 1696/71 do Conselho, de 26 de Julho de 1971, que estabelece a organização comum de mercado no sector do lúpulo ([1](http://publications.europa.eu/resource/cellar/5572e544-1644-48e9-94c5-a3a8d4fd21a4.0009.02/DOC_1#E0001)), com a última redacção que lhe foi dada pelo Regulamento (CEE) n.o 3800/85 ([2](http://publications.europa.eu/resource/cellar/5572e544-1644-48e9-94c5-a3a8d4fd21a4.0009.02/DOC_1#E0002)), e, nomeadamente, o n.o 7 do seu artigo 12.o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([3](http://publications.europa.eu/resource/cellar/5572e544-1644-48e9-94c5-a3a8d4fd21a4.0009.02/DOC_1#E0003)),\n\nConsiderando que o artigo 12.o do Regulamento (CEE) n.o 1696/71 prevê a possibilidade de concessão de uma ajuda aos produtores de lúpulo a fim de lhes permitir obter um rendimento equitativo; que o montante dessa ajuda é fixado por hectare e diferenciado em função dos grupos de variedades, tendo em conta a receita média realizada nas superfícies em plena produção de comparação com as receitas médias realizadas nas colheitas precedentes, a situação do mercado e a evolução dos custos;\n\nConsiderando que após o exame dos resultados da colheita de 1986 se verifica a necessidade de fixar uma ajuda para determinados grupos de variedades de lúpulo cultivadas na Comunidade;\n\nConsiderando que, nos termos dos artigos 105.o e 299.o do Acto de Adesão de Espanha e de Portugal, a ajuda ao lúpulo cultivado em Espanha e em Portugal é concedida a partir da colheita de 1986;\n\nConsiderando que o mercado comunitário das variedades amargas do lúpulo se encontra numa situação de desequilíbrio devido a estas não satisfazerem a procura; que, em determinadas regiões, a produção é essencialmente constituída por estas variedades e que esta cultura está em regressão; que é necessário, portanto, adoptar medidas com vista a alterar as estruturas de produção dessas regiões e isto mediante a sua reconversão para variedades mais procuradas; que a concessão de uma ajuda para permitir aos produtores realizar trabalhos de reconversão varietal parece ser uma medida adequada; que é conveniente conceder a ajuda aos agrupamentos de produtores das regiões em causa cujos produtores se comprometam a executar as medidas previstas; que é necessário aplicar essas medidas por um período determinado; que, por razões de equidade e para que as medidas previstas possam ser eficazes, é conveniente prever a extensão máxima da superfície que, em cada Estado-membro em causa, deve ser reconvertida; que, a fim de obter os resultados esperados, é importante prever que seja excluída qualquer extensão da superfície plantada com lúpulo pelos agrupamentos de produtores que são objecto das medidas previstas;\n\nConsiderando que é importante prever que os Estados-membros possam, dentro de certos limites, participar no financiamento do plano de reconversão varietal,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "cc94d5627c9036e8": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Em relação à colheita de 1986, é concedida uma ajuda aos produtores de lúpulo da Comunidade para os grupos de variedades enumeradas no anexo.\n\n2. O montante da ajuda é fixado ao nível indicado no anexo."
+  },
+  "8b44dcff3dcc77a7": {
+   "fragment_id": "Artigo 2.º — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989R1809:PT:NOT)",
+   "type": "artigo",
+   "heading": "Artigo 2.º — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989R1809:PT:NOT)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989R1809:PT:NOT)\n\n1. É concedida uma ajuda especial de 2 500 ecus por hectare para superfícies cultivadas com variedades amargas de lúpulo, nas condições a determinar de acordo com o processo referido no n.o 6, aos agrupamentos de produtores reconhecidos nos termos do Regulamento (CEE) n.o 1696/71 cujos membros se comprometam a executar, antes de [►M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992R3338:PT:NOT) 31 de Dezembro de 1994 ◄, um plano de reconversão para as variedades aromáticas ou as variedades do tipo «superalfa». Esta ajuda especial pode igualmente ser concedida para superfícies cultivadas com outras variedades, no caso de estas últimas estarem presentes em superfícies essencialmente cultivadas com variedades amargas. Esta ajuda especial é concedida para uma superfície global não superior a [►M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992R3338:PT:NOT) 1 000 hectares ◄ por cada Estado-membro em causa.\n\n[▼M4](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995R0423:PT:NOT)\n\nNo caso do Reino de Espanha, da República Portuguesa e do Reino da Bélgica, os membros dos agrupamentos de produtores em causa devem comprometer-se a realizar os planos de reconversão antes de 31 de Dezembro de 1996 e, no caso do Reino Unido, antes de 31 de Dezembro de 1995.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31987R2997:PT:NOT)\n\n2. O Estado-membro em causa pode participar no financiamento do plano de reconversão referido no n.o 1. Todavia, o auxílio concedido pelo Estado-membro, acrescido da ajuda especial referida no dito número, não pode ultrapassar 50 % dos custos efectivos do plano de reconversão. Esta percentagem pode atingir 75 % dos custos nas regiões desfavorecidas da Comunidade na acepção da Directiva 75/268/CEE ([4](http://publications.europa.eu/resource/cellar/5572e544-1644-48e9-94c5-a3a8d4fd21a4.0009.02/DOC_1#E0004)), na redacção que lhe foi dada pelo Regulamento (CEE) n.o 797/85 ([5](http://publications.europa.eu/resource/cellar/5572e544-1644-48e9-94c5-a3a8d4fd21a4.0009.02/DOC_1#E0005)).\n\n3. Os Estados-membros comunicam à Comissão as disposições legislativas, regulamentares ou administrativas que pretendam adoptar em aplicação do presente regulamento.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989R1809:PT:NOT) —————\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31987R2997:PT:NOT)\n\n5. Os planos de reconversão devem inserir-se no âmbito de programas. Os programas são transmitidos à Comissão pelos Estados-membros em causa. A Comissão decide da sua aprovação, de acordo com o processo previsto no n.o 6, em função do interesse económico da reconversão prevista.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989R1809:PT:NOT)\n\nA Comissão pode decidir aprovar programas cuja execução foi empreendida posteriormente à sua transmissão à Comissão.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31987R2997:PT:NOT)\n\n6. As regras de execução do presente artigo são adoptadas de acordo com o processo previsto no artigo 20.o do Regulamento (CEE) n.o 1696/71."
+  },
+  "b0269a19bb00749a": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "4bf7b2f34d036b9c": {
+   "fragment_id": "ANEXO — Ajuda concedida aos produtores de lúpulo para a colheita de 1986",
+   "type": "divisao",
+   "heading": "ANEXO — Ajuda concedida aos produtores de lúpulo para a colheita de 1986",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Ajuda concedida aos produtores de lúpulo para a colheita de 1986\n\n| (Montantes em ECUs/ha) |  |\n| --- | --- |\n| Grupo de variedades | Comunidade dos Doze |\n| Aromáticas | 310 |\n| Amargas | 390 |\n| Outras | 390 |\n\n([1](http://publications.europa.eu/resource/cellar/5572e544-1644-48e9-94c5-a3a8d4fd21a4.0009.02/DOC_1#src.E0001)) JO n.o L 175 de 4. 8. 1971, p. 1.\n\n([2](http://publications.europa.eu/resource/cellar/5572e544-1644-48e9-94c5-a3a8d4fd21a4.0009.02/DOC_1#src.E0002)) JO n.o L 367 de 31. 12. 1985, p. 32.\n\n([3](http://publications.europa.eu/resource/cellar/5572e544-1644-48e9-94c5-a3a8d4fd21a4.0009.02/DOC_1#src.E0003)) Parecer emitido em 18 de Setembro de 1987 (ainda não publicado no Jornal Oficial).\n\n([4](http://publications.europa.eu/resource/cellar/5572e544-1644-48e9-94c5-a3a8d4fd21a4.0009.02/DOC_1#src.E0004)) JO n.o L 128 de 19. 5. 1975, p. 1.\n\n([5](http://publications.europa.eu/resource/cellar/5572e544-1644-48e9-94c5-a3a8d4fd21a4.0009.02/DOC_1#src.E0005)) JO n.o L 93 de 30. 3. 1985, p. 1."
+  }
+ }
+}

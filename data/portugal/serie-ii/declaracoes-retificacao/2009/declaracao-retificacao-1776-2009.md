@@ -1,0 +1,91 @@
+---
+schema_version: '1.0'
+id: pt:dre:1441371:por
+title: Declaração de Rectificação n.º 1776/2009
+short_title: null
+summary: Rectificação ao despacho n.º 15206/2009, referente à tomada posse da directora
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Ministério da Educação - Direcção Regional de Educação do Norte - Agrupamento Vertical de Escolas Padre Joaquim Flores
+proposing_entity: null
+official_number: 1776/2009
+official_date: null
+publication_date: '2009-07-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 142/2009, Série II de 2009-07-24
+  number: '142'
+  series: II
+  supplement: null
+  pages: 29418 - 29418
+  pdf_url: https://files.diariodarepublica.pt/2s/2009/07/142000000/2941829418.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1441371'
+  dre_path: /dr/detalhe/declaracao-rectificacao/1776-2009-1441371
+  internal: pt:dre:1441371:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1776-2009-1441371
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1776-2009-1441371
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:03:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8b5f6b03a8e0dabacab5be24089f7e8e0f642cbe42d5ed7e4b516e51fc15c390
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:08Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:03:08Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 1776/2009
+
+Declaração de rectificação n.º 1776/2009
+
+Por ter sido inexacta a publicação no Diário da República, 2.ª série, n.º 128, de 6 de Julho de 2009, despacho n.º 15206/2009, relativamente à data da reunião do Conselho Geral Transitório para tomada de posse, em comissão de serviço da Directora, professora Maria José Pereira Gonçalves Marques, rectifica-se que onde se lê «22 de Maio de 2009» deve ler-se «22 de Junho de 2009».
+
+20 de Julho de 2009. - O Presidente do Conselho Geral Transitório, António José Novais Rebelo Teixeira Basto.
+
+202071512

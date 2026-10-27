@@ -1,0 +1,579 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:126318034:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2019-170382805",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/8-a-2019-126318034",
+ "source_lastmod": "2025-06-20",
+ "versions": [
+  {
+   "date": "2019-11-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "922110732",
+    "170380107",
+    "170380108",
+    "170380109",
+    "170380110",
+    "170380111",
+    "170380112",
+    "170380113",
+    "170380114",
+    "170380115",
+    "170380116",
+    "170380117",
+    "170380118",
+    "170380119",
+    "170380120",
+    "170380121",
+    "170380122",
+    "170380123",
+    "170380124",
+    "170380125",
+    "170380126",
+    "170380127",
+    "170380128",
+    "170380129",
+    "170380130",
+    "170380131",
+    "170380132"
+   ]
+  },
+  {
+   "date": "2021-08-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:170322931:por",
+     "title": "Decreto Regulamentar Regional n.º 9/2021/M",
+     "published": "2021-08-27",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "922110732",
+    "922110733",
+    "922110734",
+    "922110735",
+    "922110736",
+    "922110737",
+    "922110738",
+    "922110739",
+    "922110740",
+    "922110741",
+    "922110742",
+    "922110743",
+    "922110744",
+    "922110745",
+    "922110746",
+    "922110747",
+    "922110748",
+    "922110749",
+    "922110750",
+    "922110751",
+    "922110752",
+    "922110753",
+    "922110754",
+    "922110755",
+    "922110756",
+    "922110757",
+    "922110758",
+    "922110759"
+   ]
+  }
+ ],
+ "fragments": {
+  "922110732": {
+   "fragment_id": "170382806",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-08-28",
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 8-A/2019/M\n\nSumário: Aprova a organização e funcionamento do XIII Governo Regional da Madeira e revoga o Decreto Regulamentar Regional n.º 13/2017/M, de 7 de novembro.\n\nAprova a organização e funcionamento do XIII Governo Regional da Madeira e revoga o Decreto Regulamentar Regional n.º 13/2017/M, de 7 de novembro.\n\nOs artigos 56.º, n.º 3, e 69.º, alínea c), do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, e revisto pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, atribuem ao Governo Regional a competência para aprovar a sua organização e funcionamento, objetivo prosseguido por via deste diploma.\n\nAssim, nos termos dos artigos 227.º, n.º 1, alínea d), e 231.º, n.º 6, da Constituição da República Portuguesa, e dos artigos 56.º, n.º 3, 69.º, alíneas c) e d), e 70.º, n.º 1, do Estatuto Político-Administrativo da Região Autónoma da Madeira, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "170380107": {
+   "fragment_id": "170382807",
+   "type": 1,
+   "heading": "Capítulo I — Do Governo Regional da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Do Governo Regional da Madeira"
+  },
+  "170380108": {
+   "fragment_id": "170382808",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura do Governo Regional da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Estrutura do Governo Regional da Madeira\n\nA estrutura do Governo Regional da Madeira é a seguinte:\n\na) Presidência do Governo Regional;\n\nb) Vice-Presidência do Governo Regional e dos Assuntos Parlamentares;\n\nc) Secretaria Regional de Economia;\n\nd) Secretaria Regional de Educação, Ciência e Tecnologia;\n\ne) Secretaria Regional de Saúde e Proteção Civil;\n\nf) Secretaria Regional de Turismo e Cultura;\n\ng) Secretaria Regional de Inclusão Social e Cidadania;\n\nh) Secretaria Regional de Ambiente, Recursos Naturais e Alterações Climáticas;\n\ni) Secretaria Regional de Mar e Pescas;\n\nj) Secretaria Regional de Agricultura e Desenvolvimento Rural;\n\nk) Secretaria Regional de Equipamentos e Infraestruturas."
+  },
+  "170380109": {
+   "fragment_id": "170382809",
+   "type": 1,
+   "heading": "Capítulo II — Da Presidência, Vice-Presidência e Secretarias Regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Da Presidência, Vice-Presidência e Secretarias Regionais"
+  },
+  "170380110": {
+   "fragment_id": "170382810",
+   "type": 11,
+   "heading": "Artigo 2.º — Presidência do Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Presidência do Governo\n\n1 - À Presidência do Governo são cometidas as atribuições referentes às comunidades e cooperação externa e as referentes à manutenção, gestão e apoio às Casas da Madeira de Lisboa, Porto e Coimbra em território continental e na Região Autónoma dos Açores.\n\n2 - Para coadjuvar o Presidente do Governo Regional no cumprimento das atribuições referidas no número anterior é criada a Direção Regional das Comunidades e Cooperação Externa."
+  },
+  "170380111": {
+   "fragment_id": "170382811",
+   "type": 11,
+   "heading": "Artigo 3.º — Vice-Presidência do Governo Regional e dos Assuntos Parlamentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Vice-Presidência do Governo Regional e dos Assuntos Parlamentares\n\n1 - À Vice-Presidência do Governo Regional e dos Assuntos Parlamentares são cometidas as atribuições referentes aos setores seguintes:\n\na) Assuntos parlamentares;\n\nb) Coordenação política;\n\nc) Administração Pública;\n\nd) Administração Pública do Porto Santo;\n\ne) Finanças;\n\nf) Orçamento;\n\ng) Tesouro;\n\nh) Contabilidade;\n\ni) Assuntos fiscais;\n\nj) Estatística;\n\nk) Centro Internacional de Negócios da Madeira;\n\nl) Registo Internacional de Navios da Madeira;\n\nm) Património;\n\nn) Informática;\n\no) Inspeção Regional de Finanças;\n\np) Modernização administrativa;\n\nq) Assuntos europeus;\n\nr) Administração da justiça;\n\ns) Autarquias locais;\n\nt) Planeamento regional e coordenação de políticas públicas;\n\nu) Coordenação geral dos fundos comunitários;\n\nv) Transportes marítimos e acessibilidades marítimas;\n\nw) Mobilidade aérea e marítima;\n\nx) Comunicações;\n\ny) Produção e fornecimento de energia.\n\n2 - No âmbito das atribuições referidas no número anterior, funcionam sob a tutela e superintendência da Vice-Presidência do Governo Regional e dos Assuntos Parlamentares os seguintes serviços da administração indireta da Região Autónoma da Madeira:\n\na) Gabinete de Gestão da Loja do Cidadão da Madeira;\n\nb) Instituto de Desenvolvimento Regional, IP-RAM.\n\n3 - A Vice-Presidência do Governo Regional e dos Assuntos Parlamentares exerce a tutela sobre as seguintes entidades:\n\na) APRAM - Administração dos Portos da Região Autónoma da Madeira, S. A.;\n\nb) EEM - Empresa de Eletricidade da Madeira, S. A.\n\n4 - A Vice-Presidência do Governo Regional e dos Assuntos Parlamentares exerce ainda, em relação às demais empresas públicas do setor empresarial da Região Autónoma da Madeira, as competências que são cometidas ao membro do Governo responsável pela área das finanças.\n\n5 - Podem ainda ser cometidas à Vice-Presidência do Governo Regional e dos Assuntos Parlamentares atribuições de coordenação e supervisão de atividades comuns ou de funcionamento em rede, intra ou interdepartamental, nos termos e para os efeitos do disposto nos artigos 8.º e 9.º do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelo Decreto Legislativo Regional n.º 24/2012/M, de 30 de agosto, e pelo Decreto Legislativo Regional n.º 2/2013/M, de 2 de janeiro."
+  },
+  "170380112": {
+   "fragment_id": "170382812",
+   "type": 11,
+   "heading": "Artigo 4.º — Secretaria Regional de Economia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Secretaria Regional de Economia\n\n1 - À Secretaria Regional de Economia são cometidas as atribuições referentes aos setores seguintes:\n\na) Economia e empresas;\n\nb) Comércio, serviços, metrologia e indústria;\n\nc) Fomento do empreendedorismo, da competitividade e da inovação empresarial;\n\nd) Promoção e captação do investimento privado e da internacionalização empresarial;\n\ne) Inspeção das atividades económicas;\n\nf) Mecanismos de apoio e de resolução de conflitos de consumo;\n\ng) Apoio às empresas;\n\nh) Qualidade;\n\ni) Transportes e mobilidade terrestre.\n\n2 - No âmbito das atribuições referidas no número anterior, funciona sob a tutela e superintendência da Secretaria Regional de Economia o Instituto de Desenvolvimento Empresarial, IP-RAM, serviço da administração indireta da Região Autónoma da Madeira.\n\n3 - A Secretaria Regional de Economia exerce a tutela sobre as seguintes entidades:\n\na) Horários do Funchal - Transportes Públicos, S. A.;\n\nb) Madeira Parques Empresariais, Sociedade Gestora, S. A.;\n\nc) StartUp Madeira.\n\n4 - A Secretaria Regional de Economia assegura ainda os meios indispensáveis ao funcionamento do Centro de Arbitragem de Conflitos de Consumo da Região Autónoma da Madeira."
+  },
+  "170380113": {
+   "fragment_id": "170382813",
+   "type": 11,
+   "heading": "Artigo 5.º — Secretaria Regional de Educação, Ciência e Tecnologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Secretaria Regional de Educação, Ciência e Tecnologia\n\n1 - À Secretaria Regional de Educação, Ciência e Tecnologia são cometidas as atribuições referentes aos setores seguintes:\n\na) Educação;\n\nb) Educação especial;\n\nc) Formação profissional;\n\nd) Juventude;\n\ne) Desporto;\n\nf) Ciência, investigação e tecnologia;\n\ng) Relações com a Universidade da Madeira e demais entidades de formação superior;\n\nh) Comunicação social.\n\n2 - No âmbito das atribuições referidas no número anterior, funcionam sob a tutela e superintendência da Secretaria Regional de Educação, Ciência e Tecnologia os seguintes serviços da administração indireta da Região Autónoma da Madeira:\n\na) Instituto para a Qualificação, IP-RAM;\n\nb) Conservatório - Escola Profissional das Artes da Madeira - Eng.º Luiz Peter Clode.\n\n3 - A Secretaria Regional de Educação, Ciência e Tecnologia exerce a tutela sobre as seguintes entidades:\n\na) ARDITI - Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação;\n\nb) Polo Científico e Tecnológico da Madeira, Madeira Tecnopolo, S. A.;\n\nc) EPHTM - Escola Profissional de Hotelaria e Turismo da Madeira.\n\n4 - São ainda da responsabilidade da Secretaria Regional de Educação, Ciência e Tecnologia os encargos relativos às iniciativas das instituições de defesa e militares.\n\n5 - É criada a Direção Regional de Juventude, a qual, sem prejuízo das competências próprias que lhe possam ser cometidas através de diploma orgânico ou delegadas, tem como missão coadjuvar o Secretário Regional de Educação, Ciência e Tecnologia no exercício de funções na área da juventude."
+  },
+  "170380114": {
+   "fragment_id": "170382814",
+   "type": 11,
+   "heading": "Artigo 6.º — Secretaria Regional de Saúde e Proteção Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Secretaria Regional de Saúde e Proteção Civil\n\n1 - À Secretaria Regional de Saúde e Proteção Civil são cometidas as atribuições referentes aos seguintes setores:\n\na) Saúde;\n\nb) Proteção civil e bombeiros;\n\nc) Promoção de estilos de vida saudáveis;\n\nd) Prevenção e combate às dependências.\n\n2 - No âmbito das atribuições referidas no número anterior, funcionam sob a tutela e superintendência da Secretaria Regional de Saúde e Proteção Civil os seguintes serviços da administração indireta da Região Autónoma da Madeira:\n\na) Instituto de Administração da Saúde, IP-RAM;\n\nb) Serviço Regional de Proteção Civil, IP-RAM.\n\n3 - A Secretaria Regional de Saúde e Proteção Civil exerce tutela e superintendência sobre o Serviço de Saúde da Região Autónoma da Madeira, E. P. E."
+  },
+  "170380115": {
+   "fragment_id": "170382815",
+   "type": 11,
+   "heading": "Artigo 7.º — Secretaria Regional de Turismo e Cultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Secretaria Regional de Turismo e Cultura\n\n1 - À Secretaria Regional de Turismo e Cultura são cometidas as atribuições referentes aos setores seguintes:\n\na) Turismo;\n\nb) Cultura;\n\nc) Aeroportos e transportes aéreos.\n\n2 - A Secretaria Regional de Turismo e Cultura exerce a tutela sobre a Associação de Promoção da Madeira."
+  },
+  "170380116": {
+   "fragment_id": "170382816",
+   "type": 11,
+   "heading": "Artigo 8.º — Secretaria Regional de Inclusão Social e Cidadania",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Secretaria Regional de Inclusão Social e Cidadania\n\n1 - À Secretaria Regional de Inclusão Social e Cidadania são cometidas as atribuições referentes aos setores seguintes:\n\na) Cidadania e responsabilidade social;\n\nb) Solidariedade e segurança social;\n\nc) Emprego;\n\nd) Habitação;\n\ne) Trabalho;\n\nf) Inspeção do trabalho;\n\ng) Concertação social;\n\nh) Relações com as instituições da economia social;\n\ni) Promoção e proteção social da família, crianças e jovens em risco, pessoas com deficiência e idosos;\n\nj) Políticas de inclusão social, igualdade de género, igualdade perante o trabalho e combate às discriminações;\n\nk) Defesa do consumidor;\n\nl) Natalidade;\n\nm) Voluntariado.\n\n2 - No âmbito das atribuições referidas no número anterior, funcionam sob a tutela e superintendência da Secretaria Regional de Inclusão Social e Cidadania os seguintes serviços da administração indireta da Região Autónoma da Madeira:\n\na) Instituto de Emprego da Madeira, IP-RAM;\n\nb) Instituto de Segurança Social da Madeira, IP-RAM.\n\n3 - A Secretaria Regional de Inclusão Social e Cidadania exerce a tutela sobre a IHM - Investimentos Habitacionais da Madeira, EPERAM.\n\n4 - A manutenção, gestão dos recursos humanos e encargos respeitantes ao funcionamento do Parque Desportivo dos Trabalhadores Dr. Sidónio Fernandes competem à Secretaria Regional de Inclusão Social e Cidadania.\n\n5 - A Secretaria Regional de Inclusão Social e Cidadania presta ainda apoio ao Conselho Económico e da Concertação Social da Região Autónoma da Madeira."
+  },
+  "170380117": {
+   "fragment_id": "170382817",
+   "type": 11,
+   "heading": "Artigo 9.º — Secretaria Regional de Ambiente, Recursos Naturais e Alterações Climáticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Secretaria Regional de Ambiente, Recursos Naturais e Alterações Climáticas\n\n1 - À Secretaria Regional de Ambiente, Recursos Naturais e Alterações Climáticas são cometidas as atribuições referentes aos setores seguintes:\n\na) Recursos hídricos;\n\nb) Ambiente e economia circular;\n\nc) Alterações climáticas;\n\nd) Litoral;\n\ne) Prevenção e gestão de resíduos;\n\nf) Saneamento básico;\n\ng) Ordenamento do território;\n\nh) Informação geográfica, cartográfica e cadastral;\n\ni) Urbanismo;\n\nj) Conservação da natureza, geo e biodiversidade;\n\nk) Florestas;\n\nl) Áreas protegidas;\n\nm) Paisagem.\n\n2 - No âmbito das atribuições referidas no número anterior, funciona sob a tutela e superintendência da Secretaria Regional de Ambiente, Recursos Naturais e Alterações Climáticas o Instituto das Florestas e Conservação da Natureza, IP-RAM, serviço da administração indireta da Região Autónoma da Madeira.\n\n3 - A Secretaria Regional de Ambiente, Recursos Naturais e Alterações Climáticas exerce a tutela sobre a ARM - Águas e Resíduos da Madeira, S. A.\n\n4 - A orientação da participação pública na AREAM - Agência Regional da Energia e Ambiente da Região Autónoma da Madeira é da competência da Secretaria Regional de Ambiente, Recursos Naturais e Alterações Climáticas."
+  },
+  "170380118": {
+   "fragment_id": "170382818",
+   "type": 11,
+   "heading": "Artigo 10.º — Secretaria Regional de Mar e Pescas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Secretaria Regional de Mar e Pescas\n\nÀ Secretaria Regional de Mar e Pescas são cometidas as atribuições referentes aos setores seguintes:\n\na) Pescas;\n\nb) Aquicultura;\n\nc) Valorização e sustentabilidade dos recursos marinhos;\n\nd) Exploração e investigação do mar;\n\ne) Licenciamento de usos do mar e seus fundos;\n\nf) Recifes artificiais;\n\ng) Coordenação da Política Regional do Mar;\n\nh) Gestão dos Fundos Comunitários de Mar e Pescas;\n\ni) Coordenação com a Autoridade Marítima Nacional e demais entidades que compõem o Sistema da Autoridade Marítima."
+  },
+  "170380119": {
+   "fragment_id": "170382819",
+   "type": 11,
+   "heading": "Artigo 11.º — Secretaria Regional de Agricultura e Desenvolvimento Rural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Secretaria Regional de Agricultura e Desenvolvimento Rural\n\n1 - À Secretaria Regional de Agricultura e Desenvolvimento Rural são cometidas as atribuições referentes aos setores seguintes:\n\na) Agricultura;\n\nb) Pecuária;\n\nc) Veterinária;\n\nd) Viticultura;\n\ne) Desenvolvimento rural;\n\nf) Desenvolvimento local;\n\ng) Assistência técnica ao agricultor;\n\nh) Artesanato;\n\ni) Bordado Madeira;\n\nj) Valorização e promoção das produções agropecuárias regionais;\n\nk) Formação nas áreas da agricultura, pecuária e do agroalimentar;\n\nl) Gestão dos fundos comunitários agropecuários.\n\n2 - No âmbito das atribuições referidas no número anterior, funciona sob a tutela e superintendência da Secretaria de Agricultura e Desenvolvimento Rural o IVBAM - Instituto do Vinho, do Bordado e do Artesanato da Madeira, IP-RAM, serviço da administração indireta da Região Autónoma da Madeira.\n\n3 - A Secretaria Regional de Agricultura e Desenvolvimento Rural exerce a tutela sobre as seguintes entidades:\n\na) CARAM - Centro de Abate da Região Autónoma da Madeira, E. P. E.;\n\nb) GESBA - Empresa de Gestão do Setor da Banana, Lda.\n\n4 - As competências e definição das orientações na ILMA - Indústria de Lacticínios da Madeira, Lda., empresa participada integrada no setor empresarial da Região Autónoma da Madeira, são cometidas à Secretaria Regional de Agricultura e Desenvolvimento Rural."
+  },
+  "170380120": {
+   "fragment_id": "170382820",
+   "type": 11,
+   "heading": "Artigo 12.º — Secretaria Regional de Equipamentos e Infraestruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Secretaria Regional de Equipamentos e Infraestruturas\n\n1 - À Secretaria Regional de Equipamentos e Infraestruturas são cometidas as atribuições referentes aos seguintes setores:\n\na) Edifícios, infraestruturas e equipamentos públicos;\n\nb) Estradas regionais;\n\nc) Obras públicas;\n\nd) Hidráulica fluvial;\n\ne) Barragens;\n\nf) Investigação e monitorização de obras.\n\n2 - A Secretaria Regional de Equipamentos e Infraestruturas exerce a tutela sobre as seguintes entidades:\n\na) PATRIRAM - Titularidade e Gestão do Património Público Regional, S. A.;\n\nb) Sociedade de Desenvolvimento do Norte da Madeira, S. A.;\n\nc) Sociedade de Desenvolvimento do Porto Santo, S. A.;\n\nd) Sociedade Metropolitana de Desenvolvimento, S. A.;\n\ne) Ponta do Oeste - Sociedade de Promoção e Desenvolvimento da Zona Oeste da Madeira, S. A.\n\n3 - As competências e definição das orientações na SDM - Sociedade de Desenvolvimento da Madeira, S. A., na Concessionária de Estradas - VIAEXPRESSO da Madeira, S. A., e na VIALITORAL - Concessões Rodoviárias da Madeira, S. A., empresas participadas integradas no setor empresarial da Região Autónoma da Madeira, são cometidas à Secretaria Regional de Equipamentos e Infraestruturas."
+  },
+  "170380121": {
+   "fragment_id": "170382821",
+   "type": 1,
+   "heading": "Capítulo III — Gabinetes dos membros do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Gabinetes dos membros do Governo Regional"
+  },
+  "170380122": {
+   "fragment_id": "170382822",
+   "type": 11,
+   "heading": "Artigo 13.º — Composição dos Gabinetes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Composição dos Gabinetes\n\n1 - Até a entrada em vigor do diploma regional que proceder à aprovação do regime, composição e orgânica dos Gabinetes dos membros do Governo, é aplicável, com as necessárias adaptações, o regime previsto no Decreto-Lei n.º 11/2012, de 20 de janeiro, com exceção do regime aplicável aos motoristas e sem prejuízo do disposto no número seguinte.\n\n2 - O Gabinete do Presidente do Governo Regional é composto por um máximo de cinco adjuntos, quatro secretários pessoais e três motoristas, o Gabinete do Vice-Presidente do Governo Regional e dos Assuntos Parlamentares é composto por um máximo de cinco adjuntos, três secretários pessoais e dois motoristas e os Gabinetes dos Secretários Regionais são compostos por um máximo de três adjuntos, dois secretários pessoais e dois motoristas.\n\n3 - Sem prejuízo do direito de opção pelo vencimento de origem, o motorista não detentor de relação jurídica de emprego público será abonado pelo nível 4 da tabela remuneratória única, aprovada pela Portaria n.º 1553-C/2008, de 31 de dezembro, acrescido dos suplementos referidos no n.º 3 do artigo 51.º do Decreto Legislativo Regional n.º 26/2018/M, de 31 de dezembro."
+  },
+  "170380123": {
+   "fragment_id": "170382823",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "170380124": {
+   "fragment_id": "170382824",
+   "type": 11,
+   "heading": "Artigo 14.º — Alterações e reestruturações orgânicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Alterações e reestruturações orgânicas\n\n1 - Nos termos da alínea c) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, a Presidência, a Vice-Presidência do Governo Regional e dos Assuntos Parlamentares e as Secretarias Regionais procedem às reestruturações orgânicas decorrentes do presente diploma.\n\n2 - No prazo de 60 dias a contar da data de entrada em vigor do presente diploma, devem ser submetidas ao Conselho do Governo Regional as propostas de decreto regulamentar regional que consagrem para os departamentos governamentais referidos no número anterior, organismos ou serviços, as alterações que, decorrentes deste diploma, se revelem necessárias.\n\n3 - A estrutura interna dos departamentos regionais deve contemplar um serviço que assegure o desenvolvimento das atribuições cometidas às unidades de gestão, previstas no artigo 59.º do Decreto Legislativo Regional n.º 26/2018/M, de 31 de dezembro.\n\n4 - Os diplomas orgânicos dos departamentos regionais e dos respetivos serviços estão sujeitos a parecer prévio favorável do Vice-Presidente do Governo Regional e dos Assuntos Parlamentares."
+  },
+  "170380125": {
+   "fragment_id": "170382825",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma remissiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Norma remissiva\n\n1 - As referências legais às secretarias regionais extintas ou reformuladas consideram-se, para todos os efeitos, reportadas aos departamentos regionais que, pelo presente diploma, integram as atribuições nas respetivas áreas e tutelam esses setores.\n\n2 - As atribuições e competências relativas aos setores que, mediante o presente diploma, transitam para a Presidência do Governo Regional, Vice-Presidência do Governo Regional e dos Assuntos Parlamentares ou para as Secretarias Regionais consideram-se-lhes automaticamente cometidas até nova alteração."
+  },
+  "170380126": {
+   "fragment_id": "170382826",
+   "type": 11,
+   "heading": "Artigo 16.º — Criação, transferência de serviços, competências e tutelas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Criação, transferência de serviços, competências e tutelas\n\n1 - Todos os serviços cujo enquadramento departamental é alterado são transferidos ou integrados nos departamentos do Governo Regional com atribuições no respetivo setor, mantendo a mesma natureza jurídica, modificando-se apenas, conforme os casos, o superior hierárquico ou o órgão de tutela, sem prejuízo do que as respetivas leis orgânicas vierem a dispor nesta matéria.\n\n2 - As competências, os direitos e as obrigações de que eram titulares os departamentos regionais extintos ou alterados são automaticamente transferidos para os correspondentes departamentos, organismos ou serviços que os substituem, sem dependência de quaisquer formalidades.\n\n3 - Até à constituição formal de novas unidades de gestão, as atribuições constantes dos n.os 2 e 3 do artigo 59.º do Decreto Legislativo Regional n.º 26/2018/M, de 31 de dezembro, continuam a ser asseguradas pelas unidades que, até à data, desempenham essas funções."
+  },
+  "170380127": {
+   "fragment_id": "170382827",
+   "type": 11,
+   "heading": "Artigo 17.º — Transferência e afetação de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Transferência e afetação de pessoal\n\n1 - As alterações na organização e funcionamento do Governo Regional são acompanhadas pela correspondente transferência do pessoal, sem dependência de quaisquer formalidades e sem prejuízo dos respetivos direitos e deveres consagrados na lei.\n\n2 - Os novos departamentos governamentais regionais, bem como os departamentos objeto de alteração, devem formular ou atualizar as respetivas listas nominativas no âmbito do Sistema Centralizado de Gestão de Recursos Humanos.\n\n3 - Até a aprovação das orgânicas dos departamentos referidos no número anterior e elaboração das listas nominativas mencionadas naquele normativo, a reafetação de pessoal dos serviços dependentes dos gabinetes das extintas secretarias regionais é efetuada através de despacho conjunto do Vice-Presidente do Governo Regional e dos Assuntos Parlamentares e do membro do Governo competente."
+  },
+  "170380128": {
+   "fragment_id": "170382828",
+   "type": 11,
+   "heading": "Artigo 18.º — Encargos orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Encargos orçamentais\n\n1 - Até à aprovação do Orçamento da Região Autónoma da Madeira para 2020 mantém-se a expressão orçamental da organização e funcionamento do Governo Regional, aprovada pelo Decreto Legislativo Regional n.º 26/2018/M, de 31 de dezembro.\n\n2 - Os encargos com os novos Gabinetes dos membros do Governo Regional são suportados transitoriamente pelos orçamentos vigentes dos gabinetes extintos e ou reestruturados, de acordo com as competências atribuídas às novas unidades orgânicas.\n\n3 - Os encargos relativos aos serviços ou organismos que transitam, no todo ou em parte, para departamentos diferentes continuam a ser processados por conta das dotações orçamentais que lhes estão afetas no orçamento em vigor.\n\n4 - Os projetos integrados no PIDDAR mantêm a expressão orçamental decorrente do Orçamento da Região Autónoma da Madeira para 2019, sendo os encargos processados pelos serviços ou organismos que tutelam os respetivos setores.\n\n5 - Todos os atos do Governo Regional relacionados com a aplicação do presente diploma que envolvam aumento de despesas ou diminuição de receitas são aprovados pelo Vice-Presidente do Governo Regional e dos Assuntos Parlamentares."
+  },
+  "170380129": {
+   "fragment_id": "170382829",
+   "type": 11,
+   "heading": "Artigo 19.º — Precedências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Precedências\n\nA ordem de precedências dos membros do Governo Regional da Madeira, bem como para efeitos de eventual substituição do seu Presidente, é a que consta do artigo 1.º deste diploma."
+  },
+  "170380130": {
+   "fragment_id": "170382830",
+   "type": 11,
+   "heading": "Artigo 20.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Norma revogatória\n\nÉ revogado o Decreto Regulamentar Regional n.º 13/2017/M, de 7 de novembro."
+  },
+  "170380131": {
+   "fragment_id": "170382831",
+   "type": 11,
+   "heading": "Artigo 21.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Produção de efeitos\n\nO presente diploma produz efeitos reportados a 15 de outubro de 2019, data da nomeação dos novos membros do Governo, considerando-se ratificados ou confirmados todos os atos que tenham sido praticados desde aquela data e cuja regularidade dependa da conformidade com o disposto no presente diploma."
+  },
+  "170380132": {
+   "fragment_id": "170382832",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "922110733": {
+   "fragment_id": "170382807",
+   "type": 1,
+   "heading": "Capítulo I — Do Governo Regional da Madeira",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+   ],
+   "markdown": "### Capítulo I — Do Governo Regional da Madeira\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+  },
+  "922110734": {
+   "fragment_id": "170382808",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura do Governo Regional da Madeira",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura do Governo Regional da Madeira\n\nA estrutura do Governo Regional da Madeira é a seguinte:\n\na) Presidência do Governo Regional;\n\nb) Vice-Presidência do Governo Regional e dos Assuntos Parlamentares;\n\nc) Secretaria Regional de Economia;\n\nd) Secretaria Regional de Educação, Ciência e Tecnologia;\n\ne) Secretaria Regional de Saúde e Proteção Civil;\n\nf) Secretaria Regional de Turismo e Cultura;\n\ng) Secretaria Regional de Inclusão Social e Cidadania;\n\nh) Secretaria Regional de Ambiente, Recursos Naturais e Alterações Climáticas;\n\ni) Secretaria Regional de Mar e Pescas;\n\nj) Secretaria Regional de Agricultura e Desenvolvimento Rural;\n\nk) Secretaria Regional de Equipamentos e Infraestruturas.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+  },
+  "922110735": {
+   "fragment_id": "170382809",
+   "type": 1,
+   "heading": "Capítulo II — Da Presidência, Vice-Presidência e Secretarias Regionais",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+   ],
+   "markdown": "### Capítulo II — Da Presidência, Vice-Presidência e Secretarias Regionais\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+  },
+  "922110736": {
+   "fragment_id": "170382810",
+   "type": 11,
+   "heading": "Artigo 2.º — Presidência do Governo",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+   ],
+   "markdown": "###### Artigo 2.º — Presidência do Governo\n\n1 - À Presidência do Governo são cometidas as atribuições referentes às comunidades e cooperação externa e as referentes à manutenção, gestão e apoio às Casas da Madeira de Lisboa, Porto e Coimbra em território continental e na Região Autónoma dos Açores.\n\n2 - Para coadjuvar o Presidente do Governo Regional no cumprimento das atribuições referidas no número anterior é criada a Direção Regional das Comunidades e Cooperação Externa.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+  },
+  "922110737": {
+   "fragment_id": "170382811",
+   "type": 11,
+   "heading": "Artigo 3.º — Vice-Presidência do Governo Regional e dos Assuntos Parlamentares",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28",
+    "Retificado pelo/a [Declaração de Retificação n.º 59/2019 - Diário da República n.º 234/2019, Série I de 2019-12-05](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/59-2019-126904849), produz efeitos a partir de 2019-11-20"
+   ],
+   "markdown": "###### Artigo 3.º — Vice-Presidência do Governo Regional e dos Assuntos Parlamentares\n\n1 - À Vice-Presidência do Governo Regional e dos Assuntos Parlamentares são cometidas as atribuições referentes aos setores seguintes:\n\na) Assuntos parlamentares;\n\nb) Coordenação política;\n\nc) Administração Pública;\n\nd) Administração Pública do Porto Santo;\n\ne) Finanças;\n\nf) Orçamento;\n\ng) Tesouro;\n\nh) Contabilidade;\n\ni) Assuntos fiscais;\n\nj) Estatística;\n\nk) Centro Internacional de Negócios da Madeira;\n\nl) Registo Internacional de Navios da Madeira;\n\nm) Património;\n\nn) Informática;\n\no) Inspeção Regional de Finanças;\n\np) Modernização administrativa;\n\nq) Assuntos europeus;\n\nr) Administração da justiça;\n\ns) Autarquias locais;\n\nt) Planeamento regional e coordenação de políticas públicas;\n\nu) Coordenação geral dos fundos comunitários;\n\nv) Transportes marítimos e acessibilidades marítimas;\n\nw) Mobilidade aérea e marítima;\n\nx) Comunicações;\n\ny) Produção e fornecimento de energia.\n\n2 - No âmbito das atribuições referidas no número anterior, funcionam sob a tutela e superintendência da Vice-Presidência do Governo Regional e dos Assuntos Parlamentares os seguintes serviços da administração indireta da Região Autónoma da Madeira:\n\na) Gabinete de Gestão da Loja do Cidadão da Madeira;\n\nb) Instituto de Desenvolvimento Regional, IP-RAM.\n\n3 - A Vice-Presidência do Governo Regional e dos Assuntos Parlamentares exerce a tutela sobre as seguintes entidades:\n\na) APRAM - Administração dos Portos da Região Autónoma da Madeira, S. A.;\n\nb) EEM - Empresa de Eletricidade da Madeira, S. A.\n\n4 - As competências e definição das orientações na SDM - Sociedade de Desenvolvimento da Madeira, empresa participada integrada no setor empresarial da Região Autónoma da Madeira, são cometidas à Vice-Presidência do Governo Regional e dos Assuntos Parlamentares.\n\n5 - A Vice-Presidência do Governo Regional e dos Assuntos Parlamentares exerce ainda, em relação às demais empresas públicas do setor empresarial da Região Autónoma da Madeira, as competências que são cometidas ao membro do Governo responsável pela área das finanças.\n\n6 - Podem ainda ser cometidas à Vice-Presidência do Governo Regional e dos Assuntos Parlamentares atribuições de coordenação e supervisão de atividades comuns ou de funcionamento em rede, intra ou interdepartamental, nos termos e para os efeitos do disposto nos artigos 8.º e 9.º do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelo Decreto Legislativo Regional n.º 24/2012/M, de 30 de agosto e pelo Decreto Legislativo Regional n.º 2/2013/M, de 2 de janeiro.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28\n\n> Retificado pelo/a [Declaração de Retificação n.º 59/2019 - Diário da República n.º 234/2019, Série I de 2019-12-05](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/59-2019-126904849), produz efeitos a partir de 2019-11-20"
+  },
+  "922110738": {
+   "fragment_id": "170382812",
+   "type": 11,
+   "heading": "Artigo 4.º — Secretaria Regional de Economia",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+   ],
+   "markdown": "###### Artigo 4.º — Secretaria Regional de Economia\n\n1 - À Secretaria Regional de Economia são cometidas as atribuições referentes aos setores seguintes:\n\na) Economia e empresas;\n\nb) Comércio, serviços, metrologia e indústria;\n\nc) Fomento do empreendedorismo, da competitividade e da inovação empresarial;\n\nd) Promoção e captação do investimento privado e da internacionalização empresarial;\n\ne) Inspeção das atividades económicas;\n\nf) Mecanismos de apoio e de resolução de conflitos de consumo;\n\ng) Apoio às empresas;\n\nh) Qualidade;\n\ni) Transportes e mobilidade terrestre.\n\n2 - No âmbito das atribuições referidas no número anterior, funciona sob a tutela e superintendência da Secretaria Regional de Economia o Instituto de Desenvolvimento Empresarial, IP-RAM, serviço da administração indireta da Região Autónoma da Madeira.\n\n3 - A Secretaria Regional de Economia exerce a tutela sobre as seguintes entidades:\n\na) Horários do Funchal - Transportes Públicos, S. A.;\n\nb) Madeira Parques Empresariais, Sociedade Gestora, S. A.;\n\nc) StartUp Madeira.\n\n4 - A Secretaria Regional de Economia assegura ainda os meios indispensáveis ao funcionamento do Centro de Arbitragem de Conflitos de Consumo da Região Autónoma da Madeira.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+  },
+  "922110739": {
+   "fragment_id": "170382813",
+   "type": 11,
+   "heading": "Artigo 5.º — Secretaria Regional de Educação, Ciência e Tecnologia",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+   ],
+   "markdown": "###### Artigo 5.º — Secretaria Regional de Educação, Ciência e Tecnologia\n\n1 - À Secretaria Regional de Educação, Ciência e Tecnologia são cometidas as atribuições referentes aos setores seguintes:\n\na) Educação;\n\nb) Educação especial;\n\nc) Formação profissional;\n\nd) Juventude;\n\ne) Desporto;\n\nf) Ciência, investigação e tecnologia;\n\ng) Relações com a Universidade da Madeira e demais entidades de formação superior;\n\nh) Comunicação social.\n\n2 - No âmbito das atribuições referidas no número anterior, funcionam sob a tutela e superintendência da Secretaria Regional de Educação, Ciência e Tecnologia os seguintes serviços da administração indireta da Região Autónoma da Madeira:\n\na) Instituto para a Qualificação, IP-RAM;\n\nb) Conservatório - Escola Profissional das Artes da Madeira - Eng.º Luiz Peter Clode.\n\n3 - A Secretaria Regional de Educação, Ciência e Tecnologia exerce a tutela sobre as seguintes entidades:\n\na) ARDITI - Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação;\n\nb) Polo Científico e Tecnológico da Madeira, Madeira Tecnopolo, S. A.;\n\nc) EPHTM - Escola Profissional de Hotelaria e Turismo da Madeira.\n\n4 - São ainda da responsabilidade da Secretaria Regional de Educação, Ciência e Tecnologia os encargos relativos às iniciativas das instituições de defesa e militares.\n\n5 - É criada a Direção Regional de Juventude, a qual, sem prejuízo das competências próprias que lhe possam ser cometidas através de diploma orgânico ou delegadas, tem como missão coadjuvar o Secretário Regional de Educação, Ciência e Tecnologia no exercício de funções na área da juventude.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+  },
+  "922110740": {
+   "fragment_id": "170382814",
+   "type": 11,
+   "heading": "Artigo 6.º — Secretaria Regional de Saúde e Proteção Civil",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+   ],
+   "markdown": "###### Artigo 6.º — Secretaria Regional de Saúde e Proteção Civil\n\n1 - À Secretaria Regional de Saúde e Proteção Civil são cometidas as atribuições referentes aos seguintes setores:\n\na) Saúde;\n\nb) Proteção civil e bombeiros;\n\nc) Promoção de estilos de vida saudáveis;\n\nd) Prevenção e combate às dependências.\n\n2 - No âmbito das atribuições referidas no número anterior, funcionam sob a tutela e superintendência da Secretaria Regional de Saúde e Proteção Civil os seguintes serviços da administração indireta da Região Autónoma da Madeira:\n\na) Instituto de Administração da Saúde, IP-RAM;\n\nb) Serviço Regional de Proteção Civil, IP-RAM.\n\n3 - A Secretaria Regional de Saúde e Proteção Civil exerce tutela e superintendência sobre o Serviço de Saúde da Região Autónoma da Madeira, E. P. E.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+  },
+  "922110741": {
+   "fragment_id": "170382815",
+   "type": 11,
+   "heading": "Artigo 7.º — Secretaria Regional de Turismo e Cultura",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+   ],
+   "markdown": "###### Artigo 7.º — Secretaria Regional de Turismo e Cultura\n\n1 - À Secretaria Regional de Turismo e Cultura são cometidas as atribuições referentes aos setores seguintes:\n\na) Turismo;\n\nb) Cultura;\n\nc) Aeroportos e transportes aéreos.\n\n2 - A Secretaria Regional de Turismo e Cultura exerce a tutela sobre a Associação de Promoção da Madeira.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+  },
+  "922110742": {
+   "fragment_id": "170382816",
+   "type": 11,
+   "heading": "Artigo 8.º — Secretaria Regional de Inclusão Social e Cidadania",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+   ],
+   "markdown": "###### Artigo 8.º — Secretaria Regional de Inclusão Social e Cidadania\n\n1 - À Secretaria Regional de Inclusão Social e Cidadania são cometidas as atribuições referentes aos setores seguintes:\n\na) Cidadania e responsabilidade social;\n\nb) Solidariedade e segurança social;\n\nc) Emprego;\n\nd) Habitação;\n\ne) Trabalho;\n\nf) Inspeção do trabalho;\n\ng) Concertação social;\n\nh) Relações com as instituições da economia social;\n\ni) Promoção e proteção social da família, crianças e jovens em risco, pessoas com deficiência e idosos;\n\nj) Políticas de inclusão social, igualdade de género, igualdade perante o trabalho e combate às discriminações;\n\nk) Defesa do consumidor;\n\nl) Natalidade;\n\nm) Voluntariado.\n\n2 - No âmbito das atribuições referidas no número anterior, funcionam sob a tutela e superintendência da Secretaria Regional de Inclusão Social e Cidadania os seguintes serviços da administração indireta da Região Autónoma da Madeira:\n\na) Instituto de Emprego da Madeira, IP-RAM;\n\nb) Instituto de Segurança Social da Madeira, IP-RAM.\n\n3 - A Secretaria Regional de Inclusão Social e Cidadania exerce a tutela sobre a IHM - Investimentos Habitacionais da Madeira, EPERAM.\n\n4 - A manutenção, gestão dos recursos humanos e encargos respeitantes ao funcionamento do Parque Desportivo dos Trabalhadores Dr. Sidónio Fernandes competem à Secretaria Regional de Inclusão Social e Cidadania.\n\n5 - A Secretaria Regional de Inclusão Social e Cidadania presta ainda apoio ao Conselho Económico e da Concertação Social da Região Autónoma da Madeira.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+  },
+  "922110743": {
+   "fragment_id": "170382817",
+   "type": 11,
+   "heading": "Artigo 9.º — Secretaria Regional de Ambiente, Recursos Naturais e Alterações Climáticas",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+   ],
+   "markdown": "###### Artigo 9.º — Secretaria Regional de Ambiente, Recursos Naturais e Alterações Climáticas\n\n1 - À Secretaria Regional de Ambiente, Recursos Naturais e Alterações Climáticas são cometidas as atribuições referentes aos setores seguintes:\n\na) Recursos hídricos;\n\nb) Ambiente e economia circular;\n\nc) Alterações climáticas;\n\nd) Litoral;\n\ne) Prevenção e gestão de resíduos;\n\nf) Saneamento básico;\n\ng) Ordenamento do território;\n\nh) Informação geográfica, cartográfica e cadastral;\n\ni) Urbanismo;\n\nj) Conservação da natureza, geo e biodiversidade;\n\nk) Florestas;\n\nl) Áreas protegidas;\n\nm) Paisagem.\n\n2 - No âmbito das atribuições referidas no número anterior, funciona sob a tutela e superintendência da Secretaria Regional de Ambiente, Recursos Naturais e Alterações Climáticas o Instituto das Florestas e Conservação da Natureza, IP-RAM, serviço da administração indireta da Região Autónoma da Madeira.\n\n3 - A Secretaria Regional de Ambiente, Recursos Naturais e Alterações Climáticas exerce a tutela sobre a ARM - Águas e Resíduos da Madeira, S. A.\n\n4 - A orientação da participação pública na AREAM - Agência Regional da Energia e Ambiente da Região Autónoma da Madeira é da competência da Secretaria Regional de Ambiente, Recursos Naturais e Alterações Climáticas.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+  },
+  "922110744": {
+   "fragment_id": "170382818",
+   "type": 11,
+   "heading": "Artigo 10.º — Secretaria Regional de Mar e Pescas",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+   ],
+   "markdown": "###### Artigo 10.º — Secretaria Regional de Mar e Pescas\n\nÀ Secretaria Regional de Mar e Pescas são cometidas as atribuições referentes aos setores seguintes:\n\na) Pescas;\n\nb) Aquicultura;\n\nc) Valorização e sustentabilidade dos recursos marinhos;\n\nd) Exploração e investigação do mar;\n\ne) Licenciamento de usos do mar e seus fundos;\n\nf) Recifes artificiais;\n\ng) Coordenação da Política Regional do Mar;\n\nh) Gestão dos Fundos Comunitários de Mar e Pescas;\n\ni) Coordenação com a Autoridade Marítima Nacional e demais entidades que compõem o Sistema da Autoridade Marítima.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+  },
+  "922110745": {
+   "fragment_id": "170382819",
+   "type": 11,
+   "heading": "Artigo 11.º — Secretaria Regional de Agricultura e Desenvolvimento Rural",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+   ],
+   "markdown": "###### Artigo 11.º — Secretaria Regional de Agricultura e Desenvolvimento Rural\n\n1 - À Secretaria Regional de Agricultura e Desenvolvimento Rural são cometidas as atribuições referentes aos setores seguintes:\n\na) Agricultura;\n\nb) Pecuária;\n\nc) Veterinária;\n\nd) Viticultura;\n\ne) Desenvolvimento rural;\n\nf) Desenvolvimento local;\n\ng) Assistência técnica ao agricultor;\n\nh) Artesanato;\n\ni) Bordado Madeira;\n\nj) Valorização e promoção das produções agropecuárias regionais;\n\nk) Formação nas áreas da agricultura, pecuária e do agroalimentar;\n\nl) Gestão dos fundos comunitários agropecuários.\n\n2 - No âmbito das atribuições referidas no número anterior, funciona sob a tutela e superintendência da Secretaria de Agricultura e Desenvolvimento Rural o IVBAM - Instituto do Vinho, do Bordado e do Artesanato da Madeira, IP-RAM, serviço da administração indireta da Região Autónoma da Madeira.\n\n3 - A Secretaria Regional de Agricultura e Desenvolvimento Rural exerce a tutela sobre as seguintes entidades:\n\na) CARAM - Centro de Abate da Região Autónoma da Madeira, E. P. E.;\n\nb) GESBA - Empresa de Gestão do Setor da Banana, Lda.\n\n4 - As competências e definição das orientações na ILMA - Indústria de Lacticínios da Madeira, Lda., empresa participada integrada no setor empresarial da Região Autónoma da Madeira, são cometidas à Secretaria Regional de Agricultura e Desenvolvimento Rural.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+  },
+  "922110746": {
+   "fragment_id": "170382820",
+   "type": 11,
+   "heading": "Artigo 12.º — Secretaria Regional de Equipamentos e Infraestruturas",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28",
+    "Retificado pelo/a [Declaração de Retificação n.º 59/2019 - Diário da República n.º 234/2019, Série I de 2019-12-05](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/59-2019-126904849), produz efeitos a partir de 2019-11-20"
+   ],
+   "markdown": "###### Artigo 12.º — Secretaria Regional de Equipamentos e Infraestruturas\n\n1 - À Secretaria Regional de Equipamentos e Infraestruturas são cometidas as atribuições referentes aos seguintes setores:\n\na) Edifícios, infraestruturas e equipamentos públicos;\n\nb) Estradas regionais;\n\nc) Obras públicas;\n\nd) Hidráulica fluvial;\n\ne) Barragens;\n\nf) Investigação e monitorização de obras.\n\n2 - A Secretaria Regional de Equipamentos e Infraestruturas exerce a tutela sobre as seguintes entidades:\n\na) PATRIRAM - Titularidade e Gestão do Património Público Regional, S. A.;\n\nb) Sociedade de Desenvolvimento do Norte da Madeira, S. A.;\n\nc) Sociedade de Desenvolvimento do Porto Santo, S. A.;\n\nd) Sociedade Metropolitana de Desenvolvimento, S. A.;\n\ne) Ponta do Oeste - Sociedade de Promoção e Desenvolvimento da Zona Oeste da Madeira, S. A.\n\n3 - As competências e definição das orientações na Concessionária de Estradas - VIAEXPRESSO da Madeira, S. A., e na VIALITORAL - Concessões Rodoviárias da Madeira, S. A., empresas participadas integradas no setor empresarial da Região Autónoma da Madeira, são cometidas à Secretaria Regional de Equipamentos e Infraestruturas.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28\n\n> Retificado pelo/a [Declaração de Retificação n.º 59/2019 - Diário da República n.º 234/2019, Série I de 2019-12-05](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/59-2019-126904849), produz efeitos a partir de 2019-11-20"
+  },
+  "922110747": {
+   "fragment_id": "170382821",
+   "type": 1,
+   "heading": "Capítulo III — Gabinetes dos membros do Governo Regional",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+   ],
+   "markdown": "### Capítulo III — Gabinetes dos membros do Governo Regional\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+  },
+  "922110748": {
+   "fragment_id": "170382822",
+   "type": 11,
+   "heading": "Artigo 13.º — Composição dos Gabinetes",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+   ],
+   "markdown": "###### Artigo 13.º — Composição dos Gabinetes\n\n1 - Até a entrada em vigor do diploma regional que proceder à aprovação do regime, composição e orgânica dos Gabinetes dos membros do Governo, é aplicável, com as necessárias adaptações, o regime previsto no Decreto-Lei n.º 11/2012, de 20 de janeiro, com exceção do regime aplicável aos motoristas e sem prejuízo do disposto no número seguinte.\n\n2 - O Gabinete do Presidente do Governo Regional é composto por um máximo de cinco adjuntos, quatro secretários pessoais e três motoristas, o Gabinete do Vice-Presidente do Governo Regional e dos Assuntos Parlamentares é composto por um máximo de cinco adjuntos, três secretários pessoais e dois motoristas e os Gabinetes dos Secretários Regionais são compostos por um máximo de três adjuntos, dois secretários pessoais e dois motoristas.\n\n3 - Sem prejuízo do direito de opção pelo vencimento de origem, o motorista não detentor de relação jurídica de emprego público será abonado pelo nível 4 da tabela remuneratória única, aprovada pela Portaria n.º 1553-C/2008, de 31 de dezembro, acrescido dos suplementos referidos no n.º 3 do artigo 51.º do Decreto Legislativo Regional n.º 26/2018/M, de 31 de dezembro.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+  },
+  "922110749": {
+   "fragment_id": "170382823",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+   ],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+  },
+  "922110750": {
+   "fragment_id": "170382824",
+   "type": 11,
+   "heading": "Artigo 14.º — Alterações e reestruturações orgânicas",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+   ],
+   "markdown": "###### Artigo 14.º — Alterações e reestruturações orgânicas\n\n1 - Nos termos da alínea c) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, a Presidência, a Vice-Presidência do Governo Regional e dos Assuntos Parlamentares e as Secretarias Regionais procedem às reestruturações orgânicas decorrentes do presente diploma.\n\n2 - No prazo de 60 dias a contar da data de entrada em vigor do presente diploma, devem ser submetidas ao Conselho do Governo Regional as propostas de decreto regulamentar regional que consagrem para os departamentos governamentais referidos no número anterior, organismos ou serviços, as alterações que, decorrentes deste diploma, se revelem necessárias.\n\n3 - A estrutura interna dos departamentos regionais deve contemplar um serviço que assegure o desenvolvimento das atribuições cometidas às unidades de gestão, previstas no artigo 59.º do Decreto Legislativo Regional n.º 26/2018/M, de 31 de dezembro.\n\n4 - Os diplomas orgânicos dos departamentos regionais e dos respetivos serviços estão sujeitos a parecer prévio favorável do Vice-Presidente do Governo Regional e dos Assuntos Parlamentares.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+  },
+  "922110751": {
+   "fragment_id": "170382825",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma remissiva",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+   ],
+   "markdown": "###### Artigo 15.º — Norma remissiva\n\n1 - As referências legais às secretarias regionais extintas ou reformuladas consideram-se, para todos os efeitos, reportadas aos departamentos regionais que, pelo presente diploma, integram as atribuições nas respetivas áreas e tutelam esses setores.\n\n2 - As atribuições e competências relativas aos setores que, mediante o presente diploma, transitam para a Presidência do Governo Regional, Vice-Presidência do Governo Regional e dos Assuntos Parlamentares ou para as Secretarias Regionais consideram-se-lhes automaticamente cometidas até nova alteração.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+  },
+  "922110752": {
+   "fragment_id": "170382826",
+   "type": 11,
+   "heading": "Artigo 16.º — Criação, transferência de serviços, competências e tutelas",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+   ],
+   "markdown": "###### Artigo 16.º — Criação, transferência de serviços, competências e tutelas\n\n1 - Todos os serviços cujo enquadramento departamental é alterado são transferidos ou integrados nos departamentos do Governo Regional com atribuições no respetivo setor, mantendo a mesma natureza jurídica, modificando-se apenas, conforme os casos, o superior hierárquico ou o órgão de tutela, sem prejuízo do que as respetivas leis orgânicas vierem a dispor nesta matéria.\n\n2 - As competências, os direitos e as obrigações de que eram titulares os departamentos regionais extintos ou alterados são automaticamente transferidos para os correspondentes departamentos, organismos ou serviços que os substituem, sem dependência de quaisquer formalidades.\n\n3 - Até à constituição formal de novas unidades de gestão, as atribuições constantes dos n.os 2 e 3 do artigo 59.º do Decreto Legislativo Regional n.º 26/2018/M, de 31 de dezembro, continuam a ser asseguradas pelas unidades que, até à data, desempenham essas funções.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+  },
+  "922110753": {
+   "fragment_id": "170382827",
+   "type": 11,
+   "heading": "Artigo 17.º — Transferência e afetação de pessoal",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+   ],
+   "markdown": "###### Artigo 17.º — Transferência e afetação de pessoal\n\n1 - As alterações na organização e funcionamento do Governo Regional são acompanhadas pela correspondente transferência do pessoal, sem dependência de quaisquer formalidades e sem prejuízo dos respetivos direitos e deveres consagrados na lei.\n\n2 - Os novos departamentos governamentais regionais, bem como os departamentos objeto de alteração, devem formular ou atualizar as respetivas listas nominativas no âmbito do Sistema Centralizado de Gestão de Recursos Humanos.\n\n3 - Até a aprovação das orgânicas dos departamentos referidos no número anterior e elaboração das listas nominativas mencionadas naquele normativo, a reafetação de pessoal dos serviços dependentes dos gabinetes das extintas secretarias regionais é efetuada através de despacho conjunto do Vice-Presidente do Governo Regional e dos Assuntos Parlamentares e do membro do Governo competente.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+  },
+  "922110754": {
+   "fragment_id": "170382828",
+   "type": 11,
+   "heading": "Artigo 18.º — Encargos orçamentais",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+   ],
+   "markdown": "###### Artigo 18.º — Encargos orçamentais\n\n1 - Até à aprovação do Orçamento da Região Autónoma da Madeira para 2020 mantém-se a expressão orçamental da organização e funcionamento do Governo Regional, aprovada pelo Decreto Legislativo Regional n.º 26/2018/M, de 31 de dezembro.\n\n2 - Os encargos com os novos Gabinetes dos membros do Governo Regional são suportados transitoriamente pelos orçamentos vigentes dos gabinetes extintos e ou reestruturados, de acordo com as competências atribuídas às novas unidades orgânicas.\n\n3 - Os encargos relativos aos serviços ou organismos que transitam, no todo ou em parte, para departamentos diferentes continuam a ser processados por conta das dotações orçamentais que lhes estão afetas no orçamento em vigor.\n\n4 - Os projetos integrados no PIDDAR mantêm a expressão orçamental decorrente do Orçamento da Região Autónoma da Madeira para 2019, sendo os encargos processados pelos serviços ou organismos que tutelam os respetivos setores.\n\n5 - Todos os atos do Governo Regional relacionados com a aplicação do presente diploma que envolvam aumento de despesas ou diminuição de receitas são aprovados pelo Vice-Presidente do Governo Regional e dos Assuntos Parlamentares.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+  },
+  "922110755": {
+   "fragment_id": "170382829",
+   "type": 11,
+   "heading": "Artigo 19.º — Precedências",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+   ],
+   "markdown": "###### Artigo 19.º — Precedências\n\nA ordem de precedências dos membros do Governo Regional da Madeira, bem como para efeitos de eventual substituição do seu Presidente, é a que consta do artigo 1.º deste diploma.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+  },
+  "922110756": {
+   "fragment_id": "170382830",
+   "type": 11,
+   "heading": "Artigo 20.º — Norma revogatória",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+   ],
+   "markdown": "###### Artigo 20.º — Norma revogatória\n\nÉ revogado o Decreto Regulamentar Regional n.º 13/2017/M, de 7 de novembro.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+  },
+  "922110757": {
+   "fragment_id": "170382831",
+   "type": 11,
+   "heading": "Artigo 21.º — Produção de efeitos",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+   ],
+   "markdown": "###### Artigo 21.º — Produção de efeitos\n\nO presente diploma produz efeitos reportados a 15 de outubro de 2019, data da nomeação dos novos membros do Governo, considerando-se ratificados ou confirmados todos os atos que tenham sido praticados desde aquela data e cuja regularidade dependa da conformidade com o disposto no presente diploma.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+  },
+  "922110758": {
+   "fragment_id": "170382832",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+   ],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+  },
+  "922110759": {
+   "fragment_id": "170382833",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+   ],
+   "markdown": "Aprovado em Conselho do Governo Regional em 4 de novembro de 2019.\n\nO Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.\n\nAssinado em 18 de novembro de 2019.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.\n\n112773396\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-170322931), em vigor a partir de 2021-08-28"
+  }
+ }
+}

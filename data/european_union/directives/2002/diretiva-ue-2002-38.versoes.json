@@ -1,0 +1,267 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002L0038:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0038-20070101",
+ "dre_path": null,
+ "source_lastmod": "2007-01-01",
+ "versions": [
+  {
+   "date": "2002-05-15",
+   "future": false,
+   "celex": "32002L0038",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "01b3fca81ea8a2af",
+    "e419f61be26961b0",
+    "56bac59fe9d99b57",
+    "6b4d70f13cea322b",
+    "13630705395d9150",
+    "636e09867e1da76b",
+    "c716e67995271bf0",
+    "8d91eee38f4aec3f",
+    "11068f2175b8b3d2",
+    "8539d528be2af832"
+   ]
+  },
+  {
+   "date": "2006-06-28",
+   "future": false,
+   "celex": "02002L0038-20060628",
+   "acts": [
+    {
+     "id": "eu:celex:32006L0058:por",
+     "title": "DIRECTIVA 2006/58/CE DO CONSELHO de 27 de Junho de 2006",
+     "published": null,
+     "celex": "32006L0058"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera ANEXO",
+    "Adita A. Definições",
+    "Adita B. Regime especial para os serviços prestados por via electrónica",
+    "Adita Notas",
+    "Suprime ANEXO L — LISTA EXEMPLIFICATIVA DOS SERVIÇOS PRESTADOS POR VIA ELECTRÓNICA, A QUE SE REFERE A ALÍNEA E) DO N.O 2 DO ARTIGO 9.O"
+   ],
+   "fragments": [
+    "7cec733fb5b17668",
+    "4c446ac84112a24e",
+    "f4e7031c102ece02",
+    "38a8ca7271f92f39",
+    "e42493cad64e7e6f",
+    "6b4d70f13cea322b",
+    "2989c62ad59d8c53",
+    "3a1be08650635de0",
+    "c5d1f4707823fa1b",
+    "aefd2b4e47e34877",
+    "331b22f8e5a06e30",
+    "be5774ac57aea878"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "02002L0038-20070101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime A. Definições",
+    "Suprime B. Regime especial para os serviços prestados por via electrónica",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime ANEXO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "b9144d487acf7a0d"
+   ]
+  }
+ ],
+ "fragments": {
+  "01b3fca81ea8a2af": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2002/38/CE do Conselho, de 7 de Maio de 2002, que altera, a título tanto definitivo como temporário, a Directiva 77/388/CEE no que se refere ao regime do imposto sobre o valor acrescentado aplicável aos serviços de radiodifusão e televisão e a determinados serviços prestados por via electrónica** *Jornal Oficial nº L 128 de 15/05/2002 p. 0041 - 0044*\n\nDirectiva 2002/38/CE do Conselho\n\nde 7 de Maio de 2002\n\nque altera, a título tanto definitivo como temporário, a Directiva 77/388/CEE no que se refere ao regime do imposto sobre o valor acrescentado aplicável aos serviços de radiodifusão e televisão e a determinados serviços prestados por via electrónica\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 93.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Parlamento Europeu(2),\n\nTendo em conta o parecer do Comité Económico e Social(3),\n\nConsiderando o seguinte:\n\n(1) As normas actuais do imposto sobre o valor acrescentado (IVA) aplicáveis aos serviços de radiodifusão e televisão e aos serviços prestados por via electrónica nos termos do artigo 9.o da sexta Directiva 77/388/CEE do Conselho, de 17 de Maio de 1977, relativa à harmonização das legislações dos Estados-Membros respeitantes aos impostos sobre o volume de negócios - sistema comum do imposto sobre o valor acrescentado: matéria colectável uniforme(4), são inadequadas para a tributação de tais serviços quando consumidos na Comunidade, bem como para a prevenção de distorções da concorrência neste domínio.\n\n(2) A fim de garantir o bom funcionamento do mercado interno, convém eliminar tais distorções e introduzir novas regras harmonizadas para este tipo de actividade. Em especial, devem adoptar-se medidas destinadas a assegurar a tributação na Comunidade dos serviços em questão quando prestados a título oneroso e consumidos por clientes estabelecidos na Comunidade, bem como a sua não tributação no caso de serem consumidos fora da Comunidade.\n\n(3) Para tal, os serviços de radiodifusão e televisão e os serviços prestados por via electrónica a partir de países terceiros a pessoas estabelecidas na Comunidade ou a partir da Comunidade a destinatários estabelecidos em países terceiros devem ser tributados no lugar do destinatário de tais serviços.\n\n(4) A fim de definir os serviços prestados por via electrónica, deverão ser incluídos exemplos de tais serviços num anexo da directiva.\n\n(5) Para facilitar o cumprimento das obrigações fiscais pelos operadores que prestam serviços electrónicos, que não se encontram estabelecidos nem são obrigados a identificarem-se para efeitos fiscais na Comunidade, deverá ser criado um regime especial. Ao aplicar este regime, qualquer operador que preste tais serviços por via electrónica a não sujeitos passivos na Comunidade pode, se não se encontrar já identificado para efeitos fiscais na Comunidade, optar pela identificação num único Estado-Membro.\n\n(6) O operador não estabelecido que pretenda beneficiar do regime especial deverá cumprir os requisitos nele previstos e as disposições pertinentes em vigor no Estado-Membro onde os serviços são prestados.\n\n(7) O Estado-Membro de identificação deverá, sob certas condições, estar apto a excluir um operador não estabelecido do regime especial.\n\n(8) Se o operador não estabelecido optar pelo regime especial, o IVA a montante que tenha pago relativo a bens e serviços por ele utilizados para efeitos das suas actividades tributadas ao abrigo do regime especial deverá ser reembolsado pelo Estado-Membro em que o IVA a montante foi pago, em conformidade com o disposto na décima terceira Directiva 86/560/CEE do Conselho, de 17 de Novembro de 1986, relativa à harmonização das legislações dos Estados-Membros respeitantes aos impostos sobre o volume de negócios-modalidades de reembolso do imposto sobre o valor acrescentado aos sujeitos passivos não estabelecidos no território da Comunidade(5). As restrições opcionais de reembolso previstas nos n.os 2 ou 3 do artigo 2.o, ou no n.o 2 do artigo 4.o da referida directiva não deverão ser aplicadas.\n\n(9) Os Estados-Membros deverão autorizar e poderão mesmo obrigar, segundo modalidades por eles determinadas, a transmissão de certas declarações fiscais por via electrónica.\n\n(10) As disposições relativas à introdução de declarações fiscais por via electrónica devem ser aprovadas com carácter permanente. Todas as outras disposições deverão ser aplicadas temporariamente durante três anos, período prorrogável por razões de ordem prática, devendo porém ser impreterivelmente reexaminadas, com base na experiência adquirida, no prazo de três anos a contar de 1 de Julho de 2003.\n\n(11) A Directiva 77/388/CEE deve, por conseguinte, ser alterada em conformidade,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "e419f61be26961b0": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Directiva 77/388/CEE é alterada, a título temporário, do seguinte modo:\n\n1. No artigo 9.o:\n\na) Na alínea e) do n.o 2, o último ponto final é substituído por vírgula e são acrescentados os seguintes travessões: \"- serviços de radiodifusão e televisão,\n\n- serviços prestados por via electrónica, nomeadamente os descritos no anexo L.\";\n\nb) No n.o 2, é aditada a seguinte alínea: \"f) Por lugar das prestações de serviços referidas no último travessão da alínea e), caso esses serviços sejam prestados a não sujeitos passivos que estejam estabelecidos, tenham o seu domicílio ou a sua residência habitual num Estado-Membro, por um sujeito passivo que tenha a sede da sua actividade económica ou um estabelecimento estável a partir do qual o serviço é prestado fora da Comunidade ou, na falta de sede ou de estabelecimento estável, tenha o seu domicílio ou a sua residência habitual fora da Comunidade, entende-se o lugar onde o não sujeito passivo esteja estabelecido, tenha o seu domicílio ou a sua residência habitual.\";\n\nc) No n.o 3, o proémio passa a ter a seguinte redacção: \"3. A fim de evitar casos de dupla tributação, de não tributação ou de distorções de concorrência, os Estados-Membros podem considerar, no que diz respeito às prestações de serviços referidas na alínea e) do n.o 2, com excepção dos serviços referidos no último travessão quando prestados a não sujeitos passivos, e também no que respeita à locação de meios de transporte:\";\n\nd) O n.o 4 passa a ter a seguinte redacção: \"4. Os Estados-Membros devem aplicar a alínea b) do n.o 3 aos serviços de telecomunicações, de radiodifusão e de televisão referidos na alínea e) do n.o 2, caso o serviço seja prestado a não sujeitos passivos que estejam estabelecidos, tenham o seu domicílio ou a sua residência habitual num Estado-Membro, por um sujeito passivo que tenha a sede da sua actividade económica ou um estabelecimento estável a partir do qual o serviço é prestado fora da Comunidade ou, na falta de sede ou de estabelecimento estável, tenha o seu domicílio ou a sua residência habitual fora da Comunidade.\".\n\n2. À alínea a) do n.o 3 do artigo 12.o, é aditado o seguinte parágrafo: \"O terceiro parágrafo não se aplica aos serviços referidos no artigo 9.o, n.o 2, alínea e), último travessão.\".\n\n3. É aditado o seguinte artigo: \"Artigo 26.oC\n\nRegime especial para sujeitos passivos não estabelecidos que prestam serviços electrónicos a não sujeitos passivos\n\nA. Definições\n\nPara efeitos do presente artigo, e sem prejuízo de outras disposições comunitárias, entende-se por:\n\na) 'Sujeito passivo não estabelecido', um sujeito passivo que não tenha a sede da sua actividade económica nem um estabelecimento estável no território da Comunidade e que não tenha de estar de outra forma identificado para efeitos fiscais nos termos do artigo 22.o;\n\nb) 'Serviços electrónicos' e serviços prestados por via electrónica, os serviços referidos no artigo 9.o, n.o 2, alínea e), último travessão;\n\nc) 'Estado-Membro de identificação', o Estado-Membro que o sujeito passivo não estabelecido decide contactar para declarar o início da sua actividade como sujeito passivo dentro do território da Comunidade, em conformidade com o disposto no presente artigo;\n\nd) 'Estado-Membro de consumo', o Estado-Membro em que se considera ser efectuada a prestação dos serviços electrónicos, de acordo com a alínea f) do n.o 2 do artigo 9.o;\n\ne) 'Declaração de imposto sobre o valor acrescentado', a declaração que contém as informações necessárias para determinar o montante do imposto devido em cada Estado-Membro.\n\nB. Regime especial para os serviços prestados por via electrónica\n\n1. Os Estados-Membros devem autorizar os sujeitos passivos não estabelecidos que prestem serviços electrónicos a não sujeitos passivos estabelecidos num Estado-Membro ou que aí tenham o seu domicílio ou a sua residência habitual, a optar por um regime especial em conformidade com as disposições que se seguem. O regime especial é aplicável a todas essas prestações dentro da Comunidade.\n\n2. O sujeito passivo não estabelecido deve declarar ao Estado-Membro de identificação o início, a cessação ou a alteração da sua actividade como sujeito passivo na medida em que deixe de ter direito ao regime especial. Essa declaração deve ser feita por via electrónica.\n\nAs informações fornecidas pelo sujeito passivo não estabelecido ao Estado-Membro de identificação quando se iniciam as suas actividades tributáveis devem incluir os seguintes elementos de identificação: nome, endereço postal, endereços electrónicos, incluindo os sítios web, número de contribuinte nacional, se o tiver, e uma declaração de que o sujeito não está identificado para efeitos de IVA na Comunidade. O sujeito passivo não estabelecido deve notificar o Estado-Membro de identificação de quaisquer alterações das informações apresentadas.\n\n3. O Estado-Membro de identificação deve atribuir ao sujeito passivo não estabelecido um número individual de identificação. Com base nas informações utilizadas para a referida identificação, os Estados-Membros de consumo podem manter os seus próprios sistemas de identificação.\n\nO Estado-Membro de identificação deve notificar por via electrónica o sujeito passivo não estabelecido do número de identificação que lhe foi atribuído.\n\n4. O Estado-Membro de identificação deve excluir o sujeito passivo não estabelecido do registo de identificação se:\n\na) Este notificar que deixou de prestar serviços electrónicos;\n\nb) Puder depreender, de outra forma, que as suas actividades tributáveis cessaram;\n\nc) Tiver deixado de preencher os requisitos necessários para poder optar pelo regime especial; ou\n\nd) De modo continuado, não cumprir as regras relativas ao regime especial.\n\n5. O sujeito passivo não estabelecido deve apresentar ao Estado-Membro de identificação, por via electrónica, uma declaração de imposto sobre o valor acrescentado relativa a cada trimestre civil, quer tenha sido prestado ou não um serviço electrónico. A declaração deve ser apresentada no prazo de 20 dias após o final do período abrangido pela declaração.\n\nA declaração de imposto sobre o valor acrescentado deve mencionar o número de identificação e, para cada Estado-Membro de consumo em que é devido o imposto, o valor total, com exclusão do IVA, das prestações de serviços electrónicos para o período abrangido pela declaração e o montante total do imposto correspondente. Devem ser igualmente indicadas as taxas aplicáveis e o montante total do imposto.\n\n6. A declaração de imposto sobre o valor acrescentado deve ser efectuada em euros. Os Estados-Membros que não tiverem adoptado o euro podem exigir que a declaração de imposto seja feita nas respectivas moedas nacionais. Se as prestações tiverem sido efectuadas noutras divisas, ao preencher a declaração, deve ser aplicada a taxa de câmbio válida para a última data do período abrangido pela declaração. O câmbio deve ser efectuado de acordo com as taxas de câmbio desse dia publicadas pelo Banco Central Europeu ou, caso não haja publicação nesse dia, do dia de publicação seguinte.\n\n7. O sujeito passivo não estabelecido deve pagar o IVA no momento da apresentação da declaração. O pagamento deve ser efectuado mediante depósito numa conta bancária denominada em euros, indicada pelo Estado-Membro de identificação. Os Estados-Membros que não tiverem adoptado o euro podem exigir que o pagamento seja feito para uma conta bancária denominada na moeda respectiva.\n\n8. Sem prejuízo do n.o 1 do artigo 1.o da Directiva 86/560/CEE, o sujeito passivo não estabelecido que opte por este regime especial, em vez de efectuar deduções ao abrigo do n.o 2 do artigo 17.o da presente directiva, recebe um reembolso de acordo com a Directiva 86/560/CEE. Os n.os 2 e 3 do artigo 2.o e o n.o 2 do artigo 4.o da Directiva 86/560/CEE não são aplicáveis ao reembolso relacionado com os serviços electrónicos abrangidos por este regime especial.\n\n9. O sujeito passivo não estabelecido deve conservar os registos das operações abrangidas por este regime especial com o nível de detalhe suficiente para permitir à administração fiscal do Estado-Membro de consumo determinar que a declaração de imposto sobre o valor acrescentado referida no n.o 5 está correcta. Estes registos devem ser disponibilizados electronicamente, a pedido, ao Estado-Membro de identificação e ao Estado-Membro de consumo. Estes registos devem ser mantidos por um período de 10 anos após o final do ano em que a operação foi efectuada.\n\n10. A alínea b) do n.o 2 do artigo 21.o não é aplicável a um sujeito passivo não estabelecido que tenha optado por este regime especial.\"."
+  },
+  "56bac59fe9d99b57": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO artigo 22.o, que consta do artigo 28.oH da Directiva 77/388/CEE, é alterado da seguinte forma:\n\n1. No n.o 1, a alínea a) passa a ter a seguinte redacção: \"a) Os sujeitos passivos devem declarar o início, a alteração e a cessação da sua actividade na qualidade de sujeitos passivos. Os Estados-Membros autorizam e podem mesmo obrigar, segundo modalidades por eles determinadas, o sujeito passivo a efectuar essas declarações por via electrónica.\".\n\n2. No n.o 4, a alínea a) passa a ter a seguinte redacção: \"a) Os sujeitos passivos devem entregar uma declaração num prazo a fixar pelos Estados-Membros. Esse prazo não pode exceder em mais de dois meses o termo de cada período fiscal. Este período é fixado pelos Estados-Membros em um, dois ou três meses. No entanto, os Estados-Membros podem fixar períodos diferentes, desde que não excedam um ano. Os Estados-Membros devem autorizar, segundo modalidades por eles determinadas, o sujeito passivo a efectuar essas declarações por via electrónica e podem também exigir que sejam utilizados meios electrónicos.\".\n\n3. No n.o 6, a alínea a) passa a ter a seguinte redacção: \"a) Os Estados-Membros podem exigir a apresentação pelo sujeito passivo de uma declaração na qual constem todos os dados referidos no n.o 4, relativamente à totalidade das operações efectuadas no ano anterior. Esta declaração deve incluir todos os elementos necessários para efeitos de regularizações eventuais. Os Estados-Membros devem autorizar, segundo modalidades por eles determinadas, o sujeito passivo a efectuar essas declarações por via electrónica e podem também exigir que sejam utilizados meios electrónicos.\".\n\n4. Na alínea b) do n.o 6, o segundo parágrafo passa a ter a seguinte redacção: \"A declaração recapitulativa deve ser elaborada para cada trimestre civil dentro de um prazo e de acordo com normas a determinar pelos Estados-Membros, que devem tomar as medidas necessárias para assegurar que as disposições relativas à cooperação administrativa no domínio da tributação indirecta são cumpridas em todos os casos. Os Estados-Membros devem autorizar, segundo modalidades por eles determinadas, o sujeito passivo a fazer essas declarações por via electrónica e podem também exigir que sejam utilizados meios electrónicos.\"."
+  },
+  "6b4d70f13cea322b": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva em 1 de Julho de 2003 e informar imediatamente a Comissão desse facto.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "13630705395d9150": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO artigo 1.o é aplicável durante um período de três anos a contar de 1 de Julho de 2003."
+  },
+  "636e09867e1da76b": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO Conselho, com base num relatório da Comissão, deve reexaminar as disposições do artigo 1.o da presente directiva antes de 30 de Junho de 2006 e aprovar, deliberando nos termos do artigo 93.o do Tratado, disposições relativas a um mecanismo electrónico apropriado, não discriminatório, para aplicar, declarar, cobrar e repartir as receitas fiscais ligadas aos serviços prestados por via electrónica tributados no lugar de consumo, ou prorrogar, se tal se afigurar necessário por razões de ordem prática, deliberando por unanimidade com base numa proposta da Comissão, o período a que se refere o artigo 4.o"
+  },
+  "c716e67995271bf0": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA presente directiva entra em vigor no dia da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "8d91eee38f4aec3f": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 7 de Maio de 2002.\n\nPelo Conselho\n\nO Presidente\n\nR. De Rato Y Figaredo\n\n(1) JO C 337 E de 28.11.2000, p. 65.\n\n(2) JO C 232 de 17.8.2001, p. 202.\n\n(3) JO C 116 de 20.4.2001, p. 59.\n\n(4) JO L 145 de 13.6.1977, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2001/115/CE (JO L 15 de 17.1.2002, p. 24).\n\n(5) JO L 326 de 21.11.1986, p. 40."
+  },
+  "11068f2175b8b3d2": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n\"\"."
+  },
+  "8539d528be2af832": {
+   "fragment_id": "ANEXO L — LISTA EXEMPLIFICATIVA DOS SERVIÇOS PRESTADOS POR VIA ELECTRÓNICA, A QUE SE REFERE A ALÍNEA E) DO N.O 2 DO ARTIGO 9.O",
+   "type": "divisao",
+   "heading": "ANEXO L — LISTA EXEMPLIFICATIVA DOS SERVIÇOS PRESTADOS POR VIA ELECTRÓNICA, A QUE SE REFERE A ALÍNEA E) DO N.O 2 DO ARTIGO 9.O",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO L — LISTA EXEMPLIFICATIVA DOS SERVIÇOS PRESTADOS POR VIA ELECTRÓNICA, A QUE SE REFERE A ALÍNEA E) DO N.O 2 DO ARTIGO 9.O\n\n1. Fornecimento de sítios informáticos, domiciliação de páginas web, manutenção à distância de programas e equipamentos.\n\n2. Fornecimento de programas e respectiva actualização.\n\n3. Fornecimento de imagens, textos e informações, e disponibilização de bases de dados.\n\n4. Fornecimento de música, filmes e jogos, incluindo jogos de azar e a dinheiro, e de emissões ou manifestações políticas, culturais, artísticas, desportivas, científicas ou de lazer.\n\n5. Prestação de serviços de ensino à distância.\n\nQuando um prestador de serviços e o seu cliente comunicam por correio electrónico, esse facto não significa só por si que o serviço prestado é um serviço electrónico na acepção do artigo 9.o, n.o 2, alínea e), último travessão."
+  },
+  "7cec733fb5b17668": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Maio de 2002\n\nque altera, a título tanto definitivo como temporário, a Directiva 77/388/CEE no que se refere ao regime do imposto sobre o valor acrescentado aplicável aos serviços de radiodifusão e televisão e a determinados serviços prestados por via electrónica\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 93.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/fbdfd7a4-3ad0-4a3a-8613-e56e8a38f1ca.0016.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/fbdfd7a4-3ad0-4a3a-8613-e56e8a38f1ca.0016.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/fbdfd7a4-3ad0-4a3a-8613-e56e8a38f1ca.0016.03/DOC_1#E0003)),\n\n(1) As normas actuais do imposto sobre o valor acrescentado (IVA) aplicáveis aos serviços de radiodifusão e televisão e aos serviços prestados por via electrónica nos termos do artigo 9.º da sexta Directiva 77/388/CEE do Conselho, de 17 de Maio de 1977, relativa à harmonização das legislações dos Estados-Membros respeitantes aos impostos sobre o volume de negócios — sistema comum do imposto sobre o valor acrescentado: matéria colectável uniforme ([^4^](http://publications.europa.eu/resource/cellar/fbdfd7a4-3ad0-4a3a-8613-e56e8a38f1ca.0016.03/DOC_1#E0004)), são inadequadas para a tributação de tais serviços quando consumidos na Comunidade, bem como para a prevenção de distorções da concorrência neste domínio.\n\n(2) A fim de garantir o bom funcionamento do mercado interno, convém eliminar tais distorções e introduzir novas regras harmonizadas para este tipo de actividade. Em especial, devem adoptar-se medidas destinadas a assegurar a tributação na Comunidade dos serviços em questão quando prestados a título oneroso e consumidos por clientes estabelecidos na Comunidade, bem como a sua não tributação no caso de serem consumidos fora da Comunidade.\n\n(3) Para tal, os serviços de radiodifusão e televisão e os serviços prestados por via electrónica a partir de países terceiros a pessoas estabelecidas na Comunidade ou a partir da Comunidade a destinatários estabelecidos em países terceiros devem ser tributados no lugar do destinatário de tais serviços.\n\n(4) A fim de definir os serviços prestados por via electrónica, deverão ser incluídos exemplos de tais serviços num anexo da directiva.\n\n(5) Para facilitar o cumprimento das obrigações fiscais pelos operadores que prestam serviços electrónicos, que não se encontram estabelecidos nem são obrigados a identificarem-se para efeitos fiscais na Comunidade, deverá ser criado um regime especial. Ao aplicar este regime, qualquer operador que preste tais serviços por via electrónica a não sujeitos passivos na Comunidade pode, se não se encontrar já identificado para efeitos fiscais na Comunidade, optar pela identificação num único Estado-Membro.\n\n(6) O operador não estabelecido que pretenda beneficiar do regime especial deverá cumprir os requisitos nele previstos e as disposições pertinentes em vigor no Estado-Membro onde os serviços são prestados.\n\n(7) O Estado-Membro de identificação deverá, sob certas condições, estar apto a excluir um operador não estabelecido do regime especial.\n\n(8) Se o operador não estabelecido optar pelo regime especial, o IVA a montante que tenha pago relativo a bens e serviços por ele utilizados para efeitos das suas actividades tributadas ao abrigo do regime especial deverá ser reembolsado pelo Estado-Membro em que o IVA a montante foi pago, em conformidade com o disposto na décima terceira Directiva 86/560/CEE do Conselho, de 17 de Novembro de 1986, relativa à harmonização das legislações dos Estados-Membros respeitantes aos impostos sobre o volume de negócios-modalidades de reembolso do imposto sobre o valor acrescentado aos sujeitos passivos não estabelecidos no território da Comunidade ([^5^](http://publications.europa.eu/resource/cellar/fbdfd7a4-3ad0-4a3a-8613-e56e8a38f1ca.0016.03/DOC_1#E0005)). As restrições opcionais de reembolso previstas nos n.^os^ 2 ou 3 do artigo 2.º, ou no n.º 2 do artigo 4.º da referida directiva não deverão ser aplicadas.\n\n(9) Os Estados-Membros deverão autorizar e poderão mesmo obrigar, segundo modalidades por eles determinadas, a transmissão de certas declarações fiscais por via electrónica.\n\n(10) As disposições relativas à introdução de declarações fiscais por via electrónica devem ser aprovadas com carácter permanente. Todas as outras disposições deverão ser aplicadas temporariamente durante três anos, período prorrogável por razões de ordem prática, devendo porém ser impreterivelmente reexaminadas, com base na experiência adquirida, no prazo de três anos a contar de 1 de Julho de 2003.\n\n(11) A Directiva 77/388/CEE deve, por conseguinte, ser alterada em conformidade,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "4c446ac84112a24e": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Directiva 77/388/CEE é alterada, a título temporário, do seguinte modo:\n\n1. No artigo 9.º:\n\na) Na alínea e) do n.º 2, o último ponto final é substituído por vírgula e são acrescentados os seguintes travessões:\n\n«— serviços de radiodifusão e televisão,\n\n— serviços prestados por via electrónica, nomeadamente os descritos no anexo L.»\n\nb) No n.º 2, é aditada a seguinte alínea:\n\n«f) Por lugar das prestações de serviços referidas no último travessão da alínea e), caso esses serviços sejam prestados a não sujeitos passivos que estejam estabelecidos, tenham o seu domicílio ou a sua residência habitual num Estado-Membro, por um sujeito passivo que tenha a sede da sua actividade económica ou um estabelecimento estável a partir do qual o serviço é prestado fora da Comunidade ou, na falta de sede ou de estabelecimento estável, tenha o seu domicílio ou a sua residência habitual fora da Comunidade, entende-se o lugar onde o não sujeito passivo esteja estabelecido, tenha o seu domicílio ou a sua residência habitual.»\n\nc) No n.º 3, o proémio passa a ter a seguinte redacção:\n\n«3. A fim de evitar casos de dupla tributação, de não tributação ou de distorções de concorrência, os Estados-Membros podem considerar, no que diz respeito às prestações de serviços referidas na alínea e) do n.º 2, com excepção dos serviços referidos no último travessão quando prestados a não sujeitos passivos, e também no que respeita à locação de meios de transporte:»\n\nd) O n.º 4 passa a ter a seguinte redacção:\n\n«4. Os Estados-Membros devem aplicar a alínea b) do n.º 3 aos serviços de telecomunicações, de radiodifusão e de televisão referidos na alínea e) do n.º 2, caso o serviço seja prestado a não sujeitos passivos que estejam estabelecidos, tenham o seu domicílio ou a sua residência habitual num Estado-Membro, por um sujeito passivo que tenha a sede da sua actividade económica ou um estabelecimento estável a partir do qual o serviço é prestado fora da Comunidade ou, na falta de sede ou de estabelecimento estável, tenha o seu domicílio ou a sua residência habitual fora da Comunidade.»\n\n2. À alínea a) do n.º 3 do artigo 12.º, é aditado o seguinte parágrafo:\n\n«O terceiro parágrafo não se aplica aos serviços referidos no artigo 9.º, n.º 2, alínea e), último travessão.»\n\n3. É aditado o seguinte artigo:"
+  },
+  "f4e7031c102ece02": {
+   "fragment_id": "A. Definições",
+   "type": "divisao",
+   "heading": "A. Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Definições\n\nPara efeitos do presente artigo, e sem prejuízo de outras disposições comunitárias, entende-se por:\n\na) “Sujeito passivo não estabelecido”, um sujeito passivo que não tenha a sede da sua actividade económica nem um estabelecimento estável no território da Comunidade e que não tenha de estar de outra forma identificado para efeitos fiscais nos termos do artigo 22.º;\n\nb) “Serviços electrónicos” e serviços prestados por via electrónica, os serviços referidos no artigo 9.º, n.º 2, alínea e), último travessão;\n\nc) “Estado-Membro de identificação”, o Estado-Membro que o sujeito passivo não estabelecido decide contactar para declarar o início da sua actividade como sujeito passivo dentro do território da Comunidade, em conformidade com o disposto no presente artigo;\n\nd) “Estado-Membro de consumo”, o Estado-Membro em que se considera ser efectuada a prestação dos serviços electrónicos, de acordo com a alínea f) do n.º 2 do artigo 9.º;\n\ne) “Declaração de imposto sobre o valor acrescentado”, a declaração que contém as informações necessárias para determinar o montante do imposto devido em cada Estado-Membro."
+  },
+  "38a8ca7271f92f39": {
+   "fragment_id": "B. Regime especial para os serviços prestados por via electrónica",
+   "type": "divisao",
+   "heading": "B. Regime especial para os serviços prestados por via electrónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Regime especial para os serviços prestados por via electrónica\n\n1. Os Estados-Membros devem autorizar os sujeitos passivos não estabelecidos que prestem serviços electrónicos a não sujeitos passivos estabelecidos num Estado-Membro ou que aí tenham o seu domicílio ou a sua residência habitual, a optar por um regime especial em conformidade com as disposições que se seguem. O regime especial é aplicável a todas essas prestações dentro da Comunidade.\n\n2. O sujeito passivo não estabelecido deve declarar ao Estado-Membro de identificação o início, a cessação ou a alteração da sua actividade como sujeito passivo na medida em que deixe de ter direito ao regime especial. Essa declaração deve ser feita por via electrónica.\n\nAs informações fornecidas pelo sujeito passivo não estabelecido ao Estado-Membro de identificação quando se iniciam as suas actividades tributáveis devem incluir os seguintes elementos de identificação: nome, endereço postal, endereços electrónicos, incluindo os sítios *web*, número de contribuinte nacional, se o tiver, e uma declaração de que o sujeito não está identificado para efeitos de IVA na Comunidade. O sujeito passivo não estabelecido deve notificar o Estado-Membro de identificação de quaisquer alterações das informações apresentadas.\n\n3. O Estado-Membro de identificação deve atribuir ao sujeito passivo não estabelecido um número individual de identificação. Com base nas informações utilizadas para a referida identificação, os Estados-Membros de consumo podem manter os seus próprios sistemas de identificação.\n\nO Estado-Membro de identificação deve notificar por via electrónica o sujeito passivo não estabelecido do número de identificação que lhe foi atribuído.\n\n4. O Estado-Membro de identificação deve excluir o sujeito passivo não estabelecido do registo de identificação se:\n\na) Este notificar que deixou de prestar serviços electrónicos;\n\nb) Puder depreender, de outra forma, que as suas actividades tributáveis cessaram;\n\nc) Tiver deixado de preencher os requisitos necessários para poder optar pelo regime especial; ou\n\nd) De modo continuado, não cumprir as regras relativas ao regime especial.\n\n5. O sujeito passivo não estabelecido deve apresentar ao Estado-Membro de identificação, por via electrónica, uma declaração de imposto sobre o valor acrescentado relativa a cada trimestre civil, quer tenha sido prestado ou não um serviço electrónico. A declaração deve ser apresentada no prazo de 20 dias após o final do período abrangido pela declaração.\n\nA declaração de imposto sobre o valor acrescentado deve mencionar o número de identificação e, para cada Estado-Membro de consumo em que é devido o imposto, o valor total, com exclusão do IVA, das prestações de serviços electrónicos para o período abrangido pela declaração e o montante total do imposto correspondente. Devem ser igualmente indicadas as taxas aplicáveis e o montante total do imposto.\n\n6. A declaração de imposto sobre o valor acrescentado deve ser efectuada em euros. Os Estados-Membros que não tiverem adoptado o euro podem exigir que a declaração de imposto seja feita nas respectivas moedas nacionais. Se as prestações tiverem sido efectuadas noutras divisas, ao preencher a declaração, deve ser aplicada a taxa de câmbio válida para a última data do período abrangido pela declaração. O câmbio deve ser efectuado de acordo com as taxas de câmbio desse dia publicadas pelo Banco Central Europeu ou, caso não haja publicação nesse dia, do dia de publicação seguinte.\n\n7. O sujeito passivo não estabelecido deve pagar o IVA no momento da apresentação da declaração. O pagamento deve ser efectuado mediante depósito numa conta bancária denominada em euros, indicada pelo Estado-Membro de identificação. Os Estados-Membros que não tiverem adoptado o euro podem exigir que o pagamento seja feito para uma conta bancária denominada na moeda respectiva.\n\n8. Sem prejuízo do n.º 1 do artigo 1.º da Directiva 86/560/CEE, o sujeito passivo não estabelecido que opte por este regime especial, em vez de efectuar deduções ao abrigo do n.º 2 do artigo 17.º da presente directiva, recebe um reembolso de acordo com a Directiva 86/560/CEE. Os n.^os^ 2 e 3 do artigo 2.º e o n.º 2 do artigo 4.º da Directiva 86/560/CEE não são aplicáveis ao reembolso relacionado com os serviços electrónicos abrangidos por este regime especial.\n\n9. O sujeito passivo não estabelecido deve conservar os registos das operações abrangidas por este regime especial com o nível de detalhe suficiente para permitir à administração fiscal do Estado-Membro de consumo determinar que a declaração de imposto sobre o valor acrescentado referida no n.º 5 está correcta. Estes registos devem ser disponibilizados electronicamente, a pedido, ao Estado-Membro de identificação e ao Estado-Membro de consumo. Estes registos devem ser mantidos por um período de 10 anos após o final do ano em que a operação foi efectuada.\n\n10. A alínea b) do n.º 2 do artigo 21.º não é aplicável a um sujeito passivo não estabelecido que tenha optado por este regime especial.»"
+  },
+  "e42493cad64e7e6f": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO artigo 22.º, que consta do artigo 28.ºH da Directiva 77/388/CEE, é alterado da seguinte forma:\n\n1. No n.º 1, a alínea a) passa a ter a seguinte redacção:\n\n«a) Os sujeitos passivos devem declarar o início, a alteração e a cessação da sua actividade na qualidade de sujeitos passivos. Os Estados-Membros autorizam e podem mesmo obrigar, segundo modalidades por eles determinadas, o sujeito passivo a efectuar essas declarações por via electrónica.»\n\n2. No n.º 4, a alínea a) passa a ter a seguinte redacção:\n\n«a) Os sujeitos passivos devem entregar uma declaração num prazo a fixar pelos Estados-Membros. Esse prazo não pode exceder em mais de dois meses o termo de cada período fiscal. Este período é fixado pelos Estados-Membros em um, dois ou três meses. No entanto, os Estados-Membros podem fixar períodos diferentes, desde que não excedam um ano. Os Estados-Membros devem autorizar, segundo modalidades por eles determinadas, o sujeito passivo a efectuar essas declarações por via electrónica e podem também exigir que sejam utilizados meios electrónicos.»\n\n3. No n.º 6, a alínea a) passa a ter a seguinte redacção:\n\n«a) Os Estados-Membros podem exigir a apresentação pelo sujeito passivo de uma declaração na qual constem todos os dados referidos no n.º 4, relativamente à totalidade das operações efectuadas no ano anterior. Esta declaração deve incluir todos os elementos necessários para efeitos de regularizações eventuais. Os Estados-Membros devem autorizar, segundo modalidades por eles determinadas, o sujeito passivo a efectuar essas declarações por via electrónica e podem também exigir que sejam utilizados meios electrónicos.»\n\n4. Na alínea b) do n.º 6, o segundo parágrafo passa a ter a seguinte redacção:\n\n«A declaração recapitulativa deve ser elaborada para cada trimestre civil dentro de um prazo e de acordo com normas a determinar pelos Estados-Membros, que devem tomar as medidas necessárias para assegurar que as disposições relativas à cooperação administrativa no domínio da tributação indirecta são cumpridas em todos os casos. Os Estados-Membros devem autorizar, segundo modalidades por eles determinadas, o sujeito passivo a fazer essas declarações por via electrónica e podem também exigir que sejam utilizados meios electrónicos.»"
+  },
+  "2989c62ad59d8c53": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO artigo 1.º é aplicável até 31 de Dezembro de 2006."
+  },
+  "3a1be08650635de0": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO Conselho, com base num relatório da Comissão, deve reexaminar as disposições do artigo 1.º da presente directiva antes de 30 de Junho de 2006 e aprovar, deliberando nos termos do artigo 93.º do Tratado, disposições relativas a um mecanismo electrónico apropriado, não discriminatório, para aplicar, declarar, cobrar e repartir as receitas fiscais ligadas aos serviços prestados por via electrónica tributados no lugar de consumo, ou prorrogar, se tal se afigurar necessário por razões de ordem prática, deliberando por unanimidade com base numa proposta da Comissão, o período a que se refere o artigo 4.º"
+  },
+  "c5d1f4707823fa1b": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA presente directiva entra em vigor no dia da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "aefd2b4e47e34877": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "331b22f8e5a06e30": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n«ANEXO L\n\nLISTA EXEMPLIFICATIVA DOS SERVIÇOS PRESTADOS POR VIA ELECTRÓNICA, A QUE SE REFERE A ALÍNEA E) DO N.º 2 DO ARTIGO 9.º\n\n1. Fornecimento de sítios informáticos, domiciliação de páginas *web*, manutenção à distância de programas e equipamentos.\n\n2. Fornecimento de programas e respectiva actualização.\n\n3. Fornecimento de imagens, textos e informações, e disponibilização de bases de dados.\n\n4. Fornecimento de música, filmes e jogos, incluindo jogos de azar e a dinheiro, e de emissões ou manifestações políticas, culturais, artísticas, desportivas, científicas ou de lazer.\n\n5. Prestação de serviços de ensino à distância.\n\nQuando um prestador de serviços e o seu cliente comunicam por correio electrónico, esse facto não significa só por si que o serviço prestado é um serviço electrónico na acepção do artigo 9.º, n.º 2, alínea e), último travessão.»\n\n---"
+  },
+  "be5774ac57aea878": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/fbdfd7a4-3ad0-4a3a-8613-e56e8a38f1ca.0016.03/DOC_1#src.E0001)) JO C 337 E de 28.11.2000, p. 65.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/fbdfd7a4-3ad0-4a3a-8613-e56e8a38f1ca.0016.03/DOC_1#src.E0002)) JO C 232 de 17.8.2001, p. 202.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/fbdfd7a4-3ad0-4a3a-8613-e56e8a38f1ca.0016.03/DOC_1#src.E0003)) JO C 116 de 20.4.2001, p. 59.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/fbdfd7a4-3ad0-4a3a-8613-e56e8a38f1ca.0016.03/DOC_1#src.E0004)) JO L 145 de 13.6.1977, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2001/115/CE (JO L 15 de 17.1.2002, p. 24).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/fbdfd7a4-3ad0-4a3a-8613-e56e8a38f1ca.0016.03/DOC_1#src.E0005)) JO L 326 de 21.11.1986, p. 40."
+  },
+  "b9144d487acf7a0d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2002L0038 — PT — 01.01.2007 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32002L0038) [DIRECTIVA 2002/38/CE DO CONSELHO](http://publications.europa.eu/resource/celex/32002L0038) [de 7 de Maio de 2002](http://publications.europa.eu/resource/celex/32002L0038) [que altera, a título tanto definitivo como temporário, a Directiva 77/388/CEE no que se refere ao regime do imposto sobre o valor acrescentado aplicável aos serviços de radiodifusão e televisão e a determinados serviços prestados por via electrónica](http://publications.europa.eu/resource/celex/32002L0038) (JO L 128, 15.5.2002, p.41)\n\n**revogado por:**\n\n- [Directiva 2006/112/CE do Conselho de 28 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006L0112) — L 347 — 1 — 11.12.2006"
+  }
+ }
+}

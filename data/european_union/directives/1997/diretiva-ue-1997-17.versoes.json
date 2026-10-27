@@ -1,0 +1,159 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997L0017:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997L0017-20111220",
+ "dre_path": null,
+ "source_lastmod": "2011-12-20",
+ "versions": [
+  {
+   "date": "1997-05-07",
+   "future": false,
+   "celex": "31997L0017",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5a10d29e2f8c5bfd",
+    "b30558374829cf25",
+    "f3d054f83cfb79e2",
+    "08679796e5a0d151",
+    "757a9d3fe3ce3796",
+    "8dee5150385ac763",
+    "c464bf0bb06c1676",
+    "ba040e553a733b37",
+    "014632753ccd763e",
+    "daaaa0f6fc43215f",
+    "c0f9435080b8a72a",
+    "67f067665cc53e61"
+   ]
+  },
+  {
+   "date": "2011-12-20",
+   "future": false,
+   "celex": "01997L0017-20111220",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime ANEXO I — ETIQUETA",
+    "Suprime ANEXO II — FICHA",
+    "Suprime ANEXO III — VENDAS POR CORRESPONDÊNCIA E OUTRAS VENDAS À DISTÂNCIA",
+    "Suprime ANEXO IV — CLASSES DE EFICIÊNCIA",
+    "Suprime ANEXO V — >POSIÇÃO NUMA TABELA>"
+   ],
+   "fragments": [
+    "6dc9fc600995eff8"
+   ]
+  }
+ ],
+ "fragments": {
+  "5a10d29e2f8c5bfd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 97/17/CE da Comissão de 16 de Abril de 1997 relativa à aplicação da Directiva 92/75/CEE do Conselho à rotulagem energética das máquinas de lavar loiça para uso doméstico (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 118 de 07/05/1997 p. 0001 - 0025*\n\nDIRECTIVA 97/17/CE DA COMISSÃO de 16 de Abril de 1997 relativa à aplicação da Directiva 92/75/CEE do Conselho à rotulagem energética das máquinas de lavar loiça para uso doméstico (Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 92/75/CEE do Conselho, de 22 de Setembro de 1992, relativa à indicação do consumo de energia dos aparelhos domésticos por meio de rotulagem e outras indicações uniformes relativas aos produtos (1), e, nomeadamente, os seus artigos 9º e 12º,\n\nConsiderando que a electricidade consumida pelas máquinas de lavar loiça representa uma parte significativa da procura total de energia na Comunidade; que é possível reduzir consideravelmente o consumo de energia desses aparelhos;\n\nConsiderando que uma lavagem ou secagem de qualidade exige muitas vezes um maior consumo de água e energia; que as informações sobre a qualidade da lavagem ou secagem de uma máquina são úteis para avaliar as informações sobre o seu consumo de energia e água; que essas informações podem orientar os consumidores na escolha de um aparelho que garanta uma utilização racional da energia;\n\nConsiderando que a Comunidade, confirmando o seu interesse num sistema de normalização internacional capaz de produzir normas que sejam efectivamente utilizadas por todos os parceiros do comércio internacional e de satisfazer as exigências da política comunitária, convida os organismos de normalização europeus a prosseguirem a sua cooperação com os organismos de normalização internacionais;\n\nConsiderando que o Comité Europeu de Normalização (CEN) e o Comité Europeu de Normalização Electrotécnica (Cenelec) são os organismos reconhecidos como competentes para adoptar normas harmonizadas de acordo com as orientações gerais para a cooperação entre a Comissão e esses dois organismos, assinadas em 13 de Novembro de 1984; que, na acepção da presente directiva, uma norma harmonizada é uma especificação técnica (norma europeia ou documento de harmonização) adoptada pelo Cenelec sob mandato da Comissão, nos termos da Directiva 83/189/CEE do Conselho, de 28 de Março de 1983, que estabelece um procedimento de informação no domínio das normas e regulamentações técnicas (2), com a última redacção que lhe foi dada pela Decisão 96/139/CE da Comissão (3), e com base nas orientações gerais acima referidas;\n\nConsiderando que as medidas estabelecidas pela presente directiva estão em conformidade com o parecer do Comité instituído pelo artigo 10º da Directiva 92/75/CEE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "b30558374829cf25": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. A presente directiva aplica-se às máquinas de lavar loiça para uso doméstico alimentadas pela rede eléctrica. Estão excluídas as máquinas que podem igualmente utilizar outras fontes de energia.\n\n2. As informações exigidas pela presente directiva serão avaliadas de acordo com normas harmonizadas cujos números de referência tenham sido publicados no Jornal Oficial das Comunidades Europeias e relativamente às quais os Estados-membros tenham publicado os números de referência das normas nacionais que transpõem essas normas harmonizadas. As disposições da presente directiva que prevejam o fornecimento de informações relativas ao ruído apenas se aplicam caso essas informações sejam exigidas nos termos do artigo 3º da Directiva 86/594/CEE do Conselho (4). Essas informações, quando exigidas, serão avaliadas em conformidade com essa mesma directiva.\n\n3. As normas harmonizadas referidas no nº 2 serão elaboradas por mandato da Comissão, nos termos da Directiva 83/189/CEE.\n\n4. Na presente directiva, com excepção dos casos em que o contexto obrigue ao contrário, as expressões utilizadas terão a mesma acepção que na Directiva 92/75/CEE."
+  },
+  "f3d054f83cfb79e2": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. A documentação técnica referida no nº 3 do artigo 2º da Directiva 92/75/CEE incluirá:\n\n- o nome e o endereço do fornecedor,\n\n- uma descrição geral do modelo, que permita identificá-lo inequivocamente,\n\n- informações, incluindo, se necessário, desenhos, sobre as principais características de concepção do modelo e, principalmente, as que afectam de modo significativo o consumo de energia,\n\n- relatórios dos ensaios de medição efectuados no modelo de acordo com os procedimentos de ensaio das normas harmonizadas referidas no nº 2 do artigo 1º da presente directiva,\n\n- instruções de funcionamento, se for caso disso.\n\n2. A etiqueta referida no nº 1 do artigo 2º da Directiva 92/75/CEE deve obedecer às especificações do anexo I da presente directiva. A etiqueta deve ser colocada no exterior do aparelho, à frente ou em cima, de modo a ficar claramente visível e não tapada.\n\n3. O conteúdo e o formato da ficha referida no nº 1 do artigo 2º da Directiva 92/75/CEE devem obedecer às especificações do anexo II da presente directiva.\n\n4. Nas circunstâncias previstas no artigo 5º da Directiva 92/75/CEE e quando a proposta de venda, de aluguer ou de aluguer com opção de venda for feita através de uma comunicação impressa, como um catálogo de vendas por correspondência, essa comunicação impressa deve incluir todas as informações especificadas no anexo III da presente directiva.\n\n5. A classe de eficiência energética de um aparelho, bem como a sua classe de eficiência de lavagem e de secagem, devem ser determinadas de acordo com o anexo IV."
+  },
+  "08679796e5a0d151": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nOs Estados-membros adoptarão todas as medidas necessárias para garantir que todos os fornecedores e distribuidores estabelecidos no seu território cumpram as obrigações impostas pela presente directiva."
+  },
+  "757a9d3fe3ce3796": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Os Estados-membros adoptarão e publicarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 15 de Junho de 1998. Desse facto informarão imediatamente a Comissão. Essas disposições serão aplicáveis a partir de 1 de Julho de 1998.\n\nTodavia, os Estados-membros autorizarão, até 31 de Dezembro de 1998:\n\n- a colocação no mercado, a comercialização e/ou a exposição de produtos,\n\n- a distribuição das comunicações impressas referidas no nº 4 do artigo 2º,\n\nque não estejam conformes com a presente directiva.\n\nQuando os Estados-membros adoptarem as disposições referidas no primeiro parágrafo, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno que adoptem no domínio regido pela presente directiva."
+  },
+  "8dee5150385ac763": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "c464bf0bb06c1676": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 16 de Abril de 1997.\n\nPela Comissão\n\nChristos PAPOUTSIS\n\nMembro da Comissão\n\n(1) JO nº L 297 de 13. 10. 1992, p. 16.\n\n(2) JO nº L 109 de 26. 4. 1983, p. 8.\n\n(3) JO nº L 32 de 10. 2. 1996, p. 31.\n\n(4) JO nº L 344 de 6. 12. 1986, p. 24."
+  },
+  "ba040e553a733b37": {
+   "fragment_id": "ANEXO I — ETIQUETA",
+   "type": "divisao",
+   "heading": "ANEXO I — ETIQUETA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — ETIQUETA\n\nEstrutura da etiqueta\n\n1. A etiqueta deverá ser seleccionada a partir das ilustrações que se seguem, na versão linguística correspondente:\n\n>REFERÊNCIA A UM GRÁFICO>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n>REFERÊNCIA A UMA IMAGEN>\n\n2. As notas que se seguem especificam os dados que devem ser incluídos na etiqueta:\n\nNotas\n\nI. Nome ou marca do fornecedor.\n\nII. Identificação do modelo do fornecedor.\n\nIII. Classe de eficiência energética do modelo determinada de acordo com o anexo IV, sendo a letra correspondente colocada ao mesmo nível da seta correspondente.\n\nIV. Sem prejuízo de eventuais requisitos decorrentes do sistema comunitário de atribuição da etiqueta ecológica, se, ao abrigo do Regulamento (CEE) nº 880/92 do Conselho (1), tiver sido atribuído a um modelo uma «etiqueta ecológica comunitária», poder-se-á incluir uma cópia dessa etiqueta ecológica.\n\nV. Consumo de energia em quilowatts-hora (kWh) por ciclo, utilizando o ciclo padrão, de acordo com os procedimentos de ensaio das normas harmonizadas referidas no nº 2 do artigo 1º\n\nVI. Classe de eficiência de lavagem determinada de acordo com o anexo IV.\n\nVII. Classe de eficiência de secagem determinada de acordo com o anexo IV.\n\nVIII. Capacidade do aparelho em serviços de loiça padrão, de acordo com as normas harmonizadas referidas no nº 2 do artigo 1º\n\nIX. Consumo de água por ciclo, em litros, utilizando o ciclo padrão, de acordo com os procedimentos de ensaio das normas harmonizadas referidas no nº 2 do artigo 1º\n\nX. Quando aplicável, nível de ruído durante o ciclo padrão, de acordo com a Directiva 86/594/CEE do Conselho (2).\n\nNota:\n\nOs termos de outras línguas equivalentes aos acima utilizados constam do anexo V.\n\nImpressão\n\n3. Definem-se a seguir certos aspectos da etiqueta:\n\n>REFERÊNCIA A UM GRÁFICO>\n\n>REFERÊNCIA A UMA IMAGEN>\n\nCores utilizadas:\n\nCMAP - ciano, magenta, amarelo, preto.\n\nExemplo: 07X0: 0 % ciano, 70 % magenta, 100 % amarelo, 0 % preto.\n\nSetas:\n\n- A: X0X0\n\n- B: 70X0\n\n- C: 30X0\n\n- D: 00X0\n\n- E: 03X0\n\n- F: 07X0\n\n- G: 0XX0\n\nCor da esquadria: X070\n\nTodo o texto é a preto. O fundo é branco.\n\n(1) JO nº L 99 de 11. 4. 1992, p. 1.\n\n(2) JO nº L 344 de 6. 12. 1986, p. 24. As normas pertinentes são a norma EN 60704-2-3 (medição do ruído) e a norma EN 60704-3 (verificação)."
+  },
+  "014632753ccd763e": {
+   "fragment_id": "ANEXO II — FICHA",
+   "type": "divisao",
+   "heading": "ANEXO II — FICHA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — FICHA\n\nA ficha deve conter as informações que se seguem. As informações podem ser apresentadas sob a forma de um quadro que abranja uma série de aparelhos fornecidos pelo mesmo fornecedor, devendo nesse caso respeitar a ordem a seguir especificada, ou acompanhar a descrição do aparelho.\n\n1. Marca do fornecedor.\n\n2. Identificação do modelo do fornecedor.\n\n3. Classe de eficiência energética do modelo, determinada de acordo com o anexo IV, expressa em termos de «classe de eficiência energética... numa escala de A (mais eficiente) a G (menos eficiente)». Se essa informação for fornecida num quadro pode ser expressa de outro modo, desde que seja claro que a escala vai de A (mais eficiente) a G (eficiente).\n\n4. Caso as informações sejam fornecidas num quadro e caso tenha sido atribuído a alguns dos aparelhos enumerados no quadro uma «etiqueta ecológica comunitária» nos termos do Regulamento (CEE) nº 880/92, essa informação pode ser incluída no quadro. Nesse caso, o cabeçalho da linha deve ser «etiqueta ecológica comunitária» e a entrada consistirá numa cópia da marcação ecológica (a flor). Esta disposição não prejudica eventuais requisitos decorrentes do sistema de atribuição de etiquetas ecológicas comunitárias.\n\n5. Identificação ou código do fabricante, ou indicação do ciclo «padrão» a que dizem respeito as informações contidas na etiqueta e na ficha.\n\n6. Consumo de energia em kWh por ciclo utilizando o ciclo padrão, determinado de acordo com os procedimentos de ensaio das normas harmonizadas referidas no nº 2 do artigo 1º, definido como «consumo de energia XYZ kWh por ciclo padrão, com enchimento a água fria. O consumo real de energia dependerá das condições de utilização do aparelho».\n\n7. Classe de eficiência de lavagem, determinada de acordo com o anexo IV, expressa em termos de «Classe de eficiência de lavagem... numa escala de A (mais elevada) a G (mais baixa)». Esta informação pode ser expressa de outro modo, desde que seja claro que a escala vai de A (mais elevada) a G (mais baixa).\n\n8. Classe de eficiência de secagem, determinada de acordo com o anexo IV, expressa em termos de «Classe de eficiência de secagem... numa escala de A (mais elevada) a G (mais baixa)». Esta informação pode ser expressa de outro modo, desde que seja claro que a escala vai de A (mais elevada) a G (mais baixa).\n\n9. Capacidade do aparelho em serviços de loiça padrão, como definida na nota VIII do anexo I.\n\n10. Consumo de água por ciclo, em litros, usando o ciclo padrão, de acordo com a nota IX do anexo I.\n\n11. Duração do programa num ciclo padrão, de acordo com os procedimentos de ensaio das normas harmonizadas referidas no nº 2 do artigo 1º\n\n12. Os fornecedores podem incluir as mesmas informações dos pontos 5 a 11 em relação a outros ciclos de lavagem.\n\n13. Consumo anual estimado de energia e de água, equivalente a 220 vezes os consumos referidos nos pontos 5 (energia) e 9 (água). O consumo será expresso como «Consumo anual estimado (220 ciclos)».\n\n14. Quando aplicável, nível de ruído durante o ciclo padrão, de acordo com a Directiva 86/594/CEE.\n\nA informação contida na etiqueta pode ser apresentada sob a forma de uma reprodução da etiqueta, a cores ou a preto e branco.\n\nNota:\n\nOs termos de outras línguas equivalentes aos acima utilizados constam do anexo V."
+  },
+  "daaaa0f6fc43215f": {
+   "fragment_id": "ANEXO III — VENDAS POR CORRESPONDÊNCIA E OUTRAS VENDAS À DISTÂNCIA",
+   "type": "divisao",
+   "heading": "ANEXO III — VENDAS POR CORRESPONDÊNCIA E OUTRAS VENDAS À DISTÂNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — VENDAS POR CORRESPONDÊNCIA E OUTRAS VENDAS À DISTÂNCIA\n\nOs catálogos de vendas por correspondência e outras informações impressas referidas no nº 4 do artigo 2º devem conter as seguintes informações, fornecidas pela ordem indicada:\n\n1. Classe de eficiência energética (anexo II, ponto 3)\n\n2. Nome do ciclo padrão (anexo II, ponto 5)\n\n3. Consumo de energia (anexo II, ponto 6)\n\n4. Classe de eficiência de lavagem (anexo II, ponto 7)\n\n5. Classe de eficiência de secagem (anexo II, ponto 8)\n\n6. Capacidade (anexo I, nota VIII)\n\n7. Consumo de água (anexo I, nota IX)\n\n8. Consumo anual estimado (220 ciclos) (anexo II, ponto 13)\n\n9. Nível de ruído (quando aplicável) (anexo I, nota X)\n\nCaso se forneçam outras informações contidas na ficha, elas devem ser apresentadas na forma definida no anexo II e incluídas na lista acima na ordem estabelecida para a ficha.\n\nNota:\n\nOs termos de outras línguas equivalentes aos acima utilizados constam do anexo V."
+  },
+  "c0f9435080b8a72a": {
+   "fragment_id": "ANEXO IV — CLASSES DE EFICIÊNCIA",
+   "type": "divisao",
+   "heading": "ANEXO IV — CLASSES DE EFICIÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — CLASSES DE EFICIÊNCIA\n\n1. A classe de eficiência energética de um aparelho é determinada da seguinte forma:\n\nCalcula-se um consumo de referência CR do seguinte modo:\n\n>POSIÇÃO NUMA TABELA>\n\nem que S é a capacidade do aparelho em serviços de loiça padrão (nota VIII do anexo I).\n\nCalcula-se depois o índice de eficiência energética EI: EI = >NUM>C\n\n>DEN>CR\n\nem que C é o consumo de energia do aparelho (nota V do anexo I).\n\nAs classes de eficiência energética são então estabelecidas de acordo com o quadro 1:\n\n>POSIÇÃO NUMA TABELA>\n\n2. A classe de eficiência de lavagem de um aparelho é determinada de acordo com o seguinte quadro 2:\n\n>POSIÇÃO NUMA TABELA>\n\n3. A classe de eficiência de secagem de um aparelho é determinada de acordo com o seguinte quadro 3:\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "67f067665cc53e61": {
+   "fragment_id": "ANEXO V — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO V — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — >POSIÇÃO NUMA TABELA>"
+  },
+  "6dc9fc600995eff8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1997L0017 — PT — 20.12.2011 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31997L0017) [DIRECTIVA 97/17/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/31997L0017) [de 16 de Abril de 1997](http://publications.europa.eu/resource/celex/31997L0017) [relativa à aplicação da Directiva 92/75/CEE do Conselho à rotulagem energética das máquinas de lavar loiça para uso doméstico](http://publications.europa.eu/resource/celex/31997L0017) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/31997L0017) (JO L 118, 7.5.1997, p.1)\n\n**revogado por:**\n\n- [Regulamento Delegado (UE) n.o 1059/2010 da Comissão de 28 de Setembro de 2010](http://publications.europa.eu/resource/celex/32010R1059) — L 314 — 1 — 30.11.2010"
+  }
+ }
+}

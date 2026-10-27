@@ -1,0 +1,385 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:167056:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1998-886722923",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/6-1998-167056",
+ "source_lastmod": "2024-09-03",
+ "versions": [
+  {
+   "date": "1998-04-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "886819749",
+    "886819750",
+    "886819751",
+    "886819752",
+    "886819753",
+    "886819754",
+    "886819755",
+    "886819756",
+    "886819757",
+    "886819758",
+    "886819759",
+    "886819760",
+    "886819761",
+    "886819762",
+    "886819763",
+    "886819764",
+    "886819765",
+    "886819766",
+    "886819767",
+    "886819768",
+    "886819769",
+    "886819770",
+    "886819771",
+    "886819772",
+    "886819773",
+    "886819774",
+    "886819975",
+    "886819976",
+    "886819977",
+    "886819978",
+    "886819979",
+    "886819980",
+    "886819981"
+   ]
+  },
+  {
+   "date": "2012-04-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:553893:por",
+     "title": "Decreto Legislativo Regional n.º 15/2012/A",
+     "published": "2012-04-02",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/15-2012-553893"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 13.º"
+   ],
+   "fragments": [
+    "886819749",
+    "886819750",
+    "886819751",
+    "886819752",
+    "886819753",
+    "886819754",
+    "886819755",
+    "886819756",
+    "886819757",
+    "886819758",
+    "886819759",
+    "886819760",
+    "886819761",
+    "886819762",
+    "886819763",
+    "886819764",
+    "886819765",
+    "886819766",
+    "886820402",
+    "886819768",
+    "886819769",
+    "886819770",
+    "886819771",
+    "886819772",
+    "886819773",
+    "886819774",
+    "886819975",
+    "886819976",
+    "886819977",
+    "886819978",
+    "886819979",
+    "886819980",
+    "886819981",
+    "886819982"
+   ]
+  }
+ ],
+ "fragments": {
+  "886819749": {
+   "fragment_id": "886722924",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 6/98/A\n\nProtecção do património florestal regional\n\nActualmente, o revestimento florestal da Região apresenta um valor considerável para a produção de material lenhoso, o que tem permitido o aparecimento e desenvolvimento das indústrias florestais. Indústrias que, assim, contribuem para o abastecimento do mercado regional e a exportação de importantes contingentes de madeira para outros mercados, assumindo grande relevância no contexto do desenvolvimento económico da Região.\n\nAs áreas florestais assumem igualmente importância na conservação dos solos e do ciclo hidrológico, num melhor ordenamento cultural e paisagístico e na protecção do ambiente, atentas as particulares condições ecológicas de algumas ilhas.\n\nAs crescentes preocupação e sensibilização sociais para a problemática da protecção e conservação da natureza, que se expressam na natural exigência de melhores e mais eficazes sistemas de fiscalização e controlo, recomendam a adopção de medidas que garantam uma protecção eficaz do património florestal da Região.\n\nAssim, a Assembleia Legislativa Regional dos Açores, ao abrigo da alínea a) do n.º 1 do artigo 227.º da Constituição e da alínea c) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, decreta o seguinte:"
+  },
+  "886819750": {
+   "fragment_id": "886722925",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "886819751": {
+   "fragment_id": "886722926",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma tem por objecto a protecção, o ordenamento e a gestão do património florestal da Região Autónoma dos Açores, atendendo à sua importância económica, social e ambiental."
+  },
+  "886819752": {
+   "fragment_id": "886722927",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente diploma aplica-se a todo o território da Região, abrangendo as acções que consistam em:\n\na) Corte, arranque, transplante, destruição ou danificação de árvores ou formações arbóreas que apresentem especial interesse económico, botânico, paisagístico ou ambiental;\n\nb) Arroteamento de terrenos incultos tendo em vista o aproveitamento para pastagens ou destinados a outros fins agrícolas;\n\nc) Transformação de terrenos florestais em terrenos para quaisquer outros fins;\n\nd) Introdução de espécies florestais inexistentes na Região;\n\ne) Fabrico de carvão vegetal, quer em terrenos incultos quer em terrenos florestais;\n\nf) Extracção de leivas em terrenos incultos ou florestais.\n\n2 - O disposto no presente diploma aplica-se às acções praticadas em propriedades públicas ou privadas, sem prejuízo do disposto na legislação sobre espécies ou áreas protegidas e bacias hidrográficas."
+  },
+  "886819753": {
+   "fragment_id": "886722928",
+   "type": 11,
+   "heading": "Artigo 3.º — Exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Exclusões\n\n1 - Excluem-se do âmbito de aplicação do presente diploma acções consideradas tradicionais, designadamente o corte de incenso para alimentação animal, na produção de ananás e para uso doméstico, sem prejuízo do disposto na alínea c) do n.º 1 do artigo anterior.\n\n2 - Excluem-se também do âmbito do presente diploma acções consideradas tradicionais na limpeza de pastagens permanentes, designadamente o corte e arranque de arbustos considerados invasores destas pastagens."
+  },
+  "886819754": {
+   "fragment_id": "886722929",
+   "type": 1,
+   "heading": "Capítulo II — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Licenciamento"
+  },
+  "886819755": {
+   "fragment_id": "886722930",
+   "type": 11,
+   "heading": "Artigo 4.º — Procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Procedimentos\n\n1 - A prática das acções referidas no artigo 2.º depende da prévia autorização da Secretaria Regional da Agricultura, Pescas e Ambiente, concedida através de licença emitida pela Direcção Regional dos Recursos Florestais.\n\n2 - A Direcção Regional dos Recursos Florestais terá de se pronunciar sobre a concessão da licença referida no número antecedente no prazo de 30 dias contados da data de entrada do respectivo requerimento.\n\n3 - Decorrido o prazo referido no número anterior sem decisão expressa, consideram-se concedidas as licenças nos precisos termos em que foram requeridas."
+  },
+  "886819756": {
+   "fragment_id": "886722931",
+   "type": 11,
+   "heading": "Artigo 5.º — Critérios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Critérios\n\n1 - O licenciamento das acções que se mostrem necessárias a um correcto ordenamento de formações arbóreas ou arbustivas ou que visem a satisfação de atendíveis interesses particulares ou do interesse público devem respeitar os seguintes critérios:\n\na) Desbastes: sempre que tenham por objectivo promover o tratamento ou melhoramento de povoamentos existentes;\n\nb) Talhadios: sempre que incidam sobre povoamentos que tenham atingido as condições de exploração;\n\nc) Cortes rasos ou salteados:\n\ni) Sempre que incidam sobre espécies ou povoamentos que tenham atingido a idade própria de exploração ou se mostrem indispensáveis ao consumo do proprietário;\n\nii) Sempre que visem a transformação de terrenos florestais em terrenos de cultura agrícola, pastagens ou destinados a outros fins, desde que não prejudiquem o regime hidrológico, interesses piscícolas e equilíbrios ecológicos ou paisagísticos;\n\niii) Sempre que sejam indispensáveis para facilitar aproveitamentos hídricos, para regularização de linhas de água ou para garantir a segurança na distribuição de energia;\n\nd) Introdução de espécies florestais: sempre que se considere importante para valorizar o património florestal da Região, atendendo ao seu interesse económico e ou ambiental.\n\n2 - O licenciamento de arroteias de terrenos incultos e a transformação de terrenos florestais em terrenos de cultura agrícola, pastagem ou outros fins só é autorizado desde que não resultem inconvenientes para a conservação do solo nem prejudique o regime hidrológico, interesses piscícolas e equilíbrios ecológicos ou paisagísticos.\n\n3 - As intervenções referidas nos números anteriores podem ser condicionadas pela altitude, declive, natureza do solo e localização de bacias hidrográficas, nos termos que forem estabelecidos na regulamentação do presente diploma."
+  },
+  "886819757": {
+   "fragment_id": "886722932",
+   "type": 1,
+   "heading": "Capítulo III — Responsabilidade contra-ordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Responsabilidade contra-ordenacional"
+  },
+  "886819758": {
+   "fragment_id": "886722933",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "886819759": {
+   "fragment_id": "886722934",
+   "type": 11,
+   "heading": "Artigo 6.º — Da prática de actos em contravenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Da prática de actos em contravenção\n\n1 - A prática de actos em contravenção com o disposto neste diploma e respectiva regulamentação constitui contra-ordenação, punível nos termos do presente capítulo.\n\n2 - Presumem-se provenientes de práticas em contra-ordenação os produtos que não sejam acompanhados de documento comprovativo de terem sido obtidos em conformidade com o normativo aplicável.\n\n3 - Nos casos previstos no número anterior é concedido prazo para a apresentação do documento aí referido."
+  },
+  "886819760": {
+   "fragment_id": "886722935",
+   "type": 11,
+   "heading": "Artigo 7.º — Negligência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Negligência\n\nA negligência é punida nos casos expressamente previstos."
+  },
+  "886819761": {
+   "fragment_id": "886722936",
+   "type": 11,
+   "heading": "Artigo 8.º — Reincidência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Reincidência\n\nNos casos de reincidência o limite mínimo da coima é elevado de um terço."
+  },
+  "886819762": {
+   "fragment_id": "886722937",
+   "type": 8,
+   "heading": "Secção II — Das contra-ordenações em especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Das contra-ordenações em especial"
+  },
+  "886819763": {
+   "fragment_id": "886722938",
+   "type": 11,
+   "heading": "Artigo 9.º — Árvores, arbustos ou rebentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Árvores, arbustos ou rebentos\n\n1 - O corte, arranque, transplante, destruição ou danificação de árvores, arbustos ou rebentos de toiça constitui contra-ordenação punível com coima de 5000$00 a 50000$00 por unidade.\n\n2 - A negligência é sempre punida."
+  },
+  "886819764": {
+   "fragment_id": "886722939",
+   "type": 11,
+   "heading": "Artigo 10.º — Matas de recreio, parques ou jardins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Matas de recreio, parques ou jardins\n\n1 - Tratando-se de matas de recreio, parques ou jardins, as infracções referidas no artigo anterior constituem contra-ordenação punível com coima de 10000$00 a 100000$00, por unidade.\n\n2 - A negligência é sempre punida."
+  },
+  "886819765": {
+   "fragment_id": "886722940",
+   "type": 11,
+   "heading": "Artigo 11.º — Exemplares raros e de interesse público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Exemplares raros e de interesse público\n\n1 - Tratando-se de exemplares raros ou classificados de interesse público, são aumentados em metade os montantes mínimos e máximos das coimas previstas nos artigos anteriores.\n\n2 - Consideram-se raros os exemplares que o sejam pela espécie botânica a que pertencem e de interesse público aqueles que se notabilizem pelo porte, beleza, forma ou outro qualquer atributo que os distinga da vulgaridade e venham a ser classificados como tal."
+  },
+  "886819766": {
+   "fragment_id": "886722941",
+   "type": 11,
+   "heading": "Artigo 12.º — Arroteamento e transformação de terrenos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Arroteamento e transformação de terrenos\n\nO arroteamento de terrenos incultos ou a transformação de terrenos florestais em quaisquer outras culturas ou fins constitui contra-ordenação punível com coima de 20000$00 a 200000$00 por are ou fracção."
+  },
+  "886819767": {
+   "fragment_id": "886722942",
+   "type": 11,
+   "heading": "Artigo 13.º — Introdução de espécies",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Introdução de espécies\n\n1 - A introdução, por plantação ou sementeira, de espécies florestais inexistentes na Região constitui contra-ordenação punível com coima de 5000$00 a 30000$00 por unidade.\n\n2 - A negligência é sempre punida."
+  },
+  "886819768": {
+   "fragment_id": "886722943",
+   "type": 11,
+   "heading": "Artigo 14.º — Fabrico de carvão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Fabrico de carvão\n\nO fabrico de carvão vegetal, quer em terrenos incultos quer em terrenos florestais, constitui contra-ordenação punível com coima de 10000$00 a 50000$00."
+  },
+  "886819769": {
+   "fragment_id": "886722944",
+   "type": 11,
+   "heading": "Artigo 15.º — Extracção de leivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Extracção de leivas\n\nA extracção de leivas de terrenos incultos ou florestais constitui contra-ordenação punível com coima de 50000$00 a 500000$00."
+  },
+  "886819770": {
+   "fragment_id": "886722945",
+   "type": 11,
+   "heading": "Artigo 16.º — Obstruções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Obstruções\n\nA realização das acções previstas neste diploma, mesmo que licenciadas, de que resulte obstrução de vias públicas, ribeiras, riachos, linhas de água ou quaisquer outros locais ou vias que se mostrem necessários para garantir a segurança de pessoas e bens constitui contra-ordenação punível com coima de 50000$00 a 500000$00."
+  },
+  "886819771": {
+   "fragment_id": "886722946",
+   "type": 11,
+   "heading": "Artigo 17.º — Dever de reposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Dever de reposição\n\nRelativamente aos actos praticados em violação do disposto no presente diploma, após trânsito em julgado da decisão condenatória e sempre que possível, fica o arguido constituído na obrigação de proceder à reposição da situação existente à data da infracção, de acordo com as condições e prazos de execução impostos pela Direcção Regional dos Recursos Florestais."
+  },
+  "886819772": {
+   "fragment_id": "886722947",
+   "type": 11,
+   "heading": "Artigo 18.º — Sanção pecuniária compulsória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Sanção pecuniária compulsória\n\nO não cumprimento do prazo fixado de acordo com o artigo anterior constitui o infractor na obrigação de pagar uma quantia de 50000$00 a 500000$00 por cada are ou fracção por repor."
+  },
+  "886819773": {
+   "fragment_id": "886722948",
+   "type": 11,
+   "heading": "Artigo 19.º — Incumprimento das licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Incumprimento das licenças\n\nO incumprimento dos prazos ou condições impostos nas licenças sem que se justifique a sua prorrogação ou alteração acarreta a punição da acção como sendo ilícita."
+  },
+  "886819774": {
+   "fragment_id": "886722949",
+   "type": 11,
+   "heading": "Artigo 20.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Sanções acessórias\n\nPoderão ser apreendidos, onde quer que sejam encontrados, e declarados perdidos a favor da Região todos os produtos provenientes de práticas em contra-ordenação ao estabelecido no presente diploma e respectiva regulamentação, bem como os instrumentos e veículos utilizados para o cometimento da infracção e transporte dos produtos."
+  },
+  "886819975": {
+   "fragment_id": "886722950",
+   "type": 1,
+   "heading": "Capítulo IV — Da fiscalização e do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Da fiscalização e do procedimento"
+  },
+  "886819976": {
+   "fragment_id": "886722951",
+   "type": 11,
+   "heading": "Artigo 21.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Fiscalização\n\n1 - Sem prejuízo das competências próprias das autoridades policiais, nomeadamente a Polícia de Segurança Pública e a Guarda Nacional Republicana, previstas na lei, são competentes para a fiscalização das acções referidas no presente diploma e sua regulamentação os agentes e funcionários da Secretaria Regional da Agricultura, Pescas e Ambiente que exerçam funções de polícia florestal e de vigilantes da natureza.\n\n2 - São poderes das entidades fiscalizadoras, nomeadamente:\n\na) Exigir a apresentação do documento comprovativo do cumprimento das disposições constantes do presente diploma e na sua regulamentação;\n\nb) Exigir a identificação dos suspeitos de prática de contra-ordenação;\n\nc) Proceder à vistoria de propriedades para aferir da conformidade dos trabalhos com as respectivas licenças ou para verificar a prática de contra-ordenações;\n\nd) Proceder à apreensão dos produtos provenientes de contra-ordenação e ordenar o seu depósito em local conveniente."
+  },
+  "886819977": {
+   "fragment_id": "886722952",
+   "type": 11,
+   "heading": "Artigo 22.º — Processo de contra-ordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Processo de contra-ordenação\n\n1 - A instauração e instrução dos processos de contra-ordenação é da competência da Direcção Regional dos Recursos Florestais.\n\n2 - A aplicação de coimas e sanções acessórias é da competência do director regional dos Recursos Florestais.\n\n3 - Em tudo o mais, os processos de contra-ordenação levantados nos termos do presente diploma e respectiva regulamentação reger-se-ão pelas disposições do Decreto-Lei n.º 433/82, de 27 de Outubro, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 356/89, de 17 de Outubro, e pelo Decreto-Lei n.º 244/95, de 14 de Setembro."
+  },
+  "886819978": {
+   "fragment_id": "886722953",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "886819979": {
+   "fragment_id": "886722954",
+   "type": 11,
+   "heading": "Artigo 23.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Regulamentação\n\nA regulamentação do presente diploma será feita pelo Governo Regional no prazo de 60 dias contados da data da sua publicação."
+  },
+  "886819980": {
+   "fragment_id": "886722955",
+   "type": 11,
+   "heading": "Artigo 24.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Revogação\n\nÉ revogado o Decreto Regional n.º 19/81/A, de 27 de Outubro, com a produção de efeitos do presente diploma."
+  },
+  "886819981": {
+   "fragment_id": "886722956",
+   "type": 11,
+   "heading": "Artigo 25.º — Vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Vigência\n\nO presente decreto legislativo regional produz os seus efeitos com a entrada em vigor do diploma que o regulamentará."
+  },
+  "886820402": {
+   "fragment_id": "886722942",
+   "type": 11,
+   "heading": "Artigo 13.º — Introdução de espécies",
+   "in_force_from": "2012-04-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 168.º do/a [Decreto Legislativo Regional n.º 15/2012/A - Diário da República n.º 66/2012, Série I de 2012-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2012-553893), em vigor a partir de 2012-04-03"
+   ],
+   "markdown": "###### Artigo 13.º — Introdução de espécies\n\n1 - A introdução, por plantação ou sementeira, de espécies florestais inexistentes na Região constitui contra-ordenação punível com coima de 5000$00 a 30000$00 por unidade.\n\n2 - A negligência é sempre punida.\n\n> Revogado pelo/a Artigo 168.º do/a [Decreto Legislativo Regional n.º 15/2012/A - Diário da República n.º 66/2012, Série I de 2012-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2012-553893), em vigor a partir de 2012-04-03"
+  },
+  "886819982": {
+   "fragment_id": "886722957",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 19 de Fevereiro de 1998.\n\nO Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.\n\nAssinado em Angra do Heroísmo em 10 de Março de 1998.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa."
+  }
+ }
+}

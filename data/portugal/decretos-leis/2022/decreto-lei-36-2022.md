@@ -1,0 +1,262 @@
+---
+schema_version: '1.0'
+id: pt:dre:183691731:por
+title: Decreto-Lei n.º 36/2022
+short_title: null
+summary: Estabelece um regime excecional e temporário no âmbito do aumento dos preços com impacto em contratos públicos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Infraestruturas e Habitação
+official_number: 36/2022
+official_date: null
+publication_date: '2022-05-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 98/2022, Série I de 2022-05-20
+  number: '98'
+  series: I
+  supplement: null
+  pages: 11 - 13
+  pdf_url: https://files.diariodarepublica.pt/1s/2022/05/09800/0001100013.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-07-01'
+version_history:
+  file: decreto-lei-36-2022.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2022-05-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-10-05'
+    amending: pt:dre:201838710:por
+    amending_title: Decreto-Lei n.º 67/2022
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+  - date: '2023-07-01'
+    amending: pt:dre:215066007:por
+    amending_title: Decreto-Lei n.º 49-A/2023
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 8.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/36/2022/p/cons/20230630/pt/html
+  oj: null
+  dre: '183691731'
+  dre_path: /dr/detalhe/decreto-lei/36-2022-183691731
+  internal: pt:dre:183691731:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2022-183691731
+  metadata_url: https://data.dre.pt/eli/dec-lei/36/2022/p/cons/20230630/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2022-201957079
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2022-201957079
+  retrieved_at: '2026-10-22T12:53:01Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 9222fbc6aa3066facc46aa2788da7b214ae487a6a9c8c14d214d822eb5a7b569
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:53:01Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-36-2022.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Adjudicação de Obras Públicas
+- Aquisição de Bens e Serviços
+- Aquisição de Equipamento
+- Financiamento
+- Construção Civil
+- Contrato
+- Empreitada de Obras Públicas
+- Empreiteiro de Obras Públicas
+- Matéria-Prima
+- Obras Públicas
+- Política de Preços
+- Preço
+- Prorrogação de Prazo
+- Regime Jurídico
+- Contratação Pública
+relationships:
+- type: amended_by
+  target: pt:dre:201838710:por
+  label: Altera Artigo 6.º; Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2022-201838710
+  date: '2022-10-04'
+- type: amended_by
+  target: pt:dre:215066007:por
+  label: Altera Artigo 3.º; Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-a-2023-215066007
+  date: '2023-06-30'
+- type: cites
+  target: pt:dre:240800:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/6/2004/01/06/p/dre
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:53:01Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 36/2022
+
+Decreto-Lei n.º 36/2022
+
+de 20 de maio
+
+Sumário: Estabelece um regime excecional e temporário no âmbito do aumento dos preços com impacto em contratos públicos.
+
+A situação excecional nas cadeias de abastecimento e as circunstâncias migratórias resultantes da pandemia da doença COVID-19, da crise global na energia e dos efeitos resultantes da guerra na Ucrânia resultou em aumentos abruptos dos preços das matérias-primas, dos materiais e da mão de obra, com especial relevo no setor da construção, o que tem gerado graves impactos na economia.
+
+Os aumentos em causa poderão ser observados através da comparação homóloga dos índices de preços de materiais e de custos da mão de obra, referentes a dezembro de 2021 face ao mesmo mês de 2020, índices estes calculados pela Comissão de Índices e Fórmulas de Empreitadas, e aprovados pelo conselho diretivo do Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P.
+
+Salienta-se, no período em questão e a título de exemplo, que o aço em varão e perfilados aumentou 41,7 %, a chapa de aço macio, 44,0 %, o fio de cobre revestido, 38,5 %, betumes a granel, 61,2 %, derivados de madeira, 65,2 %, vidro, 28,1 %, e tubo de PVC, 71,3 %.
+
+Quanto à mão de obra, considerando as treze principais profissões elencadas para efeitos de revisão de preços, constata-se igualmente, no mesmo período, um aumento médio de 6,7 %.
+
+Verifica-se, entretanto, que existe o recurso generalizado às fórmulas-tipo de revisão de preços nos contratos públicos que, pela sua natureza, não são suscetíveis de traduzir suficientemente os impactos nos custos dos trabalhos concretos e mais específicos incluídos no âmbito desses contratos, de variações anormalmente intensas e rápidas dos preços dos diversos fatores.
+
+Consequentemente, esta situação exige a aplicação de medidas extraordinárias e urgentes e a prática dos atos adequados e indispensáveis para garantir as condições de execução e conclusão das obras públicas, sob pena da prossecução do interesse público ficar comprometida pela não realização ou conclusão das obras programadas, com impactos na execução dos planos e programas de apoio financeiro instituídos para a recuperação da economia, bem como na sustentabilidade e viabilidade dos operadores económicos.
+
+Torna-se, assim, necessário estabelecer medidas excecionais e temporárias de revisão de preços em resposta ao aumento de custos com matérias-primas, materiais, mão de obra e equipamentos de apoio, com impacto em contratos públicos, especialmente nos contratos de empreitadas de obras públicas, que venham a ser celebrados ou já em execução.
+
+Para tal, procede-se à criação de um regime excecional em matéria de revisão de preços, que concilie a celeridade procedimental exigida com a defesa dos interesses do Estado e a rigorosa transparência nos gastos públicos.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional de Municípios Portugueses, a Comissão de Índices e Fórmulas de Empreitadas e a Administração do Porto de Lisboa, S. A.
+
+Foi promovida a audição do Conselho Nacional do Consumo.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Resolução do Conselho de Ministros n.º 87/2022 - Diário da República n.º 192/2022, Série I de 2022-10-04](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/87-2022-201838711) extende a vigência do presente decreto-lei, que estabelece um regime excecional e temporário no âmbito do aumento dos preços com impacto em contratos públicos, até ao dia 30 de junho de 2023, e a aplicação deste regime aos pedidos de revisão extraordinária de preços apresentados, até à mesma data, por empreiteiros de obras públicas.
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei estabelece um regime excecional e temporário de revisão de preços e de adjudicação em resposta ao aumento abrupto e excecional dos custos com matérias-primas, materiais, mão de obra e equipamentos de apoio, com impacto em contratos públicos, especialmente nos contratos de empreitadas de obras públicas.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - O presente decreto-lei é aplicável aos contratos públicos, em execução ou a celebrar, e aos procedimentos de formação de contratos públicos iniciados ou a iniciar.
+
+2 - O disposto no presente decreto-lei é aplicável, com as necessárias adaptações, aos contratos públicos de aquisição de bens e, nos casos de aquisições de serviços, às categorias de contratos determinados por portaria dos membros do Governo responsáveis pela área das finanças e pelo setor de atividade.
+
+3 - O disposto no presente decreto-lei é, ainda, aplicável aos contratos que, independentemente da natureza jurídica do dono da obra, estejam sujeitos a regras de contratação pública.
+
+4 - O disposto no presente decreto-lei não é aplicável aos sectores cujos cocontratantes tenham sido abrangidos por medidas específicas de apoio, sempre que a revisão extraordinária de preços seja destinada a compensar os efeitos do aumento dos custos das mesmas matérias-primas, materiais, mão de obra e equipamentos de apoio já apoiados por medidas específicas.
+
+###### Artigo 3.º — Revisão extraordinária de preços nos contratos de empreitada de obras públicas
+
+1 - O empreiteiro pode apresentar um pedido de revisão extraordinária de preços desde que um determinado material, tipo de mão de obra ou equipamento de apoio:
+
+a) Represente, ou venha a representar durante a execução, pelo menos 3 % do preço contratual; e
+
+b) A taxa de variação homóloga do custo seja igual ou superior a 20 %.
+
+2 - O pedido a que se refere o número anterior deve:
+
+a) Ser apresentado ao dono da obra, até à receção provisória da obra;
+
+b) Identificar, de forma devidamente fundamentada, a forma de revisão extraordinária de preços de entre os métodos previstos no artigo 5.º do Decreto-Lei n.º 6/2004, de 6 de janeiro, na sua redação atual, que melhor se adeque à empreitada em execução.
+
+3 - O dono da obra pronuncia-se no prazo de 20 dias, a contar da receção do pedido, sob pena de aceitação tácita, sobre a forma de revisão extraordinária de preços proposta, podendo, em caso de não aceitação do mesmo, exclusiva e alternativamente:
+
+a) Apresentar, de forma devidamente fundamentada, uma contraproposta;
+
+b) Realizar a revisão de preços segundo a forma contratualmente estabelecida, sendo, para os casos de revisão por fórmula, os coeficientes de atualização (Ct) resultantes dos respetivos cálculos multiplicados por um fator de compensação de 1,1, para pedidos realizados até 30 de junho de 2023, ou 1,04, para pedidos realizados a partir de 1 de julho de 2023;
+
+c) Incluir determinados materiais e mão de obra com revisão calculada pelo método de garantia de custos, aplicando-se aos restantes a fórmula constante do contrato, sem qualquer majoração.
+
+4 - Se não houver acordo sobre a forma de revisão extraordinária em causa, os preços são revistos com base na contraproposta do dono da obra, ou, se esta não existir, nos termos das alíneas b) e c) do número anterior.
+
+5 - A forma, de revisão extraordinária de preços aplica-se a todos os materiais, tipos de mão de obra ou equipamentos de apoio existentes na obra.
+
+6 - A revisão extraordinária de preços é aplicada a todo o período de execução da empreitada.
+
+7 - A correção das revisões de preços já apuradas segundo a forma de revisão de preços estabelecida no contrato é efetuada no mês seguinte à determinação da forma de revisão de preços.
+
+8 - A revisão extraordinária de preços prevista no presente artigo afasta a aplicação da revisão ordinária prevista nas cláusulas específicas constantes do contrato ao abrigo do Decreto-Lei n.º 6/2004, de 6 de janeiro, na sua redação atual.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 49-A/2023 - Diário da República n.º 126/2023, 1º Suplemento, Série I de 2023-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-a-2023-215066007), em vigor a partir de 2023-07-01
+
+###### Artigo 4.º — Prorrogação de prazos
+
+1 - Quando se verifique atraso no cumprimento do plano de trabalhos, por impossibilidade de o empreiteiro obter materiais necessários para a execução da obra, por motivos que comprovadamente não lhe sejam imputáveis, o dono de obra pode aceitar, no prazo de 20 dias a contar da receção do pedido, sob pena de aceitação tácita, prorrogar o prazo de execução, pelo tempo estritamente necessário, sem qualquer penalização e sem qualquer pagamento adicional ao empreiteiro.
+
+2 - Nos casos previstos no número anterior, o empreiteiro submete à aprovação do dono da obra um novo plano de pagamentos reajustado, que serve de base ao cálculo da revisão de preços dos trabalhos por executar.
+
+###### Artigo 5.º — Adjudicação excecional acima do preço base
+
+Durante a vigência do presente decreto-lei, as entidades adjudicantes podem recorrer ao disposto no n.º 6 do artigo 70.º do Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, ainda que essa possibilidade não se encontre prevista no programa do procedimento, sem prejuízo dos demais pressupostos e requisitos legais.
+
+###### Artigo 6.º — Financiamento
+
+A revisão de preços nas entidades da administração central realizada ao abrigo do presente decreto-lei é suportada por verbas inscritas no programa orçamental da respetiva área setorial, dentro da dotação inicial aprovada pelo Orçamento do Estado de 2022 e a aprovar no Orçamento do Estado de 2023, sem prejuízo de eventuais reforços a realizar nos termos gerais aplicáveis.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 67/2022 - Diário da República n.º 192/2022, Série I de 2022-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2022-201838710), em vigor a partir de 2022-10-05
+
+###### Artigo 7.º — Aplicação subsidiária
+
+Em tudo quanto não estiver regulado no presente decreto-lei em matéria de revisão de preços, é subsidiariamente aplicável o Decreto-Lei n.º 6/2004, de 6 de janeiro, na sua redação atual, com as necessárias adaptações.
+
+###### Artigo 8.º — Entrada em vigor e vigência
+
+1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e vigora até 31 de dezembro de 2023.
+
+2 - O regime previsto no presente decreto-lei é aplicável a todos os pedidos efetuados nos termos do n.º 1 do artigo 3.º até 31 de dezembro de 2023.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 49-A/2023 - Diário da República n.º 126/2023, 1º Suplemento, Série I de 2023-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-a-2023-215066007), em vigor a partir de 2023-07-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 67/2022 - Diário da República n.º 192/2022, Série I de 2022-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2022-201838710), em vigor a partir de 2022-10-05
+
+Visto e aprovado em Conselho de Ministros de 12 de maio de 2022. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia - António José da Costa Silva - Marina Sola Gonçalves - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
+
+Promulgado em 17 de maio de 2022.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 18 de maio de 2022.
+
+Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+115342391

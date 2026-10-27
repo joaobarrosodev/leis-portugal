@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31996R1577:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996R1577-20040501",
+ "dre_path": null,
+ "source_lastmod": "2004-05-01",
+ "versions": [
+  {
+   "date": "1996-08-16",
+   "future": false,
+   "celex": "31996R1577",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fe4f8d2e97cf4637",
+    "816e61d113d4b69b",
+    "9cc948cdac6f84f8",
+    "3a28d2edff7ad0c2",
+    "f3eed8c4278e6abc",
+    "d4ad40190ef4ff42",
+    "696371b023941b04",
+    "abe93c29f9f9053d"
+   ]
+  },
+  {
+   "date": "2003-10-28",
+   "future": false,
+   "celex": "01996R1577-20031028",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º"
+   ],
+   "fragments": [
+    "d083c40501118fd2"
+   ]
+  }
+ ],
+ "fragments": {
+  "fe4f8d2e97cf4637": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 1577/96 do Conselho de 30 de Julho de 1996 que institui uma medida específica a favor de determinadas leguminosas para grão** *Jornal Oficial nº L 206 de 16/08/1996 p. 0004 - 0005*\n\nREGULAMENTO (CE) Nº 1577/96 DO CONSELHO de 30 de Julho de 1996 que institui uma medida específica a favor de determinadas leguminosas para grão\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, e, nomeadamente, os seus artigos 42º e 43º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que o Regulamento (CEE) nº 762/89 (4) instaurou uma medida específica a favor de determinadas leguminosas para grão; que a vigência deste regulamento termina em 30 de Junho de 1996;\n\nConsiderando que a manutenção das culturas de leguminosas para grão, como as lentilhas, o grão-de-bico e a ervilhaca, se reveste de interesse económico para a Comunidade;\n\nConsiderando que o objectivo da manutenção das referidas culturas pode ser atingido através da concessão de uma ajuda por hectare; que o montante da ajuda deve ser fixado num nível que permita satisfazer esse objectivo; que o nível actual da ajuda, de 181 ecus por hectare, é adequado;\n\nConsiderando que o Regulamento (CEE) nº 1765/92 do Conselho, de 30 de Junho de 1992, que institui um sistema de apoio aos produtores de determinadas culturas arvenses (5), estabeleceu limites para as superfícies elegíveis para a ajuda compensatória, nomeadamente no sector das oleaginosas; que a cultura de leguminosas para grão constitui uma alternativa válida e evita um desequilíbrio dos mercados comunitários; que, todavia, é importante evitar uma extensão demasiado grande desta cultura; que a fixação duma superfície máxima garantida de 400 000 hectares satisfaz esse objectivo;\n\nConsiderando que o Regulamento (CEE) nº 762/89 determina a aplicação de sanções à ajuda a pagar na campanha que se segue à superação da superfície máxima garantida; que o presente regulamento determina a aplicação da sanção na campanha em curso, se a superfície máxima garantida for ultrapassada; que a Comissão deve adoptar medidas transitórias de modo a evitar a aplicação de duas sanções durante o primeiro ano de aplicação, ou seja de 1 de Julho de 1996 a 30 de Junho de 1997,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "816e61d113d4b69b": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nÉ instituída uma ajuda para a produção das seguintes leguminosas para grão:\n\na) Lentilhas do código NC 0713 40 90, outras;\n\nb) Grão-de-bico do código NC 0713 20 90, outro;\n\nc) Ervilhaca das espécies Vicia sativa L. e Vicia ervilla Willd., do código NC ex 0713 90 90, outras."
+  },
+  "9cc948cdac6f84f8": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. A ajuda concedida destina-se à produção das leguminosas para grão referidas no artigo 1º, por campanha de comercialização. A campanha inicia-se em 1 de Julho e termina em 30 de Junho.\n\nA parcela de cultura que for objecto de um pedido de ajuda por hectare no âmbito de um regime financiado nos termos do nº 2 do artigo 1º do Regulamento (CEE) nº 729/70 (6) é excluída do benefício do pagamento da ajuda prevista pelo presente regime.\n\n2. Sem prejuízo do disposto no artigo 3º, o montante da ajuda por hectare de superfície semeada e colhida é fixado em 181 ecus por hectare."
+  },
+  "3a28d2edff7ad0c2": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nSe as superfícies destinadas à produção das leguminosas para grão referidas no artigo 1º excederem uma superfície máxima garantida de 400 000 hectares, o montante da ajuda será reduzido proporcionalmente durante a campanha em causa."
+  },
+  "f3eed8c4278e6abc": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. A ajuda à produção instituída pelo presente regulamento é considerada uma medida de intervenção destinada à regularização dos mercados agrícolas, na acepção do nº 1 do artigo 3º do Regulamento (CEE) nº 729/70.\n\n2. É aditado o seguinte travessão ao nº 1, alínea a), do artigo 1º do Regulamento (CEE) nº 3508/92 (7):\n\n«- à medida específica a favor de certas leguminosas para grão, estabelecida pelo Regulamento (CE) nº 1575/96 (*),\n\n(*) JO nº L 206 de 16. 8. 1996, p. 1.»"
+  },
+  "d4ad40190ef4ff42": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Os Estados-membros comunicarão à Comissão, até 15 de Setembro de cada campanha de comercialização, as superfícies em relação às quais tenha sido apresentado um pedido de ajuda.\n\n2. Os Estados-membros comunicarão à Comissão, até 1 de Novembro de cada campanha de comercialização, as superfícies que devem beneficiar da ajuda."
+  },
+  "696371b023941b04": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. A Comissão adoptará as normas de execução do presente regulamento de acordo com o procedimento previsto no artigo 17º do Regulamento (CE) nº 603/95 (8). De acordo com esse procedimento, a Comissão determinará a superação da superfície máxima garantida e o montante final da ajuda até 15 de Novembro da campanha de comercialização em causa.\n\n2. Se forem necessárias medidas transitórias para facilitar a passagem do regime em vigor ao regime estabelecido pelo presente regulamento, essas medidas serão tomadas de acordo com o procedimento referido no nº 1.\n\n3. Após três campanhas de comercialização do regime estabelecido no presente regulamento, a Comissão apresentará um relatório sobre a aplicação, eventualmente acompanhado das propostas adequadas."
+  },
+  "abe93c29f9f9053d": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é aplicável a partir da campanha de 1996/1997.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 30 de Julho de 1996.\n\nPelo Conselho\n\nO Presidente\n\nH. COVENEY\n\n(1) JO nº C 125 de 27. 4. 1996, p. 5.\n\n(2) JO nº C 166 de 10. 6. 1996.\n\n(3) JO nº C 204 de 15. 7. 1996, p. 57.\n\n(4) JO nº L 80 de 23. 3. 1989, p. 76. Regulamento alterado pelo Regulamento (CEE) nº 2064/92 (JO nº L 215 de 30. 7. 1992, p. 47).\n\n(5) JO nº L 181 de 1. 7. 1992, p. 12. Regulamento alterado pelo Regulamento (CE) nº 1575/96 (ver página 1 do presente Jornal Oficial).\n\n(6) JO nº L 94 de 28. 4. 1970, p. 13. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) nº 1287/95 (JO nº L 125 de 8. 6. 1995, p. 1).\n\n(7) JO nº L 355 de 5. 12. 1992, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) nº 3235/94 (JO nº L 338 de 28. 12. 1994, p. 16).\n\n(8) JO nº L 63 de 21. 3. 1995, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) nº 1347/95 (JO nº L 131 de 15. 6. 1995, p. 1)."
+  },
+  "d083c40501118fd2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1996R1577 — PT — 01.05.2004 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31996R1577) [REGULAMENTO (CE) N.º 1577/96 DO CONSELHO](http://publications.europa.eu/resource/celex/31996R1577) [de 30 de Julho de 1996](http://publications.europa.eu/resource/celex/31996R1577) [que institui uma medida específica a favor de determinadas leguminosas para grão](http://publications.europa.eu/resource/celex/31996R1577) (JO L 206, 16.8.1996, p.4)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1782/2003 do Conselho de 29 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1782) — L 270 — 1 — 21.10.2003"
+  }
+ }
+}

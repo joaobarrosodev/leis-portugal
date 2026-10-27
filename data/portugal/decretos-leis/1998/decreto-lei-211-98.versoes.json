@@ -1,0 +1,636 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:423245:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-177564296",
+ "dre_path": "/dr/detalhe/decreto-lei/211-1998-423245",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-07-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "177564404",
+    "177564405",
+    "177564406",
+    "177564407",
+    "177564408",
+    "177564409",
+    "177564410",
+    "177564411",
+    "177564412",
+    "177564413",
+    "177564414",
+    "177564415",
+    "177564416",
+    "177564417",
+    "177564418",
+    "177564419",
+    "177564420",
+    "177564421",
+    "177564422",
+    "177564423",
+    "177564424",
+    "177564425",
+    "177564426",
+    "177564427",
+    "177564428"
+   ]
+  },
+  {
+   "date": "2001-01-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:315158:por",
+     "title": "Decreto-Lei n.º 19/2001",
+     "published": "2001-01-30",
+     "dre_path": "/dr/detalhe/decreto-lei/19-2001-315158"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "177564404",
+    "177564405",
+    "177564434",
+    "177564435",
+    "177564408",
+    "177564409",
+    "177564410",
+    "177564411",
+    "177564412",
+    "177564413",
+    "177564436",
+    "177564415",
+    "177564416",
+    "177564437",
+    "177564418",
+    "177564419",
+    "177564420",
+    "177564421",
+    "177564422",
+    "177564423",
+    "177564424",
+    "177564425",
+    "177564426",
+    "177564427",
+    "177564428",
+    "177564429"
+   ]
+  },
+  {
+   "date": "2007-09-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:683003:por",
+     "title": "Decreto-Lei n.º 309-A/2007",
+     "published": "2007-09-07",
+     "dre_path": "/dr/detalhe/decreto-lei/309-a-2007-683003"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Revoga Artigo 19.º"
+   ],
+   "fragments": [
+    "177564404",
+    "177564405",
+    "177564470",
+    "177564471",
+    "177564472",
+    "177564409",
+    "177564410",
+    "177564411",
+    "177564412",
+    "177564413",
+    "177564436",
+    "177564415",
+    "177564416",
+    "177564437",
+    "177564418",
+    "177564419",
+    "177564420",
+    "177564421",
+    "177564422",
+    "177564423",
+    "177564424",
+    "177564425",
+    "177564426",
+    "177564469",
+    "177564428",
+    "177564429"
+   ]
+  },
+  {
+   "date": "2014-11-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:58585556:por",
+     "title": "Decreto-Lei n.º 157/2014",
+     "published": "2014-10-24",
+     "dre_path": "/dr/detalhe/decreto-lei/157-2014-58585556"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "177564404",
+    "177564405",
+    "177564473",
+    "177564471",
+    "177564472",
+    "177564409",
+    "177564410",
+    "177564411",
+    "177564412",
+    "177564413",
+    "177564474",
+    "177564415",
+    "177564416",
+    "177564437",
+    "177564418",
+    "177564419",
+    "177564420",
+    "177564421",
+    "177564422",
+    "177564423",
+    "177564424",
+    "177564425",
+    "177564426",
+    "177564469",
+    "177564428",
+    "177564429"
+   ]
+  },
+  {
+   "date": "2015-06-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67356344:por",
+     "title": "Decreto-Lei n.º 100/2015",
+     "published": "2015-06-02",
+     "dre_path": "/dr/detalhe/decreto-lei/100-2015-67356344"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "177564404",
+    "177564405",
+    "177564473",
+    "177564471",
+    "177564472",
+    "177564409",
+    "177566375",
+    "177564411",
+    "177564412",
+    "177564413",
+    "177566376",
+    "177564415",
+    "177564416",
+    "177564437",
+    "177564418",
+    "177564419",
+    "177564420",
+    "177564421",
+    "177564422",
+    "177564423",
+    "177564424",
+    "177564425",
+    "177564426",
+    "177564469",
+    "177564428",
+    "177564429"
+   ]
+  },
+  {
+   "date": "2022-01-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:180034738:por",
+     "title": "Declaração de Retificação n.º 8/2022",
+     "published": "2022-03-07",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/8-2022-180034738"
+    },
+    {
+     "id": "pt:dre:177528433:por",
+     "title": "Decreto-Lei n.º 12/2022",
+     "published": "2022-01-12",
+     "dre_path": "/dr/detalhe/decreto-lei/12-2022-177528433"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 1.º",
+    "Retifica Artigo 2.º",
+    "Retifica Artigo 5.º",
+    "Retifica Artigo 6.º",
+    "Retifica Artigo 9.º",
+    "Retifica Artigo 12.º",
+    "Retifica Artigo 14.º",
+    "Retifica Artigo 15.º",
+    "Retifica Artigo 18.º",
+    "Adita Artigo 19.º-A"
+   ],
+   "fragments": [
+    "177564404",
+    "177564405",
+    "177564473",
+    "177564471",
+    "177564472",
+    "177564409",
+    "177566375",
+    "177564411",
+    "177564412",
+    "177564413",
+    "177566376",
+    "177564415",
+    "177564416",
+    "177564437",
+    "177564418",
+    "177564419",
+    "177564420",
+    "177564421",
+    "177564422",
+    "177564423",
+    "177564424",
+    "177564425",
+    "177564426",
+    "177564469",
+    "177566377",
+    "177566378",
+    "177564429"
+   ]
+  }
+ ],
+ "fragments": {
+  "177564404": {
+   "fragment_id": "177564297",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 211/98\n\nde 16 de Julho\n\nAs pequenas e médias empresas e as microempresas assumem um papel relevante na estrutura económico-empresarial portuguesa e na dinamização da economia. Entre outros aspectos preponderantes, contribuem para a atenuação dos ciclos económicos e para a criação e estabilização de emprego e de riqueza.\n\nTem-se presente o conjunto de factores que, de forma geral, enquadram o processo de acesso, por aquelas empresas, aos financiamentos necessários e adequados à prossecução das suas actividades. Estas empresas, pela sua dimensão, encontram factores muito específicos no acesso ao crédito, nomeadamente no que se refere às condições de preço e de prazo dos financiamentos obtidos. Tais factores influenciam as suas relações com empresas de maior dimensão, no plano nacional e no contexto internacional, mas sobretudo com as empresas de semelhante dimensão no âmbito da União Europeia. Influenciam, igualmente, a sua capacidade de expansão e competitividade.\n\nTendo presente toda esta envolvente específica, visa-se criar um mecanismo adequado para que a dimensão da empresa possa ser menos relevante como factor a considerar na obtenção dos respectivos financiamentos, procurando-se, deste modo, melhorar a competitividade das empresas mencionadas, especialmente no que se refere às relações com mercados externos, obtendo-se, reflexamente, um factor de acréscimo de competitividade da economia nacional.\n\nPara tal, enquadra-se a actividade de caucionamento mútuo, criando, como veículo privilegiado de exercício da actividade, as sociedades de garantia mútua. Consagra-se um sistema largamente, e desde há muito, difundido por outros países da União Europeia.\n\nPretende-se, fundamentalmente, que as sociedades de garantia mútua possam desempenhar papel relevante nas condições de obtenção de financiamentos pelas pequenas e médias empresas e pelas microempresas, tanto junto do sistema financeiro, em geral, como junto do mercado de capitais, em particular. Para tanto, as sociedades de garantia mútua poderão conceder garantias às empresas suas accionistas e estudar soluções de acesso conjunto ao mercado de capitais, potenciando-se melhorias nas condições de obtenção de financiamentos, se confrontadas com soluções autónomas.\n\nTeve-se presente a experiência levada a cabo em Portugal, pela SPGM - Sociedade de Investimento, S. A., e a adesão das empresas ao sistema. Pretende-se agora que o desenvolvimento do sistema de garantia mútuo fique essencialmente a cargo da iniciativa privada, através das empresas, empresários e das associações representativas de umas e outros.\n\nForam ouvidos o Banco de Portugal e o Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento.\n\nAssim, nos termos da alínea a) do n.º 1 do artigo 198.º e do n.º 5 do artigo 112.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "177564405": {
+   "fragment_id": "177564298",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "177564406": {
+   "fragment_id": "177564299",
+   "type": 11,
+   "heading": "Artigo 1.º — Noção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Noção\n\nAs sociedades de garantia mútua são sociedades financeiras constituídas sob a forma de sociedade anónima que têm por objecto a realização das operações financeiras e a prestação dos serviços conexos previstos neste diploma em benefício de pequenas e médias empresas e de microempresas."
+  },
+  "177564407": {
+   "fragment_id": "177564300",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto\n\n1 - As sociedades de garantia mútua podem realizar as operações e prestar os serviços seguintes:\n\na) Concessão de garantias destinadas a assegurar o cumprimento de obrigações contraídas por accionistas beneficiários, designadamente garantias acessórias de contratos de mútuo;\n\nb) Promoção, em favor dos accionistas beneficiários, da obtenção de recursos financeiros junto de instituições de crédito ou de outras instituições financeiras, nacionais ou estrangeiras;\n\nc) Participação na colocação, em mercado primário ou em mercado secundário, de acções, obrigações ou de quaisquer outros valores mobiliários, bem como de títulos de crédito emitidos nos termos do Decreto-Lei n.º 181/92, de 22 de Agosto, desde que a entidade emitente seja accionista beneficiário ou se encontrem previstos no n.º 2, e prestação de serviços correlativos;\n\nd) Prestação de serviços de consultoria de empresas, aos accionistas beneficiários, em áreas associadas à gestão financeira, designadamente em matéria de estrutura do capital, de estratégia empresarial e de questões conexas, bem como no domínio da fusão, cisão e compra ou venda de empresas.\n\n2 - Para além dos valores mobiliários emitidos pelos accionistas beneficiários, as sociedades de garantia mútua podem participar na colocação de valores mobiliários que, nos termos das respectivas condições de emissão, confiram direito à subscrição, sejam convertíveis ou permutáveis por acções representativas do capital social de accionistas beneficiários.\n\n3 - As sociedades de garantia mútua não podem tomar firme, total ou parcialmente, colocações de valores mobiliários em que participem, só podendo adquirir para carteira própria os valores mobiliários referidos na alínea a) do n.º 1 do artigo 292.º e no n.º 1 do artigo 294.º, ambos do Código do Mercado de Valores Mobiliários, e, de acordo com as regras que venham a ser estabelecidas pelo Banco de Portugal, outros que este autorize.\n\n4 - As sociedades de garantia mútua só podem realizar operações e prestar serviços em benefício de accionistas beneficiários, para o desenvolvimento das respectivas actividades económicas."
+  },
+  "177564408": {
+   "fragment_id": "177564301",
+   "type": 11,
+   "heading": "Artigo 3.º — Accionistas beneficiários e accionistas promotores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Accionistas beneficiários e accionistas promotores\n\n1 - As sociedades de garantia mútua têm accionistas beneficiários e, desde que os respectivos estatutos o prevejam, podem ter accionistas promotores.\n\n2 - Só podem ser accionistas beneficiários pequenas e médias empresas, microempresas ou entidades representativas de qualquer das categorias de empresas referidas.\n\n3 - Os estatutos das sociedades de garantia mútua devem definir com clareza quem pode adquirir a qualidade de accionista beneficiário.\n\n4 - As sociedades de garantia mútua não podem realizar operações nem prestar serviços em benefício de accionistas promotores.\n\n5 - Os accionistas promotores não podem deter, individual ou conjuntamente, directa ou indirectamente, uma participação superior a 50% do capital social ou dos direitos de voto da sociedade de garantia mútua, excepto nos três primeiros anos contados da data de constituição da sociedade, período durante o qual aquela percentagem será de 75%."
+  },
+  "177564409": {
+   "fragment_id": "177564302",
+   "type": 11,
+   "heading": "Artigo 4.º — Firma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Firma\n\nA firma destas sociedades deve incluir a expressão «sociedade de garantia mútua» ou a abreviatura SGM, as quais, ou outras que com elas se confundam, não poderão ser usadas por outras entidades que não as previstas no presente diploma."
+  },
+  "177564410": {
+   "fragment_id": "177564303",
+   "type": 11,
+   "heading": "Artigo 5.º — Representação do capital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Representação do capital\n\n1 - As acções representativas do capital social das sociedades de garantia mútua são obrigatoriamente nominativas.\n\n2 - As contas de registo ou de depósito nas quais se encontrem registadas ou depositadas acções de sociedades de garantia mútua devem, para além das menções e factos exigidos nos termos gerais, revelar a qualidade de accionista beneficiário ou de accionista promotor."
+  },
+  "177564411": {
+   "fragment_id": "177564304",
+   "type": 11,
+   "heading": "Artigo 6.º — Realização do capital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Realização do capital\n\nO capital social das sociedades de garantia mútua só pode ser realizado através de entradas em dinheiro, sem prejuízo da possibilidade de serem efectuados aumentos do capital social na modalidade de incorporação de reservas, nos termos gerais."
+  },
+  "177564412": {
+   "fragment_id": "177564305",
+   "type": 11,
+   "heading": "Artigo 7.º — Autorização e revogação da autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Autorização e revogação da autorização\n\n1 - As sociedades de garantia mútua não podem ser constituídas por um número de accionistas beneficiários inferior a 20.\n\n2 - Para além dos fundamentos previstos nos termos gerais, a autorização das sociedades de garantia mútua pode também ser revogada se:\n\na) Por um período superior a 18 meses, o número de accionistas beneficiários for inferior a 20;\n\nb) A assembleia geral não aprovar as condições gerais de concessão das garantias, no prazo de 180 dias contado da data de constituição da sociedade."
+  },
+  "177564413": {
+   "fragment_id": "177564306",
+   "type": 1,
+   "heading": "Capítulo II — Actividade das sociedades de garantia mútua",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Actividade das sociedades de garantia mútua"
+  },
+  "177564414": {
+   "fragment_id": "177564307",
+   "type": 11,
+   "heading": "Artigo 8.º — Recursos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Recursos financeiros\n\nConstituem recursos das sociedades de garantia mútua, entre outros:\n\na) Financiamentos concedidos por instituições de crédito ou por outras instituições financeiras, nacionais ou estrangeiras;\n\nb) Suprimentos e outras formas de financiamento concedido pelos accionistas, nos termos legalmente admissíveis;\n\nc) Emissão de obrigações de qualquer espécie, nas condições previstas na lei."
+  },
+  "177564415": {
+   "fragment_id": "177564308",
+   "type": 11,
+   "heading": "Artigo 9.º — Reservas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Reservas\n\n1 - Um montante não inferior a 10% dos resultados antes de impostos apurados em cada exercício pelas sociedades de garantia mútua é destinado à constituição de um fundo técnico de provisão até ao limite de 10% do saldo da carteira de garantias concedidas.\n\n2 - O fundo técnico de provisão previsto no número anterior destina-se à cobertura de prejuízos decorrentes da sinistralidade da carteira de garantias.\n\n3 - Uma fracção não inferior a 10% dos lucros líquidos apurados em cada exercício pelas sociedades de garantia mútua deve ser destinada à formação de uma reserva legal, até ao limite do capital social.\n\n4 - O Banco de Portugal poderá elevar qualquer das duas percentagens referidas no n.º 1."
+  },
+  "177564416": {
+   "fragment_id": "177564309",
+   "type": 11,
+   "heading": "Artigo 10.º — Prestação de garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Prestação de garantias\n\n1 - As sociedades de garantia mútua não podem conceder garantias a favor dos accionistas beneficiários enquanto não se encontrar integralmente realizada a participação cuja titularidade seja exigida, nos termos do n.º 3 do artigo 13.º, como condição da sua obtenção.\n\n2 - Entre o momento de concessão da garantia e o da respectiva extinção, as acções que integrem a participação cuja titularidade seja exigida como condição de obtenção daquela garantia não poderão ser objecto de transmissão, excepto nos casos previstos no n.º 4, e serão dadas em penhor em benefício da sociedade de garantia mútua como contragarantia da garantia prestada por aquela sociedade.\n\n3 - Quer a intransmissibilidade quer a constituição de penhor ficam, nos termos gerais, sujeitos a averbamento nas contas de registo ou de depósito em que as acções da sociedade de garantia mútua objecto daquela limitação e daquele ónus se encontrem registadas ou depositadas.\n\n4 - No caso previsto no n.º 2, as acções podem ser objecto de transmissão, nos termos que os estatutos da sociedade de garantia mútua venham a estabelecer, se se verificar alguma das seguintes situações:\n\na) Cisão ou fusão do accionista beneficiário;\n\nb) Cessão da posição contratual no negócio do qual resultem as obrigações garantidas;\n\nc) Falecimento do accionista beneficiário."
+  },
+  "177564417": {
+   "fragment_id": "177564310",
+   "type": 11,
+   "heading": "Artigo 11.º — Regime aplicável às garantias concedidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regime aplicável às garantias concedidas\n\n1 - Para efeitos do cômputo do ratio de solvabilidade, as garantias prestadas pelas sociedades de garantia mútua são ponderadas nos mesmos termos que as garantias prestadas por instituições de crédito da zona A.\n\n2 - A condição de sócio, inicial ou superveniente, da entidade credora da obrigação garantida não afectará o regime jurídico da garantia concedida, a qual se rege pelo disposto no presente diploma, pelas normas legais e regulamentares que, nos termos gerais, lhe sejam aplicáveis e pelas condições gerais de concessão das garantias fixadas nos termos do n.º 3 do artigo 13.º"
+  },
+  "177564418": {
+   "fragment_id": "177564311",
+   "type": 11,
+   "heading": "Artigo 12.º — Não cumprimento de obrigações garantidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Não cumprimento de obrigações garantidas\n\n1 - Em caso de não cumprimento, por algum dos accionistas beneficiários, de obrigação que se encontre garantida pela sociedade de garantia mútua, pode esta, nos termos gerais, executar o penhor constituído, nos termos do n.º 2 do artigo 10.º, sobre as acções do accionista beneficiário.\n\n2 - Independentemente de convenção nesse sentido entre a sociedade de garantia mútua e o accionista beneficiário faltoso, podem as acções objecto do penhor ser adjudicadas àquela sociedade ou ser vendidas extrajudicialmente.\n\n3 - Nos casos previstos no número anterior, o valor das acções para efeitos de adjudicação será o valor nominal, não podendo ser inferior a este o preço de venda."
+  },
+  "177564419": {
+   "fragment_id": "177564312",
+   "type": 11,
+   "heading": "Artigo 13.º — Contrato de sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Contrato de sociedade\n\n1 - Do contrato de sociedade das sociedades de garantia mútua deve constar, sem prejuízo de outros elementos exigidos nos termos gerais:\n\na) Se for caso disso, a possibilidade de existência de accionistas promotores;\n\nb) As entidades que podem subscrever ou, a outro título, adquirir acções na qualidade de accionista beneficiário;\n\nc) As transmissões de acções que, nos termos do artigo 14.º, fiquem sujeitas ao consentimento da sociedade, bem como os casos em que a constituição de penhor e de usufruto sobre acções fique sujeita ao consentimento da sociedade;\n\nd) Especificar os fundamentos com que, de acordo com o n.º 5 do artigo 14.º, o órgão de administração da sociedade de garantia mútua pode recusar o consentimento para a transmissão de acções e para a constituição de penhor ou de usufruto;\n\ne) As condições em que, nos casos previstos no n.º 4 do artigo 10.º, as acções objecto de penhor podem ser transmitidas.\n\n2 - Para além das matérias referidas no n.º 1 do artigo 34.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, ficam igualmente sujeitas a autorização do Banco de Portugal as alterações dos estatutos de sociedades de garantia mútua que versem sobre alguma das matérias elencadas nas alíneas b) e d) do n.º 1.\n\n3 - As assembleias gerais das sociedades de garantia mútua devem aprovar as condições gerais de concessão das garantias, designadamente o montante mínimo da participação de que o accionista beneficiário deve ser titular para que possam ser concedidas garantias a seu favor.\n\n4 - As deliberações referidas no número anterior devem ser comunicadas ao Banco de Portugal."
+  },
+  "177564420": {
+   "fragment_id": "177564313",
+   "type": 11,
+   "heading": "Artigo 14.º — Transmissão de acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Transmissão de acções\n\n1 - São livres as transmissões de acções entre accionistas beneficiários, entre accionistas promotores e de accionistas promotores para accionistas beneficiários.\n\n2 - A transmissão de acções de accionistas beneficiários ou de accionistas promotores para novos accionistas beneficiários ficará obrigatoriamente sujeita ao consentimento da sociedade de garantia mútua.\n\n3 - Não podem ser transmitidas acções de accionistas beneficiários para accionistas promotores ou para novos accionistas promotores.\n\n4 - A competência para conceder ou recusar o consentimento para a transmissão de acções cabe obrigatoriamente ao órgão de administração da sociedade de garantia mútua.\n\n5 - O consentimento para a transmissão de acções só poderá ser recusado com fundamento na não verificação, em relação à entidade para a qual se pretendem transmitir as acções, de algum dos requisitos dos quais os estatutos da sociedade de garantia mútua faça depender a possibilidade de subscrever ou, a outro título, adquirir acções na qualidade de accionista beneficiário.\n\n6 - Caso seja recusado o consentimento para a transmissão de acções, a sociedade de garantia mútua fica obrigada a, no prazo de 90 dias contado da data da recusa do consentimento, adquirir ou fazer adquirir por terceiro as acções.\n\n7 - Na situação prevista no número anterior, as acções serão adquiridas pelo valor nominal.\n\n8 - Aplica-se à constituição de penhor ou usufruto sobre acções representativas do capital social de sociedades de garantia mútua, com as devidas adaptações, o disposto nos números anteriores."
+  },
+  "177564421": {
+   "fragment_id": "177564314",
+   "type": 11,
+   "heading": "Artigo 15.º — Aquisição e alienação de acções próprias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Aquisição e alienação de acções próprias\n\n1 - Para além do caso previsto no n.º 6 do artigo 14.º, a sociedade de garantia mútua ficará ainda obrigada a adquirir aos accionistas beneficiários, sempre que estes lho solicitem, as acções de que estes sejam titulares e que, nos termos do n.º 2 do artigo 10.º, não sejam intransmissíveis, aplicando-se o disposto no n.º 7 do artigo 14.º\n\n2 - A aquisição de acções próprias pelas sociedades de garantia mútua só se torna eficaz no termo do exercício social, ficando dependente da verificação das seguintes condições:\n\na) Terem decorrido, pelo menos, três anos desde a data de aquisição das acções;\n\nb) A aquisição não implicar o incumprimento, ou o agravamento do incumprimento, de nenhumas relações ou limites prudenciais fixados na lei ou pelo Banco de Portugal.\n\n3 - Para efeito da aquisição de acções próprias acrescerá aos bens distribuíveis referidos no n.º 4 do artigo 317.º do Código das Sociedades Comerciais o montante do fundo técnico de provisão.\n\n4 - Não dispondo a sociedade de fundos que permitam satisfazer, ou satisfazer integralmente, um pedido de aquisição de acções próprias, este ficará pendente e, até à sua integral satisfação, a sociedade não poderá distribuir dividendos.\n\n5 - As acções próprias de que a sociedade de garantia mútua seja titular destinam-se a ser alienadas a accionistas beneficiários ou a accionistas promotores, ou a terceiros que pretendam adquirir qualquer daquelas qualidades e, no primeiro caso, preencham requisitos para tanto.\n\n6 - A venda será deliberada pelo órgão de administração e o preço será igual ao valor nominal das acções."
+  },
+  "177564422": {
+   "fragment_id": "177564315",
+   "type": 11,
+   "heading": "Artigo 16.º — Fusão e cisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Fusão e cisão\n\n1 - O Banco de Portugal só concederá autorização para a fusão ou cisão de sociedades de garantia mútua se da operação resultar, pelo menos, uma sociedade do mesmo tipo.\n\n2 - As sociedades de garantia mútua não podem proceder a alterações dos respectivos objectos sociais que impliquem uma mudança do tipo de instituição."
+  },
+  "177564423": {
+   "fragment_id": "177564316",
+   "type": 1,
+   "heading": "Capítulo III — Contragarantia das sociedades de garantia mútua",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Contragarantia das sociedades de garantia mútua"
+  },
+  "177564424": {
+   "fragment_id": "177564317",
+   "type": 11,
+   "heading": "Artigo 17.º — Fundo de Contragarantia Mútuo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Fundo de Contragarantia Mútuo\n\nAs sociedades de garantia mútua, com a finalidade de oferecer uma cobertura e garantia suficientes para os riscos contraídos nas suas operações e assegurar a solvência do sistema, devem proceder à contragarantia das suas operações, através do Fundo de Contragarantia Mútuo, pelo saldo vivo, em cada momento, das garantias prestadas e pelo limite máximo de contragarantia admitido por aquele fundo."
+  },
+  "177564425": {
+   "fragment_id": "177564318",
+   "type": 11,
+   "heading": "Artigo 18.º — Entidade gestora do Fundo de Contragarantia Mútuo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entidade gestora do Fundo de Contragarantia Mútuo\n\n1 - Compete à entidade gestora do Fundo de Contragarantia Mútuo promover e incentivar a criação de sociedades de garantia mútua, designadamente através da tomada de participações iniciais no capital destas, na qualidade de accionista promotor.\n\n2 - A entidade gestora do Fundo de Contragarantia Mútuo tem o direito de designar um representante seu no conselho de administração das sociedades de garantia mútua em que detenha uma participação correspondente a, pelo menos, 10% do capital social."
+  },
+  "177564426": {
+   "fragment_id": "177564319",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições transitórias"
+  },
+  "177564427": {
+   "fragment_id": "177564320",
+   "type": 11,
+   "heading": "Artigo 19.º — Início de funcionamento do sistema de caucionamento mútuo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Início de funcionamento do sistema de caucionamento mútuo\n\nSão isentos de taxas e emolumentos, devidos a quaisquer entidades, designadamente ao Registo Nacional de Pessoas Colectivas, conservatórias do registo comercial e cartórios notariais, todos os actos que sejam necessários praticar em virtude de quaisquer cisões da SPGM - Sociedade de Investimento, S. A."
+  },
+  "177564428": {
+   "fragment_id": "177564321",
+   "type": 11,
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "177564434": {
+   "fragment_id": "177564299",
+   "type": 11,
+   "heading": "Artigo 1.º — Noção",
+   "in_force_from": "2001-01-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 19/2001 - Diário da República n.º 25/2001, Série I-A de 2001-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2001-315158), em vigor a partir de 2001-01-31"
+   ],
+   "markdown": "###### Artigo 1.º — Noção\n\nAs sociedades de garantia mútua são instituições de crédito que têm por objecto uma actividade bancária restrita à realização de operações financeiras e à prestação de serviços conexos previstos neste diploma em benefício de pequenas e médias empresas e de microempresas, regendo-se pelo disposto no presente diploma e pelas disposições aplicáveis do Regime Geral das Instituições de Crédito e Sociedades Financeiras.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 19/2001 - Diário da República n.º 25/2001, Série I-A de 2001-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2001-315158), em vigor a partir de 2001-01-31"
+  },
+  "177564435": {
+   "fragment_id": "177564300",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": "2001-01-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 19/2001 - Diário da República n.º 25/2001, Série I-A de 2001-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2001-315158), em vigor a partir de 2001-01-31"
+   ],
+   "markdown": "###### Artigo 2.º — Objecto\n\n1 - As sociedades de garantia mútua podem realizar as operações e prestar os serviços seguintes:\n\na) Concessão de garantias destinadas a assegurar o cumprimento de obrigações contraídas por accionistas beneficiários, designadamente garantias acessórias de contratos de mútuo;\n\nb) Promoção, em favor dos accionistas beneficiários, da obtenção de recursos financeiros junto de instituições de crédito ou de outras instituições financeiras, nacionais ou estrangeiras;\n\nc) Participação na colocação, em mercado primário ou em mercado secundário, de acções, obrigações ou de quaisquer outros valores mobiliários, bem como de títulos de crédito emitidos nos termos do Decreto-Lei n.º 181/92, de 22 de Agosto, desde que a entidade emitente seja accionista beneficiário ou se encontrem previstos no n.º 2, e prestação de serviços correlativos;\n\nd) Prestação de serviços de consultoria de empresas, aos accionistas beneficiários, em áreas associadas à gestão financeira, designadamente em matéria de estrutura do capital, de estratégia empresarial e de questões conexas, bem como no domínio da fusão, cisão e compra ou venda de empresas.\n\n2 - Para além dos valores mobiliários emitidos pelos accionistas beneficiários, as sociedades de garantia mútua podem participar na colocação de valores mobiliários que, nos termos das respectivas condições de emissão, confiram direito à subscrição, sejam convertíveis ou permutáveis por acções representativas do capital social de accionistas beneficiários.\n\n3 - As sociedades de garantia mútua não podem tomar firme, total ou parcialmente, colocações de valores mobiliários em que participem, só podendo adquirir para carteira própria os valores mobiliários referidos no n.º 5 do artigo 229.º do Código dos Valores Mobiliários e, de acordo com as regras que venham a ser estabelecidas pelo Banco de Portugal, outros que este autorize.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 19/2001 - Diário da República n.º 25/2001, Série I-A de 2001-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2001-315158), em vigor a partir de 2001-01-31"
+  },
+  "177564436": {
+   "fragment_id": "177564307",
+   "type": 11,
+   "heading": "Artigo 8.º — Recursos financeiros",
+   "in_force_from": "2001-01-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 19/2001 - Diário da República n.º 25/2001, Série I-A de 2001-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2001-315158), em vigor a partir de 2001-01-31"
+   ],
+   "markdown": "###### Artigo 8.º — Recursos financeiros\n\nAs sociedades de garantia mútua só podem financiar a sua actividade com fundos próprios e através dos seguintes recursos:\n\na) Financiamentos concedidos por outras instituições de crédito ou por instituições financeiras, nacionais ou estrangeiras;\n\nb) Suprimentos e outras formas de financiamento concedido pelos accionistas, nos termos legalmente admissíveis;\n\nc) Emissão de obrigações de qualquer espécie, nas condições previstas na lei e sem obediência aos limites fixados no Código das Sociedades Comerciais.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 19/2001 - Diário da República n.º 25/2001, Série I-A de 2001-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2001-315158), em vigor a partir de 2001-01-31"
+  },
+  "177564437": {
+   "fragment_id": "177564310",
+   "type": 11,
+   "heading": "Artigo 11.º — Regime aplicável às garantias concedidas",
+   "in_force_from": "2001-01-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 19/2001 - Diário da República n.º 25/2001, Série I-A de 2001-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2001-315158), em vigor a partir de 2001-01-31"
+   ],
+   "markdown": "###### Artigo 11.º — Regime aplicável às garantias concedidas\n\n1 - (Revogado.)\n\n2 - A condição de sócio, inicial ou superveniente, da entidade credora da obrigação garantida não afectará o regime jurídico da garantia concedida, a qual se rege pelo disposto no presente diploma, pelas normas legais e regulamentares que, nos termos gerais, lhe sejam aplicáveis e pelas condições gerais de concessão das garantias fixadas nos termos do n.º 3 do artigo 13.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 19/2001 - Diário da República n.º 25/2001, Série I-A de 2001-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2001-315158), em vigor a partir de 2001-01-31"
+  },
+  "177564429": {
+   "fragment_id": "177564322",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 17 de Junho de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura.\n\nPromulgado em 3 de Julho de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Julho de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "177564470": {
+   "fragment_id": "177564299",
+   "type": 11,
+   "heading": "Artigo 1.º — Noção",
+   "in_force_from": "2007-09-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 309-A/2007 - Diário da República n.º 173/2007, 2º Suplemento, Série I de 2007-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-a-2007-683003), em vigor a partir de 2007-09-08",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 19/2001 - Diário da República n.º 25/2001, Série I-A de 2001-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2001-315158), em vigor a partir de 2001-01-31"
+   ],
+   "markdown": "###### Artigo 1.º — Noção\n\nAs sociedades de garantia mútua são instituições de crédito que têm por objecto uma actividade bancária restrita à realização de operações financeiras e à prestação de serviços conexos previstos neste diploma em benefício de micro, pequenas e médias empresas, ou outras pessoas colectivas, qualquer que seja a sua natureza jurídica, designadamente associações e agrupamentos complementares de empresas, e pessoas singulares, em especial estudantes e investigadores, regendo-se pelo disposto no presente diploma e pelas disposições aplicáveis do Regime Geral das Instituições de Crédito e Sociedades Financeiras.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 309-A/2007 - Diário da República n.º 173/2007, 2º Suplemento, Série I de 2007-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-a-2007-683003), em vigor a partir de 2007-09-08\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 19/2001 - Diário da República n.º 25/2001, Série I-A de 2001-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2001-315158), em vigor a partir de 2001-01-31"
+  },
+  "177564471": {
+   "fragment_id": "177564300",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": "2007-09-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 309-A/2007 - Diário da República n.º 173/2007, 2º Suplemento, Série I de 2007-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-a-2007-683003), em vigor a partir de 2007-09-08",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 19/2001 - Diário da República n.º 25/2001, Série I-A de 2001-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2001-315158), em vigor a partir de 2001-01-31"
+   ],
+   "markdown": "###### Artigo 2.º — Objecto\n\n1 - As sociedades de garantia mútua podem realizar as operações e prestar os serviços seguintes:\n\na) Concessão de garantias destinadas a assegurar o cumprimento de obrigações contraídas por accionistas beneficiários ou por outras pessoas jurídicas, singulares ou colectivas, não accionistas, no âmbito de operações de garantia de carteira nos termos do n.º 2, designadamente garantias acessórias de contratos de mútuo;\n\nb) Promoção, em favor dos accionistas beneficiários, da obtenção de recursos financeiros junto de instituições de crédito ou de outras instituições financeiras, nacionais ou estrangeiras;\n\nc) Participação na colocação, em mercado primário ou em mercado secundário, de acções, obrigações ou de quaisquer outros valores mobiliários, bem como de títulos de crédito emitidos nos termos do Decreto-Lei n.º 181/92, de 22 de Agosto, desde que a entidade emitente seja accionista beneficiário ou se encontrem previstos no n.º 2, e prestação de serviços correlativos;\n\nd) Prestação de serviços de consultoria de empresas, aos accionistas beneficiários, em áreas associadas à gestão financeira, designadamente em matéria de estrutura do capital, de estratégia empresarial e de questões conexas, bem como no domínio da fusão, cisão e compra ou venda de empresas.\n\n2 - Para efeitos do disposto na alínea a) do n.º 1, a concessão de garantias de carteira a linhas de crédito especiais, designadamente para microcréditos e para empréstimos a estudantes do ensino superior, bolseiros de doutoramento e pós-doutoramento e investigadores, depende do reconhecimento, pelas sociedades de garantia mútua e pelo conselho geral do Fundo de Contragarantia Mútuo, do seu relevante interesse para o desenvolvimento económico e científico ou para o fomento da inovação e destinam-se a assegurar o cumprimento das obrigações assumidas por essas pessoas jurídicas, sejam singulares ou colectivas, junto das entidades que disponibilizem as referidas linhas de crédito especiais.\n\n3 - Para além dos valores mobiliários emitidos pelos accionistas beneficiários, as sociedades de garantia mútua podem participar na colocação de valores mobiliários que, nos termos das respectivas condições de emissão, confiram direito à subscrição, sejam convertíveis ou permutáveis por acções representativas do capital social de accionistas beneficiários.\n\n4 - As sociedades de garantia mútua não podem tomar firme, total ou parcialmente, colocações de valores mobiliários em que participem, só podendo adquirir para carteira própria os valores mobiliários referidos no n.º 5 do artigo 229.º do Código dos Valores Mobiliários e, de acordo com as regras que venham a ser estabelecidas pelo Banco de Portugal, outros que este autorize.\n\n5 - As sociedades de garantia mútua só podem realizar operações e prestar serviços em benefício de accionistas beneficiários, para o desenvolvimento das respectivas actividades económicas.\n\n6 - Exceptua-se do disposto no número anterior as seguintes operações:\n\na) Garantias enquadráveis no n.º 2;\n\nb) Garantias emitidas em benefício de micro, pequenas e médias empresas não accionistas, no âmbito de acordos com outras entidades ou sistemas de garantia fora do território nacional.\n\n7 - As entidades que disponibilizem as linhas de crédito especiais previstas no n.º 2 devem assegurar, previamente à contratação das linhas de crédito, a condição de accionista promotor da sociedade de garantia mútua.\n\n8 - É assegurado, na contratação das garantias de carteira previstas no n.º 2, que o accionista promotor afecte à linha de crédito uma parte da sua participação no capital social da sociedade de garantia mútua, sobre a qual será constituído penhor, em benefício da sociedade de garantia mútua, como contrapartida da garantia prestada por essa sociedade, em número de acções e nos termos que venham a ser fixados pelo conselho geral do Fundo de Contragarantia Mútuo, podendo esta executar o mesmo, adjudicando a si, ao respectivo valor nominal, ou vendendo-as extrajudicialmente.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 309-A/2007 - Diário da República n.º 173/2007, 2º Suplemento, Série I de 2007-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-a-2007-683003), em vigor a partir de 2007-09-08\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 19/2001 - Diário da República n.º 25/2001, Série I-A de 2001-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2001-315158), em vigor a partir de 2001-01-31"
+  },
+  "177564472": {
+   "fragment_id": "177564301",
+   "type": 11,
+   "heading": "Artigo 3.º — Accionistas beneficiários e accionistas promotores",
+   "in_force_from": "2007-09-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 309-A/2007 - Diário da República n.º 173/2007, 2º Suplemento, Série I de 2007-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-a-2007-683003), em vigor a partir de 2007-09-08"
+   ],
+   "markdown": "###### Artigo 3.º — Accionistas beneficiários e accionistas promotores\n\n1 - As sociedades de garantia mútua têm accionistas beneficiários e, desde que os respectivos estatutos o prevejam, podem ter accionistas promotores.\n\n2 - Só podem ser accionistas beneficiários micro, pequenas e médias empresas, entidades representativas de qualquer uma das categorias de empresas referidas, bem como outras pessoas colectivas, designadamente agrupamentos complementares de empresas, que desenvolvam actividades qualificadas pelas sociedades de garantia mútua e pelo conselho geral do Fundo de Contragarantia Mútuo como de relevante interesse económico.\n\n3 - Os estatutos das sociedades de garantia mútua devem definir com clareza quem pode adquirir a qualidade de accionista beneficiário.\n\n4 - As sociedades de garantia mútua não podem realizar operações nem prestar serviços em benefício de accionistas promotores.\n\n5 - Os accionistas promotores não podem deter, individual ou conjuntamente, directa ou indirectamente, uma participação superior a 50% do capital social ou dos direitos de voto da sociedade de garantia mútua, excepto nos três primeiros anos contados da data de constituição da sociedade, período durante o qual aquela percentagem será de 75%.\n\n6 - Sem prejuízo do disposto no número anterior, para efeito de contagem dos direitos de voto será deduzida a quantidade de acções averbadas ou inscritas a favor dos accionistas promotores que tenha sido dada em penhor a favor da sociedade de garantia mútua parceira nos termos do previsto no n.º 8 do artigo 2.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 309-A/2007 - Diário da República n.º 173/2007, 2º Suplemento, Série I de 2007-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-a-2007-683003), em vigor a partir de 2007-09-08"
+  },
+  "177564469": {
+   "fragment_id": "177564320",
+   "type": 11,
+   "heading": "Artigo 19.º — Início de funcionamento do sistema de caucionamento mútuo",
+   "in_force_from": "2007-09-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 309-A/2007 - Diário da República n.º 173/2007, 2º Suplemento, Série I de 2007-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-a-2007-683003), em vigor a partir de 2007-09-08"
+   ],
+   "markdown": "###### Artigo 19.º — Início de funcionamento do sistema de caucionamento mútuo\n\nSão isentos de taxas e emolumentos, devidos a quaisquer entidades, designadamente ao Registo Nacional de Pessoas Colectivas, conservatórias do registo comercial e cartórios notariais, todos os actos que sejam necessários praticar em virtude de quaisquer cisões da SPGM - Sociedade de Investimento, S. A.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 309-A/2007 - Diário da República n.º 173/2007, 2º Suplemento, Série I de 2007-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-a-2007-683003), em vigor a partir de 2007-09-08"
+  },
+  "177564473": {
+   "fragment_id": "177564299",
+   "type": 11,
+   "heading": "Artigo 1.º — Noção",
+   "in_force_from": "2014-11-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 309-A/2007 - Diário da República n.º 173/2007, 2º Suplemento, Série I de 2007-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-a-2007-683003), em vigor a partir de 2007-09-08",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 19/2001 - Diário da República n.º 25/2001, Série I-A de 2001-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2001-315158), em vigor a partir de 2001-01-31"
+   ],
+   "markdown": "###### Artigo 1.º — Noção\n\nAs sociedades de garantia mútua são sociedades financeiras que têm por objeto exclusivo a realização de operações financeiras e a prestação dos serviços conexos previstos neste diploma em benefício de micro, pequenas e médias empresas, ou outras pessoas coletivas, qualquer que seja a sua natureza jurídica, designadamente associações e agrupamentos complementares de empresas, bem como pessoas singulares, em especial estudantes e investigadores, regendo-se pelo disposto no presente diploma e pelas disposições aplicáveis do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro.\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 309-A/2007 - Diário da República n.º 173/2007, 2º Suplemento, Série I de 2007-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-a-2007-683003), em vigor a partir de 2007-09-08\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 19/2001 - Diário da República n.º 25/2001, Série I-A de 2001-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2001-315158), em vigor a partir de 2001-01-31"
+  },
+  "177564474": {
+   "fragment_id": "177564307",
+   "type": 11,
+   "heading": "Artigo 8.º — Recursos financeiros",
+   "in_force_from": "2014-11-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 19/2001 - Diário da República n.º 25/2001, Série I-A de 2001-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2001-315158), em vigor a partir de 2001-01-31"
+   ],
+   "markdown": "###### Artigo 8.º — Recursos financeiros\n\nAs sociedades de garantia mútua só podem financiar a sua atividade com fundos próprios e através dos seguintes recursos:\n\na) Financiamentos concedidos por instituições de crédito, ou por instituições financeiras, nacionais ou estrangeiras;\n\nb) Suprimentos e outras formas de financiamento concedido pelos accionistas, nos termos legalmente admissíveis;\n\nc) Emissão de obrigações de qualquer espécie, nas condições previstas na lei, elevando os limites fixados no Código das Sociedades Comerciais até ao quádruplo dos seus capitais próprios.\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 19/2001 - Diário da República n.º 25/2001, Série I-A de 2001-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2001-315158), em vigor a partir de 2001-01-31"
+  },
+  "177566375": {
+   "fragment_id": "177564303",
+   "type": 11,
+   "heading": "Artigo 5.º — Forma e representação do capital",
+   "in_force_from": "2015-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 100/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2015-67356344), em vigor a partir de 2015-06-07"
+   ],
+   "markdown": "###### Artigo 5.º — Forma e representação do capital\n\n1 - As sociedades de garantia mútua adotam a forma de sociedade anónima.\n\n2 - As acções representativas do capital social das sociedades de garantia mútua são obrigatoriamente nominativas.\n\n3 - As contas de registo ou de depósito nas quais se encontrem registadas ou depositadas acções de sociedades de garantia mútua devem, para além das menções e factos exigidos nos termos gerais, revelar a qualidade de accionista beneficiário ou de accionista promotor.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 100/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2015-67356344), em vigor a partir de 2015-06-07"
+  },
+  "177566376": {
+   "fragment_id": "177564307",
+   "type": 11,
+   "heading": "Artigo 8.º — Recursos financeiros",
+   "in_force_from": "2015-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 100/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2015-67356344), em vigor a partir de 2015-06-07",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 19/2001 - Diário da República n.º 25/2001, Série I-A de 2001-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2001-315158), em vigor a partir de 2001-01-31"
+   ],
+   "markdown": "###### Artigo 8.º — Recursos financeiros\n\n1 - As sociedades de garantia mútua só podem financiar a sua atividade com fundos próprios e através dos seguintes recursos:\n\na) Financiamentos concedidos por instituições de crédito, ou por instituições financeiras, nacionais ou estrangeiras;\n\nb) Emissão de obrigações de qualquer espécie, nas condições previstas na lei, em montante que não exceda o quádruplo dos seus capitais próprios, considerando a soma do preço de subscrição de todas as obrigações emitidas e não amortizadas.\n\n2 - Para efeitos do disposto na alínea c) do número anterior, entende-se por capitais próprios o somatório do capital realizado, deduzidas as ações próprias, com as reservas, os resultados transitados e os ajustamentos em ativos financeiros.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 100/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2015-67356344), em vigor a partir de 2015-06-07\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 19/2001 - Diário da República n.º 25/2001, Série I-A de 2001-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2001-315158), em vigor a partir de 2001-01-31"
+  },
+  "177566377": {
+   "fragment_id": "177564360",
+   "type": 11,
+   "heading": "Artigo 19.º-A — Conversão das ações com valor nominal",
+   "in_force_from": "2022-01-13",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 19.º-A — Conversão das ações com valor nominal\n\nAs ações emitidas com valor nominal ficam convertidas em ações sem valor nominal, correspondendo o valor nominal ao valor de emissão.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+  },
+  "177566378": {
+   "fragment_id": "177564321",
+   "type": 11,
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  }
+ }
+}

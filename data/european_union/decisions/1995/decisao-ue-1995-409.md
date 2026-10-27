@@ -1,0 +1,167 @@
+---
+schema_version: '1.0'
+id: eu:celex:31995D0409:por
+title: '95/409/CE: Decisão do Conselho, de 22 de Junho de 1995'
+short_title: null
+summary: '95/409/CE: Decisão do Conselho, de 22 de Junho de 1995, que estabelece as regras relativas às análises microbiológicas
+  por amostragem a efectuar, em matéria de salmonelas, nas carnes frescas de bovinos e suínos destinadas à Finlândia e à Suécia'
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 1995/409
+official_date: null
+publication_date: '1995-10-11'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 243 de 11.10.1995
+  number: '243'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/cb4fd4c2-799a-4962-b7ad-6fa88d6b1151.0009.02/DOC_1
+entry_into_force_dates:
+- '1995-07-01'
+- '1995-10-11'
+end_of_validity_date: '2005-12-31'
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2006-01-01'
+version_history:
+  file: decisao-ue-1995-409.versoes.json
+  count: 3
+  source_lastmod: '2006-01-01'
+  versions:
+  - date: '1995-10-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-03-24'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita ANEXO — SECÇÃO A
+    - Adita SECÇÃO B — NÚMERO DE AMOSTRAS A COLHER
+    - Adita SECÇÃO C — MÉTODO MICROBIOLÓGICO PARA ANÁLISE DAS AMOSTRAS
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime ANEXO — SECÇÃO A MÉTODO DE AMOSTRAGEM
+    - Suprime SECÇÃO B NÚMERO DE AMOSTRAS A COLHER
+    - Suprime SECÇÃO C MÉTODO DE ANÁLISE MICROBIOLÓGICA DAS AMOSTRAS
+  - date: '2006-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime ANEXO — SECÇÃO A
+    - Suprime SECÇÃO B — NÚMERO DE AMOSTRAS A COLHER
+    - Suprime SECÇÃO C — MÉTODO MICROBIOLÓGICO PARA ANÁLISE DAS AMOSTRAS
+identifiers:
+  celex: 31995D0409
+  eli: http://data.europa.eu/eli/dec/1995/409/oj
+  oj: oj:JOL_1995_243_R_0021_015
+  dre: null
+  dre_path: null
+  internal: eu:celex:31995D0409:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A31995D0409
+  metadata_url: http://publications.europa.eu/resource/cellar/cb4fd4c2-799a-4962-b7ad-6fa88d6b1151.0009
+  content_url: http://publications.europa.eu/resource/cellar/67b78ac7-722b-4609-9613-6e48203ee580.0017.03/DOC_1
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995D0409-20060101
+  retrieved_at: '2026-10-22T14:43:48Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-11-24T15:03:57.471+01:00'
+integrity:
+  source_sha256: 4cb24ff52fcd4132fc5707bf00f5ef32a7f54b08a4a7d48db083c2e758663a46
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:43:48Z'
+  notes: 3 versão(ões); histórico completo em decisao-ue-1995-409.versoes.json.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Finlândia
+- Suécia
+- carne fresca
+- doença animal
+- indústria de carne
+- inspeção sanitária
+relationships:
+- type: amended_by
+  target: celex:31998D0227
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e65d681d-2fe3-463b-ad6c-19d765e9ce6d
+  date: '2010-03-08'
+- type: based_on
+  target: celex:31964L0433
+  label: null
+  source: http://publications.europa.eu/resource/cellar/759f2d2b-6b09-4d07-ae48-d56a16b166d6
+  date: '1964-07-29'
+- type: cited_by
+  target: pt:dre:423031:por
+  label: null
+  source: null
+- type: repealed_by
+  target: celex:32005R1688
+  label: null
+  source: http://publications.europa.eu/resource/cellar/58cedb2c-3ad0-4c2e-8391-89db0f20ca07
+  date: '2010-03-08'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T14:43:48Z'
+  warnings: []
+  errors: []
+---
+
+# 95/409/CE: Decisão do Conselho, de 22 de Junho de 1995
+
+> 1995D0409 — PT — 01.01.2006 — 002.001
+
+> Este documento constitui um instrumento de documentação e não vincula as instituições
+
+[►B](http://publications.europa.eu/resource/celex/31995D0409) [DECISÃO DO CONSELHO](http://publications.europa.eu/resource/celex/31995D0409) [de 22 de Junho de 1995](http://publications.europa.eu/resource/celex/31995D0409) [que estabelece as regras relativas às análises microbiológicas por amostragem a efectuar, em matéria de salmonelas, nas carnes frescas de bovinos e suínos destinadas à Finlândia e à Suécia](http://publications.europa.eu/resource/celex/31995D0409) [(95/409/CE)](http://publications.europa.eu/resource/celex/31995D0409) (JO L 243, 11.10.1995, p.21)
+
+**revogado por:**
+
+- [Regulamento (CE) n.o 1688/2005 da Comissão de 14 de Outubro de 2005](http://publications.europa.eu/resource/celex/32005R1688) — L 271 — 17 — 15.10.2005

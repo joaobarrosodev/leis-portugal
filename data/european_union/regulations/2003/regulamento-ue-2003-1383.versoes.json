@@ -1,0 +1,263 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32003R1383:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R1383-20140101",
+ "dre_path": null,
+ "source_lastmod": "2014-01-01",
+ "versions": [
+  {
+   "date": "2003-08-02",
+   "future": false,
+   "celex": "32003R1383",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4eea5a2126156b05",
+    "64a471d3e0f53828",
+    "940576d11300013e",
+    "e3908e460ed107c6",
+    "00f0a6b3e2343171",
+    "4e5e0a82e123d080",
+    "91aa68a1a19450bc",
+    "97bddc1f46fbe5e6",
+    "3a98bf9d8d607f3f",
+    "e796cc1ff659e0f8",
+    "0bac60c52bcaee70",
+    "2dc1f0f71f25e7a8",
+    "08b933a6e0c3fafe",
+    "371e1380cc669343",
+    "d284be848f09215a",
+    "f70551840777f175",
+    "fbd07c58a0765f1b",
+    "e6b96ec0fd4ecc9f",
+    "943af5845cc47f88",
+    "29fa3e10da2a4be1",
+    "cd63a5e400f8c0f6",
+    "4855914e332580d4",
+    "54ae77714bec41cd",
+    "6ba8304bc27db901",
+    "55d50501f959b885",
+    "f664a6b2e51f0916",
+    "851685b463775a06"
+   ]
+  }
+ ],
+ "fragments": {
+  "4eea5a2126156b05": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 1383/2003 do Conselho, de 22 de Julho de 2003, relativo à intervenção das autoridades aduaneiras em relação às mercadorias suspeitas de violarem certos direitos de propriedade intelectual e a medidas contra mercadorias que violem esses direitos** *Jornal Oficial nº L 196 de 02/08/2003 p. 0007 - 0014*\n\nRegulamento (CE) n.o 1383/2003 do Conselho\n\nde 22 de Julho de 2003\n\nrelativo à intervenção das autoridades aduaneiras em relação às mercadorias suspeitas de violarem certos direitos de propriedade intelectual e a medidas contra mercadorias que violem esses direitos\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 133.o,\n\nTendo em conta a proposta da Comissão(1),\n\nConsiderando o seguinte:\n\n(1) A fim de melhorar o funcionamento do sistema relativo à entrada na Comunidade e à exportação e reexportação da Comunidade de mercadorias que violam certos direitos da propriedade intelectual, instituído pelo Regulamento (CEE) n.o 3295/94 do Conselho, de 22 de Dezembro de 1994, que estabelece medidas destinadas a proibir a introdução em livre prática, a exportação, a reexportação e a colocação sob um regime suspensivo das mercadorias de contrafacção e das mercadorias-pirata(2), convém tirar as conclusões da experiência adquirida com a sua aplicação. Por uma questão de clareza, o Regulamento (CE) n.o 3295/94 deve ser revogado e substituído.\n\n(2) A comercialização de mercadorias de contrafacção, de mercadorias-pirata e, de um modo geral, de quaisquer mercadorias que violem direitos de propriedade intelectual, prejudica consideravelmente os fabricantes e comerciantes que respeitam a lei, bem como os titulares de direitos, e engana os consumidores fazendo-os por vezes correr riscos para a sua saúde e segurança. Convém, por conseguinte e na medida do possível, impedir a colocação dessas mercadorias no mercado e adoptar para o efeito medidas que permitam enfrentar eficazmente esta actividade ilegal sem, no entanto, dificultar a liberdade do comércio legítimo. Este objectivo é coerente com os esforços desenvolvidos no mesmo sentido a nível internacional.\n\n(3) Nos casos em que as mercadorias de contrafacção, as mercadorias-pirata e, de um modo geral, as mercadorias que violem um direito de propriedade intelectual sejam originárias ou provenientes de países terceiros, deve-se proibir a sua introdução no território aduaneiro da Comunidade, incluindo o transbordo, a sua introdução em livre prática na Comunidade, a sua sujeição a um regime suspensivo e a sua colocação em zona franca ou em entreposto franco e estabelecer um procedimento adequado que permita às autoridades aduaneiras aplicarem esta proibição tão eficazmente quanto possível.\n\n(4) A intervenção das autoridades aduaneiras deve igualmente aplicar-se às mercadorias de contrafacção, às mercadorias-pirata e às mercadorias que violam certos direitos de propriedade intelectual que estejam em vias de ser exportadas, reexportadas ou de sair do território aduaneiro da Comunidade.\n\n(5) Durante o tempo necessário para determinar se as mercadorias suspeitas são de facto mercadorias de contrafacção, mercadorias-pirata ou mercadorias que violam certos direitos de propriedade intelectual, as autoridades aduaneiras devem intervir, quer suspendendo a introdução em livre prática, a exportação e a reexportação de mercadorias ou, detendo-as, no caso de mercadorias sujeitas a um regime suspensivo, numa zona franca ou entreposto franco, em vias de ser reexportadas mediante notificação ou de ser introduzidas no território aduaneiro ou de sair desse território.\n\n(6) Convém definir e harmonizar em todos os Estados-Membros os elementos que devem figurar no pedido de intervenção, como o respectivo prazo de validade e a sua forma. O mesmo se aplica às condições da aceitação do pedido pelas autoridades aduaneiras competentes e pelo serviço designado para o receber, examinar e registar.\n\n(7) Convém autorizar os Estados-Membros a deter, durante um determinado período, as mercadorias em questão antes mesmo da apresentação ou da aceitação de um pedido pelo titular do direito por forma a permitir a este último entregar um pedido de intervenção junto das autoridades aduaneiras.\n\n(8) Logo que seja iniciado um processo destinado a determinar se houve violação de um direito de propriedade intelectual nos termos do direito nacional, aquele será conduzido com base nos critérios utilizados para determinar se as mercadorias produzidas no Estado-Membro em questão violam os direitos de propriedade intelectual. O presente regulamento não prejudica as disposições dos Estados-Membros em matéria de competência judiciária e processual.\n\n(9) A fim de facilitar a aplicação do presente regulamento pelas administrações aduaneiras e pelos titulares de direitos, convém prever igualmente um processo mais flexível que permita a destruição de mercadorias que violem certos direitos de propriedade intelectual sem que seja necessário iniciar um processo destinado a determinar se houve violação de um direito de propriedade intelectual nos termos do direito nacional.\n\n(10) Convém definir as medidas a que devem estar sujeitas as mercadorias em questão, quando se verifique que se trata de mercadorias de contrafacção, de mercadorias-pirata ou, de uma forma geral, de mercadorias que violam certos direitos de propriedade intelectual. Essas medidas devem não só privar os responsáveis do comércio dessas mercadorias dos benefícios económicos da operação e sancioná-los, mas também desencorajar eficazmente outras operações da mesma natureza.\n\n(11) Para não perturbar o desalfandegamento das mercadorias contidas nas bagagens pessoais dos viajantes, convém excluir do âmbito de aplicação do presente regulamento, salvo nos casos em que determinadas indicações materiais levem a supor que se trata de tráfico comercial, as mercadorias susceptíveis de constituírem mercadorias de contrafacção, mercadorias-pirata ou mercadorias que violem certos direitos de propriedade intelectual, importadas de países terceiros, dentro dos limites previstos pela regulamentação comunitária no que respeita à concessão de uma franquia aduaneira.\n\n(12) Importa garantir a aplicação uniforme das regras comuns previstas pelo presente regulamento e reforçar a assistência mútua entre os Estados-Membros, por um lado, e entre os Estados-Membros e a Comissão, por outro, a fim de assegurar a eficácia do presente regulamento, nomeadamente recorrendo ao Regulamento (CE) n.o 515/97 do Conselho, de 13 de Março de 1997, relativo à assistência mútua entre as autoridades administrativas dos Estados-Membros e à colaboração entre estes e a Comissão, tendo em vista assegurar a correcta aplicação das regulamentações aduaneira e agrícola(3).\n\n(13) À luz, designadamente, da experiência adquirida com a aplicação do presente regulamento, dever-se-á examinar a possibilidade de aumentar o número de direitos de propriedade intelectual por ele abrangidos.\n\n(14) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(4).\n\n(15) O Regulamento (CEE) n.o 3295/94 deve ser revogado.\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "64a471d3e0f53828": {
+   "fragment_id": "CAPÍTULO I OBJECTO E ÂMBITO DE APLICAÇÃO — Artigo 1.o",
+   "type": "divisao",
+   "heading": "CAPÍTULO I OBJECTO E ÂMBITO DE APLICAÇÃO — Artigo 1.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I OBJECTO E ÂMBITO DE APLICAÇÃO — Artigo 1.o\n\n1. O presente regulamento estabelece as condições de intervenção das autoridades aduaneiras em caso de mercadorias suspeitas de violação de direitos de propriedade intelectual, nas seguintes situações:\n\na) Quando sejam declaradas para introdução em livre prática, exportação ou reexportação nos termos do artigo 61.o do Regulamento (CEE) n.o 2913/92 do Conselho, de 12 de Outubro de 1992, que estabelece o Código Aduaneiro Comunitário(5).\n\nb) Quando sejam descobertas por ocasião de controlos de mercadorias que entrem ou saiam do território aduaneiro da Comunidade, nos termos dos artigos 37.o e 183.o do Regulamento (CEE) n.o 2913/92, sujeitas a um regime suspensivo na acepção da alínea a) do n.o 1 do artigo 84.o daquele regulamento, em vias de ser reexportadas mediante notificação nos termos do n.o 2 do artigo 182.o do referido regulamento ou colocadas em zona franca ou em entreposto franco na acepção do artigo 166.o do mesmo regulamento.\n\n2. O presente regulamento define igualmente as medidas a tomar pelas autoridades competentes quando se estabeleça que as mercadorias referidas no n.o 1 violam direitos de propriedade intelectual."
+  },
+  "940576d11300013e": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Para efeitos do presente regulamento, entende-se por \"mercadorias que violam um direito de propriedade intelectual\":\n\na) \"Mercadorias de contrafacção\", isto é:\n\ni) mercadorias, incluindo a embalagem, nas quais tenha sido aposta sem autorização uma marca idêntica à marca validamente registada para o mesmo tipo de mercadorias ou que nos seus aspectos essenciais, não pode ser distinguida dessa marca e que, por esse motivo, viola os direitos decorrentes do Direito Comunitário para o titular da marca em questão, tal como previsto no Regulamento (CE) 40/94 do Conselho, de 20 de Dezembro de 1993, sobre a marca comunitária(6) ou no direito do Estado-Membro em que é apresentado o pedido de intervenção das autoridades aduaneiras,\n\nii) qualquer símbolo de marca (que inclua um logotipo, etiqueta, autocolante, prospecto, folheto de instruções, ou documento de garantia que o ostente), mesmo apresentado separadamente, que se encontre nas mesmas condições que as mercadorias referidas na subalínea i),\n\niii) as embalagens que ostentem as marcas das mercadorias de contrafacção, apresentadas separadamente, nas mesmas condições que as mercadorias referidas na subalínea i);\n\nb) \"Mercadorias-pirata\", ou seja, as mercadorias que sejam ou contenham cópias fabricadas sem o consentimento do titular do direito de autor ou dos direitos conexos, de um direito relativo aos desenhos ou modelos, independentemente do registo nos termos do direito nacional, ou de uma pessoa autorizada pelo titular do direito no país de produção, quando a realização dessas cópias viole o direito em questão nos termos do Regulamento (CE) n.o 6/2002 do Conselho, de 12 de Dezembro de 2001, relativo aos desenhos ou modelos comunitários(7), ou pelo direito do Estado-Membro em que é apresentado o pedido de intervenção das autoridades aduaneiras;\n\nc) Mercadorias que, no Estado-Membro em que é apresentado o pedido de intervenção das autoridades aduaneiras, violem:\n\ni) uma patente nos termos do direito desse Estado-Membro,\n\nii) um certificado complementar de protecção, tal como previsto no Regulamento (CEE) n.o 1768/92 do Conselho(8) ou no Regulamento (CE) n.o 1610/96 do Parlamento Europeu e do Conselho(9),\n\niii) um direito nacional de protecção de variedades vegetais nos termos do direito desse Estado-Membro ou um direito comunitário de protecção de variedades vegetais tal como previsto no Regulamento (CEE) n.o 2100/94 do Conselho(10),\n\niv) as denominações de origem ou as indicações geográficas nos termos do direito desse Estado-Membro ou dos Regulamentos (CEE) n.os 2081/92(11) e 1493/1999 do Conselho(12),\n\nv) as denominações geográficas tal como previstas no Regulamento (CEE) n.o 1576/89 do Conselho.\n\n2. Para efeitos do presente regulamento, entende-se por \"titular do direito\",\n\na) O titular de uma marca, de um direito de autor ou direito conexo, de um direito relativo aos desenhos ou modelos, de uma patente ou de um certificado complementar de protecção, de um direito de protecção de variedades vegetais, de uma denominação de origem protegida, de uma indicação geográfica protegida ou, de um modo geral, de um dos direitos referidos no n.o 1; ou\n\nb) Qualquer outra pessoa autorizada a utilizar quaisquer dos direitos de propriedade intelectual referidos na alínea a), ou um representante do titular do direito ou do utente autorizado.\n\n3. É equiparado a mercadorias que violam um direito de propriedade intelectual, qualquer molde ou matriz especificamente destinado ou adaptado ao fabrico dessas mercadorias, desde que a utilização desse molde ou matriz viole os direitos do titular do direito nos termos do direito comunitário ou do direito do Estado-Membro em que é apresentado o pedido de intervenção das autoridades aduaneiras."
+  },
+  "e3908e460ed107c6": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. O presente regulamento não é aplicável às mercadorias que ostentem uma marca com o consentimento do seu titular nem às mercadorias que apresentem uma denominação de origem protegida ou uma indicação geográfica protegida ou que estejam protegidas por uma patente ou por um certificado complementar de protecção, por um direito de autor ou direitos conexos ou por um direito relativo aos desenhos ou modelos, e que tenham sido fabricadas com o consentimento do titular do direito, mas que se encontrem, sem o consentimento deste último, numa das situações referidas no n.o 1 do artigo 1.o\n\nO presente regulamento também não é aplicável às mercadorias referidas no primeiro parágrafo, que tenham sido fabricadas ou protegidas por outro direito de propriedade intelectual referido do n.o 1 do artigo 2.o em condições que não as acordadas com o titular do direito.\n\n2. Quando a bagagem pessoal de um viajante contiver mercadorias sem carácter comercial, que não excedam os limites fixados da franquia aduaneira e não existam indicações materiais que indiciem serem essas mercadorias objecto de tráfico comercial, os Estados-Membros devem considerar essas mercadorias excluídas do âmbito de aplicação do presente regulamento."
+  },
+  "00f0a6b3e2343171": {
+   "fragment_id": "CAPÍTULO II PEDIDO DE INTERVENÇÃO DAS AUTORIDADES ADUANEIRAS — Secção 1 Medidas anteriores a um pedido de intervenção das autoridades aduaneiras",
+   "type": "divisao",
+   "heading": "CAPÍTULO II PEDIDO DE INTERVENÇÃO DAS AUTORIDADES ADUANEIRAS — Secção 1 Medidas anteriores a um pedido de intervenção das autoridades aduaneiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II PEDIDO DE INTERVENÇÃO DAS AUTORIDADES ADUANEIRAS — Secção 1 Medidas anteriores a um pedido de intervenção das autoridades aduaneiras"
+  },
+  "4e5e0a82e123d080": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Quando, no decurso de uma intervenção numa das situações referidas no n.o 1 do artigo 1.o e antes de o titular de direito ter apresentado um pedido de intervenção ou de este lhe ter sido deferido, as autoridades aduaneiras tiverem motivos suficientes para suspeitar que se trata de mercadorias que violam um direito de propriedade intelectual, estas podem suspender a autorização de saída das mercadorias ou proceder à sua detenção durante um período de três dias úteis a contar da recepção da notificação pelo titular do direito, bem como pelo declarante ou detentor das mercadorias, desde que estes últimos sejam conhecidos, a fim de dar ao titular do direito a possibilidade de apresentar um pedido de intervenção nos termos do artigo 5.o\n\n2. As autoridades aduaneiras podem, segundo as regras em vigor no Estado-Membro em questão, sem divulgar outras informações que não as respeitantes ao número real ou suposto de objectos e à sua natureza e antes de informar o titular do direito do risco de violação, solicitar a este último o fornecimento de quaisquer informações úteis susceptíveis de confirmar as suas suspeitas.\n\nSecção 2 Apresentação e exame do pedido de intervenção das autoridades aduaneiras"
+  },
+  "91aa68a1a19450bc": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Em cada Estado-Membro, o titular do direito pode apresentar ao serviço aduaneiro competente um pedido escrito de intervenção das autoridades aduaneiras, quando as mercadorias se encontrem numa das situações previstas no n.o 1 do artigo 1.o (pedido de intervenção).\n\n2. Cada Estado-Membro designa o serviço aduaneiro competente para receber e tratar os pedidos de intervenção.\n\n3. Quando existam sistemas electrónicos de intercâmbio de dados, os Estados-Membros devem promover a apresentação dos pedidos de intervenção por via electrónica.\n\n4. Quando o requerente seja titular do direito de uma marca comunitária ou de um desenho ou modelo comunitário, de uma protecção comunitária de variedades vegetais, de uma denominação de origem ou de indicações geográficas, ou de uma denominação geográfica, protegidos pela Comunidade o pedido pode, além da intervenção das autoridades aduaneiras do Estado-Membro em que é apresentado, solicitar a intervenção das autoridades aduaneiras de um ou mais Estados-Membros.\n\n5. O pedido de intervenção deve ser apresentado mediante um formulário estabelecido nos termos do n.o 2 do artigo 21.o e deve conter todas as informações que permitam que as mercadorias em causa sejam facilmente reconhecidas pelas autoridades aduaneiras e, em especial:\n\ni) uma descrição técnica precisa e pormenorizada das mercadorias,\n\nii) informações específicas sobre a natureza e o tipo de fraude de que o titular do direito possa ter conhecimento,\n\niii) o nome e endereço da pessoa de contacto designada pelo titular do direito.\n\nO pedido de intervenção deve igualmente conter a declaração do requerente prevista no artigo 6.o, bem como a prova de que o requerente é titular do direito em relação às mercadorias em questão.\n\nNa situação prevista no n.o 4, o pedido de intervenção deve indicar o ou os Estados-Membros em que a intervenção das autoridades aduaneiras é solicitada, bem como os nomes e endereços do titular do direito em cada um dos Estados-Membros interessados.\n\nA título indicativo e quando sejam conhecidas, o titular do direito deve fornecer igualmente outras informações de que possa ter conhecimento, nomeadamente:\n\na) O valor, líquido de impostos, da mercadoria original no mercado legal nacional em que o pedido de intervenção foi apresentado;\n\nb) A localização das mercadorias ou o local de destino previsto;\n\nc) A identificação da remessa ou dos volumes;\n\nd) A data prevista de chegada ou de partida das mercadorias;\n\ne) O meio de transporte utilizado;\n\nf) A identidade do importador, do exportador ou do possuidor das mercadorias;\n\ng) O país ou países de produção e as rotas de tráfico utilizadas;\n\nh) A diferenciação técnica entre os produtos autênticos e os produtos suspeitos.\n\n6. O serviço aduaneiro competente pode igualmente exigir pormenores específicos do tipo de direito de propriedade intelectual referido no pedido de intervenção.\n\n7. Ao receber um pedido de intervenção, o serviço aduaneiro competente deve examina-lo e comunicar por escrito a sua decisão ao requerente num prazo de 30 dias úteis a contar da data de recepção.\n\nO titular do direito não é obrigado a pagar qualquer taxa para cobrir os custos administrativos resultantes do tratamento do pedido.\n\n8. Sempre que o pedido não contenha os elementos obrigatórios enumerados no n.o 5, o serviço aduaneiro competente pode tomar a decisão de não analisar o pedido de intervenção, devendo, nesse caso, justificar a sua decisão e incluir informações relativas ao processo de recurso. O pedido só será apresentado de novo depois de devidamente completado."
+  },
+  "97bddc1f46fbe5e6": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os pedidos de intervenção devem ser acompanhados de uma declaração do titular do direito, a apresentar por escrito ou por via electrónica nos termos do direito nacional, pela qual o mesmo aceita a sua eventual responsabilidade relativamente às pessoas envolvidas numa operação referida no n.o 1 do artigo 1.o, se o procedimento iniciado por força do n.o 1 do artigo 9.o não for prosseguido devido a um acto ou a uma omissão do titular do direito ou se vier a verificar que as mercadorias em causa não violam um direito de propriedade intelectual.\n\nNa mesma declaração, o titular do direito ou o seu representante acordam em custear todas as despesas ocasionadas pela aplicação do presente regulamento com a manutenção das mercadorias sob controlo aduaneiro por força do artigo 9.o e, quando aplicável, do artigo 11.o\n\n2. Quando o pedido de intervenção for efectuado nos termos do n.o 4 do artigo 5.o, o titular do direito acordam, na referida declaração, em fornecer e assegurar o pagamento das tradições necessárias; esta declaração é válida em todos os Estados-Membros em que é aplicável a decisão de deferimento do pedido."
+  },
+  "3a98bf9d8d607f3f": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs artigos 5.o e 6.o são aplicáveis matatias mutandis aos pedidos de prorrogação."
+  },
+  "e796cc1ff659e0f8": {
+   "fragment_id": "Secção 3 Aceitação do pedido de intervenção — Artigo 8.o",
+   "type": "divisao",
+   "heading": "Secção 3 Aceitação do pedido de intervenção — Artigo 8.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 3 Aceitação do pedido de intervenção — Artigo 8.o\n\n1. O serviço aduaneiro competente fixa o período de intervenção das autoridades aduaneiras ao deferir o pedido de intervenção. Esse período não pode ser superior a um ano. Decorrido esse período, o serviço que tomou a decisão inicial, pode prorrogá-lo, a pedido do titular do direito, na condição de qualquer dívida do titular no âmbito do presente regulamento ter sido previamente apurada.\n\nO titular do direito informa o serviço aduaneiro competente referido no n.o 2 do artigo 5.o, quando o seu direito deixe de estar validamente registado ou caduque.\n\n2. A decisão de deferimento do pedido de intervenção do titular do direito, é imediatamente comunicada às estâncias aduaneiras do ou dos Estados-Membros susceptíveis de serem confrontados com mercadorias nele indicadas como violando um direito de propriedade intelectual.\n\nQuando o pedido de intervenção efectuado nos termos do n.o 4 do artigo 5.o é deferido, o período de intervenção das autoridades aduaneiras é fixado em um ano; decorrido esse período, o serviço que examinou o pedido inicial pode prorrogá-lo mediante pedido escrito do titular do direito. O disposto no primeiro travessão do artigo 250.o do Regulamento (CEE) n.o 2913/92 é aplicável matatias mutandis à decisão de deferimento deste pedido, bem como às decisões de prorrogação ou de revogação.\n\nQuando o pedido de intervenção é deferido, cabe ao requerente transmitir essa decisão de deferimento, acompanhada de quaisquer outras informações e tradições eventualmente necessárias, ao serviço aduaneiro competente do ou dos Estados-Membros em que solicitou a intervenção das autoridades aduaneiras. No entanto, com o acordo do requerente, a transmissão do pedido pode ser efectuada directamente pelo serviço da autoridade aduaneira que tomou a decisão.\n\nA pedido das autoridades aduaneiras dos Estados-Membros em questão, o requerente deve fornecer as informações adicionais necessárias à execução da referida decisão.\n\n3. O período referido no segundo parágrafo do n.o 2 começa a contar da data de aprovação da decisão de deferimento do pedido. A referida decisão só entra em vigor no ou nos Estados-Membros destinatários, a contar da transmissão referida no terceiro parágrafo do n.o 2 e quando o titular de direitos tenha cumprido as formalidades referidas no artigo 6.o\n\nA decisão é em seguida imediatamente comunicada às estâncias aduaneiras nacionais susceptíveis de serem confrontadas com as mercadorias suspeitas de violarem direitos de propriedade intelectual.\n\nO disposto no presente número é aplicável matatias mutandis à decisão de prorrogação da decisão inicial.\n\nCAPÍTULO III CONDIÇÕES DE INTERVENÇÃO DAS AUTORIDADES ADUANEIRAS E DA AUTORIDADE COMPETENTE PARA DECIDIR QUANTO AO FUNDO"
+  },
+  "0bac60c52bcaee70": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Quando uma estância aduaneira à qual tenha sido comunicada a decisão de deferimento do pedido do titular do direito nos termos do artigo 8.o suspeitar, se necessário após consulta ao requerente, que as mercadorias que se encontram numa das situações referidas no n.o 1 do artigo 1.o violam um direito de propriedade intelectual abrangido por aquela decisão, suspende a autorização de saída das referidas mercadorias ou procede à sua detenção.\n\nA estância aduaneira informa imediatamente o serviço que examinou o pedido de intervenção.\n\n2. O serviço aduaneiro competente ou a estância aduaneira referida no n.o 1 informa o titular do direito e o declarante ou o detentor das mercadorias na acepção do artigo 38.o do Regulamento (CEE) n.o 2913/92 dessa intervenção e fica autorizado a comunicar-lhes a quantidade real ou estimada, bem como a natureza real ou suposta das mercadorias detidas ou cuja autorização de saída tenha sido suspensa, sem que a comunicação dessas informações os obrigue a notificar a autoridade competente para decidir quanto ao fundo.\n\n3. A fim de determinar se houve violação de um direito de propriedade intelectual nos termos do direito nacional e das disposições nacionais em matéria de protecção de dados pessoais, de segredo comercial e industrial, bem como de sigilo profissional e administrativo, a estância aduaneira ou o serviço que examinou o pedido comunica ao titular do direito, a seu pedido, e quando sejam conhecidos, os nomes e endereços do destinatário, do expedidor, do declarante ou do detentor das mercadorias, a origem e a proveniência das mercadorias suspeitas de violar um direito de propriedade intelectual.\n\nA estância aduaneira concede ao requerente e às pessoas envolvidas numa das situações referidas no n.o 1 do artigo 1.o, a possibilidade de inspeccionar as mercadorias detidas ou cuja autorização de saída tenha sido suspensa.\n\nAquando do exame das mercadorias, a estância aduaneira pode proceder à recolha de amostras e, de acordo com as regras em vigor no Estado-Membro em questão e mediante pedido expresso do titular, enviá-las ou entregá-las exclusivamente para análise e para facilitar o subsequente processo. Sempre que as circunstâncias o permitam e sob reserva da eventual aplicação dos requisitos do segundo travessão do n.o 1 do artigo 11.o, as amostras devem ser restituídas após a conclusão da análise técnica e antes da eventual autorização de saída das mercadorias ou da cessação da detenção. Qualquer análise destas amostras é efectuada exclusivamente sob a responsabilidade do titular do direito."
+  },
+  "2dc1f0f71f25e7a8": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nÉ aplicável a legislação em vigor no Estado-Membro em cujo território as mercadorias se encontrem numa das situações referidas no n.o 1 do artigo 1.o, a fim de determinar se houve violação de um direito de propriedade intelectual nos termos do direito nacional.\n\nEssa legislação é igualmente aplicável à notificação imediata do serviço ou da estância aduaneira referida no n.o 1 do artigo 9.o do início do procedimento previsto no artigo 13.o, excepto se este tiver sido iniciado por aquele serviço ou estância."
+  },
+  "08b933a6e0c3fafe": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Quando as autoridades aduaneiras tiverem apreendido ou suspendido a entrega das mercadorias suspeitas de violar um direito de propriedade intelectual numa das situações previstas no n.o 1 do artigo 1.o, os Estados-Membros podem prever, nos termos do seu direito nacional, um procedimento simplificado, a utilizar com o acordo do titular do direito, que permita às autoridades aduaneiras decidir o abandono dessas mercadorias para destruição sob controlo aduaneiro, sem que seja necessário determinar se houve violação de um direito de propriedade intelectual nos termos do direito nacional. Os Estados-Membros devem, para o efeito, aplicar as seguintes condições nos termos do seu direito nacional:\n\n- num prazo de 10 dias úteis, ou de três dias úteis no caso de mercadorias perecíveis, a contar da data de recepção da notificação prevista no artigo 9.o, o titular do direito deve indicar por escrito às autoridades aduaneiras que as mercadorias sujeitas ao procedimento violam um direito de propriedade intelectual referido no n.o 1 do artigo 2.o, bem como fornecer a essas autoridades o acordo escrito do declarante, do possuidor ou do proprietário das mercadorias quanto ao abandono das mercadorias para destruição. Essas informações podem ser comunicadas directamente aos serviços aduaneiros pelo declarante, pelo possuidor ou pelo proprietário das mercadorias, mediante o acordo das autoridades aduaneiras. Presume-se que esse acordo foi aceite sempre que o declarante, o possuidor ou o proprietário das mercadorias não se tiverem oposto especificamente à sua destruição no prazo estipulado. Em certos casos, esse período pode ser prorrogado por mais 10 dias úteis,\n\n- salvo disposição em contrário da legislação nacional, a destruição é efectuada a expensas e sob a responsabilidade do titular do direito e é sistematicamente precedida de uma recolha de amostras que serão conservadas pelas autoridades aduaneiras em condições que lhes permitam constituir elementos de prova admissíveis em processos judiciais do Estado-Membro onde a sua utilização se possa revelar necessária.\n\n2. Em todos os outros casos, por exemplo quando o declarante, o possuidor ou o proprietário se oponham à destruição das mercadorias ou a contestem é aplicável o procedimento previsto no artigo 13.o"
+  },
+  "371e1380cc669343": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nAs informações referidas no primeiro parágrafo do n.o 3 do artigo 9.o, transmitidas ao titular do direito devem ser por ele utilizadas exclusivamente para os fins previstos nos artigos 10.o e 11.o e no n.o 1 do artigo 13.o\n\nQualquer outra utilização não permitida pela legislação nacional do Estado-Membro em que a situação se verificar pode, por força do direito do Estado-Membro em que se encontram as mercadorias em causa, implicar a responsabilidade civil do titular do direito e conduzir à suspensão do pedido de intervenção, pelo período de validade restante antes da sua renovação, no Estado-Membro em que se tenham verificado os factos.\n\nEm caso de posterior violação desta regra, o serviço aduaneiro competente pode recusar a renovação do pedido de intervenção. Se for apresentado um pedido previsto no n.o 4 do artigo 5.o, os outros Estados-Membros indicados no formulário também devem ser notificados."
+  },
+  "d284be848f09215a": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Se, num prazo de 10 dias úteis a contar da data de recepção da notificação da suspensão da autorização de saída ou da detenção, a estância aduaneira referida no n.o 1 do artigo 9.o não tiver sido notificada do início de um processo destinado a determinar se houve violação de um direito de propriedade intelectual ao abrigo do direito nacional, nos termos do artigo 10.o, ou não tiver recebido o acordo do titular do direito previsto no n.o 1 do artigo 11.o, quando aplicável, será concedida a autorização de saída das mercadorias ou, se for caso disso, cessará a sua detenção, sob reserva do cumprimento de todas as formalidades aduaneiras.\n\nEm determinados casos, esse prazo pode ser prorrogado por um máximo de 10 dias úteis.\n\n2. No caso de mercadorias perecíveis suspeitas de violar um direito de propriedade intelectual, o prazo referido no n.o 1 é de três dias úteis. Esse prazo não pode ser prorrogado."
+  },
+  "f70551840777f175": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. No caso de mercadorias suspeitas de violarem direitos relativos aos desenhos ou modelos, patentes, certificados complementares de protecção ou direitos de protecção de variedades vegetais, o declarante, o proprietário, o importador, o possuidor ou o destinatário das mercadorias devem poder obter a saída das mercadorias ou o levantamento da medida de detenção em causa contra o depósito de uma garantia, desde que:\n\na) O serviço ou a estância aduaneira referida no n.o 1 do artigo 9.o tenha sido informado, nos termos do n.o 1 do artigo 13.o, do início de um procedimento destinado a determinar se houve violação de um direito de propriedade intelectual nos termos do direito nacional, dentro do prazo previsto no n.o 1 do artigo 13.o;\n\nb) A autoridade competente para o efeito não tenha decidido medidas cautelares antes do termo do prazo previsto no n.o 1 do artigo 13.o;\n\nc) Tenham sido cumpridas todas as formalidades aduaneiras.\n\n2. A garantia prevista no n.o 1 deve ser suficiente para proteger os interesses do titular do direito.\n\nA constituição desta garantia não prejudica outras possibilidades legais à disposição do titular do direito.\n\nQuando o procedimento destinado a determinar se houve violação de um direito de propriedade intelectual nos termos do direito nacional for iniciado de outro modo que não por iniciativa do titular do direito relativo aos desenhos ou modelos, da patente, do certificado complementar de protecção ou do direito de protecção de variedades vegetais, a garantia é liberada se a pessoa que der início ao referido procedimento não exercer o seu direito de proceder judicialmente num prazo de vinte dias úteis a contar da data de recepção da notificação da suspensão da autorização de saída ou da detenção.\n\nQuando se aplique o disposto no segundo parágrafo do n.o 1 do artigo 13.o, esse prazo pode ser prorrogado até um máximo de 30 dias úteis."
+  },
+  "fbd07c58a0765f1b": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nAs condições de armazenagem das mercadorias durante o período da suspensão da autorização de saída ou da detenção são determinadas por cada Estado-Membro e não podem originar custos para as administrações aduaneiras.\n\nCAPÍTULO IV DISPOSIÇÕES APLICÁVEIS ÀS MERCADORIAS RECONHECIDAS COMO MERCADORIAS QUE VIOLAM UM DIREITO DE PROPRIEDADE INTELECTUAL"
+  },
+  "e6b96ec0fd4ecc9f": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nAs mercadorias consideradas em situação de violação de um direito de propriedade intelectual, no termo do procedimento previsto no artigo 9.o não podem ser:\n\n- introduzidas no território aduaneiro da Comunidade,\n\n- introduzidas em livre prática,\n\n- sair do território aduaneiro da Comunidade,\n\n- exportadas,\n\n- reexportadas,\n\n- sujeitas a um regime suspensivo, ou\n\n- colocadas em zona franca ou em entreposto franco."
+  },
+  "943af5845cc47f88": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. Sem prejuízo de outros recursos legais à disposição do titular do direito, os Estados-Membros devem tomar as medidas necessárias para permitir às autoridades competentes:\n\na) Nos termos das disposições de direito nacional, aplicáveis destruir as mercadorias consideradas em situação de violação de um direito de propriedade intelectual ou colocá-las fora dos circuitos comerciais por forma a evitar causar um prejuízo ao titular do direito, sem pagamento de qualquer tipo de indemnização e, salvo disposição em contrário da legislação nacional, sem encargos para a Fazenda Pública;\n\nb) Tomar, em relação a essas mercadorias, quaisquer outras medidas destinadas a privar efectivamente as pessoas em causa de quaisquer benefícios económicos da operação.\n\nExcepto em casos excepcionais, a simples eliminação das marcas indevidamente ostentadas pelas mercadorias de contrafacção não é considerada como privando efectivamente as pessoas em causa dos benefícios económicos da operação.\n\n2. As mercadorias consideradas em situação de violação de um direito de propriedade intelectual podem ser perdidas para a Fazenda Pública. Nesse caso, é aplicável o disposto na alínea a) do n.o 1."
+  },
+  "29fa3e10da2a4be1": {
+   "fragment_id": "CAPÍTULO V SANÇÕES — Artigo 18.o",
+   "type": "divisao",
+   "heading": "CAPÍTULO V SANÇÕES — Artigo 18.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V SANÇÕES — Artigo 18.o\n\nCada Estado-Membro estabelece sanções a aplicar nos casos de violação do presente regulamento. Essas sanções devem ser efectivas, proporcionadas e dissuasivas."
+  },
+  "cd63a5e400f8c0f6": {
+   "fragment_id": "CAPÍTULO VI RESPONSABILIDADE DAS AUTORIDADES ADUANEIRAS E DO TITULAR DO DIREITO — Artigo 19.o",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI RESPONSABILIDADE DAS AUTORIDADES ADUANEIRAS E DO TITULAR DO DIREITO — Artigo 19.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI RESPONSABILIDADE DAS AUTORIDADES ADUANEIRAS E DO TITULAR DO DIREITO — Artigo 19.o\n\n1. A aceitação de um pedido de intervenção não confere qualquer direito de indemnização ao titular do direito, se as mercadorias que violam um direito de propriedade intelectual não forem detectadas por uma estância aduaneira e for autorizada a sua saída ou na falta de uma medida para as deter nos termos do n.o 1 do artigo 9.o, excepto quando previsto na legislação do Estado-Membro em que foi apresentado o pedido ou, quando este tenha sido apresentado nos termos do n.o 4 do artigo 5.o, na legislação do Estado-Membro em que as referidas mercadorias não sejam detectadas por uma estância aduaneira.\n\n2. O exercício, por uma estância aduaneira ou por outra autoridade competente para o efeito, das suas competências em matéria de luta contra as mercadorias que violam um direito de propriedade intelectual, não as torna responsáveis em relação às pessoas envolvidas nas situações previstas no n.o 1 do artigo 1.o ou às pessoas afectadas pelas medidas previstas no artigo 4.o, pelos danos que tenham sofrido em resultado da intervenção das referidas autoridades, excepto quando previsto na legislação do Estado-Membro em que foi apresentado o pedido ou quando o pedido tenha sido apresentado nos termos do n.o 4 do artigo 5.o, nas condições previstas pela legislação do Estado-Membro em que se verificou o prejuízo ou dano.\n\n3. A responsabilidade civil do titular do direito regula-se pelo direito do Estado-Membro em que as mercadorias em causa foram colocadas numa das situações referidas no n.o 1 do artigo 1.o"
+  },
+  "4855914e332580d4": {
+   "fragment_id": "CAPÍTULO VII DISPOSIÇÕES FINAIS — Artigo 20.o",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII DISPOSIÇÕES FINAIS — Artigo 20.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII DISPOSIÇÕES FINAIS — Artigo 20.o\n\nAs medidas necessárias à execução do presente regulamento são aprovadas nos termos do n.o 2 do artigo 21.o"
+  },
+  "54ae77714bec41cd": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. A Comissão é assistida pelo Comité do Código Aduaneiro.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.o e 7.o da Decisão 1999/468/CE.\n\nO prazo previsto no n.o 3 do artigo 4.o da Decisão 1999/468/CE é de três meses."
+  },
+  "6ba8304bc27db901": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nOs Estados-Membros devem comunicar à Comissão todas as informações úteis relativas à execução do presente regulamento.\n\nA Comissão deve comunicar essas informações aos outros Estados-Membros.\n\nO Regulamento (CE) n.o 515/97 é aplicável matatias mutandis.\n\nAs regras do procedimento de informação são elaboradas no âmbito das disposições de execução, nos termos do n.o 2 do artigo 21.o"
+  },
+  "55d50501f959b885": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nCom base nas informações referidas no artigo 22.o, a Comissão apresenta anualmente um relatório ao Conselho sobre a aplicação do presente regulamento. O relatório pode ser eventualmente acompanhado de uma proposta de alteração do regulamento."
+  },
+  "f664a6b2e51f0916": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nO Regulamento (CEE) n.o 3295/94 é revogado com efeitos a 1 de Julho de 2004.\n\nAs referências ao regulamento revogado devem entender-se como sendo feitas ao presente regulamento."
+  },
+  "851685b463775a06": {
+   "fragment_id": "Artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nO presente regulamento entra em vigor sete dias após a sua publicação no Jornal Oficial da União Europeia.\n\nÉ aplicável com efeitos a 1 de Julho de 2004.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 22 de Julho de 2003.\n\nPelo Conselho\n\nO Presidente\n\nG. Alemanno\n\n(1) JO L 341 de 30.12.1994, p. 8. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 806/2003 (JO L 122 de 16.5.2003, p. 1).\n\n(2) JO L 82 de 22.3.1997, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 807/2003 (JO L 122 de 16.5.2003, p. 36).\n\n(3) JO L 184 de 17.7.1999, p. 23.\n\n(4) JO L 302 de 19.10.1992. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 2700/2000 do Parlamento Europeu e do Conselho (JO L 311 de 12.12.2000, p. 17).\n\n(5) JO L 11 de 14.1.1994, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 807/2003.\n\n(6) JO L 3 de 5.1.2002, p. 1.\n\n(7) JO L 182 de 2.7.1992, p. 1.\n\n(8) JO L 198 de 8.8.1996, p. 30.\n\n(9) JO L 227 de 1.9.1994, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 807/2003.\n\n(10) JO L 208 de 24.7.1992, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 806/2003.\n\n(11) JO L 179 de 14.7.1999, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 806/2003.\n\n(12) JO L 160 de 12.6.1989, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 3378/94 do Parlamento Europeu e do Conselho (JO L 366 de 31.12.1994, p. 1)."
+  }
+ }
+}

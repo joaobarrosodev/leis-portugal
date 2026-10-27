@@ -1,0 +1,75 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:649478:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1990-840849456",
+ "dre_path": "/dr/detalhe/portaria/734-a-1990-649478",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1990-08-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "840849498"
+   ]
+  },
+  {
+   "date": "1997-02-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:506798:por",
+     "title": "Portaria n.º 119/97",
+     "published": "1997-02-21",
+     "dre_path": "/dr/detalhe/portaria/119-1997-506798"
+    }
+   ],
+   "changes": [
+    "Altera 1.º"
+   ],
+   "fragments": [
+    "840849498",
+    "840849506",
+    "840849503",
+    "840849499"
+   ]
+  }
+ ],
+ "fragments": {
+  "840849498": {
+   "fragment_id": "840849457",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 734-A/90\n\nde 24 de Agosto\n\nO Decreto-Lei n.º 258/90, de 16 de Agosto, criou o suplemento de serviço aéreo e previu que o seu montante fosse fixado por portaria conjunta dos Ministérios da Defesa Nacional e das Finanças.\n\nAssim:\n\nManda o Governo, pelos Ministros da Defesa Nacional e das Finanças, o seguinte:"
+  },
+  "840849506": {
+   "fragment_id": "840849459",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": "1997-02-26",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 119/97 - Diário da República n.º 44/1997, Série I-B de 1997-02-21](https://diariodarepublica.pt/dr/detalhe/portaria/119-1997-506798), em vigor a partir de 1997-02-26"
+   ],
+   "markdown": "###### 1.º\n\nNos termos do artigo 4.º do Decreto-Lei n.º 258/90, de 16 de Agosto, os montantes do suplemento de serviço aéreo são fixados nos quantitativos mensais correspondentes às seguintes percentagens do escalão 1 da remuneração base de capitão, arredondado para a centena de escudos imediatamente superior:\n\na) Pessoal navegante permanente (PilAv e Pil):\n\nCategoria ... Percentagem\n\n1) General/vice-almirante ... 35\n\n2) Brigadeiro/contra-almirante ... 38\n\n3) Coronel/capitão-de-mar-e-guerra ... 53\n\n4) Tenente-coronel/capitão-de-fragata, major/capitão-tenente e capitão/1.º tenente ... 66\n\n5) Tenente/2.º tenente ... 45\n\n6) Alferes/guarda-marinha ... 35\n\nb) Outro pessoal navegante permanente:\n\nCategoria ... Percentagem\n\n1) Coronel/capitão-de-mar-e-guerra e tenente-coronel/capitão de fragata ... 53\n\n2) Major/capitão-tenente e capitão/1.º tenente ... 66\n\n3) Tenente/2.º tenente ... 45\n\n4) Alferes/guarda-marinha ... 35\n\nc) Pessoal navegante temporário:\n\n1) Oficial e sargento ... 35\n\n2) Praça ... 20\n\nd) Pessoal navegante em preparação com destino aos quadros permanentes:\n\n1) Alunos do curso de pilotagem aeronáutica das academias militares em tirocínio ... 20\n\n2) Alunos do curso de pilotagem aeronáutica das academias militares ... 10\n\ne) Pessoal na frequência de cursos de formação de pilotagem ou navegação com destino a pessoal não permanente ... 10\n\n> Alterado pelo/a [Portaria n.º 119/97 - Diário da República n.º 44/1997, Série I-B de 1997-02-21](https://diariodarepublica.pt/dr/detalhe/portaria/119-1997-506798), em vigor a partir de 1997-02-26"
+  },
+  "840849503": {
+   "fragment_id": "840849460",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nOs valores constantes da presente portaria serão revistos até 1 de Janeiro de 1992."
+  },
+  "840849499": {
+   "fragment_id": "840849458",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministérios da Defesa Nacional e das Finanças.\n\nAssinada em 17 de Agosto de 1990.\n\nO Ministro da Defesa Nacional, Joaquim Fernando Nogueira. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento."
+  }
+ }
+}

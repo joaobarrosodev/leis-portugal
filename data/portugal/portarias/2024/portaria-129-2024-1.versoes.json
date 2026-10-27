@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:858576213:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-887975453",
+ "dre_path": "/dr/detalhe/portaria/129-2024-858576213",
+ "source_lastmod": "2024-09-17",
+ "versions": [
+  {
+   "date": "2024-04-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "887975539",
+    "887975540",
+    "887975541",
+    "887975542"
+   ]
+  }
+ ],
+ "fragments": {
+  "887975539": {
+   "fragment_id": "887975454",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 129/2024/1\n\nde 2 de abril\n\nO Código dos Impostos Especiais sobre o Consumo (CIEC), aprovado pelo Decreto-Lei n.º 73/2010, de 21 de junho, foi alterado pela Lei n.º 24-D/2022 e pela Lei n.º 24-E/2022, ambas de 30 de dezembro, tendo o regime de reembolso parcial de ISP (vulgo, gasóleo profissional) sido alargado quanto ao seu âmbito de aplicação, passando a abranger também o transporte coletivo de passageiros.\n\nEm face da necessidade de adaptação dos sistemas da Autoridade Tributária e Aduaneira (AT), a regulamentação daquele alargamento do âmbito de aplicação subjetivo apenas produziu efeitos em 1 de janeiro de 2024, nos termos da Portaria n.º 453-A/2023, de 26 de dezembro. Desde a entrada em vigor da Lei n.º 24-D/2022 e da Lei n.º 24-E/2022 e até à produção de efeitos da respetiva regulamentação, foi assegurado - através do Fundo Ambiental - um apoio substitutivo ao setor do transporte coletivo de passageiros. Desde 1 de janeiro de 2024, deve ser assegurado aquele reembolso pela AT, não se encontrando previsto qualquer apoio substitutivo adicional.\n\nPor um lado, embora as adaptações aos sistemas da AT permitam agora o processamento do reembolso relativo aos abastecimentos realizados, desde 1 de janeiro de 2024, pelas empresas de transporte coletivo de passageiros, não foi oportunamente possível assegurar as condições para que aqueles operadores económicos pudessem obter as necessárias autorizações e verificar as condições de comunicação junto da AT previamente aos abastecimentos.\n\nPor outro lado, o sistema de reembolso parcial de ISP (vulgo, gasóleo profissional) requer também eventual adaptação e certificação dos próprios operadores económicos, pelo que aquela regulamentação previu expressamente a utilização provisória de sistemas de registo de abastecimentos e de locais de abastecimento.\n\nConsiderando que a legislação e a respetiva regulamentação preveem o direito das empresas de transporte coletivo de passageiros ao reembolso parcial do ISP quanto aos abastecimentos realizados desde 1 de janeiro de 2024, tendo concomitantemente cessado os apoios substitutivos neste domínio, aqueles operadores económicos não devem ser prejudicados pelos mencionados constrangimentos, devendo ser adaptado a estas circunstâncias o regime previsto de utilização provisória deste regime.\n\nO regime de reembolso parcial de impostos sobre combustíveis para as empresas de mercadorias, denominado de mecanismo de \"gasóleo profissional\", foi introduzido em Portugal nos termos do artigo 93.º-A do Código dos Impostos Especiais de Consumo (CIEC), aditado pela Lei n.º 24/2016, de 22 de agosto, e regulamentado pela Portaria n.º 246-A/2016, de 8 de setembro.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Digitalização e da Modernização Administrativa, pelo Secretário de Estado dos Assuntos Fiscais e pela Secretária de Estado da Energia e Clima, ao abrigo do artigo 93.º-A do Código dos Impostos Especiais de Consumo, aprovado pelo Decreto-Lei n.º 73/2010, de 21 de junho, na redação dada pelo artigo 3.º da Lei n.º 24-E/2022, de 30 de dezembro, o seguinte:"
+  },
+  "887975540": {
+   "fragment_id": "887975455",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria adota um regime transitório de aplicação, ao transporte coletivo de passageiros, do disposto na Portaria n.º 246-A/2016, de 8 de setembro, que estabelece as condições e os procedimentos do regime de reembolso parcial de impostos sobre combustíveis para empresas de transportes de mercadorias, prevista no artigo 93.º-A do Código dos Impostos Especiais de Consumo (CIEC), com a redação que lhe foi dada pela Portaria n.º 453-A/2023, de 26 de dezembro."
+  },
+  "887975541": {
+   "fragment_id": "887975456",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime transitório\n\n1 - A AT pode admitir provisoriamente a utilização dos postos de combustível e das instalações de consumo próprio, bem como de sistemas de registo de abastecimentos, relativamente ao transporte coletivo de passageiros, com efeitos retroativos à data em que produziu efeitos a Portaria n.º 453-A/2023, de 26 de dezembro.\n\n2 - O reembolso parcial de ISP relativamente ao transporte coletivo de passageiros em postos de combustível e instalações de consumo próprio abrangidos pelo número anterior aplica-se a abastecimentos realizados desde 1 de janeiro de 2024, podendo as comunicações relativas aos abastecimentos realizados no primeiro semestre de 2024 ser efetuadas até 31 de julho de 2024.\n\n> Nota: [Artigo 2.º, Portaria n.º 211/2024/1 - Diário da República n.º 180/2024, Série I de 2024-09-17](https://diariodarepublica.pt/dr/detalhe/portaria/211-2024-887804456) O prazo a que se refere o n.º 2 do artigo 2.º, para as comunicações relativas aos abastecimentos realizados no primeiro semestre de 2024, é prorrogado até 31 de outubro de 2024. As comunicações relativas aos abastecimentos realizados nos meses de julho, agosto e setembro de 2024 podem igualmente ser efetuadas até 31 de outubro de 2024."
+  },
+  "887975542": {
+   "fragment_id": "887975457",
+   "type": 11,
+   "heading": "Artigo 3.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte à sua publicação."
+  }
+ }
+}

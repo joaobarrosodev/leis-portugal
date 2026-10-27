@@ -1,0 +1,325 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:67323559:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-67646460",
+ "dre_path": "/dr/detalhe/portaria/154-a-2015-67323559",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-05-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "67648502",
+    "67648503",
+    "67648504",
+    "67648505",
+    "67648506",
+    "67648507",
+    "67648508",
+    "67648509"
+   ]
+  },
+  {
+   "date": "2015-06-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67444556:por",
+     "title": "Portaria n.º 173-B/2015",
+     "published": "2015-06-08",
+     "dre_path": "/dr/detalhe/portaria/173-b-2015-67444556"
+    }
+   ],
+   "changes": [
+    "Adita Anexo II",
+    "Adita Anexo III",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "67648502",
+    "67648503",
+    "67648524",
+    "67648525",
+    "67648506",
+    "67648507",
+    "67648508",
+    "67648511",
+    "67648509",
+    "67648522",
+    "67648523"
+   ]
+  },
+  {
+   "date": "2017-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:105643559:por",
+     "title": "Portaria n.º 338-A/2016",
+     "published": "2016-12-28",
+     "dre_path": "/dr/detalhe/portaria/338-a-2016-105643559"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "67648502",
+    "67648503",
+    "184547601",
+    "184547602",
+    "67648506",
+    "67648507",
+    "67648508",
+    "67648511",
+    "184547603",
+    "67648522",
+    "67648523"
+   ]
+  },
+  {
+   "date": "2022-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176907500:por",
+     "title": "Portaria n.º 331/2021",
+     "published": "2021-12-31",
+     "dre_path": "/dr/detalhe/portaria/331-2021-176907500"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "67648502",
+    "67648503",
+    "184547601",
+    "184547604",
+    "67648506",
+    "67648507",
+    "67648508",
+    "67648511",
+    "184547603",
+    "67648522",
+    "67648523"
+   ]
+  },
+  {
+   "date": "2022-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:185390587:por",
+     "title": "Portaria n.º 167/2022",
+     "published": "2022-06-29",
+     "dre_path": "/dr/detalhe/portaria/167-2022-185390587"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "67648502",
+    "67648503",
+    "184547601",
+    "185432913",
+    "67648506",
+    "67648507",
+    "67648508",
+    "67648511",
+    "184547603",
+    "185432914",
+    "67648523"
+   ]
+  }
+ ],
+ "fragments": {
+  "67648502": {
+   "fragment_id": "67646461",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 154-A/2015\n\nde 27 de maio\n\nO Decreto-Lei n.º 137/2014, de 12 de setembro, que estabelece o modelo de governação dos fundos europeus estruturais e de investimento (FEEI), entre os quais se inclui o Fundo Europeu Agrícola e de Desenvolvimento Rural (FEADER), determinou a estruturação operacional deste fundo em três programas de desenvolvimento rural (PDR), um para o continente, designado PDR 2020, outro para a região autónoma dos Açores, designado PRORURAL+, e outro para a região autónoma da Madeira, designado PRODERAM 2020.\n\nO PDR 2020 foi aprovado formalmente pela Comissão Europeia através da Decisão C (2014) 9896 final, de 12 de dezembro de 2014.\n\nNa arquitetura do PDR 2020, à área relativa ao «Ambiente, eficiência no uso dos recursos e clima», corresponde uma visão da estratégia nacional para o desenvolvimento rural, no domínio da melhoria da gestão dos recursos naturais e da proteção do solo, água, ar, biodiversidade e paisagem.\n\nNa área relativa ao «Ambiente, eficiência no uso dos recursos e clima» está inserida a medida n.º 7, «Agricultura e recursos naturais» que integra as ações n.os 7.1 «Agricultura Biológica», 7.2 «Produção integrada», 7.3 «Pagamentos Rede Natura», 7.4 «Conservação do solo», 7.5 «Uso eficiente da água», 7.6 «Culturas permanentes tradicionais», 7.7 «Pastoreio extensivo», 7.9 «Mosaico agroflorestal» e 7.12 «Apoio agroambiental à apicultura», tendo o seu regime jurídico sido alvo de regulamentação através das Portarias n.os 25/2015, de 9 de fevereiro, 50/2015, de 25 de fevereiro, e 56/2015, de 27 de fevereiro.\n\nSem prejuízo do disposto no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, e do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, é necessário clarificar e divulgar as regras aplicáveis para permitir combinar a possibilidade de cumulação de apoios com os limites máximos previstos no regulamento comunitário.\n\nAs regras previstas na presente portaria permitem uma evolução face ao quadro anterior, uma vez que os critérios de cumulação são aplicáveis mais cedo, permitindo que o apuramento destas medidas funcione de forma individualizada, tornando mais eficaz o processo de pagamento dos apoios a estas medidas, e facilitando a possibilidade de antecipação dos apoios aos agricultores.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo da alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, do n.º 3 do artigo 7.º da Portaria n.º 50/2015, de 25 de fevereiro, e do n.º 3 do artigo 6.º da Portaria n.º 56/2015, de 27 de fevereiro, e no uso das competências delegadas através do Despacho n.º 12256-A/2014, publicado no Diário da República, 2.ª série, n.º 191, de 3 de outubro de 2014, o seguinte:"
+  },
+  "67648503": {
+   "fragment_id": "67646462",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece as regras de cumulação dos apoios agroambientais e clima e apoios a título da Rede Natura 2000, concedidos no âmbito da medida n.º 7 «Agricultura e recursos naturais», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020."
+  },
+  "67648504": {
+   "fragment_id": "67646463",
+   "type": 11,
+   "heading": "Artigo 2.º — Cumulação dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Cumulação dos apoios\n\n1 - Os apoios previstos na ação n.º 7.1 «Agricultura Biológica», previstos na Portaria n.º 25/2015, de 9 de fevereiro, que respeitem à mesma subparcela agrícola, são cumuláveis com as ações n.os 7.4 «Conservação do solo», 7.5 «Uso eficiente da água», 7.6 «Culturas permanentes tradicionais», 7.7 «Pastoreio extensivo», 7.9 «Mosaico agroflorestal» e 7.12 «Apoio agroambiental à apicultura», previstos na Portaria n.º 50/2015, de 25 de fevereiro, bem como com os «Apoios zonais de caráter agroambiental», da ação n.º 7.3 «Pagamentos Rede Natura», previstos na Portaria n.º 56/2015, de 27 de fevereiro.\n\n2 - Sem prejuízo do disposto nos números seguintes, os apoios previstos na ação n.º 7.2 «Produção integrada», previstos na Portaria n.º 25/2015, de 9 de fevereiro, nas ações n.os 7.4 «Conservação do solo», 7.5 «Uso eficiente da água», 7.6 «Culturas permanentes tradicionais», 7.7 «Pastoreio extensivo», 7.9 «Mosaico agroflorestal» e 7.12 «Apoio agroambiental à apicultura», previstos na Portaria n.º 50/2015, de 25 de fevereiro, bem como os «Apoios zonais de caráter agroambiental» da ação n.º 7.3 «Pagamentos Rede Natura», previstos na Portaria n.º 56/2015, de 27 de fevereiro, que respeitem à mesma subparcela agrícola, são cumuláveis entre si, com os limites previstos no artigo 4.º\n\n3 - Os apoios previstos para a «Conservação dos soutos notáveis da Terra Fria» no «Apoio Zonal Montesinho Nogueira», da ação n.º 7.3 «Pagamentos Rede Natura», que respeitem à mesma subparcela agrícola, podem apenas cumular ou com os apoios previstos no âmbito da ação n.º 7.2 «Produção integrada», ou com o apoio ao «Enrelvamento da entrelinha de culturas permanentes» da ação n.º 7.4 «Conservação do solo», ou com o apoio previsto no âmbito da ação n.º 7.12 «Apoio agroambiental à apicultura».\n\n4 - Os apoios previstos para o «Douro Vinhateiro» da ação n.º 7.6 «Culturas permanentes tradicionais», que respeitem à mesma subparcela agrícola, podem apenas cumular ou com os apoios previstos no âmbito da ação n.º 7.2 «Produção integrada» nas subparcelas de vinha tradicional ou sistema pré-filoxérico, amendoal de sequeiro ou olival de sequeiro, ou com os apoios «Culturas permanentes tradicionais» da ação n.º 7.6 «Culturas permanentes tradicionais», ou com os apoios da ação n.º 7.12 «Apoio agroambiental à apicultura», quando os muros candidatados tenham um máximo de 500 metros lineares por hectare.\n\n5 - Os apoios «Manutenção de socalcos» no «Apoio Zonal Peneda-Gerês», da ação n.º 7.3 «Pagamentos Rede Natura», que respeitem à mesma subparcela agrícola, podem apenas cumular ou com os apoios previstos em «Culturas permanentes tradicionais» da ação n.º 7.6 «Culturas permanentes tradicionais», ou com o apoio «Lameiros de alto valor natural» da ação n.º 7.7 «Pastoreio extensivo» e, em ambas as situações, ainda podem cumular com a ação n.º 7.12 «Apoio agroambiental à apicultura»."
+  },
+  "67648505": {
+   "fragment_id": "67646464",
+   "type": 11,
+   "heading": "Artigo 3.º — Montantes da cumulação de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Montantes da cumulação de apoio\n\n1 - Não há lugar à concessão de apoio à ação n.º 7.2 «Produção integrada» nas subparcelas de vinha tradicional ou sistema pré-filoxérico, amendoal de sequeiro ou olival de sequeiro, que respeitem à mesma subparcela agrícola, quando cumulado com o apoio «Douro Vinhateiro», da ação n.º 7.6 «Culturas permanentes tradicionais», e se verifique uma alteração da produção para o «Grupo de cultura» «frutos frescos», previsto no anexo IV à Portaria n.º 25/2015, de 9 de fevereiro.\n\n2 - Em caso de cumulação, que respeite à mesma subparcela agrícola, entre os apoios ao «Grupo de cultura» «Horticultura» previsto no anexo IV à Portaria n.º 25/2015, de 9 de fevereiro, da ação n.º 7.2 «Produção integrada», e os apoios previstos nas ações n.os 7.5 «Uso eficiente da água», 7.9 «Mosaico agroflorestal» e 7.12 «Apoio agroambiental à apicultura», aplicam-se os montantes e limites de apoio constantes do anexo à presente portaria, da qual faz parte integrante.\n\n> Nota: [Artigo 4.º, Portaria n.º 167/2022 - Diário da República n.º 124/2022, Série I de 2022-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/167-2022-185390587) determina que as alterações introduzidas aplicam-se aos compromissos de natureza agroambiental em curso."
+  },
+  "67648506": {
+   "fragment_id": "67646465",
+   "type": 11,
+   "heading": "Artigo 4.º — Limites das cumulações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Limites das cumulações\n\nA cumulação dos apoios referidos no n.º 2 do artigo 2.º encontra-se sujeita aos seguintes limites anuais:\n\na) (euro) 900 por hectare no caso de culturas permanentes;\n\nb) (euro) 600 por hectare no caso de culturas temporárias;\n\nc) (euro) 450 por hectare no caso de pastagens permanentes."
+  },
+  "67648507": {
+   "fragment_id": "67646466",
+   "type": 11,
+   "heading": "Artigo 5.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Produção de efeitos\n\nA presente portaria produz efeitos a partir da data de entrada em vigor da:\n\na) Portaria n.º 25/2015, de 9 de fevereiro, para as ações n.os 7.1 «Agricultura biológica» e 7.2 «Produção integrada»;\n\nb) Portaria n.º 50/2015, de 25 de fevereiro, para as ações n.os 7.4 «Conservação do solo», 7.5 «Uso eficiente da água», 7.6 «Culturas permanentes tradicionais», 7.7 «Pastoreio extensivo», 7.9 «Mosaico agroflorestal» e 7.12 «Apoio agroambiental à apicultura»;\n\nc) Portaria n.º 56/2015, de 27 de fevereiro, para a ação n.º 7.3 «Pagamentos Rede Natura»."
+  },
+  "67648508": {
+   "fragment_id": "67646467",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "67648509": {
+   "fragment_id": "67646468",
+   "type": 14,
+   "heading": "Anexo — Montantes da cumulação de apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Montantes da cumulação de apoios\n\n(a que se refere o n.º 2 do artigo 3.º)\n\nTABELA 1\n\nMontantes de apoio da ação n.º 7.2 «Produção Integrada» no «Grupo de cultura» «Horticultura», quando existe cumulação com apenas um dos apoios previstos nas ações n.os 7.5 «Uso eficiente da água», 7.9 «Mosaico agroflorestal» e 7.12 «Apoio agroambiental à apicultura».\n\n(ver documento original)\n\nTABELA 2\n\nMontantes de apoio da ação n.º 7.2 «Produção Integrada» no «Grupo de cultura» «Horticultura» quando existe cumulação com dois ou mais dos apoios previstos nas ações n.os 7.5 «Uso eficiente da água», 7.9 «Mosaico agroflorestal» e 7.12 «Apoio agroambiental à apicultura».\n\n(ver documento original)"
+  },
+  "67648524": {
+   "fragment_id": "67646463",
+   "type": 11,
+   "heading": "Artigo 2.º — Cumulação dos apoios",
+   "in_force_from": "2015-06-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 173-B/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-b-2015-67444556), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-05-28"
+   ],
+   "markdown": "###### Artigo 2.º — Cumulação dos apoios\n\n1 - Os apoios previstos na ação n.º 7.1 «Agricultura Biológica», previstos na Portaria n.º 25/2015, de 9 de fevereiro, que respeitem à mesma subparcela agrícola, são cumuláveis com as ações n.os 7.4 «Conservação do solo», 7.5 «Uso eficiente da água», 7.6 «Culturas permanentes tradicionais», 7.7 «Pastoreio extensivo», 7.9 «Mosaico agroflorestal» e 7.12 «Apoio agroambiental à apicultura», previstos na Portaria n.º 50/2015, de 25 de fevereiro, bem como com os «Apoios zonais de caráter agroambiental», da ação n.º 7.3 «Pagamentos Rede Natura», previstos na Portaria n.º 56/2015, de 27 de fevereiro.\n\n2 - Sem prejuízo do disposto nos números seguintes, os apoios previstos na ação n.º 7.2 «Produção integrada», previstos na Portaria n.º 25/2015, de 9 de fevereiro, nas ações n.os 7.4 «Conservação do solo», 7.5 «Uso eficiente da água», 7.6 «Culturas permanentes tradicionais», 7.7 «Pastoreio extensivo», 7.9 «Mosaico agroflorestal» e 7.12 «Apoio agroambiental à apicultura», previstos na Portaria n.º 50/2015, de 25 de fevereiro, bem como os «Apoios zonais de caráter agroambiental» da ação n.º 7.3 «Pagamentos Rede Natura», previstos na Portaria n.º 56/2015, de 27 de fevereiro, que respeitem à mesma subparcela agrícola, são cumuláveis entre si, com os limites previstos no artigo 4.º\n\n3 - [Revogado]\n\n4 - [Revogado]\n\n5 - [Revogado].\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 173-B/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-b-2015-67444556), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-05-28"
+  },
+  "67648525": {
+   "fragment_id": "67646464",
+   "type": 11,
+   "heading": "Artigo 3.º — Montantes da cumulação de apoio",
+   "in_force_from": "2015-06-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 173-B/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-b-2015-67444556), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-05-28"
+   ],
+   "markdown": "###### Artigo 3.º — Montantes da cumulação de apoio\n\n1 - Não há lugar à concessão de apoio à ação n.º 7.2 «Produção integrada» nas subparcelas de vinha tradicional ou sistema pré-filoxérico, amendoal de sequeiro ou olival de sequeiro, que respeitem à mesma subparcela agrícola, quando cumulado com o apoio «Douro Vinhateiro», da ação n.º 7.6 «Culturas permanentes tradicionais», e se verifique uma alteração da produção para o «Grupo de cultura» «frutos frescos», previsto no anexo IV à Portaria n.º 25/2015, de 9 de fevereiro.\n\n2 - Em caso de cumulação, que respeite à mesma subparcela agrícola, entre os apoios ao «Grupo de cultura» «Horticultura» previsto no anexo IV à Portaria n.º 25/2015, de 9 de fevereiro, da ação n.º 7.2 «Produção integrada», e os apoios previstos nas ações n.os 7.5 «Uso eficiente da água», 7.9 «Mosaico agroflorestal» e 7.12 «Apoio agroambiental à apicultura», aplicam-se os montantes e limites de apoio constantes do anexo à presente portaria, da qual faz parte integrante.\n\n3 - Em caso de cumulação, que respeite à mesma subparcela agrícola, entre os apoios ao «Douro Vinhateiro» da ação 7.6 «Culturas permanentes tradicionais», e os apoios previstos nas ações 7.2 «Produção integrada», 7.6 «Culturas permanentes tradicionais» e 7.4 «Conservação do solo», aplicam-se os montantes e limites de apoio constantes do anexo II à presente portaria, da qual faz parte integrante, aplicando-se os mesmos montantes e limites caso seja ainda cumulada a ação 7.12 «Apoio agroambiental à apicultura».\n\n4 - Em caso de cumulação, que respeite à mesma subparcela agrícola, entre os apoios previstos para a «Conservação dos soutos notáveis da Terra Fria» no «Apoio Zonal Montesinho Nogueira», da ação n.º 7.3 «Pagamentos Rede Natura», e os apoios às ações n.º 7.2, «Produção integrada», «enrelvamento da entrelinha» da ação n.º 7.4 «Conservação do solo», e «Apicultura» 7.12, aplicam-se os montantes e limites de apoio constantes do anexo III à presente portaria, da qual faz parte integrante.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 173-B/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-b-2015-67444556), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-05-28"
+  },
+  "67648511": {
+   "fragment_id": "67646469",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 26 de maio de 2015."
+  },
+  "67648522": {
+   "fragment_id": "67647879",
+   "type": 14,
+   "heading": "Anexo II — Montantes de cumulação do apoio «Douro Vinhateiro» (a que se refere o n.º 3 do artigo 3.º)",
+   "in_force_from": "2015-06-09",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 173-B/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-b-2015-67444556), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-05-28"
+   ],
+   "markdown": "## Anexo II — Montantes de cumulação do apoio «Douro Vinhateiro» (a que se refere o n.º 3 do artigo 3.º)\n\nDouro Vinhateiro\n\n(ver documento original)\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 173-B/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-b-2015-67444556), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-05-28"
+  },
+  "67648523": {
+   "fragment_id": "67647880",
+   "type": 14,
+   "heading": "Anexo III — Montantes da cumulação do apoio «Conservação dos soutos notáveis da Terra Fria» (a que se refere o n.º 4 do artigo 3.º)",
+   "in_force_from": "2015-06-09",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 173-B/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-b-2015-67444556), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-05-28"
+   ],
+   "markdown": "## Anexo III — Montantes da cumulação do apoio «Conservação dos soutos notáveis da Terra Fria» (a que se refere o n.º 4 do artigo 3.º)\n\nSoutos Notáveis\n\n(ver documento original)\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 173-B/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-b-2015-67444556), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-05-28"
+  },
+  "184547601": {
+   "fragment_id": "67646463",
+   "type": 11,
+   "heading": "Artigo 2.º — Cumulação dos apoios",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 173-B/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-b-2015-67444556), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-05-28"
+   ],
+   "markdown": "###### Artigo 2.º — Cumulação dos apoios\n\n1 - Os apoios previstos na ação n.º 7.1 «Agricultura Biológica», previstos na Portaria n.º 25/2015, de 9 de fevereiro, que respeitem à mesma subparcela agrícola, são cumuláveis com as ações n.os 7.4 «Conservação do solo», 7.5 «Uso eficiente da água», 7.6 «Culturas permanentes tradicionais», 7.7 «Pastoreio extensivo», 7.9 «Mosaico agroflorestal» e 7.12 «Apoio agroambiental à apicultura», previstos na Portaria n.º 50/2015, de 25 de fevereiro, bem como com os «Apoios zonais de caráter agroambiental», da ação n.º 7.3 «Pagamentos Rede Natura», previstos na Portaria n.º 56/2015, de 27 de fevereiro.\n\n2 - Os apoios previstos na ação n.º 7.2 'Produção integrada', previstos na Portaria n.º 25/2015, de 9 de fevereiro, nas ações n.os 7.4 'Conservação do solo', 7.5 'Uso eficiente da água', 7.6 'Culturas permanentes tradicionais', 7.7 'Pastoreio extensivo', 7.9 'Mosaico agroflorestal' e 7.12 'Apoio agroambiental à apicultura', previstos na Portaria n.º 50/2015, de 25 de fevereiro, bem como os 'Apoios zonais de caráter agroambiental' da ação n.º 7.3 'Pagamentos Rede Natura', previstos na Portaria n.º 56/2015, de 27 de fevereiro, que respeitem à mesma subparcela agrícola, são cumuláveis entre si, com os limites previstos no artigo 4.º\n\n3 - [Revogado]\n\n4 - [Revogado]\n\n5 - [Revogado].\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 173-B/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-b-2015-67444556), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-05-28"
+  },
+  "184547602": {
+   "fragment_id": "67646464",
+   "type": 11,
+   "heading": "Artigo 3.º — Montantes da cumulação de apoio",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 173-B/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-b-2015-67444556), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-05-28"
+   ],
+   "markdown": "###### Artigo 3.º — Montantes da cumulação de apoio\n\n1 - Não há lugar à concessão de apoio à ação n.º 7.2 «Produção integrada» nas subparcelas de vinha tradicional ou sistema pré-filoxérico, amendoal de sequeiro ou olival de sequeiro, que respeitem à mesma subparcela agrícola, quando cumulado com o apoio «Douro Vinhateiro», da ação n.º 7.6 «Culturas permanentes tradicionais», e se verifique uma alteração da produção para o «Grupo de cultura» «frutos frescos», previsto no anexo IV à Portaria n.º 25/2015, de 9 de fevereiro.\n\n2 - Em caso de cumulação, que respeite à mesma área sob compromisso, aos apoios ao 'Grupo de cultura' 'Horticultura' previsto no anexo IV à Portaria n.º 25/2015, de 9 de fevereiro, da ação n.º 7.2, 'Produção integrada', e aos apoios previstos nas ações n.os 7.5, 'Uso eficiente da água', 7.9, 'Mosaico agroflorestal', e 7.12, 'Apoio agroambiental à apicultura', aplicam-se os montantes e limites de apoio para o 1.º e 2.º escalão constantes do anexo I à presente portaria, da qual faz parte integrante.\n\n3 - Em caso de cumulação, que respeite à mesma área sob compromisso, aos apoios ao 'Douro Vinhateiro' da ação n.º 7.6, 'Culturas permanentes tradicionais', e aos apoios previstos nas ações n.os 7.2, 'Produção integrada', 7.4 'Conservação do solo' e 7.6 'Culturas permanentes tradicionais' aplicam-se os montantes e limites de apoio constantes do anexo II à presente portaria, da qual faz parte integrante, aplicando-se os mesmos montantes e limites caso seja ainda cumulada a ação 7.12, 'Apoio agroambiental à apicultura'.\n\n4 - Em caso de cumulação, que respeite à mesma área sob compromisso, aos apoios previstos para a 'Conservação dos soutos notáveis da Terra Fria' no 'Apoio Zonal Montesinho Nogueira', da ação n.º 7.3, 'Pagamentos Rede Natura', e aos apoios às ações n.os 7.2, 'Produção integrada', 'Enrelvamento da entrelinha' da ação 7.4 'Conservação do solo', e 7.12 'Apoio agroambiental à apicultura', aplicam-se os montantes e limites de apoio constantes do anexo III à presente portaria, da qual faz parte integrante.\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 173-B/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-b-2015-67444556), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-05-28"
+  },
+  "184547603": {
+   "fragment_id": "67646468",
+   "type": 14,
+   "heading": "Anexo — Montantes da cumulação de apoios",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "## Anexo — Montantes da cumulação de apoios\n\n(a que se refere o n.º 2 do artigo 3.º)\n\nTABELA 1\n\nMontantes de apoio da ação n.º 7.2 «Produção Integrada» no «Grupo de cultura» «Horticultura», quando existe cumulação com apenas um dos apoios previstos nas ações n.os 7.5 «Uso eficiente da água», 7.9 «Mosaico agroflorestal» e 7.12 «Apoio agroambiental à apicultura».\n\n(ver documento original)\n\nTABELA 2\n\nMontantes de apoio da ação n.º 7.2 «Produção Integrada» no «Grupo de cultura» «Horticultura» quando existe cumulação com dois ou mais dos apoios previstos nas ações n.os 7.5 «Uso eficiente da água», 7.9 «Mosaico agroflorestal» e 7.12 «Apoio agroambiental à apicultura».\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01"
+  },
+  "184547604": {
+   "fragment_id": "67646464",
+   "type": 11,
+   "heading": "Artigo 3.º — Montantes da cumulação de apoio",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 331/2021 - Diário da República n.º 253/2021, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/331-2021-176907500), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 173-B/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-b-2015-67444556), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-05-28"
+   ],
+   "markdown": "###### Artigo 3.º — Montantes da cumulação de apoio\n\n1 - Não há lugar à concessão de apoio à ação n.º 7.2 «Produção integrada» nas subparcelas de vinha tradicional ou sistema pré-filoxérico, amendoal de sequeiro ou olival de sequeiro, que respeitem à mesma subparcela agrícola, quando cumulado com o apoio «Douro Vinhateiro», da ação n.º 7.6 «Culturas permanentes tradicionais», e se verifique uma alteração da produção para o «Grupo de cultura» «frutos frescos», previsto no anexo IV à Portaria n.º 25/2015, de 9 de fevereiro.\n\n2 - Em caso de cumulação, que respeite à mesma área sob compromisso, aos apoios ao 'Grupo de cultura' 'Horticultura' previsto no anexo IV à Portaria n.º 25/2015, de 9 de fevereiro, da ação n.º 7.2, 'Produção integrada', e aos apoios previstos nas ações n.os 7.5, 'Uso eficiente da água', 7.9, 'Mosaico agroflorestal', e 7.12, 'Apoio agroambiental à apicultura', aplicam-se os montantes e limites de apoio para o 1.º e 2.º escalão constantes do anexo I à presente portaria, da qual faz parte integrante.\n\n3 - Em caso de cumulação, que respeite à mesma área sob compromisso, aos apoios ao 'Douro Vinhateiro' da ação n.º 7.6, 'Culturas permanentes tradicionais', e aos apoios previstos nas ações n.os 7.2, 'Produção integrada', 7.4 'Conservação do solo' e 7.6 'Culturas permanentes tradicionais' aplicam-se os montantes e limites de apoio constantes do anexo II à presente portaria, da qual faz parte integrante, aplicando-se os mesmos montantes e limites caso seja ainda cumulada a ação 7.12, 'Apoio agroambiental à apicultura'.\n\n4 - Em caso de cumulação, que respeite à mesma área sob compromisso, aos apoios previstos para a 'Conservação dos soutos notáveis da Terra Fria' no 'Apoio Zonal Montesinho Nogueira', da ação n.º 7.3, 'Pagamentos Rede Natura', e aos apoios às ações n.os 7.2, 'Produção integrada', 'Enrelvamento da entrelinha' da ação 7.4 'Conservação do solo', e 7.12 'Apoio agroambiental à apicultura', aplicam-se os montantes e limites de apoio constantes do anexo III à presente portaria, da qual faz parte integrante.\n\n5 - Não há lugar à concessão de apoio à ação n.º 7.9, 'Mosaico agroflorestal', nas subparcelas de culturas frutícolas, ou olival, que respeitem à mesma subparcela agrícola, quando cumulado com o apoio previsto na ação n.º 7.6, 'Culturas permanentes tradicionais'.\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 331/2021 - Diário da República n.º 253/2021, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/331-2021-176907500), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 173-B/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-b-2015-67444556), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-05-28"
+  },
+  "185432913": {
+   "fragment_id": "67646464",
+   "type": 11,
+   "heading": "Artigo 3.º — Montantes da cumulação de apoio",
+   "in_force_from": "2022-06-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 167/2022 - Diário da República n.º 124/2022, Série I de 2022-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/167-2022-185390587), em vigor a partir de 2022-06-30",
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 331/2021 - Diário da República n.º 253/2021, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/331-2021-176907500), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 173-B/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-b-2015-67444556), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-05-28"
+   ],
+   "markdown": "###### Artigo 3.º — Montantes da cumulação de apoio\n\n1 - Não há lugar à concessão de apoio à ação n.º 7.2 «Produção integrada» nas subparcelas de vinha tradicional ou sistema pré-filoxérico, amendoal de sequeiro ou olival de sequeiro, que respeitem à mesma subparcela agrícola, quando cumulado com o apoio «Douro Vinhateiro», da ação n.º 7.6 «Culturas permanentes tradicionais», e se verifique uma alteração da produção para o «Grupo de cultura» «frutos frescos», previsto no anexo IV à Portaria n.º 25/2015, de 9 de fevereiro.\n\n2 - Em caso de cumulação, que respeite à mesma área sob compromisso, aos apoios ao 'Grupo de cultura' 'Horticultura' previsto no anexo IV à Portaria n.º 25/2015, de 9 de fevereiro, da ação n.º 7.2, 'Produção integrada', e aos apoios previstos nas ações n.os 7.5, 'Uso eficiente da água', 7.9, 'Mosaico agroflorestal', e 7.12, 'Apoio agroambiental à apicultura', aplicam-se os montantes e limites de apoio para o 1.º e 2.º escalão constantes do anexo I à presente portaria, da qual faz parte integrante.\n\n3 - Em caso de cumulação, que respeite à mesma área sob compromisso, dos apoios à Operação 7.6.2, 'Culturas permanentes tradicionais Douro Vinhateiro', da ação 7.6, 'Culturas permanentes tradicionais', com os apoios previstos na ação 7.2, 'Produção integrada', na Operação 7.6.1, 'Culturas permanentes tradicionais da ação', da ação 7.6, 'Culturas permanentes tradicionais', e nas ações 7.4, 'Conservação do solo', e 7.9, 'Mosaico agroflorestal', aplicam-se os montantes e limites de apoio constantes do anexo ii à presente portaria, da qual faz parte integrante, aplicando-se os mesmos montantes e limites caso seja ainda cumulada a ação 7.12, 'Apoio agroambiental à apicultura'.\n\n4 - Em caso de cumulação, que respeite à mesma área sob compromisso, aos apoios previstos para a 'Conservação dos soutos notáveis da Terra Fria' no 'Apoio Zonal Montesinho Nogueira', da ação n.º 7.3, 'Pagamentos Rede Natura', e aos apoios às ações n.os 7.2, 'Produção integrada', 'Enrelvamento da entrelinha' da ação 7.4 'Conservação do solo', e 7.12 'Apoio agroambiental à apicultura', aplicam-se os montantes e limites de apoio constantes do anexo III à presente portaria, da qual faz parte integrante.\n\n5 - Não há lugar à concessão de apoio à ação n.º 7.9, 'Mosaico agroflorestal', nas subparcelas de culturas frutícolas, ou olival, que respeitem à mesma subparcela agrícola, quando cumulado com o apoio previsto na ação n.º 7.6, 'Culturas permanentes tradicionais'.\n\n> Nota: [Artigo 4.º, Portaria n.º 167/2022 - Diário da República n.º 124/2022, Série I de 2022-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/167-2022-185390587) determina que as alterações introduzidas aplicam-se aos compromissos de natureza agroambiental em curso.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 167/2022 - Diário da República n.º 124/2022, Série I de 2022-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/167-2022-185390587), em vigor a partir de 2022-06-30\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 331/2021 - Diário da República n.º 253/2021, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/331-2021-176907500), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 173-B/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-b-2015-67444556), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-05-28"
+  },
+  "185432914": {
+   "fragment_id": "67647879",
+   "type": 14,
+   "heading": "Anexo II — Montantes de cumulação do apoio «Douro Vinhateiro» (a que se refere o n.º 3 do artigo 3.º)",
+   "in_force_from": "2022-06-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 167/2022 - Diário da República n.º 124/2022, Série I de 2022-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/167-2022-185390587), em vigor a partir de 2022-06-30",
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 173-B/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-b-2015-67444556), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-05-28"
+   ],
+   "markdown": "## Anexo II — Montantes de cumulação do apoio «Douro Vinhateiro» (a que se refere o n.º 3 do artigo 3.º)\n\nDouro Vinhateiro\n\n(ver documento original)\n\n> Nota: [Artigo 4.º, Portaria n.º 167/2022 - Diário da República n.º 124/2022, Série I de 2022-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/167-2022-185390587) determina que as alterações introduzidas aplicam-se aos compromissos de natureza agroambiental em curso.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 167/2022 - Diário da República n.º 124/2022, Série I de 2022-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/167-2022-185390587), em vigor a partir de 2022-06-30\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 173-B/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-b-2015-67444556), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-05-28"
+  }
+ }
+}

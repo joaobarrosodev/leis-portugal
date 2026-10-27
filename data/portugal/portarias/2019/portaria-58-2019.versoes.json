@@ -1,0 +1,825 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:119386291:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-122086341",
+ "dre_path": "/dr/detalhe/portaria/58-2019-119386291",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-02-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122080113",
+    "122080114",
+    "122080115",
+    "122080116",
+    "122080118",
+    "122080119",
+    "122080120",
+    "122080121",
+    "122080122",
+    "122080123",
+    "122080124",
+    "122080125",
+    "122080126",
+    "122080127",
+    "122080128",
+    "122080129",
+    "122080130",
+    "122080131",
+    "122080132",
+    "122080133",
+    "122080134",
+    "122080135",
+    "122080136",
+    "122080137",
+    "122080138",
+    "122080139",
+    "122080140",
+    "122080141",
+    "122080142",
+    "122080143",
+    "122080144",
+    "122080145",
+    "122080146",
+    "122080147",
+    "122080148",
+    "122080149",
+    "122080150",
+    "122080151",
+    "122080152",
+    "122080153",
+    "122080154",
+    "122080155",
+    "122080156",
+    "122080157",
+    "122080158",
+    "122080159",
+    "122080160",
+    "122080161",
+    "122080162",
+    "122080163",
+    "122080164",
+    "122080165",
+    "122080166",
+    "122080167",
+    "122080168",
+    "122080169",
+    "122080170",
+    "122080171",
+    "122080172",
+    "122080173",
+    "122080174",
+    "122087775",
+    "122087776",
+    "122087777",
+    "122087778",
+    "122087779",
+    "122087780",
+    "122087781",
+    "122087782",
+    "122087783",
+    "122087784",
+    "122087785",
+    "122087786"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:122086332:por",
+     "title": "Declaração de Retificação n.º 14/2019",
+     "published": "2019-04-12",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/14-2019-122086332",
+     "date": "2019-02-12"
+    }
+   ]
+  },
+  {
+   "date": "2022-01-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:177160279:por",
+     "title": "Portaria n.º 18/2022",
+     "published": "2022-01-05",
+     "dre_path": "/dr/detalhe/portaria/18-2022-177160279"
+    }
+   ],
+   "changes": [
+    "Altera Anexo IV AO REGULAMENTO",
+    "Revoga Artigo 2.º"
+   ],
+   "fragments": [
+    "122080113",
+    "122080114",
+    "177196577",
+    "122080116",
+    "122080117",
+    "122080118",
+    "122080119",
+    "122080120",
+    "122080121",
+    "122080122",
+    "122080123",
+    "122080124",
+    "122080125",
+    "122080126",
+    "122080127",
+    "122080128",
+    "122080129",
+    "122080130",
+    "122080131",
+    "122080132",
+    "122080133",
+    "122080134",
+    "122080135",
+    "122080136",
+    "122080137",
+    "122080138",
+    "122080139",
+    "122080140",
+    "122080141",
+    "122080142",
+    "122080143",
+    "122080144",
+    "122080145",
+    "122080146",
+    "122080147",
+    "122080148",
+    "122080149",
+    "122080150",
+    "122080151",
+    "122080152",
+    "122080153",
+    "122080154",
+    "122080155",
+    "122080156",
+    "122080157",
+    "122080158",
+    "122080159",
+    "122080160",
+    "122080161",
+    "122080162",
+    "122080163",
+    "122080164",
+    "122080165",
+    "122080166",
+    "122080167",
+    "122080168",
+    "122080169",
+    "122080170",
+    "122080171",
+    "122080172",
+    "122080173",
+    "122080174",
+    "122087775",
+    "122087776",
+    "122087777",
+    "122087778",
+    "122087779",
+    "122087780",
+    "122087781",
+    "122087789",
+    "122087790",
+    "122087784",
+    "177196576",
+    "122087786"
+   ]
+  }
+ ],
+ "fragments": {
+  "122080113": {
+   "fragment_id": "122086342",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 58/2019\n\nde 11 de fevereiro\n\nNo enquadramento da Lei de Bases da Política Florestal, Lei n.º 33/96, de 17 de agosto, na sua redação atual, e da Lei de Bases da Política Pública de Solos, Ordenamento do Território e Urbanismo, Lei n.º 31/2014, de 30 de maio, na sua redação atual, o regime jurídico dos Programas Regionais de Ordenamento Florestal (PROF), definido no Decreto-Lei n.º 16/2009, de 14 de janeiro, na sua redação atual, prevê a possibilidade de os PROF serem sujeitos a alteração ou a revisão sempre que factos relevantes o justifiquem.\n\nAtravés do Despacho n.º 782/2014, do Secretário de Estado das Florestas e do Desenvolvimento Rural, de 17 de janeiro, foi redefinido o âmbito geográfico dos PROF que, de 21, passaram a 7, procurando-se deste modo reduzir os custos e diminuir a complexidade administrativa, não só para a entidade responsável pela sua elaboração e aplicação, mas também para todos os agentes envolvidos.\n\nAs regiões abrangidas por cada PROF são suficientemente homogéneas e partilham, em larga medida, os mesmos potenciais e condicionantes ao nível do aproveitamento e da gestão dos espaços florestais, procurando-se, contudo, manter uma relação com os PROF agora aprovados, através da utilização do conceito de sub-região homogénea, mantendo-se a respetiva delimitação relativamente estável, ainda que com os necessários ajustamentos.\n\nEm linha com a Estratégia Nacional para as Florestas os PROF assumem a visão para as Florestas Europeias 2020, que considera «Um futuro onde as florestas sejam vitais, produtivas e multifuncionais. Onde as florestas contribuam efetivamente para o desenvolvimento sustentável, por via da promoção e incremento dos bens e serviços providos pelos ecossistemas, assegurando bem-estar humano, um ambiente saudável e o desenvolvimento económico. Onde o potencial único das florestas para apoiar uma economia verde, providenciar meios de subsistência, mitigação das alterações climáticas, conservação da biodiversidade, melhorando a qualidade da água e combate à desertificação, é realizado em benefício da sociedade.»\n\nNo caso do PROF de Entre Douro e Minho (PROF EDM), que agora se revê, corresponde aos anteriores PROF do Alto Minho, do Baixo Minho, da Área Metropolitana do Porto e Entre Douro e Vouga e do Tâmega.\n\nNo processo de revisão do PROF EDM teve-se em especial consideração a necessidade de reforçar a articulação com a Estratégia Nacional para as Florestas, aprofundando o alinhamento com as suas orientações estratégicas, nomeadamente nos domínios da valorização das funções ambientais dos espaços florestais e da adaptação às alterações climáticas e ainda com a Estratégia Nacional de Conservação da Natureza e Biodiversidade.\n\nRefira-se que o processo de revisão do PROF EDM envolveu a participação, em sede da comissão de acompanhamento, de um conjunto de entidades, nomeadamente da administração central e local, representantes dos produtores florestais, da indústria de base florestal, dos órgãos representativos dos baldios, dos prestadores de serviços e das organizações não governamentais na área do ambiente conforme previsto no n.º 1 do artigo 8.º do Decreto-Lei n.º 16/2009, de 14 de janeiro, na sua redação atual, e no n.º 5 do Despacho n.º 782/2014, do Secretário de Estado das Florestas e do Desenvolvimento Rural, de 17 de janeiro, e dando ainda resposta ao previsto no Regime Jurídico dos Instrumentos de Gestão Territorial.\n\nO PROF EDM foi sujeito a avaliação ambiental estratégica nos termos do n.º 1 do artigo 3.º do Decreto-Lei n.º 232/2007, de 15 de junho.\n\nPara além da participação de várias entidades na comissão de acompanhamento, foi possibilitada a participação de todas as partes interessadas através dum período de discussão pública, o qual decorreu, para o PROF em apreço no período de 9 de março a 23 de abril de 2018.\n\nApós o período de discussão pública, foram ponderados os contributos e revistos os documentos, não só para a incorporação dos contributos da comissão de acompanhamento e da discussão pública, mas também para homogeneizar alguns aspetos com vista a uma abordagem harmonizada dos vários PROF.\n\nAssim:\n\nAo abrigo do disposto no n.º 5 do artigo 6.º e no n.º 1 do artigo 11.º do Decreto-Lei n.º 16/2009, de 14 de janeiro, na sua redação atual, e na subalínea xi) da alínea b) do n.º 5 do Despacho n.º 5564/2017, na redação dada pelo Despacho n.º 7088/2017, de 14 de agosto, manda o Governo, pelo Ministro do Ambiente e da Transição Energética e pelo Secretário de Estado das Florestas e do Desenvolvimento Rural, o seguinte:"
+  },
+  "122080114": {
+   "fragment_id": "122086343",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovado o Programa Regional de Ordenamento Florestal de Entre Douro e Minho (PROF EDM), publicando-se em anexo o Regulamento e Carta Síntese do mesmo, identificados respetivamente como Anexos A e B da presente portaria, da qual fazem parte integrante."
+  },
+  "122080115": {
+   "fragment_id": "122086344",
+   "type": 11,
+   "heading": "Artigo 2.º — Planos territoriais preexistentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Planos territoriais preexistentes\n\n1 - A identificação e atualização das disposições dos programas e planos territoriais preexistentes incompatíveis com o PROF EDM são efetuadas nos termos do disposto no n.º 5 da Resolução do Conselho de Ministros n.º 115/2018, de 6 de setembro.\n\n2 - A atualização dos planos territoriais preexistentes é efetuada com recurso às figuras de alteração ou revisão, cujo procedimento deve estar concluído até 13 de julho de 2020."
+  },
+  "122080116": {
+   "fragment_id": "122086345",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nEm 31 de janeiro de 2019."
+  },
+  "122080118": {
+   "fragment_id": "122086347",
+   "type": 14,
+   "heading": "Anexo A — (a que se refere o artigo 1.º da portaria)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo A — (a que se refere o artigo 1.º da portaria)\n\nRegulamento do Programa Regional de Ordenamento Florestal de Entre Douro e Minho"
+  },
+  "122080119": {
+   "fragment_id": "122086348",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais, natureza jurídica e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais, natureza jurídica e âmbito"
+  },
+  "122080120": {
+   "fragment_id": "122086349",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza jurídica e relação entre instrumentos de gestão territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza jurídica e relação entre instrumentos de gestão territorial\n\n1 - Os programas regionais de ordenamento florestal (PROF), são instrumentos de política setorial de âmbito nacional, nos termos estabelecidos pela Lei n.º 31/2014, de 30 de maio, na sua redação atual, e desenvolvido pelo Decreto-Lei n.º 80/2015, de 15 de maio, que definem para os espaços florestais o quadro estratégico, as diretrizes de enquadramento e as normas específicas quanto ao uso, ocupação, utilização e ordenamento florestal, à escala regional, por forma a promover e garantir a produção de bens e serviços e o desenvolvimento sustentado destes espaços.\n\n2 - O PROF tem uma abordagem multifuncional, integrando as seguintes funções gerais dos espaços florestais:\n\na) Produção;\n\nb) Proteção;\n\nc) Conservação de habitats, de espécies da fauna e da flora e de geomonumentos;\n\nd) Silvopastorícia, caça e pesca em águas interiores;\n\ne) Recreio e valorização da paisagem.\n\n3 - O PROF de Entre Douro e Minho concretiza, no seu âmbito e natureza o Programa Nacional da Política de Ordenamento do Território, e compatibiliza-se com os demais programas setoriais e com os programas especiais, assegurando a contribuição do setor florestal para a elaboração e alteração dos restantes instrumentos de gestão territorial.\n\n4 - As normas do PROF de Entre Douro e Minho que condicionem a ocupação, uso e transformação do solo nos espaços florestais, são obrigatoriamente integradas nos planos territoriais de âmbito municipal (PTM) e nos planos territoriais de âmbito intermunicipal (PTIM)."
+  },
+  "122080121": {
+   "fragment_id": "122086350",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito territorial\n\nO PROF de Entre Douro e Minho abrange os territórios englobados nas regiões NUTS de nível III e municípios apresentados no quadro seguinte:\n\n(ver documento original)"
+  },
+  "122080122": {
+   "fragment_id": "122086351",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente Regulamento entende-se por:\n\na) «Áreas contíguas», as áreas confinantes ou que se encontram separadas por caminhos, estradas ou linhas de água com largura inferior ou igual a 2 metros;\n\nb) «Áreas florestais sensíveis», áreas que, do ponto de vista do risco de incêndio, da exposição a pragas e doenças, da sensibilidade à erosão, e da importância ecológica, social e cultural, carecem de normas e medidas especiais de planeamento e intervenção, podendo assumir designações diversas consoante a natureza da situação a que se referem;\n\nc) «Biomassa florestal», fração biodegradável dos produtos, e dos desperdícios de atividade florestal. Inclui apenas o material resultante de operações de gestão dos combustíveis, das operações de condução (ex. desbaste e desrama) e da exploração dos Povoamentos Florestais, ou seja: ramos, bicadas, cepos, folhas, raízes e cascas;\n\nd) «Corredor ecológico», faixas que visam promover ou salvaguardar a conexão entre áreas florestais dispersas ou as diferentes áreas de importância ecológica, favorecendo o intercâmbio genético essencial para a manutenção da biodiversidade, com uma adequada integração e desenvolvimento das atividades humanas, constituindo ao nível da escala dos PROF uma orientação macro e tendencial para a região no médio/longo prazo;\n\ne) «Espaços florestais», os terrenos ocupados com floresta, matos e pastagens ou outras formações vegetais espontâneas, segundo os critérios definidos no Inventário Florestal Nacional;\n\nf) «Espécies florestais de rápido crescimento», espécies que possam ser sujeitas, em termos de viabilidade técnico-económica, a exploração em revoluções curtas, nomeadamente as do género Eucalyptus e Populus;\n\ng) «Espécies folhosas nobres», espécies florestais produtoras de madeira de elevada qualidade;\n\nh) «Exploração florestal e agroflorestal», o prédio ou conjunto de prédios ocupados, total ou parcialmente, por espaços florestais, pertencentes a um ou mais proprietários e que estão submetidos a uma gestão única;\n\ni) «Floresta», corresponde ao conceito de «Floresta» segundo os critérios definidos no Inventário Florestal Nacional;\n\nj) «Função de conservação de habitats, de espécies da fauna e da flora e de geomonumentos», contribuição dos espaços florestais para a manutenção da diversidade biológica e genética e de geomonumentos. Engloba, como subfunções gerais, a conservação de habitats classificados, a conservação de espécies da flora e da fauna protegida, a conservação de geomonumentos e a conservação dos recursos genéticos;\n\nk) «Função de produção», contribuição dos espaços florestais para o bem-estar material da sociedade. Engloba como subfunções gerais a produção de madeira, a produção de biomassa para energia, a produção de cortiça, a produção de frutos e sementes e a produção de outros materiais vegetais e orgânicos;\n\nl) «Função de proteção», contribuição dos espaços florestais para a manutenção das geocenoses e das infraestruturas antrópicas. Engloba, como subfunções gerais, a proteção da rede hidrográfica, a proteção contra a erosão eólica, a proteção contra a erosão hídrica e cheias, a proteção microclimática e a proteção ambiental, a proteção contra incêndios, a recuperação de solos degradados e a mitigação das alterações climáticas;\n\nm) «Função de recreio e valorização da paisagem», contribuição dos espaços florestais para o bem-estar físico, psíquico, espiritual e social dos cidadãos. Engloba, como subfunções principais, o enquadramento de aglomerados urbanos e monumentos, o enquadramento de empreendimentos turísticos no espaço rural e turismo de natureza, o enquadramento de usos especiais, o enquadramento de infraestruturas, o recreio e a conservação de paisagens notáveis;\n\nn) «Função de silvopastorícia, caça e pesca nas águas interiores», contribuição dos espaços florestais para o desenvolvimento da silvopastorícia, da caça e da pesca em águas interiores. Engloba, como principais subfunções, o suporte à caça e conservação das espécies cinegéticas, o suporte à pastorícia, o suporte à apicultura e o suporte à pesca em águas interiores;\n\no) «Gestão de combustível», a criação e manutenção da descontinuidade horizontal e vertical da carga combustível nos espaços rurais, através da modificação ou da remoção parcial ou total da biomassa vegetal, nomeadamente por pastoreio, corte e ou remoção, empregando as técnicas mais recomendadas com a intensidade e frequência adequadas à satisfação dos objetivos dos espaços intervencionados;\n\np) «Manchas contínuas demasiado extensas de eucalipto e ou pinheiro-bravo» áreas contínuas ou contíguas (igual ou maior que) 350 ha ocupadas por estas espécies, para efeitos de aplicação da alínea e) do n.º 5 do artigo 3.º-A do Decreto-Lei n.º 96/2013 de 19 de julho, na sua redação atual, nos projetos de (re)arborização nesta situação, aplicam-se as regras previstas no diploma relativo ao Sistema Nacional de Defesa da Floresta Contra Incêndios (SNDFCI);\n\nq) «Modelo de silvicultura», sequência de intervenções silvícolas a considerar numa unidade de gestão florestal ao longo de uma revolução, com vista a concretizar os objetivos preestabelecidos para essa unidade de gestão, adequado às funcionalidades dos espaços florestais;\n\nr) «Normas de intervenção nos espaços florestais», conjunto de regras e diretrizes técnicas a implementar na gestão florestal, com vista ao cumprimento de um objetivo ou função particular do espaço florestal em causa;\n\ns) «Operações silvícolas mínimas», intervenções com caráter de impedir que se elevem a níveis críticos o risco de ocorrência de incêndio, bem como aquelas que visem impedir a disseminação de pragas e doenças;\n\nt) «Ordenamento florestal», conjunto de normas que regulam as intervenções nos espaços florestais com vista a garantir, de forma sustentada, o fluxo regular de bens e serviços por eles proporcionados;\n\nu) «Plano de gestão florestal» (PGF), instrumento de administração de espaços florestais que, de acordo com as orientações definidas no PROF, determina, no espaço e no tempo, as intervenções de natureza cultural e de exploração dos recursos, visando a produção sustentada dos bens e serviços por eles proporcionados e tendo em conta as atividades e os usos dos espaços envolventes;\n\nv) «Povoamentos florestais», os terrenos ocupados com árvores florestais com uma percentagem de coberto no mínimo de 10 % e altura superior a 5 m (na maturidade), que ocupam uma área mínima de 0,5 ha de largura não inferior a 20 m, inclui áreas ocupadas por plantações e sementeiras recentes;\n\nw) «Produção sustentada», oferta regular e contínua de bens e serviços;\n\nx) «Regime florestal», conjunto de disposições destinadas não só à criação, exploração e conservação da riqueza silvícola, sob o ponto de vista da economia nacional, mas também ao revestimento florestal dos terrenos cuja arborização seja de utilidade pública, e conveniente ou necessária para o bom regime das águas e defesa das várzeas, para a valorização das planícies áridas e benefício do clima, ou para a fixação e conservação do solo, nas montanhas, e areias no litoral marítimo;\n\ny) «Sub-região homogénea», unidade territorial com um elevado grau de homogeneidade relativamente ao perfil dominante das funções dos espaços florestais e às suas características, possibilitando a definição territorial de objetivos de utilização, como resultado da otimização combinada de três funções principais;\n\nz) «Unidade de gestão», área geográfica contínua e similares no que respeita a características físicas (topografia, solos, rocha-mãe, etc.), vegetação (características das árvores e outro tipo de vegetação) e desenvolvimento (acessibilidade, regime de propriedade, etc.);\n\naa) «Zonas críticas», as áreas florestais sensíveis onde se reconhece ser prioritária a aplicação de medidas mais rigorosas de defesa da floresta contra incêndios, quer face à elevada suscetibilidade ou à perigosidade que representam, quer em função do seu valor patrimonial, social ou ecológico, sendo alvo de planeamento próprio."
+  },
+  "122080123": {
+   "fragment_id": "122086352",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios e objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios e objetivos\n\n1 - O PROF de Entre Douro e Minho está alinhado com a visão definida pela Estratégia Nacional para as Florestas, adotando como referências os anos de 2030 e 2050 para as suas metas e objetivos.\n\n2 - O PROF assume os princípios da Lei de Bases da Política Florestal, bem como os princípios orientadores de um bom desempenho:\n\na) Boa governança - uma abordagem pró-ativa da administração florestal, com um envolvimento articulado entre a administração e os agentes com competências na gestão dos espaços florestais;\n\nb) Exigência e qualidade - com vista a aumentar o seu valor, o setor florestal deverá prosseguir uma cultura de exigência, melhorando o desempenho em todas as vertentes;\n\nc) Gestão sustentável - a manutenção e a melhoria dos valores económicos, sociais e ambientais de todos os tipos de floresta, para o benefício das gerações presentes e futuras, constitui um objetivo internacionalmente aceite e uma exigência da própria sociedade, contribuindo para promover o desenvolvimento rural integrado;\n\nd) Máxima eficiência - o desenvolvimento social e económico deve basear-se na utilização eficiente dos recursos florestais contribuindo, nomeadamente, para o «crescimento verde» da economia;\n\ne) Multifuncionalidade dos espaços florestais - os espaços florestais devem desempenhar várias funções, em equilíbrio, como forma de responder às solicitações da sociedade e como uma oportunidade para a sua valorização intrínseca;\n\nf) Responsabilização - os proprietários florestais são responsáveis pela gestão de um património de interesse público, devendo ser reconhecida a sua contribuição para a disponibilização de um conjunto de bens e serviços proporcionados pela floresta;\n\ng) Transparência - o processo de relacionamento da administração com os agentes privados deve ser transparente, criando as condições de crescimento que o setor florestal necessita;\n\nh) Uso racional - os recursos florestais devem ser utilizados de uma forma racional potenciando as suas características intrínsecas, promovendo a sua articulação com as restantes utilizações do território.\n\n3 - O PROF prossegue os seguintes objetivos estratégicos:\n\na) Minimização dos riscos de incêndios e agentes bióticos;\n\nb) Especialização do território;\n\nc) Melhoria da gestão florestal e da produtividade dos povoamentos;\n\nd) Internacionalização e aumento do valor dos produtos;\n\ne) Melhoria geral da eficiência e competitividade do setor;\n\nf) Racionalização e simplificação dos instrumentos de política."
+  },
+  "122080124": {
+   "fragment_id": "122086353",
+   "type": 11,
+   "heading": "Artigo 5.º — Participação na aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Participação na aplicação\n\nPara a aplicação prática das ações do PROF de Entre Douro e Minho, devem ser convocados a participar ativamente e a cooperar todas as entidades e autoridades públicas, locais, regionais ou nacionais, que, por força das suas atribuições e responsabilidades, tutelem espaços florestais."
+  },
+  "122080125": {
+   "fragment_id": "122086354",
+   "type": 11,
+   "heading": "Artigo 6.º — Conteúdo documental do PROF",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conteúdo documental do PROF\n\n1 - O PROF de Entre Douro e Minho é constituído pelos seguintes elementos:\n\na) Documento Estratégico, também designado por relatório, e respetivas peças gráficas;\n\nb) Regulamento e anexos que o integram;\n\nc) Carta Síntese.\n\n2 - O Documento Estratégico, disponível no portal do ICNF, I. P., e que para todos os efeitos é parte integrante do PROF, compreende as seguintes componentes:\n\na) Enquadramento;\n\nb) Caracterização biofísica, socioeconómica e dos recursos florestais;\n\nc) Funções dos espaços florestais e áreas florestais sensíveis;\n\nd) Análise prospetiva e objetivos;\n\ne) Normas e modelos gerais de silvicultura e de gestão;\n\nf) Articulação com os instrumentos de gestão territorial relevantes para os espaços florestais;\n\ng) Programa de execução e atribuições;\n\nh) Monitorização e a avaliação.\n\n3 - A Carta Síntese contém a representação gráfica das sub-regiões homogéneas, das áreas florestais sensíveis, das áreas classificadas, das áreas públicas e comunitárias, das matas modelo, das áreas submetidas ao regime florestal e corredores ecológicos.\n\n4 - O PROF é acompanhado pelo relatório ambiental e listagem de indicadores qualitativos e quantitativos que suportam a avaliação do programa, disponíveis no portal do ICNF, I. P., e que para todos os efeitos são parte integrante do PROF.\n\n5 - As disposições dos programas e planos territoriais preexistentes incompatíveis com o PROF EDM constam de portaria nos termos do disposto no n.º 5 da Resolução do Conselho de Ministros n.º 115/2018, de 6 de setembro."
+  },
+  "122080126": {
+   "fragment_id": "122086355",
+   "type": 1,
+   "heading": "Capítulo II — Uso, ocupação e ordenamento florestal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Uso, ocupação e ordenamento florestal"
+  },
+  "122080127": {
+   "fragment_id": "122086356",
+   "type": 8,
+   "heading": "Secção I — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições comuns"
+  },
+  "122080128": {
+   "fragment_id": "122086357",
+   "type": 11,
+   "heading": "Artigo 7.º — Regime florestal e floresta modelo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regime florestal e floresta modelo\n\n1 - Estão submetidas ao regime florestal e obrigadas à elaboração de PGF as matas nacionais (MN) e as unidades de baldio integradas nos Perímetros Florestais (PF) seguintes:\n\na) Hotel de Santa Luzia;\n\nb) Mata da Gelfa;\n\nc) Mata do Bom Jesus do Monte;\n\nd) MN do Camarido;\n\ne) MN do Gerês (PNPG);\n\nf) PF da Boalhosa;\n\ng) PF da Senhora da Abadia;\n\nh) PF da Serra Amarela;\n\ni) PF da Serra da Cabreira;\n\nj) PF da Serra da Freita;\n\nk) PF da Serra de Anta;\n\nl) PF da Serra de Arga;\n\nm) PF da Serra de Montemuro;\n\nn) PF da Serra do Merouço;\n\no) PF das Serras de Mo e Viso;\n\np) PF das Serras de Vieira e Monte Crasto;\n\nq) PF das Serras do Marão e Meia Via;\n\nr) PF das Serras do Marão Vila Real e Ordem;\n\ns) PF das Serras do Soajo e Peneda;\n\nt) PF de Entre Lima e Neiva;\n\nu) PF de Entre Vez e Coura;\n\nv) PF de Mondim de Basto;\n\nw) PF de Ribeira de Pena;\n\nx) PF de Santa Luzia;\n\ny) PF do Barroso;\n\nz) PNPG - Baldios cogeridos;\n\naa) PNPG - Terrenos privados ou domínio hídrico em área protegida.\n\n2 - No âmbito do PROF de Entre Douro e Minho foi selecionada a Mata Modelo do Camarido, no concelho de Caminha.\n\n3 - As matas modelo são espaços para o desenvolvimento e demonstração de práticas silvícolas, as quais os proprietários privados podem adotar tendo como objetivo a valorização dos seus espaços florestais.\n\n4 - Os PGF das matas nacionais e das unidades de baldios referidos são aprovados nos termos e nos prazos referidos no Decreto-Lei n.º 16/2009, de 14 de janeiro, na sua atual redação."
+  },
+  "122080129": {
+   "fragment_id": "122086358",
+   "type": 11,
+   "heading": "Artigo 8.º — Espécies protegidas e sistemas florestais objeto de medidas de proteção específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Espécies protegidas e sistemas florestais objeto de medidas de proteção específicas\n\nO PROF de Entre Douro e Minho assume como objetivo e promove como prioridade a defesa e a proteção de espécies florestais que, pelo seu elevado valor económico, patrimonial e cultural, pela sua relação com a história e cultura da região, pela raridade que representam, bem como pela sua função de suporte de habitat, carecem de especial proteção, designadamente:\n\na) Espécies protegidas por legislação específica:\n\ni) Sobreiro (Quercus suber);\n\nii) Azinheira (Quercus rotundifolia);\n\niii) Azevinho espontâneo (Ilex aquifolium).\n\nb) Exemplares espontâneos de espécies florestais que devem ser objeto de medidas de proteção específica:\n\ni) Carvalho-negral (Quercus pyrenaica);\n\nii) Carvalho-roble (Quercus robur);\n\niii) Teixo (Taxus baccata)."
+  },
+  "122080130": {
+   "fragment_id": "122086359",
+   "type": 11,
+   "heading": "Artigo 9.º — Corredores ecológicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Corredores ecológicos\n\n1 - Os corredores ecológicos ao nível dos PROF constituem uma orientação macro e tendencial para a região em termos de médio/longo prazo, com o objetivo de favorecer o intercâmbio genético essencial para a manutenção da biodiversidade, incluindo uma adequada integração e desenvolvimento das atividades humanas, identificados na Carta Síntese.\n\n2 - As intervenções florestais nos corredores ecológicos devem respeitar as normas de silvicultura e gestão para estes espaços, as quais se encontram identificadas no Capítulo E do Documento Estratégico do PROF.\n\n3 - Os corredores ecológicos devem ser objeto de tratamento específico no âmbito dos planos de gestão florestal e devem ainda contribuir para a definição da estrutura ecológica municipal no âmbito dos planos territoriais municipais (PTM) e planos territoriais intermunicipais (PTIM).\n\n4 - Estes corredores devem ser compatibilizados com as redes regionais de defesa da floresta contra os incêndios, sendo estas de caráter prioritário."
+  },
+  "122080131": {
+   "fragment_id": "122086360",
+   "type": 11,
+   "heading": "Artigo 10.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Objetivos\n\nVisando a concretização duma nova orientação estratégica para o ordenamento florestal conforme com a Resolução do Conselho de Ministros n.º 115/2018, de 6 de setembro, são comuns a todas as sub-regiões homogéneas, os seguintes objetivos:\n\na) Reduzir o número médio de ignições e de área ardida anual;\n\nb) Reduzir a vulnerabilidade dos espaços florestais aos agentes bióticos nocivos;\n\nc) Recuperar e reabilitar ecossistemas florestais afetados;\n\nd) Garantir que as zonas com maior suscetibilidade à desertificação e à erosão apresentam uma gestão de acordo com as corretas normas técnicas;\n\ne) Assegurar a conservação dos habitats e das espécies da fauna e flora protegidas;\n\nf) Aumentar o contributo das Florestas para a mitigação das Alterações Climáticas;\n\ng) Promover a gestão florestal ativa e profissional;\n\nh) Desenvolver e promover novos produtos e mercados;\n\ni) Modernizar e capacitar as empresas florestais;\n\nj) Controlar e sempre que possível erradicar as espécies invasoras lenhosas;\n\nk) Promover a resiliência da floresta;\n\nl) Adequar as espécies às características da estação;\n\nm) Promover a valorização paisagística e as atividades de recreio nos espaços florestais;\n\nn) Desenvolver o uso múltiplo dos espaços florestais, nomeadamente ao nível da caça, pesca, produção de mel e cogumelos;\n\no) Assegurar e melhorar a produção económica dos povoamentos;\n\np) Diversificar as atividades e os produtos nas explorações florestais e agroflorestais;\n\nq) Modernização da silvopastorícia;\n\nr) Responder às exigências de mercado no sentido de fornecimento de produtos certificados;\n\ns) Incentivar a gestão agrupada;\n\nt) Desenvolver a inovação e a investigação florestal;\n\nu) Qualificar os agentes do setor."
+  },
+  "122080132": {
+   "fragment_id": "122086361",
+   "type": 11,
+   "heading": "Artigo 11.º — Modelos gerais de silvicultura, gestão florestal e de organização territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Modelos gerais de silvicultura, gestão florestal e de organização territorial\n\n1 - A realização de ações nos espaços florestais nas sub-regiões do PROF de Entre Douro e Minho, deve obedecer às orientações constantes das normas de intervenção e modelos de silvicultura que se encontram definidas, respetivamente, nos Anexos I e II do presente Regulamento.\n\n2 - Para cada sub-região estão definidos modelos de organização territorial que assentam:\n\na) Em normas gerais, de aplicação generalizada;\n\nb) Em normas de acordo com a função atribuída aos espaços florestais da sub-região homogénea;\n\nc) Em normas que são de aplicação localizada, que têm apenas aplicação em determinadas áreas específicas:\n\ni) Corredores ecológicos;\n\nii) Áreas florestais sensíveis;\n\niii) Espaços florestais não arborizados.\n\nd) Em modelos de silvicultura com espécies de árvores florestais a privilegiar, se existentes."
+  },
+  "122080133": {
+   "fragment_id": "122086362",
+   "type": 11,
+   "heading": "Artigo 12.º — Normas comuns a todas as sub-regiões homogéneas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Normas comuns a todas as sub-regiões homogéneas\n\n1 - Para cada sub-região homogénea são identificadas as espécies florestais a privilegiar, distinguidas em dois grupos (Grupo I e Grupo II) em resultado da avaliação da aptidão do território para as mesmas.\n\n2 - Não podem ser efetuadas reconversões para outras espécies de áreas ocupadas com espécies do Grupo I, exceto se for utilizada na replantação outra espécie igualmente do Grupo I, sem prejuízo dos regimes legais específicos de proteção de determinadas espécies e do regime jurídico das ações de arborização e rearborização.\n\n3 - O recurso a outras espécies que não se encontrem identificadas no Grupo I ou Grupo II, ou reconversões em situações distintas das referidas no número anterior, tem de ser tecnicamente fundamentado, com base nas características da espécie a usar e condições edafoclimáticas do local de instalação, e ser devidamente autorizado pelo ICNF, I. P.\n\n4 - O disposto no n.º 1 não se aplica em reconversões de áreas ocupadas com espécies do Grupo I, quando a espécie a replantar for o Ilex aquifolium (Azevinho), o Quercus rotundifolia (Azinheira) ou o Quercus suber (Sobreiro) e estas espécies fizerem parte das espécies do Grupo II.\n\n5 - Admitem-se reconversões de povoamentos puros de espécies do Grupo I, para povoamentos mistos com espécies do Grupo II, se a espécie do Grupo I mantiver a dominância.\n\n6 - Para cada sub-região homogénea é considerado um grupo de espécies, assinaladas com asterisco (*), como sendo prioritária a gestão e conservação em manchas de regeneração natural."
+  },
+  "122080134": {
+   "fragment_id": "122086363",
+   "type": 8,
+   "heading": "Secção II — Áreas florestais sensíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Áreas florestais sensíveis"
+  },
+  "122080135": {
+   "fragment_id": "122086364",
+   "type": 11,
+   "heading": "Artigo 13.º — Risco de incêndio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Risco de incêndio\n\n1 - A identificação e demarcação das áreas florestais sensíveis, integrando em termos de perigosidade de incêndio, a que se refere o artigo 6.º do Decreto-Lei n.º 124/2006, de 28 de junho, na sua redação atual, consta da Carta Síntese e da carta das áreas florestais sensíveis que acompanha o Documento Estratégico.\n\n2 - As intervenções nas áreas florestais sensíveis devem respeitar as normas de silvicultura, constantes no Capítulo E que integra o Documento Estratégico do PROF de Entre Douro e Minho, especificamente para estes espaços e que se encontram referenciadas no Anexo I."
+  },
+  "122080136": {
+   "fragment_id": "122086365",
+   "type": 11,
+   "heading": "Artigo 14.º — Risco de erosão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Risco de erosão\n\n1 - A identificação e delimitação das áreas florestais com risco de erosão muito alto a alto constam da Carta Síntese e da carta das áreas florestais sensíveis que acompanha o Documento Estratégico, sem prejuízo da necessidade de aferição local, nomeadamente no que concerne à articulação com a delimitação da reserva ecológica nacional.\n\n2 - As intervenções nas áreas florestais sensíveis devem respeitar as normas de silvicultura, constantes no Capítulo E que integra o Documento Estratégico do PROF de Entre Douro e Minho, especificamente para estes espaços e que se encontram referenciadas no Anexo I."
+  },
+  "122080137": {
+   "fragment_id": "122086366",
+   "type": 11,
+   "heading": "Artigo 15.º — Áreas florestais expostas a pragas e doenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Áreas florestais expostas a pragas e doenças\n\n1 - A identificação e delimitação das áreas florestais sensíveis suscetíveis a pragas e doenças consta da Carta Síntese e da carta das áreas florestais sensíveis que acompanha o Documento Estratégico.\n\n2 - As intervenções nas áreas florestais sensíveis devem respeitar as normas de silvicultura, constantes no Capítulo E que integra o Documento Estratégico do PROF de Entre Douro e Minho, especificamente para estes espaços e que se encontram referenciadas no Anexo I."
+  },
+  "122080138": {
+   "fragment_id": "122086367",
+   "type": 8,
+   "heading": "Secção III — Zonamento/Organização Territorial Florestal das sub-regiões homogéneas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Zonamento/Organização Territorial Florestal das sub-regiões homogéneas"
+  },
+  "122080139": {
+   "fragment_id": "122086368",
+   "type": 11,
+   "heading": "Artigo 16.º — Identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Identificação\n\nO PROF de Entre Douro e Minho compreende as seguintes sub-regiões homogéneas, devidamente identificadas na Carta Síntese, nos termos do artigo 7.º:\n\na) Aboboreira;\n\nb) Alvão-Marão;\n\nc) Arga-Coura;\n\nd) Baixo Ave;\n\ne) Cabreira;\n\nf) Cávado-Ave;\n\ng) Corno do Bico;\n\nh) Douro;\n\ni) Douro-Vouga;\n\nj) Entre Lima e Cávado;\n\nk) Freita;\n\nl) Grande Porto;\n\nm) Litoral de Esposende;\n\nn) Mindelo-Esmoriz;\n\no) Minho Interior;\n\np) Minho-Neiva;\n\nq) Minho-Vez;\n\nr) Olo;\n\ns) Paiva;\n\nt) Ribadouro-Montemuro;\n\nu) Serras de Valongo;\n\nv) Parque Nacional da Peneda-Gerês;\n\nw) Tâmega;\n\nx) Tâmega-Sousa;\n\ny) Vale do Lima;\n\nz) Vale do Minho;\n\naa) Xistos Durienses."
+  },
+  "122080140": {
+   "fragment_id": "122086369",
+   "type": 11,
+   "heading": "Artigo 17.º — Sub-região homogénea Aboboreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Sub-região homogénea Aboboreira\n\n1 - Nesta sub-região homogénea, com igual nível de prioridade, visa-se a implementação e o desenvolvimento das seguintes funções gerais dos espaços florestais:\n\na) Função geral de produção;\n\nb) Função geral de proteção;\n\nc) Função geral de silvopastorícia, caça e pesca nas águas interiores.\n\n2 - As normas de silvicultura a aplicar nesta sub-região homogénea correspondem às normas das funções referidas no número anterior.\n\n3 - Nesta sub-região devem ser privilegiadas as seguintes espécies florestais:\n\na) Espécie a privilegiar (Grupo I):\n\ni) Plátano (Acer pseudoplatanus);\n\nii) Castanheiro (Castanea sativa);\n\niii) Cedro do Atlas (Cedrus atlantica);\n\niv) Cedro-branco/Camecípar (Chamaecyparis lawsoniana);\n\nv) Cedro-do-buçaco (Cupressus lusitanica);\n\nvi) Eucalipto (Eucalyptus globulus);\n\nvii) Freixo-comum (Fraxinus angustifolia*);\n\nviii) Nogueira-negra (Juglans nigra);\n\nix) Pinheiro-bravo (Pinus pinaster);\n\nx) Cerejeira-brava (Prunus avium);\n\nxi) Pseudotsuga (Pseudotsuga menziesii);\n\nxii) Carvalho-negral (Quercus pyrenaica);\n\nxiii) Carvalho-alvarinho (Quercus robur);\n\nxiv) Sobreiro (Quercus suber).\n\nb) Outras espécies a privilegiar (Grupo II):\n\ni) Amieiro (Alnus glutinosa);\n\nii) Medronheiro (Arbutus unedo);\n\niii) Bétula/Vidoeiro (Betula celtibérica);\n\niv) Aveleira (Corylus avellana);\n\nv) Pilriteiro (Crataegus monogyna*);\n\nvi) Azevinho (Ilex aquifolium);\n\nvii) Faia (Fagus sylvatica);\n\nviii) Nogueira-comum (Juglans regia);\n\nix) Loureiro (Laurus nobilis);\n\nx) Oliveira-brava (Olea europea);\n\nxi) Pinheiro-manso (Pinus pinea);\n\nxii) Choupo-negro (Populus nigra);\n\nxiii) Choupo híbrido (Populus x canadensis);\n\nxiv) Escalheiro (Pyrus cordata*);\n\nxv) Carvalho-português (Quercus faginea);\n\nxvi) Azinheira (Quercus rotundifolia);\n\nxvii) Carvalho-vermelho-americano (Quercus rubra);\n\nxviii) Borrazeira-preta (Salix atrocinerea*);\n\nxix) Salgueiro (Salix alba*)."
+  },
+  "122080141": {
+   "fragment_id": "122086370",
+   "type": 11,
+   "heading": "Artigo 18.º — Sub-região homogénea Alvão-Marão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Sub-região homogénea Alvão-Marão\n\n1 - Nesta sub-região homogénea, com igual nível de prioridade, visa-se a implementação e o desenvolvimento das seguintes funções gerais dos espaços florestais:\n\na) Função geral de conservação de habitats, de espécies da fauna e da flora e de geomonumentos;\n\nb) Função geral de produção;\n\nc) Função geral de recreio e valorização da paisagem.\n\n2 - As normas de silvicultura a aplicar nesta sub-região homogénea correspondem às normas das funções referidas no número anterior.\n\n3 - Nesta sub-região devem ser privilegiadas as seguintes espécies florestais:\n\na) Espécie a privilegiar (Grupo I):\n\ni) Plátano (Acer pseudoplatanus);\n\nii) Vidoeiro (Betula celtibérica);\n\niii) Castanheiro (Castanea sativa);\n\niv) Cedro-branco (Chamaecyparis lawsoniana);\n\nv) Eucalipto (Eucalyptus globulus);\n\nvi) Freixo-comum (Fraxinus angustifolia*);\n\nvii) Nogueira-negra (Juglans nigra);\n\nviii) Pinheiro-larício (Pinus nigra);\n\nix) Pinheiro-bravo (Pinus pinaster);\n\nx) Pinheiro-silvestre (Pinus sylvestris);\n\nxi) Cerejeira-brava (Prunus avium);\n\nxii) Pseudotsuga (Pseudotsuga menziesii);\n\nxiii) Carvalho-negral (Quercus pyrenaica);\n\nxiv) Carvalho-alvarinho (Quercus robur);\n\nxv) Sobreiro (Quercus suber).\n\nb) Outras espécies a privilegiar (Grupo II):\n\ni) Amieiro (Alnus glutinosa);\n\nii) Medronheiro (Arbutus unedo);\n\niii) Cedro-do-atlas (Cedrus atlantica);\n\niv) Aveleira (Corylus avellana);\n\nv) Pilriteiro (Crataegus monogyna*);\n\nvi) Faia (Fagus sylvatica);\n\nvii) Freixo-europeu (Fraxinus excelsior);\n\nviii) Azevinho (Ilex aquifolium);\n\nix) Nogueira-comum (Juglans regia);\n\nx) Larício-híbrido-de-dunkeld (Larix x eurolepis);\n\nxi) Choupo-negro (Populus nigra);\n\nxii) Azinheira (Quercus rotundifolia);\n\nxiii) Carvalho-vermelho-americano (Quercus rubra);\n\nxiv) Borrazeira-preta (Salix atrocinerea*);\n\nxv) Borrazeira-branca (Salix salviifolia*);\n\nxvi) Tramazeira (Sorbus aucuparia);\n\nxvii) Teixo (Taxus baccata)."
+  },
+  "122080142": {
+   "fragment_id": "122086371",
+   "type": 11,
+   "heading": "Artigo 19.º — Sub-região homogénea Arga-Coura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Sub-região homogénea Arga-Coura\n\n1 - Nesta sub-região homogénea, com igual nível de prioridade, visa-se a implementação e o desenvolvimento das seguintes funções gerais dos espaços florestais:\n\na) Função geral de produção;\n\nb) Função geral de silvopastorícia, caça e pesca nas águas interiores;\n\nc) Função geral de recreio e valorização da paisagem.\n\n2 - As normas de silvicultura a aplicar nesta sub-região homogénea correspondem às normas das funções referidas no número anterior.\n\n3 - Nesta sub-região devem ser privilegiadas as seguintes espécies florestais:\n\na) Espécie a privilegiar (Grupo I):\n\ni) Plátano (Acer pseudoplatanus);\n\nii) Castanheiro (Castanea sativa);\n\niii) Cedro-do-atlas (Cedrus atlantica);\n\niv) Cedro-do-buçaco (Cupressus lusitanica);\n\nv) Cedro-branco (Chamaecyparis lawsoniana);\n\nvi) Eucalipto (Eucalyptus globulus);\n\nvii) Freixo-comum (Fraxinus angustifolia*);\n\nviii) Nogueira-negra (Juglans nigra);\n\nix) Pinheiro-larício (Pinus nigra);\n\nx) Pinheiro-bravo (Pinus pinaster);\n\nxi) Pinheiro-silvestre (Pinus sylvestris);\n\nxii) Pseudotsuga (Pseudotsuga menziesii);\n\nxiii) Carvalho-alvarinho (Quercus robur);\n\nxiv) Azinheira (Quercus rotundifolia);\n\nxv) Sobreiro (Quercus suber).\n\nb) Outras espécies a privilegiar (Grupo II):\n\ni) Amieiro (Alnus glutinosa);\n\nii) Medronheiro (Arbutus unedo);\n\niii) Vidoeiro (Betula celtiberica);\n\niv) Aveleira (Corylus avellana);\n\nv) Pilriteiro (Crataegus monogyna*);\n\nvi) Faia (Fagus sylvatica);\n\nvii) Freixo-europeu (Fraxinus excelsior);\n\nviii) Azevinho (Ilex aquifolium);\n\nix) Nogueira-comum (Juglans regia);\n\nx) Larício-híbrido-de-dunkeld (Larix x eurolepis);\n\nxi) Loureiro (Laurus nobilis);\n\nxii) Choupo-negro (Populus nigra);\n\nxiii) Choupo-híbrido (Populus x canadensis);\n\nxiv) Escalheiro (Pyrus cordata*);\n\nxv) Carvalho-negral (Quercus pyrenaica);\n\nxvi) Carvalho-vermelho-americano (Quercus rubra);\n\nxvii) Borrazeira-preta (Salix atrocinerea*)."
+  },
+  "122080143": {
+   "fragment_id": "122086372",
+   "type": 11,
+   "heading": "Artigo 20.º — Sub-região homogénea Baixo Ave",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Sub-região homogénea Baixo Ave\n\n1 - Nesta sub-região homogénea, com igual nível de prioridade, visa-se a implementação e o desenvolvimento das seguintes funções gerais dos espaços florestais:\n\na) Função geral de produção;\n\nb) Função geral de proteção;\n\nc) Função geral de silvopastorícia, caça e pesca nas águas interiores.\n\n2 - As normas de silvicultura a aplicar nesta sub-região homogénea correspondem às normas das funções referidas no número anterior.\n\n3 - Nesta sub-região devem ser privilegiadas as seguintes espécies florestais:\n\na) Espécie a privilegiar (Grupo I):\n\ni) Plátano (Acer pseudoplatanus);\n\nii) Castanheiro (Castanea sativa);\n\niii) Cedro do atlas (Cedrus atlantica);\n\niv) Cedro-do-buçaco (Cupressus lusitanica);\n\nv) Eucalipto (Eucalyptus globulus);\n\nvi) Freixo-comum (Fraxinus angustifolia*);\n\nvii) Nogueira-negra (Juglans nigra);\n\nviii) Pinheiro-bravo (Pinus pinaster);\n\nix) Carvalho-alvarinho (Quercus robur);\n\nx) Azinheira (Quercus rotundifolia);\n\nxi) Sobreiro (Quercus suber).\n\nb) Outras espécies a privilegiar (Grupo II):\n\ni) Amieiro (Alnus glutinosa);\n\nii) Medronheiro (Arbutus unedo);\n\niii) Pilriteiro (Crataegus monogyna*);\n\niv) Freixo-europeu (Fraxinus excelsior);\n\nv) Nogueira-comum (Juglans regia);\n\nvi) Loureiro (Laurus nobilis);\n\nvii) Pinheiro-manso (Pinus pinea);\n\nviii) Plátano (Platanus x acerifolia);\n\nix) Choupo-negro (Populus nigra);\n\nx) Choupo-híbrido (Populus x canadensis);\n\nxi) Carvalho-vermelho-americano (Quercus rubra);\n\nxii) Borrazeira-preta (Salix atrocinerea*)."
+  },
+  "122080144": {
+   "fragment_id": "122086373",
+   "type": 11,
+   "heading": "Artigo 21.º — Sub-região homogénea Cabreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Sub-região homogénea Cabreira\n\n1 - Nesta sub-região homogénea, com igual nível de prioridade, visa-se a implementação e o desenvolvimento das seguintes funções gerais dos espaços florestais:\n\na) Função geral de produção;\n\nb) Função geral de recreio e valorização da paisagem;\n\nc) Função geral de silvopastorícia, caça e pesca nas águas interiores.\n\n2 - As normas de silvicultura a aplicar nesta sub-região homogénea correspondem às normas das funções referidas no número anterior.\n\n3 - Nesta sub-região devem ser privilegiadas as seguintes espécies florestais:\n\na) Espécie a privilegiar (Grupo I):\n\ni) Vidoeiro (Betula celtiberica);\n\nii) Castanheiro (Castanea sativa);\n\niii) Cedro-do-atlas (Cedrus atlantica);\n\niv) Cedro-branco (Chamaecyparis lawsoniana);\n\nv) Eucalipto (Eucalyptus globulus);\n\nvi) Freixo-comum (Fraxinus angustifolia*);\n\nvii) Nogueira-negra (Juglans nigra);\n\nviii) Pinheiro-larício (Pinus nigra);\n\nix) Pinheiro-bravo (Pinus pinaster);\n\nx) Pinheiro-silvestre (Pinus sylvestris);\n\nxi) Pseudotsuga (Pseudotsuga menziesii);\n\nxii) Carvalho-negral (Quercus pyrenaica);\n\nxiii) Carvalho-alvarinho (Quercus robur);\n\nxiv) Azinheira (Quercus rotundifolia);\n\nxv) Sobreiro (Quercus suber).\n\nb) Outras espécies a privilegiar (Grupo II):\n\ni) Medronheiro (Arbutus unedo);\n\nii) Aveleira (Corylus avellana);\n\niii) Pilriteiro (Crataegus monogyna*);\n\niv) Faia (Fagus sylvatica);\n\nv) Freixo-europeu (Fraxinus excelsior);\n\nvi) Azevinho (Ilex aquifolium);\n\nvii) Nogueira-comum (Juglans regia);\n\nviii) Larício-híbrido-de-dunkeld (Larix x eurolepis);\n\nix) Loureiro (Laurus nobilis);\n\nx) Pinheiro-manso (Pinus pinea);\n\nxi) Plátano (Platanus x acerifolia);\n\nxii) Choupo-negro (Populus nigra);\n\nxiii) Choupo-híbrido (Populus x canadensis);\n\nxiv) Escalheiro (Pyrus cordata*);\n\nxv) Carvalho-vermelho-americano (Quercus rubra);\n\nxvi) Salgueiro-branco (Salix alba*);\n\nxvii) Borrazeira-branca (Salix salviifolia*);\n\nxviii) Borrazeira-preta (Salix atrocinerea*);\n\nxix) Tramazeira (Sorbus aucuparia)."
+  },
+  "122080145": {
+   "fragment_id": "122086374",
+   "type": 11,
+   "heading": "Artigo 22.º — Sub-região homogénea Cávado-Ave",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Sub-região homogénea Cávado-Ave\n\n1 - Nesta sub-região homogénea, com igual nível de prioridade, visa-se a implementação e o desenvolvimento das seguintes funções gerais dos espaços florestais:\n\na) Função geral de produção;\n\nb) Função geral de proteção;\n\nc) Função geral de silvopastorícia, caça e pesca nas águas interiores.\n\n2 - As normas de silvicultura a aplicar nesta sub-região homogénea correspondem às normas das funções referidas no número anterior.\n\n3 - Nesta sub-região devem ser privilegiadas as seguintes espécies florestais:\n\na) Espécie a privilegiar (Grupo I):\n\ni) Plátano (Acer pseudoplatanus);\n\nii) Castanheiro (Castanea sativa);\n\niii) Cedro-branco (Chamaecyparis lawsoniana);\n\niv) Cedro-do-atlas (Cedrus atlantica);\n\nv) Cedro-do-buçaco (Cupressus lusitanica);\n\nvi) Eucalipto (Eucalyptus globulus);\n\nvii) Freixo-comum (Fraxinus angustifolia*);\n\nviii) Nogueira-negra (Juglans nigra);\n\nix) Pinheiro-bravo (Pinus pinaster);\n\nx) Pseudotsuga (Pseudotsuga menziesii);\n\nxi) Carvalho-alvarinho (Quercus robur);\n\nxii) Azinheira (Quercus rotundifolia);\n\nxiii) Sobreiro (Quercus suber).\n\nb) Outras espécies a privilegiar (Grupo II):\n\ni) Amieiro (Alnus glutinosa);\n\nii) Medronheiro (Arbutus unedo);\n\niii) Pilriteiro (Crataegus monogyna*);\n\niv) Freixo-europeu (Fraxinus excelsior);\n\nv) Azevinho (Ilex aquifolium);\n\nvi) Nogueira-comum (Juglans regia);\n\nvii) Loureiro (Laurus nobilis);\n\nviii) Pinheiro-manso (Pinus pinea);\n\nix) Plátano (Platanus x acerifolia);\n\nx) Choupo-negro (Populus nigra);\n\nxi) Choupo-híbrido (Populus x canadensis);\n\nxii) Carvalho-vermelho-americano (Quercus rubra);\n\nxiii) Salgueiro-branco (Salix alba*);\n\nxiv) Borrazeira-preta (Salix atrocinerea*)."
+  },
+  "122080146": {
+   "fragment_id": "122087675",
+   "type": 11,
+   "heading": "Artigo 23.º — Sub-região homogénea Corno do Bico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Sub-região homogénea Corno do Bico\n\n1 - Nesta sub-região homogénea, com igual nível de prioridade, visa-se a implementação e o desenvolvimento das seguintes funções gerais dos espaços florestais:\n\na) Função geral de conservação de habitats, de espécies da fauna e da flora e de geomonumentos;\n\nb) Função geral de produção;\n\nc) Função geral de proteção.\n\n2 - As normas de silvicultura a aplicar nesta sub-região homogénea correspondem às normas das funções referidas no número anterior.\n\n3 - Nesta sub-região devem ser privilegiadas as seguintes espécies florestais:\n\na) Espécie a privilegiar (Grupo I):\n\ni) Plátano (Acer pseudoplatanus);\n\nii) Castanheiro (Castanea sativa);\n\niii) Cedro-do-atlas (Cedrus atlantica);\n\niv) Cedro-branco (Chamaecyparis lawsoniana);\n\nv) Eucalipto (Eucalyptus globulus);\n\nvi) Freixo-comum (Fraxinus angustifolia*);\n\nvii) Nogueira-negra (Juglans nigra);\n\nviii) Pinheiro-larício (Pinus nigra);\n\nix) Pinheiro-bravo (Pinus pinaster);\n\nx) Pinheiro-silvestre (Pinus sylvestris);\n\nxi) Cerejeira-brava (Prunus avium);\n\nxii) Pseudotsuga (Pseudotsuga menziesii);\n\nxiii) Carvalho-negral (Quercus pyrenaica);\n\nxiv) Carvalho-alvarinho (Quercus robur);\n\nxv) Azinheira (Quercus rotundifolia);\n\nxvi) Sobreiro (Quercus suber).\n\nb) Outras espécies a privilegiar (Grupo II):\n\ni) Amieiro (Alnus glutinosa);\n\nii) Medronheiro (Arbutus unedo);\n\niii) Vidoeiro (Betula celtiberica);\n\niv) Aveleira (Corylus avellana);\n\nv) Pilriteiro (Crataegus monogyna*);\n\nvi) Faia (Fagus sylvatica);\n\nvii) Azevinho (Ilex aquifolium);\n\nviii) Nogueira-comum (Juglans regia);\n\nix) Larício-híbrido-de-dunkeld (Larix x eurolepis);\n\nx) Loureiro (Laurus nobilis);\n\nxi) Choupo-negro (Populus nigra);\n\nxii) Choupo-híbrido (Populus x canadensis);\n\nxiii) Azereiro (Prunus lusitanica);\n\nxiv) Escalheiro (Pyrus cordata*);\n\nxv) Carvalho-vermelho-americano (Quercus rubra);\n\nxvi) Borrazeira-branca (Salix salviifolia*);\n\nxvii) Borrazeira-preta (Salix atrocinerea*);\n\nxviii) Tramazeira (Sorbus aucuparia);\n\nxix) Teixo (Taxus baccata)."
+  },
+  "122080147": {
+   "fragment_id": "122087676",
+   "type": 11,
+   "heading": "Artigo 24.º — Sub-região homogénea Douro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Sub-região homogénea Douro\n\n1 - Nesta sub-região homogénea, com igual nível de prioridade, visa-se a implementação e o desenvolvimento das seguintes funções gerais dos espaços florestais:\n\na) Função geral de produção;\n\nb) Função geral de proteção;\n\nc) Função geral de silvopastorícia, caça e pesca nas águas interiores.\n\n2 - As normas de silvicultura a aplicar nesta sub-região homogénea correspondem às normas das funções referidas no número anterior.\n\n3 - Nesta sub-região devem ser privilegiadas as seguintes espécies florestais:\n\na) Espécie a privilegiar (Grupo I):\n\ni) Castanheiro (Castanea sativa);\n\nii) Lódão-bastardo (Celtis australis);\n\niii) Cedro-do-buçaco (Cupressus lusitanica);\n\niv) Cipreste-comum (Cupressus sempervirens);\n\nv) Eucalipto (Eucalyptus globulus);\n\nvi) Freixo-comum (Fraxinus angustifolia*);\n\nvii) Nogueira-negra (Juglans nigra);\n\nviii) Pinheiro-bravo (Pinus pinaster);\n\nix) Cerejeira-brava (Prunus avium);\n\nx) Carvalho-português (Quercus faginea);\n\nxi) Carvalho-negral (Quercus pyrenaica);\n\nxii) Azinheira (Quercus rotundifolia);\n\nxiii) Sobreiro (Quercus suber).\n\nb) Outras espécies a privilegiar (Grupo II):\n\ni) Amieiro (Alnus glutinosa);\n\nii) Medronheiro (Arbutus unedo);\n\niii) Vidoeiro (Betula celtiberica);\n\niv) Pilriteiro (Crataegus monogyna*);\n\nv) Freixo-europeu (Fraxinus excelsior);\n\nvi) Nogueira-comum (Juglans regia);\n\nvii) Oxicedro (Juniperus oxycedrus*);\n\nviii) Oliveira-brava (Olea europaea*);\n\nix) Pinheiro-manso (Pinus pinea);\n\nx) Terebinto/Cornalheira (Pistacia terebinthus*);\n\nxi) Plátano (Platanus x acerifolia);\n\nxii) Choupo-negro (Populus nigra);\n\nxiii) Choupo-híbrido (Populus x canadensis);\n\nxiv) Carvalho-alvarinho (Quercus robur);\n\nxv) Salgueiro-branco (Salix alba*);\n\nxvi) Borrazeira-preta (Salix atrocinerea*);\n\nxvii) Borrazeira-branca (Salix salviifolia*)."
+  },
+  "122080148": {
+   "fragment_id": "122087677",
+   "type": 11,
+   "heading": "Artigo 25.º — Sub-região homogénea Douro-Vouga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Sub-região homogénea Douro-Vouga\n\n1 - Nesta sub-região homogénea, com igual nível de prioridade, visa-se a implementação e o desenvolvimento das seguintes funções gerais dos espaços florestais:\n\na) Função geral de produção;\n\nb) Função geral de proteção;\n\nc) Função geral de silvopastorícia, caça e pesca nas águas interiores.\n\n2 - As normas de silvicultura a aplicar nesta sub-região homogénea correspondem às normas das funções referidas no número anterior.\n\n3 - Nesta sub-região devem ser privilegiadas as seguintes espécies florestais:\n\na) Espécie a privilegiar (Grupo I):\n\ni) Plátano (Acer pseudoplatanus);\n\nii) Castanheiro (Castanea sativa);\n\niii) Cedro-do-atlas (Cedrus atlantica);\n\niv) Cedro-do-buçaco (Cupressus lusitanica);\n\nv) Eucalipto (Eucalyptus globulus);\n\nvi) Freixo-comum (Fraxinus angustifolia*);\n\nvii) Nogueira-negra (Juglans nigra);\n\nviii) Pinheiro-bravo (Pinus pinaster);\n\nix) Carvalho-alvarinho (Quercus robur);\n\nx) Azinheira (Quercus rotundifolia);\n\nxi) Sobreiro (Quercus suber).\n\nb) Outras espécies a privilegiar (Grupo II):\n\ni) Amieiro (Alnus glutinosa);\n\nii) Medronheiro (Arbutus unedo);\n\niii) Pilriteiro (Crataegus monogyna*);\n\niv) Cipreste-comum (Cupressus sempervirens);\n\nv) Freixo-europeu (Fraxinus excelsior);\n\nvi) Nogueira-comum (Juglans regia);\n\nvii) Loureiro (Laurus nobilis);\n\nviii) Pinheiro-manso (Pinus pinea);\n\nix) Plátano (Platanus x acerifolia);\n\nx) Choupo-negro (Populus nigra);\n\nxi) Choupo-híbrido (Populus x canadensis);\n\nxii) Salgueiro-branco (Salix alba*);\n\nxiii) Borrazeira-branca (Salix salviifolia*)."
+  },
+  "122080149": {
+   "fragment_id": "122087678",
+   "type": 11,
+   "heading": "Artigo 26.º — Sub-região homogénea Entre Lima e Cávado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Sub-região homogénea Entre Lima e Cávado\n\n1 - Nesta sub-região homogénea, com igual nível de prioridade, visa-se a implementação e o desenvolvimento das seguintes funções gerais dos espaços florestais:\n\na) Função geral de produção;\n\nb) Função geral de recreio, enquadramento e estética da paisagem;\n\nc) Função geral de silvopastorícia, caça e pesca nas águas interiores.\n\n2 - As normas de silvicultura a aplicar nesta sub-região homogénea correspondem às normas das funções referidas no número anterior.\n\n3 - Nesta sub-região devem ser privilegiadas as seguintes espécies florestais:\n\na) Espécie a privilegiar (Grupo I):\n\ni) Plátano (Acer pseudoplatanus);\n\nii) Castanheiro (Castanea sativa);\n\niii) Cedro-branco (Chamaecyparis lawsoniana);\n\niv) Cedro-do-atlas (Cedrus atlantica);\n\nv) Cedro-do-buçaco (Cupressus lusitanica);\n\nvi) Eucalipto (Eucalyptus globulus);\n\nvii) Freixo-comum (Fraxinus angustifolia*);\n\nviii) Nogueira-negra (Juglans nigra);\n\nix) Pinheiro-bravo (Pinus pinaster);\n\nx) Pseudotsuga (Pseudotsuga menziesii);\n\nxi) Carvalho-alvarinho (Quercus robur);\n\nxii) Azinheira (Quercus rotundifolia);\n\nxiii) Sobreiro (Quercus suber).\n\nb) Outras espécies a privilegiar (Grupo II):\n\ni) Amieiro (Alnus glutinosa);\n\nii) Aveleira (Corylus avellana);\n\niii) Freixo-europeu (Fraxinus excelsior);\n\niv) Azevinho (Ilex aquifolium);\n\nv) Nogueira-comum (Juglans regia);\n\nvi) Loureiro (Laurus nobilis);\n\nvii) Pinheiro-manso (Pinus pinea);\n\nviii) Plátano (Platanus x acerifolia);\n\nix) Choupo-negro (Populus nigra);\n\nx) Choupo-híbrido (Populus x canadensis);\n\nxi) Escalheiro (Pyrus cordata*);\n\nxii) Carvalho-negral (Quercus pyrenaica);\n\nxiii) Carvalho-vermelho-americano (Quercus rubra);\n\nxiv) Salgueiro-branco (Salix alba*);\n\nxv) Borrazeira-preta (Salix atrocinerea*)."
+  },
+  "122080150": {
+   "fragment_id": "122087679",
+   "type": 11,
+   "heading": "Artigo 27.º — Sub-região homogénea Freita",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Sub-região homogénea Freita\n\n1 - Nesta sub-região homogénea, com igual nível de prioridade, visa-se a implementação e o desenvolvimento das seguintes funções gerais dos espaços florestais:\n\na) Função geral de conservação de habitats, de espécies da fauna e da flora e de geomonumentos;\n\nb) Função geral de produção;\n\nc) Função geral de silvopastorícia, caça e pesca nas águas interiores.\n\n2 - As normas de silvicultura a aplicar nesta sub-região homogénea correspondem às normas das funções referidas no número anterior.\n\n3 - Nesta sub-região devem ser privilegiadas as seguintes espécies florestais:\n\na) Espécie a privilegiar (Grupo I):\n\ni) Plátano (Acer pseudoplatanus);\n\nii) Castanheiro (Castanea sativa);\n\niii) Cedro-do-atlas (Cedrus atlantica);\n\niv) Cedro-do-buçaco (Cupressus lusitanica);\n\nv) Cedro-branco (Chamaecyparis lawsoniana);\n\nvi) Eucalipto (Eucalyptus globulus);\n\nvii) Freixo-comum (Fraxinus angustifolia*);\n\nviii) Nogueira-negra (Juglans nigra);\n\nix) Pinheiro-larício (Pinus nigra);\n\nx) Pinheiro-bravo (Pinus pinaster);\n\nxi) Pinheiro-silvestre (Pinus sylvestris);\n\nxii) Pseudotsuga (Pseudotsuga menziesii);\n\nxiii) Carvalho-negral (Quercus pyrenaica);\n\nxiv) Azinheira (Quercus rotundifolia);\n\nxv) Carvalho-alvarinho (Quercus robur);\n\nxvi) Sobreiro (Quercus suber).\n\nb) Outras espécies a privilegiar (Grupo II):\n\ni) Amieiro (Alnus glutinosa);\n\nii) Medronheiro (Arbutus unedo);\n\niii) Vidoeiro (Betula celtiberica);\n\niv) Aveleira (Corylus avellana);\n\nv) Pilriteiro (Crataegus monogyna*);\n\nvi) Faia (Fagus sylvatica);\n\nvii) Freixo-europeu (Fraxinus excelsior);\n\nviii) Azevinho (Ilex aquifolium);\n\nix) Nogueira-comum (Juglans regia);\n\nx) Loureiro (Lauris nobilis);\n\nxi) Choupo-negro (Populus nigra);\n\nxii) Escalheiro (Pyrus cordata*);\n\nxiii) Carvalho-vermelho-americano (Quercus rubra);\n\nxiv) Borrazeira-preta (Salix atrocinerea*);\n\nxv) Borrazeira-branca (Salix salviifolia*);\n\nxvi) Tramazeira (Sorbus aucuparia)."
+  },
+  "122080151": {
+   "fragment_id": "122087680",
+   "type": 11,
+   "heading": "Artigo 28.º — Sub-região homogénea Grande Porto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Sub-região homogénea Grande Porto\n\n1 - Nesta sub-região homogénea, com igual nível de prioridade, visa-se a implementação e o desenvolvimento das seguintes funções gerais dos espaços florestais:\n\na) Função geral de produção;\n\nb) Função geral de proteção;\n\nc) Função geral de silvopastorícia, caça e pesca nas águas interiores.\n\n2 - As normas de silvicultura a aplicar nesta sub-região homogénea correspondem às normas das funções referidas no número anterior.\n\n3 - Nesta sub-região devem ser privilegiadas as seguintes espécies florestais:\n\na) Espécie a privilegiar (Grupo I):\n\ni) Plátano (Acer pseudoplatanus);\n\nii) Castanheiro (Castanea sativa);\n\niii) Cedro-do-atlas (Cedrus atlantica);\n\niv) Cedro-do-buçaco (Cupressus lusitanica);\n\nv) Eucalipto (Eucalyptus globulus);\n\nvi) Freixo-comum (Fraxinus angustifolia*);\n\nvii) Nogueira-negra (Juglans nigra);\n\nviii) Pinheiro-bravo (Pinus pinaster);\n\nix) Carvalho-alvarinho (Quercus robur);\n\nx) Azinheira (Quercus rotundifolia);\n\nxi) Sobreiro (Quercus suber).\n\nb) Outras espécies a privilegiar (Grupo II):\n\ni) Amieiro (Alnus glutinosa);\n\nii) Medronheiro (Arbutus unedo);\n\niii) Lódão-bastardo (Celtis australis);\n\niv) Pilriteiro (Crataegus monogyna*);\n\nv) Cipreste-comum (Cupressus sempervirens);\n\nvi) Freixo-europeu (Fraxinus excelsior);\n\nvii) Nogueira-comum (Juglans regia);\n\nviii) Loureiro (Laurus nobilis);\n\nix) Pinheiro-manso (Pinus pinea);\n\nx) Plátano (Platanus x acerifolia);\n\nxi) Choupo-negro (Populus nigra);\n\nxii) Choupo-híbrido (Populus x canadensis);\n\nxiii) Salgueiro-branco (Salix alba*);\n\nxiv) Borrazeira-preta (Salix atrocinerea*)."
+  },
+  "122080152": {
+   "fragment_id": "122087681",
+   "type": 11,
+   "heading": "Artigo 29.º — Sub-região homogénea de Litoral de Esposende",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Sub-região homogénea de Litoral de Esposende\n\n1 - Nesta sub-região homogénea, com igual nível de prioridade, visa-se a implementação e o desenvolvimento das seguintes funções gerais dos espaços florestais:\n\na) Função geral de conservação de habitats, de espécies da fauna e da flora e de geomonumentos;\n\nb) Função geral de produção;\n\nc) Função geral de silvopastorícia, caça e pesca nas águas interiores.\n\n2 - As normas de silvicultura a aplicar nesta sub-região homogénea correspondem às normas das funções no número anterior.\n\n3 - Nesta sub-região devem ser privilegiadas as seguintes espécies florestais:\n\na) Espécie a privilegiar (Grupo I):\n\ni) Plátano (Acer pseudoplatanus);\n\nii) Castanheiro (Castanea sativa);\n\niii) Cedro-do-atlas (Cedrus atlantica);\n\niv) Cedro-do-buçaco (Cupressus lusitanica);\n\nv) Eucalipto (Eucalyptus globulus);\n\nvi) Freixo-comum (Fraxinus angustifolia*);\n\nvii) Nogueira-negra (Juglans nigra);\n\nviii) Pinheiro-bravo (Pinus pinaster);\n\nix) Carvalho-alvarinho (Quercus robur);\n\nx) Azinheira (Quercus rotundifolia);\n\nxi) Sobreiro (Quercus suber).\n\nb) Outras espécies a privilegiar (Grupo II):\n\ni) Amieiro (Alnus glutinosa);\n\nii) Medronheiro (Arbutus unedo);\n\niii) Pilriteiro (Crataegus monogyna*);\n\niv) Cipreste-comum (Cupressus sempervirens);\n\nv) Freixo-europeu (Fraxinus excelsior);\n\nvi) Nogueira-comum (Juglans regia);\n\nvii) Loureiro (Laurus nobilis);\n\nviii) Pinheiro-manso (Pinus pinea);\n\nix) Plátano (Platanus x acerifolia);\n\nx) Choupo-negro (Populus nigra);\n\nxi) Choupo-híbrido (Populus x canadensis);\n\nxii) Salgueiro-branco (Salix alba*);\n\nxiii) Borrazeira-preta (Salix atrocinerea*)."
+  },
+  "122080153": {
+   "fragment_id": "122087682",
+   "type": 11,
+   "heading": "Artigo 30.º — Sub-região homogénea Mindelo-Esmoriz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Sub-região homogénea Mindelo-Esmoriz\n\n1 - Nesta sub-região homogénea, com igual nível de prioridade, visa-se a implementação e o desenvolvimento das seguintes funções gerais dos espaços florestais:\n\na) Função geral de produção;\n\nb) Função geral de proteção;\n\nc) Função geral de silvopastorícia, caça e pesca nas águas interiores.\n\n2 - As normas de silvicultura a aplicar nesta sub-região homogénea correspondem às normas das funções referidas no número anterior.\n\n3 - Nesta sub-região devem ser privilegiadas as seguintes espécies florestais:\n\na) Espécie a privilegiar (Grupo I):\n\ni) Plátano (Acer pseudoplatanus);\n\nii) Castanheiro (Castanea sativa);\n\niii) Cedro-do-atlas (Cedrus atlantica);\n\niv) Cedro-do-buçaco (Cupressus lusitanica);\n\nv) Eucalipto (Eucalyptus globulus);\n\nvi) Freixo-comum (Fraxinus angustifolia*);\n\nvii) Nogueira-negra (Juglans nigra);\n\nviii) Pinheiro-bravo (Pinus pinaster);\n\nix) Carvalho-alvarinho (Quercus robur);\n\nx) Azinheira (Quercus rotundifolia);\n\nxi) Sobreiro (Quercus suber).\n\nb) Outras espécies a privilegiar (Grupo II):\n\ni) Amieiro (Alnus glutinosa);\n\nii) Medronheiro (Arbutus unedo);\n\niii) Lódão-bastardo (Celtis australis);\n\niv) Pilriteiro (Crataegus monogyna*);\n\nv) Cipreste-comum (Cupressus sempervirens);\n\nvi) Freixo-europeu (Fraxinus excelsior);\n\nvii) Nogueira-comum (Juglans regia);\n\nviii) Loureiro (Laurus nobilis);\n\nix) Pinheiro-manso (Pinus pinea);\n\nx) Plátano (Platanus x acerifolia);\n\nxi) Choupo-negro (Populus nigra);\n\nxii) Choupo-híbrido (Populus x canadensis);\n\nxiii) Salgueiro-branco (Salix alba*);\n\nxiv) Borrazeira-preta (Salix atrocinerea*)."
+  },
+  "122080154": {
+   "fragment_id": "122087683",
+   "type": 11,
+   "heading": "Artigo 31.º — Sub-região homogénea Minho Interior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Sub-região homogénea Minho Interior\n\n1 - Nesta sub-região homogénea, com igual nível de prioridade, visa-se a implementação e o desenvolvimento das seguintes funções gerais dos espaços florestais:\n\na) Função geral de produção;\n\nb) Função geral de proteção;\n\nc) Função geral de silvopastorícia, caça e pesca nas águas interiores.\n\n2 - As normas de silvicultura a aplicar nesta sub-região homogénea correspondem às normas das funções referidas no número anterior.\n\n3 - Nesta sub-região devem ser privilegiadas as seguintes espécies florestais:\n\na) Espécie a privilegiar (Grupo I):\n\ni) Plátano (Acer pseudoplatanus);\n\nii) Castanheiro (Castanea sativa);\n\niii) Cedro-do-atlas (Cedrus atlantica);\n\niv) Cedro-branco (Chamaecyparis lawsoniana);\n\nv) Cedro-do-buçaco (Cupressus lusitanica);\n\nvi) Eucalipto (Eucalyptus globulus);\n\nvii) Freixo-comum (Fraxinus angustifolia*);\n\nviii) Nogueira-negra (Juglans nigra);\n\nix) Pinheiro-larício (Pinus nigra);\n\nx) Pinheiro-bravo (Pinus pinaster);\n\nxi) Pinheiro-silvestre (Pinus sylvestris);\n\nxii) Cerejeira-brava (Prunus avium);\n\nxiii) Pseudotsuga (Pseudotsuga menziesii);\n\nxiv) Carvalho-negral (Quercus pyrenaica);\n\nxv) Carvalho-alvarinho (Quercus robur);\n\nxvi) Azinheira (Quercus rotundifolia);\n\nxvii) Sobreiro (Quercus suber).\n\nb) Outras espécies a privilegiar (Grupo II):\n\ni) Amieiro (Alnus glutinosa);\n\nii) Medronheiro (Arbutus unedo);\n\niii) Vidoeiro (Betula celtiberica);\n\niv) Aveleira (Corylus avellana);\n\nv) Freixo-europeu (Fraxinus excelsior);\n\nvi) Azevinho (Ilex aquifolium);\n\nvii) Nogueira-comum (Juglans regia);\n\nviii) Loureiro (Laurus nobilis);\n\nix) Pinheiro-manso (Pinus pinea);\n\nx) Plátano (Platanus x acerifolia);\n\nxi) Choupo-negro (Populus nigra);\n\nxii) Choupo-híbrido (Populus x canadensis);\n\nxiii) Escalheiro (Pyrus cordata*);\n\nxiv) Carvalho-vermelho-americano (Quercus rubra);\n\nxv) Salgueiro-branco (Salix alba*);\n\nxvi) Borrazeira-preta (Salix atrocinerea*);\n\nxvii) Borrazeira-branca (Salix salviifolia*)."
+  },
+  "122080155": {
+   "fragment_id": "122087684",
+   "type": 11,
+   "heading": "Artigo 32.º — Sub-região homogénea Minho-Neiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Sub-região homogénea Minho-Neiva\n\n1 - Nesta sub-região homogénea, com igual nível de prioridade, visa-se a implementação e o desenvolvimento das seguintes funções gerais dos espaços florestais:\n\na) Função geral de conservação de habitats, de espécies da fauna e da flora e de geomonumentos;\n\nb) Função geral de produção;\n\nc) Função geral de silvopastorícia, caça e pesca nas águas interiores.\n\n2 - As normas de silvicultura a aplicar nesta sub-região homogénea correspondem às normas das funções referidas no número anterior.\n\n3 - Nesta sub-região devem ser privilegiadas as seguintes espécies florestais:\n\na) Espécie a privilegiar (Grupo I):\n\ni) Plátano (Acer pseudoplatanus);\n\nii) Castanheiro (Castanea sativa);\n\niii) Cedro-do-atlas (Cedrus atlantica);\n\niv) Cedro-do-buçaco (Cupressus lusitanica);\n\nv) Eucalipto (Eucalyptus globulus);\n\nvi) Freixo-comum (Fraxinus angustifolia*);\n\nvii) Nogueira-negra (Juglans nigra);\n\nviii) Pinheiro-bravo (Pinus pinaster);\n\nix) Carvalho-alvarinho (Quercus robur);\n\nx) Azinheira (Quercus rotundifolia);\n\nxi) Sobreiro (Quercus suber).\n\nb) Outras espécies a privilegiar (Grupo II):\n\ni) Amieiro (Alnus glutinosa);\n\nii) Medronheiro (Arbutus unedo);\n\niii) Aveleira (Corylus avellana);\n\niv) Freixo-europeu (Fraxinus excelsior);\n\nv) Nogueira-comum (Juglans regia);\n\nvi) Loureiro (Laurus nobilis);\n\nvii) Pinheiro-manso (Pinus pinea);\n\nviii) Plátano (Platanus x acerifolia);\n\nix) Choupo-negro (Populus nigra);\n\nx) Choupo-híbrido (Populus x canadensis);\n\nxi) Carvalho-negral (Quercus pyrenaica);\n\nxii) Salgueiro-branco (Salix alba*);\n\nxiii) Borrazeira-preta (Salix atrocinerea*)."
+  },
+  "122080156": {
+   "fragment_id": "122087685",
+   "type": 11,
+   "heading": "Artigo 33.º — Sub-região homogénea Minho-Vez",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Sub-região homogénea Minho-Vez\n\n1 - Nesta sub-região homogénea, com igual nível de prioridade, visa-se a implementação e o desenvolvimento das seguintes funções gerais dos espaços florestais:\n\na) Função geral de produção;\n\nb) Função geral de recreio e valorização da paisagem;\n\nc) Função geral de silvopastorícia, caça e pesca nas águas interiores.\n\n2 - As normas de silvicultura a aplicar nesta sub-região homogénea correspondem às normas das funções referidas no número anterior.\n\n3 - Nesta sub-região devem ser privilegiadas as seguintes espécies florestais:\n\na) Espécie a privilegiar (Grupo I):\n\ni) Castanheiro (Castanea sativa);\n\nii) Cedro-branco (Chamaecyparis lawsoniana);\n\niii) Cedro-do-atlas (Cedrus atlantica);\n\niv) Cedro-do-buçaco (Cupressus lusitanica);\n\nv) Eucalipto (Eucalyptus globulus);\n\nvi) Freixo-comum (Fraxinus angustifolia*);\n\nvii) Nogueira-negra (Juglans nigra);\n\nviii) Pinheiro-larício (Pinus nigra);\n\nix) Pinheiro-bravo (Pinus pinaster);\n\nx) Pinheiro-silvestre (Pinus sylvestris);\n\nxi) Cerejeira-brava (Prunus avium);\n\nxii) Pseudotsuga (Pseudotsuga menziesii);\n\nxiii) Carvalho-negral (Quercus pyrenaica);\n\nxiv) Carvalho-alvarinho (Quercus robur);\n\nxv) Azinheira (Quercus rotundifolia);\n\nxvi) Sobreiro (Quercus suber).\n\nb) Outras espécies a privilegiar (Grupo II):\n\ni) Amieiro (Alnus glutinosa);\n\nii) Medronheiro (Arbutus unedo);\n\niii) Pilriteiro (Crataegus monogyna*);\n\niv) Vidoeiro (Betula celtiberica);\n\nv) Freixo-europeu (Fraxinus excelsior);\n\nvi) Azevinho (Ilex aquifolium);\n\nvii) Nogueira-comum (Juglans regia);\n\nviii) Loureiro (Laurus nobilis);\n\nix) Pinheiro-manso (Pinus pinea);\n\nx) Azereiro (Prunus lusitanica);\n\nxi) Carvalho-vermelho-americano (Quercus rubra);\n\nxii) Salgueiro-branco (Salix alba*);\n\nxiii) Borrazeira-preta (Salix atrocinerea*);\n\nxiv) Borrazeira-branca (Salix salviifolia*);\n\nxv) Tramazeira (Sorbus aucuparia)."
+  },
+  "122080157": {
+   "fragment_id": "122087686",
+   "type": 11,
+   "heading": "Artigo 34.º — Sub-região homogénea Olo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Sub-região homogénea Olo\n\n1 - Nesta sub-região homogénea, com igual nível de prioridade, visa-se a implementação e o desenvolvimento das seguintes funções gerais dos espaços florestais:\n\na) Função geral de conservação de habitats, de espécies da fauna e da flora e de geomonumentos;\n\nb) Função geral de produção;\n\nc) Função geral de recreio e valorização da paisagem.\n\n2 - As normas de silvicultura a aplicar nesta sub-região homogénea correspondem às normas das funções referidas no número anterior.\n\n3 - Nesta sub-região devem ser privilegiadas as seguintes espécies florestais:\n\na) Espécie a privilegiar (Grupo I):\n\ni) Plátano (Acer pseudoplatanus);\n\nii) Vidoeiro (Betula celtiberica);\n\niii) Castanheiro (Castanea sativa);\n\niv) Cedro-do-atlas (Cedrus atlantica);\n\nv) Cedro-branco (Chamaecyparis lawsoniana);\n\nvi) Eucalipto (Eucalyptus globulus);\n\nvii) Freixo-comum (Fraxinus angustifolia*);\n\nviii) Nogueira-negra (Juglans nigra);\n\nix) Pinheiro-larício (Pinus nigra);\n\nx) Pinheiro-bravo (Pinus pinaster);\n\nxi) Pinheiro-silvestre (Pinus sylvestris);\n\nxii) Cerejeira-brava (Prunus avium);\n\nxiii) Pseudotsuga (Pseudotsuga menziesii);\n\nxiv) Carvalho-negral (Quercus pyrenaica);\n\nxv) Carvalho-alvarinho (Quercus robur);\n\nxvi) Sobreiro (Quercus suber).\n\nb) Outras espécies a privilegiar (Grupo II):\n\ni) Amieiro (Alnus glutinosa);\n\nii) Medronheiro (Arbutus unedo);\n\niii) Aveleira (Corylus avellana);\n\niv) Pilriteiro (Crataegus monogyna*);\n\nv) Faia (Fagus sylvatica);\n\nvi) Freixo-europeu (Fraxinus excelsior);\n\nvii) Azevinho (Ilex aquifolium);\n\nviii) Nogueira-comum (Juglans regia);\n\nix) Larício-híbrido-de-dunkeld (Larix x eurolepis);\n\nx) Loureiro (Laurus nobilis);\n\nxi) Choupo-negro (Populus nigra);\n\nxii) Choupo-híbrido (Populus x canadensis);\n\nxiii) Escalheiro (Pyrus cordata*);\n\nxiv) Azinheira (Quercus rotundifolia);\n\nxv) Carvalho-vermelho-americano (Quercus rubra);\n\nxvi) Sobreiro (Quercus suber);\n\nxvii) Borrazeira-branca (Salix salviifolia*);\n\nxviii) Borrazeira-preta (Salix atrocinerea*);\n\nxix) Tramazeira (Sorbus aucuparia)."
+  },
+  "122080158": {
+   "fragment_id": "122087687",
+   "type": 11,
+   "heading": "Artigo 35.º — Sub-região homogénea Paiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Sub-região homogénea Paiva\n\n1 - Nesta sub-região homogénea, com igual nível de prioridade, visa-se a implementação e o desenvolvimento das seguintes funções gerais dos espaços florestais:\n\na) Função geral de conservação de habitats, de espécies da fauna e da flora e de geomonumentos;\n\nb) Função geral de produção;\n\nc) Função geral de proteção.\n\n2 - As normas de silvicultura a aplicar nesta sub-região homogénea correspondem às normas das funções referidas no número anterior.\n\n3 - Nesta sub-região devem ser privilegiadas as seguintes espécies florestais:\n\na) Espécie a privilegiar (Grupo I):\n\ni) Plátano (Acer pseudoplatanus);\n\nii) Castanheiro (Castanea sativa);\n\niii) Cedro-do-atlas (Cedrus atlantica);\n\niv) Cedro-do-buçaco (Cupressus lusitanica);\n\nv) Eucalipto (Eucalyptus globulus);\n\nvi) Freixo-comum (Fraxinus angustifolia*);\n\nvii) Nogueira-negra (Juglans nigra);\n\nviii) Pinheiro-bravo (Pinus pinaster);\n\nix) Cerejeira-brava (Prunus avium);\n\nx) Carvalho-alvarinho (Quercus robur);\n\nxi) Azinheira (Quercus rotundifolia);\n\nxii) Sobreiro (Quercus suber).\n\nb) Outras espécies a privilegiar (Grupo II):\n\ni) Amieiro (Alnus glutinosa);\n\nii) Medronheiro (Arbutus unedo);\n\niii) Vidoeiro (Betula celtiberica);\n\niv) Aveleira (Corylus avellana);\n\nv) Pilriteiro (Crataegus monogyna*);\n\nvi) Freixo-europeu (Fraxinus excelsior);\n\nvii) Nogueira-comum (Juglans regia);\n\nviii) Loureiro (Laurus nobilis);\n\nix) Pinheiro-manso (Pinus pinea);\n\nx) Plátano (Platanus x acerifolia);\n\nxi) Choupo-negro (Populus nigra);\n\nxii) Choupo-híbrido (Populus x canadensis);\n\nxiii) Escalheiro (Pyrus cordata*);\n\nxiv) Carvalho-negral (Quercus pyrenaica);\n\nxv) Carvalho-vermelho-americano (Quercus rubra);\n\nxvi) Salgueiro-branco (Salix alba*);\n\nxvii) Borrazeira-preta (Salix atrocinerea*);\n\nxviii) Borrazeira-branca (Salix salviifolia*)."
+  },
+  "122080159": {
+   "fragment_id": "122087688",
+   "type": 11,
+   "heading": "Artigo 36.º — Sub-região homogénea Parque Nacional da Peneda-Gerês",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Sub-região homogénea Parque Nacional da Peneda-Gerês\n\n1 - Nesta sub-região homogénea, com igual nível de prioridade, visa-se a implementação e o desenvolvimento das seguintes funções gerais dos espaços florestais:\n\na) Função geral de conservação de habitats, de espécies da fauna e da flora e de geomonumentos;\n\nb) Função geral de produção;\n\nc) Função geral de recreio e valorização da paisagem.\n\n2 - As normas de silvicultura a aplicar nesta sub-região homogénea correspondem às normas das funções referidas no número anterior.\n\n3 - Nesta sub-região devem ser privilegiadas as seguintes espécies florestais:\n\na) Espécie a privilegiar (Grupo I):\n\ni) Plátano (Acer pseudoplatanus);\n\nii) Vidoeiro (Betula celtiberica);\n\niii) Cedro-do-atlas (Cedrus atlantica);\n\niv) Cedro-branco (Chamaecyparis lawsoniana);\n\nv) Eucalipto (Eucalyptus globulus);\n\nvi) Nogueira-negra (Juglans nigra);\n\nvii) Pinheiro-larício (Pinus nigra);\n\nviii) Pinheiro-bravo (Pinus pinaster);\n\nix) Pinheiro-silvestre (Pinus sylvestris);\n\nx) Cerejeira-brava (Prunus avium);\n\nxi) Pseudotsuga (Pseudotsuga menziesii);\n\nxii) Carvalho-alvarinho (Quercus robur);\n\nxiii) Carvalho-negral (Quercus pyrenaica);\n\nxiv) Sobreiro (Quercus suber).\n\nb) Outras espécies a privilegiar (Grupo II):\n\ni) Amieiro (Alnus glutinosa);\n\nii) Medronheiro (Arbutus unedo);\n\niii) Castanheiro (Castanea sativa);\n\niv) Aveleira (Corylus avellana);\n\nv) Pilriteiro (Crataegus monogyna*);\n\nvi) Faia (Fagus sylvatica);\n\nvii) Azevinho (Ilex aquifolium);\n\nviii) Nogueira-comum (Juglans regia);\n\nix) Larício-híbrido-de-dunkeld (Larix x eurolepis);\n\nx) Loureiro (Laurus nobilis);\n\nxi) Azereiro (Prunus lusitanica);\n\nxii) Escalheiro (Pyrus cordata*);\n\nxiii) Azinheira (Quercus rotundifolia);\n\nxiv) Borrazeira-branca (Salix salviifolia*);\n\nxv) Borrazeira-preta (Salix atrocinerea*);\n\nxvi) Tramazeira (Sorbus aucuparia);\n\nxvii) Teixo (Taxus baccata)."
+  },
+  "122080160": {
+   "fragment_id": "122087689",
+   "type": 11,
+   "heading": "Artigo 37.º — Sub-região homogénea Ribadouro-Montemuro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Sub-região homogénea Ribadouro-Montemuro\n\n1 - Nesta sub-região homogénea, com igual nível de prioridade, visa-se a implementação e o desenvolvimento das seguintes funções gerais dos espaços florestais:\n\na) Função geral de conservação de habitats, de espécies da fauna e da flora e de geomonumentos;\n\nb) Função geral de produção;\n\nc) Função geral de silvopastorícia, caça e pesca nas águas interiores.\n\n2 - As normas de silvicultura a aplicar nesta sub-região homogénea correspondem às normas das funções referidas no número anterior.\n\n3 - Nesta sub-região devem ser privilegiadas as seguintes espécies florestais:\n\na) Espécie a privilegiar (Grupo I):\n\ni) Plátano (Acer pseudoplatanus);\n\nii) Vidoeiro (Betula celtiberica);\n\niii) Castanheiro (Castanea sativa);\n\niv) Cedro-do-atlas (Cedrus atlantica);\n\nv) Cedro-branco (Chamaecyparis lawsoniana);\n\nvi) Cedro-do-buçaco (Cupressus lusitanica);\n\nvii) Eucalipto (Eucalyptus globulus);\n\nviii) Freixo-comum (Fraxinus angustifolia*);\n\nix) Nogueira-negra (Juglans nigra);\n\nx) Pinheiro-larício (Pinus nigra);\n\nxi) Pinheiro-bravo (Pinus pinaster);\n\nxii) Pinheiro-silvestre (Pinus sylvestris);\n\nxiii) Cerejeira-brava (Prunus avium);\n\nxiv) Pseudotsuga (Pseudotsuga menziesii);\n\nxv) Carvalho-alvarinho (Quercus robur);\n\nxvi) Carvalho-negral (Quercus pyrenaica);\n\nxvii) Sobreiro (Quercus suber).\n\nb) Outras espécies a privilegiar (Grupo II):\n\ni) Freixo-europeu (Fraxinus excelsior);\n\nii) Nogueira-comum (Juglans regia);\n\niii) Loureiro (Laurus nobilis);\n\niv) Oliveira-brava (Olea europaea);\n\nv) Pinheiro-manso (Pinus pinea);\n\nvi) Plátano (Platanus hispanica);\n\nvii) Choupo-negro (Populus nigra);\n\nviii) Escalheiro (Pyrus cordata*);\n\nix) Azinheira (Quercus rotundifolia);\n\nx) Carvalho-vermelho-americano (Quercus rubra);\n\nxi) Sobreiro (Quercus suber);\n\nxii) Borrazeira-branca (Salix salviifolia*);\n\nxiii) Borrazeira-preta (Salix atrocinerea*);\n\nxiv) Tramazeira (Sorbus aucuparia)."
+  },
+  "122080161": {
+   "fragment_id": "122087690",
+   "type": 11,
+   "heading": "Artigo 38.º — Sub-região homogénea Serras de Valongo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Sub-região homogénea Serras de Valongo\n\n1 - Nesta sub-região homogénea, com igual nível de prioridade, visa-se a implementação e o desenvolvimento das seguintes funções gerais dos espaços florestais:\n\na) Função geral de conservação de habitats, de espécies da fauna e da flora e de geomonumentos;\n\nb) Função geral de produção;\n\nc) Função geral silvopastorícia, caça e pesca nas águas interiores.\n\n2 - As normas de silvicultura a aplicar nesta sub-região homogénea correspondem às normas das funções referidas no número anterior.\n\n3 - Nesta sub-região devem ser privilegiadas as seguintes espécies florestais:\n\na) Espécie a privilegiar (Grupo I):\n\ni) Plátano (Acer pseudoplatanus);\n\nii) Castanheiro (Castanea sativa);\n\niii) Cedro-branco (Chamaecyparis lawsoniana);\n\niv) Cedro-do-atlas (Cedrus atlantica);\n\nv) Cedro-do-buçaco (Cupressus lusitanica);\n\nvi) Eucalipto (Eucalyptus globulus);\n\nvii) Freixo-comum (Fraxinus angustifolia*);\n\nviii) Nogueira-negra (Juglans nigra);\n\nix) Pinheiro-bravo (Pinus pinaster);\n\nx) Pseudotsuga (Pseudotsuga menziesii);\n\nxi) Carvalho-alvarinho (Quercus robur);\n\nxii) Azinheira (Quercus rotundifolia);\n\nxiii) Sobreiro (Quercus suber).\n\nb) Outras espécies a privilegiar (Grupo II):\n\ni) Amieiro (Alnus glutinosa);\n\nii) Medronheiro (Arbutus unedo);\n\niii) Pilriteiro (Crataegus monogyna*);\n\niv) Freixo-europeu (Fraxinus excelsior);\n\nv) Azevinho (Ilex aquifolium);\n\nvi) Nogueira-comum (Juglans regia);\n\nvii) Loureiro (Laurus nobilis);\n\nviii) Pinheiro-manso (Pinus pinea);\n\nix) Plátano (Platanus x acerifolia);\n\nx) Choupo-negro (Populus nigra);\n\nxi) Choupo-híbrido (Populus x canadensis);\n\nxii) Carvalho-negral (Quercus pyrenaica);\n\nxiii) Carvalho-vermelho-americano (Quercus rubra);\n\nxiv) Salgueiro-branco (Salix alba*);\n\nxv) Borrazeira-preta (Salix atrocinerea*)."
+  },
+  "122080162": {
+   "fragment_id": "122087691",
+   "type": 11,
+   "heading": "Artigo 39.º — Sub-região homogénea Tâmega",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Sub-região homogénea Tâmega\n\n1 - Nesta sub-região homogénea, com igual nível de prioridade, visa-se a implementação e o desenvolvimento das seguintes funções gerais dos espaços florestais:\n\na) Função geral de produção;\n\nb) Função geral de recreio e valorização da paisagem;\n\nc) Função geral silvopastorícia, caça e pesca nas águas interiores.\n\n2 - As normas de silvicultura a aplicar nesta sub-região homogénea correspondem às normas das funções referidas no número anterior.\n\n3 - Nesta sub-região devem ser privilegiadas as seguintes espécies florestais:\n\na) Espécie a privilegiar (Grupo I):\n\ni) Plátano (Acer pseudoplatanus);\n\nii) Castanheiro (Castanea sativa);\n\niii) Cedro-branco (Chamaecyparis lawsoniana);\n\niv) Cedro-do-atlas (Cedrus atlantica);\n\nv) Cedro-do-buçaco (Cupressus lusitanica);\n\nvi) Eucalipto (Eucalyptus globulus);\n\nvii) Freixo-comum (Fraxinus angustifolia*);\n\nviii) Nogueira-negra (Juglans nigra);\n\nix) Pinheiro-larício (Pinus nigra);\n\nx) Pinheiro-bravo (Pinus pinaster);\n\nxi) Pinheiro-silvestre (Pinus sylvestris);\n\nxii) Pseudotsuga (Pseudotsuga menziesii);\n\nxiii) Carvalho-negral (Quercus pyrenaica);\n\nxiv) Carvalho-alvarinho (Quercus robur);\n\nxv) Azinheira (Quercus rotundifolia);\n\nxvi) Sobreiro (Quercus suber).\n\nb) Outras espécies a privilegiar (Grupo II):\n\ni) Amieiro (Alnus glutinosa);\n\nii) Medronheiro (Arbutus unedo);\n\niii) Vidoeiro (Betula celtiberica);\n\niv) Pilriteiro (Crataegus monogyna*);\n\nv) Freixo-europeu (Fraxinus excelsior);\n\nvi) Azevinho (Ilex aquifolium);\n\nvii) Nogueira-comum (Juglans regia);\n\nviii) Larício-híbrido-de-dunkeld (Larix x eurolepis);\n\nix) Loureiro (Laurus nobilis);\n\nx) Pinheiro-manso (Pinus pinea);\n\nxi) Plátano (Platanus x acerifolia);\n\nxii) Choupo-negro (Populus nigra);\n\nxiii) Choupo-híbrido (Populus x canadensis);\n\nxiv) Carvalho-vermelho-americano (Quercus rubra);\n\nxv) Borrazeira-branca (Salix salviifolia*);\n\nxvi) Borrazeira-preta (Salix atrocinerea*);\n\nxvii) Tramazeira (Sorbus aucuparia)."
+  },
+  "122080163": {
+   "fragment_id": "122087692",
+   "type": 11,
+   "heading": "Artigo 40.º — Sub-região homogénea Tâmega-Sousa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Sub-região homogénea Tâmega-Sousa\n\n1 - Nesta sub-região homogénea, com igual nível de prioridade, visa-se a implementação e o desenvolvimento das seguintes funções gerais dos espaços florestais:\n\na) Função geral de produção;\n\nb) Função geral de proteção;\n\nc) Função geral de silvopastorícia, caça e pesca nas águas interiores.\n\n2 - As normas de silvicultura a aplicar nesta sub-região homogénea correspondem às normas das funções referidas no número anterior.\n\n3 - Nesta sub-região devem ser privilegiadas as seguintes espécies florestais:\n\na) Espécie a privilegiar (Grupo I):\n\ni) Plátano (Acer pseudoplatanus);\n\nii) Castanheiro (Castanea sativa);\n\niii) Cedro-branco (Chamaecyparis lawsoniana);\n\niv) Cedro-do-atlas (Cedrus atlantica);\n\nv) Cedro-do-Buçaco (Cupressus lusitanica);\n\nvi) Eucalipto (Eucalyptus globulus);\n\nvii) Freixo-comum (Fraxinus angustifolia*);\n\nviii) Nogueira-negra (Juglans nigra);\n\nix) Pinheiro-larício (Pinus nigra);\n\nx) Pinheiro-bravo (Pinus pinaster);\n\nxi) Pinheiro-silvestre (Pinus sylvestris);\n\nxii) Pseudotsuga (Pseudotsuga menziesii);\n\nxiii) Carvalho-alvarinho (Quercus robur),\n\nxiv) Azinheira (Quercus rotundifolia);\n\nxv) Sobreiro (Quercus suber).\n\nb) Outras espécies a privilegiar (Grupo II):\n\ni) Amieiro (Alnus glutinosa);\n\nii) Medronheiro (Arbutus unedo);\n\niii) Vidoeiro (Betula celtiberica);\n\niv) Pilriteiro (Crataegus monogyna*);\n\nv) Freixo-europeu (Fraxinus excelsior);\n\nvi) Nogueira-comum (Juglans regia);\n\nvii) Larício-híbrido-de-dunkeld (Larix x eurolepis);\n\nviii) Loureiro (Laurus nobilis);\n\nix) Pinheiro-manso (Pinus pinea);\n\nx) Plátano (Platanus x acerifolia);\n\nxi) Choupo-negro (Populus nigra);\n\nxii) Choupo-híbrido (Populus x canadensis);\n\nxiii) Carvalho-negral (Quercus pyrenaica);\n\nxiv) Carvalho-vermelho-americano (Quercus rubra);\n\nxv) Salgueiro-branco (Salix alba*);\n\nxvi) Borrazeira-preta (Salix atrocinerea*)."
+  },
+  "122080164": {
+   "fragment_id": "122087693",
+   "type": 11,
+   "heading": "Artigo 41.º — Sub-região homogénea Vale do Lima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Sub-região homogénea Vale do Lima\n\n1 - Nesta sub-região homogénea, com igual nível de prioridade, visa-se a implementação e o desenvolvimento das seguintes funções gerais dos espaços florestais:\n\na) Função geral de produção;\n\nb) Função geral de proteção;\n\nc) Função geral silvopastorícia, caça e pesca nas águas interiores.\n\n2 - As normas de silvicultura a aplicar nesta sub-região homogénea correspondem às normas das funções referidas no número anterior.\n\n3 - Nesta sub-região devem ser privilegiadas as seguintes espécies florestais:\n\na) Espécie a privilegiar (Grupo I):\n\ni) Plátano (Acer pseudoplatanus);\n\nii) Castanheiro (Castanea sativa);\n\niii) Cedro-do-atlas (Cedrus atlantica);\n\niv) Cedro-do-Buçaco (Cupressus lusitanica);\n\nv) Eucalipto (Eucalyptus globulus);\n\nvi) Freixo-comum (Fraxinus angustifolia*);\n\nvii) Nogueira-negra (Juglans nigra);\n\nviii) Pinheiro-bravo (Pinus pinaster);\n\nix) Pseudotsuga (Pseudotsuga menziesii);\n\nx) Carvalho-alvarinho (Quercus robur);\n\nxi) Azinheira (Quercus rotundifolia);\n\nxii) Sobreiro (Quercus suber).\n\nb) Outras espécies a privilegiar (Grupo II):\n\ni) Amieiro (Alnus glutinosa);\n\nii) Aveleira (Corylus avellana);\n\niii) Freixo-europeu (Fraxinus excelsior);\n\niv) Azevinho (Ilex aquifolium);\n\nv) Nogueira-comum (Juglans regia);\n\nvi) Loureiro (Laurus nobilis);\n\nvii) Pinheiro-manso (Pinus pinea);\n\nviii) Plátano (Platanus x acerifolia);\n\nix) Choupo-negro (Populus nigra);\n\nx) Choupo-híbrido (Populus x canadensis);\n\nxi) Escalheiro (Pyrus cordata*);\n\nxii) Carvalho-negral (Quercus pyrenaica);\n\nxiii) Carvalho-vermelho-americano (Quercus rubra);\n\nxiv) Sobreiro (Quercus suber);\n\nxv) Salgueiro-branco (Salix alba*);\n\nxvi) Borrazeira-preta (Salix atrocinerea*);\n\nxvii) Borrazeira-branca (Salix salviifolia*)."
+  },
+  "122080165": {
+   "fragment_id": "122087694",
+   "type": 11,
+   "heading": "Artigo 42.º — Sub-região homogénea Vale do Minho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Sub-região homogénea Vale do Minho\n\n1 - Nesta sub-região homogénea, com igual nível de prioridade, visa-se a implementação e o desenvolvimento das seguintes funções gerais dos espaços florestais:\n\na) Função geral de produção;\n\nb) Função geral de proteção;\n\nc) Função geral de silvopastorícia, caça e pesca nas águas interiores.\n\n2 - As normas de silvicultura a aplicar nesta sub-região homogénea correspondem às normas das funções referidas no número anterior.\n\n3 - Nesta sub-região devem ser privilegiadas as seguintes espécies florestais:\n\na) Espécie a privilegiar (Grupo I):\n\ni) Plátano (Acer pseudoplatanus);\n\nii) Castanheiro (Castanea sativa);\n\niii) Cedro-do-atlas (Cedrus atlantica);\n\niv) Cedro-do-Buçaco (Cupressus lusitanica);\n\nv) Eucalipto (Eucalyptus globulus);\n\nvi) Freixo-comum (Fraxinus angustifolia*);\n\nvii) Nogueira-negra (Juglans nigra);\n\nviii) Pinheiro-bravo (Pinus pinaster);\n\nix) Pseudotsuga (Pseudotsuga menziesii);\n\nx) Carvalho-alvarinho (Quercus robur);\n\nxi) Azinheira (Quercus rotundifolia);\n\nxii) Sobreiro (Quercus suber).\n\nb) Outras espécies a privilegiar (Grupo II):\n\ni) Amieiro (Alnus glutinosa);\n\nii) Vidoeiro (Betula celtiberica);\n\niii) Aveleira (Corylus avellana);\n\niv) Freixo-europeu (Fraxinus excelsior);\n\nv) Azevinho (Ilex aquifolium);\n\nvi) Nogueira-comum (Juglans regia);\n\nvii) Loureiro (Laurus nobilis);\n\nviii) Pinheiro-manso (Pinus pinea);\n\nix) Plátano (Platanus x acerifolia);\n\nx) Choupo-negro (Populus nigra);\n\nxi) Choupo-híbrido (Populus x canadensis);\n\nxii) Escalheiro (Pyrus cordata*);\n\nxiii) Carvalho-negral (Quercus pyrenaica);\n\nxiv) Carvalho-vermelho-americano (Quercus rubra);\n\nxv) Salgueiro-branco (Salix alba*)."
+  },
+  "122080166": {
+   "fragment_id": "122087695",
+   "type": 11,
+   "heading": "Artigo 43.º — Sub-região homogénea Xistos Durienses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Sub-região homogénea Xistos Durienses\n\n1 - Nesta sub-região homogénea, com igual nível de prioridade, visa-se a implementação e o desenvolvimento das seguintes funções gerais dos espaços florestais:\n\na) Função geral de produção;\n\nb) Função geral de proteção;\n\nc) Função geral de silvopastorícia, caça e pesca nas águas interiores.\n\n2 - As normas de silvicultura a aplicar nesta sub-região homogénea correspondem às normas das funções referidas no número anterior.\n\n3 - Nesta sub-região devem ser privilegiadas as seguintes espécies florestais:\n\na) Espécie a privilegiar (Grupo I):\n\ni) Plátano (Acer pseudoplatanus);\n\nii) Castanheiro (Castanea sativa);\n\niii) Cedro-branco (Chamaecyparis lawsoniana);\n\niv) Cedro-do-atlas (Cedrus atlantica);\n\nv) Cedro-do-buçaco (Cupressus lusitanica);\n\nvi) Eucalipto (Eucalyptus globulus);\n\nvii) Freixo-comum (Fraxinus angustifolia*);\n\nviii) Nogueira-negra (Juglans nigra);\n\nix) Pinheiro-larício (Pinus nigra);\n\nx) Pinheiro-bravo (Pinus pinaster);\n\nxi) Pinheiro-silvestre (Pinus sylvestris);\n\nxii) Pseudotsuga (Pseudotsuga menziesii);\n\nxiii) Carvalho-alvarinho (Quercus robur);\n\nxiv) Azinheira (Quercus rotundifolia);\n\nxv) Sobreiro (Quercus suber).\n\nb) Outras espécies a privilegiar (Grupo II):\n\ni) Amieiro (Alnus glutinosa);\n\nii) Medronheiro (Arbutus unedo);\n\niii) Pilriteiro (Crataegus monogyna*);\n\niv) Freixo-europeu (Fraxinus excelsior);\n\nv) Nogueira-comum (Juglans regia);\n\nvi) Larício-híbrido-de-dunkeld (Larix x eurolepis);\n\nvii) Loureiro (Laurus nobilis);\n\nviii) Pinheiro-manso (Pinus pinea);\n\nix) Plátano (Platanus x acerifolia);\n\nx) Choupo-negro (Populus nigra);\n\nxi) Choupo-híbrido (Populus x canadensis);\n\nxii) Carvalho-negral (Quercus pyrenaica);\n\nxiii) Carvalho-vermelho-americano (Quercus rubra);\n\nxiv) Salgueiro-branco (Salix alba*);\n\nxv) Borrazeira-preta (Salix atrocinerea*)."
+  },
+  "122080167": {
+   "fragment_id": "122087696",
+   "type": 1,
+   "heading": "Capítulo III — Planeamento florestal local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Planeamento florestal local"
+  },
+  "122080168": {
+   "fragment_id": "122087697",
+   "type": 11,
+   "heading": "Artigo 44.º — Explorações sujeitas a PGF",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Explorações sujeitas a PGF\n\n1 - Estão sujeitas a PGF as explorações florestais e agroflorestais públicas e comunitárias, tal como definido no artigo 5.º da Lei de Bases da Política Florestal.\n\n2 - Encontram-se igualmente sujeitas à elaboração obrigatória de PGF, as explorações florestais e agroflorestais privadas com área igual ou superior a 20 ha, em todos os concelhos da Região PROF.\n\n3 - Sem prejuízo da legislação específica estão excluídas da necessidade de elaboração de PGF, as explorações florestais e agroflorestais que se encontrem obrigadas pelo PGF da Zona de Intervenção Florestal (ZIF) que abranja a área da exploração."
+  },
+  "122080169": {
+   "fragment_id": "122087698",
+   "type": 11,
+   "heading": "Artigo 45.º — Explorações não sujeitas a PGF",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Explorações não sujeitas a PGF\n\nAs explorações florestais e agroflorestais privadas de área inferior à mínima obrigatória submetida a PGF, desde que não integradas em ZIF, ficam sujeitas ao cumprimento das seguintes normas mínimas:\n\na) Normas de silvicultura preventiva, apresentadas no Capítulo E do Documento Estratégico e referenciadas no Anexo I;\n\nb) Normas gerais de silvicultura apresentadas no Capítulo E do Documento Estratégico e referenciadas no Anexo I;\n\nc) Modelos de silvicultura adaptados à sub-região homogénea onde se insere a exploração, apresentadas no Capítulo E do Documento Estratégico e referenciadas no Anexo II."
+  },
+  "122080170": {
+   "fragment_id": "122087699",
+   "type": 1,
+   "heading": "Capítulo IV — Medidas de intervenção e meios de monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Medidas de intervenção e meios de monitorização"
+  },
+  "122080171": {
+   "fragment_id": "122087700",
+   "type": 11,
+   "heading": "Artigo 46.º — Medidas de intervenção comuns à região PROF e medidas relativas às respetivas sub-regiões homogéneas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Medidas de intervenção comuns à região PROF e medidas relativas às respetivas sub-regiões homogéneas\n\nNo Documento Estratégico do PROF de Entre Douro e Minho, no capítulo D, estão consignadas, medidas de intervenção comuns à região do PROF de Entre Douro e Minho, bem como medidas de intervenção específicas para as sub-regiões homogéneas, que visam alcançar adequadamente os objetivos específicos inscritos no presente Regulamento, constando as mesmas do Anexo III do presente Regulamento."
+  },
+  "122080172": {
+   "fragment_id": "122087701",
+   "type": 11,
+   "heading": "Artigo 47.º — Indicadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Indicadores\n\n1 - A monitorização do cumprimento das metas e objetivos previstos no PROF de Entre Douro e Minho é realizada através de um conjunto de indicadores criados para o efeito, constantes do Documento Estratégico.\n\n2 - Os indicadores referidos no número anterior estabelecem os níveis de cumprimento dos objetivos gerais e específicos que devem ser atingidos até 2030 e 2050."
+  },
+  "122080173": {
+   "fragment_id": "122087702",
+   "type": 11,
+   "heading": "Artigo 48.º — Metas previsionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Metas previsionais\n\n1 - O PROF de Entre Douro e Minho define como previsão de metas para 2030 e 2050, os seguintes valores de percentagem de espaços florestais em relação à superfície total da região PROF e à superfície de cada sub-região homogénea:\n\n(ver documento original)\n\n2 - O PROF de Entre Douro e Minho define como previsão de metas, para 2030 e 2050, os seguintes valores de percentagem de floresta em relação à superfície total da região PROF e à superfície de cada sub-região homogénea:\n\n(ver documento original)\n\n3 - O PROF de Entre Douro e Minho define como previsão de metas, para 2030 e 2050, a seguinte distribuição percentual das espécies em relação à superfície de floresta da região PROF:\n\n(ver documento original)"
+  },
+  "122080174": {
+   "fragment_id": "122087703",
+   "type": 11,
+   "heading": "Artigo 49.º — Objetivos comuns à região PROF e objetivos específicos às sub-regiões homogéneas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Objetivos comuns à região PROF e objetivos específicos às sub-regiões homogéneas\n\nOs objetivos comuns a toda a região PROF de Entre Douro e Minho, bem como os objetivos específicos aplicáveis às sub-regiões homogéneas mencionados nos artigos 17.º a 43.º, são monitorizados através dos indicadores contidos no Documento Estratégico do PROF de Entre Douro e Minho, sem prejuízo de outros que possam ser considerados adequados."
+  },
+  "122087775": {
+   "fragment_id": "122087704",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "122087776": {
+   "fragment_id": "122087705",
+   "type": 11,
+   "heading": "Artigo 50.º — Vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Vigência\n\nO PROF de Entre Douro e Minho tem um período máximo de vigência de 20 anos, contados a partir da data da sua publicação."
+  },
+  "122087777": {
+   "fragment_id": "122087706",
+   "type": 11,
+   "heading": "Artigo 51.º — Alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Alterações\n\n1 - O ICNF, I. P., pode propor ao membro do Governo que tutela a área das florestas a alteração do PROF de Entre Douro e Minho, tendo em consideração os resultados dos relatórios quinquenais de execução.\n\n2 - O PROF de Entre Douro e Minho pode ser sujeito a alterações intermédias, sempre que ocorra qualquer facto relevante que as justifique."
+  },
+  "122087778": {
+   "fragment_id": "122087707",
+   "type": 11,
+   "heading": "Artigo 52.º — Elaboração dos PGF",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Elaboração dos PGF\n\n1 - As orientações do PROF devem ser contempladas em sede da primeira alteração ou revisão dos PGF que ocorra posteriormente à aprovação do presente PROF.\n\n2 - Os efeitos dos PGF não revistos perduram pelo prazo máximo de três anos após a aprovação do presente PROF."
+  },
+  "122087779": {
+   "fragment_id": "122087708",
+   "type": 11,
+   "heading": "Artigo 53.º — Limites máximos de área a ocupar por eucalipto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Limites máximos de área a ocupar por eucalipto\n\n1 - Para efeitos de aplicação do estabelecido no Decreto-Lei n.º 96/2013, de 19 de julho, na sua redação atual, o PROF de Entre Douro e Minho define, no Anexo IV do presente Regulamento, os limites máximos de área (em hectares) a ocupar por espécies do género Eucalyptus spp. em cada concelho.\n\n2 - Com a publicitação de novos dados do Inventário Florestal Nacional, os limites máximos de áreas referidos no número anterior são objeto de revisão e republicação."
+  },
+  "122087780": {
+   "fragment_id": "122087709",
+   "type": 11,
+   "heading": "Artigo 54.º — Dinâmica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Dinâmica\n\nA alteração dos programas setoriais, programas especiais e planos de âmbito intermunicipal ou municipal preexistentes decorre de acordo com o estabelecido na Lei n.º 31/2014, de 30 de maio, e no Decreto-Lei n.º 80/2015, de 14 de maio."
+  },
+  "122087781": {
+   "fragment_id": "122087710",
+   "type": 11,
+   "heading": "Artigo 55.º — Remissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Remissões\n\nQuando se verificarem alterações às normas legais e regulamentares citadas no presente Regulamento, as remissões expressas que para elas forem feitas consideram-se automaticamente remetidas para a nova legislação que resultar daquelas alterações."
+  },
+  "122087782": {
+   "fragment_id": "122087711",
+   "type": 14,
+   "heading": "Anexo I AO REGULAMENTO — (a que se refere o n.º 1 do artigo 11.º do Anexo A da portaria)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I AO REGULAMENTO — (a que se refere o n.º 1 do artigo 11.º do Anexo A da portaria)\n\nNormas de intervenção nos espaços florestais\n\nNormas gerais de silvicultura\n\n(ver documento original)\n\nNormas aplicáveis ao planeamento florestal da função de Produção\n\n(ver documento original)\n\nNormas aplicáveis ao planeamento florestal da função de Proteção\n\n(ver documento original)\n\nNormas aplicáveis ao planeamento florestal da função de Conservação de habitats, de espécies da fauna e da flora e de geomonumentos\n\n(ver documento original)\n\nNormas aplicáveis ao planeamento florestal da função de Silvopastorícia, caça e pesca nas águas interiores\n\n(ver documento original)\n\nNormas aplicáveis ao planeamento florestal da função de Recreio e valorização da paisagem\n\n(ver documento original)\n\nNormas de silvicultura preventiva e operações silvícolas mínimas\n\n(ver documento original)\n\nNormas aplicáveis ao planeamento florestal em corredores ecológicos e áreas florestais sensíveis\n\n(ver documento original)\n\nNormas aplicáveis ao planeamento em espaços florestais não arborizados\n\n(ver documento original)\n\nNormas a considerar no âmbito das Infraestruturas florestais, da prevenção de incêndios e da recuperação de áreas ardidas\n\n(ver documento original)"
+  },
+  "122087783": {
+   "fragment_id": "122087712",
+   "type": 14,
+   "heading": "Anexo II AO REGULAMENTO — (a que se refere o n.º 1 do artigo 11.º do Anexo A da portaria)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II AO REGULAMENTO — (a que se refere o n.º 1 do artigo 11.º do Anexo A da portaria)\n\nModelos de silvicultura e gestão florestal sustentável\n\n(ver documento original)"
+  },
+  "122087784": {
+   "fragment_id": "122087713",
+   "type": 14,
+   "heading": "Anexo III AO REGULAMENTO — (a que se refere o artigo 46.º do Anexo A da portaria)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III AO REGULAMENTO — (a que se refere o artigo 46.º do Anexo A da portaria)\n\nMedidas de intervenção comuns e específicas por sub-regiões homogéneas\n\n(ver documento original)"
+  },
+  "122087785": {
+   "fragment_id": "122087714",
+   "type": 14,
+   "heading": "Anexo IV AO REGULAMENTO — (a que se refere o n.º 1 do artigo 53.º do Anexo A da portaria)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV AO REGULAMENTO — (a que se refere o n.º 1 do artigo 53.º do Anexo A da portaria)\n\nLimites máximos de área a ocupar por eucalipto para efeitos de aplicação do Decreto-Lei n.º 96/2013, de 19 de julho, na sua redação atual\n\n(ver documento original)"
+  },
+  "122087786": {
+   "fragment_id": "122087715",
+   "type": 14,
+   "heading": "Anexo B — (a que se refere o artigo 1.º da portaria)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo B — (a que se refere o artigo 1.º da portaria)\n\nCarta Síntese do Programa Regional do Ordenamento Florestal de Entre Douro e Minho\n\nCarta 1 de 19\n\n(ver documento original)\n\nCarta 2 de 19\n\n(ver documento original)\n\nCarta 3 de 19\n\n(ver documento original)\n\nCarta 4 de 19\n\n(ver documento original)\n\nCarta 5 de 19\n\n(ver documento original)\n\nCarta 6 de 19\n\n(ver documento original)\n\nCarta 7 de 19\n\n(ver documento original)\n\nCarta 8 de 19\n\n(ver documento original)\n\nCarta 9 de 19\n\n(ver documento original)\n\nCarta 10 de 19\n\n(ver documento original)\n\nCarta 11 de 19\n\n(ver documento original)\n\nCarta 12 de 19\n\n(ver documento original)\n\nCarta 13 de 19\n\n(ver documento original)\n\nCarta 14 de 19\n\n(ver documento original)\n\nCarta 15 de 19\n\n(ver documento original)\n\nCarta 16 de 19\n\n(ver documento original)\n\nCarta 17 de 19\n\n(ver documento original)\n\nCarta 18 de 19\n\n(ver documento original)\n\nCarta 19 de 19\n\n(ver documento original)\n\n112033954"
+  },
+  "177196577": {
+   "fragment_id": "122086344",
+   "type": 11,
+   "heading": "Artigo 2.º — Planos territoriais preexistentes",
+   "in_force_from": "2022-01-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 18/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/18-2022-177160279), em vigor a partir de 2022-01-06"
+   ],
+   "markdown": "###### Artigo 2.º — Planos territoriais preexistentes\n\n1 - A identificação e atualização das disposições dos programas e planos territoriais preexistentes incompatíveis com o PROF EDM são efetuadas nos termos do disposto no n.º 5 da Resolução do Conselho de Ministros n.º 115/2018, de 6 de setembro.\n\n2 - A atualização dos planos territoriais preexistentes é efetuada com recurso às figuras de alteração ou revisão, cujo procedimento deve estar concluído até 13 de julho de 2020.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 18/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/18-2022-177160279), em vigor a partir de 2022-01-06"
+  },
+  "122080117": {
+   "fragment_id": "122086346",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro do Ambiente e da Transição Energética, João Pedro Soeiro de Matos Fernandes. - O Secretário de Estado das Florestas e do Desenvolvimento Rural, Miguel João Pisoeiro de Freitas."
+  },
+  "122087789": {
+   "fragment_id": "122087711",
+   "type": 14,
+   "heading": "Anexo I AO REGULAMENTO — (a que se refere o n.º 1 do artigo 11.º do Anexo A da portaria)",
+   "in_force_from": "2019-02-12",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 14/2019 - Diário da República n.º 73/2019, Série I de 2019-04-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2019-122086332), em vigor a partir de 2019-02-12"
+   ],
+   "markdown": "## Anexo I AO REGULAMENTO — (a que se refere o n.º 1 do artigo 11.º do Anexo A da portaria)\n\nNormas de intervenção nos espaços florestais\n\nNormas gerais de silvicultura\n\n(ver documento original)\n\nNormas aplicáveis ao planeamento florestal da função de Produção\n\n(ver documento original)\n\nNormas aplicáveis ao planeamento florestal da função de Proteção\n\n(ver documento original)\n\nNormas aplicáveis ao planeamento florestal da função de Conservação de habitats, de espécies da fauna e da flora e de geomonumentos\n\n(ver documento original)\n\nNormas aplicáveis ao planeamento florestal da função de Silvopastorícia, caça e pesca nas águas interiores\n\n(ver documento original)\n\nNormas aplicáveis ao planeamento florestal da função de Recreio e valorização da paisagem\n\n(ver documento original)\n\nNormas de silvicultura preventiva e operações silvícolas mínimas\n\n(ver documento original)\n\nNormas aplicáveis ao planeamento florestal em corredores ecológicos e áreas florestais sensíveis\n\n(ver documento original)\n\nNormas aplicáveis ao planeamento em espaços florestais não arborizados\n\n(ver documento original)\n\nNormas a considerar no âmbito das Infraestruturas florestais, da prevenção de incêndios e da recuperação de áreas ardidas\n\n(ver documento original)\n\n> Retificado pelo/a [Declaração de Retificação n.º 14/2019 - Diário da República n.º 73/2019, Série I de 2019-04-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2019-122086332), em vigor a partir de 2019-02-12"
+  },
+  "122087790": {
+   "fragment_id": "122087712",
+   "type": 14,
+   "heading": "Anexo II AO REGULAMENTO — (a que se refere o n.º 1 do artigo 11.º do Anexo A da portaria)",
+   "in_force_from": "2019-02-12",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 14/2019 - Diário da República n.º 73/2019, Série I de 2019-04-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2019-122086332), em vigor a partir de 2019-02-12"
+   ],
+   "markdown": "## Anexo II AO REGULAMENTO — (a que se refere o n.º 1 do artigo 11.º do Anexo A da portaria)\n\nModelos de silvicultura e gestão florestal sustentável\n\n(ver documento original)\n\n> Retificado pelo/a [Declaração de Retificação n.º 14/2019 - Diário da República n.º 73/2019, Série I de 2019-04-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2019-122086332), em vigor a partir de 2019-02-12"
+  },
+  "177196576": {
+   "fragment_id": "122087714",
+   "type": 14,
+   "heading": "Anexo IV AO REGULAMENTO — (a que se refere o n.º 1 do artigo 53.º do Anexo A da portaria)",
+   "in_force_from": "2022-01-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Portaria n.º 18/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/18-2022-177160279), em vigor a partir de 2022-01-06"
+   ],
+   "markdown": "## Anexo IV AO REGULAMENTO — (a que se refere o n.º 1 do artigo 53.º do Anexo A da portaria)\n\nLimites máximos de área a ocupar por espécies do género Eucalyptus spp., para efeitos de aplicação do Decreto-Lei n.º 96/2013, de 19 de julho, na sua redação atual\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 8.º do/a [Portaria n.º 18/2022 - Diário da República n.º 3/2022, Série I de 2022-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/18-2022-177160279), em vigor a partir de 2022-01-06"
+  }
+ }
+}

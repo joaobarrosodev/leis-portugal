@@ -1,0 +1,108 @@
+---
+schema_version: '1.0'
+id: pt:dre:192402:por
+title: Decreto n.º 44863
+short_title: null
+summary: Autoriza a Administração-Geral dos Correios, Telégrafos e Telefones a celebrar contrato, por quatro anos, para a
+  edição de certas publicações permanentes que interessam à referida Administração-Geral
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Comunicações - Administração-Geral dos Correios, Telégrafos e Telefones
+proposing_entity: null
+official_number: '44863'
+official_date: null
+publication_date: '1963-01-23'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 19/1963, Série I de 1963-01-23
+  number: '19'
+  series: I
+  supplement: null
+  pages: 58 - 58
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/01/01900/00580058.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '192402'
+  dre_path: /dr/detalhe/decreto/44863-1963-192402
+  internal: pt:dre:192402:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/44863-1963-192402
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44863-1963-192402
+  consolidated_url: null
+  retrieved_at: '2026-10-22T19:33:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 41c374947700afbba7b41b0c91701a44be48632cae2501bd15028aa45df50c99
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:33:30Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T19:33:30Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 44863
+
+Havendo vantagem em assegurar a uniformidade gráfica de algumas das publicações permanentes dos CTT, reduzir o preço de custo das edições e obter a maior brevidade na sua execução;
+
+Mostrando a experiência que tais objectivos se alcançam através de contrato a longo prazo a celebrar com uma única empresa tipográfica;
+
+Nestes termos:
+
+Tendo em vista o preceituado no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º Tendo sido adjudicada, mediante concurso, à Tipografia Severo, Freitas & Freitas (Filho), de Lisboa, a edição de certas publicações permanentes que interessam à Administração-Geral dos Correios, Telégrafos e Telefones, fica esta Administração-Geral autorizada a celebrar contrato, por quatro anos, a contar de 1 de Janeiro de 1963, e até à importância de 700000$00, com a referida Tipografia Severo, Freitas & Freitas (Filho).
+
+Art. 2.º A importância a despender em cada um dos anos de vigência do contrato será de 175000$00, salvo o disposto no § único deste artigo.
+
+§ único. O saldo de cada ano transita para o ano seguinte, acrescendo à importância fixada no corpo deste artigo.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 23 de Janeiro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Carlos Gomes da Silva Ribeiro.

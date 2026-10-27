@@ -1,0 +1,952 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002R1406:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R1406-20161006",
+ "dre_path": null,
+ "source_lastmod": "2016-10-06",
+ "versions": [
+  {
+   "date": "2002-08-05",
+   "future": false,
+   "celex": "32002R1406",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ddb17f95c6cc8dd1",
+    "8c50b47caad079f7",
+    "4d5b3ac551b6be35",
+    "9ebc2f890503c743",
+    "fb1d0400208619cd",
+    "a3cb7b124f51838e",
+    "7ce842ca03950f0f",
+    "7d8a22393ebb3245",
+    "91241bb2e8f0982a",
+    "56d763191e576270",
+    "71cce611c43ae074",
+    "5f99d1588ed7cd96",
+    "58d1446c5c188306",
+    "aa74e8686b353533",
+    "702ff4edf8c3e951",
+    "188cefefc6f09df2",
+    "aaca99153717c97b",
+    "ebdd5d9cdfa0219c",
+    "e8540cecc4598412",
+    "6faa806fe016bbce",
+    "f4fc88e5333f1983",
+    "664cb5f035f89187",
+    "0a928a18280e492b",
+    "ddce8c53798fc202",
+    "22b25a32afed21d7",
+    "656d915ac2b9e7b5",
+    "23876a6c70d5a647",
+    "43590cd468e867c0",
+    "628e5b92ae60418f"
+   ]
+  },
+  {
+   "date": "2006-12-31",
+   "future": false,
+   "celex": "02002R1406-20061231",
+   "acts": [
+    {
+     "id": "eu:celex:32003R1644:por",
+     "title": "REGULAMENTO (CE) N. o 1644/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Julho de 2003",
+     "published": null,
+     "celex": "32003R1644"
+    },
+    {
+     "id": "eu:celex:32004R0724:por",
+     "title": "REGULAMENTO (CE) N. o 724/2004 DO PARLAMENTO EUROPEU E DO CONSELHO de 31 de Março de 2004",
+     "published": null,
+     "celex": "32004R0724"
+    },
+    {
+     "id": "eu:celex:32006R2038:por",
+     "title": "REGULAMENTO (CE) N. o 2038/2006 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Dezembro de 2006",
+     "published": null,
+     "celex": "32006R2038"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Objectivos",
+    "Altera Artigo 4.º — Transparência e protecção das informações",
+    "Altera Artigo 9.º — Línguas",
+    "Altera Artigo 10.º — Criação e competências do Conselho de Administração",
+    "Altera Artigo 11.º — Composição do Conselho de Administração",
+    "Altera Artigo 15.º — Funções e competências do director executivo",
+    "Altera Artigo 16.º — Nomeação do Director Executivo",
+    "Altera Artigo 17.º — Participação de países terceiros",
+    "Altera Artigo 18.º — Orçamento",
+    "Altera Artigo 21.º — Disposições financeiras",
+    "Altera Artigo 22.º — Avaliação",
+    "Altera Artigo 24.º — Entrada em vigor",
+    "Adita CAPÍTULO I",
+    "Adita OBJECTIVOS E FUNÇÕES",
+    "Adita Artigo 2.º",
+    "Adita CAPÍTULO II",
+    "Adita ESTRUTURA INTERNA E FUNCIONAMENTO",
+    "Adita CAPÍTULO III",
+    "Adita DISPOSIÇÕES FINANCEIRAS",
+    "Adita Artigo 19.º — Execução e controlo do orçamento",
+    "Adita CAPÍTULO IV",
+    "Adita DISPOSIÇÕES FINAIS",
+    "Adita Notas",
+    "Suprime CAPÍTULO I — OBJECTIVOS E FUNÇÕES",
+    "Suprime Artigo 2.º — Funções",
+    "Suprime CAPÍTULO II — ESTRUTURA INTERNA E FUNCIONAMENTO",
+    "Suprime CAPÍTULO III — DISPOSIÇÕES FINANCEIRAS",
+    "Suprime Artigo 19.º — Execução e controlo orçamental",
+    "Suprime CAPÍTULO IV — DISPOSIÇÕES FINAIS"
+   ],
+   "fragments": [
+    "5ff4dbf2d6ba6a96",
+    "226c39ffd0a88dad",
+    "18012243d9ee5feb",
+    "cf15dceb349c9fb6",
+    "339e83ca149bdc74",
+    "fb1d0400208619cd",
+    "81f917f4c3492d24",
+    "f0f8c960bfdbce9b",
+    "d8ef928da5b17f22",
+    "7d8a22393ebb3245",
+    "c24b99a097ddb5eb",
+    "56d763191e576270",
+    "e9184eda19f4bf9b",
+    "7a3298f671fef3dc",
+    "32270da508a71134",
+    "1fbf9fdc76c3f604",
+    "702ff4edf8c3e951",
+    "188cefefc6f09df2",
+    "aaca99153717c97b",
+    "76352796521d2728",
+    "44ad2b95b2903a10",
+    "f1566dc374815b6e",
+    "1e7a0903d2eed348",
+    "6e028bd1d966d922",
+    "1bf8dc13d2ab9254",
+    "2a11958fd8f8454c",
+    "9f523840a328a588",
+    "b2c0afe216496a23",
+    "1ecfc79da3f1ac7f",
+    "dde9cf53e9ae6c9a",
+    "cf556f4a59a2d9a2",
+    "43590cd468e867c0",
+    "6ab7e98389e66048",
+    "708018c77c8ee208"
+   ]
+  },
+  {
+   "date": "2013-03-01",
+   "future": false,
+   "celex": "02002R1406-20130301",
+   "acts": [
+    {
+     "id": "eu:celex:32013R0100:por",
+     "title": "REGULAMENTO (UE) N. o 100/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de janeiro de 2013",
+     "published": null,
+     "celex": "32013R0100"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º — Transparência e protecção das informações",
+    "Altera Artigo 5.º — Estatuto jurídico, centros regionais",
+    "Altera Artigo 9.º — Línguas",
+    "Altera Artigo 10.º — Criação e competências do Conselho de Administração",
+    "Altera Artigo 11.º — Composição do Conselho de Administração",
+    "Altera Artigo 13.º — Reuniões",
+    "Altera Artigo 15.º — Funções e competências do director executivo",
+    "Altera Artigo 18.º — Orçamento",
+    "Altera Artigo 21.º — Disposições financeiras",
+    "Altera Artigo 22.º — Avaliação",
+    "Altera Notas",
+    "Adita Artigo 1.º — Objetivos",
+    "Adita Artigo 2.º — Funções principais da Agência",
+    "Adita Artigo 2.º-A — Funções acessórias da Agência",
+    "Adita Artigo 3.º — Visitas aos Estados-Membros e inspeções",
+    "Adita Artigo 16.º — Nomeação e demissão do diretor executivo e dos chefes de departamento",
+    "Adita Artigo 22.º-A — Relatório intercalar",
+    "Suprime Artigo 1.º — Objectivos",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º — Visitas aos Estados-Membros",
+    "Suprime Artigo 16.º — Nomeação do Director Executivo",
+    "Suprime Artigo 23.º — Início da actividade da Agência"
+   ],
+   "fragments": [
+    "37f1d00cc998deaf",
+    "226c39ffd0a88dad",
+    "18012243d9ee5feb",
+    "031ffde285e7174b",
+    "3d5d377a1da2587e",
+    "2a432536981488ba",
+    "68a1a982424372bb",
+    "170109b35123ea44",
+    "f0f8c960bfdbce9b",
+    "d8ef928da5b17f22",
+    "aaaa2546c2182c3f",
+    "c24b99a097ddb5eb",
+    "56d763191e576270",
+    "e9184eda19f4bf9b",
+    "4473f5d9338e27b0",
+    "07e3a16404a6d659",
+    "ad2874cd7246557c",
+    "702ff4edf8c3e951",
+    "8f416bc3d2571b42",
+    "aaca99153717c97b",
+    "d94d137383037f29",
+    "4683f86ebcc4231c",
+    "f1566dc374815b6e",
+    "1e7a0903d2eed348",
+    "6e028bd1d966d922",
+    "881159b1ebc8ab85",
+    "2a11958fd8f8454c",
+    "9f523840a328a588",
+    "ecb77809f1808b6f",
+    "1ecfc79da3f1ac7f",
+    "dde9cf53e9ae6c9a",
+    "accd6be509fed5e1",
+    "cd3881a0746dcfa1",
+    "6ab7e98389e66048",
+    "62ef3545c96a0677"
+   ]
+  },
+  {
+   "date": "2016-10-06",
+   "future": false,
+   "celex": "02002R1406-20161006",
+   "acts": [
+    {
+     "id": "eu:celex:32016R1625:por",
+     "title": "REGULAMENTO (UE) 2016/1625 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de setembro de 2016",
+     "published": null,
+     "celex": "32016R1625"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Funções principais da Agência",
+    "Altera Artigo 2.º-A — Funções acessórias da Agência",
+    "Altera Artigo 3.º — Visitas aos Estados-Membros e inspeções",
+    "Altera Artigo 4.º — Transparência e protecção das informações",
+    "Altera Artigo 9.º — Línguas",
+    "Altera Artigo 10.º — Criação e competências do Conselho de Administração",
+    "Altera Artigo 21.º — Disposições financeiras",
+    "Altera Notas",
+    "Adita Artigo 2.º-B — Cooperação europeia no que se refere a funções de guarda costeira"
+   ],
+   "fragments": [
+    "b31e946a1017ea7e",
+    "226c39ffd0a88dad",
+    "18012243d9ee5feb",
+    "031ffde285e7174b",
+    "d63ae402d214745c",
+    "33af0fe9d8eeae72",
+    "fe9cb117dee3ce7e",
+    "51e3098767d1c3a4",
+    "f14dc70ec44b65d5",
+    "f0f8c960bfdbce9b",
+    "d8ef928da5b17f22",
+    "aaaa2546c2182c3f",
+    "c24b99a097ddb5eb",
+    "56d763191e576270",
+    "e9184eda19f4bf9b",
+    "58e5613177ea294d",
+    "ddf98bd788c2741e",
+    "ad2874cd7246557c",
+    "702ff4edf8c3e951",
+    "8f416bc3d2571b42",
+    "aaca99153717c97b",
+    "d94d137383037f29",
+    "4683f86ebcc4231c",
+    "f1566dc374815b6e",
+    "1e7a0903d2eed348",
+    "6e028bd1d966d922",
+    "881159b1ebc8ab85",
+    "2a11958fd8f8454c",
+    "9f523840a328a588",
+    "62615c30677996f8",
+    "1ecfc79da3f1ac7f",
+    "dde9cf53e9ae6c9a",
+    "accd6be509fed5e1",
+    "cd3881a0746dcfa1",
+    "6ab7e98389e66048",
+    "55983aa5d1408a1c"
+   ]
+  }
+ ],
+ "fragments": {
+  "ddb17f95c6cc8dd1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 1406/2002 do Parlamento Europeu e do Conselho, de 27 de Junho de 2002, que institui a Agência Europeia da Segurança Marítima (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 208 de 05/08/2002 p. 0001 - 0009*\n\nRegulamento (CE) n.o 1406/2002 do Parlamento Europeu e do Conselho\n\nde 27 de Junho de 2002\n\nque institui a Agência Europeia da Segurança Marítima\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.o 2 do seu artigo 80.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta a parecer do Comité Económico e Social(2),\n\nTendo em conta o parecer do Comité das Regiões(3),\n\nDeliberando nos termos do artigo 251.o do Tratado(4),\n\nConsiderando o seguinte:\n\n(1) A Comunidade aprovou um grande número de medidas legislativas destinadas a melhorar a segurança e a evitar a poluição no transporte marítimo. Para ser eficaz, essa legislação deve ser aplicada de forma adequada e uniforme em toda a Comunidade. Desse modo será possível garantir condições equitativas, reduzir as distorções da concorrência resultantes das vantagens económicas de que beneficiam os navios não conformes e recompensar os agentes marítimos que actuem com seriedade.\n\n(2) Determinadas funções actualmente desempenhadas a nível comunitário ou nacional podem ser executadas por um organismo especializado constituído por peritos. Na realidade, verifica-se a necessidade da existência de um apoio técnico e científico e de um nível de especialização elevado e estável, a fim de aplicar adequadamente a legislação comunitária nos domínios da segurança marítima e da prevenção da poluição pelos navios, bem como de acompanhar a sua aplicação e avaliar a eficácia das medidas em vigor. Verifica-se assim, no contexto da actual estrutura institucional e de equilíbrio de poderes da Comunidade, a necessidade de criação de uma Agência Europeia da Segurança Marítima (\"Agência\").\n\n(3) Em termos gerais, a Agência constituirá o organismo técnico que dotará a Comunidade dos meios necessários para actuar de forma eficaz no sentido de melhorar a regulamentação global no domínio da segurança marítima e da prevenção da poluição pelos navios. A Agência assistirá a Comissão no processo permanente de actualização da legislação comunitária no domínio da segurança marítima e da prevenção da poluição pelos navios e proporcionará o apoio necessário para garantir a aplicação convergente e efectiva dessa legislação em toda a Comunidade, assistindo a Comissão na realização das missões que lhe são confiadas pela legislação comunitária actual e futura sobre segurança marítima e prevenção da poluição pelos navios.\n\n(4) Para a concretização adequada dos objectivos para os quais a Agência foi criada, é oportuno que esta desempenhe uma série de outras funções importantes destinadas a melhorar a segurança marítima e a prevenção da poluição pelos navios nas águas dos Estados-Membros. Neste domínio, a Agência colaborará com os Estados-Membros na organização de actividades de formação adequadas sobre a inspecção de navios pelo Estado do porto e sobre questões relacionadas com o Estado de pavilhão e na prestação de assistência técnica em matéria de aplicação da legislação comunitária. A Agência promoverá a cooperação entre os Estados-Membros e a Comissão, tal como previsto na Directiva 2002/59/CE do Parlamento Europeu e do Conselho, de 27 de Junho de 2002, relativa à instituição de um sistema comunitário de acompanhamento e de informação do tráfego de navios e que revoga a Directiva 93/75/CEE do Conselho(5), e desenvolverá e operará todos os sistemas de informação necessários aos objectivos da citada directiva e actividades de investigações relacionadas com acidentes marítimos graves. A Agência fornecerá à Comissão e aos Estados-Membros informações e dados objectivos, fiáveis e comparáveis sobre segurança marítima e prevenção da poluição, a fim de lhes permitir tomarem as iniciativas necessárias para melhorar as medidas existentes e avaliar a sua eficácia. A Agência porá os conhecimentos da Comunidade em matéria de segurança marítima ao dispor dos Estados candidatos à adesão e estará aberta à participação desses Estados e de outros países terceiros que tenham celebrado acordos com a Comunidade por força dos quais adoptam e aplicam a legislação comunitária em matéria de segurança marítima e de prevenção da poluição pelos navios.\n\n(5) A Agência promoverá o estabelecimento de uma melhor cooperação entre os Estados-Membros e desenvolverá e difundirá as melhores práticas na Comunidade. Tal contribuirá, por seu lado, para melhorar o sistema geral de segurança marítima na Comunidade, bem como para reduzir o risco de acidentes marítimos, de poluição marinha e de perda de vidas humanas no mar.\n\n(6) A fim de desempenhar correctamente as funções confiadas à Agência, é necessário que os seus funcionários efectuem visitas aos Estados-Membros a fim de acompanharem o funcionamento global do sistema comunitário de segurança marítima e de prevenção da poluição pelos navios. As visitas devem realizar-se nos termos de uma política a estabelecer pelo Conselho de Administração da Agência e devem ser facilitadas pelas autoridades dos Estados-Membros.\n\n(7) A Agência deverá aplicar a legislação comunitária pertinente relativa ao acesso do público a documentos e à protecção das pessoas relativamente ao tratamento de dados de carácter pessoal. Deverá fornecer ao público e a terceiros interessados informações objectivas, fiáveis e facilmente compreensíveis em relação ao seu trabalho.\n\n(8) Quanto à responsabilidade contratual da Agência, que é regida pelo direito aplicável ao contrato celebrado pela mesma, o Tribunal de Justiça é competente para deliberar por força de uma cláusula compromissória do contrato. O Tribunal de Justiça é também competente para conhecer dos litígios relativos à reparação dos danos decorrentes da responsabilidade extracontratual da Agência.\n\n(9) Para garantir efectivamente o exercício das actividades da Agência, os Estados-Membros e a Comissão estarão representados num Conselho de Administração dotado dos poderes necessários para elaborar o orçamento, verificar a sua execução, adoptar as regras financeiras apropriadas, definir procedimentos de trabalho transparentes no tocante à tomada de decisões pela Agência, aprovar o seu programa de trabalho, analisar os pedidos de assistência técnica dos Estados-Membros, definir uma política de visitas aos Estados-Membros e nomear o director executivo. À luz do carácter eminentemente técnico e científico da missão e das tarefas atribuídas a esta Agência, afigura-se adequado que o Conselho de Administração seja composto por um representante de cada Estado-Membro e quatro representantes da Comissão, com um alto nível de conhecimentos especializados. Para melhor garantir o mais alto nível de conhecimentos especializados e experiência do Conselho de Administração e para implicar intimamente os sectores mais pertinentes nas actividades da Agência, a Comissão nomeará profissionais independentes destes sectores membros do Conselho sem direito de voto com base no mérito pessoal e na sua experiência no domínio da segurança marítima e da prevenção da poluição pelos navios e não a título de representantes de determinadas organizações profissionais.\n\n(10) O bom funcionamento da Agência exige que o seu director executivo seja nomeado com base no mérito e nas capacidades de gestão e administrativas comprovadas, bem como na competência e na experiência pertinentes para a segurança marítima e a prevenção ocasionada por navios e que desempenhe a sua função com total independência e flexibilidade quanto à organização do funcionamento interno da Agência. Com esse fim em vista, o director executivo elaborará e tomará todas as medidas necessárias para garantir a boa execução do programa de trabalho da Agência, procederá à preparação de um projecto de relatório geral anual a apresentar ao Conselho de Administração, elaborará previsões das receitas e despesas da Agência e executará o orçamento.\n\n(11) A fim de assegurar a plena autonomia e independência da Agência, considera-se necessário dotá-la de um orçamento próprio, cujas receitas sejam essencialmente constituídas por uma contribuição da Comunidade.\n\n(12) Nos últimos anos, à medida que foram criadas mais agências descentralizadas, a autoridade orçamental procurou melhorar a transparência e o controlo da gestão do financiamento comunitário às mesmas atribuído, em particular no que respeita à inscrição das taxas no orçamento, ao controlo financeiro, ao poder de quitação, à contribuição para o regime de pensões e aos processos orçamentais internos (código de conduta). De um modo semelhante, as disposições do Regulamento (CE) n.o 1073/1999 do Parlamento Europeu e do Conselho, de 25 de Maio de 1999, relativo aos inquéritos efectuados pelo Organismo Europeu de Luta Anti-Fraude (OLAF)(6) devem aplicar-se sem quaisquer restrições à agência, que deverá ficar também sujeita ao Acordo Interinstitucional, de 25 de Maio de 1999, entre o Parlamento Europeu, o Conselho da União Europeia e a Comissão das Comunidades Europeias em matéria de inquéritos internos do Organismo Europeu de Luta Anti-Fraude (OLAF)(7).\n\n(13) No prazo de cinco anos a contar da data em que a Agência tenha assumido as suas responsabilidades, o Conselho de Administração encomendará uma avaliação externa independente da execução do presente regulamento, da Agência e das suas práticas de trabalho para estabelecer um elevado nível de segurança marítima e de prevenção da poluição por navios,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "8c50b47caad079f7": {
+   "fragment_id": "CAPÍTULO I — OBJECTIVOS E FUNÇÕES",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — OBJECTIVOS E FUNÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — OBJECTIVOS E FUNÇÕES"
+  },
+  "4d5b3ac551b6be35": {
+   "fragment_id": "Artigo 1.º — Objectivos",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivos\n\n1. O presente regulamento institui a Agência Europeia da Segurança Marítima, a seguir designada \"Agência\", com vista a garantir um nível elevado, uniforme e eficaz de segurança marítima, bem como de prevenção da poluição pelos navios na Comunidade.\n\n2. A Agência proporciona aos Estados-Membros e à Comissão o apoio técnico e científico necessário, bem como um elevado nível de especialização, a fim de os assistir na aplicação correcta da legislação comunitária no domínio da segurança marítima e da prevenção da poluição pelos navios, no controlo da sua aplicação e na avaliação da eficácia das medidas em vigor."
+  },
+  "9ebc2f890503c743": {
+   "fragment_id": "Artigo 2.º — Funções",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Funções\n\nA fim de garantir a realização dos objectivos descritos no artigo 1.o, a Agência desempenha as seguintes funções:\n\na) Assistir a Comissão, se necessário, nos trabalhos preparatórios para a actualização e desenvolvimento da legislação comunitária no domínio da segurança marítima e da prevenção da poluição pelos navios, nomeadamente no que diz respeito à evolução da legislação internacional neste domínio. Esta tarefa inclui a análise dos projectos de investigação desenvolvidos no domínio da segurança marítima e da prevenção da poluição pelos navios;\n\nb) Assistir a Comissão na aplicação eficaz da legislação comunitária sobre segurança marítima e da prevenção da poluição pelos navios em toda a Comunidade. Em particular, a Agência:\n\ni) Controla o funcionamento geral do regime comunitário de inspecção pelo Estado do porto, o que pode incluir visitas aos Estados-Membros, e sugere à Comissão possíveis melhorias neste domínio;\n\nii) Presta à Comissão o apoio técnico necessário para fins de participação nos trabalhos dos órgãos técnicos do memorando de Acordo de Paris para a inspecção de navios pelo Estado do porto;\n\niii) Assiste a Comissão na realização de qualquer função que lhe seja atribuída pela actual e futura legislação comunitária em matéria de segurança marítima e de prevenção da poluição pelos navios, nomeadamente a legislação aplicável às sociedades de classificação, à segurança dos navios de passageiros, bem como a legislação aplicável à segurança, formação, certificação e serviço de quartos das tripulações dos navios;\n\nc) Colaborar com os Estados-Membros:\n\ni) Na organização de acções relevantes de formação nos domínios respeitantes às competências do Estado do porto e do Estado de bandeira;\n\nii) No desenvolvimento de soluções técnicas e na prestação de assistência técnica para a implementação da legislação comunitária;\n\nd) Facilitar a cooperação entre os Estados-Membros e a Comissão nos domínios abrangidos pela Directiva 2002/59/CE. Em especial, a Agência:\n\ni) Promove a cooperação entre os Estados ribeirinhos das zonas marítimas em causa, nos domínios abrangidos por aquela directiva;\n\nii) Desenvolve e explora os sistemas de informação necessários à realização dos objectivos da directiva;\n\ne) Facilitar a cooperação entre os Estados-Membros e a Comissão na concepção de uma metodologia comum, tomando na devida conta os diferentes sistemas jurídicos dos Estados-Membros para a investigação de acidentes marítimos, segundo os princípios acordados a nível internacional, na prestação de apoio aos Estados-Membros nas actividades relacionadas com inquéritos a acidentes marítimos graves e na análise dos relatórios existentes de inquéritos a acidentes;\n\nf) A Agência proporciona à Comissão e aos Estado-Membros informações objectivas, fiáveis e comparáveis, bem como dados sobre a segurança marítima e a poluição pelos navios, que lhes permitam tomar as medidas necessárias para melhorar a segurança marítima e a prevenção da poluição pelos navios e avaliar a eficácia das medidas em vigor. Essas tarefas incluem a recolha, o registo e a avaliação de dados técnicos nos domínios da segurança marítima e do tráfego marítimo, mas também no domínio da poluição marinha tanto acidental como intencional, a exploração sistemática das bases de dados existentes, incluindo a sua \"fertilização cruzada\" e, caso adequado, o desenvolvimento de bases de dados suplementares. Com base nos dados coligidos, a Agência assiste também a Comissão na publicação semestral de informações relativas aos navios cujo acesso aos portos da Comunidade foi recusado em aplicação da Directiva 95/21/CE do Conselho, de 19 de Junho de 1995, relativa à aplicação, aos navios que escalem os portos da Comunidade ou naveguem em águas sob jurisdição dos Estados-Membros, das normas internacionais respeitantes à segurança da navegação, à prevenção da poluição e às condições de vida e de trabalho a bordo dos navios (inspecção pelo Estado do porto)(8). A Agência assiste igualmente a Comissão e os Estados-Membros nas acções por estes desenvolvidas para melhorar a identificação e investigação de navios responsáveis por descargas ilícitas.\n\ng) Durante as negociações com os Estados candidatos à adesão, a Agência pode fornecer apoio técnico para a aplicação da legislação comunitária no domínio da segurança marítima e da prevenção da poluição pelos navios. Esta tarefa deve ser coordenada com os programas de cooperação regional existentes e incluir, se necessário, a organização de acções de formação relevantes."
+  },
+  "fb1d0400208619cd": {
+   "fragment_id": "Artigo 3.º — Visitas aos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Visitas aos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Visitas aos Estados-Membros\n\n1. A fim de executar as tarefas que lhe são confiadas, a Agência pode efectuar visitas aos Estados-Membros, de acordo com a política definida pelo Conselho de Administração. As autoridades nacionais dos Estados-Membros devem facilitar o trabalho do pessoal da Agência.\n\n2. A Agência informa o Estado-Membro em causa da visita prevista, da identidade dos funcionários mandatados, bem como da data do seu início. Os funcionários da Agência mandatados para essas visitas fá-las-ão mediante a apresentação de uma decisão do director executivo da Agência especificando o objectivo e a finalidade da sua missão.\n\n3. No fim de cada visita, a Agência redige um relatório e envia-o à Comissão e ao Estado-Membro interessado."
+  },
+  "a3cb7b124f51838e": {
+   "fragment_id": "Artigo 4.º — Transparência e protecção das informações",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Transparência e protecção das informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Transparência e protecção das informações\n\n1. No tratamento dos pedidos de acesso a documentos em seu poder, a Agência aplica os princípios estabelecidos no Regulamento (CE) n.o 1049/2001 do Parlamento Europeu e do Conselho, de 30 de Maio de 2001, relativo ao acesso do público aos documentos do Parlamento Europeu, do Conselho e da Comissão(9).\n\n2. A Agência pode fazer comunicações, por iniciativa própria, nos domínios da sua competência. Em especial, assegurará que sejam rapidamente fornecidos ao público e a quaisquer partes interessadas informações objectivas, fiáveis e facilmente compreensíveis sobre o seu trabalho.\n\n3. O Conselho de Administração estabelece as normas internas necessárias para a aplicação dos n.os 1 e 2.\n\n4. As informações recolhidas pela Comissão e pela Agência, de acordo com o presente regulamento, estão sujeitas às disposições do Regulamento (CE) n.o 45/2001 do Parlamento Europeu e do Conselho, de 18 de Dezembro de 2001, relativo à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e órgãos comunitários e à livre circulação desses dados(10)."
+  },
+  "7ce842ca03950f0f": {
+   "fragment_id": "CAPÍTULO II — ESTRUTURA INTERNA E FUNCIONAMENTO",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — ESTRUTURA INTERNA E FUNCIONAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — ESTRUTURA INTERNA E FUNCIONAMENTO"
+  },
+  "7d8a22393ebb3245": {
+   "fragment_id": "Artigo 5.º — Estatuto jurídico, centros regionais",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Estatuto jurídico, centros regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Estatuto jurídico, centros regionais\n\n1. A Agência é um organismo da Comunidade, dotado de personalidade jurídica.\n\n2. Em cada Estado-Membro, a Agência goza da capacidade jurídica mais vasta concedida às pessoas colectivas no direito nacional. Pode nomeadamente adquirir ou alienar bens móveis e imóveis e estar em juízo.\n\n3. A pedido da Comissão, o Conselho de Administração pode decidir, após acordo dos Estados-Membros em causa, criar os centros regionais necessários para a execução das tarefas ligadas à vigilância da navegação e do tráfego marítimo, especialmente a fim de assegurar condições óptimas de tráfego nas zonas sensíveis, conforme previsto na Directiva 2002/59/CE.\n\n4. A Agência é representada pelo seu director executivo."
+  },
+  "91241bb2e8f0982a": {
+   "fragment_id": "Artigo 6.º — Pessoal",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Pessoal\n\n1. São aplicáveis ao pessoal da Agência o Estatuto dos funcionários das Comunidades Europeias, o regime aplicável aos outros agentes das Comunidades Europeias e as normas de execução dessas disposições, adoptadas de comum acordo pelas instituições das Comunidades Europeias. O Conselho de Administração, com o acordo da Comissão, aprova as regras de execução necessárias.\n\n2. Sem prejuízo do disposto no artigo 16.o, as competências conferidas à autoridade investida do poder de nomeação pelo estatuto, bem como pelo regime aplicável aos outros agentes, são exercidas pela Agência no que diz respeito ao seu próprio pessoal.\n\n3. O pessoal da Agência é composto por funcionários afectados ou destacados temporariamente pela Comissão ou pelos Estados-Membros e por outros agentes recrutados pela Agência por um período estritamente limitado às necessidades da Agência."
+  },
+  "56d763191e576270": {
+   "fragment_id": "Artigo 7.º — Privilégios e imunidades",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Privilégios e imunidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Privilégios e imunidades\n\nO protocolo relativo aos privilégios e imunidades das Comunidades Europeias é aplicável à Agência e ao seu pessoal."
+  },
+  "71cce611c43ae074": {
+   "fragment_id": "Artigo 8.º — Responsabilidade",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Responsabilidade\n\n1. A responsabilidade contratual da Agência rege-se pela lei aplicável ao contrato em causa.\n\n2. O Tribunal de Justiça é competente para deliberar por força de cláusula compromissória constante dos contratos celebrados pela Agência.\n\n3. Em matéria de responsabilidade extracontratual, a Agência deve reparar, de acordo com os princípios gerais comuns aos direitos dos Estados-Membros, os danos causados pelos seus serviços ou pelos seus agentes no exercício das suas funções.\n\n4. O Tribunal de Justiça é competente para conhecer dos litígios relativos à reparação dos danos referidos no n.o 3.\n\n5. A responsabilidade pessoal dos agentes em relação à Agência rege-se pelas disposições do estatuto ou do regime que lhes é aplicável."
+  },
+  "5f99d1588ed7cd96": {
+   "fragment_id": "Artigo 9.º — Línguas",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Línguas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Línguas\n\n1. As disposições do Regulamento n.o 1, de 15 de Abril de 1958, que estabelece o regime linguístico da Comunidade Económica Europeia(11), são aplicáveis à Agência.\n\n2. Os serviços de tradução necessários ao funcionamento da Agência são assegurados pelo Serviço de Tradução dos órgãos da União Europeia."
+  },
+  "58d1446c5c188306": {
+   "fragment_id": "Artigo 10.º — Criação e competências do Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Criação e competências do Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Criação e competências do Conselho de Administração\n\n1. É criado um Conselho de Administração.\n\n2. O Conselho de Administração:\n\na) Nomeia o director executivo, nos termos do artigo 16.o;\n\nb) Aprova anualmente, até 30 de Abril, o relatório geral da Agência referente ao ano anterior e envia-o aos Estados-Membros, ao Parlamento Europeu, ao Conselho e à Comissão;\n\nc) Analisa, no âmbito dos preparativos do programa de trabalho, os pedidos de assistência técnica dos Estados-Membros, tal como refere a alínea c), subalínea ii), do artigo 2.o;\n\nd) Aprova, até 30 de Outubro de cada ano e tendo em conta o parecer da Comissão, o programa de trabalho da Agência para o ano seguinte e envia-o aos Estados-Membros, ao Parlamento Europeu, ao Conselho e à Comissão.\n\nEste programa de trabalho será aprovado sem prejuízo do processo orçamental comunitário anual. Se, no prazo de 15 dias a contar da data da aprovação do programa de trabalho, a Comissão manifestar o seu desacordo com o citado programa, o Conselho de Administração voltará a analisar o programa de trabalho e aprová-lo-á, no prazo de dois meses, eventualmente alterado, em segunda leitura por maioria de dois terços incluindo os representantes da Comissão ou por unanimidade dos representantes dos Estados-Membros;\n\ne) Aprova o orçamento definitivo da Agência antes do início do exercício financeiro, ajustando-o, se necessário, em função da contribuição comunitária e das outras receitas da Agência;\n\nf) Estabelece procedimentos para a tomada de decisões pelo director executivo;\n\ng) Define uma política de visitas a realizar nos termos do artigo 3.o;\n\nh) Exerce as suas funções em matéria orçamental, de acordo com o disposto nos artigos 18.o, 19.o e 21.o;\n\ni) Exerce a autoridade disciplinar sobre o director executivo e os chefes de unidade referidos no n.o 3 do artigo 15.o;\n\nj) Aprova o seu regulamento interno."
+  },
+  "aa74e8686b353533": {
+   "fragment_id": "Artigo 11.º — Composição do Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Composição do Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Composição do Conselho de Administração\n\n1. O Conselho de Administração é composto por um representante de cada Estado-Membro e quatro representantes da Comissão, e ainda por: quatro representantes dos sectores profissionais mais relevantes nomeados pela Comissão sem direito de voto.\n\nOs membros do Conselho de Administração são nomeados com base no respectivo grau de experiência e especialização no domínio da segurança marítima e da prevenção da poluição pelos navios.\n\n2. Os Estados-Membros e a Comissão nomeiam o respectivo membro do Conselho de Administração, bem como um suplente que representará o membro na sua ausência.\n\n3. A duração do mandato é de cinco anos. Este mandato é renovável uma vez.\n\n4. Se for caso disso, a participação de representantes de países terceiros e as respectivas condições serão estabelecidas nos convénios a que se refere o n.o 2 do artigo 17.o"
+  },
+  "702ff4edf8c3e951": {
+   "fragment_id": "Artigo 12.º — Presidência do Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Presidência do Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Presidência do Conselho de Administração\n\n1. O Conselho de Administração elege de entre os seus membros um presidente e um vice-presidente. O vice-presidente substitui automaticamente o presidente em caso de impedimento.\n\n2. A duração do mandato do presidente e do vice-presidente é de três anos e termina no momento em que deixarem de ser membros do Conselho de Administração. Este mandato é renovável uma vez."
+  },
+  "188cefefc6f09df2": {
+   "fragment_id": "Artigo 13.º — Reuniões",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Reuniões\n\n1. O Conselho de Administração reúne-se por convocação do seu presidente.\n\n2. O director executivo da Agência toma parte nas deliberações.\n\n3. O Conselho de Administração reúne-se em sessão ordinária duas vezes por ano. Além disso, reúne-se por iniciativa do seu presidente ou a pedido da Comissão ou de um terço dos Estados-Membros.\n\n4. Quando se trate de uma questão confidencial ou exista conflito de interesses, o Conselho de Administração pode decidir analisar questões específicas da sua ordem do dia sem estarem presentes os representantes dos sectores profissionais mais relevantes. As regras de execução desta disposição podem constar do regulamento interno.\n\n5. O Conselho de Administração pode convidar qualquer pessoa, cujo parecer tenha interesse, para assistir às suas reuniões na qualidade de observador.\n\n6. Os membros do Conselho de Administração podem, nos termos do regulamento interno, fazer-se assistir por conselheiros ou peritos.\n\n7. O secretariado do Conselho de Administração será assegurado pela Agência."
+  },
+  "aaca99153717c97b": {
+   "fragment_id": "Artigo 14.º — Votação",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Votação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Votação\n\n1. O Conselho de Administração delibera por maioria de dois terços de todos os membros com direito de voto.\n\n2. Cada membro dispõe de um voto. O director executivo não participa na votação.\n\nEm caso de ausência de um membro, o seu suplente pode exercer o seu direito de voto.\n\n3. O regulamento interno estabelece disposições de voto mais pormenorizadas, nomeadamente as condições em que um membro se pode fazer representar por outro."
+  },
+  "ebdd5d9cdfa0219c": {
+   "fragment_id": "Artigo 15.º — Funções e competências do director executivo",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Funções e competências do director executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Funções e competências do director executivo\n\n1. A Agência é gerida pelo seu director executivo, que agirá em total independência no exercício das suas funções, sem prejuízo das respectivas competências da Comissão e do Conselho de Administração.\n\n2. O director executivo tem, nomeadamente, as seguintes funções e competências:\n\na) Preparar o programa de trabalho e apresenta-o ao Conselho de Administração após consulta da Comissão. Toma as disposições necessárias para a sua execução e responde a todos os pedidos de assistência da Comissão ou de um Estado-Membro, nos termos da alínea c) do n.o 2 do artigo 10.o;\n\nb) Decidir sobre a realização das visitas previstas no artigo 3.o, após consulta da Comissão e segundo a política estabelecida pelo Conselho de Administração, nos termos da alínea g) do n.o 2 do artigo 10.o;\n\nc) Tomar as medidas necessárias, nomeadamente através da adopção de instruções administrativas internas e da publicação de comunicações, com vista a assegurar o funcionamento da Agência de acordo com as disposições do presente regulamento;\n\nd) Organizar um sistema efectivo de acompanhamento que lhe permita comparar as realizações da Agência face aos seus objectivos operacionais. Nesta base, o director executivo prepara, anualmente, um projecto de relatório geral que apresenta ao Conselho de Administração. O director executivo estabelece procedimentos de avaliação regular que correspondem às normas profissionais reconhecidas;\n\ne) Exercer, em relação ao pessoal, os poderes previstos no n.o 2 do artigo 6.o;\n\nf) Elaborar a previsão das receitas e despesas da Agência, de acordo com o estabelecido no artigo 18.o, e executa o orçamento nos termos do artigo 19.o\n\n3. O director executivo pode ser assistido por um ou mais chefes de unidade. Em caso de ausência ou impedimento do director executivo, um dos chefes de unidades substituí-lo-á nas suas funções."
+  },
+  "e8540cecc4598412": {
+   "fragment_id": "Artigo 16.º — Nomeação do Director Executivo",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Nomeação do Director Executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Nomeação do Director Executivo\n\n1. O director executivo da Agência é nomeado pelo Conselho de Administração em função dos seus méritos e das suas comprovadas capacidades administrativa e de gestão, bem como da sua experiência relevante no domínio da segurança marítima e da prevenção da poluição pelos navios. O Conselho de Administração delibera por maioria de quatro quintos de todos os membros com direito de voto. A Comissão pode propor um ou mais candidatos.\n\nO Conselho de Administração tem o poder de demitir o director executivo, de acordo com o mesmo procedimento.\n\n2. A duração do mandato do director executivo é de cinco anos. Este mandato é renovável uma vez."
+  },
+  "6faa806fe016bbce": {
+   "fragment_id": "Artigo 17.º — Participação de países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Participação de países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Participação de países terceiros\n\n1. A Agência está aberta à participação de países terceiros que tenham acordos com a Comunidade Europeia, mediante os quais tenham adoptado e estejam a aplicar o direito comunitário no domínio da segurança marítima e da prevenção da poluição pelos navios.\n\n2. De acordo com as disposições relevantes destes acordos, são celebrados convénios que, inter alia, definirão a natureza e o âmbito das regras específicas de participação desses países nos trabalhos da Agência, incluindo as disposições relativas às contribuições financeiras e ao pessoal."
+  },
+  "f4fc88e5333f1983": {
+   "fragment_id": "CAPÍTULO III — DISPOSIÇÕES FINANCEIRAS",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — DISPOSIÇÕES FINANCEIRAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — DISPOSIÇÕES FINANCEIRAS"
+  },
+  "664cb5f035f89187": {
+   "fragment_id": "Artigo 18.º — Orçamento",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Orçamento\n\n1. As receitas da Agência provêm de:\n\na) Uma contribuição da Comunidade;\n\nb) Possíveis contribuições de países terceiros que participem nos trabalhos da Agência, nos termos do artigo 17.o;\n\nc) Das taxas cobradas pela Agência por serviços de publicação, formação profissional, e/ou quaisquer outros serviços prestados.\n\n2. As despesas da Agência cobrem as despesas de pessoal, administrativas e de funcionamento.\n\n3. O director executivo elabora uma previsão das receitas e das despesas da Agência para o exercício orçamental seguinte e apresenta-a ao Conselho de Administração acompanhada de um quadro de pessoal.\n\n4. O orçamento deve ser equilibrado em termos de receitas e despesas.\n\n5. O Conselho de Administração aprova anualmente, o mais tardar até 30 de Abril, o projecto de orçamento acompanhado de um projecto de programa de trabalho e apresenta-os à Comissão e aos países terceiros que participam nos trabalhos da Agência, nos termos do artigo 17.o\n\nCom base nesse projecto de orçamento, a Comissão efectuará as estimativas pertinentes no anteprojecto de orçamento geral da União Europeia, que submeterá ao Conselho, de acordo com o artigo 272.o do Tratado. Deve ser respeitado o âmbito das perspectivas financeiras da Comunidade aprovadas para os anos seguintes.\n\n6. Após a aprovação do orçamento geral da União Europeia pela autoridade orçamental, o Conselho de Administração aprova o orçamento da Agência e o programa de trabalho definitivo, ajustando-os, se necessário, em função da contribuição comunitária. Envia-os sem demora à Comissão e à autoridade orçamental e aos países terceiros que participam nos trabalhos da Agência."
+  },
+  "0a928a18280e492b": {
+   "fragment_id": "Artigo 19.º — Execução e controlo orçamental",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Execução e controlo orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Execução e controlo orçamental\n\n1. O director executivo dá execução ao orçamento da Agência.\n\n2. O controlo da autorização e do pagamento de todas as despesas, bem como o controlo da verificação e da cobrança de todas as receitas da Agência são exercidos pelo auditor financeiro da Comissão.\n\n3. O mais tardar até 31 de Março de cada ano, o director executivo envia à Comissão, ao Conselho de Administração e ao Tribunal de Contas as contas detalhadas da totalidade das receitas e despesas da Agência no exercício anterior.\n\nO Tribunal de Contas examina-as nos termos previstos no artigo 248.o do Tratado e publica anualmente um relatório sobre as actividades da Agência.\n\n4. O Parlamento Europeu, sob recomendação do Conselho de Administração, dá quitação ao director executivo da Agência da execução do orçamento."
+  },
+  "ddce8c53798fc202": {
+   "fragment_id": "Artigo 20.º — Luta contra a fraude",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Luta contra a fraude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Luta contra a fraude\n\n1. Na luta contra a fraude, corrupção e outras acções ilegais, as disposições do Regulamento (CE) n.o 1073/1999 são aplicáveis à Agência, sem quaisquer restrições.\n\n2. A Agência adere ao Acordo Interinstitucional de 25 de Maio de 1999 relativo aos inquéritos internos efectuados pelo OLAF e promulgará as disposições correspondentes que se aplicam a todo o seu pessoal.\n\n3. As decisões de financiamento, bem como quaisquer contratos e instrumentos de execução delas decorrentes, devem dispor expressamente que o Tribunal de Contas e o OLAF podem, se for necessário, proceder a controlos no terreno dos beneficiários dos fundos da Agência e dos agentes responsáveis pela respectiva distribuição."
+  },
+  "22b25a32afed21d7": {
+   "fragment_id": "Artigo 21.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Disposições financeiras\n\nO Conselho de Administração, após aprovação da Comissão e parecer do Tribunal de Contas, aprova o Regulamento Financeiro da Agência. Esse regulamento financeiro deve precisar, nomeadamente, o procedimento a seguir na elaboração e execução do orçamento da Agência, nos termos do artigo 142.o do Regulamento Financeiro, de 21 de Dezembro de 1977, aplicável ao orçamento geral das Comunidades Europeias(12)."
+  },
+  "656d915ac2b9e7b5": {
+   "fragment_id": "CAPÍTULO IV — DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — DISPOSIÇÕES FINAIS"
+  },
+  "23876a6c70d5a647": {
+   "fragment_id": "Artigo 22.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Avaliação\n\n1. No prazo de cinco anos a contar da data em que a Agência tenha assumido as suas responsabilidades, o Conselho de Administração encomendará uma avaliação externa independente da execução do presente regulamento. A Comissão deve pôr à disposição da Agência qualquer informação que esta considere relevante para tal avaliação.\n\n2. A avaliação deve incidir no impacto que o presente regulamento, a Agência e as suas práticas de trabalho tiverem no estabelecimento de um elevado nível de segurança marítima e de prevenção da poluição pelos navios. O Conselho de Administração emite mandatos específicos com o acordo da Comissão, após consultas com as partes interessadas.\n\n3. O Conselho de Administração recebe os dados da avaliação e envia à Comissão recomendações relativamente a alterações a introduzir no presente regulamento, na Agência e nas suas práticas de trabalho. Os resultados da avaliação e as recomendações são enviados pela Comissão ao Parlamento Europeu e ao Conselho e tornados públicos."
+  },
+  "43590cd468e867c0": {
+   "fragment_id": "Artigo 23.º — Início da actividade da Agência",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Início da actividade da Agência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Início da actividade da Agência\n\nA Agência deve estar operacional no prazo de 12 meses a contar da data de entrada em vigor do presente regulamento."
+  },
+  "628e5b92ae60418f": {
+   "fragment_id": "Artigo 24.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito no Luxemburgo, em 27 de Junho de 2002.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nP. Cox\n\nPelo Conselho\n\nO Presidente\n\nM. Arias Cañete\n\n(1) JO C 120 E de 24.4.2001, p. 83, e\n\nJO C 103 E de 30.4.2002, p. 184.\n\n(2) JO C 221 de 7.8.2001, p. 64.\n\n(3) JO C 357 de 14.12.2001, p. 1.\n\n(4) Parecer do Parlamento Europeu de 14 de Junho de 2001 (JO C 53 E de 28.2.2002, p. 312), posição comum do Conselho de 7 de Março de 2002 (JO C 119 E de 22.5.2002, p. 27) e decisão do Parlamento Europeu de 12 de Junho de 2002 (ainda não publicada no Jornal Oficial). Decisão do Conselho de 25 de Junho de 2002.\n\n(5) Ver página 10 do presente Jornal Oficial.\n\n(6) JO L 136 de 31.5.1999, p. 1.\n\n(7) JO L 136 de 31.5.1999, p. 15.\n\n(8) JO L 157 de 7.7.1995, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2001/106/CE do Parlamento Europeu e do Conselho (JO L 19 de 22.1.2002, p. 17).\n\n(9) JO L 145 de 31.5.2001, p. 43.\n\n(10) JO L 8 de 12.1.2001, p. 1.\n\n(11) JO 17 de 6.10.1958, p. 385/58. Regulamento com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n(12) JO L 356 de 31.12.1977, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE, CECA, Euratom) n.o 762/2001 (JO L 111 de 20.4.2001, p. 1)."
+  },
+  "5ff4dbf2d6ba6a96": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Junho de 2002\n\nque institui a Agência Europeia da Segurança Marítima\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 2 do seu artigo 80.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#E0001)),\n\nTendo em conta a parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^4^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#E0004)),\n\n(1) A Comunidade aprovou um grande número de medidas legislativas destinadas a melhorar a segurança e a evitar a poluição no transporte marítimo. Para ser eficaz, essa legislação deve ser aplicada de forma adequada e uniforme em toda a Comunidade. Desse modo será possível garantir condições equitativas, reduzir as distorções da concorrência resultantes das vantagens económicas de que beneficiam os navios não conformes e recompensar os agentes marítimos que actuem com seriedade.\n\n(2) Determinadas funções actualmente desempenhadas a nível comunitário ou nacional podem ser executadas por um organismo especializado constituído por peritos. Na realidade, verifica-se a necessidade da existência de um apoio técnico e científico e de um nível de especialização elevado e estável, a fim de aplicar adequadamente a legislação comunitária nos domínios da segurança marítima e da prevenção da poluição pelos navios, bem como de acompanhar a sua aplicação e avaliar a eficácia das medidas em vigor. Verifica-se assim, no contexto da actual estrutura institucional e de equilíbrio de poderes da Comunidade, a necessidade de criação de uma Agência Europeia da Segurança Marítima («Agência»).\n\n(3) Em termos gerais, a Agência constituirá o organismo técnico que dotará a Comunidade dos meios necessários para actuar de forma eficaz no sentido de melhorar a regulamentação global no domínio da segurança marítima e da prevenção da poluição pelos navios. A Agência assistirá a Comissão no processo permanente de actualização da legislação comunitária no domínio da segurança marítima e da prevenção da poluição pelos navios e proporcionará o apoio necessário para garantir a aplicação convergente e efectiva dessa legislação em toda a Comunidade, assistindo a Comissão na realização das missões que lhe são confiadas pela legislação comunitária actual e futura sobre segurança marítima e prevenção da poluição pelos navios.\n\n(4) Para a concretização adequada dos objectivos para os quais a Agência foi criada, é oportuno que esta desempenhe uma série de outras funções importantes destinadas a melhorar a segurança marítima e a prevenção da poluição pelos navios nas águas dos Estados-Membros. Neste domínio, a Agência colaborará com os Estados-Membros na organização de actividades de formação adequadas sobre a inspecção de navios pelo Estado do porto e sobre questões relacionadas com o Estado de pavilhão e na prestação de assistência técnica em matéria de aplicação da legislação comunitária. A Agência promoverá a cooperação entre os Estados-Membros e a Comissão, tal como previsto na Directiva 2002/59/CE do Parlamento Europeu e do Conselho, de 27 de Junho de 2002, relativa à instituição de um sistema comunitário de acompanhamento e de informação do tráfego de navios e que revoga a Directiva 93/75/CEE do Conselho ([^5^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#E0005)), e desenvolverá e operará todos os sistemas de informação necessários aos objectivos da citada directiva e actividades de investigações relacionadas com acidentes marítimos graves. A Agência fornecerá à Comissão e aos Estados-Membros informações e dados objectivos, fiáveis e comparáveis sobre segurança marítima e prevenção da poluição, a fim de lhes permitir tomarem as iniciativas necessárias para melhorar as medidas existentes e avaliar a sua eficácia. A Agência porá os conhecimentos da Comunidade em matéria de segurança marítima ao dispor dos Estados candidatos à adesão e estará aberta à participação desses Estados e de outros países terceiros que tenham celebrado acordos com a Comunidade por força dos quais adoptam e aplicam a legislação comunitária em matéria de segurança marítima e de prevenção da poluição pelos navios.\n\n(5) A Agência promoverá o estabelecimento de uma melhor cooperação entre os Estados-Membros e desenvolverá e difundirá as melhores práticas na Comunidade. Tal contribuirá, por seu lado, para melhorar o sistema geral de segurança marítima na Comunidade, bem como para reduzir o risco de acidentes marítimos, de poluição marinha e de perda de vidas humanas no mar.\n\n(6) A fim de desempenhar correctamente as funções confiadas à Agência, é necessário que os seus funcionários efectuem visitas aos Estados-Membros a fim de acompanharem o funcionamento global do sistema comunitário de segurança marítima e de prevenção da poluição pelos navios. As visitas devem realizar-se nos termos de uma política a estabelecer pelo Conselho de Administração da Agência e devem ser facilitadas pelas autoridades dos Estados-Membros.\n\n(7) A Agência deverá aplicar a legislação comunitária pertinente relativa ao acesso do público a documentos e à protecção das pessoas relativamente ao tratamento de dados de carácter pessoal. Deverá fornecer ao público e a terceiros interessados informações objectivas, fiáveis e facilmente compreensíveis em relação ao seu trabalho.\n\n(8) Quanto à responsabilidade contratual da Agência, que é regida pelo direito aplicável ao contrato celebrado pela mesma, o Tribunal de Justiça é competente para deliberar por força de uma cláusula compromissória do contrato. O Tribunal de Justiça é também competente para conhecer dos litígios relativos à reparação dos danos decorrentes da responsabilidade extracontratual da Agência.\n\n(9) Para garantir efectivamente o exercício das actividades da Agência, os Estados-Membros e a Comissão estarão representados num Conselho de Administração dotado dos poderes necessários para elaborar o orçamento, verificar a sua execução, adoptar as regras financeiras apropriadas, definir procedimentos de trabalho transparentes no tocante à tomada de decisões pela Agência, aprovar o seu programa de trabalho, analisar os pedidos de assistência técnica dos Estados-Membros, definir uma política de visitas aos Estados-Membros e nomear o director executivo. À luz do carácter eminentemente técnico e científico da missão e das tarefas atribuídas a esta Agência, afigura-se adequado que o Conselho de Administração seja composto por um representante de cada Estado-Membro e quatro representantes da Comissão, com um alto nível de conhecimentos especializados. Para melhor garantir o mais alto nível de conhecimentos especializados e experiência do Conselho de Administração e para implicar intimamente os sectores mais pertinentes nas actividades da Agência, a Comissão nomeará profissionais independentes destes sectores membros do Conselho sem direito de voto com base no mérito pessoal e na sua experiência no domínio da segurança marítima e da prevenção da poluição pelos navios e não a título de representantes de determinadas organizações profissionais.\n\n(10) O bom funcionamento da Agência exige que o seu director executivo seja nomeado com base no mérito e nas capacidades de gestão e administrativas comprovadas, bem como na competência e na experiência pertinentes para a segurança marítima e a prevenção ocasionada por navios e que desempenhe a sua função com total independência e flexibilidade quanto à organização do funcionamento interno da Agência. Com esse fim em vista, o director executivo elaborará e tomará todas as medidas necessárias para garantir a boa execução do programa de trabalho da Agência, procederá à preparação de um projecto de relatório geral anual a apresentar ao Conselho de Administração, elaborará previsões das receitas e despesas da Agência e executará o orçamento.\n\n(11) A fim de assegurar a plena autonomia e independência da Agência, considera-se necessário dotá-la de um orçamento próprio, cujas receitas sejam essencialmente constituídas por uma contribuição da Comunidade.\n\n(12) Nos últimos anos, à medida que foram criadas mais agências descentralizadas, a autoridade orçamental procurou melhorar a transparência e o controlo da gestão do financiamento comunitário às mesmas atribuído, em particular no que respeita à inscrição das taxas no orçamento, ao controlo financeiro, ao poder de quitação, à contribuição para o regime de pensões e aos processos orçamentais internos (código de conduta). De um modo semelhante, as disposições do Regulamento (CE) n.º 1073/1999 do Parlamento Europeu e do Conselho, de 25 de Maio de 1999, relativo aos inquéritos efectuados pelo Organismo Europeu de Luta Anti-Fraude (OLAF) ([^6^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#E0006)) devem aplicar-se sem quaisquer restrições à agência, que deverá ficar também sujeita ao Acordo Interinstitucional, de 25 de Maio de 1999, entre o Parlamento Europeu, o Conselho da União Europeia e a Comissão das Comunidades Europeias em matéria de inquéritos internos do Organismo Europeu de Luta Anti-Fraude (OLAF) ([^7^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#E0007)).\n\n(13) No prazo de cinco anos a contar da data em que a Agência tenha assumido as suas responsabilidades, o Conselho de Administração encomendará uma avaliação externa independente da execução do presente regulamento, da Agência e das suas práticas de trabalho para estabelecer um elevado nível de segurança marítima e de prevenção da poluição por navios,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "18012243d9ee5feb": {
+   "fragment_id": "OBJECTIVOS E FUNÇÕES",
+   "type": "divisao",
+   "heading": "OBJECTIVOS E FUNÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJECTIVOS E FUNÇÕES"
+  },
+  "cf15dceb349c9fb6": {
+   "fragment_id": "Artigo 1.º — Objectivos",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivos\n\n1. O presente regulamento institui a Agência Europeia da Segurança Marítima, a seguir designada por «a Agência», com vista a garantir um nível elevado, uniforme e eficaz de segurança marítima, dentro dos limites das atribuições definidas na subalínea iv) da alínea b) do artigo 2.º, de protecção do transporte marítimo e de prevenção e combate à poluição por navios na Comunidade.\n\n2. A Agência proporcionará aos Estados-Membros e à Comissão o apoio técnico e científico necessário, bem como um elevado nível de especialização, a fim de os assistir na correcta aplicação da legislação comunitária no domínio da segurança marítima, dentro dos limites das atribuições definidas na subalínea iv) da alínea b) do artigo 2.º, da protecção do transporte marítimo e da prevenção da poluição por navios, bem como no controlo da sua aplicação e na avaliação da eficácia das medidas em vigor.\n\n3. A Agência proporcionará aos Estados-Membros e à Comissão apoio técnico e científico no domínio da poluição acidental ou deliberada por navios e apoiará, a pedido, com meios adicionais e de modo eficaz em termos de custos, os mecanismos de combate à poluição instituídos pelos Estados-Membros, sem prejuízo da responsabilidade que têm os Estados costeiros de se dotarem dos mecanismos de combate à poluição adequados e de respeitarem a cooperação existente entre os Estados-Membros neste domínio. A Agência intervirá em apoio do quadro comunitário para a cooperação no domínio da poluição marinha acidental ou deliberada, instituído pela Decisão n.º 2850/2000/CE do Parlamento Europeu e do Conselho, de 20 de Dezembro de 2000, que define um quadro comunitário para a cooperação no domínio da poluição marinha acidental ou deliberada ([^8^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#E0008)), e do mecanismo comunitário no domínio das intervenções de socorro da protecção civil instituído pela Decisão n.º 2001/792/CE, Euratom do Conselho, de 23 de Outubro de 2001, que estabelece um mecanismo comunitário destinado a facilitar uma cooperação reforçada no quadro das intervenções de socorro da protecção civil ([^9^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#E0009))."
+  },
+  "339e83ca149bdc74": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA fim de garantir a adequada realização dos objectivos enunciados no artigo 1.º, a Agência tem as seguintes atribuições:\n\na) Assistir a Comissão, se necessário, nos trabalhos preparatórios para a actualização e desenvolvimento da legislação comunitária no domínio da segurança marítima, da protecção do transporte marítimo e da prevenção e combate à poluição por navios, à luz, nomeadamente, da evolução da legislação internacional nesse domínio. Esta tarefa inclui a análise dos projectos de investigação desenvolvidos no domínio da segurança marítima, da protecção do transporte marítimo e da prevenção e combate à poluição por navios;\n\nb) Assistir a Comissão na aplicação eficaz da legislação comunitária no domínio da segurança marítima, da protecção do transporte marítimo e da prevenção e combate à poluição por navios em toda a Comunidade. Em particular, a Agência:\n\ni) controlará o funcionamento geral do regime comunitário de inspecção pelo Estado do porto, o que pode incluir visitas aos Estados-Membros, e sugerirá à Comissão possíveis melhorias neste domínio,\n\nii) prestará à Comissão o apoio técnico necessário para fins de participação nos trabalhos dos órgãos técnicos do Memorando de Acordo de Paris para a inspecção de navios pelo Estado do porto,\n\niii) assistirá a Comissão na realização de qualquer tarefa que lhe seja atribuída pela actual e futura legislação comunitária no domínio da segurança marítima, da protecção do transporte marítimo e da prevenção e combate à poluição por navios, nomeadamente a legislação aplicável às sociedades de classificação e à segurança dos navios de passageiros, bem como a legislação aplicável à segurança, formação, certificação e serviço de quartos das tripulações dos navios, incluindo a verificação do cumprimento, por parte dos países terceiros, das prescrições da Convenção Internacional sobre Normas de Formação, Certificação e Serviço de Quartos para os Marítimos de 1978, e das medidas tomadas para evitar a fraude relacionada com os certificados de competência,\n\niv) prestará à Comissão a assistência técnica na realização das tarefas de inspecção que lhe são atribuídas nos termos do n.º 4 do artigo 9.º do Regulamento (CE) n.º 725/2004 do Parlamento Europeu e do Conselho, de 31 de Março de 2004, relativo ao reforço da segurança dos navios e das instalações portuárias ([^10^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#E0010)). O apoio da Agência à Comissão limitar-se-á aos navios e às empresas relevantes e organizações de segurança reconhecidas, autorizadas a realizar certas tarefas relacionadas com a segurança neste contexto.\n\nc) Colaborar com os Estados-Membros:\n\ni) na organização, se necessário, de acções relevantes de formação em domínios da competência do Estado do porto e do Estado de bandeira,\n\nii) no desenvolvimento de soluções técnicas e na prestação de assistência técnica para a implementação da legislação comunitária,\n\niii) nas suas intervenções em caso de poluição acidental ou deliberada causada por navios, apoiando-as com meios adicionais e de modo eficaz em termos de custos, via o mecanismo comunitário no domínio da protecção civil instituído pela Decisão n.º 2001/792/CE, Euratom, quando for apresentado um pedido nesse sentido. Neste contexto, a Agência apoiará o Estado-Membro afectado, sob a autoridade do qual serão conduzidas as operações de limpeza,\n\nd) Facilitar a cooperação entre os Estados-Membros e a Comissão nos domínios abrangidos pela Directiva 2002/59/CE. Em especial, a Agência:\n\ni) promoverá a cooperação entre os Estados ribeirinhos das zonas marítimas em causa, nos domínios abrangidos por aquela directiva,\n\nii) desenvolverá e explorará os sistemas de informação necessários à realização dos objectivos da directiva.\n\ne) Facilitar a cooperação entre os Estados-Membros e a Comissão na concepção de uma metodologia comum, tomando na devida conta os diferentes sistemas jurídicos dos Estados-Membros, para a investigação de acidentes marítimos, segundo os princípios acordados a nível internacional, na prestação de apoio aos Estados-Membros nas actividades relacionadas com inquéritos a acidentes marítimos graves e na análise dos relatórios existentes de inquéritos a acidentes;\n\nf) Proporcionar à Comissão e aos Estados-Membros informações objectivas, fiáveis e comparáveis e dados sobre a segurança marítima, a protecção do transporte marítimo e a poluição por navios, que lhes permitam tomar as medidas necessárias para melhorar a sua acção nestes domínios e avaliar a eficácia das medidas em vigor. Essas tarefas incluem a recolha, o registo e a avaliação de dados técnicos nos domínios da segurança marítima, da protecção do transporte marítimo e do tráfego marítimo, bem como no domínio da poluição marinha, tanto acidental como deliberada, a exploração sistemática das bases de dados existentes, incluindo a sua «fertilização cruzada», e, se necessário, o desenvolvimento de bases de dados suplementares. Com base nos dados coligidos, a Agência assistirá a Comissão na publicação semestral de informações relativas aos navios cujo acesso aos portos da Comunidade foi recusado em aplicação da Directiva 95/21/CE do Conselho, de 19 de Junho de 1995, relativa à aplicação, aos navios que escalem os portos da Comunidade ou naveguem em águas sob jurisdição dos Estados-Membros, das normas internacionais respeitantes à segurança da navegação, à prevenção da poluição e às condições de vida e de trabalho a bordo dos navios (inspecção pelo Estado do porto) ([^11^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#E0011)). A Agência assistirá igualmente a Comissão e os Estados-Membros nas acções por estes desenvolvidas para melhorar a identificação e investigação dos navios responsáveis por descargas ilícitas;\n\ng) Durante as negociações com os Estados candidatos à adesão, a Agência pode fornecer apoio técnico para a aplicação da legislação comunitária no domínio da segurança marítima, da protecção do transporte marítimo e da prevenção da poluição por navios. A Agência pode também prestar assistência em caso de poluição marinha acidental ou deliberada que afecte esses Estados, via o mecanismo comunitário no domínio da protecção civil instituído pela Decisão n.º 2001/792/CE, Euratom. Estas tarefas devem ser coordenadas com os programas de cooperação regional existentes e incluir, se necessário, a organização de acções de formação relevantes."
+  },
+  "81f917f4c3492d24": {
+   "fragment_id": "Artigo 4.º — Transparência e protecção das informações",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Transparência e protecção das informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Transparência e protecção das informações\n\n1. O Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho, de 30 de Maio de 2001, relativo ao acesso do público aos documentos do Parlamento Europeu, do Conselho e da Comissão ([^12^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#E0012)), é aplicável aos documentos detidos pela Agência.\n\n2. A Agência pode fazer comunicações, por iniciativa própria, nos domínios da sua competência. Em especial, assegurará que sejam rapidamente fornecidos ao público e a quaisquer partes interessadas informações objectivas, fiáveis e facilmente compreensíveis sobre o seu trabalho.\n\n3. O Conselho de Administração aprovará as regras de execução do Regulamento (CE) n.º 1049/2001 no prazo de seis meses a contar da data de entrada em vigor do Regulamento (CE) n.º 1644/2003 do Parlamento Europeu e do Conselho, de 22 de Julho de 2003, que altera o Regulamento (CE) n.º 1406/2002 que institui a Agência Europeia da Segurança Marítima ([^13^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#E0013)).\n\n4. As informações recolhidas pela Comissão e pela Agência, de acordo com o presente regulamento, estão sujeitas às disposições do Regulamento (CE) n.º 45/2001 do Parlamento Europeu e do Conselho, de 18 de Dezembro de 2001, relativo à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e órgãos comunitários e à livre circulação desses dados ([^14^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#E0014)).\n\n5. As decisões tomadas pela Agência ao abrigo do artigo 8.º do Regulamento (CE) n.º 1049/2001 podem dar lugar à apresentação de queixa junto do Provedor de Justiça Europeu ou ser impugnadas no Tribunal de Justiça, nas condições previstas, respectivamente, nos artigos 195.º e 230.º do Tratado."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "d8ef928da5b17f22": {
+   "fragment_id": "ESTRUTURA INTERNA E FUNCIONAMENTO",
+   "type": "divisao",
+   "heading": "ESTRUTURA INTERNA E FUNCIONAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ESTRUTURA INTERNA E FUNCIONAMENTO"
+  },
+  "c24b99a097ddb5eb": {
+   "fragment_id": "Artigo 6.º — Pessoal",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Pessoal\n\n1. São aplicáveis ao pessoal da Agência o Estatuto dos funcionários das Comunidades Europeias, o regime aplicável aos outros agentes das Comunidades Europeias e as normas de execução dessas disposições, adoptadas de comum acordo pelas instituições das Comunidades Europeias. O Conselho de Administração, com o acordo da Comissão, aprova as regras de execução necessárias.\n\n2. Sem prejuízo do disposto no artigo 16.º, as competências conferidas à autoridade investida do poder de nomeação pelo estatuto, bem como pelo regime aplicável aos outros agentes, são exercidas pela Agência no que diz respeito ao seu próprio pessoal.\n\n3. O pessoal da Agência é composto por funcionários afectados ou destacados temporariamente pela Comissão ou pelos Estados-Membros e por outros agentes recrutados pela Agência por um período estritamente limitado às necessidades da Agência."
+  },
+  "e9184eda19f4bf9b": {
+   "fragment_id": "Artigo 8.º — Responsabilidade",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Responsabilidade\n\n1. A responsabilidade contratual da Agência rege-se pela lei aplicável ao contrato em causa.\n\n2. O Tribunal de Justiça é competente para deliberar por força de cláusula compromissória constante dos contratos celebrados pela Agência.\n\n3. Em matéria de responsabilidade extracontratual, a Agência deve reparar, de acordo com os princípios gerais comuns aos direitos dos Estados-Membros, os danos causados pelos seus serviços ou pelos seus agentes no exercício das suas funções.\n\n4. O Tribunal de Justiça é competente para conhecer dos litígios relativos à reparação dos danos referidos no n.º 3.\n\n5. A responsabilidade pessoal dos agentes em relação à Agência rege-se pelas disposições do estatuto ou do regime que lhes é aplicável."
+  },
+  "7a3298f671fef3dc": {
+   "fragment_id": "Artigo 9.º — Línguas",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Línguas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Línguas\n\n1. As disposições do Regulamento n.º 1, de 15 de Abril de 1958, que estabelece o regime linguístico da Comunidade Económica Europeia ([^15^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#E0015)), são aplicáveis à Agência.\n\n2. Os serviços de tradução necessários ao funcionamento da Agência são assegurados pelo Serviço de Tradução dos órgãos da União Europeia."
+  },
+  "32270da508a71134": {
+   "fragment_id": "Artigo 10.º — Criação e competências do Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Criação e competências do Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Criação e competências do Conselho de Administração\n\n1. É criado um Conselho de Administração.\n\n2. O Conselho de Administração:\n\na) Nomeia o director executivo, nos termos do artigo 16.º;\n\nb) Aprovará o relatório anual de actividades da Agência e transmiti-lo-á, até 15 de Junho, ao Parlamento Europeu, ao Conselho, à Comissão, ao Tribunal de Contas e aos Estados-Membros.\n\nc) Analisa, no âmbito dos preparativos do programa de trabalho, os pedidos de assistência técnica dos Estados-Membros, tal como refere a alínea c), subalínea ii), do artigo 2.º;\n\nd) Aprova, até 30 de Novembro de cada ano e tendo em conta o parecer da Comissão, o programa de trabalho da Agência para o ano seguinte e envia-o aos Estados-Membros, ao Parlamento Europeu, ao Conselho e à Comissão; este programa de trabalho será aprovado sem prejuízo do processo orçamental anual. Se, no prazo de 15 dias a contar da data da aprovação do programa de trabalho, a Comissão manifestar o seu desacordo com o citado programa, o Conselho de Administração voltará a analisar o programa e aprová-lo-á, eventualmente alterado, no prazo de dois meses, em segunda leitura por maioria de dois terços, incluindo os representantes da Comissão, ou por unanimidade dos representantes dos Estados-Membros;\n\ne) Aprova o orçamento definitivo da Agência antes do início do exercício financeiro, ajustando-o, se necessário, em função da contribuição comunitária e das outras receitas da Agência;\n\nf) Estabelece procedimentos para a tomada de decisões pelo director executivo;\n\ng) Define uma política de visitas a realizar nos termos do artigo 3.º;\n\nh) Exerce as suas funções em matéria orçamental, de acordo com o disposto nos artigos 18.º, 19.º e 21.º;\n\ni) Exerce a autoridade disciplinar sobre o director executivo e os chefes de unidade referidos no n.º 3 do artigo 15.º;\n\nj) Aprova o seu regulamento interno;\n\nk) Adopta, nos termos da alínea d), um plano detalhado da capacidade de resposta e das actividades da Agência no domínio do combate à poluição, com vista à utilização optimizada dos meios financeiros à disposição da Agência;\n\nl) Examina a execução financeira do plano detalhado referido na alínea k) e as autorizações orçamentais previstas no Regulamento (CE) n.º 2038/2006 do Parlamento Europeu e do Conselho, de 18 de Dezembro de 2006 ([^16^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#E0016)), relativo ao financiamento plurianual da actividade da Agência Europeia da Segurança Marítima no domínio do combate à poluição causada por navios, com base no relatório previsto na alínea g) do n.º 2 do artigo 15.º do presente regulamento. Este exame deve ser efectuado aquando da apresentação do mapa previsional das receitas e despesas da Agência para o exercício seguinte, como prevê o n.º 5 do artigo 18.º do presente regulamento."
+  },
+  "1fbf9fdc76c3f604": {
+   "fragment_id": "Artigo 11.º — Composição do Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Composição do Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Composição do Conselho de Administração\n\n1. O Conselho de Administração é composto por um representante de cada Estado-Membro e quatro representantes da Comissão, e ainda por: quatro representantes dos sectores profissionais mais relevantes nomeados pela Comissão sem direito de voto.\n\nOs membros do Conselho de Administração são nomeados com base no seu grau de experiência e especialização no domínio da segurança marítima, da protecção do transporte marítimo e da prevenção e combate à poluição por navios.\n\n2. Os Estados-Membros e a Comissão nomeiam o respectivo membro do Conselho de Administração, bem como um suplente que representará o membro na sua ausência.\n\n3. A duração do mandato é de cinco anos. Este mandato é renovável uma vez.\n\n4. Se for caso disso, a participação de representantes de países terceiros e as respectivas condições serão estabelecidas nos convénios a que se refere o n.º 2 do artigo 17.º"
+  },
+  "76352796521d2728": {
+   "fragment_id": "Artigo 15.º — Funções e competências do director executivo",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Funções e competências do director executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Funções e competências do director executivo\n\n1. A Agência é gerida pelo seu director executivo, que agirá em total independência no exercício das suas funções, sem prejuízo das respectivas competências da Comissão e do Conselho de Administração.\n\n2. O director executivo tem, nomeadamente, as seguintes funções e competências:\n\na) Prepara o programa de trabalho e o plano detalhado da capacidade de resposta e das actividades da Agência no domínio do combate à poluição e apresenta-os ao Conselho de Administração, após consulta da Comissão. Toma as disposições necessárias para a sua execução. Responde a todos os pedidos de assistência da Comissão ou de um Estado-Membro, nos termos da alínea c) do n.º 2 do artigo 10.º. Transmite o plano, para informação, ao comité instituído pelo artigo 4.º da Decisão 2850/2000/CE, bem como ao comité a que se refere o artigo 9.º da Decisão n.º 2001/792/CE, Euratom;\n\nb) Decidir sobre a realização das visitas previstas no artigo 3.º, após consulta da Comissão e segundo a política estabelecida pelo Conselho de Administração, nos termos da alínea g) do n.º 2 do artigo 10.º;\n\nc) Tomar as medidas necessárias, nomeadamente através da adopção de instruções administrativas internas e da publicação de comunicações, com vista a assegurar o funcionamento da Agência de acordo com as disposições do presente regulamento;\n\nd) Organizar um sistema efectivo de acompanhamento que lhe permita comparar as realizações da Agência face aos seus objectivos operacionais. Nesta base, o director executivo prepara, anualmente, um projecto de relatório geral que apresenta ao Conselho de Administração. O director executivo estabelece procedimentos de avaliação regular que correspondem às normas profissionais reconhecidas;\n\ne) Exercer, em relação ao pessoal, os poderes previstos no n.º 2 do artigo 6.º;\n\nf) Elaborar a previsão das receitas e despesas da Agência, de acordo com o estabelecido no artigo 18.º, e executa o orçamento nos termos do artigo 19.º;\n\ng) Apresenta à Comissão e ao Conselho de Administração, até 31 de Janeiro de cada ano, um relatório sobre a execução financeira do plano detalhado das actividades da Agência para a preparação e a intervenção contra a poluição, bem como uma relação actualizada de todas as actividades financiadas a título desse plano e do respectivo andamento. Por sua vez, a Comissão apresenta esse relatório, para conhecimento, ao Parlamento Europeu, ao Comité instituído pelo artigo 4.º da Decisão n.º 2850/2000/CE e ao Comité referido no artigo 9.º da Decisão 2001/792/CE, Euratom.\n\n3. O director executivo pode ser assistido por um ou mais chefes de unidade. Em caso de ausência ou impedimento do director executivo, um dos chefes de unidades substituí-lo-á nas suas funções."
+  },
+  "44ad2b95b2903a10": {
+   "fragment_id": "Artigo 16.º — Nomeação do Director Executivo",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Nomeação do Director Executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Nomeação do Director Executivo\n\n1. O director executivo da Agência é nomeado pelo Conselho de Administração em função dos seus méritos e das suas comprovadas capacidades administrativa e de gestão, bem como da sua competência e experiência no domínio da segurança marítima, da protecção do transporte marítimo e da prevenção e combate à poluição por navios. O Conselho de Administração delibera por maioria de quatro quintos de todos os membros com direito de voto. A Comissão pode propor um ou mais candidatos.\n\nO Conselho de Administração tem o poder de demitir o director executivo, de acordo com o mesmo procedimento.\n\n2. A duração do mandato do director executivo é de cinco anos. Este mandato é renovável uma vez."
+  },
+  "f1566dc374815b6e": {
+   "fragment_id": "Artigo 17.º — Participação de países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Participação de países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Participação de países terceiros\n\n1. A Agência está aberta à participação de países terceiros que tenham acordos com a Comunidade Europeia, mediante os quais tenham adoptado e estejam a aplicar o direito comunitário no domínio da segurança marítima, da protecção do transporte marítimo e da prevenção e combate à poluição por navios.\n\n2. De acordo com as disposições relevantes destes acordos, são celebrados convénios que, *inter alia,* definirão a natureza e o âmbito das regras específicas de participação desses países nos trabalhos da Agência, incluindo as disposições relativas às contribuições financeiras e ao pessoal."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "6e028bd1d966d922": {
+   "fragment_id": "DISPOSIÇÕES FINANCEIRAS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINANCEIRAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINANCEIRAS"
+  },
+  "1bf8dc13d2ab9254": {
+   "fragment_id": "Artigo 18.º — Orçamento",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Orçamento\n\n1. As receitas da Agência provêm de:\n\na) Uma contribuição da Comunidade;\n\nb) Possíveis contribuições de países terceiros que participem nos trabalhos da Agência, nos termos do artigo 17.º;\n\nc) Das taxas cobradas pela Agência por serviços de publicação, formação profissional, e/ou quaisquer outros serviços prestados.\n\n2. As despesas da Agência cobrem as despesas de pessoal, administrativas e de funcionamento.\n\n3. O director executivo elaborará um projecto de mapa previsional das receitas e despesas da Agência para o exercício orçamental seguinte e transmite-o ao Conselho de Administração, acompanhado de um projecto de quadro de pessoal.\n\n4. As receitas e as despesas devem ser equilibradas.\n\n5. O Conselho de Administração elaborará anualmente, com base num projecto de mapa previsional das receitas e despesas, o mapa previsional das receitas e despesas da Agência para o exercício seguinte.\n\n6. Este mapa previsional, que incluirá um projecto de quadro de pessoal e é acompanhado do programa de trabalho provisório, será transmitido pelo Conselho de Administração, até 31 de Março, à Comissão, bem como aos Estados com os quais a Comunidade concluiu acordos nos termos do disposto no artigo 17.º.\n\n7. A Comissão transmitirá o mapa previsional ao Parlamento Europeu e ao Conselho (a seguir designados «autoridade orçamental»), juntamente com o anteprojecto de orçamento geral da União Europeia.\n\n8. Com base no mapa previsional, a Comissão procederá à inscrição, no anteprojecto de orçamento geral da União Europeia, das previsões que considere necessárias no que respeita ao quadro de pessoal e ao montante da subvenção a cargo do orçamento geral, que submeterá à apreciação da autoridade orçamental nos termos do disposto no artigo 272.º do Tratado.\n\n9. A autoridade orçamental autorizará as dotações a título da subvenção destinada à Agência.\n\nA autoridade orçamental aprovará o quadro de pessoal da Agência.\n\n10. O orçamento será aprovado pelo Conselho de Administração, tornando-se definitivo após a aprovação definitiva do orçamento geral da União Europeia. O orçamento será adaptado em conformidade, se for caso disso.\n\n11. O Conselho de Administração notificará, com a maior brevidade, a autoridade orçamental da sua intenção de realizar qualquer projecto susceptível de ter incidências financeiras significativas sobre o financiamento do orçamento, nomeadamente os projectos de natureza imobiliária, tais como o arrendamento ou a aquisição de imóveis. Do facto informará a Comissão.\n\nSempre que um ramo da autoridade orçamental tiver comunicado a sua intenção de emitir um parecer, transmiti-lo-á ao Conselho de Administração no prazo de seis semanas a contar da notificação do projecto."
+  },
+  "2a11958fd8f8454c": {
+   "fragment_id": "Artigo 19.º — Execução e controlo do orçamento",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Execução e controlo do orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Execução e controlo do orçamento\n\n1. O director executivo executará o orçamento da Agência.\n\n2. Até ao dia 1 de Março seguinte ao exercício encerrado, o contabilista da Agência comunicará ao contabilista da Comissão as contas provisórias acompanhadas do relatório sobre a gestão orçamental e financeira do exercício. O contabilista da Comissão consolidará as contas provisórias das instituições e dos organismos descentralizados nos termos do disposto no artigo 128.º do regulamento financeiro geral.\n\n3. Até ao dia 31 de Março seguinte ao exercício encerrado, o contabilista da Comissão transmitirá ao Tribunal de Contas as contas provisórias da Agência, acompanhadas do relatório sobre a gestão orçamental e financeira do exercício. O relatório sobre a gestão orçamental e financeira do exercício será igualmente enviado ao Parlamento Europeu e ao Conselho.\n\n4. Após recepção das observações formuladas pelo Tribunal de Contas relativamente às contas provisórias da Agência, nos termos do disposto no artigo 129.º do regulamento financeiro geral, o director executivo elaborará as contas definitivas da Agência, sob sua própria responsabilidade, e transmiti-las-á, para parecer, ao Conselho de Administração.\n\n5. O Conselho de Administração emitirá um parecer sobre as contas definitivas da Agência.\n\n6. O director executivo transmitirá ao Parlamento Europeu, ao Conselho, à Comissão e ao Tribunal de Contas as contas definitivas acompanhadas do parecer do Conselho de Administração, até ao dia 1 de Julho seguinte ao exercício encerrado.\n\n7. As contas definitivas serão publicadas.\n\n8. O director executivo enviará ao Tribunal de Contas uma resposta às observações deste último, até 30 de Setembro. Enviará igualmente esta resposta ao Conselho de Administração.\n\n9. O director executivo submeterá à apreciação do Parlamento Europeu, a pedido deste último, tal como previsto no n.º 3 do artigo 146.º do regulamento financeiro geral, qualquer informação necessária ao bom desenrolar do processo de quitação relativamente ao exercício em causa.\n\n10. Sob recomendação do Conselho, deliberando por maioria qualificada, o Parlamento Europeu dará ao director executivo, antes de 30 de Abril do ano N + 2, quitação da execução do orçamento do exercício N."
+  },
+  "9f523840a328a588": {
+   "fragment_id": "Artigo 20.º — Luta contra a fraude",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Luta contra a fraude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Luta contra a fraude\n\n1. Na luta contra a fraude, corrupção e outras acções ilegais, as disposições do Regulamento (CE) n.º 1073/1999 são aplicáveis à Agência, sem quaisquer restrições.\n\n2. A Agência adere ao Acordo Interinstitucional de 25 de Maio de 1999 relativo aos inquéritos internos efectuados pelo OLAF e promulgará as disposições correspondentes que se aplicam a todo o seu pessoal.\n\n3. As decisões de financiamento, bem como quaisquer contratos e instrumentos de execução delas decorrentes, devem dispor expressamente que o Tribunal de Contas e o OLAF podem, se for necessário, proceder a controlos no terreno dos beneficiários dos fundos da Agência e dos agentes responsáveis pela respectiva distribuição."
+  },
+  "b2c0afe216496a23": {
+   "fragment_id": "Artigo 21.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Disposições financeiras\n\nApós consulta à Comissão, o Conselho de Administração aprovará a regulamentação financeira aplicável à Agência. Esta regulamentação só poderá divergir do disposto no Regulamento (CE, Euratom) n.º 2343/2002 da Comissão, de 19 de Novembro de 2002, que institui o Regulamento Financeiro Quadro dos organismos referidos no artigo 185.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias ([^17^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#E0017)), se as exigências específicas do funcionamento da Agência o impuserem e desde que a Comissão dê previamente o seu acordo."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "cf556f4a59a2d9a2": {
+   "fragment_id": "Artigo 22.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Avaliação\n\n1. No prazo de cinco anos a contar da data em que a Agência tenha assumido as suas responsabilidades, o Conselho de Administração encomendará uma avaliação externa independente da execução do presente regulamento. A Comissão deve pôr à disposição da Agência qualquer informação que esta considere relevante para tal avaliação.\n\n2. A avaliação deve incidir no impacto do presente regulamento, da Agência e das suas práticas de trabalho. O Conselho de Administração emite mandatos específicos com o acordo da Comissão, após consultas com as partes interessadas.\n\n3. O Conselho de Administração recebe os dados da avaliação e envia à Comissão recomendações relativamente a alterações a introduzir no presente regulamento, na Agência e nas suas práticas de trabalho. Os resultados da avaliação e as recomendações são enviados pela Comissão ao Parlamento Europeu e ao Conselho e tornados públicos."
+  },
+  "6ab7e98389e66048": {
+   "fragment_id": "Artigo 24.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "708018c77c8ee208": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#src.E0001)) JO C 120 E de 24.4.2001, p. 83, e\n\n> JO C 103 E de 30.4.2002, p. 184.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#src.E0002)) JO C 221 de 7.8.2001, p. 64.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#src.E0003)) JO C 357 de 14.12.2001, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 14 de Junho de 2001 (JO C 53 E de 28.2.2002, p. 312), posição comum do Conselho de 7 de Março de 2002 (JO C 119 E de 22.5.2002, p. 27) e decisão do Parlamento Europeu de 12 de Junho de 2002 (ainda não publicada no Jornal Oficial). Decisão do Conselho de 25 de Junho de 2002.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#src.E0005)) Ver página 10 do presente Jornal Oficial.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#src.E0006)) JO L 136 de 31.5.1999, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#src.E0007)) JO L 136 de 31.5.1999, p. 15.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#src.E0008)) JO L 332 de 28.12.2000, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#src.E0009)) JO L 297 de 15.11.2001, p. 7.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#src.E0010)) JO L 129 de 29.4.2004, p. 6.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#src.E0011)) JO L 157 de 7.7.1995, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2002/84/CE do Parlamento Europeu e do Conselho (JO L 324 de 29.11.2002, p. 53).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#src.E0012)) JO L 145 de 31.5.2001, p. 43.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#src.E0013)) JO L 245 de 29.9.2003, p. 10.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#src.E0014)) JO L 8 de 12.1.2001, p. 1.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#src.E0015)) JO 17 de 6.10.1958, p. 385/58. Regulamento com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^16^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#src.E0016)) JO L 394 30.12.2006, p. 1\n\n> ([^17^](http://publications.europa.eu/resource/cellar/7bdd651e-7564-4cf9-b708-083f1a664a9c.0017.03/DOC_1#src.E0017)) JO L 357 de 31.12.2002, p. 72 (rectificação no JO L 2 de 7.1.2003, p. 39)."
+  },
+  "37f1d00cc998deaf": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Junho de 2002\n\nque institui a Agência Europeia da Segurança Marítima\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 2 do seu artigo 80.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#E0001)),\n\nTendo em conta a parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^4^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#E0004)),\n\n(1) A Comunidade aprovou um grande número de medidas legislativas destinadas a melhorar a segurança e a evitar a poluição no transporte marítimo. Para ser eficaz, essa legislação deve ser aplicada de forma adequada e uniforme em toda a Comunidade. Desse modo será possível garantir condições equitativas, reduzir as distorções da concorrência resultantes das vantagens económicas de que beneficiam os navios não conformes e recompensar os agentes marítimos que actuem com seriedade.\n\n(2) Determinadas funções actualmente desempenhadas a nível comunitário ou nacional podem ser executadas por um organismo especializado constituído por peritos. Na realidade, verifica-se a necessidade da existência de um apoio técnico e científico e de um nível de especialização elevado e estável, a fim de aplicar adequadamente a legislação comunitária nos domínios da segurança marítima e da prevenção da poluição pelos navios, bem como de acompanhar a sua aplicação e avaliar a eficácia das medidas em vigor. Verifica-se assim, no contexto da actual estrutura institucional e de equilíbrio de poderes da Comunidade, a necessidade de criação de uma Agência Europeia da Segurança Marítima («Agência»).\n\n(3) Em termos gerais, a Agência constituirá o organismo técnico que dotará a Comunidade dos meios necessários para actuar de forma eficaz no sentido de melhorar a regulamentação global no domínio da segurança marítima e da prevenção da poluição pelos navios. A Agência assistirá a Comissão no processo permanente de actualização da legislação comunitária no domínio da segurança marítima e da prevenção da poluição pelos navios e proporcionará o apoio necessário para garantir a aplicação convergente e efectiva dessa legislação em toda a Comunidade, assistindo a Comissão na realização das missões que lhe são confiadas pela legislação comunitária actual e futura sobre segurança marítima e prevenção da poluição pelos navios.\n\n(4) Para a concretização adequada dos objectivos para os quais a Agência foi criada, é oportuno que esta desempenhe uma série de outras funções importantes destinadas a melhorar a segurança marítima e a prevenção da poluição pelos navios nas águas dos Estados-Membros. Neste domínio, a Agência colaborará com os Estados-Membros na organização de actividades de formação adequadas sobre a inspecção de navios pelo Estado do porto e sobre questões relacionadas com o Estado de pavilhão e na prestação de assistência técnica em matéria de aplicação da legislação comunitária. A Agência promoverá a cooperação entre os Estados-Membros e a Comissão, tal como previsto na Directiva 2002/59/CE do Parlamento Europeu e do Conselho, de 27 de Junho de 2002, relativa à instituição de um sistema comunitário de acompanhamento e de informação do tráfego de navios e que revoga a Directiva 93/75/CEE do Conselho ([^5^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#E0005)), e desenvolverá e operará todos os sistemas de informação necessários aos objectivos da citada directiva e actividades de investigações relacionadas com acidentes marítimos graves. A Agência fornecerá à Comissão e aos Estados-Membros informações e dados objectivos, fiáveis e comparáveis sobre segurança marítima e prevenção da poluição, a fim de lhes permitir tomarem as iniciativas necessárias para melhorar as medidas existentes e avaliar a sua eficácia. A Agência porá os conhecimentos da Comunidade em matéria de segurança marítima ao dispor dos Estados candidatos à adesão e estará aberta à participação desses Estados e de outros países terceiros que tenham celebrado acordos com a Comunidade por força dos quais adoptam e aplicam a legislação comunitária em matéria de segurança marítima e de prevenção da poluição pelos navios.\n\n(5) A Agência promoverá o estabelecimento de uma melhor cooperação entre os Estados-Membros e desenvolverá e difundirá as melhores práticas na Comunidade. Tal contribuirá, por seu lado, para melhorar o sistema geral de segurança marítima na Comunidade, bem como para reduzir o risco de acidentes marítimos, de poluição marinha e de perda de vidas humanas no mar.\n\n(6) A fim de desempenhar correctamente as funções confiadas à Agência, é necessário que os seus funcionários efectuem visitas aos Estados-Membros a fim de acompanharem o funcionamento global do sistema comunitário de segurança marítima e de prevenção da poluição pelos navios. As visitas devem realizar-se nos termos de uma política a estabelecer pelo Conselho de Administração da Agência e devem ser facilitadas pelas autoridades dos Estados-Membros.\n\n(7) A Agência deverá aplicar a legislação comunitária pertinente relativa ao acesso do público a documentos e à protecção das pessoas relativamente ao tratamento de dados de carácter pessoal. Deverá fornecer ao público e a terceiros interessados informações objectivas, fiáveis e facilmente compreensíveis em relação ao seu trabalho.\n\n(8) Quanto à responsabilidade contratual da Agência, que é regida pelo direito aplicável ao contrato celebrado pela mesma, o Tribunal de Justiça é competente para deliberar por força de uma cláusula compromissória do contrato. O Tribunal de Justiça é também competente para conhecer dos litígios relativos à reparação dos danos decorrentes da responsabilidade extracontratual da Agência.\n\n(9) Para garantir efectivamente o exercício das actividades da Agência, os Estados-Membros e a Comissão estarão representados num Conselho de Administração dotado dos poderes necessários para elaborar o orçamento, verificar a sua execução, adoptar as regras financeiras apropriadas, definir procedimentos de trabalho transparentes no tocante à tomada de decisões pela Agência, aprovar o seu programa de trabalho, analisar os pedidos de assistência técnica dos Estados-Membros, definir uma política de visitas aos Estados-Membros e nomear o director executivo. À luz do carácter eminentemente técnico e científico da missão e das tarefas atribuídas a esta Agência, afigura-se adequado que o Conselho de Administração seja composto por um representante de cada Estado-Membro e quatro representantes da Comissão, com um alto nível de conhecimentos especializados. Para melhor garantir o mais alto nível de conhecimentos especializados e experiência do Conselho de Administração e para implicar intimamente os sectores mais pertinentes nas actividades da Agência, a Comissão nomeará profissionais independentes destes sectores membros do Conselho sem direito de voto com base no mérito pessoal e na sua experiência no domínio da segurança marítima e da prevenção da poluição pelos navios e não a título de representantes de determinadas organizações profissionais.\n\n(10) O bom funcionamento da Agência exige que o seu director executivo seja nomeado com base no mérito e nas capacidades de gestão e administrativas comprovadas, bem como na competência e na experiência pertinentes para a segurança marítima e a prevenção ocasionada por navios e que desempenhe a sua função com total independência e flexibilidade quanto à organização do funcionamento interno da Agência. Com esse fim em vista, o director executivo elaborará e tomará todas as medidas necessárias para garantir a boa execução do programa de trabalho da Agência, procederá à preparação de um projecto de relatório geral anual a apresentar ao Conselho de Administração, elaborará previsões das receitas e despesas da Agência e executará o orçamento.\n\n(11) A fim de assegurar a plena autonomia e independência da Agência, considera-se necessário dotá-la de um orçamento próprio, cujas receitas sejam essencialmente constituídas por uma contribuição da Comunidade.\n\n(12) Nos últimos anos, à medida que foram criadas mais agências descentralizadas, a autoridade orçamental procurou melhorar a transparência e o controlo da gestão do financiamento comunitário às mesmas atribuído, em particular no que respeita à inscrição das taxas no orçamento, ao controlo financeiro, ao poder de quitação, à contribuição para o regime de pensões e aos processos orçamentais internos (código de conduta). De um modo semelhante, as disposições do Regulamento (CE) n.º 1073/1999 do Parlamento Europeu e do Conselho, de 25 de Maio de 1999, relativo aos inquéritos efectuados pelo Organismo Europeu de Luta Anti-Fraude (OLAF) ([^6^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#E0006)) devem aplicar-se sem quaisquer restrições à agência, que deverá ficar também sujeita ao Acordo Interinstitucional, de 25 de Maio de 1999, entre o Parlamento Europeu, o Conselho da União Europeia e a Comissão das Comunidades Europeias em matéria de inquéritos internos do Organismo Europeu de Luta Anti-Fraude (OLAF) ([^7^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#E0007)).\n\n(13) No prazo de cinco anos a contar da data em que a Agência tenha assumido as suas responsabilidades, o Conselho de Administração encomendará uma avaliação externa independente da execução do presente regulamento, da Agência e das suas práticas de trabalho para estabelecer um elevado nível de segurança marítima e de prevenção da poluição por navios,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "031ffde285e7174b": {
+   "fragment_id": "Artigo 1.º — Objetivos",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objetivos\n\n1. O presente regulamento cria a Agência Europeia da Segurança Marítima («Agência») com o objetivo de garantir um nível elevado, uniforme e eficaz de segurança marítima, de prevenção e combate à poluição causada por navios, e de prevenção da poluição marinha causada por instalações petrolíferas e gaseiras.\n\n2. Para esse efeito, a Agência coopera com os Estados-Membros e com a Comissão e presta-lhes assistência técnica, operacional e científica nos domínios referidos no n.º 1 do presente artigo, dentro dos limites das funções principais definidas no artigo 2.º, bem como, se for caso disso, das funções acessórias estabelecidas no artigo 2.º-A, em especial para assistir os Estados-Membros e a Comissão na aplicação correta dos atos jurídicos aplicáveis da União. No tocante ao combate à poluição, a Agência presta assistência operacional apenas a pedido dos Estados afetados.\n\n3. Ao prestar assistência nos termos do n.º 2, a Agência contribui, se for caso disso, para a eficiência geral do tráfego e do transporte marítimos em conformidade com o presente regulamento, a fim de facilitar a criação de um espaço europeu de transporte marítimo sem barreiras."
+  },
+  "3d5d377a1da2587e": {
+   "fragment_id": "Artigo 2.º — Funções principais da Agência",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Funções principais da Agência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Funções principais da Agência\n\n1. A fim de garantir a realização adequada dos objetivos estabelecidos no artigo 1.º, a Agência desempenha as funções principais enumeradas no presente artigo.\n\n2. A Agência assiste a Comissão:\n\na) Nos trabalhos preparatórios de atualização e desenvolvimento dos atos jurídicos aplicáveis da União, tendo em conta, nomeadamente, a evolução da legislação internacional;\n\nb) Na aplicação efetiva dos atos jurídicos vinculativos aplicáveis da União, nomeadamente efetuando visitas e inspeções nos termos do artigo 3.º do presente regulamento e prestando apoio técnico à Comissão no desempenho das funções de inspeção que lhe são atribuídas pelo artigo 9.º, n.º 4, do Regulamento (CE) n.º 725/2004 do Parlamento Europeu e do Conselho, de 31 de março de 2004, relativo ao reforço da proteção dos navios e das instalações portuárias ([^8^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#E0008)). Para o efeito, pode sugerir à Comissão eventuais alterações desses atos jurídicos vinculativos;\n\nc) Na análise de projetos de investigação, em curso e concluídos, relevantes para os objetivos da Agência; tal pode incluir a identificação de possíveis medidas de seguimento decorrentes de projetos de investigação específicos;\n\nd) No desempenho de qualquer outra função atribuída à Comissão pelos atos legislativos da União relativamente aos objetivos da Agência.\n\n3. A Agência colabora com os Estados-Membros para:\n\na) Organizar, se for caso disso, ações de formação relevantes nos domínios respeitantes às competências dos Estados-Membros;\n\nb) Desenvolver soluções técnicas, incluindo a prestação de serviços operacionais pertinentes, e prestar assistência técnica com vista à criação das capacidades nacionais necessárias à aplicação dos atos jurídicos aplicáveis da União;\n\nc) Prestar, a pedido de um Estado-Membro, informações adequadas resultantes das inspeções referidas no artigo 3.º, a fim de apoiar o controlo das organizações reconhecidas que cumprem funções de certificação em nome dos Estados-Membros nos termos do artigo 9.º da Diretiva 2009/15/CE do Parlamento Europeu e do Conselho, de 23 de abril de 2009, relativa às regras comuns para as organizações de vistoria e inspeção de navios e para as atividades relevantes das administrações marítimas ([^9^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#E0009)), sem prejuízo dos direitos e obrigações do Estado de pavilhão;\n\nd) Apoiar com meios adicionais e de modo rentável as intervenções em caso de poluição causada por navios, bem como de poluição marinha por instalações petrolíferas e gaseiras, sempre que o Estado-Membro afetado, sob cuja autoridade estão a ser efetuadas as operações de limpeza, tenha apresentado um pedido nesse sentido, sem prejuízo da responsabilidade dos Estados costeiros de se dotarem dos mecanismos de combate à poluição adequados e no respeito dos acordos de cooperação em vigor entre os Estados-Membros neste domínio. Se for caso disso, os pedidos de acionamento das intervenções de combate à poluição devem ser apresentados através do mecanismo de proteção civil da UE criado pela Decisão 2007/779/CE, Euratom do Conselho ([^10^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#E0010)).\n\n4. A Agência facilita a cooperação entre os Estados-Membros e a Comissão:\n\na) No domínio da vigilância do tráfego abrangido pela Diretiva 2002/59/CE, a Agência promove nomeadamente a cooperação entre os Estados ribeirinhos das zonas de transporte marítimo em causa, e desenvolve e explora o Centro de Dados de Identificação e Acompanhamento de Navios a Longa Distância da União Europeia e o sistema de intercâmbio de informações marítimas da União (SafeSeaNet), tal como referido nos artigos 6.º-B e 22.º-A dessa diretiva, bem como o sistema de intercâmbio de dados de Identificação e Seguimento de Navios a Longa Distância, em conformidade com o compromisso assumido no âmbito da Organização Marítima Internacional («OMI»);\n\nb) Fornecendo, a pedido e sem prejuízo do direito nacional e da União, dados pertinentes em matéria de posicionamento dos navios e de observação da Terra às autoridades nacionais e aos organismos da União competentes no âmbito do seu mandato para facilitar medidas contra a ameaça de atos de pirataria e ações ilícitas intencionais nos termos do direito aplicável da União ou nos termos de instrumentos jurídicos internacionalmente acordados no domínio dos transportes marítimos, sob reserva das regras aplicáveis em matéria de proteção de dados e em conformidade com os procedimentos administrativos que serão estabelecidos pelo Conselho de Administração ou pelo Grupo Diretor de Alto Nível criado nos termos da Diretiva 2002/59/CE, conforme o caso. A comunicação de dados de identificação e acompanhamento de navios a longa distância está sujeita ao consentimento do Estado de pavilhão em causa;\n\nc) No domínio da investigação de acidentes e incidentes marítimos nos termos da Diretiva 2009/18/CE do Parlamento Europeu e do Conselho, de 23 de abril de 2009, que estabelece os princípios fundamentais que regem a investigação de acidentes no setor do transporte marítimo ([^11^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#E0011)), a Agência presta, a pedido dos Estados-Membros em causa e no pressuposto de não virem a surgir conflitos de interesses, apoio operacional a estes Estados-Membros na realização dos inquéritos a acidentes graves ou muito graves e procede à análise dos relatórios dos inquéritos sobre segurança com vista a identificar a mais-valia para a União em termos de ensinamentos pertinentes a retirar. A Agência elabora uma síntese anual dos acidentes e incidentes marítimos com base nos dados comunicados pelos Estados-Membros nos termos do artigo 17.º dessa diretiva;\n\nd) Fornecendo-lhes estatísticas, informações e dados, objetivos, fiáveis e comparáveis, que lhes permitam tomar as medidas necessárias para melhorar a sua ação e para avaliar a eficácia e a rentabilidade das medidas em vigor. Esta tarefa compreende a recolha, o registo e a avaliação de dados técnicos, a exploração sistemática das bases de dados existentes, incluindo o seu cruzamento, e, se necessário, a criação de bases de dados suplementares. Com base nos dados coligidos, a Agência assiste a Comissão na publicação de informações relativas aos navios nos termos da Diretiva 2009/16/CE do Parlamento Europeu e do Conselho, de 23 de abril de 2009, relativa à inspeção de navios pelo Estado do porto ([^12^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#E0012));\n\ne) Na recolha e análise de dados relativos a marítimos comunicados e utilizados nos termos da Diretiva 2008/106/CE do Parlamento Europeu e do Conselho, de 19 de novembro de 2008, relativa ao nível mínimo de formação dos marítimos ([^13^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#E0013));\n\nf) Aperfeiçoando o processo de identificação e instauração de processos aos navios responsáveis por descargas ilícitas nos termos da Diretiva 2005/35/CE do Parlamento Europeu e do Conselho, de 7 de setembro de 2005, relativa à poluição por navios e à introdução de sanções em caso de infrações ([^14^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#E0014));\n\ng) Relativamente à poluição causada por instalações petrolíferas e gaseiras, utilizando o Serviço Europeu de Acompanhamento por Satélite do Derrame de Hidrocarbonetos (CleanSeaNet) para monitorizar a dimensão e o impacto ambiental dessa poluição;\n\nh) Prestando-lhes a assistência técnica necessária para contribuírem para os trabalhos pertinentes dos órgãos técnicos da OMI, da Organização Internacional do Trabalho no que diga respeito aos transportes marítimos, e do Memorando de Entendimento de Paris para a inspeção de navios pelo Estado do porto (Memorando de Entendimento de Paris) e de outras organizações regionais relevantes a que a União tenha aderido, no que respeite a matérias da competência da União;\n\ni) No que diz respeito à aplicação da Diretiva 2010/65/UE do Parlamento Europeu e do Conselho, de 20 de outubro de 2010, relativa às formalidades de declaração exigidas aos navios à chegada e/ou à partida dos portos dos Estados-Membros ([^15^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#E0015)), facilitando, nomeadamente, a transmissão eletrónica de dados através do SafeSeaNet e apoiando a criação de uma janela única.\n\n5. A pedido da Comissão, a Agência pode prestar assistência técnica, nomeadamente na organização de ações de formação relevantes, no que respeita aos atos jurídicos aplicáveis da União, aos Estados candidatos à adesão à União e, se aplicável, aos países parceiros abrangidos pela política europeia de vizinhança e aos países que participam no Memorando de Entendimento de Paris.\n\nA Agência pode igualmente prestar assistência em caso de poluição causada por navios, bem como de poluição marinha causada por instalações petrolíferas e gaseiras que afete os países terceiros que partilham um mar regional com a União, de acordo com o mecanismo de proteção civil da UE criado pela Decisão 2007/779/CE, Euratom, e em condições análogas às aplicáveis aos Estados-Membros, previstas no n.º 3, alínea d), do presente artigo. Estas funções devem ser coordenadas com os acordos de cooperação regional em vigor em matéria de poluição marinha."
+  },
+  "2a432536981488ba": {
+   "fragment_id": "Artigo 2.º-A — Funções acessórias da Agência",
+   "type": "artigo",
+   "heading": "Artigo 2.º-A — Funções acessórias da Agência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º-A — Funções acessórias da Agência\n\n1. Sem prejuízo das funções principais a que se refere o artigo 2.º, a Agência presta assistência à Comissão e aos Estados-Membros, consoante o caso, no desenvolvimento e na execução das atividades da União previstas nos n.^os^ 2 e 3 do presente artigo, relacionadas com os objetivos da Agência, na medida em que esta disponha de conhecimentos e meios especializados bem estabelecidos e reconhecidos. As funções acessórias enunciadas no presente artigo devem preencher as seguintes condições:\n\na) Devem constituir uma mais-valia substancial;\n\nb) Devem evitar duplicações de esforços;\n\nc) Devem servir o interesse da política de transportes marítimos da União;\n\nd) Não devem prejudicar as funções principais da Agência; e\n\ne) Não devem interferir com os direitos e obrigações dos Estados-Membros, em particular na sua qualidade de Estados de pavilhão, de porto ou costeiros.\n\n2. A Agência assiste a Comissão:\n\na) No contexto da execução da Diretiva 2008/56/CE do Parlamento Europeu e do Conselho (Diretiva-Quadro «Estratégia Marinha») ([^16^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#E0016)), contribuindo para o objetivo de obter um bom estado ambiental das águas marinhas através dos seus elementos associados aos transportes marítimos e explorando os resultados obtidos pelo recurso a instrumentos existentes, como o SafeSeaNet e o CleanSeaNet;\n\nb) Prestando-lhe assistência técnica na área das emissões de gases com efeito de estufa provenientes de navios, em particular no seguimento das evoluções registadas a nível internacional;\n\nc) No que respeita ao programa de Monitorização Global do Ambiente e da Segurança (GMES), na promoção da utilização de dados e serviços GMES para fins marítimos, no quadro da governação do GMES;\n\nd) Na criação de um ambiente comum de partilha de informação no domínio marítimo da União;\n\ne) No que respeita às instalações petrolíferas e gaseiras móveis ao largo, na análise dos requisitos da OMI e na recolha de informações básicas sobre as ameaças potenciais ao transporte marítimo e ao meio marinho;\n\nf) Prestando-lhe informações relevantes a respeito das sociedades de classificação de embarcações de navegação interior de acordo com a Diretiva 2006/87/CE do Parlamento Europeu e do Conselho, de 12 de dezembro de 2006, que estabelece as prescrições técnicas das embarcações de navegação interior ([^17^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#E0017)). Essas informações devem também constar dos relatórios a que se refere o artigo 3.º, n.^os^ 4 e 5, do presente regulamento.\n\n3. A Agência assiste a Comissão e os Estados-Membros:\n\na) Na análise da viabilidade e na execução de políticas e projetos que apoiem a criação do espaço europeu de transporte marítimo sem barreiras, como o conceito de «Cintura Azul» e os serviços eletrónicos marítimos, bem como as autoestradas do mar. Tal implica, em particular, a exploração de novas funcionalidades do SafeSeaNet, sem prejuízo das funções do Grupo Diretor de Alto Nível criado nos termos da Diretiva 2002/59/CE;\n\nb) Explorando, com as autoridades competentes para os Serviços de Informação Fluvial, a possibilidade de partilhar informações entre esse sistema e os sistemas de informação sobre o transporte marítimo, com base no relatório previsto no artigo 15.º da Diretiva 2010/65/UE;\n\nc) Facilitando o intercâmbio voluntário das melhores práticas na formação e na educação marítimas na União e proporcionando informação sobre os programas de intercâmbio da União no domínio da formação marítima, no pleno respeito do artigo 166.º do Tratado sobre o Funcionamento da União Europeia (TFUE)."
+  },
+  "68a1a982424372bb": {
+   "fragment_id": "Artigo 3.º — Visitas aos Estados-Membros e inspeções",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Visitas aos Estados-Membros e inspeções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Visitas aos Estados-Membros e inspeções\n\n1. A fim de desempenhar as funções que lhe são confiadas e de assistir a Comissão no cumprimento das obrigações que lhe incumbem por força do TFUE, nomeadamente a avaliação da aplicação eficaz da legislação aplicável da União, a Agência efetua visitas aos Estados-Membros de acordo com a metodologia definida pelo Conselho da Administração.\n\n2. A Agência informa com a devida antecedência o Estado-Membro em causa da visita prevista, da identidade dos funcionários autorizados, da data do início da visita e da duração estimada. Os funcionários da Agência mandatados para essas visitas efetuam-nas mediante a apresentação, por escrito, de uma decisão do diretor executivo da Agência, especificando o objetivo e a finalidade da sua missão.\n\n3. A Agência efetua inspeções em nome da Comissão exigidas por atos jurídicos vinculativos da União no que se refere a organizações reconhecidas pela União, nos termos do Regulamento (CE) n.º 391/2009 do Parlamento Europeu e do Conselho, de 23 de abril de 2009, relativo às regras comuns para as organizações de vistoria e inspeção de navios ([^18^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#E0018)), e no que se refere à formação e certificação dos marítimos em países terceiros, nos termos da Diretiva 2008/106/CE.\n\n4. No fim de cada visita ou inspeção, a Agência elabora um relatório e envia-o à Comissão e ao Estado-Membro interessado.\n\n5. Se necessário, e sempre que for concluído um ciclo de visitas ou inspeções, a Agência analisa os respetivos relatórios para retirar conclusões de caráter transversal e geral quanto à eficácia e à rentabilidade das medidas em vigor. A Agência apresenta essa análise à Comissão para ulterior discussão com os Estados-Membros, a fim de tirar as ilações relevantes e de facilitar a divulgação das boas práticas de trabalho."
+  },
+  "170109b35123ea44": {
+   "fragment_id": "Artigo 4.º — Transparência e protecção das informações",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Transparência e protecção das informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Transparência e protecção das informações\n\n1. O Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho, de 30 de Maio de 2001, relativo ao acesso do público aos documentos do Parlamento Europeu, do Conselho e da Comissão ([^19^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#E0019)), é aplicável aos documentos detidos pela Agência.\n\n2. A Agência pode fazer comunicações, por iniciativa própria, nos domínios da sua competência. Em especial, assegurará que sejam rapidamente fornecidos ao público e a quaisquer partes interessadas informações objectivas, fiáveis e facilmente compreensíveis sobre o seu trabalho.\n\n3. O Conselho de Administração aprova as modalidades práticas de aplicação dos n.^os^ 1 e 2, nomeadamente, se for caso disso, as que se apliquem às consultas com os Estados-Membros antes da publicação das informações.\n\n4. As informações recolhidas e tratadas pela Comissão e pela Agência nos termos do presente regulamento estão sujeitas às disposições do Regulamento (CE) n.º 45/2001 do Parlamento Europeu e do Conselho, de 18 de dezembro de 2000, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e órgãos comunitários e à livre circulação desses dados ([^20^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#E0020)), e a Agência toma as medidas necessárias para que as informações confidenciais sejam tratadas em condições de segurança.\n\n5. As decisões tomadas pela Agência ao abrigo do artigo 8.º do Regulamento (CE) n.º 1049/2001 podem dar lugar à apresentação de queixa junto do Provedor de Justiça Europeu ou ser impugnadas no Tribunal de Justiça, nas condições previstas, respectivamente, nos artigos 195.º e 230.º do Tratado."
+  },
+  "aaaa2546c2182c3f": {
+   "fragment_id": "Artigo 5.º — Estatuto jurídico, centros regionais",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Estatuto jurídico, centros regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Estatuto jurídico, centros regionais\n\n1. A Agência é um organismo da Comunidade, dotado de personalidade jurídica.\n\n2. Em cada Estado-Membro, a Agência goza da capacidade jurídica mais vasta concedida às pessoas colectivas no direito nacional. Pode nomeadamente adquirir ou alienar bens móveis e imóveis e estar em juízo.\n\n3. A pedido da Comissão, o Conselho de Administração pode decidir criar, com o acordo e em cooperação com os Estados-Membros interessados, e tendo devidamente em conta a incidência orçamental, incluindo a contribuição que os Estados-Membros em causa possam dar, os centros regionais necessários para executar da maneira mais eficiente e eficaz possível algumas das funções da Agência. Ao tomar tal decisão, o Conselho de Administração define o âmbito preciso das atividades do centro regional, evitando ao mesmo tempo custos financeiros desnecessários e reforçando a cooperação com as redes regionais e nacionais existentes.\n\n4. A Agência é representada pelo seu director executivo."
+  },
+  "4473f5d9338e27b0": {
+   "fragment_id": "Artigo 9.º — Línguas",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Línguas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Línguas\n\n1. As disposições do Regulamento n.º 1, de 15 de Abril de 1958, que estabelece o regime linguístico da Comunidade Económica Europeia ([^21^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#E0021)), são aplicáveis à Agência.\n\n2. Os serviços de tradução necessários ao funcionamento da Agência são assegurados pelo Serviço de Tradução dos órgãos da União Europeia."
+  },
+  "07e3a16404a6d659": {
+   "fragment_id": "Artigo 10.º — Criação e competências do Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Criação e competências do Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Criação e competências do Conselho de Administração\n\n1. É criado um Conselho de Administração.\n\n2. O Conselho de Administração:\n\na) Nomeia o director executivo, nos termos do artigo 16.º;\n\nb) Aprova o relatório anual de atividades da Agência e envia-o, até 15 de junho de cada ano ao Parlamento Europeu, ao Conselho, à Comissão, ao Tribunal de Contas e aos Estados-Membros;\n\nc) Analisa e aprova, no âmbito da preparação do programa de trabalho, os pedidos de assistência à Comissão a que se refere o artigo 2.º, n.º 2, alínea d), os pedidos de assistência técnica dos Estados-Membros a que se refere o artigo 2.º, n.º 3, e os pedidos de assistência técnica a que se refere o artigo 2.º, n.º 5, bem como os pedidos de assistência a que se refere o artigo 2.º-A;\n\nc-A) Analisa e adota uma estratégia plurianual da Agência por um período de cinco anos, tendo em conta o parecer escrito da Comissão;\n\nc-B) Analisa e adota o plano plurianual da Agência sobre política de pessoal;\n\nc-C) Aprecia os projetos de acordos administrativos a que se refere o artigo 15.º, n.º 2, alínea b-A);\n\nd) Aprova, até 30 de Novembro de cada ano e tendo em conta o parecer da Comissão, o programa de trabalho da Agência para o ano seguinte e envia-o aos Estados-Membros, ao Parlamento Europeu, ao Conselho e à Comissão; este programa de trabalho será aprovado sem prejuízo do processo orçamental anual. Se, no prazo de 15 dias a contar da data da aprovação do programa de trabalho, a Comissão manifestar o seu desacordo com o citado programa, o Conselho de Administração voltará a analisar o programa e aprová-lo-á, eventualmente alterado, no prazo de dois meses, em segunda leitura por maioria de dois terços, incluindo os representantes da Comissão, ou por unanimidade dos representantes dos Estados-Membros;\n\ne) Aprova o orçamento definitivo da Agência antes do início do exercício financeiro, ajustando-o, se necessário, em função da contribuição comunitária e das outras receitas da Agência;\n\nf) Estabelece procedimentos para a tomada de decisões pelo director executivo;\n\ng) Estabelece a metodologia das visitas a realizar nos termos do artigo 3.º. Se, no prazo de 15 dias a contar da data de aprovação da metodologia, a Comissão manifestar o seu desacordo, o Conselho de Administração volta a analisá-la, adotando-a, alterada, se adequado, em segunda leitura, por maioria de dois terços, incluindo os representantes da Comissão, ou por unanimidade dos representantes dos Estados-Membros;\n\nh) Exerce as suas funções no que diz respeito ao orçamento da Agência, de acordo com o disposto nos artigos 18.º, 19.º e 21.º, e controla e dá o devido seguimento às conclusões e recomendações provenientes dos diversos relatórios de auditoria e avaliações, internos ou externos;\n\ni) Exerce a autoridade disciplinar sobre o diretor executivo e os chefes de departamento a que se refere o artigo 16.º;\n\nj) Aprova o seu regulamento interno;\n\nk) Adopta, nos termos da alínea d), um plano detalhado da capacidade de resposta e das actividades da Agência no domínio do combate à poluição, com vista à utilização optimizada dos meios financeiros à disposição da Agência;\n\nl) Examina a execução financeira do plano detalhado referido na alínea k) do presente número e as autorizações orçamentais previstas no Regulamento (CE) n.º 2038/2006 do Parlamento Europeu e do Conselho, de 18 de dezembro de 2006, relativo ao financiamento plurianual das atividades da Agência Europeia da Segurança Marítima no domínio do combate à poluição causada por navios ([^22^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#E0022));\n\nm) Nomeia, de entre os membros que o compõem, um observador para acompanhar o processo de seleção da Comissão para a nomeação do diretor executivo."
+  },
+  "ad2874cd7246557c": {
+   "fragment_id": "Artigo 11.º — Composição do Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Composição do Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Composição do Conselho de Administração\n\n1. O Conselho de Administração é composto por um representante de cada Estado-Membro e quatro representantes da Comissão, e ainda por: quatro representantes dos sectores profissionais mais relevantes nomeados pela Comissão sem direito de voto.\n\nOs membros do Conselho de Administração são nomeados com base no seu grau de experiência e conhecimentos pertinentes nos domínios a que se refere o artigo 1.º. Os Estados-Membros e a Comissão procuram assegurar uma representação equilibrada de homens e mulheres no Conselho de Administração.\n\n2. Os Estados-Membros e a Comissão nomeiam o respectivo membro do Conselho de Administração, bem como um suplente que representará o membro na sua ausência.\n\n3. O mandato tem a duração de quatro anos e é renovável.\n\n4. Se for caso disso, a participação de representantes de países terceiros e as respectivas condições serão estabelecidas nos convénios a que se refere o n.º 2 do artigo 17.º"
+  },
+  "8f416bc3d2571b42": {
+   "fragment_id": "Artigo 13.º — Reuniões",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Reuniões\n\n1. O Conselho de Administração reúne-se por convocação do seu presidente.\n\n2. O director executivo da Agência toma parte nas deliberações.\n\n3. O Conselho de Administração reúne-se em sessão ordinária duas vezes por ano. Além disso, reúne-se por iniciativa do seu presidente ou a pedido da Comissão ou de um terço dos Estados-Membros.\n\n4. Caso se trate de uma questão confidencial ou caso exista um conflito de interesses, o Conselho de Administração pode decidir analisar questões específicas da sua ordem do dia sem estarem presentes os membros em causa. As regras de execução desta disposição devem constar do regulamento interno.\n\n5. O Conselho de Administração pode convidar qualquer pessoa, cujo parecer tenha interesse, para assistir às suas reuniões na qualidade de observador.\n\n6. Os membros do Conselho de Administração podem, nos termos do regulamento interno, fazer-se assistir por conselheiros ou peritos.\n\n7. O secretariado do Conselho de Administração será assegurado pela Agência."
+  },
+  "d94d137383037f29": {
+   "fragment_id": "Artigo 15.º — Funções e competências do director executivo",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Funções e competências do director executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Funções e competências do director executivo\n\n1. A Agência é gerida pelo seu director executivo, que agirá em total independência no exercício das suas funções, sem prejuízo das respectivas competências da Comissão e do Conselho de Administração.\n\n2. O director executivo tem, nomeadamente, as seguintes funções e competências:\n\na) Preparar a estratégia plurianual da Agência e apresentá-la ao Conselho de Administração após consulta à Comissão pelo menos oito semanas antes da reunião relevante do Conselho de Administração, tendo em conta as posições e sugestões dos membros deste último;\n\na-A) Preparar o plano plurianual da Agência sobre política de pessoal e apresentá-lo ao Conselho de Administração após consulta à Comissão pelo menos quatro semanas antes da reunião relevante do Conselho de Administração;\n\na-B) Preparar o programa de trabalho anual da Agência, com uma previsão dos recursos humanos e financeiros afetos a cada atividade, e o plano detalhado das atividades da Agência em matéria de preparação e combate à poluição, e apresentá-los ao Conselho de Administração após consulta à Comissão pelo menos oito semanas antes da reunião relevante do Conselho de Administração, tendo em conta as opiniões e sugestões dos membros deste último. O diretor executivo deve tomar as medidas necessárias para a execução do programa e do plano. Deve também responder a todos os pedidos de assistência dos Estados-Membros, nos termos do artigo 10.º, n.º 2, alínea c);\n\nb) Decidir da realização das visitas e inspeções previstas no artigo 3.º, após consulta à Comissão e segundo a metodologia das visitas estabelecida pelo Conselho de Administração nos termos do artigo 10.º, n.º 2, alínea g);\n\nb-A) Celebrar, se assim o entender, acordos administrativos com outros organismos que trabalhem nos domínios de atividade da Agência, na condição de os projetos dos referidos acordos serem submetidos à apreciação do Conselho de Administração e de este não apresentar objeções no prazo de quatro semanas;\n\nc) Tomar as medidas necessárias, nomeadamente através da adopção de instruções administrativas internas e da publicação de comunicações, com vista a assegurar o funcionamento da Agência de acordo com as disposições do presente regulamento;\n\nd) Organizar um sistema de acompanhamento eficaz que lhe permita aferir as realizações da Agência à luz dos objetivos e funções estabelecidos no presente regulamento. Para esse efeito, deve estabelecer, com o acordo da Comissão e do Conselho de Administração, indicadores de desempenho específicos que permitam uma avaliação eficaz dos resultados obtidos. O diretor executivo deve assegurar que a estrutura organizativa da Agência seja regularmente adaptada à evolução das necessidades, tendo em conta os recursos humanos e financeiros disponíveis. Nesta base, o diretor executivo prepara, anualmente, um projeto de relatório geral que submete à apreciação do Conselho de Administração. O relatório deve incluir uma secção dedicada à execução financeira do plano detalhado das atividades da Agência em matéria de preparação e combate à poluição, bem como uma relação atualizada de todas as ações financiadas a título desse plano e do andamento das mesmas. O diretor executivo deve estabelecer procedimentos de avaliação periódica que correspondam às normas profissionais reconhecidas;\n\ne) Exercer, em relação ao pessoal, os poderes previstos no n.º 2 do artigo 6.º;\n\nf) Elaborar a previsão das receitas e despesas da Agência, de acordo com o estabelecido no artigo 18.º, e executa o orçamento nos termos do artigo 19.º.\n\n3. O diretor executivo deve apresentar, se adequado, um relatório ao Parlamento Europeu e ao Conselho sobre o desempenho das suas funções.\n\nEm especial, deve fazer o ponto da situação no que diz respeito à preparação da estratégia plurianual e ao programa de trabalho anual."
+  },
+  "4683f86ebcc4231c": {
+   "fragment_id": "Artigo 16.º — Nomeação e demissão do diretor executivo e dos chefes de departamento",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Nomeação e demissão do diretor executivo e dos chefes de departamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Nomeação e demissão do diretor executivo e dos chefes de departamento\n\n1. O diretor executivo é nomeado e demitido pelo Conselho de Administração. A nomeação é efetuada por um prazo de cinco anos, em função do mérito e da competência comprovada de administração e de gestão, bem como da experiência comprovada nos domínios a que se refere o artigo 1.º, depois de ouvido o observador a que se refere o artigo 10.º. O diretor executivo é nomeado de entre uma lista de pelo menos três candidatos propostos pela Comissão na sequência de um concurso aberto, após a publicação de um convite à manifestação de interesse para o lugar vago no *Jornal Oficial da União Europeia* e noutros meios de comunicação. O candidato selecionado pelo Conselho de Administração pode ser convidado a fazer uma declaração perante a comissão competente do Parlamento Europeu e a responder às perguntas dos respetivos membros. O Conselho de Administração delibera sobre a demissão a pedido da Comissão ou de um terço dos membros que o compõem. O Conselho de Administração toma a sua decisão de nomeação ou demissão por maioria de quatro quintos de todos os membros com direito de voto.\n\n2. Sob proposta da Comissão, e tendo em conta o relatório de avaliação, o Conselho de Administração pode prorrogar o mandato do diretor executivo uma vez, por um prazo não superior a quatro anos. O Conselho de Administração toma a sua decisão por maioria de quatro quintos de todos os membros com direito de voto. O Conselho de Administração deve informar o Parlamento Europeu da sua intenção de prorrogar o mandato do diretor executivo. No prazo de trinta dias que antecede a prorrogação do seu mandato, o diretor executivo pode ser convidado a fazer uma declaração perante a comissão competente do Parlamento Europeu e a responder às perguntas dos respetivos membros. Se o mandato não for prorrogado, o diretor executivo permanece em funções até à nomeação do seu sucessor.\n\n3. O diretor executivo pode ser assistido por um ou mais chefes de departamento. Em caso de ausência ou impedimento do diretor executivo, este é substituído nas suas funções por um dos chefes de departamento.\n\n4. Os chefes de departamento são nomeados em função do mérito e das suas capacidades comprovadas de administração e de gestão, bem como da sua competência e experiência profissionais nos domínios a que se refere o artigo 1.º. Os chefes de departamento são nomeados e demitidos pelo diretor executivo, após parecer favorável do Conselho de Administração."
+  },
+  "881159b1ebc8ab85": {
+   "fragment_id": "Artigo 18.º — Orçamento",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Orçamento\n\n1. As receitas da Agência provêm de:\n\na) Uma contribuição da Comunidade;\n\nb) Possíveis contribuições de países terceiros que participem nos trabalhos da Agência, nos termos do artigo 17.º;\n\nc) Honorários e taxas cobrados pela Agência por publicações, formação profissional e/ou outros serviços prestados.\n\n2. As despesas da Agência cobrem as despesas de pessoal, administrativas e de funcionamento.\n\n3. O diretor executivo elabora um mapa previsional das receitas e despesas da Agência para o exercício seguinte, baseado no princípio da orçamentação por atividades, e envia-o ao Conselho de Administração, juntamente com o mapa previsional do quadro de pessoal.\n\n4. As receitas e as despesas devem ser equilibradas.\n\n5. O Conselho de Administração elaborará anualmente, com base num projecto de mapa previsional das receitas e despesas, o mapa previsional das receitas e despesas da Agência para o exercício seguinte.\n\n6. Este mapa previsional, que incluirá um projecto de quadro de pessoal e é acompanhado do programa de trabalho provisório, será transmitido pelo Conselho de Administração, até 31 de Março, à Comissão, bem como aos Estados com os quais a Comunidade concluiu acordos nos termos do disposto no artigo 17.º.\n\n7. A Comissão transmite o mapa previsional ao Parlamento Europeu e ao Conselho («autoridade orçamental») juntamente com o projeto de orçamento geral da União Europeia.\n\n8. Com base no mapa previsional, a Comissão procede à inscrição, no projeto de orçamento geral da União Europeia, das previsões que considera necessárias no que respeita ao quadro de pessoal e ao montante da subvenção a cargo do orçamento geral, que submete à apreciação da autoridade orçamental nos termos do artigo 314.º do TFUE, juntamente com uma descrição e justificação de qualquer diferença entre o mapa previsional da Agência e a subvenção a cargo do orçamento geral.\n\n9. A autoridade orçamental autorizará as dotações a título da subvenção destinada à Agência.\n\nA autoridade orçamental aprovará o quadro de pessoal da Agência.\n\n10. O Conselho de Administração aprova o orçamento. O orçamento torna-se definitivo após a aprovação do orçamento geral da União Europeia. O orçamento da Agência e o seu programa de trabalho anual são adaptados em conformidade, se for caso disso.\n\n11. O Conselho de Administração notificará, com a maior brevidade, a autoridade orçamental da sua intenção de realizar qualquer projecto susceptível de ter incidências financeiras significativas sobre o financiamento do orçamento, nomeadamente os projectos de natureza imobiliária, tais como o arrendamento ou a aquisição de imóveis. Do facto informará a Comissão.\n\nSempre que um ramo da autoridade orçamental tiver comunicado a sua intenção de emitir um parecer, transmiti-lo-á ao Conselho de Administração no prazo de seis semanas a contar da notificação do projecto."
+  },
+  "ecb77809f1808b6f": {
+   "fragment_id": "Artigo 21.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Disposições financeiras\n\nApós consulta à Comissão, o Conselho de Administração aprovará a regulamentação financeira aplicável à Agência. Esta regulamentação só poderá divergir do disposto no Regulamento (CE, Euratom) n.º 2343/2002 da Comissão, de 19 de Novembro de 2002, que institui o Regulamento Financeiro Quadro dos organismos referidos no artigo 185.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias ([^23^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#E0023)), se as exigências específicas do funcionamento da Agência o impuserem e desde que a Comissão dê previamente o seu acordo."
+  },
+  "accd6be509fed5e1": {
+   "fragment_id": "Artigo 22.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Avaliação\n\n1. Periodicamente, e pelo menos de cinco em cinco anos, o Conselho de Administração encomenda uma avaliação externa independente da execução do presente regulamento. A Comissão põe à disposição da Agência as informações que esta considere relevantes para essa avaliação.\n\n2. A avaliação deve incidir sobre o impacto do presente regulamento e sobre a utilidade, a relevância, a mais-valia obtida e a eficácia da Agência e dos seus métodos de trabalho. A avaliação deve ter em conta os pontos de vista das partes interessadas, tanto a nível europeu como nacional. Deve examinar, em particular, a eventual necessidade de alterar as funções da Agência. O Conselho de Administração emite mandatos específicos com o acordo da Comissão, após consultas com as partes envolvidas.\n\n3. O Conselho de Administração recebe a avaliação e apresenta à Comissão recomendações sobre as alterações a introduzir no presente regulamento, na Agência e nos seus métodos de trabalho. Os resultados da avaliação e as recomendações são enviados pela Comissão ao Parlamento Europeu e ao Conselho, e publicados. Se necessário, é incluído um plano de ação acompanhado de um calendário de execução."
+  },
+  "cd3881a0746dcfa1": {
+   "fragment_id": "Artigo 22.º-A — Relatório intercalar",
+   "type": "artigo",
+   "heading": "Artigo 22.º-A — Relatório intercalar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º-A — Relatório intercalar\n\nAté 2 de março de 2018, e tendo em conta o relatório de avaliação a que se refere o artigo 22.º, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório sobre o modo como a Agência cumpriu as responsabilidades adicionais que lhe foram confiadas pelo presente regulamento, a fim de identificar novos ganhos de eficiência e, se for caso disso, razões para alterar os seus objetivos e as suas funções."
+  },
+  "62ef3545c96a0677": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#src.E0001)) JO C 120 E de 24.4.2001, p. 83, e\n\n> JO C 103 E de 30.4.2002, p. 184.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#src.E0002)) JO C 221 de 7.8.2001, p. 64.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#src.E0003)) JO C 357 de 14.12.2001, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 14 de Junho de 2001 (JO C 53 E de 28.2.2002, p. 312), posição comum do Conselho de 7 de Março de 2002 (JO C 119 E de 22.5.2002, p. 27) e decisão do Parlamento Europeu de 12 de Junho de 2002 (ainda não publicada no Jornal Oficial). Decisão do Conselho de 25 de Junho de 2002.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#src.E0005)) Ver página 10 do presente Jornal Oficial.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#src.E0006)) JO L 136 de 31.5.1999, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#src.E0007)) JO L 136 de 31.5.1999, p. 15.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#src.E0008)) JO L 129 de 29.4.2004, p. 6.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#src.E0009)) JO L 131 de 28.5.2009, p. 47.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#src.E0010)) JO L 314 de 1.12.2007, p. 9.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#src.E0011)) JO L 131 de 28.5.2009, p. 114.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#src.E0012)) JO L 131 de 28.5.2009, p. 57.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#src.E0013)) JO L 323 de 3.12.2008, p. 33.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#src.E0014)) JO L 255 de 30.9.2005, p. 11.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#src.E0015)) JO L 283 de 29.10.2010, p. 1.\n\n> ([^16^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#src.E0016)) JO L 164 de 25.6.2008, p. 19.\n\n> ([^17^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#src.E0017)) JO L 389 de 30.12.2006, p. 1.\n\n> ([^18^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#src.E0018)) JO L 131 de 28.5.2009, p. 11.\n\n> ([^19^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#src.E0019)) JO L 145 de 31.5.2001, p. 43.\n\n> ([^20^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#src.E0020)) JO L 8 de 12.1.2001, p. 1.\n\n> ([^21^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#src.E0021)) JO 17 de 6.10.1958, p. 385/58. Regulamento com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^22^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#src.E0022)) JO L 394 de 30.12.2006, p. 1.\n\n> ([^23^](http://publications.europa.eu/resource/cellar/b64d6f7f-90b0-4fdc-bdb5-f7a16c54986a.0018.03/DOC_1#src.E0023)) JO L 357 de 31.12.2002, p. 72 (rectificação no JO L 2 de 7.1.2003, p. 39)."
+  },
+  "b31e946a1017ea7e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Junho de 2002\n\nque institui a Agência Europeia da Segurança Marítima\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "d63ae402d214745c": {
+   "fragment_id": "Artigo 2.º — Funções principais da Agência",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Funções principais da Agência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Funções principais da Agência\n\n1. A fim de garantir a realização adequada dos objetivos estabelecidos no artigo 1.º, a Agência desempenha as funções principais enumeradas no presente artigo.\n\n2. A Agência assiste a Comissão:\n\na) Nos trabalhos preparatórios de atualização e desenvolvimento dos atos jurídicos aplicáveis da União, tendo em conta, nomeadamente, a evolução da legislação internacional;\n\nb) Na aplicação efetiva dos atos jurídicos vinculativos aplicáveis da União, nomeadamente efetuando visitas e inspeções nos termos do artigo 3.º do presente regulamento e prestando apoio técnico à Comissão no desempenho das funções de inspeção que lhe são atribuídas pelo artigo 9.º, n.º 4, do Regulamento (CE) n.º 725/2004 do Parlamento Europeu e do Conselho, de 31 de março de 2004, relativo ao reforço da proteção dos navios e das instalações portuárias ([^1^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#E0001)). Para o efeito, pode sugerir à Comissão eventuais alterações desses atos jurídicos vinculativos;\n\nc) Na análise de projetos de investigação, em curso e concluídos, relevantes para os objetivos da Agência; tal pode incluir a identificação de possíveis medidas de seguimento decorrentes de projetos de investigação específicos;\n\nd) No desempenho de qualquer outra função atribuída à Comissão pelos atos legislativos da União relativamente aos objetivos da Agência.\n\n3. A Agência colabora com os Estados-Membros para:\n\na) Organizar, se for caso disso, ações de formação relevantes nos domínios respeitantes às competências dos Estados-Membros;\n\nb) Desenvolver soluções técnicas, incluindo a prestação de serviços operacionais pertinentes, e prestar assistência técnica com vista à criação das capacidades nacionais necessárias à aplicação dos atos jurídicos aplicáveis da União;\n\nc) Prestar, a pedido de um Estado-Membro, informações adequadas resultantes das inspeções referidas no artigo 3.º, a fim de apoiar o controlo das organizações reconhecidas que cumprem funções de certificação em nome dos Estados-Membros nos termos do artigo 9.º da Diretiva 2009/15/CE do Parlamento Europeu e do Conselho, de 23 de abril de 2009, relativa às regras comuns para as organizações de vistoria e inspeção de navios e para as atividades relevantes das administrações marítimas ([^2^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#E0002)), sem prejuízo dos direitos e obrigações do Estado de pavilhão;\n\nd) Apoiar com meios adicionais e de modo rentável as intervenções em caso de poluição causada por navios, bem como de poluição marinha por instalações petrolíferas e gaseiras, sempre que o Estado-Membro afetado, sob cuja autoridade estão a ser efetuadas as operações de limpeza, tenha apresentado um pedido nesse sentido, sem prejuízo da responsabilidade dos Estados costeiros de se dotarem dos mecanismos de combate à poluição adequados e no respeito dos acordos de cooperação em vigor entre os Estados-Membros neste domínio. Se for caso disso, os pedidos de acionamento das intervenções de combate à poluição devem ser apresentados através do mecanismo de proteção civil da UE criado pela Decisão 2007/779/CE, Euratom do Conselho ([^3^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#E0003)).\n\n4. A Agência facilita a cooperação entre os Estados-Membros e a Comissão:\n\na) No domínio da vigilância do tráfego abrangido pela Diretiva 2002/59/CE, a Agência promove nomeadamente a cooperação entre os Estados ribeirinhos das zonas de transporte marítimo em causa, e desenvolve e explora o Centro de Dados de Identificação e Acompanhamento de Navios a Longa Distância da União Europeia e o sistema de intercâmbio de informações marítimas da União (SafeSeaNet), tal como referido nos artigos 6.º-B e 22.º-A dessa diretiva, bem como o sistema de intercâmbio de dados de Identificação e Seguimento de Navios a Longa Distância, em conformidade com o compromisso assumido no âmbito da Organização Marítima Internacional («OMI»);\n\nb) Fornecendo, a pedido e sem prejuízo do direito nacional e da União, dados pertinentes em matéria de posicionamento dos navios e de observação da Terra às autoridades nacionais e aos organismos da União competentes no âmbito do seu mandato para facilitar medidas contra a ameaça de atos de pirataria e ações ilícitas intencionais nos termos do direito aplicável da União ou nos termos de instrumentos jurídicos internacionalmente acordados no domínio dos transportes marítimos, sob reserva das regras aplicáveis em matéria de proteção de dados e em conformidade com os procedimentos administrativos que serão estabelecidos pelo Conselho de Administração ou pelo Grupo Diretor de Alto Nível criado nos termos da Diretiva 2002/59/CE, conforme o caso. A comunicação de dados de identificação e acompanhamento de navios a longa distância está sujeita ao consentimento do Estado de pavilhão em causa;\n\nc) No domínio da investigação de acidentes e incidentes marítimos nos termos da Diretiva 2009/18/CE do Parlamento Europeu e do Conselho, de 23 de abril de 2009, que estabelece os princípios fundamentais que regem a investigação de acidentes no setor do transporte marítimo ([^4^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#E0004)), a Agência presta, a pedido dos Estados-Membros em causa e no pressuposto de não virem a surgir conflitos de interesses, apoio operacional a estes Estados-Membros na realização dos inquéritos a acidentes graves ou muito graves e procede à análise dos relatórios dos inquéritos sobre segurança com vista a identificar a mais-valia para a União em termos de ensinamentos pertinentes a retirar. A Agência elabora uma síntese anual dos acidentes e incidentes marítimos com base nos dados comunicados pelos Estados-Membros nos termos do artigo 17.º dessa diretiva;\n\nd) Fornecendo-lhes estatísticas, informações e dados, objetivos, fiáveis e comparáveis, que lhes permitam tomar as medidas necessárias para melhorar a sua ação e para avaliar a eficácia e a rentabilidade das medidas em vigor. Esta tarefa compreende a recolha, o registo e a avaliação de dados técnicos, a exploração sistemática das bases de dados existentes, incluindo o seu cruzamento, e, se necessário, a criação de bases de dados suplementares. Com base nos dados coligidos, a Agência assiste a Comissão na publicação de informações relativas aos navios nos termos da Diretiva 2009/16/CE do Parlamento Europeu e do Conselho, de 23 de abril de 2009, relativa à inspeção de navios pelo Estado do porto ([^5^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#E0005));\n\ne) Na recolha e análise de dados relativos a marítimos comunicados e utilizados nos termos da Diretiva 2008/106/CE do Parlamento Europeu e do Conselho, de 19 de novembro de 2008, relativa ao nível mínimo de formação dos marítimos ([^6^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#E0006));\n\nf) Aperfeiçoando o processo de identificação e instauração de processos aos navios responsáveis por descargas ilícitas nos termos da Diretiva 2005/35/CE do Parlamento Europeu e do Conselho, de 7 de setembro de 2005, relativa à poluição por navios e à introdução de sanções em caso de infrações ([^7^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#E0007));\n\ng) Relativamente à poluição causada por instalações petrolíferas e gaseiras, utilizando o Serviço Europeu de Acompanhamento por Satélite do Derrame de Hidrocarbonetos (CleanSeaNet) para monitorizar a dimensão e o impacto ambiental dessa poluição;\n\nh) Prestando-lhes a assistência técnica necessária para contribuírem para os trabalhos pertinentes dos órgãos técnicos da OMI, da Organização Internacional do Trabalho no que diga respeito aos transportes marítimos, e do Memorando de Entendimento de Paris para a inspeção de navios pelo Estado do porto (Memorando de Entendimento de Paris) e de outras organizações regionais relevantes a que a União tenha aderido, no que respeite a matérias da competência da União;\n\ni) No que diz respeito à aplicação da Diretiva 2010/65/UE do Parlamento Europeu e do Conselho, de 20 de outubro de 2010, relativa às formalidades de declaração exigidas aos navios à chegada e/ou à partida dos portos dos Estados-Membros ([^8^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#E0008)), facilitando, nomeadamente, a transmissão eletrónica de dados através do SafeSeaNet e apoiando a criação de uma janela única.\n\n5. A pedido da Comissão, a Agência pode prestar assistência técnica, nomeadamente na organização de ações de formação relevantes, no que respeita aos atos jurídicos aplicáveis da União, aos Estados candidatos à adesão à União e, se aplicável, aos países parceiros abrangidos pela política europeia de vizinhança e aos países que participam no Memorando de Entendimento de Paris.\n\nA Agência pode igualmente prestar assistência em caso de poluição causada por navios, bem como de poluição marinha causada por instalações petrolíferas e gaseiras que afete os países terceiros que partilham um mar regional com a União, de acordo com o mecanismo de proteção civil da UE criado pela Decisão 2007/779/CE, Euratom, e em condições análogas às aplicáveis aos Estados-Membros, previstas no n.º 3, alínea d), do presente artigo. Estas funções devem ser coordenadas com os acordos de cooperação regional em vigor em matéria de poluição marinha."
+  },
+  "33af0fe9d8eeae72": {
+   "fragment_id": "Artigo 2.º-A — Funções acessórias da Agência",
+   "type": "artigo",
+   "heading": "Artigo 2.º-A — Funções acessórias da Agência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º-A — Funções acessórias da Agência\n\n1. Sem prejuízo das funções principais a que se refere o artigo 2.º, a Agência presta assistência à Comissão e aos Estados-Membros, consoante o caso, no desenvolvimento e na execução das atividades da União previstas nos n.^os^ 2 e 3 do presente artigo, relacionadas com os objetivos da Agência, na medida em que esta disponha de conhecimentos e meios especializados bem estabelecidos e reconhecidos. As funções acessórias enunciadas no presente artigo devem preencher as seguintes condições:\n\na) Devem constituir uma mais-valia substancial;\n\nb) Devem evitar duplicações de esforços;\n\nc) Devem servir o interesse da política de transportes marítimos da União;\n\nd) Não devem prejudicar as funções principais da Agência; e\n\ne) Não devem interferir com os direitos e obrigações dos Estados-Membros, em particular na sua qualidade de Estados de pavilhão, de porto ou costeiros.\n\n2. A Agência assiste a Comissão:\n\na) No contexto da execução da Diretiva 2008/56/CE do Parlamento Europeu e do Conselho (Diretiva-Quadro «Estratégia Marinha») ([^9^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#E0009)), contribuindo para o objetivo de obter um bom estado ambiental das águas marinhas através dos seus elementos associados aos transportes marítimos e explorando os resultados obtidos pelo recurso a instrumentos existentes, como o SafeSeaNet e o CleanSeaNet;\n\nb) Prestando-lhe assistência técnica na área das emissões de gases com efeito de estufa provenientes de navios, em particular no seguimento das evoluções registadas a nível internacional;\n\nc) No que respeita ao programa de Monitorização Global do Ambiente e da Segurança (GMES), na promoção da utilização de dados e serviços GMES para fins marítimos, no quadro da governação do GMES;\n\nd) Na criação de um ambiente comum de partilha de informação no domínio marítimo da União;\n\ne) No que respeita às instalações petrolíferas e gaseiras móveis ao largo, na análise dos requisitos da OMI e na recolha de informações básicas sobre as ameaças potenciais ao transporte marítimo e ao meio marinho;\n\nf) Prestando-lhe informações relevantes a respeito das sociedades de classificação de embarcações de navegação interior de acordo com a Diretiva 2006/87/CE do Parlamento Europeu e do Conselho, de 12 de dezembro de 2006, que estabelece as prescrições técnicas das embarcações de navegação interior ([^10^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#E0010)). Essas informações devem também constar dos relatórios a que se refere o artigo 3.º, n.^os^ 4 e 5, do presente regulamento.\n\n3. A Agência assiste a Comissão e os Estados-Membros:\n\na) Na análise da viabilidade e na execução de políticas e projetos que apoiem a criação do espaço europeu de transporte marítimo sem barreiras, como o conceito de «Cintura Azul» e os serviços eletrónicos marítimos, bem como as autoestradas do mar. Tal implica, em particular, a exploração de novas funcionalidades do SafeSeaNet, sem prejuízo das funções do Grupo Diretor de Alto Nível criado nos termos da Diretiva 2002/59/CE;\n\nb) Explorando, com as autoridades competentes para os Serviços de Informação Fluvial, a possibilidade de partilhar informações entre esse sistema e os sistemas de informação sobre o transporte marítimo, com base no relatório previsto no artigo 15.º da Diretiva 2010/65/UE;\n\nc) Facilitando o intercâmbio voluntário das melhores práticas na formação e na educação marítimas na União e proporcionando informação sobre os programas de intercâmbio da União no domínio da formação marítima, no pleno respeito do artigo 166.º do Tratado sobre o Funcionamento da União Europeia (TFUE)."
+  },
+  "fe9cb117dee3ce7e": {
+   "fragment_id": "Artigo 2.º-B — Cooperação europeia no que se refere a funções de guarda costeira",
+   "type": "artigo",
+   "heading": "Artigo 2.º-B — Cooperação europeia no que se refere a funções de guarda costeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º-B — Cooperação europeia no que se refere a funções de guarda costeira\n\n1. A Agência, em cooperação com a Agência Europeia da Guarda de Fronteiras e Costeira, criada pelo Regulamento (UE) 2016/1624 do Parlamento Europeu e do Conselho ([^11^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#E0011)), e com a Agência Europeia de Controlo das Pescas, criada pelo Regulamento (CE) n.º 768/2005 do Conselho ([^12^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#E0012)), cada uma no âmbito dos respetivos mandatos, apoia as autoridades nacionais que exercem funções de guarda costeira a nível nacional e da União e, se for caso disso, a nível internacional, mediante:\n\na) partilha, compilação e análise de informações disponíveis nos sistemas de comunicação dos navios e noutros sistemas de informação existentes nessas agências ou a que estas tenham acesso, em conformidade com as respetivas bases jurídicas e sem prejuízo dos direitos de propriedade dos Estados-Membros sobre esses dados;\n\nb) prestação de serviços de vigilância e de comunicação baseados em tecnologias de ponta, incluindo infraestruturas espaciais e terrestres e sensores instalados em qualquer tipo de plataformas;\n\nc) desenvolvimento de capacidades através da elaboração de orientações, de recomendações e da definição de boas práticas, da realização de ações de formação e do intercâmbio de pessoal;\n\nd) reforço da troca de informações e da cooperação no âmbito do exercício das funções de guarda costeira, nomeadamente analisando os desafios operacionais e os riscos emergentes no domínio marítimo;\n\ne) partilha de capacidades através do planeamento e da execução de operações polivalentes e da partilha de recursos e de outras competências, na medida em que essas atividades sejam coordenadas por essas agências, com o acordo das autoridades competentes dos Estados-Membros em causa.\n\n2. Sem prejuízo dos poderes do Conselho de Administração da Agência, previstos no artigo 10.º, n.º 2, as formas precisas de cooperação no que se refere às funções de guarda costeira entre a Agência, a Agência Europeia da Guarda de Fronteiras e Costeira e a Agência Europeia de Controlo das Pescas são determinadas através de um acordo de trabalho, em consonância com os respetivos mandatos e com as regras financeiras aplicáveis a essas agências. Esse acordo é aprovado pelo Conselho de Administração da Agência, pelo Conselho de Administração da Agência Europeia de Controlo das Pescas e pelo Conselho de Administração da Agência Europeia da Guarda de Fronteiras e Costeira.\n\n3. A Comissão, em estreita cooperação com os Estados-Membros, com a Agência, com a Agência Europeia da Guarda de Fronteiras e Costeira e com a Agência Europeia de Controlo das Pescas, disponibiliza um manual prático sobre a cooperação europeia no que se refere às funções de guarda costeira. Esse manual deve conter diretrizes, recomendações e boas práticas para o intercâmbio de informações. A Comissão adota o manual sob a forma de uma recomendação.\n\n4. As funções enumeradas no presente artigo não prejudicam as funções da Agência a que se refere o artigo 2.º nem os direitos e as obrigações dos Estados-Membros, nomeadamente enquanto Estados de bandeira, Estados do porto ou Estados costeiros."
+  },
+  "51e3098767d1c3a4": {
+   "fragment_id": "Artigo 3.º — Visitas aos Estados-Membros e inspeções",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Visitas aos Estados-Membros e inspeções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Visitas aos Estados-Membros e inspeções\n\n1. A fim de desempenhar as funções que lhe são confiadas e de assistir a Comissão no cumprimento das obrigações que lhe incumbem por força do TFUE, nomeadamente a avaliação da aplicação eficaz da legislação aplicável da União, a Agência efetua visitas aos Estados-Membros de acordo com a metodologia definida pelo Conselho da Administração.\n\n2. A Agência informa com a devida antecedência o Estado-Membro em causa da visita prevista, da identidade dos funcionários autorizados, da data do início da visita e da duração estimada. Os funcionários da Agência mandatados para essas visitas efetuam-nas mediante a apresentação, por escrito, de uma decisão do diretor executivo da Agência, especificando o objetivo e a finalidade da sua missão.\n\n3. A Agência efetua inspeções em nome da Comissão exigidas por atos jurídicos vinculativos da União no que se refere a organizações reconhecidas pela União, nos termos do Regulamento (CE) n.º 391/2009 do Parlamento Europeu e do Conselho, de 23 de abril de 2009, relativo às regras comuns para as organizações de vistoria e inspeção de navios ([^13^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#E0013)), e no que se refere à formação e certificação dos marítimos em países terceiros, nos termos da Diretiva 2008/106/CE.\n\n4. No fim de cada visita ou inspeção, a Agência elabora um relatório e envia-o à Comissão e ao Estado-Membro interessado.\n\n5. Se necessário, e sempre que for concluído um ciclo de visitas ou inspeções, a Agência analisa os respetivos relatórios para retirar conclusões de caráter transversal e geral quanto à eficácia e à rentabilidade das medidas em vigor. A Agência apresenta essa análise à Comissão para ulterior discussão com os Estados-Membros, a fim de tirar as ilações relevantes e de facilitar a divulgação das boas práticas de trabalho."
+  },
+  "f14dc70ec44b65d5": {
+   "fragment_id": "Artigo 4.º — Transparência e protecção das informações",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Transparência e protecção das informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Transparência e protecção das informações\n\n1. O Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho, de 30 de Maio de 2001, relativo ao acesso do público aos documentos do Parlamento Europeu, do Conselho e da Comissão ([^14^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#E0014)), é aplicável aos documentos detidos pela Agência.\n\n2. A Agência pode fazer comunicações, por iniciativa própria, nos domínios da sua competência. Em especial, assegurará que sejam rapidamente fornecidos ao público e a quaisquer partes interessadas informações objectivas, fiáveis e facilmente compreensíveis sobre o seu trabalho.\n\n3. O Conselho de Administração aprova as modalidades práticas de aplicação dos n.^os^ 1 e 2, nomeadamente, se for caso disso, as que se apliquem às consultas com os Estados-Membros antes da publicação das informações.\n\n4. As informações recolhidas e tratadas pela Comissão e pela Agência nos termos do presente regulamento estão sujeitas às disposições do Regulamento (CE) n.º 45/2001 do Parlamento Europeu e do Conselho, de 18 de dezembro de 2000, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e órgãos comunitários e à livre circulação desses dados ([^15^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#E0015)), e a Agência toma as medidas necessárias para que as informações confidenciais sejam tratadas em condições de segurança.\n\n5. As decisões tomadas pela Agência ao abrigo do artigo 8.º do Regulamento (CE) n.º 1049/2001 podem dar lugar à apresentação de queixa junto do Provedor de Justiça Europeu ou ser impugnadas no Tribunal de Justiça, nas condições previstas, respectivamente, nos artigos 195.º e 230.º do Tratado."
+  },
+  "58e5613177ea294d": {
+   "fragment_id": "Artigo 9.º — Línguas",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Línguas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Línguas\n\n1. As disposições do Regulamento n.º 1, de 15 de Abril de 1958, que estabelece o regime linguístico da Comunidade Económica Europeia ([^16^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#E0016)), são aplicáveis à Agência.\n\n2. Os serviços de tradução necessários ao funcionamento da Agência são assegurados pelo Serviço de Tradução dos órgãos da União Europeia."
+  },
+  "ddf98bd788c2741e": {
+   "fragment_id": "Artigo 10.º — Criação e competências do Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Criação e competências do Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Criação e competências do Conselho de Administração\n\n1. É criado um Conselho de Administração.\n\n2. O Conselho de Administração:\n\na) Nomeia o director executivo, nos termos do artigo 16.º;\n\nb) Aprova o relatório anual de atividades da Agência e envia-o, até 15 de junho de cada ano ao Parlamento Europeu, ao Conselho, à Comissão, ao Tribunal de Contas e aos Estados-Membros;\n\nc) Analisa e aprova, no âmbito da preparação do programa de trabalho, os pedidos de assistência à Comissão a que se refere o artigo 2.º, n.º 2, alínea d), os pedidos de assistência técnica dos Estados-Membros a que se refere o artigo 2.º, n.º 3, e os pedidos de assistência técnica a que se refere o artigo 2.º, n.º 5, bem como os pedidos de assistência a que se refere o artigo 2.º-A;\n\nc-A) Analisa e adota uma estratégia plurianual da Agência por um período de cinco anos, tendo em conta o parecer escrito da Comissão;\n\nc-B) Analisa e adota o plano plurianual da Agência sobre política de pessoal;\n\nc-C) Aprecia os projetos de acordos administrativos a que se refere o artigo 15.º, n.º 2, alínea b-A);\n\nd) Aprova, até 30 de Novembro de cada ano e tendo em conta o parecer da Comissão, o programa de trabalho da Agência para o ano seguinte e envia-o aos Estados-Membros, ao Parlamento Europeu, ao Conselho e à Comissão; este programa de trabalho será aprovado sem prejuízo do processo orçamental anual. Se, no prazo de 15 dias a contar da data da aprovação do programa de trabalho, a Comissão manifestar o seu desacordo com o citado programa, o Conselho de Administração voltará a analisar o programa e aprová-lo-á, eventualmente alterado, no prazo de dois meses, em segunda leitura por maioria de dois terços, incluindo os representantes da Comissão, ou por unanimidade dos representantes dos Estados-Membros;\n\ne) Aprova o orçamento definitivo da Agência antes do início do exercício financeiro, ajustando-o, se necessário, em função da contribuição comunitária e das outras receitas da Agência;\n\nf) Estabelece procedimentos para a tomada de decisões pelo director executivo;\n\ng) Estabelece a metodologia das visitas a realizar nos termos do artigo 3.º. Se, no prazo de 15 dias a contar da data de aprovação da metodologia, a Comissão manifestar o seu desacordo, o Conselho de Administração volta a analisá-la, adotando-a, alterada, se adequado, em segunda leitura, por maioria de dois terços, incluindo os representantes da Comissão, ou por unanimidade dos representantes dos Estados-Membros;\n\nh) Exerce as suas funções no que diz respeito ao orçamento da Agência, de acordo com o disposto nos artigos 18.º, 19.º e 21.º, e controla e dá o devido seguimento às conclusões e recomendações provenientes dos diversos relatórios de auditoria e avaliações, internos ou externos;\n\ni) Exerce a autoridade disciplinar sobre o diretor executivo e os chefes de departamento a que se refere o artigo 16.º;\n\nj) Aprova o seu regulamento interno;\n\nk) Adopta, nos termos da alínea d), um plano detalhado da capacidade de resposta e das actividades da Agência no domínio do combate à poluição, com vista à utilização optimizada dos meios financeiros à disposição da Agência;\n\nl) Examina a execução financeira do plano detalhado referido na alínea k) do presente número e as autorizações orçamentais previstas no Regulamento (CE) n.º 2038/2006 do Parlamento Europeu e do Conselho, de 18 de dezembro de 2006, relativo ao financiamento plurianual das atividades da Agência Europeia da Segurança Marítima no domínio do combate à poluição causada por navios ([^17^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#E0017));\n\nm) Nomeia, de entre os membros que o compõem, um observador para acompanhar o processo de seleção da Comissão para a nomeação do diretor executivo."
+  },
+  "62615c30677996f8": {
+   "fragment_id": "Artigo 21.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Disposições financeiras\n\nApós consulta à Comissão, o Conselho de Administração aprovará a regulamentação financeira aplicável à Agência. Esta regulamentação só poderá divergir do disposto no Regulamento (CE, Euratom) n.º 2343/2002 da Comissão, de 19 de Novembro de 2002, que institui o Regulamento Financeiro Quadro dos organismos referidos no artigo 185.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias ([^18^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#E0018)), se as exigências específicas do funcionamento da Agência o impuserem e desde que a Comissão dê previamente o seu acordo."
+  },
+  "55983aa5d1408a1c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#src.E0001)) JO L 129 de 29.4.2004, p. 6.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#src.E0002)) JO L 131 de 28.5.2009, p. 47.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#src.E0003)) JO L 314 de 1.12.2007, p. 9.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#src.E0004)) JO L 131 de 28.5.2009, p. 114.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#src.E0005)) JO L 131 de 28.5.2009, p. 57.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#src.E0006)) JO L 323 de 3.12.2008, p. 33.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#src.E0007)) JO L 255 de 30.9.2005, p. 11.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#src.E0008)) JO L 283 de 29.10.2010, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#src.E0009)) JO L 164 de 25.6.2008, p. 19.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#src.E0010)) JO L 389 de 30.12.2006, p. 1.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#src.E0011)) Regulamento (UE) 2016/1624 do Parlamento Europeu e do Conselho, de 14 de setembro de 2016, relativo à Guarda Europeia de Fronteiras e Costeira, que altera o Regulamento (UE) 2016/399 do Parlamento Europeu e do Conselho e que revoga o Regulamento (CE) n.º 863/2007 do Parlamento Europeu e do Conselho, o Regulamento (CE) n.º 2007/2004 do Conselho e a Decisão 2005/267/CE do Conselho (JO L 251 de 16.9.2016, p. 1).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#src.E0012)) Regulamento (CE) n.º 768/2005 do Conselho, de 26 de abril de 2005, que estabelece uma Agência Comunitária de Controlo das Pescas e que altera o Regulamento (CEE) n.º 2847/93 que institui um regime de controlo aplicável à política comum das pescas (JO L 128 de 21.5.2005, p. 1).\n\n> ([^13^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#src.E0013)) JO L 131 de 28.5.2009, p. 11.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#src.E0014)) JO L 145 de 31.5.2001, p. 43.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#src.E0015)) JO L 8 de 12.1.2001, p. 1.\n\n> ([^16^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#src.E0016)) JO 17 de 6.10.1958, p. 385/58. Regulamento com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^17^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#src.E0017)) JO L 394 de 30.12.2006, p. 1.\n\n> ([^18^](http://publications.europa.eu/resource/cellar/e2689954-0196-4f39-81ff-ab8cac87bfc9.0015.02/DOC_1#src.E0018)) JO L 357 de 31.12.2002, p. 72 (rectificação no JO L 2 de 7.1.2003, p. 39)."
+  }
+ }
+}

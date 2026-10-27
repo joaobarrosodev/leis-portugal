@@ -1,0 +1,173 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32014L0021:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0021-20200216",
+ "dre_path": null,
+ "source_lastmod": "2020-02-16",
+ "versions": [
+  {
+   "date": "2014-02-07",
+   "future": false,
+   "celex": "32014L0021",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "dfb9d91bf5e4f7fe",
+    "47f685d0b46a3443",
+    "4b98c064b115a7db",
+    "16b9353a7d5285f0",
+    "7dec43cd57f5a6f8",
+    "19abccc57e34eef5",
+    "b6e1fba398d78dd0",
+    "287396d111d09b86"
+   ]
+  },
+  {
+   "date": "2020-02-16",
+   "future": false,
+   "celex": "02014L0021-20200216",
+   "acts": [
+    {
+     "id": "eu:celex:32020L0177:por",
+     "title": "DIRETIVA DE EXECUÇÃO (UE) 2020/177 DA COMISSÃO Texto relevante para efeitos do EEE de 11 de fevereiro de 2020",
+     "published": null,
+     "celex": "32020L0177"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Condições mínimas para as batatas de semente de pré-base",
+    "Altera Artigo 3.º — Condições mínimas para os lotes de batatas de semente de pré-base",
+    "Altera Artigo 6.º — Destinatários",
+    "Adita ANEXO",
+    "Adita Condições para a colocação no mercado das batatas de semente de pré-base das classes da União PBTC e PB",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "5909a94935883c6b",
+    "47f685d0b46a3443",
+    "17f793374a5953b3",
+    "c8a56ac1469cd26c",
+    "7dec43cd57f5a6f8",
+    "19abccc57e34eef5",
+    "aeff1eae8e14b914",
+    "10220b9774fa9034",
+    "d7f70ec33c674026"
+   ]
+  }
+ ],
+ "fragments": {
+  "dfb9d91bf5e4f7fe": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de fevereiro de 2014\n\nque determina as condições mínimas e as classes da União de batatas de semente de pré-base\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Diretiva 2002/56/CE do Conselho, de 13 de junho de 2002, relativa à comercialização de batatas de semente [([^1])](http://publications.europa.eu/resource/cellar/ebf2a6e5-8fd9-11e3-b19c-01aa75ed71a1.0019.03/DOC_1#ntr1-L_2014038PT.01003901-E0001), nomeadamente o artigo 18.º, alínea c),\n\nConsiderando o seguinte:\n\n(1) As batatas de semente acumulam doenças progressivamente com cada ciclo de multiplicação. O adequado funcionamento dos sistemas de produção de batata de semente exigem, consequentemente, uma matéria inicial sã e suscetível de ser multiplicada com uma taxa mínima de degenerescência.\n\n(2) As diferentes normas nacionais relativas à produção de batatas de semente de pré-base têm constituído obstáculos à comercialização dessas batatas em toda a União e colocaram entraves ao funcionamento do mercado interno. Por conseguinte, é adequado estabelecer condições mínimas ao abrigo das quais as batatas de semente de pré-base possam ser comercializadas em toda a União. Essas condições devem abranger doenças, sintomas, defeitos e requisitos de produção para as batatas de semente de pré-base e para os lotes dessas batatas, a fim de assegurar a produção e a comercialização de batatas de semente de pré-base sãs e de elevada qualidade.\n\n(3) Essas condições devem ter em consideração a norma da Comissão Económica das Nações Unidas para a Europa (CEE-ONU) relativa à comercialização e ao controlo da qualidade comercial da batata de semente, bem como as normas pertinentes da Convenção Fitossanitária Internacional (CFI) e da Organização Europeia e Mediterrânica de Proteção das Plantas (OEPP), à luz da evolução técnica e científica. Estas normas visam contribuir para facilitar o comércio internacional, incentivando uma produção de elevada qualidade, a melhoria da rendibilidade e a defesa dos interesses dos consumidores.\n\n(4) Tendo em conta as práticas de produção dos fornecedores e a procura dos utilizadores de batatas de semente de pré-base, é adequado que as condições mínimas estabelecidas para as batatas de semente de pré-base incluam também a possibilidade de estas batatas serem comercializadas em conformidade com as classes da União. Devem aplicar-se duas classes da União para as batatas de semente de pré-base («classe da União PBTC» e «classe da União PB»), em conformidade com as práticas de produção existentes relativamente às batatas de semente de pré-base da classe PBTC e às batatas de semente de pré-base da classe PB. Por conseguinte, devem ser adotadas condições diferentes para cada classe no que diz respeito a doenças, sintomas, defeitos, requisitos de produção e gerações dessas classes.\n\n(5) Para serem eficazes, estas regras devem também conter disposições relativas a ensaios oficiais e a inspeções oficiais de campo.\n\n(6) As medidas previstas na presente diretiva estão em conformidade com o parecer do Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais,\n\nADOTOU A PRESENTE DIRETIVA:"
+  },
+  "47f685d0b46a3443": {
+   "fragment_id": "Artigo 1.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definições\n\nPara efeitos da presente diretiva, entende-se por:\n\n1) «Planta-mãe», uma planta identificada a partir da qual é recolhido material para propagação;\n\n2) «Micropropagação», a prática de multiplicação rápida de material vegetal para a produção de um grande número de plantas, utilizando a cultura *in vitro* de gomos vegetativos diferenciados ou meristemas colhidos a partir de uma planta."
+  },
+  "4b98c064b115a7db": {
+   "fragment_id": "Artigo 2.º — Condições mínimas para as batatas de semente de pré-base",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Condições mínimas para as batatas de semente de pré-base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Condições mínimas para as batatas de semente de pré-base\n\n1. Os Estados-Membros devem assegurar que as batatas de semente de pré-base cumprem as seguintes condições mínimas:\n\na) Derivam da planta-mãe, que deve estar isenta dos seguintes organismos prejudiciais: *Pectobacterium* spp., *Dickeya* spp., vírus do enrolamento da folha da batateira, vírus A da batata, vírus M da batata, vírus S da batata, vírus X da batata e vírus Y da batata;\n\nb) Estão isentas de sintomas de pé negro;\n\nc) A percentagem em número de plantas em crescimento não conformes com a variedade e a de plantas de variedades estranhas não devem ultrapassar, em conjunto, 0,01 %;\n\nd) Na descendência direta, a percentagem em número de plantas com sintomas de viroses, não deve ultrapassar 0,5 %;\n\ne) A percentagem em número de plantas em crescimento com sintomas de mosaico ou com sintomas causados pelo vírus do enrolamento da folha da batateira não deve ultrapassar 0,1 %;\n\nf) O número máximo de gerações no campo deve ser limitado a quatro.\n\n2. Os Estados-Membros devem assegurar que as batatas de semente de pré-base podem ser comercializadas como «classes da União PBTC» e «classe da União PB», em conformidade com as condições estabelecidas no anexo.\n\n3. A conformidade com os requisitos do n.º 1, alíneas b), c) e e), deve ser estabelecida através de inspeções oficiais de campo. Em caso de dúvida, tais inspeções devem ser complementadas por testes oficiais às folhas.\n\nQuando forem utilizados métodos de micropropagação, a conformidade com o disposto no n.º 1, alínea a), deve ser verificada através de um teste oficial, ou sob supervisão oficial, à planta-mãe.\n\nSempre que forem utilizados métodos de seleção clonal, a conformidade com o disposto no n.º 1, alínea a), deve ser verificada através de um teste oficial, ou sob supervisão oficial, aos clones existentes."
+  },
+  "16b9353a7d5285f0": {
+   "fragment_id": "Artigo 3.º — Condições mínimas para os lotes de batatas de semente de pré-base",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Condições mínimas para os lotes de batatas de semente de pré-base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições mínimas para os lotes de batatas de semente de pré-base\n\nOs Estados-Membros devem assegurar que os lotes de batatas de semente de pré-base cumprem as seguintes condições mínimas:\n\na) A presença de terra e de corpos estranhos não deve ultrapassar 1,0 % em massa;\n\nb) A percentagem em número de batatas afetadas por podridão, exceto a podridão anelar ou mal murcho da batateira, não deve ultrapassar 0,2 % em massa;\n\nc) A percentagem em número de batatas com imperfeições exteriores, incluindo tubérculos disformes ou feridos, não deve ultrapassar 3,0 % em massa;\n\nd) A percentagem em número de batatas afetadas por sarna comum em mais de um terço da sua superfície não deve ultrapassar 5,0 % em massa;\n\ne) A percentagem em número de batatas afetadas por rizoctónia em mais de 10,0 % da sua superfície não deve ultrapassar 1,0 % em massa;\n\nf) A percentagem em número de batatas afetadas pela sarna pulverulenta, em mais de 10,0 % da sua superfície, não deve ultrapassar 1,0 % em massa;\n\ng) Os tubérculos enrugados devido a desidratação excessiva ou desidratação causada pela sarna prateada não devem ultrapassar 0,5 % em massa;\n\nh) O número total de batatas referidas nas subalíneas b) a g) não deve ultrapassar 6,0 % em massa."
+  },
+  "7dec43cd57f5a6f8": {
+   "fragment_id": "Artigo 4.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Transposição\n\n1. Os Estados-Membros devem adotar e publicar, até 31 de dezembro de 2015, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente diretiva. Os Estados-Membros devem comunicar imediatamente à Comissão o texto dessas disposições.\n\nOs Estados-Membros devem aplicar as referidas disposições a partir de 1 de janeiro de 2016.\n\nAs disposições adotadas pelos Estados-Membros devem fazer referência à presente diretiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. Os Estados Membros estabelecem o modo como deve ser feita a referência.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que adotarem no domínio abrangido pela presente diretiva."
+  },
+  "19abccc57e34eef5": {
+   "fragment_id": "Artigo 5.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente diretiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "b6e1fba398d78dd0": {
+   "fragment_id": "Artigo 6.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Destinatários\n\nOs destinatários da presente diretiva são os Estados-Membros.\n\nFeito em Bruxelas, em 6 de fevereiro de 2014.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "287396d111d09b86": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/ebf2a6e5-8fd9-11e3-b19c-01aa75ed71a1.0019.03/DOC_1#ntc1-L_2014038PT.01003901-E0001) [JO L 193 de 20.7.2002, p. 60](http://publications.europa.eu/resource/oj/JOL_2002_193_R_TOC)."
+  },
+  "5909a94935883c6b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de fevereiro de 2014\n\nque determina as condições mínimas e as classes da União de batatas de semente de pré-base\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "17f793374a5953b3": {
+   "fragment_id": "Artigo 2.º — Condições mínimas para as batatas de semente de pré-base",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Condições mínimas para as batatas de semente de pré-base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Condições mínimas para as batatas de semente de pré-base\n\n1. Os Estados-Membros devem assegurar que as batatas de semente de pré-base cumprem as seguintes condições mínimas:\n\na) Derivam de plantas-mãe que estão isentas das seguintes pragas: *Pectobacterium* spp., *Dickeya* spp., *Candidatus* Liberibacter solanacearum, *Candidatus* Phytoplasma solani, *Potato spindle tuber viroid*, *Potato leaf roll virus*, *Potato virus A*, *Potato virus M*, *Potato virus S*, *Potato virus X* e *Potato virus Y*;\n\nb) A percentagem em número de vegetais em crescimento não conformes com a variedade e a de vegetais de variedades estranhas não devem ultrapassar, em conjunto, 0,01 %;\n\nc) O número máximo de gerações no campo deve ser limitado a quatro;\n\nd) As RNQP, ou os sintomas causados por estas, não devem estar presentes acima dos limiares nas batatas de semente de pré-base, em conformidade com o seguinte quadro:\n\nRNQP ou sintomas causados por RNQP Limiar para a presença de RNQP nos vegetais em crescimento para batatas de semente de pré-base\n\nPé negro (*Dickeya* Samson *et al*. spp. [1DICKG]; *Pectobacterium* Waldee emend. Hauben *et al*. spp. [1PECBG]) 0 %\n\n*Candidatus* Liberibacter *solanacearum* Liefting *et al*. [LIBEPS] 0 %\n\n*Candidatus* Phytoplasma *solani* Quaglino *et al*. [PHYPSO] 0 %\n\nSintomas de mosaico causados por vírus e sintomas causados pelo *Potato leaf roll virus* [PLRV00] 0,1 %\n\n*Potato spindle tuber viroid* [PSTVD0] 0 %\n\nRNQP ou sintomas causados por estas Limiar para a presença de RNQP na descendência direta de batatas de semente de pré-base\n\nSintomas de infeção viral 0,5 %\n\n2. Os Estados-Membros devem assegurar que as batatas de semente de pré-base podem ser comercializadas como «classes da União PBTC» e «classe da União PB», em conformidade com as condições estabelecidas no anexo.\n\n3. A conformidade com os requisitos do n.º 1, alíneas b) e d), deve ser verificada através de inspeções oficiais de campo. Em caso de dúvida, tais inspeções devem ser complementadas por testes oficiais às folhas.\n\nQuando forem utilizados métodos de micropropagação, a conformidade com o disposto no n.º 1, alínea a), deve ser verificada através de um teste oficial, ou sob supervisão oficial, à planta-mãe.\n\nQuando forem utilizados métodos de seleção clonal, a conformidade com o disposto no n.º 1, alínea a), deve ser verificada através de um teste oficial, ou sob supervisão oficial, aos clones existentes."
+  },
+  "c8a56ac1469cd26c": {
+   "fragment_id": "Artigo 3.º — Condições mínimas para os lotes de batatas de semente de pré-base",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Condições mínimas para os lotes de batatas de semente de pré-base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições mínimas para os lotes de batatas de semente de pré-base\n\nOs Estados-Membros devem assegurar que os lotes de batatas de semente de pré-base cumprem as seguintes condições mínimas:\n\na) A presença de terra e de corpos estranhos não deve ultrapassar 1,0 % em massa;\n\nb) A percentagem em número de batatas afetadas por podridão, exceto a podridão anelar ou mal murcho da batateira, não deve ultrapassar 0,2 % em massa;\n\nc) A percentagem em número de batatas com imperfeições exteriores, incluindo tubérculos disformes ou feridos, não deve ultrapassar 3,0 % em massa;\n\nd) A percentagem em número de batatas afetadas por sarna comum em mais de um terço da sua superfície não deve ultrapassar 5,0 % em massa;\n\ne) Os tubérculos enrugados devido a desidratação excessiva ou desidratação causada pela sarna prateada não devem ultrapassar 0,5 % em massa,\n\nf) Os lotes de batatas de semente de pré-base devem cumprir os seguintes requisitos relativos à presença de RNQP ou doenças causadas pelas respetivas RNQP tal como indicados no quadro:\n\nRNQP ou sintomas causados por RNQP Limiar para a presença de RNQP nos lotes de batatas de semente de pré-base\n\n*Candidatus* Liberibacter *solanacearum* Liefting *et al*. [LIBEPS] 0 %\n\n*Ditylenchus destructor* Thorne [DITYDE] 0 %\n\nRizotónia que afeta os tubérculos em mais de 10 % da sua superfície, causada por *Thanatephorus cucumeris* (A.B. Frank) Donk [RHIZSO] 1,0 %\n\nSarna pulverulenta que afeta os tubérculos em mais de 10 % da sua superfície, causada por *Spongospora subterranea* (Wallr.) Lagerh. [SPONSU] 1,0 %\n\ng) O número total de batatas referidas nas alíneas b) a f) não deve ultrapassar 6,0 % em massa."
+  },
+  "aeff1eae8e14b914": {
+   "fragment_id": "Artigo 6.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Destinatários\n\nOs destinatários da presente diretiva são os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "d7f70ec33c674026": {
+   "fragment_id": "Condições para a colocação no mercado das batatas de semente de pré-base das classes da União PBTC e PB",
+   "type": "divisao",
+   "heading": "Condições para a colocação no mercado das batatas de semente de pré-base das classes da União PBTC e PB",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Condições para a colocação no mercado das batatas de semente de pré-base das classes da União PBTC e PB\n\n1) As batatas de semente de pré-base da classe da União PBTC devem cumprir as seguintes condições:\n\na) Condições aplicáveis a batatas de semente:\n\ni) as plantas não conformes com a variedade ou as plantas de variedades estranhas não devem estar presentes nas culturas,\n\nii) as plantas, incluindo tubérculos, são produzidas por micropropagação,\n\niii) as plantas, incluindo tubérculos, são produzidas em instalações protegidas e num meio de cultura que esteja isento de pragas,\n\niv) os tubérculos não devem ser multiplicados para além da primeira geração,\n\nv) as plantas devem cumprir os seguintes limiares relativos à presença de RNQP ou sintomas causados pela respetiva RNQP tal como indicados no seguinte quadro:\n\nRNQP ou sintomas causados por RNQP Limiar para a presença de RNQP nas plantas em crescimento para batatas de semente de pré-base da classe da União PBTC\n\nPé negro (*Dickeya* Samson *et al*. spp. [1DICKG]; *Pectobacterium* Waldee emend. Hauben *et al*. spp. [1PECBG]) 0 %\n\n*Candidatus* Liberibacter solanacearum Liefting *et al*. [LIBEPS] 0 %\n\n*Candidatus* Phytoplasma solani Quaglino *et al*. [PHYPSO] 0 %\n\nSintomas de mosaico causados por vírus e Sintomas causados pelo *Potato leaf roll virus* [PLRV00] 0 %\n\n*Potato spindle tuber viroid* [PSTVD0] 0 %\n\nRNQP ou sintomas causados por RNQP Limiar para a presença de RNQP na descendência direta de batatas de semente de pré-base da classe da União PBTC\n\nSintomas de infeção viral 0 %\n\nb) Condições aplicáveis aos lotes:\n\ni) devem estar isentos de batatas de semente afetadas por podridão,\n\nii) devem estar isentos de batatas de semente afetadas por sarna comum,\n\niii) devem estar isentos de batatas de semente excessivamente enrugadas devido a desidratação,\n\niv) devem estar isentos de batatas de semente com imperfeições exteriores, incluindo tubérculos disformes ou feridos,\n\nv) os lotes de batatas de semente de pré-base devem cumprir os seguintes limiares relativos à presença de RNQP ou sintomas causados pelas respetivas RNQP tal como indicados no seguinte quadro:\n\nRNQP ou sintomas causados por RNQP Limiar para a presença de RNQP nos lotes de batatas de semente de pré-base da classe da União PBTC, em massa\n\n*Candidatus* Liberibacter solanacearum Liefting *et al*. [LIBEPS] 0 %\n\n*Ditylenchus destructor* Thorne [DITYDE] 0 %\n\nRizotónia provocada por *Thanatephorus cucumeris* (A.B. Frank) Donk [RHIZSO] 0 %\n\nSarna pulverulenta provocada por *Spongospora subterranea* (Wallr.) Lagerh. [SPONSU] 0 %\n\n2) As batatas de semente de pré-base da classe da União PB devem cumprir as seguintes condições:\n\na) Condições aplicáveis a batatas de semente:\n\ni) a percentagem em número de plantas não conformes com a variedade e a de plantas de variedades estranhas não devem ultrapassar, em conjunto, 0,01 %,\n\nii) as plantas devem cumprir os seguintes limiares relativos à presença de RNQP ou sintomas causados pelas respetivas RNQP tal como indicados no seguinte quadro:\n\nRNQP ou sintomas causados por RNQP Limiar para a presença de RNQP nas plantas em crescimento para batatas de semente de pré-base da classe da União PBTC\n\nPé negro (*Dickeya* Samson *et al*. *spp*. [1DICKG]; *Pectobacterium* Waldee emend. Hauben *et al*. *spp*. [1PECBG]) 0 %\n\n*Candidatus* Liberibacter solanacearum Liefting *et al*. [LIBEPS] 0 %\n\n*Candidatus* phytoplasma solani Quaglino *et al*. [PHYPSO] 0 %\n\nSintomas de mosaico causados por vírus e Sintomas causados pelo *Potato leaf roll virus* [PLRV00] 0,1 %\n\n*Potato spindle tuber viroid* [PSTVD0] 0 %\n\nRNQP ou sintomas causados por RNQP Limiar para a presença de RNQP na descendência direta de batatas de semente de pré-base da classe da União PB\n\nSintomas de infeção viral 0,5 %,\n\nb) Tolerâncias aplicáveis aos lotes no que diz respeito a impurezas, imperfeições e doenças:\n\ni) as batatas de semente afetadas por podridão, exceto a podridão anelar ou mal murcho da batateira, não devem ultrapassar 0,2 % em massa,\n\nii) as batatas de semente afetadas por sarna comum em mais de um terço da sua superfície não devem ultrapassar 5,0 % em massa,\n\niii) os tubérculos enrugados devido a desidratação excessiva ou desidratação causada pela sarna prateada não devem ultrapassar 0,5 % em massa,\n\niv) as batatas de semente com imperfeições exteriores, incluindo tubérculos disformes ou feridos, não devem ultrapassar 3,0 % em massa,\n\nv) a presença de terra e de corpos estranhos não deve ultrapassar 1,0 % em massa,\n\nvi) os lotes de batatas de semente de pré-base devem cumprir os seguintes limiares relativos à presença de RNQP ou sintomas causados pelas respetivas RNQP tal como indicados no seguinte quadro:\n\nRNQP ou sintomas causados por RNQP Limiar para a presença de RNQP nos lotes de batatas de semente de pré-base da classe da União PBTC, em massa\n\n*Candidatus* Liberibacter solanacearum Liefting *et al*. [LIBEPS] 0 %\n\n*Ditylenchus destructor* Thorne [DITYDE] 0 %\n\nRizotónia que afeta os tubérculos em mais de 10 % da sua superfície, causada por *Thanatephorus cucumeris* (A.B. Frank) Donk [RHIZSO] 1,0 %\n\nSarna pulverulenta que afeta os tubérculos em mais de 10 % da sua superfície, causada por *Spongospora subterranea* (Wallr.) Lagerh. [SPONSU] 1,0 %,\n\nvii) a percentagem total de batatas de semente abrangidas pelas tolerâncias referidas nas subalíneas i) a iv) e vi) não deve ultrapassar 6,0 % em massa."
+  }
+ }
+}

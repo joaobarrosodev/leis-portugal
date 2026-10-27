@@ -1,0 +1,117 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:644960:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1993-172878308",
+ "dre_path": "/dr/detalhe/portaria/988-1993-644960",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1993-10-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "172929382",
+    "172929384",
+    "172929386",
+    "172929387"
+   ]
+  },
+  {
+   "date": "2021-11-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:172878297:por",
+     "title": "Portaria n.º 208/2021",
+     "published": "2021-10-15",
+     "dre_path": "/dr/detalhe/portaria/208-2021-172878297"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I",
+    "Altera Anexo II",
+    "Altera Anexo III"
+   ],
+   "fragments": [
+    "172929382",
+    "172929383",
+    "172929388",
+    "172929389",
+    "172929390"
+   ]
+  }
+ ],
+ "fragments": {
+  "172929382": {
+   "fragment_id": "172878309",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 988/93\n\nde 6 de Outubro\n\nO Decreto-Lei n.º 348/93, de 1 de Outubro, que transpõe para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=1989&id=389L0656\" title=\"Link para Directiva da Comunidade Europeia\">89/656/CEE</a>, do Conselho, de 30 de Novembro, relativa às prescrições mínimas de segurança e de saúde dos trabalhadores na utilização de equipamento de protecção individual, prevê, no seu artigo 7.º, que a descrição técnica do equipamento de protecção individual, bem como das actividades e sectores de actividade para os quais aquele pode ser necessário, é objecto de portaria do Ministro do Emprego e da Segurança Social.\n\nCumpre, pois, dar execução àquele preceito legal.\n\nAssim:\n\nAo abrigo do disposto no artigo 7.º do Decreto-Lei n.º 348/93, de 1 de Outubro:\n\nManda o Governo, pelo Ministro do Emprego e da Segurança Social, o seguinte:\n\n1.º Na avaliação das situações de risco com vista à escolha do equipamento de protecção individual adequado seguir-se-á o esquema constante do anexo I.\n\n2.º Na referida avaliação ter-se-ão em conta as actividades e os sectores de actividade constantes do anexo III.\n\n3.º Na escolha do equipamento de protecção individual a utilizar ter-se-á em conta a lista constante do anexo II.\n\nMinistério do Emprego e da Segurança Social."
+  },
+  "172929384": {
+   "fragment_id": "172878311",
+   "type": 14,
+   "heading": "Anexo I — ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — ANEXO I\n\nANEXO I\n\nEsquema indicativo para o inventário dos riscos com vista à utilização de protecção individual\n\n(ver documento original)"
+  },
+  "172929386": {
+   "fragment_id": "172878313",
+   "type": 14,
+   "heading": "Anexo II — Lista indicativa e não exaustiva dos equipamentos de protecção individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Lista indicativa e não exaustiva dos equipamentos de protecção individual\n\nProtecção da cabeça:\n\nCapacetes de protecção para a indústria (capacetes para minas, estaleiros de obras públicas, indústrias diversas);\n\nCoberturas de cabeça ligeiras para protecção do couro cabeludo (bonés, barretes, coifas, com ou sem viseira);\n\nCoberturas de protecção da cabeça (barretes, bonés, chapéu de oleado, etc., em tecido, em tecido revestido, etc.).\n\nProtecção do ouvido:\n\nTampões para os ouvidos, moldáveis ou não;\n\nCapacetes envolventes;\n\nProtectores auriculares adaptáveis aos capacetes de protecção para a indústria;\n\nPrecintas com receptor para circuito de indução de baixa frequência;\n\nProtectores contra o ruído equipados com aparelhos de intercomunicação.\n\nProtecção dos olhos e da face:\n\nÓculos com aros;\n\nÓculos isolantes com uma ocular (óculos isolantes com duas oculares);\n\nÓculos de protecção contra raios X, raios laser, radiações ultravioleta, infravermelho, visível;\n\nEscudos faciais;\n\nMáscaras e capacetes para soldadura por arco (máscaras para segurar com as mãos, com precintas ou adaptáveis sobre capacetes de protecção).\n\nProtecção das vias respiratórias:\n\nAparelhos filtrantes antipoeiras, antigás e contra poeiras radioactivas;\n\nAparelhos isolantes com aprovisionamento de ar;\n\nAparelhos respiratórios com uma máscara de soldadura amovível;\n\nAparelhos e material para mergulhadores;\n\nEscafandros para mergulhadores.\n\nProtecção das mãos e dos braços:\n\nLuvas:\n\nContra agressões mecânicas (perfuração, cortes, vibrações, etc.);\n\nContra agressões químicas;\n\nPara electricistas e antitérmicas;\n\nMuflas;\n\nDedaleiras;\n\nMangas protectoras;\n\nPunhos de couro;\n\nMitenes;\n\nManicas.\n\nProtecção dos pés e das pernas:\n\nSapatos de salto raso, botinas, botins, botas de segurança;\n\nSapatos que se desapertem ou se desatem rapidamente;\n\nSapatos com biqueira de protecção;\n\nSapatos e cobre-sapatos com sola anticalor;\n\nSapatos, botas e cobre-botas de protecção contra o calor;\n\nSapatos, botas e cobre-botas de protecção contra o frio;\n\nSapatos, botas e cobre-botas de protecção contra as vibrações;\n\nSapatos, botas e cobre-botas de protecção antiestáticos;\n\nSapatos, botas e cobre-botas de protecção isolantes;\n\nBotas de protecção contra as correntes das serras de traçar;\n\nTamancos;\n\nJoelheiras;\n\nProtectores amovíveis do peito do pé;\n\nPolainas;\n\nSolas amovíveis (anticalor, antiperfuração ou antitranspiração);\n\nGrampos amovíveis para o gelo, a geada, neve, solos escorregadios.\n\nProtecção da pele:\n\nCremes de protecção/pomadas.\n\nProtecção do tronco e do abdómen:\n\nColetes, casacos e aventais de protecção contra agressões mecânicas (perfuração, cortes, projecção de metais em fusão, etc.);\n\nColetes, casacos e aventais de protecção contra agressões químicas;\n\nColetes munidos de dispositivos de aquecimento;\n\nColetes de salvação;\n\nAventais de protecção contra raios X;\n\nCintos de segurança do tronco.\n\nProtecção do corpo inteiro:\n\nEquipamentos de protecção contra quedas:\n\nEquipamentos ditos «antiquedas» (equipamentos completos, incluindo todos os acessórios necessários para a sua utilização);\n\nEquipamentos com travão «absorvente de energia cinética» (equipamentos completos, incluindo todos os acessórios necessários para a sua utilização);\n\nDispositivos de preensão do corpo (cintos de segurança);\n\nVestuário de protecção:\n\nVestuário de trabalho, dito «segurança» (duas peças e fato-macaco);\n\nVestuário de protecção contra agressões mecânicas (perfuração, cortes, etc.);\n\nVestuário de protecção contra agressões químicas;\n\nVestuário de protecção contra projecções de metais em fusão e raios infravermelhos;\n\nVestuário de protecção contra o calor;\n\nVestuário de protecção contra o frio;\n\nVestuário de protecção contra a contaminação radioactiva;\n\nVestuário antipoeiras;\n\nVestuário antigás;\n\nVestuário e acessórios (braçadeiras, luvas, etc.), fluorescentes de sinalização, retro-reflectores;\n\nCoberturas de protecção."
+  },
+  "172929387": {
+   "fragment_id": "172878314",
+   "type": 14,
+   "heading": "Anexo III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III\n\nLista indicativa e não exaustiva das actividades e sectores de actividade para os quais podem ser necessários equipamentos de protecção individual.\n\n1 - Protecção da cabeça (protecção do crânio):\n\nCapacetes de protecção:\n\nConstrução, nomeadamente trabalhos efectuados sobre, por baixo ou na proximidade de andaimes e postos de trabalho situados em pontos altos, cofragem e descofragem, operações de montagem, instalação e colocação de andaimes e demolições;\n\nTrabalhos em pontes metálicas, construções metálicas elevadas, postes, torres, construções hidráulicas em aço, altos-fornos, aciarias, trens de laminagem, contentores de grandes dimensões, condutas de grande diâmetro, caldeiras e centrais eléctricas;\n\nTrabalhos em escavações, valas, poças e galerias;\n\nTerraplenagens e trabalhos em maciços rochosos;\n\nTrabalhos em explorações mineiras do subsolo, em pedreiras, explorações a céu aberto e movimentação dos inertes;\n\nTrabalhos com pistolas de chumbar;\n\nTrabalhos com explosivos;\n\nTrabalhos efectuados em elevadores, aparelhos de elevação e meios de transporte;\n\nActividades em instalações de altos-fornos, instalações de redução directa, aciarias, trens de laminagem, fábricas metalúrgicas, forjas, oficinas de estampagem e fundições;\n\nTrabalhos em fornos industriais, contentores, máquinas, silos, tremonhas e condutas;\n\nTrabalhos no âmbito da construção naval;\n\nOperações de manobras dos caminhos de ferro;\n\nTrabalhos em matadouros.\n\n2 - Protecção dos pés:\n\nCalçado de protecção com sola antiperfuração:\n\nObras de tosco, de engenharia civil e de construção de estradas;\n\nTrabalhos de construção executados em andaimes;\n\nDemolições de toscos;\n\nTrabalhos de construção em betão e elementos pré-fabricados que incluam operações de cofragem e descofragem;\n\nTrabalhos em estaleiros e zonas de armazenagem;\n\nTrabalhos em telhados;\n\nCalçado de protecção sem sola antiperfuração:\n\nTrabalhos em pontes metálicas, estruturas metálicas de grande altura, postes, torres, elevadores, construções hidráulicas em aço, altos-fornos, aciarias, trens de laminagem, grandes contentores, condutas de grande diâmetro, gruas, caldeiras e centrais eléctricas;\n\nTrabalhos de construção de fornos, montagem de instalações de aquecimento e ventilação e de estruturas metálicas;\n\nTrabalhos de remodelação e manutenção;\n\nTrabalhos em altos-fornos, instalações de redução directa, aciarias, trens de laminagem, fábricas metalúrgicas, forjas, oficinas de estampagem e de prensagem a quente e trefilarias;\n\nTrabalhos em pedreiras, minas a céu aberto e movimentação dos inertes;\n\nTrabalho e transformação da pedra;\n\nFabrico, manipulação e transformação de vidro plano e vidro oco;\n\nManipulação de moldes na indústria cerâmica;\n\nOperações de revestimento próximo dos fornos na indústria cerâmica;\n\nTrabalhos de vazamento em moldes na indústria cerâmica pesada e na indústria dos materiais de construção;\n\nOperações de transporte e armazenagem;\n\nManipulação de peças de carne congelada e de barris metálicos de conservas;\n\nActividades no âmbito da construção naval;\n\nTrabalhos de manobras nos caminhos de ferro;\n\nCalçado de segurança com salto ou sola de cunha e sola antiperfuração:\n\nTrabalhos em telhados;\n\nCalçado de segurança com sola dotada de isolamento térmico:\n\nTrabalhos efectuados com e sobre elementos quentes ou muito frios;\n\nCalçado de segurança que possa ser facilmente retirado:\n\nEm caso de perigo de penetração de matérias fundidas.\n\n3 - Protecção dos olhos e da face:\n\nÓculos, viseiras ou anteparos de protecção:\n\nOperações de solddura, polimento e de corte;\n\nOperações de perfuração e burilagem;\n\nOperações de talhe e tratamento de pedra;\n\nTrabalhos com pistolas de chumbar;\n\nOperações executadas em máquinas que trabalhem por arranque de apara na transformação de materiais que produzem aparas curtas;\n\nTrabalhos de estampagem;\n\nOperações de remoção e quebra de cacos e vidros partidos;\n\nOperações que envolvem a projecção de produtos abrasivos granulados;\n\nTrabalhos que exigem a manipulação de ácidos, soluções alcalinas, desinfectantes e produtos de limpeza cáusticos;\n\nTrabalhos com projectores de líquidos;\n\nTrabalhos com matérias em fusão, assim como permanência na sua proximidade;\n\nTrabalhos sob radiação térmica;\n\nTrabalhos com lasers.\n\n4 - Protecção das vias respiratórias:\n\nAparelhos de protecção das vias respiratórias:\n\nTrabalhos em reservatórios, espaços pequenos e fornos industriais alimentados a gás, sempre que exista perigo de inalação de gases ou de falta de oxigénio;\n\nTrabalhos realizados na proximidade da boca de carregamento dos altos-fornos;\n\nTrabalhos realizados na proximidade de convertidores ou de condutas de gás de altos-fornos;\n\nTrabalhos realizados na proximidade do furo de sangria dos fornos, sempre que exista risco de inalação de vapores de metais pesados;\n\nTrabalhos de guarnição de fornos e de panelas de vazamento, sempre que haja risco de inalação de poeiras;\n\nTrabalhos de pintura à pistola, quando não existam dispositivos de ventilação suficientes;\n\nTrabalhos em poços, canais e outros locais subterrâneos das redes de esgotos;\n\nTrabalhos em instalações frigoríficas, sempre que exista perigo de fuga de fluido de refrigeração.\n\n5 - Protecção do ouvido:\n\nProtectores auriculares:\n\nTrabalhos realizados com prensas para trabalho de metais;\n\nTrabalhos realizados com ferramentas de ar comprimido;\n\nOperações levadas a cabo pelo pessoal de terra nas pistas dos aeroportos;\n\nTrabalhos com bate-estacas;\n\nTrabalho da madeira e dos têxteis.\n\n6 - Protecção do tronco, dos braços e das mãos:\n\nEquipamento de protecção:\n\nTrabalhos que envolvam a manipulação de ácidos e soluções alcalinas, desinfectantes e produtos de limpeza corrosivos;\n\nTrabalhos realizados com ou nas proximidades de produtos muito quentes e em ambiente quente;\n\nManipulação de vidro plano;\n\nTrabalhos que envolvam projecção de jactos de areia;\n\nTrabalhos realizados em câmaras frigoríficas;\n\nVestuário de proteçcão dificilmente inflamável:\n\nOperações de soldadura em espaços confinados;\n\nAventais de material resistente a perfurações:\n\nOperações de desossa e corte;\n\nTrabalhos realizados com facas de mão durante os quais a faca é apontada para o corpo;\n\nAventais de cabedal:\n\nOperações de soldadura;\n\nOperações de forjamento;\n\nOperações de vazamento em moldes;\n\nProtecções para os antebraços:\n\nOperações de desossa e corte;\n\nLuvas:\n\nOperações de soldadura;\n\nManipulação de objectos com arestas vivas, mas não quando haja utilização de máquinas em que as luvas possam ser colhidas;\n\nManipulação directa de ácidos e soluções cáusticas;\n\nLuvas com traçado de metal:\n\nOperações de desossa e corte;\n\nUtilização regular de facas de mão no âmbito da produção e do abate;\n\nMudança de lâminas nas máquinas de cortar.\n\n7 - Vestuário de protecção contra intempéries:\n\nTrabalhos ao ar livre (debaixo de chuva e ao frio).\n\n8 - Vestuário de segurança:\n\nTrabalhos que exijam sinalização de presença.\n\n9 - Protecção antiqueda (cintos de segurança):\n\nTrabalhos em andaimes;\n\nMontagem de pré-fabricados;\n\nTrabalhos em postes.\n\n10 - Protecção por meio de cabos ou cordas:\n\nOperações em cabinas de comando de gruas em pontos elevados;\n\nTrabalhos efectuados em cabinas de comando de aparelhos para armazenagem automática;\n\nTrabalhos realizados em pontos altos de torres de perfuração;\n\nTrabalhos em poços e canalizações.\n\n11 - Protecção da pele:\n\nManipulação de materiais de revestimento;\n\nOperações de curtimento."
+  },
+  "172929383": {
+   "fragment_id": "172878310",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinada em 10 de Setembro de 1993.\n\nO Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda."
+  },
+  "172929388": {
+   "fragment_id": "172878311",
+   "type": 14,
+   "heading": "Anexo I — ANEXO I",
+   "in_force_from": "2021-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 208/2021 - Diário da República n.º 201/2021, Série I de 2021-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/208-2021-172878297), em vigor a partir de 2021-11-14"
+   ],
+   "markdown": "## Anexo I — ANEXO I\n\nRiscos relacionados com as partes do corpo a proteger através de equipamento de proteção individual (EPI) (*)\n\nA avaliação dos riscos determinará a necessidade de utilização de EPI e as suas características de acordo com as disposições do Decreto­-Lei n.º 348/93, de 1 de outubro.\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 208/2021 - Diário da República n.º 201/2021, Série I de 2021-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/208-2021-172878297), em vigor a partir de 2021-11-14"
+  },
+  "172929389": {
+   "fragment_id": "172878313",
+   "type": 14,
+   "heading": "Anexo II — Lista não exaustiva dos tipos de equipamento de proteção individual (EPI) com base nos riscos contra os quais oferecem proteção",
+   "in_force_from": "2021-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 208/2021 - Diário da República n.º 201/2021, Série I de 2021-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/208-2021-172878297), em vigor a partir de 2021-11-14"
+   ],
+   "markdown": "## Anexo II — Lista não exaustiva dos tipos de equipamento de proteção individual (EPI) com base nos riscos contra os quais oferecem proteção\n\nEquipamento para proteção da cabeça\n\nCapacetes e/ou bonés/cogulas/acessórios para a cabeça contra:\n\nImpactos resultantes de queda ou ejeção de objetos;\n\nColisão com um obstáculo;\n\nRiscos mecânicos (perfuração, abrasão);\n\nCompressão estática (esmagamento lateral);\n\nRiscos térmicos (fogo, calor, frio, sólidos quentes, incluindo metal fundido);\n\nChoques elétricos e trabalhos sob tensão;\n\nRiscos químicos;\n\nRadiações não ionizantes (UV, IV, radiação solar ou de soldadura).\n\nCoifas e redes para o cabelo contra o risco de enleamento.\n\nEquipamento para proteção dos ouvidos\n\nAbafadores (incluindo, p. ex., abafadores colocados em capacetes, com atenuação ativa do ruído, com entrada de áudio elétrica).\n\nTampões auditivos (incluindo, por exemplo, tampões auditivos com dependência de nível, tampões auditivos adaptados a cada indivíduo).\n\nEquipamento para proteção dos olhos e da face\n\nÓculos, viseiras e máscaras de proteção da face (se for caso disso, lentes graduadas) contra:\n\nRiscos mecânicos;\n\nRiscos térmicos;\n\nRadiações não ionizantes (UV, IV, radiação solar ou de soldadura);\n\nRadiações ionizantes;\n\nAerossóis sólidos e líquidos de agentes químicos e biológicos.\n\nEquipamento para proteção respiratória\n\nDispositivos filtrantes contra:\n\nPartículas;\n\nGases;\n\nPartículas e gases;\n\nAerossóis sólidos e/ou líquidos.\n\nDispositivos isolantes, incluindo com aprovisionamento de ar.\n\nDispositivos de autossalvamento.\n\nEquipamento de mergulho.\n\nEquipamento para proteção das mãos e dos braços\n\nLuvas (incluindo mitenes e proteção dos braços) contra:\n\nRiscos mecânicos;\n\nRiscos térmicos (calor, chamas e frio);\n\nChoques elétricos e trabalhos sob tensão (antiestático, condutor, isolante);\n\nRiscos químicos;\n\nAgentes biológicos;\n\nRadiações ionizantes e contaminação radioativa;\n\nRadiações não ionizantes (UV, IV, radiação solar ou de soldadura);\n\nRisco de vibração.\n\nProteções para dedos.\n\nEquipamento para proteção dos pés e das pernas e proteção antiderrapante\n\nCalçado (p. ex., sapatos, incluindo, em certas circunstâncias, tamancos, e botas com possível biqueira de aço) contra:\n\nRiscos mecânicos;\n\nRisco de escorregamento;\n\nRiscos térmicos (calor, chamas e frio);\n\nChoques elétricos e trabalhos sob tensão (antiestático, condutor, isolante);\n\nRiscos químicos;\n\nRisco de vibração;\n\nRiscos biológicos.\n\nProtetores amovíveis do peito do pé contra riscos mecânicos.\n\nJoelheiras contra riscos mecânicos.\n\nPolainas contra riscos mecânicos, térmicos e químicos e agentes biológicos.\n\nAcessórios (p. ex., bicos e ganchos para calçado).\n\nProteção da pele - Cremes protetores (1)\n\nPodem ser utilizados cremes protetores contra:\n\nRadiações não ionizantes (UV, IV, radiação solar ou de soldadura);\n\nRadiações ionizantes;\n\nProdutos químicos;\n\nAgentes biológicos;\n\nRiscos térmicos (calor, chamas e frio).\n\nEquipamento para proteção do corpo/outra proteção da pele\n\nEquipamento de proteção individual para proteção contra quedas em altura, como sistemas antiqueda retráteis, arneses de corpo inteiro, arneses para trabalhos em suspensão/de assento, cintos de manutenção e retenção, linhas de manutenção na posição de trabalho, amortecedores de energia, trava-quedas guiados, incluindo linhas de ancoragem, cordas de regulação, sistemas de ancoragem, que não sejam concebidos para serem fixados de modo permanente e que não exijam uma ação de fixação antes de serem utilizados, conectores, linhas e cabos, arneses de salvamento.\n\nVestuário de proteção, incluindo do corpo inteiro (ou seja, fatos de proteção, fatos-macaco) e parcial (ou seja, polainas, calças, casacos, coletes, aventais, joelheiras, carapuços, cogulas), contra:\n\nRiscos mecânicos;\n\nRiscos térmicos (calor, chamas e frio);\n\nProdutos químicos;\n\nAgentes biológicos;\n\nRadiações ionizantes e contaminação radioativa;\n\nRadiações não ionizantes (UV, IV, radiação solar ou de soldadura);\n\nChoques elétricos e trabalhos sob tensão (antiestático, condutor, isolante);\n\nEnredamento e entalamento.\n\nColetes salva-vidas para prevenção do afogamento e dispositivos de flutuação.\n\nEPI para sinalização visual da presença do utiliza.\n\n(1) Em certas circunstâncias, e em função da avaliação dos riscos, podem ser utilizados cremes protetores juntamente com outros EPI com o objetivo de proteger a pele de riscos conexos. Os cremes protetores são considerados EPI uma vez que este tipo de equipamento pode, em determinadas circunstâncias, ser entendido como «complementar ou acessório», na aceção do n.º 1 do artigo 3.º do Decreto-Lei n.º 348/93, de 1 de outubro. No entanto, estes cremes protetores não são considerados EPI de acordo com a definição do artigo 3.º, n.º 1, do Regulamento (UE) 2016/425.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 208/2021 - Diário da República n.º 201/2021, Série I de 2021-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/208-2021-172878297), em vigor a partir de 2021-11-14"
+  },
+  "172929390": {
+   "fragment_id": "172878314",
+   "type": 14,
+   "heading": "Anexo III — Lista não exaustiva das atividades e setores de atividade para os quais pode ser necessário equipamento de proteção individual (EPI) (*)",
+   "in_force_from": "2021-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 208/2021 - Diário da República n.º 201/2021, Série I de 2021-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/208-2021-172878297), em vigor a partir de 2021-11-14"
+   ],
+   "markdown": "## Anexo III — Lista não exaustiva das atividades e setores de atividade para os quais pode ser necessário equipamento de proteção individual (EPI) (*)\n\nI. Riscos físicos\n\n(ver documento original)\n\nII. Riscos químicos (incluindo nanomateriais)\n\n(ver documento original)\n\nIII. Agentes biológicos\n\n(ver documento original)\n\nIV. Outros riscos\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 208/2021 - Diário da República n.º 201/2021, Série I de 2021-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/208-2021-172878297), em vigor a partir de 2021-11-14"
+  }
+ }
+}

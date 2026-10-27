@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:273449:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1997-975243070",
+ "dre_path": "/dr/detalhe/portaria/1278-c-1997-273449",
+ "source_lastmod": "2025-12-10",
+ "versions": [
+  {
+   "date": "1997-12-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "973251771"
+   ]
+  },
+  {
+   "date": "1998-01-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:426754:por",
+     "title": "Declaração de Rectificação n.º 1-D/98",
+     "published": "1998-01-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/1-d-1998-426754"
+    }
+   ],
+   "changes": [
+    "Retifica 2.º"
+   ],
+   "fragments": [
+    "973251771",
+    "973251772"
+   ]
+  }
+ ],
+ "fragments": {
+  "973251771": {
+   "fragment_id": "975243071",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1278-C/97\n\nde 30 de Dezembro\n\nManda o Governo, pelo Secretário de Estado do Tesouro e das Finanças, ao abrigo do disposto no n.º 2 do artigo 6.º do Decreto-Lei n.º 129/83, de 14 de Março, e nos termos do Despacho do Ministro das Finanças n.º 490/96-XIII, de 15 de Outubro, o seguinte:"
+  },
+  "973251772": {
+   "fragment_id": "975243072",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério das Finanças.\n\nAssinada em 30 de Dezembro de 1997.\n\nO Secretário de Estado do Tesouro e das Finanças, Fernando Teixeira dos Santos."
+  }
+ }
+}

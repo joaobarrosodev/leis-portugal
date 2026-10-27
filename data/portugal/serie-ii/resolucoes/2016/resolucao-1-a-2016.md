@@ -1,0 +1,342 @@
+---
+schema_version: '1.0'
+id: pt:dre:73051063:por
+title: Resolução n.º 1-A/2016
+short_title: null
+summary: Designa os membros do conselho de administração da Metropolitano de Lisboa, E. P. E.
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Conselho de Ministros
+proposing_entity: null
+official_number: 1-A/2016
+official_date: null
+publication_date: '2016-01-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 4/2016, 1º Suplemento, Série II de 2016-01-07
+  number: '4'
+  series: II
+  supplement: null
+  pages: 666-(2) a 666-(3)
+  pdf_url: https://files.diariodarepublica.pt/2s/2016/01/004000001/0000200003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '73051063'
+  dre_path: /dr/detalhe/resolucao/1-a-2016-73051063
+  internal: pt:dre:73051063:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/1-a-2016-73051063
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/1-a-2016-73051063
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:15:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: fd2bc4b1ddae3a19aa1d00474612a24df0b2bbdb8747669e293c0c060b92b211
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:47Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carris
+- Conselho de Administração
+- Empresa Pública
+- Exoneração
+- Metropolitano de Lisboa
+- Nomeação
+- Presidente
+- Setor Empresarial do Estado
+- Soflusa-sociedade Fluvial de Transportes
+- Transtejo
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57701290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58644005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66248777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66674041:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:15:47Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 1-A/2016
+
+Com vista à prossecução do objetivo de descarbonização profunda da economia previsto no Programa do XXI Governo Constitucional para a área do ambiente, torna-se necessário garantir um sistema de mobilidade planeado de forma coerente com os municípios que gerem a ocupação do território, da via pública e o estacionamento para dar resposta às reais necessidades da população e assegurar o desenvolvimento económico da área metropolitana de Lisboa.
+
+Nesse sentido, o Programa do XXI Governo Constitucional comprometeu-se com o «reforço das competências das autarquias locais na área dos transportes», o que «implica a anulação das concessões e privatizações em curso dos transportes coletivos de Lisboa e Porto». Deste modo, o Governo pretende aumentar a oferta de transporte coletivo, para potenciar o aumento significativo da sua utilização, designadamente através de uma transferência modal do transporte individual, garantindo desta forma padrões de mobilidade sustentável e reduzindo a emissão de gases que provocam o efeito de estufa.
+
+Acontece que a [Resolução do Conselho de Ministros n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/4-2015-66248777), de 14 de janeiro, assentou os seus fundamentos e alicerces na adoção de «uma estratégia sustentável e eficiente para o setor dos transportes, assente na abertura do serviço público de transporte de passageiros à iniciativa privada e na regulação pública da mesma iniciativa». Esta orientação foi ainda reforçada pela [Resolução do Conselho de Ministros n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/10-2015-66674041), de 6 de março, que determinou o início e encarregou expressamente os conselhos de administração da Metropolitano de Lisboa, E. P. E. e da Companhia de Carris de Ferro de Lisboa, S. A., de preparar e de conduzir o respetivo processo de subconcessão dos serviços públicos de transporte de passageiros.
+
+Tal estratégia, que foi fixada como orientação para o exercício da gestão da Metropolitano de Lisboa, E. P. E., da Companhia de Carris de Ferro de Lisboa, S. A., da Transtejo - Transportes do Tejo, S. A., e da Soflusa - Sociedade Fluvial de Transportes, S. A., conflitua, frontalmente, com o Programa do XXI Governo Constitucional.
+
+A presente resolução visa, assim, nos termos do n.º 1 do artigo 26.º do Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, proceder à dissolução do Conselho de Administração da Metropolitano de Lisboa, E. P. E., e, consequentemente, dos Conselhos de Administração da Companhia de Carris de Ferro de Lisboa, S. A., da Transtejo - Transportes do Tejo, S. A., e da Soflusa - Sociedade Fluvial de Transportes, S. A., cujos membros exerciam tais funções em regime de acumulação.
+
+Mais se procede à imediata designação dos novos membros do Conselho de Administração da Metropolitano de Lisboa, E. P. E., em regime de acumulação, sob proposta dos membros do Governo responsáveis pelas áreas das finanças e dos transportes, nos termos do disposto no n.º 1 do artigo 3.º do [Decreto-Lei n.º 98/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2012-553385), de 3 de maio, alterado e republicado pelo [Decreto-Lei n.º 161/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2014-58644005), de 29 de outubro, e no artigo 13.º do Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro.
+
+Foi ouvida, nos termos do n.º 3 do artigo 13.º do Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, a Comissão de Recrutamento e Seleção para a Administração Pública, que se pronunciou favoravelmente sobre as designações constantes da presente resolução. Foi ainda ouvido o Presidente da Câmara Municipal de Lisboa.
+
+Assim:
+
+Nos termos do n.º 1 do artigo 3.º e do artigo 5.º do [Decreto-Lei n.º 98/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2012-553385), de 3 de maio, alterado e republicado pelo [Decreto-Lei n.º 161/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2014-58644005), de 29 de outubro, do n.º 2 do artigo 13.º e do n.º 1 do artigo 26.º do Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Dissolver, com fundamento em critérios de mera conveniência, o conselho de administração da Metropolitano de Lisboa, E. P. E., e, consequentemente, os Conselhos de Administração da Companhia de Carris de Ferro de Lisboa, S. A., da Transtejo - Transportes do Tejo, S. A., e da Soflusa - Sociedade Fluvial de Transportes, S. A., cujos membros exerciam tais funções em regime de acumulação.
+
+2 - Reconstituir o conselho de administração da Metropolitano de Lisboa, E. P. E., e designar, sob proposta do Ministro das Finanças e do Ministro do Ambiente, Tiago Alexandre Lopes Farias, Luís Carlos Antunes Barroso, José Realinho de Matos, Maria Helena Arranhado Carrasco Campos e António Pires, para os cargos de, respetivamente, presidente e vogais, cujas idoneidade, experiência e competência profissionais são patentes nas sinopses curriculares, que constam do anexo à presente resolução e da qual fazem parte integrante.
+
+3 - Estabelecer que o vogal Luís Carlos Antunes Barroso tem a competência prevista no n.º 4 do artigo 31.º do Regime Jurídico do Setor Público Empresarial, aprovado pelo [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, alterado pela [Lei n.º 75-A/2014](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290), de 30 de setembro.
+
+4 - Determinar que, nos termos do n.º 1 do artigo 5.º do [Decreto-Lei n.º 98/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2012-553385), de 3 de maio, alterado e republicado pelo [Decreto-Lei n.º 161/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2014-58644005), de 29 de outubro, os administradores agora designados auferem apenas uma remuneração, não beneficiando de qualquer remuneração adicional em virtude da acumulação de funções.
+
+5 - Determinar que a presente resolução produz efeitos à data da sua aprovação.
+
+7 de janeiro de 2016. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+## ANEXO — Nota curricular Tiago Alexandre Lopes Farias
+
+1) Dados pessoais:
+
+Nome: Tiago Alexandre Lopes Farias;
+
+Ano de nascimento: 1966.
+
+2) Formação académica:
+
+Pós-Graduação em Contabilidade e Finanças para não Financeiros, Universidade Católica - Lisbon Business & Economics School
+
+Agregação em Engenharia Mecânica pelo Instituto Superior Técnico, Universidade de Lisboa
+
+Doutoramento em Engenharia Mecânica pelo Instituto Superior Técnico, Universidade de Lisboa
+
+Licenciatura em Engenharia Mecânica pelo Instituto Superior Técnico, Universidade de Lisboa
+
+3) Atividade profissional (simplificada):
+
+Até à presente data - Professor Associado com Agregação do Departamento de Engenharia Mecânica do Instituto Superior Técnico, Universidade de Lisboa;
+
+De 2014 a 2015 - Diretor Municipal de Mobilidade e Transportes da Câmara Municipal de Lisboa;
+
+De 2012 a 2014 - Professor Auxiliar com Agregação do Departamento de Engenharia Mecânica do Instituto Superior Técnico, Universidade de Lisboa;
+
+De 2009 a 2012 - Vogal do Conselho de Administração da EMEL - Empresa Pública Municipal de Mobilidade e Estacionamento de Lisboa, E. E. M.;
+
+De 2008 a 2012 - Professor Auxiliar com Agregação do Departamento de Engenharia Mecânica do Instituto Superior Técnico, Universidade de Lisboa;
+
+De 1997 a 2008 - Professor Auxiliar do Departamento de Engenharia Mecânica do Instituto Superior Técnico, Universidade de Lisboa.
+
+Nota curricular Luís Carlos Antunes Barroso
+
+1) Dados pessoais:
+
+Nome: Luís Carlos Antunes Barroso;
+
+Ano de nascimento: 1967.
+
+2) Formação académica:
+
+Mestrado em Gestão - Universidade Lusíada de Lisboa
+
+Licenciatura em Gestão - Universidade Lusíada de Lisboa
+
+3) Atividade profissional (simplificada):
+
+Desde 8.01.2015 - Quadro na Caixa Geral de Depósitos, S. A.
+
+Desde 23.08.2012 até 08.01.2015 - Vogal do Conselho de Administração da Companhia Carris de Ferro de Lisboa, S. A. e Metropolitano de Lisboa, E. P. E.;
+
+Desde 24.06.2009 até 23.08.2012 - Vogal do Conselho de Administração do Porto de Lisboa, S. A.;
+
+Desde abril de 2009 até dezembro de 2009 - Presidente do Júri do Concurso Limitado por Prévia Qualificação para Subconcessão da Operação e Manutenção do Sistema de Metro Ligeiro na Área Metropolitana do Porto;
+
+Desde 1.03.2007 até 24.06.2009 - Adjunto no Gabinete da Secretária de Estado dos Transportes;
+
+Desde 06.06.2000 até 28.02.2007 - Diretor Adjunto na Direção Corporate Finance Dívida da Caixa - Banco de Investimentos, S. A.;
+
+Desde 09.11.1992 até 05.06.2000 - Técnico do Banco Nacional Ultramarino, S. A.;
+
+Outubro de 1992 a março de 2001 - Assistente com regência na Universidade Lusíada.
+
+Nota curricular José Realinho de Matos
+
+1) Dados pessoais:
+
+Nome: José Realinho de Matos
+
+Ano de nascimento: 1955.
+
+2) Formação académica:
+
+Licenciatura em Economia - Instituto Superior de Economia
+
+MBA - Master in Business Administration - ISEG
+
+Pós-Graduação em Gestão de Projetos - ISEG
+
+3) Atividade profissional (simplificada):
+
+De 01.07.2012 até à presente data - Consultor de Empresas;
+
+De 20.12.2011 a 30.06.2012 - Consultor de Projetos - Portugal Telecom;
+
+De 29.06.2007 a 19.12.2011 - Vogal do Conselho Diretivo do Instituto do Emprego e Formação Profissional;
+
+De 21.04.2000 a 28.06.2007 - Gestor do Programa Operacional Emprego, Formação e Desenvolvimento Social (POEFDS) - Quadro Comunitário de Apoio (QCAIII);
+
+De 21.04.2000 a 19.12.2011 - Coordenador da Intervenção Desconcentrada de Emprego, Formação e Desenvolvimento Social, do Programa Operacional da Região de Lisboa e Vale do Tejo (PORLVT) (em acumulação) - Comissão de Coordenação da Região de Lisboa e Vale do Tejo (CCRLVT);
+
+De 29.03.2000 a 04.06.2001 - Vogal do Conselho Diretivo do Instituto de Gestão do Fundo Social Europeu (IGFSE);
+
+De 01.02.1997 a 20.04.2000 - Gestor do Programa Formação Profissional e Emprego (PESSOA)
+
+De 20.06.1996 a 29.03.2000 - Vogal da Comissão Executiva do IEFP
+
+De 24.04.1995 a 19.06.1996 - Diretor na Portugal Telecom, E. P.
+
+De 05.12.1988 a 23.04.2005 - Responsável Financeiro na Companhia Portuguesa Rádio Marconi;
+
+De 01.01.1989 a 30.06.1997 - Docente Universitário na Licenciatura de Gestão no Instituto Superior de Economia e Gestão (ISEG);
+
+Em 1996-1997 e 2007-2008 - Docente dos Mestrados de Recursos Humanos e de Inovação e Empreendedorismo - ISCTE e Universidade de Évora.
+
+Nota curricular Maria Helena Arranhado Carrasco Campos
+
+1) Dados pessoais:
+
+Nome: Maria Helena Arranhado Carrasco Campos
+
+Ano de nascimento: 1966.
+
+2) Formação académica:
+
+Doutoramento - Universidade do Minho, Escola de Engenharia, Departamento de Engenharia Civil, Guimarães;
+
+Mestrado - Universidade do Minho, Escola de Engenharia, Departamento de Engenharia Civil, Guimarães;
+
+Pós-Graduação - Universidade do Minho, Escola de Engenharia, Departamento de Engenharia Civil, Guimarães;
+
+Licenciatura em Engenharia Civil - Universidade de Coimbra, Faculdade de Ciências e Tecnologia, Coimbra.
+
+3) Atividade profissional (simplificada):
+
+De 17.01.2003 até à presente data - Diretora de Serviços, Universidade do Minho;
+
+De 14.04.1997 a 17.01.2003 - Chefe de Divisão, Universidade do Minho;
+
+De 01.06.1991 a 14.04.1997 - Técnica Superior, Universidade do Minho, Gabinete das Instalações Definitivas;
+
+De 02.10.1989 a 30.04.1991 - Direção de Obra, Sá Machado & Filhos Lda.;
+
+De 11.09.1989 a 01.08.1990 - Professora do 2.º ciclo da disciplina de Ciências da Natureza, Escola C+S de Francisco Sanches, Braga;
+
+De 24.02.1993 até à presente data - Consultoria e assessoria técnica na gestão de projetos de construção, Serviços de Ação Social da Universidade do Minho;
+
+De 01.05.2007 a 31.08.2008 - Consultoria, Laboratório Internacional Ibérico de Nanotecnologia;
+
+De 01.09.2001 a 31.07.2006 - Assistente Convidado a tempo parcial, Universidade do Minho, Escola de Engenharia, Departamento de Engenharia Civil;
+
+De 04.01.1993 até à +ressente data - Perito do Ministério da Justiça;
+
+De 03.03.1992 a 30.09.1998 - Técnico responsável pelo alvará da empresa Construções Júlio Dias Lda.;
+
+De 05.01.2009 até à presente data - NRAU - Técnico Qualificado, Ministério do Ambiente Ordenamento do Território e Energia;
+
+De 06.09.2012 até à presente data - Membro Colaborador, Centro de Território Ambiente e Construção (Centro de Investigação da Universidade do Minho-CTAC);
+
+De 07.05.2007 a 28.05.2015 - Membro da Direção da Agência para a Energia e Ambiente da Universidade do Minho (AUMEA).
+
+Nota curricular António Manuel Domingues Pires
+
+1) Dados pessoais:
+
+Nome: António Manuel Domingues Pires
+
+Ano de nascimento: 1974.
+
+2) Formação académica:
+
+MBA - Gestão financeira, Operações, Contabilidade, Marketing, Controlo de Gestão, Gestão Estratégica, Negociação, Gestão de RH, Gestão da Mudança, Liderança, Universidade Nova e Universidade Católica Portuguesa;
+
+MSc in Logistics and Supply Chain Management, Cranfield School of Management, Cranfield University, UK;
+
+Licenciatura em Microbiologia, Escola Superior de Biotecnologia, Universidade Católica Portuguesa.
+
+3) Atividade profissional (simplificada):
+
+De junho 2011 até à presente data - Diretor Executivo na Associação Portuguesa de Empresas de Gás Natural;
+
+De janeiro de 2000 até à presente data - Professor Convidado na Porto Business School, Universidade do Porto;
+
+De junho de 2010 a junho de 2011 - Assessor do Secretário de Estado Adjunto do Ministério da Economia e Inovação;
+
+De janeiro de 2010 a junho de 2010 - Diretor de Comércio Internacional na SONAE Distribuição;
+
+De setembro de 2007 a janeiro de 2010 - Consultor, The Boston Consulting Group;
+
+De setembro de 2000 a janeiro de 2007 - Consultor e Gestor de Projetos, Porto Business School - Unidade de Consultoria;
+
+De setembro de 1999 a setembro de 2000 - Analista, Procter & Gamble, UK.
+
+209250965

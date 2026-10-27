@@ -1,0 +1,341 @@
+---
+schema_version: '1.0'
+id: pt:dre:130114092:por
+title: Decreto-Lei n.º 10/2020
+short_title: null
+summary: Estabelece a orgânica do Ponto Único de Contacto para a Cooperação Policial Internacional
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Presidência do Conselho de Ministros
+official_number: 10/2020
+official_date: null
+publication_date: '2020-03-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 50/2020, Série I de 2020-03-11
+  number: '50'
+  series: I
+  supplement: null
+  pages: 2 - 6
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/03/05000/0000200006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-02-01'
+version_history:
+  file: decreto-lei-10-2020.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2020-03-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-12-31'
+    amending: pt:dre:176800371:por
+    amending_title: Decreto-Lei n.º 122/2021
+    changes:
+    - Altera Artigo 2.º
+  - date: '2023-02-01'
+    amending: pt:dre:206767450:por
+    amending_title: Decreto-Lei n.º 8/2023
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/10/2020/p/cons/20211230/pt/html
+  oj: null
+  dre: '130114092'
+  dre_path: /dr/detalhe/decreto-lei/10-2020-130114092
+  internal: pt:dre:130114092:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2020-130114092
+  metadata_url: https://data.dre.pt/eli/dec-lei/10/2020/p/cons/20211230/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-130112840
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-130112840
+  retrieved_at: '2026-10-22T12:30:54Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 5dacbdc75c5e7c58841cfaa54ff992617bc0274aa0daf1259d61d121c5b2be5b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:30:54Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-10-2020.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- PSP
+- Cooperação
+- Cooperação Aduaneira
+- Centro de Cooperação Policial e Aduaneira
+- Política de Cooperação
+- Cooperação Transfronteira
+- Coordenador
+- Segurança Interna
+- Definição de Competências
+- Regulamentação de Atos Legislativos
+- Europol
+- Cooperação Policial
+- Gabinete Nacional da Interpol
+- GNR
+- Oficial de Ligação
+- Serviço de Estrangeiros e Fronteiras
+- Orgânica
+- Confidencialidade
+- Polícia Judiciária
+- Secretário Geral do Sistema de Segurança Interna
+- Serviços de Apoio Técnico e Administrativo
+- Gabinete Nacional Sirene
+- Ponto Único de Contacto para a Cooperação Policial Internacional
+relationships:
+- type: amended_by
+  target: pt:dre:176800371:por
+  label: Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2021-176800371
+  date: '2021-12-30'
+- type: amended_by
+  target: pt:dre:206767450:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2023-206767450
+  date: '2023-01-31'
+- type: cites
+  target: pt:dre:107061863:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/49/2017/05/24/p/dre
+- type: cites
+  target: pt:dre:107963497:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/7/2017/08/07/p/dre
+- type: cites
+  target: pt:dre:120108010:por
+  label: null
+  source: http://data.dre.pt/eli/lei/21/2019/02/25/p/dre
+- type: cites
+  target: pt:dre:453479:por
+  label: null
+  source: http://data.dre.pt/eli/lei/53/2008/08/29/p/dre
+- type: cites
+  target: pt:dre:493510:por
+  label: null
+  source: http://data.dre.pt/eli/lei/74/2009/08/12/p/dre
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:30:54Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 10/2020
+
+Decreto-Lei n.º 10/2020
+
+de 11 de março
+
+Sumário: Estabelece a orgânica do Ponto Único de Contacto para a Cooperação Policial Internacional.
+
+O Decreto-Lei n.º 49/2017, de 24 de maio, criou, no âmbito do Sistema de Segurança Interna, na dependência e sob coordenação do Secretário-Geral do Sistema de Segurança Interna, o Ponto Único de Contacto para a Cooperação Policial Internacional (PUC-CPI), que consiste no centro operacional responsável pela coordenação da cooperação policial internacional e no qual operam trabalhadores em funções públicas da Guarda Nacional Republicana, da Polícia de Segurança Pública, da Polícia Judiciária e do Serviço de Estrangeiros e Fronteiras, indicados pelas respetivas entidades.
+
+Aqueles trabalhadores exercem, nos termos do Decreto Regulamentar n.º 7/2017, de 7 de agosto, as suas funções em regime de mobilidade, mantendo, no entanto, a sua natureza funcional, policial e de órgão de polícia criminal, bem como todos os direitos inerentes aos respetivos postos ou lugares de origem, de acordo com a disciplina do Decreto Regulamentar n.º 7/2017, de 7 de agosto.
+
+Com a Lei n.º 21/2019, de 25 de fevereiro, foi criado, no PUC-CPI, o Gabinete de Informações de Passageiros, cujo funcionamento é assegurado por elementos das referidas forças e serviços de segurança e da Autoridade Tributária e Aduaneira.
+
+Os elementos das referidas forças e serviços de segurança garantem o funcionamento operacional ininterrupto do PUC-CPI, através do regime de turnos, sem que para o efeito exista um mapa de pessoal, o que determina que o instituto da mobilidade, com uma validade máxima de, em regra, 18 meses, não só não se afigura como o mais adequado às necessidades do PUC-CPI, como não corresponde ao projetado nas orientações europeias para a criação de um ponto único de contacto para o intercâmbio internacional de informação entre serviços de polícia.
+
+Situação idêntica verifica-se ainda nos serviços de apoio de que dispõe o PUC-CPI nas áreas jurídica, técnica e administrativa, onde operam igualmente trabalhadores em funções públicas, relativamente aos quais acresce a necessidade de prever a possibilidade de prestação de serviço na modalidade de horário de trabalho por turnos, atenta a verificação de circunstâncias excecionais impostas pelas exigências da sua missão.
+
+Acresce que, atentas as características funcionais do PUC-CPI, assim como as especificidades inerentes aos sistemas de informação, às matérias tratadas e procedimentos instituídos, que determinam a aquisição e aprofundamento de conhecimentos técnicos e competências funcionais especializadas de elevada exigência, cujo domínio e consolidação se escoram fundamentalmente no desempenho das inerentes tarefas funcionais, resulta que a comissão de serviço é a modalidade mais adequada de recrutamento para o PUC-CPI, na medida em que, por um lado, não se constrange ao período temporal limitado da mobilidade e, por outro, consubstancia a forma adotada no âmbito de outras estruturas orgânicas transversais e similares que integram o Sistema de Segurança Interna.
+
+Deste modo, torna-se pertinente esta oportunidade para introduzir um conjunto mínimo de alterações à orgânica do PUC-CPI, com vista a adequá-lo às reais necessidades do seu funcionamento e às alterações legislativas acima descritas.
+
+No entanto, atentas as especificidades da variada legislação que regula o exercício das diversas atividades profissionais que integram o PUC-CPI, a alteração da modalidade de recrutamento pressupõe que a orgânica do PUC-CPI passe a ser estabelecida por decreto-lei, o que, em simultâneo, implica a revogação do Decreto Regulamentar n.º 7/2017, de 7 de agosto.
+
+Assim:
+
+Nos termos do n.º 11 do artigo 23.º-A da Lei n.º 53/2008, de 29 de agosto, na sua redação atual, e da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei aprova a orgânica do Ponto Único de Contacto para a Cooperação Policial Internacional (PUC-CPI).
+
+###### Artigo 2.º — Ponto Único de Contacto para a Cooperação Policial Internacional
+
+1 - O PUC-CPI é o centro operacional responsável pela coordenação da cooperação policial internacional, que assegura o encaminhamento dos pedidos de informação nacionais, a receção, o encaminhamento e a difusão nacional de informação proveniente das autoridades estrangeiras, a transmissão de informação e a satisfação dos pedidos por estas formulados.
+
+2 - Compete ao PUC-CPI, designadamente:
+
+a) Assegurar o intercâmbio internacional de informações entre os serviços de polícia, nos termos da Lei n.º 74/2009, de 12 de agosto;
+
+b) Definir critérios e dar orientações em matéria de interlocução externa no âmbito da cooperação policial internacional;
+
+c) Garantir a operacionalidade dos mecanismos e instrumentos de cooperação policial internacional;
+
+d) Definir e implementar boas práticas internas em matéria de cooperação policial internacional e dar execução às orientações veiculadas pelas competentes instâncias internacionais;
+
+e) Definir os critérios para a escolha dos canais adequados para a transmissão de informações, nos termos da lei;
+
+f) Identificar e promover a utilização de soluções de gestão de processos eficazes e definir fluxos de trabalho especificamente destinados à cooperação policial internacional;
+
+g) Assegurar a necessária articulação com as estruturas nacionais responsáveis pela cooperação judiciária internacional;
+
+h) Assegurar a coordenação da representação externa, nas instâncias europeias e internacionais, no âmbito da cooperação policial internacional, por si, ou pelos órgãos de polícia criminal que a integram;
+
+j) Auxiliar as autoridades judiciárias, nos termos da lei processual penal, no âmbito da cooperação judiciária internacional em matéria penal;
+
+k) Receber e encaminhar os pedidos de detenção provisória que devam ser executados em processos de extradição, nos termos da Lei n.º 144/99, de 31 de agosto, na sua redação atual;
+
+l) Garantir a operacionalidade dos mecanismos em matéria de coadjuvação às autoridades judiciárias na cooperação judiciária internacional em matéria penal, no âmbito da Organização Internacional de Polícia Criminal (OIPC/Interpol), da Europol e de outros organismos internacionais da mesma natureza.
+
+3 - A coordenação do PUC-CPI é assegurada, rotativamente, por cada um dos coordenadores de gabinete do Gabinete de Gestão, nesta função denominado coordenador-geral.
+
+4 - No PUC-CPI operam ainda as seguintes unidades orgânicas:
+
+a) Gabinete SIRENE (Gabinete Nacional SIRENE);
+
+b) Gabinete EUROPOL e INTERPOL (Unidade Nacional da EUROPOL e Gabinete Nacional INTERPOL);
+
+c) Gabinete para os Centros de Cooperação Policial e Aduaneira;
+
+d) Gabinete para os Oficiais de Ligação e para os Pontos de Contacto das Decisões Prüm;
+
+e) Gabinete de Informações de Passageiros.
+
+5 - O funcionamento ininterrupto do PUC-CPI é assegurado, em regime de turnos, por elementos da Guarda Nacional Republicana, da Polícia de Segurança Pública, da Polícia Judiciária, do Serviço de Estrangeiros e Fronteiras e, no âmbito do Gabinete de Informações de Passageiros, igualmente por elementos da Autoridade Tributária e Aduaneira, podendo ainda integrar um elemento de ligação da Polícia Marítima, nos termos do n.º 4 do artigo 3.º da Lei n.º 21/2019, de 25 de fevereiro.
+
+6 - Os procedimentos internos do PUC-CPI são fixados em regulamento a aprovar pelo Secretário-Geral do Sistema de Segurança Interna, sob proposta do coordenador-geral, ouvidos os demais coordenadores.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8/2023 - Diário da República n.º 22/2023, Série I de 2023-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2023-206767450), em vigor a partir de 2023-02-01
+
+> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 122/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2021-176800371), em vigor a partir de 2021-12-31
+
+###### Artigo 3.º — Gabinete de Gestão
+
+1 - O Gabinete de Gestão é constituído por elementos da Guarda Nacional Republicana, da Polícia de Segurança Pública, da Polícia Judiciária e do Serviço de Estrangeiros e Fronteiras, designados coordenadores de gabinete.
+
+2 - Cada coordenador de gabinete chefia uma das unidades orgânicas referidas no n.º 4 do artigo anterior, cabendo ao coordenador de gabinete da Polícia Judiciária a chefia do Gabinete Europol e Interpol.
+
+3 - Os coordenadores de gabinete, cargos de direção intermédia de 1.º grau, são nomeados por despacho do Secretário-Geral do Sistema de Segurança Interna, sob proposta dos dirigentes máximos das respetivas forças ou serviços de origem, e exercem funções em comissão de serviço pelo período de três anos, renovável.
+
+4 - A coordenação do Gabinete de Gestão é assegurada, rotativamente e em acumulação de funções, por cada um dos coordenadores do gabinete, nessas funções denominado coordenador-geral.
+
+5 - O coordenador-geral é responsável pelo encaminhamento dos pedidos nacionais, pela decisão de distribuição dos pedidos ou informações recebidas do exterior e pela validação das respostas nacionais emitidas nos termos do presente decreto-lei, sem prejuízo das competências que lhe sejam atribuídas por delegação do Secretário-Geral do Sistema de Segurança Interna.
+
+6 - Por despacho do Secretário-Geral do Sistema de Segurança Interna é designado, anualmente, o coordenador-geral.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8/2023 - Diário da República n.º 22/2023, Série I de 2023-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2023-206767450), em vigor a partir de 2023-02-01
+
+###### Artigo 4.º — Serviços de Apoio
+
+1 - O PUC-CPI dispõe ainda de Serviços de Apoio jurídico, técnico e administrativo, aos quais compete, designadamente:
+
+a) Preparar informações e emitir pareceres sobre matérias de natureza jurídica e promover a adequada e necessária difusão da legislação;
+
+b) Exercer consultadoria técnica, planear, efetuar e participar em auditorias técnicas e ações de formação na área de informática;
+
+c) Programar e promover ações de formação e aperfeiçoamento permanente do pessoal adstrito ao PUC-CPI, bem como às demais autoridades de aplicação da lei utilizadoras dos canais de comunicação;
+
+d) Estudar, planear e gerir os sistemas de informação sob responsabilidade do PUC-CPI ou das suas unidades orgânicas;
+
+e) Estudar e inventariar necessidades em matéria de informática do PUC-CPI;
+
+f) Efetuar serviços de tradução e retroversão de documentos, correspondência e informação;
+
+g) Assegurar o funcionamento transversal do PUC-CPI e das suas unidades orgânicas;
+
+h) Efetuar a receção, registo, distribuição, expedição e arquivo de toda a correspondência e outros documentos;
+
+i) Realizar todos os procedimentos administrativos necessários à preparação do expediente a submeter a despacho e à sua execução;
+
+j) Exercer as demais funções que lhes sejam atribuídas pelo coordenador-geral.
+
+2 - Os Serviços de Apoio incluem elementos com formação profissional adequada nas seguintes áreas:
+
+a) Apoio jurídico;
+
+b) Tradução e interpretação;
+
+c) Tecnologias da informação e comunicações;
+
+d) Secretariado e arquivo;
+
+e) Outras consideradas relevantes para cumprimento da missão e objetivos estabelecidos para o PUC-CPI.
+
+3 - Mediante despacho devidamente fundamentado, e tendo em vista garantir o normal funcionamento do PUC-CPI, o Secretário-Geral do Sistema de Segurança Interna, por proposta do coordenador-geral, ouvidos os demais coordenadores, pode determinar que os elementos dos Serviços de Apoio desenvolvam a sua atividade em regime de turnos.
+
+4 - Os Serviços de Apoio funcionam na dependência direta do coordenador-geral.
+
+###### Artigo 5.º — Pessoal e encargos
+
+1 - Os elementos referidos no n.º 5 do artigo 2.º são trabalhadores em funções públicas, indicados pelas respetivas entidades e nomeados por despacho do Secretário-Geral do Sistema de Segurança Interna, exercendo as suas funções em regime de comissão de serviço pelo período de três anos, renovável, mantendo a remuneração devida na situação jurídico-funcional de origem, bem como a sua natureza funcional policial e de órgão de polícia criminal, e todos os direitos inerentes aos respetivos postos ou lugares de origem.
+
+2 - Os encargos com a remuneração dos elementos referidos no número anterior são suportados pela respetiva entidade, sendo o suplemento remuneratório de turno suportado pelo Gabinete do Secretário-Geral do Sistema de Segurança Interna.
+
+3 - Os elementos dos Serviços de Apoio são trabalhadores em funções públicas, nomeados por despacho do Secretário-Geral do Sistema de Segurança Interna, exercendo as suas funções em regime de comissão de serviço pelo período de três anos, renovável, mantendo a remuneração devida na situação jurídico-funcional de origem, bem como todos os direitos inerentes aos respetivos postos ou lugares de origem.
+
+4 - Os encargos com a remuneração dos elementos referidos no número anterior são suportados pelo Gabinete do Secretário-Geral do Sistema de Segurança Interna, incluindo o suplemento remuneratório de turno que, nos termos do n.º 3 do artigo anterior, venha a ser devido.
+
+5 - Em qualquer momento, a comissão de serviço referida nos n.os 1 e 3 pode ser dada por finda por despacho do Secretário-Geral do Sistema de Segurança Interna, mediante proposta do coordenador-geral do PUC-CPI, ouvidos os demais coordenadores, ou a requerimento do próprio.
+
+6 - O PUC-CPI pode reforçar o seu pessoal quando as necessidades técnicas assim o exijam, nos termos dos n.os 1 e 3.
+
+7 - Os coordenadores de gabinete podem optar pela remuneração-base devida na situação jurídico-funcional de origem, sendo os encargos com a remuneração suportados pela força ou serviço de segurança de origem até ao limite que ali auferiam, sendo o eventual remanescente suportado pelo Gabinete do Secretário-Geral do Sistema de Segurança Interna.
+
+8 - Os encargos de gestão, administrativos, operativos e logísticos do PUC-CPI são assegurados pelo orçamento do Gabinete do Secretário-Geral do Sistema de Segurança Interna.
+
+###### Artigo 6.º — Dever de sigilo
+
+Os elementos que desempenham funções no PUC-CPI observam os deveres de sigilo aplicáveis nos termos da lei, consoante a natureza da informação, designadamente os deveres que resultam dos respetivos estatutos de origem, dos regimes do segredo de Estado, do segredo de justiça e do quadro normativo respeitante à segurança das matérias classificadas.
+
+###### Artigo 7.º — Transição para o regime de comissão de serviço
+
+Mediante despacho do Secretário-Geral do Sistema de Segurança Interna, o pessoal que, à data de produção de efeitos do presente decreto-lei, exerça funções no PUC-CPI em regime de mobilidade transita para a situação de comissão de serviço prevista no artigo 5.º, sem prejuízo de oposição expressa do interessado ou do dirigente máximo da respetiva entidade, a comunicar no prazo de 10 dias.
+
+###### Artigo 8.º — Norma revogatória
+
+É revogado o Decreto Regulamentar n.º 7/2017, de 7 de agosto.
+
+###### Artigo 9.º — Produção de efeitos
+
+O presente decreto-lei produz efeitos no dia da sua aprovação.
+
+Visto e aprovado em Conselho de Ministros de 13 de fevereiro de 2020. - Pedro Gramaxo de Carvalho Siza Vieira - Ricardo Emanuel Martins Mourinho Félix - Catarina Teresa Rola Sarmento e Castro - Eduardo Arménio do Nascimento Cabrita - Francisca Eugénia da Silva Dias Van Dunem.
+
+Promulgado em 4 de março de 2020.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 9 de março de 2020.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113103834

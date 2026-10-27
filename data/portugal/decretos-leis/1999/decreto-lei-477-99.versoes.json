@@ -1,0 +1,109 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:683074:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-938632064",
+ "dre_path": "/dr/detalhe/decreto-lei/477-1999-683074",
+ "source_lastmod": "2025-10-10",
+ "versions": [
+  {
+   "date": "1999-11-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "938604266",
+    "938604267",
+    "938604268",
+    "938604269",
+    "938604270",
+    "938604271",
+    "938604272",
+    "938604273",
+    "938604274",
+    "938665675"
+   ]
+  }
+ ],
+ "fragments": {
+  "938604266": {
+   "fragment_id": "938632065",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 477/99\n\nde 9 de Novembro\n\nA Lei n.º 87-B/98, de 31 de Dezembro, que aprovou o Orçamento do Estado para 1999, autorizou o Governo, pelo seu artigo 42.º, n.º 6, a introduzir um regime de crédito fiscal ao investimento para protecção ambiental, nos domínios dos efluentes, da poluição atmosférica e resíduos sólidos, para os exercícios de 1999, 2000 e 2001.\n\nO presente diploma dá execução a essa autorização, definindo em especial o investimento considerado relevante nas três áreas poluentes, a saber, água e efluentes, poluição atmosférica e resíduos sólidos, tendo sido adoptada uma enumeração taxativa dos bens objecto de investimento relevantes, adquiridos em estado de novo, bem como de determinadas despesas, por imperativos de clareza e precisão do regime fiscal a instituir.\n\nIgualmente se procede a uma delimitação positiva dos sujeitos passivos de IRC que poderão usufruir deste regime ao circunscrever-se o âmbito da aplicação às empresas existentes em 31 de Dezembro de 1998 que desenvolvam actividades a título principal que se enquadrem no anexo I da Directiva n.º 96/61/CE, do Conselho, de 26 de Setembro de 1996, que deverá ser transposta para a ordem jurídica interna até finais de Outubro de 1999, e que elenca uma lista das actividades consideradas mais poluentes dentro das actividades industriais, numa perspectiva de prevenção e controlo integrados da poluição, não se aplicando contudo os limites de capacidade instalada aí referidos.\n\nO crédito de imposto corresponderá a 8% do investimento relevante, até à concorrência de 25% da colecta do IRC, na parte em que não tenha sido objecto de comparticipação financeira do Estado a fundo perdido, com o limite de 10000 contos, sendo a dedução feita na liquidação do IRC respeitante ao exercício em que foram efectuadas as aplicações relevantes, podendo a parte excedente, se existir, ser deduzida nas mesmas condições na liquidação dos três exercícios seguintes.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelo n.º 6 do artigo 42.º da Lei n.º 87-B/98, de 31 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "938604267": {
+   "fragment_id": "938632066",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - Os sujeitos passivos de IRC residentes em território português que exerçam a título principal uma actividade de natureza comercial, industrial ou agrícola e os não residentes com estabelecimento estável neste território que desenvolvam actividades consideradas poluentes podem deduzir ao montante apurado nos termos da alínea a) do n.º 1 do artigo 71.º do Código do IRC, e até à concorrência de 25% do mesmo, com o limite de 10000 contos, uma importância correspondente a 8% do investimento relevante, na parte em que não tenha sido objecto de comparticipação financeira do Estado a fundo perdido, efectuado nos períodos de tributação com início em 1999 e até 2001.\n\n2 - A dedução é feita, nos termos da alínea d) do n.º 2 do artigo 71.º do Código do IRC, na liquidação respeitante ao respectivo período de tributação em que foram realizadas as aplicações relevantes, mas, quando o não possa ser integralmente, a importância ainda não deduzida poderá sê-lo, nas mesmas condições, na liquidação dos três exercícios seguintes.\n\n3 - Para efeitos do disposto nos números anteriores, quando ocorrer mudança do período de tributação, deve ser considerado o período anual que se inicie naquele ano.\n\n4 - O disposto no presente artigo só é aplicável a investimentos relevantes relativos a explorações já existentes em 31 de Dezembro de 1998."
+  },
+  "938604268": {
+   "fragment_id": "938632067",
+   "type": 11,
+   "heading": "Artigo 2.º — Actividades e investimentos relevantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Actividades e investimentos relevantes\n\n1 - Para os efeitos do disposto no artigo anterior, só é relevante o investimento em activo imobilizado corpóreo adquirido em estado novo e que respeite aos seguintes equipamentos:\n\na) Na área das águas de abastecimento público e das águas residuais, os equipamentos electromecânicos dos sistemas de tratamento físico-químico e de sistemas de desinfecção, referidos no n.º 1 do anexo ao presente diploma;\n\nb) Na área dos resíduos sólidos, os equipamentos de valorização energética (incineração e biogás), de valorização biológica (compostagem e digestão anaeróbia), de valorização multimaterial, de movimentação, compactação, prensagem e confinamento de resíduos e de tratamento de efluentes, referidos no n.º 2 do anexo ao presente diploma;\n\nc) Na área das emissões atmosféricas, os equipamentos de tratamento de gases e de monitorização da qualidade do ar, referidos no n.º 3 do anexo ao presente diploma;\n\nd) Bem como, em qualquer das áreas poluentes, outros bens de investimento exclusiva ou predominantemente relacionados com a protecção ambiental.\n\n2 - Considera-se também investimento relevante as despesas comprovadamente suportadas com a aquisição de serviços de rejeição, recolha e tratamento de efluentes e de recolha, tratamento e valorização de resíduos industriais, prestados pelas entidades que constem da lista a aprovar por portaria dos Ministros das Finanças e do Ambiente e que tenham a seu cargo a gestão e a exploração de sistemas multimunicipais e intermunicipais ou outros sistemas colectivos de natureza similar.\n\n3 - Considera-se investimento efectuado num dado exercício o correspondente às adições verificadas nesse exercício de imobilizações corpóreas e, bem assim, o que, tendo a natureza de activo corpóreo e não dizendo respeito a adiantamentos, se traduza em adições às imobilizações em curso.\n\n4 - Não se consideram para efeitos do número anterior as adições de imobilizações corpóreas que resultem de transferência de imobilizado em curso transitado de exercícios anteriores, excepto se forem adiantamentos.\n\n5 - Ainda para efeitos do disposto no artigo anterior, só poderão beneficiar da dedução os sujeitos passivos de IRC que exerçam a título principal uma actividade enquadrada no anexo I da Directiva n.º 96/61/CE, do Conselho, de 26 de Setembro de 1996, não sendo para efeitos do presente diploma aplicáveis os valores mínimos de actividade ou de capacidade instalada referidos no mesmo anexo, bem como actividades turísticas de alojamento e de restauração."
+  },
+  "938604269": {
+   "fragment_id": "938632068",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições de acesso\n\n1 - Apenas poderão beneficiar da dedução a que se refere o artigo 1.º os sujeitos passivos de IRC que preencherem cumulativamente as seguintes condições:\n\na) O seu lucro tributável não seja determinado por métodos indirectos;\n\nb) Mantenham na empresa durante um período mínimo de três anos os bens objecto do investimento;\n\nc) Não sejam devedores ao Estado e à segurança social de quaisquer impostos ou contribuições ou tenham o pagamento dos seus débitos devidamente assegurado;\n\nd) Que não sejam condenadas em processo judicial ou contra-ordenacional por infracção às normas ambientais praticada no período do direito à usufruição do benefício, bem como nos três anos subsequentes ao termo daquele período.\n\n2 - Não se verifica a inobservância do disposto na alínea b) do número anterior quando os bens objecto do investimento sejam transmitidos para outra empresa em virtude de operações de fusão, cisão ou entrada de activos a que seja aplicável o disposto nos artigos 62.º e seguintes do Código do IRC."
+  },
+  "938604270": {
+   "fragment_id": "938632069",
+   "type": 11,
+   "heading": "Artigo 4.º — Dedução no regime de tributação pelo lucro consolidado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Dedução no regime de tributação pelo lucro consolidado\n\nAplicando-se o regime de tributação pelo lucro consolidado, nos termos dos artigos 59.º e seguintes do Código do IRC, a dedução a que se refere o artigo 1.º é feita de acordo com as seguintes regras:\n\na) A dedução é feita no montante apurado nos termos da alínea a) do n.º 1 do artigo 71.º do Código do IRC com base na matéria colectável consolidada;\n\nb) A dedução corresponde a 8% do investimento relevante de cada uma das sociedades integrantes do grupo, calculado autonomamente para cada uma delas, sendo valorizados ao custo de aquisição ou produção para o grupo os investimentos que resultem de operações efectuadas entre sociedades abrangidas pelo regime de tributação pelo lucro consolidado;\n\nc) A dedução é feita até 25% do montante mencionado na alínea a) e não pode ultrapassar, em relação a cada sociedade, 25% do valor que resulte da aplicação da taxa do IRC à matéria colectável correspondente à sociedade que efectuou o investimento depois de eliminados os resultados correspondentes às operações entre sociedades do grupo."
+  },
+  "938604271": {
+   "fragment_id": "938632070",
+   "type": 11,
+   "heading": "Artigo 5.º — Obrigações declarativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Obrigações declarativas\n\n1 - A dedução a que se refere o artigo 1.º será justificada por declaração, a anexar às respectivas declarações periódicas de rendimentos, indicando os bens objecto de investimento, o seu custo, a data da entrada em funcionamento, o cálculo do investimento adicional relevante e outros elementos considerados pertinentes.\n\n2 - As declarações periódicas de rendimentos devem ser acompanhadas de uma outra declaração a requerer pelas entidades interessadas, ou prova de apresentação do pedido de emissão dessa declaração, comprovativa de que os investimentos efectuados correspondem efectivamente a investimentos para protecção ambiental e que os mesmos se enquadram, no elenco dos activos elegíveis e no âmbito das actividades poluentes relevantes, a qual será emitida por entidade a nomear por despacho do Ministro do Ambiente.\n\n3 - As declarações periódicas de rendimentos devem ser também acompanhadas de documento comprovativo de que se encontra preenchida a condição referida na alínea c) do n.º 1 do artigo 3.º com referência ao mês anterior ao da declaração."
+  },
+  "938604272": {
+   "fragment_id": "938632071",
+   "type": 11,
+   "heading": "Artigo 6.º — Obrigações contabilísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigações contabilísticas\n\n1 - A contabilidade dos sujeitos passivos dará expressão ao imposto que deixe de ser pago em resultado da dedução a que se refere o artigo 1.º, mediante menção do valor correspondente no anexo ao balanço e à demonstração de resultados relativa ao exercício em que se efectuam as deduções.\n\n2 - Nos casos em que seja aplicável o regime de tributação pelo lucro consolidado, a menção a que se refere o número anterior é feita no anexo ao balanço e à demonstração de resultados da sociedade que efectuou o investimento e na parte que lhe corresponda."
+  },
+  "938604273": {
+   "fragment_id": "938632072",
+   "type": 11,
+   "heading": "Artigo 7.º — Da não acumulação de benefícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Da não acumulação de benefícios\n\nA dedução a que se refere o artigo 1.º não é acumulável, relativamente ao mesmo investimento, com benefícios fiscais da mesma natureza."
+  },
+  "938604274": {
+   "fragment_id": "938632073",
+   "type": 11,
+   "heading": "Artigo 8.º — Do incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Do incumprimento\n\n1 - No caso de incumprimento do disposto nas alíneas b) ou d) do n.º 1 do artigo 3.º, será adicionado ao IRC relativo ao exercício do incumprimento o IRC que deixou de ser liquidado em virtude do crédito fiscal por investimento, acrescido dos juros compensatórios correspondentes.\n\n2 - A correcção referida no número anterior é feita na liquidação do IRC relativa à empresa que beneficiou do crédito fiscal por investimento ou, no caso de essa empresa fazer parte de um grupo a que se aplique o regime de tributação pelo lucro consolidado, na liquidação do IRC relativa à respectiva declaração de consolidação."
+  },
+  "938665675": {
+   "fragment_id": "938632074",
+   "type": 14,
+   "heading": "Anexo — Investimentos elegíveis em activo imobilizado corpóreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Investimentos elegíveis em activo imobilizado corpóreo\n\n1 - Na área das águas de abastecimento público e águas residuais:\n\n1.1 - Equipamento electromecânico dos sistemas de tratamento físico-químico:\n\nMotores;\n\nArejadores;\n\nCompressores;\n\nBombas de recirculação e elevação;\n\nBombas de doseamento;\n\nTamisadores e grelhas mecânicas de separação de sólidos;\n\nFiltros prensas de membrana e outros;\n\nPontes raspadoras e descargas de fundo;\n\nMedidores de caudal;\n\nDescalssificadores;\n\nDeferrizadores;\n\nEquipamentos para osmose inversa;\n\n1.2 - Equipamento para os sistemas de desinfecção:\n\nReactores de ultravioletas;\n\nOzonizadores;\n\nClorómetros;\n\nBombas doseadoras de hipoclorito de sódio.\n\n2 - Na área de resíduos sólidos:\n\n2.1 - Equipamento de valorização energética (incineração e biogás):\n\nPontes rolantes;\n\nTremonhas de alimentação e remoção;\n\nVentiladores;\n\nCaldeiras e sobreaqueceder;\n\nTransportadores de resíduos;\n\nSeparadores magnéticos e filtros de mangas;\n\nDesgaseificadores e reactores;\n\n2.2 - Equipamento de valorização biológica (compostagem e digestão anaeróbia):\n\nTapetes transportadores;\n\nVentiladores;\n\nMesas densimétricas;\n\nTrituradores;\n\nCrivos rotativos;\n\nCompressores;\n\nEquipamento de revolvimento de composto;\n\nFiltros biológicos;\n\nGasómetros;\n\n2.3 - Equipamento de valorização multimaterial:\n\nContentores;\n\nEquipamento de transporte e recolha;\n\nTapetes transportadores;\n\nEquipamento de enfardamento;\n\nLinhas de lavagem de reutilizados;\n\n2.4 - Equipamento de movimentação, compactação, prensagem e confinamento de resíduos:\n\nMáquinas de movimentação;\n\nPrensas;\n\nTapetes transportadores;\n\nQueimadores de biogás;\n\nEquipamento de monitorização da qualidade das águas subterrâneas, do solo e do ar;\n\n2.5 - Equipamento de tratamento de efluentes.\n\n3 - Na área das emissões atmosféricas:\n\n3.1 - Equipamento de tratamento de gases:\n\nPrecipitadores electroestáticos;\n\nFiltros de mangas e outros filtros;\n\nVentiladores;\n\nLavadores de gases;\n\nIncineradores de gases;\n\nEquipamento de absorção e poluentes gasosos;\n\n3.2 - Equipamento de monitorização da qualidade do ar.\n\nVisto e aprovado em Conselho de Ministros de 16 de Setembro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Elisa Maria da Costa Guimarães Ferreira.\n\nPromulgado em 22 de Outubro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 26 de Outubro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

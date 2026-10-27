@@ -1,0 +1,155 @@
+---
+schema_version: '1.0'
+id: pt:dre:405294:por
+title: Decreto Legislativo Regional n.º 40/2002/A
+short_title: null
+summary: Aplica à Região Autónoma dos Açores o Decreto-Lei n.º 42/2001, de 9 de Fevereiro (regime especial de execução de
+  dívidas ao sistema de solidariedade e segurança social)
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 40/2002/A
+official_date: null
+publication_date: '2002-12-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 296/2002, Série I-A de 2002-12-23
+  number: '296'
+  series: I
+  supplement: null
+  pages: 8011 - 8011
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/12/296a00/80118011.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/40/2002/12/23/a/dre/pt/html
+  oj: null
+  dre: '405294'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/40-2002-405294
+  internal: pt:dre:405294:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2002-405294
+  metadata_url: https://data.dre.pt/eli/declegreg/40/2002/12/23/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2002-405294
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:19:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 9dd8bb33d7c2d76329670dc91bb3f61ee3e23dbb8e1fa66df9ab9629113c5d04
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:41Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Cobrança de Dívidas
+- Dívidas à Segurança Social
+- Execução por Dívidas
+- Instituto de Gestão de Regimes de Segurança Social
+- Instituto de Gestão Financeira da Segurança Social
+- Segurança Social
+relationships:
+- type: amended_by
+  target: pt:dre:145589083:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:145589083:por
+  label: Considerado revogado por esgotamento do objeto ou revogação tácita pelo(a) Decreto Legislativo Regional n.º 27/2020/A
+    - Diário da República n.º 202/2020, Série I de 2020-10-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/27-2020-145589083
+  date: '2020-10-16'
+- type: cites
+  target: pt:dre:319948:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/42/2001/02/09/p/dre
+article_structure:
+  article_count: 6
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:19:41Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 40/2002/A
+
+Aplica à Região Autónoma dos Açores o [Decreto-Lei n.º 42/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2001-319948), de 9 de Fevereiro (regime especial de execução de dívidas ao sistema de solidariedade e segurança social).
+
+O novo regime especial de execução de dívidas do âmbito do sistema de solidariedade e segurança social, aprovado pelo [Decreto-Lei n.º 42/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2001-319948), de 9 de Fevereiro, é aplicável à Região Autónoma dos Açores.
+
+Através do presente diploma, procede-se à sua adaptação, tendo em atenção o sistema organizativo da segurança social regional, e aproveita-se o ensejo para criar as secções de processo, a integrar na estrutura orgânica do Instituto de Gestão de Regimes de Segurança Social. A cargo destas secções ficará a execução de dívidas à segurança social dos contribuintes com sede ou área de residência na Região Autónoma dos Açores.
+
+Assim, a Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República, da alínea t) do artigo 8.º e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma aplica à Região Autónoma dos Açores, com as necessárias adaptações, o regime especial de execução de dívidas ao sistema de solidariedade e segurança social previsto no [Decreto-Lei n.º 42/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2001-319948), de 9 de Fevereiro.
+
+###### Artigo 2.º — Adaptação de competências
+
+1 - As competências atribuídas naquele diploma ao Instituto de Gestão Financeira da Segurança Social consideram-se atribuídas, para os mesmos fins, na Região Autónoma dos Açores, ao Instituto de Gestão de Regimes de Segurança Social.
+
+2 - As referências feitas às delegações do Instituto de Gestão Financeira da Segurança Social, no âmbito do processo de execução de dívidas à segurança social, entendem-se feitas, na Região Autónoma dos Açores, ao Instituto de Gestão de Regimes de Segurança Social.
+
+3 - As referências feitas às delegações do Instituto de Gestão Financeira da Segurança Social, no âmbito do patrocínio judiciário, entendem-se feitas, na Região Autónoma dos Açores, ao Instituto de Gestão de Regimes de Segurança Social.
+
+4 - As restantes referências feitas às delegações do Instituto de Gestão Financeira da Segurança Social correspondem, na Região Autónoma dos Açores, aos centros de prestações pecuniárias do Instituto de Gestão de Regimes de Segurança Social.
+
+###### Artigo 3.º
+
+#### Secção de processo
+
+São criadas, no Instituto de Gestão de Regimes de Segurança Social, secções de processo.
+
+###### Artigo 4.º — Legitimidade
+
+A legitimidade para reclamar créditos da segurança social em processo executivo a correr nos tribunais comuns, relativamente aos contribuintes sediados ou residentes na Região Autónoma dos Açores, pertence ao Instituto de Gestão de Regimes de Segurança Social.
+
+###### Artigo 5.º — Coligação de exequentes
+
+Compete ao membro do Governo Regional com competência em matéria de segurança social a decisão relativa à coligação, em processo de execução, das instituições do sistema regional de solidariedade e segurança social com as instituições do sistema fiscal.
+
+###### Artigo 6.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 13 de Novembro de 2002.
+
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
+
+Assinado em Angra do Heroísmo em 29 de Novembro de 2002.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

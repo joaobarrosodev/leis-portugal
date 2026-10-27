@@ -1,0 +1,641 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:445571:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2003-125071583",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/30-2003-445571",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2003-11-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "172340640",
+    "125007237",
+    "125007238",
+    "125007239",
+    "125007240",
+    "125007241",
+    "125007242",
+    "125007243",
+    "125007244",
+    "125007245",
+    "125007246",
+    "125007247",
+    "125007248",
+    "125007249",
+    "125007250",
+    "125007251",
+    "125007252",
+    "125007254"
+   ]
+  },
+  {
+   "date": "2019-10-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:125069180:por",
+     "title": "Decreto Regulamentar Regional n.º 8/2019/A",
+     "published": "2019-10-04",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "125071975",
+    "125071976",
+    "125071977",
+    "125071978",
+    "125071979",
+    "125071980",
+    "125071981",
+    "125071982",
+    "125071983",
+    "125071984",
+    "125071985",
+    "125071986",
+    "125071987",
+    "125071988",
+    "125071989",
+    "125071990",
+    "125071991",
+    "125071992",
+    "125071993"
+   ]
+  },
+  {
+   "date": "2020-04-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:132431980:por",
+     "title": "Decreto Regulamentar Regional n.º 10/2020/A",
+     "published": "2020-04-24",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "172340640",
+    "172340641",
+    "172340642",
+    "172340643",
+    "172340644",
+    "172340645",
+    "172340646",
+    "172340647",
+    "172340648",
+    "172340649",
+    "172340650",
+    "172340651",
+    "172340652",
+    "172340653",
+    "172340654",
+    "172340655",
+    "172340656",
+    "172340657",
+    "172340658"
+   ]
+  }
+ ],
+ "fragments": {
+  "172340640": {
+   "fragment_id": "125071584",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2020-04-25",
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 30/2003/A\n\nO Decreto Legislativo Regional n.º 9/2003/A, de 12 de Março, procedeu à criação do Conselho Regional de Concertação Estratégica, concedendo-lhe uma formulação e um enquadramento jurídico potenciador da sua vocação de organismo de concertação social, simultaneamente perspectivando-o como um organismo de natureza consultiva de alto nível com amplas competências na participação da formação e acompanhamento das políticas de desenvolvimento económico e social, bem como na avaliação da sua execução.\n\nO referido diploma legal, ao extinguir o Conselho Regional de Concertação Social, introduziu um novo equilíbrio na composição do novo órgão, com a redução significativa dos membros em representação do Governo Regional e envolvendo nele outros parceiros com interesse relevante no processo de desenvolvimento. No mesmo diploma, são definidas as bases da sua organização e funcionamento, remetendo-se contudo a sua operacionalização para regulamentação própria, por forma a garantir o seu efectivo funcionamento.\n\nCom o presente diploma, procede-se a essa operacionalização, tendo presente a preocupação de proceder à explicitação e desenvolvimento de matérias essenciais à definição de um quadro jurídico completo e coerente, sem retirar aos órgãos do Conselho Regional de Concertação Estratégica, no exercício da autonomia que lhe é reconhecida, a definição das normas reguladoras do seu funcionamento interno.\n\nFoi ouvido o plenário do Conselho Regional de Concertação Estratégica.\n\nAssim, no desenvolvimento do regime jurídico instituído pelo Decreto Legislativo Regional n.º 9/2003/A, de 12 de Março, em execução do seu artigo 20.º, e nos termos da alínea o) do artigo 60.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e da alínea d) do n.º 1 do artigo 227.º da Constituição, o Governo Regional decreta o seguinte:"
+  },
+  "125007237": {
+   "fragment_id": "125071585",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e sede\n\n1 - O Conselho Regional de Concertação Estratégica (CRCE) é o órgão de consulta e concertação no domínio das políticas económica, social e ambiental.\n\n2 - O CRCE tem sede em Ponta Delgada."
+  },
+  "125007238": {
+   "fragment_id": "125071586",
+   "type": 11,
+   "heading": "Artigo 2.º — Direito de iniciativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Direito de iniciativa\n\n1 - No quadro das competências que lhe são cometidas, o CRCE tem o direito de iniciativa.\n\n2 - O direito de iniciativa pode ser exercido por convocatória do presidente ou por decisão de um terço dos membros do CRCE, devendo neste caso ser apresentada a ordem de trabalhos."
+  },
+  "125007239": {
+   "fragment_id": "125071587",
+   "type": 11,
+   "heading": "Artigo 3.º — Emissão de pareceres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Emissão de pareceres\n\nA emissão dos pareceres solicitados ao CRCE tem lugar nos prazos determinados na lei ou nos seus regulamentos internos."
+  },
+  "125007240": {
+   "fragment_id": "125071588",
+   "type": 11,
+   "heading": "Artigo 4.º — Cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cooperação\n\nO CRCE pode estabelecer relações de cooperação e firmar acordos de permuta de informação com instituições que promovam, designadamente, objectivos de diálogo social, negociação colectiva e concertação."
+  },
+  "125007241": {
+   "fragment_id": "125071589",
+   "type": 11,
+   "heading": "Artigo 5.º — Verificação de poderes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Verificação de poderes\n\n1 - Compete ao presidente, sob proposta do secretário-geral, decidir sobre a conformidade legal do mandato dos membros designados para o CRCE.\n\n2 - A iniciativa de verificação da conformidade legal dos mandatos cabe ao presidente ou a qualquer membro do CRCE.\n\n3 - Das decisões do presidente cabe recurso para o plenário, nos termos a definir no regulamento interno de funcionamento do CRCE.\n\n4 - No processo de designação dos membros representativos de uma pluralidade de entidades da mesma área de interesses, são observados os critérios e procedimentos definidos no regulamento interno de funcionamento do CRCE."
+  },
+  "125007242": {
+   "fragment_id": "125071590",
+   "type": 11,
+   "heading": "Artigo 6.º — Reuniões dos órgãos colegiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Reuniões dos órgãos colegiais\n\n1 - De todas as reuniões dos órgãos colegiais do CRCE é lavrada acta com menção dos membros presentes, da ordem de trabalhos e da matéria relevante da respectiva discussão e votação, nomeadamente todas as declarações de voto produzidas.\n\n2 - Para efeitos do número anterior, os membros do CRCE disponibilizam resumo escrito das matérias abordadas ou das declarações de voto produzidas.\n\n3 - A aprovação da acta faz-se na reunião subsequente de cada órgão.\n\n4 - O projecto de acta é enviado aos respectivos membros juntamente com a convocatória para a reunião seguinte.\n\n5 - Poderão ser aprovadas, em minuta, deliberações urgentes."
+  },
+  "125007243": {
+   "fragment_id": "125071591",
+   "type": 11,
+   "heading": "Artigo 7.º — Comissões especializadas permanentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Comissões especializadas permanentes\n\nSão permanentes as comissões especializadas:\n\na) Da Economia e Opções de Desenvolvimento;\n\nb) Da Educação e Formação;\n\nc) Quaisquer outras que venham a ser criadas por decreto regulamentar regional."
+  },
+  "125007244": {
+   "fragment_id": "125071592",
+   "type": 11,
+   "heading": "Artigo 8.º — Composição das comissões especializadas permanentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Composição das comissões especializadas permanentes\n\n1 - A Comissão da Economia e Opções de Desenvolvimento é composta por dois representantes do Governo, dois representantes dos empregadores, dois representantes dos trabalhadores, um representante das autarquias locais, um representante das associações de defesa do ambiente, um representante do sector cooperativo e uma personalidade de reconhecido mérito.\n\n2 - A Comissão da Educação e Formação é composta por dois representantes do Governo, dois representantes dos empregadores, dois representantes dos trabalhadores, um representante das autarquias locais, um representante da Universidade dos Açores e uma personalidade de reconhecido mérito.\n\n3 - As comissões especializadas permanentes elegem de entre os seus membros o respectivo presidente, que assegura a direcção dos trabalhos e a ligação com os restantes órgãos do Conselho."
+  },
+  "125007245": {
+   "fragment_id": "125071593",
+   "type": 11,
+   "heading": "Artigo 9.º — Secretário-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Secretário-geral\n\n1 - O secretário-geral coordena os serviços de apoio técnico e administrativo do CRCE, sendo coadjuvado nas reuniões do Conselho por pessoal por si designado.\n\n2 - O secretário-geral do CRCE é nomeado, por despacho do Presidente do Governo, de entre indivíduos licenciados, vinculados ou não à Administração Pública, que possuam aptidão e experiência profissional adequada ao exercício das respectivas funções, ouvido o plenário do CRCE.\n\n3 - O despacho de nomeação, devidamente fundamentado, é publicado juntamente com o currículo do nomeado."
+  },
+  "125007246": {
+   "fragment_id": "125071594",
+   "type": 11,
+   "heading": "Artigo 10.º — Destacamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Destacamento\n\n1 - O presidente do CRCE promove, sob proposta do secretário-geral, o destacamento do pessoal técnico e administrativo a que se refere o n.º 4 do artigo 16.º do Decreto Legislativo Regional n.º 9/2003/A, de 9 de Março.\n\n2 - Ao abrigo do disposto no n.º 4 do artigo 16.º do Decreto Legislativo Regional n.º 9/2003/A, de 9 de Março, e nos termos do n.º 5 do artigo 27.º do Decreto-Lei n.º 427/89, de 7 de Dezembro, o destacamento pode ser feito sem limite de duração.\n\n3 - O exercício de funções no CRCE é contado, para todos os efeitos legais, designadamente para progressão nas respectivas carreiras, como prestado nos lugares de origem."
+  },
+  "125007247": {
+   "fragment_id": "125071595",
+   "type": 11,
+   "heading": "Artigo 11.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Financiamento\n\n1 - Os meios financeiros necessários ao funcionamento do CRCE são inscritos no orçamento regional, em verba afecta à Direcção Regional da Juventude, Emprego e Formação Profissional.\n\n2 - Para efeitos do número anterior, a comissão coordenadora aprova anualmente proposta de orçamento, mediante projecto elaborado pelo secretário-geral."
+  },
+  "125007248": {
+   "fragment_id": "125071596",
+   "type": 11,
+   "heading": "Artigo 12.º — Direito a transporte, ajudas de custo e senhas de presença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direito a transporte, ajudas de custo e senhas de presença\n\n1 - Os membros dos órgãos do CRCE têm direito a transporte e ajudas de custo, nos termos da legislação aplicável à administração pública regional.\n\n2 - A participação nas reuniões dos órgãos do CRCE confere aos membros que não sejam titulares de órgão de governo próprio da Região direito a senhas de presença, em montante a fixar por despacho do Presidente do Governo Regional, sob proposta do secretário-geral do CRCE."
+  },
+  "125007249": {
+   "fragment_id": "125071597",
+   "type": 11,
+   "heading": "Artigo 13.º — Regulamentos internos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regulamentos internos\n\n1 - Os regulamentos internos do CRCE são publicados na 2.ª série do Jornal Oficial da Região Autónoma dos Açores.\n\n2 - Até à publicação dos regulamentos referidos no número anterior, observa-se, com as necessárias adaptações, no funcionamento dos órgãos do CRCE, o regulamento interno de funcionamento do Conselho Regional de Concertação Social."
+  },
+  "125007250": {
+   "fragment_id": "125071598",
+   "type": 11,
+   "heading": "Artigo 14.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Quadro de pessoal\n\n1 - O quadro de pessoal do CRCE consta do quadro anexo, que faz parte integrante deste diploma.\n\n2 - O secretário-geral quando seja funcionário ou agente da Administração Pública mantém a respectiva remuneração, acrescida de uma gratificação correspondente a 80% do índice 100 da escala indiciária das carreiras do regime geral da função pública, contando o exercício de funções, para todos os efeitos legais, designadamente para progressão na respectiva carreira, como prestado no lugar de origem.\n\n3 - Não sendo funcionário ou agente da Administração Pública, o secretário-geral aufere uma remuneração equivalente ao índice 900 do regime geral da função pública."
+  },
+  "125007251": {
+   "fragment_id": "125071599",
+   "type": 11,
+   "heading": "Artigo 15.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Disposições transitórias\n\n1 - A Secretaria Regional da Educação e Cultura, através da Direcção Regional da Juventude, Emprego e Formação Profissional, prestará o apoio instrumental que se mostrar necessário para o regular funcionamento do Conselho até ao destacamento do pessoal a que se refere o artigo 10.º do presente diploma.\n\n2 - Os encargos financeiros inerentes ao funcionamento do CRCE são suportados, até à entrada em vigor do orçamento para o ano de 2004, pela dotação orçamental afecta ao Conselho Regional de Concertação Social."
+  },
+  "125007252": {
+   "fragment_id": "125071600",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "125007254": {
+   "fragment_id": "125071602",
+   "type": 14,
+   "heading": "Anexo — Quadro de pessoal do Conselho Regional de Concertação Estratégica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Quadro de pessoal do Conselho Regional de Concertação Estratégica\n\n(ver quadro no documento original)"
+  },
+  "125071975": {
+   "fragment_id": "125071584",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-10-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "Decreto Regulamentar Regional n.º 30/2003/A\n\nO Decreto Legislativo Regional n.º 9/2003/A, de 12 de Março, procedeu à criação do Conselho Regional de Concertação Estratégica, concedendo-lhe uma formulação e um enquadramento jurídico potenciador da sua vocação de organismo de concertação social, simultaneamente perspectivando-o como um organismo de natureza consultiva de alto nível com amplas competências na participação da formação e acompanhamento das políticas de desenvolvimento económico e social, bem como na avaliação da sua execução.\n\nO referido diploma legal, ao extinguir o Conselho Regional de Concertação Social, introduziu um novo equilíbrio na composição do novo órgão, com a redução significativa dos membros em representação do Governo Regional e envolvendo nele outros parceiros com interesse relevante no processo de desenvolvimento. No mesmo diploma, são definidas as bases da sua organização e funcionamento, remetendo-se contudo a sua operacionalização para regulamentação própria, por forma a garantir o seu efectivo funcionamento.\n\nCom o presente diploma, procede-se a essa operacionalização, tendo presente a preocupação de proceder à explicitação e desenvolvimento de matérias essenciais à definição de um quadro jurídico completo e coerente, sem retirar aos órgãos do Conselho Regional de Concertação Estratégica, no exercício da autonomia que lhe é reconhecida, a definição das normas reguladoras do seu funcionamento interno.\n\nFoi ouvido o plenário do Conselho Regional de Concertação Estratégica.\n\nAssim, no desenvolvimento do regime jurídico instituído pelo Decreto Legislativo Regional n.º 9/2003/A, de 12 de Março, em execução do seu artigo 20.º, e nos termos da alínea o) do artigo 60.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e da alínea d) do n.º 1 do artigo 227.º da Constituição, o Governo Regional decreta o seguinte:\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "125071976": {
+   "fragment_id": "125071585",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e sede",
+   "in_force_from": "2019-10-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza e sede\n\n1 - O Conselho Regional de Concertação Estratégica (CRCE) é o órgão de consulta e concertação no domínio das políticas económica, social e ambiental.\n\n2 - O CRCE tem sede em Ponta Delgada.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "125071977": {
+   "fragment_id": "125071586",
+   "type": 11,
+   "heading": "Artigo 2.º — Direito de iniciativa",
+   "in_force_from": "2019-10-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 2.º — Direito de iniciativa\n\n1 - No quadro das competências que lhe são cometidas, o CRCE tem o direito de iniciativa.\n\n2 - O direito de iniciativa pode ser exercido por convocatória do presidente ou por decisão de um terço dos membros do CRCE, devendo neste caso ser apresentada a ordem de trabalhos.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "125071978": {
+   "fragment_id": "125071587",
+   "type": 11,
+   "heading": "Artigo 3.º — Emissão de pareceres",
+   "in_force_from": "2019-10-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 3.º — Emissão de pareceres\n\nA emissão dos pareceres solicitados ao CRCE tem lugar nos prazos determinados na lei ou nos seus regulamentos internos.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "125071979": {
+   "fragment_id": "125071588",
+   "type": 11,
+   "heading": "Artigo 4.º — Cooperação",
+   "in_force_from": "2019-10-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 4.º — Cooperação\n\nO CRCE pode estabelecer relações de cooperação e firmar acordos de permuta de informação com instituições que promovam, designadamente, objectivos de diálogo social, negociação colectiva e concertação.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "125071980": {
+   "fragment_id": "125071589",
+   "type": 11,
+   "heading": "Artigo 5.º — Verificação de poderes",
+   "in_force_from": "2019-10-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 5.º — Verificação de poderes\n\n1 - Compete ao presidente, sob proposta do secretário-geral, decidir sobre a conformidade legal do mandato dos membros designados para o CRCE.\n\n2 - A iniciativa de verificação da conformidade legal dos mandatos cabe ao presidente ou a qualquer membro do CRCE.\n\n3 - Das decisões do presidente cabe recurso para o plenário, nos termos a definir no regulamento interno de funcionamento do CRCE.\n\n4 - No processo de designação dos membros representativos de uma pluralidade de entidades da mesma área de interesses, são observados os critérios e procedimentos definidos no regulamento interno de funcionamento do CRCE.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "125071981": {
+   "fragment_id": "125071590",
+   "type": 11,
+   "heading": "Artigo 6.º — Reuniões dos órgãos colegiais",
+   "in_force_from": "2019-10-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 6.º — Reuniões dos órgãos colegiais\n\n1 - De todas as reuniões dos órgãos colegiais do CRCE é lavrada acta com menção dos membros presentes, da ordem de trabalhos e da matéria relevante da respectiva discussão e votação, nomeadamente todas as declarações de voto produzidas.\n\n2 - Para efeitos do número anterior, os membros do CRCE disponibilizam resumo escrito das matérias abordadas ou das declarações de voto produzidas.\n\n3 - A aprovação da acta faz-se na reunião subsequente de cada órgão.\n\n4 - O projecto de acta é enviado aos respectivos membros juntamente com a convocatória para a reunião seguinte.\n\n5 - Poderão ser aprovadas, em minuta, deliberações urgentes.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "125071982": {
+   "fragment_id": "125071591",
+   "type": 11,
+   "heading": "Artigo 7.º — Comissões especializadas permanentes",
+   "in_force_from": "2019-10-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 7.º — Comissões especializadas permanentes\n\nSão permanentes as comissões especializadas:\n\na) Da Economia e Opções de Desenvolvimento;\n\nb) Da Educação e Formação;\n\nc) Quaisquer outras que venham a ser criadas por decreto regulamentar regional.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "125071983": {
+   "fragment_id": "125071592",
+   "type": 11,
+   "heading": "Artigo 8.º — Composição das comissões especializadas permanentes",
+   "in_force_from": "2019-10-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 8.º — Composição das comissões especializadas permanentes\n\n1 - A Comissão da Economia e Opções de Desenvolvimento é composta por dois representantes do Governo, dois representantes dos empregadores, dois representantes dos trabalhadores, um representante das autarquias locais, um representante das associações de defesa do ambiente, um representante do sector cooperativo e uma personalidade de reconhecido mérito.\n\n2 - A Comissão da Educação e Formação é composta por dois representantes do Governo, dois representantes dos empregadores, dois representantes dos trabalhadores, um representante das autarquias locais, um representante da Universidade dos Açores e uma personalidade de reconhecido mérito.\n\n3 - As comissões especializadas permanentes elegem de entre os seus membros o respectivo presidente, que assegura a direcção dos trabalhos e a ligação com os restantes órgãos do Conselho.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "125071984": {
+   "fragment_id": "125071593",
+   "type": 11,
+   "heading": "Artigo 9.º — Secretário-geral",
+   "in_force_from": "2019-10-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 9.º — Secretário-geral\n\n1 - O secretário-geral coordena os serviços de apoio técnico e administrativo do CRCE, sendo coadjuvado nas reuniões do Conselho por pessoal por si designado.\n\n2 - O secretário-geral do CRCE é nomeado, por despacho do Presidente do Governo, de entre indivíduos licenciados, vinculados ou não à Administração Pública, que possuam aptidão e experiência profissional adequada ao exercício das respectivas funções, ouvido o plenário do CRCE.\n\n3 - O despacho de nomeação, devidamente fundamentado, é publicado juntamente com o currículo do nomeado.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "125071985": {
+   "fragment_id": "125071594",
+   "type": 11,
+   "heading": "Artigo 10.º — Destacamento",
+   "in_force_from": "2019-10-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 10.º — Destacamento\n\n1 - O presidente do CRCE promove, sob proposta do secretário-geral, o destacamento do pessoal técnico e administrativo a que se refere o n.º 4 do artigo 16.º do Decreto Legislativo Regional n.º 9/2003/A, de 9 de Março.\n\n2 - Ao abrigo do disposto no n.º 4 do artigo 16.º do Decreto Legislativo Regional n.º 9/2003/A, de 9 de Março, e nos termos do n.º 5 do artigo 27.º do Decreto-Lei n.º 427/89, de 7 de Dezembro, o destacamento pode ser feito sem limite de duração.\n\n3 - O exercício de funções no CRCE é contado, para todos os efeitos legais, designadamente para progressão nas respectivas carreiras, como prestado nos lugares de origem.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "125071986": {
+   "fragment_id": "125071595",
+   "type": 11,
+   "heading": "Artigo 11.º — Financiamento",
+   "in_force_from": "2019-10-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 11.º — Financiamento\n\n1 - Os meios financeiros necessários ao funcionamento do CRCE são inscritos no orçamento regional, em verba afecta à Direcção Regional da Juventude, Emprego e Formação Profissional.\n\n2 - Para efeitos do número anterior, a comissão coordenadora aprova anualmente proposta de orçamento, mediante projecto elaborado pelo secretário-geral.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "125071987": {
+   "fragment_id": "125071596",
+   "type": 11,
+   "heading": "Artigo 12.º — Direito a transporte, ajudas de custo e senhas de presença",
+   "in_force_from": "2019-10-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 12.º — Direito a transporte, ajudas de custo e senhas de presença\n\n1 - Os membros dos órgãos do CRCE têm direito a transporte e ajudas de custo, nos termos da legislação aplicável à administração pública regional.\n\n2 - A participação nas reuniões dos órgãos do CRCE confere aos membros que não sejam titulares de órgão de governo próprio da Região direito a senhas de presença, em montante a fixar por despacho do Presidente do Governo Regional, sob proposta do secretário-geral do CRCE.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "125071988": {
+   "fragment_id": "125071597",
+   "type": 11,
+   "heading": "Artigo 13.º — Regulamentos internos",
+   "in_force_from": "2019-10-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 13.º — Regulamentos internos\n\n1 - Os regulamentos internos do CRCE são publicados na 2.ª série do Jornal Oficial da Região Autónoma dos Açores.\n\n2 - Até à publicação dos regulamentos referidos no número anterior, observa-se, com as necessárias adaptações, no funcionamento dos órgãos do CRCE, o regulamento interno de funcionamento do Conselho Regional de Concertação Social.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "125071989": {
+   "fragment_id": "125071598",
+   "type": 11,
+   "heading": "Artigo 14.º — Quadro de pessoal",
+   "in_force_from": "2019-10-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 14.º — Quadro de pessoal\n\n1 - O quadro de pessoal do CRCE consta do quadro anexo, que faz parte integrante deste diploma.\n\n2 - O secretário-geral quando seja funcionário ou agente da Administração Pública mantém a respectiva remuneração, acrescida de uma gratificação correspondente a 80% do índice 100 da escala indiciária das carreiras do regime geral da função pública, contando o exercício de funções, para todos os efeitos legais, designadamente para progressão na respectiva carreira, como prestado no lugar de origem.\n\n3 - Não sendo funcionário ou agente da Administração Pública, o secretário-geral aufere uma remuneração equivalente ao índice 900 do regime geral da função pública.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "125071990": {
+   "fragment_id": "125071599",
+   "type": 11,
+   "heading": "Artigo 15.º — Disposições transitórias",
+   "in_force_from": "2019-10-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 15.º — Disposições transitórias\n\n1 - A Secretaria Regional da Educação e Cultura, através da Direcção Regional da Juventude, Emprego e Formação Profissional, prestará o apoio instrumental que se mostrar necessário para o regular funcionamento do Conselho até ao destacamento do pessoal a que se refere o artigo 10.º do presente diploma.\n\n2 - Os encargos financeiros inerentes ao funcionamento do CRCE são suportados, até à entrada em vigor do orçamento para o ano de 2004, pela dotação orçamental afecta ao Conselho Regional de Concertação Social.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "125071991": {
+   "fragment_id": "125071600",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": "2019-10-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "125071992": {
+   "fragment_id": "125071601",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-10-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "Aprovado em Conselho do Governo Regional dos Açores, na Horta, em 11 de Setembro de 2003.\n\nO Presidente do Governo Regional, Carlos Manuel Martins do Vale César.\n\nAssinado em Angra do Heroísmo em 27 de Outubro de 2003.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "125071993": {
+   "fragment_id": "125071602",
+   "type": 14,
+   "heading": "Anexo — Quadro de pessoal do Conselho Regional de Concertação Estratégica",
+   "in_force_from": "2019-10-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "## Anexo — Quadro de pessoal do Conselho Regional de Concertação Estratégica\n\n(ver quadro no documento original)\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "172340641": {
+   "fragment_id": "125071585",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e sede",
+   "in_force_from": "2020-04-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza e sede\n\n1 - O Conselho Regional de Concertação Estratégica (CRCE) é o órgão de consulta e concertação no domínio das políticas económica, social e ambiental.\n\n2 - O CRCE tem sede em Ponta Delgada.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "172340642": {
+   "fragment_id": "125071586",
+   "type": 11,
+   "heading": "Artigo 2.º — Direito de iniciativa",
+   "in_force_from": "2020-04-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 2.º — Direito de iniciativa\n\n1 - No quadro das competências que lhe são cometidas, o CRCE tem o direito de iniciativa.\n\n2 - O direito de iniciativa pode ser exercido por convocatória do presidente ou por decisão de um terço dos membros do CRCE, devendo neste caso ser apresentada a ordem de trabalhos.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "172340643": {
+   "fragment_id": "125071587",
+   "type": 11,
+   "heading": "Artigo 3.º — Emissão de pareceres",
+   "in_force_from": "2020-04-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 3.º — Emissão de pareceres\n\nA emissão dos pareceres solicitados ao CRCE tem lugar nos prazos determinados na lei ou nos seus regulamentos internos.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "172340644": {
+   "fragment_id": "125071588",
+   "type": 11,
+   "heading": "Artigo 4.º — Cooperação",
+   "in_force_from": "2020-04-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 4.º — Cooperação\n\nO CRCE pode estabelecer relações de cooperação e firmar acordos de permuta de informação com instituições que promovam, designadamente, objectivos de diálogo social, negociação colectiva e concertação.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "172340645": {
+   "fragment_id": "125071589",
+   "type": 11,
+   "heading": "Artigo 5.º — Verificação de poderes",
+   "in_force_from": "2020-04-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 5.º — Verificação de poderes\n\n1 - Compete ao presidente, sob proposta do secretário-geral, decidir sobre a conformidade legal do mandato dos membros designados para o CRCE.\n\n2 - A iniciativa de verificação da conformidade legal dos mandatos cabe ao presidente ou a qualquer membro do CRCE.\n\n3 - Das decisões do presidente cabe recurso para o plenário, nos termos a definir no regulamento interno de funcionamento do CRCE.\n\n4 - No processo de designação dos membros representativos de uma pluralidade de entidades da mesma área de interesses, são observados os critérios e procedimentos definidos no regulamento interno de funcionamento do CRCE.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "172340646": {
+   "fragment_id": "125071590",
+   "type": 11,
+   "heading": "Artigo 6.º — Reuniões dos órgãos colegiais",
+   "in_force_from": "2020-04-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 6.º — Reuniões dos órgãos colegiais\n\n1 - De todas as reuniões dos órgãos colegiais do CRCE é lavrada acta com menção dos membros presentes, da ordem de trabalhos e da matéria relevante da respectiva discussão e votação, nomeadamente todas as declarações de voto produzidas.\n\n2 - Para efeitos do número anterior, os membros do CRCE disponibilizam resumo escrito das matérias abordadas ou das declarações de voto produzidas.\n\n3 - A aprovação da acta faz-se na reunião subsequente de cada órgão.\n\n4 - O projecto de acta é enviado aos respectivos membros juntamente com a convocatória para a reunião seguinte.\n\n5 - Poderão ser aprovadas, em minuta, deliberações urgentes.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "172340647": {
+   "fragment_id": "125071591",
+   "type": 11,
+   "heading": "Artigo 7.º — Comissões especializadas permanentes",
+   "in_force_from": "2020-04-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 7.º — Comissões especializadas permanentes\n\nSão permanentes as comissões especializadas:\n\na) Da Economia e Opções de Desenvolvimento;\n\nb) Da Educação e Formação;\n\nc) Quaisquer outras que venham a ser criadas por decreto regulamentar regional.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "172340648": {
+   "fragment_id": "125071592",
+   "type": 11,
+   "heading": "Artigo 8.º — Composição das comissões especializadas permanentes",
+   "in_force_from": "2020-04-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 8.º — Composição das comissões especializadas permanentes\n\n1 - A Comissão da Economia e Opções de Desenvolvimento é composta por dois representantes do Governo, dois representantes dos empregadores, dois representantes dos trabalhadores, um representante das autarquias locais, um representante das associações de defesa do ambiente, um representante do sector cooperativo e uma personalidade de reconhecido mérito.\n\n2 - A Comissão da Educação e Formação é composta por dois representantes do Governo, dois representantes dos empregadores, dois representantes dos trabalhadores, um representante das autarquias locais, um representante da Universidade dos Açores e uma personalidade de reconhecido mérito.\n\n3 - As comissões especializadas permanentes elegem de entre os seus membros o respectivo presidente, que assegura a direcção dos trabalhos e a ligação com os restantes órgãos do Conselho.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "172340649": {
+   "fragment_id": "125071593",
+   "type": 11,
+   "heading": "Artigo 9.º — Secretário-geral",
+   "in_force_from": "2020-04-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 9.º — Secretário-geral\n\n1 - O secretário-geral coordena os serviços de apoio técnico e administrativo do CRCE, sendo coadjuvado nas reuniões do Conselho por pessoal por si designado.\n\n2 - O secretário-geral do CRCE é nomeado, por despacho do Presidente do Governo, de entre indivíduos licenciados, vinculados ou não à Administração Pública, que possuam aptidão e experiência profissional adequada ao exercício das respectivas funções, ouvido o plenário do CRCE.\n\n3 - O despacho de nomeação, devidamente fundamentado, é publicado juntamente com o currículo do nomeado.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "172340650": {
+   "fragment_id": "125071594",
+   "type": 11,
+   "heading": "Artigo 10.º — Destacamento",
+   "in_force_from": "2020-04-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 10.º — Destacamento\n\n1 - O presidente do CRCE promove, sob proposta do secretário-geral, o destacamento do pessoal técnico e administrativo a que se refere o n.º 4 do artigo 16.º do Decreto Legislativo Regional n.º 9/2003/A, de 9 de Março.\n\n2 - Ao abrigo do disposto no n.º 4 do artigo 16.º do Decreto Legislativo Regional n.º 9/2003/A, de 9 de Março, e nos termos do n.º 5 do artigo 27.º do Decreto-Lei n.º 427/89, de 7 de Dezembro, o destacamento pode ser feito sem limite de duração.\n\n3 - O exercício de funções no CRCE é contado, para todos os efeitos legais, designadamente para progressão nas respectivas carreiras, como prestado nos lugares de origem.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "172340651": {
+   "fragment_id": "125071595",
+   "type": 11,
+   "heading": "Artigo 11.º — Financiamento",
+   "in_force_from": "2020-04-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 11.º — Financiamento\n\n1 - Os meios financeiros necessários ao funcionamento do CRCE são inscritos no orçamento regional, em verba afecta à Direcção Regional da Juventude, Emprego e Formação Profissional.\n\n2 - Para efeitos do número anterior, a comissão coordenadora aprova anualmente proposta de orçamento, mediante projecto elaborado pelo secretário-geral.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "172340652": {
+   "fragment_id": "125071596",
+   "type": 11,
+   "heading": "Artigo 12.º — Direito a transporte, ajudas de custo e senhas de presença",
+   "in_force_from": "2020-04-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 12.º — Direito a transporte, ajudas de custo e senhas de presença\n\n1 - Os membros dos órgãos do CRCE têm direito a transporte e ajudas de custo, nos termos da legislação aplicável à administração pública regional.\n\n2 - A participação nas reuniões dos órgãos do CRCE confere aos membros que não sejam titulares de órgão de governo próprio da Região direito a senhas de presença, em montante a fixar por despacho do Presidente do Governo Regional, sob proposta do secretário-geral do CRCE.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "172340653": {
+   "fragment_id": "125071597",
+   "type": 11,
+   "heading": "Artigo 13.º — Regulamentos internos",
+   "in_force_from": "2020-04-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 13.º — Regulamentos internos\n\n1 - Os regulamentos internos do CRCE são publicados na 2.ª série do Jornal Oficial da Região Autónoma dos Açores.\n\n2 - Até à publicação dos regulamentos referidos no número anterior, observa-se, com as necessárias adaptações, no funcionamento dos órgãos do CRCE, o regulamento interno de funcionamento do Conselho Regional de Concertação Social.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "172340654": {
+   "fragment_id": "125071598",
+   "type": 11,
+   "heading": "Artigo 14.º — Quadro de pessoal",
+   "in_force_from": "2020-04-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 14.º — Quadro de pessoal\n\n1 - O quadro de pessoal do CRCE consta do quadro anexo, que faz parte integrante deste diploma.\n\n2 - O secretário-geral quando seja funcionário ou agente da Administração Pública mantém a respectiva remuneração, acrescida de uma gratificação correspondente a 80% do índice 100 da escala indiciária das carreiras do regime geral da função pública, contando o exercício de funções, para todos os efeitos legais, designadamente para progressão na respectiva carreira, como prestado no lugar de origem.\n\n3 - Não sendo funcionário ou agente da Administração Pública, o secretário-geral aufere uma remuneração equivalente ao índice 900 do regime geral da função pública.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "172340655": {
+   "fragment_id": "125071599",
+   "type": 11,
+   "heading": "Artigo 15.º — Disposições transitórias",
+   "in_force_from": "2020-04-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 15.º — Disposições transitórias\n\n1 - A Secretaria Regional da Educação e Cultura, através da Direcção Regional da Juventude, Emprego e Formação Profissional, prestará o apoio instrumental que se mostrar necessário para o regular funcionamento do Conselho até ao destacamento do pessoal a que se refere o artigo 10.º do presente diploma.\n\n2 - Os encargos financeiros inerentes ao funcionamento do CRCE são suportados, até à entrada em vigor do orçamento para o ano de 2004, pela dotação orçamental afecta ao Conselho Regional de Concertação Social.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "172340656": {
+   "fragment_id": "125071600",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": "2020-04-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "172340657": {
+   "fragment_id": "125071601",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2020-04-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "Aprovado em Conselho do Governo Regional dos Açores, na Horta, em 11 de Setembro de 2003.\n\nO Presidente do Governo Regional, Carlos Manuel Martins do Vale César.\n\nAssinado em Angra do Heroísmo em 27 de Outubro de 2003.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  },
+  "172340658": {
+   "fragment_id": "125071602",
+   "type": 14,
+   "heading": "Anexo — Quadro de pessoal do Conselho Regional de Concertação Estratégica",
+   "in_force_from": "2020-04-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+   ],
+   "markdown": "## Anexo — Quadro de pessoal do Conselho Regional de Concertação Estratégica\n\n(ver quadro no documento original)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2020-132431980), em vigor a partir de 2020-04-25\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto Regulamentar Regional n.º 8/2019/A - Diário da República n.º 191/2019, Série I de 2019-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125069180), em vigor a partir de 2019-10-05"
+  }
+ }
+}

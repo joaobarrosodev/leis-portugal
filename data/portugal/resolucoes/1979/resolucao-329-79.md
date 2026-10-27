@@ -1,0 +1,102 @@
+---
+schema_version: '1.0'
+id: pt:dre:367597:por
+title: Resolução n.º 329/79
+short_title: null
+summary: Prorroga por cento e oitenta dias a vigência das medidas previstas no n.º 8 da Resolução n.º 159/78, de 20 de Outubro,
+  relativas à empresa Abel Alves de Figueiredo, Lda.
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 329/79
+official_date: null
+publication_date: '1979-11-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 269/1979, Série I de 1979-11-21
+  number: '269'
+  series: I
+  supplement: null
+  pages: 2980 - 2980
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/11/26900/29802980.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '367597'
+  dre_path: /dr/detalhe/resolucao/329-1979-367597
+  internal: pt:dre:367597:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/329-1979-367597
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/329-1979-367597
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:22:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7de62b6fd6edde5b3dc6184ce7759bb9a3f1e37d882b563cf28b823427f898c4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:22:13Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Contrato de Viabilização
+- Empresa Intervencionada
+- Intervenção do Estado
+- Prorrogação de Prazo
+relationships:
+- type: cites
+  target: pt:dre:172913:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:22:13Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 329/79
+
+A Resolução do Conselho de Ministros n.º 159/78, publicada no Diário da República, de 20 de Outubro de 1978, enquadra a cessação da intervenção do Estado na empresa Abel Alves de Figueiredo, Lda.
+
+Considerando que oportunamente a empresa apresentou à instituição de crédito maior credora a sua proposta de contrato de viabilização, a qual se encontra em apreciação, pelo que ainda não foi possível outorgar o referido contrato:
+
+O Conselho de Ministros, reunido em 31 de Outubro de 1979, resolveu:
+
+Ao abrigo do [Decreto-Lei n.º 74-B/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-b-1979-172913), de 5 de Abril, prorrogar por cento e oitenta dias a vigência das medidas previstas no n.º 8 da Resolução do Conselho de Ministros n.º 159/78, de 20 de Outubro.
+
+Presidência do Conselho de Ministros, 31 de Outubro de 1979. - O Primeiro-Ministro, Maria de Lourdes Ruivo da Silva Matos Pintasilgo.

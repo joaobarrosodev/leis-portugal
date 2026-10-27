@@ -1,0 +1,145 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:115552672:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2018-115553579",
+ "dre_path": "/dr/detalhe/decreto-lei/46-2018-115552672",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2018-06-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115531041",
+    "115531042",
+    "115531043",
+    "115531044",
+    "115531045",
+    "115531046",
+    "115531047",
+    "115531048",
+    "115531049"
+   ]
+  },
+  {
+   "date": "2019-06-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122747583:por",
+     "title": "Decreto-Lei n.º 84/2019",
+     "published": "2019-06-28",
+     "dre_path": "/dr/detalhe/decreto-lei/84-2019-122747583"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "115531041",
+    "115531042",
+    "115531043",
+    "115531044",
+    "115531045",
+    "115531046",
+    "115531047",
+    "122777499",
+    "115531049",
+    "115531050"
+   ]
+  }
+ ],
+ "fragments": {
+  "115531041": {
+   "fragment_id": "115553580",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 46/2018\n\nde 20 de junho\n\nO Fundo de Inovação, Tecnologia e Economia Circular, o Fundo de Dívida e Garantias, o Fundo de Capital e Quase Capital e o Fundo 200M são, essencialmente, instrumentos financeiros sujeitos à gestão de empresas que contribuem para a solvabilidade do mercado nacional através de soluções de financiamento flexíveis que permitem a melhoria das condições de concessão de linhas de crédito às empresas com dificuldades no acesso a financiamento bancário tradicional, ou de instrumentos de canalização de fundos europeus que visam colmatar as insuficiências de mercado no financiamento de Pequenas e Médias Empresas.\n\nImporta, por isso, proceder à simplificação de alguns procedimentos a que os referidos Fundos se encontram adstritos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "115531042": {
+   "fragment_id": "115553581",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei procede à primeira alteração:\n\na) Ao Decreto-Lei n.º 225/2015, de 9 de outubro, que procede à criação do Fundo de Capital e Quase Capital, gerido pela IFD - Instituição Financeira de Desenvolvimento, S. A., e vocacionado para a criação ou reforço de instrumentos financeiros de capitalização de empresas com recurso a financiamento de fundos europeus estruturais e de investimento;\n\nb) Ao Decreto-Lei n.º 226/2015, de 9 de outubro, que procede à criação do Fundo de Dívida e Garantias, gerido pela IFD - Instituição Financeira de Desenvolvimento, S. A., e vocacionado para a criação ou reforço de instrumentos financeiros de capitalização de empresas com recurso a financiamento de fundos europeus estruturais e de investimento;\n\nc) Ao Decreto-Lei n.º 86-C/2016, de 29 de dezembro, que cria o Fundo de Inovação, Tecnologia e Economia Circular;\n\nd) Ao Decreto-Lei n.º 126-C/2017, de 6 de outubro, que cria o Fundo de Coinvestimento 200M."
+  },
+  "115531043": {
+   "fragment_id": "115553582",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Decreto-Lei n.º 225/2015, de 9 de outubro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Decreto-Lei n.º 225/2015, de 9 de outubro\n\nOs artigos 9.º e 18.º do Decreto-Lei n.º 225/2015, de 9 de outubro, passam a ter a seguinte redação:\n\n«Artigo 9.º\n\n[...]\n\n1 - [...].\n\n2 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) Utilizar os saldos do FC&QC, os quais transitam automaticamente para o ano económico subsequente, desde que respeitantes a saldos de receitas de fundos europeus e destinados a aplicar em ativos financeiros;\n\ni) Autorizar, independentemente do valor, as despesas a assumir pelo FC&QC na celebração de contratos exclusivamente financiados por fundos europeus e as despesas relativas à parte financiada por fundos europeus de contratos cofinanciados;\n\nj) Autorizar a assunção de encargos plurianuais com ativos financeiros desde que exclusivamente financiados por fundos europeus e na parte financiada por fundos europeus no caso de encargos cofinanciados;\n\nk) [Anterior alínea h).]\n\nl) [Anterior alínea i).]\n\nm) [Anterior alínea j).]\n\nn) [Anterior alínea l).]\n\no) [Anterior alínea m).]\n\np) [Anterior alínea n).]\n\nq) [Anterior alínea o).]\n\nr) [Anterior alínea p).]\n\ns) [Anterior alínea q).]\n\nt) [Anterior alínea r).]\n\nu) [Anterior alínea s).]\n\nArtigo 18.º\n\n[...]\n\n1 - [...].\n\n2 - O FC&QC não está sujeito ao disposto no Decreto-Lei n.º 192/2015, de 11 de setembro, na sua redação atual, que prevê o Sistema de Normalização Contabilística para as Administrações Públicas 'SNC-AP', exceto quanto ao cumprimento dos requisitos relativos à contabilidade orçamental e à utilização do plano de contas multidimensional, para efeitos de integração da informação no Sistema Central de Contabilidade e Contas Públicas.»"
+  },
+  "115531044": {
+   "fragment_id": "115553583",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração ao Decreto-Lei n.º 226/2015, de 9 de outubro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração ao Decreto-Lei n.º 226/2015, de 9 de outubro\n\nOs artigos 9.º e 18.º do Decreto-Lei n.º 226/2015, de 9 de outubro, passam a ter a seguinte redação:\n\n«Artigo 9.º\n\n[...]\n\n1 - [...].\n\n2 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) Utilizar os saldos do FD&G, os quais transitam automaticamente para o ano económico subsequente, desde que respeitantes a saldos de receitas de fundos europeus e destinados a aplicar em ativos financeiros;\n\ni) Autorizar as despesas, independentemente do valor, a assumir pelo FD&G na celebração de contratos exclusivamente financiados por fundos europeus e as despesas relativas à parte financiada por fundos europeus de contratos cofinanciados;\n\nj) Autorizar a assunção de encargos plurianuais com ativos financeiros desde que exclusivamente financiados por fundos europeus e na parte financiada por fundos europeus no caso de encargos cofinanciados;\n\nk) [Anterior alínea h).]\n\nl) [Anterior alínea i).]\n\nm) [Anterior alínea j).]\n\nn) [Anterior alínea l).]\n\no) [Anterior alínea m).]\n\np) [Anterior alínea n).]\n\nq) [Anterior alínea o).]\n\nr) [Anterior alínea p).]\n\ns) [Anterior alínea q).]\n\nt) [Anterior alínea r).]\n\nu) [Anterior alínea s).]\n\nArtigo 18.º\n\n[...]\n\n1 - [...].\n\n2 - O FD&G não está sujeito ao disposto no Decreto-Lei n.º 192/2015, de 11 de setembro, na sua redação atual, que prevê o Sistema de Normalização Contabilística para as Administrações Públicas 'SNC-AP', exceto quanto ao cumprimento dos requisitos relativos à contabilidade orçamental e à utilização do plano de contas multidimensional, para efeitos de integração da informação no Sistema Central de Contabilidade e Contas Públicas.»"
+  },
+  "115531045": {
+   "fragment_id": "115553584",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração ao Decreto-Lei n.º 86-C/2016, de 29 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração ao Decreto-Lei n.º 86-C/2016, de 29 de dezembro\n\nOs artigos 5.º e 7.º do Decreto-Lei n.º 86-C/2016, de 29 de dezembro, passam a ter a seguinte redação:\n\n«Artigo 5.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - Os saldos de receitas de fundos europeus que venham a ser apurados no fim de cada ano económico transitam automaticamente para o ano seguinte.\n\nArtigo 7.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...]:\n\na) [...];\n\nb) [...];\n\nc) Utilizar os saldos do Fundo, os quais transitam automaticamente para o ano económico subsequente, desde que respeitantes a saldos de receitas de fundos europeus e destinados a aplicar em ativos financeiros;\n\nd) Autorizar, independentemente do valor, as despesas a assumir pelo Fundo na celebração de contratos exclusivamente financiados por fundos europeus e as despesas relativas à parte financiada por fundos europeus de contratos cofinanciados;\n\ne) Autorizar a assunção de encargos plurianuais com ativos financeiros desde que exclusivamente financiados por fundos europeus e na parte financiada por fundos europeus no caso de encargos cofinanciados.»"
+  },
+  "115531046": {
+   "fragment_id": "115553585",
+   "type": 11,
+   "heading": "Artigo 5.º — Aditamento ao Decreto-Lei n.º 86-C/2016, de 29 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Aditamento ao Decreto-Lei n.º 86-C/2016, de 29 de dezembro\n\nÉ aditado ao Decreto-Lei n.º 86-C/2016, de 29 de dezembro, o artigo 11.º-A, com a seguinte redação:\n\n«Artigo 11.º-A\n\nPlano de contas\n\n1 - O plano de contas do Fundo é organizado de modo a permitir registar todas as operações realizadas e identificar claramente a sua estrutura patrimonial e de funcionamento, bem como permitir a segregação por origem de fundos, nomeadamente por programa financiador.\n\n2 - O Fundo não está sujeito ao disposto no Decreto-Lei n.º 192/2015, de 11 de setembro, na sua redação atual, que prevê o Sistema de Normalização Contabilística para as Administrações Públicas 'SNC-AP', exceto quanto ao cumprimento dos requisitos relativos à contabilidade orçamental e à utilização do plano de contas multidimensional, para efeitos de integração da informação no Sistema Central de Contabilidade e Contas Públicas.»"
+  },
+  "115531047": {
+   "fragment_id": "115553586",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração ao Decreto-Lei n.º 126-C/2017, de 6 de outubro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alteração ao Decreto-Lei n.º 126-C/2017, de 6 de outubro\n\nOs artigos 9.º e 17.º do Decreto-Lei n.º 126-C/2017, de 6 de outubro, passam a ter a seguinte redação:\n\n«Artigo 9.º\n\n[...]\n\n1 - [...].\n\n2 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) Utilizar os saldos do Fundo, os quais transitam automaticamente para o ano económico subsequente, desde que respeitantes a saldos de receitas de fundos europeus e destinados a aplicar em ativos financeiros;\n\nh) Autorizar as despesas, independentemente do valor, a assumir pelo Fundo na celebração de contratos exclusivamente financiados por fundos europeus e as despesas relativas à parte financiada por fundos europeus de contratos cofinanciados;\n\ni) Autorizar a assunção de encargos plurianuais com ativos financeiros desde que exclusivamente financiados por fundos europeus e na parte financiada por fundos europeus no caso de encargos cofinanciados;\n\nj) [Anterior alínea g).]\n\nk) [Anterior alínea h).]\n\nl) [Anterior alínea i).]\n\nm) [Anterior alínea j).]\n\nn) [Anterior alínea l).]\n\no) [Anterior alínea m).]\n\np) [Anterior alínea n).]\n\nq) [Anterior alínea o).]\n\nr) [Anterior alínea p).]\n\ns) [Anterior alínea q).]\n\nt) [Anterior alínea r).]\n\nu) [Anterior alínea s).]\n\nArtigo 17.º\n\n[...]\n\n1 - [...].\n\n2 - O Fundo não está sujeito ao disposto no Decreto-Lei n.º 192/2015, de 11 de setembro, que prevê o Sistema de Normalização Contabilística para as Administrações Públicas 'SNC-AP', exceto quanto ao cumprimento dos requisitos relativos à contabilidade orçamental e à utilização do plano de contas multidimensional, para efeitos de integração da informação no Sistema Central de Contabilidade e Contas Públicas.»"
+  },
+  "115531048": {
+   "fragment_id": "115553587",
+   "type": 11,
+   "heading": "Artigo 7.º — Simplificação de procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Simplificação de procedimentos\n\n1 - Os processos relativos à concessão empréstimos e subvenções, realização de outras operações de crédito ativas, assunção de passivos ou responsabilidades e concessão de garantias a favor de outras entidades, a realizar pelos Fundos criados pelos Decretos-Leis n.os 225/2015, de 9 de outubro, 226/2015, de 9 de outubro, e 86-C/2016, de 29 de dezembro, e que careçam de apreciação pelo membro do Governo responsável pela área das finanças são analisados no prazo máximo de 10 dias após a apresentação do pedido.\n\n2 - Sem prejuízo da previsão no decreto-lei de execução orçamental de um regime simplificado de prestação de informação relativamente aos Fundos a que se refere o número anterior, os mesmos regem-se por um regime especial de controlo da execução orçamental, nos seguintes termos:\n\na) No que se refere a despesas com ativos financeiros e na parte financiada por fundos europeus, não estão sujeitos às regras relativas:\n\ni) À cabimentação da despesa;\n\nii) Às alterações orçamentais, com exceção das que envolvam a diminuição do saldo global, as que envolvam o reforço, a inscrição ou anulação de dotações relativas a ativos ou passivos financeiros, ou que respeitem a descativações, dotação provisional ou outras dotações centralizadas;\n\niii) À transição de saldos;\n\niv) À assunção de encargos plurianuais;\n\nb) Não estão sujeitos às regras relativas:\n\ni) Aos fundos de maneio;\n\nii) À adoção do SNC-AP;\n\niii) Aos prazos para autorização de pagamentos e cobrança de receita;\n\niv) Às previsões mensais de execução, exceto a previsão inicial;\n\nv) Ao registo de informação sobre fundos disponíveis, compromissos, contas a pagar e pagamentos em atraso.\n\n3 - Compete à entidade gestora dos Fundos criados pelo Decreto-Lei n.º 225/2015, de 9 de outubro, e pelo Decreto-Lei n.º 226/2015, de 9 de outubro, autorizar a transição e utilização dos saldos de receitas próprias de cada um destes Fundos na parte exclusivamente destinada a garantir a contrapartida nacional de compromissos plurianuais cofinanciados por fundos europeus, desde que preenchidos os seguintes requisitos cumulativos:\n\na) A assunção do compromisso plurianual tenha sido autorizada nos termos do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, com expressa identificação das fontes de financiamento e finalidade da despesa;\n\nb) Os compromissos plurianuais tenham sido inscritos na base de dados central, disponibilizada pela Direção-Geral do Orçamento (DGO), a que se refere o n.º 1 do artigo 13.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual e a informação esteja devidamente atualizada;\n\nc) Os saldos de gerência sejam aplicados em ativos financeiros como contrapartida nacional de fundos europeus de acordo com as fontes de financiamento dos saldos de gerência e a finalidade a que se refere a alínea a).\n\n4 - O disposto no número anterior não dispensa, nos casos aplicáveis, o cumprimento do dever de solicitar à DGO informação prévia sobre o cabimento dos empréstimos e outras operações ativas a conceder e o dever de prestar à DGO informação destinada a garantir o controlo do limite para a concessão de empréstimos e outras operações ativas previsto na Lei do Orçamento do Estado."
+  },
+  "115531049": {
+   "fragment_id": "115553588",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "122777499": {
+   "fragment_id": "115553587",
+   "type": 11,
+   "heading": "Artigo 7.º — Simplificação de procedimentos",
+   "in_force_from": "2019-06-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 185.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 7.º — Simplificação de procedimentos\n\n1 - Os processos relativos à concessão empréstimos e subvenções, realização de outras operações de crédito ativas, assunção de passivos ou responsabilidades e concessão de garantias a favor de outras entidades, a realizar pelos Fundos criados pelos Decretos-Leis n.os 225/2015, de 9 de outubro, 226/2015, de 9 de outubro, 86-C/2016, de 29 de dezembro, e 68/2018, de 17 de agosto, e que careçam de apreciação pelo membro do Governo responsável pela área das finanças são analisados no prazo máximo de 10 dias após a apresentação do pedido.\n\n2 - Sem prejuízo da previsão no decreto-lei de execução orçamental de um regime simplificado de prestação de informação relativamente aos Fundos a que se refere o número anterior, os mesmos regem-se por um regime especial de controlo da execução orçamental, nos seguintes termos:\n\na) No que se refere a despesas com ativos financeiros e na parte financiada por fundos europeus, não estão sujeitos às regras relativas:\n\ni) À cabimentação da despesa;\n\nii) Às alterações orçamentais, com exceção das que envolvam a diminuição do saldo global, as que envolvam o reforço, a inscrição ou anulação de dotações relativas a ativos ou passivos financeiros, ou que respeitem a descativações, dotação provisional ou outras dotações centralizadas;\n\niii) À transição de saldos;\n\niv) À assunção de encargos plurianuais;\n\nb) Não estão sujeitos às regras relativas:\n\ni) Aos fundos de maneio;\n\nii) À adoção do SNC-AP;\n\niii) Aos prazos para autorização de pagamentos e cobrança de receita;\n\niv) Às previsões mensais de execução, exceto a previsão inicial;\n\nv) Ao registo de informação sobre fundos disponíveis, compromissos, contas a pagar e pagamentos em atraso.\n\n3 - Compete à entidade gestora dos Fundos criados pelo Decreto-Lei n.º 225/2015, de 9 de outubro, e pelo Decreto-Lei n.º 226/2015, de 9 de outubro, autorizar a transição e utilização dos saldos de receitas próprias de cada um destes Fundos na parte exclusivamente destinada a garantir a contrapartida nacional de compromissos plurianuais cofinanciados por fundos europeus, desde que preenchidos os seguintes requisitos cumulativos:\n\na) A assunção do compromisso plurianual tenha sido autorizada nos termos do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, com expressa identificação das fontes de financiamento e finalidade da despesa;\n\nb) Os compromissos plurianuais tenham sido inscritos na base de dados central, disponibilizada pela Direção-Geral do Orçamento (DGO), a que se refere o n.º 1 do artigo 13.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual e a informação esteja devidamente atualizada;\n\nc) Os saldos de gerência sejam aplicados em ativos financeiros como contrapartida nacional de fundos europeus de acordo com as fontes de financiamento dos saldos de gerência e a finalidade a que se refere a alínea a).\n\n4 - O disposto no número anterior não dispensa, nos casos aplicáveis, o cumprimento do dever de solicitar à DGO informação prévia sobre o cabimento dos empréstimos e outras operações ativas a conceder e o dever de prestar à DGO informação destinada a garantir o controlo do limite para a concessão de empréstimos e outras operações ativas previsto na Lei do Orçamento do Estado.\n\n> Alterado pelo/a Artigo 185.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "115531050": {
+   "fragment_id": "115553589",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 22 de março de 2018. - Augusto Ernesto Santos Silva - António Manuel Veiga dos Santos Mendonça Mendes - Manuel Frederico Tojal de Valsassina Heitor - José António Fonseca Vieira da Silva - Pedro Manuel Dias de Jesus Marques - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes.\n\nPromulgado em 4 de junho de 2018.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 8 de junho de 2018.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n111417796"
+  }
+ }
+}

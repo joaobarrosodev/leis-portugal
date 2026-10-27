@@ -1,0 +1,1158 @@
+---
+schema_version: '1.0'
+id: pt:dre:285479:por
+title: Decreto-Lei n.º 155/88
+short_title: null
+summary: Nova Lei Orgânica da Direcção-Geral do Turismo
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Comércio e Turismo
+proposing_entity: null
+official_number: 155/88
+official_date: null
+publication_date: '1988-04-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 99/1988, Série I de 1988-04-29
+  number: '99'
+  series: I
+  supplement: null
+  pages: 1743 - 1756
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/04/09900/17431756.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '285479'
+  dre_path: /dr/detalhe/decreto-lei/155-1988-285479
+  internal: pt:dre:285479:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1988-285479
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1988-285479
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:24:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 049d42ff37ee3f829d6b7a3e5def986a70aceaa7e7fde78332605cd8d4f3c3be
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:24:47Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral do Turismo
+- Orgânica
+relationships:
+- type: amended_by
+  target: pt:dre:159993990:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:619699:por
+  label: "Alargada a área de recrutamento de pessoal para o cargo de chefe de Divisão do Planeamento do Gabinete de Estudos\
+    \ e Planeamento da Direcção-Geral do Turismo pela PORT.511/89.1989.07.06.MF DR.IS [153]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/511-1989-619699
+  date: '1989-07-06'
+- type: amended_by
+  target: pt:dre:1542869:por
+  label: "Alterado o mapa anexo pelo presente diploma, pela PORT.248/96IIS.1996.10.04.PCM DR.IIS [263] de 13.11.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/248-1996-1542869
+  date: '1996-10-04'
+- type: amended_by
+  target: pt:dre:3239111:por
+  label: "Alterado o quadro de pessoal, pela PORT.274/96IIS.1996.11.05.PCM DR.IIS [278] DE 30/NOV/1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/274-1996-3239111
+  date: '1996-11-05'
+- type: amended_by
+  target: pt:dre:3239112:por
+  label: "Alterado o quadro de pessoal pela PORT.275/96IIS.1996.11.05.PCM, DR.IIS [278] de 30/Nov/1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/275-1996-3239112
+  date: '1996-11-05'
+- type: amended_by
+  target: pt:dre:1428506:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo ao presente diploma pela PORT.878/98(2ªSÉRIE).1998.08.04.PCM,\
+    \ DR.IIS [192] de 21/Ago/1998\0998\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/878-1998-1428506
+  date: '1998-08-04'
+- type: amended_by
+  target: pt:dre:1206403:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo ao presente diploma, pela PORT.322/99(2ªSÉRIE).1999.02.25.PCM\
+    \ DR.IIS [66] DE 19/MAR/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/322-1999-1206403
+  date: '1999-02-25'
+- type: amended_by
+  target: pt:dre:2759487:por
+  label: "Alterado o quadro de pessoal pela PORT.411/99(2ªSÉRIE).1999.04.05.PCM DR.IIS [93] de 21/Abr/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/411-1999-2759487
+  date: '1999-04-05'
+- type: amended_by
+  target: pt:dre:1644073:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo, mantido em vigor pelo Dec Lei 292/98, pela PORT.451/99(2ªSÉRIE).1999.04.21.PCM\
+    \ DR.IIS [102] de 03/Mai/1999\099\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/451-1999-1644073
+  date: '1999-04-21'
+- type: amended_by
+  target: pt:dre:1203612:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo, pela PORT.774/2000(2&#170;S&#201;RIE).2000.05.04.MECO, DR.IIS\
+    \ [113] de 16/Mai/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/774-2000-1203612
+  date: '2000-05-04'
+- type: amended_by
+  target: pt:dre:2002487:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo, pela PORT.1527/2000(2ªSÉRIE).2000.09.11.MF, DR.IIS [230] de\
+    \ 04/Out/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1527-2000-2002487
+  date: '2000-09-11'
+- type: amended_by
+  target: pt:dre:2092975:por
+  label: "Alterado o quadro de pessoal pela PORT.512/2003(2&#170;S&#201;RIE).2003.04.04.MFDR.IIS [99] de 29/Abr/2003. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/512-2003-2092975
+  date: '2003-04-29'
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:222411:por
+  label: Rectificado pela DECL.DD2662.1988.05.30.PCM,DR.IS [126]3º Supl de 31/Mai/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-222411
+  date: '1988-05-30'
+- type: repealed_by
+  target: pt:dre:241440:por
+  label: "Revogado pelo DEC LEI.292/98.1998.09.18.MECO, DR.IS-A [216]. Mantendo-se em vigor o quadro de pessoal até que seja\
+    \ aprovado por portaria o novo quadro de pessoal.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/292-1998-241440
+  date: '1998-09-18'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
+article_structure:
+  article_count: 64
+  section_count: 29
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:24:47Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 155/88
+
+de 29 de Abril
+
+A Direcção-Geral do Turismo (DGT) mantém basicamente a estrutura orgânica decorrente da publicação do [Decreto-Lei n.º 48686](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48686-1968-263726), de 15 de Novembro de 1968, na parte respeitante à área do turismo.
+
+Para a sua reestruturação vários trabalhos preparatórios têm vindo a ser feitos desde 1976 sem que, até à data, qualquer dos projectos elaborados tenha tido publicação.
+
+A transferência para o Instituto de Promoção Turística, criado pelo [Decreto-Lei n.º 402/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1986-221515), de 3 de Dezembro, das funções de promoção até então inseridas nas atribuições da Direcção-Geral do Turismo e as exigências ora postas a este organismo no domínio da oferta Turística portuguesa, designadamente nos aspectos de qualidade, inovação e diversificação, tornam premente a publicação de uma lei orgânica em termos de dotar aquela Direcção-Geral de maior capacidade de acção em áreas fulcrais como são o ordenamento e planeamento turístico, o apoio ao investidor, as relações internacionais - nomeadamente com a CEE - e as relações com as diversas entidades públicas e privadas que intervêm no sector de turismo.
+
+O que fica referido justifica plenamente a oportunidade da presente reestruturação da DGT, sendo de salientar que na sua elaboração houve ainda a preocupação de reduzir ao máximo os encargos financeiros daí decorrentes, sem se perder de vista a eficácia visada.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+### CAPÍTULO I — Natureza, atribuições e competências
+
+###### Artigo 1.º — Natureza
+
+A Direcção-Geral do Turismo, abreviadamente designada por DGT, criada pelo [Decreto-Lei n.º 48686](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48686-1968-263726), de 15 de Novembro de 1968, é o serviço dotado de autonomia administrativa e financeira que, no âmbito do Ministério do Comércio e Turismo, tem por objecto estudar, promover, coordenar e executar as medidas e acções compreendidas na política turística nacional.
+
+###### Artigo 2.º — Atribuições
+
+São atribuições da DGT:
+
+a) Estudar e contribuir para a definição da política turística nacional;
+
+b) Estudar e propor os planos, programas e projectos a realizar ou coordenar pela Administração no sector turístico;
+
+c) Fomentar e criar o aproveitamento e a preservação dos recursos turísticos do País;
+
+d) Propor, promover e acompanhar acções no âmbito da oferta turística nacional e contribuir para a definição da componente turística do ordenamento do território;
+
+e) Estudar e propor regulamentos, bem como promover a elaboração e aprovar as normas relativas aos produtos e serviços turísticos;
+
+f) Editar e divulgar publicações, textos e informações de interesse para a oferta turística nacional;
+
+g) Colaborar com todos os serviços e organismos nacionais ou internacionais relativamente a todas as matérias que interessem ao sector turístico;
+
+h) Colaborar com todos os organismos e entidades que se encontrem envolvidos em actividades ou projectos de desenvolvimento integrado com interesse para a oferta turística nacional;
+
+i) Apoiar e exercer a função inspectiva dos órgãos locais e regionais do turismo.
+
+###### Artigo 3.º — Competências
+
+Compete à DGT, através dos seus órgãos:
+
+a) Orientar, disciplinar, fiscalizar e apoiar a indústria hoteleira e similar, os meios complementares de alojamento turístico e os conjuntos turísticos;
+
+b) Acompanhar os empreendimentos de animação cultural e desportiva de interesse para o turismo, em articulação com os departamentos competentes;
+
+c) Manter actualizada toda a regulamentação em vigor sobre a oferta turística nacional;
+
+d) Verificar a aplicação de regulamentos e normas de qualidade da oferta turística nacional, designadamente dos estabelecimentos que prestam serviços turísticos;
+
+e) Emitir pareceres relativos à qualidade dos projectos de instalações e dos produtos e serviços turísticos;
+
+f) Executar as fiscalizações necessárias à prevenção e repressão das infracções contra os regulamentos que definem a qualidade dos produtos e serviços turísticos;
+
+g) Obter, manter actualizada e tratar toda a informação estatística necessária ao diagnóstico, avaliação e perspectivas do sector turístico;
+
+h) Coligir, organizar e divulgar a documentação de interesse para a oferta turística nacional;
+
+i) Atribuir subsídios a iniciativas consideradas de interesse para o turismo que não se enquadrem no âmbito das atribuições do Fundo de Turismo ou do Instituto de Promoção Turística.
+
+### CAPÍTULO II — Órgãos e serviços
+
+###### Artigo 4.º — Estrutura
+
+A DGT tem a seguinte estrutura orgânica
+
+1) Órgãos:
+
+a) Director-geral;
+
+b) Conselho administrativo;
+
+2) Serviços de apoio:
+
+a) Direcção de Serviços Administrativos;
+
+b) Consultadoria Jurídica;
+
+c) Gabinete de Estudos e Planeamento;
+
+d) Direcção de Serviços de Informação e Relações Internacionais;
+
+e) Centro de Documentação e Informação;
+
+3) Serviços operativos:
+
+a) Direcção de Serviços de Equipamento;
+
+b) Direcção de Serviços de Actividades Turísticas;
+
+4) Serviços locais:
+
+Delegações.
+
+#### SECÇÃO I — Dos órgãos
+
+###### Artigo 5.º — Director-geral
+
+1 - A DGT é dirigida por um director-geral, coadjuvado por dois subdirectores-gerais.
+
+2 - Ao director-geral compete:
+
+a) Assegurar a gestão e coordenação da actividade global da DGT;
+
+b) Definir, de acordo com os princípios estabelecidos na política de oferta turística nacional, os objectivos e linhas de orientação, bem como a estratégia da actuação dos serviços;
+
+c) Apresentar superiormente, acompanhado do respectivo parecer, o plano de actividades da DGT e o correspondente relatório de execução;
+
+d) Presidir ao conselho administrativo;
+
+e) Representar a DGT junto de quaisquer organismos ou entidades.
+
+3 - O director-geral poderá cometer aos subdirectores-gerais a responsabilidade por domínios específicos de actividade, para o que delegará as competências adequadas.
+
+4 - O director-geral designará o subdirector-geral que o substituirá na presidência do conselho administrativo nas suas ausências e impedimentos.
+
+###### Artigo 6.º — Conselho administrativo
+
+1 - O conselho administrativo (CA) é um órgão deliberativo em matéria de gestão financeira e patrimonial, com a seguinte composição:
+
+a) Director-geral, que preside;
+
+b) Director de Serviços Administrativos;
+
+c) Chefe da Repartição de Gestão Financeira;
+
+d) Representante da Direcção-Geral da Contabilidade Pública, designado por despacho do Ministro das Finanças.
+
+2 - Nas ausências e impedimento do director-geral, o CA será presidido pelo seu substituto legal.
+
+3 - O CA será secretariado por um funcionário designado por despacho do director-geral, sem direito a voto.
+
+4 - Compete ao CA:
+
+a) Superintender na gestão financeira e patrimonial da DGT;
+
+b) Promover a elaboração dos planos financeiros anuais e plurianuais;
+
+c) Aprovar o projecto de orçamento da DGT, bem como as respectivas alterações;
+
+d) Promover a elaboração dos orçamentos ordinários e suplementares de aplicação de receitas próprias;
+
+e) Zelar pela cobrança das receitas e promover o seu depósito nos prazos legais;
+
+f) Administrar as dotações inscritas nos orçamentos e autorizar a realização de despesas, nos termos e limites legais;
+
+g) Pronunciar-se acerca da legalidade das despesas quando excedam a sua competência;
+
+h) Proceder à verificação regular dos fundos em cofre e em depósito;
+
+i) Adjudicar e contratar, nos termos legais, estudos, obras, trabalhos, serviços, fornecimento de material, de equipamento e de tudo o mais indispensável ao funcionamento dos serviços;
+
+j) Deliberar sobre a atribuição de subsídios, reembolsáveis ou não, aos organismos e entidades que se encontrem envolvidos em actividades ou projectos de desenvolvimento integrado com interesse para a oferta turística nacional;
+
+l) Aprovar anualmente a conta de gerência, submetê-la a julgamento do Tribunal de Contas no prazo legal e proceder à reposição das quantias não aplicadas.
+
+5 - Ao membro do CA representante da Direcção-Geral da Contabilidade Pública e ao secretário a designar será atribuída uma gratificação mensal, actualizável anualmente segundo a percentagem média de aumento dos vencimentos da função pública, a fixar por despacho conjunto do Ministro das Finanças e do responsável pela área do turismo.
+
+6 - O CA reunirá ordinariamente uma vez por semana e extraordinariamente sempre que for convocado pelo presidente, por sua iniciativa ou a solicitação de qualquer dos seus membros.
+
+7 - O CA só poderá deliberar quando se encontre presente a maioria dos seus membros, incluindo o presidente ou seu substituto legal.
+
+8 - As deliberações do CA serão tomadas por maioria simples de votos, tendo o presidente voto de qualidade.
+
+9 - Os membros do CA são solidariamente responsáveis pelas deliberações tomadas, salvo se houverem feito exarar em acta a sua discordância.
+
+10 - Sempre que o presidente o considere conveniente poderá convocar para participar nas reuniões do CA, sem direito a voto, qualquer funcionário da DGT.
+
+11 - Das reuniões do CA serão lavradas actas.
+
+12 - As normas de funcionamento do CA serão objecto de regulamento interno, a elaborar pelo próprio conselho.
+
+13 - O CA poderá delegar no seu presidente os poderes consignados nas alíneas f), i) e j) do n.º 4 do presente artigo, fixando-lhe os respectivos limites.
+
+#### SECÇÃO II — Dos serviços de apoio
+
+###### Artigo 7.º — Direcção de Serviços Administrativos
+
+1 - A Direcção de Serviços Administrativos (DSA) é um serviço de gestão e apoio administrativo e prossegue as suas atribuições nos domínios da gestão financeira, da administração patrimonial e de pessoal e dos serviços gerais.
+
+2 - A DSA é dirigida por um director de serviços e compreende as seguintes unidades orgânicas:
+
+a) Repartição de Gestão Financeira;
+
+b) Repartição de Administração Geral.
+
+###### Artigo 8.º — Repartição de Gestão Financeira
+
+1 - A Repartição de Gestão Financeira (RGF), com competências nas áreas patrimonial, de aprovisionamento e financeira, é dirigida por um chefe de repartição e compreende as seguintes secções, dirigidas por chefes de secção:
+
+a) Secção de Património e Aprovisionamento;
+
+b) Secção de Orçamento e Conta;
+
+c) Secção de Despesas.
+
+2 - Adstrita à RGF funciona uma tesouraria.
+
+###### Artigo 9.º
+
+#### Secção de Património e Aprovisionamento
+
+À Secção de Património e Aprovisionamento compete:
+
+a) Garantir a conservação e manutenção das instalações;
+
+b) Assegurar a aquisição, conservação e manutenção de máquinas e equipamento, material de transporte, mobiliário e demais bens de capital;
+
+c) Organizar e manter actualizado o cadastro da DGT respeitante a instalações, maquinaria e equipamento, material de transporte e demais bens de capital;
+
+d) Assegurar a gestão do parque de viaturas automóveis;
+
+e) Zelar pela segurança das instalações e equipamentos;
+
+f) Assegurar a eficiência das redes de comunicação interna e externa dos serviços;
+
+g) Organizar e assegurar o funcionamento das estruturas oficinais e respectivas actividades, por forma a garantir o apoio técnico que for solicitado pelos diferentes serviços;
+
+h) Planear e assegurar, com observância das disposições legais aplicáveis, a aquisição do material de consumo corrente e outro necessário ao normal funcionamento dos serviços;
+
+i) Proceder à distribuição do material pelos serviços e gerir o respectivo depósito, registando o seu movimento e controlando os consumos efectuados.
+
+###### Artigo 10.º
+
+#### Secção de Orçamento e Conta
+
+À Secção de Orçamento e Conta compete:
+
+a) Coligir e fundamentar as previsões de receitas próprias e de despesas por actividade necessárias à organização do projecto de orçamento anual;
+
+b) Elaborar o projecto de orçamento anual;
+
+c) Elaborar os programas mensais de consignação das receitas próprias disponíveis em adequada conta de orçamento;
+
+d) Organizar os processos de alterações orçamentais, designadamente os de reforços e transferências de verbas e de antecipação de duodécimos;
+
+e) Processar as requisições mensais de fundos de conta das dotações consignadas no Orçamento do Estado à DGT;
+
+f) Processar as guias de entrega aos cofres do Estado, dentro dos prazos legais, das receitas próprias directamente arrecadadas;
+
+g) Controlar as entregas mensais nos cofres do Estado das receitas próprias da DGT legalmente arrecadadas por outras entidades;
+
+h) Organizar e apresentar mensalmente ao CA os elementos necessários ao controle da execução orçamental e ao exercício da gestão financeira;
+
+i) Administrar os programas mensais de requisição de fundos para pagamento das despesas;
+
+j) Escriturar os livros de contabilidade com observância das normas gerais de contabilidade pública, nomeadamente escriturar as contas correntes das dotações orçamentais, bem como prestar e registar as informações de cabimento e duplo cabimento das despesas;
+
+l) Assegurar o funcionamento de um sistema de contabilidade analítica que permita o controle orçamental e determinação dos custos de cada unidade orgânica;
+
+m) Proceder ao registo prévio de toda a documentação referente à arrecadação e entrega nos cofres do Estado das receitas próprias, dos fundos recebidos e do pagamento de despesas;
+
+n) Organizar a conta anual de gerência, que o CA submeterá a julgamento do Tribunal de Contas;
+
+o) Manter organizado o arquivo de toda a documentação das gerências findas;
+
+p) Organizar e apresentar os elementos necessários ao controle do balancete mensal de tesouraria ou a quaisquer outros controles da competência do CA.
+
+###### Artigo 11.º
+
+#### Secção de Despesas
+
+À Secção de Despesas compete:
+
+a) Organizar os processos de autorização e pagamento de despesas na observância das normas gerais referentes à contabilidade pública;
+
+b) Processar os vencimentos e outros abonos ao pessoal;
+
+c) Assegurar e escriturar em conta corrente os adiantamentos autorizados ao pessoal que se desloque em serviço oficial;
+
+d) Elaborar as guias e relações, para entrega ao Estado ou outras entidades, das importâncias de descontos, reposições e quaisquer outras que lhe pertençam ou lhe sejam devidas.
+
+###### Artigo 12.º — Tesouraria
+
+A Tesouraria é dirigida por um tesoureiro, ao qual compete:
+
+a) Arrecadar as receitas próprias e fundos requisitados;
+
+b) Entregar nos cofres do Estado, dentro dos prazos legais, as receitas próprias, em conformidade com as guias processadas pelos serviços;
+
+c) Efectuar o pagamento das despesas autorizadas;
+
+d) Proceder à entrega de adiantamentos autorizados;
+
+e) Manter devidamente escriturados os livros de tesouraria, possibilitando o controle diário da exactidão de todos os movimentos e dos saldos dos valores em cofre e em depósitos à ordem;
+
+f) Conferir mensalmente com os serviços competentes o levantamento dos fundos requisitados, a entrada e entrega das receitas próprias e o pagamento de despesas;
+
+g) Elaborar o balancete mensal para apresentação ao CA.
+
+###### Artigo 13.º — Repartição de Administração Geral
+
+A Repartição de Administração Geral, com competências nas áreas de pessoal e de serviços gerais, é dirigida por um chefe de repartição e compreende as seguintes secções, dirigidas por chefes de secção:
+
+a) Secção de Pessoal;
+
+b) Secção de Expediente e Arquivo.
+
+###### Artigo 14.º
+
+#### Secção de Pessoal
+
+À Secção de Pessoal compete:
+
+a) Proceder à instrução dos processos de recrutamento e selecção de pessoal, difundindo as condições de admissão, processando as inscrições, organizando as listas de admissão e desenvolvendo outras tarefas de apoio administrativo;
+
+b) Assegurar as tarefas de administração corrente do pessoal, nomeadamente em matéria de provimento, promoção e cessação de relação jurídica de emprego, de transferência, de vencimento, diuturnidades, subsídios e outras remunerações a abonar, de assiduidade e licença, de disciplina e de cessação do exercício de funções;
+
+c) Organizar e manter permanentemente actualizado um registo central biográfico, técnico e disciplinar do pessoal da DGT, emitir certidões e promover a publicação de listas de antiguidades.
+
+###### Artigo 15.º
+
+#### Secção de Expediente e Arquivo
+
+À Secção de Expediente e Arquivo compete:
+
+a) Assegurar os serviços de recepção, registo, classificação e distribuição de toda a correspondência, organizando e classificando os respectivos processos;
+
+b) Assegurar a distribuição da documentação de apoio às actividades da DGT;
+
+c) Assegurar os serviços de expedição de correspondência, estabelecendo eficientes redes de comunicação externa;
+
+d) Assegurar a organização, arrumação, manutenção, actualização e controle de localização dos processos e mais documentos em arquivo geral;
+
+e) Proceder à destruição de documentação, segundo os critérios e os prazos legalmente estabelecidos;
+
+f) Assegurar o funcionamento dos serviços de microfilmagem;
+
+g) Assegurar o funcionamento dos serviços de reprografia e de telex;
+
+h) Superintender no pessoal administrativo da carreira de escriturário-dactilógrafo e no pessoal auxiliar administrativo;
+
+i) Assegurar a actividade de núcleos de apoio administrativo;
+
+j) Promover a divulgação pelos serviços de directivas de funcionamento, quer específicos da DGT, quer de carácter genérico, bem como dos elementos de informação e legislação cujo conhecimento se reconheça indispensável ou conveniente.
+
+###### Artigo 16.º — Consultadoria Jurídica
+
+A Consultadoria Jurídica é coordenada por um funcionário com a categoria de assessor, para o efeito nomeado pelo director-geral, e tem as seguintes competências:
+
+a) Elaborar informações, pareceres e estudos jurídicos;
+
+b) Preparar ou colaborar na preparação e redacção de projectos de diplomas legais;
+
+c) Recolher, organizar e manter actualizados os elementos de consulta jurídica, incluindo os relativos à jurisprudência administrativa sobre matérias do seu interesse específico;
+
+d) Colaborar ou intervir na instrução dos processos que, pela sua natureza, requeiram a participação de pessoal com qualificação jurídica;
+
+e) Acompanhar os processos relativos ao julgamento de questões em que estejam envolvidos serviços da DGT e que sejam da competência dos tribunais;
+
+f) Pronunciar-se sobre as questões jurídicas suscitadas em contratos a celebrar com outras entidades, quando para isso for solicitada.
+
+###### Artigo 17.º — Gabinete de Estudos e Planeamento
+
+1 - Ao Gabinete de Estudos e Planeamento (GEP) compete realizar estudos e análises sobre a problemática turística, tratar da componente turística dos planos de ordenamento do território, tratar os dados estatísticos referentes ao sector do turismo e propor medidas de incentivo ao investimento turístico.
+
+2 - A direcção do GEP é dirigida por um director de serviços e compreende as seguintes unidades orgânicas, dirigidas por chefes de divisão:
+
+a) Divisão de Estudos;
+
+b) Divisão de Planeamento;
+
+c) Divisão de Inquéritos e Estatísticas.
+
+###### Artigo 18.º
+
+##### Divisão de Estudos
+
+À Divisão de Estudos compete:
+
+a) Elaborar estudos visando a componente turística do ordenamento do território, dar parecer sobre planos de idêntica natureza elaborados por outras entidades e participar na respectiva execução;
+
+b) Recolher informações sobre incentivos existentes a nível nacional e internacional, bem como estudar e propor novos processos de incentivos ao investimento turístico;
+
+c) Estudar e propor acções conducentes à adequada concretização e integração dos equipamentos turísticos;
+
+d) Estudar e definir o normativo de classificação dos sítios e locais de turismo;
+
+e) Colaborar nos estudos do ambiente, tendo em vista a defesa dos interesses das populações e dos elementos naturais do património turístico;
+
+f) Estudar a criação de novos produtos, em colaboração com o Instituto de Promoção Turística e com os órgãos regionais e locais de turismo;
+
+g) Inventariar os produtos específicos adequados às tendências da procura interna e externa;
+
+h) Estabelecer prioridades no desenvolvimento da oferta regional e na melhoria das suas infra-estruturas;
+
+i) Definir circuitos turísticos visando a rentabilidade de certos tipos de oferta e o conhecimento do património turístico e cultural;
+
+j) Estudar as implicações para a oferta turística nacional resultantes dos projectos de responsabilidade de entidades públicas, nacionais ou regionais, não dependentes da tutela directa do turismo;
+
+l) Assegurar a execução, em geral, dos estudos da competência da DGT.
+
+###### Artigo 19.º
+
+##### Divisão de Planeamento
+
+À Divisão de Planeamento compete:
+
+a) Recolher e tratar todos os elementos necessários à integração do sector do turismo nas tarefas globais de planeamento, bem como nos planos sectoriais regionais;
+
+b) Acompanhar os planos sectoriais com implicações para o turismo, nomeadamente os resultantes ou relacionados com os apoios comunitários;
+
+c) Colaborar com os restantes departamentos da DGT e ou entidades externas na preparação dos planos de turismo;
+
+d) Acompanhar a execução dos planos de turismo e informar superiormente da respectiva evolução;
+
+e) Propor as normas de planeamento para o sector do turismo e promover a sua divulgação e observância.
+
+###### Artigo 20.º
+
+##### Divisão de Inquéritos e Estatísticas
+
+À Divisão de Inquéritos e Estatísticas compete:
+
+a) Tratar os dados estatísticos respeitantes ao sector do turismo ou de natureza diversa, com vista à sua divulgação e utilização por outros serviços e entidades;
+
+b) Elaborar as informações e relatórios de apoio à análise dos referidos elementos estatísticos;
+
+c) Realizar inquéritos e outros estudos semelhantes a promover directamente pela DGT;
+
+d) Dar suporte técnico na apreciação da metodologia de estudos a efectuar pela DGT, quer directamente, quer através de terceiros para esse efeito por si contratados;
+
+e) Executar estudos sobre a situação económica ou financeira dos vários sectores de actividade turística;
+
+f) Elaborar estudos previsionais sobre as perspectivas de evolução do fenómeno turístico a curto, a médio e a longo prazo;
+
+g) Preparar respostas a questionários provenientes de organismos internacionais cujo conteúdo se reporte à recolha de informações turísticas;
+
+h) Conjugar esforços com o Instituto Nacional de Estatística e com outras entidades produtoras de dados estatísticos com interesse para o turismo, visando o acompanhamento de toda a informação existente sobre o sector.
+
+###### Artigo 21.º — Direcção de Serviços de Informação e Relações Internacionais
+
+1 - A Direcção de Serviços de Informação e Relações Internacionais (DSIRI) tem como competências divulgar as informações sobre o sector turístico nacional e a respectiva oferta, bem como sobre as actividades e os objectivos da DGT, organizar a actividade da DGT no que respeita à colaboração no domínio do turismo com países estrangeiros e organismos internacionais e coligir, organizar e divulgar a documentação técnica e científica considerada de interesse para o sector.
+
+2 - A DSIRI é dirigida por um director de serviços e compreende as seguintes unidades orgânicas, dirigidas por chefes de divisão:
+
+a) Divisão de Relações Públicas;
+
+b) Divisão de Relações Internacionais;
+
+c) Divisão de Regionalização.
+
+###### Artigo 22.º
+
+##### Divisão de Relações Públicas
+
+À Divisão de Relações Públicas compete:
+
+a) Preparar e promover a divulgação de uma imagem correcta dos serviços, sua actividade e planos, junto do público em geral, das empresas e profissionais do sector, de outros organismos e serviços oficiais e da comunicação social;
+
+b) Propor a realização de estudos e sondagens visando conhecer a opinião e o grau de conhecimentos do público interessado na área turística;
+
+c) Recolher dos diversos departamentos da DGT os elementos necessários à sua missão de informar, preparar as publicações necessárias aos seus objectivos, incluindo traduções, e encaminhar internamente para os pelouros especializados os interessados em informações de que não disponha por si;
+
+d) Dar a resposta às consultas pessoais de potenciais investidores ou, quando for caso disso, encaminhá-los para os departamentos especializados;
+
+e) Promover o conhecimento das regras e incentivos fiscais, financeiros e outros relativos ao investimento turístico;
+
+f) Efectuar o esclarecimento directo de questões postas por escrito com o envio de legislação ou outras informações adequadas, recorrendo, se for caso disso, aos departamentos especializados;
+
+g) Promover os princípios, regras e métodos que contribuam para a melhoria da qualidade dos produtos turísticos nacionais.
+
+###### Artigo 23.º
+
+##### Divisão de Relações Internacionais
+
+À Divisão de Relações Internacionais compete:
+
+a) Recolher e tratar as informações necessárias à cooperação da DGT com os organismos internacionais, nomeadamente no domínio dos inquéritos e estatísticas de turismo e demais estudos feitos sobre o sector;
+
+b) Preparar as intervenções e a presença da DGT nas reuniões com os organismos internacionais, conforme for superiormente definido;
+
+c) Organizar e assegurar atempadamente a informação, para todos os serviços da DGT e da Secretaria de Estado do Turismo, dos temas, relatórios, actividades e decisões relacionados com as reuniões que tenham lugar em organismos internacionais sobre problemas de turismo;
+
+d) Assegurar o tratamento dos processos relacionados com as Comunidades Europeias, recolhendo e tratando, para esse fim, todas as informações, regulamentos e legislação relativos às actividades comunitárias na área do turismo;
+
+e) Preparar e dar parecer sobre textos de acordos internacionais;
+
+f) Dar apoio em todas as áreas de cooperação no domínio do turismo com países estrangeiros.
+
+###### Artigo 24.º
+
+##### Divisão de Regionalização
+
+À Divisão de Regionalização compete:
+
+a) Dar apoio aos órgãos regionais e às autarquias nos estudos de criação e reformulação dos órgãos regionais de turismo, quer no plano técnico, quer no plano jurídico;
+
+b) Apreciar e dar parecer sobre os planos de actividades, orçamento e contas dos órgãos regionais de turismo nos domínios sob alçada da DGT;
+
+c) Acompanhar as actividades dos órgãos regionais de turismo, tendo em vista a coordenação inter-regional e com órgãos centrais;
+
+d) Acompanhar a evolução dos processos de desenvolvimento das infra-estruturas com interesse turístico regional, nomeadamente os financiados através de planos de incidência regional.
+
+###### Artigo 25.º — Centro de Documentação e Informação
+
+Ao Centro de Documentação e Informação, dirigido por um chefe de divisão, compete:
+
+a) Definir e actualizar as necessidades de informação técnica e científica;
+
+b) Fazer a pesquisa de fontes documentais, nacionais e estrangeiras, e o respectivo tratamento documental;
+
+c) Organizar, actualizar e conservar o património documental;
+
+d) Assegurar o funcionamento da biblioteca e dos outros centros de conservação documental da DGT;
+
+e)Seleccionar e difundir a legislação e outra documentação técnica considerada de interesse para o sector do turismo;
+
+f) Assegurar a colaboração da DGT às estruturas nacionais e internacionais de informação científica e técnica;
+
+g) Planificar, editar e difundir as publicações da DGT, em colaboração com a Divisão de Relações Públicas, nos termos que forem superiormente definidos;
+
+h) Divulgar os indicadores económicos e de gestão relacionados com o pessoal e a gestão das empresas e actividades turísticas.
+
+#### SECÇÃO III — Dos serviços operativos
+
+###### Artigo 26.º — Direcção de Serviços de Equipamento
+
+1 - A Direcção de Serviços de Equipamento (DSE) tem como competências a análise dos projectos de instalação de estabelecimentos e de outros equipamentos turísticos, com vista à emissão de parecer sobre a respectiva qualidade, a organização dos processos, emissão de pareceres relativos à concessão de incentivos e financiamentos, dar parecer sobre os planos regionais de ordenamento, os planos directores municipais e os planos de urbanização, sujeitos à ratificação ou aprovação do Governo, e propor a definição de áreas de aproveitamento e desenvolvimento turísticos.
+
+2 - A DSE é dirigida por um director de serviços e compreende as seguintes unidades orgânicas, dirigidas por chefes de secção:
+
+a) Divisão de Projectos de Instalações Turísticas;
+
+b) Divisão de Ordenamento;
+
+c) Divisão de Incentivos.
+
+###### Artigo 27.º
+
+##### Divisão de Projectos de Instalações Turísticas
+
+À Divisão de Projectos de Instalações Turísticas compete:
+
+a) Apreciar os projectos de estabelecimentos hoteleiros e meios complementares de alojamento, bem como de outros estabelecimentos sujeitos por lei à intervenção da DGT, e propor as respectivas aprovação, correcção ou rejeição;
+
+b) Pronunciar-se relativamente às instalações de estabelecimentos sujeitos à aprovação da DGT;
+
+c) Realizar vistorias, elaborar relatórios e pronunciar-se quanto à classificação dos estabelecimentos sob alçada da DGT;
+
+d) Preparar apoio técnico a obras e processos relativos ao turismo de habitação, turismo rural e agro-turismo;
+
+e) Organizar e manter actualizado o ficheiro e os mapas de cadastro de todos os empreendimentos;
+
+f) Emitir, em geral, pareceres, certificados e declarações relativos aos projectos sujeitos à sua apreciação.
+
+###### Artigo 28.º
+
+##### Divisão de Ordenamento
+
+À Divisão de Ordenamento compete:
+
+a) Apreciar os planos de ordenamento legalmente sujeitos à intervenção da DGT;
+
+b) Dar parecer sobre planos elaborados por outras entidades oficiais e colaborar na respectiva execução;
+
+c) Proceder ao registo cartográfico dos empreendimentos turísticos e dos elementos condicionantes do planeamento urbanístico das áreas turísticas;
+
+d) Propor a classificação dos sítios e locais de turismo, em colaboração com as autarquias e outras entidades;
+
+e) Prestar assistência técnica a obras de iniciativa pública consideradas de interesse turístico;
+
+f) Dar apoio técnico às câmaras municipais e aos órgãos locais e regionais de turismo no âmbito da competência que lhes for legalmente atribuída.
+
+###### Artigo 29.º
+
+##### Divisão de Incentivos
+
+À Divisão de Incentivos compete:
+
+a) Organizar e informar os processos relativos à concessão de incentivos e à obtenção de benefícios fiscais;
+
+b) Propor a revogação dos despachos de concessão de incentivos, nos casos previstos na lei;
+
+c) Estudar e propor os prazos de início e conclusão de obras justificativas de pedidos de concessão de incentivos;
+
+d) Dar parecer quanto ao interesse para o turismo de instalações hoteleiras e similares e outros empreendimentos para efeito de obtenção de apoio financeiro;
+
+e) Informar os processos de financiamento a conceder pelo Fundo de Turismo, bem como os processos relativos ao investimento estrangeiro;
+
+f) Participar nas actividades das comissões de estudo e elaboração dos planos de obras das zonas de jogo e dar parecer sobre os mesmos planos.
+
+###### Artigo 30.º — Direcção de Serviços de Actividades Turísticas
+
+1 - A Direcção de Serviços de Actividades Turísticas (DSAT) tem como competências o licenciamento e a regulamentação das actividades das agências de viagens e turismo e dos transportes turísticos, classificar os estabelecimentos hoteleiros e similares, meios complementares de alojamento e conjuntos turísticos, estudar a regulamentação das actividades a desenvolver no âmbito de novas formas da oferta turística e fiscalizar a actuação de todas as entidades que desenvolvam actividades no âmbito da oferta turística e sujeitas à jurisdição da DGT.
+
+2 - A DSAT é dirigida por um director de serviços e compreende as seguintes unidades orgânicas, dirigidas por chefes de divisão:
+
+a) Divisão de Agências de Viagens e Profissões Turísticas;
+
+b) Divisão de Estabelecimentos Hoteleiros, Similares e Meios Complementares;
+
+c) Divisão de Turismo no Espaço Rural;
+
+d) Divisão de Inspecção.
+
+###### Artigo 31.º
+
+##### Divisão de Agências de Viagens e Profissões Turísticas
+
+À Divisão de Agências de Viagens e Profissões Turísticas compete:
+
+a) Estudar a regulamentação das actividades das agências de viagens e turismo e dos transportes turísticos;
+
+b) Organizar e dar parecer sobre os processos respeitantes ao licenciamento do exercício da actividade de agências de viagens e turismo, bem como à autorização da designação de delegados de agências de viagens estrangeiras, e preparar a emissão dos respectivos alvarás e autorizações;
+
+c) Apreciar e dar parecer sobre as propostas de planificação, organização e realização de viagens turísticas e efectuar o respectivo controle;
+
+d) Organizar e manter actualizados os registos de competência obrigatória da DGT relativos a agências de viagens e turismo, delegados de agências de viagens estrangeiras, directores técnicos e outros profissionais;
+
+e) Dar parecer quanto à abertura de instalações das empresas de aluguer veículos automóveis sem condutor;
+
+f) Cooperar com os organismos competentes na formação profissional turística, designadamente no que se refere à organização de acções específicas que visem a valorização da oferta turística, quer a nível empresarial, quer profissional.
+
+###### Artigo 32.º
+
+##### Divisão de Estabelecimentos Hoteleiros, Similares e Meios Complementares
+
+À Divisão de Estabelecimentos Hoteleiros, Similares e Meios Complementares compete:
+
+a) Atribuir aos estabelecimentos hoteleiros e similares meios complementares de alojamento turístico e conjuntos turísticos, de acordo com a legislação em vigor, a respectiva classificação e modificá-la;
+
+b) Atribuir a autorização da abertura dos estabelecimentos hoteleiros e similares, meios complementares de alojamento e conjuntos turísticos;
+
+c) Orientar e disciplinar as actividades dos estabelecimentos hoteleiros e similares, meios complementares de alojamento e conjuntos turísticos;
+
+d) Organizar e manter actualizado o registo e cadastro dos estabelecimentos hoteleiros e similares, meios complementares de alojamento e conjuntos turísticos.
+
+###### Artigo 33.º
+
+##### Divisão de Turismo no Espaço Rural
+
+À Divisão de Turismo no Espaço Rural compete:
+
+a) Estudar a classificação, licenciamento, orientação e disciplina das actividades desenvolvidas no âmbito da animação turística, do turismo de habitação, agro-turismo, turismo rural e outras formas de oferta turística que vierem a ser instituídas;
+
+b) Propor a autorização da abertura dos estabelecimentos e equipamentos referenciados na alínea antecedente;
+
+c) Propor a regulamentação e assegurar a fiscalização das actividades dos estabelecimentos e equipamentos referenciados na alínea a);
+
+d) Organizar e manter actualizado o registo e cadastro das propriedades privadas, proprietários e ou encarregados das mesmas, afectas à prática do turismo de habitação, agro-turismo e turismo rural ou outras formas de oferta turística que vierem a ser instituídas e, bem assim, dos empreendimentos de animação, culturais, desportivos e outros considerados de interesse para o turismo.
+
+###### Artigo 34.º
+
+##### Divisão de Inspecção
+
+À Divisão de Inspecção compete:
+
+a) Realizar inspecções aos estabelecimentos hoteleiros e similares, meios complementares de alojamento transportes turísticos e a todas as instalações e equipamentos onde se exerça animação turística;
+
+b) Realizar inspecções em ordem a aferir a qualidade de serviços e de instalações do equipamento turístico, designadamente do que beneficie de declaração de utilidade turística;
+
+c) Propor as providências necessárias para corrigir as deficiências verificadas, quer quanto às instalações, quer quanto ao serviço de equipamento turístico;
+
+d) Averiguar o fundamento das reclamações e proceder à instrução dos processos relativos a infracções cujo conhecimento seja da competência da DGT;
+
+e) Proceder ao levantamento de autos de notícia e participações relativos às infracções verificadas.
+
+#### SECÇÃO IV — Dos serviços locais
+
+###### Artigo 35.º — Delegações
+
+1 - Sob proposta do director-geral do Turismo, podem ser criadas delegações, através de portaria conjunta dos Ministros da tutela e das Finanças, que definirão as respectivas áreas de jurisdição, sede e competência.
+
+2 - As delegações de turismo são serviços desconcentrados da DGT, aos quais incumbe, nomeadamente, assegurar a efectiva cooperação entre os serviços centrais e os órgãos locais e regionais de turismo.
+
+3 - A Delegação da DGT no Porto, criada pelo [Decreto-Lei n.º 48686](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48686-1968-263726), de 15 de Novembro de 1968, integra-se na disciplina prevista no presente diploma.
+
+4 - As delegações são coordenadas por delegados nomeados pelo membro do Governo com tutela sobre o turismo, mediante proposta do director-geral do Turismo, de entre os funcionários do quadro técnico superior da Direcção-Geral com reconhecida competência para o exercício do cargo.
+
+5 - Os delegados dependem hierarquicamente do director-geral do Turismo e funcionalmente dos vários directores de serviços, no âmbito das respectivas competências específicas.
+
+### CAPÍTULO III — Gestão financeira e patrimonial
+
+#### SECÇÃO I
+
+###### Artigo 36.º
+
+Dos princípios de gestão
+
+1 - A DGT executará directamente as acções que se enquadram nas suas atribuições, podendo cometer igualmente a terceiros a realização de estudos, projectos e outros trabalhos específicos que, pelo seu carácter multidisciplinar, número de especialistas envolvidos e duração prolongada, ou pela sua natureza residual, não devam ser levados a efeito pelos serviços, devendo, neste caso, ser efectuado o adequado controle qualitativo e quantitativo dos serviços prestados.
+
+2 - A DGT poderá, precedendo despacho ministerial de autorização, sob proposta devidamente fundamentada, atribuir subsídios, reembolsáveis ou não, a organismos e entidades que organizem certames, feiras, simpósios e congressos relacionados com a oferta turística, bem como aos que se encontrem envolvidos em outras actividades ou projectos com interesse para a oferta turística nacional.
+
+3 - A realização de estudos, projectos e outros trabalhos específicos de carácter excepcional ou eventual poderá ser confiada, mediante contrato ou em regime de tarefa nos termos da lei geral, a entidades nacionais ou estrangeiras de reconhecida competência e mérito.
+
+4 - A DGT poderá estabelecer protocolos e convénios de cooperação e assistência técnica quando se mostrem de interesse para a consecução dos seus objectivos.
+
+###### Artigo 37.º — Dos instrumentos de gestão e controle
+
+A actuação da DGT, assentando na gestão por objectivos e adequado controle orçamental, será disciplinada pelos seguintes instrumentos de gestão e controle:
+
+a) Definição de objectivos e correspondentes planos de acção, devidamente orçamentados e formalizados em planos de actividades anuais e plurianuais;
+
+b) Orçamento anual, com desdobramentos internos que permitam um adequado controle de gestão;
+
+c) Indicadores periódicos de gestão que permitam o acompanhamento e avaliação das actividades desenvolvidas e a introdução de correcções em tempo oportuno, sempre que necessário;
+
+d) Relatório anual de actividades, a elaborar até final do 1.º trimestre do ano seguinte;
+
+e) Conta de gerência a elaborar nos prazos legais.
+
+###### Artigo 38.º — Dos critérios de gestão e controle
+
+A DGT deverá adoptar os seguintes critérios em matéria de gestão financeira e patrimonial:
+
+a) Sistemas de controle orçamental pelos resultados, tendo em vista a avaliação da produtividade dos serviços;
+
+b) A contabilidade da DGT deverá adequar-se às necessidades da respectiva gestão, permitindo um controle orçamental permanente;
+
+c) A DGT deverá manter uma contabilidade analítica, a fim de proceder ao apuramento dos custos de participação de cada unidade orgânica em cada um dos programas e projectos e, bem assim, do seu custo global, tendo em vista uma gestão integrada.
+
+#### SECÇÃO II
+
+###### Artigo 39.º
+
+Receitas próprias
+
+1 - Além das dotações que lhe forem atribuídas no Orçamento do Estado, a DGT dispõe das seguintes receitas próprias:
+
+a) O produto de licenças, taxas e multas em conformidade com as leis que regulam as actividades turísticas;
+
+b) As quantias cobradas por serviços prestados a entidades públicas ou privadas;
+
+c) O produto da venda de publicações e impressos por ela editados;
+
+d) Quaisquer outras receitas que lhe sejam devidas por lei, contrato ou a qualquer outro título.
+
+2 - O CA da DGT administrará as dotações que anualmente forem concedidas à DGT, bem como as suas receitas próprias.
+
+3 - O CA requisitará mensalmente à competente delegação da Direcção-Geral da Contabilidade Pública as importâncias que se mostrem necessárias por conta das dotações orçamentais consignadas à DGT no Orçamento do Estado.
+
+4 - Os fundos da DGT serão depositados à sua ordem na Caixa Geral de Depósitos, Crédito e Previdência e movimentados por cheques nominativos, assinados por dois membros do CA.
+
+###### Artigo 40.º — Despesas
+
+1 - Constituem despesas da DGT as que resultam de encargos e responsabilidades decorrentes da prossecução das suas atribuições.
+
+2 - A DGT é isenta de taxas, custos, emolumentos e selos nos processos, contratos, actas notariais de registo ou outros em que intervenha.
+
+3 - Na realização de despesas respeitar-se-ão os condicionalismos imperativos decorrentes da lei.
+
+4 - Os pagamentos devem ser efectuados, em regra, por meio de cheque, que serão entregues em troca dos respectivos recibos, devidamente legalizados.
+
+5 - O CA poderá levantar e manter em tesouraria, como fundo de maneio, as importâncias necessárias ao pagamento das despesas que devam ser satisfeitas a dinheiro, que se revistam de urgência, ou ainda autorizar os adiantamentos necessários.
+
+6 - Qualquer funcionário da DGT, quando deslocado em serviço, na realização de inspecções, por determinação superior, poderá ser reembolsado da despesa efectuada, deduzida da ajuda de custo a que tiver direito, sendo os limites daquela deliberados ou propostos a autorização superior pelo CA caso a caso.
+
+###### Artigo 41.º — Cobrança coerciva de dívidas
+
+1 - A cobrança coerciva das dívidas à DGT provenientes de taxas ou outras receitas cuja obrigação de pagamento esteja estabelecida em diploma ou haja sido reconhecida por despacho ministerial far-se-á pelo processo de execuções fiscais, através dos serviços de justiça fiscal.
+
+2 - O processo terá por base certidão passada pela entidade competente, da qual constem os elementos seguintes:
+
+a) Nome ou denominação e domicílio ou sede do devedor;
+
+b) Proveniência da dívida e indicação, por extenso, do seu montante;
+
+c) Data a partir da qual são devidos juros de mora;
+
+d) Data da certidão e assinatura da entidade emitente devidamente autenticada com o selo branco ou carimbo do serviço respectivo.
+
+3 - A mora do devedor a que alude a alínea c) do número anterior conta-se a partir do último dia do prazo fixado para o pagamento.
+
+### CAPÍTULO IV — Pessoal
+
+###### Artigo 42.º — Quadro do pessoal e colocação
+
+1 - A DGT dispõe do quadro de pessoal anexo ao presente diploma.
+
+2 - A colocação e distribuição do pessoal pelos diferentes serviços é feita mediante despacho do director-geral.
+
+###### Artigo 43.º — Regime de pessoal
+
+Ao pessoal da DGT aplica-se o disposto no presente diploma e nas leis gerais da função pública.
+
+###### Artigo 44.º — Provimento
+
+1 - Sem prejuízo do disposto no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, o provimento do pessoal a que se refere o presente diploma é feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
+
+2 - Findo o prazo referido no número anterior, o funcionário:
+
+a) Será provido definitivamente se tiver revelado aptidão para o lugar;
+
+b) Será exonerado ou regressará ao serviço de origem, conforme se trate de nomeação provisória ou comissão de serviço, se não tiver revelado aptidão para o lugar.
+
+3 - Se o funcionário a nomear já tiver provimento definitivo noutro lugar da função pública, poderá ser desde logo provido definitivamente nos casos em que exerça funções da mesma natureza.
+
+4 - O disposto no número anterior não prejudica a nomeação em comissão de serviço, por período não superior a um ano, com base na opção do funcionário ou por conveniência da Administração.
+
+5 - O tempo de serviço em regime de comissão de serviço conta para todos os efeitos legais:
+
+a) No lugar de origem, quando à comissão se não seguir provimento definitivo;
+
+b) No lugar do quadro em que vier a ser provido definitivamente, finda a comissão.
+
+###### Artigo 45.º — Recrutamento e provimento
+
+1 - O recrutamento e o provimento do pessoal dirigente são feitos nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
+
+2 - O recrutamento e o provimento do restante pessoal do quadro da DGT são feitos nos termos das leis gerais da função pública e do disposto no presente diploma.
+
+###### Artigo 46.º — Chefe de repartição
+
+O lugar de chefe de repartição é provido de entre:
+
+a) Chefes de secção com o mínimo de três anos de bom e efectivo serviço na categoria;
+
+b) Indivíduos possuidores de curso superior e experiência adequada.
+
+###### Artigo 47.º — Carreira de inspector técnico
+
+1 - Os lugares de técnico especialista principal, técnico especialista de 1.ª classe e técnico especialista são providos de entre, respectivamente, técnicos especialistas de 1.ª classe, técnicos especialistas e técnicos principais com um mínimo de três anos nas respectivas categorias e classificação de Muito bom ou cinco anos e classificação de Bom.
+
+2 - Os lugares de técnico principal e de 1.ª classe são providos de entre, respectivamente, técnicos de 1.ª e 2.ª classes com um mínimo de três anos nas respectivas categorias e classificação de Bom.
+
+3 - Os lugares de técnico de 2.ª classe são providos de entre indivíduos habilitados com curso superior adequado que não confira o grau de licenciatura.
+
+###### Artigo 48.º — Carreira de técnico-adjunto de turismo
+
+1 - Os lugares de técnico-adjunto especialista de 1.ª classe e técnico-adjunto especialista são providos de entre, respectivamente, técnicos-adjuntos especialistas e técnicos-adjuntos principais com, pelo menos, três anos na respectiva categoria e classificação de Muito bom ou cinco anos no mínimo de Bom.
+
+2 - Os lugares de técnico-adjunto principal e técnico-adjunto de 1.ª classe são providos de entre, respectivamente, técnicos-adjuntos de 1.ª e 2.ª classes com um mínimo de três anos na respectiva categoria e classificação de Bom.
+
+3 - Os lugares de técnico-adjunto de 2.ª classe são providos de entre diplomados com cursos de formação técnico-profissional na área do turismo, de duração não inferior a três anos, com domínio escrito e falado de, pelo menos, duas línguas estrangeiras, para além de nove anos de escolaridade.
+
+4 - Enquanto não forem criados oficialmente os cursos de formação técnico-profissional referidos no número anterior, o ingresso na carreira é feito entre os indivíduos habilitados com o 11.º ano de escolaridade acrescido de um curso de formação na área do turismo.
+
+###### Artigo 49.º — Carreira de recepcionista de turismo
+
+1 - Os lugares de técnico-adjunto especialista de 1.ª classe e técnico-adjunto especialista são providos de entre, respectivamente, técnicos-adjuntos especialistas e técnicos-adjuntos principais com, pelo menos, três anos na respectiva categoria e classificação de Muito bom ou cinco anos no mínimo de Bom.
+
+2 - Os lugares de técnico-adjunto principal e de técnico-adjunto de 1.ª classe são providos de entre, respectivamente, técnicos-adjuntos de 1.ª e 2.ª classes com um mínimo de três anos na respectiva categoria e classificação de Bom.
+
+3 - Os lugares de técnico-adjunto de 2.ª classe são providos de entre diplomados com cursos de formação técnico-profissional na área do turismo, de duração não inferior a três anos, com domínio escrito e falado de, pelo menos, duas línguas estrangeiras, para além de nove anos de escolaridade.
+
+4 - Enquanto não forem criados oficialmente os cursos de formação técnico-profissional referidos no número anterior, o ingresso na carreira é feito entre os indivíduos habilitados com o 11.º ano de escolaridade acrescido de um curso de formação na área do turismo.
+
+###### Artigo 50.º — Carreira de tradutor
+
+1 - Os lugares de técnico-adjunto especialista de 1.ª classe e de técnico-adjunto especialista são providos de entre, respectivamente, técnicos-adjuntos especialistas e técnicos-adjuntos principais com, pelo menos, três anos na respectiva categoria e classificação de Muito bom ou cinco anos com um mínimo de Bom.
+
+2 - Os lugares de técnico-adjunto principal e de técnico-adjunto de 1.ª classe são providos, respectivamente, de entre técnicos-adjuntos de 1.ª e 2.ª classes com um mínimo de três anos na respectiva categoria e classificação de Bom.
+
+3 - Os lugares de técnico-adjunto de 2.ª classe são providos de entre indivíduos diplomados com curso técnico-profissional adequado ou indivíduos habilitados com o curso complementar do ensino secundário ou equivalente e conhecimento escrito e falado de duas línguas estrangeiras.
+
+###### Artigo 51.º — Carreira de técnico auxiliar de turismo
+
+1 - Os lugares de técnico auxiliar especialista e técnico auxiliar principal e de 1.ª classe são providos, respectivamente, de entre técnicos auxiliares principais e de 1.ª e 2.ª classes com um mínimo de três anos na categoria e classificação de Bom.
+
+2 - Os lugares de técnico auxiliar de 2.ª classe são providos de entre diplomados com curso de formação profissional na área do turismo, de duração não inferior a dezoito meses, para além de nove anos de escolaridade.
+
+3 - Enquanto não forem criados oficialmente os cursos de formação técnico-profissional referidos no número anterior, o ingresso na carreira é feito entre os indivíduos habilitados com o 9.º ano de escolaridade acrescido de um curso de formação na área do turismo.
+
+###### Artigo 52.º — Regulamentação
+
+A duração, o funcionamento e o currículo dos cursos referidos nos artigos anteriores serão definidos por portaria do ministro responsável pelo sector do turismo e do Ministro das Finanças.
+
+###### Artigo 53.º — Carreiras do pessoal de BAD
+
+Os lugares das carreiras do pessoal de BAD serão providos nos termos do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto, e da lei geral.
+
+###### Artigo 54.º — Carreira de tesoureiro
+
+1 - Os lugares de tesoureiro principal e de 1.ª classe são providos, respectivamente, de entre tesoureiros de 1.ª e 2.ª classes com, pelo menos, três anos na respectiva categoria e classificação de Muito bom ou cinco anos e classificação no mínimo de Bom.
+
+2 - Os lugares de tesoureiro de 2.ª classe são providos de entre primeiros-oficiais, bem como de entre segundos-oficiais, com, pelo menos, três anos na categoria e classificação no mínimo de Bom.
+
+###### Artigo 55.º — Carreira de operador de registo de dados
+
+Os lugares da carreira de operador de registo de dados são providos nos termos do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
+
+###### Artigo 56.º — Formação
+
+A DGT promoverá a formação do pessoal ao seu serviço, utilizando, sempre que possível, as estruturas de formação existentes, quer na Administração Pública, quer na área de formação profissional turística.
+
+###### Artigo 57.º — Requisição e destacamento do pessoal
+
+Quando as necessidades de serviço o justifiquem, poderão ser utilizados os mecanismos de requisição e destacamento previstos na lei geral.
+
+###### Artigo 58.º — Abono para falhas
+
+Os tesoureiros têm direito a um abono para falhas correspondente a 10% do vencimento ilíquido da categoria de tesoureiro de 2.ª classe.
+
+###### Artigo 59.º — Exercício de outra actividade
+
+O exercício pelo pessoal da DGT de quaisquer actividades de natureza pública ou privada alheias ao serviço, ainda que não remuneradas, carece de autorização do ministro respectivo.
+
+###### Artigo 60.º — Validade dos concursos
+
+Mantém-se para o quadro de pessoal anexo a este diploma a validade dos concursos abertos na DGT até à publicação do presente diploma.
+
+###### Artigo 61.º — Licença ilimitada
+
+Os funcionários que actualmente se encontrem na situação de licença ilimitada são abrangidos por este decreto-lei, para efeitos de integração nas novas carreiras e categorias, quando, nos termos da lei geral, regressarem ao serviço da DGT.
+
+### CAPÍTULO V — Disposições transitórias e finais
+
+###### Artigo 62.º — Transição de pessoal
+
+1 - Sem prejuízo do disposto na alínea b) do artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, o pessoal que, à data da entrada em vigor do presente diploma, se encontra a prestar serviço na DGT transita para os lugares do quadro anexo, de acordo com as seguintes regras:
+
+a) Para categoria idêntica à que o funcionário já possui;
+
+b) Para categoria correspondente às funções que o funcionário ou agente efectivamente desempenha, remunerada pela mesma letra de vencimento ou pela imediatamente superior na estrutura da carreira para que transita, se não houver coincidência de remuneração, em caso de extinção da categoria ou carreira de origem, sem prejuízo dos requisitos habilitacionais legalmente exigidos.
+
+2 - Os actuais primeiros-oficiais administrativos que já exercem funções de tesouraria há mais de três anos com classificação no mínimo de Bom e efectivo serviço transitam para a categoria de tesoureiro de 2.ª classe.
+
+3 - O provimento resultante da aplicação das regras de transição a que se referem os números anteriores efectuar-se-á nos termos do artigo 5.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio.
+
+###### Artigo 63.º — Contagem de tempo
+
+Para efeitos de acesso na carreira é contado aos funcionários o tempo de serviço prestado nas categorias anteriores como se o fosse nas categorias onde vierem a ser providos nos termos do artigo anterior.
+
+###### Artigo 64.º — Norma revogatória
+
+São revogados o [Decreto-Lei n.º 545/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/545-1974-472152), de 19 de Outubro, os Decretos n.os [734/74](https://diariodarepublica.pt/dr/detalhe/decreto/734-1974-468035), de 21 de Dezembro, e [420/75](https://diariodarepublica.pt/dr/detalhe/decreto/420-1975-314442), de 9 de Agosto, os Decretos-Leis n.os [124/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1982-606541), de 22 de Abril, e [229/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1983-451806), de 28 de Maio, e o [Decreto Regulamentar n.º 32/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/32-1982-391863), de 3 de Junho.
+
+Visto e aprovado em Conselho de Ministros de 24 de Março de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Martins Ferreira do Amaral.
+
+Promulgado em 12 de Abril de 1988.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 15 de Abril de 1988.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+DIRECÇÃO GERAL DO TURISMO
+
+QUADRO DO PESSOAL DA NOVA LEI ORGÂNICA
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/04/09900/17431756.pdf)

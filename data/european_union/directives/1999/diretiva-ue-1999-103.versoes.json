@@ -1,0 +1,65 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31999L0103:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999L0103-20000209",
+ "dre_path": null,
+ "source_lastmod": "2000-02-09",
+ "versions": [
+  {
+   "date": "2000-02-09",
+   "future": false,
+   "celex": "01999L0103-20000209",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "844615181fa4de6f",
+    "726fdd53af670548",
+    "361dd9914676c1a9",
+    "802cc3ffece9ce78",
+    "88bc2234fe2626d4"
+   ]
+  }
+ ],
+ "fragments": {
+  "844615181fa4de6f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1999L0103 — PT — 09.02.2000 — 000.002\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0103:PT:NOT) [DIRECTIVA 1999/103/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de Janeiro de 2000 que altera a Directiva 80/181/CEE relativa à aproximação das legislações dos Estados-Membros respeitantes às unidades de medida](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0103:PT:NOT) (JO L 034, 9.2.2000, p.17)\n\nRectificado por:\n\n[►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0103R(02):PT:NOT) [Rectificação, JO L 311, 12.12.2000, p. 50 (99/103)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0103R(02):PT:NOT)\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0103:PT:NOT)\n\nDIRECTIVA 1999/103/CE DO PARLAMENTO EUROPEU E DO CONSELHO\n\nde 24 de Janeiro de 2000\n\nque altera a Directiva 80/181/CEE relativa à aproximação das legislações dos Estados-Membros respeitantes às unidades de medida\n\nO PARLAMENTO EUROPEU E\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 95.o,\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/2c75d19c-2234-4196-a0e5-1a7d03c6f277.0011.01/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([2](http://publications.europa.eu/resource/cellar/2c75d19c-2234-4196-a0e5-1a7d03c6f277.0011.01/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 251.o do Tratado ([3](http://publications.europa.eu/resource/cellar/2c75d19c-2234-4196-a0e5-1a7d03c6f277.0011.01/DOC_1#E0003)),\n\n(1) A nível internacional, a décima nona Conferência geral de pesos e medidas (1991) alargou a lista de prefixos do SI a ser utilizados para múltiplos e submúltiplos das unidades do SI.\n\n(2) A Organização Internacional de Normalização (ISO) reviu os princípios e as regras relativas às grandezas e às unidades, em conformidade com a norma internacional ISO 31; as regras para a utilização prática do SI são estabelecidas na norma internacional ISO 1000.\n\n(3) O texto da Directiva 80/181/CEE do Conselho ([4](http://publications.europa.eu/resource/cellar/2c75d19c-2234-4196-a0e5-1a7d03c6f277.0011.01/DOC_1#E0004)), deve ser alterado de modo a ser conforme com esses acordos e normas internacionais.\n\n(4) Determinados países terceiros não aceitam no seu mercado produtos com marcações exclusivamente nas unidades legais, tal como foi estabelecido pela Directiva 80/181/CEE; as empresas que exportam para esses países estarão em desvantagem se as indicações suplementares deixarem de ser permitidas após 31 de Dezembro de 1999; as indicações suplementares em unidades não legais deverão, por conseguinte, ser autorizadas durante um novo período.\n\n(5) A aplicação da Directiva 80/181/CEE deverá ser reanalisada e deverão ser tomadas as medidas adequadas tendo em vista a utilização de um sistema global; os procedimentos do artigo 18.o da Directiva 71/316/CEE do Conselho ([5](http://publications.europa.eu/resource/cellar/2c75d19c-2234-4196-a0e5-1a7d03c6f277.0011.01/DOC_1#E0005)) devem ser aplicados caso seja adequado,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "726fdd53af670548": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Directiva 80/181/CEE é alterada do seguinte modo:\n\n1. No n.o 2 do artigo 3.o, a data de «31 de Dezembro de 1999» é substituída pela data de «31 de Dezembro de 2009».\n\n2. É aditado o seguinte artigo:\n\n«Artigo 6.oA\n\nAs questões relativas à aplicação da presente directiva e, em especial, a questão das indicações suplementares, devem ser reanalisadas e, se necessário, as medidas adequadas devem ser tomadas de acordo com o procedimento do artigo 18.o da Directiva 71/316/CEE do Conselho ([6](http://publications.europa.eu/resource/cellar/2c75d19c-2234-4196-a0e5-1a7d03c6f277.0011.01/DOC_1#E0006)).»\n\n.\n\n3. O anexo é alterado do seguinte modo:\n\na) No ponto 1.1.1 do capítulo I, o texto que se segue ao quadro passa a ter a seguinte redacção:\n\n«A temperatura Celsius [►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0103R(02):PT:NOT) t ◄ é definida pela diferença [►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0103R(02):PT:NOT) t = T - T 0 ◄ entre duas temperaturas termodinâmicas [►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0103R(02):PT:NOT) T ◄ e [►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0103R(02):PT:NOT) T 0 ◄ com [►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0103R(02):PT:NOT) T 0 ◄ = 273,15 K. Um intervalo ou uma diferença de temperatura podem exprimir-se quer em kelvin quer em graus Celsius. A unidade “grau Celsius” é igual à unidade “kelvin”.»\n\n;\n\nb) As definições das unidades SI suplementares que se seguem ao quadro do ponto 1.2.1 passam a ter a seguinte redacção:\n\n«Unidade de ângulo plano\n\nO radiano é o ângulo compreendido entre dois raios de um círculo que intersectam, na circunferência, um arco de comprimento igual ao do raio.\n\n(Norma internacional ISO 31 — 1:1992)\n\nUnidade de ângulo sólido\n\nO esterradiano é o ângulo sólido de um cone que, tendo o vértice no centro de uma esfera, intersecta na superfície dessa esfera uma área igual à de um quadrado cujo lado tem um comprimento igual ao do raio da esfera.\n\n(Norma Internacional ISO 31 — 1:1992).»\n\n;\n\nc) O quadro do ponto 1.3 é substituído pelo seguinte quadro:\n\n[▼C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:20::NOT)\n\n| «Factor | Prefixo | Símbolo |\n| --- | --- | --- |\n| 1024 | iota | Y |\n| 1021 | zeta | Z |\n| 1018 | exa | E |\n| 1015 | peta | P |\n| 1012 | tera | T |\n| 109 | giga | G |\n| 106 | mega | M |\n| 103 | quilo | k |\n| 102 | hecto | h |\n| 101 | deca | da |\n| 10–1 | deci | d |\n| 10–2 | centi | c |\n| 10–3 | mili | m |\n| 10–6 | micro | μ |\n| 10–9 | nano | n |\n| 10–12 | pico | p |\n| 10–15 | fento | f |\n| 10–18 | ato | a |\n| 10–21 | zepto | z |\n| 10–24 | iocto | y» |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0103:PT:NOT)\n\nd) O ponto 3 passa a ter a seguinte redacção:\n\n«3. UNIDADES UTILIZADAS COM O SI, CUJOS VALORES EM SI SÃO OBTIDOS EXPERIMENTALMENTE\n\n| Grandeza | Unidade |  |  |\n| --- | --- | --- | --- |\n| Nome | Símbolo | Definição |  |\n| Energia | Electrão-volt | eV | O electrão-volt é a energia cinética adquirida por um electrão que transita, no vazio, através de uma diferença de potencial de 1 volt |\n| Massa | Unidade de massa atómica | u | A unidade de massa atómica é igual a 1/12 da massa de um átomo do nuclídeo 12C.» |\n| «Nota:«Os prefixos e os seus símbolos mencionados no ponto 1.3 aplicam-se a estas duas unidades e aos seus símbolos. |  |  |  |\n\n."
+  },
+  "361dd9914676c1a9": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 9 de Fevereiro de 2001 e informar imediatamente a Comissão desse facto.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência quando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros."
+  },
+  "802cc3ffece9ce78": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nSem prejuízo da Directiva 80/181/CEE, os Estados-Membros devem autorizar ou continuar a permitir, após 31 de Dezembro de 1999, a utilização das indicações suplementares previstas no artigo 3.o da referida directiva."
+  },
+  "88bc2234fe2626d4": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente directiva entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias.\n\n([1](http://publications.europa.eu/resource/cellar/2c75d19c-2234-4196-a0e5-1a7d03c6f277.0011.01/DOC_1#src.E0001)) JO C 89 de 30.3.1999, p. 8.\n\n([2](http://publications.europa.eu/resource/cellar/2c75d19c-2234-4196-a0e5-1a7d03c6f277.0011.01/DOC_1#src.E0002)) JO C 169 de 16.6.1999, p. 1.\n\n([3](http://publications.europa.eu/resource/cellar/2c75d19c-2234-4196-a0e5-1a7d03c6f277.0011.01/DOC_1#src.E0003)) Parecer emitido em 15 de Dezembro de 1999 (ainda não publicado no Jornal Oficial). Decisão do Conselho de 16 de Dezembro de 1999.\n\n([4](http://publications.europa.eu/resource/cellar/2c75d19c-2234-4196-a0e5-1a7d03c6f277.0011.01/DOC_1#src.E0004)) JO L 39 de 15.2.1980, p. 40. Directiva com a última redacção que lhe foi dada pela Directiva 89/617/CEE (JO L 357 de 7.12.1989, p. 28).\n\n([5](http://publications.europa.eu/resource/cellar/2c75d19c-2234-4196-a0e5-1a7d03c6f277.0011.01/DOC_1#src.E0005)) JO L 202 de 6.9.1971, p. 1.\n\n([6](http://publications.europa.eu/resource/cellar/2c75d19c-2234-4196-a0e5-1a7d03c6f277.0011.01/DOC_1#src.E0006)) JO L 202 de 6.9.1971, p. 1."
+  }
+ }
+}

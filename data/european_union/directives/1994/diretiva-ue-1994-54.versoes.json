@@ -1,0 +1,89 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31994L0054:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994L0054-20080220",
+ "dre_path": null,
+ "source_lastmod": "2008-02-20",
+ "versions": [
+  {
+   "date": "1994-11-23",
+   "future": false,
+   "celex": "31994L0054",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5fcecda5c167a438",
+    "7ac21c1a622f1f5b",
+    "e011e3f5a11f9127",
+    "d1fe63b895b847cf",
+    "ed83883768440161"
+   ]
+  },
+  {
+   "date": "2008-02-20",
+   "future": false,
+   "celex": "01994L0054-20080220",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime ANEXO — Lista dos géneros alimentícios cuja rotulagem deve incluir uma ou mais indicações obrigatórias complementares"
+   ],
+   "fragments": [
+    "dcf27f6272515aa3"
+   ]
+  }
+ ],
+ "fragments": {
+  "5fcecda5c167a438": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 94/54/CE da Comissão, de 18 de Novembro de 1994, relativa à inclusão na rotulagem de determinados géneros alimentícios de outras indicações obrigatórias para além das previstas na Directiva 79/112/CEE do Conselho** *Jornal Oficial nº L 300 de 23/11/1994 p. 0014 - 0015 Edição especial finlandesa: Capítulo 15 Fascículo 13 p. 0250 Edição especial sueca: Capítulo 15 Fascículo 13 p. 0250*\n\nDIRECTIVA 94/54/CE DA COMISSÃO de 18 de Novembro de 1994 relativa à inclusão na rotulagem de determinados géneros alimentícios de outras indicações obrigatórias para além das previstas na Directiva 79/112/CEE do Conselho\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 79/112/CEE do Conselho, de 18 de Dezembro de 1978, relativa à aproximação das legislações dos Estados-membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios destinados ao consumidor final (1), com a última redacção que lhe foi dada pela Directiva 93/102/CE da Comissão (2), e, nomeadamente, o nº 2 do seu artigo 4º,\n\nConsiderando que, tendo em conta o âmbito e os efeitos da acção proposta, as medidas comunitárias previstas pela presente directiva são não só necessárias como indispensáveis para alcançar os objectivos enunciados; que esses objectivos não podem ser atingidos individualmente pelos Estados-membros; que, por outro lado, a sua realização a nível comunitário já se encontra prevista pela Directiva 79/112/CEE;\n\nConsiderando que, para assegurar a informação adequada dos consumidores, é necessário prever para determinados géneros alimentícios indicações obrigatórias complementares das previstas no artigo 3º da Directiva 79/112/CEE;\n\nConsiderando, nomeadamente, que os gases de embalagem utilizados para o acondicionamento de determinados géneros alimentícios não devem ser considerados como ingredientes na acepção do nº 1 do artigo 6º da Directiva 79/112/CEE, e que, portanto, não devem figurar na lista de ingredientes da rotulagem;\n\nConsiderando, todavia, que o consumidor deve ser informado da utilização de tais gases uma vez que essa informação lhe permite compreender a razão pela qual o género que adquire tem um prazo de conservação maior que produtos semelhantes acondicionados de modo diferente;\n\nConsiderando que, para evitar a criação de novos entraves ao comércio resultantes da adopção de medidas unilaterais pelos Estados membros, é necessário adoptar disposições comunitárias na matéria;\n\nConsiderando que, em conformidade com o procedimento do artigo 17º da Directiva 79/112/CEE, o projecto da presente directiva foi apresentado ao Comité permanente dos géneros alimentícios, que não emitiu parecer e que a Comissão, de acordo com o mesmo procedimento, transmitiu ao Conselho uma proposta relativa às medidas a tomar;\n\nConsiderando que uma vez que o Conselho não deliberou, no prazo de três meses que lhe foi conferido, incumbe à Comissão adoptar as referidas medidas,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "7ac21c1a622f1f5b": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nSem prejuízo do disposto no artigo 3º da Directiva 79/112/CEE, a rotulagem dos géneros alimentícios apresentados no anexo da presente directiva incluirá as indicações obrigatórias complementares referidas nesse anexo."
+  },
+  "e011e3f5a11f9127": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nOs Estados-membros alterarão, se necessário, as suas disposições legislativas, regulamentares e administrativas, antes de 30 de Junho de 1995, de modo a:\n\n- admitir, o mais tardar em 1 de Julho de 1995, o comércio dos produtos conformes com a presente directiva,\n\n- proibir, a partir de 1 de Janeiro de 1997, o comércio dos produtos não conformes com a presente directiva; contudo, os produtos colocados no mercado ou rotulados antes dessa data e não conformes com a presente directiva podem ser comercializados até ao esgotamento das existências.\n\nDo facto informarão imediatamente a Comissão.\n\nAs disposições adoptadas pelos Estados-membros devem conter uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. Os Estados-membros determinarão o modo como tal referência será feita."
+  },
+  "d1fe63b895b847cf": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nFeito em Bruxelas, em 18 de Novembro de 1994.\n\nPela Comissão\n\nMartin BANGEMANN\n\nMembro da Comissão\n\n(1) JO nº L 33 de 8. 2. 1979, p. 1.\n\n(2) JO nº L 291 de 25. 11. 1993, p. 14."
+  },
+  "ed83883768440161": {
+   "fragment_id": "ANEXO — Lista dos géneros alimentícios cuja rotulagem deve incluir uma ou mais indicações obrigatórias complementares",
+   "type": "divisao",
+   "heading": "ANEXO — Lista dos géneros alimentícios cuja rotulagem deve incluir uma ou mais indicações obrigatórias complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Lista dos géneros alimentícios cuja rotulagem deve incluir uma ou mais indicações obrigatórias complementares\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "dcf27f6272515aa3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1994L0054 — PT — 20.02.2008 — 003.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31994L0054) [DIRECTIVA 94/54/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/31994L0054) [de 18 de Novembro de 1994](http://publications.europa.eu/resource/celex/31994L0054) [relativa à inclusão na rotulagem de determinados géneros alimentícios de outras indicações obrigatórias para além das previstas na Directiva 79/112/CEE do Conselho](http://publications.europa.eu/resource/celex/31994L0054) (JO L 300, 23.11.1994, p.14)\n\n**revogado por:**\n\n- [Directiva 2008/5/CE da Comissão de 30 de Janeiro de 2008](http://publications.europa.eu/resource/celex/32008L0005) — L 27 — 12 — 31.1.2008"
+  }
+ }
+}

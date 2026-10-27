@@ -1,0 +1,1571 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:537862:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2006-66285526",
+ "dre_path": "/dr/detalhe/lei/27-2006-537862",
+ "source_lastmod": "2026-08-17",
+ "versions": [
+  {
+   "date": "2006-07-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "66308414",
+    "66308415",
+    "66308416",
+    "66308417",
+    "66308418",
+    "66308419",
+    "66308420",
+    "66308421",
+    "66308422",
+    "66308423",
+    "66308424",
+    "66308425",
+    "66308426",
+    "66308427",
+    "66308428",
+    "66308429",
+    "66308430",
+    "66308431",
+    "66308432",
+    "66308433",
+    "66308434",
+    "66308435",
+    "66308436",
+    "66308437",
+    "66308438",
+    "66308439",
+    "66308440",
+    "66308441",
+    "66308442",
+    "66308443",
+    "66308444",
+    "66308445",
+    "66308446",
+    "66308447",
+    "66308448",
+    "66308449",
+    "66308450",
+    "66308451",
+    "66308452",
+    "66308453",
+    "66308454",
+    "66308455",
+    "66308456",
+    "66308457",
+    "66308458",
+    "66308459",
+    "66308460",
+    "66308461",
+    "66308462",
+    "66308463",
+    "66308464",
+    "66308465",
+    "66308466",
+    "66308467",
+    "66308468",
+    "66308469",
+    "66308470",
+    "66308471",
+    "66308472",
+    "66308473",
+    "66308474",
+    "66321375",
+    "66321376",
+    "66321377",
+    "66321378",
+    "66321379",
+    "66321380",
+    "66321381",
+    "66321382",
+    "66321383",
+    "66321384",
+    "66321385",
+    "66321386",
+    "66321387",
+    "66321388",
+    "66321389",
+    "66321390"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:538644:por",
+     "title": "Declaração de Rectificação n.º 46/2006",
+     "published": "2006-08-07",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/46-2006-538644",
+     "date": "2006-07-08"
+    }
+   ]
+  },
+  {
+   "date": "2011-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:146220:por",
+     "title": "Lei Orgânica n.º 1/2011",
+     "published": "2011-11-30",
+     "dre_path": "/dr/detalhe/lei-organica/1-2011-146220"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 34.º",
+    "Altera Artigo 39.º",
+    "Altera Artigo 50.º",
+    "Altera Artigo 53.º"
+   ],
+   "fragments": [
+    "66308414",
+    "66308415",
+    "66308416",
+    "66308417",
+    "66308418",
+    "66308419",
+    "66308420",
+    "66308421",
+    "66308422",
+    "66308423",
+    "66308424",
+    "66308425",
+    "66308426",
+    "66308427",
+    "66308428",
+    "66308429",
+    "66308430",
+    "66305342",
+    "66308432",
+    "66308433",
+    "66308434",
+    "66305343",
+    "66308436",
+    "66308437",
+    "66308438",
+    "66308439",
+    "66308440",
+    "66308441",
+    "66308442",
+    "66308443",
+    "66308444",
+    "66308445",
+    "66308446",
+    "66308447",
+    "66308448",
+    "66308449",
+    "66308450",
+    "66308451",
+    "66308452",
+    "66308453",
+    "66308454",
+    "66308455",
+    "66305344",
+    "66308457",
+    "66308458",
+    "66308459",
+    "66308460",
+    "66308461",
+    "66305345",
+    "66308463",
+    "66308464",
+    "66308465",
+    "66308466",
+    "66308467",
+    "66308468",
+    "66308469",
+    "66308470",
+    "66308471",
+    "66308472",
+    "66308473",
+    "66308474",
+    "66305346",
+    "66321376",
+    "66321377",
+    "66321378",
+    "66305347",
+    "66321380",
+    "66321381",
+    "66321382",
+    "66321383",
+    "66321384",
+    "66321385",
+    "66321386",
+    "66321387",
+    "66321388",
+    "66321389",
+    "66321390",
+    "66321391"
+   ]
+  },
+  {
+   "date": "2015-08-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:69927759:por",
+     "title": "Lei n.º 80/2015",
+     "published": "2015-08-03",
+     "dre_path": "/dr/detalhe/lei/80-2015-69927759"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 46.º-A",
+    "Adita Artigo 48.º-A",
+    "Adita Artigo 49.º-A",
+    "Adita Artigo 59.º-A",
+    "Altera Artigo 8.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 33.º",
+    "Altera Artigo 34.º",
+    "Altera Artigo 35.º",
+    "Altera Artigo 36.º",
+    "Altera Artigo 37.º",
+    "Altera Artigo 38.º",
+    "Altera Artigo 39.º",
+    "Altera Artigo 41.º",
+    "Altera Artigo 42.º",
+    "Altera Artigo 45.º",
+    "Altera Artigo 47.º",
+    "Altera Artigo 48.º",
+    "Altera Artigo 49.º",
+    "Altera Artigo 50.º",
+    "Altera Artigo 51.º",
+    "Altera Artigo 53.º",
+    "Altera Artigo 59.º",
+    "Altera Artigo 60.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 22.º"
+   ],
+   "fragments": [
+    "66308414",
+    "66308415",
+    "66308416",
+    "66308417",
+    "66308418",
+    "66308419",
+    "66308420",
+    "66308421",
+    "66308422",
+    "66308423",
+    "66308424",
+    "69933658",
+    "66308426",
+    "69938530",
+    "66308428",
+    "66308429",
+    "66308430",
+    "69933659",
+    "69933660",
+    "69938531",
+    "66308434",
+    "69933661",
+    "69933663",
+    "69938532",
+    "66308438",
+    "66308439",
+    "66308440",
+    "69933664",
+    "69938533",
+    "66308443",
+    "66308444",
+    "66308445",
+    "69933665",
+    "69933666",
+    "66308448",
+    "66308449",
+    "69933667",
+    "66308451",
+    "66308452",
+    "66308453",
+    "66308454",
+    "69933668",
+    "69933669",
+    "69933670",
+    "66308458",
+    "69933671",
+    "69933672",
+    "69933674",
+    "138963603",
+    "66308463",
+    "69938517",
+    "69938518",
+    "66308466",
+    "66308467",
+    "66308468",
+    "69938519",
+    "69938520",
+    "69933644",
+    "69938522",
+    "66308472",
+    "69938523",
+    "69933646",
+    "69938524",
+    "69933650",
+    "69938525",
+    "69938526",
+    "66321377",
+    "66321378",
+    "69938527",
+    "66321380",
+    "66321381",
+    "66321382",
+    "66321383",
+    "66321384",
+    "66321385",
+    "69938528",
+    "69933653",
+    "69938529",
+    "69933655",
+    "69933656",
+    "69933657",
+    "66321391"
+   ]
+  },
+  {
+   "date": "2026-08-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1153917999:por",
+     "title": "Lei n.º 38/2026",
+     "published": "2026-08-03",
+     "dre_path": "/dr/detalhe/lei/38-2026-1153917999"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 37.º",
+    "Altera Artigo 39.º",
+    "Altera Artigo 41.º"
+   ],
+   "fragments": [
+    "66308414",
+    "66308415",
+    "1156646575",
+    "66308417",
+    "66308418",
+    "1156646775",
+    "66308420",
+    "66308421",
+    "66308422",
+    "66308423",
+    "66308424",
+    "69933658",
+    "66308426",
+    "69938530",
+    "66308428",
+    "66308429",
+    "66308430",
+    "69933659",
+    "69933660",
+    "69938531",
+    "66308434",
+    "69933661",
+    "69933663",
+    "69938532",
+    "66308438",
+    "66308439",
+    "66308440",
+    "69933664",
+    "69938533",
+    "66308443",
+    "66308444",
+    "66308445",
+    "69933665",
+    "69933666",
+    "66308448",
+    "66308449",
+    "69933667",
+    "66308451",
+    "66308452",
+    "66308453",
+    "66308454",
+    "69933668",
+    "69933669",
+    "69933670",
+    "66308458",
+    "69933671",
+    "1156646975",
+    "69933674",
+    "1156647175",
+    "66308463",
+    "1156647375",
+    "69938518",
+    "66308466",
+    "66308467",
+    "66308468",
+    "69938519",
+    "69938520",
+    "69933644",
+    "69938522",
+    "66308472",
+    "69938523",
+    "69933646",
+    "69938524",
+    "69933650",
+    "69938525",
+    "69938526",
+    "66321377",
+    "66321378",
+    "69938527",
+    "66321380",
+    "66321381",
+    "66321382",
+    "66321383",
+    "66321384",
+    "66321385",
+    "69938528",
+    "69933653",
+    "69938529",
+    "69933655",
+    "69933656",
+    "69933657",
+    "66321391"
+   ]
+  }
+ ],
+ "fragments": {
+  "66308414": {
+   "fragment_id": "66285527",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 27/2006\n\nde 3 de Julho\n\nAprova a Lei de Bases da Protecção Civil\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "66308415": {
+   "fragment_id": "66285528",
+   "type": 1,
+   "heading": "Capítulo I — Objectivos e princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objectivos e princípios"
+  },
+  "66308416": {
+   "fragment_id": "66285529",
+   "type": 11,
+   "heading": "Artigo 1.º — Protecção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Protecção civil\n\n1 - A protecção civil é a actividade desenvolvida pelo Estado, Regiões Autónomas e autarquias locais, pelos cidadãos e por todas as entidades públicas e privadas com a finalidade de prevenir riscos colectivos inerentes a situações de acidente grave ou catástrofe, de atenuar os seus efeitos e proteger e socorrer as pessoas e bens em perigo quando aquelas situações ocorram.\n\n2 - A actividade de protecção civil tem carácter permanente, multidisciplinar e plurissectorial, cabendo a todos os órgãos e departamentos da Administração Pública promover as condições indispensáveis à sua execução, de forma descentralizada, sem prejuízo do apoio mútuo entre organismos e entidades do mesmo nível ou proveniente de níveis superiores."
+  },
+  "66308417": {
+   "fragment_id": "66285530",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito territorial\n\n1 - A protecção civil é desenvolvida em todo o território nacional.\n\n2 - Nas Regiões Autónomas as políticas e acções de protecção civil são da responsabilidade dos Governos Regionais.\n\n3 - No quadro dos compromissos internacionais e das normas aplicáveis do direito internacional, a actividade de protecção civil pode ser exercida fora do território nacional, em cooperação com Estados estrangeiros ou organizações internacionais de que Portugal seja parte."
+  },
+  "66308418": {
+   "fragment_id": "66285531",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições de acidente grave e de catástrofe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições de acidente grave e de catástrofe\n\n1 - Acidente grave é um acontecimento inusitado com efeitos relativamente limitados no tempo e no espaço, susceptível de atingir as pessoas e outros seres vivos, os bens ou o ambiente.\n\n2 - Catástrofe é o acidente grave ou a série de acidentes graves susceptíveis de provocarem elevados prejuízos materiais e, eventualmente, vítimas, afectando intensamente as condições de vida e o tecido sócio-económico em áreas ou na totalidade do território nacional."
+  },
+  "66308419": {
+   "fragment_id": "66285532",
+   "type": 11,
+   "heading": "Artigo 4.º — Objectivos e domínios de actuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objectivos e domínios de actuação\n\n1 - São objectivos fundamentais da protecção civil:\n\na) Prevenir os riscos colectivos e a ocorrência de acidente grave ou de catástrofe deles resultante;\n\nb) Atenuar os riscos colectivos e limitar os seus efeitos no caso das ocorrências descritas na alínea anterior;\n\nc) Socorrer e assistir as pessoas e outros seres vivos em perigo proteger bens e valores culturais, ambientais e de elevado interesse público;\n\nd) Apoiar a reposição da normalidade da vida das pessoas em áreas afectadas por acidente grave ou catástrofe.\n\n2 - A actividade de protecção civil exerce-se nos seguintes domínios:\n\na) Levantamento, previsão, avaliação e prevenção dos riscos colectivos;\n\nb) Análise permanente das vulnerabilidades perante situações de risco;\n\nc) Informação e formação das populações, visando a sua sensibilização em matéria de autoprotecção e de colaboração com as autoridades;\n\nd) Planeamento de soluções de emergência, visando a busca, o salvamento, a prestação de socorro e de assistência, bem como a evacuação, alojamento e abastecimento das populações;\n\ne) Inventariação dos recursos e meios disponíveis e dos mais facilmente mobilizáveis, ao nível local, regional e nacional;\n\nf) Estudo e divulgação de formas adequadas de protecção dos edifícios em geral, de monumentos e de outros bens culturais, de infra-estruturas, do património arquivístico, de instalações de serviços essenciais, bem como do ambiente e dos recursos naturais;\n\ng) Previsão e planeamento de acções atinentes à eventualidade de isolamento de áreas afectadas por riscos."
+  },
+  "66308420": {
+   "fragment_id": "66285533",
+   "type": 11,
+   "heading": "Artigo 5.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Princípios\n\nPara além dos princípios gerais consagrados na Constituição e na lei, constituem princípios especiais aplicáveis às actividades de protecção civil:\n\na) O princípio da prioridade, nos termos do qual deve ser dada prevalência à prossecução do interesse público relativo à protecção civil, sem prejuízo da defesa nacional, da segurança interna e da saúde pública, sempre que estejam em causa ponderações de interesses, entre si conflituantes;\n\nb) O princípio da prevenção, por força do qual os riscos de acidente grave ou de catástrofe devem ser considerados de forma antecipada, de modo a eliminar as próprias causas, ou reduzir as suas consequências, quando tal não seja possível;\n\nc) O princípio da precaução, de acordo com o qual devem ser adoptadas as medidas de diminuição do risco de acidente grave ou catástrofe inerente a cada actividade, associando a presunção de imputação de eventuais danos à mera violação daquele dever de cuidado;\n\nd) O princípio da subsidiariedade, que determina que o subsistema de protecção civil de nível superior só deve intervir se e na medida em que os objectivos da protecção civil não possam ser alcançados pelo subsistema de protecção civil imediatamente inferior, atenta a dimensão e a gravidade dos efeitos das ocorrências;\n\ne) O princípio da cooperação, que assenta no reconhecimento de que a protecção civil constitui atribuição do Estado, das Regiões Autónomas e das autarquias locais e dever dos cidadãos e de todas as entidades públicas e privadas;\n\nf) O princípio da coordenação, que exprime a necessidade de assegurar, sob orientação do Governo, a articulação entre a definição e a execução das políticas nacionais, regionais, distritais e municipais de protecção civil;\n\ng) O princípio da unidade de comando, que determina que todos os agentes actuam, no plano operacional, articuladamente sob um comando único, sem prejuízo da respectiva dependência hierárquica e funcional;\n\nh) O princípio da informação, que traduz o dever de assegurar a divulgação das informações relevantes em matéria de protecção civil, com vista à prossecução dos objectivos previstos no artigo 4.º"
+  },
+  "66308421": {
+   "fragment_id": "66285534",
+   "type": 11,
+   "heading": "Artigo 6.º — Deveres gerais e especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Deveres gerais e especiais\n\n1 - Os cidadãos e demais entidades privadas têm o dever de colaborar na prossecução dos fins da protecção civil, observando as disposições preventivas das leis e regulamentos, acatando ordens, instruções e conselhos dos órgãos e agentes responsáveis pela segurança interna e pela protecção civil e satisfazendo prontamente as solicitações que justificadamente lhes sejam feitas pelas entidades competentes.\n\n2 - Os funcionários e agentes do Estado e das pessoas colectivas de direito público, bem como os membros dos órgãos de gestão das empresas públicas, têm o dever especial de colaboração com os organismos de protecção civil.\n\n3 - Os responsáveis pela administração, direcção ou chefia de empresas privadas cuja laboração, pela natureza da sua actividade, esteja sujeita a qualquer forma específica de licenciamento têm, igualmente, o dever especial de colaboração com os órgãos e agentes de protecção civil.\n\n4 - A desobediência e a resistência às ordens legítimas das entidades competentes, quando praticadas em situação de alerta, contingência ou calamidade, são sancionadas nos termos da lei penal e as respectivas penas são sempre agravadas em um terço, nos seus limites mínimo e máximo.\n\n5 - A violação do dever especial previsto nos n.os 2 e 3 implica, consoante os casos, responsabilidade criminal e disciplinar, nos termos da lei."
+  },
+  "66308422": {
+   "fragment_id": "66285535",
+   "type": 11,
+   "heading": "Artigo 7.º — Informação e formação dos cidadãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Informação e formação dos cidadãos\n\n1 - Os cidadãos têm direito à informação sobre os riscos a que estão sujeitos em certas áreas do território e sobre as medidas adoptadas e a adoptar com vista a prevenir ou a minimizar os efeitos de acidente grave ou catástrofe.\n\n2 - A informação pública visa esclarecer as populações sobre a natureza e os fins da protecção civil, consciencializá-las das responsabilidades que recaem sobre cada instituição ou indivíduo e sensibilizá-las em matéria de autoprotecção.\n\n3 - Os programas de ensino, nos seus diversos graus, devem incluir, na área de formação cívica, matérias de protecção civil e autoprotecção, com a finalidade de difundir conhecimentos práticos e regras de comportamento a adoptar no caso de acidente grave ou catástrofe."
+  },
+  "66308423": {
+   "fragment_id": "66285536",
+   "type": 1,
+   "heading": "Capítulo II — Alerta, contingência e calamidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Alerta, contingência e calamidade"
+  },
+  "66308424": {
+   "fragment_id": "66285537",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "66308425": {
+   "fragment_id": "66285538",
+   "type": 11,
+   "heading": "Artigo 8.º — Alerta, contingência e calamidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Alerta, contingência e calamidade\n\n1 - Sem prejuízo do carácter permanente da actividade de protecção civil, os órgãos competentes podem, consoante a natureza dos acontecimentos a prevenir ou a enfrentar e a gravidade e extensão dos seus efeitos actuais ou potenciais:\n\na) Declarar a situação de alerta;\n\nb) Declarar a situação de contingência;\n\nc) Declarar a situação de calamidade.\n\n2 - Os actos referidos no número anterior correspondem ao reconhecimento da adopção de medidas adequadas e proporcionais à necessidade de enfrentar graus crescentes de perigo, actual ou potencial.\n\n3 - A declaração de situação de alerta, de situação de contingência e de situação de calamidade pode reportar-se a qualquer parcela do território, adoptando um âmbito inframunicipal, municipal, supramunicipal ou nacional.\n\n4 - Os poderes para declarar a situação de alerta ou de contingência encontram-se circunscritos pelo âmbito territorial de competência dos respectivos órgãos.\n\n5 - O Ministro da Administração Interna pode declarar a situação de alerta ou a situação de contingência para a totalidade do território nacional ou com o âmbito circunscrito a uma parcela do território nacional."
+  },
+  "66308426": {
+   "fragment_id": "66285539",
+   "type": 11,
+   "heading": "Artigo 9.º — Pressupostos das situações de alerta, contingência e calamidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Pressupostos das situações de alerta, contingência e calamidade\n\n1 - A situação de alerta pode ser declarada quando, face à ocorrência ou iminência de ocorrência de algum ou alguns dos acontecimentos referidos no artigo 3.º, é reconhecida a necessidade de adoptar medidas preventivas e ou medidas especiais de reacção.\n\n2 - A situação de contingência pode ser declarada quando, face à ocorrência ou iminência de ocorrência de algum ou alguns dos acontecimentos referidos no artigo 3.º, é reconhecida a necessidade de adoptar medidas preventivas e ou medidas especiais de reacção não mobilizáveis no âmbito municipal.\n\n3 - A situação de calamidade pode ser declarada quando, face à ocorrência ou perigo de ocorrência de algum ou alguns dos acontecimentos referidos no artigo 3.º, e à sua previsível intensidade, é reconhecida a necessidade de adoptar medidas de carácter excepcional destinadas a prevenir, reagir ou repor a normalidade das condições de vida nas áreas atingidas pelos seus efeitos."
+  },
+  "66308427": {
+   "fragment_id": "66285540",
+   "type": 11,
+   "heading": "Artigo 10.º — Prioridade dos meios e recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Prioridade dos meios e recursos\n\n1 - Os meios e recursos utilizados para prevenir ou enfrentar os riscos de acidente ou catástrofe são os previstos nos planos de emergência de protecção civil ou, na sua ausência ou insuficiência, os determinados pela autoridade de protecção civil que assumir a direcção das operações.\n\n2 - Os meios e recursos utilizados devem adequar-se ao objectivo, não excedendo o estritamente necessário.\n\n3 - É dada preferência à utilização de meios e recursos públicos sobre a utilização de meios e recursos privados.\n\n4 - A utilização de meios e recursos é determinada segundo critérios de proximidade e de disponibilidade."
+  },
+  "66308428": {
+   "fragment_id": "66285541",
+   "type": 11,
+   "heading": "Artigo 11.º — Obrigação de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Obrigação de colaboração\n\n1 - Declarada uma das situações previstas no n.º 1 do artigo 8.º, todos os cidadãos e demais entidades privadas estão obrigados, na área abrangida, a prestar às autoridades de protecção civil a colaboração pessoal que lhes for requerida, respeitando as ordens e orientações que lhes forem dirigidas e correspondendo às respectivas solicitações.\n\n2 - A recusa do cumprimento da obrigação estabelecida no n.º 1 corresponde ao crime de desobediência, sancionável nos termos do n.º 4 do artigo 6.º"
+  },
+  "66308429": {
+   "fragment_id": "66285542",
+   "type": 11,
+   "heading": "Artigo 12.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Produção de efeitos\n\n1 - Sem prejuízo da necessidade de publicação, os actos que declaram a situação de alerta ou a situação de contingência, o despacho referido no artigo 30.º, bem como a resolução do Conselho de Ministros que declara a situação de calamidade, produzem efeitos imediatos.\n\n2 - Nos casos referidos no número anterior, o autor da declaração deve diligenciar pela mais ampla difusão do seu conteúdo, tendo em conta os meios disponíveis, devendo, logo que possível, assegurar a sua divulgação na página na Internet da entidade que a proferiu e ou do Governo."
+  },
+  "66308430": {
+   "fragment_id": "66285543",
+   "type": 8,
+   "heading": "Secção II — Alerta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Alerta"
+  },
+  "66308431": {
+   "fragment_id": "66285544",
+   "type": 11,
+   "heading": "Artigo 13.º — Competência para declaração de alerta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competência para declaração de alerta\n\n1 - Cabe ao presidente da câmara municipal declarar a situação de alerta de âmbito municipal.\n\n2 - Cabe ao governador civil declarar a situação de alerta, no todo ou em parte do seu âmbito territorial de competência, precedida da audição, sempre que possível, dos presidentes das câmaras municipais dos municípios abrangidos."
+  },
+  "66308432": {
+   "fragment_id": "66285545",
+   "type": 11,
+   "heading": "Artigo 14.º — Acto de declaração de alerta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Acto de declaração de alerta\n\nO acto que declara a situação de alerta menciona expressamente:\n\na) A natureza do acontecimento que originou a situação declarada;\n\nb) O âmbito temporal e territorial;\n\nc) A estrutura de coordenação e controlo dos meios e recursos a disponibilizar."
+  },
+  "66308433": {
+   "fragment_id": "66285546",
+   "type": 11,
+   "heading": "Artigo 15.º — Âmbito material da declaração de alerta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Âmbito material da declaração de alerta\n\n1 - Para além das medidas especialmente determinadas pela natureza da ocorrência, a declaração de situação de alerta dispõe expressamente sobre:\n\na) A obrigatoriedade de convocação, consoante o âmbito, das comissões municipais, distritais ou nacional de protecção civil;\n\nb) O estabelecimento dos procedimentos adequados à coordenação técnica e operacional dos serviços e agentes de protecção civil, bem como dos recursos a utilizar;\n\nc) O estabelecimento das orientações relativas aos procedimentos de coordenação da intervenção das forças e serviços de segurança;\n\nd) A adopção de medidas preventivas adequadas à ocorrência.\n\n2 - A declaração da situação de alerta determina uma obrigação especial de colaboração dos meios de comunicação social, em particular das rádios e das televisões, com a estrutura de coordenação referida na alínea c) do artigo anterior, visando a divulgação das informações relevantes relativas à situação."
+  },
+  "66308434": {
+   "fragment_id": "66285547",
+   "type": 8,
+   "heading": "Secção III — Contingência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Contingência"
+  },
+  "66308435": {
+   "fragment_id": "66285548",
+   "type": 11,
+   "heading": "Artigo 16.º — Competência para declaração de contingência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Competência para declaração de contingência\n\nA declaração da situação de contingência cabe ao governador civil no seu âmbito territorial de competência, precedida da audição, sempre que possível, dos presidentes das câmaras municipais dos municípios abrangidos."
+  },
+  "66308436": {
+   "fragment_id": "66285549",
+   "type": 11,
+   "heading": "Artigo 17.º — Acto de declaração de contingência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Acto de declaração de contingência\n\nO acto que declara a situação de contingência menciona expressamente:\n\na) A natureza do acontecimento que originou a situação declarada;\n\nb) O âmbito temporal e territorial;\n\nc) A estrutura de coordenação e controlo dos meios e recursos a disponibilizar;\n\nd) Os procedimentos de inventariação dos danos e prejuízos provocados;\n\ne) Os critérios de concessão de apoios materiais e financeiros."
+  },
+  "66308437": {
+   "fragment_id": "66285550",
+   "type": 11,
+   "heading": "Artigo 18.º — Âmbito material da declaração de contingência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Âmbito material da declaração de contingência\n\n1 - A declaração da situação de contingência abrange as medidas indicadas no artigo 15.º\n\n2 - Para além das medidas especialmente determinadas pela natureza da ocorrência, a declaração de situação de contingência dispõe expressamente sobre:\n\na) A obrigatoriedade de convocação da comissão distrital ou nacional de protecção civil;\n\nb) O accionamento dos planos de emergência relativos às áreas abrangidas;\n\nc) O estabelecimento de directivas específicas relativas à actividade operacional dos agentes de protecção civil;\n\nd) O estabelecimento dos critérios quadro relativos à intervenção exterior e à coordenação operacional das forças e serviços de segurança e das Forças Armadas, nos termos das disposições normativas aplicáveis, elevando o respectivo grau de prontidão, em conformidade com o disposto no plano de emergência aplicável;\n\ne) A requisição e colocação, sob a coordenação da estrutura indicada na alínea c) do artigo 17.º, de todos os sistemas de vigilância e detecção de riscos, bem como dos organismos e instituições, qualquer que seja a sua natureza, cujo conhecimento possa ser relevante para a previsão, detecção, aviso e avaliação de riscos e planeamento de emergência."
+  },
+  "66308438": {
+   "fragment_id": "66285551",
+   "type": 8,
+   "heading": "Secção IV — Calamidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Calamidade"
+  },
+  "66308439": {
+   "fragment_id": "66285552",
+   "type": 11,
+   "heading": "Artigo 19.º — Competência para a declaração de calamidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Competência para a declaração de calamidade\n\nA declaração da situação de calamidade é da competência do Governo e reveste a forma de resolução do Conselho de Ministros."
+  },
+  "66308440": {
+   "fragment_id": "66285553",
+   "type": 11,
+   "heading": "Artigo 20.º — Reconhecimento antecipado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Reconhecimento antecipado\n\nA resolução do Conselho de Ministros referida no artigo anterior pode ser precedida de despacho conjunto do Primeiro-Ministro e do Ministro da Administração Interna reconhecendo a necessidade de declarar a situação de calamidade, com os efeitos previstos no artigo 30.º"
+  },
+  "66308441": {
+   "fragment_id": "66285554",
+   "type": 11,
+   "heading": "Artigo 21.º — Acto de declaração de calamidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Acto de declaração de calamidade\n\nA resolução do Conselho de Ministros que declara a situação de calamidade menciona expressamente:\n\na) A natureza do acontecimento que originou a situação declarada;\n\nb) O âmbito temporal e territorial;\n\nc) A estrutura de coordenação e controlo dos meios e recursos a disponibilizar;\n\nd) Os procedimentos de inventariação dos danos e prejuízos provocados;\n\ne) Os critérios de concessão de apoios materiais e financeiros."
+  },
+  "66308442": {
+   "fragment_id": "66285555",
+   "type": 11,
+   "heading": "Artigo 22.º — Âmbito material da declaração de calamidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Âmbito material da declaração de calamidade\n\n1 - A declaração da situação de calamidade abrange as medidas indicadas nos artigos 15.º e 18.º\n\n2 - Para além das medidas especialmente determinadas pela natureza da ocorrência, a declaração de situação de calamidade, tomando em conta os critérios das autoridades competentes em razão da matéria, pode dispor sobre:\n\na) A obrigatoriedade de convocação da Comissão Nacional de Protecção Civil;\n\nb) O accionamento do plano de emergência de âmbito nacional;\n\nc) O estabelecimento de cercas sanitárias e de segurança;\n\nd) O estabelecimento de limites ou condições à circulação ou permanência de pessoas, outros seres vivos ou veículos, nomeadamente através da sujeição a controlos colectivos para evitar a propagação de surtos epidémicos;\n\ne) A racionalização da utilização dos serviços públicos de transportes, comunicações e abastecimento de água e energia, bem como do consumo de bens de primeira necessidade;\n\nf) A determinação da mobilização civil de pessoas, por períodos de tempo determinados.\n\n3 - A declaração da situação de calamidade pode, por razões de segurança dos próprios ou das operações, estabelecer limitações quanto ao acesso e circulação de pessoas estranhas às operações, incluindo órgãos de comunicação social."
+  },
+  "66308443": {
+   "fragment_id": "66285556",
+   "type": 11,
+   "heading": "Artigo 23.º — Acesso aos recursos naturais e energéticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Acesso aos recursos naturais e energéticos\n\n1 - A declaração da situação de calamidade é condição suficiente para legitimar o livre acesso dos agentes de protecção civil à propriedade privada, na área abrangida, bem como a utilização de recursos naturais ou energéticos privados, na medida do estritamente necessário para a realização das acções destinadas a repor a normalidade das condições de vida.\n\n2 - Os actos jurídicos ou operações materiais adoptadas em execução da declaração de situação de calamidade para reagir contra os efeitos de acidente ou catástrofe presumem-se praticados em estado de necessidade."
+  },
+  "66308444": {
+   "fragment_id": "66285557",
+   "type": 11,
+   "heading": "Artigo 24.º — Requisição temporária de bens e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Requisição temporária de bens e serviços\n\n1 - A declaração da situação de calamidade implica o reconhecimento da necessidade de requisitar temporariamente bens ou serviços, nomeadamente quanto à verificação da urgência e do interesse público e nacional que fundamentam a requisição.\n\n2 - A requisição de bens ou serviços é determinada por despacho conjunto dos Ministros da Administração Interna e das Finanças, que fixa o seu objecto, o início e o termo previsível do uso, a entidade operacional beneficiária e a entidade responsável pelo pagamento de indemnização pelos eventuais prejuízos resultantes da requisição.\n\n3 - Aplicam-se, com as necessárias adaptações, as regras relativas à indemnização pela requisição temporária de imóveis constantes do Código das Expropriações."
+  },
+  "66308445": {
+   "fragment_id": "66285558",
+   "type": 11,
+   "heading": "Artigo 25.º — Mobilização dos agentes de protecção civil e socorro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Mobilização dos agentes de protecção civil e socorro\n\n1 - Os funcionários, agentes e demais trabalhadores da Administração Pública directa e indirecta, incluindo a autónoma, que cumulativamente detenham a qualidade de agente de protecção civil e de socorro estão dispensados do serviço público quando sejam chamados pelo respectivo corpo a fim de enfrentar um acontecimento objecto de declaração de situação de calamidade.\n\n2 - A dispensa referida no número anterior, quando o serviço de origem seja agente de protecção civil, é precedida de autorização do respectivo órgão dirigente.\n\n3 - As regras procedimentais relevantes para a aplicação do disposto no número anterior são fixadas na resolução do Conselho de Ministros que procede à declaração da situação de calamidade.\n\n4 - A resolução do Conselho de Ministros que procede à declaração da situação de calamidade estabelece as condições de dispensa de trabalho e mobilização dos trabalhadores do sector privado que cumulativamente desempenhem funções conexas ou de cooperação com os serviços de protecção civil ou de socorro."
+  },
+  "66308446": {
+   "fragment_id": "66285559",
+   "type": 11,
+   "heading": "Artigo 26.º — Utilização do solo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Utilização do solo\n\n1 - A resolução do Conselho de Ministros que procede à declaração da situação de calamidade pode determinar a suspensão de planos municipais de ordenamento do território e ou planos especiais de ordenamento do território, em partes delimitadas da área abrangida pela declaração.\n\n2 - As zonas abrangidas pela declaração de calamidade são consideradas zonas objecto de medidas de protecção especial, tendo em conta a natureza do acontecimento que a determinou, sendo condicionadas, restringidas ou interditas, nos termos do número seguinte, as acções e utilizações susceptíveis de aumentar o risco de repetição do acontecimento.\n\n3 - Nos casos previstos nos números anteriores, a resolução do Conselho de Ministros que procede à declaração da situação de calamidade deve estabelecer as medidas preventivas necessárias à regulação provisória do uso do solo, aplicando-se, com as necessárias adaptações, o disposto nos artigos 7.º a 13.º do Decreto-Lei n.º 794/76, de 5 de Novembro.\n\n4 - Sem prejuízo do disposto no n.º 1, os municípios abrangidos pela declaração de calamidade são ouvidos quanto ao estabelecimento das medidas previstas nos números anteriores, assim que as circunstâncias o permitam.\n\n5 - A alteração dos planos municipais de ordenamento do território e ou dos planos especiais de ordenamento do território deve estar concluída no prazo de dois anos após o início da suspensão.\n\n6 - Os instrumentos de gestão territorial devem estabelecer os comportamentos susceptíveis de imposição aos utilizadores do solo, tendo em conta os riscos para o interesse público relativo à protecção civil, designadamente nos domínios da construção de infra-estruturas, da realização de medidas de ordenamento e da sujeição a programas de fiscalização.\n\n7 - Nos procedimentos de alteração dos instrumentos de gestão territorial referidos nos números anteriores, nomeadamente nas fases de acompanhamento e concertação, a comissão mista de coordenação deve incluir um representante do Ministério da Administração Interna."
+  },
+  "66308447": {
+   "fragment_id": "66285560",
+   "type": 11,
+   "heading": "Artigo 27.º — Direito de preferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Direito de preferência\n\n1 - É concedido o direito de preferência aos municípios nas transmissões a título oneroso, entre particulares, dos terrenos ou edifícios situados na área delimitada pela declaração de calamidade.\n\n2 - O direito de preferência é concedido pelo período de dois anos.\n\n3 - Aplica-se, com as necessárias adaptações, ao exercício da faculdade prevista no n.º 1 o regime jurídico estabelecido nos artigos 27.º e 28.º do Decreto-Lei n.º 794/76, de 5 de Novembro, e regulamentação complementar.\n\n4 - Os particulares que pretendam alienar imóveis abrangidos pelo direito de preferência dos municípios devem comunicar a transmissão pretendida ao presidente da câmara municipal."
+  },
+  "66308448": {
+   "fragment_id": "66285561",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nRegime especial de contratação de empreitadas de obras públicas, fornecimentos de bens e aquisição de serviços\n\n1 - A contratação de empreitadas de obras públicas, fornecimento de bens e aquisição de serviços que tenham em vista prevenir ou acorrer, com carácter de urgência, a situações decorrentes dos acontecimentos que determinaram a declaração de situação de calamidade ficam sujeitos ao presente regime especial.\n\n2 - Mediante despacho conjunto dos Ministros da Administração Interna e das Finanças, é publicada a lista das entidades autorizadas a proceder, pelo prazo de dois anos, ao ajuste directo dos contratos referidos no número anterior, cuja estimativa de custo global por contrato, não considerando o IVA, seja inferior aos limiares previstos para a aplicação das directivas comunitárias sobre compras públicas.\n\n3 - Os contratos celebrados ao abrigo deste regime ficam dispensados do visto prévio do Tribunal de Contas.\n\n4 - As adjudicações de contratos feitas ao abrigo do presente regime excepcional devem ser comunicadas ao Ministério da Administração Interna e ao Ministério das Finanças, de forma a garantir o cumprimento dos princípios da publicidade e transparência da contratação."
+  },
+  "66308449": {
+   "fragment_id": "66285562",
+   "type": 11,
+   "heading": "Artigo 29.º — Apoios destinados à reposição da normalidade das condições de vida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Apoios destinados à reposição da normalidade das condições de vida\n\nA legislação especial relativa a prestações sociais, incentivos à actividade económica e financiamento das autarquias locais estabelece as disposições aplicáveis à situação de calamidade, tendo em vista a reposição da normalidade das condições de vida nas áreas afectadas."
+  },
+  "66308450": {
+   "fragment_id": "66285563",
+   "type": 11,
+   "heading": "Artigo 30.º — Despacho de urgência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Despacho de urgência\n\n1 - O despacho conjunto do Primeiro-Ministro e do Ministro da Administração Interna, previsto no artigo 20.º, pode, desde logo, adoptar as medidas estabelecidas no artigo 22.º, com excepção das previstas nas alíneas e) e f) do seu n.º 2.\n\n2 - Desde que previstas no plano de emergência aplicável, as medidas estabelecidas nos artigos 23.º e 24.º podem ser adoptadas no despacho referido no número anterior.\n\n3 - O despacho referido no n.º 1 produz os efeitos previstos nos artigos 15.º e 18.º"
+  },
+  "66308451": {
+   "fragment_id": "66285564",
+   "type": 1,
+   "heading": "Capítulo III — Enquadramento, coordenação, direcção e execução da política de protecção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Enquadramento, coordenação, direcção e execução da política de protecção civil"
+  },
+  "66308452": {
+   "fragment_id": "66285565",
+   "type": 8,
+   "heading": "Secção I — Direcção política",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Direcção política"
+  },
+  "66308453": {
+   "fragment_id": "66285566",
+   "type": 11,
+   "heading": "Artigo 31.º — Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Assembleia da República\n\n1 - A Assembleia da República contribui, pelo exercício da sua competência política, legislativa e financeira, para enquadrar a política de protecção civil e para fiscalizar a sua execução.\n\n2 - Os partidos representados na Assembleia da República são ouvidos e informados com regularidade pelo Governo sobre o andamento dos principais assuntos da política de protecção civil.\n\n3 - O Governo informa periodicamente a Assembleia da República sobre a situação do País no que toca à protecção civil, bem como sobre a actividade dos organismos e serviços por ela responsáveis."
+  },
+  "66308454": {
+   "fragment_id": "66285567",
+   "type": 11,
+   "heading": "Artigo 32.º — Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Governo\n\n1 - A condução da política de protecção civil é da competência do Governo, que, no respectivo Programa, deve inscrever as principais orientações a adaptar ou a propor naquele domínio.\n\n2 - Ao Conselho de Ministros compete:\n\na) Definir as linhas gerais da política governamental de protecção civil, bem como a sua execução;\n\nb) Programar e assegurar os meios destinados à execução da política de protecção civil;\n\nc) Declarar a situação de calamidade;\n\nd) Adoptar, no caso previsto na alínea anterior, as medidas de carácter excepcional destinadas a repor a normalidade das condições de vida nas zonas atingidas;\n\ne) Deliberar sobre a afectação extraordinária dos meios financeiros indispensáveis à aplicação das medidas previstas na alínea anterior.\n\n3 - O Governo deve ouvir, previamente, os órgãos de governo próprio das Regiões Autónomas sobre a tomada de medidas da sua competência, nos termos dos números anteriores, especificamente a elas aplicáveis."
+  },
+  "66308455": {
+   "fragment_id": "66285568",
+   "type": 11,
+   "heading": "Artigo 33.º — Primeiro-Ministro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Primeiro-Ministro\n\n1 - O Primeiro-Ministro é responsável pela direcção da política de protecção civil, competindo-lhe, designadamente:\n\na) Coordenar e orientar a acção dos membros do Governo nos assuntos relacionados com a protecção civil;\n\nb) Garantir o cumprimento das competências previstas no artigo 32.º\n\n2 - O Primeiro-Ministro pode delegar as competências referidas no número anterior no Ministro da Administração Interna."
+  },
+  "66308456": {
+   "fragment_id": "66285569",
+   "type": 11,
+   "heading": "Artigo 34.º — Governador civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Governador civil\n\n1 - Compete ao governador civil, no exercício de funções de responsável distrital da política de protecção civil, desencadear, na iminência ou ocorrência de acidente grave ou catástrofe, as acções de protecção civil de prevenção, socorro, assistência e reabilitação adequadas em cada caso.\n\n2 - O governador civil é apoiado pelo centro distrital de operações de socorro e pelos restantes agentes de protecção civil de âmbito distrital."
+  },
+  "66308457": {
+   "fragment_id": "66285570",
+   "type": 11,
+   "heading": "Artigo 35.º — Presidente da câmara municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Presidente da câmara municipal\n\n1 - Compete ao presidente da câmara municipal, no exercício de funções de responsável municipal da política de protecção civil, desencadear, na iminência ou ocorrência de acidente grave ou catástrofe, as acções de protecção civil de prevenção, socorro, assistência e reabilitação adequadas em cada caso.\n\n2 - O presidente da câmara municipal é apoiado pelo serviço municipal de protecção civil e pelos restantes agentes de protecção civil de âmbito municipal."
+  },
+  "66308458": {
+   "fragment_id": "66285571",
+   "type": 8,
+   "heading": "Secção II — Comissões e unidades de protecção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Comissões e unidades de protecção civil"
+  },
+  "66308459": {
+   "fragment_id": "66285572",
+   "type": 11,
+   "heading": "Artigo 36.º — Comissão Nacional de Protecção Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Comissão Nacional de Protecção Civil\n\n1 - A Comissão Nacional de Protecção Civil é o órgão de coordenação em matéria de protecção civil.\n\n2 - Compete à Comissão:\n\na) Garantir a concretização das linhas gerais da política governamental de protecção civil em todos os serviços da administração;\n\nb) Apreciar as bases gerais da organização e do funcionamento dos organismos e serviços que, directa ou indirectamente, desempenhem funções de protecção civil;\n\nc) Apreciar os acordos ou convenções sobre cooperação internacional em matéria de protecção civil;\n\nd) Apreciar os planos de emergência de âmbito nacional, distrital ou municipal;\n\ne) Dar parecer sobre os planos de emergência elaborados pelos Governos das Regiões Autónomas;\n\nf) Adoptar mecanismos de colaboração institucional entre todos os organismos e serviços com responsabilidades no domínio da protecção civil, bem como formas de coordenação técnica e operacional da actividade por aqueles desenvolvida, no âmbito específico das respectivas atribuições estatutárias;\n\ng) Proceder ao reconhecimento dos critérios e normas técnicas sobre a organização do inventário de recursos e meios, públicos e privados, mobilizáveis ao nível local, distrital, regional ou nacional, em caso de acidente grave ou catástrofe;\n\nh) Definir os critérios e normas técnicas sobre a elaboração de planos de emergência;\n\ni) Definir as prioridades e objectivos a estabelecer com vista ao escalonamento de esforços dos organismos e estruturas com responsabilidades no domínio da protecção civil, relativamente à sua preparação e participação em tarefas comuns de protecção civil;\n\nj) Aprovar e acompanhar as iniciativas públicas tendentes à divulgação das finalidades da protecção civil e à sensibilização dos cidadãos para a autoprotecção e para a colaboração a prestar aos organismos e agentes que exercem aquela actividade;\n\nl) Apreciar e aprovar as formas de cooperação externa que os organismos e estruturas do sistema de protecção civil desenvolvem nos domínios das suas atribuições e competências específicas.\n\n3 - Compete ainda à Comissão:\n\na) Desencadear as acções previstas nos planos de emergência e assegurar a conduta das operações de protecção civil deles decorrentes;\n\nb) Possibilitar a mobilização rápida e eficiente das organizações e pessoal indispensáveis e dos meios disponíveis que permitam a conduta coordenada das acções a executar;\n\nc) Formular junto do Governo pedidos de auxílio a outros países e às organizações internacionais, através dos órgãos competentes;\n\nd) Determinar a realização de exercícios, simulacros ou treinos operacionais que contribuam para a eficácia de todos os serviços intervenientes em acções de protecção civil;\n\ne) Difundir os comunicados oficiais que se mostrem adequados às situações previstas na presente lei.\n\n4 - A Comissão assiste o Primeiro-Ministro e o Governo no exercício das suas competências em matéria de protecção civil, nomeadamente no caso previsto na alínea c) do n.º 2 do artigo 32.º"
+  },
+  "66308460": {
+   "fragment_id": "66285573",
+   "type": 11,
+   "heading": "Artigo 37.º — Composição da Comissão Nacional de Protecção Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Composição da Comissão Nacional de Protecção Civil\n\n1 - A Comissão Nacional de Protecção Civil é presidida pelo Ministro da Administração Interna e dela fazem parte:\n\na) Delegados dos ministros responsáveis pelos sectores da defesa, justiça, ambiente, economia, agricultura e florestas, obras públicas, transportes, comunicações, segurança social, saúde e investigação científica;\n\nb) O presidente da Autoridade Nacional de Protecção Civil;\n\nc) Representantes da Associação Nacional de Municípios Portugueses e da Associação Nacional de Freguesias;\n\nd) Representantes da Liga dos Bombeiros Portugueses e da Associação Nacional dos Bombeiros Profissionais.\n\n2 - Participam ainda na Comissão representantes do Estado-Maior-General das Forças Armadas, da Guarda Nacional Republicana, da Polícia de Segurança Pública, da Polícia Judiciária, do Conselho Nacional de Planeamento Civil de Emergência, do Gabinete Coordenador de Segurança, da Autoridade Marítima, da Autoridade Aeronáutica e do Instituto Nacional de Emergência Médica.\n\n3 - Os Governos Regionais podem participar nas reuniões da Comissão.\n\n4 - O presidente, quando o considerar conveniente, pode convidar a participar nas reuniões da Comissão outras entidades que, pelas suas capacidades técnicas, científicas ou outras, possam ser relevantes para a tomada de decisões, no âmbito das políticas de protecção civil.\n\n5 - O secretariado e demais apoio às reuniões do Conselho são assegurados pela Autoridade Nacional de Protecção Civil."
+  },
+  "66308461": {
+   "fragment_id": "66285574",
+   "type": 11,
+   "heading": "Artigo 38.º — Comissões distritais de protecção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Comissões distritais de protecção civil\n\n1 - Em cada distrito existe uma comissão distrital de protecção civil.\n\n2 - Compete à comissão distrital de protecção civil:\n\na) Accionar a elaboração, acompanhar a execução e remeter para aprovação pela Comissão Nacional os planos distritais de emergência;\n\nb) Acompanhar as políticas directamente ligadas ao sistema de protecção civil que sejam desenvolvidas por agentes públicos;\n\nc) Determinar o accionamento dos planos, quando tal se justifique;\n\nd) Promover a realização de exercícios, simulacros ou treinos operacionais que contribuam para a eficácia de todos os serviços intervenientes em acções de protecção civil."
+  },
+  "66308462": {
+   "fragment_id": "66321275",
+   "type": 11,
+   "heading": "Artigo 39.º — Composição das comissões distritais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Composição das comissões distritais\n\n1 - Integram a respectiva comissão distrital:\n\na) O governador civil, como responsável distrital da política de protecção civil, que preside;\n\nb) O comandante operacional distrital;\n\nc) As entidades máximas, ou seus representantes qualificados, dos serviços desconcentrados dos ministérios identificados na alínea a) do n.º 1 do artigo 37.º;\n\nd) Os responsáveis máximos pelas forças e serviços de segurança existentes no distrito;\n\ne) Um representante do Instituto Nacional de Emergência Médica (INEM);\n\nf) Três representantes dos municípios do distrito, designados pela Associação Nacional de Municípios Portugueses (ANMP);\n\ng) Um representante da Liga dos Bombeiros Portugueses e um representante da Associação Nacional dos Bombeiros Profissionais.\n\n2 - A comissão distrital de protecção civil é convocada pelo governador civil do distrito ou, na sua ausência ou impedimento, por quem for por ele designado."
+  },
+  "66308463": {
+   "fragment_id": "66321276",
+   "type": 11,
+   "heading": "Artigo 40.º — Comissões municipais de protecção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Comissões municipais de protecção civil\n\n1 - Em cada município existe uma comissão de protecção civil.\n\n2 - As competências das comissões municipais são as previstas para as comissões distritais adequadas à realidade e dimensão do município."
+  },
+  "66308464": {
+   "fragment_id": "66321277",
+   "type": 11,
+   "heading": "Artigo 41.º — Composição das comissões municipais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Composição das comissões municipais\n\nIntegram a comissão municipal de protecção civil:\n\na) O presidente da câmara municipal, como responsável municipal da política de protecção civil, que preside;\n\nb) O comandante operacional municipal;\n\nc) Um elemento do comando de cada corpo de bombeiros existente no município;\n\nd) Um elemento de cada uma das forças de segurança presentes no município;\n\ne) A autoridade de saúde do município;\n\nf) O dirigente máximo da unidade de saúde local ou o director do centro de saúde e o director do hospital da área de influência do município, designados pelo director-geral da Saúde;\n\ng) Um representante dos serviços de segurança social e solidariedade;\n\nh) Representantes de outras entidades e serviços, implantados no município, cujas actividades e áreas funcionais possam, de acordo com os riscos existentes e as características da região, contribuir para as acções de protecção civil."
+  },
+  "66308465": {
+   "fragment_id": "66321278",
+   "type": 11,
+   "heading": "Artigo 42.º — Subcomissões permanentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Subcomissões permanentes\n\nAs comissões nacional, distrital ou municipal podem determinar a constituição de subcomissões permanentes, que tenham como objecto o acompanhamento contínuo da situação e as acções de protecção civil, designadamente nas áreas da segurança contra inundações, incêndios de diferentes naturezas, acidentes nucleares, biológicos ou químicos."
+  },
+  "66308466": {
+   "fragment_id": "66321279",
+   "type": 11,
+   "heading": "Artigo 43.º — Unidades locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Unidades locais\n\n1 - As comissões municipais de protecção civil podem determinar a existência de unidades locais de protecção civil, a respectiva constituição e tarefas.\n\n2 - As unidades locais devem corresponder ao território das freguesias e serão obrigatoriamente presididas pelo presidente da junta de freguesia."
+  },
+  "66308467": {
+   "fragment_id": "66321280",
+   "type": 1,
+   "heading": "Capítulo IV — Estrutura de protecção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Estrutura de protecção civil"
+  },
+  "66308468": {
+   "fragment_id": "66321281",
+   "type": 11,
+   "heading": "Artigo 44.º — Autoridade Nacional de Protecção Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Autoridade Nacional de Protecção Civil\n\nA Autoridade Nacional de Protecção Civil é instituída em diploma próprio, que define as suas atribuições e respectiva orgânica."
+  },
+  "66308469": {
+   "fragment_id": "66321282",
+   "type": 11,
+   "heading": "Artigo 45.º — Estrutura de protecção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Estrutura de protecção civil\n\nA estrutura de protecção civil organiza-se ao nível nacional, regional e municipal."
+  },
+  "66308470": {
+   "fragment_id": "66321283",
+   "type": 11,
+   "heading": "Artigo 46.º — Agentes de protecção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Agentes de protecção civil\n\n1 - São agentes de protecção civil, de acordo com as suas atribuições próprias:\n\na) Os corpos de bombeiros;\n\nb) As forças de segurança;\n\nc) As Forças Armadas;\n\nd) As autoridades marítima e aeronáutica;\n\ne) O INEM e demais serviços de saúde;\n\nf) Os sapadores florestais.\n\n2 - A Cruz Vermelha Portuguesa exerce, em cooperação com os demais agentes e de harmonia com o seu estatuto próprio, funções de protecção civil nos domínios da intervenção, apoio, socorro e assistência sanitária e social.\n\n3 - Impende especial dever de cooperação com os agentes de protecção civil mencionados no número anterior sobre as seguintes entidades:\n\na) Associações humanitárias de bombeiros voluntários;\n\nb) Serviços de segurança;\n\nc) Instituto Nacional de Medicina Legal;\n\nd) Instituições de segurança social;\n\ne) Instituições com fins de socorro e de solidariedade;\n\nf) Organismos responsáveis pelas florestas, conservação da natureza, indústria e energia, transportes, comunicações, recursos hídricos e ambiente;\n\ng) Serviços de segurança e socorro privativos das empresas públicas e privadas, dos portos e aeroportos.\n\n4 - Os agentes e as instituições referidos no presente artigo, e sem prejuízo das suas estruturas de direcção, comando e chefia, articulam-se operacionalmente nos termos do Sistema Integrado de Operações de Protecção e Socorro (SIOPS)."
+  },
+  "66308471": {
+   "fragment_id": "66321284",
+   "type": 11,
+   "heading": "Artigo 47.º — Instituições de investigação técnica e científica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Instituições de investigação técnica e científica\n\n1 - Os serviços e instituições de investigação técnica e científica, públicos ou privados, com competências específicas em domínios com interesse para a prossecução dos objectivos previstos no artigo 4.º da presente lei, cooperam com os órgãos de direcção, planeamento e coordenação que integram o sistema nacional de protecção civil.\n\n2 - A cooperação desenvolve-se nos seguintes domínios:\n\na) Levantamento, previsão, avaliação e prevenção de riscos colectivos de origem natural, humana ou tecnológica e análises das vulnerabilidades das populações e dos sistemas ambientais a eles expostos;\n\nb) Estudo de formas adequadas de protecção dos edifícios em geral, dos monumentos e de outros bens culturais, de instalações e infra-estruturas de serviços e bens essenciais;\n\nc) Investigação no domínio de novos equipamentos e tecnologias adequados à busca, salvamento e prestação de socorro e assistência;\n\nd) Estudo de formas adequadas de protecção dos recursos naturais."
+  },
+  "66308472": {
+   "fragment_id": "66321285",
+   "type": 1,
+   "heading": "Capítulo V — Operações de protecção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Operações de protecção civil"
+  },
+  "66308473": {
+   "fragment_id": "66321286",
+   "type": 11,
+   "heading": "Artigo 48.º — Sistema Integrado de Operações de Protecção e Socorro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Sistema Integrado de Operações de Protecção e Socorro\n\n1 - O SIOPS é o conjunto de estruturas, de normas e procedimentos que asseguram que todos os agentes de protecção civil actuam, no plano operacional, articuladamente sob um comando único, sem prejuízo da respectiva dependência hierárquica e funcional.\n\n2 - O SIOPS é regulado em diploma próprio."
+  },
+  "66308474": {
+   "fragment_id": "66321287",
+   "type": 11,
+   "heading": "Artigo 49.º — Centros de coordenação operacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Centros de coordenação operacional\n\n1 - Em situação de acidente grave ou catástrofe, e no caso de perigo de ocorrência destes fenómenos, são desencadeadas operações de protecção civil, de harmonia com os planos de emergência previamente elaborados, com vista a possibilitar a unidade de direcção das acções a desenvolver, a coordenação técnica e operacional dos meios a empenhar e a adequação das medidas de carácter excepcional a adoptar.\n\n2 - Consoante a natureza do fenómeno e a gravidade e extensão dos seus efeitos previsíveis, são chamados a intervir centros de coordenação operacional de nível nacional, regional ou distrital, especialmente destinados a assegurar o controlo da situação com recurso a centrais de comunicações integradas e eventual sobreposição com meios alternativos.\n\n3 - As matérias respeitantes a atribuições, competências, composição e modo de funcionamento dos centros de coordenação operacional, bem como da estrutura de comando operacional de âmbito nacional, regional ou distrital, serão definidas no diploma referido no n.º 2 do artigo anterior."
+  },
+  "66321375": {
+   "fragment_id": "66321288",
+   "type": 11,
+   "heading": "Artigo 50.º — Planos de prevenção e de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Planos de prevenção e de emergência\n\n1 - Os planos de emergência são elaborados de acordo com as directivas emanadas da Comissão Nacional de Protecção Civil e estabelecerão, nomeadamente:\n\na) A tipificação dos riscos;\n\nb) As medidas de prevenção a adoptar;\n\nc) A identificação dos meios e recursos mobilizáveis, em situação de acidente grave ou catástrofe;\n\nd) A definição das responsabilidades que incumbem aos organismos, serviços e estruturas, públicas ou privadas, com competências no domínio da protecção civil;\n\ne) Os critérios de mobilização e mecanismos de coordenação dos meios e recursos, públicos ou privados, utilizáveis;\n\nf) A estrutura operacional que há-de garantir a unidade de direcção e o controlo permanente da situação.\n\n2 - Os planos de emergência, consoante a extensão territorial da situação visada, são nacionais, regionais, distritais ou municipais e, consoante a sua finalidade, são gerais ou especiais.\n\n3 - Os planos especiais poderão abranger áreas homogéneas de risco cuja extensão seja supramunicipal ou supradistrital.\n\n4 - Os planos de emergência estão sujeitos a actualização periódica e devem ser objecto de exercícios frequentes com vista a testar a sua operacionalidade.\n\n5 - Os planos de emergência de âmbito nacional e regional são aprovados, respectivamente, pelo Conselho de Ministros e pelos órgãos de governo próprio das Regiões.\n\n6 - Os planos de emergência de âmbito distrital e municipal, bem como os referidos no n.º 3, são aprovados pela Comissão Nacional de Protecção Civil.\n\n7 - Os planos de emergência de âmbito nacional, distrital e municipal são elaborados, respectivamente, pela Autoridade Nacional de Protecção Civil, pelo governador civil e pela câmara municipal.\n\n8 - Os planos de emergência referidos no n.º 3 são elaborados pela Autoridade Nacional de Protecção Civil, se a sua extensão territorial abranger mais de um distrito, ou pelos governadores civis, nos restantes casos.\n\n9 - Os agentes de protecção civil colaboram na elaboração e na execução dos planos de emergência."
+  },
+  "66321376": {
+   "fragment_id": "66321289",
+   "type": 11,
+   "heading": "Artigo 51.º — Auxílio externo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Auxílio externo\n\n1 - Salvo tratado ou convenção internacional em contrário, o pedido e a concessão de auxílio externo são da competência do Governo.\n\n2 - Os produtos e equipamentos que constituem o auxílio externo, solicitado ou concedido, são isentos de quaisquer direitos ou taxas, pela sua importação ou exportação, devendo conferir-se prioridade ao respectivo desembaraço aduaneiro.\n\n3 - São reduzidas ao mínimo indispensável as formalidades de atravessamento das fronteiras por pessoas empenhadas em missões de protecção civil.\n\n4 - A Autoridade Nacional de Protecção Civil deve prever a constituição de equipas de resposta rápida modulares com graus de prontidão crescentes para efeitos de activação, para actuação dentro e fora do País."
+  },
+  "66321377": {
+   "fragment_id": "66321290",
+   "type": 1,
+   "heading": "Capítulo VI — Forças Armadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Forças Armadas"
+  },
+  "66321378": {
+   "fragment_id": "66321291",
+   "type": 11,
+   "heading": "Artigo 52.º — Forças Armadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Forças Armadas\n\nAs Forças Armadas colaboram, no âmbito das suas missões específicas, em funções de protecção civil."
+  },
+  "66321379": {
+   "fragment_id": "66321292",
+   "type": 11,
+   "heading": "Artigo 53.º — Solicitação de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Solicitação de colaboração\n\n1 - Compete à Autoridade Nacional de Protecção Civil, a pedido do comandante operacional nacional, solicitar ao Estado-Maior-General das Forças Armadas a participação das Forças Armadas em funções de protecção civil.\n\n2 - Compete aos governadores civis e presidentes das câmaras municipais a solicitação ao presidente da Autoridade Nacional de Protecção Civil para a participação das Forças Armadas em funções de protecção civil nas respectivas áreas operacionais.\n\n3 - Em caso de manifesta urgência, os governadores civis e os presidentes das câmaras municipais podem solicitar a colaboração das Forças Armadas directamente aos comandantes das unidades implantadas na respectiva área, cabendo aos comandantes operacionais distritais ou municipais informar o comandante operacional nacional.\n\n4 - Consideram-se casos de manifesta urgência aqueles em que a gravidade e dimensão do acidente grave ou catástrofe e a necessidade de actuação imediata não são compatíveis com o normal encaminhamento do pedido através da cadeia de comando prevista nos n.os 1 e 2 do presente artigo.\n\n5 - Compete ao comandante operacional nacional avaliar o tipo e dimensão da ajuda a solicitar, bem como a definição das prioridades.\n\n6 - Nas Regiões Autónomas a colaboração deve ser solicitada pelo governo próprio da região aos comandantes operacionais conjuntos, devendo ser dado conhecimento ao Chefe do Estado-Maior-General das Forças Armadas e à Autoridade Nacional de Protecção Civil."
+  },
+  "66321380": {
+   "fragment_id": "66321293",
+   "type": 11,
+   "heading": "Artigo 54.º — Formas de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Formas de colaboração\n\nA colaboração das Forças Armadas pode revestir as seguintes formas:\n\na) Acções de prevenção, auxílio no combate e rescaldo em incêndios;\n\nb) Reforço do pessoal civil nos campos da salubridade e da saúde, em especial na hospitalização e evacuação de feridos e doentes;\n\nc) Acções de busca e salvamento;\n\nd) Disponibilização de equipamentos e de apoio logístico para as operações;\n\ne) Reabilitação de infra-estruturas;\n\nf) Execução de reconhecimentos terrestres, aéreos e marítimos e prestação de apoio em comunicações."
+  },
+  "66321381": {
+   "fragment_id": "66321294",
+   "type": 11,
+   "heading": "Artigo 55.º — Formação e instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Formação e instrução\n\nAs Forças Armadas promovem as acções de formação e instrução necessárias ao desempenho das suas funções no âmbito da protecção civil, com a colaboração da Autoridade Nacional de Protecção Civil ou de outras entidades e serviços funcionalmente relevantes, em termos a regulamentar por portaria do Ministro da Defesa Nacional."
+  },
+  "66321382": {
+   "fragment_id": "66321295",
+   "type": 11,
+   "heading": "Artigo 56.º — Autorização de actuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Autorização de actuação\n\n1 - As Forças Armadas são empregues em funções de protecção civil, no âmbito das suas missões específicas, mediante autorização do Chefe do Estado-Maior-General das Forças Armadas.\n\n2 - Em caso de manifesta urgência, a autorização de actuação compete aos comandantes das unidades implantadas na área afectada, para o efeito solicitados.\n\n3 - Nas Regiões Autónomas a autorização de actuação compete aos respectivos comandantes operacionais conjuntos."
+  },
+  "66321383": {
+   "fragment_id": "66321296",
+   "type": 11,
+   "heading": "Artigo 57.º — Cadeia de comando",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Cadeia de comando\n\nAs forças e elementos militares são empregues sob a cadeia de comando das Forças Armadas, sem prejuízo da necessária articulação com os comandos operacionais da estrutura de protecção civil."
+  },
+  "66321384": {
+   "fragment_id": "66321297",
+   "type": 11,
+   "heading": "Artigo 58.º — Formas de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Formas de apoio\n\n1 - O apoio programado é prestado de acordo com o previsto nos programas e planos de emergência previamente elaborados, após parecer favorável das Forças Armadas, havendo, para tanto, integrado nos centros de coordenação operacional um oficial de ligação.\n\n2 - O apoio não programado é prestado de acordo com a disponibilidade e prioridade de emprego dos meios militares, cabendo ao Estado-Maior-General das Forças Armadas a determinação das possibilidades de apoio e a coordenação das acções a desenvolver em resposta às solicitações apresentadas."
+  },
+  "66321385": {
+   "fragment_id": "66321298",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais"
+  },
+  "66321386": {
+   "fragment_id": "66321299",
+   "type": 11,
+   "heading": "Artigo 59.º — Protecção civil em estado de excepção ou de guerra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Protecção civil em estado de excepção ou de guerra\n\n1 - Em situação de guerra e em estado de sítio ou estado de emergência, as actividades de protecção civil e o funcionamento do sistema instituído pela presente lei subordinam-se ao disposto na Lei de Defesa Nacional e na Lei sobre o Regime do Estado de Sítio e do Estado de Emergência.\n\n2 - Em matéria de planeamento a nível internacional, o sistema nacional de protecção civil articula-se com o Conselho de Planeamento Civil de Emergência.\n\n3 - O Conselho de Planeamento Civil de Emergência e a Autoridade Nacional de Protecção Civil devem simplificar procedimentos e acções com vista a uma melhor integração do sistema de protecção civil nas situações previstas no n.º 1."
+  },
+  "66321387": {
+   "fragment_id": "66321300",
+   "type": 11,
+   "heading": "Artigo 60.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Regiões Autónomas\n\n1 - Nas Regiões Autónomas os serviços de protecção civil dependem dos respectivos órgãos de governo próprio, sem prejuízo da necessária articulação com as competentes entidades nacionais.\n\n2 - Nas Regiões Autónomas os componentes do sistema de protecção civil, a responsabilidade sobre a respectiva política e a estruturação dos serviços de protecção civil constantes desta lei e das competências dele decorrentes são definidos por diploma das respectivas Assembleias Legislativas Regionais.\n\n3 - Nas Regiões Autónomas os planos de emergência de âmbito municipal são aprovados pelo membro do Governo Regional que tutela o sector da protecção civil, mediante parecer prévio do Serviço Regional de Protecção Civil e dado conhecimento à Comissão Nacional de Protecção Civil."
+  },
+  "66321388": {
+   "fragment_id": "66321301",
+   "type": 11,
+   "heading": "Artigo 61.º — Seguros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Seguros\n\nConsideram-se nulas, não produzindo quaisquer efeitos, as cláusulas apostas em contratos de seguro visando excluir a responsabilidade das seguradoras por efeito de declaração da situação de calamidade."
+  },
+  "66321389": {
+   "fragment_id": "66321302",
+   "type": 11,
+   "heading": "Artigo 62.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Contra-ordenações\n\nSem prejuízo das sanções já previstas, o Governo define as contra-ordenações correspondentes à violação das normas da presente lei que implicam deveres e comportamentos necessários à execução da política de protecção civil."
+  },
+  "66321390": {
+   "fragment_id": "66321303",
+   "type": 11,
+   "heading": "Artigo 63.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Norma revogatória\n\n1 - A presente lei prevalece sobre todas as normas gerais e especiais que a contrariem.\n\n2 - São revogadas as Leis n.os 113/91, de 29 de Agosto, e 25/96, de 31 de Julho, os Decretos-Leis n.os 477/88, de 23 de Dezembro, e 222/93, de 18 de Junho, e os Decretos Regulamentares n.os 18/93, de 28 de Junho, e 20/93, de 3 de Julho."
+  },
+  "66305342": {
+   "fragment_id": "66285544",
+   "type": 11,
+   "heading": "Artigo 13.º — Competência para declaração de alerta",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 13.º — Competência para declaração de alerta\n\n1 - Cabe ao presidente da câmara municipal declarar a situação de alerta de âmbito municipal.\n\n2 - Cabe ao comandante operacional distrital declarar a situação de alerta, no todo ou em parte do seu âmbito territorial de competência, precedida da audição, sempre que possível, dos presidentes das câmaras municipais dos municípios abrangidos.\n\n> Alterado pelo/a Artigo 15.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+  },
+  "66305343": {
+   "fragment_id": "66285548",
+   "type": 11,
+   "heading": "Artigo 16.º — Competência para declaração de contingência",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 16.º — Competência para declaração de contingência\n\nA declaração da situação de contingência cabe ao presidente da Autoridade Nacional de Protecção Civil, precedida da audição, sempre que possível, dos presidentes das câmaras municipais dos municípios abrangidos.\n\n> Alterado pelo/a Artigo 15.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+  },
+  "66305344": {
+   "fragment_id": "66285569",
+   "type": 11,
+   "heading": "Artigo 34.º — Presidente da Autoridade Nacional de Protecção Civil",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 46/2006 - Diário da República n.º 151/2006, Série I de 2006-08-07](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/46-2006-538644), em vigor a partir de 2006-07-08"
+   ],
+   "markdown": "###### Artigo 34.º — Presidente da Autoridade Nacional de Protecção Civil\n\nCompete ao presidente da Autoridade Nacional de Protecção Civil exercer, ou delegar, as competências de, no âmbito distrital, desencadear, na iminência ou ocorrência de acidente grave ou catástrofe, as acções de protecção civil de prevenção, socorro, assistência e reabilitação adequadas em cada caso.\n\n> Alterado pelo/a Artigo 15.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 46/2006 - Diário da República n.º 151/2006, Série I de 2006-08-07](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/46-2006-538644), em vigor a partir de 2006-07-08"
+  },
+  "66305345": {
+   "fragment_id": "66321275",
+   "type": 11,
+   "heading": "Artigo 39.º — Composição das comissões distritais",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 39.º — Composição das comissões distritais\n\n1 - Integram a respectiva comissão distrital:\n\na) (Revogada).\n\nb) O comandante operacional distrital, que preside;\n\nc) As entidades máximas, ou seus representantes qualificados, dos serviços desconcentrados dos ministérios identificados na alínea a) do n.º 1 do artigo 37.º;\n\nd) Os responsáveis máximos pelas forças e serviços de segurança existentes no distrito;\n\ne) Um representante do Instituto Nacional de Emergência Médica (INEM);\n\nf) Três representantes dos municípios do distrito, designados pela Associação Nacional de Municípios Portugueses (ANMP);\n\ng) Um representante da Liga dos Bombeiros Portugueses e um representante da Associação Nacional dos Bombeiros Profissionais.\n\n2 - A comissão distrital de protecção civil é convocada pelo comandante operacional distrital ou, na sua ausência ou impedimento, por quem for por ele designado.\n\n> Alterado pelo/a Artigo 15.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+  },
+  "66305346": {
+   "fragment_id": "66321288",
+   "type": 11,
+   "heading": "Artigo 50.º — Planos de prevenção e de emergência",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 50.º — Planos de prevenção e de emergência\n\n1 - Os planos de emergência são elaborados de acordo com as directivas emanadas da Comissão Nacional de Protecção Civil e estabelecerão, nomeadamente:\n\na) A tipificação dos riscos;\n\nb) As medidas de prevenção a adoptar;\n\nc) A identificação dos meios e recursos mobilizáveis, em situação de acidente grave ou catástrofe;\n\nd) A definição das responsabilidades que incumbem aos organismos, serviços e estruturas, públicas ou privadas, com competências no domínio da protecção civil;\n\ne) Os critérios de mobilização e mecanismos de coordenação dos meios e recursos, públicos ou privados, utilizáveis;\n\nf) A estrutura operacional que há-de garantir a unidade de direcção e o controlo permanente da situação.\n\n2 - Os planos de emergência, consoante a extensão territorial da situação visada, são nacionais, regionais, distritais ou municipais e, consoante a sua finalidade, são gerais ou especiais.\n\n3 - Os planos especiais poderão abranger áreas homogéneas de risco cuja extensão seja supramunicipal ou supradistrital.\n\n4 - Os planos de emergência estão sujeitos a actualização periódica e devem ser objecto de exercícios frequentes com vista a testar a sua operacionalidade.\n\n5 - Os planos de emergência de âmbito nacional e regional são aprovados, respectivamente, pelo Conselho de Ministros e pelos órgãos de governo próprio das Regiões.\n\n6 - Os planos de emergência de âmbito distrital e municipal, bem como os referidos no n.º 3, são aprovados pela Comissão Nacional de Protecção Civil.\n\n7 - Os planos de emergência de âmbito nacional e distrital são elaborados pela Autoridade Nacional de Protecção Civil e os de âmbito municipal são elaborados pela respectiva câmara municipal.\n\n8 - Os planos de emergência referidos no n.º 3 são elaborados pela Autoridade Nacional de Protecção Civil.\n\n9 - Os agentes de protecção civil colaboram na elaboração e na execução dos planos de emergência.\n\n> Alterado pelo/a Artigo 15.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+  },
+  "66305347": {
+   "fragment_id": "66321292",
+   "type": 11,
+   "heading": "Artigo 53.º — Solicitação de colaboração",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 53.º — Solicitação de colaboração\n\n1 - Compete à Autoridade Nacional de Protecção Civil, a pedido do comandante operacional nacional, solicitar ao Estado-Maior-General das Forças Armadas a participação das Forças Armadas em funções de protecção civil.\n\n2 - Compete aos comandantes operacionais distritais a solicitação ao presidente da Autoridade Nacional de Protecção Civil para a participação das Forças Armadas em funções de protecção civil nas respectivas áreas operacionais.\n\n3 - Em caso de manifesta urgência, os comandantes operacionais distritais podem solicitar a colaboração das Forças Armadas directamente aos comandantes das unidades implantadas na respectiva área, informando disso mesmo o comandante operacional nacional.\n\n> Alterado pelo/a Artigo 15.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+  },
+  "66321391": {
+   "fragment_id": "66321304",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 11 de Maio de 2006.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 14 de Junho de 2006.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendada em 16 de Junho de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "69933658": {
+   "fragment_id": "66285538",
+   "type": 11,
+   "heading": "Artigo 8.º — Alerta, contingência e calamidade",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 8.º — Alerta, contingência e calamidade\n\n1 - Sem prejuízo do caráter permanente da atividade de proteção civil, os órgãos competentes podem, consoante a natureza dos acontecimentos a prevenir ou a enfrentar e a gravidade e extensão dos seus efeitos atuais ou expectáveis:\n\na) Declarar a situação de alerta;\n\nb) Declarar a situação de contingência;\n\nc) Declarar a situação de calamidade.\n\n2 - Os atos referidos no número anterior correspondem ao reconhecimento da adoção de medidas adequadas e proporcionais à necessidade de enfrentar graus crescentes de risco.\n\n3 - A declaração de situação de contingência ou de situação de calamidade pressupõe, numa lógica de subsidiariedade, a existência prévia dos atos correspondentes aos patamares precedentes, salvo na ocorrência de fenómenos cuja gravidade e extensão justifiquem e determinem a declaração imediata de um dos patamares superiores.\n\n4 - A declaração de situação de alerta, de situação de contingência e de situação de calamidade pode reportar-se a qualquer parcela do território, adotando um âmbito inframunicipal, municipal, supramunicipal, regional ou nacional.\n\n5 - Os poderes para declarar a situação de alerta ou de contingência encontram-se circunscritos pelo âmbito territorial de competência dos respectivos órgãos.\n\n6 - O Ministro da Administração Interna pode declarar a situação de alerta ou a situação de contingência para a totalidade do território nacional ou com o âmbito circunscrito a uma parcela do território nacional.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "69938530": {
+   "fragment_id": "66285540",
+   "type": 11,
+   "heading": "Artigo 10.º — Prioridade dos meios e recursos",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 10.º — Prioridade dos meios e recursos\n\n1 - Os meios e recursos utilizados para prevenir ou enfrentar os riscos de acidente ou catástrofe são os previstos nos planos de emergência de protecção civil ou, na sua ausência ou insuficiência, os determinados pela autoridade de protecção civil que assumir a direcção das operações.\n\n2 - Os meios e recursos utilizados devem adequar-se ao objectivo, não excedendo o estritamente necessário.\n\n3 - É dada preferência à utilização de meios e recursos públicos sobre a utilização de meios e recursos privados.\n\n4 - A utilização de meios e recursos é determinada segundo critérios de proximidade e de disponibilidade.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "69933659": {
+   "fragment_id": "66285544",
+   "type": 11,
+   "heading": "Artigo 13.º — Competência para declaração de alerta",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08",
+    "Alterado pelo/a Artigo 15.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 13.º — Competência para declaração de alerta\n\n1 - Cabe ao presidente da câmara municipal declarar a situação de alerta de âmbito municipal.\n\n2 - Cabe à entidade responsável pela área da proteção civil, ou à respetiva entidade nas regiões autónomas, declarar a situação de alerta, no todo ou em parte do seu âmbito territorial de competência, precedida da audição, sempre que possível, dos presidentes das câmaras municipais dos municípios abrangidos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08\n\n> Alterado pelo/a Artigo 15.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+  },
+  "69933660": {
+   "fragment_id": "66285545",
+   "type": 11,
+   "heading": "Artigo 14.º — Ato e âmbito material de declaração de alerta",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 14.º — Ato e âmbito material de declaração de alerta\n\n1 - O ato que declara a situação de alerta reveste a forma de despacho e menciona expressamente:\n\na) A natureza do acontecimento que originou a situação declarada;\n\nb) O âmbito temporal e territorial;\n\nc) Os procedimentos adequados à coordenação técnica e operacional dos serviços e agentes de proteção civil, bem como dos recursos a utilizar;\n\nd) As medidas preventivas a adotar adequadas ao acontecimento que originou a situação declarada.\n\n2 - A declaração da situação de alerta determina o acionamento das estruturas de coordenação institucional territorialmente competentes, as quais asseguram a articulação de todos os agentes, entidades e instituições envolvidos nas operações de proteção e socorro.\n\n3 - A declaração da situação de alerta determina ainda o acionamento das estruturas de coordenação política territorialmente competentes, as quais avaliam a necessidade de ativação do plano de emergência de proteção civil do respetivo nível territorial.\n\n4 - A declaração da situação de alerta determina uma obrigação especial de colaboração dos meios de comunicação social, em particular das rádios e das televisões, bem como das operadoras móveis de telecomunicações, com as estruturas de coordenação referidas nos n.os 2 e 3, visando a divulgação das informações relevantes relativas à situação.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "69938531": {
+   "fragment_id": "66285546",
+   "type": 11,
+   "heading": "Artigo 15.º — Âmbito material da declaração de alerta",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 15.º — Âmbito material da declaração de alerta\n\n1 - Para além das medidas especialmente determinadas pela natureza da ocorrência, a declaração de situação de alerta dispõe expressamente sobre:\n\na) A obrigatoriedade de convocação, consoante o âmbito, das comissões municipais, distritais ou nacional de protecção civil;\n\nb) O estabelecimento dos procedimentos adequados à coordenação técnica e operacional dos serviços e agentes de protecção civil, bem como dos recursos a utilizar;\n\nc) O estabelecimento das orientações relativas aos procedimentos de coordenação da intervenção das forças e serviços de segurança;\n\nd) A adopção de medidas preventivas adequadas à ocorrência.\n\n2 - A declaração da situação de alerta determina uma obrigação especial de colaboração dos meios de comunicação social, em particular das rádios e das televisões, com a estrutura de coordenação referida na alínea c) do artigo anterior, visando a divulgação das informações relevantes relativas à situação.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "69933661": {
+   "fragment_id": "66285548",
+   "type": 11,
+   "heading": "Artigo 16.º — Competência para declaração de contingência",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08",
+    "Alterado pelo/a Artigo 15.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 16.º — Competência para declaração de contingência\n\nA declaração da situação de contingência cabe à entidade responsável pela área da proteção civil no seu âmbito territorial de competência, precedida da audição, sempre que possível, dos presidentes das câmaras municipais dos municípios abrangidos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08\n\n> Alterado pelo/a Artigo 15.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+  },
+  "69933663": {
+   "fragment_id": "66285549",
+   "type": 11,
+   "heading": "Artigo 17.º — Ato e âmbito material de declaração de contingência",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 17.º — Ato e âmbito material de declaração de contingência\n\n1 - O ato que declara a situação de contingência reveste a forma de despacho e menciona expressamente:\n\na) A natureza do acontecimento que originou a situação declarada;\n\nb) O âmbito temporal e territorial;\n\nc) O estabelecimento de diretivas específicas relativas à atividade operacional dos agentes de proteção civil e das entidades e instituições envolvidas nas operações de proteção e socorro;\n\nd) Os procedimentos de inventariação dos danos e prejuízos provocados;\n\ne) Os critérios de concessão de apoios materiais.\n\n2 - A declaração da situação de contingência determina o acionamento das estruturas de coordenação política e institucional territorialmente competentes.\n\n3 - A declaração da situação de contingência implica a ativação automática dos planos de emergência de proteção civil do respetivo nível territorial.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "69938532": {
+   "fragment_id": "66285550",
+   "type": 11,
+   "heading": "Artigo 18.º — Âmbito material da declaração de contingência",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 18.º — Âmbito material da declaração de contingência\n\n1 - A declaração da situação de contingência abrange as medidas indicadas no artigo 15.º\n\n2 - Para além das medidas especialmente determinadas pela natureza da ocorrência, a declaração de situação de contingência dispõe expressamente sobre:\n\na) A obrigatoriedade de convocação da comissão distrital ou nacional de protecção civil;\n\nb) O accionamento dos planos de emergência relativos às áreas abrangidas;\n\nc) O estabelecimento de directivas específicas relativas à actividade operacional dos agentes de protecção civil;\n\nd) O estabelecimento dos critérios quadro relativos à intervenção exterior e à coordenação operacional das forças e serviços de segurança e das Forças Armadas, nos termos das disposições normativas aplicáveis, elevando o respectivo grau de prontidão, em conformidade com o disposto no plano de emergência aplicável;\n\ne) A requisição e colocação, sob a coordenação da estrutura indicada na alínea c) do artigo 17.º, de todos os sistemas de vigilância e detecção de riscos, bem como dos organismos e instituições, qualquer que seja a sua natureza, cujo conhecimento possa ser relevante para a previsão, detecção, aviso e avaliação de riscos e planeamento de emergência.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "69933664": {
+   "fragment_id": "66285554",
+   "type": 11,
+   "heading": "Artigo 21.º — Ato e âmbito material de declaração de calamidade",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 21.º — Ato e âmbito material de declaração de calamidade\n\n1 - A resolução do Conselho de Ministros que declara a situação de calamidade menciona expressamente:\n\na) A natureza do acontecimento que originou a situação declarada;\n\nb) O âmbito temporal e territorial;\n\nc) O estabelecimento de diretivas específicas relativas à atividade operacional dos agentes de proteção civil e das entidades e instituições envolvidas nas operações de proteção e socorro;\n\nd) Os procedimentos de inventariação dos danos e prejuízos provocados;\n\ne) Os critérios de concessão de apoios materiais e financeiros.\n\n2 - A declaração da situação de calamidade pode ainda estabelecer:\n\na) A mobilização civil de pessoas, por períodos de tempo determinados;\n\nb) A fixação, por razões de segurança dos próprios ou das operações, de limites ou condicionamentos à circulação ou permanência de pessoas, outros seres vivos ou veículos;\n\nc) A fixação de cercas sanitárias e de segurança;\n\nd) A racionalização da utilização dos serviços públicos de transportes, comunicações e abastecimento de água e energia, bem como do consumo de bens de primeira necessidade.\n\n3 - A declaração da situação de calamidade determina o acionamento das estruturas de coordenação política e institucional territorialmente competentes.\n\n4 - A declaração da situação de calamidade implica a ativação automática dos planos de emergência de proteção civil do respetivo nível territorial.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "69938533": {
+   "fragment_id": "66285555",
+   "type": 11,
+   "heading": "Artigo 22.º — Âmbito material da declaração de calamidade",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 22.º — Âmbito material da declaração de calamidade\n\n1 - A declaração da situação de calamidade abrange as medidas indicadas nos artigos 15.º e 18.º\n\n2 - Para além das medidas especialmente determinadas pela natureza da ocorrência, a declaração de situação de calamidade, tomando em conta os critérios das autoridades competentes em razão da matéria, pode dispor sobre:\n\na) A obrigatoriedade de convocação da Comissão Nacional de Protecção Civil;\n\nb) O accionamento do plano de emergência de âmbito nacional;\n\nc) O estabelecimento de cercas sanitárias e de segurança;\n\nd) O estabelecimento de limites ou condições à circulação ou permanência de pessoas, outros seres vivos ou veículos, nomeadamente através da sujeição a controlos colectivos para evitar a propagação de surtos epidémicos;\n\ne) A racionalização da utilização dos serviços públicos de transportes, comunicações e abastecimento de água e energia, bem como do consumo de bens de primeira necessidade;\n\nf) A determinação da mobilização civil de pessoas, por períodos de tempo determinados.\n\n3 - A declaração da situação de calamidade pode, por razões de segurança dos próprios ou das operações, estabelecer limitações quanto ao acesso e circulação de pessoas estranhas às operações, incluindo órgãos de comunicação social.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "69933665": {
+   "fragment_id": "66285559",
+   "type": 11,
+   "heading": "Artigo 26.º — Utilização do solo",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 26.º — Utilização do solo\n\n1 - A resolução do Conselho de Ministros que procede à declaração da situação de calamidade pode determinar a suspensão de planos municipais de ordenamento do território e ou planos especiais de ordenamento do território, em partes delimitadas da área abrangida pela declaração.\n\n2 - As zonas abrangidas pela declaração de calamidade são consideradas zonas objecto de medidas de protecção especial, tendo em conta a natureza do acontecimento que a determinou, sendo condicionadas, restringidas ou interditas, nos termos do número seguinte, as acções e utilizações susceptíveis de aumentar o risco de repetição do acontecimento.\n\n3 - Nos casos previstos nos números anteriores, a resolução do Conselho de Ministros que procede à declaração da situação de calamidade deve estabelecer as medidas preventivas necessárias à regulação provisória do uso do solo, aplicando-se, com as necessárias adaptações, o disposto no artigo 52.º da Lei n.º 31/2014, de 30 de maio, e no regime jurídico dos instrumentos de gestão territorial.\n\n4 - Sem prejuízo do disposto no n.º 1, os municípios abrangidos pela declaração de calamidade são ouvidos quanto ao estabelecimento das medidas previstas nos números anteriores, assim que as circunstâncias o permitam.\n\n5 - A alteração dos planos municipais de ordenamento do território e ou dos planos especiais de ordenamento do território deve estar concluída no prazo de dois anos após o início da suspensão.\n\n6 - Os instrumentos de gestão territorial devem estabelecer os comportamentos susceptíveis de imposição aos utilizadores do solo, tendo em conta os riscos para o interesse público relativo à protecção civil, designadamente nos domínios da construção de infra-estruturas, da realização de medidas de ordenamento e da sujeição a programas de fiscalização.\n\n7 - Nos procedimentos de alteração dos instrumentos de gestão territorial referidos nos números anteriores, nomeadamente nas fases de acompanhamento e concertação, a comissão mista de coordenação deve incluir um representante do Ministério da Administração Interna.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "69933666": {
+   "fragment_id": "66285560",
+   "type": 11,
+   "heading": "Artigo 27.º — Direito de preferência",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 27.º — Direito de preferência\n\n1 - É concedido o direito de preferência aos municípios nas transmissões a título oneroso, entre particulares, dos terrenos ou edifícios situados na área delimitada pela declaração de calamidade.\n\n2 - O direito de preferência é concedido pelo período de dois anos.\n\n3 - Ao exercício da faculdade prevista no n.º 1 aplica-se, com as necessárias adaptações, o regime estabelecido no artigo 29.º da Lei n.º 31/2014, de 30 de maio, e regulamentação complementar.\n\n4 - Os particulares que pretendam alienar imóveis abrangidos pelo direito de preferência dos municípios devem comunicar a transmissão pretendida ao presidente da câmara municipal.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "69933667": {
+   "fragment_id": "66285563",
+   "type": 11,
+   "heading": "Artigo 30.º — Despacho de urgência",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 30.º — Despacho de urgência\n\n1 - O despacho do Primeiro-Ministro e do Ministro da Administração Interna, previsto no artigo 20.º, pode, desde logo, adotar as medidas estabelecidas no artigo 21.º, com exceção das previstas nas alíneas a) e d) do seu n.º 2.\n\n2 - Desde que previstas no plano de emergência aplicável, as medidas estabelecidas nos artigos 23.º e 24.º podem ser adotadas no despacho referido no número anterior.\n\n3 - O despacho referido no n.º 1 produz os efeitos previstos nos artigos 14.º e 17.º\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "69933668": {
+   "fragment_id": "66285568",
+   "type": 11,
+   "heading": "Artigo 33.º — Primeiro-Ministro",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 33.º — Primeiro-Ministro\n\n1 - O Primeiro-Ministro é responsável pela direcção da política de protecção civil, competindo-lhe, designadamente:\n\na) Coordenar e orientar a acção dos membros do Governo nos assuntos relacionados com a protecção civil;\n\nb) Garantir o cumprimento das competências previstas no artigo 32.º\n\n2 - O Primeiro-Ministro pode delegar as competências referidas no número anterior no Ministro da Administração Interna, com possibilidade de subdelegação.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "69933669": {
+   "fragment_id": "66285569",
+   "type": 11,
+   "heading": "Artigo 34.º — Autoridade política de âmbito distrital",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08",
+    "Alterado pelo/a Artigo 15.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 46/2006 - Diário da República n.º 151/2006, Série I de 2006-08-07](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/46-2006-538644), em vigor a partir de 2006-07-08"
+   ],
+   "markdown": "###### Artigo 34.º — Autoridade política de âmbito distrital\n\n1 - Compete ao membro do governo responsável pela área da proteção civil, no âmbito distrital, desencadear, na iminência ou ocorrência de acidente grave ou catástrofe, as ações de proteção civil de prevenção, socorro, assistência e reabilitação adequadas a cada caso, com a coadjuvação do Comandante Operacional Distrital e a colaboração dos agentes de proteção civil competentes, nos termos legais.\n\n2 - O membro do Governo responsável pela área da proteção civil pode designar a entidade em quem delega competência para o exercício, a nível distrital, das atribuições em matéria de proteção civil.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08\n\n> Alterado pelo/a Artigo 15.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 46/2006 - Diário da República n.º 151/2006, Série I de 2006-08-07](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/46-2006-538644), em vigor a partir de 2006-07-08"
+  },
+  "69933670": {
+   "fragment_id": "66285570",
+   "type": 11,
+   "heading": "Artigo 35.º — Presidente da câmara municipal",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 35.º — Presidente da câmara municipal\n\n1 - Compete ao presidente da câmara municipal, no exercício de funções de responsável municipal da política de proteção civil, desencadear, na iminência ou ocorrência de acidente grave ou catástrofe, as ações de proteção civil de prevenção, socorro, assistência e recuperação adequadas em cada caso.\n\n2 - O presidente da câmara municipal é apoiado pelo serviço municipal de protecção civil e pelos restantes agentes de protecção civil de âmbito municipal.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "69933671": {
+   "fragment_id": "66285572",
+   "type": 11,
+   "heading": "Artigo 36.º — Comissão Nacional de Protecção Civil",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 36.º — Comissão Nacional de Protecção Civil\n\n1 - A Comissão Nacional de Protecção Civil é o órgão de coordenação em matéria de protecção civil.\n\n2 - Compete à Comissão:\n\na) Garantir a concretização das linhas gerais da política governamental de protecção civil em todos os serviços da administração;\n\nb) Apreciar as bases gerais da organização e do funcionamento dos organismos e serviços que, directa ou indirectamente, desempenhem funções de protecção civil;\n\nc) Apreciar os acordos ou convenções sobre cooperação internacional em matéria de protecção civil;\n\nd) Aprovar os planos de emergência de proteção civil, nos termos previstos no n.º 5 do artigo 50.º;\n\ne) Dar parecer sobre os planos de emergência de proteção civil de âmbito nacional e regional;\n\nf) Adoptar mecanismos de colaboração institucional entre todos os organismos e serviços com responsabilidades no domínio da protecção civil, bem como formas de coordenação técnica e operacional da actividade por aqueles desenvolvida, no âmbito específico das respectivas atribuições estatutárias;\n\ng) Proceder ao reconhecimento dos critérios e normas técnicas sobre a organização do inventário de recursos e meios, públicos e privados, mobilizáveis ao nível local, distrital, regional ou nacional, em caso de acidente grave ou catástrofe;\n\nh) Definir os critérios e as normas técnicas sobre a elaboração e operacionalização de planos de emergência de proteção civil;\n\ni) Definir as prioridades e objectivos a estabelecer com vista ao escalonamento de esforços dos organismos e estruturas com responsabilidades no domínio da protecção civil, relativamente à sua preparação e participação em tarefas comuns de protecção civil;\n\nj) Aprovar e acompanhar as iniciativas públicas tendentes à divulgação das finalidades da protecção civil e à sensibilização dos cidadãos para a autoprotecção e para a colaboração a prestar aos organismos e agentes que exercem aquela actividade;\n\nl) Apreciar e aprovar as formas de cooperação externa que os organismos e estruturas do sistema de protecção civil desenvolvem nos domínios das suas atribuições e competências específicas.\n\n3 - Compete ainda à Comissão:\n\na) Determinar o acionamento dos planos de emergência de proteção civil de âmbito nacional ou supradistrital e desencadear as ações neles previstas.\n\nb) Possibilitar a mobilização rápida e eficiente das organizações e pessoal indispensáveis e dos meios disponíveis que permitam a conduta coordenada das acções a executar;\n\nc) Formular junto do Governo pedidos de auxílio a outros países e às organizações internacionais, através dos órgãos competentes;\n\nd) Promover a realização de exercícios, simulacros ou treinos operacionais que contribuam para a eficácia de todos os serviços intervenientes em ações de proteção civil;\n\ne) Difundir os comunicados oficiais que se mostrem adequados às situações previstas na presente lei.\n\n4 - A Comissão assiste o Primeiro-Ministro e o Governo no exercício das suas competências em matéria de protecção civil, nomeadamente no caso previsto na alínea c) do n.º 2 do artigo 32.º\n\n5 - As normas de funcionamento da Comissão Nacional de Proteção Civil são definidas por portaria do membro do Governo responsável pela respetiva tutela.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "69933672": {
+   "fragment_id": "66285573",
+   "type": 11,
+   "heading": "Artigo 37.º — Composição da Comissão Nacional de Proteção Civil",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 37.º — Composição da Comissão Nacional de Proteção Civil\n\n1 - A Comissão Nacional de Proteção Civil é presidida pelo Ministro da Administração Interna e dela fazem parte:\n\na) Um representante de cada ministério designado pelo respetivo Ministro;\n\nb) Um representante de cada Governo Regional;\n\nc) O presidente da Autoridade Nacional de Proteção Civil;\n\nd) Representantes da Associação Nacional de Municípios Portugueses e da Associação Nacional de Freguesias;\n\ne) Representantes da Liga dos Bombeiros Portugueses e da Associação Nacional dos Bombeiros Profissionais.\n\n2 - Participam ainda na Comissão representantes do Estado-Maior-General das Forças Armadas, da Guarda Nacional Republicana, da Polícia de Segurança Pública, da Polícia Judiciária, do Gabinete Coordenador de Segurança, da Autoridade Marítima Nacional, da Autoridade Nacional da Aviação Civil e do Instituto Nacional de Emergência Médica.\n\n3 - (Revogado.)\n\n4 - O presidente, quando o considerar conveniente, pode convidar a participar nas reuniões da Comissão outras entidades que, pelas suas capacidades técnicas, científicas ou outras, possam ser relevantes para a tomada de decisões, no âmbito das políticas de proteção civil.\n\n5 - O secretariado e demais apoio às reuniões do Conselho são assegurados pela Autoridade Nacional de Proteção Civil.\n\n6 - Os representantes das entidades que integram a Comissão Nacional de Proteção Civil não têm, pelo exercício destas funções, direito a receber qualquer tipo de remuneração ou abono.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "69933674": {
+   "fragment_id": "66285574",
+   "type": 11,
+   "heading": "Artigo 38.º — Comissões distritais de protecção civil",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 38.º — Comissões distritais de protecção civil\n\n1 - Em cada distrito existe uma comissão distrital de protecção civil.\n\n2 - Compete à comissão distrital de protecção civil:\n\na) Accionar a elaboração, acompanhar a execução e remeter para aprovação pela Comissão Nacional os planos distritais de emergência;\n\nb) Acompanhar as políticas directamente ligadas ao sistema de protecção civil que sejam desenvolvidas por agentes públicos;\n\nc) Por determinação do membro do governo responsável pela área da proteção civil, promover o acionamento dos planos, sempre que tal se justifique;\n\nd) Promover a realização de exercícios, simulacros ou treinos operacionais que contribuam para a eficácia de todos os serviços intervenientes em acções de protecção civil.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "138963603": {
+   "fragment_id": "66321275",
+   "type": 11,
+   "heading": "Artigo 39.º — Composição das comissões distritais",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08",
+    "Alterado pelo/a Artigo 15.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 39.º — Composição das comissões distritais\n\n1 - Integram a respectiva comissão distrital:\n\na) (Revogada).\n\nb) Três presidentes de câmaras municipais, designados pela Associação Nacional de Municípios Portugueses, sendo designado, entre eles, um que preside;\n\nc) O comandante operacional distrital;\n\nd) Um representante de cada ministério designado pelo respetivo ministro;\n\ne) Os responsáveis máximos pelas forças e serviços de segurança existentes no distrito;\n\nf) Os capitães dos portos que dirigem as capitanias existentes no distrito;\n\ng) Um representante do Instituto Nacional de Emergência Médica, I. P. (INEM, I. P.);\n\nh) Um representante da Liga dos Bombeiros Portugueses e um representante da Associação Nacional dos Bombeiros Profissionais.\n\n2 - A comissão distrital de proteção civil é convocada pelo respetivo presidente ou, na sua ausência ou impedimento, por quem for por ele designado.\n\n3 - O presidente, quando o considerar conveniente, pode convidar a participar nas reuniões da Comissão outras entidades e serviços territorialmente competentes, cujas atividades e áreas funcionais possam, de acordo com os riscos existentes e as características do distrito, contribuir para as ações de proteção civil.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08\n\n> Alterado pelo/a Artigo 15.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+  },
+  "69938517": {
+   "fragment_id": "66321277",
+   "type": 11,
+   "heading": "Artigo 41.º — Composição das comissões municipais",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 41.º — Composição das comissões municipais\n\nIntegram a comissão municipal de protecção civil:\n\na) O presidente da câmara municipal, como autoridade municipal de proteção civil, que preside;\n\nb) O coordenador municipal de proteção civil;\n\nc) Um elemento do comando de cada corpo de bombeiros existente no município;\n\nd) Um elemento de cada uma das forças de segurança presentes no município;\n\ne) Os capitães dos portos que dirigem as capitanias existentes no distrito;\n\nf) A autoridade de saúde do município;\n\ng) O dirigente máximo da unidade local de saúde ou o diretor executivo do agrupamento de centros de saúde da área de influência do município e o diretor do hospital da área de influência do município, designado pelo diretor-geral da Saúde;\n\nh) Um representante dos serviços de segurança social;\n\ni) Um representante das juntas de freguesia a designar pela assembleia municipal;\n\nj) Representantes de outras entidades e serviços, implantados no município, cujas actividades e áreas funcionais possam, de acordo com os riscos existentes e as características da região, contribuir para as acções de protecção civil.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "69938518": {
+   "fragment_id": "66321278",
+   "type": 11,
+   "heading": "Artigo 42.º — Subcomissões",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 42.º — Subcomissões\n\nAs comissões, nacional, distrital ou municipal podem determinar a constituição de subcomissões, que tenham como objeto o acompanhamento de matérias específicas.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "69938519": {
+   "fragment_id": "66321282",
+   "type": 11,
+   "heading": "Artigo 45.º — Estrutura de protecção civil",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 45.º — Estrutura de protecção civil\n\nA estrutura de proteção civil organiza-se ao nível nacional, regional, distrital e municipal.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "69938520": {
+   "fragment_id": "66321283",
+   "type": 11,
+   "heading": "Artigo 46.º — Agentes de protecção civil",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759)"
+   ],
+   "markdown": "###### Artigo 46.º — Agentes de protecção civil\n\n1 - São agentes de protecção civil, de acordo com as suas atribuições próprias:\n\na) Os corpos de bombeiros;\n\nb) As forças de segurança;\n\nc) As Forças Armadas;\n\nd) Os órgãos da Autoridade Marítima Nacional;\n\ne) A Autoridade Nacional da Aviação Civil;\n\nf) O INEM, I. P., e demais entidades públicas prestadoras de cuidados de saúde;\n\ng) Os sapadores florestais.\n\n2 - A Cruz Vermelha Portuguesa exerce, em cooperação com os demais agentes e de harmonia com o seu estatuto próprio, funções de protecção civil nos domínios da intervenção, apoio, socorro e assistência sanitária e social.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759)"
+  },
+  "69933644": {
+   "fragment_id": "69933699",
+   "type": 11,
+   "heading": "Artigo 46.º-A — Entidades com dever de cooperação",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 46.º-A — Entidades com dever de cooperação\n\n1 - Impende especial dever de cooperação sobre as seguintes entidades:\n\na) Entidades de direito privado detentoras de corpos de bombeiros, nos termos da lei;\n\nb) Serviços de segurança;\n\nc) Serviço responsável pela prestação de perícias médico-legais e forenses;\n\nd) Serviços de segurança social;\n\ne) Instituições particulares de solidariedade social e outras com fins de socorro e de solidariedade;\n\nf) Serviços de segurança e socorro privativos das empresas públicas e privadas, dos portos e aeroportos.\n\ng) Instituições imprescindíveis às operações de proteção e socorro, emergência e assistência, designadamente dos setores das florestas, conservação da natureza, indústria e energia, transportes, comunicações, recursos hídricos e ambiente, mar e atmosfera;\n\nh) Organizações de voluntariado de proteção civil.\n\n2 - As organizações indicadas na alínea h) do número anterior são pessoas coletivas de direito privado, de base voluntária, sem fins lucrativos, legalmente constituídas e cujos fins estatutários refiram o desenvolvimento de ações no domínio da proteção civil.\n\n3 - As atribuições, âmbito, modo de reconhecimento e formas de cooperação das organizações indicadas no número anterior são fixadas por portaria do membro do Governo responsável pela área da proteção civil.\n\n4 - As entidades referidas nas alíneas a) a g) do n.º 1, articulam-se operacionalmente nos termos do artigo 48.º\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "69938522": {
+   "fragment_id": "66321284",
+   "type": 11,
+   "heading": "Artigo 47.º — Instituições de investigação técnica e científica",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 47.º — Instituições de investigação técnica e científica\n\n1 - Os serviços e instituições de investigação técnica e científica, públicos ou privados, com competências específicas em domínios com interesse para a prossecução dos objetivos fundamentais da proteção civil, cooperam com os órgãos de direção e coordenação, previstos na presente lei e com a autoridade nacional de proteção civil.\n\n2 - A cooperação desenvolve-se nos seguintes domínios:\n\na) Levantamento, previsão, avaliação e prevenção de riscos colectivos de origem natural, humana ou tecnológica e análises das vulnerabilidades das populações e dos sistemas ambientais a eles expostos;\n\nb) Estudo de formas adequadas de protecção dos edifícios em geral, dos monumentos e de outros bens culturais, de instalações e infra-estruturas de serviços e bens essenciais;\n\nc) Investigação no domínio de novos equipamentos e tecnologias adequados à busca, salvamento e prestação de socorro e assistência;\n\nd) Estudo de formas adequadas de protecção dos recursos naturais.\n\n3 - Impende sobre as entidades com competência legalmente reconhecida no âmbito da monitorização de riscos o dever de comunicar à autoridade nacional de proteção civil, ou ao órgão competente nas regiões autónomas, a informação proveniente dos sistemas de vigilância e deteção de riscos de que são detentoras.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "69938523": {
+   "fragment_id": "66321286",
+   "type": 11,
+   "heading": "Artigo 48.º — Sistema Integrado de Operações de Protecção e Socorro",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 48.º — Sistema Integrado de Operações de Protecção e Socorro\n\n1 - O Sistema Integrado de Operações de Proteção e Socorro (SIOPS) é o conjunto de estruturas, de normas e procedimentos que asseguram que todos os agentes de proteção civil e as entidades previstas nas alíneas a) a g) do n.º 1 do artigo 46.º-A atuam, no plano operacional, articuladamente sob um comando único, sem prejuízo da respetiva dependência hierárquica e funcional.\n\n2 - O SIOPS é regulado em diploma próprio.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "69933646": {
+   "fragment_id": "69933700",
+   "type": 11,
+   "heading": "Artigo 48.º-A — Espaços sob jurisdição da autoridade marítima nacional",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 48.º-A — Espaços sob jurisdição da autoridade marítima nacional\n\nAs estruturas e órgãos da autoridade marítima nacional, atentos os riscos e regimes aplicáveis aos espaços sob sua jurisdição, garantem a articulação operacional, nos referidos espaços, com as estruturas previstas no SIOPS.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "69938524": {
+   "fragment_id": "66321287",
+   "type": 11,
+   "heading": "Artigo 49.º — Centros de coordenação operacional",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 49.º — Centros de coordenação operacional\n\n1 - Em situação de acidente grave ou catástrofe, e no caso de perigo de ocorrência destes fenómenos, são desencadeadas operações de protecção civil, de harmonia com os planos de emergência previamente elaborados, com vista a possibilitar a unidade de direcção das acções a desenvolver, a coordenação técnica e operacional dos meios a empenhar e a adequação das medidas de carácter excepcional a adoptar.\n\n2 - Consoante a natureza do fenómeno e a gravidade e extensão dos seus efeitos previsíveis, são chamados a intervir centros de coordenação operacional de nível nacional, regional ou distrital, especialmente destinados a assegurar o controlo da situação com recurso a centrais de comunicações integradas e eventual sobreposição com meios alternativos.\n\n3 - As matérias respeitantes a atribuições, competências, composição e modo de funcionamento dos centros de coordenação operacional, bem como da estrutura de comando operacional de âmbito nacional, regional ou distrital, são definidas no diploma referido no n.º 2 do artigo 48.º\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "69933650": {
+   "fragment_id": "69933701",
+   "type": 11,
+   "heading": "Artigo 49.º-A — Prioridade dos meios e recursos",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 49.º-A — Prioridade dos meios e recursos\n\n1 - Os meios e recursos utilizados para prevenir ou enfrentar os riscos de acidente ou catástrofe são os previstos nos planos de emergência de proteção civil ou, na sua ausência ou insuficiência, os determinados pela autoridade de proteção civil que assumir a direção das operações.\n\n2 - Os meios e recursos utilizados devem adequar-se ao objetivo, não excedendo o estritamente necessário.\n\n3 - É dada preferência à utilização de meios e recursos públicos sobre a utilização de meios e recursos privados.\n\n4 - A utilização de meios e recursos é determinada segundo critérios de proximidade e de disponibilidade.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "69938525": {
+   "fragment_id": "66321288",
+   "type": 11,
+   "heading": "Artigo 50.º — Planos de emergência de proteção civil",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08",
+    "Alterado pelo/a Artigo 15.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 50.º — Planos de emergência de proteção civil\n\n1 - Os critérios e as normas técnicas para a elaboração e operacionalização de planos de emergência de proteção civil são fixados por resolução da Comissão Nacional de Proteção Civil.\n\n2 - Os planos de emergência de proteção civil, de acordo com a sua finalidade, classificam-se em gerais ou especiais, e consoante a extensão territorial da situação visada, são nacionais, regionais, distritais ou municipais.\n\n3 - Os planos especiais poderão abranger áreas homogéneas de risco cuja extensão seja supramunicipal ou supradistrital.\n\n4 - Os planos de emergência de proteção civil de âmbito nacional e regional são aprovados, respetivamente, pelo Conselho de Ministros e pelos órgãos de governo próprio das regiões autónomas.\n\n5 - Os planos de emergência de proteção civil de âmbito supradistrital, distrital, supramunicipal e municipal, são aprovados pela Comissão Nacional de Proteção Civil.\n\n6 - Nas regiões autónomas, os planos de emergência de proteção civil de âmbito municipal são aprovados pelo membro do Governo Regional que tutela o setor da proteção civil, sendo dado conhecimento à Comissão Nacional de Proteção Civil.\n\n7 - Os planos de emergência de proteção civil de âmbito nacional, supradistrital, distrital e supramunicipal são elaborados pela Autoridade Nacional de Proteção Civil.\n\n8 - Os planos de emergência de proteção civil de âmbito regional são elaborados pelos organismos regionais competentes em matéria de proteção civil.\n\n9 - Os planos de emergência de proteção civil de âmbito municipal são elaborados pelas câmaras municipais.\n\n10 - Os agentes de proteção civil, bem como as entidades e as instituições a envolver nas operações de proteção e socorro, colaboram na elaboração, operacionalização e execução dos planos de emergência de proteção civil.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08\n\n> Alterado pelo/a Artigo 15.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+  },
+  "69938526": {
+   "fragment_id": "66321289",
+   "type": 11,
+   "heading": "Artigo 51.º — Auxílio externo",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 51.º — Auxílio externo\n\n1 - Salvo tratado ou convenção internacional em contrário, o pedido e a concessão de auxílio externo são da competência do Governo.\n\n2 - Os produtos e equipamentos que constituem o auxílio externo, solicitado ou concedido, são isentos de quaisquer direitos ou taxas, pela sua importação ou exportação, devendo conferir-se prioridade ao respectivo desembaraço aduaneiro.\n\n3 - São reduzidas ao mínimo indispensável as formalidades de atravessamento das fronteiras por pessoas empenhadas em missões de protecção civil.\n\n4 - A Autoridade Nacional de Protecção Civil deve prever a constituição de equipas de resposta rápida modulares com graus de prontidão crescentes para efeitos de activação, para actuação dentro e fora do País.\n\n5 - Em caso de concessão de auxílio externo em território nacional, a Autoridade Nacional de Proteção Civil deve garantir a receção e o acompanhamento das equipas estrangeiras até ao final das operações, providenciado o apoio logístico necessário.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "69938527": {
+   "fragment_id": "66321292",
+   "type": 11,
+   "heading": "Artigo 53.º — Solicitação de colaboração",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08",
+    "Alterado pelo/a Artigo 15.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 53.º — Solicitação de colaboração\n\n1 - Compete ao presidente da Autoridade Nacional de Proteção Civil, a pedido do comandante operacional nacional, solicitar ao Estado-Maior-General das Forças Armadas a participação das Forças Armadas em missões de proteção civil.\n\n2 - Compete aos presidentes das câmaras municipais a solicitação ao presidente da Autoridade Nacional de Proteção Civil para a participação das Forças Armadas em missões de proteção civil nas respetivas áreas operacionais.\n\n3 - No caso previsto no número anterior, compete ao comandante operacional nacional avaliar o tipo e dimensão da ajuda a solicitar, bem como a definição das prioridades.\n\n4 - Nas regiões autónomas a colaboração deve ser solicitada pelo governo próprio da região aos comandantes operacionais, devendo ser dado conhecimento ao Chefe do Estado-Maior-General das Forças Armadas e à Autoridade Nacional de Proteção Civil.\n\n5 - Em caso de manifesta urgência, os presidentes das câmaras municipais podem solicitar a colaboração das Forças Armadas diretamente aos comandantes das unidades implantadas na respetiva área, dando conhecimento de tal pedido ao presidente da Autoridade Nacional de Proteção Civil ou ao presidente do Serviço Regional territorialmente competente quando o município em causa se localizar no continente ou nas regiões autónomas, respetivamente.\n\n6 - Consideram-se casos de manifesta urgência, aqueles em que a gravidade e dimensão do acidente ou catástrofe e a necessidade de atuação imediata não são compatíveis com o normal encaminhamento do pedido através da cadeia de comando prevista nos n.os 1, 2 e 4.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08\n\n> Alterado pelo/a Artigo 15.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+  },
+  "69938528": {
+   "fragment_id": "66321299",
+   "type": 11,
+   "heading": "Artigo 59.º — Protecção civil em estado de excepção ou de guerra",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 59.º — Protecção civil em estado de excepção ou de guerra\n\n1 - Em estado de guerra, de sítio ou de emergência, as atividades de proteção civil e o funcionamento do sistema instituído pelo artigo 48.º subordinam-se ao disposto na Lei de Defesa Nacional e na Lei sobre o Regime do Estado de Sítio e do Estado de Emergência.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "69933653": {
+   "fragment_id": "69933702",
+   "type": 11,
+   "heading": "Artigo 59.º-A — Símbolo de proteção civil",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 59.º-A — Símbolo de proteção civil\n\n1 - O símbolo internacional de proteção civil encontra-se regulamentado pelo Protocolo Adicional I às Convenções de Genebra, de 12 de agosto de 1949.\n\n2 - As condições para a adaptação e uso em território nacional do símbolo mencionado no número anterior são definidas por portaria do membro do Governo responsável pela área da proteção civil, ouvida a comissão nacional de proteção civil.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "69938529": {
+   "fragment_id": "66321300",
+   "type": 11,
+   "heading": "Artigo 60.º — Regiões Autónomas",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 60.º — Regiões Autónomas\n\n1 - Nas Regiões Autónomas os serviços de protecção civil dependem dos respectivos órgãos de governo próprio, sem prejuízo da necessária articulação com as competentes entidades nacionais.\n\n2 - Nas regiões autónomas os componentes do sistema de proteção civil, a responsabilidade sobre a respetiva política e a estruturação dos serviços de proteção civil constantes da presente lei e das competências dela decorrentes, são definidos por diploma das respetivas Assembleias Legislativas.\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "69933655": {
+   "fragment_id": "66321301",
+   "type": 11,
+   "heading": "Artigo 61.º — Seguros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Seguros\n\nConsideram-se nulas, não produzindo quaisquer efeitos, as cláusulas apostas em contratos de seguro visando excluir a responsabilidade das seguradoras por efeito de declaração da situação de calamidade."
+  },
+  "69933656": {
+   "fragment_id": "66321302",
+   "type": 11,
+   "heading": "Artigo 62.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Contra-ordenações\n\nSem prejuízo das sanções já previstas, o Governo define as contra-ordenações correspondentes à violação das normas da presente lei que implicam deveres e comportamentos necessários à execução da política de protecção civil."
+  },
+  "69933657": {
+   "fragment_id": "66321303",
+   "type": 11,
+   "heading": "Artigo 63.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Norma revogatória\n\n1 - A presente lei prevalece sobre todas as normas gerais e especiais que a contrariem.\n\n2 - São revogadas as Leis n.os 113/91, de 29 de Agosto, e 25/96, de 31 de Julho, os Decretos-Leis n.os 477/88, de 23 de Dezembro, e 222/93, de 18 de Junho, e os Decretos Regulamentares n.os 18/93, de 28 de Junho, e 20/93, de 3 de Julho."
+  },
+  "1156646575": {
+   "fragment_id": "66285529",
+   "type": 11,
+   "heading": "Artigo 1.º — Protecção civil",
+   "in_force_from": "2026-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 38/2026 - Diário da República n.º 148/2026, Série I de 2026-08-03](https://diariodarepublica.pt/dr/detalhe/lei/38-2026-1153917999), em vigor a partir de 2026-08-08."
+   ],
+   "markdown": "###### Artigo 1.º — Protecção civil\n\n1 - A proteção civil é a atividade desenvolvida pelo Estado, Regiões Autónomas e autarquias locais, pelos cidadãos e por todas as entidades públicas e privadas com a finalidade de prevenir riscos coletivos inerentes a situações de acidente grave ou catástrofe, de atenuar os seus efeitos e proteger e socorrer as pessoas, os animais e bens em perigo quando aquelas situações ocorram.\n\n2 - A actividade de protecção civil tem carácter permanente, multidisciplinar e plurissectorial, cabendo a todos os órgãos e departamentos da Administração Pública promover as condições indispensáveis à sua execução, de forma descentralizada, sem prejuízo do apoio mútuo entre organismos e entidades do mesmo nível ou proveniente de níveis superiores.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 38/2026 - Diário da República n.º 148/2026, Série I de 2026-08-03](https://diariodarepublica.pt/dr/detalhe/lei/38-2026-1153917999), em vigor a partir de 2026-08-08."
+  },
+  "1156646775": {
+   "fragment_id": "66285532",
+   "type": 11,
+   "heading": "Artigo 4.º — Objectivos e domínios de actuação",
+   "in_force_from": "2026-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 38/2026 - Diário da República n.º 148/2026, Série I de 2026-08-03](https://diariodarepublica.pt/dr/detalhe/lei/38-2026-1153917999), em vigor a partir de 2026-08-08."
+   ],
+   "markdown": "###### Artigo 4.º — Objectivos e domínios de actuação\n\n1 - São objectivos fundamentais da protecção civil:\n\na) Prevenir os riscos colectivos e a ocorrência de acidente grave ou de catástrofe deles resultante;\n\nb) Atenuar os riscos colectivos e limitar os seus efeitos no caso das ocorrências descritas na alínea anterior;\n\nc) Socorrer e assistir as pessoas e outros seres vivos em perigo proteger bens e valores culturais, ambientais e de elevado interesse público;\n\nd) Apoiar a reposição da normalidade da vida das pessoas em áreas afectadas por acidente grave ou catástrofe.\n\n2 - A actividade de protecção civil exerce-se nos seguintes domínios:\n\na) Levantamento, previsão, avaliação e prevenção dos riscos colectivos;\n\nb) Análise permanente das vulnerabilidades perante situações de risco;\n\nc) Informação e formação das populações, visando a sua sensibilização em matéria de autoprotecção e de colaboração com as autoridades;\n\nd) Planeamento de soluções de emergência, visando a busca, o salvamento, a prestação de socorro e de assistência, bem como a evacuação, alojamento e abastecimento das populações;\n\ne) Planeamento de soluções de emergência, visando a busca, o salvamento, a prestação de socorro e de assistência, bem como a evacuação, alojamento e abastecimento dos animais;\n\nf) Inventariação dos recursos e meios disponíveis e dos mais facilmente mobilizáveis, ao nível local, regional e nacional;\n\ng) Estudo e divulgação de formas adequadas de protecção dos edifícios em geral, de monumentos e de outros bens culturais, de infra-estruturas, do património arquivístico, de instalações de serviços essenciais, bem como do ambiente e dos recursos naturais;\n\nh) Previsão e planeamento de acções atinentes à eventualidade de isolamento de áreas afectadas por riscos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 38/2026 - Diário da República n.º 148/2026, Série I de 2026-08-03](https://diariodarepublica.pt/dr/detalhe/lei/38-2026-1153917999), em vigor a partir de 2026-08-08."
+  },
+  "1156646975": {
+   "fragment_id": "66285573",
+   "type": 11,
+   "heading": "Artigo 37.º — Composição da Comissão Nacional de Proteção Civil",
+   "in_force_from": "2026-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 38/2026 - Diário da República n.º 148/2026, Série I de 2026-08-03](https://diariodarepublica.pt/dr/detalhe/lei/38-2026-1153917999), em vigor a partir de 2026-08-08.",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 37.º — Composição da Comissão Nacional de Proteção Civil\n\n1 - A Comissão Nacional de Proteção Civil é presidida pelo Ministro da Administração Interna e dela fazem parte:\n\na) Um representante de cada ministério designado pelo respetivo Ministro;\n\nb) Um representante de cada Governo Regional;\n\nc) O presidente da Autoridade Nacional de Proteção Civil;\n\nd) Representantes da Associação Nacional de Municípios Portugueses e da Associação Nacional de Freguesias;\n\ne) Representantes da Liga dos Bombeiros Portugueses e da Associação Nacional dos Bombeiros Profissionais.\n\nf) Um representante de saúde e bem-estar animal a designar pela Direção-Geral de Alimentação e Veterinária (DGAV).\n\n2 - Participam ainda na Comissão representantes do Estado-Maior-General das Forças Armadas, da Guarda Nacional Republicana, da Polícia de Segurança Pública, da Polícia Judiciária, do Gabinete Coordenador de Segurança, da Autoridade Marítima Nacional, da Autoridade Nacional da Aviação Civil e do Instituto Nacional de Emergência Médica.\n\n3 - (Revogado.)\n\n4 - O presidente, quando o considerar conveniente, pode convidar a participar nas reuniões da Comissão outras entidades que, pelas suas capacidades técnicas, científicas ou outras, possam ser relevantes para a tomada de decisões, no âmbito das políticas de proteção civil.\n\n5 - O secretariado e demais apoio às reuniões do Conselho são assegurados pela Autoridade Nacional de Proteção Civil.\n\n6 - Os representantes das entidades que integram a Comissão Nacional de Proteção Civil não têm, pelo exercício destas funções, direito a receber qualquer tipo de remuneração ou abono.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 38/2026 - Diário da República n.º 148/2026, Série I de 2026-08-03](https://diariodarepublica.pt/dr/detalhe/lei/38-2026-1153917999), em vigor a partir de 2026-08-08.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  },
+  "1156647175": {
+   "fragment_id": "66321275",
+   "type": 11,
+   "heading": "Artigo 39.º — Composição das comissões distritais",
+   "in_force_from": "2026-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 38/2026 - Diário da República n.º 148/2026, Série I de 2026-08-03](https://diariodarepublica.pt/dr/detalhe/lei/38-2026-1153917999), em vigor a partir de 2026-08-08.",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08",
+    "Alterado pelo/a Artigo 15.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 39.º — Composição das comissões distritais\n\n1 - Integram a respectiva comissão distrital:\n\na) (Revogada).\n\nb) Três presidentes de câmaras municipais, designados pela Associação Nacional de Municípios Portugueses, sendo designado, entre eles, um que preside;\n\nc) O comandante operacional distrital;\n\nd) Um representante de cada ministério designado pelo respetivo ministro;\n\ne) Os responsáveis máximos pelas forças e serviços de segurança existentes no distrito;\n\nf) Os capitães dos portos que dirigem as capitanias existentes no distrito;\n\ng) Um representante do Instituto Nacional de Emergência Médica, I. P. (INEM, I. P.);\n\nh) Um representante da Liga dos Bombeiros Portugueses e um representante da Associação Nacional dos Bombeiros Profissionais.\n\ni) Um representante de saúde e bem-estar animal a designar pela DGAV.\n\n2 - A comissão distrital de proteção civil é convocada pelo respetivo presidente ou, na sua ausência ou impedimento, por quem for por ele designado.\n\n3 - O presidente, quando o considerar conveniente, pode convidar a participar nas reuniões da Comissão outras entidades e serviços territorialmente competentes, cujas atividades e áreas funcionais possam, de acordo com os riscos existentes e as características do distrito, contribuir para as ações de proteção civil.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 38/2026 - Diário da República n.º 148/2026, Série I de 2026-08-03](https://diariodarepublica.pt/dr/detalhe/lei/38-2026-1153917999), em vigor a partir de 2026-08-08.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08\n\n> Alterado pelo/a Artigo 15.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+  },
+  "1156647375": {
+   "fragment_id": "66321277",
+   "type": 11,
+   "heading": "Artigo 41.º — Composição das comissões municipais",
+   "in_force_from": "2026-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 38/2026 - Diário da República n.º 148/2026, Série I de 2026-08-03](https://diariodarepublica.pt/dr/detalhe/lei/38-2026-1153917999), em vigor a partir de 2026-08-08.",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+   ],
+   "markdown": "###### Artigo 41.º — Composição das comissões municipais\n\nIntegram a comissão municipal de protecção civil:\n\na) O presidente da câmara municipal, como autoridade municipal de proteção civil, que preside;\n\nb) O coordenador municipal de proteção civil;\n\nc) Um elemento do comando de cada corpo de bombeiros existente no município;\n\nd) Um elemento de cada uma das forças de segurança presentes no município;\n\ne) Os capitães dos portos que dirigem as capitanias existentes no distrito;\n\nf) A autoridade de saúde do município;\n\ng) O dirigente máximo da unidade local de saúde ou o diretor executivo do agrupamento de centros de saúde da área de influência do município e o diretor do hospital da área de influência do município, designado pelo diretor-geral da Saúde;\n\nh) Um representante dos serviços de segurança social;\n\ni) Um representante das juntas de freguesia a designar pela assembleia municipal;\n\nj) Um representante da autoridade sanitária veterinária concelhia;\n\nk) Representantes de entidades legalmente constituídas no âmbito da busca, salvamento, prestação de socorro, assistência, evacuação, alojamento ou abastecimento de animais, reconhecidos pelo município;\n\nl) Representantes de outras entidades e serviços, implantados no município, cujas actividades e áreas funcionais possam, de acordo com os riscos existentes e as características da região, contribuir para as acções de protecção civil.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 38/2026 - Diário da República n.º 148/2026, Série I de 2026-08-03](https://diariodarepublica.pt/dr/detalhe/lei/38-2026-1153917999), em vigor a partir de 2026-08-08.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03](https://diariodarepublica.pt/dr/detalhe/lei/80-2015-69927759), em vigor a partir de 2015-08-08"
+  }
+ }
+}

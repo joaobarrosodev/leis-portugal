@@ -1,0 +1,46 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:553429:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-915228545",
+ "dre_path": "/dr/detalhe/decreto-lei/109-2003-553429",
+ "source_lastmod": "2025-04-16",
+ "versions": [
+  {
+   "date": "2003-06-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "915059164",
+    "915059165",
+    "915059166"
+   ]
+  }
+ ],
+ "fragments": {
+  "915059164": {
+   "fragment_id": "915228546",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 109/2003\n\nde 4 de Junho\n\nO Decreto-Lei n.º 224/2000, de 9 de Setembro, alterado pelo Decreto-Lei n.º 117/2002, de 20 de Abril, que estabelece a regulamentação do Programa Operacional Pesca (MARE) e da componente pesca dos programas operacionais de âmbito regional (MARIS), no período de vigência do Quadro Comunitário de Apoio para 2002-2006 (QCA III), prevê que o desenvolvimento desta última componente se faça através dos domínios definidos no seu artigo 2.º, n.º 3, os quais são objecto de regulamentação através da Portaria n.º 1271/2001, de 8 de Novembro.\n\nPorém, a realidade vivida desde a publicação dos diplomas citados tem evidenciado que outros domínios haveria que consagrar para dar resposta às pretensões e interesses do sector, no sentido de promover e adequar o seu desenvolvimento, pelo que ora se consagra a promoção dos produtos da pesca e os equipamentos dos portos de pesca, no âmbito do desenvolvimento da componente MARIS.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "915059165": {
+   "fragment_id": "915228547",
+   "type": 11,
+   "heading": "Artigo 1.º — Alteração ao Decreto-Lei n.º 224/2000, de 9 de Setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alteração ao Decreto-Lei n.º 224/2000, de 9 de Setembro\n\nO artigo 2.º do Decreto-Lei n.º 224/2000, de 9 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 117/2002, de 20 de Abril, passa a ter a seguinte redacção:\n\n«Artigo 2.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\na) Equipamentos de portos de pesca e infra-estruturas e equipamentos colectivos de apoio ao desenvolvimento da aquicultura;\n\nb) ...\n\n4 - As medidas cujos objectivos sejam também concretizados através de entidades públicas ou que prossigam fins de interesse público regem-se pelo constante no complemento de programação dos respectivos programas.\n\n5 - ...»"
+  },
+  "915059166": {
+   "fragment_id": "915228548",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

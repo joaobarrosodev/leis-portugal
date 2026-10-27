@@ -1,0 +1,629 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31989L0552:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0552-20100505",
+ "dre_path": null,
+ "source_lastmod": "2010-05-05",
+ "versions": [
+  {
+   "date": "2007-12-19",
+   "future": false,
+   "celex": "01989L0552-20071219",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a6e6b8d24a286b92",
+    "226c39ffd0a88dad",
+    "4316dd276cfa9f05",
+    "eb3a4a0abbfc01fc",
+    "f0f8c960bfdbce9b",
+    "7fabed8a0a46afb5",
+    "a472cf36be271988",
+    "a9e13c6ebc12781b",
+    "eb65e07394d69e46",
+    "f31fcf54177c946c",
+    "5bcb317937c08b75",
+    "d44d96c48eb61ded",
+    "5c0faab5b9fe6e4f",
+    "a3ccedfac42c017e",
+    "d26f2e025d47b35c",
+    "6618cb53debc693d",
+    "a743f8f30dffd662",
+    "abe755ca609225fe",
+    "691142074448a126",
+    "3795e5601926243e",
+    "b0952b6bb6b08955",
+    "9b752cf5f0f22ede",
+    "4258e3c488959fdb",
+    "0943a070b890076b",
+    "102688506cf7c202",
+    "1580ca25ec63b790",
+    "1e7a0903d2eed348",
+    "00ad4ab752faa079",
+    "3cc3ed7833b73f08",
+    "d6b142ae2e63814a",
+    "362f0b550b2cb145",
+    "1ecfc79da3f1ac7f",
+    "c9039d201ed4dbde",
+    "6611a6b03ca07a6e",
+    "fc0a3258f2ca2557",
+    "87d27bb6bafcf1c8",
+    "588ab469f786c296",
+    "bae3004b6ea691d5",
+    "7123e361daf3ed86",
+    "4befb233cd6647db",
+    "a0184845aa5e573e",
+    "40ed6b62e188ac6f",
+    "8140e1fa82e26771",
+    "8994eb32440f7dd8",
+    "b76d202a844f758e",
+    "618b890636af7870",
+    "f0486a658573bd49",
+    "56bdb8ea2474f2a6",
+    "368884a984190119",
+    "404b3c8779eaab39",
+    "71ee39d403ad2a43",
+    "2a64cb0aaceeed3a",
+    "5f1726e4818ae76d",
+    "7fd045ac4f655f13",
+    "bbdde795c58f027f",
+    "a0c640e760150a6c",
+    "5c7006ff87c43fef",
+    "3e2ee6650a4ca14a",
+    "93c51d1395fcba3e"
+   ]
+  },
+  {
+   "date": "2010-05-05",
+   "future": false,
+   "celex": "01989L0552-20100505",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime Definições",
+    "Suprime Artigo 1.º",
+    "Suprime CAPÍTULO II",
+    "Suprime Disposições gerais",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 2.º-A",
+    "Suprime Artigo 3.º",
+    "Suprime CAPÍTULO II-A",
+    "Suprime Disposições aplicáveis a todos os serviços de comunicação social audiovisual",
+    "Suprime Artigo 3.º-A",
+    "Suprime Artigo 3.º-B",
+    "Suprime Artigo 3.º-C",
+    "Suprime Artigo 3.º-D",
+    "Suprime Artigo 3.º-E",
+    "Suprime Artigo 3.º-F",
+    "Suprime Artigo 3.º-G",
+    "Suprime CAPÍTULO II-B",
+    "Suprime Disposições exclusivamente aplicáveis aos serviços de comunicação social audiovisual a pedido",
+    "Suprime Artigo 3.º-H",
+    "Suprime Artigo 3.º-I",
+    "Suprime CAPÍTULO II-C",
+    "Suprime Disposições relativas a direitos exclusivos e curtos resumos noticiosos na radiodifusão televisiva",
+    "Suprime Artigo 3.º-J",
+    "Suprime Artigo 3.º-K",
+    "Suprime CAPÍTULO III",
+    "Suprime Promoção da distribuição e da produção de programas televisivos",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 9.º",
+    "Suprime CAPÍTULO IV",
+    "Suprime Publicidade televisiva e televenda",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 18.º-A",
+    "Suprime Artigo 19.º",
+    "Suprime Artigo 20.º",
+    "Suprime CAPÍTULO V",
+    "Suprime Protecção de menores na radiodifusão televisiva",
+    "Suprime Artigo 22.º",
+    "Suprime CAPÍTULO VI",
+    "Suprime Direito de resposta na radiodifusão televisiva",
+    "Suprime Artigo 23.º",
+    "Suprime CAPÍTULO VI-A",
+    "Suprime Comité de Contacto",
+    "Suprime Artigo 23.º-A",
+    "Suprime CAPÍTULO VI-B",
+    "Suprime Cooperação entre entidades reguladoras dos estados-membros",
+    "Suprime Artigo 23.º-B",
+    "Suprime CAPÍTULO VII",
+    "Suprime Disposições finais",
+    "Suprime Artigo 24.º",
+    "Suprime Artigo 26.º",
+    "Suprime Artigo 27.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "eeb20105fe90e928"
+   ]
+  }
+ ],
+ "fragments": {
+  "a6e6b8d24a286b92": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Outubro de 1989,\n\nrelativa à coordenação de certas disposições legislativas, regulamentares e administrativas dos Estados-Membros respeitantes à oferta de serviços de comunicação social audiovisual (Directiva «Serviços de Comunicação Social Audiovisual»)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o n.º 2 do seu artigo 57.º e o seu artigo 66.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/059eea12-27ff-4ed0-8ceb-e2b0cf597201.0018.03/DOC_1#E0001)),\n\nEm cooperação com o Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/059eea12-27ff-4ed0-8ceb-e2b0cf597201.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/059eea12-27ff-4ed0-8ceb-e2b0cf597201.0018.03/DOC_1#E0003)),\n\nConsiderando que os objectivos da Comunidade, nos termos enunciados no Tratado, consistem em realizar uma união cada vez mais estreita entre os povos europeus, a estabelecer relações mais próximas entre os Estados que compõem a Comunidade, a assegurar, mediante uma acção comum, o progresso económico e social dos países, eliminando as barreiras que dividem a Europa, a promover a melhoria constante das condições de vida dos seus povos, bem como a velar pela preservação e a consolidação da paz e da liberdade;\n\nConsiderando que o Tratado prevê o estabelecimento de um mercado comum que inclui a eliminação entre os Estados-membros dos obstáculos à livre circulação de serviços e o estabelecimento de um sistema que garanta que a concorrência não seja falseada;\n\nConsiderando que as emissões transfronteiras realizadas graças às diferentes tecnologias constituem um dos meios para prosseguir os objectivos da Comunidade; que é conveniente a adopção de medidas que garantam a passagem dos mercados nacionais para um mercado comum de produção e de distribuição de programas e que criem condições de concorrência leal sem prejuízo da função de interesse público que incumbe aos serviços de radiodifusão televisiva;\n\nConsiderando que o Conselho da Europa adoptou a Convenção Europeia sobre a Televisão Transfronteiras;\n\nConsiderando que o Tratado prevê a adopção de directivas destinadas a coordenar disposições tendentes a facilitar o acesso a actividades não assalariadas;\n\nConsiderando que, em circunstâncias normais, a radiodifusão televisiva constitui um serviço na acepção do Tratado;\n\nConsiderando que o Tratado prevê a livre circulação de todos os serviços fornecidos normalmente contra remuneração, sem exclusão relativa ao seu conteúdo cultural ou outro e sem restrições relativamente aos nacionais dos Estados-membros estabelecidos num Estado da Comunidade que não o do destinatário do serviço;\n\nConsiderando que esse direito aplicado à difusão e à distribuição de serviços de televisão constitui igualmente uma manifestação específica, em direito comunitário de um princípio mais geral, a saber, a liberdade de expressão, tal como está consagrada no n.º 1 do artigo 10.º da Convenção para a Protecção dos Direitos do Homem e das Liberdades Fundamentais, ratificada por todos os Estados-membros; que, por essa razão, a adopção de directivas relativas à actividade de difusão e de distribuição de programas de televisão deve garantir o livre exercício dessa actividade à luz do referido artigo, sob a única reserva dos limites previstos no n.º 2 desse mesmo artigo e no n.º 1 do artigo 56.º do Tratado;\n\nConsiderando que as disposições legislativas, regulamentares e administrativas dos Estados-membros aplicáveis ao exercício de actividades de radiodifusão televisiva e de distribuição por cabo apresentam disparidades que são de natureza a entravar a livre circulação de emissões na Comunidade e a falsear o jogo da concorrência no interior do mercado comum;\n\nConsiderando que todas essas barreiras à livre difusão no interior da Comunidade devem ser suprimidas por força do Tratado;\n\nConsiderando que essa supressão deve ser acompanhada de uma coordenação das legislações aplicáveis; que essa coordenação deve ter como objectivo facilitar o exercício das actividades profissionais em causa e, de uma forma mais geral, a livre circulação das informações e das ideias no interior da Comunidade;\n\nConsiderando que, por consequência, é necessário e suficiente que todas as emissões respeitem a legislação do Estado-membro de onde provêm;\n\nConsiderando que a presente directiva prevê disposições mínimas necessárias para garantir a livre difusão de emissões; que, por esse motivo, não afecta as competências de que dispõem os Estados-membros e as suas autoridades no que diz respeito à organização — incluindo os sistemas de concessão, de autorização administrativa ou de imposição de taxas — e ao financiamento das emissões, bem como ao conteúdo dos programas; que a independência da evolução cultural de cada Estado-membro e a diversidade cultural da Comunidade permanecem assim preservadas;\n\nConsiderando que é necessário, no âmbito do mercado comum, que todas as emissões provenientes da Comunidade e destinadas a ser captadas no seu interior e, nomeadamente, as emissões destinadas a um outro Estado-membro respeitem a legislação do Estado-membro de origem aplicável às emissões destinadas ao público desse Estado-membro, bem como as disposições da presente directiva.\n\nConsiderado que a obrigação do Estado-membro de origem de se assegurar de que as emissões são conformes com a legislação nacional, tal como coordenada pela presente directiva, é suficiente, no que diz respeito ao direito comunitário, para garantir a livre circulação das emissões, sem que seja necessário um segundo controlo pelos mesmos motivos nos Estados-membros receptores; que, no entanto, o Estado-membro receptor pode, a título excepcional e em condições específicas, suspender provisoriamente a retransmissão de emissões televisivas;\n\nConsiderando que é essencial que os Estados-membros velem por que sejam evitados actos que possam prejudicar a liberdade de circulação e de comércio das emissões televisivas ou que possam promover a criação de posições dominantes susceptíveis de conduzir a restrições ao pluralismo e à liberdade da informação televisiva bem como da informação no seu conjunto;\n\nConsiderando que a presente directiva, ao limitar-se a uma regulamentação que visa especificamente a radiodifusão televisiva, não prejudica os actos comunitários de harmonização em vigor ou futuros que tenham nomeadamente por objecto fazer respeitar os imperativos relativos à defesa dos consumidores, à lealdade das transacções comerciais e à concorrência;\n\nConsiderando que é no entanto necessária uma coordenação para proporcionar às pessoas e às indústrias produtoras de programas televisivos com objectivos culturais um melhor acesso à profissão e ao seu exercício;\n\nConsiderando que exigências mínimas para as produções audiovisuais europeias aplicáveis a todos os programas, públicos ou privados, de televisão da Comunidade são um meio para promover a produção, a produção independente e a distribuição nas indústrias acima referidas e completam outros instrumentos que foram ou serão propostos no mesmo sentido;\n\nConsiderando que é portanto necessário promover a formação de mercados de uma dimensão suficiente para que as produções televisivas dos Estados-membros possam amotirzar os investimentos necessários, não só estabelecendo normas comuns que abram reciprocamente os mercados nacionais mas também, sempre que tal se revelar exequível, actuando através dos meios adequados para que as produções europeias sejam maioritárias nos programas televisivos dos Estados-membros; que, com vista a permitir a aplicação dessas normas e a prossecução desses objectivos, os Estados-membros devem apresentar à Comissão um relatório sobre a realização da percentagem que a presente directiva prevê que seja reservada às obras europeias e às produções independentes; que, para o cálculo dessa percentagem, importa ter em consideração a situação específica da República Helénica e da República Portuguesa; que a Comissão deve levar o relatório de cada Estado-membro ao conhecimento dos outros Estados-membros, fazendo-o acompanhar, se necessário, de um parecer que tenha em conta nomeadamente a evolução registada relativamente aos anos anteriores, a parte ocupada pelas obras de primeira difusão na programação, as circunstâncias particulares dos novos organismos de radiodifusão televisiva e a situação específica dos países com fraca capacidade de produção audiovisual ou uma área linguística restrita;\n\nConsiderando que, para os referidos efeitos, é necessário definir as «obras europeias», sem prejuízo da possibilidade de os Estados-membros especificarem essa definição no que respeita aos organismos de radiodifusão televisiva sob a sua jurisdição nos termos do n.º 1 do artigo 3.º, no respeito do direito comunitário e tendo em conta os objectivos da presente directiva;\n\nConsiderando que é importante procurar os instrumentos e procedimentos adequados e conformes com o direito comunitário que favoreçam a realização desses objectivos com vista a tomar as medidas que se impõem para encorajar a actividade e o desenvolvimento da produção e da distribuição audiovisual europeias, nomeadamente nos países de fraca capacidade de produção ou de área linguística restrita;\n\nConsiderando que poderão sera aplicados dispositivos nacionais de apoio ao desenvolvimento da produção europeia, desde que sejam conformes com o direito comunitário;\n\nConsiderando que um compromisso no sentido de que, na medida do possível, uma certa percentagem das emissões seja reservada a produções independentes realizadas por produtores independentes dos organismos de radiodifusão televisiva estimulará o aparacimento de novas fontes de produção televisiva, nomeadamente a criação de pequenas e médias empresas; que novas possibilidades serão assim oferecidas e novas perspectivas abertas à criatividade, às profissões culturais e aos trabalhadores do sector cultural; que, ao definir a noção de produtor independente, os Estados-membros devem ter em conta aquele objectivo e, para tanto, conceder toda a devida atenção às pequenas e médias empresas de produção e velar por tornar possível a participação financeira das subsidiárias co-produtoras de organismos de radiodifusão televisiva;\n\nConsiderando que são necessárias medidas que permitam aos Estados-membros velar por uma certa cronologia entre a primeira difusão cinematográfica de uma obra e a primeira difusão televisiva;\n\nConsiderando que, no intuito de promover activamente uma língua específica, os Estados-membros devem conservar a faculdade de estabelecer regras mais rigorosas ou mais pormenorizadas em função de critérios linguísticos, desde que essas regras respeitem o direito comunitário e, em particular, não se apliquem a retransmissão de programas originários de outros Estados-membros;\n\nConsiderando que, para assegurar de forma completa e adequada a protecção dos interesses dos consumidores que são os telespectadores, é essencial que a publicidade televisiva seja submetida a um determinado número de normas mínimas e de critérios e que os Estados-membros tenham a faculdade de fixar normas mais rigorosas ou mais pormenorizadas e, em determinados casos, condições diferentes para os organismos de radiodifusão televisiva sob a sua jurisdição;\n\nConsiderando que, no respeito sempre pelo direito comunitário, os Estados-membros devem poder fixar, para as emissões destinadas exclusivamente ao território nacional que não possam ser captadas, directa ou indirectamente, num outro ou em vários outros Estados-membros, condições diferentes relativas à inserção da publicidade e limites diferentes para o volume de publicidade, de forma a facilitar a difusão dessas emissões;\n\nConsiderando que se deve proibir toda a publicidade televisiva de cigarros e de produtos à base de tabaco, incluindo as formas indirectas de publicidade que, embora não mencionem directamente o produto, tentam contornar a proibição da publicidade utilizando nomes de marcas, símbolos ou outros traços distintivos de produtos à base de tabaco ou de empresas cujas actividades conhecidas ou principais incluem a produção ou a venda desse tipo de produtos;\n\nConsiderando que é igualmente necessário proibir toda a publicidade televisiva de medicamentos e de tratamentos médicos apenas disponíveis mediante receita médica no Estado-membro sob cuja jurisdição o organismo de radiodifusão televisiva se encontra, bem como prever critérios rigorosos em matéria de publicidade televisiva de bebidas alcoólicas;\n\nConsiderando que, tendo em conta a importância crescente do patrocínio no financiamento dos programas, convém estabelecer normas adequadas a esse respeito;\n\nConsiderando que é necessário, além disso, prever normas para a protecção do desenvolvimento físico, mental e moral dos menores nos programas e na publicidade televisiva;\n\nConsiderando que, se os organismos de radiodifusão televisiva estão normalmente obrigados a velar por que as emissões apresentem lealmente os factos e os acontecimentos, é todavia importante que eles sejam submetidos a obrigações precisas em matéria de direito de resposta ou de medidas equivalentes para que qualquer pessoa lesada nos seus direitos legítimos na sequência de uma alegação feita no decurso de uma emissão de televisão possa efectivamente fazer valer esses direitos,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "4316dd276cfa9f05": {
+   "fragment_id": "Definições",
+   "type": "divisao",
+   "heading": "Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Definições"
+  },
+  "eb3a4a0abbfc01fc": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Serviço de comunicação social audiovisual»:\n\n— um serviço tal como definido pelos artigos 49.º e 50.º do Tratado, prestado sob a responsabilidade editorial de um fornecedor de serviços de comunicação social e cuja principal finalidade é a oferta ao público em geral de programas destinados a informar, distrair ou educar, através de redes de comunicações electrónicas, na acepção da alínea a) do artigo 2.º da Directiva 2002/21/CE. Esse serviço de comunicação social audiovisual é constituído por emissões televisivas, tal como definidas na alínea e) do presente artigo, ou por serviços de comunicação social audiovisual a pedido, tal como definidos na alínea g) do presente artigo,\n\n— e/ou\n\n— comunicações comerciais audiovisuais;\n\nb) «Programa», um conjunto de imagens em movimento, com ou sem som, que constitui uma parte autónoma da grelha de programas ou do catálogo estabelecidos por um fornecedor de serviços de comunicação social e cuja forma e conteúdo é comparável à forma e ao conteúdo de uma emissão televisiva. São exemplos de programas as longas-metragens cinematográficas, os acontecimentos desportivos, as comédias de costumes (*sitcom*), os documentários, os programas infantis e as séries televisivas;\n\nc) «Responsabilidade editorial», o exercício de um controlo efectivo tanto sobre a selecção de programas como sobre a sua organização, quer sob a forma de grelha de programas, no caso das emissões televisivas, quer sob a forma de catálogo, no caso dos serviços de comunicação social audiovisual a pedido. A responsabilidade editorial não implica necessariamente uma responsabilidade jurídica, nos termos do direito nacional, pelos conteúdos ou serviços fornecidos;\n\nd) «Fornecedor de serviços de comunicação social», a pessoa singular ou colectiva que tem responsabilidade editorial pela escolha do conteúdo audiovisual do serviço de comunicação social audiovisual e determina o modo como é organizado;\n\ne) «Radiodifusão televisiva» ou «emissão televisiva» (ou seja, um serviço de comunicação social audiovisual linear), um serviço de comunicação social audiovisual prestado por um fornecedor de serviços de comunicação social para visionamento simultâneo de programas, ordenados com base numa grelha de programas;\n\nf) «Operador televisivo», um fornecedor de serviços de comunicação social de emissões televisivas;\n\ng) «Serviço de comunicação social audiovisual a pedido» (ou seja, um serviço de comunicação social audiovisual não linear), um serviço de comunicação social audiovisual prestado por um fornecedor de serviços de comunicação social para visionamento de programas pelo utilizador, a pedido individual deste, num momento por ele escolhido para o efeito com base num catálogo de programas seleccionados pelo fornecedor do serviço de comunicação social;\n\nh) «Comunicação comercial audiovisual», imagens com ou sem som que se destinam a promover, directa ou indirectamente, os produtos, os serviços ou a imagem de uma pessoa singular ou colectiva que exerce uma actividade económica. Tais imagens acompanham ou são incluídas num programa a troco de pagamento ou retribuição similar, ou para fins autopromocionais. As formas de comunicação comercial audiovisual incluem, nomeadamente, a publicidade televisiva, o patrocínio, a televenda e a colocação de produto;\n\ni) «Publicidade televisiva», qualquer forma de mensagem televisiva difundida a troco de pagamento ou retribuição similar, ou para fins autopromocionais, por uma entidade pública ou privada ou uma pessoa singular, relacionada com uma actividade comercial, industrial, artesanal ou de profissão liberal, com o objectivo de promover o fornecimento de produtos ou serviços, incluindo bens imóveis, direitos e obrigações, a troco de pagamento;\n\nj) «Comunicação comercial audiovisual oculta», a apresentação oral ou visual de produtos, de serviços, do nome, da marca ou das actividades de um fabricante de produtos ou de um fornecedor de serviços em programas, quando essa apresentação seja feita de forma intencional pelo fornecedor dos serviços de comunicação social com fins publicitários e possa induzir o público em erro quanto à natureza dessa apresentação. Tal apresentação é, em particular, considerada intencional caso seja feita a troco de pagamento ou retribuição similar;\n\nk) «Patrocínio», qualquer contribuição feita por uma empresa pública ou privada ou pessoa singular que não esteja envolvida na oferta de serviços de comunicação social audiovisual nem na produção de obras audiovisuais para o financiamento de serviços de comunicação social ou programas audiovisuais, com o intuito de promover o seu nome, a sua marca, a sua imagem, as suas actividades ou os seus produtos;\n\nl) «Televenda», a oferta directa difundida ao público com vista ao fornecimento de produtos ou serviços, incluindo bens imóveis, direitos e obrigações, a troco de pagamento;\n\nm) «Colocação de produto», qualquer forma de comunicação comercial audiovisual que consista na inclusão ou referência a um produto ou serviço ou à respectiva marca comercial num programa, a troco de pagamento ou retribuição similar;\n\ni) entende-se por «obras europeias»:\n\n— as obras originárias de Estados-Membros,\n\n— as obras originárias de Estados terceiros europeus que sejam parte na Convenção Europeia sobre a Televisão Transfronteiras do Conselho da Europa e satisfaçam as condições da subalínea ii),\n\n— as obras co-produzidas no âmbito de acordos referentes ao sector audiovisual celebrados entre a Comunidade e países terceiros e que cumpram as condições estabelecidas em cada um desses acordos.\n\n— O disposto no segundo e no terceiro travessões só é aplicável a obras originárias de Estados-Membros que não estejam sujeitas a medidas discriminatórias nos países terceiros em questão,\n\nii) as obras referidas no primeiro e no segundo travessões da subalínea i) são as obras que, realizadas essencialmente com a participação de autores e trabalhadores residentes em um ou mais dos Estados a que se referem o primeiro e o segundo travessões da subalínea i), satisfaçam uma das três condições seguintes:\n\n— serem realizadas por um ou mais produtores estabelecidos em um ou vários desses Estados, ou\n\n— a produção dessas obras ser supervisionada e efectivamente controlada por um ou mais produtores estabelecidos em um ou vários desses Estados, ou\n\n— a contribuição dos co-produtores desses Estados para o custo total da co-produção ser maioritária e a co-produção não ser controlada por um ou mais produtores estabelecidos fora desses Estados,\n\niii) as obras que não sejam obras europeias na acepção da subalínea i) mas sejam produzidas ao abrigo de tratados bilaterais de co-produção celebrados entre Estados-Membros e países terceiros são consideradas obras europeias sempre que caiba aos co-produtores comunitários a parte maioritária do custo total da sua produção e esta não seja controlada por um ou mais produtores estabelecidos fora do território dos Estados-Membros."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "7fabed8a0a46afb5": {
+   "fragment_id": "Disposições gerais",
+   "type": "divisao",
+   "heading": "Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições gerais"
+  },
+  "a472cf36be271988": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Cada Estado-Membro deve assegurar que todos os serviços de comunicação social audiovisual prestados por fornecedores de serviços de comunicação social sob a sua jurisdição respeitem as regras da ordem jurídica aplicável aos serviços de comunicação social audiovisual destinados ao público nesse Estado-Membro.\n\n2. Para efeitos da presente directiva, os fornecedores de serviços de comunicação social sob a jurisdição de um Estado-Membro são:\n\na) Os estabelecidos nesse Estado-Membro, nos termos do n.º 3; ou\n\nb) Aqueles a que se aplica o n.º 4.\n\n3. Para efeitos da presente directiva, considera-se que um fornecedor de serviços de comunicação social se encontra estabelecido num Estado-Membro nos seguintes casos:\n\na) Se o fornecedor do serviço de comunicação social tiver a sua sede social nesse Estado-Membro e as decisões editoriais relativas ao serviço de comunicação social audiovisual forem tomadas nesse Estado-Membro;\n\nb) Se o fornecedor de serviços de comunicação social tiver a sua sede social num Estado-Membro, mas as decisões editoriais relativas ao serviço de comunicação social audiovisual forem tomadas noutro Estado-Membro, considera-se que esse fornecedor se encontra estabelecido no Estado-Membro em que uma parte significativa do pessoal implicado na realização da actividade de fornecimento de serviços de comunicação social audiovisual exerce as suas funções. Se uma parte significativa do pessoal implicado na realização da actividade de prestação do serviço de comunicação social audiovisual exercer as suas funções em ambos os Estados-Membros, considera-se que o fornecedor do serviço de comunicação social se encontra estabelecido no Estado-Membro onde se situa a sua sede social. Se uma parte significativa do pessoal implicado na realização da actividade de prestação do serviço de comunicação social audiovisual não exercer as suas funções em nenhum desses Estados-Membros, considera-se que o fornecedor do serviço de comunicação social se encontra estabelecido no Estado-Membro onde iniciou a sua actividade, de acordo com a lei desse Estado-Membro, desde que mantenha uma relação efectiva e estável com a economia desse mesmo Estado-Membro;\n\nc) Se o fornecedor do serviço de comunicação social tiver a sua sede social num Estado-Membro, mas as decisões relativas ao serviço de comunicação social audiovisual forem tomadas num país terceiro, ou vice-versa, considera-se que esse fornecedor se encontra estabelecido no Estado-Membro em causa, desde que uma parte significativa do pessoal implicado na realização da actividade de prestação do serviço de comunicação social audiovisual nele exerça as suas funções.\n\n4. Considera-se que os fornecedores de serviços de comunicação social não abrangidos pelo disposto no n.º 3 estão sob a jurisdição de um Estado-Membro nos seguintes casos:\n\na) Quando utilizam uma ligação ascendente terra-satélite situada nesse Estado-Membro;\n\nb) Quando, embora não utilizem uma ligação ascendente terra-satélite situada nesse Estado-Membro, utilizam uma capacidade de satélite pertencente a esse Estado-Membro.\n\n5. Caso não seja possível determinar qual o Estado-Membro competente nos termos dos n.^os^ 3 e 4, é competente o Estado-Membro em que o fornecedor de serviços de comunicação social estiver estabelecido na acepção dos artigos 43.º a 48.º do Tratado.\n\n6. A presente directiva não se aplica aos serviços de comunicação social audiovisual destinados exclusivamente a ser captados em países terceiros e que não sejam captados directa ou indirectamente pelo público de um ou mais Estados-Membros através de equipamento de consumo corrente."
+  },
+  "a9e13c6ebc12781b": {
+   "fragment_id": "Artigo 2.º-A",
+   "type": "artigo",
+   "heading": "Artigo 2.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º-A\n\n1. Os Estados-Membros devem assegurar a liberdade de recepção e não colocar entraves à retransmissão nos seus territórios de serviços de comunicação social audiovisual provenientes de outros Estados-Membros por razões que relevem dos domínios coordenados pela presente directiva.\n\n2. No que diz respeito à radiodifusão televisiva, os Estados-Membros podem, provisoriamente, estabelecer derrogações ao n.º 1, se estiverem reunidas as seguintes condições:\n\na) Uma emissão televisiva proveniente de outro Estado-Membro infringir manifesta, séria e gravemente os n.^os^ 1 ou 2 do artigo 22.º e/ou o artigo 3.º-B;\n\nb) O organismo de radiodifusão televisiva tenha infringido a(s) disposição(ões) prevista(s) na alínea a), pelo menos duas vezes no decurso dos doze meses precedentes;\n\nc) O Estado-membro em causa tenha notificado por escrito o organismo de radiodifusão televisiva e a Comissão das alegadas violações e das medidas que tenciona tomar no caso de tal violação voltar a verificar-se;\n\nd) As consultas entre o Estado-membro de transmissão e a Comissão não tenham conduzido a uma resolução amigável, no prazo de quinze dias a contar da notificação prevista na alínea c), persistindo a alegada violação.\n\nA Comissão tomará posição mediante decisão, no prazo de dois meses a contar da notificação das medidas tomadas pelo Estado-membro, sobre a sua compatibilidade com o direito comunitário. Em caso de decisão negativa, será solicitado ao Estado-membro que ponha urgentemente termo à medida em causa.\n\n3. O disposto no n.º 2 não prejudica a aplicação de qualquer procedimento, medida ou sanção contra as referidas violações no Estado-membro sob cuja jurisdição se encontre o organismo de radiodifusão televisiva em causa.\n\n4. No que se refere aos serviços de comunicação social audiovisual a pedido, os Estados-Membros podem tomar medidas derrogatórias do n.º 1 em relação a determinado serviço caso sejam preenchidas as seguintes condições:\n\na) As medidas serem:\n\ni) necessárias por uma das seguintes razões:\n\n— defesa da ordem pública, em especial a prevenção, investigação, detecção e repressão de actos criminosos, incluindo a protecção de menores e a luta contra o incitamento ao ódio fundado na raça, no sexo, na religião ou na nacionalidade, e contra as violações da dignidade da pessoa humana,\n\n— protecção da saúde pública,\n\n— segurança pública, incluindo a salvaguarda da segurança e da defesa nacionais,\n\n— defesa dos consumidores, incluindo os investidores,\n\nii) tomadas relativamente a um serviço a pedido que lese os objectivos referidos na subalínea i) ou comporte um risco sério e grave de prejudicar esses objectivos,\n\niii) proporcionais a esses objectivos;\n\nb) Antes de tomar as medidas em questão, e sem prejuízo de diligências judiciais, nomeadamente a instrução e os actos praticados no âmbito de uma investigação criminal, o Estado-Membro deve:\n\n— ter solicitado ao Estado-Membro a cuja jurisdição o fornecedor de serviços de comunicação social está sujeito que tome medidas, sendo que este último não as tomou ou tomou medidas inadequadas,\n\n— ter notificado a Comissão e o Estado-Membro a cuja jurisdição o fornecedor de serviços de comunicação social está sujeito da sua intenção de tomar tais medidas.\n\n5. Os Estados-Membros podem, em caso de urgência, derrogar as condições previstas na alínea b) do n.º 4. Nesse caso, as medidas devem ser notificadas no mais curto prazo à Comissão e ao Estado-Membro a cuja jurisdição o fornecedor de serviços de comunicação social está sujeito, indicando as razões pelas quais consideram que existe uma situação de urgência.\n\n6. Sem prejuízo da possibilidade que o Estado-Membro tem de dar seguimento às medidas a que se referem os n.^os^ 4 e 5, a Comissão analisa, com a maior celeridade, a compatibilidade das medidas notificadas com o direito comunitário. Caso conclua que as medidas são incompatíveis com o direito comunitário, a Comissão solicita ao Estado-Membro em causa que se abstenha de tomar qualquer das medidas propostas ou que ponha termo, com urgência, às medidas já tomadas."
+  },
+  "eb65e07394d69e46": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros têm a liberdade de exigir aos fornecedores de serviços de comunicação social sob a sua jurisdição que cumpram regras mais pormenorizadas ou mais rigorosas nos domínios coordenados pela presente directiva, desde que essas regras não infrinjam o direito comunitário.\n\n2. Caso um Estado-Membro:\n\na) Tenha exercido a liberdade que lhe é proporcionada pelo n.º 1 de adoptar regras mais pormenorizadas ou mais rigorosas de interesse público geral; e\n\nb) Considere que um operador televisivo sob a jurisdição de outro Estado-Membro transmite uma emissão televisiva dirigida total ou principalmente ao seu território,\n\npode contactar o Estado-Membro competente a fim de encontrar uma solução mutuamente satisfatória para os problemas que eventualmente se coloquem. Após recepção de um pedido circunstanciado enviado pelo primeiro Estado-Membro, o Estado-Membro competente solicita ao operador televisivo que se conforme com as regras de interesse público geral em questão. O Estado-Membro competente informa o primeiro Estado-Membro dos resultados obtidos na sequência desse pedido no prazo de dois meses. Qualquer dos dois Estados-Membros pode convidar o Comité de Contacto criado nos termos do artigo 23.º-A a analisar a questão.\n\n3. Caso o primeiro Estado-Membro considere:\n\na) Que os resultados alcançados através da aplicação do n.º 2 não são satisfatórios; e\n\nb) Que o operador televisivo em questão se estabeleceu no Estado-Membro competente para se furtar a regras mais rigorosas nos domínios coordenados pela presente directiva que lhe seriam aplicáveis caso se encontrasse estabelecido no primeiro Estado-Membro,\n\npode tomar medidas adequadas contra esse operador televisivo.\n\nTais medidas devem ser objectivamente necessárias, aplicadas de forma não discriminatória e proporcionais aos objectivos a que se destinam.\n\n4. Os Estados-Membros apenas podem tomar medidas ao abrigo do n.º 3 se estiverem reunidas as seguintes condições:\n\na) O Estado-Membro ter notificado a Comissão e o Estado-Membro no qual o operador televisivo está estabelecido da sua intenção de tomar tais medidas, apresentando circunstanciadamente os motivos em que baseia a sua avaliação; e\n\nb) A Comissão ter decidido que as medidas são compatíveis com o direito comunitário e, nomeadamente, que as avaliações efectuadas pelo Estado-Membro que tomou essas medidas nos termos dos n.^os^ 2 e 3 estão correctamente fundamentadas.\n\n5. A Comissão decide no prazo de três meses a contar da data da notificação a que se refere a alínea a) do n.º 4. Se a Comissão decidir que as medidas são incompatíveis com o direito comunitário, o Estado-Membro em causa deve abster-se de tomar as medidas propostas.\n\n6. Os Estados-Membros devem assegurar, através dos meios adequados e no âmbito das respectivas legislações, o efectivo cumprimento das disposições da presente directiva por parte dos fornecedores de serviços de comunicação social sob a sua jurisdição.\n\n7. Os Estados-Membros devem encorajar os regimes de co-regulação e/ou de auto-regulação a nível nacional nos domínios coordenados pela presente directiva na medida do permitido pelos respectivos ordenamentos jurídicos. Tais regimes têm que ser largamente aceites pelas principais partes interessadas dos Estados-Membros em causa e prever um controlo efectivo do seu cumprimento.\n\n8. A Directiva 2000/31/CE é aplicável, salvo disposição em contrário prevista na presente directiva. Em caso de conflito entre uma disposição da Directiva 2000/31/CE e uma disposição da presente directiva, prevalece o disposto na presente directiva, salvo disposição em contrário nela prevista."
+  },
+  "f31fcf54177c946c": {
+   "fragment_id": "CAPÍTULO II-A",
+   "type": "divisao",
+   "heading": "CAPÍTULO II-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II-A"
+  },
+  "5bcb317937c08b75": {
+   "fragment_id": "Disposições aplicáveis a todos os serviços de comunicação social audiovisual",
+   "type": "divisao",
+   "heading": "Disposições aplicáveis a todos os serviços de comunicação social audiovisual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições aplicáveis a todos os serviços de comunicação social audiovisual"
+  },
+  "d44d96c48eb61ded": {
+   "fragment_id": "Artigo 3.º-A",
+   "type": "artigo",
+   "heading": "Artigo 3.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º-A\n\nOs Estados-Membros devem assegurar que os fornecedores de serviços de comunicação social audiovisual sob a sua jurisdição disponibilizem aos destinatários de um serviço, através de um acesso fácil, directo e permanente, pelo menos as seguintes informações:\n\na) Nome do fornecedor do serviço de comunicação social;\n\nb) Endereço geográfico em que o fornecedor do serviço de comunicação social se encontra estabelecido;\n\nc) Elementos de informação relativos ao fornecedor do serviço de comunicação social, incluindo o seu endereço de correio electrónico ou sítio *web*, que permitam contactá-lo rapidamente, de forma directa e eficaz;\n\nd) Se for caso disso, os organismos reguladores ou de supervisão competentes."
+  },
+  "5c0faab5b9fe6e4f": {
+   "fragment_id": "Artigo 3.º-B",
+   "type": "artigo",
+   "heading": "Artigo 3.º-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º-B\n\nOs Estados-Membros devem assegurar, através dos meios adequados, que os serviços de comunicação social audiovisual prestados por fornecedores de serviços de comunicação social sob a sua jurisdição não contenham qualquer incitamento ao ódio com base na raça, no sexo, na religião ou na nacionalidade."
+  },
+  "a3ccedfac42c017e": {
+   "fragment_id": "Artigo 3.º-C",
+   "type": "artigo",
+   "heading": "Artigo 3.º-C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º-C\n\nOs Estados-Membros devem incentivar os fornecedores de serviços de comunicação social sob a sua jurisdição a assegurarem que os seus serviços se tornem progressivamente acessíveis às pessoas com deficiência visual ou auditiva."
+  },
+  "d26f2e025d47b35c": {
+   "fragment_id": "Artigo 3.º-D",
+   "type": "artigo",
+   "heading": "Artigo 3.º-D",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º-D\n\nOs Estados-Membros devem garantir que os fornecedores de serviços de comunicação social sob a sua jurisdição não transmitam obras cinematográficas fora dos períodos acordados com os detentores de direitos."
+  },
+  "6618cb53debc693d": {
+   "fragment_id": "Artigo 3.º-E",
+   "type": "artigo",
+   "heading": "Artigo 3.º-E",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º-E\n\n1. Os Estados-Membros devem assegurar que as comunicações comerciais audiovisuais oferecidas por fornecedores de serviços de comunicação social sob a sua jurisdição cumpram os seguintes requisitos:\n\na) As comunicações comerciais audiovisuais devem ser facilmente reconhecíveis como tal. As comunicações comerciais audiovisuais ocultas são proibidas;\n\nb) As comunicações comerciais audiovisuais não devem utilizar técnicas subliminares;\n\nc) As comunicações comerciais audiovisuais não devem:\n\ni) comprometer o respeito pela dignidade humana,\n\nii) conter ou promover qualquer discriminação com base no sexo, na raça ou origem étnica, na nacionalidade, na religião ou credo, na incapacidade, na idade ou na orientação sexual,\n\niii) encorajar comportamentos prejudiciais à saúde ou à segurança,\n\niv) encorajar comportamentos gravemente prejudiciais à protecção do ambiente;\n\nd) São proibidas todas as formas de comunicação comercial audiovisual relativas a cigarros e outros produtos do tabaco;\n\ne) As comunicações comerciais audiovisuais relativas a bebidas alcoólicas não devem ter como público-alvo específico os menores e não devem encorajar o consumo imoderado dessas bebidas;\n\nf) São proibidas as comunicações comerciais audiovisuais relativas a medicamentos e tratamentos médicos que apenas estejam disponíveis mediante receita médica no Estado-Membro sob cuja jurisdição se encontre o fornecedor de serviços de comunicação social;\n\ng) As comunicações comerciais audiovisuais não devem prejudicar física ou moralmente os menores. Por conseguinte, não devem exortar directamente os menores a comprarem ou alugarem um produto ou serviço aproveitando-se da sua inexperiência ou credulidade, não devem encorajá-los directamente a persuadirem os pais ou outras pessoas a adquirirem os produtos ou serviços que estejam a ser publicitados, não devem aproveitar-se da confiança especial que os menores depositam nos pais, professores ou outras pessoas, nem devem mostrar sem motivo justificado menores em situações perigosas.\n\n2. Os Estados-Membros e a Comissão devem encorajar os fornecedores de serviços de comunicação social a desenvolverem códigos de conduta relativos à comunicação comercial audiovisual inadequada, que acompanhe ou esteja incluída em programas infantis, relativa a alimentos e bebidas que contenham nutrientes e substâncias com um efeito nutricional ou fisiológico, tais como, nomeadamente, as gorduras, os ácidos gordos trans, o sal/sódio e os açúcares, cuja presença em quantidades excessivas no regime alimentar não é recomendada."
+  },
+  "a743f8f30dffd662": {
+   "fragment_id": "Artigo 3.º-F",
+   "type": "artigo",
+   "heading": "Artigo 3.º-F",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º-F\n\n1. Os serviços ou programas de comunicação social audiovisual que sejam patrocinados devem respeitar os seguintes requisitos:\n\na) Os seus conteúdos e, no caso da radiodifusão televisiva, a sua programação não devem, em circunstância alguma, ser influenciados de um modo que afecte a responsabilidade e a independência editorial do fornecedor do serviço de comunicação social;\n\nb) Não devem encorajar directamente a compra ou o aluguer de produtos ou serviços, nomeadamente fazendo referências promocionais especiais a esses produtos ou serviços;\n\nc) Os telespectadores devem ser claramente informados da existência de um acordo de patrocínio. Os programas patrocinados devem ser claramente identificados como tal pelo nome, logótipo e/ou qualquer outro símbolo do patrocinador, como uma referência ao seu ou aos seus produtos ou serviços ou um sinal distintivo a eles referente, de um modo adequado ao programa, no início, durante e/ou no fim do mesmo.\n\n2. Os serviços ou programas de comunicação social audiovisual não devem ser patrocinados por empresas cuja principal actividade seja o fabrico ou a venda de cigarros ou outros produtos do tabaco.\n\n3. O patrocínio de serviços de comunicação social audiovisual ou de programas audiovisuais por empresas cujas actividades incluam o fabrico ou a venda de medicamentos e tratamentos médicos pode promover o nome ou a imagem da empresa, mas não deve promover medicamentos ou tratamentos médicos específicos apenas disponíveis mediante receita médica no Estado-Membro a cuja jurisdição o fornecedor do serviço de comunicação social está sujeito.\n\n4. Os noticiários e programas de actualidades não devem ser patrocinados. Os Estados-Membros podem optar por proibir a apresentação de logótipos de patrocinadores durante os programas infantis, os documentários e os programas religiosos."
+  },
+  "abe755ca609225fe": {
+   "fragment_id": "Artigo 3.º-G",
+   "type": "artigo",
+   "heading": "Artigo 3.º-G",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º-G\n\n1. É proibida a colocação de produto.\n\n2. Em derrogação do disposto no n.º 1, a colocação de produto é admitida, salvo decisão em contrário de um Estado-Membro:\n\n— em obras cinematográficas, filmes e séries concebidas para serviços de comunicação social audiovisual, programas sobre desporto e programas de entretenimento ligeiro, ou\n\n— nos casos em que não exista pagamento mas apenas o fornecimento gratuito de determinados bens ou serviços, designadamente ajudas materiais à produção e prémios, tendo em vista a sua inclusão num programa.\n\nA excepção prevista no primeiro travessão não se aplica aos programas infantis.\n\nOs programas que contenham colocação de produto devem respeitar pelo menos todos os seguintes requisitos:\n\na) Os seus conteúdos e, no caso da radiodifusão televisiva, a sua programação não devem, em circunstância alguma, ser influenciados de um modo que afecte a responsabilidade e a independência editorial do fornecedor do serviço de comunicação social;\n\nb) Não devem encorajar directamente a compra ou o aluguer de produtos ou serviços, nomeadamente fazendo referências promocionais especiais a esses produtos ou serviços;\n\nc) Não devem dar relevo indevido ao produto em questão;\n\nd) Os telespectadores devem ser claramente informados da existência da colocação de produto. Os programas que contenham colocação de produto devem ser adequadamente identificados no início e no fim, e aquando do seu recomeço depois de uma interrupção publicitária, para evitar eventuais confusões por parte do telespectador.\n\nA título de derrogação, os Estados-Membros podem optar por dispensar o cumprimento dos requisitos estabelecidos na alínea d) desde que o programa em questão não tenha sido produzido nem encomendado pelo próprio fornecedor de serviços de comunicação social nem por uma empresa sua filial.\n\n3. Os programas não podem em circunstância alguma conter colocação de produto relativa a:\n\n— produtos do tabaco ou cigarros, nem colocação de produto de empresas cuja principal actividade seja o fabrico ou a venda de cigarros e outros produtos do tabaco, ou\n\n— medicamentos ou tratamentos médicos específicos apenas disponíveis mediante receita médica no Estado-Membro a cuja jurisdição o fornecedor do serviço de comunicação social está sujeito.\n\n4. O disposto nos n.^os^ 1, 2 e 3 aplica-se exclusivamente a programas produzidos após 19 de Dezembro de 2009."
+  },
+  "691142074448a126": {
+   "fragment_id": "CAPÍTULO II-B",
+   "type": "divisao",
+   "heading": "CAPÍTULO II-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II-B"
+  },
+  "3795e5601926243e": {
+   "fragment_id": "Disposições exclusivamente aplicáveis aos serviços de comunicação social audiovisual a pedido",
+   "type": "divisao",
+   "heading": "Disposições exclusivamente aplicáveis aos serviços de comunicação social audiovisual a pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições exclusivamente aplicáveis aos serviços de comunicação social audiovisual a pedido"
+  },
+  "b0952b6bb6b08955": {
+   "fragment_id": "Artigo 3.º-H",
+   "type": "artigo",
+   "heading": "Artigo 3.º-H",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º-H\n\nOs Estados-Membros devem tomar as medidas adequadas para assegurar que os serviços de comunicação social audiovisual a pedido prestados pelos fornecedores de serviços de comunicação social sob a sua jurisdição que sejam susceptíveis de afectar seriamente o desenvolvimento físico, mental ou moral dos menores apenas sejam disponibilizados de forma que garanta que, em regra, estes não vejam nem ouçam tais serviços de comunicação social audiovisual."
+  },
+  "9b752cf5f0f22ede": {
+   "fragment_id": "Artigo 3.º-I",
+   "type": "artigo",
+   "heading": "Artigo 3.º-I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º-I\n\n1. Os Estados-Membros devem assegurar que os serviços de comunicação social audiovisual a pedido prestados por fornecedores de serviços de comunicação social sob a sua jurisdição promovam, quando viável e pelos meios adequados, a produção de obras europeias e o acesso às mesmas. Tal promoção pode dizer respeito, por exemplo, à contribuição financeira de tais serviços para a produção e a aquisição de direitos de obras europeias ou à percentagem e/ou relevo das obras europeias no catálogo de programas oferecido pelo serviço de comunicação social audiovisual a pedido.\n\n2. Os Estados-Membros devem informar a Comissão até 19 de Dezembro de 2011 e, a partir daí, de quatro em quatro anos, da aplicação do disposto no n.º 1.\n\n3. Com base nas informações fornecidas pelos Estados-Membros e num estudo independente, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação do disposto no n.º 1, tendo em conta a evolução do mercado e das tecnologias e o objectivo da diversidade cultural."
+  },
+  "4258e3c488959fdb": {
+   "fragment_id": "CAPÍTULO II-C",
+   "type": "divisao",
+   "heading": "CAPÍTULO II-C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II-C"
+  },
+  "0943a070b890076b": {
+   "fragment_id": "Disposições relativas a direitos exclusivos e curtos resumos noticiosos na radiodifusão televisiva",
+   "type": "divisao",
+   "heading": "Disposições relativas a direitos exclusivos e curtos resumos noticiosos na radiodifusão televisiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições relativas a direitos exclusivos e curtos resumos noticiosos na radiodifusão televisiva"
+  },
+  "102688506cf7c202": {
+   "fragment_id": "Artigo 3.º-J",
+   "type": "artigo",
+   "heading": "Artigo 3.º-J",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º-J\n\n1. Cada Estado-Membro pode tomar medidas nos termos do direito comunitário para assegurar que os operadores televisivos sob a sua jurisdição não transmitam com carácter de exclusividade acontecimentos que esse Estado-Membro considere de grande importância para a sociedade, privando assim uma parte considerável do público do Estado-Membro em causa da possibilidade de acompanhar esses acontecimentos, em directo ou em diferido, na televisão de acesso livre. Se tomar essas medidas, o Estado-Membro deve estabelecer uma lista de acontecimentos, nacionais ou não nacionais, que considere de grande importância para a sociedade. Deve fazê-lo de forma clara e transparente, e atempadamente. Ao fazê-lo, o Estado-Membro em causa deve também determinar se esses acontecimentos devem ter uma cobertura ao vivo total ou parcial, ou, se tal for necessário ou adequado por razões objectivas de interesse público, uma cobertura diferida total ou parcial.\n\n2. Os Estados-Membros devem notificar imediatamente a Comissão das medidas tomadas ou a tomar ao abrigo do n.º 1. No prazo de três meses a contar da notificação, a Comissão deve verificar se essas medidas são compatíveis com o direito comunitário e comunicá-las aos outros Estados-Membros. A Comissão deve pedir o parecer do Comité de Contacto criado pelo artigo 23.º-A. Deve publicar de imediato as medidas adoptadas no *Jornal Oficial da União Europeia* e, pelo menos uma vez por ano, a lista consolidada das medidas tomadas pelos Estados-Membros.\n\n3. Os Estados-Membros devem assegurar, através dos meios adequados no âmbito da respectiva legislação, que os operadores televisivos sob a sua jurisdição não exerçam direitos exclusivos adquiridos após a data de publicação da presente directiva de forma a que uma parte considerável do público noutro Estado-Membro fique privada da possibilidade de acompanhar acontecimentos considerados nesse outro Estado-Membro como estando nas condições referidas nos n.^os^ 1 e 2, através de uma cobertura em directo total ou parcial ou, sempre que necessário ou adequado por razões objectivas de interesse público, de uma cobertura diferida total ou parcial na televisão de acesso livre, nos termos estabelecidos nesse outro Estado-Membro ao abrigo do n.º 1."
+  },
+  "1580ca25ec63b790": {
+   "fragment_id": "Artigo 3.º-K",
+   "type": "artigo",
+   "heading": "Artigo 3.º-K",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º-K\n\n1. Os Estados-Membros devem assegurar que, para efeitos de curtos resumos noticiosos, qualquer operador televisivo estabelecido na Comunidade tenha acesso, em condições justas, razoáveis e não discriminatórias, a acontecimentos de grande interesse para o público transmitidos com carácter de exclusividade por um operador televisivo sob a sua jurisdição.\n\n2. Se outro operador televisivo estabelecido no mesmo Estado-Membro que o operador televisivo que solicita o acesso tiver adquirido direitos exclusivos de transmissão do acontecimento de grande interesse para o público, o acesso deve ser solicitado a esse operador.\n\n3. Os Estados-Membros devem assegurar que tal acesso seja garantido permitindo aos operadores televisivos escolherem livremente curtos extractos a partir do sinal do operador televisivo transmissor, devendo, no mínimo, identificar a fonte, a menos que tal não seja exequível.\n\n4. Em alternativa ao n.º 3, os Estados-Membros podem estabelecer um sistema equivalente que proporcione o acesso numa base justa, razoável e não discriminatória através de outros meios.\n\n5. Os curtos extractos devem ser utilizados exclusivamente em programas de informação geral e só podem ser utilizados em serviços de comunicação social audiovisual a pedido se o mesmo programa for oferecido em diferido pelo mesmo fornecedor de serviços de comunicação social.\n\n6. Sem prejuízo dos n.^os^ 1 a 5, os Estados-Membros devem assegurar que, de acordo com as respectivas leis e práticas jurídicas, sejam definidas formas e condições relativas ao fornecimento de curtos extractos, designadamente no que se refere a quaisquer mecanismos compensatórios, à duração máxima dos curtos extractos e aos prazos de transmissão. Caso esteja prevista uma compensação, esta não deve exceder os custos adicionais que resultem directamente do fornecimento de acesso."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "00ad4ab752faa079": {
+   "fragment_id": "Promoção da distribuição e da produção de programas televisivos",
+   "type": "divisao",
+   "heading": "Promoção da distribuição e da produção de programas televisivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Promoção da distribuição e da produção de programas televisivos"
+  },
+  "3cc3ed7833b73f08": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Sempre que tal se revele exequível e através dos meios adequados, os Estados-membros velarão por que os organismos de radiodifusão televisiva reservem a obras comunitárias[**►M2**](http://publications.europa.eu/resource/celex/32007L0065) —————**◄** uma percentagem maioritária do seu tempo de antena, excluindo o tempo consagrado aos noticiários, a manifestação desportivas, jogos, publicidade [**►M1**](http://publications.europa.eu/resource/celex/31997L0036) serviços de teletexto ou televenda**◄**. Essa percentagem, tendo em conta as responsabilidades do organismo de radiodifusão televisiva para com o seu público em matéria de informação, educação, cultura e diversão, deve ser obtida progressivamente com base em critérios adequados.\n\n2. Sempre que não for possível atingir a percentagem definida no n.º 1, o valor a considerar não deve ser inferior à percentagem média registada em 1988 no Estado-membro em causa.\n\nTodavia, no que se refere à República Helénica e à República Portuguesa, o ano de 1988 é substituído pelo de 1990.\n\n3. A partir de 3 de Outubro de 1991, os Estados-membros enviarão à Comissão, de dois em dois anos, um relatório relativo à aplicação do presente artigo e do artigo 5.º\n\nEsse relatório compreenderá nomeadamente um levantamento estatístico da realização da percentagem referida no presente artigo e no artigo 5.º relativamente a cada um dos programas de televisão do âmbito da competência do Estado-membro em causa, as razões pelas quais não tenha sido possível em cada um dos casos atingir essa percentagem, bem como as medidas adoptadas ou previstas para a atingir.\n\nA Comissão levará esses relatórios ao conhecimento dos outros Estados-membros e do Parlamento Europeu, acompanhados eventualmente de um parecer. A Comissão assegurará a aplicação do presente artigo e do artigo 5.º de acordo com as disposições do Tratado. No seu parecer, a Comissão pode atender nomeadamente ao progresso realizado em relação aos anos anteriores, à percentagem de obras de primeira difusão na programação, às circunstâncias particulares dos novos organismos de radiodifusão televisiva e da situação específica dos países de fraca capacidade de produção audiovisual ou de área linguística restrita.\n\n4. O Conselho voltará a analisar a execução do presente artigo com base num relatório da Comissão, acompanhado das propostas de revisão que esta última considere adequadas, o mais tardar no final do quinto ano a contar da adopção da presente directiva.\n\nPara o efeito, o relatório da Comissão terá em conta nomeadamente, com base nas informações prestadas pelos Estados-membros nos termos do n.º 3, a evolução registada no mercado comunitário bem como no contexto internacional."
+  },
+  "d6b142ae2e63814a": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nSempre que tal se revele exequível e através de meios adequados, os Estados-membros velarão por que os organismos de radiodifusão televisiva reservem pelo menos 10 % do seu tempo de antena, com exclusão do tempo consagrado aos noticiários, manifestações desportivas, jogos, publicidade [**►M1**](http://publications.europa.eu/resource/celex/31997L0036) serviços de teletexto ou televenda**◄**, ou em alternativa, à escolha do Estado-membro, pelo menos 10 % do seu orçamento de programação a obras europeias provenientes de produtores independentes dos organismos de radiodifusão televisiva. Essa percentagem, tendo em conta as responsabilidades dos organismos de radiodifusão televisiva para com o seu público em matéria de informação, educação, cultura e diversão, deve ser obtida progressivamente com base em critérios apropriados; essa percentagem deve ser atingida reservando-se uma percentagem adequada a obras recentes, isto é, a obras difundidas num lapso de tempo de cinco anos após a sua produção."
+  },
+  "362f0b550b2cb145": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO presente capítulo não se aplica às emissões de televisão de âmbito local que não façam parte de uma rede nacional."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "c9039d201ed4dbde": {
+   "fragment_id": "Publicidade televisiva e televenda",
+   "type": "divisao",
+   "heading": "Publicidade televisiva e televenda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Publicidade televisiva e televenda"
+  },
+  "6611a6b03ca07a6e": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. A publicidade televisiva e a televenda devem ser facilmente reconhecíveis e distinguir-se do conteúdo editorial. Sem prejuízo da utilização de novas técnicas publicitárias, a publicidade televisiva e a televenda devem ser claramente diferenciadas da restante programação por meios ópticos e/ou acústicos e/ou espaciais.\n\n2. Os *spots* publicitários e de televenda isolados, salvo se apresentados em transmissões de acontecimentos desportivos, devem constituir excepção."
+  },
+  "fc0a3258f2ca2557": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Os Estados-Membros devem assegurar que a inserção de publicidade televisiva ou de televenda nos programas não prejudique a integridade dos mesmos, tendo em conta as interrupções naturais e a duração e natureza do programa, nem os direitos dos detentores de direitos.\n\n2. A transmissão de filmes realizados para a televisão (excluindo séries, folhetins e documentários), obras cinematográficas e noticiários pode ser interrompida por publicidade televisiva e/ou televenda uma vez por cada período de programação de, no mínimo, 30 minutos. A transmissão de programas infantis pode ser interrompida por publicidade televisiva e/ou televenda uma vez por cada período de programação de, no mínimo, 30 minutos, desde que a duração prevista para o programa seja superior a 30 minutos. Não deve ser inserida publicidade televisiva nem televenda durante a difusão de serviços religiosos."
+  },
+  "87d27bb6bafcf1c8": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n2. É proibida a televenda de medicamentos sujeitos a autorização de colocação no mercado na acepção da Directiva 65/65/CEE do Conselho, de 26 de Janeiro de 1965, relativa à aproximação das disposições legislativas, regulamentares e administrativas, respeitantes aos medicamentos ([^4^](http://publications.europa.eu/resource/cellar/059eea12-27ff-4ed0-8ceb-e2b0cf597201.0018.03/DOC_1#E0004)), assim como a televenda de tratamentos médicos."
+  },
+  "588ab469f786c296": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nA publicidade televisiva e a televenda de bebidas alcoólicas devem obedecer aos seguintes critérios:\n\na) Não pode dirigir-se especificamente aos menores e, em particular, apresentar menores a consumir tais bebidas;\n\nb) Não deve associar o consumo de álcool a uma melhoria do rendimento físico ou à condução de veículos automóveis;\n\nc) Não deve criar a impressão de que o consumo de álcool favorece o sucesso social ou sexual;\n\nd) Não deve sugerir que as bebidas alcoólicas são dotadas de propriedades terapêuticas ou têm efeito estimulante, sedativo ou anticonflitual;\n\ne) Não deve encorajar o consumo imoderado de bebidas alcoólicas ou dar uma imagem negativa da abstinência ou da sobriedade;\n\nf) Não deve sublinhar como qualidade positiva de uma bebida o seu elevado teor de álcool."
+  },
+  "bae3004b6ea691d5": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. A percentagem de tempo consagrada a *spots* de publicidade televisiva e a *spots* de televenda num dado período de 60 minutos não deve exceder 20 %.\n\n2. O disposto no n.º 1 não se aplica aos anúncios do operador televisivo aos seus próprios programas e produtos conexos directamente relacionados com esses programas, aos anúncios de patrocínios e à colocação de produto."
+  },
+  "7123e361daf3ed86": {
+   "fragment_id": "Artigo 18.º-A",
+   "type": "artigo",
+   "heading": "Artigo 18.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º-A\n\nOs blocos de televenda devem ser claramente identificados como tal por meios visuais e acústicos e devem ter uma duração ininterrupta de, pelo menos, 15 minutos."
+  },
+  "4befb233cd6647db": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nAs disposições da presente directiva aplicam-se, com as necessárias adaptações, aos canais de televisão exclusivamente dedicados à publicidade e à televenda, assim como aos canais de televisão exclusivamente dedicados à auto-promoção. O capítulo III e os artigos 11.º e 18.º não se aplicam a esses canais."
+  },
+  "a0184845aa5e573e": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nSem prejuízo do artigo 3.º, os Estados-Membros podem estabelecer, no respeito do direito comunitário, condições diferentes das estabelecidas no n.º 2 do artigo 11.º e no artigo 18.º para as emissões televisivas exclusivamente destinadas ao território nacional que não possam ser captadas directa ou indirectamente pelo público num ou em vários outros Estados-Membros."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "8140e1fa82e26771": {
+   "fragment_id": "Protecção de menores na radiodifusão televisiva",
+   "type": "divisao",
+   "heading": "Protecção de menores na radiodifusão televisiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Protecção de menores na radiodifusão televisiva"
+  },
+  "8994eb32440f7dd8": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. Os Estados-membros tomarão as medidas apropriadas para assegurar que as emissões televisivas dos organismos de radiodifusão sob a sua jurisdição não incluam quaisquer programas susceptíveis de prejudicar gravemente o desenvolvimento físico, mental ou moral dos menores, nomeadamente programas que incluam cenas de pornografia ou de violência gratuita.\n\n2. As medidas referidas no n.º 1 são igualmente aplicáveis a todos os programas susceptíveis de prejudicar o desenvolvimento físico, mental ou moral dos menores, excepto se, pela escolha da hora de emissão ou por quaisquer medidas técnicas, se assegurar que, em princípio, os menores que se encontrem no respectivo campo de difusão não verão nem ouvirão essas emissões.\n\n3. Além do mais, sempre que esses programas não forem transmitidos sob forma codificada, os Estados-membros assegurarão que os mesmos sejam precedidos de um sinal sonoro ou identificados pela presença de um símbolo visual durante todo o programa."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "618b890636af7870": {
+   "fragment_id": "Direito de resposta na radiodifusão televisiva",
+   "type": "divisao",
+   "heading": "Direito de resposta na radiodifusão televisiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Direito de resposta na radiodifusão televisiva"
+  },
+  "f0486a658573bd49": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1. Sem prejuízo de outras disposições de direito civil, administrativas ou penais adoptadas pelos Estados-membros, qualquer pessoa singular ou colectiva, independentemente da sua nacionalidade, cujos legítimos direitos, nomeadamente a sua reputação e bom nome, tenham sido lesados na sequência de uma alegação incorrecta feita durante uma emissão televisiva, deve beneficiar do direito de resposta ou de medidas equivalentes. Os Estados-membros assegurarão que o exercício efectivo do direito de resposta ou de medidas equivalentes não seja dificultado pela imposição de termos ou condições excessivos. A resposta será transmitida num prazo razoável, após justificação do pedido, em momento e forma adequados à emissão a que o pedido se refere.\n\n2. O direito de resposta ou as medidas equivalentes podem ser exercidas em relação a todos os organismos de radiodifusão televisiva sob a jursidição de um Estado-membro.\n\n3. Os Estados-membros adoptarão as disposições necessárias para estabelecer o direito de resposta ou as medidas equivalentes e determinar o processo a seguir para o respectivo exercício. Os Estados-membros assegurarão nomeadamente que o prazo previsto para o exercício do direito de resposta ou das medidas equivalentes seja suficiente e que as regras desse exercício permitam que o direito de resposta ou as medidas equivalentes possam ser exercidos de forma apropriada por pessoas singulares ou colectivas residentes ou estabelecidas noutros Estados-membros.\n\n4. O pedido de exercício do direito de resposta ou das medidas equivalentes pode ser rejeitado se a resposta não se justificar em face das condições enunciadas no n.º 1, se implicar um acto punível, se a sua difusão implicar a responsabilidade civil do organismo de radiodifusão televisiva ou se ofender a moral pública e for contrária aos bons costumes.\n\n5. Serão previstos processos que permitam o recurso aos tribunais em caso de litígios relativos ao exercício do direito de resposta ou das medidas equivalentes."
+  },
+  "56bdb8ea2474f2a6": {
+   "fragment_id": "CAPÍTULO VI-A",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI-A"
+  },
+  "368884a984190119": {
+   "fragment_id": "Comité de Contacto",
+   "type": "divisao",
+   "heading": "Comité de Contacto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Comité de Contacto"
+  },
+  "404b3c8779eaab39": {
+   "fragment_id": "Artigo 23.º-A",
+   "type": "artigo",
+   "heading": "Artigo 23.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º-A\n\n1. Será criado um comité de contacto, sob a égide da Comissão. Esse comité será composto por representantes das autoridades dos Estados-Membros e presidido por um representante da Comissão, reunindo-se por iniciativa deste ou a pedido de uma delegação de um Estado-membro.\n\n2. As funções desse comité serão:\n\na) Facilitar a aplicação efectiva da presente directiva, através de consulta regular sobre quaisquer problemas que surjam a respeito dessa aplicação, e particularmente da do artigo 2.º, bem como sobre quaisquer outras matérias a propósito das quais seja considerada útil a troca de pontos de vista;\n\nb) Emitir parecer, por iniciativa própria ou a pedido da Comissão, sobre a aplicação, pelos Estados-membros, das disposições da presente directiva;\n\nc) Constituir-se num fórum para troca de opiniões sobre os assuntos a tratar nos relatórios a apresentar pelos Estados-membros, nos termos do n.º 3 do artigo 4.º, a metodologia a observar, o mandato para o estudo independente a que se refere o artigo 25.ºA, a avaliação das propostas para realização deste estudo e o conteúdo do mesmo;\n\nd) Analisar o resultado das consultas regulares entre a Comissão e os representantes das associações de radiodifusores televisivos, os produtores, consumidores, fabricantes, prestadores de serviços, sindicatos e a comunidade artística;\n\ne) Facilitar o intercâmbio de informações entre os Estados-Membros e a Comissão sobre a situação e a evolução da regulação no domínio dos serviços de comunicação social audiovisual, tendo em conta a política audiovisual da Comunidade e os progressos realizados no domínio técnico;\n\nf) Analisar as evoluções verificadas no sector relativamente às quais se afigure útil uma troca de pontos de vista."
+  },
+  "71ee39d403ad2a43": {
+   "fragment_id": "CAPÍTULO VI-B",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI-B"
+  },
+  "2a64cb0aaceeed3a": {
+   "fragment_id": "Cooperação entre entidades reguladoras dos estados-membros",
+   "type": "divisao",
+   "heading": "Cooperação entre entidades reguladoras dos estados-membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Cooperação entre entidades reguladoras dos estados-membros"
+  },
+  "5f1726e4818ae76d": {
+   "fragment_id": "Artigo 23.º-B",
+   "type": "artigo",
+   "heading": "Artigo 23.º-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º-B\n\nOs Estados-Membros tomam as medidas adequadas para fornecerem uns aos outros e à Comissão as informações necessárias para a aplicação das disposições da presente directiva, em particular dos artigos 2.º, 2.º-A e 3.º, nomeadamente através das suas entidades reguladoras independentes competentes."
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "bbdde795c58f027f": {
+   "fragment_id": "Disposições finais",
+   "type": "divisao",
+   "heading": "Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições finais"
+  },
+  "a0c640e760150a6c": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nNos domínios que não são por ela coordenados, a presente directiva não afecta os direitos e obrigações dos Estados-membros decorrentes de convenções existentes em matéria de telecomunicações e de radiodifusão televisiva."
+  },
+  "5c7006ff87c43fef": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nAté 19 de Dezembro de 2011 e, daí em diante, de três em três anos, a Comissão deve apresentar ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social Europeu um relatório sobre a aplicação da presente directiva e, se necessário, formular propostas destinadas à sua adaptação à evolução no domínio dos serviços de comunicação social audiovisual, em especial à luz dos progressos tecnológicos recentes, da competitividade do sector e dos níveis de educação para os *media* em todos os Estados-Membros.\n\nEsse relatório deve também avaliar a questão da publicidade televisiva que acompanhe ou esteja incluída em programas infantis e analisar, nomeadamente, se as regras quantitativas e qualitativas constantes da presente directiva proporcionaram o nível de protecção exigido."
+  },
+  "3e2ee6650a4ca14a": {
+   "fragment_id": "Artigo 27.º",
+   "type": "artigo",
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nOs Estados-membros são os destinatários da presente directiva.\n\n---"
+  },
+  "93c51d1395fcba3e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/059eea12-27ff-4ed0-8ceb-e2b0cf597201.0018.03/DOC_1#src.E0001)) JO n.º C 179 de 17.7.1986, p. 4.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/059eea12-27ff-4ed0-8ceb-e2b0cf597201.0018.03/DOC_1#src.E0002)) JO n.º C 49 de 22.2.1988, p. 53, e JO n.º C 158 de 26.6.1989.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/059eea12-27ff-4ed0-8ceb-e2b0cf597201.0018.03/DOC_1#src.E0003)) JO n.º C 232 de 31.8.1987, p. 29.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/059eea12-27ff-4ed0-8ceb-e2b0cf597201.0018.03/DOC_1#src.E0004)) JO n.º 22 de 9.2.1965, p. 369 (EE 13 F1, p. 18). Directiva com a última redacção que lhe foi dada pela Directiva 93/39/CEE (JO n.º L 214 de 24.8.1993, p. 22)."
+  },
+  "eeb20105fe90e928": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1989L0552 — PT — 05.05.2010 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31989L0552) [DIRECTIVA 89/552/CEE DO PARLAMENTO EUROPEU E DO CONSELHO,](http://publications.europa.eu/resource/celex/31989L0552) [de 3 de Outubro de 1989,](http://publications.europa.eu/resource/celex/31989L0552) [relativa à coordenação de certas disposições legislativas, regulamentares e administrativas dos Estados-Membros respeitantes à oferta de serviços de comunicação social audiovisual (Directiva «Serviços de Comunicação Social Audiovisual»)](http://publications.europa.eu/resource/celex/31989L0552) (JO L 298, 17.10.1989, p.23)\n\n**revogado por:**\n\n- [Directiva 2010/13/UE do Parlamento Europeu e do Conselho de 10 de Março de 2010](http://publications.europa.eu/resource/celex/32010L0013) — L 95 — 1 — 15.4.2010"
+  }
+ }
+}

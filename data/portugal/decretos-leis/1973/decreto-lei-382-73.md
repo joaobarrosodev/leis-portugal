@@ -1,0 +1,167 @@
+---
+schema_version: '1.0'
+id: pt:dre:421815:por
+title: Decreto-Lei n.º 382/73
+short_title: null
+summary: Estabelece as condições em que ficam isentas de contribuições para a previdência social as indemnizações ou compensações
+  previstas nas normas reguladoras do contrato individual de trabalho para os casos de despedimento colectivo
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Corporações e Previdência Social
+proposing_entity: null
+official_number: 382/73
+official_date: null
+publication_date: '1973-07-26'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 174/1973, Série I de 1973-07-26
+  number: '174'
+  series: I
+  supplement: null
+  pages: 1329 - 1330
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/07/17400/13291330.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '421815'
+  dre_path: /dr/detalhe/decreto-lei/382-1973-421815
+  internal: pt:dre:421815:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1973-421815
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1973-421815
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:27:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 9c8fe5b3ce8929a6a5ebb5036b722e0ecda29aba078f3a8d96c572f75229952b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:27:49Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Caixa Sindical de Previdência
+- Compensação Remuneratória
+- Contrato Individual de Trabalho
+- Contribuições e Impostos
+- Despedimento
+- Entidade Patronal
+- Fundo de Desenvolvimento da Mão-de-obra
+- Indemnização
+- Indemnização Compensatória
+- Instituições de Previdência Social
+- Multa
+- Previdência Social
+- Segurança Social
+relationships:
+- type: cites
+  target: pt:dre:163242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:27:49Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 382/73
+
+de 26 de Julho
+
+O [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), de 10 de Agosto de 1962, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 47254](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47254-1966-478074), de 10 de Outubro de 1966, e pelo [Decreto-Lei n.º 48888](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48888-1969-527591), de 1 de Março de 1969, criou um regime especial de benefícios a conceder nos casos de despedimento colectivo. Esse regime tem em vista proteger os trabalhadores afectados por despedimentos colectivos, mas não deixa também de ter em conta a situação económica em que se vêem colocadas as empresas e que certos motivos determinantes de tais despedimentos iniludivelmente denunciam.
+
+A aplicação prática do referido regime vem, no entanto, a ser afastada naqueles casos em que os trabalhadores, no exercício de direitos que legalmente lhes são reconhecidos, preferem aos benefícios dele decorrentes as indemnizações ou compensações previstas no regime jurídico aprovado pelo [Decreto-Lei n.º 49408](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49408-1969-176289), de 24 de Novembro de 1969, ou as estabelecidas em instrumento de regulamentação colectiva de trabalho por que se encontram abrangidos.
+
+Verifica-se, nestes casos, que pelas indemnizações ou compensações pagas são devidas, tanto pelas entidades patronais como pelos trabalhadores, contribuições para as instituições de previdência, nos termos do disposto no artigo 113.º, alínea h), do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963. Ao invés, nas hipóteses de opção pelos benefícios concedidos ao abrigo do [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), não ocorre idêntica obrigação, sem embargo de poder ser estabelecida uma contribuição das empresas para os encargos decorrentes da aplicação do regime e sem prejuízo, no decurso do período de concessão dos subsídios, da manutenção dos direitos dos trabalhadores aos benefícios que as caixas de previdência devem assegurar.
+
+Atendendo aos interesses que o citado [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242) teve em vista proteger, considera-se conveniente, sempre que se reúnam as condições por força das quais venha a funcionar o regime de benefícios nele previsto, que as compensações ou as indemnizações a pagar em consequência da cessação dos contratos por despedimento colectivo fiquem isentas de contribuições para a Previdência. A isenção será total para os trabalhadores e variará, quanto às entidades patronais, precisamente em função do montante da comparticipação que lhes tiver sido atribuída pelos despachos emitidos ao abrigo do já citado [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242). Intenta-se, assim, enquadrar as situações de despedimento colectivo na linha de uma solução idêntica, desde que elas desencadeiem a aplicação dos benefícios previstos naquele diploma legal, tomando irrelevante, para o efeito, a opção prática por aqueles benefícios ou pelas indemnizações ou compensações estipuladas nas normas reguladoras dos contratos de trabalho.
+
+Importaria, porém, não permitir que esta solução acarretasse prejuízo para os direitos do trabalhador, que estão dependentes da entrada de contribuições nas instituições de previdência, designadamente os relativos à protecção na doença, na invalidez, na velhice e em caso de morte, bem como os respeitantes às prestações complementares do abono de família.
+
+Por isso, e tendo em conta que as despesas resultantes da aplicação do regime de benefícios do [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242) são em parte suportadas pela Previdência e pelo Fundo Nacional do Abono de Família, determina-se que sejam as caixas de previdência a assumir os encargos decorrentes da falta de entrada de contribuições que implica a isenção estabelecida no presente diploma. Essa a razão por que, simultaneamente com a isenção em causa, se institui o correspondente regime de equivalência ao pagamento das contribuições.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Art. 1.º - 1. Nos casos de despedimento colectivo em que seja proferido o despacho conjunto aludido nos artigos 2.º e 11.º do [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), de 10 de Agosto de 1962, ficam os trabalhadores isentos de contribuições para a previdência social quando optem pelo recebimento das indemnizações ou compensações previstas nas normas reguladoras do contrato individual de trabalho.
+
+2. Nos casos previstos no número anterior ficam também as entidades patronais isentas de contribuições, mas apenas na parte que exceder a quantia resultante da aplicação da percentagem da sua comparticipação, fixada no referido despacho conjunto, sobre o valor total das contribuições que seriam devidas pelo pagamento das indemnizações ou compensações aos trabalhadores despedidos.
+
+Art. 2.º Para os fins do disposto neste diploma, o Fundo de Desenvolvimento da Mão-de-Obra comunicará às instituições de previdência e às entidades patronais interessadas o teor do despacho conjunto referido no artigo anterior, devendo estas afixá-lo no prazo de cinco dias, a contar da data da sua recepção, em local bem visível do estabelecimento, com a menção expressa da cominação prevista no n.º 1 do artigo seguinte.
+
+Art. 3.º - 1. No prazo de quinze dias, a contar da data da afixação, deverão os trabalhadores declarar, por escrito, se optam pelas indemnizações ou compensações previstas nas normas reguladoras do contrato individual de trabalho, entendendo-se que optam por estas se nada declararem.
+
+2. Nos trinta dias posteriores ao termo do prazo para a opção dos trabalhadores, as entidades patronais deverão elaborar e remeter às instituições de previdência interessadas uma relação de todos os trabalhadores que tenham optado pelo recebimento das indemnizações ou compensações, discriminando as respectivas categorias, ordenados ou salários e data da admissão na empresa, bem como o montante de tais indemnizações ou compensações, meses a que respeitam e fontes jurídicas que as fundamentam e delimitam.
+
+3. Havendo divergência sobre o montante das indemnizações ou compensações, as entidades patronais discriminarão também as verbas que se propõem pagar e as que os trabalhadores entendem ser-lhes devidas.
+
+Art. 4.º - 1. Considera-se, para efeitos da concessão do regime de benefícios previsto no Regulamento das Caixas Sindicais de Previdência, estatuído pelo [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, como equivalente à entrada total de contribuições a indicação do montante das indemnizações ou compensações constante da relação das entidades patronais.
+
+2. Verificando-se a divergência aludida no n.º 3 do artigo anterior, as instituições de previdência atenderão inicialmente às verbas que as entidades patronais se propõem pagar aos trabalhadores, procedendo às necessárias correcções logo que tenham conhecimento da fixação definitiva das indemnizações ou compensações.
+
+Art. 5.º O pagamento da percentagem de contribuições devidas nos termos do n.º 2 do artigo 1.º será efectuado dentro do prazo fixado no n.º 3 do artigo 114.º do Regulamento das Caixas Sindicais de Previdência.
+
+Art. 6.º As entidades patronais que infrinjam o preceituado no presente diploma serão punidas com multa de 3000$00 a 5000$00.
+
+Art. 7.º O regime definido neste decreto-lei é aplicável a todas as situações e processos pendentes à data da sua entrada em vigor.
+
+Art. 8.º As dúvidas suscitadas na execução deste decreto-lei serão resolvidas por despacho do Ministro das Corporações e Previdência Social, publicado no Diário do Governo.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Baltasar Leite Rebelo de Sousa.
+
+Promulgado em 11 de Julho de 1973.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

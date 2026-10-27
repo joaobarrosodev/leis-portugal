@@ -1,0 +1,124 @@
+---
+schema_version: '1.0'
+id: pt:dre:520235:por
+title: Portaria n.º 18982
+short_title: null
+summary: Constitui na zona aérea de Cabo Verde e Guiné messes destinadas a fornecer alojamento e alimentação a certo pessoal
+  da Força Aérea, bem como a suas famílias
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho - Secretaria de Estado da Aeronáutica
+proposing_entity: null
+official_number: '18982'
+official_date: null
+publication_date: '1962-01-24'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 16/1962, Série I de 1962-01-24
+  number: '16'
+  series: I
+  supplement: null
+  pages: 71 - 72
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/01/01600/00710072.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '520235'
+  dre_path: /dr/detalhe/portaria/18982-1962-520235
+  internal: pt:dre:520235:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/18982-1962-520235
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18982-1962-520235
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:10:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 731c693d043b40950f39aae57dd513c8d37e03e99abac88d494a543c02f4269a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:10:34Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:10:34Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 18982
+
+Convindo constituir na zona aérea de Cabo Verde e Guiné messes destinadas a fornecer alojamento e alimentação a certo pessoal da Força Aérea, bem como a suas famílias:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Aeronáutica, que se observe o seguinte:
+
+1.º É constituída, na dependência da delegação da Direcção do Serviço de Intendência e Contabilidade da zona aérea de Cabo Verde e Guiné, em Bissau, uma messe, designada por «Messe de Oficiais da Força Aérea», destinada fornecer alojamento e alimentação a:
+
+a) Oficiais e equiparados a oficial, sem suas famílias, em trânsito, que não pertençam ao aeródromo-base n.º 2 ou que, estando colocados nesta unidade, excedam a capacidade da respectiva messe;
+
+b) Oficiais e equiparados a oficial, com suas famílias, em trânsito ou que não tenham residência atribuída na área da cidade de Bissau;
+
+c) Eventualmente, outro pessoal da Força Aérea.
+
+2.º É constituído, na dependência da delegação da Direcção do Serviço de Intendência e Contabilidade da zona aérea de Cabo Verde e Guiné, em Bissau, uma messe, designada por «Messe de Sargentos da Força Aérea», destinada a fornecer alojamento e alimentação a:
+
+a) Sargentos e equiparados a sargento, sem suas famílias, em trânsito, que não pertençam ao aeródromo-base n.º 2 ou que, estando colocados nesta unidade, excedam a capacidade das respectivas messes;
+
+b) Sargentos e equiparados a sargento, com suas famílias, em trânsito ou que não tenham residência atribuída na área da cidade de Bissau;
+
+c) Eventualmente, outro pessoal da Força Aérea.
+
+3.º O funcionamento das Messes referidas nos números anteriores será motivo de regulamentação a aprovar por despacho do Secretário de Estado da Aeronáutica.
+
+4.º O pessoal atribuído às messes é o constante dos quadros anexos.
+
+Secretaria de Estado da Aeronáutica, 24 de Janeiro de 1962. - O Secretário de Estado da Aeronáutica, Kaulza Oliveira de Arriaga.
+
+Para ser publicada no Boletim Oficial da Guiné. - A. Moreira.
+
+Messe de Oficiais da Força Aérea e Messe de Sargentos da Força Aérea
+
+A) Oficiais e oficiais milicianos
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/01/01600/00710072.pdf)
+
+B) Pessoal civil contratado
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/01/01600/00710072.pdf)
+
+Secretaria de Estado da Aeronáutica, 24 de Janeiro de 1962. - O Secretário de Estado da Aeronáutica, Kaulza Oliveira de Arriaga.

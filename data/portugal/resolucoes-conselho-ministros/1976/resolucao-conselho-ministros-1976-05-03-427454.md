@@ -1,0 +1,131 @@
+---
+schema_version: '1.0'
+id: pt:dre:427454:por
+title: Resolução do Conselho de Ministros
+short_title: null
+summary: Aprova o programa de construção de novas instalações escolares proposta pelo Ministério da Educação e Investigação
+  Científica
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: null
+official_date: null
+publication_date: '1976-05-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 103/1976, Série I de 1976-05-03
+  number: '103'
+  series: I
+  supplement: null
+  pages: 958 - 958
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/05/10300/09580958.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '427454'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/1976-427454
+  internal: pt:dre:427454:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/1976-427454
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/1976-427454
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:28:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 68419365beaadf980619a8c061dc3a2f8744b0134af0d5bedd6ced973dfb760e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:28:10Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Construção Civil
+- Direcção Geral do Equipamento Escolar
+- Estabelecimento de Ensino
+- Instalação de Serviços
+- Ministério da Educação e Investigação Científica
+- Obras Públicas
+- Programa
+relationships:
+- type: cites
+  target: pt:dre:307602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506836:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:28:10Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros
+
+1 - A carência de instalações escolares constitui um dos mais fortes impedimentos ao normal desenvolvimento da actividade educativa, que é prioritário atender, de acordo com os legítimos anseios das populações.
+
+Para além das grandes deficiências no equipamento existente, as novas necessidades que decorrem da criação de um grau de ensino que antecede o actual ensino primário e da extensão da escolaridade obrigatória, não cobrindo a maior parte do País, conduzem a um agravamento acentuado do sector da educação.
+
+2 - Tem o Ministério da Educação e Investigação Científica já em aplicação ou em estudo algumas medidas que contribuem para a reestruturação do sector, tendo em conta, nomeadamente, os aspectos decorrentes da descentralização administrativa, a viabilidade da institucionalização de um organismo autónomo coordenador de execução, a criação das condições de utilização racional das capacidades da indústria pela formulação de programas plurianuais de construção e a montagem dos esquemas de obtenção e tratamento de dados para planeamento da actuação. Dada a profunda reestruturação a que haverá que proceder, a complexidade e a vastidão do âmbito do sector, não é possível obter, a curto prazo, resultados práticos para a execução de obras.
+
+3 - Procedeu a Direcção-Geral do Equipamento Escolar, do Ministério da Educação e Investigação Científica, em 1975, ao lançamento, que já revelou resultados positivos, de um conjunto de soluções experimentais-tipo, com a participação significativa de diversas empresas de construção civil ou que se dedicam a construções pré-fabricadas.
+
+Com base na aplicabilidade do mesmo modelo, dispõe a Direcção-Geral do Equipamento Escolar de um vasto programa de empreendimentos, que, elaborado sob a forma de plano plurianual (cinco anos), determina soluções especiais de financiamento e de estrutura organizativa.
+
+Não é possível, com os procedimentos habituais de adjudicação das obras de construção e com os reduzidos recursos de que dispõe aquela Direcção-Geral, promover o desenvolvimento das acções empreendidas, correndo-se o risco de subaproveitar o investimento humano, técnico e financeiro da experiência realizada.
+
+Cerceando o prosseguimento imediato das realizações, para as quais estão disponíveis, em 1976, as correspondentes dotações orçamentais, mais se agravaria a situação do sector, perdendo-se a oportunidade de utilizar as capacidades da indústria de construção actualmente disponíveis.
+
+4 - O Conselho de Ministros, reunido em 14 de Abril de 1976, considerando necessário incentivar a urgente utilização da experiência recente, delibera:
+
+4.1 - Aprovar o programa de construção das novas instalações, proposto pelo Ministério da Educação e Investigação Científica.
+
+4.2 - Na consecução deste programa nos casos em que se torne imperioso é dispensado o concurso público e a celebração de contrato escrito, não se excluindo, no entanto, para todos os casos a celebração de um compromisso contratual em que são estipuladas as formas de contrôle de custos, os prazos a serem cumpridos e as respectivas penalidades.
+
+O mesmo programa é aprovado para efeitos da aplicação do [Decreto-Lei n.º 71/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1976-506836), de 27 de Janeiro, no que se refere à escolha e obtenção dos terrenos necessários para implantação dos edifícios.
+
+4.3 - É criada, para funcionamento temporário e enquanto se não dispõe da organização adequada, uma Comissão para a Execução de Construções Escolares (CECE), com o estatuto e a constituição propostos por individualidades que a Secretaria de Estado da Administração Escolar convidará e sancionará para o efeito.
+
+Esta Comissão, que dependerá dos serviços competentes da Direcção-Geral do Equipamento Escolar, funcionará por um período de seis meses, podendo ser renovado o seu prazo de actuação, se necessário, por mais dois períodos de igual duração.
+
+4.4 - Para reforço dos meios de que dispõe a Direcção-Geral do Equipamento Escolar pode a Secretaria de Estado da Administração Escolar autorizar a colaboração, nos serviços, de técnicos e outras individualidades. Estas colaborações serão temporárias, por períodos iguais aos estipulados para a Comissão para a Execução de Construções Escolares, e consideram-se previstas nos termos do [Decreto-Lei n.º 489/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/489-1975-307602), de 5 de Setembro, que cria a Direcção-Geral do Equipamento Escolar.
+
+4.5 - Os encargos com as presentes resoluções são suportados pelas correspondentes dotações do orçamento extraordinário da Direcção-Geral do Equipamento Escolar.
+
+Presidência do Conselho de Ministros, 14 de Abril de 1976. - O Primeiro-Ministro, José Baptista Pinheiro de Azevedo.

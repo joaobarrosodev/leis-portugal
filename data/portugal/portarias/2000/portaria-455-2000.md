@@ -1,0 +1,355 @@
+---
+schema_version: '1.0'
+id: pt:dre:321296:por
+title: Portaria n.º 455/2000
+short_title: null
+summary: Aprova o Regulamento Geral de Utilização e Exploração das Instalações Desportivas do Complexo de Apoio às Actividades
+  Desportivas. Revoga a Portaria n.º 332/87, de 23 de Abril
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 455/2000
+official_date: null
+publication_date: '2000-07-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 167/2000, Série I-B de 2000-07-21
+  number: '167'
+  series: I
+  supplement: null
+  pages: 3485 - 3487
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/07/167b00/34853487.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/455/2000/07/21/p/dre/pt/html
+  oj: null
+  dre: '321296'
+  dre_path: /dr/detalhe/portaria/455-2000-321296
+  internal: pt:dre:321296:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/455-2000-321296
+  metadata_url: https://data.dre.pt/eli/port/455/2000/07/21/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/455-2000-321296
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:23:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f0eaaf239d7d50d3a0fe5289091022a46379a8cfd33b023ba86a0fface1c6ee0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:42Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Complexo de Apoio às Actividades Desportivas
+- Equipamento Desportivo
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:504110:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:372835:por
+  label: "Alterado o art. 15º do Regulamento pela PORT.889/2001.2001.07.27.MJD, DR.IS-B [173]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/889-2001-372835
+  date: '2001-07-27'
+- type: cites
+  target: pt:dre:484404:por
+  label: null
+  source: http://data.dre.pt/eli/port/947/1995/08/01/p/dre
+- type: cites
+  target: pt:dre:525617:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/64/1997/03/26/p/dre
+- type: cites
+  target: pt:dre:665922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667973:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/385/1999/09/28/p/dre
+- type: repealed_by
+  target: pt:dre:504110:por
+  label: "Revogada pela PORT.333/2013.14.11.2013.PCM, DR.IS [221] de 14.11.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/333-2013-504110
+  date: '2013-11-14'
+article_structure:
+  article_count: 21
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:23:42Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 455/2000
+
+de 21 de Julho
+
+O desenvolvimento qualitativo e quantitativo das instalações e equipamentos dos Complexos Desportivos do Jamor e de Lamego e a sua actual integração no Complexo de Apoio às Actividades Desportivas (CAAD), organismo dotado de personalidade jurídica e autonomia administrativa, financeira e patrimonial, criado pelo [Decreto-Lei n.º 64/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1997-525617), de 26 de Março, bem como a própria evolução dos tempos, impõem que se redefinam as condições de utilização e exploração de tais instalações como meios privilegiados ao apoio do desenvolvimento da prática desportiva a todos os níveis, sem perder de vista a referida natureza do organismo que as tutela, e a necessidade de assegurar o seu equilíbrio financeiro.
+
+Nestes termos:
+
+Ao abrigo do disposto no artigo 24.º do [Decreto-Lei n.º 64/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1997-525617), de 26 de Março:
+
+Manda o Governo, pelo Ministro Adjunto, o seguinte:
+
+1.º É aprovado o Regulamento Geral de Utilização e Exploração das Instalações Desportivas do Complexo de Apoio às Actividades Desportivas, anexo à presente portaria e da qual faz parte integrante.
+
+2.º É revogada a [Portaria n.º 332/87](https://diariodarepublica.pt/dr/detalhe/portaria/332-1987-665922), de 23 de Abril.
+
+3.º A presente portaria produz efeitos a partir do dia 1 do mês seguinte ao da sua publicação.
+
+Pelo Ministro Adjunto, Vasco Paulo Lynce de Faria, Secretário de Estado do Desporto, em 28 de Junho de 2000.
+
+## ANEXO
+
+REGULAMENTO GERAL DE UTILIZAÇÃO DAS INSTALAÇÕES DESPORTIVAS DO COMPLEXO DE APOIO ÀS ACTIVIDADES DESPORTIVAS.
+
+###### Artigo 1.º
+
+1 - São abrangidas pelo presente Regulamento todas as instalações desportivas do Complexo de Apoio às Actividades Desportivas, adiante abreviadamente designado por CAAD, que são, actualmente, as seguintes:
+
+a) Do Complexo Desportivo do Jamor:
+
+Estádio de honra;
+
+Pistas de atletismo;
+
+Campos relvados;
+
+Campo de relva sintética;
+
+Pista de corta-mato;
+
+Driving range;
+
+Complexo de ténis;
+
+Complexo de piscinas;
+
+Sala de musculação;
+
+Saunas;
+
+Pista de actividades náuticas;
+
+Carreira de tiro;
+
+Campos de pequenos jogos;
+
+Circuitos de manutenção;
+
+Áreas informais de actividade;
+
+Centro de estágio de desportistas;
+
+Auditórios e salas de reunião;
+
+b) Do Complexo Desportivo de Lamego:
+
+Centro de estágio de desportistas;
+
+Estádio de futebol;
+
+Campos de grandes jogos;
+
+Sala de musculação;
+
+Saunas;
+
+Pavilhão desportivo;
+
+Campos de ténis;
+
+Campos de pequenos jogos;
+
+Minigolfe e putter golf;
+
+c) Pavilhão Desportivo da Ajuda.
+
+2 - As referidas instalações desportivas do CAAD têm como fim essencial proporcionar condições para a prática desportiva, aos seus diversos níveis, quer em termos organizados, quer informais, em função das respectivas características e tipologia.
+
+###### Artigo 2.º
+
+As várias instalações desportivas disporão de um coordenador, a designar pelo director do CAAD, o qual será o responsável directo pela sua utilização.
+
+###### Artigo 3.º
+
+A utilização das instalações do CAAD respeitará o seguinte quadro de prioridades:
+
+a) Actividades desenvolvidas pelas selecções nacionais e os praticantes com o estatuto de alta competição, que se enquadram no n.º 1.º da [Portaria n.º 947/95](https://diariodarepublica.pt/dr/detalhe/portaria/947-1995-484404), de 1 de Agosto, com prevalência para as situações de competição;
+
+b) Actividades regulares desenvolvidas no âmbito do Centro de Alto Rendimento:
+
+c) Actividades desenvolvidas por selecções nacionais das federações desportivas que não se enquadram na alínea a), com prevalência para as situações de competição;
+
+d) Encontros inseridos no calendário desportivo oficial das federações desportivas;
+
+e) Actividades a desenvolver pelos clubes inscritos nas principais divisões nacionais;
+
+f) Actividades desenvolvidas por clubes e associações desportivas;
+
+g) Actividades desenvolvidas por escolas e universidades;
+
+h) Outros utentes desportivos;
+
+i) Actividades e manifestações não desportivas.
+
+###### Artigo 4.º
+
+1 - Até ao dia 31 de Agosto de cada ano, os utilizadores regulares, designadamente federações e associações desportivas, bem como as autarquias locais, escolas e universidades, deverão apresentar um plano geral de utilização das instalações desportivas.
+
+2 - Fora deste prazo, as solicitações deverão ser apresentadas com uma antecedência mínima de oito dias e estão dependentes da ocupação ou não das instalações e a sua confirmação respeitará a ordem cronológica dos pedidos de utilização.
+
+3 - Verificando-se a incompatibilidade temporal entre duas ou mais solicitações de utilização da mesma instalação, serão consideradas as prioridades referidas no artigo 3.º
+
+4 - Independentemente da apresentação do plano anual, deverão as entidades referidas no n.º 1 confirmar mensalmente a utilização das instalações.
+
+5 - Os serviços darão conhecimento, por escrito, da autorização de utilização de instalações desportivas, equipamentos ou serviços complementares com, pelo menos, três dias de antecedência.
+
+6 - A eventual desistência da ocupação deverá ser comunicada aos serviços do CAAD até quarenta e oito horas antes da data prevista para a utilização, sem o que não ficarão os interessados desobrigados do correspondente pagamento.
+
+7 - Quando circunstâncias excepcionais o justifiquem, os prazos referidos no n.º 1 podem ser alterados por despacho do director do CAAD.
+
+###### Artigo 5.º
+
+Sempre que constituídos em grupos, devem os utentes ser acompanhados e enquadrados por um responsável, que contactará e tratará com o coordenador da respectiva instalação em tudo o que diga respeito à sua utilização.
+
+###### Artigo 6.º
+
+O acesso às áreas reservadas à prática desportiva, nos casos em que tal seja exigível em função da sua natureza, só é permitido a utentes devidamente equipados de acordo com as exigências de higiene ou segurança ou regulamentos específicos que vigorem sobre as instalações a utilizar.
+
+###### Artigo 7.º
+
+1 - Os utentes das instalações do CAAD devem pautar a sua conduta de modo a não perturbar os serviços ou outros utentes que, porventura, se encontrem a utilizar as instalações.
+
+2 - Os utentes que utilizem as instalações do CAAD e as entidades públicas ou privadas que os inscrevem e ou enquadrem são solidariamente responsáveis pelos danos causados pelas mesmas.
+
+###### Artigo 8.º
+
+O complexo de apoio às actividades desportivas, superintenderá em todos os aspectos das actividades a desenvolver no mesmo e assegurará o regular funcionamento das instalações, nomeadamente quanto a:
+
+a) Segurança e higiene de utilização dos equipamentos e áreas de serviços;
+
+b) Manutenção da ordem pública;
+
+c) Controlo e fiscalização.
+
+###### Artigo 9.º
+
+A manutenção da segurança e da ordem pública dos espectáculos desportivos ou outros promovidos pelo CAAD será assegurada nos termos da lei geral sobre a matéria.
+
+###### Artigo 10.º
+
+1 - Nos casos de actividades organizadas e espectáculos desportivos ou outros promovidos por outras entidades, compete a estas a manutenção da segurança e da ordem pública.
+
+2 - Compete ainda às entidades promotoras referidas no número anterior a obtenção das autorizações ou licenças eventualmente exigidas por lei para os fins referidos.
+
+3 - Os encargos resultantes da instalação temporária de instalações de apoio para a realização das actividades referidas no n.º 1 serão da responsabilidade da entidade organizadora.
+
+###### Artigo 11.º
+
+1 - É da competência do CAAD a emissão de cartões de entrada nas suas instalações.
+
+2 - Nos casos de espectáculos com entradas pagas promovidos por outras entidades, compete a estas a emissão dos respectivos bilhetes.
+
+###### Artigo 12.º
+
+A lotação das instalações a que se refere o presente Regulamento para efeitos da realização de espectáculos desportivos será estabelecida por despacho do director do CAAD, tomando em conta as características das mesmas e as necessárias condições de segurança.
+
+###### Artigo 13.º
+
+1 - Pela utilização das instalações do CAAD são devidas as taxas e demais pagamentos aprovados por despacho do membro do Governo que tutela o CAAD.
+
+2 - A actualização das taxas referidas no número anterior será efectuada até ao dia 30 de Junho e vigorará a partir do mês de Setembro.
+
+3 - Os participantes abrangidos pelo regime de alta competição estão dispensados do pagamento das taxas de utilização das instalações desportivas, nos termos da lei.
+
+4 - As taxas devidas pela utilização regular das instalações do CAAD serão pagas previamente à sua utilização.
+
+5 - O atraso no cumprimento do disposto no número anterior traduzir-se-á num agravamento da taxa em valor a determinar para cada equipamento desportivo por despacho do director do CAAD.
+
+6 - O CAAD reserva-se o direito de suspender o acesso às instalações pelas entidades que não satisfaçam o disposto nos números anteriores, independentemente da natureza das actividades em causa.
+
+###### Artigo 14.º
+
+1 - No caso de utilização anual das instalações do CAAD, poderão ser celebrados protocolos para o efeito, em que serão estabelecidas as responsabilidades, os requisitos e as condições inerentes a tal utilização.
+
+2 - A realização de espectáculos desportivos ou outros com entradas pagas depende da celebração de protocolos ou contratos de cedência temporária das instalações, em que serão estabelecidas as responsabilidades, requisitos e condições inerentes à sua realização.
+
+3 - O pagamento das taxas e demais importâncias a cobrar nos termos do número anterior é sempre prévio à sua utilização.
+
+4 - A afectação de qualquer instalação para a realização de espectáculos, manifestações desportivas ou de outra natureza implicará o pagamento, pela entidade organizadora, da receita não cobrada durante o período em que essa afectação se verificar.
+
+5 - Para efeitos do disposto no número anterior servirá de referência a média diária da receita do último mês.
+
+6 - Os pagamentos a que deva haver lugar, por encargos do CAAD por força da utilização das instalações, são devidos a partir da determinação dos respectivos montantes e da facturação pelos competentes serviços.
+
+7 - Os pagamentos referidos no número anterior não desoneram os utilizadores da responsabilidade de indemnização dos danos a que, por mau uso ou negligência, derem causa.
+
+###### Artigo 15.º
+
+Sempre que as instalações desportivas a que se refere o presente Regulamento sejam utilizadas, durante os dias úteis, por jovens com idade não superior a 18 anos ou utentes de idade superior a 60 anos, as taxas a cobrar serão reduzidas de 50%.
+
+###### Artigo 16.º
+
+1 - A exploração de espaços destinados a fins comerciais, como bares e outros, pode ser concedida a particulares, nos termos da legislação vigente sobre a matéria.
+
+2 - A instalação temporária de venda ou serviços de restauração ou similares, designadamente quando haja lugar a espectáculos desportivos ou actividades organizadas de dimensão que o justifique, far-se-á em locais a definir para o efeito pelos competentes serviços do CAAD e mediante o pagamento das respectivas taxas.
+
+3 - Os locais e respectivas taxas de utilização serão previamente afixados nos serviços administrativos do CAAD.
+
+###### Artigo 17.º
+
+1 - A exploração pontual de publicidade estática nas instalações do CAAD, associada à realização de espectáculos ou de outras manifestações de carácter pontual, está, em regra, sujeita a adequada contrapartida e carece de autorização prévia do director do CAAD.
+
+2 - A exploração de publicidade estática nas instalações do CAAD em quaisquer outras condições cabe exclusivamente ao CAAD, que poderá proceder à sua concessão a particulares.
+
+###### Artigo 18.º
+
+A cobrança das importâncias devidas nos termos do presente Regulamento é feita pelos serviços competentes do CAAD, para o qual revertem as correspondentes receitas, nos termos da lei.
+
+###### Artigo 19.º
+
+Excepto quanto aos utentes obrigatoriamente abrangidos por seguro específico nos termos da lei, o pagamento das taxas de utilização das instalações do CAAD garante a existência do seguro a que se refere o [Decreto-Lei n.º 385/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1999-667973), de 28 de Setembro, a cujos capitais subscritos se restringe a responsabilidade do CAAD.
+
+###### Artigo 20.º
+
+As condições concretas de utilização das instalações a que se refere o presente Regulamento, designadamente quanto à inscrição, horário, condições de frequência e pagamento, serão objecto de regulamentos específicos a aprovar pelo director do CAAD.
+
+###### Artigo 21.º
+
+Excluem-se da aplicação deste Regulamento as instalações cuja gestão e exploração estejam afectas a outras entidades, por contrato ou protocolo, as quais, durante a sua vigência, se regerão pelos mesmos.

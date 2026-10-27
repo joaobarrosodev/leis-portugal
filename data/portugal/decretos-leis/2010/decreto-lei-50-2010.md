@@ -1,0 +1,210 @@
+---
+schema_version: '1.0'
+id: pt:dre:614844:por
+title: Decreto-Lei n.º 50/2010
+short_title: null
+summary: Cria o Fundo de Eficiência Energética previsto no Plano Nacional de Acção para a Eficiência Energética
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia, da Inovação e do Desenvolvimento
+proposing_entity: null
+official_number: 50/2010
+official_date: null
+publication_date: '2010-05-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 98/2010, Série I de 2010-05-20
+  number: '98'
+  series: I
+  supplement: null
+  pages: 1739 - 1740
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/05/09800/0173901740.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/50/2010/05/20/p/dre/pt/html
+  oj: null
+  dre: '614844'
+  dre_path: /dr/detalhe/decreto-lei/50-2010-614844
+  internal: pt:dre:614844:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2010-614844
+  metadata_url: https://data.dre.pt/eli/dec-lei/50/2010/05/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2010-614844
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:13:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6c83a37310079a6b3e1a9b1098a8e2e34ce64f0b6c76a039e5f4b680d0b87a12
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:22Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão Consultiva
+- Comissão Executiva
+- Comissão Técnica
+- Conselho Estratégico
+- Direção Geral de Energia e Geologia
+- Direção Geral do Tesouro e Finanças
+- Eficiência Energética
+- Energia Elétrica
+- Financiamento
+- Fundo de Eficiência Energética
+- Ministério da Economia
+- Plano Nacional de Acção para a Eficiência Energética (2008-2015)
+- Política Energética
+- Regulamento de Gestão
+relationships:
+- type: amended_by
+  target: pt:dre:66022084:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:66022084:por
+  label: Aditado o art. 6.º pelo(a) Lei n.º 82-D/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-d-2014-66022084
+  date: '2014-12-31'
+- type: cites
+  target: celex:32006L0032
+  label: null
+  source: http://data.europa.eu/eli/dir/2006/32/oj
+- type: repealed_by
+  target: pt:dre:175923959:por
+  label: Revogado, com efeitos a 01.01.2022, o presente diploma, pelo(a) Decreto-Lei n.º 114/2021 - Diário da República n.º
+    241/2021, Série I de 2021-12-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-2021-175923959
+  date: '2021-12-15'
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:13:22Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 50/2010
+
+de 20 de Maio
+
+O Programa do XVIII Governo Constitucional dispõe que um dos objectivos fundamentais para modernizar Portugal passa por aumentar a nossa eficiência energética.
+
+Este aumento de eficiência energética é essencial para cumprir os objectivos previstos na Estratégia Nacional para a Energia 2020 de reduzir a dependência energética do País face ao exterior para 74 % em 2020 e obter a progressiva independência do País face aos combustíveis fósseis, de garantir o cumprimento dos compromissos assumidos por Portugal no contexto das políticas europeias de combate às alterações climáticas, de desenvolver um cluster industrial associado à promoção da eficiência energética, assegurando a criação de emprego.
+
+Adicionalmente, o FEE concretiza o Plano Nacional de Acção para a Eficiência Energética (PNAEE), aprovado pela Resolução do Conselho de Ministros n.º 80/2008, de 20 de Maio, que engloba um conjunto alargado de programas e medidas fundamentais para que Portugal possa cumprir as metas comunitárias estabelecidas pela Directiva n.º [2006/32/CE](https://data.europa.eu/eli/dir/2006/32/oj?locale=pt), do Parlamento Europeu e do Conselho, de 5 de Abril, relativa à eficiência na utilização final de energia e aos serviços energéticos, de poupança de energia por ano de, pelo menos, 1 % até 2016 e alcançar até 2015 a implementação de medidas de melhoria de eficiência energética equivalentes a 10 % do consumo final de energia.
+
+O presente decreto-lei vem criar o Fundo para a Eficiência Energética (FEE). Este Fundo tem três objectivos fundamentais: incentivar a eficiência energética por parte dos cidadãos e das empresas, apoiar projectos de eficiência energética em áreas onde até agora esses projectos ainda não tinham sido desenvolvidos e promover a alteração de comportamentos nesta matéria. O FEE será constituído com uma dotação inicial de 1,5 milhão de euros, a realizar integralmente pela Direcção-Geral de Energia e Geologia.
+
+Em primeiro lugar, procura-se melhorar a nossa eficiência energética nas áreas dos transportes, da habitação, da prestação de serviços, da indústria e nos serviços públicos através de, por exemplo, incentivos destinados aquisição de equipamentos com melhor desempenho energético ou equipamentos que promovam uma utilização mais racional da energia, como recuperadores de calor a biomassa, colectores solares térmicos, janelas eficientes ou isolamentos térmicos.
+
+Em segundo lugar, poderá apoiar projectos de eficiência energética em áreas como a agricultura ou a indústria extractiva, que contribuam igualmente para a redução do consumo final de energia. Estes apoios potenciam o desenvolvimento do tecido económico, sobretudo junto das pequenas e médias empresas ligadas ao fornecimento de bens e serviços, tendo assim um impacto significativo na criação de novos postos de trabalho qualificado.
+
+Finalmente, em terceiro lugar, o FEE pode ainda ser utilizado para promover campanhas e eventos relacionados com a alteração de comportamentos, com vista à redução dos perfis de consumo de energia pelos indivíduos e pelas organizações beneficiárias.
+
+Foi ouvida a Entidade Reguladora dos Serviços Energéticos.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Designação, âmbito e natureza
+
+1 - É criado, no âmbito do Ministério da Economia, da Inovação e do Desenvolvimento, o Fundo de Eficiência Energética, doravante designado por Fundo.
+
+2 - O Fundo tem a natureza de património autónomo sem personalidade jurídica.
+
+###### Artigo 2.º — Objectivos e actividade
+
+1 - O Fundo tem como objectivo financiar os programas e medidas previstas no Plano Nacional de Acção para a Eficiência Energética (PNAEE), constantes do anexo à Resolução do Conselho de Ministros n.º 80/2008, de 20 de Maio, nomeadamente através das seguintes linhas de actuação:
+
+a) Apoio a projectos de cariz predominantemente tecnológico nas áreas dos transportes, residencial e serviços, indústria e sector público;
+
+b) Apoio a acções de cariz transversal indutoras da eficiência energética nas áreas dos comportamentos, fiscalidade e incentivos e financiamentos.
+
+2 - O Fundo pode ainda apoiar projectos não previstos no PNAEE mas que comprovadamente contribuam para a eficiência energética.
+
+###### Artigo 3.º — Fontes de financiamento e transição de saldos
+
+1 - O Fundo é financiado pelas seguintes receitas:
+
+a) O produto das taxas previstas no Decreto-Lei n.º 172/2006, de 23 de Agosto, nos termos do artigo 68.º do referido decreto-lei;
+
+b) O produto das taxas previstas no Decreto-Lei n.º 108/2007, de 12 de Abril, nos termos da alínea b) do seu artigo 5.º;
+
+c) O produto das penalidades previstas no Decreto-Lei n.º 71/2008, de 15 de Abril, nos termos do n.º 3 do seu artigo 14.º, bem como o produto proveniente das coimas previstas no artigo 15.º, nos termos do artigo 17.º do mesmo decreto-lei;
+
+d) As receitas resultantes da aplicação do incentivo eficiência ou tarifário, previsto no Plano Nacional de Acção para a Eficiência Energética, aprovado pela Resolução do Conselho de Ministros n.º 80/2008, de 20 de Maio;
+
+e) Os rendimentos provenientes de aplicações financeiras;
+
+f) O produto de doações, heranças, legados ou contribuições mecenáticas;
+
+g) O produto da alienação, oneração ou cedência temporária de bens ou direitos do seu património;
+
+h) As verbas que lhe sejam atribuídas no orçamento do Estado;
+
+i) Quaisquer outras receitas que lhe sejam atribuídas por lei ou negócio jurídico.
+
+2 - Os saldos que vierem a ser apurados no fim do ano económico transitam para o ano seguinte, nos termos do decreto de execução orçamental em vigor.
+
+###### Artigo 4.º — Entidades gestoras e regulamento de gestão
+
+1 - A gestão do FEE é atribuída:
+
+a) Ao órgão executivo da estrutura de gestão do PNAEE, na vertente técnica;
+
+b) À Direcção-Geral do Tesouro e Finanças, adiante referida apenas como DGTF, na vertente financeira.
+
+2 - O regulamento de gestão do FEE estabelece as condições em que se realizam as despesas referidas no artigo 5.º e é aprovado por portaria dos membros do Governo responsáveis pelas áreas das finanças, da energia e do ambiente.
+
+3 - A estrutura de gestão do PNAEE referida na alínea a) do n.º 1 compreende o conselho estratégico, a comissão executiva, a comissão consultiva e comissões técnicas, cujo regulamento e estrutura são aprovados por portaria conjunta dos membros do governo responsáveis pelas áreas da energia, finanças, ambiente, transportes, educação, ciência e tecnologia e agricultura.
+
+###### Artigo 5.º — Despesas
+
+Constituem despesas do FEE:
+
+a) O financiamento dos projectos, acções e medidas previstas no âmbito do artigo 2.º, incluindo as despesas relacionadas com aquisição de serviços, nomeadamente despesas de consultoria externa e acções promocionais, quando a natureza dos projectos e acções a financiar as justifiquem;
+
+b) A comissão de gestão do FEE devida à estrutura de gestão do PNAEE e à DGTF.
+
+Visto e aprovado em Conselho de Ministros de 18 de Março de 2010. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Fernando Medina Maciel Almeida Correia - Rui Pedro de Sousa Barreiro - António Augusto da Ascenção Mendonça - Dulce dos Prazeres Fidalgo Álvaro Pássaro - Maria Isabel Girão de Melo Veiga Vilar - José Mariano Rebelo Pires Gago.
+
+Promulgado em 10 de Maio de 2010.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 13 de Maio de 2010.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

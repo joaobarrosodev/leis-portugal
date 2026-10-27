@@ -1,0 +1,273 @@
+---
+schema_version: '1.0'
+id: pt:dre:437012:por
+title: Decreto Regulamentar Regional n.º 31/2003/A
+short_title: null
+summary: Estrutura os conservatórios e os conservatórios regionais e fixa os quadros de pessoal não docente daqueles que não
+  estejam integrados em outras unidades orgânicas
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Presidência do Governo
+proposing_entity: null
+official_number: 31/2003/A
+official_date: null
+publication_date: '2003-11-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 273/2003, Série I-B de 2003-11-25
+  number: '273'
+  series: I
+  supplement: null
+  pages: 8045 - 8047
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/11/273b00/80458047.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/31/2003/11/25/a/dre/pt/html
+  oj: null
+  dre: '437012'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/31-2003-437012
+  internal: pt:dre:437012:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/31-2003-437012
+  metadata_url: https://data.dre.pt/eli/decregulreg/31/2003/11/25/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/31-2003-437012
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:29:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: da9e371845bd419e593c9b9a09ed68aed6b70d8b60c421dbb28f712d97f67dd2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:46Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Conservatório Regional
+- Integração de Trabalhadores
+- Pessoal não Docente
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:636073:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:155636:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/115-a/1998/05/04/p/dre
+- type: cites
+  target: pt:dre:197540:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/5/1995/02/28/a/dre
+- type: cites
+  target: pt:dre:223192:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/16/1998/11/06/a/dre
+- type: cites
+  target: pt:dre:321677:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/18/1999/05/21/a/dre
+- type: cites
+  target: pt:dre:354737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572604:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/22/2003/05/06/a/dre
+- type: cites
+  target: pt:dre:573533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678213:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:233519:por
+  label: "Revogado o anexo I do presente diploma pelo DRR.16/2005/A.24.05.2005.PG-RAA, DR.IS-B [129] de 07.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/16-2005-233519
+  date: '2005-05-24'
+- type: repealed_by
+  target: pt:dre:636073:por
+  label: "Revogado a partir de 14.07.2007 pelo DRR.14/2007/A.13.07.2007.PG-RAA, DR.IS [134] de 13.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2007-636073
+  date: '2007-07-13'
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:29:46Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 31/2003/A
+
+Pela [Resolução n.º 2/78](https://diariodarepublica.pt/dr/detalhe/resolucao/2-1978-468814), de 27 de Janeiro, o Governo Regional dos Açores transformou o Conservatório Regional de Ponta Delgada, então instituição privada de ensino da música, criada com o apoio da respectiva junta geral, em Conservatório Regional dos Açores. O mesmo diploma determinava que o Conservatório Regional manteria secções em Ponta Delgada, Angra do Heroísmo e Horta, tendo arrancado de imediato as secções de Ponta Delgada, no extinto Conservatório Regional, e a de Angra do Heroísmo, por incorporação da escola de música que funcionava sob a égide da Academia Musical da Ilha Terceira.
+
+Posteriormente, pelo [Decreto Regulamentar Regional n.º 11/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1980-678213), de 13 de Março, foram aquelas secções transformadas nos Conservatórios Regionais de Ponta Delgada e de Angra do Heroísmo, estabelecimentos de ensino vocacional da música integrados na rede pública de educação e ensino, tendo o Conservatório Regional da Horta, criado pelo [Decreto Regulamentar Regional n.º 22/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1989-619915), de 21 de Julho, completado a actual rede de conservatórios regionais.
+
+Aqueles diplomas, com as alterações que lhes foram introduzidas pelo [Decreto Regulamentar Regional n.º 25/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-1990-573533), de 6 de Agosto, e pelo [Decreto Regulamentar Regional n.º 5/95/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1995-197540), de 28 de Fevereiro, necessitam de revisão, já que as normas neles contidas no que respeita a pessoal docente e a conteúdos curriculares se encontram desajustadas face à evolução entretanto verificada no sistema educativo e ao aparecimento de nova regulamentação nacional do ensino artístico operada pelo [Decreto-Lei n.º 344/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-1990-566188), de 2 de Novembro.
+
+Assim, em execução do disposto no artigo 10.º do [Decreto-Lei n.º 115-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-a-1998-155636), de 4 de Maio, e nos artigos 10.º e 12.º do [Decreto Legislativo Regional n.º 18/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1999-321677), de 21 de Maio, e nos termos da alínea o) do artigo 60.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e da alínea d) do n.º 1 do artigo 227.º da Constituição, o Governo Regional decreta o seguinte:
+
+###### Artigo 1.º — Objecto e âmbito
+
+1 - O presente diploma estrutura os conservatórios e conservatórios regionais e fixa os quadros de pessoal não docente daqueles que não estejam integrados em outras unidades orgânicas.
+
+2 - O presente diploma aplica-se às unidades orgânicas do sistema educativo público onde seja ministrado o ensino artístico.
+
+###### Artigo 2.º — Denominação
+
+1 - Nos termos do artigo 12.º do [Decreto Legislativo Regional n.º 18/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1999-321677), de 21 de Maio, as estruturas de ensino artístico classificam-se em:
+
+a) Conservatórios regionais - as estruturas de ensino artístico que ministrem ensino de nível secundário, mesmo quando integradas em unidades orgânicas do ensino regular;
+
+b) Conservatórios - as estruturas de ensino artístico que ministrem ensino de nível básico, mesmo quando integradas em unidades orgânicas do ensino regular.
+
+2 - A criação de ensino artístico em unidades orgânicas do sistema educativo faz-se por despacho do secretário regional competente em matéria de educação.
+
+###### Artigo 3.º — Objectivos dos conservatórios
+
+1 - Os conservatórios e os conservatórios regionais têm por objectivo ministrar o ensino da música e da dança de nível equivalente aos ensinos básico e secundário, dando aos seus alunos formação artística de base com carácter pré-profissionalizante e profissionalizante, preparando-os para o ingresso no ensino superior nas áreas específicas do seu âmbito de intervenção.
+
+2 - Para além do disposto no número anterior, os conservatórios e conservatórios regionais devem:
+
+a) Apoiar as bandas filarmónicas, corais e outras actividades de cultura popular no domínio da música, nomeadamente pela organização de cursos de férias e de actualização para regentes e mestres de música daquelas agremiações;
+
+b) Apoiar a formação de professores do ensino básico e secundário no domínio da sua especialidade, nomeadamente pela organização de cursos e outras actividades de actualização pedagógica;
+
+c) Em colaboração com entidades governamentais e não governamentais, participar em tarefas de extensão cultural, nomeadamente na organização de concertos e outros espectáculos, visando a sensibilização para a música e a dança e a divulgação da cultura musical.
+
+3 - Os conservatórios e conservatórios regionais poderão desenvolver actividades de iniciação para alunos de idades inferiores às de ingresso nos cursos regulares, bem como cursos livres, na medida em que disponham de condições materiais e humanas para a sua realização.
+
+4 - A organização e funcionamento e as normas de admissão aos cursos livres e de iniciação são fixadas por portaria do secretário regional competente em matéria de educação.
+
+###### Artigo 4.º — Organização curricular
+
+A organização curricular dos cursos a oferecer bem como as respectivas orientações curriculares e normas de avaliação são fixadas por portaria do secretário regional competente em matéria de educação.
+
+###### Artigo 5.º — Articulação com o ensino regular
+
+1 - Excepto quando frequentem cursos livres, os alunos que se encontrem a frequentar o ensino básico e estejam simultaneamente inscritos nos conservatórios e conservatórios regionais consideram-se obrigatoriamente em regime de ensino articulado.
+
+2 - O ensino nos conservatórios regionais não integrados e os respectivos horários devem assegurar a compatibilidade com o funcionamento das escolas do ensino regular onde os alunos se encontrem inscritos.
+
+###### Artigo 6.º — Pessoal docente
+
+1 - O pessoal docente dos conservatórios regionais rege-se pelo estatuto do pessoal docente da educação pré-escolar e dos ensinos básico e secundário, aprovado pelo [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de Abril, adaptado à Região Autónoma dos Açores pelo [Decreto Legislativo Regional n.º 16/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-1998-223192), de 6 de Novembro, alterado pelo [Decreto Legislativo Regional n.º 22/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2003-572604), de 6 de Maio, e legislação complementar.
+
+2 - Quando não se encontrem definidas a nível nacional as habilitações profissionais, próprias e suficientes, específicas para este tipo de ensino, poderão as mesmas ser definidas por portaria do secretário regional competente em matéria de educação.
+
+###### Artigo 7.º — Normas transitórias
+
+1 - Enquanto não for possível dar cumprimento ao estabelecido no n.º 1 do artigo 12.º do [Decreto Legislativo Regional n.º 18/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1999-321677), de 21 de Maio, os conservatórios regionais não integrados constituem unidades orgânicas do sistema educativo, especificamente destinadas ao ensino vocacional da música e da dança, dotadas de autonomia administrativa, regendo-se, nos termos do n.º 3 daquele artigo, pelo regime de autonomia e gestão fixado para as restantes unidades orgânicas do sistema educativo.
+
+2 - São conservatórios regionais não integrados:
+
+a) Conservatório Regional de Angra do Heroísmo;
+
+b) Conservatório Regional da Horta;
+
+c) Conservatório Regional de Ponta Delgada.
+
+3 - As actuais extensões dos conservatórios regionais a funcionar em escolas do ensino regular e as estruturas de ensino artístico das unidades orgânicas do ensino regular em funcionamento à data de entrada em vigor do presente diploma são integrados nas unidades orgânicas onde funcionam.
+
+###### Artigo 8.º — Quadros de pessoal
+
+1 - Os quadros de pessoal não docente dos conservatórios regionais não integrados são os constantes dos anexos I a III ao presente diploma, do qual fazem parte integrante.
+
+2 - A transição do pessoal para os quadros ora aprovados faz-se por lista nominativa a publicar no Jornal Oficial por despacho do director regional da Educação.
+
+###### Artigo 9.º — Norma revogatória
+
+São revogados os seguintes diplomas:
+
+a) [Decreto Regulamentar Regional n.º 11/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1980-678213), de 13 de Março;
+
+b) [Decreto Regulamentar Regional n.º 42/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/42-1988-354737), de 10 de Outubro;
+
+c) [Decreto Regulamentar Regional n.º 22/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1989-619915), de 21 de Julho;
+
+d) [Decreto Regulamentar Regional n.º 25/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-1990-573533), de 6 de Agosto;
+
+e) [Decreto Regulamentar Regional n.º 5/95/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1995-197540), de 28 de Fevereiro;
+
+f) [Resolução n.º 2/78](https://diariodarepublica.pt/dr/detalhe/resolucao/2-1978-468814), de 27 de Janeiro;
+
+g) [Portaria n.º 56/81](https://diariodarepublica.pt/dr/detalhe/portaria/56-1981-390392), de 24 de Novembro;
+
+h) Despacho Normativo n.º 265/98, de 8 de Outubro.
+
+Aprovado em Conselho do Governo Regional, no Corvo, em 25 de Setembro de 2003.
+
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
+
+Assinado em Angra do Heroísmo em 5 de Novembro de 2003.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
+
+## ANEXO I — Conservatório Regional de Angra do Heroísmo
+
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/273b00/80458047.pdf)](https://files.diariodarepublica.pt/1s/2003/11/273b00/80458047.pdf)](https://files.diariodarepublica.pt/1s/2003/11/273b00/80458047.pdf)
+
+## ANEXO II — Conservatório Regional de Ponta Delgada
+
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/273b00/80458047.pdf)](https://files.diariodarepublica.pt/1s/2003/11/273b00/80458047.pdf)](https://files.diariodarepublica.pt/1s/2003/11/273b00/80458047.pdf)
+
+## ANEXO III — Conservatório Regional da Horta
+
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/273b00/80458047.pdf)](https://files.diariodarepublica.pt/1s/2003/11/273b00/80458047.pdf)](https://files.diariodarepublica.pt/1s/2003/11/273b00/80458047.pdf)

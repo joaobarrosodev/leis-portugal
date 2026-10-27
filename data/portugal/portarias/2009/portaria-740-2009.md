@@ -1,0 +1,261 @@
+---
+schema_version: '1.0'
+id: pt:dre:492397:por
+title: Portaria n.º 740/2009
+short_title: null
+summary: Aprova o Regulamento Arquivístico da Direcção-Geral das Actividades Económicas do Ministério da Economia e da Inovação
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Economia e da Cultura
+proposing_entity: null
+official_number: 740/2009
+official_date: null
+publication_date: '2009-07-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 132/2009, Série I de 2009-07-10
+  number: '132'
+  series: I
+  supplement: null
+  pages: 4359 - 4366
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/07/13200/0435904366.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/740/2009/07/10/p/dre/pt/html
+  oj: null
+  dre: '492397'
+  dre_path: /dr/detalhe/portaria/740-2009-492397
+  internal: pt:dre:492397:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/740-2009-492397
+  metadata_url: https://data.dre.pt/eli/port/740/2009/07/10/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/740-2009-492397
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:42:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: bf4935093abd7a35ae808010e7fdccb0767e406d04747e190107436a6e3690ca
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:02Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direção Geral das Atividades Económicas
+- Ministério da Economia e da Inovação
+relationships:
+- type: cites
+  target: pt:dre:291844:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/121/1992/07/02/p/dre
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584777:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/16/1993/01/23/p/dre
+- type: repealed_by
+  target: pt:dre:174614574:por
+  label: Revogada, a partir de 24.11.2021, a Port 740/2009 de 10-jul DR.IS [132] pelo(a) Portaria n.º 256/2021 - Diário da
+    República n.º 225/2021, Série I de 2021-11-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/256-2021-174614574
+  date: '2021-11-19'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:42:02Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 740/2009
+
+de 10 de Julho
+
+A Direcção-Geral das Actividades Económicas do Ministério da Economia e da Inovação, no exercício das suas actividades específicas e no decorrer dos processos de negócio, produz documentos que carecem de gestão arquivística, tendo em vista a eficácia administrativa e o direito à informação por parte do cidadão, de acordo com o princípio da administração aberta.
+
+Com efeito, a adequada gestão de documentos de arquivo com eficazes práticas na criação, organização, utilização, conservação, avaliação, selecção e eliminação de documentos impõe-se face ao crescimento da produção documental junto das administrações produtoras e responsáveis pelo seu tratamento.
+
+Tendo em vista racionalizar a acumulação futura de documentos de arquivo produzidos pela Direcção-Geral das Actividades Económicas, procedeu-se à elaboração de um regulamento arquivístico para melhor avaliar, atribuir prazos de conservação e eliminar criteriosamente os documentos e salvaguardar os de interesse histórico e informativo.
+
+Nestes termos, ao abrigo da alínea a) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 447/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1988-356515), de 10 de Dezembro, do n.º 2 do artigo 2.º do [Decreto-Lei n.º 121/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1992-291844), de 2 de Julho, e da alínea c) do artigo 3.º do [Decreto-Lei n.º 16/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1993-584777), de 23 de Janeiro:
+
+Manda o Governo, pelo Secretário de Estado Adjunto, da Indústria e da Inovação, ao abrigo do despacho n.º 13 027/2005, publicado no Diário da República, 2.ª série, de 14 de Junho de 2005, e pelo Ministro da Cultura, o seguinte:
+
+1.º É aprovado o Regulamento Arquivístico da Direcção-Geral das Actividades Económicas do Ministério da Economia e da Inovação e respectivos anexos, os quais fazem parte integrante da presente portaria.
+
+2.º A presente portaria entra em vigor no dia imediato ao da sua publicação.
+
+Em 30 de Março de 2009.
+
+O Ministro da Cultura, José António de Melo Pinto Ribeiro. - O Secretário de Estado Adjunto, da Indústria e da Inovação, António José de Castro Guerra.
+
+Regulamento Arquivístico da Direcção-Geral das Actividades Económicas do Ministério da Economia e da Inovação
+
+1.º
+
+Âmbito de aplicação
+
+O presente regulamento é aplicável à documentação produzida e recebida no âmbito das suas atribuições e competências, pela Direcção-Geral das Actividades Económicas do Ministério da Economia e da Inovação adiante designada por DGAE.
+
+2.º
+
+Avaliação
+
+1 - O processo de avaliação dos documentos do arquivo da DGAE tem por objectivo a determinação do seu valor para efeitos da respectiva conservação permanente ou eliminação, findos os respectivos prazos de conservação em fase administrativa.
+
+2 - É da responsabilidade da DGAE a atribuição dos prazos de conservação dos documentos em fase administrativa.
+
+3 - Os prazos de conservação são os que constam da Tabela de Selecção, Anexo I ao presente Regulamento.
+
+4 - Os referidos prazos de conservação são contados a partir do momento em que os processos, colecções, registos ou dossiers encerram em termos administrativos e não há qualquer possibilidade de serem reabertos.
+
+5 - Cabe à Direcção-Geral de Arquivos, adiante designada por DGARQ, a determinação do destino final dos documentos, sob proposta da DGAE.
+
+3.º
+
+Selecção
+
+1 - A selecção dos documentos a conservar permanentemente em arquivo definitivo deve ser efectuada pela DGAE, de acordo com as orientações estabelecidas na Tabela de Selecção.
+
+2 - Os documentos aos quais for reconhecido valor arquivístico devem ser conservados em arquivo no suporte original, excepto nos casos cuja substituição seja previamente autorizada nos termos do n.º 4 do artigo 9.º
+
+4.º
+
+Tabela de selecção
+
+1 - A tabela de selecção consigna e sintetiza as disposições relativas à avaliação documental.
+
+2 - A tabela de selecção deve ser submetida a revisões, com vista à sua adequação às alterações da produção documental.
+
+3 - Para efeitos do disposto no n.º 2, deve a DGAE obter parecer favorável da DGARQ, enquanto organismo coordenador da política arquivística nacional, mediante proposta devidamente fundamentada.
+
+5.º
+
+Remessas para arquivo geral
+
+1 - Findos os prazos de conservação em fase administrativa, a documentação deverá, de acordo com o estipulado na tabela de selecção, ser remetida do arquivo corrente para o arquivo geral.
+
+2 - As remessas dos documentos para arquivo definitivo devem ser efectuadas de acordo com a periodicidade que a DGAE vier a determinar.
+
+3 - Os documentos e ou a informação contida em suporte micrográfico cujo valor arquivístico justifiquem a sua conservação permanente, de acordo com a tabela de selecção, deverão ser remetidos para arquivo definitivo após o cumprimento dos respectivos prazos de conservação.
+
+4 - As remessas não podem pôr em causa a integridade dos conjuntos documentais.
+
+6.º
+
+Formalidades das remessas
+
+1 - As remessas dos documentos mencionados no artigo 5.º devem obedecer às seguintes formalidades:
+
+a) Serem acompanhadas de um auto de entrega a título de prova;
+
+b) O auto de entrega deve ter em anexo uma guia de remessa destinada à identificação e controlo da documentação remetida, obrigatoriamente rubricada e autenticada pelas partes envolvidas no processo;
+
+c) A guia de remessa será feita em triplicado, ficando o original no serviço destinatário, sendo o duplicado devolvido ao serviço de origem;
+
+d) O triplicado será provisoriamente utilizado no arquivo intermédio ou definitivo como instrumento de descrição documental, após ter sido conferido e completado com as referências topográficas e demais informação pertinente, só podendo ser eliminado após a elaboração do respectivo inventário.
+
+2 - Os modelos referidos nas alíneas anteriores são os que constam do Anexo II e III ao presente Regulamento.
+
+7.º
+
+Eliminação
+
+1 - A eliminação dos documentos aos quais não for reconhecido valor arquivístico, não se justificando a sua conservação permanente, deve ser efectuada logo após o cumprimento dos respectivos prazos de conservação fixados na tabela de selecção. A sua eliminação poderá, contudo, ser feita antes de decorridos os referidos prazos desde que os documentos sejam microfilmados de acordo com as disposições do artigo 9.º
+
+2 - Sem embargo da definição dos prazos mínimos de conservação estabelecidos na tabela de avaliação e selecção, as instituições podem conservar por prazos mais dilatados, a título permanente ou temporário, global ou parcialmente, as séries documentais que entenderem, desde que não prejudique o bom funcionamento dos serviços.
+
+3 - A eliminação dos documentos que não estejam mencionados na tabela de selecção carece de autorização expressa da DGARQ.
+
+4 - A eliminação dos documentos aos quais tenha sido reconhecido valor arquivístico (conservação permanente) só poderá ser efectuada desde que os documentos sejam microfilmados de acordo com as disposições do artigo 9.º
+
+5 - A decisão sobre o processo de eliminação deve atender a critérios de confidencialidade e racionalidade de meios e custos.
+
+8.º
+
+Formalidades da eliminação
+
+1 - As eliminações dos documentos mencionados no artigo 7.º devem obedecer às seguintes formalidades:
+
+a) Serem acompanhadas de um auto de eliminação que fará prova do abate patrimonial;
+
+b) O auto de eliminação deve ser assinado pelo dirigente do serviço ou organismo em causa, bem como pelo responsável do arquivo;
+
+c) O referido auto será feito em duplicado, ficando o original no serviço que procede à eliminação, sendo o duplicado remetido para a DGARQ para conhecimento.
+
+2 - O modelo consta do Anexo IV ao presente Regulamento.
+
+9.º
+
+Substituição do suporte
+
+1 - A substituição do suporte dos documentos será feita por microfilme, desde que fique clara, expressa e inequivocamente garantida a sua preservação, segurança, autenticidade, durabilidade e consulta de acordo com as normas técnicas da International Organization for Standardization, abreviadamente designada por ISO.
+
+2 - O suporte fílmico a que alude o número anterior não poderá apresentar cortes, emendas ou quaisquer outras alterações que ponham em causa a sua integridade e reproduzirá os respectivos termos de abertura e encerramento.
+
+2.1 - Dos termos de abertura e encerramento constarão obrigatoriamente: Identificação dos responsáveis pela transferência da informação; Local e data da execução da transferência; Assinaturas e carimbo.
+
+3 - Deverá ser elaborado um registo e fichas de controlo de qualidade do suporte fílmico produzido.
+
+4 - A substituição do suporte dos documentos a que se alude o n.º 2 do artigo 3.º só poderá ser efectuada mediante parecer favorável da DGARQ, nos termos do n.º 2 do artigo 5.º do [Decreto-Lei n.º 121/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1992-291844), de 2 de Julho.
+
+5 - As cópias obtidas a partir de microcópia autenticada têm a força probatória do original, nos termos do disposto no artigo 3.º do [Decreto-Lei n.º 447/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1988-356515), de 10 de Dezembro.
+
+10.º
+
+Acessibilidade e comunicabilidade
+
+O acesso e comunicabilidade do arquivo da DGAE atenderá a critérios de confidencialidade da informação, definidos internamente, em conformidade com a lei geral.
+
+11.º
+
+Auditoria
+
+Compete à DGARQ auditar sobre a execução do disposto no presente Regulamento.
+
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/2009/07/13200/0435904366.pdf)
+
+## ANEXO II — Auto de entrega
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/07/13200/0435904366.pdf)
+
+## ANEXO III — Guia de remessa
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/07/13200/0435904366.pdf)
+
+## ANEXO IV — Auto de eliminação
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/07/13200/0435904366.pdf)

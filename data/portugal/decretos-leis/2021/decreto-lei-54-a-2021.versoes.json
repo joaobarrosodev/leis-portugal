@@ -1,0 +1,336 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:165865578:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2021-175123154",
+ "dre_path": "/dr/detalhe/decreto-lei/54-a-2021-165865578",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-06-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "175123894",
+    "175123895",
+    "175123896",
+    "175123897",
+    "175123898",
+    "175123899",
+    "175123900",
+    "175123901",
+    "175123902",
+    "175123903",
+    "175123904",
+    "175123905",
+    "175123906",
+    "175123907",
+    "175123908",
+    "175123909",
+    "175123910",
+    "175123911",
+    "175123912",
+    "175123913",
+    "175123914",
+    "175123915"
+   ]
+  },
+  {
+   "date": "2021-11-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175043500:por",
+     "title": "Decreto-Lei n.º 104/2021",
+     "published": "2021-11-27",
+     "dre_path": "/dr/detalhe/decreto-lei/104-2021-175043500"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "175123894",
+    "175123895",
+    "175123896",
+    "175123897",
+    "175123898",
+    "175123899",
+    "175123900",
+    "175123901",
+    "175123902",
+    "175123903",
+    "175123904",
+    "175123905",
+    "175123906",
+    "175123907",
+    "175123908",
+    "175123909",
+    "175123910",
+    "175123911",
+    "175123917",
+    "175123913",
+    "175123914",
+    "175123915",
+    "175123916"
+   ]
+  },
+  {
+   "date": "2022-02-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:178716209:por",
+     "title": "Decreto-Lei n.º 22/2022",
+     "published": "2022-02-06",
+     "dre_path": "/dr/detalhe/decreto-lei/22-2022-178716209"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "175123894",
+    "175123895",
+    "175123896",
+    "175123897",
+    "175123898",
+    "175123899",
+    "175123900",
+    "178696132",
+    "175123902",
+    "178696133",
+    "175123904",
+    "175123905",
+    "175123906",
+    "175123907",
+    "175123908",
+    "175123909",
+    "175123910",
+    "175123911",
+    "175123917",
+    "175123913",
+    "175123914",
+    "175123915",
+    "175123916"
+   ]
+  }
+ ],
+ "fragments": {
+  "175123894": {
+   "fragment_id": "175123155",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 54-A/2021\n\nde 25 de junho\n\nSumário: Executa na ordem jurídica interna o Regulamento (UE) 2021/953, relativo ao Certificado Digital COVID da UE.\n\nO combate da pandemia da doença COVID-19 passa, hoje, pela vacinação da população e por uma estratégia alargada de testagem, que permita identificar doentes COVID-19 com sintomas e assintomáticos.\n\nTendo em conta estas armas de combate, a União Europeia veio criar o Certificado Digital COVID da UE, um certificado interoperável que contém informações sobre a vacinação, resultado de testes ou recuperação do titular, emitido no contexto da pandemia da doença COVID-19. A apresentação do Certificado Digital COVID-19 da UE permite um nível de confiança relativo ao baixo risco de o seu portador ser doente COVID-19 ativo.\n\nNos termos do Regulamento (UE) 2021/953, a apresentação de Certificado Digital COVID da UE facilita a livre circulação durante a pandemia da doença COVID-19, garantindo-se, assim, um nível de risco baixo quanto à transmissão da doença.\n\nO presente decreto-lei procede à execução do Regulamento (UE) 2021/953, definindo normas de emissão, apresentação e utilização do Certificado Digital COVID da UE.\n\nPrevê-se, assim, que os Certificados Digitais COVID da UE possam ser utilizados em matéria de tráfego aéreo e marítimo, em matéria de circulação em território nacional e em matéria de acesso a eventos de natureza cultural, desportiva, corporativa ou familiar.\n\nEm matéria de tráfego aéreo e marítimo, passa a ser autorizada a realização de viagens com destino a Portugal por cidadãos providos de Certificado Digital COVID da UE. Esta autorização dispensa a aplicação de medidas adicionais de prevenção e mitigação, como a realização de testes para despistagem da infeção por SARS-CoV-2 ou o cumprimento de períodos de quarentena.\n\nEm matéria de circulação em território nacional, estabelece-se que a apresentação de Certificado Digital COVID da UE ou de comprovativo de realização de teste para despiste da infeção por SARS-CoV-2 permite a livre circulação pelo território nacional, independentemente da vigência de normas de prevenção, contenção e mitigação da pandemia da doença COVID-19 em matéria de circulação.\n\nEm matéria de acesso a eventos de natureza cultural, desportiva, corporativa ou familiar, designadamente casamentos e batizados, sempre que, nos termos legais, seja exigida a apresentação de comprovativo de realização de teste para despiste da infeção por SARS-CoV-2 para assistir ou participar nos referidos eventos pode, em termos alternativos, ser apresentado o Certificado Digital COVID da UE.\n\nSão, ainda, estabelecidas normas quanto ao modo de verificação e controlo da apresentação dos Certificados Digitais COVID da UE.\n\nO Certificado Digital COVID da UE não dispensa, porém, os seus titulares do cumprimento das devidas medidas de segurança recomendadas pelas autoridades de saúde, designadamente o distanciamento físico, a higienização das mãos e o uso de máscara.\n\nOs menores de 12 anos ficam dispensados de apresentar um certificado digital COVID da UE ou um comprovativo de realização de teste para despistagem da infeção por SARS-CoV-2, sem prejuízo de a realização destes testes ser recomendável em determinados contextos.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "175123895": {
+   "fragment_id": "175123156",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "175123896": {
+   "fragment_id": "175123157",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei executa na ordem jurídica interna:\n\na) O Regulamento (UE) 2021/953 do Parlamento Europeu e do Conselho, de 14 de junho de 2021, relativo a um regime para a emissão, verificação e aceitação de certificados interoperáveis de vacinação, teste e recuperação da COVID-19 (Certificado Digital COVID da UE), a fim de facilitar a livre circulação durante a pandemia de COVID-19 [Regulamento (UE) 2021/953];\n\nb) O Regulamento (UE) 2021/954 do Parlamento Europeu e do Conselho de 14 de junho de 2021 relativo a um regime para a emissão, verificação e aceitação de certificados interoperáveis de vacinação, teste e recuperação da COVID-19 (Certificado Digital COVID da UE) no que respeita a nacionais de países terceiros que permaneçam ou residam no território dos Estados-Membros durante a pandemia de COVID-19."
+  },
+  "175123897": {
+   "fragment_id": "175123158",
+   "type": 11,
+   "heading": "Artigo 2.º — Emissão do Certificado Digital COVID da UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Emissão do Certificado Digital COVID da UE\n\n1 - A emissão de certificados digitais COVID da UE em Portugal compete ao Ministério da Saúde, com base na informação das autoridades de saúde competentes e de acordo com as respetivas orientações.\n\n2 - O Certificado Digital COVID da UE pode ser obtido no portal do SNS 24, através de aplicação móvel ou enviado ao titular para o endereço de correio eletrónico registado no Registo Nacional de Utente ou no Registo de Saúde Eletrónico.\n\n3 - O acesso ao portal SNS 24 pode ser efetuado nos Espaços Cidadão e juntas de freguesia, através de atendimento assistido, podendo aí obter-se uma versão impressa do Certificado Digital COVID da UE."
+  },
+  "175123898": {
+   "fragment_id": "175123159",
+   "type": 11,
+   "heading": "Artigo 3.º — Apresentação do Certificado Digital COVID da UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Apresentação do Certificado Digital COVID da UE\n\nOs certificados digitais COVID da UE podem ser apresentados em formato digital ou em papel."
+  },
+  "175123899": {
+   "fragment_id": "175123160",
+   "type": 1,
+   "heading": "Capítulo II — Utilização dos certificados digitais COVID da UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Utilização dos certificados digitais COVID da UE"
+  },
+  "175123900": {
+   "fragment_id": "175123161",
+   "type": 8,
+   "heading": "Secção I — Condições de admissibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Condições de admissibilidade"
+  },
+  "175123901": {
+   "fragment_id": "175123162",
+   "type": 11,
+   "heading": "Artigo 4.º — Certificados digitais COVID da UE admitidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Certificados digitais COVID da UE admitidos\n\n1 - Para efeitos do presente decreto-lei, são admitidos os seguintes certificados digitais COVID da UE:\n\na) Certificado de vacinação, que ateste o esquema vacinal completo do respetivo titular, há pelo menos 14 dias, com uma vacina contra a COVID-19 com autorização de introdução no mercado nos termos do Regulamento (CE) n.º 726/2004;\n\nb) Certificado de teste, que ateste que o titular foi sujeito a:\n\ni) Um teste molecular de amplificação de ácidos nucleicos (TAAN), nas últimas 72 horas, com resultado negativo;\n\nii) Um teste rápido de antigénio enumerado na lista elaborada pela Comissão Europeia com base na Recomendação do Conselho de 21 de janeiro de 2021, relativa a um quadro comum para a utilização e a validação dos testes rápidos de deteção de antigénios para a COVID-19 e o reconhecimento mútuo dos resultados dos testes na UE, nas últimas 48 horas, com resultado negativo;\n\nc) Certificado de recuperação, que ateste que o titular recuperou de uma infeção por SARS-CoV-2, na sequência de um resultado positivo num teste TAAN realizado, há mais de 11 dias e menos de 180 dias.\n\n2 - Para efeitos da alínea a) do número anterior, o esquema vacinal considera-se completo após a toma:\n\na) Da dose única de uma vacina contra a COVID-19 com um esquema vacinal de uma dose;\n\nb) Da segunda dose de uma vacina contra a COVID-19 com um esquema vacinal de duas doses, ainda que tenham sido administradas doses de duas vacinas distintas; ou\n\nc) Da primeira dose de uma vacina contra a COVID-19 com um esquema vacinal de duas doses por pessoas que recuperaram da doença, se estiver indicado no certificado de vacinação que o esquema de vacinação foi concluído após a administração de uma dose."
+  },
+  "175123902": {
+   "fragment_id": "175123163",
+   "type": 8,
+   "heading": "Secção II — Utilização do Certificado Digital COVID da UE em matéria de tráfego aéreo e marítimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Utilização do Certificado Digital COVID da UE em matéria de tráfego aéreo e marítimo"
+  },
+  "175123903": {
+   "fragment_id": "175123164",
+   "type": 11,
+   "heading": "Artigo 5.º — Realização de viagens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Realização de viagens\n\n1 - É permitida a realização de viagens, por qualquer motivo, com destino a Portugal por viajantes providos de um Certificado Digital COVID da UE.\n\n2 - Os membros do Governo responsáveis pelas áreas dos negócios estrangeiros, da administração interna, da saúde e da aviação civil, podem, para os efeitos previstos na presente secção, reconhecer, mediante despacho, a validade de certificados de vacinação ou recuperação emitidos por países terceiros, em condições de reciprocidade."
+  },
+  "175123904": {
+   "fragment_id": "175123165",
+   "type": 11,
+   "heading": "Artigo 6.º — Dispensa de medidas adicionais de prevenção e mitigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Dispensa de medidas adicionais de prevenção e mitigação\n\n1 - A apresentação de Certificado Digital COVID da UE dispensa a realização de testes para despistagem da infeção por SARS-CoV-2 por motivos de viagem.\n\n2 - Os menores de 12 anos estão dispensados da obrigação de se sujeitarem a testes de despistagem da infeção por SARS-CoV-2 relacionados com viagens.\n\n3 - A apresentação de Certificado Digital COVID da UE de vacinação ou recuperação dispensa o cumprimento de quarentena ou isolamento por motivos de viagem.\n\n4 - Os menores que viajem com um ou ambos os titulares das responsabilidades parentais, ou com outro acompanhante por eles responsável, estão dispensados da realização de quarentena quando o(s) acompanhante(s) sejam detentores de um certificado de vacinação ou de recuperação válido aquando da entrada em território nacional."
+  },
+  "175123905": {
+   "fragment_id": "175123166",
+   "type": 11,
+   "heading": "Artigo 7.º — Controlo e verificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Controlo e verificação\n\n1 - A verificação da titularidade de um Certificado Digital COVID da UE válido, nos termos e com os efeitos previstos na presente secção, é efetuada pelas companhias aéreas no momento da partida como condição de embarque para Portugal dos respetivos titulares, e com as consequências previstas na alínea q) do artigo 2.º do Decreto-Lei n.º 28-B/2020, de 26 de junho, na sua redação atual, sem prejuízo de verificação aleatória, à chegada a território nacional, por parte da Polícia de Segurança Pública ou do Serviço de Estrangeiros e Fronteiras (SEF).\n\n2 - O disposto no número anterior aplica-se, com as necessárias adaptações, às companhias de navios cruzeiros, sendo a verificação da titularidade do certificado digital efetuada pelos armadores dos navios de passageiros ou os respetivos representantes legais no momento do embarque ou desembarque como condição de embarque ou desembarque dos respetivos titulares para Portugal, e com as consequências previstas na alínea q) do artigo 2.º do Decreto-Lei n.º 28-B/2020, de 26 de junho, na sua redação atual, sem prejuízo de verificação aleatória na livre prática do navio, à chegada a território nacional, por parte da Polícia Marítima ou do SEF.\n\n3 - Para efeitos do disposto nos números anteriores, as companhias aéreas, os armadores dos navios de passageiros ou os respetivos representantes legais, utilizam a aplicação eletrónica de leitura do Certificado Digital COVID da UE, disponibilizada pelo SEF."
+  },
+  "175123906": {
+   "fragment_id": "175123167",
+   "type": 8,
+   "heading": "Secção III — Outras utilizações do Certificado Digital COVID da UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Outras utilizações do Certificado Digital COVID da UE"
+  },
+  "175123907": {
+   "fragment_id": "175123168",
+   "type": 11,
+   "heading": "Artigo 8.º — Permissão de circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Permissão de circulação\n\n1 - A apresentação de Certificado Digital COVID da UE ou a apresentação de comprovativo da realização de teste para despiste da infeção por SARS-CoV-2 permite a livre circulação do seu titular pelo território nacional, independentemente da vigência de normas de prevenção, contenção e mitigação da pandemia da doença COVID-19 em matéria de circulação.\n\n2 - As forças e serviços de segurança procedem à verificação do disposto no número anterior nos termos do n.º 2 do artigo 10.º"
+  },
+  "175123908": {
+   "fragment_id": "175123169",
+   "type": 11,
+   "heading": "Artigo 9.º — Acesso a eventos de natureza cultural, desportiva, corporativa ou familiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Acesso a eventos de natureza cultural, desportiva, corporativa ou familiar\n\nA apresentação de Certificado Digital COVID da UE dispensa a apresentação de comprovativo de realização de teste para despiste da infeção por SARS-CoV-2, nos casos em que esta seja exigida para assistir ou participar em eventos de natureza cultural, desportiva, corporativa ou familiar, designadamente casamentos e batizados."
+  },
+  "175123909": {
+   "fragment_id": "175123170",
+   "type": 11,
+   "heading": "Artigo 10.º — Verificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Verificação\n\n1 - O Certificado Digital COVID da UE é verificado através da aplicação móvel própria para a leitura do respetivo código QR, podendo este ser exibido em formato digital ou em papel.\n\n2 - Subsidiariamente à leitura do código QR através da aplicação móvel própria referida no número anterior, a verificação pode ser feita manualmente, através dos dados constantes do Certificado Digital COVID da UE, independentemente do suporte em que este for exibido."
+  },
+  "175123910": {
+   "fragment_id": "175123171",
+   "type": 11,
+   "heading": "Artigo 11.º — Menores de 12 anos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Menores de 12 anos\n\nOs menores de 12 anos estão dispensados da apresentação de Certificado Digital COVID da UE ou de comprovativo da realização de teste para despiste da infeção por SARS-CoV-2 para efeitos das utilizações reguladas na presente secção."
+  },
+  "175123911": {
+   "fragment_id": "175123172",
+   "type": 1,
+   "heading": "Capítulo III — Disposições complementares e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições complementares e finais"
+  },
+  "175123912": {
+   "fragment_id": "175123173",
+   "type": 11,
+   "heading": "Artigo 12.º — Salvaguarda por motivos de saúde pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Salvaguarda por motivos de saúde pública\n\nO disposto no capítulo anterior não prejudica a possibilidade de aplicação de restrições à livre circulação quando sejam necessárias e proporcionadas para salvaguardar a saúde pública em resposta à pandemia da doença COVID-19, nos termos do Regulamento (UE) 2021/953 e do Regulamento (UE) 2021/954."
+  },
+  "175123913": {
+   "fragment_id": "175123174",
+   "type": 11,
+   "heading": "Artigo 13.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regiões Autónomas\n\nO presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das competências cometidas aos respetivos órgãos de governo ou das adaptações que lhe venham a ser introduzidas por diploma próprio ao abrigo das competências legislativas das regiões."
+  },
+  "175123914": {
+   "fragment_id": "175127475",
+   "type": 11,
+   "heading": "Artigo 14.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Produção de efeitos\n\nO disposto na secção II do capítulo II produz efeitos a partir do dia 1 de julho de 2021."
+  },
+  "175123915": {
+   "fragment_id": "175127476",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação"
+  },
+  "175123917": {
+   "fragment_id": "175123173",
+   "type": 11,
+   "heading": "Artigo 12.º — Salvaguarda por motivos de saúde pública",
+   "in_force_from": "2021-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01"
+   ],
+   "markdown": "###### Artigo 12.º — Salvaguarda por motivos de saúde pública\n\nO disposto no capítulo anterior não prejudica a possibilidade de aplicação de restrições quando sejam necessárias e proporcionadas para salvaguardar a saúde pública em resposta à pandemia da doença COVID-19, designadamente nos termos do Regulamento (UE) 2021/953 e do Regulamento (UE) 2021/954.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01"
+  },
+  "175123916": {
+   "fragment_id": "175127477",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 24 de junho de 2021. - Pedro Gramaxo de Carvalho Siza Vieira - Marta Alexandra Fartura Braga Temido de Almeida Simões.\n\nPromulgado em 24 de junho de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 25 de junho de 2021.\n\nPelo Primeiro-Ministro, Pedro Gramaxo de Carvalho Siza Vieira, Ministro de Estado, da Economia e da Transição Digital.\n\n114352458"
+  },
+  "178696132": {
+   "fragment_id": "175123162",
+   "type": 11,
+   "heading": "Artigo 4.º — Certificados digitais COVID da UE admitidos",
+   "in_force_from": "2022-02-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/2022 - Diário da República n.º 25-A/2022, Série I de 2022-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2022-178716209), em vigor a partir de 2022-02-07"
+   ],
+   "markdown": "###### Artigo 4.º — Certificados digitais COVID da UE admitidos\n\n1 - Para efeitos do presente decreto-lei, são admitidos os seguintes certificados digitais COVID da UE:\n\na) Certificado de vacinação, que ateste:\n\ni) A conclusão da série de vacinação primária do respetivo titular, há mais de 14 dias e menos de 270 dias desde a última dose, com uma vacina contra a COVID-19 com autorização de introdução no mercado nos termos do Regulamento (CE) n.º 726/2004; ou\n\nii) A toma de uma dose de reforço de uma vacina contra a COVID-19 com autorização de introdução no mercado nos termos do Regulamento (CE) n.º 726/2004;\n\nb) Certificado de teste, que ateste que o titular foi sujeito a:\n\ni) Um teste molecular de amplificação de ácidos nucleicos (TAAN), nas últimas 72 horas, com resultado negativo;\n\nii) Um teste rápido de antigénio enumerado na lista elaborada pela Comissão Europeia com base na Recomendação do Conselho de 21 de janeiro de 2021, relativa a um quadro comum para a utilização e a validação dos testes rápidos de deteção de antigénios para a COVID-19 e o reconhecimento mútuo dos resultados dos testes na UE, nas últimas 24 horas, com resultado negativo;\n\nc) Certificado de recuperação, que ateste que o titular recuperou de uma infeção por SARS-CoV-2, na sequência de um resultado positivo num teste TAAN realizado, há mais de 11 dias e menos de 180 dias.\n\n2 - Para efeitos da alínea a) do número anterior:\n\na) Considera-se concluída a série de vacinação primária após a toma:\n\ni) Da dose única de uma vacina contra a COVID-19 com um esquema vacinal de uma dose;\n\nii) Da segunda dose de uma vacina contra a COVID-19 com um esquema vacinal de duas doses, ainda que tenham sido administradas doses de duas vacinas distintas; ou\n\niii) Da primeira dose de uma vacina contra a COVID-19 com um esquema vacinal de duas doses por pessoas que recuperaram da doença, se estiver indicado no certificado de vacinação que o esquema de vacinação foi concluído após a administração de uma dose.\n\nb) Entende-se por 'dose de reforço' a dose de uma vacina contra a COVID-19 administrada após a conclusão da série de vacinação primária conforme definida na alínea anterior.\n\n3 - Os membros do Governo responsáveis pelas áreas dos negócios estrangeiros, da administração interna, da saúde e da aviação civil podem, para os efeitos previstos no presente decreto-lei, reconhecer, mediante despacho, a validade de certificados de vacinação ou recuperação emitidos por países terceiros, em condições de reciprocidade.\n\n4 - Para efeitos do disposto no número anterior, é admitida a validade de certificados de vacinação que atestem a conclusão da série de vacinação primária ou a toma de dose de reforço de outras vacinas contra a COVID-19 para além das previstas na alínea a) do n.º 1, desde que as mesmas sejam admissíveis ao abrigo do disposto no segundo parágrafo do n.º 5 do artigo 5.º do Regulamento (UE) 2021/953.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/2022 - Diário da República n.º 25-A/2022, Série I de 2022-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2022-178716209), em vigor a partir de 2022-02-07"
+  },
+  "178696133": {
+   "fragment_id": "175123164",
+   "type": 11,
+   "heading": "Artigo 5.º — Realização de viagens",
+   "in_force_from": "2022-02-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22/2022 - Diário da República n.º 25-A/2022, Série I de 2022-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2022-178716209), em vigor a partir de 2022-02-07"
+   ],
+   "markdown": "###### Artigo 5.º — Realização de viagens\n\n1 - É permitida a realização de viagens, por qualquer motivo, com destino a Portugal por viajantes providos de um Certificado Digital COVID da UE.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22/2022 - Diário da República n.º 25-A/2022, Série I de 2022-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2022-178716209), em vigor a partir de 2022-02-07"
+  }
+ }
+}

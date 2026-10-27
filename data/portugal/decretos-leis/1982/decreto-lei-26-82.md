@@ -1,0 +1,142 @@
+---
+schema_version: '1.0'
+id: pt:dre:600767:por
+title: Decreto-Lei n.º 26/82
+short_title: null
+summary: Permite a cobertura dos encargos de alguns serviços com disponibilidades financeiras do Cofre dos Conservadores,
+  Notários e Funcionários de Justiça
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 26/82
+official_date: null
+publication_date: '1982-01-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 25/1982, Série I de 1982-01-30
+  number: '25'
+  series: I
+  supplement: null
+  pages: 239 - 239
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/01/02500/02390239.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '600767'
+  dre_path: /dr/detalhe/decreto-lei/26-1982-600767
+  internal: pt:dre:600767:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1982-600767
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1982-600767
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:44:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 89e208575802021d0747216f87582e76b268f8169762934b6512fe764e7a5057
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:44:03Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cofre dos Conservadores Notários e Funcionários da Justiça
+- Despesas Públicas
+- Gestão Financeira
+- Ministério da Justiça
+- Orçamento Geral do Estado
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:446536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578676:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579750:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:44:03Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 26/82
+
+de 30 de Janeiro
+
+Por se manterem as circunstâncias que determinaram que o Cofre dos Conservadores, Notários e Funcionários de Justiça tivesse de suportar os encargos decorrentes da aprovação de diplomas estruturando alguns organismos dependentes do Ministério da Justiça, designadamente a Escola de Polícia Judiciária, a Direcção-Geral dos Serviços Tutelares de Menores, o Centro de Estudos Judiciários e a Direcção-Geral dos Serviços Prisionais:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo único. Os encargos a que se referem o artigo 18.º do [Decreto-Lei n.º 37/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1978-446536), de 20 de Fevereiro, na redacção que lhe foi dada pelo artigo 14.º do [Decreto-Lei n.º 235/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-1980-472486), de 18 de Julho, o n.º 1 do artigo 79.º do [Decreto-Lei n.º 506/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1980-462813), de 21 de Outubro, introduzido pelo artigo 1.º do [Decreto-Lei n.º 226/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1981-579750), de 18 de Julho, o artigo 18.º do [Decreto-Lei n.º 180/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1981-578676), de 30 de Junho, o artigo 5.º do [Decreto-Lei n.º 264-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-a-1981-517226), de 3 de Setembro, e o artigo 112.º do [Decreto-Lei n.º 268/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1981-563002), de 16 de Setembro, serão suportados até final do ano de 1982 pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, enquanto não forem inscritas as verbas necessárias no Orçamento Geral do Estado ou estas se mostrarem insuficientes.
+
+Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 1981. - Francisco José Pereira Pinto Balsemão.
+
+Promulgado em 18 de Janeiro de 1982.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -1,0 +1,560 @@
+---
+schema_version: '1.0'
+id: pt:dre:334338:por
+title: Decreto-Lei n.º 86/2010
+short_title: null
+summary: Estabelece o regime de inspecção obrigatória dos equipamentos de aplicação de produtos fitofarmacêuticos autorizados
+  para uso profissional, transpondo na parte relativa aos equipamentos de aplicação de produtos fitofarmacêuticos a Directiva
+  n.º 2009/128/CE, do Parlamento Europeu e do Conselho, de 21 de Outubro, que estabelece um quadro de acção a nível comunitário
+  para uma utilização sustentável dos pesticidas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 86/2010
+official_date: null
+publication_date: '2010-07-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 136/2010, Série I de 2010-07-15
+  number: '136'
+  series: I
+  supplement: null
+  pages: 2634 - 2641
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/07/13600/0263402641.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2020-09-30'
+version_history:
+  file: decreto-lei-86-2010.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2010-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-09-30'
+    amending: pt:dre:144010960:por
+    amending_title: Decreto-Lei n.º 78/2020
+    changes:
+    - Adita Artigo 8.º-A
+    - Adita Artigo 11.º-A
+    - Adita Artigo 18.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Anexo I
+    - Revoga Artigo 8.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 19.º
+    - Revoga Anexo II
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/86/2010/p/cons/20200929/pt/html
+  oj: null
+  dre: '334338'
+  dre_path: /dr/detalhe/decreto-lei/86-2010-334338
+  internal: pt:dre:334338:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2010-334338
+  metadata_url: https://data.dre.pt/eli/dec-lei/86/2010/p/cons/20200929/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-211846479
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-211846479
+  retrieved_at: '2026-10-22T12:56:13Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: c5238704d4dcba961c0776274b89a67418f77b95dcac6f593fcdf2de58c9b3ed
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:56:13Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-86-2010.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acreditação
+- Aproximação das Legislações
+- Centro IPP
+- Certificação Profissional
+- Multa
+- Direção Geral da Agricultura e Desenvolvimento Rural
+- Contra-ordenação
+- Definição de Competências
+- Direcção Regional de Agricultura e Pescas
+- Diretor Geral
+- Controlo Sanitário
+- Fiscalização
+- Publicitação
+- Licenciamento
+- Proteção do Ambiente
+- Sanção Penal
+- Prazo
+- Preço
+- Proteção Fitossanitária
+- Equipamento Agrícola
+- Pesticida
+- Produto Fitofarmacêutico
+- TAXA de Prestação de Serviços
+relationships:
+- type: amended_by
+  target: pt:dre:144010960:por
+  label: Adita Artigo 8.º-A; Adita Artigo 11.º-A; Adita Artigo 18.º-A; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo
+    5.º; Altera Artigo 6.º; Altera Artigo 9.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 16.º;
+    Altera Artigo 17.º; Altera Artigo 18.º; Altera Anexo I; Revoga Artigo 8.º; Revoga Artigo 11.º; Revoga Artigo 19.º; Revoga
+    Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960
+  date: '2020-09-29'
+- type: cites
+  target: celex:32006L0123
+  label: null
+  source: http://data.europa.eu/eli/dir/2006/123/oj
+- type: cites
+  target: celex:32009L0128
+  label: null
+  source: http://data.europa.eu/eli/dir/2009/128/oj
+article_structure:
+  article_count: 23
+  section_count: 8
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:56:13Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 86/2010
+
+Decreto-Lei n.º 86/2010
+
+de 15 de Julho
+
+O Decreto-Lei n.º 173/2005, de 21 de Outubro, alterado pelos Decretos-Leis n.os 187/2006, de 19 de Setembro, e 101/2009, de 11 de Maio, regula as actividades de distribuição, venda, prestação de serviços de aplicação de produtos fitofarmacêuticos e a sua aplicação pelos utilizadores finais.
+
+O referido decreto-lei veio permitir implementar uma política nacional de uso sustentável de produtos fitofarmacêuticos, visando a redução do risco e dos impactos na saúde humana e no ambiente inerentes ao exercício das actividades de distribuição, venda e à aplicação dos produtos fitofarmacêuticos. A matéria regulada aplica-se, na sua essência, ao uso profissional de produtos fitofarmacêuticos, isto é, ao uso por utilizadores que, no quadro da sua actividade profissional, manuseiam e aplicam produtos fitofarmacêuticos.
+
+No que respeita à aplicação de produtos fitofarmacêuticos autorizados para uso profissional ficou, desde logo, definido o enquadramento legal aplicável, assente, em geral, na atribuição de autorizações de exercício de actividade conjugadas com a exigência de que tal aplicação, ainda que exercida a título individual, deve ser realizada por aplicadores devidamente habilitados.
+
+A habilitação destes aplicadores baseia-se, para a maioria dos casos, na frequência de acções de formação sobre aplicação de produtos fitofarmacêuticos, as quais têm, entre outras componentes, a relativa à adequada utilização e manutenção dos equipamentos de aplicação destes produtos.
+
+A Directiva n.º <a href="eurlex.asp?ano=2009&id=309L0128" title="Link para Directiva da Comunidade Europeia">2009/128/CE</a>, do Parlamento Europeu e do Conselho, de 21 de Outubro, veio estabelecer um quadro de acção a nível comunitário para uma utilização sustentável dos pesticidas, definindo, além do mais, a obrigatoriedade de os equipamentos de aplicação de produtos fitofarmacêuticos passarem a ser objecto de inspecções técnicas periódicas como condição necessária a uma adequada utilização profissional, visando alcançar um elevado nível de segurança e protecção da saúde humana e do ambiente e garantia da eficácia dos tratamentos fitossanitários através do funcionamento adequado dos dispositivos e funcionalidades dos equipamentos.
+
+Salienta-se, contudo, que nos termos da citada directiva as medidas a adoptar incidem obrigatoriamente sobre equipamentos de aplicação de produtos fitofarmacêuticos com determinadas características, prevendo-se a possibilidade de ser concedida isenção de inspecção periódica a outros equipamentos face à avaliação da sua escala de utilização no quadro de uma avaliação de risco para a saúde humana e ambiente. Por outro lado, importa evidenciar que tais medidas não são, na sua globalidade, de aplicação imediata, mas antes projectadas no tempo, tendo particularmente em consideração os aspectos logísticos a criar e implementar e o universo dos equipamentos de aplicação de produtos fitofarmacêuticos a considerar.
+
+Deste modo, aprova-se um regime em consonância com os princípios, obrigações e prerrogativas decorrentes do novo quadro legislativo comunitário relativo ao uso sustentável de produtos fitofarmacêuticos, nomeadamente no que respeita ao princípio da obrigatoriedade da inspecção periódica dos equipamentos de aplicação de produtos fitofarmacêuticos, aos prazos das inspecções periódicas a realizar, aos tipos de equipamentos e componentes a inspeccionar, às especificações técnicas a satisfazer, à habilitação dos inspectores, ao reconhecimento de certificados de inspecção emitidos por outros Estados membros e à criação de centros de inspecção oficialmente reconhecidos.
+
+A par, prevê-se proceder à inventariação de todos os equipamentos de aplicação de produtos fitofarmacêuticos, o que permite, entre outros aspectos, reunir um conjunto de informações importantes a considerar na reavaliação do regime de isenção de inspecção obrigatória agora adoptado.
+
+Salienta-se, igualmente, o papel preponderante dos centros de inspecção de equipamentos de aplicação de produtos fitofarmacêuticos na implementação do sistema, figura cuja existência vem corresponder às necessidades reconhecidas de várias entidades ligadas ao sector agrícola e que já vêm desenvolvendo uma meritória acção de inspecção e manutenção dos equipamentos em utilização, a título facultativo, na ausência de um quadro regulamentar específico.
+
+Tendo em conta estes antecedentes, é expectável uma significativa e abrangente adesão à constituição de centros de inspecção de equipamentos de aplicação de produtos fitofarmacêuticos, nos moldes agora estabelecidos.
+
+Por fim, importa referir que tendo em conta as várias vertentes do novo e amplo enquadramento legislativo comunitário, o presente decreto-lei procede à transposição da parte relativa aos equipamentos de aplicação de produtos fitofarmacêuticos, prevista no artigo 8.º da Directiva n.º <a href="eurlex.asp?ano=2009&id=309L0128" title="Link para Directiva da Comunidade Europeia">2009/128/CE</a>, do Parlamento Europeu e do Conselho, de 21 de Outubro, que estabelece um quadro de acção a nível comunitário para uma utilização sustentável dos pesticidas.
+
+Foi promovida a consulta ao Conselho Nacional do Consumo.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Artigo 27.º, Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960) Na redação introduzida pelo Decreto-Lei n.º 78/2020, de 29 de setembro, as referências legais a «Direção-Geral de Agricultura e Desenvolvimento Rural», a «DGADR» e ao «diretor-geral de Agricultura e Desenvolvimento Rural» consideram-se feitas, respetivamente, a «Direção-Geral de Alimentação e Veterinária», a «DGAV» e ao «diretor-geral de Alimentação e Veterinária»
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei estabelece o regime de inspecção obrigatória dos equipamentos de aplicação de produtos fitofarmacêuticos autorizados para uso profissional, transpondo para a ordem jurídica interna, na parte relativa aos equipamentos de aplicação de produtos fitofarmacêuticos, a Directiva n.º <a href="eurlex.asp?ano=2009&id=309L0128" title="Link para Directiva da Comunidade Europeia">2009/128/CE</a>, do Parlamento Europeu e do Conselho, de 21 de Outubro, que estabelece um quadro de acção a nível comunitário para uma utilização sustentável dos pesticidas e transpõe a Directiva n.º <a href="eurlex.asp?ano=2006&id=306L0123" title="Link para Directiva da Comunidade Europeia">2006/123/CE</a>, do Parlamento Europeu e do Conselho, de 12 de Dezembro.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - O presente decreto-lei aplica-se à inspecção obrigatória dos equipamentos de aplicação de produtos fitofarmacêuticos autorizados para uso profissional.
+
+2 - Para efeitos do presente decreto-lei, entende-se por equipamentos de aplicação de produtos fitofarmacêuticos os aparelhos especificamente destinados à aplicação de produtos fitofarmacêuticos, por meio terrestre ou aéreo, incluindo componentes e acessórios essenciais para o funcionamento eficaz desse equipamento, tais como bicos de pulverização, manómetros, filtros, crivos e dispositivos de limpeza dos depósitos.
+
+### Capítulo II — Inspecção de equipamentos de aplicação de produtos fitofarmacêuticos
+
+###### Artigo 3.º — Inspecção obrigatória
+
+1 - Os equipamentos de aplicação de produtos fitofarmacêuticos autorizados para uso profissional estão sujeitos a inspecções técnicas periódicas, nos termos previstos no presente decreto-lei.
+
+2 - O disposto no presente artigo não dispensa os utilizadores profissionais de, no exercício habitual da sua actividade, efectuarem com regularidade a calibração e a verificação técnica dos equipamentos de aplicação em utilização.
+
+3 - Para efeitos do disposto no presente decreto-lei, considera-se uso profissional o uso de produtos fitofarmacêuticos com venda autorizada para utilização por pessoas singulares ou colectivas, públicas ou privadas, que no exercício da sua actividade profissional se encontram legalmente habilitadas a manusear e aplicar produtos fitofarmacêuticos.
+
+4 - Sem prejuízo do disposto nos números anteriores, os operadores que colocam no mercado equipamentos de aplicação de produtos fitofarmacêuticos asseguram que os mesmos se encontram conformes com a legislação em vigor.
+
+> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30, produz efeitos a partir de 2020-10-29
+
+###### Artigo 4.º — Isenção de inspecção e condicionantes
+
+1 - Estão isentos de inspeção obrigatória os pulverizadores de dorso de aplicação manual de produtos fitofarmacêuticos.
+
+2 - (Revogado.)
+
+3 - O disposto no presente artigo não isenta os utilizadores profissionais de zelarem pela correcta regulação e manutenção periódica dos equipamentos, em particular, pela substituição dos componentes e acessórios desgastados ou danificados, bem como de efectuarem um bom uso dos equipamentos de aplicação de produtos fitofarmacêuticos.
+
+> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30, produz efeitos a partir de 2020-10-29
+
+###### Artigo 5.º — Entidades reconhecidas
+
+1 - As inspecções aos equipamentos de aplicação de produtos fitofarmacêuticos autorizados para uso profissional são realizadas por entidades, públicas ou privadas, reconhecidas pela Direcção-Geral de Agricultura e Desenvolvimento Rural (DGADR), designadas por centros de inspecção periódica obrigatória de equipamentos de aplicação de produtos fitofarmacêuticos (centros IPP).
+
+2 - As entidades reconhecidas dispõem do Manual do Centro IPP, documento identificativo da sua estrutura, meios e forma de funcionamento e do exercício de toda a sua atividade, incluindo todos os procedimentos de inspeção dos equipamentos de aplicação de produtos fitofarmacêuticos.
+
+3 - A DGADR procede à divulgação da relação dos centros IPP reconhecidos no respectivo sítio da Internet, acessível através do Portal da Empresa e do Cidadão, bem como no balcão único electrónico dos serviços.
+
+4 - A relação dos centros IPP reconhecidos é periodicamente comunicada pela DGADR à Comissão Europeia.
+
+> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30, produz efeitos a partir de 2020-10-29
+
+###### Artigo 6.º — Reconhecimento
+
+1 - As entidades a reconhecer como centros IPP devem comprovar por razões de interesse público que dispõem de:
+
+a) Pessoal habilitado a realizar as inspecções com formação reconhecida pela DGADR na área da inspecção dos equipamentos de aplicação dos produtos fitofarmacêuticos;
+
+b) Instalações, meios e equipamentos adequados à realização das inspecções que pretendam efectuar.
+
+2 - O pedido de reconhecimento é preenchido e entregue por via electrónica, através do sítio na Internet da DGADR, acessível através do Portal da Empresa e do Cidadão, bem como no balcão único electrónico dos serviços.
+
+3 - O requerente remete para a DGADR o Manual do Centro IPP, elaborado de acordo com o disposto no «Guia de requisitos e procedimentos para o reconhecimento dos centros IPP» aprovado pela DGADR e divulgado em permanência no seu sítio da Internet, acessível através do Portal da Empresa e do Cidadão, bem como no balcão único electrónico dos serviços.
+
+4 - A DGADR efectua a avaliação inicial do processo e, uma vez considerado completo, é proferida decisão, no prazo de 30 dias, sob pena de deferimento tácito.
+
+5 - Aos centros IPP é atribuído um certificado de reconhecimento emitido pela DGADR.
+
+6 - Os centros IPP reconhecidos são objeto de avaliações de acompanhamento para a verificação da manutenção dos requisitos de reconhecimento efetuadas pela DGAV de acordo com o definido no guia referido no n.º 3, não podendo o período entre reconhecimentos e as suas renovações exceder três anos.
+
+7 - O reconhecimento dos centros IPP pode, a todo o tempo, ser revogado a pedido dos próprios ou em consequência da verificação do não cumprimento do disposto no presente decreto-lei.
+
+> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30, produz efeitos a partir de 2020-10-29
+
+###### Artigo 7.º — Equipamentos provenientes de outros Estados membros
+
+1 - Os equipamentos de aplicação de produtos fitofarmacêuticos provenientes de outros Estados membros podem ser utilizados no País desde que:
+
+a) Tenham sido objecto de inspecção e de aprovação, nos termos previstos no presente decreto-lei; ou
+
+b) Tenham sido inspeccionados e aprovados nos Estados membros de origem, mediante apresentação dos respectivos comprovativos da inspecção efectuada.
+
+2 - Os equipamentos de aplicação de produtos fitofarmacêuticos a que se refere a alínea b) do número anterior ficam obrigatoriamente sujeitos a inspecção e a aprovação no território nacional sempre que o intervalo de tempo decorrido desde a data da realização da última inspecção efectuada no respectivo Estado membro seja superior a qualquer dos prazos de inspecção previstos no presente decreto-lei.
+
+###### Artigo 8.º — Inspecções e verificações técnicas
+
+1 - As inspecções aos equipamentos de aplicação de produtos fitofarmacêuticos são realizadas nos locais definidos pelos centros IPP.
+
+2 - Os centros IPP podem dispor de unidades móveis de inspecção.
+
+3 - As inspecções efectuadas pelos centros IPP têm em consideração o tipo de componentes a inspeccionar e devem obedecer às especificações técnicas constantes do anexo i ao presente decreto-lei, do qual faz parte integrante.
+
+4 - Os princípios de aprovação e de reprovação, bem como a tipologia das anomalias verificadas nas inspecções e nas reinspecções que condicionam a aprovação dos equipamentos, constam do anexo ii ao presente decreto-lei, do qual faz parte integrante.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30, produz efeitos a partir de 2020-10-29
+
+###### Artigo 8.º-A — Requisitos de inspeção, aprovação e reprovação de equipamentos
+
+1 - As inspeções aos equipamentos de aplicação de produtos fitofarmacêuticos são realizadas em instalações fixas e/ou em unidades móveis, e em locais definidos pelos centros IPP, escolhidos de acordo com os requisitos legais aplicáveis, nomeadamente em matéria de proteção do ambiente e dos recursos hídricos.
+
+2 - A DGAV elabora um boletim técnico denominado «Equipamentos de aplicação de produtos fitofarmacêuticos: Metodologia para averiguar os requisitos de inspeção determinantes da aprovação ou reprovação dos equipamentos, verificados por medição», desenvolvido com base nas exigências sanitárias, de segurança e ambientais para inspeção dos equipamentos de aplicação de produtos fitofarmacêuticos previstas no anexo do presente decreto-lei, do qual faz parte integrante.
+
+3 - O Boletim Técnico é publicitado em permanência no sítio na Internet da DGAV e atualizado sempre que necessário tendo em conta o progresso técnico relativo às exigências de inspeção dos equipamentos de aplicação de produtos fitofarmacêuticos, sendo as respetivas atualizações notificadas de imediato aos centros IPP.
+
+4 - As inspeções efetuadas pelos centros IPP têm em consideração o tipo de componentes a inspecionar e devem obedecer às especificações técnicas constantes do anexo do presente decreto-lei.
+
+5 - São reprovados os equipamentos de aplicação de produtos fitofarmacêuticos que numa inspeção e de acordo com a tipologia das anomalias expressas no Boletim Técnico vigente:
+
+a) Apresentem pelo menos uma anomalia importante; e/ou
+
+b) Apresentem mais de duas anomalias menores; e/ou
+
+c) Mantenham qualquer anomalia menor detetada na inspeção precedente.
+
+> Aditado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30, produz efeitos a partir de 2020-10-29
+
+###### Artigo 9.º — Comprovativos de inspecção
+
+1 - Os centros IPP emitem certificado eletrónico de cada inspeção efetuada aos equipamentos de aplicação de produtos fitofarmacêuticos, conforme o modelo aprovado pela Portaria n.º 305/2013, de 18 de outubro, na sua redação atual.
+
+2 - Das inspecções efectuadas é guardado registo, durante cinco anos, nomeadamente da identificação dos equipamentos e seus proprietários ou detentores.
+
+3 - O equipamento aprovado é identificado por selo aposto pelo centro IPP que efetuou a inspeção, devendo ser claramente visível e colocado de forma firme e duradoura, conforme o modelo aprovado pela Portaria n.º 305/2013, de 18 de outubro, na sua redação atual.
+
+4 - Só é permitida a utilização de equipamentos de aplicação de produtos fitofarmacêuticos que tenham aposto o respectivo selo válido.
+
+5 - (Revogado.)
+
+6 - Sem prejuízo do disposto no n.º 4, em caso de perda ou destruição do selo, a apresentação do certificado de inspeção válido faz prova de inspeção com aprovação do equipamento.
+
+> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30, produz efeitos a partir de 2020-10-29
+
+###### Artigo 10.º — Reinspecção de equipamentos reprovados
+
+Os equipamentos de aplicação de produtos fitofarmacêuticos reprovados em inspecção podem ser sujeitos a reinspecção a realizar no prazo máximo de 90 dias contados da data da reprovação em inspecção ou em reinspecção, não podendo ser utilizados até à sua aprovação.
+
+###### Artigo 11.º — Registo de dados
+
+A DGADR dispõe de um registo em base de dados da actividade de inspecção de equipamentos de aplicação de produtos fitofarmacêuticos, excluindo quaisquer dados pessoais relativos ao proprietário e utilizador do mesmo, com acesso de carregamento e consulta pelos centros IPP e de consulta pelas direcções regionais de agricultura e pescas (DRAP).
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30, produz efeitos a partir de 2020-10-29
+
+###### Artigo 11.º-A — Gestão da atividade de inspeção de equipamentos
+
+1 - É criado o Sistema de Gestão da Inspeção de Equipamentos de Aplicação de Produtos Fitofarmacêuticos (SIGECIPP), que constitui o sistema de registo da atividade de inspeção de equipamentos de aplicação de produtos fitofarmacêuticos.
+
+2 - O SIGECIPP está disponível aos centros IPP, para o registo da inspeção realizada aos equipamentos de aplicação de produtos fitofarmacêuticos e seus proprietários ou detentores, bem como para consulta pelos próprios e pelas entidades com competências de fiscalização.
+
+3 - Os centros IPP devem assegurar que os dados relativos aos equipamentos de aplicação de produtos fitofarmacêuticos são carregados no SIGECIPP no prazo de 10 dias após a realização de cada inspeção.
+
+4 - Ao tratamento, segurança, conservação, acesso e proteção dos dados pessoais constantes do SIGECIPP é aplicável o disposto na legislação e regulamentação relativa à proteção de dados pessoais, nomeadamente a Lei n.º 58/2019, de 8 de agosto.
+
+> Aditado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30, produz efeitos a partir de 2020-10-29
+
+###### Artigo 12.º — Inventariação de equipamentos
+
+A DGADR, com a colaboração das DRAP, promove as acções necessárias à inventariação dos equipamentos de aplicação de produtos fitofarmacêuticos, nos termos a definir por portaria do membro do Governo responsável pela área da agricultura.
+
+> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30, produz efeitos a partir de 2020-10-29
+
+### Capítulo III — Regime contra-ordenacional
+
+###### Artigo 13.º — Fiscalização, instrução e decisão
+
+1 - Sem prejuízo das competências atribuídas por lei a outras entidades, a inspeção e fiscalização do cumprimento do disposto no presente decreto-lei compete às DRAP.
+
+2 - O levantamento dos autos e a instrução dos processos de contra-ordenação é da competência da DRAP da área da prática da contra-ordenação.
+
+3 - A aplicação das coimas e sanções acessórias compete ao diretor-geral de Alimentação e Veterinária.
+
+4 - A afetação do produto das coimas previstas no artigo seguinte faz-se da seguinte forma:
+
+a) 10 % para a autoridade autuante;
+
+b) 15 % para a entidade que procedeu à instrução do processo;
+
+c) 15 % para a DGAV;
+
+d) 60 % para o Estado.
+
+> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30, produz efeitos a partir de 2020-10-29
+
+###### Artigo 14.º — Contra-ordenações
+
+1 - As seguintes infracções constituem contra-ordenações puníveis com coima cujo montante mínimo é de (euro) 250 e máximo de (euro) 3700, ou mínimo de (euro) 500 e máximo de (euro) 44 000, consoante o agente seja pessoa singular ou colectiva:
+
+a) A utilização de equipamentos de aplicação de produtos fitofarmacêuticos que não tenham sido aprovados em inspeção nos prazos previstos no artigo 18.º;
+
+b) A utilização de equipamentos de aplicação de produtos fitofarmacêuticos provenientes de outros Estados membros que não tenham sido aprovados em inspecção ou para os quais não sejam apresentados os respectivos comprovativos da inspecção efectuada, em violação do disposto no artigo 7.º;
+
+c) As inspeções efetuadas que não obedeçam aos requisitos previstos nos n.os 4 e 5 do artigo 8.º-A;
+
+d) O incumprimento, pelos centros IPP, da guarda do registo previsto no n.º 2 do artigo 9.º;
+
+e) A utilização de equipamentos de aplicação de produtos fitofarmacêuticos para os quais não seja apresentado um certificado de inspeção válido com a aprovação do equipamento, em violação do disposto no n.º 5 do artigo 9.º;
+
+f) (Revogada.)
+
+g) A ausência de registo no SIGECIPP ou a sua realização fora de prazo, conforme estabelecido nos termos dos n.os 2 e 3 do artigo 11.º-A.
+
+2 - A negligência e a tentativa são puníveis, sendo neste caso reduzidos para metade os montantes mínimos e máximos referidos no número anterior.
+
+> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30, produz efeitos a partir de 2020-10-29
+
+###### Artigo 15.º — Sanções acessórias
+
+Em função da gravidade da infracção e da culpa do agente, podem ser aplicadas, simultaneamente com as coimas, as seguintes sanções acessórias:
+
+a) Perda de objectos pertencentes ao agente;
+
+b) Interdição do exercício de profissões ou actividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;
+
+c) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;
+
+d) Privação do direito de participar em feiras ou mercados;
+
+e) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;
+
+f) Suspensão de autorizações, licenças e alvarás.
+
+### Capítulo IV — Disposições finais e transitórias
+
+###### Artigo 16.º — Taxas
+
+Pelos serviços prestados inerentes ao reconhecimento e manutenção dos centros IPP, emissão de certificados e selos de inspeção, são devidas taxas previstas na Portaria n.º 305/2013, de 18 de outubro, na sua redação atual.
+
+> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30, produz efeitos a partir de 2020-10-29
+
+###### Artigo 17.º — Custos de inspecção
+
+Os custos das inspeções e reinspeções de equipamentos de aplicação de produtos fitofarmacêuticos praticados pelos centros IPP podem ser tabelados e sujeitos aos montantes fixados por portaria dos membros do Governo responsáveis pelas áreas da agricultura e das finanças.
+
+> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30, produz efeitos a partir de 2020-10-29
+
+###### Artigo 18.º — Prazos de inspecção
+
+1 - A partir de 26 de Novembro de 2016 só podem ser utilizados equipamentos de aplicação de produtos fitofarmacêuticos que tenham sido aprovados em inspecção, com excepção dos equipamentos novos referidos no n.º 4 e ainda não sujeitos à primeira inspecção.
+
+2 - Até 31 de Dezembro de 2019 os equipamentos de aplicação de produtos fitofarmacêuticos devem ser inspeccionados e aprovados de cinco em cinco anos.
+
+3 - A partir de 1 de Janeiro de 2020 os equipamentos de aplicação de produtos fitofarmacêuticos devem ser inspeccionados e aprovados de três em três anos.
+
+4 - Os equipamentos novos de aplicação de produtos fitofarmacêuticos, adquiridos a partir da data da entrada em vigor do presente decreto-lei, devem ser sujeitos à primeira inspecção e aprovação, no prazo de cinco ou de três anos, após a data de aquisição, em conformidade com o disposto nos n.os 2 e 3.
+
+5 - Os equipamentos de aplicação de produtos fitofarmacêuticos não utilizados para pulverização e os equipamentos utilizados para aplicação em pulverização manual devem ser inspecionados e aprovados de cinco em cinco anos.
+
+6 - Os equipamentos adquiridos ou inspecionados até à data referida no n.º 2 mantêm a validade da respetiva inspeção, sem prejuízo do disposto no n.º 3.
+
+> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30, produz efeitos a partir de 2020-10-29
+
+###### Artigo 18.º-A — Regiões Autónomas
+
+1 - Sem prejuízo das competências atribuídas por lei à DGAV, os atos e procedimentos necessários à execução do presente decreto-lei nas Regiões Autónomas dos Açores e da Madeira competem às respetivas administrações regionais com atribuições e competências nas matérias em causa.
+
+2 - O produto das coimas resultantes das contraordenações previstas no presente decreto-lei, quando aplicadas nas regiões autónomas, constitui receita própria destas.
+
+> Aditado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30, produz efeitos a partir de 2020-10-29
+
+###### Artigo 19.º — Reavaliação
+
+A análise dos dados recolhidos na inventariação dos equipamentos de aplicação em utilização e da disponibilidade de métodos e meios de avaliação, referida no artigo 12.º, permite fundamentar a necessidade de reavaliação do regime da isenção de inspecção obrigatória dos equipamentos de aplicação de produtos fitofarmacêuticos, prevista no artigo 4.º
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30, produz efeitos a partir de 2020-10-29
+
+###### Artigo 20.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 90 dias após a sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 8 de Abril de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Alberto de Sousa Martins - José António Fonseca Vieira da Silva - António Manuel Soares Serrano - Dulce dos Prazeres Fidalgo Álvaro Pássaro - Ana Maria Teodoro Jorge.
+
+Promulgado em 1 de Julho de 2010.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 5 de Julho de 2010.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## Anexo — Exigências sanitárias, de segurança e ambientais para a inspecção dos equipamentos de aplicação de produtos fitofarmacêuticos
+
+1 - Inspecção e objectivos - a inspecção do equipamento de aplicação de produtos fitofarmacêuticos deve cobrir todos os aspectos importantes para alcançar um elevado nível de segurança e protecção da saúde humana e do ambiente. A plena eficácia da operação de aplicação deve ser garantida através do funcionamento adequado dos dispositivos e funcionalidades do equipamento a fim de assegurar que o equipamento de aplicação funcione correctamente e seja utilizado de forma adequada ao fim a que se destina, garantindo que os produtos fitofarmacêuticos sejam rigorosamente doseados e distribuídos; que o equipamento esteja em condições de ser cheio e esvaziado de forma segura, fácil e completa, evitando a fuga do produto fitofarmacêutico; que o equipamento permita uma limpeza fácil e completa e permita a realização de operações seguras, o seu controlo e paragem imediata a partir do assento do aplicador, se for o caso, devendo, sempre que se revelem necessários, serem efectuados ajustamentos simples, precisos e reprodutíveis.
+
+As inspecções têm em consideração o tipo de componentes a inspeccionar e devem obedecer às especificações técnicas, de acordo com o disposto nos números seguintes.
+
+2 - Componentes que devem ser inspeccionados:
+
+2.1 - Transmissão de potência por veio de cardans;
+
+2.2 - Bomba;
+
+2.3 - Agitação;
+
+2.4 - Depósito;
+
+2.5 - Regulação, medição e controlo;
+
+2.6 - Tubagens e ligações;
+
+2.7 - Filtros;
+
+2.8 - Barra de pulverização;
+
+2.9 - Bicos;
+
+2.10 - Ventilador.
+
+3 - Especificações técnicas de inspecção:
+
+3.1 - Transmissão de potência por veio de cardans - o veio telescópico de cardans e o seu resguardo de protecção devem estar devidamente montados e em bom estado e os dispositivos de protecção, assim como qualquer componente deste mecanismo de transmissão de potência, não podem estar afectados na sua função, assegurando a protecção do operador.
+
+3.2 - Bomba - a capacidade da bomba tem de ser apropriada às exigências do equipamento e a bomba deve funcionar adequadamente para assegurar uma distribuição de calda constante e uniforme. Não podem existir fugas de líquido da bomba.
+
+3.3 - Agitação - o dispositivo de agitação tem de assegurar uma recirculação de líquido de forma a manter um nível constante de concentração de toda a calda no depósito.
+
+3.4 - Depósito de calda - os depósitos de pulverização, incluindo os indicadores de nível, os dispositivos de enchimento, os crivos e filtros, os dispositivos de esvaziamento e enxaguamento e os dispositivos de mistura devem funcionar de modo a minimizar derrames acidentais, pulverizações de concentração heterogénea, a exposição dos aplicadores e o volume residual.
+
+3.5 - Sistemas de medição e sistemas de comando e de regulação - todos os dispositivos de medição, de entrada em funcionamento e de paragem e de regulação da pressão e ou do caudal devem ser bem calibrados e funcionar de modo fiável e sem fugas. Durante a aplicação deve ser possível e fácil comandar a pressão e accionar os dispositivos de regulação da pressão. Para que o débito de calda por unidade de superfície se mantenha estável, os dispositivos de regulação da pressão devem manter uma pressão de serviço constante para um regime constante da bomba.
+
+3.6 - Tubagens e ligações - as tubagens e ligações devem estar em condições apropriadas para evitar irregularidade no fluxo do líquido ou fugas acidentais no caso de deficiência. Não se podem verificar fugas dos tubos nem das ligações com o pulverizador a funcionar com a pressão máxima indicada pelo fabricante.
+
+3.7 - Filtros - com objectivo de evitar heterogeneidade na distribuição de líquido, os filtros têm de estar em boas condições e a medida da malha dos filtros deve corresponder à medida de malha recomendada pelo fabricante.
+
+3.8 - Barra de pulverização - no equipamento de pulverização com barras horizontais localizadas na proximidade da cultura ou do material para tratar, a barra de pulverização deve estar em boas condições e estável em todas as direcções. O sistema de fixação e de ajustamento, os dispositivos de amortecimento de agitação e de compensação de inclinação devem funcionar apropriadamente.
+
+3.9 - Bicos - os bicos de pulverização devem trabalhar convenientemente e impedir o gotejamento quando a pulverização é parada. Para garantir a uniformidade da pulverização, o valor do débito individual de cada bico não deve afastar-se significativamente do valor tabelado pelo fabricante.
+
+3.10 - Ventilador - no equipamento de pulverização assistida por ar o ventilador deve ter resguardo para impossibilitar o contacto do operador com o material móvel, estar em boas condições e assegurar um fluxo de ar fiável e estável.
+
+4 - O cumprimento dos requisitos de inspeção estabelecidos no Boletim Técnico é aplicável à inspeção de pulverizadores e de outros equipamentos de aplicação de produtos fitofarmacêuticos e pressupõe a conformidade com as especificações técnicas de inspeção referidas nos números anteriores.
+
+> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30, produz efeitos a partir de 2020-10-29
+
+## Anexo II
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30, produz efeitos a partir de 2020-10-29
+
+## Parte A — Princípios da aprovação e reprovação
+
+1 - São reprovados os equipamentos de aplicação de produtos fitofarmacêuticos que numa inspecção:
+
+a) Apresentem pelo menos uma anomalia importante; e ou
+
+b) Apresentem mais de duas anomalias menores; e ou
+
+c) Apresentem qualquer anomalia menor detectada na inspecção precedente.
+
+2 - São reprovados os equipamentos de aplicação de produtos fitofarmacêuticos que numa reinspecção apresentem as anomalias que conduziram à reprovação na inspecção precedente.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30, produz efeitos a partir de 2020-10-29
+
+## Parte B — Anomalias, reprovação e reinspecção de pulverizadores
+
+1 - Lista das anomalias:
+
+Nota. - O incumprimento de um requisito representa uma anomalia, menor ou importante, de acordo com os quadros seguintes.
+
+1.1 - Pulverizadores para culturas baixas e pulverizadores de pressão hidráulica para culturas arbustivas e arbóreas:
+
+(ver documento original)
+
+1.2 - Pulverizadores para culturas baixas:
+
+(ver documento original)
+
+1.3 - Pulverizadores de pressão hidráulica para culturas arbustivas e arbóreas:
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30, produz efeitos a partir de 2020-10-29

@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004L0008:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0008-20140605",
+ "dre_path": null,
+ "source_lastmod": "2014-06-05",
+ "versions": [
+  {
+   "date": "2014-06-05",
+   "future": false,
+   "celex": "02004L0008-20140605",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3c0644ac119abe59"
+   ]
+  }
+ ],
+ "fragments": {
+  "3c0644ac119abe59": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2004L0008 — PT — 05.06.2014 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32004L0008) [DIRECTIVA 2004/8/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32004L0008) [de 11 de Fevereiro de 2004](http://publications.europa.eu/resource/celex/32004L0008) [relativa à promoção da cogeração com base na procura de calor útil no mercado interno da energia e que altera a Directiva 92/42/CEE](http://publications.europa.eu/resource/celex/32004L0008) (JO L 052, 21.2.2004, p.50)\n\n**revogado por:**\n\n- [Diretiva 2012/27/UE do Parlamento Europeu e do Conselho de 25 de outubro de 2012](http://publications.europa.eu/resource/celex/32012L0027) — L 315 — 1 — 14.11.2012"
+  }
+ }
+}

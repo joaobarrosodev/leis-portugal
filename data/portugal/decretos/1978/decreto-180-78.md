@@ -1,0 +1,182 @@
+---
+schema_version: '1.0'
+id: pt:dre:274212:por
+title: Decreto n.º 180/78
+short_title: null
+summary: Autoriza as delegações da Direcção-Geral da Contabilidade Pública a mandar satisfazer diversas quantias em conta
+  das verbas orçamentais de despesas de anos findos
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Orçamento - Direcção-Geral da Contabilidade Pública
+proposing_entity: null
+official_number: 180/78
+official_date: null
+publication_date: '1978-12-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 299/1978, 7º Suplemento, Série I de 1978-12-30
+  number: '299'
+  series: I
+  supplement: null
+  pages: 2798-(122) a 2798-(123)
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/12/29907/01220123.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '274212'
+  dre_path: /dr/detalhe/decreto/180-1978-274212
+  internal: pt:dre:274212:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/180-1978-274212
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/180-1978-274212
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:50:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 9b30f189d009592d66497c5f71b85934522e9bf734473a18fd0a8427f048475d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:50:01Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Despesas Públicas
+- Direcção Geral da Contabilidade Pública
+- Encargos Gerais da Nação
+- Gestão Orçamental
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582381:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:50:01Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 180/78
+
+de 30 de Dezembro
+
+Por se encontrarem abrangidas pelo disposto na parte final do artigo 7.º do [Decreto-Lei n.º 439-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-a-1977-582381), de 25 de Outubro, com fundamento no artigo 3.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, mediante propostas aprovadas nos termos deste artigo:
+
+O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
+
+Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta das competentes verbas orçamentais de despesas de anos findos, as seguintes quantias:
+
+Encargos Gerais da Nação
+
+Despesas do ano de 1977 pertencentes à Secretaria-Geral da Presidência da República ... 17640$00
+
+Defesa Nacional - Estado-Maior-General das Forças Armadas
+
+Encargos dos anos de 1975 e 1976 resultantes do valor locativo do prédio sito na Rua de Castilho, 50, em Lisboa, durante o período de ocupação por parte dos serviços militares dependentes do Estado-Maior-General das Forças Armadas ... 17333000$00
+
+Ministério das Finanças e do Plano
+
+Despesas dos anos de 1972 a 1977 contraídas pelos Gabinetes do Ministro, Secretário de Estado do Planeamento e ex-Secretaria de Estado da Coordenação Económica, Direcções-Gerais das Contribuições e Impostos, do Tesouro e das Alfândegas, Alfândega de Lisboa, Secretaria-Geral do ex-Ministério do Plano e Coordenação Económica, Institutos Geográfico e Cadastral e de Informática, Guarda Fiscal, Direcções de Finanças dos Distritos de Évora, Faro, Guarda, Leiria, Lisboa, Portalegre, Porto, Setúbal, Viana do Castelo, Vila Real e Horta e tesourarias de Leiria, Lisboa e Horta ... 33411836$50
+
+Ministério da Justiça
+
+Encargos dos anos de 1976 e 1977 a liquidar pela Direcção-Geral dos Serviços Prisionais, Cadeia Central de Mulheres e Instituto de Reeducação Padre António de Oliveira ... 14689$50
+
+Ministério dos Negócios Estrangeiros
+
+Encargos dos anos de 1972 a 1977 contraídos por diversos serviços internos e externos e missões diplomáticas acreditadas no estrangeiro ... 86463518$00
+
+Ministério da Habitação e Obras Públicas
+
+Despesas dos anos de 1975, 1976 e 1977 pertencentes à Secretaria-Geral do Ministério, Secretaria de Estado do Ambiente, Serviço de Estudos do Ambiente e Gabinete do Ministro ... 18796141$70
+
+Ministério da Educação e Cultura
+
+Encargos dos anos de 1972, 1974 a 1977, contraídos pelos Liceus Nacionais de Ferreira de Castro, de Faro, do Dr. Manuel Laranjeira, de D. Filipa de Lencastre, de Sá da Bandeira, em Santarém, de Sintra, de Almada; Escolas Industriais e Comerciais de Vila Nova de Famalicão, de Faro, de D. Luísa de Gusmão, de Alfredo da Silva, no Barreiro; Faculdade de Ciências e Tecnologia da Universidade de Coimbra, Faculdade de Letras da Universidade do Porto; Escolas Preparatórias do Prof. Paula Nogueira, do Mestre de Avis, de Raul Brandão, de Francisco Manuel de Melo, de António Sérgio, do Conde de Sabugosa, de Eugénio dos Santos, da Marquesa de Alorna, de Luís de Camões, de D. Afonso III, de Conde de Oeiras, de D. João V, em Mafra, de Alter do Chão, de João Lúcio de Azevedo, de Teixeira Lopes, de Paula Vicente, do Padre Dr. José Maria Rodrigues, de Soares dos Reis, de Francisco Torrinha, de Gaspar Correia, do Poeta Manuel da Silva Gaio, da Prof.ª Arminda Sanches; Escolas Secundárias de Soure, de Vouzela, de Torre de Moncorvo, de Vendas Novas, de Vila do Conde, de Vila Franca de Xira, de Marco de Canaveses, de Carvalhos; Escola Superior de Belas-Artes do Porto, Inspecção-Geral do Ensino Particular, Secretaria de Estado do Ensino Superior e Estádio Nacional ... 2659571$90
+
+Ministério da Agricultura e Pescas
+
+Despesas dos anos de 1976 e 1977 pertencentes aos Gabinetes do Ministro e do Secretário de Estado das Pescas, do ex-Gabinete de Coordenação, ex-Direcções-Gerais do Planeamento e Fomento das Pescas e da Investigação e Protecção dos Recursos Vivos e do Ambiente Aquático ... 1115226$80
+
+Ministério do Comércio e Turismo
+
+Encargos do ano de 1977 a liquidar pela Secretaria-Geral e Direcção-Geral da Fiscalização Económica ... 216860$90
+
+Ministério dos Transportes e Comunicações
+
+Despesas dos anos de 1976 e 1977 contraídas pelo Gabinete do Secretário de Estado da Marinha Mercante, Direcções-Gerais da Aeronáutica Civil, de Viação e do Pessoal do Mar e Instituto Nacional de Meteorologia e Geofísica ... 439572$60
+
+Ministério do Trabalho
+
+Encargos dos anos de 1975 a 1977 pertencentes ao Gabinete do Ministro, Secretaria-Geral, Direcção-Geral do Trabalho e das Relações Colectivas do Trabalho, da Promoção do Emprego e do Emprego, Gabinetes das Secretarias de Estado da População e Emprego e do Trabalho, Delegações de Aveiro, Beja, Braga, Bragança, Castelo Branco, Faro, Guarda, Leiria, Lisboa, Porto, Santarém, Setúbal, Viana do Castelo, Vila Real, Viseu e Vila França de Xira, Serviço de Informação Científica e Técnica e Gabinete de Estudos, Planeamento e Organização ... 2826083$80
+
+Art. 2.º Fica igualmente autorizada a 6.ª Delegação da Direcção-Geral da Contabilidade Pública a mandar satisfazer em conta da dotação consignada no cap. 70 «Despesas comuns», C. E. 44.06, do actual orçamento do Departamento da Marinha a quantia de 557114$30, resultante de despesas dos anos de 1972 e 1977.
+
+Art. 3.º Ficam também autorizados a satisfazer as quantias seguidamente indicadas pelas verbas de despesas de anos findos, dos seus actuais orçamentos privativos, os seguintes serviços:
+
+Gabinete de Estudos e Planeamento do Ministério da Educação e Cultura
+
+Encargo do ano de 1977 ... 13829$00
+
+Administração-Geral do Porto de Lisboa
+
+Despesas dos anos de 1961 a 1965 ... 155543$30
+
+Provedoria da Casa Pia de Lisboa
+
+Encargos dos anos de 1956 a 1977 ... 744$00
+
+Serviço de Luta Antituberculosa
+
+Despesas do ano de 1977 ... 799$50
+
+Escola de Enfermagem de S. João de Deus
+
+Encargo do ano de 1977 ... 111532$00
+
+Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - José Alberto Loureiro dos Santos - Álvaro Pereira da Silva Leal Monjardino - António Gonçalves Ribeiro - Eduardo Henriques da Silva Correia - João Carlos Lopes Cardoso de Freitas Cruz - Apolinário José Barbosa da Cruz Vaz Portugal - Álvaro Roque de Pinho Bissaia Barreto - Abel Pinto Repolho Correia - Eusébio Marques de Carvalho - Luís Francisco Valente de Oliveira - Acácio Manuel Pereira Magro - José Ricardo Marques da Costa - João Orlindo Almeida Pina - Daniel Proença de Carvalho.
+
+Promulgado em 30 de Dezembro de 1978.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -1,0 +1,189 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:571254:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1990-137924821",
+ "dre_path": "/dr/detalhe/decreto-lei/150-1990-571254",
+ "source_lastmod": "2025-06-06",
+ "versions": [
+  {
+   "date": "1990-05-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "137808271",
+    "137808272",
+    "137808273",
+    "137808274",
+    "137938075",
+    "137938076",
+    "137938077",
+    "137938078",
+    "137938079",
+    "137938080"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "137808271",
+    "137808272",
+    "137808273",
+    "921690423",
+    "137938075",
+    "921690424",
+    "921690425",
+    "921690426",
+    "137938079",
+    "137938080",
+    "137938081"
+   ]
+  }
+ ],
+ "fragments": {
+  "137808271": {
+   "fragment_id": "137924822",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 150/90\n\nde 10 de Maio\n\nSegundo os estudos efectuados pela Comissão das Comunidades Europeias, é bastante elevado o número de pessoas que, anualmente, no espaço comunitário, são vítimas de acidentes com produtos de consumo, excluídos os acidentes de trabalho e viação.\n\nEm Portugal, onde a protecção da saúde e da segurança constitui um direito dos consumidores legalmente garantido, a situação é igualmente preocupante, sobretudo no domínio dos acidentes com crianças.\n\nPretende o presente diploma adoptar medidas tendentes a impedir o fabrico, a importação, a exportação ou a comercialização de produtos, vulgarmente conhecidos por imitações perigosas, contribuindo assim para a prevenção destes acidentes.\n\nDo mesmo passo, dá-se cumprimento ao disposto na Directiva n.º <a href=\"eurlex.asp?ano=1987&id=387L0357\" title=\"Link para Directiva da Comunidade Europeia\">87/357/CEE</a>, do Conselho, de 25 de Junho, respeitante aos produtos que, não possuindo a aparência do que são, comprometem a saúde ou a segurança dos consumidores.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "137808272": {
+   "fragment_id": "137924823",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nO presente diploma aplica-se a todos os produtos que, por constituírem imitação de outros produtos, são susceptíveis de fazer perigar a saúde e segurança dos consumidores, designadamente asfixias, intoxicações, perfurações ou obstruções do aparelho digestivo."
+  },
+  "137808273": {
+   "fragment_id": "137924824",
+   "type": 11,
+   "heading": "Artigo 2.º — Proibição de fabrico e comercialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Proibição de fabrico e comercialização\n\n1 - São proibidos o fabrico, a comercialização, a importação e a exportação, incluindo os tráfegos com as Comunidades Europeias, de quaisquer produtos abrangidos pelo presente diploma.\n\n2 - As proibições referidas no número anterior abrangem, nomeadamente, as seguintes categorias de produtos:\n\na) Aqueles que, não sendo géneros alimentícios, possuam o aspecto, a forma, a cor, o cheiro, o acondicionamento, a rotulagem, o volume, as dimensões, ou qualquer combinação destas características, susceptíveis de induzir os consumidores, em especial as crianças, a confundi-los com produtos alimentares;\n\nb) Aqueles cuja aparência incite os consumidores a dar-lhes uma utilização diferente daquela para que foram concebidos."
+  },
+  "137808274": {
+   "fragment_id": "137924825",
+   "type": 11,
+   "heading": "Artigo 3.º — Ilícito e mera ordenação social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Ilícito e mera ordenação social\n\n1 - A violação do disposto no artigo 2.º do presente diploma constitui contra-ordenação punível com coima de 25000$00 a 500000$00.\n\n2 - No caso de a infracção ser praticada por pessoa colectiva, o montante máximo da coima aplicável eleva-se a 6000000$00.\n\n3 - A tentativa e a negligência são punidas."
+  },
+  "137938075": {
+   "fragment_id": "137924826",
+   "type": 11,
+   "heading": "Artigo 4.º — Advertência, recomendação e aviso público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Advertência, recomendação e aviso público\n\n1 - A verificação da existência de produtos nas condições previstas no presente diploma será seguida, sempre que as circunstâncias o aconselhem, de uma advertência e de uma recomendação dirigidas ao fabricante, importador, exportador ou comerciante daqueles produtos, no sentido de suprimirem a sua perigosidade.\n\n2 - Sempre que a recomendação referida no número anterior não seja acatada, ou as circunstâncias do caso o exijam, será emitido aviso adequado ao público, contendo, além de uma descrição tão precisa quanto possível do produto em causa, a identificação do risco que pode resultar da sua utilização e quaisquer outros elementos que se considerem necessários."
+  },
+  "137938076": {
+   "fragment_id": "137924827",
+   "type": 11,
+   "heading": "Artigo 5.º — Medidas preventivas e sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Medidas preventivas e sanções acessórias\n\n1 - Os produtos nas condições previstas no presente diploma devem ser imediatamente apreendidos e retirados do mercado, nos termos do artigo 74.º do Decreto-Lei n.º 28/84, de 20 de Janeiro.\n\n2 - Cumulativamente com a coima prevista no artigo 3.º a violação do disposto no artigo 2.º pode ainda determinar, a título de sanção acessória e nos termos da lei geral, a interdição do exercício da profissão ou actividade em causa."
+  },
+  "137938077": {
+   "fragment_id": "137924828",
+   "type": 11,
+   "heading": "Artigo 6.º — Destino da receita das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Destino da receita das coimas\n\nA receita das coimas previstas no presente diploma tem a seguinte distribuição:\n\na) 60% para a Direcção-Geral de Inspecção Económica;\n\nb) 40% para o Estado."
+  },
+  "137938078": {
+   "fragment_id": "137924829",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competências\n\n1- Compete à Comissão para a Segurança de Serviços e Bens de Consumo, prevista no artigo 3.º do Decreto-Lei n.º 213/87, de 28 de Maio:\n\na) Determinar quais os produtos que, por não possuírem a aparência do que são, sejam susceptíveis de implicar perigo para a saúde e segurança dos consumidores;\n\nb) Emitir a advertência, a recomendação e o aviso público referidos no artigo 3.º do presente diploma;\n\nc) Comunicar à Comissão das Comunidades Europeias as decisões finais tomadas relativamente aos produtos a que o presente diploma se aplica.\n\n2 - Incumbe à Direcção-Geral de Inspecção Económica a investigação e a instrução dos processos relativos a contra-ordenações previstas neste diploma, findas as quais os remeterá à Comissão da Aplicação de Coimas em Matéria Económica, criada pelo Decreto-Lei n.º 28/84, de 20 de Janeiro, para aplicação de sanções.\n\n3 - Das decisões definitivas tomadas nos processos de contra-ordenação será dado conhecimento à Comissão de Segurança de Serviços e Bens de Consumo."
+  },
+  "137938079": {
+   "fragment_id": "137924830",
+   "type": 11,
+   "heading": "Artigo 8.º — Associações de defesa dos consumidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Associações de defesa dos consumidores\n\nAs associações de defesa dos consumidores são admitidas a intervir nos processos contra-ordenacionais por si desencadeados, nos termos do presente diploma e do artigo 44.º do Decreto-Lei n.º 28/84, de 20 de Janeiro."
+  },
+  "137938080": {
+   "fragment_id": "137924831",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia 1 de Outubro de 1990."
+  },
+  "921690423": {
+   "fragment_id": "137924825",
+   "type": 11,
+   "heading": "Artigo 3.º — Contraordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 3.º — Contraordenações\n\n1 - A violação do disposto no artigo 2.º do presente diploma constitui contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).\n\n2 - (Revogado.)\n\n3 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "921690424": {
+   "fragment_id": "137924827",
+   "type": 11,
+   "heading": "Artigo 5.º — Medidas preventivas e sanções acessórias",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 5.º — Medidas preventivas e sanções acessórias\n\n1 - Os produtos nas condições previstas no presente diploma devem ser imediatamente apreendidos e retirados do mercado, nos termos do RJCE.\n\n2 - Cumulativamente com a coima prevista no artigo 3.º a violação do disposto no artigo 2.º pode ainda determinar, a título de sanção acessória e nos termos do RJCE, a interdição do exercício da profissão ou atividade em causa.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "921690425": {
+   "fragment_id": "137924828",
+   "type": 11,
+   "heading": "Artigo 6.º — Distribuição do produto da coima",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 6.º — Distribuição do produto da coima\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "921690426": {
+   "fragment_id": "137924829",
+   "type": 11,
+   "heading": "Artigo 7.º — Entidades competentes",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28",
+    "Retificado pelo/a [Declaração - Diário da República n.º 175/1990, 1º Suplemento, Série I de 1990-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-644097), produz efeitos a partir de 1990-07-31"
+   ],
+   "markdown": "###### Artigo 7.º — Entidades competentes\n\n1 - Compete à Direção-Geral do Consumidor (DGC):\n\na) Determinar quais os produtos que, por não possuírem a aparência do que são, sejam susceptíveis de implicar perigo para a saúde e segurança dos consumidores;\n\nb) Emitir a advertência, a recomendação e o aviso público referidos no artigo 4.º do presente diploma;\n\nc) Comunicar à Comissão das Comunidades Europeias as decisões finais tomadas relativamente aos produtos a que o presente diploma se aplica.\n\n2 - A fiscalização e instrução dos processos relativos às contraordenações económicas previstas no presente diploma compete à Autoridade de Segurança Alimentar e Económica (ASAE) e a aplicação das respetivas coimas e sanções acessórias ao seu inspetor-geral da ASAE.\n\n3 - Das decisões definitivas tomadas nos processos de contraordenação é dado conhecimento à DGC.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28\n\n> Retificado pelo/a [Declaração - Diário da República n.º 175/1990, 1º Suplemento, Série I de 1990-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-644097), produz efeitos a partir de 1990-07-31"
+  },
+  "137938081": {
+   "fragment_id": "137924832",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de Março de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio - Luís Fernando Mira Amaral - Arlindo Gomes de Carvalho - Fernando Manuel Barbosa Faria de Oliveira - Fernando Nunes Ferreira Real.\n\nPromulgado em 23 de Abril de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 30 de Abril de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

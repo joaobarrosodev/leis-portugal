@@ -1,0 +1,777 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:645762:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2003-902591747",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/24-2003-645762",
+ "source_lastmod": "2025-01-08",
+ "versions": [
+  {
+   "date": "2003-08-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "902717461",
+    "902717462",
+    "902717463",
+    "902717464",
+    "902717466",
+    "902717467",
+    "902717468",
+    "902717469",
+    "902717470",
+    "902717471",
+    "902717472",
+    "902717473",
+    "902717474",
+    "902742175",
+    "902742176",
+    "902742177",
+    "902742178",
+    "902742179",
+    "902742180",
+    "902742181",
+    "902742182",
+    "902742183",
+    "902742184",
+    "902742185",
+    "902742186",
+    "902742187",
+    "902742188",
+    "902742189",
+    "902742190",
+    "902742191",
+    "902742192",
+    "902742193",
+    "902742194",
+    "902742195",
+    "902742196",
+    "902742197",
+    "902742198",
+    "902742199",
+    "902742200",
+    "902742201",
+    "902742202",
+    "902742203",
+    "902742204",
+    "902742205",
+    "902742206",
+    "902742207",
+    "902742208",
+    "902742209",
+    "902742210",
+    "902742211",
+    "902742212",
+    "902742213",
+    "902742214",
+    "902742215",
+    "902742216",
+    "902742217",
+    "902742218",
+    "902742219",
+    "902742220",
+    "902742221",
+    "902742222",
+    "902742223",
+    "902742224",
+    "902742225",
+    "902742226",
+    "902742227",
+    "902742228",
+    "902742229",
+    "902742230",
+    "902742231"
+   ]
+  },
+  {
+   "date": "2025-01-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:902264456:por",
+     "title": "Decreto Legislativo Regional n.º 2/2025/A",
+     "published": "2025-01-08",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/2-2025-902264456"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º"
+   ],
+   "fragments": [
+    "902717461",
+    "902717462",
+    "902717463",
+    "902717464",
+    "902717465",
+    "902717466",
+    "902717467",
+    "902717468",
+    "902717469",
+    "902717470",
+    "902717471",
+    "902717472",
+    "902717473",
+    "902717474",
+    "902742175",
+    "902742176",
+    "902742177",
+    "902742178",
+    "902742179",
+    "902742180",
+    "902742181",
+    "902742182",
+    "902742232",
+    "902742233",
+    "902742234",
+    "902742186",
+    "902742187",
+    "902742188",
+    "902742189",
+    "902742190",
+    "902742191",
+    "902742192",
+    "902742193",
+    "902742194",
+    "902742195",
+    "902742196",
+    "902742197",
+    "902742198",
+    "902742199",
+    "902742200",
+    "902742201",
+    "902742202",
+    "902742203",
+    "902742204",
+    "902742205",
+    "902742206",
+    "902742207",
+    "902742208",
+    "902742209",
+    "902742210",
+    "902742211",
+    "902742212",
+    "902742213",
+    "902742214",
+    "902742215",
+    "902742216",
+    "902742217",
+    "902742218",
+    "902742219",
+    "902742220",
+    "902742221",
+    "902742222",
+    "902742223",
+    "902742224",
+    "902742225",
+    "902742226",
+    "902742227",
+    "902742228",
+    "902742229",
+    "902742230",
+    "902742231"
+   ]
+  }
+ ],
+ "fragments": {
+  "902717461": {
+   "fragment_id": "902591748",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 24/2003/A\n\nO Decreto Legislativo Regional n.º 7/99/A, de 19 de Março, reformulou e aperfeiçoou o enquadramento orgânico da protecção civil e bombeiros dos Açores, preconizando, no seu artigo 22.º, que as matérias respeitantes à organização, funcionamento, quadros de pessoal e respectivo estatuto dos serviços de protecção civil e suas estruturas inspectivas, bem como as suas atribuições e competências seriam aprovadas, mediante decreto regulamentar regional, de acordo com o que dispõe o n.º 5 do artigo 17.º da Lei n.º 113/91, de 29 de Agosto.\n\nAs experiências recentes de sujeição a fenómenos que comportam riscos naturais e riscos industriais e tecnológicos, conjugadas com a descontinuidade do território, determinaram a reorganização da estrutura de prevenção e intervenção do Serviço Regional de Protecção Civil e Bombeiros dos Açores (SRPCBA).\n\nDa criação deste Serviço Regional resultou uma unidade pioneira no País, na qual se unificou num só comando os aspectos preventivos e reactivos de todo o sistema, por forma a permitir uma completa interdependência destes dois níveis e assim conseguir-se uma optimização da utilização dos meios disponíveis, para além de agregar, sob as suas atribuições e competências, um sistema de transporte terrestre de doentes.\n\nÉ igualmente atribuída maior importância à protecção civil municipal, uma vez que é esta a primeira entidade responsável e com capacidade jurídica para dar resposta a uma primeira intervenção ou a uma dada situação que repute de risco ou emergência e, posteriormente, actuar no sentido do reforço das medidas de emergência adicionais que venham a ser tomadas. De salientar neste âmbito a importância atribuída aos agentes de protecção civil que exercem funções de aviso, alerta, intervenção, apoio e socorro, localizadas na área do município, e que exercem funções importantes nas questões de protecção civil municipal regional.\n\nO presente diploma cria o Serviço de Apoio Geral que visa o aproveitamento dos recursos humanos e materiais dispersos, agregando e unificando, na medida do possível, todas aquelas matérias que pela sua natureza não operacional ou de conteúdo especial são indispensáveis ao funcionamento do serviço onde se integrou igualmente a Secção Administrativa e Financeira.\n\nO SRPCBA tem a Direcção de Serviços de Planeamento e Operações, que compreende a Divisão de Prevenção, Formação e Sensibilização e a Divisão de Planeamento, Operações e Avaliação de Riscos, que integra a Estação Açor e um centro de operações. Nestas Divisões concentram-se todas as áreas respeitantes às funções primárias de protecção civil, sem no entanto descurar a actividade de inspecção sobre os corpos de bombeiros e a orientação e coordenação técnica e operacional dos mesmos através da Inspecção de Bombeiros, a qual compreende duas divisões: Divisão de Socorro e Equipamentos e Divisão de Segurança contra Incêndios.\n\nMercê das características geográficas próprias da Região Autónoma dos Açores e da sua descontinuidade territorial, a figura do delegado de protecção civil aparece reforçada com a definição formal das suas competências na respectiva circunscrição territorial para a execução de tarefas do SRPCBA.\n\nInovadora é igualmente a criação do Centro de Formação de Protecção Civil e Bombeiros, directamente dependente do presidente do SRPCBA, especialmente responsável pela execução das tarefas inerentes à instrução teórico-prática dos agentes que intervenham em acções relacionadas com as atribuições do serviço, articulando-se com a Divisão de Socorro e Equipamento e em especial com a Divisão de Prevenção, Formação e Sensibilização, visando uma formação integrada quer dos programas de formação quer das respectivas matérias leccionadas.\n\nCom o presente diploma procede-se ainda a uma nova regulamentação do transporte terrestre de doentes na Região Autónoma dos Açores, que permite, entre outros aspectos, a contratação individual de elementos com vínculo obrigatório aos bombeiros voluntários.\n\nPor outro lado, valoriza-se, no âmbito de um serviço eficaz de protecção civil e bombeiros, o recurso ao voluntariado, prevendo-se a possibilidade de o Serviço se constituir como organização promotora para o efeito. Considera-se que a participação do voluntariado pode ser imprescindível para a prossecução de missões urgentes que envolvam o recurso a determinados meios humanos que não se encontrem disponíveis em número suficiente ou com a preparação adequada para o efeito.\n\nFoi ouvida a Federação de Bombeiros da Região Autónoma dos Açores.\n\nAssim, em execução do disposto no artigo 22.º do Decreto Legislativo Regional n.º 7/99/A, de 19 de Março, alterado pelos Decretos Legislativos Regionais n.os 25/2000/A, de 9 de Agosto, e 15/2002/A, de 30 de Abril, e nos termos da alínea d) do n.º 1 do artigo 227.º da Constituição e da alínea o) do artigo 60.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o Governo Regional decreta o seguinte:"
+  },
+  "902717462": {
+   "fragment_id": "902591749",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nSão aprovados a orgânica e o quadro de pessoal do Serviço Regional de Protecção Civil e Bombeiros dos Açores (SRPCBA), que constam dos anexos I e II ao presente diploma, do qual fazem parte integrante."
+  },
+  "902717463": {
+   "fragment_id": "902591750",
+   "type": 11,
+   "heading": "Artigo 2.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Revogação\n\nSão revogados os Decretos Regulamentares Regionais n.os 32/87/A, de 19 de Novembro, 33/87/A, de 24 de Novembro, 32/90/A, de 10 de Outubro, 13/92/A, de 23 de Março, e 42/92/A, de 19 de Novembro."
+  },
+  "902717464": {
+   "fragment_id": "902591751",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "902717466": {
+   "fragment_id": "902591753",
+   "type": 14,
+   "heading": "Anexo I — Orgânica do Serviço Regional de Protecção Civil e Bombeiros dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Orgânica do Serviço Regional de Protecção Civil e Bombeiros dos Açores"
+  },
+  "902717467": {
+   "fragment_id": "902591754",
+   "type": 1,
+   "heading": "Capítulo I — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza e atribuições"
+  },
+  "902717468": {
+   "fragment_id": "902591755",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Serviço Regional de Protecção Civil e Bombeiros dos Açores, adiante designado abreviadamente por SRPCBA, é dotado de personalidade jurídica, de autonomia administrativa e financeira e de património próprio.\n\n2 - O SRPCBA depende do membro do Governo Regional com competência em matéria de protecção civil e bombeiros."
+  },
+  "902717469": {
+   "fragment_id": "902591756",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nSão atribuições do SRPCBA orientar, coordenar e fiscalizar, a nível da Região Autónoma dos Açores, as actividades de protecção civil e dos corpos de bombeiros, bem como assegurar o funcionamento de um sistema de transporte terrestre de emergência médica, de forma a garantir, aos sinistrados ou vítimas de doença súbita, a pronta e correcta prestação de cuidados de saúde."
+  },
+  "902717470": {
+   "fragment_id": "902591757",
+   "type": 1,
+   "heading": "Capítulo II — Serviços regional e municipais de protecção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Serviços regional e municipais de protecção civil"
+  },
+  "902717471": {
+   "fragment_id": "902591758",
+   "type": 11,
+   "heading": "Artigo 3.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estrutura\n\nA estrutura da protecção civil na Região Autónoma dos Açores compreende o Serviço Regional e os serviços municipais."
+  },
+  "902717472": {
+   "fragment_id": "902591759",
+   "type": 11,
+   "heading": "Artigo 4.º — Serviço Regional de Protecção Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Serviço Regional de Protecção Civil\n\n1 - O SRPCBA, criado pelo Decreto Legislativo Regional n.º 7/99/A, de 19 de Março, assegura o desempenho das atribuições e competências cometidas à administração regional dos Açores no âmbito da protecção civil, dos bombeiros e do transporte terrestre de doentes.\n\n2 - Compete ao SRPCBA decidir da oportunidade, do tipo e da extensão da intervenção de qualquer agente de protecção civil em caso de iminência ou ocorrência de qualquer facto ou acontecimento susceptível de desencadear a sua acção."
+  },
+  "902717473": {
+   "fragment_id": "902591760",
+   "type": 11,
+   "heading": "Artigo 5.º — Desconcentração de meios do Serviço Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Desconcentração de meios do Serviço Regional\n\n1 - O Serviço Regional poderá desconcentrar os seus meios, através de delegados.\n\n2 - Os delegados do SRPCBA estarão localizados nas ilhas de Santa Maria, São Miguel, Graciosa, São Jorge, Pico, Faial, Flores e Corvo e promoverão no respectivo espaço geográfico as medidas necessárias à execução das competências do Serviço Regional, cumprindo as orientações que lhes sejam transmitidas.\n\n3 - Na ilha de São Miguel haverá um delegado por área de intervenção de corpo de bombeiros."
+  },
+  "902717474": {
+   "fragment_id": "902591761",
+   "type": 11,
+   "heading": "Artigo 6.º — Serviços municipais de protecção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Serviços municipais de protecção civil\n\n1 - Os municípios dispõem de serviços municipais de protecção civil, aos quais incumbe, ao nível da respectiva circunscrição territorial, a prossecução dos objectivos e o desenvolvimento das acções de informação, formação, planeamento, coordenação e controlo nos domínios previstos no artigo 3.º da Lei n.º 113/91, de 29 de Agosto.\n\n2 - Compete ainda aos serviços municipais de protecção civil constituírem e assegurarem a funcionalidade dos respectivos centros municipais de operações de emergência, nos termos do n.º 1 do artigo 9.º do Decreto Legislativo Regional n.º 13/99/A, de 15 de Abril."
+  },
+  "902742175": {
+   "fragment_id": "902591762",
+   "type": 1,
+   "heading": "Capítulo III — Órgãos, serviços e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Órgãos, serviços e competências"
+  },
+  "902742176": {
+   "fragment_id": "902591763",
+   "type": 8,
+   "heading": "Secção I — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Órgãos"
+  },
+  "902742177": {
+   "fragment_id": "902591764",
+   "type": 11,
+   "heading": "Artigo 7.º — Órgãos do Serviço Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Órgãos do Serviço Regional\n\nSão órgãos do SRPCBA:\n\na) O presidente;\n\nb) O conselho administrativo;\n\nc) A comissão de fiscalização;\n\nd) O conselho regional de bombeiros (CRB)."
+  },
+  "902742178": {
+   "fragment_id": "902591765",
+   "type": 11,
+   "heading": "Artigo 8.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Presidente\n\n1 - O SRPCBA é dirigido por um presidente, equiparado, para todos os efeitos, a director regional, coadjuvado por um vice-presidente, equiparado a subdirector-geral.\n\n2 - Compete ao presidente:\n\na) Coordenar toda a actividade do SRPCBA, garantindo o seu funcionamento;\n\nb) Representar o SRPCBA em juízo e fora dele;\n\nc) Convocar e presidir ao conselho administrativo;\n\nd) Autorizar a realização de despesas e escolher procedimentos aquisitivos, dentro dos limites legalmente estabelecidos;\n\ne) Exercer o poder disciplinar sobre todo o pessoal do SRPCBA;\n\nf) Convocar e presidir ao conselho regional de bombeiros;\n\ng) Exercer o comando geral dos corpos de bombeiros;\n\nh) Homologar a nomeação dos comandantes, 2.os comandantes e adjuntos de comando dos corpos de bombeiros associativos e privativos;\n\ni) Exercer o poder disciplinar sobre os comandantes dos corpos de bombeiros privativos e associativos, designadamente determinando a instauração dos respectivos processos e aplicando as respectivas penas;\n\nj) Autorizar a passagem à situação de inactividade no quadro ou de reingresso no quadro, de acordo com a legislação aplicável;\n\nk) Autorizar o ingresso no quadro de honra aos elementos dos corpos de bombeiros, obtido parecer favorável da entidade detentora do corpo de bombeiros;\n\nl) Homologar as licenças concedidas ao comandante, 2.º comandante e ao adjunto de comando dos corpos de bombeiros privativos e associativos;\n\nm) Presidir ou designar os júris dos concursos de promoção e classificação nas provas de acesso às diferentes categorias do quadro activo;\n\nn) Superintender na gestão do pessoal dos corpos de bombeiros e aprovar os respectivos planos anuais, nos termos da lei.\n\n3 - Sempre que da adopção de alguma das medidas de carácter excepcional, designadamente as referidas no artigo 4.º da Lei n.º 113/91, de 29 de Agosto, resultar uma situação de interdição ou condicionamento de duração superior a 30 dias, o presidente do SRPCBA solicitará a homologação da respectiva decisão ao membro do Governo Regional que tutele a protecção civil.\n\n4 - Ao vice-presidente do SRPCBA compete substituir o presidente nas suas faltas e impedimentos, bem como exercer as competências que lhe forem delegadas."
+  },
+  "902742179": {
+   "fragment_id": "902591766",
+   "type": 11,
+   "heading": "Artigo 9.º — Conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Conselho administrativo\n\n1 - O conselho administrativo é o órgão deliberativo em matéria de gestão financeira e patrimonial do SRPCBA, tendo a seguinte composição:\n\na) O presidente do SRPCBA, que preside;\n\nb) O vice-presidente do SRPCBA;\n\nc) O responsável pela contabilidade do SRPCBA;\n\nd) Dois vogais, a nomear pelo membro do Governo Regional referido no n.º 2 do artigo 1.º, sob proposta do presidente do SRPCBA, de entre o pessoal do mesmo que se encontre em exercício de funções.\n\n2 - O presidente pode convidar outros funcionários do SRPCBA para, sem direito a voto, participarem nas reuniões do conselho administrativo.\n\n3 - O conselho administrativo reúne-se semanalmente em sessão ordinária e extraordinariamente sempre que convocado pelo presidente ou pelo substituto legal, por sua iniciativa ou a solicitação de qualquer dos seus membros.\n\n4 - O conselho administrativo elabora o seu regulamento interno, dele constando, obrigatoriamente, os mecanismos de substituição dos respectivos membros, em caso de ausência, impedimento ou vacatura de lugar.\n\n5 - As deliberações do conselho administrativo tornam-se eficazes logo que se encontrem regularmente aprovadas as respectivas actas.\n\n6 - Excepcionalmente, quando a emergência das situações o imponha, as deliberações do conselho administrativo tornam-se eficazes logo que aprovada a minuta da acta da respectiva reunião, documento esse que, para além das menções exigidas por lei, deve conter a assinatura de todos os participantes com direito a voto."
+  },
+  "902742180": {
+   "fragment_id": "902591767",
+   "type": 11,
+   "heading": "Artigo 10.º — Competências do conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competências do conselho administrativo\n\n1 - Compete ao conselho administrativo:\n\na) Elaborar o plano de actividades e a preparação dos orçamentos do SRPCBA e demais instrumentos de gestão previsional previstos na lei a submeter à aprovação da tutela;\n\nb) Analisar a situação financeira do SRPCBA;\n\nc) Zelar pela liquidação e cobrança das receitas;\n\nd) Verificar a legalidade das despesas;\n\ne) Fiscalizar a contabilidade e proceder à verificação regular dos valores em cofre e em depósito;\n\nf) Autorizar a realização de despesas e escolher procedimentos aquisitivos, dentro dos limites legalmente estabelecidos;\n\ng) Aprovar as minutas dos contratos em que o SRPCBA seja parte;\n\nh) Administrar o património;\n\ni) Elaborar o relatório anual de gestão e de exercício orçamental, bem como a conta de gerência do respectivo exercício e demais instrumentos de prestação de contas previstos na lei, a submeter anualmente ao parecer da comissão de fiscalização, à aprovação da tutela e a jurisdição do Tribunal de Contas;\n\nj) Promover, nos termos legais, a alienação do material dispensável;\n\nk) Aprovar os estudos, pareceres e propostas a apresentar à tutela;\n\nl) Celebrar acordos de cooperação com outras entidades, públicas ou privadas, no âmbito das atribuições do serviço;\n\nm) Pronunciar-se sobre a aceitação de heranças, legados ou doações.\n\n2 - O conselho administrativo pode delegar algumas das suas competências no seu presidente."
+  },
+  "902742181": {
+   "fragment_id": "902591768",
+   "type": 11,
+   "heading": "Artigo 11.º — Comissão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Comissão de fiscalização\n\n1 - A comissão de fiscalização é um órgão fiscalizador da gestão efectuada, avaliando a exactidão das contas apresentadas pelo conselho administrativo, a gestão do património e a observância das normas aplicáveis, e tem a seguinte composição:\n\na) Um presidente;\n\nb) Dois vogais efectivos;\n\nc) Dois vogais suplentes.\n\n2 - A comissão de fiscalização reúne-se ordinariamente uma vez por trimestre e extraordinariamente sempre que for convocado pelo seu presidente.\n\n3 - Os membros da comissão de fiscalização são nomeados por despacho conjunto do membro do Governo Regional que tutela o SRPCBA e do membro do Governo Regional que exerça a sua competência na área das finanças.\n\n4 - Os membros da comissão de fiscalização exercem as suas funções cumulativamente com as dos respectivos cargos nos termos da lei geral e receberão um suplemento mensal a fixar por despacho conjunto do membro do Governo Regional que tutela o SRPCBA e dos membros do Governo que exerçam a sua competência na área das finanças e da Administração Pública."
+  },
+  "902742182": {
+   "fragment_id": "902591769",
+   "type": 11,
+   "heading": "Artigo 12.º — Competências da comissão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competências da comissão de fiscalização\n\nÀ comissão de fiscalização compete:\n\na) Verificar o cumprimento das leis, regulamentos e normas técnicas aplicadas;\n\nb) Verificar a execução dos instrumentos de gestão previsional;\n\nc) Examinar a contabilidade do SRPCBA;\n\nd) Verificar se o património do SRPCBA está correctamente avaliado;\n\ne) Emitir parecer sobre os documentos de prestação de contas do ano findo;\n\nf) Efectuar as conferências que julgar convenientes, particularmente no que se refere às disponibilidades financeiras, podendo exigir, para o efeito, as informações que entender necessárias;\n\ng) Elaborar relatórios sobre a sua actividade e apresentá-lo ao membro do Governo Regional que tutela o SRPCBA e ao membro do Governo Regional que exerça a sua competência na área das finanças;\n\nh) Quaisquer outras que lhe estejam ou venham a ser atribuídas por lei."
+  },
+  "902742183": {
+   "fragment_id": "902591770",
+   "type": 11,
+   "heading": "Artigo 13.º — Conselho regional de bombeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Conselho regional de bombeiros\n\n1 - O CRB é um órgão de auscultação e de consulta do presidente do SRPCBA na área dos bombeiros, assessorando-o nos domínios mais relevantes da acção geral desses corpos.\n\n2 - Compete ao CRB, designadamente:\n\na) Pronunciar-se acerca dos programas de apoio aos corpos de bombeiros;\n\nb) Propor formas de apoio a prestar às associações humanitárias e aos corpos de bombeiros;\n\nc) Pronunciar-se acerca das formas de apoio a conceder pelo SRPCBA às associações humanitárias;\n\nd) Pronunciar-se sobre os critérios gerais a que deve obedecer a formação e a preparação técnica do pessoal dos corpos de bombeiros;\n\ne) Pronunciar-se sobre as normas gerais a que deve obedecer a regulamentação interna dos corpos de bombeiros da Região e respectivos quadros de pessoal;\n\nf) Pronunciar-se sobre as normas gerais a que deve obedecer a regulamentação relativa ao equipamento, fardamento e material dos corpos de bombeiros, visando a normalização técnica da respectiva actividade;\n\ng) Pronunciar-se acerca da delimitação geográfica da acção restrita dos corpos de bombeiros;\n\nh) Dar parecer relativamente a propostas de criação de novos corpos de bombeiros ou secções destacadas."
+  },
+  "902742184": {
+   "fragment_id": "902591771",
+   "type": 11,
+   "heading": "Artigo 14.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Composição\n\n1 - O CRB tem a seguinte composição:\n\na) O presidente do SRPCBA, que preside;\n\nb) O vice-presidente do SRPCBA;\n\nc) O inspector de bombeiros;\n\nd) Um representante das federações de bombeiros dos Açores;\n\ne) Um representante de cada associação humanitária de bombeiros;\n\nf) Os comandantes dos corpos de bombeiros da Região.\n\n2 - A solicitação do presidente ou por este autorizados, podem ser convocados técnicos, peritos, organizações e entidades competentes para a emissão de pareceres em áreas especializadas ou quaisquer outros elementos cuja presença seja considerada oportuna."
+  },
+  "902742185": {
+   "fragment_id": "902591772",
+   "type": 11,
+   "heading": "Artigo 15.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Reuniões\n\n1 - O CRB reunir-se-á ordinariamente uma vez por ano e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa ou a solicitação de, pelo menos, um terço dos seus membros.\n\n2 - As reuniões são geralmente plenárias.\n\n3 - Havendo sido constituído, no seio do conselho, alguma comissão ou grupo de trabalho, poderão ocorrer reuniões seccionadas, de acordo com o que ficar previamente determinado na deliberação que aprovar tal constituição.\n\n4 - O CRB elabora o seu regulamento interno."
+  },
+  "902742186": {
+   "fragment_id": "902591773",
+   "type": 8,
+   "heading": "Secção II — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Serviços"
+  },
+  "902742187": {
+   "fragment_id": "902591774",
+   "type": 3,
+   "heading": "Subsecção I — Serviços centrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Serviços centrais"
+  },
+  "902742188": {
+   "fragment_id": "902742275",
+   "type": 11,
+   "heading": "Artigo 16.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Estrutura\n\nO SRPCBA compreende os seguintes serviços centrais:\n\na) O Serviço de Apoio Geral (SAG);\n\nb) A Direcção de Serviços de Planeamento e Operações (DSPO);\n\nc) A Inspecção de Bombeiros (IB)."
+  },
+  "902742189": {
+   "fragment_id": "902742276",
+   "type": 11,
+   "heading": "Artigo 17.º — Serviço de Apoio Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Serviço de Apoio Geral\n\n1 - O SAG depende directamente do presidente do serviço, podendo este delegar no vice-presidente a respectiva direcção.\n\n2 - Sem prejuízo de outras competências, cabe ao SAG:\n\na) Assegurar a assessoria técnica ao SRPCBA, designadamente nos domínios administrativo, económico, financeiro, informático, jurídico, do ordenamento e da gestão de recursos humanos;\n\nb) Elaborar estudos e projectos necessários à actividade do SRPCBA ou acompanhar e coordenar a respectiva elaboração;\n\nc) Propor medidas conducentes ao aumento da qualidade e da produtividade, assegurando o respectivo controlo e execução;\n\nd) Levantar e instruir os autos das contra-ordenações em matérias da competência do SRPCBA;\n\ne) Exercer as acções de auditoria interna que lhe venham a ser determinadas pelos órgãos do SRPCBA;\n\nf) Exercer as funções normalmente cometidas ao notariado privativo dos serviços;\n\ng) Promover o envio para publicação de todos os actos e procedimentos para os quais a lei exija publicidade;\n\nh) Coordenar o funcionamento de um centro de documentação e de legislação, zelando pela organização, actualização e conservação do acervo documental e bibliográfico do SRPCBA;\n\ni) Coordenar a execução da proposta do plano de actividades;\n\nj) Coordenar a execução do relatório de actividades;\n\nk) Promover e executar as acções necessárias à melhoria das condições de atendimento dos públicos externos;\n\nl) Garantir o funcionamento de um atendimento permanente ao cidadão;\n\nm) Promover e executar as acções necessárias à defesa da imagem do SRPCBA;\n\nn) Promover e realizar acções de informação relacionadas com as actividades do SRPCBA, nomeadamente através de mostras, exposições, demonstrações práticas de actividades ou visitas guiadas;\n\no) Emitir e promover ou coordenar a emissão de notas para a comunicação social;\n\np) Recolher e classificar as informações noticiosas com interesse para a protecção civil e para os bombeiros e difundi-la;\n\nq) Proporcionar à comunicação social os canais de diálogo e a documentação de que necessite e seja lícito conhecer, disponibilizando-lhe, de igual modo, o espaço físico e os meios materiais necessários ao cumprimento da respectiva missão;\n\nr) Promover a preparação das reuniões e demais encontros de trabalho a realizar pelo SRPCBA, garantindo a existência dos meios logísticos necessários;\n\ns) Organizar materialmente os processos relativos à realização de empreitadas e à aquisição de bens e serviços;\n\nt) Assegurar o serviço de protocolo;\n\nu) Desenvolver e gerir os meios informáticos, em articulação com os demais serviços.\n\n3 - O SAG articula-se funcionalmente com os serviços de apoio técnico e de apoio instrumental da secretaria regional que tutela o SRPCBA.\n\n4 - O SAG compreende a Secção Administrativa e Financeira (SAF)."
+  },
+  "902742190": {
+   "fragment_id": "902742277",
+   "type": 11,
+   "heading": "Artigo 18.º — Secção Administrativa e Financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Secção Administrativa e Financeira\n\nÀ SAF compete o apoio administrativo e financeiro ao funcionamento geral do SRPCBA, nomeadamente:\n\na) Assegurar os serviços de expediente geral e arquivo;\n\nb) Realizar os actos materiais e os procedimentos administrativos relativos à administração e gestão do pessoal;\n\nc) Secretariar os órgãos do SRPCBA, quando solicitado;\n\nd) Elaborar as propostas dos orçamentos e das contas de gerência, a submeter à apreciação do conselho administrativo;\n\ne) Assegurar a execução dos orçamentos, a arrecadação das receitas e o processamento e pagamento das despesas, procedendo a toda a escrituração contabilística;\n\nf) Organizar o inventário e cadastro dos bens;\n\ng) Zelar pela segurança e conservação das instalações, mobiliário e equipamentos;\n\nh) Assegurar a higiene do edifício sede do serviço;\n\ni) Gerir o economato."
+  },
+  "902742191": {
+   "fragment_id": "902742278",
+   "type": 11,
+   "heading": "Artigo 19.º — Direcção de Serviços de Planeamento e Operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Direcção de Serviços de Planeamento e Operações\n\n1 - Sem prejuízo de outras competências, cabe à DSPO:\n\na) Elaborar, ao nível regional, os planos de emergência de protecção civil;\n\nb) Dar parecer sobre os planos de emergência municipais e apoiar a sua elaboração;\n\nc) Garantir o funcionamento permanente de um centro de comunicações, designado por Estação Açor, que assegure as ligações entre serviços, estruturas e principais agentes do sistema de protecção civil;\n\nd) Apoiar o funcionamento do Centro Regional de Operações de Emergência de Protecção Civil dos Açores (CROEPCA);\n\ne) Assegurar o funcionamento e a gestão global da rede de telecomunicações do serviço;\n\nf) Garantir um oportuno alerta das populações em risco;\n\ng) Elaborar ou promover estudos de riscos naturais, tecnológicos e da vida corrente, por forma a identificar os riscos, prever, quando possível, a sua ocorrência e avaliar e prevenir as suas consequências;\n\nh) Acompanhar os programas nacionais e internacionais de investigação e desenvolvimento no domínio de riscos;\n\ni) Promover e incentivar acções de divulgação da matéria de protecção civil junto da população, com vista à adopção de normas de procedimento convenientes à sua protecção em caso de acidente grave, catástrofe ou calamidade e prestar apoio técnico aos delegados do SRPCBA e aos serviços municipais na execução daquelas acções;\n\nj) Elaborar ou promover os programas das matérias de protecção civil a incluir nos programas oficiais dos vários graus de ensino;\n\nk) Promover e incentivar a formação, em matéria de protecção civil do pessoal dos serviços e instituições públicas e privadas;\n\nl) Propor o plano anual de formação;\n\nm) Instruir os processos de formação do pessoal do SRPCBA, bem como coordenar o processo de candidatura ao Fundo Social Europeu das acções de formação que o SRPCBA apresente;\n\nn) Assegurar funções de inspecção de protecção civil.\n\n2 - A DSPO compreende:\n\na) A Divisão de Planeamento, Operações e Avaliação de Riscos (DPOAR);\n\nb) A Divisão de Prevenção, Formação e Sensibilização (DPFS)."
+  },
+  "902742192": {
+   "fragment_id": "902742279",
+   "type": 11,
+   "heading": "Artigo 20.º — Divisão de Planeamento, Operações e Avaliação de Riscos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Divisão de Planeamento, Operações e Avaliação de Riscos\n\n1 - A DPOAR assegura o planeamento e a direcção das operações do Serviço, a coordenação dos meios a empenhar e a adequação das medidas de carácter excepcional a adoptar na iminência ou na ocorrência de acidente grave, catástrofe ou calamidade.\n\n2 - A DPOAR compreende a Estação Açor e integra na sua estrutura um centro de operações.\n\n3 - À DPOAR compete, designadamente:\n\na) Elaborar, a nível da Região, os planos de emergência de protecção civil e programar as adequadas acções de socorro;\n\nb) Dar parecer sobre os planos de emergência submetidos à apreciação do SRPCBA;\n\nc) Apoiar os delegados do SRPCBA e os serviços municipais na elaboração de planos de emergência e no desenvolvimento dos programas deles decorrentes, bem como na inventariação de meios e recursos;\n\nd) Assegurar o levantamento de meios e recursos e inventariar as carências, propondo as soluções para fazer face a acidentes graves, catástrofes ou calamidades;\n\ne) Propor a criação de depósitos e centros de abastecimento;\n\nf) Apoiar o funcionamento do centro de operações e da Estação Açor;\n\ng) Organizar as telecomunicações impostas pelas necessárias ligações ao SRPCBA e assegurar o seu funcionamento;\n\nh) Proceder ao levantamento dos meios de telecomunicações susceptíveis de serem utilizados como complemento ou em reforço de intervenção do SRPCBA em situações de risco;\n\ni) Organizar um sistema regional que possibilite o oportuno alerta e aviso das populações, estabelecendo, nomeadamente, as formas de ligação com o Instituto de Meteorologia e o Centro de Vulcanologia e Avaliação de Riscos Geológicos da Universidade dos Açores;\n\nj) Apoiar a organização e o funcionamento dos centros de operações avançados;\n\nk) Promover a realização de exercícios visando testar a operacionalidade dos planos existentes;\n\nl) Colaborar nas acções de avaliação dos serviços municipais de protecção civil e das estruturas operacionais de protecção civil, de modo a avaliar as deficiências dos planos e programas de protecção civil;\n\nm) Colaborar na execução das competências dos outros serviços do SRPCBA;\n\nn) Garantir os meios indispensáveis ao funcionamento do CROEPCA;\n\no) Assegurar o desencadeamento das acções consequentes a cada tipo de alerta;\n\np) Proceder à gestão do parque de viaturas."
+  },
+  "902742193": {
+   "fragment_id": "902742280",
+   "type": 11,
+   "heading": "Artigo 21.º — Estação Açor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Estação Açor\n\n1 - A Estação Açor assegura:\n\na) A manutenção primária dos equipamentos de comunicações;\n\nb) O funcionamento da rede de telecomunicações do serviço.\n\n2 - A Estação Açor funciona em regime de permanência."
+  },
+  "902742194": {
+   "fragment_id": "902742281",
+   "type": 11,
+   "heading": "Artigo 22.º — Divisão de Prevenção, Formação e Sensibilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Divisão de Prevenção, Formação e Sensibilização\n\nÀ DPFS compete, designadamente:\n\na) Promover e incentivar acções de divulgação da matéria de protecção civil junto da população, com vista à adopção de normas de procedimento convenientes à sua autoprotecção em caso de acidente grave, catástrofe ou calamidade e orientar e prestar apoio técnico aos delegados e corpos de bombeiros na execução daquelas acções;\n\nb) Apoiar as campanhas ou acções de sensibilização;\n\nc) Elaborar a proposta do plano anual de formação, ouvidos os demais dirigentes do serviço;\n\nd) Promover e apoiar a formação, em matéria de protecção civil;\n\ne) Assegurar ou promover, directamente ou através de acordos de cooperação com entidades acreditadas, a formação dos elementos dos corpos de bombeiros e dos tripulantes de ambulância;\n\nf) Promover formas de articulação com os serviços de saúde;\n\ng) Elaborar ou promover os programas das matérias de protecção civil a incluir nos programas dos vários graus de ensino;\n\nh) Elaborar ou promover os textos para apoio ao exercício das competências referidas nas alíneas anteriores;\n\ni) Instruir os processos de formação do pessoal do SRPCBA, bem como coordenar e apoiar os processos de candidatura ao Fundo Social Europeu;\n\nj) Coordenar e gerir o material de áudio-visual do SRPCBA;\n\nk) Assegurar o funcionamento de um centro de documentação responsável pela organização, actualização e conservação do património documental e bibliográfico do SRPCBA, nas áreas das suas competências;\n\nl) Colaborar na execução das suas competências com os outros serviços do SRPCBA."
+  },
+  "902742195": {
+   "fragment_id": "902742282",
+   "type": 11,
+   "heading": "Artigo 23.º — Inspecção de Bombeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Inspecção de Bombeiros\n\n1 - A IB assegura a actividade de inspecção sobre os corpos de bombeiros e garante a orientação e coordenação técnica e operacional dos mesmos.\n\n2 - Sem prejuízo de outras competências, cabe à IB:\n\na) Assegurar a inspecção técnica dos corpos de bombeiros;\n\nb) Propor superiormente os processos de criação de corpos de bombeiros ou de secções destacadas, bem como os respectivos quadros de pessoal;\n\nc) Propor superiormente os processos de homologação da nomeação dos elementos do quadro de comando dos corpos de bombeiros;\n\nd) Propor superiormente os processos de autorização à passagem à situação de inactividade no quadro ou de reingresso no quadro, nos termos da legislação aplicável;\n\ne) Propor superiormente os processos de homologação de licenças concedidas aos elementos do quadro de comando dos corpos de bombeiros;\n\nf) Assegurar o funcionamento do comando operacional regional e coordenar e apoiar as restantes estruturas operacionais;\n\ng) Conceber, programar e realizar acções de formação e aperfeiçoamento, no âmbito do combate ao fogo e segurança contra incêndios;\n\nh) Coordenar e apoiar a instrução dos corpos de bombeiros;\n\ni) Elaborar os regulamentos das provas dos concursos para chefe e subchefe e para bombeiro de 3.ª classe;\n\nj) Elaborar instruções sobre as provas técnicas a prestar nos concursos de promoção a bombeiros de 1.ª e 2.ª classes;\n\nk) Assegurar, directamente ou através de acordos de cooperação com instituições de utilidade pública, um sistema eficaz de transporte terrestre de doentes;\n\nl) Fiscalizar a actividade dos corpos de bombeiros no transporte terrestre de doentes;\n\nm) Investigar acidentes, com vista à determinação das respectivas causas;\n\nn) Coordenar os programas de apoio à conservação dos quartéis de bombeiros;\n\no) Coordenar as obras de construção ou ampliação de quartéis de bombeiros;\n\np) Coordenar a elaboração dos estudos conducentes à definição de uma tipologia da área de construção de um quartel de bombeiros;\n\nq) Inspeccionar o estado de conservação do parque de viaturas e de equipamento dos corpos de bombeiros;\n\nr) Coordenar o apoio às entidades que sejam credenciadas para efeitos dos regulamentos de segurança contra incêndios.\n\n3 - A IB é dirigida por um inspector, equiparado a director de serviços.\n\n4 - Em caso de ocorrência de catástrofe ou calamidade, ao inspector da IB competirá exercer o comando operacional dos bombeiros.\n\n5 - A IB compreende:\n\na) A Divisão de Socorro e Equipamento (DSE);\n\nb) A Divisão de Segurança contra Incêndios (DSCI)."
+  },
+  "902742196": {
+   "fragment_id": "902742283",
+   "type": 11,
+   "heading": "Artigo 24.º — Divisão de Socorro e Equipamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Divisão de Socorro e Equipamento\n\n1 - Compete à DSE, designadamente:\n\na) Garantir o funcionamento da inspecção técnica dos corpos de bombeiros;\n\nb) Instruir os processos de criação de corpos de bombeiros ou de secções destacadas, bem como os respectivos quadros de pessoal;\n\nc) Instruir os processos de homologação da nomeação dos elementos do quadro de comando dos corpos de bombeiros;\n\nd) Instruir os processos de autorização de passagem à situação de inactividade no quadro ou de reingresso no quadro, nos termos da legislação aplicável;\n\ne) Instruir os processos de homologação de licenças concedidas aos elementos do quadro de comando dos corpos de bombeiros;\n\nf) Dar parecer sobre os regulamentos internos dos corpos de bombeiros;\n\ng) Promover os estudos sobre a área de actuação e dos meios atribuídos aos corpos de bombeiros;\n\nh) Garantir o funcionamento do comando operacional regional e coordenar e apoiar as restantes estruturas operacionais;\n\ni) Conceber, programar e realizar acções de formação e aperfeiçoamento, no âmbito do combate ao fogo e segurança contra incêndios;\n\nj) Apoiar a coordenação da instrução dos corpos de bombeiros;\n\nk) Elaborar os regulamentos das provas dos concursos para chefe e subchefe e para bombeiro de 3.ª classe;\n\nl) Elaborar instruções sobre as provas técnicas a prestar nos concursos de promoção a bombeiros de 1.ª e 2.ª classes;\n\nm) Inspeccionar o estado de conservação do parque de viaturas e de equipamento dos corpos de bombeiros;\n\nn) Assegurar, directamente ou através de acordos de cooperação com instituições de utilidade pública, a operacionalidade do sistema de transporte terrestre de doentes;\n\no) Instruir os processos de autorização para o exercício da actividade de transporte de doentes;\n\np) Proceder à fiscalização da actividade de transporte de doentes;\n\nq) Colaborar na execução das competências dos outros serviços do SRPCBA.\n\n2 - A estrutura operacional será desenvolvida por portaria do membro do Governo Regional que tutele a protecção civil.\n\n3 - De acordo com a estrutura referida no número anterior, poderão ser nomeados coordenadores."
+  },
+  "902742197": {
+   "fragment_id": "902742284",
+   "type": 11,
+   "heading": "Artigo 25.º — Divisão de Segurança contra Incêndios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Divisão de Segurança contra Incêndios\n\nCompete à DSCI, nomeadamente:\n\na) Emitir os pareceres e efectuar as vistorias previstas nos regulamentos de segurança contra incêndios;\n\nb) Emitir parecer no que respeita a redes de captação e distribuição de água em aglomerados urbanos, quanto a segurança contra incêndios;\n\nc) Apoiar e fiscalizar os serviços da Administração Pública na execução das medidas cautelares contra riscos de incêndio;\n\nd) Dar parecer sobre os projectos de construção e ampliação de quartéis dos corpos de bombeiros;\n\ne) Executar os programas de apoio à conservação dos quartéis;\n\nf) Fiscalizar as obras de construção ou ampliação de quartéis de bombeiros;\n\ng) Elaborar os estudos conducentes à definição de uma tipologia da área de construção de um quartel de bombeiros;\n\nh) Apoiar as entidades que sejam credenciadas para efeitos dos regulamentos de segurança contra incêndios;\n\ni) Colaborar na execução das competências dos outros serviços do SRPCBA."
+  },
+  "902742198": {
+   "fragment_id": "902742285",
+   "type": 3,
+   "heading": "Subsecção II — Unidades desconcentradas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Unidades desconcentradas"
+  },
+  "902742199": {
+   "fragment_id": "902742286",
+   "type": 11,
+   "heading": "Artigo 26.º — Delegados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Delegados\n\n1 - Os delegados são nomeados por despacho do membro do Governo Regional que tutele o SRPCBA, sob proposta do presidente deste, por escolha, de entre indivíduos com conhecimentos comprovados nesta área de intervenção e de acordo com o disposto no artigo 15.º do Decreto Legislativo Regional n.º 7/99/A, de 19 de Março, providos em comissão de serviço, por períodos de três anos.\n\n2 - À nomeação referida no número anterior aplicam-se os n.os 1, 2, 3, 4, 5, este último com excepção da sua ressalva final, e 7 do artigo 18.º, o n.º 1 e as alíneas b) e c) do n.º 2 do artigo 20.º, o artigo 24.º e o n.º 1 do artigo 32.º, todos da Lei n.º 49/99, de 22 de Junho.\n\n3 - O exercício do cargo de delegado pode fazer-se em regime de acumulação com outras funções públicas ou privadas, caso em que será exercido a tempo parcial, nos termos da legislação em vigor.\n\n4 - O valor da remuneração de base do cargo de delegado corresponderá a uma percentagem da remuneração de base de um director-geral, a qual será definida por correspondência ao número de eleitores do concelho a que se reportar o exercício de funções, e de acordo com o seguinte:\n\na) Municípios com mais de 40000 eleitores - 55%;\n\nb) Municípios com mais de 20000 e menos de 40000 eleitores - 50%;\n\nc) Mais de 12000 e menos de 20000 eleitores - 45%;\n\nd) Restantes municípios - 25%.\n\n5 - Quando a área de intervenção de um delegado abranger mais de um concelho, para a determinação da sua remuneração será considerado o total dos eleitores dos concelhos abrangidos.\n\n6 - A remuneração referida nos números anteriores será acrescida do subsídio de refeição e demais regalias gerais em vigor para o funcionalismo público."
+  },
+  "902742200": {
+   "fragment_id": "902742287",
+   "type": 11,
+   "heading": "Artigo 27.º — Competências dos delegados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Competências dos delegados\n\n1 - Os delegados exercem e asseguram na respectiva circunscrição territorial a execução de tarefas em que se materializa a acção do SRPCBA, competindo-lhes, em situação de rotina:\n\na) Executar as directivas, ordens e instruções dimanadas do SRPCBA na prossecução, ao nível do seu âmbito de actuação, das respectivas atribuições;\n\nb) Desenvolver acções de informação, formação, planeamento, coordenação e controlo nos domínios previstos no artigo 3.º da Lei n.º 113/91, de 29 de Agosto;\n\nc) Apoiar as autarquias da sua área de actuação, nomeadamente na organização e funcionamento dos respectivos serviços municipais de protecção civil, na elaboração de planos de emergência e na inventariação de meios e recursos;\n\nd) Propor a realização de averiguações e inquéritos;\n\ne) Emitir os pareceres e efectuar as vistorias previstas nos regulamentos de segurança contra incêndios, quando credenciados para o efeito pelo presidente do Serviço;\n\nf) Exercer as competências referidas no n.º 2 do artigo 24.º sempre que na respectiva área de intervenção não exista coordenador de bombeiros;\n\ng) Recolher, sistematizar e enviar para o SRPCBA os dados estatísticos que lhes forem determinados;\n\nh) Elaborar ou recolher relatórios diários, semanais, mensais ou sazonais de vigilância de situações preventivas, de acordo com as directivas, ordens e instruções dimanadas do SRPCBA na prossecução das suas atribuições;\n\ni) Exercer as demais competências que lhe forem cometidas.\n\n2 - A credenciação prevista na alínea e) do número anterior só poderá ser emitida quando o delegado reúna os requisitos previstos no n.º 1 do artigo seguinte.\n\n3 - Aos delegados de ilha, no âmbito do exercício desconcentrado das atribuições do SRPCBA, compete, igualmente:\n\na) Nas situações previstas no artigo 2.º da Lei n.º 113/91, de 29 de Agosto, ou aquando de outras ocorrências consideradas pelo Governo Regional ou pelo presidente do SRPCBA como tendo âmbito de protecção civil, promover a realização das acções necessárias, em face do evento desencadeador;\n\nb) Executar as directivas, ordens e instruções superiormente dimanadas, garantindo a prossecução, ao nível do seu âmbito de actuação, das acções levadas a cabo pelo referido serviço, aquando da ocorrência de acidentes ou outros sinistros."
+  },
+  "902742201": {
+   "fragment_id": "902742288",
+   "type": 11,
+   "heading": "Artigo 28.º — Coordenadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Coordenadores\n\n1 - Os coordenadores de bombeiros são nomeados por despacho do membro do Governo Regional que tutele o SRPCBA, sob proposta do presidente deste, por escolha de entre indivíduos que exerçam ou tenham exercido funções de comando nos corpos de bombeiros, de acordo com o disposto no artigo 15.º do Decreto Legislativo Regional n.º 7/99/A, de 19 de Março, providos em comissão de serviço, por períodos de três anos.\n\n2 - À nomeação referida no número anterior aplicam-se os n.os 1, 2, 3, 4, 5, este último com excepção da sua ressalva final, e 7 do artigo 18.º, o n.º 1 e as alíneas b) e c) do n.º 2 do artigo 20.º, o artigo 24.º e o n.º 1 do artigo 32.º, todos da Lei n.º 49/99, de 22 de Junho.\n\n3 - O exercício do cargo de coordenador de bombeiros pode fazer-se em regime de acumulação com outras funções públicas ou privadas, caso em que será exercido a tempo parcial, nos termos da legislação em vigor."
+  },
+  "902742202": {
+   "fragment_id": "902742289",
+   "type": 11,
+   "heading": "Artigo 29.º — Competências dos coordenadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Competências dos coordenadores\n\n1 - Os coordenadores de bombeiros exercem a sua actividade nas áreas de competências cometidas à IB, na respectiva circunscrição territorial.\n\n2 - Na área de bombeiros, compete-lhes, designadamente:\n\na) Pronunciar-se sobre as zonas geográficas de acção restrita dos corpos de bombeiros da sua área de actuação;\n\nb) Exercer as funções de comando operacional na respectiva área de actuação de acordo com a estrutura definida;\n\nc) Recolher, sistematizar e enviar para o SRPCBA os dados estatísticos que lhes forem determinados;\n\nd) Fiscalizar a aplicação das normas de protecção e prevenção contra o risco de incêndios em estabelecimentos abertos ao público;\n\ne) Pronunciar-se no que respeita a redes de captação e distribuição de água para aglomerados urbanos, quanto a segurança contra incêndios;\n\nf) Emitir os pareceres e efectuar as vistorias previstas nos regulamentos de segurança contra incêndios, quando credenciados para o efeito;\n\ng) Propor a realização de inquéritos.\n\n3 - A remuneração de base do cargo de coordenador de bombeiros será a correspondente a 45% do vencimento de base de um director-geral, acrescendo-lhe o subsídio de refeição e as demais regalias gerais em vigor para o funcionalismo público."
+  },
+  "902742203": {
+   "fragment_id": "902742290",
+   "type": 3,
+   "heading": "Subsecção III — Centro de Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Centro de Formação"
+  },
+  "902742204": {
+   "fragment_id": "902742291",
+   "type": 11,
+   "heading": "Artigo 30.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Caracterização\n\n1 - O SRPCBA contém o Centro de Formação de Protecção Civil e Bombeiros (CF), directamente dependente do presidente do Serviço, especialmente responsável pela execução das tarefas inerentes à instrução teórico-prática dos agentes que intervenham em acções relacionadas com as atribuições do Serviço.\n\n2 - Relativamente ao pessoal de cujo normal desempenho decorre uma forte vertente operacional, compete ao CF, designadamente:\n\na) Conceber, programar e realizar acções de formação e aperfeiçoamento profissional, no âmbito da protecção civil;\n\nb) Conceber, programar e realizar acções de formação e aperfeiçoamento profissional nos domínios do combate ao fogo e da segurança contra incêndios;\n\nc) Estudar e fomentar novas técnicas de intervenção e combate ao fogo;\n\nd) Conceber, programar e realizar acções de formação e aperfeiçoamento profissional no domínio da condução de viaturas em situação de emergência;\n\ne) Conceber, programar e realizar acções de formação e aperfeiçoamento profissional no âmbito da prestação de cuidados de saúde em situação de emergência.\n\n3 - Sempre que tal se justifique ou seja solicitado, poderá o CF promover acções de formação em domínios conexos ou complementares ao da actividade do SRPCBA."
+  },
+  "902742205": {
+   "fragment_id": "902742292",
+   "type": 11,
+   "heading": "Artigo 31.º — Articulação funcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Articulação funcional\n\n1 - O CF articula-se funcionalmente com os demais serviços do SRPCBA, em geral, e com a DPFS em especial.\n\n2 - O programa dos cursos de formação a ministrar no CF será objecto de portaria conjunta do membro do Governo Regional que tutele o serviço e do que tenha a seu cargo a área da formação profissional.\n\n3 - Sempre que as matérias leccionadas exorbitem das áreas técnicas constantes das competências do SRPCBA, a portaria referida no número anterior incluirá também a assinatura dos membros do Governo Regional que tutelem essas áreas."
+  },
+  "902742206": {
+   "fragment_id": "902742293",
+   "type": 11,
+   "heading": "Artigo 32.º — Delegação de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Delegação de competências\n\nAs competências a que se reportam as alíneas do n.º 2 do artigo 30.º poderão ser delegadas no inspector de bombeiros e nos chefes de divisão que tenham a seu cargo a formação da área das matérias leccionadas ou sejam directamente responsáveis pela execução das tarefas inerentes à instrução teórico-prática dos agentes que intervenham em acções relacionadas com as atribuições do serviço."
+  },
+  "902742207": {
+   "fragment_id": "902742294",
+   "type": 1,
+   "heading": "Capítulo IV — Do pessoal do SRPCBA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Do pessoal do SRPCBA"
+  },
+  "902742208": {
+   "fragment_id": "902742295",
+   "type": 11,
+   "heading": "Artigo 33.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Quadro de pessoal\n\n1 - O quadro de pessoal do SRPCBA é o constante do mapa anexo II do presente diploma, que dele faz parte integrante, sendo agrupado de acordo com a seguinte classificação:\n\na) Pessoal dirigente;\n\nb) Pessoal de chefia;\n\nc) Pessoal técnico superior;\n\nd) Pessoal de informática;\n\ne) Pessoal técnico-profissional;\n\nf) Pessoal administrativo;\n\ng) Pessoal auxiliar;\n\nh) Pessoal operário altamente qualificado;\n\ni) Outro pessoal de chefia;\n\nj) Pessoal de emergência.\n\n2 - A transição do pessoal do SRPCBA para o quadro anexo ao presente diploma far-se-á automática e independentemente de quaisquer formalidades."
+  },
+  "902742209": {
+   "fragment_id": "902742296",
+   "type": 11,
+   "heading": "Artigo 34.º — Condições de ingresso e de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Condições de ingresso e de acesso\n\nAs condições e regras de ingresso e acesso dos funcionários do SRPCBA, para as respectivas categorias, são as estabelecidas no Decreto-Lei n.º 404-A/98, de 18 de Dezembro, e alterações subsequentes, bem como as previstas neste diploma e na legislação geral e regional complementar."
+  },
+  "902742210": {
+   "fragment_id": "902742297",
+   "type": 11,
+   "heading": "Artigo 35.º — Pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Pessoal dirigente\n\n1 - A área de recrutamento do pessoal dirigente do SRPCBA é a prevista no artigo 15.º do Decreto Legislativo Regional n.º 7/99/A, de 19 de Março, na sua redacção actualizada.\n\n2 - Os comandantes, 2.os comandantes ou adjuntos de comando que venham a ser providos em cargos dirigentes do SRPCBA suspenderão o exercício dos seus cargos nos respectivos corpos de bombeiros, retomando-o após a cessação da respectiva comissão de serviço.\n\n3 - O tempo de duração do exercício, no SRPCBA, das funções referidas no número anterior conta, para todos os efeitos, como tendo sido prestado no cargo de origem."
+  },
+  "902742211": {
+   "fragment_id": "902742298",
+   "type": 11,
+   "heading": "Artigo 36.º — Inspectores-coordenadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Inspectores-coordenadores\n\n1 - Os inspectores-coordenadores exercem funções de inspecção e comando operacional dos corpos de bombeiros da Região, competindo-lhes, designadamente:\n\na) Verificar o funcionamento e o estado de conservação do equipamento e parque de viaturas dos corpos de bombeiros;\n\nb) Inspeccionar a capacidade e prontidão dos corpos de bombeiros;\n\nc) Verificar o nível de conhecimentos técnicos dos elementos dos corpos de bombeiros;\n\nd) Exercer funções de comando operacional relativamente aos coordenadores e comandantes dos corpos de bombeiros;\n\ne) Assegurar a coordenação dos meios operacionais dos corpos de bombeiros, articulando-os com os meios de outros agentes ou serviços de protecção civil, nos casos de acidente grave, catástrofe ou calamidade;\n\nf) Coordenar a instrução do pessoal dos corpos de bombeiros;\n\ng) Produzir relatórios e demais peças processuais;\n\nh) Exercer as demais funções que lhe forem cometidas.\n\n2 - Os inspectores-coordenadores são nomeados por despacho do membro do Governo Regional que tutele o SRPCBA, sob proposta do presidente deste, por escolha, de entre indivíduos que exerçam ou tenham exercido funções de comando nos corpos de bombeiros, de acordo com o disposto no artigo 15.º do Decreto Legislativo Regional n.º 7/99/A, de 19 de Março, sendo providos em comissão de serviço por períodos de três anos.\n\n3 - À nomeação referida no número anterior aplicam-se os n.os 1, 2, 3, 4, 5, este último com excepção da sua ressalva final, e 7 do artigo 18.º, o n.º 1 e as alíneas b) e c) do n.º 2 do artigo 20.º, o artigo 24.º e o n.º 1 do artigo 32.º, todos da Lei n.º 49/99, de 22 de Junho.\n\n4 - Os elementos de comando que venham a ser providos no cargo de inspector-coordenador suspenderão o exercício dos seus cargos nos respectivos corpos de bombeiros, retomando-o após a cessação da respectiva comissão de serviço.\n\n5 - A remuneração de base do cargo de inspector-coordenador será a correspondente a 65% do vencimento de base de um director-geral, acrescendo-lhe o subsídio de refeição e as demais regalias gerais em vigor para o funcionalismo público."
+  },
+  "902742212": {
+   "fragment_id": "902742299",
+   "type": 11,
+   "heading": "Artigo 37.º — Pessoal de informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Pessoal de informática\n\nAs regras de ingresso e acesso do pessoal de informática são as estabelecidas no Decreto-Lei n.º 97/2001, de 26 de Março."
+  },
+  "902742213": {
+   "fragment_id": "902742300",
+   "type": 11,
+   "heading": "Artigo 38.º — Pessoal operário altamente qualificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Pessoal operário altamente qualificado\n\nAs regras de ingresso e acesso do pessoal operário altamente qualificado são as estabelecidas no Decreto-Lei n.º 518/99, de 10 de Dezembro."
+  },
+  "902742214": {
+   "fragment_id": "902742301",
+   "type": 11,
+   "heading": "Artigo 39.º — Conselheiros técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Conselheiros técnicos\n\n1 - Sempre que se justifique, podem ser nomeados conselheiros técnicos de entre indivíduos ligados ao sector e de reconhecida competência, por despacho do membro do Governo Regional que detém a tutela do SRPCBA, ouvido o presidente do serviço.\n\n2 - Do despacho de nomeação referido no número anterior constarão, juntamente com a devida fundamentação, a duração do vínculo, as prerrogativas e o currículo do nomeado.\n\n3 - Os conselheiros técnicos, em número não superior a quatro, terão direito a uma gratificação e, quando se desloquem em serviço, a abono de transportes e ajudas de custo.\n\n4 - A retribuição referida no número anterior será definida por despacho conjunto dos membros do Governo Regional que exerçam competências nos domínios das finanças, da Administração Pública e da tutela do SRPCBA, respectivamente."
+  },
+  "902742215": {
+   "fragment_id": "902742302",
+   "type": 11,
+   "heading": "Artigo 40.º — Carreira de operador de telecomunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Carreira de operador de telecomunicações\n\n1 - O recrutamento para a carreira de operador de telecomunicações far-se-á de entre indivíduos habilitados com adequado curso tecnológico ou profissional, designadamente nas áreas de telecomunicações e electrónica ou similares.\n\n2 - Na impossibilidade de se verificar o recrutamento nos termos do número anterior, o ingresso na categoria de operador de telecomunicações de 2.ª classe poderá fazer-se de entre indivíduos habilitados com o 9.º ano de escolaridade que tenham obtido aprovação num estágio de 12 meses, o qual será regulamentado por despacho normativo dos membros do Governo Regional da tutela e da Administração Pública."
+  },
+  "902742216": {
+   "fragment_id": "902742303",
+   "type": 11,
+   "heading": "Artigo 41.º — Disponibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Disponibilidade\n\n1 - O serviço prestado no SRPCBA é de carácter permanente e de total disponibilidade, pelo que todo o pessoal em exercício no SRPCBA não pode, salvo motivo excepcional devidamente justificado, deixar de comparecer ou permanecer no serviço em caso de iminência ou de ocorrência de acidente grave, catástrofe ou calamidade.\n\n2 - A inobservância do dever especial previsto no número anterior implica responsabilidade disciplinar nos termos da lei."
+  },
+  "902742217": {
+   "fragment_id": "902742304",
+   "type": 11,
+   "heading": "Artigo 42.º — Trabalho por turnos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Trabalho por turnos\n\nA Estação Açor funciona permanentemente, em regime de trabalho por turnos, de acordo com a legislação em vigor."
+  },
+  "902742218": {
+   "fragment_id": "902742305",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "902742219": {
+   "fragment_id": "902742306",
+   "type": 11,
+   "heading": "Artigo 43.º — Símbolo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Símbolo\n\n1 - O símbolo da protecção civil está genericamente definido no artigo 15.º do Regulamento Relativo à Identificação do Protocolo Adicional 1 às Convenções de Genebra, de 12 de Agosto de 1949, aprovado pela Resolução da Assembleia da República n.º 10/92, de 1 de Abril.\n\n2 - A designação e o emblema devem respeitar o disposto na lei relativamente ao Serviço Nacional de Protecção Civil.\n\n3 - Por portaria do membro do Governo Regional com competência na área da protecção civil, poderão ser introduzidas pequenas alterações que, não descaracterizando a simbologia comummente adoptada, individualizem o Serviço Regional."
+  },
+  "902742220": {
+   "fragment_id": "902742307",
+   "type": 11,
+   "heading": "Artigo 44.º — Distintivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Distintivos\n\n1 - Os modelos dos distintivos e do vestuário do pessoal do SRPCBA, bem como as condições do respectivo uso, serão aprovados por portaria do membro do Governo Regional competente.\n\n2 - Os serviços municipais poderão, por deliberação da respectiva câmara municipal, adoptar distintivos e vestuário próprios, desde que não colidam com as determinações imperativas fixadas na lei geral e no regulamento a aprovar, nos termos do número anterior."
+  },
+  "902742221": {
+   "fragment_id": "902742308",
+   "type": 11,
+   "heading": "Artigo 45.º — Transporte terrestre de doentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Transporte terrestre de doentes\n\n1 - No prazo de 90 dias contados da data da entrada em vigor do presente diploma, será produzida nova regulamentação disciplinadora do transporte terrestre de doentes na Região Autónoma dos Açores.\n\n2 - Os tripulantes de ambulância têm direito a cartão de identificação, segundo modelos e nas condições previstas em portaria do membro do Governo Regional que tutele o SRPCBA."
+  },
+  "902742222": {
+   "fragment_id": "902742309",
+   "type": 11,
+   "heading": "Artigo 46.º — Cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Cooperação\n\n1 - O SRPCBA, no âmbito das suas áreas de actuação, e de acordo com as orientações superiormente fixadas, poderá promover formas de cooperação e coordenação com personalidades de reconhecido mérito, bem como com instituições e entidades locais, regionais, nacionais e internacionais.\n\n2 - No âmbito da cooperação e coordenação acima referidas, pode o SRPCBA celebrar contratos, protocolos ou documentos de intenções com os destinatários dessas suas acções, afectando, directa ou indirectamente, meios, inclusivamente de natureza financeira, necessários à respectiva realização.\n\n3 - Os contratos, protocolos ou documentos de intenções, referidos no número anterior, estão sujeitos:\n\na) A homologação do membro do Governo Regional que tutele o Serviço, sempre que o outro outorgante tenha carácter nacional;\n\nb) A homologação do Presidente do Governo Regional, sempre que o outro outorgante tenha carácter internacional."
+  },
+  "902742223": {
+   "fragment_id": "902742310",
+   "type": 11,
+   "heading": "Artigo 47.º — Apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Apoios\n\n1 - O SRPCBA deve assegurar aos agentes de protecção civil e à população em geral os meios que permitam a realização das suas atribuições.\n\n2 - Nos termos do número anterior, pode o SRPCBA apoiar, através dos meios considerados mais eficazes, neles se incluindo os de natureza financeira, a acção dos agentes de protecção civil, designadamente as associações humanitárias, os corpos de bombeiros e as demais entidades cuja acção esteja vocacionada para domínios de reconhecido interesse para o Serviço, nomeadamente a investigação científica ou a solidariedade social.\n\n3 - Os apoios referidos nos números anteriores serão atribuídos por despacho do membro do Governo Regional que tutele o Serviço e publicados na 2.ª série do Jornal Oficial.\n\n4 - A competência referida no número anterior pode ser delegada."
+  },
+  "902742224": {
+   "fragment_id": "902742311",
+   "type": 11,
+   "heading": "Artigo 48.º — Gratificações dos comandantes dos corpos de bombeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Gratificações dos comandantes dos corpos de bombeiros\n\nAos comandantes dos corpos de bombeiros voluntários da Região que não exerçam quaisquer cargos dirigentes ou de chefia no âmbito do SRPCBA será atribuída uma gratificação de valor correspondente ao do índice 100 da tabela de vencimentos do regime geral da função pública."
+  },
+  "902742225": {
+   "fragment_id": "902742312",
+   "type": 11,
+   "heading": "Artigo 49.º — Apoio técnico e científico e prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Apoio técnico e científico e prestação de serviços\n\n1 - Os departamentos e serviços da administração regional dos Açores prestarão gratuitamente o apoio técnico, logístico e científico solicitado pelo SRPCBA.\n\n2 - O SRPCBA poderá estabelecer protocolos com outros serviços e organismos para prestação de apoio técnico e científico."
+  },
+  "902742226": {
+   "fragment_id": "902742313",
+   "type": 11,
+   "heading": "Artigo 50.º — Identificação do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Identificação do pessoal\n\n1 - A identificação do pessoal em serviço no SRPCBA é feita mediante a apresentação de cartão próprio.\n\n2 - Ao pessoal devidamente identificado, no exercício das suas funções, é facultada a livre entrada nos estabelecimentos e locais pertencentes ao sector público, privado ou cooperativo.\n\n3 - Os modelos de cartões de identificação e o regulamento respeitante à sua utilização são aprovados por portaria do membro do Governo Regional que tutele o SRPCBA."
+  },
+  "902742227": {
+   "fragment_id": "902742314",
+   "type": 11,
+   "heading": "Artigo 51.º — Identificação dos bombeiros da Região",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Identificação dos bombeiros da Região\n\nOs bombeiros têm direito a cartão de identificação, segundo modelos e nas condições previstas em portaria do membro do Governo Regional que tutele o SRPCBA."
+  },
+  "902742228": {
+   "fragment_id": "902742315",
+   "type": 11,
+   "heading": "Artigo 52.º — Credenciais avulsas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Credenciais avulsas\n\n1 - Por determinação do membro do Governo Regional da tutela do SRPCBA ou decisão do presidente do Serviço poderão ser credenciadas avulsamente pessoas que participem ou colaborem em acções de protecção civil, nomeadamente em situações de iminência ou de ocorrência de acidente grave, catástrofe ou calamidade, atribuindo-se-lhes, temporária ou permanentemente, todas ou algumas das prerrogativas conferidas aos detentores dos cartões de identificação referidos nos artigos anteriores.\n\n2 - Das credenciais deve constar a identificação completa dos seus titulares, acompanhada, se possível, de fotografia do portador, bem como a natureza da relação entre o portador e a estrutura da protecção civil regional e, ainda, a natureza, a extensão e os limites das prerrogativas conferidas."
+  },
+  "902742229": {
+   "fragment_id": "902742316",
+   "type": 11,
+   "heading": "Artigo 53.º — Uniforme e regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Uniforme e regulamento\n\n1 - Os elementos do SRPCBA, em funções operacionais, exercem as suas missões devidamente uniformizados.\n\n2 - Os modelos dos uniformes e o regulamento respeitante à sua utilização são aprovados por portaria do membro do Governo Regional que tutele o SRPCBA."
+  },
+  "902742230": {
+   "fragment_id": "902742317",
+   "type": 11,
+   "heading": "Artigo 54.º — Participação de cidadãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Participação de cidadãos\n\nNa prossecução das suas atribuições o SRPCBA poderá recorrer, se necessário, ao voluntariado, de acordo com o regime estabelecido na Lei n.º 71/98, de 3 de Novembro, e sua regulamentação."
+  },
+  "902742231": {
+   "fragment_id": "902742318",
+   "type": 14,
+   "heading": "Anexo II — Quadro de pessoal do Serviço Regional de Protecção Civil e Bombeiros dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Quadro de pessoal do Serviço Regional de Protecção Civil e Bombeiros dos Açores\n\n(ver quadro no documento original)"
+  },
+  "902717465": {
+   "fragment_id": "902591752",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional na Madalena, Pico, em 3 de Abril de 2003.\n\nO Presidente do Governo Regional, Carlos Manuel Martins do Vale César.\n\nAssinado em Angra do Heroísmo em 14 de Julho de 2003.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio."
+  },
+  "902742232": {
+   "fragment_id": "902591770",
+   "type": 11,
+   "heading": "Artigo 13.º — Conselho regional de bombeiros",
+   "in_force_from": "2025-01-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 2/2025/A - Diário da República n.º 5/2025, Série I de 2025-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-902264456), em vigor a partir de 2025-01-09"
+   ],
+   "markdown": "###### Artigo 13.º — Conselho regional de bombeiros\n\n1 - O CRB é um órgão de auscultação e de consulta do presidente do SRPCBA na área dos bombeiros, assessorando-o nos domínios mais relevantes da acção geral desses corpos.\n\n2 - Compete ao CRB, designadamente:\n\na) Pronunciar-se acerca dos programas de apoio aos corpos de bombeiros;\n\nb) Propor formas de apoio a prestar às associações humanitárias e aos corpos de bombeiros;\n\nc) Pronunciar-se acerca das formas de apoio a conceder pelo SRPCBA às associações humanitárias;\n\nd) Pronunciar-se sobre os critérios gerais a que deve obedecer a formação e a preparação técnica do pessoal dos corpos de bombeiros;\n\ne) Pronunciar-se sobre as normas gerais a que deve obedecer a regulamentação interna dos corpos de bombeiros da Região e respectivos quadros de pessoal;\n\nf) Pronunciar-se sobre as normas gerais a que deve obedecer a regulamentação relativa ao equipamento, fardamento e material dos corpos de bombeiros, visando a normalização técnica da respectiva actividade;\n\ng) Pronunciar-se acerca da delimitação geográfica da acção restrita dos corpos de bombeiros;\n\nh) Dar parecer relativamente a propostas de criação de novos corpos de bombeiros ou secções destacadas.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 2/2025/A - Diário da República n.º 5/2025, Série I de 2025-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-902264456), em vigor a partir de 2025-01-09"
+  },
+  "902742233": {
+   "fragment_id": "902591771",
+   "type": 11,
+   "heading": "Artigo 14.º — Composição",
+   "in_force_from": "2025-01-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 2/2025/A - Diário da República n.º 5/2025, Série I de 2025-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-902264456), em vigor a partir de 2025-01-09"
+   ],
+   "markdown": "###### Artigo 14.º — Composição\n\n1 - O CRB tem a seguinte composição:\n\na) O presidente do SRPCBA, que preside;\n\nb) O vice-presidente do SRPCBA;\n\nc) O inspector de bombeiros;\n\nd) Um representante das federações de bombeiros dos Açores;\n\ne) Um representante de cada associação humanitária de bombeiros;\n\nf) Os comandantes dos corpos de bombeiros da Região.\n\n2 - A solicitação do presidente ou por este autorizados, podem ser convocados técnicos, peritos, organizações e entidades competentes para a emissão de pareceres em áreas especializadas ou quaisquer outros elementos cuja presença seja considerada oportuna.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 2/2025/A - Diário da República n.º 5/2025, Série I de 2025-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-902264456), em vigor a partir de 2025-01-09"
+  },
+  "902742234": {
+   "fragment_id": "902591772",
+   "type": 11,
+   "heading": "Artigo 15.º — Reuniões",
+   "in_force_from": "2025-01-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 2/2025/A - Diário da República n.º 5/2025, Série I de 2025-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-902264456), em vigor a partir de 2025-01-09"
+   ],
+   "markdown": "###### Artigo 15.º — Reuniões\n\n1 - O CRB reunir-se-á ordinariamente uma vez por ano e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa ou a solicitação de, pelo menos, um terço dos seus membros.\n\n2 - As reuniões são geralmente plenárias.\n\n3 - Havendo sido constituído, no seio do conselho, alguma comissão ou grupo de trabalho, poderão ocorrer reuniões seccionadas, de acordo com o que ficar previamente determinado na deliberação que aprovar tal constituição.\n\n4 - O CRB elabora o seu regulamento interno.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 2/2025/A - Diário da República n.º 5/2025, Série I de 2025-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-902264456), em vigor a partir de 2025-01-09"
+  }
+ }
+}

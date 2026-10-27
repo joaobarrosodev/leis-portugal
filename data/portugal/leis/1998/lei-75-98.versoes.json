@@ -1,0 +1,272 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:230700:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1998-107072781",
+ "dre_path": "/dr/detalhe/lei/75-1998-230700",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-11-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107055645",
+    "107055646",
+    "107055647",
+    "107055648",
+    "107055649",
+    "107055650",
+    "107055651",
+    "107055652",
+    "107055653"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632448:por",
+     "title": "Lei n.º 66-B/2012",
+     "published": "2012-12-31",
+     "dre_path": "/dr/detalhe/lei/66-b-2012-632448"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "107055645",
+    "107055655",
+    "107055656",
+    "107055648",
+    "107055649",
+    "107055650",
+    "107055651",
+    "107055652",
+    "107055653",
+    "107055654"
+   ]
+  },
+  {
+   "date": "2017-06-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107061862:por",
+     "title": "Lei n.º 24/2017",
+     "published": "2017-05-24",
+     "dre_path": "/dr/detalhe/lei/24-2017-107061862"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "107055645",
+    "107055664",
+    "107055656",
+    "107055648",
+    "107055649",
+    "107055650",
+    "107055651",
+    "107055652",
+    "107055653",
+    "107055654"
+   ]
+  },
+  {
+   "date": "2019-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117537583:por",
+     "title": "Lei n.º 71/2018",
+     "published": "2018-12-31",
+     "dre_path": "/dr/detalhe/lei/71-2018-117537583"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A"
+   ],
+   "fragments": [
+    "107055645",
+    "107055664",
+    "107055656",
+    "107055648",
+    "107055649",
+    "117557450",
+    "117557451",
+    "117557452",
+    "117557453",
+    "117557454",
+    "117557455"
+   ]
+  }
+ ],
+ "fragments": {
+  "107055645": {
+   "fragment_id": "107072782",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 75/98\n\nde 19 de Novembro\n\nGarantia dos alimentos devidos a menores\n\nA Assembleia da República decreta, nos termos dos artigos 161.º, alínea c), e 166.º, n.º 3, e do artigo 112.º, n.º 5, da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "107055646": {
+   "fragment_id": "107072783",
+   "type": 11,
+   "heading": "Artigo 1.º — Garantia de alimentos devidos a menores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Garantia de alimentos devidos a menores\n\nQuando a pessoa judicialmente obrigada a prestar alimentos a menor residente em território nacional não satisfizer as quantias em dívida pelas formas previstas no artigo 189.º do Decreto-Lei n.º 314/78, de 27 de Outubro, e o alimentado não tenha rendimento líquido superior ao salário mínimo nacional nem beneficie nessa medida de rendimentos de outrem a cuja guarda se encontre, o Estado assegura as prestações previstas na presente lei até ao início do efectivo cumprimento da obrigação."
+  },
+  "107055647": {
+   "fragment_id": "107072784",
+   "type": 11,
+   "heading": "Artigo 2.º — Fixação e montante das prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Fixação e montante das prestações\n\n1 - As prestações atribuídas nos termos da presente lei são fixadas pelo tribunal e não podem exceder, mensalmente, por cada devedor, o montante de 4 UC.\n\n2 - Para a determinação do montante referido no número anterior, o tribunal atenderá à capacidade económica do agregado familiar, ao montante da prestação de alimentos fixada e às necessidades específicas do menor."
+  },
+  "107055648": {
+   "fragment_id": "107072785",
+   "type": 11,
+   "heading": "Artigo 3.º — Disposições processuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Disposições processuais\n\n1 - Compete ao Ministério Público ou àqueles a quem a prestação de alimentos deveria ser entregue requerer nos respectivos autos de incumprimento que o tribunal fixe o montante que o Estado, em substituição do devedor, deve prestar.\n\n2 - Se for considerada justificada e urgente a pretensão do requerente, o juiz, após diligências de prova, proferirá decisão provisória.\n\n3 - Seguidamente, o juiz mandará proceder às restantes diligências que entenda indispensáveis e a inquérito sobre as necessidades do menor, posto o que decidirá.\n\n4 - O montante fixado pelo tribunal perdura enquanto se verificarem as circunstâncias subjacentes à sua concessão e até que cesse a obrigação a que o devedor está obrigado.\n\n5 - Da decisão cabe recurso de agravo com efeito devolutivo para o tribunal da relação.\n\n6 - Compete a quem receber a prestação a renovação anual da prova de que se mantêm os pressupostos subjacentes à sua atribuição, sem o que a mesma cessa."
+  },
+  "107055649": {
+   "fragment_id": "107072786",
+   "type": 11,
+   "heading": "Artigo 4.º — Cessação ou alteração das prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cessação ou alteração das prestações\n\n1 - O representante legal do menor ou a pessoa à guarda de quem se encontre deve comunicar ao tribunal ou à entidade responsável pelo pagamento das prestações previstas na presente lei a cessação ou qualquer alteração da situação de incumprimento ou da situação do menor.\n\n2 - A necessidade de cessação ou alteração das prestações pode ser comunicada ao curador por qualquer pessoa."
+  },
+  "107055650": {
+   "fragment_id": "107072787",
+   "type": 11,
+   "heading": "Artigo 5.º — Responsabilidade civil e criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Responsabilidade civil e criminal\n\n1 - Dos quantitativos indevidamente recebidos cabe restituição e, em caso de incumprimento doloso do dever de informação previsto no artigo anterior, o pagamento de juros de mora.\n\n2 - Aqueles que omitirem factos relevantes para a concessão da prestação de alimentos pelo Estado em substituição do devedor ficam sujeitos a procedimento criminal por crime de burla."
+  },
+  "107055651": {
+   "fragment_id": "107072788",
+   "type": 11,
+   "heading": "Artigo 6.º — Fundo de Garantia dos Alimentos Devidos a Menores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fundo de Garantia dos Alimentos Devidos a Menores\n\n1 - É constituído o Fundo de Garantia dos Alimentos Devidos a Menores, adiante designado por Fundo, cuja inserção orgânica será definida por diploma regulamentar do Governo.\n\n2 - O Fundo é gerido em conta especial e assegurará o pagamento das prestações fixadas nos termos da presente lei.\n\n3 - O Fundo de Garantia dos Alimentos Devidos a Menores fica sub-rogado em todos os direitos dos menores a quem sejam atribuídas prestações, com vista à garantia do respectivo reembolso.\n\n4 - As dotações do Fundo são inscritas anualmente no Orçamento do Estado, em rubrica própria."
+  },
+  "107055652": {
+   "fragment_id": "107072789",
+   "type": 11,
+   "heading": "Artigo 7.º — Regulamentação e execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regulamentação e execução\n\nO Governo regulamentará no prazo de 90 dias, mediante decreto-lei, o disposto no presente diploma e tomará as providências orçamentais necessárias à sua execução."
+  },
+  "107055653": {
+   "fragment_id": "107072790",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente diploma entra em vigor na data da sua publicação e produz efeitos na data da entrada em vigor da lei do orçamento posterior à regulamentação prevista no artigo anterior."
+  },
+  "107055655": {
+   "fragment_id": "107072783",
+   "type": 11,
+   "heading": "Artigo 1.º — Garantia de alimentos devidos a menores",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 183.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Garantia de alimentos devidos a menores\n\n1 - Quando a pessoa judicialmente obrigada a prestar alimentos a menor residente em território nacional não satisfizer as quantias em dívida pelas formas previstas no artigo 189.º do Decreto-Lei n.º 314/78, de 27 de outubro, e o alimentado não tenha rendimento ilíquido superior ao valor do indexante dos apoios sociais (IAS) nem beneficie nessa medida de rendimentos de outrem a cuja guarda se encontre, o Estado assegura as prestações previstas na presente lei até ao início do efetivo cumprimento da obrigação.\n\n2 - O pagamento das prestações a que o Estado se encontra obrigado, nos termos da presente lei, cessa no dia em que o menor atinja a idade de 18 anos.\n\n> Alterado pelo/a Artigo 183.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+  },
+  "107055656": {
+   "fragment_id": "107072784",
+   "type": 11,
+   "heading": "Artigo 2.º — Fixação e montante das prestações",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 183.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Fixação e montante das prestações\n\n1 - As prestações atribuídas nos termos da presente lei são fixadas pelo tribunal e não podem exceder, mensalmente, por cada devedor, o montante de 1 IAS, independentemente do número de filhos menores.\n\n2 - Para a determinação do montante referido no número anterior, o tribunal atenderá à capacidade económica do agregado familiar, ao montante da prestação de alimentos fixada e às necessidades específicas do menor.\n\n> Alterado pelo/a Artigo 183.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+  },
+  "107055654": {
+   "fragment_id": "107072791",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 15 de Outubro de 1998.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 5 de Novembro de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 9 de Novembro de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "107055664": {
+   "fragment_id": "107072783",
+   "type": 11,
+   "heading": "Artigo 1.º — Garantia de alimentos devidos a menores",
+   "in_force_from": "2017-06-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 24/2017 - Diário da República n.º 100/2017, Série I de 2017-05-24](https://diariodarepublica.pt/dr/detalhe/lei/24-2017-107061862), em vigor a partir de 2017-06-23",
+    "Alterado pelo/a Artigo 183.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Garantia de alimentos devidos a menores\n\n1 - Quando a pessoa judicialmente obrigada a prestar alimentos a menor residente em território nacional não satisfizer as quantias em dívida pelas formas previstas no artigo 189.º do Decreto-Lei n.º 314/78, de 27 de outubro, e o alimentado não tenha rendimento ilíquido superior ao valor do indexante dos apoios sociais (IAS) nem beneficie nessa medida de rendimentos de outrem a cuja guarda se encontre, o Estado assegura as prestações previstas na presente lei até ao início do efetivo cumprimento da obrigação.\n\n2 - O pagamento das prestações a que o Estado se encontra obrigado, nos termos da presente lei, cessa no dia em que o menor atinja a idade de 18 anos, exceto nos casos e nas circunstâncias previstas no n.º 2 do artigo 1905.º do Código Civil.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 24/2017 - Diário da República n.º 100/2017, Série I de 2017-05-24](https://diariodarepublica.pt/dr/detalhe/lei/24-2017-107061862), em vigor a partir de 2017-06-23\n\n> Alterado pelo/a Artigo 183.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+  },
+  "117557450": {
+   "fragment_id": "117557511",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Fixação do montante e atualização da prestação",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 327.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 4.º-A — Fixação do montante e atualização da prestação\n\n1 - O montante da prestação de alimentos a cargo do Fundo de Garantia dos Alimentos Devidos a Menores não pode exceder o montante da pensão de alimentos estabelecida no acordo ou na decisão judicial de regulação do exercício das responsabilidades parentais ou de fixação de alimentos.\n\n2 - Caso tenham sido fixados coeficientes de atualização da pensão de alimentos, devem estes ser considerados na determinação da prestação a atribuir pelo Fundo desde que a operação de liquidação possa ser realizada através de simples cálculo aritmético e com o recurso a coeficientes de conhecimento público.\n\n3 - A atualização da prestação de alimentos é efetuada oficiosamente pelo Fundo de Garantia aquando da renovação dos pressupostos para a respetiva atribuição e tendo como referência a variação positiva em vigor no termo do ano anterior ao da renovação.\n\n> Aditado pelo/a Artigo 327.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+  },
+  "117557451": {
+   "fragment_id": "107072787",
+   "type": 11,
+   "heading": "Artigo 5.º — Responsabilidade civil e criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Responsabilidade civil e criminal\n\n1 - Dos quantitativos indevidamente recebidos cabe restituição e, em caso de incumprimento doloso do dever de informação previsto no artigo anterior, o pagamento de juros de mora.\n\n2 - Aqueles que omitirem factos relevantes para a concessão da prestação de alimentos pelo Estado em substituição do devedor ficam sujeitos a procedimento criminal por crime de burla."
+  },
+  "117557452": {
+   "fragment_id": "107072788",
+   "type": 11,
+   "heading": "Artigo 6.º — Fundo de Garantia dos Alimentos Devidos a Menores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fundo de Garantia dos Alimentos Devidos a Menores\n\n1 - É constituído o Fundo de Garantia dos Alimentos Devidos a Menores, adiante designado por Fundo, cuja inserção orgânica será definida por diploma regulamentar do Governo.\n\n2 - O Fundo é gerido em conta especial e assegurará o pagamento das prestações fixadas nos termos da presente lei.\n\n3 - O Fundo de Garantia dos Alimentos Devidos a Menores fica sub-rogado em todos os direitos dos menores a quem sejam atribuídas prestações, com vista à garantia do respectivo reembolso.\n\n4 - As dotações do Fundo são inscritas anualmente no Orçamento do Estado, em rubrica própria."
+  },
+  "117557453": {
+   "fragment_id": "107072789",
+   "type": 11,
+   "heading": "Artigo 7.º — Regulamentação e execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regulamentação e execução\n\nO Governo regulamentará no prazo de 90 dias, mediante decreto-lei, o disposto no presente diploma e tomará as providências orçamentais necessárias à sua execução."
+  },
+  "117557454": {
+   "fragment_id": "107072790",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente diploma entra em vigor na data da sua publicação e produz efeitos na data da entrada em vigor da lei do orçamento posterior à regulamentação prevista no artigo anterior."
+  },
+  "117557455": {
+   "fragment_id": "107072791",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 15 de Outubro de 1998.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 5 de Novembro de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 9 de Novembro de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

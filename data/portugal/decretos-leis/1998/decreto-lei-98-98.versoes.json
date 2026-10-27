@@ -1,0 +1,161 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:174848:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-34435475",
+ "dre_path": "/dr/detalhe/decreto-lei/98-1998-174848",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-04-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114091177",
+    "53063875",
+    "53063975",
+    "53064075",
+    "53064175",
+    "53064275",
+    "53064375",
+    "53064475"
+   ]
+  },
+  {
+   "date": "2013-05-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:261146:por",
+     "title": "Decreto-Lei n.º 65/2013",
+     "published": "2013-05-13",
+     "dre_path": "/dr/detalhe/decreto-lei/65-2013-261146"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º-A"
+   ],
+   "fragments": [
+    "53063775",
+    "53063875",
+    "53063975",
+    "53064075",
+    "53064175",
+    "53064275",
+    "53064375",
+    "53065575",
+    "53065675",
+    "53065775"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:69977689:por",
+     "title": "Decreto-Lei n.º 159/2015",
+     "published": "2015-08-10",
+     "dre_path": "/dr/detalhe/decreto-lei/159-2015-69977689",
+     "date": "2015-05-09"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "114091177": {
+   "fragment_id": "35055275",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2015-05-09",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 98/98\n\nde 18 de Abril\n\nNo cumprimento do imperativo constitucional - v. g. artigos 67.º, 69.º e 70.º - que confere um direito especial de protecção por parte do Estado e da sociedade às crianças e jovens órfãos, abandonados ou por qualquer forma privados de um meio familiar normal e da promoção efectiva dos direitos das crianças consagrados na Convenção sobre os Direitos da Criança, o XIII Governo Constitucional consagrou no seu Programa do Governo, como uma das suas prioridades, a promoção da família e a protecção das crianças e jovens em risco.\n\nNeste contexto, o Governo decidiu, através da Resolução do Conselho de Ministros n.º 193/97, de 3 de Outubro (publicada no Diário da República, 1.ª série-B, n.º 254, de 3 de Novembro de 1997), desenvolver um processo interministerial e interinstitucional de reforma do sistema da protecção de crianças e jovens em risco, que assenta nas seguintes vertentes: reforma legal e enquadramento institucional; desenvolvimento e coordenação das respostas sociais; auditorias e estudos; dinamização e coordenação da reforma.\n\nNa sequência da referida resolução, está já constituída e em funcionamento a Comissão de Reforma da Legislação de Protecção da Criança, nomeada pelo despacho conjunto n.º 524/97, dos Ministros da Justiça e da Solidariedade e Segurança Social, de 18 de Novembro (publicado no Diário da República, 2.ª série, n.º 294, de 22 de Dezembro de 1997).\n\nEm execução do Programa Adopção 2000, adoptado por despacho conjunto dos Ministros da Justiça e da Solidariedade e Segurança Social de 18 de Março de 1997, publicado no Diário da República, 2.ª série, n.º 92, de 19 de Abril de 1997, e a par da entrada em funcionamento de novas comissões de protecção de menores, o Ministro do Trabalho e da Solidariedade, em parceria com as autarquias locais e instituições particulares de solidariedade social, criou as condições e os meios de financiamento para a abertura, nos anos de 1997 e 1998, de 24 centros de acolhimento temporário, de modo a constituir uma rede nacional de emergência para crianças e jovens em risco.\n\nProsseguindo esta acção e dando cumprimento ao disposto no n.º 6 da Resolução n.º 193/97, importa criar, na dependência dos Ministros da Justiça e do Trabalho e da Solidariedade, a Comissão Nacional de Protecção das Crianças e Jovens em Risco, na qual estarão representadas as entidades públicas e privadas com acção específica nesta área. À Comissão caberá planificar a intervenção do Estado, bem como a coordenação, acompanhamento e avaliação da acção dos organismos públicos e da comunidade, em matéria de protecção de crianças e jovens em risco.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º e do n.º 5 do artigo 112.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "53063875": {
+   "fragment_id": "36260375",
+   "type": 11,
+   "heading": "Artigo 1.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Atribuições\n\n1 - À Comissão Nacional de Protecção das Crianças e Jovens em Risco, adiante designada por Comissão Nacional, cabe planificar a intervenção do Estado e a coordenação, acompanhamento e avaliação da acção dos organismos públicos e da comunidade na protecção de crianças e jovens em risco.\n\n2 - São atribuições da Comissão Nacional, nomeadamente:\n\na) Participar nas alterações legislativas que respeitem ao âmbito do seu mandato;\n\nb) Dinamizar, nomeadamente no âmbito do Pacto de Cooperação para a Solidariedade Social, os protocolos entre as comissões de protecção de menores (CPM), os departamentos estatais com intervenção nesta área e as instituições particulares de solidariedade social ou outras entidades privadas;\n\nc) Dinamizar a criação de equipas interdisciplinares de menores e adopção e a sua formação especializada;\n\nd) Dinamizar a criação de centros de acolhimento de emergência nas zonas geográficas onde se mostrem necessários e para as problemáticas que o justifiquem;\n\ne) Preparar e coordenar a transição dos menores e dos meios humanos, físicos e económicos que se encontrem no sistema de justiça e venham a transitar para o sistema de solidariedade social;\n\nf) Solicitar e coordenar as auditorias e os estudos de diagnóstico e avaliação das carências, medidas e respostas sociais;\n\ng) Dinamizar, coordenar e acompanhar a elaboração do diagnóstico da situação das crianças institucionalizadas e ou em enquadramento fora da família;\n\nh) Concertar a acção de todas as entidades públicas e privadas, estruturas e programas de intervenção na área das crianças e jovens em risco, de modo a reforçar estratégias de cooperação e de racionalização de recursos;\n\ni) Acompanhar e apoiar as comissões de protecção de menores, permitindo-lhes melhorar a qualidade do seu desempenho."
+  },
+  "53063975": {
+   "fragment_id": "36260475",
+   "type": 11,
+   "heading": "Artigo 2.º — Constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Constituição\n\n1 - A Comissão Nacional de Protecção das Crianças e Jovens em Risco é constituída na dependência conjunta dos Ministros da Justiça e do Trabalho e da Solidariedade, com a seguinte composição:\n\na) Uma individualidade a nomear por despacho conjunto dos Ministros da Justiça e do Trabalho e da Solidariedade, a qual presidirá à Comissão;\n\nb) Um representante da Presidência do Conselho de Ministros, a indicar pelo alto-comissário para a Promoção da Igualdade e da Família;\n\nc) Um representante do Ministério da Justiça;\n\nd) Um representante do Ministério do Trabalho e da Solidariedade;\n\ne) Um representante do Ministério da Educação;\n\nf) Um representante do Ministério da Saúde;\n\ng) Uma individualidade a indicar pelo Procurador-Geral da República;\n\nh) Uma individualidade a indicar pelo Provedor de Justiça;\n\ni) Um representante da Secretaria de Estado da Juventude;\n\nj) Um representante do Governo da Região Autónoma dos Açores;\n\nk) Um representante do Governo da Região Autónoma da Madeira;\n\nl) Um representante da Associação Nacional dos Municípios Portugueses;\n\nm) Um representante da Associação Nacional das Freguesias;\n\nn) Um representante da União das Instituições Particulares de Solidariedade Social;\n\no) Um representante da União das Misericórdias;\n\np) Um representante da União das Mutualidades;\n\nq) O dirigente do Gabinete Técnico de Apoio à Comissão Nacional.\n\n2 - Os mandatos do presidente e dos representantes referidos no número anterior têm a duração de dois anos.\n\n3 - As entidades com assento na Comissão Nacional podem, a todo o tempo, proceder à substituição dos seus representantes.\n\n4 - No caso de impedimento temporário dos seus representantes, a entidade representada poderá substituir o seu representante, pelo período de impedimento, através de mera comunicação escrita ao presidente da Comissão Nacional.\n\n5 - No prazo máximo de 60 dias a contar da data da entrada em funcionamento, deve a Comissão Nacional proceder à elaboração do respectivo regulamento interno e do plano de acção e submetê-los à homologação dos Ministros da Justiça e do Trabalho e da Solidariedade.\n\n6 - A Comissão Nacional é apoiada permanentemente por um gabinete técnico, com funções executivas."
+  },
+  "53064075": {
+   "fragment_id": "36260575",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos\n\nSão órgãos da Comissão:\n\na) O presidente;\n\nb) O plenário de todos os membros da Comissão Nacional."
+  },
+  "53064175": {
+   "fragment_id": "36260675",
+   "type": 11,
+   "heading": "Artigo 4.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Presidente\n\n1 - Ao presidente da Comissão Nacional compete:\n\na) Dirigir a Comissão Nacional e representá-la publicamente;\n\nb) Elaborar a agenda das reuniões;\n\nc) Convocar e dirigir as reuniões do plenário;\n\nd) Assegurar o encaminhamento das deliberações da Comissão Nacional.\n\n2 - O presidente designa, de entre os membros da Comissão Nacional, o substituto, nas suas faltas e impedimentos."
+  },
+  "53064275": {
+   "fragment_id": "36260775",
+   "type": 11,
+   "heading": "Artigo 5.º — Plenário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Plenário\n\n1 - O plenário é constituído pelos representantes referidos no artigo 2.º\n\n2 - Ao plenário compete efectuar todas as acções necessárias ao desenvolvimento das atribuições da Comissão Nacional previstas no n.º 2 do artigo 1.º\n\n3 - O plenário reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocado pelo presidente, por sua iniciativa ou a requerimento de dois terços dos seus membros.\n\n4 - O plenário delibera por maioria simples, tendo o presidente voto de qualidade.\n\n5 - Podem ser constituídas comissões especializadas para a análise e estudo de matérias específicas a submeter à deliberação do plenário.\n\n6 - Das reuniões são lavradas actas."
+  },
+  "53064375": {
+   "fragment_id": "36260875",
+   "type": 11,
+   "heading": "Artigo 6.º — Relatórios de actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Relatórios de actividades\n\nA Comissão Nacional deve elaborar e divulgar um relatório anual de actividades."
+  },
+  "53064475": {
+   "fragment_id": "36260975",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em funcionamento\n\nA Comissão Nacional deve estar constituída no prazo e 15 dias a contar da publicação do presente decreto-lei entrar em funcionamento nos 30 dias subsequentes."
+  },
+  "53063775": {
+   "fragment_id": "35055275",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 98/98\n\nde 18 de Abril\n\nNo cumprimento do imperativo constitucional - v. g. artigos 67.º, 69.º e 70.º - que confere um direito especial de protecção por parte do Estado e da sociedade às crianças e jovens órfãos, abandonados ou por qualquer forma privados de um meio familiar normal e da promoção efectiva dos direitos das crianças consagrados na Convenção sobre os Direitos da Criança, o XIII Governo Constitucional consagrou no seu Programa do Governo, como uma das suas prioridades, a promoção da família e a protecção das crianças e jovens em risco.\n\nNeste contexto, o Governo decidiu, através da Resolução do Conselho de Ministros n.º 193/97, de 3 de Outubro (publicada no Diário da República, 1.ª série-B, n.º 254, de 3 de Novembro de 1997), desenvolver um processo interministerial e interinstitucional de reforma do sistema da protecção de crianças e jovens em risco, que assenta nas seguintes vertentes: reforma legal e enquadramento institucional; desenvolvimento e coordenação das respostas sociais; auditorias e estudos; dinamização e coordenação da reforma.\n\nNa sequência da referida resolução, está já constituída e em funcionamento a Comissão de Reforma da Legislação de Protecção da Criança, nomeada pelo despacho conjunto n.º 524/97, dos Ministros da Justiça e da Solidariedade e Segurança Social, de 18 de Novembro (publicado no Diário da República, 2.ª série, n.º 294, de 22 de Dezembro de 1997).\n\nEm execução do Programa Adopção 2000, adoptado por despacho conjunto dos Ministros da Justiça e da Solidariedade e Segurança Social de 18 de Março de 1997, publicado no Diário da República, 2.ª série, n.º 92, de 19 de Abril de 1997, e a par da entrada em funcionamento de novas comissões de protecção de menores, o Ministro do Trabalho e da Solidariedade, em parceria com as autarquias locais e instituições particulares de solidariedade social, criou as condições e os meios de financiamento para a abertura, nos anos de 1997 e 1998, de 24 centros de acolhimento temporário, de modo a constituir uma rede nacional de emergência para crianças e jovens em risco.\n\nProsseguindo esta acção e dando cumprimento ao disposto no n.º 6 da Resolução n.º 193/97, importa criar, na dependência dos Ministros da Justiça e do Trabalho e da Solidariedade, a Comissão Nacional de Protecção das Crianças e Jovens em Risco, na qual estarão representadas as entidades públicas e privadas com acção específica nesta área. À Comissão caberá planificar a intervenção do Estado, bem como a coordenação, acompanhamento e avaliação da acção dos organismos públicos e da comunidade, em matéria de protecção de crianças e jovens em risco.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º e do n.º 5 do artigo 112.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "53065575": {
+   "fragment_id": "36261175",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Apoio logístico, administrativo e financeiro",
+   "in_force_from": "2013-05-14",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2013 - Diário da República n.º 91/2013, Série I de 2013-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2013-261146), em vigor a partir de 2013-05-14, produz efeitos a partir de 2013-05-14"
+   ],
+   "markdown": "###### Artigo 6.º-A — Apoio logístico, administrativo e financeiro\n\n1 - O apoio logístico, administrativo e financeiro necessário ao funcionamento da Comissão Nacional é assegurado pelo Instituto da Segurança Social, I.P. (ISS, I.P.).\n\n2 - Considera-se apoio logístico, nomeadamente, a cedência de instalações e dos meios materiais de apoio, incluindo a disponibilização de meios de transporte, com os condicionalismos impostos através dos regulamentos em vigor, interpretados de acordo com a especificidade da missão, constituição, atribuições e funcionamento da Comissão Nacional.\n\n3 - O apoio administrativo e financeiro compreende a realização dos procedimentos legais indispensáveis à aquisição e gestão de bens e serviços e à afetação de recursos humanos à Comissão Nacional e sua gestão administrativa, em conformidade com as propostas por esta formuladas.\n\n4 - O orçamento do ISS, I.P., integra um fundo específico relativo ao funcionamento da Comissão Nacional, elaborado com auscultação prévia desta sobre o montante anual a propor.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2013 - Diário da República n.º 91/2013, Série I de 2013-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2013-261146), em vigor a partir de 2013-05-14, produz efeitos a partir de 2013-05-14"
+  },
+  "53065675": {
+   "fragment_id": "36260975",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em funcionamento\n\nA Comissão Nacional deve estar constituída no prazo e 15 dias a contar da publicação do presente decreto-lei entrar em funcionamento nos 30 dias subsequentes."
+  },
+  "53065775": {
+   "fragment_id": "36261075",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 5 e Março 1998. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues.\n\nPromulgado em 30 de Março de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 6 de Abril de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

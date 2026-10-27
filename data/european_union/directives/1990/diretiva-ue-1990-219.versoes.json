@@ -1,0 +1,854 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31990L0219:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990L0219-20090610",
+ "dre_path": null,
+ "source_lastmod": "2009-06-10",
+ "versions": [
+  {
+   "date": "2005-03-05",
+   "future": false,
+   "celex": "01990L0219-20050305",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "91b65f959c761cd6",
+    "8f761f7039431230",
+    "0483fd7f4968c641",
+    "73e9a8c4cc76e497",
+    "6a0dc1a146c86e45",
+    "8717ff7c259c47ed",
+    "796bb70bc4091330",
+    "532f27504ed91718",
+    "8eed068cf314beea",
+    "319c739676c49a15",
+    "62a63acfbd0b6bf8",
+    "0b0e42b202e24ab1",
+    "ea237269460c883f",
+    "ee0fa8ed6576a106",
+    "d6abf72a3ccf6e9d",
+    "b24e031330f4c676",
+    "9aa58bad9a8cdbb5",
+    "6aaac72398db5c1a",
+    "814cd5f209115bbc",
+    "cb2621e067f8a1b7",
+    "683387821a8f9edb",
+    "f122417a9f4407c7",
+    "d3558fd98c60a349",
+    "97659022cbcfee69",
+    "6d11fc623c19b1c5",
+    "d664376e2a8dcecd",
+    "2b054b28f9e615ce",
+    "918f6dc7cb41971b",
+    "852174729551523b",
+    "422b5916c60c5da5",
+    "6041be3baf7dcb43",
+    "4d92ae94cbcda700",
+    "bd348c34c68cdda3",
+    "1683bfd964ddac19",
+    "92ae2060cd4484b5",
+    "1e4f8fa588ff5575",
+    "6fdc0026ee750b73",
+    "c504663d1abfe1a8",
+    "906b0ec4bc10c981",
+    "f9dd5517abbfc0b0",
+    "e7aab877266da632",
+    "7a743d0708fe4846",
+    "b87c5287cb100751",
+    "b3af5262433c8555",
+    "c8aa9c4a08a8bafc",
+    "c79cc7fac9d7783f",
+    "4ea28920e52ef890",
+    "fbefc03f942c7bea",
+    "4f1754e6b7865d97",
+    "3346dc0239daeed3",
+    "7b6b142aefad46db",
+    "97c17994e89a5a22",
+    "5d17652a050d3b6e",
+    "79497d621c0daa2f",
+    "281ac03a1303c1ee",
+    "68cfb88b28096454",
+    "8d035f0784e60f1d",
+    "032f832b5eb4491c",
+    "4585747d7acfd8b4",
+    "3d4cec1bfdd10e62",
+    "e4febb5f5dc362c9",
+    "cb69e172dff0edc4",
+    "720af75c92791b10",
+    "c97bbd82b1d3a299",
+    "d8bde2860b9f3d58",
+    "deb8e8ac292c7d09",
+    "e03a0eb4d5b2eef3",
+    "266abd72a6e5681c",
+    "ea90023044979426",
+    "2566ee2acc4a1355",
+    "573868bed91793dc",
+    "2a0ae51c8be3b078",
+    "5d69b702f1440ff6",
+    "50447c81fe460202",
+    "1bbc5c596d71519b",
+    "f228822a2fefdd58",
+    "3c334d374b34ca37",
+    "64610ae29a6cb67c",
+    "c6aa2ca6557f484d",
+    "3a4bd813ee118f7c",
+    "f41f953da384b2dc",
+    "d388a3100f2e26ca"
+   ]
+  },
+  {
+   "date": "2009-06-10",
+   "future": false,
+   "celex": "01990L0219-20090610",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 19.º",
+    "Suprime Artigo 20.º",
+    "Suprime Artigo 20.ºA",
+    "Suprime Artigo 21.º",
+    "Suprime Artigo 22.º",
+    "Suprime Artigo 23.º",
+    "Suprime ANEXO I",
+    "Suprime PARTE A",
+    "Suprime PARTE B",
+    "Suprime ANEXO II",
+    "Suprime Critérios destinados a determinar a segurança para a saúde humana e para o ambiente dos MGM",
+    "Suprime 1. INTRODUÇÃO",
+    "Suprime 2. CRITÉRIOS GERAIS",
+    "Suprime 2.1. Verificação/autenticação da estirpe",
+    "Suprime 2.2. Dados de segurança documentados e comprovados",
+    "Suprime 2.3. Estabilidade genética",
+    "Suprime 3. CRITÉRIOS ESPECÍFICOS",
+    "Suprime 3.1. Não patogénico",
+    "Suprime 3.1.1. Não toxigénico",
+    "Suprime 3.1.2. Não alergénico",
+    "Suprime 3.2. Ausência de agentes adventícios nocivos",
+    "Suprime 3.3. Transferência de material genético",
+    "Suprime 3.4. Segurança do ambiente em caso de libertações importantes e involuntárias",
+    "Suprime Notas explicativas que complementam a parte B do anexo II da Directiva 90/219/CEE",
+    "Suprime 1. CRITÉRIOS GERAIS",
+    "Suprime 1.1. Verificação/autenticação da estirpe",
+    "Suprime 1.2. Segurança documentada e comprovada",
+    "Suprime 1.3. Estabilidade genética",
+    "Suprime 2. CRITÉRIOS ESPECÍFICOS",
+    "Suprime 2.1. Não patogénico",
+    "Suprime 2.1.1. Não toxigénico",
+    "Suprime 2.1.2. Não alergénico",
+    "Suprime 2.2. Ausência de agentes adventícios nocivos",
+    "Suprime 2.3. Transferência de material genético",
+    "Suprime 2.4. Segurança para o ambiente em caso de fuga do confinamento",
+    "Suprime 2.4.1. Sobrevivência dos organismos",
+    "Suprime 2.4.2. Dispersão",
+    "Suprime 2.4.3. Implantação dos organismos no ambiente",
+    "Suprime 2.4.4. Transferência de material genético",
+    "Suprime ANEXO 1",
+    "Suprime PARTE C",
+    "Suprime ANEXO III",
+    "Suprime PRINCÍPIOS A SEGUIR PARA EFEITOS DA AVALIAÇÃO PREVISTA NO N.º 2 DO ARTIGO 5.º",
+    "Suprime A. ELEMENTOS DE AVALIAÇÃO",
+    "Suprime B. PROCESSO",
+    "Suprime ANEXO IV",
+    "Suprime MEDIDAS DE CONFINAMENTO E OUTRAS MEDIDAS DE PROTECÇÃO",
+    "Suprime Princípios gerais",
+    "Suprime Quadro I A",
+    "Suprime Medidas de confinamento e outras medidas de protecção aplicáveis a actividades laboratoriais",
+    "Suprime Quadro I B",
+    "Suprime Medidas de confinamento e outras medidas de protecção aplicáveis a estufas e recintos de crescimento",
+    "Suprime Quadro I C",
+    "Suprime Medidas de confinamento e outras medidas de protecção aplicáveis a actividades em unidades com animais",
+    "Suprime Quadro II",
+    "Suprime Medidas de confinamento e outras medidas de protecção aplicáveis nas restantes actividades",
+    "Suprime ANEXO V",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "a892a0097cbb4e72"
+   ]
+  }
+ ],
+ "fragments": {
+  "91b65f959c761cd6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Abril de 1990\n\nrelativa à utilização confinada de microrganismos geneticamente modificados\n\n(90/219/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 130.ºS,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#E0003)),\n\nConsiderando que, nos termos do Tratado, a acção da Comunidade em matéria de ambiente terá como princípio a realização de acções preventivas e como objectivo a preservação, protecção e melhoramento do ambiente e a protecção da saúde humana;\n\nConsiderando que a resolução do Conselho, de 19 de Outubro de 1987 ([^4^](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#E0004)), relativa ao Quarto Programa de Acção das Comunidades Europeias em Matéria de Ambiente declara que as medidas relativas à avaliação e à optimização do uso da biotecnologia no que diz respeito ao ambiente constituem um domínio prioritário em que se deve concentrar a acção da Comunidade;\n\nConsiderando que o desenvolvimento da biotecnologia é de molde a contribuir para a expansão económica dos Estados-membros; que isto implica a utilização de microrganismos geneticamente modificados em operações de diferentes tipos e escalas;\n\nConsiderando que a utilização confinada de microrganismos geneticamente modificados deve ser efectuada de modo a limitar as suas eventuais consequências negativas para a saúde humana e para o ambiente, consagrando a devida atenção à prevenção de acidentes e ao controlo dos resíduos;\n\nConsiderando que os microrganismos, caso sejam libertados no ambiente num Estado-membro durante a sua utilização confinada, são susceptíveis de se reproduzirem e de se disseminarem através de fronteiras nacionais, afectando assim outros Estados-membros.\n\nConsiderando que, com vista a permitir o desenvolvimento seguro da biotecnologia em toda a Comunidade, é necessário estabelecer medidas comuns de avaliação e redução dos riscos potenciais que podem surgir durante quaisquer operações que envolvam a utilização confinada de microrganismos geneticamente modificados e estabelecer condições adequadas de utilização;\n\nConsiderando que a natureza e a escala exactas dos riscos associados aos microrganismos geneticamente modificados não são ainda perfeitamente conhecidas e que os riscos envolvidos têm de ser avaliados caso a caso; que, para avaliar os riscos para a saúde humana e para o ambiente, é necessário estabelecer requisitos de avaliação dos mesmos;\n\nConsiderando que os microrganismos geneticamente modificados deveriam ser classificados em função do perigo que representam; que deveriam ser estabelecidos critérios para esse efeito; que deveria ser dada especial atenção às operações que utilizam os microrganismos geneticamente modificados que apresentam maior risco;\n\nConsiderando que deverão ser aplicadas medidas adequadas de contenção nas diferentes fases de uma operação a fim de controlar emissões e de prevenir acidentes;\n\nConsiderando que qualquer pessoa, antes de proceder pela primeira vez à utilização confinada de um microrganismo geneticamente modificado numa dada instalação, deverá enviar à autoridade competente a respectiva notificação por forma a que esta se possa certificar de que a instalação proposta é adequada para o desenvolvimento da actividade de um modo que não represente qualquer risco para a saúde humana e para o ambiente;\n\nConsiderando que é necessário estabelecer processos adequados para a notificação caso a caso de operações específicas que envolvam a utilização confinada de microrganismos geneticamente modificados, atendendo ao grau de risco envolvido;\n\nConsiderando que, em caso de operações que envolvam alto risco, é necessária a autorização da autoridade competente;\n\nConsiderando que se pode considerar apropriado consultar o público sobre a utilização confinada de microrganismos geneticamente modificados;\n\nConsiderando que deverão ser tomadas medidas apropriadas para informar qualquer pessoa susceptível de ser afectada por um acidente sobre todas as questões relacionadas com a segurança;\n\nConsiderando que deverão ser elaborados planos de emergência destinados a dar uma resposta eficaz em caso de acidente;\n\nConsiderando que, no caso de se verificar um acidente, o utilizador deverá imediatamente informar a autoridade competente e transmitir as informações necessárias à avaliação do impacte desse acidente e à tomada de acções adequadas;\n\nConsiderando que é conveniente que a Comissão estabeleça, em coordenação com os Estados-membros, um processo de troca de informações sobre acidentes, bem como um registo dos mesmos;\n\nConsiderando que a utilização confinada de microrganismos geneticamente modificados no interior da Comunidade deverá ser controlada e que, para o efeito, os Estados-membros deverão fornecer certas informações à Comissão;\n\nConsiderando que deverá ser criado um comité para assistir a Comissão em questões relacionadas com a execução da directiva e com a sua adaptação ao progresso técnico,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "8f761f7039431230": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva estabelece medidas comuns para a utilização confinada de microrganismos geneticamente modificados com o objectivo de proteger a saúde humana e o ambiente."
+  },
+  "0483fd7f4968c641": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Microrganismo»: qualquer entidade microbiológica, celular ou não celular, capaz de replicação ou de transferência de material genético, incluindo vírus, viróides e células animais e vegetais em cultura.\n\nb) «Microrganismo geneticamente modificado» (MGM): um microrganismo cujo material genético tenha sido modificado por uma forma de reprodução sexuada e/ou de recombinação natural que não ocorre na natureza. Na acepção da presente definição: i) ocorre modificação genética pelo menos como resultado da utilização das técnicas enumeradas na parte A do anexo I, ii) as técnicas enumeradas na parte B do anexo I não são consideradas como dando origem a modificação genética;\n\nc) «Utilização confinada»: qualquer actividade no decorrer da qual se verifique uma modificação genética de microrganismos ou em que MGM sejam cultivados, armazenados, transportados, destruídos, eliminados ou utilizados de qualquer outra forma, e em que se recorra a medidas específicas de confinamento com o objectivo de limitar o contacto desses microrganismos com a população em geral e o ambiente e de proporcionar a estes últimos um nível elevado de segurança;\n\nd) «Acidente»: qualquer incidente que envolva uma libertação significativa e involuntária de MGM durante a utilização confinada e que possa pôr em perigo, com efeito imediato ou retardado, a saúde humana ou o ambiente;\n\ne) «Utilizador»: qualquer pessoa singular ou colectiva responsável pela utilização confinada de MGM;\n\nf) «Notificação»: a apresentação de documentos com as informações exigidas às autoridades competentes de um Estado-membro."
+  },
+  "73e9a8c4cc76e497": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nSem prejuízo do disposto no n.º 1 do artigo 5.º, a presente directiva não se aplica:\n\n— quando a modificação genética seja obtida mediante a utilização de técnicas/métodos enumerados na parte A do anexo II, ou\n\n— às actividades de utilização confinada que envolvam unicamente tipos de MGM correspondentes aos critérios enumerados na parte B do anexo II, no qual é definida a sua segurança para a saúde humana e o ambiente. Estes tipos de MGM serão enumerados na parte C do anexo II."
+  },
+  "6a0dc1a146c86e45": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs n.^os^ 3 e 6 do artigo 5.º e os artigos 6.º a 12.º não são aplicáveis ao transporte de MGM por via rodoviária, ferroviária, fluvial, marítima ou aérea.\n\nA presente directiva não é aplicável à armazenagem, cultura, transporte, destruição, eliminação ou utilização de MGM que tenham sido colocados no mercado ao abrigo da Directiva 90/220/CEE, de 23 de Abril de 1990, relativa à libertação deliberada no ambiente de organismos geneticamente modificados ([^5^](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#E0005)), ou de outra legislação comunitária que preveja uma avaliação específica de riscos para o ambiente semelhante à da citada directiva, desde que tal utilização confinada esteja em conformidade com as eventuais condições de autorização de colocação no mercado."
+  },
+  "8717ff7c259c47ed": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-membros garantirão que sejam tomadas todas as medidas adequadas para evitar que a utilização confinada de MGM modificados possa ter efeitos adversos para a saúde humana e o ambiente.\n\n2. Para este efeito, o utilizador deve proceder, no mínimo através dos elementos de avaliação e do processo enunciados no anexo III, partes A e B, a uma avaliação das utilizações confinadas no que diz respeito aos eventuais riscos para a saúde humana e o ambiente a que essas utilizações confinadas podem dar origem.\n\n3. A avaliação a que se refere o n.º 2 deverá conduzir a uma classificação definitiva das operações de utilização confinada em quatro categorias pelo processo previsto no anexo III, conducente à atribuição de graus de confinamento segundo o disposto no artigo 6.º, ou seja:\n\n| Classe 1 | : | operações de risco nulo ou insignificante, ou seja, operações em que é adequado um confinamento de grau 1 para a protecção da saúde humana e do ambiente. |\n| --- | --- | --- |\n\n| Classe 2 | : | operações de baixo risco, ou seja, operações em que é adequado um confinamento de grau 2 para a protecção da saúde humana e do ambiente. |\n| --- | --- | --- |\n\n| Classe 3 | : | operações de risco moderado, ou seja, operações em que é adequado um confinamento de grau 3 para a protecção da saúde humana e do ambiente. |\n| --- | --- | --- |\n\n| Classe 4 | : | operações de alto risco, ou seja, operações em que é adequado um confinamento de grau 4 para a protecção da saúde humana e do ambiente. |\n| --- | --- | --- |\n\n4. Em caso de dúvidas quanto à classe mais adequada à utilização confinada pretendida, devem ser aplicadas as medidas de protecção mais rigorosas, salvo se existirem provas suficientes aceites pelas autoridades competentes que justifiquem a aplicação de medidas menos rigorosas.\n\n5. Ao proceder à avaliação a que se refere o n.º 2, deve ser tomada em consideração a questão da evacuação dos resíduos e dos efluentes. Sempre que adequado, devem ser aplicadas as medidas de segurança necessárias à protecção da saúde humana e do ambiente.\n\n6. O utilizador deverá manter um registo da avaliação a que se refere o n.º 2 e colocá-lo de forma apropriada à disposição da autoridade competente, como parte da notificação a que se referem os artigos 7.º, 9.º e 10.º, ou a pedido desta."
+  },
+  "796bb70bc4091330": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Salvo na medida em que o ponto 2 do anexo IV permita a aplicação de outras medidas, o utilizador deve aplicar os princípios gerais e as medidas de confinamento e outras medidas de protecção apropriadas constantes do anexo IV que correspondem à classe de utilização confinada, por forma a que a exposição, no ambiente e no local de trabalho, a eventuais MGM seja mantida ao nível mais baixo possível por forma a que se garanta um elevado grau de segurança.\n\n2. A avaliação do risco a que se refere o n.º 2 do artigo 5.º e as medidas de confinamento e quaisquer outras medidas de protecção deverão ser periodicamente revistas, e sê-lo imediatamente se:\n\na) As medidas de confinamento aplicadas deixarem de ser adequadas ou a classe das utilizações confinadas já não for correcta; ou\n\nb) Houver motivos para suspeitar que a avaliação deixou de ser adequada face a novos conhecimentos científicos ou técnicos."
+  },
+  "532f27504ed91718": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nSe as instalações forem utilizadas pela primeira vez para utilizações confinadas, o utilizador deverá, antes de lhes dar início, apresentar às autoridades competentes uma notificação que contenha, no mínimo, os dados enumerados na parte A do anexo V."
+  },
+  "8eed068cf314beea": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nApós a notificação prevista no artigo 7.º, as subsequentes utilizações confinadas da classe 1 poderão realizar-se sem qualquer outra notificação. Os utilizadores de MGM modificados em utilizações confinadas da classe 1 deverão manter registos de todas as avaliações referidas no n.º 6 do artigo 5.º, que serão colocados à disposição das autoridades competentes a pedido destas."
+  },
+  "319c739676c49a15": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. No que respeita às primeiras e subsequentes utilizações confinadas da classe 2 efectuadas em instalações notificadas em conformidade com o disposto no artigo 7.º, dever-se-á apresentar uma notificação que contenha os dados enumerados no anexo V, parte B.\n\n2. Se as instalações tiverem sido objecto de uma notificação prévia para utilizações confinadas da classe 2 ou de grau mais elevado e tiverem sido observados os demais requisitos de autorização eventualmente vigentes, a utilização confinada da classe 2 poderá efectuar-se logo após a nova notificação. Contudo, o próprio requerente pode solicitar à autoridade competente que conceda uma autorização formal. A decisão deve ser tomada no prazo máximo de 45 dias a contar da notificação.\n\n3. Se as instalações não tiverem sido objecto de notificação prévia para utilizações confinadas da classe 2 ou de grau mais elevado, e na falta de indicação em contrário da autoridade competente, a utilização confinada da classe 2 poderá efectuar-se 45 dias após a apresentação da notificação a que se refere o n.º 1, ou antes de decorrido esse prazo, desde que com o consentimento da autoridade competente."
+  },
+  "62a63acfbd0b6bf8": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. No que respeita às primeiras e subsequentes utilizações confinadas das classes 3 ou 4 efectuadas em instalações notificadas nos termos do artigo 7.º, deverá ser apresentada uma notificação com os dados constantes da parte C do anexo V.\n\n2. Não é permitido proceder a uma utilização confinada da classe 3 ou de grau mais elevado sem consentimento prévio da autoridade competente, devendo a decisão ser comunicada por escrito:\n\na) O mais tardar 45 dias após a apresentação da nova notificação se as instalações tiverem sido objecto de uma notificação anterior para utilizações confinadas da classe 3 ou de grau mais elevado e tiverem sido observados os demais requisitos de autorização eventualmente vigentes para a mesma classe ou para uma classe superior à da utilização confinada a que se tenciona proceder;\n\nb) O mais tardar 90 dias após a apresentação da notificação em todos os outros casos."
+  },
+  "0b0e42b202e24ab1": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Os Estados-membros designarão a autoridade ou autoridades competentes para a execução das medidas que adoptarem em aplicação da presente directiva e para a recepção e reconhecimento das notificações referidas nos artigos 7.º, 9.º e 10.º\n\n2. As autoridades competentes verificarão se as notificações estão conformes com os requisitos da presente directiva, se as informações prestadas estão exactas e completas, se a avaliação que se refere o n.º 2 do artigo 5.º e da classe da utilização confinada está correcta e ainda, se for caso disso, se as medidas de confinamento, de gestão de resíduos, de actuação em caso de emergência e outras medidas de protecção são adequadas.\n\n3. Se necessário, a autoridade competente poderá:\n\na) Solicitar ao utilizador a prestação de informações complementares, ou a alteração das condições da utilização confinada proposta ou da classe atribuída à utilização ou utilizações confinadas. Neste caso, a autoridade competente poderá exigir que a utilização confinada proposta não se inicie ou, caso esteja em curso, seja suspensa ou interrompida até que tenha dado a respectiva aprovação com base nas informações complementares obtidas ou nas novas condições de utilização confinada;\n\nb) Limitar o período de tempo durante o qual a utilização confinada é autorizada ou submeter essa utilização a determinadas condições específicas.\n\n4. Para efeitos de cálculo dos prazos previstos nos artigos 9.º e 10.º, não serão tidos em conta os períodos em que a autoridade competente:\n\n— aguarda eventuais informações complementares que tenha pedido ao notificador nos termos da alínea a) do n.º 3,\n\n— procede a inquéritos ou consultas públicas nos termos do artigo 13.º."
+  },
+  "ea237269460c883f": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nSe o utilizador tiver conhecimento de novas informações pertinentes ou alterar a utilização confinada de um modo que possa ter consequências significativas para os riscos que lhe são inerentes, a autoridade competente deverá ser informada o mais rapidamente possível, e a notificação nos termos dos artigos 7.º, 9.º e 10.º deverá ser alterada.\n\nSe, posteriormente, a autoridade competente tiver conhecimento de informações que possam ter consequências significativas nos riscos inerentes à utilização confinada, poderá exigir que o utilizador altere as condições em que a mesma é efectuada, a suspenda ou lhe ponha termo."
+  },
+  "ee0fa8ed6576a106": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nQuando um Estado-membro considerar adequado, pode providenciar no sentido de que o público seja consultado sobre aspectos da utilização confinada proposta, sem prejuízo do disposto no artigo 19.º"
+  },
+  "d6abf72a3ccf6e9d": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nAs autoridades competentes garantirão que, antes de se dar início a uma utilização confinada:\n\na) Seja elaborado um plano de emergência para as utilizações confinadas, caso uma falha das medidas de confinamento possa constituir um perigo grave, imediato ou retardado para as pessoas que se encontram fora das instalações e/ou para o ambiente, excepto se tal plano de emergência já tiver sido elaborado ao abrigo de outra legislação comunitária;\n\nb) Os organismos e autoridades susceptíveis de serem afectados por um acidente sejam devidamente informados sobre os planos de emergência, incluindo as medidas pertinentes de segurança que devam ser aplicadas, sem que tenham de o solicitar. As informações serão regularmente actualizadas. Serão igualmente colocadas à disposição do público.\n\nOs Estados-membros abrangidos facultarão simultaneamente a outros Estados-membros interessados, como base para todas as consultas necessárias no quadro das suas relações bilaterais, as mesmas informações que forem difundidas aos seus próprios cidadãos."
+  },
+  "b24e031330f4c676": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Os Estados-membros tomarão todas as medidas necessárias para garantir que, em caso de acidente, o utilizador informe imediatamente a autoridade competente referida no artigo 11.º, dando as seguintes informações:\n\n— circunstâncias do acidente,\n\n— identificação e quantidade dos MGM em questão,\n\n— quaisquer informações necessárias à avaliação dos efeitos do acidente na saúde da população em geral e no ambiente,\n\n— medidas tomadas.\n\n2. Quando tiver sido prestada uma informação ao abrigo do n.º 1, os Estados-membros deverão:\n\n— garantir que sejam tomadas todas as medidas necessárias e alertar imediatamente os Estados-membros susceptíveis de serem afectados pelo acidente,\n\n— recolher, sempre que possível, as informações necessárias a uma análise completa do acidente e, sempre que tal se revele adequado, formular recomendações no sentido de evitar acidentes semelhantes no futuro e de reduzir os seus efeitos."
+  },
+  "9aa58bad9a8cdbb5": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Os Estados-membros deverão:\n\na) Consultar outros Estados-membros susceptíveis de serem afectados em caso de acidente, relativamente à execução proposta de planos de emergência;\n\nb) Informar o mais rapidamente possível a Comissão de qualquer acidente abrangido pela presente directiva, fornecendo pormenores sobre as circunstâncias do acidente, a identificação e quantidade dos MGM em questão, as providências tomadas e respectiva eficácia e uma análise do acidente, incluindo recomendações destinadas a limitar os seus efeitos e a evitar acidentes semelhantes no futuro.\n\n2. A Comissão, em consulta com os Estados-membros, estabelecerá um procedimento destinado à troca das informações referidas no n.º 1. Também elaborará e manterá à disposição dos Estados-membros um registo dos acidentes abrangidos pela presente directiva, incluindo uma análise das respectivas causas, da experiência adquirida e das medidas tomadas para evitar acidentes semelhantes no futuro."
+  },
+  "6aaac72398db5c1a": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nOs Estados-membros deverão assegurar que a autoridade competente organize inspecções e outras medidas de controlo destinadas a garantir que o utilizador dará cumprimento ao disposto na presente directiva."
+  },
+  "814cd5f209115bbc": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. No final de cada ano, os Estados-membros enviarão à Comissão um relatório sumário sobre as utilizações confinadas das classes 3 e 4 notificadas durante esse ano nos termos do artigo 10.º, que incluirá a descrição, objectivos e riscos da ou das utilizações confinadas.\n\n2. Os Estados-membros enviarão de três em três anos à Comissão um relatório sumário da sua experiência no domínio da presente directiva, devendo o primeiro relatório ser enviado em 5 de Junho de 2003.\n\n3. De três em três anos, a Comissão publicará um resumo com base nos relatórios referidos no n.º 2, devendo o primeiro resumo ser publicado em 5 de Junho de 2004.\n\n4. A Comissão poderá publicar informações estatísticas gerais relativas à aplicação da presente directiva e a assuntos conexos, na medida em que tais publicações não contenham informações susceptíveis de prejudicar a posição concorrencial dos utilizadores."
+  },
+  "cb2621e067f8a1b7": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. Se a sua divulgação afectar um ou vários pontos referidos no n.º 2 do artigo 3.º da Directiva 90/313/CEE do Conselho, de 7 de Junho de 1990, relativa à liberdade de acesso à informação em matéria de ambiente ([^6^](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#E0006)) o notificador poderá indicar quais as informações constantes das notificações apresentadas nos termos da presente directiva que devem ser mantidas confidenciais. Em tais casos, deverá ser dada uma justificação susceptível de confirmação.\n\n2. A autoridade competente decidirá, após consulta ao notificador, quais as informações que serão mantidas confidenciais e informará o notificador da sua decisão.\n\n3. As seguintes informações, quando apresentadas nos termos dos artigos 7.º, 9.º ou 10.º, nunca poderão ser mantidas confidenciais:\n\n— características gerais do MGM, nome e endereço do notificador e local de utilização,\n\n— classe da utilização confinada e medidas de confinamento,\n\n— avaliação dos efeitos previsíveis, em especial de quaisquer efeitos nocivos para a saúde humana e o ambiente.\n\n4. A Comissão e as autoridades competentes não estão autorizadas a divulgar a terceiros quaisquer informações que se tenha decidido serem confidenciais ao abrigo do n.º 2 de que tomem conhecimento ou a que tenham acesso de outro modo nos termos da presente directiva, e protegerão os direitos de propriedade intelectual relacionados com os elementos recebidos.\n\n5. Se, por qualquer motivo, o notificador retirar a notificação, a autoridade competente terá de respeitar a confidencialidade da informação fornecida."
+  },
+  "683387821a8f9edb": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nAs alterações necessárias à adaptação da parte A do anexo II e dos anexos III a V ao progresso técnico, bem como da parte C do anexo II, serão decididas nos termos do artigo 21.º"
+  },
+  "f122417a9f4407c7": {
+   "fragment_id": "Artigo 20.ºA",
+   "type": "artigo",
+   "heading": "Artigo 20.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.ºA\n\nAté 5 de Dezembro de 2000, o Conselho, deliberando por maioria qualificada sob proposta da Comissão, adoptará a parte B do anexo II, de onde consta a lista dos critérios de inclusão dos tipos de MGM da parte C do anexo II. As alterações da parte B do anexo II serão adoptadas pelo Conselho, deliberando por maioria qualificada, sob proposta da Comissão."
+  },
+  "d3558fd98c60a349": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. A Comissão é assistida por um Comité.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^7^](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#E0007)), tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "97659022cbcfee69": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nOs Estados-membros adoptarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 23 de Outubro de 1991. Desse facto informarão imediatamente a Comissão."
+  },
+  "6d11fc623c19b1c5": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nOs Estado-membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "2b054b28f9e615ce": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A\n\nAs técnicas de modificação genética a que se refere a alínea b), subalínea i), do artigo 2.º são, entre outras, as seguintes:\n\n1. Técnicas de ácidos nucleicos recombinantes que envolvam a criação de novas combinações de material genético através da inserção de moléculas de ácido nucleico, produzidas fora do organismo, seja qual for o método, em qualquer vírus, plasmídeo bacteriano ou outro vector, e a respectiva incorporação num organismo hospedeiro em que não ocorram na natureza mas nos quais sejam capazes de propagação continuada.\n\n2. Técnicas que envolvam a introdução directa num microrganismo de material hereditário preparado fora desse microrganismo, incluindo a microinjecção, a macroinjecção e o microencapsulamento.\n\n3. Técnicas de fusão ou hibridização celular em que haja formação de células vivas com novas combinações de material genético hereditário, através da fusão de duas ou mais células por métodos que não ocorram na natureza."
+  },
+  "918f6dc7cb41971b": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B\n\nTécnicas a que se refere a alínea b), subalínea ii), do artigo 2.º, não consideradas como dando origem a modificações genéticas, desde que não envolvam a utilização de moléculas de ácido nucleico recombinante ou de microrganismos geneticamente modificados criados através de técnicas/métodos diferentes dos excluídos pela parte A do anexo II:\n\n1. Fertilização *in vitro*.\n\n2. Processos naturais, tais como conjugação, transdução, transformação.\n\n3. Indução da poliploidia."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "422b5916c60c5da5": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A\n\nTécnicas ou métodos de modificação genética que produzam microrganismos que não são abrangidos pela directiva, desde que não envolvam a utilização de moléculas de ácido nucleico recombinante nem de MGM diferentes dos criados através de uma ou mais das técnicas/métodos adiante referidos:\n\n1. Mutagénese.\n\n2. Fusão celular (incluindo a fusão de protoplastos) de quaisquer espécies procarióticas que possam permutar material genético através de processos fisiológicos conhecidos.\n\n3. Fusão celular (incluindo a fusão de protoplastos) de células de quaisquer espécies eucarióticas, incluindo a produção de hibridomas e a fusão de células vegetais.\n\n4. Autoclonagem consistindo na remoção de sequências de ácido nucleico de uma célula de um organismo, seguida ou não da reinserção de parte ou da totalidade de tal ácido nucleico (ou de um seu equivalente sintético), eventualmente após tratamento enzimático ou mecânico, em células da mesma espécie ou em células de espécies filogeneticamente muito afins que possam permutar material genético entre si através de processos fisiológicos naturais, e em que o microrganismo resultante não seja susceptível de ser patogénico para o ser humano, os animais ou as plantas."
+  },
+  "6041be3baf7dcb43": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B"
+  },
+  "4d92ae94cbcda700": {
+   "fragment_id": "Critérios destinados a determinar a segurança para a saúde humana e para o ambiente dos MGM",
+   "type": "divisao",
+   "heading": "Critérios destinados a determinar a segurança para a saúde humana e para o ambiente dos MGM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Critérios destinados a determinar a segurança para a saúde humana e para o ambiente dos MGM\n\nO presente anexo descreve, em termos gerais, os critérios que devem ser preenchidos para determinar a segurança para a saúde humana e para o ambiente de alguns tipos de MGM e a pertinência da sua inclusão na parte C. De acordo com o procedimento previsto no artigo 21.º, o anexo será completado por notas explicativas que fornecerão um guia que facilite a aplicação desses critérios e que serão estabelecidos e eventualmente modificados pela Comissão, de acordo com o procedimento previsto no artigo 21.º"
+  },
+  "bd348c34c68cdda3": {
+   "fragment_id": "1. INTRODUÇÃO",
+   "type": "divisao",
+   "heading": "1. INTRODUÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. INTRODUÇÃO\n\nOs tipos de microrganismos geneticamente modificados (MGM) incluídos na lista da parte C, de acordo com o procedimento previsto no artigo 21.º, encontram-se excluídos do âmbito de aplicação da presente directiva. Os MGM apenas serão adicionados à lista caso a caso e a exclusão só afectará os MGM claramente identificados. Esta exclusão só é aplicável quando o MGM é utilizado em condições de utilização confinada, na acepção da alínea c) do artigo 2.º, não se aplicando à libertação deliberada de MGM. Para um microrganismo geneticamente modificado ser incluído na lista da parte C é necessário provar que preenche os critérios abaixo indicados."
+  },
+  "1683bfd964ddac19": {
+   "fragment_id": "2. CRITÉRIOS GERAIS",
+   "type": "divisao",
+   "heading": "2. CRITÉRIOS GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. CRITÉRIOS GERAIS"
+  },
+  "92ae2060cd4484b5": {
+   "fragment_id": "2.1. Verificação/autenticação da estirpe",
+   "type": "divisao",
+   "heading": "2.1. Verificação/autenticação da estirpe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.1. Verificação/autenticação da estirpe\n\nA identidade da estirpe deve ser estabelecida com precisão e a modificação conhecida e verificada."
+  },
+  "1e4f8fa588ff5575": {
+   "fragment_id": "2.2. Dados de segurança documentados e comprovados",
+   "type": "divisao",
+   "heading": "2.2. Dados de segurança documentados e comprovados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2. Dados de segurança documentados e comprovados\n\nDevem ser fornecidas provas documentais da segurança do organismo."
+  },
+  "6fdc0026ee750b73": {
+   "fragment_id": "2.3. Estabilidade genética",
+   "type": "divisao",
+   "heading": "2.3. Estabilidade genética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.3. Estabilidade genética\n\nSempre que uma eventual instabilidade possa afectar negativamente a segurança, são exigidas provas de estabilidade."
+  },
+  "c504663d1abfe1a8": {
+   "fragment_id": "3. CRITÉRIOS ESPECÍFICOS",
+   "type": "divisao",
+   "heading": "3. CRITÉRIOS ESPECÍFICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. CRITÉRIOS ESPECÍFICOS"
+  },
+  "906b0ec4bc10c981": {
+   "fragment_id": "3.1. Não patogénico",
+   "type": "divisao",
+   "heading": "3.1. Não patogénico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1. Não patogénico\n\nO MGM não deverá ser susceptível de causar doenças ou danos a um ser humano, planta ou animal saudáveis. Na patogenicidade incluem-se a toxicidade e o potencial alergénico, pelo que o MGM também deverá ser:"
+  },
+  "f9dd5517abbfc0b0": {
+   "fragment_id": "3.1.1. Não toxigénico",
+   "type": "divisao",
+   "heading": "3.1.1. Não toxigénico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1.1. Não toxigénico\n\nO MGM não deverá produzir um aumento da toxicidade em resultado da modificação genética, nem distinguir-se pelas suas propriedades toxigénicas."
+  },
+  "e7aab877266da632": {
+   "fragment_id": "3.1.2. Não alergénico",
+   "type": "divisao",
+   "heading": "3.1.2. Não alergénico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1.2. Não alergénico\n\nO MGM não deverá produzir um aumento do potencial alergénico acrescido em resultado da modificação genética, nem ser um alergénio reconhecido, dotado, por exemplo, de um potencial alergénico comparável nomeadamente ao dos microrganismos identificados na Directiva 93/88/CEE do Conselho, de 12 de Outubro de 1993, que altera a Directiva 90/679/CEE, relativa à protecção dos trabalhadores contra os riscos ligados à exposição a agentes biológicos durante o trabalho ([^8^](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#E0008))."
+  },
+  "7a743d0708fe4846": {
+   "fragment_id": "3.2. Ausência de agentes adventícios nocivos",
+   "type": "divisao",
+   "heading": "3.2. Ausência de agentes adventícios nocivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2. Ausência de agentes adventícios nocivos\n\nO MGM não deverá conter agentes adventícios conhecidos, tais como outros microrganismos, activos ou latentes, que coexistam no exterior/interior do MGM e que sejam susceptíveis de causar danos à saúde humana e ao ambiente."
+  },
+  "b87c5287cb100751": {
+   "fragment_id": "3.3. Transferência de material genético",
+   "type": "divisao",
+   "heading": "3.3. Transferência de material genético",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.3. Transferência de material genético\n\nO material genético modificado não deve causar riscos em caso de transferência, nem ser autotransmissível ou transferível com uma frequência superior à de outros genes do microrganismo receptor ou parental."
+  },
+  "b3af5262433c8555": {
+   "fragment_id": "3.4. Segurança do ambiente em caso de libertações importantes e involuntárias",
+   "type": "divisao",
+   "heading": "3.4. Segurança do ambiente em caso de libertações importantes e involuntárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.4. Segurança do ambiente em caso de libertações importantes e involuntárias\n\nOs MGM não devem produzir efeitos adversos, imediatos ou retardados, no ambiente, caso ocorra um incidente que envolva uma libertação significativa e involuntária.\n\nOs MGM que não respeitem os critérios atrás enumerados não estarão em condições de ser incluídos na parte C."
+  },
+  "c8aa9c4a08a8bafc": {
+   "fragment_id": "Notas explicativas que complementam a parte B do anexo II da Directiva 90/219/CEE",
+   "type": "divisao",
+   "heading": "Notas explicativas que complementam a parte B do anexo II da Directiva 90/219/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Notas explicativas que complementam a parte B do anexo II da Directiva 90/219/CEE\n\nOs diversos tipos de MGM apenas são considerados adequados para inclusão na parte C do anexo II quando correspondem tanto aos criţérios gerais como aos critérios específicos enunciados na parte B do anexo II.\n\nTodos os MGM incluídos na parte C do anexo II serão publicados no Jornal Oficial, juntamente com as características de identificação apropriadas ou as fontes de referência do MGM. Ao considerar se um tipo de MGM é ou não adequado para inclusão na parte C do anexo II, deverão ser tidos em conta todos os componentes e, quando relevante, o processo utilizado na construção do MGM. É de salientar que, embora todos os aspectos devam ser tidos em conta, apenas as propriedades do MGM serão avaliadas à luz dos critérios da parte B do anexo II. Se todos os componentes do MGM tiverem sido analisados individualmente e considerados seguros, é provável que o MGM corresponda aos critérios de segurança. Todavia, não se deve partir deste pressuposto, sendo imperioso que a segurança do MGM seja minuciosamente examinada.\n\nSe a produção de um MGM der origem a organismos geneticamente modificados intermédios, estes organismos intermédios deverão também, para que cada tipo esteja isento, ser avaliados à luz dos critérios da parte B do anexo II, permitindo assim, de facto, que a isenção da utilização confinada seja aceitável no seu todo. Os Estados-Membros devem velar pela aplicação das orientações que se seguem, tanto pelos utilizadores, para facilitar a conformidade com os critérios enunciados aquando da constituição dos processos para determinação da segurança, para a saúde humana e para o ambiente, dos tipos de MGM a incluir na parte C do anexo II, como pelas autoridades nacionais competentes, aquando da avaliação dessa conformidade.\n\nOs processos devem incluir elementos de prova detalhados e devidamente fundamentados, que permitam aos Estados-Membros ajuizar se as afirmações relativas à segurança dos MGM nos termos dos critérios definidos são justificadas. Em caso de incerteza científica deve ser adoptada a abordagem de precaução; a isenção do MGM só deve ser encarada caso existam provas convincentes de que os critérios se encontram preenchidos.\n\nAs autoridades nacionais competentes que recebam um processo para esse efeito devem, uma vez estabelecida a conformidade com os critérios indicados, transmiti-lo à Comissão, que por sua vez consultará o comité instituído nos termos do artigo 21.º da directiva quanto à inclusão do MGM em causa na parte C do respectivo anexo II. As definições dos termos utilizados constam do apêndice 1."
+  },
+  "c79cc7fac9d7783f": {
+   "fragment_id": "1. CRITÉRIOS GERAIS",
+   "type": "divisao",
+   "heading": "1. CRITÉRIOS GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. CRITÉRIOS GERAIS"
+  },
+  "4ea28920e52ef890": {
+   "fragment_id": "1.1. Verificação/autenticação da estirpe",
+   "type": "divisao",
+   "heading": "1.1. Verificação/autenticação da estirpe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.1. Verificação/autenticação da estirpe\n\nA identidade da estirpe do microrganismo deve ser estabelecida e autenticada e o vector/inserção bem caracterizado, em relação à sua estrutura e função, tal como se apresenta no MGM final. Uma descrição pormenorizada dos antecedentes da estirpe (incluindo a história das modificações genéticas) fornece informações úteis para a avaliação da segurança. A relação taxonómica com microrganismos nocivos conhecidos estreitamente aparentados deverá ser compreendida, uma vez que pode proporcionar informações sobre eventuais características nocivas que não se expressam normalmente, mas que podem vir a expressar-se em consequência da modificação genética. No caso dos sistemas de cultura de células e tecidos eucarióticos a identidade destes deverá ser verificada, de acordo com as classificações internacionais (ATCC ou outras).\n\nA história, os registos de segurança, os dados taxonómicos, os marcadores fenotípicos e genéticos deverão ser pesquisados na bibliografia pertinente, designadamente no *Bergey's Manual of Determinative Bacteriology*, nas comunicações e periódicos científicos, nas informações das empresas comerciais que fornecem o ADN. Também é possível obter informações úteis a partir das colecções de culturas e organizações de colecção de culturas tais como a *World Federation of Culture Collections* (WFCC), que publica o *World Directory of Collections of Cultures of Micro-organisms*, e a *European Culture Collections Organisation* (ECCO). As principais colecções europeias de culturas, que mantêm vastos grupos de microrganismos, também devem ser tidas em conta. No caso de uma nova população obtida por isolamento, ou de uma estirpe que não tenha sido amplamente estudada, quaisquer questões ainda não esclarecidas deverão ser abordadas nos testes realizados para confirmar a identidade do MGM. Este problema poderá surgir facilmente nos casos em que a estirpe do MGM difere de forma apreciável da(s) estirpe(s) parental(ais), por exemplo, se tiver sido obtido por fusão celular ou for resultado de múltiplas modificações genéticas.\n\nQuando são necessários testes para confirmar a identidade da estirpe, estes poderão incluir as seguintes áreas: morfologia, coloração, microscopia electrónica, serologia, perfis nutricionais baseados na utilização e/ou degradação, análise iso-enzimática, perfis proteico e de ácidos gordos, % G+C, impressões genéticas (ADN/ARN), amplificação de sequências de ADN/ARN específicas do *taxon*, sondagem de genes, hibridização com sondas de ADN específicas de ARN ribossómico e sequenciação de ADN/ARN. Os resultados dos referidos testes deverão ser documentados.\n\nEm relação à identificação dos genes no MGM, a situação ideal é quando se conhece a sequência completa de nucleótidos do vector e da inserção. Será assim possível explicar a função de cada unidade genética. O vector e a inserção devem ter dimensões limitadas, na medida do possível, às sequências genéticas necessárias à realização da função pretendida. Esta limitação diminui a probabilidade de introdução e expressão de funções crípticas, ou de aquisição de características indesejadas."
+  },
+  "fbefc03f942c7bea": {
+   "fragment_id": "1.2. Segurança documentada e comprovada",
+   "type": "divisao",
+   "heading": "1.2. Segurança documentada e comprovada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.2. Segurança documentada e comprovada\n\nDevem ser fornecidas provas documentais de que a utilização do MGM é segura. Estas poderão incluir os resultados de testes realizados anteriormente, dados de pesquisa bibliográfica ou um registo comprovado da segurança do organismo. É de salientar que um passado de utilização segura não constitui necessariamente uma prova de segurança, especialmente se o MGM tiver sido até então utilizado em condições altamente controladas por motivos de segurança.\n\nAs provas documentais da segurança comprovada da estirpe receptora ou parental constituirão um elemento auxiliar fundamental para se poder decidir se um MGM cumpre ou não este critério. No entanto, o microrganismo poderá apresentar alterações significativas em relação à(s) estirpe(s) parental(ais) susceptíveis de afectar a segurança, que devem ser investigadas. É, em especial, necessário tomar precauções se a modificação genética se destinava a eliminar uma característica nociva ou patogénica da estirpe receptora ou parental. Nesses casos, devem ser fornecidas provas documentais claras de que as características nocivas ou potencialmente nocivas foram, de facto, eliminadas, para que a segurança seja demonstrada. Se não existirem dados disponíveis sobre a estirpe receptora ou parental em questão, poderão utilizar-se dados recolhidos a respeito da espécie. Estes dados, apoiados por uma análise bibliográfica e por uma investigação taxonómica da variação das estirpes dentro da espécie, poderão demonstrar a segurança da estirpe receptora ou parental em causa.\n\nCaso não estejam disponíveis informações comprovativas da segurança, terão de ser efectuados testes apropriados para estabelecer a segurança do MGM."
+  },
+  "4f1754e6b7865d97": {
+   "fragment_id": "1.3. Estabilidade genética",
+   "type": "divisao",
+   "heading": "1.3. Estabilidade genética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.3. Estabilidade genética\n\nA modificação genética não deve aumentar a estabilidade no ambiente do MGM, em relação ao microrganismo não modificado, se for susceptível de causar danos.\n\nSempre que uma eventual instabilidade na modificação genética possa afectar negativamente a segurança, deverão ser fornecidas provas de estabilidade. Esta questão coloca-se especialmente nos casos em que tenha sido introduzida uma mutação inibitória no MGM para atenuar propriedades nefastas."
+  },
+  "3346dc0239daeed3": {
+   "fragment_id": "2. CRITÉRIOS ESPECÍFICOS",
+   "type": "divisao",
+   "heading": "2. CRITÉRIOS ESPECÍFICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. CRITÉRIOS ESPECÍFICOS"
+  },
+  "7b6b142aefad46db": {
+   "fragment_id": "2.1. Não patogénico",
+   "type": "divisao",
+   "heading": "2.1. Não patogénico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.1. Não patogénico\n\nO MGM não deverá ser susceptível de causar doenças ou danos em seres humanos, plantas ou animais saudáveis, em condições normais ou em resultado de um incidente razoavelmente previsível, tal como um ferimento com uma agulha, ingestão acidental, exposição a aerossóis e fuga conducente a exposição ambiental. Caso exista uma probabilidade acrescida de serem expostos ao MGM doentes imunocomprometidos — por exemplo, se o MGM se destinar a ser utilizado no contexto clínico — os efeitos possíveis dessa exposição devem ser tidos em conta ao avaliar a segurança global do MGM.\n\nAs pesquisas bibliográficas e as informações de base reunidas em relação aos critérios gerais deverão fornecer grande parte da informação necessária para esta avaliação. Os dados históricos sobre a manipulação e a segurança da espécie e das estirpes estreitamente relacionados com ela deverão ser investigados. As listas de agentes patogénicos humanos, animais e vegetais também deverão ser pesquisadas.\n\nOs vectores virais eucarióticos, para serem incluídos na parte C do anexo II, não devem produzir efeitos nocivos na saúde humana e no ambiente. A sua origem, bem como o mecanismo da sua atenuação e o grau de estabilidade das características em causa, devem ser conhecidos. Sempre que praticável, a presença dessas características no vírus deve ser confirmada, antes e depois da modificação ser levada a cabo. Quando esses vectores forem utilizados, apenas deverão empregar-se mutações por deleção. As quimeras que utilizem vectores de ADN ou ARN derivados de vírus em células hospedeiras cultivadas, onde não haja qualquer vírus infeccioso envolvido, nem a possibilidade de ele ser produzido, poderão também ser adequadas para inclusão.\n\nAs estirpes não virulentas de espécies reconhecidamente patogénicas, como as vacinas humanas e animais com organismos vivos, poderão ser consideradas pouco susceptíveis de causar doenças, satisfazendo, desse modo, os critérios do anexo IIB, desde que:\n\n1. A segurança da estirpe não virulenta, bem como a ausência de efeitos adversos para a saúde do ser humano, dos animais ou das plantas, estejam amplamente documentadas (análise bibliográfica), ou\n\n2. A estirpe seja deficiente, de forma estável, no material genético que determina a virulência, ou tenha mutações estáveis que se saiba serem capazes de reduzir suficientemente a virulência (testes de patogenia, investigação genética — sondas de genes, detecção de fagos e plasmídeos, cartografia da endonuclease de restrição, sequenciação, sondas de proteínas) e para as quais existam provas sólidas em matéria de segurança. Deve ser considerado o risco de reversão de uma deleção ou mutação de um gene por transferência eventual de um gene introduzido.\n\nPara obter as informações necessárias, caso estas não sejam reveladas pela análise bibliográfica e taxonómica, deverão ser efectuados testes de patogenia adequados ao microrganismo em questão. Estes testes deverão ser realizados no MGM, embora nalguns casos os testes efectuados na estirpe receptora ou parental possam ser adequados. No entanto, nos casos em que o MGM seja consideravelmente diferente do(s) seu(s) organismo(s) parental(ais), há que tomar precauções para evitar falsas conclusões de não-patogenia.\n\nEntre as estirpes receptoras ou parentais de microrganismos para a produção de MGM susceptíveis de ser considerados adequados para inclusão na parte C do anexo II incluem-se as seguintes:\n\n— os derivados adequadamente inibidos de estirpes bacterianas como o *Escherichia coli* K12 e o *Staphylococcus aureus* 83254, cujo crescimento e sobrevivência dependem da adição de nutrientes que não estão disponíveis no ser humano nem no ambiente, fora dos meios de cultura, por exemplo, a necessidade de ácido diaminopimélico, a auxotrofia da timina,\n\n— os sistemas de culturas de células e tecidos eucarióticos (de plantas ou animais, incluindo mamíferos) podem ser considerados como hospedeiros adequadamente inactivados. Os MGM baseados nas células devem satisfazer os outros critérios aqui enumerados (designadamente, ausência de agentes adventícios nocivos e vectores não mobilizáveis),\n\n— as estirpes de hospedeiros não patogénicos, de tipo selvagem, podem ter nichos ecológicos extremamente especializados nos quais uma fuga acidental ao controlo teria um impacto ambiental mínimo, ou ter uma ocorrência benigna muito ampla, pelo que uma fuga acidental ao controlo teria consequências mínimas para a saúde do ser humano, dos animais ou das plantas. São exemplos de tais hospedeiros as bactérias lácticas, os rizóbios, as hipertermófilas, bactérias produtoras de antibióticos e fungos. Deve tratar-se de microrganismos em relação aos quais exista já um conhecimento profundo e documentado dos aspectos genéticos e moleculares.\n\nO vector e o elemento inserido, tal como aparecem no MGM final, não devem conter genes que expressem uma proteína activa ou sejam transcritos (por exemplo, determinantes de virulência, toxinas, etc.) num nível e numa forma que confiram ao MGM um fenótipo susceptível de causar doenças no ser humano, nos animais e nas plantas ou tenha efeitos deletérios no ambiente.\n\nA utilização de um vector/inserção contendo sequências que codificam determinadas características nefastas em certos microrganismos, mas que não conferem ao MGM um fenótipo susceptível de causar doenças no ser humano, nos animais e nas plantas, ou efeitos deletérios no ambiente, deverá ser evitada. Também deverão ser tomadas precauções para que o material genético inserido não codifique um determinante de patogenia capaz de substituir uma mutação inibitória presente no organismo parental.\n\nO fenótipo resultante de um vector pode estar dependente do organismo receptor ou parental; aquilo que é verdade para um hospedeiro não deverá ser automaticamente presumido como verdadeiro quando a quimera é transferida para um hospedeiro diferente. Por exemplo, um vector de retrovírus inactivado seria incapaz de produzir partículas de vírus infecciosas nas bactérias ou na maioria das linhas celulares. Porém, o mesmo vector numa linha celular de empacotamento produziria partículas de vírus infecciosas e, dependendo da natureza das sequências de inactivação e inserção, poderá conferir ao MGM um fenótipo susceptível de causar doenças."
+  },
+  "97c17994e89a5a22": {
+   "fragment_id": "2.1.1. Não toxigénico",
+   "type": "divisao",
+   "heading": "2.1.1. Não toxigénico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.1.1. Não toxigénico\n\nO MGM não deverá produzir toxinas inesperadas nem um aumento da toxigenicidade em resultado da modificação genética. São exemplos de toxinas microbianas as exotoxinas, as endotoxinas e as micotoxinas. A análise da estirpe receptora ou parental poderá fornecer informações úteis sobre este aspecto.\n\nDeverá considerar-se que, ainda que a estirpe receptora ou parental esteja isenta de toxinas, há que prestar atenção a qualquer possibilidade de o vector/inserção introduzir toxinas ou estimular/suprimir a repressão da produção de toxinas. A presença de toxinas deverá ser cuidadosamente ponderada, embora não exclua necessariamente a possibilidade de inclusão do MGM na parte C do anexo II."
+  },
+  "5d17652a050d3b6e": {
+   "fragment_id": "2.1.2. Não alergénico",
+   "type": "divisao",
+   "heading": "2.1.2. Não alergénico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.1.2. Não alergénico\n\nEmbora todos os microrganismos sejam potencialmente alergénicos, em certa medida, algumas espécies são notoriamente alergénicas, figurando na Directivas 93/88/CEE do Conselho ([^9^](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#E0023)) e na Directiva 95/30/CE da Comissão ([^10^](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#E0024)), e respectivas alterações. Deverá ser analisado se o MGM pertence ou não a este grupo especialmente alergénico. Entre os componentes alergénicos dos microrganismos podem incluir-se as paredes celulares, os esporos, produtos metabólicos naturais (por exemplo, enzimas proteolíticas) e alguns antibióticos. Se o vector e o elemento inserido se expressarem no MGM resultante, o produto dos genes não deve possuir actividades biológicas que poderiam vir a dar origem a alergénios importantes. É de referir que este critério não pode ser aplicado em termos absolutos."
+  },
+  "79497d621c0daa2f": {
+   "fragment_id": "2.2. Ausência de agentes adventícios nocivos",
+   "type": "divisao",
+   "heading": "2.2. Ausência de agentes adventícios nocivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2. Ausência de agentes adventícios nocivos\n\nO MGM não deverá conter agentes adventícios conhecidos, tais como micoplasmas, vírus, bactérias, fungos, outras células de plantas ou animais, simbiotas, susceptíveis de produzir danos. A utilização, na construção do MGM, de uma estirpe receptora ou parental que se saiba estar livre de agentes adventícios nocivos é uma forma de o evitar, mas não deverá partir-se do princípio de que o MGM estará livre de agentes adventícios apenas porque a(s) estirpe(s) parental(ais) o estava(m). Na verdade, é possível que tenham sido introduzidos novos agentes durante a construção do MGM.\n\nDevem ser tomadas precauções especiais ao determinar se as culturas de células de animais contêm ou não agentes adventícios potencialmente perigosos, tais como o vírus da coriomeningite linfocitária, ou micoplasmas como o *Mycoplasma pneumoniae*. Os agentes adventícios poderão ser difíceis de detectar. Quaisquer limitações à eficiência da despistagem deverão ser tidas em conta."
+  },
+  "281ac03a1303c1ee": {
+   "fragment_id": "2.3. Transferência de material genético",
+   "type": "divisao",
+   "heading": "2.3. Transferência de material genético",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.3. Transferência de material genético\n\nO material genético inserido no MGM não deve ser transmissível nem mobilizável, se for susceptível de originar um fenótipo nocivo num microrganismo receptor.\n\nO vector e o elemento inserido não deverão transferir quaisquer marcadores de resistência para o MGM se essa resistência for susceptível de comprometer o tratamento terapêutico. A presença de tais marcadores não excluiria a priori a inclusão do MGM na parte C do anexo II, mas conferiria ainda maior importância à não mobilização desses genes.\n\nSe o vector for um vírus, cosmídeo ou qualquer outro tipo de vector derivado de vírus, há que torná-lo também não lisogénico quando usado como vector de clonagem (por exemplo, deficiente no repressor cI-lambda). O elemento inserido não deverá ser mobilizável graças, por exemplo, à presença de sequências de pró-vírus transferíveis ou outras sequências de transposição funcionais.\n\nAlguns vectores que se integram no cromossoma podem também ser considerados não mobilizáveis, mas devem ser examinados caso a caso, com especial atenção para os mecanismos susceptíveis de facilitar a mobilidade cromossómica (por exemplo, a presença de um factor F cromossómico) ou a transposição para outros replicões eventualmente presentes no hospedeiro."
+  },
+  "68cfb88b28096454": {
+   "fragment_id": "2.4. Segurança para o ambiente em caso de fuga do confinamento",
+   "type": "divisao",
+   "heading": "2.4. Segurança para o ambiente em caso de fuga do confinamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.4. Segurança para o ambiente em caso de fuga do confinamento\n\nNormalmente, só existem riscos para o ambiente se um MGM for capaz de subsistir e se possuir características perigosas. Ao ponderar os riscos para o ambiente, devem ser tidas em conta as diferentes condições ambientais existentes nos Estados-Membros e, quando necessário, considerar a eventualidade de situações extremas. Devem ser igualmente fornecidas, caso existam, informações relativas a libertações anteriores (deliberadas ou não) e ao eventual impacto ambiental que tenham tido."
+  },
+  "8d035f0784e60f1d": {
+   "fragment_id": "2.4.1. Sobrevivência dos organismos",
+   "type": "divisao",
+   "heading": "2.4.1. Sobrevivência dos organismos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.4.1. Sobrevivência dos organismos\n\nAo decidir se um MGM é ou não susceptível de causar efeitos adversos no ambiente, ou doenças em plantas e animais, deverá analisar-se se as características biológicas do MGM irão aumentar, deixar inalterada ou diminuir a sua capacidade de sobrevivência no ambiente. Se forem biologicamente incapacitados de sobreviver no ambiente, os MGM não sobreviverão por períodos significativos fora do confinamento e, por conseguinte, a probabilidade de interacção com o ambiente é reduzida.\n\nAo considerar os eventuais efeitos adversos sobre o ambiente, deverá também ser tido em conta o destino possível dos MGM que escapem ao confinamento e entrem nas redes alimentares."
+  },
+  "032f832b5eb4491c": {
+   "fragment_id": "2.4.2. Dispersão",
+   "type": "divisao",
+   "heading": "2.4.2. Dispersão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.4.2. Dispersão\n\nPara ser capaz de se implantar no ambiente, um MGM teria de sobreviver à dispersão e de se instalar num nicho adequado. Há que tomar em consideração o método de dispersão e as probabilidades de sobrevivência durante a mesma. Muitos microrganismos sobrevivem, por exemplo, quando dispersos em aerossóis e gotículas, e também por intermédio de insectos e vermes."
+  },
+  "4585747d7acfd8b4": {
+   "fragment_id": "2.4.3. Implantação dos organismos no ambiente",
+   "type": "divisao",
+   "heading": "2.4.3. Implantação dos organismos no ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.4.3. Implantação dos organismos no ambiente\n\nA implantação num determinado ambiente está dependente da natureza do ambiente para onde o MGM se escapar e da sua capacidade de sobreviver à transmissão para o novo ambiente. As potencialidades de implantação num nicho apropriado variam consoante a dimensão da população viável, o tamanho do nicho e a frequência de nichos adequados para a espécie. As probabilidades serão diferentes para cada espécie. Além disso, a resistência ou a sensibilidade às pressões bióticas ou abióticas terá grande influência na implantação de um MGM no ambiente. A subsistência de um MGM no ambiente durante um período significativo está ligada à sua capacidade de sobreviver e de se adaptar às condições ambientais ou de iniciar uma taxa de crescimento competitiva. Estes factores podem ser influenciados pela modificação genética e pelo local de integração. Existem situações em que é pouco provável que a modificação genética produza este efeito, por exemplo quando:\n\n— o produto do gene que contribui para a formação de um metabolito secundário, constituído no fim do crescimento, não pode promover o início do crescimento."
+  },
+  "3d4cec1bfdd10e62": {
+   "fragment_id": "2.4.4. Transferência de material genético",
+   "type": "divisao",
+   "heading": "2.4.4. Transferência de material genético",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.4.4. Transferência de material genético\n\nEstão a surgir mais informações sobre a transferência de material genético entre microrganismos. Mesmo que o MGM tenha uma capacidade de sobrevivência muito limitada, será importante decidir se há ou não possibilidades de o material genético introduzido persistir no ambiente ou ser transferido para outros organismos e causar danos. Já foi demonstrada a transferência de material genético, por exemplo, em condições experimentais, no solo (incluindo rizosferas), nas vísceras de animais e na água por conjugação, transdução ou transformação.\n\nA possibilidade de transferência de material genético dos MGM com baixa probabilidade de crescimento e capacidade de sobrevivência limitada é muito pequena. Se o MGM não contiver plasmídeos auto-transmissíveis ou fagos transdutores, a transferência activa encontra-se praticamente excluída. O risco será muito pequeno se o vector/inserção não for auto-transmissível e a sua capacidade de mobilização for fraca."
+  },
+  "e4febb5f5dc362c9": {
+   "fragment_id": "ANEXO 1",
+   "type": "divisao",
+   "heading": "ANEXO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### ANEXO 1\n\n*Agentes adventícios* — outros microrganismos, activos ou latentes, que se encontram associados/no interior do microrganismo que é objecto do pedido.\n\n*Antigénio* — qualquer molécula que induza a produção de um anticorpo específico nos linfócitos B. Uma molécula que possa ser especificamente reconhecida pelos elementos adaptativos do sistema imunitário, ou seja, pelos linfócitos B ou T, ou por ambos.\n\n*Alergénio* — antigénio susceptível de sensibilizar as pessoas, provocando-lhes uma reacção de hipersensibilidade aquando de exposições subsequentes.\n\n*Alergia* — reacções de hipersensibilidade imediatas, que se verificam quando uma resposta da imunoglobulina é dirigida contra um antigénio inócuo, tal como uma célula bacteriana não patogénica e não viável. A consequente libertação de mediadores farmacológicos pelos mastócitos sensibilizados pela imunoglobulina E produz uma reacção inflamatória aguda com sintomas como a asma, o eczema ou a rinite.\n\n*Conjugação* — a transferência activa de ADN de um hospedeiro para outro.\n\n*Cosmídeo* — tipo de vector de clonagem compreendendo um plasmídeo no qual foram inseridas as sequências *cos* de um fago lambda.\n\n*Doença* — qualquer perturbação da estrutura ou do funcionamento de um ser humano, animal ou planta dotados de defesas imunológicas, num grau susceptível de produzir uma doença ou perturbação detectável.\n\n*Expressão* — processo de produção de transcrições de ARN, proteínas e polipéptidos utilizando a informação contida nos genes do MGM. Na acepção das presentes orientações, o termo «expressão» refere-se igualmente ao nível de expressão previsto ou conhecido do material genético inserido.\n\n*Mobilização* — transferência passiva de um hospedeiro para outro.\n\n*Deficiente na mobilização* — vector destituído de uma ou mais funções de transferência, cuja mobilização por outros elementos que supram as funções em falta é pouco provável.\n\n*Patogenia* — capacidade do microrganismo de causar doenças por infecção, toxicidade ou alergenicidade. A patogenia é um atributo taxonomicamente importante e é uma propriedade da espécie.\n\n*Plasmídeo* — elemento de ADN extracromossómico e auto-replicativo, presente em muitos microrganismos e que geralmente confere alguma vantagem evolutiva à célula hospedeira.\n\n*Microrganismo receptor ou parental* — microrganismo(s) onde se verificou a modificação genética.\n\n*Rizóbios* — bactérias presentes na rizosfera, ou seja, no solo aderente às raízes das plantas, e que se introduzem nas raízes, quer no espaço intercelular quer dentro das células. Os rizóbios são muitas vezes utilizados na agricultura como inoculante microbiano/de sementes.\n\n*Transdução* — incorporação de ADN bacteriano em partículas bacteriofágicas e sua transferência para bactérias receptoras.\n\n*Transformação* — a absorção de ADN nu por uma célula.\n\n*Vector* — molécula portadora de ADN ou ARN (por exemplo, plasmídeo, bacteriófago) onde pode ser inserida uma sequência de material genético para posterior introdução numa nova célula hospedeira, onde será replicada e em alguns casos expressa.\n\n*Virulência* — capacidade de causar danos. As diferentes estirpes de microrganismos podem apresentar grandes variações quanto à capacidade de causar danos à espécie hospedeira."
+  },
+  "cb69e172dff0edc4": {
+   "fragment_id": "PARTE C",
+   "type": "divisao",
+   "heading": "PARTE C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE C\n\nTipos de MGM que cumprem os critérios referidos na parte B:\n\n… (a preencher nos termos do artigo 21.º)"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "c97bbd82b1d3a299": {
+   "fragment_id": "PRINCÍPIOS A SEGUIR PARA EFEITOS DA AVALIAÇÃO PREVISTA NO N.º 2 DO ARTIGO 5.º",
+   "type": "divisao",
+   "heading": "PRINCÍPIOS A SEGUIR PARA EFEITOS DA AVALIAÇÃO PREVISTA NO N.º 2 DO ARTIGO 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PRINCÍPIOS A SEGUIR PARA EFEITOS DA AVALIAÇÃO PREVISTA NO N.º 2 DO ARTIGO 5.º\n\nO presente anexo descreve em termos gerais os elementos a considerar e o procedimento a seguir para se efectuar a avaliação referida no n.º 2 do artigo 5.º, sendo complementado, no que se refere especificamente à secção B adiante, por notas de orientação a definir pela Comissão de acordo com o procedimento definido no artigo 21.º\n\nEstas notas de orientação serão completadas o mais tardar até 5 de Junho de 2000."
+  },
+  "d8bde2860b9f3d58": {
+   "fragment_id": "A. ELEMENTOS DE AVALIAÇÃO",
+   "type": "divisao",
+   "heading": "A. ELEMENTOS DE AVALIAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. ELEMENTOS DE AVALIAÇÃO\n\n1. Deverão ser considerados efeitos potencialmente nocivos: — doenças no ser humano, incluindo efeitos alergénicos ou tóxicos, — doenças nos animais ou plantas, — efeitos deletérios devidos à impossibilidade de tratar uma doença ou de dispor de uma profilaxia eficaz, — efeitos deletérios devidos ao estabelecimento ou à disseminação no ambiente, — efeitos deletérios devidos à transferência natural, para outros organismos, de material genético inserido.\n\n2. A avaliação referida no n.º 2 do artigo 5.º deverá basear-se nos seguintes elementos: a) Identificação dos efeitos particularmente nocivos, em especial os associados: i) Ao microrganismo receptor, ii) Ao material genético inserido (proveniente do microrganismo dador), iii) Ao vector, iv) Ao microrganismo dador (enquanto o microrganismo dador for utilizado durante a operação), v) Ao MGM resultante; b) Características da actividade; c) Gravidade dos efeitos potencialmente nocivos; d) Probabilidade da concretização de efeitos potencialmente nocivos."
+  },
+  "deb8e8ac292c7d09": {
+   "fragment_id": "B. PROCESSO",
+   "type": "divisao",
+   "heading": "B. PROCESSO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. PROCESSO\n\n3. A primeira fase do processo de avaliação deve identificar as propriedades nocivas do receptor e, quando adequado, do microrganismo dador, as propriedades nocivas associadas ao vector ou ao material inserido, incluindo qualquer alteração das propriedades actuais do receptor.\n\n4. Em geral, só os MGM com as seguintes características serão considerados adequados para a inclusão na classe 1 tal como definida no artigo 5.º: i) É improvável que o microrganismo receptor ou parental cause doenças no ser humano, nos animais ou nas plantas ([^11^](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#E0009)); ii) A natureza do vector e do elemento inserido é tal que não darão origem a um MGM com um fenótipo susceptível de causar doenças no ser humano, nos animais ou nas plantas ou efeitos adversos no ambiente; iii) É improvável que o MGM cause doenças no ser humano, nos animais ou nas plantas [(11)](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#E0009) e tenha efeitos deletérios no ambiente.\n\n5. Para obter as informações necessárias à aplicação deste processo, o utilizador pode em primeiro lugar ter em consideração a legislação comunitária pertinente, nomeadamente a Directiva 90/679/CEE do Conselho ([^12^](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#E0011)) Os sistemas internacionais ou nacionais de classificação (por exemplo, ou da OMS ou do NIH (National Institutes of Health, Institutos Nacionais de Saúde dos EUA, etc.) e as suas revisões à luz de novos conhecimentos científicos e do progresso técnico também poderão ser tomados em consideração. Estes sistemas dizem respeito aos microrganismos naturais, e, como tal baseiam-se normalmente na capacidade de os microrganismos causarem doenças no ser humano, nos animais ou nas plantas e na gravidade e transmissibilidade das doenças que podem causar.A Directiva 90/679/CEE classifica os microrganismos, enquanto agentes biológicos, em quatro classes de risco com base nos efeitos potenciais que tenham sobre uma pessoa adulta saudável. Essas classes de risco podem ser utilizadas como orientação para a classificação das operações de utilização confinada nas quatro classes de risco referidas no n.º 3 do artigo 5.º O utilizador também poderá tomar em consideração os sistemas de classificação dos patogénios vegetais e animais (habitualmente estabelecidos com base nacional). Os sistemas de classificação acima referidos apenas dão uma indicação provisória da classe de risco da operação e do nível correspondente de medidas de confinamento e controlo.\n\n6. O processo de identificação dos riscos, executado nos termos dos n.^os^ 3 a 5, deverá levar à identificação do nível de risco associado ao MGM.\n\n7. A selecção do confinamento e outras medidas de protecção deverão pois ser efectuadas com base no nível de risco associado ao MGM em conjunto com: i) As características do ambiente susceptível de exposição (por exemplo, se no ambiente susceptível de exposição ao MGM existem biotas conhecidos que possam ser negativamente afectados pelos microrganismos utilizados na actividade de utilização confinada); ii) As características da actividade (por exemplo, escala e natureza); iii) Quaisquer operações não convencionais (por exemplo, a inoculação de MGM em animais; equipamento susceptível de gerar aerossóis). A análise dos pontos i) a iii), em relação à actividade em questão, pode aumentar, diminuir ou deixar sem alteração o nível de risco associado ao MGM tal como identificado no ponto 6.\n\n8. A análise levada a cabo de acordo com o que acima se encontra descrito acabará por permitir classificar a actividade em uma das classes descritas no n.º 3 do artigo 5.º\n\n9. A classificação final da utilização confinada deve ser confirmada mediante uma avaliação completa a que se refere o n.º 2 do artigo 5.º"
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "266abd72a6e5681c": {
+   "fragment_id": "MEDIDAS DE CONFINAMENTO E OUTRAS MEDIDAS DE PROTECÇÃO",
+   "type": "divisao",
+   "heading": "MEDIDAS DE CONFINAMENTO E OUTRAS MEDIDAS DE PROTECÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIDAS DE CONFINAMENTO E OUTRAS MEDIDAS DE PROTECÇÃO"
+  },
+  "ea90023044979426": {
+   "fragment_id": "Princípios gerais",
+   "type": "divisao",
+   "heading": "Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Princípios gerais\n\n1. Os quadros que se seguem apresentam os requisitos mínimos normais, bem como as medidas necessárias a cada nível de confinamento. O confinamento é também assegurado através de boas práticas de trabalho, de formação e de equipamento de confinamento e da concepção de instalações especiais. Todas as actividades que envolvam MGM devem respeitar os princípios das boas práticas de microbiologia, bem como de segurança e higiene no local do trabalho: i) A exposição do local de trabalho e do ambiente a MGM deve situar-se ao mais baixo nível possível; ii) Devem ser levadas a cabo medidas de controlo na fonte, eventualmente completadas com fornecimento de vestuário e equipamento de protecção individual; iii) As medidas de controlo e o equipamento devem ser devidamente verificados e mantidos; iv) Se necessário, devem ser efectuadas pesquisas da presença de organismos manipulados viáveis fora da zona primária de confinamento físico; v) Há que assegurar a formação adequada do pessoal; vi) Se necessário, há que instituir comités de segurança biológica; vii) Se necessário, há que formular e aplicar códigos locais de práticas para a segurança do pessoal; viii) Devem ser afixados sinais de perigo biológico onde necessário; ix) Devem ser previstas instalações para a limpeza e descontaminação do pessoal; x) Devem ser mantidos registos adequados; xi) Deve ser proibido comer, beber, fumar, aplicar cosméticos ou guardar alimentos para consumo humano na zona de trabalho; xii) Deve ser proibido pipetar à boca; xiii) Sempre que adequado, devem ser fornecidos por escrito processos de funcionamento normalizados para garantir a segurança; xiv) Devem estar disponíveis desinfectantes eficazes e processos de desinfecção específicos em caso de disseminação de MGM; xv) Se adequado, devem ser fornecidos sistemas seguros de armazenagem de equipamento e material de laboratório contaminado.\n\n2. Os títulos dos quadros são indicativos. O quadro I A apresenta os requisitos mínimos para actividades laboratoriais. O quadro I B apresenta adendas e alterações em relação ao quadro I A no que respeita às actividades que envolvam MGM em estufas ou recintos de crescimento. O quadro I C apresenta alterações ao quadro I A no que respeita às actividades com animais que envolvam MGM. O quadro II apresenta os requisitos mínimos relativos a actividades não laboratoriais. Em alguns casos, poderá ser necessário aplicar uma combinação de medidas do mesmo nível provenientes dos quadros I A e II. Em alguns casos, os utilizadores podem, com o acordo da autoridade competente, não aplicar uma especificação prevista para um dado nível de confinamento, ou combinar especificações correspondentes a dois níveis diferentes. Nestes quadros, «opcional» significa que o utilizador pode aplicar estas medidas, caso a caso, consoante a avaliação a que se refere o n.º 2 do artigo 5.º\n\n3. Quando aplicarem o presente anexo, os Estados-membros podem, tendo em vista a clareza dos requisitos, incorporar igualmente nos quadros que se seguem os princípios gerais enunciados nos pontos 1 e 2."
+  },
+  "2566ee2acc4a1355": {
+   "fragment_id": "Quadro I A",
+   "type": "divisao",
+   "heading": "Quadro I A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Quadro I A"
+  },
+  "573868bed91793dc": {
+   "fragment_id": "Medidas de confinamento e outras medidas de protecção aplicáveis a actividades laboratoriais",
+   "type": "divisao",
+   "heading": "Medidas de confinamento e outras medidas de protecção aplicáveis a actividades laboratoriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Medidas de confinamento e outras medidas de protecção aplicáveis a actividades laboratoriais\n\n| Especificações | Níveis de confinamento |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| 1 | 2 | 3 | 4 |  |  |\n| 1 | Instalações do laboratório: isolamento [(^1^)](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#E0012) | Não | Não | Sim | Sim |\n| 2 | Laboratório: susceptível de ser vedado para fumigação | Não | Não | Sim | Sim |\n| Equipamento |  |  |  |  |  |\n| 3 | Superfícies resistentes a água, ácidos, bases, solventes e desinfectantes agentes de descontaminação e fáceis de limpar | Sim (bancada) | Sim (bancada) | Sim (bancada, pavimento) | Sim (bancada, pavimento, tecto e paredes) |\n| 4 | Acesso ao laboratório através de câmara de vácuo [(^2^)](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#E0013) | Não | Não | Opcional | Sim |\n| 5 | Pressão negativa em relação à pressão do ambiente circundante | Não | Não | Sim excepto no que respeita a [(^3^)](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#E0014) | Sim |\n| 6 | O ar extraído e de alimentação no laboratório deve ser objecto de filtração HEPA | Não | Não | Sim (HEPA) [(^4^)](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#E0015) — ar extraído, excepto no que respeita a [(^3^)](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#E0014) | Sim (HEPA) [(^5^)](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#E0016) — ar de alimentação e extraído |\n| 7 | Posto de segurança microbiológica | Não | Opcional | Sim | Sim |\n| 8 | Autoclave | Nas instalações | No edifício | Num compartimento anexo ao laboratório [(^6^)](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#E0017) | No laboratório = com duas entradas |\n| Sistema de trabalho |  |  |  |  |  |\n| 9 | Acesso restrito | Não | Sim | Sim | Sim |\n| 10 | Aviso de bio-risco na porta | Não | Sim | Sim | Sim |\n| 11 | Medidas específicas para o controlo da disseminação de aerossóis | Não | Sim. Reduzir ao mínimo | Sim. Evitar | Sim. Evitar |\n| 13 | Chuveiro | Não | Não | Opcional | Sim |\n| 14 | Vestuário de protecção | Vestuário de protecção adequado | Vestuário de protecção adequado | Vestuário + Calçado (opcional) de protecção adequado | Mudança total de roupa e calçado antes de entrar e sair |\n| 15 | Luvas | Não | Opcional | Sim | Sim |\n| 18 | Controlo eficaz dos vectores (por exemplo, roedores e insectos) | Opcional | Sim | Sim | Sim |\n| Resíduos |  |  |  |  |  |\n| 19 | Inactivação dos MGM nos efluentes dos lavatórios, ralos de escoamento e chuveiros e efluentes equiparáveis | Não | Não | Opcional | Sim |\n| 20 | Inactivação dos MGM no material e nos resíduos contaminados | Opcional | Sim | Sim | Sim |\n| Outras medidas |  |  |  |  |  |\n| 21 | Laboratórios contendo o seu próprio equipamento | Não | Não | Opcional | Sim |\n| 23 | Janela de observação ou equivalente que permita ver os ocupantes | Opcional | Opcional | Opcional | Sim |\n| (^1^) Isolamento = o laboratório está separado de outras áreas do mesmo edifício ou dispõe de um edifício próprio. (^2^) Câmara de vácuo = o acesso é feito por uma câmara de vácuo isolada do laboratório. O seu lado não contaminado deve estar separado do lado restrito por vestiários ou chuveiros, preferivelmente através de portas com mecanismo de engate. (^3^)Actividades em que a transmissão não ocorra através do ar. (^4^) HEPA = *High Efficiency Particulate Air*. (^5^)Quando se utilizam vírus, não retidos por filtros HEPA, serão necessárias especificações adicionais para o ar extraído. (^6^)Com processos validados, que permitam a transferência do material para um autoclave fora do laboratório e que permitam um nível de protecção equivalente. |  |  |  |  |  |"
+  },
+  "2a0ae51c8be3b078": {
+   "fragment_id": "Quadro I B",
+   "type": "divisao",
+   "heading": "Quadro I B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Quadro I B"
+  },
+  "5d69b702f1440ff6": {
+   "fragment_id": "Medidas de confinamento e outras medidas de protecção aplicáveis a estufas e recintos de crescimento",
+   "type": "divisao",
+   "heading": "Medidas de confinamento e outras medidas de protecção aplicáveis a estufas e recintos de crescimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Medidas de confinamento e outras medidas de protecção aplicáveis a estufas e recintos de crescimento\n\nOs termos estufa e recinto de crescimento referem-se a estruturas com paredes, tecto e pavimento, concebidas e utilizadas sobretudo para o crescimento de plantas num ambiente controlado e protegido.\n\n| Especificações | Níveis de confinamento |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| 1 | 2 | 3 | 4 |  |  |\n| Edifício |  |  |  |  |  |\n| 1 | Estufa: estrutura permanente [(^1^)](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#E0018) | Não | Sim | Sim | Sim |\n| Equipamento |  |  |  |  |  |\n| 3 | Acesso através de um compartimento separado com duas portas com mecanismo de engate | Não | Opcional | Opcional | Sim |\n| 4 | Controlo de água de escoamento contaminada | Opcional | Reduzir ao mínimo o escoamento [(^2^)](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#E0019) | Evitar o escoamento | Evitar o escoamento |\n| Sistema de trabalho |  |  |  |  |  |\n| 6 | Medidas de controlo de espécies indesejáveis, como insectos, roedores e artrópodes | Sim | Sim | Sim | Sim |\n| 7 | Os procedimentos de transferência de material vivo entre a estufa/recinto de crescimento, a estrutura de protecção e o laboratório devem controlar a disseminação de microrganismos geneticamente modificados | Reduzir ao mínimo a disseminação | Reduzir ao mínimo a disseminação | Evitar a disseminação | Evitar a disseminação |\n| (^1^)A estufa deve consistir numa estrutura com uma cobertura impermeável continua, localizada num sitio com uma indinação tal que permita evitar os escoamentos de águas superficiais e dispor de portas com fecho automático. (^2^)Se for possível a transmissão attravés do solo. |  |  |  |  |  |"
+  },
+  "50447c81fe460202": {
+   "fragment_id": "Quadro I C",
+   "type": "divisao",
+   "heading": "Quadro I C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Quadro I C"
+  },
+  "1bbc5c596d71519b": {
+   "fragment_id": "Medidas de confinamento e outras medidas de protecção aplicáveis a actividades em unidades com animais",
+   "type": "divisao",
+   "heading": "Medidas de confinamento e outras medidas de protecção aplicáveis a actividades em unidades com animais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Medidas de confinamento e outras medidas de protecção aplicáveis a actividades em unidades com animais\n\n| Especificações | Níveis de confinamento |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| 1 | 2 | 3 | 4 |  |  |\n| Instalações |  |  |  |  |  |\n| 1 | Isolamento da unidade com animais [(^1^)](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#E0020) | Opcional | Sim | Sim | Sim |\n| 2 | Instalações para animais [(^2^)](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#E0021)separadas por portas com fecho | Opcional | Sim | Sim | Sim |\n| 3 | Concepção das instalações para animais com vista à descontaminação (materiais impermeáveis e facilmente laváveis (gaiolas, etc.) | Opcional | Opcional | Sim | Sim |\n| 4 | Pavimento e/ou paredes facilmente laváveis | Opcional | Sim (pavimento) | Sim (pavimento e paredes) | Sim (pavimento e paredes) |\n| 5 | Confinamento adequado dos animais em jaulas, gaiolas, capoeiras, tanques, etc. | Opcional | Opcional | Opcional | Opcional |\n| 6 | Filtros nos isoladores [(^3^)](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#E0022) ou compartimento isolado | Não | Opcional | Sim | Sim |\n| (^1^) Unidade com animais: um edifício, ou área independente de um edifício, que disponha de instalações e outras áreas, com vestiários, chuveiros, autoclaves, áreas de armazenamento de alimentos, etc. (^2^) Instalção para animais: instalação normalmente utilizada para o alojamento de animais para produção, para reprodução ou experimentais ou utilizada para e execução de pequena cirurgia. (^3^) Isoladores: caixas transparentes em que o animal é confinado, dentro ou fora de uma gaiola; para os grandes animais, podem ser mais adequados compartimentos isolados. |  |  |  |  |  |"
+  },
+  "f228822a2fefdd58": {
+   "fragment_id": "Quadro II",
+   "type": "divisao",
+   "heading": "Quadro II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Quadro II"
+  },
+  "3c334d374b34ca37": {
+   "fragment_id": "Medidas de confinamento e outras medidas de protecção aplicáveis nas restantes actividades",
+   "type": "divisao",
+   "heading": "Medidas de confinamento e outras medidas de protecção aplicáveis nas restantes actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Medidas de confinamento e outras medidas de protecção aplicáveis nas restantes actividades\n\n| Especificações | Níveis de confinamento |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| 1 | 2 | 3 | 4 |  |  |\n| Generalidades |  |  |  |  |  |\n| 1 | Os microrganismos viáveis devem estar confinados num sistema que separe fisicamente o processo do ambiente (sistema fechado) | Opcional | Sim | Sim | Sim |\n| 2 | Controlo dos gases provenientes do sistema fechado | Não | Sim. Reduzir ao mínimo a disseminação | Sim. Evitar a disseminação | Sim. Evitar a disseminação |\n| 3 | Controlo dos aerossóis durante a recolha de amostras, a introdução de material num sistema fechado ou a transferência de material para outro sistema fechado | Opcional | Sim. Reduzir ao mínimo a disseminação | Sim. Evitar a disseminação | Sim. Evitar a disseminação |\n| 4 | Inactivação de grandes quantidades de fluidos de cultura antes da sua remoção do sistema fechado | Opcional | Sim, através de meios validados | Sim, através de meios validados | Sim, através de meios validados |\n| 5 | A selagem deve ser concebida por forma a reduzir ao mínimo ou evitar a disseminação | Nenhum requisito específico | Minimizar a disseminação | Evitar a disseminação | Evitar a disseminação |\n| 6 | A área controlada deve ser concebida por forma a limitar o derrame de todo o conteúdo do sistema fechado | Opcional | Opcional | Sim | Sim |\n| 7 | A área controlada deve poder ser selada para permitir a fumigação | Não | Opcional | Opcional | Sim |\n| Equipamento |  |  |  |  |  |\n| 8 | Entrada via câmara de vácuo | Não | Não | Opcional | Sim |\n| 9 | Superfícies resistentes a água, ácidos, bases, solventes e desinfectantes agentes de descontaminação e fáceis de limpar | Sim (bancada se houver) | Sim (bancada se houver) | Sim (bancada se houver, pavimento) | Sim (bancada, pavimento, tecto e paredes) |\n| 10 | Medidas específicas para a ventilação adequada da área controlada, por forma a reduzir ao mínimo a contaminação do ar. | Opcional | Opcional | Opcional | Sim |\n| 11 | Pressão negativa da área controlada em relação à pressão do ambiente circundante | Não | Não | Opcional | Sim |\n| 12 | O ar extraído e de alimentação na área controlada deve ser objecto de filtração HEPA | Não | Não | Sim (ar extraído, opcional para o ar de alimentação) | Sim (ar de alimentação e extraído) |\n| Sistema de trabalho |  |  |  |  |  |\n| 13 | Os sistemas fechados devem estar situados numa área controlada | Não | Opcional | Sim | Sim |\n| 14 | O acesso deve ser restringido a pessoas designadas | Não | Sim | Sim | Sim |\n| 15 | Afixação de avisos de perigo | Não | Sim | Sim | Sim |\n| 17 | O pessoal deve tomar um duche antes de sair da área controlada | Não | Não | Opcional | Sim |\n| 18 | O pessoal deve utilizar vestuário de protecção | Sim (vestuário de trabalho) | Sim (vestuário de trabalho) | Sim | Mudança total de roupa antes de entrar e sair |\n| Resíduos |  |  |  |  |  |\n| 22 | Inactivação de MGM nos efluentes dos lavatórios e chuveiros e efluentes equiparáveis | Não | Não | Opcional | Sim |\n| 23 | Inactivação de MGM presentes em materiais e resíduos contaminados incluindo em efluentes do processo, antes da descarga final | Opcional | Sim através de meios validados | Sim através de meios validados | Sim através de meios validados |"
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "c6aa2ca6557f484d": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A\n\nInformações necessárias para a notificação referida no artigo 7.º:\n\n— nome do(s) utilizadores, incluindo os responsáveis pela vigilância e segurança,\n\n— informações sobre a formação e qualificações dos responsáveis pela fiscalização e segurança,\n\n— dados sobre eventuais comités ou subcomités biológicos,\n\n— endereço da instalação e descrição geral das instalações,\n\n— descrição da natureza do trabalho que será efectuado,\n\n— classe de risco das utilizações confinadas,\n\n— resumo da avaliação de risco referida no n.º 2 do artigo 5.º e informação sobre a gestão dos resíduos (apenas no que respeita às utilizações confinadas da classe 1)."
+  },
+  "3a4bd813ee118f7c": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B\n\nInformações necessárias para a notificação referida no artigo 9.º:\n\n— data de apresentação da notificação referida no artigo 7.º,\n\n— nome dos responsáveis pela vigilância e segurança, e informação sobre a sua formação e qualificações,\n\n— microrganismo ou microrganismos receptores, dadores e/ou parentais utilizado(s) e, se aplicável, sistema(s) vector-hospedeiro utilizado(s),\n\n— origem (ou origens) e função (ou funções) pretendida(s) do material (ou materiais) genético(s) envolvido(s) na modificação (ou modificações),\n\n— identificação e características do(s) MGM,\n\n— objectivo da utilização confinada, incluindo os resultados previstos,\n\n— volumes aproximados de cultura que irão ser utilizados,\n\n— descrição das medidas de confinamento e outras medidas de protecção a aplicar, incluindo dados sobre a gestão dos resíduos que irão ser gerados e o respectivo tratamento, forma e destino finais,\n\n— resumo da avaliação de riscos referida no n.º 2 do artigo 5.º,\n\n— dados necessários para que as autoridades competentes possam avaliar quaisquer planos de emergência, se o artigo 14.º o exigir."
+  },
+  "f41f953da384b2dc": {
+   "fragment_id": "PARTE C",
+   "type": "divisao",
+   "heading": "PARTE C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE C\n\nInformações necessárias para a notificação referida no artigo 10.º:\n\n— data de apresentação da notificação referida no artigo 7.º,\n\n— nomes dos responsáveis pela vigilância e segurança e informações sobre a sua formação e qualificações;\n\n— microrganismo(s) receptores ou parentais a utilizar,\n\n— sistema(s) hospedeiro-vector a utilizar (se aplicável),\n\n— fonte(s) e função (funções) prevista(s) do material genético envolvido na manipulação (ou manipulações),\n\n— identificação e características do MGM,\n\n— volumes de cultura que irão ser utilizados;\n\n— descrição das medidas de confinamento e outras medidas de protecção a aplicar, incluindo dados sobre a gestão dos resíduos, incluindo dados sobre o tipo e forma dos resíduos que irão ser gerados e o respectivo tratamento, forma e destino finais,\n\n— objectivo da utilização confinada, incluindo os resultados previstos,\n\n— descrição das partes da instalação;\n\nd) informações relativas à prevenção de acidentes e a eventuais planos de emergência:\n\n— eventuais riscos específicos decorrentes da localização da instalação,\n\n— medidas preventivas aplicadas, tais como equipamento de segurança, sistemas de alarme e métodos de confinamento,\n\n— procedimentos e planos de verificação da manutenção da eficácia das medidas de cofinamento,\n\n— descrição das informações fornecidas ao pessoal,\n\n— dados necessários para que as autoridades competentes possam avaliar quaisquer planos de emergência, se o artigo 14.º o exigir;\n\ne) cópia da avaliação referida no n.º 2 do artigo 5.º\n\n---"
+  },
+  "d388a3100f2e26ca": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#src.E0001)) JO n.º C 198 de 28. 7. 1988, p. 9, e\n\n> JO n.º 246 de 27. 9. 1989, p. 6.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#src.E0002)) JO n.º C 158 de 26. 6. 1989, p. 122, e\n\n> JO n.º C 96 de 17. 4. 1990.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#src.E0003)) JO n.º C 23 de 30. 1. 1989, p. 45.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#src.E0004)) JO n.º C 328 de 7. 12. 1987, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#src.E0005)) JO L 117 de 8.5.1990, p. 15. Directiva com a última redacção que lhe foi dada pela Directiva 97/35/CE da Comissão (JO L 169 de 27.6.1997, p. 72).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#src.E0006)) JO L 158 de 23.6.1990, p. 56.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#src.E0007)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#src.E0008)) JO L 268 de 29.10.1993, p. 71.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#src.E0023)) JO L 268 de 29.10.93, p. 71.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#src.E0024)) JO L 155 de 6.7.1995, p. 41.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#src.E0009)) Só se aplica aos animais e plantas existentes no ambiente susceptível de exposição.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/f5f21ca8-1580-417a-a2f8-d146c5917c1e.0018.03/DOC_1#src.E0011)) JO L 374 de 31.12.1990, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 97/59/CE da Comissão (JO L 282 de 15.10.1997, p. 33)."
+  },
+  "a892a0097cbb4e72": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1990L0219 — PT — 10.06.2009 — 006.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31990L0219) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31990L0219) [de 23 de Abril de 1990](http://publications.europa.eu/resource/celex/31990L0219) [relativa à utilização confinada de microrganismos geneticamente modificados](http://publications.europa.eu/resource/celex/31990L0219) [(90/219/CEE)](http://publications.europa.eu/resource/celex/31990L0219) (JO L 117, 8.5.1990, p.1)\n\n**revogado por:**\n\n- [Directiva 2009/41/CE do Parlamento Europeu e do Conselho de 6 de Maio de 2009](http://publications.europa.eu/resource/celex/32009L0041) — L 125 — 75 — 21.5.2009"
+  }
+ }
+}

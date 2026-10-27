@@ -1,0 +1,183 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:533792:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1999-108276931",
+ "dre_path": "/dr/detalhe/portaria/764-1999-533792",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-08-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "108276837"
+   ]
+  },
+  {
+   "date": "2017-10-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108269605:por",
+     "title": "Decreto-Lei n.º 126-A/2017",
+     "published": "2017-10-06",
+     "dre_path": "/dr/detalhe/decreto-lei/126-a-2017-108269605"
+    }
+   ],
+   "changes": [
+    "Altera 3.º"
+   ],
+   "fragments": [
+    "108276837",
+    "108276839",
+    "108276840",
+    "108276853",
+    "108276842",
+    "108276843",
+    "108276844",
+    "108276845",
+    "108276846",
+    "108276847",
+    "108276848",
+    "108276849",
+    "108276850",
+    "108276851",
+    "108276852",
+    "108276838"
+   ]
+  }
+ ],
+ "fragments": {
+  "108276837": {
+   "fragment_id": "108276932",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": ""
+  },
+  "108276839": {
+   "fragment_id": "108276935",
+   "type": 11,
+   "heading": "1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º — Objectivo\n\n1 - O presente diploma tem por objectivo estabelecer as normas de execução necessárias à aplicação do regime jurídico do complemento por dependência fixado no Decreto-Lei n.º 265/99, de 14 de Julho.\n\n2 - As remissões para os artigos, constantes do articulado da presente portaria, respeitam ao Decreto-Lei n.º 265/99, de 14 de Julho."
+  },
+  "108276840": {
+   "fragment_id": "108276936",
+   "type": 11,
+   "heading": "2.º — Âmbito de aplicação pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º — Âmbito de aplicação pessoal\n\nO âmbito de aplicação pessoal, definido no artigo 2.º, é extensivo, por força do disposto em legislação especial, designadamente, aos pensionistas do regime especial das actividades agrícolas, regulado pelo Decreto-Lei n.º 81/85, de 28 de Março, e dos regulamentos especiais dos trabalhadores ferroviários e do pessoal do Serviço de Transportes Colectivos do Porto."
+  },
+  "108276853": {
+   "fragment_id": "108276937",
+   "type": 11,
+   "heading": "3.º — Situação de dependência",
+   "in_force_from": "2017-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 126-A/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+   ],
+   "markdown": "###### 3.º — Situação de dependência\n\nO complemento por dependência é atribuído às pessoas previstas no artigo 2.º que se encontrem em situação de dependência determinante da necessidade de assistência de outrem, certificada por comissão de verificação constituída nos termos do artigo 18.º do Decreto-Lei n.º 360/97, de 27 de dezembro.\n\n> Alterado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 126-A/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+  },
+  "108276842": {
+   "fragment_id": "108276938",
+   "type": 11,
+   "heading": "4.º — Relevância da situação de acamado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º — Relevância da situação de acamado\n\nA situação de acamado determinante da atribuição do 2.º grau de dependência, prevista no n.º 1 do artigo 4.º, constitui elemento de análise clínica a ser avaliado pela comissão de verificação da situação de dependência."
+  },
+  "108276843": {
+   "fragment_id": "108276939",
+   "type": 11,
+   "heading": "5.º — Deliberação da comissão de verificação da situação de dependência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º — Deliberação da comissão de verificação da situação de dependência\n\nDa deliberação da comissão de verificação da situação de dependência deve constar o grau de dependência, a necessidade de assistência de outrem e a data a partir da qual é certificada a situação de dependência."
+  },
+  "108276844": {
+   "fragment_id": "108276940",
+   "type": 11,
+   "heading": "6.º — Prova da prestação de assistência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º — Prova da prestação de assistência\n\nA modalidade de assistência que é, ou vai ser, prestada ao pensionista dependente é comprovada pela declaração a efectuar, nos termos da alínea a) do n.º 1 do artigo 18.º, pelo requerente ou, nas situações de incapacidade deste, pela pessoa ou instituição que em seu nome requerer a prestação, devendo da mesma constar:\n\na) Identificação da pessoa ou entidade que presta ou vai prestar assistência;\n\nb) Modalidade de assistência que é ou vai ser prestada;\n\nc) Tipo e condições concretas em que a assistência é ou vai ser prestada."
+  },
+  "108276845": {
+   "fragment_id": "108276941",
+   "type": 11,
+   "heading": "7.º — Efeitos da suspensão e cessação do pagamento da prestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º — Efeitos da suspensão e cessação do pagamento da prestação\n\nDepende de averiguação administrativa da situação da prestação de assistência:\n\na) O levantamento da suspensão do pagamento do complemento por dependência determinada pela aplicação da alínea b) do artigo 10.º;\n\nb) A atribuição do complemento por dependência a beneficiário, anteriormente titular da prestação, mas cujo direito cessou nos termos do artigo 11.º"
+  },
+  "108276846": {
+   "fragment_id": "108276942",
+   "type": 11,
+   "heading": "8.º — Presunção da inexistência de situação de dependência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º — Presunção da inexistência de situação de dependência\n\nO exercício da actividade profissional pelo titular da prestação faz presumir a inexistência de situação de dependência determinante da necessidade de assistência de outrem, conduzindo à cessação do direito à prestação, nos termos do artigo 11."
+  },
+  "108276847": {
+   "fragment_id": "108276943",
+   "type": 11,
+   "heading": "9.º — Prestação análoga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 9.º — Prestação análoga\n\nConsidera-se prestação análoga, para efeitos do n.º 3 do artigo 13.º, a que tenha por objectivo a situação de dependência, quer seja concedida no âmbito do mesmo regime de segurança social ou de diferentes regimes de protecção social, designadamente regimes estrangeiros."
+  },
+  "108276848": {
+   "fragment_id": "108276944",
+   "type": 11,
+   "heading": "10.º — Mudança de grau",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 10.º — Mudança de grau\n\n1 - O titular da prestação ou seu representante pode pedir exame de revisão, com fundamento na alteração da situação de dependência, com vista à mudança de grau, nos termos do artigo 21.º\n\n2 - O exame de revisão, quer seja pedido pelo titular ou seu representante, quer seja levado a efeito por decisão das instituições competentes, nos termos do artigo 21.º, pode determinar mudança para grau superior ou para grau inferior, ressalvado o disposto no n.º 2 do artigo 7.º"
+  },
+  "108276849": {
+   "fragment_id": "108276945",
+   "type": 11,
+   "heading": "11.º — Competência para organizar os processos de contra-ordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 11.º — Competência para organizar os processos de contra-ordenação\n\nA instrução dos processos de contra-ordenação previstos no artigo 25.º e a sua decisão cabe, em função das respectivas competências, às instituições de segurança social que abranjam as entidades que praticam o acto ilícito, em conformidade com o disposto no artigo 14.º do Decreto-Lei n.º 64/89, de 25 de Fevereiro."
+  },
+  "108276850": {
+   "fragment_id": "108276946",
+   "type": 11,
+   "heading": "12.º — Idoneidade da pessoa ou entidade a quem está a ser paga a pensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 12.º — Idoneidade da pessoa ou entidade a quem está a ser paga a pensão\n\nÉ considerada idónea para receber o complemento por dependência a pessoa a quem está a ser paga a pensão do titular do mesmo, sem prejuízo do disposto no n.º 2 do artigo 29.º"
+  },
+  "108276851": {
+   "fragment_id": "108276947",
+   "type": 11,
+   "heading": "13.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 13.º — Disposições transitórias\n\n1 - Nas situações em que o direito ao subsídio por assistência de terceira pessoa não tenha sido reconhecido ou tenha cessado, por internamento dos seus titulares em estabelecimento de apoio social, oficial ou particular sem fins lucrativos, cujo funcionamento seja financiado pelo Estado ou por outras pessoas colectivas de direito público ou de direito privado e utilidade pública, a atribuição do complemento por dependência depende de requerimento.\n\n2 - Nas situações referidas no n.º 1, pode ser dispensado o exame de verificação da situação de dependência, caso o mesmo conste do processo."
+  },
+  "108276852": {
+   "fragment_id": "108276948",
+   "type": 11,
+   "heading": "14.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 14.º — Produção de efeitos\n\nA presente portaria produz efeitos desde a data de entrada em vigor do Decreto-Lei n.º 265/99, de 14 de Julho."
+  },
+  "108276838": {
+   "fragment_id": "108276933",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro do Trabalho e da Solidariedade, Fernando Lopes Ribeiro Mendes, Secretário de Estado da Segurança Social e das Relações Laborais, em 9 de Agosto de 1999."
+  }
+ }
+}

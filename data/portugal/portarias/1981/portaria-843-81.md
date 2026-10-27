@@ -1,0 +1,344 @@
+---
+schema_version: '1.0'
+id: pt:dre:563797:por
+title: Portaria n.º 843/81
+short_title: null
+summary: Aprova os planos de estudo dos cursos de licenciatura em Produção Agrícola, Produção Animal e Produção Florestal
+  do Instituto Universitário de Trás-os-Montes e Alto Douro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação e Ciência
+proposing_entity: null
+official_number: 843/81
+official_date: null
+publication_date: '1981-09-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 220/1981, Série I de 1981-09-24
+  number: '220'
+  series: I
+  supplement: null
+  pages: 2557 - 2561
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/09/22000/25572561.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '563797'
+  dre_path: /dr/detalhe/portaria/843-1981-563797
+  internal: pt:dre:563797:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/843-1981-563797
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/843-1981-563797
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:56:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7ae768f439803509293ef7459287dd58ba89df5ff31323aded36cec1a0af2981
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:56:02Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Avaliação de Conhecimentos
+- Bacharelato
+- Curso de Produção Agrícola
+- Curso de Produção Animal
+- Curso de Produção Florestal
+- Ensino Superior
+- Instituto Universitário
+- Instituto Universitário de Trás-os-montes e ALTO Douro
+- Licenciatura
+- Plano de Estudos
+relationships:
+- type: amended_by
+  target: pt:dre:550461:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:442926:por
+  label: "Alteradas as designações dos cursos de licenciatura em Produção Agrícola, Produção Animal e Produção Florestal aprovados\
+    \ pelo presente diploma, pela PORT.895/83.1983.09.27.ME DR.IS [223]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/895-1983-442926
+  date: '1983-09-27'
+- type: amended_by
+  target: pt:dre:421032:por
+  label: "Alterado o nº 3 do nº 3, na redacção da Port 895/83, de 27-Set, pela PORT.400/87.1987.05.13.MEC DR.IS [109] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/400-1987-421032
+  date: '1987-05-13'
+- type: amended_by
+  target: pt:dre:550461:por
+  label: "Alterado o nº 3 do nº 4 pela PORT.1073/89.1989.12.13.ME,DR.IS [285]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1073-1989-550461
+  date: '1989-12-13'
+- type: cites
+  target: pt:dre:297448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:56:02Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 843/81
+
+de 24 de Setembro
+
+1 - No ano lectivo de 1975-1976, ao abrigo do regime de experiências pedagógicas ([Decreto-Lei n.º 47587](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47587-1967-503611), de 10 de Março de 1967), iniciou-se no Instituto Politécnico de Vila Real o funcionamento dos bacharelatos em Produção Agrícola, Produção Animal e Produção Florestal.
+
+2 - Pelo [Decreto-Lei n.º 183/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1978-297448), de 18 de Julho, foi reconhecida a validade da experiência pedagógica então iniciada e formalizada a criação dos referidos bacharelatos, determinando-se, no entanto, de imediato, que para os mesmos já não seriam abertas novas inscrições destinadas ao 1.º ano.
+
+3 - Pelo Despacho n.º 300/78, de 12 de Outubro, do Ministro da Educação e Cultura, foram criados cursos de Produção Agrícola, Produção Animal e Produção Florestal, que viriam a conferir, no quadro do ensino superior politécnico, o diploma de estudos superiores.
+
+4 - Pela [Lei n.º 49/79](https://diariodarepublica.pt/dr/detalhe/lei/49-1979-370006), de 14 de Setembro, foi criado o Instituto Universitário de Trás-os-Montes e Alto Douro, em substituição do Instituto Politécnico de Vila Real. A referida lei prevê expressamente no n.º 1 do seu artigo 4.º que passarão a ser conferidas no Instituto Universitário de Trás-os-Montes e Alto Douro licenciaturas em Produção Agrícola, Produção Animal e Produção Florestal.
+
+5 - Torna-se, pois, necessário, em cumprimento da lei:
+
+a) Aprovar os planos de estudo das licenciaturas;
+
+b) Homologar os planos de estudo dos bacharelatos que funcionaram até ao ano lectivo de 1980-1981;
+
+c) Definir as linhas gerais do regime de transição do bacharelato para a licenciatura.
+
+Ao abrigo do disposto no artigo 4.º da [Lei n.º 49/79](https://diariodarepublica.pt/dr/detalhe/lei/49-1979-370006), de 14 de Setembro, e do disposto no n.º 3 do artigo 2. do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Educação e Ciência:
+
+### CAPÍTULO I — Licenciaturas
+
+###### ARTIGO 1.º — (Organização)
+
+Os cursos de licenciatura em Produção Agrícola, Produção Animal e Produção Florestal do Instituto Universitário de Trás-os-Montes e Alto Douro (IUTAD), criados pelo n.º 1 do artigo 4.º da [Lei n.º 49/79](https://diariodarepublica.pt/dr/detalhe/lei/49-1979-370006), de 14 de Setembro, são organizados pelo sistema de unidades de crédito.
+
+###### ARTIGO 2.º — (Licenciatura em Produção Agrícola)
+
+1 - A área científica do curso de licenciatura em Produção Agrícola é a Produção Agrícola.
+
+2 - A duração normal do curso é de cinco anos.
+
+3 - O número total de unidades de crédito necessárias à concessão do grau é de 158, assim distribuídas:
+
+3.1 - Áreas obrigatórias:
+
+a) Agronomia ... 56
+
+b) Engenharia Rural ... 12
+
+c) Física ... 7
+
+d) Química ... 7
+
+e) Matemática ... 10
+
+f) Biologia ... 20
+
+g) Geociências ... 9
+
+h) Economia e Sociologia ... 8
+
+i) Línguas Vivas Estrangeiras ... 2
+
+3.2 - Áreas opcionais:
+
+a) Engenharia Rural ... 15
+
+b) Matemática ... 15
+
+c) Economia e Sociologia ... 15
+
+d) Tecnologia Alimentar ... 15
+
+3.3 - Estágio ... 12
+
+###### ARTIGO 3.º — (Licenciatura em Produção Animal)
+
+1 - A área científica do curso de licenciatura em Produção Animal é a Produção Animal.
+
+2 - A duração normal do curso é de cinco anos.
+
+3 - O número total de unidades de crédito necessárias à concessão do grau é de 169,5, assim distribuídas.
+
+3.1 - Áreas obrigatórias:
+
+a) Biologia ... 43
+
+b) Biotecnologia ... 15
+
+c) Geociências ... 12
+
+d) Economia e Sociologia ... 18,5
+
+e) Matemática ... 19
+
+f) Física ... 7
+
+g) Química ... 14
+
+h) Fitotecnia e Engenharia Rural ... 12
+
+i) Línguas Vivas Estrangeiras ... 2
+
+3.2 - Áreas opcionais:
+
+a) Avicultura e Cunicultura ... 10
+
+b) Piscicultura ... 10
+
+c) Apicultura ... 10
+
+d) Aquacultura ... 5
+
+e) Silvopastorícia ... 5
+
+3.3 - Estágio ... 12
+
+###### ARTIGO 4.º — (Licenciatura em Produção Florestal)
+
+1 - A área científica do curso de licenciatura em Produção Florestal é a Produção Florestal.
+
+2 - A duração normal do curso é de cinco anos.
+
+3 - O número total de unidades de crédito necessárias à concessão do grau é de 158, assim distribuídas:
+
+a) Silvicultura ... 41
+
+b) Física ... 7
+
+c) Química ... 7
+
+d) Matemática ... 21
+
+e) Biologia ... 32
+
+f) Geociências ... 15
+
+g) Economia e Sociologia ... 15,5
+
+h) Engenharia Rural ... 3
+
+i) Agronomia ... 2,5
+
+j) Línguas Vivas Estrangeiras ... 2
+
+###### ARTIGO 5.º — (Estágio)
+
+1 - O estágio das licenciaturas tem como objectivo o desenvolvimento dos conhecimentos e das técnicas de investigação na área sobre a qual incide.
+
+2 - O estágio será objecto de regulamento, a aprovar por despacho ministerial, sob proposta do IUTAD.
+
+###### ARTIGO 6.º — (Precedências)
+
+A tabela e regime de precedências serão fixados pelo conselho científico, ouvido o conselho pedagógico.
+
+###### ARTIGO 7.º — (Classificação final)
+
+1 - A classificação final da licenciatura é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas e estágio que integram cada um dos planos de estudo.
+
+2 - Os coeficientes de ponderação são aprovados pelo conselho científico, ouvido o conselho pedagógico.
+
+3 - As disciplinas da área de Línguas Vivas Estrangeiras não serão objecto de classificação, sendo, no entanto, obrigatória a aprovação nas mesmas.
+
+### CAPÍTULO II — Bacharelatos
+
+###### ARTIGO 8.º — (Planos de estudo)
+
+1 - São homologados os planos de estudo que vigoraram entre 1975-1976 e 1980-1981 nos bacharelatos em Produção Agrícola, Produção Animal e Produção Florestal, ministrados no Instituto Politécnico de Vila Real e posteriormente no IUTAD, aos quais se refere o artigo 1.º do [Decreto-Lei n.º 183/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1978-297448), de 18 de Julho, e que constam dos anexos I a III desta portaria.
+
+2 - Integra igualmente o plano de estudos de cada bacharelato, a título facultativo, um estágio introdutório à actividade profissional, o qual consta da aprendizagem de tecnologias (laboratoriais ou de produção) que integram conhecimentos interdisciplinares no domínio do bacharelato respectivo.
+
+3 - Este plano de estudos deixa de ser ministrado a partir do ano lectivo de 1981-1982, inclusive.
+
+###### ARTIGO 9.º — (Grau de bacharel)
+
+1 - Considera-se titular do grau de bacharel o aluno que tenha obtido aprovação em todas as disciplinas constantes do plano de estudos a que se refere o artigo 8.º
+
+2 - Aos alunos que, obtida a aprovação em todas as disciplinas que integram o plano de estudos, requeiram a passagem de diploma, considerar-se-á que optaram pela não realização do estágio referido no n.º 2 do artigo 8.º
+
+3 - O grau de bacharel pelo IUTAD deixará de ser conferido a partir do final do ano lectivo de 1980-1981.
+
+###### ARTIGO 10.º — (Classificação final)
+
+A classificação final do bacharelato será a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), de todas as disciplinas constantes do plano de estudos respectivo, que terão cada uma o peso 1, e do estágio (se realizado), que terá o peso 5.
+
+###### ARTIGO 11.º — (Transição para os planos de estudo da licenciatura)
+
+Os alunos que, tendo concluído o bacharelato, pretendam, nos termos do n.º 3 do artigo 4.º da [Lei n.º 49/79](https://diariodarepublica.pt/dr/detalhe/lei/49-1979-370006), a integração na licenciatura respectiva, bem como os alunos que tenham estado inscritos no plano de estudos do bacharelato e que o não tenham concluído até ao fim do prazo a que se refere o n.º 3 do artigo 8.º e pretendam a integração na licenciatura respectiva, deverão realizar um plano de estudos de transição, a fixar pelo conselho científico, de forma a assegurar uma formação globalmente equivalente à dos planos fixados nos termos dos artigos 2.º a 4.º
+
+Ministério da Educação e Ciência, 2 de Setembro de 1981. - O Ministro da Educação e Ciência, Vítor Pereira Crespo.
+
+## ANEXO I — Plano de estudos do bacharelato em Produção Agrícola
+
+Curso de Produção Agrícola
+
+Grau: bacharelato
+
+Do QUADRO I ao QUADRO VI
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/22000/25572561.pdf)
+
+## ANEXO II — Plano de estudos do bacharelato em Produção Animal
+
+Curso de Produção Animal
+
+Grau: bacharelato
+
+Do QUADRO I ao QUADRO VI
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/22000/25572561.pdf)
+
+## ANEXO III — Plano de estudos do bacharelato em Produção Florestal
+
+Curso de Produção Florestal
+
+Grau: bacharelato
+
+Do QUADRO I ao QUADRO VI
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/22000/25572561.pdf)

@@ -1,0 +1,157 @@
+---
+schema_version: '1.0'
+id: pt:dre:160756:por
+title: Decreto n.º 105/75
+short_title: null
+summary: Define regras de concorrência para produtos siderúrgicos no âmbito do Acordo Portugal-CECA
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério da Economia
+proposing_entity: null
+official_number: 105/75
+official_date: null
+publication_date: '1975-03-06'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 55/1975, Série I de 1975-03-06
+  number: '55'
+  series: I
+  supplement: null
+  pages: 350 - 351
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/03/05500/03500351.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '160756'
+  dre_path: /dr/detalhe/decreto/105-1975-160756
+  internal: pt:dre:160756:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/105-1975-160756
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/105-1975-160756
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:36:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 670d7b10a9b95c8ca4095224e9d27ac662e59c33363bca8973feceddb1cff8e1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:36:59Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:160753:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:36:59Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 105/75
+
+de 6 de Março
+
+A fim de dar execução ao disposto no [Decreto-Lei n.º 104/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-1975-160753), de 6 de Março;
+
+Usando da faculdade conferida pelo artigo 16.º, n.º 1, 4.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º O presente decreto é aplicável às empresas produtoras, suas organizações de venda e empresas de distribuição, relativamente às transacções de produtos incluídos no anexo ao [Decreto-Lei n.º 104/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-1975-160753), de 6 de Março, exceptuada a sucata.
+
+Art. 2.º - 1. As entidades referidas no artigo anterior devem estabelecer as suas tabelas de preços com base num local de referência, que poderá ser a saída da fábrica ou um ponto de paridade diferente do local onde se situa a fábrica.
+
+2. O ponto de paridade deverá ser comunicado por escrito à Comissão de Regras de Concorrência para Produtos Siderúrgicos, a qual, se entender que a escolha apresenta um carácter anormal, poderá exigir a sua substituição.
+
+3. Os modos de cotação aplicados não podem ter por efeito introduzir nos preços oferecidos, traduzidos no seu equivalente à partida do ponto de paridade escolhido para o estabelecimento da respectiva tabela:
+
+Aumentos em relação ao preço que resulta da referida tabela para uma transacção comparável;
+
+Ou reduções cujo montante exceda o necessário para alinhar essa oferta com a que resulte da aplicação da tabela, estabelecida com base noutro ponto de paridade, que proporcione ao comprador condições mais vantajosas no local de entrega.
+
+Art. 3.º - 1. Um vendedor não pode praticar condições desiguais em transacções comparáveis concluídas com compradores do território europeu da República Portuguesa ou dos Estados Membros da Comunidade Europeia do Carvão e do Aço.
+
+2. O número anterior não impede a aplicação do disposto no n.º 3 do artigo 2.º
+
+Art. 4.º - 1. Consideram-se transacções comparáveis aquelas em relação às quais se verifiquem cumulativamente as seguintes condições:
+
+a) Serem os compradores concorrentes entre si ou fabricantes de produtos idênticos ou similares ou desempenharem as mesmas funções comerciais;
+
+b) Respeitarem a produtos idênticos ou similares;
+
+c) Não diferirem de maneira sensível nas outras características comerciais essenciais.
+
+2. Não são consideradas transacções comparáveis aquelas entre cujas datas de conclusão se tenha verificado uma alteração duradoura dos preços ou das condições de venda do vendedor.
+
+Art. 5.º - 1. Não são consideradas condições desiguais as condições diferentes aplicadas por um vendedor a transacções comparáveis, na medida em que tenham em conta de maneira apropriada a diferença nas prestações ou na execução das transacções.
+
+2. Entende-se haver aplicação de condições desiguais quando, sem aumento de preço, o vendedor conceder prazos de pagamento mais favoráveis do que os aplicados normalmente a transacções comparáveis.
+
+Art. 6.º As entidades referidas no artigo 1.º que sustentem que determinadas transacções não são comparáveis ou que determinadas condições não são desiguais ficam obrigadas a apresentar, a pedido da Comissão de Regras de Concorrência para Produtos Siderúrgicos, os elementos justificativos necessários.
+
+Art. 7.º - 1. Quando um vendedor alinhe a sua oferta pela tabela de um concorrente, em conformidade com o artigo 2.º, n.º 3, ou pelos preços e condições de venda que um concorrente efectivamente pratica quando a obrigação de publicidade de preços seja suprimida ou ilimitada, é proibido a esse vendedor aplicar condições que proporcionem ao comprador um preço efectivo, calculado no destino final, inferior ao preço que o comprador poderia obter do concorrente.
+
+2. O preço no destino final deve compreender, além dos preços e das condições, os custos de transporte, impostos ou outros encargos suportados pelo comprador, bem como os descontos e reembolsos de que o mesmo beneficie.
+
+3. Quando seja permitido aos vendedores o alinhamento com ofertas concretizáveis originárias de países que não sejam membros da Comunidade Europeia do Carvão e do Aço, o disposto nos n.os 1 e 2 deste artigo é também aplicável a essas transacções.
+
+4. As empresas deverão comunicar à Comissão de Regras de Concorrência para Produtos Siderúrgicos, no prazo de três dias após a sua conclusão, todas as transacções efectuadas nos termos do número anterior.
+
+5. Os vendedores que sustentem terem alinhado as suas ofertas, de acordo com o artigo 2.º, n.º 3, sobre o preço inferior de um concorrente, ficam obrigados a provar, a pedido da Comissão de Regras de Concorrência para Produtos Siderúrgicos, que as condições de alinhamento foram preenchidas e que, no cálculo do preço de alinhamento, respeitaram as disposições deste artigo.
+
+Art. 8.º No preço exigido ao comprador é proibida a inclusão de importâncias respeitantes a impostos ou taxas em relação aos quais o vendedor beneficie de isenção ou a cujo reembolso tenha direito.
+
+Art. 9.º É proibido às empresas produtoras vender, através das suas organizações de venda e das empresas de distribuição, produtos a preços e condições que não correspondam aos seus próprios preços e condições de venda.
+
+Art. 10.º - 1. As empresas produtoras, suas organizações de venda e empresas de distribuição devem obrigar os intermediários que assegurem a distribuição dos produtos abrangidos por este decreto a aplicar, nas transacções que efectuem, as tabelas, os preços e condições de venda praticados pelas próprias empresas produtoras, suas organizações de venda e empresas de distribuição e a respeitar as disposições dos artigos 2.º a 8.º do presente decreto.
+
+2. A obrigação estabelecida no n.º 1 respeita tanto aos intermediários que actuem em nome e por conta das empresas produtoras e das suas organizações de venda e empresas de distribuição, nomeadamente os empregados, agentes e representantes, como aos que actuem em nome próprio, mas por conta das empresas produtoras, das suas organizações de venda ou empresas de distribuição, nomeadamente os comissionários e os consignatários.
+
+3. As empresas produtoras e suas organizações de venda e empresas de distribuição ficam obrigadas a fornecer à Comissão de Regras de Concorrência para Produtos Siderúrgicos, a seu pedido, todas as informações sobre a actividade comercial dos intermediários a que se refere o presente artigo e a facultar o exame de toda a documentação relativa às transacções efectuadas.
+
+4. É extensiva aos intermediários a obrigação estabelecida no n.º 3 deste artigo.
+
+Art. 11.º As empresas produtoras, suas organizações de venda e empresas de distribuição devem estabelecer as suas condições de venda de modo que os seus compradores (negociantes) se obriguem a respeitar, na revenda dos seus produtos, no mesmo estado, com excepção das vendas de armazém, as disposições dos artigos 2.º a 8.º do presente decreto.
+
+Vasco dos Santos Gonçalves - Emílio Rui da Veiga Peixoto Vilar.
+
+Promulgado em 26 de Fevereiro de 1975.
+
+Publique-se.
+
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -1,0 +1,82 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:308085:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-920343008",
+ "dre_path": "/dr/detalhe/portaria/1099-2010-308085",
+ "source_lastmod": "2025-06-02",
+ "versions": [
+  {
+   "date": "2010-10-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "920343184",
+    "920343185",
+    "920343186",
+    "920343187",
+    "920343188",
+    "920343189",
+    "920343190"
+   ]
+  }
+ ],
+ "fragments": {
+  "920343184": {
+   "fragment_id": "920343009",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1099/2010\n\nde 22 de Outubro\n\nPela Portaria n.º 1089/2007, de 6 de Setembro, foi criada a zona de caça municipal de Canelas - Espiunca (processo n.º 4639-AFN), situada no município de Arouca, com a área de 3000 ha, válida até 6 de Setembro de 2013, e transferida a sua gestão para a Junta de Freguesia de Espiunca.\n\nEntretanto a Junta de Freguesia de Espiunca requereu a extinção da transferência de gestão da zona de caça municipal acima identificada e, em simultâneo, para a maioria daqueles terrenos foi requerida, pela Associação de Caça e Pesca de Canelas - Espiunca, a constituição de uma zona de caça municipal.\n\nCumpridos os preceitos legais, e com fundamento no disposto na alínea a) do n.º 1 do artigo 22.º, nos artigos 26.º e 46.º e no n.º 1 do artigo 118.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, e com a alteração do Decreto-Lei n.º 9/2009, de 9 de Janeiro, consultado o Conselho Cinegético Municipal de Arouca, de acordo com a alínea d) do artigo 158.º do mesmo diploma, e no uso das competências delegadas pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas pelo despacho n.º 78/2010, de 5 de Janeiro, e delegadas pela Ministra do Ambiente e do Ordenamento do Território pelo despacho n.º 932/2010, de 14 de Janeiro, manda o Governo, pelos Secretários de Estado das Florestas e Desenvolvimento Rural e do Ambiente, o seguinte:"
+  },
+  "920343185": {
+   "fragment_id": "920343010",
+   "type": 11,
+   "heading": "Artigo 1.º — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Extinção\n\nÉ extinta a transferência de gestão da zona de caça municipal de Canelas - Espiunca (processo n.º 4639-AFN)."
+  },
+  "920343186": {
+   "fragment_id": "920343011",
+   "type": 11,
+   "heading": "Artigo 2.º — Criação e transferência de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Criação e transferência de gestão\n\nÉ criada a zona de caça municipal de Canelas - Espiunca (processo n.º 5596-AFN), por um período de seis anos, constituída pelos terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Canelas e Espiunca, município de Arouca, com a área de 2932 ha, e transferida a sua gestão para Associação de Caça e Pesca de Canelas - Espiunca, com o número de identificação fiscal 508907144 e sede social em Vila Viçosa - Espiunca, 4540-349 Espiunca."
+  },
+  "920343187": {
+   "fragment_id": "920343012",
+   "type": 11,
+   "heading": "Artigo 3.º — Acesso dos caçadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Acesso dos caçadores\n\nDe acordo com o estabelecido no artigo 15.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, e com a alteração do Decreto-Lei n.º 9/2009, de 9 de Janeiro, os critérios de proporcionalidade de acesso dos caçadores à zona de caça municipal de Canelas - Espiunca (processo n.º 4639-AFN) passam a ser os que abaixo se indicam, encontrando-se definidas no plano de gestão as restantes condições desta transferência:\n\na) 25 % relativamente aos caçadores referidos na alínea a) do citado artigo 15.º;\n\nb) 30 % relativamente aos caçadores referidos na alínea b) do citado artigo 15.º;\n\nc) 35 % relativamente aos caçadores referidos na alínea c) do citado artigo 15.º;\n\nd) 10 % aos demais caçadores, conforme é referido na alínea d) do citado artigo 15.º"
+  },
+  "920343188": {
+   "fragment_id": "920343013",
+   "type": 11,
+   "heading": "Artigo 4.º — Efeitos da sinalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Efeitos da sinalização\n\nEsta transferência de gestão só produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização."
+  },
+  "920343189": {
+   "fragment_id": "920343014",
+   "type": 11,
+   "heading": "Artigo 5.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Norma revogatória\n\nÉ revogada a Portaria n.º 1089/2007, de 6 de Setembro."
+  },
+  "920343190": {
+   "fragment_id": "920343015",
+   "type": 11,
+   "heading": "Artigo 6.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Produção de efeitos\n\nEsta portaria produz efeitos a partir do dia seguinte ao da sua publicação."
+  }
+ }
+}

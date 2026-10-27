@@ -1,0 +1,276 @@
+---
+schema_version: '1.0'
+id: pt:dre:618081:por
+title: Decreto-Lei n.º 473/74
+short_title: null
+summary: Define as principais características do novo regime orizícola
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia - Secretarias de Estado da Agricultura, da Indústria e Energia e do Abastecimento e Preços
+proposing_entity: null
+official_number: 473/74
+official_date: null
+publication_date: '1974-09-20'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 220/1974, 1º Suplemento, Série I de 1974-09-20
+  number: '220'
+  series: I
+  supplement: null
+  pages: 1118-(2) a 1118-(5)
+  pdf_url: https://files.diariodarepublica.pt/1s/1974/09/22001/00020005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '618081'
+  dre_path: /dr/detalhe/decreto-lei/473-1974-618081
+  internal: pt:dre:618081:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/473-1974-618081
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/473-1974-618081
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:34:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: baacbb6c8b95736fb7e8d969d951765b6e9647cd728dffe7530b29d1ce8eb4ae
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:34:03Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Arroz
+- Classificação de Arroz
+- Comércio
+- Importação
+- Instituto dos Cereais
+- Produção Agrícola
+relationships:
+- type: amended_by
+  target: pt:dre:666720:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:468047:por
+  label: "Rectificado o n.º 2 do artigo 7.º e a alínea b) do n.º 1 do artigo 12.º, pela RECT.DD198.20.12.1974.PCM, DG.IS [296]\
+    \ de 20.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1974-468047
+  date: '1974-12-20'
+- type: repealed_by
+  target: pt:dre:666720:por
+  label: "Revogado pelo DEC LEI.609-A/75.1975.11.08.MCT DG.IS [259]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/609-a-1975-666720
+  date: '1975-11-08'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:34:03Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 473/74
+
+de 20 de Setembro
+
+1. Na elaboração do novo regime orizícola, o Governo Provisório teve de atender fundamentalmente à situação deficitária do abastecimento do País, provocada por um substancial aumento do consumo, não compensado por correspondente aumento da produção.
+
+Entre os factores determinantes de tal situação, destacam-se, por um lado, o nível dos preços de venda do arroz ao público - manifestamente inferiores aos dos seus produtos de substituição - e, por outro lado, uma política de preços à lavoura que, nos últimos anos, se não revelou estimulante do incremento da cultura.
+
+Na verdade, a produção do arroz, após ter atravessado um período de notável expansão técnica e cultural, de que resultaram mesmo produções excedentárias, entrou, há alguns anos, em fase de relativo declínio, motivado pelo agravamento dos custos e pela expansão de outras culturas regadas, nomeadamente a do tomate.
+
+A aludida situação deficitária do abastecimento público teve, como consequência, o recurso às importações, as quais, mercê das elevadas cotações internacionais do arroz, têm ocasionado elevados prejuízos suportados pelo Fundo de Abastecimento.
+
+2. Pelas razões que antecedem, pareceu prioritária ao Governo Provisório uma política de elevação dos preços do arroz à produção e o estabelecimento de um sistema de mercado livre, acompanhado de preços de garantia a praticar pelo Instituto dos Cereais, a níveis de fomento.
+
+A elevação dos preços do arroz à lavoura determina, como é evidente, um aumento dos preços de venda ao público, os quais, contudo, se situam ainda aquém dos níveis praticados na generalidade dos países europeus produtores de arroz.
+
+No que respeita à indústria de descasque, a qual apresenta deficiências de estrutura que se repercutem desfavoravelmente nos custos de produção, procedeu-se à abolição do regime de quotas de laboração, com o objectivo de lhe abrir novas perspectivas de reestruturação.
+
+Por último, e no que se refere à distribuição, procurou-se simplificar os circuitos de comercialização que vinham sendo praticados, permitindo-se que o comércio retalhista e os consumidores colectivos se abasteçam directamente nos industriais.
+
+3. Em resumo: as principais características do regime orizícola instituído por este decreto-lei e diplomas complementares são as seguintes:
+
+a) No que respeita à lavoura, actualizam-se os preços dos diferentes tipos de arroz em casca, dentro de uma política semelhante à adoptada pela CEE;
+
+b) No que se refere à indústria de descasque, elimina-se o sistema proteccionista das quotas de laboração e estabelece-se um regime de concorrência;
+
+c) No tocante à comercialização, dinamizam-se os circuitos, permitindo-se abastecimentos directos nos industriais;
+
+d) No que respeita ao consumidor, actualizam-se os preços dos diversos tipos comerciais de arroz, mantendo-se diferenciais na formação desses preços, de modo a impedir uma acentuada subida nos tipos de arroz destinados às classes de menos poder de compra.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º - 1. Os produtores de arroz são obrigados a manifestar anualmente a sua produção ao Instituto dos Cereais, nos termos por este fixados.
+
+2. O prazo para o preenchimento dos manifestos termina em 30 de Novembro de cada ano.
+
+3. Todas as vendas da produção nacional terão necessariamente por objecto arroz incluído no manifesto a que se refere este preceito.
+
+Art. 2.º Para efeitos do disposto neste diploma e enquanto não for publicada nova legislação referente ao arrendamento rural, são considerados produtores as entidades singulares ou colectivas a seguir designadas:
+
+a) Os proprietários que cultivem arroz directamente ou em regime de parceria;
+
+b) Os rendeiros que cultivem arroz directamente ou em regime de parceria;
+
+c) Os senhorios de prédios rústicos cujas rendas sejam pagas em arroz;
+
+d) As entidades que recebam foros, pensões ou quinhões em arroz;
+
+e) As entidades que debulhem arroz à maquia.
+
+Art. 3.º - 1. O arroz em casca da produção nacional será livremente adquirido aos produtores pelos industriais descascadores.
+
+2. O Instituto dos Cereais garante a aquisição, aos produtores ou suas associações, do arroz em casca da produção nacional que não seja transaccionado nos termos do número anterior.
+
+Art. 4.º - 1. Tendo em vista facilitar o ajuste do preço entre o produtor e o industrial, o Instituto dos Cereais manterá à disposição daqueles postos de classificação e determinação do comportamento industrial do arroz.
+
+2. Os elementos fornecidos pelos postos têm carácter informativo, não vinculando qualquer das partes interessadas.
+
+Art. 5.º - 1. Por despacho conjunto dos Secretários de Estado da Agricultura e do Abastecimento e Preços serão estabelecidos:
+
+a) Os preços e condições de aquisição do arroz em casca de produção nacional pelo Instituto dos Cereais;
+
+b) As normas a observar na venda pelos produtores do arroz em casca aos industriais descascadores;
+
+c) Os preços de aquisição de arroz para semente e de venda da mesma pelo Instituto dos Cereais.
+
+2. Por despacho do Secretário de Estado do Abastecimento e Preços serão estabelecidas as condições de venda do arroz pelo Instituto dos Cereais, quer de produção nacional, quer importado.
+
+Art. 6.º Cessa o regime de quotas de laboração atribuídas aos industriais descascadores.
+
+Art. 7.º - 1. Ficam os industriais descascadores obrigados a possuir, como reserva, a quantidade de arroz em casca determinada pelo Instituto dos Cereais até ao limite máximo correspondente a dois meses da sua laboração média mensal no trimestre anterior.
+
+2. Fica o Instituto dos Cereais autorizado a financiar ou a facilitar o financiamento dos industriais descascadores, quer para a efectivação das aludidas reservas, quer para a aquisição, em cada campanha, do arroz à produção, nos termos que vierem a ser estabelecidos em despacho conjunto dos Secretários de Estado do Tesouro e do Abastecimento e Preços.
+
+Art. 8.º Os industriais descascadores remeterão ao Instituto dos Cereais:
+
+a) Até ao dia 15 de cada mês, mapas de todas as aquisições de arroz em casca ou em meio preparo e de todas as vendas de arroz, realizadas no decurso do mês anterior, acompanhadas de documentação justificativa;
+
+b) Até ao dia 10 de cada mês, mapa das existências de arroz em casca, em meio preparo e branqueado, com referência ao último dia do mês anterior;
+
+c) Até ao dia 10 de cada mês, manifesto da produção industrial referente ao mês anterior.
+
+Art. 9.º As importações de arroz, quando não efectuadas pelo Instituto dos Cereais, carecem de prévia autorização deste organismo.
+
+Art. 10.º - 1. As normas de classificação de arroz e as regras a observar na sua comercialização poderão ser estabelecidas ou alteradas em portaria do Secretário de Estado do Abastecimento e Preços.
+
+2. Os preços de venda ao público do arroz branqueado são fixados nos termos do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho.
+
+Art. 11.º - 1. Constituem receita do Instituto dos Cereais:
+
+a) A importância resultante da cobrança aos industriais descascadores de 200$00 por tonelada de arroz por eles adquirido à lavoura;
+
+b) A importância pela prestação de serviço na venda pelo Instituto dos Cereais do arroz da produção nacional e na importação de arroz que for fixada por despacho conjunto dos Secretários de Estado do Orçamento e do Abastecimento e Preços.
+
+2. São extintas todas as restantes taxas incidentes sobre o arroz em qualquer das fases da sua comercialização, instituídas a favor do Instituto dos Cereais ou por ele arrecadadas com destino a quaisquer entidades.
+
+Art. 12.º - 1. Os diferenciais de compensação de preços a pagar ou a receber pelos industriais descascadores, por tonelada de arroz em casca da produção nacional por eles adquirido à lavoura ou ao Instituto dos Cereais, são os seguintes:
+
+a) Diferencial a pagar pelos industriais descascadores:
+
+Tipo comercial Carolino ... 665$60
+
+b) Diferenciais a receber pelos industriais descascadores:
+
+Tipo comercial Gigante ... 291$00
+
+Tipo comercial Mercantil ... 542$00
+
+Tipo comercial Corrente ... 197$60
+
+2. Os diferenciais referidos no número anterior poderão ser modificados, em cada campanha, por portaria do Ministro das Finanças e do Secretário de Estado do Abastecimento e Preços.
+
+Art. 13.º - 1. Constituem encargo ou receita do Fundo de Abastecimento:
+
+a) As diferenças entre os preços de aquisição pelo Instituto dos Cereais de arroz da produção nacional ou importado, acrescidos da importância a que se refere a alínea b) do n.º 1 do artigo 11.º, e os respectivos preços de venda;
+
+b) O saldo dos diferenciais de compensação de preços a que se refere o artigo anterior.
+
+2. Para efeitos do disposto na alínea a) do número anterior, entende-se como preço de aquisição o correspondente ao custo final do produto à data da sua venda pelo Instituto dos Cereais.
+
+Art. 14.º Incumbe ao Instituto dos Cereais:
+
+a) Proceder ao registo e cadastro de todos os produtores, industriais, importadores e armazenistas de arroz, bem como à sua actualização periódica;
+
+b) Elaborar as instruções regulamentares necessárias à execução do presente diploma.
+
+Art. 15.º Ficam isentas de direitos alfandegários as importações de arroz, em qualquer fase do seu processo de industrialização, e de trincas de arroz, quando adquiridos pelo Instituto dos Cereais.
+
+Art. 16.º - 1. As disposições do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, são aplicáveis à instrução preparatória e julgamento das infracções cometidas no âmbito de aplicação deste diploma e seus regulamentos, bem como à graduação da responsabilidade dos seus agentes e ao destino das multas e dos produtos apreendidos, sem prejuízo do disposto nos números seguintes.
+
+2. A omissão ou falsidade de declarações nos manifestos anuais de produção são puníveis nos termos do artigo 23.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+
+3. A aquisição pelos industriais descascadores de arroz de produção nacional não manifestado é punida nos termos do número anterior.
+
+4. O não cumprimento por parte dos industriais descascadores das determinações do Instituto dos Cereais proferidas ao abrigo do disposto no n.º 1 do artigo 7.º é punido com multa correspondente a 1% do cereal em falta e relativamente a cada dia.
+
+5. As restantes infracções ao disposto no presente diploma são punidas com multa de 1000$00 a 50000$00, consoante a sua gravidade, se outra pena mais grave lhes não couber por força de lei geral ou especial.
+
+Art. 17.º - 1. Apenas em relação à campanha de 1974-1975 será mantida uma bonificação regional para o arroz produzido no Norte, nas condições a fixar por despacho conjunto dos Secretários de Estado da Agricultura e do Abastecimento e Preços.
+
+2. Os industriais descascadores que adquiram arroz em casca aos produtores a que se refere o número anterior liquidar-lhes-ão a referida bonificação, sendo posteriormente reembolsados pelo Instituto dos Cereais em face dos respectivos documentos justificativos.
+
+3. No despacho a que se refere o n.º 1 deste artigo será fixada a importância correspondente à distribuição do encargo decorrente do pagamento da bonificação pela totalidade do arroz em casca da produção nacional, a liquidar ao Instituto dos Cereais pelos industriais descascadores.
+
+4. A eventual diferença entre as quantias despendidas e arrecadadas pelo Instituto dos Cereais na operação a que se refere este preceito constitui encargo ou receita do Fundo de Abastecimento.
+
+Art. 18.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Secretário de Estado do Abastecimento e Preços.
+
+Art. 19.º Fica revogado o Regulamento do Comércio de Arroz, aprovado pelo [Decreto-Lei n.º 27149](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27149-1936-322329), de 30 de Outubro de 1936.
+
+Art. 20.º Este decreto-lei entra imediatamente em vigor.
+
+Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - Emílio Rui da Veiga Peixoto Vilar.
+
+Promulgado em 19 de Setembro de 1974.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

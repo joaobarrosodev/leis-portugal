@@ -1,0 +1,217 @@
+---
+schema_version: '1.0'
+id: pt:dre:510857:por
+title: Decreto-Lei n.º 44-A/2010
+short_title: null
+summary: Procede à terceira alteração ao Decreto-Lei n.º 380/2007, de 13 de Novembro, que atribui à EP - Estradas de Portugal,
+  S. A., a concessão do financiamento, concepção, projecto, construção, conservação, exploração, requalificação e alargamento
+  da rede rodoviária nacional
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 44-A/2010
+official_date: null
+publication_date: '2010-05-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 87/2010, 1º Suplemento, Série I de 2010-05-05
+  number: '87'
+  series: I
+  supplement: null
+  pages: 1596-(2) a 1596-(3)
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/05/08701/0000200003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/44-a/2010/05/05/p/dre/pt/html
+  oj: null
+  dre: '510857'
+  dre_path: /dr/detalhe/decreto-lei/44-a-2010-510857
+  internal: pt:dre:510857:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-a-2010-510857
+  metadata_url: https://data.dre.pt/eli/dec-lei/44-a/2010/05/05/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-a-2010-510857
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:13:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7c45e3f8260983b545fe13a813d3158962e9a58b2eae9fc2d568ed8331c44de1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:06Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Auto-estrada
+- Cobrança
+- Contrato de Concessão
+- Definição de Competências
+- EP-Estradas de Portugal
+- Financiamento
+- Gestão
+- Licenciamento
+- Plano Rodoviario Nacional
+- Portagem
+- Preço
+- Rede de Estradas
+- Taxa
+- Transporte Terrestre
+relationships:
+- type: cites
+  target: pt:dre:240646:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/86/2003/04/26/p/dre
+- type: cites
+  target: pt:dre:247428:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/2008/02/29/p/dre
+- type: cites
+  target: pt:dre:539230:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/141/2006/07/27/p/dre
+- type: cites
+  target: pt:dre:608685:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/110/2009/05/18/p/dre
+- type: cites
+  target: pt:dre:629160:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/380/2007/11/13/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:13:06Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 44-A/2010
+
+de 5 de Maio
+
+O Governo procedeu à implementação do novo modelo de gestão e financiamento do sector das infra-estruturas rodoviárias, assente nos princípios de: i) coesão territorial, traduzido na assunção complementar de encargos relativamente a infra-estruturas rodoviárias seleccionadas, atendendo, sempre que tal se justifique, aos indicadores de desenvolvimento sócio-económico das regiões em causa e à ausência de alternativas viáveis; ii) solidariedade intergeracional, traduzido na adequada distribuição dos custos da rede rodoviária nacional pelos respectivos beneficiários, presentes e futuros, atendendo à vida útil das mesmas, e favorecendo o ajustamento da respectiva amortização financeira à sua amortização económica; iii) eficiência ambiental; iv) contratualização de longo prazo da concessão da rede rodoviária nacional entre o Estado e a EP - Estradas de Portugal, S. A.; v) definição do preço global do serviço representado pelo uso e pela disponibilidade da rede rodoviária nacional, assente na criação da contribuição de serviço rodoviário como receita própria da EP - Estradas de Portugal, S. A.; vi) associação de investimento privado ao desenvolvimento da rede rodoviária nacional, traduzida no reforço das parcerias público-privadas e na transferência de riscos para os parceiros privados, e vii) reforço da segurança rodoviária.
+
+Concretizando os objectivos definidos, o Governo estabeleceu o quadro de regulação do sector e com a criação do Instituto de Infra-Estruturas Rodoviárias, I. P. (InIR, I. P.), e atribuiu à EP - Estradas de Portugal, S. A., a concessão da rede rodoviária nacional durante um período mais aproximado à vida útil da infra-estrutura. Deu, ainda, concretização à contribuição de serviço rodoviário sem sobrecarregar os contribuintes e procedeu ao lançamento de um programa de empreendimentos rodoviários já com a natureza de subconcessões da EP - Estradas de Portugal, S. A.
+
+Na conformação do novo modelo, assumiu particular importância a alteração do paradigma de relacionamento do Estado com o sector rodoviário, consubstanciada na atribuição à EP - Estradas de Portugal, S. A., da concessão da rede rodoviária nacional. Com esta medida visou-se, designadamente, assegurar a transparência na determinação dos custos e das tarifas, o controlo público do desempenho e da eficiência do concessionário geral, a fixação de objectivos públicos e contratualizados no que se refere à qualidade de serviço das vias nacionais, à redução da sinistralidade e à penalização dos efeitos ambientais do sector e, bem assim, estruturar um modelo de gestão potenciador de capacidade para encontrar no mercado as melhores soluções de financiamento que permitam tornar o sector rodoviário auto-sustentável e geracionalmente equitativo.
+
+Relativamente às relações contratuais existentes entre o Estado e os concessionários privados que operam ao abrigo de bases de concessão individualmente aprovadas e não alteradas ou postas em causa pela concessão geral atribuída à EP - Estradas de Portugal, S. A., foram e continuam a ser desenvolvidos processos negociais, por forma a promover a sua integração e a sua adaptação ao novo modelo de gestão e de financiamento do sector das infra-estruturas rodoviárias, numa lógica de maximização da convergência e inclusão no novo paradigma nacional do sector.
+
+Estes processos negociais, desenvolvidos nos termos do [Decreto-Lei n.º 86/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2003-240646), de 26 de Abril, alterado pelo [Decreto-Lei n.º 141/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2006-539230), de 27 de Julho, foram já encetados relativamente à concessão da Brisa - Auto-Estradas de Portugal, S. A., às concessões do Grupo Ascendi - concessão SCUT Costa de Prata, concessão SCUT Grande Porto, concessão SCUT Beira Litoral e Beira Alta, concessão Norte e concessão Grande Lisboa - e ainda da Euroscut Norte - Sociedade Concessionária da Scut Norte Litoral, S. A., relativa à concessão SCUT Norte Litoral.
+
+O processo negocial relativo à concessão da Brisa - Auto-Estradas de Portugal, S. A., concluído no final de 2008, possibilitou, para além da resolução de um conjunto de pendentes técnicos complexos e da regularização de comparticipações financeiras, a concretização de um conjunto de alterações que vieram ao encontro dos objectivos do novo modelo de gestão e de financiamento. Entre estas alterações contam-se, nomeadamente, a atribuição à EP - Estradas de Portugal, S. A., de receitas de portagem futuras recolhidas na concessão Brisa, por via da actualização tarifária anual e de eventuais portagens futuras em troços actualmente não portajados, a supressão das disposições relativas à comparticipação financeira do Estado no custo da construção das auto-estradas a cargo do concessionário e, finalmente, a inclusão de disposições que consagram a partilha de benefícios entre o concessionário e o Estado.
+
+Os processos negociais relativos à concessão SCUT Costa de Prata, à concessão SCUT Grande Porto, à concessão SCUT Beira Litoral e Beira Alta, à concessão Norte, à concessão Grande Lisboa e à concessão SCUT Norte Litoral estavam necessariamente condicionados pela necessidade de compatibilização, nas soluções a encontrar, do novo modelo de gestão e de financiamento do sector das infra-estruturas rodoviárias com as expectativas dos accionistas dos concessionários, que determinaram a formação da vontade de contratar nos termos expressos nos contratos de concessão em vigor. Visaram igualmente reduzir ou eliminar todos os processos que se encontravam pendentes entre as partes. Essas negociações estão globalmente concluídas e permitem assegurar a implementação de um conjunto de princípios, a saber: i) as concessões mantêm-se como concessões do Estado; ii) os concessionários assumem integralmente o risco de disponibilidade das vias, bem como, no âmbito da operação dos sistemas de cobrança de portagens, risco de disponibilidade e risco de tráfego, acrescidos, desde já ou a prazo, de risco de cobrança das respectivas taxas; iii) os concessionários são remunerados em função dos riscos assumidos; iv) as receitas provenientes da cobrança de portagens constituem receitas próprias da EP - Estradas de Portugal, S. A., incluindo aquelas que dizem respeito a concessões já existentes em regime de portagem real; v) o Estado, se e quando o determinar expressamente, pode introduzir portagens em qualquer troço das concessões em causa, apenas tendo de negociar com os concessionários as compensações devidas por eventuais novos investimentos a realizar, sem dependência de outros acordos e sem criar, em princípio, situações de rotura ou de reposição forçada do equilíbrio financeiro destas concessões; vi) os eventuais alargamentos futuros das vias objecto destas concessões dependem de determinação do Estado, o que permite alinhar esse direito com a assunção de risco de tráfego pela EP - Estradas de Portugal, S. A.; vii) os acordos a alcançar resolvem situações pendentes sem recurso a tribunais arbitrais, que criariam a possibilidade de o Estado ter de se confrontar com o pagamento imediato dos valores relativos aos pedidos de reposição do equilíbrio financeiro existentes.
+
+De resto, vão ser encetados, a curto prazo, processos negociais com os demais concessionários do Estado, de forma a promover, o mais brevemente possível, a articulação de todos eles com a concessão geral atribuída à EP - Estradas de Portugal, S. A.
+
+O [Decreto-Lei n.º 380/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-2007-629160), de 13 de Novembro, alterado pela [Lei n.º 13/2008](https://diariodarepublica.pt/dr/detalhe/lei/13-2008-247428), de 29 de Fevereiro, e pelo [Decreto-Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2009-608685), de 18 de Maio, aprovou as bases da concessão do financiamento, concepção, projecto, construção, conservação, exploração, requalificação e alargamento da rede rodoviária nacional, atribuída à EP - Estradas de Portugal, S. A.
+
+Em resultado do acordo alcançado, torna-se necessário proceder à revisão das bases da concessão de modo a contemplar nas referidas bases o direito daquela concessionária à actividade de cobrança de taxas de portagem aos utilizadores na rede concessionada, quando essa actividade lhe seja expressamente atribuída nas bases de concessões integradas naquele rede e nos correspondentes contratos de concessão.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Alteração às bases da concessão da rede rodoviária nacional
+
+As bases 2 e 3 das bases da concessão do financiamento, concepção, projecto, construção, conservação, exploração, requalificação e alargamento da rede rodoviária nacional, aprovadas em anexo ao [Decreto-Lei n.º 380/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-2007-629160), de 13 de Novembro, alterado pela [Lei n.º 13/2008](https://diariodarepublica.pt/dr/detalhe/lei/13-2008-247428), de 29 de Fevereiro, e pelo [Decreto-Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2009-608685), de 18 de Maio, passam a ter a seguinte redacção:
+
+«Base 2
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - Compete ainda à concessionária o desenvolvimento da actividade de cobrança de taxas de portagem aos utilizadores na rede concessionada, quando essa actividade lhe seja expressamente atribuída nas bases de concessões integradas naquela rede e nos correspondentes contratos de concessão.
+
+10 - Sem prejuízo de as receitas e as despesas associadas à actividade referida no número anterior constituírem receitas e despesas próprias da concessionária, o respectivo saldo líquido é contabilizado para efeitos de obtenção de direitos sobre benefícios económicos futuros, nos termos do disposto no n.º 7.
+
+11 - (Anterior n.º 9.)
+
+12 - (Anterior n.º 10.)
+
+Base 3
+
+[...]
+
+A concessionária tem direito a receber:
+
+a) ...
+
+b) O valor das taxas de portagem devidas na rede concessionada, nos termos do n.º 9 da base anterior e do disposto nos respectivos contratos de concessão;
+
+c) [Anterior alínea b).]
+
+d) [Anterior alínea c).]
+
+e) [Anterior alínea d).]
+
+f) [Anterior alínea e).]
+
+g) [Anterior alínea f)].»
+
+###### Artigo 2.º — Outorga do contrato
+
+Os Ministros de Estado e das Finanças e das Obras Públicas, Transportes e Comunicações ficam autorizados, com a faculdade de delegação, a outorgar, em nome e em representação do Estado, o contrato de alteração ao contrato de concessão do financiamento, concepção, projecto, construção, conservação, exploração, requalificação e alargamento da rede rodoviária nacional, cuja minuta é aprovada mediante resolução do Conselho de Ministros.
+
+###### Artigo 3.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 11 de Março de 2010. - José Sócrates Carvalho Pinto de Sousa - Carlos Manuel Costa Pina - António Augusto da Ascenção Mendonça.
+
+Promulgado em 30 de Abril de 2010.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 3 de Maio de 2010.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -1,0 +1,1058 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:65949853:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2014-74873592",
+ "dre_path": "/dr/detalhe/lei/81-2014-65949853",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-12-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75227675",
+    "75227676",
+    "75227677",
+    "75227678",
+    "75227679",
+    "75227680",
+    "75227681",
+    "75227682",
+    "75227683",
+    "75227684",
+    "75227685",
+    "75227686",
+    "75227687",
+    "75227688",
+    "75227689",
+    "75227690",
+    "75227691",
+    "75227692",
+    "75227693",
+    "75227694",
+    "75227695",
+    "75227696",
+    "75227697",
+    "75227698",
+    "75227699",
+    "75227700",
+    "75227701",
+    "75227702",
+    "75227703",
+    "75227704",
+    "75227705",
+    "75227706",
+    "75227707",
+    "75227708",
+    "75227709",
+    "75227710",
+    "75227711",
+    "75227712",
+    "75227713",
+    "75227714",
+    "75227715",
+    "75227716",
+    "75227717",
+    "75227718",
+    "75227719",
+    "75227720",
+    "75227721",
+    "75227722",
+    "75227723",
+    "75227724",
+    "75227725",
+    "75227727",
+    "75227728"
+   ]
+  },
+  {
+   "date": "2016-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75194221:por",
+     "title": "Lei n.º 32/2016",
+     "published": "2016-08-24",
+     "dre_path": "/dr/detalhe/lei/32-2016-75194221"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 16.º-A",
+    "Adita Artigo 21.º-A",
+    "Adita Artigo 24.º-A",
+    "Adita Artigo 28.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 31.º",
+    "Altera Artigo 32.º",
+    "Altera Artigo 34.º",
+    "Altera Artigo 35.º",
+    "Altera Artigo 37.º",
+    "Revoga Artigo 16.º"
+   ],
+   "fragments": [
+    "75227675",
+    "75227676",
+    "75227677",
+    "173890423",
+    "173890424",
+    "75227680",
+    "75227681",
+    "75227682",
+    "75227683",
+    "173890425",
+    "75227685",
+    "75227686",
+    "75227687",
+    "75227688",
+    "75227689",
+    "75227690",
+    "75227691",
+    "173890426",
+    "75227693",
+    "75227694",
+    "75227695",
+    "173890427",
+    "214315381",
+    "173694741",
+    "75227698",
+    "75227699",
+    "173890428",
+    "173890429",
+    "173890430",
+    "173890431",
+    "75227704",
+    "173890469",
+    "173890474",
+    "173890471",
+    "173890472",
+    "173890473",
+    "75227708",
+    "173890434",
+    "173890435",
+    "173890436",
+    "173890437",
+    "173890448",
+    "75227713",
+    "173890438",
+    "173890439",
+    "173890440",
+    "173890441",
+    "75227718",
+    "173890442",
+    "173890443",
+    "75227721",
+    "173890444",
+    "75227723",
+    "75227724",
+    "75227725",
+    "75227726",
+    "75227727",
+    "75227728"
+   ]
+  },
+  {
+   "date": "2021-11-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:173732851:por",
+     "title": "Decreto-Lei n.º 89/2021",
+     "published": "2021-11-03",
+     "dre_path": "/dr/detalhe/decreto-lei/89-2021-173732851"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "75227675",
+    "75227676",
+    "75227677",
+    "173890423",
+    "173890424",
+    "75227680",
+    "75227681",
+    "75227682",
+    "75227683",
+    "173895375",
+    "75227685",
+    "75227686",
+    "75227687",
+    "75227688",
+    "75227689",
+    "75227690",
+    "75227691",
+    "173890426",
+    "75227693",
+    "75227694",
+    "75227695",
+    "173890427",
+    "214315381",
+    "173694741",
+    "75227698",
+    "75227699",
+    "173890428",
+    "173890429",
+    "173890430",
+    "173890431",
+    "75227704",
+    "173890469",
+    "173890474",
+    "173890471",
+    "173890472",
+    "173890473",
+    "75227708",
+    "173890434",
+    "173890435",
+    "173890436",
+    "173890437",
+    "173890448",
+    "75227713",
+    "173890438",
+    "173890439",
+    "173890440",
+    "173890441",
+    "75227718",
+    "173890442",
+    "173890443",
+    "75227721",
+    "173890444",
+    "75227723",
+    "75227724",
+    "75227725",
+    "75227726",
+    "75227727",
+    "75227728"
+   ]
+  },
+  {
+   "date": "2023-05-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:213650805:por",
+     "title": "Decreto-Lei n.º 38/2023",
+     "published": "2023-05-29",
+     "dre_path": "/dr/detalhe/decreto-lei/38-2023-213650805"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 23.º"
+   ],
+   "fragments": [
+    "75227675",
+    "75227676",
+    "75227677",
+    "173890423",
+    "173890424",
+    "75227680",
+    "75227681",
+    "75227682",
+    "75227683",
+    "173895375",
+    "75227685",
+    "75227686",
+    "75227687",
+    "75227688",
+    "75227689",
+    "75227690",
+    "75227691",
+    "173890426",
+    "75227693",
+    "75227694",
+    "75227695",
+    "173890427",
+    "214315381",
+    "173694741",
+    "75227698",
+    "75227699",
+    "173890428",
+    "173890429",
+    "173890430",
+    "173890431",
+    "75227704",
+    "173890469",
+    "173890474",
+    "214315380",
+    "173890472",
+    "173890473",
+    "75227708",
+    "173890434",
+    "173890435",
+    "173890436",
+    "173890437",
+    "173890448",
+    "75227713",
+    "173890438",
+    "173890439",
+    "173890440",
+    "173890441",
+    "75227718",
+    "173890442",
+    "173890443",
+    "75227721",
+    "173890444",
+    "75227723",
+    "75227724",
+    "75227725",
+    "75227726",
+    "75227727",
+    "75227728"
+   ]
+  }
+ ],
+ "fragments": {
+  "75227675": {
+   "fragment_id": "74873593",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 81/2014\n\nde 19 de dezembro\n\nEstabelece o novo regime do arrendamento apoiado para habitação e revoga a Lei n.º 21/2009, de 20 de maio, e os Decretos-Leis n.os 608/73, de 14 de novembro, e 166/93, de 7 de maio.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "75227676": {
+   "fragment_id": "74873594",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "75227677": {
+   "fragment_id": "74873595",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei estabelece o regime do arrendamento apoiado para habitação e regula a atribuição de habitações neste regime."
+  },
+  "75227678": {
+   "fragment_id": "74873596",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O arrendamento apoiado é o regime aplicável às habitações detidas, a qualquer título, por entidades das administrações direta e indireta do Estado, das regiões autónomas, das autarquias locais, do setor público empresarial e dos setores empresariais regionais, intermunicipais e municipais, que por elas sejam arrendadas ou subarrendadas com rendas calculadas em função dos rendimentos dos agregados familiares a que se destinam.\n\n2 - A presente lei aplica-se, ainda, ao arrendamento de habitações financiadas com apoio do Estado que, nos termos de lei especial, estejam sujeitas a regimes de renda fixada em função dos rendimentos dos arrendatários.\n\n3 - As disposições da presente lei são ainda aplicáveis, com as necessárias adaptações, ao subarrendamento de habitações em regime de arrendamento apoiado pelas entidades referidas no n.º 1.\n\n> Nota: [Acórdão do Tribunal Constitucional n.º 197/2023 - Diário da República n.º 90/2023, Série I de 2023-05-10](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/197-2023-212837361) declara a inconstitucionalidade, com força obrigatória geral, das normas contidas nos n.os 4 e 5 do presente artigo, na redação da Lei n.º 32/2016, de 24 de agosto (Novo regime do arrendamento apoiado para habitação)."
+  },
+  "75227679": {
+   "fragment_id": "74873597",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeito do disposto na presente lei, considera-se:\n\na) «Agregado familiar», o conjunto de pessoas que residem em economia comum na habitação arrendada, constituído pelo arrendatário e pelas pessoas referidas nas alíneas a), b), c), d) e e) do n.º 1 do artigo 4.º do Decreto-Lei n.º 70/2010, de 16 de junho, bem como por quem tenha sido autorizado pelo senhorio a permanecer na habitação;\n\nb) «Dependente», o elemento do agregado familiar que seja menor ou, tendo idade inferior a 26 anos, frequente estabelecimento de ensino e não aufira rendimento mensal bruto superior ao indexante dos apoios sociais;\n\nc) «Deficiente», a pessoa com deficiência com grau comprovado de incapacidade igual ou superior a 60 %;\n\nd) «Fator de capitação», a percentagem resultante da ponderação da composição do agregado familiar, de acordo com a tabela constante do anexo i à presente lei, que dela faz parte integrante;\n\ne) «Indexante dos apoios sociais», o valor fixado nos termos da Lei n.º 53-B/2006, de 29 de dezembro, alterada pela Lei n.º 3-B/2010, de 28 de abril;\n\nf) «Rendimento mensal bruto» (RMB), o duodécimo do total dos rendimentos anuais ilíquidos auferidos por todos os elementos do agregado familiar, considerados nos termos do artigo 3.º do Decreto-Lei n.º 70/2010, de 16 de junho, alterado pela Lei n.º 15/2011, de 3 de maio, e pelos Decretos-Leis n.os 113/2011, de 29 de novembro, e 133/2012, de 27 de junho, ou, caso os rendimentos se reportem a período inferior a um ano, a proporção correspondente ao número de meses a considerar;\n\ng) «Rendimento mensal corrigido» (RMC), o rendimento mensal bruto deduzido da quantia correspondente à aplicação ao indexante dos apoios sociais de cada um dos seguintes fatores:\n\ni) 0,1 pelo primeiro dependente;\n\nii) 0,15 pelo segundo dependente;\n\niii) 0,20 por cada um dos dependentes seguintes;\n\niv) 0,1 por cada deficiente, que acresce ao anterior se também couber na definição de dependente;\n\nv) 0,05 por cada elemento do agregado familiar com idade igual ou superior a 65 anos;\n\nvi) Uma percentagem resultante do fator de capitação."
+  },
+  "75227680": {
+   "fragment_id": "74873598",
+   "type": 11,
+   "heading": "Artigo 4.º — Fim das habitações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Fim das habitações\n\n1 - As habitações arrendadas em regime de arrendamento apoiado só podem destinar-se a residência permanente dos agregados familiares aos quais são atribuídas.\n\n2 - É proibida qualquer forma de cedência, total ou parcial, temporária ou permanente e onerosa ou gratuita, do gozo da habitação por parte do arrendatário ou de qualquer elemento do seu agregado familiar, nomeadamente a cessão da posição contratual, o subarrendamento, a hospedagem ou o comodato.\n\n3 - Às entidades referidas no artigo 2.º compete assegurar as condições necessárias para garantir o fim a que se destina o arrendamento, promovendo, de forma sistemática e programada, a adoção de medidas de conservação do respetivo parque habitacional."
+  },
+  "75227681": {
+   "fragment_id": "74873599",
+   "type": 1,
+   "heading": "Capítulo II — Acesso e atribuição das habitações em regime de arrendamento apoiado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Acesso e atribuição das habitações em regime de arrendamento apoiado"
+  },
+  "75227682": {
+   "fragment_id": "74873600",
+   "type": 8,
+   "heading": "Secção I — Acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Acesso"
+  },
+  "75227683": {
+   "fragment_id": "74873601",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições de acesso\n\n1 - Podem aceder à atribuição de habitações em regime de arrendamento apoiado os cidadãos nacionais e os cidadãos estrangeiros detentores de títulos válidos de permanência no território nacional que reúnam as condições estabelecidas na presente lei e que não estejam em nenhuma das situações de impedimento previstas no artigo seguinte.\n\n2 - A atribuição de uma habitação em regime de arrendamento apoiado confere ao senhorio o direito de aceder aos dados do arrendatário e dos membros do respetivo agregado familiar para fins de informação ou de confirmação dos dados por eles declarados nos termos regulados na presente lei.\n\n3 - Ao acesso e à atribuição das habitações é aplicável o regime constante do presente capítulo e subsidiariamente o Código do Procedimento Administrativo."
+  },
+  "75227684": {
+   "fragment_id": "74873602",
+   "type": 11,
+   "heading": "Artigo 6.º — Impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Impedimentos\n\n1 - Está impedido de tomar ou manter o arrendamento de uma habitação em regime de arrendamento apoiado quem se encontre numa das seguintes situações:\n\na) Seja proprietário, usufrutuário, arrendatário ou detentor a outro título de prédio urbano ou de fração autónoma de prédio urbano destinado a habitação;\n\nb) Esteja a usufruir de apoios financeiros públicos para fins habitacionais;\n\nc) Tenha beneficiado de indemnização em alternativa à atribuição de uma habitação no âmbito de programas de realojamento; ou\n\nd) Esteja abrangido por uma das situações previstas no n.º 1 do artigo 29.º\n\n2 - As situações previstas nas alíneas a) e b) do número anterior podem não constituir impedimento se, até à data da celebração do contrato em regime de arrendamento apoiado, for feita prova da sua cessação.\n\n3 - No caso previsto na alínea a) do n.º 1, quando for invocado e comprovado que o prédio ou fração não está em condições de satisfazer o fim habitacional ou que o direito relativo ao mesmo é detido ou foi adquirido apenas em parte por membros do agregado familiar, cabe ao senhorio avaliar a situação e decidir sobre o acesso deste agregado à atribuição de habitação ou à manutenção do arrendamento, consoante for o caso.\n\n4 - O arrendatário deve comunicar ao senhorio a existência de uma situação de impedimento, no seu caso ou no de qualquer membro do seu agregado familiar, no prazo máximo de 30 dias a contar da data da ocorrência.\n\n5 - O impedimento relativo a um dos membros do agregado familiar é extensível a todos os seus membros."
+  },
+  "75227685": {
+   "fragment_id": "74873603",
+   "type": 8,
+   "heading": "Secção II — Atribuição das habitações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Atribuição das habitações"
+  },
+  "75227686": {
+   "fragment_id": "74873604",
+   "type": 3,
+   "heading": "Subsecção I — Procedimentos de atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Procedimentos de atribuição"
+  },
+  "75227687": {
+   "fragment_id": "74873605",
+   "type": 11,
+   "heading": "Artigo 7.º — Procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Procedimentos\n\nA atribuição de uma habitação em regime de arrendamento apoiado efetua-se mediante um dos seguintes procedimentos:\n\na) Concurso por classificação;\n\nb) Concurso por sorteio;\n\nc) Concurso por inscrição."
+  },
+  "75227688": {
+   "fragment_id": "74873606",
+   "type": 11,
+   "heading": "Artigo 8.º — Concurso por classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Concurso por classificação\n\nO concurso por classificação tem por objeto a oferta de um conjunto determinado de habitações e visa a atribuição das mesmas em arrendamento apoiado aos indivíduos ou agregados familiares que, de entre os que concorram no período fixado para o efeito, obtenham a melhor classificação em função dos critérios de hierarquização e de ponderação estabelecidos para o efeito pela entidade locadora."
+  },
+  "75227689": {
+   "fragment_id": "74873607",
+   "type": 11,
+   "heading": "Artigo 9.º — Concurso por sorteio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Concurso por sorteio\n\nO concurso por sorteio tem por objeto a oferta de um conjunto determinado de habitações e visa a atribuição das mesmas em arrendamento apoiado aos indivíduos ou agregados familiares que, de entre os que preenchem os critérios de acesso ao concurso estabelecidos pela entidade locadora e que tenham concorrido no prazo fixado para o efeito, sejam apurados por sorteio."
+  },
+  "75227690": {
+   "fragment_id": "74873608",
+   "type": 11,
+   "heading": "Artigo 10.º — Concurso por inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Concurso por inscrição\n\nO concurso por inscrição tem por objeto a oferta das habitações que são identificadas, em cada momento, pela entidade locadora para atribuição em regime de arrendamento apoiado aos candidatos que, de entre os que se encontram, à altura, inscritos em listagem própria, estejam melhor classificados, em função dos critérios de hierarquização e de ponderação estabelecidos para o efeito pela mesma entidade."
+  },
+  "75227691": {
+   "fragment_id": "74873609",
+   "type": 11,
+   "heading": "Artigo 11.º — Critérios preferenciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Critérios preferenciais\n\nEm qualquer dos procedimentos previstos nos artigos anteriores, sempre que a tipologia e as condições das habitações objeto do procedimento o permitam, as entidades locadoras definem critérios preferenciais, nomeadamente para famílias monoparentais ou que integrem menores, pessoas com deficiência ou com idade igual ou superior a 65 anos, ou para vítimas de violência doméstica."
+  },
+  "75227692": {
+   "fragment_id": "74873610",
+   "type": 11,
+   "heading": "Artigo 12.º — Publicitação da oferta das habitações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Publicitação da oferta das habitações\n\n1 - O anúncio de cada um dos concursos a que se referem os artigos 8.º e 9.º é publicitado no sítio na Internet da entidade locadora, sem prejuízo de poder igualmente ser publicitado pelos meios que esta entidade considere mais adequados.\n\n2 - Sem prejuízo de outros elementos que a entidade locadora entenda incluir, o anúncio a que se refere o número anterior deve conter a seguinte informação:\n\na) Tipo de procedimento;\n\nb) Datas do procedimento;\n\nc) Identificação, tipologia e área útil da habitação;\n\nd) Regime do arrendamento;\n\ne) Critérios de acesso ao concurso e, se for o caso, de hierarquização e de ponderação das candidaturas;\n\nf) Local e horário para consulta do programa do concurso e para obtenção de esclarecimentos;\n\ng) Local e forma de proceder à apresentação da candidatura;\n\nh) Local e forma de divulgação da lista definitiva dos candidatos apurados.\n\n3 - No caso do concurso a que se refere o artigo 10.º, a entidade locadora deve publicitar no respetivo sítio na Internet e ou em área de acesso ou de circulação livre das suas instalações, informação sobre a listagem, as condições de inscrição na mesma, a forma, local e horário para consulta das habitações em oferta e o resultado da última classificação com exclusão de qualquer menção a dados pessoais.\n\n4 - Em qualquer dos casos referidos nos números anteriores, o concurso pode ainda ser publicitado mediante afixação, no prédio em que a habitação se integra, de anúncio do concurso ou de informação de que a habitação está disponível para arrendamento."
+  },
+  "75227693": {
+   "fragment_id": "74873611",
+   "type": 11,
+   "heading": "Artigo 13.º — Exclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Exclusão\n\nA prestação de falsas declarações, a omissão dolosa de informação ou a utilização de meio fraudulento por parte dos candidatos, no âmbito ou para efeito de qualquer dos procedimentos de atribuição de uma habitação, determina a exclusão da candidatura ou o cancelamento da inscrição, sem prejuízo de outras sanções legalmente aplicáveis."
+  },
+  "75227694": {
+   "fragment_id": "74873612",
+   "type": 3,
+   "heading": "Subsecção II — Disposições especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Disposições especiais"
+  },
+  "75227695": {
+   "fragment_id": "74873613",
+   "type": 11,
+   "heading": "Artigo 14.º — Regime excecional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regime excecional\n\n1 - Têm acesso à atribuição de habitações em regime de arrendamento apoiado os indivíduos e os agregados familiares que se encontrem em situação de necessidade habitacional urgente e ou temporária, designadamente decorrente de desastres naturais e calamidades ou de outras situações de vulnerabilidade e emergência social e perigo físico ou moral para as pessoas, incluindo as relativas a violência doméstica, não sendo aplicáveis as disposições do presente regime que sejam incompatíveis com a natureza da situação, incluindo as disposições da subsecção anterior.\n\n2 - Nos casos previstos no número anterior, as condições de adequação e de utilização das habitações são definidas pela entidade locadora em função da situação de necessidade habitacional que determina a respetiva atribuição."
+  },
+  "75227696": {
+   "fragment_id": "74873614",
+   "type": 11,
+   "heading": "Artigo 15.º — Adequação da habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Adequação da habitação\n\n1 - A habitação atribuída em regime de arrendamento apoiado deve ser de tipologia adequada à composição do agregado familiar, por forma a evitar situações de sobreocupação ou de subocupação.\n\n2 - A adequação da habitação é verificada pela relação entre a tipologia e a composição do agregado familiar de acordo com a tabela constante do anexo ii à presente lei, que dela faz parte integrante."
+  },
+  "75227697": {
+   "fragment_id": "74873615",
+   "type": 11,
+   "heading": "Artigo 16.º — Mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Mobilidade\n\n1 - Após audição do interessado, o senhorio pode resolver o contrato e atribuir outra habitação ao arrendatário, no mesmo concelho da anterior habitação ou em concelho limítrofe, nos casos de desadequação superveniente da habitação ao agregado familiar ou de necessidade de desocupação da mesma por razões de gestão do seu parque habitacional, nomeadamente para efeitos de reabilitação do edificado.\n\n2 - A comunicação do senhorio relativa à resolução do contrato é realizada nos termos do n.º 7 do artigo 9.º ou do n.º 5 do artigo 10.º do Novo Regime do Arrendamento Urbano (NRAU), aprovado pela Lei n.º 6/2006, de 27 de fevereiro, alterada pela Lei n.º 31/2012, de 14 de agosto, com identificação da morada da nova habitação, menção à obrigação de desocupação e entrega da habitação e ao prazo fixado para o efeito, nunca inferior a 90 dias, bem como referência à consequência do não cumprimento daquela obrigação.\n\n3 - A recusa ou falta de resposta do arrendatário à comunicação referida no número anterior no prazo fixado torna exigível a desocupação e a entrega da habitação, constituindo aquela comunicação fundamento bastante para o despejo."
+  },
+  "75227698": {
+   "fragment_id": "74873616",
+   "type": 1,
+   "heading": "Capítulo III — Contrato de arrendamento apoiado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Contrato de arrendamento apoiado"
+  },
+  "75227699": {
+   "fragment_id": "74873617",
+   "type": 8,
+   "heading": "Secção I — Condições contratuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Condições contratuais"
+  },
+  "75227700": {
+   "fragment_id": "74873618",
+   "type": 11,
+   "heading": "Artigo 17.º — Regime do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regime do contrato\n\n1 - O contrato de arrendamento apoiado rege-se pelo disposto na presente lei e, subsidiariamente, pelo Código Civil e pelo NRAU.\n\n2 - Sem prejuízo do disposto no número anterior, o contrato de arrendamento apoiado tem a natureza de contrato administrativo, estando sujeito, no que seja aplicável, ao respetivo regime jurídico.\n\n3 - Compete aos tribunais administrativos conhecer das matérias relativas à invalidade ou cessação dos contratos de arrendamento apoiado."
+  },
+  "75227701": {
+   "fragment_id": "74873619",
+   "type": 11,
+   "heading": "Artigo 18.º — Forma e conteúdo do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Forma e conteúdo do contrato\n\n1 - O contrato de arrendamento apoiado é celebrado por escrito, sempre que possível através de documento eletrónico com assinatura eletrónica qualificada, e contém, pelo menos, as seguintes menções:\n\na) O regime legal do arrendamento;\n\nb) A identificação do senhorio;\n\nc) A identificação do arrendatário ou arrendatários e de todos os elementos do agregado familiar;\n\nd) A identificação e a localização do locado;\n\ne) O prazo do arrendamento;\n\nf) O valor da renda inicial e a forma de atualização e de revisão da mesma;\n\ng) O tempo, o lugar e a forma de pagamento da renda;\n\nh) A periodicidade da apresentação da declaração de rendimentos do agregado familiar, que não pode ser superior a três anos.\n\n2 - Do contrato de arrendamento, assim como dos recibos de renda quando a eles haja lugar, deve igualmente constar, para efeitos meramente informativos, o valor que corresponderia ao valor real da renda sem o apoio.\n\n3 - Nos casos previstos no artigo 14.º, a habitação pode ser atribuída em arrendamento mediante registo em livro ou em suporte informático contendo a identificação dos indivíduos e dos membros dos agregados familiares que se encontrem em situação de necessidade habitacional urgente e ou temporária, a data da respetiva admissão e o montante da renda."
+  },
+  "75227702": {
+   "fragment_id": "74873620",
+   "type": 11,
+   "heading": "Artigo 19.º — Duração e renovação do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Duração e renovação do contrato\n\n1 - O contrato de arrendamento apoiado é celebrado pelo prazo de 10 anos, considerando-se reduzido a este limite quando for estipulado um período superior.\n\n2 - Findo o prazo do arrendamento, o contrato renova-se, automaticamente, por períodos sucessivos de dois anos, salvo se for estipulado período diverso.\n\n3 - Sem prejuízo do disposto no número seguinte, qualquer das partes pode opor-se à renovação do contrato, desde que o comunique à contraparte com a antecedência de 240 a 180 dias relativamente ao termo do contrato ou da sua renovação.\n\n4 - O senhorio só pode opor-se à renovação do contrato quando, nos três anos que antecedem o termo do contrato ou a sua renovação, se verifiquem as seguintes condições cumulativas:\n\na) O arrendatário esteja a pagar uma renda igual ou superior à renda máxima a que se refere o n.º 2 do artigo 22.º;\n\nb) A renda máxima a que se refere o n.º 2 do artigo 22.º corresponda a uma taxa de esforço igual ou inferior a 15 % do rendimento mensal corrigido do agregado familiar do arrendatário.\n\n5 - Para efeitos do número anterior o senhorio deve enviar uma comunicação ao arrendatário, nos termos e nos prazos previstos no NRAU."
+  },
+  "75227703": {
+   "fragment_id": "74873621",
+   "type": 11,
+   "heading": "Artigo 20.º — Vencimento e pagamento da renda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Vencimento e pagamento da renda\n\n1 - Salvo estipulação em contrário, a primeira renda vence-se no primeiro dia útil do mês a que respeita, vencendo-se cada uma das restantes no primeiro dia útil de cada mês subsequente.\n\n2 - O pagamento da renda deve ser efetuado no dia do seu vencimento e no lugar e pela forma estabelecidos no contrato.\n\n3 - Quando o pagamento da renda seja efetuado por transferência ou débito em conta bancária do arrendatário, o comprovativo do respetivo movimento é equiparado a recibo para todos os efeitos legais."
+  },
+  "75227704": {
+   "fragment_id": "74873622",
+   "type": 11,
+   "heading": "Artigo 21.º — Valor da renda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Valor da renda\n\nO valor da renda em regime de arrendamento apoiado é determinado pela aplicação de uma taxa de esforço ao rendimento mensal corrigido do agregado familiar, sendo a taxa de esforço (T) o valor, arredondado à milésima, que resulta da seguinte fórmula:\n\nT = 0,067 x (RMC/IAS)\n\nem que:\n\nT = taxa de esforço;\n\nRMC = rendimento mensal corrigido do agregado familiar;\n\nIAS = indexante dos apoios sociais."
+  },
+  "75227705": {
+   "fragment_id": "74873623",
+   "type": 11,
+   "heading": "Artigo 22.º — Rendas máxima e mínima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Rendas máxima e mínima\n\n1 - A renda em regime de arrendamento apoiado não pode ser de valor inferior a 1 % do indexante dos apoios sociais (IAS) vigente em cada momento.\n\n2 - A renda máxima em regime de arrendamento apoiado é a renda máxima aplicável aos contratos de arrendamento para fim habitacional em regime de renda condicionada.\n\n3 - O disposto no número anterior não prejudica a possibilidade de a entidade locadora, por razões de planeamento e desde que as características do locado o permitam, aplicar às rendas no seu parque habitacional uma renda máxima de valor superior, correspondente a uma taxa de esforço a aplicar ao rendimento mensal corrigido dos agregados familiares nos termos do artigo anterior, não podendo, porém, daí resultar uma renda de valor superior a 25 % do rendimento mensal corrigido do agregado familiar, devendo ser aplicado neste caso o faseamento previsto nos n.os 2 a 4 do artigo 37.º"
+  },
+  "75227706": {
+   "fragment_id": "74873624",
+   "type": 11,
+   "heading": "Artigo 23.º — Atualização e revisão da renda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Atualização e revisão da renda\n\n1 - Além da atualização anual prevista no n.º 2 do artigo 1077.º do Código Civil, há lugar à revisão da renda a pedido do arrendatário nas situações de:\n\na) Alteração na composição ou nos rendimentos do agregado familiar, devendo o arrendatário comunicar o facto ao senhorio no prazo máximo de 30 dias a contar da data da ocorrência;\n\nb) Aplicação da correção prevista na alínea g) do artigo 3.º em caso de superveniência de situações de incapacidade igual ou superior a 60 % ou de idade igual ou superior a 65 anos relativas a qualquer elemento do agregado familiar.\n\n2 - A revisão da renda por iniciativa do senhorio com os fundamentos indicados no número anterior pode ocorrer a todo o tempo.\n\n3 - A reavaliação pelo senhorio das circunstâncias que determinam o valor da renda realiza-se, no mínimo, a cada três anos.\n\n4 - No âmbito de qualquer dos processos de revisão da renda, o arrendatário deve entregar ao senhorio os elementos que este solicite e se mostrem adequados e necessários à verificação das circunstâncias que determinam a revisão da renda, no prazo máximo de 30 dias a contar da correspondente notificação.\n\n5 - A apresentação mencionada no número anterior pode ser dispensada relativamente a documentos administrativos, desde que o arrendatário preste o seu consentimento para que estes possam ser consultados, nos termos do artigo 28.º-A do Decreto-Lei n.º 135/99, de 22 de abril, na redação que lhe foi dada pelo Decreto-Lei n.º 73/2014, de 13 de maio.\n\n6 - A renda atualizada ou revista nos termos dos números anteriores é devida no segundo mês subsequente ao da data da receção, pelo arrendatário, da comunicação do senhorio com o respetivo valor.\n\n7 - Quando da revisão da renda resulte o seu aumento e as comunicações do arrendatário tenham sido realizadas fora dos prazos previstos no n.º 1 ou no n.º 4, o senhorio pode exigir-lhe o pagamento do montante correspondente ao dobro da diferença entre a renda paga e a renda que seria devida desde a data da alteração.\n\n8 - A não atualização ou a não revisão da renda por motivo imputável ao senhorio impossibilita-o de recuperar os montantes que lhe seriam devidos a esse título."
+  },
+  "75227707": {
+   "fragment_id": "74873625",
+   "type": 11,
+   "heading": "Artigo 24.º — Obrigações do arrendatário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Obrigações do arrendatário\n\nSem prejuízo das demais obrigações previstas na lei e no contrato, cabe ao arrendatário com contrato de arrendamento apoiado:\n\na) Efetuar as comunicações e prestar as informações ao senhorio obrigatórias nos termos da lei, designadamente as relativas a impedimentos e à composição e rendimentos do seu agregado familiar;\n\nb) Utilizar a habitação em permanência, não se ausentando, nem o próprio nem o seu agregado familiar, por um período seguido superior a seis meses, exceto nas situações previstas no artigo 1072.º do Código Civil comunicadas e comprovadas, por escrito, junto do senhorio, no prazo máximo de seis meses a contar do início do facto que determinou a situação de ausência;\n\nc) Avisar imediatamente o senhorio sempre que tenha conhecimento de qualquer facto ou ato relacionado com a habitação suscetível de causar danos à mesma e ou de pôr em perigo pessoas ou bens;\n\nd) Não realizar obras na habitação sem prévia autorização escrita do senhorio."
+  },
+  "75227708": {
+   "fragment_id": "74873626",
+   "type": 8,
+   "heading": "Secção II — Cessação do contrato de arrendamento apoiado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Cessação do contrato de arrendamento apoiado"
+  },
+  "75227709": {
+   "fragment_id": "74873627",
+   "type": 11,
+   "heading": "Artigo 25.º — Resolução pelo senhorio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Resolução pelo senhorio\n\n1 - Além de outras causas de resolução previstas no NRAU e na presente lei, constituem causas de resolução do contrato de arrendamento apoiado pelo senhorio:\n\na) O incumprimento de qualquer das obrigações previstas no artigo anterior pelo arrendatário ou pelas pessoas do seu agregado familiar;\n\nb) O conhecimento pelo senhorio da existência de uma das situações de impedimento previstas no artigo 6.º;\n\nc) A prestação de falsas declarações por qualquer elemento do agregado familiar, de forma expressa ou por omissão, sobre os rendimentos ou sobre factos e requisitos determinantes para o acesso ou manutenção do arrendamento;\n\nd) A permanência na habitação, por período superior a um mês, de pessoa que não pertença ao agregado familiar, sem autorização prévia do senhorio.\n\n2 - Nos casos das alíneas do número anterior, do artigo 16.º da presente lei e do n.º 2 do artigo 1084.º do Código Civil, a resolução do contrato de arrendamento pelo senhorio opera por comunicação deste ao arrendatário, onde fundamentadamente invoque a respetiva causa, após audição do interessado.\n\n3 - Na comunicação referida no número anterior, o senhorio deve fixar o prazo, no mínimo de 60 dias, para a desocupação e entrega voluntária da habitação, não caducando o seu direito à resolução do contrato ainda que o arrendatário ponha fim à causa que a fundamentou."
+  },
+  "75227710": {
+   "fragment_id": "74873628",
+   "type": 11,
+   "heading": "Artigo 26.º — Cessação do contrato por renúncia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Cessação do contrato por renúncia\n\n1 - Considera-se haver renúncia do arrendatário ao arrendamento da habitação quando esta não seja usada por ele ou pelo agregado familiar por período seguido superior a seis meses a contar da data da primeira comunicação do senhorio, de entre as referidas na alínea a) do número seguinte.\n\n2 - Sem prejuízo do disposto na alínea b) do artigo 24.º, considera-se não uso da habitação a situação em que, dentro do período mínimo de seis meses, se verifiquem cumulativamente as seguintes condições:\n\na) Tenham sido realizadas pelo menos três tentativas, com intervalo mínimo de duas semanas entre cada uma delas, de entrega de comunicação na pessoa do arrendatário ou de elemento do agregado familiar, consoante for o caso, por representante do senhorio devidamente identificado e a entrega tenha resultado impossível por ausência dos mesmos;\n\nb) Tenha sido afixado aviso na porta da entrada da habitação, pelo período mínimo de 30 dias, de conteúdo idêntico ao da comunicação;\n\nc) Os registos do fornecimento de serviços essenciais de água e eletricidade evidenciarem a ausência de contratos de fornecimento ou de consumos relativamente ao locado, nos termos do n.º 2 do artigo 33.º\n\n3 - A comunicação e o aviso devem referir:\n\na) Que o senhorio tem conhecimento do não uso da habitação por parte do arrendatário ou do agregado familiar, consoante for o caso;\n\nb) Que o não uso da habitação por período superior a seis meses a contar da data da primeira tentativa de contacto pessoal, ali indicada, constitui renúncia ao arrendamento e determina a cessação do contrato;\n\nc) O prazo, no mínimo de 30 dias, de que o arrendatário e os elementos do seu agregado familiar dispõem, após o decurso dos seis meses, para procederem à desocupação e entrega voluntária da habitação, livre de pessoas e bens.\n\n4 - A cessação do contrato opera no termo do prazo de seis meses a contar da data da primeira tentativa de contacto pessoal referida na alínea a) do n.º 2 e confere ao senhorio o direito de tomar posse do locado e de considerar abandonados a seu favor os bens móveis nele existentes, após o decurso do prazo de 30 dias referido na alínea c) do número anterior."
+  },
+  "75227711": {
+   "fragment_id": "74873629",
+   "type": 11,
+   "heading": "Artigo 27.º — Danos na habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Danos na habitação\n\nSe, aquando do acesso à habitação pelo senhorio subsequente a qualquer caso de cessação do contrato, houver evidência de danos na habitação, de realização de obras não autorizadas ou de não realização das obras exigidas ao arrendatário nos termos da lei ou do contrato, o senhorio tem o direito de exigir o pagamento das despesas por si efetuadas com a realização das obras necessárias para reposição da habitação nas condições iniciais, acrescidas de 25 %."
+  },
+  "75227712": {
+   "fragment_id": "74873630",
+   "type": 11,
+   "heading": "Artigo 28.º — Despejo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Despejo\n\n1 - Caso não seja cumprida voluntariamente a obrigação de desocupação e entrega da habitação à entidade detentora da mesma referida no n.º 1 do artigo 2.º, cabe a essa entidade ordenar e mandar executar o despejo, podendo, para o efeito, requisitar as autoridades policiais competentes.\n\n2 - São da competência dos dirigentes máximos, dos conselhos de administração ou dos órgãos executivos das entidades referidas no n.º 1 do artigo 2.º, consoante for o caso, as decisões relativas ao despejo, sem prejuízo da possibilidade de delegação.\n\n3 - Quando o despejo tenha por fundamento a falta de pagamento de rendas, encargos ou despesas, a decisão de promoção da correspondente execução deve ser tomada em simultâneo com a decisão do despejo.\n\n4 - Quando o senhorio for uma entidade diversa das referidas no n.º 1 do artigo 2.º, o despejo é efetuado através da ação ou do procedimento especial de despejo previstos no NRAU, e na respetiva regulamentação.\n\n5 - Salvo acordo em sentido diferente, quaisquer bens móveis deixados na habitação, após qualquer forma de cessação do contrato e tomada de posse pelo senhorio, são considerados abandonados a favor deste, que deles pode dispor de forma onerosa ou gratuita, sem direito a qualquer compensação por parte do arrendatário."
+  },
+  "75227713": {
+   "fragment_id": "74873631",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições complementares, transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições complementares, transitórias e finais"
+  },
+  "75227714": {
+   "fragment_id": "74873632",
+   "type": 11,
+   "heading": "Artigo 29.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Sanções\n\n1 - Fica impedido de aceder a uma habitação no regime de arrendamento apoiado, por um período de dois anos:\n\na) O arrendatário ou o elemento do agregado familiar do arrendatário que, para efeito de atribuição ou manutenção de uma habitação em regime de arrendamento apoiado, preste declarações falsas ou omita informação relevante;\n\nb) O arrendatário ou o elemento do agregado familiar do arrendatário que ceda a habitação a terceiros a qualquer título, total ou parcialmente, de forma gratuita ou onerosa;\n\nc) A pessoa que tenha ocupado ilicitamente ou tenha sido sujeita a despejo de uma habitação pertencente a qualquer das entidades referidas no n.º 1 do artigo 2.º\n\n2 - O disposto nos números anteriores não prejudica os direitos que, em função da situação, o senhorio detenha, nem o procedimento criminal que seja aplicável ao caso nos termos legais."
+  },
+  "75227715": {
+   "fragment_id": "74873633",
+   "type": 11,
+   "heading": "Artigo 30.º — Plataforma eletrónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Plataforma eletrónica\n\n1 - O Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.), desenvolve e mantém uma plataforma eletrónica que inclui uma base de dados a que podem aceder os senhorios de habitações arrendadas ou a arrendar em regime de arrendamento apoiado.\n\n2 - A plataforma eletrónica tem por finalidade organizar e manter atualizada a informação relativa às habitações arrendadas ou a arrendar em regime de arrendamento apoiado por referência aos artigos matriciais, bem como aos arrendatários e membros dos seus agregados familiares, com indicação dos respetivos números de identificação fiscal.\n\n3 - As entidades referidas no artigo 2.º devem inserir os dados relativos às habitações e aos arrendatários em regime de arrendamento apoiado na plataforma eletrónica, podendo aceder e cruzar a informação necessária à verificação do cumprimento do disposto na presente lei no âmbito da gestão das respetivas habitações.\n\n4 - Compete ao IHRU, I. P., o tratamento da informação referida no n.º 2 e a adoção das medidas técnicas e organizativas adequadas para proteção dos dados nos termos da Lei n.º 67/98, de 26 de outubro."
+  },
+  "75227716": {
+   "fragment_id": "74873634",
+   "type": 11,
+   "heading": "Artigo 31.º — Dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Dados pessoais\n\n1 - O senhorio de uma habitação arrendada ou subarrendada em regime de arrendamento apoiado pode, para efeitos de confirmação dos dados do arrendatário ou arrendatários da habitação e dos membros do respetivo agregado familiar, solicitar à Autoridade Tributária e Adua-neira (AT) e ao Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), informação sobre a composição e rendimentos do agregado e a titularidade de bens móveis ou imóveis, preferencialmente através da plataforma de interoperabilidade da Administração Pública, devendo os serviços prestar a informação em prazo inferior a 30 dias.\n\n2 - O senhorio é a entidade responsável pela receção e o processamento dos dados pessoais recolhidos para efeito de contratação do arrendamento apoiado, devendo adotar as medidas técnicas e organizativas adequadas para proteção dos mesmos contra a destruição, acidental ou ilícita, a perda acidental, a alteração, a difusão ou o acesso não autorizados e para conservar os dados apenas pelo período estritamente necessário à prossecução da finalidade a que se destinam, nos termos da Lei n.º 67/98, de 26 de outubro.\n\n3 - O tratamento dos dados pelo senhorio nos termos da presente lei depende de autorização da Comissão Nacional para a Proteção de Dados, nos termos da Lei n.º 67/98, de 26 de outubro.\n\n4 - Qualquer pessoa tem direito a conhecer o conteúdo dos registos que lhe digam respeito e a obter junto de quem os detém a correção de inexatidões, a supressão de dados indevidamente registados e o complemento de omissões, nos termos do artigo 11.º da Lei n.º 67/98, de 26 de outubro.\n\n5 - O acesso à informação por terceiros está sujeito ao disposto na Lei n.º 67/98, de 26 de outubro.\n\n6 - O senhorio obriga-se a guardar sigilo sobre os dados recolhidos sobre a situação tributária dos contribuintes e os elementos de natureza pessoal que obtenha ao abrigo do disposto na presente lei, nos termos previstos na Lei Geral Tributária, aprovada pelo Decreto-Lei n.º 398/98, de 17 de dezembro."
+  },
+  "75227717": {
+   "fragment_id": "74873635",
+   "type": 11,
+   "heading": "Artigo 32.º — Isenções e outros benefícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Isenções e outros benefícios\n\n1 - As entidades referidas no n.º 1 do artigo 2.º, no que respeita aos prédios urbanos maioritariamente destinados a fins habitacionais e às habitações de que são proprietárias ou superficiárias que estejam arrendados em regime de arrendamento apoiado, beneficiam de isenção do pagamento de impostos municipais incidentes sobre imóveis e de taxas municipais.\n\n2 - O certificado do desempenho energético das habitações a que se refere a presente lei tem a validade de 10 anos e pode ser baseado na avaliação de uma única habitação representativa do mesmo edifício, que vale ainda para as habitações de outros prédios idênticos do mesmo bairro."
+  },
+  "75227718": {
+   "fragment_id": "74873636",
+   "type": 11,
+   "heading": "Artigo 33.º — Prerrogativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Prerrogativas\n\n1 - As entidades referidas no n.º 1 do artigo 2.º não estão obrigadas a efetuar o seguro de incêndio das habitações de que sejam proprietárias ou superficiárias, cabendo-lhes suportar os custos com as reparações próprias ou devidas a terceiros que seriam cobertas pelo seguro em caso de sinistro.\n\n2 - As empresas de fornecimento de água, gás e eletricidade devem prestar às entidades locadoras informação sobre a existência de contratos ou de consumos relativamente a um dado prédio ou fração autónoma, quando se tenham verificado, pelo menos, duas tentativas de notificação nos termos da alínea a) do n.º 2 do artigo 26.º"
+  },
+  "75227719": {
+   "fragment_id": "74873637",
+   "type": 11,
+   "heading": "Artigo 34.º — Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Comunicações\n\n1 - A comunicação do senhorio ou do proprietário da habitação a informar o arrendatário ou o ocupante da aplicação do regime do arrendamento apoiado deve conter:\n\na) Informação sobre a aplicação do regime do arrendamento apoiado, com indicação dos elementos necessários para cálculo do valor da renda e o prazo para o respetivo envio ao senhorio ou ao proprietário, que não pode ser inferior a 30 dias;\n\nb) As consequências para o caso de incumprimento da obrigação de envio dos elementos solicitados ou de recusa em celebrar o contrato em regime de arrendamento apoiado.\n\n2 - Após a receção dos elementos solicitados, o senhorio ou proprietário deve comunicar ao arrendatário ou ao ocupante o valor da renda, com explicitação da forma do respetivo cálculo, bem como, se aplicável, do respetivo faseamento.\n\n3 - Cabe ao senhorio ou ao proprietário enviar ao arrendatário ou ao ocupante dois exemplares do contrato, devendo um dos exemplares ser-lhe devolvido no prazo máximo de 30 dias, devidamente assinado, podendo o senhorio optar pela celebração presencial do contrato nas suas instalações.\n\n4 - As comunicações entre o senhorio ou proprietário e o arrendatário ou ocupante são efetuadas nos termos dos n.os 1 a 6 do artigo 9.º e dos n.os 1 a 4 do artigo 10.º do NRAU, sem prejuízo do disposto nos números seguintes.\n\n5 - A falta ou a insuficiência de resposta dos arrendatários ou dos ocupantes às comunicações no prazo fixado ou a recusa dos mesmos em celebrar o contrato de arrendamento apoiado constitui fundamento para a resolução do contrato vigente ou para a cessação da utilização da habitação, consoante for o caso, e torna exigível a desocupação e a entrega da habitação.\n\n6 - A comunicação do senhorio ou do proprietário relativa à resolução ou à cessação da ocupação é realizada nos termos do n.º 7 do artigo 9.º ou do n.º 5 do artigo 10.º do NRAU, com menção à obrigação de desocupação e entrega da habitação no prazo neles fixado, nunca inferior a 90 dias, e à consequência do seu não cumprimento.\n\n7 - As comunicações referidas no n.º 1 e no número anterior constituem base bastante para o despejo ou para a desocupação da habitação nos termos do número seguinte.\n\n8 - Ao despejo e desocupação da habitação aplica-se o disposto na última parte do n.º 3 do artigo 64.º e no artigo 76.º do Decreto-Lei n.º 280/2007, de 7 de agosto, alterado pelas Leis n.os 55-A/2010, de 31 de dezembro, 64-B/2011, de 30 de dezembro, 66-B/2012, de 31 de dezembro, pelo Decreto-Lei n.º 36/2013, de 11 de março, e pela Lei n.º 83-C/2013, de 31 de dezembro."
+  },
+  "75227720": {
+   "fragment_id": "74873638",
+   "type": 11,
+   "heading": "Artigo 35.º — Ocupações sem título",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Ocupações sem título\n\n1 - São consideradas sem título as situações de ocupação, total ou parcial, de habitações de que sejam proprietárias as entidades referidas no n.º 1 do artigo 2.º por quem não detém contrato ou documento de atribuição ou de autorização que a fundamente.\n\n2 - No caso previsto no número anterior o ocupante está obrigado a desocupar a habitação e a entregá-la, livre de pessoas e bens, até ao termo do prazo que lhe for fixado na comunicação feita, para o efeito, pelo senhorio ou proprietário, de que deve constar ainda o fundamento da obrigação de entrega da habitação.\n\n3 - Caso não seja cumprida voluntariamente a obrigação de desocupação e entrega da habitação nos termos do número anterior há lugar a despejo nos termos do artigo 28.º"
+  },
+  "75227721": {
+   "fragment_id": "74873639",
+   "type": 11,
+   "heading": "Artigo 36.º — Remissões e referências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Remissões e referências\n\n1 - Todas as remissões para os diplomas e normas revogados nos termos da presente lei consideram-se efetuadas para as disposições correspondentes da mesma.\n\n2 - Todas as referências:\n\na) À «renda técnica» e ao «preço técnico» previsto no Decreto-Lei n.º 166/93, de 7 de maio, consideram-se efetuadas à «renda condicionada»;\n\nb) Às demais rendas previstas nos regimes revogados nos termos da presente lei consideram-se efetuadas a «renda em regime de arrendamento apoiado»."
+  },
+  "75227722": {
+   "fragment_id": "74873640",
+   "type": 11,
+   "heading": "Artigo 37.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Regime transitório\n\n1 - Nos casos a que se referem as alíneas do n.º 2 do artigo anterior, os contratos consideram-se celebrados por um prazo de 10 anos a contar da data da entrada em vigor da presente lei, nomeadamente para efeitos de aplicação do artigo 19.º, salvo se tiver sido estabelecido contratualmente prazo inferior.\n\n2 - Quando o valor da renda em regime de arrendamento apoiado representar um aumento superior ao dobro da renda anterior, há lugar à sua aplicação faseada nos primeiros três anos do contrato nas seguintes condições:\n\na) No primeiro ano, o montante da renda corresponde ao da renda anterior acrescido de um terço do valor do aumento verificado;\n\nb) No segundo e terceiro anos, ao montante da renda praticado em cada um dos anos anteriores é acrescido mais um terço do aumento.\n\n3 - Durante o faseamento não é aplicável o regime de atualização anual da renda.\n\n4 - O disposto no n.º 2 não prejudica a possibilidade de aceitação pelo senhorio do faseamento com valores diferentes."
+  },
+  "75227723": {
+   "fragment_id": "74873641",
+   "type": 11,
+   "heading": "Artigo 38.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Norma revogatória\n\n1 - São revogados os seguintes diplomas:\n\na) A Lei n.º 21/2009, de 20 de maio;\n\nb) O Decreto-Lei n.º 797/76, de 6 de novembro, alterado pela Lei n.º 84/77, de 9 de dezembro, na parte relativa à atribuição de habitações;\n\nc) O Decreto-Lei n.º 608/73, de 14 de novembro, alterado pelo Decreto-Lei n.º 194/83, de 17 de maio;\n\nd) O Decreto-Lei n.º 166/93, de 7 de maio.\n\n2 - São também revogados, na parte relativa ao regime de renda apoiada, os artigos 77.º a 82.º do Regime do Arrendamento Urbano, aprovado pelo Decreto-Lei n.º 321-B/90, de 15 de outubro, mantidos em vigor por força do disposto no artigo 61.º da Lei n.º 6/2006, de 27 de fevereiro, que aprova o Novo Regime do Arrendamento Urbano (NRAU)."
+  },
+  "75227724": {
+   "fragment_id": "74873642",
+   "type": 11,
+   "heading": "Artigo 39.º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Aplicação no tempo\n\n1 - O disposto na presente lei aplica-se aos contratos a celebrar após a data da sua entrada em vigor.\n\n2 - O disposto na presente lei aplica-se, ainda, com as alterações e especificidades constantes dos números seguintes:\n\na) Aos contratos existentes à data da sua entrada em vigor ao abrigo de regimes de arrendamento de fim social, nomeadamente de renda apoiada e de renda social;\n\nb) À ocupação de fogos a título precário ao abrigo do Decreto n.º 35 106, de 6 de novembro de 1945, sujeitos ao regime transitório da Lei n.º 21/2009, de 20 de maio, que subsistam na data da entrada em vigor da presente lei.\n\n3 - As definições da presente lei prevalecem sobre as que estejam previstas noutros regimes legais, na parte em que estes apliquem ou remetam para a aplicação dos regimes referidos no número anterior.\n\n4 - No caso de contratos a que se tenha aplicado o regime constante do Decreto-Lei n.º 166/93, de 7 de maio, e esteja a decorrer faseamento de renda:\n\na) A presente lei aplica-se imediatamente sempre que dela decorra um valor de renda inferior ao do faseamento de renda em curso;\n\nb) Há lugar ao recálculo do faseamento, quando a aplicação da presente lei conduza a um valor de renda inferior ao previsto para o termo do faseamento em curso;\n\nc) Qualquer aumento de renda decorrente da presente lei só pode ocorrer no termo do referido faseamento."
+  },
+  "75227725": {
+   "fragment_id": "74873643",
+   "type": 11,
+   "heading": "Artigo 40.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Entrada em vigor\n\nA presente lei entra em vigor no primeiro dia do terceiro mês seguinte ao da sua publicação."
+  },
+  "75227727": {
+   "fragment_id": "74873645",
+   "type": 14,
+   "heading": "Anexo I — [a que se refere a alínea d) do artigo 3.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — [a que se refere a alínea d) do artigo 3.º]\n\nFator de capitação\n\n(ver documento original)"
+  },
+  "75227728": {
+   "fragment_id": "74873646",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 2 do artigo 15.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 2 do artigo 15.º)\n\nAdequação da tipologia\n\n(ver documento original)"
+  },
+  "173890423": {
+   "fragment_id": "74873596",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O arrendamento apoiado é o regime aplicável às habitações detidas, a qualquer título, por entidades das administrações direta e indireta do Estado, das regiões autónomas, das autarquias locais, do setor público empresarial e dos setores empresariais regionais, intermunicipais e municipais, que por elas sejam arrendadas ou subarrendadas com rendas calculadas em função dos rendimentos dos agregados familiares a que se destinam.\n\n2 - A presente lei aplica-se, ainda, ao arrendamento de habitações financiadas com apoio do Estado que, nos termos de lei especial, estejam sujeitas a regimes de renda fixada em função dos rendimentos dos arrendatários.\n\n3 - As disposições da presente lei são ainda aplicáveis, com as necessárias adaptações, ao subarrendamento de habitações em regime de arrendamento apoiado pelas entidades referidas no n.º 1.\n\n4 - No quadro da autonomia das regiões autónomas e das autarquias locais, podem estas aprovar regulamentação própria visando adaptar a presente lei às realidades física e social existentes nos bairros e habitações de que são proprietárias.\n\n5 - O disposto no número anterior não pode conduzir à definição de normas regulamentares menos favoráveis para os arrendatários, quer quanto ao cálculo do valor de rendas, quer quanto às garantias de manutenção do contrato de arrendamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+  },
+  "173890424": {
+   "fragment_id": "74873597",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeito do disposto na presente lei, considera-se:\n\na) «Agregado familiar», o conjunto de pessoas que residem em economia comum na habitação arrendada, constituído pelo arrendatário e pelas pessoas referidas nas alíneas a), b), c), d) e e) do n.º 1 do artigo 4.º do Decreto-Lei n.º 70/2010, de 16 de junho, bem como por quem tenha sido autorizado pelo senhorio a permanecer na habitação;\n\nb) 'Dependente', o elemento do agregado familiar que seja menor ou, que, tendo idade inferior a 26 anos, não aufira rendimento mensal líquido superior ao indexante dos apoios sociais;\n\nc) «Deficiente», a pessoa com deficiência com grau comprovado de incapacidade igual ou superior a 60 %;\n\nd) «Fator de capitação», a percentagem resultante da ponderação da composição do agregado familiar, de acordo com a tabela constante do anexo i à presente lei, que dela faz parte integrante;\n\ne) «Indexante dos apoios sociais», o valor fixado nos termos da Lei n.º 53-B/2006, de 29 de dezembro, alterada pela Lei n.º 3-B/2010, de 28 de abril;\n\nf) 'Rendimento mensal líquido' (RML), o duodécimo da soma dos rendimentos anuais líquidos de todos os membros do agregado familiar, sendo o rendimento anual líquido de cada membro obtido:\n\ni) Subtraindo ao rendimento global o valor da coleta líquida, nos termos do n.º 2 do presente artigo; caso os rendimentos se reportem a período inferior a um ano, considera-se a proporção correspondente ao número de meses em causa;\n\nii) Sendo zero o valor da coleta líquida ou não tendo legalmente havido lugar à entrega de declaração de rendimentos nos termos do Código do Imposto sobre o Rendimento de Pessoas Singulares, calculando o total dos rendimentos anuais auferidos, considerados nos termos do artigo 3.º do Decreto-Lei n.º 70/2010, de 16 de junho, alterado pela Lei n.º 15/2011, de 3 de maio, e pelos Decretos-Leis n.os 113/2011, de 29 de novembro, e 133/2012, de 27 de junho; caso os rendimentos se reportem a período inferior a um ano, considera-se a proporção correspondente ao número de meses em causa;\n\ng) «Rendimento mensal corrigido» (RMC), o rendimento mensal líquido deduzido das quantias indicadas de seguida:\n\ni) 10 % do indexante dos apoios sociais pelo primeiro dependente;\n\nii) 15 % do indexante dos apoios sociais pelo segundo dependente;\n\niii) 20 % do indexante dos apoios sociais por cada dependente além do segundo;\n\niv) 10 % do indexante dos apoios sociais por cada deficiente, que acresce aos anteriores se também couber na definição de dependente;\n\nv) 10 % do indexante dos apoios sociais por cada elemento do agregado familiar com idade igual ou superior a 65 anos;\n\nvi) 20 % do indexante dos apoios sociais em caso de família monoparental;\n\nvii) A quantia resultante da aplicação do fator de capitação, constante do anexo I da presente lei, ao indexante dos apoios sociais.\n\n2 - Para efeitos da alínea f) do número anterior, os valores do rendimento global e da coleta líquida correspondem aos constantes da declaração de rendimentos das pessoas singulares, validada pela Autoridade Tributária e Aduaneira (AT) e respeitante ao ano anterior, que podem igualmente ser enviados por esta para as entidades detentoras de habitação em regime de arrendamento apoiado através de comunicação eletrónica de dados, aplicando-se o disposto no artigo 31.º, com as necessárias adaptações.\n\n3 - Sem prejuízo do previsto no número anterior, nos casos em que se verifique alteração de rendimento devidamente comprovada, podem os arrendatários requerer revisão do valor da renda, nos termos do artigo 23.º\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+  },
+  "173890425": {
+   "fragment_id": "74873602",
+   "type": 11,
+   "heading": "Artigo 6.º — Impedimentos",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 6.º — Impedimentos\n\n1 - Está impedido de tomar ou manter o arrendamento de uma habitação em regime de arrendamento apoiado quem se encontre numa das seguintes situações:\n\na) Seja proprietário, usufrutuário, arrendatário ou detentor a outro título de prédio urbano ou de fração autónoma de prédio urbano destinado a habitação, localizado no concelho ou em concelho limítrofe, desde que o imóvel seja adequado a satisfazer o fim habitacional do agregado e não constitua residência permanente de terceiros com direitos legais ou contratuais sobre o mesmo;\n\nb) Esteja a usufruir de apoios financeiros públicos para fins habitacionais ou seja titular, cônjuge ou unido de facto com o titular de uma habitação pública já atribuída, sem prejuízo do disposto no artigo 14.º;\n\nc) Tenha beneficiado de indemnização em alternativa à atribuição de uma habitação no âmbito de programas de realojamento; ou\n\nd) Esteja abrangido por uma das situações previstas no n.º 1 do artigo 29.º\n\n2 - As situações previstas nas alíneas a) e b) do número anterior podem não constituir impedimento se, até à data da celebração do contrato em regime de arrendamento apoiado, for feita prova da sua cessação.\n\n3 - No caso previsto na alínea a) do n.º 1, quando for invocado e comprovado que o prédio ou fração não está em condições de satisfazer o fim habitacional ou que o direito relativo ao mesmo é detido ou foi adquirido apenas em parte por membros do agregado familiar, cabe ao senhorio avaliar a situação e decidir sobre o acesso deste agregado à atribuição de habitação ou à manutenção do arrendamento, consoante for o caso.\n\n4 - O arrendatário deve comunicar ao senhorio a existência de uma situação de impedimento, no seu caso ou no de qualquer membro do seu agregado familiar, no prazo máximo de 30 dias a contar da data da ocorrência.\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+  },
+  "173890426": {
+   "fragment_id": "74873610",
+   "type": 11,
+   "heading": "Artigo 12.º — Publicitação da oferta das habitações",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 12.º — Publicitação da oferta das habitações\n\n1 - O anúncio de cada um dos concursos a que se referem os artigos 8.º e 9.º é publicitado no sítio na Internet da entidade locadora e pelos meios considerados mais adequados.\n\n2 - Sem prejuízo de outros elementos que a entidade locadora entenda incluir, o anúncio a que se refere o número anterior deve conter a seguinte informação:\n\na) Tipo de procedimento;\n\nb) Datas do procedimento;\n\nc) Identificação, tipologia e área útil da habitação;\n\nd) Regime do arrendamento;\n\ne) Critérios de acesso ao concurso e, se for o caso, de hierarquização e de ponderação das candidaturas;\n\nf) Local e horário para consulta do programa do concurso e para obtenção de esclarecimentos;\n\ng) Local e forma de proceder à apresentação da candidatura;\n\nh) Local e forma de divulgação da lista definitiva dos candidatos apurados.\n\n3 - No caso do concurso a que se refere o artigo 10.º, a entidade locadora deve publicitar, no respetivo sítio na Internet e ou em área de acesso ou de circulação livre das suas instalações, informação sobre a listagem, as condições de inscrição na mesma e o resultado da última classificação, com exclusão de qualquer menção a dados pessoais.\n\n4 - Em qualquer dos casos referidos nos números anteriores, o concurso pode ainda ser publicitado mediante afixação, no prédio em que a habitação se integra, de anúncio do concurso ou de informação de que a habitação está disponível para arrendamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+  },
+  "173890427": {
+   "fragment_id": "74873614",
+   "type": 11,
+   "heading": "Artigo 15.º — Adequação da habitação",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 15.º — Adequação da habitação\n\n1 - A habitação a atribuir em regime de arrendamento apoiado deve ser de tipologia adequada à composição do agregado familiar, por forma a evitar situações de sobreocupação ou de subocupação.\n\n2 - A adequação da habitação é verificada pela relação entre a tipologia e a composição do agregado familiar de acordo com a tabela constante do anexo ii à presente lei, que dela faz parte integrante.\n\n3 - A habitação a atribuir deve ainda adequar-se a pessoas com mobilidade reduzida, garantindo a acessibilidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+  },
+  "214315381": {
+   "fragment_id": "74873615",
+   "type": 11,
+   "heading": "Artigo 16.º — Mobilidade",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 16.º — Mobilidade\n\n1 - Após audição do interessado, o senhorio pode resolver o contrato e atribuir outra habitação ao arrendatário, no mesmo concelho da anterior habitação ou em concelho limítrofe, nos casos de desadequação superveniente da habitação ao agregado familiar ou de necessidade de desocupação da mesma por razões de gestão do seu parque habitacional, nomeadamente para efeitos de reabilitação do edificado.\n\n2 - A comunicação do senhorio relativa à resolução do contrato é realizada nos termos do n.º 7 do artigo 9.º ou do n.º 5 do artigo 10.º do Novo Regime do Arrendamento Urbano (NRAU), aprovado pela Lei n.º 6/2006, de 27 de fevereiro, alterada pela Lei n.º 31/2012, de 14 de agosto, com identificação da morada da nova habitação, menção à obrigação de desocupação e entrega da habitação e ao prazo fixado para o efeito, nunca inferior a 90 dias, bem como referência à consequência do não cumprimento daquela obrigação.\n\n3 - A recusa ou falta de resposta do arrendatário à comunicação referida no número anterior no prazo fixado torna exigível a desocupação e a entrega da habitação, constituindo aquela comunicação fundamento bastante para o despejo.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+  },
+  "173694741": {
+   "fragment_id": "173846817",
+   "type": 11,
+   "heading": "Artigo 16.º-A — Transferência de habitação",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 16.º-A — Transferência de habitação\n\n1 - Na prossecução do interesse público, a entidade locadora pode promover a transferência do agregado familiar para outra habitação em caso de emergência, nomeadamente inundações, incêndios ou catástrofes naturais, ocorridas ou iminentes, por razões de saúde pública ou existência de risco de ruína.\n\n2 - Nas situações em que existam operações de requalificação urbanística devidamente aprovadas, que incluam habitação, pode a entidade locadora promover a transferência do agregado familiar, provisoriamente, enquanto decorrem as obras de requalificação, estando garantido o retorno do agregado familiar, salvo nas situações em que este se opuser.\n\n3 - Nas situações de requalificação urbanística que não incluam habitação, deve ser acordado com o agregado familiar o local de realojamento, tendo em conta a situação familiar, nomeadamente o local de trabalho e estudo dos seus membros ou a necessidade de acesso a instituições de saúde, por razões de tratamentos específicos.\n\n4 - A entidade locadora pública pode ainda promover a transferência do agregado por razões de desadequação da tipologia ou mau estado de conservação do locado.\n\n5 - A transferência do agregado para outra habitação a pedido do arrendatário pode ser concedida, com base em:\n\na) Motivos de saúde ou mobilidade reduzida, incompatíveis com as condições da habitação;\n\nb) Situação sociofamiliar de extrema gravidade, caso em que o pedido de transferência pode ser efetuado por qualquer interessado, desde que exclusivamente para proteção e salvaguarda da vítima;\n\nc) Desadequação da tipologia atribuída face à evolução do agregado ou degradação da habitação por responsabilidade não imputável ao arrendatário.\n\n6 - Os procedimentos desenvolvidos para a transferência de habitação obedecem ao Código do Procedimento Administrativo.\n\n7 - Se a transferência for feita com carácter provisório e implicar regresso à habitação de origem, não há lugar a novo contrato de arrendamento.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+  },
+  "173890428": {
+   "fragment_id": "74873618",
+   "type": 11,
+   "heading": "Artigo 17.º — Regime do contrato",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 17.º — Regime do contrato\n\n1 - O contrato de arrendamento apoiado rege-se pelo disposto na presente lei, pelos regulamentos nela previstos e pelo Código Civil.\n\n2 - Sem prejuízo do disposto no número anterior, o contrato de arrendamento apoiado tem a natureza de contrato administrativo, estando sujeito, no que seja aplicável, ao respetivo regime jurídico.\n\n3 - Compete aos tribunais administrativos conhecer das matérias relativas à invalidade ou cessação dos contratos de arrendamento apoiado.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+  },
+  "173890429": {
+   "fragment_id": "74873619",
+   "type": 11,
+   "heading": "Artigo 18.º — Forma e conteúdo do contrato",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 18.º — Forma e conteúdo do contrato\n\n1 - O contrato de arrendamento apoiado é celebrado por escrito, sempre que possível através de documento eletrónico com assinatura eletrónica qualificada, e contém, pelo menos, as seguintes menções:\n\na) O regime legal do arrendamento;\n\nb) A identificação do senhorio;\n\nc) A identificação do arrendatário ou arrendatários e de todos os elementos do agregado familiar;\n\nd) A identificação e a localização do locado;\n\ne) O prazo do arrendamento;\n\nf) O valor da renda inicial e a forma de atualização e de revisão da mesma;\n\ng) O tempo, o lugar e a forma de pagamento da renda;\n\nh) A periodicidade da apresentação da declaração de rendimentos do agregado familiar, que não pode ser superior a três anos.\n\n2 - Do contrato de arrendamento deve igualmente constar, para efeitos meramente informativos, o valor que corresponderia ao valor real da renda sem o apoio.\n\n3 - Nos casos previstos no artigo 14.º, a habitação pode ser atribuída em arrendamento mediante registo em livro ou em suporte informático contendo a identificação dos indivíduos e dos membros dos agregados familiares que se encontrem em situação de necessidade habitacional urgente e ou temporária, a data da respetiva admissão e o montante da renda.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+  },
+  "173890430": {
+   "fragment_id": "74873620",
+   "type": 11,
+   "heading": "Artigo 19.º — Duração e renovação do contrato",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 19.º — Duração e renovação do contrato\n\n1 - O contrato de arrendamento apoiado é celebrado pelo prazo de 10 anos, considerando-se reduzido a este limite quando for estipulado um período superior.\n\n2 - Findo o prazo do arrendamento, o contrato renova-se, automaticamente, por igual período.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+  },
+  "173890431": {
+   "fragment_id": "74873621",
+   "type": 11,
+   "heading": "Artigo 20.º — Vencimento e pagamento da renda",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 20.º — Vencimento e pagamento da renda\n\n1 - Salvo estipulação em contrário, a primeira renda vence-se no primeiro dia útil do mês a que respeita, vencendo-se cada uma das restantes no primeiro dia útil de cada mês subsequente.\n\n2 - O pagamento da renda deve ser efetuado no dia do seu vencimento e no lugar e pela forma estabelecidos no contrato.\n\n3 - Quando o pagamento da renda seja efetuado por transferência ou débito em conta bancária do arrendatário, o comprovativo do respetivo movimento é equiparado a recibo para todos os efeitos legais.\n\n4 - Em caso de mora pode ser celebrado um acordo de liquidação de dívida.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+  },
+  "173890469": {
+   "fragment_id": "173846818",
+   "type": 11,
+   "heading": "Artigo 21.º-A — Taxa de esforço máxima",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-11-01"
+   ],
+   "markdown": "###### Artigo 21.º-A — Taxa de esforço máxima\n\nA taxa de esforço máxima não pode ser superior a 23 % do rendimento mensal corrigido do agregado familiar do arrendatário.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-11-01"
+  },
+  "173890474": {
+   "fragment_id": "74873623",
+   "type": 11,
+   "heading": "Artigo 22.º — Rendas máxima e mínima",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 22.º — Rendas máxima e mínima\n\n1 - A renda em regime de arrendamento apoiado não pode ser de valor inferior a 1 % do indexante dos apoios sociais (IAS) vigente em cada momento.\n\n2 - A renda máxima em regime de arrendamento apoiado é a renda máxima aplicável aos contratos de arrendamento para fim habitacional em regime de renda condicionada.\n\n3 -  (Revogado).\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+  },
+  "173890471": {
+   "fragment_id": "74873624",
+   "type": 11,
+   "heading": "Artigo 23.º — Atualização e revisão da renda",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-11-01"
+   ],
+   "markdown": "###### Artigo 23.º — Atualização e revisão da renda\n\n1 - Além da atualização anual prevista no n.º 2 do artigo 1077.º do Código Civil, há lugar à revisão da renda a pedido do arrendatário nas situações de:\n\na) Alteração na composição ou nos rendimentos do agregado familiar, devendo o arrendatário comunicar o facto ao senhorio no prazo máximo de 30 dias a contar da data da ocorrência;\n\nb) Aplicação da correção prevista na alínea g) do artigo 3.º em caso de superveniência de situações de incapacidade igual ou superior a 60 % ou de idade igual ou superior a 65 anos relativas a qualquer elemento do agregado familiar.\n\n2 - A revisão da renda por iniciativa do senhorio com os fundamentos indicados no número anterior pode ocorrer a todo o tempo.\n\n3 - A reavaliação pelo senhorio das circunstâncias que determinam o valor da renda realiza-se, no mínimo, a cada três anos.\n\n4 - No âmbito de qualquer dos processos de revisão da renda, o arrendatário deve entregar ao senhorio os elementos que este solicite e se mostrem adequados e necessários à verificação das circunstâncias que determinam a revisão da renda, no prazo máximo de 30 dias a contar da correspondente notificação.\n\n5 - A apresentação mencionada no número anterior pode ser dispensada relativamente a documentos administrativos, desde que o arrendatário preste o seu consentimento para que estes possam ser consultados, nos termos do artigo 28.º-A do Decreto-Lei n.º 135/99, de 22 de abril, na redação que lhe foi dada pelo Decreto-Lei n.º 73/2014, de 13 de maio.\n\n6 - A renda atualizada ou revista nos termos dos números anteriores é devida no segundo mês subsequente ao da data da receção, pelo arrendatário, da comunicação do senhorio com o respetivo valor.\n\n7 - Quando da revisão da renda resulte o seu aumento e as comunicações do arrendatário tenham sido realizadas fora dos prazos previstos no n.º 1 ou no n.º 4, o senhorio pode exigir-lhe o pagamento do montante correspondente a 1,25 vezes a diferença entre a renda paga e a renda que seria devida desde a data da alteração.\n\n8 - A não atualização ou a não revisão da renda por motivo imputável ao senhorio impossibilita-o de recuperar os montantes que lhe seriam devidos a esse título.\n\n9 - Não há lugar a aumento de renda por efeito de atualização quando, em resultado de vistoria técnica à habitação por parte da entidade locadora, se constate um estado de conservação mau ou péssimo, nos termos do disposto no Decreto-Lei n.º 266-B/2012, de 31 de dezembro, que não resulte de razões imputáveis ao arrendatário e enquanto tal condição persistir.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-11-01"
+  },
+  "173890472": {
+   "fragment_id": "74873625",
+   "type": 11,
+   "heading": "Artigo 24.º — Obrigações do arrendatário",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-11-01"
+   ],
+   "markdown": "###### Artigo 24.º — Obrigações do arrendatário\n\nSem prejuízo das demais obrigações previstas na lei e no contrato, cabe ao arrendatário com contrato de arrendamento apoiado:\n\na) Efetuar as comunicações e prestar as informações ao senhorio obrigatórias nos termos da lei, designadamente as relativas a impedimentos e à composição e rendimentos do seu agregado familiar;\n\nb) Utilizar a habitação em permanência, não se ausentando por um período seguido superior a seis meses, exceto nos casos previstos no n.º 2, comunicados e comprovados por escrito junto do senhorio;\n\nc) Avisar imediatamente o senhorio sempre que tenha conhecimento de qualquer facto ou ato relacionado com a habitação suscetível de causar danos à mesma e ou de pôr em perigo pessoas ou bens;\n\nd) Não realizar obras na habitação sem prévia autorização escrita do senhorio.\n\ne) Restituir a habitação, findo o contrato, no estado em que a recebeu e sem quaisquer deteriorações, salvo as inerentes a uma prudente utilização em conformidade com o fim do contrato e sem prejuízo do pagamento de danos, caso se verifiquem, nos termos do artigo 27.º\n\n2 - O não uso da habitação por período até dois anos não constitui falta às obrigações do arrendatário desde que seja comprovadamente motivado por uma das seguintes situações:\n\na) Doença regressiva e incapacitante de permanência na habitação;\n\nb) Prestação de trabalho por conta de outrem no estrangeiro ou cumprimento de comissão de serviço público, civil ou militar, em ambos os casos por tempo determinado;\n\nc) Detenção em estabelecimento prisional;\n\nd) Prestação de apoios continuados a pessoas com deficiência com grau de incapacidade igual ou superior a 60 %, incluindo a familiares.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-11-01"
+  },
+  "173890473": {
+   "fragment_id": "173846819",
+   "type": 11,
+   "heading": "Artigo 24.º-A — Obrigações das entidades locadoras",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-11-01"
+   ],
+   "markdown": "###### Artigo 24.º-A — Obrigações das entidades locadoras\n\nAs entidades locadoras referidas no artigo 2.º estão vinculadas ao cumprimento das seguintes obrigações:\n\na) Reger-se pelo princípio da igualdade, não podendo privilegiar, beneficiar, prejudicar, privar de qualquer direito ou isentar de qualquer dever nenhum arrendatário ou candidato ao arrendamento público em razão de ascendência, sexo, etnia, língua, território de origem, religião, orientação sexual, deficiência ou doença, convicções políticas ou ideológicas, instrução ou condição social;\n\nb) Prestar aos arrendatários e candidatos ao arrendamento público as informações e os esclarecimentos de que careçam e apoiar e estimular as suas iniciativas e receber as suas sugestões e informações;\n\nc) Assegurar a realização de obras de conservação, reabilitação e beneficiação dos edifícios e frações, no que diz respeito às partes de uso privativo e de uso comum, pelo menos uma vez em cada período de oito anos e sempre que se verifique a sua necessidade, assumindo os encargos correspondentes;\n\nd) Garantir a manutenção das condições de segurança, salubridade, conforto e arranjo estético dos edifícios e das habitações;\n\ne) Assumir os encargos e despesas referentes à administração, conservação e fruição das partes comuns do edifício, bem como o pagamento de serviços de interesse comum, sem prejuízo da partilha de responsabilidades e encargos, nos termos da lei, quando haja condomínios constituídos;\n\nf) Assegurar a realização de vistorias para deteção de situações de degradação e insegurança dos edifícios e frações, nomeadamente em relação às redes de gás, água e eletricidade, aos elevadores e aos equipamentos eletromecânicos;\n\ng) Promover a qualidade dos conjuntos habitacionais do ponto de vista ambiental, social e cultural;\n\nh) Promover a constituição e o bom funcionamento de condomínios sempre que houver mais do que um proprietário no mesmo edifício;\n\ni) Promover a participação organizada dos arrendatários na administração, conservação, fruição e gestão das partes comuns do edifício, através, por exemplo, de comissões de lote.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-11-01"
+  },
+  "173890434": {
+   "fragment_id": "74873627",
+   "type": 11,
+   "heading": "Artigo 25.º — Resolução pelo senhorio",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 25.º — Resolução pelo senhorio\n\n1 - Além das causas de resolução previstas na presente lei e nas disposições legais aplicáveis, nomeadamente nos artigos 1083.º e 1084.º do Código Civil, na sua redação atual, constituem causas de resolução do contrato pelo senhorio:\n\na) O incumprimento de qualquer das obrigações previstas no artigo 24.º;\n\nb) O conhecimento pelo senhorio da existência de uma das situações de impedimento previstas no artigo 6.º;\n\nc) A prestação de falsas declarações, de forma expressa ou por omissão, sobre os rendimentos ou sobre factos e requisitos determinantes para o acesso ou manutenção do arrendamento;\n\nd) A permanência na habitação, por período superior a um mês, de pessoa que não pertença ao agregado familiar, sem autorização prévia do senhorio.\n\n2 - Nos casos das alíneas do número anterior e do n.º 2 do artigo 1084.º do Código Civil, a resolução do contrato de arrendamento pelo senhorio opera por comunicação deste ao arrendatário, onde fundamentadamente invoque a respetiva causa, após audição do interessado, cabendo sempre direito de recurso desta decisão pelo arrendatário.\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+  },
+  "173890435": {
+   "fragment_id": "74873628",
+   "type": 11,
+   "heading": "Artigo 26.º — Cessação do contrato por renúncia",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 26.º — Cessação do contrato por renúncia\n\n1 - Considera-se haver renúncia do arrendatário ao arrendamento da habitação quando esta não seja usada por ele ou pelo agregado familiar por período seguido superior a seis meses a contar da data da primeira comunicação do senhorio, de entre as referidas na alínea a) do número seguinte.\n\n2 - Sem prejuízo do disposto na alínea b) do artigo 24.º, considera-se não uso da habitação a situação em que, dentro do período mínimo de seis meses, se verifiquem cumulativamente as seguintes condições:\n\na) Tenham sido realizadas pelo menos três tentativas, com intervalo mínimo de duas semanas entre cada uma delas, de entrega de comunicação na pessoa do arrendatário ou de elemento do agregado familiar, consoante for o caso, por representante do senhorio devidamente identificado e a entrega tenha resultado impossível por ausência dos mesmos;\n\nb) Tenha sido afixado aviso na porta da entrada da habitação, pelo período mínimo de 30 dias, de conteúdo idêntico ao da comunicação;\n\nc) Os registos do fornecimento de serviços essenciais de água e eletricidade evidenciarem a ausência de contratos de fornecimento ou de consumos relativamente ao locado, nos termos do n.º 2 do artigo 33.º\n\n3 - A comunicação e o aviso devem referir:\n\na) Que o senhorio tem conhecimento do não uso da habitação por parte do arrendatário ou do agregado familiar, consoante for o caso;\n\nb) Que o não uso da habitação por período superior a seis meses a contar da data da primeira tentativa de contacto pessoal, ali indicada, constitui renúncia ao arrendamento e determina a cessação do contrato;\n\nc) O prazo, no mínimo de 30 dias, de que o arrendatário e os elementos do seu agregado familiar dispõem, após o decurso dos seis meses, para procederem à desocupação e entrega voluntária da habitação, livre de pessoas e bens.\n\n4 - A cessação do contrato opera no termo do prazo de seis meses a contar da data da primeira tentativa de contacto pessoal referida na alínea a) do n.º 2 e confere ao senhorio o direito de tomar posse do locado e de considerar abandonados a seu favor os bens móveis nele existentes, se, após o decurso do prazo de 60 dias sobre a tomada de posse do locado, não forem reclamados.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+  },
+  "173890436": {
+   "fragment_id": "74873629",
+   "type": 11,
+   "heading": "Artigo 27.º — Danos na habitação",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 27.º — Danos na habitação\n\nSe, aquando do acesso à habitação pelo senhorio subsequente a qualquer caso de cessação do contrato, houver evidência de danos na habitação, de realização de obras não autorizadas ou de não realização das obras exigidas ao arrendatário nos termos da lei ou do contrato, o senhorio tem o direito de exigir o pagamento das despesas por si efetuadas com a realização das obras necessárias para reposição da habitação nas condições iniciais.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+  },
+  "173890437": {
+   "fragment_id": "74873630",
+   "type": 11,
+   "heading": "Artigo 28.º — Despejo",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 28.º — Despejo\n\n1 - Caso não seja cumprida voluntariamente a obrigação de desocupação e entrega da habitação a uma das entidades referidas no n.º 1 do artigo 2.º, cabe a essas entidades levar a cabo os procedimentos subsequentes, nos termos da lei.\n\n2 - São da competência dos dirigentes máximos, dos conselhos de administração ou dos órgãos executivos das entidades referidas no n.º 1 do artigo 2.º, consoante for o caso, as decisões relativas ao despejo, sem prejuízo da possibilidade de delegação.\n\n3 - Quando o despejo tenha por fundamento a falta de pagamento de rendas, encargos ou despesas, a decisão de promoção da correspondente execução deve ser tomada em simultâneo com a decisão do despejo.\n\n4 - (Revogado.)\n\n5 - Salvo acordo em sentido diferente, quaisquer bens móveis deixados na habitação, após qualquer forma de cessação do contrato e tomada de posse pelo senhorio, são considerados abandonados a favor deste, caso não sejam reclamados no prazo de 60 dias, podendo o senhorio deles dispor de forma onerosa ou gratuita, sem direito a qualquer compensação por parte do arrendatário.\n\n6 - Os agregados alvos de despejo com efetiva carência habitacional são previamente encaminhados para soluções legais de acesso à habitação ou para prestação de apoios habitacionais.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+  },
+  "173890448": {
+   "fragment_id": "173846820",
+   "type": 11,
+   "heading": "Artigo 28.º-A — Resolução alternativa de conflitos",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-11-01"
+   ],
+   "markdown": "###### Artigo 28.º-A — Resolução alternativa de conflitos\n\nAs entidades locadoras podem recorrer à utilização de meios de resolução alternativa de conflitos para resolução de quaisquer litígios relativos à interpretação, execução, incumprimento e invalidade de procedimentos na aplicação da presente lei, sem prejuízo do recurso ao tribunal sempre que não haja acordo entre as partes.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-11-01"
+  },
+  "173890438": {
+   "fragment_id": "74873632",
+   "type": 11,
+   "heading": "Artigo 29.º — Sanções",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 29.º — Sanções\n\n1 - Fica impedido de aceder a uma habitação no regime de arrendamento apoiado, por um período de dois anos:\n\na) O candidato ou arrendatário que, para efeito, respetivamente, de atribuição ou manutenção de uma habitação em regime de arrendamento apoiado, utilize meios fraudulentos, proceda à prestação culposa de declarações falsas ou à omissão dolosa de informação relevante;\n\nb) O arrendatário ou o elemento do agregado familiar do arrendatário que ceda a habitação a terceiros a qualquer título, total ou parcialmente, de forma gratuita ou onerosa;\n\nc) (Revogada.)\n\n2 - O disposto nos números anteriores não prejudica os direitos que, em função da situação, o senhorio detenha, nem o procedimento criminal que seja aplicável ao caso nos termos legais.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+  },
+  "173890439": {
+   "fragment_id": "74873633",
+   "type": 11,
+   "heading": "Artigo 30.º — Plataforma eletrónica",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 30.º — Plataforma eletrónica\n\n1 - O Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.), desenvolve e mantém uma plataforma eletrónica que inclui uma base de dados a que podem aceder os senhorios de habitações arrendadas ou a arrendar em regime de arrendamento apoiado.\n\n2 - A plataforma eletrónica tem por finalidade organizar e manter atualizada a informação relativa às habitações arrendadas ou a arrendar em regime de arrendamento apoiado por referência aos artigos matriciais, bem como aos arrendatários e membros dos seus agregados familiares, com indicação dos respetivos números de identificação fiscal.\n\n3 - As entidades referidas no artigo 2.º que queiram utilizar esta plataforma eletrónica devem inserir nela os dados relativos às habitações e aos arrendatários em regime de arrendamento apoiado, podendo aceder e cruzar a informação necessária à verificação do cumprimento do disposto na presente lei no âmbito da gestão das respetivas habitações.\n\n4 - Compete ao IHRU, I. P., o tratamento da informação referida no n.º 2 e a adoção das medidas técnicas e organizativas adequadas para proteção dos dados nos termos da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto. pela Lei n.º 103/2015, de 24 de agosto.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+  },
+  "173890440": {
+   "fragment_id": "74873634",
+   "type": 11,
+   "heading": "Artigo 31.º — Dados pessoais",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 31.º — Dados pessoais\n\n1 - O senhorio de uma habitação arrendada ou subarrendada em regime de arrendamento apoiado pode, para efeitos de confirmação dos dados do arrendatário ou arrendatários da habitação e dos membros do respetivo agregado familiar, solicitar à AT e ao Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), informação sobre a composição e os rendimentos do agregado e a titularidade de bens móveis ou imóveis, através da plataforma de interoperabilidade da Administração Pública ou através de envio de ficheiro, com referência aos números de identificação fiscal dos arrendatários da habitação e dos membros do respetivo agregado familiar, não podendo o prazo de prestação da informação solicitada ultrapassar os 30 dias.\n\n2 - O senhorio é a entidade responsável pela receção e o processamento dos dados pessoais recolhidos para efeito de contratação do arrendamento apoiado, devendo adotar as medidas técnicas e organizativas adequadas para proteção dos mesmos contra a destruição, acidental ou ilícita, a perda acidental, a alteração, a difusão ou o acesso não autorizados e para conservar os dados apenas pelo período estritamente necessário à prossecução da finalidade a que se destinam, nos termos da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto.\n\n3 - O tratamento dos dados pelo senhorio, ao abrigo da presente lei, depende de autorização da Comissão Nacional de Proteção de Dados, nos termos da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto.\n\n4 - Qualquer pessoa tem direito a conhecer o conteúdo dos registos que lhe digam respeito e a obter junto de quem os detém a correção de inexatidões, a supressão de dados indevidamente registados e o complemento de omissões, nos termos do artigo 11.º da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto.\n\n5 - O acesso à informação por terceiros está sujeito ao disposto na Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto.\n\n6 - O senhorio obriga-se a guardar sigilo sobre os dados recolhidos sobre a situação tributária dos contribuintes e os elementos de natureza pessoal que obtenha ao abrigo do disposto na presente lei, nos termos previstos na Lei Geral Tributária, aprovada pelo Decreto-Lei n.º 398/98, de 17 de dezembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+  },
+  "173890441": {
+   "fragment_id": "74873635",
+   "type": 11,
+   "heading": "Artigo 32.º — Isenções e outros benefícios",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 32.º — Isenções e outros benefícios\n\n1 - As entidades referidas no n.º 1 do artigo 2.º, no que respeita aos prédios urbanos maioritariamente destinados a fins habitacionais e às habitações de que são proprietárias ou superficiárias que estejam arrendados em regime de arrendamento apoiado, beneficiam de isenção do pagamento de impostos municipais incidentes sobre imóveis e de taxas municipais.\n\n2 - O certificado do desempenho energético das habitações a que se refere a presente lei tem a validade de 10 anos e pode ser baseado na avaliação de uma única habitação representativa do mesmo edifício ou edifícios de características similares do mesmo bairro, desde que tecnicamente justificado.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+  },
+  "173890442": {
+   "fragment_id": "74873637",
+   "type": 11,
+   "heading": "Artigo 34.º — Comunicações",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 34.º — Comunicações\n\n1 - A comunicação do senhorio ou do proprietário da habitação a informar o arrendatário ou o ocupante da aplicação do regime do arrendamento apoiado deve conter:\n\na) Informação sobre a aplicação do regime do arrendamento apoiado, com indicação dos elementos necessários para cálculo do valor da renda e o prazo para o respetivo envio ao senhorio ou ao proprietário, que não pode ser inferior a 30 dias;\n\nb) As consequências para o caso de incumprimento da obrigação de envio dos elementos solicitados ou de recusa em celebrar o contrato em regime de arrendamento apoiado.\n\n2 - Após a receção dos elementos solicitados, o senhorio ou proprietário deve comunicar ao arrendatário ou ao ocupante o valor da renda, com explicitação da forma do respetivo cálculo, bem como, se aplicável, do respetivo faseamento.\n\n3 - Cabe ao senhorio ou ao proprietário enviar ao arrendatário ou ao ocupante dois exemplares do contrato, devendo um dos exemplares ser-lhe devolvido no prazo máximo de 30 dias, devidamente assinado, podendo o senhorio optar pela celebração presencial do contrato nas suas instalações.\n\n4 - As comunicações entre as partes relativas a cessação do contrato de arrendamento apoiado e atualização ou revisão da renda são realizadas nos termos dos regulamentos previstos na presente lei e das notificações previstas no Código do Procedimento Administrativo, com as seguintes especificidades:\n\na) As cartas dirigidas ao arrendatário ou ao ocupante devem ser remetidas, preferencialmente, para o local arrendado ou ocupado;\n\nb) As cartas dirigidas ao senhorio ou proprietário devem ser remetidas para o endereço constante do contrato de arrendamento ou para o endereço indicado pelo próprio à outra parte;\n\nc) Qualquer comunicação deve conter o endereço completo da parte que a subscreve, devendo as partes comunicar mutuamente a alteração daquele;\n\nd) Quando a comunicação assinada pelo senhorio ou proprietário for entregue em mão, deve o destinatário apor a sua assinatura na respetiva cópia, com nota de receção;\n\ne) Caso se opte pelo envio de carta registada com aviso de receção e a mesma seja devolvida por o destinatário se ter recusado a recebê-la ou não a tiver levantado no prazo previsto no regulamento dos serviços postais, ou ainda, se o aviso de receção tiver sido assinado por pessoa diferente do destinatário, o senhorio ou proprietário procederá à entrega dessa comunicação em mão;\n\nf) Se o destinatário recusar a receção da comunicação entregue em mão ou recusar a assinatura na respetiva cópia, o senhorio ou proprietário manda afixar edital com conteúdo idêntico ao da comunicação na porta da entrada da habitação arrendada ou ocupada e na entrada da sede da respetiva junta de freguesia, considerando-se a comunicação recebida no dia em que o edital for afixado.\n\n5 - A falta ou a insuficiência de resposta dos arrendatários ou dos ocupantes às comunicações no prazo fixado ou a recusa dos mesmos em celebrar o contrato de arrendamento apoiado constituem fundamento para a resolução do contrato vigente ou para a cessação da utilização da habitação, consoante for o caso.\n\n6 - A comunicação do senhorio ou do proprietário, relativa à resolução ou à cessação da ocupação, é realizada nos termos da presente lei e dos regulamentos nela previstos, com menção à obrigação de desocupação e entrega da habitação no prazo nunca inferior a 90 dias e à consequência do seu não cumprimento.\n\n7 - (Revogado.)\n\n8 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+  },
+  "173890443": {
+   "fragment_id": "74873638",
+   "type": 11,
+   "heading": "Artigo 35.º — Ocupações sem título",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 35.º — Ocupações sem título\n\n1 - São consideradas sem título as situações de ocupação, total ou parcial, de habitações de que sejam proprietárias as entidades referidas no n.º 1 do artigo 2.º por quem não detém contrato ou documento de atribuição ou de autorização que a fundamente.\n\n2 - No caso previsto no número anterior, o ocupante está obrigado a desocupar a habitação e a entregá-la, livre de pessoas e bens, até ao termo do prazo que lhe for fixado, não inferior a três dias úteis, na comunicação feita para o efeito, pelo senhorio ou proprietário, da qual deve constar ainda o fundamento da obrigação de entrega da habitação.\n\n3 - Caso não seja cumprida voluntariamente a obrigação de desocupação e entrega da habitação nos termos do número anterior há lugar a despejo nos termos do artigo 28.º\n\n4 - É aplicável às desocupações previstas no presente artigo o disposto no n.º 6 do artigo 28.º\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+  },
+  "173890444": {
+   "fragment_id": "74873640",
+   "type": 11,
+   "heading": "Artigo 37.º — Regime transitório",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 37.º — Regime transitório\n\n1 - Nos casos a que se referem as alíneas do n.º 2 do artigo anterior, os contratos consideram-se celebrados por um prazo de 10 anos a contar da data da entrada em vigor da presente lei, nomeadamente para efeitos de aplicação do artigo 19.º, salvo se tiver sido estabelecido contratualmente prazo inferior.\n\n2 - Quando o valor da renda em regime de arrendamento apoiado representar um aumento superior ao dobro da renda anterior, há lugar à sua aplicação faseada nos primeiros três anos do contrato nas seguintes condições:\n\na) No primeiro ano, o montante da renda corresponde ao da renda anterior acrescido de um terço do valor do aumento verificado;\n\nb) No segundo e terceiro anos, ao montante da renda praticado em cada um dos anos anteriores é acrescido mais um terço do aumento.\n\n3 - Durante o faseamento não é aplicável o regime de atualização anual da renda, mantendo-se o direito que assiste ao arrendatário, nos termos do n.º 1 do artigo 23.º, de solicitar a revisão do valor da renda quando haja diminuição dos rendimentos ou alteração da composição do agregado familiar\n\n4 - O disposto no n.º 2 não prejudica a possibilidade de aceitação pelo senhorio do faseamento com valores diferentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+  },
+  "75227726": {
+   "fragment_id": "74873644",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 31 de outubro de 2014.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 11 de dezembro de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 15 de dezembro de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "173895375": {
+   "fragment_id": "74873602",
+   "type": 11,
+   "heading": "Artigo 6.º — Impedimentos",
+   "in_force_from": "2021-11-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 89/2021 - Diário da República n.º 213/2021, Série I de 2021-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2021-173732851), em vigor a partir de 2021-11-04",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 6.º — Impedimentos\n\n1 - Está impedido de tomar ou manter o arrendamento de uma habitação em regime de arrendamento apoiado quem se encontre numa das seguintes situações:\n\na) Seja proprietário, usufrutuário, arrendatário ou detentor a outro título de prédio urbano ou de fração autónoma de prédio urbano destinado a habitação, localizado no concelho ou em concelho limítrofe, desde que o imóvel seja adequado a satisfazer o fim habitacional do agregado e não constitua residência permanente de terceiros com direitos legais ou contratuais sobre o mesmo;\n\nb) Esteja a usufruir de apoios financeiros públicos para fins habitacionais ou seja titular, cônjuge ou unido de facto com o titular de uma habitação pública já atribuída, sem prejuízo do disposto no artigo 14.º;\n\nc) (Revogada);\n\nd) Esteja abrangido por uma das situações previstas no n.º 1 do artigo 29.º\n\n2 - As situações previstas nas alíneas a) e b) do número anterior podem não constituir impedimento se, até à data da celebração do contrato em regime de arrendamento apoiado, for feita prova da sua cessação.\n\n3 - No caso previsto na alínea a) do n.º 1, quando for invocado e comprovado que o prédio ou fração não está em condições de satisfazer o fim habitacional ou que o direito relativo ao mesmo é detido ou foi adquirido apenas em parte por membros do agregado familiar, cabe ao senhorio avaliar a situação e decidir sobre o acesso deste agregado à atribuição de habitação ou à manutenção do arrendamento, consoante for o caso.\n\n4 - O arrendatário deve comunicar ao senhorio a existência de uma situação de impedimento, no seu caso ou no de qualquer membro do seu agregado familiar, no prazo máximo de 30 dias a contar da data da ocorrência.\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 89/2021 - Diário da República n.º 213/2021, Série I de 2021-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2021-173732851), em vigor a partir de 2021-11-04\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-09-01"
+  },
+  "214315380": {
+   "fragment_id": "74873624",
+   "type": 11,
+   "heading": "Artigo 23.º — Atualização e revisão da renda",
+   "in_force_from": "2023-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 38/2023 - Diário da República n.º 103/2023, Série I de 2023-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2023-213650805), em vigor a partir de 2023-05-30",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-11-01"
+   ],
+   "markdown": "###### Artigo 23.º — Atualização e revisão da renda\n\n1 - Além da atualização anual prevista no n.º 2 do artigo 1077.º do Código Civil, há lugar à revisão da renda a pedido do arrendatário nas situações de:\n\na) Alteração na composição ou nos rendimentos do agregado familiar, devendo o arrendatário comunicar o facto ao senhorio no prazo máximo de 30 dias a contar da data da ocorrência;\n\nb) Aplicação da correção prevista na alínea g) do artigo 3.º em caso de superveniência de situações de incapacidade igual ou superior a 60 % ou de idade igual ou superior a 65 anos relativas a qualquer elemento do agregado familiar.\n\n2 - A revisão da renda por iniciativa do senhorio com os fundamentos indicados no número anterior pode ocorrer a todo o tempo.\n\n3 - A reavaliação pelo senhorio das circunstâncias que determinam o valor da renda realiza-se, no mínimo, a cada três anos.\n\n4 - No âmbito de qualquer dos processos de revisão da renda, o arrendatário deve entregar ao senhorio os elementos que este solicite e se mostrem adequados e necessários à verificação das circunstâncias que determinam a revisão da renda, no prazo máximo de 30 dias a contar da correspondente notificação.\n\n5 - A apresentação mencionada no número anterior pode ser dispensada relativamente a documentos administrativos, desde que o arrendatário preste o seu consentimento para que estes possam ser consultados, nos termos do artigo 28.º-A do Decreto-Lei n.º 135/99, de 22 de abril, na redação que lhe foi dada pelo Decreto-Lei n.º 73/2014, de 13 de maio.\n\n6 - A renda atualizada ou revista nos termos dos números anteriores é devida no segundo mês subsequente ao da data da receção, pelo arrendatário, da comunicação do senhorio com o respetivo valor.\n\n7 - Quando da revisão da renda resulte o seu aumento e as comunicações do arrendatário tenham sido realizadas fora dos prazos previstos no n.º 1 ou no n.º 4, o senhorio pode exigir-lhe o pagamento do montante correspondente a 1,25 vezes a diferença entre a renda paga e a renda que seria devida desde a data da alteração.\n\n8 - A não atualização ou a não revisão da renda por motivo imputável ao senhorio impossibilita-o de recuperar os montantes que lhe seriam devidos a esse título.\n\n9 - Não há lugar a aumento de renda por efeito de atualização quando, em resultado de vistoria técnica à habitação por parte da entidade locadora, se constate um estado de conservação mau ou péssimo, nos termos do disposto no Decreto-Lei n.º 266-B/2012, de 31 de dezembro, que não resulte de razões imputáveis ao arrendatário e enquanto tal condição persistir.\n\n10 - Quando no âmbito de processos de regularização de dívida o valor da renda revista representar um aumento superior ao dobro da renda anterior, há lugar à sua aplicação faseada nos primeiros três anos contados desde a data da celebração do acordo de liquidação de dívida, aplicando-se as condições previstas nas alíneas a) e b) do n.º 2 do artigo 37.\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 38/2023 - Diário da República n.º 103/2023, Série I de 2023-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2023-213650805), em vigor a partir de 2023-05-30\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), em vigor a partir de 2016-11-01"
+  }
+ }
+}

@@ -1,0 +1,1281 @@
+---
+schema_version: '1.0'
+id: pt:dre:191111:por
+title: Decreto-Lei n.º 404/98
+short_title: null
+summary: Cria, por cisão da Empresa Pública Aeroportos e Navegação Aérea, ANA, E. P., a Empresa Pública Navegação Aérea de
+  Portugal, NAV, E. P., e procede à transformação da Empresa Pública Aeroportos e Navegação Aérea, ANA, E. P., resultante
+  da cisão em sociedade anónima com a denominação ANA - Aeroportos de Portugal, S. A. Aprova os Estatutos da NAV, E. P., e
+  da ANA, S. A.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Equipamento, do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 404/98
+official_date: null
+publication_date: '1998-12-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 291/1998, Série I-A de 1998-12-18
+  number: '291'
+  series: I
+  supplement: null
+  pages: 6915 - 6930
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/12/291a00/69156930.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-04-05'
+version_history:
+  file: decreto-lei-404-98.versoes.json
+  count: 6
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1998-12-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-05-31'
+    amending: pt:dre:316947:por
+    amending_title: Lei n.º 35/99
+    changes:
+    - Altera Artigo 10.º
+    - Altera Artigo 19.º
+    - Altera Artigo 25.º
+  - date: '2003-04-17'
+    amending: pt:dre:239590:por
+    amending_title: Decreto-Lei n.º 74/2003
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+    - Altera Artigo 26.º
+  - date: '2010-04-15'
+    amending: pt:dre:613468:por
+    amending_title: Decreto-Lei n.º 33/2010
+    changes:
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+  - date: '2020-09-26'
+    amending: pt:dre:143741480:por
+    amending_title: Decreto-Lei n.º 75/2020
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+  - date: '2025-04-05'
+    amending: pt:dre:913048491:por
+    amending_title: Decreto-Lei n.º 58/2025
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/404/1998/p/cons/20250331/pt/html
+  oj: null
+  dre: '191111'
+  dre_path: /dr/detalhe/decreto-lei/404-1998-191111
+  internal: pt:dre:191111:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1998-191111
+  metadata_url: https://data.dre.pt/eli/dec-lei/404/1998/p/cons/20250331/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-143741493
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-143741493
+  retrieved_at: '2026-10-22T12:34:55Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: c80de405fabf8f25c725146207d3cd8040cf01c23bba200aead084b6c4180683
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:34:55Z'
+  notes: 6 versão(ões); histórico completo em decreto-lei-404-98.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acção Financeira
+- Aeroporto
+- Aeroporto de Santa Maria
+- Assembleia Geral
+- Autonomia Administrativa
+- Autonomia Financeira
+- Navegação Aérea
+- Sociedade Anónima
+- Capital Social
+- Comissão de Serviço
+- Transporte Aéreo
+- Direcção Geral do Tesouro
+- Conselho de Administração
+- Força Aérea
+- Contrato de Concessão
+- Criação de Empresas
+- Criação de Serviços
+- Instituto Nacional de Aviação Civil
+- Direcção Geral do Património
+- Direito Privado
+- Direito Público
+- Domínio Privado do Estado
+- Domínio Público Aeroportuário
+- Propriedade do Estado
+- Cisão de Empresas
+- Empresa Pública
+- Estatuto
+- Estatuto do Pessoal
+- Eurocontrol
+- Expropriação
+- Faro
+- Lisboa
+- Recrutamento de Pessoal
+- Gestão Pública
+- Ministro das Finanças
+- Horta
+- ILHA das Flores
+- Infraestrutura dos Transportes
+- Iniciativa Privada
+- Isenção Fiscal
+- Licenciamento
+- Ministro do Equipamento do Planeamento e da Administração do Território
+- NAV
+- Participação do Estado
+- Personalidade Jurídica
+- Pessoa Coletiva
+- Ponta Delgada
+- Serviço Público
+- Privatização
+- ANA
+- Aviação Civil
+- Regime de Pessoal
+- Regime de Protecção Social dos Funcionários e Agentes da Administração Pública
+- Regimes de Segurança Social
+- Registo Nacional de Pessoas Coletivas
+- Requisição de Pessoal
+- Responsabilidade Civil
+- Responsabilidade Extracontratual
+- Segurança Social
+- Taxa
+- Taxa de rota
+- Tráfego Aéreo
+- Transferência Patrimonial
+- Transformação de Sociedade
+- Porto
+relationships:
+- type: amended_by
+  target: pt:dre:316947:por
+  label: Altera Artigo 10.º; Altera Artigo 19.º; Altera Artigo 25.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/35-1999-316947
+  date: '1999-05-26'
+- type: amended_by
+  target: pt:dre:239590:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 11.º;
+    Altera Artigo 12.º; Altera Artigo 14.º; Altera Artigo 18.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 23.º;
+    Altera Artigo 26.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2003-239590
+  date: '2003-04-16'
+- type: amended_by
+  target: pt:dre:613468:por
+  label: Revoga Artigo 12.º; Revoga Artigo 13.º; Revoga Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2010-613468
+  date: '2010-04-14'
+- type: amended_by
+  target: pt:dre:143741480:por
+  label: Altera Artigo 4.º; Altera Artigo 11.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2020-143741480
+  date: '2020-09-25'
+- type: amended_by
+  target: pt:dre:913048491:por
+  label: Altera Artigo 3.º; Altera Artigo 2.º; Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2025-913048491
+  date: '2025-03-31'
+- type: cites
+  target: pt:dre:264276:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/121/1994/05/14/p/dre
+- type: cites
+  target: pt:dre:522380:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/133/1998/05/15/p/dre
+- type: cites
+  target: pt:dre:621113:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/21/1996/03/05/p/dre
+- type: cites
+  target: pt:dre:685261:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/38/1991/07/29/p/dre
+article_structure:
+  article_count: 82
+  section_count: 20
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:34:55Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 404/98
+
+Decreto-Lei n.º 404/98
+
+de 18 de Dezembro
+
+1 - Com a criação da Empresa Pública Aeroportos e Navegação Aérea, ANA, E. P., pelo Decreto-Lei n.º 246/79, de 25 de Julho, conferiu-se um enquadramento de gestão empresarial às infra-estruturas aeroportuárias e de navegação aérea em moldes francamente inovadores.
+
+Com a criação da ANA, E. P., destacaram-se no âmbito da organização da aviação civil, em termos hoje unanimemente aconselhados em instâncias da comunidade aeronáutica europeia, as funções de prestação de serviços nos domínios aeroportuários e da navegação aérea, das atribuições regulamentadoras e fiscalizadoras do sector.
+
+O assinalável dinamismo que caracteriza o constante desenvolvimento da aviação civil está, no entanto, a impor em toda a Europa soluções mais ágeis e flexíveis na gestão das infra-estruturas aeroportuárias e de navegação aérea em termos da mais eficaz resposta das mesmas às crescentes exigências quantitativas e qualitativas do transporte aéreo por parte de todos os utentes.
+
+2 - Relativamente à navegação aérea, a crescente relevância da gestão eficaz desta actividade decorre da sua internacionalização, por um lado, e da sua especialização técnica, impostas pelas acrescidas necessidades de coordenação e harmonização no sentido da eficácia de gestão do tráfego aéreo num quadro de rigor, de segurança e qualidade de serviço, no cada vez mais congestionado espaço aéreo europeu.
+
+O que tem sido objecto da maior preocupação dos governos de Estados europeus, membros, associados ou representados nas estruturas europeias da aviação civil e da própria União Europeia, preocupação essa reflectida e traduzida em medidas aconselhadas a nível de estruturas de organização e de normativização para a mais adequada gestão do espaço aéreo europeu, atento o seu crescimento actual e provisional.
+
+3 - Quanto à gestão das actividades aeroportuárias o modelo empresarial veio a revelar-se como o mais adequado para o enquadramento do complexo dessas actividades onde se conjugam - no âmbito geral do serviço público aeroportuário de apoio à aviação civil - relevantes interesses de todos os utentes na procura sempre crescente e mais exigente dos serviços prestados e disponilizados pelos aeroportos.
+
+As novas condições de mercado em que se desenvolvem aquelas actividades impõem no entanto que a respectiva gestão seja dotada de um estatuto mais flexível traduzido num novo modelo empresarial em que o serviço público em causa seja prestado com eficácia acrescida, reclamada num quadro reforçado de objectivos empresariais adequados à melhor satisfação dos interesses acima enunciados.
+
+4 - No quadro atrás descrito, reconhece o Governo a curialidade e a oportunidade de destacar as actividades de navegação aérea, das aeroportuárias, e quanto a estas, a vantagem da sua gestão e exploração, em moldes empresariais de natureza diversa daqueles que, em 1979, com a criação da ANA, E. P., foram adoptados para a gestão conjunta daquelas duas actividades.
+
+Para este efeito estabelece-se pelo presente diploma, e através da figura da transformação da ANA, E. P., em sociedade anónima, o quadro jurídico habilitador do acesso à iniciativa privada da gestão e exploração das infra-estruturas aeroportuárias, conforme o propósito de privatização já previsto e enunciado na Resolução do Conselho de Ministros n.º 21/96, de 5 de Março.
+
+São estas as razões do presente diploma, pelo qual se procede:
+
+À cisão simples da ANA, E. P., criando-se uma empresa pública vocacionada e especializada com a valiosa experiência entretanto adquirida, para assegurar o serviço público de apoio à navegação aérea civil designadamente a gestão do tráfego aéreo em todas as suas vertentes, e o desenvolvimento, instalação, gestão e exploração dos inerentes sistemas de comunicações, navegação, vigilância e infra-estruturas associadas;
+
+À transformação da ANA, E. P., em pessoa colectiva de direito privado com o estatuto de sociedade anónima, à qual competirá a gestão, exploração e desenvolvimento dos Aeroportos de Lisboa, Porto, Faro, Ponta Delgada, Santa Maria, Horta e Flores, bem como de novas infra-estruturas aeroportuárias, quando assim for determinado pelo Governo.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.
+
+Foi ouvida a comissão de trabalhadores da Empresa Pública Aeroportos e Navegação Aérea, ANA, E. P.
+
+Assim, para valer como lei geral da República, nos termos do artigo 112.º, n.º 5, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Criação da Empresa Pública Navegação Aérea de Portugal, NAV, E. P.
+
+É criada, nos termos do n.º 2 do artigo 40.º do Decreto-Lei n.º 260/76, de 8 de Abril, a Empresa Pública Navegação Aérea de Portugal, NAV, E. P., adiante designada abreviadamente NAV, E. P., por cisão da Empresa Pública Aeroportos e Navegação Aérea, ANA, E. P., criada pelo Decreto-Lei n.º 246/79, de 25 de Julho.
+
+###### Artigo 2.º — Transformação da ANA, E. P., em sociedade anónima
+
+A Empresa Pública Aeroportos e Navegação Aérea, ANA, E. P., resultante da cisão prevista no artigo anterior é transformada em sociedade anónima.
+
+### Capítulo II — Constituição da Empresa Pública Navegação Aérea de Portugal, NAV, E. P.
+
+###### Artigo 3.º — Legislação aplicável
+
+1 - A Navegação Aérea de Portugal - NAV Portugal, E. P. E., rege-se pelo regime jurídico do setor público empresarial, aprovado pelo Decreto-Lei n.º 133/2013, de 3 de outubro, na sua redação atual, com as especificidades previstas neste diploma e nos seus Estatutos e regulamentos internos, bem como na demais legislação aplicável.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 58/2025 - Diário da República n.º 63/2025, Série I de 2025-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2025-913048491), em vigor a partir de 2025-04-05
+
+###### Artigo 4.º — Natureza da NAV, E. P.
+
+1 - A NAV, E. P., é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira e de património próprio, estando sujeita à tutela e superintendência dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território.
+
+2 - A NAV, E. P., exerce os poderes e prerrogativas do Estado que lhe são conferidos por lei ou pelo seu Estatuto, sem prejuízo das competências tutelar e de superintendência cometidas por este ou outros diplomas aos órgãos do Estado.
+
+3 - A NAV, E. P., assume os direitos e responsabilidades atribuídos ao Estado relativamente aos bens do domínio público sob sua administração, nos termos das disposições legais aplicáveis.
+
+4 - Consideram-se abrangidos pelo disposto nos n.os 2 e 3 os poderes do Estado quanto:
+
+a) Ao licenciamento e concessão, nos termos da lei aplicável à utilização do domínio público aeroportuário, da ocupação e exercício de qualquer actividade nos terrenos, edificações e outras infra-estruturas afectos à actividade da empresa, bem como à prática de todos os actos respeitantes à execução, modificação e extinção das licenças e concessões;
+
+b) À fixação, nos termos da lei aplicável, das taxas a cobrar pela ocupação e exercício de actividades referidas na alínea anterior;
+
+c) À cobrança coerciva de taxas e rendimentos provenientes da sua actividade, sendo os créditos correspondentes equiparados aos créditos do Estado, para todos os efeitos legais e constituindo título executivo as respectivas facturas, certidões de dívida ou documentos equivalentes;
+
+d) À expropriação por utilidade pública, ocupação de terrenos, implantação de traçados, exercício de servidões administrativas e aeronáuticas ou de poderes definidos para as zonas de protecção, designadamente os relativos a medidas restritivas de actividades e de utilização de solos;
+
+e) Ao uso público dos serviços e à sua fiscalização;
+
+f) À protecção das suas instalações e do seu pessoal;
+
+g) À responsabilidade civil extracontratual;
+
+h) À execução coerciva das demais decisões de autoridade, incluindo o recurso à força pública.
+
+5 - O disposto na alínea b) do número anterior não prejudica o regime específico aplicável às taxas de rota, conforme o disposto, nesta matéria, no presente diploma e nos Estatutos da NAV, E. P., a ele anexos.
+
+6 - A contratação de fornecimentos poderá ser feita pela empresa segundo um regime de direito público, sempre que o justifiquem a sua dimensão, preço ou importância.
+
+7 - A criação e definição de servidões ligadas às instalações de apoio à aviação civil afectas à actividade da empresa cabe ao órgão competente, podendo a proposta ser apresentada pela NAV, E. P., devidamente informada pelo Instituto Nacional de Aviação Civil.
+
+###### Artigo 5.º — Objecto da NAV, E. P.
+
+1 - À NAV, E. P., caberá a prestação do serviço público, em moldes empresariais, relativo à exploração e desenvolvimento das infra-estruturas e dos serviços de apoio à navegação aérea, designadamente a gestão do tráfego aéreo em todas as suas vertentes e o desenvolvimento, instalação, gestão e exploração dos inerentes sistemas de comunicações, navegação, vigilância e infra-estruturas associadas e actividades conexas, em cumprimento das normas de convenções internacionais ou de organizações internacionais da aviação civil de que Portugal seja respectivamente subscritor e Estado membro.
+
+2 - Para prossecução do objectivo referido no número anterior, a NAV, E. P., assegurará:
+
+a) As actividades de desenvolvimento, instalação, gestão e exploração dos serviços, sistemas e infra-estruturas de navegação aérea relativas aos Aeroportos de Lisboa, Porto, Faro, Funchal, Porto Santo, Santa Maria, Ponta Delgada, Horta e Flores, bem como de outras infra-estruturas de navegação aérea em que tais actividades lhe sejam cometidas pelo Governo;
+
+b) Os sistemas de navegação aérea, incluindo aqueles que, nos termos das convenções internacionais, respeitem às regiões de informação de voo (RIV) sob a responsabilidade de Portugal, com excepção dos que servem exclusivamente aeródromos ou aeroportos não referidos na alínea anterior, salvo se vierem a ser atribuídos à responsabilidade da empresa na base de acordos específicos ou de razões de interesse público, nos termos que forem definidos por despacho do membro do Governo que tiver a seu cargo a tutela do sector da aviação civil;
+
+c) A participação em organizações nacionais relacionadas com a sua actividade, designadamente as dedicadas à concertação e coordenação civil/militar no âmbito da gestão do tráfego e do espaço aéreo;
+
+d) A participação em organizações internacionais relacionadas com a sua actividade e a correspondente representação do Estado sempre que solicitada pelo Governo.
+
+3 - À NAV, E. P., caberá ainda o estudo, planeamento, construção e desenvolvimento de novos sistemas e infra-estruturas civis de navegação aérea, bem como a necessária coordenação nacional e internacional no mesmo âmbito.
+
+4 - A empresa poderá ainda dedicar-se acessoriamente a actividades complementares ou subsidiárias relacionadas directa ou indirectamente com o serviço público a que alude o n.º 1 anterior.
+
+5 - Para prossecução das suas atribuições e realização do seu objecto, a NAV, E. P., pode constituir ou participar noutras empresas ou sociedades de responsabilidade limitada, ainda que de objecto diferente do seu, bem como participar em agrupamentos complementares de empresas ou agrupamentos europeus de interesse económico.
+
+6 - Na prossecução das suas atribuições a NAV, E. P, deverá actuar em coordenação com a Força Aérea com vista a assegurar a correcta gestão e utilização do espaço aéreo.
+
+###### Artigo 6.º — Transferência de direitos e obrigações
+
+1 - Por efeito da cisão da ANA, E. P., operada pelo presente diploma, são transferidos para a NAV, E. P., todos os direitos e obrigações, de qualquer fonte e natureza, incluindo as posições contratuais de que era titular a ANA, E. P., na área das atribuições referidas no artigo anterior.
+
+2 - As infra-estruturas e sistemas associados referidos no n.º 2 do artigo anterior, e bem assim todos os bens, direitos e obrigações do domínio privado do Estado ou de natureza patrimonial com eles relacionados, são transferidos para a NAV, E. P., sem alteração de regime.
+
+3 - A NAV, E. P., não está sujeita às regras de administração e alienação a que estão sujeitos os bens e direitos do domínio privado do Estado.
+
+4 - Até ao termo dos correspondentes contratos, o Estado mantém perante as instituições financeiras ou outras que celebraram os contratos cujas posições são transferidas para a NAV, E. P., nos termos do n.º 1, as mesmas relações de suporte, designadamente financeiro, não podendo o presente diploma ser considerado alteração de circunstâncias para efeitos de tais contratos.
+
+###### Artigo 7.º — Património destacado por força da cisão
+
+1 - O património inicial da NAV, E. P., é constituído pelos seguintes bens, direitos e obrigações destacados da ANA, S. A., por efeito do presente diploma:
+
+a) Todos os elementos patrimoniais que correspondem à universalidade de bens, direitos e obrigações relacionados, directa ou indirectamente, com as infra-estruturas e sistemas de navegação aérea indicados nas alíneas a) e b) do n.º 2 do artigo 5.º e que à data da cisão se encontram na esfera da ANA, E. P., afectos à prossecução do serviço público de navegação aérea para apoio à aviação civil;
+
+b) Todos os demais elementos patrimoniais com aptidão para a prossecução do serviço público de navegação aérea para apoio à aviação civil e que sejam incluídos na lista a que se refere a alínea b) do n.º 3 do artigo 26.º
+
+2 - O destaque patrimonial previsto no número anterior compreende a transferência para a administração da NAV, E. P., sem alteração do seu regime, dos bens do domínio público que à data da cisão sejam da administração da ANA, E. P., e que se encontrem afectos à prossecução do serviço público de navegação aérea para apoio à aviação civil tal como definido no artigo 5.º do presente diploma, bem como aqueles que, tendo aptidão para esse fim, sejam incluídos na lista a que se refere o número anterior.
+
+3 - A identificação dos bens e direitos que constituem o património inicial da NAV, E. P., constará da lista a que se refere a alínea b) do n.º 1, a aprovar por despacho conjunto dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território.
+
+###### Artigo 8.º — Taxas de rota
+
+Sem prejuízo do demais estabelecido no Estatuto da NAV, E. P., quanto aos proveitos da empresa, o artigo 4.º do Decreto-Lei n.º 461/88, de 14 de Dezembro, passa a ter a seguinte redacção:
+
+«Artigo 4.º
+
+1 - Os montantes relativos às taxas de rota cobradas pelo eurocontrol e correspondentes aos voos efectuados no espaço aéreo das regiões de informação de voo sob jurisdição do Estado Português constituem receitas da Empresa Pública Navegação Aérea de Portugal, NAV, E. P., nos termos do respectivo Estatuto.
+
+2 - As quantias devidas à NAV, E. P., nos termos do número anterior e para efeitos de reembolso, serão deduzidas da remuneração que for devida ao eurocontrol, nas condições definidas por esta organização, de acordo com o artigo 20.º do Acordo, que vinculem internacionalmente o Estado Português.»
+
+### Capítulo III — Transformação da Empresa Pública Aeroportos e Navegação Aérea, ANA, E. P., em sociedade anónima
+
+###### Artigo 9.º — Denominação, natureza e regime aplicável
+
+1 - A Empresa Pública Aeroportos e Navegação Aérea, ANA, E. P., criada pelo Decreto-Lei n.º 246/79, de 25 de Julho, é transformada em sociedade anónima com a denominação ANA - Aeroportos de Portugal, S. A., adiante designada abreviadamente por ANA, S. A.
+
+2 - A ANA, S. A., reger-se-á pelo presente decreto-lei, pelos seus Estatutos, que constituem o anexo II ao presente diploma e dele fazem parte integrante, pelas normas reguladoras das sociedades do tipo anónimo e pelas normas especiais cuja aplicação decorra do objecto da sociedade.
+
+###### Artigo 10.º — Continuação de personalidade jurídica
+
+1 - A ANA, S. A., sucede automática e globalmente à ANA, E. P., e continua a personalidade jurídica desta quanto ao serviço público aeroportuário de apoio à aviação civil, conservando, sem prejuízo do disposto no capítulo II deste diploma, a universalidade dos direitos e obrigações, incluindo os relativos aos bens do domínio público, que se encontrem na esfera jurídica da ANA, E. P., à data da transformação.
+
+2 - No que se refere aos contratos celebrados pela ANA, E. P., em data anterior à da transformação em sociedade anónima, e em cujas posições contratuais a ANA, S. A., suceda por efeito da transformação, o Estado mantém, perante as instituições financeiras ou outras que sejam parte em tais contratos, as mesmas relações de suporte, designadamente financeiro, não podendo o presente diploma ser considerado alteração de circunstâncias para efeitos de tais contratos.
+
+3 - Os bens dominiais afectos à exploração do serviço público aeroportuário que, por efeito do presente diploma, se mantenham sob administração da ANA, S. A., bem como todos os bens que ela adquirir, por título privado ou público, e que forem afectos àquele domínio, ingressarão no seu património, mediante declaração do conselho de administração e parecer técnico favorável do Instituto Nacional de Aviação Civil e da Direcção-Geral do Património, sempre que, por qualquer motivo, sejam desafectados.
+
+4 - Excluem-se do disposto no número anterior os terrenos que não hajam sido adquiridos pela Empresa Pública Aeroportos e Navegação Aérea - ANA, E. P.
+
+> Alterado pelo/a [Lei n.º 35/99 - Diário da República n.º 122/1999, Série I-A de 1999-05-26](https://diariodarepublica.pt/dr/detalhe/lei/35-1999-316947), em vigor a partir de 1999-05-31
+
+###### Artigo 11.º — Estatutos
+
+1 - São aprovados os Estatutos da ANA, S. A., que constituem o anexo II a este diploma.
+
+2 - Os Estatutos da ANA, S. A., produzem efeitos relativamente a terceiros a partir da data de entrada em vigor do presente diploma, independentemente do registo, o qual, no entanto, deve ser requerido nos 90 dias seguintes àquela data.
+
+3 - As eventuais alterações aos Estatutos produzirão todos os seus efeitos desde que deliberadas segundo o próprio regime estatutário vigente e com observância das disposições aplicáveis da lei comercial e do presente diploma, sendo bastante a sua redução a escritura pública e subsequente registo e publicação.
+
+###### Artigo 12.º — Objecto e âmbito da concessão
+
+1 - À ANA, S. A., é atribuída a concessão de serviço público aeroportuário de apoio à aviação civil.
+
+2 - A concessão atribuída à ANA, S. A., tem por objecto o direito de explorar o serviço público aeroportuário de apoio à aviação civil, consubstanciado no estabelecimento, gestão e desenvolvimento de infra-estruturas aeroportuárias e compreendendo:
+
+a) A prestação do serviço destinado a assegurar a partida e chegada de aeronaves e o embarque, desembarque e encaminhamento de passageiros, carga e correio nos Aeroportos de Lisboa, Porto, Faro, Santa Maria, Ponta Delgada, Horta e Flores, bem como noutras infra-estruturas aeroportuárias em que lhe venha a ser cometida pelo Governo aquela prestação de serviço;
+
+b) A manutenção e desenvolvimento das infra-estruturas aeroportuárias dos aeroportos referidos na alínea anterior, bem como noutras infra-estruturas em que lhe venha a ser cometida pelo Governo aquela actividade;
+
+c) O estudo, planeamento, construção, exploração e desenvolvimento de novas infra-estruturas civis aeroportuárias quando tais actividades lhe forem cometidas pelo Governo.
+
+3 - Até à celebração do respectivo contrato de concessão, a ANA, S. A., prestará o serviço público referido no n.º 1, nos mesmos termos em que aquele serviço público vinha a ser prestado pela ANA, E. P.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 33/2010 - Diário da República n.º 72/2010, Série I de 2010-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2010-613468), em vigor a partir de 2010-04-15
+
+###### Artigo 13.º — Regime do serviço público aeroportuário
+
+1 - No desempenho da sua actividade de concessionária do serviço público aeroportuário, deverá a ANA, S. A.:
+
+a) Executar, sob sua responsabilidade e em regime de exclusivo, o serviço público aeroportuário concessionado, nas melhores condições de qualidade, continuidade e regularidade e eficiência e economia do serviço, devendo manter actualizadas as regras de gestão aeroportuária a adoptar, de acordo com a evolução tecnológica e normas de produtividade seguidas na exploração de aeroportos com movimentação de tráfego semelhante àqueles compreendidos no âmbito da concessão;
+
+b) Organizar os serviços, disciplinar a sua actuação, aplicar as regras de segurança geralmente seguidas na exploração aeroportuária, conservar as infra-estruturas e equipamentos afectos ao serviço público concessionado, promovendo a respectiva actualização e renovação oportunas;
+
+c) Observar o princípio da igualdade de tratamento dos utilizadores e utentes das infra-estruturas aeroportuárias dentro das condições legais e regulamentares fixadas para o acesso e utilização de serviços aeroportuários;
+
+d) Cumprir e fazer observar as normas, recomendações e orientações aplicáveis à actividade aeroportuária, designadamente as de natureza legal e regulamentar decorrentes de convenções e acordos internacionais de que o Estado Português seja subscritor e bem assim aquelas que sejam emanadas do Instituto Nacional da Aviação Civil e das organizações internacionais da aviação civil de que Portugal seja membro.
+
+2 - Para efeito do disposto no número anterior, o Governo reserva-se o direito de definir por via legislativa ou regulamentar as condições de desempenho do serviço público aeroportuário concessionado.
+
+3 - A ANA, S. A., é a responsável única e exclusiva por quaisquer danos e prejuízos que cause a terceiros no exercício das actividades concedidas.
+
+4 - Até à celebração do contrato de concessão do serviço público aeroportuário, os Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território mantêm relativamente à ANA, S. A., os poderes tutelares que detinham sobre a ANA, E. P.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 33/2010 - Diário da República n.º 72/2010, Série I de 2010-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2010-613468), em vigor a partir de 2010-04-15
+
+###### Artigo 14.º — Poderes e prerrogativas de autoridade
+
+1 - Para prossecução do serviço público que lhe está concessionado e sem prejuízo de outros que lhe sejam conferidos por lei ou pelos Estatutos, a ANA, S. A., detém os poderes e prerrogativas do Estado quanto:
+
+a) Ao licenciamento e concessão, nos termos da lei aplicável à utilização do domínio público aeroportuário, da ocupação e exercício de qualquer actividade nos terrenos, edificações e outras infra-estruturas afectas à actividade da sociedade, bem como à prática de todos os actos respeitantes à execução, modificação e extinção das licenças e concessões;
+
+b) À fixação, nos termos da lei aplicável, das taxas a cobrar pela ocupação de terrenos, edificações ou outras instalações e pelo exercício de qualquer actividade na área dos aeroportos incluídos no âmbito da concessão;
+
+c) À cobrança coerciva de taxas e rendimentos provenientes das actividades incluídas no âmbito da concessão, sendo os créditos correspondentes equiparados aos créditos do Estado para todos os efeitos legais e constituindo título executivo as respectivas facturas, certidões de dívida ou documentos equivalentes;
+
+d) À expropriação por utilidade pública, na qualidade de entidade expropriante, de imóveis e direitos a eles relativos que se mostrem necessários à prossecução do serviço público concessionado, sem prejuízo do exercício, nos termos do Código das Expropriações, das competências próprias do membro do Governo competente;
+
+e) À ocupação de terrenos, implantação de traçados, exercício de servidões administrativas e aeronáuticas ou de poderes definidos para as zonas de protecção, designadamente os relativos a medidas restritivas de actividades e de utilização de solos;
+
+f) Ao uso público dos serviços e à sua fiscalização;
+
+g) À protecção das suas instalações e do seu pessoal;
+
+h) À responsabilidade civil extracontratual;
+
+i) À execução coerciva das demais decisões de autoridade, incluindo o recurso à força pública.
+
+2 - A contratação de fornecimentos poderá ser efectuada pela ANA, S. A., segundo um regime de direito público, sempre que o justifiquem a sua dimensão, preço ou importância.
+
+3 - A expropriação de imóveis e direitos a eles relativos prevista na alínea d) do n.º 1 tem carácter urgente.
+
+4 - A criação e definição de servidões ligadas à exploração aeroportuária e às infra-estruturas afectas à concessão cabe ao órgão competente, podendo a proposta ser apresentada pela ANA, S. A., devidamente informada pelo Instituto Nacional da Aviação Civil.
+
+5 - A partir da entrada em vigor do presente diploma, todos os direitos e faculdades relativos ao licenciamento do uso privativo do domínio público aeroportuário e correspondentes taxas, conferidos à ANA, E. P., pelo Decreto-Lei n.º 102/90, de 21 de Março, e pelo Decreto Regulamentar n.º 38/91, de 29 de Julho, são transmitidos para a ANA, S. A.
+
+6 - Exceptuam-se do disposto no número anterior todos os direitos e faculdades relativos à taxa de controlo terminal prevista no artigo 5.º do Decreto Regulamentar n.º 38/91, de 29 de Julho, os quais, a partir da entrada em vigor do presente diploma, são transferidos para a NAV, E. P.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 33/2010 - Diário da República n.º 72/2010, Série I de 2010-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2010-613468), em vigor a partir de 2010-04-15
+
+###### Artigo 15.º — Actos de gestão pública
+
+1 - Compete ao conselho de administração da ANA, S. A., enquanto concessionária de um serviço público, praticar todos os actos administrativos definitivos e executórios cuja prática vise a prossecução do serviço público concedido, designadamente aqueles que se revelem necessários ao exercício dos poderes de autoridade conferidos à ANA, S. A.
+
+2 - O conselho de administração pode, nos termos da lei, delegar as suas competências no domínio dos actos de gestão pública em qualquer dos seus membros e autorizar a subdelegação nos órgãos de estrutura da sociedade.
+
+3 - São da competência dos tribunais administrativos os julgamentos dos recursos de actos dos órgãos da ANA, S. A., que se encontrem sujeitos a um regime de direito público, bem como o julgamento das acções sobre validade, interpretação ou execução dos contratos de direito público celebrados pela sociedade ou tendentes à efectivação da sua responsabilidade e dos seus órgãos, no domínio dos actos de gestão pública.
+
+###### Artigo 16.º — Capital social e acções
+
+1 - A ANA, S. A., tem um capital social inicial de 15000000000$00, o qual se encontra integralmente subscrito e realizado pelo Estado, pelos valores que integram o património da sociedade.
+
+2 - As acções representativas do capital da ANA, S. A., pertencentes ao Estado serão detidas pela Direcção-Geral do Tesouro, podendo a sua gestão ser cometida, por despacho conjunto dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território, a uma pessoa colectiva de direito público ou a entidade que, por imposição legal, pertença ao sector público.
+
+3 - Os direitos do Estado como accionista da ANA, S. A., são exercidos por um representante designado por despacho conjunto dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território, salvo quando a gestão das acções tenha sido cometida a outra entidade nos termos do n.º 2.
+
+###### Artigo 17.º — Prestação de informações
+
+1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos accionistas, o conselho de administração da ANA, S. A., enviará aos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território, até pelo menos 30 dias antes da assembleia geral anual:
+
+a) O relatório de gestão e as contas do exercício;
+
+b) Todos os elementos necessários para a compreensão integral da situação económica e financeira da empresa e as perspectivas da sua evolução.
+
+2 - O fiscal único enviará, trimestralmente, aos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território, um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
+
+###### Artigo 18.º — Convocação da assembleia geral
+
+1 - Fica desde já convocada a assembleia geral da ANA, S. A., para se reunir, na sede social, pelas 15 horas do 10.º dia útil seguinte à entrada em vigor deste diploma, para a eleição dos titulares dos órgãos sociais, constituição da comissão de remunerações prevista no artigo 10.º dos Estatutos, que integram o anexo II ao presente diploma, e aprovação do estatuto remuneratório daqueles titulares.
+
+2 - Os membros em exercício do conselho de gerência e da comissão de fiscalização da ANA, E. P., transformada pelo presente diploma, mantêm-se em funções até à data da posse dos titulares dos órgãos sociais da ANA, S. A., com as competências fixadas nos Estatutos para o conselho de administração e fiscal único, respectivamente.
+
+### Capítulo IV — Disposições comuns
+
+###### Artigo 19.º — Estatuto do pessoal
+
+1 - Os trabalhadores da NAV, E. P., e da ANA, S. A., estão sujeitos ao regime do contrato individual de trabalho e ao regime geral de segurança social, sem prejuízo do disposto no n.º 2 do artigo seguinte quanto ao regime de previdência do pessoal com vínculo à função pública.
+
+2 - Os trabalhadores da ANA, E. P., que, por efeito da cisão, sejam transferidos para a NAV, E. P., ou permaneçam na ANA, S. A., mantêm perante estas empresas todos os direitos e obrigações de que eram titulares na empresa cindida, continuando a produzir efeitos em relação àqueles trabalhadores o regime jurídico que lhes seja aplicável à data da entrada em vigor do presente diploma.
+
+3 - A NAV, E. P., e a ANA, S. A., ficam obrigadas, em relação a todos os seus trabalhadores, a assegurar a manutenção dos direitos relativos aos fundos de pensões que vigoram na ANA, E. P., assumindo, na quota-parte respectiva, todas as responsabilidades decorrentes de insuficiências de dotações verificadas à data da cisão e, bem assim, a assegurar os direitos dos pensionistas que lhes fiquem afectos.
+
+4 - A matéria relativa à contratação colectiva na NAV, E. P., e na ANA, S. A., rege-se pela lei geral da contratação colectiva, sendo mantidos, até à celebração de novos instrumentos de regulamentação colectiva, todos os direitos e regalias dos trabalhadores que sejam transferidos para a empresa resultante da cisão ou se mantenham na empresa transformada, e que emerjam dos instrumentos de regulamentação colectiva de trabalho em vigor à data do início da vigência do presente diploma.
+
+> Alterado pelo/a [Lei n.º 35/99 - Diário da República n.º 122/1999, Série I-A de 1999-05-26](https://diariodarepublica.pt/dr/detalhe/lei/35-1999-316947), em vigor a partir de 1999-05-31
+
+###### Artigo 20.º — Funcionários requisitados pela ANA, E. P.
+
+1 - O pessoal com vínculo à função pública requisitado pela ANA, E. P., nos termos do Decreto-Lei n.º 209/84, de 26 de Junho, e que por aplicação do presente diploma seja transferido para a NAV, E. P., ou que permaneça na ANA, S. A., mantém nestas empresas o regime previsto naquele decreto-lei, continuando integrado no quadro especial criado pelo artigo 6.º do Decreto-Lei n.º 133/98, de 15 de Maio.
+
+2 - O pessoal a que se refere o presente artigo fica, consoante os casos, sujeito ao regime de pessoal em vigor, respectivamente, na NAV, E. P., e na ANA, S. A., mantendo o regime de previdência dos funcionários do Estado, designadamente nos domínios da aposentação, pensão de sobrevivência, prestações familiares e assistência na doença, com a consequente inscrição na ADSE, Caixa Geral de Aposentações e Montepio dos Servidores do Estado.
+
+3 - São competências dos conselhos de administração da NAV, E. P., e da ANA, S. A., em matéria de pessoal, para os efeitos do presente artigo:
+
+a) Concessão de licenças e autorizações que os mesmos podem requerer nos termos legais;
+
+b) Exercício do poder disciplinar, salvo quanto à aplicação das penas de demissão e de aposentação compulsiva da função pública, que são da competência exclusiva do Ministro do Equipamento, do Planeamento e da Administração do Território e serão aplicadas nos termos previstos no regime disciplinar do funcionalismo público.
+
+4 - O exercício do poder disciplinar previsto na alínea b) do número anterior pode ser delegado nos órgãos da estrutura orgânica da empresa.
+
+###### Artigo 21.º — Pessoal da ANA, E. P., em regime específico
+
+1 - Os trabalhadores da ANA, E. P., que à data de entrada em vigor deste diploma se encontrem destacados, requisitados ou em comissão de serviço em entidades públicas ou privadas ou em regime de licença sem vencimento continuarão, conforme os casos, a prestar serviço naquelas entidades até ao termo do respectivo destacamento, requisição e comissão ou até ao fim do período da licença sem vencimento.
+
+2 - Os trabalhadores a que se refere o presente artigo serão incluídos, de acordo com os critérios referidos no n.º 2 do artigo 26.º deste diploma, na lista prevista na alínea a) do n.º 3 daquele preceito.
+
+###### Artigo 22.º — Mobilidade
+
+1 - Os trabalhadores da NAV, E. P., e da ANA, S. A., podem, qualquer que seja a natureza do seu vínculo, desempenhar funções em entidades públicas ou privadas nos termos da lei.
+
+2 - A requisição na NAV, E. P., ou na ANA, S. A., é suspensa durante o exercício transitório de funções noutras entidades por parte dos funcionários vinculados ao quadro especial criado pelo artigo 6.º do Decreto-Lei n.º 133/98, de 15 de Maio, sendo automaticamente retomada no termo das referidas funções.
+
+3 - Os funcionários do Estado, de institutos públicos e de autarquias locais, bem como os trabalhadores das empresas públicas, podem ser autorizados a exercer na NAV, E. P., ou na ANA, S. A., quaisquer cargos ou funções em regime de requisição ou de comissão de serviço, nos termos da lei.
+
+4 - As funções desempenhadas nos termos dos números anteriores efectuam-se com garantia do lugar de origem e sem prejuízo de quaisquer direitos, incluindo os benefícios de aposentação ou reforma e sobrevivência, sendo designadamente tais funções consideradas, para efeitos de contagem de tempo de serviço, como tendo sido exercidas no lugar de origem.
+
+5 - O pessoal que se encontre na situação prevista no n.º 3 e, bem assim, os trabalhadores da NAV, E. P., ou da ANA, S. A., que, nos termos do n.º 1, passem a exercer funções no Estado, institutos públicos, autarquias locais ou empresas públicas podem optar pela remuneração auferida no seu quadro de origem ou pela correspondente às funções que vão desempenhar.
+
+6 - Quando se trate do exercício de cargos nos órgãos estatutários da NAV, E. P., ou da ANA, S. A., o período de requisição ou de comissão de serviço não será inferior ao do período do mandato.
+
+###### Artigo 23.º — Cadastro dos bens dominiais
+
+A NAV, E. P., e a ANA, S. A., deverão manter permanentemente actualizado o cadastro dos bens do domínio público aeroportuário que se encontrem sob sua administração, ficando obrigadas a fornecer à Direcção-Geral do Património, em tempo oportuno e nas formas apropriadas, os elementos necessários à actualização do inventário geral e inventário central de bens.
+
+### Capítulo V — Disposições finais e transitórias
+
+###### Artigo 24.º — Registo, isenções
+
+1 - O presente diploma e o despacho conjunto a que se refere o n.º 3 do artigo 7.º constituem título bastante para a comprovação do que nele se dispõe, para todos os efeitos legais, incluindo os de registo.
+
+2 - Os actos de registo serão realizados pelas conservatórias ou repartições competentes mediante simples comunicação subscrita, consoante os casos, por dois membros do conselho de administração da NAV, E. P., ou por dois membros do conselho de administração da ANA, S. A.
+
+3 - São isentos de taxas e emolumentos devidos a quaisquer entidades de âmbito nacional ou local, designadamente ao Registo Nacional de Pessoas Colectivas e às conservatórias do registo predial ou comercial, todos os actos a praticar para execução do disposto neste diploma, incluindo os registos das nomeações de órgãos estatutários da NAV, E. P., e da ANA, S. A.
+
+4 - São isentos de taxas e emolumentos devidos às entidades referidas no número anterior os actos relativos a aumentos de capital da ANA, S. A., desde que as respectivas escrituras públicas sejam outorgadas até ao termo do prazo de dois anos contados desde a data de entrada em vigor do presente diploma.
+
+5 - A isenção de emolumentos concedida pelo presente diploma, com respeito a quaisquer actos notariais e de registo, não abrange os emolumentos pessoais, nem as importâncias correspondentes à participação emolumentar normalmente devida aos notários, conservadores e oficiais do registo e do notariado pela sua intervenção nos actos.
+
+6 - A NAV, E. P., e a ANA, S. A., ficam isentas de todas e quaisquer custas judiciais nos processos pendentes contra a ANA, E. P., ou que venham a ser propostos contra aquelas empresas, desde que os mesmos tenham como objecto a titularidade de bens, sob sua gestão, inerentes à exploração aeroportuária e aos serviços de navegação aérea.
+
+7 - A isenção prevista no número anterior abrange igualmente todos os incidentes processuais e implica a imediata libertação de quaisquer fianças bancárias que a ANA, E. P., tenha prestado para garantia de preparos.
+
+###### Artigo 25.º — Competências transitórias
+
+1- Até que, nos termos do artigo 10.º do Decreto-Lei n.º 133/98, de 15 de Maio, esteja concluída a transferência para o Instituto Nacional de Aviação Civil (INAC) das competências cometidas à ANA, E. P., pelo n.º 6 do artigo 3.º do Decreto-Lei n.º 246/79, de 25 de Julho, com a redacção que lhe foi introduzida pelo artigo 21.º do Decreto-Lei n.º 121/94, de 14 de Maio, tais competências são exercidas pela NAV, E. P., e pela ANA, S. A., nos seguintes termos:
+
+a) As competências previstas nas alíneas a), b), c), e d) do referido n.º 6 são exercidas pela NAV, E. P., quanto aos sistemas e infra-estruturas de navegação aérea e pela ANA, S. A., relativamente às infra-estruturas aeroportuárias;
+
+b) As competências previstas nas alíneas e) e f) daquela disposição são exercidas pela NAV, E. P.
+
+2 - Os bens de domínio público aeroportuário sob administração da ANA, S. A., e da NAV, E. P., relativamente aos quais subsista, à data da entrada em vigor do presente diploma, qualquer litígio judicial que tenha como objecto a titularidade daqueles bens, não poderão ser desfectados do domínio público até à resolução definitiva do respectivo processo judicial.
+
+> Alterado pelo/a [Lei n.º 35/99 - Diário da República n.º 122/1999, Série I-A de 1999-05-26](https://diariodarepublica.pt/dr/detalhe/lei/35-1999-316947), em vigor a partir de 1999-05-31
+
+###### Artigo 26.º — Entrada em vigor
+
+1 - O presente diploma entra em vigor 30 dias após a data da sua publicação, salvo o disposto nos números seguintes, os quais entram em vigor no dia imediato ao da publicação.
+
+2 - No prazo máximo de 15 dias contados desde a data da publicação do presente diploma compete ao conselho de gerência da ANA, E. P., adoptar as medidas que se imponham para a entrada em funcionamento da NAV, E. P., e da ANA, S. A., nomeadamente os critérios da transferência do pessoal a que se referem os artigos 19.º a 21.º, propondo à tutela, se for caso disso, a regulamentação que eventualmente se revele necessária para a execução do presente diploma.
+
+3 - As medidas atrás referidas compreendem, nomeadamente, a elaboração de:
+
+a) Lista dos trabalhadores da ANA, E. P., incluindo os que se encontrem a desempenhar funções nessa empresa ao abrigo do regime de requisição previsto no Decreto-Lei n.º 209/84, de 26 de Junho, e que serão transferidos para a NAV, E. P., e a lista daqueles que permanecem na ANA, S. A.;
+
+b) Lista dos elementos patrimoniais a destacar da ANA, E. P., nos termos do artigo 7.º e os respectivos valores contabilísticos, bem como a identificação dos bens do domínio público que ficarão sob administração da NAV, E. P.;
+
+c) Minutas de acordos e protocolos que se torne necessário celebrar entre a NAV, E. P., e a ANA, S. A., compreendendo designadamente os que visem disciplinar a utilização comum de determinados bens e os que se destinem a assegurar uma adequada articulação entre as actividades aeroportuárias e as de navegação aérea;
+
+d) Proposta relativa à definição das responsabilidades da ANA, E. P., para com os seus pensionistas que deverão ser transferidas para a NAV, E. P., e a ANA, S. A.;
+
+e) Proposta relativa à divisão do património do fundo de pensões dos trabalhadores integrados no quadro especial criado pelo artigo 6.º do Decreto-Lei n.º 133/98, de 15 de Maio, bem como do património do fundo de pensões de complemento de reforma;
+
+f) Balanços previsionais que reflictam a situação económico-financeira da NAV, E. P., e da ANA, S. A., após a cisão da ANA, E. P., e as eventuais medidas de protecção dos direitos dos credores da empresa cinditária e da transformada;
+
+g) Requerimentos de benefícios fiscais previstos na lei, designadamente no Decreto-Lei n.º 168/90, de 24 de Maio, e que sejam aplicáveis à cisão operada pelo presente diploma.
+
+4 - As listas, minutas e propostas referidas nas alíneas a) e c) do número anterior serão aprovadas por despacho do Ministro do Equipamento, do Planeamento e da Administração do Território, e a lista, propostas e demais documentos previstos nas alíneas b), d), e), f) e g) do mesmo número, por despacho conjunto dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território.
+
+###### Artigo 27.º — Efeitos de natureza fiscal
+
+Os efeitos de natureza fiscal decorrentes da cisão e transformação da ANA, E. P., e bem assim os pressupostos de qualquer acto que impliquem a necessidade de consideração das contas de exploração da ANA, E. P., são reportados, num caso e noutro, a 1 de Janeiro do ano da entrada em vigor do presente diploma.
+
+###### Artigo 28.º — Norma revogatória
+
+Sem prejuízo da aplicação do disposto no artigo 25.º, é revogado o Decreto-Lei n.º 246/79, de 25 de Julho.
+
+Visto e aprovado em Conselho de Ministros de 28 de Outubro de 1998. - António Manuel de Oliveira Guterres - José Veiga Simão - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim.
+
+Promulgado em 26 de Novembro de 1998.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 3 de Dezembro de 1998.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## Anexo I — ESTATUTOS DA NAV, E. P.
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Natureza, denominação, sede e duração
+
+1 - A entidade pública empresarial Navegação Aérea de Portugal - NAV Portugal, E. P. E., designada abreviadamente NAV Portugal, E. P. E., é uma pessoa colectiva de direito público dotada de autonomia administrativa e financeira e de património próprio.
+
+2 - A NAV, E. P., tem sede em Lisboa, no Aeroporto de Lisboa, e poderá estabelecer e encerrar qualquer tipo de representação ou instalações onde e quando for necessário ou conveniente à prossecução dos seus fins, em qualquer ponto do território nacional ou no estrangeiro.
+
+3 - A duração da NAV, E. P., é por tempo indeterminado.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2003 - Diário da República n.º 90/2003, Série I-A de 2003-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2003-239590), em vigor a partir de 2003-04-17
+
+###### Artigo 2.º — Legislação aplicável
+
+A NAV Portugal, E. P. E., rege-se pelas normas legais que lhe sejam especialmente aplicáveis, pelos presentes Estatutos e respetivos regulamentos de execução, observando-se nos casos omissos o disposto no Decreto-Lei n.º 133/2013, de 17 de dezembro, na sua redação atual, e demais legislação aplicável às empresas públicas.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2025 - Diário da República n.º 63/2025, Série I de 2025-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2025-913048491), em vigor a partir de 2025-04-05
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2003 - Diário da República n.º 90/2003, Série I-A de 2003-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2003-239590), em vigor a partir de 2003-04-17
+
+###### Artigo 3.º — Objecto
+
+1 - Constitui objecto principal da NAV, E. P., o serviço público de navegação aérea para apoio à aviação civil, assegurando a gestão, exploração e desenvolvimento dos sistemas de navegação aérea, nele se compreendendo os serviços de gestão de tráfego aéreo e actividades com eles conexas e pelos mesmos exigidos, em cumprimento das normas de convenções internacionais ou de organizações internacionais de aviação civil de que Portugal seja respectivamente subscritor ou Estado membro.
+
+2 - Acessoriamente, poderá a empresa explorar actividades e efectuar operações comerciais e financeiras relacionadas directa ou indirectamente, no todo ou em parte, com o objecto principal ou que sejam susceptíveis de facilitar ou favorecer a sua realização.
+
+3 - O Governo poderá cometer à empresa especiais obrigações de serviço público, de que resultem reduções e isenções de taxas, bem como o exercício de tarefas e actividades estruturalmente deficitárias.
+
+### Capítulo II — Órgãos da empresa, composição, competência e funcionamento
+
+###### Artigo 4.º — Órgãos
+
+São órgãos da NAV Portugal, E. P.E.:
+
+a) O conselho de administração;
+
+b) O conselho fiscal;
+
+c) O revisor oficial de contas ou sociedade de revisores oficiais de contas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 75/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2020-143741480), em vigor a partir de 2020-09-26
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2003 - Diário da República n.º 90/2003, Série I-A de 2003-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2003-239590), em vigor a partir de 2003-04-17
+
+###### Artigo 5.º — Conselho de administração
+
+1 - O conselho de administração é um órgão colegial composto por um presidente e até três vogais, podendo ainda ter um vice-presidente, sendo assegurado um número ímpar de membros na sua composição.
+
+2 - Os membros do conselho de administração são nomeados por resolução do Conselho de Ministros, sob proposta dos membros do Governo responsáveis pelas áreas das finanças e dos transportes.
+
+3 - O mandato dos membros do conselho de administração tem a duração de três anos, sendo renovável por iguais períodos, permanecendo aqueles no exercício das suas funções até sua efetiva substituição.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2025 - Diário da República n.º 63/2025, Série I de 2025-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2025-913048491), em vigor a partir de 2025-04-05
+
+###### Artigo 6.º — Competência
+
+1 - Ao conselho de administração compete, em geral, o exercício de todos os direitos e o cumprimento de todos os deveres previstos na lei comercial para os conselhos de administração das sociedades anónimas, sem prejuízo dos poderes da tutela.
+
+2 - Compete em especial ao conselho de administração:
+
+a) Elaborar e propor os objectivos, estratégias e políticas de gestão da empresa e controlar permanentemente a sua execução;
+
+b) Elaborar os planos de actividades e os planos de investimentos e financeiros anuais e plurianuais e os orçamentos anuais, submetendo-os à aprovação do Ministro das Finanças e do ministro da tutela;
+
+c) Elaborar e remeter ao órgão de fiscalização, até 15 de Outubro de cada ano, os projectos de planos de actividades e de orçamento anual de exploração da empresa, a enviar, juntamente com o parecer do referido órgão, até 30 de Novembro, ao Ministro das Finanças e ao ministro da tutela para aprovação;
+
+d) Apresentar à Inspecção-Geral de Finanças os documentos de prestação de contas anuais elaborados com referência a 31 de Dezembro do ano anterior, acompanhados do parecer do órgão de fiscalização, nos prazos previstos na lei comercial para a disponibilização pelas sociedades anónimas das contas aos accionistas;
+
+e) Gerir a actividade da empresa e praticar as operações relativas à prossecução do seu objecto;
+
+f) Deliberar sobre o exercício, modificação ou cessação de actividades acessórias do objecto principal da empresa;
+
+g) Adquirir, vender, trocar, hipotecar ou por qualquer outra forma alienar ou onerar bens que integrem o património próprio da empresa;
+
+h) Tomar e dar de locação quaisquer bens;
+
+i) Contrair empréstimos ou contratar outras formas de financiamento, podendo para o efeito constituir garantias, ónus ou encargos sobre bens e direitos do património da empresa sem prejuízo do n.º VI) da alínea d) do artigo 14.º;
+
+j) Requerer às autoridades competentes providências de expropriação por utilidade pública, ocupação de terrenos, implantação de traçados e estabelecimento de limitações ao uso de prédios ou de zonas de protecção e de exercício de servidões administrativas;
+
+l) Aprovar a organização técnico-administrativa da empresa e as normas de funcionamento interno, bem como as respeitantes ao pessoal, sem prejuízo dos direitos emergentes de convenções colectivas de trabalho;
+
+m) Negociar convenções colectivas de trabalho;
+
+n) Nomear e exonerar os responsáveis da estrutura orgânica da empresa;
+
+o) Submeter à aprovação da tutela os actos que nos termos da lei ou dos Estatutos o devam ser;
+
+p) Representar a empresa em juízo ou fora dele, activa e passivamente, propor e seguir quaisquer acções, confessá-las ou delas desistir, transigir ou comprometer-se em arbitragem;
+
+q) Constituir mandatários com os poderes que julgar convenientes;
+
+r) Deliberar sobre a participação da empresa no capital de outras empresas ou sociedades;
+
+s) Assegurar, relativamente às actividades exercidas pela empresa, a participação em associações ou organismos nacionais e internacionais relacionados com as mesmas e assegurar ou garantir, junto daquelas associações ou organismos ou em qualquer país, a representação do Estado Português sempre que lhe seja solicitada pelo Governo.
+
+3 - O conselho de administração necessita de parecer favorável da comissão de fiscalização para obrigar a empresa, por empréstimo ou outra forma de financiamento, interno ou externo, por prazo superior a 10 anos.
+
+4 - A competência do conselho de administração para a prática de actos administrativos define-se de acordo com as regras de direito público.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2003 - Diário da República n.º 90/2003, Série I-A de 2003-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2003-239590), em vigor a partir de 2003-04-17
+
+###### Artigo 7.º — Delegação de poderes
+
+O conselho de administração pode:
+
+a) Delegar, sob proposta do presidente, a competência para a prática de actos ou competências de gestão pública ou privada inerentes à realização de quaisquer das suas atribuições em um ou mais dos seus membros;
+
+b) Fazer-se representar por procurador em actos ou contratos em que a NAV, E. P., deva ser parte.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2003 - Diário da República n.º 90/2003, Série I-A de 2003-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2003-239590), em vigor a partir de 2003-04-17
+
+###### Artigo 8.º — Competência dos membros do conselho de administração
+
+1 - Compete ao presidente do conselho de administração a coordenação e orientação geral das actividades do conselho de administração.
+
+2 - Compete em especial ao presidente do conselho de administração:
+
+a) Convocar e presidir às reuniões do conselho de administração, coordenar a sua actividade e promover a execução das suas deliberações;
+
+b) Representar a empresa em juízo e fora dele, quer no plano nacional quer no internacional, quando outros representantes ou mandatários não hajam sido designados;
+
+c) Assegurar as relações da empresa com o Governo e apresentar ao ministro da tutela todos os assuntos que devam ser submetidos à sua apreciação;
+
+d) Assegurar os contactos do conselho de administração com os restantes órgãos da empresa;
+
+e) Convocar reuniões conjuntas do conselho de administração e da comissão de fiscalização sempre que o julgue conveniente e a elas presidir.
+
+3 - Os vogais desempenharão as funções que especialmente lhes forem cometidas pelo conselho de administração.
+
+###### Artigo 9.º — Reuniões, deliberações e actas
+
+1 - O conselho de administração reunirá ordinariamente pelo menos quinzenalmente e extraordinariamente sempre que o seu presidente o convocar por iniciativa própria ou a requerimento de qualquer dos seus membros, sem prejuízo de fixação pelo conselho de calendário de reuniões com maior frequência.
+
+2 - A validade das deliberações depende da presença nas reuniões da maioria dos membros do conselho, não podendo estes abster-se de votar, nem fazê-lo por correspondência ou procuração.
+
+3 - Devem ser lavradas actas de todas as reuniões, em livro próprio, assinadas por todos os membros do conselho presentes.
+
+4 - O presidente do conselho de administração ou o seu substituto legal têm voto de qualidade e poderão opor o seu veto a quaisquer deliberações que reputem contrárias à lei, aos Estatutos, aos regulamentos internos da empresa, à política definida pela tutela ou aos legítimos interesses do Estado, com a consequente suspensão da executoriedade da deliberação, até que sobre esta se pronuncie o ministro da tutela.
+
+5 - A suspensão referida no número anterior finda com a confirmação do acto pelo ministro da tutela ou pelo decurso do prazo de oito dias sobre o seu conhecimento, sem que a seu respeito tenha emitido qualquer juízo.
+
+6 - A confirmação do veto acarreta a ineficácia da deliberação.
+
+###### Artigo 10.º — Vinculação da empresa
+
+1 - A NAV, E. P., fica obrigada pelos actos praticados em seu nome:
+
+a) Pela assinatura conjunta de dois membros do conselho de administração;
+
+b) Pela assinatura de um membro do conselho de administração, no âmbito da delegação de poderes;
+
+c) Pela assinatura de mandatários, no âmbito dos poderes que lhe tenham sido conferidos e nos limites das respectivas procurações.
+
+2 - Tratando-se de títulos representativos de obrigações, de outros direitos de crédito sobre a empresa e de outros documentos emitidos em grande número, as assinaturas podem ser de chancela.
+
+###### Artigo 11.º — Conselho fiscal e revisor oficial de contas
+
+1 - A fiscalização e o controlo da legalidade da gestão financeira e patrimonial da NAV Portugal, E. P. E., competem a um conselho fiscal e a um revisor oficial de contas ou uma sociedade de revisores oficiais de contas que não seja membro daquele órgão, a designar obrigatoriamente de entre os auditores registados na Comissão do Mercado de Valores Mobiliários.
+
+2 - O conselho fiscal é constituído por três membros efetivos, sendo um deles o presidente do órgão, e por um suplente.
+
+3 - Os membros do conselho fiscal são nomeados por despacho dos membros do Governo responsáveis pelas áreas das finanças e da tutela setorial, que fixa a respetiva remuneração, por um período de três anos, renovável nos termos da lei.
+
+4 - O revisor oficial de contas é nomeado, sob proposta fundamentada do conselho fiscal, por despacho dos membros do Governo responsáveis pelas áreas das finanças e da tutela setorial, que fixa a respetiva remuneração, tendo o mandato a duração de três anos, renovável nos termos da lei.
+
+5 - Cessando o mandato do conselho fiscal e do revisor oficial de contas, mantêm-se os titulares em exercício de funções até à designação dos respetivos substitutos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 75/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2020-143741480), em vigor a partir de 2020-09-26
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2003 - Diário da República n.º 90/2003, Série I-A de 2003-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2003-239590), em vigor a partir de 2003-04-17
+
+###### Artigo 12.º — Competências do órgão de fiscalização
+
+1 - Compete ao conselho fiscal o exercício de todos os direitos e o cumprimento de todos os deveres previstos na lei comercial para os conselhos fiscais das sociedades anónimas e, em especial:
+
+a) Fiscalizar a gestão e o cumprimento das normas reguladoras da actividade da empresa, tendo em vista, nomeadamente, a realização dos objectivos fixados nos orçamentos anuais;
+
+b) Emitir parecer sobre os documentos de prestação de contas da empresa, designadamente verificar a exactidão do balanço, da demonstração de resultados, da conta de exploração e dos restantes elementos a apresentar anualmente pelo conselho de administração, bem como sobre o relatório anual do referido conselho;
+
+c) Pronunciar-se sobre qualquer assunto de interesse para a empresa que seja submetido à sua apreciação pelo conselho de administração;
+
+d) Dar conhecimento aos órgãos competentes das irregularidades que apurar na gestão da empresa;
+
+e) Pronunciar-se sobre a legalidade e conveniência dos actos do conselho de administração nos casos em que a lei exigir a sua aprovação ou concordância.
+
+f) Dar parecer prévio à realização de operações de financiamento ou celebração de atos ou negócios jurídicos dos quais resultem obrigações para a NAV Portugal, E. P. E., superiores a 5 % do ativo líquido, salvo nos casos em que os mesmos tenham sido aprovados no plano de atividades e orçamento.
+
+2 - Compete ao revisor oficial de contas o dever de proceder a todos os exames e verificações necessários à revisão e certificação legais das contas, bem como exercer as seguintes funções:
+
+a) Verificar da regularidade dos livros, registos contabilísticos e documentos que lhe servem de suporte;
+
+b) Verificar, quando o julgue conveniente e pela forma que entenda adequada, a extensão da caixa e as existências de qualquer espécie de bens ou valores pertencentes à empresa ou por ela recebidos em garantia, depósito ou outro título;
+
+c) Verificar a exatidão dos documentos de prestação de contas;
+
+d) Verificar se os critérios valorimétricos adotados pela NAV Portugal, E. P. E., conduzem a uma correta avaliação do património e dos resultados;
+
+e) Elaborar, a pedido do conselho fiscal, revisão limitada das demonstrações financeiras integradas nos relatórios trimestrais e no Plano de Atividades e Orçamento, elaborados e apresentados pelo conselho de administração.
+
+3 - Com base nos relatórios trimestrais elaborados pelo conselho de administração, o conselho fiscal deve emitir um relatório sucinto que reflita os controlos efetuados e as eventuais anomalias detetadas, bem como os eventuais desvios verificados em relação aos orçamentos e a identificação das respetivas causas, o qual deve ser enviado aos membros do Governo responsáveis pelas áreas das finanças e da tutela setorial.
+
+4 - Com base na proposta de plano de atividades e orçamento apresentada pelo conselho de administração, o conselho fiscal deve emitir um relatório e parecer ao mesmo, o qual deve ser enviado aos membros do Governo responsáveis pelas áreas das finanças e da tutela setorial.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 75/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2020-143741480), em vigor a partir de 2020-09-26
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2003 - Diário da República n.º 90/2003, Série I-A de 2003-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2003-239590), em vigor a partir de 2003-04-17
+
+### Capítulo III — Intervenção do Governo
+
+###### Artigo 13.º — Finalidade e âmbito
+
+Sem prejuízo da autonomia legal e estatutária conferida à empresa, cabe ao Governo definir os objectivos gerais a prosseguir pela NAV, E. P., e o enquadramento no qual se deve desenvolver a respectiva actividade, de modo a assegurar a sua harmonização com as políticas globais e sectoriais nos termos definidos na lei e ainda com as políticas e orientações no âmbito da navegação aérea definidas pelos organismos ou organizações internacionais em que Portugal esteja representado ou seja Estado membro.
+
+###### Artigo 14.º — Tutela económica e financeira
+
+A tutela económica e financeira da NAV, E. P., é exercida pelo Ministro das Finanças e pelo ministro da tutela e compreende:
+
+a) A definição dos objectivos básicos a prosseguir pela empresa, designadamente para efeitos de preparação dos planos de investimentos e financiamentos e dos orçamentos;
+
+b) O poder de exigir todas as informações e documentos julgados úteis para acompanhar a actividade da empresa;
+
+c) O poder de determinar inspecções ou inquéritos ao funcionamento da empresa ou a certos aspectos deste, independentemente da existência de indícios de prática de irregularidades;
+
+d) O poder de autorizar ou aprovar:
+
+I) Os planos de investimento e respectivos planos de financiamento;
+
+II) Os orçamentos anuais de exploração, de investimento e financeiros, bem como as respectivas actualizações que impliquem reduções de resultados previsionais e acréscimo de despesas de investimento;
+
+III) Os documentos relativos à prestação de contas, aplicação de resultados, constituição e utilização de reservas;
+
+IV) As taxas aeronáuticas que forem devidas pela prestação do serviço público assegurado pela empresa;
+
+V) A política geral de preços e taxas proposta pelo conselho de administração, a praticar na exploração das actividades não incluídas no número anterior;
+
+VI) A contratação de empréstimos em moeda com curso legal em Portugal, por prazo superior a 10 anos, ou em moeda estrangeira, bem como a emissão de obrigações, estabelecendo as respectivas condições gerais;
+
+VII) Os princípios a que deve obedecer a reavaliação do activo e os respectivos coeficientes, bem como os critérios de reintegração e amortização dos bens;
+
+VIII) As dotações para capital e outras verbas a conceder pelo Orçamento do Estado e fundos autónomos;
+
+IX) Os contratos-programa e os contratos de gestão;
+
+X) Os demais actos que, nos termos da legislação aplicável, necessitem de autorização tutelar.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2003 - Diário da República n.º 90/2003, Série I-A de 2003-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2003-239590), em vigor a partir de 2003-04-17
+
+### Capítulo IV — Gestão patrimonial e financeira e regime de exploração
+
+###### Artigo 15.º — Princípios de gestão
+
+1 - A gestão patrimonial e financeira da NAV, E. P., deve realizar-se por forma a assegurar a sua viabilidade económica e o seu equilíbrio financeiro, devendo aplicar as regras legais, o disposto nestes Estatutos e os princípios da boa gestão empresarial.
+
+2 - Sempre que se verifiquem as situações previstas no n.º 3 do artigo 3.º destes Estatutos, o Estado poderá compensar a empresa pelos encargos ou redução de receitas daí resultantes.
+
+###### Artigo 16.º — Património e bens dominiais
+
+1 - O património inicial da NAV, E. P., é constituído pelos valores patrimoniais activos e passivos objecto das transferências previstas no artigo 7.º do decreto-lei de que estes Estatutos são parte integrante.
+
+2 - Constitui ainda património da empresa o conjunto de bens adquiridos para ou no exercício da sua actividade, podendo administrá-lo e dele dispor livremente sem sujeição às normas relativas ao domínio privado do Estado.
+
+3 - A empresa administra ainda os bens do domínio público do Estado afectos às suas actividades, devendo manter actualizado o respectivo cadastro.
+
+4 - Os bens dominiais afectos à exploração do serviço público de navegação aérea que se encontrem sob administração da NAV, E. P., bem como todos os bens que ela adquirir por título privado ou público e que forem afectos àquele domínio, ingressarão no património da empresa, mediante declaração do conselho de administração e parecer técnico favorável do Instituto Nacional de Aviação Civil e da Direcção-Geral do Património, sempre que, por qualquer motivo, sejam desafectados.
+
+5 - Excluem-se do disposto no número anterior os terrenos que não hajam sido adquiridos pela Empresa Pública Aeroportos e Navegação Aérea, ANA, E. P.
+
+###### Artigo 17.º — Reavaliação do activo imobilizado
+
+1 - A NAV, E. P., procederá periodicamente à reavaliação do activo imobilizado próprio ou do domínio público afecto à sua actividade, com o objectivo de obter uma mais correcta correspondência entre os seus valores a custos de substituição e os contabilísticos.
+
+2 - A amortização, reintegração e reavaliação do activo imobilizado serão efectuadas de acordo com critérios aprovados pelos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território.
+
+3 - O valor anual das amortizações e reintegração do activo imobilizado reavaliado, incluindo as que incidem sobre os bens do domínio público afectos à actividade da NAV, E. P., constitui encargo de exploração.
+
+###### Artigo 18.º — Capital estatutário
+
+1 - O capital estatutário da NAV, E. P. E., é de (euro) 25000000.
+
+2 - O capital estatutário poderá ser reforçado com as dotações que como tal forem inscritas no Orçamento do Estado.
+
+3 - O capital estatutário pode ser aumentado por entradas patrimoniais ou por incorporação de reservas.
+
+4 - O capital estatutário só pode ser aumentado ou reduzido por decisão conjunta do Ministro das Finanças e do ministro da tutela.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2003 - Diário da República n.º 90/2003, Série I-A de 2003-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2003-239590), em vigor a partir de 2003-04-17
+
+###### Artigo 19.º — Receitas
+
+1 - Constituem receitas da NAV, E. P.:
+
+a) As taxas de rota devidas por cada voo efectuado no espaço aéreo das regiões de informação de voo sob jurisdição de Portugal, de acordo com os procedimentos resultantes da aplicação das normas e recomendações da Organização da Aviação Civil Internacional;
+
+b) Outras taxas ou receitas resultantes da sua actividade, designadamente as devidas pelas operações de controlo de tráfego aéreo de aproximação e aeródromo, incluindo a utilização das ajudas-rádio inerentes à aterragem e descolagem;
+
+c) Os rendimentos de bens próprios;
+
+d) As comparticipações, dotações, subsídios e compensações financeiras do Estado ou de outras entidades públicas;
+
+e) O produto da alienação de bens próprios e da constituição de direitos sobre eles;
+
+f) O produto de doações, heranças ou legados que lhe sejam destinados;
+
+g) As compensações referidas no n.º 2 do artigo 15.º destes Estatutos;
+
+h) Quaisquer outros rendimentos ou valores que provenham da sua actividade ou que, por lei ou contrato, devam pertencer-lhe.
+
+2 - As taxas a que se refere a alínea a) do número anterior e o respectivo sistema de aplicação regem-se pelas normas específicas da Organização Europeia para a Segurança da Navegação Aérea (EUROCONTROL), de que Portugal é Estado membro, conforme a política comum na matéria estabelecida nas convenções internacionais relativas àquela organização, e bem assim pelo disposto no Decreto-Lei n.º 461/88, de 14 de Dezembro, com a nova redacção do seu artigo 4.º dada pelo artigo 8.º do decreto-lei de que estes Estatutos são parte integrante e por outras disposições de natureza regulamentar que sejam aplicadas na matéria.
+
+3 - As taxas a que se refere a alínea b) do n.º 1 deste artigo são fixadas, nos termos da lei aplicável, pelo ministro da tutela, sob proposta da empresa e obtido parecer prévio do Instituto Nacional de Aviação Civil.
+
+###### Artigo 20.º — Financiamentos
+
+Sem prejuízo dos poderes tutelares a que está sujeita, a NAV Portugal, E. P. E., pode contrair financiamentos, internos ou externos, a curto, médio ou longo prazos, em moeda com curso legal em Portugal ou em moeda estrangeira, bem como emitir obrigações ou outros títulos representativos de direitos de crédito sobre a empresa, em qualquer modalidade e forma legalmente admissíveis.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2003 - Diário da República n.º 90/2003, Série I-A de 2003-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2003-239590), em vigor a partir de 2003-04-17
+
+###### Artigo 21.º — Instrumentos de gestão previsional e de controlo de gestão
+
+1 - A gestão económica e financeira da NAV, E. P., é disciplinada pelos instrumentos de gestão previsional previstos na lei e, designadamente, por:
+
+a) Planos de actividades e financeiros, anuais e plurianuais, os quais devem estabelecer a estratégia a seguir pela empresa, sendo reformulados sempre que as circunstâncias o justifiquem, incluindo o programa de investimentos e respectivas fontes de financiamento, e, para um período bienal, a conta de exploração, o balanço e o plano financeiro provisionais, constituindo, em relação ao primeiro ano, uma síntese do orçamento anual;
+
+b) Relatórios trimestrais de execução orçamental a elaborar e a enviar ao Ministro das Finanças e ao ministro da tutela, nas condições que vierem a ser estabelecidas por despacho do Ministro das Finanças.
+
+2 - Os planos financeiros devem prever, em relação aos períodos a que respeitam, a evolução das receitas e despesas, os investimentos a realizar e as fontes de financiamento a que se pretende recorrer e devem ser elaborados com respeito pelos pressupostos macroeconómicos, demais directrizes globais definidas pelo Governo, designadamente as orientações estratégicas a que se refere o artigo 11.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, e, quando for caso disso, pelos contratos-programa celebrados, sendo remetidos ao Ministro das Finanças e ao ministro da tutela para aprovação, acompanhados de parecer do órgão de fiscalização da NAV Portugal, E. P. E., até 30 de Novembro.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2003 - Diário da República n.º 90/2003, Série I-A de 2003-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2003-239590), em vigor a partir de 2003-04-17
+
+###### Artigo 22.º — Reservas e fundos
+
+1 - A NAV, E. P., deve fazer as reservas julgadas necessárias, sendo, porém, obrigatória a constituição de:
+
+a) Reserva geral;
+
+b) Reserva para investimentos;
+
+c) Fundo para fins sociais.
+
+2 - Uma percentagem não inferior a 10% dos resultados de cada exercício, apurados de acordo com as normas contabilísticas vigentes, é destinada à constituição da reserva geral.
+
+3 - A reserva geral pode ser utilizada para cobrir eventuais prejuízos do exercício.
+
+4 - Integram a reserva para investimentos, entre outras receitas:
+
+a) A parte dos resultados apurados em cada exercício que lhe for anualmente destinada;
+
+b) As receitas provenientes de comparticipações, dotações, subsídios, subvenções ou quaisquer compensações financeiras de que a empresa seja beneficiária e destinadas a esse fim;
+
+c) Os rendimentos especialmente afectos a investimentos.
+
+5 - Integra o fundo para fins sociais a parte dos resultados apurados em cada exercício que lhe for anualmente destinada.
+
+###### Artigo 23.º — Contabilidade e prestação de contas
+
+1 - A contabilidade da NAV Portugal, E. P. E., deve ser organizada por forma a constituir um meio eficiente de gestão, permitindo, designadamente:
+
+a) Apurar os custos das diversas actividades da empresa, nomeadamente os relativos à aquisição, construção e manutenção dos bens de natureza patrimonial ou dominial que integrem o activo imobilizado;
+
+b) Apurar o valor das amortizações dos bens afectos às actividades da empresa, incluindo os do domínio público sob sua administração, com base em coeficiente aprovado nos termos da subalínea vii) da alínea d) do artigo 14.º, os quais devem reflectir a vida útil esperada daqueles bens;
+
+c) Assegurar um controlo orçamental permanente, nomeadamente no que respeita à exploração e aos planos de investimento.
+
+2 - A NAV Portugal, E. P. E., deve elaborar, com referência a 31 de Dezembro de cada ano, os documentos seguintes:
+
+a) Relatório do conselho de administração, dando conta da forma como foram atingidos os objectivos da empresa e analisando a eficiência desta nos vários domínios de actuação;
+
+b) Balanço, demonstração de resultados e respectivo anexo;
+
+c) Discriminação das participações no capital de empresas e sociedades e dos financiamentos realizados a médio e longo prazos;
+
+d) Demonstração de origem e aplicação de fundos;
+
+e) Proposta de aplicação de resultados;
+
+f) Parecer do conselho fiscal.
+
+3 - O balanço anual deve ser organizado por forma a separar, no activo imobilizado da empresa, os bens dominiais dos patrimoniais, tendo em vista o seu regime e responsabilidade pelo passivo.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2003 - Diário da República n.º 90/2003, Série I-A de 2003-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2003-239590), em vigor a partir de 2003-04-17
+
+###### Artigo 24.º — Regime de exploração
+
+1 - Ao conselho de administração da NAV, E. P., enquanto responsável por um serviço público, compete praticar todos os actos administrativos definitivos e executórios, cuja prática, por lei ou regulamento, coubesse aos órgãos governamentais no exercício das atribuições relativas à administração das infra-estruturas e dos serviços de apoio à navegação aérea, podendo para o efeito requisitar a força pública necessária à execução das suas deliberações.
+
+2 - A executoriedade dos actos administrativos praticados pelo conselho de administração da NAV, E. P., não depende, salvo nos casos expressamente previstos na lei, de nenhum controlo, visto ou aprovação de outras entidades ou órgãos.
+
+### Capítulo V — Agrupamento, fusão, cisão e liquidação
+
+###### Artigo 25.º — Agrupamento
+
+A NAV, E. P., pode agrupar-se com outras empresas públicas ou estabelecer outras formas de cooperação, mediante autorização do Governo.
+
+###### Artigo 26.º — Transformação, fusão, cisão ou extinção
+
+A transformação, fusão, cisão ou liquidação da NAV Portugal, E. P. E., são actos da competência do Governo, sendo-lhes aplicável o regime previsto no Decreto-Lei n.º 558/99, de 17 de Dezembro
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2003 - Diário da República n.º 90/2003, Série I-A de 2003-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2003-239590), em vigor a partir de 2003-04-17
+
+### Capítulo VI — Disposições finais
+
+###### Artigo 27.º — Participação em organizações
+
+A NAV, E. P., pode fazer parte de associações ou organismos nacionais ou internacionais, podendo desempenhar neles os cargos para que for eleita ou designada.
+
+###### Artigo 28.º — Tribunais competentes
+
+1 - São da competência dos tribunais administrativos os julgamentos dos recursos dos actos dos órgãos da NAV, E. P., que se encontrem sujeitos a um regime de direito público, bem como o julgamento das acções sobre validade, interpretação ou execução dos contratos administrativos celebrados pela empresa ou tendentes à efectivação das responsabilidades da empresa e dos seus órgãos, no domínio dos actos de gestão pública.
+
+2 - O disposto no número anterior não prejudica o conhecimento, por parte dos demais tribunais judiciais, das questões, designadamente de natureza cível ou tributária, que sejam da sua competência em razão da matéria.
+
+## Anexo II — ESTATUTOS DA ANA - AEROPORTOS DE PORTUGAL, S. A.
+
+### Capítulo I — Denominação, sede, objecto e duração
+
+###### Artigo 1.º — Tipo, denominação e regime
+
+1 - A sociedade adopta a forma de sociedade anónima e a denominação de ANA - Aeroportos de Portugal, S. A.
+
+2 - A sociedade rege-se pelo decreto-lei que aprova os presentes Estatutos, por estes, pelas normas reguladoras das sociedades comerciais anónimas e pelas normas especiais cuja aplicação decorra do objecto da sociedade.
+
+###### Artigo 2.º — Sede
+
+A sociedade tem a sua sede em Lisboa, no Edifício 120, Rua D, Aeroporto de Lisboa, e pode ser deslocada, dentro do concelho ou para concelho limítrofe, por simples deliberação.
+
+###### Artigo 3.º — Objecto
+
+1 - A ANA - Aeroportos de Portugal, S. A., tem por objecto principal a exploração, em regime de concessão, do serviço público aeroportuário de apoio à aviação civil em Portugal.
+
+2 - Acessoriamente, poderá a sociedade explorar actividades e realizar operações comerciais e financeiras relacionadas directa ou indirectamente, no todo ou em parte, com o objectivo principal ou que sejam susceptíveis de facilitar ou favorecer a sua realização.
+
+###### Artigo 4.º — Constituição e participação noutras pessoas colectivas
+
+Para o efeito do disposto no artigo anterior, a ANA, S. A., pode:
+
+a) Constituir ou participar em qualquer tipo de sociedades de responsabilidade limitada, ainda que de objecto diferente do seu, incluindo as sociedades reguladas por leis especiais e as sociedades anónimas de que ela seja inicialmente a única titular, nos termos do n.º 1 do artigo 488.º do Código das Sociedades Comerciais;
+
+b) Participar em agrupamentos complementares de empresas ou agrupamentos europeus de interesse económico.
+
+###### Artigo 5.º — Duração
+
+A sociedade durará por tempo indeterminado.
+
+### Capítulo II — Capital social e acções
+
+###### Artigo 6.º — Capital social
+
+O capital social é de 15000000000$00 e encontra-se integralmente realizado pelos valores que integram o património da sociedade.
+
+###### Artigo 7.º — Acções
+
+O capital social é representado por acções com o valor nominal de 1000$00 cada uma, as quais revestem forma escritural e seguem o regime das acções nominativas.
+
+###### Artigo 8.º — Emissão de obrigações e outros títulos de dívida
+
+A emissão de obrigações e de outros títulos representativos de direitos de crédito sobre a sociedade pode ser deliberada pelo conselho de administração, o qual fixará as condições da emissão, quando o respectivo montante não exceder o valor anualmente fixado para o efeito pela assembleia geral, nos termos da alínea f) do n.º 2 do artigo 12.º destes Estatutos.
+
+### Capítulo III — Órgãos sociais, estrutura e disposições comuns
+
+###### Artigo 9.º — Órgãos sociais
+
+São órgãos sociais:
+
+a) A assembleia geral;
+
+b) O conselho de administração;
+
+c) O fiscal único.
+
+###### Artigo 10.º — Remuneração dos membros dos órgãos sociais
+
+As remunerações dos membros dos órgãos sociais e, bem assim, os esquemas de segurança social e de outras prestações suplementares serão fixados pela assembleia geral, a qual poderá constituir para o efeito uma comissão de remunerações composta por três membros eleitos por um período de três anos, reelegíveis uma ou mais vezes.
+
+###### Artigo 11.º — Mandato
+
+1 - A duração do mandato dos membros dos órgãos sociais é de três anos renováveis, contando-se como completo o ano civil em que foram eleitos.
+
+2 - Terminado o mandato para que foram eleitos, os membros dos órgãos sociais mantêm-se em funções até à realização de novas eleições.
+
+### Capítulo IV — Assembleia geral
+
+###### Artigo 12.º — Assembleia geral
+
+1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei e estes Estatutos lhe atribuam competência.
+
+2 - Compete, em especial, à assembleia geral:
+
+a) Eleger a mesa da assembleia geral, os administradores e o fiscal único;
+
+b) Apreciar o relatório do conselho de administração, discutir e votar o balanço, as contas e o parecer do fiscal único e deliberar sobre a aplicação dos resultados do exercício;
+
+c) Deliberar sobre quaisquer alterações aos Estatutos e aumentos de capital;
+
+d) Deliberar sobre as remunerações dos membros dos órgãos sociais, podendo, para o efeito, constituir a comissão a que se refere o artigo 10.º destes Estatutos;
+
+e) Autorizar, com prévio parecer do fiscal único, a aquisição, alienação e oneração de imóveis e, bem assim, a realização de investimentos, quando uns e outros sejam de valor superior a 10% do capital social;
+
+f) Deliberar sobre o limite máximo anual de obrigações e outros títulos representativos de direitos de crédito sobre a sociedade, a emitir por esta;
+
+g) Tratar de qualquer outro assunto para que tenha sido convocada.
+
+###### Artigo 13.º — Mesa da assembleia geral
+
+1 - A mesa da assembleia geral é constituída por um presidente, um vice presidente e um secretário, eleitos pela assembleia geral.
+
+2 - Em caso de falta ou impedimento do presidente, o mesmo será substituído pelo vice-presidente e, se este estiver impedido ou faltar, pelo secretário, observando-se, nos casos omissos, o disposto na lei.
+
+###### Artigo 14.º — Participação na assembleia geral
+
+Os direitos do Estado como accionista da sociedade são exercidos por um representante designado nos termos do n.º 3 do artigo 16.º do decreto-lei de que os presentes Estatutos são parte integrante.
+
+### Capítulo V — Conselho de administração
+
+###### Artigo 15.º — Conselho de administração
+
+1 - O conselho de administração é composto por cinco ou sete administradores, eleitos pela assembleia geral.
+
+2 - O presidente e o vice-presidente do conselho de administração são escolhidos pela assembleia geral de entre os administradores eleitos.
+
+3 - O presidente do conselho de administração tem voto de qualidade.
+
+4 - As vagas ou impedimentos definitivos que ocorrerem no conselho de administração serão preenchidas por cooptação do próprio conselho até que em assembleia geral se proceda à competente eleição.
+
+5 - Os administradores ficam dispensados de caução.
+
+###### Artigo 16.º — Competência do conselho de administração
+
+1 - Ao conselho de administração compete gerir e representar a sociedade, cabendo-lhe nessa medida, e sem prejuízo do exercício das demais competências que lhe sejam conferidas por lei, pelos presentes Estatutos ou pela assembleia geral:
+
+a) Definir os objectivos e as políticas de gestão da sociedade;
+
+b) Elaborar os planos de actividade e financeiros e os orçamentos anuais e plurianuais, bem como as alterações que se revelem necessárias;
+
+c) Gerir os negócios sociais e praticar todos os actos e operações relativos ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
+
+d) Adquirir, alienar, onerar e ceder o gozo de bens móveis;
+
+e) Sem prejuízo do disposto na alínea e) do n.º 2 do artigo 12.º destes Estatutos, adquirir, alienar, onerar e ceder o gozo de bens imóveis de natureza patrimonial e realizar investimentos;
+
+f) Representar a sociedade em juízo e fora dele, activa e passivamente, podendo desistir, transigir e confessar em quaisquer pleitos e, bem assim, celebrar convenções de arbitragem;
+
+g) Constituir sociedades e subscrever, adquirir, onerar e alienar participações sociais;
+
+h) Estabelecer a organização técnico-administrativa da sociedade e as normas de funcionamento interno, designadamente sobre pessoal e a sua remuneração;
+
+i) Constituir mandatários com os poderes que julgue convenientes, incluindo os de substabelecer.
+
+###### Artigo 17.º — Subordinação à assembleia geral
+
+Na gestão das actividades da sociedade, o conselho de administração deve subordinar-se às deliberações da assembleia geral.
+
+###### Artigo 18.º — Delegação de poderes de gestão
+
+1 - Sem prejuízo do disposto na lei quanto à delegação de poderes de gestão em um ou mais dos seus membros, o conselho de administração poderá delegar a gestão corrente da sociedade numa comissão executiva, formada por um número ímpar de administradores, definindo em acta os limites ou condições de tal delegação.
+
+2 - A aquisição, alienação e oneração de imóveis e a realização dos investimentos a que se refere a alínea e) do n.º 2 do artigo 12.º dos presentes Estatutos e, bem assim, a aquisição e alienação de participações noutras sociedades não se incluem nos poderes delegáveis.
+
+###### Artigo 19.º — Presidente do conselho de administração
+
+1 - Compete ao presidente do conselho de administração:
+
+a) Representar o conselho de administração;
+
+b) Coordenar a actividade do conselho e convocar e presidir às respectivas reuniões;
+
+c) Zelar pela correcta execução das deliberações do conselho.
+
+2 - Nas suas faltas e impedimentos, o presidente será substituído pelo vice-presidente e, faltando ou estando impedido este, pelo vogal mais antigo ou, em caso de igual antiguidade, pelo vogal mais velho.
+
+###### Artigo 20.º — Vinculação da sociedade
+
+1 - A sociedade obriga-se:
+
+a) Pela assinatura conjunta de dois administradores;
+
+b) Pela assinatura de um dos administradores dentro dos limites da delegação de poderes conferida pelo conselho;
+
+c) Pela assinatura de procuradores no âmbito e com os limites e condições definidos nas correspondentes procurações.
+
+2 - Nos actos de mero expediente será suficiente a assinatura de um administrador.
+
+3 - Tratando-se de títulos representativos de direitos de crédito sobre a sociedade, designadamente obrigações e papel comercial e outros emitidos em grande número, as assinaturas podem ser de chancela.
+
+###### Artigo 21.º — Reuniões do conselho de administração
+
+1 - O conselho de administração deve reunir semanalmente e ainda sempre que convocado pelo presidente a solicitação de dois administradores ou do fiscal único.
+
+2 - O conselho de administração não pode deliberar sem que esteja presente a maioria dos seus membros, os quais não se poderão eximir de votar.
+
+3 - Não é permitida a representação de mais de um administrador em cada reunião.
+
+4 - Os membros do conselho de administração que não possam estar presentes à reunião poderão, em casos de deliberações consideradas urgentes pelo seu presidente, expressar o seu voto por carta a este dirigida.
+
+### Capítulo VI — Fiscalização da sociedade
+
+###### Artigo 22.º — Fiscal único
+
+1 - A fiscalização da sociedade compete a um fiscal único, o qual deverá ser obrigatoriamente um revisor oficial de contas ou uma sociedade de revisores oficiais de contas.
+
+2 - O fiscal único e o respectivo suplente serão eleitos pela assembleia geral, a qual fixará as respectivas remunerações.
+
+###### Artigo 23.º — Competência
+
+1 - O fiscal único tem a competência, os poderes e os deveres estabelecidos na lei e nestes Estatutos.
+
+2 - Ao fiscal único compete, especialmente:
+
+a) Examinar, sempre que o julgue conveniente e pelo menos uma vez por mês, a escrituração da sociedade;
+
+b) Assistir às reuniões do conselho de administração sempre que o entenda conveniente;
+
+c) Pedir a convocação extraordinária da assembleia geral sempre que o entenda conveniente;
+
+d) Emitir parecer prévio relativamente às deliberações da assembleia geral a que se refere a alínea e) do n.º 2 do artigo 12.º destes Estatutos e, bem assim, aquelas que tenham como objecto a adjudicação de obras e a aquisição de bens e serviços, qualquer que seja o regime de contratação, quando de valor superior a 10% do capital social.
+
+### Capítulo VII — Disposições finais
+
+###### Artigo 24.º — Aplicação dos resultados
+
+1 - Os resultados líquidos apurados no balanço anual da sociedade terão a aplicação que a assembleia geral determinar, deduzidas as verbas que por lei tenham de destinar-se à constituição ou reforço da reserva legal.
+
+2 - A distribuição de dividendos poderá ser inferior a metade do lucro do exercício distribuível.
+
+3 - A sociedade poderá, no decurso do exercício, realizar adiantamentos sobre os lucros.
+
+###### Artigo 25.º — Dissolução da sociedade
+
+A sociedade dissolve-se nos casos previstos na lei.
+
+###### Artigo 26.º — Liquidação do património
+
+Salvo deliberação em contrário da assembleia geral, a liquidação do património, em consequência da dissolução da sociedade, será feita extrajudicialmente através de uma comissão liquidatária, constituída pelos membros do conselho de administração.

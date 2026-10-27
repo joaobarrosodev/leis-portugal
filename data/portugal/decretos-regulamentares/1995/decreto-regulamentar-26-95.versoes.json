@@ -1,0 +1,156 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:566668:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/1995-916945603",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/26-1995-566668",
+ "source_lastmod": "2025-05-07",
+ "versions": [
+  {
+   "date": "1995-09-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "916935011",
+    "916935012",
+    "916935013",
+    "916935014",
+    "916935015",
+    "916935016",
+    "916935017",
+    "916935019",
+    "916935020"
+   ]
+  },
+  {
+   "date": "2015-05-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67198365:por",
+     "title": "Decreto-Lei n.º 78/2015",
+     "published": "2015-05-13",
+     "dre_path": "/dr/detalhe/decreto-lei/78-2015-67198365"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Revoga Artigo 6.º"
+   ],
+   "fragments": [
+    "916935011",
+    "916935012",
+    "916935013",
+    "916935014",
+    "917146816",
+    "916935016",
+    "917146817",
+    "916935018",
+    "916935019",
+    "916935020"
+   ]
+  }
+ ],
+ "fragments": {
+  "916935011": {
+   "fragment_id": "916945604",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 26/95, de 21 de Setembro\n\nA criação da Área de Paisagem Protegida do Sudoeste Alentejano e Costa Vicentina, pelo Decreto-Lei n.º 241/88, de 7 de Julho, correspondeu à necessidade de defender na área do seu território os inestimáveis valores naturais, paisagísticos e culturais, unanimemente reconhecidos pelas Câmaras Municipais de Sines, Odemira, Aljezur e Vila do Bispo.\n\nA verificação de que a zona litoral do Sudoeste de Portugal continua sendo uma das menos adulteradas nos seus aspectos naturais, considerando inclusive o todo europeu, determina que a sua defesa seja uma prioridade nacional, ultrapassando o estrito âmbito municipal.\n\nImpõe-se, portanto, a reclassificação da Área de Paisagem Protegida do Sudoeste Alentejano e Costa Vicentina em Parque Natural, atendendo aos critérios definidos no Decreto-Lei n.º 19/93, de 23 de Janeiro, que estabelece as normas relativas à Rede Nacional de áreas Protegidas.\n\nForam ouvidas as Câmaras Municipais de Sines, Odemira, Aljezur e Vila do Bispo.\n\nAssim:\n\nAo abrigo do disposto no artigo 13.º do Decreto-Lei n.º 19/93, de 23 de Janeiro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "916935012": {
+   "fragment_id": "916945605",
+   "type": 11,
+   "heading": "Artigo 1.º — Criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Criação\n\nÉ criado o Parque Natural do Sudoeste Alentejano e Costa Vicentina, adiante designado como Parque Natural."
+  },
+  "916935013": {
+   "fragment_id": "916945606",
+   "type": 11,
+   "heading": "Artigo 2.º — Limites",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Limites\n\n1 - Os limites do Parque Natural são os fixados no texto e na carta que constituem os anexos I e II ao presente diploma, do qual fazem parte integrante.\n\n2 - As dúvidas eventualmente suscitadas pela leitura da carta que constitui o anexo II ao presente diploma são resolvidas pela consulta do original à escala de 1:25000, arquivado no Instituto da Conservação da Natureza."
+  },
+  "916935014": {
+   "fragment_id": "916945607",
+   "type": 11,
+   "heading": "Artigo 3.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objectivos\n\nSem prejuízo do disposto no artigo 3.º do Decreto-Lei n.º 19/93, de 23 de Janeiro, constituem objectivos específicos da criação do Parque Natural:\n\na) A gestão racional dos recursos naturais, paisagísticos e sócio-económicos, caracterizadores da região, e o desenvolvimento de acções tendentes à salvaguarda dos mesmos, nomeadamente no que respeita aos aspectos paisagísticos, geológicos, geomorfológicos, florísticos e faunísticos;\n\nb) A promoção do desenvolvimento económico e do bem-estar das populações, em harmonia com as leis fundamentais da natureza;\n\nc) A salvaguarda do património arquitectónico, histórico ou tradicional da região, levando a efeito acções de reabilitação do património edificado com especial valor, bem como a promoção de uma arquitectura integrada na paisagem."
+  },
+  "916935015": {
+   "fragment_id": "916945608",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nSão órgãos do Parque Natural:\n\na) A comissão directiva;\n\nb) O conselho consultivo."
+  },
+  "916935016": {
+   "fragment_id": "916945609",
+   "type": 11,
+   "heading": "Artigo 5.º — Comissão directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Comissão directiva\n\n1 - A comissão directiva, composta por um presidente e dois vogais, é o órgão executivo do Parque Natural.\n\n2 - O presidente da comissão directiva é nomeado por despacho do Ministro do Ambiente e Recursos Naturais.\n\n3 - Um dos vogais é designado pelo Instituto da Conservação da Natureza e o outro pelas Câmaras Municipais de Sines, Odemira, Aljezur e Vila do Bispo, as quais dispõem para o efeito do prazo de 60 dias após a entrada em vigor do presente diploma.\n\n4 - O mandato dos titulares da comissão directiva é de três anos.\n\n5 - A comissão directiva reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que for convocada pelo seu presidente.\n\n6 - O presidente tem voto de qualidade."
+  },
+  "916935017": {
+   "fragment_id": "916945610",
+   "type": 11,
+   "heading": "Artigo 6.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conselho consultivo\n\n1 - O conselho consultivo é um órgão de natureza consultiva constituído pelo presidente da comissão directiva, que preside, e por um representante de cada uma das seguintes entidades:\n\na) Ministério da Defesa Nacional;\n\nb) Ministério do Planeamento e da Administração do Território;\n\nc) Ministério da Agricultura;\n\nd) Ministério da Indústria e Energia;\n\ne) Ministério das Obras Públicas, Transportes e Comunicações;\n\nf) Ministério do Comércio e Turismo;\n\ng) Ministério do Ambiente e Recursos Naturais;\n\nh) Ministério do Mar;\n\ni) Câmara Municipal de Sines;\n\nj) Câmara Municipal de Odemira;\n\nl) Câmara Municipal de Aljezur;\n\nm) Câmara Municipal de Vila do Bispo;\n\nn) Universidade de Évora;\n\no) Universidade do Algarve;\n\np) Associações de defesa do ambiente, consideradas em conjunto.\n\n2 - Os representantes das entidades referidas no número anterior são nomeados por despacho do Ministro do Ambiente e Recursos Naturais, sob proposta dos membros do Governo competentes.\n\n3 - O conselho consultivo reúne, ordinariamente, duas vezes por ano e, extraordinariamente, sempre que for convocado pelo presidente, por sua iniciativa ou a solicitação de, pelo menos, dois terços dos seus membros."
+  },
+  "916935019": {
+   "fragment_id": "916945612",
+   "type": 14,
+   "heading": "Anexo I — Descrição de limites",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Descrição de limites\n\n1 - Ribeira da Junqueira, pelo norte até à estrada nacional n.º 120-1, entre o quilómetro 13 e o quilómetro 14.\n\n2 - Estrada nacional n.º 120-1, desde o ponto anterior até ao cruzamento com a estrada municipal n.º 554.\n\n3 - Estrada municipal n.º 554, desde o ponto anterior até ao cruzamento com o caminho municipal n.º 1115.\n\n4 - Caminho municipal n.º 1115, desde o ponto anterior até ao cruzamento com o caminho municipal n.º 1072.\n\n5 - Caminho municipal n.º 1072, desde o ponto anterior até ao cruzamento com a estrada nacional n.º 390 no lugar das Brunheiras, entre o quilómetro 38 e o quilómetro 39.\n\n6 - Estrada nacional n.º 390, das Brunheiras até ao cruzamento com a estrada municipal n.º 532.\n\n7 - Estrada municipal n.º 532, do ponto anterior até ao cruzamento com a estrada nacional n.º 120 em São Luís (cujo aglomerado urbano fica todo incluído).\n\n8 - Estrada nacional n.º 120, de São Luís até ao cruzamento com a estrada nacional n.º 393, incluindo todo o aglomerado urbano de Odemira.\n\n9 - Estrada nacional n.º 393, desde o ponto anterior até ao cruzamento com a estrada nacional n.º 393-1.\n\n10 - Estrada nacional n.º 393-1, desde o ponto anterior até ao cruzamento com a estrada municipal n.º 502-1.\n\n11 - Estrada municipal n.º 502-1, desde o ponto anterior até ao cruzamento com a estrada nacional n.º 120 nas proximidades de São Teotónio.\n\n12 - Estrada nacional n.º 120, desde o ponto anterior até ao cruzamento com o caminho Aljezur-Monchique, incluindo os aglomerados urbanos de Maria Vinagre, Rogil e Igreja Nova.\n\n13 - Caminho anterior, desde o cruzamento com a estrada nacional n.º 120 até Monte da Cruz.\n\n14 - Caminho, desde Monte da Cruz até ao cruzamento com a estrada nacional n.º 120 entre Aljezur e Alfambras.\n\n15 - Estrada nacional n.º 120, desde o ponto anterior até ao cruzamento das Alfambras.\n\n16 - Estrada nacional n.º 268, desde a sua origem nas Alfambras até ao cruzamento com o caminho nas proximidades da Bordeira entre o quilómetro 9 e o quilómetro 10.\n\n17 - Caminho, desde o ponto anterior até à estrada nacional n.º 268, passando por Vilariça e incluindo os aglomerados urbanos de Bordeira e Vilariça, continuando pelo caminho municipal n.º 1135 até à estrada nacional n.º 268.\n\n18 - Estrada nacional n.º 268, desde o ponto anterior até ao cruzamento com a estrada nacional n.º 125 em Vila do Bispo, incluindo o respectivo alomerado urbano.\n\n19 - Actual estrada nacional n.º 125, desde a sua origem em Vila do Bispo até ao ponto de intersecção com o limite administrativo entre os municípios de Vila do Bispo e Lagos, incluindo o aglomerado de Figueira.\n\n20 - Limite administrativo entre os municípios de Vila do Bispo e Lagos, da estrada nacional n.º 125 até à costa, incluindo o aglomerado urbano de Burgau.\n\n21 - O limite marítimo da paisagem protegida é uma faixa de 2 km definida a partir da linha de costa em toda a sua extensão.\n\n22 - Consideram-se como aglomerados urbanos os definidos pelos perímetros urbanos plenamente eficazes de acordo com a legislação em vigor."
+  },
+  "916935020": {
+   "fragment_id": "916945613",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II\n\n(ver documento original)"
+  },
+  "917146816": {
+   "fragment_id": "916945608",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": "2015-05-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015 - Diário da República n.º 92/2015, Série I de 2015-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), em vigor a partir de 2015-05-18"
+   ],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nSão órgãos do Parque Natural:\n\na) A comissão directiva;\n\nb) [Revogada.]\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015 - Diário da República n.º 92/2015, Série I de 2015-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), em vigor a partir de 2015-05-18"
+  },
+  "917146817": {
+   "fragment_id": "916945610",
+   "type": 11,
+   "heading": "Artigo 6.º — Conselho consultivo",
+   "in_force_from": "2015-05-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015 - Diário da República n.º 92/2015, Série I de 2015-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), em vigor a partir de 2015-05-18"
+   ],
+   "markdown": "###### Artigo 6.º — Conselho consultivo\n\n1 - O conselho consultivo é um órgão de natureza consultiva constituído pelo presidente da comissão directiva, que preside, e por um representante de cada uma das seguintes entidades:\n\na) Ministério da Defesa Nacional;\n\nb) Ministério do Planeamento e da Administração do Território;\n\nc) Ministério da Agricultura;\n\nd) Ministério da Indústria e Energia;\n\ne) Ministério das Obras Públicas, Transportes e Comunicações;\n\nf) Ministério do Comércio e Turismo;\n\ng) Ministério do Ambiente e Recursos Naturais;\n\nh) Ministério do Mar;\n\ni) Câmara Municipal de Sines;\n\nj) Câmara Municipal de Odemira;\n\nl) Câmara Municipal de Aljezur;\n\nm) Câmara Municipal de Vila do Bispo;\n\nn) Universidade de Évora;\n\no) Universidade do Algarve;\n\np) Associações de defesa do ambiente, consideradas em conjunto.\n\n2 - Os representantes das entidades referidas no número anterior são nomeados por despacho do Ministro do Ambiente e Recursos Naturais, sob proposta dos membros do Governo competentes.\n\n3 - O conselho consultivo reúne, ordinariamente, duas vezes por ano e, extraordinariamente, sempre que for convocado pelo presidente, por sua iniciativa ou a solicitação de, pelo menos, dois terços dos seus membros.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015 - Diário da República n.º 92/2015, Série I de 2015-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), em vigor a partir de 2015-05-18"
+  },
+  "916935018": {
+   "fragment_id": "916945611",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Presidência do Conselho de Ministros, 19 de Junho de 1995.\n\nManuel Dias Loureiro - António Jorge de Figueiredo Lopes - Luís Francisco Valente de Oliveira - António Duarte Silva - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia - António Baptista Duarte Silva.\n\nPromulgado em 7 de Setembro de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 12 de Setembro de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

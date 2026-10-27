@@ -1,0 +1,1414 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:239224:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2002-178696818",
+ "dre_path": "/dr/detalhe/decreto-lei/10-2002-239224",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2002-01-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "178695110",
+    "178696878",
+    "178696879",
+    "178696880",
+    "178696881",
+    "178696882",
+    "178696883",
+    "178696884",
+    "178696885",
+    "178696886",
+    "178696887",
+    "178696888",
+    "178696889",
+    "178696890",
+    "178696891",
+    "178696892",
+    "178696893",
+    "178696894",
+    "178696895",
+    "178696896",
+    "178696897",
+    "178696898",
+    "178696899",
+    "178696900",
+    "178696901",
+    "178696902",
+    "178696903",
+    "178696904",
+    "178696905",
+    "178696906",
+    "178696907",
+    "178696908",
+    "178696909",
+    "178696910",
+    "178696911",
+    "178696912",
+    "178696913",
+    "178696914",
+    "178696915",
+    "178696916",
+    "178696917",
+    "178696918",
+    "178696919",
+    "178696920",
+    "178696921",
+    "178696922",
+    "178696923",
+    "178696924",
+    "178696925",
+    "178696926",
+    "178696927",
+    "178696928",
+    "178696929",
+    "178696930",
+    "178696931",
+    "178696932",
+    "178696933",
+    "178696934",
+    "178696935",
+    "178696936",
+    "178696937",
+    "178696938",
+    "178696939",
+    "178696940",
+    "178696941",
+    "178696942",
+    "178696943",
+    "178696944",
+    "178696945",
+    "178696946",
+    "178696947",
+    "178696948",
+    "178696949"
+   ]
+  },
+  {
+   "date": "2004-12-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:213615:por",
+     "title": "Decreto-Lei n.º 226/2004",
+     "published": "2004-12-06",
+     "dre_path": "/dr/detalhe/decreto-lei/226-2004-213615"
+    }
+   ],
+   "changes": [
+    "Altera Diploma",
+    "Altera Base I",
+    "Altera Base II",
+    "Altera Base IV",
+    "Altera Base V",
+    "Altera Base VI",
+    "Altera Base VII",
+    "Altera Base VIII",
+    "Altera Base IX",
+    "Altera Base X",
+    "Altera Base XI",
+    "Altera Base XIV",
+    "Altera Base XVI",
+    "Altera Base XVII",
+    "Altera Base XIX",
+    "Altera Base XX",
+    "Altera Base XXIII",
+    "Altera Base XXIV",
+    "Altera Base XXVI",
+    "Altera Base XXVII",
+    "Altera Base XXVIII"
+   ],
+   "fragments": [
+    "178695075",
+    "178696878",
+    "178695090",
+    "178695091",
+    "178696881",
+    "178695092",
+    "178695093",
+    "178696884",
+    "178695094",
+    "178695095",
+    "178696887",
+    "178695096",
+    "178695097",
+    "178695098",
+    "178696891",
+    "178695099",
+    "178696893",
+    "178696894",
+    "178696895",
+    "178695100",
+    "178696897",
+    "178696898",
+    "178695101",
+    "178695102",
+    "178696901",
+    "178695103",
+    "178695104",
+    "178696904",
+    "178696905",
+    "178695105",
+    "178695106",
+    "178696908",
+    "178696909",
+    "178696910",
+    "178695107",
+    "178695108",
+    "178695109",
+    "178696914",
+    "178696915",
+    "178696916",
+    "178696917",
+    "178696918",
+    "178696919",
+    "178696920",
+    "178696921",
+    "178696922",
+    "178696923",
+    "178696924",
+    "178696925",
+    "178696926",
+    "178696927",
+    "178696928",
+    "178696929",
+    "178696930",
+    "178696931",
+    "178696932",
+    "178696933",
+    "178696934",
+    "178696935",
+    "178696936",
+    "178696937",
+    "178696938",
+    "178696939",
+    "178696940",
+    "178696941",
+    "178696942",
+    "178696943",
+    "178696944",
+    "178696945",
+    "178696946",
+    "178696947",
+    "178696948",
+    "178696949"
+   ]
+  },
+  {
+   "date": "2022-02-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:178660780:por",
+     "title": "Decreto-Lei n.º 21/2022",
+     "published": "2022-02-04",
+     "dre_path": "/dr/detalhe/decreto-lei/21-2022-178660780"
+    }
+   ],
+   "changes": [
+    "Altera Diploma",
+    "Altera Base I",
+    "Altera Base IV",
+    "Altera Base V",
+    "Altera Base VI",
+    "Altera Base VII",
+    "Altera Base VIII",
+    "Altera Base IX",
+    "Altera Base X",
+    "Altera Base XI",
+    "Altera Base XII",
+    "Altera Base XIII",
+    "Altera Base XIV",
+    "Altera Base XV",
+    "Altera Base XXVI",
+    "Altera Base XXVII",
+    "Altera Base XXVIII",
+    "Altera Base XXIX",
+    "Revoga Base II",
+    "Revoga Base XVI",
+    "Revoga Base XVII",
+    "Revoga Base XVIII",
+    "Revoga Base XIX",
+    "Revoga Base XX",
+    "Revoga Base XXI",
+    "Revoga Base XXII",
+    "Revoga Base XXIII",
+    "Revoga Base XXIV",
+    "Revoga Base XXV"
+   ],
+   "fragments": [
+    "178695110",
+    "178696878",
+    "178695111",
+    "178695128",
+    "178696881",
+    "178695112",
+    "178695113",
+    "178696884",
+    "178695114",
+    "178695115",
+    "178696887",
+    "178695116",
+    "178695117",
+    "178695118",
+    "178696891",
+    "178695119",
+    "178695120",
+    "178696894",
+    "178695121",
+    "178695122",
+    "178695123",
+    "178696898",
+    "178695129",
+    "178695130",
+    "178695131",
+    "178695132",
+    "178695133",
+    "178695134",
+    "178695135",
+    "178695136",
+    "178695137",
+    "178696908",
+    "178695138",
+    "178696910",
+    "178695124",
+    "178695125",
+    "178695126",
+    "178696914",
+    "178695127",
+    "178696916",
+    "178696917",
+    "178696918",
+    "178696919",
+    "178696920",
+    "178696921",
+    "178696922",
+    "178696923",
+    "178696924",
+    "178696925",
+    "178696926",
+    "178696927",
+    "178696928",
+    "178696929",
+    "178696930",
+    "178696931",
+    "178696932",
+    "178696933",
+    "178696934",
+    "178696935",
+    "178696936",
+    "178696937",
+    "178696938",
+    "178696939",
+    "178696940",
+    "178696941",
+    "178696942",
+    "178696943",
+    "178696944",
+    "178696945",
+    "178696946",
+    "178696947",
+    "178696948",
+    "178696949"
+   ]
+  }
+ ],
+ "fragments": {
+  "178695110": {
+   "fragment_id": "178696819",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-02-05",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 10/2002\n\nde 24 de Janeiro\n\nO projecto de metropolitano ligeiro de superfície a implantar nos municípios de Coimbra, Miranda do Corvo e Lousã é um elemento determinante para o desenvolvimento daquela região, integrando a sua concretização um processo de modernização e articulação dos sistemas de transportes, contribuindo para a melhoria das acessibilidades, viabilizando novas actividades económicas geradoras de maior riqueza e bem-estar social, bem como a promoção das condições de planeamento e de ordenamento urbano.\n\nAtravés do Decreto-Lei n.º 70/94, de 3 de Março, estabeleceu-se o primeiro regime jurídico de exploração do metropolitano ligeiro de superfície nos municípios de Coimbra, Miranda do Corvo e Lousã, que, essencialmente, consagrava a atribuição da exploração desse sistema, em exclusivo, a uma sociedade anónima de capitais exclusivamente públicos, a qual veio a ser constituída no dia 20 de Maio de 1996, sob a firma Metro-Mondego, S. A., cujo capital social era maioritariamente detido pelos referidos municípios.\n\nContudo, as bases sobre as quais assentou a elaboração e o desenvolvimento do projecto tal como inicialmente consagradas mostraram-se ineficazes para a sua concretização, tendo-se tornado imprescindível introduzir novos elementos que promovessem maior dinamismo e flexibilidade operacional, designadamente, através da participação do Estado e da Rede Ferroviária Nacional - REFER, E. P., no capital social da sociedade, dotando-a dos meios necessários e adequados à prossecução do seu objecto, para o que se procedeu à alteração do Decreto-Lei n.º 70/94, de 3 de Março, através do Decreto-Lei n.º 179-A/2001, de 18 de Junho, com a concordância das Câmaras Municipais envolvidas.\n\nHouve, pois, que repensar o quadro legal existente, adaptando-o à nova realidade, por forma a consolidar a participação do Estado e da Rede Ferroviária Nacional - REFER, E. P., no capital social da Metro-Mondego, S. A., estabelecendo um novo regime jurídico e fazendo aprovar as bases de concessão da exploração e os novos estatutos da sociedade.\n\nO disposto no presente diploma mereceu a prévia concordância das Câmaras Municipais de Coimbra, Miranda do Corvo e Lousã.\n\nForam ainda ouvidos a Associação Nacional de Municípios Portugueses, as Comissões de Trabalhadores da CP - Caminhos de Ferro Portugueses, E. P., e da Rede Ferroviária Nacional, REFER E. P., bem como os sindicatos representativos dos trabalhadores do sector.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º\n\nConcessão de serviço público\n\n1 - O Estado atribui à Metro-Mondego, S. A., em exclusivo, a concessão em regime de serviço público:\n\na) Da implementação, supervisão e manutenção da infraestrutura de um sistema de transporte público de passageiros em modo rodoviário em sítio próprio, nos municípios de Coimbra, Miranda do Corvo e Lousã, designado sistema \"Metrobus\", pelo prazo de 40 anos, contados a partir de 7 de dezembro de 2004, o qual pode ser prorrogado nos termos previstos nas bases da concessão;\n\nb) Da exploração do sistema Metrobus, pelo prazo de 10 anos, a contar do início da entrada em serviço do referido sistema, prorrogável por cinco anos, uma única vez, nos termos previstos no contrato de serviço público.\n\n2 - A concessão rege-se pelas bases que constam do anexo i ao presente decreto-lei e do qual fazem parte integrante.\n\n3 - Os prazos essenciais para a implementação e entrada em serviço do sistema Metrobus são os estabelecidos nos instrumentos contratuais respetivos.\n\n4 - À concessão aplica-se o disposto no Regulamento (CE) n.º 1370/2007, do Parlamento Europeu e do Conselho, de 23 de outubro de 2007, na sua redação atual, e no Regime Jurídico do Serviço Público de Transporte de Passageiros, aprovado em anexo à Lei n.º 52/2015, de 9 de junho, na sua redação atual.\n\nArtigo 2.º\n\nDo concedente\n\nO Estado, enquanto concedente, é representado, consoante os casos, pelos ministros que detenham a tutela financeira e a tutela sectorial ou por quem actue ao abrigo de poderes delegados por despacho conjunto dos mesmos ministros.\n\nArtigo 3.º\n\nDa concessionária\n\n1 - A Metro-Mondego, S. A., é uma sociedade anónima de capitais exclusivamente públicos que se rege pela lei comercial e pelos seus estatutos, salvo no que o presente diploma ou disposições legais especiais disponham diferentemente.\n\n2 - Com o presente diploma, são aprovados os novos estatutos da Metro-Mondego, S. A., cujo texto consta do anexo II do presente diploma, que dele faz parte integrante.\n\n3 - A Metro-Mondego, S. A., fica dispensada da outorga de escritura pública para as alterações estatutárias resultantes do documento mencionado no número anterior, servindo a presente publicação no Diário da República como título bastante para a perfeição e validade destes actos e, bem assim, para o respectivo registo.\n\nArtigo 4.º\n\nImplementação, supervisão e manutenção da infraestrutura do sistema Metrobus\n\n1 - Sem prejuízo do disposto no artigo 6.º, cabe à Metro-Mondego, S. A., ainda que por intermédio de terceiros, proceder à implementação, designadamente através da conceção, projeto, fiscalização e realização das obras de construção da infraestrutura do sistema Metrobus, bem como à respetiva supervisão e manutenção da infraestrutura.\n\n2 - Constituem infraestruturas de longa duração os bens propriedade do Estado sob gestão da Metro-Mondego, S. A., necessários ao funcionamento do sistema Metrobus.\n\n3 - O Estado assegura à Metro-Mondego, S. A., os meios necessários para o cumprimento do disposto no n.º 1.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\nArtigo 5.º\n\nExploração do sistema Metrobus\n\n1 - A Metro-Mondego, S. A., procede diretamente à exploração do sistema Metrobus, nos termos previstos no contrato de serviço público.\n\n2 - A prorrogação da concessão, a que se refere a alínea b) do n.º 1 do artigo 1.º, é decidida pelo Estado.\n\n3 - No final da concessão, o Estado salvaguarda todos os deveres contraídos pela Metro-Mondego, S. A., relativamente ao pessoal contratado para a exploração do sistema Metrobus, podendo, designadamente, assegurar a sua transição para o contexto da solução que vier a ser definida para a continuidade da operação do referido sistema.\n\n4 - No final da concessão, o Estado assume a posição da Metro-Mondego, S. A., em todos e quaisquer contratos vigentes relativos ao fornecimento e manutenção do material circulante do sistema Metrobus.\n\n5 - Para efeitos do disposto nos n.os 3 e 4, a Metro-Mondego, S. A., não pode assumir compromissos contratuais que se prolonguem por período superior ao de vigência do contrato de concessão sem a aprovação prévia das respetivas condições contratuais pelo Estado.\n\nArtigo 6.º\n\nRegime transitório\n\n1 - A Infraestruturas de Portugal, S. A., (IP, S. A.) mantém a exploração e a gestão dos bens do domínio público ferroviário, atualmente sob sua gestão, até à receção provisória de cada troço das empreitadas de construção da infraestrutura base a executar por esta ao abrigo do disposto na Resolução do Conselho de Ministros n.º 25/2019, de 31 de janeiro, na sua redação atual, momento a partir do qual a Metro-Mondego, S. A., assume tais poderes.\n\n2 - Cabe à Metro-Mondego, S. A., ainda que por intermédio de terceiros, assegurar a realização de transporte alternativo durante a fase de implementação da infraestrutura do sistema Metrobus, até à entrada em funcionamento deste, em articulação com as autoridades de transportes competentes, nos termos previstos na Lei n.º 52/2015, de 9 de junho, na sua redação atual.\n\n3 - O Estado assegura à Metro-Mondego, S. A., os meios necessários para o cumprimento do disposto no número anterior.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\nArtigo 7.º\n\nResolução de conflitos e aprovação de condições e requisitos técnicos\n\n1 - Cabe à Autoridade da Mobilidade e dos Transportes, nos termos do Decreto-Lei n.º 78/2014, de 14 de maio, na sua redação atual, dirimir, pela via da conciliação, os conflitos ou litígios decorrentes do disposto no artigo anterior.\n\n2 - Sem prejuízo das competências próprias de outras entidades, compete ao Instituto da Mobilidade e dos Transportes, I. P., (IMT, I. P.) aprovar, por deliberação do conselho diretivo, as condições e requisitos técnicos necessários à implementação do sistema Metrobus.\n\nArtigo 8.º\n\nPatrimónio\n\n1 - O troço denominado \"Ramal da Lousã\", situado entre Coimbra-B e Serpins, é desclassificado da rede ferroviária nacional e todos os bens do domínio público ferroviário são afetos ao objeto da concessão, ficando sob gestão da Metro-Mondego, S. A., no momento referido no n.º 1 do artigo 6.º, e são discriminados em peças desenhadas, preparadas pela IP, S. A., ainda que em formato digital, com base no projeto de execução das obras e respetivos elementos cadastrais.\n\n2 - No prazo máximo de dois anos, contados da data referida no número anterior, as peças ali referidas podem ser corrigidas com base nos elementos resultantes das telas finais e do cadastro dos bens do domínio público ferroviário, sem prejuízo do encerramento dos processos de expropriação pendentes.\n\n3 - Os processos de expropriação necessários à implementação do sistema Metrobus que sejam assegurados pela IP, S. A., bem como os processos que findarem após o momento referido no n.º 1, são objeto de comunicação escrita à Metro-Mondego, S. A., com envio dos respetivos elementos comprovativos.\n\n4 - A Metro-Mondego, S. A., pode celebrar autos de transferência dos bens referidos no n.º 1, que não sejam necessários à exploração do sistema Metrobus, com as autarquias em cujo território se encontram.\n\n5 - A IP, S. A., procede, na data referida no n.º 1, à atualização do cadastro dos bens e direitos do domínio público do Estado sob sua gestão, dando de tanto conhecimento ao IMT, I. P., e à Direção-Geral do Tesouro e Finanças nos termos das disposições legais aplicáveis.\n\n6 - A CP - Comboios de Portugal, E. P. E., pode continuar a utilizar o troço entre Coimbra-A e Coimbra-B até que a implementação do sistema Metrobus o inviabilize.\n\n7 - Na estação de Coimbra-B deve a IP, S. A., assegurar a necessária intermodalidade com o sistema Metrobus.\n\n8 - Fora dos casos previstos no artigo 6.º, a transferência da responsabilidade da IP, S. A., para a Metro-Mondego, S. A., pelas obras em bens a integrar no objeto da concessão ocorre no momento da respetiva receção provisória, sem prejuízo de acordo das referidas entidades em sentido diverso.\n\n9 - O Estado assegura à IP, S. A., a adequada compensação pelos bens integrados no objeto da concessão, sendo o valor desta compensação fixado por despacho dos membros do Governo responsáveis pelas áreas das finanças e dos transportes.\n\n10 - O Estado, a Metro-Mondego, S. A., a IP, S. A., e os municípios podem acordar entre si, mediante contratos a celebrar, individual ou conjuntamente, nos termos da lei, a afetação ao sistema Metrobus de outros bens não previstos no artigo 6.º ou nos números anteriores, bem como o destino a conferir a bens que ao mesmo não se revelem necessários, fixando as condições financeiras a observar para o efeito.\n\nArtigo 9.º\n\nRevogação\n\nÉ revogado o Decreto-Lei n.º 70/94, de 3 de Março, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 179-A/2001, de 18 de Junho.\n\nVisto e aprovado em Conselho de Ministros de 29 de Novembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Eduardo Luís Barreto Ferro Rodrigues - José Sócrates Carvalho Pinto de Sousa - Alberto de Sousa Martins.\n\nPromulgado em 4 de Janeiro de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 10 de Janeiro de 2002.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\nANEXO I\n\n(a que se refere o artigo 1.º)\n\nBases da concessão do sistema de metro ligeiro de superfície do Mondego"
+  },
+  "178696878": {
+   "fragment_id": "178696820",
+   "type": 8,
+   "heading": "Secção I — Disposições e princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições e princípios gerais"
+  },
+  "178696879": {
+   "fragment_id": "178696821",
+   "type": 2,
+   "heading": "Base I — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base I — Objecto\n\n1 - A concessão tem por objecto a exploração de um sistema de metro ligeiro de superfície nas áreas dos municípios de Coimbra, Miranda do Corvo e Lousã.\n\n2 - A concessão compreende ainda a concepção, projecto, realização das obras de construção, fornecimento, montagem e manutenção do material circulante e dos demais equipamentos que constituem o sistema de metro."
+  },
+  "178696880": {
+   "fragment_id": "178696822",
+   "type": 2,
+   "heading": "Base II — Actividades da concessionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base II — Actividades da concessionária\n\n1 - A concessionária tem como objecto e actividade principal a realização das prestações inerentes à concessão, ou seja, a concepção, projecto, realização das obras de construção, fornecimento e montagem do material circulante e dos demais equipamentos que constituem o sistema de metro e a sua exploração.\n\n2 - A concessionária pode ainda exercer as seguintes actividades autónomas:\n\na) Exploração comercial, directa ou indirecta de estabelecimentos comerciais, escritórios, salas de exposições, máquinas de venda de produtos e serviços de publicidade aposta nas instalações do sistema ou no material circulante;\n\nb) Promoção, directa ou indirecta, da construção ou venda de edifícios para fins comerciais, industriais ou residenciais nos terrenos ou edifícios que integrem o seu património, nomeadamente, devido a entradas dos accionistas;\n\nc) Prestação de serviços, nomeadamente de consultadoria e de apoio técnico;\n\nd) Transferência de tecnologia e de know-how.\n\n3 - As actividades autónomas referidas no n.º 2 são acessórias do objecto da concessão e destinam-se a assegurar os fins sociais do sistema de transporte concessionado e o equilíbrio comercial da sua exploração.\n\n4 - A concessionária pode, para o desenvolvimento das actividades autónomas referidas nesta base, ou outras, criar empresas total ou parcialmente por si detidas, ou tomar participações no capital de outras empresas, mediante autorização prévia dos Ministros das Finanças e do Equipamento Social."
+  },
+  "178696881": {
+   "fragment_id": "178696823",
+   "type": 2,
+   "heading": "Base III — Regime da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base III — Regime da concessão\n\nA concessão é exercida em regime de serviço público e de exclusividade."
+  },
+  "178696882": {
+   "fragment_id": "178696824",
+   "type": 2,
+   "heading": "Base IV — Prazo da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base IV — Prazo da concessão\n\n1 - A concessão tem a duração de 30 anos contados a partir da data de entrada em vigor do diploma que aprova as presentes bases.\n\n2 - Quando o interesse público ou a lei vigente o não impeçam, o prazo do número anterior pode ser prorrogado por períodos sucessivos de 5 anos, até um máximo de 20 anos.\n\n3 - A prorrogação deve ser requerida pela concessionária com a antecedência mínima de um ano sobre o termo da concessão ou do prazo de prorrogação e comunicada a esta com uma antecedência mínima de seis meses sobre tal termo.\n\n4 - A prorrogação do prazo de concessão depende de decisão conjunta dos Ministros das Finanças e do Equipamento Social."
+  },
+  "178696883": {
+   "fragment_id": "178696825",
+   "type": 2,
+   "heading": "Base V — Características gerais do sistema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base V — Características gerais do sistema\n\nO sistema de metro concessionado tem as seguintes características gerais, que devem ser asseguradas pela concessionária:\n\na) A rede compreende uma linha axial, de cariz suburbano, e uma linha urbana a implantar no concelho de Coimbra; a construção e exploração destas linhas poderá ter lugar em fases distintas;\n\nb) A rede deve conter instalações que garantam condições de interface com os diferentes modos de transporte nos pontos de intersecção com maior afluxo de clientes;\n\nc) O serviço de transporte deve ser efectuado de forma regular e contínua, de acordo com os horários preestabelecidos e anunciados junto do público e só pode ser interrompido em caso de força maior, designadamente, insurreição, sedição, cataclismo, catástrofe natural ou por ordem das autoridades;\n\nd) A energia utilizada na tracção deve ser tecnológica e ambientalmente adaptada aos melhores padrões de inserção no tecido urbano e suburbano;\n\ne) Os padrões de segurança e de qualidade do sistema devem ser mantidos em níveis elevados e sujeitos a actualizações;\n\nf) As instalações, as infra-estruturas e o material circulante devem estar sujeitos a vigilância por forma a garantir a sua integridade e a adequada protecção dos passageiros e dos funcionários do sistema de metro."
+  },
+  "178696884": {
+   "fragment_id": "178696826",
+   "type": 8,
+   "heading": "Secção II — Dos bens e meios afectos à concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Dos bens e meios afectos à concessão"
+  },
+  "178696885": {
+   "fragment_id": "178696827",
+   "type": 2,
+   "heading": "Base VI — Estabelecimento e bens afectos à concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base VI — Estabelecimento e bens afectos à concessão\n\n1 - Consideram-se afectos à concessão, para além dos bens que integram o seu estabelecimento, todos os bens móveis ou imóveis, corpóreos ou incorpóreos, assim como todos os direitos ligados directa ou indirectamente à implantação e exploração do sistema.\n\n2 - A concessionária é obrigada a manter em bom estado de funcionamento, de conservação e de segurança, a expensas suas, todos os bens e direitos afectos à concessão.\n\n3 - A concessionária deve elaborar e manter actualizado um inventário de todos os bens afectos à concessão, a ser enviado anualmente ao concedente até ao final do mês de Janeiro devidamente certificado por auditor por este aceite.\n\n4 - A concessionária não pode alienar ou onerar, parcial ou totalmente e sob qualquer forma, os bens e os direitos que estejam afectos à exploração do sistema, salvo mediante autorização prévia do Ministro do Equipamento Social ou nos casos em que a lei aplicável aos bens do domínio público ferroviário o preveja, bem como quando se tratem de bens consumíveis ou da mera substituição de bens perecíveis ou deterioráveis.\n\n5 - Durante a vigência da concessão, a concessionária é titular do direito de propriedade dos bens que lhe sejam afectos e não pertençam ao domínio público.\n\n6 - No termo da concessão os bens a que se refere o número anterior revertem, sem qualquer indemnização, para o Estado, livres de quaisquer ónus ou encargos e em perfeitas condições de operacionalidade, utilização e manutenção, podendo haver lugar a indemnização quanto a bens cuja vida económica ao tempo da reversão ou respectiva data de investimento justifique o justo ressarcimento da concessionária, indemnização que será calculada segundo os critérios do n.º 4 da base XXVIII.\n\n7 - A reversão deve ocorrer sem qualquer formalidade que não seja uma vistoria ad perpetuam rei memoriam, para a qual é convocado um representante da concessionária; do auto de vistoria deverá constar o inventário dos bens e equipamentos afectos à concessão, assim como a descrição do seu estado de conservação e da respectiva aptidão para o desempenho do sistema."
+  },
+  "178696886": {
+   "fragment_id": "178696828",
+   "type": 2,
+   "heading": "Base VII — Servidões e expropriações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base VII — Servidões e expropriações\n\n1 - Compete à concessionária, como entidade expropriante, actuando em nome do Estado, realizar as expropriações e constituir as servidões necessárias à construção do sistema, nos termos deste diploma e do Código das Expropriações.\n\n2 - A concessionária suporta os custos inerentes à condução dos processos expropriativos e o pagamento das indemnizações ou de outras compensações aos expropriados e aos titulares dos prédios servientes, bem como os custos decorrentes da aquisição por via do direito privado dos bens imóveis e direitos a eles inerentes no que respeita aos prédios e parcelas a expropriar ou a adquirir a particulares.\n\n3 - Compete ao Ministro do Equipamento Social a prática do acto que individualize os bens a expropriar nos termos do n.º 2 do artigo 10.º do Código das Expropriações, o qual deve conter a declaração de utilidade pública com carácter de urgência, no prazo de 45 dias a contar da apresentação pela concessionária da documentação exigida para esse efeito.\n\n4 - Compete à concessionária apresentar atempadamente ao Estado todos os elementos e documentos necessários à prática do acto de declaração de utilidade pública, de acordo com legislação em vigor.\n\n5 - O Ministro do Equipamento Social pode designar uma entidade que coordene e fiscalize a condução dos processos expropriativos ou relativos à aquisição de bens pela via do direito privado."
+  },
+  "178696887": {
+   "fragment_id": "178696829",
+   "type": 8,
+   "heading": "Secção III — Regime financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Regime financeiro"
+  },
+  "178696888": {
+   "fragment_id": "178696830",
+   "type": 2,
+   "heading": "Base VIII — Financiamento das actividades da concessionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base VIII — Financiamento das actividades da concessionária\n\n1 - Os accionistas da concessionária devem dotá-la dos recursos necessários para a prossecução e funcionamento da sua actividade e para suporte dos custos das prestações inerentes à concepção, projecto, construção, fornecimento de equipamento e de material circulante e exploração do sistema de metro que não possam ser suportados em regime de autofinanciamento a cargo do subconcessionário, bem como para suporte dos custos da fiscalização dessas prestações e ainda dos custos referidos no n.º 2 da base VII.\n\n2 - Para efeitos do n.º 1, os accionistas da concessionária podem ser chamados a realizar fundos próprios na concessionária nas proporções das suas participações no capital desta.\n\n3 - As disposições dos números anteriores não prejudicam o recurso pela concessionária a financiamentos a conceder por terceiras entidades, nomeadamente instituições financeiras nacionais ou internacionais, mediante consulta prévia aos Ministros das Finanças e do Equipamento Social, sempre que tal coloque em risco os rácios de solvabilidade da concessionária julgados aceitáveis segundo uma gestão prudente e criteriosa."
+  },
+  "178696889": {
+   "fragment_id": "178696831",
+   "type": 2,
+   "heading": "Base IX — Regime tarifário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base IX — Regime tarifário\n\n1 - A concessionária deve fixar anualmente as tarifas a cobrar aos clientes do sistema assegurando um esquema de complementaridade com os vários meios de transporte colectivos da área e a emissão e comercialização de títulos de transporte próprios e intermodais.\n\n2 - Na fixação anual das tarifas, a concessionária deve atender aos índices de preços dos vários serviços de transporte público colectivo praticados na área.\n\n3 - A concessionária deve também atender às reduções de preço e isenções impostas por lei ou regulamento.\n\n4 - A entrada em vigor das tarifas depende da verificação pelo Instituto Nacional do Transporte Ferroviário e pela Direcção-Geral dos Transportes Terrestres de que as mesmas respeitam os limites das presentes bases e o quadro legal que lhes seja aplicável.\n\n5 - Quando a exploração do sistema esteja subconcessionada, a fixação das tarifas, para além da obediência aos requisitos dos números anteriores, deve conformar-se com o contrato celebrado com o subconcessionário."
+  },
+  "178696890": {
+   "fragment_id": "178696832",
+   "type": 2,
+   "heading": "Base X — Indemnizações compensatórias pelo serviço público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base X — Indemnizações compensatórias pelo serviço público\n\n1 - Caso a exploração do sistema de transporte concessionado em regime de serviço público se revele comercialmente inviável o Estado pode atribuir indemnizações compensatórias à entidade que tenha a cargo a exploração, na medida em que estas indemnizações, adicionadas às receitas da exploração, levada a cabo segundo critérios de eficiência, eficácia e economicidade, se revelem necessárias ao funcionamento do sistema de transporte em regime de serviço público.\n\n2 - O disposto no número anterior não prejudica a adopção pela concessionária de disposições contratuais com vista à protecção do interesse público subjacente à concessão, à optimização das condições de exploração do serviço de transporte e à manutenção do equilíbrio financeiro das prestações subconcessionadas; para estes efeitos, a concessionária poderá designadamente convencionar com o subconcessionário, e desde que tal não acarrete para ela, concessionária, uma transferência anormal de risco:\n\na) O resgate da subconcessão, suas consequências e respectivos prazos de exercício;\n\nb) O sequestro e a rescisão da subconcessão, suas causas e consequências;\n\nc) Sistemas de equilíbrio financeiro da subconcessão, dependentes do volume de tráfego verificado ou de outros factores de exploração;\n\nd) Sistemas de reequilíbrio da subconcessão nos casos de força maior, alteração superveniente das circunstâncias ou modificação unilateral das condições da subconcessão."
+  },
+  "178696891": {
+   "fragment_id": "178696833",
+   "type": 8,
+   "heading": "Secção IV — Relações com o concedente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Relações com o concedente"
+  },
+  "178696892": {
+   "fragment_id": "178696834",
+   "type": 2,
+   "heading": "Base XI — Obrigações de informação da concessionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XI — Obrigações de informação da concessionária\n\n1 - A concessionária deve dar conhecimento imediato ao Ministro do Equipamento Social de qualquer evento que possa vir a prejudicar ou impedir o cumprimento pontual e atempado de qualquer das obrigações emergentes das presentes bases, bem como ao Ministro das Finanças quando tais eventos tenham implicações de natureza económica e financeira.\n\n2 - A concessionária deve elaborar para todos os anos civis um plano de actividades e um orçamento, contemplando as áreas de gestão e de investimento, cujo projecto deve enviar aos Ministros das Finanças e do Equipamento Social até ao dia 15 de Dezembro do ano anterior a que respeitem.\n\n3 - Sempre que os orçamentos prevejam a libertação de verbas pelo Estado à concessionária, a aprovação dos orçamentos deve ser precedida da confirmação pelos ministros referidos no n.º 2 da disponibilização dessas verbas.\n\n4 - A concessionária deve remeter aos Ministros das Finanças e do Equipamento Social, até ao dia 31 de Março de cada ano, relatório de gestão, contas, certificação legal de contas e do parecer fiscal único relativo ao exercício anterior.\n\n5 - A concessionária deve elaborar um sistema da qualidade relativa ao período inicial de operação, a aprovar pelo Instituto Nacional do Transporte Ferroviário até três meses antes da entrada em operação do primeiro troço, contemplando as metas e parâmetros para as diferentes áreas de actividade, nomeadamente quanto ao nível de fiabilidade e disponibilidade.\n\n6 - A concessionária deve elaborar um sistema integrado de segurança tendo em vista os passageiros, o pessoal próprio ou alheio, o público em geral, o material circulante e outros meios de operação e manutenção do sistema, o qual será aprovado pelo Instituto Nacional do Transporte Ferroviário até três meses antes da entrada em operação do primeiro troço.\n\n7 - Os sistemas referidos nos n.os 5 e 6 devem ser revistos anualmente pela concessionária e a revisão aprovada pelo Instituto Nacional de Transporte Ferroviário.\n\n8 - A concessionária deve fornecer prontamente a qualquer organismo ou representante do Estado todos os elementos relacionados com o exercício da concessão que lhe sejam solicitados por escrito.\n\n9 - Antes de iniciar quaisquer procedimentos ou negociações tendentes à modificação dos contratos referidos no artigo 4.º do decreto-lei que aprova as presentes bases, nomeadamente quanto aos respectivos preços ou às condições e termos referentes ao seu objecto, a concessionária deve solicitar autorização conjunta dos ministros referidos nos números anteriores, identificando as causas e objectivos da modificação pretendida."
+  },
+  "178696893": {
+   "fragment_id": "178696835",
+   "type": 2,
+   "heading": "Base XII — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XII — Fiscalização\n\n1 - A fiscalização das obrigações da concessionária inerentes ao exercício da concessão é efectuada pelas seguintes entidades:\n\na) Direcção-Geral do Ambiente;\n\nb) Inspecção-Geral de Finanças;\n\nc) Laboratório Nacional de Engenharia Civil;\n\nd) Instituto de Desenvolvimento e Inspecção das Condições de Trabalho;\n\ne) Serviço Nacional de Protecção Civil;\n\nf) Direcção-Geral dos Transportes Terrestres;\n\ng) Instituto Nacional do Transporte Ferroviário, a quem, para além das suas atribuições conferidas por lei ou regulamento, cabe também coordenar as actividades de fiscalização das entidades enumeradas nas alíneas anteriores.\n\n2 - Os representantes dos organismos referidos no número anterior devem reunir periodicamente com a concessionária."
+  },
+  "178696894": {
+   "fragment_id": "178696836",
+   "type": 8,
+   "heading": "Secção V — Obrigações diversas da concessionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Obrigações diversas da concessionária"
+  },
+  "178696895": {
+   "fragment_id": "178696837",
+   "type": 2,
+   "heading": "Base XIII — Obrigações de segurança, de acesso e de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XIII — Obrigações de segurança, de acesso e de informação\n\n1 - Sem prejuízo das obrigações do Estado em matéria de segurança pública, a concessionária deve velar pela segurança dos clientes e dos bens que estes transportem, nomeadamente assegurando a cobertura dos riscos inerentes mediante seguro.\n\n2 - A concessionária deve cobrir ou assegurar a cobertura, mediante seguro, da responsabilidade civil extracontratual por danos causados a terceiros emergentes da sua actividade relacionada, directa ou indirectamente, com a concessão.\n\n3 - A concessionária deve assegurar a implantação, nos locais adequados, de painéis de informação visual e de sistemas de informação sonora indicando o horário e destino das composições, bem como de diagramas da rede com identificação das estações e paragens e outras especificações necessárias para o pronto esclarecimento dos clientes.\n\n4 - A concessionária assegura também a efectiva acessibilidade e o conforto das pessoas de mobilidade reduzida."
+  },
+  "178696896": {
+   "fragment_id": "178696838",
+   "type": 2,
+   "heading": "Base XIV — Obrigações respeitantes à sociedade concessionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XIV — Obrigações respeitantes à sociedade concessionária\n\n1 - A concessionária deve manter como seu objecto social principal a exploração do sistema de metro e a sua sede social num dos concelhos dos municípios seus accionistas.\n\n2 - As participações sociais no capital da concessionária só podem ser oneradas ou transmitidas a terceiros mediante autorização prévia por parte dos Ministros das Finanças e do Equipamento Social, sob pena de nulidade.\n\n3 - Os estatutos da concessionária, constantes do anexo II ao diploma que aprova as presentes bases, só podem ser alterados mediante autorização conjunta dos Ministros das Finanças e do Equipamento Social, sob pena de nulidade.\n\n4 - Constitui ainda obrigação da concessionária o rigoroso cumprimento das obrigações previstas no contrato ou contratos referidos nos artigos 4.º e 6.º do diploma que aprova as presentes bases."
+  },
+  "178696897": {
+   "fragment_id": "178696839",
+   "type": 2,
+   "heading": "Base XV — Proibição de transmissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XV — Proibição de transmissão\n\nPara além das subconcessões previstas nas presentes bases são proibidas quaisquer formas de transmissão, parcial ou total, da concessão."
+  },
+  "178696898": {
+   "fragment_id": "178696840",
+   "type": 8,
+   "heading": "Secção VI — Escolha do subconcessionário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Escolha do subconcessionário"
+  },
+  "178696899": {
+   "fragment_id": "178696841",
+   "type": 2,
+   "heading": "Base XVI — Concursos - Regras gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XVI — Concursos - Regras gerais\n\n1 - As prestações relativas à concepção, projecto, realização das obras de construção, fornecimento e montagem do material circulante e dos demais equipamentos que constituem o sistema de metro e a sua exploração podem ser subconcessionadas, global ou parcelarmente, devendo a escolha do subconcessionário ou dos subconcessionários ser realizada mediante concurso.\n\n2 - Os concursos podem seguir os trâmites adequados aos limites previstos na legislação nacional e comunitária e, em qualquer dos casos, podem incluir uma fase de negociação com os dois concorrentes melhor classificados.\n\n3 - Caso haja fase de negociação, esta deve incluir a negociação do contrato de subconcessão a celebrar e deve terminar com a aceitação, por parte do concorrente, da minuta final deste.\n\n4 - Da fase de negociação não podem resultar:\n\na) Alterações às regras do caderno de encargos;\n\nb) Adopção de soluções mais desvantajosas para a concessionária do que as inicialmente propostas pelos concorrentes;\n\nc) Aproveitamento por um concorrente de soluções contidas na proposta de outro concorrente."
+  },
+  "178696900": {
+   "fragment_id": "178696842",
+   "type": 2,
+   "heading": "Base XVII — Natureza e estrutura do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XVII — Natureza e estrutura do concurso\n\n1 - Os concursos referidos na base anterior são lançados pela concessionária e correm na sua dependência; compete por isso à concessionária realizar todos os actos relativos à condução e organização dos concursos tais como a elaboração dos respectivos anúncios, programas de concurso e cadernos de encargos, bem como decidir sobre a qualificação ou admissão de concorrentes, sobre a selecção de concorrentes para a fase de negociação, se a ela houver lugar, e sobre a adjudicação final das propostas.\n\n2 - Os anúncios, programas de concurso, cadernos de encargos, selecção de concorrentes para a fase de negociação e a adjudicação final das propostas carecem, todavia, como requisito de eficácia, de homologação conjunta por parte dos Ministros das Finanças e do Equipamento Social."
+  },
+  "178696901": {
+   "fragment_id": "178696843",
+   "type": 2,
+   "heading": "Base XVIII — Natureza das entidades concorrentes e da futura concessionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XVIII — Natureza das entidades concorrentes e da futura concessionária\n\n1 - Aos concursos podem apresentar-se empresas ou agrupamentos de empresas sob qualquer modalidade de associação.\n\n2 - As empresas e agrupamentos referidos no número anterior só são admitidos aos concursos se se verificar que, quer as primeiras, quer as componentes destes últimos, se encontram regularmente constituídas, têm situações contributivas regularizadas e exercem actividades compatíveis com o objecto da subconcessão, sem prejuízo dos demais requisitos que constem do programa de concurso ou que resultem da legislação aplicável à exploração do sistema de metro.\n\n3 - No âmbito dos concursos, uma entidade não pode fazer parte de mais de um agrupamento concorrente, nem concorrer simultaneamente a título individual e integrada num agrupamento.\n\n4 - Os contratos de subconcessão devem ser celebrados com uma sociedade comercial, a qual deve ter por objecto a prossecução da actividade subconcessionada e deve ser constituída pelas empresas componentes do agrupamento ou pela empresa vencedora do respectivo concurso."
+  },
+  "178696902": {
+   "fragment_id": "178696844",
+   "type": 2,
+   "heading": "Base XIX — Conteúdo mínimo obrigatório da regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XIX — Conteúdo mínimo obrigatório da regulamentação\n\n1 - Nos programas de concurso devem constar obrigatoriamente, de forma detalhada, os requisitos respeitantes a experiência, capacidade e aptidão técnica, financeira e empresarial que os concorrentes devem satisfazer de forma a serem admitidos ao concurso.\n\n2 - Para além do disposto no número anterior, deve constar ainda do programa de concurso, pelo menos:\n\na) O elenco dos critérios de apreciação das propostas, com vista à selecção para a fase de negociações, se a ela houver lugar, e para a escolha do subconcessionário;\n\nb) As normas relativas à tramitação processual do concurso;\n\nc) As cauções a apresentar pelos concorrentes.\n\n3 - Nos cadernos de encargos deve constar, pelo menos:\n\na) A duração da subconcessão;\n\nb) As exigências especiais que a concessionária entenda fazer na definição da organização e estatutos da sociedade subconcessionária, bem como sobre eventuais acordos parassociais entre os accionistas e acordos entre cada um ou alguns deles e a concessionária, com vista a salvaguardar a estabilidade e solidez da concessão;\n\nc) As condições ou especificações relativas à concepção, realização de obras de construção, fornecimento de material circulante e outros equipamentos que constituem o sistema de metro, bem como as respectivas garantias para o cumprimento permanente e total das obrigações emergentes do contrato ou dos contratos de subconcessão."
+  },
+  "178696903": {
+   "fragment_id": "178696845",
+   "type": 2,
+   "heading": "Base XX — Critérios de atribuição da subconcessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XX — Critérios de atribuição da subconcessão\n\n1 - Quer a decisão final de selecção dos subconcessionários, quer a escolha dos concorrentes para a fase de negociações, se a ela houver lugar, têm por base a avaliação das propostas segundo os seguintes critérios gerais:\n\na) Qualidade da proposta no que respeita à concepção, projecto, realização das obras de construção, ao fornecimento e montagem do material circulante e dos demais equipamentos que constituem o sistema de metro;\n\nb) Qualidade da proposta no que respeita à exploração, à manutenção e à conservação do material circulante e restante equipamento;\n\nc) Esforço financeiro associado ao investimento nas infra-estruturas de longa duração;\n\nd) Esforço financeiro associado à exploração, à manutenção e à conservação do sistema de metro.\n\n2 - A ordem dos critérios constante do número anterior não representa hierarquização dos mesmos.\n\n3 - Os critérios constantes do n.º 1 podem ser desenvolvidos e a sua aplicação sujeita a metodologias de avaliação, desde que esses desenvolvimentos e metodologias sejam patenteados aos concorrentes antes de findo o prazo de entrega das respectivas propostas."
+  },
+  "178696904": {
+   "fragment_id": "178696846",
+   "type": 2,
+   "heading": "Base XXI — Direito de não atribuição da subconcessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXI — Direito de não atribuição da subconcessão\n\nA concessionária pode interromper qualquer concurso, dá-lo por concluído ou encerrar as negociações com qualquer dos concorrentes, caso os resultados até então obtidos não se mostrem satisfatórios para o interesse público ou se as respostas ou contrapropostas dos concorrentes na fase de negociação forem manifestamente insuficientes ou evasivas ou ainda se não forem prestadas nos prazos fixados."
+  },
+  "178696905": {
+   "fragment_id": "178696847",
+   "type": 2,
+   "heading": "Base XXII — Validade das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXII — Validade das propostas\n\nNenhum concorrente é obrigado a manter válida a sua proposta por período superior a 18 meses contados da data do acto público de abertura das propostas."
+  },
+  "178696906": {
+   "fragment_id": "178696848",
+   "type": 2,
+   "heading": "Base XXIII — Prémios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXIII — Prémios\n\nA concessionária pode deliberar a atribuição de prémios a um ou mais concorrentes preteridos nos concursos cujas propostas, ainda assim, tenham qualidade manifesta, mas o seu montante deve ser sujeito a aprovação dos Ministros das Finanças e do Equipamento Social."
+  },
+  "178696907": {
+   "fragment_id": "178696849",
+   "type": 2,
+   "heading": "Base XXIV — Aprovação do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXIV — Aprovação do contrato\n\nA minuta do contrato de subconcessão deve ser aprovada por despacho conjunto dos Ministros das Finanças e do Equipamento Social, o qual deve ser precedido de parecer do Instituto Nacional do Transporte Ferroviário."
+  },
+  "178696908": {
+   "fragment_id": "178696850",
+   "type": 8,
+   "heading": "Secção VII — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Sanções"
+  },
+  "178696909": {
+   "fragment_id": "178696851",
+   "type": 2,
+   "heading": "Base XXV — Multas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXV — Multas\n\n1 - Pelo incumprimento de qualquer das obrigações inerentes à concessão pode a concessionária ser punida com multa diária, pelo tempo que durar o incumprimento, de montante a fixar entre (euro) 498,80 e (euro) 49879,79, segundo a sua gravidade.\n\n2 - É da competência do Instituto Nacional do Transporte Ferroviário a aplicação das multas previstas na presente base.\n\n3 - O projecto de decisão sobre a multa a aplicar deve ser notificado por escrito à concessionária, sendo-lhe conferido o direito de apresentar a sua defesa escrita no prazo de 20 dias.\n\n4 - A decisão final de aplicação da multa, com os respectivos fundamentos, deve ser notificada também por escrito à concessionária, e dela cabe impugnação a interpor no prazo de 15 dias úteis para o tribunal competente para dirimir os litígios emergentes da concessão.\n\n5 - A dedução de impugnação nos termos do número anterior não suspende a obrigação de pagamento da multa.\n\n6 - Os limites das multas referidos no n.º 1 são automaticamente actualizados em 1 de Janeiro de cada ano, de acordo com o índice de preços no consumidor publicado no Boletim do Instituto Nacional de Estatística.\n\n7 - O pagamento das multas previstas na presente base não isenta a concessionária da responsabilidade criminal, contra-ordenacional, regulamentar e civil em que incorrer, nem exclui a fiscalização, controlo e poder sancionatório de outras entidades que decorram da lei ou regulamento."
+  },
+  "178696910": {
+   "fragment_id": "178696852",
+   "type": 8,
+   "heading": "Secção VIII — Sequestro, resgate e extinção da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VIII — Sequestro, resgate e extinção da concessão"
+  },
+  "178696911": {
+   "fragment_id": "178696853",
+   "type": 2,
+   "heading": "Base XXVI — Sequestro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXVI — Sequestro\n\n1 - O Estado, através do Ministro do Equipamento, pode tomar através de sequestro a exploração do serviço quando se der ou estiver iminente a cessação ou interrupção total ou parcial da exploração do serviço ou quando se verifique a gestão danosa da concessão ou graves deficiências na organização e funcionamento do serviço de transporte ou no estado das instalações ou do equipamento susceptíveis de comprometer a regularidade da exploração.\n\n2 - Verificado o sequestro, a concessionária suporta os encargos resultantes da manutenção dos serviços e as despesas extraordinárias necessárias ao restabelecimento da normalidade da exploração que não puderem ser cobertos pelos resultados da exploração.\n\n3 - Logo que cessem as razões do sequestro, o Estado notifica a concessionária para retomar, na data que lhe for fixada, a normal exploração do serviço.\n\n4 - Se após a retoma da exploração pela concessionária continuarem a verificar-se graves deficiências na organização e funcionamento do serviço o Estado pode declarar a concessão extinta."
+  },
+  "178696912": {
+   "fragment_id": "178696854",
+   "type": 2,
+   "heading": "Base XXVII — Extinção da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXVII — Extinção da concessão\n\n1 - O Estado, através de despacho conjunto dos Ministros das Finanças e do Equipamento, pode dar a concessão por extinta quando tenha ocorrido qualquer dos factos seguintes:\n\na) Desvio do objecto da concessão;\n\nb) Interrupção prolongada da exploração do serviço por facto imputável à concessionária;\n\nc) Oposição reiterada ao exercício da fiscalização ou repetida desobediência às determinações do Estado ou, ainda, sistemática inobservância das leis e regulamentos aplicáveis, quando se mostrem ineficazes as sanções aplicadas;\n\nd) Recusa em proceder à adequada conservação e reparação das infra-estruturas;\n\ne) Cobrança dolosa de preços com valor superior aos fixados no tarifário;\n\nf) Falência da concessionária podendo, nesse caso, o Estado autorizar que os credores assumam os direitos e encargos resultantes da concessão;\n\ng) Transmissão da concessão não autorizada;\n\nh) Violação grave das obrigações da concessionária previstas nas presentes bases.\n\n2 - Não constituem causas de extinção os factos ocorridos por motivos de força maior e, bem assim, os que o Estado aceite como justificados.\n\n3 - Quando as faltas forem causadas por mera negligência e susceptíveis de correcção, o Estado não deve extinguir a concessão sem previamente avisar a concessionária para, em determinado prazo, cumprir integralmente as suas obrigações e corrigir ou reparar as consequências da sua negligência.\n\n4 - A extinção da concessão deve ser notificada à concessionária e produz imediatamente os seus efeitos."
+  },
+  "178696913": {
+   "fragment_id": "178696855",
+   "type": 2,
+   "heading": "Base XXVIII — Resgate da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXVIII — Resgate da concessão\n\n1 - O Estado pode resgatar a concessão sempre que motivos de interesse público o justifiquem e decorridos que sejam pelo menos 15 anos a partir da data do seu início, mediante notificação feita à concessionária pelo Ministro do Equipamento Social enviada com, pelo menos, seis meses de antecedência.\n\n2 - Decorrido o período de seis meses sobre a notificação do resgate, o Estado assume todos os direitos e deveres contraídos pela concessionária anteriormente à data da notificação, incluindo os tomados com o pessoal contratado para o efeito, e ainda aqueles que tenham sido assumidos pela concessionária após a data da notificação, desde que tenham sido autorizados pelo Ministro do Equipamento Social.\n\n3 - A assunção de deveres pelo Estado é feita sem prejuízo de direito de regresso pelas obrigações contraídas pela concessionária que exorbitem da gestão normal da concessão.\n\n4 - Em caso de resgate, a concessionária tem direito a uma indemnização não superior à soma do valor contabilístico do imobilizado corpóreo e incorpóreo líquido de amortizações, com base em critérios de amortização geralmente aceites, do valor contabilístico de outros activos por ela custeados e afectos à concessão, com referência ao último balanço aprovado, deduzida do valor das dotações financeiras para investimento feitas pelo Estado e pela União Europeia à concessionária e dos bens e activos transferidos ou cedidos, a título gratuito, para a concessionária.\n\n5 - Não são contabilizados, para efeitos de cálculo da indemnização do resgate, os bens e direitos que se encontrem anormalmente depreciados ou deteriorados.\n\n6 - O valor final da indemnização do resgate deve ser homologado pelo Ministro das Finanças."
+  },
+  "178696914": {
+   "fragment_id": "178696856",
+   "type": 8,
+   "heading": "Secção IX — Contencioso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IX — Contencioso"
+  },
+  "178696915": {
+   "fragment_id": "178696857",
+   "type": 2,
+   "heading": "Base XXIX — Arbitragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXIX — Arbitragem\n\n1 - Qualquer litígio emergente da concessão deve ser submetido ao foro arbitral, nos termos da Lei n.º 31/86, de 29 de Agosto.\n\n2 - O tribunal arbitral deve ser composto por três árbitros.\n\n3 - O concedente e a concessionária designam cada um o seu árbitro, sendo o terceiro, que preside, cooptado pelos dois designados pelas partes, ou, na falta de acordo destes, nomeado pelo Presidente do Supremo Tribunal Administrativo.\n\n4 - A arbitragem deve correr na cidade de Coimbra.\n\nANEXO II\n\n(a que se refere o n.º 2 do artigo 3.º)\n\nEstatutos da Metro-Mondego, S. A."
+  },
+  "178696916": {
+   "fragment_id": "178696858",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "178696917": {
+   "fragment_id": "178696859",
+   "type": 1,
+   "heading": "Capítulo I — Firma, sede, objecto e duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Firma, sede, objecto e duração"
+  },
+  "178696918": {
+   "fragment_id": "178696860",
+   "type": 11,
+   "heading": "Artigo 1.º — Firma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Firma\n\nA sociedade adopta o tipo de sociedade anónima, de capitais exclusivamente públicos, com a firma Metro-Mondego, S. A."
+  },
+  "178696919": {
+   "fragment_id": "178696861",
+   "type": 11,
+   "heading": "Artigo 2.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sede\n\nA sede da sociedade é na Rua de Rodrigues de Gusmão, 21, na freguesia de Santo António dos Olivais, em Coimbra."
+  },
+  "178696920": {
+   "fragment_id": "178696862",
+   "type": 11,
+   "heading": "Artigo 3.º — Objecto principal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objecto principal\n\n1 - A sociedade tem por objecto a exploração, em regime de concessão atribuída pelo Estado, de um sistema de metro ligeiro de superfície nas áreas dos municípios de Coimbra, Miranda do Corvo e Lousã.\n\n2 - Para a prossecução do seu objecto incumbe especialmente à sociedade a realização dos estudos, concepção, planeamento, projectos e construção das infra-estruturas necessárias à concretização do empreendimento, bem como o fornecimento de equipamentos e material circulante e a exploração do sistema de metro."
+  },
+  "178696921": {
+   "fragment_id": "178696863",
+   "type": 11,
+   "heading": "Artigo 4.º — Objecto acessório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objecto acessório\n\n1 - Em complemento das actividades que constituem o seu objecto, a sociedade poderá realizar as seguintes actividades:\n\na) Exploração comercial, directa ou indirecta, de estabelecimentos comerciais, escritórios, salas de exposições, máquinas de venda de produtos e serviços de publicidade aposta nas instalações do sistema ou no material circulante;\n\nb) Promoção, directa ou indirecta, da construção ou venda de edifícios para fins comerciais, industriais ou residenciais nos terrenos ou edifícios que integrem o seu património, nomeadamente devido a entradas dos accionistas;\n\nc) Prestação de serviços, nomeadamente de consultadoria e de apoio técnico;\n\nd) Transferência de tecnologia e de know-how.\n\n2 - A sociedade poderá, para o desenvolvimento das actividades referidas no n.º 1, constituir empresas ou tomar participações noutras sociedades."
+  },
+  "178696922": {
+   "fragment_id": "178696864",
+   "type": 11,
+   "heading": "Artigo 5.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Duração\n\nA duração da sociedade é por tempo indeterminado."
+  },
+  "178696923": {
+   "fragment_id": "178696865",
+   "type": 1,
+   "heading": "Capítulo II — Capital social, acções e obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Capital social, acções e obrigações"
+  },
+  "178696924": {
+   "fragment_id": "178696866",
+   "type": 11,
+   "heading": "Artigo 6.º — Capital social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Capital social\n\n1 - O capital social é de (euro) 1075000.\n\n2 - O capital social é representado por 1075000 acções ordinárias, de (euro) 1 cada uma.\n\n3 - As acções são escriturais, ficando sujeitas ao regime das acções nominativas.\n\n4 - Haverá títulos de 1, 5, 50, 100 e 1000 acções, podendo o conselho de administração emitir certificados provisórios ou definitivos representativos de qualquer número de acções.\n\n5 - As despesas com o desdobramento dos títulos correrão por conta dos accionistas que o requeiram."
+  },
+  "178696925": {
+   "fragment_id": "178696867",
+   "type": 11,
+   "heading": "Artigo 7.º — Aumento de capital e prestações acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Aumento de capital e prestações acessórias\n\n1 - O aumento do capital social depende de deliberação da assembleia geral.\n\n2 - Quando haja aumento de capital, os accionistas terão, na proporção das acções que possuírem, direito de preferência, quer na subscrição das novas acções, quer no rateio daquelas relativamente às quais tal direito não tenha sido exercido.\n\n3 - Todos os accionistas poderão ser chamados a realizar prestações acessórias de capital, que podem ser integradas em dinheiro ou em espécie, em montante proporcional à sua participação no capital da sociedade, e até ao valor correspondente a 10 vezes o valor nominal da sua participação mediante deliberação da assembleia geral aprovada nos termos destes estatutos.\n\n4 - Quando um accionista pretenda realizar prestações acessórias de capital por entradas em espécie, para além da verificação do valor das mesmas, nos termos do artigo 28.º do Código das Sociedades Comerciais e sem prejuízo desta, a realização das prestações deverá também ser precedida de um estudo ou avaliação feita por perito independente de reconhecida competência no sector em que se inserem os bens a entregar caso o conselho de administração da sociedade assim o determine, face ao caso concreto, ficando a cargo da sociedade as despesas relativas à produção deste estudo ou avaliação, assim como a escolha do perito."
+  },
+  "178696926": {
+   "fragment_id": "178696868",
+   "type": 11,
+   "heading": "Artigo 8.º — Alienação de acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Alienação de acções\n\n1 - As participações sociais no capital dos accionistas correspondem às percentagens seguintes:\n\na) Estado - 53%;\n\nb) Municípios de Coimbra, Miranda do Corvo e Lousã - 14% cada um;\n\nc) REFER - 2,5%;\n\nd) CP - 2,5%.\n\n2 - As percentagens acima mencionadas só podem sofrer alteração por transmissões de acções para terceiros, desde que a operação seja previamente autorizada por despacho conjunto dos Ministros das Finanças e do Equipamento Social."
+  },
+  "178696927": {
+   "fragment_id": "178696869",
+   "type": 11,
+   "heading": "Artigo 9.º — Obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Obrigações\n\nMediante deliberação da assembleia geral, a sociedade poderá emitir obrigações e outros títulos de dívidas nos termos da legislação em vigor."
+  },
+  "178696928": {
+   "fragment_id": "178696870",
+   "type": 1,
+   "heading": "Capítulo III — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Órgãos sociais\n\nArtigo 10.º\n\nÓrgãos sociais\n\n1 - São órgãos sociais a mesa da assembleia geral, o conselho de administração e o fiscal único.\n\n2 - O mandato dos membros da mesa da assembleia geral, do conselho de administração e do fiscal único tem a duração de 3 anos, sendo permitida a sua renovação, por uma ou mais vezes.\n\n3 - Os membros dos órgãos sociais consideram-se empossados logo que tenham sido eleitos e permanecem no desempenho das suas funções até à eleição de quem deva substituí-los.\n\n4 - Os referidos titulares estão dispensados de prestar caução pelo exercício dos seus cargos."
+  },
+  "178696929": {
+   "fragment_id": "178696871",
+   "type": 8,
+   "heading": "Secção I — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Assembleia geral"
+  },
+  "178696930": {
+   "fragment_id": "178696872",
+   "type": 11,
+   "heading": "Artigo 11.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Composição\n\n1 - A assembleia geral é formada pelos accionistas.\n\n2 - Deverão participar nos trabalhos da assembleia geral, sem direito a voto, os membros do conselho de administração e o fiscal único.\n\n3 - Os accionistas deverão indicar, por carta ou ofício dirigido ao presidente da mesa, quem os representará na assembleia geral."
+  },
+  "178696931": {
+   "fragment_id": "178696873",
+   "type": 11,
+   "heading": "Artigo 12.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competência\n\n1 - Compete à assembleia geral:\n\na) Deliberar sobre o relatório do conselho de administração, discutir e votar o balanço e as contas e o parecer do fiscal único e deliberar sobre a aplicação dos resultados do exercício;\n\nb) Eleger a mesa da assembleia geral e os órgãos sociais, bem como proceder à apreciação geral da administração e fiscalização da sociedade e, se for caso disso, e embora esses assuntos não constem da ordem de trabalhos, proceder à destituição, dentro da sua competência, ou manifestar a sua desconfiança quanto a administradores;\n\nc) Deliberar sobre quaisquer alterações dos estatutos e aumentos de capital, sem prejuízo do disposto no n.º 3;\n\nd) Aprovar a emissão de obrigações e outros títulos de dívida, sem prejuízo do disposto no n.º 3;\n\ne) Deliberar sobre as remunerações dos titulares dos órgãos sociais ou eleger uma comissão para a fixação dessas remunerações;\n\nf) Deliberar sobre a realização de prestações acessórias;\n\ng) Tratar de qualquer outro assunto para que tenha sido convocada.\n\n2 - As deliberações que importem alterações aos estatutos, aumentos e reduções de capital, emissão de acções preferenciais e realização de prestações acessórias, fusão, cisão ou dissolução só poderão ser aprovadas com o voto concordante, em primeira convocação de assembleia geral, de accionistas que representem pelo menos dois terços do capital social.\n\n3 - Em segunda convocação, as deliberações referidas no número anterior podem ser aprovadas por votos que representem a maioria do capital."
+  },
+  "178696932": {
+   "fragment_id": "178696874",
+   "type": 11,
+   "heading": "Artigo 13.º — Mesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Mesa\n\nA mesa da assembleia geral é constituída pelo presidente, por um vice-presidente e por um secretário."
+  },
+  "178696933": {
+   "fragment_id": "178696975",
+   "type": 11,
+   "heading": "Artigo 14.º — Convocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Convocação\n\n1 - A assembleia geral é convocada pelo presidente da mesa.\n\n2 - A convocação da assembleia geral faz-se mediante carta registada ou por publicação, com a indicação expressa dos assuntos a tratar e demais elementos a que se refere o artigo 377.º do Código das Sociedades Comerciais."
+  },
+  "178696934": {
+   "fragment_id": "178696976",
+   "type": 11,
+   "heading": "Artigo 15.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Reuniões\n\nA assembleia geral reúne, pelo menos, uma vez por ano e sempre que o conselho de administração, o fiscal único ou um ou mais accionistas que possuam acções correspondentes a pelo menos 5% do capital social assim o requeiram."
+  },
+  "178696935": {
+   "fragment_id": "178696977",
+   "type": 8,
+   "heading": "Secção II — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Conselho de administração"
+  },
+  "178696936": {
+   "fragment_id": "178696978",
+   "type": 11,
+   "heading": "Artigo 16.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Composição\n\n1 - O conselho de administração é composto por sete membros.\n\n2 - O conselho de administração integra uma comissão executiva composta por três membros efectivos, à qual é delegada a gestão corrente da sociedade e os seguintes poderes ou competências, entre outras a constar em regulamento aprovado pelo conselho de administração:\n\na) Execução, acompanhamento e controlo das prestações do contrato ou contratos celebrados pela sociedade, designadamente de subconcessão, para a concepção, projecto, realização das obras de construção, fornecimento e montagem do material circulante e exploração e para supervisão e coordenação das acções a realizar pela empresa que vier a ser escolhida para a fiscalização daquelas prestações;\n\nb) Elaboração do projecto de plano de actividades e orçamento da sociedade e ainda das contas semestrais da sociedade;\n\nc) Supervisão de todos os departamentos e serviços da sociedade;\n\nd) Selecção e contratação de pessoal, técnicos e consultores necessários à promoção e acompanhamento das actividades da sociedade, desde que de acordo com o plano de actividades e orçamento aprovado;\n\ne) Vinculação da sociedade, em quaisquer actos ou contratos, desde que inseridos em projectos, medidas, planos de negócios ou outros documentos previamente aprovados pelo conselho de administração, assim como a emissão de ordens de pagamento, cheques ou transferências bancárias necessários à execução dos actos ou contratos aqui referidos."
+  },
+  "178696937": {
+   "fragment_id": "178696979",
+   "type": 11,
+   "heading": "Artigo 17.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competência\n\n1 - Compete designadamente ao conselho de administração:\n\na) Gerir os negócios sociais e praticar todos os actos e operações respeitantes ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;\n\nb) Representar a sociedade em juízo e fora dele, activa e passivamente, podendo desistir, confessar e transigir em quaisquer pleitos e, bem assim, celebrar convenções de arbitragem;\n\nc) Adquirir, vender ou por outra forma alienar ou onerar direitos ou bens móveis ou imóveis e participações sociais;\n\nd) Estabelecer a organização técnico-administrativa da sociedade e as normas de funcionamento interno designadamente quanto ao pessoal e à sua remuneração;\n\ne) Nomear directores e constituir mandatários, fixando-lhes os poderes que julgar convenientes;\n\nf) Exercer as demais atribuições que lhe sejam cometidas pela lei ou pela assembleia geral.\n\n2 - O conselho de administração não poderá deliberar qualquer um dos assuntos a seguir mencionados sem o acordo da maioria dos seus membros:\n\na) Alienação, oneração ou locação de activos corpóreos, incorpóreos e financeiros, bem como a realização de operações que impliquem o financiamento a terceiros ou endividamento da sociedade de montante igual ou superior a 10% dos capitais próprios tal como constarem do último balanço devidamente aprovado;\n\nb) Participação da sociedade no capital de outras sociedades, em agrupamentos complementares de empresas, e a celebração de contratos de consórcio e de quaisquer outros acordos ou contratos de cooperação e de associação em participação;\n\nc) Lançamento de concursos ou procedimentos para a contratação das prestações necessárias à concepção e projecto, à realização das obras de construção, ao fornecimento, montagem e manutenção do material circulante e dos demais equipamentos que constituem o sistema de metro e à sua exploração, bem como as respectivas adjudicações;\n\nd) Abertura de sucursais, delegações, escritórios de representação e a alteração do local da sede social;\n\ne) Âmbito das atribuições e competências da comissão executiva;\n\nf) Vinculação em qualquer acto ou contrato cujo impacto financeiro global para a sociedade seja superior a 10% dos capitais próprios desta, tal como constarem do último balanço devidamente aprovado."
+  },
+  "178696938": {
+   "fragment_id": "178696980",
+   "type": 11,
+   "heading": "Artigo 18.º — Competências do presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Competências do presidente\n\n1 - Compete especialmente ao presidente do conselho de administração:\n\na) Representar o conselho;\n\nb) Coordenar a actividade do conselho e convocar e dirigir as suas reuniões;\n\nc) Exercer voto de qualidade;\n\nd) Zelar pela correcta execução das deliberações do conselho de administração.\n\n2 - Nas suas faltas ou impedimentos, o presidente será substituído pelo vogal do conselho por si designado para o efeito."
+  },
+  "178696939": {
+   "fragment_id": "178696981",
+   "type": 11,
+   "heading": "Artigo 19.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Reuniões\n\nO conselho de administração fixará as datas ou a periodicidade das suas reuniões ordinárias e reunirá extraordinariamente sempre que seja convocado pelo presidente ou a solicitação dos dois administradores."
+  },
+  "178696940": {
+   "fragment_id": "178696982",
+   "type": 11,
+   "heading": "Artigo 20.º — Deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Deliberações\n\n1 - O conselho de administração não pode deliberar sem que esteja presente a maioria dos seus membros em exercício, salvo por motivo de urgência, como tal reconhecida pelo presidente, caso em que os votos podem ser expressos por correspondência ou por carta passada a outro administrador.\n\n2 - As deliberações do conselho de administração constarão sempre de acta e serão tomadas pela maioria dos votos presentes ou representados, tendo o presidente, ou quem o substitua, voto de qualidade."
+  },
+  "178696941": {
+   "fragment_id": "178696983",
+   "type": 11,
+   "heading": "Artigo 21.º — Vinculação da sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Vinculação da sociedade\n\n1 - A sociedade obriga-se:\n\na) Pela assinatura de três membros do conselho de administração ou pela assinatura de dois membros, desde que um seja o presidente;\n\nb) Pela assinatura de administrador-delegado, dentro dos limites delegados pelo conselho;\n\nc) Pela assinatura de um dos administradores e de um director ou mandatário, no âmbito dos poderes que lhe tenham sido conferidos.\n\n2 - O conselho de administração pode deliberar que certos documentos da sociedade sejam assinados por processos mecânicos ou chancela."
+  },
+  "178696942": {
+   "fragment_id": "178696984",
+   "type": 8,
+   "heading": "Secção III — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Fiscal único"
+  },
+  "178696943": {
+   "fragment_id": "178696985",
+   "type": 11,
+   "heading": "Artigo 22.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Composição\n\nO fiscal único será obrigatoriamente um revisor oficial de contas ou uma sociedade de revisores oficiais de contas."
+  },
+  "178696944": {
+   "fragment_id": "178696986",
+   "type": 11,
+   "heading": "Artigo 23.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Competência\n\n1 - Compete designadamente ao fiscal único:\n\na) Exercer, em geral, a fiscalização da actividade social;\n\nb) Examinar, sempre que o julgue conveniente, a escrituração da sociedade;\n\nc) Acompanhar o funcionamento da sociedade, bem como o cumprimento dos estatutos e das normas legais e regulamentares que lhe são aplicáveis;\n\nd) Emitir parecer acerca do orçamento, do balanço, do inventário e das contas anuais;\n\ne) Dar conhecimento ao conselho de administração de qualquer assunto que deva ser ponderado e pronunciar-se sobre qualquer matéria que lhe seja submetida por aquele órgão ou pela assembleia geral;\n\nf) Exercer as demais atribuições que lhe sejam cometidas por lei.\n\n2 - Quando o considere indispensável, o fiscal único poderá propor à assembleia geral a contratação de técnicos especialmente designados para o coadjuvarem nas suas funções."
+  },
+  "178696945": {
+   "fragment_id": "178696987",
+   "type": 8,
+   "heading": "Secção IV — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Conselho consultivo"
+  },
+  "178696946": {
+   "fragment_id": "178696988",
+   "type": 11,
+   "heading": "Artigo 24.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Composição\n\n1 - A composição do conselho consultivo é fixada por deliberação da assembleia geral.\n\n2 - Os membros do conselho consultivo designarão entre si o seu presidente."
+  },
+  "178696947": {
+   "fragment_id": "178696989",
+   "type": 11,
+   "heading": "Artigo 25.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Competências\n\nCompete ao conselho consultivo emitir pareceres, sem natureza vinculativa, sobre:\n\na) Versão final dos documentos do concurso a realizar para as prestações relativas à concepção, realização das obras de construção, fornecimento e montagem do material circulante e dos demais equipamentos que constituem o sistema de metro, bem como da sua exploração;\n\nb) Demais matérias que lhe sejam submetidas pelo presidente do conselho de administração."
+  },
+  "178696948": {
+   "fragment_id": "178696990",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "178696949": {
+   "fragment_id": "178696991",
+   "type": 11,
+   "heading": "Artigo 26.º — Dissolução e liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Dissolução e liquidação\n\n1 - A sociedade dissolve-se nos casos e nos termos legais.\n\n2 - A liquidação da sociedade reger-se-á pelas disposições da lei e pelas deliberações da assembleia geral."
+  },
+  "178695075": {
+   "fragment_id": "178696819",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2004-12-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "O projecto de metropolitano ligeiro de superfície a implantar nos municípios de Coimbra, Miranda do Corvo e Lousã é um elemento determinante para o desenvolvimento daquela região, integrando a sua concretização um processo de modernização e articulação dos sistemas de transportes, contribuindo para a melhoria das acessibilidades, viabilizando novas actividades económicas geradoras de maior riqueza e bem-estar social, bem como a promoção das condições de planeamento e de ordenamento urbano.\n\nAtravés do Decreto-Lei n.º 70/94, de 3 de Março, estabeleceu-se o primeiro regime jurídico de exploração do metropolitano ligeiro de superfície nos municípios de Coimbra, Miranda do Corvo e Lousã, que, essencialmente, consagrava a atribuição da exploração desse sistema, em exclusivo, a uma sociedade anónima de capitais exclusivamente públicos, a qual veio a ser constituída no dia 20 de Maio de 1996, sob a firma Metro-Mondego, S. A., cujo capital social era maioritariamente detido pelos referidos municípios.\n\nContudo, as bases sobre as quais assentou a elaboração e o desenvolvimento do projecto tal como inicialmente consagradas mostraram-se ineficazes para a sua concretização, tendo-se tornado imprescindível introduzir novos elementos que promovessem maior dinamismo e flexibilidade operacional, designadamente, através da participação do Estado e da Rede Ferroviária Nacional - REFER, E. P., no capital social da sociedade, dotando-a dos meios necessários e adequados à prossecução do seu objecto, para o que se procedeu à alteração do Decreto-Lei n.º 70/94, de 3 de Março, através do Decreto-Lei n.º 179-A/2001, de 18 de Junho, com a concordância das Câmaras Municipais envolvidas.\n\nHouve, pois, que repensar o quadro legal existente, adaptando-o à nova realidade, por forma a consolidar a participação do Estado e da Rede Ferroviária Nacional - REFER, E. P., no capital social da Metro-Mondego, S. A., estabelecendo um novo regime jurídico e fazendo aprovar as bases de concessão da exploração e os novos estatutos da sociedade.\n\nO disposto no presente diploma mereceu a prévia concordância das Câmaras Municipais de Coimbra, Miranda do Corvo e Lousã.\n\nForam ainda ouvidos a Associação Nacional de Municípios Portugueses, as Comissões de Trabalhadores da CP - Caminhos de Ferro Portugueses, E. P., e da Rede Ferroviária Nacional, REFER E. P., bem como os sindicatos representativos dos trabalhadores do sector.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º\n\nConcessão de serviço público\n\n1 - O Estado atribui à Metro-Mondego, S. A., em exclusivo, a concessão, em regime de serviço público, da exploração de um sistema de metro ligeiro de superfície nos municípios de Coimbra, Miranda do Corvo e Lousã, sem prejuízo do disposto no número seguinte.\n\n2 - Revelando-se económica e socialmente mais vantajoso, a concessionária, em parte do troço denominado por ramal da Lousã, entre Coimbra-B e Serpins, pode optar por soluções tecnológicas alternativas àquela que for escolhida para o restante sistema, assegurando o aproveitamento racional do canal ferroviário existente.\n\n3 - A concessão rege-se pelas bases da concessão que constam do anexo I ao presente diploma e que dele fazem parte integrante.\n\n4 - A concessão é atribuída pelo prazo de 40 anos, o qual pode ser prorrogado nos termos previstos nas bases de concessão.\n\nArtigo 2.º\n\nDo concedente\n\nO Estado, enquanto concedente, é representado, consoante os casos, pelos ministros que detenham a tutela financeira e a tutela sectorial ou por quem actue ao abrigo de poderes delegados por despacho conjunto dos mesmos ministros.\n\nArtigo 3.º\n\nDa concessionária\n\n1 - A Metro-Mondego, S. A., é uma sociedade anónima de capitais exclusivamente públicos que se rege pela lei comercial e pelos seus estatutos, salvo no que o presente diploma ou disposições legais especiais disponham diferentemente.\n\n2 - Com o presente diploma, são aprovados os novos estatutos da Metro-Mondego, S. A., cujo texto consta do anexo II do presente diploma, que dele faz parte integrante.\n\n3 - A Metro-Mondego, S. A., fica dispensada da outorga de escritura pública para as alterações estatutárias resultantes do documento mencionado no número anterior, servindo a presente publicação no Diário da República como título bastante para a perfeição e validade destes actos e, bem assim, para o respectivo registo.\n\nArtigo 4.º\n\nContratação e fiscalização\n\n1 - Para a prossecução do objecto da concessão, pode a Metro-Mondego, S. A., proceder à contratação, nomeadamente através da subconcessão total ou parcial, por concurso, das prestações necessárias à concepção e projecto, à realização das obras de construção, ao fornecimento, montagem e manutenção do material circulante e dos demais equipamentos que constituem o sistema e à sua exploração.\n\n2 - A contratação pela Metro-Mondego, S. A., através de subconcessão, das prestações necessárias à concepção e projecto, à realização das obras de construção, ao fornecimento, montagem e manutenção do material circulante e dos demais equipamentos que constituem o sistema não pode exceder o prazo de 34 anos a contar da data de assinatura do respectivo contrato de subconcessão.\n\n3 - A contratação pela Metro-Mondego, S. A., através de subconcessão, das prestações necessárias à exploração do sistema não pode exceder, na primeira subconcessão, o prazo de nove anos e, nas seguintes, o prazo de cinco anos, a contar da data da assinatura do respectivo contrato de subconcessão.\n\n4 - À contratação pela Metro-Mondego, S. A., através de subconcessão, das prestações referidas nos números anteriores aplica-se, com as devidas adaptações, o regime jurídico previsto no Decreto-Lei n.º 86/2003, de 26 de Abril.\n\n5 - A Metro-Mondego, S. A., não pode, directa ou indirectamente, participar no capital das subconcessionárias.\n\n6 - A Metro-Mondego, S. A., pode, por concurso, contratar empresas para a fiscalização das prestações referidas no n.º 1, sem prejuízo dos deveres de fiscalização das actividades da concessionária cometidas a esta ou a outras entidades nos termos das bases da concessão.\n\nArtigo 5.º\n\nDo pessoal\n\n1 - Podem ser autorizados a exercer funções na Metro-Mondego, S. A., em regime de requisição ou comissão de serviço, nos termos da lei, funcionários e agentes do Estado, dos institutos públicos, das autarquias locais e trabalhadores de empresas públicas e de capitais exclusiva ou maioritariamente públicos, os quais conservarão todos os direitos e regalias inerentes ao seu quadro de origem.\n\n2 - Os trabalhadores da CP - Caminhos de Ferro Portugueses, E. P., e da Rede Ferroviária Nacional - REFER, E. P., que em função da redução do serviço público de transporte ferroviário e de gestão da infra-estrutura e da sua cessação fiquem progressivamente excedentários são integrados na Metro-Mondego, S. A., ou na sua subconcessionária, com a salvaguarda dos seus direitos e regalias.\n\n3 - Consideram-se excedentários os trabalhadores que a CP - Caminhos de Ferro Portugueses, E. P., e a Rede Ferroviária Nacional - REFER, E. P., após as diligências de integração desenvolvidas, não tenham sido comprovadamente recolocados nas respectivas empresas, nomeadamente através de processos de reconversão ou requalificação profissional ou com os quais não tenham acordado a revogação dos contratos de trabalho ou a passagem à situação de reforma.\n\n4 - Os encargos suportados pela CP - Caminhos de Ferro Portugueses, E. P., e pela Rede Ferroviária Nacional - REFER, E. P., com as medidas de revogação de contratos de trabalho ou reforma são assumidos pelo Estado, no âmbito da programação financeira do sistema de metro ligeiro dos municípios de Coimbra, Miranda do Corvo e Lousã.\n\n5 - Aos trabalhadores integrados na Metro-Mondego, S. A., poder-se-ão aplicar as medidas previstas no n.º 4, devendo o Estado assegurar os encargos decorrentes da sua aplicação.\n\nArtigo 6.º\n\nRegime transitório de exploração\n\n1 - A CP - Caminhos de Ferro Portugueses, E. P., e a Rede Ferroviária Nacional - REFER, E. P., mantêm, nos termos definidos nos números seguintes, o regime de serviço público de exploração e de gestão do ramal da Lousã até que as obras de construção do sistema objecto da concessão inviabilizem a exploração ferroviária.\n\n2 - Cabe à Metro-Mondego, S. A., assegurar a realização de transportes alternativos durante a fase de construção e implementação do sistema objecto da concessão, até à entrada em funcionamento deste.\n\n3 - Para assegurar o disposto no n.º 1, a Metro-Mondego, S. A., convencionará, nos termos a fixar por despacho conjunto dos ministros da tutela financeira e da tutela sectorial, as seguintes prestações de serviços:\n\na) A realização pela CP - Caminhos de Ferro Portugueses, E. P., do serviço de transporte ferroviário na área de implantação do sistema de metro;\n\nb) A realização pela Rede Ferroviária Nacional - REFER, E. P., dos serviços de gestão da infra-estrutura ferroviária.\n\n4 - Quando as obras inviabilizarem a prestação do serviço ferroviário será o mesmo substituído por transporte alternativo rodoviário assegurado pela Metro-Mondego, S. A.\n\n5 - Se, até à data da celebração das prestações de serviços referidas no n.º 3, a CP - Caminhos de Ferro Portugueses, E. P., ou a Rede Ferroviária Nacional - REFER, E. P., tiverem de realizar investimentos ou de incorrer em encargos face à ocorrência de casos de força maior ou de alterações imprevistas às circunstâncias que determinaram as obrigações de manutenção de serviço público, nos termos do n.º 1, o Estado assegura a adequada compensação à empresa que tenha realizado o investimento ou sofrido o encargo.\n\n6 - No caso de ser manifestamente impossível à Metro-Mondego, S. A., suportar, total ou parcialmente, os encargos decorrentes das obrigações a que se referem os n.os 2, 3 e 4, quer através dos seus recursos próprios, quer pela imputação desses encargos à subconcessionária, o Estado assegura à Metro-Mondego, S. A., os meios necessários ao ressarcimento dessas obrigações.\n\nArtigo 7.º\n\nContratos ou acordos\n\nCabe ao Instituto Nacional do Transporte Ferroviário dirimir, pela via da conciliação, os conflitos ou litígios decorrentes da celebração ou da execução dos contratos referidos no n.º 3 do artigo anterior e, nos casos em que tal não se mostre possível, promover a sua resolução pelo recurso à arbitragem nos termos da Lei n.º 31/86, de 29 de Agosto.\n\nArtigo 8.º\n\nBens de domínio público\n\n1 - Os bens de domínio público ferroviário sob gestão da Rede Ferroviária Nacional - REFER, E. P., a serem afectos ao sistema objecto da concessão devem ser discriminados em autos de entrega subscritos por representantes da Rede Ferroviária Nacional - REFER, E. P., e da Metro-Mondego, S. A., e homologados pelo Instituto Nacional do Transporte Ferroviário.\n\n2 - O troço denominado ramal da Lousã, entre Coimbra-B e Serpins, é desclassificado da rede ferroviária nacional e passará a ser gerido pela Metro-Mondego, S. A.\n\n3 - Os bens de domínio público ferroviário sob gestão da Rede Ferroviária Nacional - REFER, E. P., não contemplados nos autos de entrega referidos no n.º 1 e que sejam incluídos no ramal da Lousã transitam por despacho conjunto dos ministros que detenham a tutela financeira e a tutela sectorial para os domínios privativos das empresas referidas nesse número.\n\n4 - É retirado da relação das linhas e ramais mencionada no n.º 1 do artigo 2.º dos estatutos da CP - Caminhos de Ferro Portugueses, E. P., o troço indicado no n.º 2, podendo esta empresa continuar a utilizar o troço entre Coimbra-A e Coimbra-B até que a implementação do sistema objecto da concessão o inviabilize.\n\n5 - Na estação de Coimbra-B deve a Rede Ferroviária Nacional - REFER, E. P., assegurar a necessária intermodalidade com o sistema objecto da concessão.\n\n6 - O Estado assegura à Rede Ferroviária Nacional - REFER, E. P., a adequada compensação pelas infra-estruturas transferidas para a Metro-Mondego, S. A., sendo o valor desta compensação fixado por despacho conjunto dos ministros da tutela financeira e da tutela sectorial.\n\nArtigo 9.º\n\nRevogação\n\nÉ revogado o Decreto-Lei n.º 70/94, de 3 de Março, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 179-A/2001, de 18 de Junho.\n\nVisto e aprovado em Conselho de Ministros de 29 de Novembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Eduardo Luís Barreto Ferro Rodrigues - José Sócrates Carvalho Pinto de Sousa - Alberto de Sousa Martins.\n\nPromulgado em 4 de Janeiro de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 10 de Janeiro de 2002.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\nANEXO I\n\n(a que se refere o artigo 1.º)\n\nBases da concessão do sistema de metro ligeiro de superfície do Mondego\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695090": {
+   "fragment_id": "178696821",
+   "type": 2,
+   "heading": "Base I — Objecto",
+   "in_force_from": "2004-12-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base I — Objecto\n\n1 - A concessão tem por objecto a exploração de um sistema de metro ligeiro de superfície nas áreas dos municípios de Coimbra, Miranda do Corvo e Lousã, sem prejuízo do disposto no número seguinte.\n\n2 - Revelando-se económica e socialmente mais vantajoso, a concessionária, em parte do troço denominado por ramal da Lousã, entre Coimbra-B e Serpins, pode optar por soluções tecnológicas alternativas àquela que for escolhida para o restante sistema, assegurando o aproveitamento racional do canal ferroviário existente.\n\n3 - A concessão compreende ainda a concepção, projecto, realização das obras de construção, fornecimento, montagem e manutenção do material circulante e dos demais equipamentos que constituem o sistema objecto da concessão.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695091": {
+   "fragment_id": "178696822",
+   "type": 2,
+   "heading": "Base II — Actividades da concessionária",
+   "in_force_from": "2004-12-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base II — Actividades da concessionária\n\n1 - A concessionária tem como objecto e actividade principal a realização das prestações inerentes à concessão, ou seja, a concepção, projecto, realização das obras de construção, fornecimento, montagem e manutenção do material circulante e dos demais equipamentos que constituem o sistema objecto da concessão e sua exploração.\n\n2 - A concessionária pode ainda exercer as seguintes actividades autónomas:\n\na) Exploração comercial, directa ou indirecta de estabelecimentos comerciais, escritórios, salas de exposições, máquinas de venda de produtos e serviços de publicidade aposta nas instalações do sistema ou no material circulante;\n\nb) Promoção, directa ou indirecta, da construção ou venda de edifícios para fins comerciais, industriais ou residenciais nos terrenos ou edifícios que integrem o seu património, nomeadamente, devido a entradas dos accionistas;\n\nc) Prestação de serviços, nomeadamente de consultadoria e de apoio técnico;\n\nd) Transferência de tecnologia e de know-how.\n\n3 - As actividades autónomas referidas no n.º 2 são acessórias do objecto da concessão e destinam-se a assegurar os fins sociais do sistema de transporte concessionado e o equilíbrio comercial da sua exploração.\n\n4 - A concessionária pode, para o desenvolvimento das actividades autónomas referidas nesta base, ou outras, criar empresas total ou parcialmente por si detidas, ou tomar participações no capital de outras empresas, mediante autorização prévia dos ministros que detenham a tutela financeira e a tutela sectorial.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695092": {
+   "fragment_id": "178696824",
+   "type": 2,
+   "heading": "Base IV — Prazos da concessão e subconcessão",
+   "in_force_from": "2004-12-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base IV — Prazos da concessão e subconcessão\n\n1 - A concessão tem a duração de 40 anos contados a partir da data da entrada em vigor do diploma que aprova as presentes bases.\n\n2 - A contratação pela concessionária, através de subconcessão, das prestações necessárias à concepção e projecto, à realização das obras de construção, ao fornecimento, montagem e manutenção do material circulante e dos demais equipamentos que constituem o sistema não pode exceder o prazo de 34 anos a contar da data da assinatura do respectivo contrato de subconcessão.\n\n3 - A contratação pela concessionária, através de subconcessão, das prestações necessárias à exploração do sistema objecto da concessão não pode exceder, na primeira subconcessão, o prazo de nove anos e, nas seguintes, o prazo de cinco anos, a contar da data de assinatura do respectivo contrato de subconcessão.\n\n4 - Quando o interesse público o justifique ou a lei o não impeça:\n\na) O prazo da concessão pode ser prorrogado por períodos sucessivos até cinco anos;\n\nb) O prazo da subconcessão relativa à exploração do sistema pode ser prorrogado por um período adicional de cinco anos desde que a subconcessionária assegure o equilíbrio económico-financeiro da exploração, sem qualquer compensação por parte da Metro-Mondego, S. A., ou de outras entidades públicas.\n\n5 - A prorrogação deve ser requerida pela concessionária ou subconcessionária com a antecedência mínima de 18 meses sobre o termo da concessão ou da subconcessão ou do prazo de prorrogação.\n\n6 - A prorrogação do prazo de concessão depende de despacho conjunto dos ministros que detenham a tutela financeira e a tutela sectorial, devendo ser comunicada à concessionária com uma antecedência mínima de um ano sobre o termo da concessão ou do prazo de prorrogação.\n\n7 - A prorrogação do prazo de subconcessão depende de autorização prévia mediante despacho conjunto dos ministros que detenham a tutela financeira e a tutela sectorial, na sequência de fundamentação adequada quanto à sustentabilidade da exploração sem a ocorrência de apoios financeiros públicos, devendo ser comunicada à subconcessionária com uma antecedência mínima de um ano sobre o termo da subconcessão ou do prazo de prorrogação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695093": {
+   "fragment_id": "178696825",
+   "type": 2,
+   "heading": "Base V — Características gerais do sistema",
+   "in_force_from": "2004-12-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base V — Características gerais do sistema\n\nSem prejuízo do disposto no n.º 2 da base I, o sistema de metro concessionado tem as seguintes características gerais, que devem ser asseguradas pela concessionária:\n\na) A rede compreende uma linha axial, de cariz suburbano, e uma linha urbana a implantar no concelho de Coimbra; a construção e exploração destas linhas poderá ter lugar em fases distintas;\n\nb) A rede deve conter instalações que garantam condições de interface com os diferentes modos de transporte nos pontos de intersecção com maior afluxo de clientes;\n\nc) O serviço de transporte deve ser efectuado de forma regular e contínua, de acordo com os horários preestabelecidos e anunciados junto do público e só pode ser interrompido em caso de força maior, designadamente, insurreição, sedição, cataclismo, catástrofe natural ou por ordem das autoridades;\n\nd) A energia utilizada na tracção deve ser tecnológica e ambientalmente adaptada aos melhores padrões de inserção no tecido urbano e suburbano;\n\ne) Os padrões de segurança e de qualidade do sistema devem ser mantidos em níveis elevados e sujeitos a actualizações;\n\nf) As instalações, as infra-estruturas e o material circulante devem estar sujeitos a vigilância por forma a garantir a sua integridade e a adequada protecção dos passageiros e dos funcionários do sistema de metro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695094": {
+   "fragment_id": "178696827",
+   "type": 2,
+   "heading": "Base VI — Estabelecimento e bens afectos à concessão",
+   "in_force_from": "2004-12-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base VI — Estabelecimento e bens afectos à concessão\n\n1 - Consideram-se afectos à concessão, para além dos bens que integram o seu estabelecimento, todos os bens móveis ou imóveis, corpóreos ou incorpóreos, assim como todos os direitos ligados directa ou indirectamente à implantação e exploração do sistema.\n\n2 - A concessionária é obrigada a manter em bom estado de funcionamento, de conservação e de segurança, a expensas suas, todos os bens e direitos afectos à concessão.\n\n3 - A concessionária deve elaborar e manter actualizado um inventário de todos os bens afectos à concessão, a ser enviado anualmente ao concedente até ao final do mês de Janeiro devidamente certificado por auditor por este aceite.\n\n4 - A concessionária não pode alienar ou onerar, parcial ou totalmente e sob qualquer forma, os bens e os direitos que estejam afectos à exploração do sistema, salvo mediante autorização prévia do ministro da tutela sectorial ou nos casos em que a lei aplicável aos bens do domínio público o preveja, bem como quando se tratem de bens consumíveis ou da mera substituição de bens perecíveis ou deterioráveis.\n\n5 - Durante a vigência da concessão, a concessionária é titular do direito de propriedade dos bens que lhe sejam afectos e não pertençam ao domínio público.\n\n6 - No termo da concessão os bens a que se refere o número anterior revertem, sem qualquer indemnização, para o Estado, livres de quaisquer ónus ou encargos e em perfeitas condições de operacionalidade, utilização e manutenção, podendo haver lugar a indemnização quanto a bens cuja vida económica ao tempo da reversão ou respectiva data de investimento justifique o justo ressarcimento da concessionária, indemnização que será calculada segundo os critérios do n.º 4 da base XXVIII.\n\n7 - A reversão deve ocorrer sem qualquer formalidade que não seja uma vistoria ad perpetuam rei memoriam, para a qual é convocado um representante da concessionária; do auto de vistoria deverá constar o inventário dos bens e equipamentos afectos à concessão, assim como a descrição do seu estado de conservação e da respectiva aptidão para o desempenho do sistema.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695095": {
+   "fragment_id": "178696828",
+   "type": 2,
+   "heading": "Base VII — Servidões e expropriações",
+   "in_force_from": "2004-12-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base VII — Servidões e expropriações\n\n1 - Compete à concessionária, como entidade expropriante, actuando em nome do Estado, realizar as expropriações e constituir as servidões necessárias à construção do sistema, nos termos deste diploma e do Código das Expropriações.\n\n2 - A concessionária suporta os custos inerentes à condução dos processos expropriativos e o pagamento das indemnizações ou de outras compensações aos expropriados e aos titulares dos prédios servientes, bem como os custos decorrentes da aquisição por via do direito privado dos bens imóveis e direitos a eles inerentes no que respeita aos prédios e parcelas a expropriar ou a adquirir a particulares.\n\n3 - Compete ao ministro que detenha a tutela sectorial a prática do acto que individualize os bens a expropriar nos termos do n.º 2 do artigo 10.º do Código das Expropriações, o qual deve conter a declaração de utilidade pública com carácter de urgência, no prazo de 45 dias a contar da apresentação pela concessionária da documentação exigida para esse efeito.\n\n4 - Compete à concessionária apresentar atempadamente ao Estado todos os elementos e documentos necessários à prática do acto de declaração de utilidade pública, de acordo com legislação em vigor.\n\n5 - O ministro que detenha a tutela sectorial pode designar uma entidade que coordene e fiscalize a condução dos processos expropriativos ou relativos à aquisição de bens pela via do direito privado.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695096": {
+   "fragment_id": "178696830",
+   "type": 2,
+   "heading": "Base VIII — Financiamento das actividades da concessionária",
+   "in_force_from": "2004-12-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base VIII — Financiamento das actividades da concessionária\n\n1 - Os accionistas da concessionária devem dotá-la dos recursos necessários para a prossecução e funcionamento da sua actividade, bem como para suporte dos custos referidos no n.º 2 da base VII, na proporção das respectivas participações de capital.\n\n2 - Para efeitos do n.º 1, os accionistas da concessionária podem ser chamados a realizar fundos próprios na concessionária nas proporções das suas participações no capital desta.\n\n3 - As disposições dos números anteriores não prejudicam o recurso pela concessionária a financiamentos a conceder por terceiras entidades, nomeadamente instituições financeiras nacionais ou internacionais, mediante consulta prévia aos ministros que detenham a tutela financeira e a tutela sectorial, sempre que tal coloque em risco os rácios de solvabilidade da concessionária julgados aceitáveis segundo uma gestão prudente e criteriosa.\n\n4 - O Estado, representado pelos ministros que detenham a tutela financeira e a tutela sectorial, mediante contrato a celebrar com a concessionária, assume os encargos decorrentes da disponibilidade e conservação das infra-estruturas de longa duração e dos equipamentos e material circulante.\n\n5 - O contrato a que se refere o número anterior deve ser celebrado antes de se proceder à adjudicação definitiva da respectiva subconcessão.\n\n6 - A concessionária apenas pode suportar os custos relativos a obras fora do canal afecto ao sistema que:\n\na) Visem exclusivamente a reposição de uma situação equivalente àquela que existia antes de se iniciarem as obras;\n\nb) Sejam susceptíveis de, comprovadamente demonstradas, gerar para a concessionária receitas cujo valor actualizado líquido seja equivalente ou superior ao valor actualizado líquido das respectivas despesas.\n\n7 - Entende-se por canal afecto ao sistema o conjunto formado pela plataforma ferroviária, eventuais ligações rodoviárias em terrenos do domínio público ferroviário, parque de manutenção e operação, estações, interfaces, estacionamentos, subestações de tracção, respectivos acessos e demais órgãos técnicos necessários ao funcionamento do sistema.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695097": {
+   "fragment_id": "178696831",
+   "type": 2,
+   "heading": "Base IX — Regime tarifário",
+   "in_force_from": "2004-12-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base IX — Regime tarifário\n\n1 - A concessionária deve fixar anualmente as tarifas a cobrar aos clientes do sistema assegurando um esquema de complementaridade com os vários meios de transporte colectivos da área e a emissão e comercialização de títulos de transporte próprios e intermodais.\n\n2 - Para efeitos do número anterior e sempre que a exploração do sistema esteja subconcessionado, a fixação das tarifas obedece ao que fique estabelecido no contrato de subconcessão, não podendo nunca pôr em causa a base tarifária média que naquele seja acordada.\n\n3 - Sem prejuízo dos números anteriores, a entrada em vigor das tarifas depende da autorização do Instituto Nacional do Transporte Ferroviário e da Direcção-Geral dos Transportes Terrestres.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695098": {
+   "fragment_id": "178696832",
+   "type": 2,
+   "heading": "Base X — Compensações pela obrigação da prestação de serviço público",
+   "in_force_from": "2004-12-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base X — Compensações pela obrigação da prestação de serviço público\n\n1 - No caso de, comprovadamente, se demonstrar que a prestação de serviço público de transporte de passageiros é susceptível de contribuir acentuadamente para o desequilíbrio económico-financeiro da entidade que tenha a seu cargo a exploração do sistema, a concessionária pode, exclusivamente no período relativo à atribuição da primeira subconcessão, atribuir compensações financeiras pela obrigação da prestação daquele serviço público.\n\n2 - Terminado o prazo relativo à primeira subconcessão, a concessionária não pode, directa ou indirectamente, atribuir compensações financeiras pela prestação do serviço público a que se refere o número anterior, sem prejuízo de tais compensações poderem ser atribuídas pelos municípios servidos pelo sistema objecto da concessão.\n\n3 - Se, depois de terminado o prazo relativo à primeira subconcessão, a concessionária assumir a exploração do sistema e se verificar que aquela apresenta resultados negativos, o Estado, ainda que na qualidade de accionista, não pode contribuir para o financiamento do respectivo défice, sem prejuízo de os referidos municípios atribuírem compensações financeiras pela obrigação da prestação do serviço público de transporte de passageiros.\n\n4 - Para efeitos do disposto nos números anteriores, não podem ser consideradas eventuais prorrogações do prazo da primeira subconcessão.\n\n5 - Nos critérios a utilizar para efeitos de se determinar o valor das compensações financeiras a atribuir pela obrigação do serviço público de transporte de passageiros deve, necessariamente, considerar-se que o aumento do volume de tráfego de passageiros face às projecções consideradas no âmbito da adjudicação conduz à diminuição ou eliminação do valor daquela compensação.\n\n6 - O disposto nos números anteriores não prejudica a adopção pela concessionária de disposições contratuais com vista à protecção do interesse público subjacente à concessão e à optimização das condições de exploração do serviço de transporte.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695099": {
+   "fragment_id": "178696834",
+   "type": 2,
+   "heading": "Base XI — Obrigações de informação da concessionária",
+   "in_force_from": "2004-12-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base XI — Obrigações de informação da concessionária\n\n1 - A concessionária deve dar conhecimento imediato ao ministro da tutela sectorial de qualquer evento que possa vir a prejudicar ou impedir o cumprimento pontual e atempado de qualquer das obrigações emergentes das presentes bases, bem como ao ministro da tutela financeira quando tais eventos tenham implicações de natureza económica e financeira.\n\n2 - A concessionária deve elaborar para todos os anos civis um plano de actividades e um orçamento, contemplando as áreas de gestão e de investimento, cujo projecto deve enviar aos ministros da tutela financeira e da tutela sectorial até ao dia 15 de Dezembro do ano anterior a que respeitem.\n\n3 - Sempre que os orçamentos prevejam a libertação de verbas pelo Estado à concessionária, a aprovação dos orçamentos deve ser precedida da confirmação pelos ministros referidos no n.º 2 da disponibilização dessas verbas.\n\n4 - A concessionária deve remeter aos ministros da tutela financeira e da tutela sectorial, até ao dia 31 de Março de cada ano, relatório de gestão e contas, certificação legal de contas e o parecer do fiscal único relativo ao exercício anterior.\n\n5 - A concessionária deve elaborar um sistema da qualidade relativa ao período inicial de operação, a aprovar pelo Instituto Nacional do Transporte Ferroviário até três meses antes da entrada em operação do primeiro troço, contemplando as metas e parâmetros para as diferentes áreas de actividade, nomeadamente quanto ao nível de fiabilidade e disponibilidade.\n\n6 - A concessionária deve elaborar um sistema integrado de segurança tendo em vista os passageiros, o pessoal próprio ou alheio, o público em geral, o material circulante e outros meios de operação e manutenção do sistema, o qual será aprovado pelo Instituto Nacional do Transporte Ferroviário até três meses antes da entrada em operação do primeiro troço.\n\n7 - Os sistemas referidos nos n.os 5 e 6 devem ser revistos anualmente pela concessionária e a revisão aprovada pelo Instituto Nacional de Transporte Ferroviário.\n\n8 - A concessionária deve fornecer prontamente a qualquer organismo ou representante do Estado todos os elementos relacionados com o exercício da concessão que lhe sejam solicitados por escrito.\n\n9 - Antes de iniciar quaisquer procedimentos ou negociações tendentes à modificação dos contratos referidos no artigo 4.º do decreto-lei que aprova as presentes bases, nomeadamente quanto aos respectivos preços ou às condições e termos referentes ao seu objecto, a concessionária deve solicitar autorização conjunta dos ministros referidos nos números anteriores, identificando as causas e objectivos da modificação pretendida.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695100": {
+   "fragment_id": "178696838",
+   "type": 2,
+   "heading": "Base XIV — Obrigações respeitantes à sociedade concessionária",
+   "in_force_from": "2004-12-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base XIV — Obrigações respeitantes à sociedade concessionária\n\n1 - A concessionária deve manter como seu objecto social principal a exploração do sistema de metro e a sua sede social num dos concelhos dos municípios seus accionistas.\n\n2 - As participações sociais no capital da concessionária só podem ser oneradas ou transmitidas a terceiros mediante autorização prévia por parte dos ministros da tutela financeira e da tutela sectorial, sob pena de nulidade.\n\n3 - Os estatutos da concessionária, constantes do anexo II do diploma que aprova as presentes bases, só podem ser alterados mediante autorização conjunta dos ministros da tutela financeira e da tutela sectorial, sob pena de nulidade.\n\n4 - Constitui ainda obrigação da concessionária o rigoroso cumprimento das obrigações previstas no contrato ou contratos referidos nos artigos 4.º e 6.º do diploma que aprova as presentes bases.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695101": {
+   "fragment_id": "178696841",
+   "type": 2,
+   "heading": "Base XVI — Concursos - Regras gerais",
+   "in_force_from": "2004-12-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base XVI — Concursos - Regras gerais\n\n1 - As prestações relativas à concepção, projecto, realização de obras de construção, fornecimento, montagem e manutenção do material circulante e dos demais equipamentos que constituem o sistema objecto da concessão e a sua exploração podem ser subconcessionadas, total ou parcialmente, devendo a escolha do subconcessionário ou dos subconcessionários ser realizada mediante concurso.\n\n2 - À contratação pela concessionária, nomeadamente através de subconcessão, das prestações referidas no número anterior aplica-se, com as devidas adaptações, o regime jurídico previsto no Decreto-Lei n.º 86/2003, de 26 de Abril.\n\n3 - A concessionária, não pode, directa ou indirectamente, participar no capital das subconcessionárias.\n\n4 - Nos documentos dos concursos deve fixar-se que os concorrentes são obrigados a apresentar preços fixos e não revisíveis para a concepção, projecto, realização de obras de construção, fornecimento, montagem e manutenção do material circulante e dos demais equipamentos necessários à entrada integral em funcionamento do sistema objecto da concessão.\n\n5 - Os concursos devem seguir os trâmites adequados aos limites previstos na legislação nacional e comunitária e, em qualquer dos casos, podem incluir uma fase de negociação com os concorrentes melhor classificados.\n\n6 - Caso haja fase de negociação, esta deve incluir a negociação do contrato de subconcessão a celebrar e deve terminar com a aceitação, por parte do concorrente, da minuta final deste.\n\n7 - Da fase de negociação não podem resultar:\n\na) Alterações às regras do caderno de encargos;\n\nb) Adopção de soluções mais desvantajosas para a concessionária do que as inicialmente propostas pelos concorrentes;\n\nc) Aproveitamento por um concorrente de soluções contidas na proposta de outro concorrente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695102": {
+   "fragment_id": "178696842",
+   "type": 2,
+   "heading": "Base XVII — Natureza e estrutura do concurso",
+   "in_force_from": "2004-12-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base XVII — Natureza e estrutura do concurso\n\n1 - Os concursos referidos na base anterior são lançados pela concessionária.\n\n2 - Sem prejuízo da aplicabilidade, com as necessárias adaptações, do regime previsto no Decreto-Lei n.º 86/2003, de 26 de Abril, compete à concessionária realizar as operações inerentes à realização dos concursos a que se refere a base anterior, designadamente elaborar os instrumentos relativos ao lançamento dos concursos e decidir sobre os recursos administrativos apresentados no âmbito do concurso e sobre os relatórios de avaliação e hierarquização elaborados pela comissão de avaliação das propostas, bem como decidir sobre a adjudicação das subconcessões depois de obtidos os correspondentes despachos ministeriais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695103": {
+   "fragment_id": "178696844",
+   "type": 2,
+   "heading": "Base XIX — Conteúdo mínimo obrigatório da regulamentação",
+   "in_force_from": "2004-12-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base XIX — Conteúdo mínimo obrigatório da regulamentação\n\n1 - Nos programas de concurso devem constar obrigatoriamente, de forma detalhada, os requisitos respeitantes à experiência, capacidade e aptidão técnica, financeira e empresarial que os concorrentes devem satisfazer de forma a serem admitidos ao concurso ou qualificados.\n\n2 - Para além do disposto no número anterior, deve constar ainda do programa de concurso, pelo menos:\n\na) O elenco dos critérios de apreciação das propostas, com vista à selecção para a fase de negociações, se a ela houver lugar, e para a escolha do subconcessionário;\n\nb) As normas relativas à tramitação processual do concurso;\n\nc) As cauções a apresentar pelos concorrentes.\n\n3 - Nos cadernos de encargos deve constar, pelo menos:\n\na) A duração da subconcessão;\n\nb) As exigências especiais que a concessionária entenda fazer na definição da organização e estatutos da sociedade subconcessionária, bem como sobre eventuais acordos parassociais entre os accionistas e acordos entre cada um ou alguns deles e a concessionária, com vista a salvaguardar a estabilidade e solidez da concessão;\n\nc) As condições ou especificações relativas à concepção, realização de obras de construção, fornecimento de material circulante e outros equipamentos que constituem o sistema de metro, bem como as respectivas garantias para o cumprimento permanente e total das obrigações emergentes do contrato ou dos contratos de subconcessão.\n\n4 - A concessionária, antes de proceder ao lançamento dos concursos a que se referem as bases anteriores, deve diligenciar no sentido de serem celebrados protocolos com os municípios servidos pelo sistema objecto da concessão, definindo e disciplinando os compromissos assumidos por cada um deles e a respectiva partilha de responsabilidades.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695104": {
+   "fragment_id": "178696845",
+   "type": 2,
+   "heading": "Base XX — Critérios de atribuição da subconcessão",
+   "in_force_from": "2004-12-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base XX — Critérios de atribuição da subconcessão\n\n1 - Quer a decisão final de selecção dos subconcessionários quer a escolha dos concorrentes para a fase de negociações, se a ela houver lugar, têm por base a avaliação das propostas segundo os seguintes critérios gerais:\n\na) Valor actual líquido dos pagamentos a efectuar pela concessionária ou outras entidades públicas;\n\nb) Qualidade técnica da proposta;\n\nc) Solidez da estrutura empresarial, contratual e financeira;\n\nd) Grau de risco e de compromisso associado à proposta;\n\ne) Prazos de execução do projecto.\n\n2 - A ordem dos critérios constante do número anterior não representa hierarquização dos mesmos.\n\n3 - Os critérios constantes do n.º 1 podem ser desenvolvidos e a sua aplicação sujeita a metodologias de avaliação, desde que esses desenvolvimentos e metodologias sejam patenteados aos concorrentes antes de findo o prazo de entrega das respectivas propostas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695105": {
+   "fragment_id": "178696848",
+   "type": 2,
+   "heading": "Base XXIII — Prémios",
+   "in_force_from": "2004-12-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base XXIII — Prémios\n\nA concessionária pode deliberar a atribuição de prémios a um ou mais concorrentes preteridos nos concursos cujas propostas, ainda assim, tenham qualidade manifesta, mas o seu montante deve ser sujeito a aprovação dos ministros da tutela financeira e da tutela sectorial.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695106": {
+   "fragment_id": "178696849",
+   "type": 2,
+   "heading": "Base XXIV — Aprovação e alteração dos contratos de subconcessão",
+   "in_force_from": "2004-12-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base XXIV — Aprovação e alteração dos contratos de subconcessão\n\n1 - As minutas dos contratos de subconcessão devem ser aprovadas por despacho conjunto dos ministros que detenham a tutela financeira e a tutela sectorial.\n\n2 - As alterações aos contratos referidos no número anterior estão sujeitas ao regime previsto no artigo 14.º do Decreto-Lei n.º 86/2003, de 26 de Abril.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695107": {
+   "fragment_id": "178696853",
+   "type": 2,
+   "heading": "Base XXVI — Sequestro",
+   "in_force_from": "2004-12-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base XXVI — Sequestro\n\n1 - O Estado, através do ministro da tutela sectorial, pode tomar através de sequestro a exploração do serviço quando se der ou estiver iminente a cessação ou interrupção total ou parcial da exploração do serviço ou quando se verifique a gestão danosa da concessão ou graves deficiências na organização e funcionamento do serviço de transporte ou no estado das instalações ou do equipamento susceptíveis de comprometer a regularidade da exploração.\n\n2 - Verificado o sequestro, a concessionária suporta os encargos resultantes da manutenção dos serviços e as despesas extraordinárias necessárias ao restabelecimento da normalidade da exploração que não puderem ser cobertos pelos resultados da exploração.\n\n3 - Logo que cessem as razões do sequestro, o Estado notifica a concessionária para retomar, na data que lhe for fixada, a normal exploração do serviço.\n\n4 - Se após a retoma da exploração pela concessionária continuarem a verificar-se graves deficiências na organização e funcionamento do serviço o Estado pode declarar a concessão extinta.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695108": {
+   "fragment_id": "178696854",
+   "type": 2,
+   "heading": "Base XXVII — Extinção da concessão",
+   "in_force_from": "2004-12-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base XXVII — Extinção da concessão\n\n1 - O Estado, através de despacho conjunto dos ministros da tutela financeira e da tutela sectorial, pode dar a concessão por extinta quando tenha ocorrido qualquer dos factos seguintes:\n\na) Desvio do objecto da concessão;\n\nb) Interrupção prolongada da exploração do serviço por facto imputável à concessionária;\n\nc) Oposição reiterada ao exercício da fiscalização ou repetida desobediência às determinações do Estado ou, ainda, sistemática inobservância das leis e regulamentos aplicáveis, quando se mostrem ineficazes as sanções aplicadas;\n\nd) Recusa em proceder à adequada conservação e reparação das infra-estruturas;\n\ne) Cobrança dolosa de preços com valor superior aos fixados no tarifário;\n\nf) Falência da concessionária, podendo, nesse caso, o Estado autorizar que os credores assumam os direitos e encargos resultantes da concessão;\n\ng) Transmissão da concessão não autorizada;\n\nh) Violação grave das obrigações da concessionária previstas nas presentes bases.\n\n2 - Não constituem causas de extinção os factos ocorridos por motivos de força maior e, bem assim, os que o Estado aceite como justificados.\n\n3 - Quando as faltas forem causadas por mera negligência e susceptíveis de correcção, o Estado não deve extinguir a concessão sem previamente avisar a concessionária para, em determinado prazo, cumprir integralmente as suas obrigações e corrigir ou reparar as consequências da sua negligência.\n\n4 - A extinção da concessão deve ser notificada à concessionária e produz imediatamente os seus efeitos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695109": {
+   "fragment_id": "178696855",
+   "type": 2,
+   "heading": "Base XXVIII — Resgate da concessão",
+   "in_force_from": "2004-12-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base XXVIII — Resgate da concessão\n\n1 - O Estado pode resgatar a concessão sempre que motivos de interesse público o justifiquem e decorridos que sejam pelo menos 15 anos a partir da data do seu início, mediante notificação feita à concessionária pelo ministro da tutela sectorial enviada com, pelo menos, seis meses de antecedência.\n\n2 - Decorrido o período de seis meses sobre a notificação do resgate, o Estado assume todos os direitos e deveres contraídos pela concessionária anteriormente à data da notificação, incluindo os tomados com o pessoal contratado para o efeito, ainda aqueles que tenham sido assumidos pela concessionária após a data da notificação, desde que tenham sido autorizados pelo ministro da tutela sectorial.\n\n3 - A assunção de deveres pelo Estado é feita sem prejuízo de direito de regresso pelas obrigações contraídas pela concessionária que exorbitem da gestão normal da concessão.\n\n4 - Em caso de resgate, a concessionária tem direito a uma indemnização não superior à soma do valor contabilístico do imobilizado corpóreo e incorpóreo líquido de amortizações, com base em critérios de amortização geralmente aceites, do valor contabilístico de outros activos por ela custeados e afectos à concessão, com referência ao último balanço aprovado, deduzida do valor das dotações financeiras para investimento feitas pelo Estado e pela União Europeia à concessionária e dos bens e activos transferidos ou cedidos, a título gratuito, para a concessionária.\n\n5 - Não são contabilizados, para efeitos de cálculo da indemnização do resgate, os bens e direitos que se encontrem anormalmente depreciados ou deteriorados.\n\n6 - O valor final da indemnização do resgate deve ser homologado pelo ministro da tutela financeira.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695111": {
+   "fragment_id": "178696821",
+   "type": 2,
+   "heading": "Base I — Objeto",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base I — Objeto\n\n1 - A concessão tem por objeto:\n\na) A implementação, supervisão e manutenção da infraestrutura de um sistema de transporte público de passageiros em modo rodoviário em sítio próprio, nos municípios de Coimbra, Miranda do Corvo e Lousã, designado sistema \"Metrobus\";\n\nb) A exploração do sistema Metrobus, pelo prazo de 10 anos, a contar do início da entrada em serviço do referido sistema, nos termos previstos no contrato de serviço público.\n\n2 - Para concretização do objeto previsto na alínea a) do número anterior, cabe à concessionária, ainda que por intermédio de terceiros, proceder à implementação, designadamente através da conceção, projeto, fiscalização e realização das obras de construção da infraestrutura do sistema Metrobus, bem como à respetiva supervisão e manutenção da infraestrutura.\n\n3 - Tendo em consideração que as infraestruturas e equipamentos essenciais ao sistema objeto da concessão constituem infraestruturas de longa duração, propriedade do Estado, este assegura à concessionária os meios necessários ao cumprimento do disposto no número anterior.\n\n4 - O Estado é a autoridade de transportes competente nos termos da alínea c) do n.º 1 do artigo 5.º do Regime Jurídico do Serviço Público de Transporte de Passageiros, aprovado em anexo à Lei n.º 52/2015, de 9 de junho, na sua redação atual (RJSPTP).\n\n5 - Nos termos do n.º 3 do artigo 5.º do RJSPTP, podem ser delegadas ou partilhadas competências com as autoridades de transportes locais, por forma a garantir a adequada intermodalidade e a articulação entre serviços públicos de transporte de passageiros.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695128": {
+   "fragment_id": "178696822",
+   "type": 2,
+   "heading": "Base II — Actividades da concessionária",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base II — Actividades da concessionária\n\n1 - A concessionária tem como objecto e actividade principal a realização das prestações inerentes à concessão, ou seja, a concepção, projecto, realização das obras de construção, fornecimento, montagem e manutenção do material circulante e dos demais equipamentos que constituem o sistema objecto da concessão e sua exploração.\n\n2 - A concessionária pode ainda exercer as seguintes actividades autónomas:\n\na) Exploração comercial, directa ou indirecta de estabelecimentos comerciais, escritórios, salas de exposições, máquinas de venda de produtos e serviços de publicidade aposta nas instalações do sistema ou no material circulante;\n\nb) Promoção, directa ou indirecta, da construção ou venda de edifícios para fins comerciais, industriais ou residenciais nos terrenos ou edifícios que integrem o seu património, nomeadamente, devido a entradas dos accionistas;\n\nc) Prestação de serviços, nomeadamente de consultadoria e de apoio técnico;\n\nd) Transferência de tecnologia e de know-how.\n\n3 - As actividades autónomas referidas no n.º 2 são acessórias do objecto da concessão e destinam-se a assegurar os fins sociais do sistema de transporte concessionado e o equilíbrio comercial da sua exploração.\n\n4 - A concessionária pode, para o desenvolvimento das actividades autónomas referidas nesta base, ou outras, criar empresas total ou parcialmente por si detidas, ou tomar participações no capital de outras empresas, mediante autorização prévia dos ministros que detenham a tutela financeira e a tutela sectorial.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695112": {
+   "fragment_id": "178696824",
+   "type": 2,
+   "heading": "Base IV — Prazos da concessão",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base IV — Prazos da concessão\n\n1 - A concessão é atribuída pelos seguintes prazos:\n\na) Para a implementação, supervisão e manutenção da infraestrutura do sistema Metrobus, a concessão tem uma duração de 40 anos, contados a partir de 7 de dezembro de 2004, podendo ser prorrogada por períodos sucessivos de até cinco anos, até um máximo de 20 anos;\n\nb) Para a exploração do sistema Metrobus, a concessão tem uma duração de 10 anos, contados desde a entrada em serviço do sistema, podendo ser prorrogada por cinco anos, uma única vez.\n\n2 - O prazo da concessão, e respetivas prorrogações, deve respeitar o disposto no Regulamento (CE) n.º 1370/2007, do Parlamento Europeu e do Conselho, de 23 de outubro de 2007, na sua redação atual [Regulamento (CE) 1370/2007].\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - A prorrogação deve ser requerida pela concessionária com a antecedência mínima de 18 meses sobre o termo da concessão ou do prazo de prorrogação.\n\n6 - A prorrogação do prazo de concessão depende de decisão do Estado, mediante despacho dos membros do Governo responsáveis pelas áreas das finanças e dos transportes, devendo ser comunicada à concessionária com uma antecedência mínima de um ano sobre o termo da concessão ou do prazo da prorrogação.\n\n7 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695113": {
+   "fragment_id": "178696825",
+   "type": 2,
+   "heading": "Base V — Características gerais do sistema",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base V — Características gerais do sistema\n\nO sistema Metrobus tem as seguintes características gerais, que devem ser asseguradas pela concessionária:\n\na) A rede compreende uma linha axial, de cariz suburbano, e uma linha urbana a implantar no concelho de Coimbra; a construção e exploração destas linhas poderá ter lugar em fases distintas;\n\nb) A rede deve conter instalações que garantam condições de interface com os diferentes modos de transporte nos pontos de intersecção com maior afluxo de clientes;\n\nc) O serviço de transporte deve ser efectuado de forma regular e contínua, de acordo com os horários preestabelecidos e anunciados junto do público e só pode ser interrompido em caso de força maior, designadamente, insurreição, sedição, cataclismo, catástrofe natural ou por ordem das autoridades;\n\nd) A energia utilizada na tracção deve ser tecnológica e ambientalmente adaptada aos melhores padrões de inserção no tecido urbano e suburbano;\n\ne) Os padrões de segurança e de qualidade do sistema devem ser mantidos em níveis elevados e sujeitos a actualizações;\n\nf) As instalações, as infraestruturas e o material circulante devem estar sujeitos a vigilância por forma a garantir a sua integridade e a adequada proteção dos passageiros e dos funcionários do sistema Metrobus.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695114": {
+   "fragment_id": "178696827",
+   "type": 2,
+   "heading": "Base VI — Estabelecimento e bens afetos à concessão",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base VI — Estabelecimento e bens afetos à concessão\n\n1 - Consideram-se afetos à concessão, para além dos bens que integram o seu estabelecimento:\n\na) No que respeita à parte do objeto da concessão identificado na alínea a) do n.º 1 da Base I, todos os bens móveis ou imóveis, corpóreos ou incorpóreos, assim como todos os direitos ligados direta ou indiretamente à implantação do sistema, designadamente as infraestruturas de longa duração;\n\nb) No que respeita à parte do objeto da concessão identificado na alínea b) do n.º 1 da Base I, todos os bens móveis ou imóveis, corpóreos ou incorpóreos, necessários à operação do sistema, incluindo o material circulante, os sistemas de apoio à exploração e o sistema de bilhética.\n\n2 - A concessionária é obrigada a manter em bom estado de funcionamento, de conservação e de segurança todos os bens e direitos afetos à concessão.\n\n3 - A concessionária deve elaborar e manter actualizado um inventário de todos os bens afectos à concessão, a ser enviado anualmente ao concedente até ao final do mês de Janeiro devidamente certificado por auditor por este aceite.\n\n4 - A concessionária não pode alienar ou onerar, parcial ou totalmente e sob qualquer forma, os bens e os direitos que estejam afetos à concessão, salvo mediante autorização prévia do membro do Governo competente em razão da matéria ou nos casos em que a lei aplicável aos bens do domínio público o preveja, bem como quando se trate de bens consumíveis ou da mera substituição de bens perecíveis ou deterioráveis.\n\n5 - Durante a vigência da concessão, a concessionária é titular do direito de propriedade dos bens que lhe sejam afectos e não pertençam ao domínio público.\n\n6 - No termo da concessão os bens a que se refere o n.º 1 revertem, sem qualquer indemnização, para o Estado, livres de quaisquer ónus ou encargos e em perfeitas condições de operacionalidade, utilização e manutenção, podendo haver lugar a indemnização quanto a bens cuja vida económica, ao tempo da reversão ou respetiva data de investimento, justifique o justo ressarcimento da concessionária, indemnização que é calculada nos termos gerais de direito e do contrato de serviço público.\n\n7 - A reversão deve ocorrer sem qualquer formalidade que não seja uma vistoria ad perpetuam rei memoriam, para a qual é convocado um representante da concessionária; do auto de vistoria deverá constar o inventário dos bens e equipamentos afectos à concessão, assim como a descrição do seu estado de conservação e da respectiva aptidão para o desempenho do sistema.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695115": {
+   "fragment_id": "178696828",
+   "type": 2,
+   "heading": "Base VII — Servidões e expropriações",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base VII — Servidões e expropriações\n\n1 - Compete à concessionária, como entidade expropriante, actuando em nome do Estado, realizar as expropriações e constituir as servidões necessárias à construção do sistema, nos termos deste diploma e do Código das Expropriações.\n\n2 - A concessionária suporta os custos inerentes à condução dos processos expropriativos e o pagamento das indemnizações ou de outras compensações aos expropriados e aos titulares dos prédios servientes, bem como os custos decorrentes da aquisição por via do direito privado dos bens imóveis e direitos a eles inerentes no que respeita aos prédios e parcelas a expropriar ou a adquirir a particulares.\n\n3 - Compete ao membro do Governo competente em razão da matéria a prática do ato que individualize os bens a expropriar, nos termos do n.º 2 do artigo 10.º do Código das Expropriações, aprovado em anexo à Lei n.º 168/99, de 18 de setembro, na sua redação atual, o qual deve conter a declaração de utilidade pública com carácter de urgência, no prazo de 45 dias a contar da apresentação pela concessionária da documentação exigida para esse efeito.\n\n4 - Compete à concessionária apresentar atempadamente ao Estado todos os elementos e documentos necessários à prática do acto de declaração de utilidade pública, de acordo com legislação em vigor.\n\n5 - O membro do Governo competente em razão da matéria pode designar uma entidade que coordene e fiscalize a condução dos processos expropriativos ou relativos à aquisição de bens pela via do direito privado.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695116": {
+   "fragment_id": "178696830",
+   "type": 2,
+   "heading": "Base VIII — Financiamento das actividades da concessionária",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base VIII — Financiamento das actividades da concessionária\n\n1 - O financiamento da exploração do sistema objeto da concessão é assegurado pelas receitas decorrentes da atividade da concessionária e pelas compensações por obrigações de serviço público previstas no contrato de serviço público, a celebrar com o Estado na qualidade de autoridade de transportes.\n\n2 - Para o financiamento dos investimentos a realizar pela concessionária no âmbito da exploração do sistema objeto da concessão, nomeadamente no que concerne à aquisição de material circulante, pode esta obter financiamento da União Europeia, do Orçamento do Estado, contrair empréstimos, obter dotações de capital, suprimentos e ou prestações acessórias de capital realizadas pelos seus acionistas.\n\n3 - As disposições dos números anteriores não prejudicam o recurso pela concessionária a financiamentos a conceder por terceiras entidades, nomeadamente instituições financeiras nacionais ou internacionais nos termos da legislação aplicável ao setor público empresarial.\n\n4 - O Estado, representado pelos membros do Governo responsáveis pelas áreas das finanças e dos transportes, mediante contrato, a celebrar com a concessionária, assume os encargos decorrentes da execução e conservação das infraestruturas de longa duração, dos equipamentos e demais obrigações de serviço público que impõe à concessionária.\n\n5 - Para os efeitos das presentes bases consideram-se encargos com as infraestruturas de longa duração, nomeadamente, os relativos à aquisição de terrenos, realização de projetos, implementação de estruturas, construção de fundações, de edifícios, de estruturas, de plataformas das vias, do parque de manutenção e operação e respetivas vias de acesso, obras de desvio e reposição de serviços, drenagens, esgotos, instalações e obras provisórias, obras de arte, estruturas das paragens, interfaces, fornecimento de materiais e equipamentos, bem como à conservação dos bens referidos anteriormente.\n\n6 - A concessionária apenas pode suportar os custos relativos a obras fora do canal afecto ao sistema que:\n\na) Visem exclusivamente a reposição de uma situação equivalente àquela que existia antes de se iniciarem as obras;\n\nb) Sejam susceptíveis de, comprovadamente demonstradas, gerar para a concessionária receitas cujo valor actualizado líquido seja equivalente ou superior ao valor actualizado líquido das respectivas despesas.\n\n7 - Entende-se por canal afeto ao sistema o conjunto formado pela plataforma rodoviária, eventuais ligações, parque de manutenção e operação, paragens, interfaces, estacionamentos, equipamentos de segurança e controlo, vias de acesso e demais órgãos técnicos necessários ao funcionamento do sistema.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695117": {
+   "fragment_id": "178696831",
+   "type": 2,
+   "heading": "Base IX — Regime tarifário",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base IX — Regime tarifário\n\n1 - O regime tarifário é fixado nos termos dos instrumentos legais, regulamentares e contratuais aplicáveis, sempre privilegiando a integração dos sistemas de transporte público, com recurso a tarifas intermodais.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695118": {
+   "fragment_id": "178696832",
+   "type": 2,
+   "heading": "Base X — Compensações pela obrigação da prestação de serviço público",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base X — Compensações pela obrigação da prestação de serviço público\n\n1 - O Estado, nos termos do RJSPTP e do Regulamento (CE) 1370/2007, celebra um contrato de serviço público que preveja as compensações por obrigações de serviço público prestado no âmbito da operação do sistema objeto da concessão.\n\n2 - As disposições contratuais relativas à prestação de serviços públicos incluídas no contrato referido no número anterior devem ser compatíveis com os objetivos estratégicos da política de transportes públicos, delas devendo constar, designadamente:\n\na) A identificação dos serviços de interesse económico geral prestados e quais os que estão sujeitos a obrigações de serviço público, compensações e exclusividade;\n\nb) A especificação clara, objetiva e transparente das obrigações de serviço público, bem como a respetiva compensação e direitos exclusivos, tendo em conta os objetivos da sustentabilidade económica, ambiental, social e territorial;\n\nc) O critério de cálculo das compensações das obrigações de serviço público;\n\nd) As modalidades de repartição de custos ligados à prestação de serviço;\n\ne) A separação de contas da empresa relativas à prossecução de atividades sujeitas e não sujeitas a obrigações de serviço público;\n\nf) As modalidades de repartição de receitas ligadas à venda de títulos de transporte;\n\ng) A zona geográfica abrangida pelo serviço;\n\nh) O dimensionamento da oferta pretendida expressa em veículos por quilómetro (veículos.quilómetro) e lugares por quilómetro (lugares.quilómetro);\n\ni) As linhas utilizadas no serviço;\n\nj) Os itinerários, frequências e paragens do serviço, bem como o sistema de bilhética e o tarifário;\n\nk) Os requisitos operacionais, de qualidade e níveis de desempenho, e respetivos mecanismos de monitorização e fiscalização por parte da empresa e das autoridades competentes;\n\nl) As medidas de promoção da intermodalidade e dos direitos dos passageiros, designadamente nos termos do Decreto-Lei n.º 9/2015, de 15 de janeiro;\n\nm) Os incentivos à manutenção ou desenvolvimento de uma gestão eficaz por parte do operador de serviço público;\n\nn) As sanções e penalidades aplicáveis em caso de incumprimento ou de cumprimento defeituoso do contrato ou de falhas de desempenho.\n\n3 - A concessionária deve dispor de sistema contabilístico que separe as diferentes atividades, nos termos do Regulamento (CE) 1370/2007.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695119": {
+   "fragment_id": "178696834",
+   "type": 2,
+   "heading": "Base XI — Obrigações de informação da concessionária",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base XI — Obrigações de informação da concessionária\n\n1 - A concessionária deve dar conhecimento imediato ao membro do Governo competente em razão da matéria de qualquer evento que possa vir a prejudicar ou impedir o cumprimento pontual e atempado de qualquer das obrigações emergentes das presentes bases, bem como ao membro do Governo responsável pela área das finanças quando tais eventos tenham implicações de natureza económica e financeira, e cumprir as demais obrigações de informação decorrentes do regime do setor público empresarial.\n\n2 - A concessionária deve dar cumprimento às obrigações de informação previstas no artigo 22.º do RJSPTP.\n\n3 - A concessionária deve transmitir à autoridade de transportes competente os dados necessários à elaboração dos relatórios previstos no n.º 1 do artigo 7.º do Regulamento (CE) 1370/2007.\n\n4 - (Revogado.)\n\n5 - A concessionária deve elaborar um sistema da qualidade relativa à exploração do sistema objeto da concessão, a aprovar pelo Instituto da Mobilidade e dos Transportes, I. P., (IMT, I. P.) até três meses antes da entrada em operação do primeiro troço, contemplando as metas e parâmetros para as diferentes áreas de atividade, nomeadamente quanto ao nível de fiabilidade e disponibilidade.\n\n6 - A concessionária deve elaborar um sistema integrado de segurança tendo em vista a segurança dos passageiros, do pessoal próprio ou alheio, do público em geral, do material circulante, das infraestruturas e dos outros meios de operação e manutenção do sistema, o qual é aprovado pelo IMT, I. P., até três meses antes da entrada em operação do primeiro troço.\n\n7 - Os sistemas referidos nos números anteriores devem ser revistos anualmente pela concessionária, devendo a revisão ser aprovada pelo IMT, I. P.\n\n8 - A concessionária deve fornecer prontamente a qualquer organismo ou representante do Estado todos os elementos relacionados com o exercício da concessão que lhe sejam solicitados por escrito.\n\n9 - A concessionária deve cumprir os requisitos de acesso à atividade e licenciamento da empresa, material circulante e pessoal, da competência do IMT, I. P.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695120": {
+   "fragment_id": "178696835",
+   "type": 2,
+   "heading": "Base XII — Fiscalização",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Base XII — Fiscalização\n\n1 - A fiscalização das obrigações da concessionária inerentes ao exercício da concessão compete:\n\na) (Revogada.)\n\nb) À Inspeção-Geral de Finanças, que fiscaliza o cumprimento das obrigações da concessionária no que respeita a matérias de cariz económico e financeiro;\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) (Revogada.)\n\nf) Ao IMT, I. P., de um modo geral e em representação do Estado, que coordena a fiscalização da atividade da concessionária em tudo o que respeita ao cumprimento das presentes bases e do contrato de serviço público, fiscaliza a concessionária em tudo o que respeita a matérias não abrangidas pelas atribuições e competências de outras entidades, bem como coordena as atividades de fiscalização das entidades enumeradas na presente base;\n\ng) À Autoridade da Mobilidade e dos Transportes, responsável pela regulação e supervisão do serviço público, nos termos do Decreto-Lei n.º 78/2014, de 14 de maio, na sua redação atual.\n\n2 - A concessionária obriga-se a facultar às entidades referidas no número anterior, ou a quaisquer entidades por elas nomeadas ou pelo concedente e agindo em sua representação, desde que devidamente credenciadas, livre acesso a todo o sistema, documentação, registos e equipamentos.\n\n3 - O incumprimento de qualquer das obrigações decorrentes das presentes bases ou do contrato de serviço público está sujeito a penalidades, cujos limites mínimos e máximos são fixados, em função da gravidade da infração, no contrato de serviço público, sendo a aplicação das penalidades previstas da competência do IMT, I. P.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05"
+  },
+  "178695121": {
+   "fragment_id": "178696837",
+   "type": 2,
+   "heading": "Base XIII — Obrigações de segurança, de acesso e de informação",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Base XIII — Obrigações de segurança, de acesso e de informação\n\n1 - A concessionária deve cumprir as obrigações de segurança, de acesso e de informação determinadas pelas autoridades competentes e decorrentes da lei aplicável.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05"
+  },
+  "178695122": {
+   "fragment_id": "178696838",
+   "type": 2,
+   "heading": "Base XIV — Obrigações respeitantes à sociedade concessionária",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base XIV — Obrigações respeitantes à sociedade concessionária\n\n1 - A concessionária deve manter como seu objeto social principal a exploração do sistema Metrobus e a sua sede social num dos concelhos dos municípios seus acionistas.\n\n2 - As participações sociais no capital da concessionária só podem ser oneradas ou transmitidas a terceiros mediante autorização prévia por parte dos membros do Governo responsáveis pelas áreas das finanças e dos transportes, sob pena de nulidade.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695123": {
+   "fragment_id": "178696839",
+   "type": 2,
+   "heading": "Base XV — Proibição de transmissão",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Base XV — Proibição de transmissão\n\nSem prejuízo do regime estabelecido no decreto-lei que aprova as presentes bases, são proibidas quaisquer formas de transmissão, total ou parcial, da concessão sem prévia autorização do concedente.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05"
+  },
+  "178695129": {
+   "fragment_id": "178696841",
+   "type": 2,
+   "heading": "Base XVI — Concursos - Regras gerais",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base XVI — Concursos - Regras gerais\n\n1 - As prestações relativas à concepção, projecto, realização de obras de construção, fornecimento, montagem e manutenção do material circulante e dos demais equipamentos que constituem o sistema objecto da concessão e a sua exploração podem ser subconcessionadas, total ou parcialmente, devendo a escolha do subconcessionário ou dos subconcessionários ser realizada mediante concurso.\n\n2 - À contratação pela concessionária, nomeadamente através de subconcessão, das prestações referidas no número anterior aplica-se, com as devidas adaptações, o regime jurídico previsto no Decreto-Lei n.º 86/2003, de 26 de Abril.\n\n3 - A concessionária, não pode, directa ou indirectamente, participar no capital das subconcessionárias.\n\n4 - Nos documentos dos concursos deve fixar-se que os concorrentes são obrigados a apresentar preços fixos e não revisíveis para a concepção, projecto, realização de obras de construção, fornecimento, montagem e manutenção do material circulante e dos demais equipamentos necessários à entrada integral em funcionamento do sistema objecto da concessão.\n\n5 - Os concursos devem seguir os trâmites adequados aos limites previstos na legislação nacional e comunitária e, em qualquer dos casos, podem incluir uma fase de negociação com os concorrentes melhor classificados.\n\n6 - Caso haja fase de negociação, esta deve incluir a negociação do contrato de subconcessão a celebrar e deve terminar com a aceitação, por parte do concorrente, da minuta final deste.\n\n7 - Da fase de negociação não podem resultar:\n\na) Alterações às regras do caderno de encargos;\n\nb) Adopção de soluções mais desvantajosas para a concessionária do que as inicialmente propostas pelos concorrentes;\n\nc) Aproveitamento por um concorrente de soluções contidas na proposta de outro concorrente.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695130": {
+   "fragment_id": "178696842",
+   "type": 2,
+   "heading": "Base XVII — Natureza e estrutura do concurso",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base XVII — Natureza e estrutura do concurso\n\n1 - Os concursos referidos na base anterior são lançados pela concessionária.\n\n2 - Sem prejuízo da aplicabilidade, com as necessárias adaptações, do regime previsto no Decreto-Lei n.º 86/2003, de 26 de Abril, compete à concessionária realizar as operações inerentes à realização dos concursos a que se refere a base anterior, designadamente elaborar os instrumentos relativos ao lançamento dos concursos e decidir sobre os recursos administrativos apresentados no âmbito do concurso e sobre os relatórios de avaliação e hierarquização elaborados pela comissão de avaliação das propostas, bem como decidir sobre a adjudicação das subconcessões depois de obtidos os correspondentes despachos ministeriais.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695131": {
+   "fragment_id": "178696843",
+   "type": 2,
+   "heading": "Base XVIII — Natureza das entidades concorrentes e da futura concessionária",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Base XVIII — Natureza das entidades concorrentes e da futura concessionária\n\n1 - Aos concursos podem apresentar-se empresas ou agrupamentos de empresas sob qualquer modalidade de associação.\n\n2 - As empresas e agrupamentos referidos no número anterior só são admitidos aos concursos se se verificar que, quer as primeiras, quer as componentes destes últimos, se encontram regularmente constituídas, têm situações contributivas regularizadas e exercem actividades compatíveis com o objecto da subconcessão, sem prejuízo dos demais requisitos que constem do programa de concurso ou que resultem da legislação aplicável à exploração do sistema de metro.\n\n3 - No âmbito dos concursos, uma entidade não pode fazer parte de mais de um agrupamento concorrente, nem concorrer simultaneamente a título individual e integrada num agrupamento.\n\n4 - Os contratos de subconcessão devem ser celebrados com uma sociedade comercial, a qual deve ter por objecto a prossecução da actividade subconcessionada e deve ser constituída pelas empresas componentes do agrupamento ou pela empresa vencedora do respectivo concurso.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05"
+  },
+  "178695132": {
+   "fragment_id": "178696844",
+   "type": 2,
+   "heading": "Base XIX — Conteúdo mínimo obrigatório da regulamentação",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base XIX — Conteúdo mínimo obrigatório da regulamentação\n\n1 - Nos programas de concurso devem constar obrigatoriamente, de forma detalhada, os requisitos respeitantes à experiência, capacidade e aptidão técnica, financeira e empresarial que os concorrentes devem satisfazer de forma a serem admitidos ao concurso ou qualificados.\n\n2 - Para além do disposto no número anterior, deve constar ainda do programa de concurso, pelo menos:\n\na) O elenco dos critérios de apreciação das propostas, com vista à selecção para a fase de negociações, se a ela houver lugar, e para a escolha do subconcessionário;\n\nb) As normas relativas à tramitação processual do concurso;\n\nc) As cauções a apresentar pelos concorrentes.\n\n3 - Nos cadernos de encargos deve constar, pelo menos:\n\na) A duração da subconcessão;\n\nb) As exigências especiais que a concessionária entenda fazer na definição da organização e estatutos da sociedade subconcessionária, bem como sobre eventuais acordos parassociais entre os accionistas e acordos entre cada um ou alguns deles e a concessionária, com vista a salvaguardar a estabilidade e solidez da concessão;\n\nc) As condições ou especificações relativas à concepção, realização de obras de construção, fornecimento de material circulante e outros equipamentos que constituem o sistema de metro, bem como as respectivas garantias para o cumprimento permanente e total das obrigações emergentes do contrato ou dos contratos de subconcessão.\n\n4 - A concessionária, antes de proceder ao lançamento dos concursos a que se referem as bases anteriores, deve diligenciar no sentido de serem celebrados protocolos com os municípios servidos pelo sistema objecto da concessão, definindo e disciplinando os compromissos assumidos por cada um deles e a respectiva partilha de responsabilidades.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695133": {
+   "fragment_id": "178696845",
+   "type": 2,
+   "heading": "Base XX — Critérios de atribuição da subconcessão",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base XX — Critérios de atribuição da subconcessão\n\n1 - Quer a decisão final de selecção dos subconcessionários quer a escolha dos concorrentes para a fase de negociações, se a ela houver lugar, têm por base a avaliação das propostas segundo os seguintes critérios gerais:\n\na) Valor actual líquido dos pagamentos a efectuar pela concessionária ou outras entidades públicas;\n\nb) Qualidade técnica da proposta;\n\nc) Solidez da estrutura empresarial, contratual e financeira;\n\nd) Grau de risco e de compromisso associado à proposta;\n\ne) Prazos de execução do projecto.\n\n2 - A ordem dos critérios constante do número anterior não representa hierarquização dos mesmos.\n\n3 - Os critérios constantes do n.º 1 podem ser desenvolvidos e a sua aplicação sujeita a metodologias de avaliação, desde que esses desenvolvimentos e metodologias sejam patenteados aos concorrentes antes de findo o prazo de entrega das respectivas propostas.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695134": {
+   "fragment_id": "178696846",
+   "type": 2,
+   "heading": "Base XXI — Direito de não atribuição da subconcessão",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Base XXI — Direito de não atribuição da subconcessão\n\nA concessionária pode interromper qualquer concurso, dá-lo por concluído ou encerrar as negociações com qualquer dos concorrentes, caso os resultados até então obtidos não se mostrem satisfatórios para o interesse público ou se as respostas ou contrapropostas dos concorrentes na fase de negociação forem manifestamente insuficientes ou evasivas ou ainda se não forem prestadas nos prazos fixados.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05"
+  },
+  "178695135": {
+   "fragment_id": "178696847",
+   "type": 2,
+   "heading": "Base XXII — Validade das propostas",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Base XXII — Validade das propostas\n\nNenhum concorrente é obrigado a manter válida a sua proposta por período superior a 18 meses contados da data do acto público de abertura das propostas.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05"
+  },
+  "178695136": {
+   "fragment_id": "178696848",
+   "type": 2,
+   "heading": "Base XXIII — Prémios",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base XXIII — Prémios\n\nA concessionária pode deliberar a atribuição de prémios a um ou mais concorrentes preteridos nos concursos cujas propostas, ainda assim, tenham qualidade manifesta, mas o seu montante deve ser sujeito a aprovação dos ministros da tutela financeira e da tutela sectorial.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695137": {
+   "fragment_id": "178696849",
+   "type": 2,
+   "heading": "Base XXIV — Aprovação e alteração dos contratos de subconcessão",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base XXIV — Aprovação e alteração dos contratos de subconcessão\n\n1 - As minutas dos contratos de subconcessão devem ser aprovadas por despacho conjunto dos ministros que detenham a tutela financeira e a tutela sectorial.\n\n2 - As alterações aos contratos referidos no número anterior estão sujeitas ao regime previsto no artigo 14.º do Decreto-Lei n.º 86/2003, de 26 de Abril.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695138": {
+   "fragment_id": "178696851",
+   "type": 2,
+   "heading": "Base XXV — Multas",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Base XXV — Multas\n\n1 - Pelo incumprimento de qualquer das obrigações inerentes à concessão pode a concessionária ser punida com multa diária, pelo tempo que durar o incumprimento, de montante a fixar entre (euro) 498,80 e (euro) 49879,79, segundo a sua gravidade.\n\n2 - É da competência do Instituto Nacional do Transporte Ferroviário a aplicação das multas previstas na presente base.\n\n3 - O projecto de decisão sobre a multa a aplicar deve ser notificado por escrito à concessionária, sendo-lhe conferido o direito de apresentar a sua defesa escrita no prazo de 20 dias.\n\n4 - A decisão final de aplicação da multa, com os respectivos fundamentos, deve ser notificada também por escrito à concessionária, e dela cabe impugnação a interpor no prazo de 15 dias úteis para o tribunal competente para dirimir os litígios emergentes da concessão.\n\n5 - A dedução de impugnação nos termos do número anterior não suspende a obrigação de pagamento da multa.\n\n6 - Os limites das multas referidos no n.º 1 são automaticamente actualizados em 1 de Janeiro de cada ano, de acordo com o índice de preços no consumidor publicado no Boletim do Instituto Nacional de Estatística.\n\n7 - O pagamento das multas previstas na presente base não isenta a concessionária da responsabilidade criminal, contra-ordenacional, regulamentar e civil em que incorrer, nem exclui a fiscalização, controlo e poder sancionatório de outras entidades que decorram da lei ou regulamento.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05"
+  },
+  "178695124": {
+   "fragment_id": "178696853",
+   "type": 2,
+   "heading": "Base XXVI — Sequestro",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base XXVI — Sequestro\n\n1 - O Estado, através do membro do Governo responsável pela área dos transportes, pode tomar, através de sequestro, a exploração do serviço quando se der ou estiver iminente a cessação ou interrupção total ou parcial da exploração do serviço ou quando se verifique gestão danosa da concessão ou graves deficiências na organização e funcionamento do serviço de transporte ou no estado das instalações ou do equipamento que sejam suscetíveis de comprometer a regularidade da exploração.\n\n2 - Verificado o sequestro, a concessionária suporta os encargos resultantes da manutenção dos serviços e as despesas extraordinárias necessárias ao restabelecimento da normalidade da exploração que não puderem ser cobertos pelos resultados da exploração.\n\n3 - Logo que cessem as razões do sequestro, o Estado notifica a concessionária para retomar, na data que lhe for fixada, a normal exploração do serviço.\n\n4 - Se após a retoma da exploração pela concessionária continuarem a verificar-se graves deficiências na organização e funcionamento do serviço o Estado pode declarar a concessão extinta.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695125": {
+   "fragment_id": "178696854",
+   "type": 2,
+   "heading": "Base XXVII — Extinção da concessão",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base XXVII — Extinção da concessão\n\n1 - Sem prejuízo do previsto nos respetivos instrumentos contratuais, o Estado, através de despacho dos membros do Governo responsáveis pelas áreas das finanças e dos transportes, pode dar a concessão por extinta quando tenha ocorrido qualquer dos factos seguintes:\n\na) Desvio do objecto da concessão;\n\nb) Interrupção prolongada da exploração do serviço por facto imputável à concessionária;\n\nc) Oposição reiterada ao exercício da fiscalização ou repetida desobediência às determinações do Estado ou, ainda, sistemática inobservância das leis e regulamentos aplicáveis, quando se mostrem ineficazes as sanções aplicadas;\n\nd) Recusa em proceder à adequada conservação e reparação das infra-estruturas;\n\ne) Cobrança dolosa de preços com valor superior aos fixados no tarifário;\n\nf) Falência da concessionária, podendo, nesse caso, o Estado autorizar que os credores assumam os direitos e encargos resultantes da concessão;\n\ng) Transmissão da concessão não autorizada;\n\nh) Violação grave das obrigações da concessionária previstas nas presentes bases.\n\n2 - Não constituem causas de extinção os factos ocorridos por motivos de força maior e, bem assim, os que o Estado aceite como justificados.\n\n3 - Quando as faltas forem causadas por mera negligência e susceptíveis de correcção, o Estado não deve extinguir a concessão sem previamente avisar a concessionária para, em determinado prazo, cumprir integralmente as suas obrigações e corrigir ou reparar as consequências da sua negligência.\n\n4 - A extinção da concessão deve ser notificada à concessionária e produz imediatamente os seus efeitos.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695126": {
+   "fragment_id": "178696855",
+   "type": 2,
+   "heading": "Base XXVIII — Resgate da concessão",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+   ],
+   "markdown": "###### Base XXVIII — Resgate da concessão\n\n1 - O Estado pode resgatar a concessão sempre que motivos de interesse público o justifiquem e decorridos que sejam pelo menos 15 anos a partir da data do seu início, relativamente à implementação, supervisão e manutenção da infraestrutura do sistema Metrobus, ou pelo menos 5 anos a partir da data do seu início, relativamente à exploração do sistema Metrobus, mediante notificação feita à concessionária pelo membro do Governo responsável pela área dos transportes, enviada com, pelo menos, seis meses de antecedência.\n\n2 - Decorrido o período de seis meses sobre a notificação do resgate, o Estado assume todos os direitos e deveres contraídos pela concessionária anteriormente à data da notificação, incluindo os tomados com o pessoal contratado para o efeito e ainda aqueles que tenham sido assumidos pela concessionária após a data da notificação, desde que tenham sido autorizados pelo membro do Governo responsável pela área dos transportes.\n\n3 - A assunção de deveres pelo Estado é feita sem prejuízo de direito de regresso pelas obrigações contraídas pela concessionária que exorbitem da gestão normal da concessão.\n\n4 - Em caso de resgate, a concessionária tem direito a uma indemnização não superior à soma do valor contabilístico do imobilizado corpóreo e incorpóreo líquido de amortizações, com base em critérios de amortização geralmente aceites, do valor contabilístico de outros activos por ela custeados e afectos à concessão, com referência ao último balanço aprovado, deduzida do valor das dotações financeiras para investimento feitas pelo Estado e pela União Europeia à concessionária e dos bens e activos transferidos ou cedidos, a título gratuito, para a concessionária.\n\n5 - Não são contabilizados, para efeitos de cálculo da indemnização do resgate, os bens e direitos que se encontrem anormalmente depreciados ou deteriorados.\n\n6 - O valor final da indemnização do resgate deve ser homologado pelo membro do Governo responsável pela área das finanças.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 226/2004 - Diário da República n.º 285/2004, Série I-A de 2004-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615), em vigor a partir de 2004-12-07"
+  },
+  "178695127": {
+   "fragment_id": "178696857",
+   "type": 2,
+   "heading": "Base XXIX — Arbitragem",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Base XXIX — Arbitragem\n\n1 - Qualquer litígio emergente da concessão deve ser submetido ao foro arbitral, nos termos da Lei n.º 63/2011, de 14 de dezembro.\n\n2 - O tribunal arbitral deve ser composto por três árbitros.\n\n3 - O concedente e a concessionária designam cada um o seu árbitro, sendo o terceiro, que preside, cooptado pelos dois designados pelas partes, ou, na falta de acordo destes, nomeado pelo Presidente do Supremo Tribunal Administrativo.\n\n4 - A arbitragem deve correr na cidade de Coimbra.\n\nANEXO II\n\n(a que se refere o n.º 2 do artigo 3.º)\n\nEstatutos da Metro-Mondego, S. A.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2022-178660780), em vigor a partir de 2022-02-05"
+  }
+ }
+}

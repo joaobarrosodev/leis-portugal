@@ -1,0 +1,614 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32026R0266:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026R0266-20260130",
+ "dre_path": null,
+ "source_lastmod": "2026-01-30",
+ "versions": [
+  {
+   "date": "2026-01-30",
+   "future": false,
+   "celex": "02026R0266-20260130",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d7a225b798bdddbe",
+    "ffc348f463b781ad",
+    "e17a2adcfbbdd4cc",
+    "e4d6eaba5261526e",
+    "97240bda60f4cdc2",
+    "dd636a557bba7d26",
+    "4c8bdeab3d91ec7d",
+    "a60748885d6ca67d",
+    "67e9ccc296c00214",
+    "7d3f575e822b2c15",
+    "c4e20ed44e3733d1",
+    "1f8c4615d490b139",
+    "c3ce88bf4aba8329",
+    "689817cb8f586641",
+    "7318e65c0525f164",
+    "51a29a03326ee254",
+    "be462596de709e4f",
+    "45a4ca1254b5bed3",
+    "eb64c6bc54713e4f",
+    "27cffd7b1ecfc044",
+    "5952b562d02c7bd6",
+    "91d61fecc07b13cf",
+    "ec0ca63b3f8f2e55",
+    "cae8de13a7617d8c",
+    "3c242f2800d7a895",
+    "2992774be735addf",
+    "b10107caff1001e8",
+    "b82cd6b1aa2e90aa",
+    "ce212787cfad8611",
+    "be5a0101c416b20a",
+    "fb5c579c63eb0fbb",
+    "a7d9ff1a99659545",
+    "0159e0f6958560d2",
+    "4fd1cb0b1eed1853",
+    "66b62b4e4ba06467",
+    "2bbf12161da7076f",
+    "265b23a369077fb8",
+    "8a22d7a37fb22ca1",
+    "041b9665bf583c97",
+    "f3a7140af08cbb2a",
+    "68658cb9d50a14b5",
+    "5d308c28e54495af",
+    "3db31ec074749add",
+    "2da760a0cbb5d6f5",
+    "9db704600627e53c",
+    "dde9cf53e9ae6c9a",
+    "f97d86487af12ef2",
+    "d664376e2a8dcecd",
+    "0f0a8c63848e16ef",
+    "852174729551523b",
+    "0100da12f87630c6",
+    "720af75c92791b10",
+    "3dcd5b3fc68e3b54",
+    "e03a0eb4d5b2eef3",
+    "48c0f1f5257b7882",
+    "64610ae29a6cb67c",
+    "29f7dcb64ec3abea",
+    "90c7d2baf4d44ee2",
+    "59fc41950e82bc09",
+    "d46ca50274582635",
+    "4c1037a19c8b6b59",
+    "1b41b51ec3248d43",
+    "c990d048269f171e",
+    "953641e58475eff6",
+    "a67f708426f376bb",
+    "c49f8ecf583a0f6c"
+   ]
+  }
+ ],
+ "fragments": {
+  "d7a225b798bdddbe": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de janeiro de 2026\n\nque fixa, para 2026, em relação a determinadas unidades populacionais de peixes e grupos de unidades populacionais de peixes, as possibilidades de pesca aplicáveis no mar Mediterrâneo e no mar Negro"
+  },
+  "ffc348f463b781ad": {
+   "fragment_id": "TÍTULO I",
+   "type": "divisao",
+   "heading": "TÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "e4d6eaba5261526e": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1.\n\nO presente regulamento aplica-se aos navios de pesca da União que operam no mar Mediterrâneo e no mar Negro e que exploram as seguintes unidades populacionais:\n\na) Enguia-europeia (*Anguilla anguilla*), coral-vermelho (*Corallium rubrum*) e dourado-comum (*Coryphaena hippurus*) no mar Mediterrâneo;\n\nb) Camarão-vermelho (*Aristeus antennatus*), gamba-branca (*Parapenaeus longirostris*), camarão-púrpura (*Aristaeomorpha foliacea*), pescada-branca (*Merluccius merluccius*), lagostim (*Nephrops norvegicus*) e salmonete-da-vasa (*Mullus barbatus*) no mar Mediterrâneo Ocidental;\n\nc) Biqueirão (*Engraulis encrasicolus*) e sardinha (*Sardina pilchardus*) no mar Adriático;\n\nd) Pescada-branca (*Merluccius merluccius*), lagostim (*Nephrops norvegicus*), linguado-legítimo (*Solea solea*), gamba-branca (*Parapenaeus longirostris*) e salmonete-da-vasa (*Mullus barbatus*) no mar Adriático;\n\ne) Pescada-branca (*Merluccius merluccius*) e gamba-branca (*Parapenaeus longirostris*) no estreito da Sicília;\n\nf) Camarão-púrpura (*Aristaeomorpha foliacea*) e camarão-vermelho (*Aristeus antennatus*) no estreito da Sicília, no mar Jónico e no mar Levantino;\n\ng) Goraz (*Pagellus bogaraveo*) no mar de Alborão;\n\nh) Espadilha (*Sprattus sprattus*) e pregado (*Scophthalmus maximus*) no mar Negro.\n\n2. O presente regulamento é igualmente aplicável a outras atividades de pesca da União, incluindo a pesca recreativa, sempre que as disposições pertinentes façam expressamente referência a essas atividades de pesca."
+  },
+  "97240bda60f4cdc2": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, aplicam-se as definições estabelecidas no artigo 4.º, n.º 1, do Regulamento (UE) n.º 1380/2013. Além dessas definições, entende-se por:\n\na) «Águas internacionais», as águas que não se encontram sob a soberania ou jurisdição de nenhum Estado;\n\nb) «Pesca recreativa», as atividades de pesca não comercial que exploram recursos aquáticos marinhos vivos para fins de lazer, turismo ou desporto;\n\nc) «Total admissível de capturas» (TAC):\n\ni) nas pescarias abrangidas pela isenção da obrigação de desembarcar prevista no artigo 15.º, n.^os^ 4 a 7, do Regulamento (UE) n.º 1380/2013, a quantidade de uma unidade populacional que pode ser desembarcada em cada ano,\n\nii) em todas as outras pescarias, a quantidade de uma unidade populacional que pode ser capturada no período de um ano;\n\nd) «Quota» corresponde à parte do TAC atribuída à União ou a um Estado-Membro;\n\ne) «Quota autónoma da União»: um limite de captura atribuído de forma autónoma aos navios de pesca da União na ausência de um TAC acordado;\n\nf) «Quota analítica», uma quota autónoma da União para a qual está disponível uma avaliação analítica;\n\ng) «Avaliação analítica», uma avaliação quantitativa das tendências de uma determinada unidade populacional, baseada em dados sobre a biologia e a exploração da mesma, cuja qualidade tenha sido considerada, no âmbito de um exame científico, suficiente para servir de base a pareceres científicos sobre as opções quanto a futuras capturas;\n\nh) «Dispositivo de concentração de peixes» (DCP), qualquer equipamento fundeado que flutue à superfície do mar e que tenha por objetivo atrair peixes."
+  },
+  "dd636a557bba7d26": {
+   "fragment_id": "Artigo 3.º — Zonas de pesca",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Zonas de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Zonas de pesca\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Subzonas geográficas da CGPM» (SZG da CGPM), as zonas previstas no anexo I do Regulamento (UE) 2023/2124 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/c21d3cdb-3e39-11f1-814f-01aa75ed71a1.0020.02/DOC_1#E0001));\n\nb) «Mar Mediterrâneo», as águas das subzonas geográficas 1 a 27 da CGPM, tal como previsto no anexo I do Regulamento (UE) 2023/2124;\n\nc) «Mar Mediterrâneo Ocidental», as águas das subzonas geográficas 1, 2, 5, 6, 7, 8, 9, 10 e 11 da CGPM, tal como previstas no anexo I do Regulamento (UE) 2023/2124;\n\nd) «Mar Adriático», as águas das subzonas geográficas 17 e 18 da CGPM, tal como previstas no anexo I do Regulamento (UE) 2023/2124;\n\ne) «Estreito da Sicília», as águas das subzonas geográficas 12, 13, 14, 15 e 16 da CGPM, tal como previstas no anexo I do Regulamento (UE) 2023/2124;\n\nf) «Mar Jónico», as águas das subzonas geográficas 19, 20 e 21 da CGPM, tal como previstas no anexo I do Regulamento (UE) 2023/2124;\n\ng) «Mar Levantino»: as águas das subzonas geográficas 24, 25, 26 e 27 da CGPM, tal como previstas no anexo I do Regulamento (UE) 2023/2124;\n\nh) «Mar de Alborão», as águas das subzonas geográficas 1, 2 e 3 da CGPM, tal como previstas no anexo I do Regulamento (UE) 2023/2124;\n\ni) «Mar Negro», as águas da subzona geográfica 29 da CGPM, tal como especificada no anexo I do Regulamento (UE) 2023/2124."
+  },
+  "4c8bdeab3d91ec7d": {
+   "fragment_id": "TÍTULO II",
+   "type": "divisao",
+   "heading": "TÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II"
+  },
+  "a60748885d6ca67d": {
+   "fragment_id": "POSSIBILIDADES DE PESCA PARA NAVIOS DE PESCA DA UNIÃO",
+   "type": "divisao",
+   "heading": "POSSIBILIDADES DE PESCA PARA NAVIOS DE PESCA DA UNIÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### POSSIBILIDADES DE PESCA PARA NAVIOS DE PESCA DA UNIÃO"
+  },
+  "67e9ccc296c00214": {
+   "fragment_id": "Capítulo I",
+   "type": "divisao",
+   "heading": "Capítulo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Capítulo I"
+  },
+  "7d3f575e822b2c15": {
+   "fragment_id": "Mar Mediterrâneo",
+   "type": "divisao",
+   "heading": "Mar Mediterrâneo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Mar Mediterrâneo"
+  },
+  "c4e20ed44e3733d1": {
+   "fragment_id": "Artigo 4.º — Enguia-europeia",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Enguia-europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Enguia-europeia\n\n1. O presente artigo aplica-se às subzonas geográficas 1 a 27 da CGPM, às águas salobras e às águas doces. As águas salobras incluem os estuários, lagoas costeiras e águas de transição.\n\n2.\n\nÉ proibido exercer atividades de pesca comercial de enguia-europeia (*Anguilla anguilla*) com um comprimento total superior a 12 cm, quer como espécie-alvo, quer como captura acessória ocasional, durante um período mínimo de seis meses em 2026. Para o efeito, cada Estado-Membro em causa determina um ou mais períodos de defeso, sujeito às seguintes condições:\n\na) Se for caso disso, o período ou os períodos de defeso podem diferir, num Estado-Membro, de uma zona de pesca para outra, a fim de ter em conta o padrão de migração geográfica e temporal da enguia-europeia nas diferentes fases do seu ciclo de vida;\n\nb) O período ou os períodos de defeso têm a duração de pelo menos seis meses consecutivos ou de seis meses no total em conformidade com as condições estabelecidas no n.º 3; e\n\nc) O período ou os períodos de defeso são coerentes com os objetivos de conservação estabelecidos no Regulamento (CE) n.º 1100/2007 ([^2^](http://publications.europa.eu/resource/cellar/c21d3cdb-3e39-11f1-814f-01aa75ed71a1.0020.02/DOC_1#E0002)) do Conselho, os planos de gestão nacionais em vigor e os padrões de migração temporal da enguia-europeia na respetiva fase do seu ciclo de vida no Estado-Membro em causa.\n\n3. O período de defeso decorre de 1 de janeiro a 31 de março de 2026, e deve ser estabelecido por cada Estado-Membro em causa mais um período de defeso de três meses a ter lugar entre 1 de abril e 30 de novembro de 2026.\n\n4. As atividades de pesca comercial da enguia-europeia com um comprimento total inferior a 12 cm são autorizadas anualmente por um período de dois meses e são monitorizadas por uma instituição científica designada, que deve supervisionar a recolha e a análise de dados.\n\n5. O número máximo de autorizações de pesca e o número máximo de artes passivas autorizadas a dirigir a pesca à enguia-europeia com um comprimento total inferior a 12 cm para fins comerciais não podem exceder os níveis fixados no anexo I.\n\n6. É proibida a pesca recreativa da enguia-europeia em todas as fases do seu ciclo de vida.\n\n7.\n\nCada Estado-Membro em causa informa a Comissão sobre:\n\na) O período ou os períodos de defeso que tenha determinado em conformidade com os n.^os^ 2 e 3, até 1 de março de 2026;\n\nb) As medidas nacionais relativas ao período ou aos períodos de defeso que tenha determinado em conformidade com os n.^os^ 2 e 3, no prazo de duas semanas a contar da respetiva adoção; e\n\nc) O período autorizado para pescar enguia-europeia com um comprimento total inferior a 12 cm, em conformidade com o n.º 4, até 1 de março de 2026."
+  },
+  "1f8c4615d490b139": {
+   "fragment_id": "Artigo 5.º — Coral-vermelho",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Coral-vermelho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Coral-vermelho\n\n1. O presente artigo aplica-se a todas as atividades exercidas por navios de pesca da União para a apanha de coral-vermelho (*Corallium rubrum*) no mar Mediterrâneo.\n\n2. Relativamente à pesca dirigida, o número máximo de autorizações e as quantidades máximas de unidades populacionais de coral-vermelho apanhadas por navios de pesca da União e no quadro de atividades de apanha exercidas pela União não podem exceder os níveis estabelecidos no anexo II."
+  },
+  "c3ce88bf4aba8329": {
+   "fragment_id": "Artigo 6.º — Dourado-comum",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Dourado-comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Dourado-comum\n\n1. O presente artigo aplica-se a todas as atividades de pesca comercial pelágica exercidas por navios de pesca da União dirigidas ao dourado-comum (*Coryphaena hippurus*) em que são utilizados dispositivos de concentração de peixes no mar Mediterrâneo. Aplica-se igualmente à pesca recreativa de dourado-comum no mar Mediterrâneo.\n\n2. A capacidade máxima da frota, expressa em número de navios, kW e arqueação bruta (GT), dos navios de pesca da União autorizados a pescar dourado-comum é estabelecida no anexo III.\n\n3. O número máximo de dispositivos de concentração de peixes por navio autorizado a pescar dourado-comum é estabelecido no anexo III.\n\n4. O nível máximo de capturas de dourado-comum não pode exceder os níveis estabelecidos no anexo III.\n\n5. A pesca recreativa de dourado-comum é autorizada de 15 de agosto a 31 de dezembro e o número máximo de capturas é limitado a 10 kg ou cinco peixes de qualquer tamanho por pessoa e por dia."
+  },
+  "689817cb8f586641": {
+   "fragment_id": "Capítulo II",
+   "type": "divisao",
+   "heading": "Capítulo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Capítulo II"
+  },
+  "7318e65c0525f164": {
+   "fragment_id": "Mar Mediterrâneo Ocidental",
+   "type": "divisao",
+   "heading": "Mar Mediterrâneo Ocidental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Mar Mediterrâneo Ocidental"
+  },
+  "51a29a03326ee254": {
+   "fragment_id": "Artigo 7.º — Unidades populacionais demersais",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Unidades populacionais demersais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Unidades populacionais demersais\n\n1. O presente artigo aplica-se a todas as atividades de pesca exercidas por navios de pesca da União e outras atividades de pesca da União em que são capturadas espécies demersais referidas no artigo 1.º, n.º 2, do Regulamento (UE) 2019/1022 no mar Mediterrâneo Ocidental.\n\n2. O esforço de pesca máximo autorizado para arrastões e palangreiros é estabelecido no anexo IV do presente regulamento. Os Estados-Membros gerem o esforço de pesca máximo autorizado em conformidade com o artigo 9.o do Regulamento (UE) 2019/1022 e com os artigos 26.º a 34.º do Regulamento (CE) n.º 1224/2009.\n\n3. Os limites máximos de captura para o camarão de profundidade no mar de Alborão, nas ilhas Baleares, no norte de Espanha e no golfo do Leão são estabelecidos no anexo IV.\n\n4. Os limites máximos de captura para o camarão de profundidade na ilha da Córsega, no mar da Ligúria, no mar Tirreno e na ilha da Sardenha são estabelecidos no anexo IV.\n\n5.\n\nA repartição das possibilidades de pesca pelos Estados-Membros, conforme estabelecido no anexo IV, não prejudica:\n\na) As trocas efetuadas em conformidade com o artigo 16.º, n.º 8, do Regulamento (UE) n.º 1380/2013;\n\nb) As deduções e reatribuições efetuadas nos termos do artigo 37.º do Regulamento (CE) n.º 1224/2009;\n\nc) Os desembarques adicionais autorizados ao abrigo do artigo 3.º do Regulamento (CE) n.º 847/96 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/c21d3cdb-3e39-11f1-814f-01aa75ed71a1.0020.02/DOC_1#E0003)) ou do artigo 15.º, n.º 9, do Regulamento (UE) n.º 1380/2013;\n\nd) As quantidades retiradas nos termos do artigo 4.º do Regulamento (CE) n.º 847/96 ou transferidas ao abrigo do artigo 15.º, n.º 9, do Regulamento (UE) n.º 1380/2013;\n\ne) As deduções efetuadas nos termos dos artigos 105.º, 106.º e 107.º do Regulamento (CE) n.º 1224/2009."
+  },
+  "be462596de709e4f": {
+   "fragment_id": "Artigo 8.º — Mecanismo de compensação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Mecanismo de compensação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Mecanismo de compensação\n\n1.\n\nRelativamente ao segmento da frota em causa, os Estados-Membros podem adotar legislação nacional relativa a um mecanismo de compensação a fim de atribuir, em 2026, aos navios da lista dos navios elegíveis que arvoram o seu pavilhão um número adicional de dias de pesca conforme previsto no n.º 2 e calculado em conformidade com os n.^os^ 7 e 8, desde que os navios que recebem o número adicional de dias de pesca preencham uma ou mais das seguintes condições estabelecidas a nível nacional:\n\na) O navio utiliza uma rede de arrasto com um saco de malha quadrada de, pelo menos, 45 mm ao pescar na plataforma continental e no declive superior;\n\nb) O navio utiliza uma rede de arrasto com um saco de malha quadrada de, pelo menos, 50 mm ao pescar na plataforma continental e no declive superior e em águas profundas;\n\nc) A atividade do navio está sujeita a um período de defeso que proíbe as atividades de pesca dos arrastões a profundidades entre 100 m e 500 m durante, pelo menos, seis semanas consecutivas entre fevereiro e setembro;\n\nd) A atividade do navio está sujeita a um período de defeso que proíbe as atividades de pesca dos arrastões nas SZG da CGPM 8, 9, 10 e 11 durante pelo menos quatro semanas consecutivas entre março e outubro;\n\ne) A atividade do navio está sujeita a um período de defeso que proíbe as atividades de pesca dos arrastões nas SZG da CGPM 1, 2, 5, 6 e 7 durante pelo menos quatro semanas consecutivas entre março e outubro;\n\nf) Pelo menos 5 % dos pesqueiros do navio a profundidades entre 100 m e 500 m situam-se numa zona sujeita a um período de defeso de 12 meses que proíbe as atividades de pesca;\n\ng) Os pesqueiros do navio situam-se numa zona de defeso temporário estabelecida a fim de reduzir em, pelo menos, 20 % as capturas de reprodutores de pescada-branca;\n\nh) Os pesqueiros do navio situam-se numa zona de defeso temporário estabelecida a fim de reduzir em, pelo menos, 25 % as capturas de juvenis de espécies demersais ou em, pelo menos, 20 % as capturas de reprodutores de todas as espécies demersais;\n\ni) Os pesqueiros do navio estão sujeitos a um defeso permanente que proíbe a atividade de pesca com arrastões que pescam camarão-vermelho e camarão-púrpura em águas profundas a mais de 600 m de profundidade;\n\nj) Os pesqueiros do navio estão sujeitos a um defeso permanente que proíbe a atividade de pesca com arrastões que pescam em águas profundas a mais de 800 m de profundidade;\n\nk) O navio utiliza uma porta de arrasto de voo, pelágica, de baixo contacto ou outras portas que reduzem o contacto entre as portas e as artes com o fundo marinho, a fim de preservar os habitats essenciais das espécies demersais;\n\nl) O navio utiliza uma arte altamente seletiva cujas especificações técnicas resultem, de acordo com um estudo do CCTEP, numa redução de pelo menos 25 % das capturas de juvenis de todas as espécies demersais ou de pelo menos 20 % de reprodutores de todas as espécies demersais em relação a 2020; como uma grelha separadora com uma distância entre barras de 20 mm;\n\nm) Pelo menos 10 % dos pesqueiros do navio a profundidades entre 300 m e 600 m situam-se numa zona sujeita a um defeso permanente que proíbe a atividade de pesca de arrastões que pescam lagostim nas SZG da CGPM 6, 9 ou 11;\n\nn) O Estado-Membro em causa aplica uma cessação definitiva de 5 a 10 % da frota em causa ou aplica uma cessação definitiva de mais de 10 % da frota em causa.\n\n2.\n\nA atribuição de dias de pesca adicionais a que se refere o n.º 1 é calculada do seguinte modo:\n\na) Se o navio preencher a condição estabelecida no n.º 1, alínea a), os Estados-Membros podem aumentar em 9,3 % a atribuição de dias de pesca, exceto nos seguintes casos:\n\n— o navio em causa aplica essa medida antes de 1 de maio de 2026, caso em que a atribuição de dias de pesca pode ser aumentada em 18,6 %,\n\n— os navios que aplicam essa medida antes de 1 de maio de 2026 representam, no total, mais de 40 % da frota do Estado-Membro em causa na UGE, caso em que a atribuição de dias de pesca pode ser aumentada em 25 %;\n\n— a medida aplica-se a todos os navios do Estado-Membro em causa na UGE antes de 1 de maio de 2026, caso em que a atribuição de dias de pesca pode ser aumentada em 30 %, ou\n\n— o navio em causa já aplicou essa medida em 2025 e continua a aplicá-la em 2026 sem interrupção, caso em que a atribuição de dias de pesca para esse navio pode ser aumentada em 37 %; as percentagens referidas na presente alínea não podem ser cumuladas;\n\nb) Se o navio preencher a condição estabelecida no n.º 1, alínea b), os Estados-Membros podem aumentar em 15,4 % a atribuição de dias de pesca, exceto nos seguintes casos:\n\n— o navio em causa aplica essa medida antes de 1 de maio de 2026, caso em que a atribuição de dias de pesca pode ser aumentada em 30,8 %,\n\n— os navios que aplicam essa medida antes de 1 de maio de 2026 representam, no total, mais de 40 % da frota do Estado-Membro em causa na UGE, caso em que a atribuição de dias de pesca pode ser aumentada em 40 %,\n\n— a medida aplica-se a todos os navios do Estado-Membro em causa na UGE antes de 1 de maio de 2026, caso em que a atribuição de dias de pesca pode ser aumentada em 50 %, ou\n\n— o navio em causa já aplicou essa medida em 2025 e continua a aplicá-la em 2026 sem interrupção, caso em que a atribuição de dias de pesca desse navio pode ser aumentada em 55 %; as percentagens referidas na presente alínea não podem ser cumuladas;\n\nc) Se a atividade do navio estiver sujeita à condição estabelecida no n.º 1, alínea c), os Estados-Membros podem aumentar a atribuição de dias de pesca em 10 %, exceto se o navio em causa já tiver estado sujeito a essa condição em 2025 e continuar a está-lo em 2026, caso em que a atribuição de dias de pesca pode ser aumentada em 12 %; as percentagens referidas na presente alínea não podem ser cumuladas;\n\nd) Se a atividade do navio estiver sujeita à condição estabelecida no n.º 1, alínea d), os Estados-Membros podem aumentar a atribuição de dias de pesca em 15 %, exceto se o navio em causa já tiver estado sujeito a essa condição em 2025 e continuar a está-lo em 2026, caso em que a atribuição de dias de pesca pode ser aumentada em 18 %; se o defeso for prorrogado continuamente por mais semanas, a atribuição dos dias de pesca a esse navio pode ser aumentada em 2 % por cada semana suplementar; as percentagens referidas na presente alínea não podem ser cumuladas;\n\ne) Se a atividade do navio estiver sujeita à condição estabelecida no n.º 1, alínea e), os Estados-Membros podem aumentar a atribuição de dias de pesca em 15 %, exceto se o navio em causa já tiver estado sujeito a essa condição em 2025 e continuar a está-lo em 2026, caso em que a atribuição de dias de pesca pode ser aumentada em 18 %. Se o defeso for prorrogado continuamente por mais semanas, a atribuição dos dias de pesca a esse navio pode ser aumentada em 2 % por cada semana suplementar. As percentagens referidas na presente alínea não podem ser cumuladas;\n\nf) Se o navio estiver sujeito à condição estabelecida no n.º 1, alínea f), os Estados-Membros podem aumentar atribuição de dias de pesca em 4 %;\n\ng) Se a atividade do navio estiver sujeita à condição estabelecida no n.º 1, alínea g), os Estados-Membros podem aumentar a atribuição de dias de pesca em 13 %, exceto se o navio em causa já tiver estado sujeito a essa medida em 2025 e continuar a está-lo em 2026, caso em que a atribuição de dias de pesca pode ser aumentada em 15 %. As percentagens referidas na presente alínea não podem ser cumuladas;\n\nh) Se a atividade do navio estiver sujeita à condição estabelecida no n.º 1, alínea h), os Estados-Membros podem aumentar a atribuição de dias de pesca em 3 %;\n\ni) Se a atividade do navio estiver sujeita à condição estabelecida no n.º 1, alínea i), os Estados-Membros podem aumentar a atribuição de dias de pesca em 6 %;\n\nj) Se a atividade do navio estiver sujeita à condição estabelecida no n.º 1, alínea j), os Estados-Membros podem aumentar a atribuição de dias de pesca em 3 %, a qual pode ser aumentada para 5 % se essa medida já tiver sido aplicada em 2025;\n\nk) Se o navio preencher a condição estabelecida no n.º 1, alínea k), os Estados-Membros podem aumentar a atribuição de dias de pesca em 3 %.\n\nl) Se o navio preencher a condição estabelecida no n.º 1, alínea l), os Estados-Membros podem aumentar a atribuição de dias de pesca em 3 %.\n\nm) Se a atividade do navio estiver sujeita à condição estabelecida no n.º 1, alínea m), os Estados-Membros podem aumentar a atribuição de dias de pesca em 8 %;\n\nn) Se a atividade do navio estiver sujeita à condição estabelecida no n.º 1, alínea n), um Estado-Membro pode aumentar a atribuição de dias de pesca em 15 %; exceto se a cessação definitiva se aplicar a mais de 10 % da frota em causa, caso em que o Estados-Membro pode aumentar a atribuição de dias de pesca em 30 %.\n\n3. O Estado-Membro em causa apresenta à Comissão o projeto de legislação nacional relativa às condições selecionadas para o mecanismo de compensação a que se refere o n.º 1 pelo menos um mês antes da sua adoção.\n\n4.\n\nO Estado-Membro em causa apresenta à Comissão as seguintes informações:\n\na) A lista dos navios de pesca que arvoram o seu pavilhão que preenchem qualquer uma das condições para a compensação referidas nos n.^os^ 1 e 2; e\n\nb) O número correspondente de dias de pesca adicionais.\n\n5. A notificação da atribuição adicional de dias de pesca é apresentada à Comissão até 31 de julho de 2026. Se o Estado-Membro em causa apresentar à Comissão a sua notificação da atribuição adicional de dias de pesca após 31 de julho de 2026, as percentagens indicadas no n.º 2 são reduzidas para metade.\n\n6. O Estado-Membro em causa apresenta separadamente à Comissão, todos os meses, o esforço de pesca desenvolvido a imputar à atribuição adicional referida no n.º 2, utilizando os códigos específicos de comunicação designados para o efeito.\n\n7. O Estado-Membro em causa calcula a atribuição adicional de dias de pesca com base no valor de referência correspondente ao esforço de pesca máximo autorizado fixado no Regulamento (UE) 2024/259, proporcionalmente ao número pertinente de navios elegíveis que preenchem as condições enumeradas nos n.^os^ 1 e 2.\n\n8. O Estado-Membro em causa não atribui dias de pesca adicionais que resultem num esforço de pesca máximo autorizado superior ao fixado para o grupo de esforço de pesca pertinente no Regulamento (UE) 2024/259, ou seja, o anexo III e o artigo 8.º.\n\n9. O Estado-Membro em causa reforça o acompanhamento, o controlo e a vigilância dos navios de pesca a que se refere o presente artigo, a fim de assegurar o cumprimento das condições de elegibilidade estabelecidas no n.º 1 e das medidas nacionais correspondentes.\n\n10. O Estado-Membro em causa pode transferir dias suplementares atribuídos em conformidade com presente artigo entre navios que apliquem as mesmas condições, desde que aplique um fator de conversão baseado nos melhores pareceres científicos disponíveis.\n\n11. Se o navio em causa satisfizer as condições estabelecidas no n.º 1, alíneas a) e b), o número de dias de pesca adicionais atribuído a esse navio nos termos do n.º 2, alíneas a) e b), pode ser cumulado."
+  },
+  "45a4ca1254b5bed3": {
+   "fragment_id": "Artigo 9.º — Medidas corretivas para a pescada-branca nas SZG da CGPM 1, 2, 5, 6 e 7 e para o lagostim na SZG da CGPM 6",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Medidas corretivas para a pescada-branca nas SZG da CGPM 1, 2, 5, 6 e 7 e para o lagostim na SZG da CGPM 6",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Medidas corretivas para a pescada-branca nas SZG da CGPM 1, 2, 5, 6 e 7 e para o lagostim na SZG da CGPM 6\n\n1. O presente artigo aplica-se às atividades de pesca exercidas por navios da União que capturam pescada-branca (*Merluccius merluccius*) nas SZG da CGPM 1, 2, 5, 6 e 7 e lagostim (*Nephrops norvegicus*) na SZG da CGPM 6.\n\n2. É fixado no anexo IV o limite máximo de captura de pescada-branca para os navios de pesca da União que utilizam redes de emalhar e tresmalhos nas águas da União do mar Mediterrâneo Ocidental.\n\n3. Os Estados-Membros adotam um tamanho mínimo de referência de conservação para o lagostim de pelo menos 25 mm de comprimento da carapaça (CL).\n\n4. O presente artigo não se aplica às operações de pesca realizadas exclusivamente para fins de investigação científica, desde que as investigações sejam realizadas em conformidade com o artigo 25.º do Regulamento (UE) 2019/1241 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/c21d3cdb-3e39-11f1-814f-01aa75ed71a1.0020.02/DOC_1#E0004))."
+  },
+  "eb64c6bc54713e4f": {
+   "fragment_id": "Artigo 10.º — Medidas corretivas para a pescada-branca nas SZG da CGPM 8, 9, 10 e 11 e para o lagostim nas SZG da CGPM 9 e 11",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Medidas corretivas para a pescada-branca nas SZG da CGPM 8, 9, 10 e 11 e para o lagostim nas SZG da CGPM 9 e 11",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Medidas corretivas para a pescada-branca nas SZG da CGPM 8, 9, 10 e 11 e para o lagostim nas SZG da CGPM 9 e 11\n\n1. O presente artigo aplica-se às atividades de pesca exercidas por navios da União que capturam pescada-branca (*Merluccius merluccius*) nas SZG da CGPM 8, 9, 10 e 11 e lagostim (*Nephrops norvegicus*) nas SZG da CGPM 9 e 11.\n\n2. É fixado no anexo IV o limite máximo de captura de pescada-branca para os navios de pesca da União que utilizam redes de emalhar e tresmalhos (GNS, GTR e GND) nas águas da União do mar Mediterrâneo Ocidental.\n\n3. É proibido utilizar redes de arrasto geminadas com portas para os arrastões que pescam nas SZG da CGPM 8, 9, 10 e 11.\n\n4. Os Estados-Membros adotam um tamanho mínimo de referência de conservação para o lagostim de pelo menos 25 mm de comprimento da carapaça (CL).\n\n5. O presente artigo não se aplica às operações de pesca realizadas exclusivamente para fins de investigação científica, desde que as investigações sejam realizadas em conformidade com o artigo 25.º do Regulamento (UE) 2019/1241."
+  },
+  "27cffd7b1ecfc044": {
+   "fragment_id": "Artigo 11.º — Registo e transmissão de dados",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Registo e transmissão de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Registo e transmissão de dados\n\n1. Os Estados-Membros registam e transmitem à Comissão os dados sobre o esforço de pesca, em conformidade com os artigos 33.º e 34.º do Regulamento (CE) n.º 1224/2009 e com os artigos 146.º-C, 146.º-D e 146.º-E do Regulamento de Execução (UE) n.º 404/2011 da Comissão ([^5^](http://publications.europa.eu/resource/cellar/c21d3cdb-3e39-11f1-814f-01aa75ed71a1.0020.02/DOC_1#E0005)).\n\n2. Sempre que apresentarem à Comissão dados relativos ao esforço de pesca em conformidade com os artigos 33.º e 34.º do Regulamento (CE) n.º 1224/2009, os Estados-Membros devem utilizar os códigos dos grupos de esforço de pesca definidos no anexo IV do presente regulamento."
+  },
+  "5952b562d02c7bd6": {
+   "fragment_id": "Capítulo III",
+   "type": "divisao",
+   "heading": "Capítulo III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Capítulo III"
+  },
+  "91d61fecc07b13cf": {
+   "fragment_id": "Mar Adriático",
+   "type": "divisao",
+   "heading": "Mar Adriático",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Mar Adriático"
+  },
+  "ec0ca63b3f8f2e55": {
+   "fragment_id": "Artigo 12.º — Unidades populacionais de pequenos pelágicos",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Unidades populacionais de pequenos pelágicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Unidades populacionais de pequenos pelágicos\n\n1. O presente artigo aplica-se a todas as atividades de pesca exercidas por navios de pesca da União em que são capturados sardinha (*Sardina pilchardus*) e biqueirão (*Engraulis encrasicolus*) no mar Adriático.\n\n2. O nível máximo de capturas de sardinha e biqueirão não pode exceder os níveis estabelecidos no anexo V.\n\n3. A capacidade máxima da frota, expressa em número de navios, kW e GT, de navios de pesca da União autorizados a pescar unidades populacionais de pequenos pelágicos é estabelecida no anexo V.\n\n4. Os artigos 3.º e 4.º do Regulamento (CE) n.º 847/96 não são aplicáveis caso os Estados-Membros utilizem a flexibilidade interanual prevista no artigo 15.º, n.º 9, do Regulamento (UE) n.º 1380/2013."
+  },
+  "cae8de13a7617d8c": {
+   "fragment_id": "Artigo 13.º — Unidades populacionais demersais",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Unidades populacionais demersais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Unidades populacionais demersais\n\n1. O presente artigo aplica-se a todas as atividades de pesca exercidas por navios de pesca da União em que são capturados pescada-branca (*Merluccius merluccius*), lagostim (*Nephrops norvegicus*), linguado-legítimo (*Solea solea*), gamba-branca (*Parapenaeus longirostris*) e salmonete-da-vasa (*Mullus barbatus*) no mar Adriático.\n\n2. O esforço de pesca máximo autorizado para estas unidades populacionais demersais e o limite máximo de capacidade da frota no âmbito do presente artigo são estabelecidos no anexo V.\n\n3. Os Estados-Membros gerem o esforço máximo autorizado em conformidade com os artigos 26.º a 35.º do Regulamento (CE) n.º 1224/2009."
+  },
+  "3c242f2800d7a895": {
+   "fragment_id": "Artigo 14.º — Transmissão de dados",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Transmissão de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Transmissão de dados\n\nQuando, nos termos dos artigos 33.º e 34.º do Regulamento (CE) n.º 1224/2009, os Estados-Membros apresentarem à Comissão dados relativos aos desembarques e ao esforço de pesca, devem utilizar os códigos das unidades populacionais e os códigos dos grupos de esforço de pesca definidos no anexo V do presente regulamento."
+  },
+  "2992774be735addf": {
+   "fragment_id": "Capítulo IV",
+   "type": "divisao",
+   "heading": "Capítulo IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Capítulo IV"
+  },
+  "b10107caff1001e8": {
+   "fragment_id": "Estreito da Sicília",
+   "type": "divisao",
+   "heading": "Estreito da Sicília",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Estreito da Sicília"
+  },
+  "b82cd6b1aa2e90aa": {
+   "fragment_id": "Artigo 15.º — Pescada-branca e gamba-branca",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Pescada-branca e gamba-branca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Pescada-branca e gamba-branca\n\n1. O presente artigo aplica-se a todas as atividades exercidas por navios de pesca da União e outras atividades de pesca da União em que são capturados pescada-branca (*Merluccius merluccius*) e gamba-branca (*Parapenaeus longirostris*) no estreito da Sicília.\n\n2. A capacidade máxima da frota, expressa em número de navios, kW e GT, dos arrastões de fundo autorizados a pescar unidades populacionais demersais no âmbito do presente artigo é estabelecida no anexo VI.\n\n3. O esforço de pesca máximo autorizado para a pescada-branca (expresso em número de dias de pesca) para os navios com redes de arrasto pelo fundo com portas (OTB) que dirigem a pesca a essa espécie é estabelecido no anexo VI.\n\n4. O nível máximo de capturas de gamba-branca não pode exceder os níveis estabelecidos no anexo VI.\n\n5. Os Estados-Membros gerem o esforço máximo de pesca autorizado em conformidade com os artigos 26.º a 35.º do Regulamento (CE) n.º 1224/2009."
+  },
+  "ce212787cfad8611": {
+   "fragment_id": "Artigo 16.º — Camarões de profundidade",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Camarões de profundidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Camarões de profundidade\n\n1. O presente artigo aplica-se a todas as atividades de pesca exercidas por navios de pesca da União e outras atividades de pesca da União em que são capturados camarão-púrpura (*Aristaeomorpha foliacea*) e camarão-vermelho (*Aristeus antennatus*) no estreito da Sicília.\n\n2. A capacidade máxima da frota, expressa em número de navios, kW e GT, dos arrastões de fundo autorizados a pescar unidades populacionais demersais no âmbito do presente artigo é estabelecida no anexo VI.\n\n3. O nível máximo de capturas não pode exceder os níveis estabelecidos no anexo VI."
+  },
+  "be5a0101c416b20a": {
+   "fragment_id": "Artigo 17.º — Transmissão de dados",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Transmissão de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Transmissão de dados\n\nQuando, nos termos dos artigos 33.º e 34.º do Regulamento (CE) n.º 1224/2009, os Estados Membros apresentarem à Comissão dados relativos às quantidades desembarcadas de unidades populacionais capturadas, devem utilizar os códigos das unidades populacionais constantes do anexo VI do presente regulamento."
+  },
+  "fb5c579c63eb0fbb": {
+   "fragment_id": "Capítulo V",
+   "type": "divisao",
+   "heading": "Capítulo V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Capítulo V"
+  },
+  "a7d9ff1a99659545": {
+   "fragment_id": "Mar Jónico e mar Levantino",
+   "type": "divisao",
+   "heading": "Mar Jónico e mar Levantino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Mar Jónico e mar Levantino"
+  },
+  "0159e0f6958560d2": {
+   "fragment_id": "Artigo 18.º — Camarões de profundidade",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Camarões de profundidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Camarões de profundidade\n\n1. O presente artigo aplica-se a todas as atividades de pesca exercidas por navios de pesca da União e outras atividades de pesca da União em que são capturados camarão-púrpura (*Aristaeomorpha foliacea*) e camarão-vermelho (*Aristeus antennatus*) no mar Jónico e no mar Levantino.\n\n2. A capacidade máxima da frota, expressa em número de navios, kW e GT, dos arrastões de fundo autorizados a pescar unidades populacionais demersais no âmbito do presente artigo é estabelecida no anexo VII.\n\n3. O nível máximo de capturas não pode exceder os níveis correspondentes estabelecidos no anexo VII."
+  },
+  "4fd1cb0b1eed1853": {
+   "fragment_id": "Capítulo VI",
+   "type": "divisao",
+   "heading": "Capítulo VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Capítulo VI"
+  },
+  "66b62b4e4ba06467": {
+   "fragment_id": "Mar de Alborão",
+   "type": "divisao",
+   "heading": "Mar de Alborão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Mar de Alborão"
+  },
+  "2bbf12161da7076f": {
+   "fragment_id": "Artigo 19.º — Goraz",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Goraz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Goraz\n\n1. O presente artigo aplica-se às atividades de pesca comercial e recreativa por navios de pesca da União em que é capturado goraz (*Pagellus bogaraveo*) com palangres e linhas de mão no mar de Alborão.\n\n2. O nível máximo de capturas não pode exceder os níveis estabelecidos no anexo VIII.\n\n3. O número máximo de palangres e linhas de mão autorizados na pesca do goraz é estabelecido no anexo VIII.\n\n4. É estabelecido um defeso temporal com vista a proteger a unidade populacional principal durante a desova por períodos não inferiores a 60 dias consecutivos. Esse defeso tem uma duração mínima de dois meses e tem lugar no período compreendido entre janeiro e março de 2026 e abrange as principais zonas de distribuição do goraz no mar de Alborão.\n\n5. É proibida a pesca recreativa de goraz."
+  },
+  "265b23a369077fb8": {
+   "fragment_id": "Capítulo VII",
+   "type": "divisao",
+   "heading": "Capítulo VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Capítulo VII"
+  },
+  "8a22d7a37fb22ca1": {
+   "fragment_id": "Mar Negro",
+   "type": "divisao",
+   "heading": "Mar Negro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Mar Negro"
+  },
+  "041b9665bf583c97": {
+   "fragment_id": "Artigo 20.º — Espadilha",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Espadilha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Espadilha\n\n1. O presente artigo aplica-se a todas as atividades exercidas por navios de pesca da União e outras atividades de pesca da União em que é capturada espadilha (*Sprattus sprattus*) no mar Negro.\n\n2. A quota autónoma da União para a espadilha é estabelecida no anexo IX.\n\n3. Os artigos 3.º e 4.º do Regulamento (CE) n.º 847/96 não são aplicáveis caso os Estados-Membros utilizem a flexibilidade interanual prevista no artigo 15.º, n.º 9, do Regulamento (UE) n.º 1380/2013."
+  },
+  "f3a7140af08cbb2a": {
+   "fragment_id": "Artigo 21.º — Pregado",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Pregado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Pregado\n\n1. O presente artigo aplica-se a todas as atividades exercidas por navios de pesca da União e outras atividades de pesca da União em que é capturado pregado (*Scophthalmus maximus*) no mar Negro.\n\n2. O TAC para o pregado aplicável nas águas da União no mar Negro, a sua repartição entre os Estados-Membros, assim como, se for caso disso, as condições que lhes estão associadas no plano funcional, são estabelecidos no anexo IX.\n\n3. Os artigos 3.º e 4.º do Regulamento (CE) n.º 847/96 não são aplicáveis caso os Estados-Membros utilizem a flexibilidade interanual prevista no artigo 15.º, n.º 9, do Regulamento (UE) n.º 1380/2013."
+  },
+  "68658cb9d50a14b5": {
+   "fragment_id": "Artigo 22.º — Gestão do esforço de pesca do pregado",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Gestão do esforço de pesca do pregado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Gestão do esforço de pesca do pregado\n\nOs navios de pesca da União autorizados a pescar pregado no âmbito do artigo 21.º, independentemente do seu comprimento de fora a fora, não podem exceder 180 dias de pesca por ano."
+  },
+  "5d308c28e54495af": {
+   "fragment_id": "Artigo 23.º — Período de defeso para o pregado",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Período de defeso para o pregado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Período de defeso para o pregado\n\nDe 15 de abril a 15 de junho de 2026, é proibido aos navios de pesca da União exercer qualquer atividade de pesca de pregado, incluindo o transbordo, a manutenção a bordo, o desembarque e a primeira venda de pregado nas águas da União no mar Negro."
+  },
+  "3db31ec074749add": {
+   "fragment_id": "Artigo 24.º — Disposições especiais sobre a repartição das possibilidades de pesca no mar Negro",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Disposições especiais sobre a repartição das possibilidades de pesca no mar Negro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Disposições especiais sobre a repartição das possibilidades de pesca no mar Negro\n\nA repartição das possibilidades de pesca pelos Estados-Membros, conforme estabelecido no anexo IX do presente regulamento, não prejudica:\n\na) As trocas efetuadas em conformidade com o artigo 16.º, n.º 8, do Regulamento (UE) n.º 1380/2013;\n\nb) As deduções e reatribuições efetuadas nos termos do artigo 37.º do Regulamento (CE) n.º 1224/2009;\n\nc) As deduções efetuadas nos termos dos artigos 105.º e 107.º do Regulamento (CE) n.º 1224/2009."
+  },
+  "2da760a0cbb5d6f5": {
+   "fragment_id": "Artigo 25.º — Transmissão de dados",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Transmissão de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Transmissão de dados\n\nQuando, nos termos dos artigos 33.º e 34.º do Regulamento (CE) n.º 1224/2009, os Estados-Membros apresentarem à Comissão dados relativos às quantidades desembarcadas de unidades populacionais de espadilha e pregado capturadas nas águas da União no mar Negro, devem utilizar os códigos das unidades populacionais constantes do anexo IX do presente regulamento."
+  },
+  "9db704600627e53c": {
+   "fragment_id": "TÍTULO III",
+   "type": "divisao",
+   "heading": "TÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "f97d86487af12ef2": {
+   "fragment_id": "Artigo 26.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável de 1 de janeiro de 2026 a 31 de dezembro de 2026.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "0f0a8c63848e16ef": {
+   "fragment_id": "POSSIBILIDADES DE PESCA PARA AS ATIVIDADES DE PESCA COMERCIAL DE MEIXÃO DA UNIÃO NO CONTEXTO DO PLANO DE GESTÃO PLURIANUAL DA CGPM PARA A ENGUIA-EUROPEIA NO MAR MEDITERRÂNEO",
+   "type": "divisao",
+   "heading": "POSSIBILIDADES DE PESCA PARA AS ATIVIDADES DE PESCA COMERCIAL DE MEIXÃO DA UNIÃO NO CONTEXTO DO PLANO DE GESTÃO PLURIANUAL DA CGPM PARA A ENGUIA-EUROPEIA NO MAR MEDITERRÂNEO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### POSSIBILIDADES DE PESCA PARA AS ATIVIDADES DE PESCA COMERCIAL DE MEIXÃO DA UNIÃO NO CONTEXTO DO PLANO DE GESTÃO PLURIANUAL DA CGPM PARA A ENGUIA-EUROPEIA NO MAR MEDITERRÂNEO\n\nOs quadros do presente anexo estabelecem o número máximo admissível de autorizações de pesca e o número máximo de artes de pesca autorizadas para as atividades de pesca comercial dirigida à enguia-europeia com um comprimento total inferior a 12 cm.\n\nPara efeitos do presente anexo, apresenta-se o seguinte quadro de correspondência dos nomes científicos e dos nomes comuns das unidades populacionais:\n\n| Nome científico | Código alfa-3 | Nome comum |\n| --- | --- | --- |\n| *Anguilla anguilla* | ELE | Enguia europeia |\n\nEstados-Membros Enguia-europeia ELE\n\nEspanha 153\n\n| Estados-Membros | Artes de pesca | Código da arte | Unidades |\n| --- | --- | --- | --- |\n| Espanha | Nassas e armadilhas | EPO | 249 |"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "0100da12f87630c6": {
+   "fragment_id": "POSSIBILIDADES DE PESCA PARA OS NAVIOS DE PESCA DA UNIÃO NO CONTEXTO DO PLANO DE GESTÃO PLURIANUAL DA CGPM PARA O CORAL-VERMELHO NO MAR MEDITERRÂNEO",
+   "type": "divisao",
+   "heading": "POSSIBILIDADES DE PESCA PARA OS NAVIOS DE PESCA DA UNIÃO NO CONTEXTO DO PLANO DE GESTÃO PLURIANUAL DA CGPM PARA O CORAL-VERMELHO NO MAR MEDITERRÂNEO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### POSSIBILIDADES DE PESCA PARA OS NAVIOS DE PESCA DA UNIÃO NO CONTEXTO DO PLANO DE GESTÃO PLURIANUAL DA CGPM PARA O CORAL-VERMELHO NO MAR MEDITERRÂNEO\n\nOs quadros do presente anexo estabelecem o número máximo admissível de autorizações de pesca e o nível máximo de apanha de coral-vermelho no mar Mediterrâneo.\n\nAs referências às zonas de pesca são referências às SZG da CGPM.\n\nPara efeitos do presente anexo, apresenta-se o seguinte quadro de correspondência dos nomes científicos e dos nomes comuns das unidades populacionais:\n\n| Nome científico | Código alfa-3 | Nome comum |\n| --- | --- | --- |\n| *Corallium rubrum* | COL | Coral-vermelho |\n\n| Estados-Membros | Coral-vermelho COL |\n| --- | --- |\n| Grécia | 12 |\n| Espanha | 0 [(^*2^)](http://publications.europa.eu/resource/cellar/c21d3cdb-3e39-11f1-814f-01aa75ed71a1.0020.02/DOC_1#E0007) |\n| França | 32 |\n| Croácia | 0 [(^*2^)](http://publications.europa.eu/resource/cellar/c21d3cdb-3e39-11f1-814f-01aa75ed71a1.0020.02/DOC_1#E0007) |\n| Itália | 40 |\n| (^*1^) Número de navios ou mergulhadores, ou ambos, ou um par composto por um mergulhador e um navio, autorizados a apanhar coral-vermelho. (^*2^) Em conformidade com a proibição temporária de apanha de coral-vermelho atualmente imposta nas águas espanholas e nas águas croatas, na pendência de eventuais alterações. |  |\n\n| Espécie: | Coral-vermelho *Corallium rubrum* | Zona: | Águas da União no mar Mediterrâneo SZG 1-27 COL/GF1-27 |\n| --- | --- | --- | --- |\n| Grécia | 1 844 |  |  |\n| Espanha | 0 | [(^*1^)](http://publications.europa.eu/resource/cellar/c21d3cdb-3e39-11f1-814f-01aa75ed71a1.0020.02/DOC_1#E0008) |  |\n| França | 1 400 |  |  |\n| Croácia | 0 | [(^*1^)](http://publications.europa.eu/resource/cellar/c21d3cdb-3e39-11f1-814f-01aa75ed71a1.0020.02/DOC_1#E0008) |  |\n| Itália | 1 378 |  |  |\n| União | 4 622 |  |  |\n| TAC | Sem efeito |  |  |\n| (^*1^) Em conformidade com a proibição temporária de apanha de coral-vermelho atualmente imposta nas águas espanholas e nas águas croatas, na pendência de eventuais alterações. |  |  |  |"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "3dcd5b3fc68e3b54": {
+   "fragment_id": "POSSIBILIDADES DE PESCA PARA OS NAVIOS DE PESCA DA UNIÃO NO CONTEXTO DA GESTÃO DO DOURADO-COMUM NO MAR MEDITERRÂNEO",
+   "type": "divisao",
+   "heading": "POSSIBILIDADES DE PESCA PARA OS NAVIOS DE PESCA DA UNIÃO NO CONTEXTO DA GESTÃO DO DOURADO-COMUM NO MAR MEDITERRÂNEO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### POSSIBILIDADES DE PESCA PARA OS NAVIOS DE PESCA DA UNIÃO NO CONTEXTO DA GESTÃO DO DOURADO-COMUM NO MAR MEDITERRÂNEO\n\nOs quadros do presente anexo estabelecem o nível máximo de navios de pesca da União, expresso em número, em kW e em GT, autorizados a pescar dourado-comum com recurso a dispositivos de concentração de peixes no mar Mediterrâneo, bem como o nível máximo de capturas.\n\nAs referências às zonas de pesca são referências às SZG da CGPM.\n\nPara efeitos do presente anexo, apresenta-se o seguinte quadro de correspondência dos nomes científicos e dos nomes comuns das unidades populacionais:\n\n| Nome científico | Código alfa-3 | Nome comum |\n| --- | --- | --- |\n| *Coryphaena hippurus* | DOL | Dourado-comum |\n\n| Estado-Membro | Número de navios | kW | GT |\n| --- | --- | --- | --- |\n| Itália | 261 | 21 061 | 1 986 |\n| Malta | 130 | 16 662 | 1 296,28 |\n| Espanha | 45 | 2 105,73 | 153,34 |\n\nEstado-Membro Número de dispositivos de concentração de peixes por navio\n\nItália 100\n\nMalta 200\n\nEspanha 50\n\nPesca recreativa Pesca – limite de captura diário = 10 kg ou 5 peixes por pessoa e por dia\n\n| Espécie: | Dourado-comum Coryphaena *hippurus* | Zona: | Águas da União e águas internacionais das SZG 1-27 (DOL/MED) |\n| --- | --- | --- | --- |\n| Itália | 1 174 |  | Nível máximo de capturas |\n| Malta | 517 |  |  |\n| Espanha | 127 |  |  |\n| União | 1 818 |  |  |\n| TAC | Sem efeito |  |  |"
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "48c0f1f5257b7882": {
+   "fragment_id": "POSSIBILIDADES DE PESCA PARA OS NAVIOS DE PESCA DA UNIÃO NO CONTEXTO DA GESTÃO DAS UNIDADES POPULACIONAIS DEMERSAIS NO MAR MEDITERRÂNEO OCIDENTAL",
+   "type": "divisao",
+   "heading": "POSSIBILIDADES DE PESCA PARA OS NAVIOS DE PESCA DA UNIÃO NO CONTEXTO DA GESTÃO DAS UNIDADES POPULACIONAIS DEMERSAIS NO MAR MEDITERRÂNEO OCIDENTAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### POSSIBILIDADES DE PESCA PARA OS NAVIOS DE PESCA DA UNIÃO NO CONTEXTO DA GESTÃO DAS UNIDADES POPULACIONAIS DEMERSAIS NO MAR MEDITERRÂNEO OCIDENTAL\n\nOs quadros do presente anexo estabelecem o esforço de pesca máximo autorizado (em dias de pesca) por grupos de unidades populacionais, na aceção do artigo 2.º, ponto 13, do Regulamento (UE) 2019/1022, os limites máximos de captura e o comprimento de fora a fora dos navios para todos os tipos de redes de arrasto ([^6^](http://publications.europa.eu/resource/cellar/c21d3cdb-3e39-11f1-814f-01aa75ed71a1.0020.02/DOC_1#E0009)) e palangreiros de pesca demersal que pescam unidades populacionais demersais no mar Mediterrâneo Ocidental. e palangreiros de pesca demersal que pescam unidades populacionais demersais no mar Mediterrâneo Ocidental.\n\nTodas as possibilidades de pesca estabelecidas no presente anexo estão sujeitas às regras enunciadas no artigo 7.º do Regulamento (UE) 2019/1022 e nos artigos 26.º a 35.º do Regulamento (CE) n.º 1224/2009.\n\nAs referências às zonas de pesca são referências às SZG da CGPM.\n\nPara efeitos do presente anexo, apresenta-se o seguinte quadro de correspondência dos nomes científicos e dos nomes comuns das unidades populacionais:\n\n| Nome científico | Código alfa-3 | Nome comum |\n| --- | --- | --- |\n| *Aristaeomorpha foliacea* | ARS | Camarão-púrpura |\n| *Aristeus antennatus* | ARA | Camarão-vermelho |\n| *Merluccius merluccius* | HKE | Pescada-branca |\n| *Mullus barbatus* | MUT | Salmonete-da-vasa |\n| *Nephrops norvegicus* | NEP | Lagostim |\n| *Parapenaeus longirostris* | DPS | Gamba-branca |\n\n1. Esforço de pesca máximo autorizado (expresso em dias de pesca)\n\na) Número de dias de pesca para os arrastões no mar de Alborão, ilhas Baleares, norte de Espanha e golfo do Leão (SZG 1, 2, 5, 6 e 7)\n\n| Grupo de unidades populacionais | Comprimento de fora a fora dos navios | Espanha | França | Itália | Código do grupo de esforço de pesca | Código de atribuição suplementar |\n| --- | --- | --- | --- | --- | --- | --- |\n| Salmonete-da-vasa nas SZG 1, 5, 6, 7; Pescada-branca nas SZG 1, 5, 6 e 7; Gamba-branca nas SZG 1, 5 e 6; Lagostim nas SZG 5, 6 | < 12 m | 317 | 0 | 0 | EFF1/MED1_TR1 | EFF1/MED1_TR1_AA |\n| ≥ 12 m e < 18 m | 3 400 | 0 | 0 | EFF1/MED1_TR2 | EFF1/MED1_TR2_AA |  |\n| ≥ 18 m e < 24 m | 6 379 | 2 023 | 0 | EFF1/MED1_TR3 | EFF1/MED1_TR3_AA |  |\n| ≥ 24 m | 2 247 | 2 462 | 0 | EFF1/MED1_TR4 | EFF1/MED1_TR4_AA |  |\n| Camarão-vermelho nas SZG 1, 2, 5, 6 e 7 | < 12 m | 0 | 0 | 0 | EFF2/MED1_TR1 | EFF2/MED1_TR1_AA |\n| ≥ 12 m e < 18 m | 160 | 0 | 0 | EFF2/MED1_TR2 | EFF2/MED1_TR2_AA |  |\n| ≥ 18 m e < 24 m | 1 615 | 0 | 0 | EFF2/MED1_TR3 | EFF2/MED1_TR3_AA |  |\n| ≥ 24 m | 1 297 | 0 | 0 | EFF2/MED1_TR4 | EFF2/MED1_TR4_AA |  |\n\nb) Número de dias de pesca para os arrastões na ilha da Córsega, mar da Ligúria, mar Tirreno e ilha da Sardenha (SZG 8, 9, 10 e 11)\n\n| Grupo de unidades populacionais | Comprimento de fora a fora dos navios | Espanha | França | Itália | Código do grupo de esforço de pesca | Código de atribuição suplementar |\n| --- | --- | --- | --- | --- | --- | --- |\n| Salmonete-da-vasa nas SZG 8, 9, 10 e 11; Pescada-branca nas SZG 8, 9, 10 e 11; Gamba-branca nas SZG 9, 10 e 11; Lagostim nas SZG 9 e 10 | < 12 m | 0 | 138 | 1 202 | EFF1/MED2_TR1 | EFF1/MED2_TR1_AA |\n| ≥ 12 m e < 18 m | 0 | 551 | 18 064 | EFF1/MED2_TR2 | EFF1/MED2_TR2_AA |  |\n| ≥ 18 m e < 24 m | 0 | 138 | 12 148 | EFF1/MED2_TR3 | EFF1/MED2_TR3_AA |  |\n| ≥ 24 m | 0 | 138 | 1 622 | EFF1/MED2_TR4 | EFF1/MED2_TR4_AA |  |\n| Camarão-púrpura nas SZG 8, 9, 10 e 11 | < 12 m | 0 | 83 | 199 | EFF2/MED2_TR1 | EFF2/MED2_TR1_AA |\n| ≥ 12 m e < 18 m | 0 | 333 | 1 465 | EFF2/MED2_TR2 | EFF2/MED2_TR2_AA |  |\n| ≥ 18 m e < 24 m | 0 | 83 | 1 180 | EFF2/MED2_TR3 | EFF2/MED2_TR3_AA |  |\n| ≥ 24 m | 0 | 83 | 158 | EFF2/MED2_TR4 | EFF2/MED2_TR4_AA |  |\n\nc) Número de dias de pesca para os palangreiros demersais no mar de Alborão, ilhas Baleares, norte de Espanha e golfo do Leão (SZG 1, 2, 5, 6 e 7)\n\n| Grupo de unidades populacionais | Comprimento de fora a fora dos navios | Espanha | França | Itália | Código do grupo de esforço de pesca |\n| --- | --- | --- | --- | --- | --- |\n| Pescada-branca nas SZG 1, 2, 5, 6 e 7 | < 12 m | 9 433 | 6 432 | 0 | EFF1/MED1_LL1 |\n| ≥ 12 m e < 18 m | 2 148 | 93 | 0 | EFF1/MED1_LL2 |  |\n| ≥ 18 m e < 24 m | 74 | 0 | 0 | EFF1/MED1_LL3 |  |\n| ≥ 24 m | 29 | 0 | 0 | EFF1/MED1_LL4 |  |\n\nd) Número de dias de pesca para os palangreiros demersais na ilha da Córsega, mar da Ligúria, mar Tirreno e ilha da Sardenha (SZG 8, 9, 10 e 11)\n\n| Grupo de unidades populacionais | Comprimento de fora a fora dos navios | Espanha | França | Itália | Código do grupo de esforço de pesca |\n| --- | --- | --- | --- | --- | --- |\n| Pescada-branca nas SZG 8, 9, 10 e 11 | < 12 m | 0 | 1 436 | 28 873 | EFF1/MED2_LL1 |\n| ≥ 12 m e < 18 m | 0 | 44 | 4 131 | EFF1/MED2_LL2 |  |\n| ≥ 18 m e < 24 m | 0 | 0 | 23 | EFF1/MED2_LL3 |  |\n| ≥ 24 m | 0 | 0 | 0 | EFF1/MED2_LL4 |  |\n\n2. Limites máximos de captura para os camarões de profundidade\n\na) Possibilidades de pesca para o camarão-vermelho (*Aristeus antennatus*) no mar de Alborão, ilhas Baleares, norte de Espanha e golfo do Leão (SZG 1, 2, 5, 6 e 7), expressas na forma de nível máximo de capturas em toneladas de peso vivo\n\n| Espécie: | Camarão-vermelho *Aristeus antennatus* | Zona: | SZG 1, 2, 5, 6 e 7 (ARA/GF1-7) |\n| --- | --- | --- | --- |\n| Espanha | 708,3 |  | Nível máximo de capturas |\n| França | 45,9 |  |  |\n| Itália | 0 |  |  |\n| União | 754,2 |  |  |\n| TAC | Sem efeito |  |  |\n\nb) Possibilidades de pesca para o camarão-vermelho (*Aristeus antennatus*) e o camarão-púrpura (*Aristaeomorpha foliacea*) na ilha da Córsega, mar da Ligúria, mar Tirreno e ilha da Sardenha (SZG 8, 9, 10 e 11), expressas na forma de nível máximo de capturas em toneladas de peso vivo\n\n| Espécie: | Camarão-vermelho *Aristeus antennatus* | Zona: | SZG 8, 9, 10 e 11 (ARA/GF8-11) |\n| --- | --- | --- | --- |\n| Espanha | 0 |  | Limite de capturas de precaução Nível máximo de capturas |\n| França | 8,5 |  |  |\n| Itália | 221,9 |  |  |\n| União | 230,4 |  |  |\n| TAC | Sem efeito |  |  |\n\n| Espécie: | Camarão-púrpura *Aristaeomorpha foliacea* | Zona: | SZG 8, 9, 10 e 11 (ARS/GF8-11) |\n| --- | --- | --- | --- |\n| Espanha | 0 |  | Limites de capturas analíticos Nível máximo de capturas |\n| França | 4,9 |  |  |\n| Itália | 323,4 |  |  |\n| União | 328,3 |  |  |\n| TAC | Sem efeito |  |  |\n\n3. Limites máximos de captura para a pescada-branca\n\na) Possibilidades de pesca para a pescada-branca (*Merluccius merluccius*) capturada por artes fixas (GNS, GND e GTR) no mar de Alborão, ilhas Baleares, norte de Espanha e golfo do Leão (SZG 1, 2, 5, 6 e 7), expressas na forma de nível máximo de capturas em toneladas de peso vivo.\n\n| Espécie: | Pescada-branca *Merluccius merluccius* | Zona: | SZG 1, 2, 5, 6 e 7 (HKE/GF1-7) |\n| --- | --- | --- | --- |\n| Espanha | 49,1 |  | Limite de capturas analítico Não é aplicável o artigo 3.º, n.^os^ 2 e 3, do Regulamento (CE) n.º 847/96. Não é aplicável o artigo 4.º do Regulamento (CE) n.º 847/96. Não é aplicável o artigo 15.º, n.º 9, do Regulamento (CE) n.º 1380/2013. Nível máximo de capturas |\n| França | 122,2 |  |  |\n| Itália | 0 |  |  |\n| União | 171,3 |  |  |\n| TAC | Sem efeito |  |  |\n\nb) Possibilidades de pesca para a pescada-branca (*Merluccius merluccius*) capturada por artes fixas (GNS, GND e GTR) na ilha da Córsega, mar da Ligúria, mar Tirreno e ilha da Sardenha (SZG 8, 9, 10 e 11), expressas na forma de nível máximo de capturas em toneladas de peso vivo\n\n| Espécie: | Pescada-branca *Merluccius merluccius* | Zona: | SZG 8, 9, 10 e 11 (HKE/GF8-11) |\n| --- | --- | --- | --- |\n| Espanha | 0 |  | Limite de capturas analítico Não é aplicável o artigo 3.º, n.^os^ 2 e 3, do Regulamento (CE) n.º 847/96. Não é aplicável o artigo 4.º do Regulamento (CE) n.º 847/96. Não é aplicável o artigo 15.º, n.º 9, do Regulamento (CE) n.º 1380/2013. Nível máximo de capturas |\n| França | 0,2 |  |  |\n| Itália | 261,5 |  |  |\n| União | 261,7 |  |  |\n| TAC | Sem efeito |  |  |"
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "29f7dcb64ec3abea": {
+   "fragment_id": "POSSIBILIDADES DE PESCA PARA OS NAVIOS DE PESCA DA UNIÃO NO MAR ADRIÁTICO",
+   "type": "divisao",
+   "heading": "POSSIBILIDADES DE PESCA PARA OS NAVIOS DE PESCA DA UNIÃO NO MAR ADRIÁTICO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### POSSIBILIDADES DE PESCA PARA OS NAVIOS DE PESCA DA UNIÃO NO MAR ADRIÁTICO\n\nOs quadros do presente anexo estabelecem as possibilidades de pesca por unidade populacional ou grupos de esforço dos navios, assim como, se for caso disso, as condições que lhes estão associadas no plano funcional, incluindo o número máximo de navios de pesca da União autorizados a pescar pequenos pelágicos.\n\nTodas as possibilidades de pesca estabelecidas no presente anexo estão sujeitas às regras enunciadas nos artigos 26.º a 35.º do Regulamento (CE) n.º 1224/2009.\n\nAs referências às zonas de pesca são referências às SZG da CGPM.\n\nPara efeitos do presente anexo, apresenta-se o seguinte quadro de correspondência dos nomes científicos e dos nomes comuns das unidades populacionais:\n\n| Nome científico | Código alfa-3 | Nome comum |\n| --- | --- | --- |\n| *Engraulis encrasicolus* | ANE | Biqueirão |\n| *Merluccius merluccius* | HKE | Pescada-branca |\n| *Mullus barbatus* | MUT | Salmonete-da-vasa |\n| *Nephrops norvegicus* | NEP | Lagostim |\n| *Parapenaeus longirostris* | DPS | Gamba-branca |\n| *Sardina pilchardus* | PIL | Sardinha |\n| *Solea solea* | SOL | Línguado-legítimo |\n\n1. Unidades populacionais de pequenos pelágicos — SZG 17 e 18\n\na) Nível máximo de capturas expresso em toneladas de peso vivo\n\n| Espécie | Pequenos pelágicos (biqueirão e sardinha) | Zona | Águas da União e águas internacionais das SZG 17 e 18 |  |\n| --- | --- | --- | --- | --- |\n|  | *Engraulis encrasicolus* (ANE/GF1718) | *Sardina pilchardus* (PIL/GF1718) |  |  |\n| Itália | 14 154,5 | 8 062,3 |  |  |\n| Croácia | 9 542,5 | 32 625,7 |  |  |\n| Eslovénia | 111 | 189 |  |  |\n| União | 23 808 | 40 877 |  |  |\n| TAC | Sem efeito |  |  |  |\n\nb) Capacidade máxima da frota de arrastões e cercadores com rede de cerco com retenida que pesca ativamente pequenos pelágicos\n\n| Estado-Membro | Arte de pesca | Número de navios | kW | GT |\n| --- | --- | --- | --- | --- |\n| Croácia | PS | 249 | 77 145,52 | 18 537,72 |\n| Itália | PTM, OTM e PS | 187 | 64 655 | 14 065 |\n| Eslovénia [(^*1^)](http://publications.europa.eu/resource/cellar/c21d3cdb-3e39-11f1-814f-01aa75ed71a1.0020.02/DOC_1#E0010) | PS | 4 | 433,7 | 38,5 |\n| (^*1^) O disposto no ponto 28 da Recomendação CGPM/44/2021/20 não se aplica às frotas nacionais com menos de 10 cercadores com rede de cerco com retenida ou arrastões pelágicos que pescam ativamente unidades populacionais de pequenos pelágicos, inscritos no registo nacional e no registo da CGPM em 2014, como é o caso da Eslovénia. Nesse caso, a capacidade da frota ativa não pode aumentar mais de 50 % em número de navios e em termos de arqueação bruta (GT), de arqueação bruta registada (GRT) e kW. |  |  |  |  |\n\n2. Unidades populacionais demersais – SZG 17 e 18\n\na) Esforço de pesca máximo autorizado (em dias de pesca) por tipos de redes de arrasto e segmento de frota que pescam unidades populacionais demersais nas SZG 17 e 18 (mar Adriático).\n\n|  |  |  |  |  | Dias de pesca 2026 |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Tipo de arte de pesca | Zona geográfica | Unidades populacionais em causa | Comprimento de fora a fora dos navios | Código do grupo de esforço | Itália | Croácia | Eslovénia |\n| Redes de arrasto (OTB) | SZG 17 e 18 | Salmonete-da-vasa; pescada-branca; gamba-branca, e lagostim | < 12m | EFF/MED3_OTB _TR1 | 2 507 | 8 988 | [(^*1^)](http://publications.europa.eu/resource/cellar/c21d3cdb-3e39-11f1-814f-01aa75ed71a1.0020.02/DOC_1#E0011) |\n| ≥ 12 m e < 24 m | EFF/MED3_OTB _TR2 | 56 347 | 20 939 | [(^*1^)](http://publications.europa.eu/resource/cellar/c21d3cdb-3e39-11f1-814f-01aa75ed71a1.0020.02/DOC_1#E0011) |  |  |  |\n| ≥ 24 m | EFF/MED3_OTB _TR3 | 4 937 | 1 880 | [(^*1^)](http://publications.europa.eu/resource/cellar/c21d3cdb-3e39-11f1-814f-01aa75ed71a1.0020.02/DOC_1#E0011) |  |  |  |\n| Redes de arrasto de vara (TBB) | SZG 17 | Linguado-legítimo | < 12m | EFF/MED3_TBB _TR1 | 200 | 0 | 0 |\n| ≥ 12 m e < 24 m | EFF/MED3_TBB _TR2 | 3 744 | 0 | 0 |  |  |  |\n| ≥ 24 m | EFF/MED3_TBB _TR3 | 3 723 | 0 | 0 |  |  |  |\n| (^*1^) A Eslovénia não pode exceder o limite de esforço de pesca de 3 000 dias de pesca por ano, em conformidade com o ponto 13 da Recomendação CGPM/43/2019/5. |  |  |  |  |  |  |  |\n\nb) Capacidade máxima da frota dos arrastões de fundo e dos navios com rede de arrasto de vara autorizados a pescar unidades populacionais demersais\n\n| Estado-Membro | Arte de pesca | Número de navios | kW | GT |\n| --- | --- | --- | --- | --- |\n| Croácia | OTB | 495 | 79 867,99 | 13 267,99 |\n| Itália | OTB e TBB | 1 363 | 260 618,37 | 47 148 |\n| Eslovénia [(^*1^)](http://publications.europa.eu/resource/cellar/c21d3cdb-3e39-11f1-814f-01aa75ed71a1.0020.02/DOC_1#E0012) | OTB | 11 | 1 813,00 | 168,67 |\n| (^*1^) O disposto no ponto 9, alínea c), e no ponto 28 da Recomendação CGPM/43/2019/5 não se aplica às frotas nacionais que operam com redes de arrasto (OTB) e pescam menos de 1 000 dias durante o período de referência mencionado no ponto 9, alínea c), da Recomendação GFCM/43/2019/5. A capacidade de pesca da frota ativa que opera com redes de arrasto (OTB) não pode aumentar mais de 50 % em relação ao período de referência |  |  |  |  |"
+  },
+  "90c7d2baf4d44ee2": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI"
+  },
+  "59fc41950e82bc09": {
+   "fragment_id": "POSSIBILIDADES DE PESCA PARA OS NAVIOS DE PESCA DA UNIÃO NO ESTREITO DA SICÍLIA",
+   "type": "divisao",
+   "heading": "POSSIBILIDADES DE PESCA PARA OS NAVIOS DE PESCA DA UNIÃO NO ESTREITO DA SICÍLIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### POSSIBILIDADES DE PESCA PARA OS NAVIOS DE PESCA DA UNIÃO NO ESTREITO DA SICÍLIA\n\nOs quadros do presente anexo estabelecem as possibilidades de pesca por unidade populacional ou grupos de esforço dos navios, assim como, se for caso disso, as condições que lhes estão associadas no plano funcional, incluindo o número máximo de navios de pesca da União autorizados a pescar espécies demersais e camarões de profundidade.\n\nTodas as possibilidades de pesca estabelecidas no presente anexo estão sujeitas às regras enunciadas nos artigos 26.º a 35.º do Regulamento (CE) n.º 1224/2009.\n\nAs referências às zonas de pesca são referências às SZG da CGPM.\n\nPara efeitos do presente anexo, apresenta-se o seguinte quadro de correspondência dos nomes científicos e dos nomes comuns das unidades populacionais:\n\n| Nome científico | Código alfa-3 | Nome comum |\n| --- | --- | --- |\n| *Merluccius merluccius* | HKE | Pescada-branca |\n| *Parapenaeus longirostris* | DPS | Gamba-branca |\n| *Aristaeomorpha foliacea* | ARS | Camarão-púrpura |\n| *Aristeus antennatus* | ARA | Camarão-vermelho |\n\n1. Unidades populacionais demersais\n\na) Capacidade máxima da frota, expressa em número de navios, kW e GT, dos arrastões de fundo autorizados a pescar unidades populacionais demersais no estreito da Sicília (SZG 12, 13, 14, 15 e 16)\n\n| Estado-Membro | Arte de pesca | Número de navios | kW | GT |\n| --- | --- | --- | --- | --- |\n| Chipre | OTB | 1 | 265 | 105 |\n| Espanha | OTB | 1 | 100 | 118 |\n| Itália | OTB | 594 | 144 175 | 36 856 |\n| Malta | OTB | 15 | 5 562 | 2 007 |\n\nb) Nível máximo de esforço de pesca (expresso em número de dias de pesca), para os navios com redes de arrasto pelo fundo com portas (OTB) que dirigem a pesca à pescada-branca (*Merluccius merluccius*) no estreito da Sicília (SZG 12, 13, 14, 15 e 16)\n\n| Estado-Membro | Arte de pesca | Comprimento do navio | Código do grupo de esforço | Dias de pesca 2026 |\n| --- | --- | --- | --- | --- |\n| Chipre | OTB | T-12 | EFF4/MED4_OTB4 | 51 |\n| Itália | OTB | T-07 | EFF4/MED4_OTB1 | 90 |\n| Itália | OTB | T-10 | EFF4/MED4_OTB2 | 188 |\n| Itália | OTB | T-11 | EFF4/MED4_OTB3 | 19 366 |\n| Itália | OTB | T-12 | EFF4/MED4_OTB4 | 3 657 |\n| Malta | OTB | T-11 | EFF4/MED4_OTB3 | 338 |\n| Malta | OTB | T-12 | EFF4/MED4_OTB4 | 165 |\n\nc) Nível máximo de capturas de gamba-branca (*Parapenaeus longirostris*) no estreito da Sicília (SZG 12, 13, 14, 15 e 16), expresso em toneladas de peso vivo\n\n| Espécie: | Gamba-branca *Parapenaeus longirostris* | Zona: | SZG 12, 13, 14, 15 e 16 (DPS/GF12-16) |\n| --- | --- | --- | --- |\n| Chipre | 1 |  | Limite de capturas analítico |\n| Itália | 2 020 |  |  |\n| Malta | 5 |  |  |\n| União | 2 026 |  |  |\n| TAC | Sem efeito |  |  |\n\n2. Camarões de profundidade\n\na) Capacidade máxima da frota, expressa em número de navios, kW e GT, dos arrastões de fundo autorizados a pescar unidades populacionais de camarão de profundidade no estreito da Sicília (SZG 12, 13, 14, 15 e 16)\n\n| Estado-Membro | Arte de pesca | Número de navios | kW | GT |\n| --- | --- | --- | --- | --- |\n| Chipre | OTB | 1 | 265 | 105 |\n| Espanha | OTB | 2 | 440,56 | 218,78 |\n| Itália | OTB | 239 | 76 232 | 22 672 |\n| Malta | OTB | 15 | 5 562 | 2 007 |\n\nb) Nível máximo de capturas de camarão-púrpura (*Aristaeomorpha foliacea*) no estreito da Sicília (SZG 12, 13, 14, 15 e 16), expresso em toneladas de peso vivo\n\n| Espécie | Camarão-púrpura *Aristaeomorpha foliacea* | [**►C1**](http://publications.europa.eu/resource/celex/32026R0266R%2801%29) Zona:**◄** | [**►C1**](http://publications.europa.eu/resource/celex/32026R0266R%2801%29) SZG 12, 13, 14, 15 e 16 (ARS/GF12-16) **◄** |\n| --- | --- | --- | --- |\n| Espanha | 0,9 |  | Limite de capturas analítico |\n| Itália | 794,4 |  |  |\n| Chipre | 0 |  |  |\n| Malta | 33,7 |  |  |\n| União | 829 |  |  |\n| TAC | Sem efeito |  |  |\n\nc) Nível máximo de capturas de camarão-vermelho (*Aristeus antennatus*) no estreito da Sicília (SZG 12, 13, 14, 15 e 16), expresso em toneladas de peso vivo\n\n| Espécie | Camarão-vermelho *Aristeus antennatus* | Zona: | SZG 12, 13, 14, 15 e 16 (ARA/GF12-16) |\n| --- | --- | --- | --- |\n| Espanha | 0,9 |  | Limite de capturas de precaução |\n| Itália | 91,9 |  |  |\n| Chipre | 0 |  |  |\n| [**►C1**](http://publications.europa.eu/resource/celex/32026R0266R%2801%29) Malta**◄** | [**►C1**](http://publications.europa.eu/resource/celex/32026R0266R%2801%29) 1,7 **◄** |  |  |\n| União | 95 |  |  |\n| TAC | Sem efeito |  |  |"
+  },
+  "d46ca50274582635": {
+   "fragment_id": "ANEXO VII",
+   "type": "divisao",
+   "heading": "ANEXO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII"
+  },
+  "4c1037a19c8b6b59": {
+   "fragment_id": "POSSIBILIDADES DE PESCA PARA OS NAVIOS DE PESCA DA UNIÃO NO MAR JÓNICO E NO MAR LEVANTINO",
+   "type": "divisao",
+   "heading": "POSSIBILIDADES DE PESCA PARA OS NAVIOS DE PESCA DA UNIÃO NO MAR JÓNICO E NO MAR LEVANTINO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### POSSIBILIDADES DE PESCA PARA OS NAVIOS DE PESCA DA UNIÃO NO MAR JÓNICO E NO MAR LEVANTINO\n\nOs quadros do presente anexo estabelecem o número máximo de navios de pesca da União autorizados a pescar unidades populacionais demersais no mar Jónico e no mar Levantino e o nível máximo de capturas.\n\nAs referências às zonas de pesca são referências às SZG da CGPM.\n\nPara efeitos do presente anexo, apresenta-se o seguinte quadro de correspondência dos nomes científicos e dos nomes comuns das unidades populacionais:\n\n| Nome científico | Código alfa-3 | Nome comum |\n| --- | --- | --- |\n| *Aristaeomorpha foliacea* | ARS | Camarão-púrpura |\n| *Aristeus antennatus* | ARA | Camarão-vermelho |\n\n1. Mar Jónico\n\na) Capacidade máxima da frota, expressa em número de navios, kW e GT, dos arrastões de fundo autorizados a pescar unidades populacionais de camarões de profundidade no mar Jónico (SZG 19, 20 e 21)\n\n| Estado-Membro | Arte de pesca | Número de navios | kW | GT |\n| --- | --- | --- | --- | --- |\n| Grécia | OTB | 240 | 69 281 | 23 101 |\n| Itália | OTB | 291 | 72 383 | 16 853 |\n| Malta | OTB | 15 | 5 562 | 2 007 |\n\nb) Nível máximo de capturas de camarão-púrpura (*Aristaeomorpha foliacea*) no mar Jónico (SZG 19, 20 e 21), expresso em toneladas de peso vivo\n\n| Espécie | Camarão-púrpura *Aristaeomorpha foliacea* | Zona: | SZG 19,-20 e 21 (ARS/GF19-21) |\n| --- | --- | --- | --- |\n| Grécia | 31,3 |  | Limite de capturas analítico |\n| Itália | 285,7 |  |  |\n| Malta | 42 |  |  |\n| União | 359 |  |  |\n| TAC | Sem efeito |  |  |\n\nc) Nível máximo de capturas de camarão-vermelho (*Aristeus antennatus*) no mar Jónico (SZG 19, 20 e 21), expresso em toneladas de peso vivo\n\n| Espécie | Camarão-vermelho *Aristeus antennatus* | Zona: | SZG 19, 20 e 21 (ARA/GF19-21) |\n| --- | --- | --- | --- |\n| Grécia | 13,8 |  | Limite de capturas analítico |\n| Itália | 228,2 |  |  |\n| Malta | 0 |  |  |\n| União | 242 |  |  |\n| TAC | Sem efeito |  |  |\n\n2. Mar Levantino\n\na) Capacidade máxima da frota, expressa em número de navios, kW e GT, dos arrastões de fundo autorizados a pescar unidades populacionais de camarões de profundidade no mar Levantino (SZG 24, 25, 26 e 27)\n\n| Estado-Membro | Arte de pesca | Número de navios | kW | GT |\n| --- | --- | --- | --- | --- |\n| Chipre | OTB | 6 | 2 048 | 618 |\n| Itália | OTB | 34 | 15 345 | 5 542 |\n\nb) Nível máximo de capturas de camarão-púrpura (*Aristaeomorpha foliacea*) no mar Levantino (SZG 24, 25, 26 e 27), expresso em toneladas de peso vivo\n\n| Espécie | Camarão-púrpura Aristaeomorpha foliacea | Zona: | SZG 24, 25, 26 e 27 (ARS/GF24-27) |\n| --- | --- | --- | --- |\n| Itália | 44,3 |  | Limite de capturas de precaução |\n| Chipre | 10,7 |  |  |\n| União | 55 |  |  |\n| TAC | Sem efeito |  |  |\n\nc) Nível máximo de capturas de camarão-vermelho (*Aristeus antennatus*) no mar Levantino (SZG 24, 25, 26 e 27), expresso em toneladas de peso vivo\n\n| Espécie | Camarão-vermelho *Aristeus antennatus* | Zona: | SZG 24, 25, 26 e 27 (ARA/GF24– 27) |\n| --- | --- | --- | --- |\n| Itália | 9,4 |  | Limite de capturas de precaução |\n| Chipre | 5,6 |  |  |\n| União | 15 |  |  |\n| TAC | Sem efeito |  |  |"
+  },
+  "1b41b51ec3248d43": {
+   "fragment_id": "ANEXO VIII",
+   "type": "divisao",
+   "heading": "ANEXO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII"
+  },
+  "c990d048269f171e": {
+   "fragment_id": "POSSIBILIDADES DE PESCA PARA OS NAVIOS DE PESCA DA UNIÃO NO MAR DE ALBORÃO",
+   "type": "divisao",
+   "heading": "POSSIBILIDADES DE PESCA PARA OS NAVIOS DE PESCA DA UNIÃO NO MAR DE ALBORÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### POSSIBILIDADES DE PESCA PARA OS NAVIOS DE PESCA DA UNIÃO NO MAR DE ALBORÃO\n\nOs quadros do presente anexo estabelecem o número máximo de navios de pesca da União autorizados a pescar goraz no mar de Alborão e o nível máximo de capturas.\n\nAs referências às zonas de pesca são referências às SZG da CGPM.\n\nPara efeitos do presente anexo, apresenta-se o seguinte quadro de correspondência dos nomes científicos e dos nomes comuns das unidades populacionais:\n\n| Nome científico | Código alfa-3 | Nome comum |\n| --- | --- | --- |\n| *Pagellus boraraveo* | SBR | Goraz |\n\na) Nível máximo de capturas efetuadas com palangres e linhas de mão, expresso em toneladas de peso vivo\n\n| Espécie | Goraz *Pagellus bogaraveo* | Zona: | Águas da União no Mar de Alborão – SZG 1, 2 e 3 (SBR/GF1-3) |\n| --- | --- | --- | --- |\n| Espanha | 9,1 |  | Nível máximo de capturas |\n| União | 9,1 |  |  |\n| TAC | Sem efeito |  |  |\n\nb) Número máximo de palangres e linhas de mão autorizados a pescar no mar de Alborão (SZG 1, 2 e 3)\n\nEstado-Membro Goraz nas SZG 1, 2 e 3\n\nEspanha 82"
+  },
+  "953641e58475eff6": {
+   "fragment_id": "ANEXO IX",
+   "type": "divisao",
+   "heading": "ANEXO IX",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IX"
+  },
+  "a67f708426f376bb": {
+   "fragment_id": "POSSIBILIDADES DE PESCA PARA OS NAVIOS DE PESCA DA UNIÃO NO MAR NEGRO",
+   "type": "divisao",
+   "heading": "POSSIBILIDADES DE PESCA PARA OS NAVIOS DE PESCA DA UNIÃO NO MAR NEGRO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### POSSIBILIDADES DE PESCA PARA OS NAVIOS DE PESCA DA UNIÃO NO MAR NEGRO\n\nOs quadros do presente anexo estabelecem os TAC e as quotas por unidade populacional, expressos em toneladas de peso vivo, assim como, se for caso disso, as condições que lhes estão associadas no plano funcional.\n\nTodas as possibilidades de pesca estabelecidas no presente anexo estão sujeitas às regras enunciadas nos artigos 26.º a 35.º do Regulamento (CE) n.º 1224/2009.\n\nAs referências às zonas de pesca são referências às SZG da CGPM.\n\nPara efeitos do presente anexo, apresenta-se o seguinte quadro de correspondência dos nomes científicos e dos nomes comuns das unidades populacionais:\n\n| Nome científico | Código alfa-3 | Nome comum |\n| --- | --- | --- |\n| *Sprattus sprattus* | SPR | Espadilha |\n| *Scophthalmus maximus* | TUR | Pregado |\n\n| Espécie | Espadilha *Sprattus sprattus* | Zona: | Águas da União no mar Negro – SZG 29 (SPR/F3742C) |\n| --- | --- | --- | --- |\n| Bulgária | 8 032,50 |  | TAC analítico Não é aplicável o artigo 3.º, n.^os^ 2 e 3, do Regulamento (CE) n.º 847/96. Não é aplicável o artigo 4.º do Regulamento (CE) n.º 847/96. |\n| Roménia | 3 442,50 |  |  |\n| União | 11 475 |  |  |\n| TAC | Sem efeito |  |  |\n\n| Espécie: | Pregado *Scophthalmus maximus* | Zona: | Águas da União no mar Negro – SZG 29 (TUR/F3742C) |\n| --- | --- | --- | --- |\n| Bulgária | 86,3 |  | TAC analítico Não é aplicável o artigo 3.º, n.^os^ 2 e 3, do Regulamento (CE) n.º 847/96. Não é aplicável o artigo 4.º do Regulamento (CE) n.º 847/96. |\n| Roménia | 88,3 |  |  |\n| União | 174,6 | [(^*1^)](http://publications.europa.eu/resource/cellar/c21d3cdb-3e39-11f1-814f-01aa75ed71a1.0020.02/DOC_1#E0013) |  |\n| TAC | 890 |  |  |\n| (^*1^) Não são autorizadas atividades de pesca, incluindo o transbordo, a manutenção a bordo, o desembarque e a primeira venda, de 15 de abril a 15 de junho de 2026. |  |  |  |\n\n---"
+  },
+  "c49f8ecf583a0f6c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> () Regulamento (UE) 2023/2124 do Parlamento Europeu e do Conselho, de 4 de outubro de 2023, relativo a determinadas disposições aplicáveis à pesca na zona do Acordo da Comissão Geral das Pescas do Mediterrâneo (CGPM) (JO L, 2023/2124, 12.10.2023, ELI: http://data.europa.eu/eli/reg/2023/2124/oj).\n\n> () Regulamento (CE) n.º 1100/2007 do Conselho, de 18 de setembro de 2007, que estabelece medidas para a recuperação da unidade populacional de enguia europeia, JO L 248 de 22.9.2007, p. 17, ELI: [http://data.europa.eu/eli/reg/2007/1100/oj](http://data.europa.eu/eli/reg/2007/1100/oj).\n\n> () Regulamento (CE) n.º 847/96 do Conselho, de 6 de maio de 1996, que introduz condições suplementares para a gestão anual dos TAC e quotas (JO L 115 de 9.5.1996, p. 3, ELI: [http://data.europa.eu/eli/reg/1996/847/oj](http://data.europa.eu/eli/reg/1996/847/oj)).\n\n> () Regulamento (UE) 2019/1241 do Parlamento Europeu e do Conselho, de 20 de junho de 2019, relativo à conservação dos recursos haliêuticos e à proteção dos ecossistemas marinhos através de medidas técnicas, que altera os Regulamentos (CE) n.º 1967/2006, (CE) n.º 1224/2009 do Conselho e os Regulamentos (UE) n.º 1380/2013, (UE) 2016/1139, (UE) 2018/973, (UE) 2019/472 e (UE) 2019/1022 do Parlamento Europeu e do Conselho e que revoga os Regulamentos (CE) n.º 894/97, (CE) n.º 850/98, (CE) n.º 2549/2000, (CE) n.º 254/2002, (CE) n.º 812/2004 e (CE) n.º 2187/2005 do Conselho (JO L 198 de 25.7.2019, p. 105, ELI: [http://data.europa.eu/eli/reg/2019/1241/oj](http://data.europa.eu/eli/reg/2019/1241/oj)).\n\n> () Regulamento de Execução (UE) n.º 404/2011 da Comissão, de 8 de abril de 2011, que estabelece as regras de execução do Regulamento (CE) n.º 1224/2009 do Conselho que institui um regime comunitário de controlo a fim de assegurar o cumprimento das regras da Política Comum das Pesca (JO L 112 de 30.4.2011, p. 1, ELI: [http://data.europa.eu/eli/reg_impl/2011/404/oj](http://data.europa.eu/eli/reg_impl/2011/404/oj)).\n\n> () TBB, OTB, PTB, TBN, TBS, TB, OTM, PTM, TMS, TM, OTT, OT, PT, TX, OTP e TSP."
+  }
+ }
+}

@@ -1,0 +1,516 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:174777:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2012-155873811",
+ "dre_path": "/dr/detalhe/lei/39-2012-174777",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-08-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "155874194",
+    "155874195",
+    "155874196",
+    "155874197",
+    "155874198",
+    "155874199",
+    "155874200",
+    "155874201",
+    "155874202",
+    "155874203",
+    "155874204",
+    "155874205",
+    "155874206",
+    "155874207",
+    "155874208",
+    "155874209",
+    "155874210",
+    "155874211",
+    "155874212",
+    "155874213",
+    "155874214",
+    "155874215",
+    "155874216",
+    "155874217",
+    "155874218",
+    "155874219",
+    "155874220",
+    "155874221",
+    "155874222",
+    "155874223",
+    "155874224",
+    "155874225",
+    "155874226",
+    "155874227",
+    "155874228",
+    "155874229",
+    "155874230",
+    "155874231",
+    "155874232",
+    "155874233",
+    "155874234",
+    "155874235"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:108041482:por",
+     "title": "Decreto-Lei n.º 102/2017",
+     "published": "2017-08-23",
+     "dre_path": "/dr/detalhe/decreto-lei/102-2017-108041482",
+     "date": "2017-07-01"
+    }
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 23.º",
+    "Altera Artigo 29.º",
+    "Revoga Artigo 24.º"
+   ],
+   "fragments": [
+    "155874194",
+    "155874195",
+    "155874196",
+    "155874197",
+    "155874198",
+    "155874199",
+    "155874200",
+    "155874201",
+    "155874202",
+    "155874203",
+    "155874204",
+    "155874205",
+    "155874206",
+    "155874207",
+    "155874208",
+    "155874209",
+    "155874210",
+    "155874211",
+    "155874212",
+    "155874213",
+    "155874214",
+    "155874215",
+    "861657482",
+    "155874217",
+    "155874218",
+    "155874219",
+    "155874220",
+    "861657483",
+    "861657485",
+    "155874223",
+    "155874224",
+    "155874225",
+    "155874226",
+    "861657484",
+    "155874228",
+    "155874229",
+    "155874230",
+    "155874231",
+    "155874232",
+    "155874233",
+    "155874234",
+    "155874235",
+    "155874236"
+   ]
+  }
+ ],
+ "fragments": {
+  "155874194": {
+   "fragment_id": "155873812",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 39/2012\n\nde 28 de agosto\n\nAprova o regime da responsabilidade técnica pela direção e orientação das atividades desportivas desenvolvidas nas instalações desportivas que prestam serviços desportivos na área da manutenção da condição física (fitness), designadamente aos ginásios, academias ou clubes de saúde (healthclubs), e revoga o Decreto-Lei n.º 271/2009, de 1 de outubro.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "155874195": {
+   "fragment_id": "155873813",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "155874196": {
+   "fragment_id": "155873814",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei define o regime jurídico da responsabilidade técnica pela direção e orientação das atividades desportivas desenvolvidas nas instalações desportivas que prestam serviços desportivos na área da manutenção da condição física (fitness), designadamente os ginásios, academias ou clubes de saúde (healthclubs), independentemente da designação adotada e forma de exploração, bem como determinadas regras sobre o seu funcionamento, em conformidade com o Decreto-Lei n.º 92/2010, de 26 de julho, que transpôs para o ordenamento jurídico interno a Diretiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0123\" title=\"Link para Directiva da Comunidade Europeia\">2006/123/CE</a>, do Parlamento Europeu e do Conselho, de 12 de dezembro, relativa aos serviços no mercado interno, com a Lei n.º 9/2009, de 4 de março, que transpôs para o ordenamento jurídico interno a Diretiva n.º <a href=\"eurlex.asp?ano=2005&id=305L0036\" title=\"Link para Directiva da Comunidade Europeia\">2005/36/CE</a>, do Parlamento Europeu e do Conselho, de 7 de setembro, relativa ao reconhecimento das qualificações profissionais, e com o Decreto-Lei n.º 92/2011, de 27 de julho, que cria o Sistema de Regulação de Acesso a Profissões (SRAP)."
+  },
+  "155874197": {
+   "fragment_id": "155873815",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - A presente lei não se aplica às atividades desportivas que:\n\na) Sejam promovidas, regulamentadas e dirigidas por federações desportivas dotadas do estatuto de utilidade pública desportiva, desde que compreendidas no seu objecto social;\n\nb) Sejam desenvolvidas no âmbito do sistema educativo, curricular e de complemento curricular;\n\nc) Se destinem exclusivamente aos membros das Forças Armadas e das forças de segurança;\n\nd) Sejam desenvolvidas em instalações desportivas de base recreativas e sem enquadramento técnico;\n\ne) Sejam desenvolvidas no âmbito do sistema prisional;\n\nf) Sejam desenvolvidas em estabelecimentos termais e unidades de saúde e de reabilitação, utilizados sob supervisão médico-sanitária;\n\ng) Por vontade expressa dos praticantes desportivos federados, sejam realizadas sem enquadramento técnico.\n\n2 - A presente lei não se aplica, igualmente, às atividades desportivas que decorram em instalações desportivas integradas em unidades hoteleiras ou em empreendimentos turísticos, desde que a sua frequência seja reservada, em exclusivo, aos utentes dessas unidades."
+  },
+  "155874198": {
+   "fragment_id": "155873816",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos da presente lei, são aplicáveis as definições previstas no artigo 5.º do Decreto-Lei n.º 141/2009, de 16 de junho."
+  },
+  "155874199": {
+   "fragment_id": "155873817",
+   "type": 1,
+   "heading": "Capítulo II — Direção e responsabilidade pelas atividades desportivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Direção e responsabilidade pelas atividades desportivas"
+  },
+  "155874200": {
+   "fragment_id": "155873818",
+   "type": 11,
+   "heading": "Artigo 4.º — Técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Técnicos\n\nCada instalação desportiva referida no artigo 1.º deve dispor de:\n\na) Pelo menos um diretor técnico (DT) que assuma a direção e responsabilidade pelas atividades desportivas que decorrem na instalação;\n\nb) Técnicos de exercício físico responsáveis pela orientação e condução do exercício de atividades desportivas a decorrer na instalação."
+  },
+  "155874201": {
+   "fragment_id": "155873819",
+   "type": 11,
+   "heading": "Artigo 5.º — Diretor técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Diretor técnico\n\nO DT é a pessoa singular que assume a direção e a responsabilidade pelas atividades desportivas que decorrem nas instalações desportivas que prestam serviços desportivos na área da manutenção da condição física (fitness), designadamente os ginásios, academias ou clubes de saúde (healthclubs), independentemente da designação adotada e forma de exploração."
+  },
+  "155874202": {
+   "fragment_id": "155873820",
+   "type": 11,
+   "heading": "Artigo 6.º — Funções do DT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Funções do DT\n\nO DT desempenha as seguintes funções:\n\na) Coordenar e supervisionar a prescrição, avaliação, condução e orientação de todos os programas e atividades, da área da manutenção da condição física (fitness), no âmbito do funcionamento das instalações desportivas, aos seus utentes;\n\nb) Coordenar e supervisionar a avaliação da qualidade dos serviços prestados, bem como propor ou implementar medidas visando a melhoria dessa qualidade;\n\nc) Elaborar um manual de operações das atividades desportivas que decorrem nas instalações desportivas que prestam serviços desportivos na área da manutenção da condição física (fitness);\n\nd) Coordenar a produção das atividades desportivas;\n\ne) Superintender tecnicamente, no âmbito do funcionamento das instalações desportivas, as atividades desportivas nelas desenvolvidas;\n\nf) Colaborar na luta contra a dopagem no desporto."
+  },
+  "155874203": {
+   "fragment_id": "155873821",
+   "type": 11,
+   "heading": "Artigo 7.º — Funções do técnico de exercício físico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Funções do técnico de exercício físico\n\nO técnico de exercício físico desempenha, entre outras, as seguintes funções:\n\na) Planear e prescrever aos utentes, sob coordenação e supervisão do DT, as atividades desportivas na área da manutenção da condição física (fitness);\n\nb) Orientar e conduzir tecnicamente, no âmbito do funcionamento das instalações desportivas, as atividades desportivas na área da manutenção da condição física (fitness) nelas desenvolvidas;\n\nc) Avaliar a qualidade dos serviços prestados, bem como propor ou implementar medidas visando a melhoria dessa qualidade;\n\nd) Colaborar na luta contra a dopagem no desporto."
+  },
+  "155874204": {
+   "fragment_id": "155873822",
+   "type": 11,
+   "heading": "Artigo 8.º — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Deveres\n\nO DT e o técnico de exercício físico devem atuar diligentemente, assegurando o desenvolvimento da atividade desportiva num ambiente de qualidade, segurança, defesa da saúde dos praticantes e respeito pelos valores da ética no desporto."
+  },
+  "155874205": {
+   "fragment_id": "155873823",
+   "type": 11,
+   "heading": "Artigo 9.º — Título profissional de DT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Título profissional de DT\n\n1 - É obrigatória a obtenção de título profissional válido para o exercício da função de DT em território nacional.\n\n2 - É nulo o contrato pelo qual alguém se obrigue a exercer a função de DT sem título profissional válido.\n\n3 - O título profissional de DT equivale, para todos os efeitos legais, ao título profissional de técnico de exercício físico.\n\n4 - O título profissional de DT permite o acesso gratuito ao título profissional de treinador de desporto por referência a determinada modalidade desportiva, neste caso quando as qualificações profissionais forem as referidas no diploma que regula o regime de acesso e exercício da atividade de treinador de desporto."
+  },
+  "155874206": {
+   "fragment_id": "155873824",
+   "type": 11,
+   "heading": "Artigo 10.º — Requisitos de obtenção do título profissional de DT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Requisitos de obtenção do título profissional de DT\n\nPodem ter acesso ao título profissional de DT os candidatos que satisfaçam um dos seguintes requisitos:\n\na) Licenciatura na área do desporto ou da educação física, tal como identificada pela Direção-Geral do Ensino Superior;\n\nb) Qualificações profissionais reconhecidas nos termos da Lei n.º 9/2009, de 4 de março."
+  },
+  "155874207": {
+   "fragment_id": "155873825",
+   "type": 11,
+   "heading": "Artigo 11.º — Título profissional de técnico de exercício físico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Título profissional de técnico de exercício físico\n\n1 - Sem prejuízo do disposto no n.º 3 do artigo 9.º, é obrigatória a obtenção de título profissional válido para o exercício da função de técnico de exercício físico em território nacional, sendo nulo o contrato pelo qual alguém se obrigue a exercer esta função sem título profissional válido.\n\n2 - Aos profissionais cidadãos de Estado membro da União Europeia ou do Espaço Económico Europeu qualificados fora de Portugal e que aqui prestem serviços em regime de livre prestação aplica-se o regime previsto na Lei n.º 9/2009, de 4 de março.\n\n3 - Os profissionais referidos no número anterior devem apresentar ao Instituto Português do Desporto e da Juventude, I. P. (IPDJ, I. P.), a declaração prévia prevista no artigo 5.º da Lei n.º 9/2009, de 4 de março.\n\n4 - As referências legislativas a técnico de exercício físico devem entender-se como abrangendo os profissionais referidos nos n.os 2 e 3, excepto quando o contrário resulte da própria norma em causa."
+  },
+  "155874208": {
+   "fragment_id": "155873826",
+   "type": 11,
+   "heading": "Artigo 12.º — Requisitos de obtenção do título profissional de técnico de exercício físico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Requisitos de obtenção do título profissional de técnico de exercício físico\n\n1 - Podem ter acesso ao título profissional de técnico de exercício físico os candidatos que satisfaçam um dos seguintes requisitos:\n\na) Licenciatura na área do desporto ou da educação física, tal como identificada pela Direção-Geral do Ensino Superior;\n\nb) Qualificação, na área da manutenção da condição física (fitness), no âmbito do sistema nacional de qualificações, por via da formação ou através de competências profissionais adquiridas e desenvolvidas ao longo da vida, reconhecidas, validadas e certificadas, nos termos do artigo 12.º do Decreto-Lei n.º 396/2007, de 31 de dezembro, e da respetiva regulamentação;\n\nc) Qualificações profissionais reconhecidas nos termos da Lei n.º 9/2009, de 4 de março.\n\n2 - Para efeitos da alínea b) do número anterior, os referenciais de formação na componente tecnológica para a obtenção de uma qualificação e os requisitos para homologação dos cursos conducentes à obtenção da mesma integram o catálogo nacional de qualificações e são definidos por despacho do presidente do IPDJ, I. P., mediante parecer prévio favorável da Agência Nacional para a Qualificação e o Ensino Profissional, I. P., publicado no Diário da República, o qual deve definir os níveis de competências dos formadores e o perfil profissional, incluindo os objetivos das unidades e subunidades curriculares e conteúdos, as atividades, as competências de saída, as condições de acesso, as saídas profissionais, as unidades de formação e as cargas horárias.\n\n3 - Os cursos para obtenção da qualificação referida no número anterior são ministrados por entidades formadoras certificadas no âmbito do Sistema Nacional de Qualificações nos termos do artigo 15.º"
+  },
+  "155874209": {
+   "fragment_id": "155873827",
+   "type": 11,
+   "heading": "Artigo 13.º — Emissão dos títulos profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Emissão dos títulos profissionais\n\n1 - O candidato que pretenda obter título profissional de DT ou de técnico de exercício físico apresenta a sua candidatura perante o IPDJ, I. P., requerendo a emissão do título, com a sua identificação, instruída com certificado de qualificações ou diploma.\n\n2 - Os títulos profissionais correspondentes às candidaturas regularmente recebidas são emitidos pelo IPDJ, I. P., no prazo de 20 dias após a recepção destas, considerando-se, na ausência de decisão expressa, o pedido tacitamente deferido e valendo os certificados de qualificações ou diplomas em causa acompanhados do comprovativo de pagamento da taxa devida como títulos profissionais de DT ou de técnico de exercício físico, consoante o caso, para todos os efeitos legais.\n\n3 - A emissão de títulos profissionais por reconhecimento de qualificações profissionais obtidas noutros Estados membros da União Europeia ou do Espaço Económico Europeu ocorre simultaneamente com a decisão de reconhecimento, no termo do procedimento referido no artigo 47.º da Lei n.º 9/2009, de 4 de março.\n\n4 - Os modelos de título profissional são definidos por despacho do presidente do IPDJ, I. P., publicado no Diário da República."
+  },
+  "155874210": {
+   "fragment_id": "155873828",
+   "type": 11,
+   "heading": "Artigo 14.º — Revogação e caducidade dos títulos profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Revogação e caducidade dos títulos profissionais\n\n1 - O IPDJ, I. P., deve promover a revogação do título profissional quando se conclua pela falsidade de qualquer elemento comprovativo dos requisitos para a respectiva emissão, sem prejuízo de eventual condenação por ilícito contraordenacional.\n\n2 - O título profissional caduca sempre que o seu titular não frequente com aproveitamento, no período de cinco anos, ações de formação contínua, tal como definido por portaria do membro do Governo responsável pela área do desporto, ministradas por entidade formadora certificada, nos termos do artigo seguinte, com referência, nomeadamente, à definição das ações de formação e das áreas temáticas, à correspondência das unidades de crédito com as horas de formação, ao número mínimo de unidades de crédito e ao procedimento para o reconhecimento das ações de formação.\n\n3 - A revalidação do título profissional, através de plataforma informática criada para o efeito, é automática logo que se verifique o cumprimento do requisito referido no número anterior, sem prejuízo de eventual condenação por ilícito contraordenacional."
+  },
+  "155874211": {
+   "fragment_id": "155873829",
+   "type": 11,
+   "heading": "Artigo 15.º — Entidades formadoras e ações de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entidades formadoras e ações de formação\n\n1 - A certificação das entidades formadoras que ministrem ações de formação contínua de DT e ações de formação de técnicos de exercício segue os trâmites da Portaria n.º 851/2010, de 6 de setembro, com as seguintes adaptações:\n\na) A entidade competente para a certificação é o IPDJ, I. P.;\n\nb) Outros requisitos específicos, em complemento ou derrogação dos requisitos constantes da Portaria n.º 851/2010, de 6 de setembro, são aprovados por portaria dos membros do Governo responsáveis pelas áreas do desporto, da educação e da formação profissional.\n\n2 - A certificação de entidades formadoras referidas no número anterior, seja expressa ou tácita, é comunicada por meio eletrónico ao serviço central competente do ministério responsável pela área da formação profissional no prazo de 10 dias.\n\n3 - A certificação só produz efeitos após o pagamento das taxas devidas pela entidade formadora certificada aquando da apresentação do pedido de certificação.\n\n4 - As entidades formadoras devem apresentar ao IPDJ, I. P., mera comunicação prévia relativamente a cada ação de formação, acompanhada dos seguintes elementos:\n\na) Identificação da ação a ministrar, com data de início, duração, horário de funcionamento e local;\n\nb) Cópia ou acesso electrónico pela entidade certificadora aos conteúdos de formação da ação de formação, ou simples indicação dos mesmos, no caso de já terem sido anteriormente disponibilizados;\n\nc) Identificação dos formadores, acompanhada de curriculum vitae que evidencie a posse de competências adequadas às matérias que vão ministrar, salvo se já tiverem sido anteriormente disponibilizados."
+  },
+  "155874212": {
+   "fragment_id": "155873830",
+   "type": 11,
+   "heading": "Artigo 16.º — Identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Identificação\n\nEm cada instalação desportiva devem ser afixados, em local bem visível para os utentes, a identificação do ou dos DT e o horário de permanência daquele ou daqueles na mesma."
+  },
+  "155874213": {
+   "fragment_id": "155873831",
+   "type": 1,
+   "heading": "Capítulo III — Funcionamento das instalações desportivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Funcionamento das instalações desportivas"
+  },
+  "155874214": {
+   "fragment_id": "155873832",
+   "type": 11,
+   "heading": "Artigo 17.º — Seguro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Seguro\n\n1 - As instalações desportivas onde decorram atividades abrangidas pela presente lei devem dispor de um seguro nos termos do disposto no artigo 14.º do Decreto-Lei n.º 10/2009, de 12 de janeiro, alterado pela Lei n.º 27/2011, de 16 de junho.\n\n2 - A informação sobre a existência do seguro a que se refere o número anterior deve estar afixada, em cada instalação desportiva, em local visível para os utentes."
+  },
+  "155874215": {
+   "fragment_id": "155873833",
+   "type": 11,
+   "heading": "Artigo 18.º — Atividades interditas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Atividades interditas\n\nNas instalações desportivas onde decorram atividades abrangidas pela presente lei é vedado recomendar ou comercializar quaisquer substâncias ou métodos que constem da lista de substâncias e métodos proibidos a que se refere o artigo 8.º da lei antidopagem no desporto."
+  },
+  "155874216": {
+   "fragment_id": "155873834",
+   "type": 11,
+   "heading": "Artigo 19.º — Regulamento interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Regulamento interno\n\n1 - As instalações desportivas onde decorram atividades abrangidas pela presente lei devem dispor de um regulamento interno elaborado pelo proprietário, ou entidade que o explore se for diferente daquele, contendo as normas de utilização e de segurança a ser observadas pelos utentes, o qual é assinado pelo DT.\n\n2 - O regulamento a que se refere o número anterior deve estar afixado em local visível na receção e na zona de acesso às áreas de atividade desportiva e instalações de apoio."
+  },
+  "155874217": {
+   "fragment_id": "155873835",
+   "type": 11,
+   "heading": "Artigo 20.º — Acesso e permanência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Acesso e permanência\n\nSem prejuízo do disposto em legislação especial, pode ser impedido o acesso ou permanência nas instalações desportivas a quem se recuse, sem causa legítima, pagar os serviços utilizados ou consumidos, não se comporte de modo adequado, provoque distúrbios ou pratique atos de furto ou de violência."
+  },
+  "155874218": {
+   "fragment_id": "155873836",
+   "type": 11,
+   "heading": "Artigo 21.º — Manual de operações das atividades desportivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Manual de operações das atividades desportivas\n\n1 - As instalações desportivas onde decorram atividades abrangidas pela presente lei devem dispor de um manual de operações das atividades desportivas elaborado pelo DT, contendo os procedimentos e protocolos, bem como a utilização de equipamentos, observadas pelos profissionais e pelos utentes, o qual é assinado pelo DT e pelo proprietário ou entidade que o explore se for diferente daquele.\n\n2 - O manual a que se refere o número anterior deve estar afixado em local visível nos locais de prática e na receção."
+  },
+  "155874219": {
+   "fragment_id": "155873837",
+   "type": 1,
+   "heading": "Capítulo IV — Fiscalização e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Fiscalização e sanções"
+  },
+  "155874220": {
+   "fragment_id": "155873838",
+   "type": 11,
+   "heading": "Artigo 22.º — Competência para a fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Competência para a fiscalização\n\n1 - Sem prejuízo das competências atribuídas por lei a outras autoridades administrativas e policiais, compete à Autoridade de Segurança Alimentar e Económica (ASAE) fiscalizar o cumprimento do disposto na presente lei.\n\n2 - As autoridades administrativas e policiais que verifiquem infrações ao disposto na presente lei devem elaborar os respectivos autos de notícia, que remetem à ASAE, no prazo máximo de 48 horas."
+  },
+  "155874221": {
+   "fragment_id": "155873839",
+   "type": 11,
+   "heading": "Artigo 23.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Contraordenações\n\nConstitui contraordenação, para efeitos do disposto na presente lei:\n\na) O planeamento e prescrição das atividades desportivas aos utentes por parte do técnico de exercício físico sem a coordenação e supervisão do DT;\n\nb) A abertura e funcionamento de instalação desportiva sem um DT com título profissional válido;\n\nc) O exercício da atividade de DT sem título profissional válido;\n\nd) O exercício da atividade de técnico de exercício físico sem título profissional válido ou por quem não opere em território nacional nos termos dos n.os 2 e 3 do artigo 11.º;\n\ne) A contratação de recursos humanos para o desempenho de funções de técnico de exercício físico ou de treinador de desporto sem título profissional válido ou que não exerçam legalmente atividade em território nacional ao abrigo do regime de livre prestação de serviços;\n\nf) O exercício da atividade de formação por entidade formadora não certificada nos termos do artigo 15.º;\n\ng) O exercício da atividade de formação em violação do disposto no n.º 4 do artigo 15.º;\n\nh) A falta ou indisponibilização da identificação do DT, conforme previsto no artigo 16.º;\n\ni) A falta do seguro a que se refere o artigo 17.º;\n\nj) A recomendação ou comercialização das substâncias ou métodos a que se refere o artigo 18.º;\n\nk) A oposição ou obstrução aos atos de inspeção e vistorias a realizar pelas entidades competentes e a recusa em facultar a estas entidades os elementos e esclarecimentos por elas solicitados;\n\nl) A falta de afixação de informação sobre a existência do seguro a que se refere o artigo 17.º;\n\nm) A falta ou indisponibilização do regulamento a que se refere o artigo 19.º\n\nn) A falta ou indisponibilização do manual a que se refere o artigo 21.º"
+  },
+  "155874222": {
+   "fragment_id": "155873840",
+   "type": 11,
+   "heading": "Artigo 24.º — Coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Coimas\n\n1 - Constitui contraordenação muito grave, punível com coima entre (euro) 2000 e (euro) 4000, para pessoas singulares, e entre (euro) 4500 e (euro) 9000, para pessoas coletivas, a prática dos atos previstos nas alíneas a), b), c), d), e), f) e i) do artigo anterior.\n\n2 - Constitui contraordenação grave, punível com coima entre (euro) 1000 e (euro) 2000, para pessoas singulares, e entre (euro) 2000 e (euro) 4500, para pessoas coletivas, a prática dos atos previstos nas alíneas g), j) e k) do artigo anterior.\n\n3 - Constitui contraordenação leve, punível com coima entre (euro) 250 e (euro) 1000, para pessoas singulares, e entre (euro) 1500 e (euro) 2000, para pessoas coletivas, a prática dos atos previstos nas alíneas h), l), m) e n) do artigo anterior.\n\n4 - A tentativa e a negligência são puníveis, sendo os limites mínimo e máximo da coima reduzidos a metade."
+  },
+  "155874223": {
+   "fragment_id": "155873841",
+   "type": 11,
+   "heading": "Artigo 25.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Sanções acessórias\n\n1 - Para além da coima que couber ao tipo de infração cometida nos termos do artigo anterior, podem ser aplicadas as seguintes sanções acessórias:\n\na) Interdição do exercício da atividade de DT;\n\nb) Interdição do exercício da atividade de técnico de exercício físico;\n\nc) Interdição da atividade de entidade formadora, com o encerramento coercivo das respetivas ações de formação em curso;\n\nd) Interdição de realização das atividades desportivas nas instalações desportivas;\n\ne) Encerramento da instalação desportiva.\n\n2 - As sanções acessórias referidas no número anterior têm a duração máxima de dois anos, contados a partir da decisão condenatória.\n\n3 - Pode ser determinada a publicidade da aplicação de qualquer sanção, mediante uma das seguintes vias:\n\na) Afixação da cópia da decisão pelo período de 30 dias, na própria instalação desportiva, em lugar e de forma bem visível;\n\nb) Publicação da decisão pelo IPDJ, I. P., em jornal de difusão nacional, regional ou local, de acordo com o lugar, a importância e os efeitos da infração."
+  },
+  "155874224": {
+   "fragment_id": "155873842",
+   "type": 11,
+   "heading": "Artigo 26.º — Suspensão das atividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Suspensão das atividades\n\nA ASAE é competente para determinar a suspensão imediata do funcionamento da instalação desportiva, na totalidade ou em parte, quando ocorram situações que, pela sua gravidade, possam pôr em risco a segurança ou a integridade física dos utentes, bem como em caso de acidente ou desrespeito pelo disposto na presente lei."
+  },
+  "155874225": {
+   "fragment_id": "155873843",
+   "type": 11,
+   "heading": "Artigo 27.º — Competência sancionatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Competência sancionatória\n\n1 - A instrução dos processos de contraordenação referidos na presente lei compete à ASAE, sem prejuízo das competências atribuídas por lei a outras autoridades administrativas e policiais.\n\n2 - A aplicação das coimas é da competência do inspetor-geral da ASAE."
+  },
+  "155874226": {
+   "fragment_id": "155873844",
+   "type": 11,
+   "heading": "Artigo 28.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Produto das coimas\n\nO produto das coimas, no âmbito dos processos de contraordenação referidos na presente lei, reverte em:\n\na) 60 % para o Estado;\n\nb) 30 % para a ASAE;\n\nc) 10 % para o IPDJ, I. P."
+  },
+  "155874227": {
+   "fragment_id": "155873845",
+   "type": 11,
+   "heading": "Artigo 29.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Direito subsidiário\n\nO processamento das contraordenações e a aplicação das correspondentes sanções previstas na presente lei estão sujeitas ao regime geral das contraordenações."
+  },
+  "155874228": {
+   "fragment_id": "155873846",
+   "type": 1,
+   "heading": "Capítulo V — Disposições complementares, transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições complementares, transitórias e finais"
+  },
+  "155874229": {
+   "fragment_id": "155873847",
+   "type": 11,
+   "heading": "Artigo 30.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Taxas\n\n1 - É devido o pagamento de taxas ao IPDJ, I. P., pelos atos relativos ao processo de emissão dos títulos profissionais de DT e de técnico de exercício físico, pela recepção da declaração referida no n.º 3 do artigo 11.º, pela certificação das entidades formadoras e pela recepção das comunicações referentes a cada ação de formação, no momento da apresentação dos respectivos requerimentos, declarações ou comunicações.\n\n2 - As taxas referidas no número anterior são fixadas por despacho dos membros do Governo responsáveis pelas áreas das finanças e do desporto e constituem receita do IPDJ, I. P."
+  },
+  "155874230": {
+   "fragment_id": "155873848",
+   "type": 11,
+   "heading": "Artigo 31.º — Desmaterialização de procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Desmaterialização de procedimentos\n\n1 - Todas as comunicações e as notificações necessárias à emissão dos títulos profissionais de DT e de técnico de exercício físico, ao controlo de entidades formadoras e suas ações de formação e à declaração referida no n.º 3 do artigo 11.º são realizadas por via electrónica, através do balcão único electrónico dos serviços, a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho.\n\n2 - Quando, por motivos de indisponibilidade das plataformas electrónicas, não for possível o cumprimento do disposto no número anterior, a transmissão da informação em causa pode ser efectuada por qualquer outro meio legal."
+  },
+  "155874231": {
+   "fragment_id": "155873849",
+   "type": 11,
+   "heading": "Artigo 32.º — Regiões autónomas e validade nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Regiões autónomas e validade nacional\n\n1 - A presente lei aplica-se às Regiões Autónomas dos Açores e da Madeira, com as devidas adaptações, nos termos da respectiva autonomia político-administrativa, cabendo a sua execução administrativa aos serviços e organismos das respectivas administrações regionais autónomas com atribuições e competências no âmbito da presente lei, sem prejuízo das atribuições das entidades de âmbito nacional.\n\n2 - Os títulos profissionais de DT e de técnico de exercício físico e a certificação de entidades formadoras têm validade nacional, independentemente de serem realizados pelo IPDJ, I. P., ou pelos serviços e organismos competentes das regiões autónomas."
+  },
+  "155874232": {
+   "fragment_id": "155873850",
+   "type": 11,
+   "heading": "Artigo 33.º — Cooperação administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Cooperação administrativa\n\nPara efeitos da presente lei, as autoridades competentes participam na cooperação administrativa, no âmbito dos procedimentos relativos a prestadores e profissionais provenientes de outros Estados membros da União Europeia ou do Espaço Económico Europeu, nos termos do disposto no capítulo vi do Decreto-Lei n.º 92/2010, de 26 de julho, e do n.º 2 do artigo 51.º da Lei n.º 9/2009, de 4 de março, nomeadamente através do Sistema de Informação do Mercado Interno."
+  },
+  "155874233": {
+   "fragment_id": "155873851",
+   "type": 11,
+   "heading": "Artigo 34.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Disposição transitória\n\n1 - Os DT inscritos no IPDJ, I. P., ao abrigo do Decreto-Lei n.º 271/2009, de 1 de outubro, no momento de entrada em vigor da presente lei consideram-se automaticamente titulares do título profissional de DT, com validade indeterminada, sem necessidade de qualquer formalidade.\n\n2 - Os profissionais responsáveis pela orientação e condução do exercício de atividades desportivas não compreendidos no objeto das federações desportivas dotadas de utilidade pública desportiva que se encontrem habilitados para o exercício das respectivas funções à data da entrada em vigor da presente lei devem solicitar, de forma gratuita e no prazo máximo de um ano, junto do IPDJ, I. P., a sua qualificação como técnico de exercício físico e a consequente emissão de título profissional de técnico de exercício físico, ou nos graus de competência referidos no diploma que regula o regime de acesso e exercício da atividade de treinador de desporto, e a consequente emissão de título profissional de treinador de desporto."
+  },
+  "155874234": {
+   "fragment_id": "155873852",
+   "type": 11,
+   "heading": "Artigo 35.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 271/2009, de 1 de outubro."
+  },
+  "155874235": {
+   "fragment_id": "155873853",
+   "type": 11,
+   "heading": "Artigo 36.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Entrada em vigor\n\nA presente lei entra em vigor 90 dias após a sua publicação."
+  },
+  "861657482": {
+   "fragment_id": "155873834",
+   "type": 11,
+   "heading": "Artigo 19.º — Regulamento interno",
+   "in_force_from": "2017-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2017 - Diário da República n.º 162/2017, Série I de 2017-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2017-108041482), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 19.º — Regulamento interno\n\n1 - As instalações desportivas onde decorram atividades abrangidas pela presente lei devem dispor de um regulamento interno elaborado pelo proprietário, ou entidade que o explore se for diferente daquele, contendo as normas de utilização e de segurança a ser observadas pelos utentes, o qual é assinado pelo DT.\n\n2 - O regulamento a que se refere o número anterior deve estar afixado em local visível na receção e na zona de acesso às áreas de atividade desportiva e instalações de apoio.\n\n3 - Para efeitos de cumprimento do disposto no número anterior, o regulamento a que se refere o n.º 1 pode não ser assinado pelo DT, caso seja emitido através da plataforma eletrónica referida no artigo 9.º do Decreto-Lei n.º 102/2017, de 23 de agosto.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2017 - Diário da República n.º 162/2017, Série I de 2017-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2017-108041482), em vigor a partir de 2017-07-01"
+  },
+  "861657483": {
+   "fragment_id": "155873839",
+   "type": 11,
+   "heading": "Artigo 23.º — Contraordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 23.º — Contraordenações\n\n1 - Constitui contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):\n\na) O planeamento e prescrição das atividades desportivas aos utentes por parte do técnico de exercício físico sem a coordenação e supervisão do DT;\n\nb) A abertura e funcionamento de instalação desportiva sem um DT com título profissional válido;\n\nc) O exercício da atividade de DT sem título profissional válido;\n\nd) O exercício da atividade de técnico de exercício físico sem título profissional válido ou por quem não opere em território nacional nos termos dos n.os 2 e 3 do artigo 11.º;\n\ne) A contratação de recursos humanos para o desempenho de funções de técnico de exercício físico ou de treinador de desporto sem título profissional válido ou que não exerçam legalmente atividade em território nacional ao abrigo do regime de livre prestação de serviços;\n\nf) O exercício da atividade de formação por entidade formadora não certificada nos termos do artigo 15.º;\n\ng) A falta do seguro a que se refere o artigo 17.º;\n\n2 - Constitui contraordenação económica grave, punível nos termos do RJCE:\n\na) O exercício da atividade de formação em violação do disposto no n.º 4 do artigo 15.º;\n\nb) A recomendação ou comercialização das substâncias ou métodos a que se refere o artigo 18.º;\n\nc) A oposição ou obstrução aos atos de inspeção e vistorias a realizar pelas entidades competentes e a recusa em facultar a estas entidades os elementos e esclarecimentos por elas solicitados;\n\n3 - Constitui contraordenação económica leve, punível nos termos do RJCE:\n\na) A falta ou indisponibilização da identificação do DT, conforme previsto no artigo 16.º;\n\nb) A falta de afixação de informação sobre a existência do seguro a que se refere o artigo 17.º;\n\nc) A falta ou indisponibilização do regulamento a que se refere o artigo 19.º\n\nd) A falta ou indisponibilização do manual a que se refere o artigo 21.º\n\n4 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "861657485": {
+   "fragment_id": "155873840",
+   "type": 11,
+   "heading": "Artigo 24.º — Coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 181.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 24.º — Coimas\n\n1 - Constitui contraordenação muito grave, punível com coima entre (euro) 2000 e (euro) 4000, para pessoas singulares, e entre (euro) 4500 e (euro) 9000, para pessoas coletivas, a prática dos atos previstos nas alíneas a), b), c), d), e), f) e i) do artigo anterior.\n\n2 - Constitui contraordenação grave, punível com coima entre (euro) 1000 e (euro) 2000, para pessoas singulares, e entre (euro) 2000 e (euro) 4500, para pessoas coletivas, a prática dos atos previstos nas alíneas g), j) e k) do artigo anterior.\n\n3 - Constitui contraordenação leve, punível com coima entre (euro) 250 e (euro) 1000, para pessoas singulares, e entre (euro) 1500 e (euro) 2000, para pessoas coletivas, a prática dos atos previstos nas alíneas h), l), m) e n) do artigo anterior.\n\n4 - A tentativa e a negligência são puníveis, sendo os limites mínimo e máximo da coima reduzidos a metade.\n\n> Revogado pelo/a Artigo 181.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "861657484": {
+   "fragment_id": "155873845",
+   "type": 11,
+   "heading": "Artigo 29.º — Direito subsidiário",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 29.º — Direito subsidiário\n\nÀs contraordenações económicas previstas na presente lei é subsidiariamente aplicável o RJCE.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "155874236": {
+   "fragment_id": "155873854",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 6 de julho de 2012.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 14 de agosto de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 17 de agosto de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

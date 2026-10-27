@@ -1,0 +1,724 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:629393:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2007-121785068",
+ "dre_path": "/dr/detalhe/lei/65-2007-629393",
+ "source_lastmod": "2026-08-18",
+ "versions": [
+  {
+   "date": "2007-11-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "121873890",
+    "121873891",
+    "121873892",
+    "121873893",
+    "121873894",
+    "121873895",
+    "121873896",
+    "121873897",
+    "121873898",
+    "121873899",
+    "121873900",
+    "121873901",
+    "121873902",
+    "121873903",
+    "121873904",
+    "121873905",
+    "121873906",
+    "121873907",
+    "121873908",
+    "121873909",
+    "121873910",
+    "121873911",
+    "121873912",
+    "121873913",
+    "121873914",
+    "121873915"
+   ]
+  },
+  {
+   "date": "2011-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:146221:por",
+     "title": "Decreto-Lei n.º 114/2011",
+     "published": "2011-11-30",
+     "dre_path": "/dr/detalhe/decreto-lei/114-2011-146221"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "121873890",
+    "121873891",
+    "121873892",
+    "121873893",
+    "121873894",
+    "121873895",
+    "121873955",
+    "121873897",
+    "121873898",
+    "121873899",
+    "121873900",
+    "121873901",
+    "121873902",
+    "121873903",
+    "121873904",
+    "121873905",
+    "121873906",
+    "121873907",
+    "121873908",
+    "121873909",
+    "121873910",
+    "121873911",
+    "121873912",
+    "121873913",
+    "121873914",
+    "121873915",
+    "121873916"
+   ]
+  },
+  {
+   "date": "2019-04-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:121748966:por",
+     "title": "Decreto-Lei n.º 44/2019",
+     "published": "2019-04-01",
+     "dre_path": "/dr/detalhe/decreto-lei/44-2019-121748966"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 14.º-A",
+    "Adita Artigo 15.º-A",
+    "Adita Artigo 16.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 23.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 21.º"
+   ],
+   "fragments": [
+    "121873890",
+    "121876392",
+    "121876393",
+    "121876394",
+    "121876395",
+    "121876396",
+    "121876397",
+    "121876398",
+    "121876399",
+    "121876400",
+    "121876401",
+    "121876402",
+    "121876403",
+    "121876404",
+    "121876411",
+    "121873956",
+    "121876405",
+    "121873969",
+    "121876406",
+    "121876381",
+    "121876382",
+    "121876407",
+    "121876408",
+    "121876409",
+    "121876412",
+    "121876387",
+    "121876410",
+    "121876389",
+    "121876390",
+    "121876391"
+   ]
+  },
+  {
+   "date": "2026-08-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1153917999:por",
+     "title": "Lei n.º 38/2026",
+     "published": "2026-08-03",
+     "dre_path": "/dr/detalhe/lei/38-2026-1153917999"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "121873890",
+    "121876392",
+    "1154304475",
+    "121876394",
+    "121876395",
+    "121876396",
+    "121876397",
+    "121876398",
+    "121876399",
+    "121876400",
+    "121876401",
+    "121876402",
+    "121876403",
+    "121876404",
+    "121876411",
+    "121873956",
+    "121876405",
+    "121873969",
+    "121876406",
+    "121876381",
+    "121876382",
+    "121876407",
+    "121876408",
+    "121876409",
+    "121876412",
+    "121876387",
+    "121876410",
+    "121876389",
+    "121876390",
+    "121876391"
+   ]
+  }
+ ],
+ "fragments": {
+  "121873890": {
+   "fragment_id": "121785069",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 65/2007\n\nde 12 de Novembro\n\nDefine o enquadramento institucional e operacional da protecção civil no âmbito municipal, estabelece a organização dos serviços municipais de protecção civil e determina as competências do comandante operacional municipal.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "121873891": {
+   "fragment_id": "121785070",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\nA presente lei define o enquadramento institucional e operacional da protecção civil no âmbito municipal, estabelece a organização dos serviços municipais de protecção civil (SMPC) e determina as competências do comandante operacional municipal em desenvolvimento da Lei n.º 27/2006, de 3 de Julho."
+  },
+  "121873892": {
+   "fragment_id": "121785071",
+   "type": 11,
+   "heading": "Artigo 2.º — Objectivos e domínios de actuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos e domínios de actuação\n\n1 - São objectivos fundamentais da protecção civil municipal:\n\na) Prevenir no território municipal os riscos colectivos e a ocorrência de acidente grave ou catástrofe deles resultante;\n\nb) Atenuar na área do município os riscos colectivos e limitar os seus efeitos no caso das ocorrências descritas na alínea anterior;\n\nc) Socorrer e assistir no território municipal as pessoas e outros seres vivos em perigo e proteger bens e valores culturais, ambientais e de elevado interesse público;\n\nd) Apoiar a reposição da normalidade da vida das pessoas nas áreas do município afectadas por acidente grave ou catástrofe.\n\n2 - A actividade de protecção civil municipal exerce-se nos seguintes domínios:\n\na) Levantamento, previsão, avaliação e prevenção dos riscos colectivos do município;\n\nb) Análise permanente das vulnerabilidades municipais perante situações de risco;\n\nc) Informação e formação das populações do município, visando a sua sensibilização em matéria de autoprotecção e de colaboração com as autoridades;\n\nd) Planeamento de soluções de emergência, visando a busca, o salvamento, a prestação de socorro e de assistência, bem como a evacuação, alojamento e abastecimento das populações presentes no município;\n\ne) Inventariação dos recursos e meios disponíveis e dos mais facilmente mobilizáveis, ao nível municipal;\n\nf) Estudo e divulgação de formas adequadas de protecção dos edifícios em geral, de monumentos e de outros bens culturais, de infra-estruturas, do património arquivístico, de instalações de serviços essenciais, bem como do ambiente e dos recursos naturais existentes no município;\n\ng) Previsão e planeamento de acções atinentes à eventualidade de isolamento de áreas afectadas por riscos no território municipal."
+  },
+  "121873893": {
+   "fragment_id": "121785072",
+   "type": 11,
+   "heading": "Artigo 3.º — Comissão municipal de protecção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Comissão municipal de protecção civil\n\n1 - Em cada município existe uma comissão municipal de protecção civil (CMPC), organismo que assegura que todas as entidades e instituições de âmbito municipal imprescindíveis às operações de protecção e socorro, emergência e assistência previsíveis ou decorrentes de acidente grave ou catástrofe se articulam entre si, garantindo os meios considerados adequados à gestão da ocorrência em cada caso concreto.\n\n2 - Integram a comissão municipal de protecção civil:\n\na) O presidente da câmara municipal, que preside;\n\nb) O comandante operacional municipal;\n\nc) Um elemento do comando de cada corpo de bombeiros existente no município;\n\nd) Um elemento de cada uma das forças de segurança presentes no município;\n\ne) A autoridade de saúde do município;\n\nf) O dirigente máximo da unidade de saúde local ou o director do centro de saúde e o director do hospital da área de influência do município, designados pelo director-geral da Saúde;\n\ng) Um representante dos serviços de segurança social e solidariedade;\n\nh) Os representantes de outras entidades e serviços implantados no município, cujas actividades e áreas funcionais possam, de acordo com os riscos existentes e as características da região, contribuir para as acções de protecção civil.\n\n3 - São competências das comissões municipais de protecção civil as atribuídas por lei às comissões distritais de protecção civil que se revelem adequadas à realidade e dimensão do município, designadamente as seguintes:\n\na) Accionar a elaboração do plano municipal de emergência, remetê-lo para aprovação pela Comissão Nacional de Protecção Civil e acompanhar a sua execução;\n\nb) Acompanhar as políticas directamente ligadas ao sistema de protecção civil que sejam desenvolvidas por agentes públicos;\n\nc) Determinar o accionamento dos planos, quando tal se justifique;\n\nd) Garantir que as entidades e instituições que integram a CMPC accionam, ao nível municipal, no âmbito da sua estrutura orgânica e das suas atribuições, os meios necessários ao desenvolvimento das acções de protecção civil;\n\ne) Difundir comunicados e avisos às populações e às entidades e instituições, incluindo os órgãos de comunicação social."
+  },
+  "121873894": {
+   "fragment_id": "121785073",
+   "type": 11,
+   "heading": "Artigo 4.º — Subcomissões permanentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Subcomissões permanentes\n\nNos municípios onde tal se justifique, face à frequência ou magnitude previsível da manifestação de determinado risco, a comissão municipal de protecção civil pode determinar a constituição de subcomissões permanentes, que tenham como objecto o acompanhamento contínuo dessa situação e as acções de protecção civil subsequentes, designadamente nas áreas da segurança contra inundações, incêndios de diferentes naturezas, acidentes biológicos ou químicos."
+  },
+  "121873895": {
+   "fragment_id": "121785074",
+   "type": 11,
+   "heading": "Artigo 5.º — Câmara municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Câmara municipal\n\n1 - Compete à câmara municipal, através dos SMPC, a elaboração do plano municipal de emergência para posterior aprovação pela Comissão Nacional de Protecção Civil.\n\n2 - A câmara municipal é ouvida sobre o estabelecimento de medidas de utilização do solo tomadas após a declaração da situação de calamidade, designadamente quanto às medidas de protecção especial e às medidas preventivas adoptadas para regulação provisória do uso do solo em partes delimitadas da área abrangida pela declaração, nomeadamente em virtude da suspensão de planos municipais de ordenamento do território ou de planos especiais de ordenamento do território."
+  },
+  "121873896": {
+   "fragment_id": "121875175",
+   "type": 11,
+   "heading": "Artigo 6.º — Presidente da câmara municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Presidente da câmara municipal\n\n1 - O presidente da câmara municipal é a autoridade municipal de protecção civil.\n\n2 - O presidente da câmara municipal é competente para declarar a situação de alerta de âmbito municipal e é ouvido pelo governador civil para efeito da declaração da situação de alerta de âmbito distrital, quando estiver em causa a área do respectivo município."
+  },
+  "121873897": {
+   "fragment_id": "121875176",
+   "type": 11,
+   "heading": "Artigo 7.º — Juntas de freguesia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Juntas de freguesia\n\nAs juntas de freguesia têm o dever de colaborar com os serviços municipais de protecção civil, prestando toda a ajuda que lhes for solicitada, no âmbito das suas atribuições e competências, próprias ou delegadas."
+  },
+  "121873898": {
+   "fragment_id": "121875177",
+   "type": 11,
+   "heading": "Artigo 8.º — Unidades locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Unidades locais\n\nEm função da localização específica de determinados riscos, a comissão municipal de protecção civil pode determinar a existência de unidades locais de protecção civil de âmbito de freguesia, a respectiva constituição e tarefas."
+  },
+  "121873899": {
+   "fragment_id": "121875178",
+   "type": 11,
+   "heading": "Artigo 9.º — Serviços municipais de protecção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Serviços municipais de protecção civil\n\n1 - Os municípios são dotados de um serviço municipal de protecção civil, responsável pela prossecução das actividades de protecção civil no âmbito municipal.\n\n2 - Os SMPC são os adequados ao exercício da função de protecção e socorro, variáveis de acordo com as características da população e dos riscos existentes no município e que, quando a dimensão e características do município o justificarem, podem incluir os gabinetes técnicos que forem julgados adequados.\n\n3 - O SMPC é dirigido pelo presidente da câmara municipal, com a faculdade de delegação no vereador por si designado."
+  },
+  "121873900": {
+   "fragment_id": "121875179",
+   "type": 11,
+   "heading": "Artigo 10.º — Competências dos serviços municipais de protecção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competências dos serviços municipais de protecção civil\n\n1 - Compete ao SMPC assegurar o funcionamento de todos os organismos municipais de protecção civil, bem como centralizar, tratar e divulgar toda a informação recebida relativa à protecção civil municipal.\n\n2 - No âmbito dos seus poderes de planeamento e operações, dispõe o SMPC das seguintes competências:\n\na) Acompanhar a elaboração e actualizar o plano municipal de emergência e os planos especiais, quando estes existam;\n\nb) Assegurar a funcionalidade e a eficácia da estrutura do SMPC;\n\nc) Inventariar e actualizar permanentemente os registos dos meios e dos recursos existentes no concelho, com interesse para o SMPC;\n\nd) Realizar estudos técnicos com vista à identificação, análise e consequências dos riscos naturais, tecnológicos e sociais que possam afectar o município, em função da magnitude estimada e do local previsível da sua ocorrência, promovendo a sua cartografia, de modo a prevenir, quando possível, a sua manifestação e a avaliar e minimizar os efeitos das suas consequências previsíveis;\n\ne) Manter informação actualizada sobre acidentes graves e catástrofes ocorridas no município, bem como sobre elementos relativos às condições de ocorrência, às medidas adoptadas para fazer face às respectivas consequências e às conclusões sobre o êxito ou insucesso das acções empreendidas em cada caso;\n\nf) Planear o apoio logístico a prestar às vítimas e às forças de socorro em situação de emergência;\n\ng) Levantar, organizar e gerir os centros de alojamento a accionar em situação de emergência;\n\nh) Elaborar planos prévios de intervenção e preparar e propor a execução de exercícios e simulacros que contribuam para uma actuação eficaz de todas as entidades intervenientes nas acções de protecção civil;\n\ni) Estudar as questões de que vier a ser incumbido, propondo as soluções que considere mais adequadas.\n\n3 - Nos domínios da prevenção e segurança, o SMPC é competente para:\n\na) Propor medidas de segurança face aos riscos inventariados;\n\nb) Colaborar na elaboração e execução de treinos e simulacros;\n\nc) Elaborar projectos de regulamentação de prevenção e segurança;\n\nd) Realizar acções de sensibilização para questões de segurança, preparando e organizando as populações face aos riscos e cenários previsíveis;\n\ne) Promover campanhas de informação sobre medidas preventivas, dirigidas a segmentos específicos da população alvo, ou sobre riscos específicos em cenários prováveis previamente definidos;\n\nf) Fomentar o voluntariado em protecção civil;\n\ng) Estudar as questões de que vier a ser incumbido, propondo as soluções que entenda mais adequadas.\n\n4 - No que se refere à matéria da informação pública, o SMPC dispõe dos seguintes poderes:\n\na) Assegurar a pesquisa, análise, selecção e difusão da documentação com importância para a protecção civil;\n\nb) Divulgar a missão e estrutura do SMPC;\n\nc) Recolher a informação pública emanada das comissões e gabinetes que integram o SMPC destinada à divulgação pública relativa a medidas preventivas ou situações de catástrofe;\n\nd) Promover e incentivar acções de divulgação sobre protecção civil junto dos munícipes com vista à adopção de medidas de autoprotecção;\n\ne) Indicar, na iminência de acidentes graves ou catástrofes, as orientações, medidas preventivas e procedimentos a ter pela população para fazer face à situação;\n\nf) Dar seguimento a outros procedimentos, por determinação do presidente da câmara municipal ou vereador com competências delegadas.\n\n5 - No âmbito florestal, as competências do SMPC podem ser exercidas pelo gabinete técnico florestal."
+  },
+  "121873901": {
+   "fragment_id": "121875180",
+   "type": 11,
+   "heading": "Artigo 11.º — Coordenação e colaboração institucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Coordenação e colaboração institucional\n\n1 - Os diversos organismos que integram o serviço municipal de protecção civil devem estabelecer entre si relações de colaboração institucional, no sentido de aumentar a eficácia e efectividade das medidas tomadas.\n\n2 - Tal articulação e colaboração não deve pôr em causa a responsabilidade última do presidente da câmara municipal, devendo ser articuladas com as competências que, nesta matéria, cabem à comissão municipal de protecção civil.\n\n3 - A coordenação institucional é assegurada, a nível municipal, pela CMPC, que integra representantes das entidades, cuja intervenção se justifica em função de cada ocorrência em concreto.\n\n4 - No âmbito da coordenação institucional, a CMPC é responsável pela gestão da participação operacional de cada força ou serviço nas operações de socorro a desencadear."
+  },
+  "121873902": {
+   "fragment_id": "121875181",
+   "type": 11,
+   "heading": "Artigo 12.º — Participação das Forças Armadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Participação das Forças Armadas\n\n1 - O presidente da câmara municipal é competente para solicitar ao presidente da autoridade nacional de protecção civil a participação das Forças Armadas em funções de protecção civil na área operacional do seu município.\n\n2 - O presidente da câmara pode solicitar a colaboração das Forças Armadas directamente ao comandante da unidade implantada no seu município, nos casos de urgência manifesta previstos no n.º 4 do artigo 53.º da Lei n.º 27/2006, de 3 de Julho."
+  },
+  "121873903": {
+   "fragment_id": "121875182",
+   "type": 11,
+   "heading": "Artigo 13.º — Comandante operacional municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Comandante operacional municipal\n\n1 - Em cada município há um comandante operacional municipal (COM).\n\n2 - O COM depende hierárquica e funcionalmente do presidente da câmara municipal, a quem compete a sua nomeação.\n\n3 - O COM actua exclusivamente no âmbito territorial do respectivo município.\n\n4 - O COM é nomeado de entre o universo de recrutamento que a lei define para os comandantes operacionais distritais.\n\n5 - Nos municípios com corpos de bombeiros profissionais ou mistos criados pelas respectivas câmaras municipais, o comandante desse corpo é, por inerência, o COM."
+  },
+  "121873904": {
+   "fragment_id": "121875183",
+   "type": 11,
+   "heading": "Artigo 14.º — Competências do comandante operacional municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competências do comandante operacional municipal\n\nSem prejuízo do disposto na Lei de Bases da Protecção Civil, compete em especial ao COM:\n\na) Acompanhar permanentemente as operações de protecção e socorro que ocorram na área do concelho;\n\nb) Promover a elaboração dos planos prévios de intervenção com vista à articulação de meios face a cenários previsíveis;\n\nc) Promover reuniões periódicas de trabalho sobre matérias de âmbito exclusivamente operacional, com os comandantes dos corpos de bombeiros;\n\nd) Dar parecer sobre o material mais adequado à intervenção operacional no respectivo município;\n\ne) Comparecer no local do sinistro sempre que as circunstâncias o aconselhem;\n\nf) Assumir a coordenação das operações de socorro de âmbito municipal, nas situações previstas no plano de emergência municipal, bem como quando a dimensão do sinistro requeira o emprego de meios de mais de um corpo de bombeiros."
+  },
+  "121873905": {
+   "fragment_id": "121875184",
+   "type": 11,
+   "heading": "Artigo 15.º — Articulação operacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Articulação operacional\n\n1 - Sem prejuízo da dependência hierárquica e funcional do presidente da câmara, o COM mantém permanente ligação de articulação operacional com o comandante operacional distrital.\n\n2 - Excepcionalmente, quando justificado pela amplitude e urgência de socorro, o comandante operacional nacional pode articular-se operacionalmente com o COM, sem prejuízo do disposto no número anterior.\n\n3 - Nos municípios de Lisboa e Porto, a articulação a que se refere o número anterior é permanente."
+  },
+  "121873906": {
+   "fragment_id": "121875185",
+   "type": 11,
+   "heading": "Artigo 16.º — Operações de protecção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Operações de protecção civil\n\nEm situação de acidente grave ou catástrofe, e no caso de perigo de ocorrência destes fenómenos, são desencadeadas operações municipais de protecção civil, de harmonia com o plano municipal de emergência, previamente elaborado, com vista a possibilitar a unidade de direcção das acções a desenvolver, a coordenação técnica e operacional dos meios a empenhar e a adequação das medidas de carácter excepcional a adoptar."
+  },
+  "121873907": {
+   "fragment_id": "121875186",
+   "type": 11,
+   "heading": "Artigo 17.º — Dever de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Dever de informação\n\nTodos os serviços e organismos que obtenham informações, directamente ou por comunicação de terceiros, sobre elementos considerados fundamentais para efeito de tomada de medidas de protecção civil, devem transmitir tais informações, no mais curto intervalo de tempo possível, à comissão municipal de protecção civil do município a que elas se reportem."
+  },
+  "121873908": {
+   "fragment_id": "121875187",
+   "type": 11,
+   "heading": "Artigo 18.º — Plano municipal de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Plano municipal de emergência\n\n1 - O plano municipal de emergência é elaborado com as directivas emanadas da Comissão Nacional de Protecção Civil, nomeadamente:\n\na) A tipificação dos riscos;\n\nb) As medidas de prevenção a adoptar;\n\nc) A identificação dos meios e recursos mobilizáveis, em situação de acidente grave ou catástrofe;\n\nd) A definição das responsabilidades que incubem aos organismos, serviços e estruturas, públicas ou privadas, com competências no domínio da protecção civil municipal;\n\ne) Os critérios de mobilização e mecanismos de coordenação dos meios e recursos, públicos ou privados utilizáveis;\n\nf) A estrutura operacional que há-de garantir a unidade de direcção e o controlo permanente da situação.\n\n2 - Os planos de emergência estão sujeitos a uma actualização periódica e devem ser objecto de exercícios frequentes com vista a testar a sua operacionalidade.\n\n3 - Os agentes de protecção civil colaboram na elaboração e na execução dos planos de emergência.\n\n4 - O plano municipal de emergência inclui obrigatoriamente uma carta de risco e um plano prévio de intervenção de cada tipo de risco existente no município, decorrendo a escala da carta de risco e o detalhe do plano prévio de intervenção da natureza do fenómeno e devendo ser adequados às suas frequência e magnitude, bem como à gravidade e extensão dos seus efeitos previsíveis.\n\n5 - Para além de um plano municipal de emergência geral, podem ser elaborados planos especiais, sobre riscos especiais, destinados a servir finalidades específicas, tais como o plano municipal de defesa da floresta contra incêndios e planos de emergência dos estabelecimentos de ensino.\n\n6 - No caso das áreas de risco homogéneas prolongadas pelo território de mais de um município contíguos, podem ser elaborados planos especiais supramunicipais.\n\n7 - Nos municípios em que tal se justifique, podem ser elaborados planos especiais sobre riscos específicos, designadamente relativos a inundações, incêndios de diferente natureza, acidentes biológicos ou químicos, movimentações em massa ou a sismos."
+  },
+  "121873909": {
+   "fragment_id": "121875188",
+   "type": 11,
+   "heading": "Artigo 19.º — Actualização dos planos municipais de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Actualização dos planos municipais de emergência\n\nOs planos municipais de emergência em vigor devem ser actualizados em conformidade com a nova legislação de protecção civil, bem como com a presente lei, no prazo de 180 dias contados a partir da aprovação das orientações técnicas pela Comissão Nacional de Protecção Civil."
+  },
+  "121873910": {
+   "fragment_id": "121875189",
+   "type": 11,
+   "heading": "Artigo 20.º — Defesa da floresta contra incêndios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Defesa da floresta contra incêndios\n\n1 - Em cada município existe uma comissão municipal de defesa da floresta contra incêndios, que pode ser apoiada pelo gabinete técnico florestal, sendo a sua criação, composição e competências reguladas pelo disposto em diploma próprio.\n\n2 - As câmaras municipais, no domínio do Sistema Nacional de Defesa da Floresta contra Incêndios (SNDFCI) exercem as competências previstas no Decreto-Lei n.º 124/2006, de 28 de Junho."
+  },
+  "121873911": {
+   "fragment_id": "121875190",
+   "type": 11,
+   "heading": "Artigo 21.º — Carreira de protecção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Carreira de protecção civil\n\nA carreira de protecção civil é criada por diploma próprio."
+  },
+  "121873912": {
+   "fragment_id": "121875191",
+   "type": 11,
+   "heading": "Artigo 22.º — Dever de disponibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Dever de disponibilidade\n\nO serviço prestado no SMPC é de total disponibilidade, pelo que o pessoal que nele exerce funções não pode, salvo motivo excepcional devidamente justificado, deixar de comparecer ou permanecer no serviço em caso de iminência ou ocorrência de acidente grave ou catástrofe, sob pena de incorrer em responsabilidade disciplinar."
+  },
+  "121873913": {
+   "fragment_id": "121875192",
+   "type": 11,
+   "heading": "Artigo 23.º — Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Formação\n\n1 - A formação dos funcionários dos SMPC é efectuada a nível municipal ou nacional, devendo as regras de funcionamento e os conteúdos curriculares constar de regulamento da autoridade nacional de protecção civil, homologado pelo Ministro da Administração Interna, ouvido o Conselho Nacional de Bombeiros.\n\n2 - São entidades autorizadas a ministrar a formação a que se refere o presente artigo, o Centro de Estudos e Formação Autárquica, a Escola Nacional de Bombeiros e a Escola de Formação do Regimento de Sapadores Bombeiros de Lisboa, e ainda as demais entidades que venham a ser reconhecidas por despacho dos ministros responsáveis pelas áreas da administração interna e da administração local."
+  },
+  "121873914": {
+   "fragment_id": "121875193",
+   "type": 11,
+   "heading": "Artigo 24.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Norma revogatória\n\nÉ revogada a Portaria n.º 449/2001, de 5 de Maio."
+  },
+  "121873915": {
+   "fragment_id": "121875194",
+   "type": 11,
+   "heading": "Artigo 25.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Produção de efeitos\n\nOs municípios adaptam os seus serviços ao regime previsto na presente lei no prazo de 180 dias."
+  },
+  "121873955": {
+   "fragment_id": "121875175",
+   "type": 11,
+   "heading": "Artigo 6.º — Presidente da câmara municipal",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 6.º — Presidente da câmara municipal\n\n1 - O presidente da câmara municipal é a autoridade municipal de protecção civil.\n\n2 - O presidente da câmara municipal é competente para declarar a situação de alerta de âmbito municipal e é ouvido pelo comandante operacional distrital de Operações de Socorro, para efeito da declaração da situação de alerta de âmbito distrital, quando estiver em causa a área do respectivo município.\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "121873916": {
+   "fragment_id": "121875195",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 20 de Setembro de 2007.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 29 de Outubro de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 30 de Outubro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "121876392": {
+   "fragment_id": "121785070",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\nA presente lei define o enquadramento institucional e operacional da proteção civil no âmbito das autarquias locais, estabelece a organização dos serviços municipais de proteção civil (SMPC) e define as competências do coordenador municipal de proteção civil, em desenvolvimento da Lei de Bases da Proteção Civil.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+  },
+  "121876393": {
+   "fragment_id": "121785071",
+   "type": 11,
+   "heading": "Artigo 2.º — Objectivos e domínios de actuação",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 2.º — Objectivos e domínios de actuação\n\n1 - São objectivos fundamentais da protecção civil municipal:\n\na) Prevenir no território municipal os riscos colectivos e a ocorrência de acidente grave ou catástrofe deles resultante;\n\nb) Atenuar na área do município os riscos colectivos e limitar os seus efeitos no caso das ocorrências descritas na alínea anterior;\n\nc) Socorrer e assistir no território municipal as pessoas e outros seres vivos em perigo e proteger bens e valores culturais, ambientais e de elevado interesse público;\n\nd) Apoiar a reposição da normalidade da vida das pessoas nas áreas do município afectadas por acidente grave ou catástrofe.\n\n2 - A actividade de protecção civil municipal exerce-se nos seguintes domínios:\n\na) Levantamento, previsão, avaliação e prevenção dos riscos colectivos do município;\n\nb) Análise permanente das vulnerabilidades municipais perante situações de risco;\n\nc) Informação e formação das populações do município, visando a sua sensibilização em matéria de autoprotecção e de colaboração com as autoridades;\n\nd) Planeamento de soluções de emergência, visando a busca, o salvamento a prestação de socorro e de assistência, bem como a evacuação, alojamento e abastecimento das populações presentes no município, incluindo a realização de simulacros;\n\ne) Inventariação dos recursos e meios disponíveis e dos mais facilmente mobilizáveis, ao nível municipal;\n\nf) Estudo e divulgação de formas adequadas de protecção dos edifícios em geral, de monumentos e de outros bens culturais, de infra-estruturas, do património arquivístico, de instalações de serviços essenciais, bem como do ambiente e dos recursos naturais existentes no município;\n\ng) Previsão e planeamento de acções atinentes à eventualidade de isolamento de áreas afectadas por riscos no território municipal.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+  },
+  "121876394": {
+   "fragment_id": "121785072",
+   "type": 11,
+   "heading": "Artigo 3.º — Comissão municipal de protecção civil",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 3.º — Comissão municipal de protecção civil\n\n1 - Em cada município existe uma comissão municipal de proteção civil (CMPC), organismo que assegura a nível municipal a coordenação em matéria de proteção civil, cuja composição é definida na Lei de Bases da Proteção Civil.\n\n2 - [Revogado.]\n\n3 - São competências da CMPC:\n\na) Diligenciar pela elaboração de planos municipais de emergência de proteção civil;\n\nb) Acompanhar as políticas directamente ligadas ao sistema de protecção civil que sejam desenvolvidas por agentes públicos;\n\nc) Dar parecer sobre o acionamento dos planos municipais de emergência de proteção civil, nos termos do n.º 3 do artigo 6.º;\n\nd) Promover e apoiar a realização de exercícios a nível municipal, simulacros ou treinos operacionais, que contribuam para a eficácia de todos os serviços intervenientes em ações de proteção civil;\n\ne) Promover e difundir a emissão de comunicados e avisos às populações e às entidades e instituições, incluindo os órgãos de comunicação social.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+  },
+  "121876395": {
+   "fragment_id": "121785073",
+   "type": 11,
+   "heading": "Artigo 4.º — Subcomissões",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 4.º — Subcomissões\n\nNos municípios onde tal se justifique, face à frequência ou magnitude previsível da manifestação de determinado risco, a CMPC pode determinar a constituição de subcomissões, que tenham como objeto o respetivo acompanhamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+  },
+  "121876396": {
+   "fragment_id": "121785074",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência para aprovação dos planos municipais de proteção civil",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 5.º — Competência para aprovação dos planos municipais de proteção civil\n\n1 - Compete à câmara municipal, através do SMPC, elaborar o plano municipal de emergência de proteção civil, os planos municipais especiais de emergência de proteção civil e acompanhar a sua execução.\n\n2 - Compete à assembleia municipal aprovar os planos de emergência de proteção civil referidos no número anterior, após parecer da CMPC e da Autoridade Nacional de Emergência e Proteção Civil (ANEPC).\n\n3 - A câmara municipal é ouvida sobre o estabelecimento de medidas preventivas necessárias à regulação provisória do uso do solo, nos termos da Lei de Bases da Proteção Civil.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+  },
+  "121876397": {
+   "fragment_id": "121875175",
+   "type": 11,
+   "heading": "Artigo 6.º — Competências do presidente da câmara municipal",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02",
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 6.º — Competências do presidente da câmara municipal\n\n1 - O presidente da câmara municipal é a autoridade municipal de protecção civil.\n\n2 - Para efeitos da declaração da situação de alerta, o presidente da câmara municipal detém as competências previstas na Lei de Bases da Proteção Civil.\n\n3 - Compete ao presidente da câmara municipal ativar e desativar o plano municipal de emergência de proteção civil e os planos municipais especiais de emergência de proteção civil, ouvida, sempre que possível, a CMPC.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "121876398": {
+   "fragment_id": "121875176",
+   "type": 11,
+   "heading": "Artigo 7.º — Dever de colaboração das juntas de freguesia",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 7.º — Dever de colaboração das juntas de freguesia\n\nAs juntas de freguesia têm o dever de colaborar com o SMPC, no âmbito das suas atribuições e competências, próprias ou delegadas, designadamente através da promoção de ações em matéria de:\n\na) Prevenção e avaliação de riscos e vulnerabilidades;\n\nb) Sensibilização e informação pública;\n\nc) Apoio à gestão de ocorrências, conforme previsto no respetivo plano municipal de emergência de proteção civil e nos planos municipais especiais de emergência de proteção civil.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+  },
+  "121876399": {
+   "fragment_id": "121875177",
+   "type": 11,
+   "heading": "Artigo 8.º — Unidades locais",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 8.º — Unidades locais\n\n1 - Em função dos riscos existentes na respetiva área geográfica, as juntas de freguesia podem deliberar a existência de unidades locais de proteção civil (ULPC), fixando a respetiva constituição e tarefas, mediante parecer vinculativo das CMPC respetivas.\n\n2 - A ULPC é presidida pelo presidente da junta de freguesia.\n\n3 - Sem prejuízo de outras tarefas fixadas nos termos do n.º 1, compete à ULPC apoiar a junta de freguesia na concretização das ações fixadas no artigo 7.º\n\n4 - As freguesias limítrofes podem agrupar-se para a constituição de ULPC, sendo designado presidente um dos presidentes das juntas de freguesia que a constituem.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+  },
+  "121876400": {
+   "fragment_id": "121875178",
+   "type": 11,
+   "heading": "Artigo 9.º — Serviços municipais de protecção civil",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 9.º — Serviços municipais de protecção civil\n\n1 - Os municípios são dotados de um serviço municipal de protecção civil, responsável pela prossecução das actividades de protecção civil no âmbito municipal.\n\n2 - O SMPC tem estrutura variável de acordo com as características da população e os riscos existentes no município, devendo, no mínimo, abranger as seguintes áreas funcionais:\n\na) Prevenção e avaliação de riscos e vulnerabilidades;\n\nb) Planeamento e apoio às operações;\n\nc) Logística e comunicações;\n\nd) Sensibilização e informação pública.\n\n3 - O SMPC depende hierarquicamente do presidente da câmara municipal, com a faculdade de delegação no vereador por si designado, e é dirigido pelo coordenador municipal de proteção civil.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+  },
+  "121876401": {
+   "fragment_id": "121875179",
+   "type": 11,
+   "heading": "Artigo 10.º — Competências dos serviços municipais de protecção civil",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 10.º — Competências dos serviços municipais de protecção civil\n\n1 - Compete ao SMPC executar as atividades de proteção civil de âmbito municipal, bem como centralizar, tratar e divulgar toda a informação recebida nesta matéria.\n\n2 - Nos domínios da prevenção e avaliação de riscos e vulnerabilidades, compete ao SMPC:\n\na) Realizar estudos técnicos com vista à identificação e avaliação dos riscos que possam afetar o município, em função da magnitude estimada e do local previsível da sua ocorrência, promovendo a sua cartografia, de modo a prevenir, a avaliar e minimizar os efeitos das suas consequências previsíveis;\n\nb) Propor medidas de segurança face aos riscos inventariados;\n\nc) Operacionalizar e acionar sistemas de alerta e aviso de âmbito municipal;\n\nd) Assegurar a pesquisa, análise, seleção e difusão da documentação com importância para a proteção civil.\n\ne) [Revogada.]\n\nf) [Revogada.]\n\ng) [Revogada.]\n\nh) [Revogada.]\n\ni) [Revogada.]\n\n3 - Nos domínios do planeamento e apoio às operações, compete ao SMPC:\n\na) Elaborar planos prévios de intervenção de âmbito municipal;\n\nb) Preparar e executar exercícios e simulacros que contribuam para uma atuação eficaz de todas as entidades intervenientes nas ações de proteção civil;\n\nc) Manter informação atualizada sobre acidentes graves e catástrofes ocorridas no município, bem como sobre elementos relativos às condições de ocorrência e à respetiva resposta;\n\nd) Realizar acções de sensibilização para questões de segurança, preparando e organizando as populações face aos riscos e cenários previsíveis;\n\ne) [Revogada.]\n\nf) Fomentar o voluntariado em protecção civil;\n\ng)  [Revogada.]\n\n4 - Nos domínios da logística e comunicações, compete ao SMPC:\n\na) Inventariar e atualizar permanentemente os registos dos meios e dos recursos existentes no concelho, com interesse para as operações de proteção e socorro;\n\nb) Planear o apoio logístico a prestar às vítimas e às forças de socorro e apoiar logisticamente a sustentação das operações de proteção e socorro;\n\nc) Levantar, organizar e gerir os centros de alojamento a acionar em caso de acidente grave ou catástrofe;\n\nd) Planear e gerir os equipamentos de telecomunicações e outros recursos tecnológicos do SMPC;\n\ne) Manter operativa, em permanência, a ligação rádio à rede estratégica de proteção civil (REPC);\n\nf) Assegurar o funcionamento da sala municipal de operações e gestão de emergências nos termos do artigo 16.º-A.\n\n5 - Nos domínios da sensibilização e informação pública, compete ao SMPC:\n\na) Realizar ações de sensibilização e divulgação sobre a atividade de proteção civil;\n\nb) Promover campanhas de informação junto dos munícipes sobre medidas preventivas e condutas de autoproteção face aos riscos existentes e cenários previsíveis;\n\nc) Difundir, na iminência ou ocorrência de acidentes graves ou catástrofes, as orientações e procedimentos a ter pela população para fazer face à situação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+  },
+  "121876402": {
+   "fragment_id": "121875180",
+   "type": 11,
+   "heading": "Artigo 11.º — Coordenação e colaboração institucional",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 11.º — Coordenação e colaboração institucional\n\n1 - Os diversos agentes de proteção civil com responsabilidade de atuação na área do município e entidades com especial dever de colaboração devem estabelecer entre si relações de coordenação institucional, no sentido de aumentar a eficácia e efetividade das medidas tomadas.\n\n2 - Tal colaboração não deve pôr em causa a responsabilidade última do presidente da câmara municipal, devendo ser articulada com as competências que, nesta matéria, cabem ao centro de coordenação operacional municipal (CCOM).\n\n3 - [Revogado.]\n\n4 - [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+  },
+  "121876403": {
+   "fragment_id": "121875181",
+   "type": 11,
+   "heading": "Artigo 12.º — Participação das Forças Armadas",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 12.º — Participação das Forças Armadas\n\n1 - O presidente da câmara municipal é competente para solicitar ao presidente da ANEPC a participação das Forças Armadas em funções de proteção civil na área operacional do seu município.\n\n2 - O presidente da câmara pode solicitar a colaboração das Forças Armadas diretamente ao comandante da unidade implantada no seu município, nos casos previstos no artigo 53.º da Lei de Bases da Proteção Civil.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+  },
+  "121876404": {
+   "fragment_id": "121875182",
+   "type": 11,
+   "heading": "Artigo 13.º — Centro de coordenação operacional municipal",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 13.º — Centro de coordenação operacional municipal\n\n1 - Em cada município há um CCOM.\n\n2 - A composição, atribuições e funcionamento dos CCOM são definidos no Decreto-Lei n.º 134/2006, de 25 de julho, na sua redação atual, que cria o Sistema Integrado de Operações de Proteção e Socorro (SIOPS).\n\n3 - [Revogado.]\n\n4 - [Revogado.]\n\n5 - [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+  },
+  "121876411": {
+   "fragment_id": "121875183",
+   "type": 11,
+   "heading": "Artigo 14.º — Competências do comandante operacional municipal",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 14.º — Competências do comandante operacional municipal\n\nSem prejuízo do disposto na Lei de Bases da Protecção Civil, compete em especial ao COM:\n\na) Acompanhar permanentemente as operações de protecção e socorro que ocorram na área do concelho;\n\nb) Promover a elaboração dos planos prévios de intervenção com vista à articulação de meios face a cenários previsíveis;\n\nc) Promover reuniões periódicas de trabalho sobre matérias de âmbito exclusivamente operacional, com os comandantes dos corpos de bombeiros;\n\nd) Dar parecer sobre o material mais adequado à intervenção operacional no respectivo município;\n\ne) Comparecer no local do sinistro sempre que as circunstâncias o aconselhem;\n\nf) Assumir a coordenação das operações de socorro de âmbito municipal, nas situações previstas no plano de emergência municipal, bem como quando a dimensão do sinistro requeira o emprego de meios de mais de um corpo de bombeiros.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+  },
+  "121873956": {
+   "fragment_id": "121875235",
+   "type": 11,
+   "heading": "Artigo 14.º-A — Coordenador municipal de proteção civil",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 14.º-A — Coordenador municipal de proteção civil\n\n1 - Em cada município há um coordenador municipal de proteção civil.\n\n2 - O coordenador municipal de proteção civil atua exclusivamente no âmbito territorial do respetivo município.\n\n3 - O coordenador municipal de proteção civil depende hierárquica e funcionalmente do presidente da câmara municipal, a quem compete a sua designação, em comissão de serviço, pelo período de três anos.\n\n4 - A designação do coordenador municipal de proteção civil ocorre de entre indivíduos, com ou sem relação jurídica de emprego público, que possuam licenciatura e experiência funcional adequadas ao exercício daquelas funções.\n\n5 - Compete à câmara municipal deliberar, sob proposta do presidente da câmara municipal, sobre o estatuto remuneratório do coordenador municipal de proteção civil, podendo equipará-lo, apenas para tal efeito, à remuneração de um dos cargos dirigentes da respetiva câmara municipal.\n\n6 - O coordenador municipal de proteção civil pode auferir despesas de representação, nos termos da lei.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+  },
+  "121876405": {
+   "fragment_id": "121875184",
+   "type": 11,
+   "heading": "Artigo 15.º — Articulação operacional",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 15.º — Articulação operacional\n\n1 - Sem prejuízo da dependência hierárquica e funcional do presidente da câmara, o CCOM mantém permanente ligação de articulação operacional com o comandante operacional previsto no SIOPS.\n\n2 - Excecionalmente, quando justificado pela amplitude e urgência de socorro, o comandante operacional nacional pode articular-se operacionalmente com o CCOM, sem prejuízo do disposto no número anterior.\n\n3 - Nos municípios de Lisboa e Porto, a articulação a que se refere o número anterior é permanente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+  },
+  "121873969": {
+   "fragment_id": "121875236",
+   "type": 11,
+   "heading": "Artigo 15.º-A — Competências do coordenador municipal de proteção civil",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 15.º-A — Competências do coordenador municipal de proteção civil\n\n1 - Compete ao coordenador municipal de proteção civil:\n\na) Dirigir o SMPC;\n\nb) Acompanhar permanentemente e apoiar as operações de proteção e socorro que ocorram na área do concelho;\n\nc) Promover a elaboração dos planos prévios de intervenção com vista à articulação de meios face a cenários previsíveis;\n\nd) Promover reuniões periódicas de trabalho sobre matérias de proteção e socorro;\n\ne) Dar parecer sobre os materiais e equipamentos mais adequados à intervenção operacional no respetivo município;\n\nf) Comparecer no local das ocorrências sempre que as circunstâncias o aconselhem;\n\ng) Convocar e coordenar o CCOM, nos termos previstos no SIOPS.\n\n2 - Sem prejuízo da dependência hierárquica e funcional do presidente da câmara, o coordenador municipal de proteção civil mantém uma permanente articulação com o comandante operacional previsto no SIOPS.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+  },
+  "121876406": {
+   "fragment_id": "121875185",
+   "type": 11,
+   "heading": "Artigo 16.º — Operações de proteção e socorro",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 16.º — Operações de proteção e socorro\n\nNa iminência ou ocorrência de acidente grave ou catástrofe, são desencadeadas operações municipais de proteção e socorro, em harmonia com os planos municipais de emergência de proteção civil vigentes e com o sistema de gestão de operações, com vista a possibilitar a unidade de direção das ações a desenvolver, a coordenação técnica e operacional dos meios a empenhar e a adequação das medidas de carácter excecional a adotar.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+  },
+  "121876381": {
+   "fragment_id": "121875237",
+   "type": 11,
+   "heading": "Artigo 16.º-A — Central municipal de operações de socorro",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 16.º-A — Central municipal de operações de socorro\n\n1 - Pode ser criada ao nível municipal, pela câmara municipal, uma central municipal de operações de socorro (CMOS), no âmbito do SMPC, nos municípios com mais do que um corpo de bombeiros.\n\n2 - Nos termos do número anterior, a CMOS, a partir da data da sua criação, substitui as centrais de despacho de corpos de bombeiros existentes no município, bem como as das estruturas municipais que a integrem.\n\n3 - Os operadores da CMOS pertencem às estruturas que o integram.\n\n4 - O funcionamento da CMOS é regulado pela câmara municipal, através do SMPC.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+  },
+  "121876382": {
+   "fragment_id": "121875186",
+   "type": 11,
+   "heading": "Artigo 17.º — Dever de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Dever de informação\n\nTodos os serviços e organismos que obtenham informações, directamente ou por comunicação de terceiros, sobre elementos considerados fundamentais para efeito de tomada de medidas de protecção civil, devem transmitir tais informações, no mais curto intervalo de tempo possível, à comissão municipal de protecção civil do município a que elas se reportem."
+  },
+  "121876407": {
+   "fragment_id": "121875187",
+   "type": 11,
+   "heading": "Artigo 18.º — Planos municipais de emergência de proteção civil",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 18.º — Planos municipais de emergência de proteção civil\n\n1 - Em cada município tem de existir um plano municipal de emergência de proteção civil destinado a enfrentar a generalidade das situações de emergência que se admitem no respetivo território.\n\n2 - Nos municípios em que tal se justifique, em complemento do plano municipal de emergência de proteção civil, deverão ser elaborados planos municipais especiais de emergência adequados à frequência e magnitude dos riscos específicos.\n\n3 - Os planos municipais de emergência de proteção civil são elaborados de acordo com os critérios e normas técnicas fixados por resolução da Comissão Nacional de Proteção Civil (CNPC).\n\n4 - Os planos municipais de emergência de proteção civil devem ser objeto de exercícios frequentes com vista a testar a sua operacionalidade, nos termos fixados na resolução referida no número anterior.\n\n5 - Os agentes de proteção civil, bem como as entidades e as instituições a envolver nas operações de proteção e socorro, colaboram na elaboração, na operacionalização e na execução dos planos municipais de emergência de proteção civil.\n\n6 - [Revogado.]\n\n7 - [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+  },
+  "121876408": {
+   "fragment_id": "121875188",
+   "type": 11,
+   "heading": "Artigo 19.º — Atualização dos planos municipais de emergência de proteção civil",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 19.º — Atualização dos planos municipais de emergência de proteção civil\n\nOs planos municipais de emergência de proteção civil devem ser atualizados no prazo fixado pela CNPC, através da resolução prevista no n.º 3 do artigo anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+  },
+  "121876409": {
+   "fragment_id": "121875189",
+   "type": 11,
+   "heading": "Artigo 20.º — Defesa da floresta contra incêndios",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 20.º — Defesa da floresta contra incêndios\n\n1 - Em cada município existe uma comissão municipal de defesa da floresta contra incêndios, que pode ser apoiada pelo gabinete técnico florestal, sendo o seu âmbito, natureza, missão, atribuições e composição reguladas pelo disposto no Decreto-Lei n.º 124/2006, de 28 de junho, na sua redação atual, que estrutura o Sistema Nacional de Defesa da Floresta contra Incêndios (SNDFCI).\n\n2 - As câmaras municipais, no domínio do SNDFCI exercem as competências previstas no Decreto-Lei n.º 124/2006, de 28 de junho, na sua redação atual.\n\n3 - A intervenção do CCOM no âmbito da defesa da floresta contra incêndios é efetuada nos termos do SIOPS.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+  },
+  "121876412": {
+   "fragment_id": "121875190",
+   "type": 11,
+   "heading": "Artigo 21.º — Carreira de protecção civil",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 21.º — Carreira de protecção civil\n\nA carreira de protecção civil é criada por diploma próprio.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+  },
+  "121876387": {
+   "fragment_id": "121875191",
+   "type": 11,
+   "heading": "Artigo 22.º — Dever de disponibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Dever de disponibilidade\n\nO serviço prestado no SMPC é de total disponibilidade, pelo que o pessoal que nele exerce funções não pode, salvo motivo excepcional devidamente justificado, deixar de comparecer ou permanecer no serviço em caso de iminência ou ocorrência de acidente grave ou catástrofe, sob pena de incorrer em responsabilidade disciplinar."
+  },
+  "121876410": {
+   "fragment_id": "121875192",
+   "type": 11,
+   "heading": "Artigo 23.º — Formação",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 23.º — Formação\n\n1 - Os conteúdos curriculares da formação dos trabalhadores do SMPC constam de portaria dos membros do Governo responsáveis pelas áreas da proteção civil e das autarquias locais, ouvida a Associação Nacional de Municípios Portugueses.\n\n2 - A Direção-Geral das Autarquias Locais, a Escola Nacional de Bombeiros ou outras entidades formadoras credenciadas nos termos legais para ministrar formação profissional em matéria de proteção civil são as entidades formadoras autorizadas a ministrar a formação referida no número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+  },
+  "121876389": {
+   "fragment_id": "121875193",
+   "type": 11,
+   "heading": "Artigo 24.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Norma revogatória\n\nÉ revogada a Portaria n.º 449/2001, de 5 de Maio."
+  },
+  "121876390": {
+   "fragment_id": "121875194",
+   "type": 11,
+   "heading": "Artigo 25.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Produção de efeitos\n\nOs municípios adaptam os seus serviços ao regime previsto na presente lei no prazo de 180 dias."
+  },
+  "121876391": {
+   "fragment_id": "121875195",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 20 de Setembro de 2007.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 29 de Outubro de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 30 de Outubro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "1154304475": {
+   "fragment_id": "121785071",
+   "type": 11,
+   "heading": "Artigo 2.º — Objectivos e domínios de actuação",
+   "in_force_from": "2026-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 38/2026 - Diário da República n.º 148/2026, Série I de 2026-08-03](https://diariodarepublica.pt/dr/detalhe/lei/38-2026-1153917999), em vigor a partir de 2026-08-08.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 2.º — Objectivos e domínios de actuação\n\n1 - São objectivos fundamentais da protecção civil municipal:\n\na) Prevenir no território municipal os riscos colectivos e a ocorrência de acidente grave ou catástrofe deles resultante;\n\nb) Atenuar na área do município os riscos colectivos e limitar os seus efeitos no caso das ocorrências descritas na alínea anterior;\n\nc) Socorrer e assistir no território municipal as pessoas e outros seres vivos em perigo e proteger bens e valores culturais, ambientais e de elevado interesse público;\n\nd) Apoiar a reposição da normalidade da vida das pessoas nas áreas do município afectadas por acidente grave ou catástrofe.\n\n2 - A actividade de protecção civil municipal exerce-se nos seguintes domínios:\n\na) Levantamento, previsão, avaliação e prevenção dos riscos colectivos do município;\n\nb) Análise permanente das vulnerabilidades municipais perante situações de risco;\n\nc) Informação e formação das populações do município, visando a sua sensibilização em matéria de autoprotecção e de colaboração com as autoridades;\n\nd) Planeamento de soluções de emergência, visando a busca, o salvamento a prestação de socorro e de assistência, bem como a evacuação, alojamento e abastecimento das populações presentes no município, incluindo a realização de simulacros;\n\ne) Planeamento de soluções de emergência, visando a busca, o salvamento a prestação de socorro e de assistência, bem como a evacuação, alojamento e abastecimento dos animais presentes no município, incluindo a realização de simulacros;\n\nf) Inventariação dos recursos e meios disponíveis e dos mais facilmente mobilizáveis, ao nível municipal;\n\ng) Estudo e divulgação de formas adequadas de protecção dos edifícios em geral, de monumentos e de outros bens culturais, de infra-estruturas, do património arquivístico, de instalações de serviços essenciais, bem como do ambiente e dos recursos naturais existentes no município;\n\nh) Previsão e planeamento de acções atinentes à eventualidade de isolamento de áreas afectadas por riscos no território municipal.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 38/2026 - Diário da República n.º 148/2026, Série I de 2026-08-03](https://diariodarepublica.pt/dr/detalhe/lei/38-2026-1153917999), em vigor a partir de 2026-08-08.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), em vigor a partir de 2019-04-02"
+  }
+ }
+}

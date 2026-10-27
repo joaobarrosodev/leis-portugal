@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:608920:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2004-932424846",
+ "dre_path": "/dr/detalhe/portaria/95-2004-608920",
+ "source_lastmod": "2025-08-18",
+ "versions": [
+  {
+   "date": "2004-01-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "929044463"
+   ]
+  }
+ ],
+ "fragments": {
+  "929044463": {
+   "fragment_id": "932424847",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 95/2004\n\nde 23 de Janeiro\n\nOs incêndios florestais do Verão de 2003, e a situação de calamidade pública que originaram, obrigaram a que fossem tomadas medidas de carácter excepcional.\n\nUma dessas medidas foi a da identificação, avaliação e venda do material lenhoso atingido pelo incêndio, a concentrar, para tanto, em parques especiais organizados para o efeito, medida esta expressamente prevista no n.º 4 da Resolução do Conselho de Ministros n.º 106-B/2003, de 11 de Agosto, com as alterações que lhe foram introduzidas pela Resolução do Conselho de Ministros n.º 123/2003, de 25 de Agosto, e pela Resolução do Conselho de Ministros n.º 161/2003, de 9 de Outubro, a qual prevê ainda que o Ministério da Agricultura, Desenvolvimento Rural e Pescas venha a procurar, junto dos grandes compradores industriais e das respectivas associações, estabelecer sistemas de venda justos e apropriados à situação, de forma a proteger essencialmente os pequenos proprietários.\n\nAtendendo a que a madeira queimada, nomeadamente de pinho, é, por força da sua particular susceptibilidade aos agentes bióticos, uma matéria especialmente perecível, prevê-se que a sua venda se processe em tempo compatível com o seu potencial aproveitamento industrial.\n\nÉ, assim, reconhecida a urgência na venda da madeira de pinho atingida pelos incêndios, o que justifica que a sua venda se realize por negociação directa junto de empresas industriais consumidoras directas, ou suas associações.\n\nEstando em pleno curso a identificação, avaliação e concentração em parques estabelecidos para o efeito da madeira de pinho atingida pelos incêndios, e sendo como tal urgente garantir os pressupostos de venda da madeira entretanto já armazenada:\n\nNos termos do artigo 15.º do Decreto-Lei n.º 307/94, de 21 de Dezembro, manda o Governo, pelos Ministros de Estado e das Finanças e da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:"
+  }
+ }
+}

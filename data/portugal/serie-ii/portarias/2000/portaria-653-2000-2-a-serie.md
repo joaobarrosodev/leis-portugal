@@ -1,0 +1,100 @@
+---
+schema_version: '1.0'
+id: pt:dre:2111601:por
+title: Portaria n.º 653/2000 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Exército - Comando do Pessoal - Direcção de Administração e Mobilização do Pessoal - Repartição
+  de Pessoal Militar Permanente
+proposing_entity: null
+official_number: 653/2000 (2.ª série)
+official_date: null
+publication_date: '2000-04-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 87/2000, Série II de 2000-04-12
+  number: '87'
+  series: II
+  supplement: null
+  pages: 6782 - 6782
+  pdf_url: https://files.diariodarepublica.pt/2s/2000/04/087000000/0678206782.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2111601'
+  dre_path: /dr/detalhe/portaria/653-2000-2111601
+  internal: pt:dre:2111601:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/653-2000-2111601
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/653-2000-2111601
+  consolidated_url: null
+  retrieved_at: '2026-10-23T16:12:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f8cc266f7b0e264414ba7bfc71c8fd95dc84ce384797a92a54766d70299496e1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:12:56Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:327993:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T16:12:56Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 653/2000 (2.ª série)
+
+Portaria n.º 653/2000 (2.ª série). - Por portaria de 15 de Março de 2000 do GEN CEME, nos termos do artigo 69.º do EMFAR, conjugado com o n.º 23 da [Portaria n.º 632/78](https://diariodarepublica.pt/dr/detalhe/portaria/632-1978-327993), de 21 de Outubro, são graduados no posto de alferes os seguintes militares:
+
+ASPOF MED 18297990 - Sérgio Manuel Vieira dos Santos Seara Alves.
+
+ASPOF GRAD MED 33857292 - Célia Catarina da Silva Cerqueira Bessa.
+
+ASPOF GRAD MED 33846091 - Pedro Pinto Coelho Moreira Nascimento.
+
+Contam a graduação no posto de alferes desde 21 de Fevereiro de 2000, data desde quando têm direito aos vencimentos do novo posto.
+
+20 de Março de 2000. - O Chefe da Repartição, Mário Augusto Mourato Cabrita, coronel de artilharia.

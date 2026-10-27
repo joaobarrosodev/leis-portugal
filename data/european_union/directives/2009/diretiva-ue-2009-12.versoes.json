@@ -1,0 +1,258 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009L0012:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0012-20240520",
+ "dre_path": null,
+ "source_lastmod": "2024-05-20",
+ "versions": [
+  {
+   "date": "2009-03-14",
+   "future": false,
+   "celex": "32009L0012",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4df18a464cee5fd6",
+    "caf9bae39b2e9a81",
+    "8b0f3d72bc71f008",
+    "373e23ec4f32f305",
+    "58be81239fd1a07d",
+    "822b50d0e4ae1544",
+    "1a540836ec46cffb",
+    "d9d23ef27767916e",
+    "f60937f00cee3aac",
+    "278a9a3fc2f1e3ad",
+    "749d2504d3cf0cdd",
+    "b63f0aca939d7e6e",
+    "42d6d11a5b985b9f",
+    "f94f7b80451b2db2",
+    "bd357545f5e208e1",
+    "9b809e65b29c5765",
+    "05b528fd11149776"
+   ]
+  },
+  {
+   "date": "2024-05-20",
+   "future": false,
+   "celex": "02009L0012-20240520",
+   "acts": [
+    {
+     "id": "eu:celex:32024D1254:por",
+     "title": "DECISÃO (UE) 2024/1254 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de abril de 2024",
+     "published": null,
+     "celex": "32024D1254"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Objecto",
+    "Altera Artigo 15.º — Destinatários",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "36489a4fe4078765",
+    "6e530aafabd5b804",
+    "8b0f3d72bc71f008",
+    "373e23ec4f32f305",
+    "58be81239fd1a07d",
+    "822b50d0e4ae1544",
+    "d19b3afbd28b91d9",
+    "f601000ead62bf64",
+    "f60937f00cee3aac",
+    "278a9a3fc2f1e3ad",
+    "749d2504d3cf0cdd",
+    "d112967fb061abee",
+    "42d6d11a5b985b9f",
+    "f94f7b80451b2db2",
+    "bd357545f5e208e1",
+    "053afd08713fd490"
+   ]
+  }
+ ],
+ "fragments": {
+  "4df18a464cee5fd6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Março de 2009\n\nrelativa às taxas aeroportuárias\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 2 do artigo 80.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/b3f91d83-d246-449e-888f-4665d194b3f2.0018.02/DOC_1#ntr1-L_2009070PT.01001101-E0001),\n\nTendo em conta o parecer do Comité das Regiões [([^2])](http://publications.europa.eu/resource/cellar/b3f91d83-d246-449e-888f-4665d194b3f2.0018.02/DOC_1#ntr2-L_2009070PT.01001101-E0002),\n\nDeliberando nos termos do artigo 251.º do Tratado [([^3])](http://publications.europa.eu/resource/cellar/b3f91d83-d246-449e-888f-4665d194b3f2.0018.02/DOC_1#ntr3-L_2009070PT.01001101-E0003),\n\nConsiderando o seguinte:\n\n(1) A principal tarefa e actividade comercial dos aeroportos é assegurar a assistência a aeronaves, desde a aterragem até à descolagem, e a passageiros e carga, de modo que as transportadoras aéreas possam prestar serviços de transporte aéreo. Para este efeito, os aeroportos oferecem uma série de instalações e serviços relacionados com a operação de aeronaves e o processamento de passageiros e carga, cujos custos recuperam geralmente mediante a cobrança de taxas aeroportuárias. As entidades gestoras aeroportuárias que disponibilizam instalações e prestam serviços pelos quais sejam cobradas taxas aeroportuárias deverão procurar assegurar um funcionamento eficiente em termos de custos.\n\n(2) É necessário estabelecer um quadro comum que regulamente as características essenciais das taxas aeroportuárias e o modo como são fixadas, dado que, na sua falta, os requisitos básicos da relação entre as entidades gestoras aeroportuárias e os utilizadores do aeroporto podem não ser cumpridos. Tal quadro não deverá prejudicar a possibilidade de um Estado-Membro determinar se e em que medida as receitas provenientes das actividades comerciais de um aeroporto podem ser tomadas em conta para estabelecer as taxas aeroportuárias.\n\n(3) A presente directiva deverá aplicar-se aos aeroportos situados na Comunidade com uma dimensão superior a um determinado nível mínimo, dado que a gestão e o financiamento dos aeroportos de pequena dimensão não exige a aplicação de um quadro comunitário.\n\n(4) Além disso, num Estado-Membro onde nenhum aeroporto atinja a dimensão mínima para a aplicação da presente directiva, o aeroporto que registe o maior volume de tráfego de passageiros goza de uma posição tão privilegiada como ponto de entrada nesse Estado-Membro que é necessário sujeitá-lo à aplicação da presente directiva a fim de garantir o respeito de certos princípios básicos na relação entre a entidade gestora aeroportuária e os utilizadores do aeroporto, nomeadamente no que se refere à transparência das taxas e à não discriminação entre os utilizadores do aeroporto.\n\n(5) A fim de promover a coesão territorial, os Estados-Membros deverão ter a possibilidade de aplicar um sistema de tarifação comum que cubra uma rede de aeroportos. As transferências económicas entre aeroportos nessas redes deverão cumprir a legislação comunitária.\n\n(6) Por razões de distribuição do tráfego, os Estados-Membros deverão poder autorizar a entidade gestora aeroportuária a aplicar, para os aeroportos que sirvam a mesma cidade ou a mesma conurbação, um sistema de tarifação comum e transparente. As transferências económicas entre esses aeroportos deverão cumprir a legislação comunitária aplicável.\n\n(7) Os incentivos para o lançamento de novas rotas, nomeadamente a promoção do desenvolvimento de regiões desfavorecidas e ultraperiféricas, só deverão ser concedidos de acordo com a legislação comunitária.\n\n(8) A cobrança de taxas pela prestação de serviços de navegação aérea e de serviços de assistência em escala já é tratada no Regulamento (CE) n.º 1794/2006 da Comissão, de 6 de Dezembro de 2006, que estabelece o regime comum de tarifação dos serviços de navegação aérea [([^4])](http://publications.europa.eu/resource/cellar/b3f91d83-d246-449e-888f-4665d194b3f2.0018.02/DOC_1#ntr4-L_2009070PT.01001101-E0004) e na Directiva 96/67/CE do Conselho, de 15 de Outubro de 1996, relativa ao acesso ao mercado da assistência em escala nos aeroportos da Comunidade [([^5])](http://publications.europa.eu/resource/cellar/b3f91d83-d246-449e-888f-4665d194b3f2.0018.02/DOC_1#ntr5-L_2009070PT.01001101-E0005), respectivamente. As taxas cobradas para financiar a assistência a passageiros com deficiência e a passageiros com mobilidade reduzida são reguladas pelo Regulamento (CE) n.º 1107/2006 do Parlamento Europeu e do Conselho, de 5 de Julho de 2006, relativo aos direitos das pessoas com deficiência e das pessoas com mobilidade reduzida no transporte aéreo [([^6])](http://publications.europa.eu/resource/cellar/b3f91d83-d246-449e-888f-4665d194b3f2.0018.02/DOC_1#ntr6-L_2009070PT.01001101-E0006).\n\n(9) Em 2004, o Conselho da Organização da Aviação Civil Internacional (OACI) aprovou políticas de taxas aeroportuárias que incluíam, nomeadamente, os princípios da relação entre as taxas e os custos e da não discriminação, e um mecanismo independente para a regulamentação económica dos aeroportos.\n\n(10) O Conselho da OACI considerou que uma taxa aeroportuária é uma contrapartida financeira concebida e aplicada especificamente para recuperar o custo da disponibilização de instalações e da prestação de serviços à aviação civil, ao passo que um imposto é uma imposição destinada a aumentar as receitas de governos nacionais ou locais que, geralmente, não se aplica à aviação civil na sua totalidade nem tem especificamente em conta os custos.\n\n(11) As taxas aeroportuárias deverão ser não discriminatórias. Deverá ser estabelecido um procedimento obrigatório de consulta regular entre as entidades gestoras aeroportuárias e os utilizadores dos aeroportos, com a possibilidade de recurso, por qualquer das partes, para uma autoridade supervisora independente sempre que uma decisão sobre taxas aeroportuárias ou sobre a alteração do sistema de tarifação seja contestada pelos utilizadores dos aeroportos.\n\n(12) A fim de garantir decisões imparciais e a aplicação adequada e efectiva da presente directiva, deverá ser criada uma autoridade supervisora independente em cada Estado-Membro. A autoridade supervisora independente deverá dispor de todos os recursos necessários em termos de pessoal, de competências e de meios financeiros para o desempenho das suas funções.\n\n(13) É vital que os utilizadores do aeroporto recebam periodicamente da entidade gestora aeroportuária informações sobre as modalidades e a base de cálculo das taxas aeroportuárias. Essa transparência proporcionará às transportadoras aéreas informações sobre os custos incorridos pelo aeroporto e sobre a produtividade dos investimentos do aeroporto. Para que a entidade gestora aeroportuária possa avaliar correctamente as necessidades quanto aos investimentos futuros, deverá ser exigido aos utilizadores dos aeroportos que partilhem em tempo útil com a entidade gestora aeroportuária todas as suas previsões operacionais, projectos de desenvolvimento e necessidades e sugestões específicas.\n\n(14) As entidades gestoras aeroportuárias deverão informar os utilizadores do aeroporto sobre os principais projectos de infra-estruturas, dado que estes têm um impacto significativo no sistema ou no nível das taxas aeroportuárias. Essas informações deverão ser prestadas a fim de possibilitar o acompanhamento dos custos das infra-estruturas e de proporcionar instalações adequadas e eficazes em termos de custos no aeroporto em causa.\n\n(15) Deverá ser permitido às entidades gestoras aeroportuárias aplicar taxas aeroportuárias que correspondam às infra-estruturas disponibilizadas e/ou ao nível de serviço prestado, visto que as transportadoras aéreas têm um interesse legítimo em solicitar à entidade gestora aeroportuária a prestação de serviços que correspondam ao rácio preço/qualidade. Deverá contudo ser disponibilizado de forma não discriminatória o acesso a um nível diferenciado de infra-estruturas ou serviços a todas as transportadoras que desejem utilizá-los. Caso a procura exceda a oferta, o acesso deverá ser determinado com base em critérios objectivos e não discriminatórios a definir pela entidade gestora aeroportuária. Qualquer diferenciação de taxas aeroportuárias deverá ser transparente, objectiva e baseada em critérios claros.\n\n(16) Os utilizadores do aeroporto e a entidade gestora aeroportuária deverão poder celebrar um acordo sobre os níveis de serviço respeitantes à qualidade do serviço prestado em contrapartida das taxas aeroportuárias. As negociações sobre a qualidade do serviço prestado em contrapartida das taxas aeroportuárias poderão ter lugar como parte da consulta regular.\n\n(17) Existem diferentes sistemas nos diferentes Estados-Membros no que se refere ao pré-financiamento dos investimentos aeroportuários. Nos Estados-Membros em que haja pré-financiamento, os Estados-Membros ou as entidades gestoras aeroportuárias deverão reger-se pelas políticas da OACI e/ou estabelecer as suas próprias salvaguardas.\n\n(18) A presente directiva não deverá prejudicar o disposto no Tratado, nomeadamente nos artigos 81.º a 89.º\n\n(19) Atendendo a que o objectivo da presente directiva, a saber, estabelecer princípios comuns para a cobrança de taxas aeroportuárias nos aeroportos comunitários, não pode ser suficientemente realizado pelos Estados-Membros, dado que os sistemas de taxas aeroportuárias não podem ser estabelecidos ao nível nacional de modo uniforme em toda a Comunidade, e pode, pois, devido às suas dimensões e efeitos, ser mais bem alcançado a nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para alcançar aquele objectivo,\n\nAPROVARAM A PRESENTE DIRECTIVA:"
+  },
+  "caf9bae39b2e9a81": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1. A presente directiva estabelece princípios comuns para a cobrança de taxas aeroportuárias nos aeroportos comunitários.\n\n2. A presente directiva é aplicável aos aeroportos situados nos territórios aos quais se aplica o Tratado e abertos ao tráfego comercial cujo tráfego anual seja superior a cinco milhões de passageiros, e ao aeroporto que registe o maior volume de tráfego de passageiros em cada Estado-Membro.\n\n3. Os Estados-Membros publicam uma lista dos aeroportos situados no seu território aos quais a presente directiva é aplicável. Essa lista baseia-se em dados da Comissão (Eurostat) e é actualizada anualmente.\n\n4. A presente directiva não é aplicável às taxas cobradas para a remuneração de serviços de navegação aérea de rota e de terminal, de acordo com o Regulamento (CE) n.º 1794/2006, às taxas cobradas para a remuneração dos serviços de assistência em escala referidos no anexo da Directiva 96/67/CE, nem às taxas cobradas para financiar a assistência a passageiros com deficiência e a passageiros com mobilidade reduzida a que se refere o Regulamento (CE) n.º 1107/2006.\n\n5. A presente directiva não prejudica o direito de cada Estado-Membro aplicar medidas regulamentares adicionais que não sejam incompatíveis com a presente directiva nem com outras disposições relevantes do direito comunitário no que diz respeito às entidades gestoras aeroportuárias situadas no seu território. Tais medidas podem incluir medidas de supervisão económica, como a aprovação dos sistemas de tarifação e/ou do nível das taxas, incluindo métodos de tarifação baseados em incentivos ou a regulação dos preços máximos."
+  },
+  "8b0f3d72bc71f008": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. «Aeroporto», um terreno especialmente preparado para a aterragem, descolagem e manobras de aeronaves, incluindo as instalações anexas que possam existir para as necessidades do tráfego e para o serviço das aeronaves, nomeadamente as instalações necessárias para as operações comerciais de transporte aéreo;\n\n2. «Entidade gestora aeroportuária», a entidade à qual, em conjunto ou não com outras actividades, compete, nos termos da legislação nacional, da regulamentação ou de contratos, a administração e a gestão das infra-estruturas de um aeroporto ou de uma rede de aeroportos e a coordenação e o controlo das actividades dos vários operadores presentes no aeroporto ou na rede de aeroportos em causa;\n\n3. «Utilizador do aeroporto», uma pessoa singular ou colectiva que transporte passageiros, correio e/ou carga por via aérea de ou para esse aeroporto;\n\n4. «Taxa aeroportuária», uma contrapartida financeira cobrada em proveito da entidade gestora aeroportuária, paga pelos utilizadores do aeroporto pela utilização das instalações disponibilizadas e pelos serviços prestados exclusivamente pela entidade gestora aeroportuária, relacionados com a aterragem, descolagem, iluminação e estacionamento das aeronaves e com o processamento de passageiros e carga;\n\n5. «Rede de aeroportos», um grupo de aeroportos devidamente designado como tal por um Estado-Membro e explorado pela mesma entidade gestora aeroportuária."
+  },
+  "373e23ec4f32f305": {
+   "fragment_id": "Artigo 3.º — Não discriminação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Não discriminação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Não discriminação\n\nOs Estados-Membros asseguram que as taxas aeroportuárias não estabeleçam discriminações entre os utilizadores dos aeroportos, em conformidade com o direito comunitário. Tal não impede a modulação das taxas aeroportuárias por motivos de interesse público e geral, nomeadamente de ordem ambiental. Os critérios utilizados para a referida modulação devem ser pertinentes, objectivos e transparentes."
+  },
+  "58be81239fd1a07d": {
+   "fragment_id": "Artigo 4.º — Rede de aeroportos",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Rede de aeroportos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Rede de aeroportos\n\nOs Estados-Membros podem autorizar a entidade gestora aeroportuária responsável por uma rede de aeroportos a introduzir um sistema de tarifação comum e transparente para cobrir essa rede de aeroportos."
+  },
+  "822b50d0e4ae1544": {
+   "fragment_id": "Artigo 5.º — Sistemas de tarifação comuns",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Sistemas de tarifação comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Sistemas de tarifação comuns\n\nDepois de informarem a Comissão e em conformidade com o direito comunitário, os Estados-Membros podem autorizar uma entidade gestora aeroportuária a aplicar um sistema de tarifação comum e transparente nos aeroportos que sirvam a mesma cidade ou a mesma conurbação, desde que cada aeroporto cumpra inteiramente os requisitos de transparência previstos no artigo 7.º"
+  },
+  "1a540836ec46cffb": {
+   "fragment_id": "Artigo 6.º — Consulta e recurso",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Consulta e recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Consulta e recurso\n\n1. Os Estados-Membros asseguram que seja estabelecido um procedimento obrigatório para a realização de consultas periódicas entre a entidade gestora aeroportuária e os utilizadores do aeroporto, ou os representantes ou associações dos utilizadores do aeroporto, a respeito do funcionamento do sistema de taxas aeroportuárias e do nível dessas taxas e, se necessário, da qualidade dos serviços prestados. As referidas consultas realizam-se pelo menos uma vez por ano, salvo decisão em contrário tomada na última consulta. Caso exista um acordo plurianual entre a entidade gestora aeroportuária e os utilizadores do aeroporto, as consultas realizam-se nos termos do referido acordo. Os Estados-Membros reservam-se o direito de solicitar consultas mais frequentes.\n\n2. Os Estados-Membros asseguram que, sempre que possível, as alterações do sistema ou do nível das taxas aeroportuárias sejam introduzidas de comum acordo entre a entidade gestora aeroportuária e os utilizadores do aeroporto. Para tal, a entidade gestora aeroportuária apresenta aos utilizadores do aeroporto as eventuais propostas de alteração do sistema ou do nível das taxas aeroportuárias, juntamente com as razões para as alterações propostas, o mais tardar quatro meses antes da respectiva entrada em vigor, excepto em circunstâncias excepcionais que devem ser justificadas perante os utilizadores do aeroporto. A entidade gestora aeroportuária consulta os utilizadores do aeroporto sobre as alterações propostas e tem em conta os seus pontos de vista antes de tomar uma decisão. Normalmente, a entidade gestora aeroportuária publica a sua decisão ou recomendação o mais tardar dois meses antes da respectiva entrada em vigor. Caso a entidade gestora aeroportuária e os utilizadores do aeroporto não cheguem a acordo sobre as alterações propostas, a primeira deve justificar a sua decisão relativamente aos pontos de vista dos utilizadores do aeroporto.\n\n3. Os Estados-Membros asseguram que, em caso de desacordo quanto a uma decisão relativa às taxas aeroportuárias tomada pela entidade gestora aeroportuária, qualquer parte possa solicitar a intervenção da autoridade supervisora independente a que se refere o artigo 11.º, que examina as justificações para a alteração do sistema ou do nível das taxas aeroportuárias.\n\n4. Se uma alteração do sistema ou do nível das taxas aeroportuárias decidida pela entidade gestora aeroportuária for submetida à apreciação de uma autoridade supervisora independente, tal alteração não produz efeitos até ter sido analisada por esta última. No prazo de quatro semanas após a questão ter sido submetida à sua apreciação, a autoridade supervisora independente deve tomar uma decisão provisória sobre a entrada em vigor da alteração das taxas aeroportuárias, a não ser que a decisão final possa ser tomada dentro do mesmo prazo.\n\n5. Um Estado-Membro pode decidir não aplicar os n.^os^ 3 e 4 em relação a alterações do nível ou da estrutura das taxas aeroportuárias nos aeroportos em que:\n\na) Exista um procedimento obrigatório nos termos da legislação nacional segundo o qual as taxas aeroportuárias, ou o seu nível máximo, são determinados ou aprovados pela autoridade supervisora independente; ou\n\nb) Exista um procedimento obrigatório nos termos da legislação nacional segundo o qual a autoridade supervisora independente analisa periodicamente, ou em resposta a pedidos de partes interessadas, se tais aeroportos estão sujeitos a uma concorrência efectiva. Sempre que as conclusões dessa análise o justifiquem, o Estado-Membro deve decidir que as taxas aeroportuárias, ou o seu nível máximo, sejam determinados ou aprovados pela autoridade supervisora independente. Esta decisão aplica-se enquanto tal for considerado necessário, com base na análise efectuada por essa autoridade.\n\nOs procedimentos, condições e critérios aplicados para efeitos do presente número pelo Estado-Membro devem ser pertinentes, objectivos, não discriminatórios e transparentes."
+  },
+  "d9d23ef27767916e": {
+   "fragment_id": "Artigo 7.º — Transparência",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Transparência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Transparência\n\n1. Os Estados-Membros asseguram que a entidade gestora aeroportuária forneça a cada utilizador do aeroporto ou aos representantes ou associações de utilizadores do aeroporto, cada vez que se devam realizar as consultas a que se refere o n.º 1 do artigo 6.º, as informações sobre as componentes que servem de base para a determinação do sistema ou do nível de todas as taxas cobradas em cada aeroporto pela entidade gestora aeroportuária. Essas informações incluem, no mínimo:\n\na) A lista dos serviços prestados e das infra-estruturas disponibilizadas em contrapartida da taxa aeroportuária cobrada;\n\nb) A metodologia utilizada para a fixação das taxas aeroportuárias;\n\nc) A estrutura global dos custos ligados às instalações e serviços a que se referem as taxas aeroportuárias;\n\nd) A receita das diferentes taxas e o custo total dos serviços cobertos por essas taxas;\n\ne) Qualquer financiamento de autoridades públicas às instalações e serviços a que se referem as taxas aeroportuárias;\n\nf) As previsões relativas à situação do aeroporto no que diz respeito às taxas, ao aumento do tráfego e aos investimentos propostos;\n\ng) A utilização efectiva das infra-estruturas e dos equipamentos aeroportuários num determinado período; e\n\nh) Os resultados previstos de todos os investimentos de vulto propostos, em termos dos seus efeitos na capacidade aeroportuária.\n\n2. Os Estados-Membros asseguram que os utilizadores do aeroporto forneçam informações à entidade gestora aeroportuária antes de cada consulta a que se refere o n.º 1 do artigo 6.º, nomeadamente relativas a:\n\na) Previsões de tráfego;\n\nb) Previsões quanto à composição e à utilização prevista da frota;\n\nc) Projectos de desenvolvimento no aeroporto em causa; e\n\nd) Necessidades no aeroporto em causa.\n\n3. Sob reserva da legislação nacional, as informações fornecidas à entidade gestora aeroportuária nos termos do presente artigo são consideradas confidenciais ou economicamente sensíveis e tratadas em conformidade. No caso de entidades gestoras aeroportuárias cotadas na Bolsa, é respeitada, nomeadamente, a regulamentação aplicável à Bolsa."
+  },
+  "f60937f00cee3aac": {
+   "fragment_id": "Artigo 8.º — Novas infra-estruturas",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Novas infra-estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Novas infra-estruturas\n\nOs Estados-Membros asseguram que a entidade gestora aeroportuária consulte os utilizadores do aeroporto antes da finalização de projectos para novas infra-estruturas."
+  },
+  "278a9a3fc2f1e3ad": {
+   "fragment_id": "Artigo 9.º — Normas de qualidade",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Normas de qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Normas de qualidade\n\n1. A fim de garantir o bom funcionamento dos aeroportos, os Estados-Membros tomam as medidas necessárias para que a entidade gestora aeroportuária e os representantes ou associações dos utilizadores do aeroporto iniciem negociações com vista à celebração de um acordo sobre os níveis de serviço respeitantes à qualidade do serviço prestado no aeroporto. Essas negociações sobre a qualidade do serviço podem ter lugar como parte das consultas a que se refere o n.º 1 do artigo 6.º\n\n2. Qualquer acordo deste tipo sobre os níveis de serviço estabelece o nível de serviço a prestar pela entidade gestora do aeroporto tendo em conta o sistema ou o nível efectivo das taxas aeroportuárias e o nível de serviço a que os utilizadores do aeroporto têm direito como contrapartida das taxas aeroportuárias."
+  },
+  "749d2504d3cf0cdd": {
+   "fragment_id": "Artigo 10.º — Diferenciação dos serviços",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Diferenciação dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Diferenciação dos serviços\n\n1. Os Estados-Membros tomam as medidas necessárias para permitir à entidade gestora aeroportuária diversificar a qualidade e o âmbito de determinados serviços, terminais ou partes de terminais aeroportuários, com o objectivo de prestar serviços personalizados ou de disponibilizar um terminal ou parte de um terminal especializado. O nível das taxas aeroportuárias pode ser diferenciado em função da qualidade e do âmbito desses serviços e dos respectivos custos, ou de qualquer outra justificação objectiva e transparente. Sem prejuízo do artigo 3.º, as entidades gestoras aeroportuárias mantêm a faculdade de fixar tais taxas diferenciadas.\n\n2. Os Estados-Membros tomam as medidas necessárias para permitir que os utilizadores do aeroporto que desejem utilizar os serviços personalizados ou um terminal ou parte de um terminal especializado tenham acesso a esses serviços e ao terminal ou à parte do terminal em causa.\n\nSe o número de utilizadores do aeroporto que desejam ter acesso aos serviços personalizados e/ou a um terminal ou parte de um terminal especializado for superior ao número de utilizadores possível devido a limitações de capacidade, o acesso é determinado com base em critérios pertinentes, objectivos, transparentes e não discriminatórios. Esses critérios podem ser fixados pela entidade gestora aeroportuária, e os Estados-Membros podem exigir que sejam aprovados pela autoridade supervisora independente."
+  },
+  "b63f0aca939d7e6e": {
+   "fragment_id": "Artigo 11.º — Autoridade supervisora independente",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Autoridade supervisora independente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Autoridade supervisora independente\n\n1. Os Estados-Membros nomeiam ou criam uma autoridade independente como sua autoridade supervisora independente nacional a fim de assegurar a aplicação correcta das medidas tomadas para dar cumprimento à presente directiva e desempenhar, pelo menos, as funções atribuídas nos termos do artigo 6.º. Essa autoridade pode ser a mesma à qual o Estado-Membro tenha confiado a aplicação das medidas regulamentares adicionais a que se refere o n.º 5 do artigo 1.º, incluindo a aprovação do sistema de tarifação e/ou do nível das taxas aeroportuárias, desde que cumpra os requisitos estabelecidos no n.º 3 do presente artigo.\n\n2. Em conformidade com a legislação nacional, a presente directiva não impede a autoridade supervisora independente de delegar, sob a sua supervisão e total responsabilidade, a aplicação da presente directiva noutras autoridades supervisoras independentes, desde que a aplicação se processe de acordo com as mesmas normas.\n\n3. Os Estados-Membros garantem a independência da autoridade supervisora independente, assegurando que esta seja juridicamente distinta e funcionalmente independente de qualquer entidade gestora aeroportuária e de qualquer transportadora aérea. Os Estados-Membros que mantêm a propriedade dos aeroportos, das entidades gestoras aeroportuárias ou das transportadoras aéreas, ou o controlo das entidades gestoras aeroportuárias ou das transportadoras aéreas, asseguram que as funções relativas a essa propriedade ou a esse controlo não sejam atribuídas à autoridade supervisora independente. Os Estados-Membros asseguram que a autoridade supervisora independente exerça as suas competências com imparcialidade e transparência.\n\n4. Os Estados-Membros notificam a Comissão do nome e endereço da autoridade supervisora independente, das funções e responsabilidades que lhe foram atribuídas e das medidas tomadas para garantir o cumprimento do disposto no n.º 3.\n\n5. Os Estados-Membros podem criar um mecanismo de financiamento para a autoridade supervisora independente, o qual pode incluir a cobrança de uma taxa aos utilizadores dos aeroportos e às entidades gestoras aeroportuárias.\n\n6. No que respeita aos desacordos a que se refere o n.º 3 do artigo 6.º, os Estados-Membros asseguram que sejam tomadas medidas a fim de:\n\na) Estabelecer um procedimento para a resolução de desacordos entre a entidade gestora aeroportuária e os utilizadores do aeroporto;\n\nb) Determinar as condições em que um desacordo pode ser submetido à apreciação da autoridade supervisora independente. A autoridade supervisora independente deve, nomeadamente, rejeitar as reclamações que considere não devidamente fundamentadas ou adequadamente documentadas; e\n\nc) Determinar os critérios segundo os quais os desacordos serão avaliados com vista à sua resolução.\n\nOs referidos procedimentos, condições e critérios devem ser não discriminatórios, transparentes e objectivos.\n\n7. Ao proceder a uma investigação sobre a justificação da alteração do sistema ou do nível das taxas aeroportuárias nos termos do artigo 6.º, a autoridade supervisora independente tem acesso às informações necessárias das partes interessadas e consulta-as para tomar a sua decisão. Sem prejuízo do n.º 4 do artigo 6.º, a autoridade supervisora independente toma uma decisão final o mais rapidamente possível e, em todo o caso, no prazo de quatro meses a contar da data em que a questão tenha sido submetida à sua apreciação. Em casos excepcionais devidamente justificados, este prazo pode ser prorrogado por dois meses. As decisões da autoridade supervisora independente são vinculativas, sem prejuízo de revisão parlamentar ou judicial, conforme aplicável nos Estados-Membros.\n\n8. A autoridade supervisora independente publica um relatório anual sobre as suas actividades."
+  },
+  "42d6d11a5b985b9f": {
+   "fragment_id": "Artigo 12.º — Revisão e relatório",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Revisão e relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Revisão e relatório\n\n1. A Comissão apresenta ao Parlamento Europeu e ao Conselho, até 15 de Março de 2013, um relatório sobre a aplicação da presente directiva que avalie os progressos efectuados na consecução dos seus objectivos e, se necessário, qualquer proposta adequada.\n\n2. Os Estados-Membros e a Comissão cooperam na aplicação da presente directiva, nomeadamente no que diz respeito à recolha das informações necessárias para a elaboração do relatório a que se refere o n.º 1."
+  },
+  "f94f7b80451b2db2": {
+   "fragment_id": "Artigo 13.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Transposição\n\n1. Os Estados-Membros põem em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 15 de Março de 2011 e informam imediatamente a Comissão desse facto.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência são aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "bd357545f5e208e1": {
+   "fragment_id": "Artigo 14.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nA presente directiva entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "9b809e65b29c5765": {
+   "fragment_id": "Artigo 15.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Estrasburgo, em 11 de Março de 2009.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**H.-G. PÖTTERING**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**A. VONDRA**\n\n---"
+  },
+  "05b528fd11149776": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/b3f91d83-d246-449e-888f-4665d194b3f2.0018.02/DOC_1#ntc1-L_2009070PT.01001101-E0001) [JO C 10 de 15.1.2008, p. 35](http://publications.europa.eu/resource/oj/JOC_2008_010_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/b3f91d83-d246-449e-888f-4665d194b3f2.0018.02/DOC_1#ntc2-L_2009070PT.01001101-E0002) [JO C 305 de 15.12.2007, p. 11](http://publications.europa.eu/resource/oj/JOC_2007_305_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/b3f91d83-d246-449e-888f-4665d194b3f2.0018.02/DOC_1#ntc3-L_2009070PT.01001101-E0003) Parecer do Parlamento Europeu de 15 de Janeiro de 2008 (ainda não publicado no Jornal Oficial), posição comum do Conselho de 23 de Junho de 2008 ([JO C 254 E de 7.10.2008, p. 18](http://publications.europa.eu/resource/oj/JOC_2008_254_E_TOC)) e posição do Parlamento Europeu de 23 de Outubro de 2008 (ainda não publicada no Jornal Oficial). Decisão do Conselho de 19 de Fevereiro de 2009.\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/b3f91d83-d246-449e-888f-4665d194b3f2.0018.02/DOC_1#ntc4-L_2009070PT.01001101-E0004) [JO L 341 de 7.12.2006, p. 3](http://publications.europa.eu/resource/oj/JOL_2006_341_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/b3f91d83-d246-449e-888f-4665d194b3f2.0018.02/DOC_1#ntc5-L_2009070PT.01001101-E0005) [JO L 272 de 25.10.1996, p. 36](http://publications.europa.eu/resource/oj/JOL_1996_272_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/b3f91d83-d246-449e-888f-4665d194b3f2.0018.02/DOC_1#ntc6-L_2009070PT.01001101-E0006) [JO L 204 de 26.7.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_204_R_TOC)."
+  },
+  "36489a4fe4078765": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Março de 2009\n\nrelativa às taxas aeroportuárias\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "6e530aafabd5b804": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1. A presente directiva estabelece princípios comuns para a cobrança de taxas aeroportuárias nos aeroportos comunitários.\n\n2. A presente directiva é aplicável aos aeroportos situados nos territórios aos quais se aplica o Tratado e abertos ao tráfego comercial cujo tráfego anual seja superior a cinco milhões de passageiros, e ao aeroporto que registe o maior volume de tráfego de passageiros em cada Estado-Membro.\n\n4. A presente directiva não é aplicável às taxas cobradas para a remuneração de serviços de navegação aérea de rota e de terminal, de acordo com o Regulamento (CE) n.º 1794/2006, às taxas cobradas para a remuneração dos serviços de assistência em escala referidos no anexo da Directiva 96/67/CE, nem às taxas cobradas para financiar a assistência a passageiros com deficiência e a passageiros com mobilidade reduzida a que se refere o Regulamento (CE) n.º 1107/2006.\n\n5. A presente directiva não prejudica o direito de cada Estado-Membro aplicar medidas regulamentares adicionais que não sejam incompatíveis com a presente directiva nem com outras disposições relevantes do direito comunitário no que diz respeito às entidades gestoras aeroportuárias situadas no seu território. Tais medidas podem incluir medidas de supervisão económica, como a aprovação dos sistemas de tarifação e/ou do nível das taxas, incluindo métodos de tarifação baseados em incentivos ou a regulação dos preços máximos."
+  },
+  "d19b3afbd28b91d9": {
+   "fragment_id": "Artigo 6.º — Consulta e recurso",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Consulta e recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Consulta e recurso\n\n1. Os Estados-Membros asseguram que seja estabelecido um procedimento obrigatório para a realização de consultas periódicas entre a entidade gestora aeroportuária e os utilizadores do aeroporto, ou os representantes ou associações dos utilizadores do aeroporto, a respeito do funcionamento do sistema de taxas aeroportuárias e do nível dessas taxas e, se necessário, da qualidade dos serviços prestados. As referidas consultas realizam-se pelo menos uma vez por ano, salvo decisão em contrário tomada na última consulta. Caso exista um acordo plurianual entre a entidade gestora aeroportuária e os utilizadores do aeroporto, as consultas realizam-se nos termos do referido acordo. Os Estados-Membros reservam-se o direito de solicitar consultas mais frequentes.\n\n2. Os Estados-Membros asseguram que, sempre que possível, as alterações do sistema ou do nível das taxas aeroportuárias sejam introduzidas de comum acordo entre a entidade gestora aeroportuária e os utilizadores do aeroporto. Para tal, a entidade gestora aeroportuária apresenta aos utilizadores do aeroporto as eventuais propostas de alteração do sistema ou do nível das taxas aeroportuárias, juntamente com as razões para as alterações propostas, o mais tardar quatro meses antes da respectiva entrada em vigor, excepto em circunstâncias excepcionais que devem ser justificadas perante os utilizadores do aeroporto. A entidade gestora aeroportuária consulta os utilizadores do aeroporto sobre as alterações propostas e tem em conta os seus pontos de vista antes de tomar uma decisão. Normalmente, a entidade gestora aeroportuária publica a sua decisão ou recomendação o mais tardar dois meses antes da respectiva entrada em vigor. Caso a entidade gestora aeroportuária e os utilizadores do aeroporto não cheguem a acordo sobre as alterações propostas, a primeira deve justificar a sua decisão relativamente aos pontos de vista dos utilizadores do aeroporto.\n\n3. Os Estados-Membros asseguram que, em caso de desacordo quanto a uma decisão relativa às taxas aeroportuárias tomada pela entidade gestora aeroportuária, qualquer parte possa solicitar a intervenção da autoridade supervisora independente a que se refere o artigo 11.º, que examina as justificações para a alteração do sistema ou do nível das taxas aeroportuárias.\n\n4. Se uma alteração do sistema ou do nível das taxas aeroportuárias decidida pela entidade gestora aeroportuária for submetida à apreciação de uma autoridade supervisora independente, tal alteração não produz efeitos até ter sido analisada por esta última. No prazo de quatro semanas após a questão ter sido submetida à sua apreciação, a autoridade supervisora independente deve tomar uma decisão provisória sobre a entrada em vigor da alteração das taxas aeroportuárias, a não ser que a decisão final possa ser tomada dentro do mesmo prazo.\n\n5.\n\nUm Estado-Membro pode decidir não aplicar os n.^os^ 3 e 4 em relação a alterações do nível ou da estrutura das taxas aeroportuárias nos aeroportos em que:\n\na) Exista um procedimento obrigatório nos termos da legislação nacional segundo o qual as taxas aeroportuárias, ou o seu nível máximo, são determinados ou aprovados pela autoridade supervisora independente; ou\n\nb) Exista um procedimento obrigatório nos termos da legislação nacional segundo o qual a autoridade supervisora independente analisa periodicamente, ou em resposta a pedidos de partes interessadas, se tais aeroportos estão sujeitos a uma concorrência efectiva. Sempre que as conclusões dessa análise o justifiquem, o Estado-Membro deve decidir que as taxas aeroportuárias, ou o seu nível máximo, sejam determinados ou aprovados pela autoridade supervisora independente. Esta decisão aplica-se enquanto tal for considerado necessário, com base na análise efectuada por essa autoridade.\n\nOs procedimentos, condições e critérios aplicados para efeitos do presente número pelo Estado-Membro devem ser pertinentes, objectivos, não discriminatórios e transparentes."
+  },
+  "f601000ead62bf64": {
+   "fragment_id": "Artigo 7.º — Transparência",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Transparência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Transparência\n\n1.\n\nOs Estados-Membros asseguram que a entidade gestora aeroportuária forneça a cada utilizador do aeroporto ou aos representantes ou associações de utilizadores do aeroporto, cada vez que se devam realizar as consultas a que se refere o n.º 1 do artigo 6.º, as informações sobre as componentes que servem de base para a determinação do sistema ou do nível de todas as taxas cobradas em cada aeroporto pela entidade gestora aeroportuária. Essas informações incluem, no mínimo:\n\na) A lista dos serviços prestados e das infra-estruturas disponibilizadas em contrapartida da taxa aeroportuária cobrada;\n\nb) A metodologia utilizada para a fixação das taxas aeroportuárias;\n\nc) A estrutura global dos custos ligados às instalações e serviços a que se referem as taxas aeroportuárias;\n\nd) A receita das diferentes taxas e o custo total dos serviços cobertos por essas taxas;\n\ne) Qualquer financiamento de autoridades públicas às instalações e serviços a que se referem as taxas aeroportuárias;\n\nf) As previsões relativas à situação do aeroporto no que diz respeito às taxas, ao aumento do tráfego e aos investimentos propostos;\n\ng) A utilização efectiva das infra-estruturas e dos equipamentos aeroportuários num determinado período; e\n\nh) Os resultados previstos de todos os investimentos de vulto propostos, em termos dos seus efeitos na capacidade aeroportuária.\n\n2.\n\nOs Estados-Membros asseguram que os utilizadores do aeroporto forneçam informações à entidade gestora aeroportuária antes de cada consulta a que se refere o n.º 1 do artigo 6.º, nomeadamente relativas a:\n\na) Previsões de tráfego;\n\nb) Previsões quanto à composição e à utilização prevista da frota;\n\nc) Projectos de desenvolvimento no aeroporto em causa; e\n\nd) Necessidades no aeroporto em causa.\n\n3. Sob reserva da legislação nacional, as informações fornecidas à entidade gestora aeroportuária nos termos do presente artigo são consideradas confidenciais ou economicamente sensíveis e tratadas em conformidade. No caso de entidades gestoras aeroportuárias cotadas na Bolsa, é respeitada, nomeadamente, a regulamentação aplicável à Bolsa."
+  },
+  "d112967fb061abee": {
+   "fragment_id": "Artigo 11.º — Autoridade supervisora independente",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Autoridade supervisora independente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Autoridade supervisora independente\n\n1. Os Estados-Membros nomeiam ou criam uma autoridade independente como sua autoridade supervisora independente nacional a fim de assegurar a aplicação correcta das medidas tomadas para dar cumprimento à presente directiva e desempenhar, pelo menos, as funções atribuídas nos termos do artigo 6.º. Essa autoridade pode ser a mesma à qual o Estado-Membro tenha confiado a aplicação das medidas regulamentares adicionais a que se refere o n.º 5 do artigo 1.º, incluindo a aprovação do sistema de tarifação e/ou do nível das taxas aeroportuárias, desde que cumpra os requisitos estabelecidos no n.º 3 do presente artigo.\n\n2. Em conformidade com a legislação nacional, a presente directiva não impede a autoridade supervisora independente de delegar, sob a sua supervisão e total responsabilidade, a aplicação da presente directiva noutras autoridades supervisoras independentes, desde que a aplicação se processe de acordo com as mesmas normas.\n\n3. Os Estados-Membros garantem a independência da autoridade supervisora independente, assegurando que esta seja juridicamente distinta e funcionalmente independente de qualquer entidade gestora aeroportuária e de qualquer transportadora aérea. Os Estados-Membros que mantêm a propriedade dos aeroportos, das entidades gestoras aeroportuárias ou das transportadoras aéreas, ou o controlo das entidades gestoras aeroportuárias ou das transportadoras aéreas, asseguram que as funções relativas a essa propriedade ou a esse controlo não sejam atribuídas à autoridade supervisora independente. Os Estados-Membros asseguram que a autoridade supervisora independente exerça as suas competências com imparcialidade e transparência.\n\n4. Os Estados-Membros notificam a Comissão do nome e endereço da autoridade supervisora independente, das funções e responsabilidades que lhe foram atribuídas e das medidas tomadas para garantir o cumprimento do disposto no n.º 3.\n\n5. Os Estados-Membros podem criar um mecanismo de financiamento para a autoridade supervisora independente, o qual pode incluir a cobrança de uma taxa aos utilizadores dos aeroportos e às entidades gestoras aeroportuárias.\n\n6.\n\nNo que respeita aos desacordos a que se refere o n.º 3 do artigo 6.º, os Estados-Membros asseguram que sejam tomadas medidas a fim de:\n\na) Estabelecer um procedimento para a resolução de desacordos entre a entidade gestora aeroportuária e os utilizadores do aeroporto;\n\nb) Determinar as condições em que um desacordo pode ser submetido à apreciação da autoridade supervisora independente. A autoridade supervisora independente deve, nomeadamente, rejeitar as reclamações que considere não devidamente fundamentadas ou adequadamente documentadas; e\n\nc) Determinar os critérios segundo os quais os desacordos serão avaliados com vista à sua resolução.\n\nOs referidos procedimentos, condições e critérios devem ser não discriminatórios, transparentes e objectivos.\n\n7. Ao proceder a uma investigação sobre a justificação da alteração do sistema ou do nível das taxas aeroportuárias nos termos do artigo 6.º, a autoridade supervisora independente tem acesso às informações necessárias das partes interessadas e consulta-as para tomar a sua decisão. Sem prejuízo do n.º 4 do artigo 6.º, a autoridade supervisora independente toma uma decisão final o mais rapidamente possível e, em todo o caso, no prazo de quatro meses a contar da data em que a questão tenha sido submetida à sua apreciação. Em casos excepcionais devidamente justificados, este prazo pode ser prorrogado por dois meses. As decisões da autoridade supervisora independente são vinculativas, sem prejuízo de revisão parlamentar ou judicial, conforme aplicável nos Estados-Membros.\n\n8. A autoridade supervisora independente publica um relatório anual sobre as suas actividades."
+  },
+  "053afd08713fd490": {
+   "fragment_id": "Artigo 15.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva."
+  }
+ }
+}

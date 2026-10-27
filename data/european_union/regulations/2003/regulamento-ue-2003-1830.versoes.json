@@ -1,0 +1,431 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32003R1830:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R1830-20190726",
+ "dre_path": null,
+ "source_lastmod": "2019-07-26",
+ "versions": [
+  {
+   "date": "2003-10-18",
+   "future": false,
+   "celex": "32003R1830",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "87de548e7a8aabdb",
+    "d2ca16cb8d774904",
+    "b4ea2eab4ec3b9c0",
+    "6640fab54bac2630",
+    "35879acdaa13ae27",
+    "21abd75afb4db44e",
+    "eab4ad8b14b943b1",
+    "814e09fe18add5fd",
+    "19804f7b9862a79c",
+    "351ceb3ec891b5b7",
+    "acf45fb1e0a55a55",
+    "4b16441b0683ea95",
+    "d62b867a691d0775",
+    "d521559b7f964b8f"
+   ]
+  },
+  {
+   "date": "2008-12-11",
+   "future": false,
+   "celex": "02003R1830-20081211",
+   "acts": [
+    {
+     "id": "eu:celex:32008R1137:por",
+     "title": "REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO DE22 de Outubro de 2008",
+     "published": null,
+     "celex": "32008R1137"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Âmbito de aplicação",
+    "Altera Artigo 3.º — Definições",
+    "Altera Artigo 4.º — Regras de rastreabilidade e de rotulagem aplicáveis aos produtos que contenham ou sejam constituídos por OGM",
+    "Altera Artigo 7.º — Alteração da Directiva 2001/18/CE",
+    "Altera Artigo 10.º — Comité",
+    "Altera Artigo 13.º — Entrada em vigor",
+    "Adita A. RASTREABILIDADE",
+    "Adita B. ROTULAGEM",
+    "Adita C. ISENÇÕES",
+    "Adita Artigo 8.º",
+    "Adita Notas",
+    "Suprime Artigo 8.º — Identificadores únicos"
+   ],
+   "fragments": [
+    "8e56e1b10eeee056",
+    "d2ca16cb8d774904",
+    "11ccdda65f704680",
+    "a9567f2da76d99ce",
+    "4fe8e952d7c09908",
+    "159cf2d762f4fb83",
+    "0ff84084555cae74",
+    "64ee42935493f152",
+    "3b30362b69bc096e",
+    "542c01ac24adba9b",
+    "9086c91cd51dfe38",
+    "7112a0697882ff0b",
+    "ca5bdfd52522892c",
+    "8a6f6dbd5cb67fdb",
+    "4b16441b0683ea95",
+    "ffdbb50a704aa8f4",
+    "c07e93757866898d",
+    "297a8e0c22554b0d"
+   ]
+  },
+  {
+   "date": "2019-07-26",
+   "future": false,
+   "celex": "02003R1830-20190726",
+   "acts": [
+    {
+     "id": "eu:celex:32019R1243:por",
+     "title": "REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019",
+     "published": null,
+     "celex": "32019R1243"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Âmbito de aplicação",
+    "Altera Artigo 3.º — Definições",
+    "Altera Artigo 10.º — Comité",
+    "Altera Artigo 13.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita Artigo 8.º — Identificadores únicos",
+    "Adita Artigo 9.º-A — Exercício da delegação",
+    "Suprime Artigo 8.º"
+   ],
+   "fragments": [
+    "3932a961cad21531",
+    "d2ca16cb8d774904",
+    "4568bc8cb690ee01",
+    "0805d60994eaa205",
+    "4fe8e952d7c09908",
+    "159cf2d762f4fb83",
+    "0ff84084555cae74",
+    "64ee42935493f152",
+    "3b30362b69bc096e",
+    "542c01ac24adba9b",
+    "9086c91cd51dfe38",
+    "2cce2a9ecd5be9b2",
+    "ca5bdfd52522892c",
+    "f24c6b5d96fe7e09",
+    "2607b77f48845fb8",
+    "4b16441b0683ea95",
+    "ffdbb50a704aa8f4",
+    "dd3f9d5a15800430",
+    "add506eba5af60a6"
+   ]
+  }
+ ],
+ "fragments": {
+  "87de548e7a8aabdb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 1830/2003 do Parlamento Europeu e do Conselho, de 22 de Setembro de 2003, relativo à rastreabilidade e rotulagem de organismos geneticamente modificados e à rastreabilidade dos géneros alimentícios e alimentos para animais produzidos a partir de organismos geneticamente modificados e que altera a Directiva 2001/18/CE** *Jornal Oficial nº L 268 de 18/10/2003 p. 0024 - 0028*\n\nRegulamento (CE) n.o 1830/2003 do Parlamento Europeu e do Conselho\n\nde 22 de Setembro de 2003\n\nrelativo à rastreabilidade e rotulagem de organismos geneticamente modificados e à rastreabilidade dos géneros alimentícios e alimentos para animais produzidos a partir de organismos geneticamente modificados e que altera a Directiva 2001/18/CE\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.o 1 do seu artigo 95.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Comité Económico e Social Europeu(2),\n\nTendo em conta o parecer do Comité das Regiões(3),\n\nDeliberando nos termos do artigo 251.o do Tratado(4),\n\nConsiderando o seguinte:\n\n(1) A Directiva 2001/18/CE do Parlamento Europeu e do Conselho, de 12 de Março de 2001, relativa à libertação deliberada no ambiente de organismos geneticamente modificados(5), exige que os Estados-Membros adoptem medidas para garantir a rastreabilidade e rotulagem dos organismos geneticamente modificados (OGM) autorizados, em todas as fases da sua colocação no mercado.\n\n(2) As diferenças entre as disposições legislativas, regulamentares e administrativas nacionais relativas à rastreabilidade e rotulagem dos OGM como produtos ou elementos de produtos e à rastreabilidade dos géneros alimentícios e alimentos para animais produzidos a partir de OGM podem entravar a sua livre circulação, criando condições de concorrência desiguais e desleais. Um quadro comunitário harmonizado para a rastreabilidade e rotulagem dos OGM contribuirá para o funcionamento eficaz do mercado interno. A Directiva 2001/18/CE deve, pois, ser alterada em conformidade.\n\n(3) A introdução de regras de rastreabilidade para os OGM facilitará, por um lado, a retirada dos produtos do mercado caso se observem efeitos prejudiciais para a saúde humana, dos animais ou para o ambiente, incluindo os ecossistemas e, por outro, a verificação especificamente destinada a examinar os efeitos potenciais, em especial no ambiente. A rastreabilidade também facilitará a aplicação de medidas de controlo de risco, de acordo com o princípio da precaução.\n\n(4) É necessário estabelecer regras de rastreabilidade para os géneros alimentícios e para os alimentos para animais produzidos a partir de OGM, a fim de facilitar a rotulagem exacta desses produtos nos termos do Regulamento (CE) n.o 1829/2003 do Parlamento Europeu e do Conselho, de 22 de Setembro de 2003, relativo aos géneros alimentícios e alimentos para animais geneticamente modificados(6), com o objectivo de assegurar que os operadores e os consumidores tenham acesso a informações exactas que lhes permitam exercer de forma eficaz a sua liberdade de escolha, bem como permitir o controlo e a verificação das declarações inscritas no rótulo. As regras relativas aos géneros alimentícios e alimentos para animais produzidos a partir de OGM devem ser semelhantes para evitar a interrupção do fluxo de informações quando se modifica a utilização final do produto.\n\n(5) A transmissão e a conservação de informações segundo as quais os produtos contêm ou são constituídos por OGM, bem como dos códigos únicos atribuídos a esses OGM, em todas as fases da sua colocação no mercado, formam a base de um sistema adequado de rastreabilidade e rotulagem dos OGM. Os códigos podem ser utilizados para ter acesso a informações específicas sobre os OGM inscritas num registo e para facilitar a sua identificação, detecção e controlo, em conformidade com o disposto na Directiva 2001/18/CE.\n\n(6) A transmissão e a conservação de informações segundo as quais os géneros alimentícios e os alimentos para animais são produzidos a partir de OGM formam também a base de um sistema adequado de rastreabilidade dos produtos produzidos a partir de OGM.\n\n(7) A legislação comunitária relativa aos OGM utilizados como alimentos para animais ou como ingredientes desses alimentos aplicar-se-ão também aos alimentos para animais destinados a animais que não são criados para a produção alimentar.\n\n(8) É necessário estabelecer orientações em matéria de colheita de amostras e de detecção para facilitar o desenvolvimento de uma abordagem coordenada do controlo e inspecção e para proporcionar certeza jurídica aos operadores. Devem ser tidos em conta os registos que contêm informações sobre as modificações genéticas dos OGM estabelecidos pela Comissão nos termos do n.o 2 do artigo 31.o da Directiva 2001/18/CE e do artigo 29.o do Regulamento (CE) n.o 1829/2003.\n\n(9) É necessário que os Estados-Membros estabeleçam regras relativas às sanções aplicáveis em caso de infracção ao disposto no presente regulamento.\n\n(10) A presença de vestígios de OGM nos produtos pode ser acidental ou tecnicamente inevitável. Por conseguinte, tal presença de OGM não deve ser sujeita aos requisitos de rotulagem e de rastreabilidade. É, pois, necessário fixar limiares para a presença acidental ou tecnicamente inevitável de materiais que sejam constituídos por, contenham ou sejam produzidos a partir de OGM, tanto quando a comercialização desses OGM for autorizada na Comunidade como quando a sua presença acidental ou tecnicamente inevitável for tolerada por força do artigo 47.o do Regulamento (CE) n.o 1829/2003. É também adequado prever que, quando o nível combinado da presença acidental ou tecnicamente inevitável dos materiais acima referidos num género alimentício ou alimento para animais ou num dos seus componentes for superior aos limiares estabelecidos para efeitos de rotulagem, essa presença seja indicada de acordo com o disposto no presente regulamento e sejam adoptadas normas específicas para a sua execução.\n\n(11) É necessário garantir a informação completa e fiável dos consumidores no que respeita aos OGM, aos produtos, géneros alimentícios e alimentos para animais produzidos a partir de OGM, de modo a permitir uma opção esclarecida.\n\n(12) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(7).\n\n(13) É necessário estabelecer sistemas para desenvolver e atribuir identificadores únicos aos OGM antes de poderem ser aplicadas as medidas relativas à rastreabilidade e rotulagem dos OGM.\n\n(14) A Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação do presente regulamento, em particular sobre a eficácia das regras em matéria de rastreabilidade e rotulagem.\n\n(15) O presente regulamento respeita os direitos fundamentais e observa os princípios reconhecidos, nomeadamente, na Carta dos direitos fundamentais da União Europeia,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "d2ca16cb8d774904": {
+   "fragment_id": "Artigo 1.º — Objectivos",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivos\n\nO presente regulamento estabelece um quadro para a rastreabilidade dos produtos que contenham ou sejam constituídos por organismos geneticamente modificados (OGM) e dos géneros alimentícios e alimentos para animais produzidos a partir de OGM, com o objectivo de facilitar a rotulagem exacta, o acompanhamento dos efeitos no ambiente e, se for caso disso, na saúde, e a aplicação das medidas de gestão de risco adequadas incluindo, se necessário, a retirada de produtos do mercado."
+  },
+  "b4ea2eab4ec3b9c0": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. O presente regulamento é aplicável, em todas as fases da colocação no mercado, a:\n\na) Produtos que contenham ou sejam constituídos por OGM, colocados no mercado em conformidade com a legislação comunitária;\n\nb) Géneros alimentícios produzidos a partir de OGM, colocados no mercado em conformidade com a legislação comunitária;\n\nc) Alimentos para animais produzidos a partir de OGM, colocados no mercado em conformidade com a legislação comunitária.\n\n2. O presente regulamento não se aplica a medicamentos de uso humano e veterinário permitidos nos termos do Regulamento (CEE) n.o 2309/93(8)."
+  },
+  "6640fab54bac2630": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. \"Organismo geneticamente modificado\" ou \"OGM\", o organismo geneticamente modificado tal como definido no n.o 2 do artigo 2.o da Directiva 2001/18/CE, excluindo os organismos obtidos através das técnicas de modificação genética enumeradas no anexo I B da mesma directiva.\n\n2. \"Produzido a partir de OGM\", o que é derivado, no todo ou em parte, de OGM, mas não contém nem é constituído por OGM.\n\n3. \"Rastreabilidade\", a adequação para rastrear os OGM e os produtos produzidos a partir de OGM em todas as fases da sua colocação no mercado através das cadeias de produção e de distribuição.\n\n4. \"Identificador único\", o código simples, numérico ou alfanumérico, que serve para identificar um OGM com base numa acção de transformação permitida a partir da qual é desenvolvido e que proporciona os meios de aceder a informações específicas relativas a esse OGM.\n\n5. \"Operador\", a pessoa singular ou colectiva que coloca um produto no mercado ou que recebe um produto colocado no mercado na Comunidade, proveniente de um Estado-Membro ou de um país terceiro, em qualquer fase das cadeias de produção e distribuição, excluindo o consumidor final.\n\n6. \"Consumidor final\", o último consumidor que não utilize o produto como parte de qualquer operação ou actividade comercial.\n\n7. \"Género alimentício\", o género alimentício tal como definido no artigo 2.o do Regulamento (CE) n.o 178/2002(9).\n\n8. \"Ingrediente\", um ingrediente na acepção do n.o 4 do artigo 6.o da Directiva 2000/13/CE(10).\n\n9. \"Alimento para animais\", o alimento para animais tal como definido no n.o 4 do artigo 3.o do Regulamento (CE) n.o 178/2002.\n\n10. \"Colocação no mercado\", a colocação no mercado tal como definida na legislação alimentar geral comunitária ao abrigo da qual o produto tenha sido autorizado; noutros casos, tal como definida no n.o 4 do artigo 2.o da Directiva 2001/18/CE.\n\n11. \"Primeira fase da colocação de um produto no mercado\", a primeira transacção nas cadeias de produção e de distribuição, através da qual um produto é colocado à disposição de terceiros.\n\n12. \"Produto pré-embalado\", qualquer unidade posta à venda, constituída por um produto e pela embalagem em que aquele foi acondicionado antes de ser posto à venda, quer a embalagem o encerre na totalidade ou parcialmente, desde que o conteúdo não possa ser alterado sem que a embalagem seja aberta ou alterada."
+  },
+  "35879acdaa13ae27": {
+   "fragment_id": "Artigo 4.º — Regras de rastreabilidade e de rotulagem aplicáveis aos produtos que contenham ou sejam constituídos por OGM",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Regras de rastreabilidade e de rotulagem aplicáveis aos produtos que contenham ou sejam constituídos por OGM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regras de rastreabilidade e de rotulagem aplicáveis aos produtos que contenham ou sejam constituídos por OGM\n\nA. RASTREABILIDADE\n\n1. Na primeira fase da colocação no mercado de produtos que contenham ou sejam constituídos por OGM, incluindo produtos a granel, os operadores devem assegurar a transmissão por escrito das seguintes informações ao operador que recebe o produto:\n\na) Que o produto contém ou é constituído por OGM;\n\nb) O ou os identificadores únicos atribuídos a esses OGM em conformidade com o disposto no artigo 8.o\n\n2. Em todas as fases subsequentes da colocação no mercado dos produtos referidos no n.o 1, os operadores devem assegurar que as informações recebidas em conformidade com o disposto no n.o 1 sejam transmitidas por escrito aos operadores que recebem os produtos.\n\n3. No caso de produtos que contenham ou sejam constituídos por misturas de OGM a utilizar exclusiva e directamente na alimentação humana ou animal ou na transformação, as informações constantes da alínea b) do n.o 1 podem ser substituídas por uma declaração do operador sobre essa utilização, acompanhada de uma lista dos identificadores únicos para, todos os OGM que foram usados na constituição da mistura.\n\n4. Sem prejuízo do disposto no artigo 6.o, os operadores devem dispor de sistemas e aplicar procedimentos normalizados que permitam conservar as informações especificadas nos n.os 1, 2 e 3 e identificar, durante um período de cinco anos a contar de cada transacção, o operador a quem e por quem foram disponibilizados os produtos mencionados no n.o 1.\n\n5. Os n.os 1 a 4 não prejudicam outros requisitos específicos previstos na legislação comunitária.\n\nB. ROTULAGEM\n\n6. No que respeita aos produtos que contenham ou sejam constituídos por OGM, os operadores devem assegurar-se de que:\n\na) Tratando-se de produtos pré-embalados que contenham ou sejam constituídos por OGM, seja incluída no rótulo a menção \"Este produto contém organismos geneticamente modificados\" ou \"Este produto contém [nome do(s) organismo(s)] geneticamente modificados\";\n\nb) Tratando-se de produtos não pré-embalados oferecidos ao consumidor final, figure no expositor, ou ligada ao expositor do produto, a menção \"Este produto contém organismos geneticamente modificados\" ou \"Este produto contém [nome do(s) organismo(s)] geneticamente modificados\".\n\nO presente número não prejudica outros requisitos específicos previstos na legislação comunitária\n\nC. ISENÇÕES\n\n7. O disposto nos n.os 1 a 6 não se aplica aos vestígios de OGM presentes em produtos numa proporção não superior aos limiares estabelecidos em conformidade com os n.os 2 ou 3 do artigo 21.o da Directiva 2001/18/CE e noutra legislação comunitária específica, desde que a presença desses vestígios de OGM seja acidental ou tecnicamente inevitável.\n\n8. O disposto nos n.os 1 a 6 não se aplica aos vestígios de OGM presentes em produtos destinados a serem utilizados directamente como géneros alimentícios, alimentos para animais ou para processamento numa proporção não superior aos limiares estabelecidos para esses OGM em conformidade com os artigos 12.o, 24.o ou 47.o do Regulamento (CE) n.o 1829/2003, desde que a presença desses vestígios de OGM seja acidental ou tecnicamente inevitável."
+  },
+  "21abd75afb4db44e": {
+   "fragment_id": "Artigo 5.º — Regras de rastreabilidade aplicáveis aos géneros alimentícios e alimentos para animais produzidos a partir de OGM",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Regras de rastreabilidade aplicáveis aos géneros alimentícios e alimentos para animais produzidos a partir de OGM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regras de rastreabilidade aplicáveis aos géneros alimentícios e alimentos para animais produzidos a partir de OGM\n\n1. Ao colocarem no mercado produtos produzidos a partir de OGM, os operadores devem assegurar a transmissão por escrito das seguintes informações ao operador que recebe o produto:\n\na) Indicação de cada um dos ingredientes alimentares produzidos a partir de OGM;\n\nb) Indicação de cada um dos ingredientes ou aditivos alimentares para animais produzidos a partir de OGM;\n\nc) Indicação de que o produto é produzido a partir de OGM, no caso de produtos para os quais não exista uma lista de ingredientes.\n\n2. Sem prejuízo do disposto no artigo 6.o, os operadores devem dispor de sistemas e aplicar procedimentos normalizados que permitam conservar as informações especificadas no n.o 1 e identificar, durante um período de cinco anos a contar de cada transacção, o operador a quem e por quem foram disponibilizados os produtos mencionados no n.o 1.\n\n3. Os n.os 1 e 2 não prejudicam outros requisitos específicos previstos na legislação comunitária.\n\n4. O disposto nos n.os 1, 2 e 3 não se aplica aos vestígios de OGM presentes em géneros alimentícios e alimentos para animais produzidos a partir de OGM, numa proporção não superior aos limiares estabelecidos para esses OGM em conformidade com os artigos 12.o, 24.o ou 47.o do Regulamento (CE) n.o 1829/2003, desde que a presença desses vestígios de OGM seja acidental ou tecnicamente inevitável."
+  },
+  "eab4ad8b14b943b1": {
+   "fragment_id": "Artigo 6.º — Isenções",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Isenções\n\n1. Nos casos em que a legislação comunitária estabeleça sistemas específicos de identificação, tal como a numeração de lotes para os produtos pré-embalados, os operadores não são obrigados a conservar as informações referidas nos n.os 1, 2 e 3 do artigo 4.o e no n.o 1 do artigo 5.o, desde que tais informações, bem como o número de lote, estejam claramente marcadas na embalagem e as informações sobre a numeração do lote sejam conservadas durante o período de tempo referido no n.o 4 do artigo 4.o e no n.o 2 do artigo 5.o\n\n2. O n.o 1 não se aplica à primeira fase da colocação do produto no mercado ou da produção primária ou reembalagem de um produto."
+  },
+  "814e09fe18add5fd": {
+   "fragment_id": "Artigo 7.º — Alteração da Directiva 2001/18/CE",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Alteração da Directiva 2001/18/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Alteração da Directiva 2001/18/CE\n\nA Directiva 2001/18/CE é alterada nos termos seguintes:\n\n1. É revogado o n.o 6 do artigo 4.o\n\n2. Ao artigo 21.o é aditado o número seguinte:\n\n\"3. No que respeita aos produtos destinados ao processamento directo, o disposto no n.o 1 não é aplicável aos vestígios de OGM autorizados numa proporção não superior a 0,9 % ou a limiares mais baixos estabelecidos ao abrigo do n.o 2 do artigo 30.o, desde que a presença desses vestígios seja acidental ou tecnicamente inevitável.\"."
+  },
+  "19804f7b9862a79c": {
+   "fragment_id": "Artigo 8.º — Identificadores únicos",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Identificadores únicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Identificadores únicos\n\nA Comissão deve, nos termos do n.o 2 do artigo 10.o:\n\na) Antes da aplicação dos artigos 1.o a 7.o, criar um sistema de desenvolvimento e atribuição de identificadores únicos aos OGM;\n\nb) Adaptar o sistema a que se refere a alínea a), se necessário.\n\nNeste contexto, deve ser tida em conta a evolução da situação nas instâncias internacionais."
+  },
+  "351ceb3ec891b5b7": {
+   "fragment_id": "Artigo 9.º — Medidas de inspecção e controlo",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Medidas de inspecção e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Medidas de inspecção e controlo\n\n1. Os Estados-Membros devem assegurar a realização de inspecções e a aplicação de outras medidas de controlo, incluindo colheitas de amostras e análises (qualitativas e quantitativas), se necessário, para garantir o cumprimento do disposto no presente regulamento. As medidas de inspecção e controlo podem também incluir a inspecção e controlo da detenção de um produto.\n\n2. Antes da aplicação dos artigos 1.o a 7.o, a Comissão deve, nos termos do n.o 3 do artigo 10.o, elaborar e publicar orientações técnicas sobre a colheita de amostras e a realização de análises a fim de facilitar uma abordagem coordenada para a aplicação do presente artigo. Ao elaborar estas orientações técnicas, a Comissão deve ter em conta os trabalhos das autoridades nacionais competentes, do comité referido no n.o 1 do artigo 58.o do Regulamento (CE) n.o 178/2002 e do Laboratório Comunitário de Referência instituído pelo Regulamento (CE) n.o 1829/2003.\n\n3. A fim de ajudar os Estados-Membros a cumprir os requisitos estabelecidos nos n.os 1 e 2, a Comissão deve assegurar a criação de um registo central a nível comunitário, contendo todas as informações sequenciais e material de referência disponíveis em relação aos OGM cuja colocação no mercado comunitário tenha sido autorizada. As autoridades competentes dos Estados-Membros devem ter acesso a tal registo. O registo deve incluir também, sempre que estejam disponíveis, informações relevantes sobre os OGM não autorizados na União Europeia."
+  },
+  "acf45fb1e0a55a55": {
+   "fragment_id": "Artigo 10.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comité\n\n1. A Comissão é assistida pelo comité criado pelo artigo 30.o da Directiva 2001/18/CE.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.o e 7.o da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.o\n\nO prazo previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os artigos 3.o e 7.o da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.o\n\n4. O comité aprovará o seu regulamento interno."
+  },
+  "4b16441b0683ea95": {
+   "fragment_id": "Artigo 11.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Sanções\n\nOs Estados-Membros devem estabelecer as regras relativas às sanções aplicáveis em caso de infracção ao disposto no presente regulamento e tomar todas as medidas necessárias para garantir a sua aplicação. As sanções impostas devem ser efectivas, proporcionadas e dissuasivas. Os Estados-Membros devem notificar as referidas disposições à Comissão até 18 de Abril de 2004, devendo notificá-la o mais rapidamente possível de qualquer alteração posterior que lhes diga respeito."
+  },
+  "d62b867a691d0775": {
+   "fragment_id": "Artigo 12.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Revisão\n\nAté 18 de Outubro de 2005, a Comissão deve enviar ao Parlamento Europeu e ao Conselho um relatório sobre a execução do mesmo, em especial no que se refere ao n.o 3 do artigo 4.o, e, quando adequado, apresentar uma proposta."
+  },
+  "d521559b7f964b8f": {
+   "fragment_id": "Artigo 13.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\n1. O presente regulamento entra em vigor 20 dias após o da sua publicação no Jornal Oficial da União Europeia.\n\n2. Os artigos 1.o a 7.o e o n.o 1 do artigo 9.o são aplicáveis 90 dias após a data de publicação no Jornal Oficial da União Europeia da medida referida na alínea a) do artigo 8.o\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 22 de Setembro de 2003.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nP. Cox\n\nPelo Conselho\n\nO Presidente\n\nR. Buttiglione\n\n(1) JO C 304 E de 30.10.2001, p. 327 e JO C 331 E de 31.12.2002, p. 308.\n\n(2) JO C 125 de 27.5.2002, p. 69.\n\n(3) JO C 278 de 14.11.2002, p. 31.\n\n(4) Parecer do Parlamento Europeu de 3 de Julho de 2002 (ainda não publicado no Jornal Oficial), posição comum do Conselho de 17 de Março de 2003 (JO C 113 E de 13.5.2003, p. 21) e decisão do Parlamento Europeu de 2 de Julho de 2003 (ainda não publicada no Jornal Oficial). Decisão do Conselho de 22 de Julho de 2003.\n\n(5) JO L 106 de 17.4.2001, p. 1. Directiva com a última redacção que lhe foi dada pela Decisão 2002/811/CE do Conselho (JO L 280 de 18.10.2002, p. 27).\n\n(6) Ver página 1 do presente Jornal Oficial.\n\n(7) JO L 184 de 17.7.1999, p. 23.\n\n(8) Regulamento (CEE) n.o 2309/93 do Conselho, de 22 de Julho de 1993, que estabelece procedimentos comunitários de autorização e fiscalização de medicamentos de uso humano e veterinário e institui uma Agência Europeia de Avaliação dos Medicamentos (JO L 214 de 24.8.1993, p. 1). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 807/2003 (JO L 122 de 16.5.2003, p. 36).\n\n(9) Regulamento (CE) n.o 178/2002 do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios (JO L 31 de 1.2.2002, p. 1).\n\n(10) Directiva 2000/13/CE do Parlamento Europeu e do Conselho, de 20 de Março de 2000, relativa à aproximação das legislações dos Estados-Membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios (JO L 109 de 6.5.2000, p. 29). Directiva alterada pela Directiva 2001/101/CE da Comissão (JO L 310 de 28.11.2001, p. 19)."
+  },
+  "8e56e1b10eeee056": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Setembro de 2003\n\nrelativo à rastreabilidade e rotulagem de organismos geneticamente modificados e à rastreabilidade dos géneros alimentícios e alimentos para animais produzidos a partir de organismos geneticamente modificados e que altera a Directiva 2001/18/CE\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 1 do seu artigo 95.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/4f8a9d52-78bd-406e-bcaa-4a62d9803850.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^2^](http://publications.europa.eu/resource/cellar/4f8a9d52-78bd-406e-bcaa-4a62d9803850.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/4f8a9d52-78bd-406e-bcaa-4a62d9803850.0018.03/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^4^](http://publications.europa.eu/resource/cellar/4f8a9d52-78bd-406e-bcaa-4a62d9803850.0018.03/DOC_1#E0004)),\n\n(1) A Directiva 2001/18/CE do Parlamento Europeu e do Conselho, de 12 de Março de 2001, relativa à libertação deliberada no ambiente de organismos geneticamente modificados ([^5^](http://publications.europa.eu/resource/cellar/4f8a9d52-78bd-406e-bcaa-4a62d9803850.0018.03/DOC_1#E0005)), exige que os Estados-Membros adoptem medidas para garantir a rastreabilidade e rotulagem dos organismos geneticamente modificados (OGM) autorizados, em todas as fases da sua colocação no mercado.\n\n(2) As diferenças entre as disposições legislativas, regulamentares e administrativas nacionais relativas à rastreabilidade e rotulagem dos OGM como produtos ou elementos de produtos e à rastreabilidade dos géneros alimentícios e alimentos para animais produzidos a partir de OGM podem entravar a sua livre circulação, criando condições de concorrência desiguais e desleais. Um quadro comunitário harmonizado para a rastreabilidade e rotulagem dos OGM contribuirá para o funcionamento eficaz do mercado interno. A Directiva 2001/18/CE deve, pois, ser alterada em conformidade.\n\n(3) A introdução de regras de rastreabilidade para os OGM facilitará, por um lado, a retirada dos produtos do mercado caso se observem efeitos prejudiciais para a saúde humana, dos animais ou para o ambiente, incluindo os ecossistemas e, por outro, a verificação especificamente destinada a examinar os efeitos potenciais, em especial no ambiente. A rastreabilidade também facilitará a aplicação de medidas de controlo de risco, de acordo com o princípio da precaução.\n\n(4) É necessário estabelecer regras de rastreabilidade para os géneros alimentícios e para os alimentos para animais produzidos a partir de OGM, a fim de facilitar a rotulagem exacta desses produtos nos termos do Regulamento (CE) n.º 1829/2003 do Parlamento Europeu e do Conselho, de 22 de Setembro de 2003, relativo aos géneros alimentícios e alimentos para animais geneticamente modificados ([^6^](http://publications.europa.eu/resource/cellar/4f8a9d52-78bd-406e-bcaa-4a62d9803850.0018.03/DOC_1#E0006)), com o objectivo de assegurar que os operadores e os consumidores tenham acesso a informações exactas que lhes permitam exercer de forma eficaz a sua liberdade de escolha, bem como permitir o controlo e a verificação das declarações inscritas no rótulo. As regras relativas aos géneros alimentícios e alimentos para animais produzidos a partir de OGM devem ser semelhantes para evitar a interrupção do fluxo de informações quando se modifica a utilização final do produto.\n\n(5) A transmissão e a conservação de informações segundo as quais os produtos contêm ou são constituídos por OGM, bem como dos códigos únicos atribuídos a esses OGM, em todas as fases da sua colocação no mercado, formam a base de um sistema adequado de rastreabilidade e rotulagem dos OGM. Os códigos podem ser utilizados para ter acesso a informações específicas sobre os OGM inscritas num registo e para facilitar a sua identificação, detecção e controlo, em conformidade com o disposto na Directiva 2001/18/CE.\n\n(6) A transmissão e a conservação de informações segundo as quais os géneros alimentícios e os alimentos para animais são produzidos a partir de OGM formam também a base de um sistema adequado de rastreabilidade dos produtos produzidos a partir de OGM.\n\n(7) A legislação comunitária relativa aos OGM utilizados como alimentos para animais ou como ingredientes desses alimentos aplicar-se-ão também aos alimentos para animais destinados a animais que não são criados para a produção alimentar.\n\n(8) É necessário estabelecer orientações em matéria de colheita de amostras e de detecção para facilitar o desenvolvimento de uma abordagem coordenada do controlo e inspecção e para proporcionar certeza jurídica aos operadores. Devem ser tidos em conta os registos que contêm informações sobre as modificações genéticas dos OGM estabelecidos pela Comissão nos termos do n.º 2 do artigo 31.º da Directiva 2001/18/CE e do artigo 29.º do Regulamento (CE) n.º 1829/2003.\n\n(9) É necessário que os Estados-Membros estabeleçam regras relativas às sanções aplicáveis em caso de infracção ao disposto no presente regulamento.\n\n(10) A presença de vestígios de OGM nos produtos pode ser acidental ou tecnicamente inevitável. Por conseguinte, tal presença de OGM não deve ser sujeita aos requisitos de rotulagem e de rastreabilidade. É, pois, necessário fixar limiares para a presença acidental ou tecnicamente inevitável de materiais que sejam constituídos por, contenham ou sejam produzidos a partir de OGM, tanto quando a comercialização desses OGM for autorizada na Comunidade como quando a sua presença acidental ou tecnicamente inevitável for tolerada por força do artigo 47.º do Regulamento (CE) n.º 1829/2003. É também adequado prever que, quando o nível combinado da presença acidental ou tecnicamente inevitável dos materiais acima referidos num género alimentício ou alimento para animais ou num dos seus componentes for superior aos limiares estabelecidos para efeitos de rotulagem, essa presença seja indicada de acordo com o disposto no presente regulamento e sejam adoptadas normas específicas para a sua execução.\n\n(11) É necessário garantir a informação completa e fiável dos consumidores no que respeita aos OGM, aos produtos, géneros alimentícios e alimentos para animais produzidos a partir de OGM, de modo a permitir uma opção esclarecida.\n\n(12) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^7^](http://publications.europa.eu/resource/cellar/4f8a9d52-78bd-406e-bcaa-4a62d9803850.0018.03/DOC_1#E0007)).\n\n(13) É necessário estabelecer sistemas para desenvolver e atribuir identificadores únicos aos OGM antes de poderem ser aplicadas as medidas relativas à rastreabilidade e rotulagem dos OGM.\n\n(14) A Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação do presente regulamento, em particular sobre a eficácia das regras em matéria de rastreabilidade e rotulagem.\n\n(15) O presente regulamento respeita os direitos fundamentais e observa os princípios reconhecidos, nomeadamente, na Carta dos direitos fundamentais da União Europeia,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "11ccdda65f704680": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. O presente regulamento é aplicável, em todas as fases da colocação no mercado, a:\n\na) Produtos que contenham ou sejam constituídos por OGM, colocados no mercado em conformidade com a legislação comunitária;\n\nb) Géneros alimentícios produzidos a partir de OGM, colocados no mercado em conformidade com a legislação comunitária;\n\nc) Alimentos para animais produzidos a partir de OGM, colocados no mercado em conformidade com a legislação comunitária.\n\n2. O presente regulamento não se aplica a medicamentos de uso humano e veterinário permitidos nos termos do Regulamento (CEE) n.º 2309/93 ([^8^](http://publications.europa.eu/resource/cellar/4f8a9d52-78bd-406e-bcaa-4a62d9803850.0018.03/DOC_1#E0008))."
+  },
+  "a9567f2da76d99ce": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. «Organismo geneticamente modificado» ou «OGM», o organismo geneticamente modificado tal como definido no n.º 2 do artigo 2.º da Directiva 2001/18/CE, excluindo os organismos obtidos através das técnicas de modificação genética enumeradas no anexo I B da mesma directiva.\n\n2. «Produzido a partir de OGM», o que é derivado, no todo ou em parte, de OGM, mas não contém nem é constituído por OGM.\n\n3. «Rastreabilidade», a adequação para rastrear os OGM e os produtos produzidos a partir de OGM em todas as fases da sua colocação no mercado através das cadeias de produção e de distribuição.\n\n4. «Identificador único», o código simples, numérico ou alfanumérico, que serve para identificar um OGM com base numa acção de transformação permitida a partir da qual é desenvolvido e que proporciona os meios de aceder a informações específicas relativas a esse OGM.\n\n5. «Operador», a pessoa singular ou colectiva que coloca um produto no mercado ou que recebe um produto colocado no mercado na Comunidade, proveniente de um Estado-Membro ou de um país terceiro, em qualquer fase das cadeias de produção e distribuição, excluindo o consumidor final.\n\n6. «Consumidor final», o último consumidor que não utilize o produto como parte de qualquer operação ou actividade comercial.\n\n7. «Género alimentício», o género alimentício tal como definido no artigo 2.º do Regulamento (CE) n.º 178/2002 ([^9^](http://publications.europa.eu/resource/cellar/4f8a9d52-78bd-406e-bcaa-4a62d9803850.0018.03/DOC_1#E0009)).\n\n8. «Ingrediente», um ingrediente na acepção do n.º 4 do artigo 6.º da Directiva 2000/13/CE ([^10^](http://publications.europa.eu/resource/cellar/4f8a9d52-78bd-406e-bcaa-4a62d9803850.0018.03/DOC_1#E0010)).\n\n9. «Alimento para animais», o alimento para animais tal como definido no n.º 4 do artigo 3.º do Regulamento (CE) n.º 178/2002.\n\n10. «Colocação no mercado», a colocação no mercado tal como definida na legislação alimentar geral comunitária ao abrigo da qual o produto tenha sido autorizado; noutros casos, tal como definida no n.º 4 do artigo 2.º da Directiva 2001/18/CE.\n\n11. «Primeira fase da colocação de um produto no mercado», a primeira transacção nas cadeias de produção e de distribuição, através da qual um produto é colocado à disposição de terceiros.\n\n12. «Produto pré-embalado», qualquer unidade posta à venda, constituída por um produto e pela embalagem em que aquele foi acondicionado antes de ser posto à venda, quer a embalagem o encerre na totalidade ou parcialmente, desde que o conteúdo não possa ser alterado sem que a embalagem seja aberta ou alterada."
+  },
+  "4fe8e952d7c09908": {
+   "fragment_id": "Artigo 4.º — Regras de rastreabilidade e de rotulagem aplicáveis aos produtos que contenham ou sejam constituídos por OGM",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Regras de rastreabilidade e de rotulagem aplicáveis aos produtos que contenham ou sejam constituídos por OGM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regras de rastreabilidade e de rotulagem aplicáveis aos produtos que contenham ou sejam constituídos por OGM"
+  },
+  "159cf2d762f4fb83": {
+   "fragment_id": "A. RASTREABILIDADE",
+   "type": "divisao",
+   "heading": "A. RASTREABILIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. RASTREABILIDADE\n\n1. Na primeira fase da colocação no mercado de produtos que contenham ou sejam constituídos por OGM, incluindo produtos a granel, os operadores devem assegurar a transmissão por escrito das seguintes informações ao operador que recebe o produto:\n\na) Que o produto contém ou é constituído por OGM;\n\nb) O ou os identificadores únicos atribuídos a esses OGM em conformidade com o disposto no artigo 8.º\n\n2. Em todas as fases subsequentes da colocação no mercado dos produtos referidos no n.º 1, os operadores devem assegurar que as informações recebidas em conformidade com o disposto no n.º 1 sejam transmitidas por escrito aos operadores que recebem os produtos.\n\n3. No caso de produtos que contenham ou sejam constituídos por misturas de OGM a utilizar exclusiva e directamente na alimentação humana ou animal ou na transformação, as informações constantes da alínea b) do n.º 1 podem ser substituídas por uma declaração do operador sobre essa utilização, acompanhada de uma lista dos identificadores únicos para, todos os OGM que foram usados na constituição da mistura.\n\n4. Sem prejuízo do disposto no artigo 6.º, os operadores devem dispor de sistemas e aplicar procedimentos normalizados que permitam conservar as informações especificadas nos n.^os^ 1, 2 e 3 e identificar, durante um período de cinco anos a contar de cada transacção, o operador a quem e por quem foram disponibilizados os produtos mencionados no n.º 1.\n\n5. Os n.^os^ 1 a 4 não prejudicam outros requisitos específicos previstos na legislação comunitária."
+  },
+  "0ff84084555cae74": {
+   "fragment_id": "B. ROTULAGEM",
+   "type": "divisao",
+   "heading": "B. ROTULAGEM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. ROTULAGEM\n\n6. No que respeita aos produtos que contenham ou sejam constituídos por OGM, os operadores devem assegurar-se de que:\n\na) Tratando-se de produtos pré-embalados que contenham ou sejam constituídos por OGM, seja incluída no rótulo a menção «Este produto contém organismos geneticamente modificados» ou «Este produto contém [nome do(s) organismo(s)] geneticamente modificados»;\n\nb) Tratando-se de produtos não pré-embalados oferecidos ao consumidor final, figure no expositor, ou ligada ao expositor do produto, a menção «Este produto contém organismos geneticamente modificados» ou «Este produto contém [nome do(s) organismo(s)] geneticamente modificados».\n\nO presente número não prejudica outros requisitos específicos previstos na legislação comunitária"
+  },
+  "64ee42935493f152": {
+   "fragment_id": "C. ISENÇÕES",
+   "type": "divisao",
+   "heading": "C. ISENÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### C. ISENÇÕES\n\n7. O disposto nos n.^os^ 1 a 6 não se aplica aos vestígios de OGM presentes em produtos numa proporção não superior aos limiares estabelecidos em conformidade com os n.^os^ 2 ou 3 do artigo 21.º da Directiva 2001/18/CE e noutra legislação comunitária específica, desde que a presença desses vestígios de OGM seja acidental ou tecnicamente inevitável.\n\n8. O disposto nos n.^os^ 1 a 6 não se aplica aos vestígios de OGM presentes em produtos destinados a serem utilizados directamente como géneros alimentícios, alimentos para animais ou para processamento numa proporção não superior aos limiares estabelecidos para esses OGM em conformidade com os artigos 12.º, 24.º ou 47.º do Regulamento (CE) n.º 1829/2003, desde que a presença desses vestígios de OGM seja acidental ou tecnicamente inevitável."
+  },
+  "3b30362b69bc096e": {
+   "fragment_id": "Artigo 5.º — Regras de rastreabilidade aplicáveis aos géneros alimentícios e alimentos para animais produzidos a partir de OGM",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Regras de rastreabilidade aplicáveis aos géneros alimentícios e alimentos para animais produzidos a partir de OGM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regras de rastreabilidade aplicáveis aos géneros alimentícios e alimentos para animais produzidos a partir de OGM\n\n1. Ao colocarem no mercado produtos produzidos a partir de OGM, os operadores devem assegurar a transmissão por escrito das seguintes informações ao operador que recebe o produto:\n\na) Indicação de cada um dos ingredientes alimentares produzidos a partir de OGM;\n\nb) Indicação de cada um dos ingredientes ou aditivos alimentares para animais produzidos a partir de OGM;\n\nc) Indicação de que o produto é produzido a partir de OGM, no caso de produtos para os quais não exista uma lista de ingredientes.\n\n2. Sem prejuízo do disposto no artigo 6.º, os operadores devem dispor de sistemas e aplicar procedimentos normalizados que permitam conservar as informações especificadas no n.º 1 e identificar, durante um período de cinco anos a contar de cada transacção, o operador a quem e por quem foram disponibilizados os produtos mencionados no n.º 1.\n\n3. Os n.^os^ 1 e 2 não prejudicam outros requisitos específicos previstos na legislação comunitária.\n\n4. O disposto nos n.^os^ 1, 2 e 3 não se aplica aos vestígios de OGM presentes em géneros alimentícios e alimentos para animais produzidos a partir de OGM, numa proporção não superior aos limiares estabelecidos para esses OGM em conformidade com os artigos 12.º, 24.º ou 47.º do Regulamento (CE) n.º 1829/2003, desde que a presença desses vestígios de OGM seja acidental ou tecnicamente inevitável."
+  },
+  "542c01ac24adba9b": {
+   "fragment_id": "Artigo 6.º — Isenções",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Isenções\n\n1. Nos casos em que a legislação comunitária estabeleça sistemas específicos de identificação, tal como a numeração de lotes para os produtos pré-embalados, os operadores não são obrigados a conservar as informações referidas nos n.^os^ 1, 2 e 3 do artigo 4.º e no n.º 1 do artigo 5.º, desde que tais informações, bem como o número de lote, estejam claramente marcadas na embalagem e as informações sobre a numeração do lote sejam conservadas durante o período de tempo referido no n.º 4 do artigo 4.º e no n.º 2 do artigo 5.º\n\n2. O n.º 1 não se aplica à primeira fase da colocação do produto no mercado ou da produção primária ou reembalagem de um produto."
+  },
+  "9086c91cd51dfe38": {
+   "fragment_id": "Artigo 7.º — Alteração da Directiva 2001/18/CE",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Alteração da Directiva 2001/18/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Alteração da Directiva 2001/18/CE\n\nA Directiva 2001/18/CE é alterada nos termos seguintes:\n\n1. É revogado o n.º 6 do artigo 4.º\n\n2. Ao artigo 21.\n\n«3. No que respeita aos produtos destinados ao processamento directo, o disposto no n.º 1 não é aplicável aos vestígios de OGM autorizados numa proporção não superior a 0,9 % ou a limiares mais baixos estabelecidos ao abrigo do n.º 2 do artigo 30.º, desde que a presença desses vestígios seja acidental ou tecnicamente inevitável.»."
+  },
+  "7112a0697882ff0b": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nIdentificadores únicos\n\nA Comissão deve:\n\na) Antes da aplicação dos artigos 1.º a 7.º, criar um sistema de desenvolvimento e atribuição de identificadores únicos aos OGM;\n\nb) Adaptar o sistema a que se refere a alínea a), se necessário."
+  },
+  "ca5bdfd52522892c": {
+   "fragment_id": "Artigo 9.º — Medidas de inspecção e controlo",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Medidas de inspecção e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Medidas de inspecção e controlo\n\n1. Os Estados-Membros devem assegurar a realização de inspecções e a aplicação de outras medidas de controlo, incluindo colheitas de amostras e análises (qualitativas e quantitativas), se necessário, para garantir o cumprimento do disposto no presente regulamento. As medidas de inspecção e controlo podem também incluir a inspecção e controlo da detenção de um produto.\n\n2. Antes da aplicação dos artigos 1.º a 7.º, a Comissão deve, nos termos do n.º 3 do artigo 10.º, elaborar e publicar orientações técnicas sobre a colheita de amostras e a realização de análises a fim de facilitar uma abordagem coordenada para a aplicação do presente artigo. Ao elaborar estas orientações técnicas, a Comissão deve ter em conta os trabalhos das autoridades nacionais competentes, do comité referido no n.º 1 do artigo 58.º do Regulamento (CE) n.º 178/2002 e do Laboratório Comunitário de Referência instituído pelo Regulamento (CE) n.º 1829/2003.\n\n3. A fim de ajudar os Estados-Membros a cumprir os requisitos estabelecidos nos n.^os^ 1 e 2, a Comissão deve assegurar a criação de um registo central a nível comunitário, contendo todas as informações sequenciais e material de referência disponíveis em relação aos OGM cuja colocação no mercado comunitário tenha sido autorizada. As autoridades competentes dos Estados-Membros devem ter acesso a tal registo. O registo deve incluir também, sempre que estejam disponíveis, informações relevantes sobre os OGM não autorizados na União Europeia."
+  },
+  "8a6f6dbd5cb67fdb": {
+   "fragment_id": "Artigo 10.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comité\n\n1. A Comissão é assistida pelo comité criado pelo artigo 30.º da Directiva 2001/18/CE.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os artigos 3.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º"
+  },
+  "ffdbb50a704aa8f4": {
+   "fragment_id": "Artigo 12.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Revisão\n\nAté 18 de Outubro de 2005, a Comissão deve enviar ao Parlamento Europeu e ao Conselho um relatório sobre a execução do mesmo, em especial no que se refere ao n.º 3 do artigo 4.º, e, quando adequado, apresentar uma proposta."
+  },
+  "c07e93757866898d": {
+   "fragment_id": "Artigo 13.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\n1. O presente regulamento entra em vigor 20 dias após o da sua publicação no *Jornal Oficial da União Europeia*.\n\n2. Os artigos 1.º a 7.º e o n.º 1 do artigo 9.º são aplicáveis 90 dias após a data de publicação no *Jornal Oficial da União Europeia* da medida referida na alínea a) do artigo 8.º\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "297a8e0c22554b0d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4f8a9d52-78bd-406e-bcaa-4a62d9803850.0018.03/DOC_1#src.E0001)) JO C 304 E de 30.10.2001, p. 327 e JO C 331 E de 31.12.2002, p. 308.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/4f8a9d52-78bd-406e-bcaa-4a62d9803850.0018.03/DOC_1#src.E0002)) JO C 125 de 27.5.2002, p. 69.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/4f8a9d52-78bd-406e-bcaa-4a62d9803850.0018.03/DOC_1#src.E0003)) JO C 278 de 14.11.2002, p. 31.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/4f8a9d52-78bd-406e-bcaa-4a62d9803850.0018.03/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 3 de Julho de 2002 (ainda não publicado no Jornal Oficial), posição comum do Conselho de 17 de Março de 2003 (JO C 113 E de 13.5.2003, p. 21) e decisão do Parlamento Europeu de 2 de Julho de 2003 (ainda não publicada no Jornal Oficial). Decisão do Conselho de 22 de Julho de 2003.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/4f8a9d52-78bd-406e-bcaa-4a62d9803850.0018.03/DOC_1#src.E0005)) JO L 106 de 17.4.2001, p. 1. Directiva com a última redacção que lhe foi dada pela Decisão 2002/811/CE do Conselho (JO L 280 de 18.10.2002, p. 27).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/4f8a9d52-78bd-406e-bcaa-4a62d9803850.0018.03/DOC_1#src.E0006)) Ver página 1 do presente Jornal Oficial.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/4f8a9d52-78bd-406e-bcaa-4a62d9803850.0018.03/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/4f8a9d52-78bd-406e-bcaa-4a62d9803850.0018.03/DOC_1#src.E0008)) Regulamento (CEE) n.º 2309/93 do Conselho, de 22 de Julho de 1993, que estabelece procedimentos comunitários de autorização e fiscalização de medicamentos de uso humano e veterinário e institui uma Agência Europeia de Avaliação dos Medicamentos (JO L 214 de 24.8.1993, p. 1). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 807/2003 (JO L 122 de 16.5.2003, p. 36).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/4f8a9d52-78bd-406e-bcaa-4a62d9803850.0018.03/DOC_1#src.E0009)) Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios (JO L 31 de 1.2.2002, p. 1).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/4f8a9d52-78bd-406e-bcaa-4a62d9803850.0018.03/DOC_1#src.E0010)) Directiva 2000/13/CE do Parlamento Europeu e do Conselho, de 20 de Março de 2000, relativa à aproximação das legislações dos Estados-Membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios (JO L 109 de 6.5.2000, p. 29). Directiva alterada pela Directiva 2001/101/CE da Comissão (JO L 310 de 28.11.2001, p. 19)."
+  },
+  "3932a961cad21531": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Setembro de 2003\n\nrelativo à rastreabilidade e rotulagem de organismos geneticamente modificados e à rastreabilidade dos géneros alimentícios e alimentos para animais produzidos a partir de organismos geneticamente modificados e que altera a Directiva 2001/18/CE"
+  },
+  "4568bc8cb690ee01": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. O presente regulamento é aplicável, em todas as fases da colocação no mercado, a:\n\na) Produtos que contenham ou sejam constituídos por OGM, colocados no mercado em conformidade com a legislação comunitária;\n\nb) Géneros alimentícios produzidos a partir de OGM, colocados no mercado em conformidade com a legislação comunitária;\n\nc) Alimentos para animais produzidos a partir de OGM, colocados no mercado em conformidade com a legislação comunitária.\n\n2. O presente regulamento não se aplica a medicamentos de uso humano e veterinário permitidos nos termos do Regulamento (CEE) n.º 2309/93 ([^1^](http://publications.europa.eu/resource/cellar/ac37d1d8-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0001))."
+  },
+  "0805d60994eaa205": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. «Organismo geneticamente modificado» ou «OGM», o organismo geneticamente modificado tal como definido no n.º 2 do artigo 2.º da Directiva 2001/18/CE, excluindo os organismos obtidos através das técnicas de modificação genética enumeradas no anexo I B da mesma directiva.\n\n2. «Produzido a partir de OGM», o que é derivado, no todo ou em parte, de OGM, mas não contém nem é constituído por OGM.\n\n3. «Rastreabilidade», a adequação para rastrear os OGM e os produtos produzidos a partir de OGM em todas as fases da sua colocação no mercado através das cadeias de produção e de distribuição.\n\n4. «Identificador único», o código simples, numérico ou alfanumérico, que serve para identificar um OGM com base numa acção de transformação permitida a partir da qual é desenvolvido e que proporciona os meios de aceder a informações específicas relativas a esse OGM.\n\n5. «Operador», a pessoa singular ou colectiva que coloca um produto no mercado ou que recebe um produto colocado no mercado na Comunidade, proveniente de um Estado-Membro ou de um país terceiro, em qualquer fase das cadeias de produção e distribuição, excluindo o consumidor final.\n\n6. «Consumidor final», o último consumidor que não utilize o produto como parte de qualquer operação ou actividade comercial.\n\n7. «Género alimentício», o género alimentício tal como definido no artigo 2.º do Regulamento (CE) n.º 178/2002 ([^2^](http://publications.europa.eu/resource/cellar/ac37d1d8-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0002)).\n\n8. «Ingrediente», um ingrediente na acepção do n.º 4 do artigo 6.º da Directiva 2000/13/CE ([^3^](http://publications.europa.eu/resource/cellar/ac37d1d8-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0003)).\n\n9. «Alimento para animais», o alimento para animais tal como definido no n.º 4 do artigo 3.º do Regulamento (CE) n.º 178/2002.\n\n10. «Colocação no mercado», a colocação no mercado tal como definida na legislação alimentar geral comunitária ao abrigo da qual o produto tenha sido autorizado; noutros casos, tal como definida no n.º 4 do artigo 2.º da Directiva 2001/18/CE.\n\n11. «Primeira fase da colocação de um produto no mercado», a primeira transacção nas cadeias de produção e de distribuição, através da qual um produto é colocado à disposição de terceiros.\n\n12. «Produto pré-embalado», qualquer unidade posta à venda, constituída por um produto e pela embalagem em que aquele foi acondicionado antes de ser posto à venda, quer a embalagem o encerre na totalidade ou parcialmente, desde que o conteúdo não possa ser alterado sem que a embalagem seja aberta ou alterada."
+  },
+  "2cce2a9ecd5be9b2": {
+   "fragment_id": "Artigo 8.º — Identificadores únicos",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Identificadores únicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Identificadores únicos\n\nA Comissão fica habilitada a adotar atos delegados nos termos do artigo 9.º-A a fim de completar o presente regulamento estabelecendo e adaptando um sistema de desenvolvimento e atribuição de identificadores únicos aos OGM, tendo em conta a evolução da situação nas instâncias internacionais."
+  },
+  "f24c6b5d96fe7e09": {
+   "fragment_id": "Artigo 9.º-A — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 9.º-A — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º-A — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 8.º é conferido à Comissão por um prazo de cinco anos a contar de 26 de julho de 2019. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 8.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^4^](http://publications.europa.eu/resource/cellar/ac37d1d8-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0004)).\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 8.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "2607b77f48845fb8": {
+   "fragment_id": "Artigo 10.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comité\n\n1. A Comissão é assistida pelo comité criado pelo artigo 30.º da Directiva 2001/18/CE.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os artigos 3.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º"
+  },
+  "dd3f9d5a15800430": {
+   "fragment_id": "Artigo 13.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\n1. O presente regulamento entra em vigor 20 dias após o da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "add506eba5af60a6": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ac37d1d8-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0001)) Regulamento (CEE) n.º 2309/93 do Conselho, de 22 de Julho de 1993, que estabelece procedimentos comunitários de autorização e fiscalização de medicamentos de uso humano e veterinário e institui uma Agência Europeia de Avaliação dos Medicamentos (JO L 214 de 24.8.1993, p. 1). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 807/2003 (JO L 122 de 16.5.2003, p. 36).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ac37d1d8-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0002)) Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios (JO L 31 de 1.2.2002, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/ac37d1d8-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0003)) Directiva 2000/13/CE do Parlamento Europeu e do Conselho, de 20 de Março de 2000, relativa à aproximação das legislações dos Estados-Membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios (JO L 109 de 6.5.2000, p. 29). Directiva alterada pela Directiva 2001/101/CE da Comissão (JO L 310 de 28.11.2001, p. 19).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/ac37d1d8-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0004)) JO L 123 de 12.5.2016, p. 1."
+  }
+ }
+}

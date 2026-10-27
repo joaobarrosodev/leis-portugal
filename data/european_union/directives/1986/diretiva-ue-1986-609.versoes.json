@@ -1,0 +1,59 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31986L0609:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01986L0609-20130510",
+ "dre_path": null,
+ "source_lastmod": "2013-05-10",
+ "versions": [
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "celex": "01986L0609-20130101",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "563bb734641ce360",
+    "152f15e7da7769d0"
+   ]
+  },
+  {
+   "date": "2013-05-10",
+   "future": false,
+   "celex": "01986L0609-20130510",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 13.º"
+   ],
+   "fragments": [
+    "1ed03ae8c07514f3"
+   ]
+  }
+ ],
+ "fragments": {
+  "563bb734641ce360": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de Novembro de 1986\n\nrelativa à aproximação das disposições legislativas, regulamentares, e administrativas dos Estados-membros respeitantes à protecção dos animais utilizados para fins experimentais e outros fins científicos\n\n(86/609/CEE)"
+  },
+  "152f15e7da7769d0": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Com base nos pedidos de autorização e notificações recebidos e nos relatórios feitos, a autoridade de cada Estado-membro deve recolher e, na medida do possível, publicar periodicamente informações estatísticas sobre o uso de animais em experiências, referindo:\n\na) O número e a espécie dos animais utilizados para fins experimentais;\n\nb) O número de animais, subdivididos por categorias, utilizados nas experiências referidas no artigo 3.º;\n\nc) O número de animais, subdividido por categorias, utilizados em experiências exigidas pela lei.\n\n2. Os Estados-membros tomarão todas as medidas necessárias para assegurar a protecção da confidencialidade de quaisquer informações sensíveis do ponto de vista comercial divulgadas ao abrigo da presente directiva."
+  },
+  "1ed03ae8c07514f3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1986L0609 — PT — 10.05.2013 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31986L0609) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31986L0609) [de 24 de Novembro de 1986](http://publications.europa.eu/resource/celex/31986L0609) [relativa à aproximação das disposições legislativas, regulamentares, e administrativas dos Estados-membros respeitantes à protecção dos animais utilizados para fins experimentais e outros fins científicos](http://publications.europa.eu/resource/celex/31986L0609) [(86/609/CEE)](http://publications.europa.eu/resource/celex/31986L0609) (JO L 358, 18.12.1986, p.1)\n\n**revogado por:**\n\n- [Directiva 2010/63/UE do Parlamento Europeu e do Conselho de 22 de Setembro de 2010](http://publications.europa.eu/resource/celex/32010L0063) — L 276 — 33 — 20.10.2010"
+  }
+ }
+}

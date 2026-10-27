@@ -1,0 +1,682 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009R0272:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0272-20130321",
+ "dre_path": null,
+ "source_lastmod": "2013-03-21",
+ "versions": [
+  {
+   "date": "2009-04-03",
+   "future": false,
+   "celex": "32009R0272",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "012040512cd1f4cc",
+    "50cc52ada8de0615",
+    "326f6b06bf56ebc3",
+    "ff49e66ba360ae7b",
+    "7e241a9175b4c766"
+   ]
+  },
+  {
+   "date": "2010-04-29",
+   "future": false,
+   "celex": "02009R0272-20100429",
+   "acts": [
+    {
+     "id": "eu:celex:32010R0297:por",
+     "title": "REGULAMENTO (UE) N. o 297/2010 DA COMISSÃO de 9 de Abril de 2010",
+     "published": null,
+     "celex": "32010R0297"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Notas",
+    "Adita ANEXO",
+    "Adita PARTE A.",
+    "Adita Métodos de rastreio permitidos",
+    "Adita PARTE B.",
+    "Adita Categorias de artigos que podem ser proibidos",
+    "Adita PARTE B1.",
+    "Adita Líquidos, aerossóis e géis",
+    "Adita PARTE C.",
+    "Adita Controlo do acesso: critérios para a concessão de acesso ao lado ar e às zonas restritas de segurança",
+    "Adita PARTE D.",
+    "Adita Métodos autorizados para a inspecção de veículos, para os controlos de segurança das aeronaves e para as verificações de segurança das aeronaves",
+    "Adita PARTE E.",
+    "Adita Critérios para o reconhecimento da equivalência das normas de segurança de países terceiros",
+    "Adita PARTE F.",
+    "Adita Carga e correio",
+    "Adita 1. Carga e correio: condições em que serão rastreados ou submetidos a outros controlos de segurança",
+    "Adita 2. Carga e correio: processo de aprovação ou designação dos agentes reconhecidos, dos expedidores conhecidos e dos expedidores avençados",
+    "Adita PARTE G.",
+    "Adita Correio e materiais da transportadora aérea: condições em que serão rastreados ou submetidos a outros controlos de segurança",
+    "Adita PARTE H.",
+    "Adita Provisões de bordo e provisões do aeroporto",
+    "Adita 1. Provisões de bordo e provisões do aeroporto: condições em que serão rastreados ou submetidos a outros controlos de segurança",
+    "Adita 2. Provisões de bordo e provisões do aeroporto: processo de aprovação ou designação dos fornecedores reconhecidos e dos fornecedores conhecidos",
+    "Adita PARTE I.",
+    "Adita Critérios para a definição das partes críticas das zonas restritas de segurança",
+    "Adita PARTE J.",
+    "Adita Recrutamento do pessoal e métodos de formação",
+    "Adita 1. Critérios para o recrutamento do pessoal",
+    "Adita 2. Métodos de formação",
+    "Adita PARTE K.",
+    "Adita Condições em que podem ser aplicados procedimentos de segurança especiais ou isenções de controlos de segurança"
+   ],
+   "fragments": [
+    "9ce15e4a834d84d2",
+    "50cc52ada8de0615",
+    "e1ec13b1e0588f1f",
+    "0919266263c71365",
+    "10220b9774fa9034",
+    "35ec4a4f4d4f2478",
+    "d0d0d12554b567e0",
+    "ab6f455447d43475",
+    "8302b97c464bd1f2",
+    "8505459324fad0f9",
+    "f725fef70aa39d05",
+    "4229dd166bac9c56",
+    "255438bb9ca455b6",
+    "589e232f0a6b4bd1",
+    "a196df0765e6b8f7",
+    "cb3025543219a690",
+    "6667315b701c29a9",
+    "370cbdc6d2bde2b9",
+    "18e425af94b423eb",
+    "f74e9594eca50e18",
+    "e3bf908ff6855e08",
+    "4532ea162688779a",
+    "1d4bf80f4a2b836e",
+    "511718a57a7cd3e1",
+    "8e52111b24f50e93",
+    "1a077c1eb7a892a7",
+    "9607c7401cbce35d",
+    "3e45e21d4fc7b031",
+    "ae047be8fe2b7566",
+    "ce212e6c1695a81c",
+    "090dd5713068af10",
+    "f6ef4f4b0929b200",
+    "36f909ff9009eb95",
+    "629ffa45dcd816d2",
+    "02237e63e0ecdeac",
+    "02fc97abaaa09291"
+   ]
+  },
+  {
+   "date": "2011-04-29",
+   "future": false,
+   "celex": "02009R0272-20110429",
+   "acts": [
+    {
+     "id": "eu:celex:32011R0720:por",
+     "title": "Regulamento (UE) n. o 720/2011 da Comissão de 22 de Julho de 2011",
+     "published": null,
+     "celex": "32011R0720"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Líquidos, aerossóis e géis",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "41f78f3e322c22b4",
+    "50cc52ada8de0615",
+    "e1ec13b1e0588f1f",
+    "0919266263c71365",
+    "10220b9774fa9034",
+    "35ec4a4f4d4f2478",
+    "d0d0d12554b567e0",
+    "ab6f455447d43475",
+    "8302b97c464bd1f2",
+    "8505459324fad0f9",
+    "918e944faa05792e",
+    "4229dd166bac9c56",
+    "255438bb9ca455b6",
+    "589e232f0a6b4bd1",
+    "a196df0765e6b8f7",
+    "cb3025543219a690",
+    "6667315b701c29a9",
+    "370cbdc6d2bde2b9",
+    "18e425af94b423eb",
+    "f74e9594eca50e18",
+    "e3bf908ff6855e08",
+    "4532ea162688779a",
+    "1d4bf80f4a2b836e",
+    "511718a57a7cd3e1",
+    "8e52111b24f50e93",
+    "1a077c1eb7a892a7",
+    "9607c7401cbce35d",
+    "3e45e21d4fc7b031",
+    "ae047be8fe2b7566",
+    "ce212e6c1695a81c",
+    "090dd5713068af10",
+    "f6ef4f4b0929b200",
+    "36f909ff9009eb95",
+    "629ffa45dcd816d2",
+    "02237e63e0ecdeac",
+    "8be3978a102ccc91"
+   ]
+  },
+  {
+   "date": "2011-12-01",
+   "future": false,
+   "celex": "02009R0272-20111201",
+   "acts": [
+    {
+     "id": "eu:celex:32011R1141:por",
+     "title": "REGULAMENTO (UE) N. o 1141/2011 DA COMISSÃO de 10 de Novembro de 2011",
+     "published": null,
+     "celex": "32011R1141"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Métodos de rastreio permitidos",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "afcd1bacc1061e93",
+    "50cc52ada8de0615",
+    "e1ec13b1e0588f1f",
+    "0919266263c71365",
+    "10220b9774fa9034",
+    "35ec4a4f4d4f2478",
+    "8a44d589842a9247",
+    "ab6f455447d43475",
+    "8302b97c464bd1f2",
+    "8505459324fad0f9",
+    "918e944faa05792e",
+    "4229dd166bac9c56",
+    "255438bb9ca455b6",
+    "589e232f0a6b4bd1",
+    "a196df0765e6b8f7",
+    "cb3025543219a690",
+    "6667315b701c29a9",
+    "370cbdc6d2bde2b9",
+    "18e425af94b423eb",
+    "f74e9594eca50e18",
+    "e3bf908ff6855e08",
+    "4532ea162688779a",
+    "1d4bf80f4a2b836e",
+    "511718a57a7cd3e1",
+    "8e52111b24f50e93",
+    "1a077c1eb7a892a7",
+    "9607c7401cbce35d",
+    "3e45e21d4fc7b031",
+    "ae047be8fe2b7566",
+    "ce212e6c1695a81c",
+    "090dd5713068af10",
+    "f6ef4f4b0929b200",
+    "36f909ff9009eb95",
+    "629ffa45dcd816d2",
+    "02237e63e0ecdeac",
+    "741a03db087f6e3e"
+   ]
+  },
+  {
+   "date": "2013-03-21",
+   "future": false,
+   "celex": "02009R0272-20130321",
+   "acts": [
+    {
+     "id": "eu:celex:32013R0245:por",
+     "title": "REGULAMENTO (UE) N. o 245/2013 DA COMISSÃO de 19 de março de 2013",
+     "published": null,
+     "celex": "32013R0245"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Métodos de rastreio permitidos",
+    "Altera Líquidos, aerossóis e géis",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "e5a1d7e133a6ada0",
+    "50cc52ada8de0615",
+    "e1ec13b1e0588f1f",
+    "0919266263c71365",
+    "10220b9774fa9034",
+    "35ec4a4f4d4f2478",
+    "e3dbfb2443aa26f5",
+    "ab6f455447d43475",
+    "8302b97c464bd1f2",
+    "8505459324fad0f9",
+    "553ab6795e46485c",
+    "4229dd166bac9c56",
+    "255438bb9ca455b6",
+    "589e232f0a6b4bd1",
+    "a196df0765e6b8f7",
+    "cb3025543219a690",
+    "6667315b701c29a9",
+    "370cbdc6d2bde2b9",
+    "18e425af94b423eb",
+    "f74e9594eca50e18",
+    "e3bf908ff6855e08",
+    "4532ea162688779a",
+    "1d4bf80f4a2b836e",
+    "511718a57a7cd3e1",
+    "8e52111b24f50e93",
+    "1a077c1eb7a892a7",
+    "9607c7401cbce35d",
+    "3e45e21d4fc7b031",
+    "ae047be8fe2b7566",
+    "ce212e6c1695a81c",
+    "090dd5713068af10",
+    "f6ef4f4b0929b200",
+    "36f909ff9009eb95",
+    "629ffa45dcd816d2",
+    "02237e63e0ecdeac",
+    "ea3c7e62b7be3026"
+   ]
+  }
+ ],
+ "fragments": {
+  "012040512cd1f4cc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 2 de Abril de 2009\n\nque complementa as normas de base comuns para a protecção da aviação civil definidas no anexo ao Regulamento (CE) n.º 300/2008 do Parlamento Europeu e do Conselho\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 300/2008 do Parlamento Europeu e do Conselho, de 11 de Março de 2008, relativo ao estabelecimento de regras comuns no domínio da segurança da aviação civil, que revoga o Regulamento (CE) n.º 2320/2002 [([^1])](http://publications.europa.eu/resource/cellar/a77186fb-7773-465f-85c4-eebde6d0a00a.0018.03/DOC_1#ntr1-L_2009091PT.01000701-E0001), nomeadamente o n.º 2 do artigo 4.º,\n\nConsiderando o seguinte:\n\n(1) Nos termos do n.º 2 do artigo 4.º do Regulamento (CE) n.º 300/2008, a Comissão deve adoptar medidas gerais destinadas a alterar elementos não essenciais das normas de base para a protecção da aviação civil definidas no anexo a esse regulamento, complementando-as.\n\n(2) O n.º 3 do artigo 4.º do Regulamento (CE) n.º 300/2008 dispõe, por sua vez, que a Comissão deve adoptar um conjunto detalhado de medidas de execução das normas de base comuns para a protecção da aviação civil, definidas no anexo desse regulamento, conforme complementadas pelas medidas gerais adoptadas pela Comissão com base no n.º 2 do artigo 4.º\n\n(3) Devem, por conseguinte, ser adoptadas medidas gerais que complementem as normas de base comuns para a protecção da aviação civil nos domínios do rastreio, do controlo do acesso e outros controlos de segurança, dos artigos proibidos, do reconhecimento da equivalência por países terceiros, do recrutamento e da formação do pessoal, dos procedimentos especiais de segurança e das isenções dos controlos de segurança.\n\n(4) Estas medidas gerais são necessárias para estabelecer na União Europeia um nível de segurança na aviação civil equivalente ao exigido pelo Regulamento (CE) n.º 2320/2002 [([^2])](http://publications.europa.eu/resource/cellar/a77186fb-7773-465f-85c4-eebde6d0a00a.0018.03/DOC_1#ntr2-L_2009091PT.01000701-E0002), que foi revogado pelo Regulamento (CE) n.º 300/2008.\n\n(5) De acordo com o artigo 24.º do Regulamento (CE) n.º 300/2008, o seu anexo aplica-se a partir da data a especificar nas normas de execução, mas o mais tardar 24 meses após a entrada em vigor do Regulamento (CE) n.º 300/2008. Por conseguinte, a aplicação das medidas gerais adoptadas em conformidade com o n.º 2 do artigo 4.º do Regulamento (CE) n.º 300/2008 deve ser adiada até à adopção das medidas de execução previstas no n.º 3 do artigo 4.º, mas não para além de 29 de Abril de 2010.\n\n(6) Devem ser instaurados nos aeroportos de toda União Europeia, com a maior brevidade possível e, o mais tardar, até 29 de Abril de 2010, métodos, incluindo tecnologias, para a detecção de explosivos líquidos, permitindo assim que os passageiros transportem líquidos inofensivos sem restrições. Caso não seja possível instaurar à escala europeia métodos, incluindo tecnologias, para a detecção de explosivos líquidos dentro do prazo previsto, a Comissão proporá o aditamento necessário às categorias de artigos que podem ser proibidos (parte B do anexo). Caso não seja possível instaurar os referidos métodos, incluindo as tecnologias, em certos aeroportos por razões objectivas, a Comissão especificará, em medidas de execução, as circunstâncias em que será autorizado o transporte de líquidos sem pôr em causa as normas de segurança.\n\n(7) As medidas previstas no presente regulamento são conformes com o parecer do Comité para a Segurança da Aviação Civil,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "50cc52ada8de0615": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento estabelece medidas gerais destinadas a complementar as normas de base comuns definidas no anexo ao Regulamento (CE) n.º 300/2008, tendo em vista:\n\na) autorizar os métodos de rastreio previstos na parte A do anexo;\n\nb) proibir as categorias de artigos previstas na parte B do anexo;\n\nc) estabelecer critérios para a concessão de acesso ao lado ar e às zonas restritas de segurança, conforme definidos na parte C do anexo;\n\nd) autorizar os métodos de inspecção de veículos, de controlo da segurança das aeronaves e de verificação da segurança das aeronaves previstos na parte D do anexo;\n\ne) estabelecer critérios para o reconhecimento da equivalência das normas de segurança dos países terceiros, conforme definidos na parte E do anexo;\n\nf) estabelecer as condições em que a carga e o correio serão rastreados ou submetidos a outros controlos de segurança e determinar o processo de aprovação ou designação dos agentes reconhecidos, dos expedidores conhecidos e dos expedidores avençados, conforme previsto na parte F do anexo;\n\ng) estabelecer as condições em que o correio e os materiais da transportadora aérea serão rastreados ou submetidos a outros controlos de segurança, previstas na parte G do anexo;\n\nh) estabelecer as condições em que as provisões de bordo e as provisões do aeroporto serão rastreadas ou submetidas a outros controlos de segurança e determinar o processo de aprovação ou designação dos fornecedores reconhecidos e dos fornecedores conhecidos, conforme previsto na parte H do anexo;\n\ni) estabelecer critérios para definir as partes críticas das zonas restritas de segurança, conforme definidos na parte I do anexo;\n\nj) estabelecer os critérios para o recrutamento das pessoas que irão aplicar ou irão ser responsáveis pela aplicação dos rastreios, dos controlos de acesso ou de outros controlos de segurança e para o recrutamento dos instrutores, assim como os métodos de formação dessas pessoas e das pessoas para as quais será emitido um cartão de identificação aeroportuária ou um cartão de identificação de tripulante, conforme previsto na parte J do anexo; e\n\nk) estabelecer as condições em que podem ser aplicados procedimentos de segurança especiais ou isenções dos controlos de segurança, previstas na parte K do anexo."
+  },
+  "326f6b06bf56ebc3": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. «Provisões do aeroporto», todos os artigos destinados a serem vendidos, utilizados ou disponibilizados nas zonas restritas de segurança de um aeroporto.\n\n2. «Provisões de bordo», todos os artigos excepto: a) bagagem de cabina; b) artigos transportados por outras pessoas que não os passageiros; e c) correio e materiais da transportadora aérea, destinados a serem levados para bordo de uma aeronave para serem utilizados, consumidos ou comprados pelos passageiros ou pela tripulação durante um voo.\n\na) bagagem de cabina;\n\nb) artigos transportados por outras pessoas que não os passageiros; e\n\nc) correio e materiais da transportadora aérea,\n\n3. «Fornecedor reconhecido de provisões de bordo», um fornecedor cujos procedimentos cumprem regras e normas de segurança comuns suficientes para permitir a entrega de provisões de bordo directamente à aeronave.\n\n4. «Fornecedor conhecido de provisões de bordo», um fornecedor cujos procedimentos cumprem regras e normas de segurança comuns suficientes para permitir a entrega de provisões de bordo a uma transportadora aérea ou a um fornecedor reconhecido, mas não directamente à aeronave.\n\n5. «Fornecedor conhecido de provisões do aeroporto», um fornecedor cujos procedimentos cumprem regras e normas de segurança comuns suficientes para permitir a entrega de provisões do aeroporto nas zonas restritas de segurança."
+  },
+  "ff49e66ba360ae7b": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento aplica-se a partir da data especificada nas regras de execução adoptadas de acordo com o procedimento referido no n.º 3 do artigo 4.º do Regulamento (CE) n.º 300/2008, que não poderá ser posterior a 29 de Abril de 2010.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 2 de Abril de 2009.\n\n***Pela Comissão***\n\n**Antonio TAJANI**\n\n***Vice-Presidente***\n\n---"
+  },
+  "7e241a9175b4c766": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/a77186fb-7773-465f-85c4-eebde6d0a00a.0018.03/DOC_1#ntc1-L_2009091PT.01000701-E0001) [JO L 97 de 9.4.2008, p. 72](http://publications.europa.eu/resource/oj/JOL_2008_097_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/a77186fb-7773-465f-85c4-eebde6d0a00a.0018.03/DOC_1#ntc2-L_2009091PT.01000701-E0002) [JO L 355 de 30.12.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_355_R_TOC)."
+  },
+  "9ce15e4a834d84d2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 2 de Abril de 2009\n\nque complementa as normas de base comuns para a protecção da aviação civil definidas no anexo ao Regulamento (CE) n.º 300/2008 do Parlamento Europeu e do Conselho\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 300/2008 do Parlamento Europeu e do Conselho, de 11 de Março de 2008, relativo ao estabelecimento de regras comuns no domínio da segurança da aviação civil, que revoga o Regulamento (CE) n.º 2320/2002 ([^1^](http://publications.europa.eu/resource/cellar/aabcbb97-bf8a-444c-b261-c9dfaa24ae79.0018.03/DOC_1#E0001)), nomeadamente o n.º 2 do artigo 4.º,\n\n(1) Nos termos do n.º 2 do artigo 4.º do Regulamento (CE) n.º 300/2008, a Comissão deve adoptar medidas gerais destinadas a alterar elementos não essenciais das normas de base para a protecção da aviação civil definidas no anexo a esse regulamento, complementando-as.\n\n(2) O n.º 3 do artigo 4.º do Regulamento (CE) n.º 300/2008 dispõe, por sua vez, que a Comissão deve adoptar um conjunto detalhado de medidas de execução das normas de base comuns para a protecção da aviação civil, definidas no anexo desse regulamento, conforme complementadas pelas medidas gerais adoptadas pela Comissão com base no n.º 2 do artigo 4.º\n\n(3) Devem, por conseguinte, ser adoptadas medidas gerais que complementem as normas de base comuns para a protecção da aviação civil nos domínios do rastreio, do controlo do acesso e outros controlos de segurança, dos artigos proibidos, do reconhecimento da equivalência por países terceiros, do recrutamento e da formação do pessoal, dos procedimentos especiais de segurança e das isenções dos controlos de segurança.\n\n(4) Estas medidas gerais são necessárias para estabelecer na União Europeia um nível de segurança na aviação civil equivalente ao exigido pelo Regulamento (CE) n.º 2320/2002 ([^2^](http://publications.europa.eu/resource/cellar/aabcbb97-bf8a-444c-b261-c9dfaa24ae79.0018.03/DOC_1#E0002)), que foi revogado pelo Regulamento (CE) n.º 300/2008.\n\n(5) De acordo com o artigo 24.º do Regulamento (CE) n.º 300/2008, o seu anexo aplica-se a partir da data a especificar nas normas de execução, mas o mais tardar 24 meses após a entrada em vigor do Regulamento (CE) n.º 300/2008. Por conseguinte, a aplicação das medidas gerais adoptadas em conformidade com o n.º 2 do artigo 4.º do Regulamento (CE) n.º 300/2008 deve ser adiada até à adopção das medidas de execução previstas no n.º 3 do artigo 4.º, mas não para além de 29 de Abril de 2010.\n\n(6) Devem ser instaurados nos aeroportos de toda União Europeia, com a maior brevidade possível e, o mais tardar, até 29 de Abril de 2010, métodos, incluindo tecnologias, para a detecção de explosivos líquidos, permitindo assim que os passageiros transportem líquidos inofensivos sem restrições. Caso não seja possível instaurar à escala europeia métodos, incluindo tecnologias, para a detecção de explosivos líquidos dentro do prazo previsto, a Comissão proporá o aditamento necessário às categorias de artigos que podem ser proibidos (parte B do anexo). Caso não seja possível instaurar os referidos métodos, incluindo as tecnologias, em certos aeroportos por razões objectivas, a Comissão especificará, em medidas de execução, as circunstâncias em que será autorizado o transporte de líquidos sem pôr em causa as normas de segurança.\n\n(7) As medidas previstas no presente regulamento são conformes com o parecer do Comité para a Segurança da Aviação Civil,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "e1ec13b1e0588f1f": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. «Provisões do aeroporto», todos os artigos destinados a serem vendidos, utilizados ou disponibilizados nas zonas restritas de segurança de um aeroporto.\n\n2. «Provisões de bordo», todos os artigos excepto:\n\na) bagagem de cabina;\n\nb) artigos transportados por outras pessoas que não os passageiros; e\n\nc) correio e materiais da transportadora aérea,\n\n3. «Fornecedor reconhecido de provisões de bordo», um fornecedor cujos procedimentos cumprem regras e normas de segurança comuns suficientes para permitir a entrega de provisões de bordo directamente à aeronave.\n\n4. «Fornecedor conhecido de provisões de bordo», um fornecedor cujos procedimentos cumprem regras e normas de segurança comuns suficientes para permitir a entrega de provisões de bordo a uma transportadora aérea ou a um fornecedor reconhecido, mas não directamente à aeronave.\n\n5. «Fornecedor conhecido de provisões do aeroporto», um fornecedor cujos procedimentos cumprem regras e normas de segurança comuns suficientes para permitir a entrega de provisões do aeroporto nas zonas restritas de segurança."
+  },
+  "0919266263c71365": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento aplica-se a partir da data especificada nas regras de execução adoptadas de acordo com o procedimento referido no n.º 3 do artigo 4.º do Regulamento (CE) n.º 300/2008, que não poderá ser posterior a 29 de Abril de 2010.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "35ec4a4f4d4f2478": {
+   "fragment_id": "PARTE A.",
+   "type": "divisao",
+   "heading": "PARTE A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A."
+  },
+  "d0d0d12554b567e0": {
+   "fragment_id": "Métodos de rastreio permitidos",
+   "type": "divisao",
+   "heading": "Métodos de rastreio permitidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Métodos de rastreio permitidos\n\nAs medidas de execução a adoptar em conformidade com o n.º 3 do artigo 4.º do Regulamento (CE) n.º 300/2008 podem autorizar a utilização dos seguintes métodos de rastreio, individualmente ou combinados, como métodos principais ou secundários e em condições definidas:\n\n1. Para o rastreio de pessoas:\n\na) revista manual;\n\nb) passagem por pórticos de detecção de metais (PDM);\n\nc) detector manual de metais (DMM);\n\nd) cães detectores de explosivos; e\n\ne) detector de vestígios de explosivos (DVE).\n\n2. Para o rastreio da bagagem de cabina, dos artigos transportados por outras pessoas que não os passageiros, do correio e dos materiais da própria transportadora aérea, excepto quando se destinem ao porão da aeronave, das provisões de bordo e das provisões do aeroporto:\n\na) revista manual;\n\nb) inspecção visual;\n\nc) equipamento de raios-X;\n\nd) sistemas de detecção de explosivos (SDE);\n\ne) cães detectores de explosivos; e\n\nf) detector de vestígios de explosivos (DVE).\n\na) prova ou teste cutâneo;\n\nb) inspecção visual;\n\nc) equipamento de raios-X;\n\nd) sistemas de detecção de explosivos (SDE);\n\ne) cães detectores de explosivos;\n\nf) detector de vestígios de explosivos (DVE);\n\ng) fitas de teste de reacções químicas; e\n\nh) *scanners* de líquidos engarrafados.\n\n3. Para o rastreio da bagagem de porão, da carga e do correio, assim como do correio e dos materiais da própria transportadora aérea que serão transportados no porão da aeronave:\n\na) revista manual;\n\nb) inspecção visual;\n\nc) equipamento de raios-X;\n\nd) sistemas de detecção de explosivos (SDE);\n\ne) cães detectores de explosivos;\n\nf) detector de vestígios de explosivos (DVE);\n\ng) câmara de simulação; e\n\nh) equipamento de detecção de metais.\n\nPara avaliar os métodos de rastreio que utilizem novas tecnologias não previstas à data de adopção do presente regulamento, as medidas de execução a adoptar nos termos do n.º 3 do artigo 4.º do Regulamento (CE) n.º 300/2008 podem permitir a utilização de outros métodos numa base experimental e por um período de tempo limitado, na condição de tais experiências não prejudicarem os níveis gerais de segurança."
+  },
+  "ab6f455447d43475": {
+   "fragment_id": "PARTE B.",
+   "type": "divisao",
+   "heading": "PARTE B.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B."
+  },
+  "8302b97c464bd1f2": {
+   "fragment_id": "Categorias de artigos que podem ser proibidos",
+   "type": "divisao",
+   "heading": "Categorias de artigos que podem ser proibidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Categorias de artigos que podem ser proibidos\n\nAs medidas de execução a adoptar em conformidade com o n.º 3 do artigo 4.º do Regulamento (CE) n.º 300/2008 podem proibir, em condições definidas, a introdução de qualquer ou de todas as categorias seguintes de artigos nas zonas restritas de segurança e a bordo de uma aeronave:\n\na) *pistolas, armas de fogo e outros dispositivos que disparem projécteis* — dispositivos capazes, ou aparentemente capazes, de serem utilizados para causar ferimentos graves através do disparo de um projéctil;\n\nb) *dispositivos neutralizantes* — dispositivos destinados especificamente a atordoar ou a imobilizar;\n\nc) *objectos pontiagudos ou com arestas afiadas* — objectos que, devido à sua ponta afiada ou às suas arestas cortantes, podem ser utilizados para causar ferimentos graves;\n\nd) *ferramentas de trabalho* — ferramentas que podem ser utilizadas para causar ferimentos graves ou para ameaçar a segurança da aeronave;\n\ne) *instrumentos contundentes* — objectos que podem causar ferimentos graves se utilizados para agredir alguém fisicamente; e\n\nf) *explosivos e substâncias e dispositivos incendiários* — materiais e dispositivos explosivos e incendiários que podem ou aparentam poder ser utilizados para causar ferimentos graves ou para ameaçar a segurança da aeronave."
+  },
+  "8505459324fad0f9": {
+   "fragment_id": "PARTE B1.",
+   "type": "divisao",
+   "heading": "PARTE B1.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B1."
+  },
+  "f725fef70aa39d05": {
+   "fragment_id": "Líquidos, aerossóis e géis",
+   "type": "divisao",
+   "heading": "Líquidos, aerossóis e géis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Líquidos, aerossóis e géis\n\nOs líquidos, aerossóis e géis podem ser transportados para zonas restritas de segurança e a bordo de uma aeronave, desde que sejam rastreados, ou ser dispensados de rastreio, em conformidade com os requisitos das medidas de execução adoptadas nos termos do artigo 4.º, n.º 3, do Regulamento (CE) n.º 300/2008.\n\n1. Até 29 de Abril de 2011, os líquidos, aerossóis e géis adquiridos num aeroporto de um país terceiro ou a bordo de uma aeronave de uma transportadora aérea não comunitária podem entrar em zonas restritas de segurança ou a bordo de uma aeronave, desde que o líquido esteja acondicionado numa embalagem conforme com as orientações recomendadas para os controlos de segurança da Organização da Aviação Civil Internacional e que a embalagem seja portadora de um comprovativo adequado de compra, nas últimas trinta e seis horas, numa zona do lado ar do aeroporto ou a bordo da aeronave. O rastreio será efectuado em conformidade com os requisitos das medidas de execução adoptadas nos termos do artigo 4.º, n.º 3, do Regulamento (CE) n.º 300/2008.\n\n2. Até 29 de Abril de 2013, todos os aeroportos devem rastrear os líquidos, aerossóis e géis em conformidade com os requisitos das medidas de execução adoptadas nos termos do artigo 4.º, n.º 3, do Regulamento (CE) n.º 300/2008.\n\n3. Os Estados-Membros devem garantir, em tempo oportuno para satisfazer os prazos previstos nos n.^os^ 1 e 2, o estabelecimento de todos os requisitos regulamentares que permitam a instauração de equipamento de rastreio de líquidos em conformidade com os requisitos das medidas de execução adoptadas, nos termos do artigo 4.º, n.º 3, do Regulamento (CE) n.º 300/2008.\n\nOs passageiros serão claramente informados dos aeroportos da UE em que são autorizados a transportar líquidos, aerossóis e géis para a zona restrita de segurança e a bordo das aeronaves e das eventuais condições associadas a esse transporte."
+  },
+  "4229dd166bac9c56": {
+   "fragment_id": "PARTE C.",
+   "type": "divisao",
+   "heading": "PARTE C.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE C."
+  },
+  "255438bb9ca455b6": {
+   "fragment_id": "Controlo do acesso: critérios para a concessão de acesso ao lado ar e às zonas restritas de segurança",
+   "type": "divisao",
+   "heading": "Controlo do acesso: critérios para a concessão de acesso ao lado ar e às zonas restritas de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Controlo do acesso: critérios para a concessão de acesso ao lado ar e às zonas restritas de segurança\n\nO acesso ao lado ar e às zonas restritas de segurança será concedido de acordo com os seguintes critérios:\n\n1. Apenas terão acesso ao lado ar as pessoas e os veículos que tenham uma razão legítima para lá estar.\n\n2. Apenas terão acesso às zonas restritas de segurança as pessoas e os veículos que tenham uma razão legítima para lá estar."
+  },
+  "589e232f0a6b4bd1": {
+   "fragment_id": "PARTE D.",
+   "type": "divisao",
+   "heading": "PARTE D.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE D."
+  },
+  "a196df0765e6b8f7": {
+   "fragment_id": "Métodos autorizados para a inspecção de veículos, para os controlos de segurança das aeronaves e para as verificações de segurança das aeronaves",
+   "type": "divisao",
+   "heading": "Métodos autorizados para a inspecção de veículos, para os controlos de segurança das aeronaves e para as verificações de segurança das aeronaves",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Métodos autorizados para a inspecção de veículos, para os controlos de segurança das aeronaves e para as verificações de segurança das aeronaves\n\nAs medidas de execução a adoptar em conformidade com o n.º 3 do artigo 4.º do Regulamento (CE) n.º 300/2008 podem autorizar a utilização dos seguintes métodos, individualmente ou combinados, como métodos principais ou secundários e em condições definidas, para a inspecção dos veículos, os controlos de segurança das aeronaves e as verificações de segurança das aeronaves:\n\na) revista manual;\n\nb) inspecção visual;\n\nc) cães detectores de explosivos; e\n\nd) detector de vestígios de explosivos (DVE).\n\nPara avaliar os métodos de inspecção que utilizem novas tecnologias não previstas à data de adopção do presente regulamento, as medidas de execução a adoptar em conformidade com o n.º 3 do artigo 4.º do Regulamento (CE) n.º 300/2008 podem permitir a utilização de outros métodos numa base experimental e por um período de tempo limitado, na condição de tais experiências não prejudicarem os níveis gerais de segurança."
+  },
+  "cb3025543219a690": {
+   "fragment_id": "PARTE E.",
+   "type": "divisao",
+   "heading": "PARTE E.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE E."
+  },
+  "6667315b701c29a9": {
+   "fragment_id": "Critérios para o reconhecimento da equivalência das normas de segurança de países terceiros",
+   "type": "divisao",
+   "heading": "Critérios para o reconhecimento da equivalência das normas de segurança de países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Critérios para o reconhecimento da equivalência das normas de segurança de países terceiros\n\nA Comissão reconhecerá a equivalência das normas de segurança de países terceiros de acordo com os seguintes critérios:\n\na) O país terceiro tem bons antecedentes de cooperação com a Comunidade e os seus Estados-Membros;\n\nb) A Comissão verificou que o país terceiro aplica satisfatoriamente as normas para a segurança da aviação, incluindo o controlo de qualidade; e\n\nc) A Comissão verificou que:\n\n— no que respeita aos passageiros e à bagagem de cabina, as medidas de segurança aplicadas são equivalentes às previstas nas secções 1, 3, 11 e 12 e nos pontos 4.1 e 4.2 do anexo ao Regulamento (CE) n.º 300/2008 e respectivos actos de execução,\n\n— no que respeita à bagagem de porão, as medidas de segurança aplicadas são equivalentes às previstas nas secções 1, 3, 5, 11 e 12 do anexo ao Regulamento (CE) n.º 300/2008 e respectivos actos de execução,\n\n— no que respeita à carga e ao correio, as medidas de segurança aplicadas são equivalentes às previstas nas secções 1, 3, 6, 11 e 12 do anexo ao Regulamento (CE) n.º 300/2008 e respectivos actos de execução, e/ou\n\n— no que respeita à segurança da aeronave, as medidas de segurança aplicadas são equivalentes às previstas nas secções 1, 3, 11 e 12 e nos pontos 4.1 e 4.2 do anexo ao Regulamento (CE) n.º 300/2008 e respectivos actos de execução."
+  },
+  "370cbdc6d2bde2b9": {
+   "fragment_id": "PARTE F.",
+   "type": "divisao",
+   "heading": "PARTE F.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE F."
+  },
+  "18e425af94b423eb": {
+   "fragment_id": "Carga e correio",
+   "type": "divisao",
+   "heading": "Carga e correio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Carga e correio"
+  },
+  "f74e9594eca50e18": {
+   "fragment_id": "1. Carga e correio: condições em que serão rastreados ou submetidos a outros controlos de segurança",
+   "type": "divisao",
+   "heading": "1. Carga e correio: condições em que serão rastreados ou submetidos a outros controlos de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Carga e correio: condições em que serão rastreados ou submetidos a outros controlos de segurança\n\nA carga e o correio a transportar numa aeronave serão submetidos a rastreio, excepto se:\n\na) a remessa tiver sido objecto de controlos de segurança por um agente reconhecido e protegida de interferências não autorizadas a partir do momento da realização desses controlos de segurança; ou\n\nb) a remessa tiver sido objecto de controlos de segurança por um expedidor conhecido e protegida de interferências não autorizadas a partir do momento da realização desses controlos de segurança; ou\n\nc) a remessa tiver sido objecto de controlos de segurança por um expedidor avençado, tiver sido protegida de interferências não autorizadas a partir do momento da realização desses controlos de segurança e a carga for transportada numa aeronave exclusivamente de carga ou o correio numa aeronave exclusivamente para transporte de correio; ou\n\nd) tiverem sido efectuados os controlos de segurança à carga e ao correio em transferência referidos no ponto 6.1.2 do anexo ao Regulamento (CE) n.º 300/2008."
+  },
+  "e3bf908ff6855e08": {
+   "fragment_id": "2. Carga e correio: processo de aprovação ou designação dos agentes reconhecidos, dos expedidores conhecidos e dos expedidores avençados",
+   "type": "divisao",
+   "heading": "2. Carga e correio: processo de aprovação ou designação dos agentes reconhecidos, dos expedidores conhecidos e dos expedidores avençados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Carga e correio: processo de aprovação ou designação dos agentes reconhecidos, dos expedidores conhecidos e dos expedidores avençados\n\nO processo de aprovação ou designação dos agentes reconhecidos, dos expedidores conhecidos e dos expedidores avençados será o seguinte:\n\n1. Os agentes reconhecidos serão aprovados pela autoridade competente.\n\n2. Os expedidores conhecidos serão aprovados pela autoridade competente.\n\n3. Os expedidores avençados serão designados por um agente reconhecido."
+  },
+  "4532ea162688779a": {
+   "fragment_id": "PARTE G.",
+   "type": "divisao",
+   "heading": "PARTE G.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE G."
+  },
+  "1d4bf80f4a2b836e": {
+   "fragment_id": "Correio e materiais da transportadora aérea: condições em que serão rastreados ou submetidos a outros controlos de segurança",
+   "type": "divisao",
+   "heading": "Correio e materiais da transportadora aérea: condições em que serão rastreados ou submetidos a outros controlos de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Correio e materiais da transportadora aérea: condições em que serão rastreados ou submetidos a outros controlos de segurança\n\nO correio e os materiais da transportadora aérea que sejam transportados no porão da aeronave serão rastreados como bagagem de porão ou sujeitos aos mesmos controlos de segurança que a carga e o correio.\n\nO correio e os materiais da transportadora aérea que sejam transportados em qualquer parte da aeronave que não o porão serão rastreados como bagagem de cabina."
+  },
+  "511718a57a7cd3e1": {
+   "fragment_id": "PARTE H.",
+   "type": "divisao",
+   "heading": "PARTE H.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE H."
+  },
+  "8e52111b24f50e93": {
+   "fragment_id": "Provisões de bordo e provisões do aeroporto",
+   "type": "divisao",
+   "heading": "Provisões de bordo e provisões do aeroporto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Provisões de bordo e provisões do aeroporto"
+  },
+  "1a077c1eb7a892a7": {
+   "fragment_id": "1. Provisões de bordo e provisões do aeroporto: condições em que serão rastreados ou submetidos a outros controlos de segurança",
+   "type": "divisao",
+   "heading": "1. Provisões de bordo e provisões do aeroporto: condições em que serão rastreados ou submetidos a outros controlos de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Provisões de bordo e provisões do aeroporto: condições em que serão rastreados ou submetidos a outros controlos de segurança\n\n1. As provisões de bordo a transportar numa aeronave serão submetidas a rastreio, excepto se:\n\na) tiverem sido efectuados controlos de segurança às provisões por uma transportadora aérea que as entrega à sua própria aeronave e as provisões tiverem sido protegidas contra interferências não autorizadas desde o momento em que esses controlos foram efectuados até à entrega na aeronave; ou\n\nb) tiverem sido efectuados controlos de segurança às provisões por um fornecedor reconhecido e as provisões tiverem sido protegidas contra interferências não autorizadas desde o momento em que esses controlos foram efectuados até à entrega na aeronave, ou, se aplicável, à transportadora aérea ou a outro fornecedor reconhecido; ou\n\nc) tiverem sido efectuados controlos de segurança às provisões por um fornecedor conhecido e as provisões tiverem sido protegidas contra interferências não autorizadas desde o momento em que esses controlos foram efectuados até à entrega à transportadora aérea ou ao fornecedor reconhecido.\n\n2. As provisões do aeroporto serão rastreadas antes de ser autorizada a sua entrada nas zonas restritas de segurança, excepto se tiverem sido objecto de controlos de segurança por um fornecedor conhecido e tiverem sido protegidas contra interferências não autorizadas desde o momento em que esses controlos foram efectuados até à sua chegada à zona restrita de segurança."
+  },
+  "9607c7401cbce35d": {
+   "fragment_id": "2. Provisões de bordo e provisões do aeroporto: processo de aprovação ou designação dos fornecedores reconhecidos e dos fornecedores conhecidos",
+   "type": "divisao",
+   "heading": "2. Provisões de bordo e provisões do aeroporto: processo de aprovação ou designação dos fornecedores reconhecidos e dos fornecedores conhecidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Provisões de bordo e provisões do aeroporto: processo de aprovação ou designação dos fornecedores reconhecidos e dos fornecedores conhecidos\n\n1. Os fornecedores reconhecidos de provisões de bordo serão aprovados pela autoridade competente até uma data que será fixada nas medidas de execução a adoptar em conformidade com n.º 3 do artigo 4.º do Regulamento (CE) n.º 300/2008.\n\n2. Os fornecedores conhecidos de provisões de bordo serão designados pelo operador ou pela entidade à qual são feitas as entregas.\n\n3. Os fornecedores conhecidos de provisões do aeroporto serão designados pelo operador do aeroporto."
+  },
+  "3e45e21d4fc7b031": {
+   "fragment_id": "PARTE I.",
+   "type": "divisao",
+   "heading": "PARTE I.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE I."
+  },
+  "ae047be8fe2b7566": {
+   "fragment_id": "Critérios para a definição das partes críticas das zonas restritas de segurança",
+   "type": "divisao",
+   "heading": "Critérios para a definição das partes críticas das zonas restritas de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Critérios para a definição das partes críticas das zonas restritas de segurança\n\nA definição das partes críticas das zonas restritas de segurança deve garantir que não haja contaminação dos passageiros que partem e que já foram rastreados (quer passageiros em início de viagem quer passageiros em transferência) e da sua bagagem de cabina, assim como da bagagem de porão já rastreada e pronta a partir (quer inicial quer em transferência)."
+  },
+  "ce212e6c1695a81c": {
+   "fragment_id": "PARTE J.",
+   "type": "divisao",
+   "heading": "PARTE J.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE J."
+  },
+  "090dd5713068af10": {
+   "fragment_id": "Recrutamento do pessoal e métodos de formação",
+   "type": "divisao",
+   "heading": "Recrutamento do pessoal e métodos de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Recrutamento do pessoal e métodos de formação"
+  },
+  "f6ef4f4b0929b200": {
+   "fragment_id": "1. Critérios para o recrutamento do pessoal",
+   "type": "divisao",
+   "heading": "1. Critérios para o recrutamento do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Critérios para o recrutamento do pessoal\n\nAs pessoas que irão aplicar ou que serão responsáveis pela aplicação dos rastreios, do controlo do acesso ou de outros controlos de segurança e os instrutores serão recrutados com base nos seguintes critérios:\n\na) devem ter sido sujeitos a uma verificação dos seus antecedentes ou a uma verificação dos antecedentes laborais, de acordo com as regras nacionais; e\n\nb) devem possuir as aptidões necessárias para desempenhar as tarefas que lhes são atribuídas."
+  },
+  "36f909ff9009eb95": {
+   "fragment_id": "2. Métodos de formação",
+   "type": "divisao",
+   "heading": "2. Métodos de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Métodos de formação\n\nAs medidas de execução a adoptar em conformidade com o n.º 3 do artigo 4.º do Regulamento (CE) n.º 300/2008 podem exigir que\n\na) as pessoas que irão aplicar ou que serão responsáveis pela aplicação dos rastreios, do controlo do acesso ou de outros controlos de segurança;\n\nb) os instrutores; e\n\nc) as pessoas detentoras de um cartão de identificação aeroportuária ou de um cartão de identificação de tripulante;\n\nrecebam formação teórica, prática e/ou em contexto real de trabalho."
+  },
+  "629ffa45dcd816d2": {
+   "fragment_id": "PARTE K.",
+   "type": "divisao",
+   "heading": "PARTE K.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE K."
+  },
+  "02237e63e0ecdeac": {
+   "fragment_id": "Condições em que podem ser aplicados procedimentos de segurança especiais ou isenções de controlos de segurança",
+   "type": "divisao",
+   "heading": "Condições em que podem ser aplicados procedimentos de segurança especiais ou isenções de controlos de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Condições em que podem ser aplicados procedimentos de segurança especiais ou isenções de controlos de segurança\n\nAs medidas de execução a adoptar em conformidade com o n.º 3 do artigo 4.º do Regulamento (CE) n.º 300/2008 podem prever a aplicação de procedimentos de segurança especiais ou de isenções de controlos de segurança, desde que:\n\na) o procedimento ou a isenção sejam estabelecidos pela Comissão ou pela autoridade competente; e\n\nb) existam razões objectivas que justifiquem o procedimento ou a isenção.\n\n---"
+  },
+  "02fc97abaaa09291": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/aabcbb97-bf8a-444c-b261-c9dfaa24ae79.0018.03/DOC_1#src.E0001)) JO L 97 de 9.4.2008, p. 72.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/aabcbb97-bf8a-444c-b261-c9dfaa24ae79.0018.03/DOC_1#src.E0002)) JO L 355 de 30.12.2002, p. 1."
+  },
+  "41f78f3e322c22b4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 2 de Abril de 2009\n\nque complementa as normas de base comuns para a protecção da aviação civil definidas no anexo ao Regulamento (CE) n.º 300/2008 do Parlamento Europeu e do Conselho\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 300/2008 do Parlamento Europeu e do Conselho, de 11 de Março de 2008, relativo ao estabelecimento de regras comuns no domínio da segurança da aviação civil, que revoga o Regulamento (CE) n.º 2320/2002 ([^1^](http://publications.europa.eu/resource/cellar/2e0c25d5-199b-429a-8148-a567cb21b9a5.0018.03/DOC_1#E0001)), nomeadamente o n.º 2 do artigo 4.º,\n\n(1) Nos termos do n.º 2 do artigo 4.º do Regulamento (CE) n.º 300/2008, a Comissão deve adoptar medidas gerais destinadas a alterar elementos não essenciais das normas de base para a protecção da aviação civil definidas no anexo a esse regulamento, complementando-as.\n\n(2) O n.º 3 do artigo 4.º do Regulamento (CE) n.º 300/2008 dispõe, por sua vez, que a Comissão deve adoptar um conjunto detalhado de medidas de execução das normas de base comuns para a protecção da aviação civil, definidas no anexo desse regulamento, conforme complementadas pelas medidas gerais adoptadas pela Comissão com base no n.º 2 do artigo 4.º\n\n(3) Devem, por conseguinte, ser adoptadas medidas gerais que complementem as normas de base comuns para a protecção da aviação civil nos domínios do rastreio, do controlo do acesso e outros controlos de segurança, dos artigos proibidos, do reconhecimento da equivalência por países terceiros, do recrutamento e da formação do pessoal, dos procedimentos especiais de segurança e das isenções dos controlos de segurança.\n\n(4) Estas medidas gerais são necessárias para estabelecer na União Europeia um nível de segurança na aviação civil equivalente ao exigido pelo Regulamento (CE) n.º 2320/2002 ([^2^](http://publications.europa.eu/resource/cellar/2e0c25d5-199b-429a-8148-a567cb21b9a5.0018.03/DOC_1#E0002)), que foi revogado pelo Regulamento (CE) n.º 300/2008.\n\n(5) De acordo com o artigo 24.º do Regulamento (CE) n.º 300/2008, o seu anexo aplica-se a partir da data a especificar nas normas de execução, mas o mais tardar 24 meses após a entrada em vigor do Regulamento (CE) n.º 300/2008. Por conseguinte, a aplicação das medidas gerais adoptadas em conformidade com o n.º 2 do artigo 4.º do Regulamento (CE) n.º 300/2008 deve ser adiada até à adopção das medidas de execução previstas no n.º 3 do artigo 4.º, mas não para além de 29 de Abril de 2010.\n\n(6) Devem ser instaurados nos aeroportos de toda União Europeia, com a maior brevidade possível e, o mais tardar, até 29 de Abril de 2010, métodos, incluindo tecnologias, para a detecção de explosivos líquidos, permitindo assim que os passageiros transportem líquidos inofensivos sem restrições. Caso não seja possível instaurar à escala europeia métodos, incluindo tecnologias, para a detecção de explosivos líquidos dentro do prazo previsto, a Comissão proporá o aditamento necessário às categorias de artigos que podem ser proibidos (parte B do anexo). Caso não seja possível instaurar os referidos métodos, incluindo as tecnologias, em certos aeroportos por razões objectivas, a Comissão especificará, em medidas de execução, as circunstâncias em que será autorizado o transporte de líquidos sem pôr em causa as normas de segurança.\n\n(7) As medidas previstas no presente regulamento são conformes com o parecer do Comité para a Segurança da Aviação Civil,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "918e944faa05792e": {
+   "fragment_id": "Líquidos, aerossóis e géis",
+   "type": "divisao",
+   "heading": "Líquidos, aerossóis e géis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Líquidos, aerossóis e géis\n\n1. Os líquidos, aerossóis e géis podem ser transportados para zonas restritas de segurança e a bordo de uma aeronave desde que sejam rastreados, ou ser dispensados de rastreio, em conformidade com as exigências das medidas de execução adoptadas nos termos do artigo 4.º, n.º 3, do Regulamento (CE) n.º 300/2008.\n\n2. O mais tardar a 29 de Abril de 2013, todos os aeroportos devem rastrear os líquidos, aerossóis e géis em conformidade com as exigências das medidas de execução adoptadas nos termos do artigo 4.º, n.º 3, do Regulamento (CE) n.º 300/2008.\n\n3. Os Estados-Membros devem garantir, em tempo oportuno para satisfazer o prazo previsto no n.º 2, o estabelecimento de todos os requisitos regulamentares que permitam a utilização de equipamento de rastreio de líquidos em conformidade com as exigências das medidas de execução adoptadas nos termos do artigo 4.º, n.º 3, do Regulamento (CE) n.º 300/2008.\n\n4. Os Estados-Membros podem, em qualquer momento, e antes de 29 de Abril de 2013, introduzir requisitos regulamentares de modo a que um ou todos os aeroportos procedam ao rastreio de líquidos, aerossóis e géis em conformidade com as exigências das medidas de execução adoptadas nos termos do artigo 4.º, n.º 3, do Regulamento (CE) n.º 300/2008. Tais requisitos regulamentares devem ser notificados à Comissão pelo Estado-Membro. Após recepção dessa notificação, a Comissão informará todos os outros Estados-Membros.\n\n5. Os passageiros devem ser claramente informados dos aeroportos da UE em que são autorizados a transportar líquidos, aerossóis e géis para a zona restrita de segurança e a bordo das aeronaves e das condições eventualmente associadas a esse transporte."
+  },
+  "8be3978a102ccc91": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/2e0c25d5-199b-429a-8148-a567cb21b9a5.0018.03/DOC_1#src.E0001)) JO L 97 de 9.4.2008, p. 72.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/2e0c25d5-199b-429a-8148-a567cb21b9a5.0018.03/DOC_1#src.E0002)) JO L 355 de 30.12.2002, p. 1."
+  },
+  "afcd1bacc1061e93": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 2 de Abril de 2009\n\nque complementa as normas de base comuns para a protecção da aviação civil definidas no anexo ao Regulamento (CE) n.º 300/2008 do Parlamento Europeu e do Conselho\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 300/2008 do Parlamento Europeu e do Conselho, de 11 de Março de 2008, relativo ao estabelecimento de regras comuns no domínio da segurança da aviação civil, que revoga o Regulamento (CE) n.º 2320/2002 ([^1^](http://publications.europa.eu/resource/cellar/48f7acdb-4926-4fa6-bc26-0011acaf0238.0018.03/DOC_1#E0001)), nomeadamente o n.º 2 do artigo 4.º,\n\n(1) Nos termos do n.º 2 do artigo 4.º do Regulamento (CE) n.º 300/2008, a Comissão deve adoptar medidas gerais destinadas a alterar elementos não essenciais das normas de base para a protecção da aviação civil definidas no anexo a esse regulamento, complementando-as.\n\n(2) O n.º 3 do artigo 4.º do Regulamento (CE) n.º 300/2008 dispõe, por sua vez, que a Comissão deve adoptar um conjunto detalhado de medidas de execução das normas de base comuns para a protecção da aviação civil, definidas no anexo desse regulamento, conforme complementadas pelas medidas gerais adoptadas pela Comissão com base no n.º 2 do artigo 4.º\n\n(3) Devem, por conseguinte, ser adoptadas medidas gerais que complementem as normas de base comuns para a protecção da aviação civil nos domínios do rastreio, do controlo do acesso e outros controlos de segurança, dos artigos proibidos, do reconhecimento da equivalência por países terceiros, do recrutamento e da formação do pessoal, dos procedimentos especiais de segurança e das isenções dos controlos de segurança.\n\n(4) Estas medidas gerais são necessárias para estabelecer na União Europeia um nível de segurança na aviação civil equivalente ao exigido pelo Regulamento (CE) n.º 2320/2002 ([^2^](http://publications.europa.eu/resource/cellar/48f7acdb-4926-4fa6-bc26-0011acaf0238.0018.03/DOC_1#E0002)), que foi revogado pelo Regulamento (CE) n.º 300/2008.\n\n(5) De acordo com o artigo 24.º do Regulamento (CE) n.º 300/2008, o seu anexo aplica-se a partir da data a especificar nas normas de execução, mas o mais tardar 24 meses após a entrada em vigor do Regulamento (CE) n.º 300/2008. Por conseguinte, a aplicação das medidas gerais adoptadas em conformidade com o n.º 2 do artigo 4.º do Regulamento (CE) n.º 300/2008 deve ser adiada até à adopção das medidas de execução previstas no n.º 3 do artigo 4.º, mas não para além de 29 de Abril de 2010.\n\n(6) Devem ser instaurados nos aeroportos de toda União Europeia, com a maior brevidade possível e, o mais tardar, até 29 de Abril de 2010, métodos, incluindo tecnologias, para a detecção de explosivos líquidos, permitindo assim que os passageiros transportem líquidos inofensivos sem restrições. Caso não seja possível instaurar à escala europeia métodos, incluindo tecnologias, para a detecção de explosivos líquidos dentro do prazo previsto, a Comissão proporá o aditamento necessário às categorias de artigos que podem ser proibidos (parte B do anexo). Caso não seja possível instaurar os referidos métodos, incluindo as tecnologias, em certos aeroportos por razões objectivas, a Comissão especificará, em medidas de execução, as circunstâncias em que será autorizado o transporte de líquidos sem pôr em causa as normas de segurança.\n\n(7) As medidas previstas no presente regulamento são conformes com o parecer do Comité para a Segurança da Aviação Civil,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "8a44d589842a9247": {
+   "fragment_id": "Métodos de rastreio permitidos",
+   "type": "divisao",
+   "heading": "Métodos de rastreio permitidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Métodos de rastreio permitidos\n\nAs medidas de execução a adoptar em conformidade com o n.º 3 do artigo 4.º do Regulamento (CE) n.º 300/2008 podem autorizar a utilização dos seguintes métodos de rastreio, individualmente ou combinados, como métodos principais ou secundários e em condições definidas:\n\n1. Para o rastreio de pessoas:\n\na) revista manual;\n\nb) passagem por pórticos de detecção de metais (PDM);\n\nc) detector manual de metais (DMM);\n\nd) cães detectores de explosivos; e\n\ne) detector de vestígios de explosivos (DVE);\n\nf) scâneres de segurança que não utilizem radiações ionizantes.\n\n2. Para o rastreio da bagagem de cabina, dos artigos transportados por outras pessoas que não os passageiros, do correio e dos materiais da própria transportadora aérea, excepto quando se destinem ao porão da aeronave, das provisões de bordo e das provisões do aeroporto:\n\na) revista manual;\n\nb) inspecção visual;\n\nc) equipamento de raios-X;\n\nd) sistemas de detecção de explosivos (SDE);\n\ne) cães detectores de explosivos; e\n\nf) detector de vestígios de explosivos (DVE).\n\na) prova ou teste cutâneo;\n\nb) inspecção visual;\n\nc) equipamento de raios-X;\n\nd) sistemas de detecção de explosivos (SDE);\n\ne) cães detectores de explosivos;\n\nf) detector de vestígios de explosivos (DVE);\n\ng) fitas de teste de reacções químicas; e\n\nh) *scanners* de líquidos engarrafados.\n\n3. Para o rastreio da bagagem de porão, da carga e do correio, assim como do correio e dos materiais da própria transportadora aérea que serão transportados no porão da aeronave:\n\na) revista manual;\n\nb) inspecção visual;\n\nc) equipamento de raios-X;\n\nd) sistemas de detecção de explosivos (SDE);\n\ne) cães detectores de explosivos;\n\nf) detector de vestígios de explosivos (DVE);\n\ng) câmara de simulação; e\n\nh) equipamento de detecção de metais.\n\nPara avaliar os métodos de rastreio que utilizem novas tecnologias não previstas à data de adopção do presente regulamento, as medidas de execução a adoptar nos termos do n.º 3 do artigo 4.º do Regulamento (CE) n.º 300/2008 podem permitir a utilização de outros métodos numa base experimental e por um período de tempo limitado, na condição de tais experiências não prejudicarem os níveis gerais de segurança."
+  },
+  "741a03db087f6e3e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/48f7acdb-4926-4fa6-bc26-0011acaf0238.0018.03/DOC_1#src.E0001)) JO L 97 de 9.4.2008, p. 72.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/48f7acdb-4926-4fa6-bc26-0011acaf0238.0018.03/DOC_1#src.E0002)) JO L 355 de 30.12.2002, p. 1."
+  },
+  "e5a1d7e133a6ada0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 2 de Abril de 2009\n\nque complementa as normas de base comuns para a protecção da aviação civil definidas no anexo ao Regulamento (CE) n.º 300/2008 do Parlamento Europeu e do Conselho\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 300/2008 do Parlamento Europeu e do Conselho, de 11 de Março de 2008, relativo ao estabelecimento de regras comuns no domínio da segurança da aviação civil, que revoga o Regulamento (CE) n.º 2320/2002 ([^1^](http://publications.europa.eu/resource/cellar/ce56949f-63a3-4b8b-b427-ae442b28c6e2.0018.03/DOC_1#E0001)), nomeadamente o n.º 2 do artigo 4.º,\n\n(1) Nos termos do n.º 2 do artigo 4.º do Regulamento (CE) n.º 300/2008, a Comissão deve adoptar medidas gerais destinadas a alterar elementos não essenciais das normas de base para a protecção da aviação civil definidas no anexo a esse regulamento, complementando-as.\n\n(2) O n.º 3 do artigo 4.º do Regulamento (CE) n.º 300/2008 dispõe, por sua vez, que a Comissão deve adoptar um conjunto detalhado de medidas de execução das normas de base comuns para a protecção da aviação civil, definidas no anexo desse regulamento, conforme complementadas pelas medidas gerais adoptadas pela Comissão com base no n.º 2 do artigo 4.º\n\n(3) Devem, por conseguinte, ser adoptadas medidas gerais que complementem as normas de base comuns para a protecção da aviação civil nos domínios do rastreio, do controlo do acesso e outros controlos de segurança, dos artigos proibidos, do reconhecimento da equivalência por países terceiros, do recrutamento e da formação do pessoal, dos procedimentos especiais de segurança e das isenções dos controlos de segurança.\n\n(4) Estas medidas gerais são necessárias para estabelecer na União Europeia um nível de segurança na aviação civil equivalente ao exigido pelo Regulamento (CE) n.º 2320/2002 ([^2^](http://publications.europa.eu/resource/cellar/ce56949f-63a3-4b8b-b427-ae442b28c6e2.0018.03/DOC_1#E0002)), que foi revogado pelo Regulamento (CE) n.º 300/2008.\n\n(5) De acordo com o artigo 24.º do Regulamento (CE) n.º 300/2008, o seu anexo aplica-se a partir da data a especificar nas normas de execução, mas o mais tardar 24 meses após a entrada em vigor do Regulamento (CE) n.º 300/2008. Por conseguinte, a aplicação das medidas gerais adoptadas em conformidade com o n.º 2 do artigo 4.º do Regulamento (CE) n.º 300/2008 deve ser adiada até à adopção das medidas de execução previstas no n.º 3 do artigo 4.º, mas não para além de 29 de Abril de 2010.\n\n(6) Devem ser instaurados nos aeroportos de toda União Europeia, com a maior brevidade possível e, o mais tardar, até 29 de Abril de 2010, métodos, incluindo tecnologias, para a detecção de explosivos líquidos, permitindo assim que os passageiros transportem líquidos inofensivos sem restrições. Caso não seja possível instaurar à escala europeia métodos, incluindo tecnologias, para a detecção de explosivos líquidos dentro do prazo previsto, a Comissão proporá o aditamento necessário às categorias de artigos que podem ser proibidos (parte B do anexo). Caso não seja possível instaurar os referidos métodos, incluindo as tecnologias, em certos aeroportos por razões objectivas, a Comissão especificará, em medidas de execução, as circunstâncias em que será autorizado o transporte de líquidos sem pôr em causa as normas de segurança.\n\n(7) As medidas previstas no presente regulamento são conformes com o parecer do Comité para a Segurança da Aviação Civil,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "e3dbfb2443aa26f5": {
+   "fragment_id": "Métodos de rastreio permitidos",
+   "type": "divisao",
+   "heading": "Métodos de rastreio permitidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Métodos de rastreio permitidos\n\nAs medidas de execução a adoptar em conformidade com o n.º 3 do artigo 4.º do Regulamento (CE) n.º 300/2008 podem autorizar a utilização dos seguintes métodos de rastreio, individualmente ou combinados, como métodos principais ou secundários e em condições definidas:\n\n1. Para o rastreio de pessoas:\n\na) revista manual;\n\nb) passagem por pórticos de detecção de metais (PDM);\n\nc) detector manual de metais (DMM);\n\nd) cães detectores de explosivos; e\n\ne) detector de vestígios de explosivos (DVE);\n\nf) scâneres de segurança que não utilizem radiações ionizantes.\n\n2. Para o rastreio da bagagem de cabina, dos artigos transportados por outras pessoas que não os passageiros, do correio e dos materiais da própria transportadora aérea, exceto quando se destinem ao porão da aeronave, das provisões de bordo e das provisões do aeroporto:\n\na) revista manual;\n\nb) inspeção visual;\n\nc) equipamento de raios-X;\n\nd) sistemas de deteção de explosivos (SDE);\n\ne) cães detetores de explosivos;\n\nf) detetor de vestígios de explosivos (DVE); e\n\ng) sistemas de deteção de explosivos líquidos (SDEL).\n\n3. Para o rastreio da bagagem de porão, da carga e do correio, assim como do correio e dos materiais da própria transportadora aérea que serão transportados no porão da aeronave:\n\na) revista manual;\n\nb) inspecção visual;\n\nc) equipamento de raios-X;\n\nd) sistemas de detecção de explosivos (SDE);\n\ne) cães detectores de explosivos;\n\nf) detector de vestígios de explosivos (DVE);\n\ng) câmara de simulação; e\n\nh) equipamento de detecção de metais.\n\nPara avaliar os métodos de rastreio que utilizem novas tecnologias não previstas à data de adopção do presente regulamento, as medidas de execução a adoptar nos termos do n.º 3 do artigo 4.º do Regulamento (CE) n.º 300/2008 podem permitir a utilização de outros métodos numa base experimental e por um período de tempo limitado, na condição de tais experiências não prejudicarem os níveis gerais de segurança."
+  },
+  "553ab6795e46485c": {
+   "fragment_id": "Líquidos, aerossóis e géis",
+   "type": "divisao",
+   "heading": "Líquidos, aerossóis e géis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Líquidos, aerossóis e géis\n\nOs líquidos, aerossóis e géis podem ser transportados para zonas restritas de segurança, na condição de serem rastreados ou de estarem dispensados de rastreio, em conformidade com os requisitos das medidas de execução adotadas nos termos do artigo 4.º, n.º 3, do Regulamento (CE) n.º 300/2008."
+  },
+  "ea3c7e62b7be3026": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ce56949f-63a3-4b8b-b427-ae442b28c6e2.0018.03/DOC_1#src.E0001)) JO L 97 de 9.4.2008, p. 72.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ce56949f-63a3-4b8b-b427-ae442b28c6e2.0018.03/DOC_1#src.E0002)) JO L 355 de 30.12.2002, p. 1."
+  }
+ }
+}

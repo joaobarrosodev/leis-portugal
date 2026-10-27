@@ -1,0 +1,339 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997R0322:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997R0322-20090401",
+ "dre_path": null,
+ "source_lastmod": "2009-04-01",
+ "versions": [
+  {
+   "date": "1997-02-22",
+   "future": false,
+   "celex": "31997R0322",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "61b16812144fa0a0",
+    "437606caefe14e3c",
+    "c99c848273270d92",
+    "d40563c69ad26c53",
+    "26d90022eb99f70a",
+    "d4d97142b1eb1822",
+    "457130a562b2ffc1",
+    "97862c193613c2df",
+    "008c05161663d4f7",
+    "4b7031b7dd591a2d",
+    "389ef68897ce43df",
+    "5d3c6363e6ee2a6b",
+    "911a2f9ced380e2f",
+    "4c2fb92075eeef15",
+    "49081119d0b34f63",
+    "b75ef902ae9f198f",
+    "e3ac04b68d98e2f8",
+    "0413a43b957baf7a",
+    "e6059c1fc4081b8e",
+    "bef72b9bda39ed64",
+    "2b42c149d6b42ef2",
+    "9d551d062239755c",
+    "a4ee1227d87568a6",
+    "db12d36bd7942864",
+    "f9ec0d62360d00c3",
+    "757c3379290b66c6",
+    "ab2e83f9dc2e3530",
+    "c6976736c8dbba4c",
+    "460bcc0409818dfd",
+    "47389f8659229fc7"
+   ]
+  },
+  {
+   "date": "2009-04-01",
+   "future": false,
+   "celex": "01997R0322-20090401",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I — Disposições gerais",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime CAPÍTULO II — Programa estatístico comunitário e respectiva execução",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime CAPÍTULO III — Princípios",
+    "Suprime Artigo 10º",
+    "Suprime CAPÍTULO IV — Divulgação",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime CAPÍTULO V — Segredo estatístico",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º",
+    "Suprime Artigo 18º",
+    "Suprime CAPÍTULO VI — Disposições finais",
+    "Suprime Artigo 19º",
+    "Suprime Artigo 20º",
+    "Suprime Artigo 21º",
+    "Suprime Artigo 22º",
+    "Suprime Artigo 23º"
+   ],
+   "fragments": [
+    "57139dae7413081c"
+   ]
+  }
+ ],
+ "fragments": {
+  "61b16812144fa0a0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 322/97 do Conselho de 17 de Fevereiro de 1997 relativo às estatísticas comunitárias** *Jornal Oficial nº L 052 de 22/02/1997 p. 0001 - 0007*\n\nREGULAMENTO (CE) Nº 322/97 DO CONSELHO de 17 de Fevereiro de 1997 relativo às estatísticas comunitárias\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 213º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nTendo em conta o parecer do Instituto Monetário Europeu (4),\n\n(1) Considerando que, para o desempenho das funções que lhe são confiadas pelo Tratado para garantir o bom funcionamento e desenvolvimento do mercado comum, a Comissão necessita de recolher toda a informação útil;\n\n(2) Considerando que, em particular para a formulação, aplicação, acompanhamento e avaliação das políticas previstas no Tratado, a Comunidade deve poder apoiar as suas decisões em estatísticas actualizadas, fiáveis, adequadas e comparáveis entre os Estados-membros;\n\n(3) Considerando que, para assegurar a viabilidade, coerência e comparabilidade das estatísticas comunitárias, se deve reforçar a colaboração e a coordenação entre as autoridades que, a nível nacional e comunitário, contribuem para a produção dessas informações; que o presente regulamento contribui para a criação de um sistema estatístico comunitário;\n\n(4) Considerando que as referidas autoridades devem assegurar a maior imparcialidade e profissionalismo na produção das estatísticas, respeitando os mesmos princípios de comportamento e de ética profissional;\n\n(5) Considerando que em 14 de Abril de 1994 a Comissão de Estatística da ONU aprovou os princípios fundamentais das estatísticas oficiais;\n\n(6) Considerando que, para preparar e realizar as acções estatísticas comunitárias prioritárias, é necessário aplicar programas estatísticos, que tenham em conta os recursos disponíveis, tanto a nível nacional como comunitário;\n\n(7) Considerando que a elaboração do programa estatístico comunitário a adoptar pelo Conselho e dos programas de trabalho anuais a adoptar pela Comissão exigem uma colaboração particularmente estreita no Comité do programa estatístico, instituído pela Decisão 89/382/CEE, Euratom (5);\n\n(8) Considerando que o presente regulamento se destina a criar um enquadramento normativo para produção das estatísticas comunitárias; que importa planificar a produção destas a qual será detalhada em acções estatísticas específicas;\n\n(9) Considerando que o presente regulamento define a responsabilidade das autoridades nacionais e da autoridade comunitária em matéria de produção de estatísticas comunitárias de acordo com o princípio da subsidiariedade definido no artigo 3ºB do Tratado;\n\n(10) Considerando que, na preparação dos programas estatísticos, os comités instituídos pelo Conselho devem exercer as funções que lhes foram atribuídas nos domínios da sua competência;\n\n(11) Considerando que têm de ser definidos os métodos e condições de execução do programa estatístico comunitário, mediante acções estatísticas específicas;\n\n(12) Considerando que a divulgação se integra no processo de produção das estatísticas comunitárias;\n\n(13) Considerando que, a fim de ganhar e manter a confiança dos responsáveis pelo fornecimento dessa informação, é importante proteger os dados confidenciais que as autoridades estatísticas nacionais e comunitárias devem coligir para a produção das estatísticas comunitárias e que a confidencialidade dos dados estatísticos deve satisfazer o mesmo conjunto de princípios em todos os Estados-membros;\n\n(14) Considerando que, para o efeito, é necessário estabelecer uma definição comum de dados confidenciais, a utilizar em relação à produção das estatísticas comunitárias;\n\n(15) Considerando que essa definição deverá ter em conta que os dados obtidos de fontes acessíveis ao público são considerados confidenciais por algumas autoridades nacionais, nos termos das respectivas legislações;\n\n(16) Considerando que as regras específicas do processamento de dados no contexto do programa estatístico comunitário não prejudicarão o disposto na Directiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de Outubro de 1995, relativa à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados (6);\n\n(17) Considerando que o Tratado conferiu ao Instituto Monetário Europeu determinadas responsabilidades estatísticas, o qual as deve exercer sem pedir nem receber instruções de instituições ou entidades comunitárias, de qualquer dos Governos dos Estados-membros, nem de qualquer outra entidade; que é importante garantir uma coordenação adequada entre as tarefas das entidades que, a nível nacional e comunitário, contribuem para a produção das estatísticas comunitárias e as funções do Instituto Monetário Europeu;\n\n(18) Considerando que os bancos centrais nacionais deverão, o mais tardar até à data de constituição do Sistema Europeu de Bancos Centrais, tornar-se independentes das instituições e órgãos comunitários, dos Governos dos Estados-membros e de quaisquer outras entidades; que, durante a fase II da União Económica e Monetária, os Estados-membros deverão iniciar e concluir o processo que assegurará a independência dos bancos centrais nacionais;\n\n(19) Considerando que a Comissão consultou o Comité do programa estatístico, o Comité das estatísticas monetárias, financeiras e de balanças de pagamentos, instituído pela Decisão 91/115/CEE (7), e o Comité consultivo europeu da informação estatística nos domínios económico e social, instituído pela Decisão 91/116/CEE (8),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "437606caefe14e3c": {
+   "fragment_id": "CAPÍTULO I — Disposições gerais",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "c99c848273270d92": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nO presente regulamento tem por objectivo estabelecer um quadro normativo para organizar de forma sistemática e programada a produção de estatísticas comunitárias, com vista à formulação, aplicação, acompanhamento e avaliação das políticas comunitárias.\n\nAs autoridades nacionais e a autoridade comunitária serão responsáveis, respectivamente a nível nacional e a nível comunitário, pela produção de estatísticas comunitárias com observância do princípio da subsidiariedade.\n\nA fim de garantir a comparabilidade dos resultados, as estatísticas comunitárias serão produzidas com base em normas uniformes e, em casos específicos devidamente justificados, em métodos harmonizados."
+  },
+  "d40563c69ad26c53": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nPara efeitos do presente regulamento, entende-se por:\n\n- «estatísticas comunitárias»: informações quantitativas, agrupadas e representativas, extraídas da recolha e do tratamento sistemático de dados, produzidas pelas autoridades nacionais e pela autoridade comunitária no âmbito da execução do programa estatístico comunitário, de acordo com o disposto no nº 2 do artigo 3º,\n\n- «produção de estatísticas»: o processo que abrange todas as actividades necessárias à recolha, armazenagem, processamento, compilação, análise e divulgação da informação estatística,\n\n- «autoridades nacionais»: os institutos nacionais de estatística e as outras instâncias de cada Estado-membro, encarregues da produção de estatísticas comunitárias,\n\n- «autoridade comunitária»: o serviço da Comissão responsável pela execução das tarefas que lhe incumbem no domínio da produção de estatísticas comunitárias (Eurostat)."
+  },
+  "26d90022eb99f70a": {
+   "fragment_id": "CAPÍTULO II — Programa estatístico comunitário e respectiva execução",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — Programa estatístico comunitário e respectiva execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Programa estatístico comunitário e respectiva execução"
+  },
+  "d4d97142b1eb1822": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. O Conselho adoptará, de acordo com as disposições pertinentes do Tratado, um programa estatístico comunitário que definirá as orientações, os principais domínios e os objectivos das acções planeadas para um período não superior a cinco anos.\n\nO programa estatístico comunitário constituirá o quadro de referência da produção de todas as estatísticas comunitárias, que, se for necessário, poderá ser actualizado.\n\nNo final de um período abrangido pelo programa, a Comissão elaborará um relatório sobre a sua execução.\n\nA Comissão submeterá as linhas gerais que devem presidir à elaboração do programa estatístico comunitário ao exame prévio do Comité do programa estatístico e, no âmbito das respectivas competências, do Comité consultivo europeu da informação estatística nos domínios económico e social e do Comité de estatísticas monetárias, financeiras e de balanças de pagamentos.\n\n2. O programa estatístico comunitário referido no nº 1 será executado mediante acções estatísticas específicas. Essas acções serão decididas:\n\na) Quer pelo Conselho, de acordo com as disposições do Tratado;\n\nb) Quer pela Comissão, nas condições previstas no artigo 6º e de acordo com o procedimento previsto no artigo 19º;\n\nc) Quer ainda mediante acordo entre as autoridades nacionais e a autoridade comunitária, no âmbito das respectivas competências.\n\n3. Anualmente, antes do fim de Maio, a Comissão submeterá o seu programa de trabalho para o ano seguinte à análise do Comité do programa estatístico. Nesse programa, especificará, nomeadamente:\n\n- as acções que considera prioritárias, tendo em conta as limitações financeiras quer no plano nacional quer no plano comunitário,\n\n- os procedimentos e eventuais instrumentos jurídicos por ela previstos para a execução do programa.\n\nA Comissão terá na máxima conta as observações do Comité do programa estatístico e tomará as medidas que considerar mais adequadas."
+  },
+  "457130a562b2ffc1": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nNas iniciativas relativas às acções estatísticas específicas previstas no nº 2, alíneas a) e b), do artigo 3º, a Comissão deverá indicar:\n\n- as razões que justificam a acção prevista, nomeadamente à luz dos objectivos da política comunitária em questão,\n\n- os objectivos precisos da acção e uma avaliação dos resultados esperados,\n\n- as modalidades de realização da acção, a sua duração e o papel das autoridades nacionais e comunitária,\n\n- a função dos comités especializados competentes na matéria,\n\n- os meios através dos quais será reduzido ao mínimo o trabalho exigido aos inquiridos,\n\n- uma análise custo-eficácia que tenha em conta os encargos financeiros da acção tanto para a Comunidade como para os Estados-membros,\n\n- as recomendações estatísticas internacionais a respeitar nos domínios tratados."
+  },
+  "97862c193613c2df": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nOs actos adoptados pelo Conselho ou pela Comissão nos casos referidos no nº 2, alíneas a) e b), do artigo 3º deverão definir quais os elementos necessários para obter o nível de qualidade de comparabilidade exigido em matéria de estatísticas comunitárias."
+  },
+  "008c05161663d4f7": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nAs acções estatísticas específicas previstas no nº 2, alínea b), do artigo 3º poderão ser aprovadas pela Comissão, desde que preencham todas as condições seguintes:\n\n- a duração da acção não deverá exceder um ano,\n\n- os dados a recolher deverão estar já disponíveis ou acessíveis junto das autoridades nacionais competentes ou, em casos excepcionais, poder ser recolhidos directamente,\n\n- todos os custos adicionais a nível nacional gerados pela acção deverão ser imputados à Comissão."
+  },
+  "4b7031b7dd591a2d": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nSempre que as estatísticas comunitárias resultem de um acordo entre as autoridades nacionais e a autoridade comunitária - como se refere no nº 2, alínea c), do artigo 3º - não decorrerá daí qualquer obrigação para os inquiridos, se a mesma não estiver prevista na legislação nacional."
+  },
+  "389ef68897ce43df": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nA realização das acções estatísticas específicas incumbirá às autoridades nacionais, salvo disposição em contrário num acto jurídico do Conselho. Caso as autoridades nacionais não cumpram essa tarefa, as acções estatísticas específicas poderão ser realizadas pela autoridade comunitária, com o acordo explícito da autoridade nacional em questão."
+  },
+  "5d3c6363e6ee2a6b": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nPara garantir a coerência necessária à produção de estatísticas que preencham os respectivos requisitos de informação, a Comissão cooperará estreitamente com o Instituto Monetário Europeu, tendo na devida conta os princípios definidos no artigo 10º O Comité de estatísticas monetárias, financeiras e de balança de pagamentos será associado a esta cooperação, nos limites da sua competência.\n\nEmbora o Instituto Monetário Europeu e os bancos centrais nacionais não participem na produção de estatísticas comunitárias, por analogia com o disposto no nº 2, alínea c), do artigo 3º, mediante acordo entre um banco central nacional e a autoridade comunitária nas respectivas esferas de competência e sem prejuízo das medidas acordadas a nível nacional entre o banco central nacional e a autoridade nacional, as autoridades nacionais e a autoridade comunitária poderão, na produção de estatísticas comunitárias, utilizar, directa ou indirectamente, dados produzidos por esse banco central."
+  },
+  "911a2f9ced380e2f": {
+   "fragment_id": "CAPÍTULO III — Princípios",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Princípios"
+  },
+  "4c2fb92075eeef15": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nA fim de assegurar a máxima qualidade, não só do ponto de vista deontológico como também profissional, as estatísticas comunitárias deverão ser regidas pelos princípios de imparcialidade, fiabilidade, pertinência, relação custo/eficácia, segredo estatístico e transparência.\n\nOs princípios a que se refere o parágrafo anterior são assim definidos:\n\nimparcialidade: modo objectivo e isento de produzir estatísticas comunitárias, livre da influência de grupos políticos ou de quaisquer outros grupos de pressão, nomeadamente no que diz respeito à escolha das técnicas, definições e metodologias que melhor se adaptem à consecução dos objectivos estabelecidos, e que implica a disponibilização, no mais curto prazo, das estatísticas a todos os utentes (instituições comunitárias, Governos, agentes sociais e económicos, meios académicos e público em geral),\n\nfiabilidade: característica das estatísticas comunitárias de reflectirem o mais fielmente possível a realidade que se destinam a representar e que implica a utilização de critérios científicos para a selecção de fontes, métodos e processos. Toda a informação relativa à cobertura, metodologia, processos e fontes contribuirá também para aumentar a fiabilidade dos dados,\n\npertinência: qualidade das estatísticas produzidas em resposta a necessidades claramente definidas segundo objectivos comunitários e em função dos quais foram determinados os seus âmbitos de incidência, oportunidade e escala. Para serem pertinentes, as estatísticas devem sempre acompanhar a evolução das situações demográfica, económica, social e ambiental, devendo os dados recolhidos circunscrever-se apenas ao necessário para a obtenção dos resultados desejados e ser posta de parte a produção de estatísticas comunitárias que tiverem perdido interesse para os objectivos da Comunidade,\n\nrelação custo/eficácia: utilização optimizada de todos os recursos disponíveis, máxima redução do trabalho dos inquiridos e proporcionalidade entre o volume de trabalho e os custos exigidos pela produção de estatísticas, por um lado, e importância dos resultados-benefícios pretendidos, por outro,\n\nsegredo estatístico: protecção de dados relacionados com unidades estatísticas específicas, obtidos directamente para fins estatísticos ou indirectamente a partir de fontes administrativas ou outras, contra qualquer violação do direito ao segredo e que implica a prevenção da utilização não estatística ou da divulgação não autorizada dos dados obtidos,\n\ntransparência: direito dos inquiridos a serem informados do fundamento jurídico e dos fins com que os dados são pedidos, bem como das medidas de protecção adoptadas. As autoridades responsáveis pela recolha das estatísticas comunitárias tomarão todas as medidas para fornecer essa informação."
+  },
+  "49081119d0b34f63": {
+   "fragment_id": "CAPÍTULO IV — Divulgação",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — Divulgação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Divulgação"
+  },
+  "b75ef902ae9f198f": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\n1. Por «divulgação» entende-se a acção de tornar as estatísticas comunitárias acessíveis aos utilizadores.\n\n2. A divulgação deve ser realizada por forma a tornar fácil e imparcial o acesso às estatísticas comunitárias em toda a Comunidade.\n\n3. A divulgação das estatísticas comunitárias incumbe à autoridade comunitária e às autoridades nacionais dentro das respectivas esferas de competência."
+  },
+  "e3ac04b68d98e2f8": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nOs resultados estatísticos a nível comunitário devem ser divulgados com frequência igual à da transmissão à autoridade comunitária dos resultados disponíveis a nível nacional e sempre que possível - desde que isso não comprometa a qualidade a nível comunitário - antes de terminado o prazo para a próxima transmissão dos resultados nacionais à autoridade comunitária."
+  },
+  "0413a43b957baf7a": {
+   "fragment_id": "CAPÍTULO V — Segredo estatístico",
+   "type": "divisao",
+   "heading": "CAPÍTULO V — Segredo estatístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Segredo estatístico"
+  },
+  "e6059c1fc4081b8e": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n1. Os dados utilizados pelas autoridades nacionais e pela autoridade comunitária para a produção de estatísticas comunitárias devem ser considerados confidenciais sempre que permitam a identificação directa ou indirecta de unidades estatísticas, revelando assim informações individuais.\n\nPara determinar se uma unidade estatística pode ou não ser identificada, devem ser considerados todos os meios que possam ser razoavelmente utilizados por terceiros para a identificar.\n\n2. Em derrogação ao disposto no número precedente, os dados obtidos a partir de fontes acessíveis ao público e que as autoridades nacionais mantenham acessíveis ao público nos termos da legislação nacional não devem ser considerados confidenciais."
+  },
+  "bef72b9bda39ed64": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nÉ permitida a transmissão de dados confidenciais entre autoridades nacionais e entre estas e a autoridade comunitária que não permitam a identificação directa na medida em que for necessária à produção de estatísticas comunitárias específicas. Qualquer outra transmissão de dados deve ser expressamente autorizada pela autoridade nacional que recolheu os dados."
+  },
+  "2b42c149d6b42ef2": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nOs dados confidenciais obtidos exclusivamente para a produção de estatísticas comunitárias devem ser utilizados pelas autoridades nacionais e comunitária exclusivamente para fins estatísticos, a menos que os inquiridos tenham inequivocamente autorizado a sua utilização para outros fins."
+  },
+  "9d551d062239755c": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\n1. A fim de facilitar o trabalho dos inquiridos, e sob reserva do disposto no nº 2, as autoridades nacionais e a autoridade comunitária terão acesso às fontes de dados administrativos nas áreas de actividade das respectivas administrações públicas, na medida em que esses dados sejam necessários para a produção de estatísticas comunitárias.\n\n2. A regulamentação prática, bem como os limites e condições necessários para permitir um acesso eficaz serão determinados, em caso de necessidade, pelos Estados-membros e pela Comissão no âmbito das respectivas esferas de competência.\n\n3. A utilização de dados confidenciais obtidos de fontes administrativas ou outras pelas autoridades nacionais ou pela autoridade comunitária com vista à produção de estatísticas comunitárias não prejudica a utilização desses dados para os fins para que foram inicialmente coligidos."
+  },
+  "a4ee1227d87568a6": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\n1. O acesso, para fins científicos, aos dados confidenciais obtidos para a elaboração de estatísticas comunitárias pode ser concedido pela autoridade nacional responsável pela sua produção, se o nível de protecção vigente no país de origem e, caso se aplique, no país de utilização for garantido em conformidade com as medidas estabelecidas no artigo 18º\n\n2. A autoridade comunitária pode conceder o acesso, para fins científicos, aos dados confidenciais que lhe tenham sido transmitidos nos termos do artigo 14º, caso a autoridade nacional que tiver fornecido os dados solicitados tiver expressamente autorizado a sua utilização para esse efeito."
+  },
+  "db12d36bd7942864": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\n1. Serão tomadas, aos níveis nacional e comunitário, medidas regulamentares, administrativas, técnicas e organizativas necessárias para assegurar a protecção física e lógica dos dados confidenciais e evitar qualquer risco de divulgação ilícita ou de utilização para outros fins não estatísticos, aquando da divulgação das estatísticas comunitárias.\n\n2. Ficam sujeitos ao cumprimento desta disposição, mesmo após a cessação de funções, todos os responsáveis e outros funcionários das autoridades estatísticas nacionais e comunitária que tenham acesso a dados sujeitos à legislação comunitária que imponha a obrigação do segredo estatístico."
+  },
+  "f9ec0d62360d00c3": {
+   "fragment_id": "CAPÍTULO VI — Disposições finais",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Disposições finais"
+  },
+  "757c3379290b66c6": {
+   "fragment_id": "Artigo 19º",
+   "type": "artigo",
+   "heading": "Artigo 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º\n\n1. No caso previsto no nº 2, alínea b), do artigo 3º, a Comissão será assistida pelo Comité do programa estatístico.\n\n2. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer será emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presente não participa na votação.\n\n3. a) A Comissão adoptará as medidas previstas desde que sejam conformes com o parecer do comité.\n\nb) Se as medidas projectadas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este último ainda não tiver deliberado, a Comissão adoptará as medidas propostas."
+  },
+  "ab2e83f9dc2e3530": {
+   "fragment_id": "Artigo 20º",
+   "type": "artigo",
+   "heading": "Artigo 20º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20º\n\n1. Para efeitos da adopção das medidas necessárias à execução do disposto no capítulo V, em especial as previstas para garantir que tanto as autoridades nacionais como a comunitária apliquem os mesmos princípios e normas mínimas para evitar a revelação de dados estatísticos comunitários confidenciais e as condições que regem o acesso para fins científicos, em conformidade com o nº 2 do artigo 17º, a dados confidenciais na posse da autoridade comunitária, a Comissão será assistida pelo Comité do segredo estatístico, criado pelo artigo 7º do Regulamento (Euratom, CEE) nº 1588/90 do Conselho, de 11 de Junho de 1990, relativo à transmissão de informações abrangidas pelo segredo estatístico ao Serviço de Estatística das Comunidades Europeias (9).\n\n2. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer será emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presente não participa na votação.\n\n3. a) A Comissão adoptará medidas que são imediatamente aplicáveis.\n\nb) Todavia, se não forem conformes com o parecer emitido pelo comité, essas medidas serão imediatamente comunicadas pela Comissão ao Conselho.\n\nNesse caso, a Comissão diferirá a aplicação das medidas que aprovou por um período de três meses a contar da data da comunicação ao Conselho.\n\nO Conselho, deliberando por maioria qualificada, pode tomar uma decisão diferente no prazo previsto no parágrafo anterior."
+  },
+  "c6976736c8dbba4c": {
+   "fragment_id": "Artigo 21º",
+   "type": "artigo",
+   "heading": "Artigo 21º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21º\n\n1. O presente regulamento aplica-se sem prejuízo do disposto na Directiva 95/46/CE.\n\n2. O nº 1 do artigo 2º do Regulamento (Euratom, CEE) nº 1588/90 passa a ter a seguinte redacção:\n\n«1. Dados estatísticos confidenciais: os definidos no artigo 13º do Regulamento (CE) nº 322/97 do Conselho, de 17 de Fevereiro de 1997, relativo às estatísticas comunitárias (*).\n\n(*) JO nº L 52 de 22. 2. 1997, p. 1.»"
+  },
+  "460bcc0409818dfd": {
+   "fragment_id": "Artigo 22º",
+   "type": "artigo",
+   "heading": "Artigo 22º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22º\n\nConsideram-se estatísticas comunitárias as estatísticas produzidas ao abrigo dos diplomas comunitários vigentes, independentemente dos processos decisórios por que se rejam.\n\nConsideram-se também estatísticas comunitárias as estatísticas produzidas ou a produzir pelas autoridades nacionais e comunitária ao abrigo do programa-quadro de acções prioritárias no domínio da informação estatística de 1993 a 1997, previsto na Decisão 93/464/CEE (10)."
+  },
+  "47389f8659229fc7": {
+   "fragment_id": "Artigo 23º",
+   "type": "artigo",
+   "heading": "Artigo 23º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 17 de Fevereiro de 1997.\n\nPelo Conselho\n\nO Presidente\n\nG. ZALM\n\n(1) JO nº C 106 de 14. 4. 1994, p. 22.\n\n(2) JO nº C 109 de 1. 5. 1995, p. 321.\n\n(3) JO nº C 195 de 18. 7. 1994, p. 1.\n\n(4) Parecer emitido em 7 de Fevereiro de 1995.\n\n(5) JO nº L 181 de 28. 6. 1989, p. 47.\n\n(6) JO nº L 281 de 23. 11. 1995, p. 31.\n\n(7) JO nº L 59 de 6. 3. 1991, p. 19.\n\n(8) JO nº L 59 de 6. 3. 1991, p. 21.\n\n(9) JO nº L 151 de 15. 6. 1990, p. 1.\n\n(10) JO nº L 219 de 28. 8. 1993, p. 1."
+  },
+  "57139dae7413081c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1997R0322 — PT — 01.04.2009 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31997R0322) [REGULAMENTO (CE) N.º 322/97 DO CONSELHO](http://publications.europa.eu/resource/celex/31997R0322) [de 17 de Fevereiro de 1997](http://publications.europa.eu/resource/celex/31997R0322) [relativo às estatísticas comunitárias](http://publications.europa.eu/resource/celex/31997R0322) (JO L 052, 22.2.1997, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 223/2009 do Parlamento Europeu e do Conselho de 11 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0223) — L 87 — 164 — 31.3.2009"
+  }
+ }
+}

@@ -1,0 +1,265 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:228590:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-155882557",
+ "dre_path": "/dr/detalhe/decreto-lei/169-1986-228590",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1986-06-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "155901617",
+    "155901618",
+    "155901619",
+    "155901620",
+    "155901621",
+    "155901622",
+    "155901623",
+    "155901624",
+    "155901625",
+    "155901626",
+    "155901627",
+    "155901628",
+    "155901629",
+    "155901630",
+    "155901631",
+    "155901632",
+    "155901633",
+    "155901635"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Revoga Artigo 14.º"
+   ],
+   "fragments": [
+    "155901617",
+    "155901618",
+    "155901619",
+    "155901620",
+    "156256224",
+    "155901622",
+    "155901623",
+    "155901624",
+    "155901625",
+    "155901626",
+    "155901627",
+    "155901628",
+    "155901645",
+    "155901646",
+    "156256225",
+    "155901632",
+    "155901633",
+    "155901634",
+    "155901635"
+   ]
+  }
+ ],
+ "fragments": {
+  "155901617": {
+   "fragment_id": "155882558",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 169/86\n\nde 27 de Junho\n\nConsiderando a necessidade de se proceder à regulamentação do exercício da actividade de aquisição para revenda de animais vivos;\n\nVerificando-se a conveniência de instituir um processo conducente à instauração de um licenciamento prévio, centralmente organizado e coordenado pelos departamentos estatais, da actividade relacionada com a aquisição para revenda dos animais vivos;\n\nRevelando-se o propósito e a necessidade de proteger os legítimos interesses dos consumidores e dos demais agentes económicos envolvidos na actividade mencionada;\n\nOuvidas as organizações representativas do sector de actividade económica a que se dirige o disposto no presente decreto-lei:\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "155901618": {
+   "fragment_id": "155882559",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n- 1 - O exercício da actividade de aquisição para revenda de animais vivos das espécies referidas na tabela I anexa a este diploma por parte de qualquer pessoa singular ou colectiva carece de prévia inscrição na Junta Nacional dos Produtos Pecuários, a qual terá a validade de cinco anos contados da data da vistoria a que se refere o n.º 2 do artigo 5.º\n\n2 - O disposto no número anterior é aplicável sempre que os animais adquiridos para revenda venham a destinar-se quer a reprodução, quer a revenda, quer a abate para consumo."
+  },
+  "155901619": {
+   "fragment_id": "155882560",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n- 1 - A inscrição a que se refere o artigo 1.º só poderá ser efectuada pelas pessoas singulares ou colectivas que possuam instalações para os animais que obedeçam aos requisitos constantes da tabela II anexa ao presente diploma.\n\n2 - A renovação da inscrição deverá ser requerida até 90 dias antes do termo da sua validade, sob pena de se considerar automaticamente revogada naquele termo.\n\n3 - A renovação da inscrição obedecerá às formalidades previstas para a própria inscrição, com as necessárias adaptações, devendo, no entanto, o respectivo requerimento ser acompanhado de fotocópia do cartão comprovativo da inscrição que se pretende renovar.\n\n4 - A inscrição será também revogada sempre que as instalações para os animais que serviram de pressuposto à sua efectivação deixem de possuir os requisitos legalmente exigidos."
+  },
+  "155901620": {
+   "fragment_id": "155882561",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO requerimento para obtenção da inscrição ou para a sua renovação será dirigido ao presidente da Junta Nacional dos Produtos Pecuários, devendo ser apresentado nos serviços regionais do Ministério da Agricultura, Pescas e Alimentação."
+  },
+  "155901621": {
+   "fragment_id": "155882562",
+   "type": 11,
+   "heading": "Artigo 4.º — - 1 - O requerimento referido no artigo anterior conterá obrigatoriamente os seguintes elementos:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — - 1 - O requerimento referido no artigo anterior conterá obrigatoriamente os seguintes elementos:\n\na) Identificação do requerente pelo nome, data de nascimento e residência, número, data e local de emissão do documento de identificação e indicação do respectivo número fiscal de contribuinte, quando se trate de pessoa singular;\n\nb) Identificação pela firma ou denominação particular, sede e data da constituição, quando se trate de pessoa colectiva;\n\nc) Localização das instalações a licenciar.\n\n2 - O requerimento será instruído com os seguintes elementos:\n\na) Duas fotografias tipo passe, caso se trate de pessoa singular;\n\nb) Fotocópia do cartão de inscrição no Registo Nacional de Pessoas Colectivas, no caso de se tratar de pessoas colectivas ou entidades equiparadas;\n\nc) Fotocópia do cartão referido no n.º 3 do artigo 6.º, quando se trate de pedido de renovação de inscrição."
+  },
+  "155901622": {
+   "fragment_id": "155882563",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n- 1 - Os serviços regionais do Ministério da Agricultura, Pescas e Alimentação deverão, no prazo máximo de quinze dias a contar da recepção do requerimento, apreciar o processo, notificando o requerente para suprir eventuais deficiências no caso de elas existirem.\n\n2 - Ultimado o processo, os serviços regionais do Ministério da Agricultura, Pescas e Alimentação promoverão, no prazo máximo de 30 dias, sob a sua orientação e com a colaboração das entidades consideradas necessárias, uma vistoria às instalações indicadas pelo requerente.\n\n3 - Da vistoria referida no número anterior lavrar-se-á um auto, assinado pelas entidades intervenientes, no qual se descreverão, sumariamente, os requisitos das instalações, concluindo-se se as mesmas estão ou não em conformidade com os legalmente exigidos.\n\n4 - Face ao conteúdo do auto de vistoria referido no número anterior, no prazo máximo de oito dias, o director dos serviços regionais do Ministério da Agricultura, Pescas e Alimentação emitirá parecer favorável ou desfavorável ao licenciamento, conforme entenda que as instalações reúnem ou não os requisitos legais."
+  },
+  "155901623": {
+   "fragment_id": "155882564",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n- 1 - Os serviços regionais do Ministério da Agricultura, Pescas e Alimentação, após ter sido emitido o parecer referido no n.º 4 do artigo anterior, remeterão, no prazo máximo de oito dias, todo o processo ao presidente da Junta Nacional dos Produtos Pecuários.\n\n2 - No prazo máximo de oito dias a contar da recepção do processo, o presidente da Junta Nacional dos Produtos Pecuários ou o funcionário em quem delegar essa competência concederá ou denegará a inscrição.\n\n3 - Nos casos em que a inscrição seja concedida entregar-se-á ao requerente um documento comprovativo do modelo anexo a este diploma.\n\n4 - Sempre que a inscrição seja revogada, a Junta Nacional dos Produtos Pecuários procederá à apreensão do documento referido no número anterior."
+  },
+  "155901624": {
+   "fragment_id": "155882565",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n- 1 - O alojamento de animais vivos das espécies referidas na tabela I anexa a este diploma, adquiridos para revenda nos termos e pelas pessoas a que se reporta o artigo 1.º, só pode efectuar-se em instalações que obedeçam aos requisitos constantes da tabela II anexa ao presente diploma.\n\n2 - A utilização das instalações referidas no número anterior carece de prévio licenciamento.\n\n3 - Ao licenciamento das instalações será aplicável, com as necessárias adaptações, o processo previsto neste diploma para a obtenção da inscrição referida no n.º 1 do artigo 1.º"
+  },
+  "155901625": {
+   "fragment_id": "155882566",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO licenciamento de qualquer instalação diferente daquela ou daquelas que serviram de pressuposto à obtenção da inscrição prevista no n.º 1 do artigo 1.º deverá ser averbado, por iniciativa do interessado, no respectivo documento a que se refere o n.º 3 do artigo 6.º"
+  },
+  "155901626": {
+   "fragment_id": "155882567",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nSempre que alguma das instalações licenciadas nos termos deste diploma deixe de reunir os requisitos legalmente exigidos, quando não seja caso de revogação de inscrição, será declarado caduco o respectivo licenciamento, devendo o facto, por iniciativa do interessado, ser averbado no documento referido no n.º 3 do artigo 6.º"
+  },
+  "155901627": {
+   "fragment_id": "155882568",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA Junta Nacional dos Produtos Pecuários, até ao dia 31 de Janeiro de cada ano, enviará à repartição de finanças do concelho ou bairro fiscal onde se situam uma relação das instalações licenciadas no ano anterior ou cujo licenciamento caducou durante o mesmo período, com a identificação em ambos os casos dos respectivos requerentes."
+  },
+  "155901628": {
+   "fragment_id": "155882569",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nSem prejuízo do disposto na legislação em vigor, a caixa dos veículos utilizados no transporte de animais vivos das espécies referidas na tabela I anexa a este decreto-lei e o transporte dos mesmos devem obedecer aos requisitos a fixar por portaria conjunta dos Ministros da Agricultura, Pescas e Alimentação e das Obras Públicas, Transportes e Comunicações."
+  },
+  "155901629": {
+   "fragment_id": "155882570",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nA fiscalização do cumprimento das normas previstas neste diploma é da competência da Direcção-Geral de Inspecção Económica, sem prejuízo da competência atribuída a outras autoridades policiais e administrativas, em conformidade com as respectivas leis orgânicas."
+  },
+  "155901630": {
+   "fragment_id": "155882571",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n- 1 - As infracções ao disposto no presente diploma constituem contra-ordenações, aplicando-se-lhes as disposições gerais do Decreto-Lei n.º 433/82, de 27 de Outubro, e as disposições especiais do Decreto-Lei n.º 28/84, de 20 de Janeiro.\n\n2 - Relativamente às infracções previstas no número anterior, a aplicação das respectivas coimas e sanções acessórias caberá à comissão referida no n.º 2 do artigo 52.º do Decreto-Lei n.º 28/84, de 20 de Janeiro."
+  },
+  "155901631": {
+   "fragment_id": "155882572",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n- 1 - O exercício da actividade referida no artigo 1.º por parte de pessoas não inscritas na Junta dos Produtos Pecuários ou cuja inscrição foi revogada e o não cumprimento do disposto nos n.os 1 e 2 do artigo 7.º constituem contra-ordenações, previstas e punidas nos termos do artigo 66.º do Decreto-Lei n.º 28/84, de 20 de Janeiro.\n\n2 - A violação do disposto no artigo 9.º ou em qualquer outra disposição deste diploma para a qual não esteja prevista punição específica constitui contra-ordenação, punida com a coima de 5000$00 a 50000$00."
+  },
+  "155901632": {
+   "fragment_id": "155882573",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n- 1 - Às pessoas referidas no artigo 1.º e que na data da entrada em vigor do presente diploma já se dediquem ao exercício da actividade mencionada naquele preceito é concedido o prazo de 180 dias para legalizarem a sua situação, nos termos deste diploma.\n\n2 - A apresentação do requerimento constante do artigo 3.º deste diploma por parte das pessoas referidas no número anterior, dentro do prazo de 180 dias, suspende o decurso desse prazo até ser notificado o requerente do despacho que recair sobre a pretensão."
+  },
+  "155901633": {
+   "fragment_id": "155882574",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nA aplicação do disposto no presente decreto-lei às Regiões Autónomas dos Açores e da Madeira far-se-á mediante diploma adequado, emanado das respectivas Assembleias Regionais."
+  },
+  "155901635": {
+   "fragment_id": "155903276",
+   "type": 14,
+   "heading": "Anexo — (Modelo a que se refere o n.º 3 do artigo 6.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (Modelo a que se refere o n.º 3 do artigo 6.º)\n\n(ver documento original)"
+  },
+  "156256224": {
+   "fragment_id": "155882562",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - O requerimento referido no artigo anterior conterá obrigatoriamente os seguintes elementos:\n\na) Identificação do requerente pelo nome, data de nascimento e residência, número, data e local de emissão do documento de identificação e indicação do respectivo número fiscal de contribuinte, quando se trate de pessoa singular;\n\nb) Identificação pela firma ou denominação particular, sede e data da constituição, quando se trate de pessoa colectiva;\n\nc) Localização das instalações a licenciar.\n\n2 - O requerimento será instruído com os seguintes elementos:\n\na) Duas fotografias tipo passe, caso se trate de pessoa singular;\n\nb) Fotocópia do cartão de inscrição no Registo Nacional de Pessoas Colectivas, no caso de se tratar de pessoas colectivas ou entidades equiparadas;\n\nc) Fotocópia do cartão referido no n.º 3 do artigo 6.º, quando se trate de pedido de renovação de inscrição."
+  },
+  "155901645": {
+   "fragment_id": "155882570",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 12.º\n\nSem prejuízo das competências legais atribuídas a outras entidades, compete à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização do cumprimento das normas previstas no presente decreto-lei.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "155901646": {
+   "fragment_id": "155882571",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 13.º\n\n1 - Sem prejuízo do disposto no número seguinte, as infrações ao disposto no presente diploma constituem contraordenação económica leve, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).\n\n2 - O exercício da atividade sem a prévia inscrição referida no artigo 1.º ou cuja inscrição se encontre revogada, bem como o não cumprimento do disposto nos n.os 1 e 2 do artigo 7.º rege-se pelo disposto no artigo 66.º do Decreto-Lei n.º 28/84, de 20 de janeiro, na sua redação atual.\n\n3 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.\n\n4 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no n.º 1 é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156256225": {
+   "fragment_id": "155882572",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 181.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 14.º\n\n- 1 - O exercício da actividade referida no artigo 1.º por parte de pessoas não inscritas na Junta dos Produtos Pecuários ou cuja inscrição foi revogada e o não cumprimento do disposto nos n.os 1 e 2 do artigo 7.º constituem contra-ordenações, previstas e punidas nos termos do artigo 66.º do Decreto-Lei n.º 28/84, de 20 de Janeiro.\n\n2 - A violação do disposto no artigo 9.º ou em qualquer outra disposição deste diploma para a qual não esteja prevista punição específica constitui contra-ordenação, punida com a coima de 5000$00 a 50000$00.\n\n> Revogado pelo/a Artigo 181.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "155901634": {
+   "fragment_id": "155903275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 17 de Abril de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins - António Amaro de Matos.\n\nPromulgado em 5 de Junho de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 12 de Junho de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nTabela I a que se refere o n.º 1 do artigo 1.º\n\n1 - Equídeos.\n\n2 - Bovinos.\n\n3 - Ovinos.\n\n4 - Caprinos.\n\n5 - Suínos.\n\nTabela II a que se refere o n.º 1 do artigo 2.º\n\n1 - As instalações devem ser implantadas em local isolado e de fácil acesso, não comprometerem o ambiente que as envolve e com dimensão adequada aos animais a alojar.\n\n1.1 - Embora não estejam definidas quantitativamente as áreas por cabeça, elas devem ter a dimensão adequada à corpolência dos animais a alojar.\n\n1.2 - Para efeito do dimensionamento da área são de considerar os seguintes escalões:\n\na) Equídeos adolescentes;\n\nb) Equídeos adultos;\n\nc) Bovinos jovens (vitelos);\n\nd) Bovinos adolescentes (novilhos);\n\ne) Bovinos adultos;\n\nf) Ovinos e caprinos adolescentes;\n\ng) Ovinos e caprinos adultos;\n\nh) Suínos jovens (leitões);\n\ni) Suínos adolescentes;\n\nj) Suínos adultos.\n\n2 - Qualquer que seja o tipo de instalação utilizada, é indispensável que ela disponha de condições que assegurem a protecção dos animais contra as intempéries, bem como contra as grandes variações climáticas.\n\n2.1 - No caso de se utilizar a estabulação livre, a área confinada deve ter dimensão adequada ao número de cabeças a alojar, de acordo com a espécie e espaço disponível para a área de exercício.\n\n2.2 - No caso de alojamento em regime estabular, a área confinada deve ter dimensão adequada ao número de cabeças a alojar, de acordo com a espécie e idade.\n\n2.3 - A área confinada, quer no caso de alojamento em regime estabular, quer em estabulação livre, deve obedecer aos seguintes requisitos:\n\na) Dispor de meios apropriados para a distribuição de alimentos;\n\nb) Dispor de água em quantidade suficiente para o abeberamento dos animais e para lavagem das próprias instalações;\n\nc) Dispor de meios apropriados à observação individual dos animais em condições de segurança.\n\n2.4 - No caso de alojamento em regime estabular, a área confinada deve ainda obedecer aos seguintes requisitos:\n\na) Paredes de fácil limpeza e desinfecção, pavimento impermeável e não escorregadio, com inclinação de, pelo menos, 2%, janelas ou aberturas para o exterior que proporcionem luz e ventilação convenientes;\n\nb) As aberturas para o exterior devem ser instaladas por forma que a ventilação não incida directamente sobre os animais e proporcione a manutenção da temperatura e humidade adequadas;\n\nc) Ter sistema de esgoto aprovado pela autoridade sanitária que garanta a higiene das instalações."
+  }
+ }
+}

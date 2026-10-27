@@ -1,0 +1,243 @@
+---
+schema_version: '1.0'
+id: pt:dre:212418:por
+title: Portaria n.º 138-A/2010
+short_title: null
+summary: Define as taxas devidas pelos actos e serviços prestados pelo Instituto da Conservação da Natureza e da Biodiversidade
+  (ICNB), I. P., e revoga a Portaria n.º 1245/2009, de 13 de Outubro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ambiente e do Ordenamento do Território
+proposing_entity: null
+official_number: 138-A/2010
+official_date: null
+publication_date: '2010-03-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 44/2010, 1º Suplemento, Série I de 2010-03-04
+  number: '44'
+  series: I
+  supplement: null
+  pages: 616-(2) a 616-(5)
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/03/04401/0000200005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/138-a/2010/03/04/p/dre/pt/html
+  oj: null
+  dre: '212418'
+  dre_path: /dr/detalhe/portaria/138-a-2010-212418
+  internal: pt:dre:212418:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/138-a-2010-212418
+  metadata_url: https://data.dre.pt/eli/port/138-a/2010/03/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/138-a-2010-212418
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:45:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0d1d0db78cb222f6c4c9212b802087d2c71973ae46a9533b303457932589de33
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:35Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Instituto da Conservação da Natureza e da Biodiversidade
+- Internet
+- Pagamento
+- Prestação de Serviços
+- Publicitação
+- TAXA de Prestação de Serviços
+relationships:
+- type: amended_by
+  target: pt:dre:25676894:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: celex:32005R1698
+  label: null
+  source: http://data.europa.eu/eli/reg/2005/1698/oj
+- type: cites
+  target: celex:32006R1974
+  label: null
+  source: http://data.europa.eu/eli/reg/2006/1974/oj
+- type: cites
+  target: pt:dre:491726:por
+  label: null
+  source: http://data.dre.pt/eli/port/1245/2009/10/13/p/dre
+- type: repealed_by
+  target: pt:dre:25676894:por
+  label: "Revogada, sem prejuízo do disposto no nº 2 do art. 8º que mantém em vigor, transitoriamente e até à sua revisão,\
+    \ as taxas estabelecidas no n.º 2 do título II da Tabela de taxas anexa, pela PORT.122/2014.16.06.2014.MF, DR.IS [113]\
+    \ de 16.06.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/122-2014-25676894
+  date: '2014-06-16'
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:45:35Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 138-A/2010
+
+de 4 de Março
+
+Considerando as dúvidas e os equívocos suscitados quanto à sujeição de determinadas actividades ao pagamento de taxas pelos actos e serviços prestados pelo Instituto de Conservação da Natureza e da Biodiversidade (ICNB), I. P., foi determinada, através da Portaria n.º 1397/2009, de 4 de Dezembro, a suspensão, por um período de três meses, da Portaria n.º 1245/2009, de 13 de Outubro, com vista à sua revisão.
+
+Durante o período de suspensão da Portaria n.º 1245/2009, de 13 de Outubro, o modelo de cálculo do valor da taxa foi revisto à luz de critérios mais objectivos e transparentes, processo que conduziu à eliminação de variáveis geradoras de indefinição sobre o montante da taxa devida, sendo que, nos casos em que tal operação não foi possível executar, foram consagradas variáveis objectivas que permitem a determinação do valor da taxa pelos interessados, estando esta sempre balizada pela previsão de limites máximos em moldes semelhantes aos instituídos pela Portaria n.º 1245/2009, de 13 de Outubro.
+
+Na presente portaria são também clarificados quais os actos e actividades sujeitos ao pagamento de taxas, dos quais se acham necessariamente excluídos os pareceres emitidos em procedimentos administrativos em que a repartição do produto da taxa com o ICNB, I. P., se encontra regulamentada.
+
+Cumpre igualmente sublinhar que o regime jurídico definido na presente portaria se encontra harmonizado com os regimes praticados em matéria de cobrança de taxas pela prestação de serviços nos demais organismos sob tutela do Ministério do Ambiente e do Ordenamento do Território.
+
+Para além do exposto, o processo de revisão da mencionada portaria evidenciou a necessidade de proceder a ajustamentos e correcções decorrentes dos contributos recebidos e da ponderação efectuada, os quais se traduziram na redução do montante das taxas e na clarificação de algumas das suas disposições, conferindo maior justiça e inteligibilidade ao normativo, e facilitando a sua implementação e a correcta apreensão do seu teor pelos destinatários.
+
+Neste particular, assinala-se a consagração expressa de isenções, subjectivas e objectivas, das quais se destacam os pedidos relativos ao exercício de actividades agrícolas, florestais, silvopastoris não intensivos ou que impliquem alterações do uso do solo ou modificação de espécies vegetais ou do coberto vegetal em áreas contínuas iguais ou inferiores a 1 ha, assim como os pedidos de autorização para a realização de trabalhos de investigação científica e de monitorização com interesse para a conservação da natureza e da biodiversidade, em claro reconhecimento do impacto menos significativo das actividades em causa para os valores naturais e do seu especial contributo para o aprofundamento do conhecimento dos habitats e das espécies da fauna e da flora.
+
+Paralelamente, com vista a dissipar os equívocos suscitados pela Portaria n.º 1245/2009, de 13 de Outubro, foi evidenciada a exclusão do âmbito de aplicação da presente portaria das taxas devidas pelo acesso e visita às áreas integradas no Sistema Nacional de Áreas Classificadas, cuja cobrança visa contribuir para o financiamento da conservação da natureza e da biodiversidade e para regular o impacte da presença humana em áreas particularmente sensíveis, conforme definido no artigo 35.º do Decreto-Lei n.º 142/2008, de 24 de Julho, que isenta os residentes dos concelhos abrangidos e prevê a sua regulação em portaria autónoma. Tratam-se manifestamente de taxas diversas das previstas na presente portaria, que respeita às taxas devidas pela contraprestação de serviços, como sejam a atribuição de uma autorização, a emissão de um parecer ou a cedência da utilização de espaços ou infra-estruturas sob gestão do ICNB, I. P.
+
+Com a entrada em vigor da presente portaria concretiza-se o desiderato de actualizar o regime instituído pela Portaria n.º 754/2003, de 8 de Agosto, a qual foi temporariamente repristinada durante o período de suspensão da Portaria n.º 1245/2009, de 13 de Outubro, que ora se revoga.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+Ao abrigo do disposto no n.º 3 do artigo 12.º do Decreto-Lei n.º 136/2007, de 27 de Abril, e do n.º 5 do artigo 38.º do Decreto-Lei n.º 142/2008, de 24 de Julho, manda o Governo, pela Ministra do Ambiente e do Ordenamento do Território, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente regulamento define as taxas devidas pelos actos e serviços prestados pelo Instituto da Conservação da Natureza e da Biodiversidade (ICNB), I. P., que constam da tabela anexa à presente portaria, da qual faz parte integrante.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - As taxas são devidas pelos actos e serviços constantes da tabela anexa à presente portaria e destinam-se a suportar os correspondentes encargos administrativos.
+
+2 - Encontram-se isentas do pagamento de taxas as seguintes entidades:
+
+a) As empresas de animação turística e os operadores marítimo-turísticos que tenham pago a correspondente taxa de registo prevista no artigo 16.º do Decreto-Lei n.º 108/2009, de 15 de Maio;
+
+b) Os detentores de espécimes previstos nas alíneas a), d) e e) do n.º 2 da Portaria n.º 1226/2009, de 12 de Outubro, relativamente às taxas previstas no capítulo ii da tabela anexa.
+
+3 - Ficam isentos do pagamento de taxa:
+
+a) Os pedidos de designação de áreas protegidas privadas;
+
+b) Os pedidos relativos a edificações para habitação própria e permanente, bem como as respectivas infra-estruturas de abastecimento de água, energia e comunicações, quando apresentados por agricultores;
+
+c) Os pedidos relativos ao exercício de actividades agrícolas, florestais, silvopastoris ou que impliquem alterações do uso do solo ou modificação de espécies vegetais ou do coberto vegetal em áreas contínuas iguais ou inferiores a 1 ha;
+
+d) Os pedidos de autorização ou parecer para tratamentos fitossanitários e para evitar a propagação de pragas;
+
+e) Os pedidos relativos às acções decorrentes do Sistema de Defesa da Floresta contra Incêndios;
+
+f) Os pedidos de licenças de espantamento e de remoção de ninhos, bem como de anilhagem, ao abrigo do Decreto-Lei n.º 140/2009, de 24 de Abril, com a redacção conferida pelo Decreto-Lei n.º 49/2005, de 24 de Fevereiro, que procede à transposição das Directivas Aves e Habitats e do Decreto-Lei n.º 316/89, de 22 de Setembro, que regulamenta a Convenção de Berna relativa à conservação da vida selvagem e dos habitats naturais da Europa;
+
+g) Os pedidos de autorização para a realização de actividades de lazer e educação ambiental apresentados por estabelecimentos de ensino e por pessoas colectivas de utilidade pública reconhecidas nos termos do Decreto-Lei n.º 460/77, de 7 de Novembro, com as alterações introduzidas pelo Decreto-Lei n.º 391/2007, de 13 de Dezembro;
+
+h) Os pedidos de autorização para a realização de trabalhos de investigação científica e de monitorização com interesse para a conservação da natureza e da biodiversidade;
+
+i) Os pedidos de instalação de unidades de microprodução nos termos do Decreto-Lei n.º 363/2007, de 2 de Novembro;
+
+j) As actividades recreativas ou culturais relacionadas com romarias, procissões, festas populares e festejos locais, bem como as feiras e mercados de produtos tradicionais.
+
+4 - Para efeitos da alínea b) do número anterior, consideram-se agricultores as pessoas singulares que obtêm pelo menos 25 % do seu rendimento da actividade agrícola dedicando a esta, no mínimo, 25 % do seu tempo total de trabalho e que assumem a responsabilidade económica e jurídica pela exploração agrícola, bem como a sua direcção corrente, nos termos do disposto no Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro, e do Regulamento (CE) n.º [1974/2006](http://data.europa.eu/eli/reg/2006/1974/oj?locale=pt), da Comissão, de 15 de Dezembro.
+
+5 - Estão excluídas do âmbito de aplicação da presente portaria as taxas devidas pelo acesso e visita às áreas integradas no Sistema Nacional de Áreas Classificadas.
+
+###### Artigo 3.º — Acesso a documentos administrativos
+
+Os montantes devidos pela reprodução de documentos solicitados no exercício do direito de acesso aos documentos administrativos encontram-se definidos no despacho previsto no n.º 2 do artigo 12.º da Lei n.º 46/2007, de 24 de Agosto.
+
+###### Artigo 4.º — Casos omissos
+
+1 - Os valores devidos pela utilização do património da titularidade ou sob gestão do ICNB, I. P., são definidos por despacho do respectivo presidente.
+
+2 - As taxas devidas pelos actos e serviços prestados pelo ICNB, I. P., que não se encontrem previstos na tabela anexa à presente portaria são calculadas nos termos do capítulo vi da referida tabela.
+
+###### Artigo 5.º — Despesas de deslocação
+
+1 - Nos casos previstos na tabela anexa, ao valor das taxas acrescem os custos correspondentes ao número de quilómetros percorridos na deslocação ao local, os quais são cobrados pelo valor constante da portaria que procede à revisão anual das remunerações dos funcionários e agentes da administração central, local e regional, para as ajudas de custo e o subsídio de transporte.
+
+2 - Quando a prática de actos ou a prestação de serviços que determinam o pagamento das despesas referidas no número anterior são realizadas na mesma data, para o mesmo local e a pedido do mesmo interessado, o valor devido pelas despesas de deslocação apenas é cobrado por uma deslocação.
+
+###### Artigo 6.º — Liquidação
+
+1 - As taxas previstas na presente portaria são pagas no momento da apresentação do pedido.
+
+2 - Quando as taxas devidas pelos actos e serviços prestados pelo ICNB, I. P., importem o cálculo do número de horas despendidas ou de quilómetros percorridos, o valor base é pago no momento da apresentação do pedido, sendo o remanescente pago no momento da entrega do documento solicitado ao requerente.
+
+3 - Nos pedidos formulados electronicamente, por telecópia ou por correio, deve ser apresentado comprovativo do pagamento antecipado das quantias devidas.
+
+4 - O pagamento do valor único ou do valor base das taxas devidas pelos actos e serviços do ICNB, I. P., constitui condição para o início da contagem do prazo para emissão da declaração, autorização, licença, parecer ou informação solicitada.
+
+5 - O não pagamento das taxas determina:
+
+a) A extinção do procedimento administrativo, no caso de pedidos de declaração, informação, licença ou autorização;
+
+b) A retenção do documento solicitado, no caso de pedidos de parecer.
+
+6 - No caso previsto na alínea b) do número anterior, a falta de pagamento determina ainda a execução para pagamento de quantia certa nos termos do artigo 155.º do Código do Procedimento Administrativo.
+
+7 - A liquidação do remanescente da taxa nos termos do n.º 2 e a extinção do procedimento por falta de pagamento são notificadas ao requerente.
+
+###### Artigo 7.º — Receita
+
+O produto das taxas cobradas ao abrigo da presente portaria constitui receita própria do ICNB, I. P.
+
+###### Artigo 8.º — Actualização
+
+Os valores previstos na tabela anexa à presente portaria são actualizados automaticamente, todos os anos, no mês de Janeiro, por aplicação do índice de preços no consumidor publicado pelo Instituto Nacional de Estatística, arredondando-se o resultado obtido para a casa decimal superior.
+
+###### Artigo 9.º — Publicitação
+
+Os valores das taxas devidas pelos actos e serviços prestados pelo ICNB, I. P., devem ser disponibilizados na respectiva página da Internet.
+
+###### Artigo 10.º — Revisão
+
+A presente portaria é revista no prazo de um ano a contar da data da sua entrada em vigor, devendo ser recolhidos pelo ICNB, I. P., os elementos resultantes da sua aplicação para introdução das alterações que se mostrem necessárias.
+
+###### Artigo 11.º — Norma revogatória
+
+É revogada a Portaria n.º 1245/2009, de 13 de Outubro.
+
+###### Artigo 12.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia 5 de Março de 2010.
+
+A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro, em 2 de Março de 2010.
+
+## ANEXO — Tabela de taxas
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/04401/0000200005.pdf)

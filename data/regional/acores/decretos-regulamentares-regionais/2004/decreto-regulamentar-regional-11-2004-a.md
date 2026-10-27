@@ -1,0 +1,459 @@
+---
+schema_version: '1.0'
+id: pt:dre:223005:por
+title: Decreto Regulamentar Regional n.º 11/2004/A
+short_title: null
+summary: Estabelece o sistema de apoios a conceder pela administração regional nos núcleos do Cabrito, Arcos, Lajido, Cachorro,
+  Cais do Mourato, Pocinho, Porto do Calhau, Fogos e Ana Clara e restante área candidata a património mundial
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Presidência do Governo
+proposing_entity: null
+official_number: 11/2004/A
+official_date: null
+publication_date: '2004-04-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 97/2004, Série I-B de 2004-04-24
+  number: '97'
+  series: I
+  supplement: null
+  pages: 2551 - 2556
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/04/097b00/25512556.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/11/2004/04/24/a/dre/pt/html
+  oj: null
+  dre: '223005'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/11-2004-223005
+  internal: pt:dre:223005:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2004-223005
+  metadata_url: https://data.dre.pt/eli/decregulreg/11/2004/04/24/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2004-223005
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:29:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5528e8d51e805e3538b4400532ec52057e9e13c0e702f2e6069d3a9b043792c3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:48Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Administração Regional
+- Apoio ao Investimento
+- Financiamento
+- Fiscalização
+- Gabinete Técnico
+- Obras de Conservação e Restauro
+- Património Arquitectónico
+- Prédio Urbano
+- Reembolso
+- Zona de Proteção
+relationships:
+- type: amended_by
+  target: pt:dre:456524:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:553612:por
+  label: "Alterados os arts. 4º, 5º, 7º, 10º, 13º, 14º e 18º e remetidas todas as referências feitas no presente diploma a\
+    \ área candidata a património mundial e a zona candidata para área classificada como património mundial pelo DRR.10/2006/A.20.01.2006.PG-RAA,\
+    \ DR.IS-B [29] de 09.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2006-553612
+  date: '2006-01-20'
+- type: amended_by
+  target: pt:dre:456524:por
+  label: "Determinado que, até à entrada em vigor do plano de ordenamento referido no n.º 2 do art. 46.º, não ficam prejudicadas\
+    \ a vigência e a regular aplicação das regras constantes do presente diploma, alterado pelo DRR 10/2006/A, de 09-Fev,\
+    \ pelo DLR.20/2008/A.09.07.2008.AL-RAA, DR.IS [131] de 09.07.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/20-2008-456524
+  date: '2008-07-09'
+- type: cites
+  target: pt:dre:426772:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/12/1996/06/27/a/dre
+- type: cites
+  target: pt:dre:607171:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/1/2004/01/21/a/dre
+article_structure:
+  article_count: 20
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:29:48Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 11/2004/A
+
+A Paisagem Protegida de Interesse Regional da Cultura da Vinha da Ilha do Pico, criada pelo [Decreto Legislativo Regional n.º 12/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-1996-426772), de 27 de Junho, alterado pelo [Decreto Legislativo Regional n.º 1/2004/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2004-607171), de 21 de Janeiro, inclui dentro dos seus limites a área objecto de candidatura à classificação pela UNESCO de paisagem cultural património da humanidade.
+
+Esta candidatura reconhece a diversidade de paisagem e define as áreas de maior valia e de carácter universal, estabelecendo os seus limites e o da respectiva área de protecção.
+
+Na área objecto de candidatura releva-se a importância dos aglomerados populacionais junto à costa, sede do edificado associado à actividade vitivinícola e donde sobressaem solares, ermidas, adegas e armazéns.
+
+Verifica-se nestes núcleos a existência de diversas ruínas, dissonâncias e anomalias arquitectónicas que perturbam e desvalorizam os referidos conjuntos, contribuindo para uma parcial perda de identidade e degradação de qualidade paisagística.
+
+Numa lógica de requalificação e de sensibilização dos particulares para que mantenham e valorizem os valores patrimoniais que se pretendem preservar torna-se necessária a criação de incentivos aos proprietários detentores de construções legais, que permitam corrigir os elementos desqualificadores do património individual e do conjunto edificado.
+
+Assim, de acordo com o [Decreto Legislativo Regional n.º 1/2004/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2004-607171), de 21 de Janeiro, e nos termos da alínea o) do artigo 60.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e da alínea d) do n.º 1 do artigo 227.º da Constituição, o Governo Regional decreta o seguinte:
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+1 - O presente diploma estabelece o sistema de apoios a conceder pela administração regional nos núcleos do Cabrito, Arcos, Lajido, Cachorro, Cais do Mourato, Pocinho, Porto do Calhau, Fogos e Ana Clara e restante área candidata a património mundial, conforme delimitada no anexo I ao presente diploma.
+
+2 - Os apoios previstos podem revestir a forma de:
+
+a) Comparticipação financeira a fundo perdido;
+
+b) Apoio técnico destinado a fomentar a qualidade técnica e artística das intervenções.
+
+###### Artigo 2.º — Âmbito
+
+1 - Os apoios referidos no artigo anterior destinam-se a intervenções em imóveis particulares inseridos nos núcleos edificados acima identificados, quando executadas com o objectivo de reconstrução de imóveis em ruínas.
+
+2 - Destinam-se ainda a intervenções em imóveis particulares sitos nos já citados núcleos, quando executadas com vista à eliminação de dissonâncias e anomalias arquitectónicas, classificadas nas seguintes categorias:
+
+a) Correcção de coberturas;
+
+b) Substituição de algerozes e tubos de queda;
+
+c) Correcção de alpendres e telheiros;
+
+d) Substituição de galerias;
+
+e) Demolição de miradouros e pérgolas;
+
+f) Correcção de paramentos exteriores;
+
+g) Correcção de vãos exteriores;
+
+h) Correcção de guarda-corpos;
+
+i) Correcção de anexos;
+
+j) Correcção de depósitos, fornos e chaminés;
+
+k) Correcção de infra-estruturas;
+
+l) Correcção de muros exteriores de delimitação da propriedade;
+
+m) Relocalização de antenas e aparelhos de ar condicionado.
+
+3 - Os referidos apoios destinam-se igualmente a imóveis sitos na restante área candidata, quando:
+
+a) O imóvel estiver em ruínas e a sua reconstrução for fundamental pela sua inserção ou recuperação da paisagem;
+
+b) O imóvel constituir grave dissonância arquitectónica, ou dela resulte grave impacte sobre a paisagem e a intervenção vise a eliminação das características ofensivas.
+
+###### Artigo 3.º — Definições
+
+1 - Edifício em ruína - edifício que apresente um esgotamento generalizado dos seus elementos estruturais ou fundamentais.
+
+2 - Dissonância ou anomalia arquitectónica de uma edificação - quando a edificação se demarca do ambiente urbano ou rural em que está inserida pelo seu volume, cor, textura, estilo ou qualquer outro atributo particular que a descaracterize ou que contenha em si mesma elementos descaracterizadores da sua tipologia.
+
+3 - Correcção de coberturas:
+
+a) A alteração da sua estrutura com vista à correcção da sua inclinação;
+
+b) A substituição de telhas da cobertura e ou telhas de cumeeira e ou beirados quando em fibrocimento, tela asfáltica, telha de cimento e em caso de mais de um tipo de telha.
+
+4 - Substituição de algerozes e tubos de queda:
+
+a) A remoção de algerozes ou tubos de queda;
+
+b) A substituição de algerozes e tubos de queda quando em PVC e tela asfáltica.
+
+5 - Correcção de alpendres e telheiros:
+
+a) A substituição do conjunto provisório por construção definitiva quando em madeira, plástico, metal ou fibrocimento;
+
+b) A alteração da sua estrutura quando em metal ou betão.
+
+6 - Substituição de galerias - a transformação da galeria em balcão por encerramento da área coberta inferior;
+
+7 - Demolição de miradouros e pérgolas - a demolição da estrutura quando edificada sobre construção habitável, quando se encontre implantada acima do piso térreo ou quando interfira com o perfil do conjunto urbano;
+
+8 - Correcção de paramentos exteriores:
+
+a) A substituição de revestimentos quando em pedra rolada ou pedra colada;
+
+b) A aplicação de revestimento ou construção de novo paramento quando em blocos de betão aparente;
+
+c) A pintura de revestimentos quando exista pintura com cores não tradicionais ou pintura decorativa;
+
+d) A remoção de elementos decorativos apostos.
+
+9 - Correcção de vãos exteriores:
+
+a) A substituição de portas e portões quando em PVC ou alumínio;
+
+b) A alteração de material de acabamento das caixilharias quando envernizadas;
+
+c) A remoção de estores exteriores e sua substituição por gelosias ou portadas;
+
+d) A alteração de caixilharias quando o seu funcionamento seja de correr, de duas folhas ou mais de abrir para fora e de duas folhas ou mais de abrir para dentro.
+
+10 - Correcção de guarda-corpos:
+
+a) A substituição de guarda-corpos quando em betão armado, metal ou pedra rolada;
+
+b) A substituição de revestimentos quando em pedra rolada ou pedra colada;
+
+c) A aplicação de revestimento quando em blocos de betão aparente.
+
+11 - Correcção de anexos:
+
+a) A substituição do conjunto provisório por construção definitiva quando em madeira, plástico, metal ou fibrocimento;
+
+b) A substituição de revestimentos quando em pedra rolada ou pedra colada;
+
+c) A aplicação de revestimento ou construção de novo paramento quando em blocos de betão aparente;
+
+d) A pintura de revestimentos quando exista pintura com cores não tradicionais ou pintura decorativa;
+
+e) A remoção de elementos decorativos apostos.
+
+12 - Correcção de depósitos de água e ou fornos e ou chaminés:
+
+a) A demolição de depósitos sem utilização quando em fibrocimento ou plástico;
+
+b) A substituição de revestimentos quando em pedra rolada ou pedra colada;
+
+c) A aplicação de revestimento ou construção de novo paramento quando em blocos de betão aparente;
+
+d) A pintura de revestimentos quando exista pintura com cores não tradicionais ou pintura decorativa;
+
+e) A remoção de elementos decorativos apostos.
+
+13 - Correcção de infra-estruturas:
+
+a) A substituição de contadores em fachadas ou muros com ou sem visor quando em plástico;
+
+b) A recolocação de contadores em fachadas ou muros.
+
+14 - Correcção de muros exteriores:
+
+a) A substituição de muros delimitadores da propriedade quando em blocos de betão aparente, rebocados, pedra rolada, pedra colada ou betão;
+
+b) A remoção de gradeamentos sobre muros delimitadores.
+
+15 - Correcção de antenas e aparelhos de ar condicionado - a relocalização de antenas de rádio, televisão e aparelhos de ar condicionado quando em locais perturbadores da estética das construções ou da harmonia do conjunto.
+
+### CAPÍTULO II — Apoios
+
+###### Artigo 4.º — Reconstrução de imóveis em ruínas
+
+1 - São objecto de comparticipação até ao valor máximo de 50% do custo da intervenção em paredes exteriores, coberturas e vãos as obras de reconstrução de imóveis em ruínas que se encontrem nesse estado à data de entrada em vigor do Plano Especial de Ordenamento da Paisagem Protegida de Interesse Regional da Cultura da Vinha da Ilha do Pico, desde que se verifiquem cumulativamente as seguintes condições:
+
+a) O imóvel deva ser reconstruído com a reutilização dos materiais ainda existentes ou com materiais da mesma natureza;
+
+b) A intervenção tenha parecer favorável da comissão directiva;
+
+c) A intervenção esteja conforme o determinado por despacho do membro do Governo Regional competente em matéria de ambiente e dela resulte claro benefício para o equilíbrio estético e arquitectónico.
+
+2 - Os imóveis objecto de comparticipação são os constantes do inventário produzido pelo Gabinete Técnico da Paisagem Protegida de Interesse Regional da Cultura da Vinha da Ilha do Pico, doravante designado por Gabinete Técnico, situados nos núcleos do Cabrito, Arcos, Lajido, Cachorro, Cais do Mourato, Pocinho, Porto do Calhau, Fogos e Ana Clara.
+
+3 - A comparticipação a que se refere o número anterior pode ainda ser concedida para a realização de intervenções nos imóveis a que se refere a alínea a) do n.º 3 do artigo 2.º do presente diploma.
+
+###### Artigo 5.º — Correcção de dissonâncias e anomalias arquitectónicas
+
+1 - São objecto de comparticipação até ao valor máximo de 50% do custo total de intervenção os imóveis com dissonâncias que prejudiquem o conjunto construído e que se encontrem nesse estado à data de entrada em vigor do Plano Especial de Ordenamento da Paisagem Protegida de Interesse Regional da Cultura da Vinha da Ilha do Pico.
+
+2 - Podem ser objecto da comparticipação prevista no número anterior os imóveis cujos proprietários aceitem corrigir as dissonâncias arquitectónicas, desde que se verifiquem cumulativamente as seguintes condições:
+
+a) A intervenção tenha parecer favorável da comissão directiva;
+
+b) A intervenção esteja conforme o determinado por despacho do membro do Governo Regional competente em matéria de ambiente e dela resulte claro benefício para o equilíbrio estético e arquitectónico do núcleo.
+
+3 - Os imóveis objecto de comparticipação são os constantes do inventário produzido pelo Gabinete Técnico, situados nos núcleos do Cabrito, Arcos, Lajido, Cachorro, Cais do Mourato, Pocinho, Porto do Calhau, Fogos e Ana Clara.
+
+4 - A comparticipação a que se refere o n.º 1 pode ainda ser concedida para a realização de intervenções nos imóveis a que se refere a alínea b) do n.º 3 do artigo 2.º do presente diploma, quando se verifiquem cumulativamente as seguintes condições:
+
+a) A intervenção tenha parecer favorável da comissão directiva;
+
+b) A intervenção esteja conforme o determinado por despacho do membro do Governo Regional competente em matéria de ambiente e dela resulte claro benefício para o enquadramento do núcleo e para a paisagem envolvente.
+
+###### Artigo 6.º — Elementos de excepcional interesse
+
+Nas correcções de dissonâncias ou anomalias em imóveis considerados quer pela sua localização quer pelo seu especial interesse ou valor arquitectónico, aprovados por despacho do membro do Governo Regional com competência em matéria de ambiente, e constantes do inventário produzido pelo Gabinete Técnico, o valor máximo da comparticipação poderá atingir 75% do custo da intervenção quer o imóvel se situe nos núcleos quer na restante área candidata.
+
+###### Artigo 7.º — Apoio técnico
+
+1 - Em casos de especial valor arquitectónico ou histórico do bem a preservar ou de carência económica comprovada do proprietário do imóvel, poderá ser prestado pelo Gabinete Técnico apoio técnico especializado na fase de elaboração do projecto, o qual poderá acrescer aos apoios previstos nos artigos anteriores.
+
+2 - O pedido é formulado em impresso próprio, fornecido pelo Gabinete Técnico, que emitirá parecer no prazo de 15 dias a contar da sua recepção, sendo submetido a despacho do membro do Governo Regional competente em matéria de ambiente.
+
+3 - Para efeitos da aplicação do disposto no número anterior, considerar-se-á a seguinte ordem de prioridades:
+
+a) Imóveis cujos proprietários demonstram carência económica;
+
+b) Pequenas intervenções para correcção das dissonâncias arquitectónicas.
+
+### CAPÍTULO III — Processo
+
+###### Artigo 8.º — Do pedido
+
+1 - O pedido de comparticipação é efectuado pelo proprietário, mandatário, usufrutuário do imóvel, ou qualquer outro titular de qualquer direito que confira a faculdade de realizar a operação urbanística pretendida.
+
+2 - Os pedidos, apresentados em formulário próprio, são entregues no Gabinete Técnico e devem ser acompanhados dos seguintes elementos:
+
+a) Lista discriminada dos custos a comparticipar;
+
+b) Solicitação da assistência técnica, quando requerida;
+
+c) Cópia da respectiva licença para obras;
+
+d) Demais elementos relevantes para a sua apreciação, nomeadamente os previstos no presente diploma.
+
+###### Artigo 9.º — Do projecto
+
+1 - Todos os projectos devem ser instruídos com as seguintes peças:
+
+a) Peças escritas - memória descritiva e justificativa, com a indicação das obras ou trabalhos a realizar e referência precisa dos materiais de construção e cores a utilizar, mapa completo de acabamentos e mapa de medições e orçamento;
+
+b) Fotografia - fotografias de qualidade adequada mostrando o estado actual do imóvel e sua envolvente e dos aspectos que sejam relevantes para apreciação do projecto submetido;
+
+c) Peças desenhadas - planta de localização, à escala de 1:1000 ou 1:2000, plantas, alçados e cortes do imóvel existente, à escala de 1:100 ou superior, devidamente cotadas e com indicação clara e precisa das alterações a executar.
+
+2 - Sempre que se pretenda alterar o imóvel existente ou quando se trate de reconstrução de ruína, para além das peças referidas no número anterior, deverão ainda ser entregues:
+
+a) Projecto de arquitectura subscrito por arquitecto, com plantas, alçados e cortes, à escala de 1:100 ou superior, devidamente cotadas e com indicação clara e precisa das alterações a introduzir;
+
+b) Memória descritiva e justificativa da intervenção arquitectónica proposta;
+
+c) Projectos de especialidade quando exigíveis para a operação urbanística pretendida.
+
+###### Artigo 10.º — Concessão
+
+1 - A concessão da comparticipação depende de despacho do membro do Governo Regional competente em matéria de ambiente, precedido de parecer do Gabinete Técnico.
+
+2 - O processamento da comparticipação apenas se iniciará depois de verificadas, cumulativamente, as seguintes condições:
+
+a) Tenha sido assinado contrato entre o departamento governamental competente em matéria de ambiente, representada pelo respectivo titular, com poder de delegação, e o beneficiário;
+
+b) O Gabinete Técnico tenha recebido declaração, por parte do beneficiário, da total aceitação das condições previstas neste diploma.
+
+3 - Do contrato referido no número anterior é publicado extracto na 2.ª série do Jornal Oficial, indicando o montante concedido e o objectivo da obra.
+
+4 - O beneficiário compromete-se a publicitar a comparticipação obtida, através da colocação, durante o período da obra, de placa informativa em termos a regulamentar pelo membro do Governo Regional competente em matéria de ambiente e a afixar, de forma permanente, por meio adequado à natureza do bem, indicação da comparticipação recebida.
+
+###### Artigo 11.º — Revisão da comparticipação
+
+A título excepcional, o montante da comparticipação poderá ser revisto, a requerimento do beneficiário, devidamente fundamentado, quando surjam aumentos excepcionais e imprevisíveis dos custos comparticipáveis.
+
+### CAPÍTULO IV — Realização das intervenções e processamento da comparticipação
+
+###### Artigo 12.º — Cumprimento do projecto
+
+1 - A aceitação da comparticipação, ou parte dela, obriga o beneficiário, com dispensa de qualquer outra formalidade, ao cumprimento estrito do projecto aprovado.
+
+2 - Os encargos com as necessárias correcções, determinadas pelo membro do Governo Regional competente em matéria de ambiente, por motivo de incumprimento do disposto no número anterior, são da responsabilidade do beneficiário.
+
+3 - O incumprimento por parte do beneficiário das determinações referidas no n.º 2 implicará a imediata cessação de todos os apoios e o embargo administrativo da intervenção, nos termos da lei.
+
+###### Artigo 13.º — Andamento dos trabalhos
+
+1 - Os trabalhos deverão decorrer em bom ritmo e sem interrupções injustificadas.
+
+2 - No caso de se verificar uma interrupção por período superior a 30 dias, deve o beneficiário comunicar o facto, por escrito, ao Gabinete Técnico, mencionando o motivo e a nova data previsível do termo da intervenção.
+
+###### Artigo 14.º — Relatório final
+
+1 - Até 30 dias após o termo da intervenção, o beneficiário fica obrigado a entregar ao Gabinete Técnico um relatório final, instruído com a declaração de conformidade com o projecto aprovado, assinada pelo técnico responsável, e com os documentos fotográficos necessários para cabal documentação dos trabalhos executados.
+
+2 - Do relatório final devem constar os comprovativos das despesas efectuadas ou sua cópia autenticada.
+
+###### Artigo 15.º — Processamento
+
+O processamento da comparticipação é escalonado da seguinte forma:
+
+a) 10% do valor global após o início da intervenção;
+
+b) 30% do valor global após estarem executados 50% dos trabalhos comparticipados;
+
+c) Os restantes 60% após a entrega do relatório final de conclusão.
+
+###### Artigo 16.º — Caducidade do apoio
+
+O apoio atribuído a qualquer título ao abrigo do presente diploma caducará caso se verifique uma das seguintes situações:
+
+a) Decorridos 60 dias após a comunicação da atribuição não tenha sido celebrado o respectivo contrato;
+
+b) Os trabalhos não se tenham iniciado decorridos 180 dias sobre a assinatura do contrato, sem justificação aceite pelo departamento governamental competente em matéria de ambiente;
+
+c) O beneficiário não cumpra qualquer das obrigações estabelecidas no presente regulamento ou no contrato assinado;
+
+d) Os trabalhos sejam interrompidos sem justificação aceite pelo departamento governamental competente em matéria de ambiente;
+
+e) Os trabalhos executados não correspondam aos descritos e aprovados aquando da candidatura;
+
+f) Decorridos seis meses após a data prevista para o fim da intervenção não tenha sido entregue o relatório final.
+
+###### Artigo 17.º — Reembolso da comparticipação
+
+A caducidade do apoio, qualquer que seja a sua causa, a falta de cumprimento do projecto ou do contrato ou ainda a utilização indevida das verbas atribuídas obrigam o beneficiário a reembolsar a Região Autónoma dos Açores de todo o montante já processado, acrescido de juros legais.
+
+###### Artigo 18.º — Fiscalização
+
+1 - A fiscalização das intervenções comparticipadas ao abrigo do presente diploma é da competência do Gabinete Técnico.
+
+2 - Quando tal se mostre necessário, pode o Gabinete Técnico adquirir os serviços técnicos necessários à execução do disposto no número anterior.
+
+###### Artigo 19.º — Impossibilidade de cumulação
+
+Os apoios a que se refere este diploma não podem ser cumulados com outros atribuídos com idêntica finalidade e sobre o mesmo imóvel por outra entidade ao abrigo de disposição legal diversa.
+
+### CAPÍTULO V — Disposições finais e transitórias
+
+###### Artigo 20.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional, na Madalena, Pico, em 18 de Fevereiro de 2004.
+
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
+
+Assinado em Angra do Heroísmo em 31 de Março de 2004.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
+
+## ANEXO I — [(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/2004/04/097b00/25512556.pdf)

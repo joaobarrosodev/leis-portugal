@@ -1,0 +1,362 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32022R2104:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02022R2104-20240610",
+ "dre_path": null,
+ "source_lastmod": "2024-06-10",
+ "versions": [
+  {
+   "date": "2023-12-10",
+   "future": false,
+   "celex": "02022R2104-20231210",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "17b04b936946e441",
+    "75950d567f0b7a3e",
+    "7bb750b00c074bfd",
+    "d3b7caa144f166de",
+    "0ce516e39dab3339",
+    "2ca75cf182e72434",
+    "64f6802b47559f62",
+    "dac749a9069cdcfb",
+    "c9e139c04161e271",
+    "41570832cc5db897",
+    "e1af5f631747103f",
+    "2823433fadc13134",
+    "fdf0f3d585cf21ea",
+    "35b6cfe027c6a975",
+    "2404817ce110c7d6",
+    "d664376e2a8dcecd",
+    "a05b297ba0a3daf2",
+    "0093811cdae68d24",
+    "597d219fc7e4b697",
+    "1e61466777ee0904",
+    "ae333fc2d57e1e38",
+    "4b6dee5d9e691ff2",
+    "852174729551523b",
+    "59ee6ccfb8259462",
+    "720af75c92791b10",
+    "cdc6f35d22ce96ee",
+    "3d35040c880c4612"
+   ]
+  },
+  {
+   "date": "2024-06-10",
+   "future": false,
+   "celex": "02022R2104-20240610",
+   "acts": [
+    {
+     "id": "eu:celex:32024R1401:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2024/1401 DA COMISSÃO de 7 de março de 2024",
+     "published": null,
+     "celex": "32024R1401"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º — Indicação exteriormente à lista dos ingredientes da presença de azeite em misturas e géneros alimentícios",
+    "Altera A. Características de qualidade",
+    "Altera B. Características de pureza",
+    "Altera Notas:",
+    "Altera Notas",
+    "Adita QUADRO DE CORRESPONDÊNCIA",
+    "Suprime Apêndice",
+    "Suprime Esquemas de decisão",
+    "Suprime Quadro de correspondência"
+   ],
+   "fragments": [
+    "17b04b936946e441",
+    "75950d567f0b7a3e",
+    "7bb750b00c074bfd",
+    "d3b7caa144f166de",
+    "0ce516e39dab3339",
+    "2ca75cf182e72434",
+    "64f6802b47559f62",
+    "dac749a9069cdcfb",
+    "c9e139c04161e271",
+    "41570832cc5db897",
+    "e1af5f631747103f",
+    "2823433fadc13134",
+    "108246cfd11598cd",
+    "35b6cfe027c6a975",
+    "2404817ce110c7d6",
+    "d664376e2a8dcecd",
+    "a05b297ba0a3daf2",
+    "3ce6ffb508f02977",
+    "12ab230f6b549eb9",
+    "afba708723c87220",
+    "852174729551523b",
+    "59ee6ccfb8259462",
+    "720af75c92791b10",
+    "85624fae918c0338",
+    "4dda755333f1d05d"
+   ]
+  }
+ ],
+ "fragments": {
+  "17b04b936946e441": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de julho de 2022\n\nque complementa o Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no respeitante às normas de comercialização do azeite e que revoga o Regulamento (CEE) n.º 2568/91 da Comissão e o Regulamento de Execução (UE) n.º 29/2012 da Comissão"
+  },
+  "75950d567f0b7a3e": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nO presente regulamento estabelece regras relativas às:\n\na) Características dos azeites referidos no anexo VII, parte VIII, pontos 1 a 6, do Regulamento (UE) n.º 1308/2013;\n\nb) Normas de comercialização específicas dos azeites referidos no anexo VII, parte VIII, ponto 1, alíneas a) e b), e pontos 3 e 6, do Regulamento (UE) n.º 1308/2013, vendidos ao consumidor final, apresentados no estado natural ou incorporados num género alimentício."
+  },
+  "7bb750b00c074bfd": {
+   "fragment_id": "Artigo 2.º — Categorias de azeite",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Categorias de azeite",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Categorias de azeite\n\n1.\n\nO azeite conforme com as características que figuram:\n\na) No anexo I, quadros A e B, ponto 1, do presente regulamento, é considerado azeite virgem extra na aceção do anexo VII, parte VIII, ponto 1, alínea a), do Regulamento (UE) n.º 1308/2013;\n\nb) No anexo I, quadros A e B, ponto 2, do presente regulamento, é considerado azeite virgem na aceção do anexo VII, parte VIII, ponto 1, alínea b), do Regulamento (UE) n.º 1308/2013;\n\nc) No anexo I, quadros A e B, ponto 3, do presente regulamento, é considerado azeite lampante na aceção do anexo VII, parte VIII, ponto 1, alínea c), do Regulamento (UE) n.º 1308/2013;\n\nd) No anexo I, quadros A e B, ponto 4, do presente regulamento, é considerado azeite refinado na aceção do anexo VII, parte VIII, ponto 2, do Regulamento (UE) n.º 1308/2013;\n\ne) No anexo I, quadros A e B, ponto 5, do presente regulamento, é considerado azeite composto por azeite refinado e azeite virgem, na aceção do anexo VII, parte VIII, ponto 3, do Regulamento (UE) n.º 1308/2013;\n\nf) No anexo I, quadros A e B, ponto 6, do presente regulamento, é considerado óleo de bagaço de azeitona bruto na aceção do anexo VII, parte VIII, ponto 4, do Regulamento (UE) n.º 1308/2013;\n\ng) No anexo I, quadros A e B, ponto 7, do presente regulamento, é considerado óleo de bagaço de azeitona refinado na aceção do anexo VII, parte VIII, ponto 5, do Regulamento (UE) n.º 1308/2013;\n\nh) No anexo I, quadros A e B, ponto 8, do presente regulamento, é considerado óleo de bagaço de azeitona na aceção do anexo VII, parte VIII, ponto 6, do Regulamento (UE) n.º 1308/2013.\n\n2. A determinação das características dos azeites previstas no anexo I é efetuada em conformidade com o Regulamento de Execução (UE) 2022/2105."
+  },
+  "d3b7caa144f166de": {
+   "fragment_id": "Artigo 3.º — Misturas e azeite incorporado noutros géneros alimentícios",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Misturas e azeite incorporado noutros géneros alimentícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Misturas e azeite incorporado noutros géneros alimentícios\n\n1. Apenas podem fazer parte das misturas de azeite e de outros óleos vegetais os azeites referidos no artigo 1.º, alínea b).\n\n2. Apenas podem ser incorporados noutros géneros alimentícios os azeites referidos no artigo 1.º, alínea b).\n\n3. Os Estados-Membros podem proibir a produção no seu território, para consumo interno, das misturas de azeite e de outros óleos vegetais referidas no n.º 1. Não podem, porém, proibir a comercialização, no seu território, das misturas em causa que sejam provenientes de outros países nem a produção, no seu território, das mesmas misturas para serem comercializadas noutro Estado-Membro ou para serem exportadas."
+  },
+  "0ce516e39dab3339": {
+   "fragment_id": "Artigo 4.º — Acondicionamento",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Acondicionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Acondicionamento\n\n1. Os azeites referidos no artigo 1.º, alínea b), devem ser apresentados ao consumidor final pré-embalados em embalagens de capacidade máxima de cinco litros. Essas embalagens devem estar munidas de um sistema de abertura que perca a sua integridade após a primeira utilização e ser rotuladas em conformidade com o presente regulamento.\n\n2. No que diz respeito aos azeites referidos no artigo 1.º, alínea b), destinados ao consumo em restaurantes, hospitais, cantinas e outros estabelecimentos coletivos similares, os Estados-Membros podem, em função do tipo de estabelecimento em causa, fixar para as embalagens uma capacidade máxima superior a cinco litros."
+  },
+  "2ca75cf182e72434": {
+   "fragment_id": "Artigo 5.º — Rotulagem",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Rotulagem\n\n1. É obrigatória a indicação, na rotulagem, das menções referidas nos artigos 6.º a 9.°.\n\n2. A denominação legal referida no artigo 6.º, n.º 1, e, se aplicável, o local de origem referido no artigo 8.º, n.º 1, devem ser agrupados no campo visual principal, tal como definido no artigo 2.º, n.º 2, alínea l), do Regulamento (UE) n.º 1169/2011, quer no mesmo rótulo ou em vários rótulos apostos no mesmo recipiente, quer diretamente no mesmo recipiente. Essas menções devem figurar na íntegra e num corpo de texto homogéneo.\n\n3. A indicação na rotulagem das menções referidas nos artigos 10.º, 11.° e 12.° é facultativa."
+  },
+  "64f6802b47559f62": {
+   "fragment_id": "Artigo 6.º — Denominação legal e rotulagem da categoria de azeite",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Denominação legal e rotulagem da categoria de azeite",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Denominação legal e rotulagem da categoria de azeite\n\n1. A designação dos azeites referidos no artigo 1.º, alínea b), é considerada a sua denominação legal na aceção do artigo 2.º, n.º 2, alínea n), do Regulamento (UE) n.º 1169/2011.\n\n2.\n\nA rotulagem desses azeites deve incluir, de forma clara e indelével, além da designação a que se refere o n.º 1, mas não necessariamente na proximidade desta, a informação seguinte sobre a categoria de azeite ou óleo:\n\na) Azeite virgem extra:\n\n«azeite de categoria superior obtido diretamente de azeitonas, unicamente por processos mecânicos»;\n\nb) Azeite virgem:\n\n«azeite obtido diretamente de azeitonas, unicamente por processos mecânicos»;\n\nc) Azeite composto por azeite refinado e azeite virgem:\n\n«azeite constituído exclusivamente por azeites submetidos a um tratamento de refinação e por azeites obtidos diretamente de azeitonas»;\n\nd) Óleo de bagaço de azeitona:\n\ni) «óleo constituído exclusivamente por óleos provenientes do tratamento do produto obtido após a extração do azeite e por azeites obtidos diretamente de azeitonas», ou\n\nii) «óleo constituído exclusivamente por óleos provenientes do tratamento de bagaço de azeitona e por azeites obtidos diretamente de azeitonas»."
+  },
+  "dac749a9069cdcfb": {
+   "fragment_id": "Artigo 7.º — Condições de armazenagem especiais",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Condições de armazenagem especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condições de armazenagem especiais\n\nNas embalagens dos azeites referidos no artigo 1.º, alínea b), ou num rótulo nelas aposto, devem figurar informações sobre as condições específicas de armazenagem do azeite ou óleo ao abrigo da luz e do calor."
+  },
+  "c9e139c04161e271": {
+   "fragment_id": "Artigo 8.º — Local de origem",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Local de origem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Local de origem\n\n1. O local de origem deve figurar na rotulagem do azeite virgem extra e do azeite virgem referidos no anexo VII, parte VIII, ponto 1, alíneas a) e b), do Regulamento (UE) n.º 1308/2013.\n\n2. O local de origem não deve figurar na rotulagem dos azeites e do óleo referidos no anexo VII, parte VIII, pontos 3 e 6, do Regulamento (UE) n.º 1308/2013.\n\n3.\n\nO local de origem a que se refere o n.º 1 deve consistir unicamente:\n\na) No caso dos azeites originários, em conformidade com os n.^os^ 6 e 7, de um Estado-Membro ou de um país terceiro, na menção do Estado-Membro, da União ou do país terceiro, consoante o caso; ou\n\nb) No caso de loteamentos de azeites originários, em conformidade com os n.^os^ 6 e 7, de mais de um Estado-Membro ou país terceiro, numa das seguintes indicações, consoante o caso:\n\ni) «loteamento de azeites originários da União Europeia» ou uma menção à União,\n\nii) «loteamento de azeites não originários da União Europeia» ou uma menção à origem fora da União,\n\niii) «loteamento de azeites originários da União Europeia e não originários da União» ou uma menção à origem dentro da União e à origem fora da União; ou\n\nc) Numa denominação de origem protegida ou indicação geográfica protegida abrangida pelo Regulamento (UE) n.º 1151/2012.\n\n4. Não é considerado um local de origem regido pelo presente regulamento o nome da marca ou da empresa cujo pedido de registo tenha sido apresentado até 31 de dezembro de 1998, em conformidade com a Diretiva 89/104/CEE, ou até 31 de maio de 2002, em conformidade com o Regulamento (CE) n.º 40/94 do Conselho.\n\n5. No que diz respeito às importações de um país terceiro, o local de origem é determinado em conformidade com os artigos 59.º a 63.º do Regulamento (UE) n.º 952/2013.\n\n6. O local de origem que mencione um Estado-Membro ou a União corresponde à zona geográfica em que as azeitonas foram colhidas e em que se situa o lagar no qual o azeite foi extraído das azeitonas.\n\n7. Caso as azeitonas tenham sido colhidas num Estado-Membro ou num país terceiro diferente daquele em que se situa o lagar no qual o azeite foi extraído das azeitonas, a menção do local de origem deve ter a redação seguinte: «Azeite virgem (extra) obtido em (designação da União, do Estado-Membro ou do país terceiro em causa) a partir de azeitonas colhidas em (designação da União, do Estado-Membro ou do país terceiro em causa)»."
+  },
+  "41570832cc5db897": {
+   "fragment_id": "Artigo 9.º — Número do embalador",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Número do embalador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Número do embalador\n\nNo caso dos azeites referidos no artigo 1.º, alínea b), o rótulo deve, se aplicável, ostentar a identificação alfanumérica do embalador aprovado, em conformidade com o artigo 6.º do Regulamento de Execução (UE) 2022/2105."
+  },
+  "e1af5f631747103f": {
+   "fragment_id": "Artigo 10.º — Menções reservadas facultativas",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Menções reservadas facultativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Menções reservadas facultativas\n\nAs condições seguintes aplicam-se à utilização das menções reservadas facultativas, na aceção do anexo IX do Regulamento (UE) n.º 1308/2013, que podem constar do rótulo dos azeites referidos no artigo 1.º, alínea b), do presente regulamento:\n\na) A menção «primeira pressão a frio» só pode figurar relativamente ao azeite virgem extra ou virgem obtidos a menos de 27 °C, durante uma primeira prensagem mecânica da massa de azeitona, por um sistema de extração de tipo tradicional com prensas hidráulicas;\n\nb) A menção «extraído a frio» só pode figurar relativamente ao azeite virgem extra ou virgem obtidos a menos de 27 °C por percolação ou por centrifugação da massa de azeitona;\n\nc) As menções de características organoléticas de sabor ou odor só podem figurar no caso do azeite virgem extra e do azeite virgem. Apenas podem figurar no rótulo as características organoléticas definidas no anexo IX do Regulamento (UE) n.º 1308/2013 e baseadas numa avaliação efetuada segundo o método referido no anexo I, ponto 5, do Regulamento de Execução (UE) 2022/2105. As definições e intervalos dos resultados que permitem a indicação dessas características organoléticas constam do anexo II do presente regulamento;\n\nd) A menção da acidez máxima prevista na data de durabilidade mínima a que se refere o artigo 9.º, n.º 1, alínea f), do Regulamento (UE) n.º 1169/2011 só pode figurar se for acompanhada da menção, em carateres da mesma dimensão e no mesmo campo visual, dos valores máximos do índice de peróxidos, do teor de ceras e da absorvância no ultravioleta, determinados em conformidade com o Regulamento de Execução (UE) 2022/2105, previstos para a mesma data."
+  },
+  "2823433fadc13134": {
+   "fragment_id": "Artigo 11.º — Indicação da campanha de colheita",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Indicação da campanha de colheita",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Indicação da campanha de colheita\n\n1. Apenas podem ostentar a indicação da campanha de colheita o azeite virgem extra e o azeite virgem referidos no anexo VII, parte VIII, ponto 1, alíneas a) e b), do Regulamento (UE) n.º 1308/2013.\n\n2. A campanha de colheita só pode ser indicada se 100 % do conteúdo do recipiente provier dessa colheita e deve ser mencionada no rótulo, quer sob a forma da campanha de colheita em causa, em conformidade com o artigo 6.º, alínea f), do Regulamento (UE) n.º 1308/2013, quer sob a forma do mês e ano da colheita, por essa ordem. O mês corresponde ao mês em que o azeite é extraído das azeitonas.\n\n3. Os Estados-Membros podem decidir que a campanha de colheita a que é feita referência no n.º 1 deve ser mencionada no rótulo dos azeites de produção doméstica a que o n.º 1 se refere, obtidos a partir de azeitonas colhidas no seu território e destinados exclusivamente aos mercados nacionais.\n\n4. A decisão a que se refere o n.º 3 não impede que os azeites rotulados antes da sua data de entrada em vigor possam ser comercializados até que se esgotem as existências.\n\n5. Os Estados-Membros devem comunicar à Comissão a decisão a que se refere o n.º 3, em conformidade com o Regulamento Delegado (UE) 2017/1183."
+  },
+  "fdf0f3d585cf21ea": {
+   "fragment_id": "Artigo 12.º — Indicação exteriormente à lista dos ingredientes da presença de azeite em misturas e géneros alimentícios",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Indicação exteriormente à lista dos ingredientes da presença de azeite em misturas e géneros alimentícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Indicação exteriormente à lista dos ingredientes da presença de azeite em misturas e géneros alimentícios\n\n1. Se a presença dos azeites referidos no artigo 1.º, alínea b), numa mistura com outros óleos vegetais for indicada na rotulagem exteriormente à lista dos ingredientes, por termos, imagens ou representações gráficas, a denominação comercial da mistura em questão é a seguinte: «Mistura de óleos vegetais (ou nomes específicos dos óleos vegetais em causa) e de azeite», seguida diretamente da indicação da percentagem dos óleos vegetais e do azeite na mistura.\n\n2. Na rotulagem das misturas a que se refere o n.º 1, a presença dos azeites referidos no artigo 1.º, alínea b), só pode figurar por meio de imagens ou representações gráficas se a sua percentagem for superior a 50 %.\n\n3. Com exclusão dos produtos alimentares sólidos conservados exclusivamente em azeite, nomeadamente os produtos a que se referem os Regulamentos (CEE) n.º 2136/89 ([^1^](http://publications.europa.eu/resource/cellar/64364aa0-a03e-11ee-b164-01aa75ed71a1.0020.02/DOC_1#E0001)) e (CEE) n.º 1536/92 ([^2^](http://publications.europa.eu/resource/cellar/64364aa0-a03e-11ee-b164-01aa75ed71a1.0020.02/DOC_1#E0002)) do Conselho, se a presença dos azeites referidos no artigo 1.º, alínea b), do presente regulamento for referida na rotulagem exteriormente à lista dos ingredientes, por termos, imagens ou representações gráficas, a denominação do género alimentício deve ser seguida diretamente da percentagem dos azeites ou óleos em relação ao peso líquido total do género alimentício.\n\n4. A percentagem dos azeites referidos no artigo 1.º, alínea b), adicionados, em relação ao peso líquido total do género alimentício a que se refere o n.º 3 do presente artigo, pode ser substituída pela percentagem de azeite ou óleo adicionado em relação ao peso total de matérias gordas, com a especificação «percentagem de matérias gordas».\n\n5. As designações referidas no artigo 6.º, n.º 1, podem ser substituídas pelo termo «azeite» na rotulagem dos produtos referidos nos n.^os^ 1 e 3 do presente artigo.\n\nTodavia, no caso da presença de óleo de bagaço de azeitona, o termo «azeite» deve ser substituído por «óleo de bagaço de azeitona».\n\n6. Se forem adicionados outros géneros alimentícios aos azeites referidos no artigo 1.º, alínea b), o género alimentício resultante não pode ostentar nenhuma das denominações legais referidas no artigo 6.º."
+  },
+  "35b6cfe027c6a975": {
+   "fragment_id": "Artigo 13.º — Revogações",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Revogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Revogações\n\nSão revogados o Regulamento (CEE) n.º 2568/91 e o Regulamento de Execução (UE) n.º 29/2012.\n\nAs remissões para os regulamentos revogados devem entender-se como sendo feitas para o presente regulamento e para o Regulamento de Execução (UE) 2022/2105 e ler-se de acordo com o quadro de correspondência constante do anexo III do presente regulamento."
+  },
+  "2404817ce110c7d6": {
+   "fragment_id": "Artigo 14.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "a05b297ba0a3daf2": {
+   "fragment_id": "CARACTERÍSTICAS DOS AZEITES",
+   "type": "divisao",
+   "heading": "CARACTERÍSTICAS DOS AZEITES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CARACTERÍSTICAS DOS AZEITES"
+  },
+  "0093811cdae68d24": {
+   "fragment_id": "A. Características de qualidade",
+   "type": "divisao",
+   "heading": "A. Características de qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Características de qualidade\n\n| **Categoria** | **Acidez** **(%) ^(*)^** | **Índice de peróxidos** **(mEq O2/kg)** | **K232** | **K268 ou K270** | **ΔΚ** | **Características organoléticas** | **Ésteres etílicos de ácidos gordos** **(mg/kg)** |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| **Mediana dos defeitos (Md) ^(*)^** [(^1^)](http://publications.europa.eu/resource/cellar/64364aa0-a03e-11ee-b164-01aa75ed71a1.0020.02/DOC_1#E0003) | **Mediana do frutado (Mf)** [(^2^)](http://publications.europa.eu/resource/cellar/64364aa0-a03e-11ee-b164-01aa75ed71a1.0020.02/DOC_1#E0004) |  |  |  |  |  |  |  |\n| 1. Azeite virgem extra | ≤ 0,80 | ≤ 20,0 | ≤ 2,50 | ≤ 0,22 | ≤ 0,01 | Md = 0,0 | Mf > 0,0 | ≤ 35 |\n| 2. Azeite virgem | ≤ 2,0 | ≤ 20,0 | ≤ 2,60 | ≤ 0,25 | ≤ 0,01 | Md ≤ 3,5 | Mf > 0,0 | — |\n| 3. Azeite lampante | > 2,0 | — | — | — | — | Md > 3,5 [(^3^)](http://publications.europa.eu/resource/cellar/64364aa0-a03e-11ee-b164-01aa75ed71a1.0020.02/DOC_1#E0005) | — | — |\n| 4. Azeite refinado | ≤ 0,30 | ≤ 5,0 | — | ≤ 1,25 | ≤ 0,16 |  | — | — |\n| 5. Azeite composto por azeite refinado e azeite virgem | ≤ 1,00 | ≤ 15,0 | — | ≤ 1,15 | ≤ 0,15 |  | — | — |\n| 6. Óleo de bagaço de azeitona bruto | — | — | — | — | — |  | — | — |\n| 7. Óleo de bagaço de azeitona refinado | ≤ 0,30 | ≤ 5,0 | — | ≤ 2,00 | ≤ 0,20 |  | — | — |\n| 8. Óleo de bagaço de azeitona | ≤ 1,00 | ≤ 15,0 | — | ≤ 1,70 | ≤ 0,18 |  | — | — |\n| (^1^) Entende-se por «mediana dos defeitos» a mediana do defeito a que tenha sido atribuída a intensidade mais elevada. (^2^) Se a mediana do atributo «amargo» e/ou a mediana do atributo «picante» for superior a 5,0, o presidente do júri deve comunicá-lo. (^3^) A mediana dos defeitos pode ser inferior ou igual a 3,5 se a mediana do frutado for igual a 0,0. |  |  |  |  |  |  |  |  |"
+  },
+  "597d219fc7e4b697": {
+   "fragment_id": "B. Características de pureza",
+   "type": "divisao",
+   "heading": "B. Características de pureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Características de pureza\n\n| **Categoria** | **Composição de ácidos gordos** [(^1^)](http://publications.europa.eu/resource/cellar/64364aa0-a03e-11ee-b164-01aa75ed71a1.0020.02/DOC_1#E0006) | **Total dos isómeros transoleicos** **(%)** | **Total de isómeros dos ácidos translinoleico + translinolénico** **(%)** | **Estigmastadienos** **(mg/kg)** [(^3^)](http://publications.europa.eu/resource/cellar/64364aa0-a03e-11ee-b164-01aa75ed71a1.0020.02/DOC_1#E0008) | **ΔΕCN42** | **Monopalmitato de 2-glicerilo** **(%)** |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| **Mirístico** **(%)** | **Linolénico** **(%)** | **Araquídico** **(%)** | **Eicosenoico** **(%)** | **Beénico** **(%)** | **Lignocérico** **(%)** |  |  |  |  |  |  |\n| 1. Azeite virgem extra | ≤ 0,03 | ≤ 1,00 [(^2^)](http://publications.europa.eu/resource/cellar/64364aa0-a03e-11ee-b164-01aa75ed71a1.0020.02/DOC_1#E0007) | ≤ 0,60 | ≤ 0,50 | ≤ 0,20 | ≤ 0,20 | ≤ 0,05 | ≤ 0,05 | ≤ 0,05 | ≤ \\|0,20 \\| | ≤ 0,9 se ácido palmítico total ≤ 14,00 % |\n| ≤ 1,0 se ácido palmítico total > 14,00 % |  |  |  |  |  |  |  |  |  |  |  |\n| 2. Azeite virgem | ≤ 0,03 | ≤ 1,00 [(^2^)](http://publications.europa.eu/resource/cellar/64364aa0-a03e-11ee-b164-01aa75ed71a1.0020.02/DOC_1#E0007) | ≤ 0,60 | ≤ 0,50 | ≤ 0,20 | ≤ 0,20 | ≤ 0,05 | ≤ 0,05 | ≤ 0,05 | ≤ \\|0,20 \\| | ≤ 0,9 se ácido palmítico total ≤ 14,00 % |\n| ≤ 1,0 se ácido palmítico total > 14,00 % |  |  |  |  |  |  |  |  |  |  |  |\n| 3. Azeite lampante | ≤ 0,03 | ≤ 1,00 | ≤ 0,60 | ≤ 0,50 | ≤ 0,20 | ≤ 0,20 | ≤ 0,10 | ≤ 0,10 | ≤ 0,50 | ≤ \\|0,30 \\| | ≤ 0,9 se ácido palmítico total ≤ 14,00 % |\n| ≤ 1,1 se ácido palmítico total > 14,00 % |  |  |  |  |  |  |  |  |  |  |  |\n| 4. Azeite refinado | ≤ 0,03 | ≤ 1,00 | ≤ 0,60 | ≤ 0,50 | ≤ 0,20 | ≤ 0,20 | ≤ 0,20 | ≤ 0,30 | — | ≤ \\|0,30 \\| | ≤ 0,9 se ácido palmítico total ≤ 14,00 % |\n| ≤ 1,1 se ácido palmítico total > 14,00 % |  |  |  |  |  |  |  |  |  |  |  |\n| 5. Azeite composto por azeite refinado e azeite virgem | ≤ 0,03 | ≤ 1,00 | ≤ 0,60 | ≤ 0,50 | ≤ 0,20 | ≤ 0,20 | ≤ 0,20 | ≤ 0,30 | — | ≤ \\|0,30 \\| | ≤ 0,9 se ácido palmítico total ≤ 14,00 % |\n| ≤ 1,0 se ácido palmítico total > 14,00 % |  |  |  |  |  |  |  |  |  |  |  |\n| 6. Óleo de bagaço de azeitona bruto | ≤ 0,03 | ≤ 1,00 | ≤ 0,60 | ≤ 0,50 | ≤ 0,30 | ≤ 0,20 | ≤ 0,20 | ≤ 0,10 | — | ≤ \\|0,60 \\| | ≤ 1,4 |\n| 7. Óleo de bagaço de azeitona refinado | ≤ 0,03 | ≤ 1,00 | ≤ 0,60 | ≤ 0,50 | ≤ 0,30 | ≤ 0,20 | ≤ 0,40 | ≤ 0,35 | — | ≤ \\|0,50 \\| | ≤ 1,4 |\n| 8. Óleo de bagaço de azeitona | ≤ 0,03 | ≤ 1,00 | ≤ 0,60 | ≤ 0,50 | ≤ 0,30 | ≤ 0,20 | ≤ 0,40 | ≤ 0,35 | — | ≤ \\|0,50 \\| | ≤ 1,2 |\n| (^1^) Teores de outros ácidos gordos (%): palmítico: 7,00-20,00; palmitoleico: 0,30-3,50; heptadecanoico: ≤ 0,40; heptadecenoico: ≤ 0,60; esteárico: 0,50-5,00; oleico: 55,00-85,00; linoleico: 2,50-21,00. (^2^) Se o teor de ácido linolénico for superior a 1,00, mas inferior ou igual a 1,40, a razão β-sitosterol aparente/campesterol deve ser superior ou igual a 24. (^3^) Soma dos isómeros, separáveis ou não em coluna capilar. |  |  |  |  |  |  |  |  |  |  |  |\n\nQuadro B (continuação)\n\n| **Categoria** | **Composição esterólica** | **Esteróis totais** **(mg/kg)** | **Eritrodiol e uvaol (%) ^(**)^** | **Ceras (mg/kg) ^(**)^** |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| **Colesterol (%)** | **Brassicasterol (%)** | **Campesterol** [(^1^)](http://publications.europa.eu/resource/cellar/64364aa0-a03e-11ee-b164-01aa75ed71a1.0020.02/DOC_1#E0009) **(%)** | **Estigmasterol (%)** | **β-sitosterol aparente** [(^2^)](http://publications.europa.eu/resource/cellar/64364aa0-a03e-11ee-b164-01aa75ed71a1.0020.02/DOC_1#E0010) **(%)** | **Δ-7-estigmastenol** [(^1^)](http://publications.europa.eu/resource/cellar/64364aa0-a03e-11ee-b164-01aa75ed71a1.0020.02/DOC_1#E0009) **(%)** |  |  |  |  |\n| 1. Azeite virgem extra | ≤ 0,5 | ≤ 0,1 | ≤ 4,0 | < Campesterol | ≥ 93,0 | ≤ 0,5 | ≥ 1 000 | ≤ 4,5 | C42 + C44 + C46 ≤ 150 |\n| 2. Azeite virgem | ≤ 0,5 | ≤ 0,1 | ≤ 4,0 | < Campesterol | ≥ 93,0 | ≤ 0,5 | ≥ 1 000 | ≤ 4,5 | C42 + C44 + C46 ≤ 150 |\n| 3. Azeite lampante | ≤ 0,5 | ≤ 0,1 | ≤ 4,0 | — | ≥ 93,0 | ≤ 0,5 | ≥ 1 000 | ≤ 4,5 [(^3^)](http://publications.europa.eu/resource/cellar/64364aa0-a03e-11ee-b164-01aa75ed71a1.0020.02/DOC_1#E0011) | C40 + C42 + C44 + C46 ≤ 300 [(^3^)](http://publications.europa.eu/resource/cellar/64364aa0-a03e-11ee-b164-01aa75ed71a1.0020.02/DOC_1#E0011) |\n| 4. Azeite refinado | ≤ 0,5 | ≤ 0,1 | ≤ 4,0 | < Campesterol | ≥ 93,0 | ≤ 0,5 | ≥ 1 000 | ≤ 4,5 [(^4^)](http://publications.europa.eu/resource/cellar/64364aa0-a03e-11ee-b164-01aa75ed71a1.0020.02/DOC_1#E0012) | C40 + C42 + C44 + C46 ≤ 350 |\n| 5. Azeite composto por azeite refinado e azeite virgem | ≤ 0,5 | ≤ 0,1 | ≤ 4,0 | < Campesterol | ≥ 93,0 | ≤ 0,5 | ≥ 1 000 | ≤ 4,5 | C40 + C42 + C44 + C46 ≤ 350 |\n| 6. Óleo de bagaço de azeitona bruto | ≤ 0,5 | ≤ 0,2 | ≤ 4,0 | — | ≥ 93,0 | ≤ 0,5 | ≥ 2 500 | > 4,5 [(^5^)](http://publications.europa.eu/resource/cellar/64364aa0-a03e-11ee-b164-01aa75ed71a1.0020.02/DOC_1#E0013) | C40 + C42 + C44 + C46 > 350 [(^5^)](http://publications.europa.eu/resource/cellar/64364aa0-a03e-11ee-b164-01aa75ed71a1.0020.02/DOC_1#E0013) |\n| 7. Óleo de bagaço de azeitona refinado | ≤ 0,5 | ≤ 0,2 | ≤ 4,0 | < Campesterol | ≥ 93,0 | ≤ 0,5 | ≥ 1 800 | > 4,5 | C40 + C42 + C44 + C46 > 350 |\n| 8. Óleo de bagaço de azeitona | ≤ 0,5 | ≤ 0,2 | ≤ 4,0 | < Campesterol | ≥ 93,0 | ≤ 0,5 | ≥ 1 600 | > 4,5 | C40 + C42 + C44 + C46 > 350 |\n| (^1^) Ver o apêndice do presente anexo. (^2^) β-sitosterol aparente: Δ-5,23-estigmastadienol + clerosterol + β-sitosterol + sitostanol + Δ-5-avenasterol + Δ-5,24-estigmastadienol. (^3^) Os azeites cujo teor de ceras esteja compreendido entre 300 mg/kg e 350 mg/kg são considerados azeite lampante se o teor de álcoois alifáticos totais for inferior ou igual a 350 mg/kg ou se a percentagem de eritrodiol e uvaol for inferior ou igual a 3,5%. (^4^) Os azeites cujo teor de eritrodiol + uvaol esteja compreendido entre 4,5% e 6% devem ter um teor de eritrodiol inferior ou igual a 75 mg/kg. (^5^) Os óleos cujo teor de ceras esteja compreendido entre 300 mg/kg e 350 mg/kg são considerados óleo de bagaço de azeitona bruto se o teor de álcoois alifáticos totais for superior a 350 mg/kg e a percentagem de eritrodiol e uvaol for superior a 3,5%. |  |  |  |  |  |  |  |  |  |"
+  },
+  "1e61466777ee0904": {
+   "fragment_id": "Notas:",
+   "type": "divisao",
+   "heading": "Notas:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Notas:\n\na) Os resultados das análises devem ser expressos com um número de algarismos significativos idêntico ao previsto para cada característica. Se o algarismo seguinte for superior a 4, o último algarismo significativo deve ser aumentado de uma unidade.\n\nb) Basta que uma das características esteja fora dos limites fixados para que o azeite ou óleo seja classificado noutra categoria ou declarado não conforme, para os efeitos do presente regulamento.\n\nc) No caso do azeite lampante, as características de qualidade assinaladas com um asterisco (*) podem diferir simultaneamente dos limites estabelecidos para a categoria correspondente.\n\nd) No caso dos óleos de bagaço de azeitona brutos, os limites relativos às características assinaladas com dois asteriscos (**) podem diferir simultaneamente dos valores declarados. No caso dos óleos de bagaço de azeitona e dos óleos de bagaço de azeitona refinados, apenas um dos limites em causa pode diferir dos valores declarados."
+  },
+  "ae333fc2d57e1e38": {
+   "fragment_id": "Apêndice",
+   "type": "divisao",
+   "heading": "Apêndice",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Apêndice"
+  },
+  "4b6dee5d9e691ff2": {
+   "fragment_id": "Esquemas de decisão",
+   "type": "divisao",
+   "heading": "Esquemas de decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Esquemas de decisão\n\nEsquema de decisão relativo ao campesterol para azeites virgens e azeites virgens extra:\n\nOs outros parâmetros devem respeitar os limites estabelecidos no presente regulamento.\n\nEsquema de decisão relativo ao delta-7-estigmastenol para:\n\n— **Azeite virgem e azeite virgem extra**\n\nOs outros parâmetros devem respeitar os limites estabelecidos no presente regulamento.\n\n— **Azeite lampante**\n\nOs outros parâmetros devem respeitar os limites estabelecidos no presente regulamento.\n\n— **Azeite refinado e azeite composto por azeite refinado e azeite virgem**\n\nOs outros parâmetros devem respeitar os limites estabelecidos no presente regulamento.\n\n— **Óleo de bagaço de azeitona bruto, óleo de bagaço de azeitona refinado e óleo de bagaço de azeitona**\n\nOs outros parâmetros devem respeitar os limites estabelecidos no presente regulamento."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "59ee6ccfb8259462": {
+   "fragment_id": "Definições da terminologia facultativa relativa a características organoléticas para efeitos de rotulagem",
+   "type": "divisao",
+   "heading": "Definições da terminologia facultativa relativa a características organoléticas para efeitos de rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Definições da terminologia facultativa relativa a características organoléticas para efeitos de rotulagem\n\nSe lhe for solicitado, o presidente do júri de provadores criado em conformidade com o artigo 10.º do Regulamento de Execução (UE) 2022/2105 da Comissão pode certificar que os azeites avaliados satisfazem as definições e intervalos correspondentes apenas aos termos seguintes, em função da intensidade e perceção dos atributos:\n\nAtributos positivos (frutado, amargo e picante), em função da intensidade de perceção:\n\n*Intenso*: se a mediana do atributo em causa for superior a 6,0;\n\n*Médio*: se a mediana do atributo em causa for superior a 3,0 e igual ou inferior a 6,0;\n\n*Suave*: se a mediana do atributo em causa for igual ou inferior a 3,0;\n\n*Frutado*: conjunto das sensações olfativas dependentes da variedade de azeitona, por via direta e/ou retronasal, características dos azeites provenientes de frutos sãos e frescos, sem predominância de frutado verde ou maduro.\n\n*Frutado verde*: conjunto das sensações olfativas dependentes da variedade de azeitona, por via direta e/ou retronasal, que lembram frutos verdes, características dos azeites provenientes de frutos sãos e frescos.\n\n*Frutado maduro*: conjunto das sensações olfativas dependentes da variedade de azeitona, por via direta e/ou retronasal, que lembram frutos maduros, características dos azeites provenientes de frutos sãos e frescos.\n\n*Azeite equilibrado*: azeite sem desequilíbrios, entendendo-se por «equilíbrio» a sensação olfato-gustativa e tátil dos azeites cuja mediana do atributo «amargo» e cuja mediana do atributo «picante» não excedam em mais de 2,0 pontos a mediana do atributo «frutado».\n\n*Azeite doce*: azeite cuja mediana do atributo «amargo» e cuja mediana do atributo «picante» sejam iguais ou inferiores a 2,0.\n\n**Termos sujeitos à apresentação de um certificado de exame organolético** **Mediana do atributo**\n\nFrutado —\n\nFrutado maduro —\n\nFrutado verde —\n\nFrutado suave ≤ 3,0\n\nFrutado médio 3,0 < mediana ≤ 6,0\n\nFrutado intenso > 6,0\n\nFrutado maduro suave ≤ 3,0\n\nFrutado maduro médio 3,0 < mediana ≤ 6,0\n\nFrutado maduro intenso > 6,0\n\nFrutado verde suave ≤ 3,0\n\nFrutado verde médio 3,0 < mediana ≤ 6,0\n\nFrutado verde intenso > 6,0\n\nAmargo suave ≤ 3,0\n\nAmargo médio 3,0 < mediana ≤ 6,0\n\nAmargo intenso > 6,0\n\nPicante suave ≤ 3,0\n\nPicante médio 3,0 < mediana ≤ 6,0\n\nPicante intenso > 6,0\n\nAzeite equilibrado A mediana da intensidade do atributo e a mediana do atributo «picante» não ultrapassam em mais de 2,0 pontos a mediana do atributo «frutado».\n\nAzeite doce A mediana do atributo «amargo» e a mediana do atributo «picante» são iguais ou inferiores a 2,0."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "cdc6f35d22ce96ee": {
+   "fragment_id": "Quadro de correspondência",
+   "type": "divisao",
+   "heading": "Quadro de correspondência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Quadro de correspondência\n\n| **Regulamento de Execução (UE) n.º 29/2012** | **Regulamento (CEE) n.º 2568/91** | **Presente regulamento** | **Regulamento de Execução (UE) 2022/2105 da Comissão** |\n| --- | --- | --- | --- |\n| **------** | **------** | Artigo 1.º, alínea a) |  |\n| **------** | **------** |  | Artigo 1.º |\n| **------** | **------** |  | Artigo 2.º, n.º 2 |\n| Artigo 1.º, n.º 1 |  | Artigo 1.º, alínea b), e artigo 1.º, n.º 2 |  |\n| Artigo 1.º, n.º 2 |  | Artigo 1.º, alínea b) |  |\n| Artigo 2.º, primeiro parágrafo |  | Artigo 4.º, n.º 1 |  |\n| Artigo 2.º, segundo parágrafo |  | Artigo 4.º, n.º 2 |  |\n| Artigo 3.º, primeiro parágrafo |  | Artigo 6.º, n.º 1 |  |\n| Artigo 3.º, segundo parágrafo, alíneas a) a d) |  | Artigo 6.º, n.º 2, alíneas a) a d) |  |\n| Artigo 4.º, n.º 1, primeiro parágrafo |  | Artigo 8.º, n.º 1 |  |\n| Artigo 4.º, n.º 1, segundo parágrafo |  | Artigo 8.º, n.º 2 |  |\n| Artigo 4.º, n.º 1, terceiro parágrafo |  | – |  |\n| Artigo 4.º, n.º 2 |  | Artigo 8.º, n.º 3 |  |\n| Artigo 4.º, n.º 3 |  | Artigo 8.º, n.º 4 |  |\n| Artigo 4.º, n.º 4 |  | Artigo 8.º, n.º 5 |  |\n| Artigo 4.º, n.º 5, primeiro parágrafo |  | Artigo 8.º, n.º 6 |  |\n| Artigo 4.º, n.º 5, segundo parágrafo |  | Artigo 8.º, n.º 7 |  |\n| Artigo 4.º-A |  | Artigo 7.º |  |\n| Artigo 4.º-B |  | Artigo 5.º |  |\n| Artigo 5.º, primeiro parágrafo, alíneas a) a d) |  | Artigo 10.º, alíneas a) a d) |  |\n| Artigo 5.º, primeiro parágrafo, alínea e) |  | Artigo 11.º, n.^os^ 1 e 2 |  |\n| Artigo 5.º, segundo parágrafo |  | – |  |\n| Artigo 5.º-A, primeiro parágrafo |  | Artigo 11.º, n.º 3 |  |\n| Artigo 5.º-A, segundo parágrafo |  | Artigo 11.º, n.º 4 |  |\n| Artigo 5.º-A, terceiro parágrafo |  | Artigo 11.º, n.º 5 |  |\n| Artigo 6.º, n.º 1, primeiro parágrafo |  | Artigo 12.º, n.º 1 |  |\n| Artigo 6.º, n.º 1, segundo parágrafo |  | Artigo 12.º, n.º 2 |  |\n| Artigo 6.º, n.º 1, terceiro parágrafo |  | Artigo 3.º, n.º 3 |  |\n| Artigo 6.º, n.º 2, primeiro parágrafo |  | Artigo 12.º, n.º 3 |  |\n| Artigo 6.º, n.º 2, segundo parágrafo |  | Artigo 12.º, n.º 4 |  |\n| Artigo 6.º, n.º 3 |  | Artigo 12.º, n.º 5 |  |\n| – | – | Artigo 12.º, n.º 6 |  |\n| Artigo 6.º, n.º 4 |  | – |  |\n| Artigo 7.º |  |  | Artigo 5.º, n.º 2 |\n| Artigo 8.º, n.º 1 |  |  | Artigo 2.º, n.º 3 |\n| Artigo 8.º, n.º 2 |  |  | Artigo 4.º, n.º 3 |\n| Artigo 8.º, n.º 3 |  |  | Artigo 4.º, n.º 2 |\n| Artigo 8.º, n.º 4 |  |  | Artigo 4.º, n.º 3 |\n| Artigo 8.º-A |  |  | Artigo 2.º, n.º 1, e artigo 4.º, n.º 1 |\n| Artigo 9.º, n.º 1, primeiro parágrafo |  |  | Artigo 13.º, n.º 1 |\n| Artigo 9.º, n.º 1, segundo parágrafo |  |  | Artigo 13.º, n.º 2 |\n| Artigo 9.º, n.º 1, terceiro parágrafo |  |  | **----** |\n| Artigo 9.º, n.º 1, quarto parágrafo |  |  | **----** |\n| Artigo 9.º, n.º 1, quinto parágrafo |  |  | **----** |\n| Artigo 9.º, n.º 2, primeiro parágrafo |  |  | Artigo 6.º, n.º 1 |\n| Artigo 9.º, n.º 2, segundo parágrafo, alíneas a), b) e c) |  |  | Artigo 6.º, n.º 2, alíneas a), b) e c) |\n| Artigo 9.º, n.º 2, terceiro parágrafo |  | Artigo 9.º |  |\n| **-----** |  |  | Artigo 6.º, n.º 3 |\n| Artigo 10.º, primeiro parágrafo, frase introdutória |  |  | Artigo 14.º |\n| Artigo 10.º, primeiro parágrafo, alíneas a) a d), e segundo parágrafo |  |  | **-----** |\n| Artigo 10.º-A |  |  | Artigo 14.º |\n| Anexo I |  | – |  |\n| Anexo II |  | – |  |\n|  | Artigo 1.º, n.º 1 | Artigo 2.º, n.º 1, alíneas a) e b) |  |\n|  | Artigo 1.º, n.º 2 | Artigo 2.º, n.º 1, alínea c) |  |\n|  | Artigo 1.º, n.º 3 | Artigo 2.º, n.º 1, alínea d) |  |\n|  | Artigo 1.º, n.º 4 | Artigo 2.º, n.º 1, alínea e) |  |\n|  | Artigo 1.º, n.º 5 | Artigo 2.º, n.º 1, alínea f) |  |\n|  | Artigo 1.º, n.º 6 | Artigo 2.º, n.º 1, alínea g) |  |\n|  | Artigo 1.º, n.º 7 | Artigo 2.º, n.º 1, alínea h) |  |\n| **-------** | **------** | Artigo 2.º, n.º 2 |  |\n| **-------** | **------** | Artigo 3.º, n.^os^ 1 e 2 |  |\n|  | Artigo 2.º, n.º 1 |  | Artigo 7.º |\n|  | Artigo 2.º, n.º 1, alínea a) |  | Anexo I, ponto 1 |\n|  | Artigo 2.º, n.º 1, alínea b) |  | Anexo I, ponto 2 |\n|  | Artigo 2.º, n.º 1, alínea c) |  | **-----** |\n|  | Artigo 2.º, n.º 1, alínea d) |  | **-----** |\n|  | Artigo 2.º, n.º 1, alínea e) |  | Anexo I, ponto 3 |\n|  | Artigo 2.º, n.º 1, alínea f) |  | Anexo I, ponto 4 |\n|  | Artigo 2.º, n.º 1, alínea g) |  | Anexo I, ponto 5 |\n|  | Artigo 2.º, n.º 1, alínea h) |  | **-----** |\n|  | Artigo 2.º, n.º 1, alínea i) |  | Anexo I, ponto 6 |\n|  | Artigo 2.º, n.º 1, alínea j) |  | Anexo I, ponto 7 |\n|  | Artigo 2.º, n.º 1, alínea k) |  | Anexo I, ponto 8 |\n|  | Artigo 2.º, n.º 1, alínea l) |  | Anexo I, ponto 9 |\n|  | Artigo 2.º, n.º 1, alínea m) |  | Anexo I, ponto 10 |\n|  | Artigo 2.º, n.º 2, primeiro parágrafo, e parte do ponto 9.4 do anexo XII |  | Artigo 10.º, n.º 1 |\n|  | Artigo 2.º, n.º 2, segundo parágrafo |  | Artigo 11.º, n.º 1 |\n|  | Artigo 2.º, n.º 2, terceiro parágrafo |  | Artigo 11.º, n.º 2 |\n|  | – |  | Artigo 11.º, n.º 3 |\n|  | Parte do ponto 9.4 do anexo XII |  | Artigo 11.º, n.º 4 |\n|  | Artigo 2.º, n.º 3, primeiro parágrafo |  | Artigo 3.º, n.º 1 |\n|  | Artigo 2.º, n.º 3, segundo parágrafo |  | Artigo 3.º, n.º 2 |\n|  | Artigo 2.º, n.º 4, primeiro parágrafo |  | Artigo 9.º, n.º 2 |\n|  | Artigo 2.º, n.º 4, segundo parágrafo |  | Artigo 9.º, n.º 3 |\n|  | Artigo 2.º, n.º 4, terceiro parágrafo |  | Artigo 9.º, n.º 4 |\n|  | Artigo 2.º, n.º 5 |  | Artigo 9.º, n.º 5 |\n|  | Artigo 2.º-A, n.º 1 |  | Artigo 3.º, n.º 1 |\n|  | Artigo 2.º-A, n.º 2 |  | Artigo 3.º, n.º 3 |\n|  | Artigo 2.º-A, n.º 3 |  | Artigo 3.º, n.º 4 |\n|  | Artigo 2.º-A, n.º 4, primeiro parágrafo |  | Artigo 3.º, n.º 5 |\n|  | Artigo 2.º-A, n.º 4, segundo parágrafo |  | Artigo 3.º, n.º 2 |\n|  | Artigo 2.º-A, n.º 5 |  | Artigo 9.º, n.º 1 |\n|  | Artigo 3.º, primeiro parágrafo |  | Artigo 13.º, n.º 1 |\n|  | Artigo 3.º, segundo parágrafo |  | Artigo 3.º, n.º 6 |\n|  | Artigo 4.º, n.º 1, primeiro parágrafo |  | Artigo 10.º, n.º 1 |\n|  | Artigo 4.º, n.º 1, segundo parágrafo |  | Artigo 10.º, n.º 2 |\n|  | Artigo 4.º, n.º 1, terceiro parágrafo |  | Artigo 10.º, n.º 3 |\n|  | Artigo 4.º, n.º 2 |  | Artigo 10.º, n.º 4 |\n|  | Artigo 4.º, n.º 3 |  | – |\n|  | Artigo 6.º, n.º 1 |  | Artigo 12.º, n.º 1 |\n|  | Artigo 6.º, n.º 2 |  | Artigo 12.º, n.º 2 |\n|  | Artigo 7.º |  | **----** |\n|  | Artigo 7.º-A, segundo parágrafo |  | Artigo 2.º, n.º 2 |\n|  | Artigo 8.º, n.º 1 |  | – |\n|  | Artigo 8.º, n.º 2 |  | Artigo 14.º |\n|  | Anexo I | Anexo I |  |\n|  | Anexo XII, ponto 3.3 | Anexo II |  |\n|  | Anexo I-A, exceto o ponto 2.1 |  | Anexo II |\n|  | Anexo I-A, ponto 2.1 |  | Artigo 9.º, n.º 6 |\n|  | Anexo I-B |  | Anexo III |\n|  | Anexo III |  | **----** |\n|  | Anexo IV |  | **----** |\n|  | Anexo VII |  | **----** |\n|  | Anexo IX |  | **----** |\n|  | Anexo X |  | **----** |\n|  | Anexo XI |  | **----** |\n|  | Anexo XII, com exceção do ponto 3.3 e de parte do ponto 9.4 |  | **----** |\n|  | Anexo XV |  | Anexo IV |\n|  | Anexo XVI |  | **----** |\n|  | Anexo XVII |  | **----** |\n|  | Anexo XVIII |  | **----** |\n|  | Anexo XIX |  | **----** |\n|  | Anexo XX |  | **----** |\n|  | Anexo XXI |  | Anexo V |\n\n---"
+  },
+  "3d35040c880c4612": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/64364aa0-a03e-11ee-b164-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Regulamento (CEE) n.º 2136/89 do Conselho, de 21 de junho de 1989, que fixa normas comuns de comercialização para as conservas de sardinha (JO L 212 de 22.7.1989, p. 79).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/64364aa0-a03e-11ee-b164-01aa75ed71a1.0020.02/DOC_1#src.E0002)) Regulamento (CEE) n.º 1536/92 do Conselho, de 9 de junho de 1992, que fixa normas comuns de comercialização para as conservas de atum e de bonito (JO L 163 de 17.6.1992, p. 1)."
+  },
+  "108246cfd11598cd": {
+   "fragment_id": "Artigo 12.º — Indicação exteriormente à lista dos ingredientes da presença de azeite em misturas e géneros alimentícios",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Indicação exteriormente à lista dos ingredientes da presença de azeite em misturas e géneros alimentícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Indicação exteriormente à lista dos ingredientes da presença de azeite em misturas e géneros alimentícios\n\n1. Se a presença dos azeites referidos no artigo 1.º, alínea b), numa mistura com outros óleos vegetais for indicada na rotulagem exteriormente à lista dos ingredientes, por termos, imagens ou representações gráficas, a denominação comercial da mistura em questão é a seguinte: «Mistura de óleos vegetais (ou nomes específicos dos óleos vegetais em causa) e de azeite», seguida diretamente da indicação da percentagem dos óleos vegetais e do azeite na mistura.\n\n2. Na rotulagem das misturas a que se refere o n.º 1, a presença dos azeites referidos no artigo 1.º, alínea b), só pode figurar por meio de imagens ou representações gráficas se a sua percentagem for superior a 50 %.\n\n3. Com exclusão dos produtos alimentares sólidos conservados exclusivamente em azeite, nomeadamente os produtos a que se referem os Regulamentos (CEE) n.º 2136/89 ([^1^](http://publications.europa.eu/resource/cellar/01330ece-2dad-11ef-a61b-01aa75ed71a1.0020.02/DOC_2#E0001)) e (CEE) n.º 1536/92 ([^2^](http://publications.europa.eu/resource/cellar/01330ece-2dad-11ef-a61b-01aa75ed71a1.0020.02/DOC_2#E0002)) do Conselho, se a presença dos azeites referidos no artigo 1.º, alínea b), do presente regulamento for referida na rotulagem exteriormente à lista dos ingredientes, por termos, imagens ou representações gráficas, a denominação do género alimentício deve ser seguida diretamente da percentagem dos azeites ou óleos em relação ao peso líquido total do género alimentício.\n\n4. A percentagem dos azeites referidos no artigo 1.º, alínea b), adicionados, em relação ao peso líquido total do género alimentício a que se refere o n.º 3 do presente artigo, pode ser substituída pela percentagem de azeite ou óleo adicionado em relação ao peso total de matérias gordas, com a especificação «percentagem de matérias gordas».\n\n5. As designações referidas no artigo 6.º, n.º 1, podem ser substituídas pelo termo «azeite» na rotulagem dos produtos referidos nos n.^os^ 1 e 3 do presente artigo.\n\nTodavia, no caso da presença de óleo de bagaço de azeitona, o termo «azeite» deve ser substituído por «óleo de bagaço de azeitona».\n\n6. Se forem adicionados outros géneros alimentícios aos azeites referidos no artigo 1.º, alínea b), o género alimentício resultante não pode ostentar nenhuma das denominações legais referidas no artigo 6.º."
+  },
+  "3ce6ffb508f02977": {
+   "fragment_id": "A. Características de qualidade",
+   "type": "divisao",
+   "heading": "A. Características de qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Características de qualidade\n\n| **Categoria** | **Acidez** **(%) ^(*)^** | **Índice de peróxidos** **(mEq O2/kg)** | **K232** | **K268 ou K270** | **ΔΚ** | **Características organoléticas** | **Ésteres etílicos de ácidos gordos** **(mg/kg)** |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| **Mediana dos defeitos (Md) ^(*)^** [(^1^)](http://publications.europa.eu/resource/cellar/01330ece-2dad-11ef-a61b-01aa75ed71a1.0020.02/DOC_2#E0003) | **Mediana do frutado (Mf)** [(^2^)](http://publications.europa.eu/resource/cellar/01330ece-2dad-11ef-a61b-01aa75ed71a1.0020.02/DOC_2#E0004) |  |  |  |  |  |  |  |\n| 1. Azeite virgem extra | ≤ 0,80 | ≤ 20,0 | ≤ 2,50 | ≤ 0,22 | ≤ 0,01 | Md = 0,0 | Mf > 0,0 | ≤ 35 |\n| 2. Azeite virgem | ≤ 2,0 | ≤ 20,0 | ≤ 2,60 | ≤ 0,25 | ≤ 0,01 | Md ≤ 3,5 | Mf > 0,0 | — |\n| 3. Azeite lampante | > 2,0 | — | — | — | — | Md > 3,5 [(^3^)](http://publications.europa.eu/resource/cellar/01330ece-2dad-11ef-a61b-01aa75ed71a1.0020.02/DOC_2#E0005) | — | — |\n| 4. Azeite refinado | ≤ 0,30 | ≤ 5,0 | — | ≤ 1,25 | ≤ 0,16 |  | — | — |\n| 5. Azeite composto por azeite refinado e azeite virgem | ≤ 1,00 | ≤ 15,0 | — | ≤ 1,15 | ≤ 0,15 |  | — | — |\n| 6. Óleo de bagaço de azeitona bruto | — | — | — | — | — |  | — | — |\n| 7. Óleo de bagaço de azeitona refinado | ≤ 0,30 | ≤ 5,0 | — | ≤ 2,00 | ≤ 0,20 |  | — | — |\n| 8. Óleo de bagaço de azeitona | ≤ 1,00 | ≤ 15,0 | — | ≤ 1,70 | ≤ 0,18 |  | — | — |\n| (^1^) Entende-se por «mediana dos defeitos» a mediana do defeito a que tenha sido atribuída a intensidade mais elevada. (^2^) Se a mediana do atributo «amargo» e/ou a mediana do atributo «picante» for superior a 5,0, o presidente do júri deve comunicá-lo. (^3^) A mediana dos defeitos pode ser inferior ou igual a 3,5 se a mediana do frutado for igual a 0,0. |  |  |  |  |  |  |  |  |"
+  },
+  "12ab230f6b549eb9": {
+   "fragment_id": "B. Características de pureza",
+   "type": "divisao",
+   "heading": "B. Características de pureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Características de pureza\n\n| **Categoria** | **Composição de ácidos gordos** [(^1^)](http://publications.europa.eu/resource/cellar/01330ece-2dad-11ef-a61b-01aa75ed71a1.0020.02/DOC_2#E0006) | **Isómeros transoleicos totais** **(%)** | **Total de isómeros translinoleicos + translinolénicos** **(%)** | **Estigmastadienos** **(mg/kg)** [(^2^)](http://publications.europa.eu/resource/cellar/01330ece-2dad-11ef-a61b-01aa75ed71a1.0020.02/DOC_2#E0007) | **ΔΕCN42** | **Monopalmitato de** **2-glicerilo** **(%)** |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| **Mirístico** **(%)** | **Linolénico** **(%)** | **Araquídico** **(%)** | **Eicosenóico** **(%)** | **Beénico** **(%)** | **Lignocérico** **(%)** |  |  |  |  |  |  |\n| 1. Azeite virgem extra | ≤ 0,03 | ≤ 1,00 [(^3^)](http://publications.europa.eu/resource/cellar/01330ece-2dad-11ef-a61b-01aa75ed71a1.0020.02/DOC_2#E0008) | ≤ 0,60 | ≤ 0,50 | ≤ 0,20 | ≤ 0,20 | ≤ 0,05 | ≤ 0,05 | ≤ 0,05 | ≤ \\|0,20 \\| | ≤ 0,9 se ácido palmítico total ≤ 14,00 % |\n| ≤ 1,0 se ácido palmítico total > 14,00 % |  |  |  |  |  |  |  |  |  |  |  |\n| 2. Azeite virgem | ≤ 0,03 | ≤ 1,00 [(^3^)](http://publications.europa.eu/resource/cellar/01330ece-2dad-11ef-a61b-01aa75ed71a1.0020.02/DOC_2#E0008) | ≤ 0,60 | ≤ 0,50 | ≤ 0,20 | ≤ 0,20 | ≤ 0,05 | ≤ 0,05 | ≤ 0,05 | ≤ \\|0,20 \\| | ≤ 0,9 se ácido palmítico total ≤ 14,00 % |\n| ≤ 1,0 se ácido palmítico total > 14,00 % |  |  |  |  |  |  |  |  |  |  |  |\n| 3. Azeite lampante | ≤ 0,03 | ≤ 1,00 | ≤ 0,60 | ≤ 0,50 | ≤ 0,20 | ≤ 0,20 | ≤ 0,10 | ≤ 0,10 | ≤ 0,50 | ≤ \\|0,30 \\| | ≤ 0,9 se ácido palmítico total ≤ 14,00 % |\n| ≤ 1,1 se ácido palmítico total > 14,00 % |  |  |  |  |  |  |  |  |  |  |  |\n| 4. Azeite refinado | ≤ 0,03 | ≤ 1,00 | ≤ 0,60 | ≤ 0,50 | ≤ 0,20 | ≤ 0,20 | ≤ 0,20 | ≤ 0,30 | — | ≤ \\|0,30 \\| | ≤ 0,9 se ácido palmítico total ≤ 14,00 % |\n| ≤ 1,1 se ácido palmítico total > 14,00 % |  |  |  |  |  |  |  |  |  |  |  |\n| 5. Azeite composto por azeites refinados e azeites virgens | ≤ 0,03 | ≤ 1,00 | ≤ 0,60 | ≤ 0,50 | ≤ 0,20 | ≤ 0,20 | ≤ 0,20 | ≤ 0,30 | — | ≤ \\|0,30 \\| | ≤ 0,9 se ácido palmítico total ≤ 14,00 % |\n| ≤ 1,0 se ácido palmítico total > 14,00 % |  |  |  |  |  |  |  |  |  |  |  |\n| 6. Óleo de bagaço de azeitona bruto | ≤ 0,03 | ≤ 1,00 | ≤ 0,60 | ≤ 0,50 | ≤ 0,30 | ≤ 0,20 | ≤ 0,20 | ≤ 0,10 | — | ≤ \\|0,60 \\| | ≤ 1,4 |\n| 7. Óleo de bagaço de azeitona refinado | ≤ 0,03 | ≤ 1,00 | ≤ 0,60 | ≤ 0,50 | ≤ 0,30 | ≤ 0,20 | ≤ 0,40 | ≤ 0,35 | — | ≤ \\|0,50 \\| | ≤ 1,4 |\n| 8. Óleo de bagaço de azeitona | ≤ 0,03 | ≤ 1,00 | ≤ 0,60 | ≤ 0,50 | ≤ 0,30 | ≤ 0,20 | ≤ 0,40 | ≤ 0,35 | — | ≤ \\|0,50 \\| | ≤ 1,2 |\n| (^1^) Teores de outros ácidos gordos (%): palmítico: 7,00-20,00; palmitoleico: 0,30-3,50; heptadecanóico: ≤ 0,40; heptadecenóico: ≤ 0,60; esteárico: 0,50-5,00; oleico: 55,00-85,00; linoleico: 2,50-21,00. (^2^) Soma dos isómeros, separáveis ou não em coluna capilar. (^3^) Se o teor de ácido linolénico for superior a 1,00, mas inferior ou igual a 1,40, a razão β-sitosterol aparente/campesterol deve ser superior ou igual a 24. |  |  |  |  |  |  |  |  |  |  |  |\n\nQuadro B (continuação)\n\n| **Categoria** | **Composição esterólica** | **Esteróis totais** **(mg/kg)** | **Eritrodiol e uvaol** (**) **(%)** | **Ceras** (**) (mg/kg) |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| **Colesterol (%)** | **Brassicasterol (%)** | **Campesterol (%)** | **Estigmasterol (%)** | **β-sitosterol aparente** [(^1^)](http://publications.europa.eu/resource/cellar/01330ece-2dad-11ef-a61b-01aa75ed71a1.0020.02/DOC_2#E0009) **(%)** | **Δ-7-estigmastenol (%)** |  |  |  |  |\n| 1. Azeite virgem extra | ≤ 0,5 | ≤ 0,1 | ≤ 4,0 [(^2^)](http://publications.europa.eu/resource/cellar/01330ece-2dad-11ef-a61b-01aa75ed71a1.0020.02/DOC_2#E0010) | < Campesterol | ≥ 93,0 | ≤ 0,5 [(^3^)](http://publications.europa.eu/resource/cellar/01330ece-2dad-11ef-a61b-01aa75ed71a1.0020.02/DOC_2#E0011) | ≥ 1 000 | ≤ 4,5 | C42 + C44 + C46 ≤ 150 |\n| 2. Azeite virgem | ≤ 0,5 | ≤ 0,1 | ≤ 4,0 [(^2^)](http://publications.europa.eu/resource/cellar/01330ece-2dad-11ef-a61b-01aa75ed71a1.0020.02/DOC_2#E0010) | < Campesterol | ≥ 93,0 | ≤ 0,5 [(^3^)](http://publications.europa.eu/resource/cellar/01330ece-2dad-11ef-a61b-01aa75ed71a1.0020.02/DOC_2#E0011) | ≥ 1 000 | ≤ 4,5 | C42 + C44 + C46 ≤ 150 |\n| 3. Azeite lampante | ≤ 0,5 | ≤ 0,1 | ≤ 4,0 | — | ≥ 93,0 | ≤ 0,5 [(^4^)](http://publications.europa.eu/resource/cellar/01330ece-2dad-11ef-a61b-01aa75ed71a1.0020.02/DOC_2#E0012) | ≥ 1 000 | ≤ 4,5 [(^5^)](http://publications.europa.eu/resource/cellar/01330ece-2dad-11ef-a61b-01aa75ed71a1.0020.02/DOC_2#E0013) | C40 + C42 + C44 + C46 ≤ 300 [(^5^)](http://publications.europa.eu/resource/cellar/01330ece-2dad-11ef-a61b-01aa75ed71a1.0020.02/DOC_2#E0013) |\n| 4. Azeite refinado | ≤ 0,5 | ≤ 0,1 | ≤ 4,0 | < Campesterol | ≥ 93,0 | ≤ 0,5 [(^6^)](http://publications.europa.eu/resource/cellar/01330ece-2dad-11ef-a61b-01aa75ed71a1.0020.02/DOC_2#E0014) | ≥ 1 000 | ≤ 4,5 [(^7^)](http://publications.europa.eu/resource/cellar/01330ece-2dad-11ef-a61b-01aa75ed71a1.0020.02/DOC_2#E0015) | C40 + C42 + C44 + C46 ≤ 350 |\n| 5. Azeite composto por azeites refinados e azeites virgens | ≤ 0,5 | ≤ 0,1 | ≤ 4,0 | < Campesterol | ≥ 93,0 | ≤ 0,5 [(^6^)](http://publications.europa.eu/resource/cellar/01330ece-2dad-11ef-a61b-01aa75ed71a1.0020.02/DOC_2#E0014) | ≥ 1 000 | ≤ 4,5 | C40 + C42 + C44 + C46 ≤ 350 |\n| 6. Óleo de bagaço de azeitona bruto | ≤ 0,5 | ≤ 0,2 | ≤ 4,0 | — | ≥ 93,0 | ≤ 0,5 [(^8^)](http://publications.europa.eu/resource/cellar/01330ece-2dad-11ef-a61b-01aa75ed71a1.0020.02/DOC_2#E0016) | ≥ 2 500 | > 4,5 [(^9^)](http://publications.europa.eu/resource/cellar/01330ece-2dad-11ef-a61b-01aa75ed71a1.0020.02/DOC_2#E0017) | C40 + C42 + C44 + C46 > 350 [(^9^)](http://publications.europa.eu/resource/cellar/01330ece-2dad-11ef-a61b-01aa75ed71a1.0020.02/DOC_2#E0017) |\n| 7. Óleo de bagaço de azeitona refinado | ≤ 0,5 | ≤ 0,2 | ≤ 4,0 | < Campesterol | ≥ 93,0 | ≤ 0,5 [(^8^)](http://publications.europa.eu/resource/cellar/01330ece-2dad-11ef-a61b-01aa75ed71a1.0020.02/DOC_2#E0016) | ≥ 1 800 | > 4,5 | C40 + C42 + C44 + C46 > 350 |\n| 8. Óleo de bagaço de azeitona | ≤ 0,5 | ≤ 0,2 | ≤ 4,0 | < Campesterol | ≥ 93,0 | ≤ 0,5 [(^8^)](http://publications.europa.eu/resource/cellar/01330ece-2dad-11ef-a61b-01aa75ed71a1.0020.02/DOC_2#E0016) | ≥ 1 600 | > 4,5 | C40 + C42 + C44 + C46 > 350 |\n| (^1^) β-sitosterol aparente: Δ–5,23-estigmastadienol + clerosterol + β-sitosterol + sitostanol + Δ-5-avenasterol + Δ–5,24-estigmastadienol. (^2^) Um azeite virgem extra ou um azeite virgem com um teor de campesterol > 4,0 % e ≤ 4,5 % é autêntico se o teor de estigmasterol for ≤ 1,4 %, o teor de Δ-7-estigmastenol for ≤ 0,3 % e todos os outros parâmetros se situarem dentro dos limites fixados no presente regulamento. [**►C1**](http://publications.europa.eu/resource/celex/32024R1401R%2801%29) (^3^) Um azeite virgem extra ou um azeite virgem com um teor de Δ-7-estigmastenol > 0,5 % e ≤ 0,8 % é autêntico se o teor de β-sitosterol aparente/campesterol for ≥ 28, o ΔECN42 ≤\\|0,10\\| e todos os outros parâmetros se situarem dentro dos limites fixados no presente regulamento. **◄** (^4^) Um azeite lampante com um teor de Δ-7-estigmastenol > 0,5 % e ≤ 0,8 % é autêntico se o teor de β-sitosterol aparente/campesterol for ≥ 28, o ΔΕCN42 ≤\\|0,15\\|, os estigmastadienos ≤ 0,30 mg/kg e todos os outros parâmetros se situarem dentro dos limites fixados no presente regulamento. (^5^) Os óleos com um teor de ceras compreendido entre 300 mg/kg e 350 mg/kg são considerados azeites lampantes se o teor de álcoois alifáticos totais for inferior ou igual a 350 mg/kg ou se o teor de eritrodiol e de uvaol for inferior ou igual a 3,5 %. (^6^) Um azeite refinado ou um azeite composto por azeite refinado e por azeites virgens com um teor de Δ-7-estigmastenol > 0,5 % e ≤ 0,8 % é autêntico se o teor de β-sitosterol aparente/campesterol for ≥ 28, o ΔΕCN42 ≤\\|0,15\\|e todos os outros parâmetros se situarem dentro dos limites fixados no presente regulamento. (^7^) Os óleos com um teor de eritrodiol + uvaol compreendido entre 4,5 % e 6 % devem ter um teor de eritrodiol inferior ou igual a 75 mg/kg. (^8^) Um óleo de bagaço de azeitona bruto, um óleo de bagaço de azeitona refinado ou um óleo de bagaço de azeitona com um teor de Δ-7-estigmastenol > 0,5 % e ≤ 0,8 % é autêntico se o teor de estigmasterol for ≤ 1,4 %, o ΔΕCN42 ≤\\|0,40\\|e todos os outros parâmetros se situarem dentro dos limites fixados no presente regulamento. (^9^) Os óleos com um teor de ceras compreendido entre 300 mg/kg e 350 mg/kg são considerados óleos de bagaço de azeitona brutos se o teor de álcoois alifáticos totais for superior a 350 mg/kg e se o teor de eritrodiol e de uvaol for superior a 3,5 %. |  |  |  |  |  |  |  |  |  |"
+  },
+  "afba708723c87220": {
+   "fragment_id": "Notas:",
+   "type": "divisao",
+   "heading": "Notas:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Notas:\n\na) Os resultados das análises devem ser expressos com um número de algarismos significativos idêntico ao previsto para cada característica. Se o algarismo seguinte for superior a 4, o último algarismo significativo deve ser aumentado de uma unidade.\n\nb) Basta que uma das características esteja fora dos limites fixados para que o óleo seja classificado noutra categoria ou declarado não conforme para efeitos do presente regulamento.\n\nc) No caso do azeite lampante, as características de qualidade assinaladas com um asterisco ^(^*^)^ podem diferir simultaneamente dos limites estabelecidos para a categoria correspondente.\n\nd) No caso \\dos óleos de bagaço de azeitona brutos, os limites relativos às características assinaladas com dois asteriscos ^(^**^)^ podem diferir simultaneamente dos valores declarados. No caso dos óleos de bagaço de azeitona e dos óleos de bagaço de azeitona refinados, apenas um dos valores declarados pode diferir do limite correspondente."
+  },
+  "85624fae918c0338": {
+   "fragment_id": "QUADRO DE CORRESPONDÊNCIA",
+   "type": "divisao",
+   "heading": "QUADRO DE CORRESPONDÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### QUADRO DE CORRESPONDÊNCIA\n\n| Regulamento de Execução (UE) n.º 29/2012 | Regulamento (CEE) n.º 2568/91 | Presente regulamento | Regulamento de Execução (UE) 2022/2105 |\n| --- | --- | --- | --- |\n| ------ | ------ | Artigo 1.º, alínea a) |  |\n| ------ | ------ |  | Artigo 1.º |\n| ------ | ------ |  | Artigo 2.º, n.º 2 |\n| Artigo 1.º, n.º 1 |  | Artigo 1.º, alínea b), e artigo 1.º, n.º 2 |  |\n| Artigo 1.º, n.º 2 |  | Artigo 1.º, alínea b) |  |\n| Artigo 2.º, primeiro parágrafo |  | Artigo 4.º, n.º 1 |  |\n| Artigo 2.º, segundo parágrafo |  | Artigo 4.º, n.º 2 |  |\n| Artigo 3.º, primeiro parágrafo |  | Artigo 6.º, n.º 1 |  |\n| Artigo 3.º, segundo parágrafo, alíneas a) a d) |  | Artigo 6.º, n.º 2, alíneas a) a d) |  |\n| Artigo 4.º, n.º 1, primeiro parágrafo |  | Artigo 8.º, n.º 1 |  |\n| Artigo 4.º, n.º 1, segundo parágrafo |  | Artigo 8.º, n.º 2 |  |\n| Artigo 4.º, n.º 1, terceiro parágrafo |  | - |  |\n| Artigo 4.º, n.º 2 |  | Artigo 8.º, n.º 3 |  |\n| Artigo 4.º, n.º 3 |  | Artigo 8.º, n.º 4 |  |\n| Artigo 4.º, n.º 4 |  | Artigo 8.º, n.º 5 |  |\n| Artigo 4.º, n.º 5, primeiro parágrafo |  | Artigo 8.º, n.º 6 |  |\n| Artigo 4.º, n.º 5, segundo parágrafo |  | Artigo 8.º, n.º 7 |  |\n| Artigo 4.º-A |  | Artigo 7.º |  |\n| Artigo 4.º-B |  | Artigo 5.º |  |\n| Artigo 5.º, primeiro parágrafo, alíneas a) a d) |  | Artigo 10.º, alíneas a) a d) |  |\n| Artigo 5.º, primeiro parágrafo, alínea e) |  | Artigo 11.º, n.^os^ 1 e 2 |  |\n| Artigo 5.º, segundo parágrafo |  | - |  |\n| Artigo 5.º-A, primeiro parágrafo |  | Artigo 11.º, n.º 3 |  |\n| Artigo 5.º-A, segundo parágrafo |  | Artigo 11.º, n.º 4 |  |\n| Artigo 5.º-A, terceiro parágrafo |  | Artigo 11.º, n.º 5 |  |\n| Artigo 6.º, n.º 1, primeiro parágrafo |  | Artigo 12.º, n.º 1 |  |\n| Artigo 6.º, n.º 1, segundo parágrafo |  | Artigo 12.º, n.º 2 |  |\n| Artigo 6.º, n.º 1, terceiro parágrafo |  | Artigo 3.º, n.º 3 |  |\n| Artigo 6.º, n.º 2, primeiro parágrafo |  | Artigo 12.º, n.º 3 |  |\n| Artigo 6.º, n.º 2, segundo parágrafo |  | Artigo 12.º, n.º 4 |  |\n| Artigo 6.º, n.º 3 |  | Artigo 12.º, n.º 5 |  |\n| - | - | Artigo 12.º, n.º 6 |  |\n| Artigo 6.º, n.º 4 |  | - |  |\n| Artigo 7.º |  |  | Artigo 5.º, n.º 2 |\n| Artigo 8.º, n.º 1 |  |  | Artigo 2.º, n.º 3 |\n| Artigo 8.º, n.º 2 |  |  | Artigo 4.º, n.º 3 |\n| Artigo 8.º, n.º 3 |  |  | Artigo 4.º, n.º 2 |\n| Artigo 8.º, n.º 4 |  |  | Artigo 4.º, n.º 3 |\n| Artigo 8.º-A |  |  | Artigo 2.º, n.º 1 e artigo 4.º, n.º 1 |\n| Artigo 9.º, n.º 1, primeiro parágrafo |  |  | Artigo 13.º, n.º 1 |\n| Artigo 9.º, n.º 1, segundo parágrafo |  |  | Artigo 13.º, n.º 2 |\n| Artigo 9.º, n.º 1, terceiro parágrafo |  |  | ---- |\n| Artigo 9.º, n.º 1, quarto parágrafo |  |  | ---- |\n| Artigo 9.º, n.º 1, quinto parágrafo |  |  | ---- |\n| Artigo 9.º, n.º 2, primeiro parágrafo |  |  | Artigo 6.º, n.º 1 |\n| Artigo 9.º, n.º 2, segundo parágrafo, alíneas a), b) e c) |  |  | Artigo 6.º, n.º 2, alíneas a), b) e c) |\n| Artigo 2.º, n.º 9, terceiro parágrafo |  | Artigo 9.º |  |\n| ----- |  |  | Artigo 6.º, n.º 3 |\n| Artigo 10.º, primeiro parágrafo, frase introdutória |  |  | Artigo 14.º |\n| Artigo 10.º, primeiro parágrafo, alíneas a) a d), e segundo parágrafo |  |  | ----- |\n| Artigo 10.º-A |  |  | Artigo 14.º |\n| Anexo I |  | - |  |\n| Anexo II |  | - |  |\n|  | Artigo 1.º, n.º 1 | Artigo 2.º, n.º 1, alíneas a) e b) |  |\n|  | Artigo 1.º, n.º 2 | Artigo 2.º, n.º 1, alínea c) |  |\n|  | Artigo 1.º, n.º 3 | Artigo 2.º, n.º 1, alínea d) |  |\n|  | Artigo 1.º, n.º 4 | Artigo 2.º, n.º 1, alínea e) |  |\n|  | Artigo 1.º, n.º 5 | Artigo 2.º, n.º 1, alínea f) |  |\n|  | Artigo 1.º, n.º 6 | Artigo 2.º, n.º 1, alínea g) |  |\n|  | Artigo 1.º, n.º 7 | Artigo 2.º, n.º 1, alínea h) |  |\n| ------- | ------ | Artigo 2.º, n.º 2 |  |\n| ------- | ------ | Artigo 3.º, n.^os^ 1 e 2 |  |\n|  | Artigo 2.º, n.º 1 |  | Artigo 7.º |\n|  | Artigo 2.º, n.º 1, alínea a) |  | Anexo I, ponto 1 |\n|  | Artigo 2.º, n.º 1, alínea b) |  | Anexo I, ponto 2 |\n|  | Artigo 2.º, n.º 1, alínea c) |  | ----- |\n|  | Artigo 2.º, n.º 1, alínea d) |  | ----- |\n|  | Artigo 2.º, n.º 1, alínea e) |  | Anexo I, ponto 3 |\n|  | Artigo 2.º, n.º 1, alínea f) |  | Anexo I, ponto 4 |\n|  | Artigo 2.º, n.º 1, alínea g) |  | Anexo I, ponto 6 |\n|  | Artigo 2.º, n.º 1, alínea h) |  | ----- |\n|  | Artigo 2.º, n.º 1, alínea i) |  | Anexo I, ponto 5 |\n|  | Artigo 2.º, n.º 1, alínea j) |  | Anexo I, ponto 9 |\n|  | Artigo 2.º, n.º 1, alínea k) |  | Anexo I, ponto 10 |\n|  | Artigo 2.º, n.º 1, alínea l) |  | Anexo I, ponto 8 |\n|  | Artigo 2.º, n.º 1, alínea m) |  | Anexo I, ponto 7 |\n|  | Artigo 2.º, n.º 2, primeiro parágrafo, e parte do ponto 9.4 do anexo XII |  | Artigo 10.º, n.º 1 |\n|  | Artigo 2.º, n.º 2, segundo parágrafo |  | Artigo 11.º, n.º 1 |\n|  | Artigo 2.º, n.º 2, terceiro parágrafo |  | Artigo 11.º, n.º 2 |\n|  | - |  | Artigo 11.º, n.º 3 |\n|  | Parte do ponto 9.4 do anexo XII |  | Artigo 11.º, n.º 4 |\n|  | Artigo 2.º, n.º 3, primeiro parágrafo |  | Artigo 3.º, n.º 1 |\n|  | Artigo 2.º, n.º 3, segundo parágrafo |  | Artigo 3.º, n.º 2 |\n|  | Artigo 2.º, n.º 4, primeiro parágrafo |  | Artigo 9.º, n.º 2 |\n|  | Artigo 2.º, n.º 4, segundo parágrafo |  | Artigo 9.º, n.º 3 |\n|  | Artigo 2.º, n.º 4, terceiro parágrafo |  | Artigo 9.º, n.º 4 |\n|  | Artigo 2.º, n.º 5 |  | Artigo 9.º, n.º 5 |\n|  | Artigo 2.º-A, n.º 1 |  | Artigo 3.º, n.º 1 |\n|  | Artigo 2.º-A, n.º 2 |  | Artigo 3.º, n.º 3 |\n|  | Artigo 2.º-A, n.º 3 |  | Artigo 3.º, n.º 4 |\n|  | Artigo 2.º-A, n.º 4, primeiro parágrafo |  | Artigo 3.º, n.º 5 |\n|  | Artigo 2.º-A, n.º 4, segundo parágrafo |  | Artigo 3.º, n.º 2 |\n|  | Artigo 2.º-A, n.º 5 |  | Artigo 9.º, n.º 1 |\n|  | Artigo 3.º, primeiro parágrafo |  | Artigo 13.º, n.º 1 |\n|  | Artigo 3.º, segundo parágrafo |  | Artigo 3.º, n.º 6 |\n|  | Artigo 4.º, n.º 1, primeiro parágrafo |  | Artigo 10.º, n.º 1 |\n|  | Artigo 4.º, n.º 1, segundo parágrafo |  | Artigo 10.º, n.º 2 |\n|  | Artigo 4.º, n.º 1, terceiro parágrafo |  | Artigo 10.º, n.º 3 |\n|  | Artigo 4.º, n.º 2 |  | Artigo 10.º, n.º 4 |\n|  | Artigo 4.º, n.º 3 |  | - |\n|  | Artigo 6.º, n.º 1 |  | Artigo 12.º, n.º 1 |\n|  | Artigo 6.º, n.º 2 |  | Artigo 12.º, n.º 2 |\n|  | Artigo 7.º |  | ---- |\n|  | Artigo 7.º-A, primeiro parágrafo |  | Artigo 5.º, n.º 1 |\n|  | Artigo 7.º-A, segundo parágrafo |  | Artigo 2.º, n.º 2 |\n|  | Artigo 8.º, n.º 1 |  | - |\n|  | Artigo 8.º, n.º 2 |  | Artigo 14.º |\n|  | Anexo I | Anexo I |  |\n|  | Anexo XII, ponto 3.3 | Anexo II |  |\n|  | Anexo I-A, exceto o ponto 2.1 |  | Anexo II |\n|  | Anexo I-A, ponto 2.1 |  | Artigo 9.º, n.º 6 |\n|  | Anexo I-B |  | Anexo III |\n|  | Anexo III |  | ---- |\n|  | Anexo IV |  | ---- |\n|  | Anexo VII |  | ---- |\n|  | Anexo IX |  | ---- |\n|  | Anexo X |  | ---- |\n|  | Anexo XI |  | ---- |\n|  | Anexo XII, exceto o ponto 3.3 e parte do ponto 9.4 |  | ---- |\n|  | Anexo XV |  | Anexo IV |\n|  | Anexo XVI |  | ---- |\n|  | Anexo XVII |  | ---- |\n|  | Anexo XVIII |  | ---- |\n|  | Anexo XIX |  | ---- |\n|  | Anexo XX |  | ---- |\n|  | Anexo XXI |  | Anexo V |\n\n---"
+  },
+  "4dda755333f1d05d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/01330ece-2dad-11ef-a61b-01aa75ed71a1.0020.02/DOC_2#src.E0001)) Regulamento (CEE) n.º 2136/89 do Conselho, de 21 de junho de 1989, que fixa normas comuns de comercialização para as conservas de sardinha (JO L 212 de 22.7.1989, p. 79).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/01330ece-2dad-11ef-a61b-01aa75ed71a1.0020.02/DOC_2#src.E0002)) Regulamento (CEE) n.º 1536/92 do Conselho, de 9 de junho de 1992, que fixa normas comuns de comercialização para as conservas de atum e de bonito (JO L 163 de 17.6.1992, p. 1)."
+  }
+ }
+}

@@ -1,0 +1,510 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:571460:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1990-175982410",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/14-1990-571460",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1990-05-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "175984682",
+    "175982343",
+    "175982344",
+    "175982345",
+    "175982346",
+    "175982347",
+    "175982348",
+    "175982349",
+    "175982350",
+    "175982351",
+    "175982352",
+    "175982353",
+    "175982354",
+    "175982355",
+    "175982356",
+    "175982357",
+    "175982358"
+   ]
+  },
+  {
+   "date": "1995-05-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:503647:por",
+     "title": "Decreto Legislativo Regional n.º 9/95/M",
+     "published": "1995-05-20",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/9-1995-503647"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Revoga Artigo 14.º"
+   ],
+   "fragments": [
+    "175982342",
+    "175982343",
+    "175982344",
+    "175982345",
+    "175982346",
+    "175982347",
+    "175982348",
+    "175982371",
+    "175982373",
+    "175982351",
+    "175982352",
+    "175982353",
+    "175982354",
+    "175982355",
+    "175982372",
+    "175982357",
+    "175982358",
+    "175982359"
+   ]
+  },
+  {
+   "date": "2006-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:540626:por",
+     "title": "Decreto Legislativo Regional n.º 38/2006/M",
+     "published": "2006-08-23",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/38-2006-540626"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "175982342",
+    "175982343",
+    "175982344",
+    "175982345",
+    "175982346",
+    "175982347",
+    "175982348",
+    "175984681",
+    "175982373",
+    "175982351",
+    "175982352",
+    "175982353",
+    "175982354",
+    "175982355",
+    "175982372",
+    "175982357",
+    "175982358",
+    "175982359"
+   ]
+  },
+  {
+   "date": "2022-01-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175923966:por",
+     "title": "Decreto Legislativo Regional n.º 27/2021/M",
+     "published": "2021-12-15",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/27-2021-175923966"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "175984682",
+    "175984683",
+    "175984684",
+    "175984685",
+    "175984686",
+    "175984687",
+    "175984688",
+    "175984689",
+    "175984690",
+    "175984691",
+    "175984692",
+    "175984693",
+    "175984694",
+    "175984695",
+    "175984696",
+    "175984697",
+    "175984698",
+    "175984699"
+   ]
+  }
+ ],
+ "fragments": {
+  "175984682": {
+   "fragment_id": "175982411",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-01-14",
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 14/90/M\n\nCria a Área de Protecção Especial das Ilhas Desertas\n\nAs ilhas Desertas são constituídas por três ilhéus situados a S. E. da ilha da Madeira, no prolongamento para sul da Ponta de São Lourenço, ou seja, de norte para sul: o ilhéu Chão, a Deserta Grande e o ilhéu do Bugio, nas latitudes e longitudes médias de 32º 30' N. e 16º 30'W.\n\nRevestem-se estas ilhas de um enorme valor científico e cultural, apresentando espécies de animais e plantas, marinhas e terrestres, raras e endémicas, que urge proteger. Da fauna marinha, outrora muito rica, destaca-se ainda hoje a colónia mais ocidental de lobos-marinhos do oceano Atlântico (Monachus monachus), espécie em alto risco de extinção a nível mundial.\n\nAs ilhas Desertas, área de pesca tradicional, têm sido ultimamente sujeitas a explorações abusivas, com a consequente diminuição dos seus recursos piscícolas, pelo que se impõe a imediata adopção de providências conducentes a uma eficaz protecção dos mencionados recursos e dos respectivos habitats marinhos.\n\nTorna-se, pois, imprescindível e urgente a criação para as ilhas Desertas de um quadro legal que permita conciliar a real e eficaz protecção das espécies ameaçadas, tanto no meio marinho como terrestre, com a exploração racional dos recursos haliêuticos.\n\nNestes termos:\n\nA Assembleia Legislativa Regional da Madeira decreta, abrigo do disposto na alínea a) do n.º 1 do artigo 229.º da Constituição e na alínea b) do artigo 22.º do Decreto-Lei n.º 318-D/76, de 30 de Abril, o seguinte:"
+  },
+  "175982343": {
+   "fragment_id": "175982412",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criada a Área de Protecção Especial das Ilhas Desertas, que fica adstrita ao Parque Natural da Madeira."
+  },
+  "175982344": {
+   "fragment_id": "175982413",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA presente Área de Protecção Especial é delimitada pela linha batimétrica dos 100 m em volta das ilhas Desertas, incluindo todas as suas ilhas e ilhéus e a respectiva área marítima, em conformidade com o mapa anexo a este diploma, que dele faz parte integrante."
+  },
+  "175982345": {
+   "fragment_id": "175982414",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nNa parte marinha da Área de Protecção Especial que se situa para norte, respectivamente, da doca e da Ponta da Fajã Grande da Deserta Gande, nela se incluindo o ilhéu Chão, e que se encontra devidamente assinalado no mapa anexo, são permitidas, nos termos da legislação aplicável:\n\na) Todas as actividades de pesca comercial e desportiva;\n\nb) A caça submarina com snorkel;\n\nc) O mergulho amador;\n\nd) Todas as actividades náuticas com carácter desportivo."
+  },
+  "175982346": {
+   "fragment_id": "175982415",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n- 1 - Em toda a parte marinha da Área de Protecção Especial situada a sul dos locais mencionados no artigo anterior, nela se incluindo o ilhéu do Bugio, é proibido:\n\na) O exercício de quaisquer actividades de pesca comercial e desportiva;\n\nb) A prática da caça submarina;\n\nc) A colheita de exemplares vegetais e animais, excepto para fins científicos, desde que devidamente justificada e autorizada;\n\nd) O acesso de pessoas e embarcações, salvo as que hajam sido autorizadas e credenciadas pelo Parque Natural da Madeira.\n\n2 - Exceptuam-se do disposto nas alíneas a) e d) do número anterior as pessoas e embarcações que se encontrem no exercício exclusivo da pesca comercial de tunídeos e espécies afins, bem como do respectivo isco."
+  },
+  "175982347": {
+   "fragment_id": "175982416",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nEm toda a Área de Protecção Especial é proibido:\n\na) O uso de redes de emalhar ou outras, com excepção das que são empregues na captura de isco vivo;\n\nb) A captura, detenção e abate de qualquer espécie de aves, excepto para fins científicos, quando devidamente justificados e autorizados;\n\nc) O despejo de quaisquer detritos sólidos ou líquidos;\n\nd) A extracção de quaisquer inertes, quer de origem marinha, quer terrestre."
+  },
+  "175982348": {
+   "fragment_id": "175982417",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nNa totalidade da parte terrestre do ilhéu Chão, da Deserta Grande e do Bugio, a contar para além dos 10 m das respectivas linhas de praia-mar, é interdito o acesso de pessoas, bem como o exercício de qualquer tipo de actividade, com excepção das pessoas que:\n\na) Estejam devidamente autorizadas e credenciadas pelo Parque Natural da Madeira;\n\nb) Desenvolvam actividades relacionadas com a gestão, fiscalização e manutenção de infra-estruturas existentes na Área de Protecção Especial."
+  },
+  "175982349": {
+   "fragment_id": "175982418",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n- 1 - As infracções ao disposto no presente diploma constituem contra-ordenação punível com as seguintes coimas:\n\na) De 25000$00 a 180000$00, no que se refere às alíneas a), b) e c) do n.º 1 do artigo 4.º e ao artigo 6.º, sem prejuízo do disposto no número seguinte;\n\nb) De 12500$00 a 90000$00, no que se refere à alínea d) do n.º 1 do artigo 4.º;\n\nc) De 50000$00 a 200000$00, no que se refere ao artigo 5.º\n\n2 - As infracções ao disposto no artigo 6.º, quando consistentes apenas no acesso de pessoas, constituem contra-ordenação punível com a coima de 1000$00 a 10000$00.\n\n3 - A negligência e a tentativa são puníveis até metade do montante máximo das coimas previstas nos números anteriores.\n\n4 - As coimas aplicáveis às pessoas colectivas poderão elevar-se até aos montantes máximos de:\n\na) 6000000$00, em caso de dolo;\n\nb) 3000000$00, em caso de negligência."
+  },
+  "175982350": {
+   "fragment_id": "175982419",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAcessoriamente à aplicação da respectiva coima, poderá ser determinada a apreensão, a favor do Parque Natural da Madeira, de todas as redes encontradas em infracção ao disposto na alínea a) do artigo 5.º do presente diploma."
+  },
+  "175982351": {
+   "fragment_id": "175982420",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n- 1 - A infracção ao disposto na alínea c) do artigo 5.º obriga o respectivo infractor a proceder à recolha dos detritos que haja lançado, por forma a repor o local no estado anterior à infracção, sem que, por este facto, tenha direito a qualquer indemnização ou retribuição.\n\n2 - Se o infractor, tendo sido para o efeito notificado, não proceder à recolha dos detritos lançados no prazo que lhe for estipulado, através de carta registada com aviso de recepção, o presidente do Parque Natural da Madeira mandará proceder à referida recolha, apresentando-lhe posteriormente a relação das despesas efectuadas para a respectiva cobrança."
+  },
+  "175982352": {
+   "fragment_id": "175982421",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO montante das coimas aplicadas por força do presente diploma reverterá, na proporção de 50%, para a Região Autónoma da Madeira e para o Parque Natural da Madeira."
+  },
+  "175982353": {
+   "fragment_id": "175982422",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nA fiscalização do cumprimento das normas deste diploma compete especialmente ao Parque Natural da Madeira, sem prejuízo das competências legalmente atribuídas à autoridade marítima na área da sua jurisdição."
+  },
+  "175982354": {
+   "fragment_id": "175982423",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nO processamento das contra-ordenações e a aplicação das coimas e das sanções acessórias previstas no presente diploma competem, respectivamente, ao Parque Natural da Madeira e ao seu presidente."
+  },
+  "175982355": {
+   "fragment_id": "175982424",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nNo processamento, apreciação e julgamento das contra-ordenações constantes deste diploma é aplicável o disposto no Decreto-Lei n.º 433/82, de 27 de Outubro, e demais legislação em vigor."
+  },
+  "175982356": {
+   "fragment_id": "175982425",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n- 1 - A Área de Protecção Especial das Ilhas Desertas terá um director, nomeado pelo Secretário Regional da Economia, sob proposta do presidente do Parque Natural da Madeira.\n\n2 - Todo o apoio administrativo e técnico à Área de Protecção Especial agora criada será prestado pelo Parque Natural da Madeira."
+  },
+  "175982357": {
+   "fragment_id": "175982426",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nAs despesas resultantes da execução do presente diploma e, bem assim, as que decorram da necessidade de dar cumprimento às finalidades para que a Área de Protecção Especial foi criada serão suportadas pelas verbas adequadas do orçamento do Parque Natural da Madeira."
+  },
+  "175982358": {
+   "fragment_id": "175982427",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "175982342": {
+   "fragment_id": "175982411",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 14/90/M\n\nCria a Área de Protecção Especial das Ilhas Desertas\n\nAs ilhas Desertas são constituídas por três ilhéus situados a S. E. da ilha da Madeira, no prolongamento para sul da Ponta de São Lourenço, ou seja, de norte para sul: o ilhéu Chão, a Deserta Grande e o ilhéu do Bugio, nas latitudes e longitudes médias de 32º 30' N. e 16º 30'W.\n\nRevestem-se estas ilhas de um enorme valor científico e cultural, apresentando espécies de animais e plantas, marinhas e terrestres, raras e endémicas, que urge proteger. Da fauna marinha, outrora muito rica, destaca-se ainda hoje a colónia mais ocidental de lobos-marinhos do oceano Atlântico (Monachus monachus), espécie em alto risco de extinção a nível mundial.\n\nAs ilhas Desertas, área de pesca tradicional, têm sido ultimamente sujeitas a explorações abusivas, com a consequente diminuição dos seus recursos piscícolas, pelo que se impõe a imediata adopção de providências conducentes a uma eficaz protecção dos mencionados recursos e dos respectivos habitats marinhos.\n\nTorna-se, pois, imprescindível e urgente a criação para as ilhas Desertas de um quadro legal que permita conciliar a real e eficaz protecção das espécies ameaçadas, tanto no meio marinho como terrestre, com a exploração racional dos recursos haliêuticos.\n\nNestes termos:\n\nA Assembleia Legislativa Regional da Madeira decreta, abrigo do disposto na alínea a) do n.º 1 do artigo 229.º da Constituição e na alínea b) do artigo 22.º do Decreto-Lei n.º 318-D/76, de 30 de Abril, o seguinte:"
+  },
+  "175982371": {
+   "fragment_id": "175982418",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1995-05-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 9/95/M - Diário da República n.º 117/1995, Série I-A de 1995-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1995-503647), em vigor a partir de 1995-05-25"
+   ],
+   "markdown": "###### Artigo 7.º\n\n- 1 - As infracções ao disposto no presente diploma constituem contra-ordenação punível com as seguintes coimas:\n\na) De 50000$00 a 400000$00, no que se refere às infracções previstas nas alíneas a) e b) do n.º 1 do artigo 4.º e do artigo 6.º, sem prejuízo do disposto no número seguinte;\n\nb) De 30000$00 a 300000$00, no que se refere à infracção prevista na alínea c) do n.º 1 do artigo 4.º;\n\nc) De 100000$00 a 500000$00, no que se refere às infracções previstas no artigo 5.º\n\n2 - As infracções ao disposto no artigo 6.º, quando consistentes apenas no acesso de pessoas, constituem contra-ordenação punível com coima de 5000$00 a 20000$00.\n\n3 - A negligência e a tentativa são puníveis até metade do montante máximo das coimas previstas nos números anteriores.\n\n4 - As coimas aplicáveis às pessoas colectivas poderão elevar-se aos montantes máximos de:\n\na) 6000000$00, em caso de dolo;\n\nb) 3000000$00, em caso de negligência.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 9/95/M - Diário da República n.º 117/1995, Série I-A de 1995-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1995-503647), em vigor a partir de 1995-05-25"
+  },
+  "175982373": {
+   "fragment_id": "175982419",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1995-05-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 9/95/M - Diário da República n.º 117/1995, Série I-A de 1995-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1995-503647), em vigor a partir de 1995-05-25"
+   ],
+   "markdown": "###### Artigo 8.º\n\nAcessoriamente à aplicação da respectiva coima, poderá ser determinada a apreensão, a favor do Parque Natural da Madeira, do produto da infracção, das redes e outros equipamentos utilizados na infracção ao disposto no presente diploma.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 9/95/M - Diário da República n.º 117/1995, Série I-A de 1995-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1995-503647), em vigor a partir de 1995-05-25"
+  },
+  "175982372": {
+   "fragment_id": "175982425",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": "1995-05-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 9/95/M - Diário da República n.º 117/1995, Série I-A de 1995-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1995-503647), em vigor a partir de 1995-05-25"
+   ],
+   "markdown": "###### Artigo 14.º\n\n- 1 - A Área de Protecção Especial das Ilhas Desertas terá um director, nomeado pelo Secretário Regional da Economia, sob proposta do presidente do Parque Natural da Madeira.\n\n2 - Todo o apoio administrativo e técnico à Área de Protecção Especial agora criada será prestado pelo Parque Natural da Madeira.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 9/95/M - Diário da República n.º 117/1995, Série I-A de 1995-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1995-503647), em vigor a partir de 1995-05-25"
+  },
+  "175982359": {
+   "fragment_id": "175982428",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária de 8 de Março de 1990.\n\nO Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.\n\nAssinado em 9 de Abril de 1990.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.\n\n(ver documento original)"
+  },
+  "175984681": {
+   "fragment_id": "175982418",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2006-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 38/2006/M - Diário da República n.º 162/2006, Série I de 2006-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2006-540626), em vigor a partir de 2006-09-01",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 9/95/M - Diário da República n.º 117/1995, Série I-A de 1995-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1995-503647), em vigor a partir de 1995-05-25"
+   ],
+   "markdown": "###### Artigo 7.º\n\n1 - As infracções ao disposto no presente decreto legislativo regional constituem contra-ordenações puníveis com as seguintes coimas:\n\na) De (euro) 150 a (euro) 2000 no que se refere à alínea c) do n.º 1 do artigo 4.º e ao artigo 6.º, sem prejuízo do número seguinte;\n\nb) De (euro) 250 a (euro) 2500 no que se refere às alíneas a) e b) do n.º 1 do artigo 4.º;\n\nc) De (euro) 500 a (euro) 3500 no que se refere às infracções previstas no n.º 5.\n\n2 - As infracções ao disposto no artigo 6.º, quando consistentes apenas no acesso de pessoas, constituem contra-ordenação punível com coima de (euro) 50 a (euro) 150.\n\n3 - A negligência e a tentativa são puníveis até metade do montante máximo das coimas previstas nos números anteriores.\n\n4 - O montante máximo da coima aplicável às pessoas colectivas é de (euro) 30000.\n\n5 - A tentativa e a negligência são puníveis.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 38/2006/M - Diário da República n.º 162/2006, Série I de 2006-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2006-540626), em vigor a partir de 2006-09-01\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 9/95/M - Diário da República n.º 117/1995, Série I-A de 1995-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1995-503647), em vigor a partir de 1995-05-25"
+  },
+  "175984683": {
+   "fragment_id": "175982412",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2022-01-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14"
+   ],
+   "markdown": "###### Artigo 1.º\n\nÉ criada a Área de Protecção Especial das Ilhas Desertas, que fica adstrita ao Parque Natural da Madeira.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14"
+  },
+  "175984684": {
+   "fragment_id": "175982413",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2022-01-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14"
+   ],
+   "markdown": "###### Artigo 2.º\n\nA presente Área de Protecção Especial é delimitada pela linha batimétrica dos 100 m em volta das ilhas Desertas, incluindo todas as suas ilhas e ilhéus e a respectiva área marítima, em conformidade com o mapa anexo a este diploma, que dele faz parte integrante.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14"
+  },
+  "175984685": {
+   "fragment_id": "175982414",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2022-01-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14"
+   ],
+   "markdown": "###### Artigo 3.º\n\nNa parte marinha da Área de Protecção Especial que se situa para norte, respectivamente, da doca e da Ponta da Fajã Grande da Deserta Gande, nela se incluindo o ilhéu Chão, e que se encontra devidamente assinalado no mapa anexo, são permitidas, nos termos da legislação aplicável:\n\na) Todas as actividades de pesca comercial e desportiva;\n\nb) A caça submarina com snorkel;\n\nc) O mergulho amador;\n\nd) Todas as actividades náuticas com carácter desportivo.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14"
+  },
+  "175984686": {
+   "fragment_id": "175982415",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2022-01-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14"
+   ],
+   "markdown": "###### Artigo 4.º\n\n- 1 - Em toda a parte marinha da Área de Protecção Especial situada a sul dos locais mencionados no artigo anterior, nela se incluindo o ilhéu do Bugio, é proibido:\n\na) O exercício de quaisquer actividades de pesca comercial e desportiva;\n\nb) A prática da caça submarina;\n\nc) A colheita de exemplares vegetais e animais, excepto para fins científicos, desde que devidamente justificada e autorizada;\n\nd) O acesso de pessoas e embarcações, salvo as que hajam sido autorizadas e credenciadas pelo Parque Natural da Madeira.\n\n2 - Exceptuam-se do disposto nas alíneas a) e d) do número anterior as pessoas e embarcações que se encontrem no exercício exclusivo da pesca comercial de tunídeos e espécies afins, bem como do respectivo isco.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14"
+  },
+  "175984687": {
+   "fragment_id": "175982416",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2022-01-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14"
+   ],
+   "markdown": "###### Artigo 5.º\n\nEm toda a Área de Protecção Especial é proibido:\n\na) O uso de redes de emalhar ou outras, com excepção das que são empregues na captura de isco vivo;\n\nb) A captura, detenção e abate de qualquer espécie de aves, excepto para fins científicos, quando devidamente justificados e autorizados;\n\nc) O despejo de quaisquer detritos sólidos ou líquidos;\n\nd) A extracção de quaisquer inertes, quer de origem marinha, quer terrestre.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14"
+  },
+  "175984688": {
+   "fragment_id": "175982417",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2022-01-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14"
+   ],
+   "markdown": "###### Artigo 6.º\n\nNa totalidade da parte terrestre do ilhéu Chão, da Deserta Grande e do Bugio, a contar para além dos 10 m das respectivas linhas de praia-mar, é interdito o acesso de pessoas, bem como o exercício de qualquer tipo de actividade, com excepção das pessoas que:\n\na) Estejam devidamente autorizadas e credenciadas pelo Parque Natural da Madeira;\n\nb) Desenvolvam actividades relacionadas com a gestão, fiscalização e manutenção de infra-estruturas existentes na Área de Protecção Especial.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14"
+  },
+  "175984689": {
+   "fragment_id": "175982418",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2022-01-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 38/2006/M - Diário da República n.º 162/2006, Série I de 2006-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2006-540626), em vigor a partir de 2006-09-01",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 9/95/M - Diário da República n.º 117/1995, Série I-A de 1995-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1995-503647), em vigor a partir de 1995-05-25"
+   ],
+   "markdown": "###### Artigo 7.º\n\n1 - As infracções ao disposto no presente decreto legislativo regional constituem contra-ordenações puníveis com as seguintes coimas:\n\na) De (euro) 150 a (euro) 2000 no que se refere à alínea c) do n.º 1 do artigo 4.º e ao artigo 6.º, sem prejuízo do número seguinte;\n\nb) De (euro) 250 a (euro) 2500 no que se refere às alíneas a) e b) do n.º 1 do artigo 4.º;\n\nc) De (euro) 500 a (euro) 3500 no que se refere às infracções previstas no n.º 5.\n\n2 - As infracções ao disposto no artigo 6.º, quando consistentes apenas no acesso de pessoas, constituem contra-ordenação punível com coima de (euro) 50 a (euro) 150.\n\n3 - A negligência e a tentativa são puníveis até metade do montante máximo das coimas previstas nos números anteriores.\n\n4 - O montante máximo da coima aplicável às pessoas colectivas é de (euro) 30000.\n\n5 - A tentativa e a negligência são puníveis.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 38/2006/M - Diário da República n.º 162/2006, Série I de 2006-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2006-540626), em vigor a partir de 2006-09-01\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 9/95/M - Diário da República n.º 117/1995, Série I-A de 1995-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1995-503647), em vigor a partir de 1995-05-25"
+  },
+  "175984690": {
+   "fragment_id": "175982419",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2022-01-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 9/95/M - Diário da República n.º 117/1995, Série I-A de 1995-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1995-503647), em vigor a partir de 1995-05-25"
+   ],
+   "markdown": "###### Artigo 8.º\n\nAcessoriamente à aplicação da respectiva coima, poderá ser determinada a apreensão, a favor do Parque Natural da Madeira, do produto da infracção, das redes e outros equipamentos utilizados na infracção ao disposto no presente diploma.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 9/95/M - Diário da República n.º 117/1995, Série I-A de 1995-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1995-503647), em vigor a partir de 1995-05-25"
+  },
+  "175984691": {
+   "fragment_id": "175982420",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2022-01-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14"
+   ],
+   "markdown": "###### Artigo 9.º\n\n- 1 - A infracção ao disposto na alínea c) do artigo 5.º obriga o respectivo infractor a proceder à recolha dos detritos que haja lançado, por forma a repor o local no estado anterior à infracção, sem que, por este facto, tenha direito a qualquer indemnização ou retribuição.\n\n2 - Se o infractor, tendo sido para o efeito notificado, não proceder à recolha dos detritos lançados no prazo que lhe for estipulado, através de carta registada com aviso de recepção, o presidente do Parque Natural da Madeira mandará proceder à referida recolha, apresentando-lhe posteriormente a relação das despesas efectuadas para a respectiva cobrança.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14"
+  },
+  "175984692": {
+   "fragment_id": "175982421",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "2022-01-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14"
+   ],
+   "markdown": "###### Artigo 10.º\n\nO montante das coimas aplicadas por força do presente diploma reverterá, na proporção de 50%, para a Região Autónoma da Madeira e para o Parque Natural da Madeira.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14"
+  },
+  "175984693": {
+   "fragment_id": "175982422",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": "2022-01-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14"
+   ],
+   "markdown": "###### Artigo 11.º\n\nA fiscalização do cumprimento das normas deste diploma compete especialmente ao Parque Natural da Madeira, sem prejuízo das competências legalmente atribuídas à autoridade marítima na área da sua jurisdição.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14"
+  },
+  "175984694": {
+   "fragment_id": "175982423",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "2022-01-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14"
+   ],
+   "markdown": "###### Artigo 12.º\n\nO processamento das contra-ordenações e a aplicação das coimas e das sanções acessórias previstas no presente diploma competem, respectivamente, ao Parque Natural da Madeira e ao seu presidente.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14"
+  },
+  "175984695": {
+   "fragment_id": "175982424",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": "2022-01-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14"
+   ],
+   "markdown": "###### Artigo 13.º\n\nNo processamento, apreciação e julgamento das contra-ordenações constantes deste diploma é aplicável o disposto no Decreto-Lei n.º 433/82, de 27 de Outubro, e demais legislação em vigor.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14"
+  },
+  "175984696": {
+   "fragment_id": "175982425",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": "2022-01-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14",
+    "Revogado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 9/95/M - Diário da República n.º 117/1995, Série I-A de 1995-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1995-503647), em vigor a partir de 1995-05-25"
+   ],
+   "markdown": "###### Artigo 14.º\n\n- 1 - A Área de Protecção Especial das Ilhas Desertas terá um director, nomeado pelo Secretário Regional da Economia, sob proposta do presidente do Parque Natural da Madeira.\n\n2 - Todo o apoio administrativo e técnico à Área de Protecção Especial agora criada será prestado pelo Parque Natural da Madeira.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 9/95/M - Diário da República n.º 117/1995, Série I-A de 1995-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1995-503647), em vigor a partir de 1995-05-25"
+  },
+  "175984697": {
+   "fragment_id": "175982426",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "2022-01-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14"
+   ],
+   "markdown": "###### Artigo 15.º\n\nAs despesas resultantes da execução do presente diploma e, bem assim, as que decorram da necessidade de dar cumprimento às finalidades para que a Área de Protecção Especial foi criada serão suportadas pelas verbas adequadas do orçamento do Parque Natural da Madeira.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14"
+  },
+  "175984698": {
+   "fragment_id": "175982427",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": "2022-01-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14"
+   ],
+   "markdown": "###### Artigo 16.º\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14"
+  },
+  "175984699": {
+   "fragment_id": "175982428",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-01-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14"
+   ],
+   "markdown": "Aprovado em sessão plenária de 8 de Março de 1990.\n\nO Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.\n\nAssinado em 9 de Abril de 1990.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2021-175923966), em vigor a partir de 2022-01-14"
+  }
+ }
+}

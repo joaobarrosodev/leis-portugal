@@ -1,0 +1,580 @@
+---
+schema_version: '1.0'
+id: pt:dre:249263:por
+title: Decreto-Lei n.º 81/2008
+short_title: null
+summary: Estabelece o enquadramento nacional dos apoios a conceder ao sector da pesca no âmbito do Programa Operacional Pesca
+  2007-2013, designado por PROMAR
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 81/2008
+official_date: null
+publication_date: '2008-05-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 95/2008, Série I de 2008-05-16
+  number: '95'
+  series: I
+  supplement: null
+  pages: 2695 - 2699
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/05/09500/0269502699.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2014-11-07'
+version_history:
+  file: decreto-lei-81-2008.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2008-05-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-05-29'
+    amending: pt:dre:494218:por
+    amending_title: Decreto-Lei n.º 128/2009
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+  - date: '2010-04-25'
+    amending: pt:dre:613243:por
+    amending_title: Decreto-Lei n.º 37/2010
+    changes:
+    - Adita Artigo 17.º-A
+    - Altera Artigo 4.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 17.º
+  - date: '2013-01-29'
+    amending: pt:dre:257010:por
+    amending_title: Decreto-Lei n.º 16/2013
+    changes:
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+  - date: '2014-11-07'
+    amending: pt:dre:58763442:por
+    amending_title: Decreto-Lei n.º 168/2014
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/81/2008/p/cons/20141106/pt/html
+  oj: null
+  dre: '249263'
+  dre_path: /dr/detalhe/decreto-lei/81-2008-249263
+  internal: pt:dre:249263:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2008-249263
+  metadata_url: https://data.dre.pt/eli/dec-lei/81/2008/p/cons/20141106/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-58800859
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-58800859
+  retrieved_at: '2026-10-22T11:56:01Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 7b4f2b3ac46d7a1c900937178e70268435a0796a577c6db74eda65d3663f375c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:56:01Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-81-2008.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Financiamento
+- Pesca
+- IFAP
+- IFOP
+- JURO Bonificado
+- Plano Energético Nacional
+- Prémio
+- Intervenção Operacional Pescas
+- Saúde Animal
+relationships:
+- type: amended_by
+  target: pt:dre:494218:por
+  label: Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2009-494218
+  date: '2009-05-28'
+- type: amended_by
+  target: pt:dre:613243:por
+  label: Adita Artigo 17.º-A; Altera Artigo 4.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2010-613243
+  date: '2010-04-20'
+- type: amended_by
+  target: pt:dre:257010:por
+  label: Altera Artigo 13.º; Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2013-257010
+  date: '2013-01-28'
+- type: amended_by
+  target: pt:dre:58763442:por
+  label: Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 8.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º;
+    Altera Artigo 13.º; Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2014-58763442
+  date: '2014-11-06'
+- type: cites
+  target: celex:32006R1198
+  label: null
+  source: http://data.europa.eu/eli/reg/2006/1198/oj
+- type: cites
+  target: celex:32007R0498
+  label: null
+  source: http://data.europa.eu/eli/reg/2007/498/oj
+article_structure:
+  article_count: 19
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:56:01Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 81/2008
+
+Decreto-Lei n.º 81/2008
+
+de 16 de Maio
+
+O Plano Estratégico Nacional para as Pescas (PEN), aprovado em conformidade com o artigo 15.º do Regulamento (CE) n.º <a href="eurlex.asp?ano=2006&id=306R1198" title="Link para Regulamento da Comunidade Europeia">1198/2006</a>, do Conselho, de 27 de Julho, que institui o Fundo Europeu das Pescas (FEP), e definindo o quadro de apoio comunitário a favor do desenvolvimento sustentável do sector das pescas e das zonas de pesca, para o período de 2007 a 2013, explicitou, nos seguintes termos, o objectivo global que lhe preside: «Promover a competitividade e sustentabilidade, a prazo, das empresas do sector, apostando na inovação e na qualidade dos produtos, aproveitando melhor todas as possibilidades de pesca e potencialidades de produção aquícola, recorrendo a regimes de produção e exploração biológica e ecologicamente sustentáveis e adaptando o esforço de pesca aos recursos pesqueiros disponíveis.»
+
+Por sua vez, em cumprimento do artigo 17.º do citado regulamento comunitário, Portugal elaborou e apresentou à Comissão Europeia, o Programa Operacional Pesca, para o período de referência em causa, no âmbito do qual incorporou o objectivo global do PEN supratranscrito e, bem assim, os seguintes objectivos específicos, que constituem grandes prioridades para a política da intervenção a desenvolver: promover a competitividade do sector pesqueiro num quadro de adequação aos recursos pesqueiros disponíveis; reforçar, inovar e diversificar a produção aquícola; criar mais valor e diversificar a produção da indústria transformadora; assegurar o desenvolvimento sustentado das zonas costeiras mais dependentes da pesca.
+
+O Programa Operacional das Pescas foi aprovado pela Decisão C (2007) 6442, da Comissão Europeia, de 11 de Dezembro de 2007, tendo o Decreto-Lei n.º 80/2008, de 16 de Maio, instituído os órgãos que exercem as funções de autoridade de gestão, certificação e auditoria do Programa, tal como previstas no artigo 58.º do Regulamento (CE) n.º <a href="eurlex.asp?ano=2006&id=306R1198" title="Link para Regulamento da Comunidade Europeia">1198/2006</a>, do Conselho, de 27 de Julho.
+
+Neste contexto, importa agora estabelecer o enquadramento nacional dos apoios a conceder ao sector da pesca, de acordo com o Programa Operacional aprovado pela Comissão, definindo as regras gerais de aplicação do Programa, designado por PROMAR, em conformidade com as orientações estratégicas do PEN, e com o modelo de governação e a estrutura orgânica definida no Decreto-Lei n.º 80/2008, de 16 de Maio.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto e âmbito
+
+O presente decreto-lei estabelece o enquadramento nacional dos apoios a conceder ao sector da pesca no âmbito do Programa Operacional Pesca 2007-2013, doravante designado por PROMAR, no quadro do Fundo Europeu das Pescas (FEP), aprovado pelo Regulamento (CE) n.º <a href="eurlex.asp?ano=2006&id=306R1198" title="Link para Regulamento da Comunidade Europeia">1198/2006</a>, do Conselho, de 27 de Julho, cujas normas de execução constam do Regulamento (CE) n.º <a href="eurlex.asp?ano=2007&id=307R0498" title="Link para Regulamento da Comunidade Europeia">498/2007</a>, da Comissão de 26 de Março, e do Plano Estratégico Nacional (PEN).
+
+###### Artigo 2.º — Objectivos
+
+1 - O objectivo global do PROMAR consiste em promover a competitividade e sustentabilidade a prazo do sector das pescas, apostando na inovação e na qualidade dos produtos, aproveitando melhor todas as possibilidades da pesca e potencialidades da produção aquícola, com recurso a regimes de produção e exploração biológica e ecologicamente sustentáveis e adaptando o esforço de pesca aos recursos disponíveis.
+
+2 - Constituem objectivos específicos do PROMAR:
+
+a) Promover a competitividade do sector pesqueiro num quadro de adequação aos recursos disponíveis;
+
+b) Reforçar, inovar e diversificar a produção aquícola;
+
+c) Criar mais valor e diversificar a indústria transformadora;
+
+d) Assegurar o desenvolvimento sustentado das zonas costeiras mais dependentes da pesca.
+
+###### Artigo 3.º — Regimes de apoio
+
+1 - O PROMAR desenvolve-se através dos seguintes eixos prioritários e respectivas medidas:
+
+a) Eixo prioritário n.º 1, «Adaptação do esforço de pesca»:
+
+i) Cessação definitiva das actividades de pesca;
+
+ii) Cessação temporária das actividades de pesca;
+
+iii) Investimentos a bordo e selectividade;
+
+iv) Pequena pesca costeira;
+
+v) Compensações sócio-económicas;
+
+b) Eixo prioritário n.º 2, «Investimentos na aquicultura, transformação e comercialização dos produtos da pesca e aquicultura»:
+
+i) Investimentos produtivos na aquicultura;
+
+ii) Medidas aquiambientais, de saúde pública e de saúde animal;
+
+iii) Transformação e comercialização;
+
+c) Eixo prioritário n.º 3, «Medidas de interesse geral»:
+
+i) Acções colectivas;
+
+ii) Protecção e desenvolvimento da fauna e da flora aquática;
+
+iii) Portos de pesca, locais de desembarque e de abrigo;
+
+iv) Desenvolvimento de novos mercados e campanhas promocionais;
+
+v) Projectos piloto e transformação de embarcações de pesca;
+
+d) Eixo prioritário n.º 4, «Desenvolvimento sustentável das zonas de pesca»:
+
+i) Desenvolvimento sustentável das zonas de pesca;
+
+e) Assistência técnica.
+
+2 - As medidas previstas nas alíneas a) a d) do número anterior são objecto de regulamentação, nos termos seguintes:
+
+a) Para o continente, através de portaria do membro do Governo responsável pelo sector das pescas, excepto quanto à subalínea ii) da alínea b), no que respeita às medidas aquiambientais, e à subalínea ii) da alínea c), casos em que a portaria é conjunta com o membro do Governo responsável pela área do ambiente;
+
+b) Para as Regiões Autónomas, através de portaria do membro responsável pelo sector das pescas dos respectivos Governos Regionais.
+
+3 - A medida prevista na alínea e) do n.º 1 é objecto de despacho do membro do Governo responsável pelo sector das pescas.
+
+4 - A regulamentação a que se refere o n.º 2 deve, designadamente, abordar as seguintes matérias:
+
+a) Âmbito e objecto;
+
+b) Tipologia de projectos;
+
+c) Beneficiários;
+
+d) Condições específicas de acesso;
+
+e) Despesas elegíveis e não elegíveis;
+
+f) Critérios de selecção;
+
+g) Modalidades e taxas dos apoios financeiros;
+
+h) Fonte de financiamento da contrapartida nacional;
+
+i) Órgão competente para decidir sobre as candidaturas.
+
+5 - O membro do Governo responsável pelo sector das pescas submete a parecer da Comissão de Coordenação Estratégica do PROMAR as propostas de regulamentos específicos, quando o seu objecto seja susceptível de interferir com os domínios para os quais é necessário assegurar a demarcação de elegibilidades, relativamente aos apoios dos programas co-financiados pelo FEDER e Fundo de Coesão do QREN.
+
+###### Artigo 4.º — Condições gerais de acesso do promotor
+
+1 - Os beneficiários das medidas do PROMAR são designados promotores.
+
+2 - Os promotores de projetos devem observar as seguintes condições gerais de acesso, sempre que aplicáveis, sem prejuízo de outras condições específicas a estabelecer na regulamentação a que se refere o artigo anterior:
+
+a) Encontrar-se legalmente constituído;
+
+b) Cumprir as condições legais necessárias ao exercício da respectiva actividade;
+
+c) Possuir a situação regularizada face à administração fiscal e à segurança social, no que se refere a candidaturas para atribuição de compensações sócio-económicas;
+
+d) Possuir capacidade técnica e de gestão que garanta a adequada concretização dos investimentos;
+
+e) Dispor de contabilidade actualizada nos termos da legislação aplicável;
+
+f) Demonstrar uma situação económico-financeira equilibrada, nos termos a definir no respectivo regime de apoio.
+
+g) Não ter procedido à importação, exportação ou reexportação para fins de transformação, de produtos da pesca capturados ou provenientes de embarcações de pesca incluídas na lista Comunitária ou de Organização Regional de Pesca (ORP), de navios da pesca ilegal, não declarada e não regulamentada (pesca INN);
+
+h) Não ser proprietário, não ter vendido, exportado ou afretado embarcações de pesca destinadas a operadores associados à exploração, gestão ou propriedade de navios que constem de alguma das listas referidas na alínea anterior de navios de pesca INN;
+
+i) Não ter prestado qualquer serviço a navios de pesca incluídos nas listas referidas nas alíneas anteriores, designadamente, abastecimento de combustível ou víveres, energia, artes de pesca, não ter efectuado quaisquer reparações ou, por qualquer forma, não ter cedido trabalhadores ou prestadores de serviços.
+
+3 - [Revogado].
+
+4 - Para efeitos do disposto nas alíneas g), h) e i) do n.º 2, considera-se igualmente qualquer associação directa ou indirecta do promotor à exploração, gestão ou propriedade de navios de pesca INN, designadamente o exercício, a qualquer título, de funções que resultem em trabalho ou prestação de serviços em benefício de navios de pesca INN, ou participação na gestão ou no capital de empresas responsáveis pela sua exploração.
+
+5 - A instrução de candidaturas deve ser acompanhada de declaração sob compromisso de honra do promotor, de que não se encontra em qualquer uma das situações previstas nas alíneas g), h) e i) do n.º 2 e no número anterior.
+
+> Nota: [Artigo 5.º, Decreto-Lei n.º 168/2014 - Diário da República n.º 215/2014, Série I de 2014-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2014-58763442) As alterações introduzidas pelo Decreto-Lei 168/2014, de 06 de novembro, ao presente artigo, aplicam-se a todas as candidaturas já apresentadas, desde que ainda não decididas.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 168/2014 - Diário da República n.º 215/2014, Série I de 2014-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2014-58763442), em vigor a partir de 2014-11-07
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 37/2010 - Diário da República n.º 76/2010, Série I de 2010-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2010-613243), em vigor a partir de 2010-04-25
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2009 - Diário da República n.º 103/2009, Série I de 2009-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2009-494218), em vigor a partir de 2009-05-29
+
+###### Artigo 5.º — Condições gerais de admissibilidade dos projectos
+
+1 - Sem prejuízo das condições específicas que venham a ser estabelecidas na regulamentação a que se refere o artigo 3.º, constitui condição geral de admissibilidade dos projectos não terem os mesmos tido início antes da data de apresentação das respectivas candidaturas, à excepção:
+
+a) Dos estudos e projectos técnicos ou económicos e de impacte ambiental, desde que realizados até 12 meses antes da apresentação da candidatura;
+
+b) Dos adiantamentos, efectuados até seis meses antes da apresentação da candidatura, para sinalização de encomendas relativas a bens e serviços objecto do projecto, desde que não ultrapassem 40  % do seu valor e os respectivos bens e serviços ainda não tenham sido entregues ou colocados à disposição do promotor.
+
+c) Dos projetos iniciados durante período em que se encontravam encerradas as candidaturas aos regimes de apoio em que eram enquadráveis.
+
+2 - O disposto no número anterior não prejudica a admissibilidade das candidaturas referidas n.º 3 do artigo 17.º
+
+3 - O disposto no n.º 1 não se aplica às candidaturas apresentadas ao abrigo da alínea e) do n.º 1 do artigo 3.º
+
+4 - Sempre que os projectos tenham por objecto uma embarcação de pesca, constitui condição geral de admissibilidade, não se encontrarem incluídas, à data de apresentação da candidatura, em lista comunitária ou de Organização Regional de Pesca, de navios de pesca INN.
+
+> Nota: [Artigo 5.º, Decreto-Lei n.º 168/2014 - Diário da República n.º 215/2014, Série I de 2014-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2014-58763442) As alterações introduzidas pelo Decreto-Lei 168/2014, de 06 de novembro, ao presente artigo, aplicam-se a todas as candidaturas já apresentadas, desde que ainda não decididas.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 168/2014 - Diário da República n.º 215/2014, Série I de 2014-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2014-58763442), em vigor a partir de 2014-11-07
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2009 - Diário da República n.º 103/2009, Série I de 2009-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2009-494218), em vigor a partir de 2009-05-29
+
+###### Artigo 6.º — Despesas não elegíveis
+
+1 - Para efeitos do presente decreto-lei e dos regimes de apoio a que se refere o artigo 3.º, não se consideram elegíveis as despesas com:
+
+a) Aquisição de terrenos;
+
+b) Compra, construção ou obras de adaptação de edifícios ou outras construções, quando não directamente relacionadas com o exercício da actividade objecto do projecto;
+
+c) Manutenção ou conservação de quaisquer edifícios ou instalações, excepto aquelas que se destinem a melhorar as condições ambientais, de trabalho e hígio-sanitárias;
+
+d) Trespasses de estabelecimentos comerciais ou industriais, bem como outros direitos de utilização ou exploração do todo ou parte de imóveis;
+
+e) Habitação;
+
+f) Aquisição de veículos automóveis, ligeiros ou pesados, à excepção dos relativos ao transporte de bens alimentares sob temperatura dirigida, desde que aprovados e certificados de acordo com o ATP;
+
+g) Aquisição de bens em estado de uso, à excepção de pneus ou bens similares utilizados como defensas em cais;
+
+h) Aquisição de quaisquer serviços, bens ou equipamentos dispensáveis à exequibilidade do projecto;
+
+i) Trabalhos da empresa para ela própria, à excepção dos relativos a actividades de investigação, desenvolvimento e demonstração (I&DD);
+
+j) Juros durante o período de realização do investimento;
+
+l) Investimentos não comprovados documentalmente;
+
+m) Despesas pagas em numerário;
+
+n) Imposto sobre o valor acrescentado (IVA), com excepção do imposto não recuperável sempre que este seja definitivamente suportado pelos beneficiários.
+
+2 - Os regimes de apoio a que se refere o artigo 3.º estabelecem as despesas elegíveis e, bem assim, outras despesas não elegíveis, sempre que tal se justifique.
+
+###### Artigo 7.º — Modalidades e limites dos apoios
+
+1 - Os apoios financeiros a conceder ao abrigo dos regimes de apoio podem assumir a forma, cumulativa ou não, de:
+
+a) Apoios directos:
+
+i) Subsídios a fundo perdido;
+
+ii) Prémios;
+
+iii) Subsídios reembolsáveis;
+
+b) Apoios indirectos:
+
+i) Bonificação da taxa de juro;
+
+ii) Garantia mútua, capital de risco ou outros instrumentos de engenharia financeira.
+
+2 - As modalidades de atribuição dos apoios previstos na alínea b) do número anterior são objecto de contratos, a celebrar entre o gestor e as instituições financeiras que venham a ser seleccionadas com base nos planos de actividades propostos.
+
+3 - O montante máximo acumulado dos apoios concedidos a cada projecto, independentemente das modalidades que assuma, não pode, em qualquer caso, ultrapassar os limites de participação pública prevista na tabela do anexo ii do Regulamento (CE) n.º <a href="eurlex.asp?ano=2006&id=306R1198" title="Link para Regulamento da Comunidade Europeia">1198/2006</a>, do Conselho, de 27 de Julho.
+
+4 - Quando os apoios financeiros sejam concedidos sob a forma de subsídios reembolsáveis, os regimes de apoio podem prever a possibilidade da sua conversão, total ou parcial, em subsídio a fundo perdido, em função do nível de realização das metas contratadas.
+
+###### Artigo 8.º — Apresentação, selecção e decisão final das candidaturas
+
+1 - Só são admitidas para apreciação e selecção as candidaturas que tenham dado entrada nas direcções regionais de agricultura e pescas, no caso do continente, e nos órgãos que detenham a competência para a recepção, no caso das Regiões Autónomas dos Açores e Madeira, nos prazos e mediante o preenchimento dos formulários previstos nos regulamentos dos regimes de apoio, acompanhados de todos os elementos aí mencionados.
+
+2 - Para efeitos de selecção, os projectos são pontuados de acordo com critérios de selecção a estabelecer em cada regime de apoio, os quais podem fixar uma pontuação mínima, abaixo da qual as candidaturas são excluídas.
+
+3 - A circunstância de a embarcação que constitui objecto do projecto, ter sido utilizada na prática reiterada de contra-ordenações ao regime legal da pesca, determina para efeitos de pontuação final, a atribuição de menos 50 pontos (-50), sendo que se considera haver prática reiterada, quando o número de processos contra-ordenacionais em que a embarcação tenha sido utilizada, resulte em três decisões definitivas ou com trânsito em julgado, com aplicação de coima, nos dois anos civis que precedem a apresentação da candidatura, e independentemente de quem seja o arguido nos processos, estando em causa qualquer contra-ordenação tipificada nos n.os 1 ou 2 do artigo 21.º-A do Decreto-Lei n.º 278/87, de 7 de Julho.
+
+4 - Dos projectos seleccionados para apoio financeiro, apenas são objecto de decisão de concessão de apoio aqueles que, tendo em conta a respectiva pontuação por ordem decrescente, tenham cobertura nas dotações financeiras do PROMAR a definir por despacho do membro do Governo responsável pelo sector das pescas.
+
+5 - São indeferidas as candidaturas relativamente às quais venha a verificar-se qualquer das situações previstas nas alíneas g), h), ou i) do n.º 2 do artigo 4.º, posteriormente à data da respectiva apresentação.
+
+6 - (Revogado).
+
+7 - Aos promotores das candidaturas aprovadas podem ser exigidas garantias para acautelar a boa execução dos investimentos propostos, nos termos fixados nos respectivos regulamentos dos regimes de apoio.
+
+8 - O disposto nos números anteriores não prejudica o regime especial dos projectos de potencial interesse nacional (PIN).
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 168/2014 - Diário da República n.º 215/2014, Série I de 2014-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2014-58763442), em vigor a partir de 2014-11-07
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2009 - Diário da República n.º 103/2009, Série I de 2009-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2009-494218), em vigor a partir de 2009-05-29
+
+###### Artigo 9.º — Formalização da concessão de apoios
+
+1 - A concessão do apoio é formalizada através de contrato, a celebrar entre o beneficiário e as seguintes entidades contratantes:
+
+a) O Instituto de Financiamento da Agricultura e Pescas, I. P., para os projectos localizados tanto no continente como nas Regiões Autónomas dos Açores e Madeira;
+
+b) Na Região Autónoma dos Açores, no caso de ser designado um órgão da administração regional autónoma para o exercício das competências referidas no n.º 3 do artigo 10.º do Decreto-Lei n.º 80/2008, de 16 de Maio, nos termos do seu n.º 5, é esse o órgão competente para a contratação.
+
+2 - A decisão final de concessão dos apoios financeiros é comunicada pelo gestor da autoridade de gestão ao Instituto de Financiamento da Agricultura e Pescas, I. P., ou pelos coordenadores regionais da Madeira e Açores às entidades referidas nas alíneas a) e b) do número anterior, respectivamente.
+
+3 - O Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), ou, no caso da Região Autónoma dos Açores, o órgão da administração regional autónoma que vier a ser designado nos termos da alínea b) do n.º 1 devem notificar o promotor da decisão final de concessão de apoio, juntamente com a minuta da proposta contratual ou indicação do local onde a mesma pode ser assinada.
+
+4 - O promotor deve remeter a minuta devidamente assinada ao IFAP, I. P., ou ao órgão da administração regional autónoma dos Açores, sendo o caso, no prazo máximo de 60 dias seguidos a contar da data da notificação da decisão da concessão do apoio nos termos do número anterior.
+
+5 - A não celebração do contrato por razões imputáveis ao beneficiário, no prazo previsto no número anterior, determina a caducidade da decisão da concessão do apoio.
+
+6 - O IFAP, I. P., poderá delegar nos directores regionais de agricultura e pescas e nos coordenadores regionais a competência para a outorga dos contratos previstos na alínea a) do n.º 1.
+
+7 - No caso de existirem condições técnicas para o efeito, de acordo com parecer prévio a emitir pelo IFAP, I. P., a celebração formal do contrato, nos termos previstos nos números anteriores, pode ser dispensada por despacho do gestor, considerando-se o mesmo celebrado entre o promotor e o IFAP, I. P., com a simples comunicação da decisão de aprovação da candidatura, contados cinco dias da respectiva notificação.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 37/2010 - Diário da República n.º 76/2010, Série I de 2010-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2010-613243), em vigor a partir de 2010-04-25
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2009 - Diário da República n.º 103/2009, Série I de 2009-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2009-494218), em vigor a partir de 2009-05-29
+
+###### Artigo 10.º — Pagamento dos apoios
+
+1 - A justificação das despesas realizadas no âmbito dos projectos aprovados e os pedidos de pagamento são apresentados:
+
+a) Nas direcções regionais de agricultura e pescas, para os projectos localizados no continente e, no caso dos projectos localizados na Região Autónoma da Madeira, no Instituto de Financiamento da Agricultura e Pescas, I. P.;
+
+b) No caso dos projectos localizados na Região Autónoma dos Açores, a justificação da despesa e os pedidos de pagamento serão apresentados no órgão da administração regional autónoma que venha a ser designado nos termos do despacho referido na alínea b) do n.º 5 do artigo 10.º do Decreto-Lei n.º 80/2008, de 16 de Maio, ou no Instituto de Financiamento da Agricultura e Pescas, I. P., não havendo aquela designação;
+
+c) Nos grupos de acção costeira, para os projectos apresentados no âmbito do eixo «Desenvolvimento sustentável das zonas de pesca» (eixo prioritário n.º 4).
+
+2 - O pagamento dos apoios públicos é efetuado pelas entidades contratantes, mediante transferência para a conta bancária do beneficiário, identificada no contrato.
+
+3 - Sem prejuízo do disposto quanto às candidaturas a que se refere a alínea c) do n.º 2 do artigo 4.º e da autorização para a consulta por meios informáticos nos termos do Decreto-Lei n.º 114/2007, de 19 de Abril, o promotor deve comprovar a regularidade da sua situação contributiva e fiscal com a apresentação dos pedidos de pagamento, sob pena de resolução do contrato de atribuição do apoio.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 168/2014 - Diário da República n.º 215/2014, Série I de 2014-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2014-58763442), em vigor a partir de 2014-11-07
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 37/2010 - Diário da República n.º 76/2010, Série I de 2010-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2010-613243), em vigor a partir de 2010-04-25
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2009 - Diário da República n.º 103/2009, Série I de 2009-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2009-494218), em vigor a partir de 2009-05-29
+
+###### Artigo 11.º — Obrigações dos promotores
+
+Sem prejuízo de outras obrigações fixadas nos diplomas que regulamentem os regimes de apoio do PROMAR ou nos contratos previstos no artigo 9.º, constituem obrigações dos promotores:
+
+a) Executar os projectos de acordo com o previsto no presente decreto-lei e nos termos e prazos previstos no respectivo regime de apoio;
+
+b) Manter a situação regularizada perante a administração fiscal, a segurança social;
+
+c) Realizar os pagamentos das despesas previstas no projecto aprovado através da conta bancária especificada no contrato;
+
+d) Permitir, por si ou através dos seus representantes legais ou institucionais, o acesso aos locais de realização do investimento ou das acções financiadas, e àqueles onde se encontrem os elementos e documentos necessários, nomeadamente os de despesa, para efeitos de acompanhamento e controlo relativos ao projecto aprovado e verificação da sua conformidade com as normas nacionais e comunitárias aplicáveis, nas suas componentes material, financeira e contabilística;
+
+e) Contabilizar os apoios recebidos nos termos do Plano Oficial de Contabilidade, sempre que o promotor seja obrigado a dispor de contabilidade organizada nos termos da legislação aplicável;
+
+f) Manter toda a documentação relativa ao projecto organizada até três anos após a data de encerramento do PROMAR, incluindo, nomeadamente, documentos susceptíveis de comprovar as informações prestadas aquando da candidatura, bem como todos os documentos comprovativos da realização das despesas e respectivos pagamentos;
+
+g) Não afectar, alienar, ou por qualquer outro modo onerar, no todo ou em parte, os bens e serviços adquiridos no âmbito dos projectos de investimento apoiados, sem prévia autorização da autoridade de gestão, no prazo de cinco anos após a conclusão do projecto, considerando-se para esse efeito a data de pagamento da factura correspondente à última despesa do projecto, ou até ao final do prazo de reembolso do subsídio reembolsável, caso este seja superior;
+
+h) Manter as condições legais necessárias ao exercício da respectiva actividade, nomeadamente quanto à sua situação em matéria de licenciamento ou autorização de instalação do estabelecimento;
+
+i) A apresentar um relatório final, no prazo e de acordo com modelo a fixar pela autoridade de gestão;
+
+j) Publicitar os apoios recebidos.
+
+l) Manter inalteradas até à conclusão do projecto as condições de acesso previstas nas alíneas g), h) e i) do n.º 2 do artigo 4.º
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 168/2014 - Diário da República n.º 215/2014, Série I de 2014-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2014-58763442), em vigor a partir de 2014-11-07
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2009 - Diário da República n.º 103/2009, Série I de 2009-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2009-494218), em vigor a partir de 2009-05-29
+
+###### Artigo 12.º — Resolução e modificação do contrato
+
+1 - As entidades contratantes podem resolver o contrato celebrado com um promotor, quando ocorra alguma das seguintes situações:
+
+a) Incumprimento pelo promotor das obrigações decorrentes do presente decreto-lei, dos regulamentos que aprovam os regimes de apoio ou dos contratos;
+
+b) Prestação de falsas informações ou informações inexactas ou incompletas, seja sobre factos que serviram de base à apreciação da candidatura, seja sobre a situação do projecto ou falsificando documentos fornecidos no âmbito do projecto.
+
+2 - As entidades contratantes podem modificar unilateralmente o contrato, quanto à redução do montante dos apoios, em caso de incumprimento de que derive a impossibilidade de execução parcial dos projectos.
+
+3 - A posição contratual do promotor no contrato de concessão de apoios pode ser objecto de cessão, por motivos devidamente fundamentados, uma vez verificadas as condições de acesso do cessionário.
+
+4 - O exercício dos poderes referidos nos números anteriores pela entidade contratante deve ser antecedido de parecer vinculativo do gestor da autoridade de gestão, exceto quando o mesmo prescinda da sua emissão.
+
+5 - O gestor da autoridade de gestão pode delegar nos coordenadores regionais ou nos organismos intermédios a competência para a emissão do parecer vinculativo referido no número anterior.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 168/2014 - Diário da República n.º 215/2014, Série I de 2014-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2014-58763442), em vigor a partir de 2014-11-07
+
+###### Artigo 13.º — Consequências da resolução
+
+1 - (Revogado).
+
+2 - (Revogado).
+
+3 - O disposto nos n.os 1 e 2 é igualmente aplicável aos casos de alteração do contrato, que determine a obrigação de o promotor devolver a totalidade ou parte das importâncias recebidas.
+
+4 - Sempre que ocorra resolução do contrato nos termos do artigo anterior, os respetivos promotores ficam impedidos de apresentar candidaturas, individual ou coletivamente, quando participem em posição dominante a apoios no âmbito de qualquer regime de apoio financeiro ao sector das pescas, durante a vigência do PROMAR, mas nunca por prazo inferior a três anos, exceto nos casos em que a resolução se fundamente na ausência de execução do investimento aprovado, por motivo devidamente justificado, e desde que tenham sido integralmente restituídas, nos termos legais, todas as importâncias eventualmente recebidas.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 168/2014 - Diário da República n.º 215/2014, Série I de 2014-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2014-58763442), em vigor a partir de 2014-11-07
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 16/2013 - Diário da República n.º 19/2013, Série I de 2013-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2013-257010), em vigor a partir de 2013-01-29
+
+###### Artigo 14.º — Resolução ou modificação do contrato por iniciativa do promotor
+
+1 - (Revogado).
+
+2 - O promotor pode, por sua iniciativa, requerer ao gestor da autoridade de gestão a modificação do contrato, aplicando-se, quanto à eventual restituição de importâncias recebidas, na medida correspondente à modificação, o disposto no número anterior.
+
+3 - As modificações que se consubstanciem em alterações técnicas do projecto aprovado são apenas admissíveis nos termos em que vierem a ser fixadas nos regulamentos referidos no n.º 2 do artigo 3.º
+
+4 - Excecionalmente, pode ser determinada pelo gestor da autoridade de gestão a prorrogação dos prazos de início e de conclusão do projeto, desde que por motivo devidamente justificado.
+
+5 - As modificações aceites pelo gestor da autoridade de gestão devem figurar em documento escrito em anexo ao contrato.
+
+6 - O gestor da autoridade de gestão pode delegar nos organismos intermédios a competência para receber e decidir sobre pedidos de modificação do contrato, incluindo alterações do Número de Identificação Bancária.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 168/2014 - Diário da República n.º 215/2014, Série I de 2014-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2014-58763442), em vigor a partir de 2014-11-07
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 16/2013 - Diário da República n.º 19/2013, Série I de 2013-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2013-257010), em vigor a partir de 2013-01-29
+
+###### Artigo 15.º — Títulos executivos
+
+A reposição de montantes determinados pelas entidades contratantes segue o disposto no artigo 155.º do Código do Procedimento Administrativo, servindo, de título executivo, as certidões de dívida emitidas por estas entidades.
+
+###### Artigo 16.º — Acumulação de apoios
+
+Os apoios previstos no presente decreto-lei e respectiva legislação complementar não são acumuláveis com quaisquer outros da mesma natureza e finalidade económica, para as mesmas despesas elegíveis.
+
+###### Artigo 17.º — Regras de transição
+
+1 - Às candidaturas apresentadas ao abrigo dos programas do QCA III, co-financiados pelo IFOP - Instrumento Financeiro de Orientação da Pescas, que não foram objecto de decisão por insuficiência financeira e cujas despesas foram efectuadas após 1 de Janeiro de 2007, são aplicáveis as disposições constantes dos regimes de apoio previstos no presente decreto-lei, devendo os respectivos promotores reformulá-las no prazo de 120 dias seguidos, contados da data de publicação do respectivo regime de apoio.
+
+2 - A não reformulação nos termos previstos no número anterior equivale a desistência da candidatura e consequente arquivo do respectivo processo.
+
+3 - Em derrogação do disposto no n.º 1 do artigo 5.º, são admissíveis as candidaturas relativas a projectos iniciados antes da data de entrada em vigor do respectivo regime de apoio e posterior a 1 de Janeiro de 2007, desde que aquelas sejam apresentadas no prazo de 180 dias seguidos contados da primeira daquelas datas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 37/2010 - Diário da República n.º 76/2010, Série I de 2010-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2010-613243), em vigor a partir de 2010-04-25
+
+###### Artigo 17.º-A — Regras de transição no âmbito da Portaria n.º 165-B/2009, de 13 de Fevereiro
+
+As candidaturas apresentadas ao abrigo da Portaria n.º 165-B/2009, de 13 de Fevereiro, que reabriu o prazo de apresentação de candidaturas ao Regime de Apoio do Desenvolvimento da Aquicultura do MARE, que não tenham sido objecto de decisão de apoio público por insuficiência financeira e cujas despesas foram efectuadas após 1 de Janeiro de 2007, podem transitar para o regime de apoio previsto no PROMAR, sendo-lhes aplicáveis as regras deste Programa, devendo os respectivos promotores reformulá-las no prazo de 120 dias seguidos, contados da data de entrada em vigor do presente aditamento.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 37/2010 - Diário da República n.º 76/2010, Série I de 2010-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2010-613243), em vigor a partir de 2010-04-25
+
+###### Artigo 18.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação
+
+Visto e aprovado em Conselho de Ministros de 20 de Março de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - João Tiago Valente Almeida da Silveira - Francisco Carlos da Graça Nunes Correia - Luís Medeiros Vieira.
+
+Promulgado em 5 de Maio de 2008.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 8 de Maio de 2008.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

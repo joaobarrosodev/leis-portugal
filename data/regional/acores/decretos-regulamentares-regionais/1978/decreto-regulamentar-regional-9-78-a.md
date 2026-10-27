@@ -1,0 +1,117 @@
+---
+schema_version: '1.0'
+id: pt:dre:296251:por
+title: Decreto Regulamentar Regional n.º 9/78/A
+short_title: null
+summary: Estabelece disposições relativas à integração do pessoal operário, dos motoristas e dos escriturários-dactilógrafos
+  das extintas juntas gerais
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Governo Regional
+proposing_entity: null
+official_number: 9/78/A
+official_date: null
+publication_date: '1978-05-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 112/1978, Série I de 1978-05-16
+  number: '112'
+  series: I
+  supplement: null
+  pages: 886 - 886
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/05/11200/08860886.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '296251'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/9-1978-296251
+  internal: pt:dre:296251:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1978-296251
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1978-296251
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:24:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5269f4a7fbc6ba5df7d1a4c2b96439c56251befe8847551860b58dc34f85dbbc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:51Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Administração Regional
+- Condutor
+- Integração de Trabalhadores
+- Junta Geral
+- Pessoal Administrativo
+- Pessoal Operário
+- Reestruturação de Carreiras
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:140496:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:24:51Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 9/78/A
+
+Considerando que o [Decreto-Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1977-140496), de 1 de Março, não é aplicável aos funcionários da Administração Regional Autónoma e tendo em conta a vantagem de adoptar algumas das suas regras que apontam para o estabelecimento de carreiras profissionais, designadamente operárias, e ainda o facto de que o pessoal das extintas juntas gerais estava submetido em grande parte ao regime do Código Administrativo, o Governo Regional deliberou, em Novembro de 1977, que na integração do pessoal das extintas juntas gerais nos novos quadros regionais fossem tidos em conta os princípios estabelecidos no decreto-lei citado, no que respeita a carreiras e reclassificação do pessoal operário, dos motoristas e dos escriturários-dactilógrafos, devendo os quadros de cada departamento regional ser elaborados nessa conformidade.
+
+Considerando, porém, que os diplomas orgânicos e respectivos quadros das diversas Secretarias Regionais são publicados em datas diferentes, mesmo com meses de diferença, há que providenciar, por uma questão de justiça, no sentido de todos os funcionários reclassificados auferirem das consequentes regalias a partir da mesma data, sendo conveniente que essa providência conste de um diploma único, em vez de aparecer referida em cada um dos diplomas orgânicos.
+
+Nestes termos:
+
+O Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
+
+Artigo único. O pessoal operário, os motoristas e os escriturários-dactilógrafos que, na integração nos quadros regionais, sejam reclassificados de acordo com os critérios estabelecidos no [Decreto-Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1977-140496), de 1 de Março, têm direito aos novos vencimentos a partir de 1 de Janeiro de 1978.
+
+Aprovado em Plenário do Governo Regional em 6 de Abril de 1978.
+
+Presidência do Governo Regional, 6 de Abril de 1978. - O Presidente do Governo Regional, João Bosco Mota Amaral.
+
+Assinado em 28 de Abril de 1978.
+
+Publique-se.
+
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.

@@ -1,0 +1,125 @@
+---
+schema_version: '1.0'
+id: pt:dre:199375:por
+title: Portaria n.º 827/2002
+short_title: null
+summary: Cria na área da Direcção Regional de Agricultura do Alentejo a área de refúgio de caça MTL-1, designada «Brava»,
+  englobando os prédios rústicos registados matricialmente com os n.os 4-AA, 5-AA, 6-AA, 10-AA e 32-AA, sitos na freguesia
+  e município de Mértola
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente e do Ordenamento do Território
+proposing_entity: null
+official_number: 827/2002
+official_date: null
+publication_date: '2002-07-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 154/2002, Série I-B de 2002-07-06
+  number: '154'
+  series: I
+  supplement: null
+  pages: 5224 - 5225
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/07/154b00/52245225.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/827/2002/07/06/p/dre/pt/html
+  oj: null
+  dre: '199375'
+  dre_path: /dr/detalhe/portaria/827-2002-199375
+  internal: pt:dre:199375:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/827-2002-199375
+  metadata_url: https://data.dre.pt/eli/port/827/2002/07/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/827-2002-199375
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:43:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d182432345d6d668dfaa6c66c4cf87d365209d6cfecaae738864880b79afb66a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:43:40Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CAÇA
+- ZONA de CAÇA
+relationships:
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/338/2001/12/26/p/dre
+- type: cites
+  target: pt:dre:558207:por
+  label: null
+  source: http://data.dre.pt/eli/lei/173/1999/09/21/p/dre
+- type: cites
+  target: pt:dre:594974:por
+  label: null
+  source: http://data.dre.pt/eli/port/1103/2000/11/23/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:43:40Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 827/2002
+
+de 6 de Julho
+
+Não tendo sido conseguido acordo para integração de cinco prédios rústicos no processo de renovação da ZCT da Herdade da Brava e outras, processo n.º 312-DGF, concessionada à Sociedade Agrícola da Brava, S. A., e albergando aquela zona um importante património ao nível de espécies de caça maior, nomeadamente veado e javali, que importa preservar:
+
+Manda o Governo, pelos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente e do Ordenamento do Território, o seguinte:
+
+1.º Com fundamento no artigo 7.º da [Lei n.º 173/99](https://diariodarepublica.pt/dr/detalhe/lei/173-1999-558207), de 21 de Setembro, e no artigo 50.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com a redacção conferida pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, é criada na área da Direcção Regional de Agricultura do Alentejo a área de refúgio de caça MTL-1, designada «Brava», englobando os prédios rústicos registados matricialmente com os n.os 4-AA, 5-AA, 6-AA, 10-AA e 32-AA, sitos na freguesia e município de Mértola, com uma área de 73,55 ha.
+
+2.º Os limites da área de refúgio de caça vão demarcados na carta que constitui anexo ao presente diploma e do qual faz parte integrante.
+
+3.º Nesta área de refúgio é proibido o exercício da caça, o qual só excepcionalmente pode vir a ser autorizado pela Direcção Regional de Agricultura do Alentejo, aquando da existência de prejuízos causados em culturas agrícolas.
+
+4.º Para efeitos da correcção de densidade das populações cinegéticas, as normas de acesso dos caçadores são definidas por edital da Direcção Regional de Agricultura do Alentejo.
+
+5.º A área de refúgio será obrigatoriamente sinalizada com tabuletas do modelo n.º 7 e sinal do modelo n.º 9, definidos na [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), de 23 de Novembro, e de acordo com as condições estipuladas na citada portaria.
+
+Em 1 de Abril de 2002.
+
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural. - Pelo Ministro do Ambiente e do Ordenamento do Território, Manuel Pedro Cunha da Silva Pereira, Secretário de Estado do Ordenamento do Território e da Conservação da Natureza.
+
+[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/07/154b00/52245225.pdf)

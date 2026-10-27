@@ -1,0 +1,191 @@
+---
+schema_version: '1.0'
+id: pt:dre:1145969708:por
+title: Decreto-Lei n.º 141/2026
+short_title: null
+summary: Altera o Decreto-Lei n.º 80-A/2026, de 31 de março, adequando o regime de concessão dos apoios extraordinários à
+  produção primária de produtos agrícolas ou de produtos das pescas e da aquicultura ao enquadramento temporário para os auxílios
+  estatais no contexto da crise no Médio Oriente.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Agricultura e Mar
+official_number: 141/2026
+official_date: null
+publication_date: '2026-07-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 132/2026, Série I de 2026-07-10
+  number: '132'
+  series: I
+  supplement: null
+  pages: 26 - 27
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/07/13200/0002600027.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/141/2026/07/10/p/dre/pt/html
+  oj: null
+  dre: '1145969708'
+  dre_path: /dr/detalhe/decreto-lei/141-2026-1145969708
+  internal: pt:dre:1145969708:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2026-1145969708
+  metadata_url: https://data.dre.pt/eli/dec-lei/141/2026/07/10/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2026-1145969708
+  consolidated_url: null
+  retrieved_at: '2026-10-22T18:46:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 573e1bc1314af7980f23dfda22c37d5d646f4288e5651eb8dfdbf53cc31d897d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:46:22Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ação Social
+- Agricultura
+- Aquicultura
+- Associação Humanitária dos Bombeiros Voluntários
+- Auxílio de Minimis
+- Combustível
+- Compensação Financeira
+- Gasóleo
+- Pesca
+- Subsídio de Gasóleo
+relationships:
+- type: amends
+  target: pt:numero:decreto-lei:80-A/2026
+  label: Altera, a partir de 11 de julho de 2026, os artigos 6.º e 10.º e revoga o n.º 4 do artigo 10.º do Decreto-Lei n.º
+    80-A/2026, de 31 de março, Diário da República n.º 63/2026, Suplemento, Série I
+  source: null
+  date: '2026-03-31'
+- type: cites
+  target: celex:32014R0651
+  label: null
+  source: http://data.europa.eu/eli/reg/2014/651/oj
+- type: cites
+  target: celex:32023R2831
+  label: null
+  source: http://data.europa.eu/eli/reg/2023/2831/oj
+- type: cites
+  target: pt:dre:1080481232:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/80-a/2026/03/31/p/dre
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T18:46:22Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 141/2026
+
+de 10 de julho
+
+A escalada excecional dos preços dos combustíveis decorrente da crise geopolítica e militar no Médio Oriente motivou a aprovação do [Decreto-Lei n.º 80-A/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-a-2026-1080481232), de 31 de março, que criou um conjunto de apoios extraordinários e temporários destinados a mitigar os seus impactos económicos e sociais em setores particularmente vulneráveis.
+
+Entretanto, a Comissão Europeia adotou a Comunicação C/2026/2593, de 5 de maio de 2026, que estabelece um enquadramento temporário para os auxílios estatais no contexto da crise no Médio Oriente (Comunicação da Comissão C/2026/2593), reconhecendo a necessidade de permitir aos Estados-Membros uma maior flexibilidade na concessão de apoios destinados a compensar aumentos excecionais dos custos energéticos.
+
+Esta interpretação da Comissão Europeia permite a concessão de auxílios de Estado fora do regime de minimis, desde que observadas as condições materiais, temporais e procedimentais aí previstas, permitindo responder de forma mais eficaz às perturbações económicas provocadas pela atual crise energética.
+
+Importa, assim, adaptar o regime previsto no [Decreto-Lei n.º 80-A/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-a-2026-1080481232), de 31 de março, por forma a prever expressamente a possibilidade de concessão dos apoios fora do regime de minimis, em conformidade com a interpretação da Comissão Europeia na Comunicação da Comissão C/2026/2593, salvaguardando simultaneamente a compatibilidade com o direito da União Europeia e reforçando a segurança jurídica do mecanismo nacional de apoio.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à primeira alteração ao [Decreto-Lei n.º 80-A/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-a-2026-1080481232), de 31 de março, com vista a adequar os apoios excecionais e temporários a atribuir aos setores agrícola, florestal, das pescas e da aquicultura ao enquadramento temporário para os auxílios estatais no contexto da crise no Médio Oriente.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 80-A/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-a-2026-1080481232), de 31 de março
+
+Os artigos 6.º e 10.º do [Decreto-Lei n.º 80-A/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-a-2026-1080481232), de 31 de março, passam a ter a seguinte redação:
+
+«Artigo 6.º
+
+[...]
+
+1 - [...]
+
+2 - Para efeitos de atribuição de apoios financeiros ao abrigo da alínea a) do n.º 1 do artigo 10.º, e sem prejuízo do artigo 11.º, os beneficiários não podem ser empresas em dificuldade, na aceção constante no ponto 18 do artigo 2.º do [Regulamento (UE) n.º 651/2014](https://data.europa.eu/eli/reg/2014/651/oj?locale=pt) da Comissão, de 17 de junho de 2014, que declara certas categorias de auxílio compatíveis com o mercado interno [[Regulamento (UE) n.º 651/2014](https://data.europa.eu/eli/reg/2014/651/oj?locale=pt)], no exercício contabilístico anterior a 28 de fevereiro de 2026.
+
+3 - O disposto no número anterior não é aplicável às micro ou pequenas empresas, na aceção do anexo i do [Regulamento (UE) n.º 651/2014](https://data.europa.eu/eli/reg/2014/651/oj?locale=pt), desde que estas:
+
+a) Não tenham sido objeto de um processo coletivo de insolvência;
+
+b) Não tenham recebido auxílios de emergência ou à reestruturação.
+
+4 - [Anterior n.º 2.]
+
+5 - [Anterior n.º 3.]
+
+Artigo 10.º
+
+Auxílios de Estado
+
+1 - Os apoios financeiros previstos no presente capítulo são concedidos de acordo com o direito da União Europeia em matéria de auxílios de Estado, podendo, consoante a atividade exercida pelo beneficiário, ser enquadrados num dos seguintes regimes:
+
+a) Ao abrigo da alínea c) do n.º 3 do artigo 107.º do Tratado de Funcionamento da União Europeia, e em conformidade com o enquadramento temporário aplicável aos auxílios estatais adotado no contexto da crise no Médio Oriente, quando os apoios se destinem à produção primária de produtos agrícolas ou aos setores da pesca e da aquicultura;
+
+b) Ao abrigo do [Regulamento (UE) 2023/2831](https://data.europa.eu/eli/reg/2023/2831/oj?locale=pt) da Comissão, de 13 de dezembro de 2023, relativo aos auxílios de minimis, quando o beneficiário exerça atividades não abrangidas pela alínea anterior.
+
+2 - O enquadramento do beneficiário nos regimes referidos no número anterior é determinado em função da respetiva Classificação Portuguesa das Atividades Económicas, Revisão 4, e da natureza do apoio atribuído.
+
+3 - Compete ao IFAP, I. P., e ao Gabinete de Planeamento, Políticas e Administração Geral, assegurar o cumprimento das obrigações de registo, controlo, reporte e publicidade exigidas pelo direito da União Europeia.
+
+4 - [Revogado.]»
+
+###### Artigo 3.º — Norma revogatória
+
+É revogado o n.º 4 do artigo 10.º do [Decreto-Lei n.º 80-A/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-a-2026-1080481232), de 31 de março.
+
+###### Artigo 4.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 18 de junho de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Manuel Castro Almeida - Miguel Martinez de Castro Pinto Luz - Paulo Jorge Simões Ribeiro - Maria da Graça Carvalho - José Manuel Fernandes.
+
+Promulgado em 30 de junho de 2026.
+
+Publique-se.
+
+O Presidente da República, António José Martins Seguro.
+
+Referendado em 3 de julho de 2026.
+
+O Primeiro-Ministro, Luís Montenegro.
+
+119948997

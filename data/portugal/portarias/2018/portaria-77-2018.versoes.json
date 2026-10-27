@@ -1,0 +1,456 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:114880292:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2018-114880319",
+ "dre_path": "/dr/detalhe/portaria/77-2018-114880292",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2018-03-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114867025",
+    "114867026",
+    "114867027",
+    "114867028",
+    "114867029",
+    "114867030",
+    "114867031",
+    "114867032",
+    "114867033",
+    "114867034",
+    "114867035",
+    "114867036",
+    "114867037",
+    "114867038",
+    "114867039",
+    "114867040",
+    "114867042"
+   ]
+  },
+  {
+   "date": "2019-06-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122657687:por",
+     "title": "Portaria n.º 190-A/2019",
+     "published": "2019-06-21",
+     "dre_path": "/dr/detalhe/portaria/190-a-2019-122657687"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "114867025",
+    "114867026",
+    "114867027",
+    "114867028",
+    "114867029",
+    "114867030",
+    "114867031",
+    "114867032",
+    "114867033",
+    "122651769",
+    "114867035",
+    "114867036",
+    "114867037",
+    "114867038",
+    "114867039",
+    "114867040",
+    "114867041",
+    "114867042"
+   ]
+  },
+  {
+   "date": "2022-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:205509975:por",
+     "title": "Portaria n.º 312-A/2022",
+     "published": "2022-12-30",
+     "dre_path": "/dr/detalhe/portaria/312-a-2022-205509975"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Adita Artigo 4.º-B",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "114867025",
+    "205643135",
+    "205643136",
+    "205643137",
+    "205643138",
+    "205643147",
+    "205643161",
+    "205643162",
+    "205643163",
+    "205643164",
+    "205643165",
+    "205643166",
+    "205643167",
+    "205643168",
+    "205643169",
+    "205643170",
+    "205643171",
+    "205643172",
+    "205643173",
+    "205643174"
+   ]
+  }
+ ],
+ "fragments": {
+  "114867025": {
+   "fragment_id": "114880320",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 77/2018\n\nde 16 de março\n\nO Programa do XXI Governo Constitucional estabelece como uma das suas prioridades fortalecer, simplificar e digitalizar a atividade da Administração, com o propósito de a tornar mais eficiente e facilitar a vida dos cidadãos e das empresas, através do lançamento do Programa SIMPLEX+.\n\nA Chave Móvel Digital (CMD) é um meio complementar e voluntário de autenticação por excelência em portais e sítios da Administração Pública.\n\nCom a recente alteração legislativa levada a cabo pela Lei n.º 32/2017, de 1 de junho, com o escopo primordial de desenvolver esta ferramenta tecnológica, mais simples para o cidadão, foram criadas funcionalidades como a possibilidade de receção dos códigos numéricos temporários em aplicação móvel dedicada, bem como possibilitar ao cidadão que possa assinar eletronicamente, e de forma segura, documentos sem a necessidade de uma infraestrutura para leitura do seu cartão de cidadão.\n\nA presente portaria procede à regulamentação do diploma legal bem como à definição do modelo de sustentabilidade, atenta a necessidade de manutenção e gestão da infraestrutura subjacente a este instrumento, a segurança das transações e a garantia de não repúdio da assinatura eletrónica.\n\nAtravés das alterações introduzidas pela lei e reguladas pela presente portaria permite-se o alargamento das funcionalidades e potencialidades da CMD não só a quem resida no país como também a todos os demais cidadãos que tenham relações laborais, económicas e financeiras com Portugal, designadamente a assinatura eletrónica qualificada, através deste meio de comunicação à distância.\n\nSão ainda estabelecidas as taxas para as entidades privadas que pretendam aderir a este mecanismo, através de protocolo a celebrar com a Agência para a Modernização Administrativa, I. P.\n\nEstas taxas foram calculadas com base nos custos verificados desde a implementação do mecanismo de autenticação da CMD, em respeito pelo princípio da proporcionalidade e da prossecução do interesse público e visando a cobertura da despesa inerente à manutenção e gestão da infraestrutura.\n\nFoi ouvida a Comissão Nacional de Proteção de Dados.\n\nAssim, manda o Governo, pelo Ministro dos Negócios Estrangeiros, pela Secretária de Estado Adjunta e da Modernização Administrativa, pelo Secretário de Estado dos Assuntos Fiscais, pelo Secretário de Estado da Proteção Civil, pela Secretária de Estado da Justiça, pela Secretária de Estado da Segurança Social e pelo Secretário de Estado Adjunto e da Saúde, ao abrigo dos n.os 14 e 15 do artigo 2.º da Lei n.º 37/2014, de 26 de junho, alterada pela Lei n.º 32/2017, de 1 de junho, o seguinte:"
+  },
+  "114867026": {
+   "fragment_id": "114880321",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à regulamentação necessária ao desenvolvimento da Chave Móvel Digital (CMD), aprovada pela Lei n.º 37/2014, de 26 de junho, alterada pela Lei n.º 32/2017, de 1 de junho, enquanto meio complementar e voluntário de autenticação dos cidadãos em sistemas, portais e sítios na Internet e assinatura eletrónica qualificada à distância."
+  },
+  "114867027": {
+   "fragment_id": "114880322",
+   "type": 11,
+   "heading": "Artigo 2.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Registo\n\n1 - O registo constitui, para efeitos de autenticação, a associação voluntária do número de identificação civil ou, no caso de cidadão estrangeiro, não titular de número de identificação civil português, o número de passaporte, a um único número de telemóvel e ou a um endereço eletrónico, escolhendo o cidadão uma palavra-passe permanente.\n\n2 - O registo pode ser solicitado, através dos meios previstos nos n.os 6 e 7 do artigo 2.º da Lei n.º 37/2014, de 26 de junho, sendo que:\n\na) O registo presencial pode ser solicitado por titulares de Cartão de Cidadão, Bilhete de Identidade ou, no caso de cidadãos estrangeiros, não abrangidos pelo Decreto-Lei n.º 154/2003, de 15 de julho, de passaporte;\n\nb) O registo eletrónico só pode ser solicitado por titulares de Cartão de Cidadão."
+  },
+  "114867028": {
+   "fragment_id": "114880323",
+   "type": 11,
+   "heading": "Artigo 3.º — Solicitação presencial da CMD",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Solicitação presencial da CMD\n\n1 - O registo pode ser solicitado presencialmente:\n\na) Aquando da entrega do Cartão de Cidadão;\n\nb) A todo o tempo, junto dos serviços consulares portugueses, numa Loja de Cidadão, conservatória do registo civil ou junto de outros serviços da administração pública que celebrem protocolo com a Agência para a Modernização Administrativa, I. P. (AMA).\n\n2 - O registo presencial requer a confirmação da identidade do cidadão por conferência com o seu documento de identificação civil ou do seu passaporte.\n\n3 - No ato de registo presencial é gerada automaticamente, e de forma aleatória, uma palavra-chave temporária, com seis dígitos numéricos.\n\n4 - A palavra-passe referida no número anterior deve ser alterada pelo titular na primeira autenticação com CMD, de forma a criar uma palavra-chave permanente, com quatro a oito dígitos numéricos, de autenticação para futuras interações com os portais e sítios na Internet e para a utilização da assinatura.\n\n5 - No momento do registo, o cidadão pode também solicitar a ativação da sua assinatura eletrónica qualificada."
+  },
+  "114867029": {
+   "fragment_id": "114880324",
+   "type": 11,
+   "heading": "Artigo 4.º — Solicitação eletrónica da CMD com Cartão de Cidadão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Solicitação eletrónica da CMD com Cartão de Cidadão\n\n1 - O registo pode ser solicitado através da autenticação com o Cartão de Cidadão no sítio na Internet autenticacao.gov.pt, que permite a definição da palavra-passe permanente.\n\n2 - No caso referido no número anterior, o cidadão pode também solicitar a ativação do certificado da sua assinatura eletrónica qualificada."
+  },
+  "114867030": {
+   "fragment_id": "114880325",
+   "type": 11,
+   "heading": "Artigo 5.º — Solicitação eletrónica da CMD através de envio de carta para a morada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Solicitação eletrónica da CMD através de envio de carta para a morada\n\n1 - O registo pode ser igualmente solicitado eletronicamente através da autenticação no sítio na Internet do portal das finanças ou de outros sítios, aplicações ou terminais eletrónicos que celebrem protocolo com a AMA, solicitando o envio de carta, com a palavra-passe temporária gerada automaticamente e de forma aleatória, para a morada do titular do Cartão de Cidadão.\n\n2 - Para conclusão do processo de registo por meio eletrónico referido no número anterior, o titular de Cartão de Cidadão deve introduzir a palavra-passe temporária, recebida nos termos do número anterior, no módulo da autenticação.gov.pt.\n\n3 - A palavra passe deve ser alterada pelo titular na primeira autenticação com CMD, de forma a criar uma palavra-chave permanente para autenticação em futuras interações com os portais e sítios na Internet da Administração Pública.\n\n4 - O cidadão que solicite a CMD por esta via pode ativar o certificado de assinatura eletrónica qualificada presencialmente, ou através de autenticação com Cartão de Cidadão, nos termos da alínea b) do n.º 6 do artigo 2.º da Lei n.º 37/2014, de 26 de junho."
+  },
+  "114867031": {
+   "fragment_id": "114880326",
+   "type": 11,
+   "heading": "Artigo 6.º — Utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Utilização\n\n1 - O utilizador da CMD pode autenticar-se, de forma segura, em sistemas, sítios e portais na Internet, através da sua palavra-chave permanente de autenticação.\n\n2 - Para concluir o processo de autenticação referido no número anterior deve ser introduzido o código numérico que lhe seja enviado através de:\n\na) Short message service (SMS);\n\nb) Mensagem de correio eletrónico;\n\nc) Aplicação móvel disponibilizada para o efeito (app) instalada no telemóvel;\n\nd) Outros meios eletrónicos que permitam o envio de mensagens privadas.\n\n3 - Cada autenticação implica a emissão de um código numérico específico de validade temporal limitada, com seis dígitos numéricos.\n\n4 - É da responsabilidade do utilizador garantir a utilização adequada da CMD e tomar as medidas de segurança para o efeito.\n\n5 - O utilizador da CMD que tenha requerido a ativação da assinatura eletrónica qualificada pode assinar documentos, de forma segura, recebendo um código numérico por cada assinatura."
+  },
+  "114867032": {
+   "fragment_id": "114880327",
+   "type": 11,
+   "heading": "Artigo 7.º — Alteração da palavra-chave permanente da CMD",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Alteração da palavra-chave permanente da CMD\n\n1 - O cidadão pode, a todo o tempo, alterar por meio eletrónico, a sua palavra-passe permanente no sítio na Internet autenticacao.gov.pt.\n\n2 - Por questões de segurança pode ser solicitada ao cidadão a alteração da sua palavra-chave.\n\n3 - O cidadão pode também proceder à alteração do seu número de telefone e ou endereço eletrónico no sítio mencionado no n.º 1."
+  },
+  "114867033": {
+   "fragment_id": "114880328",
+   "type": 11,
+   "heading": "Artigo 8.º — Bloqueio automático, suspensão, cancelamento e revogação da CMD",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Bloqueio automático, suspensão, cancelamento e revogação da CMD\n\n1 - Por motivos de segurança a palavra-passe permanente pode ser bloqueada após a subsequente introdução de códigos alfanuméricos errados.\n\n2 - O desbloqueio da CMD é efetuado nos termos previstos para o registo presencial ou eletrónico.\n\n3 - Quando se verifique a utilização abusiva da CMD pode haver lugar à sua suspensão temporária por períodos de 24 horas.\n\n4 - A CMD é cancelada quando exista conhecimento que o documento de registo tenha sido cancelado por motivos associados à fraude de identidade.\n\n5 - A CMD e o certificado eletrónico de assinatura da CMD são cancelados:\n\na) Nos casos de morte do titular ou da sua incapacidade superveniente, através de informação enviada pelo Instituto dos Registos e do Notariado, I. P.;\n\nb) No caso do passaporte perder a validade.\n\n6 - Pode ser solicitada, a todo o tempo, por meio eletrónico, a revogação da CMD ou da assinatura qualificada, implicando o respetivo cancelamento."
+  },
+  "114867034": {
+   "fragment_id": "114880329",
+   "type": 11,
+   "heading": "Artigo 9.º — Validade e suspensão temporária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Validade e suspensão temporária\n\n1 - A validade da CMD coincide:\n\na) Com a validade do documento de identificação civil português;\n\nb) Com a validade do passaporte, no caso de cidadão estrangeiro, quando não titular de número de identificação civil português.\n\n2 - A aplicação dos prazos referidos no número anterior não pode conduzir à atribuição de uma CMD com validade superior a 10 anos.\n\n3 - Findo o prazo de validade previsto na alínea a) do n.º 1 a CMD é suspensa até à renovação do mesmo documento."
+  },
+  "114867035": {
+   "fragment_id": "114880330",
+   "type": 11,
+   "heading": "Artigo 10.º — Comunicação de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comunicação de dados\n\n1 - Para o processo de registo de atribuição da CMD são comunicados à AMA e validados os seguintes dados:\n\na) Nome próprio e apelidos;\n\nb) Número de identificação civil e número de documento do Cartão de Cidadão ou número de passaporte;\n\nc) Data de nascimento;\n\nd) Verificação da sua capacidade jurídica;\n\ne) Validade do documento de identificação civil ou passaporte;\n\nf) Existência de medidas cautelares sobre o passaporte.\n\n2 - No caso de registo por meio eletrónico através de envio de carta para a morada do titular de Cartão de Cidadão, mediante protocolo a celebrar entre a AMA, a Autoridade Tributária e o Instituto dos Registos e Notariado, I. P., é igualmente comunicada e validada a respetiva morada, por parte deste último, sendo eliminada dos sistemas informáticos da CMD quando concluído o processo de registo.\n\n3 - Para efeitos do cancelamento previsto no n.º 4 do artigo 8.º é ainda comunicado à AMA o cancelamento do documento de registo por motivos associados à fraude de identidade.\n\n4 - Para efeitos da suspensão e reativação da CMD previstas no n.º 2 do artigo 9.º são comunicados à AMA além dos dados previstos no n.º 1, o cancelamento ou revogação do cartão de cidadão.\n\n5 - Na utilização da CMD podem ainda ser comunicados e validados, nomeadamente os seguintes dados:\n\na) Número de identificação fiscal;\n\nb) Número de segurança social;\n\nc) Número de utente do Serviço Nacional de Saúde;\n\nd) Nacionalidade.\n\n6 - Os dados são comunicados e validados entre a AMA, e os sistemas informáticos respetivos, através da Plataforma de Interoperabilidade da Administração Pública (iAP), mediante protocolo entre as entidades envolvidas, nomeadamente, o Instituto dos Registos e do Notariado, I. P., o Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., o Instituto de Informática, I. P., da Segurança Social, o Serviço de Estrangeiros e Fronteiras, a Administração Tributária, a Direção-Geral da Saúde e os Serviços Partilhados do Ministério da Saúde, E. P. E.\n\n7 - A comunicação e validação dos dados são expressa e previamente autorizadas pelo respetivo titular, nos termos do n.º 3 do artigo 13.º e do n.º 4 do artigo 24.º da Lei n.º 7/2007, de 5 de fevereiro, alterada pela Lei n.º 32/2017, de 1 de junho.\n\n8 - Os dados fornecidos pelo cidadão em conjunto com os dados obtidos nos termos dos números anteriores são apresentados ao cidadão para confirmação.\n\n9 - São comunicados à AMA, mediante protocolo a celebrar com o Instituto dos Registos e do Notariado, I. P., a informação do cancelamento, sempre que ocorra a morte do titular da CMD ou a sua incapacidade superveniente e as situações de fraude de identidade.\n\n10 - Os protocolos previstos no presente artigo relativos à comunicação dos dados são notificados à Comissão Nacional de Proteção de Dados."
+  },
+  "114867036": {
+   "fragment_id": "114880331",
+   "type": 11,
+   "heading": "Artigo 11.º — Modelo de sustentabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Modelo de sustentabilidade\n\n1 - A utilização da CMD para fins de autenticação em sistemas e sítios da Administração Pública, bem como para assinatura eletrónica, não tem encargos para o cidadão.\n\n2 - As entidades públicas devem privilegiar a utilização do Cartão de Cidadão e da CMD como modo de autenticação dos cidadãos nos respetivos sistemas e sítios da Internet, celebrando para o efeito protocolo com a AMA, isento de custos.\n\n3 - As entidades privadas que pretendam utilizar a CMD como modo de autenticação dos cidadãos nos respetivos sistemas e sítios da Internet, celebram para o efeito protocolo com a AMA, sendo aplicáveis as taxas que forem estabelecidas para a utilização da CMD, às quais acresce o IVA à taxa legal em vigor.\n\n4 - Para efeitos do número anterior, as taxas devidas constam do anexo à presente portaria, da qual faz parte integrante, sendo igualmente disponibilizadas em www.autenticacao.gov.pt."
+  },
+  "114867037": {
+   "fragment_id": "114880332",
+   "type": 11,
+   "heading": "Artigo 12.º — Segurança de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Segurança de dados\n\n1 - No desenho e operação dos sistemas de informação nos quais se baseia a CMD a AMA, enquanto entidade responsável pela gestão e segurança da infraestrutura tecnológica que suporta a CMD, nos termos e para os efeitos do n.º 8 do artigo 2.º da Lei n.º 37/2014, de 26 de junho, garante o cumprimento do disposto no n.º 9 do artigo 2.º daquele diploma, em especial, a adequada separação entre as diversas bases de dados utilizadas por aqueles sistemas de informação, sendo a informação das interações concretas realizadas entre os cidadãos e os serviços ou organismos da Administração Pública apenas guardada nos sistemas de informação desses serviços ou organismos.\n\n2 - O registo das autenticações através da CMD é eliminado no prazo de um ano após a respetiva ocorrência.\n\n3 - O registo das assinaturas efetuadas através da CMD é eliminado no prazo de um ano após a revogação ou cancelamento da respetiva CMD.\n\n4 - Os cidadãos utilizadores da CMD podem monitorizar o seu histórico de autenticações e assinaturas.\n\n5 - Os dados relativos ao registo de atribuição da CMD são apagados no prazo de um ano após o cancelamento.\n\n6 - A Entidade Certificadora responsável pela emissão de certificados de assinatura da Chave Móvel Digital partilha a infraestrutura e os requisitos de segurança do Cartão de Cidadão, obedecendo à sua hierarquia de chaves públicas."
+  },
+  "114867038": {
+   "fragment_id": "114880333",
+   "type": 11,
+   "heading": "Artigo 13.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Revogação\n\nÉ revogada a Portaria n.º 189/2014, de 23 de setembro."
+  },
+  "114867039": {
+   "fragment_id": "114880334",
+   "type": 11,
+   "heading": "Artigo 14.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Disposições transitórias\n\n1 - As CMD existentes à data da entrada em vigor da presente portaria, mantêm-se válidas até 31 de dezembro de 2027, enquanto não forem substituídas, sem prejuízo de situações de cancelamento ou revogação.\n\n2 - O modelo de sustentabilidade definido na presente portaria é revisto no prazo de 12 meses."
+  },
+  "114867040": {
+   "fragment_id": "114880335",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\n1 - A presente portaria entra em vigor no dia 2 de abril de 2018.\n\n2 - Sem prejuízo do disposto no número anterior, entram em vigor no dia 1 de outubro de 2018:\n\na) O desbloqueio presencial da CMD, previsto no n.º 2 do artigo 8.º nos balcões de atendimento do Instituto dos Registos e do Notariado, I. P.;\n\nb) O n.º 5 do artigo 3.º, relativamente a cidadãos estrangeiros, não abrangidos pelo Decreto-Lei n.º 154/2003, de 15 de julho; e\n\nc) O n.º 4 do artigo 12.º da presente portaria."
+  },
+  "114867042": {
+   "fragment_id": "114880337",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 4 do artigo 11.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 4 do artigo 11.º)\n\n(ver documento original)\n\n111208604"
+  },
+  "122651769": {
+   "fragment_id": "114880329",
+   "type": 11,
+   "heading": "Artigo 9.º — Validade e suspensão temporária",
+   "in_force_from": "2019-06-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 190-A/2019 - Diário da República n.º 117/2019, 1º Suplemento, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/190-a-2019-122657687), em vigor a partir de 2019-06-22, produz efeitos a partir de 2019-06-20"
+   ],
+   "markdown": "###### Artigo 9.º — Validade e suspensão temporária\n\n1 - A validade da CMD coincide:\n\na) Com a validade do documento de identificação civil português, acrescida de 30 dias;\n\nb) Com a validade do passaporte, no caso de cidadão estrangeiro, quando não titular de número de identificação civil português.\n\n2 - A aplicação dos prazos referidos no número anterior não pode conduzir à atribuição de uma CMD com validade superior a 10 anos e 30 dias.\n\n3 - Findo o prazo de validade previsto na alínea a) do n.º 1 a CMD é suspensa até à renovação do mesmo documento.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 190-A/2019 - Diário da República n.º 117/2019, 1º Suplemento, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/190-a-2019-122657687), em vigor a partir de 2019-06-22, produz efeitos a partir de 2019-06-20"
+  },
+  "114867041": {
+   "fragment_id": "114880336",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro dos Negócios Estrangeiros, Augusto Ernesto Santos Silva, em 8 de março de 2018. - A Secretária de Estado Adjunta e da Modernização Administrativa, Graça Maria da Fonseca Caetano Gonçalves, em 13 de março de 2018. - O Secretário de Estado dos Assuntos Fiscais, António Manuel Veiga dos Santos Mendonça Mendes, em 13 de março de 2018. - O Secretário de Estado da Proteção Civil, José Artur Tavares Neves, em 13 de março de 2018. - A Secretária de Estado da Justiça, Anabela Damásio Caetano Pedroso, em 9 de março de 2018. - A Secretária de Estado da Segurança Social, Cláudia Sofia de Almeida Gaspar Joaquim, em 14 de março de 2018. - O Secretário de Estado Adjunto e da Saúde, Fernando Manuel Ferreira Araújo, em 13 de março de 2018."
+  },
+  "205643135": {
+   "fragment_id": "114880321",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2022-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975), em vigor a partir de 2022-12-31, produz efeitos a partir de 2022-12-31"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à regulamentação necessária ao desenvolvimento da Chave Móvel Digital (CMD), enquanto meio alternativo e voluntário de autenticação dos cidadãos em sistemas eletrónicos e sítios na Internet e de assinatura eletrónica qualificada ao abrigo da Lei n.º 37/2014, de 26 de junho, alterada e republicada pelo Decreto-Lei n.º 88/2021, de 3 de novembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975), em vigor a partir de 2022-12-31, produz efeitos a partir de 2022-12-31"
+  },
+  "205643136": {
+   "fragment_id": "114880322",
+   "type": 11,
+   "heading": "Artigo 2.º — Registo",
+   "in_force_from": "2022-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975), em vigor a partir de 2022-12-31, produz efeitos a partir de 2022-12-31"
+   ],
+   "markdown": "###### Artigo 2.º — Registo\n\n1 - O registo constitui a associação voluntária do número de identificação civil ou, no caso de cidadão estrangeiro, não titular de número de identificação civil português, do número de identificação fiscal ou do número de passaporte, a um único número de telemóvel ou a um endereço de correio eletrónico, sendo definida pelo cidadão uma palavra-chave permanente de quatro a oito dígitos.\n\n2 - O registo pode ser solicitado através dos meios previstos nos n.os 6, 7 e 16 do artigo 2.º da Lei n.º 37/2014, de 26 de junho, na sua redação atual, nos termos definidos nos artigos 3.º a 5.º da presente portaria.\n\n3 - Com a CMD o cidadão com idade igual ou superior a 16 anos que não se encontre sujeito a medidas de acompanhamento previstas no Código Civil que exijam a representação para o ato, pode também solicitar a emissão do certificado qualificado para assinatura eletrónica qualificada.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975), em vigor a partir de 2022-12-31, produz efeitos a partir de 2022-12-31"
+  },
+  "205643137": {
+   "fragment_id": "114880323",
+   "type": 11,
+   "heading": "Artigo 3.º — Solicitação presencial da CMD",
+   "in_force_from": "2022-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975), em vigor a partir de 2022-12-31, produz efeitos a partir de 2022-12-31"
+   ],
+   "markdown": "###### Artigo 3.º — Solicitação presencial da CMD\n\n1 - O registo pode ser solicitado presencialmente:\n\na) Aquando da entrega do Cartão de Cidadão;\n\nb) A todo o tempo, junto dos serviços consulares portugueses, numa Loja de Cidadão, conservatória do registo civil ou junto de outros serviços da administração pública que celebrem protocolo com a Agência para a Modernização Administrativa, I. P. (AMA).\n\n2 - O registo presencial requer a confirmação da identidade do cidadão por conferência com o documento de identificação civil, com o título de residência ou outro documento previsto na Lei n.º 23/2007, de 4 de julho, com o cartão de residência concedido nos termos da Lei n.º 37/2006, de 9 de agosto, ou com o seu passaporte.\n\n3 - No ato de registo presencial é gerada automaticamente, e de forma aleatória, uma palavra-chave temporária, com seis dígitos numéricos.\n\n4 - A palavra-passe referida no número anterior deve ser alterada pelo titular na primeira autenticação com CMD, de forma a criar uma palavra-chave permanente, com quatro a oito dígitos numéricos, de autenticação para futuras interações com os portais e sítios na Internet e para a utilização da assinatura.\n\n5 - No momento do registo, o cidadão pode também solicitar a ativação da sua assinatura eletrónica qualificada.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975), em vigor a partir de 2022-12-31, produz efeitos a partir de 2022-12-31"
+  },
+  "205643138": {
+   "fragment_id": "114880324",
+   "type": 11,
+   "heading": "Artigo 4.º — Solicitação eletrónica da CMD com Cartão de Cidadão",
+   "in_force_from": "2022-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975), em vigor a partir de 2022-12-31, produz efeitos a partir de 2022-12-31"
+   ],
+   "markdown": "###### Artigo 4.º — Solicitação eletrónica da CMD com Cartão de Cidadão\n\n1 - O registo pode ser solicitado através da autenticação com cartão de cidadão, no sítio na Internet autenticacao.gov.pt.\n\n2 - O registo pode também ser solicitado, através de autenticação com cartão de cidadão, noutros locais, aplicações ou terminais eletrónicos, mediante acordo celebrado entre a AMA e as entidades interessadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975), em vigor a partir de 2022-12-31, produz efeitos a partir de 2022-12-31"
+  },
+  "205643147": {
+   "fragment_id": "205643052",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Solicitação eletrónica da CMD através da recolha de dados biométricos",
+   "in_force_from": "2022-12-31",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 312-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975), em vigor a partir de 2022-12-31, produz efeitos a partir de 2022-12-31"
+   ],
+   "markdown": "###### Artigo 4.º-A — Solicitação eletrónica da CMD através da recolha de dados biométricos\n\n1 - O registo pode ser solicitado por via eletrónica, com recurso a sistema biométrico, através de aplicação móvel disponibilizada para o efeito.\n\n2 - A aplicação móvel referida no número anterior assegura a verificação eletrónica da validade e autenticidade do cartão de cidadão apresentado e que o pedido de registo é efetuado, em tempo real, pelo titular do cartão de cidadão.\n\n3 - No início do ato de registo a aplicação assegura a confirmação do número de telefone do cidadão, mediante envio de código numérico temporário de utilização única para o número por este indicado.\n\n4 - A verificação eletrónica da validade e autenticidade do cartão de cidadão apresentado é efetuada através da recolha da fotografia da frente e verso do documento, captada com a câmara do dispositivo móvel do respetivo titular, cujos dados são lidos automaticamente e comparados com os dados registados no sistema de informação responsável pelo ciclo de vida do cartão de cidadão, através da Plataforma de Interoperabilidade da Administração Pública, e com recurso a algoritmos de aprendizagem profunda para verificação da segurança do cartão de cidadão.\n\n5 - Após confirmação da validade e autenticidade do cartão de cidadão nos termos previstos no número anterior, é solicitada ao cidadão a indicação de um dos dados adicionais de identificação não visíveis no referido documento, para confronto com os dados existentes nas bases de dados do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.).\n\n6 - A verificação de que o pedido de registo é efetuado, em tempo real, pelo titular do cartão de cidadão realiza-se através da recolha, em tempo real e com recurso à câmara do dispositivo móvel, de imagens do seu rosto, incluindo fotogramas, e da extração do modelo biométrico correspondente.\n\n7 - As imagens do rosto recolhidas nos termos do número anterior são tratadas para comparação biométrica com a imagem do rosto constante do sistema de informação responsável pelo ciclo de vida do cartão de cidadão e para deteção de vida através da técnica de digitalização do rosto em três dimensões pelo dispositivo móvel do cidadão, com avaliação de características como a profundidade tridimensional, textura da pele e reflexões oculares.\n\n8 - Os dados pessoais identificados nos números anteriores podem ser comunicados a prestadores de serviços de infraestruturas, alojamento e desenvolvimento da solução tecnológica que permite a verificação da identidade do titular do cartão de cidadão e da validade e autenticidade do cartão de cidadão apresentado.\n\n9 - O tratamento de dados pessoais descrito no presente artigo obedece às finalidades previstas no seu n.º 2.\n\n10 - Sem prejuízo do disposto no número anterior, nos termos e com os limites previstos no n.º 19 do artigo 2.º da Lei n.º 37/2014, de 26 de junho, na sua redação atual, pode haver lugar ao tratamento da fotografia da frente e verso do cartão de cidadão para efeitos de desenvolvimento evolutivo da CMD.\n\n11 - O procedimento de registo é realizado em conformidade com as orientações do Gabinete Nacional de Segurança em matéria de identificação de pessoas físicas através de procedimentos de identificação à distância com recurso a sistemas biométricos automáticos de reconhecimento facial.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 312-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975), em vigor a partir de 2022-12-31, produz efeitos a partir de 2022-12-31"
+  },
+  "205643161": {
+   "fragment_id": "205643053",
+   "type": 11,
+   "heading": "Artigo 4.º-B — Solicitação da CMD através de videoconferência",
+   "in_force_from": "2022-12-31",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 312-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975), em vigor a partir de 2022-12-31, produz efeitos a partir de 2022-12-31"
+   ],
+   "markdown": "###### Artigo 4.º-B — Solicitação da CMD através de videoconferência\n\n1 - O registo pode ser solicitado por videoconferência junto de Centro de Contacto gerido pela AMA.\n\n2 - O registo previsto no número anterior requer a confirmação da identidade, de acordo com os procedimentos estabelecidos pelo Gabinete Nacional de Segurança para a identificação de pessoas físicas através de procedimentos de identificação à distância com recurso a videoconferência, incluindo:\n\na) Recolha de imagens do rosto;\n\nb) Validação dessas imagens, por comparação com a imagem facial constante do cartão de cidadão disponibilizada pelo IRN, I. P., ou do título ou cartão de residência, disponibilizado pelo Serviço de Estrangeiros e Fronteiras (SEF), ou de imagem constante do passaporte; e\n\nc) Verificação de documento de identificação válido, mediante mecanismos de segurança do documento e validação de dados constantes das bases de dados do IRN, I. P., e do SEF ou de outras entidades aptas à verificação da fidedignidade do documento.\n\n3 - Para efeitos de identificação do requerente são aceites, enquanto documento de identificação:\n\na) O cartão de cidadão;\n\nb) O passaporte; ou\n\nc) O título ou cartão de residência.\n\n4 - No ato de registo deve ser enviado ao requerente um código numérico temporário de utilização única, especialmente produzido para este efeito, gerado centralmente e enviado por SMS para a pessoa a identificar.\n\n5 - O procedimento de identificação é concluído depois de o código numérico referido no número anterior ser comunicado pelo requerente e considerado bem-sucedido pelo sistema.\n\n6 - Concluído o procedimento de identificação, é gerada automaticamente, e de forma aleatória, uma palavra-chave temporária, com quatro dígitos numéricos, que é enviada por SMS ao requerente.\n\n7 - A palavra-chave referida no número anterior deve ser alterada pelo titular na primeira autenticação com CMD, de forma a criar uma palavra-chave permanente, com quatro a oito dígitos numéricos, de autenticação para futuras interações com os sistemas eletrónicos e sítios na Internet e para a utilização da assinatura eletrónica qualificada.\n\n8 - A AMA publica no site autenticacao.gov.pt a lista dos documentos de identificação, previstos nas alíneas b) e c) do presente artigo, que podem ser utilizados no procedimento de registo por videoconferência.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 312-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975), em vigor a partir de 2022-12-31, produz efeitos a partir de 2022-12-31"
+  },
+  "205643162": {
+   "fragment_id": "114880325",
+   "type": 11,
+   "heading": "Artigo 5.º — Solicitação eletrónica da CMD através de envio de carta para a morada",
+   "in_force_from": "2022-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975), em vigor a partir de 2022-12-31, produz efeitos a partir de 2022-12-31"
+   ],
+   "markdown": "###### Artigo 5.º — Solicitação eletrónica da CMD através de envio de carta para a morada\n\n1 - O registo pode ser igualmente solicitado eletronicamente através da autenticação no sítio na Internet do portal das finanças ou de outros sítios, aplicações ou terminais eletrónicos que celebrem protocolo com a AMA, solicitando o envio de carta, com a palavra-chave temporária gerada automaticamente e de forma aleatória, para a morada do titular do cartão de cidadão.\n\n2 - Para conclusão do procedimento de registo por meio eletrónico referido no número anterior, o titular de cartão de cidadão deve introduzir a palavra-chave temporária, recebida nos termos do número anterior, na aplicação móvel disponibilizada para o efeito ou no sítio na Internet autenticacao.gov.pt.\n\n3 - A palavra-chave temporária deve ser alterada pelo titular na primeira autenticação com CMD, de forma a criar uma palavra-chave permanente para autenticação em futuras interações com os sistemas eletrónicos e sítios na Internet.\n\n4 - O cidadão que solicite a CMD por esta via pode ativar o certificado de assinatura eletrónica qualificada presencialmente, ou através de autenticação com Cartão de Cidadão, nos termos da alínea b) do n.º 6 do artigo 2.º da Lei n.º 37/2014, de 26 de junho.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975), em vigor a partir de 2022-12-31, produz efeitos a partir de 2022-12-31"
+  },
+  "205643163": {
+   "fragment_id": "114880326",
+   "type": 11,
+   "heading": "Artigo 6.º — Utilização",
+   "in_force_from": "2022-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975), em vigor a partir de 2022-12-31, produz efeitos a partir de 2022-12-31"
+   ],
+   "markdown": "###### Artigo 6.º — Utilização\n\n1 - O utilizador da CMD pode autenticar-se, de forma segura, em sistemas eletrónicos e sítios na Internet, através da sua palavra-chave permanente de autenticação e de um código numérico com seis dígitos, de utilização única e temporária.\n\n2 - Mediante opção do cidadão, o código numérico referido no número anterior é enviado, por cada sessão de autenticação, através de:\n\na) Short message service (SMS);\n\nb) Mensagem de correio eletrónico;\n\nc) Aplicação móvel disponibilizada para o efeito (app) instalada no telemóvel;\n\nd) Outros meios eletrónicos que permitam o envio de mensagens privadas.\n\n3 - O código numérico de utilização única e temporária pode ser substituído pela utilização das funcionalidades de identificação segura biométrica do dispositivo móvel do cidadão, através da aplicação móvel referida na alínea c) do número anterior.\n\n4 - É da responsabilidade do utilizador garantir a utilização adequada da CMD e tomar as medidas de segurança para o efeito.\n\n5 - O utilizador da CMD que tenha solicitado a emissão do certificado qualificado para a assinatura eletrónica qualificada pode assinar documentos, de forma segura, introduzindo o código numérico de utilização única e temporária que lhe é enviado, ou fazendo uso das funcionalidades a que se refere o n.º 3, por cada pedido de assinatura.\n\n6 - A autenticação com CMD referida no presente artigo também pode ser utilizada em atendimento presencial, por videoconferência ou telefónico mediado.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975), em vigor a partir de 2022-12-31, produz efeitos a partir de 2022-12-31"
+  },
+  "205643164": {
+   "fragment_id": "114880327",
+   "type": 11,
+   "heading": "Artigo 7.º — Alteração da palavra-chave permanente da CMD",
+   "in_force_from": "2022-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975), em vigor a partir de 2022-12-31, produz efeitos a partir de 2022-12-31"
+   ],
+   "markdown": "###### Artigo 7.º — Alteração da palavra-chave permanente da CMD\n\n1 - O cidadão pode, a todo o tempo, alterar a sua palavra-chave permanente no sítio na Internet autenticacao.gov.pt ou na aplicação móvel prevista na alínea c) do n.º 2 do artigo anterior.\n\n2 - Por questões de segurança pode ser solicitada ao cidadão a alteração da sua palavra-chave.\n\n3 - O cidadão pode também proceder à alteração do seu número de telemóvel ou endereço de correio eletrónico através dos meios mencionados no n.º 1.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975), em vigor a partir de 2022-12-31, produz efeitos a partir de 2022-12-31"
+  },
+  "205643165": {
+   "fragment_id": "114880328",
+   "type": 11,
+   "heading": "Artigo 8.º — Bloqueio automático, suspensão, cancelamento e revogação da CMD",
+   "in_force_from": "2022-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975), em vigor a partir de 2022-12-31, produz efeitos a partir de 2022-12-31"
+   ],
+   "markdown": "###### Artigo 8.º — Bloqueio automático, suspensão, cancelamento e revogação da CMD\n\n1 - Por motivos de segurança a palavra-chave permanente pode ser bloqueada após a introdução sucessiva de códigos alfanuméricos errados.\n\n2 - O desbloqueio da CMD é efetuado nos termos previstos para o registo.\n\n3 - Quando se verifique a utilização abusiva da CMD pode haver lugar à sua suspensão temporária por períodos de 24 horas.\n\n4 - A CMD, incluindo o certificado qualificado para a assinatura eletrónica qualificada, é cancelada quando haja conhecimento de que o documento de registo tenha sido cancelado por motivos associados à fraude de identidade ou quando se verifique que o número de telemóvel ou o endereço de correio eletrónico associado não pertence ao titular.\n\n5 - A CMD e o certificado eletrónico de assinatura da CMD são cancelados:\n\na) Nos casos de morte do titular ou da sua incapacidade superveniente, através de informação enviada pelo Instituto dos Registos e do Notariado, I. P.;\n\nb) No caso do passaporte perder a validade.\n\n6 - A revogação da CMD ou do certificado qualificado para assinatura eletrónica qualificada pode ser solicitada, a todo o tempo, por meio eletrónico ou por chamada para o centro de contacto gerido pela AMA através do número de telemóvel associado à CMD, implicando o respetivo cancelamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975), em vigor a partir de 2022-12-31, produz efeitos a partir de 2022-12-31"
+  },
+  "205643166": {
+   "fragment_id": "114880329",
+   "type": 11,
+   "heading": "Artigo 9.º — Validade e suspensão temporária",
+   "in_force_from": "2022-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975), em vigor a partir de 2022-12-31, produz efeitos a partir de 2022-12-31",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 190-A/2019 - Diário da República n.º 117/2019, 1º Suplemento, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/190-a-2019-122657687), em vigor a partir de 2019-06-22, produz efeitos a partir de 2019-06-20"
+   ],
+   "markdown": "###### Artigo 9.º — Validade e suspensão temporária\n\n1 - A validade da CMD coincide:\n\na) Com a validade do documento de identificação civil português, acrescida de 30 dias;\n\nb) Com a validade do passaporte, no caso de cidadão estrangeiro, quando não titular de número de identificação civil português.\n\nc) Com a validade do título ou cartão de residência.\n\n2 - A aplicação dos prazos referidos no número anterior não pode conduzir à atribuição de uma CMD com validade superior a 10 anos e 30 dias.\n\n3 - Findo o prazo de validade previsto na alínea a) do n.º 1 a CMD é suspensa até à renovação do mesmo documento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975), em vigor a partir de 2022-12-31, produz efeitos a partir de 2022-12-31\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 190-A/2019 - Diário da República n.º 117/2019, 1º Suplemento, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/190-a-2019-122657687), em vigor a partir de 2019-06-22, produz efeitos a partir de 2019-06-20"
+  },
+  "205643167": {
+   "fragment_id": "114880330",
+   "type": 11,
+   "heading": "Artigo 10.º — Comunicação de dados",
+   "in_force_from": "2022-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975), em vigor a partir de 2022-12-31, produz efeitos a partir de 2022-12-31"
+   ],
+   "markdown": "###### Artigo 10.º — Comunicação de dados\n\n1 - Para o processo de registo de atribuição da CMD são comunicados à AMA e validados os seguintes dados:\n\na) Nome próprio e apelidos;\n\nb) Número de identificação civil e número de documento do Cartão de Cidadão ou número de passaporte;\n\nc) Data de nascimento;\n\nd) Verificação da sua capacidade jurídica;\n\ne) Validade do documento de identificação civil, do passaporte ou do título ou cartão de residência;\n\nf) Existência de medidas cautelares sobre o passaporte.\n\n2 - No caso de registo por meio eletrónico através de envio de carta para a morada do titular de Cartão de Cidadão, mediante protocolo a celebrar entre a AMA, a Autoridade Tributária e o Instituto dos Registos e Notariado, I. P., é igualmente comunicada e validada a respetiva morada, por parte deste último, sendo eliminada dos sistemas informáticos da CMD quando concluído o processo de registo.\n\n3 - Para efeitos do cancelamento previsto no n.º 4 do artigo 8.º é ainda comunicado à AMA o cancelamento do documento de registo por motivos associados à fraude de identidade.\n\n4 - Para efeitos da suspensão e reativação da CMD previstas no n.º 2 do artigo 9.º são comunicados à AMA além dos dados previstos no n.º 1, o cancelamento ou revogação do cartão de cidadão.\n\n5 - Na utilização da CMD podem ainda ser comunicados e validados, nomeadamente os seguintes dados:\n\na) Número de identificação fiscal;\n\nb) Número de segurança social;\n\nc) Número de utente do Serviço Nacional de Saúde;\n\nd) Nacionalidade.\n\n6 - Os dados são comunicados e validados entre a AMA, e os sistemas informáticos respetivos, através da Plataforma de Interoperabilidade da Administração Pública (iAP), mediante protocolo entre as entidades envolvidas, nomeadamente, o Instituto dos Registos e do Notariado, I. P., o Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., o Instituto de Informática, I. P., da Segurança Social, o Serviço de Estrangeiros e Fronteiras, a Administração Tributária, a Direção-Geral da Saúde e os Serviços Partilhados do Ministério da Saúde, E. P. E.\n\n7 - A comunicação e validação dos dados são expressa e previamente autorizadas pelo respetivo titular, nos termos do n.º 3 do artigo 13.º e do n.º 4 do artigo 24.º da Lei n.º 7/2007, de 5 de fevereiro, alterada pela Lei n.º 32/2017, de 1 de junho.\n\n8 - Os dados fornecidos pelo cidadão em conjunto com os dados obtidos nos termos dos números anteriores são apresentados ao cidadão para confirmação.\n\n9 - São comunicados à AMA, mediante protocolo a celebrar com o Instituto dos Registos e do Notariado, I. P., a informação do cancelamento, sempre que ocorra a morte do titular da CMD ou a sua incapacidade superveniente e as situações de fraude de identidade.\n\n10 - Os protocolos previstos no presente artigo relativos à comunicação dos dados são notificados à Comissão Nacional de Proteção de Dados.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975), em vigor a partir de 2022-12-31, produz efeitos a partir de 2022-12-31"
+  },
+  "205643168": {
+   "fragment_id": "114880331",
+   "type": 11,
+   "heading": "Artigo 11.º — Modelo de sustentabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Modelo de sustentabilidade\n\n1 - A utilização da CMD para fins de autenticação em sistemas e sítios da Administração Pública, bem como para assinatura eletrónica, não tem encargos para o cidadão.\n\n2 - As entidades públicas devem privilegiar a utilização do Cartão de Cidadão e da CMD como modo de autenticação dos cidadãos nos respetivos sistemas e sítios da Internet, celebrando para o efeito protocolo com a AMA, isento de custos.\n\n3 - As entidades privadas que pretendam utilizar a CMD como modo de autenticação dos cidadãos nos respetivos sistemas e sítios da Internet, celebram para o efeito protocolo com a AMA, sendo aplicáveis as taxas que forem estabelecidas para a utilização da CMD, às quais acresce o IVA à taxa legal em vigor.\n\n4 - Para efeitos do número anterior, as taxas devidas constam do anexo à presente portaria, da qual faz parte integrante, sendo igualmente disponibilizadas em www.autenticacao.gov.pt."
+  },
+  "205643169": {
+   "fragment_id": "114880332",
+   "type": 11,
+   "heading": "Artigo 12.º — Segurança dos dados e prazos de conservação",
+   "in_force_from": "2022-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975), em vigor a partir de 2022-12-31, produz efeitos a partir de 2022-12-31"
+   ],
+   "markdown": "###### Artigo 12.º — Segurança dos dados e prazos de conservação\n\n1 - No desenho e operação dos sistemas de informação nos quais se baseia a CMD a AMA, enquanto entidade responsável pelo tratamento de dados pessoais e pela gestão e segurança da infraestrutura tecnológica que suporta a CMD, nos termos e para os efeitos do n.º 8 do artigo 2.º da Lei n.º 37/2014, de 26 de junho, garante o cumprimento do disposto no n.º 9 do artigo 2.º daquele diploma, em especial, a adequada separação entre as diversas bases de dados utilizadas por aqueles sistemas de informação, sendo a informação das interações concretas realizadas entre os cidadãos e os serviços ou organismos da Administração Pública apenas guardada nos sistemas de informação desses serviços ou organismos.\n\n2 - Não são permitidas transferências de dados pessoais para fora do Espaço Económico Europeu, salvo com base numa decisão de adequação da Comissão Europeia nos termos previstos no artigo 45.º do Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados.\n\n3 - O registo das autenticações através da CMD é eliminado no prazo de um ano após a respetiva ocorrência.\n\n4 - O registo das assinaturas efetuadas através da CMD é eliminado no prazo de sete anos após a revogação ou cancelamento da respetiva CMD.\n\n5 - Os cidadãos utilizadores da CMD podem monitorizar o seu histórico de autenticações e assinaturas.\n\n6 - Os dados relativos ao registo de atribuição da CMD são apagados no prazo de sete anos após a sua revogação ou o seu cancelamento.\n\n7 - Os dados necessários ao registo através da recolha de dados biométricos são eliminados diariamente e com recurso a mecanismos automatizados, após a conclusão do procedimento de obtenção da CMD.\n\n8 - Os dados necessários ao desenvolvimento evolutivo da CMD são eliminados no prazo de 10 dias, nos termos previstos no n.º 19 do artigo 2.º da Lei n.º 37/2014, de 26 de junho, na sua redação atual.\n\n9 - As gravações audiovisuais das sessões de videoconferência previstas no artigo 4.º-B são eliminadas no prazo de sete anos após a revogação ou o cancelamento da respetiva CMD.\n\n10 - A Entidade Certificadora responsável pela emissão de certificados de assinatura da Chave Móvel Digital partilha a infraestrutura e os requisitos de segurança do cartão de cidadão, obedecendo à sua hierarquia de chaves públicas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975), em vigor a partir de 2022-12-31, produz efeitos a partir de 2022-12-31"
+  },
+  "205643170": {
+   "fragment_id": "114880333",
+   "type": 11,
+   "heading": "Artigo 13.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Revogação\n\nÉ revogada a Portaria n.º 189/2014, de 23 de setembro."
+  },
+  "205643171": {
+   "fragment_id": "114880334",
+   "type": 11,
+   "heading": "Artigo 14.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Disposições transitórias\n\n1 - As CMD existentes à data da entrada em vigor da presente portaria, mantêm-se válidas até 31 de dezembro de 2027, enquanto não forem substituídas, sem prejuízo de situações de cancelamento ou revogação.\n\n2 - O modelo de sustentabilidade definido na presente portaria é revisto no prazo de 12 meses."
+  },
+  "205643172": {
+   "fragment_id": "114880335",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": "2022-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975), em vigor a partir de 2022-12-31, produz efeitos a partir de 2022-12-31"
+   ],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\n1 - A presente portaria entra em vigor no dia 2 de abril de 2018.\n\n2 - [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-a-2022-205509975), em vigor a partir de 2022-12-31, produz efeitos a partir de 2022-12-31"
+  },
+  "205643173": {
+   "fragment_id": "114880336",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro dos Negócios Estrangeiros, Augusto Ernesto Santos Silva, em 8 de março de 2018. - A Secretária de Estado Adjunta e da Modernização Administrativa, Graça Maria da Fonseca Caetano Gonçalves, em 13 de março de 2018. - O Secretário de Estado dos Assuntos Fiscais, António Manuel Veiga dos Santos Mendonça Mendes, em 13 de março de 2018. - O Secretário de Estado da Proteção Civil, José Artur Tavares Neves, em 13 de março de 2018. - A Secretária de Estado da Justiça, Anabela Damásio Caetano Pedroso, em 9 de março de 2018. - A Secretária de Estado da Segurança Social, Cláudia Sofia de Almeida Gaspar Joaquim, em 14 de março de 2018. - O Secretário de Estado Adjunto e da Saúde, Fernando Manuel Ferreira Araújo, em 13 de março de 2018."
+  },
+  "205643174": {
+   "fragment_id": "114880337",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 4 do artigo 11.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 4 do artigo 11.º)\n\n(ver documento original)\n\n111208604"
+  }
+ }
+}

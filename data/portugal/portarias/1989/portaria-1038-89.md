@@ -1,0 +1,125 @@
+---
+schema_version: '1.0'
+id: pt:dre:550811:por
+title: Portaria n.º 1038/89
+short_title: null
+summary: Aprova os modelos do livro de registo de emolumentos para os registos predial e comercial e das pastas do registo
+  comercial
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 1038/89
+official_date: null
+publication_date: '1989-11-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 276/1989, Série I de 1989-11-30
+  number: '276'
+  series: I
+  supplement: null
+  pages: 5222 - 5222
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/11/27600/52225222.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '550811'
+  dre_path: /dr/detalhe/portaria/1038-1989-550811
+  internal: pt:dre:550811:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1038-1989-550811
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1038-1989-550811
+  consolidated_url: null
+  retrieved_at: '2026-10-23T09:42:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 98bd6cc04b93fbf641d71c70a9e26a98082b0dff01a3db33064e0dc33ee62201
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:42:39Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Documentação Administrativa
+- Modernização Administrativa
+- Serviços de Registo e Notariado
+relationships:
+- type: cites
+  target: pt:dre:152365:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T09:42:39Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1038/89
+
+de 30 de Novembro
+
+Manda o Governo, pelo Ministro da Justiça, o seguinte:
+
+1.º Nos termos do n.º 2 do artigo 3.º do [Decreto-Lei n.º 145/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1985-152365), de 8 de Maio, e dos artigos 56.º e 113.º do Código do Registo Comercial, são aprovados os modelos seguintes:
+
+Modelo do livro de registo de emolumentos para os registos predial e comercial
+
+Formado das folhas, pautas com 35 linhas: 2 1/4 A5 (210 mm x 334 mm).
+
+Tipo de qualidade do papel: registo de 120 g.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/27600/52225222.pdf)
+
+Modelo das pastas do registo comercial
+
+Medidas: 220 mm x 310 mm; lombada com 30 mm de altura, no mínimo.
+
+As pastas devem ter dobras para o interior nas outras três faces, que permitam formar caixa protectora.
+
+Material: cartão ou fibra resistente e pregagem metálica interior para arquivamento dos documentos por perfuração.
+
+2.º O livro de registo de emolumentos referido no n.º 1.º pode ser comum para o registo predial e para o registo comercial.
+
+3.º Os modelos desta portaria entram em vigor no dia 1 de Janeiro de 1990.
+
+4.º Os livros em uso podem ser utilizados até findarem.
+
+Ministério da Justiça.
+
+Assinada em 14 de Novembro de 1989.
+
+Pelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça.

@@ -1,0 +1,118 @@
+---
+schema_version: '1.0'
+id: pt:dre:457468:por
+title: Portaria n.º 934/80
+short_title: null
+summary: Dá nova redacção às alíneas a) e b) do artigo 187.º do Regulamento de Administração da Fazenda Naval, com a redacção
+  que lhes foi dada pela Portaria n.º 431/80, de 25 de Julho
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Conselho da Revolução - Estado-Maior da Armada
+proposing_entity: null
+official_number: 934/80
+official_date: null
+publication_date: '1980-11-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 256/1980, Série I de 1980-11-05
+  number: '256'
+  series: I
+  supplement: null
+  pages: 3745 - 3745
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/11/25600/37453745.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '457468'
+  dre_path: /dr/detalhe/portaria/934-1980-457468
+  internal: pt:dre:457468:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/934-1980-457468
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/934-1980-457468
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:32:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 861a15d15c17ba753183216de0107be396e465218a243602ae1cc8640015e039
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:32:39Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração da Fazenda Naval
+- Contrato
+- Regulamento
+- Visto do Tribunal de Contas
+relationships:
+- type: cites
+  target: pt:dre:167631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472115:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:32:39Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 934/80
+
+de 5 de Novembro
+
+Tendo em conta o constante da alínea e) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 374/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1980-460809), de 12 de Setembro, rectificada em conformidade com a declaração publicada no Diário da República, 1.ª série, n.º 225, de 29 de Setembro de 1980;
+
+Ao abrigo do disposto no artigo 4.º do [Decreto n.º 31859](https://diariodarepublica.pt/dr/detalhe/decreto/31859-1942-167631), de 17 de Janeiro de 1942, que aprovou o Regulamento de Administração da Fazenda Naval:
+
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, o seguinte:
+
+1.º Em cada uma das alíneas a) e b) do artigo 187.º do Regulamento de Administração da Fazenda Naval, com a redacção que lhes foi dada pela [Portaria n.º 431/80](https://diariodarepublica.pt/dr/detalhe/portaria/431-1980-472115), de 25 de Julho, o limite fixado em 1000000$00 é elevado para 100000000$00.
+
+2.º O disposto na presente portaria produz efeitos a contar da data da entrada em vigor do [Decreto-Lei n.º 374/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1980-460809), de 12 de Setembro.
+
+Estado-Maior da Armada, 29 de Setembro de 1980. - O Chefe do Estado-Maior da Armada, António Egídio de Sousa Leitão, almirante.

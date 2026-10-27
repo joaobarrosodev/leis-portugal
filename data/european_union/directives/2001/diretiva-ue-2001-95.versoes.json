@@ -1,0 +1,740 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001L0095:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0095-20100101",
+ "dre_path": null,
+ "source_lastmod": "2010-01-01",
+ "versions": [
+  {
+   "date": "2002-01-15",
+   "future": false,
+   "celex": "32001L0095",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "43d6725911d9aed4",
+    "7d21daff6a0dab41",
+    "c64161ac8659125f",
+    "1d9a82fc1229ac63",
+    "a3df9dde7e6f0936",
+    "dd1ef37a8acb9082",
+    "17d5d1f2c7bf2695",
+    "728dce5b7792ba8f",
+    "03fd637ab5b9e297",
+    "133fc886505b0ff9",
+    "e3a46167b3b6058e",
+    "3a97572cb376fa93",
+    "9913f8886f62e948",
+    "fdd86ea2d3371fdc",
+    "a5d437dff15bda02",
+    "436e45f19ca5da7a",
+    "dc95f31ddc2b965f",
+    "75a8a150b175df5e",
+    "63ce51106ef710ee",
+    "0ab63e82785fdec1",
+    "e598df1740d9c295",
+    "e40c9195b0792377",
+    "b05d5fd768a00e82",
+    "8a93dae179404aa1",
+    "317e9bb42e8a100a",
+    "38446f05f1c5d79c",
+    "785afb82b6209e35",
+    "05bc79f3669b25ac",
+    "e25929720d8b8aa7",
+    "1b62e6c34e40c8e5",
+    "3617a3de0a2b09e7",
+    "8df65194b341fafa",
+    "ef2de55260b5f307",
+    "ad0a3122190c43c6",
+    "ade7baf4b67816ad",
+    "9c6b9fc015ccc770"
+   ]
+  },
+  {
+   "date": "2010-01-01",
+   "future": false,
+   "celex": "02001L0095-20100101",
+   "acts": [
+    {
+     "id": "eu:celex:32008R0765:por",
+     "title": "REGULAMENTO (CE) N. o 765/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 Julho de 2008",
+     "published": null,
+     "celex": "32008R0765"
+    },
+    {
+     "id": "eu:celex:32009R0596:por",
+     "title": "REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009",
+     "published": null,
+     "celex": "32009R0596"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 24.º",
+    "Altera ANEXO I",
+    "Adita CAPÍTULO I",
+    "Adita Objectivos, âmbito de aplicação e definições",
+    "Adita CAPÍTULO II",
+    "Adita Obrigação geral de segurança, critérios de avaliação da conformidade e normas europeias",
+    "Adita CAPÍTULO III",
+    "Adita Outras obrigações dos produtores e dos distribuidores",
+    "Adita CAPÍTULO IV",
+    "Adita Deveres específicos e poderes dos Estados-Membros",
+    "Adita CAPÍTULO V",
+    "Adita Trocas de informação e situações de intervenção rápida",
+    "Adita CAPÍTULO VI",
+    "Adita Procedimentos de comité",
+    "Adita CAPÍTULO VII",
+    "Adita Disposições finais",
+    "Adita OBRIGAÇÕES RELATIVAS ÀS INFORMAÇÕES A FORNECER ÀS AUTORIDADES COMPETENTES POR PRODUTORES E DISTRIBUIDORES SOBRE PRODUTOS NÃO CONFORMES COM A OBRIGAÇÃO GERAL DE SEGURANÇA",
+    "Adita ANEXO II",
+    "Adita PROCEDIMENTOS PARA A APLICAÇÃO DO RAPEX E DAS ORIENTAÇÕES RELATIVAS ÀS NOTIFICAÇÕES",
+    "Adita ANEXO III",
+    "Adita ANEXO IV",
+    "Adita Notas",
+    "Suprime CAPÍTULO I — Objectivos, âmbito de aplicação e definições",
+    "Suprime CAPÍTULO II — Obrigação geral de segurança, critérios de avaliação da conformidade e normas europeias",
+    "Suprime CAPÍTULO III — Outras obrigações dos produtores e dos distribuidores",
+    "Suprime CAPÍTULO IV — Deveres específicos e poderes dos Estados-Membros",
+    "Suprime CAPÍTULO V — Trocas de informação e situações de intervenção rápida",
+    "Suprime CAPÍTULO VI — Procedimentos de comité",
+    "Suprime CAPÍTULO VII — Disposições finais",
+    "Suprime ANEXO II — PROCEDIMENTOS PARA A APLICAÇÃO DO RAPEX E DAS ORIENTAÇÕES RELATIVAS ÀS NOTIFICAÇÕES",
+    "Suprime ANEXO III — PRAZO DE TRANSPOSIÇÃO DE INÍCIO DA APLICAÇÃO DA DIRECTIVA REVOGADA",
+    "Suprime ANEXO IV — TABELA DE CORRESPONDÊNCIA"
+   ],
+   "fragments": [
+    "1eceeacc2dcf6f7b",
+    "226c39ffd0a88dad",
+    "63e3fec1b24398d1",
+    "91a7f7b61920da68",
+    "610262f9aa15ecfe",
+    "f0f8c960bfdbce9b",
+    "692e5d536c4e3ab7",
+    "6b57818e5afc0463",
+    "d573a81dd0911ce0",
+    "1e7a0903d2eed348",
+    "07e84f1b34cf932d",
+    "201883394d4dfb46",
+    "1ecfc79da3f1ac7f",
+    "eb163b6e6bc2ac9a",
+    "e3a46167b3b6058e",
+    "3a97572cb376fa93",
+    "88ab6d14b901086d",
+    "fdd86ea2d3371fdc",
+    "a5d437dff15bda02",
+    "40ed6b62e188ac6f",
+    "0c1326ccb5c4e495",
+    "f4fd05cfca6fc250",
+    "5c0399247431daf2",
+    "d74400b6d26ec9c1",
+    "b76d202a844f758e",
+    "2abaf5eaa4547b72",
+    "3d1271317105b61f",
+    "2d7e5c3beb674071",
+    "7fd045ac4f655f13",
+    "bbdde795c58f027f",
+    "8a93dae179404aa1",
+    "317e9bb42e8a100a",
+    "38446f05f1c5d79c",
+    "0cc0dd2892ff3798",
+    "05bc79f3669b25ac",
+    "e25929720d8b8aa7",
+    "1b62e6c34e40c8e5",
+    "79b5e605a5dc3bba",
+    "7f5cb5a573b1a793",
+    "d664376e2a8dcecd",
+    "069d1350de5a13be",
+    "852174729551523b",
+    "f5c32fff710e6342",
+    "0c6ff7920773e895",
+    "d1ae0fc54a01efe4",
+    "ac6e08f447959574"
+   ]
+  }
+ ],
+ "fragments": {
+  "43d6725911d9aed4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2001/95/CE do Parlamento Europeu e do Conselho, de 3 de Dezembro de 2001, relativa à segurança geral dos produtos (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 011 de 15/01/2002 p. 0004 - 0017*\n\nDirectiva 2001/95/CE do Parlamento Europeu e do Conselho\n\nde 3 de Dezembro de 2001\n\nrelativa à segurança geral dos produtos\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 95.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Comité Económico e Social(2),\n\nDeliberando nos termos do artigo 251.o do Tratado(3), à luz do projecto comum aprovado pelo Comité de Conciliação em 2 de Agosto de 2001,\n\nConsiderando o seguinte:\n\n(1) Nos termos do artigo 16.o da Directiva 92/59/CEE do Conselho, de 29 de Junho de 1992, relativa à segurança geral dos produtos(4), o Conselho deve pronunciar-se sobre a eventual adaptação da dita directiva, quatro anos após a entrada em vigor da mesma, com base num relatório da Comissão sobre a experiência adquirida, acompanhado de propostas adequadas. É necessário introduzir várias alterações na presente directiva a fim de completar, reforçar ou clarificar algumas das suas disposições à luz da experiência e dos novos e relevantes desenvolvimentos no domínio da segurança dos produtos de consumo, assim como das alterações introduzidas no Tratado, em especial nos artigos 152.o, relativo à saúde pública, e 153.o, relativo à defesa dos consumidores, e à luz do princípio da precaução. Como tal, é conveniente, por razões de clareza, reformular a Directiva 92/59/CEE. Esta reformulação deixa a segurança dos serviços fora do âmbito de aplicação da presente directiva, uma vez que a Comissão tenciona identificar as necessidades, as possibilidades e as prioridades da acção comunitária em matéria de segurança dos serviços e de responsabilidade dos fornecedores de serviços, por forma a apresentar as propostas adequadas.\n\n(2) Importa adoptar medidas tendentes a melhorar o funcionamento do mercado interno, que compreende um espaço sem fronteiras internas no qual é assegurada a livre circulação de mercadorias, pessoas, serviços e capitais.\n\n(3) Na ausência de disposições comunitárias, a legislação horizontal em vigor nos Estados-Membros relativa à segurança dos produtos, que impõe nomeadamente aos agentes económicos a obrigação geral de comercializarem apenas produtos seguros, pode diferir quanto ao nível de protecção que garante aos consumidores. Tais disparidades e a ausência de legislação horizontal em alguns Estados-Membros são susceptíveis de criar obstáculos às trocas comerciais e distorções de concorrência no mercado interno.\n\n(4) A fim de assegurar um elevado nível de protecção dos consumidores, é dever da Comunidade dar o seu contributo para a protecção da saúde e segurança dos mesmos. Tal contributo pode ser dado por meio de legislação comunitária horizontal que introduza uma obrigação geral de segurança dos produtos, que contenha disposições sobre os deveres gerais de produtores e distribuidores, sobre o controlo da aplicação das normas comunitárias em matéria de segurança dos produtos e sobre a troca rápida de informação e, em certos casos, a acção a nível comunitário.\n\n(5) É muito difícil adoptar legislação comunitária para cada produto já existente ou susceptível de vir a ser concebido. É necessário um vasto quadro legislativo de carácter horizontal para abranger tais produtos e para colmatar as lacunas, em especial enquanto se aguarda a revisão da legislação específica existente, assim como para completar as disposições da legislação específica existente ou futura, nomeadamente a fim de garantir um elevado nível de protecção da segurança e da saúde dos consumidores, tal como previsto no artigo 95.o do Tratado.\n\n(6) Torna-se, pois, necessário estabelecer, a nível comunitário, uma obrigação geral de segurança para todos os produtos colocados no mercado, ou postos à disposição dos consumidores de qualquer outro modo, destinados aos consumidores ou susceptíveis de serem por estes utilizados em circunstâncias razoavelmente previsíveis, mesmo quando não lhes sejam destinados. Em todos estes casos, os produtos considerados podem apresentar riscos para a saúde e a segurança dos consumidores que têm de ser evitados. Há, no entanto, que excluir, pela sua própria natureza, certos bens em segunda mão.\n\n(7) A presente directiva deverá ser aplicada aos produtos independentemente das técnicas de venda, incluindo as vendas à distância ou por via electrónica.\n\n(8) A segurança dos produtos deve ser avaliada tendo em atenção todos os aspectos relevantes, em especial as categorias de consumidores que podem ser particularmente vulneráveis aos riscos decorrentes dos produtos considerados, em especial as crianças e os idosos.\n\n(9) A presente directiva não abrange os serviços mas, a fim de assegurar a realização dos objectivos de protecção pretendidos, as suas disposições deverão também ser aplicadas aos produtos fornecidos ou postos à disposição dos consumidores no âmbito de uma prestação de serviços a fim de serem por eles utilizados. A segurança do equipamento utilizado pelos próprios prestadores de serviços para fornecer um serviço aos consumidores não é da alçada da presente directiva, visto que deverá ser considerada em ligação com a segurança do serviço fornecido. Nomeadamente, os equipamentos em que os consumidores circulam ou viajam que são manobrados por um prestador de serviços estão excluídos do âmbito de aplicação da presente directiva.\n\n(10) Os produtos destinados exclusivamente a uma utilização profissional, mas que posteriormente transitaram para o mercado de consumo, devem estar sujeitos às exigências da presente directiva, dado que podem apresentar riscos para a saúde e a segurança dos consumidores quando utilizados em circunstâncias razoavelmente previsíveis.\n\n(11) Na ausência de disposições mais específicas no quadro da legislação comunitária relativa à segurança dos produtos em questão, o disposto na presente directiva é aplicável para efeitos de protecção da saúde e segurança dos consumidores.\n\n(12) Se uma legislação comunitária específica fixar obrigações de segurança que abranjam apenas certos riscos ou certas categorias de riscos no que respeita aos produtos em questão, as obrigações dos agentes económicos quanto a esses riscos são as determinadas pelas disposições da legislação específica, sendo aplicável aos demais riscos a exigência geral de segurança prevista pela presente directiva.\n\n(13) As disposições da presente directiva relativas às outras obrigações de produtores e distribuidores, aos poderes e obrigações dos Estados-Membros, às trocas de informação e às situações de intervenção rápida, bem como à divulgação das informações e à confidencialidade, são aplicáveis nos casos de produtos abrangidos por regulamentações comunitárias específicas, se essas regulamentações não incluírem já tais obrigações.\n\n(14) A fim de facilitar a aplicação eficaz e coerente da obrigação geral de segurança da presente directiva, importa estabelecer normas europeias não obrigatórias que abranjam determinados produtos e riscos, por forma a que um produto que esteja em conformidade com uma norma nacional que transponha uma norma europeia seja considerado como estando em conformidade com a dita obrigação.\n\n(15) No que respeita aos objectivos da presente directiva, os organismos europeus de normalização devem estabelecer normas europeias, nos termos de mandatos conferidos pela Comissão, assistida por comités apropriados. Para garantir que os produtos conformes com as normas cumpram a obrigação geral de segurança, a Comissão, assistida por um comité composto por representantes dos Estados-Membros, deverá fixar as exigências que as normas devem satisfazer. Essas exigências deverão ser incluídas nos mandatos conferidos aos organismos de normalização.\n\n(16) Na ausência de regulamentação específica e sempre que não estejam disponíveis normas europeias fixadas nos termos de um mandato conferido pela Comissão ou não se faça uso dessas normas, a segurança dos produtos deve ser avaliada por referência, nomeadamente, a normas nacionais que transponham quaisquer outras normas europeias ou internacionais relevantes, a recomendações da Comissão ou normas nacionais, a normas internacionais, a códigos de boa conduta, ao estado dos conhecimentos técnicos e ao nível de segurança com que os consumidores possam razoavelmente contar. Neste contexto, as recomendações da Comissão podem facilitar a aplicação coerente e eficaz da presente directiva, na pendência de normas europeias para os riscos e/ou produtos para os quais se considere que essas normas não são possíveis ou não são adequadas.\n\n(17) Uma certificação independente apropriada, reconhecida pelas autoridades competentes, poderá facilitar a prova de cumprimento dos critérios aplicáveis em matéria de segurança do produto.\n\n(18) É conveniente juntar à obrigação geral de segurança outros deveres dos agentes económicos, porquanto é necessário que estes actuem no sentido de prevenir os riscos para os consumidores em determinadas circunstâncias.\n\n(19) Os deveres adicionais impostos aos produtores devem incluir a obrigação de tomar medidas, em função das características dos produtos, que lhes permitam informar-se dos riscos que esses produtos podem representar, fornecer aos consumidores informação que os habilite a avaliar e prevenir riscos, advertir os consumidores dos riscos inerentes aos produtos perigosos que já lhes tenham sido fornecidos, retirar tais produtos do mercado e, como último recurso, recolhê-los sempre que necessário, o que pode comportar, segundo as disposições aplicáveis nos Estados-Membros, uma forma adequada de compensação, por exemplo a troca ou o reembolso desses produtos.\n\n(20) É dever dos distribuidores contribuir para assegurar a observância das exigências de segurança aplicáveis. As obrigações impostas aos distribuidores aplicam-se proporcionalmente às respectivas responsabilidades. Em particular, poderá ser impossível, no âmbito de actividades caritativas, fornecer às autoridades competentes informações e documentação sobre os eventuais riscos e sobre a origem do produto no caso de objectos em segunda mão isolados fornecidos por pessoas privadas.\n\n(21) Os produtores e os distribuidores deverão cooperar com as autoridades competentes nas acções de prevenção dos riscos e informá-las sempre que cheguem à conclusão de que certos produtos fornecidos são perigosos. As condições de tal informação devem ser estabelecidas na presente directiva para facilitar a sua aplicação eficaz, evitando simultaneamente um encargo excessivo para os agentes económicos e para as autoridades.\n\n(22) A fim de assegurar um controlo eficaz do cumprimento das obrigações que impendem sobre produtores e distribuidores, os Estados-Membros devem criar ou designar as autoridades a quem caberá controlar a segurança dos produtos, dotadas de poderes para tomar as medidas adequadas, incluindo o poder de aplicar sanções eficazes, proporcionadas e dissuasivas, e assegurar a necessária coordenação entre as várias autoridades designadas.\n\n(23) É necessário que, entre as medidas adequadas, figure a possibilidade de os Estados-Membros ordenarem ou organizarem, imediata e eficazmente, a retirada de produtos perigosos já colocados no mercado e, como último recurso, ordenarem, coordenarem ou procederem à recolha, junto dos consumidores, de produtos perigosos já fornecidos. Tal competência deve ser exercida sempre que os produtores e os distribuidores não consigam prevenir os riscos para os consumidores em conformidade com as suas obrigações. Sempre que necessário, as autoridades devem dispor dos poderes e procedimentos adequados para decidirem e aplicarem rapidamente quaisquer medidas que sejam necessárias.\n\n(24) A segurança dos consumidores depende em grande medida de uma fiscalização activa do cumprimento das disposições comunitárias em matéria de segurança dos produtos. Por conseguinte, os Estados-Membros devem delinear estratégias sistemáticas que permitam assegurar a eficácia da vigilância do mercado e outras medidas de fiscalização, assegurando a sua transparência face ao público e às partes interessadas.\n\n(25) É necessária a colaboração entre as autoridades de fiscalização competentes dos Estados-Membros para a realização dos objectivos de protecção da presente directiva. É, pois, conveniente promover o funcionamento em rede europeia das autoridades de fiscalização competentes dos Estados-Membros, a fim de facilitar, de uma forma coordenada com outros procedimentos comunitários, nomeadamente o sistema de troca rápida de informação (RAPEX), uma maior colaboração a nível operacional no domínio da vigilância do mercado e de outras actividades de fiscalização, nomeadamente a avaliação de riscos, os ensaios de produtos, o intercâmbio de conhecimentos técnicos e científicos, a execução de projectos conjuntos na área da vigilância e localização, a retirada ou a recolha de produtos perigosos.\n\n(26) Para assegurar um nível uniforme e elevado de protecção da saúde e da segurança dos consumidores para preservar a unidade do mercado interno, é necessário informar a Comissão de quaisquer medidas que restrinjam a colocação no mercado de um produto ou que exijam a sua retirada ou recolha do mercado. Tais medidas devem ser tomadas em conformidade com o Tratado, nomeadamente com os artigos 28.o, 29.o e 30.o\n\n(27) O controlo eficaz da segurança dos produtos exige a criação, a nível nacional e comunitário, de um sistema de troca rápida de informação em situações de risco grave que exijam uma intervenção rápida por motivos da segurança de um produto. É igualmente conveniente que a presente directiva descreva procedimentos circunstanciados para o funcionamento do sistema e confira à Comissão, assistida por um comité, poderes para os adaptar.\n\n(28) A presente directiva prevê o estabelecimento de orientações não vinculativas, destinadas a indicar critérios simples e claros e regras práticas susceptíveis de evolução, para permitir nomeadamente uma notificação eficaz de medidas de restrição da comercialização dos produtos nos casos previstos na presente directiva, tendo em conta a diversidade das situações tratadas pelos Estados-Membros e pelos operadores económicos. Tais orientações devem incluir, em especial, critérios para a aplicação da definição de riscos graves, a fim de facilitar uma aplicação coerente das disposições pertinentes, em caso de ocorrência desses riscos.\n\n(29) Compete em primeiro lugar aos Estados-Membros, na observância das disposições do Tratado, nomeadamente dos artigos 28.o, 29.o e 30.o, tomar as medidas apropriadas em relação aos produtos perigosos que se encontrem no seu território.\n\n(30) Todavia, se os Estados-Membros divergirem quanto à estratégia a seguir para fazer face ao risco apresentado por determinados produtos, tais divergências podem acarretar disparidades inaceitáveis no tocante à defesa dos consumidores e constituir um obstáculo ao comércio intracomunitário.\n\n(31) Pode ser necessário resolver problemas graves de segurança de um produto que requeiram intervenção rápida e afectem ou possam afectar, no futuro imediato, a totalidade ou uma parte importante da Comunidade e que, tendo em conta a natureza do problema de segurança levantado pelo produto, não possam ser tratados, de modo eficaz e consentâneo com o seu grau de urgência, no âmbito dos procedimentos previstos nas regulamentações comunitárias específicas aplicáveis ao produto ou à categoria de produtos em questão.\n\n(32) É, pois, necessário prever um mecanismo adequado que permita, como último recurso, a adopção de medidas aplicáveis em toda a Comunidade, sob a forma de decisão dirigida aos Estados-Membros, para fazer face a situações criadas por produtos que apresentem um risco grave. Tal decisão deverá implicar a proibição de exportar os produtos em questão, a menos que, no caso em apreço, circunstâncias excepcionais permitam uma decisão de proibição parcial ou de não proibição, nomeadamente sempre que esteja instituído um sistema de prévio consentimento. Além disso, a proibição de exportar deverá ser analisada com vista a prevenir os riscos para a saúde e a segurança dos consumidores. Não sendo tal decisão directamente aplicável aos agentes económicos, os Estados-Membros deverão tomar as medidas necessárias à sua execução. As medidas aprovadas ao abrigo de tal procedimento terão carácter provisório, excepto quando se aplicarem a produtos ou a lotes de produtos designados individualmente. Para garantir uma avaliação adequada da necessidade de tais medidas e a sua melhor preparação, as mesmas devem ser tomadas pela Comissão, assistida por um comité, após consultas com os Estados-Membros e, se se colocarem questões científicas da competência de um comité científico comunitário, com o comité científico competente para o risco em causa.\n\n(33) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(5).\n\n(34) Para facilitar uma aplicação eficaz e coerente da presente directiva, os vários aspectos da sua aplicação devem poder ser analisados no âmbito de um comité.\n\n(35) Deve ser assegurado o acesso do público às informações de que dispõem as autoridades competentes em matéria de segurança dos produtos. Todavia, o segredo profissional a que se refere o artigo 287.o do Tratado deve ser protegido de uma forma compatível com a necessidade de assegurar a eficácia da acção de vigilância do mercado e das medidas de protecção.\n\n(36) A presente directiva não prejudica os direitos das vítimas na acepção da Directiva 85/374/CEE do Conselho, de 25 de Julho de 1985, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-Membros em matéria de responsabilidade decorrente de produtos defeituosos(6).\n\n(37) É necessário que os Estados-Membros prevejam as vias de recurso adequadas para os tribunais competentes contra quaisquer medidas tomadas pelas autoridades competentes que restrinjam a colocação no mercado ou imponham a retirada ou a recolha de um produto.\n\n(38) Por outro lado, quaisquer medidas relativas a produtos importados, como as relativas à proibição de exportar, que se destinem a prevenir riscos para a saúde e segurança dos consumidores, devem ser aprovadas em conformidade com as obrigações internacionais da Comunidade.\n\n(39) A Comissão deve examinar periodicamente o modo como a presente directiva está a ser aplicada e os resultados obtidos, nomeadamente no atinente ao funcionamento dos sistemas de vigilância do mercado, ao sistema de troca rápida de informação e às medidas adoptadas a nível comunitário, para além de outras questões pertinentes para a segurança dos produtos de consumo na Comunidade, e apresentar regularmente relatórios ao Parlamento Europeu e ao Conselho sobre o assunto.\n\n(40) A presente directiva não afecta as obrigações dos Estados-Membros no que se refere aos prazos de transposição e de início da aplicação da Directiva 92/59/CEE,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "7d21daff6a0dab41": {
+   "fragment_id": "CAPÍTULO I — Objectivos, âmbito de aplicação e definições",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — Objectivos, âmbito de aplicação e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Objectivos, âmbito de aplicação e definições"
+  },
+  "c64161ac8659125f": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva visa garantir a segurança dos produtos colocados no mercado.\n\n2. A presente directiva é aplicável a todos os produtos definidos na alínea a) do artigo 2.o Cada uma das suas disposições é aplicável na medida em que, no âmbito da regulamentação comunitária, não existam disposições específicas que regulem a segurança dos referidos produtos e que visem o mesmo objectivo.\n\nNo caso de produtos abrangidos por legislação comunitária que contemple exigências de segurança específicas, a presente directiva é aplicável apenas aos aspectos e riscos ou categorias de riscos não abrangidos por essas exigências. Nessa conformidade:\n\na) As alíneas b) e c) do artigo 2.o e os artigos 3.o e 4.o não são aplicáveis a esses produtos, no que respeita aos riscos ou categorias de riscos abrangidos pela legislação específica;\n\nb) Os artigos 5.o a 18.o são aplicáveis salvo se existirem disposições específicas que regulem os aspectos abrangidos pelos mesmos artigos e que visem o mesmo objectivo."
+  },
+  "1d9a82fc1229ac63": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\na) \"Produto\", qualquer produto - inclusive se utilizado numa prestação de serviços - destinado aos consumidores ou susceptível, em circunstâncias razoavelmente previsíveis, de ser utilizado pelos consumidores mesmo que não lhes seja destinado, que tenha sido fornecido ou disponibilizado a título oneroso ou gratuito no âmbito de uma actividade comercial, seja ele novo, usado ou recuperado.\n\nNesta definição não estão incluídos produtos usados, fornecidos como antiguidades ou como produtos que necessitam de ser reparados ou recuperados antes de serem utilizados, desde que o fornecedor disso informe claramente a pessoa a quem fornece o produto;\n\nb) \"Produto seguro\", qualquer produto que, em circunstâncias de utilização normais ou razoavelmente previsíveis, nomeadamente de duração e, se aplicável, de entrada em serviço, de instalação e de necessidades de conservação, não apresente quaisquer riscos ou apresente apenas riscos reduzidos compatíveis com a sua utilização e considerados aceitáveis e conciliáveis com um elevado nível de protecção da saúde e segurança das pessoas, tendo especialmente em conta:\n\ni) as características do produto, designadamente a sua composição, embalagem, instruções de montagem, e, se aplicável, de instalação e de conservação,\n\nii) os efeitos sobre outros produtos quando for razoavelmente previsível a utilização do primeiro com os segundos,\n\niii) a apresentação do produto, a sua rotulagem, as eventuais advertências e instruções de utilização e eliminação, bem como qualquer outra indicação ou informação relativa ao produto,\n\niv) as categorias de consumidores que se encontrem em condições de risco ao utilizar o produto, especialmente as crianças e os idosos.\n\nA possibilidade de se obter um nível superior de segurança ou outros produtos que apresentem um risco menor não constitui razão suficiente para que um produto seja considerado perigoso;\n\nc) \"Produto perigoso\", um produto que não corresponda à definição de \"produto seguro\" na acepção da alínea b);\n\nd) \"Risco grave\", qualquer risco grave, incluindo os riscos cujos efeitos não sejam imediatos, que exija uma intervenção rápida das autoridades públicas;\n\ne) Produtor:\n\ni) o fabricante de um produto, quando se encontre estabelecido na Comunidade, ou qualquer pessoa que se apresente como tal ao apor no produto o seu nome, marca ou outro sinal distintivo, ou a pessoa que proceda à recuperação do produto,\n\nii) o representante do fabricante, quando este não se encontre estabelecido na Comunidade ou, na ausência de representante estabelecido na Comunidade, o importador do produto,\n\niii) os outros profissionais da cadeia de comercialização, na medida em que as respectivas actividades possam afectar as características de segurança de um produto;\n\nf) \"Distribuidor\", qualquer profissional da cadeia de comercialização cuja actividade não afecte as características de segurança do produto;\n\ng) \"Recolha\", qualquer medida destinada a obter o retorno de um produto perigoso que já tenha sido fornecido ou disponibilizado aos consumidores pelo respectivo produtor ou distribuidor;\n\nh) \"Retirada\", qualquer medida destinada a impedir a distribuição e a exposição de um produto perigoso bem como a sua oferta ao consumidor."
+  },
+  "a3df9dde7e6f0936": {
+   "fragment_id": "CAPÍTULO II — Obrigação geral de segurança, critérios de avaliação da conformidade e normas europeias",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — Obrigação geral de segurança, critérios de avaliação da conformidade e normas europeias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Obrigação geral de segurança, critérios de avaliação da conformidade e normas europeias"
+  },
+  "dd1ef37a8acb9082": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os produtores só podem colocar no mercado produtos seguros.\n\n2. Um produto é considerado seguro, relativamente aos aspectos contemplados pela regulamentação nacional aplicável, quando, não existindo disposições comunitárias específicas que regulem a segurança do produto em causa, estiver em conformidade com as normas de saúde e segurança a que devem obedecer os produtos para poderem ser comercializados, fixadas na regulamentação nacional específica do Estado-Membro em cujo território é comercializado, estabelecida de harmonia com o Tratado, nomeadamente com os artigos 28.o e 30.o\n\nPresume-se que um produto é seguro, no que respeita aos riscos e categorias de riscos abrangidos pelas normas nacionais em causa, quando estiver em conformidade com as normas nacionais não obrigatórias que transponham normas europeias cujas referências tenham sido publicadas pela Comissão no Jornal Oficial das Comunidades Europeias, nos termos do artigo 4.o Os Estados-Membros devem publicar as referências de tais normas nacionais.\n\n3. Nas circunstâncias não contempladas no n.o 2, a conformidade de um produto com a obrigação geral de segurança é avaliada tendo em conta, nomeadamente, os seguintes elementos, sempre que existam:\n\na) As normas nacionais não obrigatórias que transponham normas europeias pertinentes não contempladas no n.o 2;\n\nb) As normas em vigor no Estado-Membro em que o produto é comercializado;\n\nc) As recomendações da Comissão que dão orientações em matéria de avaliação de segurança dos produtos;\n\nd) Os códigos de boa conduta em matéria de segurança dos produtos em vigor no sector em causa;\n\ne) O estado actual dos conhecimentos e da técnica;\n\nf) O nível de segurança com que os consumidores podem razoavelmente contar.\n\n4. A conformidade de um produto com os critérios que visam garantir a obrigação geral de segurança, em especial com as normas referidas nos n.os 2 ou 3, não impede as autoridades competentes dos Estados-Membros de tomarem as medidas que se afigurem necessárias para impor restrições à sua comercialização ou ordenar a sua retirada do mercado ou a sua recolha se, não obstante essa conformidade, o produto se revelar perigoso."
+  },
+  "17d5d1f2c7bf2695": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Para efeitos da presente directiva, as normas europeias a que se refere o n.o 2, segundo parágrafo, do artigo 3.o são elaboradas da seguinte forma:\n\na) Os requisitos destinados a garantir que os produtos que cumprem essas normas satisfaçam a obrigação geral de segurança são fixados nos termos do n.o 2 do artigo 15.o;\n\nb) Com base nesses requisitos, e em conformidade com a Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação(7), a Comissão solicita aos organismos europeus de normalização que elaborem normas que satisfaçam esses requisitos.\n\nc) Com base nesses mandatos, os organismos europeus de normalização adoptarão tais normas em conformidade com os princípios enunciados nas orientações gerais para a cooperação entre a Comissão e esses organismos;\n\nd) A Comissão deve apresentar, de três em três anos, ao Parlamento Europeu e ao Conselho, no âmbito do relatório a que se refere o n.o 2 do artigo 19.o, um relatório sobre os seus programas para a definição dos requisitos e os mandatos de normalização previstos nas alíneas a) e b). O relatório deve incluir, designadamente, uma análise das decisões tomadas em matéria de requisitos e de mandatos de normalização referidos na alínea a) e em matéria de normas referidas na alínea c). O relatório deve incluir igualmente informações sobre os produtos relativamente aos quais a Comissão tenciona definir os requisitos e os mandatos em questão, sobre os riscos dos produtos a considerar e sobre os resultados dos trabalhos preparatórios encetados no domínio.\n\n2. A Comissão publicará no Jornal Oficial das Comunidades Europeias as referências das normas europeias assim adoptadas e elaboradas de acordo como os requisitos previstos no n.o 1.\n\nCaso uma norma adoptada pelos organismos europeus de normalização antes da entrada em vigor da presente directiva garanta a observância da obrigação geral de segurança, a Comissão determinará a publicação das respectivas referências no Jornal Oficial das Comunidades Europeias.\n\nCaso uma norma não garanta a observância da obrigação geral de segurança, a Comissão retirará das publicações, no todo ou em parte, a referência dessa norma.\n\nNos casos a que se referem o segundo e terceiro parágrafos do presente número, a Comissão, por sua iniciativa ou a pedido de um Estado-Membro, decidirá, nos termos do n.o 2 do artigo 15.o, se a norma em apreço se coaduna com a obrigação geral de segurança e determinará a respectiva publicação ou retirada após ter consultado o comité criado pelo artigo 5.o da Directiva 98/34/CE. A Comissão informará os Estados-Membros da decisão tomada."
+  },
+  "728dce5b7792ba8f": {
+   "fragment_id": "CAPÍTULO III — Outras obrigações dos produtores e dos distribuidores",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — Outras obrigações dos produtores e dos distribuidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Outras obrigações dos produtores e dos distribuidores"
+  },
+  "03fd637ab5b9e297": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Nos limites das respectivas actividades, os produtores devem fornecer aos consumidores as informações pertinentes que lhes permitam avaliar os riscos inerentes a um produto durante a sua vida útil normal ou razoavelmente previsível, sempre que tais riscos não sejam imediatamente perceptíveis sem a devida advertência, e precaver-se contra esses riscos.\n\nA presença da referida advertência não isenta do cumprimento das outras obrigações previstas na presente directiva.\n\nNos limites das respectivas actividades, os produtores devem adoptar medidas proporcionadas às características dos produtos que fornecem, que lhes permitam:\n\na) Manter-se informados sobre os riscos que esses produtos possam apresentar; e\n\nb) Poder desencadear as acções que se revelarem adequadas, incluindo, se tal for necessário para evitar tais riscos, a retirada do mercado, a advertência dos consumidores em termos adequados e eficazes, ou a recolha dos produtos junto dos consumidores.\n\nAs medidas referidas no terceiro parágrafo devem incluir, por exemplo:\n\na) A indicação, no produto ou na respectiva embalagem, da identidade e do endereço do produtor, assim como as referências do produto ou, eventualmente, do lote de produtos a que pertence, excepto nos casos em que a omissão de tal indicação seja justificada; e\n\nb) Em todos os casos em que seja apropriado, a realização de testes por amostragem dos produtos comercializados, a análise das reclamações e, eventualmente, a manutenção de um registo das reclamações, bem como a informação dos distribuidores pelo produtor sobre o controlo desses produtos.\n\nAs acções referidas na alínea b) do terceiro parágrafo são empreendidas numa base voluntária ou a pedido das autoridades competentes nos termos do n.o 1, alínea f), do artigo 8.o A recolha dos produtos constitui o último recurso, quando outras acções não forem suficientes para prevenir os riscos incorridos, no caso de os produtores o considerarem necessário ou se a tal se virem obrigados na sequência de uma medida tomada pela autoridade competente. A recolha dos produtos pode ser executada no âmbito dos códigos de boa conduta nesta matéria, no Estado-Membro em causa, quando estes existam.\n\n2. Os distribuidores devem agir com diligência, por forma a contribuírem para o cumprimento das obrigações de segurança aplicáveis, designadamente não fornecendo produtos quando sabem ou deveriam ter presumido, com base nas informações de que dispunham e enquanto profissionais, que não satisfazem essas obrigações. Além disso, nos limites das respectivas actividades, devem participar no controlo da segurança dos produtos colocados no mercado, nomeadamente divulgando informações sobre os riscos dos produtos, mantendo e fornecendo a documentação necessária para rastrear a origem dos produtos e cooperando nas acções desenvolvidas pelos produtores e autoridades competentes tendentes a evitar esses riscos. Nos limites das respectivas actividades, devem tomar medidas que lhes permitam efectuar uma colaboração eficaz.\n\n3. Sempre que os produtores e os distribuidores saibam ou devam saber, com base nas informações de que dispõem enquanto profissionais, que um produto que colocaram no mercado apresenta riscos para o consumidor incompatíveis com a obrigação geral de segurança, devem de imediato informar desse facto as autoridades competentes dos Estados-Membros nas condições estabelecidas no anexo I, precisando nomeadamente as medidas que tomaram para prevenir os riscos para os consumidores.\n\nAs exigências específicas relativas a esta obrigação de informação, que constam do Anexo I, serão adaptadas pela Comissão nos termos do n.o 3 do artigo 15.o\n\n4. Os produtores e os distribuidores devem, nos limites das respectivas actividades, colaborar com as autoridades competentes, a pedido destas, nas acções empreendidas com vista a evitar os riscos inerentes aos produtos que fornecem ou forneceram. As autoridades competentes definem os procedimentos a seguir nessa colaboração, nomeadamente em matéria de diálogo com os produtores e distribuidores em causa sobre questões relacionadas com a segurança dos produtos."
+  },
+  "133fc886505b0ff9": {
+   "fragment_id": "CAPÍTULO IV — Deveres específicos e poderes dos Estados-Membros",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — Deveres específicos e poderes dos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Deveres específicos e poderes dos Estados-Membros"
+  },
+  "e3a46167b3b6058e": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-Membros devem garantir que os produtores e os distribuidores cumpram as obrigações que lhes incumbem em aplicação da presente directiva, de modo a que os produtos colocados no mercado sejam seguros.\n\n2. Os Estados-Membros deverão criar ou designar as autoridades competentes para a verificação da conformidade dos produtos com a obrigação geral de segurança, providenciando no sentido de que as referidas autoridades detenham e exerçam os poderes necessários para tomarem as medidas adequadas que lhes incumbem em aplicação da presente directiva.\n\n3. Os Estados-Membros deverão definir as atribuições, as competências, a organização e as regras de cooperação das autoridades competentes. Do facto manterão informada a Comissão, que transmitirá essa informação aos demais Estados-Membros."
+  },
+  "3a97572cb376fa93": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-Membros fixam as normas relativas às sanções aplicáveis em casos de infracção às disposições nacionais adoptadas em aplicação da presente directiva e tomam quaisquer medidas necessárias para garantir a sua execução. As sanções previstas serão eficazes, proporcionadas e dissuasivas. Os Estados-Membros devem notificar essas disposições à Comissão o mais tardar em 15 de Janeiro de 2004 devendo também informá-la de imediato de qualquer modificação eventual."
+  },
+  "9913f8886f62e948": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Para efeitos da presente directiva, em especial do artigo 6, as autoridades competentes dos Estados-Membros dispõem dos poderes necessários para tomar, designadamente, as medidas constantes da alínea a) e das alíneas b) a f) do presente número sempre que necessário:\n\na) Em relação a qualquer produto:\n\ni) organizar as verificações que se impuserem quanto às características de segurança de um produto, a uma escala adequada e até à última fase de utilização ou de consumo, mesmo que determinado produto tenha sido comercializado como seguro,\n\nii) exigir às partes interessadas a prestação das informações necessárias,\n\niii) recolher amostras de produtos a fim de as submeter a testes de segurança;\n\nb) Em relação a qualquer produto susceptível de apresentar riscos em determinadas condições:\n\ni) exigir que o produto seja acompanhado das advertências adequadas, redigidas de forma clara e facilmente compreensível, sobre os riscos que possa apresentar, nas línguas oficiais do Estado-Membro em que for comercializado,\n\nii) sujeitar a colocação do produto no mercado a condições prévias destinadas a garantir a segurança desse produto;\n\nc) Em relação a qualquer produto susceptível de apresentar riscos para determinadas pessoas:\n\nordenar que essas pessoas sejam advertidas desse risco oportuna e correctamente, nomeadamente através da publicação de advertências especiais;\n\nd) Em relação a qualquer produto susceptível de ser perigoso:\n\nproibir temporariamente, durante o período necessário para efectuar os diferentes controlos, verificações ou avaliações de segurança, o fornecimento, a proposta de fornecimento ou a exposição do produto;\n\ne) Em relação a qualquer produto perigoso:\n\nproibir a sua colocação no mercado e definir as medidas de acompanhamento necessárias para garantir a observância dessa proibição;\n\nf) Em relação a qualquer produto perigoso já colocado no mercado:\n\ni) ordenar ou organizar a sua retirada efectiva e imediata e a advertência dos consumidores quanto aos riscos que comporta,\n\nii) ordenar ou coordenar ou, se necessário, organizar com os produtores e com os distribuidores a sua recolha junto dos consumidores e a sua destruição em condições adequadas.\n\n2. Quando as autoridades competentes dos Estados-Membros tomarem medidas do tipo das previstas no n.o 1, em especial as referidas nas alíneas d) a f), deverão agir, na observância do Tratado, designadamente dos artigos 28.o e 30.o, por forma a dar execução às medidas de forma proporcional à gravidade do risco e tendo em consideração o princípio da precaução.\n\nNo contexto dessas medidas, deverão incentivar e favorecer as iniciativas voluntárias dos produtores e distribuidores, em cumprimento da obrigação que lhes incumbe por força da presente directiva, em especial do seu capítulo III, inclusive através do eventual desenvolvimento de códigos de boa conduta.\n\nSe necessário, organizarão ou ordenarão as medidas previstas na alínea f) do n.o 1, caso a acção empreendida pelos produtores e distribuidores a título das respectivas obrigações seja insatisfatória ou insuficiente. A recolha constitui o último recurso. Poderá ser efectuada no âmbito dos códigos de boa conduta na matéria no Estado-Membro em questão, quando existam.\n\n3. As autoridades competentes devem concretamente dispor dos poderes necessários para tomar as iniciativas que se imponham a fim de levar à prática com a devida rapidez as medidas adequadas, como as mencionadas nas alíneas b) a f) do n.o 1, caso os produtos comportem um risco grave. Tais circunstâncias serão determinadas e ponderadas caso a caso, de acordo com as suas características intrínsecas, pelos Estados-Membros, tendo em conta as orientações a que se refere o ponto 8 do anexo II.\n\n4. As medidas a tomar pelas autoridades competentes por força do presente artigo dirigem-se, consoante os casos:\n\na) Ao produtor;\n\nb) Nos limites das respectivas actividades, aos distribuidores, e, em especial, ao responsável pela distribuição inicial no mercado nacional;\n\nc) Se necessário, a qualquer outra pessoa, tendo em vista a colaboração nas acções empreendidas para evitar os riscos derivados de um produto."
+  },
+  "fdd86ea2d3371fdc": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. A fim de garantir uma vigilância eficaz do mercado, destinada a assegurar um nível elevado de protecção da saúde e da segurança dos consumidores, o que implica uma cooperação entre as respectivas autoridades competentes, os Estados-Membros zelam por que sejam lançadas estratégias que comportem meios e medidas adequados, nas quais se podem, nomeadamente, incluir:\n\na) O estabelecimento, a actualização periódica e a execução de programas de vigilância sectoriais por categorias de produtos ou de riscos, bem como o acompanhamento das actividades de vigilância, das observações e dos resultados;\n\nb) O acompanhamento e a actualização dos conhecimentos científicos e técnicos relativos à segurança dos produtos;\n\nc) O exame e as avaliações periódicas do funcionamento das actividades de controlo e da respectiva eficácia e, se necessário, a revisão da estratégia de vigilância e da organização postas em prática.\n\n2. Os Estados-Membros deverão zelar por que seja dada aos consumidores e às demais partes interessadas a possibilidade de apresentarem às autoridades competentes reclamações relativas à segurança dos produtos e às actividades de vigilância e de controlo e por que seja dado um seguimento adequado a essas reclamações. Deverão, por todos os meios, informar os consumidores e as demais partes interessadas dos procedimentos estabelecidos para esse efeito."
+  },
+  "a5d437dff15bda02": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. A Comissão deverá promover e participar no funcionamento em rede europeia das autoridades dos Estados-Membros competentes em matéria de segurança dos produtos, designadamente sob a forma de uma cooperação administrativa.\n\n2. Esse funcionamento em rede deverá desenvolver-se de forma coordenada com os outros procedimentos comunitários existentes, nomeadamente o RAPEX, e tem por objectivo, nomeadamente, facilitar:\n\na) A troca de informações sobre a avaliação dos riscos, os produtos perigosos, as metodologias de testes e os resultados, a evolução recente dos conhecimentos científicos e outros aspectos pertinentes para as actividades de controlo;\n\nb) A elaboração e a execução de projectos conjuntos de vigilância e de testes;\n\nc) O intercâmbio de competências e de boas práticas e a colaboração em actividades de formação;\n\nd) A melhoria da colaboração a nível comunitário em matéria de rastreio, de retirada e de recolha de produtos perigosos."
+  },
+  "436e45f19ca5da7a": {
+   "fragment_id": "CAPÍTULO V — Trocas de informação e situações de intervenção rápida",
+   "type": "divisao",
+   "heading": "CAPÍTULO V — Trocas de informação e situações de intervenção rápida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Trocas de informação e situações de intervenção rápida"
+  },
+  "dc95f31ddc2b965f": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Sempre que um Estado-Membro adopte medidas que restrinjam a colocação no mercado de produtos ou imponham a sua retirada ou recolha do mercado, como as previstas no n.o 1, alíneas b) a f), do artigo 8.o, deverá notificar a Comissão dessas medidas, na medida em que tal notificação não esteja prevista no artigo 12.o ou em legislação comunitária específica, expondo as razões da sua adopção. Deverá ainda informar a Comissão da modificação ou levantamento de qualquer dessas medidas.\n\nSe o Estado-Membro notificante considerar que os efeitos do risco não transpõem ou não podem transpor o seu território, deverá proceder à notificação das medidas referidas no presente número na medida em que estas incluam informações susceptíveis de interessar os Estados-Membros do ponto de vista da segurança dos produtos, nomeadamente se constituírem uma resposta a um novo risco ainda não assinalado noutras notificações.\n\nNos termos do n.o 3 do artigo 15.o, a Comissão deverá elaborar as orientações a que se refere o ponto 8 do anexo II, procurando garantir a eficácia e o bom funcionamento do sistema. Essas orientações deverão propor o teor e o formulário-tipo para as notificações previstas no presente artigo, e, nomeadamente, critérios precisos para determinar as circunstâncias particulares em relação às quais a notificação é pertinente para efeitos do segundo parágrafo.\n\n2. A Comissão deverá transmitir a notificação aos outros Estados-Membros, a menos que conclua, após análise baseada nas informações contidas na notificação, que a medida não é compatível com o direito comunitário. Nesse caso, informará imediatamente o Estado-Membro que desencadeou a acção."
+  },
+  "75a8a150b175df5e": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Sempre que um Estado-Membro adopte ou decida adoptar, recomendar ou acordar com produtores e distribuidores, a título voluntário ou compulsivo, medidas ou acções destinadas a impedir, limitar ou sujeitar a condições específicas a eventual comercialização ou utilização de produtos, no seu território, por motivo de risco grave, deverá notificar imediatamente a Comissão desse facto através do RAPEX. O Estado-Membro deverá igualmente informar a Comissão de qualquer modificação ou levantamento das medidas ou acções em questão.\n\nSe o Estado-Membro notificante considerar que os efeitos do risco não transpõem ou não podem transpor o seu território, deverá proceder em conformidade com as regras definidas no artigo 11.o, de acordo com os critérios pertinentes enunciados nas orientações a que se refere o ponto 8 do anexo II.\n\nSem prejuízo do primeiro parágrafo, os Estados-Membros podem, antes de decidirem tomar tais medidas ou empreender tais acções, comunicar à Comissão as informações de que disponham sobre a existência de um risco grave.\n\nCaso exista um risco grave, deverão comunicar à Comissão as medidas voluntárias, previstas no artigo 5.o da presente directiva, que tenham sido tomadas pelos produtores e distribuidores.\n\n2. Após recepção dessas notificações, a Comissão deverá verificar a sua conformidade com o presente artigo e com os requisitos aplicáveis ao funcionamento do RAPEX e transmiti-las-á aos outros Estados-Membros, que, por sua vez, comunicarão de imediato à Comissão as medidas que adoptarem.\n\n3. O anexo II descreve os procedimentos relativos ao RAPEX. Esses procedimentos serão adaptados pela Comissão nos termos do procedimento referido no n.o 3 do artigo 15.o\n\n4. O acesso ao RAPEX é alargado aos países candidatos, a países terceiros ou a organizações internacionais, no contexto de acordos celebrados entre a Comunidade e esses países ou organizações internacionais, segundo regras definidas nesses mesmos acordos. Esses acordos devem sempre assentar no princípio da reciprocidade e incluir disposições em matéria de confidencialidade que sejam correspondentes às aplicáveis na Comunidade."
+  },
+  "63ce51106ef710ee": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Se a Comissão tiver conhecimento de que certos produtos comportam um risco grave para a saúde e a segurança dos consumidores em vários Estados-Membros, pode, depois de consultados os Estados-Membros e, caso surjam questões científicas que sejam da competência de um comité científico comunitário, o comité científico competente para o risco em questão, adoptar, à luz dos resultados dessas consultas, uma decisão nos termos do procedimento previsto no n.o 2 do artigo 15.o que imponha aos Estados-Membros a obrigação de tomarem medidas de entre as mencionadas no n.o 1, alíneas b) a f), do artigo 8.o, se simultaneamente:\n\na) Se concluir das consultas prévias com os Estados-Membros que existe uma divergência manifesta entre os Estados-Membros quanto à estratégia adoptada ou a adoptar para enfrentar o risco em questão; e\n\nb) Atendendo ao tipo de problema de segurança levantado pelo produto, o risco não puder ser tratado de maneira consentânea com o grau de urgência do caso, no quadro de outros procedimentos previstos na regulamentação comunitária específica aplicável aos produtos em questão; e\n\nc) O risco só puder ser eficazmente eliminado pela adopção de medidas adequadas aplicáveis a nível comunitário, por forma a assegurar um grau elevado e uniforme de protecção da saúde e segurança dos consumidores e o bom funcionamento do mercado interno.\n\n2. As decisões a que se refere o n.o 1 são válidas por um período não superior a um ano, podendo ser confirmadas, segundo o mesmo procedimento, por períodos adicionais nenhum dos quais poderá ser superior a um ano.\n\nPorém, as decisões respeitantes a produtos ou a lotes de produtos específicos, designados individualmente, serão válidas por um período indeterminado.\n\n3. É proibida a exportação da Comunidade de produtos perigosos que tenham sido objecto da decisão a que se refere o n.o 1, salvo se a decisão dispuser noutro sentido.\n\n4. Os Estados-Membros tomarão as medidas necessárias para dar execução às decisões referidas no n.o 1 num prazo inferior a 20 dias, a menos que as referidas decisões fixem um prazo diferente.\n\n5. As autoridades competentes encarregadas de aplicar as medidas referidas no n.o 1 darão às partes interessadas a possibilidade de apresentarem as suas observações no prazo de um mês, informando desse facto a Comissão."
+  },
+  "0ab63e82785fdec1": {
+   "fragment_id": "CAPÍTULO VI — Procedimentos de comité",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI — Procedimentos de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Procedimentos de comité"
+  },
+  "e598df1740d9c295": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. As medidas necessárias à execução da presente directiva relativas às matérias adiante indicadas são aprovadas pelo procedimento de regulamentação previsto no n.o 2 do artigo 15.o:\n\na) As medidas referidas no artigo 4.o relativas às normas adoptadas pelos organismos europeus de normalização;\n\nb) As decisões referidas no artigo 13.o, que impõem aos Estados-Membros a obrigação de tomar as medidas referidas no n.o 1, alíneas b) a f), do artigo 8.o\n\n2. As medidas necessárias à execução da presente directiva relativas a quaisquer outras matérias serão aprovadas pelo procedimento consultivo previsto no n.o 3 do artigo 15.o"
+  },
+  "e40c9195b0792377": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. A Comissão é assistida por um comité.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.o e 7.o da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.o\n\nO prazo previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de 15 dias.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os artigos 3.o e 7.o da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.o\n\n4. O comité aprova o seu regulamento interno."
+  },
+  "b05d5fd768a00e82": {
+   "fragment_id": "CAPÍTULO VII — Disposições finais",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Disposições finais"
+  },
+  "8a93dae179404aa1": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. As informações de que disponham as autoridades dos Estados-Membros ou a Comissão sobre os riscos que determinados produtos representam para a saúde e segurança dos consumidores deverão, em princípio, ser facultadas ao público, em conformidade com as exigências de transparência, sem prejuízo das restrições necessárias às actividades de fiscalização e de inquérito. O público deverá ter acesso, em especial, às informações relativas à identificação dos produtos, à natureza do risco e às medidas tomadas.\n\nTodavia, os Estados-Membros e a Comissão deverão tomar as providências necessárias para impor aos seus funcionários e agentes a obrigação de não divulgarem as informações colhidas para efeitos da aplicação da presente directiva que, pela sua natureza, estejam abrangidas pelo segredo profissional em casos devidamente justificados, com excepção das informações relativas às características de segurança de um determinado produto cuja divulgação se imponha, se as circunstâncias assim o exigirem, para a protecção da saúde e segurança dos consumidores.\n\n2. A protecção do segredo profissional não impede a divulgação às autoridades competentes de informações pertinentes para assegurar a eficácia das actividades de fiscalização e vigilância do mercado. As autoridades que receberem as informações sujeitas ao segredo profissional encarregar-se-ão da respectiva protecção."
+  },
+  "317e9bb42e8a100a": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nA presente directiva não prejudica a aplicação da Directiva 85/374/CEE."
+  },
+  "38446f05f1c5d79c": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. Qualquer decisão adoptada ao abrigo da presente directiva e que envolva restrições à colocação de um determinado produto no mercado, ou imponha a sua retirada ou a sua recolha, deverá ser devidamente fundamentada. Será notificada, logo que possível, ao interessado, com a indicação das vias de recurso previstas nas disposições em vigor no Estado-Membro em causa e dos prazos para a sua interposição.\n\nNa medida do possível, as partes interessadas terão oportunidade de se pronunciar antes da adopção de qualquer medida. Se não tiver sido efectuada previamente, devido à urgência das medidas a tomar, a consulta será efectuada em devido tempo, após a aplicação da referida medida.\n\nTodas as medidas que imponham a retirada ou a recolha de um produto deverão tomar em consideração o propósito de incentivar os distribuidores, utilizadores e consumidores a contribuir para o seu cumprimento.\n\n2. Os Estados-Membros deverão assegurar que qualquer medida tomada pelas autoridades competentes que envolva restrições à colocação de um produto no mercado ou imponha a sua retirada ou a sua recolha possa ser objecto de recurso para os tribunais competentes.\n\n3. As decisões tomadas ao abrigo da presente directiva que restrinjam a colocação de um produto no mercado ou imponham a sua retirada ou a sua recolha não prejudicam de modo algum a apreciação da responsabilidade da parte a que se destinam, à luz do direito penal nacional aplicável nessa matéria."
+  },
+  "785afb82b6209e35": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. A Comissão pode submeter à apreciação do comité previsto no artigo 15.o qualquer questão relativa à aplicação da presente directiva, em especial questões que digam respeito às actividades de fiscalização e vigilância do mercado.\n\n2. De três em três anos a partir de 15 de Janeiro de 2004, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação da presente directiva.\n\nO relatório comportará em especial informações sobre a segurança dos produtos de consumo, nomeadamente sobre a melhoria da rastreabilidade dos produtos, o funcionamento da vigilância do mercado, os trabalhos de normalização, o funcionamento do RAPEX e as medidas comunitárias tomadas com base no artigo 13.o Para o efeito, a Comissão procederá à avaliação das questões pertinentes, em especial das estratégias, sistemas e práticas em vigor nos Estados-Membros, tendo em conta as exigências da presente directiva e das outras disposições da legislação comunitária relativas à segurança dos produtos. Os Estados-Membros prestarão à Comissão toda a assistência e todas as informações necessárias para a condução dessas avaliações e elaboração dos relatórios."
+  },
+  "05bc79f3669b25ac": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nA Comissão deve identificar as necessidades, as possibilidades e as prioridades da acção da Comunidade relativamente à segurança dos serviços e apresentar ao Parlamento Europeu e ao Conselho, antes de 1 de Janeiro de 2003, um relatório acompanhado de eventuais propostas sobre a matéria."
+  },
+  "e25929720d8b8aa7": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. Os Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva com efeitos desde 15 de Janeiro de 2004 e informarão imediatamente a Comissão desse facto.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicarão à Comissão o texto das disposições de direito interno que adoptem no domínio abrangido pela presente directiva."
+  },
+  "1b62e6c34e40c8e5": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nA Directiva 92/59/CEE é revogada com efeitos desde 15 de Janeiro de 2004, sem prejuízo das obrigações dos Estados--Membros no que respeita ao prazo de transposição e de início da aplicação da referida directiva, indicado no anexo III.\n\nAs remissões para a Directiva 92/59/CEE deverão ser entendidas como remissões para a presente directiva e ser lidas de acordo com a tabela de correspondência do anexo IV."
+  },
+  "3617a3de0a2b09e7": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nA presente directiva entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "8df65194b341fafa": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 3 de Dezembro de 2001.\n\nPelo Parlamento Europeu\n\nA Presidente\n\nN. Fontaine\n\nPelo Conselho\n\nO Presidente\n\nF. Vandenbroucke\n\n(1) JO C 337 E de 28.11.2000, p. 109 e\n\nJO C 154 E de 29.5.2000, p. 265.\n\n(2) JO C 367 de 20.12.2000, p. 34.\n\n(3) Parecer do Parlamento Europeu de 15 de Novembro de 2000 (JO C 223 de 8.8.2001, p. 154), posição comum do Conselho de 12 de Fevereiro de 2001 (JO C 93 de 23.3.2001, p. 24) e decisão do Parlamento Europeu de 16 de Maio de 2001 (ainda não publicada no Jornal Oficial). Decisão do Parlamento Europeu de 4 de Outubro de 2001 e decisão do Conselho de 27 de Setembro de 2001.\n\n(4) JO L 228 de 11.8.1992, p. 24.\n\n(5) JO L 184 de 17.7.1999, p. 23.\n\n(6) JO L 210 de 7.8.1985, p. 29. Directiva alterada pela Directiva 1999/34/CE do Parlamento Europeu e do Conselho (JO L 141 de 4.6.1999, p. 20).\n\n(7) JO L 204 de 21.7.1998, p. 37. Directiva alterada pela Directiva 98//48/CE (JO L 217 de 5.8.1998, p. 18)."
+  },
+  "ef2de55260b5f307": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nOBRIGAÇÕES RELATIVAS ÀS INFORMAÇÕES A FORNECER ÀS AUTORIDADES COMPETENTES POR PRODUTORES E DISTRIBUIDORES SOBRE PRODUTOS NÃO CONFORMES COM A OBRIGAÇÃO GERAL DE SEGURANÇA\n\n1. As informações previstas no n.o 3 do artigo 5.o ou, se for caso disso, em preceitos específicos da regulamentação comunitária relativa ao produto em causa serão comunicadas às autoridades competentes designadas para esse efeito nos Estados-Membros em que os produtos em causa estejam ou tenham sido colocados no mercado ou de qualquer outra forma fornecidos aos consumidores.\n\n2. A Comissão, assistida pelo comité a que refere o artigo 15.o, deverá definir o conteúdo e elaborar o formulário-tipo das notificações previstas no presente anexo, procurando garantir a eficácia e o bom funcionamento do sistema. Deverá concretamente propor, eventualmente sob a forma de um guia, critérios simples e claros para determinar as condições específicas, designadamente as que se prendem com produtos ou circunstâncias isolados, em relação às quais a notificação não é pertinente à luz do presente anexo.\n\n3. Quando se trate de riscos graves, as informações a prestar compreenderão, no mínimo, os seguintes elementos:\n\na) Dados que permitam uma identificação precisa do produto ou do lote de produtos em questão;\n\nb) Uma descrição completa do risco que esses produtos comportem;\n\nc) Todas as informações disponíveis que sejam pertinentes para rastrear o produto;\n\nd) Uma descrição da acção empreendida a fim de prevenir riscos para os consumidores."
+  },
+  "ad0a3122190c43c6": {
+   "fragment_id": "ANEXO II — PROCEDIMENTOS PARA A APLICAÇÃO DO RAPEX E DAS ORIENTAÇÕES RELATIVAS ÀS NOTIFICAÇÕES",
+   "type": "divisao",
+   "heading": "ANEXO II — PROCEDIMENTOS PARA A APLICAÇÃO DO RAPEX E DAS ORIENTAÇÕES RELATIVAS ÀS NOTIFICAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — PROCEDIMENTOS PARA A APLICAÇÃO DO RAPEX E DAS ORIENTAÇÕES RELATIVAS ÀS NOTIFICAÇÕES\n\n1. O sistema RAPEX abrange os produtos definidos na alínea a) do artigo 2.o da presente directiva que apresentem um risco grave para a saúde e a segurança dos consumidores.\n\nEstão excluídos do âmbito de aplicação do RAPEX os produtos farmacêuticos abrangidos pelas Directivas 75/319/CEE(1) e 81/851/CEE(2).\n\n2. O RAPEX tem essencialmente por objectivo uma troca rápida de informações em caso de existência de um risco grave. As orientações referidas no ponto 8 definem critérios específicos para a identificação dos riscos graves.\n\n3. Os Estados-Membros notificantes a título do artigo 12.o comunicarão todas as informações disponíveis. Em especial, a notificação deverá conter as informações mencionadas nas orientações referidas no ponto 8, e, no mínimo:\n\na) Informações que possibilitem a identificação do produto;\n\nb) Uma descrição do risco em causa, incluindo um resumo dos resultados de quaisquer ensaios ou análises efectuados e das respectivas conclusões que permitam avaliar a importância do risco;\n\nc) A natureza e a duração das medidas tomadas ou das acções empreendidas ou das medidas ou acções decididas, se aplicável;\n\nd) Informações sobre as cadeias de comercialização e sobre a distribuição do produto, em especial sobre os países destinatários.\n\nEssas informações devem ser transmitidas por meio do formulário-tipo de notificação previsto para o efeito e segundo as regras especificadas nas orientações referidas no ponto 8.\n\nQuando a medida notificada nos termos dos artigos 11.o ou 12.o se destine a restringir a comercialização ou a utilização de uma substância ou preparação química, os Estados-Membros deverão fornecer logo que possível um resumo ou as referências dos dados pertinentes relativos a essa substância ou preparação e aos produtos de substituição disponíveis, se essas informações estiverem disponíveis. Os Estados-Membros comunicarão igualmente os efeitos que se prevê que a medida venha a ter para a saúde e a segurança dos consumidores, bem como a avaliação do risco efectuada de acordo com os princípios gerais de avaliação dos riscos das substâncias químicas previstos no n.o 4 do artigo 10.o do Regulamento (CEE) n.o 793/93(3) no caso de uma substância existente, ou no n.o 2 do artigo 3.o da Directiva 67/548/CEE(4) caso se trate de uma nova substância. As orientações referidas no ponto 8 definirão os pormenores e os procedimentos para a prestação das informações exigidas a este respeito.\n\n4. Quando um Estado-Membro tiver informado a Comissão, em conformidade com o n.o 1, terceiro parágrafo, do artigo 12.o, da existência de um risco grave, antes de tomar a decisão de adoptar medidas, deverá indicar à Comissão, no prazo de 45 dias, se confirma ou se altera essas informações.\n\n5. A Comissão verificará, com a maior brevidade possível, a conformidade das disposições da directiva com as informações recebidas pelo RAPEX e poderá proceder a um inquérito por sua própria iniciativa se entender que tal é necessário para fins de avaliação da segurança do produto. Caso seja realizado um inquérito dessa natureza, os Estados-Membros deverão, na medida do possível, fornecer à Comissão todas as informações solicitadas.\n\n6. Após a recepção de uma notificação nos termos do artigo 12.o, os Estados-Membros devem prestar à Comissão, o mais tardar no prazo fixado nas orientações referidas no ponto 8, as seguintes informações:\n\na) Se o produto está a ser comercializado no seu território;\n\nb) Que medidas serão eventualmente adoptadas em relação ao produto em questão, tendo em conta a sua situação específica, comunicando as razões, nomeadamente a diferente apreciação do risco ou quaisquer outras circunstâncias particulares que justifiquem a sua decisão, em particular a ausência de medidas ou de acompanhamento;\n\nc) Quaisquer informações complementares pertinentes que tenham obtido sobre o risco em causa, incluindo os resultados de ensaios ou de análises.\n\nAs orientações referidas no ponto 8 propõem critérios precisos de notificação das medidas cujo alcance se limite ao território nacional e o tratamento a dar a essas notificações relativas aos riscos que o Estado-Membro notificante considera que não transpõem o seu território.\n\n7. Os Estados-Membros informarão imediatamente a Comissão de qualquer modificação ou do levantamento da ou das medidas ou acções em questão.\n\n8. As orientações relativas à gestão do RAPEX pela Comissão e pelos Estados-Membros serão elaboradas e regularmente actualizadas pela Comissão, nos termos do procedimento previsto no n.o 3 do artigo 15.o\n\n9. A Comissão pode informar os pontos de contacto nacionais sobre os produtos que comportam riscos graves, importados para a Comunidade e para o Espaço Económico Europeu ou deles exportados.\n\n10. O Estado-Membro notificante é responsável pelas informações fornecidas.\n\n11. Cabe à Comissão assegurar o bom funcionamento do sistema, procedendo nomeadamente a uma classificação e indexação das notificações consoante o grau de urgência. As regras deste procedimento serão estabelecidas nas orientações referidas no ponto 8.\n\n(1) JO L 147 de 9.6.1975, p. 13. Directiva com a última redacção que lhe foi dada pela Directiva 2000/38/CE da Comissão (JO L 139 de 10.6.2000, p. 28).\n\n(2) JO L 317 de 6.11.1981, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2000/37/CE da Comissão (JO L 139 de 10.6.2000, p. 25).\n\n(3) JO L 84 de 5.4.1993, p. 1.\n\n(4) JO 196 de 16.8.1967, p. 1/67. Directiva com a última redacção que lhe foi dada pela Directiva 2000/33/CE da Comissão (JO L 136 de 8.6.2000, p. 90)."
+  },
+  "ade7baf4b67816ad": {
+   "fragment_id": "ANEXO III — PRAZO DE TRANSPOSIÇÃO DE INÍCIO DA APLICAÇÃO DA DIRECTIVA REVOGADA",
+   "type": "divisao",
+   "heading": "ANEXO III — PRAZO DE TRANSPOSIÇÃO DE INÍCIO DA APLICAÇÃO DA DIRECTIVA REVOGADA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — PRAZO DE TRANSPOSIÇÃO DE INÍCIO DA APLICAÇÃO DA DIRECTIVA REVOGADA\n\n(REFERIDO NO PRIMEIRO PARÁGRAFO DO ARTIGO 22.o)\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "9c6b9fc015ccc770": {
+   "fragment_id": "ANEXO IV — TABELA DE CORRESPONDÊNCIA",
+   "type": "divisao",
+   "heading": "ANEXO IV — TABELA DE CORRESPONDÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — TABELA DE CORRESPONDÊNCIA\n\n(REFERIDA NO SEGUNDO PARÁGRAFO DO ARTIGO 22.o)\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "1eceeacc2dcf6f7b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Dezembro de 2001\n\nrelativa à segurança geral dos produtos\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 95.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/990fa74e-aee7-4fbb-aa58-02067cf03e31.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/990fa74e-aee7-4fbb-aa58-02067cf03e31.0018.03/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/990fa74e-aee7-4fbb-aa58-02067cf03e31.0018.03/DOC_1#E0003)), à luz do projecto comum aprovado pelo Comité de Conciliação em 2 de Agosto de 2001,\n\n(1) Nos termos do artigo 16.º da Directiva 92/59/CEE do Conselho, de 29 de Junho de 1992, relativa à segurança geral dos produtos ([^4^](http://publications.europa.eu/resource/cellar/990fa74e-aee7-4fbb-aa58-02067cf03e31.0018.03/DOC_1#E0004)), o Conselho deve pronunciar-se sobre a eventual adaptação da dita directiva, quatro anos após a entrada em vigor da mesma, com base num relatório da Comissão sobre a experiência adquirida, acompanhado de propostas adequadas. É necessário introduzir várias alterações na presente directiva a fim de completar, reforçar ou clarificar algumas das suas disposições à luz da experiência e dos novos e relevantes desenvolvimentos no domínio da segurança dos produtos de consumo, assim como das alterações introduzidas no Tratado, em especial nos artigos 152.º, relativo à saúde pública, e 153.º, relativo à defesa dos consumidores, e à luz do princípio da precaução. Como tal, é conveniente, por razões de clareza, reformular a Directiva 92/59/CEE. Esta reformulação deixa a segurança dos serviços fora do âmbito de aplicação da presente directiva, uma vez que a Comissão tenciona identificar as necessidades, as possibilidades e as prioridades da acção comunitária em matéria de segurança dos serviços e de responsabilidade dos fornecedores de serviços, por forma a apresentar as propostas adequadas.\n\n(2) Importa adoptar medidas tendentes a melhorar o funcionamento do mercado interno, que compreende um espaço sem fronteiras internas no qual é assegurada a livre circulação de mercadorias, pessoas, serviços e capitais.\n\n(3) Na ausência de disposições comunitárias, a legislação horizontal em vigor nos Estados-Membros relativa à segurança dos produtos, que impõe nomeadamente aos agentes económicos a obrigação geral de comercializarem apenas produtos seguros, pode diferir quanto ao nível de protecção que garante aos consumidores. Tais disparidades e a ausência de legislação horizontal em alguns Estados-Membros são susceptíveis de criar obstáculos às trocas comerciais e distorções de concorrência no mercado interno.\n\n(4) A fim de assegurar um elevado nível de protecção dos consumidores, é dever da Comunidade dar o seu contributo para a protecção da saúde e segurança dos mesmos. Tal contributo pode ser dado por meio de legislação comunitária horizontal que introduza uma obrigação geral de segurança dos produtos, que contenha disposições sobre os deveres gerais de produtores e distribuidores, sobre o controlo da aplicação das normas comunitárias em matéria de segurança dos produtos e sobre a troca rápida de informação e, em certos casos, a acção a nível comunitário.\n\n(5) É muito difícil adoptar legislação comunitária para cada produto já existente ou susceptível de vir a ser concebido. É necessário um vasto quadro legislativo de carácter horizontal para abranger tais produtos e para colmatar as lacunas, em especial enquanto se aguarda a revisão da legislação específica existente, assim como para completar as disposições da legislação específica existente ou futura, nomeadamente a fim de garantir um elevado nível de protecção da segurança e da saúde dos consumidores, tal como previsto no artigo 95.º do Tratado.\n\n(6) Torna-se, pois, necessário estabelecer, a nível comunitário, uma obrigação geral de segurança para todos os produtos colocados no mercado, ou postos à disposição dos consumidores de qualquer outro modo, destinados aos consumidores ou susceptíveis de serem por estes utilizados em circunstâncias razoavelmente previsíveis, mesmo quando não lhes sejam destinados. Em todos estes casos, os produtos considerados podem apresentar riscos para a saúde e a segurança dos consumidores que têm de ser evitados. Há, no entanto, que excluir, pela sua própria natureza, certos bens em segunda mão.\n\n(7) A presente directiva deverá ser aplicada aos produtos independentemente das técnicas de venda, incluindo as vendas à distância ou por via electrónica.\n\n(8) A segurança dos produtos deve ser avaliada tendo em atenção todos os aspectos relevantes, em especial as categorias de consumidores que podem ser particularmente vulneráveis aos riscos decorrentes dos produtos considerados, em especial as crianças e os idosos.\n\n(9) A presente directiva não abrange os serviços mas, a fim de assegurar a realização dos objectivos de protecção pretendidos, as suas disposições deverão também ser aplicadas aos produtos fornecidos ou postos à disposição dos consumidores no âmbito de uma prestação de serviços a fim de serem por eles utilizados. A segurança do equipamento utilizado pelos próprios prestadores de serviços para fornecer um serviço aos consumidores não é da alçada da presente directiva, visto que deverá ser considerada em ligação com a segurança do serviço fornecido. Nomeadamente, os equipamentos em que os consumidores circulam ou viajam que são manobrados por um prestador de serviços estão excluídos do âmbito de aplicação da presente directiva.\n\n(10) Os produtos destinados exclusivamente a uma utilização profissional, mas que posteriormente transitaram para o mercado de consumo, devem estar sujeitos às exigências da presente directiva, dado que podem apresentar riscos para a saúde e a segurança dos consumidores quando utilizados em circunstâncias razoavelmente previsíveis.\n\n(11) Na ausência de disposições mais específicas no quadro da legislação comunitária relativa à segurança dos produtos em questão, o disposto na presente directiva é aplicável para efeitos de protecção da saúde e segurança dos consumidores.\n\n(12) Se uma legislação comunitária específica fixar obrigações de segurança que abranjam apenas certos riscos ou certas categorias de riscos no que respeita aos produtos em questão, as obrigações dos agentes económicos quanto a esses riscos são as determinadas pelas disposições da legislação específica, sendo aplicável aos demais riscos a exigência geral de segurança prevista pela presente directiva.\n\n(13) As disposições da presente directiva relativas às outras obrigações de produtores e distribuidores, aos poderes e obrigações dos Estados-Membros, às trocas de informação e às situações de intervenção rápida, bem como à divulgação das informações e à confidencialidade, são aplicáveis nos casos de produtos abrangidos por regulamentações comunitárias específicas, se essas regulamentações não incluírem já tais obrigações.\n\n(14) A fim de facilitar a aplicação eficaz e coerente da obrigação geral de segurança da presente directiva, importa estabelecer normas europeias não obrigatórias que abranjam determinados produtos e riscos, por forma a que um produto que esteja em conformidade com uma norma nacional que transponha uma norma europeia seja considerado como estando em conformidade com a dita obrigação.\n\n(15) No que respeita aos objectivos da presente directiva, os organismos europeus de normalização devem estabelecer normas europeias, nos termos de mandatos conferidos pela Comissão, assistida por comités apropriados. Para garantir que os produtos conformes com as normas cumpram a obrigação geral de segurança, a Comissão, assistida por um comité composto por representantes dos Estados-Membros, deverá fixar as exigências que as normas devem satisfazer. Essas exigências deverão ser incluídas nos mandatos conferidos aos organismos de normalização.\n\n(16) Na ausência de regulamentação específica e sempre que não estejam disponíveis normas europeias fixadas nos termos de um mandato conferido pela Comissão ou não se faça uso dessas normas, a segurança dos produtos deve ser avaliada por referência, nomeadamente, a normas nacionais que transponham quaisquer outras normas europeias ou internacionais relevantes, a recomendações da Comissão ou normas nacionais, a normas internacionais, a códigos de boa conduta, ao estado dos conhecimentos técnicos e ao nível de segurança com que os consumidores possam razoavelmente contar. Neste contexto, as recomendações da Comissão podem facilitar a aplicação coerente e eficaz da presente directiva, na pendência de normas europeias para os riscos e/ou produtos para os quais se considere que essas normas não são possíveis ou não são adequadas.\n\n(17) Uma certificação independente apropriada, reconhecida pelas autoridades competentes, poderá facilitar a prova de cumprimento dos critérios aplicáveis em matéria de segurança do produto.\n\n(18) É conveniente juntar à obrigação geral de segurança outros deveres dos agentes económicos, porquanto é necessário que estes actuem no sentido de prevenir os riscos para os consumidores em determinadas circunstâncias.\n\n(19) Os deveres adicionais impostos aos produtores devem incluir a obrigação de tomar medidas, em função das características dos produtos, que lhes permitam informar-se dos riscos que esses produtos podem representar, fornecer aos consumidores informação que os habilite a avaliar e prevenir riscos, advertir os consumidores dos riscos inerentes aos produtos perigosos que já lhes tenham sido fornecidos, retirar tais produtos do mercado e, como último recurso, recolhê-los sempre que necessário, o que pode comportar, segundo as disposições aplicáveis nos Estados-Membros, uma forma adequada de compensação, por exemplo a troca ou o reembolso desses produtos.\n\n(20) É dever dos distribuidores contribuir para assegurar a observância das exigências de segurança aplicáveis. As obrigações impostas aos distribuidores aplicam-se proporcionalmente às respectivas responsabilidades. Em particular, poderá ser impossível, no âmbito de actividades caritativas, fornecer às autoridades competentes informações e documentação sobre os eventuais riscos e sobre a origem do produto no caso de objectos em segunda mão isolados fornecidos por pessoas privadas.\n\n(21) Os produtores e os distribuidores deverão cooperar com as autoridades competentes nas acções de prevenção dos riscos e informá-las sempre que cheguem à conclusão de que certos produtos fornecidos são perigosos. As condições de tal informação devem ser estabelecidas na presente directiva para facilitar a sua aplicação eficaz, evitando simultaneamente um encargo excessivo para os agentes económicos e para as autoridades.\n\n(22) A fim de assegurar um controlo eficaz do cumprimento das obrigações que impendem sobre produtores e distribuidores, os Estados-Membros devem criar ou designar as autoridades a quem caberá controlar a segurança dos produtos, dotadas de poderes para tomar as medidas adequadas, incluindo o poder de aplicar sanções eficazes, proporcionadas e dissuasivas, e assegurar a necessária coordenação entre as várias autoridades designadas.\n\n(23) É necessário que, entre as medidas adequadas, figure a possibilidade de os Estados-Membros ordenarem ou organizarem, imediata e eficazmente, a retirada de produtos perigosos já colocados no mercado e, como último recurso, ordenarem, coordenarem ou procederem à recolha, junto dos consumidores, de produtos perigosos já fornecidos. Tal competência deve ser exercida sempre que os produtores e os distribuidores não consigam prevenir os riscos para os consumidores em conformidade com as suas obrigações. Sempre que necessário, as autoridades devem dispor dos poderes e procedimentos adequados para decidirem e aplicarem rapidamente quaisquer medidas que sejam necessárias.\n\n(24) A segurança dos consumidores depende em grande medida de uma fiscalização activa do cumprimento das disposições comunitárias em matéria de segurança dos produtos. Por conseguinte, os Estados-Membros devem delinear estratégias sistemáticas que permitam assegurar a eficácia da vigilância do mercado e outras medidas de fiscalização, assegurando a sua transparência face ao público e às partes interessadas.\n\n(25) É necessária a colaboração entre as autoridades de fiscalização competentes dos Estados-Membros para a realização dos objectivos de protecção da presente directiva. É, pois, conveniente promover o funcionamento em rede europeia das autoridades de fiscalização competentes dos Estados-Membros, a fim de facilitar, de uma forma coordenada com outros procedimentos comunitários, nomeadamente o sistema de troca rápida de informação (RAPEX), uma maior colaboração a nível operacional no domínio da vigilância do mercado e de outras actividades de fiscalização, nomeadamente a avaliação de riscos, os ensaios de produtos, o intercâmbio de conhecimentos técnicos e científicos, a execução de projectos conjuntos na área da vigilância e localização, a retirada ou a recolha de produtos perigosos.\n\n(26) Para assegurar um nível uniforme e elevado de protecção da saúde e da segurança dos consumidores para preservar a unidade do mercado interno, é necessário informar a Comissão de quaisquer medidas que restrinjam a colocação no mercado de um produto ou que exijam a sua retirada ou recolha do mercado. Tais medidas devem ser tomadas em conformidade com o Tratado, nomeadamente com os artigos 28.º, 29.º e 30.º\n\n(27) O controlo eficaz da segurança dos produtos exige a criação, a nível nacional e comunitário, de um sistema de troca rápida de informação em situações de risco grave que exijam uma intervenção rápida por motivos da segurança de um produto. É igualmente conveniente que a presente directiva descreva procedimentos circunstanciados para o funcionamento do sistema e confira à Comissão, assistida por um comité, poderes para os adaptar.\n\n(28) A presente directiva prevê o estabelecimento de orientações não vinculativas, destinadas a indicar critérios simples e claros e regras práticas susceptíveis de evolução, para permitir nomeadamente uma notificação eficaz de medidas de restrição da comercialização dos produtos nos casos previstos na presente directiva, tendo em conta a diversidade das situações tratadas pelos Estados-Membros e pelos operadores económicos. Tais orientações devem incluir, em especial, critérios para a aplicação da definição de riscos graves, a fim de facilitar uma aplicação coerente das disposições pertinentes, em caso de ocorrência desses riscos.\n\n(29) Compete em primeiro lugar aos Estados-Membros, na observância das disposições do Tratado, nomeadamente dos artigos 28.º, 29.º e 30.º, tomar as medidas apropriadas em relação aos produtos perigosos que se encontrem no seu território.\n\n(30) Todavia, se os Estados-Membros divergirem quanto à estratégia a seguir para fazer face ao risco apresentado por determinados produtos, tais divergências podem acarretar disparidades inaceitáveis no tocante à defesa dos consumidores e constituir um obstáculo ao comércio intracomunitário.\n\n(31) Pode ser necessário resolver problemas graves de segurança de um produto que requeiram intervenção rápida e afectem ou possam afectar, no futuro imediato, a totalidade ou uma parte importante da Comunidade e que, tendo em conta a natureza do problema de segurança levantado pelo produto, não possam ser tratados, de modo eficaz e consentâneo com o seu grau de urgência, no âmbito dos procedimentos previstos nas regulamentações comunitárias específicas aplicáveis ao produto ou à categoria de produtos em questão.\n\n(32) É, pois, necessário prever um mecanismo adequado que permita, como último recurso, a adopção de medidas aplicáveis em toda a Comunidade, sob a forma de decisão dirigida aos Estados-Membros, para fazer face a situações criadas por produtos que apresentem um risco grave. Tal decisão deverá implicar a proibição de exportar os produtos em questão, a menos que, no caso em apreço, circunstâncias excepcionais permitam uma decisão de proibição parcial ou de não proibição, nomeadamente sempre que esteja instituído um sistema de prévio consentimento. Além disso, a proibição de exportar deverá ser analisada com vista a prevenir os riscos para a saúde e a segurança dos consumidores. Não sendo tal decisão directamente aplicável aos agentes económicos, os Estados-Membros deverão tomar as medidas necessárias à sua execução. As medidas aprovadas ao abrigo de tal procedimento terão carácter provisório, excepto quando se aplicarem a produtos ou a lotes de produtos designados individualmente. Para garantir uma avaliação adequada da necessidade de tais medidas e a sua melhor preparação, as mesmas devem ser tomadas pela Comissão, assistida por um comité, após consultas com os Estados-Membros e, se se colocarem questões científicas da competência de um comité científico comunitário, com o comité científico competente para o risco em causa.\n\n(33) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^5^](http://publications.europa.eu/resource/cellar/990fa74e-aee7-4fbb-aa58-02067cf03e31.0018.03/DOC_1#E0005)).\n\n(34) Para facilitar uma aplicação eficaz e coerente da presente directiva, os vários aspectos da sua aplicação devem poder ser analisados no âmbito de um comité.\n\n(35) Deve ser assegurado o acesso do público às informações de que dispõem as autoridades competentes em matéria de segurança dos produtos. Todavia, o segredo profissional a que se refere o artigo 287.º do Tratado deve ser protegido de uma forma compatível com a necessidade de assegurar a eficácia da acção de vigilância do mercado e das medidas de protecção.\n\n(36) A presente directiva não prejudica os direitos das vítimas na acepção da Directiva 85/374/CEE do Conselho, de 25 de Julho de 1985, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-Membros em matéria de responsabilidade decorrente de produtos defeituosos ([^6^](http://publications.europa.eu/resource/cellar/990fa74e-aee7-4fbb-aa58-02067cf03e31.0018.03/DOC_1#E0006)).\n\n(37) É necessário que os Estados-Membros prevejam as vias de recurso adequadas para os tribunais competentes contra quaisquer medidas tomadas pelas autoridades competentes que restrinjam a colocação no mercado ou imponham a retirada ou a recolha de um produto.\n\n(38) Por outro lado, quaisquer medidas relativas a produtos importados, como as relativas à proibição de exportar, que se destinem a prevenir riscos para a saúde e segurança dos consumidores, devem ser aprovadas em conformidade com as obrigações internacionais da Comunidade.\n\n(39) A Comissão deve examinar periodicamente o modo como a presente directiva está a ser aplicada e os resultados obtidos, nomeadamente no atinente ao funcionamento dos sistemas de vigilância do mercado, ao sistema de troca rápida de informação e às medidas adoptadas a nível comunitário, para além de outras questões pertinentes para a segurança dos produtos de consumo na Comunidade, e apresentar regularmente relatórios ao Parlamento Europeu e ao Conselho sobre o assunto.\n\n(40) A presente directiva não afecta as obrigações dos Estados-Membros no que se refere aos prazos de transposição e de início da aplicação da Directiva 92/59/CEE,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "63e3fec1b24398d1": {
+   "fragment_id": "Objectivos, âmbito de aplicação e definições",
+   "type": "divisao",
+   "heading": "Objectivos, âmbito de aplicação e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Objectivos, âmbito de aplicação e definições"
+  },
+  "91a7f7b61920da68": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva visa garantir a segurança dos produtos colocados no mercado.\n\n2. A presente directiva é aplicável a todos os produtos definidos na alínea a) do artigo 2.º Cada uma das suas disposições é aplicável na medida em que, no âmbito da regulamentação comunitária, não existam disposições específicas que regulem a segurança dos referidos produtos e que visem o mesmo objectivo.\n\nNo caso de produtos abrangidos por legislação comunitária que contemple exigências de segurança específicas, a presente directiva é aplicável apenas aos aspectos e riscos ou categorias de riscos não abrangidos por essas exigências. Nessa conformidade:\n\na) As alíneas b) e c) do artigo 2.º e os artigos 3.º e 4.º não são aplicáveis a esses produtos, no que respeita aos riscos ou categorias de riscos abrangidos pela legislação específica;\n\nb) Os artigos 5.º a 18.º são aplicáveis salvo se existirem disposições específicas que regulem os aspectos abrangidos pelos mesmos artigos e que visem o mesmo objectivo."
+  },
+  "610262f9aa15ecfe": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Produto», qualquer produto – inclusive se utilizado numa prestação de serviços — destinado aos consumidores ou susceptível, em circunstâncias razoavelmente previsíveis, de ser utilizado pelos consumidores mesmo que não lhes seja destinado, que tenha sido fornecido ou disponibilizado a título oneroso ou gratuito no âmbito de uma actividade comercial, seja ele novo, usado ou recuperado.\n\nb) «Produto seguro», qualquer produto que, em circunstâncias de utilização normais ou razoavelmente previsíveis, nomeadamente de duração e, se aplicável, de entrada em serviço, de instalação e de necessidades de conservação, não apresente quaisquer riscos ou apresente apenas riscos reduzidos compatíveis com a sua utilização e considerados aceitáveis e conciliáveis com um elevado nível de protecção da saúde e segurança das pessoas, tendo especialmente em conta:\n\ni) as características do produto, designadamente a sua composição, embalagem, instruções de montagem, e, se aplicável, de instalação e de conservação,\n\nii) os efeitos sobre outros produtos quando for razoavelmente previsível a utilização do primeiro com os segundos,\n\niii) a apresentação do produto, a sua rotulagem, as eventuais advertências e instruções de utilização e eliminação, bem como qualquer outra indicação ou informação relativa ao produto,\n\niv) as categorias de consumidores que se encontrem em condições de risco ao utilizar o produto, especialmente as crianças e os idosos.\n\nc) «Produto perigoso», um produto que não corresponda à definição de «produto seguro» na acepção da alínea b);\n\nd) «Risco grave», qualquer risco grave, incluindo os riscos cujos efeitos não sejam imediatos, que exija uma intervenção rápida das autoridades públicas;\n\ne) Produtor:\n\ni) o fabricante de um produto, quando se encontre estabelecido na Comunidade, ou qualquer pessoa que se apresente como tal ao apor no produto o seu nome, marca ou outro sinal distintivo, ou a pessoa que proceda à recuperação do produto,\n\nii) o representante do fabricante, quando este não se encontre estabelecido na Comunidade ou, na ausência de representante estabelecido na Comunidade, o importador do produto,\n\niii) os outros profissionais da cadeia de comercialização, na medida em que as respectivas actividades possam afectar as características de segurança de um produto;\n\nf) «Distribuidor», qualquer profissional da cadeia de comercialização cuja actividade não afecte as características de segurança do produto;\n\ng) «Recolha», qualquer medida destinada a obter o retorno de um produto perigoso que já tenha sido fornecido ou disponibilizado aos consumidores pelo respectivo produtor ou distribuidor;\n\nh) «Retirada», qualquer medida destinada a impedir a distribuição e a exposição de um produto perigoso bem como a sua oferta ao consumidor."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "692e5d536c4e3ab7": {
+   "fragment_id": "Obrigação geral de segurança, critérios de avaliação da conformidade e normas europeias",
+   "type": "divisao",
+   "heading": "Obrigação geral de segurança, critérios de avaliação da conformidade e normas europeias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Obrigação geral de segurança, critérios de avaliação da conformidade e normas europeias"
+  },
+  "6b57818e5afc0463": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os produtores só podem colocar no mercado produtos seguros.\n\n2. Um produto é considerado seguro, relativamente aos aspectos contemplados pela regulamentação nacional aplicável, quando, não existindo disposições comunitárias específicas que regulem a segurança do produto em causa, estiver em conformidade com as normas de saúde e segurança a que devem obedecer os produtos para poderem ser comercializados, fixadas na regulamentação nacional específica do Estado-Membro em cujo território é comercializado, estabelecida de harmonia com o Tratado, nomeadamente com os artigos 28.º e 30.º\n\nPresume-se que um produto é seguro, no que respeita aos riscos e categorias de riscos abrangidos pelas normas nacionais em causa, quando estiver em conformidade com as normas nacionais não obrigatórias que transponham normas europeias cujas referências tenham sido publicadas pela Comissão no *Jornal Oficial das Comunidades Europeias*, nos termos do artigo 4.º Os Estados-Membros devem publicar as referências de tais normas nacionais.\n\n3. Nas circunstâncias não contempladas no n.º 2, a conformidade de um produto com a obrigação geral de segurança é avaliada tendo em conta, nomeadamente, os seguintes elementos, sempre que existam:\n\na) As normas nacionais não obrigatórias que transponham normas europeias pertinentes não contempladas no n.º 2;\n\nb) As normas em vigor no Estado-Membro em que o produto é comercializado;\n\nc) As recomendações da Comissão que dão orientações em matéria de avaliação de segurança dos produtos;\n\nd) Os códigos de boa conduta em matéria de segurança dos produtos em vigor no sector em causa;\n\ne) O estado actual dos conhecimentos e da técnica;\n\nf) O nível de segurança com que os consumidores podem razoavelmente contar.\n\n4. A conformidade de um produto com os critérios que visam garantir a obrigação geral de segurança, em especial com as normas referidas nos n.^os^ 2 ou 3, não impede as autoridades competentes dos Estados-Membros de tomarem as medidas que se afigurem necessárias para impor restrições à sua comercialização ou ordenar a sua retirada do mercado ou a sua recolha se, não obstante essa conformidade, o produto se revelar perigoso."
+  },
+  "d573a81dd0911ce0": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Para efeitos da presente directiva, as normas europeias a que se refere o n.º 2, segundo parágrafo, do artigo 3.º são elaboradas da seguinte forma:\n\na) Os requisitos destinados a garantir que os produtos que cumprem essas normas satisfaçam a obrigação geral de segurança são fixados pela Comissão; estas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 4 do artigo 15.º;\n\nb) Com base nesses requisitos, e em conformidade com a Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação ([^7^](http://publications.europa.eu/resource/cellar/990fa74e-aee7-4fbb-aa58-02067cf03e31.0018.03/DOC_1#E0007)), a Comissão solicita aos organismos europeus de normalização que elaborem normas que satisfaçam esses requisitos.\n\nc) Com base nesses mandatos, os organismos europeus de normalização adoptarão tais normas em conformidade com os princípios enunciados nas orientações gerais para a cooperação entre a Comissão e esses organismos;\n\nd) A Comissão deve apresentar, de três em três anos, ao Parlamento Europeu e ao Conselho, no âmbito do relatório a que se refere o n.º 2 do artigo 19.º, um relatório sobre os seus programas para a definição dos requisitos e os mandatos de normalização previstos nas alíneas a) e b). O relatório deve incluir, designadamente, uma análise das decisões tomadas em matéria de requisitos e de mandatos de normalização referidos na alínea a) e em matéria de normas referidas na alínea c). O relatório deve incluir igualmente informações sobre os produtos relativamente aos quais a Comissão tenciona definir os requisitos e os mandatos em questão, sobre os riscos dos produtos a considerar e sobre os resultados dos trabalhos preparatórios encetados no domínio.\n\n2. A Comissão publicará no *Jornal Oficial das Comunidades Europeias* as referências das normas europeias assim adoptadas e elaboradas de acordo como os requisitos previstos no n.º 1.\n\nCaso uma norma adoptada pelos organismos europeus de normalização antes da entrada em vigor da presente directiva garanta a observância da obrigação geral de segurança, a Comissão determinará a publicação das respectivas referências no *Jornal Oficial das Comunidades Europeias*.\n\nCaso uma norma não garanta a observância da obrigação geral de segurança, a Comissão retirará das publicações, no todo ou em parte, a referência dessa norma.\n\nNos casos a que se referem o segundo e terceiro parágrafos do presente número, a Comissão, por sua iniciativa ou a pedido de um Estado-Membro, decidirá, nos termos do n.º 2 do artigo 15.º, se a norma em apreço se coaduna com a obrigação geral de segurança e determinará a respectiva publicação ou retirada após ter consultado o comité criado pelo artigo 5.º da Directiva 98/34/CE. A Comissão informará os Estados-Membros da decisão tomada."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "07e84f1b34cf932d": {
+   "fragment_id": "Outras obrigações dos produtores e dos distribuidores",
+   "type": "divisao",
+   "heading": "Outras obrigações dos produtores e dos distribuidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Outras obrigações dos produtores e dos distribuidores"
+  },
+  "201883394d4dfb46": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Nos limites das respectivas actividades, os produtores devem fornecer aos consumidores as informações pertinentes que lhes permitam avaliar os riscos inerentes a um produto durante a sua vida útil normal ou razoavelmente previsível, sempre que tais riscos não sejam imediatamente perceptíveis sem a devida advertência, e precaver-se contra esses riscos.\n\nA presença da referida advertência não isenta do cumprimento das outras obrigações previstas na presente directiva.\n\nNos limites das respectivas actividades, os produtores devem adoptar medidas proporcionadas às características dos produtos que fornecem, que lhes permitam:\n\na) Manter-se informados sobre os riscos que esses produtos possam apresentar; e\n\nb) Poder desencadear as acções que se revelarem adequadas, incluindo, se tal for necessário para evitar tais riscos, a retirada do mercado, a advertência dos consumidores em termos adequados e eficazes, ou a recolha dos produtos junto dos consumidores.\n\nAs medidas referidas no terceiro parágrafo devem incluir, por exemplo:\n\na) A indicação, no produto ou na respectiva embalagem, da identidade e do endereço do produtor, assim como as referências do produto ou, eventualmente, do lote de produtos a que pertence, excepto nos casos em que a omissão de tal indicação seja justificada; e\n\nb) Em todos os casos em que seja apropriado, a realização de testes por amostragem dos produtos comercializados, a análise das reclamações e, eventualmente, a manutenção de um registo das reclamações, bem como a informação dos distribuidores pelo produtor sobre o controlo desses produtos.\n\nAs acções referidas na alínea b) do terceiro parágrafo são empreendidas numa base voluntária ou a pedido das autoridades competentes nos termos do n.º 1, alínea f), do artigo 8.º A recolha dos produtos constitui o último recurso, quando outras acções não forem suficientes para prevenir os riscos incorridos, no caso de os produtores o considerarem necessário ou se a tal se virem obrigados na sequência de uma medida tomada pela autoridade competente. A recolha dos produtos pode ser executada no âmbito dos códigos de boa conduta nesta matéria, no Estado-Membro em causa, quando estes existam.\n\n2. Os distribuidores devem agir com diligência, por forma a contribuírem para o cumprimento das obrigações de segurança aplicáveis, designadamente não fornecendo produtos quando sabem ou deveriam ter presumido, com base nas informações de que dispunham e enquanto profissionais, que não satisfazem essas obrigações. Além disso, nos limites das respectivas actividades, devem participar no controlo da segurança dos produtos colocados no mercado, nomeadamente divulgando informações sobre os riscos dos produtos, mantendo e fornecendo a documentação necessária para rastrear a origem dos produtos e cooperando nas acções desenvolvidas pelos produtores e autoridades competentes tendentes a evitar esses riscos. Nos limites das respectivas actividades, devem tomar medidas que lhes permitam efectuar uma colaboração eficaz.\n\n3. Sempre que os produtores e os distribuidores saibam ou devam saber, com base nas informações de que dispõem enquanto profissionais, que um produto que colocaram no mercado apresenta riscos para o consumidor incompatíveis com a obrigação geral de segurança, devem de imediato informar desse facto as autoridades competentes dos Estados-Membros nas condições estabelecidas no anexo I, precisando nomeadamente as medidas que tomaram para prevenir os riscos para os consumidores.\n\nAs exigências específicas relativas a esta obrigação de informação, que constam do anexo I, serão adaptadas pela Comissão. Estas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 5 do artigo 15.º.\n\n4. Os produtores e os distribuidores devem, nos limites das respectivas actividades, colaborar com as autoridades competentes, a pedido destas, nas acções empreendidas com vista a evitar os riscos inerentes aos produtos que fornecem ou forneceram. As autoridades competentes definem os procedimentos a seguir nessa colaboração, nomeadamente em matéria de diálogo com os produtores e distribuidores em causa sobre questões relacionadas com a segurança dos produtos."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "eb163b6e6bc2ac9a": {
+   "fragment_id": "Deveres específicos e poderes dos Estados-Membros",
+   "type": "divisao",
+   "heading": "Deveres específicos e poderes dos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Deveres específicos e poderes dos Estados-Membros"
+  },
+  "88ab6d14b901086d": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Para efeitos da presente directiva, em especial do artigo 6, as autoridades competentes dos Estados-Membros dispõem dos poderes necessários para tomar, designadamente, as medidas constantes da alínea a) e das alíneas b) a f) do presente número sempre que necessário:\n\na) Em relação a qualquer produto:\n\ni) organizar as verificações que se impuserem quanto às características de segurança de um produto, a uma escala adequada e até à última fase de utilização ou de consumo, mesmo que determinado produto tenha sido comercializado como seguro,\n\nii) exigir às partes interessadas a prestação das informações necessárias,\n\niii) recolher amostras de produtos a fim de as submeter a testes de segurança;\n\nb) Em relação a qualquer produto susceptível de apresentar riscos em determinadas condições:\n\ni) exigir que o produto seja acompanhado das advertências adequadas, redigidas de forma clara e facilmente compreensível, sobre os riscos que possa apresentar, nas línguas oficiais do Estado-Membro em que for comercializado,\n\nii) sujeitar a colocação do produto no mercado a condições prévias destinadas a garantir a segurança desse produto;\n\nc) Em relação a qualquer produto susceptível de apresentar riscos para determinadas pessoas:\n\nordenar que essas pessoas sejam advertidas desse risco oportuna e correctamente, nomeadamente através da publicação de advertências especiais;\n\nd) Em relação a qualquer produto susceptível de ser perigoso:\n\nproibir temporariamente, durante o período necessário para efectuar os diferentes controlos, verificações ou avaliações de segurança, o fornecimento, a proposta de fornecimento ou a exposição do produto;\n\ne) Em relação a qualquer produto perigoso:\n\nproibir a sua colocação no mercado e definir as medidas de acompanhamento necessárias para garantir a observância dessa proibição;\n\nf) Em relação a qualquer produto perigoso já colocado no mercado:\n\ni) ordenar ou organizar a sua retirada efectiva e imediata e a advertência dos consumidores quanto aos riscos que comporta,\n\nii) ordenar ou coordenar ou, se necessário, organizar com os produtores e com os distribuidores a sua recolha junto dos consumidores e a sua destruição em condições adequadas.\n\n2. Quando as autoridades competentes dos Estados-Membros tomarem medidas do tipo das previstas no n.º 1, em especial as referidas nas alíneas d) a f), deverão agir, na observância do Tratado, designadamente dos artigos 28.º e 30.º, por forma a dar execução às medidas de forma proporcional à gravidade do risco e tendo em consideração o princípio da precaução.\n\nNo contexto dessas medidas, deverão incentivar e favorecer as iniciativas voluntárias dos produtores e distribuidores, em cumprimento da obrigação que lhes incumbe por força da presente directiva, em especial do seu capítulo III, inclusive através do eventual desenvolvimento de códigos de boa conduta.\n\nSe necessário, organizarão ou ordenarão as medidas previstas na alínea f) do n.º 1, caso a acção empreendida pelos produtores e distribuidores a título das respectivas obrigações seja insatisfatória ou insuficiente. A recolha constitui o último recurso. Poderá ser efectuada no âmbito dos códigos de boa conduta na matéria no Estado-Membro em questão, quando existam.\n\n3. No caso de os produtos apresentarem um risco grave, as autoridades competentes devem tomar com a devida rapidez as medidas adequadas mencionadas nas alíneas b) a f) do n.º 1. A existência de um risco grave é determinada e ponderada casuística e individualmente pelos Estados-Membros, tendo em conta as orientações a que se refere o ponto 8 do anexo II.\n\n4. As medidas a tomar pelas autoridades competentes por força do presente artigo dirigem-se, consoante os casos:\n\na) Ao produtor;\n\nb) Nos limites das respectivas actividades, aos distribuidores, e, em especial, ao responsável pela distribuição inicial no mercado nacional;\n\nc) Se necessário, a qualquer outra pessoa, tendo em vista a colaboração nas acções empreendidas para evitar os riscos derivados de um produto."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "0c1326ccb5c4e495": {
+   "fragment_id": "Trocas de informação e situações de intervenção rápida",
+   "type": "divisao",
+   "heading": "Trocas de informação e situações de intervenção rápida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Trocas de informação e situações de intervenção rápida"
+  },
+  "f4fd05cfca6fc250": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Sempre que um Estado-Membro adopte medidas que restrinjam a colocação no mercado de produtos ou imponham a sua retirada ou recolha do mercado, como as previstas no n.º 1, alíneas b) a f), do artigo 8.º, deverá notificar a Comissão dessas medidas, na medida em que tal notificação não esteja prevista no artigo 12.º ou em legislação comunitária específica, expondo as razões da sua adopção. Deverá ainda informar a Comissão da modificação ou levantamento de qualquer dessas medidas.\n\nSe o Estado-Membro notificante considerar que os efeitos do risco não transpõem ou não podem transpor o seu território, deverá proceder à notificação das medidas referidas no presente número na medida em que estas incluam informações susceptíveis de interessar os Estados-Membros do ponto de vista da segurança dos produtos, nomeadamente se constituírem uma resposta a um novo risco ainda não assinalado noutras notificações.\n\nNos termos do n.º 3 do artigo 15.º, a Comissão deverá elaborar as orientações a que se refere o ponto 8 do anexo II, procurando garantir a eficácia e o bom funcionamento do sistema. Essas orientações deverão propor o teor e o formulário-tipo para as notificações previstas no presente artigo, e, nomeadamente, critérios precisos para determinar as circunstâncias particulares em relação às quais a notificação é pertinente para efeitos do segundo parágrafo.\n\n2. A Comissão deverá transmitir a notificação aos outros Estados-Membros, a menos que conclua, após análise baseada nas informações contidas na notificação, que a medida não é compatível com o direito comunitário. Nesse caso, informará imediatamente o Estado-Membro que desencadeou a acção."
+  },
+  "5c0399247431daf2": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Sempre que um Estado-Membro adopte ou decida adoptar, recomendar ou acordar com produtores e distribuidores, a título voluntário ou compulsivo, medidas ou acções destinadas a impedir, limitar ou sujeitar a condições específicas a eventual comercialização ou utilização de produtos, no seu território, por motivo de risco grave, deverá notificar imediatamente a Comissão desse facto através do RAPEX. O Estado-Membro deverá igualmente informar a Comissão de qualquer modificação ou levantamento das medidas ou acções em questão.\n\nSe o Estado-Membro notificante considerar que os efeitos do risco não transpõem ou não podem transpor o seu território, deverá proceder em conformidade com as regras definidas no artigo 11.º, de acordo com os critérios pertinentes enunciados nas orientações a que se refere o ponto 8 do anexo II.\n\nSem prejuízo do primeiro parágrafo, os Estados-Membros podem, antes de decidirem tomar tais medidas ou empreender tais acções, comunicar à Comissão as informações de que disponham sobre a existência de um risco grave.\n\nCaso exista um risco grave, deverão comunicar à Comissão as medidas voluntárias, previstas no artigo 5.º da presente directiva, que tenham sido tomadas pelos produtores e distribuidores.\n\n2. Após recepção dessas notificações, a Comissão deverá verificar a sua conformidade com o presente artigo e com os requisitos aplicáveis ao funcionamento do RAPEX e transmiti-las-á aos outros Estados-Membros, que, por sua vez, comunicarão de imediato à Comissão as medidas que adoptarem.\n\n3. O anexo II descreve os procedimentos relativos ao RAPEX. Esses procedimentos serão adaptados pela Comissão. Estas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 5 do artigo 15.º.\n\n4. O acesso ao RAPEX é alargado aos países candidatos, a países terceiros ou a organizações internacionais, no contexto de acordos celebrados entre a Comunidade e esses países ou organizações internacionais, segundo regras definidas nesses mesmos acordos. Esses acordos devem sempre assentar no princípio da reciprocidade e incluir disposições em matéria de confidencialidade que sejam correspondentes às aplicáveis na Comunidade."
+  },
+  "d74400b6d26ec9c1": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Se a Comissão tiver conhecimento de que certos produtos comportam um risco grave para a saúde e a segurança dos consumidores em vários Estados-Membros, pode, depois de consultados os Estados-Membros e, caso surjam questões científicas que sejam da competência de um comité científico comunitário, o comité científico competente para o risco em questão, adoptar, à luz dos resultados dessas consultas, uma decisão nos termos do procedimento previsto no n.º 2 do artigo 15.º que imponha aos Estados-Membros a obrigação de tomarem medidas de entre as mencionadas no n.º 1, alíneas b) a f), do artigo 8.º, se simultaneamente:\n\na) Se concluir das consultas prévias com os Estados-Membros que existe uma divergência manifesta entre os Estados-Membros quanto à estratégia adoptada ou a adoptar para enfrentar o risco em questão; e\n\nb) Atendendo ao tipo de problema de segurança levantado pelo produto, o risco não puder ser tratado de maneira consentânea com o grau de urgência do caso, no quadro de outros procedimentos previstos na regulamentação comunitária específica aplicável aos produtos em questão; e\n\nc) O risco só puder ser eficazmente eliminado pela adopção de medidas adequadas aplicáveis a nível comunitário, por forma a assegurar um grau elevado e uniforme de protecção da saúde e segurança dos consumidores e o bom funcionamento do mercado interno.\n\n2. As decisões a que se refere o n.º 1 são válidas por um período não superior a um ano, podendo ser confirmadas, segundo o mesmo procedimento, por períodos adicionais nenhum dos quais poderá ser superior a um ano.\n\nPorém, as decisões respeitantes a produtos ou a lotes de produtos específicos, designados individualmente, serão válidas por um período indeterminado.\n\n3. É proibida a exportação da Comunidade de produtos perigosos que tenham sido objecto da decisão a que se refere o n.º 1, salvo se a decisão dispuser noutro sentido.\n\n4. Os Estados-Membros tomarão as medidas necessárias para dar execução às decisões referidas no n.º 1 num prazo inferior a 20 dias, a menos que as referidas decisões fixem um prazo diferente.\n\n5. As autoridades competentes encarregadas de aplicar as medidas referidas no n.º 1 darão às partes interessadas a possibilidade de apresentarem as suas observações no prazo de um mês, informando desse facto a Comissão."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "2abaf5eaa4547b72": {
+   "fragment_id": "Procedimentos de comité",
+   "type": "divisao",
+   "heading": "Procedimentos de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Procedimentos de comité"
+  },
+  "3d1271317105b61f": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. As medidas necessárias à execução da presente directiva relativas às matérias adiante indicadas são aprovadas pelo procedimento de regulamentação previsto no n.º 2 do artigo 15.º:\n\na) As medidas referidas no artigo 4.º relativas às normas adoptadas pelos organismos europeus de normalização;\n\nb) As decisões referidas no artigo 13.º, que impõem aos Estados-Membros a obrigação de tomar as medidas referidas no n.º 1, alíneas b) a f), do artigo 8.º\n\n2. As medidas necessárias à execução da presente directiva relativas a quaisquer outras matérias serão aprovadas pelo procedimento consultivo previsto no n.º 3 do artigo 15.º"
+  },
+  "2d7e5c3beb674071": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. A Comissão é assistida por um comité.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.º.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de 15 dias.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os artigos 3.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.º.\n\n4. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.º.\n\n5. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 e a alínea b) do n.º 5 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.º.\n\nOs prazos previstos na alínea c) do n.º 3 e nas alíneas b) e e) do n.º 4 do artigo 5.º-A da Decisão 1999/468/CE são de dois meses, um mês e dois meses, respectivamente."
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "bbdde795c58f027f": {
+   "fragment_id": "Disposições finais",
+   "type": "divisao",
+   "heading": "Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições finais"
+  },
+  "0cc0dd2892ff3798": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. A Comissão pode submeter à apreciação do comité previsto no artigo 15.º qualquer questão relativa à aplicação da presente directiva, em especial questões que digam respeito às actividades de fiscalização e vigilância do mercado.\n\n2. De três em três anos a partir de 15 de Janeiro de 2004, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação da presente directiva.\n\nO relatório comportará em especial informações sobre a segurança dos produtos de consumo, nomeadamente sobre a melhoria da rastreabilidade dos produtos, o funcionamento da vigilância do mercado, os trabalhos de normalização, o funcionamento do RAPEX e as medidas comunitárias tomadas com base no artigo 13.º Para o efeito, a Comissão procederá à avaliação das questões pertinentes, em especial das estratégias, sistemas e práticas em vigor nos Estados-Membros, tendo em conta as exigências da presente directiva e das outras disposições da legislação comunitária relativas à segurança dos produtos. Os Estados-Membros prestarão à Comissão toda a assistência e todas as informações necessárias para a condução dessas avaliações e elaboração dos relatórios."
+  },
+  "79b5e605a5dc3bba": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nA presente directiva entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "7f5cb5a573b1a793": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "069d1350de5a13be": {
+   "fragment_id": "OBRIGAÇÕES RELATIVAS ÀS INFORMAÇÕES A FORNECER ÀS AUTORIDADES COMPETENTES POR PRODUTORES E DISTRIBUIDORES SOBRE PRODUTOS NÃO CONFORMES COM A OBRIGAÇÃO GERAL DE SEGURANÇA",
+   "type": "divisao",
+   "heading": "OBRIGAÇÕES RELATIVAS ÀS INFORMAÇÕES A FORNECER ÀS AUTORIDADES COMPETENTES POR PRODUTORES E DISTRIBUIDORES SOBRE PRODUTOS NÃO CONFORMES COM A OBRIGAÇÃO GERAL DE SEGURANÇA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBRIGAÇÕES RELATIVAS ÀS INFORMAÇÕES A FORNECER ÀS AUTORIDADES COMPETENTES POR PRODUTORES E DISTRIBUIDORES SOBRE PRODUTOS NÃO CONFORMES COM A OBRIGAÇÃO GERAL DE SEGURANÇA\n\n1. As informações previstas no n.º 3 do artigo 5.º ou, se for caso disso, em preceitos específicos da regulamentação comunitária relativa ao produto em causa serão comunicadas às autoridades competentes designadas para esse efeito nos Estados-Membros em que os produtos em causa estejam ou tenham sido colocados no mercado ou de qualquer outra forma fornecidos aos consumidores.\n\n2. A Comissão, assistida pelo comité a que refere o artigo 15.º, deverá definir o conteúdo e elaborar o formulário-tipo das notificações previstas no presente anexo, procurando garantir a eficácia e o bom funcionamento do sistema. Deverá concretamente propor, eventualmente sob a forma de um guia, critérios simples e claros para determinar as condições específicas, designadamente as que se prendem com produtos ou circunstâncias isolados, em relação às quais a notificação não é pertinente à luz do presente anexo.\n\n3. Quando se trate de riscos graves, as informações a prestar compreenderão, no mínimo, os seguintes elementos:\n\na) Dados que permitam uma identificação precisa do produto ou do lote de produtos em questão;\n\nb) Uma descrição completa do risco que esses produtos comportem;\n\nc) Todas as informações disponíveis que sejam pertinentes para rastrear o produto;\n\nd) Uma descrição da acção empreendida a fim de prevenir riscos para os consumidores."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "f5c32fff710e6342": {
+   "fragment_id": "PROCEDIMENTOS PARA A APLICAÇÃO DO RAPEX E DAS ORIENTAÇÕES RELATIVAS ÀS NOTIFICAÇÕES",
+   "type": "divisao",
+   "heading": "PROCEDIMENTOS PARA A APLICAÇÃO DO RAPEX E DAS ORIENTAÇÕES RELATIVAS ÀS NOTIFICAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROCEDIMENTOS PARA A APLICAÇÃO DO RAPEX E DAS ORIENTAÇÕES RELATIVAS ÀS NOTIFICAÇÕES\n\n1. O sistema RAPEX abrange os produtos definidos na alínea a) do artigo 2.º da presente directiva que apresentem um risco grave para a saúde e a segurança dos consumidores. Estão excluídos do âmbito de aplicação do RAPEX os produtos farmacêuticos abrangidos pelas Directivas 75/319/CEE ([^8^](http://publications.europa.eu/resource/cellar/990fa74e-aee7-4fbb-aa58-02067cf03e31.0018.03/DOC_1#E0008)) e 81/851/CEE ([^9^](http://publications.europa.eu/resource/cellar/990fa74e-aee7-4fbb-aa58-02067cf03e31.0018.03/DOC_1#E0009)).\n\n2. O RAPEX tem essencialmente por objectivo uma troca rápida de informações em caso de existência de um risco grave. As orientações referidas no ponto 8 definem critérios específicos para a identificação dos riscos graves.\n\n3. Os Estados-Membros notificantes a título do artigo 12.º comunicarão todas as informações disponíveis. Em especial, a notificação deverá conter as informações mencionadas nas orientações referidas no ponto 8, e, no mínimo: a) Informações que possibilitem a identificação do produto; b) Uma descrição do risco em causa, incluindo um resumo dos resultados de quaisquer ensaios ou análises efectuados e das respectivas conclusões que permitam avaliar a importância do risco; c) A natureza e a duração das medidas tomadas ou das acções empreendidas ou das medidas ou acções decididas, se aplicável; d) Informações sobre as cadeias de comercialização e sobre a distribuição do produto, em especial sobre os países destinatários. Essas informações devem ser transmitidas por meio do formulário-tipo de notificação previsto para o efeito e segundo as regras especificadas nas orientações referidas no ponto 8. Quando a medida notificada nos termos dos artigos 11.º ou 12.º se destine a restringir a comercialização ou a utilização de uma substância ou preparação química, os Estados-Membros deverão fornecer logo que possível um resumo ou as referências dos dados pertinentes relativos a essa substância ou preparação e aos produtos de substituição disponíveis, se essas informações estiverem disponíveis. Os Estados-Membros comunicarão igualmente os efeitos que se prevê que a medida venha a ter para a saúde e a segurança dos consumidores, bem como a avaliação do risco efectuada de acordo com os princípios gerais de avaliação dos riscos das substâncias químicas previstos no n.º 4 do artigo 10.º do Regulamento (CEE) n.º 793/93 ([^10^](http://publications.europa.eu/resource/cellar/990fa74e-aee7-4fbb-aa58-02067cf03e31.0018.03/DOC_1#E0010)) no caso de uma substância existente, ou no n.º 2 do artigo 3.º da Directiva 67/548/CEE ([^11^](http://publications.europa.eu/resource/cellar/990fa74e-aee7-4fbb-aa58-02067cf03e31.0018.03/DOC_1#E0011)) caso se trate de uma nova substância. As orientações referidas no ponto 8 definirão os pormenores e os procedimentos para a prestação das informações exigidas a este respeito.\n\n4. Quando um Estado-Membro tiver informado a Comissão, em conformidade com o n.º 1, terceiro parágrafo, do artigo 12.º, da existência de um risco grave, antes de tomar a decisão de adoptar medidas, deverá indicar à Comissão, no prazo de 45 dias, se confirma ou se altera essas informações.\n\n5. A Comissão verificará, com a maior brevidade possível, a conformidade das disposições da directiva com as informações recebidas pelo RAPEX e poderá proceder a um inquérito por sua própria iniciativa se entender que tal é necessário para fins de avaliação da segurança do produto. Caso seja realizado um inquérito dessa natureza, os Estados-Membros deverão, na medida do possível, fornecer à Comissão todas as informações solicitadas.\n\n6. Após a recepção de uma notificação nos termos do artigo 12.º, os Estados-Membros devem prestar à Comissão, o mais tardar no prazo fixado nas orientações referidas no ponto 8, as seguintes informações: a) Se o produto está a ser comercializado no seu território; b) Que medidas serão eventualmente adoptadas em relação ao produto em questão, tendo em conta a sua situação específica, comunicando as razões, nomeadamente a diferente apreciação do risco ou quaisquer outras circunstâncias particulares que justifiquem a sua decisão, em particular a ausência de medidas ou de acompanhamento; c) Quaisquer informações complementares pertinentes que tenham obtido sobre o risco em causa, incluindo os resultados de ensaios ou de análises. As orientações referidas no ponto 8 propõem critérios precisos de notificação das medidas cujo alcance se limite ao território nacional e o tratamento a dar a essas notificações relativas aos riscos que o Estado-Membro notificante considera que não transpõem o seu território.\n\n7. Os Estados-Membros informarão imediatamente a Comissão de qualquer modificação ou do levantamento da ou das medidas ou acções em questão.\n\n8. As orientações relativas à gestão do RAPEX pela Comissão e pelos Estados-Membros serão elaboradas e regularmente actualizadas pela Comissão, nos termos do procedimento previsto no n.º 3 do artigo 15.º\n\n9. A Comissão pode informar os pontos de contacto nacionais sobre os produtos que comportam riscos graves, importados para a Comunidade e para o Espaço Económico Europeu ou deles exportados.\n\n10. O Estado-Membro notificante é responsável pelas informações fornecidas.\n\n11. Cabe à Comissão assegurar o bom funcionamento do sistema, procedendo nomeadamente a uma classificação e indexação das notificações consoante o grau de urgência. As regras deste procedimento serão estabelecidas nas orientações referidas no ponto 8."
+  },
+  "0c6ff7920773e895": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\n| Directiva | Prazo de transposição | Prazo de início da aplicação |\n| --- | --- | --- |\n| Directiva 92/59/CEE | 29 de Junho de 1994 | 29 de Junho de 1994 |"
+  },
+  "d1ae0fc54a01efe4": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV\n\nPresente directiva Directiva 92/59/CEE\n\nArtigo 1.º Artigo 1.º\n\nArtigo 2.º Artigo 2.º\n\nArtigo 3.º Artigo 4.º\n\nArtigo 4.º —\n\nArtigo 5.º Artigo 3.º\n\nArtigo 6.º Artigo 5.º\n\nArtigo 7.º Artigo 5.º, n.º 2\n\nArtigo 8.º Artigo 6.º\n\nArtigo 9.º —\n\nArtigo 10.º —\n\nArtigo 11.º Artigo 7.º\n\nArtigo 12.º Artigo 8.º\n\nArtigo 13.º Artigo 9.º\n\nArtigo 14.º + 15.º Artigo 10.º\n\nArtigo 16.º Artigo 12.º\n\nArtigo 17.º Artigo 13.º\n\nArtigo 18.º Artigo 14.º\n\nArtigo 19.º Artigo 15.º\n\nArtigo 20.º —\n\nArtigo 21.º Artigo 17.º\n\nArtigo 22.º Artigo 18.º\n\nArtigo 23.º Artigo 19.º\n\nAnexo I —\n\nAnexo II Anexo\n\nAnexo III —\n\nAnexo IV —\n\n---"
+  },
+  "ac6e08f447959574": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/990fa74e-aee7-4fbb-aa58-02067cf03e31.0018.03/DOC_1#src.E0001)) JO C 337 E de 28.11.2000, p. 109 e\n\n> JO C 154 E de 29.5.2000, p. 265.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/990fa74e-aee7-4fbb-aa58-02067cf03e31.0018.03/DOC_1#src.E0002)) JO C 367 de 20.12.2000, p. 34.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/990fa74e-aee7-4fbb-aa58-02067cf03e31.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 15 de Novembro de 2000 (JO C 223 de 8.8.2001, p. 154), posição comum do Conselho de 12 de Fevereiro de 2001 (JO C 93 de 23.3.2001, p. 24) e decisão do Parlamento Europeu de 16 de Maio de 2001 (ainda não publicada no Jornal Oficial). Decisão do Parlamento Europeu de 4 de Outubro de 2001 e decisão do Conselho de 27 de Setembro de 2001.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/990fa74e-aee7-4fbb-aa58-02067cf03e31.0018.03/DOC_1#src.E0004)) JO L 228 de 11.8.1992, p. 24.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/990fa74e-aee7-4fbb-aa58-02067cf03e31.0018.03/DOC_1#src.E0005)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/990fa74e-aee7-4fbb-aa58-02067cf03e31.0018.03/DOC_1#src.E0006)) JO L 210 de 7.8.1985, p. 29. Directiva alterada pela Directiva 1999/34/CE do Parlamento Europeu e do Conselho (JO L 141 de 4.6.1999, p. 20).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/990fa74e-aee7-4fbb-aa58-02067cf03e31.0018.03/DOC_1#src.E0007)) JO L 204 de 21.7.1998, p. 37. Directiva alterada pela Directiva 98//48/CE (JO L 217 de 5.8.1998, p. 18).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/990fa74e-aee7-4fbb-aa58-02067cf03e31.0018.03/DOC_1#src.E0008)) JO L 147 de 9.6.1975, p. 13. Directiva com a última redacção que lhe foi dada pela Directiva 2000/38/CE da Comissão (JO L 139 de 10.6.2000, p. 28).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/990fa74e-aee7-4fbb-aa58-02067cf03e31.0018.03/DOC_1#src.E0009)) JO L 317 de 6.11.1981, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2000/37/CE da Comissão (JO L 139 de 10.6.2000, p. 25).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/990fa74e-aee7-4fbb-aa58-02067cf03e31.0018.03/DOC_1#src.E0010)) JO L 84 de 5.4.1993, p. 1.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/990fa74e-aee7-4fbb-aa58-02067cf03e31.0018.03/DOC_1#src.E0011)) JO 196 de 16.8.1967, p. 1/67. Directiva com a última redacção que lhe foi dada pela Directiva 2000/33/CE da Comissão (JO L 136 de 8.6.2000, p. 90)."
+  }
+ }
+}

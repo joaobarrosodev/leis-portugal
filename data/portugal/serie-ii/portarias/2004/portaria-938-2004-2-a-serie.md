@@ -1,0 +1,109 @@
+---
+schema_version: '1.0'
+id: pt:dre:2482057:por
+title: Portaria n.º 938/2004 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Exército - Gabinete do Chefe do Estado-Maior do Exército
+proposing_entity: null
+official_number: 938/2004 (2.ª série)
+official_date: null
+publication_date: '2004-08-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 197/2004, Série II de 2004-08-21
+  number: '197'
+  series: II
+  supplement: null
+  pages: 12662 - 12662
+  pdf_url: https://files.diariodarepublica.pt/2s/2004/08/197000000/1266212662.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2482057'
+  dre_path: /dr/detalhe/portaria/938-2004-2482057
+  internal: pt:dre:2482057:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/938-2004-2482057
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/938-2004-2482057
+  consolidated_url: null
+  retrieved_at: '2026-10-23T16:49:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f0337fe2091be8a98e6e9d2997ebf5e74522ef216cda95f1bd4f876af614ed42
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:49:24Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:139922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446475:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T16:49:24Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 938/2004 (2.ª série)
+
+Portaria n.º 938/2004 (2.ª série). - Manda o Chefe do Estado-Maior do Exército reconduzir, nos termos das disposições conjugadas dos artigos 233.º, n.os 1 e 2, e 237, n.º 2, ambos do Código de Justiça Militar vigente, aprovado pelo [Decreto-Lei n.º 141/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1977-139922), de 9 de Abril, na titularidade do cargo de juiz presidente do 2.º Tribunal Militar Territorial do Porto, onde se manterá colocado, o COR INF NIM 06699568, Delfim Manuel Nunes Lobão.
+
+Inicia a comissão de serviço em 29 de Agosto de 2004 e termina-a, impreterivelmente, em 13 de Setembro de 2004, por força da entrada em vigor, em 14 de Setembro de 2004, da [Lei n.º 100/2003](https://diariodarepublica.pt/dr/detalhe/lei/100-2003-446475), de 15 de Novembro (diploma que aprova o novo Código de Justiça Militar - que vigorará também a partir de 14 de Setembro de 2004 - e revoga a legislação existente sobre a matéria), da [Lei n.º 101/2003](https://diariodarepublica.pt/dr/detalhe/lei/101-2003-446374), de 15 de Novembro (diploma que aprova o Estatuto dos Juízes Militares e dos Assessores Militares do Ministério Público) e da [Lei n.º 105/2003](https://diariodarepublica.pt/dr/detalhe/lei/105-2003-429400), de 10 de Dezembro [quarta alteração e republicação da [Lei n.º 3/99](https://diariodarepublica.pt/dr/detalhe/lei/3-1999-196220), de 13 de Janeiro (Lei de Organização e Funcionamento dos Tribunais Judiciais)].
+
+16 de Julho de 2004. - O Chefe do Estado-Maior do Exército, Luís Vasco Valença Pinto, general.

@@ -1,0 +1,82 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:239429:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1992-989745876",
+ "dre_path": "/dr/detalhe/portaria/881-1992-239429",
+ "source_lastmod": "2025-12-18",
+ "versions": [
+  {
+   "date": "1992-09-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "989734383"
+   ]
+  },
+  {
+   "date": "1992-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632005:por",
+     "title": "Declaração de Rectificação n.º 156/92",
+     "published": "1992-09-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/156-1992-632005"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma"
+   ],
+   "fragments": [
+    "989734383",
+    "989734378",
+    "989734379",
+    "989734380",
+    "989734377"
+   ]
+  }
+ ],
+ "fragments": {
+  "989734383": {
+   "fragment_id": "989745877",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1992-09-30",
+   "changed_by": [],
+   "markdown": "Portaria n.º 881/92\n\nde 11 de Setembro\n\nDe acordo com o disposto no n.º 1 do artigo 407.º do Estatuto dos Militares das Forças Armadas, aprovado pelo Decreto-Lei n.º 34-A/90, de 24 de Janeiro, com a redacção dada pela Lei n.º 27/91, de 17 de Julho, compete ao Ministro da Defesa Nacional fixar, por portaria, sob proposta do chefe do estado-maior do respectivo ramo, o período de duração inicial de serviço em regime de contrato.\n\nTendo presente as especificidades da Marinha e ouvido o Chefe do Estado-Maior da Armada:\n\nManda o Governo, pelo Ministro da Defesa Nacional, o seguinte:"
+  },
+  "989734378": {
+   "fragment_id": "989745879",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nA duração inicial do tempo de serviço em regime de contrato para os militares da Marinha que ingressaram nesta forma de prestação de serviço, dentro do efectivo máximo global de pessoal fixado na Portaria n.º 903/91, de 4 de Setembro, é a seguinte:\n\na) Um ano - oficiais;\n\nb) Dois anos - praças abrangidas pelo n.º 2.º da Portaria n.º 903/91, de 4 de Setembro;\n\nc) Um ano - praças não abrangidas pelo n.º 2.º da Portaria n.º 903/91, de 4 de Setembro."
+  },
+  "989734379": {
+   "fragment_id": "989745880",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nA duração inicial do tempo de serviço em regime de contrato para os militares da Marinha que ingressam nesta forma de prestação de serviço, dentro do efectivo máximo global de pessoal fixado na Portaria n.º 110/92, de 22 de Fevereiro, e que se destinam ao desempenho de funções no âmbito das que incumbem aos militares dos quadros permanentes, é a seguinte:\n\na) 3 anos - oficiais;\n\nb) 30 meses - praças."
+  },
+  "989734380": {
+   "fragment_id": "989745881",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nPara os militares que ingressam no regime de contrato dentro do efectivo máximo global de pessoal fixado na Portaria n.º 110/92, de 22 de Fevereiro, e que se destinam ao desempenho de funções no âmbito das que incumbem aos militares em serviço efectivo normal, a duração inicial daquela forma de prestação de serviço é estipulada no n.º 6.º daquela portaria."
+  },
+  "989734377": {
+   "fragment_id": "989745878",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério da Defesa Nacional.\n\nAssinada em 29 de Julho de 1992.\n\nPelo Ministro da Defesa Nacional, António Jorge de Figueiredo Lopes, Secretário de Estado da Defesa Nacional."
+  }
+ }
+}

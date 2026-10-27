@@ -1,0 +1,499 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:546068:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-869422411",
+ "dre_path": "/dr/detalhe/decreto-lei/224-2006-546068",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-11-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "869246273",
+    "869246274",
+    "869571175",
+    "869571176",
+    "869571177",
+    "869571178",
+    "869571179",
+    "869571180",
+    "869571181",
+    "869571182",
+    "869571183",
+    "869571184",
+    "869571185",
+    "869571186",
+    "869571187",
+    "869571188",
+    "869571189",
+    "869571190",
+    "869571191",
+    "869571192",
+    "869571193",
+    "869571194",
+    "869571195",
+    "869571196",
+    "869571197",
+    "869571198",
+    "869571200"
+   ]
+  },
+  {
+   "date": "2007-01-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:522638:por",
+     "title": "Decreto-Lei n.º 15/2007",
+     "published": "2007-01-19",
+     "dre_path": "/dr/detalhe/decreto-lei/15-2007-522638"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º"
+   ],
+   "fragments": [
+    "869246273",
+    "869246274",
+    "869571238",
+    "869571176",
+    "869571177",
+    "869571239",
+    "869571240",
+    "869571241",
+    "869571242",
+    "869571182",
+    "869571183",
+    "869571184",
+    "869571185",
+    "869571186",
+    "869571187",
+    "869571188",
+    "869571189",
+    "869571190",
+    "869571191",
+    "869571192",
+    "869571193",
+    "869571194",
+    "869571195",
+    "869571196",
+    "869571197",
+    "869571198",
+    "869571199",
+    "869571200"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:456536:por",
+     "title": "Decreto-Lei n.º 124/2008",
+     "published": "2008-07-15",
+     "dre_path": "/dr/detalhe/decreto-lei/124-2008-456536",
+     "date": "2007-07-16"
+    }
+   ]
+  },
+  {
+   "date": "2008-07-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:456536:por",
+     "title": "Decreto-Lei n.º 124/2008",
+     "published": "2008-07-15",
+     "dre_path": "/dr/detalhe/decreto-lei/124-2008-456536"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "869246273",
+    "869246274",
+    "869571243",
+    "869571176",
+    "869571177",
+    "869571239",
+    "869571240",
+    "869571241",
+    "869571242",
+    "869571182",
+    "869571249",
+    "869571244",
+    "869571245",
+    "869571186",
+    "869571187",
+    "869571246",
+    "869571189",
+    "869571190",
+    "869571247",
+    "869571248",
+    "869571193",
+    "869571194",
+    "869571195",
+    "869571196",
+    "869571197",
+    "869571198",
+    "869571199",
+    "869571200"
+   ]
+  }
+ ],
+ "fragments": {
+  "869246273": {
+   "fragment_id": "869422412",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 224/2006\n\nde 13 de Novembro\n\nDe acordo com o regime constante do artigo 81.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de Abril, os docentes portadores de doença ou incapacidade que afecte directamente o exercício das suas funções podem beneficiar de dispensa da componente lectiva, com vista a permitir uma melhor recuperação das condições físicas e psíquicas adequadas ao exercício da profissão docente.\n\nAs alterações entretanto conferidas pelo Decreto-Lei n.º 121/2005, de 26 de Julho, ao invocado diploma legal apontam, por seu turno, para a redução do período de tempo máximo de recuperação do docente incapacitado ou diminuído para o cumprimento das suas funções, enquanto condição limite para a fruição da dispensa da componente lectiva, priorizando antes a aplicação de medidas de requalificação profissional do docente, da iniciativa da Administração, com vista a reforçar o aproveitamento racional destes recursos.\n\nA avaliação já realizada no período de tempo entretanto transcorrido dita, contudo, a necessidade de aperfeiçoar e consolidar os mecanismos de natureza substantiva e procedimental já assumidos no quadro legal vigente, seja em matéria de concessão da dispensa da componente lectiva seja ainda em prol da reabilitação profissional do pessoal docente que se encontre em situação de incapacidade funcional efectiva.\n\nAs alterações que o Governo agora aprova retomam as opções legais já em vigor através da fixação de um novo regime legal que enquadra, de forma sistematizada, os termos em que os docentes podem beneficiar da concessão da dispensa da componente lectiva do seu trabalho normal na escola, procurando clarificar e aperfeiçoar as condições de apresentação à junta médica para certificação da situação clínica, assim como a situação funcional do próprio docente que usufrua de tal dispensa.\n\nA par disso, o novo regime modela e aprofunda a aplicação dos mecanismos de reclassificação ou de reconversão profissional para diferente carreira e categoria relativamente aos docentes considerados incapazes para o exercício da sua função mas aptos ao desempenho de outras, criando condições para a sua reafectação, de modo célere e eficiente, em contexto funcional compatível com o pleno aproveitamento e valorização das capacidades e qualificações individuais demonstradas pela sua situação clínica e as necessidades reais dos serviços.\n\nNeste sentido, é concebido um processo de reclassificação ou reconversão profissional que se desenvolve pelo período máximo de três meses - período que se considera razoável à avaliação da oportunidade e adequação do perfil do docente, tendo presente o relatório da junta médica, as habilitações literárias e as qualificações profissionais detidas, assim como o interesse e a conveniência do serviço de destino.\n\nEsgotada a possibilidade de promover a reclassificação ou reconversão profissional do docente dentro de limite temporal considerado razoável - seja por recusa de opção ou de colocação do próprio, quer ainda por falta de interesse do serviço da preferência -, o novo diploma acomoda outras soluções de carácter inovador que não pressupõem a continuidade da actividade laboral, evitando que se perpetue no tempo uma situação de desajustamento funcional, tão irracional quanto injusta, perante as necessidades próprias do posto de trabalho em que o docente foi inicialmente investido.\n\nForam observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.\n\nAssim:\n\nNo desenvolvimento da Lei n.º 46/86, de 14 de Outubro, alterada pelas Leis n.os 115/97, de 19 de Setembro, e 49/2005, de 30 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "869246274": {
+   "fragment_id": "869422413",
+   "type": 1,
+   "heading": "Capítulo I — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objecto e âmbito"
+  },
+  "869571175": {
+   "fragment_id": "869422414",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei estabelece o regime de concessão de dispensa do cumprimento da componente lectiva ao pessoal docente em funções nos estabelecimentos públicos de educação pré-escolar e dos ensinos básico e secundário.\n\n2 - O presente decreto-lei define ainda o regime de reclassificação e de reconversão profissionais do docente que for declarado incapaz para o exercício da sua actividade profissional mas apto para o desempenho de outras."
+  },
+  "869571176": {
+   "fragment_id": "869422415",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente decreto-lei aplica-se aos docentes com nomeação definitiva em lugar dos quadros de escola ou de zona pedagógica."
+  },
+  "869571177": {
+   "fragment_id": "869422416",
+   "type": 1,
+   "heading": "Capítulo II — Dispensa da componente lectiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Dispensa da componente lectiva"
+  },
+  "869571178": {
+   "fragment_id": "869422417",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições\n\n1 - O docente abrangido pelo presente decreto-lei pode ser, por decisão da junta médica regional do Ministério da Educação, adiante designada por junta médica, total ou parcialmente dispensado do cumprimento da componente lectiva do seu horário de trabalho quando se verifiquem, cumulativamente, as seguintes condições:\n\na) O docente ser portador de doença que afecte directamente o exercício da função docente;\n\nb) Ser a doença resultado do exercício da função docente ou ser por estas funções agravada;\n\nc) Estar o docente apto a desempenhar tarefas compatíveis em estabelecimento de educação ou de ensino;\n\nd) Ser possível a recuperação para o cumprimento integral do exercício de funções docentes no prazo máximo de 18 meses.\n\n2 - Para efeitos do disposto na alínea a) do número anterior, entende-se por doença a situação clínica que impede o normal desempenho da função docente, devidamente comprovada pela junta médica.\n\n3 - Para efeitos do disposto nas alíneas b) e c) do n.º 1, exige-se que:\n\na) Seja estabelecido um nexo causal entre a doença e o exercício da função lectiva ou que esta determine, de forma inequívoca, o agravamento da situação clínica do docente;\n\nb) A situação clínica do docente não seja impeditiva do desempenho de tarefas de responsabilidade, autonomia ou complexidade equivalentes às anteriormente desempenhadas ao nível do estabelecimento de educação ou de ensino, designadamente as que se referem no n.º 3 do artigo 82.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de Abril, adiante designado por ECD.\n\n4 - A possibilidade do desempenho de tarefas de responsabilidade, autonomia ou complexidade equivalentes às anteriormente desempenhadas ao nível do estabelecimento de educação ou de ensino, bem como a possibilidade de recuperação dentro do prazo máximo de 18 meses, deve constar expressamente do relatório da primeira junta médica a que o docente se apresentar.\n\n5 - Os educadores de infância e os professores do 1.º ciclo do ensino básico em regime de monodocência apenas podem ser totalmente dispensados do cumprimento da componente lectiva."
+  },
+  "869571179": {
+   "fragment_id": "869422418",
+   "type": 11,
+   "heading": "Artigo 4.º — Iniciativa do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Iniciativa do procedimento\n\n1 - A apresentação à junta médica pode ocorrer:\n\na) Por iniciativa do docente, mediante requerimento dirigido ao director regional de educação respectivo, até 15 de Abril do ano escolar anterior ao que respeita;\n\nb) Por decisão do órgão de direcção executiva do respectivo estabelecimento de educação ou de ensino, quando se verifiquem indícios de doença ou de outra manifestação clínica, de natureza física ou psíquica, que comprometa o normal ou regular desempenho das funções lectivas atribuídas, caso em que a mesma se considera de manifesta urgência.\n\n2 - O requerimento a que se refere a alínea a) do número anterior é acompanhado de declaração médica relativamente ao disposto nos n.os 2 e 3 do artigo anterior."
+  },
+  "869571180": {
+   "fragment_id": "869422419",
+   "type": 11,
+   "heading": "Artigo 5.º — Apresentação à junta médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Apresentação à junta médica\n\n1 - O docente está obrigado, nos prazos fixados pela junta médica, a:\n\na) Apresentar-se com os elementos solicitados;\n\nb) Submeter-se aos exames clínicos que aquela considerar indispensáveis, que são integralmente suportados pela ADSE.\n\n2 - O processo do docente é submetido à apreciação da junta médica, acompanhado dos seguintes documentos:\n\na) Registo biográfico;\n\nb) Boletim de faltas;\n\nc) Documentação clínica constante do processo individual do docente;\n\nd) Parecer do órgão de direcção executiva do estabelecimento de educação ou de ensino onde o docente presta serviço, caso a iniciativa tenha pertencido ao docente, do qual conste proposta de funções docentes a desempenhar por referência a uma lista de funções cujo modelo consta do anexo ao presente decreto-lei e deste faz parte integrante.\n\n3 - O docente obrigado a apresentar-se à junta médica e que a ela não compareça é considerado na situação de faltas injustificadas a partir da data em que a mesma deveria realizar-se, salvo se a não comparência for fundamentada em motivo atendível devidamente reconhecido por decisão do director regional de educação respectivo.\n\n4 - O docente que, nos termos dos números anteriores, deva ser submetido à junta médica não pode apresentar-se ao serviço lectivo antes que tal se tenha verificado.\n\n5 - A junta médica, ao pronunciar-se sobre a situação do docente que lhe seja presente, elabora relatório escrito, fundamentado na observância clínica presencial e em exame do processo, do qual consta, consoante os casos, a seguinte menção:\n\na) Duração previsível da doença e data em que deve apresentar-se a novo exame;\n\nb) Avaliação da capacidade ou incapacidade do docente para o trabalho e, em particular, para o desempenho das funções docentes habitualmente atribuídas;\n\nc) Identificação detalhada do tipo de tarefas que não podem ser desempenhadas pelo docente em razão da incapacidade, tendo por referência a lista de funções docentes preenchida e apresentada pelo órgão de direcção executiva da escola nos termos da alínea d) do n.º 2;\n\nd) Indicação da capacidade do docente para o desempenho de outras tarefas ao nível do estabelecimento de educação ou de ensino, com menção de eventuais limitações funcionais face à sua situação de saúde, tendo por base a lista descritiva de funções a que se refere a alínea anterior.\n\n6 - Quando não se verifiquem as condições a que se refere o artigo 3.º ou o docente não use da faculdade de requerer a concessão da dispensa da componente lectiva, a junta médica pronuncia-se nos termos previstos no artigo 42.º do Decreto-Lei n.º 100/99, de 31 de Março.\n\n7 - Sempre que se revele necessário, a junta médica pode requerer a colaboração de médicos especialistas ou recorrer aos serviços de especialidade médica dos estabelecimentos públicos de saúde, nos termos do n.º 4 do artigo 40.º do Decreto-Lei n.º 100/99, de 31 de Março, e do n.º 1 do artigo 4.º do Decreto Regulamentar n.º 41/90, de 29 de Novembro, sendo os correspondentes encargos suportados pela ADSE."
+  },
+  "869571181": {
+   "fragment_id": "869422420",
+   "type": 11,
+   "heading": "Artigo 6.º — Concessão da dispensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Concessão da dispensa\n\n1 - A junta médica pode autorizar a dispensa total ou parcial da componente lectiva por período nunca superior a seis meses, que não pode exceder o da apresentação a nova junta médica para confirmação da dispensa ou passagem à situação de cumprimento integral da componente lectiva.\n\n2 - Os docentes total ou parcialmente dispensados da componente lectiva são, no termo do período para o qual foram dispensados, presentes à junta médica para novo período de dispensa ou passagem à situação de cumprimento, parcial ou integral, da componente lectiva, consoante os casos.\n\n3 - Decorrido o prazo de 18 meses seguidos ou interpolados na situação de dispensa da componente lectiva, o docente é presente à junta médica para efeitos de verificação da aptidão ou a declaração de incapacidade para o exercício de funções docentes.\n\n4 - Em caso de manifestação de vontade pelo docente de regresso às funções lectivas, acompanhada de atestado médico, é suspensa a contagem do prazo de 18 meses previsto no número anterior até à sua apresentação a junta médica para reapreciação da dispensa anteriormente concedida desde que esta confirme que o docente está em condições de regressar às funções lectivas e que tenham decorrido, pelo menos, dois meses entre essa manifestação de vontade e a anterior apresentação a junta médica.\n\n5 - Ao órgão de direcção executiva do respectivo estabelecimento de educação ou de ensino cabe a iniciativa da apresentação à junta médica prevista nos números anteriores.\n\n6 - Quando a junta médica se pronunciar pela incapacidade para o exercício de funções docentes deve obrigatoriamente declarar se o docente se encontra apto a desempenhar outras funções ou não.\n\n7 - A decisão da junta médica a que se referem os números anteriores é comunicada, por escrito, ao docente, que dela pode recorrer para o Ministro da Educação no prazo de 10 dias úteis a contar do conhecimento da decisão."
+  },
+  "869571182": {
+   "fragment_id": "869422421",
+   "type": 11,
+   "heading": "Artigo 7.º — Situação funcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Situação funcional\n\n1 - Durante a situação de dispensa, total ou parcial, da componente lectiva são atribuídas ao docente funções compatíveis com a sua situação clínica e em conformidade com o relatório da junta médica, designadamente as que se referem no n.º 3 do artigo 82.º do ECD.\n\n2 - A componente lectiva dos docentes com dispensa parcial não pode ser inferior à que for fixada por decisão da junta médica, salvo nas situações em que tal se manifeste necessário para o preenchimento do horário semanal do docente, em função da carga horária lectiva da disciplina que ministra, por decisão fundamentada do órgão de direcção executiva do estabelecimento de educação ou de ensino.\n\n3 - A dispensa parcial da componente lectiva faz-se por horas semanais e por referência à componente lectiva a que o docente estaria obrigado nos termos do artigo 77.º do ECD.\n\n4 - O total das horas que correspondem à dispensa parcial da componente lectiva considera-se componente não lectiva para a prestação de trabalho ao nível do estabelecimento de educação ou de ensino, nos termos do n.º 3 do artigo 82.º do ECD.\n\n5 - A dispensa total do cumprimento da componente lectiva não prejudica a obrigatoriedade de o docente ter um horário de trinta e cinco horas semanais de trabalho ao nível do estabelecimento de educação ou de ensino, sem prejuízo da faculdade de recurso aos regimes de trabalho a tempo parcial previstos no artigo 85.º do ECD, no artigo 11.º do Decreto-Lei n.º 259/98, de 18 de Agosto, e ainda nos Decretos-Leis n.os 324/99 e 325/99, ambos de 18 de Agosto, relativamente aos docentes que não se encontrem em regime de monodocência.\n\n6 - O docente dispensado total ou parcialmente da componente lectiva não pode exercer serviço docente extraordinário."
+  },
+  "869571183": {
+   "fragment_id": "869422422",
+   "type": 1,
+   "heading": "Capítulo III — Reclassificação e reconversão profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Reclassificação e reconversão profissionais"
+  },
+  "869571184": {
+   "fragment_id": "869422423",
+   "type": 11,
+   "heading": "Artigo 8.º — Incapacidade para o exercício de funções docentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Incapacidade para o exercício de funções docentes\n\n1 - O docente que for considerado pela junta médica incapaz para o exercício de funções docentes, mas apto para o desempenho de outras, é submetido a um processo de reclassificação ou de reconversão profissionais para diferente carreira ou categoria.\n\n2 - Exceptuam-se do disposto no número anterior os docentes portadores de doença incapacitante a fixar por despacho conjunto dos membros do Governo responsáveis pelas áreas da saúde, da educação e da Administração Pública, caso em que aqueles se mantêm afectos à escola e no exercício das funções que lhe sejam cometidas nos termos do artigo 10.º, salvo se requererem a reconversão ou reclassificação profissional nos termos da lei geral.\n\n3 - No procedimento de reclassificação ou reconversão profissionais a que se refere o n.º 1 são tidos em consideração:\n\na) O relatório da junta médica;\n\nb) As habilitações literárias e as qualificações profissionais detidas pelo docente;\n\nc) As aptidões do docente relativamente à área funcional de inserção da nova carreira ou categoria;\n\nd) O interesse e a conveniência do serviço onde opera a reclassificação ou reconversão profissionais.\n\n4 - Os docentes que não sejam detentores de licenciatura ou grau equivalente podem ser objecto de reconversão profissional para carreira ou categoria cujo ingresso exija este requisito habilitacional, sem prejuízo da verificação dos requisitos a que se refere o número anterior.\n\n5 - Fica condicionada ao acordo do interessado a reclassificação ou reconversão profissional que:\n\na) Implique a integração em lugar de carreira ou categoria para cujo ingresso seja exigível habilitação académica inferior à detida pelo interessado;\n\nb) Se faça para lugar situado fora da área do município de residência."
+  },
+  "869571185": {
+   "fragment_id": "869422424",
+   "type": 11,
+   "heading": "Artigo 9.º — Procedimento administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Procedimento administrativo\n\n1 - O procedimento administrativo que conduz à reclassificação ou reconversão profissional do docente é desencadeado pelo órgão de direcção executiva da escola a que o mesmo pertença ou tenha obtido colocação, no prazo de 10 dias úteis a contar da decisão definitiva da junta médica, e compreende as seguintes fases sequenciais:\n\na) Fase de manifestação de preferências;\n\nb) Fase de avaliação da necessidade ou interesse.\n\n2 - Na fase a que se refere a alínea a) do número anterior, o docente declarado incapaz para o exercício de funções docentes é convidado a manifestar preferências para o desempenho de funções não docentes, por carreira ou categoria, serviço ou organismo público e respectiva localização geográfica, através de formulário próprio, pelo prazo de 15 dias úteis a contar da sua notificação pela escola.\n\n3 - Após a manifestação de preferências, a direcção regional de educação respectiva providencia a remessa de cópia do formulário e demais documentos comprovativos ao serviço ou organismo da preferência para efeitos de avaliação do interesse da reclassificação ou reconversão pretendida face às necessidades de preenchimento de lugares do quadro.\n\n4 - O serviço ou organismo da preferência pronuncia-se nos termos do número anterior no prazo de 30 dias úteis, após o que se considera que não existe interesse na preferência manifestada.\n\n5 - Quando haja decisão de um serviço ou organismo favorável à reclassificação ou reconversão profissional do docente e seja exigido o acordo deste nos termos do n.º 5 do artigo 8.º, o docente pronuncia-se no prazo de 20 dias úteis a contar da sua notificação pela escola.\n\n6 - Em caso de falta de interesse do serviço ou organismo da preferência ou no caso de o docente não ter formulado opção de preferência, a direcção regional de educação promove a sua inclusão na lista de divulgação dos docentes disponíveis para reclassificação ou reconversão profissional, através da Internet, no respectivo site, bem como na bolsa de emprego público (BEP) da Direcção-Geral da Administração Pública.\n\n7 - A informação disponibilizada pela direcção regional de educação nos termos dos números anteriores deve mencionar as habilitações literárias e profissionais possuídas pelo docente, o nível funcional, a carreira, o escalão, o índice de vencimento, a experiência profissional e o município de residência.\n\n8 - A direcção regional de educação pode tomar a iniciativa de propor medidas ou acções de alcance sectorial ou interdepartamental, incluindo acordos ou protocolos, com outros serviços e organismos da Administração Pública interessados no recrutamento e selecção do efectivo disponível para reclassificação ou reconversão profissional.\n\n9 - Decorridos 90 dias sobre a divulgação do nome do docente na lista prevista no n.º 6, sem que qualquer serviço ou organismo se manifeste favorável à sua reclassificação ou reconversão profissional, é aplicável o regime previsto no capítulo IV.\n\n10 - O procedimento extingue-se se, no seu decurso, o docente:\n\na) Reiniciar o exercício de funções em nova carreira ou categoria, no mesmo ou em diferente serviço público;\n\nb) Passar à situação de licença sem vencimento de longa duração;\n\nc) Se aposentar.\n\n> Nota: [Artigo 6.º, Decreto-Lei n.º 124/2008 - Diário da República n.º 135/2008, Série I de 2008-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2008-456536) Aos procedimentos administrativos previstos no presente artigo, que se encontrem pendentes nesta data, aplicam-se as regras que constavam daquele diploma legal antes da entrada em vigor do presente decreto-lei, salvo se o docente, no decurso desse procedimento, optar por requerer a sua colocação em situação de mobilidade especial, aplicando-se, nesse caso, as novas regras, relativamente a tal pretensão, previstas no Decreto-Lei n.º 124/2008, de 15 de julho. No caso dos docentes que, a partir de 16 de julho de 2008 se encontrem, ou se venham a encontrar, na situação contemplada no n.º 9 do artigo 9.º do preente decreto-lei, aplicam-se as novas regras introduzidas no artigo 14.º"
+  },
+  "869571186": {
+   "fragment_id": "869422425",
+   "type": 11,
+   "heading": "Artigo 10.º — Situação funcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Situação funcional\n\nAté à integração em novo lugar por reclassificação ou reconversão profissional ou a passagem a outra situação jurídica prevista no presente decreto-lei, o docente que se encontre na situação de incapacidade para o exercício de funções docentes desempenha a actividade não docente que lhe for indicada pelo órgão de direcção executiva do respectivo estabelecimento de educação ou ensino, de acordo com as condições assinaladas pela junta médica e em conformidade com as suas capacidades e habilitações profissionais."
+  },
+  "869571187": {
+   "fragment_id": "869422426",
+   "type": 11,
+   "heading": "Artigo 11.º — Formação para reconversão profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Formação para reconversão profissional\n\nAs acções de formação profissional que, por indicação do serviço interessado, forem consideradas necessárias à reconversão profissional do docente são fixadas, em cada caso, por despacho conjunto dos membros do Governo responsáveis pelas áreas da educação, pela área da Administração Pública e por aquele serviço."
+  },
+  "869571188": {
+   "fragment_id": "869422427",
+   "type": 11,
+   "heading": "Artigo 12.º — Integração em novo lugar e carreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Integração em novo lugar e carreira\n\n1 - O docente que seja objecto de reclassificação ou reconversão profissional é nomeado em comissão de serviço extraordinária, pelo período de seis meses, para o exercício das funções correspondentes à nova carreira ou pelo período legalmente fixado para o estágio de ingresso, se este for superior.\n\n2 - Durante o referido período, o docente é remunerado pelo vencimento correspondente à categoria da nova carreira, sem prejuízo da possibilidade de opção pela remuneração de origem, nos termos do artigo 7.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro.\n\n3 - Findo o período previsto no número anterior, se revelar aptidão para o lugar, o docente é nomeado definitivamente em lugar do quadro do serviço ou organismo onde opera a reclassificação ou reconversão profissional, que, caso não exista vaga para o efeito, se considera automaticamente criado a extinguir quando vagar.\n\n4 - A nomeação definitiva em lugar da nova carreira ou categoria é objecto de despacho conjunto do director regional de educação respectivo e do dirigente máximo do serviço integrador, a publicar no Diário da República.\n\n5 - Quando não houver lugar à integração em nova carreira ou categoria por falta de aptidão ou de aproveitamento em curso de formação profissional, bem como no caso de falta do acordo previsto no n.º 5 do artigo 8.º, o docente regressa à situação funcional prevista no artigo 10.º para efeitos de novo processo de reclassificação ou reconversão profissional ou opta pelo regime previsto no capítulo IV.\n\n6 - Nos casos de falta de aptidão para a nova carreira ou falta de aproveitamento em curso de formação profissional, o direito de opção por novo processo de reclassificação ou reconversão profissional, previsto no número anterior, pode ser exercido uma única vez."
+  },
+  "869571189": {
+   "fragment_id": "869422428",
+   "type": 11,
+   "heading": "Artigo 13.º — Determinação da nova categoria e remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Determinação da nova categoria e remuneração\n\n1 - A reclassificação ou reconversão profissional efectua-se para a categoria menos elevada da nova carreira que integre o escalão a que corresponda remuneração base igual, ou, na falta de coincidência, remuneração superior mais aproximada da que o docente detém.\n\n2 - Quando a reclassificação ou reconversão profissional só possa efectuar-se para categoria ou carreira com desenvolvimento indiciário inferior ao da categoria de origem, pode manter-se, por opção do trabalhador, a remuneração relativa à posição indiciária já adquirida, até que à categoria ou carreira de destino corresponda remuneração superior a esta."
+  },
+  "869571190": {
+   "fragment_id": "869422429",
+   "type": 1,
+   "heading": "Capítulo IV — Passagem à aposentação e licença sem vencimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Passagem à aposentação e licença sem vencimento"
+  },
+  "869571191": {
+   "fragment_id": "869422430",
+   "type": 11,
+   "heading": "Artigo 14.º — Aposentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Aposentação\n\n1 - O docente declarado incapaz para o exercício de funções docentes cuja reclassificação ou reconversão profissional não tiver sido promovida por força do disposto no n.º 9 do artigo 9.º, dos n.os 5 e 6 do artigo 12.º ou por motivo de recusa de colocação que não careça do seu acordo, requer, no prazo de 20 dias e através da respectiva direcção regional de educação, a sua apresentação à junta médica da Caixa Geral de Aposentações, verificados que sejam os requisitos mínimos de tempo de serviço legalmente exigidos.\n\n2 - O docente que não requerer, no prazo previsto no número anterior, a sua apresentação à junta médica da Caixa Geral de Aposentações passa automaticamente à situação de licença sem vencimento de longa duração.\n\n3 - O docente que não reunir os requisitos mínimos de tempo de serviço para aposentação mantém-se no exercício de funções, nos termos do artigo 10.º, até à obtenção dos mesmos.\n\n4 - Ao docente abrangido pelo presente artigo são aplicáveis, com as devidas adaptações, o disposto nos n.os 6 e 8 do artigo 47.º do Decreto-Lei n.º 100/99, de 31 de Março."
+  },
+  "869571192": {
+   "fragment_id": "869422431",
+   "type": 11,
+   "heading": "Artigo 15.º — Licença sem vencimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Licença sem vencimento\n\n1 - O docente na situação de dispensa da componente lectiva ou declarado incapaz para o exercício de funções docentes pode requerer, a todo o tempo, o gozo de licença sem vencimento de longa duração, nos termos da lei geral.\n\n2 - O gozo de licença sem vencimento é autorizado, independentemente do cumprimento do período mínimo de tempo de serviço exigível, ou do gozo anterior de licença da mesma natureza, por despacho do director-geral dos Recursos Humanos da Educação, a publicar no Diário da República.\n\n3 - O regresso da situação de licença sem vencimento de longa duração depende de parecer favorável da junta médica."
+  },
+  "869571193": {
+   "fragment_id": "869422432",
+   "type": 1,
+   "heading": "Capítulo V — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições transitórias e finais"
+  },
+  "869571194": {
+   "fragment_id": "869422433",
+   "type": 11,
+   "heading": "Artigo 16.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regime transitório\n\n1 - O disposto no presente decreto-lei é aplicável aos docentes que à data da entrada em vigor do Decreto-Lei n.º 121/2005, de 26 de Julho, se encontravam na situação de dispensa, total ou parcial, da componente lectiva, relevando, para efeitos de contagem do prazo previsto no n.º 3 do artigo 6.º, todo o tempo que tenha decorrido antes do início da vigência deste último diploma.\n\n2 - Os docentes que à data da entrada em vigor do presente decreto-lei se encontrem na situação de incapacidade para o exercício de funções docentes são, no prazo de 15 dias úteis a contar da sua publicação, e mediante iniciativa do órgão de direcção executiva da respectiva escola, presentes a nova junta médica para efeitos de confirmação dessa incapacidade ou de retoma do exercício das funções docentes, nos termos do presente decreto-lei.\n\n3 - Para efeitos do disposto nos números anteriores, as direcções regionais de educação procedem, no prazo de 15 dias úteis a contar da publicação do presente decreto-lei, ao recenseamento dos docentes na situação aí referida, propondo, se necessário, a constituição de juntas médicas extraordinárias.\n\n4 - O regresso dos docentes referidos no número anterior à actividade docente depende de decisão favorável da junta médica."
+  },
+  "869571195": {
+   "fragment_id": "869422434",
+   "type": 11,
+   "heading": "Artigo 17.º — Regime subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regime subsidiário\n\nAos processos de reclassificação e reconversão profissionais aplica-se o Decreto-Lei n.º 497/99, de 19 de Novembro, em tudo o que não esteja especialmente previsto e desde que não contrarie o disposto no presente decreto-lei."
+  },
+  "869571196": {
+   "fragment_id": "869422435",
+   "type": 11,
+   "heading": "Artigo 18.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regulamentação\n\nO despacho conjunto previsto no n.º 2 do artigo 8.º é aprovado no prazo de 30 dias."
+  },
+  "869571197": {
+   "fragment_id": "869422436",
+   "type": 11,
+   "heading": "Artigo 19.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Norma revogatória\n\nSão revogados:\n\na) O artigo 81.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de Abril, com as alterações introduzidas pelos Decretos-Leis n.os 105/97, de 29 de Abril, 1/98, de 2 de Janeiro, 35/2003, de 27 de Fevereiro, 121/2005, de 26 de Julho, e 229/2005, de 29 de Dezembro;\n\nb) O artigo 4.º do Decreto-Lei n.º 121/2005, de 26 de Julho;\n\nc) A Portaria n.º 296/99, de 28 de Abril, com as alterações introduzidas pela Portaria n.º 313-A/2001, de 30 de Março."
+  },
+  "869571198": {
+   "fragment_id": "869422437",
+   "type": 11,
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "869571200": {
+   "fragment_id": "869422439",
+   "type": 14,
+   "heading": "Anexo — [lista a que se refere a alínea d) do n.º 2 do artigo 5.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — [lista a que se refere a alínea d) do n.º 2 do artigo 5.º]\n\n(ver documento original)"
+  },
+  "869571238": {
+   "fragment_id": "869422414",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2007-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 15/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), em vigor a partir de 2007-01-20"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - (Revogado).\n\n2 - O presente decreto-lei define ainda o regime de reclassificação e de reconversão profissionais do docente que for declarado incapaz para o exercício da sua actividade profissional mas apto para o desempenho de outras.\n\n> Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 15/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), em vigor a partir de 2007-01-20"
+  },
+  "869571239": {
+   "fragment_id": "869422417",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições",
+   "in_force_from": "2007-01-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 15/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), em vigor a partir de 2007-01-20"
+   ],
+   "markdown": "###### Artigo 3.º — Condições\n\n1 - O docente abrangido pelo presente decreto-lei pode ser, por decisão da junta médica regional do Ministério da Educação, adiante designada por junta médica, total ou parcialmente dispensado do cumprimento da componente lectiva do seu horário de trabalho quando se verifiquem, cumulativamente, as seguintes condições:\n\na) O docente ser portador de doença que afecte directamente o exercício da função docente;\n\nb) Ser a doença resultado do exercício da função docente ou ser por estas funções agravada;\n\nc) Estar o docente apto a desempenhar tarefas compatíveis em estabelecimento de educação ou de ensino;\n\nd) Ser possível a recuperação para o cumprimento integral do exercício de funções docentes no prazo máximo de 18 meses.\n\n2 - Para efeitos do disposto na alínea a) do número anterior, entende-se por doença a situação clínica que impede o normal desempenho da função docente, devidamente comprovada pela junta médica.\n\n3 - Para efeitos do disposto nas alíneas b) e c) do n.º 1, exige-se que:\n\na) Seja estabelecido um nexo causal entre a doença e o exercício da função lectiva ou que esta determine, de forma inequívoca, o agravamento da situação clínica do docente;\n\nb) A situação clínica do docente não seja impeditiva do desempenho de tarefas de responsabilidade, autonomia ou complexidade equivalentes às anteriormente desempenhadas ao nível do estabelecimento de educação ou de ensino, designadamente as que se referem no n.º 3 do artigo 82.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de Abril, adiante designado por ECD.\n\n4 - A possibilidade do desempenho de tarefas de responsabilidade, autonomia ou complexidade equivalentes às anteriormente desempenhadas ao nível do estabelecimento de educação ou de ensino, bem como a possibilidade de recuperação dentro do prazo máximo de 18 meses, deve constar expressamente do relatório da primeira junta médica a que o docente se apresentar.\n\n5 - Os educadores de infância e os professores do 1.º ciclo do ensino básico em regime de monodocência apenas podem ser totalmente dispensados do cumprimento da componente lectiva.\n\n> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 15/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), em vigor a partir de 2007-01-20"
+  },
+  "869571240": {
+   "fragment_id": "869422418",
+   "type": 11,
+   "heading": "Artigo 4.º — Iniciativa do procedimento",
+   "in_force_from": "2007-01-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 15/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), em vigor a partir de 2007-01-20"
+   ],
+   "markdown": "###### Artigo 4.º — Iniciativa do procedimento\n\n1 - A apresentação à junta médica pode ocorrer:\n\na) Por iniciativa do docente, mediante requerimento dirigido ao director regional de educação respectivo, até 15 de Abril do ano escolar anterior ao que respeita;\n\nb) Por decisão do órgão de direcção executiva do respectivo estabelecimento de educação ou de ensino, quando se verifiquem indícios de doença ou de outra manifestação clínica, de natureza física ou psíquica, que comprometa o normal ou regular desempenho das funções lectivas atribuídas, caso em que a mesma se considera de manifesta urgência.\n\n2 - O requerimento a que se refere a alínea a) do número anterior é acompanhado de declaração médica relativamente ao disposto nos n.os 2 e 3 do artigo anterior.\n\n> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 15/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), em vigor a partir de 2007-01-20"
+  },
+  "869571241": {
+   "fragment_id": "869422419",
+   "type": 11,
+   "heading": "Artigo 5.º — Apresentação à junta médica",
+   "in_force_from": "2007-01-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 15/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), em vigor a partir de 2007-01-20"
+   ],
+   "markdown": "###### Artigo 5.º — Apresentação à junta médica\n\n1 - O docente está obrigado, nos prazos fixados pela junta médica, a:\n\na) Apresentar-se com os elementos solicitados;\n\nb) Submeter-se aos exames clínicos que aquela considerar indispensáveis, que são integralmente suportados pela ADSE.\n\n2 - O processo do docente é submetido à apreciação da junta médica, acompanhado dos seguintes documentos:\n\na) Registo biográfico;\n\nb) Boletim de faltas;\n\nc) Documentação clínica constante do processo individual do docente;\n\nd) Parecer do órgão de direcção executiva do estabelecimento de educação ou de ensino onde o docente presta serviço, caso a iniciativa tenha pertencido ao docente, do qual conste proposta de funções docentes a desempenhar por referência a uma lista de funções cujo modelo consta do anexo ao presente decreto-lei e deste faz parte integrante.\n\n3 - O docente obrigado a apresentar-se à junta médica e que a ela não compareça é considerado na situação de faltas injustificadas a partir da data em que a mesma deveria realizar-se, salvo se a não comparência for fundamentada em motivo atendível devidamente reconhecido por decisão do director regional de educação respectivo.\n\n4 - O docente que, nos termos dos números anteriores, deva ser submetido à junta médica não pode apresentar-se ao serviço lectivo antes que tal se tenha verificado.\n\n5 - A junta médica, ao pronunciar-se sobre a situação do docente que lhe seja presente, elabora relatório escrito, fundamentado na observância clínica presencial e em exame do processo, do qual consta, consoante os casos, a seguinte menção:\n\na) Duração previsível da doença e data em que deve apresentar-se a novo exame;\n\nb) Avaliação da capacidade ou incapacidade do docente para o trabalho e, em particular, para o desempenho das funções docentes habitualmente atribuídas;\n\nc) Identificação detalhada do tipo de tarefas que não podem ser desempenhadas pelo docente em razão da incapacidade, tendo por referência a lista de funções docentes preenchida e apresentada pelo órgão de direcção executiva da escola nos termos da alínea d) do n.º 2;\n\nd) Indicação da capacidade do docente para o desempenho de outras tarefas ao nível do estabelecimento de educação ou de ensino, com menção de eventuais limitações funcionais face à sua situação de saúde, tendo por base a lista descritiva de funções a que se refere a alínea anterior.\n\n6 - Quando não se verifiquem as condições a que se refere o artigo 3.º ou o docente não use da faculdade de requerer a concessão da dispensa da componente lectiva, a junta médica pronuncia-se nos termos previstos no artigo 42.º do Decreto-Lei n.º 100/99, de 31 de Março.\n\n7 - Sempre que se revele necessário, a junta médica pode requerer a colaboração de médicos especialistas ou recorrer aos serviços de especialidade médica dos estabelecimentos públicos de saúde, nos termos do n.º 4 do artigo 40.º do Decreto-Lei n.º 100/99, de 31 de Março, e do n.º 1 do artigo 4.º do Decreto Regulamentar n.º 41/90, de 29 de Novembro, sendo os correspondentes encargos suportados pela ADSE.\n\n> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 15/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), em vigor a partir de 2007-01-20"
+  },
+  "869571242": {
+   "fragment_id": "869422420",
+   "type": 11,
+   "heading": "Artigo 6.º — Concessão da dispensa",
+   "in_force_from": "2007-01-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 15/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), em vigor a partir de 2007-01-20"
+   ],
+   "markdown": "###### Artigo 6.º — Concessão da dispensa\n\n1 - A junta médica pode autorizar a dispensa total ou parcial da componente lectiva por período nunca superior a seis meses, que não pode exceder o da apresentação a nova junta médica para confirmação da dispensa ou passagem à situação de cumprimento integral da componente lectiva.\n\n2 - Os docentes total ou parcialmente dispensados da componente lectiva são, no termo do período para o qual foram dispensados, presentes à junta médica para novo período de dispensa ou passagem à situação de cumprimento, parcial ou integral, da componente lectiva, consoante os casos.\n\n3 - Decorrido o prazo de 18 meses seguidos ou interpolados na situação de dispensa da componente lectiva, o docente é presente à junta médica para efeitos de verificação da aptidão ou a declaração de incapacidade para o exercício de funções docentes.\n\n4 - Em caso de manifestação de vontade pelo docente de regresso às funções lectivas, acompanhada de atestado médico, é suspensa a contagem do prazo de 18 meses previsto no número anterior até à sua apresentação a junta médica para reapreciação da dispensa anteriormente concedida desde que esta confirme que o docente está em condições de regressar às funções lectivas e que tenham decorrido, pelo menos, dois meses entre essa manifestação de vontade e a anterior apresentação a junta médica.\n\n5 - Ao órgão de direcção executiva do respectivo estabelecimento de educação ou de ensino cabe a iniciativa da apresentação à junta médica prevista nos números anteriores.\n\n6 - Quando a junta médica se pronunciar pela incapacidade para o exercício de funções docentes deve obrigatoriamente declarar se o docente se encontra apto a desempenhar outras funções ou não.\n\n7 - A decisão da junta médica a que se referem os números anteriores é comunicada, por escrito, ao docente, que dela pode recorrer para o Ministro da Educação no prazo de 10 dias úteis a contar do conhecimento da decisão.\n\n> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 15/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), em vigor a partir de 2007-01-20"
+  },
+  "869571199": {
+   "fragment_id": "869422438",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 7 de Setembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António Fernando Correia de Campos - Maria de Lurdes Reis Rodrigues.\n\nPromulgado em 25 de Outubro de 2006.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 2 de Novembro de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "869571243": {
+   "fragment_id": "869422414",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2008-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 124/2008 - Diário da República n.º 135/2008, Série I de 2008-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2008-456536), em vigor a partir de 2008-07-16",
+    "Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 15/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), em vigor a partir de 2007-01-20"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - (Revogado).\n\n2 - O presente decreto-lei define o regime de reclassificação e de reconversão profissionais, bem como as condições de colocação em situação de mobilidade especial, regulada pela Lei n.º 53/2006, de 7 de Dezembro, do docente declarado incapaz para o exercício das suas funções mas apto para o desempenho de outras.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 124/2008 - Diário da República n.º 135/2008, Série I de 2008-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2008-456536), em vigor a partir de 2008-07-16\n\n> Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 15/2007 - Diário da República n.º 14/2007, Série I de 2007-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), em vigor a partir de 2007-01-20"
+  },
+  "869571249": {
+   "fragment_id": "869422422",
+   "type": 1,
+   "heading": "Capítulo III — Mobilidade especial, reclassificação e reconversão profissionais",
+   "in_force_from": "2007-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 124/2008 - Diário da República n.º 135/2008, Série I de 2008-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2008-456536), em vigor a partir de 2007-07-16"
+   ],
+   "markdown": "### Capítulo III — Mobilidade especial, reclassificação e reconversão profissionais\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 124/2008 - Diário da República n.º 135/2008, Série I de 2008-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2008-456536), em vigor a partir de 2007-07-16"
+  },
+  "869571244": {
+   "fragment_id": "869422423",
+   "type": 11,
+   "heading": "Artigo 8.º — Incapacidade para o exercício de funções docentes",
+   "in_force_from": "2008-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 124/2008 - Diário da República n.º 135/2008, Série I de 2008-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2008-456536), em vigor a partir de 2008-07-16"
+   ],
+   "markdown": "###### Artigo 8.º — Incapacidade para o exercício de funções docentes\n\n1 - O docente declarado incapaz pela junta médica para o exercício de funções docentes, mas apto para o desempenho de outras, pode requerer a sua colocação em situação de mobilidade especial, ao abrigo da Lei n.º 53/2006, de 7 de Dezembro, no prazo a que se refere o n.º 1 do artigo 9.º, ou, não o requerendo, é submetido a um processo de reclassificação ou de reconversão profissionais para diferente carreira ou categoria.\n\n2 - Exceptuam-se do disposto no número anterior os docentes portadores de doença incapacitante fixada por despacho conjunto dos membros do Governo responsáveis pelas áreas da saúde, da educação e da Administração Pública, caso em que aqueles se mantêm afectos à escola e no exercício das funções que lhe sejam cometidas nos termos do artigo 10.º, salvo se, a qualquer tempo, requererem a sua colocação em situação de mobilidade especial, ao abrigo da Lei n.º 53/2006, de 7 de Dezembro, ou a reconversão ou reclassificação profissional nos termos da lei geral.\n\n3 - No procedimento de reclassificação ou reconversão profissionais a que se refere o n.º 1 são tidos em consideração:\n\na) O relatório da junta médica;\n\nb) As habilitações literárias e as qualificações profissionais detidas pelo docente;\n\nc) As aptidões do docente relativamente à área funcional de inserção da nova carreira ou categoria;\n\nd) O interesse e a conveniência do serviço onde opera a reclassificação ou reconversão profissionais.\n\n4 - Os docentes que não sejam detentores de licenciatura ou grau equivalente podem ser objecto de reconversão profissional para carreira ou categoria cujo ingresso exija este requisito habilitacional, sem prejuízo da verificação dos requisitos a que se refere o número anterior.\n\n5 - Fica condicionada ao acordo do interessado a reclassificação ou a reconversão profissional que:\n\na) Implique a integração em lugar de carreira ou categoria para cujo ingresso seja exigível habilitação académica inferior à detida pelo interessado; ou\n\nb) Se faça para serviço que se situe em local excluído pelos critérios definidos nos n.os 4 a 6 do artigo 4.º da Lei n.º 53/2006, de 7 de Dezembro.\n\n6 - A junta médica prevista no n.º 1 funciona na dependência das direcções regionais de educação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 124/2008 - Diário da República n.º 135/2008, Série I de 2008-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2008-456536), em vigor a partir de 2008-07-16"
+  },
+  "869571245": {
+   "fragment_id": "869422424",
+   "type": 11,
+   "heading": "Artigo 9.º — Procedimento administrativo",
+   "in_force_from": "2008-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 124/2008 - Diário da República n.º 135/2008, Série I de 2008-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2008-456536), em vigor a partir de 2008-07-16"
+   ],
+   "markdown": "###### Artigo 9.º — Procedimento administrativo\n\n1 - O procedimento administrativo que conduz à reclassificação ou reconversão profissional do docente é desencadeado pelo órgão de direcção executiva da escola a que o mesmo pertença ou tenha obtido colocação, no prazo de 10 dias úteis a contar da decisão definitiva da junta médica, e compreende as seguintes fases sequenciais:\n\na) Fase de manifestação de preferências;\n\nb) Fase de avaliação da necessidade ou interesse.\n\n2 - Na fase a que se refere a alínea a) do número anterior, o docente declarado incapaz para o exercício de funções docentes é convidado a manifestar preferências para o desempenho de funções não docentes, por carreira ou categoria, serviço ou organismo público e respectiva localização geográfica, através de formulário próprio, pelo prazo de 15 dias úteis a contar da sua notificação pela escola.\n\n3 - Após a manifestação de preferências, a direcção regional de educação respectiva providencia a remessa de cópia do formulário e demais documentos comprovativos ao serviço ou organismo da preferência para efeitos de avaliação do interesse da reclassificação ou reconversão pretendida face às necessidades de preenchimento de lugares do quadro.\n\n4 - O serviço ou organismo da preferência pronuncia-se nos termos do número anterior no prazo de 30 dias úteis, após o que se considera que não existe interesse na preferência manifestada.\n\n5 - Quando haja decisão de um serviço ou organismo favorável à reclassificação ou reconversão profissional do docente e seja exigido o acordo deste nos termos do n.º 5 do artigo 8.º, o docente pronuncia-se no prazo de 20 dias úteis a contar da sua notificação pela escola.\n\n6 - Em caso de falta de interesse do serviço ou organismo de preferência, ou no caso de o docente não ter formulado opção de preferência, pode o mesmo solicitar a sua colocação em situação de mobilidade especial no prazo fixado no n.º 1 do artigo 14.º, sendo-lhe aplicável o disposto na parte final do n.º 1 e n.os 2 a 5 do mesmo artigo, se não tiver usado daquela faculdade.\n\n7 - (Revogado.)\n\n8 - (Revogado.)\n\n9 - (Revogado.)\n\n10 - O procedimento extingue-se se, no seu decurso, o docente:\n\na) Reiniciar o exercício de funções em nova carreira ou categoria, no mesmo ou em diferente serviço público;\n\nb) Passar à situação de licença sem vencimento de longa duração;\n\nc) Se aposentar.\n\n> Nota: [Artigo 6.º, Decreto-Lei n.º 124/2008 - Diário da República n.º 135/2008, Série I de 2008-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2008-456536) Aos procedimentos administrativos previstos no presente artigo, que se encontrem pendentes nesta data, aplicam-se as regras que constavam daquele diploma legal antes da entrada em vigor do presente decreto-lei, salvo se o docente, no decurso desse procedimento, optar por requerer a sua colocação em situação de mobilidade especial, aplicando-se, nesse caso, as novas regras, relativamente a tal pretensão, previstas no Decreto-Lei n.º 124/2008, de 15 de julho. No caso dos docentes que, a partir de 16 de julho de 2008 se encontrem, ou se venham a encontrar, na situação contemplada no n.º 9 do artigo 9.º do preente decreto-lei, aplicam-se as novas regras introduzidas no artigo 14.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 124/2008 - Diário da República n.º 135/2008, Série I de 2008-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2008-456536), em vigor a partir de 2008-07-16"
+  },
+  "869571246": {
+   "fragment_id": "869422427",
+   "type": 11,
+   "heading": "Artigo 12.º — Integração em novo lugar e carreira",
+   "in_force_from": "2008-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 124/2008 - Diário da República n.º 135/2008, Série I de 2008-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2008-456536), em vigor a partir de 2008-07-16"
+   ],
+   "markdown": "###### Artigo 12.º — Integração em novo lugar e carreira\n\n1 - O docente que seja objecto de reclassificação ou reconversão profissional é nomeado em comissão de serviço extraordinária, pelo período de seis meses, para o exercício das funções correspondentes à nova carreira ou pelo período legalmente fixado para o estágio de ingresso, se este for superior.\n\n2 - Durante o referido período, o docente é remunerado pelo vencimento correspondente à categoria da nova carreira, sem prejuízo da possibilidade de opção pela remuneração de origem, nos termos do artigo 7.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro.\n\n3 - Findo o período previsto no número anterior, se revelar aptidão para o lugar, o docente é nomeado definitivamente em lugar do quadro do serviço ou organismo onde opera a reclassificação ou reconversão profissional, que, caso não exista vaga para o efeito, se considera automaticamente criado a extinguir quando vagar.\n\n4 - A nomeação definitiva em lugar da nova carreira ou categoria é objecto de despacho conjunto do director regional de educação respectivo e do dirigente máximo do serviço integrador, a publicar no Diário da República.\n\n5 - Quando não houver lugar à integração em nova carreira e categoria por falta de aptidão ou de aproveitamento em curso de formação profissional, bem como no caso de falta de acordo previsto no n.º 5 do artigo 8.º, é aplicável o disposto no artigo 14.º\n\n6 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 124/2008 - Diário da República n.º 135/2008, Série I de 2008-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2008-456536), em vigor a partir de 2008-07-16"
+  },
+  "869571247": {
+   "fragment_id": "869422430",
+   "type": 11,
+   "heading": "Artigo 14.º — Aposentação",
+   "in_force_from": "2008-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 124/2008 - Diário da República n.º 135/2008, Série I de 2008-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2008-456536), em vigor a partir de 2008-07-16"
+   ],
+   "markdown": "###### Artigo 14.º — Aposentação\n\n1 - O docente declarado incapaz para o exercício de funções docentes que não tenha solicitado a sua colocação em situação de mobilidade especial ou cuja reclassificação ou reconversão profissional não tiver sido promovida por força do disposto no n.º 6 do artigo 9.º e no n.º 5 do artigo 12.º ou que tenha recusado colocação que não careça do seu acordo, no âmbito do procedimento administrativo previsto no artigo 9.º, requer, no prazo de 20 dias e através da respectiva direcção regional de educação, a sua apresentação à junta médica da Caixa Geral de Aposentações, verificados que sejam os requisitos mínimos de tempo de serviço legalmente exigidos.\n\n2 - O docente que não requerer, no prazo previsto no número anterior, a sua apresentação à junta médica da Caixa Geral de Aposentações passa automaticamente à situação de licença sem vencimento de longa duração.\n\n3 - O docente que não reunir os requisitos mínimos de tempo de serviço para a aposentação, ou aquele que, reunindo-os, não a obteve, transita, mediante despacho do director-geral de Recursos Humanos da Educação, para a carreira técnica superior, ou, tratando-se de docente não licenciado, para a carreira de assistente técnico, sendo afecto, na respectiva escola ou agrupamento de escolas, a posto de trabalho que integre o exercício de funções não docentes, sendo remunerado pelo nível remuneratório correspondente à remuneração que já aufere, ou, não existindo correspondência, mantendo a remuneração auferida, até que, nos termos da lei geral, atinja o nível remuneratório superior mais aproximado.\n\n4 - O despacho do director-geral de Recursos Humanos da Educação previsto no número anterior produz efeitos:\n\na) À data em que haja ocorrido alguma das situações de não promoção da sua reabilitação ou reconversão profissional referidas no n.º 1, relativamente ao docente que não reunir os requisitos mínimos de tempo de serviço para a aposentação;\n\nb) À data da decisão da Caixa Geral de Aposentações, relativamente ao docente que reunindo os requisitos mínimos de tempo de serviço para a aposentação não a obteve.\n\n5 - Ao docente abrangido pelo presente artigo são aplicáveis, com as devidas adaptações, o disposto nos n.os 6 e 8 do artigo 47.º do Decreto-Lei n.º 100/99, de 31 de Março.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 124/2008 - Diário da República n.º 135/2008, Série I de 2008-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2008-456536), em vigor a partir de 2008-07-16"
+  },
+  "869571248": {
+   "fragment_id": "869422431",
+   "type": 11,
+   "heading": "Artigo 15.º — Licença sem vencimento",
+   "in_force_from": "2008-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 124/2008 - Diário da República n.º 135/2008, Série I de 2008-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2008-456536), em vigor a partir de 2008-07-16"
+   ],
+   "markdown": "###### Artigo 15.º — Licença sem vencimento\n\n1 - O docente declarado incapaz para o exercício das suas funções pode requerer, a todo o tempo, o gozo de licença sem vencimento de longa duração, nos termos da lei geral.\n\n2 - O gozo de licença sem vencimento é autorizado, independentemente do cumprimento do período mínimo de tempo de serviço exigível, ou do gozo anterior de licença da mesma natureza, por despacho do director-geral dos Recursos Humanos da Educação, a publicar no Diário da República.\n\n3 - O regresso da situação de licença sem vencimento de longa duração depende de parecer favorável da junta médica da direcção regional de educação respectiva.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 124/2008 - Diário da República n.º 135/2008, Série I de 2008-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2008-456536), em vigor a partir de 2008-07-16"
+  }
+ }
+}

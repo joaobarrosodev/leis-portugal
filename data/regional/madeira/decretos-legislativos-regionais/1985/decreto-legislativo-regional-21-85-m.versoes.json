@@ -1,0 +1,87 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:177659:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1985-892251358",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/21-1985-177659",
+ "source_lastmod": "2024-10-22",
+ "versions": [
+  {
+   "date": "1985-10-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "892297866",
+    "892297867",
+    "892297868",
+    "892297869"
+   ]
+  },
+  {
+   "date": "1985-11-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:138116:por",
+     "title": "Declaração",
+     "published": "1985-11-30",
+     "dre_path": "/dr/detalhe/declaracao/1985-138116"
+    }
+   ],
+   "changes": [
+    "Retifica Assinatura"
+   ],
+   "fragments": [
+    "892297866",
+    "892297867",
+    "892297868",
+    "892297869",
+    "892297873"
+   ]
+  }
+ ],
+ "fragments": {
+  "892297866": {
+   "fragment_id": "892251359",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 21/85/M\n\nFixação de valores das classes de alvará na Região Autónoma da Madeira\n\nDevido ao mais elevado preço da construção na Região, existe neste território uma manifesta desactualização dos valores das classes de alvará de empreiteiros de obras públicas e dos industriais da construção civil, situação que desfavorece a concorrência à execução de obras, contrariando assim o desenvolvimento regional.\n\nO referido desajustamento é da ordem dos 40% no sector específico da construção de habitação, o qual implica, como é natural, uma componente elevada de materiais e equipamento importados.\n\nAssim, para os valores presentemente estipulados para as classes de alvará de empreiteiros de obras públicas e dos industriais da construção civil, constantes da Portaria n.º 768/84, de 28 de Setembro, crê-se razoável um aumento de 40% aos montantes aí estabelecidos.\n\nNestes termos:\n\nA Assembleia Regional da Madeira, ao abrigo da alínea a) do artigo 229.º da Constituição e da alínea b) do artigo 22.º do Decreto-Lei n.º 318-D/76, de 30 de Abril, decreta, para valer como lei, o seguinte:"
+  },
+  "892297867": {
+   "fragment_id": "892251360",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nNa Região Autónoma da Madeira os valores das classes de alvará de empreiteiros de obras públicas e dos industriais da construção civil consideram-se superiores em 40% aos valores fixados."
+  },
+  "892297868": {
+   "fragment_id": "892251361",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO disposto no artigo anterior não se aplica às obras já adjudicadas mediante concurso ou ajuste directo ou cuja licença de construção tenha sido concedida anteriormente à entrada em vigor do presente diploma."
+  },
+  "892297869": {
+   "fragment_id": "892251362",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nEste diploma entra em vigor 30 dias após a sua publicação."
+  },
+  "892297873": {
+   "fragment_id": "892251363",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "1985-11-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 276/1985, 1º Suplemento, Série I de 1985-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-138116), em vigor a partir de 1985-11-30"
+   ],
+   "markdown": "Aprovado em sessão plenária em 30 de Julho de 1985.\n\nO Presidente da Assembleia Regional da Madeira, em exercício, António Gil Inácio da Silva.\n\nAssinado em 16 de Agosto de 1985.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 276/1985, 1º Suplemento, Série I de 1985-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-138116), em vigor a partir de 1985-11-30"
+  }
+ }
+}

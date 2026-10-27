@@ -1,0 +1,89 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993D0317:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993D0317-19950101",
+ "dre_path": null,
+ "source_lastmod": "1995-01-01",
+ "versions": [
+  {
+   "date": "1993-05-18",
+   "future": false,
+   "celex": "31993D0317",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fed07c9291258a82",
+    "228ac183ef0e0d24",
+    "c3d6c6d594949883"
+   ]
+  },
+  {
+   "date": "1995-01-01",
+   "future": false,
+   "celex": "01993D0317-19950101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o"
+   ],
+   "fragments": [
+    "bfe2fea3b30f0737",
+    "3c96a6d0bbb4934a",
+    "fec5f005f1b7b9ad"
+   ]
+  }
+ ],
+ "fragments": {
+  "fed07c9291258a82": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**93/317/CEE: Decisão da Comissão, de 21 de Abril de 1993, relativa à composição do código a utilizar nas marcas auriculares de bovinos** *Jornal Oficial nº L 122 de 18/05/1993 p. 0045 - 0045 Edição especial finlandesa: Capítulo 3 Fascículo 49 p. 0215 Edição especial sueca: Capítulo 3 Fascículo 49 p. 0215*\n\nDECISÃO DA COMISSÃO de 21 de Abril de 1993 relativa à composição do código a utilizar nas marcas auriculares de bovinos\n\n(93/317/CEE)A COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 92/102/CEE do Conselho, de 27 de Novembro de 1992, relativa à identificação e ao registo de animais (1), e, nomeadamente, o no 2, alínea a), do seu artigo 5o,\n\nConsiderando que o código a utilizar deve permitir que cada bovino seja identificado individualmente e que sejam identificados o seu Estado-membro e exploração de origem; que deve ser utilizado um código de duas letras para identificar cada Estado-membro;\n\nConsiderando que a exploração de origem pode ser identificada por um número ou uma série de números únicos para cada exploração; que cada autoridade competente deve escolher o sistema de numeração para as explorações sob seu controlo; que o código deve ser completado por números ou letras que identifiquem cada animal;\n\nConsiderando que as medidas previstas na presente decisão estão em conformidade com o parecer do Comité Veterinário Permanente,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "228ac183ef0e0d24": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. O código de uma marca auricular de bovino deve iniciar-se com as letras que identificam o Estado-membro de origem, segundo a seguinte correspondência:\n\n/* Quadros: ver JO */\n\n2. O código deve ser completado por uma série de números e/ou letras que tornem possível identificar cada animal individualmente juntamente com a exploração em que nasceu."
+  },
+  "c3d6c6d594949883": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nOs Estados-membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 21 de Abril de 1993.\n\nPela Comissão\n\nRené STEICHEN\n\nMembro da Comissão\n\n(1) JO no L 355 de 5. 12. 1992, p. 32."
+  },
+  "bfe2fea3b30f0737": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1993D0317 — PT — 01.01.1995 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993D0317:PT:NOT) [DECISÃO DA COMISSÃO de 21 de Abril de 1993 relativa à composição do código a utilizar nas marcas auriculares de bovinos (93/317/CEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993D0317:PT:NOT) (JO L 122, 18.5.1993, p.45)\n\nAlterado por:\n\n|  |  | Jornal Oficial |\n| --- | --- | --- |\n| No | page | date |\n\nAlterado por:\n\n| [A1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N:PT:NOT) | [Acto de Adesão da Áustria, da Finlândia e da Suécia](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N:PT:NOT) | C 241 | 21 | 29.8.1994 |\n| --- | --- | --- | --- | --- |\n|  | (adaptado pela Decisão 95/1/CE, Euratom, CECA do Conselho) | L 001 | 1 | .. |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993D0317:PT:NOT)\n\nDECISÃO DA COMISSÃO\n\nde 21 de Abril de 1993\n\nrelativa à composição do código a utilizar nas marcas auriculares de bovinos\n\n(93/317/CEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 92/102/CEE do Conselho, de 27 de Novembro de 1992, relativa à identificação e ao registo de animais ([1](http://publications.europa.eu/resource/cellar/9240bb7e-1956-471d-8046-544a8db1303b.0018.02/DOC_1#E0001)), e, nomeadamente, o n.o 2, alínea a), do seu artigo 5.o,\n\nConsiderando que o código a utilizar deve permitir que cada bovino seja identificado individualmente e que sejam identificados o seu Estado-membro e exploração de origem; que deve ser utilizado um código de duas letras para identificar cada Estado-membro;\n\nConsiderando que a exploração de origem pode ser identificada por um número ou uma série de números únicos para cada exploração; que cada autoridade competente deve escolher o sistema de numeração para as explorações sob seu controlo; que o código deve ser completado por números ou letras que identifiquem cada animal;\n\nConsiderando que as medidas previstas na presente decisão estão em conformidade com o parecer do Comité Veterinário Permanente,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "3c96a6d0bbb4934a": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O código de uma marca auricular de bovino deve iniciar-se com as letras que identificam o Estado-membro de origem, segundo a seguinte correspondência:\n\nBélgica BE\n\nDinamarca DK\n\nFrança FR\n\nAlemanha DE\n\nGrécia EL\n\nIrlanda IE\n\nItália IT\n\nLuxemburgo LU\n\nPaíses Baixos NL\n\nPortugal PT\n\nEspanha ES\n\nReino Unido UK\n\nÁustria AT\n\nFinlândia FI\n\nSuécia SE\n\n2. O código deve ser completado por uma série de números e/ou letras que tornem possível identificar cada animal individualmente juntamente com a exploração em que nasceu."
+  },
+  "fec5f005f1b7b9ad": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-membros são os destinatários da presente decisão.\n\n([1](http://publications.europa.eu/resource/cellar/9240bb7e-1956-471d-8046-544a8db1303b.0018.02/DOC_1#src.E0001)) JO n.o L 355 de 5. 12. 1992, p. 32."
+  }
+ }
+}

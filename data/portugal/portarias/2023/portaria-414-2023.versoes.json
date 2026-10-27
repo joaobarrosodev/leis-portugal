@@ -1,0 +1,64 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:225397118:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-840370637",
+ "dre_path": "/dr/detalhe/portaria/414-2023-225397118",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2023-12-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "840370707",
+    "840370708",
+    "840370709",
+    "840370710",
+    "840370711"
+   ]
+  }
+ ],
+ "fragments": {
+  "840370707": {
+   "fragment_id": "840370638",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 414/2023\n\nde 7 de dezembro\n\nSumário: Determina a idade normal de acesso à pensão de velhice em 2025.\n\nO Decreto-Lei n.º 187/2007, de 10 de maio, na sua redação atual, estabelece, no n.º 3 do artigo 20.º, que a idade normal de acesso à pensão de velhice após 2014 varia em função da esperança média de vida aos 65 anos de idade verificada entre o segundo e terceiro ano anteriores ao início da pensão, de acordo com a fórmula nele prevista.\n\nA idade normal de acesso à pensão deve ser publicitada em portaria do membro do Governo responsável pela área da solidariedade e segurança social, no segundo ano imediatamente anterior ao ano a que se reporta, em conformidade com o disposto no n.º 9 do artigo 20.º do referido decreto-lei.\n\nPor outro lado, o fator de sustentabilidade previsto no artigo 35.º do citado decreto-lei, elemento do cálculo das pensões de velhice do regime geral de segurança social, tem em conta a evolução da esperança média de vida aos 65 anos entre o ano de 2000 e o ano anterior ao do início da pensão.\n\nTendo sido apurado e publicitado pelo Instituto Nacional de Estatística o indicador da esperança média de vida aos 65 anos de idade relativo ao ano de 2023, está o Governo em condições de determinar o fator de sustentabilidade a vigorar durante o ano de 2024, bem como a idade normal de acesso à pensão de velhice a vigorar em 2025.\n\nAssim, considerando o indicador da esperança média de vida aos 65 anos, verificado em 2000 e em 2023, o fator de sustentabilidade aplicável às pensões de velhice iniciadas em 2024 é de 0,8420.\n\nPor último, tendo em conta os efeitos da evolução da esperança média de vida aos 65 anos na aplicação da fórmula prevista no n.º 3 do artigo 20.º do Decreto-Lei n.º 187/2007, de 10 de maio, a idade normal de acesso à pensão em 2025 é 66 anos e 7 meses.\n\nAssim:\n\nManda o Governo, pela Ministra do Trabalho, Solidariedade e Segurança Social, o seguinte:"
+  },
+  "840370708": {
+   "fragment_id": "840370639",
+   "type": 11,
+   "heading": "Artigo 1.º — Idade normal de acesso à pensão de velhice em 2025",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Idade normal de acesso à pensão de velhice em 2025\n\nA idade normal de acesso à pensão de velhice do regime geral de segurança social em 2024, nos termos do disposto no n.º 3 do artigo 20.º do Decreto-Lei n.º 187/2007, de 10 de maio, na sua redação atual, é 66 anos e 7 meses."
+  },
+  "840370709": {
+   "fragment_id": "840370640",
+   "type": 11,
+   "heading": "Artigo 2.º — Fator de sustentabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Fator de sustentabilidade\n\nO fator de sustentabilidade a aplicar, nos termos do disposto no artigo 35.º do Decreto-Lei n.º 187/2007, de 10 de maio, na sua redação atual, ao montante estatutário das pensões de velhice do regime geral de segurança social é de 0,8420."
+  },
+  "840370710": {
+   "fragment_id": "840370641",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogada a Portaria 307/2021, de 17 de dezembro, e o artigo 2.º da Portaria n.º 292/2022, de 9 de dezembro."
+  },
+  "840370711": {
+   "fragment_id": "840370642",
+   "type": 11,
+   "heading": "Artigo 4.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Produção de efeitos\n\nA presente portaria produz efeitos a partir de 1 de janeiro de 2024."
+  }
+ }
+}

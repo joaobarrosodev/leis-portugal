@@ -1,0 +1,117 @@
+---
+schema_version: '1.0'
+id: pt:dre:357134:por
+title: Portaria n.º 773/88
+short_title: null
+summary: Estabelece as normas reguladoras da aplicação do Decreto-Lei n.º 432/85, de 23 de Outubro, no que respeita às receitas
+  próprias provenientes da venda das publicações editadas pela Direcção-Geral de Concorrência e Preços
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Comércio e Turismo
+proposing_entity: null
+official_number: 773/88
+official_date: null
+publication_date: '1988-12-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 278/1988, Série I de 1988-12-02
+  number: '278'
+  series: I
+  supplement: null
+  pages: 4758 - 4758
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/12/27800/47584758.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '357134'
+  dre_path: /dr/detalhe/portaria/773-1988-357134
+  internal: pt:dre:357134:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/773-1988-357134
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/773-1988-357134
+  consolidated_url: null
+  retrieved_at: '2026-10-23T09:39:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 03147b84c3b98372468c23de1253ef91058a8794a94addc510704bcc203f24cf
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:39:19Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Caixa Geral de Depósitos Crédito e Previdência
+- Direcção Geral da Concorrência e Preços
+- Direcção Geral da Contabilidade Pública
+- Receita Própria
+- Venda de Públicações
+relationships:
+- type: cites
+  target: pt:dre:178105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T09:39:19Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 773/88
+
+de 2 de Dezembro
+
+O [Decreto-Lei n.º 432/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/432-1985-178105), de 23 de Outubro, autorizou a Direcção-Geral de Concorrência e Preços a efectuar vendas de publicações editadas pela mesma entidade e inerentes ao exercício das suas competências nos termos de normas regulamentadoras da sua aplicação, estabelecidas em portaria dos Ministros das Finanças e do Comércio e Turismo.
+
+Nestes termos, tendo em vista o disposto no [Decreto-Lei n.º 459/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1982-380148), de 26 de Novembro, nomeadamente o regime a que se encontram sujeitos os organismos dotados apenas de autonomia administrativa, na parte em que são obrigados a elaborar orçamentos privativos para aplicação de receitas próprias:
+
+Manda o Governo, pelos Ministros das Finanças e do Comércio e Turismo, o seguinte:
+
+1.º As receitas próprias da Direcção-Geral de Concorrência e Preços, resultantes das vendas das publicações editadas pela mesma entidade e inerentes ao exercício das suas competências, serão entregues nos cofres do Tesouro e escrituradas em «Contas de ordem» do Orçamento do Estado, mediante guias passadas pelo serviço competente da mesma Direcção-Geral e em nome do respectivo conselho administrativo.
+
+2.º Um exemplar das referidas guias averbado do pagamento deve ser enviado à respectiva delegação da Direcção-Geral da Contabilidade Pública, nos termos do [Decreto-Lei n.º 459/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1982-380148), de 26 de Novembro.
+
+3.º As importâncias requisitadas à respectiva delegação da Direcção-Geral da Contabilidade Pública serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência e movimentadas por meio de cheques nominativos, assinados por dois membros do conselho administrativo da Direcção-Geral de Concorrência e Preços.
+
+Ministérios das Finanças e do Comércio e Turismo.
+
+Assinada em 16 de Novembro de 1988.
+
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.

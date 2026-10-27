@@ -1,0 +1,517 @@
+---
+schema_version: '1.0'
+id: pt:dre:75531187:por
+title: Portaria n.º 273/2016
+short_title: null
+summary: Aprova a delimitação dos perímetros de proteção das captações localizadas no concelho de Salvaterra de Magos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ambiente
+proposing_entity: null
+official_number: 273/2016
+official_date: null
+publication_date: '2016-10-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 198/2016, Série I de 2016-10-14
+  number: '198'
+  series: I
+  supplement: null
+  pages: 3720 - 3731
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/273/2016/10/14/p/dre/pt/html
+  oj: null
+  dre: '75531187'
+  dre_path: /dr/detalhe/portaria/273-2016-75531187
+  internal: pt:dre:75531187:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/273-2016-75531187
+  metadata_url: https://data.dre.pt/eli/port/273/2016/10/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/273-2016-75531187
+  consolidated_url: null
+  retrieved_at: '2026-10-27T00:49:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 55c4b6dd924764eaa93434c19be5a29897e859dac28c00d4323cc91b590284a1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-27T00:49:17Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Abastecimento de Água
+- Recursos Hídricos
+- Salvaterra de Magos
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:287628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588852:por
+  label: null
+  source: null
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-27T00:49:17Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 273/2016
+
+de 14 de outubro
+
+O [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de setembro, estabelece as normas e os critérios para a delimitação de perímetros de proteção de captações de águas subterrâneas destinadas ao abastecimento público, com a finalidade de proteger a qualidade das águas dessas captações.
+
+Os perímetros de proteção visam prevenir, reduzir e controlar a poluição das águas subterrâneas, nomeadamente, por infiltração de águas pluviais lixiviantes e de águas excedentes de rega e de lavagens, potenciar os processos naturais de diluição e de autodepuração, prevenir, reduzir e controlar as descargas acidentais de poluentes e, ainda, proporcionar a criação de sistemas de aviso e alerta para a proteção dos sistemas de abastecimento de água proveniente de captações subterrâneas, em situações de poluição acidental destas águas.
+
+Todas as captações de água subterrânea destinadas ao abastecimento público de água para consumo humano, e a delimitação dos respetivos perímetros de proteção, estão sujeitas às regras estabelecidas no mencionado [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de setembro, bem como ao disposto no artigo 37.º da Lei da Água, aprovada pela [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de dezembro, e na [Portaria n.º 702/2009](https://diariodarepublica.pt/dr/detalhe/portaria/702-2009-492213), de 6 de julho.
+
+Na sequência de um estudo apresentado pela Águas do Ribatejo, E. I. M., a Agência Portuguesa do Ambiente, I. P., elaborou, ao abrigo do n.º 2 do artigo 4.º do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de setembro, uma proposta de delimitação e respetivos condicionamentos dos perímetros de proteção para as captações nos polos de captação de Marinhais, Glória, Salvaterra, Sabugueiro, Granho, Foros de Salvaterra, Muge, Várzea Fresca e Vale Queimado, localizadas no concelho de Salvaterra de Magos.
+
+Assim, nos termos do n.º 1 do artigo 4.º do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de setembro, na redação conferida pelo [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), de 31 de maio, manda o Governo, pelo Secretário de Estado do Ambiente, no uso das competências delegadas pelo Ministro do Ambiente, através da subalínea ii) da alínea d) do n.º 2 do Despacho n.º 489/2016, de 12 de janeiro, publicado no Diário da República, 2.ª série, n.º 7, de 12 de janeiro de 2016, o seguinte:
+
+###### Artigo 1.º — Delimitação de perímetros de proteção
+
+1 - É aprovada a delimitação dos perímetros de proteção das captações localizadas no concelho de Salvaterra de Magos, designadas por:
+
+a) CBR1 e CBR2 do polo de captação de Marinhais;
+
+b) FR2 do polo de captação da Glória;
+
+c) FR2 e PS2 do polo de captação de Salvaterra;
+
+d) JJ1 do polo de captação do Sabugueiro;
+
+e) CBR1 e FR1 do polo de captação do Granho;
+
+f) FR5 e CBR1 do polo de captação de Foros de Salvaterra;
+
+g) CBR1, JK1 e RA1 do polo de captação de Muge;
+
+h) FR3 e JK5 do polo de captação de Várzea Fresca;
+
+i) FR1 do polo de captação de Vale Queimado.
+
+2 - As coordenadas das captações referidas no número anterior constam do anexo i da presente portaria, da qual faz parte integrante.
+
+###### Artigo 2.º — Zona de proteção imediata
+
+1 - A zona de proteção imediata respeitante aos perímetros de proteção mencionados no artigo anterior corresponde à área delimitada através de polígonos que resultam da união dos vértices indicados nos quadros constantes do anexo ii da presente portaria, da qual faz parte integrante.
+
+2 - É interdita qualquer instalação ou atividade na zona de proteção imediata a que se refere o número anterior, com exceção das que têm por objetivo a conservação, manutenção e melhor exploração da captação, devendo o terreno nesta zona ser vedado e mantido limpo de quaisquer resíduos, produtos ou líquidos que possam provocar infiltração de substâncias indesejáveis para a qualidade da água da captação, nos termos do n.º 1 do artigo 6.º do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de setembro.
+
+###### Artigo 3.º — Zona de proteção intermédia
+
+1 - A zona de proteção intermédia respeitante aos perímetros de proteção mencionados no artigo 1.º corresponde à área da superfície do terreno delimitada através de polígonos que resultam da união dos vértices indicados nos quadros constantes do anexo iii da presente portaria, da qual faz parte integrante.
+
+2 - Na zona de proteção intermédia a que se refere o número anterior são interditas, nos termos dos n.os 2 e 3 do artigo 6.º do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de setembro, as seguintes atividades e instalações:
+
+a) Infraestruturas aeronáuticas;
+
+b) Oficinas e estações de serviço de automóveis;
+
+c) Depósitos de materiais radioativos, de hidrocarbonetos e de resíduos perigosos;
+
+d) Postos de abastecimento e áreas de serviço de combustíveis;
+
+e) Transporte de hidrocarbonetos, de materiais radioativos ou de outras substâncias perigosas;
+
+f) Canalizações de produtos tóxicos;
+
+g) Lixeiras e aterros sanitários, incluindo quaisquer tipos de aterros para resíduos perigosos, não perigosos ou inertes;
+
+h) A instalação de fossas de esgoto em zonas onde estejam disponíveis sistemas públicos de saneamento de águas residuais, bem como a rejeição e aplicação de efluentes no solo;
+
+i) Rejeição e aplicação de efluentes pecuários e de lamas de depuração;
+
+j) Lagos e quaisquer obras ou escavações destinadas à recolha e armazenamento de água ou quaisquer substâncias suscetíveis de se infiltrarem, no caso de não serem impermeabilizadas, incluindo a realização de sondagens de pesquisa e captação de água subterrânea que não se destinem ao abastecimento público, desde que exista a possibilidade de ligação à rede pública de abastecimento de água, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desativadas;
+
+k) Unidades industriais suscetíveis de produzir substâncias poluentes que, de forma direta ou indireta, possam vir a alterar a qualidade da água subterrânea;
+
+l) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas.
+
+3 - Na zona de proteção intermédia a que se refere o n.º 1 são condicionadas, nos termos do n.º 2 do artigo 6.º do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de setembro, ficando sujeitas a parecer prévio vinculativo da Agência Portuguesa do Ambiente, I. P., as seguintes atividades e instalações:
+
+a) Pastorícia, que pode ser desenvolvida desde que não cause impacte significativo nas águas subterrâneas;
+
+b) Usos agrícolas e pecuários, que apenas são permitidos desde que não causem impacte significativo nas águas subterrâneas;
+
+c) Aplicação de fertilizantes e pesticidas móveis e persistentes na água ou que possam formar substâncias tóxicas, persistentes ou bioacumuláveis;
+
+d) Construção de edificações, que podem ser permitidas desde que seja assegurada a ligação à rede de saneamento municipal ou, na sua impossibilidade, a instalação de fossa do tipo estanque;
+
+e) Estradas e caminhos-de-ferro, que podem ser permitidos desde que sejam tomadas as medidas necessárias para evitar a contaminação do solo e da água subterrânea;
+
+f) Espaços destinados a práticas desportivas e os parques de campismo, que podem ser permitidos desde que as instalações ou atividades não promovam a contaminação da água subterrânea e seja assegurada a ligação das infraestruturas de saneamento à rede municipal;
+
+g) Coletores de águas residuais e estações de tratamento de águas residuais, que podem ser permitidos desde que respeitem critérios rigorosos de estanquidade, devendo as estações de tratamento de águas residuais estar sujeitas a verificações periódicas do seu estado de conservação;
+
+h) Fossas de esgoto, que podem ser permitidas caso respeitem rigorosos critérios de estanquidade, devendo as existentes ser substituídas ou reconvertidas em sistemas estanques, e desde que, logo que estejam disponíveis sistemas públicos de saneamento de águas residuais nestas zonas, sejam desativadas e efetuada a ligação predial ao sistema de saneamento;
+
+i) Cemitérios;
+
+j) Depósitos de sucata ou operações de gestão de resíduos são permitidos, ficando sujeitos a impermeabilização do solo e cobertura das áreas afetas à receção, tratamento e armazenamento de resíduos, e devendo, em qualquer caso, ser garantida a recolha ou tratamento de efluentes.
+
+###### Artigo 4.º — Zona de proteção alargada
+
+1 - A zona de proteção alargada respeitante aos perímetros de proteção mencionados no artigo 1.º corresponde à área da superfície do terreno delimitada através de polígonos que resultam da união dos vértices indicados nos quadros constantes do anexo iv da presente portaria, da qual faz parte integrante.
+
+2 - Na zona de proteção alargada referida no número anterior são interditas, nos termos dos n.os 4 e 5 do artigo 6.º do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de setembro, as seguintes atividades e instalações:
+
+a) Transporte de hidrocarbonetos, de materiais radioativos ou de outras substâncias perigosas;
+
+b) Depósitos de materiais radioativos, de hidrocarbonetos e de resíduos perigosos;
+
+c) Canalizações de produtos tóxicos;
+
+d) Refinarias e indústrias químicas;
+
+e) Lixeiras e aterros sanitários, incluindo quaisquer tipos de aterros para resíduos perigosos, não perigosos ou inertes;
+
+f) Instalação de fossas de esgoto em zonas onde estejam disponíveis sistemas públicos de saneamento de águas residuais;
+
+g) Rejeição e aplicação de efluentes pecuários e de lamas de depuração;
+
+h) Lagos e quaisquer obras ou escavações destinadas à recolha e armazenamento de água ou quaisquer substâncias suscetíveis de se infiltrarem, no caso de não serem impermeabilizadas.
+
+3 - Na zona de proteção alargada referida no n.º 1 são condicionadas, nos termos do n.º 4 do artigo 6.º do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de setembro, ficando sujeitas a parecer prévio vinculativo da Agência Portuguesa do Ambiente, I. P., as seguintes atividades e instalações:
+
+a) Utilização de pesticidas móveis e persistentes na água ou que possam formar substâncias tóxicas, persistentes ou bioacumuláveis;
+
+b) Coletores de águas residuais e estações de tratamento de águas residuais, que podem ser permitidos desde que respeitem critérios rigorosos de estanquidade, devendo as estações de tratamento de águas residuais estar sujeitas a verificações periódicas do seu estado de conservação;
+
+c) Fossas de esgoto, que apenas podem ser permitidas caso respeitem rigorosos critérios de estanquidade, devendo as existentes ser substituídas ou reconvertidas em sistemas estanques, e desde que, logo que estejam disponíveis sistemas públicos de saneamento de águas residuais nestas zonas, sejam desativadas e efetuada a ligação predial ao sistema de saneamento;
+
+d) Realização de sondagens de pesquisa e captação de água subterrânea, que está sujeita à emissão de título de utilização dos recursos hídricos, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desativadas;
+
+e) Cemitérios;
+
+f) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas, que podem ser permitidas desde que não provoquem a deterioração da qualidade da água e ou a diminuição das disponibilidades hídricas que comprometam o normal funcionamento dos sistemas de abastecimento;
+
+g) Oficinas, estações de serviço de automóveis, postos de abastecimento e áreas de serviço de combustíveis e infraestruturas aeronáuticas são permitidos, ficando sujeitos a:
+
+i) Impermeabilização do solo sob as zonas afetas à manutenção, reparação e circulação de automóveis e aeronaves, bem como as zonas de armazenamento de óleos e lubrificantes, devendo, em qualquer caso, ser garantida a recolha ou tratamento de efluentes;
+
+ii) Implementação de sistemas de controlo e deteção de fugas no caso de depósitos enterrados de combustível;
+
+h) Depósitos de sucata ou operações de gestão de resíduos são permitidos, ficando sujeitos a impermeabilização do solo e cobertura das áreas afetas à receção, tratamento e armazenamento de resíduos, e devendo, em qualquer caso, ser garantida a recolha ou tratamento de efluentes.
+
+###### Artigo 5.º — Representação das zonas de proteção
+
+As zonas de proteção intermédia e alargada, respeitantes aos perímetros de proteção mencionados no artigo 1.º, encontram-se representadas no anexo v da presente portaria, da qual faz parte integrante.
+
+###### Artigo 6.º — Norma revogatória
+
+É revogada a [Portaria n.º 190/2011](https://diariodarepublica.pt/dr/detalhe/portaria/190-2011-287628), de 10 de maio, alterada pela [Portaria n.º 3/2013](https://diariodarepublica.pt/dr/detalhe/portaria/3-2013-588852), de 2 de janeiro.
+
+###### Artigo 7.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+O Secretário de Estado do Ambiente, Carlos Manuel Martins, em 3 de outubro de 2016.
+
+## ANEXO I — (a que se refere o n.º 2 do artigo 1.º)
+
+Coordenadas das captações
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+## ANEXO II — (a que se refere o n.º 1 do artigo 2.º)
+
+Zona de proteção imediata
+
+Polo de captação de Marinhais
+
+CBR1 e CBR2
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação da Glória
+
+FR2
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação de Salvaterra
+
+FR2
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+PS2
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação do Sabugueiro
+
+JJ1
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação do Granho
+
+CBR1
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+FR1
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação de Foros de Salvaterra
+
+FR5 e CBR1
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação de Muge
+
+CBR1, JK1 e RA1
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação de Várzea Fresca
+
+FR3 e JK5
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação de Vale Queimado
+
+FR1
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+## ANEXO III — (a que se refere o n.º 1 do artigo 3.º)
+
+Zona de proteção intermédia
+
+Polo de captação de Marinhais
+
+CBR1 e CBR2
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação da Glória
+
+FR2
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação de Salvaterra
+
+FR2
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+PS2
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação do Sabugueiro
+
+JJ1
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação do Granho
+
+CBR1 e FR1
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação de Foros de Salvaterra
+
+FR5 e CBR1
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação de Muge
+
+CBR1, JK1 e RA1
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação de Várzea Fresca
+
+FR3 e JK5
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação de Vale Queimado
+
+FR1
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+## ANEXO IV — (a que se refere o n.º 1 do artigo 4.º)
+
+Zona de proteção alargada
+
+Polo de captação de Marinhais
+
+CBR1 e CBR2
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação da Glória
+
+FR2
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação de Salvaterra
+
+FR2 e PS2
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação do Sabugueiro
+
+JJ1
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação do Granho
+
+CBR1 e FR1
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação de Foros de Salvaterra
+
+FR5 e CBR1
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação de Muge
+
+CBR1, JK1 e RA1
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação de Várzea Fresca
+
+FR3 e JK5
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação de Vale Queimado
+
+FR1
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Nota. - As coordenadas das captações e dos vértices que delimitam as zonas de proteção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central).
+
+## ANEXO V — (a que se refere o artigo 5.º)
+
+Planta de localização das zonas de proteção
+
+Extrato da Carta Militar de Portugal. Série M888 - 1/25.000 (IGeoE)
+
+Polo de captação de Marinhais
+
+CBR1 e CBR2
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação da Glória
+
+FR2
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação de Salvaterra
+
+FR2 e PS2
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação do Sabugueiro
+
+JJ1
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação do Granho
+
+CBR1 e FR1
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação de Foros de Salvaterra
+
+FR5 e CBR1
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação de Muge
+
+CBR1, JK1 e RA1
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação de Várzea Fresca
+
+FR3 e JK5
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)
+
+Polo de captação de Vale Queimado
+
+FR1
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19800/0372003731.pdf)

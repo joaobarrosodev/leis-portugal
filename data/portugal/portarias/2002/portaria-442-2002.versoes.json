@@ -1,0 +1,251 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:288670:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2002-177988482",
+ "dre_path": "/dr/detalhe/portaria/442-2002-288670",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2002-04-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "177987818",
+    "177987819",
+    "177987820",
+    "177987821",
+    "177987822",
+    "177987823",
+    "177987824",
+    "177987825",
+    "177987826",
+    "177987827",
+    "177987828",
+    "177987829",
+    "177987830",
+    "177987831",
+    "177987832"
+   ]
+  },
+  {
+   "date": "2022-01-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:177875728:por",
+     "title": "Portaria n.º 45/2022",
+     "published": "2022-01-20",
+     "dre_path": "/dr/detalhe/portaria/45-2022-177875728"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º",
+    "Revoga Artigo 10.º"
+   ],
+   "fragments": [
+    "177987818",
+    "177987819",
+    "177987820",
+    "177987821",
+    "177987861",
+    "177987823",
+    "177987824",
+    "177987825",
+    "177987862",
+    "177987863",
+    "177987860",
+    "177987864",
+    "177987830",
+    "177987865",
+    "177987832"
+   ]
+  }
+ ],
+ "fragments": {
+  "177987818": {
+   "fragment_id": "177988483",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 442/2002\n\nde 23 de Abril\n\nO n.º 3 do artigo 14.º do Estatuto do Pessoal da Polícia Marítima (EPPM), aprovado pelo Decreto-Lei n.º 248/95, de 21 de Setembro, estabelece que a categoria de subchefe é provida de entre os agentes de 1.ª classe que possuam, de entre outros requisitos, o curso de promoção a subchefe.\n\nIdêntica previsão normativa consta do artigo 31.º do Decreto Regulamentar n.º 53/97, de 9 de Dezembro, que estabelece que a promoção a subchefe é feita por concurso de entre os candidatos que tiverem obtido aproveitamento no respectivo curso de promoção e possuam os demais requisitos previstos no n.º 3 do artigo 14.º do EPPM.\n\nPor outro lado, o Decreto-Lei n.º 264/97, de 2 de Outubro, que criou a Escola da Autoridade Marítima (EAM), estabelece no artigo 6.º, n.º 1, que os cursos de formação nela ministrados e respectiva estrutura curricular sejam aprovados por portaria do Ministro da Defesa Nacional.\n\nNeste contexto, torna-se necessário regulamentar o curso de promoção a subchefe da Polícia Marítima (CPSPM), definindo, designadamente, os regimes de admissão, frequência, avaliação e aproveitamento escolar, e aprovar a respectiva estrutura curricular.\n\nFoi ouvida a Associação Sócio-Profissional da Polícia Marítima, nos termos da lei.\n\nAssim, ao abrigo do disposto no n.º 1 do artigo 19.º do Estatuto da EAM, aprovado pelo Decreto Regulamentar n.º 3/99, de 29 de Março, e no n.º 1 do artigo 6.º do Decreto-Lei n.º 264/97, de 2 de Outubro:\n\nManda o Governo, pelo Ministro da Defesa Nacional, o seguinte:\n\n1.º É aprovado o Regulamento Escolar do Curso de Promoção a Subchefe da Polícia Marítima, constante do anexo I à presente portaria, da qual faz parte integrante.\n\n2.º É aprovada a estrutura curricular do curso de promoção a subchefe da Polícia Marítima constante do anexo II à presente portaria, da qual faz parte integrante.\n\n3.º O desenvolvimento da estrutura curricular a que se refere o número anterior e os conteúdos programáticos das disciplinas que a integram são aprovados por despacho do comandante-geral da Polícia Marítima, sob proposta do director da EAM.\n\n4.º A presente portaria entra em vigor no dia imediato ao da sua publicação.\n\nO Ministro da Defesa Nacional, Rui Eduardo Ferreira Rodrigues Pena, em 21 de Março de 2002.\n\nANEXO I\n\nRegulamento Escolar do Curso de Promoção a Subchefe da Polícia Marítima"
+  },
+  "177987819": {
+   "fragment_id": "177988484",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece as regras de funcionamento e frequência do curso de promoção a subchefe da Polícia Marítima (CPSPM), ministrado na Escola da Autoridade Marítima (EAM)."
+  },
+  "177987820": {
+   "fragment_id": "177988485",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO presente Regulamento aplica-se a todos os agentes nomeados para a frequência do CPSPM, que durante o curso assumem a qualidade de alunos."
+  },
+  "177987821": {
+   "fragment_id": "177988486",
+   "type": 11,
+   "heading": "Artigo 3.º — Admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Admissão\n\nSão admitidos à frequência do CPSPM os candidatos que, nos termos das disposições conjugadas constantes do artigo 38.º do Decreto Regulamentar n.º 53/97, de 9 de Dezembro, e do n.º 3 do artigo 17.º do Estatuto da EAM, aprovado pelo Decreto Regulamentar n.º 3/99, de 29 de Março, sejam aprovados no respectivo concurso de admissão, pela ordem de classificação nele obtida, até ao limite de vagas previstas no respectivo aviso de abertura e devidamente orçamentadas."
+  },
+  "177987822": {
+   "fragment_id": "177988487",
+   "type": 11,
+   "heading": "Artigo 4.º — Duração do curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Duração do curso\n\nO CPSPM tem a duração de oito meses e realiza-se segundo calendário fixado para cada curso."
+  },
+  "177987823": {
+   "fragment_id": "177988488",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime de frequência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regime de frequência\n\nAs aulas e restante actividade formativa do CPSPM são de frequência obrigatória."
+  },
+  "177987824": {
+   "fragment_id": "177988489",
+   "type": 11,
+   "heading": "Artigo 6.º — Interrupção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Interrupção\n\n1 - O CPSPM pode ser interrompido por motivo de faltas por doença clinicamente comprovada, acidente em serviço ou qualquer outra situação relevante, durante um décimo dos dias úteis de duração do curso, seguidas ou interpoladas, se o conselho pedagógico concluir que tal facto é impeditivo do normal aproveitamento escolar.\n\n2 - Os alunos que tenham interrompido o curso, nos termos do número anterior, ou não compareçam para a sua frequência pelos mesmos motivos podem requerer ao comandante-geral da Polícia Marítima (PM) a sua admissão à frequência do curso seguinte, com dispensa de provas e exames, com excepção da inspecção médica, desde que satisfaçam os requisitos de admissão e obtenham parecer favorável do conselho pedagógico."
+  },
+  "177987825": {
+   "fragment_id": "177988490",
+   "type": 11,
+   "heading": "Artigo 7.º — Desistência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Desistência\n\n1 - O aluno pode, em qualquer altura, desistir da frequência do CPSPM, mediante requerimento dirigido ao director da EAM.\n\n2 - Presume-se a desistência do candidato que, aprovado no concurso e regularmente convocado, não compareça para a frequência do curso.\n\n3 - Nos casos a que se refere o n.º 1, o aluno está obrigado à devolução dos artigos e material escolar que lhe tenham sido distribuídos."
+  },
+  "177987826": {
+   "fragment_id": "177988491",
+   "type": 11,
+   "heading": "Artigo 8.º — Componentes do curso e áreas de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Componentes do curso e áreas de formação\n\n1 - O CPSPM integra uma componente teórica e um trabalho individual escrito, a desenvolver durante o curso, sobre um tema relacionado com a actividade da Polícia Marítima.\n\n2 - O CPSPM abrange as seguintes áreas de formação:\n\na) Área de formação cultural;\n\nb) Área de formação psicossocial;\n\nc) Área de formação jurídica;\n\nd) Área de formação técnico-policial;\n\ne) Área de formação complementar.\n\n3 - Determinados módulos de formação poderão ser ministrados através de estágios ou acções de formação apropriadas, em instituições congéneres ou em estabelecimentos de ensino específicos.\n\n4 - Podem ainda ser incluídas no curso actividades de cultura geral, com vista a uma formação integrada dos alunos."
+  },
+  "177987827": {
+   "fragment_id": "177988492",
+   "type": 11,
+   "heading": "Artigo 9.º — Elementos de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Elementos de avaliação\n\n1 - Ao longo do CPSPM, em todas as disciplinas que integram a estrutura curricular, é feita uma avaliação formativa e contínua.\n\n2 - Como suportes de avaliação serão efectuados, com periodicidade adequada, testes ou provas em todas as disciplinas das diferentes áreas de formação.\n\n3 - A avaliação em cada disciplina é traduzida numa escala de 0 a 20 valores.\n\n4 - O trabalho individual escrito a que se refere o n.º 1 do artigo anterior é objecto de avaliação autónoma.\n\n5 - O trabalho a que se refere o número anterior será analisado por um júri, composto por dois formadores, traduzindo-se a avaliação numa escala de 0 a 20 valores."
+  },
+  "177987828": {
+   "fragment_id": "177988493",
+   "type": 11,
+   "heading": "Artigo 10.º — Equivalências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Equivalências\n\n1 - Os alunos que provem, por documento, ser possuidores de disciplinas com equivalência às que integram a estrutura curricular do CPSPM podem, mediante requerimento dirigido ao comandante-geral da PM, ouvido o director da EAM, ser dispensados das mesmas.\n\n2 - As notas obtidas nas disciplinas a que se refere o número anterior não relevam para efeitos do cômputo da média da respectiva área de formação."
+  },
+  "177987829": {
+   "fragment_id": "177988494",
+   "type": 11,
+   "heading": "Artigo 11.º — Reprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Reprovação\n\nNão terão aproveitamento no CPSPM os alunos que obtenham:\n\na) Nota inferior a 10 valores na média de cada uma das áreas de formação, designadamente na cultural, psicossocial, jurídica e técnico-policial, não podendo ter menos de 8 valores em qualquer das disciplinas que as integram;\n\nb) Nota inferior a 10 valores no trabalho individual escrito."
+  },
+  "177987830": {
+   "fragment_id": "177988495",
+   "type": 11,
+   "heading": "Artigo 12.º — Exclusão no curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Exclusão no curso\n\nOs alunos que durante o CPSPM sofram condenação ou punição que possa afectar o exercício da função policial na categoria a que se destinam podem, por despacho do comandante-geral da PM, sob proposta do director da EAM, ouvido o conselho pedagógico, ser excluídos da frequência do curso."
+  },
+  "177987831": {
+   "fragment_id": "177988496",
+   "type": 11,
+   "heading": "Artigo 13.º — Classificação final do CPSPM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Classificação final do CPSPM\n\n1 - A classificação final do curso traduzir-se-á numa escala de 0 a 20 valores e resulta da média aritmética das médias obtidas nas áreas de formação cultural, psicossocial, jurídica e técnico-policial e da classificação do trabalho individual escrito, com aplicação dos seguintes coeficientes:\n\na) Área de formação cultural - coeficiente 1;\n\nb) Área de formação psicossocial - coeficiente 2;\n\nc) Área de formação jurídica - coeficiente 3;\n\nd) Área de formação técnico-policial - coeficiente 3;\n\ne) Trabalho individual escrito - coeficiente 3.\n\n2 - A classificação final do curso é expressa até às milésimas e obtém-se pela aplicação da fórmula seguinte:\n\nCCPSPM = (AFC + 2 x AFP + 3 x AFJ + 3 x AFTP + 3TIE)/12\n\nem que:\n\nCCPSPM - classificação do curso de promoção a subchefe da PM;\n\nAFC - área de formação cultural;\n\nAFP - área de formação psicossocial;\n\nAFJ - área de formação jurídica;\n\nAFTP - área de formação técnico-policial;\n\nTIE - trabalho individual escrito."
+  },
+  "177987832": {
+   "fragment_id": "177988497",
+   "type": 14,
+   "heading": "Anexo II — Estrutura curricular do curso de promoção a subchefe da Polícia Marítima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Estrutura curricular do curso de promoção a subchefe da Polícia Marítima\n\n(ver quadro no documento original)"
+  },
+  "177987861": {
+   "fragment_id": "177988487",
+   "type": 11,
+   "heading": "Artigo 4.º — Duração do curso",
+   "in_force_from": "2022-01-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 45/2022 - Diário da República n.º 14/2022, Série I de 2022-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/45-2022-177875728), em vigor a partir de 2022-01-21"
+   ],
+   "markdown": "###### Artigo 4.º — Duração do curso\n\nA duração do CPSPM não pode ultrapassar os seis meses e decorre segundo calendarização fixada para cada curso.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 45/2022 - Diário da República n.º 14/2022, Série I de 2022-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/45-2022-177875728), em vigor a partir de 2022-01-21"
+  },
+  "177987862": {
+   "fragment_id": "177988491",
+   "type": 11,
+   "heading": "Artigo 8.º — Componentes do curso e áreas de formação",
+   "in_force_from": "2022-01-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 45/2022 - Diário da República n.º 14/2022, Série I de 2022-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/45-2022-177875728), em vigor a partir de 2022-01-21"
+   ],
+   "markdown": "###### Artigo 8.º — Componentes do curso e áreas de formação\n\n1 - O CPSPM integra uma componente teórica e um trabalho individual escrito, a desenvolver durante o curso, sobre um tema relacionado com a actividade da Polícia Marítima.\n\n2 - O CPSPM abrange as seguintes áreas de formação:\n\na) Área de formação psicológica e de comando;\n\nb) Área de formação jurídica;\n\nc) Área de formação técnico-policial;\n\nd) Área de formação tático-policial;\n\ne) Trabalho individual final.\n\n3 - Determinados módulos de formação poderão ser ministrados através de estágios ou acções de formação apropriadas, em instituições congéneres ou em estabelecimentos de ensino específicos.\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 45/2022 - Diário da República n.º 14/2022, Série I de 2022-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/45-2022-177875728), em vigor a partir de 2022-01-21"
+  },
+  "177987863": {
+   "fragment_id": "177988492",
+   "type": 11,
+   "heading": "Artigo 9.º — Elementos de avaliação",
+   "in_force_from": "2022-01-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 45/2022 - Diário da República n.º 14/2022, Série I de 2022-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/45-2022-177875728), em vigor a partir de 2022-01-21"
+   ],
+   "markdown": "###### Artigo 9.º — Elementos de avaliação\n\n1 - Ao longo do CPSPM, em todas as disciplinas que integram a estrutura curricular, é feita uma avaliação sumativa e contínua.\n\n2 - Como suportes de avaliação serão efetuadas provas em todas as disciplinas das diferentes áreas de formação, à exceção da disciplina Palestra e visita que não é objeto de avaliação.\n\n3 - A avaliação em cada disciplina é traduzida numa escala de 0 a 20 valores.\n\n4 - O trabalho individual escrito a que se refere o n.º 1 do artigo anterior é objecto de avaliação autónoma.\n\n5 - O trabalho a que se refere o número anterior será analisado por um júri, composto por três formadores, traduzindo-se, a sua avaliação, numa escala de 0 a 20 valores.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 45/2022 - Diário da República n.º 14/2022, Série I de 2022-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/45-2022-177875728), em vigor a partir de 2022-01-21"
+  },
+  "177987860": {
+   "fragment_id": "177988493",
+   "type": 11,
+   "heading": "Artigo 10.º — Equivalências",
+   "in_force_from": "2022-01-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 45/2022 - Diário da República n.º 14/2022, Série I de 2022-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/45-2022-177875728), em vigor a partir de 2022-01-21"
+   ],
+   "markdown": "###### Artigo 10.º — Equivalências\n\n1 - Os alunos que provem, por documento, ser possuidores de disciplinas com equivalência às que integram a estrutura curricular do CPSPM podem, mediante requerimento dirigido ao comandante-geral da PM, ouvido o director da EAM, ser dispensados das mesmas.\n\n2 - As notas obtidas nas disciplinas a que se refere o número anterior não relevam para efeitos do cômputo da média da respectiva área de formação.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 45/2022 - Diário da República n.º 14/2022, Série I de 2022-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/45-2022-177875728), em vigor a partir de 2022-01-21"
+  },
+  "177987864": {
+   "fragment_id": "177988494",
+   "type": 11,
+   "heading": "Artigo 11.º — Reprovação",
+   "in_force_from": "2022-01-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 45/2022 - Diário da República n.º 14/2022, Série I de 2022-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/45-2022-177875728), em vigor a partir de 2022-01-21"
+   ],
+   "markdown": "###### Artigo 11.º — Reprovação\n\nNão terão aproveitamento no CPSPM os alunos que obtenham:\n\na) Nota inferior a 10 valores na média de cada uma das áreas de formação, não podendo ter menos de 8 valores em qualquer das disciplinas que as integram;\n\nb) Nota inferior a 10 valores no trabalho individual escrito.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 45/2022 - Diário da República n.º 14/2022, Série I de 2022-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/45-2022-177875728), em vigor a partir de 2022-01-21"
+  },
+  "177987865": {
+   "fragment_id": "177988496",
+   "type": 11,
+   "heading": "Artigo 13.º — Classificação final do CPSPM",
+   "in_force_from": "2022-01-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 45/2022 - Diário da República n.º 14/2022, Série I de 2022-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/45-2022-177875728), em vigor a partir de 2022-01-21"
+   ],
+   "markdown": "###### Artigo 13.º — Classificação final do CPSPM\n\n1 - A classificação final do curso traduzir-se-á numa escala de 0 a 20 valores e resulta da média aritmética das médias obtidas nas áreas de formação psicológica e de comando, jurídica, técnico-policial e tático-policial e da classificação do trabalho individual escrito, com aplicação dos seguintes coeficientes:\n\na) Área de formação psicológica e de comando - coeficiente 2;\n\nb) Área de formação jurídica - coeficiente 3;\n\nc) Área de formação técnico-policial - coeficiente 3;\n\nd) Área de formação tático-policial - coeficiente 3;\n\ne) Trabalho individual escrito - coeficiente 3.\n\n2 - A classificação final do curso é expressa até às milésimas e obtém-se pela aplicação da fórmula seguinte:\n\nCCPSPM = (2 x AFPC + 3 x AFJ + 3 x AFTEP + 3 x AFTAP + 3 x TIE)/14\n\nem que:\n\nCCPSPM - classificação do curso de promoção a subchefe da PM;\n\nAFPC - área de formação psicológica e de comando;\n\nAFJ - área de formação jurídica;\n\nAFTEP - área de formação técnico-policial;\n\nAFTAP - área de formação tático-policial;\n\nTIE - trabalho individual escrito\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 45/2022 - Diário da República n.º 14/2022, Série I de 2022-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/45-2022-177875728), em vigor a partir de 2022-01-21"
+  }
+ }
+}

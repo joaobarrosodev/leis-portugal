@@ -1,0 +1,264 @@
+---
+schema_version: '1.0'
+id: pt:dre:66108244:por
+title: Resolução n.º 1/2015
+short_title: null
+summary: Designa peritos que integram a bolsa de peritos da Comissão de Recrutamento e Seleção para a Administração Pública
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Conselho de Ministros
+proposing_entity: null
+official_number: 1/2015
+official_date: null
+publication_date: '2015-01-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 6/2015, Série II de 2015-01-09
+  number: '6'
+  series: II
+  supplement: null
+  pages: 609 - 610
+  pdf_url: https://files.diariodarepublica.pt/2s/2015/01/006000000/0060900610.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '66108244'
+  dre_path: /dr/detalhe/resolucao/1-2015-66108244
+  internal: pt:dre:66108244:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/1-2015-66108244
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/1-2015-66108244
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:15:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 12a0f517cb76c3aa05b5dc8bc0e14a726c8e56b3131fce8feb2b46976de3b99d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:29Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Pública
+- Comissão de Recrutamento e Selecção para a Administração Pública
+- Nomeação
+- Perito Nacional
+relationships:
+- type: amended_by
+  target: pt:dre:67498743:por
+  label: Alterados so mandatos renovados, do Ministério da Solidariedade Emprego e S Social, pelo Despacho n.º 6773/2015 -
+    Diário da República n.º 116/2015, Série II de 2015-06-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/6773-2015-67498743
+  date: '2015-06-17'
+- type: cites
+  target: pt:dre:1047662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2585680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3212998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:915813:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:66248793:por
+  label: Retificado o n.º 2 pelo(a) Decl de Ret 44/2015 - Diário da República n.º 12/2015, Série II de 2015-01-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/44-2015-66248793
+  date: '2015-01-19'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:15:29Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 1/2015
+
+A Comissão de Recrutamento e Seleção para a Administração Pública (CReSAP) é uma entidade independente, criada nos termos do artigo 5.º da [Lei n.º 64/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-2011-145045), de 22 de dezembro, que tem por missão o recrutamento e seleção de candidatos para cargos de direção superior na Administração Pública.
+
+Nos termos do n.º 5 do artigo 5.º dos Estatutos da CReSAP, aprovados pela [Lei n.º 64/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-2011-145045), de 22 de dezembro, funciona junto da CReSAP uma bolsa de peritos, composta por 20 a 50 membros, que apoiam a CReSAP em matérias técnicas específicas e participam nos júris dos procedimentos concursais para cargos de direção superior na Administração Pública.
+
+Nos termos dos Estatutos da CReSAP, os peritos são designados de entre trabalhadores em funções públicas com reconhecidos mérito profissional, credibilidade e integridade pessoal, realizando a CReSAP a sua proposta ao Governo, nos termos da lei, e carecendo os mesmos de designação por despacho do membro do Governo responsável pela área da Administração Pública e daquele que detenha o poder de direção ou de superintendência e tutela sobre o serviço ou órgão a que se encontrem vinculados, pelo período de um ano, renovável até ao limite de três anos.
+
+Nos termos da [Resolução n.º 27/2012](https://diariodarepublica.pt/dr/detalhe/resolucao/27-2012-915813), de 21 de junho, publicada no Diário da República, 2.ª série, n.º 144, de 26 de julho, que reportou os seus efeitos a 19 de maio de 2012, foram designados os vogais não permanentes e seus suplentes na CReSAP e os peritos que integram a respetiva bolsa de peritos, cujos mandatos têm a duração, respetivamente, de três anos e de um ano renovável até ao limite de três anos.
+
+Pelo [Despacho n.º 11476/2013](https://diariodarepublica.pt/dr/detalhe/despacho/11476-2013-3212998), de 3 de julho, publicado no Diário da República, 2.ª série, n.º 170, de 4 de setembro, pela [Resolução n.º 27/2013](https://diariodarepublica.pt/dr/detalhe/resolucao/27-2013-2585680), de 21 de novembro, publicada no Diário da República, 2.ª série, n.º 234, de 3 de dezembro, e pelo [Despacho n.º 3116/2014](https://diariodarepublica.pt/dr/detalhe/despacho/3116-2014-1047662), de 19 de fevereiro, publicado no Diário da República, 2.ª série, n.º 39, de 25 de fevereiro, foram exonerados e designados novos peritos para a bolsa de peritos da CReSAP.
+
+Considerando que importa conferir especial celeridade ao processo de designação de novos peritos, relativamente a peritos que entretanto cessaram funções, e de renovação dos peritos nas suas funções, tendo em vista permitir a operacionalização da CReSAP, recorre-se a uma resolução de Conselho de Ministros, em vez da prevista forma de despacho, garantindo-se ainda a agregação da informação referente ao universo de peritos.
+
+Assim:
+
+Nos termos dos artigos 5.º e 6.º dos Estatutos da Comissão de Recrutamento e Seleção para a Administração Pública, aprovados pela [Lei n.º 64/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-2011-145045), de 22 de dezembro, e da alínea e) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Designar, sob proposta da Comissão de Recrutamento e Seleção para a Administração Pública (CReSAP), nas funções de peritos da bolsa de peritos da CReSAP, os seguintes trabalhadores, por ministério:
+
+Ministério da Economia:
+
+- Ricardo Manuel de Magalhães Pinheiro Alves, Diretor-Geral do Gabinete de Estratégia e Estudos;
+
+Ministério da Agricultura e do Mar:
+
+- Luís Bruno Dimas Fernandes, Subdiretor-Geral do Gabinete de Planeamento, Políticas e Administração Geral;
+
+- Armando Miguel Perez de Jesus Sequeira, Diretor-Geral da Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos;
+
+Ministério da Saúde:
+
+- Cláudia Sofia Fernandes Monteiro, Diretora de Serviços de Gestão, Informação, Relações Públicas e Arquivo da Secretaria-Geral do Ministério da Saúde;
+
+Ministério da Educação e Ciência:
+
+- José Vítor dos Santos Duarte, Diretor-Geral da Direção-Geral da Educação;
+
+- João António de Sampaio Rodrigues Queiroz, Diretor-Geral da Direção-Geral do Ensino Superior;
+
+Ministério da Solidariedade, Emprego e Segurança Social:
+
+- Susana Cristina Lourenço de Paiva, Secretária do Conselho Diretivo do Instituto da Segurança Social, I.P.
+
+2 - Renovar, sob proposta da CReSAP, nas funções de peritos da bolsa de peritos da CReSAP, os seguintes trabalhadores, por ministério:
+
+Presidência do Conselho de Ministros:
+
+- Alda Maria das Neves Carneiro Caetano Carvalho, Presidente do Conselho Diretivo do Instituto Nacional de Estatística, I.P.;
+
+- Maria Margarida Ortigão de Almeida Sampaio Ramos, Subdiretora-Geral da Direção-Geral do Livro dos Arquivos e das Bibliotecas;
+
+- José Santos Soeiro, Presidente do Conselho Diretivo da Agência para o Desenvolvimento e Coesão, I.P.;
+
+- Rosa Maria Simões da Silva, Vice-Presidente do Conselho Diretivo da Agência para o Desenvolvimento e Coesão, I.P.;
+
+Ministério das Finanças:
+
+- António José Mata Simões, Diretor de Serviços da Direção-Geral da Administração e do Emprego Público;
+
+- Maria Asensio Menchero, Investigadora Principal da Direção-Geral da Administração e do Emprego Público;
+
+- Maria Antónia Prazeres Pereira, Chefe de Equipa Multidisciplinar da Inspeção-Geral de Finanças;
+
+Ministério dos Negócios Estrangeiros:
+
+- Luísa de Jesus Curvelo Pacheco, Técnica Superior da Direção-Geral dos Assuntos Europeus;
+
+- Maria José Mesquita Lopes Carujo, Técnica Superior da Direção-Geral dos Assuntos Consulares e das Comunidades Portuguesas;
+
+- Carla Clementina Ventura Alves Freire, Técnica Superior da Inspeção-Geral Diplomática e Consular;
+
+Ministério da Defesa Nacional:
+
+- Cristina Maria da Cunha Santos, Técnica Superior da Direção-Geral de Pessoal e Recrutamento Militar;
+
+- Luís de Ascensão Correia Galego, Técnico Superior da Direção-Geral de Pessoal e Recrutamento Militar;
+
+- Ana Isabel Fernandes, Diretora de Recursos Humanos da Secretaria-Geral do Ministério da Defesa Nacional;
+
+Ministério da Administração Interna:
+
+- António José Santos Carvalho, Chefe do Departamento de Gestão e Administração de Recursos Humanos do Serviço de Estrangeiros e Fronteiras;
+
+- Manuel João Alves, Diretor de Departamento de Recursos Humanos da Polícia de Segurança Pública;
+
+- Maria Elizabete Afoito Ramos Leal Lopes, Técnica Superior Principal da Secretaria-Geral do Ministério da Administração Interna;
+
+- Rui Alberto Pereira Maeiro, Técnico Superior da Secretaria-Geral do Ministério da Administração Interna;
+
+Ministério da Justiça:
+
+- Ana Maria Vicente da Silva Horta, Diretora do Departamento de Gestão Financeira do Instituto de Gestão Financeira e Equipamentos da Justiça, I.P.;
+
+- Emília da Glória Silva dos Santos, Coordenadora do Setor de Apoio Jurídico e Processamento de Remunerações do Instituto dos Registos e do Notariado, I.P.;
+
+- Luís Cecílio Vidal Gonçalves, Técnico Superior da Secretaria-Geral do Ministério da Justiça;
+
+- Maria do Rosário Lagarto Pereira, Diretora de Serviços de Recursos Humanos da Secretaria-Geral do Ministério da Justiça;
+
+Ministério da Economia:
+
+- João Santiago Leão Ponce Dentinho, Vogal do Conselho Diretivo do Instituto da Construção e do Imobiliário, I.P.;
+
+- Anabela Rodrigues da Silva, Técnica Superior da Direção-Geral das Atividades Económicas;
+
+Ministério do Ambiente, Ordenamento do Território e Energia:
+
+- João Manuel Santos Vieira, Diretor de Serviços do Instituto da Habitação e da Reabilitação Urbana, I.P.;
+
+- José Carlos Silva Pereira, Diretor de Serviços da Direção-Geral de Energia e Geologia;
+
+- Luísa Conceição Rodrigues Esmeriz, Diretora de Serviços da Direção-Geral do Território;
+
+- Alexandre Bernardo Macedo Lopes Simões, Vice-Presidente da Agência Portuguesa do Ambiente;
+
+Ministério da Agricultura e do Mar:
+
+- António Frederico Sousa Cid de Sousa Falcão, Presidente do Conselho Diretivo do Instituto da Vinha e do Vinho, I.P.;
+
+- João Manuel Rijo Fonseca Ribeiro, Diretor-Geral da Direção-Geral de Política do Mar;
+
+Ministério da Saúde:
+
+- Pedro Emanuel Ventura Alexandre, Vogal do Conselho Diretivo da Administração Central do Sistema de Saúde, I.P.;
+
+- Fernando José Ramos Lopes de Almeida, Presidente do Conselho Diretivo do Instituto Nacional de Saúde Doutor Ricardo Jorge, I.P.;
+
+Ministério da Educação e Ciência:
+
+- Célia Maria de Viveiros e Sá e Santos, Subdiretora-Geral da Direção-Geral de Planeamento e Gestão Financeira;
+
+- Cláudia Fernandes Carvalho, Diretora de Serviços de Emprego e das Relações de Trabalho da Secretaria-Geral do Ministério da Educação e Ciência;
+
+- José Manuel Passos, Diretor-Geral da Direção-Geral de Planeamento e Gestão Financeira;
+
+Ministério da Solidariedade, Emprego e Segurança Social:
+
+- Pedro Jorge de Almeida Ferreira, Chefe de Divisão dos Serviços de Gestão de Recursos Humanos do Gabinete de Estratégia e Planeamento.
+
+3 - Estabelecer que os currículos dos designados nos termos dos números anteriores são publicados e ficam disponíveis na página eletrónica da CReSAP (www.cresap.pt).
+
+4 - Determinar que a presente resolução produz efeitos desde 21 de maio de 2014, salvo no que respeita às designações previstas no n.º 1, ficando por esta forma ratificados todos os atos entretanto praticados.
+
+23 de dezembro de 2014. - O Primeiro-Ministro, Pedro Passos Coelho.
+
+208342128

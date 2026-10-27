@@ -1,0 +1,659 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32013R1288:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R1288-20210101",
+ "dre_path": null,
+ "source_lastmod": "2021-01-01",
+ "versions": [
+  {
+   "date": "2013-12-20",
+   "future": false,
+   "celex": "32013R1288",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c40d5c0c48887701",
+    "226c39ffd0a88dad",
+    "7fabed8a0a46afb5",
+    "2f171a9bd16d9ce7",
+    "777569c887087cd9",
+    "e04b7715c9e3aff5",
+    "dba7ac99260c2ea0",
+    "f0f8c960bfdbce9b",
+    "a2ae905660f57855",
+    "5e8597580f721443",
+    "9f166bd67a15f537",
+    "0f6928502bdd077f",
+    "1c77984b1aaf7cea",
+    "fe9cae1c066f67f4",
+    "48297d0d36e1e783",
+    "1e7a0903d2eed348",
+    "d9e97d65bd2c4732",
+    "2801aed0b978bef3",
+    "251d7c37ceb1dfdc",
+    "64cbbfe43249e92a",
+    "b1d26088ddca67ed",
+    "4222281f603bc990",
+    "1ecfc79da3f1ac7f",
+    "02358ccf407a2d91",
+    "e75f0a650d1641a8",
+    "2a0bd98d9e1af889",
+    "40ed6b62e188ac6f",
+    "1405094d1b575a4b",
+    "6c6ea6e0acc5ed1a",
+    "2e2fd00dddbcfc35",
+    "df6ad5fe337cccb9",
+    "b76d202a844f758e",
+    "7ec1818a002add56",
+    "90784b555123cfb0",
+    "8f4f58bd149364e4",
+    "7fd045ac4f655f13",
+    "63c8272543beadb3",
+    "e9a6f16a5b99231b",
+    "17b3d3ed75779f20",
+    "99973826fcc02605",
+    "7580a5bab0aa1a93",
+    "bbd33cd6943f777e",
+    "3406752be1164197",
+    "2419bf38efea5572",
+    "c0622c9b0f3883f6",
+    "f43b44fe72ae8710",
+    "0d2492c6fb6dc2a7",
+    "066a8a7b3c446d0b",
+    "0f774730b287414e",
+    "ca58e9d708e28167",
+    "78ba38b58706e91a",
+    "63e36e9fa428ed4b",
+    "2e6c9818f7bb646d",
+    "b399ac60235766e8",
+    "7713d64546551ae0",
+    "ea1c47d7467db219",
+    "df5b0f9c7202d008",
+    "e04eea2e2268a242",
+    "bbdde795c58f027f",
+    "27305b3b762ba3d7",
+    "9aa95275e2e5d6fc",
+    "9088ac9f6d3cd3d3"
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "celex": "02013R1288-20210101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime Disposições gerais",
+    "Suprime Artigo 1.º — Âmbito de aplicação do Programa",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Valor acrescentado europeu",
+    "Suprime Artigo 4.º — Objetivo geral do Programa",
+    "Suprime CAPÍTULO II",
+    "Suprime Educação e formação",
+    "Suprime Artigo 5.º — Objetivos específicos",
+    "Suprime Artigo 6.º — Ações do Programa",
+    "Suprime Artigo 7.º — Mobilidade individual para fins de aprendizagem",
+    "Suprime Artigo 8.º — Cooperação para a inovação e o intercâmbio de boas práticas",
+    "Suprime Artigo 9.º — Apoio à reforma de políticas",
+    "Suprime Artigo 10.º — Atividades Jean Monnet",
+    "Suprime CAPÍTULO III",
+    "Suprime Juventude",
+    "Suprime Artigo 11.º — Objetivos específicos",
+    "Suprime Artigo 12.º — Ações do Programa",
+    "Suprime Artigo 13.º — Mobilidade individual para fins de aprendizagem",
+    "Suprime Artigo 14.º — Cooperação para a inovação e o intercâmbio de boas práticas",
+    "Suprime Artigo 15.º — Apoio à reforma de políticas",
+    "Suprime CAPÍTULO IV",
+    "Suprime Desporto",
+    "Suprime Artigo 16.º — Objetivos específicos",
+    "Suprime Artigo 17.º — Atividades",
+    "Suprime CAPÍTULO V",
+    "Suprime Disposições financeiras",
+    "Suprime Artigo 18.º — Orçamento",
+    "Suprime Artigo 19.º — Modalidades específicas de financiamento",
+    "Suprime Artigo 20.º — Mecanismo de Garantia para Empréstimos a Estudantes",
+    "Suprime CAPÍTULO VI",
+    "Suprime Desempenho, resultados e disseminação",
+    "Suprime Artigo 21.º — Monitorização e avaliação do desempenho e dos resultados",
+    "Suprime Artigo 22.º — Comunicação e disseminação",
+    "Suprime CAPÍTULO VII",
+    "Suprime Acesso ao Programa",
+    "Suprime Artigo 23.º — Acesso",
+    "Suprime Artigo 24.º — Países participantes",
+    "Suprime CAPÍTULO VIII",
+    "Suprime Sistema de gestão e auditoria",
+    "Suprime Artigo 25.º — Complementaridade",
+    "Suprime Artigo 26.º — Organismos de execução",
+    "Suprime Artigo 27.º — Autoridade nacional",
+    "Suprime Artigo 28.º — Agência nacional",
+    "Suprime Artigo 29.º — Comissão Europeia",
+    "Suprime Artigo 30.º — Organismo de auditoria independente",
+    "Suprime CAPÍTULO IX",
+    "Suprime Sistema de controlo",
+    "Suprime Artigo 31.º — Princípios do sistema de controlo",
+    "Suprime Artigo 32.º — Proteção dos interesses financeiros da União",
+    "Suprime CAPÍTULO X",
+    "Suprime Delegação de poderes e disposições de execução",
+    "Suprime Artigo 33.º — Delegação de poderes na Comissão",
+    "Suprime Artigo 34.º — Exercício da delegação",
+    "Suprime Artigo 35.º — Execução do Programa",
+    "Suprime Artigo 36.º — Procedimento de Comité",
+    "Suprime CAPÍTULO XI",
+    "Suprime Disposições finais",
+    "Suprime Artigo 37.º — Revogação e disposições transitórias",
+    "Suprime Artigo 38.º — Entrada em vigor",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "076eb0985417daa9"
+   ]
+  }
+ ],
+ "fragments": {
+  "c40d5c0c48887701": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de dezembro de 2013\n\nque cria o Programa \"Erasmus+\" o programa da União para o ensino, a formação, a juventude e o desporto e que revoga as Decisões n.º 1719/2006/CE, n.º 1720/2006/CE e n.º 1298/2008/CE\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 165.º, n.º 4, e o artigo 166.º, n.º 4,\n\nTendo em conta a proposta da Comissão Europeia,\n\nApós transmissão do projeto de ato legislativo aos parlamentos nacionais,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr1-L_2013347PT.01005001-E0001),\n\nTendo em conta o parecer do Comité das Regiões [([^2])](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr2-L_2013347PT.01005001-E0002),\n\nDeliberando de acordo com o processo legislativo ordinário [([^3])](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr3-L_2013347PT.01005001-E0003),\n\nConsiderando o seguinte:\n\n(1) A Comunicação da Comissão de 29 de junho de 2011 intitulada \"Um Orçamento para a Europa 2020\" solicita a criação de um único programa no domínio da educação, formação e juventude, incluindo os aspetos internacionais do ensino superior, que reúna o programa de ação no domínio da aprendizagem ao longo da vida (\"Aprendizagem ao Longo da Vida\") instituído pela Decisão n.º 1720/2006/CE do Parlamento Europeu e do Conselho [([^4])](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr4-L_2013347PT.01005001-E0004), o programa Juventude em Ação (\"Juventude em Ação\") instituído pela Decisão n.º 1719/2006/CE do Parlamento Europeu e do Conselho [([^5])](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr5-L_2013347PT.01005001-E0005), o programa Erasmus Mundus (\"Erasmus Mundus\") instituído pela Decisão n.º 1298/2008/CE do Parlamento Europeu e do Conselho [([^6])](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr6-L_2013347PT.01005001-E0006), o programa ALFA III instituído pelo Regulamento n.º 1905/2006/CE do Parlamento Europeu e do Conselho [([^7])](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr7-L_2013347PT.01005001-E0007) e os programas Tempus e Edulink, de modo a garantir uma maior eficiência, um maior enfoque estratégico e a exploração de sinergias entre os vários aspetos do programa. Além disso, o desporto é proposto como parte deste programa único (\"Programa\").\n\n(2) Os relatórios de avaliação intercalar dos atuais programas Aprendizagem ao Longo da Vida, Juventude em Ação e Erasmus Mundus, bem como a consulta pública sobre a ação futura da União no domínio da educação, da formação, da juventude e do ensino superior mostraram que o prosseguimento das atividades de cooperação e mobilidade nestes domínios a nível europeu constitui uma necessidade importante e, em certos aspetos, crescente. Os relatórios de avaliação puseram também em destaque a importância de assegurar uma melhor ligação dos programas da União à evolução das políticas de educação, formação e juventude, formularam o desejo de que a ação da União fosse estruturada de modo a responder melhor ao paradigma da aprendizagem ao longo da vida e apelaram a uma abordagem mais simples, mais intuitiva e mais flexível com vista à execução desta ação e ao fim da fragmentação dos programas de cooperação internacional no domínio do ensino superior.\n\n(3) O Programa deverá centrar-se na acessibilidade do financiamento e na transparência dos procedimentos administrativos e financeiros, nomeadamente através da utilização das tecnologias da informação e da comunicação (TIC) e da digitalização. A racionalização e simplificação da organização e da gestão do Programa e uma atenção persistente na redução das despesas administrativas são igualmente vitais para o êxito do Programa.\n\n(4) A consulta pública sobre as opções estratégicas da União para o exercício da nova competência específica da União no domínio do desporto e o relatório da Comissão sobre a avaliação das ações preparatórias no domínio do desporto deram indicações úteis sobre domínios prioritários para a ação da União e ilustraram o valor acrescentado que a União pode proporcionar ao dar apoio a atividades que visam a criação, a partilha e a divulgação de experiências e de conhecimentos acerca de diversas questões que afetam o desporto a nível europeu, desde que se centrem, principalmente, a nível do desporto de base.\n\n(5) A estratégia Europa 2020 para um crescimento inteligente, sustentável e inclusivo define a estratégia de crescimento da União para a próxima década em prol desse crescimento, fixando cinco objetivos ambiciosos a alcançar até 2020, em especial no domínio da educação, cujo objetivo é baixar as taxas de abandono escolar precoce para níveis inferiores a 10 %, e incentivar a que, pelo menos, 40 % da população, entre 30-34 anos de idade a conclua o ensino superior ou equivalente. Incluem-se ainda as iniciativas emblemáticas, em particular \"Juventude em Movimento\" e a Agenda \"Novas Qualificações para Novos Empregos\".\n\n(6) Nas suas conclusões de 12 de maio de 2009, o Conselho solicitou a elaboração de um quadro estratégico para a cooperação europeia no domínio da educação e formação (EF 2020) que define quatro objetivos estratégicos para responder aos desafios que subsistem na criação de uma Europa baseada no conhecimento e para tornar a aprendizagem ao longo da vida numa realidade para todos.\n\n(7) Nos termos dos artigos 8.º e 10.º do Tratado sobre o Funcionamento da União Europeia (TFUE), bem como dos artigos 21.º e 23.º da Carta dos Direitos Fundamentais da União Europeia, o Programa promoverá, nomeadamente, a igualdade entre homens e mulheres e medidas para lutar contra a discriminação em razão do sexo, origem racial ou étnica, religião ou crença, deficiência, idade ou orientação sexual. Na execução do Programa, é necessário alargar o acesso às pessoas oriundas de grupos desfavorecidos e vulneráveis, assim como responder ativamente às necessidades especiais de aprendizagem das pessoas com deficiência.\n\n(8) O Programa deverá incluir uma forte dimensão internacional, em particular no que respeita ao ensino superior, não só para reforçar a qualidade do ensino superior europeu no quadro mais amplo da prossecução dos objetivos EF 2020 e da atratividade da União como destino de estudos, mas também para promover a compreensão entre os povos e contribuir para o desenvolvimento sustentável do ensino superior em países parceiros, bem como para um mais amplo desenvolvimento socioeconómico destes últimos, nomeadamente incentivando a \"circulação de cérebros\" através de ações de mobilidade com cidadãos de países parceiros. Para esse efeito, deverão ser disponibilizados fundos do Instrumento de Cooperação para o Desenvolvimento (ICD), do Instrumento Europeu de Vizinhança (IEV), do Instrumento de Assistência de Pré-Adesão (IAP) e do Instrumento de Parceria para a cooperação com países terceiros (IP). Poderão ser também disponibilizados fundos do Fundo Europeu de Desenvolvimento (FED) em conformidade com os procedimentos que o regem. As disposições do presente regulamento são aplicáveis à utilização desses fundos, embora garantindo o respeito dos regulamentos respetivos que estabelecem esses instrumentos e esse fundo.\n\n(9) Na sua resolução de 27 de novembro de 2009 sobre um quadro renovado para a cooperação europeia no domínio da juventude (2010-2018), o Conselho salientou a necessidade de considerar todos os jovens como um ativo social e visou facilitar a sua participação na elaboração das políticas que os afetam, graças a um diálogo estruturado permanente entre os decisores e os jovens e as organizações de juventude a todos os níveis.\n\n(10) A reunião das aprendizagens formal, não formal e informal num único sob a égide de um único programa deverá permitir criar sinergias e promover a cooperação intersetorial entre os vários setores da educação, da formação e da juventude. Durante a execução do Programa, deverão ser tidas em conta as necessidades específicas dos diversos setores e, se for caso disso, o papel das autoridades locais e regionais.\n\n(11) Para apoiar a mobilidade, equidade e excelência nos estudos, a União deverá estabelecer, a título experimental, um Mecanismo de Garantia de Empréstimo a Estudantes que permita aos estudantes, independentemente do seu estrato social, prosseguir estudos com vista à obtenção do grau de mestre em outro país participante no Programa (a seguir designado \"país do Programa\"). O Mecanismo de Garantia de Empréstimo a Estudantes deverá estar disponível para as instituições financeiras que pretendam conceder empréstimos destinados a apoiar o prosseguimento de estudos de mestrado noutros países do programa, em condições favoráveis aos estudantes. Este instrumento suplementar e inovador para a mobilidade na aprendizagem não deverá substituir quaisquer sistemas de empréstimo ou subvenções já existentes nem impedir a criação de sistemas futuros que apoiem a mobilidade dos estudantes a nível local, nacional e da União. O Mecanismo de Garantia de Empréstimo a Estudantes deverá ser objeto de um acompanhamento e avaliação rigorosos, em particular no que se refere à sua penetração no mercado nos diferentes países. Nos termos do artigo 21.º, n.^os^ 2 e 3, deverá ser apresentado um relatório intercalar ao Parlamento Europeu e ao Conselho até ao final de 2017, tendo em vista a obtenção de orientações políticas sobre a continuação do Mecanismo de Garantia de Empréstimo a Estudantes.\n\n(12) Os Estados-Membros deverão envidar esforços para adotar todas as medidas tendentes a eliminar os obstáculos jurídicos e administrativos ao bom funcionamento do Programa. Para tal, é igualmente necessário resolver, sempre que possível, questões administrativas, que levantam dificuldades à obtenção de vistos e autorizações de residência. Em consonância com a Diretiva 2004/114/CE do Conselho [([^8])](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr8-L_2013347PT.01005001-E0008), os Estados Membros são encorajados a instituir procedimentos céleres de admissão.\n\n(13) A comunicação da Comissão de 20 de setembro de 2011 intitulada \"Apoio ao crescimento e ao emprego – Uma agenda para a modernização dos sistemas de ensino superior da Europa\" estabelece um quadro no âmbito do qual a União, os Estados-Membros e as instituições de ensino superior podem cooperar no sentido de aumentar o número de diplomados, melhorar a qualidade da educação e maximizar o contributo que o ensino superior e a investigação podem prestar para ajudar as economias e as sociedades dos Estados-Membros a emergirem mais fortes da atual crise económica global.\n\n(14) A fim de melhor combater o desemprego dos jovens na União, deverá ser dedicada particular atenção à cooperação transnacional entre estabelecimentos de ensino superior e de formação profissional e empresas, com o objetivo de melhorar a empregabilidade dos estudantes e desenvolver competências empresariais.\n\n(15) A Declaração de Bolonha, assinada pelos Ministros da Educação de 29 países europeus em 19 de junho de 1999, estabeleceu um processo intergovernamental com o objetivo de criar um \"espaço europeu do ensino superior\", que requer um apoio constante a nível da União.\n\n(16) O papel crucial desempenhado pela educação e formação profissionais (EFP) no cumprimento de várias metas estabelecidas na estratégia Europa 2020 é amplamente reconhecido e definido no Processo de Copenhaga (2001-2020) renovado, tendo em conta, nomeadamente, o seu potencial para abordar o elevado nível de desemprego na Europa, sobretudo o desemprego dos jovens e o desemprego de longa duração, promover uma cultura de aprendizagem ao longo da vida, combater a exclusão social e promover a cidadania ativa. São necessários estágios e aprendizagens de qualidade, nomeadamente em microempresas e em pequenas e médias empresas, para colmatar o fosso entre os conhecimentos adquiridos através da educação e da formação e as aptidões e competências exigidas no mundo do trabalho, bem como para reforçar a empregabilidade dos jovens.\n\n(17) É necessário reforçar a intensidade e a dimensão da cooperação europeia entre as escolas, bem como da mobilidade do pessoal docente e discente, a fim de satisfazer as prioridades definidas na agenda para a cooperação europeia em matéria escolar para o século XXI, a saber, melhorar a qualidade do ensino escolar na União nos domínios do desenvolvimento das competências e a equidade e inclusão nos sistemas e instituições de ensino, bem como reforçar e apoiar a profissão de docente e a liderança escolar. Neste contexto, há que atribuir especial prioridade aos objetivos estratégicos em termos de redução do abandono escolar precoce, melhoria das competências básicas, participação e qualidade dos cuidados e educação ministrados na primeira infância, bem como aos objetivos em matéria de reforço das competências profissionais dos professores e dos dirigentes escolares, e, ainda, à melhoria das oportunidades de ensino para crianças oriundas da imigração e pessoas em situação de desvantagem socioeconómica.\n\n(18) A nova Agenda Europeia para a educação de adultos incluída na resolução do Conselho de 28 de novembro de 2011 visa assegurar que todos os adultos podem desenvolver e melhorar as suas aptidões e competências ao longo da vida. Deverá ser prestada especial atenção ao reforço das oportunidades de aprendizagem para o elevado número de europeus pouco especializados, nomeadamente reforçando a literacia e a numeracia e promovendo percursos educativos flexíveis e medidas de segunda oportunidade.\n\n(19) A ação do Fórum Europeu da Juventude, dos Centros Nacionais de Informação sobre o Reconhecimento Académico (NARIC), das redes Eurydice, Euroguidance e Eurodesk, bem como dos serviços de apoio nacional à geminação eletrónica de escolas (eTwinning), dos Centros Nacionais Europass e dos Gabinetes Nacionais de Informação nos países vizinhos é essencial para alcançar os objetivos do Programa, nomeadamente facultando à Comissão informação periódica e atualizada sobre os vários domínios da sua atividade e através da divulgação dos resultados do Programa na União e nos países parceiros.\n\n(20) É necessário, no âmbito do Programa, reforçar a cooperação entre as organizações internacionais no domínio da educação, da formação, da juventude e do desporto, em especial com o Conselho da Europa.\n\n(21) A fim de contribuir para o desenvolvimento da excelência dos estudos sobre a integração europeia em todo o mundo, e para atender à crescente necessidade de informação e de diálogo sobre o processo de integração europeia e a sua evolução, é importante estimular a excelência no âmbito do ensino, da investigação e da reflexão neste domínio, através do apoio às instituições de ensino superior, às associações especializadas na área da integração europeia e às associações que persigam um objetivo de interesse europeu, através da Ação Jean Monnet.\n\n(22) A cooperação, no âmbito, do Programa, com as organizações da sociedade civil nos domínios da educação, da formação, da juventude e do desporto, a nível nacional e da União, reveste-se de grande importância para um maior envolvimento e participação da sociedade civil nas estratégias e políticas em matéria de aprendizagem ao longo da vida e para a tomada em consideração das ideias e preocupações das partes interessadas a todos os níveis.\n\n(23) A Comunicação da Comissão intitulada \"Desenvolver a Dimensão Europeia do Desporto\", de 18 de janeiro de 2011, apresenta as ideias da Comissão para as ações ao nível da União no domínio do desporto após a entrada em vigor do Tratado de Lisboa e propõe uma lista de ações concretas a tomar pela Comissão e pelos Estados-Membros destinadas a aumentar a identidade europeia do desporto em três grandes capítulos: função societal, dimensão económica e organização do desporto. Há que ter igualmente em conta o valor acrescentado do desporto, nomeadamente dos desportos autóctones, e o seu contributo para o património cultural e histórico da União.\n\n(24) É necessário centrar a atenção no desporto de base e no voluntariado no desporto, devido ao importante papel que desempenham na promoção da inclusão social, da igualdade de oportunidades e da atividade física benéfica para a saúde.\n\n(25) Uma maior transparência e reconhecimento das qualificações e competências, bem como uma aceitação crescente dos instrumentos de transparência e reconhecimento da União contribuirão para o desenvolvimento de uma educação e formação de qualidade e facilitarão a mobilidade, tanto para efeitos de aprendizagem ao longo da vida como para efeitos profissionais em toda a Europa, entre países e setores. O acesso a métodos, práticas e tecnologias usados noutros países contribuirá para o aumento da empregabilidade.\n\n(26) Para esse efeito, recomenda-se que seja feita uma utilização generalizada do quadro único da União para a transparência das qualificações e competências (Europass), estabelecido pela Decisão n.º 2241/2004/CE do Parlamento Europeu e do Conselho [([^9])](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr9-L_2013347PT.01005001-E0009), do Registo Europeu de Garantia da Qualidade do Ensino Superior (EQAR) e da Associação Europeia para a Garantia da Qualidade no Ensino Superior (ENQA), estabelecidos nos termos da Recomendação 2006/143/CE do Parlamento Europeu e do Conselho [([^10])](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr10-L_2013347PT.01005001-E0010), do Quadro Europeu de Qualificações (QEQ), estabelecido nos termos da Recomendação do Parlamento Europeu e do Conselho, de 23 de abril de 2008 [([^11])](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr11-L_2013347PT.01005001-E0011), do Sistema Europeu de Transferência de Créditos no Ensino e na Formação Profissionais (ECVET), estabelecido nos termos da Recomendação do Parlamento Europeu e do Conselho de 18 de junho de 2009 [([^12])](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr12-L_2013347PT.01005001-E0012), e do Quadro de Referência Europeu de Garantia da Qualidade para o Ensino e a Formação Profissionais (EQAVET), estabelecido nos termos da Recomendação do Parlamento Europeu e do Conselho, de 18 de junho de 2009 [([^13])](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr13-L_2013347PT.01005001-E0013), e do sistema europeu de transferência e acumulação de créditos académicos (ECTS).\n\n(27) A fim de maximizar a eficácia da comunicação ao público em geral e assegurar sinergias mais fortes entre as atividades de comunicação realizadas por iniciativa da Comissão, os recursos atribuídos às ações de comunicação no âmbito do presente regulamento deverão contribuir para cobrir a comunicação institucional das prioridades políticas da União sempre que estejam relacionadas com os objetivos gerais do presente regulamento.\n\n(28) É necessário garantir o valor acrescentado europeu de todas as ações realizadas no âmbito do Programa e a sua complementaridade com as atividades dos Estados-Membros, em conformidade com o artigo 167.º, n.º 4, do TFUE, e com outras atividades, em especial nos domínios da cultura e dos meios de comunicação, do emprego, da investigação e da inovação, da indústria e das empresas, da política de coesão e de desenvolvimento, bem como nos domínios da política de alargamento e das iniciativas, dos instrumentos e estratégias em matéria de política regional e das relações externas.\n\n(29) O Programa é concebido para ter um impacto positivo e sustentável nas políticas e práticas em matéria de educação, formação, juventude e desporto. Este impacto sistémico deverá ser alcançado através das várias ações e atividades previstas no Programa, as quais visam promover mudanças a nível institucional e, se for caso disso, fomentar a inovação a nível do sistema. Não é exigido aos projetos individuais que solicitam apoio financeiro ao Programa que tenham um impacto sistémico por si sós. É o resultado cumulativo destes projetos que deverá contribuir para a obtenção deste impacto sistémico.\n\n(30) Para uma gestão eficaz do desempenho que inclua os aspetos de avaliação e monitorização, é necessário que sejam desenvolvidos indicadores de desempenho específicos, mensuráveis e realistas que possam ser medidos ao longo do tempo e reflitam a lógica da intervenção.\n\n(31) A Comissão e os Estados-Membros deverão otimizar a utilização das TIC e das novas tecnologias, a fim de facilitar o acesso às ações em matéria de educação, formação, juventude e desporto. Neste contexto, poderá recorrer-se à mobilidade virtual, a qual deverá ser complementar da mobilidade para fins de aprendizagem, mas não substituí-la.\n\n(32) O presente regulamento estabelece um enquadramento financeiro para a totalidade do período de vigência do Programa que constitui o montante financeiro de referência privilegiada, na aceção do ponto (17) do Acordo Interinstitucional entre o Parlamento Europeu, o Conselho e a Comissão sobre a disciplina orçamental, a cooperação no domínio orçamental e a boa gestão financeira [([^14])](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr14-L_2013347PT.01005001-E0014), para o Parlamento Europeu e o Conselho durante o processo orçamental anual.\n\n(33) A fim de assegurar a continuidade do apoio financeiro prestado ao abrigo do Programa para o funcionamento de organismos, a Comissão deverá poder, durante a fase inicial do Programa, considerar os custos diretamente relacionados com a execução das atividades consideradas como elegíveis para financiamento, mesmo que estes tenham sido incorridos pelo candidato antes do pedido de financiamento ter sido apresentado.\n\n(34) É necessário estabelecer critérios de desempenho aplicáveis à repartição do orçamento entre os Estados-Membros, no caso das ações geridas pelas agências nacionais.\n\n(35) Os países candidatos à adesão à União e os países da Associação Europeia de Comércio Livre (EFTA) que são membros do Espaço Económico Europeu (EEE) podem participar nos programas da União, no âmbito de acordos-quadro, decisões de Associação do Conselho ou outros acordos similares.\n\n(36) A Confederação Suíça poderá participar nos programas da União, nos termos do acordo que vier a assinar com a União.\n\n(37) Os cidadãos de um país ou território ultramarino (PTU) e os organismos e instituições públicos e/ou privados competentes de um PTU poderão participar nos programas nos termos da Decisão 2001/822/CE do Conselho [([^15])](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr15-L_2013347PT.01005001-E0015). Os condicionalismos resultantes do afastamento das regiões ultraperiféricas da União e dos PTU deverão ser tidos em conta na execução do Programa.\n\n(38) A Comissão Europeia e a Alta Representante da União para os Negócios Estrangeiros e a Política de Segurança, na sua comunicação conjunta, de 25 de maio de 2011, intitulada \"Uma nova resposta a uma vizinhança em mutação\" referem, nomeadamente, a necessidade de facilitar a participação dos países vizinhos nas ações de mobilidade e reforço de capacidades no domínio do ensino superior, bem como a abertura do futuro programa de educação aos países vizinhos.\n\n(39) Os interesses financeiros da União deverão ser protegidos através de medidas proporcionadas aplicadas ao longo do ciclo de despesa, nomeadamente por meio da prevenção, deteção e investigação de irregularidades, da recuperação de fundos perdidos, pagos indevidamente ou utilizados incorretamente e, se for caso disso, da aplicação de sanções. Embora a ajuda externa prestada pela União tenha uma necessidade crescente de financiamento, a situação económica e orçamental da União limita os recursos disponíveis para essa ajuda. A Comissão deverá, portanto, procurar utilizar os recursos disponíveis com a maior eficiência e sustentabilidade possível, em particular através de instrumentos financeiros com efeito multiplicador.\n\n(40) A fim de reforçar o acesso ao Programa, as subvenções concedidas para apoiar a mobilidade individual deverão ser adaptadas em função do custo de vida e de subsistência do país de acolhimento. Nos termos da lei nacional, os Estados-Membros deverão ser incentivados a isentar estas subvenções de quaisquer impostos e comparticipações sociais. A mesma isenção deverá ser aplicada aos organismos públicos e privados que prestam essa ajuda financeira às pessoas em causa.\n\n(41) Nos termos do Regulamento (UE, Euratom) n.º 966/2012 do Parlamento Europeu e do Conselho [([^16])](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr16-L_2013347PT.01005001-E0016), o trabalho voluntário poderá ser reconhecido como cofinanciamento sob a forma de contribuições em espécie.\n\n(42) Na sua Comunicação intitulada \"Um Orçamento para a Europa 2020\", de 29 de junho de 2011, a Comissão sublinhou o seu empenho em simplificar os financiamentos concedidos pela União. A criação de um programa único de educação, formação, juventude e desporto deverá contribuir para simplificar, racionalizar e criar sinergias na gestão do Programa. A execução do Programa deverá ser ainda mais simplificada, através da utilização de montantes fixos, custos unitários ou taxas fixas de financiamento, bem como da redução dos requisitos formais e burocráticos aplicáveis a beneficiários e Estados-Membros.\n\n(43) A melhoria da execução e da qualidade das despesas deverá constituir um princípio orientador para a consecução dos objetivos do Programa, assegurando simultaneamente a utilização otimizada dos recursos financeiros.\n\n(44) É importante assegurar a boa gestão financeira do Programa e a sua execução da forma mais eficaz e intuitiva possível, garantindo, simultaneamente, a segurança jurídica e o acesso de todos os participantes ao Programa.\n\n(45) A fim de garantir uma resposta rápida à evolução das necessidades durante toda a vigência do Programa, o poder de adotar atos, nos termos do artigo 290.º do TFUE, deverá ser delegado na Comissão, no que diz respeito às medidas relacionadas com as ações adicionais geridas pelas agências nacionais. É particularmente importante que a Comissão proceda às consultas adequadas durante os trabalhos preparatórios, inclusive a nível dos peritos. A Comissão, na preparação e redação de atos delegados, deverá assegurar a transmissão simultânea, atempada e adequada dos documentos relevante ao Parlamento Europeu e ao Conselho.\n\n(46) A fim de assegurar condições uniformes de execução do presente regulamento, deverão ser atribuídas competências de execução à Comissão. Essas competências deverão ser exercidas nos termos do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho [([^17])](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr17-L_2013347PT.01005001-E0017).\n\n(47) O Programa deverá abranger três domínios diferentes, e o Comité instituído nos termos do presente regulamento deverá abordar questões transversais e setoriais. Compete aos Estados-Membros assegurar uma representação apropriada nas reuniões desse Comité, em função dos temas constantes da ordem do dia, e compete à presidência do Comité assegurar que as ordens do dia das reuniões indiquem claramente o setor ou setores em causa e os temas, consoante os setores, a serem debatidos em cada reunião. Se for caso disso, e nos termos do regulamento interno do Comité e numa base *ad hoc*, deverá ser possível convidar a participar nas reuniões do comité, na qualidade de observadores, peritos externos, incluindo representantes dos parceiros sociais.\n\n(48) É conveniente assegurar o encerramento correto do Programa, em particular que respeita à continuidade das medidas plurianuais aplicáveis à sua gestão, como o financiamento da assistência técnica e administrativa. A partir de 1 de janeiro de 2014, a assistência técnica e administrativa assegurará, se necessário, a gestão das ações ainda não concluídas no âmbito dos programas anteriores até ao final de 2013.\n\n(49) Atendendo a que o objetivo do presente regulamento, a saber, estabelecer o Programa, não pode ser suficientemente alcançado pelos Estados-Membros, mas pode, devido à sua dimensão e dos seus efeitos, ser mais bem alcançado ao nível da União, a União pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado da União Europeia. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, o presente regulamento não excede o necessário para alcançar esse objetivo.\n\n(50) Por conseguinte, as Decisões n.º 1719/2006/CE, n.º 1720/2006/CE e n.º 1298/2008/CE deverão ser revogadas.\n\n(51) A fim de assegurar a continuidade do apoio financeiro prestado ao abrigo do Programa, o presente regulamento deverá ser aplicável a partir de 1 de Janeiro de 2014. Por razões de urgência, o presente regulamento deverá entrar em vigor o mais rapidamente possível após a sua publicação no *Jornal Oficial da União Europeia*,\n\nADOTARAM O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "7fabed8a0a46afb5": {
+   "fragment_id": "Disposições gerais",
+   "type": "divisao",
+   "heading": "Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições gerais"
+  },
+  "2f171a9bd16d9ce7": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação do Programa",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação do Programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação do Programa\n\n1. O presente regulamento cria um programa de ação da União no domínio da educação, formação, juventude e desporto, designado \"Erasmus+\" (a seguir designado \"o Programa\").\n\n2. O Programa deve ser executado no período compreendido entre 1 de janeiro de 2014 e 31 de dezembro de 2020.\n\n3. O Programa abrange os seguintes domínios, respeitando em simultâneo as estruturas e necessidades específicas dos diferentes setores nos Estados-Membros:\n\na) A educação e a formação a todos os níveis, numa perspetiva de aprendizagem ao longo da vida, incluindo o ensino escolar (Comenius), o ensino superior (Erasmus), o ensino superior internacional (Erasmus Mundus), a educação e formação profissionais (Leonardo da Vinci) e a educação de adultos (Grundtvig);\n\nb) A juventude (\"Juventude em Ação\"), em particular no contexto da aprendizagem não formal e informal;\n\nc) O desporto, em especial o desporto de base.\n\n4. O Programa inclui uma dimensão internacional destinada a apoiar a ação externa da União, incluindo os seus objetivos de desenvolvimento, através da cooperação entre a União e os países parceiros."
+  },
+  "777569c887087cd9": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente decisão, entende-se por:\n\n1) \"Aprendizagem ao longo da vida\", qualquer forma de ensino geral, de educação e formação profissionais, de aprendizagem não formal e de aprendizagem informal seguida ao longo da vida, que permita melhorar os conhecimentos, aptidões e competências ou a participação na sociedade numa perspetiva pessoal, cívica, cultural, social e/ou profissional, incluindo a prestação de serviços de aconselhamento e orientação;\n\n2) \"Aprendizagem não formal\", uma aprendizagem realizada através de atividades planeadas (em termos de objetivos e de duração da aprendizagem), que pressupõe alguma forma de apoio (por exemplo, uma relação entre estudante e professor), mas que não faz parte do sistema de educação e formação formal;\n\n3) \"Aprendizagem informal\", a aprendizagem que decorre das atividades da vida quotidiana relacionadas com o trabalho, com a família ou com o lazer, e que não é organizada nem estruturada em termos de objetivos, de duração ou de apoio à aprendizagem; esta pode ser involuntária do ponto de vista do aprendente;\n\n4) \"Diálogo estruturado\", o diálogo desenvolvido com jovens e organizações de jovens, que serve de fórum para uma reflexão conjunta permanente sobre as prioridades, a execução e o acompanhamento da cooperação europeia no domínio da juventude;\n\n5) \"Transnacional\", salvo indicação em contrário, o contexto das ações que envolverem pelo menos dois dos países do Programa referidos no artigo 24.º, n.º 1;\n\n6) \"Internacional\", o contexto das ações que envolverem pelo menos um país do Programa e pelo menos um país terceiro (a seguir designado \"país parceiro\");\n\n7) \"Mobilidade para fins de aprendizagem\", a deslocação física para um país diferente do país de residência para frequentar estudos, formação ou outro tipo de aprendizagem não formal ou informal; pode assumir a forma de estágios, aprendizagens, intercâmbio de jovens, voluntariado, atividade docente ou a participação numa atividade de desenvolvimento profissional, e pode incluir atividades preparatórias, como formação na língua de acolhimento, bem como atividades relativas ao envio, acolhimento e acompanhamento;\n\n8) \"Cooperação para a inovação e o intercâmbio de boas práticas\", os projetos de cooperação transnacional e internacional que envolvam organizações ativas nos domínios da educação e da formação e/ou juventude, podendo incluir outras organizações;\n\n9) \"Apoio à reforma de políticas\", qualquer tipo de atividade com vista a apoiar e a facilitar a modernização dos sistemas de educação e de formação, bem como apoio ao desenvolvimento de uma política europeia no domínio da juventude, através do processo de cooperação política entre Estados-Membros, nomeadamente o Método Aberto de Coordenação e o diálogo estruturado com os jovens;\n\n10) \"Mobilidade virtual\", o conjunto das atividades apoiadas por um conjunto de tecnologias da comunicação e da informação, incluindo a aprendizagem por via eletrónica (e-learning), organizadas ao nível institucional, que empreendem ou facilitam as experiências transnacionais e/ou internacionais de colaboração num contexto de ensino e/ou aprendizagem;\n\n11) \"Pessoal\", as pessoas que, a título profissional ou voluntário, estão envolvidas na educação, formação ou aprendizagem não formal da juventude, e que pode incluir professores, docentes, formadores, dirigentes escolares, animadores de juventude e pessoal não docente;\n\n12) \"Animador de juventude\", um profissional ou um voluntário envolvido na aprendizagem não formal e que presta apoio aos jovens no seu desenvolvimento socioeducativo e profissional pessoal;\n\n13) \"Jovens\", as pessoas com idades compreendidas entre os 13 e 30 anos;\n\n14) \"Instituições de ensino superior\": a) Qualquer tipo de instituição de ensino superior que, nos termos da lei ou das práticas nacionais, confira graus reconhecidos ou outras qualificações reconhecidas de nível superior, independentemente da denominação desses estabelecimentos; b) Qualquer estabelecimento que, nos termos da lei ou das práticas nacionais, disponibilize educação ou formação profissionais de nível superior;\n\na) Qualquer tipo de instituição de ensino superior que, nos termos da lei ou das práticas nacionais, confira graus reconhecidos ou outras qualificações reconhecidas de nível superior, independentemente da denominação desses estabelecimentos;\n\nb) Qualquer estabelecimento que, nos termos da lei ou das práticas nacionais, disponibilize educação ou formação profissionais de nível superior;\n\n15) \"Graus conjuntos\", um programa de estudos integrados proposto por, pelo menos, duas instituições de ensino superior conducente à atribuição de um único diploma emitido e assinado conjuntamente por todas as instituições participantes e reconhecido oficialmente nos países onde estas se encontram;\n\n16) \"Grau duplo/múltiplo\", um programa de estudo ministrado por duas instituições de ensino superior (duplo), pelo menos, ou mais (múltiplo), conducente à atribuição de diplomas emitidos em separado por cada uma das instituições participantes para o estudante que concluiu os estudos;\n\n17) \"Atividade de juventude\", uma atividade não escolar (intercâmbio de jovens, voluntariado ou formação de jovens) efetuada por um jovem, individualmente ou em grupo, nomeadamente através de organizações de juventude, que se caracteriza por uma abordagem não formal da aprendizagem;\n\n18) \"Parceria\", um acordo entre um grupo de instituições e/ou organizações em diferentes países do Programa para realizar em conjunto atividades europeias nos domínios da educação, formação, juventude e desporto ou criar uma rede formal ou informal num dado domínio, nomeadamente projetos conjuntos de aprendizagem para alunos e seus professores sob a forma de intercâmbio de turmas e mobilidade individual de longa duração, programas intensivos a nível do ensino superior e cooperação entre autoridades regionais e locais com vista a promover a cooperação inter-regional, inclusive transfronteiriça e que pode ser alargada a instituições e/ou organizações de países parceiros, a fim de reforçar a qualidade da parceria;\n\n19) \"Competências essenciais\", o conjunto básico de conhecimentos, aptidões e atitudes necessários à realização e ao desenvolvimento pessoais, à cidadania ativa, à inclusão social e ao emprego, tal como referido na Recomendação 2006/962/CE do Parlamento Europeu e do Conselho [([^18])](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr18-L_2013347PT.01005001-E0018);\n\n20) \"Método Aberto de Coordenação (MAC)\", método intergovernamental para a constituição de um quadro de cooperação entre os Estados-Membros, cujas políticas nacionais podem, assim, ser orientadas para determinados objetivos comuns; no âmbito do Programa, o MAC é aplicável à educação, à formação e à juventude;\n\n21) \"Instrumentos de transparência e reconhecimento da União\", os instrumentos que ajudam as partes interessadas a compreender, avaliar e, se for caso disso, a reconhecer os resultados de aprendizagem e as qualificações em toda a União;\n\n22) \"Países vizinhos\", os países e territórios abrangidos pela Política Europeia de Vizinhança;\n\n23) \"Carreira dupla\", a combinação de uma formação em desporto de alto nível com a educação geral ou o trabalho;\n\n24) \"Desporto de base\", desporto organizado praticado a nível local por desportistas amadores e desporto para todos."
+  },
+  "e04b7715c9e3aff5": {
+   "fragment_id": "Artigo 3.º — Valor acrescentado europeu",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Valor acrescentado europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Valor acrescentado europeu\n\n1. O Programa só apoia as ações e atividades que apresentem um potencial valor acrescentado europeu e que contribuam para alcançar o objetivo geral referido no artigo 4.º.\n\n2. O valor acrescentado europeu das ações e atividades do Programa é, em especial, assegurado:\n\na) Pelo seu caráter transnacional, em particular no que respeita à mobilidade e cooperação destinadas a obter um impacto sistémico sustentável;\n\nb) Pela sua complementaridade e sinergia com outros programas e políticas a nível nacional, internacional e da União;\n\nc) Pelo seu contributo para a utilização efetiva dos instrumentos de transparência e reconhecimento da União."
+  },
+  "dba7ac99260c2ea0": {
+   "fragment_id": "Artigo 4.º — Objetivo geral do Programa",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Objetivo geral do Programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objetivo geral do Programa\n\nO Programa contribui para alcançar:\n\na) Os objetivos da Estratégia Europa 2020, incluindo o grande objetivo da educação;\n\nb) Os objetivos do Quadro Estratégico para a cooperação europeia no domínio da educação e formação 2020 (\"EF 2020\"), incluindo os respetivos critérios de referência;\n\nc) O desenvolvimento sustentável de países parceiros no domínio do ensino superior;\n\nd) Os objetivos gerais do quadro renovado da cooperação europeia no domínio da juventude (2010-2018);\n\ne) O objetivo do desenvolvimento da dimensão europeia no desporto, em particular no desporto de base, em consonância com o plano de trabalho da União para o desporto; e\n\nf) A promoção dos valores europeus, nos termos do artigo 2.º do Tratado da União Europeia."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "a2ae905660f57855": {
+   "fragment_id": "Educação e formação",
+   "type": "divisao",
+   "heading": "Educação e formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Educação e formação"
+  },
+  "5e8597580f721443": {
+   "fragment_id": "Artigo 5.º — Objetivos específicos",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Objetivos específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Objetivos específicos\n\n1. Em consonância com o objetivo geral do Programa previsto no artigo 4.º, nomeadamente com os objetivos da EF 2020, bem como em apoio do desenvolvimento sustentável dos países parceiros no domínio do ensino superior, o Programa deve prosseguir os seguintes objetivos específicos:\n\na) Melhorar o nível de competências e aptidões essenciais no que diz respeito, em especial, à sua relevância para o mercado de trabalho e ao seu contributo para uma sociedade coesa, nomeadamente através de mais oportunidades de mobilidade para fins de aprendizagem e do reforço da cooperação entre o mundo da educação e formação e o mundo do trabalho;\n\nb) Promover melhorias em termos de qualidade, inovação, excelência e internacionalização, ao nível das instituições de educação e de formação, nomeadamente através do fomento da cooperação transnacional entre os organismos de educação e formação e outras partes interessadas;\n\nc) Promover e sensibilizar para a criação de um espaço europeu de aprendizagem ao longo da vida delineado para complementar as reformas políticas ao nível nacional e apoiar a modernização dos sistemas de educação e formação, nomeadamente através do reforço da cooperação política, da melhor utilização dos instrumentos de transparência e reconhecimento da União e da divulgação de boas práticas;\n\nd) Reforçar a dimensão internacional da educação e da formação, nomeadamente através da cooperação entre instituições da União e de países parceiros no domínio da educação e formação profissional (EFP) e do ensino superior, mediante o aumento da capacidade de atração das instituições de ensino superior europeias e do apoio à ação externa da União, incluindo os seus objetivos de desenvolvimento, através da promoção da mobilidade e da cooperação entre as instituições de ensino superior da União e de países parceiros e do reforço de capacidades específicas em países parceiros;\n\ne) Melhorar o ensino e a aprendizagem das línguas e promover a ampla diversidade linguística da União e a sensibilidade para as diferentes culturas;\n\nf) Promover a excelência no ensino e nas atividades de investigação no domínio da integração europeia por intermédio das atividades Jean Monnet em todo o mundo, como referido no artigo 10.º.\n\n2. Para efeitos de avaliação do Programa, o Anexo I define indicadores mensuráveis e pertinentes para os objetivos específicos a que se refere o n.º 1."
+  },
+  "9f166bd67a15f537": {
+   "fragment_id": "Artigo 6.º — Ações do Programa",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Ações do Programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Ações do Programa\n\n1. No domínio da educação e da formação, o Programa prossegue os seus objetivos através dos seguintes tipos de ações:\n\na) Mobilidade individual para fins de aprendizagem;\n\nb) Cooperação para a inovação e o intercâmbio de boas práticas; e\n\nc) Apoio à reforma de políticas.\n\n2. As atividades específicas Jean Monnet são descritas no artigo 10.º."
+  },
+  "0f6928502bdd077f": {
+   "fragment_id": "Artigo 7.º — Mobilidade individual para fins de aprendizagem",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Mobilidade individual para fins de aprendizagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Mobilidade individual para fins de aprendizagem\n\n1. A mobilidade individual para fins de aprendizagem deve apoiar às seguintes atividades nos países do Programa a que se refere o artigo 24.º, n.º 1:\n\na) Mobilidade dos estudantes de todos os ciclos do ensino superior e dos estudantes e aprendizes e alunos que seguem educação e formação profissionais. Esta mobilidade pode assumir a forma de estudos numa instituição parceira, de estágios ou da aquisição de experiência como aprendiz, assistente ou estagiário no estrangeiro. A mobilidade a nível do grau de mestre pode ser apoiada através do Mecanismo de Garantia de Empréstimo a Estudantes referido no artigo 20.º;\n\nb) Mobilidade do pessoal educativo no âmbito dos países do Programa a que se refere o artigo 24.º, n.º 1. Esta mobilidade pode assumir a forma de ensino, ou atividades relativas a assistentes, ou de participação em atividades de desenvolvimento profissional no estrangeiro.\n\n2. Esta ação deve apoiar igualmente a mobilidade internacional de estudantes e pessoal educativo para países parceiros, e provenientes destes, no âmbito do ensino superior, incluindo a mobilidade organizada com base em graus conjuntos, duplos ou múltiplos de elevada qualidade ou convites conjuntos à apresentação de candidaturas."
+  },
+  "1c77984b1aaf7cea": {
+   "fragment_id": "Artigo 8.º — Cooperação para a inovação e o intercâmbio de boas práticas",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Cooperação para a inovação e o intercâmbio de boas práticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Cooperação para a inovação e o intercâmbio de boas práticas\n\n1. A cooperação para a inovação e o intercâmbio de boas práticas apoia:\n\na) Parcerias estratégicas entre as organizações e/ou instituições envolvidas na educação e na formação ou outros setores pertinentes destinadas a desenvolver e executar iniciativas conjuntas e promover a aprendizagem entre pares e os intercâmbios de experiências;\n\nb) Parcerias entre o mundo do trabalho e instituições de educação e formação, na forma de: — alianças de conhecimento, em particular, entre instituições de ensino superior e o mundo do trabalho destinadas a promover a criatividade, a inovação, a aprendizagem no trabalho e o empreendedorismo, proporcionando oportunidades de aprendizagem relevantes, incluindo o desenvolvimento de novos currículos e abordagens pedagógicas; — alianças de competências setoriais entre as instituições de educação e de formação e o mundo do trabalho destinadas a promover a empregabilidade, contribuindo para a criação de novos currículos setoriais específicos ou intersetoriais, desenvolvendo métodos inovadores de educação e formação profissionais e aplicando os instrumentos de transparência e reconhecimento da União;\n\n— alianças de conhecimento, em particular, entre instituições de ensino superior e o mundo do trabalho destinadas a promover a criatividade, a inovação, a aprendizagem no trabalho e o empreendedorismo, proporcionando oportunidades de aprendizagem relevantes, incluindo o desenvolvimento de novos currículos e abordagens pedagógicas;\n\n— alianças de competências setoriais entre as instituições de educação e de formação e o mundo do trabalho destinadas a promover a empregabilidade, contribuindo para a criação de novos currículos setoriais específicos ou intersetoriais, desenvolvendo métodos inovadores de educação e formação profissionais e aplicando os instrumentos de transparência e reconhecimento da União;\n\nc) Plataformas de suporte TI, que abranjam todos os setores da educação e da formação, incluindo, em particular, a geminação eletrónica de escolas (eTwinning), que permitam a aprendizagem entre pares, a mobilidade virtual e o intercâmbio das melhores práticas, e que abram o acesso a participantes dos países vizinhos.\n\n2. Esta ação apoia igualmente o desenvolvimento, o reforço de capacidades, a integração regional, o intercâmbio de conhecimentos e os processos de modernização, através de parcerias internacionais entre as instituições de ensino superior da União e dos países parceiros, nomeadamente no que toca a projetos de aprendizagem entre pares e projetos educativos conjuntos, bem como através da promoção da cooperação regional e dos Gabinetes Nacionais de Informação, sobretudo com países vizinhos."
+  },
+  "fe9cae1c066f67f4": {
+   "fragment_id": "Artigo 9.º — Apoio à reforma de políticas",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Apoio à reforma de políticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apoio à reforma de políticas\n\n1. O apoio à reforma de políticas inclui as atividades iniciadas ao nível da União, relativas:\n\na) À execução da agenda política da União em matéria de educação e formação no contexto dos MAC, bem como aos processos de Bolonha e de Copenhaga;\n\nb) À execução, em países do Programa, dos instrumentos de transparência e reconhecimento da União, em particular o quadro único da União para a transparência das qualificações e competências (Europass), o Quadro Europeu de Qualificações (QEQ), o sistema europeu de transferência e acumulação de créditos académicos (ECTS), o Sistema Europeu de Transferência de Créditos do Ensino e Formação Profissionais (ECVET), o Quadro de Referência Europeu de Garantia da Qualidade para o Ensino e a Formação Profissionais (EQAVET), o Registo Europeu de Garantia da Qualidade do Ensino Superior (EQAR) e a Associação Europeia para a Garantia da Qualidade no Ensino Superior (ENQA) bem como ao apoio às redes a nível da União e às organizações não governamentais (ONG) europeias ativas no domínio da educação e da formação;\n\nc) Ao diálogo político com as partes interessadas europeias relevantes no domínio da educação e da formação;\n\nd) Aos Centros NARIC, as redes Eurydice e Euroguidance e aos Centros Nacionais Europass.\n\n2. Esta ação apoia igualmente o diálogo político com os países parceiros e as organizações internacionais."
+  },
+  "48297d0d36e1e783": {
+   "fragment_id": "Artigo 10.º — Atividades Jean Monnet",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Atividades Jean Monnet",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Atividades Jean Monnet\n\nAs atividades Jean Monnet têm por objetivo:\n\na) Promover o ensino e a investigação sobre a integração europeia em todo o mundo junto dos especialistas académicos, dos aprendentes e dos cidadãos, nomeadamente através da criação de cátedras Jean Monnet e outras atividades académicas, bem como do apoio a outras atividades de aquisição de conhecimentos ao nível das instituições de ensino superior;\n\nb) Apoiar as atividades de instituições académicas ou associações ativas no domínio dos estudos sobre a integração europeia e apoiar um rótulo de excelência Jean Monnet;\n\nc) Apoiar as seguintes instituições que prosseguem um objetivo de interesse europeu: i) o Instituto Universitário Europeu de Florença, ii) o Colégio da Europa (campus de Bruges e Natolin), iii) o Instituto Europeu de Administração Pública (IEAP), Maastricht, iv) a Academia de Direito Europeu, Trier, v) a Agência Europeia para o Desenvolvimento da Educação em Necessidades Educativas Especiais, Odense, vi) o Centro Internacional de Formação Europeia (CIFE), Nice;\n\ni) o Instituto Universitário Europeu de Florença,\n\nii) o Colégio da Europa (campus de Bruges e Natolin),\n\niii) o Instituto Europeu de Administração Pública (IEAP), Maastricht,\n\niv) a Academia de Direito Europeu, Trier,\n\nv) a Agência Europeia para o Desenvolvimento da Educação em Necessidades Educativas Especiais, Odense,\n\nvi) o Centro Internacional de Formação Europeia (CIFE), Nice;\n\nd) Promover o debate político e o intercâmbio entre o mundo académico e os responsáveis políticos sobre as prioridades políticas da União."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "d9e97d65bd2c4732": {
+   "fragment_id": "Juventude",
+   "type": "divisao",
+   "heading": "Juventude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Juventude"
+  },
+  "2801aed0b978bef3": {
+   "fragment_id": "Artigo 11.º — Objetivos específicos",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Objetivos específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Objetivos específicos\n\n1. Em consonância com o objetivo geral do Programa previsto no artigo 4.º, e em particular com os objetivos do quadro renovado para a cooperação europeia no domínio da juventude (2010-2018), o Programa deve prosseguir os seguintes objetivos específicos:\n\na) Melhorar o nível de competências e aptidões fundamentais dos jovens, incluindo os menos favorecidos, e promover a participação na vida democrática na Europa e no mercado de trabalho, a cidadania ativa, o diálogo intercultural, a inclusão social e a solidariedade, nomeadamente através de uma maior oferta de oportunidades de mobilidade para fins de aprendizagem aos jovens, aos animadores de juventude, aos membros de organizações juvenis e aos dirigentes juvenis, bem como através do reforço da ligação dos jovens ao mundo do trabalho;\n\nb) Promover melhorias de qualidade em matéria de animação de juventude, nomeadamente reforçando a cooperação entre organizações no domínio da juventude e/ou outras partes interessadas;\n\nc) Completar as reformas de políticas, a nível local, regional nacional, e apoiar o desenvolvimento de uma política de juventude baseada no conhecimento e em dados e o reconhecimento da aprendizagem não formal e informal, nomeadamente através do reforço da cooperação política, de uma melhor utilização dos instrumentos de transparência e reconhecimento da União e da divulgação de boas práticas;\n\nd) Reforçar a dimensão internacional das atividades no domínio da juventude e o papel dos animadores e das organizações de juventude enquanto estruturas de apoio aos jovens, em complementaridade com a ação externa da União, nomeadamente através da promoção da mobilidade e da cooperação entre a União e partes interessadas de países parceiros e organizações internacionais, bem como através de medidas de reforço de capacidades específicas em países parceiros.\n\n2. Para efeitos de avaliação do Programa, o Anexo I define indicadores mensuráveis e pertinentes para os objetivos específicos a que se refere o n.º 1."
+  },
+  "251d7c37ceb1dfdc": {
+   "fragment_id": "Artigo 12.º — Ações do Programa",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Ações do Programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Ações do Programa\n\nO Programa prossegue os seus objetivos através dos seguintes tipos de ações:\n\na) Mobilidade individual para fins de aprendizagem;\n\nb) Cooperação para a inovação e o intercâmbio de boas práticas;\n\nc) Apoio à reforma de políticas."
+  },
+  "64cbbfe43249e92a": {
+   "fragment_id": "Artigo 13.º — Mobilidade individual para fins de aprendizagem",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Mobilidade individual para fins de aprendizagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Mobilidade individual para fins de aprendizagem\n\n1. A mobilidade individual para fins de aprendizagem deve apoiar:\n\na) A mobilidade dos jovens no âmbito de atividades de aprendizagem não formal e informal entre os países do Programa; esta mobilidade pode assumir a forma de intercâmbios de jovens e voluntariado, através do Serviço Voluntário Europeu, e de ações inovadoras assentes nas disposições existentes relativas à mobilidade;\n\nb) A mobilidade dos animadores de juventude ou dos membros de organizações de jovens, bem como dos dirigentes juvenis; este tipo de mobilidade pode assumir a forma de atividades de formação e de criação de redes.\n\n2. Esta ação deve igualmente apoiar a mobilidade dos jovens, dos animadores de juventude ou dos membros de organizações de jovens e dos dirigentes juvenis, de e para países parceiros, sobretudo países vizinhos."
+  },
+  "b1d26088ddca67ed": {
+   "fragment_id": "Artigo 14.º — Cooperação para a inovação e o intercâmbio de boas práticas",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Cooperação para a inovação e o intercâmbio de boas práticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Cooperação para a inovação e o intercâmbio de boas práticas\n\n1. A cooperação para a inovação e o intercâmbio de boas práticas apoia:\n\na) Parcerias estratégicas destinadas a desenvolver e a executar iniciativas conjuntas, incluindo iniciativas de jovens e projetos de cidadania que promovam a cidadania ativa, a inovação social, a participação na vida democrática e o empreendedorismo, através da aprendizagem entre pares e dos intercâmbios de experiências;\n\nb) Plataformas de apoio informático que permitam a aprendizagem entre pares, a animação de juventude com base no conhecimento, a mobilidade virtual e os intercâmbios de boas práticas.\n\n2. Esta ação deve igualmente apoiar o desenvolvimento, a criação de capacidades e os intercâmbios de conhecimentos, através de parcerias entre organizações de países do Programa e países parceiros, nomeadamente através da aprendizagem mútua."
+  },
+  "4222281f603bc990": {
+   "fragment_id": "Artigo 15.º — Apoio à reforma de políticas",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Apoio à reforma de políticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Apoio à reforma de políticas\n\n1. O apoio à reforma de políticas inclui atividades relativas:\n\na) À execução da agenda política da União no domínio da juventude, utilizando o MAC;\n\nb) À aplicação, nos países do Programa, dos instrumentos de transparência e reconhecimento da União, nomeadamente o Youthpass, e o apoio às redes a nível da União e às ONG europeias que operam no domínio da juventude;\n\nc) Ao diálogo político com as partes interessadas europeias relevantes e o diálogo estruturado com jovens;\n\nd) Ao Fórum Europeu da Juventude, os centros de recursos para o desenvolvimento da animação de juventude e a rede Eurodesk.\n\n2. Esta ação apoia igualmente o diálogo político com os países parceiros e as organizações internacionais."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "02358ccf407a2d91": {
+   "fragment_id": "Desporto",
+   "type": "divisao",
+   "heading": "Desporto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Desporto"
+  },
+  "e75f0a650d1641a8": {
+   "fragment_id": "Artigo 16.º — Objetivos específicos",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Objetivos específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Objetivos específicos\n\n1. Em consonância com o objetivo geral do Programa previsto no artigo 4.º, e com o plano de trabalho da União para o desporto, o Programa deve centrar-se principalmente no desporto de base e prosseguir os seguintes objetivos específicos:\n\na) Abordar as ameaças transfronteiriças à integridade do desporto, como a dopagem, a viciação de resultados e a violência, bem como todos os tipos de intolerância e de discriminação;\n\nb) Promover e apoiar a boa governação na área do desporto e as carreiras duplas dos atletas;\n\nc) Promover as atividades de voluntariado no desporto, juntamente com a inclusão social, a igualdade de oportunidades e a sensibilização para a importância da atividade física benéfica para a saúde, através de uma maior participação no desporto e da igualdade de acesso ao desporto para todos.\n\n2. Para efeitos de avaliação do Programa, o Anexo I define indicadores mensuráveis e pertinentes para os objetivos específicos a que se refere o n.º 1."
+  },
+  "2a0bd98d9e1af889": {
+   "fragment_id": "Artigo 17.º — Atividades",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Atividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Atividades\n\n1. Os objetivos da cooperação são prosseguidos através das seguintes atividades transnacionais, que devem centrar-se principalmente no desporto de base através do:\n\na) Apoio a parcerias de colaboração;\n\nb) Apoio a acontecimentos desportivos europeus sem fins lucrativos que envolvam vários países do Programa e contribuam para os objetivos definidos no artigo 16.º, n.º 1, alínea c);\n\nc) Apoio ao reforço da base factual para elaboração de políticas;\n\nd) Diálogo com as partes interessadas relevantes a nível europeu.\n\n2. As atividades referidas no n.º 1 podem obter financiamento complementar de terceiros, nomeadamente através de parcerias com empresas privadas."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "1405094d1b575a4b": {
+   "fragment_id": "Disposições financeiras",
+   "type": "divisao",
+   "heading": "Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições financeiras"
+  },
+  "6c6ea6e0acc5ed1a": {
+   "fragment_id": "Artigo 18.º — Orçamento",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Orçamento\n\n1. O enquadramento financeiro de referência para a execução do Programa a partir de 1 de janeiro de 2014 é fixado em 14 774 524 000 EUR a preços correntes.\n\nAs dotações anuais são autorizadas pelo Parlamento Europeu e pelo Conselho nos limites do quadro financeiro plurianual.\n\n2. O montante a que se refere o n.º 1 é atribuído às ações do Programa, com uma margem de flexibilidade que não exceda 5 % de cada um dos montantes atribuídos, de acordo com a seguinte repartição:\n\na) 77,5 % para a educação e a formação, devendo as seguintes percentagens mínimas ser atribuídas: i) 43 % para o ensino superior, representando 33,3 % do orçamento total, ii) 22 % para a educação e a formação profissionais, representando 17 % do orçamento total, iii) 15 % para o ensino escolar, representando 11,6 % do orçamento total, iv) 5 % para a educação de adultos, representando 3,9 % do orçamento total;\n\ni) 43 % para o ensino superior, representando 33,3 % do orçamento total,\n\nii) 22 % para a educação e a formação profissionais, representando 17 % do orçamento total,\n\niii) 15 % para o ensino escolar, representando 11,6 % do orçamento total,\n\niv) 5 % para a educação de adultos, representando 3,9 % do orçamento total;\n\nb) 10 % para a juventude;\n\nc) 3,5 % para o Mecanismo de Garantia de Empréstimo a Estudantes;\n\nd) 1,9 % para as atividades Jean Monnet;\n\ne) 1,8 % para o desporto, dos quais uma percentagem de no máximo 10 % para a atividade mencionada no artigo 17.º, n.º 1, alínea b);\n\nf) 3,4 % a título de subvenções de funcionamento para as agências nacionais; e\n\ng) 1,9 % para cobrir despesas administrativas.\n\n3. Dos montantes mencionados no n.º 2, alíneas a) e b), pelo menos 63 % devem ser consagrados à mobilidade individual para fins de aprendizagem, pelo menos 28 % à cooperação para a inovação e o intercâmbio de boas práticas e 4,2 % ao apoio à reforma de políticas.\n\n4. Além do enquadramento financeiro, tal como indicado no n.º 1, e com o objetivo de promover a dimensão internacional do ensino superior, um financiamento adicional, conforme disposto nos vários instrumentos externos, no Instrumento de Cooperação para o Desenvolvimento (ICD), no Instrumento Europeu de Vizinhança (IEV), no Instrumento de Parceria para a cooperação com países terceiros (IP) e no Instrumento de Assistência de Pré-Adesão (IAP), é atribuído às ações relativas à mobilidade para fins de aprendizagem para os países parceiros, ou a partir destes, bem como para a cooperação e o diálogo político com as autoridades, instituições e organizações destes países. As disposições do presente regulamento aplicam-se à utilização destes fundos, embora garantindo o respeito dos respetivos regulamentos que regem esses instrumentos externos e, no caso do ICD, cumprindo os critérios definidos pelo Comité de Ajuda ao Desenvolvimento da Organização de Cooperação e Desenvolvimento Económicos para a Ajuda Pública ao Desenvolvimento.\n\nO financiamento deve ser disponibilizado através de duas dotações plurianuais que abranjam, respetivamente, os primeiros quatro anos e os três anos seguintes. A atribuição desse financiamento é determinada na programação indicativa plurianual dos instrumentos externos a que se refere o primeiro parágrafo, de acordo com as necessidades e as prioridades identificadas dos países em questão. A cooperação com os países parceiros pode basear-se, se necessário, em dotações adicionais provenientes desses países que devem ser disponibilizadas segundo os procedimentos a acordar com esses países.\n\nAs ações no domínio da mobilidade dos estudantes e do pessoal educativo entre os países do Programa e os países parceiros financiadas a partir do ICD devem centrar-se em áreas que sejam relevantes para o desenvolvimento inclusivo e sustentável dos países em desenvolvimento.\n\n5. A dotação financeira do Programa pode também cobrir despesas decorrentes de atividades de preparação, acompanhamento, controlo, auditoria e avaliação necessárias à gestão do Programa e à realização dos seus objetivos, nomeadamente estudos, reuniões de peritos, ações de informação e de comunicação, incluindo a comunicação institucional das prioridades políticas da União, na medida em que estejam relacionadas com os objetivos gerais do presente regulamento, despesas relacionadas com as tecnologias da informação centradas no tratamento e intercâmbio de informações, e todas as outras despesas de assistência técnica e administrativa efetuadas pela Comissão para a gestão do Programa.\n\n6. A dotação financeira pode cobrir igualmente as despesas de assistência técnica e administrativa necessárias para assegurar a transição entre o Programa e as medidas adotadas nos termos das Decisões n.º 1719/2006/CE, n.º 1720/2006/CE e n.º 1298/2008/CE. Se necessário, as dotações podem ser inscritas no orçamento depois de 2020 para abranger despesas similares, de modo a permitir a gestão das ações e atividades não concluídas até 31 de dezembro de 2020.\n\n7. Os fundos para a mobilidade individual para fins de aprendizagem referidos no artigo 6.º, n.º 1, alínea a), e no artigo 12.º, alínea a), são atribuídos para serem geridos pela agência ou pelas agências nacionais (a seguir \"agência nacional\") com base na população e no custo de vida no Estado-Membro, na distância entre as capitais dos Estados-Membros e no desempenho. O parâmetro de desempenho representa 25 % dos fundos totais, de acordo com os critérios referidos nos n.^os^ 8 e 9. Relativamente às parcerias estratégicas a que se referem o artigo 8.º, n.º 1, alínea a), e o artigo 14.º, n.º 1, alínea a), que deverão ser selecionadas e geridas por uma agência nacional, os fundos são atribuídos com base em critérios a definir pela Comissão pelo procedimento de exame a que se refere o artigo 36.º, n.º 3. Essas fórmulas devem, na medida do possível, ser neutras no que respeita aos diferentes sistemas de educação e formação dos Estados-Membros, evitar reduções substanciais do orçamento anual atribuído aos Estados-Membros de um ano para o outro e minimizar desequilíbrios excessivos no nível de subvenções concedidas.\n\n8. A concessão de fundos baseada no desempenho é aplicada a fim de promover uma utilização eficaz e eficiente dos recursos. Os critérios utilizados para medir o desempenho são baseados nos dados disponíveis mais recentes e centram-se, em especial:\n\na) No nível dos resultados anuais alcançados; e\n\nb) No nível de pagamentos efetuado anualmente.\n\n9. A afetação de fundos para 2014 é baseada nos dados disponíveis mais recentes sobre as ações empreendidas e a absorção do orçamento no âmbito dos programas de Aprendizagem ao Longo da Vida, Juventude em Ação e Erasmus Mundus, até 31 de dezembro de 2013.\n\n10. O Programa pode fornecer apoio através de modalidades específicas e inovadoras de financiamento, em especial as estabelecidas no artigo 20.º."
+  },
+  "2e2fd00dddbcfc35": {
+   "fragment_id": "Artigo 19.º — Modalidades específicas de financiamento",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Modalidades específicas de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Modalidades específicas de financiamento\n\n1. A Comissão executa o apoio financeiro da União nos termos do Regulamento (UE, Euratom) n.º 966/2012.\n\n2. A Comissão pode lançar convites conjuntos à apresentação de candidaturas com países parceiros ou as suas organizações e agências para financiar projetos com base em fundos de contrapartida. Os projetos podem ser avaliados e selecionados através de um procedimento conjunto de avaliação e seleção que serão objeto de acordo por parte das agências de financiamento envolvidas, de acordo com os princípios estabelecidos no Regulamento (UE, Euratom) n.º 966/2012.\n\n3. Considera-se que as entidades públicas, bem como as escolas, as instituições de ensino superior e as organizações nos domínios da educação, formação, juventude e do desporto cujos rendimentos anuais nos últimos dois anos sejam provenientes em mais de 50 % de fontes públicas, têm capacidade financeira, profissional e administrativa para realizar as atividades previstas no Programa. Não lhes pode ser exigida a apresentação de outra documentação comprovativa dessa capacidade.\n\n4. Não obstante o disposto no artigo 130.º, n.º 2, do Regulamento (UE, Euratom) n.º 966/2012 e, em casos devidamente justificados, a Comissão pode considerar os custos diretamente relacionados com a execução das atividades apoiadas e suportados durante os primeiros seis meses de 2014 como elegíveis para financiamento a partir de 1 de Janeiro de 2014, mesmo que tenham sido suportados pelo beneficiário antes do pedido de financiamento ter sido apresentado.\n\n5. O montante referido no artigo 137.º, n.º 1, alínea c), do Regulamento (UE, Euratom) n.º 966/2012 não é aplicável ao apoio financeiro concedido para a mobilidade individual para fins de aprendizagem."
+  },
+  "df6ad5fe337cccb9": {
+   "fragment_id": "Artigo 20.º — Mecanismo de Garantia para Empréstimos a Estudantes",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Mecanismo de Garantia para Empréstimos a Estudantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Mecanismo de Garantia para Empréstimos a Estudantes\n\n1. O Mecanismo de Garantia para Empréstimos a Estudantes fornece garantias parciais aos intermediários financeiros referentes a empréstimos concedidos nas condições mais favoráveis possíveis, destinados aos estudantes do segundo ciclo do ensino superior, nomeadamente mestrandos, numa instituição de ensino superior reconhecida num país do Programa, nos termos do artigo 24.º, n.º 1, que não seja nem o país de residência, nem o país onde obtiveram a qualificação que dá acesso ao Programa de mestrado.\n\n2. As garantias fornecidas através do Mecanismo de Garantia para Empréstimos a Estudantes abrangem os novos empréstimos elegíveis a estudantes num montante máximo de 12 000 EUR, para um programa de mestrado de um ano, e num máximo de 18 000 EUR para um programa de mestrado de dois anos, ou um montante equivalente na moeda local.\n\n3. A gestão do Mecanismo de Garantia para Empréstimos a Estudantes a nível da União é confiada ao Fundo Europeu de Investimento (FEI), nos termos do Regulamento (UE, Euratom) n.º 966/2012, com base numa convenção de delegação com a Comissão, que define as regras e requisitos pormenorizados para a aplicação do Mecanismo de Garantia para Empréstimos a Estudantes e das obrigações de cada uma das partes. Nesta ótica, o FEI celebra acordos com os intermediários financeiros, tais como bancos, instituições nacionais e/ou regionais que concedem empréstimos a estudantes ou outras instituições financeiras reconhecidas, e zela pela seleção de um intermediário financeiro de cada país do Programa, a fim de garantir que os estudantes de todos os países do Programa tenham acesso ao Mecanismo de Garantia para Empréstimos a Estudantes de forma coerente e não discriminatória.\n\n4. As informações técnicas sobre o funcionamento do Mecanismo de Garantia para Empréstimos a Estudantes constam do Anexo II."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "7ec1818a002add56": {
+   "fragment_id": "Desempenho, resultados e disseminação",
+   "type": "divisao",
+   "heading": "Desempenho, resultados e disseminação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Desempenho, resultados e disseminação"
+  },
+  "90784b555123cfb0": {
+   "fragment_id": "Artigo 21.º — Monitorização e avaliação do desempenho e dos resultados",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Monitorização e avaliação do desempenho e dos resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Monitorização e avaliação do desempenho e dos resultados\n\n1. A Comissão, em cooperação com os Estados-Membros, procede periodicamente ao acompanhamento e à apresentação de informações sobre o desempenho e os resultados do Programa em relação aos seus objetivos, em especial no que se refere:\n\na) Ao valor acrescentado europeu referido no artigo 3.º;\n\nb) À repartição de fundos associados aos setores da educação, da formação e da juventude, com vista a assegurar que, até ao final do Programa, a afetação de financiamento garanta um impacto sistémico sustentável;\n\nc) À utilização dos fundos provenientes dos instrumentos externos, a que se refere o artigo 18.º, n.º 4, e à sua contribuição para os respetivos objetivos e princípios desses instrumentos.\n\n2. Além das suas atividades de monitorização permanente, a Comissão apresenta um relatório de avaliação intercalar até 31 de dezembro de 2017 com vista a avaliar a eficácia das medidas tomadas para atingir os objetivos do Programa a avaliar a eficiência do Programa e o seu valor acrescentado europeu, acompanhado, se for caso disso, de uma proposta legislativa de alteração do presente regulamento. O relatório de avaliação intercalar deve aferir as possibilidades de simplificação do Programa, a sua coerência interna e externa, a continuidade da relevância de todos os seus objetivos, e a contribuição das medidas tomadas para a concretização da estratégia Europa 2020. Terá igualmente em conta os resultados da avaliação sobre o impacto a longo prazo dos programas antecessores (Aprendizagem ao Longo da Vida, Juventude em Ação, Erasmus Mundus e outros programas internacionais de ensino superior).\n\n3. A Comissão apresenta o relatório de avaliação intercalar a que se refere o n.º 2 ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social Europeu e ao Comité das Regiões.\n\n4. Sem prejuízo dos requisitos previstos no capítulo VIII e das obrigações das agências nacionais referidas no artigo 28.º, os Estados-Membros apresentam à Comissão, até 30 de junho de 2017, um relatório sobre a execução e o impacto do Programa nos seus respetivos territórios.\n\n5. Até 30 de junho de 2022, a Comissão apresenta uma avaliação final do Programa ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social Europeu e ao Comité das Regiões."
+  },
+  "8f4f58bd149364e4": {
+   "fragment_id": "Artigo 22.º — Comunicação e disseminação",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Comunicação e disseminação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Comunicação e disseminação\n\n1. A Comissão assegura, em cooperação com os Estados Membros, a disseminação da informação, a publicidade e o seguimento no tocante a todas as ações e atividades apoiadas pelo Programa, bem como a difusão dos resultados dos anteriores programas de Aprendizagem ao Longo da Vida, Juventude em Ação e Erasmus Mundus.\n\n2. Os beneficiários dos projetos apoiados através de ações e atividades a que se referem os artigos 6.º, 10.º, 12.º, 17.º e 20.º, devem garantir que os resultados e impactos obtidos são devidamente comunicados e disseminados. Esta comunicação pode incluir a prestação de informação entre pares relativa às oportunidades de mobilidade.\n\n3. As agências nacionais, a que se refere o artigo 28.º, devem desenvolver uma política coerente no que respeita à efetiva disseminação e exploração dos resultados das atividades apoiadas pelas ações por elas geridas no âmbito do Programa, assistir a Comissão na tarefa geral de disseminação de informações sobre o Programa, incluindo informação respeitante às ações e atividades geridas a nível nacional e a nível da União, e os seus resultados, e informar os grupos-alvo relevantes acerca das ações executadas no seu país.\n\n4. Os organismos públicos e privados no âmbito dos setores abrangidos pelo Programa utilizam a denominação \"Erasmus+\" para efeitos de comunicação e disseminação da informação relacionada com o Programa. Para os diferentes setores do Programa, devem ser utilizadas as seguintes denominações:\n\n— \"Comenius\", associado ao ensino escolar;\n\n— \"Erasmus\", associado a todos os tipos de ensino superior nos países do Programa;\n\n— \"Erasmus Mundus\", associado a todos os tipos de atividades do ensino superior, entre os países do Programa e os países parceiros;\n\n— \"Leonardo da Vinci\", associado à educação e formação profissionais;\n\n— \"Grundtvig\", associado à educação de adultos;\n\n— \"Juventude em Ação\", associado à aprendizagem não formal e informal no domínio da juventude;\n\n— \"Desporto\", associado a atividades no domínio do desporto.\n\n5. As atividades de comunicação contribuem igualmente para a comunicação institucional das prioridades políticas da União às empresas na medida em que tenham relação com os objetivos gerais do presente regulamento."
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "63c8272543beadb3": {
+   "fragment_id": "Acesso ao Programa",
+   "type": "divisao",
+   "heading": "Acesso ao Programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Acesso ao Programa"
+  },
+  "e9a6f16a5b99231b": {
+   "fragment_id": "Artigo 23.º — Acesso",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Acesso\n\n1. Qualquer organismo público ou privado ativo nos domínios da educação, da formação, da juventude e do desporto de base pode candidatar-se a um financiamento ao abrigo do Programa. No caso das atividades referidas no artigo 13.º, n.º 1, alínea a), e no artigo 14.º, n.º 1, alínea a), o Programa apoia a participação de grupos de jovens ativos na área da animação de juventude, embora não necessariamente no quadro de uma organização de jovens.\n\n2. Na execução do Programa, nomeadamente no que se refere à seleção dos participantes e à atribuição de bolsas, a Comissão e os Estados-Membros envidam esforços, em particular para promover a inclusão social e a participação de pessoas com necessidades especiais ou menos favorecidas."
+  },
+  "17b3d3ed75779f20": {
+   "fragment_id": "Artigo 24.º — Países participantes",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Países participantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Países participantes\n\n1. O Programa encontra-se aberto à participação dos seguintes países (\"países do Programa\"):\n\na) Os Estados-Membros;\n\nb) Os países aderentes, candidatos e potenciais candidatos abrangidos por uma estratégia de pré-adesão, de acordo com os princípios e os termos e condições gerais de participação desses países nos programas da União, estabelecidos nos respetivos acordos-quadro, nas decisões do Conselho de Associação ou noutros acordos similares;\n\nc) Os países da EFTA que são membros do EEE, nos termos do Acordo EEE;\n\nd) A Confederação Suíça, com base num acordo bilateral a celebrar com este país;\n\ne) Os países abrangidos pela política europeia de vizinhança que tenham celebrado com a União acordos que prevejam a possibilidade de participação nos programas da União, desde que celebrem um acordo bilateral com a União sobre as condições da sua participação no Programa.\n\n2. Os países do Programa estão sujeitos a todas as obrigações e devem desempenhar todas as funções que incumbem aos Estados-Membros nos termos do presente regulamento.\n\n3. O Programa apoia a cooperação com países parceiros, nomeadamente países vizinhos, no quadro das ações e atividades referidas nos artigos 6.º, 10.º e 12.º."
+  },
+  "99973826fcc02605": {
+   "fragment_id": "CAPÍTULO VIII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VIII"
+  },
+  "7580a5bab0aa1a93": {
+   "fragment_id": "Sistema de gestão e auditoria",
+   "type": "divisao",
+   "heading": "Sistema de gestão e auditoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Sistema de gestão e auditoria"
+  },
+  "bbd33cd6943f777e": {
+   "fragment_id": "Artigo 25.º — Complementaridade",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Complementaridade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Complementaridade\n\nA Comissão, em cooperação com os Estados-Membros, assegura a coerência e a complementaridade globais do Programa com:\n\na) As políticas e programas pertinentes, em particular os relacionados com a cultura e os meios de comunicação, o emprego, a investigação e inovação, a indústria e as empresas, a política de desenvolvimento e coesão, bem como a política em matéria de alargamento e as iniciativas, instrumentos e estratégias no domínio da política regional e das relações externas;\n\nb) As outras fontes de financiamento da União pertinentes para a educação, formação, juventude e desporto, em particular o Fundo Social Europeu e outros instrumentos financeiros relacionados com emprego e inclusão social, o Fundo Europeu de Desenvolvimento Regional e o \"Horizonte 2020\" – Programa Quadro para a Investigação e Inovação, bem como os instrumentos financeiros relacionados com a justiça e a cidadania, a saúde, os programas de cooperação externa e a assistência de pré-adesão."
+  },
+  "3406752be1164197": {
+   "fragment_id": "Artigo 26.º — Organismos de execução",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Organismos de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Organismos de execução\n\nA execução do Programa de forma coerente cabe aos seguintes organismos:\n\na) A Comissão, a nível da União;\n\nb) As Agências nacionais, a nível nacional nos países do Programa."
+  },
+  "2419bf38efea5572": {
+   "fragment_id": "Artigo 27.º — Autoridade nacional",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Autoridade nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Autoridade nacional\n\n1. A expressão \"autoridade nacional\" refere-se a uma ou mais autoridades nacionais, nos termos da lei e prática nacionais.\n\n2. Até 22 de Janeiro de 2014, os Estados-Membros informam a Comissão, por notificação formal transmitida pelas suas Representações Permanentes junto da União, da pessoa ou pessoas legalmente autorizadas que os representam como autoridade nacional, para efeitos do presente regulamento. Em caso de substituição da autoridade nacional no decurso do Programa, o Estado-Membro em causa notifica a Comissão do facto, imediatamente e através do mesmo procedimento.\n\n3. Os Estados-Membros tomam as medidas apropriadas para eliminar os obstáculos legais e administrativos ao bom funcionamento do Programa, incluindo, se possível, medidas destinadas a resolver questões administrativas que levantem dificuldades na obtenção de vistos.\n\n4. Até 22 de Março de 2014, a autoridade nacional designa a agência nacional ou agências nacionais. Caso existam várias agências nacionais, os Estados-Membros devem criar um mecanismo adequado para a gestão coordenada da execução do Programa a nível nacional, em particular para garantir que o Programa seja executado de forma coerente e eficaz em termos de custos e que seja mantido um contacto efetivo com a Comissão a este propósito, bem como para facilitar a eventual transferência de fundos entre as agências, proporcionando assim flexibilidade e permitindo uma melhor utilização dos fundos atribuídos aos Estados-Membros. Sem prejuízo do disposto no artigo 29.º, n.º 3, cada Estado-Membro determina o modo como organiza a relação entre a autoridade nacional e a agência nacional, inclusive no que se refere a tarefas como a elaboração do programa de trabalho anual da agência nacional.\n\nA autoridade nacional faculta à Comissão uma avaliação de conformidade ex ante certificando que a agência nacional cumpre o disposto no artigo 58.º, n.º 1, alíneas c), subalíneas v) e vi), e no artigo 60.º, n.^os^ 1, 2 e 3, do Regulamento (UE, Euratom) n.º 966/2012, e no artigo 38.º do seu Regulamento Delegado (UE) n.º 1268/2012 da Comissão [([^19])](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr19-L_2013347PT.01005001-E0019), bem como os requisitos e regras da União aplicáveis às agências nacionais em matéria de controlos internos e à gestão do financiamento destinado pelo Programa ao apoio às subvenções.\n\n5. A autoridade nacional designa um organismo de auditoria independente, tal como referido no artigo 30.º.\n\n6. A autoridade nacional baseia a sua avaliação de conformidade ex ante nos seus próprios controlos e auditorias, e/ou em controlos e auditorias realizados pelo organismo de auditoria independente referido no artigo 30.º.\n\n7. Se a agência nacional designada para o Programa for a mesma agência nacional designada para os antecessores programas de Aprendizagem ao Longo da Vida ou Juventude em Ação, o âmbito dos controlos e das auditorias para a avaliação de conformidade ex ante pode ser limitado aos requisitos que são novos e específicos ao Programa.\n\n8. A autoridade nacional acompanha e supervisiona a gestão do Programa ao nível nacional. Informa e consulta a Comissão, em tempo oportuno, antes de tomar decisões que possam ter impacto significativo na gestão do Programa, em particular no que se refere à sua agência nacional.\n\n9. A autoridade nacional faculta o cofinanciamento adequado às operações da agência nacional de forma a garantir que o Programa seja gerido no respeito das regras aplicáveis da União.\n\n10. Se a Comissão rejeitar a designação da agência nacional com base na análise efetuada da avaliação de conformidade *ex-ante*, a autoridade nacional garante que são tomadas as necessárias medidas corretivas que permitam à agência nacional, cumprir os requisitos mínimos estabelecidos pela Comissão, ou designa outro organismo como agência nacional.\n\n11. Com base na declaração anual de gestão da agência nacional, no respetivo parecer de auditoria independente e na análise da Comissão sobre a conformidade e desempenho da agência nacional, a autoridade nacional disponibiliza à Comissão até 31 de outubro de cada ano, informações sobre as suas atividades de monitorização e supervisão relativas ao Programa.\n\n12. A autoridade nacional responsabiliza-se pela correta gestão dos fundos da União transferidos pela Comissão para a agência nacional com vista a disponibilizar apoio às subvenções concedidas no quadro do Programa.\n\n13. Na eventualidade de qualquer irregularidade, negligência ou fraude da agência nacional, em caso de quaisquer problemas graves ou mau desempenho por parte desta, e se estes factos suscitarem reclamações pela Comissão relativamente à mesma, a autoridade nacional é responsável por reembolsar à Comissão os fundos não recuperados.\n\n14. Nas circunstâncias descritas no n.º 13, a autoridade nacional pode por sua própria iniciativa ou a pedido da Comissão, revogar o mandato da agência nacional. Se a autoridade nacional decidir revogar o mandato da agência nacional por outras razões justificadas, notifica a Comissão do facto, pelo menos, seis meses antes da data prevista para o termo do mandato da mesma. Nesse caso, as autoridades nacionais e a Comissão devem concordar formalmente com medidas de transição específicas e calendarizadas.\n\n15. Em caso de revogação, a autoridade nacional deve proceder aos controlos necessários sobre os fundos confiados pela União à agência nacional cujo mandato tenha sido revogado e assegurar uma transferência sem restrições desses fundos à nova agência nacional, bem como de todos os documentos e ferramentas de gestão, necessárias para a gestão do Programa. A autoridade nacional deve prestar à agência nacional, cujo mandato tenha sido revogado, o apoio financeiro necessário para continuar a cumprir as suas obrigações contratuais para com os beneficiários do Programa e a Comissão, até à transferência dessas obrigações para uma nova agência nacional.\n\n16. Se a Comissão o solicitar, a autoridade nacional designa as instituições ou organizações, ou os tipos de instituições e organizações, a considerar elegíveis para a participação em ações específicas do Programa nos respetivos territórios."
+  },
+  "c0622c9b0f3883f6": {
+   "fragment_id": "Artigo 28.º — Agência nacional",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Agência nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Agência nacional\n\n1. A expressão \"agência nacional\" refere-se a uma ou mais agências nacionais, nos termos da lei e prática nacionais.\n\n2. A agência nacional deve:\n\na) Ser dotada de personalidade jurídica ou fazer parte integrante de uma entidade com personalidade jurídica e reger-se pela lei do Estado-Membro em causa; um ministério não pode ser designado como agência nacional;\n\nb) Ter capacidade de gestão, o pessoal e as infraestruturas necessários para desempenhar as suas funções de forma satisfatória, assegurar uma gestão eficiente e eficaz do Programa e uma boa gestão financeira dos fundos da União;\n\nc) Ter os meios operacionais e legais para aplicar as regras de gestão administrativa, contratual e financeira estabelecidas a nível da União;\n\nd) Oferecer garantias financeiras adequadas, prestadas de preferência por uma entidade pública, correspondentes à importância dos fundos da União que lhe competirá gerir;\n\ne) Ser designada para o período de duração do Programa.\n\n3. A agência nacional é responsável pela gestão de todas as fases do ciclo de vida do projeto das seguintes ações do Programa, nos termos do artigo 58.º, n.º 1, alínea c), subalíneas v) e vi), do Regulamento (UE, Euratom) n.º 966/2012 e do artigo 44.º do Regulamento Delegado (UE) n.º 1268/2012:\n\na) \"Mobilidade individual para fins de aprendizagem\", com exceção da mobilidade organizada com base em graus conjuntos ou duplos/múltiplos, em projetos de voluntariado de grande envergadura e no Mecanismo de Garantia para Empréstimos a Estudantes;\n\nb) \"Parcerias estratégicas\" no âmbito da ação \"cooperação para a inovação e o intercâmbio de boas práticas\";\n\nc) A gestão de atividades de pequena dimensão para apoiar o diálogo estruturado no domínio da juventude, no âmbito da ação \"Apoio à reforma de políticas\".\n\n4. Não obstante o disposto no n.º 3, as decisões de seleção e de adjudicação para as parcerias estratégicas referidas no n.º 3, alínea b), podem ser geridas a nível da União, caso, para o efeito, seja adotada uma decisão de acordo com o procedimento de exame a que se refere o artigo 36.º, n.º 3, e apenas em casos específicos em que haja razões manifestas para tal centralização.\n\n5. A agência nacional deve conceder apoio aos beneficiários, quer sob a forma de uma convenção de subvenção ou uma decisão de subvenção, tal como especificado pela Comissão para a ação do Programa em causa.\n\n6. A agência nacional informará anualmente a Comissão e a autoridade nacional, nos termos do disposto no artigo 60.º, n.º 5, do Regulamento (UE, Euratom) n.º 966/2012. A agência nacional é responsável pelo cumprimento das observações formuladas pela Comissão na sequência da sua análise da declaração anual de gestão, bem como do parecer da auditoria independente sobre a mesma.\n\n7. A agência nacional não pode delegar em terceiros tarefas de execução orçamental ou do Programa que lhe são atribuídas, sem autorização prévia e por escrito, da autoridade nacional e da Comissão. A agência nacional é o único responsável por qualquer tarefa delegada em terceiros.\n\n8. Se o mandato de uma agência nacional for revogado, essa agência nacional em causa continua a ser juridicamente responsável pelo cumprimento das suas obrigações contratuais para com os beneficiários do Programa e para com a Comissão até à transferência dessas obrigações para uma nova agência nacional.\n\n9. A agência nacional é responsável pela gestão e encerramento das convenções financeiras relativas aos anteriores programas Aprendizagem ao Longo da Vida e Juventude em Ação, que estejam ainda por encerrar aquando do início do Programa."
+  },
+  "f43b44fe72ae8710": {
+   "fragment_id": "Artigo 29.º — Comissão Europeia",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Comissão Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Comissão Europeia\n\n1. No prazo de dois meses a contar da receção pela autoridade nacional da avaliação de conformidade *ex-ante* referida no artigo 27.º, n.º 4, a Comissão aprova, com condições ou rejeita a designação da agência nacional. A Comissão não enceta uma relação contratual com a agência nacional até à aceitação da avaliação de conformidade *ex-ante*. Em caso de aprovação condicional, a Comissão pode aplicar medidas cautelares proporcionais na relação contratual com a agência nacional.\n\n2. Após a sua aceitação da avaliação de conformidade *ex-ante* relativa à agência nacional designada para o Programa, a Comissão formaliza as responsabilidades jurídicas relativamente a convenções financeiras relativas aos anteriores programas Aprendizagem ao Longo da Vida e Juventude em Ação ainda por encerrar aquando do início do Programa.\n\n3. Nos termos do artigo 27.º, n.º 4, o instrumento que rege as relações contratuais entre a Comissão e a agência nacional deve:\n\na) Prever as normas de controlo interno das agências nacionais e as regras de gestão dos fundos da União destinados às subvenções concedidas pelas agências nacionais;\n\nb) Incluir o programa de trabalho da agência nacional, que compreende as tarefas de gestão da agência nacional às quais a União presta apoio;\n\nc) Especificar os requisitos de apresentação de relatórios à agência nacional.\n\n4. Anualmente, a Comissão deve disponibilizar os seguintes fundos do Programa à agência nacional:\n\na) Fundos para subvenções de apoio no Estado-Membro em causa destinados a ações do Programa, cuja gestão está a cargo da agência nacional;\n\nb) Uma contribuição financeira para apoio das tarefas de gestão do Programa da agência nacional. Este auxílio corresponde a uma subvenção de funcionamento paga enquanto contribuição fixa para os custos operacionais da agência nacional e é estabelecido com base no montante de fundos da União para concessão do apoio confiada à agência nacional.\n\n5. A Comissão estabelece os requisitos do programa de trabalho da agência nacional. A Comissão apenas pode disponibilizar os fundos do Programa após aprovar o programa de trabalho da agência nacional.\n\n6. Com base nos requisitos de conformidade aplicáveis às agências nacionais referidos no artigo 27.º, n.º 4, a Comissão revê os sistemas de gestão e de controlo nacionais, nomeadamente com base na avaliação de conformidade ex ante fornecida pela autoridade nacional, na declaração anual de gestão da agência nacional e do parecer do organismo de auditoria independente sobre a matéria, tendo em conta as informações anuais fornecidas pela autoridade nacional sobre as suas atividades de monitorização e supervisão relativas ao Programa.\n\n7. Após a avaliação da declaração anual de gestão e do parecer de um organismo de auditoria independente sobre a matéria, a Comissão apresentará o seu parecer e as suas observações à agência nacional e à autoridade nacional.\n\n8. Caso não possa aceitar a declaração anual de gestão ou o parecer da auditoria independente sobre a mesma, ou em caso de aplicação não satisfatória das suas recomendações pela agência nacional, a Comissão pode aplicar as medidas cautelares e corretivas necessárias para salvaguardar os interesses financeiros da União, nos termos do artigo 60.º, n.º 4, do Regulamento (UE, Euratom) n.º 966/2012.\n\n9. A Comissão organiza reuniões periódicas com a rede de agências nacionais, a fim de assegurar uma execução coerente do Programa em todos os países do Programa."
+  },
+  "0d2492c6fb6dc2a7": {
+   "fragment_id": "Artigo 30.º — Organismo de auditoria independente",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Organismo de auditoria independente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Organismo de auditoria independente\n\n1. O organismo de auditoria independente emite um parecer sobre a declaração anual de gestão a que se refere o artigo 60.º, n.º 5, do Regulamento (UE, Euratom) n.º 966/2012.\n\n2. O organismo auditor independente deve:\n\na) Possuir as competências profissionais necessárias para a realização de auditorias ao setor público;\n\nb) Garantir que as suas auditorias têm em conta as normas de auditoria internacionalmente aceites;\n\nc) Não ter conflitos de interesses no que respeita à entidade jurídica de que a agência nacional é parte. Deve, nomeadamente, ser independente, no que respeita às suas funções, da entidade jurídica de que a agência nacional é parte.\n\n3. O organismo de auditoria independente deve facultar à Comissão e aos seus representantes, bem como ao Tribunal de Contas, pleno acesso a todos os documentos e relatórios em apoio do parecer de auditoria sobre a declaração anual de gestão da agência nacional."
+  },
+  "066a8a7b3c446d0b": {
+   "fragment_id": "CAPÍTULO IX",
+   "type": "divisao",
+   "heading": "CAPÍTULO IX",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IX"
+  },
+  "0f774730b287414e": {
+   "fragment_id": "Sistema de controlo",
+   "type": "divisao",
+   "heading": "Sistema de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Sistema de controlo"
+  },
+  "ca58e9d708e28167": {
+   "fragment_id": "Artigo 31.º — Princípios do sistema de controlo",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Princípios do sistema de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Princípios do sistema de controlo\n\n1. A Comissão toma as medidas adequadas para garantir que, quando as ações financiadas a título do presente regulamento forem executadas, os interesses financeiros da União sejam protegidos, através da aplicação de medidas preventivas contra a fraude, a corrupção e outras atividades ilícitas, através de controlos eficazes e, caso sejam detetadas irregularidades, da recuperação dos montantes indevidamente pagos e, se adequado, através de sanções eficazes, proporcionadas e dissuasivas.\n\n2. A Comissão é responsável pelos controlos de supervisão no que diz respeito às ações e atividades do Programa geridas pelas agências nacionais. Fixa os requisitos mínimos para a realização de controlos pela agência nacional e pelo organismo de auditoria independente.\n\n3. A agência nacional é responsável pelos controlos de primeiro nível a beneficiários de subvenções para ações e atividades do Programa, tal como referido no artigo 28.º, n.º 3. Esses controlos devem fornecer uma garantia razoável de que as subvenções concedidas são utilizadas como previsto e de acordo com as regras aplicáveis da União.\n\n4. No que respeita aos fundos do Programa transferidos para as agências nacionais, a Comissão assegura a coordenação adequada dos seus controlos com as autoridades nacionais e as agências nacionais, com base no princípio de auditoria única, na sequência de uma análise de risco. Esta disposição não se aplica aos inquéritos efetuados pelo Organismo Europeu de Luta Antifraude (OLAF)."
+  },
+  "78ba38b58706e91a": {
+   "fragment_id": "Artigo 32.º — Proteção dos interesses financeiros da União",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Proteção dos interesses financeiros da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Proteção dos interesses financeiros da União\n\n1. A Comissão ou os seus representantes e o Tribunal de Contas têm poderes para efetuar auditorias, com base em documentos e em visitas *in situ*, em relação a todos os beneficiários de subvenções, contratantes, subcontratantes e outras partes que tenham recebido fundos da União. Podem também efetuar auditorias e controlos às agências nacionais.\n\n2. O OLAF pode realizar controlos e inspeções *in situ* a operadores económicos que tenham beneficiado direta ou indiretamente de financiamento, de acordo com o procedimento previsto no Regulamento (Euratom, CE) n.º 2185/96 do Conselho [([^20])](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr20-L_2013347PT.01005001-E0020), com vista a apurar a existência de fraude, corrupção ou outras atividades ilícitas que afetem os interesses financeiros da União, no âmbito de uma convenção de subvenção, de uma decisão de subvenção ou de um contrato relativo a financiamento da União.\n\n3. Sem prejuízo do disposto nos n.^os^ 1 e 2, os acordos de cooperação com países terceiros e organizações internacionais, assim como as convenções de subvenção, as decisões de subvenção e os contratos resultantes da aplicação do presente regulamento devem expressamente atribuir poderes à Comissão, ao Tribunal de Contas e ao OLAF para conduzirem tais auditorias, controlos e inspeções no local."
+  },
+  "63e36e9fa428ed4b": {
+   "fragment_id": "CAPÍTULO X",
+   "type": "divisao",
+   "heading": "CAPÍTULO X",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO X"
+  },
+  "2e6c9818f7bb646d": {
+   "fragment_id": "Delegação de poderes e disposições de execução",
+   "type": "divisao",
+   "heading": "Delegação de poderes e disposições de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Delegação de poderes e disposições de execução"
+  },
+  "b399ac60235766e8": {
+   "fragment_id": "Artigo 33.º — Delegação de poderes na Comissão",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Delegação de poderes na Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Delegação de poderes na Comissão\n\nA fim de garantir que as tarefas sejam geridas ao nível mais apropriado, a Comissão fica habilitada a adotar atos delegados nos termos do artigo 34.º, relativos à alteração do artigo 28.º, n.º 3, apenas no que respeita às disposições em matéria de ações complementares a serem geridas pelas agências nacionais."
+  },
+  "7713d64546551ae0": {
+   "fragment_id": "Artigo 34.º — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão, nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 33.º é conferido à Comissão para o período de duração do Programa.\n\n3. A delegação de poderes referida no artigo 33.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Assim que adote um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n5. Os atos delegados adotados nos termos do artigo 33.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação desse ato ao Parlamento Europeu e ao Conselho ou se, antes do termo desse prazo, o Parlamento Europeu ou o Conselho tiverem informado a Comissão de que não têm objeções a formular. Este prazo é prorrogado por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "ea1c47d7467db219": {
+   "fragment_id": "Artigo 35.º — Execução do Programa",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Execução do Programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Execução do Programa\n\nCom vista à execução do Programa, a Comissão adota programas de trabalho anuais, através de atos de execução pelo processo de exame a que se refere o artigo 36.º, n.º 3. Os programas de trabalho anuais devem assegurar que os objetivos gerais e específicos previstos nos artigos 4.º, 5.º, 11.º e 16.º sejam realizados anualmente de forma coerente e definem os resultados esperados, o método de aplicação e o seu valor total. Os programas de trabalho anuais devem igualmente conter uma descrição das ações a financiar, uma indicação dos montantes afetados a cada ação, e da repartição de fundos entre os Estados-Membros para as ações a serem geridas pelas agências nacionais, e um calendário de execução indicativo. Devem incluir a taxa máxima de cofinanciamento das subvenções, a qual deve ter em conta as características específicas dos grupos-alvo, em particular, a sua capacidade de cofinanciamento e as possibilidades de obter financiamento de terceiros. Concretamente, no que se refere às ações destinadas a organizações com capacidades de financiamento limitadas, a taxa de cofinanciamento deve ser de, pelo menos, 50 %."
+  },
+  "df5b0f9c7202d008": {
+   "fragment_id": "Artigo 36.º — Procedimento de Comité",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Procedimento de Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Procedimento de Comité\n\n1. A Comissão é assistida por um comité. Esse comité deve ser entendido como comité na aceção do Regulamento (UE) n.º 182/2011.\n\n2. O comité pode reunir em configurações específicas para tratar questões setoriais e, se for caso disso, de acordo com o seu regulamento interno e numa base *ad hoc*, podem ser convidados a participar nas reuniões, na qualidade de observadores, peritos externos, incluindo representantes dos parceiros sociais.\n\n3. Caso se faça referência ao presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011."
+  },
+  "e04eea2e2268a242": {
+   "fragment_id": "CAPÍTULO XI",
+   "type": "divisao",
+   "heading": "CAPÍTULO XI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO XI"
+  },
+  "bbdde795c58f027f": {
+   "fragment_id": "Disposições finais",
+   "type": "divisao",
+   "heading": "Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições finais"
+  },
+  "27305b3b762ba3d7": {
+   "fragment_id": "Artigo 37.º — Revogação e disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Revogação e disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Revogação e disposições transitórias\n\n1. As Decisões n.º 1719/2006/EC, n.º 1720/2006/EC e n.º 1298/2008/EC são revogadas com efeito a partir de 1 de janeiro de 2014.\n\n2. As ações iniciadas em 31 de dezembro de 2013, ou antes desta data, com base nas Decisões n.º 1719/2006/CE, n.º 1720/2006/CE e n.º 1298/2008/CE, são geridas, se for caso disso, nos termos das disposições do presente regulamento.\n\n3. Os Estados-Membros devem assegurar, a nível nacional, uma transição sem impedimentos entre as ações desenvolvidas no âmbito dos programas precedentes no domínio da aprendizagem ao longo da vida, da juventude e da cooperação internacional no ensino superior e as que serão executadas no âmbito do Programa."
+  },
+  "9aa95275e2e5d6fc": {
+   "fragment_id": "Artigo 38.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 1 de janeiro de 2014.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Estrasburgo, 11 de dezembro de 2013\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**M. SCHULZ**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**V. LEŠKEVIČIUS**\n\n---"
+  },
+  "9088ac9f6d3cd3d3": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc1-L_2013347PT.01005001-E0001) [JO C 181 de 21.6.2012, p. 154](http://publications.europa.eu/resource/oj/JOC_2012_181_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc2-L_2013347PT.01005001-E0002) [JO C 225 de 27.7.2012, p. 200](http://publications.europa.eu/resource/oj/JOC_2012_225_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc3-L_2013347PT.01005001-E0003) Posição do Parlamento Europeu de 19 de novembro de 2013 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 3 de dezembro de 2013.\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc4-L_2013347PT.01005001-E0004) Decisão n.º 1720/2006/CE do Parlamento Europeu e do Conselho, de 15 de novembro de 2006, que estabelece um programa de ação no domínio da aprendizagem ao longo da vida ([JO L 327 de 24.11.2006, p. 45](http://publications.europa.eu/resource/oj/JOL_2006_327_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc5-L_2013347PT.01005001-E0005) Decisão n.º 1719/2006/CE do Parlamento Europeu e do Conselho, de 15 de novembro de 2006, que institui o programa Juventude em Ação para o período de 2007 a 2013 ([JO L 327 de 24.11.2006, p. 30](http://publications.europa.eu/resource/oj/JOL_2006_327_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc6-L_2013347PT.01005001-E0006) Decisão n.º 1298/2008/CE do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, que estabelece o programa de ação Erasmus Mundus 2009-2013 para o reforço da qualidade do ensino superior e a promoção da compreensão intercultural, através da cooperação com países terceiros ([JO L 340 de 19.12.2008, p. 83](http://publications.europa.eu/resource/oj/JOL_2008_340_R_TOC)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc7-L_2013347PT.01005001-E0007) Regulamento (CE) n.º 1905/2006 do Parlamento Europeu e do Conselho, de 18 de dezembro de 2006, que institui um instrumento de financiamento da cooperação para o desenvolvimento ([JO L 378 de 27.12.2006, p. 41](http://publications.europa.eu/resource/oj/JOL_2006_378_R_TOC)).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc8-L_2013347PT.01005001-E0008) Diretiva 2004/114/CE do Conselho, de 13 de dezembro de 2004, relativa às condições de admissão de nacionais de países terceiros para efeitos de estudos, de intercâmbio de estudantes, de formação não remunerada ou de voluntariado ([JO L 375 de 23.12.2004, p. 12](http://publications.europa.eu/resource/oj/JOL_2004_375_R_TOC)).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc9-L_2013347PT.01005001-E0009) Decisão n.º 2241/2004/CE do Parlamento Europeu e do Conselho, de 15 de dezembro de 2004, que institui um quadro comunitário único para a transparência das qualificações e competências (Europass) ([JO L 390 de 31.12.2004, p. 6](http://publications.europa.eu/resource/oj/JOL_2004_390_R_TOC)).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc10-L_2013347PT.01005001-E0010) Recomendação 2006/143/CE do Parlamento Europeu e do Conselho, de 15 de fevereiro de 2006, relativa à continuação da cooperação europeia com vista à garantia da qualidade do ensino superior ([JO L 64 de 4.3.2006, p. 60](http://publications.europa.eu/resource/oj/JOL_2006_064_R_TOC)).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc11-L_2013347PT.01005001-E0011) Recomendação do Parlamento Europeu e do Conselho, de 23 de abril de 2008, relativa à instituição do Quadro Europeu de Qualificações para a aprendizagem ao longo da vida ([JO C 111 de 6.5.2008, p. 1](http://publications.europa.eu/resource/oj/JOC_2008_111_R_TOC)).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc12-L_2013347PT.01005001-E0012) Recomendação do Parlamento Europeu e do Conselho, de 18 de junho de 2009, sobre a criação de um Sistema Europeu de Créditos do Ensino e Formação Profissionais (ECVET) ([JO C 155 de 8.7.2009, p. 11](http://publications.europa.eu/resource/oj/JOC_2009_155_R_TOC)).\n\n> [(^13^)](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc13-L_2013347PT.01005001-E0013) Recomendação do Parlamento Europeu e do Conselho, de 18 de junho de 2009, sobre a criação de um Quadro de Referência Europeu de Garantia da Qualidade para o Ensino e a Formação Profissionais ([JO C 155 de 8.7.2009, p. 1](http://publications.europa.eu/resource/oj/JOC_2009_155_R_TOC)).\n\n> [(^14^)](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc14-L_2013347PT.01005001-E0014) [JO C 373 de 20.12.2013, p. 1](http://publications.europa.eu/resource/oj/JOC_2013_373_R_TOC)\n\n> [(^15^)](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc15-L_2013347PT.01005001-E0015) Decisão 2001/822/CE do Conselho, de 27 de novembro de 2001, relativa à Associação dos Países e Territórios Ultramarinos à Comunidade Económica Europeia (\"Decisão de Associação Ultramarina\") ([JO L 314 de 30.11.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_314_R_TOC)).\n\n> [(^16^)](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc16-L_2013347PT.01005001-E0016) Regulamento (UE, Euratom) n.º 966/2012 do Parlamento Europeu e do Conselho, de 25 de outubro de 2012, relativo às disposições financeiras aplicáveis ao orçamento geral da União e que revoga o Regulamento (CE, Euratom) n.º 1605/2002 do Conselho ([JO L 298 de 26.10.2012, p. 1](http://publications.europa.eu/resource/oj/JOL_2012_298_R_TOC)).\n\n> [(^17^)](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc17-L_2013347PT.01005001-E0017) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão ([JO L 55 de 28.2.2011, p. 13](http://publications.europa.eu/resource/oj/JOL_2011_055_R_TOC)).\n\n> [(^18^)](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc18-L_2013347PT.01005001-E0018) Recomendação 2006/962/CE do Parlamento Europeu e do Conselho, de 18 de dezembro de 2006, sobre as competências essenciais para a aprendizagem ao longo da vida ([JO L 394, de 30.12.2006, p. 10](http://publications.europa.eu/resource/oj/JOL_2006_394_R_TOC)).\n\n> [(^19^)](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc19-L_2013347PT.01005001-E0019) Regulamento Delegado (UE) n.º 1268/2012 da Comissão, de 29 de outubro de 2012, sobre as normas de execução do Regulamento (UE, Euratom) n. ° 966/2012 do Parlamento Europeu e do Conselho, relativo às disposições financeiras aplicáveis ao orçamento geral da União ([JO L 362 de 31.12.2012, p. 1](http://publications.europa.eu/resource/oj/JOL_2012_362_R_TOC)).\n\n> [(^20^)](http://publications.europa.eu/resource/cellar/9f8f714d-6bfe-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc20-L_2013347PT.01005001-E0020) Regulamento (Euratom, CE) n.º 2185/96 do Conselho, de 11 de novembro de 1996, relativo às inspeções e verificações no local efetuadas pela Comissão para proteger os interesses financeiros das Comunidades Europeias contra a fraude e outras irregularidades ([JO L 292 de 15.11.1996, p. 2](http://publications.europa.eu/resource/oj/JOL_1996_292_R_TOC))."
+  },
+  "076eb0985417daa9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02013R1288 — PT — 01.01.2021 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32013R1288) [REGULAMENTO (UE) N.º 1288/2013 DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32013R1288) [de 11 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1288) [que cria o Programa \"Erasmus+\" o programa da União para o ensino, a formação, a juventude e o desporto e que revoga as Decisões n.º 1719/2006/CE, n.º 1720/2006/CE e n.º 1298/2008/CE](http://publications.europa.eu/resource/celex/32013R1288) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32013R1288) (JO L 347, 20.12.2013, p.50)\n\n**Revogado por:**\n\n- [Regulamento (UE) 2021/817 do Parlamento Europeu e do Conselho de 20 de maio de 2021](http://publications.europa.eu/resource/celex/32021R0817) — L 189 — 1 — 28.5.2021"
+  }
+ }
+}

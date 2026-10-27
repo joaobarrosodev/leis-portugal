@@ -1,0 +1,245 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32018R1672:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02018R1672-20181112",
+ "dre_path": null,
+ "source_lastmod": "2018-11-12",
+ "versions": [
+  {
+   "date": "2018-11-12",
+   "future": false,
+   "celex": "02018R1672-20181112",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d55e40c9af203c6c",
+    "c8ae9ffdea1d2d8e",
+    "ec046195d5959079",
+    "16319ab8ae85faa0",
+    "886a8e92ba4a35d3",
+    "859c5a83ed88ab3f",
+    "ac40a1d723429a14",
+    "716ed552d08555df",
+    "0042bfb1c94432f5",
+    "c441e629931dab4a",
+    "c640669b8d6c66aa",
+    "347b28ca335989d6",
+    "b0d3fd4b2d7f40e5",
+    "2bddf01dd7848021",
+    "a0aae43d689abe80",
+    "8a7d4685e481240b",
+    "6ed3141988e5f264",
+    "1ba5c7f3c3c419a2",
+    "964aac5b968398f0",
+    "a0f5f7218dd02572",
+    "25629ef20ca9e122",
+    "ae318da1a72dc13b",
+    "d664376e2a8dcecd",
+    "afcb6c54dca88cc2",
+    "45f8a5946ecee71e"
+   ]
+  }
+ ],
+ "fragments": {
+  "d55e40c9af203c6c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de outubro de 2018\n\nrelativo ao controlo das somas em dinheiro líquido que entram ou saem da União e que revoga o Regulamento (CE) n.º 1889/2005"
+  },
+  "c8ae9ffdea1d2d8e": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regulamento estabelece um sistema de controlos das somas em dinheiro líquido que entram ou saem da União, a fim de completar o quadro normativo da prevenção do branqueamento de capitais e do financiamento do terrorismo previsto na Diretiva (UE) 2015/849."
+  },
+  "ec046195d5959079": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n1.\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Dinheiro líquido»,\n\ni) a moeda;\n\nii) os meios de pagamento ao portador;\n\niii) os produtos utilizados como reservas de valor de elevada liquidez;\n\niv) os cartões pré-pagos;\n\nb) «Que entram ou saem da União», provenientes de um território situado fora do território abrangido pelo artigo 355.º do TFUE para o território abrangido por esse artigo, ou a partir do território abrangido por esse artigo;\n\nc) «Moeda», as notas e moedas que estejam em circulação como meio de troca ou que tenham estado em circulação como meio de troca e que ainda podem ser trocadas através de instituições financeiras ou bancos centrais por notas e moedas que estejam em circulação como meio de troca;\n\nd) «Meios de pagamento ao portador», instrumentos diferentes da moeda que permitam aos seus detentores reclamar um montante financeiro mediante a apresentação dos instrumentos sem terem de provar a sua identidade ou o direito a esse montante. Esses instrumentos são:\n\ni) cheques de viagem, e\n\nii) cheques, livranças ou ordens de pagamento quer ao portador, assinados, mas com omissão do nome do beneficiário, quer endossados sem restrições, passados a um beneficiário fictício, ou sob qualquer outra forma que permita a transferência do direito ao pagamento mediante simples entrega;\n\ne) «Produtos utilizados como reserva de valor de elevada liquidez», uma mercadoria enumerada no anexo I, ponto 1, que apresenta um elevado rácio entre o seu valor e o seu volume e que pode ser facilmente convertida em moeda através de mercados de negociação acessíveis apenas com custos de transação modestos;\n\nf) «Cartões pré-pagos», cartões não nominais enumerados no anexo I, ponto 2, que armazenam ou dão acesso a valores monetários ou fundos, que podem ser utilizados para operações de pagamento, para adquirir bens ou serviços ou para resgate de divisas e que não estão ligados a uma conta bancária;\n\ng) «Autoridades competentes», as autoridades aduaneiras dos Estados-Membros e qualquer outra autoridade incumbida pelos Estados-Membros de aplicar o presente regulamento;\n\nh) «Transportador», uma pessoa singular que entre ou saia da União transportando dinheiro líquido consigo, nas suas bagagens ou no respetivo meio de transporte;\n\ni) «Dinheiro líquido não acompanhado», dinheiro líquido que constitua parte de uma remessa sem transportador;\n\nj) «Atividade criminosa»: uma das atividades enumeradas no artigo 3.º, n.º 4, da Diretiva (UE) 2015/849;\n\nk) «Unidade de informação financeira (UIF)», a entidade estabelecida num Estado-Membro para efeitos da aplicação do artigo 32.º da Diretiva (UE) 2015/849.\n\n2. A Comissão fica habilitada a adotar atos delegados nos termos do artigo 15.º do presente regulamento, no que diz respeito à alteração do anexo I do regulamento para ter em conta as novas tendências em matéria de branqueamento de capitais na aceção do artigo 1.º, n.^os^ 3 e 4, da Diretiva (UE) 2015/849, ou de financiamento do terrorismo, na aceção do artigo 1.º, n.º 5, da mesma diretiva, ou para ter em conta as melhores práticas em matéria de prevenção do branqueamento de capitais e do financiamento do terrorismo, ou para impedir a utilização por parte dos criminosos de produtos utilizados como reservas de valor de elevada liquidez e de cartões pré-pagos anónimos para contornar as obrigações previstas nos artigos 3.º e 4.º do presente regulamento."
+  },
+  "16319ab8ae85faa0": {
+   "fragment_id": "Artigo 3.º — Obrigação de declaração de dinheiro líquido acompanhado",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Obrigação de declaração de dinheiro líquido acompanhado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Obrigação de declaração de dinheiro líquido acompanhado\n\n1. Os transportadores que levem consigo uma soma de dinheiro líquido igual ou superior a 10 000 EUR devem declarar essa soma de dinheiro líquido à autoridade competente do Estado-Membro através do qual entrem ou saiam da União e colocá-la à sua disposição para controlo. Considera-se que a obrigação de declaração de somas de dinheiro líquido não foi cumprida se a informação prestada for incorreta ou incompleta ou se o dinheiro líquido não for disponibilizado para efeitos de controlo.\n\n2.\n\nDa declaração a que se refere o n.º 1 devem constar as seguintes informações:\n\na) Nome completo do transportador, dados de contacto, bem como endereço, data e local de nascimento, nacionalidade e o número do seu documento de identificação;\n\nb) O proprietário do dinheiro líquido, incluindo, nome completo, dados de contacto, bem como endereço, data e local de nascimento, nacionalidade e o número do documento de identificação ou, caso o proprietário seja uma pessoa coletiva, denominação, dados de contacto, incluindo o endereço, número de registo e, caso esteja disponível, número de identificação para efeitos do imposto sobre o valor acrescentado (IVA);\n\nc) Caso esteja disponível, o destinatário previsto do dinheiro líquido, incluindo, em caso de pessoa singular, nome completo, dados de contacto, bem como endereço, data e local de nascimento, nacionalidade e o número do documento de identificação ou, caso o destinatário seja uma pessoa coletiva, denominação, dados de contacto, incluindo o endereço, número de registo e, caso esteja disponível, número de identificação para efeitos do IVA;\n\nd) A natureza e o montante ou valor da soma de dinheiro líquido;\n\ne) A proveniência económica da soma de dinheiro líquido;\n\nf) A utilização prevista da soma de dinheiro líquido;\n\ng) O itinerário de transporte; e\n\nh) Os meios de transporte.\n\n3. As informações enumeradas no n.º 2 do presente artigo devem ser prestadas por escrito ou por via eletrónica, utilizando o formulário de declaração a que se refere o artigo 16.º, n.º 1, alínea a). Deve ser entregue uma cópia autenticada da declaração ao declarante a seu pedido."
+  },
+  "886a8e92ba4a35d3": {
+   "fragment_id": "Artigo 4.º — Obrigação de divulgação de dinheiro líquido não acompanhado",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Obrigação de divulgação de dinheiro líquido não acompanhado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Obrigação de divulgação de dinheiro líquido não acompanhado\n\n1. Se as somas em dinheiro líquido de valor igual ou superior a 10 000 EUR que entram ou saem da União não forem acompanhadas, as autoridades competentes do Estado-Membro através do qual o dinheiro líquido entra ou sai da União podem exigir ao expedidor ou ao destinatário do dinheiro líquido, ou aos seus representantes, consoante o caso, que façam uma declaração de divulgação, dentro de um prazo determinado de 30 dias. As autoridades competentes podem reter o dinheiro líquido até que o expedidor ou o destinatário, ou os seus representantes, façam a declaração de divulgação. Considera-se que a obrigação de declaração de dinheiro líquido não acompanhado não foi cumprida se a declaração não for feita antes de o prazo expirar, se a informação prestada for incorreta ou incompleta ou se o dinheiro líquido não for disponibilizado para efeitos de controlo.\n\n2.\n\nDa declaração de divulgação devem constar as seguintes informações:\n\na) O declarante, incluindo nome completo, dados de contacto, bem como endereço, data e local de nascimento, nacionalidade e o número do documento de identificação;\n\nb) Caso o proprietário do dinheiro líquido seja uma pessoa singular, nome completo, dados de contacto, bem como endereço, data e local de nascimento, nacionalidade e o número do documento de identificação, ou, caso o proprietário seja uma pessoa coletiva, denominação, dados de contacto, incluindo o endereço, número de registo e, caso esteja disponível, número de identificação para efeitos do IVA;\n\nc) Caso o expedidor do dinheiro líquido seja uma pessoa singular, nome completo, dados de contacto, bem como endereço, data e local de nascimento, nacionalidade e o número do documento de identificação, ou, caso o expedidor seja uma pessoa coletiva, denominação, dados de contacto, incluindo o endereço, número de registo e, caso esteja disponível, número de identificação para efeitos do IVA;\n\nd) Caso o destinatário ou destinatário previsto do dinheiro líquido seja uma pessoa singular, nome completo, dados de contacto, bem como endereço, data e local de nascimento, nacionalidade e o número do documento de identificação, ou, caso o destinatário ou destinatário previsto seja uma pessoa coletiva, denominação, dados de contacto, incluindo o endereço, número de registo e, caso esteja disponível, número de identificação para efeitos do IVA;\n\ne) A natureza e o montante ou valor da soma de dinheiro líquido;\n\nf) A proveniência económica da soma de dinheiro líquido; e\n\ng) A utilização prevista da soma de dinheiro líquido.\n\n3. As informações enumeradas no n.º 2 do presente artigo devem ser prestadas por escrito ou por via eletrónica, utilizando o formulário da declaração de divulgação a que se refere artigo 16.º, n.º 1, alínea a). Deve ser entregue uma cópia autenticada da declaração de divulgação ao declarante a seu pedido."
+  },
+  "859c5a83ed88ab3f": {
+   "fragment_id": "Artigo 5.º — Competência das autoridades competentes",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Competência das autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competência das autoridades competentes\n\n1. A fim de verificar o cumprimento da obrigação de declaração de dinheiro líquido acompanhado prevista no artigo 3.º, as autoridades competentes devem dispor dos poderes necessários para proceder aos controlos das pessoas singulares, das suas bagagens e dos seus meios de transporte, de acordo com as condições estabelecidas no direito nacional.\n\n2. Para efeitos de aplicação da obrigação de divulgação de dinheiro líquido não acompanhado prevista no artigo 4.º, as autoridades competentes devem dispor dos poderes necessários para proceder aos controlos de todas as remessas, recetáculos ou meios de transporte que possam conter dinheiro líquido não acompanhado, de acordo com as condições estabelecidas no direito nacional.\n\n3. Se a obrigação de declaração de dinheiro líquido acompanhado referida no artigo 3.º ou a obrigação de declaração de dinheiro líquido não acompanhado prevista no artigo 4.º não for cumprida, cabe às autoridades competentes elaborar, por escrito ou em formato eletrónico, uma declaração oficiosa da qual devem constar, na medida do possível, os dados referidos no artigo 3.º, n.º 2, ou no artigo 4.º, n.º 2, consoante o caso.\n\n4. Os controlos devem basear-se essencialmente na análise de risco, com o objetivo de identificar e avaliar os riscos e desenvolver as contramedidas necessárias, e ser realizados dentro de um regime comum de gestão do risco, em conformidade com os critérios a que se refere o artigo 16.º, n.º 1, alínea b), devendo igualmente ter em conta a avaliação de risco estabelecida pela Comissão e pelas UIF nos termos da Diretiva (UE) 2015/849.\n\n5. Para efeitos do artigo 6.º, as autoridades competentes exercem igualmente os poderes que lhes são conferidos nos termos do presente artigo."
+  },
+  "ac40a1d723429a14": {
+   "fragment_id": "Artigo 6.º — Montantes inferiores ao valor do limiar suspeitos de estarem relacionados com atividade criminosa",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Montantes inferiores ao valor do limiar suspeitos de estarem relacionados com atividade criminosa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Montantes inferiores ao valor do limiar suspeitos de estarem relacionados com atividade criminosa\n\n1. Se detetarem um transportador com uma soma de dinheiro líquido inferior ao valor do limiar a que se refere o artigo 3.º e se existirem indícios de que o dinheiro líquido está relacionado com uma atividade criminosa, as autoridades competentes devem registar essa informação e os dados enumerados no artigo 3.º, n.º 2.\n\n2. Se descobrirem que uma transferência de dinheiro líquido não acompanhado de um montante inferior ao valor do limiar referido no artigo 4.º entra ou sai da União e se existirem indícios de que o dinheiro líquido está relacionado com uma atividade criminosa, as autoridades competentes devem registar essa informação e os dados enumerados no artigo 4.º, n.º 2."
+  },
+  "716ed552d08555df": {
+   "fragment_id": "Artigo 7.º — Retenção temporária do dinheiro líquido pelas autoridades competentes",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Retenção temporária do dinheiro líquido pelas autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Retenção temporária do dinheiro líquido pelas autoridades competentes\n\n1.\n\nAs autoridades competentes podem reter temporariamente dinheiro líquido através de uma decisão administrativa, em conformidade com as condições estabelecidas no direito nacional, caso:\n\na) A obrigação de declaração de dinheiro líquido acompanhado nos termos do artigo 3.º ou a obrigação de declaração de dinheiro líquido não acompanhado prevista no artigo 4.º não seja cumprida; ou\n\nb) Existam indícios de que o dinheiro líquido, independentemente do valor, está relacionado com atividades criminosas.\n\n2.\n\nA decisão administrativa a que se refere o n.º 1 deve ser passível de recurso efetivo de acordo com os processos previstos no direito nacional. A autoridade competente notifica a fundamentação da decisão administrativa:\n\na) À pessoa obrigada a fazer a declaração nos termos do artigo 3.º ou a declaração de divulgação nos termos do artigo 4.º; ou\n\nb) À pessoa obrigada a apresentar a informação nos termos do artigo 6.º, n.^os^ 1 ou 2.\n\n3. O prazo de retenção temporária deve ser estritamente limitado, nos termos do direito nacional, ao tempo necessário para as autoridades competentes determinarem se as circunstâncias do caso concreto justificam a prorrogação do prazo de retenção. O prazo de retenção temporária não pode ser superior a 30 dias. Após terem efetuado uma avaliação exaustiva da necessidade e proporcionalidade de uma retenção temporária adicional, as autoridades competentes podem decidir prorrogar o prazo de retenção temporária até um máximo de 90 dias.\n\nSe não for determinada a prorrogação do prazo de retenção do dinheiro líquido no prazo fixado ou se se concluir que as circunstâncias do caso em apreço não justificam a prorrogação do prazo de retenção, o dinheiro líquido deve ser imediatamente entregue:\n\na) À pessoa a quem foi temporariamente retido o dinheiro líquido, nas situações a que se referem os artigos 3.º ou 4.º; ou\n\nb) À pessoa a quem foi temporariamente retido o dinheiro líquido, nas situações a que se refere o artigo 6.º, n.^os^ 1 ou 2."
+  },
+  "0042bfb1c94432f5": {
+   "fragment_id": "Artigo 8.º — Campanhas de informação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Campanhas de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Campanhas de informação\n\nOs Estados-Membros devem assegurar que as pessoas que entram ou saem do território da União ou as pessoas que enviam dinheiro líquido não acompanhado para fora da União ou recebem dinheiro líquido não acompanhado na União sejam informadas dos seus direitos e obrigações nos termos do presente regulamento, devendo ainda os Estados-Membros, em cooperação com a Comissão, preparar instrumentos adequados destinados a essas pessoas.\n\nOs Estados-Membros devem assegurar a disponibilização de fundos suficientes para estas campanhas de informação."
+  },
+  "c441e629931dab4a": {
+   "fragment_id": "Artigo 9.º — Prestação de informações à UIF",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Prestação de informações à UIF",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Prestação de informações à UIF\n\n1. As autoridades competentes devem registar as informações obtidas nos termos dos artigos 3.º ou 4.º, do artigo 5.º, n.º 3, ou do artigo 6.º e comunicá-las à UIF do Estado-Membro no qual tiverem sido obtidas, em conformidade com as normas técnicas estabelecidas a que se refere o artigo 16.º, n.º 1, alínea c).\n\n2. Os Estados-Membros devem assegurar que a UIF do Estado-Membro em causa troque essas informações com as UIF pertinentes dos outros Estados-Membros, nos termos do artigo 53.º, n.º 1, da Diretiva (UE) 2015/849.\n\n3. As autoridades competentes comunicam as informações referidas no n.º 1 o mais rapidamente possível e, em qualquer caso, o mais tardar até 15 dias úteis após a data em que as informações tiverem sido obtidas."
+  },
+  "c640669b8d6c66aa": {
+   "fragment_id": "Artigo 10.º — Troca de informações entre autoridades competentes e entre estas e a Comissão",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Troca de informações entre autoridades competentes e entre estas e a Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Troca de informações entre autoridades competentes e entre estas e a Comissão\n\n1.\n\nA autoridade competente de cada Estado-Membro deve comunicar, por via eletrónica, as seguintes informações às autoridades competentes de todos os outros Estados-Membros:\n\na) Declarações oficiosas elaboradas nos termos do artigo 5.º, n.º 3;\n\nb) Informações obtidas nos termos do artigo 6.º;\n\nc) Declarações obtidas nos termos dos artigos 3.º ou 4.º, sempre que existam indícios de que o dinheiro líquido está relacionado com atividades criminosas;\n\nd) Informações anonimizadas relativas ao risco e resultados das análises de risco.\n\n2. Se existirem indícios de que as somas em dinheiro líquido estão relacionadas com atividades criminosas que podem prejudicar os interesses financeiros da União, as informações a que se refere o n.º 1 devem igualmente ser comunicadas à Comissão, à Procuradoria Europeia pelos Estados-Membros participantes na cooperação reforçada nos termos do Regulamento (UE) 2017/1939, e, caso tenha competência para o efeito nos termos do artigo 22.º daquele regulamento, e à Europol nos termos do artigo 3.º do Regulamento (UE) 2016/794.\n\n3. A autoridade competente deve comunicar as informações a que se referem os n.^os^ 1 e 2 de acordo as normas técnicas a que se refere artigo 16.º, n.º 1, alínea c), utilizando o formulário a que se refere o artigo 16.º, n.º 1, alínea d).\n\n4. As informações a que se referem o n.º 1, alíneas a), b) e c), e o n.º 2 devem ser comunicadas o mais rapidamente possível e, em qualquer caso, o mais tardar até 15 dias úteis após a data em que as informações tiverem sido obtidas.\n\n5. As informações e os resultados a que se refere o n.º 1, alínea d), devem ser comunicados semestralmente."
+  },
+  "347b28ca335989d6": {
+   "fragment_id": "Artigo 11.º — Troca de informações com países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Troca de informações com países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Troca de informações com países terceiros\n\n1.\n\nPara efeitos do presente regulamento, os Estados-Membros ou a Comissão podem comunicar no âmbito da assistência administrativa mútua as seguintes informações a um país terceiro, sob reserva de autorização escrita da autoridade competente que inicialmente obteve as informações desde que tal comunicação esteja em conformidade com o direito nacional e da União aplicáveis em matéria de transferência de dados pessoais para países terceiros:\n\na) Declarações oficiosas elaboradas nos termos do artigo 5.º, n.º 3;\n\nb) Informações obtidas nos termos do artigo 6.º;\n\nc) Declarações obtidas nos termos dos artigos 3.º ou 4.º, sempre que existam indícios de que o dinheiro líquido está relacionado com branqueamento de capitais ou financiamento do terrorismo.\n\n2. Os Estados-Membros devem notificar a Comissão das informações comunicadas nos termos do n.º 1."
+  },
+  "b0d3fd4b2d7f40e5": {
+   "fragment_id": "Artigo 12.º — Sigilo profissional, confidencialidade e segurança dos dados",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Sigilo profissional, confidencialidade e segurança dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Sigilo profissional, confidencialidade e segurança dos dados\n\n1. As autoridades competentes devem garantir a segurança dos dados obtidos nos termos dos artigos 3.º e 4.º, do artigo 5.º, n.º 3, e do artigo 6.º.\n\n2. Todas as informações obtidas pelas autoridades competentes devem ser abrangidas pela obrigação de sigilo profissional."
+  },
+  "2bddf01dd7848021": {
+   "fragment_id": "Artigo 13.º — Proteção dos dados pessoais e prazos de conservação",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Proteção dos dados pessoais e prazos de conservação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Proteção dos dados pessoais e prazos de conservação\n\n1. As autoridades competentes devem assumir a função de responsáveis pelo tratamento dos dados pessoais obtidos através da aplicação dos artigos 3.º e 4.º, do artigo 5.º, n.º 3, e do artigo 6.º.\n\n2. O tratamento dos dados pessoais com base no presente regulamento só deve ser efetuado para efeitos de prevenção e luta contra as atividades criminosas.\n\n3. Os dados pessoais obtidos através da aplicação dos artigos 3.º e 4.º, do artigo 5.º, n.º 3, e do artigo 6.º só devem ser acessíveis a pessoal devidamente autorizado pelas autoridades competentes e devem beneficiar de proteção adequada contra o acesso ou a comunicação não autorizados. Salvo disposição em contrário nos artigos 9.º, 10.º e 11.º, os dados não podem ser divulgados ou comunicados sem autorização expressa da autoridade competente que inicialmente os obteve. No entanto, essa autorização não é obrigatória nos casos em que as autoridades competentes sejam obrigadas a divulgar ou transmitir essas informações nos termos do direito nacional do Estado-Membro em causa, em especial no âmbito de processos judiciais.\n\n4. As autoridades competentes e a UIF conservam os dados pessoais obtidos através da aplicação dos artigos 3.º e 4.º, do artigo 5.º, n.º 3, e do artigo 6.º por um prazo de cinco anos a contar da data em que os dados foram obtidos. No termo desse prazo, os referidos dados pessoais devem ser apagados.\n\n5.\n\nO prazo de retenção pode ser prorrogado uma vez por um período adicional não superior a três anos, se:\n\na) Após a realização de uma avaliação aprofundada da necessidade e da proporcionalidade da retenção prolongada que conclua que esta se justifica tendo em vista o cumprimento das suas funções no domínio da luta contra o branqueamento de capitais ou o financiamento do terrorismo, a UIF determinar que é necessária uma prorrogação do prazo de retenção;\n\nb) Após a realização de uma avaliação aprofundada da necessidade e da proporcionalidade da retenção prolongada que conclua que esta se justifica tendo em vista o cumprimento das suas funções no domínio da realização de controlos eficazes da obrigação de declaração de dinheiro líquido acompanhado ou da obrigação de declaração de dinheiro líquido não acompanhado, as autoridades competentes determinarem que é necessária uma prorrogação do prazo de retenção."
+  },
+  "a0aae43d689abe80": {
+   "fragment_id": "Artigo 14.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Sanções\n\nCabe a cada Estado-Membro definir as sanções a aplicar nos casos de incumprimento da obrigação de declaração de dinheiro líquido acompanhado prevista no artigo 3.º, ou a obrigação de divulgação de dinheiro líquido não acompanhado prevista no artigo 4.º. As sanções previstas devem ser efetivas, proporcionadas e dissuasivas."
+  },
+  "8a7d4685e481240b": {
+   "fragment_id": "Artigo 15.º — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados a que se refere o artigo 2.º, n.º 2, é conferido à Comissão por um prazo indeterminado, a contar de 2 de dezembro de 2018.\n\n3. A delegação de poderes a que se refere o artigo 2.º, n.º 2, pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor.\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 2.º, n.º 2, só entram em vigor se se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "6ed3141988e5f264": {
+   "fragment_id": "Artigo 16.º — Atos de execução",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Atos de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Atos de execução\n\n1.\n\nA Comissão adota, sob a forma de atos de execução, as seguintes medidas destinadas a garantir a aplicação uniforme dos controlos pelas autoridades competentes:\n\na) Os modelos do formulário de declaração a que se refere o artigo 3.º, n.º 3, e do formulário da declaração de divulgação a que se refere o artigo 4.º, n.º 3;\n\nb) Os critérios do regime comum de gestão dos riscos a que se refere o artigo 5.º, n.º 4, e, mais especificamente, os critérios de risco, normas e domínios de controlo prioritário, com base nas informações trocadas nos termos do artigo 10.º, n.º 1, alínea d), e políticas e práticas de excelência da União e internacionais;\n\nc) As normas técnicas para a troca eficaz de informações previstas no artigo 9.º, n.^os^ 1 e 3, e no artigo 10.º do presente regulamento, através do Sistema de Informação Aduaneiro (SIA), criado pelo artigo 23.º do Regulamento (CE) n.º 515/97;\n\nd) O modelo de formulário para a comunicação das informações a que se refere o artigo 10.º, n.º 3; e\n\ne) As regras e os formulários a utilizar pelos Estados-Membros para fornecer à Comissão informações estatísticas anonimizadas relativas às declarações e infrações nos termos do artigo 18.º.\n\n2. Os atos de execução a que se refere o n.º 1 do presente artigo são adotados pelo procedimento de exame a que se refere o artigo 17.º, n.º 2."
+  },
+  "1ba5c7f3c3c419a2": {
+   "fragment_id": "Artigo 17.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Procedimento de comité\n\n1. A Comissão é assistida por um Comité de Controlo das Somas em Dinheiro Líquido. Este comité é um comité na aceção do Regulamento (UE) n.º 182/2011.\n\n2. Sempre que se remeta para o presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011."
+  },
+  "964aac5b968398f0": {
+   "fragment_id": "Artigo 18.º — Comunicação de informações relacionadas com a execução do presente regulamento",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Comunicação de informações relacionadas com a execução do presente regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Comunicação de informações relacionadas com a execução do presente regulamento\n\n1.\n\nAté 4 de dezembro de 2021, os Estados-Membros devem comunicar o seguinte à Comissão:\n\na) A lista de autoridades competentes;\n\nb) As regras detalhadas das sanções introduzidas nos termos do artigo 14.º;\n\nc) Informações estatísticas anonimizadas sobre declarações, controlos e infrações, utilizando o modelo a que se refere o artigo 16.º, n.º 1, alínea e).\n\n2. Os Estados-Membros devem notificar a Comissão de eventuais alterações às informações referidas no n.º 1, alíneas a) e b), o mais tardar um mês após as referidas alterações terem produzido efeito.\n\nAs informações a que se refere o n.º 1, alínea c), são comunicadas à Comissão pelo menos de seis em seis meses.\n\n3. A Comissão deve disponibilizar as informações a que se refere o n.º 1, alínea a), bem como todas as alterações posteriores a essa informação, nos termos do n.º 2 a todos os outros Estados-Membros.\n\n4. A Comissão deve publicar anualmente as informações a que se referem o n.º 1, alíneas a) e c), bem como quaisquer alterações posteriores a essas informações, nos termos do n.º 2, no seu sítio Web, e informar os utilizadores, de forma clara, sobre os controlos relacionados com o dinheiro líquido que entra ou sai da União."
+  },
+  "a0f5f7218dd02572": {
+   "fragment_id": "Artigo 19.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Avaliação\n\n1. [**►C2**](http://publications.europa.eu/resource/celex/32018R1672R%2802%29) Até 3 de junho de 2024, e, posteriormente, de cinco em cinco anos,**◄** a Comissão deve, com base nas informações recebidas periodicamente dos Estados-Membros, apresentar um relatório ao Parlamento Europeu e ao Conselho sobre a aplicação do presente regulamento.\n\nO relatório a que se refere o primeiro parágrafo deve avaliar, em especial:\n\na) Se devem ser incluídos outros ativos no âmbito de aplicação do presente regulamento;\n\nb) Se o procedimento de divulgação aplicável às somas de dinheiro líquido não acompanhado é eficaz;\n\nc) Se o limiar de dinheiro líquido não acompanhado deve ser revisto;\n\nd) Se os fluxos de informação, em conformidade com os artigos 9.º e 10.º, e em especial a utilização do SIA, são eficazes ou se existem obstáculos à troca rápida e direta de informações compatíveis e comparáveis entre autoridades competentes e com as UIF; e\n\ne) Se as sanções definidas pelos Estados-Membros são eficazes, proporcionadas e dissuasivas e conformes com a jurisprudência do Tribunal de Justiça da União Europeia e se têm um efeito dissuasor equivalente em toda a União no que respeita às infrações ao presente regulamento.\n\n2.\n\nO relatório a que se refere o n.º 1 deve incluir, se tais dados se encontrarem disponíveis:\n\na) Uma compilação de informações, recebida dos Estados-Membros, relativamente a somas de dinheiro líquido relacionadas com atividades criminosas suscetíveis de prejudicar os interesses financeiros da União; e\n\nb) Dados relacionados com a troca de informações com países terceiros."
+  },
+  "25629ef20ca9e122": {
+   "fragment_id": "Artigo 20.º — Revogação do Regulamento (CE) n.º 1889/2005",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Revogação do Regulamento (CE) n.º 1889/2005",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Revogação do Regulamento (CE) n.º 1889/2005\n\nO Regulamento (CE) n.º 1889/2005 é revogado.\n\nAs remissões para o regulamento revogado devem entender-se como remissões para o presente regulamento e ser lidas de acordo com a tabela de correspondência constante do anexo II."
+  },
+  "ae318da1a72dc13b": {
+   "fragment_id": "Artigo 21.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 3 de junho de 2021. No entanto, o artigo 16.º é aplicável a partir de 2 de dezembro de 2018.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "afcb6c54dca88cc2": {
+   "fragment_id": "Produtos utilizados como reservas de valor de elevada liquidez e cartões pré-pagos considerados dinheiro líquido nos termos do artigo 2.º, n.º 1, alínea a), subalíneas iii) e iv)",
+   "type": "divisao",
+   "heading": "Produtos utilizados como reservas de valor de elevada liquidez e cartões pré-pagos considerados dinheiro líquido nos termos do artigo 2.º, n.º 1, alínea a), subalíneas iii) e iv)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Produtos utilizados como reservas de valor de elevada liquidez e cartões pré-pagos considerados dinheiro líquido nos termos do artigo 2.º, n.º 1, alínea a), subalíneas iii) e iv)\n\n1. Os produtos utilizados como reservas de valor de elevada liquidez:\n\na) Moedas com um teor de ouro de, pelo menos, 90 %; e\n\nb) Metais preciosos, tais como barras, pepitas ou agregados com um teor de ouro de, pelo menos, 99,5 %.\n\n2. Cartões pré-pagos: P.M."
+  },
+  "45f8a5946ecee71e": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nRegulamento (CE) n.º 1889/2005 Presente regulamento\n\nArtigo 1.º Artigo 1.º\n\nArtigo 2.º Artigo 2.º\n\nArtigo 3.º Artigo 3.º\n\n— Artigo 4.º\n\nArtigo 4.º, n.º 1 Artigo 5.º\n\nArtigo 5.º, n.º 2 Artigo 6.º\n\nArtigo 4.º, n.º 2 Artigo 7.º\n\n— Artigo 8.º\n\nArtigo 5.º, n.º 1 Artigo 9.º\n\nArtigo 6.º Artigo 10.º\n\nArtigo 7.º Artigo 11.º\n\nArtigo 8.º Artigo 12.º\n\n— Artigo 13.º\n\nArtigo 9.º Artigo 14.º\n\n— Artigo 15.º\n\n— Artigo 16.º\n\n— Artigo 17.º\n\n— Artigo 18.º\n\nArtigo 10.º Artigo 19.º\n\n— Artigo 20.º\n\nArtigo 11.º Artigo 21.º\n\n— Anexo I\n\n— Anexo II"
+  }
+ }
+}

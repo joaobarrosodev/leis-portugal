@@ -1,0 +1,601 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31996R2201:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996R2201-20080701",
+ "dre_path": null,
+ "source_lastmod": "2008-07-01",
+ "versions": [
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01996R2201-20070101",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0a8f0a87f8980f16",
+    "ce4e92a6a1fa3fcf",
+    "ffc348f463b781ad",
+    "f8d6f0bdd7881b79",
+    "ba6ee558ea158a25",
+    "a55d61fd4cc986ec",
+    "1e5328c011738c9f",
+    "875f3cece8b5e3f2",
+    "926cb20f7065d43f",
+    "5ec10b7fdffbeb80",
+    "64876183cb46b936",
+    "f19068896fa8eb11",
+    "9b7fcb748ac5586a",
+    "1b00deda816c6943",
+    "89d7ecd185a93437",
+    "5ff3661893a7a871",
+    "4c8bdeab3d91ec7d",
+    "a0d2b2848563949f",
+    "50bcf4f37c174e25",
+    "36776fc29937bbf4",
+    "86bed2b1c6996ed8",
+    "45a0e311460cd86b",
+    "65af8a8f857b2e10",
+    "167e16cbb943dd5d",
+    "f2d5d30aee24d188",
+    "b77f7c4c307a20f0",
+    "547d3ffd892fa715",
+    "afd9ae44c19186d7",
+    "fd7ab929a73a1886",
+    "3eb7a3b0f7450cbd",
+    "9db704600627e53c",
+    "7fabed8a0a46afb5",
+    "b61a9b0e1680f81c",
+    "3d4d5adbd2dc86bb",
+    "251d78ce81b1eedd",
+    "41b2f81d0fa0d84b",
+    "b00b6828eb8dc566",
+    "fb9ffa4647b103fe",
+    "a61842bfa2535364",
+    "4cf1af9c06e3a066",
+    "8a10ed66d1ab36c0",
+    "30f779b1d04d5dea",
+    "ec905a7dde2b4ced",
+    "fe3b00b351ffaacb",
+    "720af75c92791b10",
+    "d1dd70d3499c6841",
+    "4c6868d46c130e2e",
+    "d0a04718cce1706e",
+    "373018a51b6e58fd"
+   ]
+  },
+  {
+   "date": "2008-01-01",
+   "future": false,
+   "celex": "01996R2201-20080101",
+   "acts": [
+    {
+     "id": "eu:celex:32007R1182:por",
+     "title": "REGULAMENTO (CE) N. o 1182/2007 DO CONSELHO de 26 de Setembro de 2007",
+     "published": null,
+     "celex": "32007R1182"
+    },
+    {
+     "id": "eu:celex:32007R1212:por",
+     "title": "REGULAMENTO (CE) N. o 1212/2007 DA COMISSÃO de 17 de Outubro de 2007",
+     "published": null,
+     "celex": "32007R1212"
+    },
+    {
+     "id": "eu:celex:32007R1234:por",
+     "title": "M9",
+     "published": null,
+     "celex": "32007R1234"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 33.º",
+    "Altera Notas",
+    "Suprime TÍTULO I",
+    "Suprime Regime de ajudas",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 6.ºA",
+    "Suprime Artigo 6.ºB",
+    "Suprime Artigo 6.ºC",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime TÍTULO II",
+    "Suprime Comércio com os países terceiros",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 19.º",
+    "Suprime Artigo 20.º",
+    "Suprime Artigo 21.º",
+    "Suprime Artigo 22.º",
+    "Suprime Artigo 23.º",
+    "Suprime Artigo 24.º",
+    "Suprime Artigo 25.º",
+    "Suprime Artigo 26.º",
+    "Suprime Artigo 27.º",
+    "Suprime Artigo 29.º",
+    "Suprime Artigo 30.º",
+    "Suprime Artigo 31.º",
+    "Suprime Artigo 32.º",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II",
+    "Suprime ANEXO III",
+    "Suprime Limiares de transformação referidos no artigo 5.º",
+    "Suprime Matéria‐prima fresca"
+   ],
+   "fragments": [
+    "9798ec764568d01f",
+    "e6c349a12fff9f65",
+    "9db704600627e53c",
+    "7fabed8a0a46afb5",
+    "08f7829f78b3d684",
+    "d0a04718cce1706e",
+    "108e9af6acfe4980"
+   ]
+  },
+  {
+   "date": "2008-07-01",
+   "future": false,
+   "celex": "01996R2201-20080701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime TÍTULO III",
+    "Suprime Disposições gerais",
+    "Suprime Artigo 33.º",
+    "Suprime ANEXO IV",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "3b13e34ce4108034"
+   ]
+  }
+ ],
+ "fragments": {
+  "0a8f0a87f8980f16": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Outubro de 1996\n\nque estabelece a organização comum de mercado no sector dos produtos transformados à base de frutas e produtos hortícolas\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, os seus artigos 42.º e 43.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/fc2df98c-4c66-4725-ad92-aa8bfe5f6e79.0017.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/fc2df98c-4c66-4725-ad92-aa8bfe5f6e79.0017.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/fc2df98c-4c66-4725-ad92-aa8bfe5f6e79.0017.03/DOC_1#E0003)),\n\n(1) Considerando que o sector das frutas e produtos hortícolas em geral está submetido a diversos factores de mudança, a que a Comunidade deve fazer face através de uma reorientação das regras de base das suas organizações do mercado; que, no que se refere a determinados produtos transformados, é além disso conveniente ter em conta a situação dos mercados internacionais; que, devido às numerosas alterações de que a organização comum do mercado dos produtos transformados à base de frutas e produtos hortícolas foi objecto desde a sua introdução, é conveniente, por motivos de clareza, adoptar um novo regulamento;\n\n(2) Considerando que certos produtos transformados se revestem de uma importância especial nas regiões mediterrânicas da Comunidade, onde os preços no produtor são sensivelmente superiores aos verificados nos países terceiros; que, à luz das provas dadas no passado pelo regime de ajuda à produção baseado na assinatura de contratos que assegurem o abastecimento regular da indústria contra pagamento de um preço mínimo aos produtores, é oportuno manter esse regime; que é, no entanto, conveniente, em paralelo com os produtos frescos, reforçar o papel das organizações de produtores, a fim de assegurar uma maior concentração da oferta, gerir esta última de modo mais racional e, por fim, facilitar o controlo do respeito do preço mínimo nos produtores;\n\n(3) Considerando que, dado o vínculo existente entre os preços dos produtos destinados ao consumo em estado fresco e os destinados a transformação, é conveniente prever que, na determinação do preço no produtor, seja tida em conta a evolução dos preços de mercado no sector das frutas e produtos hortícolas e a necessidade de manter um equilíbrio adequado entre os diversos escoamentos do produto fresco;\n\n(4) Considerando que o montante da ajuda deve compensar a diferença entre os preços pagos aos produtores na Comunidade e os preços pagos nos países terceiros; que é, por conseguinte, conveniente prever um modo de cálculo que tenha designadamente em conta essa diferença e a incidência da evolução do preço mínimo, sem prejuízo da aplicação de certos elementos técnicos;\n\n(5) Considerando que, devido às importantes disponibilidades em matérias-primas e à elasticidade da capacidade de transformação, a concessão da ajuda à produção pode levar, em certos casos, a uma significativa extensão da mesma; que, para evitar as dificuldades de escoamento que daí poderiam resultar, é conveniente prever limitações à concessão da ajuda, sob a forma, consoante os produtos, de um limiar de garantia ou de um regime de quotas;\n\n(6) Considerando que a experiência adquirida em relação aos produtos transformados à base de tomate leva à adopção de um regime mais flexível, destinado a aumentar o dinamismo das empresas e a competitividade da indústria comunitária; que as quotas por grupo de produtos e por Estado-membro devem ser estabelecidas forfetariamente para os dois primeiros anos de aplicação do novo regime; que o montante da ajuda para os concentrados e seus derivados deve ser diminuído para compensar o aumento das despesas resultante do aumento das quotas de concentrado de tomate e dos outros produtos em relação ao antigo regime;\n\n(7) Considerando que o sector das uvas secas apresenta particularidades que levaram à aplicação de um sistema de ajuda em relação à superfície especializada cultivada; que este sistema, bem como o sistema da superfície máxima garantida, que tem por objectivo evitar uma extensão desmesurada da cultura de uvas destinadas a secagem, devem, tal como no passado, ser mantidos no mesmo regulamento;\n\n(8) Considerando que prosseguem as acções de replantação para combate à filoxera; que, a fim de evitar uma suspensão da operação quando existem ainda superfícies importantes por replantar, é conveniente manter o sistema de ajuda em benefício dos produtores que replantam as suas vinhas para combater a filoxera;\n\n(9) Considerando que, para facilitar o escoamento dos produtos transformados e melhor adaptar a sua qualidade às exigências do mercado, é conveniente prever a possibilidade de fixação de normas;\n\n(10) Considerando que, nos sectores das uvas secas e dos figos secos, deve manter-se, sem prejuízo de determinados ajustamentos, o sistema de armazenagem em termo de campanha, limitado a uma determinada quantidade de uvas secas; que é necessário estabelecer os níveis dos preços de compra para cada um dos produtos, atendendo às suas particularidades;\n\n(11) Considerando que é conveniente prever a possibilidade de pôr em prática medidas específicas a favor de determinados sectores confrontados com a concorrência internacional em casos em que a sua produção se revista de grande importância local ou regional; que essas medidas devem contemplar melhoramentos estruturais que visem o aumento da competitividade e o fomento da utilização dos produtos em causa; que é conveniente prever transitoriamente uma ajuda forfetária a favor das superfícies actuais de cultura de espargos destinados à transformação, atendendo à situação do sector;\n\n(12) Considerando que o Regulamento (CE) n.º 3290/94 ([^4^](http://publications.europa.eu/resource/cellar/fc2df98c-4c66-4725-ad92-aa8bfe5f6e79.0017.03/DOC_1#E0004)) adoptou as adaptações e medidas transitórias necessárias no sector da agricultura para a execução dos acordos concluídos no âmbito das negociações comerciais multilaterais do «Uruguay Round», nomeadamente no que se refere ao novo regime de comércio com os países terceiros no sector dos produtos transformados à base de frutas e produtos hortícolas; que são retomadas no presente regulamento as disposições constantes do anexo XIV do Regulamento (CE) n.º 3290/94; que, todavia, por uma preocupação de simplificação, é conveniente conferir à Comissão competência para a aplicação de determinadas disposições técnicas, relativas a uma eventual escassez de açúcar;\n\n(13) Considerando que o funcionamento do mercado interno seria comprometido pela concessão de determinadas ajudas; que é, por conseguinte, conveniente que as disposições do Tratado que permitem apreciar os auxílios concedidos pelos Estados-membros e proibir os incompatíveis com o mercado comum sejam tornadas aplicáveis no sector objecto do presente regulamento;\n\n(14) Considerando que é conveniente aplicar ao sector dos produtos transformados à base de frutos e produtos hortícolas o disposto no Regulamento (CE) n.º 2200/96 do Conselho, de 28 de Outubro de 1996, que estabelece a organização comum de mercado no sector das frutas e produtos hortícolas ([^5^](http://publications.europa.eu/resource/cellar/fc2df98c-4c66-4725-ad92-aa8bfe5f6e79.0017.03/DOC_1#E0005)), a fim de não duplicar as normas e os organismos de controlo; que é também necessário prever sanções para assegurar uma aplicação uniforme do novo regime em toda a Comunidade;\n\n(15) Considerando que a organização comum do mercado no sector dos produtos transformados à base de frutas e produtos hortícolas deve ter em conta, paralelamente e de forma adequada, os objectivos previstos nos artigos 39.º e 110.º do Tratado;\n\n(16) Considerando que, para facilitar a execução das disposições do presente regulamento, é conveniente prever um processo que instaure uma estreita cooperação entre os Estados-membros e a Comissão no seio de um comité de gestão,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "ce4e92a6a1fa3fcf": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O presente regulamento estabelece a organização comum do mercado no sector dos produtos transformados à base de frutas e produtos hortícolas.\n\n2. A organização comum abrange os produtos seguintes:\n\n| Código NC | Designação das mercadorias |\n| --- | --- |\n| a) ex07 10 | Produtos hortícolas, não cozidos ou cozidos em água ou vapor, congelados, com exclusão do milho doce da subposição 0710 40 00, das azeitonas da subposição 0710 80 10 e dos pimentos dos géneros *Capsicum* ou *Pimenta* da subposição 0710 80 59 |\n| ex07 11 | Produtos hortícolas conservados transitoriamente (por exemplo: com gás sulfuroso ou água salgada, sulfurada ou adicionada de outras substâncias destinadas a assegurar transitoriamente a sua conservação), mas impróprios para alimentação nesse estado, com exclusão das azeitonas da subposição 0711 20, dos pimentos dos géneros *Capsicum* ou *Pimenta* da subposição 0711 90 10 e do milho doce da subposição 0711 90 30 |\n| ex07 12 | Produtos hortícolas secos, mesmo cortados em pedaços ou fatias, ou ainda triturados ou em pó, mas sem qualquer outro preparo, com exclusão das batatas da subposição ex071290 05, desidratadas por secagem artificial e/ou calor, impróprias para consumo humano, do milho doce das subposições ex071290 11 e 0712 90 19 e das azeitonas da subposição ex071290 90 |\n| 0804 20 90 | Figos secos |\n| 0806 20 | Uvas secas |\n| ex08 11 | Frutas, não cozidas ou cozidas em água ou vapor, congeladas, sem adição de açúcar ou de outros edulcorantes, com exclusão das bananas congeladas da subposição ex081190 95 |\n| [▼M5](http://publications.europa.eu/resource/celex/32002R0453) |  |\n| ex08 12 | Frutas conservadas transitoriamente (por exemplo: com gás sulfuroso ou água salgada, sulfurada ou adicionada de outras substâncias destinadas a assegurar transitoriamente a sua conservação), mas impróprias para alimentação nesse estado, com exclusão das bananas conservadas transitoriamente da subposição ex081290 99 |\n| [▼B](http://publications.europa.eu/resource/celex/31996R2201) |  |\n| ex08 13 | Frutas secas, excepto das posições 0801 a 0806 inclusive; misturas de frutas secas ou de frutas de casca rija do presente capítulo, com exclusão das misturas constituídas exclusivamente por frutas de casca rija das posições 0801 e 0802 das subposições 0813 50 31 e 0813 50 39 |\n| 0814 00 00 | Cascas de citrinos, de melões ou de melancias, frescas, secas, congeladas ou apresentadas em água salgada, sulfurada ou adicionada de outras substâncias destinadas a assegurar transitoriamente a sua conservação |\n| 0904 20 10 | Pimentos doces ou pimentões, não triturados nem em pó |\n| b) ex08 11 | Frutas, não cozidas ou cozidas em água ou vapor, congeladas, adicionadas de açúcar ou de outros edulcorantes |\n| [▼C1](http://publications.europa.eu/resource/celex/31996R2201R%2801%29) |  |\n| ex13 02 20 | Matérias pécticas e pectinatos |\n| [▼B](http://publications.europa.eu/resource/celex/31996R2201) |  |\n| ex20 01 | Produtos hortícolas, frutas e outras partes comestíveis de plantas, preparados ou conservados em vinagre ou em ácido acético, com exclusão de: — Frutas do género *Capsicum*, excepto pimentos doces ou pimentões da subposição 2001 90 20 — Milho doce (*Zea mays var. Saccharata*) da subposição 2001 90 30 — Inhames, batatas-doces e partes comestíveis semelhantes de plantas, de teor, em peso, de amido ou de fécula igual ou superior a 5 %, da subposição 2001 90 40, e — Palmitos da subposição 2001 90 60 — Azeitonas da subposição 2001 90 65 — Folhas de videira, rebentos de lúpulo e outras partes comestíveis de plantas da subposição [**►M6**](http://publications.europa.eu/resource/celex/32004R0386) ex200190 99**◄** |\n| 2002 | Tomates preparados ou conservados, excepto em vinagre ou em ácido acético |\n| 2003 | Cogumelos e trufas, preparados ou conservados, excepto em vinagre ou em ácido acético |\n| ex20 04 | Outros produtos hortícolas preparados ou conservados, excepto em vinagre ou em ácido acético, congelados, com excepção dos produtos da posição 2006 com exclusão do milho doce (*Zea mays var. Saccharata*) da subposição ex200490 10, das azeitonas da subposição ex200490 30 e das batatas preparadas ou conservadas sob a forma de farinhas, sêmolas ou flocos da subposição 2004 10 91 |\n| ex20 05 | Outros produtos hortícolas preparados ou conservados, excepto em vinagre ou em ácido acético, não congelados, com excepção dos produtos da posição 2006 com exclusão das azeitonas da subposição 2005 70, de milho doce (*Zea mays var. Saccharata*) da subposição 2005 80 00, das frutas do género *Capsicum*, excepto pimentos doces e pimentões da subposição 2005 90 10, e das batatas preparadas ou conservadas sob a forma de farinhas, sêmolas ou flocos da subposição 2005 20 10 |\n| ex20 06 00 | Frutas, cascas de frutas e outras partes de plantas, conservadas em açúcar (passadas por calda, glaceadas ou cristalizadas), com exclusão das bananas conservadas em açúcar das subposições ex200600 38 e ex200600 99 |\n| ex20 07 | Doces, geleias, *marmelades*, purés e pastas de frutas, obtidos por cozimento, com ou sem adição de açúcar ou de outros edulcorantes, com exclusão de: — Preparações homogeneizadas de bananas da subposição ex20 07 10 — Doces, geleias, *marmelades*, purés e pastas de bananas das subposições ex200799 39, [**►M6**](http://publications.europa.eu/resource/celex/32004R0386) ex200799 57**◄** e ex200799 98 |\n| ex20 08 | Frutas e outras partes comestíveis de plantas, preparadas ou conservadas de outro modo, com ou sem adição de açúcar ou de outros edulcorantes ou de álcool, não especificadas nem compreendidas noutras posições, com exclusão de: — Manteiga de amendoim da subposição 2008 11 10 — Palmitos da subposição 2008 91 00 — Milho da subposição 2008 99 85 — Inhames, batatas-doces e partes comestíveis semelhantes de plantas, de teor, em peso, de amido ou de fécula igual ou superior a 5 %, da subposição 2008 99 91 — Folhas de videira, rebentos de lúpulo e outras partes semelhantes comestíveis de plantas incluídas na subposição ex200899 99 — Misturas de bananas preparadas ou conservadas de outro modo das subposições ex200892 59, ex200892 78, ex200892 93 e ex200892 98 — Bananas preparadas ou conservadas de outro modo das subposições ex200899 49, [**►M6**](http://publications.europa.eu/resource/celex/32004R0386) ex200899 67**◄** e ex200899 99 |\n| [▼M5](http://publications.europa.eu/resource/celex/32002R0453) |  |\n| ex20 09 | Sumos de frutas (com exclusão dos sumos e mostos de uvas das subposições 2009 61 e 2009 69 e dos sumos de bananas da subposição 2009 80) ou de produtos hortícolas, não fermentados, sem adição de álcool, com ou sem adição de açúcar ou de outros edulcorantes |\n| [▼B](http://publications.europa.eu/resource/celex/31996R2201) |  |\n\n3. As campanhas de comercialização dos produtos a que se refere o n.º 2 serão fixadas, se necessário, de acordo com o procedimento previsto no artigo 29.º"
+  },
+  "ffc348f463b781ad": {
+   "fragment_id": "TÍTULO I",
+   "type": "divisao",
+   "heading": "TÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I"
+  },
+  "f8d6f0bdd7881b79": {
+   "fragment_id": "Regime de ajudas",
+   "type": "divisao",
+   "heading": "Regime de ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Regime de ajudas"
+  },
+  "ba6ee558ea158a25": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nÉ instituído um regime comunitário de ajuda às organizações de produtores que entreguem para transformação tomates, pêssegos e pêras colhidos na Comunidade, para a produção dos produtos transformados constantes do anexo I.\n\nA lista de produtos transformados constante do anexo I pode ser revista em função da evolução do mercado, nos termos do artigo 29.º"
+  },
+  "a55d61fd4cc986ec": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. O regime referido no artigo 2.º baseia-se em contratos celebrados entre, por um lado, organizações de produtores reconhecidas ou pré-reconhecidas ao abrigo do Regulamento (CE) n.º 2200/96 e, por outro, transformadores aprovados pelas autoridades competentes dos Estados-Membros.\n\nTodavia, durante a campanha de comercialização 2001/2002, os contratos podem também vincular os transformadores a produtores individuais, relativamente a uma quantidade máxima de 25 % da quantidade contratada por cada transformador.\n\n2. Os contratos são celebrados antes de uma data determinada, a definir nos termos do artigo 29.º Os contratos devem especificar, nomeadamente, as quantidades a que se referem, o escalonamento das entregas ao transformador, o preço a pagar às organizações de produtores e a obrigação, para o transformador, de transformar os produtos objecto dos contratos.\n\nApós a sua celebração, os contratos são transmitidos às autoridades competentes dos Estados-Membros.\n\n3. As organizações de produtores supracitadas fazem beneficiar do disposto no presente artigo os empresários não filiados em nenhuma das estruturas colectivas previstas pelo Regulamento (CE) n.º 2200/96 que se comprometam a comercializar por seu intermédio a totalidade da sua produção de tomates, pêssegos e pêras destinados a transformação e paguem uma contribuição para as despesas globais de gestão do regime pela organização."
+  },
+  "1e5328c011738c9f": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. É concedida uma ajuda às organizações de produtores em relação às quantidades de matéria-prima entregues para transformação ao abrigo dos contratos referidos no artigo 3.º\n\n2. Os montantes da ajuda são de:\n\n34,50 euros/tonelada, para os tomates,\n\n47,70 euros/tonelada, para os pêssegos,\n\n161,70 euros/tonelada, para as pêras.\n\n3. Sem prejuízo do artigo 5.º, a ajuda é paga pelos Estados-Membros às organizações de produtores, a pedido destas, logo que as autoridades de controlo do Estado-Membro em que se realizar a transformação tiverem constatado a entrega dos produtos objecto de contratos à indústria transformadora. O montante da ajuda recebida pela organização de produtores é pago aos seus membros e, quando se aplique o n.º 3 do artigo 3.º, aos produtores em causa."
+  },
+  "875f3cece8b5e3f2": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Para cada produto referido no artigo 2.º são estabelecidos limiares comunitários e nacionais de transformação, que constam do anexo II.\n\n2. Sempre que for excedido um limiar comunitário de transformação, a ajuda fixada para o produto em causa nos termos do n.º 2 do artigo 4.º será reduzida em todos os Estados-Membros em que tiver sido excedido o correspondente limiar de transformação.\n\nPara efeitos do primeiro parágrafo, a superação de um limiar é calculada por comparação desse limiar com a média das quantidades transformadas com ajuda no âmbito do presente regulamento durante as três campanhas anteriores àquela em relação à qual deve ser fixada a ajuda.\n\nTodavia, para o cálculo da superação dos limiares fixados para cada Estado-Membro, as quantidades atribuídas a um Estado-Membro e não transformadas são adicionadas aos limiares fixados para os outros Estados-Membros, proporcionalmente a estes.\n\nA redução da ajuda é proporcional à superação constatada relativamente ao limiar em causa.\n\n3. No que diz respeito aos tomates e em derrogação do segundo parágrafo do n.º 2, são aplicáveis as seguintes disposições em relação às três primeiras campanhas de aplicação do presente regulamento:\n\na) Em relação à primeira campanha:\n\n— a superação do limiar de transformação é calculada com base na quantidade entregue para transformação com ajuda durante essa campanha, e\n\n— a ajuda fixada no n.º 2 do artigo 4.º é reduzida para 31,36 euros/tonelada. Todavia, nos Estados-Membros cujo limiar não tenha sido excedido ou o tenha sido em menos de 10 %, bem como em todos os Estados-Membros em questão no caso de o limiar comunitário não ter sido superado, é pago um montante suplementar após a campanha. Esse montante suplementar é fixado com base na superação efectiva do limiar em causa;\n\nb) Em relação à segunda campanha, a superação do limiar de transformação é calculada com base na quantidade entregue para transformação com ajuda durante a primeira campanha;\n\nc) Em relação à terceira campanha, a superação do limiar de transformação é calculada com base na quantidade entregue para transformação com ajuda durante as duas primeiras campanhas.\n\n4. Os Estados-Membros podem dividir o limiar nacional previsto para os tomates em dois sublimiares, um para tomates para transformação em tomates pelados inteiros e outro para transformação noutros produtos de tomate.\n\nOs Estados-Membros que façam uso desta faculdade devem informar a Comissão.\n\nEm caso de superação do limiar nacional, a redução da ajuda prevista no n.º 2 é aplicada à ajuda aos dois sublimiares na proporção da superação verificada em relação ao sublimiar em causa."
+  },
+  "926cb20f7065d43f": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. As regras de execução dos artigos 2.º a 5.º, nomeadamente as que se referem à aprovação dos transformadores, à celebração dos contratos de transformação, ao pagamento da ajuda, às medidas de controlo e sanções, às campanhas de comercialização, às características mínimas da matéria-prima entregue para transformação, às exigências mínimas de qualidade dos produtos acabados e às consequências financeiras da superação dos limiares, serão adoptadas nos termos do artigo 29.º\n\n2. Serão adoptados de acordo com o mesmo procedimento os controlos qualitativos e quantitativos:\n\n— dos produtos entregues aos transformadores pelas organizações de produtores, e\n\n— da transformação efectiva, pelos transformadores, dos produtos entregues em produtos constantes do anexo I."
+  },
+  "5ec10b7fdffbeb80": {
+   "fragment_id": "Artigo 6.ºA",
+   "type": "artigo",
+   "heading": "Artigo 6.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.ºA\n\n1. É aplicado um regime de ajuda à produção de:\n\na) Figos secos do código NC 0804 20 90, e\n\nb) Passas de ameixa obtidas a partir de ameixas de Ente secas do código NC ex081320 00,\n\nobtidos a partir de frutos colhidos na Comunidade.\n\n2. A ajuda à produção é concedida ao transformador que pela matéria-prima tenha pago ao produtor um preço pelo menos igual ao preço mínimo nos termos dos contratos celebrados entre, por um lado, as organizações de produtores reconhecidas ou pré-reconhecidas ao abrigo do Regulamento (CE) n.º 2200/96 e, por outro, os transformadores.\n\nTodavia, durante a campanha de comercialização 2001/2002, os contratos podem também vincular os transformadores a produtores individuais, relativamente a uma quantidade máxima de 25 % da quantidade que dá direito à ajuda à produção.\n\nAs organizações de produtores supracitadas farão beneficiar do disposto no presente artigo os empresários não filiados em nenhuma das estruturas colectivas previstas pelo Regulamento (CE) n.º 2200/96 que se comprometam a comercializar por seu intermédio a totalidade da sua produção destinada ao fabrico de produtos constantes do n.º 1 do presente artigo e paguem uma contribuição para as despesas globais de gestão do regime pela organização.\n\nOs contratos devem ser assinados antes do início de cada campanha de comercialização."
+  },
+  "64876183cb46b936": {
+   "fragment_id": "Artigo 6.ºB",
+   "type": "artigo",
+   "heading": "Artigo 6.ºB",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.ºB\n\n1. O preço mínimo a pagar ao produtor é determinado com base:\n\na) No preço mínimo aplicável durante a campanha de comercialização anterior;\n\nb) Na evolução dos preços de mercado no sector das frutas e produtos hortícolas;\n\nc) Na necessidade de assegurar o escoamento normal do produto fresco de base para os diferentes destinos, incluindo o abastecimento da indústria de transformação.\n\n2. O preço mínimo é fixado antes do início de cada campanha de comercialização.\n\n3. O preço mínimo e as regras de execução do presente artigo serão adoptados de acordo com o procedimento previsto no artigo 29.º"
+  },
+  "f19068896fa8eb11": {
+   "fragment_id": "Artigo 6.ºC",
+   "type": "artigo",
+   "heading": "Artigo 6.ºC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.ºC\n\n1. A ajuda à produção não pode ser superior à diferença existente entre o preço mínimo pago ao produtor na Comunidade e o preço da matéria-prima dos principais países terceiros produtores e exportadores.\n\n2. O montante da ajuda à produção é fixado de modo a permitir o escoamento do produto comunitário, dentro dos limites do disposto no n.º 1.\n\nNo estabelecimento desse montante atender-se-á nomeadamente:\n\na) À diferença entre o custo da matéria-prima praticado na Comunidade e o dos principais países terceiros concorrentes;\n\nb) Ao montante da ajuda fixado para a campanha de comercialização anterior; e\n\nc) Em relação aos produtos para os quais a produção comunitária representa uma parte substancial do mercado, à evolução do volume do comércio externo e do seu preço, sempre que este último critério conduza a uma diminuição do montante da ajuda.\n\n3. A ajuda à produção é fixada em função do peso líquido do produto transformado. Os coeficientes que exprimem a relação entre o peso da matéria-prima utilizada e o peso líquido do produto transformado serão fixados forfetariamente e actualizados regularmente, com base na experiência adquirida.\n\n4. A ajuda à produção é paga aos transformadores apenas por produtos transformados:\n\na) Obtidos a partir de uma matéria-prima colhida na Comunidade, pela qual o interessado tenha pago pelo menos o preço mínimo referido no n.º 2 do artigo 6.ºA;\n\nb) Conformes com as exigências de qualidade mínima.\n\n5. O preço da matéria-prima dos principais países terceiros concorrentes é determinado principalmente com base nos preços realmente praticados na fase de saída da exploração agrícola para os produtos frescos de qualidade comparável utilizados para transformação, ponderados em função das quantidades de produtos acabados exportados por esses países terceiros.\n\n6. No que se refere aos produtos em relação aos quais a produção comunitária representa pelo menos 50 % do mercado do consumo comunitário, a evolução dos preços e do volume das importações e das exportações é apreciada com base nos dados do ano civil que precede o início da campanha em relação aos dados do ano civil anterior.\n\n7. A Comissão fixa o montante da ajuda à produção, nos termos do artigo 29.º, antes do início de cada campanha. A Comissão adopta, nos termos do mesmo artigo, os coeficientes referidos no n.º 3, as exigências mínimas de qualidade e as demais regras de execução do presente artigo."
+  },
+  "9b7fcb748ac5586a": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. É concedida uma ajuda à cultura de uvas destinadas à produção de uvas secas das variedades sultana e Moscatel e de uvas secas de Corinto.\n\nO montante da ajuda será fixado por hectare de superfícies especializadas colhidas, em função do rendimento médio por hectare destas últimas. Na sua fixação, ter-se-á ainda em conta:\n\na) A necessidade de assegurar a manutenção das superfícies tradicionalmente consagradas àquelas culturas;\n\nb) As possibilidades de escoamento dessas uvas secas.\n\nO montante da ajuda pode ser diferenciado em função das variedades, bem como de outros factores que possam afectar os rendimentos.\n\n2. Para cada campanha de comercialização, é criada uma superfície máxima garantida comunitária, igual à média das superfícies consagradas às culturas a que se refere o n.º 1 durante as campanhas de 1987/1988, 1988/1989 e 1989/1990. Se as superfícies especializadas consagradas à produção de uvas secas excederem a superfície máxima garantida, será reduzido o montante da ajuda relativa à campanha de comercialização, em função do excesso verificado.\n\nPara Chipre, as campanhas de comercialização de 1995/96, 1996/97 e 1999/2000 são as campanhas de referência para a fixação da superfície máxima garantida comunitária a que se refere o primeiro parágrafo.\n\n3. A ajuda será paga quando as superfícies tiverem sido colhidas e os produtos tiverem sido secos para serem transformados.\n\n4. Os produtores que replantem as suas vinhas para combater a filoxera e não beneficiem das ajudas previstas nas acções estruturais contra essa doença tomadas a cargo pelo FEOGA, secção «Orientação», beneficiarão, durante três campanhas, de uma ajuda em cuja fixação serão tidos em conta o montante da ajuda referida no n.º 1 e o montante da ajuda concedida com relação às referidas acções estruturais. Neste caso, não é aplicável o n.º 3.\n\n5. A Comissão fixará o montante da ajuda nos termos do procedimento previsto no artigo 29.º, antes do início de cada campanha de comercialização. A Comissão adoptará nos termos do mesmo procedimento as regras de execução do presente artigo e verificará se houve a ultrapassagem da superfície máxima garantida e, na afirmativa, determinará a consequente redução do montante da ajuda."
+  },
+  "1b00deda816c6943": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nPodem ser fixadas normas comuns nos termos do procedimento previsto no artigo 29.º para os produtos a que se refere o n.º 1 do artigo 7.º e para os produtos constantes do anexo I, destinados ao consumo na Comunidade ou exportados para países terceiros."
+  },
+  "89d7ecd185a93437": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Os organismos aprovados pelos Estados-membros em causa, a seguir denominados «organismos de armazenagem», comprarão, nos últimos dois meses da campanha de comercialização, as quantidades de sultanas, de uvas secas de Corinto e de figos secos produzidas na Comunidade durante a campanha em curso, desde que esses produtos satisfaçam requisitos de qualidade a determinar.\n\nAs quantidades de sultanas e de uvas secas de Corinto compradas nos termos do n.º 2 não podem exceder 27 930 toneladas.\n\n2. O preço de compra por que os organismos de armazenagem comprarão os produtos a que se refere o n.º 1 será igual:\n\na) Em relação aos figos secos, ao preço mínimo correspondente à categoria de qualidade mais baixa diminuído de 5 %;\n\nb) Em relação às sultanas e uvas secas de Corinto, ao nível do preço de compra em vigor na campanha de 1994/1995, adaptado anualmente em função da evolução do preço mínimo de importação referido no artigo 13.º ou, a partir de 2000, dos preços mundiais.\n\n3. O escoamento dos produtos comprados pelos organismos de armazenagem deve realizar-se em condições tais que não seja comprometido o equilíbrio do mercado e sejam asseguradas a igualdade de acesso aos produtos a vender e a igualdade de tratamento dos compradores.\n\nPara os produtos que não possam ser escoados em condições normais, podem ser tomadas medidas especiais. Nesse caso, pode ser exigida uma garantia especial, a fim de obrigar ao cumprimento dos compromissos assumidos, designadamente no que se refere ao destino do produto. A garantia fica perdida na totalidade ou em parte se os compromissos não forem respeitados ou se apenas o forem parcialmente.\n\n4. Será concedida aos organismos de armazenagem uma ajuda à armazenagem, para as quantidades de produtos que tiverem comprado e pelo período efectivo de armazenagem destes. O pagamento da ajuda cessa, porém, no termo do período de dezoito meses que se segue ao final da campanha em que o produto tenha sido comprado.\n\n5. Será concedida ao organismo de armazenagem uma compensação financeira igual à diferença entre o preço de compra pago pelos organismos de armazenagem e o preço de venda. A essa compensação deduzir-se-ão eventuais benefícios resultantes da diferença entre o preço de compra e o preço de venda.\n\n6. Para efeitos do n.º 1, os Estados-membros aprovarão os organismos de armazenagem que oferecerem garantias adequadas de, por um lado, assegurarem uma armazenagem em boas condições técnicas e, por outro, efectuarem uma gestão satisfatória dos produtos comprados.\n\nEsses organismos têm, nomeadamente, a obrigação de efectuar uma armazenagem dos produtos comprados em locais distintos e de manter uma contabilidade separada para esses produtos.\n\n7. A colocação à venda dos produtos comprados em conformidade com o n.º 1 far-se-á quer por adjudicação quer por vendas a preços previamente fixados.\n\nAs propostas só serão tomadas em consideração mediante constituição de uma garantia.\n\n8. O preço de compra a que se refere o n.º 2 e as regras de execução do presente artigo, nomeadamente no que diz respeito à ajuda à armazenagem, à compensação financeira e à compra e venda dos produtos pelos organismos de armazenagem, serão adoptados nos termos do procedimento previsto no artigo 29.º"
+  },
+  "5ff3661893a7a871": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Para os produtos referidos no n.º 2 do artigo 1.º com grande importância, económica ou ecológica, a nível local ou regional, que enfrentem designadamente uma forte concorrência internacional, podem ser adoptadas, nos termos do procedimento previsto no artigo 29.º, medidas específicas tendentes a aumentar a sua competitividade.\n\nTais medidas podem incluir nomeadamente:\n\na) Acções tendentes a melhorar a aptidão para serem transformados dos produtos colhidos e a adequação das suas características às necessidades das indústrias de transformação;\n\nb) Acções tendentes ao aperfeiçoamento científico e técnico de novos modos operatórios ou de processos destinados a aumentar a qualidade e/ou reduzir os custos de produção dos produtos transformados;\n\nc) Acções tendentes ao desenvolvimento de novos produtos e/ou de novas utilizações dos produtos transformados;\n\nd) Realização de estudos económicos e de mercado;\n\ne) Acções tendentes a promover o consumo e utilização dos produtos em causa.\n\n2. As medidas previstas no n.º 1 serão executadas por organizações de produtores ou suas associações reconhecidas ao abrigo do Regulamento (CE) n.º 2200/96, em associação com organizações representativas dos operadores que exercem actividades de transformação e/ou comercialização do produto ou produtos do sector em causa.\n\n3. No que se refere aos espargos destinados à transformação e para facilitar o lançamento de medidas específicas que visem melhorar a competitividade, como as referidas no n.º 1, é concedida ao abrigo do presente artigo, durante os três primeiros anos que se referem à aplicação dessas medidas, uma ajuda forfetária de 500 ecus por hectare, para um máximo de 9 000 hectares.\n\n4. As regras de execução do presente artigo, nomeadamente as que permitam assegurar a complementaridade e compatibilidade das medidas adoptadas, por um lado, nos termos do artigo 17.º do Regulamento (CE) n.º 2200/96 e, por outro, em conformidade com os artigos 2.º, 5.º e 8.º do Regulamento (CEE) n.º 4256/88 ([^6^](http://publications.europa.eu/resource/cellar/fc2df98c-4c66-4725-ad92-aa8bfe5f6e79.0017.03/DOC_1#E0006)), serão adoptadas nos termos do procedimento previsto no artigo 29.º"
+  },
+  "4c8bdeab3d91ec7d": {
+   "fragment_id": "TÍTULO II",
+   "type": "divisao",
+   "heading": "TÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II"
+  },
+  "a0d2b2848563949f": {
+   "fragment_id": "Comércio com os países terceiros",
+   "type": "divisao",
+   "heading": "Comércio com os países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Comércio com os países terceiros"
+  },
+  "50bcf4f37c174e25": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Todas as importações para a Comunidade ou exportações a partir da Comunidade dos produtos a que se refere o n.º 2 do artigo 1.º podem ser sujeitas à apresentação de um certificado de importação ou de exportação.\n\nO certificado é emitido pelos Estados-membros, a pedido do interessado, seja qual for o seu local de estabelecimento na Comunidade, sem prejuízo das disposições tomadas em aplicação dos artigos 15.º, 16.º, 17.º e 18.º\n\nO certificado é válido em toda a Comunidade. A sua emissão pode estar subordinada à constituição de uma garantia que assegure a realização da importação ou exportação durante o prazo de validade do certificado; salvo caso de força maior, a garantia fica perdida na totalidade ou em parte se a operação não for realizada nesse período ou se apenas o for parcialmente.\n\n2. O prazo de validade dos certificados de importação ou de exportação e as demais regras de execução do presente artigo serão adoptados de acordo com o procedimento previsto no artigo 29.º"
+  },
+  "36776fc29937bbf4": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Salvo disposição em contrário do presente regulamento, as taxas dos direitos da Pauta Aduaneira Comum são aplicáveis aos produtos a que se refere o n.º 2 do artigo 1.º\n\n2. As regras de execução do presente artigo serão adoptadas de acordo com o procedimento previsto no artigo 29.º"
+  },
+  "86bed2b1c6996ed8": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Em relação aos produtos constantes do anexo II, será fixado um preço mínimo de importação para as campanhas de 1997/1998, 1998/1999 e 1999/2000. O preço será estabelecido em função, nomeadamente:\n\n— do preço franco-fronteira de importação para a Comunidade,\n\n— dos preços praticados nos mercados mundiais,\n\n— da situação no mercado interno da Comunidade\n\n— da evolução do comércio com os países terceiros.\n\nSe o preço mínimo de importação não for respeitado, será aplicável, para além do direito aduaneiro, um direito compensatório calculado com base nos preços praticados pelos principais países terceiros fornecedores.\n\n2. O preço mínimo de importação das uvas secas é fixado antes do início de campanha.\n\nO preço deve ser fixado para as uvas secas de Corinto e para as outras uvas secas. Para cada um dos dois grupos, o preço pode ser fixado para os produtos em embalagens de uso imediato com um peso líquido a determinar e para os produtos em embalagens de uso imediato com um peso líquido superior àquele peso.\n\n3. O preço mínimo de importação das cerejas transformadas é fixado antes do início da campanha de comercialização. O preço pode ser fixado para os produtos apresentados em embalagens de uso imediato com um peso líquido determinado.\n\n4. O preço mínimo de importação para as uvas secas é o preço aplicável no dia da importação. O direito compensatório a cobrar, se for caso disso, é o aplicável no mesmo dia.\n\n5. O preço mínimo de importação para as cerejas transformadas é o preço aplicável no dia da aceitação da declaração de introdução em livre prática.\n\n6. Os direitos compensatórias para as uvas secas são fixados em função de uma tabela de preços de importação. A diferença entre o preço mínimo de importação e cada escalão é de:\n\n— 1 % do preço mínimo para o primeiro escalão,\n\n— 3 %, 6 % e 9 % do preço mínimo, respectivamente para o segundo, terceiro e quarto escalões.\n\nO quinto escalão abrange todos os casos em que o preço de importação é inferior ao que se aplica ao quarto escalão.\n\nO direito compensatório máximo para as uvas secas não pode exceder a diferença entre o preço mínimo e um montante determinado com base nos preços mais favoráveis praticados no mercado mundial, para quantidades significativas, pelos países terceiros mais representativos.\n\n7. Quando o preço de importação das cerejas transformadas for inferior ao preço mínimo deste produto, será cobrado um direito compensatório igual à diferença entre estes dois preços.\n\n8. O preço mínimo de importação, o montante do direito compensatório e as demais regras de execução do presente artigo serão adoptados de acordo com o procedimento previsto no artigo 29.º"
+  },
+  "45a0e311460cd86b": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. A fim de evitar ou reprimir os efeitos nocivos para o mercado comunitário que possam resultar das importações de certos produtos referidos no n.º 2 do artigo 1.º, a importação, à taxa do direito previsto na Pauta Aduaneira Comum, de um ou mais desses produtos fica sujeita ao pagamento de um direito de importação adicional, se estiverem preenchidas as condições decorrentes do artigo 5.º do Acordo sobre a agricultura ([^7^](http://publications.europa.eu/resource/cellar/fc2df98c-4c66-4725-ad92-aa8bfe5f6e79.0017.03/DOC_1#E0007)), concluído no âmbito das negociações comerciais multilaterais do «Uruguay Round», salvo no caso de as importações não serem susceptíveis de perturbar o mercado comunitário ou de os efeitos serem desproporcionados em relação ao objectivo prosseguido.\n\n2. Os preços de desencadeamento abaixo dos quais pode ser imposto um direito de importação adicional são os comunicados pela Comunidade à Organização Mundial do Comércio, de acordo com a sua oferta apresentada no âmbito das negociações multilaterais do «Uruguay Round».\n\nOs volumes de desencadeamento que terão de ser ultrapassados para a imposição de um direito de importação adicional são determinados com base, nomeadamente, nas importações para a Comunidade durante os três anos que antecedem aquele em que se verifiquem ou possam verificar-se os efeitos nocivos referidos no n.º 1.\n\n3. Os preços de importação a ter em conta com vista à imposição de um direito de importação adicional serão determinados com base nos preços CIF de importação da remessa em causa.\n\nOs preços CIF de importação são verificados para o efeito com base nos preços representativos para o produto em questão no mercado mundial ou no mercado de importação comunitário para o produto.\n\n4. As regras de execução do presente artigo serão adoptadas de acordo com o procedimento previsto no artigo 29.º Tais regras incidirão, designadamente, sobre:\n\na) Os produtos a que são aplicados direitos de importação adicionais nos termos do artigo 5.º do Acordo sobre a agricultura referido no n.º 1 do presente artigo,\n\nb) Os restantes critérios necessários para garantir a aplicação do n.º 1 em conformidade com o artigo 5.º do referido acordo."
+  },
+  "65af8a8f857b2e10": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Os contingentes pautais aplicáveis aos produtos referidos no n.º 2 do artigo 1.º que decorram dos acordos concluídos no âmbito das negociações comerciais multilaterais do «Uruguay Round» serão abertos e geridos segundo regras adoptadas de acordo com o procedimento previsto no artigo 29.º\n\n2. A gestão dos contingentes poderá efectuar-se mediante a aplicação de um dos métodos seguidamente enunciados ou através de uma combinação dos mesmos:\n\na) Método baseado na ordem cronológica de apresentação dos pedidos (segundo o princípio «primeiro a chegar, primeiro a ser servido»);\n\nb) Método de repartição proporcional às quantidades solicitadas aquando da apresentação dos pedidos (segundo o método dito de «análise simultânea»);\n\nc) Método baseado na tomada em consideração dos fluxos comerciais tradicionais (segundo o método dito dos «operadores tradicionais/novos operadores»).\n\nPoderão ser estabelecidos outros métodos adequados. Esses métodos deverão evitar discriminações entre os operadores interessados.\n\n3. O método de gestão aplicado deverá atender, sempre que adequado, às necessidades de abastecimento do mercado comunitário e aos imperativos de salvaguarda do seu equilíbrio, podendo simultaneamente inspirar-se nos métodos aplicados no passado aos contingentes que correspondam aos referidos no n.º 1, sem prejuízo dos direitos decorrentes dos acordos celebrados nas negociações comerciais do «Uruguay Round».\n\n4. As regras a que se refere o n.º 1 deverão prever a abertura de contingentes numa base anual e de acordo com o escalonamento adequado, determinarão o método de gestão a aplicar e incluirão, eventualmente:\n\na) Disposições que garantam a natureza, a proveniência e a origem do produto;\n\nb) Disposições relativas ao reconhecimento do documento que permite verificar as garantias referidas na alínea a);\n\nc) As condições de emissão e a prazo de validade dos certificados de importação."
+  },
+  "167e16cbb943dd5d": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Na medida do necessário para permitir a exportação:\n\na) De quantidades economicamente significativas dos produtos sem adição de açúcar a que se refere o n.º 2 do artigo 1.º;\n\nb) Do açúcar branco e do açúcar em bruto do código NC 1701:\n\n— glicose e xarope de glicose dos códigos NC 1702 30 51, 1702 30 59, 1702 30 91, 1702 30 99 e 1702 40 90,\n\n— isoglicose dos códigos NC 1702 30 10, 1702 40 10, 1702 60 10 e 1702 90 30,\n\n— xaropes de beterraba e de cana do código NC ex170290 99,\n\ncom base nos preços desses produtos no comércio internacional, e dentro dos limites decorrentes dos acordos concluídos em conformidade com o artigo 228.º do Tratado, a diferença entre tais preços válidos na Comunidade pode ser coberta por uma restituição de exportação.\n\n2. No que respeita à atribuição das quantidades que podem ser exportadas com restituição, aplicar-se-á o método:\n\na) Mais adaptado à natureza do produto e à situação do mercado em questão e que permita a máxima eficácia de utilização dos recursos disponíveis, tendo em conta a eficácia e a estrutura das exportações da Comunidade, sem contudo criar discriminações entre pequenos e grandes operadores;\n\nb) Administrativamente menos complexo para os operadores, tendo em conta as exigências de gestão;\n\nc) Que evite discriminações entre os operadores interessados.\n\n3. A restituição é a mesma para toda a Comunidade.\n\nA restituição pode ser, para determinados produtos, diferenciada consoante o destino do produto sempre que a situação no comércio internacional ou as exigências específicas de certos mercados o tornem necessário.\n\nAs restituições são fixadas de acordo com o procedimento previsto no artigo 29.º Essa fixação efectuar-se-á periodicamente.\n\nAs restituições fixadas periodicamente podem, se necessário, ser alteradas pela Comissão no intervalo entre duas fixações, por sua própria iniciativa ou a pedido de um Estado-membro.\n\n4. A restituição só será concedida a pedido e mediante a apresentação do correspondente certificado de exportação.\n\n5. O montante da restituição aplicável será o montante em vigor no dia do pedido do certificado; em caso de restituição diferenciada, será o montante aplicável nesse mesmo dia:\n\na) No destino indicado no certificado; ou\n\nb) No destino real, se for diferente do indicado no certificado. Neste caso, o montante aplicável não poderá ultrapassar o montante aplicável ao destino indicado no certificado.\n\nPoderão ser adoptadas medidas adequadas para evitar a utilização abusiva da flexibilidade prevista no presente número.\n\n6. De acordo com o procedimento previsto no artigo 29.º pode ser feita derrogação aos n.^os^ 4 e 5 em relação a produtos que beneficiem de restituições ao abrigo de acções de ajuda alimentar.\n\n7. O cumprimento dos limites em volume, decorrentes dos acordos celebrados em conformidade com o artigo 228.º do Tratado, é assegurado com base em certificados de exportação emitidos em relação a períodos de referência neles previstos, aplicáveis aos produtos em causa.\n\nNo que se refere ao cumprimento das obrigações decorrentes dos acordos celebrados no âmbito das negociações do «Uruguay Round», a validade dos certificados de exportação não é afectada pelo fim de um período de referência.\n\n8. As regras de execução do presente artigo, incluindo as disposições relativas à redistribuição das quantidades exportáveis não atribuídas ou não utilizadas, serão adoptadas de acordo com o procedimento previsto no artigo 29.º"
+  },
+  "f2d5d30aee24d188": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. O presente artigo é aplicável às restituições a que se refere o n.º 1, alínea a), do artigo 16.º\n\n2. Na fixação das restituições, serão tomados em consideração os elementos seguintes:\n\na) A situação e perspectivas de evolução:\n\n— dos preços dos produtos transformados à base de frutas e produtos hortícolas no mercado comunitário e das disponibilidades,\n\n— dos preços praticados no comércio internacional;\n\nb) As despesas de comercialização e de transporte mínimas a partir dos mercados comunitários até aos portos ou outros locais de exportação da Comunidade, bem como as despesas de acesso aos países de destino;\n\nc) O aspecto económico das exportações previstas;\n\nd) Os limites decorrentes dos acordos celebrados em conformidade com o artigo 228.º do Tratado.\n\n3. Os preços, válidos no mercado da Comunidade, dos produtos a que se refere o n.º 1, alínea a), do artigo 16.º são estabelecidos em função dos preços praticados que se revelarem mais favoráveis para efeitos de exportação.\n\nOs preços válidos no comércio internacional são estabelecidos em função:\n\na) Das cotações registadas nos mercados dos países terceiros;\n\nb) Dos preços mais favoráveis na importação a partir de países terceiros, praticados nos países terceiros de destino;\n\nc) Dos preços de produção registados nos países terceiros exportadores;\n\nd) Dos preços de oferta na fronteira da Comunidade.\n\n4. A restituição será paga logo que seja apresentada a prova de que os produtos:\n\n— foram exportados para fora da Comunidade,\n\n— são de origem comunitária, e\n\n— no caso de uma restituição diferenciada, chegaram ao destino indicado no certificado ou a outro destino para o qual tenha sido fixada uma restituição, sem prejuízo do n.º 5, alínea b), do artigo 16.º Todavia, podem prever-se derrogações a esta regra de acordo com o procedimento previsto no artigo 29.º, sob reserva de condições a determinar que possam oferecer garantias equivalentes.\n\n5. As regras de execução do presente artigo serão adoptadas de acordo com o procedimento previsto no artigo 29.º"
+  },
+  "b77f7c4c307a20f0": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. O presente artigo é aplicável à restituição a que se refere o n.º 1, alínea b), do artigo 16.º\n\n2. O montante da restituição será igual:\n\n— no caso do açúcar em bruto, do açúcar branco e dos xaropes de beterraba e de cana, ao montante da restituição aplicável à exportação destes produtos sem alteração, fixado nos termos do artigo 17.º do Regulamento (CEE) n.º 1785/81 do Conselho, de 30 de Junho de 1981, que estabelece a organização comum de mercado no sector do açúcar ([^8^](http://publications.europa.eu/resource/cellar/fc2df98c-4c66-4725-ad92-aa8bfe5f6e79.0017.03/DOC_1#E0008)), e das disposições adoptadas para a sua execução,\n\n— no caso da isoglicose, ao montante da restituição aplicável à exportação deste produto sem alteração, fixado nos termos do artigo 17.º do Regulamento (CEE) n.º 1785/81 e das disposições adoptadas para a sua execução,\n\n— no caso da glicose e do xarope de glicose, ao montante da restituição aplicável à exportação destes produtos sem alteração, fixado para cada um destes produtos nos termos do artigo 13.º do Regulamento (CEE) n.º 1766/92 do Conselho, de 30 de Junho de 1992, que estabelece a organização comum de mercado no sector dos cereais ([^9^](http://publications.europa.eu/resource/cellar/fc2df98c-4c66-4725-ad92-aa8bfe5f6e79.0017.03/DOC_1#E0009)), e das disposições adoptadas para a sua execução.\n\n3. Para poderem beneficiar da restituição, os produtos transformados devem ser acompanhados, aquando da sua exportação, de uma declaração do requerente que indique as quantidades de açúcar em bruto, de açúcar branco, de xaropes de beterraba e de cana, de isoglicose, de glicose e de xarope de glicose utilizadas no fabrico.\n\nA exactidão da declaração referida no primeiro parágrafo fica sujeita ao controlo das autoridades competentes do Estado-membro em causa.\n\n4. Se a restituição for insuficiente para permitir a exportação dos produtos constantes do n.º 2, alínea b), do artigo 1.º, aplicar-se-ão a esses produtos as disposições previstas para a restituição referida no n.º 1, alínea a), do artigo 16.º, em vez das previstas na alínea b) do mesmo número.\n\n5. A restituição será concedida aquando da exportação dos produtos:\n\na) Que sejam de origem comunitária;\n\nb) Que tenham sido importados de países terceiros e que, aquando da sua importação, hajam satisfeito os direitos de importação referidos no artigo 12.º, desde que o exportador comprove:\n\n— a identidade entre o produto a exportar e o produto importado previamente, e\n\n— a cobrança dos direitos de importação aquando da importação desse produto.\n\nNo caso referido na alínea b) do primeiro parágrafo, a restituição é igual, para cada produto, aos direitos cobrados aquando da importação, se estes forem inferiores à restituição aplicável; se os direitos cobrados aquando da importação forem superiores à restituição, aplica-se esta última.\n\n6. A restituição será paga logo que seja apresentada prova de que os produtos:\n\n— correspondem a uma das duas situações referidas no n.º 5,\n\n— foram exportados para fora da Comunidade, e\n\n— no caso de uma restituição diferenciada, chegaram ao destino indicado no certificado ou a outro destino para o qual tenha sido fixada uma restituição, sem prejuízo do n.º 5, alínea b), do artigo 16.º Todavia, podem prever-se derrogações a esta regra de acordo com o procedimento previsto no artigo 29.º, sob reserva de condições a determinar que possam oferecer garantias equivalentes.\n\n7. As regras de execução do presente artigo serão adoptadas de acordo com o procedimento previsto no artigo 29.º"
+  },
+  "547d3ffd892fa715": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. Na medida do necessário ao bom funcionamento das organizações comuns dos mercados dos cereais, do açúcar e das frutas e produtos hortícolas, o Conselho, deliberando sob proposta da Comissão nos termos do procedimento de votação previsto no n.º 2 do artigo 43.º do Tratado, pode, em casos especiais, proibir total ou parcialmente o recurso ao regime de aperfeiçoamento activo em relação:\n\n— aos produtos referidos no n.º 1, alínea b), do artigo 16.º, e\n\n— às frutas e produtos hortícolas destinados ao fabrico dos produtos constantes no n.º 2 do artigo 1.º\n\n2. Em derrogação do n.º 1, caso a situação referida no mesmo número seja excepcionalmente urgente e o mercado comunitário esteja a ser ou possa ser perturbado pelo regime de aperfeiçoamento activo, a Comissão, a pedido de um Estado-membro ou por sua própria iniciativa, determinará as medidas necessárias, que serão comunicadas ao Conselho e aos Estados-membros, que terão um prazo máximo de validade de seis meses e que serão imediatamente aplicáveis. No caso de receber um pedido de um Estado-membro, a Comissão decidirá no prazo de uma semana a contar da data de recepção do pedido.\n\n3. Qualquer Estado-membro pode submeter à apreciação do Conselho a decisão da Comissão no prazo de uma semana a contar da data da comunicação da mesma. O Conselho, deliberando por maioria qualificada, pode confirmar, alterar ou revogar a decisão da Comissão. Se, no prazo de três meses, o Conselho não tiver tomado qualquer decisão, a decisão da Comissão será considerada revogada."
+  },
+  "afd9ae44c19186d7": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. Se, por força do artigo 20.º do Regulamento (CEE) n.º 1785/81, for cobrado na exportação de açúcar branco um direito nivelador superior a 5 ecus por 100 quilogramas, pode ser decidida, nos termos do procedimento previsto no artigo 29.º, a cobrança de um encargo à exportação dos produtos referidos no n.º 2 do artigo 1.º que contenham, no mínimo, 35 % de açúcar de adição.\n\n2. O montante da imposição de exportação é fixado tendo em conta:\n\n— a natureza do produto transformado à base de frutas e produtos hortícolas com adição de açúcar,\n\n— o teor em açúcar de adição do produto em causa,\n\n— o preço do açúcar branco praticado na Comunidade e o preço praticado no mercado mundial,\n\n— o direito nivelador de exportação aplicável ao açúcar branco,\n\n— os aspectos económicos da aplicação desta imposição.\n\n3. As regras de execução do presente artigo serão adoptadas nos termos do procedimento previsto no artigo 26.º"
+  },
+  "fd7ab929a73a1886": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. Aplicam-se à classificação dos produtos abrangidos pelo presente regulamento as regras gerais de interpretação da Nomenclatura Combinada e as regras especiais para a sua aplicação; a nomenclatura pautal resultante da aplicação do presente regulamento será integrada na Pauta Aduaneira Comum.\n\n2. Salvo disposições em contrário do presente regulamento ou adoptadas nos termos de uma das disposições deste, são proibidas, nas importações provenientes de países terceiros:\n\n— a cobrança de qualquer encargo de efeito equivalente a um direito aduaneiro,\n\n— a aplicação de qualquer restrição quantitativa ou medida de efeito equivalente."
+  },
+  "3eb7a3b0f7450cbd": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. Se, devido às importações ou exportações, o mercado comunitário de um ou mais dos produtos a que se refere o n.º 2 do artigo 1.º sofrer, ou ameaçar sofrer, perturbações graves que possam pôr em perigo os objectivos do artigo 39.º do Tratado, podem ser aplicadas medidas adequadas às trocas comerciais com países terceiros até que desapareça a perturbação ou ameaça de perturbação.\n\nO Conselho, deliberando sob proposta da Comissão de acordo com o procedimento previsto no n.º 2 do artigo 43.º do Tratado, adoptará as regras gerais de aplicação do presente número e definirá os casos e os limites em que os Estados-membros podem tomar medidas cautelares.\n\n2. Se se verificar a situação referida no n.º 1, a Comissão, a pedido de um Estado-membro ou por sua própria iniciativa, decidirá das medidas necessárias, que serão comunicadas aos Estados-membros e imediatamente aplicáveis. Se a Comissão receber um pedido de um Estado-membro, tomará uma decisão no prazo de três dias úteis a contar da recepção do pedido.\n\n3. Qualquer Estado-membro pode submeter ao Conselho a medida tomada pela Comissão, no prazo de três dias úteis a contar da data da sua comunicação. O Conselho reunir-se-á imediatamente e, deliberando por maioria qualificada, pode confirmar, alterar ou revogar a medida em causa.\n\n4. O disposto no presente artigo será aplicado no respeito pelas obrigações decorrentes dos acordos internacionais celebrados em conformidade com o n.º 2 do artigo 228.º do Tratado."
+  },
+  "9db704600627e53c": {
+   "fragment_id": "TÍTULO III",
+   "type": "divisao",
+   "heading": "TÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III"
+  },
+  "7fabed8a0a46afb5": {
+   "fragment_id": "Disposições gerais",
+   "type": "divisao",
+   "heading": "Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições gerais"
+  },
+  "b61a9b0e1680f81c": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nAs disposições dos artigos 92.º, 93.º e 94.º do Tratado são aplicáveis à produção e ao comércio dos produtos referidos no n.º 2 do artigo 1.º do presente regulamento."
+  },
+  "3d4d5adbd2dc86bb": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nAs disposições do título VI, relativo aos controlos nacionais e comunitários do Regulamento (CE) n.º 2200/96, são aplicáveis ao controlo do respeito da regulamentação comunitária relativa ao mercado de produtos transformados à base de frutos e produtos hortícolas."
+  },
+  "251d78ce81b1eedd": {
+   "fragment_id": "Artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nSerão adoptadas sanções administrativas, financeiras e não financeiras, de acordo com o procedimento previsto no artigo 29.º, em função das necessidades específicas do sector."
+  },
+  "41b2f81d0fa0d84b": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nCaso sejam necessárias medidas para facilitar a transição do antigo regime para o regime estabelecido pelo presente regulamento, essas medidas serão adoptadas de acordo com o procedimento previsto no artigo 29.º"
+  },
+  "b00b6828eb8dc566": {
+   "fragment_id": "Artigo 27.º",
+   "type": "artigo",
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1. Os Estados-membros e a Comissão comunicarão entre si os dados necessários à aplicação do presente regulamento. Os dados sobre os quais deve incidir a comunicação serão definidos de acordo com o procedimento previsto no artigo 29.º As modalidades da comunicação e da difusão dos dados serão adoptadas de acordo com o mesmo processo.\n\n2. Os Estados-membros comunicarão à Comissão, no prazo de um mês depois da sua adopção, as disposições legislativas, regulamentares e administrativas tomadas para execução ou em execução do presente regulamento, bem como as alterações a essas disposições.\n\n3. Os Estados-membros tomarão todas as medidas adequadas para sancionar as infracções às disposições do presente regulamento e para prevenir e reprimir as fraudes."
+  },
+  "fb9ffa4647b103fe": {
+   "fragment_id": "Artigo 29.º",
+   "type": "artigo",
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\n1. A Comissão é assistida pelo Comité de gestão dos produtos transformados à base de frutas e produtos hortícolas, adiante designado «Comité», composto por representantes dos Estados-Membros e presidido pelo representante da Comissão.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis, os artigos 4.º e 7.º da Decisão 1999/468/CE.\n\n3. O prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n4. O comité aprovará o seu regulamento interno."
+  },
+  "a61842bfa2535364": {
+   "fragment_id": "Artigo 30.º",
+   "type": "artigo",
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nO comité pode examinar qualquer outra questão evocada pelo seu presidente, seja por sua própria iniciativa, seja a pedido do representante de um Estado-membro."
+  },
+  "4cf1af9c06e3a066": {
+   "fragment_id": "Artigo 31.º",
+   "type": "artigo",
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nAs despesas efectuadas nos termos dos artigos 2.º, 6.ºA e 7.º, dos n.^os^ 4 e 5 do artigo 9.º e do n.º 3 do artigo 10.º são consideradas intervenções destinadas a regularizar os mercados agrícolas, na acepção do n.º 2, alínea b), do artigo 1.º do Regulamento (CE) n.º 1258/1999 do Conselho, de 17 de Maio de 1999, relativo ao financiamento da política agrícola comum ([^10^](http://publications.europa.eu/resource/cellar/fc2df98c-4c66-4725-ad92-aa8bfe5f6e79.0017.03/DOC_1#E0010))."
+  },
+  "8a10ed66d1ab36c0": {
+   "fragment_id": "Artigo 32.º",
+   "type": "artigo",
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nO presente regulamento deve ser aplicado de modo a serem tidos em conta, paralelamente e de forma adequada, os objectivos previstos nos artigos 39.º e 110.º do Tratado."
+  },
+  "30f779b1d04d5dea": {
+   "fragment_id": "Artigo 33.º",
+   "type": "artigo",
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\n1. O presente regulamento entra em vigor no dia da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nÉ aplicável a partir de 1 de Janeiro de 1997. Todavia, em relação a cada um dos produtos em causa, o título I só é aplicável a partir do início da campanha de comercialização de 1997/1998.\n\n2. Os seguintes regulamentos são revogados com efeitos a partir da data de aplicação das disposições correspondentes do presente regulamento:\n\n— Regulamento (CEE) n.º 426/86 do Conselho, de 24 de Fevereiro de 1986, que estabelece a organização comum de mercado no sector dos produtos transformados à base de frutas e produtos hortícolas ([^11^](http://publications.europa.eu/resource/cellar/fc2df98c-4c66-4725-ad92-aa8bfe5f6e79.0017.03/DOC_1#E0011)),\n\n— Regulamento (CEE) n.º 2245/88 do Conselho, de 19 de Julho de 1988, que institui sistemas de limiar de garantia para os pêssegos e as peras, em calda e/ou em sumo natural de fruta ([^12^](http://publications.europa.eu/resource/cellar/fc2df98c-4c66-4725-ad92-aa8bfe5f6e79.0017.03/DOC_1#E0012)),\n\n— Regulamento (CEE) n.º 1206/90 do Conselho, de 7 de Maio de 1990, que estabelece as regras gerais do regime de ajuda à produção no sector das frutas e produtos hortícolas transformados ([^13^](http://publications.europa.eu/resource/cellar/fc2df98c-4c66-4725-ad92-aa8bfe5f6e79.0017.03/DOC_1#E0013)),\n\n— Regulamento (CEE) n.º 668/93 do Conselho, de 17 de Março de 1993, relativo à instauração de um limite à concessão da ajuda à produção de produtos transformados à base de tomate ([^14^](http://publications.europa.eu/resource/cellar/fc2df98c-4c66-4725-ad92-aa8bfe5f6e79.0017.03/DOC_1#E0014)).\n\nAs remissões para os regulamentos mencionados no primeiro parágrafo devem entender-se como feitas para o presente regulamento e ler-se segundo os quadros de correspondência constantes do anexo IV.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros."
+  },
+  "ec905a7dde2b4ced": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nCódigo NC Designação das mercadorias\n\nex071080 70 Tomates pelados, inteiros ou em pedaços, congelados\n\nex071290 30 Flocos de tomate\n\n2002 10 10 Tomates pelados, inteiros ou em pedaços\n\n2002 10 90 Tomates não pelados, inteiros ou em pedaços\n\nex20 02 90 *Crush* ou *pizza sauce*\n\nex200290 11 ex200290 19 Sumo de tomate (incluindo *passata*)\n\nex200290 31 ex200290 39 ex200290 91 ex200290 99 Concentrado de tomate\n\nex200840 51 ex200840 59 ex200840 71 ex200840 79 [**►M6**](http://publications.europa.eu/resource/celex/32004R0386) ex200840 90**◄** Pêras Williams e Rocha em xarope e/ou em sumo natural de fruta\n\nex200870 61 ex200870 69 ex200870 71 ex200870 79 ex200870 92 [**►M6**](http://publications.europa.eu/resource/celex/32004R0386) ex200870 98**◄** Pêssegos em xarope e/ou em sumo natural de fruta\n\nex20 08 92 ex20 08 99 Misturas de frutos inteiros ou em pedaços, em xarope e/ou em sumo natural de fruta contendo pelo menos [60 %] de pêssegos e de pêras\n\n2009 50 Sumo de tomate"
+  },
+  "fe3b00b351ffaacb": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nCódigo NC Designação das mercadorias\n\n0806 20 Uvas secas\n\nex08 11 Frutas, não cozidas ou cozidas em água ou vapor, congeladas, mesmo adicionadas de açúcar ou de outros edulcorantes:\n\nex08 11 90 — Outras:\n\n— — Adicionadas de açúcar ou de outros edulcorantes:\n\n— — — De teor de açúcares superior a 13 %, em peso:\n\nex081190 19 — — — — Outras:\n\n— — — — — Ginjas (*Prunus cerasus*):\n\n— — — — — — Não descaroçadas\n\n— — — — — — Outras\n\n— — — — — Outras cerejas:\n\n— — — — — — Não descaroçadas\n\n— — — — — — Outras\n\nex081190 39 — — — — Outras:\n\n— — — — — Ginjas (*Prunus cerasus*):\n\n— — — — — — Não descaroçadas\n\n— — — — — — Outras\n\n— — — — — Outras cerejas:\n\n— — — — — — Não descaroçadas\n\n— — — — — — Outras\n\n— — Outras:\n\n— — — Cerejas:\n\n0811 90 75 — — — — Ginjas (*Prunus cerasus*):\n\n— — — — — Não descaroçadas\n\n— — — — — Outras\n\n0811 90 80 — — — — Outras:\n\n— — — — — Não descaroçadas\n\n— — — — — Outras\n\nex08 12 Frutas conservadas transitoriamente (por exemplo: com gás sulfuroso ou água salgada, sulfurada ou adicionada de outras substâncias destinadas a assegurar transitoriamente a sua conservação), mas impróprias para alimentação nesse estado:\n\n0812 10 00 — Cerejas:\n\nex081210 00 — — Ginjas (*Prunus cerasus*)\n\nex081210 00 — — Outras\n\n2008 Frutas e outras partes comestíveis de plantas, preparadas ou conservadas de outro modo, com ou sem adição de açúcar ou de outros edulcorantes ou de álcool, não especificadas nem compreendidas noutras posições:\n\n2008 60 — Cerejas:\n\n— — Sem adição de álcool:\n\n— — — Com adição de açúcar, em embalagens imediatas de conteúdo líquido superior a 1 kg:\n\n2008 60 51 — — — — Ginjas (*Prunus cerasus*)\n\n2008 60 59 — — — — Outras\n\n— — — Com adição de açúcar, em embalagens imediatas de conteúdo líquido não superior a 1 kg:\n\n2008 60 61 — — — — Ginjas (*Prunus cerasus*)\n\n2008 60 69 — — — — Outras\n\n— — — Sem adição de açúcar, em embalagens imediatas de conteúdo líquido:\n\n— — — — De 4,5 kg ou mais:\n\n2008 60 71 — — — — — Ginjas (*Prunus cerasus*)\n\n2008 60 79 — — — — — Outras\n\n— — — — De memos de 4,5 kg:\n\n2008 60 91 — — — — — Ginjas (*Prunus cerasus*)\n\n2008 60 99 — — — — — Outras"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "d1dd70d3499c6841": {
+   "fragment_id": "Limiares de transformação referidos no artigo 5.º",
+   "type": "divisao",
+   "heading": "Limiares de transformação referidos no artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Limiares de transformação referidos no artigo 5.º"
+  },
+  "4c6868d46c130e2e": {
+   "fragment_id": "Matéria‐prima fresca",
+   "type": "divisao",
+   "heading": "Matéria‐prima fresca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Matéria‐prima fresca\n\n| (*em toneladas*) |  |  |  |  |\n| --- | --- | --- | --- | --- |\n|  | Tomates | Pêssegos | Peras |  |\n| Limiares comunitários | 8 860 061 | 560 428 | 105 659 |  |\n| Limiares nacionais | Bulgária | 156 343 | 17 843 | s.o. |\n| República Checa | 12 000 | 1 287 | 11 |  |\n| Grécia | 1 211 241 | 300 000 | 5 155 |  |\n| Espanha | 1 238 606 | 180 794 | 35 199 |  |\n| França | 401 608 | 15 685 | 17 703 |  |\n| Itália | 4 350 000 | 42 309 | 45 708 |  |\n| Chipre | 7 944 | 6 | s.o. |  |\n| Letónia | s.o. | s.o. | s.o. |  |\n| Hungria | 130 790 | 1 616 | 1 031 |  |\n| Malta | 27 000 | s.o. | s.o. |  |\n| Países Baixos | s.o. | s.o. | 243 |  |\n| Áustria | s.o. | s.o. | 9 |  |\n| Polónia | 194 639 | s.o. | s.o. |  |\n| Portugal | 1 050 000 | 218 | 600 |  |\n| Roménia | 50 390 | 523 | s.o. |  |\n| Eslováquia | 29 500 | 147 | s.o. |  |\n| s.o. = sem objecto |  |  |  |  |"
+  },
+  "d0a04718cce1706e": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV\n\n| Regulamentos anteriores | Presente regulamento |  |  |  |\n| --- | --- | --- | --- | --- |\n| 426/86, | artigo 1.º, | n.º 1 | artigo 1.º, | n.º 2 |\n| artigo 2.º, | n.º 2 | artigo 1.º, | n.º 3 |  |\n| 426/86, | artigo 2.º, | n.º 1 | artigo 2.º, | n.º 1 |\n| artigo 2.º, | n.º 2 | — |  |  |\n| artigo 2.º, | n.º 3 | — |  |  |\n| 426/86, | artigo 3.º, | n.º 1 | artigo 2.º, | n.º 2 |\n| artigo 3.º, | n.º 1A | — |  |  |\n| artigo 3.º, | n.º 2 | — |  |  |\n| artigo 3.º, | n.º 3 | — |  |  |\n| artigo 3.º, | n.º 4 | artigo 4.º, | n.º 9 |  |\n| 426/86, | artigo 4.º, | n.º 1 | artigo 3.º, | n.º 1 |\n| artigo 4.º, | n.º 2 | — |  |  |\n| artigo 4.º, | n.º 3 | artigo 3.º, | n.º 2 |  |\n| artigo 4.º, | n.º 4 | artigo 3.º, | n.º 3 |  |\n| 426/86, | artigo 5.º, | n.º 1 | artigo 4.º, | n.º 2 |\n| artigo 5.º, | n.º 2 | artigo 4.º, | n.º 3 |  |\n| artigo 5.º, | n.º 3 | artigo 4.º, | n.º 4 |  |\n| artigo 5.º, | n.º 4 | — |  |  |\n| artigo 5.º, | n.º 5 | artigo 4.º, | n.º 9 |  |\n| 426/86, | artigo 6.º, | n.º 1 | artigo 7.º, | n.º 1 |\n| artigo 6.º, | n.º 2 | artigo 7.º, | n.º 2 |  |\n| artigo 6.º, | n.º 3 | artigo 7.º, | n.º 3 |  |\n| artigo 6.º, | n.º 4 | artigo 7.º, | n.º 4 |  |\n| artigo 6.º, | n.º 5 | — |  |  |\n| artigo 6.º, | n.º 6 | artigo 7.º, | n.º 5 |  |\n| artigo 6.º, | n.º 7 | artigo 7.º, | n.º 5 |  |\n| 426/86, | artigo 6.ºA |  | — |  |\n| 426/86, | artigo 7.º, | n.º 1 | artigo 8.º, |  |\n| artigo 7.º, | n.º 2 | — |  |  |\n| 426/86, | artigo 8.º, | n.º 1 | artigo 9.º, | n.º 1 |\n| artigo 8.º, | n.º 2 | artigo 9.º, | n.º 2 |  |\n| artigo 8.º, | n.º 3 | artigo 9.º, | n.º 3 |  |\n| artigo 8.º, | n.º 4 | artigo 9.º, | n.º 4 |  |\n| artigo 8.º, | n.º 5 | artigo 9.º, | n.º 5 |  |\n| artigo 8.º, | n.º 6 | — |  |  |\n| artigo 8.º, | n.º 7 | artigo 9.º, | n.º 8 |  |\n| 426/86, | artigo 9.º, | n.º 1 | artigo 11.º, | n.º 1 |\n| artigo 9.º, | n.º 2 | artigo 11.º, | n.º 2 |  |\n| artigo 9.º, | n.º 1 | artigo 12.º, | n.º 1 |  |\n| artigo 9.º, | n.º 2 | artigo 12.º, | n.º 2 |  |\n| 426/86, | artigo 10.º |  | — |  |\n| 426/86, | artigo 10.ºA, | n.º 1 | artigo 13.º, | n.º 1 |\n| artigo 10.ºA, | n.º 2 | artigo 13.º, | n.º 2 |  |\n| artigo 10.ºA, | n.º 3 | artigo 13.º, | n.º 3 |  |\n| artigo 10.ºA, | n.º 4 | artigo 13.º, | n.º 4 |  |\n| artigo 10.ºA, | n.º 5 | artigo 13.º, | n.º 5 |  |\n| artigo 10.ºA, | n.º 6 | artigo 13.º, | n.º 6 |  |\n| artigo 10.ºA, | n.º 7 | artigo 13.º, | n.º 7 |  |\n| artigo 10.ºA, | n.º 8 | artigo 13.º, | n.º 8 |  |\n| 426/86, | artigo 11.º, | n.º 1 | artigo 14.º, | n.º 1 |\n| artigo 11.º, | n.º 2 | artigo 14.º, | n.º 2 |  |\n| artigo 11.º, | n.º 3 | artigo 14.º, | n.º 3 |  |\n| artigo 11.º, | n.º 4 | artigo 14.º, | n.º 4 |  |\n| 426/86, | artigo 12.º, | n.º 1 | artigo 15.º, | n.º 1 |\n| artigo 12.º, | n.º 2 | artigo 15.º, | n.º 2 |  |\n| artigo 12.º, | n.º 3 | artigo 15.º, | n.º 3 |  |\n| artigo 12.º, | n.º 4 | artigo 15.º, | n.º 4 |  |\n| 426/86, | artigo 13.º, | n.º 1 | artigo 16.º, | n.º 1 |\n| artigo 13.º, | n.º 2 | artigo 16.º, | n.º 2 |  |\n| artigo 13.º, | n.º 3 | artigo 16.º, | n.º 3 |  |\n| artigo 13.º, | n.º 4 | artigo 16.º, | n.º 4 |  |\n| artigo 13.º, | n.º 5 | artigo 16.º, | n.º 5 |  |\n| artigo 13.º, | n.º 6 | artigo 16.º, | n.º 6 |  |\n| artigo 13.º, | n.º 7 | artigo 16.º, | n.º 7 |  |\n| artigo 13.º, | n.º 8 | artigo 16.º, | n.º 8 |  |\n| 426/86, | artigo 14.º, | n.º 1 | artigo 17.º, | n.º 1 |\n| artigo 14.º, | n.º 2 | artigo 17.º, | n.º 2 |  |\n| artigo 14.º, | n.º 3 | artigo 17.º, | n.º 3 |  |\n| artigo 14.º, | n.º 4 | artigo 17.º, | n.º 4 |  |\n| artigo 14.º, | n.º 5 | artigo 17.º, | n.º 5 |  |\n| 426/86, | artigo 14.ºA, | n.º 1 | artigo 18.º, | n.º 1 |\n| artigo 14.ºA, | n.º 2 | artigo 18.º, | n.º 2 |  |\n| artigo 14.ºA, | n.º 3 | artigo 18.º, | n.º 3 |  |\n| artigo 14.ºA, | n.º 4 | artigo 18.º, | n.º 4 |  |\n| artigo 14.ºA, | n.º 5 | artigo 18.º, | n.º 5 |  |\n| artigo 14.ºA, | n.º 6 | artigo 18.º, | n.º 6 |  |\n| artigo 14.ºA, | n.º 7 | artigo 18.º, | n.º 7 |  |\n| 426/86, | artigo 15.º, | n.º 1 | artigo 19.º, | n.º 1 |\n| artigo 15.º, | n.º 2 | artigo 19.º, | n.º 2 |  |\n| artigo 15.º, | n.º 3 | artigo 19.º, | n.º 3 |  |\n| 426/86, | artigo 16.º, | n.º 1 | artigo 20.º, | n.º 1 |\n| artigo 16.º, | n.º 2 | artigo 20.º, | n.º 2 |  |\n| artigo 16.º, | n.º 3 | — |  |  |\n| artigo 16.º, | n.º 4 | — |  |  |\n| artigo 16.º, | n.º 5 | artigo 20.º, | n.º 3 |  |\n| 426/86, | artigo 17.º, | n.º 1 | artigo 21.º, | n.º 1 |\n| artigo 17.º, | n.º 2 | artigo 21.º, | n.º 2 |  |\n| 426/86, | artigo 18.º, | n.º 1 | artigo 22.º, | n.º 1 |\n| artigo 18.º, | n.º 2 | artigo 22.º, | n.º 2 |  |\n| artigo 18.º, | n.º 3 | artigo 22.º, | n.º 3 |  |\n| artigo 18.º, | n.º 4 | artigo 22.º, | n.º 4 |  |\n| 426/86, | artigo 19.º |  | artigo 23.º |  |\n| 426/86, | artigo 20.º |  | artigo 24.º, | n.º 1 |\n| 426/86, | artigo 21.º, | n.º 1 | artigo 25.º |  |\n| artigo 21.º, | n.º 2 | — |  |  |\n| 426/86, | artigo 22.º, | n.º 1 | artigo 26.º, | n.º 1 |\n| artigo 22.º, | n.º 2 | artigo 26.º, | n.º 2 |  |\n| artigo 22.º, | n.º 3 | artigo 26.º, | n.º 3 |  |\n| 426/86, | artigo 23.º |  | artigo 27.º |  |\n| artigo 24.º |  | artigo 29.º |  |  |\n| artigo 25.º |  | artigo 30.º |  |  |\n| artigo 26.º |  | artigo 31.º |  |  |\n| 426/86, | anexo I A |  | anexo I |  |\n| anexo I B |  | anexo II |  |  |\n| anexo III |  | — |  |  |\n| 2245/88, | artigo 1.º, | n.º 1 | artigo 5.º, | n.º 1 |\n| artigo 1.º, | n.º 2 | artigo 5.º, | n.º 1 |  |\n| artigo 1.º, | n.º 3 | artigo 5.º, | n.º 2 |  |\n| 1206/90, | artigo 2.º, | n.º 1 | artigo 4.º, | n.º 7 |\n| artigo 2.º, | n.º 2 | artigo 4.º, | n.º 8 |  |\n| artigo 2.º, | n.º 3 | artigo 4.º, | n.º 8 |  |\n| 1206/90, | artigo 3.º, | n.º 2 | artigo 4.º, | n.º 1 |\n| artigo 3.º, | n.º 3 | artigo 4.º, | n.º 5 |  |\n| artigo 3.º, | n.º 4 | artigo 4.º, | n.º 6 |  |\n| 1206/90, | artigo 6.º, | n.º 1 | artigo 9.º, | n.º 6 |\n| artigo 6.º, | n.º 2 | artigo 9.º, | n.º 8 |  |\n| artigo 6.º, | n.º 4 | artigo 9.º, | n.º 7 |  |\n| 668/93, | artigo 1.º, | n.º 1 | artigo 6.º, | n.º 1 |\n| artigo 1.º, | n.º 2 | artigo 6.º, | n.º 4 |  |\n| artigo 1.º, | n.º 3 | artigo 6.º, | n.º 5 |  |\n| artigo 3.º |  | artigo 6.º, | n.º 1 |  |\n\n---"
+  },
+  "373018a51b6e58fd": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/fc2df98c-4c66-4725-ad92-aa8bfe5f6e79.0017.03/DOC_1#src.E0001)) JO n.º C 52 de 21.2.1996, p. 23.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/fc2df98c-4c66-4725-ad92-aa8bfe5f6e79.0017.03/DOC_1#src.E0002)) JO n.º C 96 de 1.4.1996, p. 276.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/fc2df98c-4c66-4725-ad92-aa8bfe5f6e79.0017.03/DOC_1#src.E0003)) JO n.º C 82 de 19.3.1996, p. 30.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/fc2df98c-4c66-4725-ad92-aa8bfe5f6e79.0017.03/DOC_1#src.E0004)) JO n.º L 349 de 31.12.1994, p. 105. Regulamento alterado pelo Regulamento (CE) n.º 1193/96 (JO n.º L 161 de 29.6.1996, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/fc2df98c-4c66-4725-ad92-aa8bfe5f6e79.0017.03/DOC_1#src.E0005)) Ver página 1 do presente Jornal Oficial.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/fc2df98c-4c66-4725-ad92-aa8bfe5f6e79.0017.03/DOC_1#src.E0006)) Regulamento (CEE) n.º 4256/88 do Conselho, de 19 de Dezembro de 1988, que estabelece as disposições de aplicação do Regulamento (CEE) n.º 2052/88 no que respeita ao FEOGA, secção «Orientação» (JO n.º L 374 de 31.12.1988, p. 25). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) n.º 2085/93 (JO n.º L 193 de 31.7.1993, p. 44).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/fc2df98c-4c66-4725-ad92-aa8bfe5f6e79.0017.03/DOC_1#src.E0007)) JO n.º L 336 de 23.12.1994, p. 22.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/fc2df98c-4c66-4725-ad92-aa8bfe5f6e79.0017.03/DOC_1#src.E0008)) JO n.º L 177 de 1.7.1981, p. 4. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1599/96 (JO n.º L 206 de 16.8.1996, p. 43).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/fc2df98c-4c66-4725-ad92-aa8bfe5f6e79.0017.03/DOC_1#src.E0009)) JO n.º L 181 de 1.7.1992, p. 21. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 923/96 da Comissão (JO n.º L 126 de 24.5.1996, p. 37).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/fc2df98c-4c66-4725-ad92-aa8bfe5f6e79.0017.03/DOC_1#src.E0010)) JO n.º L 160 de 26.6.1999, p. 103.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/fc2df98c-4c66-4725-ad92-aa8bfe5f6e79.0017.03/DOC_1#src.E0011)) JO n.º L 49 de 27.2.1986, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2314/95 da Comissão (JO n.º L 233 de 30.9.1995, p. 69).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/fc2df98c-4c66-4725-ad92-aa8bfe5f6e79.0017.03/DOC_1#src.E0012)) JO n.º L 198 de 27.7.1988, p. 18. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1032/95 da Comissão (JO n.º L 105 de 9.5.1995, p. 3).\n\n> ([^13^](http://publications.europa.eu/resource/cellar/fc2df98c-4c66-4725-ad92-aa8bfe5f6e79.0017.03/DOC_1#src.E0013)) JO n.º L 119 de 1.5.1990, p. 74. Regulamento alterado pelo Regulamento (CEE) n.º 2002/90 (JO n.º L 201 de 31.7.1990, p. 4).\n\n> ([^14^](http://publications.europa.eu/resource/cellar/fc2df98c-4c66-4725-ad92-aa8bfe5f6e79.0017.03/DOC_1#src.E0014)) JO n.º L 72 de 25.3.1993, p. 1."
+  },
+  "9798ec764568d01f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Outubro de 1996\n\nque estabelece a organização comum de mercado no sector dos produtos transformados à base de frutas e produtos hortícolas\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, os seus artigos 42.º e 43.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/1e47c43b-da74-493a-b327-972b691473b2.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/1e47c43b-da74-493a-b327-972b691473b2.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/1e47c43b-da74-493a-b327-972b691473b2.0018.03/DOC_1#E0003)),\n\n(1) Considerando que o sector das frutas e produtos hortícolas em geral está submetido a diversos factores de mudança, a que a Comunidade deve fazer face através de uma reorientação das regras de base das suas organizações do mercado; que, no que se refere a determinados produtos transformados, é além disso conveniente ter em conta a situação dos mercados internacionais; que, devido às numerosas alterações de que a organização comum do mercado dos produtos transformados à base de frutas e produtos hortícolas foi objecto desde a sua introdução, é conveniente, por motivos de clareza, adoptar um novo regulamento;\n\n(2) Considerando que certos produtos transformados se revestem de uma importância especial nas regiões mediterrânicas da Comunidade, onde os preços no produtor são sensivelmente superiores aos verificados nos países terceiros; que, à luz das provas dadas no passado pelo regime de ajuda à produção baseado na assinatura de contratos que assegurem o abastecimento regular da indústria contra pagamento de um preço mínimo aos produtores, é oportuno manter esse regime; que é, no entanto, conveniente, em paralelo com os produtos frescos, reforçar o papel das organizações de produtores, a fim de assegurar uma maior concentração da oferta, gerir esta última de modo mais racional e, por fim, facilitar o controlo do respeito do preço mínimo nos produtores;\n\n(3) Considerando que, dado o vínculo existente entre os preços dos produtos destinados ao consumo em estado fresco e os destinados a transformação, é conveniente prever que, na determinação do preço no produtor, seja tida em conta a evolução dos preços de mercado no sector das frutas e produtos hortícolas e a necessidade de manter um equilíbrio adequado entre os diversos escoamentos do produto fresco;\n\n(4) Considerando que o montante da ajuda deve compensar a diferença entre os preços pagos aos produtores na Comunidade e os preços pagos nos países terceiros; que é, por conseguinte, conveniente prever um modo de cálculo que tenha designadamente em conta essa diferença e a incidência da evolução do preço mínimo, sem prejuízo da aplicação de certos elementos técnicos;\n\n(5) Considerando que, devido às importantes disponibilidades em matérias-primas e à elasticidade da capacidade de transformação, a concessão da ajuda à produção pode levar, em certos casos, a uma significativa extensão da mesma; que, para evitar as dificuldades de escoamento que daí poderiam resultar, é conveniente prever limitações à concessão da ajuda, sob a forma, consoante os produtos, de um limiar de garantia ou de um regime de quotas;\n\n(6) Considerando que a experiência adquirida em relação aos produtos transformados à base de tomate leva à adopção de um regime mais flexível, destinado a aumentar o dinamismo das empresas e a competitividade da indústria comunitária; que as quotas por grupo de produtos e por Estado-membro devem ser estabelecidas forfetariamente para os dois primeiros anos de aplicação do novo regime; que o montante da ajuda para os concentrados e seus derivados deve ser diminuído para compensar o aumento das despesas resultante do aumento das quotas de concentrado de tomate e dos outros produtos em relação ao antigo regime;\n\n(7) Considerando que o sector das uvas secas apresenta particularidades que levaram à aplicação de um sistema de ajuda em relação à superfície especializada cultivada; que este sistema, bem como o sistema da superfície máxima garantida, que tem por objectivo evitar uma extensão desmesurada da cultura de uvas destinadas a secagem, devem, tal como no passado, ser mantidos no mesmo regulamento;\n\n(8) Considerando que prosseguem as acções de replantação para combate à filoxera; que, a fim de evitar uma suspensão da operação quando existem ainda superfícies importantes por replantar, é conveniente manter o sistema de ajuda em benefício dos produtores que replantam as suas vinhas para combater a filoxera;\n\n(9) Considerando que, para facilitar o escoamento dos produtos transformados e melhor adaptar a sua qualidade às exigências do mercado, é conveniente prever a possibilidade de fixação de normas;\n\n(10) Considerando que, nos sectores das uvas secas e dos figos secos, deve manter-se, sem prejuízo de determinados ajustamentos, o sistema de armazenagem em termo de campanha, limitado a uma determinada quantidade de uvas secas; que é necessário estabelecer os níveis dos preços de compra para cada um dos produtos, atendendo às suas particularidades;\n\n(11) Considerando que é conveniente prever a possibilidade de pôr em prática medidas específicas a favor de determinados sectores confrontados com a concorrência internacional em casos em que a sua produção se revista de grande importância local ou regional; que essas medidas devem contemplar melhoramentos estruturais que visem o aumento da competitividade e o fomento da utilização dos produtos em causa; que é conveniente prever transitoriamente uma ajuda forfetária a favor das superfícies actuais de cultura de espargos destinados à transformação, atendendo à situação do sector;\n\n(12) Considerando que o Regulamento (CE) n.º 3290/94 ([^4^](http://publications.europa.eu/resource/cellar/1e47c43b-da74-493a-b327-972b691473b2.0018.03/DOC_1#E0004)) adoptou as adaptações e medidas transitórias necessárias no sector da agricultura para a execução dos acordos concluídos no âmbito das negociações comerciais multilaterais do «Uruguay Round», nomeadamente no que se refere ao novo regime de comércio com os países terceiros no sector dos produtos transformados à base de frutas e produtos hortícolas; que são retomadas no presente regulamento as disposições constantes do anexo XIV do Regulamento (CE) n.º 3290/94; que, todavia, por uma preocupação de simplificação, é conveniente conferir à Comissão competência para a aplicação de determinadas disposições técnicas, relativas a uma eventual escassez de açúcar;\n\n(13) Considerando que o funcionamento do mercado interno seria comprometido pela concessão de determinadas ajudas; que é, por conseguinte, conveniente que as disposições do Tratado que permitem apreciar os auxílios concedidos pelos Estados-membros e proibir os incompatíveis com o mercado comum sejam tornadas aplicáveis no sector objecto do presente regulamento;\n\n(14) Considerando que é conveniente aplicar ao sector dos produtos transformados à base de frutos e produtos hortícolas o disposto no Regulamento (CE) n.º 2200/96 do Conselho, de 28 de Outubro de 1996, que estabelece a organização comum de mercado no sector das frutas e produtos hortícolas ([^5^](http://publications.europa.eu/resource/cellar/1e47c43b-da74-493a-b327-972b691473b2.0018.03/DOC_1#E0005)), a fim de não duplicar as normas e os organismos de controlo; que é também necessário prever sanções para assegurar uma aplicação uniforme do novo regime em toda a Comunidade;\n\n(15) Considerando que a organização comum do mercado no sector dos produtos transformados à base de frutas e produtos hortícolas deve ter em conta, paralelamente e de forma adequada, os objectivos previstos nos artigos 39.º e 110.º do Tratado;\n\n(16) Considerando que, para facilitar a execução das disposições do presente regulamento, é conveniente prever um processo que instaure uma estreita cooperação entre os Estados-membros e a Comissão no seio de um comité de gestão,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "e6c349a12fff9f65": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O presente regulamento estabelece a organização comum do mercado no sector dos produtos transformados à base de frutas e produtos hortícolas.\n\n2. A organização comum abrange os produtos seguintes:\n\n| Código NC | Designação das mercadorias |\n| --- | --- |\n| a) ex07 10 | Produtos hortícolas, não cozidos ou cozidos em água ou vapor, congelados, com exclusão do milho doce da subposição 0710 40 00, das azeitonas da subposição 0710 80 10 e dos pimentos dos géneros *Capsicum* ou *Pimenta* da subposição 0710 80 59 |\n| ex07 11 | Produtos hortícolas conservados transitoriamente (por exemplo: com gás sulfuroso ou água salgada, sulfurada ou adicionada de outras substâncias destinadas a assegurar transitoriamente a sua conservação), mas impróprios para alimentação nesse estado, com exclusão das azeitonas da subposição 0711 20, dos pimentos dos géneros *Capsicum* ou *Pimenta* da subposição 0711 90 10 e do milho doce da subposição 0711 90 30 |\n| ex07 12 | Produtos hortícolas secos, mesmo cortados em pedaços ou fatias, ou ainda triturados ou em pó, mas sem qualquer outro preparo, com exclusão das batatas da subposição ex071290 05, desidratadas por secagem artificial e/ou calor, impróprias para consumo humano, do milho doce das subposições ex071290 11 e 0712 90 19 e das azeitonas da subposição ex071290 90 |\n| 0804 20 90 | Figos secos |\n| 0806 20 | Uvas secas |\n| ex08 11 | Frutas, não cozidas ou cozidas em água ou vapor, congeladas, sem adição de açúcar ou de outros edulcorantes, com exclusão das bananas congeladas da subposição ex081190 95 |\n| [▼M5](http://publications.europa.eu/resource/celex/32002R0453) |  |\n| ex08 12 | Frutas conservadas transitoriamente (por exemplo: com gás sulfuroso ou água salgada, sulfurada ou adicionada de outras substâncias destinadas a assegurar transitoriamente a sua conservação), mas impróprias para alimentação nesse estado, com exclusão das bananas conservadas transitoriamente da subposição [**►M8**](http://publications.europa.eu/resource/celex/32007R1212) ex081290 98**◄** |\n| [▼B](http://publications.europa.eu/resource/celex/31996R2201) |  |\n| ex08 13 | Frutas secas, excepto das posições 0801 a 0806 inclusive; misturas de frutas secas ou de frutas de casca rija do presente capítulo, com exclusão das misturas constituídas exclusivamente por frutas de casca rija das posições 0801 e 0802 das subposições 0813 50 31 e 0813 50 39 |\n| 0814 00 00 | Cascas de citrinos, de melões ou de melancias, frescas, secas, congeladas ou apresentadas em água salgada, sulfurada ou adicionada de outras substâncias destinadas a assegurar transitoriamente a sua conservação |\n| 0904 20 10 | Pimentos doces ou pimentões, não triturados nem em pó |\n| b) ex08 11 | Frutas, não cozidas ou cozidas em água ou vapor, congeladas, adicionadas de açúcar ou de outros edulcorantes |\n| [▼C1](http://publications.europa.eu/resource/celex/31996R2201R%2801%29) |  |\n| ex13 02 20 | Matérias pécticas e pectinatos |\n| [▼B](http://publications.europa.eu/resource/celex/31996R2201) |  |\n| ex20 01 | Produtos hortícolas, frutas e outras partes comestíveis de plantas, preparados ou conservados em vinagre ou em ácido acético, com exclusão de: — Frutas do género *Capsicum*, excepto pimentos doces ou pimentões da subposição 2001 90 20 — Milho doce (*Zea mays var. Saccharata*) da subposição 2001 90 30 — Inhames, batatas-doces e partes comestíveis semelhantes de plantas, de teor, em peso, de amido ou de fécula igual ou superior a 5 %, da subposição 2001 90 40, e — Palmitos da subposição 2001 90 60 — Azeitonas da subposição 2001 90 65 — Folhas de videira, rebentos de lúpulo e outras partes comestíveis de plantas da subposição [**►M6**](http://publications.europa.eu/resource/celex/32004R0386) ex200190 99**◄** |\n| 2002 | Tomates preparados ou conservados, excepto em vinagre ou em ácido acético |\n| 2003 | Cogumelos e trufas, preparados ou conservados, excepto em vinagre ou em ácido acético |\n| ex20 04 | Outros produtos hortícolas preparados ou conservados, excepto em vinagre ou em ácido acético, congelados, com excepção dos produtos da posição 2006 com exclusão do milho doce (*Zea mays var. Saccharata*) da subposição ex200490 10, das azeitonas da subposição ex200490 30 e das batatas preparadas ou conservadas sob a forma de farinhas, sêmolas ou flocos da subposição 2004 10 91 |\n| ex20 05 | Outros produtos hortícolas preparados ou conservados, excepto em vinagre ou em ácido acético, não congelados, com excepção dos produtos da posição 2006 com exclusão das azeitonas da subposição 2005 70, de milho doce (*Zea mays var. Saccharata*) da subposição 2005 80 00, das frutas do género *Capsicum*, excepto pimentos doces e pimentões da subposição [**►M8**](http://publications.europa.eu/resource/celex/32007R1212) 2005 99 10**◄**, e das batatas preparadas ou conservadas sob a forma de farinhas, sêmolas ou flocos da subposição 2005 20 10 |\n| ex20 06 00 | Frutas, cascas de frutas e outras partes de plantas, conservadas em açúcar (passadas por calda, glaceadas ou cristalizadas), com exclusão das bananas conservadas em açúcar das subposições ex200600 38 e ex200600 99 |\n| ex20 07 | Doces, geleias, *marmelades*, purés e pastas de frutas, obtidos por cozimento, com ou sem adição de açúcar ou de outros edulcorantes, com exclusão de: — Preparações homogeneizadas de bananas da subposição ex20 07 10 — Doces, geleias, *marmelades*, purés e pastas de bananas das subposições ex200799 39, [**►M6**](http://publications.europa.eu/resource/celex/32004R0386) ex200799 57**◄** e ex200799 98 |\n| ex20 08 | Frutas e outras partes comestíveis de plantas, preparadas ou conservadas de outro modo, com ou sem adição de açúcar ou de outros edulcorantes ou de álcool, não especificadas nem compreendidas noutras posições, com exclusão de: — Manteiga de amendoim da subposição 2008 11 10 — Palmitos da subposição 2008 91 00 — Milho da subposição 2008 99 85 — Inhames, batatas-doces e partes comestíveis semelhantes de plantas, de teor, em peso, de amido ou de fécula igual ou superior a 5 %, da subposição 2008 99 91 — Folhas de videira, rebentos de lúpulo e outras partes semelhantes comestíveis de plantas incluídas na subposição ex200899 99 — Misturas de bananas preparadas ou conservadas de outro modo das subposições ex200892 59, ex200892 78, ex200892 93 e ex200892 98 — Bananas preparadas ou conservadas de outro modo das subposições ex200899 49, [**►M6**](http://publications.europa.eu/resource/celex/32004R0386) ex200899 67**◄** e ex200899 99 |\n| [▼M5](http://publications.europa.eu/resource/celex/32002R0453) |  |\n| ex20 09 | Sumos de frutas (com exclusão dos sumos e mostos de uvas das subposições 2009 61 e 2009 69 e dos sumos de bananas da subposição 2009 80) ou de produtos hortícolas, não fermentados, sem adição de álcool, com ou sem adição de açúcar ou de outros edulcorantes |\n\n3. As campanhas de comercialização dos produtos referidos no n.º 2 são fixadas, se necessário, nos termos do n.º 2 do artigo 46.º do Regulamento (CE) n.º 2200/96."
+  },
+  "08f7829f78b3d684": {
+   "fragment_id": "Artigo 33.º",
+   "type": "artigo",
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\n1. O presente regulamento entra em vigor no dia da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nÉ aplicável a partir de 1 de Janeiro de 1997. Todavia, em relação a cada um dos produtos em causa, o título I só é aplicável a partir do início da campanha de comercialização de 1997/1998.\n\n2. Os seguintes regulamentos são revogados com efeitos a partir da data de aplicação das disposições correspondentes do presente regulamento:\n\n— Regulamento (CEE) n.º 426/86 do Conselho, de 24 de Fevereiro de 1986, que estabelece a organização comum de mercado no sector dos produtos transformados à base de frutas e produtos hortícolas ([^6^](http://publications.europa.eu/resource/cellar/1e47c43b-da74-493a-b327-972b691473b2.0018.03/DOC_1#E0011)),\n\n— Regulamento (CEE) n.º 2245/88 do Conselho, de 19 de Julho de 1988, que institui sistemas de limiar de garantia para os pêssegos e as peras, em calda e/ou em sumo natural de fruta ([^7^](http://publications.europa.eu/resource/cellar/1e47c43b-da74-493a-b327-972b691473b2.0018.03/DOC_1#E0012)),\n\n— Regulamento (CEE) n.º 1206/90 do Conselho, de 7 de Maio de 1990, que estabelece as regras gerais do regime de ajuda à produção no sector das frutas e produtos hortícolas transformados ([^8^](http://publications.europa.eu/resource/cellar/1e47c43b-da74-493a-b327-972b691473b2.0018.03/DOC_1#E0013)),\n\n— Regulamento (CEE) n.º 668/93 do Conselho, de 17 de Março de 1993, relativo à instauração de um limite à concessão da ajuda à produção de produtos transformados à base de tomate ([^9^](http://publications.europa.eu/resource/cellar/1e47c43b-da74-493a-b327-972b691473b2.0018.03/DOC_1#E0014)).\n\nAs remissões para os regulamentos mencionados no primeiro parágrafo devem entender-se como feitas para o presente regulamento e ler-se segundo os quadros de correspondência constantes do anexo IV.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros."
+  },
+  "108e9af6acfe4980": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/1e47c43b-da74-493a-b327-972b691473b2.0018.03/DOC_1#src.E0001)) JO n.º C 52 de 21.2.1996, p. 23.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/1e47c43b-da74-493a-b327-972b691473b2.0018.03/DOC_1#src.E0002)) JO n.º C 96 de 1.4.1996, p. 276.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/1e47c43b-da74-493a-b327-972b691473b2.0018.03/DOC_1#src.E0003)) JO n.º C 82 de 19.3.1996, p. 30.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/1e47c43b-da74-493a-b327-972b691473b2.0018.03/DOC_1#src.E0004)) JO n.º L 349 de 31.12.1994, p. 105. Regulamento alterado pelo Regulamento (CE) n.º 1193/96 (JO n.º L 161 de 29.6.1996, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/1e47c43b-da74-493a-b327-972b691473b2.0018.03/DOC_1#src.E0005)) Ver página 1 do presente Jornal Oficial.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/1e47c43b-da74-493a-b327-972b691473b2.0018.03/DOC_1#src.E0011)) JO n.º L 49 de 27.2.1986, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2314/95 da Comissão (JO n.º L 233 de 30.9.1995, p. 69).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/1e47c43b-da74-493a-b327-972b691473b2.0018.03/DOC_1#src.E0012)) JO n.º L 198 de 27.7.1988, p. 18. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1032/95 da Comissão (JO n.º L 105 de 9.5.1995, p. 3).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/1e47c43b-da74-493a-b327-972b691473b2.0018.03/DOC_1#src.E0013)) JO n.º L 119 de 1.5.1990, p. 74. Regulamento alterado pelo Regulamento (CEE) n.º 2002/90 (JO n.º L 201 de 31.7.1990, p. 4).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/1e47c43b-da74-493a-b327-972b691473b2.0018.03/DOC_1#src.E0014)) JO n.º L 72 de 25.3.1993, p. 1."
+  },
+  "3b13e34ce4108034": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1996R2201 — PT — 01.07.2008 — 010.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31996R2201) [REGULAMENTO (CE) N.º 2201/96 DO CONSELHO](http://publications.europa.eu/resource/celex/31996R2201) [de 28 de Outubro de 1996](http://publications.europa.eu/resource/celex/31996R2201) [que estabelece a organização comum de mercado no sector dos produtos transformados à base de frutas e produtos hortícolas](http://publications.europa.eu/resource/celex/31996R2201) (JO L 297, 21.11.1996, p.29)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 361/2008 do Conselho de 14 de Abril de 2008](http://publications.europa.eu/resource/celex/32008R0361) — L 121 — 1 — 7.5.2008"
+  }
+ }
+}

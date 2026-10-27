@@ -1,0 +1,381 @@
+---
+schema_version: '1.0'
+id: eu:celex:32013L0038:por
+title: Diretiva 2013/38/UE do Parlamento Europeu e do Conselho, de 12 de agosto de 2013
+short_title: null
+summary: Diretiva 2013/38/UE do Parlamento Europeu e do Conselho, de 12 de agosto de 2013 , que altera a Diretiva 2009/16/CE
+  relativa à inspeção pelo Estado do porto Texto relevante para efeitos do EEE
+jurisdiction: european_union
+territory: null
+document_type: directive
+document_type_label: Diretiva
+issuing_authority:
+- Conselho da União Europeia
+- Parlamento Europeu
+proposing_entity: null
+official_number: 2013/38
+official_date: null
+publication_date: '2013-08-14'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 218 de 14.8.2013
+  number: '218'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/47ba284d-04b9-11e3-a352-01aa75ed71a1.0019.01/DOC_1
+entry_into_force_dates:
+- '2013-08-20'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes:
+- 'Fonte sem texto: o EUR-Lex tem versões consolidadas deste ato, mas nenhuma em português (verificado em 2026-10-22).'
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32013L0038
+  eli: http://data.europa.eu/eli/dir/2013/38/oj
+  oj: oj:JOL_2013_218_R_0001_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32013L0038:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32013L0038
+  metadata_url: http://publications.europa.eu/resource/cellar/47ba284d-04b9-11e3-a352-01aa75ed71a1.0019
+  content_url: http://publications.europa.eu/resource/cellar/47ba284d-04b9-11e3-a352-01aa75ed71a1.0019.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-22T03:16:31Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-06-18T01:35:22.394+02:00'
+integrity:
+  source_sha256: f1be476f1da0bf675f5245a65b2e9ce90b26c35e7806b0b99b8160df01c87034
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-22T03:16:31Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Estado-Membro UE
+- barco
+- condições de trabalho
+- controlo administrativo
+- convenção internacional
+- instalação portuária
+- política portuária comum
+- segurança marítima
+- tripulação
+relationships:
+- type: amends
+  target: celex:32009L0016
+  label: null
+  source: http://publications.europa.eu/resource/cellar/061599fd-0b4a-49fe-8ea3-394dbdff7d0b
+  date: '2009-06-05'
+- type: based_on
+  target: celex:12012E100
+  label: null
+  source: http://publications.europa.eu/resource/cellar/89c0a576-8ec6-453a-bfbb-32c363dcedce
+  date: '2012-11-23'
+- type: based_on
+  target: celex:12012E294
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6b390c35-d623-4785-86a0-1fb492a32cab
+  date: '2012-11-23'
+- type: cites
+  target: celex:31999L0063
+  label: null
+  source: http://publications.europa.eu/resource/cellar/cc64ef2f-2417-439f-a10d-79d097d59db9
+- type: cites
+  target: celex:32007D0431
+  label: null
+  source: http://publications.europa.eu/resource/cellar/cb997baa-3e5e-4bc3-a263-f1b7aa72f0ff
+- type: cites
+  target: celex:32009L0013
+  label: null
+  source: http://publications.europa.eu/resource/cellar/eeccde1e-5a38-424a-9f2f-51cd58be9a2b
+- type: cites
+  target: celex:32011R0182
+  label: null
+  source: http://publications.europa.eu/resource/cellar/cccf5222-feb3-4dc3-a4ca-9a5ec75e49af
+- type: corrected_by
+  target: celex:32013L0038R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/2746bb3e-85bc-11e4-b8a5-01aa75ed71a1
+  date: '2014-12-17'
+- type: corrected_by
+  target: celex:32013L0038R(02)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1fce0649-a6e2-11ef-85f0-01aa75ed71a1
+  date: '2024-11-20'
+- type: transposed_by
+  target: pt:dre:66443116:por
+  label: null
+  source: null
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T03:16:31Z'
+  warnings:
+  - Versão consolidada 02013L0038-20130814 indisponível (Sem expressão na língua por para CELEX 02013L0038-20130814.); usado
+    o texto do JO.
+  errors: []
+---
+
+# DIRETIVA 2013/38/UE DO PARLAMENTO EUROPEU E DO CONSELHO
+
+de 12 de agosto de 2013
+
+que altera a Diretiva 2009/16/CE relativa à inspeção pelo Estado do porto
+
+(Texto relevante para efeitos do EEE)
+
+O PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 100.º, n.º 2,
+
+Tendo em conta a proposta da Comissão Europeia,
+
+Após transmissão do projeto de ato legislativo aos parlamentos nacionais,
+
+Tendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/47ba284d-04b9-11e3-a352-01aa75ed71a1.0019.03/DOC_1#ntr1-L_2013218PT.01000101-E0001),
+
+Após consulta ao Comité das Regiões,
+
+Deliberando de acordo com o processo legislativo ordinário [([^2])](http://publications.europa.eu/resource/cellar/47ba284d-04b9-11e3-a352-01aa75ed71a1.0019.03/DOC_1#ntr2-L_2013218PT.01000101-E0002),
+
+Considerando o seguinte:
+
+(1) Em 23 de fevereiro de 2006, a Organização Internacional do Trabalho (OIT) aprovou a Convenção do Trabalho Marítimo, de 2006 (CTM 2006), com o objetivo de criar um instrumento único e coerente que incorporasse, tanto quanto possível, todas as normas atualizadas contidas nas convenções e recomendações internacionais do trabalho marítimo existentes, bem como os princípios fundamentais comunicados noutras convenções internacionais do trabalho.
+
+(2) A Decisão 2007/431/CE do Conselho [([^3])](http://publications.europa.eu/resource/cellar/47ba284d-04b9-11e3-a352-01aa75ed71a1.0019.03/DOC_1#ntr3-L_2013218PT.01000101-E0003) autorizou os Estados-Membros a ratificar, no interesse da Comunidade Europeia, a CTM 2006. Por conseguinte, os Estados-Membros deverão ratificá-la o mais depressa possível.
+
+(3) Ao efetuarem inspeções no âmbito do controlo pelo Estado do porto nos termos da Diretiva 2009/16/CE do Parlamento Europeu e do Conselho, de 23 de abril de 2009, relativa à inspeção de navios pelo Estado do porto [([^4])](http://publications.europa.eu/resource/cellar/47ba284d-04b9-11e3-a352-01aa75ed71a1.0019.03/DOC_1#ntr4-L_2013218PT.01000101-E0004), respeitantes a assuntos abrangidos por convenções que não tenham ainda ratificado e que determinem que todos os navios atracados num porto de outro Estado ou Parte Contratante sejam controlados por agentes devidamente autorizados, os Estados-Membros deverão envidar todos os esforços para dar cumprimento aos procedimentos e práticas impostos por essas convenções, devendo, por conseguinte, abster-se de apresentar relatórios, pertinentes para o controlo pelo Estado do porto, à Organização Marítima Internacional (OMI) e/ou à OIT. Os Estados-Membros que ainda não tenham procedido à ratificação de uma convenção internacional abrangida pela Diretiva 2009/16/CE aquando da sua entrada em vigor deverão envidar todos os esforços para estabelecer condições similares a bordo dos seus navios, em conformidade com os requisitos estabelecidos por essa convenção.
+
+(4) A fim de assegurar uma abordagem harmonizada da aplicação efetiva das normas internacionais pelos Estados-Membros ao efetuarem tanto inspeções de controlo dos navios pelo Estado de bandeira como inspeções de controlo pelo Estado do porto, e a fim de evitar fricções entre o direito internacional e o direito da União, os Estados-Membros deverão procurar ratificar as convenções – pelo menos as partes que se enquadrem no âmbito das competências da União – até à data da sua entrada em vigor.
+
+(5) A CTM 2006 estabelece normas para o trabalho marítimo aplicáveis a todos os marítimos, independentemente da sua nacionalidade e da bandeira dos navios em que trabalhem.
+
+(6) Para os efeitos da Diretiva 2009/16/CE, é preferível que, em vez de se proceder à definição dos termos «marítimo» e «tripulação», se entenda esses termos, em cada contexto, conforme são definidos ou entendidos nas convenções internacionais aplicáveis. Designadamente, em todas as matérias relacionadas com a aplicação da CTM 2006, o termo «tripulação» deverá ser entendido como referindo-se a «marítimo», tal como definido na CTM 2006.
+
+(7) Em todas as matérias abrangidas pela presente diretiva, relacionadas com a aplicação da CTM 2006, inclusive para os navios a que não é aplicável o Código Internacional da Gestão da Segurança, as referências a «companhia» feitas na Diretiva 2009/16/CE, deverão ser entendidas na aceção de «armador», tal como definido na disposição pertinente da CTM 2006, atendendo a que esta última definição se adequa melhor às necessidades específicas da CTM 2006.
+
+(8) Uma parte importante das normas da CTM 2006 foi transposta para o direito da União através da Diretiva 2009/13/CE do Conselho, de 16 de fevereiro de 2009, que aplica o Acordo celebrado pela Associação de Armadores da Comunidade Europeia (ECSA) e pela Federação Europeia dos Trabalhadores dos Transportes (ETF) relativo à Convenção sobre Trabalho Marítimo, 2006 [([^5])](http://publications.europa.eu/resource/cellar/47ba284d-04b9-11e3-a352-01aa75ed71a1.0019.03/DOC_1#ntr5-L_2013218PT.01000101-E0005), e da Diretiva 1999/63/CE do Conselho, de 21 de junho de 1999, respeitante ao acordo relativo à organização do tempo de trabalho dos marítimos celebrado pela Associação de Armadores da Comunidade Europeia (ECSA) e pela Federação dos Sindicatos dos Transportes da União Europeia (FST) [([^6])](http://publications.europa.eu/resource/cellar/47ba284d-04b9-11e3-a352-01aa75ed71a1.0019.03/DOC_1#ntr6-L_2013218PT.01000101-E0006). As normas da CTM 2006 abrangidas pelo âmbito da Diretiva 2009/13/CE ou da Diretiva 1999/63/CE devem ser aplicadas pelos Estados-Membros de acordo com as referidas diretivas.
+
+(9) A título de princípio geral, as medidas adotadas para efeitos da presente diretiva não deverão, em circunstância alguma, constituir motivo que justifique a redução, pelos Estados-Membros, do nível geral de proteção dos marítimos que trabalham a bordo de navios que arvorem pavilhão de um Estado-Membro, nos termos do direito social aplicável da União.
+
+(10) A CTM 2006 contém disposições de aplicação que definem as responsabilidades dos Estados que cumprem as obrigações de inspeção pelo Estado do porto. A fim de proteger a segurança e de evitar distorções da concorrência, os Estados-Membros deverão ser autorizados a verificar o cumprimento das disposições da CTM 2006 por todos os navios que façam escala nos seus portos e ancoradouros, independentemente do seu Estado de bandeira.
+
+(11) A inspeção dos navios pelo Estado do porto é regida pela Diretiva 2009/16/CE, que deverá incluir a CTM 2006 entre as convenções cuja aplicação é verificada pelas autoridades dos Estados-Membros nos seus portos.
+
+(12) Ao efetuarem inspeções no âmbito do controlo pelo Estado do porto nos termos da Diretiva 2009/16/CE, os Estados-Membros deverão ter em conta as disposições da CTM 2006, que estabelecem que o certificado de trabalho marítimo e a declaração de conformidade do trabalho marítimo devem ser aceites como elemento de prova de presunção do cumprimento dos requisitos estabelecidos na CTM 2006.
+
+(13) O direito da União deverá igualmente refletir os procedimentos previstos pela CTM 2006 no que respeita ao tratamento de queixas em terra relativamente a matérias por ela contempladas.
+
+(14) A fim de assegurar condições uniformes para a execução da Diretiva 2009/16/CE, deverão ser atribuídas competências de execução à Comissão. A Comissão deverá estar habilitada a adotar atos de execução tendo em vista: aplicar uma metodologia de ponderação dos parâmetros de risco genéricos no que respeita, designadamente, aos critérios do Estado de bandeira e aos critérios de desempenho da companhia; assegurar condições uniformes para o âmbito das inspeções alargadas, incluindo os domínios de risco a cobrir; assegurar a aplicação uniforme dos procedimentos para os controlos de segurança dos navios; estabelecer um formato eletrónico harmonizado para a comunicação das queixas relacionadas com a CTM 2006; aplicar procedimentos harmonizados para a comunicação das anomalias manifestas pelos pilotos e pelas autoridades ou organismos portuários e das medidas de acompanhamento tomadas pelos Estados-Membros; e estabelecer disposições de aplicação relativas à publicação das informações sobre as companhias de desempenho baixo ou muito baixo, aos critérios para a agregação dos dados pertinentes e à frequência das atualizações. Trata-se de um exercício altamente técnico a realizar no quadro dos princípios e critérios estabelecidos por essa diretiva. As referidas competências deverão ser exercidas nos termos do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão [([^7])](http://publications.europa.eu/resource/cellar/47ba284d-04b9-11e3-a352-01aa75ed71a1.0019.03/DOC_1#ntr7-L_2013218PT.01000101-E0007).
+
+(15) Os atos de execução relacionados com a metodologia de ponderação dos parâmetros de risco genéricos no que respeita, designadamente, aos critérios do Estado de bandeira e aos critérios de desempenho da companhia, com os relatórios dos pilotos e das autoridades ou organismos portuários, incluindo os procedimentos harmonizados para a comunicação das anomalias manifestas pelos pilotos e pelas autoridades ou organismos portuários e das medidas de acompanhamento tomadas pelos Estados-Membros, e com as disposições de aplicação relativas à publicação das informações sobre as companhias de desempenho baixo ou muito baixo, não deverão ser adotados pela Comissão caso o comité previsto na presente diretiva não dê parecer sobre o projeto de ato de execução apresentado pela Comissão.
+
+(16) Ao estabelecer regras de execução, a Comissão deverá ter especificamente em consideração as competências especializadas e a experiência adquiridas com o regime de inspeções na União e basear-se nas competências especializadas do Memorando de Acordo para a inspeção de navios pelo Estado do porto, assinado em Paris em 26 de janeiro de 1982, na sua versão atualizada («MA de Paris»).
+
+(17) As regras de execução, incluindo as referências às instruções e orientações do MA de Paris, não deverão comprometer o exercício do dever profissional dos inspetores ou da autoridade competente, nem a flexibilidade prevista na Diretiva 2009/16/CE.
+
+(18) A base de dados das inspeções referida na Diretiva 2009/16/CE deverá ser adaptada e desenvolvida em consonância com as alterações introduzidas pela presente diretiva ou com as alterações adotadas no contexto do MA de Paris.
+
+(19) O MA de Paris visa eliminar a operação de navios que não obedeçam às normas graças a um regime harmonizado de inspeção pelo Estado do porto, que compreende a inspeção coordenada dos navios que fazem escala nos portos, incluindo os portos dos Estados-Membros, da região abrangida pelo MA de Paris. Essas inspeções destinam-se a verificar se os navios cumprem as normas internacionais em matéria de ambiente e de segurança e proteção ambiental, e se os marítimos gozam de condições de vida e de trabalho adequadas, em conformidade com as convenções internacionais em vigor. Ao efetuar as inspeções e ao fazer referência às instruções e às diretrizes do MA de Paris, deverá ter-se em conta que essas instruções e diretrizes são criadas e adotadas para assegurar a coerência e para orientar as inspeções, a fim de proporcionar o maior nível de convergência possível.
+
+(20) A inspeção das condições de vida e de trabalho dos marítimos a bordo, bem como da sua formação e qualificações, a fim de verificar se cumprem os requisitos da CTM 2006, exige que os inspetores tenham um nível de formação adequado. Tanto a Agência Europeia da Segurança Marítima como os Estados-Membros deverão promover a vertente da formação dos inspetores para efeitos de análise do cumprimento da CTM 2006.
+
+(21) A fim de permitir que a Comissão atualize rapidamente os procedimentos aplicáveis e contribua, assim, para a criação de condições de igualdade à escala mundial no domínio do transporte marítimo, o poder de adotar atos nos termos do artigo 290.º do Tratado sobre o Funcionamento da União Europeia deverá ser delegado na Comissão no que respeita às alterações ao Anexo VI da Diretiva 2009/16/CE, que contém a lista das «instruções» adotadas pelo MA de Paris, para que os procedimentos aplicáveis e obrigatórios no território dos Estados-Membros sejam conformes com os procedimentos acordados a nível internacional e com as convenções pertinentes. É particularmente importante que a Comissão proceda às consultas adequadas durante os trabalhos preparatórios, inclusive ao nível de peritos. A Comissão, quando preparar e redigir atos delegados, deverá assegurar a transmissão simultânea, atempada e adequada dos documentos relevantes ao Parlamento Europeu e ao Conselho.
+
+(22) Atendendo a que os objetivos da presente diretiva não podem ser suficientemente alcançados pelos Estados-Membros e podem, por conseguinte, devido às dimensões ou aos efeitos da ação, ser mais bem alcançados ao nível da União, a União pode tomar medidas em conformidade com o princípio da subsidiariedade previsto no artigo 5.º do Tratado da União Europeia. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente diretiva não excede o necessário para atingir aqueles objetivos.
+
+(23) A Diretiva 2009/16/CE deverá, por conseguinte, ser alterada.
+
+(24) Nos termos do seu artigo VIII, a CTM 2006 entra em vigor doze meses após a data do registo da ratificação de pelo menos 30 membros da OIT que representem, no total, pelo menos 33 % da arqueação bruta da frota mercante mundial. Esta condição ficou preenchida em 20 de agosto de 2012, entrando a CTM 2006 em vigor em 20 de agosto de 2013.
+
+(25) A presente diretiva deverá entrar em vigor na mesma data que a CTM 2006,
+
+ADOTARAM A PRESENTE DIRETIVA:
+
+###### Artigo 1.º — Alteração da Diretiva 2009/16/CE
+
+A Diretiva 2009/16/CE é alterada do seguinte modo:
+
+1) O artigo 2.º é alterado do seguinte modo: a) O ponto 1 é alterado do seguinte modo: i) É suprimida a alínea g), ii) São aditadas as seguintes alíneas: «i) A Convenção do Trabalho Marítimo, 2006 (CTM 2006); j) A Convenção Internacional relativa ao controlo dos sistemas antivegetativos nocivos nos navios, 2001 (AFS 2001); k) A Convenção Internacional sobre a Responsabilidade Civil por Danos resultantes da Poluição causada por Combustível de Bancas, de 2001 (Convenção “Bancas”, 2001).»; b) São aditados os seguintes pontos: «23) «Certificado de trabalho marítimo», o certificado referido na Regra 5.1.3 da CTM 2006; 24) «Declaração de conformidade do trabalho marítimo», a declaração referida na Regra 5.1.3 da CTM 2006.»; c) É aditado o seguinte parágrafo: «Todas as referências feitas na presente diretiva a convenções, códigos internacionais e resoluções, inclusive no respeitante a certificados e outros documentos, devem ser consideradas como sendo referências às versões atualizadas dessas convenções, códigos internacionais e resoluções.».
+
+a) O ponto 1 é alterado do seguinte modo: i) É suprimida a alínea g), ii) São aditadas as seguintes alíneas: «i) A Convenção do Trabalho Marítimo, 2006 (CTM 2006); j) A Convenção Internacional relativa ao controlo dos sistemas antivegetativos nocivos nos navios, 2001 (AFS 2001); k) A Convenção Internacional sobre a Responsabilidade Civil por Danos resultantes da Poluição causada por Combustível de Bancas, de 2001 (Convenção “Bancas”, 2001).»;
+
+i) É suprimida a alínea g),
+
+ii) São aditadas as seguintes alíneas: «i) A Convenção do Trabalho Marítimo, 2006 (CTM 2006); j) A Convenção Internacional relativa ao controlo dos sistemas antivegetativos nocivos nos navios, 2001 (AFS 2001); k) A Convenção Internacional sobre a Responsabilidade Civil por Danos resultantes da Poluição causada por Combustível de Bancas, de 2001 (Convenção “Bancas”, 2001).»;
+
+«i) A Convenção do Trabalho Marítimo, 2006 (CTM 2006);
+
+j) A Convenção Internacional relativa ao controlo dos sistemas antivegetativos nocivos nos navios, 2001 (AFS 2001);
+
+k) A Convenção Internacional sobre a Responsabilidade Civil por Danos resultantes da Poluição causada por Combustível de Bancas, de 2001 (Convenção “Bancas”, 2001).»;
+
+b) São aditados os seguintes pontos: «23) «Certificado de trabalho marítimo», o certificado referido na Regra 5.1.3 da CTM 2006; 24) «Declaração de conformidade do trabalho marítimo», a declaração referida na Regra 5.1.3 da CTM 2006.»;
+
+«23) «Certificado de trabalho marítimo», o certificado referido na Regra 5.1.3 da CTM 2006;
+
+24) «Declaração de conformidade do trabalho marítimo», a declaração referida na Regra 5.1.3 da CTM 2006.»;
+
+c) É aditado o seguinte parágrafo: «Todas as referências feitas na presente diretiva a convenções, códigos internacionais e resoluções, inclusive no respeitante a certificados e outros documentos, devem ser consideradas como sendo referências às versões atualizadas dessas convenções, códigos internacionais e resoluções.».
+
+2) O artigo 3.º é alterado do seguinte modo: a) O n.º 3 passa a ter a seguinte redação: «3. Na inspeção de navios que arvorem a bandeira de um Estado que não seja parte numa convenção, os Estados-Membros asseguram que o tratamento dado a esses navios e às suas tripulações não seja mais favorável do que o reservado aos navios que arvorem bandeira de um Estado que seja parte nessa convenção. Esses navios são submetidos a uma inspeção aprofundada, segundo os procedimentos estabelecidos pelo MA de Paris.»; b) É aditado o seguinte número: «5. As medidas adotadas para efeitos da presente diretiva não conduzem à redução do nível geral de proteção dos marítimos, ao abrigo do direito social da União nos domínios abrangidos pela presente diretiva, relativamente à situação já existente em cada Estado-Membro. Aquando da execução dessas medidas, se a autoridade competente do Estado do porto tiver conhecimento de uma violação manifesta do direito da União a bordo de navios que arvorem pavilhão de um Estado-Membro, informa imediatamente do facto outra autoridade competente, de acordo com a lei e as práticas nacionais, a fim de serem tomadas as medidas adicionais adequadas.».
+
+a) O n.º 3 passa a ter a seguinte redação: «3. Na inspeção de navios que arvorem a bandeira de um Estado que não seja parte numa convenção, os Estados-Membros asseguram que o tratamento dado a esses navios e às suas tripulações não seja mais favorável do que o reservado aos navios que arvorem bandeira de um Estado que seja parte nessa convenção. Esses navios são submetidos a uma inspeção aprofundada, segundo os procedimentos estabelecidos pelo MA de Paris.»;
+
+b) É aditado o seguinte número: «5. As medidas adotadas para efeitos da presente diretiva não conduzem à redução do nível geral de proteção dos marítimos, ao abrigo do direito social da União nos domínios abrangidos pela presente diretiva, relativamente à situação já existente em cada Estado-Membro. Aquando da execução dessas medidas, se a autoridade competente do Estado do porto tiver conhecimento de uma violação manifesta do direito da União a bordo de navios que arvorem pavilhão de um Estado-Membro, informa imediatamente do facto outra autoridade competente, de acordo com a lei e as práticas nacionais, a fim de serem tomadas as medidas adicionais adequadas.».
+
+3) No artigo 8.º, é suprimido o n.º 4.
+
+4) No artigo 10.º, o n.º 3 passa a ter a seguinte redação: «3. São conferidas competências de execução à Comissão tendo em vista a aplicação de uma metodologia de ponderação dos parâmetros de risco genéricos no que respeita, designadamente, aos critérios do Estado de bandeira e aos critérios de desempenho da companhia. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 31.º, n.º 3.».
+
+5) No artigo 14.º, o n.º 4 passa a ter a seguinte redação: «4. O âmbito de uma inspeção alargada, incluindo os domínios de risco a cobrir, consta do Anexo VII. A Comissão pode adotar normas de execução para assegurar condições uniformes de aplicação do Anexo VII. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 31.º, n.º 3.».
+
+6) No artigo 15.º, o n.º 4 passa a ter a seguinte redação: «4. A Comissão pode adotar normas de execução para assegurar a aplicação uniforme dos procedimentos referidos no n.º 1 e dos controlos de segurança referidos no n.º 2 do presente artigo. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 31.º, n.º 3.».
+
+7) No artigo 17.º, são aditados os seguintes parágrafos: «Se, após uma inspeção aprofundada, se verificar que as condições de vida e de trabalho a bordo do navio não são conformes com as prescrições da CTM 2006, o inspetor deve chamar imediatamente a atenção do comandante do navio para as anomalias detetadas e estabelecer um prazo para a sua retificação. Caso o inspetor considere tais anomalias significativas, ou caso as mesmas estejam relacionadas com uma eventual queixa nos termos do Anexo V, Parte A, ponto 19, o inspetor deve comunicar igualmente essas anomalias às organizações pertinentes dos marítimos e armadores do Estado-Membro em que a inspeção foi efetuada, e pode: a) Notificar um representante do Estado de bandeira; b) Transmitir as informações relevantes às autoridades competentes do próximo porto de escala. No que respeita a matérias abrangidas pela CTM 2006, o Estado-Membro em que a inspeção é efetuada pode transmitir ao Diretor-Geral da Organização Internacional do Trabalho uma cópia do relatório do inspetor, que deve ser acompanhada das respostas enviadas pelas autoridades competentes do Estado de bandeira dentro do prazo prescrito, a fim de serem tomadas as medidas consideradas apropriadas e úteis para garantir o registo dessas informações e a sua transmissão às partes que possam estar interessadas em fazer uso dos procedimentos de recurso pertinentes.».
+
+a) Notificar um representante do Estado de bandeira;
+
+b) Transmitir as informações relevantes às autoridades competentes do próximo porto de escala.
+
+8) No artigo 18.º, o quarto parágrafo passa a ter a seguinte redação: «A identidade do autor da queixa não deve ser revelada ao comandante nem ao armador do navio em causa. O inspetor deve tomar as medidas adequadas para assegurar a confidencialidade das queixas apresentadas pelos marítimos, nomeadamente garantindo a confidencialidade das entrevistas aos marítimos.».
+
+9) É inserido o seguinte artigo: «Artigo 18.º-A Procedimentos de tramitação em terra de queixas relativas à CTM 2006 1. As queixas de marítimos que aleguem violações das prescrições da CTM 2006 (inclusive dos direitos dos marítimos) podem ser comunicadas a um inspetor no porto em que o seu navio tenha feito escala. Nesse caso, o inspetor procede a uma investigação inicial. 2. Se adequado, de acordo com a natureza da queixa, a investigação inicial deve ter em conta se os procedimentos de tramitação de queixas a bordo previstos na Regra 5.1.5 da CTM 2006 foram seguidos. O inspetor pode também efetuar uma inspeção aprofundada nos termos do artigo 13.º da presente diretiva. 3. Se adequado, o inspetor procura que seja dada solução à queixa a bordo do navio. 4. Caso a investigação ou a inspeção revele uma não conformidade do âmbito do artigo 19.º, é aplicável esse artigo. 5. Caso o n.º 4 não seja aplicável e uma queixa apresentada por um marítimo relativamente a matérias abrangidas pela CTM 2006 não tenha sido resolvida a bordo do navio, o inspetor notifica sem demora o Estado de bandeira, pedindo-lhe, dentro de um determinado prazo, aconselhamento e um plano de medidas corretivas a apresentar pelo Estado de bandeira. O relatório das inspeções efetuadas é enviado por meios eletrónicos para a base de dados das inspeções a que se refere o artigo 24.º. 6. Caso a queixa não tenha sido resolvida na sequência das medidas tomadas nos termos do n.º 5, o Estado do porto transmite uma cópia do relatório do inspetor ao Diretor-Geral da Organização Internacional do Trabalho. O relatório deve ser acompanhado das respostas enviadas pelas autoridades competentes do Estado de bandeira dentro do prazo prescrito. São igualmente informadas as organizações competentes dos marítimos e dos armadores do Estado do porto. Além disso, o Estado do porto transmite periodicamente ao Diretor-Geral da Organização Internacional do Trabalho estatísticas e informações relativas às queixas resolvidas. Essa transmissão é efetuada a fim de permitir manter, com base nas medidas consideradas adequadas e úteis, um registo dessas informações e comunicá-lo às partes, incluindo as organizações de marítimos e de armadores, que possam estar interessadas em fazer uso dos procedimentos de recurso pertinentes. 7. A fim de assegurar condições uniformes para a execução do presente artigo, são atribuídas competências de execução à Comissão no que respeita ao estabelecimento de um formato eletrónico e de um procedimento harmonizados para a comunicação das medidas de acompanhamento tomadas pelos Estados-Membros. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 31.º, n.º 3. 8. O presente artigo é aplicável sem prejuízo do artigo 18.º. O artigo 18.º, quarto parágrafo, é igualmente aplicável às queixas relativas a matérias abrangidas pela CTM 2006.».
+
+10) O artigo 19.º é alterado do seguinte modo: a) É aditado o seguinte número: «2-A. Em caso de condições de vida e de trabalho a bordo que representem um perigo manifesto para a segurança, a saúde ou a proteção dos marítimos, ou de anomalias que constituam violações graves ou repetidas das prescrições da CTM 2006 (inclusive dos direitos dos marítimos), a autoridade competente do Estado do porto em que o navio estiver a ser inspecionado assegura a imobilização do navio ou a interrupção da operação durante a qual as anomalias tenham sido detetadas. A ordem de imobilização ou de interrupção da operação é mantida enquanto as anomalias não forem corrigidas ou, se a autoridade competente tiver aceite um plano de medidas para corrigir essas anomalias, enquanto essa autoridade não estiver convencida de que o referido plano será prontamente executado. O inspetor pode consultar o Estado de bandeira antes de aceitar um plano de medidas.»; b) O n.º 6 passa a ter a seguinte redação: «6. Em caso de imobilização do navio, a autoridade competente informa imediatamente, por escrito e juntando o relatório de inspeção, a administração do Estado de bandeira ou, se tal não for possível, o cônsul ou, na sua falta, o mais próximo representante diplomático desse Estado, de todas as circunstâncias em que a intervenção foi considerada necessária. Devem ser igualmente notificados, se for o caso, os inspetores nomeados ou as organizações reconhecidas responsáveis pela emissão dos certificados de classe ou dos certificados oficiais nos termos das convenções. Além disso, se um navio for impedido de navegar devido a violações graves ou repetidas das prescrições da CTM 2006 (inclusive dos direitos dos marítimos) ou devido ao facto de as condições de vida e de trabalho a bordo representarem um perigo manifesto para a segurança, a saúde ou a proteção dos marítimos, a autoridade competente notifica imediatamente desse facto o Estado de bandeira e convida um representante do Estado de bandeira a estar presente, se possível, solicitando ao Estado de bandeira que responda dentro de um determinado prazo. A autoridade competente informa também imediatamente as organizações de marítimos e de armadores competentes do Estado do porto em que a inspeção foi efetuada.».
+
+a) É aditado o seguinte número: «2-A. Em caso de condições de vida e de trabalho a bordo que representem um perigo manifesto para a segurança, a saúde ou a proteção dos marítimos, ou de anomalias que constituam violações graves ou repetidas das prescrições da CTM 2006 (inclusive dos direitos dos marítimos), a autoridade competente do Estado do porto em que o navio estiver a ser inspecionado assegura a imobilização do navio ou a interrupção da operação durante a qual as anomalias tenham sido detetadas. A ordem de imobilização ou de interrupção da operação é mantida enquanto as anomalias não forem corrigidas ou, se a autoridade competente tiver aceite um plano de medidas para corrigir essas anomalias, enquanto essa autoridade não estiver convencida de que o referido plano será prontamente executado. O inspetor pode consultar o Estado de bandeira antes de aceitar um plano de medidas.»;
+
+b) O n.º 6 passa a ter a seguinte redação: «6. Em caso de imobilização do navio, a autoridade competente informa imediatamente, por escrito e juntando o relatório de inspeção, a administração do Estado de bandeira ou, se tal não for possível, o cônsul ou, na sua falta, o mais próximo representante diplomático desse Estado, de todas as circunstâncias em que a intervenção foi considerada necessária. Devem ser igualmente notificados, se for o caso, os inspetores nomeados ou as organizações reconhecidas responsáveis pela emissão dos certificados de classe ou dos certificados oficiais nos termos das convenções. Além disso, se um navio for impedido de navegar devido a violações graves ou repetidas das prescrições da CTM 2006 (inclusive dos direitos dos marítimos) ou devido ao facto de as condições de vida e de trabalho a bordo representarem um perigo manifesto para a segurança, a saúde ou a proteção dos marítimos, a autoridade competente notifica imediatamente desse facto o Estado de bandeira e convida um representante do Estado de bandeira a estar presente, se possível, solicitando ao Estado de bandeira que responda dentro de um determinado prazo. A autoridade competente informa também imediatamente as organizações de marítimos e de armadores competentes do Estado do porto em que a inspeção foi efetuada.».
+
+11) No artigo 23.º, o n.º 5 passa a ter a seguinte redação: «5. São conferidas competências de execução à Comissão para adotar medidas de execução do presente artigo, incluindo procedimentos harmonizados para a comunicação das anomalias manifestas pelos pilotos e autoridades ou organismos portuários e das medidas de acompanhamento tomadas pelos Estados-Membros. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 31.º, n.º 3.».
+
+12) No artigo 27.º, o segundo parágrafo passa a ter a seguinte redação: «São conferidas competências de execução à Comissão para estabelecer as disposições de aplicação relativas à publicação das informações referidas no primeiro parágrafo, aos critérios para a agregação dos dados pertinentes e à frequência das atualizações. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 31.º, n.º 3.».
+
+13) São inseridos os seguintes artigos: «Artigo 30.º-A Atos delegados A Comissão fica habilitada a adotar atos delegados nos termos do artigo 30.º-B no que respeita às alterações ao Anexo VI, para acrescentar à lista desse anexo novas instruções relativas à inspeção dos navios pelo Estado do porto adotadas pela Organização do MA de Paris. Artigo 30.º-B Exercício da delegação 1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo. 2. O poder de adotar os atos delegados a que se refere o artigo 30.º-A é conferido à Comissão por um prazo de cinco anos a partir de 20 de agosto de 2013. A Comissão elabora um relatório sobre a delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por prazos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo. 3. A delegação de poderes a que se refere o artigo 30.º-A pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor. 4. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho. 5. Os atos delegados adotados nos termos do artigo 30.º-A só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem ambos informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogado por dois meses, por iniciativa do Parlamento Europeu ou do Conselho.».
+
+14) O artigo 31.º passa a ter a seguinte redação: «Artigo 31.º Comité 1. A Comissão é assistida pelo Comité para a Segurança Marítima e a Prevenção da Poluição por Navios (COSS), criado pelo artigo 3.º do Regulamento (CE) n.º 2099/2002 do Parlamento Europeu e do Conselho[([^*1])](http://publications.europa.eu/resource/cellar/47ba284d-04b9-11e3-a352-01aa75ed71a1.0019.03/DOC_1#ntr*1-L_2013218PT.01000101-E0008). Este comité deve ser entendido como comité na aceção do Regulamento (UE) n.º 182/2011. 2. Caso se faça referência ao presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011. Na falta de parecer do comité sobre um projeto de ato de execução a adotar nos termos do artigo 10.º, n.º 3, do artigo 23.º, n.º 5, ou do artigo 27.º, segundo parágrafo, a Comissão não pode adotar o projeto de ato de execução, aplicando-se o artigo 5.º, n.º 4, terceiro parágrafo, do Regulamento (UE) n.º 182/2011. [(^*1^)](http://publications.europa.eu/resource/cellar/47ba284d-04b9-11e3-a352-01aa75ed71a1.0019.03/DOC_1#ntc*1-L_2013218PT.01000101-E0008) [JO L 324 de 29.11.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_324_R_TOC).»."
+
+15) O artigo 32.º é revogado.
+
+16) O artigo 33.º passa a ter a seguinte redação: «Artigo 33.º Regras de execução Ao elaborar as regras de execução a que se referem o artigo 10.º, n.º 3, o artigo 14.º, n.º 4, o artigo 15.º, n.º 4, o artigo 18.º-A, n.º 7, o artigo 23.º, n.º 5, e o artigo 27.º nos termos do artigo 31.º, n.º 3, a Comissão assegura, em especial, que essas regras tenham em consideração as competências especializadas e a experiência adquiridas com o regime de inspeções na União e se baseiem nas competências especializadas do MA de Paris.».
+
+17) No Anexo I, Parte II, o ponto 2B é alterado do seguinte modo: a) O quinto travessão passa a ter a seguinte redação: «— Navios que tenham sido objeto de relatório ou de queixa, incluindo queixa em terra, apresentados pelo comandante, por um membro da tripulação ou por qualquer pessoa ou organização com interesse legítimo na segurança da operação do navio, nas condições de vida e de trabalho a bordo ou na prevenção da poluição, a não ser que o Estado-Membro em causa considere o relatório ou a queixa manifestamente infundados.»; b) É aditado o seguinte travessão: «— Navios em relação aos quais tenha sido acordado um plano de medidas para corrigir as anomalias referidas no artigo 19.º, n.º 2-A, sem que a execução do plano tenha sido verificada por um inspetor.».
+
+a) O quinto travessão passa a ter a seguinte redação: «— Navios que tenham sido objeto de relatório ou de queixa, incluindo queixa em terra, apresentados pelo comandante, por um membro da tripulação ou por qualquer pessoa ou organização com interesse legítimo na segurança da operação do navio, nas condições de vida e de trabalho a bordo ou na prevenção da poluição, a não ser que o Estado-Membro em causa considere o relatório ou a queixa manifestamente infundados.»;
+
+«— Navios que tenham sido objeto de relatório ou de queixa, incluindo queixa em terra, apresentados pelo comandante, por um membro da tripulação ou por qualquer pessoa ou organização com interesse legítimo na segurança da operação do navio, nas condições de vida e de trabalho a bordo ou na prevenção da poluição, a não ser que o Estado-Membro em causa considere o relatório ou a queixa manifestamente infundados.»;
+
+b) É aditado o seguinte travessão: «— Navios em relação aos quais tenha sido acordado um plano de medidas para corrigir as anomalias referidas no artigo 19.º, n.º 2-A, sem que a execução do plano tenha sido verificada por um inspetor.».
+
+«— Navios em relação aos quais tenha sido acordado um plano de medidas para corrigir as anomalias referidas no artigo 19.º, n.º 2-A, sem que a execução do plano tenha sido verificada por um inspetor.».
+
+18) O Anexo IV é alterado do seguinte modo: a) Os pontos 14, 15 e 16 passam a ter a seguinte redação: «14. Atestados médicos (ver CTM 2006). 15. Quadro da organização do trabalho a bordo (ver CTM 2006 e STCW 78/95). 16. Registos das horas de trabalho e de descanso dos marítimos (ver CTM 2006)»; b) São aditados os seguintes pontos: «45. Certificado de trabalho marítimo. 46. Declaração de conformidade do trabalho marítimo, Partes I e II. 47. Certificado internacional de sistema antivegetativo. 48. Certificado de seguro ou qualquer outra garantia financeira de responsabilidade civil para o risco de poluição causada por combustível de bancas.».
+
+a) Os pontos 14, 15 e 16 passam a ter a seguinte redação: «14. Atestados médicos (ver CTM 2006). 15. Quadro da organização do trabalho a bordo (ver CTM 2006 e STCW 78/95). 16. Registos das horas de trabalho e de descanso dos marítimos (ver CTM 2006)»;
+
+«14. Atestados médicos (ver CTM 2006).
+
+15. Quadro da organização do trabalho a bordo (ver CTM 2006 e STCW 78/95).
+
+16. Registos das horas de trabalho e de descanso dos marítimos (ver CTM 2006)»;
+
+b) São aditados os seguintes pontos: «45. Certificado de trabalho marítimo. 46. Declaração de conformidade do trabalho marítimo, Partes I e II. 47. Certificado internacional de sistema antivegetativo. 48. Certificado de seguro ou qualquer outra garantia financeira de responsabilidade civil para o risco de poluição causada por combustível de bancas.».
+
+«45. Certificado de trabalho marítimo.
+
+46. Declaração de conformidade do trabalho marítimo, Partes I e II.
+
+47. Certificado internacional de sistema antivegetativo.
+
+48. Certificado de seguro ou qualquer outra garantia financeira de responsabilidade civil para o risco de poluição causada por combustível de bancas.».
+
+19) No Anexo V, Parte A, são aditados os seguintes pontos: «16. Não apresentação, não conservação ou falsa conservação dos documentos exigidos pela CTM 2006 ou o facto de os documentos apresentados não conterem as informações exigidas pela CTM 2006 ou serem de qualquer outro modo inválidos. 17. Não conformidade das condições de vida e de trabalho a bordo do navio com as prescrições da CTM 2006. 18. Motivos razoáveis para crer que o navio mudou de bandeira com o propósito de evitar o cumprimento da CTM 2006. 19. Existência de uma queixa alegando a não conformidade das condições de vida e de trabalho a bordo do navio com as prescrições da CTM 2006.».
+
+«16. Não apresentação, não conservação ou falsa conservação dos documentos exigidos pela CTM 2006 ou o facto de os documentos apresentados não conterem as informações exigidas pela CTM 2006 ou serem de qualquer outro modo inválidos.
+
+17. Não conformidade das condições de vida e de trabalho a bordo do navio com as prescrições da CTM 2006.
+
+18. Motivos razoáveis para crer que o navio mudou de bandeira com o propósito de evitar o cumprimento da CTM 2006.
+
+19. Existência de uma queixa alegando a não conformidade das condições de vida e de trabalho a bordo do navio com as prescrições da CTM 2006.».
+
+20) No Anexo X, o ponto 3.10 é alterado do seguinte modo: a) O título passa a ter a seguinte redação: «Áreas abrangidas pela CTM 2006»; b) São aditados os seguintes pontos: «8. Condições a bordo claramente perigosas para a segurança, a saúde ou a proteção dos marítimos. 9. A não conformidade constitui uma violação grave ou repetida das prescrições da CTM 2006 (inclusive dos direitos dos marítimos) relativas às condições de vida e de trabalho dos marítimos a bordo do navio, como estabelecido no certificado de trabalho marítimo e na declaração de conformidade do trabalho marítimo do navio.».
+
+a) O título passa a ter a seguinte redação: «Áreas abrangidas pela CTM 2006»;
+
+b) São aditados os seguintes pontos: «8. Condições a bordo claramente perigosas para a segurança, a saúde ou a proteção dos marítimos. 9. A não conformidade constitui uma violação grave ou repetida das prescrições da CTM 2006 (inclusive dos direitos dos marítimos) relativas às condições de vida e de trabalho dos marítimos a bordo do navio, como estabelecido no certificado de trabalho marítimo e na declaração de conformidade do trabalho marítimo do navio.».
+
+«8. Condições a bordo claramente perigosas para a segurança, a saúde ou a proteção dos marítimos.
+
+9. A não conformidade constitui uma violação grave ou repetida das prescrições da CTM 2006 (inclusive dos direitos dos marítimos) relativas às condições de vida e de trabalho dos marítimos a bordo do navio, como estabelecido no certificado de trabalho marítimo e na declaração de conformidade do trabalho marítimo do navio.».
+
+###### Artigo 2.º — Transposição
+
+1. Os Estados-Membros põem em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente diretiva até 21 de novembro de 2014. Os Estados-Membros comunicam imediatamente à Comissão o texto dessas disposições. Quando os Estados-Membros adotarem essas disposições, estas incluem uma referência à presente diretiva ou são acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência são estabelecidas pelos Estados-Membros.
+
+2. Os Estados-Membros comunicam à Comissão o texto das principais disposições de direito interno que adotarem nas matérias regidas pela presente diretiva.
+
+###### Artigo 3.º — Entrada em vigor
+
+A presente diretiva entra em vigor em 20 de agosto de 2013, data de entrada em vigor da CTM 2006.
+
+###### Artigo 4.º — Destinatários
+
+Os destinatários da presente diretiva são os Estados-Membros.
+
+Feito em Bruxelas, em 12 de agosto de 2013.
+
+***Pelo Parlamento Europeu***
+
+***O Presidente***
+
+**M. SCHULZ**
+
+***Pelo Conselho***
+
+***O Presidente***
+
+**L. LINKEVIČIUS**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/47ba284d-04b9-11e3-a352-01aa75ed71a1.0019.03/DOC_1#ntc1-L_2013218PT.01000101-E0001) [JO C 299 de 4.10.2012, p. 153](http://publications.europa.eu/resource/oj/JOC_2012_299_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/47ba284d-04b9-11e3-a352-01aa75ed71a1.0019.03/DOC_1#ntc2-L_2013218PT.01000101-E0002) Posição do Parlamento Europeu de 2 de julho de 2013 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 22 de julho de 2013.
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/47ba284d-04b9-11e3-a352-01aa75ed71a1.0019.03/DOC_1#ntc3-L_2013218PT.01000101-E0003) [JO L 161 de 22.6.2007, p. 63](http://publications.europa.eu/resource/oj/JOL_2007_161_R_TOC).
+
+> [(^4^)](http://publications.europa.eu/resource/cellar/47ba284d-04b9-11e3-a352-01aa75ed71a1.0019.03/DOC_1#ntc4-L_2013218PT.01000101-E0004) [JO L 131 de 28.5.2009, p. 57](http://publications.europa.eu/resource/oj/JOL_2009_131_R_TOC).
+
+> [(^5^)](http://publications.europa.eu/resource/cellar/47ba284d-04b9-11e3-a352-01aa75ed71a1.0019.03/DOC_1#ntc5-L_2013218PT.01000101-E0005) [JO L 124 de 20.5.2009, p. 30](http://publications.europa.eu/resource/oj/JOL_2009_124_R_TOC).
+
+> [(^6^)](http://publications.europa.eu/resource/cellar/47ba284d-04b9-11e3-a352-01aa75ed71a1.0019.03/DOC_1#ntc6-L_2013218PT.01000101-E0006) [JO L 167 de 2.7.1999, p. 33](http://publications.europa.eu/resource/oj/JOL_1999_167_R_TOC).
+
+> [(^7^)](http://publications.europa.eu/resource/cellar/47ba284d-04b9-11e3-a352-01aa75ed71a1.0019.03/DOC_1#ntc7-L_2013218PT.01000101-E0007) [JO L 55 de 28.2.2011, p. 13](http://publications.europa.eu/resource/oj/JOL_2011_055_R_TOC).

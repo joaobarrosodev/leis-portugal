@@ -1,0 +1,96 @@
+---
+schema_version: '1.0'
+id: pt:dre:375665:por
+title: Despacho Normativo n.º 202/82
+short_title: null
+summary: Actualiza a linha de crédito respeitante aos financiamentos para habitação, concedida nos termos do regime constante
+  do Decreto-Lei n.º 515/77, de 14 de Dezembro
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Tesouro
+proposing_entity: null
+official_number: 202/82
+official_date: null
+publication_date: '1982-09-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 212/1982, Série I de 1982-09-13
+  number: '212'
+  series: I
+  supplement: null
+  pages: 2748 - 2748
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/09/21200/27482748.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '375665'
+  dre_path: /dr/detalhe/despacho-normativo/202-1982-375665
+  internal: pt:dre:375665:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/202-1982-375665
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/202-1982-375665
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:17:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d677d454a6350d8a7e8616a981eb51f09608630d4bb3da1930b702694cbbbbb6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:17:59Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Crédito à Habitação
+- Habitação
+relationships:
+- type: cites
+  target: pt:dre:279595:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:17:59Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 202/82
+
+1 - Nos termos do n.º 1 do artigo 7.º do [Decreto-Lei n.º 515/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1977-279595), de 14 de Dezembro, e tendo em consideração os custos médios dos recursos das instituições de crédito intervenientes nos empréstimos a que se refere aquele diploma, determina-se que a bonificação a suportar pelo Estado em tais empréstimos corresponde à diferença entre a taxa de juro contratual de 26% deduzida de 4,5% a cargo do Banco de Portugal nos primeiros 5 anos das operações e as taxas de juro constantes do quadro anexo à portaria regulamentar prevista no artigo 7.º antes referido.
+
+2 - As futuras variações ascendentes ou descendentes da taxa de juro correspondente ao prazo das operações realizadas nos termos do [Decreto-Lei n.º 515/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1977-279595), de 14 de Dezembro, repercutir-se-ão, no mesmo sentido e em igual número de pontos percentuais, na taxa de 26% mencionada no número anterior.
+
+Secretaria de Estado do Tesouro, 18 de Agosto de 1982. - O Secretário de Estado do Tesouro, Walter Waldemar Pego Marques.

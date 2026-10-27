@@ -1,0 +1,290 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32017R0821:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017R0821-20201119",
+ "dre_path": null,
+ "source_lastmod": "2020-11-19",
+ "versions": [
+  {
+   "date": "2020-11-19",
+   "future": false,
+   "celex": "02017R0821-20201119",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "44874a3ca621fb90",
+    "8642578f95e6e061",
+    "e8bbb001384b8139",
+    "0094dacb38d82848",
+    "53bb0e6a605d0036",
+    "5289415903a74b46",
+    "d1f9f7726e7b9e0a",
+    "fcc0e4d356a5f898",
+    "6aaa3fdd054e1cff",
+    "178c84989d2b2866",
+    "18120bd9a57da5fa",
+    "27eb2cdd0743c46c",
+    "efb429b4b4e32583",
+    "fd3d324294388070",
+    "00df2a700a7bbb23",
+    "7b973cdbc0890da8",
+    "efd3ee3911095490",
+    "09227fb443901d31",
+    "5c4aa5995cddff44",
+    "0149f7d17da56ec7",
+    "ad2c9294a9aa6a01",
+    "d664376e2a8dcecd",
+    "8385202dee6d1a2a",
+    "4101a5736dcb70ba",
+    "cd4fd44bf105d268",
+    "852174729551523b",
+    "2b6743e72348f0d4",
+    "720af75c92791b10",
+    "741524b3cea68144",
+    "cc35e6ad3f6c95b5"
+   ]
+  }
+ ],
+ "fragments": {
+  "44874a3ca621fb90": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de maio de 2017\n\nque estabelece as obrigações referentes ao dever de diligência na cadeia de aprovisionamento que incumbe aos importadores da União de estanho, de tântalo e de tungsténio, dos seus minérios, e de ouro, provenientes de zonas de conflito e de alto risco"
+  },
+  "8642578f95e6e061": {
+   "fragment_id": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1. O presente regulamento estabelece um sistema da União sobre o dever de diligência na cadeia de aprovisionamento («sistema da União»), a fim de reduzir as oportunidades de exploração do comércio de estanho, de tântalo e de tungsténio, dos seus minérios, e de ouro, pelos grupos armados e pelas forças de segurança. O presente regulamento destina-se a garantir transparência e segurança no que diz respeito às práticas de aprovisionamento dos importadores da União e das fundições e das refinarias que se abastecem em zonas de conflito ou de alto risco.\n\n2. O presente regulamento estabelece as obrigações referentes ao dever de diligência na cadeia de aprovisionamento que incumbe aos importadores da União de minerais ou de metais que contenham ou consistam em estanho, tântalo, tungsténio ou ouro, tal como consta do anexo I.\n\n3. O presente regulamento não se aplica aos importadores da União de minerais ou de metais cujo volume anual de importação de cada mineral ou metal em causa seja inferior aos limiares de volume estabelecidos no anexo I.\n\nOs limiares de volume são fixados a um nível que garanta que a maior parte, mas não menos de 95 %, do volume total importado pela União de cada mineral e de cada metal ao abrigo do código da Nomenclatura Combinada, esteja sujeita às obrigações dos importadores da União previstas no presente regulamento.\n\n4. A Comissão adota um ato delegado, nos termos dos artigos 18.º e 19.º, se possível até 1 de abril de 2020, mas não após 1 de julho de 2020, a fim de alterar o anexo I, que estabeleça os limiares de volume dos minérios de tântalo ou de nióbio e dos seus concentrados, dos minérios e concentrados de ouro, dos óxidos e hidróxidos de estanho, dos tantalatos e dos carbonetos de tântalo.\n\n5. A Comissão fica habilitada a adotar atos delegados, nos termos dos artigos 18.º e 19.º, para alterar os atuais limiares constantes do anexo I de três em três anos após 1 de janeiro de 2021.\n\n6. Com exceção do artigo 7.º, n.º 4, o presente regulamento não se aplica aos metais reciclados.\n\n7. O presente regulamento não se aplica às existências caso o importador da União demonstre que as mesmas foram criadas na sua forma atual numa data verificável, anterior a 1 de fevereiro de 2013.\n\n8. O presente regulamento aplica-se aos minerais e aos metais referidos no anexo I que sejam obtidos como subprodutos, na aceção do artigo 2.º, alínea t)."
+  },
+  "e8bbb001384b8139": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Minerais», os seguintes elementos, constantes do anexo I, parte A:\n\n— minérios e concentrados que contenham estanho, tântalo ou tungsténio, e\n\n— ouro;\n\nb) «Metais», metais que contêm ou consistem em estanho, tântalo, tungsténio ou ouro, constantes do anexo I, parte B;\n\nc) «Cadeia de aprovisionamento em minerais», o conjunto de atividades, organizações, agentes, tecnologia, informação, recursos e serviços que intervêm no transporte e na transformação dos minerais desde o local de extração até à sua incorporação no produto final;\n\nd) «Dever de diligência na cadeia de aprovisionamento», as obrigações dos importadores da União de estanho, de tântalo e de tungsténio, dos seus minérios, e de ouro, relacionadas com os seus sistemas de gestão, com a gestão dos riscos, com as auditorias independentes efetuadas por terceiros e com a divulgação de informações, com vista a identificar e eliminar os riscos existentes e potenciais associados às zonas de conflito e de alto risco, para prevenir ou atenuar os efeitos negativos resultantes das suas atividades de aprovisionamento;\n\ne) «Cadeia de custódia ou sistema de rastreabilidade da cadeia de aprovisionamento», o registo da sequência de operadores económicos responsáveis pela guarda dos minerais e dos metais ao longo de toda a cadeia de aprovisionamento;\n\nf) «Zonas de conflito e de alto risco», zonas em situação de conflito armado ou zonas frágeis em situação de pós-conflito e zonas de governação e segurança deficientes ou inexistentes, como os Estados falidos, em que ocorrem violações generalizadas e sistemáticas do direito internacional, incluindo violações dos direitos humanos;\n\ng) «Grupos armados e forças de segurança», os grupos referidos no anexo II do Guia da OCDE sobre o Dever de Diligência;\n\nh) «Fundição e refinaria», uma pessoa singular ou coletiva que realiza as formas de metalurgia extrativa que envolvem as fases de transformação destinadas a produzir um metal a partir de um mineral;\n\ni) «Fundições e refinarias mundiais responsáveis», fundições e refinarias, situadas dentro ou fora da União, consideradas como cumprindo os requisitos do presente regulamento;\n\nj) «A montante», a cadeia de aprovisionamento em minerais desde o local de extração até à fundição e à refinaria, inclusive;\n\nk) «A jusante», a cadeia de aprovisionamento em metais desde a fase subsequente à fundição e à refinaria até ao produtor final;\n\nl) «Importador da União», uma pessoa singular ou coletiva que declara minerais ou metais para efeitos de introdução em livre prática, na aceção do artigo 201.º do Regulamento (UE) n.º 952/2013 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/99ac7bb7-2912-11eb-9d7e-01aa75ed71a1.0020.02/DOC_2#E0001)), ou uma pessoa singular ou coletiva por conta da qual essa declaração é feita, tal como indicado nos elementos informativos 3/15 e 3/16, em conformidade com o anexo B do Regulamento Delegado (UE) 2015/2446 da Comissão ([^2^](http://publications.europa.eu/resource/cellar/99ac7bb7-2912-11eb-9d7e-01aa75ed71a1.0020.02/DOC_2#E0002));\n\nm) «Regime de dever de diligência na cadeia de aprovisionamento» ou «regime de dever de diligência», uma combinação de procedimentos, de instrumentos e de sistemas voluntários de dever de diligência na cadeia de aprovisionamento, incluindo auditorias independentes efetuadas por terceiros, criados e supervisionados por governos, por associações industriais ou por agrupamentos de organizações interessadas;\n\nn) «Autoridades competentes dos Estados-Membros», as autoridades designadas pelos Estados-Membros, nos termos do artigo 10.º, com conhecimentos especializados no que se refere às matérias-primas, aos processos industriais e à auditoria;\n\no) «Guia da OCDE sobre o Dever de Diligência», o Guia da OCDE sobre o dever de diligência destinado às cadeias de aprovisionamento responsáveis no que respeita ao aprovisionamento em minerais provenientes de zonas de conflito ou de alto risco (segunda edição, OCDE 2013), incluindo todos os seus anexos e complementos;\n\np) «Procedimento de alerta», um procedimento de aviso precoce de riscos que permite às partes interessadas, incluindo os denunciantes, expressar preocupações quanto às condições de extração, de comercialização, de tratamento e de exportação de minerais provenientes de zonas de conflito e de alto risco;\n\nq) «Modelo de política para a cadeia de aprovisionamento», uma política para a cadeia de aprovisionamento, conforme com o anexo II do Guia da OCDE sobre o Dever de Diligência, que descreve os riscos dos efeitos negativos importantes que podem estar associados à extração, à comercialização, ao tratamento e à exportação de minerais provenientes de zonas de conflito e de alto risco;\n\nr) «Plano de gestão dos riscos», um documento que descreve as medidas previstas por um importador da União para fazer face aos riscos identificados na cadeia de aprovisionamento, com base no anexo III do Guia da OCDE sobre o Dever de Diligência;\n\ns) «Metais reciclados», produtos recuperados a partir de produtos destinados ao utilizador final, produtos de pós-consumo ou restos de metais transformados obtidos no processo de fabricação, incluindo materiais metálicos em excesso, obsoletos, defeituosos e de sucata que contenham metais refinados ou transformados, passíveis de ser adequadamente reciclados na produção de estanho, de tântalo, de tungsténio ou de ouro. Para efeitos desta definição, os minerais parcialmente transformados ou brutos e os subprodutos de outros minérios não são considerados metais reciclados;\n\nt) «Subproduto», um mineral ou um metal abrangido pelo âmbito de aplicação do presente regulamento, obtido mediante a transformação de um mineral ou de um metal não abrangido pelo âmbito de aplicação do presente regulamento, que não poderia ser obtido sem a transformação do mineral ou do metal primários não abrangidos pelo âmbito de aplicação do presente regulamento;\n\nu) «Data verificável», uma data que pode ser verificada através da inspeção física de carimbos datadores aplicados em produtos ou inventários."
+  },
+  "0094dacb38d82848": {
+   "fragment_id": "Artigo 3.º — Cumprimento das obrigações referentes ao dever de diligência na cadeia de aprovisionamento pelos importadores da União",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Cumprimento das obrigações referentes ao dever de diligência na cadeia de aprovisionamento pelos importadores da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Cumprimento das obrigações referentes ao dever de diligência na cadeia de aprovisionamento pelos importadores da União\n\n1. Os importadores da União de minerais ou metais devem cumprir as obrigações referentes ao dever de diligência na cadeia de aprovisionamento previstas no presente regulamento e conservar a documentação comprovativa desse cumprimento, incluindo os resultados das auditorias independentes efetuadas por terceiros.\n\n2. As autoridades competentes dos Estados-Membros são responsáveis pela realização de controlos *ex post* apropriados, nos termos do artigo 11.º.\n\n3. Nos termos do artigo 8.º, n.º 1, as partes interessadas podem apresentar regimes de dever de diligência na cadeia de aprovisionamento para reconhecimento pela Comissão, a fim de facilitar o cumprimento dos requisitos aplicáveis, estabelecidos nos artigos 4.º a 7.º, pelos importadores da União."
+  },
+  "53bb0e6a605d0036": {
+   "fragment_id": "Artigo 4.º — Obrigações relativas ao sistema de gestão",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Obrigações relativas ao sistema de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Obrigações relativas ao sistema de gestão\n\nOs importadores da União de minerais ou metais devem:\n\na) Adotar, e comunicar claramente aos fornecedores, e tornar públicas, informações atualizadas sobre a sua cadeia de aprovisionamento em minerais e metais potencialmente provenientes de zonas de conflito e de alto risco;\n\nb) Incorporar na política adotada para a sua cadeia de aprovisionamento os princípios que devem presidir à execução do dever de diligência, conformes com os princípios enunciados no modelo de política para a cadeia de aprovisionamento do anexo II do Guia da OCDE sobre o Dever de Diligência;\n\nc) Estruturar os seus sistemas de gestão interna de modo a fomentar o exercício do dever de diligência na cadeia de aprovisionamento, encarregando, nos casos em que o importador da União não seja uma pessoa singular, os quadros superiores de supervisionar o processo relativo a esse exercício, e manter registos desses sistemas durante pelo menos cinco anos;\n\nd) Reforçar o seu compromisso com os fornecedores incorporando a política adotada para a sua cadeia de aprovisionamento nos contratos e nos acordos com eles celebrados, em conformidade com o anexo II do Guia da OCDE sobre o Dever de Diligência;\n\ne) Criar um procedimento de alerta que funcione como um sistema de aviso precoce de identificação de riscos, ou garantir a criação de um procedimento desse tipo colaborando com outros operadores económicos ou com outras organizações, ou facilitando o recurso a peritos ou organismos externos como, por exemplo, um provedor de justiça;\n\nf) No que diz respeito aos minerais, estabelecer uma cadeia de custódia ou um sistema de rastreabilidade da cadeia de aprovisionamento que forneçam, com base em documentação, as seguintes informações:\n\ni) uma descrição do mineral, incluindo a sua designação comercial e o seu tipo,\n\nii) o nome e o endereço do fornecedor do importador da União,\n\niii) o país de origem dos minerais,\n\niv) as quantidades de extração, expressas, se disponíveis, em volume ou peso, e as datas respetivas,\n\nv) caso os minerais provenham de zonas de conflito e de alto risco, ou caso o importador da União tenha identificado outros riscos da cadeia de aprovisionamento enumerados no Guia da OCDE sobre o Dever de Diligência, informações adicionais, em conformidade com as recomendações específicas destinadas aos operadores económicos a montante, como referido no Guia da OCDE sobre o Dever de Diligência, tais como a mina de origem, os locais onde os minerais foram consolidados, comercializados e transformados, e os impostos, as taxas e as royalties pagos;\n\ng) No que diz respeito aos metais, estabelecer uma cadeia de custódia ou um sistema de rastreabilidade da cadeia de aprovisionamento que forneçam, com base em documentação, as seguintes informações:\n\ni) uma descrição do metal, incluindo a sua designação comercial e o seu tipo,\n\nii) o nome e o endereço do fornecedor do importador da União,\n\niii) o nome e o endereço das fundições e das refinarias da cadeia de aprovisionamento do importador da União,\n\niv) se disponíveis, os registos dos relatórios das auditorias efetuadas por terceiros às fundições e às refinarias, ou provas de conformidade com um regime de dever de diligência na cadeia de aprovisionamento reconhecido pela Comissão nos termos do artigo 8.º,\n\nv) se os registos a que se refere a subalínea iv) não estiverem disponíveis:\n\n— os países de origem dos minerais da cadeia de aprovisionamento das fundições e das refinarias,\n\n— caso os metais resultem de minerais provenientes de zonas de conflito e de alto risco, ou caso o importador da União tenha identificado outros riscos da cadeia de aprovisionamento enumerados no Guia da OCDE sobre o Dever de Diligência, informações adicionais em conformidade com as recomendações específicas destinadas aos operadores económicos a jusante constantes desse Guia;\n\nh) No que diz respeito aos subprodutos, prestar informações apoiadas por documentação desde o ponto de origem desses subprodutos, a saber, o ponto em que o subproduto é separado pela primeira vez do seu mineral ou metal primário não abrangido pelo âmbito de aplicação do presente regulamento."
+  },
+  "5289415903a74b46": {
+   "fragment_id": "Artigo 5.º — Obrigações relativas à gestão dos riscos",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Obrigações relativas à gestão dos riscos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Obrigações relativas à gestão dos riscos\n\n1.\n\nOs importadores da União de minerais devem:\n\na) Identificar e avaliar os riscos dos efeitos negativos associados às suas cadeias de aprovisionamento em minerais com base nas informações fornecidas nos termos do artigo 4.º e tendo em conta os princípios da política adotada para as suas cadeias de aprovisionamento, em conformidade com o anexo II e com as recomendações do Guia da OCDE sobre o Dever de Diligência;\n\nb) Aplicar uma estratégia para fazer face aos riscos identificados, destinada a evitar ou a reduzir os seus efeitos negativos:\n\ni) comunicando os resultados da avaliação dos riscos associados à cadeia de aprovisionamento aos quadros superiores designados para esse efeito, nos casos em que o importador da União não seja uma pessoa singular,\n\nii) adotando medidas de gestão dos riscos em conformidade com o anexo II e com as recomendações do Guia da OCDE sobre o Dever de Diligência, considerando a sua capacidade para influenciar e, se necessário, para tomar medidas para exercer pressão sobre os fornecedores que mais eficazmente possam evitar ou reduzir os riscos identificados, prevendo, segundo o caso:\n\n— a continuação da comercialização, efetuando simultaneamente esforços mensuráveis de redução dos riscos,\n\n— a suspensão temporária da comercialização, prosseguindo simultaneamente os esforços mensuráveis de redução dos riscos, ou\n\n— a cessação da relação comercial com um fornecedor, após o fracasso das tentativas de redução dos riscos,\n\niii) executando o plano de gestão dos riscos; controlando e acompanhando os progressos dos esforços de redução dos riscos; comunicando os resultados aos quadros superiores designados para esse efeito, nos casos em que o importador da União não seja uma pessoa singular; e ponderando a possibilidade de suspender ou de cessar a relação comercial com um fornecedor após o fracasso das tentativas de redução dos riscos,\n\niv) efetuando avaliações adicionais dos factos e dos riscos que precisem de ser reduzidos, ou após uma alteração das circunstâncias.\n\n2. Se um importador da União de minerais desenvolver esforços de redução dos riscos e, ao mesmo tempo, decidir prosseguir ou suspender temporariamente a comercialização, deve consultar os fornecedores e as partes interessadas envolvidas, incluindo as autoridades locais e as autoridades governamentais centrais, as organizações internacionais ou da sociedade civil, e todos os terceiros afetados, para chegar a acordo sobre a estratégia de redução mensurável dos riscos a introduzir no plano de gestão dos riscos.\n\n3. A fim de definir estratégias sensíveis de redução dos riscos nas zonas de conflito e de alto risco no plano de gestão dos riscos, os importadores da União de minerais devem basear-se nas medidas e nos indicadores referidos no anexo III do Guia da OCDE sobre o Dever de Diligência, e aferir os progressos alcançados.\n\n4. Os importadores da União de metais devem identificar e avaliar, em conformidade com o anexo II do Guia da OCDE sobre o Dever de Diligência e com as recomendações específicas nele contidas, os riscos associados à sua cadeia de aprovisionamento, com base em relatórios das auditorias efetuadas por terceiros às fundições e às refinarias dessa cadeia, e avaliando, se adequado, as práticas do dever de diligência dessas fundições e refinarias. Esses relatórios de auditoria devem ser conformes com o artigo 6.º, n.º 1, do presente regulamento. Na falta de tais relatórios de auditoria efetuadas por terceiros às fundições e às refinarias da sua cadeia de aprovisionamento, os importadores da União de metais devem identificar e avaliar os riscos da sua cadeia de aprovisionamento no âmbito do seu sistema de gestão de riscos. Nesses casos, os importadores da União de metais devem efetuar auditorias do seu dever de diligência na cadeia de aprovisionamento através de uma entidade terceira independente, em conformidade com o artigo 6.º do presente regulamento.\n\n5. Caso não sejam pessoas singulares, os importadores da União de metais devem comunicar as conclusões da avaliação de riscos a que se refere o n.º 4 aos seus quadros superiores designados para esse efeito e aplicar uma estratégia de resposta destinada a evitar ou a atenuar os efeitos negativos, em conformidade com o anexo II do Guia da OCDE sobre o Dever de Diligência e com as recomendações específicas dele constantes."
+  },
+  "d1f9f7726e7b9e0a": {
+   "fragment_id": "Artigo 6.º — Obrigações relativas às auditorias efetuadas por terceiros",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Obrigações relativas às auditorias efetuadas por terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigações relativas às auditorias efetuadas por terceiros\n\n1. Os importadores da União de minerais ou de metais devem efetuar auditorias através de uma entidade terceira independente («auditorias efetuadas por terceiros»).\n\nAs auditorias efetuadas por terceiros devem:\n\na) Abranger todos os processos, sistemas e atividades do importador da União utilizados para cumprir o dever de diligência na cadeia de aprovisionamento em relação aos minerais ou aos metais, incluindo o sistema de gestão, a gestão dos riscos e a divulgação de informações do importador da União, nos termos dos artigos 4.º, 5.º e 7.º, respetivamente;\n\nb) Avaliar a conformidade das práticas do dever de diligência na cadeia de aprovisionamento do importador da União com os artigos 4.º, 5.º e 7.º;\n\nc) Fazer recomendações ao importador da União sobre a forma de melhorar as suas práticas de dever de diligência na cadeia de aprovisionamento; e\n\nd) Respeitar os princípios de auditoria relativos à independência, à competência e à responsabilização constantes do Guia da OCDE sobre o Dever de Diligência.\n\n2. Os importadores da União de metais ficam isentos da obrigação prevista no n.º 1 no que diz respeito às auditorias efetuadas por terceiros, desde que apresentem provas substantivas, nomeadamente relatórios de auditorias efetuadas por terceiros, de que todas as fundições e refinarias da sua cadeia de aprovisionamento cumprem o presente regulamento.\n\nConsidera-se que o requisito da apresentação de provas substantivas foi cumprido caso os importadores da União de metais demonstrem que se aprovisionam exclusivamente junto de fundições e refinarias constantes da lista adotada pela Comissão nos termos do artigo 9.º."
+  },
+  "fcc0e4d356a5f898": {
+   "fragment_id": "Artigo 7.º — Obrigações relativas à divulgação de informações",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Obrigações relativas à divulgação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Obrigações relativas à divulgação de informações\n\n1. Os importadores da União de minerais ou de metais devem disponibilizar às autoridades competentes do Estado-Membro os relatórios das auditorias efetuadas por terceiros nos termos do artigo 6.º, ou provas de conformidade com um regime de dever de diligência na cadeia de aprovisionamento reconhecido pela Comissão nos termos do artigo 8.º.\n\n2. Os importadores da União de minerais ou metais devem disponibilizar aos seus compradores imediatamente a jusante todas as informações adquiridas e conservadas no quadro do seu exercício do dever de diligência na cadeia de aprovisionamento, tendo devidamente em conta o sigilo comercial e outras questões ligadas à concorrência.\n\n3. Os importadores da União de minerais ou de metais devem divulgar publicamente, da forma mais ampla possível, inclusive através da Internet, um relatório anual sobre as suas políticas e as suas práticas de dever de diligência na cadeia de aprovisionamento destinadas a garantir um aprovisionamento responsável. Esse relatório deve apresentar as medidas tomadas para cumprir as obrigações relativas ao seu sistema de gestão nos termos do artigo 4.º, e à sua gestão dos riscos nos termos do artigo 5.º, bem como uma síntese das auditorias efetuadas por terceiros, incluindo o nome do auditor, tendo devidamente em conta o sigilo comercial e outras questões ligadas à concorrência.\n\n4.\n\nCaso um importador da União possa razoavelmente concluir que os metais são obtidos exclusivamente a partir de fontes recicladas ou de sucata, e tendo devidamente em conta o sigilo comercial e outras questões ligadas à concorrência, deve:\n\na) Divulgar a sua conclusão; e\n\nb) Descrever com um grau razoável de pormenor as medidas que tomou no que se refere ao dever de diligência na cadeia de aprovisionamento para chegar a essa conclusão."
+  },
+  "6aaa3fdd054e1cff": {
+   "fragment_id": "Artigo 8.º — Reconhecimento dos regimes de dever de diligência na cadeia de aprovisionamento",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Reconhecimento dos regimes de dever de diligência na cadeia de aprovisionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Reconhecimento dos regimes de dever de diligência na cadeia de aprovisionamento\n\n1. Os governos, as associações industriais e os agrupamentos de organizações interessadas, que disponham de regimes de dever de diligência («titulares do regime»), podem requerer que a Comissão reconheça os regimes de dever de diligência na cadeia de aprovisionamento por si criados e supervisionados. Esses pedidos devem ser fundamentados por elementos de prova adequados e por informações adequadas.\n\n2. A Comissão adota atos delegados, nos termos do artigo 19.º, em complemento do presente regulamento, a fim de definir a metodologia e os critérios que lhe permitam avaliar se os regimes de dever de diligência na cadeia de aprovisionamento facilitam o cumprimento dos requisitos do presente regulamento pelos operadores económicos, e reconhecê-los.\n\n3. Se a Comissão decidir, com base nas informações e nos elementos de prova apresentados nos termos do n.º 1, e em conformidade com a metodologia e com os critérios de reconhecimento estabelecidos nos termos do n.º 2, que o regime de dever de diligência na cadeia de aprovisionamento, quando efetivamente aplicado por um importador da União de minerais ou metais, permite a esse importador cumprir o presente regulamento, adota um ato de execução que concede a esse regime o reconhecimento de equivalência com os requisitos do presente regulamento. Se adequado, o Secretariado da OCDE é consultado antes da adoção desses atos de execução.\n\nNa sua decisão sobre o reconhecimento de um regime de dever de diligência, a Comissão deve ter em conta a diversidade das práticas industriais abrangidas por esse regime, bem como a abordagem e o método baseados no risco utilizados por esse regime para identificar zonas de conflito e de alto risco, e os resultados registados. Esses resultados registados são divulgados pelo titular do regime.\n\nOs atos de execução referidos no primeiro parágrafo do presente número são adotados pelo procedimento consultivo a que se refere o artigo 15.º, n.º 2.\n\n4. A Comissão verifica também periodicamente, se for caso disso, se os regimes de dever de diligência na cadeia de aprovisionamento reconhecidos continuam a preencher os critérios que levaram a uma decisão de reconhecimento de equivalência adotada nos termos do n.º 3.\n\n5. O titular de um regime de dever de diligência na cadeia de aprovisionamento, ao qual tenha sido concedido o reconhecimento de equivalência nos termos do n.º 3, informa sem demora a Comissão das alterações ou atualizações desse regime.\n\n6. Caso haja provas de casos repetidos ou importantes em que os operadores económicos que aplicam um regime reconhecido nos termos do n.º 3 não tenham cumprido os requisitos do presente regulamento, a Comissão examina, em consulta com o titular do regime reconhecido, se esses casos revelam deficiências no regime.\n\n7. Caso a Comissão detete uma situação de incumprimento do presente regulamento ou deficiências num regime reconhecido de dever de diligência na cadeia de aprovisionamento, pode conceder ao titular do regime um prazo adequado para tomar medidas corretivas.\n\nSe o titular do regime não tomar as medidas corretivas necessárias, ou se recusar a tomá-las, e se a Comissão tiver decidido que o incumprimento ou as deficiências a que se refere o primeiro parágrafo do presente número comprometem a capacidade do importador da União que aplica um regime para cumprir o presente regulamento, ou se casos repetidos ou importantes de incumprimento pelos operadores económicos que aplicam um regime derivarem de deficiências no regime, a Comissão adota um ato de execução pelo procedimento de consulta a que se refere o artigo 15.º, n.º 2, pelo qual revoga o reconhecimento do regime.\n\n8. A Comissão deve criar e manter atualizado um registo dos regimes reconhecidos de dever de diligência na cadeia de aprovisionamento. Esse registo é tornado público na Internet."
+  },
+  "178c84989d2b2866": {
+   "fragment_id": "Artigo 9.º — Lista das fundições e refinarias mundiais responsáveis",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Lista das fundições e refinarias mundiais responsáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Lista das fundições e refinarias mundiais responsáveis\n\n1. A Comissão adota atos de execução que estabelecem ou alteram a lista dos nomes e dos endereços das fundições e refinarias mundiais responsáveis.\n\nEssa lista é elaborada tendo em conta as fundições e refinarias mundiais responsáveis abrangidas pelos regimes de dever de diligência na cadeia de aprovisionamento reconhecidos pela Comissão nos termos do artigo 8.º e as informações apresentadas pelos Estados-Membros nos termos do artigo 17.º, n.º 1.\n\n2. A Comissão faz tudo o que estiver ao seu alcance para identificar as fundições e refinarias constantes da lista referida no n.º 1 do presente artigo que se aprovisionem, pelo menos parcialmente, em zonas de conflito ou de alto risco, baseando-se, designadamente, nas informações prestadas pelos titulares dos regimes de dever de diligência na cadeia de aprovisionamento reconhecidos nos termos do artigo 8.º.\n\n3. A Comissão estabelece ou altera a referida lista utilizando o modelo estabelecido no anexo II, pelo procedimento consultivo a que se refere o artigo 15.º, n.º 2. O Secretariado da OCDE é consultado, se adequado, antes da adoção dessa lista.\n\n4. A Comissão retira da lista, por meio de um ato de execução, os nomes e os endereços das fundições e refinarias que deixem de ser consideradas responsáveis com base nas informações recebidas nos termos do artigo 8.º e do artigo 17.º, n.º 1. Esse ato de execução é adotado pelo procedimento consultivo a que se refere o artigo 15.º, n.º 2.\n\n5. A Comissão atualiza e torna públicas atempadamente, inclusive na Internet, as informações constantes da lista de fundições e refinarias mundiais responsáveis."
+  },
+  "18120bd9a57da5fa": {
+   "fragment_id": "Artigo 10.º — Autoridades competentes dos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Autoridades competentes dos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Autoridades competentes dos Estados-Membros\n\n1. Os Estados-Membros designam uma ou várias autoridades competentes responsáveis pela aplicação do presente regulamento.\n\nOs Estados-Membros comunicam à Comissão os nomes e os endereços das autoridades competentes até 9 de dezembro de 2017. Os Estados-Membros informam a Comissão de todas as alterações verificadas nos nomes ou nos endereços das autoridades competentes.\n\n2. A Comissão torna pública, inclusive na Internet, uma lista das autoridades competentes, utilizando o modelo constante do anexo III. A Comissão mantém essa lista atualizada.\n\n3. As autoridades competentes dos Estados-Membros são responsáveis pela aplicação efetiva e uniforme do presente regulamento em toda a União."
+  },
+  "27eb2cdd0743c46c": {
+   "fragment_id": "Artigo 11.º — Controlos ex post dos importadores da União",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Controlos ex post dos importadores da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Controlos ex post dos importadores da União\n\n1. As autoridades competentes dos Estados-Membros são responsáveis pela realização dos controlos *ex post* apropriados destinados a garantir que os importadores da União de minerais ou de metais cumpram as obrigações estabelecidas nos artigos 4.º a 7.º.\n\n2. Os controlos referidos no n.º 1 são realizados segundo uma abordagem baseada nos riscos, e também nos casos em que uma autoridade competente esteja na posse de informações relevantes, inclusive com base em preocupações fundamentadas, expressas por terceiros, relacionadas com o cumprimento do presente regulamento por um importador da União.\n\n3.\n\nOs controlos *ex post* a que se refere o n.º 1 incluem, nomeadamente:\n\na) A verificação do cumprimento pelo importador da União das obrigações referentes ao dever de diligência na cadeia de aprovisionamento nos termos do presente regulamento, inclusive no que se refere ao sistema de gestão, à gestão dos riscos, às auditorias independentes efetuadas por terceiros e à divulgação de informações;\n\nb) A verificação da documentação e dos registos que demonstrem o devido cumprimento das obrigações referidas na alínea a);\n\nc) A verificação das obrigações de auditoria, em conformidade com o âmbito, os objetivos e os princípios fixados no artigo 6.º.\n\nOs controlos *ex post* a que se refere o n.º 1 incluem inspeções no local, nomeadamente nas instalações do importador da União.\n\n4. Os importadores da União devem prestar toda a assistência necessária para facilitar a realização dos controlos referidos no n.º 1, nomeadamente no que diz respeito ao acesso às instalações e à apresentação de documentos e de registos.\n\n5. A fim de assegurar a clareza das tarefas e a coerência das ações entre as autoridades competentes dos Estados-Membros, a Comissão elabora orientações não vinculativas sob a forma de um manual que contenha os passos a seguir pelas autoridades competentes dos Estados-Membros que efetuam os controlos *ex post* referidos no n.º 1. Essas orientações devem incluir, se adequado, modelos de documentos que facilitem a aplicação do presente regulamento."
+  },
+  "efb429b4b4e32583": {
+   "fragment_id": "Artigo 12.º — Registo dos controlos ex post dos importadores da União",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Registo dos controlos ex post dos importadores da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Registo dos controlos ex post dos importadores da União\n\nAs autoridades competentes dos Estados-Membros devem manter registos dos controlos *ex post* referidos no artigo 11.º, n.º 1, indicando em particular a natureza e os resultados dos controlos, bem como registos de todas as notificações de medidas corretivas efetuadas nos termos do artigo 16.º, n.º 3.\n\nOs registos dos controlos *ex post* referidos no artigo 11.º, n.º 1, devem ser conservados durante pelo menos cinco anos."
+  },
+  "fd3d324294388070": {
+   "fragment_id": "Artigo 13.º — Cooperação e troca de informações",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Cooperação e troca de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Cooperação e troca de informações\n\n1. As autoridades competentes dos Estados-Membros procedem à troca de informações, inclusive com as suas respetivas autoridades aduaneiras, sobre questões relativas ao dever de diligência na cadeia de aprovisionamento e aos controlos *ex post* efetuados.\n\n2. As autoridades competentes dos Estados-Membros trocam informações sobre as deficiências detetadas através dos controlos *ex post* referidos no artigo 11.º, n.º 1, e sobre as regras aplicáveis em caso de incumprimento nos termos do artigo 16.º, com as autoridades competentes dos outros Estados-Membros e com a Comissão.\n\n3. A cooperação nos termos dos n.^os^ 1 e 2 deve respeitar plenamente a Diretiva 95/46/CE do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/99ac7bb7-2912-11eb-9d7e-01aa75ed71a1.0020.02/DOC_2#E0003)) e o Regulamento (CE) n.º 45/2001 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/99ac7bb7-2912-11eb-9d7e-01aa75ed71a1.0020.02/DOC_2#E0004)), no que se refere à proteção de dados, e o Regulamento (UE) n.º 952/2013, no que se refere à divulgação de informações confidenciais."
+  },
+  "00df2a700a7bbb23": {
+   "fragment_id": "Artigo 14.º — Orientações",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Orientações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Orientações\n\n1. Tendo em vista aumentar a coerência, a clareza e a certeza das práticas dos operadores económicos, em particular as PME, a Comissão elabora orientações não vinculativas, em consulta com o Serviço Europeu para a Ação Externa e com a OCDE, sob a forma de um manual para os operadores económicos, explicando a melhor forma de aplicar os critérios para a identificação das zonas de conflito e de alto risco. Esse manual baseia-se na definição de zonas de conflito e de alto risco estabelecida no artigo 2.º, alínea f), do presente regulamento e toma em consideração o Guia da OCDE sobre o Dever de Diligência neste domínio, incluindo outros indicadores de risco relativos à cadeia de aprovisionamento definidos nos suplementos pertinentes desse Guia.\n\n2. A Comissão recorre a peritos externos, que fornecerão uma lista indicativa, não exaustiva e periodicamente atualizada das zonas de conflito e de alto risco. Essa lista é elaborada com base na análise do manual referido no n.º 1 pelos peritos externos e nas informações disponíveis provenientes, nomeadamente, do meio académico e de regimes de dever de diligência na cadeia de aprovisionamento. Os importadores da União que se aprovisionem em zonas não mencionadas nessa lista conservam igualmente a sua responsabilidade pelo cumprimento das obrigações referentes ao dever de diligência nos termos do presente regulamento."
+  },
+  "7b973cdbc0890da8": {
+   "fragment_id": "Artigo 15.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Procedimento de comité\n\n1. A Comissão é assistida por um comité. Este comité é um comité na aceção do Regulamento (UE) n.º 182/2011.\n\n2. Caso se remeta para o presente número, aplica-se o artigo 4.º do Regulamento (UE) n.º 182/2011.\n\nCaso o parecer do comité deva ser obtido por procedimento escrito, este é encerrado sem resultados se, no prazo fixado para dar o parecer, o presidente assim o decidir ou a maioria simples dos seus membros assim o requerer."
+  },
+  "efd3ee3911095490": {
+   "fragment_id": "Artigo 16.º — Regras aplicáveis em caso de incumprimento",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Regras aplicáveis em caso de incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regras aplicáveis em caso de incumprimento\n\n1. Os Estados-Membros estabelecem as regras aplicáveis em caso de incumprimento do presente regulamento.\n\n2. Os Estados-Membros notificam a Comissão das regras referidas no n.º 1 e, sem demora, de todas as alterações ulteriores dessas regras.\n\n3. Em caso de incumprimento do presente regulamento, as autoridades competentes dos Estados-Membros procedem à notificação das medidas corretivas a adotar pelo importador da União."
+  },
+  "09227fb443901d31": {
+   "fragment_id": "Artigo 17.º — Apresentação de relatórios e reexame",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Apresentação de relatórios e reexame",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Apresentação de relatórios e reexame\n\n1. Até 30 de junho de cada ano, os Estados-Membros apresentam à Comissão um relatório sobre a aplicação do presente regulamento e, designadamente, sobre as notificações de medidas corretivas feitas pelas suas autoridades competentes nos termos do artigo 16.º, n.º 3, e sobre os relatórios das auditorias efetuadas por terceiros disponibilizadas nos termos do artigo 7.º, n.º 1.\n\n2. Até 1 de janeiro de 2023, e, em seguida, de três em três anos, a Comissão reexamina o funcionamento e a eficácia do presente regulamento. Esse reexame deve ter em conta o impacto do presente regulamento no terreno, inclusive no que se refere à promoção e aos custos de um aprovisionamento responsável em minerais abrangidos pelo seu âmbito de aplicação provenientes de zonas de conflito e de alto risco, bem como nos operadores económicos da União, nomeadamente as PME, e as medidas delineadas na Comunicação Conjunta de 5 de março de 2014. A Comissão debate o relatório de avaliação com o Parlamento Europeu e com o Conselho. O reexame deve incluir uma avaliação independente do número total de operadores económicos a jusante na União que têm estanho, tântalo, tungsténio ou ouro na sua cadeia de aprovisionamento e que aplicam regimes de dever de diligência. O reexame deve avaliar a adequação e a aplicação desses regimes de dever de diligência e o impacto do sistema da União no terreno, bem como a necessidade de medidas vinculativas adicionais para assegurar um efeito de alavanca suficiente do mercado total da União na cadeia de abastecimento mundial responsável de minerais.\n\n3. Com base nas conclusões do reexame referido no n.º 2, a Comissão verifica se as autoridades competentes dos Estados-Membros deverão ter competência para impor sanções aos importadores da União em caso de incumprimento persistente das obrigações previstas no presente regulamento. Se for caso disso, a Comissão pode apresentar uma proposta legislativa ao Parlamento Europeu e ao Conselho nesse sentido."
+  },
+  "5c4aa5995cddff44": {
+   "fragment_id": "Artigo 18.º — Metodologia de cálculo dos limiares",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Metodologia de cálculo dos limiares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Metodologia de cálculo dos limiares\n\nSalvo disposição em contrário do presente regulamento, e com base em informações aduaneiras prestadas pelos Estados-Membros a pedido da Comissão sobre os volumes anuais de importação por importador da União e por código da Nomenclatura Combinada enumerados no anexo I para os seus respetivos territórios, a Comissão seleciona o maior volume anual de importações por importador da União e por código da Nomenclatura Combinada correspondente pelo menos a 95 % do volume anual total de importações para a União para esse código da Nomenclatura Combinada, como novo limiar a inserir no anexo I. Para o efeito, a Comissão baseia-se nas informações sobre importação por importador da União prestadas pelos Estados-Membros para os dois anos anteriores."
+  },
+  "0149f7d17da56ec7": {
+   "fragment_id": "Artigo 19.º — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar os atos delegados referidos no artigo 1.º, n.^os^ 4 e 5, e no artigo 8.º, n.º 2, é conferido à Comissão por um prazo de cinco anos, a contar de 8 de junho de 2017. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes a que se refere o artigo 1.º, n.º 5, e o artigo 8.º, n.º 2, é tacitamente prorrogada por prazos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes a que se refere o artigo 1.º, n.^os^ 4 e 5, e o artigo 8.º, n.º 2, pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou em data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro, em conformidade com os princípios estabelecidos no Acordo Interinstitucional de 13 de abril de 2016 sobre Legislar Melhor.\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados em conformidade com o artigo 1.º, n.^os^ 4 e 5, e com o artigo 8.º, n.º 2, só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "ad2c9294a9aa6a01": {
+   "fragment_id": "Artigo 20.º — Entrada em vigor e data de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Entrada em vigor e data de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor e data de aplicação\n\n1. O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\n2. Com exceção das disposições a que se refere o n.º 3, o presente regulamento é aplicável a partir de 9 de julho de 2017.\n\n3. O artigo 1.º, n.º 5, o artigo 3.º, n.^os^ 1 e 2, os artigos 4.º a 7.º, o artigo 8.º, n.^os^ 6 e 7, o artigo 10.º, n.º 3, o artigo 11.º, n.^os^ 1, 2, 3 e 4, os artigos 12.º e 13.º, o artigo 16.º, n.º 3, e o artigo 17.º são aplicáveis a partir de 1 de janeiro de 2021.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "8385202dee6d1a2a": {
+   "fragment_id": "Lista de minerais e de metais abrangidos pelo âmbito de aplicação do Regulamento (UE) 2017/821, classificados de acordo com a Nomenclatura Combinada",
+   "type": "divisao",
+   "heading": "Lista de minerais e de metais abrangidos pelo âmbito de aplicação do Regulamento (UE) 2017/821, classificados de acordo com a Nomenclatura Combinada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de minerais e de metais abrangidos pelo âmbito de aplicação do Regulamento (UE) 2017/821, classificados de acordo com a Nomenclatura Combinada"
+  },
+  "4101a5736dcb70ba": {
+   "fragment_id": "Parte A: Minerais",
+   "type": "divisao",
+   "heading": "Parte A: Minerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Parte A: Minerais\n\n| Descrição | Código NC | Subdivisão TARIC | Limiar de volume (kg) |\n| --- | --- | --- | --- |\n| Minérios de estanho e seus concentrados | 2609 00 00 |  | 5 000 |\n| Minérios de tungsténio (volfrâmio) e seus concentrados | 2611 00 00 |  | 250 000 |\n| [▼M1](http://publications.europa.eu/resource/celex/32020R1588) |  |  |  |\n| Minérios de tântalo ou nióbio e seus concentrados | ex 2615 90 00 | 10 | 100 000 |\n| Minérios de ouro e seus concentrados | ex 2616 90 00 | 10 | 4 000 000 |\n| [▼B](http://publications.europa.eu/resource/celex/32017R0821) |  |  |  |\n| Ouro, em formas brutas ou semimanufaturadas, ou em pó com uma concentração de ouro inferior a 99,5 %, que não tenha passado pela fase de refinação | ex 71 08 [(^*1^)](http://publications.europa.eu/resource/cellar/99ac7bb7-2912-11eb-9d7e-01aa75ed71a1.0020.02/DOC_2#E0005) |  | 100 |\n| (^*1^) A fim de alterar este limiar, o volume importado obtido aplicando a metodologia e os critérios fixados no artigo 18.º é definido enquanto limiar para ambas as posições pautais ex 71 08 incluídas no anexo I. |  |  |  |"
+  },
+  "cd4fd44bf105d268": {
+   "fragment_id": "Parte B: Metais",
+   "type": "divisao",
+   "heading": "Parte B: Metais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Parte B: Metais\n\n| Descrição | Código NC | Subdivisão TARIC | Limiar de volume (kg) |\n| --- | --- | --- | --- |\n| Óxidos e hidróxidos de tungsténio | 2825 90 40 |  | 100 000 |\n| [▼M1](http://publications.europa.eu/resource/celex/32020R1588) |  |  |  |\n| Óxidos e hidróxidos de estanho | ex 2825 90 85 | 10 | 3 600 |\n| [▼B](http://publications.europa.eu/resource/celex/32017R0821) |  |  |  |\n| Cloretos de estanho | 2827 39 10 |  | 10 000 |\n| Tungstatos | 2841 80 00 |  | 100 000 |\n| [▼M1](http://publications.europa.eu/resource/celex/32020R1588) |  |  |  |\n| Tantalatos | ex 2841 90 85 | 30 | 30 |\n| [▼B](http://publications.europa.eu/resource/celex/32017R0821) |  |  |  |\n| Carbonetos de tungsténio | 2849 90 30 |  | 10 000 |\n| [▼M1](http://publications.europa.eu/resource/celex/32020R1588) |  |  |  |\n| Carbonetos de tântalo | ex 2849 90 50 | 10 | 770 |\n| [▼B](http://publications.europa.eu/resource/celex/32017R0821) |  |  |  |\n| Ouro, em formas brutas ou semimanufaturadas, ou em pó com uma concentração de ouro igual ou superior a 99,5 %, que tenha passado pela fase de refinação | ex 71 08 [(^*1^)](http://publications.europa.eu/resource/cellar/99ac7bb7-2912-11eb-9d7e-01aa75ed71a1.0020.02/DOC_2#E0006) |  | 100 |\n| Ferro-tungsténio (ferro-volfrâmio) e ferro-silício-tungsténio (ferro-silício-volfrâmio) | 7202 80 00 |  | 25 000 |\n| Estanho em formas brutas | 8001 |  | 100 000 |\n| Barras, perfis e fios de estanho | 8003 00 00 |  | 1 400 |\n| Outras obras de estanho | 8007 00 |  | 2 100 |\n| Pós de tungsténio | 8101 10 00 |  | 2 500 |\n| Tungsténio (volfrâmio) em formas brutas, incluindo as barras simplesmente obtidas por sinterização | 8101 94 00 |  | 500 |\n| Fios de tungsténio | 8101 96 00 |  | 250 |\n| Barras de tungsténio (volfrâmio), exceto as barras simplesmente obtidas por sinterização, perfis, chapas, tiras e folhas, e outros | 8101 99 |  | 350 |\n| Tântalo em formas brutas, incluindo as barras simplesmente obtidas por sinterização; pós | 8103 20 00 |  | 2 500 |\n| Barras de tântalo, exceto as barras simplesmente obtidas por sinterização, perfis, fios, chapas, folhas e tiras, e outros | 8103 90 |  | 150 |\n| (^*1^) A fim de alterar este limiar, o volume importado obtido aplicando a metodologia e os critérios fixados no artigo 18.º é definido enquanto limiar para ambas as posições pautais ex 71 08 incluídas no anexo I. |  |  |  |"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "2b6743e72348f0d4": {
+   "fragment_id": "Modelo de lista de fundições e refinarias mundiais responsáveis a que se refere o artigo 9.º",
+   "type": "divisao",
+   "heading": "Modelo de lista de fundições e refinarias mundiais responsáveis a que se refere o artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Modelo de lista de fundições e refinarias mundiais responsáveis a que se refere o artigo 9.º\n\nColuna A: Nome das fundições e refinarias por ordem alfabética\n\nColuna B: Endereço de cada fundição ou refinaria\n\nColuna C: Assinalar com asterisco^*^ se a fundição ou a refinaria se aprovisionar em minerais provenientes de zonas de conflito e de alto risco\n\n| A | B | C |\n| --- | --- | --- |"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "741524b3cea68144": {
+   "fragment_id": "Modelo de lista das autoridades competentes dos Estados-Membros a que se refere o artigo 10.º",
+   "type": "divisao",
+   "heading": "Modelo de lista das autoridades competentes dos Estados-Membros a que se refere o artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Modelo de lista das autoridades competentes dos Estados-Membros a que se refere o artigo 10.º\n\nColuna A: Nome dos Estados-Membros por ordem alfabética\n\nColuna B: Nome da autoridade competente\n\nColuna C: Endereço da autoridade competente\n\n| A | B | C |\n| --- | --- | --- |\n\n---"
+  },
+  "cc35e6ad3f6c95b5": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/99ac7bb7-2912-11eb-9d7e-01aa75ed71a1.0020.02/DOC_2#src.E0001)) Regulamento (UE) n.º 952/2013 do Parlamento Europeu e do Conselho, de 9 de outubro de 2013, que estabelece o Código Aduaneiro da União (JO L 269 de 10.10.2013, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/99ac7bb7-2912-11eb-9d7e-01aa75ed71a1.0020.02/DOC_2#src.E0002)) Regulamento Delegado (UE) 2015/2446 da Comissão, de 28 de julho de 2015, que completa o Regulamento (UE) n.º 952/2013 do Parlamento Europeu e do Conselho, com regras pormenorizadas relativamente a determinadas disposições do Código Aduaneiro da União (JO L 343 de 29.12.2015, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/99ac7bb7-2912-11eb-9d7e-01aa75ed71a1.0020.02/DOC_2#src.E0003)) Diretiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de outubro de 1995, relativa à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados (JO L 281 de 23.11.1995, p. 31).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/99ac7bb7-2912-11eb-9d7e-01aa75ed71a1.0020.02/DOC_2#src.E0004)) Regulamento (CE) n.º 45/2001 do Parlamento Europeu e do Conselho, de 18 de dezembro de 2000, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e pelos órgãos comunitários e à livre circulação desses dados (JO L 8 de 12.1.2001, p. 1)."
+  }
+ }
+}

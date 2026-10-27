@@ -1,0 +1,105 @@
+---
+schema_version: '1.0'
+id: pt:dre:163646:por
+title: Resolução da Assembleia Legislativa Regional n.º 9/2001/A
+short_title: null
+summary: Resolve recomendar ao Governo Regional a adopção de medidas com vista ao alargamento progressivo do serviço de apoio
+  ao domicílio
+jurisdiction: regional
+territory: acores
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 9/2001/A
+official_date: null
+publication_date: '2001-04-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 91/2001, Série I-B de 2001-04-18
+  number: '91'
+  series: I
+  supplement: null
+  pages: 2293 - 2293
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/04/091b00/22932293.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalr/9/2001/04/18/a/dre/pt/html
+  oj: null
+  dre: '163646'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regional/9-2001-163646
+  internal: pt:dre:163646:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/9-2001-163646
+  metadata_url: https://data.dre.pt/eli/resolalr/9/2001/04/18/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/9-2001-163646
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:33:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a1238b114d8a64c0dbed9f7d6da0b5559299ccfac989b59b869150f80938a8ec
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:44Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ação Social
+- Açores
+- Apoio Domiciliário
+- Proteção Social
+- Recomendação
+- Serviço de Telealarme
+- Terceira Idade
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:33:44Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa Regional n.º 9/2001/A
+
+Apoio aos idosos
+
+A Assembleia Legislativa Regional dos Açores, nos termos estatutários e regimentais, resolve recomendar ao Governo Regional a adopção das seguintes medidas:
+
+1.º Incentivar o alargamento progressivo do serviço de apoio ao domicílio por forma a abranger freguesias actualmente ainda a descoberto e fornecer serviços adicionais, nomeadamente a distribuição de medicação.
+
+2.º Avaliar as experiências actuais de fornecimento de serviços de apoio domiciliário aos fins-de-semana e feriados, por forma a gradualmente generalizar essa prática.
+
+3.º Desencadear esforços com vista à implementação de um serviço de telealarme disponível à população idosa ou com necessidades especiais.
+
+Aprovada pela Assembleia Legislativa Regional dos Açores, na Horta, em 15 de Fevereiro de 2001.
+
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.

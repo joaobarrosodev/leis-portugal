@@ -1,0 +1,196 @@
+---
+schema_version: '1.0'
+id: pt:dre:565273:por
+title: Decreto-Lei n.º 397/90
+short_title: null
+summary: Estabelece normas de execução do orçamento da Segurança Social
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Emprego e da Segurança Social
+proposing_entity: null
+official_number: 397/90
+official_date: null
+publication_date: '1990-12-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 284/1990, Série I de 1990-12-11
+  number: '284'
+  series: I
+  supplement: null
+  pages: 5048 - 5051
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/12/28400/50485051.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '565273'
+  dre_path: /dr/detalhe/decreto-lei/397-1990-565273
+  internal: pt:dre:565273:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1990-565273
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1990-565273
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:04:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: af98ab0ca8ec1700103ce2fbdfb6293b9b343aa217c34bae828758483002401c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:04:31Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alteração Orçamental
+- Despesas Públicas
+- Duodécimo
+- Execução do Orçamento
+- Financiamento da Segurança Social
+- Fundo de Estabilização Financeira da Segurança Social
+- Instituto de Gestão Financeira da Segurança Social
+- Orçamento da Segurança Social
+- Piddac
+- Receita Pública
+- Segurança Social
+relationships:
+- type: cites
+  target: pt:dre:443296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590339:por
+  label: null
+  source: null
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:04:31Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 397/90
+
+de 11 de Dezembro
+
+Tendo a Assembleia da República aprovado, pela [Lei n.º 101/89](https://diariodarepublica.pt/dr/detalhe/lei/101-1989-590339), de 29 de Dezembro, o orçamento da Segurança Social para 1990, como fazendo parte integrante do Orçamento do Estado, cabe ao Governo, nos termos do artigo 16.º da [Lei n.º 40/83](https://diariodarepublica.pt/dr/detalhe/lei/40-1983-443296), de 13 de Dezembro, aprovar as respectivas normas de execução.
+
+No desenvolvimento do regime jurídico estabelecido pelas Leis n.os [40/83](https://diariodarepublica.pt/dr/detalhe/lei/40-1983-443296), de 13 de Dezembro, e [101/89](https://diariodarepublica.pt/dr/detalhe/lei/101-1989-590339), de 29 de Dezembro, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Execução do orçamento da Segurança Social
+
+O presente diploma contém as disposições necessárias à execução do orçamento da Segurança Social (OSS) para 1990, constante dos mapas anexos.
+
+###### Artigo 2.º — Eficácia, eficiência e pertinência das despesas
+
+Compete ao Instituto de Gestão Financeira da Segurança Social (IGFSS) efectuar a gestão global do OSS, assegurar o acompanhamento da execução orçamental e propor eventuais alterações orçamentais.
+
+###### Artigo 3.º — Utilização das dotações orçamentais
+
+1 - As instituições de segurança social e os demais organismos financeiros através do OSS devem observar na execução dos respectivos orçamentos normas de rigorosa economia na administração das verbas orçamentais atribuídas às suas despesas.
+
+2 - Os dirigentes dos serviços são responsáveis pela assunção de encargos com infracção das normas aplicáveis à realização das despesas, nos termos da legislação em vigor.
+
+###### Artigo 4.º — Regime duodecimal
+
+As dotações orçamentais do OSS ficam sujeitas ao regime duodecimal, com excepção das que pela natureza específica das despesas a que se destinam o justifiquem, nomeadamente prestações dos regimes e de acção social, remunerações certas e permanentes, encargos de instalações, comunicações, locação de bens, acções de formação profissional e, bem assim, as dotações de despesas de capital incluídas no PIDDAC.
+
+###### Artigo 5.º — Planos de tesouraria
+
+1 - O financiamento das instituições de segurança social e dos demais organismos com dotações integradas no OSS será efectuado pelo IGFSS com base em planos de tesouraria aprovados por este Instituto.
+
+2 - A forma de financiamento descrita no número anterior não é aplicável ao Instituto do Emprego e Formação Profissional.
+
+###### Artigo 6.º — PIDDAC
+
+1 - As dotações afectas à execução de investimentos inscritos no PIDDAC, incluindo as correspondentes à aplicação de receitas gerais do OSS, não poderão ser aplicadas sem especificação em programas e projectos aprovados pelo Ministro do Emprego e da Segurança Social e visados pelo Ministro do Planeamento e da Administração do Território.
+
+2 - A competência para aprovar programas e projectos poderá ser objecto de delegação no director-geral do Departamento de Planeamento da Segurança Social.
+
+3 - A competência para visar os programas e projectos a que se refere este artigo poderá ser delegada no director-geral do Departamento Central de Planeamento.
+
+4 - Dos processos enviados ao Tribunal de Contas, para efeitos de visto em contratos, cujos encargos sejam suportados por verbas inscritas em investimentos do PIDDAC deverá constar obrigatoriamente a data do despacho do membro do Governo responsável pela área do planeamento que tenha visado o correspondente programa para 1990.
+
+###### Artigo 7.º — Financiamento
+
+Os montantes dos financiamentos das instituições de segurança social e demais organismos com orçamentos integrados no OSS não podem exceder a importância estritamente indispensável aos fins a que se destinam, podendo os planos de tesouraria previstos no n.º 1 do artigo 5.º ser objecto dos ajustamentos necessários a esse fim.
+
+###### Artigo 8.º — Alterações orçamentais
+
+1 - As alterações orçamentais só podem ser admitidas quando forem devidamente justificadas e apresentarem adequada contrapartida.
+
+2 - As alterações orçamentais que decorram de despesas que possam ser realizadas com utilização de saldos de dotações de anos anteriores, bem como de despesas que tenham compensação em receitas, serão autorizadas por despacho do Ministro do Emprego e da Segurança Social.
+
+3 - Nas condições previstas no n.º 1, serão autorizadas por despacho do Ministro do Emprego e da Segurança Social as transferências de verbas entre as áreas de dotação para despesas correntes, no que respeita a prestações de regimes e acção social.
+
+4 - Ainda nas condições previstas no n.º 1, serão autorizadas por despacho do Ministro do Emprego e da Segurança Social as transferências de dotação entre áreas de administração e acções de formação profissional.
+
+5 - Não podem ser efectuadas transferências das rubricas «Despesas de capital», «Transferências correntes» e «Transferências de capital», nem entre estas mesmas áreas.
+
+###### Artigo 9.º — Relacionamento com o sistema bancário ou financeiro
+
+1 - É autorizado o IGFSS a estabelecer relações com as instituições do sistema bancário ou financeiro, podendo para o efeito negociar aplicações de capital, constituir depósitos e contrair empréstimos de curto prazo que se mostrem necessários à execução do presente orçamento.
+
+2 - As aplicações de capital efectuadas junto de instituições financeiras não monetárias estão sujeitas a autorização genérica prévia do Ministro do Emprego e da Segurança Social.
+
+###### Artigo 10.º — Fundo de Estabilização Financeira da Segurança Social (FEFSS)
+
+1 - Enquanto não estiverem reunidas as condições de pleno funcionamento do Fundo de Estabilização Financeira da Segurança Social (FEFSS), o IGFSS está autorizado a praticar todas as operações financeiras da competência daquele Fundo.
+
+2 - A autorização referida no número anterior é extensiva às restantes verbas que vierem a ser disponibilizadas para o IGFSS a favor do FEFSS.
+
+3 - As operações financeiras devem constar de programa proposto pelo FEFSS e autorizado pelo Ministro do Emprego e da Segurança Social, não podendo o seu valor exceder o montante que em cada momento se encontrar à ordem do Fundo.
+
+###### Artigo 11.º — Produção de efeitos
+
+O presente diploma produz efeitos desde 1 de Janeiro de 1990.
+
+Visto e aprovado em Conselho de Ministros de 2 de Novembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - José Albino da Silva Peneda.
+
+Promulgado em 26 de Novembro de 1990.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 28 de Novembro de 1990.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+SECRETARIA DE ESTADO DA SEGURANÇA SOCIAL
+
+Orçamento da Segurança Social - 1990
+
+Receitas
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28400/50485051.pdf)

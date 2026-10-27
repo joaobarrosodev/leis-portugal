@@ -1,0 +1,705 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:643695:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2000-184384889",
+ "dre_path": "/dr/detalhe/portaria/705-d-2000-643695",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2000-09-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "184383194",
+    "184383195",
+    "184383196",
+    "184383197",
+    "184383198",
+    "184383199",
+    "184383200",
+    "184383201",
+    "184383202",
+    "184383203",
+    "184383204",
+    "184383205",
+    "184383206",
+    "184383207",
+    "184383208",
+    "184383209",
+    "184383210",
+    "184383211",
+    "184383212",
+    "184383213",
+    "184383214",
+    "184383215",
+    "184383216",
+    "184383217"
+   ]
+  },
+  {
+   "date": "2022-06-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:184356509:por",
+     "title": "Portaria n.º 155/2022",
+     "published": "2022-06-03",
+     "dre_path": "/dr/detalhe/portaria/155-2022-184356509"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 23.º"
+   ],
+   "fragments": [
+    "184383194",
+    "184383218",
+    "184383219",
+    "184383251",
+    "184383252",
+    "184383270",
+    "184383271",
+    "184383272",
+    "184383273",
+    "184383274",
+    "184414075",
+    "184414076",
+    "184414077",
+    "184414078",
+    "184414079",
+    "184414080",
+    "184414081",
+    "184414082",
+    "184414083",
+    "184414084",
+    "184414085",
+    "184414086",
+    "184414087",
+    "184414088",
+    "184414089",
+    "184414090",
+    "184414091"
+   ]
+  },
+  {
+   "date": "2025-03-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:912256343:por",
+     "title": "Portaria n.º 129/2025/1",
+     "published": "2025-03-25",
+     "dre_path": "/dr/detalhe/portaria/129-2025-912256343"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "184383194",
+    "912381810",
+    "912381811",
+    "912381812",
+    "912381813",
+    "912381814",
+    "184383218",
+    "184383219",
+    "184383251",
+    "912381821",
+    "184383270",
+    "912381822",
+    "912381823",
+    "912381824",
+    "184383274",
+    "184414075",
+    "184414076",
+    "184414077",
+    "184414078",
+    "184414079",
+    "912381825",
+    "912381826",
+    "184414082",
+    "184414083",
+    "184414084",
+    "184414085",
+    "184414086",
+    "184414087",
+    "184414088",
+    "184414089",
+    "184414090",
+    "184414091"
+   ]
+  }
+ ],
+ "fragments": {
+  "184383194": {
+   "fragment_id": "184384890",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 705-D/2000\n\nde 1 de Setembro\n\nSob proposta do Instituto Politécnico de Coimbra e da sua Escola Superior de Educação;\n\nOuvida a Comissão Nacional de Acesso ao Ensino Superior;\n\nConsiderando que as características do curso bietápico de licenciatura em Teatro e Educação ministrado pela Escola Superior de Educação de Coimbra justificam que a candidatura à matrícula e inscrição no mesmo se realize através de concurso local;\n\nAo abrigo do disposto no n.º 3 do artigo 27.º do Decreto-Lei n.º 296-A/98, de 25 de Setembro, alterado pelo Decreto-Lei n.º 99/99, de 30 de Março:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:"
+  },
+  "184383195": {
+   "fragment_id": "184384891",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\nO presente Regulamento disciplina o concurso local para a matrícula e inscrição no curso bietápico de licenciatura em Teatro e Educação ministrado pela Escola Superior de Educação do Instituto Politécnico de Coimbra."
+  },
+  "184383196": {
+   "fragment_id": "184384892",
+   "type": 11,
+   "heading": "Artigo 2.º — Avaliação da capacidade para a frequência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Avaliação da capacidade para a frequência\n\n1 - A avaliação da capacidade para a frequência do curso é efectuada através da realização de uma prova de ingresso e de uma prova de aptidão vocacional específica.\n\n2 - A prova de ingresso é fixada nos termos do artigo 20.º do Decreto-Lei n.º 296-A/98, de 25 de Setembro, alterado pelo Decreto-Lei n.º 99/99, de 30 de Março.\n\n3 - A prova de aptidão vocacional específica é constituída por:\n\na) Parte teórica, para avaliação da cultura geral e teatral;\n\nb) Parte prática de improvisação e interpretação (um monólogo e um diálogo).\n\n4 - O resultado da prova de aptidão vocacional específica é expresso em:\n\na) Não apto; ou\n\nb) Apto, com uma classificação inteira no intervalo 100-200.\n\n> Nota: [Artigo 4.º, Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343) As alterações introduzidas pela Portaria n.º 129/2025/1, de 25 de março ao presente artigo produzem efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive."
+  },
+  "184383197": {
+   "fragment_id": "184384893",
+   "type": 11,
+   "heading": "Artigo 3.º — Validade das provas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Validade das provas\n\nAs provas são válidas apenas para a candidatura à matrícula e inscrição no ano em que se realizam.\n\n> Nota: [Artigo 4.º, Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343) As alterações introduzidas pela Portaria n.º 129/2025/1, de 25 de março ao presente artigo produzem efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive."
+  },
+  "184383198": {
+   "fragment_id": "184384894",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições para a candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições para a candidatura\n\nPodem apresentar-se ao concurso os estudantes que sejam titulares do curso do ensino secundário ou de habilitação legalmente equivalente.\n\n> Nota: [Artigo 4.º, Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343) As alterações introduzidas pela Portaria n.º 129/2025/1, de 25 de março ao presente artigo produzem efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive."
+  },
+  "184383199": {
+   "fragment_id": "184384895",
+   "type": 11,
+   "heading": "Artigo 5.º — Vagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Vagas\n\nA matrícula e inscrição no curso está sujeita a limitações quantitativas fixadas nos termos do artigo 4.º do Decreto-Lei n.º 296-A/98.\n\n> Nota: [Artigo 4.º, Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343) As alterações introduzidas pela Portaria n.º 129/2025/1, de 25 de março ao presente artigo produzem efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive."
+  },
+  "184383200": {
+   "fragment_id": "184384896",
+   "type": 11,
+   "heading": "Artigo 6.º — Local e prazo de apresentação da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Local e prazo de apresentação da candidatura\n\n1 - A candidatura é apresentada na Escola Superior de Educação de Coimbra.\n\n2 - O prazo para a realização da candidatura é fixado nos termos do artigo 23.º"
+  },
+  "184383201": {
+   "fragment_id": "184384897",
+   "type": 11,
+   "heading": "Artigo 7.º — Apresentação da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apresentação da candidatura\n\nTêm legitimidade para efectuar a apresentação da candidatura:\n\na) O estudante;\n\nb) Um seu procurador bastante;\n\nc) A pessoa que demonstre exercer o poder paternal ou tutelar."
+  },
+  "184383202": {
+   "fragment_id": "184384898",
+   "type": 11,
+   "heading": "Artigo 8.º — Instrução do processo de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Instrução do processo de candidatura\n\n1 - O processo de candidatura é instruído com:\n\na) Boletim de candidatura, de modelo aprovado pela Escola Superior de Educação de Coimbra;\n\nb) Certificado comprovativo da titularidade da habilitação de acesso com que se candidata.\n\nc) Fotocópia simples do bilhete de identidade;\n\nd) Outros documentos eventualmente referidos no edital a que se refere o artigo 11.º\n\n2 - O certificado referido na alínea b) do n.º 1 pode ser temporariamente substituído por declaração do candidato, comprometendo-se a apresentá-lo até cinco dias antes da data marcada para a afixação do aviso com os resultados finais do concurso, sob pena de indeferimento nos termos do artigo seguinte."
+  },
+  "184383203": {
+   "fragment_id": "184384899",
+   "type": 11,
+   "heading": "Artigo 9.º — Indeferimento liminar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Indeferimento liminar\n\n1 - São liminarmente indeferidos os requerimentos dos candidatos que, embora reunindo as condições necessárias à candidatura ao curso, se encontrem numa das seguintes condições:\n\na) Não estejam correctamente preenchidos;\n\nb) Sejam apresentados fora de prazo;\n\nc) Não estejam acompanhados da documentação necessária à sua completa instrução;\n\nd) Expressamente infrinjam alguma das regras fixadas pela presente portaria.\n\n2 - O indeferimento liminar é da competência do conselho directivo da Escola Superior de Educação de Coimbra."
+  },
+  "184383204": {
+   "fragment_id": "184384900",
+   "type": 11,
+   "heading": "Artigo 10.º — Júri da prova de aptidão vocacional específica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Júri da prova de aptidão vocacional específica\n\n1 - A organização da prova de aptidão vocacional específica é da competência de um júri designado pelo conselho directivo da Escola Superior de Educação de Coimbra, ouvido o conselho científico.\n\n2 - Compete ao júri, nomeadamente:\n\na) Fixar os conteúdos da prova;\n\nb) Fixar os critérios de avaliação a adoptar na prova;\n\nc) Dar execução à prova e proceder à sua apreciação;\n\nd) Proceder às operações de selecção e seriação dos candidatos."
+  },
+  "184383205": {
+   "fragment_id": "184384901",
+   "type": 11,
+   "heading": "Artigo 11.º — Edital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Edital\n\nAté 30 dias antes da realização da prova de aptidão vocacional específica o conselho directivo da Escola Superior de Educação de Coimbra promoverá a afixação de edital indicando, designadamente:\n\na) O conteúdo da prova;\n\nb) Os critérios de avaliação a adoptar;\n\nc) As classificações mínimas a que se refere o artigo 12.º;\n\nd) Os factores de ponderação a que se refere o artigo 13.º"
+  },
+  "184383206": {
+   "fragment_id": "184384902",
+   "type": 11,
+   "heading": "Artigo 12.º — Selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Selecção\n\n1 - A selecção dos candidatos ao curso é realizada com base:\n\na) Na prova de ingresso, onde deve ser obtida uma classificação mínima;\n\nb) Na prova de aptidão vocacional específica, onde deve ser obtido o resultado de Apto;\n\nc) Na nota de candidatura a que se refere o artigo 13.º, onde deve ser obtida uma classificação mínima.\n\n2 - As classificações mínimas a que se referem as alíneas a) e c) do número anterior são fixadas nos termos do artigo 25.º do Decreto-Lei n.º 296-A/98.\n\n> Nota: [Artigo 4.º, Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343) As alterações introduzidas pela Portaria n.º 129/2025/1, de 25 de março ao presente artigo produzem efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive."
+  },
+  "184383207": {
+   "fragment_id": "184384903",
+   "type": 11,
+   "heading": "Artigo 13.º — Seriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Seriação\n\n1 - A seriação dos candidatos ao curso é realizada com base numa nota de candidatura.\n\n2 - A nota de candidatura é a média aritmética arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas) das classificações obtidas na prova de aptidão vocacional específica, na prova de ingresso e na classificação final do curso do ensino secundário, ponderadas da seguinte forma:\n\na) Classificação da prova de aptidão vocacional específica: 70%;\n\nb) Classificação da prova de ingresso: 10%;\n\nc) Classificação final do curso do ensino secundário: 20%.\n\n> Nota: [Artigo 4.º, Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343) As alterações introduzidas pela Portaria n.º 129/2025/1, de 25 de março ao presente artigo produzem efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive."
+  },
+  "184383208": {
+   "fragment_id": "184384904",
+   "type": 11,
+   "heading": "Artigo 14.º — Colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Colocação\n\nA colocação dos candidatos nas vagas fixadas é feita pela ordem decrescente da lista seriada elaborada nos termos do artigo 13.º"
+  },
+  "184383209": {
+   "fragment_id": "184384905",
+   "type": 11,
+   "heading": "Artigo 15.º — Desempate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Desempate\n\nSempre que dois ou mais candidatos em situação de empate, resultante da aplicação do critério de seriação a que se refere o artigo 13.º, disputem a última vaga ou o último conjunto de vagas do curso, são abertas tantas vagas adicionais quanto as necessárias para os admitir."
+  },
+  "184383210": {
+   "fragment_id": "184384906",
+   "type": 11,
+   "heading": "Artigo 16.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Competência\n\nAs decisões sobre a candidatura a que se refere o presente Regulamento são da competência do conselho directivo da Escola Superior de Educação de Coimbra."
+  },
+  "184383211": {
+   "fragment_id": "184384907",
+   "type": 11,
+   "heading": "Artigo 17.º — Resultado final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Resultado final\n\nO resultado final exprime-se através de uma das seguintes situações:\n\na) Colocado;\n\nb) Não colocado;\n\nc) Excluído."
+  },
+  "184383212": {
+   "fragment_id": "184384908",
+   "type": 11,
+   "heading": "Artigo 18.º — Comunicação da decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Comunicação da decisão\n\n1 - O resultado final é tornado público através de aviso afixado na Escola Superior de Educação de Coimbra no prazo previamente fixado nos termos do artigo 23.º\n\n2 - Das listas afixadas constam, relativamente a cada estudante que se tenha apresentado a concurso:\n\na) Nome;\n\nb) Número e local de emissão do bilhete de identidade;\n\nc) Nota de candidatura a que se refere o artigo 13.º;\n\nd) Resultado final.\n\n3 - A menção da situação de excluído carece de ser acompanhada da respectiva fundamentação legal."
+  },
+  "184383213": {
+   "fragment_id": "184384909",
+   "type": 11,
+   "heading": "Artigo 19.º — Reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Reclamações\n\n1 - Do resultado final podem os candidatos apresentar reclamação fundamentada no prazo fixado nos termos do artigo 23.º, mediante exposição dirigida ao conselho directivo da Escola Superior de Educação de Coimbra.\n\n2 - A reclamação é entregue em mão no local onde o reclamante apresentou a candidatura ou enviada pelo correio, em carta registada.\n\n3 - São liminarmente rejeitadas as reclamações não fundamentadas, bem como as que não hajam sido entregues no prazo e no local devidos, nos termos dos números anteriores.\n\n4 - As decisões sobre as reclamações que não hajam sido liminarmente rejeitadas, nos termos do número anterior, são notificadas aos reclamantes através de carta registada com aviso de recepção."
+  },
+  "184383214": {
+   "fragment_id": "184384910",
+   "type": 11,
+   "heading": "Artigo 20.º — Matrícula e inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Matrícula e inscrição\n\n1 - Os candidatos colocados têm direito a proceder à matrícula e inscrição no prazo fixado nos termos do artigo 23.º\n\n2 - A colocação apenas tem efeito para o ano lectivo a que se refere, pelo que o direito à matrícula e inscrição no curso em que o candidato foi colocado caduca com o seu não exercício dentro do prazo fixado."
+  },
+  "184383215": {
+   "fragment_id": "184384911",
+   "type": 11,
+   "heading": "Artigo 21.º — Exclusão de candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Exclusão de candidatos\n\n1 - Há lugar a exclusão do concurso, a todo o tempo, dos candidatos que:\n\na) Prestem falsas declarações;\n\nb) Actuem no decurso das provas de maneira fraudulenta que implique o desvirtuamento dos objectivos daquelas.\n\n2 - A decisão a que se refere o número anterior é da competência do conselho directivo da Escola Superior de Educação de Coimbra."
+  },
+  "184383216": {
+   "fragment_id": "184384912",
+   "type": 11,
+   "heading": "Artigo 22.º — Comunicação à Direcção-Geral do Ensino Superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Comunicação à Direcção-Geral do Ensino Superior\n\nFindo o prazo de matrícula e inscrição, a Escola Superior de Educação de Coimbra envia à Direcção-Geral do Ensino Superior uma lista onde constem todos os estudantes que procederam à mesma, com indicação do nome e número do bilhete de identidade."
+  },
+  "184383217": {
+   "fragment_id": "184384913",
+   "type": 11,
+   "heading": "Artigo 23.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Prazos\n\nOs prazos em que devem ser praticados os actos previstos no presente Regulamento são fixados pelo conselho directivo da Escola Superior de Educação de Coimbra, devendo ser tornados públicos, quer através de aviso afixado na própria Escola, quer por meio da sua inclusão no guia do candidato."
+  },
+  "184383218": {
+   "fragment_id": "184384914",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro da Educação, José Joaquim Dinis Reis, Secretário de Estado do Ensino Superior, em 1 de Setembro de 2000."
+  },
+  "184383219": {
+   "fragment_id": "184384915",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DO CONCURSO LOCAL PARA A MATRÍCULA E INSCRIÇÃO NO CURSO BIETÁPICO DE LICENCIATURA EM TEATRO E EDUCAÇÃO MINISTRADO PELA ESCOLA SUPERIOR DE EDUCAÇÃO DE COIMBRA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DO CONCURSO LOCAL PARA A MATRÍCULA E INSCRIÇÃO NO CURSO BIETÁPICO DE LICENCIATURA EM TEATRO E EDUCAÇÃO MINISTRADO PELA ESCOLA SUPERIOR DE EDUCAÇÃO DE COIMBRA"
+  },
+  "184383251": {
+   "fragment_id": "184384891",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": "2022-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\nO presente Regulamento disciplina o concurso local para a matrícula e a inscrição no curso de licenciatura em Teatro e Educação, ministrado pela Escola Superior de Educação do Instituto Politécnico de Coimbra, adiante designados como ESEC e IPC.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+  },
+  "184383252": {
+   "fragment_id": "184384892",
+   "type": 11,
+   "heading": "Artigo 2.º — Avaliação da capacidade para a frequência",
+   "in_force_from": "2022-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+   ],
+   "markdown": "###### Artigo 2.º — Avaliação da capacidade para a frequência\n\n1 - A avaliação da capacidade para a frequência do curso é efectuada através da realização de uma prova de ingresso e de uma prova de aptidão vocacional específica.\n\n2 - A prova de ingresso é fixada nos termos do artigo 20.º do Decreto-Lei n.º 296-A/98, de 25 de setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de março, 26/2003, de 7 de fevereiro, 76/2004, de 27 de março, 158/2004, de 30 de junho, 147-A/2006, de 31 de julho, 40/2007, de 20 de fevereiro, 45/2007, de 23 de fevereiro, 90/2008, de 30 de maio, retificado pela Declaração de Retificação n.º 32-C/2008, de 16 de junho, e 11/2020, de 2 de abril.\n\n3 - A prova de aptidão vocacional específica compreende as seguintes componentes:\n\nA - Improvisação a partir de temas sugeridos pelo júri, visando avaliar a capacidade do candidato para responder, sem preparação prévia, a propostas de jogo teatral, a sua capacidade de relacionamento com os outros, com o espaço e com os objetos, a imaginação, a capacidade de transformar o real em ficção;\n\nB - Apresentação de uma cena dialogada (diálogo), selecionada pelo júri, visando avaliar a forma como o candidato aborda a personagem, o domínio do texto, a sua capacidade vocal, a expressividade corporal, a verdade interior e a contracena;\n\nC - Apresentação de um monólogo, selecionado pelo júri, visando avaliar a forma como o candidato aborda a personagem, o domínio do texto, a capacidade vocal, a expressividade corporal e a verdade interior;\n\nD - Entrevista em que será avaliada a cultura teatral do candidato a partir de questões dramatúrgicas suscitadas quer pelo(s) texto(s) selecionado(s) pelo júri para a prova prática quer pela restante bibliografia recomendada.\n\n4 - Os domínios sobre os quais incidem as provas serão divulgados em edital a que se refere o artigo 11.º\n\n5 - Os resultados das provas exprimem-se através de uma classificação na escala inteira de 0 a 200 pontos.\n\n6 - O resultado da prova de aptidão vocacional específica é expresso em:\n\na) Não apto; ou\n\nb) Apto, com uma classificação inteira no intervalo 100-200 pontos.\n\n7 - O idioma falado na prova específica é o português.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+  },
+  "184383270": {
+   "fragment_id": "184384952",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Classificação final da prova de aptidão vocacional específica",
+   "in_force_from": "2022-06-04",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+   ],
+   "markdown": "###### Artigo 2.º-A — Classificação final da prova de aptidão vocacional específica\n\nO resultado da avaliação de capacidade para a frequência do curso é o resultante do cálculo da seguinte expressão, arredondada às unidades, considerando como unidade a fração não inferior a cinco décimas:\n\nProva de aptidão vocacional específica = (A + B + C + D)/4\n\nem que:\n\nA = Improvisação;\n\nB = Diálogo;\n\nC = Monólogo;\n\nD = Entrevista.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+  },
+  "184383271": {
+   "fragment_id": "184384893",
+   "type": 11,
+   "heading": "Artigo 3.º — Validade das provas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Validade das provas\n\nAs provas são válidas apenas para a candidatura à matrícula e inscrição no ano em que se realizam."
+  },
+  "184383272": {
+   "fragment_id": "184384894",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições para a candidatura",
+   "in_force_from": "2022-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+   ],
+   "markdown": "###### Artigo 4.º — Condições para a candidatura\n\n1 - Podem apresentar-se a concurso os candidatos que reúnam as seguintes condições:\n\na) Sejam titulares de um curso do ensino secundário ou de habilitação legalmente equivalente;\n\nb) Tenham realizado, com classificação não inferior a 9,5 (nove vírgula cinco) valores, uma das seguintes provas de ingresso ao ensino superior: 12 - História da Cultura e Artes ou 15 - Literatura Portuguesa ou 18 - Português;\n\nc) Tenham sido considerados Aptos na prova de aptidão vocacional específica.\n\n2 - Excluem-se do disposto no número anterior os titulares de outros cursos superiores, os titulares das provas destinadas a avaliar a capacidade para a frequência do ensino superior dos maiores de 23 anos, os titulares de diploma de especialização tecnológica, os titulares de diploma de técnico superior profissional e os titulares de dupla certificação do ensino secundário e cursos artísticos especializados, cujas condições de candidatura se regem pelos regulamentos próprios dos respetivos regimes.\n\n3 - Podem igualmente apresentar-se ao concurso os candidatos que, embora não sendo titulares de uma das habilitações a que se refere o número anterior, já tenham estado, ou estejam, legalmente matriculados e inscritos em estabelecimento e curso de ensino superior.\n\n4 - Poderão ser dispensados da prestação de provas de admissão nas componentes de improvisação, diálogo e monólogo (componentes A, B e C) os candidatos que possuam habilitação ao nível do curso complementar ou profissional (nível iv) do ensino específico de Teatro. Os candidatos que reúnam estas condições terão de efetuar a entrevista (componente D) e apresentar atempadamente prova documental das suas habilitações. A classificação obtida, comprovada por via documental, será usada nas componentes A, B e C para a obtenção da classificação final da avaliação de capacidade para a frequência do curso.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+  },
+  "184383273": {
+   "fragment_id": "184384895",
+   "type": 11,
+   "heading": "Artigo 5.º — Vagas",
+   "in_force_from": "2022-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+   ],
+   "markdown": "###### Artigo 5.º — Vagas\n\nA matrícula e inscrição no curso está sujeita a limitações quantitativas fixadas nos termos do artigo 4.º do Decreto-Lei n.º 296-A/98, de 25 de setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de março, 26/2003, de 7 de fevereiro, 76/2004, de 27 de março, 158/2004, de 30 de junho, 147-A/2006, de 31 de julho, 40/2007, de 20 de fevereiro, 45/2007, de 23 de fevereiro, 90/2008, de 30 de maio, retificado pela Declaração de Retificação n.º 32-C/2008, de 16 de junho, e 11/2020, de 2 de abril.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+  },
+  "184383274": {
+   "fragment_id": "184384896",
+   "type": 11,
+   "heading": "Artigo 6.º — Local e prazo de apresentação da candidatura",
+   "in_force_from": "2022-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+   ],
+   "markdown": "###### Artigo 6.º — Local e prazo de apresentação da candidatura\n\n1 - A candidatura é apresentada online na plataforma académica da ESEC.\n\n2 - O prazo para a realização da candidatura é fixado nos termos do artigo 11.º do presente Regulamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+  },
+  "184414075": {
+   "fragment_id": "184384897",
+   "type": 11,
+   "heading": "Artigo 7.º — Apresentação da candidatura",
+   "in_force_from": "2022-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+   ],
+   "markdown": "###### Artigo 7.º — Apresentação da candidatura\n\nTêm legitimidade para efectuar a apresentação da candidatura:\n\na) O estudante;\n\nb) Um seu procurador bastante;\n\nc) Sendo o estudante menor, a pessoa que demonstre exercer o poder paternal ou tutelar.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+  },
+  "184414076": {
+   "fragment_id": "184384898",
+   "type": 11,
+   "heading": "Artigo 8.º — Instrução do processo de candidatura",
+   "in_force_from": "2022-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+   ],
+   "markdown": "###### Artigo 8.º — Instrução do processo de candidatura\n\n1 - O processo de candidatura é instruído com:\n\na) Requerimento de candidatura, apresentado online na plataforma académica da ESEC;\n\nb) Certificado comprovativo da titularidade da habilitação de acesso com que se candidata (ficha ENES);\n\nc) Apresentação de documento de identificação do candidato;\n\nd) Outros documentos eventualmente referidos no edital a que se refere o artigo 11.º\n\n2 - O certificado referido na alínea b) do n.º 1 pode ser temporariamente substituído por declaração do candidato, comprometendo-se a apresentá-lo até cinco dias úteis antes da data marcada para a publicação do aviso com os resultados finais do concurso, sob pena de indeferimento liminar do pedido.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+  },
+  "184414077": {
+   "fragment_id": "184384899",
+   "type": 11,
+   "heading": "Artigo 9.º — Indeferimento liminar",
+   "in_force_from": "2022-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+   ],
+   "markdown": "###### Artigo 9.º — Indeferimento liminar\n\n1 - São liminarmente indeferidos os requerimentos dos candidatos que, embora reunindo as condições necessárias à candidatura ao curso, se encontrem numa das seguintes condições:\n\na) Não estejam corretamente formulados nos termos do artigo anterior;\n\nb) Sejam apresentados fora de prazo;\n\nc) Não estejam acompanhados da documentação necessária à sua completa instrução;\n\nd) Expressamente infrinjam alguma das regras fixadas no presente Regulamento.\n\n2 - O indeferimento liminar nos termos do número anterior é da competência do presidente da ESEC e deve ser fundamentado.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+  },
+  "184414078": {
+   "fragment_id": "184384900",
+   "type": 11,
+   "heading": "Artigo 10.º — Júri da prova de aptidão vocacional específica",
+   "in_force_from": "2022-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+   ],
+   "markdown": "###### Artigo 10.º — Júri da prova de aptidão vocacional específica\n\n1 - A organização da prova de aptidão vocacional específica é da competência de um júri designado pelo presidente da ESEC, ouvido o Conselho Técnico-Científico.\n\n2 - O júri da prova de aptidão vocacional específica será constituído por docentes da licenciatura em Teatro e Educação da área disciplinar de Teatro, em número mínimo de três elementos, e por dois docentes desta licenciatura de unidades curriculares das áreas de Corpo e Voz, sendo o presidente do júri nomeado pelo presidente da ESEC.\n\n3 - Compete ao júri, nomeadamente:\n\na) Fixar os conteúdos da prova;\n\nb) Fixar os critérios de avaliação a adotar;\n\nc) Garantir a normal execução das provas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+  },
+  "184414079": {
+   "fragment_id": "184384901",
+   "type": 11,
+   "heading": "Artigo 11.º — Edital",
+   "in_force_from": "2022-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+   ],
+   "markdown": "###### Artigo 11.º — Edital\n\n1 - Até 30 dias antes da realização da prova de aptidão vocacional específica, o presidente da ESEC promoverá a divulgação de edital indicando, designadamente:\n\na) O prazo para a realização da inscrição na prova vocacional;\n\nb) Os domínios sobre os quais incidirá a prova;\n\nc) Os critérios de avaliação a adotar;\n\nd) O prazo para a realização da candidatura ao concurso local;\n\ne) As classificações mínimas a que se refere o artigo 12.º;\n\nf) Os fatores de seriação a que se refere o artigo 13.º\n\n2 - O edital referido no número anterior será divulgado na página web da ESEC e/ou em outros locais ou suportes eletrónicos julgados convenientes, em conformidade com as normas vigentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+  },
+  "184414080": {
+   "fragment_id": "184384902",
+   "type": 11,
+   "heading": "Artigo 12.º — Selecção",
+   "in_force_from": "2022-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+   ],
+   "markdown": "###### Artigo 12.º — Selecção\n\n1 - A selecção dos candidatos ao curso é realizada com base:\n\na) Na prova de ingresso ao ensino superior, onde deve ser obtida uma classificação mínima (igual ou superior a 95 pontos);\n\nb) Na prova de aptidão vocacional específica, onde deve ser obtido o resultado de Apto, conforme o previsto na alínea b) do n.º 6 do artigo 2.º do presente Regulamento;\n\nc) Na classificação final da prova de aptidão vocacional específica a que se refere o artigo 2.º-A, onde deve ser obtido um resultado mínimo de 100 pontos;\n\nd) Na classificação do ensino secundário.\n\n2 - As classificações mínimas a que se referem as alíneas a) e c) do número anterior são fixadas nos termos do artigo 25.º do Decreto-Lei n.º 296-A/98.\n\n3 - A divulgação pública da seleção será feita nos prazos fixados nos termos do artigo 23.º do presente Regulamento, em lista afixada na plataforma ESEC, conforme definido no n.º 2 do artigo 18.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+  },
+  "184414081": {
+   "fragment_id": "184384903",
+   "type": 11,
+   "heading": "Artigo 13.º — Seriação",
+   "in_force_from": "2022-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+   ],
+   "markdown": "###### Artigo 13.º — Seriação\n\n1 - A seriação dos candidatos à matrícula e inscrição no curso é realizada com base numa nota de candidatura.\n\n2 - A nota de candidatura é a média aritmética arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas) das classificações obtidas na prova de aptidão vocacional específica, na prova de ingresso e na classificação final do curso do ensino secundário, ponderadas da seguinte forma:\n\n[(4 x E) + I + S]/6\n\nem que:\n\nE = Classificação final da prova de aptidão vocacional específica a que se refere o artigo 2.º-A;\n\nI = Classificação final da prova de ingresso ao ensino superior com que se candidata, a que se refere a alínea b) do n.º 1 do artigo 4.º do presente Regulamento;\n\nS = Classificação final do ensino secundário.\n\n3 - As classificações referidas no número anterior devem ser consideradas numa escala de 0 a 200 pontos, para o que, caso necessário, devem efetuar-se as devidas conversões.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+  },
+  "184414082": {
+   "fragment_id": "184384904",
+   "type": 11,
+   "heading": "Artigo 14.º — Colocação",
+   "in_force_from": "2022-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+   ],
+   "markdown": "###### Artigo 14.º — Colocação\n\nA colocação dos candidatos nas vagas fixadas é feita pela ordem numérica decrescente da lista seriada elaborada nos termos do artigo anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+  },
+  "184414083": {
+   "fragment_id": "184384905",
+   "type": 11,
+   "heading": "Artigo 15.º — Desempate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Desempate\n\nSempre que dois ou mais candidatos em situação de empate, resultante da aplicação do critério de seriação a que se refere o artigo 13.º, disputem a última vaga ou o último conjunto de vagas do curso, são abertas tantas vagas adicionais quanto as necessárias para os admitir."
+  },
+  "184414084": {
+   "fragment_id": "184384906",
+   "type": 11,
+   "heading": "Artigo 16.º — Competência",
+   "in_force_from": "2022-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+   ],
+   "markdown": "###### Artigo 16.º — Competência\n\nAs decisões sobre a candidatura a que se refere o presente Regulamento são da competência do presidente da ESEC.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+  },
+  "184414085": {
+   "fragment_id": "184384907",
+   "type": 11,
+   "heading": "Artigo 17.º — Resultado final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Resultado final\n\nO resultado final exprime-se através de uma das seguintes situações:\n\na) Colocado;\n\nb) Não colocado;\n\nc) Excluído."
+  },
+  "184414086": {
+   "fragment_id": "184384908",
+   "type": 11,
+   "heading": "Artigo 18.º — Comunicação da decisão",
+   "in_force_from": "2022-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+   ],
+   "markdown": "###### Artigo 18.º — Comunicação da decisão\n\n1 - O resultado final é tornado público na plataforma da ESEC no prazo previamente fixado nos termos do artigo 23.º do presente Regulamento.\n\n2 - Das listas afixadas constam, relativamente a cada estudante que se tenha apresentado a concurso:\n\na) Nome;\n\nb) Número e local de emissão do bilhete de identidade;\n\nc) Nota de candidatura a que se refere o artigo 13.º;\n\nd) Resultado final.\n\n3 - A menção da situação de excluído carece de ser acompanhada da respectiva fundamentação legal.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+  },
+  "184414087": {
+   "fragment_id": "184384909",
+   "type": 11,
+   "heading": "Artigo 19.º — Reclamações",
+   "in_force_from": "2022-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+   ],
+   "markdown": "###### Artigo 19.º — Reclamações\n\n1 - Os candidatos podem apresentar reclamação fundamentada relativamente:\n\na) A qualquer dos momentos de avaliação no âmbito da realização da prova de aptidão vocacional específica;\n\nb) À classificação final obtida no âmbito do processo de seleção e seriação do concurso local de acesso.\n\n2 - Do desenrolar da prova de aptidão específica e conforme descrito na alínea a) no número anterior, podem os candidatos apresentar reclamação fundamentada no prazo fixado nos termos do artigo 23.º, mediante exposição dirigida ao júri das provas do concurso local de acesso.\n\n3 - A reclamação é submetida na plataforma académica, por requerimento.\n\n4 - São liminarmente rejeitadas as reclamações não fundamentadas, bem como as que não hajam sido entregues no prazo e no local devidos, nos termos dos números anteriores.\n\n5 - As decisões sobre as reclamações que não hajam sido liminarmente rejeitadas, nos termos do número anterior, são notificadas aos reclamantes através da plataforma académica.\n\n6 - Ao procedimento relativo à apresentação e decisão de reclamações é aplicável o regime do Código do Procedimento Administrativo.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+  },
+  "184414088": {
+   "fragment_id": "184384910",
+   "type": 11,
+   "heading": "Artigo 20.º — Matrícula e inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Matrícula e inscrição\n\n1 - Os candidatos colocados têm direito a proceder à matrícula e inscrição no prazo fixado nos termos do artigo 23.º\n\n2 - A colocação apenas tem efeito para o ano lectivo a que se refere, pelo que o direito à matrícula e inscrição no curso em que o candidato foi colocado caduca com o seu não exercício dentro do prazo fixado."
+  },
+  "184414089": {
+   "fragment_id": "184384911",
+   "type": 11,
+   "heading": "Artigo 21.º — Exclusão de candidatos",
+   "in_force_from": "2022-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+   ],
+   "markdown": "###### Artigo 21.º — Exclusão de candidatos\n\n1 - Há lugar a exclusão do concurso, a todo o tempo, dos candidatos que:\n\na) Prestem falsas declarações;\n\nb) Actuem no decurso das provas de maneira fraudulenta que implique o desvirtuamento dos objectivos daquelas.\n\n2 - A decisão a que se refere o número anterior é da competência do presidente da ESEC.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+  },
+  "184414090": {
+   "fragment_id": "184384912",
+   "type": 11,
+   "heading": "Artigo 22.º — Comunicação à Direção-Geral do Ensino Superior",
+   "in_force_from": "2022-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+   ],
+   "markdown": "###### Artigo 22.º — Comunicação à Direção-Geral do Ensino Superior\n\nFindo o prazo de matrícula e inscrição, a ESEC/IPC enviará à Direção-Geral do Ensino Superior uma lista onde constem todos os estudantes que procederam à mesma, com indicação do nome e número do documento de identificação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+  },
+  "184414091": {
+   "fragment_id": "184384913",
+   "type": 11,
+   "heading": "Artigo 23.º — Prazos",
+   "in_force_from": "2022-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+   ],
+   "markdown": "###### Artigo 23.º — Prazos\n\nOs prazos em que devem ser praticados os atos previstos no presente Regulamento são fixados pelo presidente da ESEC em edital, devendo ser tornados públicos de acordo com os procedimentos e normas em uso.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+  },
+  "912381810": {
+   "fragment_id": "912381714",
+   "type": 11,
+   "heading": "1.º — Autorização para a realização de concurso local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º — Autorização para a realização de concurso local\n\nÉ autorizada a candidatura à matrícula e inscrição no curso bietápico de licenciatura em Teatro e Educação ministrado pela Escola Superior de Educação de Coimbra através de concurso local."
+  },
+  "912381811": {
+   "fragment_id": "912381716",
+   "type": 11,
+   "heading": "2.º — Aprovação do Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º — Aprovação do Regulamento\n\n1 - É aprovado o Regulamento do Concurso Local para a Matrícula e Inscrição no Curso Bietápico de Licenciatura em Teatro e Educação Ministrado pela Escola Superior de Educação de Coimbra, cujo texto se publica em anexo a esta portaria.\n\n2 - O texto referido no número anterior considera-se, para todos os efeitos legais, como fazendo parte integrante da presente portaria."
+  },
+  "912381812": {
+   "fragment_id": "912381717",
+   "type": 11,
+   "heading": "3.º — Alterações ao Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º — Alterações ao Regulamento\n\nTodas as alterações ao Regulamento são nele incorporadas através de nova redacção dos seus artigos ou de aditamento de novos artigos."
+  },
+  "912381813": {
+   "fragment_id": "912381718",
+   "type": 11,
+   "heading": "4.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º — Aplicação\n\nO disposto na presente portaria aplica-se a partir da candidatura à matrícula e inscrição no ano lectivo de 2000-2001 inclusive."
+  },
+  "912381814": {
+   "fragment_id": "912381719",
+   "type": 11,
+   "heading": "5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º — Entrada em vigor\n\nEsta portaria entra em vigor no dia imediato ao da sua publicação."
+  },
+  "912381821": {
+   "fragment_id": "184384892",
+   "type": 11,
+   "heading": "Artigo 2.º — Avaliação da capacidade para a frequência",
+   "in_force_from": "2025-03-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343), em vigor a partir de 2025-03-26",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+   ],
+   "markdown": "###### Artigo 2.º — Avaliação da capacidade para a frequência\n\n1 - A avaliação da capacidade para a frequência do curso é efetuada através da realização das provas de ingresso e de uma prova de aptidão vocacional específica.\n\n2 - As provas de ingresso são fixadas nos termos do artigo 20.º do Decreto-Lei n.º 296-A/98, de 25 de setembro, na sua redação atual.\n\n3 - A prova de aptidão vocacional específica compreende as seguintes componentes:\n\nA - Improvisação a partir de temas sugeridos pelo júri, visando avaliar a capacidade do candidato para responder, sem preparação prévia, a propostas de jogo teatral, a sua capacidade de relacionamento com os outros, com o espaço e com os objetos, a imaginação, a capacidade de transformar o real em ficção;\n\nB - Apresentação de uma cena dialogada (diálogo), selecionada pelo júri, visando avaliar a forma como o candidato aborda a personagem, o domínio do texto, a sua capacidade vocal, a expressividade corporal, a verdade interior e a contracena;\n\nC - Apresentação de um monólogo, selecionado pelo júri, visando avaliar a forma como o candidato aborda a personagem, o domínio do texto, a capacidade vocal, a expressividade corporal e a verdade interior;\n\nD - Entrevista em que será avaliada a cultura teatral do candidato a partir de questões dramatúrgicas suscitadas quer pelo(s) texto(s) selecionado(s) pelo júri para a prova prática quer pela restante bibliografia recomendada.\n\n4 - Os domínios sobre os quais incidem as provas serão divulgados em edital a que se refere o artigo 11.º\n\n5 - Os resultados das provas exprimem-se através de uma classificação na escala inteira de 0 a 200 pontos.\n\n6 - O resultado da prova de aptidão vocacional específica é expresso em:\n\na) Não apto; ou\n\nb) Apto, com uma classificação inteira no intervalo 100-200 pontos.\n\n7 - O idioma falado na prova específica é o português.\n\n> Nota: [Artigo 4.º, Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343) As alterações introduzidas pela Portaria n.º 129/2025/1, de 25 de março ao presente artigo produzem efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343), em vigor a partir de 2025-03-26\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+  },
+  "912381822": {
+   "fragment_id": "184384893",
+   "type": 11,
+   "heading": "Artigo 3.º — Validade das provas",
+   "in_force_from": "2025-03-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343), em vigor a partir de 2025-03-26"
+   ],
+   "markdown": "###### Artigo 3.º — Validade das provas\n\nA prova de aptidão vocacional específica é válida apenas para a candidatura à matrícula e à inscrição no ano em que se realiza.\n\n> Nota: [Artigo 4.º, Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343) As alterações introduzidas pela Portaria n.º 129/2025/1, de 25 de março ao presente artigo produzem efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343), em vigor a partir de 2025-03-26"
+  },
+  "912381823": {
+   "fragment_id": "184384894",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições para a candidatura",
+   "in_force_from": "2025-03-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343), em vigor a partir de 2025-03-26",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+   ],
+   "markdown": "###### Artigo 4.º — Condições para a candidatura\n\n1 - Podem apresentar-se a concurso os candidatos que reúnam as seguintes condições:\n\na) Sejam titulares de um curso do ensino secundário ou de habilitação legalmente equivalente;\n\nb) Tenham realizado, com classificação não inferior a 9,5 valores em cada prova, um dos seguintes conjuntos das provas de ingresso ao ensino superior: (12) História da Cultura e das Artes + (18) Português, (11) História + (18) Português, (03) Desenho + (18) Português, (16) Matemática + (18) Português, (06) Filosofia + (18) Português, (10) Geometria Descritiva + (15) Literatura Portuguesa;\n\nc) Tenham sido considerados Aptos na prova de aptidão vocacional específica.\n\n2 - Excluem-se do disposto no número anterior os titulares de outros cursos superiores, os titulares das provas destinadas a avaliar a capacidade para a frequência do ensino superior dos maiores de 23 anos, os titulares de diploma de especialização tecnológica, os titulares de diploma de técnico superior profissional e os titulares de dupla certificação do ensino secundário e cursos artísticos especializados, cujas condições de candidatura se regem pelos regulamentos próprios dos respetivos regimes.\n\n3 - Podem igualmente apresentar-se ao concurso os candidatos que, embora não sendo titulares de uma das habilitações a que se refere o número anterior, já tenham estado, ou estejam, legalmente matriculados e inscritos em estabelecimento e curso de ensino superior.\n\n4 - (Revogado.)\n\n> Nota: [Artigo 4.º, Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343) As alterações introduzidas pela Portaria n.º 129/2025/1, de 25 de março ao presente artigo produzem efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343), em vigor a partir de 2025-03-26\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+  },
+  "912381824": {
+   "fragment_id": "184384895",
+   "type": 11,
+   "heading": "Artigo 5.º — Vagas",
+   "in_force_from": "2025-03-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343), em vigor a partir de 2025-03-26",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+   ],
+   "markdown": "###### Artigo 5.º — Vagas\n\nA matrícula e inscrição no curso está sujeita a limitações quantitativas fixadas nos termos do artigo 4.º do Decreto-Lei n.º 296-A/98, de 25 de setembro, na sua redação atual.\n\n> Nota: [Artigo 4.º, Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343) As alterações introduzidas pela Portaria n.º 129/2025/1, de 25 de março ao presente artigo produzem efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343), em vigor a partir de 2025-03-26\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+  },
+  "912381825": {
+   "fragment_id": "184384902",
+   "type": 11,
+   "heading": "Artigo 12.º — Selecção",
+   "in_force_from": "2025-03-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343), em vigor a partir de 2025-03-26",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+   ],
+   "markdown": "###### Artigo 12.º — Selecção\n\n1 - A selecção dos candidatos ao curso é realizada com base:\n\na) Nas provas de ingresso ao ensino superior, onde deve ser obtida uma classificação mínima (igual ou superior a 95 pontos);\n\nb) Na prova de aptidão vocacional específica, onde deve ser obtido o resultado de Apto, conforme o previsto na alínea b) do n.º 6 do artigo 2.º do presente Regulamento;\n\nc) Na classificação final da prova de aptidão vocacional específica a que se refere o artigo 2.º-A, onde deve ser obtido um resultado mínimo de 100 pontos;\n\nd) Na classificação do ensino secundário.\n\n2 - As classificações mínimas a que se referem as alíneas a) e c) do número anterior são fixadas nos termos do artigo 25.º do Decreto-Lei n.º 296-A/98.\n\n3 - A divulgação pública da seleção será feita nos prazos fixados nos termos do artigo 23.º do presente Regulamento, em lista afixada na plataforma ESEC, conforme definido no n.º 2 do artigo 18.º\n\n> Nota: [Artigo 4.º, Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343) As alterações introduzidas pela Portaria n.º 129/2025/1, de 25 de março ao presente artigo produzem efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343), em vigor a partir de 2025-03-26\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+  },
+  "912381826": {
+   "fragment_id": "184384903",
+   "type": 11,
+   "heading": "Artigo 13.º — Seriação",
+   "in_force_from": "2025-03-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343), em vigor a partir de 2025-03-26",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+   ],
+   "markdown": "###### Artigo 13.º — Seriação\n\n1 - A seriação dos candidatos à matrícula e inscrição no curso é realizada com base numa nota de candidatura.\n\n2 - A nota de candidatura é a média das classificações obtidas na prova de aptidão vocacional específica, nas provas de ingresso e na classificação final do ensino secundário, ponderadas da seguinte forma:\n\n[(4 × E) + I + S]/6\n\nem que:\n\nE = Classificação final da prova de aptidão vocacional específica a que se refere o artigo 2.º-A;\n\nI = Classificação final das provas de ingresso ao ensino superior com que se candidata, a que se refere a alínea b) do n.º 1 do artigo 4.º;\n\nS = Classificação final do ensino secundário.\n\n3 - As classificações referidas no número anterior devem ser consideradas numa escala de 0 a 200 pontos, para o que, caso necessário, devem efetuar-se as devidas conversões.\n\n> Nota: [Artigo 4.º, Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343) As alterações introduzidas pela Portaria n.º 129/2025/1, de 25 de março ao presente artigo produzem efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343), em vigor a partir de 2025-03-26\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04"
+  }
+ }
+}

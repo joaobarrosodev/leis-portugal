@@ -1,0 +1,82 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:258498:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2013-66463188",
+ "dre_path": "/dr/detalhe/lei/19-2013-258498",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-02-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "66459833",
+    "66459834",
+    "66459835",
+    "66459836",
+    "66459837",
+    "66459838",
+    "66459839"
+   ]
+  }
+ ],
+ "fragments": {
+  "66459833": {
+   "fragment_id": "66463189",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 19/2013\n\nde 21 de fevereiro\n\n29.ª alteração ao Código Penal, aprovado pelo Decreto-Lei n.º 400/82, de 23 de setembro, e primeira alteração à Lei n.º 112/2009, de 16 de setembro, que estabelece o regime jurídico aplicável à prevenção da violência doméstica, à proteção e à assistência das suas vítimas.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "66459834": {
+   "fragment_id": "66463190",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei altera o Código Penal, aprovado pelo Decreto-Lei n.º 400/82, de 23 de setembro, e alterado pela Lei n.º 6/84, de 11 de maio, pelos Decretos-Leis n.os 101-A/88, de 26 de março, 132/93, de 23 de abril, e 48/95, de 15 de março, pelas Leis n.os 90/97, de 30 de julho, 65/98, de 2 de setembro, 7/2000, de 27 de maio, 77/2001, de 13 de julho, 97/2001, 98/2001, 99/2001 e 100/2001, de 25 de agosto, e 108/2001, de 28 de novembro, pelos Decretos-Leis n.os 323/2001, de 17 de dezembro, e 38/2003, de 8 de março, pelas Leis n.os 52/2003, de 22 de agosto, e 100/2003, de 15 de novembro, pelo Decreto-Lei n.º 53/2004, de 18 de março, e pelas Leis n.os 11/2004, de 27 de março, 31/2004, de 22 de julho, 5/2006, de 23 de fevereiro, 16/2007, de 17 de abril, 59/2007, de 4 de setembro, 61/2008, de 31 de outubro, 32/2010, de 2 de setembro, 40/2010, de 3 de setembro, 4/2011, de 16 de fevereiro, e 56/2011, de 15 de novembro, e a Lei n.º 112/2009, de 16 de setembro."
+  },
+  "66459835": {
+   "fragment_id": "66463191",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Código Penal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Código Penal\n\nOs artigos 69.º, 120.º, 132.º, 152.º, 204.º, 207.º, 213.º, 224.º, 231.º, 240.º, 347.º e 359.º do Código Penal passam a ter a seguinte redação:\n\n«Artigo 69.º\n\n[...]\n\n1 - ...\n\na) Por crimes de homicídio ou de ofensa à integridade física cometidos no exercício da condução de veículo motorizado com violação das regras de trânsito rodoviário e por crimes previstos nos artigos 291.º e 292.º;\n\nb) ...\n\nc) ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - Cessa o disposto no n.º 1 quando, pelo mesmo facto, tiver lugar a aplicação de cassação ou de interdição da concessão do título de condução nos termos do artigo 101.º\n\nArtigo 120.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) A sentença condenatória, após notificação ao arguido, não transitar em julgado;\n\nf) [Anterior alínea e).]\n\n2 - ...\n\n3 - No caso previsto na alínea c) do n.º 1 a suspensão não pode ultrapassar o prazo normal de prescrição.\n\n4 - No caso previsto na alínea e) do n.º 1 a suspensão não pode ultrapassar 5 anos, elevando-se para 10 anos no caso de ter sido declarada a excecional complexidade do processo.\n\n5 - Os prazos a que alude o número anterior são elevados para o dobro se tiver havido recurso para o Tribunal Constitucional.\n\n6 - (Anterior n.º 3.)\n\nArtigo 132.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) Ser determinado por ódio racial, religioso, político ou gerado pela cor, origem étnica ou nacional, pelo sexo, pela orientação sexual ou pela identidade de género da vítima;\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nl) ...\n\nm) ...\n\nArtigo 152.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) A pessoa de outro ou do mesmo sexo com quem o agente mantenha ou tenha mantido uma relação de namoro ou uma relação análoga à dos cônjuges, ainda que sem coabitação;\n\nc) ...\n\nd) A pessoa particularmente indefesa, nomeadamente em razão da idade, deficiência, doença, gravidez ou dependência económica, que com ele coabite;\n\n...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - A pena acessória de proibição de contacto com a vítima deve incluir o afastamento da residência ou do local de trabalho desta e o seu cumprimento deve ser fiscalizado por meios técnicos de controlo à distância.\n\n6 - ...\n\nArtigo 204.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) Impedindo ou perturbando, por qualquer forma, a exploração de serviços de comunicações ou de fornecimento ao público de água, luz, energia, calor, óleo, gasolina ou gás;\n\n...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\nArtigo 207.º\n\n[...]\n\n1 - (Anterior corpo e alíneas.)\n\n2 - No caso do artigo 203.º, o procedimento criminal depende de acusação particular quando a conduta ocorrer em estabelecimento comercial, durante o período de abertura ao público, relativamente à subtração de coisas móveis expostas de valor diminuto e desde que tenha havido recuperação imediata destas, salvo quando cometida por duas ou mais pessoas.\n\nArtigo 213.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - É correspondentemente aplicável o disposto nos n.os 3 e 4 do artigo 204.º e 2 e 3 do artigo 206.º e na alínea a) do n.º 1 do artigo 207.º\n\n4 - ...\n\nArtigo 224.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - É correspondentemente aplicável o disposto nos n.os 2 e 3 do artigo 206.º e na alínea a) do n.º 1 do artigo 207.º\n\nArtigo 231.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\na) ...\n\nb) Na alínea a) do n.º 1 do artigo 207.º, se a relação familiar interceder entre o recetador e a vítima do facto ilícito típico contra o património.\n\n4 - ...\n\nArtigo 240.º\n\n[...]\n\n1 - ...\n\na) Fundar ou constituir organização ou desenvolver atividades de propaganda organizada que incitem à discriminação, ao ódio ou à violência contra pessoa ou grupo de pessoas por causa da sua raça, cor, origem étnica ou nacional, religião, sexo, orientação sexual ou identidade de género, ou que a encorajem; ou\n\nb) ...\n\n...\n\n2 - ...\n\na) Provocar atos de violência contra pessoa ou grupo de pessoas por causa da sua raça, cor, origem étnica ou nacional, religião, sexo, orientação sexual ou identidade de género; ou\n\nb) Difamar ou injuriar pessoa ou grupo de pessoas por causa da sua raça, cor, origem étnica ou nacional, religião, sexo, orientação sexual ou identidade de género, nomeadamente através da negação de crimes de guerra ou contra a paz e a humanidade; ou\n\nc) Ameaçar pessoa ou grupo de pessoas por causa da sua raça, cor, origem étnica ou nacional, religião, sexo, orientação sexual ou identidade de género;\n\n...\n\nArtigo 347.º\n\n[...]\n\n1 - Quem empregar violência, incluindo ameaça grave ou ofensa à integridade física, contra funcionário ou membro das Forças Armadas, militarizadas ou de segurança, para se opor a que ele pratique ato relativo ao exercício das suas funções, ou para o constranger a que pratique ato relativo ao exercício das suas funções, mas contrário aos seus deveres, é punido com pena de prisão de um a cinco anos.\n\n2 - ...\n\nArtigo 359.º\n\n[...]\n\n1 - ...\n\n2 - Na mesma pena incorrem o assistente e as partes civis relativamente a declarações que prestarem em processo penal, bem como o arguido relativamente a declarações sobre a sua identidade.»"
+  },
+  "66459836": {
+   "fragment_id": "66463192",
+   "type": 11,
+   "heading": "Artigo 3.º — Aditamento ao Código Penal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aditamento ao Código Penal\n\nÉ aditado à secção i do capítulo ii do título v do livro ii do Código Penal o artigo 348.º-A, com a seguinte redação:\n\n«Artigo 348.º-A\n\nFalsas declarações\n\n1 - Quem declarar ou atestar falsamente à autoridade pública ou a funcionário no exercício das suas funções identidade, estado ou outra qualidade a que a lei atribua efeitos jurídicos, próprios ou alheios, é punido com pena de prisão até um ano ou com pena de multa, se pena mais grave não lhe couber por força de outra disposição legal.\n\n2 - Se as declarações se destinarem a ser exaradas em documento autêntico o agente é punido com pena de prisão até dois anos ou com pena de multa.»"
+  },
+  "66459837": {
+   "fragment_id": "66463193",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração sistemática ao Código Penal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração sistemática ao Código Penal\n\nA secção i do capítulo ii do título v do livro ii do Código Penal passa a ter a epígrafe «Da resistência, desobediência e falsas declarações à autoridade pública» e a ser composta pelos artigos 347.º, 348.º e 348.º-A."
+  },
+  "66459838": {
+   "fragment_id": "66463194",
+   "type": 11,
+   "heading": "Artigo 5.º — Alteração à Lei n.º 112/2009, de 16 de setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alteração à Lei n.º 112/2009, de 16 de setembro\n\nOs artigos 35.º e 36.º da Lei n.º 112/2009, de 16 de setembro, passam a ter a seguinte redação:\n\n«Artigo 35.º\n\n[...]\n\n1 - O tribunal, com vista à aplicação das medidas e penas previstas nos artigos 52.º e 152.º do Código Penal e no artigo 31.º da presente lei, deve, sempre que tal se mostre imprescindível para a vítima, determinar que o cumprimento daquelas medidas seja fiscalizado por meios técnicos de controlo à distância.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\nArtigo 36.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - Não se aplica o disposto nos números anteriores sempre que o juiz, de forma fundamentada, determine que a utilização de meios técnicos de controlo à distância é imprescindível para a proteção dos direitos da vítima.»"
+  },
+  "66459839": {
+   "fragment_id": "66463195",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente lei entra em vigor 30 dias após a sua publicação."
+  }
+ }
+}

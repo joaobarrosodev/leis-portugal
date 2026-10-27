@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009D0561:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009D0561-20120726",
+ "dre_path": null,
+ "source_lastmod": "2012-07-26",
+ "versions": [
+  {
+   "date": "2009-07-25",
+   "future": false,
+   "celex": "32009D0561",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6542b22a91bbb67d",
+    "8b603ece8fc04afb",
+    "09755975c4227751",
+    "e86eb012550ec706",
+    "37b8f6ea4ca5108a",
+    "91bb3f2145a6d1cc"
+   ]
+  }
+ ],
+ "fragments": {
+  "6542b22a91bbb67d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Julho de 2009\n\nque altera a Decisão 2006/679/CE no que respeita à implementação da especificação técnica de interoperabilidade relativa ao subsistema «controlo-comando e sinalização» do sistema ferroviário transeuropeu convencional\n\n[notificada com o número C(2009) 5607]\n\n(Texto relevante para efeitos do EEE)\n\n(2009/561/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2008/57/CE do Parlamento Europeu e do Conselho, de 17 de Junho de 2008, relativa à interoperabilidade do sistema ferroviário na Comunidade (Reformulação) [([^1])](http://publications.europa.eu/resource/cellar/e6aea3fe-be55-4106-a217-ef51e07a4a5c.0018.02/DOC_1#ntr1-L_2009194PT.01006001-E0001), nomeadamente o n.º 1 do artigo 6.º,\n\nTendo em conta a recomendação da Agência Ferroviária Europeia sobre o Plano Europeu de Implantação (ERA-REC-02-2009-ERTMS) de 23 de Fevereiro de 2009,\n\nConsiderando o seguinte:\n\n(1) Cada uma das especificações técnicas de interoperabilidade (ETI) deve indicar a estratégia de implementação das ETI e as fases a executar para se passar gradualmente da situação existente à situação final em que se generalizará o cumprimento das ETI.\n\n(2) A Decisão 2006/679/CE da Comissão, de 28 de Março de 2006, sobre a especificação técnica de interoperabilidade relativa ao subsistema «controlo-comando e sinalização» do sistema ferroviário transeuropeu convencional [([^2])](http://publications.europa.eu/resource/cellar/e6aea3fe-be55-4106-a217-ef51e07a4a5c.0018.02/DOC_1#ntr2-L_2009194PT.01006001-E0002) estabeleceu a ETI relativa ao subsistema de «controlo-comando e sinalização» do sistema ferroviário transeuropeu convencional.\n\n(3) Em conformidade com o artigo 3.º da Decisão 2006/679/CE, os Estados-Membros estabeleceram um plano de implementação nacional da ETI «Controlo-Comando e Sinalização» e notificaram esse plano à Comissão.\n\n(4) O Plano Director da UE deve ser elaborado com base nos referidos planos nacionais, de acordo com os princípios estabelecidos no capítulo 7 do anexo da Decisão 2006/679/CE.\n\n(5) O capítulo 7 do anexo da Decisão 2006/679/CE estabelece que o Plano Director da UE será apenso à ETI mediante um procedimento de revisão e designado Plano Europeu de Implantação.\n\n(6) A Directiva 2008/57/CE refere que as ETI podem estabelecer o quadro adequado para decidir da necessidade de uma nova autorização do subsistema existente, bem como os prazos correspondentes.\n\n(7) A estratégia de implementação da ETI «Controlo-Comando e Sinalização» deve basear-se não só na conformidade dos subsistemas com a ETI no momento da respectiva entrada em serviço, adaptação ou renovação, como também numa implementação coordenada ao longo dos corredores pan-europeus que ligam as principais zonas europeias de transporte de mercadorias. Dado que a interoperabilidade só é possível se os corredores estiverem inteiramente equipados, devem ser estabelecidos prazos adequados para a renovação ou adaptação do subsistema no âmbito de um Plano Europeu de Implantação.\n\n(8) Os Estados-Membros devem envidar todos os esforços no sentido de ser disponibilizado um Módulo de Transmissão Específica para os seus sistemas nacionais antigos de classe B enumerados no anexo B da ETI.\n\n(9) Os projectos relativos ao Sistema Europeu de Gestão do Tráfego Ferroviário (*European Rail Traffic Management System* — ERTMS), em geral, e as linhas incluídas no Plano Europeu de Implantação, em especial, podem beneficiar de apoio comunitário do Programa RTE-T ou de outros programas de apoio financeiro comunitário.\n\n(10) Um apoio financeiro adequado é um elemento fundamental para assegurar a implantação do ERTMS de acordo com o âmbito e os prazos fixados no Plano Europeu de Implantação. Por conseguinte, o plano pode ser adaptado a fim de tomar em consideração o financiamento disponível.\n\n(11) Os fornecedores de equipamentos ERTMS de bordo confirmaram que estarão em condições de fornecer equipamentos de bordo em conformidade com a nova norma (designada definição básica 3) o mais tardar em 2015. Por conseguinte, as locomotivas internacionais entregues a partir dessa data devem, regra geral, estar equipadas com o ERTMS.\n\n(12) A Decisão 2006/679/CE deve, por conseguinte, ser alterada em conformidade.\n\n(13) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité sobre Interoperabilidade e Segurança Ferroviárias, instituído nos termos do artigo 29.º da Directiva 2008/57/CE,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "8b603ece8fc04afb": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo da Decisão 2006/679/CE é alterado do seguinte modo:\n\n1. Os pontos 7.1, 7.2 e 7.3 são substituídos pelo texto constante do anexo da presente decisão.\n\n2. No ponto 7.4.2.3, a referência ao ponto 7.2.2.5 é substituída por uma referência ao ponto 7.2."
+  },
+  "09755975c4227751": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAté 31 de Dezembro de 2015, a Comissão avaliará a implementação do Plano Europeu de Implantação e determinará, após análise dos progressos realizados na sua implementação até 2015 e da disponibilidade de equipamentos conformes à nova norma (definição básica 3) e de fontes e níveis de financiamento para a implantação do ERTMS, se serão necessárias alterações à presente decisão, em especial no que diz respeito às linhas que deverão estar equipadas até 2020. Os Estados-Membros serão envolvidos nessa análise."
+  },
+  "e86eb012550ec706": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente decisão é aplicável a partir de 1 de Setembro de 2009."
+  },
+  "37b8f6ea4ca5108a": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 22 de Julho de 2009.\n\n***Pela Comissão***\n\n**Antonio TAJANI**\n\n***Vice-Presidente***\n\n---"
+  },
+  "91bb3f2145a6d1cc": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/e6aea3fe-be55-4106-a217-ef51e07a4a5c.0018.02/DOC_1#ntc1-L_2009194PT.01006001-E0001) [JO L 191 de 18.7.2008, p. 1](http://publications.europa.eu/resource/oj/JOL_2008_191_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/e6aea3fe-be55-4106-a217-ef51e07a4a5c.0018.02/DOC_1#ntc2-L_2009194PT.01006001-E0002) [JO L 284 de 16.10.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_284_R_TOC)."
+  }
+ }
+}

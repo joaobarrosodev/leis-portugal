@@ -1,0 +1,300 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:252870:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1977-877086606",
+ "dre_path": "/dr/detalhe/lei/33-1977-252870",
+ "source_lastmod": "2024-08-13",
+ "versions": [
+  {
+   "date": "1977-05-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "877087441",
+    "877087384",
+    "877087385",
+    "877087386",
+    "877087387",
+    "877087388",
+    "877087389",
+    "877087390",
+    "877087391",
+    "877087392",
+    "877087393",
+    "877087394",
+    "877087395"
+   ]
+  },
+  {
+   "date": "2006-08-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:539401:por",
+     "title": "Lei n.º 34/2006",
+     "published": "2006-07-28",
+     "dre_path": "/dr/detalhe/lei/34-2006-539401"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "877087441",
+    "877087442",
+    "877087443",
+    "877087444",
+    "877087445",
+    "877087446",
+    "877087447",
+    "877087448",
+    "877087449",
+    "877087450",
+    "877087451",
+    "877087452",
+    "877087453",
+    "877087454"
+   ]
+  }
+ ],
+ "fragments": {
+  "877087441": {
+   "fragment_id": "877086607",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2006-08-02",
+   "changed_by": [],
+   "markdown": "Lei n.º 33/77\n\nde 28 de Maio\n\nFixa a largura e os limites do mar territorial e estabelece uma zona económica de 200 milhas do Estado Português\n\nA Assembleia da República decreta, nos termos da alínea i) do artigo 164.º e do n.º 2 do artigo 169.º da Constituição, o seguinte:"
+  },
+  "877087384": {
+   "fragment_id": "877086608",
+   "type": 11,
+   "heading": "Artigo 1.º — (Mar territorial português)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Mar territorial português)\n\n1. A largura do mar territorial português é de 12 milhas marítimas.\n\n2. Os limites do mar territorial português são os estabelecidos na lei portuguesa, de acordo com o direito internacional."
+  },
+  "877087385": {
+   "fragment_id": "877086609",
+   "type": 11,
+   "heading": "Artigo 2.º — (Zona económica exclusiva)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Zona económica exclusiva)\n\n1. É estabelecida uma zona económica exclusiva cujo limite exterior é uma linha em que cada ponto se encontra a uma distância de 200 milhas marítimas do ponto mais próximo da linha de base a partir da qual se mede a largura do mar territorial português.\n\n2. Enquanto não entrarem em vigor acordos com os Estados cujas costas são limítrofes ou opostas às do Estado Português, os limites da zona a que se refere o n.º 1 não vão além da linha mediana em que todos os pontos são equidistantes dos pontos mais próximos das linhas de base a partir das quais se mede a largura do mar territorial de cada um dos Estados.\n\n3. O disposto nos números anteriores não altera o regime do mar territorial português."
+  },
+  "877087386": {
+   "fragment_id": "877086610",
+   "type": 11,
+   "heading": "Artigo 3.º — (Direito internacional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Direito internacional)\n\nO estabelecimento da zona económica exclusiva terá em conta as normas de direito internacional, nomeadamente no respeitante à navegação e ao sobrevoo inofensivos das águas em questão."
+  },
+  "877087387": {
+   "fragment_id": "877086611",
+   "type": 11,
+   "heading": "Artigo 4.º — (Conservação e gestão dos recursos vivos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Conservação e gestão dos recursos vivos)\n\n1. Na zona definida no artigo 2.º o Estado Português exerce competência exclusiva em matéria de conservação e gestão dos recursos vivos.\n\n2. Sem prejuízo das excepções previstas na presente lei, é proibido às embarcações estrangeiras pescar dentro da zona económica exclusiva.\n\n3. Entende-se, para todos os efeitos da presente lei, por «pesca» e «pescar» tanto a perseguição, captura, colheita ou aproveitamento do qualquer dos recursos vivos do mar e subjacentes a esse mar, como estar em execução das acções definidas por «preparativos de pesca», nos termos do n.º 2 do artigo 2.º do Decreto-Lei n.º 47947, de 18 de Setembro de 1967, e ainda cometer actos prejudiciais à execução daquelas acções por cidadãos portugueses ou a eles equiparados para efeitos de pesca, definidos como «actos prejudiciais ao exercício da pesca» nos termos do n.º 3 do mesmo artigo 2.º do referido decreto-lei."
+  },
+  "877087388": {
+   "fragment_id": "877086612",
+   "type": 11,
+   "heading": "Artigo 5.º — (Regulamentação da pesca na zona económica exclusiva)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Regulamentação da pesca na zona económica exclusiva)\n\nO Governo elaborará e fará respeitar a regulamentação da pesca na zona económica exclusiva, incluindo, em especial:\n\na) A captura total permitida e o esforço máximo de pesca, relativo tanto ao conjunto de todas as pescarias como a cada uma das espécies individuais ou de populações e a cada parte de qualquer área específica;\n\nb) Os termos e condições de pesca da quota-parte da captura permitida a estrangeiros, atribuída por países;\n\nc) O exercício racional e conveniente das actividades de pesca, incluindo o número e tamanho dos navios de pesca, emprego de aparelhos e dispositivos de pesca e respectiva restrição, quando necessária, defesos e zona de reserva;\n\nd) A protecção, conservação e regeneração de todos os recursos vivos da zona económica exclusiva."
+  },
+  "877087389": {
+   "fragment_id": "877086613",
+   "type": 11,
+   "heading": "Artigo 6.º — (Cooperação Internacional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Cooperação Internacional)\n\nO Estado Português cooperará com as organizações internacionais competentes sub-regionais, regionais ou universais em matéria de conservação dos recursos vivos do mar."
+  },
+  "877087390": {
+   "fragment_id": "877086614",
+   "type": 11,
+   "heading": "Artigo 7.º — (Regulamentação de outros direitos na zona económica exclusiva)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Regulamentação de outros direitos na zona económica exclusiva)\n\nTendo em conta as normas de direito internacional do mar aplicáveis, o Governo poderá elaborar regulamentação especial para a zona económica exclusiva, nomeadamente no que respeita a:\n\na) Protecção do ambiente;\n\nb) Investigação científica;\n\nc) Instalações artificiais, permanentes ou temporárias;\n\nd) Tubagens e cabos submarinos;\n\ne) Pesquisa e exploração, para fins económicos, incluindo a produção de energia, de recursos naturais vivos e não vivos do leito do mar, subsolo e águas superjacentes."
+  },
+  "877087391": {
+   "fragment_id": "877086615",
+   "type": 11,
+   "heading": "Artigo 8.º — (Penalidades)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Penalidades)\n\n1. O Governo enviará à Assembleia da República proposta ou propostas de lei prevendo a responsabilidade civil e as sanções em que incorram as pessoas singulares e colectivas, nacionais e estrangeiras, que violarem o disposto na presente lei e seus regulamentos.\n\n2. Nos diplomas referidos no número anterior prever-se-ão, de acordo com a gravidade das infracções, entre outras, medidas de cessação de autorizações de pesca, apreensão de embarcações e respectivos apetrechos, pertences, redes, artes, aparelhos e pescado e respectiva perda a favor do Estado, bem como penas de multa e de prisão correccional.\n\n3. Até à entrada em vigor dos diplomas referidos nos números anteriores, as penalidades previstas no Decreto-Lei n.º 47947, de 18 de Setembro de 1967, para as «águas juridicionais da pesca» aplicar-se-ão à zona definida no artigo 2.º da presente lei; as normas n.os 2 e 3 do artigo 5.º do mesmo decreto-lei aplicar-se-ão às infracções cometidas por embarcações estrangeiras no mar territorial português."
+  },
+  "877087392": {
+   "fragment_id": "877086616",
+   "type": 11,
+   "heading": "Artigo 9.º — (Recursos vivos da plataforma continental)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Recursos vivos da plataforma continental)\n\nA presente lei não afecta os direitos soberanos do Estado Português sobre espécies sedentárias das suas plataformas continentais."
+  },
+  "877087393": {
+   "fragment_id": "877086617",
+   "type": 11,
+   "heading": "Artigo 10.º — (Revisão da presente lei)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Revisão da presente lei)\n\nA presente lei, bem como as restantes normas definidoras do regime jurídico dos espaços marítimos de soberania ou jurisdição nacional, será revista em função dos resultados da III Conferência das Nações Unidas sobre o Direito do Mar e de outros desenvolvimentos com implicações sobre o futuro regime dos oceanos."
+  },
+  "877087394": {
+   "fragment_id": "877086618",
+   "type": 11,
+   "heading": "Artigo 11.º — (Harmonização com as leis especiais vigentes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Harmonização com as leis especiais vigentes)\n\n1. São revogadas as bases III e V da Lei n.º 2130, de 22 de Agosto de 1966.\n\n2. São revogadas as alíneas 2), 3) e 4) do artigo 10.º do Decreto-Lei n.º 47771, de 27 de Junho de 1967, e no corpo do mesmo artigo é eliminada a expressão «[...] e nas costas das províncias da Guiné, Angola e Moçambique»."
+  },
+  "877087395": {
+   "fragment_id": "877086619",
+   "type": 11,
+   "heading": "Artigo 12.º — (Exercício de pesca a embarcações estrangeiras)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Exercício de pesca a embarcações estrangeiras)\n\nO Governo poderá, a título transitório e por um prazo não superior a doze meses, permitir o exercício da pesca a embarcações estrangeiras na zona económica exclusiva, sem que as condições estabelecidas por esta lei sejam integralmente satisfeitas."
+  },
+  "877087442": {
+   "fragment_id": "877086608",
+   "type": 11,
+   "heading": "Artigo 1.º — (Mar territorial português)",
+   "in_force_from": "2006-08-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 34/2006 - Diário da República n.º 145/2006, Série I de 2006-07-28](https://diariodarepublica.pt/dr/detalhe/lei/34-2006-539401), em vigor a partir de 2006-08-02"
+   ],
+   "markdown": "###### Artigo 1.º — (Mar territorial português)\n\n1. A largura do mar territorial português é de 12 milhas marítimas.\n\n2. Os limites do mar territorial português são os estabelecidos na lei portuguesa, de acordo com o direito internacional.\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 34/2006 - Diário da República n.º 145/2006, Série I de 2006-07-28](https://diariodarepublica.pt/dr/detalhe/lei/34-2006-539401), em vigor a partir de 2006-08-02"
+  },
+  "877087443": {
+   "fragment_id": "877086609",
+   "type": 11,
+   "heading": "Artigo 2.º — (Zona económica exclusiva)",
+   "in_force_from": "2006-08-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 34/2006 - Diário da República n.º 145/2006, Série I de 2006-07-28](https://diariodarepublica.pt/dr/detalhe/lei/34-2006-539401), em vigor a partir de 2006-08-02"
+   ],
+   "markdown": "###### Artigo 2.º — (Zona económica exclusiva)\n\n1. É estabelecida uma zona económica exclusiva cujo limite exterior é uma linha em que cada ponto se encontra a uma distância de 200 milhas marítimas do ponto mais próximo da linha de base a partir da qual se mede a largura do mar territorial português.\n\n2. Enquanto não entrarem em vigor acordos com os Estados cujas costas são limítrofes ou opostas às do Estado Português, os limites da zona a que se refere o n.º 1 não vão além da linha mediana em que todos os pontos são equidistantes dos pontos mais próximos das linhas de base a partir das quais se mede a largura do mar territorial de cada um dos Estados.\n\n3. O disposto nos números anteriores não altera o regime do mar territorial português.\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 34/2006 - Diário da República n.º 145/2006, Série I de 2006-07-28](https://diariodarepublica.pt/dr/detalhe/lei/34-2006-539401), em vigor a partir de 2006-08-02"
+  },
+  "877087444": {
+   "fragment_id": "877086610",
+   "type": 11,
+   "heading": "Artigo 3.º — (Direito internacional)",
+   "in_force_from": "2006-08-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 34/2006 - Diário da República n.º 145/2006, Série I de 2006-07-28](https://diariodarepublica.pt/dr/detalhe/lei/34-2006-539401), em vigor a partir de 2006-08-02",
+    "Retificado pelo/a [Declaração - Diário da República n.º 173/1977, Série I de 1977-07-28](https://diariodarepublica.pt/dr/detalhe/declaracao/1977-251041), produz efeitos a partir de 1977-06-02"
+   ],
+   "markdown": "###### Artigo 3.º — (Direito internacional)\n\nO estabelecimento da zona económica exclusiva terá em conta as normas de direito internacional, nomeadamente no respeitante à navegação e ao sobrevoo inofensivo das águas em questão.\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 34/2006 - Diário da República n.º 145/2006, Série I de 2006-07-28](https://diariodarepublica.pt/dr/detalhe/lei/34-2006-539401), em vigor a partir de 2006-08-02\n\n> Retificado pelo/a [Declaração - Diário da República n.º 173/1977, Série I de 1977-07-28](https://diariodarepublica.pt/dr/detalhe/declaracao/1977-251041), produz efeitos a partir de 1977-06-02"
+  },
+  "877087445": {
+   "fragment_id": "877086611",
+   "type": 11,
+   "heading": "Artigo 4.º — (Conservação e gestão dos recursos vivos)",
+   "in_force_from": "2006-08-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 34/2006 - Diário da República n.º 145/2006, Série I de 2006-07-28](https://diariodarepublica.pt/dr/detalhe/lei/34-2006-539401), em vigor a partir de 2006-08-02"
+   ],
+   "markdown": "###### Artigo 4.º — (Conservação e gestão dos recursos vivos)\n\n1. Na zona definida no artigo 2.º o Estado Português exerce competência exclusiva em matéria de conservação e gestão dos recursos vivos.\n\n2. Sem prejuízo das excepções previstas na presente lei, é proibido às embarcações estrangeiras pescar dentro da zona económica exclusiva.\n\n3. Entende-se, para todos os efeitos da presente lei, por «pesca» e «pescar» tanto a perseguição, captura, colheita ou aproveitamento do qualquer dos recursos vivos do mar e subjacentes a esse mar, como estar em execução das acções definidas por «preparativos de pesca», nos termos do n.º 2 do artigo 2.º do Decreto-Lei n.º 47947, de 18 de Setembro de 1967, e ainda cometer actos prejudiciais à execução daquelas acções por cidadãos portugueses ou a eles equiparados para efeitos de pesca, definidos como «actos prejudiciais ao exercício da pesca» nos termos do n.º 3 do mesmo artigo 2.º do referido decreto-lei.\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 34/2006 - Diário da República n.º 145/2006, Série I de 2006-07-28](https://diariodarepublica.pt/dr/detalhe/lei/34-2006-539401), em vigor a partir de 2006-08-02"
+  },
+  "877087446": {
+   "fragment_id": "877086612",
+   "type": 11,
+   "heading": "Artigo 5.º — (Regulamentação da pesca na zona económica exclusiva)",
+   "in_force_from": "2006-08-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 34/2006 - Diário da República n.º 145/2006, Série I de 2006-07-28](https://diariodarepublica.pt/dr/detalhe/lei/34-2006-539401), em vigor a partir de 2006-08-02",
+    "Retificado pelo/a [Declaração - Diário da República n.º 173/1977, Série I de 1977-07-28](https://diariodarepublica.pt/dr/detalhe/declaracao/1977-251041), produz efeitos a partir de 1977-06-02"
+   ],
+   "markdown": "###### Artigo 5.º — (Regulamentação da pesca na zona económica exclusiva)\n\nO Governo elaborará e fará respeitar a regulamentação da pesca na zona económica exclusiva, incluindo, em especial:\n\na) A captura total permitida e o esforço máximo de pesca, relativo tanto ao conjunto de todas as pescarias como a cada uma das espécies individuais ou de populações e a cada parte de qualquer área específica;\n\nb) Os termos e condições de pesca da quota-parte da captura permitida a estrangeiros, atribuída por países;\n\nc) O exercício racional e conveniente das actividades de pesca, incluindo o número e tamanho dos navios de pesca, emprego de aparelhos e dispositivos de pesca e respectiva restrição, quando necessária, defesos e zonas de reserva;\n\nd) A protecção, conservação e regeneração de todos os recursos vivos da zona económica exclusiva.\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 34/2006 - Diário da República n.º 145/2006, Série I de 2006-07-28](https://diariodarepublica.pt/dr/detalhe/lei/34-2006-539401), em vigor a partir de 2006-08-02\n\n> Retificado pelo/a [Declaração - Diário da República n.º 173/1977, Série I de 1977-07-28](https://diariodarepublica.pt/dr/detalhe/declaracao/1977-251041), produz efeitos a partir de 1977-06-02"
+  },
+  "877087447": {
+   "fragment_id": "877086613",
+   "type": 11,
+   "heading": "Artigo 6.º — (Cooperação Internacional)",
+   "in_force_from": "2006-08-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 34/2006 - Diário da República n.º 145/2006, Série I de 2006-07-28](https://diariodarepublica.pt/dr/detalhe/lei/34-2006-539401), em vigor a partir de 2006-08-02"
+   ],
+   "markdown": "###### Artigo 6.º — (Cooperação Internacional)\n\nO Estado Português cooperará com as organizações internacionais competentes sub-regionais, regionais ou universais em matéria de conservação dos recursos vivos do mar.\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 34/2006 - Diário da República n.º 145/2006, Série I de 2006-07-28](https://diariodarepublica.pt/dr/detalhe/lei/34-2006-539401), em vigor a partir de 2006-08-02"
+  },
+  "877087448": {
+   "fragment_id": "877086614",
+   "type": 11,
+   "heading": "Artigo 7.º — (Regulamentação de outros direitos na zona económica exclusiva)",
+   "in_force_from": "2006-08-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 34/2006 - Diário da República n.º 145/2006, Série I de 2006-07-28](https://diariodarepublica.pt/dr/detalhe/lei/34-2006-539401), em vigor a partir de 2006-08-02"
+   ],
+   "markdown": "###### Artigo 7.º — (Regulamentação de outros direitos na zona económica exclusiva)\n\nTendo em conta as normas de direito internacional do mar aplicáveis, o Governo poderá elaborar regulamentação especial para a zona económica exclusiva, nomeadamente no que respeita a:\n\na) Protecção do ambiente;\n\nb) Investigação científica;\n\nc) Instalações artificiais, permanentes ou temporárias;\n\nd) Tubagens e cabos submarinos;\n\ne) Pesquisa e exploração, para fins económicos, incluindo a produção de energia, de recursos naturais vivos e não vivos do leito do mar, subsolo e águas superjacentes.\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 34/2006 - Diário da República n.º 145/2006, Série I de 2006-07-28](https://diariodarepublica.pt/dr/detalhe/lei/34-2006-539401), em vigor a partir de 2006-08-02"
+  },
+  "877087449": {
+   "fragment_id": "877086615",
+   "type": 11,
+   "heading": "Artigo 8.º — (Penalidades)",
+   "in_force_from": "2006-08-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 34/2006 - Diário da República n.º 145/2006, Série I de 2006-07-28](https://diariodarepublica.pt/dr/detalhe/lei/34-2006-539401), em vigor a partir de 2006-08-02"
+   ],
+   "markdown": "###### Artigo 8.º — (Penalidades)\n\n1. O Governo enviará à Assembleia da República proposta ou propostas de lei prevendo a responsabilidade civil e as sanções em que incorram as pessoas singulares e colectivas, nacionais e estrangeiras, que violarem o disposto na presente lei e seus regulamentos.\n\n2. Nos diplomas referidos no número anterior prever-se-ão, de acordo com a gravidade das infracções, entre outras, medidas de cessação de autorizações de pesca, apreensão de embarcações e respectivos apetrechos, pertences, redes, artes, aparelhos e pescado e respectiva perda a favor do Estado, bem como penas de multa e de prisão correccional.\n\n3. Até à entrada em vigor dos diplomas referidos nos números anteriores, as penalidades previstas no Decreto-Lei n.º 47947, de 18 de Setembro de 1967, para as «águas juridicionais da pesca» aplicar-se-ão à zona definida no artigo 2.º da presente lei; as normas n.os 2 e 3 do artigo 5.º do mesmo decreto-lei aplicar-se-ão às infracções cometidas por embarcações estrangeiras no mar territorial português.\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 34/2006 - Diário da República n.º 145/2006, Série I de 2006-07-28](https://diariodarepublica.pt/dr/detalhe/lei/34-2006-539401), em vigor a partir de 2006-08-02"
+  },
+  "877087450": {
+   "fragment_id": "877086616",
+   "type": 11,
+   "heading": "Artigo 9.º — (Recursos vivos da plataforma continental)",
+   "in_force_from": "2006-08-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 34/2006 - Diário da República n.º 145/2006, Série I de 2006-07-28](https://diariodarepublica.pt/dr/detalhe/lei/34-2006-539401), em vigor a partir de 2006-08-02"
+   ],
+   "markdown": "###### Artigo 9.º — (Recursos vivos da plataforma continental)\n\nA presente lei não afecta os direitos soberanos do Estado Português sobre espécies sedentárias das suas plataformas continentais.\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 34/2006 - Diário da República n.º 145/2006, Série I de 2006-07-28](https://diariodarepublica.pt/dr/detalhe/lei/34-2006-539401), em vigor a partir de 2006-08-02"
+  },
+  "877087451": {
+   "fragment_id": "877086617",
+   "type": 11,
+   "heading": "Artigo 10.º — (Revisão da presente lei)",
+   "in_force_from": "2006-08-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 34/2006 - Diário da República n.º 145/2006, Série I de 2006-07-28](https://diariodarepublica.pt/dr/detalhe/lei/34-2006-539401), em vigor a partir de 2006-08-02"
+   ],
+   "markdown": "###### Artigo 10.º — (Revisão da presente lei)\n\nA presente lei, bem como as restantes normas definidoras do regime jurídico dos espaços marítimos de soberania ou jurisdição nacional, será revista em função dos resultados da III Conferência das Nações Unidas sobre o Direito do Mar e de outros desenvolvimentos com implicações sobre o futuro regime dos oceanos.\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 34/2006 - Diário da República n.º 145/2006, Série I de 2006-07-28](https://diariodarepublica.pt/dr/detalhe/lei/34-2006-539401), em vigor a partir de 2006-08-02"
+  },
+  "877087452": {
+   "fragment_id": "877086618",
+   "type": 11,
+   "heading": "Artigo 11.º — (Harmonização com as leis especiais vigentes)",
+   "in_force_from": "2006-08-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 34/2006 - Diário da República n.º 145/2006, Série I de 2006-07-28](https://diariodarepublica.pt/dr/detalhe/lei/34-2006-539401), em vigor a partir de 2006-08-02",
+    "Retificado pelo/a [Declaração - Diário da República n.º 173/1977, Série I de 1977-07-28](https://diariodarepublica.pt/dr/detalhe/declaracao/1977-251041), produz efeitos a partir de 1977-06-02"
+   ],
+   "markdown": "###### Artigo 11.º — (Harmonização com as leis especiais vigentes)\n\n1. São revogadas as bases III e V da Lei n.º 2130, de 22 de Agosto de 1966.\n\n2. São revogadas as alíneas 2), 3) e 4) do artigo 1.º do Decreto-Lei n.º 47771, de 27 de Junho de 1967, e no corpo do mesmo artigo é eliminada a expressão «[...] e nas costas das províncias da Guiné, Angola e Moçambique».\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 34/2006 - Diário da República n.º 145/2006, Série I de 2006-07-28](https://diariodarepublica.pt/dr/detalhe/lei/34-2006-539401), em vigor a partir de 2006-08-02\n\n> Retificado pelo/a [Declaração - Diário da República n.º 173/1977, Série I de 1977-07-28](https://diariodarepublica.pt/dr/detalhe/declaracao/1977-251041), produz efeitos a partir de 1977-06-02"
+  },
+  "877087453": {
+   "fragment_id": "877086619",
+   "type": 11,
+   "heading": "Artigo 12.º — (Exercício de pesca a embarcações estrangeiras)",
+   "in_force_from": "2006-08-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 34/2006 - Diário da República n.º 145/2006, Série I de 2006-07-28](https://diariodarepublica.pt/dr/detalhe/lei/34-2006-539401), em vigor a partir de 2006-08-02"
+   ],
+   "markdown": "###### Artigo 12.º — (Exercício de pesca a embarcações estrangeiras)\n\nO Governo poderá, a título transitório e por um prazo não superior a doze meses, permitir o exercício da pesca a embarcações estrangeiras na zona económica exclusiva, sem que as condições estabelecidas por esta lei sejam integralmente satisfeitas.\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 34/2006 - Diário da República n.º 145/2006, Série I de 2006-07-28](https://diariodarepublica.pt/dr/detalhe/lei/34-2006-539401), em vigor a partir de 2006-08-02"
+  },
+  "877087454": {
+   "fragment_id": "877086620",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2006-08-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 34/2006 - Diário da República n.º 145/2006, Série I de 2006-07-28](https://diariodarepublica.pt/dr/detalhe/lei/34-2006-539401), em vigor a partir de 2006-08-02"
+   ],
+   "markdown": "Aprovada em 1 de Abril de 1977. - O Presidente da Assembleia da República, Vasco da Gama Fernandes.\n\nPromulgado em 12 de Maio de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 34/2006 - Diário da República n.º 145/2006, Série I de 2006-07-28](https://diariodarepublica.pt/dr/detalhe/lei/34-2006-539401), em vigor a partir de 2006-08-02"
+  }
+ }
+}

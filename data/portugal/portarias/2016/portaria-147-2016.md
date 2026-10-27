@@ -1,0 +1,411 @@
+---
+schema_version: '1.0'
+id: pt:dre:74483693:por
+title: Portaria n.º 147/2016
+short_title: null
+summary: Estabelece o processo de classificação dos hospitais, centros hospitalares e unidades locais de saúde do Serviço
+  Nacional de Saúde e define o processo de criação e revisão das Redes de Referenciação Hospitalar
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Saúde
+proposing_entity: null
+official_number: 147/2016
+official_date: null
+publication_date: '2016-05-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 97/2016, Série I de 2016-05-19
+  number: '97'
+  series: I
+  supplement: null
+  pages: 1616 - 1619
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/05/09700/0161601619.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-01-01'
+version_history:
+  file: portaria-147-2016.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2016-05-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-01-01'
+    amending: pt:dre:176907550:por
+    amending_title: Portaria n.º 331-B/2021
+    changes:
+    - Altera Artigo 2.º
+    - Altera Parte I
+    - Revoga Artigo 8.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/147/2016/p/cons/20211231/pt/html
+  oj: null
+  dre: '74483693'
+  dre_path: /dr/detalhe/portaria/147-2016-74483693
+  internal: pt:dre:74483693:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/147-2016-74483693
+  metadata_url: https://data.dre.pt/eli/port/147/2016/p/cons/20211231/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-177085037
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-177085037
+  retrieved_at: '2026-10-22T12:48:19Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 8915289fc424e3048eccb3f0e81bf536e64a7faa999c148c16bb3db32e6cc5ba
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:48:19Z'
+  notes: 2 versão(ões); histórico completo em portaria-147-2016.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Reestruturação de Serviços
+- Assistência Médica
+- Financiamento
+- Classificação dos Estabelecimentos Hospitalares
+- Consulta Médica
+- Administração Regional de Saúde
+- Serviço Nacional de Saúde
+- Gestão Hospitalar
+- ÁREA de Jurisdição
+- Estabelecimento Hospitalar
+- Serviços de Urgência
+- Gestão de Recursos Humanos
+- Rede de Referenciação Hospitalar
+relationships:
+- type: amended_by
+  target: pt:dre:176907550:por
+  label: Altera Artigo 2.º; Altera Parte I; Revoga Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2021-176907550
+  date: '2021-12-31'
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/123-a/2014/06/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/123-a/2014/06/19/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/82/2014/04/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/82/2014/04/10/p/dre
+- type: cites
+  target: pt:dre:145186:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/124/2011/12/29/p/dre
+- type: cites
+  target: pt:dre:425487:por
+  label: null
+  source: http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
+- type: cites
+  target: pt:dre:500051:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/138/2013/10/09/p/dre
+- type: cites
+  target: pt:dre:57695124:por
+  label: null
+  source: http://data.dre.pt/eli/port/194/2014/09/30/p/dre
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
+article_structure:
+  article_count: 10
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:48:19Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 147/2016
+
+Portaria n.º 147/2016
+
+de 19 de maio
+
+O XXI Governo Constitucional, no seu programa para a saúde, estabelece como prioridades reforçar o poder do cidadão no Serviço Nacional de Saúde (SNS) e contribuir para a melhoria da gestão dos hospitais e da governação do SNS. Neste âmbito, são definidas como medidas, fulcrais para as prioridades preconizadas, a promoção da disponibilidade e acessibilidade dos serviços, facultando aos cidadãos, de forma progressiva, a liberdade de escolherem em que unidades desejam ser assistidos, com respeito pela hierarquia técnica e pelas regras de referenciação do SNS e através da criação de um Sistema Integrado de Gestão do Acesso - SIGA, que facilite o acesso e a liberdade de escolha dos utentes no SNS, nomeadamente no que diz respeito a áreas onde os tempos de espera ainda são significativos.
+
+Para o efeito foi publicado no Diário da República, 2.ª série, n.º 85, de 3 de maio de 2016, o despacho n.º 5911-B/2016, que estabelece as disposições para a referenciação do utente, para a realização da primeira consulta hospitalar, em qualquer das unidades hospitalares do SNS onde exista a especialidade em causa.
+
+O Plano Nacional de Saúde 2012-2016 (extensão a 2020) define como um dos seus eixos prioritários a equidade e o acesso adequado aos cuidados de saúde, e a qualidade em saúde, propondo orientações estratégicas, designadamente o reforço da articulação dos serviços de saúde mediante a reorganização dos cuidados de saúde primários, hospitalares e continuados integrados, consolidando uma rede de prestação de cuidados integrada e eficiente.
+
+Neste sentido, importa investir na configuração de uma rede hospitalar coerente, racional e eficiente, consubstanciada num sistema integrado de prestação de cuidados.
+
+O aperfeiçoamento do atual modelo de contratualização dos serviços, introduzindo incentivos associados à melhoria da qualidade, eficiência e equidade dos serviços, inseridos nos contratos de gestão e reduzindo as ineficiências e redundâncias no sistema, consubstancia uma importante medida neste âmbito.
+
+Através do Despacho n.º 199/2016, publicado no Diário da República, 2.ª série, n.º 4, de 7 de janeiro de 2016, alterado pelo Despacho n.º 2978/2016, publicado no Diário da República, 2.ª série, n.º 40, de 26 de fevereiro de 2016, é reconhecida, desde logo, a necessidade de promover, implementar e dinamizar a organização interna e o modelo de gestão hospitalar, apostando na autonomia, na responsabilização da gestão e na aplicação de incentivos ligados ao desempenho, que facilite o acesso dos utentes no SNS; propor um melhor planeamento dos recursos humanos hospitalares, dentro do SNS; e analisar a estratégia de contratualização e financiamento hospitalar, propondo alterações que promovam uma orientação eficiente dos recursos às necessidades.
+
+As Redes de Referenciação desempenham um papel fulcral enquanto sistemas integrados, coordenados e hierarquizados que promovem a satisfação das necessidades em saúde aos mais variados níveis, designadamente: do diagnóstico e terapêutica; da formação; da investigação e colaboração interdisciplinar, contribuindo para a garantia de qualidade dos cuidados prestados pelas diferentes especialidades hospitalares.
+
+A constituição das Redes de Referenciação é elaborada tendo em atenção as necessidades específicas dos utentes, a forma de organização dos serviços, devendo ser entendida como um sistema integrado de prestação de cuidados de saúde, pensada e organizada de uma forma coerente e assente em princípios de racionalidade, complementaridade, apoio técnico e eficiência.
+
+A carteira de serviços de cada instituição hospitalar é desta forma operacionalizada através de contrato-programa, de acordo com o respetivo Plano Estratégico, tendo em atenção o que as Redes de Referenciação Hospitalar preconizam para cada especialidade. Perante um quadro de reorganização das instituições de saúde hospitalares (no que se refere à disponibilização e coordenação da carteira de serviços, aos modelos organizativos e de integração de cuidados), a forma como se devem integrar na rede do SNS, num esforço de articulação e efetiva complementaridade, com os diferentes níveis de cuidados, na garantia de uma melhor referenciação, permite intervir complementarmente no reajuste da capacidade hospitalar.
+
+Reconhecendo-se, contudo, que a Portaria n.º 82/2014, de 10 de abril, que estabelece os critérios que permitem categorizar os serviços e estabelecimentos do SNS, de acordo com a natureza das suas responsabilidades e quadro de valências exercidas, e a Portaria n.º 123-A/2014, de 19 de junho, que define os critérios de criação e revisão das Redes Nacionais de Especialidades Hospitalares e de Referenciação, tinham como objetivos desenvolver uma eficaz organização hospitalar, constata-se que o regime preconizado naquelas portarias apresenta fragilidades na sua elaboração conceptual e consequentemente na sua aplicabilidade, que se traduziram em constrangimentos objetivos ao nível do planeamento e da prestação de cuidados de saúde no SNS. Nesse sentido, os referidos normativos não refletiram, na prática, uma resposta mais eficaz, adequada e diferenciada do SNS aos seus utentes, e um melhor aproveitamento e gestão dos recursos existentes, pelo contrário, assistiu-se a dificuldades objetivas por parte das instituições do Ministério da Saúde e dos estabelecimentos hospitalares do SNS na aplicação do regime preconizado nas mesmas.
+
+Importa, assim, definir um processo claro e transparente de classificação dos serviços e instituições do SNS tendo por base as Redes de Referenciação Hospitalar, num modelo atualizado de reorganização hospitalar, mais eficiente e mais sustentável, assente na capacidade instalada ao nível das especialidades, da formação, da complexidade da produção hospitalar, de forma a capacitar os serviços de instalações, equipamentos, recursos humanos e financiamento adequados, para a prestação efetiva de cuidados de saúde de qualidade, numa visão integrada da rede do SNS.
+
+Através de um enquadramento comum ajustado à organização do sistema hospitalar contemporâneo, importa garantir não só que as especialidades médicas hospitalares se encontrem vertidas numa Rede de Referenciação Hospitalar mas que as mesmas se encontram devidamente atualizadas e coerentes, designadamente com novas realidades do Sistema de Saúde como os Centros de Referência, reconhecidos pelo Ministério da Saúde nos termos da Portaria n.º 194/2014, de 30 de setembro.
+
+Neste contexto, urge ainda dar um novo impulso ao processo de definição das Redes de Referenciação Hospitalar no SNS, assegurando a sua adequada conclusão até ao primeiro trimestre de 2017, assim como implementar um processo de revisão contínuo que assegure uma adaptação permanente do SNS às condições da realidade nacional, às suas necessidades e aos seus recursos, de forma a garantir uma racional e eficiente cobertura de todo o País em recursos humanos, instalações e equipamentos de saúde, em cada momento.
+
+Assim:
+
+Ao abrigo do disposto no artigo 1.º, nas alíneas a) e b) do artigo 2.º, no artigo 7.º do Decreto-Lei n.º 124/2011, de 29 de dezembro, na sua redação atual, no artigo 5.º e no artigo 6.º do Regime Jurídico da Gestão Hospitalar, aprovado pela Lei n.º 27/2002, de 8 de novembro, e no artigo 12.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 11/93, de 15 de janeiro, manda o Governo, pelo Secretário de Estado Adjunto e da Saúde, o seguinte:
+
+###### Artigo 1.º — Objeto e âmbito
+
+1 - A presente portaria estabelece o processo de classificação dos hospitais, centros hospitalares e unidades locais de saúde do Serviço Nacional de Saúde, independentemente da sua natureza jurídica, tendo como princípio a definição das Redes de Referenciação Hospitalar (RRH).
+
+2 - A presente portaria define ainda o processo de criação e revisão das RRH.
+
+###### Artigo 2.º — Redes de Referenciação Hospitalar
+
+1 - As RRH a vigorar no SNS são as elencadas no anexo à presente portaria, da qual faz parte integrante.
+
+2 - A criação e revisão das Redes de Referenciação Hospitalar, para efeitos da sua aprovação por despacho do membro do Governo responsável pela área da saúde, são acompanhadas pela Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.), em articulação com a Direção-Geral da Saúde (DGS).
+
+3 - A elaboração de propostas de criação ou revisão de RRH incumbe a grupos técnicos, a constituir por despacho do membro do Governo responsável pela área da saúde e integrados por representantes da ACSS, I. P., da DGS e das cinco administrações regionais de saúde, I. P.
+
+4 - Para efeitos do disposto no número anterior, as propostas a apresentar devem, obrigatoriamente, abordar os seguintes aspetos:
+
+a) Enquadramento da RRH em redes anteriores, quando aplicável;
+
+b) Âmbito da especialidade hospitalar;
+
+c) Caracterização da situação nacional em termos epidemiológicos e das condições clínicas mais frequentes;
+
+d) Caracterização da situação nacional em termos assistenciais, de recursos humanos, de equipamentos e de distribuição geográfica;
+
+e) Caraterização dos sistemas de informação existentes;
+
+f) Estimativa de necessidades de cuidados e de recursos, a cinco anos;
+
+g) Definição da arquitetura da rede, incluindo representação gráfica dos fluxos entre serviços;
+
+h) Faseamento da implementação da RRH, quando aplicável;
+
+i) Metodologia de monitorização da RRH.
+
+5 - As propostas das RRH a apresentar devem estar concluídas no prazo de 180 dias a contar da publicação do despacho a que se refere o n.º 3, sendo submetidas, dentro desse prazo, a aprovação na generalidade pelo membro do Governo responsável pela área da saúde.
+
+6 - Após a aprovação a que se refere o número anterior, a proposta de RRH é submetida a consulta pública, no portal do SNS, por um período de 30 dias úteis, competindo ao respetivo grupo técnico proceder à análise das pronúncias recebidas.
+
+7 - Findo o período de consulta pública, o grupo técnico submete a versão final da proposta de RRH à ACSS, I. P., para emissão de parecer.
+
+8 - A versão final de RRH é submetida pela ACSS, I. P., ao membro do Governo responsável pela área da saúde, acompanhada do parecer previsto no número anterior.
+
+9 - As RRH são revistas, a cada cinco anos, após a sua aprovação.
+
+10 - Sem prejuízo do disposto no número anterior, sempre que a adequação da oferta de serviços existentes às necessidades da população o justificar, as RRH podem ser objeto de revisão antes de decorridos cinco anos da sua aprovação.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 331-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2021-176907550), em vigor a partir de 2022-01-01
+
+###### Artigo 3.º — Classificação dos hospitais, centros hospitalares e unidades locais de saúde
+
+1 - Os hospitais, centros hospitalares e unidades locais de saúde classificam-se em grupos, de acordo com as respetivas especialidades desenvolvidas, a população abrangida, a capacidade de formação, a diferenciação dos recursos humanos, o modelo de financiamento, a classificação dos seus serviços de urgência e a complexidade da produção hospitalar.
+
+2 - As especialidades são incluídas nos respetivos grupos de classificação das instituições hospitalares por despacho do membro do Governo responsável pela área da saúde, após concluído o processo de aprovação de todas as RRH.
+
+3 - A lista das instituições hospitalares do SNS por grupo e por Administração Regional de Saúde é publicada após a aprovação das RRH para todas as especialidades hospitalares.
+
+###### Artigo 4.º — Centros de Referência
+
+No processo de elaboração e revisão, as RRH integram os Centros de Referência do SNS reconhecidos pelo Ministério da Saúde nos termos da Portaria n.º 194/2014, de 30 de setembro.
+
+###### Artigo 5.º — Referenciação
+
+A referenciação de doentes entre instituições hospitalares do SNS, conforme a diferenciação técnica dos cuidados de saúde a realizar no âmbito de cada especialidade, decorre das regras estabelecidas para cada RRH.
+
+###### Artigo 6.º — Recursos humanos
+
+O planeamento e a gestão de recursos humanos no SNS atende aos grupos de classificação e às RRH definidos nos termos da presente portaria.
+
+###### Artigo 7.º — Financiamento
+
+O financiamento das instituições hospitalares do SNS, no âmbito dos contratos-programa que são negociados anualmente com as Administrações Regionais de Saúde, deve atender às RRH definidas nos termos da presente portaria, sem prejuízo do que se encontra estipulado nos contratos de gestão dos hospitais em regime de Parceria Público-Privada (PPP) e nos acordos de cooperação que regulam a devolução de hospitais pertencentes às Misericórdias no âmbito do Decreto-Lei n.º 138/2013, de 9 de outubro.
+
+###### Artigo 8.º — Disposições finais
+
+1 - As RRH constantes da parte ii do anexo são submetidas a consulta pública a partir do dia 1 de junho de 2016, durante o período de 30 dias, após o qual as propostas efetuadas são objeto de avaliação, sendo posteriormente submetidas a aprovação as respetivas versões finais.
+
+2 - As propostas das RRH a apresentar por parte dos peritos designados, referidas na parte iii do anexo, devem estar concluídas até ao dia 30 de junho de 2016, para avaliação e submissão a consulta pública.
+
+3 - A designação dos peritos, para efeitos de elaboração das propostas das RRH constantes da parte iv do anexo, é efetuada até ao dia 31 de maio de 2016, devendo as respetivas propostas de RRH estar concluídas até ao dia 31 de dezembro de 2016, para avaliação e submissão a consulta pública.
+
+4 - Todas as RRH devem estar aprovadas até ao dia 31 de março de 2017.
+
+> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 331-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2021-176907550), em vigor a partir de 2022-01-01
+
+###### Artigo 9.º — Norma revogatória
+
+São revogadas as Portarias n.os 82/2014, de 10 de abril, e 123-A/2014, de 19 de junho.
+
+###### Artigo 10.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte após a sua publicação.
+
+O Secretário de Estado Adjunto e da Saúde, Fernando Manuel Ferreira Araújo, em 12 de maio de 2016.
+
+## Anexo — Redes de Referenciação Hospitalar do SNS
+
+## Parte I — Redes de Referenciação Hospitalar aprovadas:
+
+1) Anatomia patológica (aprovada por despacho do Secretário de Estado Adjunto da Saúde de 28 de fevereiro de 2017);
+
+2) Anestesiologia (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 19 de junho de 2017);
+
+3) Cardiologia (aprovada por despacho do Ministro da Saúde de 2 de novembro de 2015);
+
+4) Cirurgia geral (aprovada por despacho do Ministro da Saúde de 13 de novembro de 2015);
+
+5) Hematologia clínica (aprovada por despacho do Ministro da Saúde de 9 de novembro de 2015);
+
+6) Imuno-hemoterapia (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 9 de agosto de 2017)
+
+7) Infeção pelo VIH (aprovada por despacho do Ministro da Saúde de 19 de novembro de 2015 e alterada por despacho do Secretário de Estado Adjunto e da Saúde a 7 de agosto de 2018);
+
+8) Infeciologia (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 11 de agosto de 2017);
+
+9) Medicina física e de reabilitação (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 28 de fevereiro de 2017);
+
+10) Medicina intensiva (atualização aprovada por despacho da Ministra da Saúde de 18 de agosto de 2020);
+
+11) Medicina nuclear (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 18 de novembro de 2016);
+
+12) Nefrologia (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 19 de junho de 2017);
+
+13) Oftalmologia (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 4 de janeiro de 2017);
+
+14) Oncologia médica (aprovada por despacho do Ministro da Saúde de 9 de novembro de 2015);
+
+15) Otorrinolaringologia (aprovada por despacho do Secretário de Estado Adjunto da Saúde de 11 de agosto de 2017);
+
+16) Pneumologia (aprovada por despacho do Ministro da Saúde de 9 de novembro de 2015);
+
+17) Psiquiatria e saúde mental (aprovada por despacho do Ministro da Saúde de 23 de novembro de 2015);
+
+18) Radioncologia (aprovada por despacho do Ministro da Saúde de 9 de novembro de 2015);
+
+19) Reumatologia (aprovada por despacho do Ministro da Saúde de 23 de novembro de 2015);
+
+20) Urologia (aprovada por despacho do Secretário de Estado Adjunto e da Saúde, de 8 de agosto de 2017);
+
+21) Angiologia e cirurgia vascular (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 26 de setembro de 2017);
+
+22) Imunoalergologia (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 8 de agosto de 2018);
+
+23) Cirurgia cardiotorácica (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 19 de dezembro de 2017);
+
+24) Gastrentrologia e hepatologia (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 10 de janeiro de 2018);
+
+25) Neurocirurgia (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 6 de setembro de 2017);
+
+26) Neurologia (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 23 de março de 2018);
+
+27) Cirurgia plástica, reconstrutiva e estética (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 21 de dezembro de 2017);
+
+28) Estomatologia (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 15 de novembro de 2017);
+
+29) Psiquiatria da infância e da adolescência (aprovada por despacho do Secretário de Estado Adjunto e da Saúde de 9 de outubro de 2018).
+
+> Alterado pelo/a Parte I do/a [Portaria n.º 331-B/2021 - Diário da República n.º 253/2021, 2º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2021-176907550), em vigor a partir de 2022-01-01
+
+## Parte II — Redes de Referenciação Hospitalar em fase de submissão a consulta pública:
+
+1) Medicina nuclear (responsável pela elaboração da Rede designado através do despacho n.º 6769-A/2015, de 15 de junho);
+
+2) Oftalmologia (responsável pela elaboração da Rede designado através do despacho n.º 6769-A/2015, de 15 de junho);
+
+3) Saúde materna e infantil, incluindo cirurgia pediátrica (responsável pela elaboração da Rede designado através do despacho n.º 10871/2014, de 18 de agosto).
+
+## Parte III
+
+Redes de Referenciação Hospitalar em criação/revisão por parte dos peritos designados através do despacho n.º 6769-A/2015, de 15 de junho:
+
+1) Em revisão:
+
+i) Anatomia patológica;
+
+ii) Gastrenterologia e hepatologia;
+
+iii) Medicina física e de reabilitação;
+
+iv) Nefrologia;
+
+v) Urologia.
+
+2 - Em criação:
+
+i) Anestesiologia;
+
+ii) Cirurgia cardiotorácica;
+
+iii) Medicina intensiva;
+
+iv) Neurorradiologia;
+
+v) Ortopedia;
+
+vi) Patologia clínica;
+
+vii) Radiologia.
+
+## Parte IV — Redes de Referenciação Hospitalar em fase de designação dos peritos:
+
+1) Angiologia e cirurgia vascular;
+
+2) Cirurgia maxilo-facial;
+
+3) Cirurgia plástica, reconstrutiva e estética;
+
+4) Dermatovenereologia;
+
+5) Endocrinologia e nutrição;
+
+6) Estomatologia;
+
+7) Genética médica;
+
+8) Imunoalergologia;
+
+9) Imuno-hemoterapia;
+
+10) Infeciologia;
+
+11) Medicina interna;
+
+12) Neurocirurgia;
+
+13) Neurologia;
+
+14) Otorrinolaringologia;
+
+15) Psiquiatria da infância e da adolescência.

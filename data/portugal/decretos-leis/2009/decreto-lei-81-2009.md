@@ -1,0 +1,394 @@
+---
+schema_version: '1.0'
+id: pt:dre:603228:por
+title: Decreto-Lei n.º 81/2009
+short_title: null
+summary: Reestrutura a organização dos serviços operativos de saúde pública a nível regional e local, articulando com a organização
+  das administrações regionais de saúde e dos agrupamentos de centros de saúde
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 81/2009
+official_date: null
+publication_date: '2009-04-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 65/2009, Série I de 2009-04-02
+  number: '65'
+  series: I
+  supplement: null
+  pages: 2058 - 2062
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/04/06500/0205802062.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-10-01'
+version_history:
+  file: decreto-lei-81-2009.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2009-04-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-10-11'
+    amending: pt:dre:500071:por
+    amending_title: Decreto-Lei n.º 137/2013
+    changes:
+    - Adita Artigo 5.º-A
+    - Adita Artigo 10.º-A
+  - date: '2024-10-01'
+    amending: pt:dre:887091776:por
+    amending_title: Decreto-Lei n.º 54/2024
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º-A
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/81/2009/p/cons/20240906/pt/html
+  oj: null
+  dre: '603228'
+  dre_path: /dr/detalhe/decreto-lei/81-2009-603228
+  internal: pt:dre:603228:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228
+  metadata_url: https://data.dre.pt/eli/dec-lei/81/2009/p/cons/20240906/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-34547175
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-34547175
+  retrieved_at: '2026-10-22T11:51:33Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: a9e9b9ef972160e684ec84952e7859150fe70d7574394fb651bfbdad5b650487
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:51:33Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-81-2009.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Reestruturação de Serviços
+- Coordenador
+- Criação de Serviços
+- Definição de Competências
+- Delegado de Saúde
+- Administração Regional de Saúde
+- Diretor
+- Saúde Pública
+- Política de Saúde
+- Centro de Saúde
+- Serviço Público
+- Recursos Humanos
+- Unidade de Saúde Pública
+relationships:
+- type: amended_by
+  target: pt:dre:500071:por
+  label: Adita Artigo 5.º-A; Adita Artigo 10.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2013-500071
+  date: '2013-10-07'
+- type: amended_by
+  target: pt:dre:887091776:por
+  label: Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 5.º-A; Altera Artigo 6.º; Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776
+  date: '2024-09-06'
+- type: cites
+  target: pt:dre:247675:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/28/2008/02/22/p/dre
+- type: cites
+  target: pt:dre:352956:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/286/1999/07/27/p/dre
+- type: cites
+  target: pt:dre:638525:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/222/2007/05/29/p/dre
+article_structure:
+  article_count: 15
+  section_count: 4
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:51:33Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 81/2009
+
+A modificação do perfil de saúde e doença das populações que se tem verificado nas últimas décadas deve-se a vários e diferenciados factores, dos quais se destacam as condições ambientais planetárias em permanente evolução, as alterações dos estilos de vida nas diferentes sociedades e culturas, a globalização ocorrida na produção de bens, prestação de serviços e domínio do conhecimento, o rápido e intenso fluxo de pessoas entre continentes e países, entre outros.
+
+Estas modificações apontam para a necessidade de reforçar a capacidade de actuação dos serviços de saúde pública, reforço com reflexos inerentes na sua organização e funcionamento, de modo que a sua intervenção seja mais adaptada a responder aos desafios de uma realidade que deixou de conhecer fronteiras, mais eficiente no consumo de recursos que são sistematicamente escassos e norteada por critérios de qualidade que permitam satisfazer as necessidades de uma população que se tornou mais informada e exigente.
+
+Também em Portugal, a experiência dos últimos anos demonstrou a premência de uma intervenção mais fundamentada em áreas essenciais à melhoria do nível de saúde da população, devendo, para tal, ser reforçadas, entre outras, as funções e as actividades de vigilância e investigação epidemiológica, de prevenção da doença, de defesa, protecção e promoção da saúde, bem como a avaliação sistemática do impacte dos programas de saúde na comunidade.
+
+Efectivamente, os desafios que se colocam à saúde pública no contexto actual, impõem a existência de serviços modernos, racionalmente estruturados, com capacidade de diagnóstico e planeamento, capazes de apoiarem decisões, incluindo no que respeita a situações de crise grave ou de emergência.
+
+Mantendo-se integrado no âmbito dos serviços de saúde pública o exercício do poder de autoridade de saúde, enquanto obrigação do Estado de intervir atempadamente na defesa da saúde pública, esse regime especial é estabelecido em diploma próprio.
+
+Por outro lado, uma vez que os serviços de saúde pública interessam a todos os sectores económicos e agentes sociais, são, naturalmente, elementos catalisadores de parcerias e estratégias intersectoriais que asseguram participação colectiva no processo de defesa e promoção da saúde.
+
+Como consequência natural destes corolários, o presente decreto-lei vem reestruturar os serviços de saúde pública, distinguindo-se quer no plano operacional quer de organização de serviços, dois níveis de actuação, designadamente regional e local.
+
+A nível regional, funcionando como estrutura de vigilância e monitorização de saúde, numa perspectiva abrangente e detendo funções, igualmente, de vigilância epidemiológica, planeamento em saúde e definição de estratégias regionais e, ainda, de apoio técnico, articulando-se com todos os recursos de saúde pública da sua área de influência.
+
+A nível local, funcionando, do mesmo modo, como estrutura de vigilância e monitorização de saúde da população, dispondo de organização flexível que permite manter os serviços próximos do cidadão.
+
+Em síntese, o presente decreto-lei estabelece para os serviços operativos de saúde pública um modelo organizacional e técnico flexível, com vista a garantir de forma célere e eficaz a protecção da saúde das populações.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 48/90, de 24 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei estabelece as regras e princípios de organização dos serviços e funções de natureza operativa de saúde pública, sedeados a nível nacional, regional e local.
+
+###### Artigo 2.º — Organização
+
+As funções operativas do serviço de saúde pública de área de intervenção regional são exercidas pelas delegações regionais de saúde da Direção-Geral da Saúde (DGS).
+
+> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01
+
+###### Artigo 3.º — Competências
+
+1 - Os serviços de natureza operativa de saúde pública são serviços públicos criados em função da dimensão populacional residente na área respectiva de intervenção, com competência para:
+
+a) Identificar necessidades de saúde;
+
+b) Monitorizar o estado de saúde da população e seus determinantes;
+
+c) Promover a investigação e a vigilância epidemiológicas;
+
+d) Avaliar o impacte das várias intervenções em saúde;
+
+e) Gerir programas e projectos nas áreas de defesa, protecção e promoção da saúde da população, no quadro dos planos nacionais de saúde ou dos respectivos programas ou planos regionais ou locais de saúde, nomeadamente vacinação, saúde ambiental, saúde escolar, saúde ocupacional e saúde oral;
+
+f) Participar na execução das actividades dos programas descritos na alínea anterior, no que respeita aos determinantes globais da saúde ao nível dos comportamentos e do ambiente;
+
+g) Promover e participar na formação pré-graduada e pós-graduada e contínua dos diversos grupos profissionais que integram.
+
+2 - Os serviços de natureza operativa de saúde pública devem orientar a sua intervenção para a prossecução das Operações Essenciais de Saúde Pública, nos termos da Organização Mundial da Saúde, nomeadamente:
+
+a) Manter a vigilância da saúde e bem-estar dos cidadãos, incluindo a recolha de dados para a produção de estatísticas, e medidas de acompanhamento nas áreas das doenças comunicáveis e não comunicáveis, saúde mental, saúde materna e infantil, saúde ocupacional e ambiente, bem como proceder a inquéritos e outras medidas de seguimento de estilos de vida e padrões de comportamento;
+
+b) Monitorização e resposta a riscos e emergências em saúde pública, incluindo riscos químicos, biológicos, radiológicos e nucleares;
+
+c) Contribuir para assegurar a proteção da saúde nas vertentes ambiental, climática, ocupacional, alimentar e de outras constantes do Plano Nacional de Saúde;
+
+d) Promover a saúde através de ações sobre os determinantes sociais, com especial enfoque na identificação de pessoas e populações com riscos diferenciados, contribuindo para políticas intersetoriais que promovam a saúde e progressivamente eliminem as desigualdades;
+
+e) Atuar na prevenção da doença, em particular pela eliminação da exposição a agentes nocivos para a saúde, garantir a cobertura vacinal adequada, modelação de comportamentos e participando em programas de deteção precoce;
+
+f) Contribuir para a planificação das ações e atividades necessárias para a manutenção da saúde das populações, incluindo a avaliação de impactos na saúde de políticas transversais;
+
+g) Manter a formação e certificação dos recursos humanos da saúde pública;
+
+h) Promover a gestão sustentável de recursos financeiros e materiais disponíveis;
+
+i) Assegurar a sensibilização das pessoas, mantendo e melhorando continuadamente a comunicação sobre saúde e a mobilização social para as responsabilidades individuais e coletivas para com a saúde pública;
+
+j) Prosseguir investigação em saúde pública, incluindo sobre serviços de saúde, com vista a produzir conhecimentos para a elaboração e implementação de políticas de saúde.
+
+3 - As competências dos serviços de natureza operativa de saúde pública integram o exercício do poder de autoridade de saúde, no cumprimento da obrigação do Estado de intervir na defesa da saúde pública, conforme legislação especial aplicável.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 137/2013 - Diário da República n.º 193/2013, Série I de 2013-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2013-500071), em vigor a partir de 2013-10-12
+
+###### Artigo 4.º — Cooperação e dever de colaboração
+
+1 - O desempenho das funções operativas dos serviços de saúde pública observa os seguintes princípios:
+
+a) A nível regional, cada delegação regional de saúde deve garantir o funcionamento e a disponibilidade da informação em saúde, bem como a necessária articulação com as demais delegações regionais de saúde e unidades orgânicas da DGS, bem como com as ULS;
+
+b) A nível local, as unidades de saúde pública das ULS devem garantir a funcionalidade do sistema e circuitos de informação, bem como a necessária articulação com as outras unidades funcionais das unidades locais de saúde e outros estabelecimentos e serviços da sua área geodemográfica.
+
+2 - No exercício das funções operativas, os serviços de saúde pública acedem à informação armazenada nos sistemas integrados de informação em saúde, incluindo os hospitais na respectiva área de influência, respeitando as regras nacionais definidas para a segurança, protecção e confidencialidade dos dados pessoais e demais informação.
+
+3 - No exercício das funções operativas, os serviços de saúde pública garantem a necessária cooperação e articulação com instituições públicas relevantes para a saúde, com partilha e divulgação de informação e conhecimento, podendo ainda envolver outras instituições, públicas, privadas ou da área social, relevantes para a saúde da comunidade em geral.
+
+> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01
+
+###### Artigo 5.º — Situações de risco para a saúde pública
+
+1 - Em situações de risco para a saúde pública, ou de necessidade de vigilância epidemiológica, podem os serviços operativos de saúde pública requerer a todas as instituições e profissionais de saúde, públicos ou privados, os dados e a informação em saúde que considerem essenciais para o controlo de tais riscos, ou para o exercício dessa vigilância.
+
+2 - As entidades referidas no número anterior devem prestar toda a colaboração que lhes seja solicitada no sentido de serem atingidas as finalidades do processo de recolha de informação para o controlo dos riscos de saúde pública ou do exercício de vigilância.
+
+3 - Para efeitos do n.º 1, os dados essenciais para tratamento de informação de saúde pública incluem descrições clínicas, resultados laboratoriais, fontes e tipos de riscos, número de casos humanos e de mortes, condições que determinem a propagação da doença e medidas aplicadas, bem como quaisquer outras informações que forneçam meios de prova com base em métodos científicos estabelecidos e aceites.
+
+###### Artigo 5.º-A — Designação
+
+O processo de designação dos diretores das delegações regionais de saúde e dos coordenadores das unidades de saúde pública envolve as diligências e formalidades previstas para a designação da autoridade de saúde, nos termos da legislação especial aplicável.
+
+> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 137/2013 - Diário da República n.º 193/2013, Série I de 2013-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2013-500071), em vigor a partir de 2013-10-11
+
+### Capítulo II — Serviços de âmbito regional
+
+###### Artigo 6.º — Diretores das delegações regionais de saúde
+
+1 - Aos diretores das delegações regionais de saúde compete:
+
+a) Assegurar o funcionamento do serviço e o cumprimento dos objectivos programados, orientado por critérios de eficiência e qualidade técnica, com vista à sua melhoria contínua;
+
+b) Promover a avaliação sistemática das actividades, de acordo com os objectivos e competências previstos no artigo 3.º;
+
+c) Elaborar o regulamento interno da delegação regional e submetê-lo à aprovação do diretor-geral da Saúde;
+
+d) Elaborar a proposta do plano de ação e respetivo orçamento e submetê-lo a aprovação do diretor-geral da Saúde e assegurar a sua execução;
+
+e) Garantir o funcionamento operacional do sistema de informação, nos seus componentes de circuito interno, circuitos entre serviços de nível regional e local e circuitos de informação resultantes da articulação com as outras instituições relevantes para a saúde da população da região;
+
+f) Promover uma articulação e cooperação eficientes com os demais serviços de saúde e outras entidades externas;
+
+g) Assegurar a formação pós-graduada e contínua dos diversos grupos profissionais sob a sua direcção.
+
+2 - (Revogado).
+
+> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 137/2013 - Diário da República n.º 193/2013, Série I de 2013-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2013-500071), em vigor a partir de 2013-10-12
+
+###### Artigo 7.º — Organização e funcionamento
+
+1 - As competências de cada delegação regional de saúde constam da portaria que aprova a estrutura nuclear da DGS.
+
+2 - A organização e funcionamento de cada delegação regional de saúde constam de regulamento próprio aprovado pelo diretor-geral da Saúde, o qual se deve reger, no que respeita às funções operativas de serviços de saúde pública, pelos seguintes princípios:
+
+a) Flexibilidade da estrutura organizacional, privilegiando a diferenciação técnica dos recursos humanos nas áreas de intervenção previstas no artigo 3.º;
+
+b) Diferenciação das unidades integrantes cuja desagregação se justifique, de forma a proporcionar uma resposta eficiente e de qualidade nas áreas de informação e planeamento em saúde, vigilância epidemiológica, gestão de programas e projectos de intervenção em saúde pública, incluindo, obrigatoriamente, o programa nacional de vacinação;
+
+c) Criação de equipas móveis para apoio ao nível local e intervenção no terreno em situações especiais, designadamente em situações que impliquem grave risco para a saúde pública.
+
+3 - O número de profissionais que integram o departamento de saúde pública deve ser ajustado à dimensão populacional da sua área de intervenção e, na sua composição, integrar, nomeadamente, técnicos das seguintes áreas profissionais:
+
+a) Médicos com o grau de especialista em saúde pública;
+
+b) Enfermeiros, preferencialmente com diferenciação em saúde pública ou saúde comunitária;
+
+c) Técnicos superiores de saúde nos ramos de engenharia sanitária, laboratório, nutrição e psicologia;
+
+d) Técnicos de diagnóstico e terapêutica das áreas de saúde ambiental, análises clínicas e de saúde pública e saúde oral;
+
+e) Outros técnicos, nomeadamente das áreas de informática, estatística, comunicação, que podem ser partilhados entre serviços e sectores de outros departamentos ou unidades.
+
+> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01
+
+### Capítulo III — Serviços de âmbito local
+
+###### Artigo 8.º — Unidade de saúde pública
+
+1 - Em cada agrupamento de centros de saúde ou, com as necessárias adaptações, em cada unidade local de saúde, existe uma unidade de saúde pública que possui autonomia organizativa e técnica.
+
+2 - Sem prejuízo das funções atribuídas pelo n.º 1 do artigo 12.º do Decreto-Lei n.º 28/2008, de 22 de Fevereiro, a unidade de saúde pública:
+
+a) Assume uma estrutura organizacional flexível, permitindo a necessária adequação às especificidades geodemográficas e em que se privilegie a diferenciação técnica dos recursos nas áreas de diagnóstico e intervenção previstas;
+
+b) Elabora regulamento interno, contendo, nomeadamente, a missão, valores e visão, a estrutura orgânica e o funcionamento, o modelo de gestão do sistema de informação, áreas de actuação e níveis de responsabilização dos diferentes grupos de profissionais que integram a equipa, carta de qualidade e regras gerais para a formação contínua dos profissionais, submetendo-o à aprovação do director executivo.
+
+3 - Na constituição da equipa referida no n.º 2 do artigo 12.º do Decreto-Lei n.º 28/2008, de 22 de Fevereiro, relativa aos agrupamentos de centros de saúde, devem ser observados, de forma indicativa, de acordo com os recursos humanos disponíveis e conforme as características geodemográficas da zona de intervenção, os seguintes rácios:
+
+a) Um médico com o grau de especialista em saúde pública por cada 25 000 habitantes;
+
+b) Um enfermeiro por cada 30 000 habitantes;
+
+c) Um técnico de saúde ambiental por cada 15 000 habitantes.
+
+4 - Sem prejuízo do disposto no número anterior, considerando as áreas funcionais a desenvolver, bem como as características da população abrangida, podem ser aplicados outros rácios ou integrados outros profissionais nas referidas equipas em número adequado à defesa da saúde pública.
+
+###### Artigo 9.º — Participação de nível municipal
+
+1 - Com vista a colaborar nos projectos relevantes para a respectiva área de intervenção, o coordenador da unidade de saúde pública de cada agrupamento de centros de saúde deve propor ao director executivo respectivo:
+
+a) A celebração de protocolos com as autarquias interessadas;
+
+b) A participação na criação e actividade de comissões de âmbito municipal com intervenção na área de saúde pública.
+
+2 - No desenvolvimento da alínea a) do número anterior, os referidos protocolos podem ter como objecto o acompanhamento de programas intersectoriais para prevenção e promoção da saúde, nomeadamente no que respeita a doenças crónicas, doenças transmissíveis e determinantes sociais e ambientais, que constituam risco para a saúde pública das populações, bem como o incremento de estilos de vida saudáveis.
+
+3 - No desenvolvimento da alínea b) do n.º 1 e sem prejuízo da independência técnica e hierárquica dos respectivos serviços, o coordenador da unidade de saúde pública de cada agrupamento de centros de saúde pode participar no processo de facilitação de constituição de uma comissão municipal de saúde comunitária junto de cada câmara municipal, com ela devendo manter colaboração regular.
+
+4 - A comissão prevista no número anterior é constituída por representantes das áreas da justiça, da segurança social, da saúde e da educação, das câmaras municipais e de organizações da sociedade civil, nos termos a definir em decreto-lei.
+
+5 - O director executivo dos agrupamentos de centros de saúde deve dar conhecimento, ao conselho directivo da ARS territorialmente competente, das situações referidas nos números anteriores.
+
+###### Artigo 10.º — Coordenação da unidade de saúde pública
+
+O coordenador da unidade de saúde pública é, por inerência, o delegado de saúde, designado nos termos de legislação aplicável às autoridades de saúde.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 137/2013 - Diário da República n.º 193/2013, Série I de 2013-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2013-500071), em vigor a partir de 2013-10-12
+
+###### Artigo 10.º-A — Regiões Autónomas
+
+O presente decreto-lei é aplicável no território nacional, sem prejuízo da salvaguarda das competências dos órgãos de governo próprio das Regiões Autónomas.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 137/2013 - Diário da República n.º 193/2013, Série I de 2013-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2013-500071), em vigor a partir de 2013-10-11
+
+### Capítulo IV — Disposições finais e transitórias
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 137/2013 - Diário da República n.º 193/2013, Série I de 2013-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2013-500071), em vigor a partir de 2013-10-12
+
+###### Artigo 11.º — Disposição transitória
+
+Até à constituição de cada unidade de saúde pública na respectiva área territorial correspondente ao ACES, mantém-se, a nível de cada município, a actual estrutura dos serviços de saúde pública.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 137/2013 - Diário da República n.º 193/2013, Série I de 2013-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2013-500071), em vigor a partir de 2013-10-12
+
+###### Artigo 12.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 286/99, de 27 de Julho, à excepção do seu artigo 24.º
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 137/2013 - Diário da República n.º 193/2013, Série I de 2013-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2013-500071), em vigor a partir de 2013-10-12
+
+###### Artigo 13.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 90 dias após a sua publicação.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 137/2013 - Diário da República n.º 193/2013, Série I de 2013-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2013-500071), em vigor a partir de 2013-10-12
+
+Visto e aprovado em Conselho de Ministros de 21 de Janeiro de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Pedro Manuel Dias de Jesus Marques - Francisco Ventura Ramos - Maria de Lurdes Reis Rodrigues.
+
+Promulgado em 13 de Março de 2009.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 16 de Março de 2009.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

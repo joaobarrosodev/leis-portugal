@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:632692:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2003-909466283",
+ "dre_path": "/dr/detalhe/lei/96-2003-632692",
+ "source_lastmod": "2025-02-28",
+ "versions": [
+  {
+   "date": "2003-08-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "909467181"
+   ]
+  }
+ ],
+ "fragments": {
+  "909467181": {
+   "fragment_id": "909466284",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 96/2003\n\nde 26 de Agosto\n\nElevação da povoação de Aver-o-Mar, no concelho da Póvoa de Varzim, distrito do Porto, à categoria de vila\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral de República, o seguinte:"
+  }
+ }
+}

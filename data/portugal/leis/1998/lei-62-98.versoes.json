@@ -1,0 +1,490 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:566628:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1998-67409489",
+ "dre_path": "/dr/detalhe/lei/62-1998-566628",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-09-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "67420675",
+    "67420676",
+    "67420677",
+    "67420678",
+    "67420679",
+    "67420680",
+    "67420681",
+    "67420682",
+    "67420684"
+   ]
+  },
+  {
+   "date": "2004-09-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:479605:por",
+     "title": "Lei n.º 50/2004",
+     "published": "2004-08-24",
+     "dre_path": "/dr/detalhe/lei/50-2004-479605"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 8.º",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 7.º"
+   ],
+   "fragments": [
+    "67420675",
+    "67420699",
+    "67420700",
+    "67420701",
+    "67420702",
+    "67420705",
+    "67420706",
+    "67420707",
+    "67420708",
+    "67420709",
+    "67420696"
+   ]
+  },
+  {
+   "date": "2015-07-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67409481:por",
+     "title": "Lei n.º 49/2015",
+     "published": "2015-06-05",
+     "dre_path": "/dr/detalhe/lei/49-2015-67409481"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 5.º-A",
+    "Adita Anexo I"
+   ],
+   "fragments": [
+    "67420675",
+    "67545551",
+    "67545569",
+    "67545568",
+    "67545570",
+    "67545571",
+    "67545572",
+    "67545573",
+    "67545574",
+    "67566075",
+    "67566076",
+    "67566077",
+    "67566078",
+    "67566079"
+   ]
+  },
+  {
+   "date": "2017-08-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108041479:por",
+     "title": "Decreto-Lei n.º 100/2017",
+     "published": "2017-08-23",
+     "dre_path": "/dr/detalhe/decreto-lei/100-2017-108041479"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "67420675",
+    "67545551",
+    "67545569",
+    "67545568",
+    "67545570",
+    "67545571",
+    "67545572",
+    "67545573",
+    "67545574",
+    "67566075",
+    "67566076",
+    "67566077",
+    "67566078",
+    "889911551"
+   ]
+  },
+  {
+   "date": "2020-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:130893436:por",
+     "title": "Lei n.º 2/2020",
+     "published": "2020-03-31",
+     "dre_path": "/dr/detalhe/lei/2-2020-130893436"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 5.º-A"
+   ],
+   "fragments": [
+    "67420675",
+    "67545551",
+    "67545569",
+    "67545568",
+    "67545570",
+    "67545571",
+    "889911552",
+    "67545573",
+    "67545574",
+    "67566075",
+    "67566076",
+    "67566077",
+    "67566078",
+    "889911551"
+   ]
+  }
+ ],
+ "fragments": {
+  "67420675": {
+   "fragment_id": "67409490",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 62/98\n\nde 1 de Setembro\n\nRegula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º, da alínea d) do n.º 1 do artigo 165.º e do n.º 3 do artigo 166.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "67420676": {
+   "fragment_id": "67409491",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente lei regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, aprovado pelo Decreto-Lei n.º 63/85, de 14 de Março, na redacção dada pelas Leis n.os 45/85, de 17 de Setembro, e 114/91, de 3 de Setembro.\n\n2 - O disposto na presente lei não se aplica aos programas de computador nem às bases de dados constituídas por meios informáticos, bem como aos equipamentos de fixação e reprodução digitais e correspondentes suportes."
+  },
+  "67420677": {
+   "fragment_id": "67409492",
+   "type": 11,
+   "heading": "Artigo 2.º — Compensação devida pela reprodução ou gravação de obras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Compensação devida pela reprodução ou gravação de obras\n\nNo preço de venda ao público de todos e quaisquer aparelhos mecânicos, químicos, electrónicos ou outros que permitam a fixação e reprodução de obras e, bem assim, de todos e quaisquer suportes materiais virgens analógicos das fixações e reproduções que por qualquer desses meios possam obter-se incluir-se-á uma quantia destinada a beneficiar os autores, os artistas intérpretes ou executantes, os editores, os produtores fonográficos e os videográficos."
+  },
+  "67420678": {
+   "fragment_id": "67409493",
+   "type": 11,
+   "heading": "Artigo 3.º — Fixação do montante da remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Fixação do montante da remuneração\n\n1 - O montante da remuneração referida no artigo anterior é anualmente fixado, em função do tipo de suporte e da duração do registo que o permite, por despacho conjunto dos Ministros das Finanças e da Cultura, ouvidas as entidades referidas nos artigos 6.º e 8.º\n\n2 - Sempre que a utilização seja habitual e para servir o público, o preço de venda ao público das fotocópias, electrocópias e demais suportes inclui uma remuneração cujo montante é fixado por acordo entre a pessoa colectiva prevista no artigo 6.º e as entidades públicas e privadas, com ou sem fins lucrativos, que utilizem aparelhos que permitam a fixação e a reprodução de obras e prestações.\n\n3 - A remuneração a incluir no preço de venda ao público dos aparelhos de fixação e reprodução de obras e prestações é igual a 3% do preço de venda estabelecido pelos respectivos fabricantes e importadores.\n\n4 - A duração de gravação de um suporte áudio ou vídeo presume-se ser a nele indicada pelo fabricante.\n\n> Nota: [Acórdão n.º 616/2003 - Diário da República n.º 62/2004, Série I-A de 2004-03-13](https://diariodarepublica.pt/dr/detalhe/acordao/616-2003-532271) Declara a inconstitucionalidade, com força obrigatória geral, das normas do artigo 3.º, n.os 1 e 2."
+  },
+  "67420679": {
+   "fragment_id": "67409494",
+   "type": 11,
+   "heading": "Artigo 4.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Isenções\n\nNão são devidas as remunerações referidas nos artigos anteriores quando os equipamentos ou os suportes sejam adquiridos por organismos de comunicação audiovisual ou produtores de fonogramas e de videogramas exclusivamente para as suas próprias produções ou por organismos que os utilizem para fins exclusivos de auxílio a pessoas portadoras de diminuição física visual ou auditiva, bem como, nos termos de despacho conjunto dos Ministros das Finanças e da Cultura, por entidades de carácter cultural sem fins lucrativos para uso em projectos de relevante interesse público."
+  },
+  "67420680": {
+   "fragment_id": "67409495",
+   "type": 11,
+   "heading": "Artigo 5.º — Cobrança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Cobrança\n\n1 - A responsabilidade pelo pagamento das remunerações fixadas pela presente lei incumbe ao primeiro adquirente dos aparelhos e suportes em território nacional, desde que estes não se destinem a exportação ou reexportação.\n\n2 - A responsabilidade pela cobrança e entrega à pessoa colectiva referida no artigo 6.º das remunerações previstas no número anterior incumbe aos fabricantes estabelecidos no território nacional e aos importadores.\n\n3 - Os montantes pecuniários referidos no n.º 2 deverão ser pagos, trimestralmente, mediante depósito em conta bancária a favor da pessoa colectiva prevista no artigo 6.º\n\n4 - Para os efeitos do disposto no número anterior, serão celebrados acordos entre as entidades interessadas no procedimento, que regularão os modos de cumprimento das obrigações previstas na presente lei.\n\n5 - Os fabricantes e os importadores comunicam, semestralmente, à Inspecção-Geral das Actividades Culturais e à pessoa colectiva prevista no artigo 6.º as seguintes informações:\n\na) As quantidades de aparelhos e suportes cujo preço inclui a remuneração;\n\nb) O preço de venda dos aparelhos e suportes a que acresce a remuneração;\n\nc) A remuneração total cobrada."
+  },
+  "67420681": {
+   "fragment_id": "67409496",
+   "type": 11,
+   "heading": "Artigo 6.º — Pessoa colectiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Pessoa colectiva\n\n1 - As entidades legalmente existentes que representam os autores, os artistas intérpretes ou executantes, os editores, os produtores fonográficos e os videográficos criarão uma pessoa colectiva, sem fins lucrativos, de natureza associativa ou cooperativa, que tem por objecto a cobrança e gestão das quantias previstas na presente lei.\n\n2 - Os estatutos da pessoa colectiva deverão regular, entre outras, as seguintes matérias:\n\na) Objecto e duração;\n\nb) Denominação e sede;\n\nc) Órgãos sociais;\n\nd) Modos de cobrança das remunerações fixadas pela presente lei;\n\ne) Critérios de repartição das remunerações entre os membros dos associados, incluindo os modos de distribuição e pagamento aos beneficiários que não estejam inscritos nos respectivos organismos, mas que se presume serem por estes representados;\n\nf) Publicidade das deliberações sociais;\n\ng) Direitos e deveres dos associados;\n\nh) Estrutura e organização interna, designadamente a previsão de existência de dois departamentos autónomos na cobrança e gestão das remunerações percebidas, correspondentes, por um lado, a cópia de obras reproduzidas em fonogramas e videogramas e, por outro lado, a cópia de obras editadas em suporte papel e electrónico;\n\ni) Dissolução e destino do património.\n\n3 - A pessoa colectiva deverá organizar-se e agir de modo a integrar como membros os organismos que se venham a constituir e que requeiram a sua integração, sempre que se mostre que estes são representativos dos interesses e direitos que se visa proteger, em ordem a garantir os princípios da igualdade, representatividade, liberdade, pluralismo e participação.\n\n4 - Os litígios emergentes da aplicação do disposto no número anterior serão resolvidos por arbitragem obrigatória, nos termos da legislação geral aplicável, sendo o árbitro presidente designado por despacho do Ministro da Cultura.\n\n5 - A pessoa colectiva poderá celebrar acordos com entidades públicas e privadas que utilizem equipamentos para fixação e reprodução de obras e prestações, com ou sem fins lucrativos, em ordem a garantir os legítimos direitos de autor e conexos consignados no respectivo Código.\n\n6 - O conselho fiscal da pessoa colectiva será assegurado por um revisor oficial de contas (ROC).\n\n7 - A pessoa colectiva publicará anualmente o relatório e contas do exercício num jornal de âmbito nacional.\n\n8 - A entidade que vier a constituir-se para proceder à gestão das remunerações obtidas deverá adaptar-se oportunamente às disposições legais que enquadrem as sociedades de gestão colectiva."
+  },
+  "67420682": {
+   "fragment_id": "67409497",
+   "type": 11,
+   "heading": "Artigo 7.º — Afectação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Afectação\n\n1 - A pessoa colectiva deve afectar 20% do total das remunerações percebidas para acções de incentivo à actividade cultural e à investigação e divulgação dos direitos de autor e direitos conexos.\n\n2 - A pessoa colectiva deve, deduzidos os custos do seu funcionamento, repartir o remanescente das quantias recebidas nos termos dos artigos anteriores do seguinte modo:\n\na) No caso do disposto no n.º 1 do artigo 3.º: 40% para os organismos representativos dos autores, 30% para os organismos representativos dos artistas intérpretes ou executantes e 30% para os organismos representativos dos produtores fonográficos e videográficos;\n\nb) No caso do disposto no n.º 2 do artigo 3.º: 50% para os organismos representativos dos autores e 50% para os organismos representativos dos editores."
+  },
+  "67420684": {
+   "fragment_id": "67409499",
+   "type": 11,
+   "heading": "Artigo 9.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima de 100000$00 a 1000000$00 a venda de equipamentos ou suportes em violação do disposto nos n.os 1, 2 e 3 do artigo 3.º\n\n2 - Constitui contra-ordenação punível com coima de 25000$00 a 300000$00 o não envio da comunicação prevista no n.º 5 do artigo 5.º\n\n3 - A fiscalização do cumprimento das disposições constantes na presente lei compete à Inspecção-Geral das Actividades Culturais e a todas as autoridades policiais e administrativas.\n\n4 - O processamento das contra-ordenações e a aplicação das coimas são da competência da Inspecção-Geral das Actividades Culturais.\n\n5 - O produto da aplicação das coimas previstas no presente artigo constitui receita do Fundo de Fomento Cultural e destina-se a contribuir para financiar programas de incentivo à promoção de actividades culturais."
+  },
+  "67420699": {
+   "fragment_id": "67409491",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2004-09-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente lei regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, aprovado pelo Decreto-Lei n.º 63/85, de 14 de Março, na redacção dada pelas Leis n.os 45/85, de 17 de Setembro, e 114/91, de 3 de Setembro, pela lei que transpõe para a ordem jurídica nacional a Directiva n.º 2001/29/CE, do Parlamento Europeu e do Conselho, de 22 de Maio, e pelos Decretos-Leis n.os 332/97 e 334/97, ambos de 27 de Novembro.\n\n2 - O disposto na presente lei não se aplica aos computadores, aos seus programas nem às bases de dados constituídas por meios informáticos, bem como aos equipamentos de fixação e reprodução digitais.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+  },
+  "67420700": {
+   "fragment_id": "67409492",
+   "type": 11,
+   "heading": "Artigo 2.º — Compensação devida pela reprodução ou gravação de obras",
+   "in_force_from": "2004-09-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+   ],
+   "markdown": "###### Artigo 2.º — Compensação devida pela reprodução ou gravação de obras\n\nCom vista a beneficiar os autores, os artistas intérpretes ou executantes, os editores e os produtores fonográficos e videográficos, uma quantia é incluída no preço de venda ao público:\n\na) De todos e quaisquer aparelhos mecânicos, químicos, electrónicos ou outros que permitam a fixação e reprodução de obras como finalidade única ou principal, com excepção dos equipamentos digitais;\n\nb) Dos suportes materiais virgens digitais ou analógicos, com excepção do papel, previstos no n.º 4 do artigo 3.º, bem como das fixações e reproduções que por qualquer desses meios possam obter-se.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+  },
+  "67420701": {
+   "fragment_id": "67409493",
+   "type": 11,
+   "heading": "Artigo 3.º — Fixação do montante da remuneração",
+   "in_force_from": "2004-09-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+   ],
+   "markdown": "###### Artigo 3.º — Fixação do montante da remuneração\n\n1 - A remuneração a incluir no preço de venda ao público dos aparelhos de fixação e reprodução de obras e prestações é igual a 3% do preço de venda, antes da aplicação do IVA, estabelecido pelos respectivos fabricantes e importadores.\n\n2 - Sempre que a utilização seja habitual e para servir o público mediante a prática de actos de comércio, o preço de venda ao público das fotocópias de obras, electrocópias e demais suportes inclui uma remuneração correspondente a 3% do valor do preço de venda, antes da aplicação do IVA, montante que é gerido pela pessoa colectiva responsável pela cobrança e gestão das quantias previstas na presente lei.\n\n3 - Para os efeitos do disposto no número anterior, e em ordem a permitir a sua correcta exequibilidade, nas condições supramencionadas, aparelhos que permitam a fixação e a reprodução de obras e prestações, celebrar acordos com a pessoa colectiva referida no número anterior.\n\n4 - No preço de venda ao público, antes da aplicação de IVA, de cada um dos suportes, analógicos e digitais, é incluída uma remuneração, nos termos a seguir indicados:\n\n(ver tabela no documento original)\n\n> Nota: [Acórdão n.º 616/2003 - Diário da República n.º 62/2004, Série I-A de 2004-03-13](https://diariodarepublica.pt/dr/detalhe/acordao/616-2003-532271) Declara a inconstitucionalidade, com força obrigatória geral, das normas do artigo 3.º, n.os 1 e 2.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+  },
+  "67420702": {
+   "fragment_id": "67409494",
+   "type": 11,
+   "heading": "Artigo 4.º — Isenções",
+   "in_force_from": "2004-09-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+   ],
+   "markdown": "###### Artigo 4.º — Isenções\n\n1- Não são devidas as remunerações referidas nos artigos anteriores quando os equipamentos ou os suportes sejam adquiridos por organismos de comunicação audiovisual ou produtores de fonogramas e de videogramas exclusivamente para as suas próprias produções ou por organismos que os utilizem para fins exclusivos de auxílio a pessoas portadoras de diminuição física visual ou auditiva, bem como, nos termos de despacho conjunto dos Ministros das Finanças e da Cultura, por entidades de carácter cultural sem fins lucrativos para uso em projectos de relevante interesse público.\n\n2 - Para os efeitos da aplicação das isenções previstas no número anterior, os organismos por este abrangidos devem apresentar, no acto da compra dos aparelhos e suportes, uma declaração emitida pela pessoa colectiva responsável pela cobrança e gestão das quantias previstas na presente lei, de onde conste que a utilização dos mesmos se integra numa das situações de isenção consagradas.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+  },
+  "67420705": {
+   "fragment_id": "67409495",
+   "type": 11,
+   "heading": "Artigo 5.º — Pessoa colectiva",
+   "in_force_from": "2004-09-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+   ],
+   "markdown": "###### Artigo 5.º — Pessoa colectiva\n\n1 - As entidades legalmente existentes que representam os autores, os artistas intérpretes ou executantes, os editores, os produtores fonográficos e os videográficos criarão uma pessoa colectiva, sem fins lucrativos, de natureza associativa ou cooperativa, que tem por objecto a cobrança e gestão das quantias previstas na presente lei.\n\n2 - Os estatutos da pessoa colectiva deverão regular, entre outras, as seguintes matérias:\n\na) Objecto e duração;\n\nb) Denominação e sede;\n\nc) Órgãos sociais;\n\nd) Modos de cobrança das remunerações fixadas pela presente lei;\n\ne) Critérios de repartição das remunerações entre os membros dos associados, incluindo os modos de distribuição e pagamento aos beneficiários que não estejam inscritos nos respectivos organismos, mas que se presume serem por estes representados;\n\nf) Publicidade das deliberações sociais;\n\ng) Direitos e deveres dos associados;\n\nh) Estrutura e organização interna, designadamente a previsão de existência de dois departamentos autónomos na cobrança e gestão das remunerações percebidas, correspondentes, por um lado, a cópia de obras reproduzidas em fonogramas e videogramas e, por outro lado, a cópia de obras editadas em suporte papel e electrónico;\n\ni) Dissolução e destino do património.\n\n3 - A pessoa colectiva deverá organizar-se e agir de modo a integrar como membros os organismos que venham a constituir-se e que requeiram a sua integração, sempre que se mostre que estes são representativos dos interesses e direitos que se visa proteger, em ordem a garantir os princípios da igualdade, representatividade, liberdade, pluralismo e participação.\n\n4 - Os litígios emergentes da aplicação do disposto no número anterior são resolvidos por arbitragem obrigatória, nos termos da legislação geral.\n\n5 - A pessoa colectiva poderá celebrar acordos com entidades públicas e privadas que utilizem equipamentos para fixação e reprodução de obras e prestações, com ou sem fins lucrativos, em ordem a garantir os legítimos direitos de autor e conexos consignados no respectivo Código.\n\n6 - O conselho fiscal da pessoa colectiva será assegurado por um revisor oficial de contas (ROC).\n\n7 - A pessoa colectiva publicará anualmente o relatório e contas do exercício num jornal de âmbito nacional.\n\n8 - A entidade que vier a constituir-se para proceder à gestão das remunerações obtidas deverá adaptar-se oportunamente às disposições legais que enquadrem as sociedades de gestão colectiva.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+  },
+  "67420706": {
+   "fragment_id": "67409496",
+   "type": 11,
+   "heading": "Artigo 6.º — Comissão de acompanhamento",
+   "in_force_from": "2004-09-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+   ],
+   "markdown": "###### Artigo 6.º — Comissão de acompanhamento\n\n1 - É constituída uma comissão presidida por um representante do Estado designado por despacho do Primeiro-Ministro e composta por uma metade de pessoas designadas pelos organismos representativos dos titulares de direito, por um quarto de pessoas designadas pelos organismos representativos dos fabricantes ou importadores de suportes e aparelhos mencionados no artigo 3.º e por um quarto de pessoas designadas pelos organismos representativos dos consumidores.\n\n2 - Os organismos convidados a designar os membros da comissão, bem como o número de pessoas a designar por cada um, serão determinados por despacho do Ministro da Cultura.\n\n3 - A comissão reúne pelo menos uma vez por ano, sob convocação do seu presidente ou a requerimento escrito da maioria dos seus membros, para avaliar as condições de implementação da presente lei.\n\n4 - As deliberações da comissão são aprovadas por maioria dos membros presentes, tendo o presidente voto de qualidade.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+  },
+  "67420707": {
+   "fragment_id": "67409497",
+   "type": 11,
+   "heading": "Artigo 7.º — Contra-ordenações",
+   "in_force_from": "2004-09-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+   ],
+   "markdown": "###### Artigo 7.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima de (euro) 500 a (euro) 5000 a venda de equipamentos ou suportes, em violação do disposto nos n.os 1, 2 e 4 do artigo 3.º\n\n2 - A fiscalização do cumprimento das disposições constantes na presente lei compete à Inspecção-Geral das Actividades Culturais e a todas as autoridades policiais e administrativas.\n\n3 - O processamento das contra-ordenações e a aplicação das coimas são da competência da Inspecção-Geral das Actividades Culturais.\n\n4 - O produto da aplicação das coimas previstas no presente artigo constitui receita do Estado e da Inspecção-Geral das Actividades Culturais, respectivamente, nas percentagens de 60% e 40%.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+  },
+  "67420708": {
+   "fragment_id": "67409520",
+   "type": 11,
+   "heading": "Artigo 8.º — Regulamentação",
+   "in_force_from": "2004-09-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+   ],
+   "markdown": "###### Artigo 8.º — Regulamentação\n\nAs matérias constantes da presente lei, para as quais se torne necessária definição processual ou procedimental não qualificada, serão objecto de aprovação por decreto regulamentar.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+  },
+  "67420709": {
+   "fragment_id": "67409499",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": "2004-09-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+   ],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nA presente lei entra em vigor 30 dias após a sua publicação.\n\n> Alterado pelo/a Artigo 9.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+  },
+  "67420696": {
+   "fragment_id": "67409502",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 29 de Junho de 1998.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 5 de Agosto de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 20 de Agosto de 1998.\n\nPelo Primeiro-Ministro, Jaime José Matos da Gama, Ministro dos Negócios Estrangeiros."
+  },
+  "67545551": {
+   "fragment_id": "67409491",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2015-07-05",
+   "changed_by": [
+    "Republicado pelo/a Anexo II do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05",
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente lei regula o disposto no artigo 82.º do Código do Direito de Autor e dos Direitos Conexos, aprovado pelo Decreto-Lei n.º 63/85, de 14 de março, alterado pelas Leis n.os 45/85, de 17 de setembro, e 114/91, de 3 de setembro, pelos Decretos-Leis n.os 332/97 e 334/97, ambos de 27 de novembro, e pelas Leis n.os 50/2004, de 24 de agosto, 24/2006, de 30 de junho, 16/2008, de 1 de abril, 65/2012, de 20 de dezembro, e 82/2013, de 6 de dezembro.\n\n2 - O disposto na presente lei não se aplica aos programas de computador nem às bases de dados constituídas por meios informáticos.\n\n> Republicado pelo/a Anexo II do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+  },
+  "67545569": {
+   "fragment_id": "67409492",
+   "type": 11,
+   "heading": "Artigo 2.º — Compensação devida pela reprodução ou gravação de obras",
+   "in_force_from": "2015-07-05",
+   "changed_by": [
+    "Republicado pelo/a Anexo II do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05",
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+   ],
+   "markdown": "###### Artigo 2.º — Compensação devida pela reprodução ou gravação de obras\n\nCom vista a beneficiar os autores, os artistas intérpretes ou executantes, os editores e os produtores fonográficos e videográficos, uma quantia é incluída no preço de venda ou disponibilização:\n\na) De todos e quaisquer aparelhos que permitam a fixação de obras;\n\nb) Dos suportes materiais virgens digitais ou analógicos, com exceção do papel, previstos no n.º 4 do artigo 3.º, bem como das fixações e reproduções que por qualquer desses meios possam obter-se.\n\n> Republicado pelo/a Anexo II do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+  },
+  "67545568": {
+   "fragment_id": "67409493",
+   "type": 11,
+   "heading": "Artigo 3.º — Compensação equitativa",
+   "in_force_from": "2015-07-05",
+   "changed_by": [
+    "Republicado pelo/a Anexo II do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05",
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+   ],
+   "markdown": "###### Artigo 3.º — Compensação equitativa\n\n1 - A quantia referida no artigo anterior tem a natureza de compensação equitativa, visando compensar os titulares de direitos dos danos patrimoniais sofridos com a prática da cópia privada.\n\n2 - Sempre que a utilização seja habitual e para servir o público mediante a prática de atos de comércio, o preço de venda ao público das fotocópias de obras, eletrocópias e demais suportes inclui uma compensação equitativa correspondente a 3 % do valor do preço de venda, antes da aplicação do IVA, montante que é gerido pela entidade gestora a que se refere o artigo 6.º\n\n3 - Para os efeitos do disposto no número anterior, e em ordem a permitir a sua correta exequibilidade, devem as entidades públicas e privadas que utilizem, nas condições supramencionadas, aparelhos que permitam a fixação e a reprodução de obras e prestações, celebrar acordos com a entidade gestora referida no número anterior.\n\n4 - No preço da primeira venda ou disponibilização em território nacional e antes da aplicação do IVA em cada um dos aparelhos, dispositivos e suportes analógicos e digitais que permitem a reprodução e armazenagem de obras, é incluído um valor compensatório nos termos da tabela anexa à presente lei e da qual faz parte integrante.\n\n> Nota: [Acórdão n.º 616/2003 - Diário da República n.º 62/2004, Série I-A de 2004-03-13](https://diariodarepublica.pt/dr/detalhe/acordao/616-2003-532271) Declara a inconstitucionalidade, com força obrigatória geral, das normas do artigo 3.º, n.os 1 e 2.\n\n> Republicado pelo/a Anexo II do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+  },
+  "67545570": {
+   "fragment_id": "67409494",
+   "type": 11,
+   "heading": "Artigo 4.º — Isenções",
+   "in_force_from": "2015-07-05",
+   "changed_by": [
+    "Republicado pelo/a Anexo II do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05",
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+   ],
+   "markdown": "###### Artigo 4.º — Isenções\n\n1 - Estão isentos do pagamento das compensações previstas na presente lei os equipamentos e suportes adquiridos por pessoas singulares ou coletivas, públicas ou privadas, nas seguintes condições:\n\na) Quando a sua atividade tenha por objeto a comunicação audiovisual ou produção de fonogramas e de videogramas, exclusivamente para as suas próprias produções;\n\nb) Quando a sua atividade tenha por objeto o apoio a pessoas com deficiência;\n\nc) Quando a sua atividade principal tenha por objeto a salvaguarda do património cultural móvel;\n\nd) Quando os suportes sejam especialmente destinados a fixação de imagens ou outro tipo de obras para uso exclusivo no âmbito da atividade profissional do respetivo autor, designadamente na atividade de fotógrafo, designer, arquiteto ou engenheiro, assim como profissões artísticas devidamente enquadradas pelo código de atividade económica;\n\ne) Quando os aparelhos, dispositivos ou suportes sejam destinados exclusivamente para fins clínicos, para as missões públicas da defesa, da justiça, das áreas da segurança interna e de investigação científica, bem como dos utilizados para garantia da acessibilidade por pessoas com deficiência.\n\n2 - Para os efeitos do disposto no número anterior, as pessoas singulares ou coletivas adquirentes devem:\n\na) Requerer junto da entidade gestora a que se refere o artigo 6.º, previamente à aquisição dos equipamentos e suportes, a emissão de declaração de onde conste que a utilização dos mesmos se integra numa das situações de isenção, indicando e comprovando o respetivo objeto de atividade;\n\nb) Apresentar, no ato da compra dos equipamentos e suportes, a declaração referida na alínea anterior.\n\n3 - Não ocorrendo recusa fundamentada, a falta de emissão da declaração a que alude a alínea a) do número anterior, no prazo de 15 dias a contar da entrega do requerimento, pode ser suprida pela exibição de comprovativo de entrega deste.\n\n4 - Estão também isentas do pagamento das compensações previstas na presente lei as pessoas coletivas que utilizem os equipamentos e suportes de armazenamento previstos nas alíneas p) e q) do n.º 2.3 da tabela anexa à presente lei sem os disponibilizarem a pessoas singulares para uso individual, desde que os equipamentos e suportes sejam parte integrante de sistemas de processos automatizados de gestão documental e de dados que não incluam reproduções de obras protegidas.\n\n5 - Estão ainda isentos do pagamento das compensações equitativas os aparelhos, dispositivos e suportes destinados à exportação.\n\n> Republicado pelo/a Anexo II do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+  },
+  "67545571": {
+   "fragment_id": "67409495",
+   "type": 11,
+   "heading": "Artigo 5.º — Cobrança",
+   "in_force_from": "2015-07-05",
+   "changed_by": [
+    "Republicado pelo/a Anexo II do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05",
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+   ],
+   "markdown": "###### Artigo 5.º — Cobrança\n\n1 - A responsabilidade pelo pagamento das compensações equitativas fixadas pela presente lei incumbe ao primeiro adquirente dos aparelhos e suportes em território nacional, desde que estes não se destinem a exportação ou reexportação.\n\n2 - A responsabilidade pela cobrança e entrega à entidade gestora a que se refere o artigo 6.º das compensações equitativas referidas no número anterior incumbe aos fabricantes estabelecidos no território nacional e aos importadores.\n\n3 - Os montantes pecuniários referidos no n.º 2 devem ser pagos, trimestralmente, mediante depósito em conta bancária a favor da entidade gestora a que se refere o artigo 6.º\n\n4 - Para os efeitos do disposto no número anterior, são celebrados acordos entre as entidades interessadas no procedimento, que devem regular os modos de cumprimento das obrigações previstas na presente lei.\n\n5 - Os fabricantes e os importadores comunicam, semestralmente, à Inspeção-Geral das Atividades Culturais e à entidade gestora a que se refere o artigo 6.º as seguintes informações:\n\na) As quantidades de aparelhos e suportes cujo preço inclui a compensação equitativa;\n\nb) O preço de venda dos aparelhos e suportes a que acresce a compensação equitativa;\n\nc) A compensação equitativa total cobrada.\n\n> Republicado pelo/a Anexo II do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+  },
+  "67545572": {
+   "fragment_id": "67541709",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Contribuição para o desenvolvimento da atividade cultural",
+   "in_force_from": "2015-07-05",
+   "changed_by": [
+    "Republicado pelo/a Anexo II do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05"
+   ],
+   "markdown": "###### Artigo 5.º-A — Contribuição para o desenvolvimento da atividade cultural\n\n1 - A partir de 2015, em cada ano civil, caso o montante da compensação equitativa cobrado pela entidade gestora a que se refere o artigo 6.º seja superior a 15 milhões de euros, o montante superior a esse valor constitui receita própria do Fundo de Fomento Cultural e destina-se a contribuir para financiar programas de incentivo à promoção de atividades culturais e à criação cultural e artística, com prioridade ao investimento em novos talentos.\n\n2 - A entidade gestora deve proceder à transferência do referido montante para o Fundo de Fomento Cultural com periodicidade trimestral.\n\n> Republicado pelo/a Anexo II do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05"
+  },
+  "67545573": {
+   "fragment_id": "67409496",
+   "type": 11,
+   "heading": "Artigo 6.º — Entidade gestora",
+   "in_force_from": "2015-07-05",
+   "changed_by": [
+    "Republicado pelo/a Anexo II do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05",
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+   ],
+   "markdown": "###### Artigo 6.º — Entidade gestora\n\n1 - A cobrança, gestão e distribuição da compensação equitativa a que se refere o artigo 3.º incumbem à AGECOP - Associação para a Gestão da Cópia Privada, adiante designada entidade gestora, pessoa coletiva, sem fins lucrativos, de natureza associativa, constituída por todas as entidades de gestão coletiva que em Portugal representam os autores, os artistas, intérpretes e executantes, os produtores de fonogramas, os produtores de videogramas, e os editores.\n\n2 - Os estatutos da entidade gestora devem regular, entre outras, as seguintes matérias:\n\na) Objeto e duração;\n\nb) Denominação e sede;\n\nc) Órgãos sociais;\n\nd) Modos de cobrança das compensações equitativas fixadas pela presente lei;\n\ne) Critérios de repartição das compensações equitativas entre os membros dos associados, incluindo os modos de distribuição e pagamento aos beneficiários que não estejam inscritos nos respetivos organismos, mas que se presume serem por estes representados;\n\nf) Publicidade das deliberações sociais;\n\ng) Direitos e deveres dos associados;\n\nh) Estrutura e organização interna, designadamente a previsão de existência de dois departamentos autónomos na cobrança e gestão das compensações equitativas percebidas, correspondentes, por um lado, a cópia de obras reproduzidas em fonogramas e videogramas e, por outro lado, a cópia de obras editadas em suporte papel e eletrónico;\n\ni) Dissolução e destino do património.\n\n3 - Na fixação dos critérios referidos na alínea e) do número anterior, são obrigatoriamente ponderados os seguintes fatores:\n\na) A representatividade dos titulares de direitos;\n\nb) O resultado dos estudos realizados pela entidade gestora, nomeadamente sobre a natureza das obras reproduzidas e os hábitos de cópia da população portuguesa;\n\nc) A utilização, pelos titulares dos direitos, de medidas eficazes de carácter tecnológico, designadamente, de mecanismos digitais de proteção;\n\nd) O acesso da população portuguesa a reproduções contratualmente autorizadas pelos titulares dos direitos.\n\n4 - A entidade gestora deve organizar-se e agir de modo a integrar como membros os organismos que venham a constituir-se e que requeiram a sua integração, sempre que se mostre que estes são representativos dos interesses e direitos que se visa proteger, em ordem a garantir os princípios da igualdade, representatividade, liberdade, pluralismo e participação.\n\n5 - Os litígios emergentes da aplicação do disposto no número anterior são resolvidos por arbitragem obrigatória, nos termos da legislação geral.\n\n6 - Os custos de funcionamento da entidade gestora não devem exceder 20 % do conjunto das receitas globais obtidas com a cobrança das compensações equitativas.\n\n7 - A entidade gestora deve publicitar, anualmente, no respetivo sítio na Internet, os montantes da compensação equitativa distribuídos a cada um dos associados, com a respetiva identificação, bem como os estudos referidos na alínea b) do n.º 3.\n\n8 - Os associados da entidade gestora devem publicitar, anualmente, no respetivo sítio na Internet, os montantes totais distribuídos aos beneficiários da compensação equitativa, bem como os critérios aplicados à distribuição.\n\n9 - A entidade gestora pode celebrar acordos com entidades públicas e privadas que utilizem equipamentos para fixação e reprodução de obras e prestações, com ou sem fins lucrativos, em ordem a garantir os legítimos direitos de autor e conexos consignados no respetivo Código.\n\n10 - O conselho fiscal da entidade gestora é assegurado por um revisor oficial de contas (ROC).\n\n11 - A entidade gestora publica anualmente o relatório e contas do exercício no seu sítio na Internet.\n\n12 - A entidade gestora deve adaptar-se às disposições legais que enquadram a atividade das entidades de gestão coletiva e que se adaptem à sua natureza, em tudo o que não esteja regulado na presente lei.\n\n> Republicado pelo/a Anexo II do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+  },
+  "67545574": {
+   "fragment_id": "67409497",
+   "type": 11,
+   "heading": "Artigo 7.º — Afetação",
+   "in_force_from": "2015-07-05",
+   "changed_by": [
+    "Republicado pelo/a Anexo II do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05",
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+   ],
+   "markdown": "###### Artigo 7.º — Afetação\n\n1 - A entidade gestora deve afetar 20 % do valor total das compensações equitativas percebidas para ações de incentivo à atividade cultural e à investigação e divulgação dos direitos de autor e direitos conexos.\n\n2 - A entidade gestora deve, deduzidos os custos do seu funcionamento, repartir o remanescente das quantias recebidas nos termos dos artigos anteriores do seguinte modo:\n\na) No caso do disposto no n.º 2 do artigo 3.º: 50 % para os organismos representativos dos autores e 50 % para os organismos representativos dos editores;\n\nb) No caso do disposto no n.º 4 do artigo 3.º:\n\ni) Na parcela de compensação equitativa que corresponde à proporção da utilização típica do suporte para a reprodução de obras áudio e audiovisuais: 40 % para os organismos representativos dos autores, 30 % para os organismos representativos dos artistas, intérpretes ou executantes e 30 % para os organismos representativos dos produtores de fonogramas ou de videogramas;\n\nii) Na parcela de compensação equitativa que corresponde à proporção da utilização típica do suporte para a reprodução de obras escritas, livros, incluindo livros outras publicações periódicas e não periódicas: 50 % para os organismos representativos dos autores e 50 % para os organismos representativos dos editores.\n\n> Republicado pelo/a Anexo II do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+  },
+  "67566075": {
+   "fragment_id": "67409520",
+   "type": 11,
+   "heading": "Artigo 8.º — Comissão de acompanhamento",
+   "in_force_from": "2015-07-05",
+   "changed_by": [
+    "Republicado pelo/a Anexo II do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05",
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+   ],
+   "markdown": "###### Artigo 8.º — Comissão de acompanhamento\n\n1 - É constituída uma comissão presidida por um representante do Estado designado por despacho do Primeiro-Ministro e composta por uma metade de pessoas designadas pelos organismos representativos dos titulares de direito, por um quarto de pessoas designadas pelos organismos representativos dos fabricantes ou importadores de suportes e aparelhos mencionados no artigo 3.º e por um quarto de pessoas designadas pelos organismos representativos dos consumidores.\n\n2 - Os organismos convidados a designar os membros da comissão, bem como o número de pessoas a designar por cada um, são determinados por despacho do membro do Governo responsável pela área da Cultura.\n\n3 - A comissão reúne pelo menos uma vez por ano, sob convocação do seu presidente ou a requerimento escrito da maioria dos seus membros, para avaliar as condições de implementação da presente lei.\n\n4 - As deliberações da comissão são aprovadas por maioria dos membros presentes, tendo o presidente voto de qualidade.\n\n> Republicado pelo/a Anexo II do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+  },
+  "67566076": {
+   "fragment_id": "67409499",
+   "type": 11,
+   "heading": "Artigo 9.º — Contraordenações",
+   "in_force_from": "2015-07-05",
+   "changed_by": [
+    "Republicado pelo/a Anexo II do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05",
+    "Alterado pelo/a Artigo 9.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+   ],
+   "markdown": "###### Artigo 9.º — Contraordenações\n\n1 - Constitui contraordenação punível com coima de (euro) 500 a (euro) 5000 a venda de equipamentos ou suportes, em violação do disposto nos n.os 2 e 4 do artigo 3.º\n\n2 - Constitui contraordenação punível com coima de (euro) 250 a (euro) 1.500 o não envio da comunicação prevista no n.º 5 do artigo 5.º\n\n3 - A fiscalização do cumprimento das disposições constantes na presente lei compete à Inspeção-Geral das Atividades Culturais e a todas as autoridades policiais e administrativas.\n\n4 - O processamento das contraordenações e a aplicação das coimas são da competência da Inspeção-Geral das Atividades Culturais.\n\n5 - O produto da aplicação das coimas previstas no presente artigo constitui receita do Estado e da Inspeção-Geral das Atividades Culturais, respetivamente, nas percentagens de 60 % e 40 %.\n\n> Republicado pelo/a Anexo II do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05\n\n> Alterado pelo/a Artigo 9.º do/a [Lei n.º 50/2004 - Diário da República n.º 199/2004, Série I-A de 2004-08-24](https://diariodarepublica.pt/dr/detalhe/lei/50-2004-479605), em vigor a partir de 2004-09-23"
+  },
+  "67566077": {
+   "fragment_id": "67541722",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": "2015-07-05",
+   "changed_by": [
+    "Republicado pelo/a Anexo II do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05"
+   ],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nA presente lei entra em vigor 30 dias após a sua publicação.\n\n> Republicado pelo/a Anexo II do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05"
+  },
+  "67566078": {
+   "fragment_id": "67409502",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 29 de Junho de 1998.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 5 de Agosto de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 20 de Agosto de 1998.\n\nPelo Primeiro-Ministro, Jaime José Matos da Gama, Ministro dos Negócios Estrangeiros."
+  },
+  "67566079": {
+   "fragment_id": "67541710",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": "2015-07-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05"
+   ],
+   "markdown": "## Anexo I\n\n(a que se refere o n.º 4 do artigo 3.º da Lei n.º 62/98, de 1 de setembro)\n\nTabela de compensação equitativa\n\n1 - Aparelhos, equipamentos e instrumentos técnicos de reprodução:\n\na) Equipamentos multifunções ou fotocopiadoras jato de tinta - (euro) 5/unidade;\n\nb) Equipamentos multifunções ou fotocopiadoras laser:\n\nAté 40 páginas por minuto - (euro) 10/unidade;\n\nMais de 40 páginas por minuto - (euro) 20/unidade;\n\nc) Scanners e outros equipamentos destinados apenas à digitalização - (euro) 2/unidade;\n\nd) Impressoras jato de tinta - (euro) 2,5/unidade;\n\ne) Impressoras laser - (euro) 7,5/unidade.\n\n2 - Aparelhos, dispositivos e suportes:\n\n2.1 - Equipamentos e aparelhos analógicos:\n\na) Gravadores áudio - (euro) 0,20/ unidade;\n\nb) Gravadores vídeo - (euro) 0,20/ unidade.\n\n2.2 - Equipamentos e aparelhos digitais que compreendam as seguintes funções e não tenham incluídas memórias ou discos rígidos:\n\na) Gravadores de discos compactos específicos (CD) - (euro) 1/unidade;\n\nb) Gravadores de discos versáteis - (euro) 2/unidade;\n\nc) Gravadores mistos de discos compactos (CD e DVD) - (euro) 3/unidade;\n\nd) Gravadores de discos Blu-ray - (euro) 3/unidade.\n\n2.3 - Suportes e dispositivos de armazenamento:\n\na) Suportes materiais analógicos, como cassetes áudio ou similares - (euro) 0,10/ unidade;\n\nb) Suportes materiais analógicos, como cassetes vídeo ou similares - (euro) 0,10/unidade;\n\nc) Discos compactos (CD) não regraváveis - (euro) 0,05/unidade;\n\nd) Discos compactos de 8 centímetros - (euro) 0,05/unidade;\n\ne) Discos de formato «Minidisc» - (euro) 0,05/unidade;\n\nf) Discos compactos regraváveis (CD-RW) - (euro) 0,10/unidade;\n\ng) Discos versáteis não regraváveis (DVD-R) - (euro) 0,10/unidade;\n\nh) Discos versáteis regraváveis (DVD-RW) - (euro) 0,20/unidade;\n\ni) Discos versáteis RAM (DVD-RAM) - (euro) 0,20/unidade;\n\nj) Discos Blu-ray - (euro) 0,20/unidade;\n\nk) Memórias USB - (euro) 0,016 por cada GB de capacidade de armazenamento ou fração, com o limite de (euro) 7,5;\n\nl) Cartões de memória - (euro) 0,016 por cada GB de capacidade de armazenamento ou fração, com o limite de (euro) 7,5;\n\nm) Memórias e discos rígidos integrados em aparelhos com funções de cópia de fonogramas e/ou videogramas - (euro) 0,016 por cada GB de capacidade ou fração, com o limite de (euro) 15;\n\nn) Suportes ou dispositivos de armazenamento, como discos externos denominados «multimédia» ou outros que disponham de uma ou mais saídas ou entradas de áudio e vídeo e que permitam o registo de sons e ou imagens animadas - (euro) 0,016 por cada GB de capacidade de armazenamento ou fração, com o limite de (euro) 15;\n\no) Memórias e discos rígidos integrados em aparelhos com função de televisor e em aparelhos que assegurem o interface entre o sinal de televisão e o televisor, incluindo os descodificadores ou aparelhos de acesso a serviços de televisão por subscrição, que permitam armazenar sons e imagens animadas - (euro) 0,016 por cada GB de capacidade ou fração, com o limite de (euro) 15;\n\np) Memórias ou discos rígidos integrados em computadores que não se incluam na alínea anterior - (euro) 0,004 por cada GB de capacidade ou fração, com o limite de (euro) 7,5;\n\nq) Discos rígidos internos ou externos que dependam de um computador ou de outros equipamentos ou aparelhos para desempenhar a função de reprodução e que permitam o armazenamento de imagens animadas e sons - (euro) 0,004 por cada GB de capacidade ou fração, com o limite de (euro) 7,5;\n\nr) Memórias e discos rígidos integrados em aparelhos dedicados à reprodução, leitura e armazenamento de fonogramas, quaisquer obras musicais e outros conteúdos sonoros em formato comprimido - (euro) 0,20 por cada GB de capacidade de armazenamento ou fração, com o limite de (euro) 15;\n\ns) Memórias e discos rígidos integrados em telefones móveis que permitam armazenar, ouvir obras musicais e ver obras audiovisuais - (euro) 0,12 por cada GB de capacidade de armazenamento ou fração, com o limite de (euro) 15;\n\nt) Memórias ou discos rígidos integrados em aparelhos tabletes multimédia que disponham de ecrãs táteis e permitam armazenar obras musicais e audiovisuais - (euro) 0,12 por cada GB de capacidade de armazenamento ou fração, com o limite de (euro) 15.\n\n3 - Ao mesmo aparelho, dispositivo ou suporte apenas pode ser aplicada uma compensação equitativa ao abrigo de uma das alíneas referidas nos números anteriores, de cuja aplicação resulte o valor mais elevado.\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05"
+  },
+  "889911551": {
+   "fragment_id": "67541710",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": "2017-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 100/2017 - Diário da República n.º 162/2017, Série I de 2017-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2017-108041479), em vigor a partir de 2017-08-24",
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05"
+   ],
+   "markdown": "## Anexo I\n\n(a que se refere o n.º 4 do artigo 3.º da Lei n.º 62/98, de 1 de setembro)\n\nTabela de compensação equitativa\n\n1 - Aparelhos, equipamentos e instrumentos técnicos de reprodução:\n\na) Equipamentos multifunções ou fotocopiadoras jato de tinta - (euro) 5/unidade;\n\nb) Equipamentos multifunções ou fotocopiadoras laser:\n\nAté 40 páginas por minuto - (euro) 10/unidade;\n\nMais de 40 páginas por minuto - (euro) 20/unidade;\n\nc) Scanners e outros equipamentos destinados apenas à digitalização - (euro) 2/unidade;\n\nd) Impressoras jato de tinta - (euro) 2,5/unidade;\n\ne) Impressoras laser - (euro) 7,5/unidade.\n\n2 - Aparelhos, dispositivos e suportes:\n\n2.1 - Equipamentos e aparelhos analógicos:\n\na) Gravadores áudio - (euro) 0,20/ unidade;\n\nb) Gravadores vídeo - (euro) 0,20/ unidade.\n\n2.2 - Equipamentos e aparelhos digitais que compreendam as seguintes funções e não tenham incluídas memórias ou discos rígidos:\n\na) Gravadores de discos compactos específicos (CD) - (euro) 1/unidade;\n\nb) Gravadores de discos versáteis - (euro) 2/unidade;\n\nc) Gravadores mistos de discos compactos (CD e DVD) - (euro) 3/unidade;\n\nd) Gravadores de discos Blu-ray - (euro) 3/unidade.\n\n2.3 - Suportes e dispositivos de armazenamento:\n\na) Suportes materiais analógicos, como cassetes áudio ou similares - (euro) 0,10/ unidade;\n\nb) Suportes materiais analógicos, como cassetes vídeo ou similares - (euro) 0,10/unidade;\n\nc) Discos compactos (CD) não regraváveis - (euro) 0,05/unidade;\n\nd) Discos compactos de 8 centímetros - (euro) 0,05/unidade;\n\ne) Discos de formato «Minidisc» - (euro) 0,05/unidade;\n\nf) Discos compactos regraváveis (CD-RW) - (euro) 0,10/unidade;\n\ng) Discos versáteis não regraváveis (DVD-R) - (euro) 0,10/unidade;\n\nh) Discos versáteis regraváveis (DVD-RW) - (euro) 0,20/unidade;\n\ni) Discos versáteis RAM (DVD-RAM) - (euro) 0,20/unidade;\n\nj) Discos Blu-ray - (euro) 0,20/unidade;\n\nk) Memórias USB - (euro) 0,016 por cada GB de capacidade de armazenamento ou fração, com o limite de (euro) 7,5;\n\nl) Cartões de memória - (euro) 0,016 por cada GB de capacidade de armazenamento ou fração, com o limite de (euro) 7,5;\n\nm) Memórias e discos rígidos integrados em aparelhos com funções de cópia de conteúdos previstos na lei - (euro) 0,016 por cada GB de capacidade ou fração, com o limite de (euro) 15;\n\nn) Discos externos denominados 'multimédia' ou outros que disponham de uma ou mais saídas ou entradas de dados - (euro) 0,016 por cada GB de capacidade de armazenamento ou fração, com o limite de (euro) 15;\n\no) Memórias e discos rígidos integrados em aparelhos com função de televisor e em aparelhos que assegurem o interface entre o sinal de televisão e o televisor, incluindo os descodificadores ou aparelhos de acesso a serviços de televisão por subscrição, que permitam armazenar sons e imagens animadas - (euro) 0,016 por cada GB de capacidade ou fração, com o limite de (euro) 15;\n\np) Memórias ou discos rígidos integrados em computadores que não se incluam na alínea anterior - (euro) 0,004 por cada GB de capacidade ou fração, com o limite de (euro) 7,5;\n\nq) Discos rígidos internos ou externos que dependam de um computador ou de outros equipamentos ou aparelhos para desempenhar a função de reprodução e que permitam o armazenamento de quaisquer obras, prestações ou outros conteúdos protegidos - (euro) 0,004 por cada GB de capacidade ou fração, com o limite de (euro) 7,5;\n\nr) Memórias e discos rígidos integrados em aparelhos dedicados à reprodução, leitura e armazenamento de fonogramas, quaisquer obras musicais e outros conteúdos sonoros em formato comprimido - (euro) 0,20 por cada GB de capacidade de armazenamento ou fração, com o limite de (euro) 15;\n\ns) Memórias e discos rígidos integrados em telefones móveis que permitam armazenar quaisquer obras, prestações ou outros conteúdos protegidos - (euro) 0,12 por cada GB de capacidade de armazenamento ou fração, com o limite de (euro) 15;\n\nt) Memórias ou discos rígidos integrados em aparelhos tabletes multimédia que disponham de ecrãs táteis e permitam armazenar quaisquer obras, prestações ou outros conteúdos protegidos - (euro) 0,12 por cada GB de capacidade de armazenamento ou fração, com o limite de (euro) 15\".\n\n3 - Ao mesmo aparelho, dispositivo ou suporte apenas pode ser aplicada uma compensação equitativa ao abrigo de uma das alíneas referidas nos números anteriores, de cuja aplicação resulte o valor mais elevado.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 100/2017 - Diário da República n.º 162/2017, Série I de 2017-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2017-108041479), em vigor a partir de 2017-08-24\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05"
+  },
+  "889911552": {
+   "fragment_id": "67541709",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Contribuição para o desenvolvimento da atividade cultural",
+   "in_force_from": "2020-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 403.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01",
+    "Republicado pelo/a Anexo II do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05"
+   ],
+   "markdown": "###### Artigo 5.º-A — Contribuição para o desenvolvimento da atividade cultural\n\n1 - A partir de 2015, em cada ano civil, caso o montante da compensação equitativa cobrado pela entidade gestora a que se refere o artigo 6.º seja superior a 15 milhões de euros, o montante superior a esse valor constitui receita própria do Fundo de Fomento Cultural e destina-se a contribuir para financiar programas de incentivo à promoção de atividades culturais e à criação cultural e artística, com prioridade ao investimento em novos talentos.\n\n2 - A entidade gestora deve proceder à transferência do referido montante para o Fundo de Fomento Cultural com periodicidade trimestral.\n\n> Revogado pelo/a Artigo 403.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01\n\n> Republicado pelo/a Anexo II do/a [Lei n.º 49/2015 - Diário da República n.º 109/2015, Série I de 2015-06-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2015-67409481), em vigor a partir de 2015-07-05"
+  }
+ }
+}

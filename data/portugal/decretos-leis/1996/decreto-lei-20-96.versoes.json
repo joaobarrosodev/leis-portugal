@@ -1,0 +1,408 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:535012:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1996-886672971",
+ "dre_path": "/dr/detalhe/decreto-lei/20-1996-535012",
+ "source_lastmod": "2024-09-02",
+ "versions": [
+  {
+   "date": "1996-03-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "886671951",
+    "886671952",
+    "886671953",
+    "886671954",
+    "886671955",
+    "886671956",
+    "886671957",
+    "886671958",
+    "886671959",
+    "886671960",
+    "886671961",
+    "886671962",
+    "886671963",
+    "886671964",
+    "886671965",
+    "886671966",
+    "886671967",
+    "886671968",
+    "886671969",
+    "886671970",
+    "886671971",
+    "886671972",
+    "886671973",
+    "886671974",
+    "886673875",
+    "886673876",
+    "886673877",
+    "886673878",
+    "886673879",
+    "886673880"
+   ]
+  },
+  {
+   "date": "2000-03-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:408475:por",
+     "title": "Decreto-Lei n.º 23/2000",
+     "published": "2000-03-02",
+     "dre_path": "/dr/detalhe/decreto-lei/23-2000-408475"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "886671951",
+    "886671952",
+    "886671953",
+    "886671954",
+    "886671955",
+    "886671956",
+    "886673898",
+    "886673899",
+    "886671959",
+    "886671960",
+    "886671961",
+    "886671962",
+    "886671963",
+    "886673900",
+    "886671965",
+    "886671966",
+    "886671967",
+    "886671968",
+    "886671969",
+    "886673901",
+    "886671971",
+    "886671972",
+    "886673902",
+    "886671974",
+    "886673875",
+    "886673876",
+    "886673877",
+    "886673878",
+    "886673879",
+    "886673880",
+    "886673881"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:70014794:por",
+     "title": "Decreto-Lei n.º 162/2015",
+     "published": "2015-08-14",
+     "dre_path": "/dr/detalhe/decreto-lei/162-2015-70014794",
+     "date": "2015-08-13"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "886671951": {
+   "fragment_id": "886672972",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 20/96\n\nde 19 de Março\n\nA actividade agrícola está sujeita, mais do que qualquer outra actividade económica, a riscos de vária ordem, entre os quais ressaltam os provocados por factores meteorológicos.\n\nCom a criação do seguro agrícola de colheitas pelo Decreto-Lei n.º 395/79, de 21 de Setembro, posteriormente substituído pelo Decreto-Lei n.º 283/90, de 18 de Setembro, pretendeu-se garantir a estabilidade dos rendimentos dos agricultores.\n\nPorém, os elevados prejuízos que as companhias seguradoras inicialmente suportaram nesta modalidade de seguro provocaram um aumento significativo dos prémios, levando mesmo ao abandono da contratação do seguro, em zonas onde elevada probabilidade de ocorrência de sinistros torna o risco incompatível com a actividade seguradora.\n\nComo consequência, e porque o valor dos prémios onera significativamente os custos de produção, os agricultores reduziram drasticamente este tipo de seguro, desistindo da cobertura dos riscos ou diminuindo o valor da produção segura.\n\nSendo manifesta a recessão que o seguro de colheitas tem vindo a evidenciar nos últimos anos pelas razões citadas, considerou-se pertinente proceder à sua redinamização através da criação de um Sistema Integrado de Protecção contra as Aleatoriedades Climáticas (SIPAC), inicialmente previsto pelo Decreto-Lei n.º 326/95, de 5 de Dezembro, que, no entanto, não chegou a entrar em vigor.\n\nPorque o SIPAC constitui um importante instrumento de política agrícola, a responsabilidade da sua execução deve situar-se no Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, pelo que as competências previstas no Decreto-Lei n.º 326/95, de 5 de Dezembro, relativas à gestão deste Sistema, passam agora a estar concentradas no Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP).\n\nPor razões de clareza, são retomadas neste diploma as disposições do Decreto-Lei n.º 326/95, de 5 de Dezembro, que não colidem com as alterações agora introduzidas, concentrando todo o regime aplicável num único diploma e revogando a legislação anterior sobre a matéria.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Artigo 12.º, Decreto-Lei n.º 162/2015 - Diário da República n.º 158/2015, Série I de 2015-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2015-70014794) Os artigos revogados pelo Decreto-Lei n.º 162/2015 são, contudo, aplicáveis às campanhas executadas até dezembro de 2013 para efeitos do respetivo encerramento."
+  },
+  "886671952": {
+   "fragment_id": "886672973",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "886671953": {
+   "fragment_id": "886672974",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPelo presente diploma é instituído no território do continente o Sistema Integrado de Protecção contra as Aleatoriedades Climáticas, adiante designado por SIPAC, constituído por três componentes:\n\na) Seguro de colheitas;\n\nb) Fundo de calamidades;\n\nc) Compensação de sinistralidade."
+  },
+  "886671954": {
+   "fragment_id": "886673775",
+   "type": 1,
+   "heading": "Capítulo II — Seguro de colheitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Seguro de colheitas"
+  },
+  "886671955": {
+   "fragment_id": "886673776",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO seguro de colheitas constitui um incentivo ao investimento agrícola e contribui para garantir a estabilidade dos rendimentos dos agricultores, servindo também como instrumento de política agrícola capaz de conduzir a um adequado ordenamento cultural."
+  },
+  "886671956": {
+   "fragment_id": "886673777",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO seguro de colheitas é voluntário, assegurando ao agricultor uma indemnização calculada sobre o montante dos prejuízos verificados nas culturas que tenham origem em qualquer dos riscos abrangidos pela respectiva apólice."
+  },
+  "886671957": {
+   "fragment_id": "886673778",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Os prémios do seguro de colheitas são estabelecidos pelas seguradoras, nos termos das disposições regulamentares em vigor.\n\n2 - O Estado bonifica os prémios do seguro de colheitas.\n\n3 - A bonificação pode ser majorada em função dos riscos cobertos, da taxa aplicável, da localização, das variedades e dos meios de prevenção utilizados."
+  },
+  "886671958": {
+   "fragment_id": "886673779",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - O seguro de colheitas pode ser efectuado em qualquer companhia de seguros autorizada a explorar o ramo 9 do artigo 114.º do Decreto-Lei n.º 102/94, de 20 de Abril, através da celebração de um contrato individual ou colectivo.\n\n2 - O seguro de colheitas é contratado nos termos de uma apólice uniforme para o efeito elaborada pelo Instituto de Seguros de Portugal, adiante designado por ISP, em colaboração com o Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas, adiante designado por IFADAP, de acordo com os termos e as condições de atribuição de bonificação definidos pela portaria a que alude o artigo 18.º"
+  },
+  "886671959": {
+   "fragment_id": "886673780",
+   "type": 1,
+   "heading": "Capítulo III — Fundo de calamidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Fundo de calamidades"
+  },
+  "886671960": {
+   "fragment_id": "886673781",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO fundo de calamidades destina-se exclusivamente a compensar os agricultores pelos sinistros provocados por riscos não passíveis de cobertura no âmbito do seguro de colheitas, nos casos em que seja declarada oficialmente a situação de calamidade."
+  },
+  "886671961": {
+   "fragment_id": "886673782",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nPodem beneficiar das medidas de apoio financeiro a conceder no âmbito do fundo de calamidades os agricultores que hajam efectuado contribuição e tenham contratado seguro de colheitas, nas condições referidas na portaria a que se refere o artigo 18.º"
+  },
+  "886671962": {
+   "fragment_id": "886673783",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAs medidas de apoio financeiro a conceder no âmbito do fundo de calamidades podem consistir na concessão de crédito, na bonificação de juros e na concessão de subsídios."
+  },
+  "886671963": {
+   "fragment_id": "886673784",
+   "type": 1,
+   "heading": "Capítulo IV — Compensação de sinistralidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Compensação de sinistralidade"
+  },
+  "886671964": {
+   "fragment_id": "886673785",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - A compensação de sinistralidade tem como objectivo compensar as seguradoras quando o valor das indemnizações exceder uma determinada percentagem do valor dos prémios.\n\n2 - As seguradoras podem ter acesso à compensação de sinistralidade mediante o pagamento de uma contribuição."
+  },
+  "886671965": {
+   "fragment_id": "886673786",
+   "type": 1,
+   "heading": "Capítulo V — Financiamento do SIPAC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Financiamento do SIPAC"
+  },
+  "886671966": {
+   "fragment_id": "886673787",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - O financiamento do SIPAC é assegurado:\n\na) Por dotações do Orçamento do Estado;\n\nb) Pelas contribuições dos agricultores;\n\nc) Pelas contribuições das seguradoras;\n\nd) Por quaisquer outras dotações ou receitas para o efeito atribuídas.\n\n2 - Os encargos com a bonificação de prémios de seguros de colheitas são financiados por dotações do Orçamento do Estado.\n\n3 - Os encargos do fundo de calamidades são financiados pelas contribuições dos agricultores e pelas dotações do Orçamento do Estado, anuais, transitáveis e acumuláveis, sem prejuízo do seu reforço, mediante despacho conjunto dos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas, em virtude da extensão e intensidade dos prejuízos provocados.\n\n4 - Os encargos com a compensação de sinistralidade são financiados pelas dotações do Orçamento do Estado e pelas contribuições das seguradoras.\n\n5 - É igualmente suportada pelo Orçamento do Estado a remuneração do IFADAP pelos serviços prestados no âmbito do SIPAC."
+  },
+  "886671967": {
+   "fragment_id": "886673788",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - As verbas do Orçamento do Estado necessárias ao funcionamento do SIPAC são inscritas no PIDDAC do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas (MADRP).\n\n2 - As contribuições dos agricultores e das seguradoras são recebidas pelo IFADAP, sem prejuízo da sua afectação aos encargos previstos no artigo anterior."
+  },
+  "886671968": {
+   "fragment_id": "886673789",
+   "type": 1,
+   "heading": "Capítulo VI — Coordenação e gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Coordenação e gestão"
+  },
+  "886671969": {
+   "fragment_id": "886673790",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nA coordenação global do sistema e a sua gestão técnica e financeira são asseguradas pelo IFADAP."
+  },
+  "886671970": {
+   "fragment_id": "886673791",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nNo âmbito da gestão e coordenação do SIPAC, compete ao IFADAP:\n\na) Fomentar e divulgar o SIPAC;\n\nb) Definir, em colaboração com os outros organismos intervenientes, os circuitos de informação a observar entre as várias componentes do SIPAC;\n\nc) Efectuar a gestão do SIPAC, nomeadamente:\n\n1) Propondo e fundamentando a dotação a inscrever no Orçamento do Estado;\n\n2) Propondo o esquema de bonificação a conceder, bem como as condições técnicas mínimas a observar na sua concessão;\n\n3) Propondo conjuntamente com o ISP os padrões de referência a utilizar pelas seguradoras para efeitos de bonificação dos prémios de seguros de colheita;\n\n4) Definindo os circuitos e o tipo de informação necessária ao pagamento das bonificações dos prémios;\n\n5) Concebendo e propondo o funcionamento do mecanismo de compensação de sinistralidade;\n\n6) Definindo os circuitos e a informação necessária à atribuição da compensação de sinistralidade por seguradora;\n\n7) Definindo, conjuntamente com os diferentes serviços do MADRP, as medidas de apoio financeiro a criar no âmbito do fundo de calamidades;\n\n8) Promovendo, nos casos em que o considere conveniente, a confirmação, pelas direcções regionais de agricultura, das declarações prestadas pelos tomadores de seguros nas propostas de seguro, tendo em vista a atribuição da bonificação;\n\n9) Promovendo, nos casos em que considere conveniente, a confirmação pelo ISP dos elementos fornecidos pelas seguradoras;\n\n10) Definindo as normas técnicas e financeiras, bem como toda a tramitação processual, com vista à atribuição do apoio a conceder no âmbito do fundo de calamidades;\n\n11) Efectuando os pagamentos inerentes ao SIPAC;\n\n12) Efectuando os estudos estatísticos e prospectivos necessários à gestão e coordenação do Sistema;\n\n13) Praticando os demais actos necessários à regular e plena execução do SIPAC."
+  },
+  "886671971": {
+   "fragment_id": "886673792",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1 - Para efeitos do disposto no artigo 13.º, os diferentes serviços do MADRP fornecerão ao IFADAP a informação necessária à actualização do SIPAC, nomeadamente:\n\na) Selectividade das actividades a abranger no seguro de colheitas e sua distribuição regional, nomeadamente no que se refere à adaptação das variedades;\n\nb) As condições técnicas mínimas de cultivo e exploração dos produtos agrícolas, bem como as técnicas de luta preventiva normais exigidas em cada região para as actividades incluídas no seguro de colheitas;\n\nc) Os rendimentos estimados para as produções agrícolas afectas ao seguro;\n\nd) Os preços máximos a aplicar aos produtos agrícolas afectos ao seguro;\n\ne) A eventual alteração das culturas abrangidas pelo seguro de colheitas, bem como os riscos a segurar;\n\nf) A duração do período de carência nas diferentes coberturas de seguro;\n\ng) Os estudos necessários sobre danos ocasionados às produções agrícolas, os meios de prevenção dos riscos e os de investigação necessários para a cobertura daqueles;\n\nh) Quaisquer outras informações adicionais que o órgão coordenador do Sistema entenda necessárias.\n\n2 - Os diferentes serviços do MADRP deverão ainda colaborar com o IFADAP, nomeadamente:\n\na) No controlo, no desenvolvimento e na aplicação das várias componentes do SIPAC;\n\nb) No fomento e na divulgação do SIPAC;\n\nc) Na definição das medidas de apoio financeiro a criar no âmbito do fundo de calamidades."
+  },
+  "886671972": {
+   "fragment_id": "886673793",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nPara efeitos do presente diploma, compete ao ISP:\n\na) Elaborar, conjuntamente com o IFADAP e de acordo com o definido no artigo 5.º, n.º 2, a apólice uniforme para o seguro de colheitas;\n\nb) Publicar a apólice uniforme;\n\nc) Colaborar com o IFADAP na definição da tarifa de referência;\n\nd) Colaborar com o IFADAP na definição dos circuitos de informação a observar para efeitos de atribuição de bonificação de prémios e compensação de sinistralidade;\n\ne) Fiscalizar os valores atribuídos e reclamados pelas seguradoras a título de bonificação dos prémios e de compensação de sinistralidade;\n\nf) Estabelecer o plano estatístico para as empresas de seguros referidas no artigo 5.º, n.º 1;\n\ng) Efectuar estudos estatísticos e actuariais."
+  },
+  "886671973": {
+   "fragment_id": "886673794",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1 - É criada uma comissão consultiva com a seguinte composição:\n\na) Um representante do IFADAP, que preside;\n\nb) Um representante dos serviços do MADRP;\n\nc) Um representante do Ministério do Ambiente;\n\nd) Um representante do ISP;\n\ne) Um representante da Associação Portuguesa de Seguradoras (APS);\n\nf) Quatro representantes das organizações agrícolas, designados por despacho do MADRP.\n\n2 - Compete à comissão consultiva o seguinte:\n\na) Aprovar o respectivo regulamento interno;\n\nb) Pronunciar-se sobre a intenção de declaração de calamidade;\n\nc) Emitir parecer sobre os relatórios do SIPAC;\n\nd) Propor alterações ao SIPAC."
+  },
+  "886671974": {
+   "fragment_id": "886673795",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nA comissão consultiva considera-se constituída logo que o seu presidente seja designado pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, devendo aquele notificar de imediato as restantes entidades com assento neste órgão para, no prazo de cinco dias, indicarem os seus representantes."
+  },
+  "886673875": {
+   "fragment_id": "886673796",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais"
+  },
+  "886673876": {
+   "fragment_id": "886673797",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nSão objecto de portaria conjunta dos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas:\n\na) As especificidades técnicas do seguro de colheitas, nomeadamente os riscos cobertos e a sua forma de cobertura, o valor da produção, bem como a forma de cálculo da indemnização;\n\nb) Os termos e as condições da bonificação do seguro de colheitas, nomeadamente as normas técnicas necessárias à sua atribuição, a sua forma de cálculo, o padrão de referência para cálculo de bonificações e as culturas abrangidas;\n\nc) Os termos de intervenção do fundo de calamidades, na situação prevista no artigo 6.º, designadamente as condições de contratação que susceptibilizam o acesso às medidas de apoio financeiro, bem como as condições de atribuição destas medidas de apoio, nomeadamente a sua forma e montantes;\n\nd) As contribuições dos agricultores para o fundo de calamidades e a respectiva forma de cobrança;\n\ne) Os termos e condições de atribuição às seguradoras da compensação de sinistralidade, nomeadamente a contribuição a prestar por aquelas."
+  },
+  "886673877": {
+   "fragment_id": "886673798",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nA remuneração do IFADAP a que se refere o n.º 5 do artigo 10.º é igualmente definida por portaria conjunta dos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas."
+  },
+  "886673878": {
+   "fragment_id": "886673799",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nOs direitos e obrigações do FCSC - Fundo de Compensação de Colheitas são assegurados, até à sua liquidação, nos termos a definir por portaria conjunta dos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas."
+  },
+  "886673879": {
+   "fragment_id": "886673800",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nSão revogados os Decretos-Leis n.os 283/90, 253/91 e 326/95, de 18 de Setembro, 18 de Julho e 5 de Dezembro, respectivamente."
+  },
+  "886673880": {
+   "fragment_id": "886673801",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nO presente diploma entra em vigor simultaneamente com as portarias nele previstas."
+  },
+  "886673898": {
+   "fragment_id": "886673778",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2000-03-07",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 23/2000 - Diário da República n.º 52/2000, Série I-A de 2000-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2000-408475), em vigor a partir de 2000-03-07"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - Os prémios do seguro de colheitas são estabelecidos pelas seguradoras, nos termos das disposições regulamentares em vigor.\n\n2 - O Estado bonifica os prémios do seguro de colheitas.\n\n3 - A bonificação pode ser majorada em função dos riscos cobertos, da taxa de referência aplicável, da localização, das variedades, dos meios de prevenção utilizados e da forma de contratação.\n\n> Alterado pelo/a [Decreto-Lei n.º 23/2000 - Diário da República n.º 52/2000, Série I-A de 2000-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2000-408475), em vigor a partir de 2000-03-07"
+  },
+  "886673899": {
+   "fragment_id": "886673779",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2000-03-07",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 23/2000 - Diário da República n.º 52/2000, Série I-A de 2000-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2000-408475), em vigor a partir de 2000-03-07"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - O seguro de colheitas pode ser efectuado em qualquer companhia de seguros autorizada a explorar o ramo 9 do artigo 114.º do Decreto-Lei n.º 102/94, de 20 de Abril, através da celebração de um contrato individual ou colectivo.\n\n2 - O seguro de colheitas é contratado nos termos de uma apólice uniforme para o efeito elaborada pelo Instituto de Seguros de Portugal, adiante designado por ISP, em colaboração com o Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas, adiante designado por IFADAP, de acordo com os termos e as condições de atribuição de bonificação definidos pela portaria a que alude o artigo 18.º\n\n3 - O incumprimento das condições de atribuição de bonificações referidas no número anterior determina para o tomador do seguro a perda do direito à bonificação, com a respectiva devolução no caso de ter sido paga, sem prejuízo de eventual responsabilização criminal do segurado ou do tomador do seguro.\n\n4 - Se o incumprimento decorrer da falta de pagamento imputável ao tomador do seguro, a seguradora devolverá o valor das bonificações entregues, cobrando do tomador o valor do prémio.\n\n5 - Para efeitos de perda do direito do tomador às bonificações, a seguradora deve comunicar ao IFADAP todas as situações de incumprimento verificadas.\n\n> Alterado pelo/a [Decreto-Lei n.º 23/2000 - Diário da República n.º 52/2000, Série I-A de 2000-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2000-408475), em vigor a partir de 2000-03-07"
+  },
+  "886673900": {
+   "fragment_id": "886673785",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2000-03-07",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 23/2000 - Diário da República n.º 52/2000, Série I-A de 2000-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2000-408475), em vigor a partir de 2000-03-07"
+   ],
+   "markdown": "###### Artigo 9.º\n\n1 - A compensação de sinistralidade tem como objectivo compensar as seguradoras quando o valor das indemnizações exceder uma determinada percentagem do valor dos prémios, de acordo com os termos e condições de atribuição da compensação definidos pela portaria a que alude o artigo 18.º\n\n2 - As seguradoras podem ter acesso à compensação de sinistralidade mediante o pagamento de uma contribuição.\n\n3 - O incumprimento das condições de atribuição da compensação de sinistralidade determina para a seguradora a perda do direito à compensação, com a respectiva devolução no caso de ter sido paga, sem prejuízo de eventual responsabilização criminal.\n\n> Alterado pelo/a [Decreto-Lei n.º 23/2000 - Diário da República n.º 52/2000, Série I-A de 2000-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2000-408475), em vigor a partir de 2000-03-07"
+  },
+  "886673901": {
+   "fragment_id": "886673791",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": "2000-03-07",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 23/2000 - Diário da República n.º 52/2000, Série I-A de 2000-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2000-408475), em vigor a partir de 2000-03-07"
+   ],
+   "markdown": "###### Artigo 13.º\n\nNo âmbito da gestão e coordenação do SIPAC, compete ao IFADAP:\n\na) Fomentar e divulgar o SIPAC;\n\nb) Definir, em colaboração com os outros organismos intervenientes, os circuitos de informação a observar entre as várias componentes do SIPAC;\n\nc) Efectuar a gestão do SIPAC, nomeadamente:\n\n1) Propondo e fundamentando a dotação a inscrever no Orçamento do Estado;\n\n2) Propondo o esquema de bonificação a conceder, bem como as condições técnicas mínimas a observar na sua concessão;\n\n3) Propondo conjuntamente com o ISP os padrões de referência a utilizar pelas seguradoras para efeitos de bonificação dos prémios de seguros de colheita;\n\n4) Definindo os circuitos e o tipo de informação necessária ao pagamento das bonificações dos prémios;\n\n5) Concebendo e propondo o funcionamento do mecanismo de compensação de sinistralidade;\n\n6) Definindo os circuitos e a informação necessária à atribuição da compensação de sinistralidade por seguradora;\n\n7) Definindo, conjuntamente com os diferentes serviços do MADRP, as medidas de apoio financeiro a criar no âmbito do fundo de calamidades;\n\n8) Promovendo, nos casos em que o considere conveniente, a confirmação das declarações prestadas pelos tomadores de seguros nas propostas de seguro, tendo em vista a atribuição da bonificação;\n\n9) Promovendo, nos casos em que considere conveniente, a confirmação pelo ISP dos elementos fornecidos pelas seguradoras;\n\n10) Definindo as normas técnicas e financeiras, bem como toda a tramitação processual, com vista à atribuição do apoio a conceder no âmbito do fundo de calamidades;\n\n11) Efectuando os pagamentos inerentes ao SIPAC;\n\n12) Promovendo o acompanhamento e fiscalização da verificação das condições de atribuição dos apoios;\n\n13) Efectuando os estudos estatísticos e prospectivos necessários à gestão e coordenação do Sistema;\n\n14) Praticando os demais actos necessários à regular e plena execução do SIPAC.\n\n> Alterado pelo/a [Decreto-Lei n.º 23/2000 - Diário da República n.º 52/2000, Série I-A de 2000-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2000-408475), em vigor a partir de 2000-03-07"
+  },
+  "886673902": {
+   "fragment_id": "886673794",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": "2000-03-07",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 23/2000 - Diário da República n.º 52/2000, Série I-A de 2000-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2000-408475), em vigor a partir de 2000-03-07"
+   ],
+   "markdown": "###### Artigo 16.º\n\n1 - É criada uma comissão consultiva com a seguinte composição:\n\na) Um representante do IFADAP, que preside;\n\nb) Um representante dos serviços do MADRP;\n\nc) Um representante do Ministério da Ciência e da Tecnologia;\n\nd) Um representante do ISP;\n\ne) Um representante da Associação Portuguesa de Seguradoras (APS);\n\nf) Quatro representantes das organizações agrícolas, designados por despacho do MADRP.\n\n2 - Compete à comissão consultiva o seguinte:\n\na) Aprovar o respectivo regulamento interno;\n\nb) Pronunciar-se sobre a intenção de declaração de calamidade;\n\nc) Emitir parecer sobre os relatórios do SIPAC;\n\nd) Propor alterações ao SIPAC.\n\n> Alterado pelo/a [Decreto-Lei n.º 23/2000 - Diário da República n.º 52/2000, Série I-A de 2000-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2000-408475), em vigor a partir de 2000-03-07"
+  },
+  "886673881": {
+   "fragment_id": "886673802",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Fernando Manuel Van-Zeller Gomes da Silva - Elisa Maria da Costa Guimarães Ferreira.\n\nPromulgado em 6 de Março de 1996.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 11 de Março de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

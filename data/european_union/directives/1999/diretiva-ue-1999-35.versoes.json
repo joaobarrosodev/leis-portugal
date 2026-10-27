@@ -1,0 +1,1070 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31999L0035:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999L0035-20191221",
+ "dre_path": null,
+ "source_lastmod": "2019-12-21",
+ "versions": [
+  {
+   "date": "1999-06-01",
+   "future": false,
+   "celex": "31999L0035",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "357b176d0e6f2bec",
+    "6a085c8931a96675",
+    "c8b4dbf417456f14",
+    "2203c04ea8b9b1e2",
+    "c528db738c4e0a45",
+    "67bbec97bf01ab26",
+    "665a17d5d6872e11",
+    "516361d10af1571d",
+    "b1606e3d6c01661d",
+    "06d396edd6360456",
+    "9724fc1c677e02c6",
+    "949c51efc25fe13d",
+    "c47344044d38d4b1",
+    "584ba5a0034b4bdc",
+    "b19a70a02d1b8019",
+    "7ea8396d643dad0f",
+    "4eb4b61faafddb31",
+    "6694729771d7286b",
+    "5df83f1cef0fa0a0",
+    "8f081fb226a7dd15",
+    "104d7386c9ca3268",
+    "fb2885b7d1826ff5",
+    "f21b6b32f6b2ecc6",
+    "155d60579a74bdfe",
+    "10b1d7683cd5ba30",
+    "399436e0df39a511",
+    "a95af4591d8bf9ed",
+    "88cada4de9952a77"
+   ]
+  },
+  {
+   "date": "2009-04-20",
+   "future": false,
+   "celex": "01999L0035-20090420",
+   "acts": [
+    {
+     "id": "eu:celex:32002L0084:por",
+     "title": "DIRECTIVA 2002/84/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 5 de Novembro de 2002",
+     "published": null,
+     "celex": "32002L0084"
+    },
+    {
+     "id": "eu:celex:32009R0219:por",
+     "title": "REGULAMENTO (CE) N. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009",
+     "published": null,
+     "celex": "32009R0219"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 4.º — Verificações iniciais exigidas relativamente aos ferries ro-ro ou às embarcações de passageiros de alta velocidade",
+    "Altera Artigo 11.º — Procedimentos relativos às vistorias específicas iniciais e regulares",
+    "Altera Artigo 13.º — Medidas de acompanhamento",
+    "Altera Artigo 17.º — Procedimento de alteração",
+    "Altera Artigo 22.º — Destinatários",
+    "Adita Artigo 16.º — Procedimento de comité",
+    "Adita ANEXO I",
+    "Adita REQUISITOS ESPECÍFICOS A SATISFAZER PELAS COMPANHIAS",
+    "Adita a que se refere o n.º 1 do artigo 5.º e os artigos 6.º e 8.º",
+    "Adita ANEXO II",
+    "Adita LISTA DE INSTRUMENTOS COMUNITÁRIOS",
+    "Adita referidos no n.º 1, alínea c), do artigo 10.º",
+    "Adita ANEXO III",
+    "Adita PROCEDIMENTOS PARA AS VISTORIAS ESPECÍFICAS",
+    "Adita a que se refere os artigos 6.º e 8.º",
+    "Adita ANEXO IV",
+    "Adita ORIENTAÇÕES INDICATIVAS A SEGUIR PELOS INSPECTORES QUALIFICADOS AO EFECTUAREM VISTORIAS NÃO PROGRAMADAS DURANTE UMA TRAVESSIA REGULAR",
+    "Adita a que se refere o n.º 1 do artigo 8.º",
+    "Adita 1. Informação sobre os passageiros",
+    "Adita 2. Informação sobre o carregamento e a estabilidade",
+    "Adita 3. Segurança para a navegação no mar",
+    "Adita 4. Comunicações de segurança",
+    "Adita 5. Entradas no diário de bordo",
+    "Adita 6. Mercadorias perigosas",
+    "Adita 7. Fixação dos veículos de mercadorias",
+    "Adita 8. Pavimentos para veículos",
+    "Adita 9. Encerramento das portas estanque",
+    "Adita 10. Serviço de rondas",
+    "Adita 11. Comunicações em situações de emergência",
+    "Adita 12. Língua comum de trabalho dos membros da tripulação",
+    "Adita 13. Equipamento de segurança",
+    "Adita 14. Equipamento de navegação e radioeléctrico",
+    "Adita 15. Iluminação de emergência suplementar",
+    "Adita 16. Meios de evacuação",
+    "Adita 17. Manual de operações",
+    "Adita 18. Limpeza da casa das máquinas",
+    "Adita 19. Eliminação do lixo",
+    "Adita 20. Plano de manutenção",
+    "Adita 21. Viagem",
+    "Adita ANEXO V",
+    "Adita CRITÉRIOS DE QUALIFICAÇÃO E INDEPENDÊNCIA QUE DEVEM SATISFAZER OS INSPECTORES QUALIFICADOS",
+    "Adita a que se refere a alínea r) do artigo 2.º",
+    "Adita Notas",
+    "Suprime Artigo 16.º — Comité de regulamentação",
+    "Suprime ANEXO I — REQUISITOS ESPECÍFICOS A SATISFAZER PELAS COMPANHIAS",
+    "Suprime ANEXO II — LISTA DE INSTRUMENTOS COMUNITÁRIOS",
+    "Suprime ANEXO III — PROCEDIMENTOS PARA AS VISTORIAS ESPECÍFICAS",
+    "Suprime ANEXO IV — ORIENTAÇÕES INDICATIVAS A SEGUIR PELOS INSPECTORES QUALIFICADOS AO EFECTUAREM VISTORIAS NÃO PROGRAMADAS DURANTE UMA TRAVESSIA REGULAR",
+    "Suprime ANEXO V — CRITÉRIOS DE QUALIFICAÇÃO E INDEPENDÊNCIA QUE DEVEM SATISFAZER OS INSPECTORES QUALIFICADOS"
+   ],
+   "fragments": [
+    "532c3a0bd9ef69a3",
+    "de0198939388b959",
+    "96302cd34326f3eb",
+    "8291bef491e4c69f",
+    "446fd63f594034e8",
+    "10439667ba3dfc23",
+    "32e06e8feeff6e5b",
+    "ea9063260f437de8",
+    "e3ad9dcf894f0b1f",
+    "b4eeb7e0912a29c4",
+    "66326f07dd45a3de",
+    "a2a8ee7ae3a82eb4",
+    "c3eaf6e19e8b1f7d",
+    "037ea472fa44b76d",
+    "b19a70a02d1b8019",
+    "b9d81de7740a4460",
+    "f9a5d5cb64aed9ab",
+    "4e3f204068f6745c",
+    "5df83f1cef0fa0a0",
+    "b51b7126d38b8b52",
+    "92905c882704dff0",
+    "8ff3bebb9128067c",
+    "05c0c15c739403db",
+    "d664376e2a8dcecd",
+    "fd679a6e258915b3",
+    "5750576547aa0d90",
+    "852174729551523b",
+    "72c1ccf9f8c5630e",
+    "da80b68af2e5bf79",
+    "720af75c92791b10",
+    "e9ef67ed2e0a3f2e",
+    "70fa23777fd5a9a8",
+    "e03a0eb4d5b2eef3",
+    "08b4188f25f52745",
+    "db4af0887c54ea2e",
+    "dd81956b51ced67c",
+    "5b49ff10f35d5b4e",
+    "97187e57952323e1",
+    "a0eda106ad04d811",
+    "4a241dfccb74b1ea",
+    "3558b935c991219e",
+    "3ce750a709c16804",
+    "59f65481a3387968",
+    "867124b45c26e82d",
+    "43a858227cbcb1fe",
+    "3eda0a5a6bec4929",
+    "c066d3fabb36cfee",
+    "cd8763798f16ab54",
+    "f1b5c9853bc308e8",
+    "a27340d3c5a987fe",
+    "25243ff13502dd3d",
+    "4183f83dd3fa3367",
+    "e04e32efa12a1ad5",
+    "6c2f64dbc97216c4",
+    "c66c04b08651f9c5",
+    "e1104b8d69eaf292",
+    "64610ae29a6cb67c",
+    "ceeda911124b82fc",
+    "732e98f509bdacf2",
+    "441d6d8615251654"
+   ]
+  },
+  {
+   "date": "2009-06-17",
+   "future": false,
+   "celex": "01999L0035-20090617",
+   "acts": [
+    {
+     "id": "eu:celex:32009L0018:por",
+     "title": "DIRECTIVA 2009/18/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 23 de Abril de 2009",
+     "published": null,
+     "celex": "32009L0018"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 4.º — Verificações iniciais exigidas relativamente aos ferries ro-ro ou às embarcações de passageiros de alta velocidade",
+    "Altera Artigo 16.º — Procedimento de comité",
+    "Altera Notas",
+    "Suprime Artigo 12.º — Investigação de acidentes"
+   ],
+   "fragments": [
+    "6367c7b57f8e0032",
+    "de0198939388b959",
+    "d0d21b23bf166fa5",
+    "8291bef491e4c69f",
+    "688347c06d9f13ca",
+    "10439667ba3dfc23",
+    "32e06e8feeff6e5b",
+    "ea9063260f437de8",
+    "e3ad9dcf894f0b1f",
+    "b4eeb7e0912a29c4",
+    "66326f07dd45a3de",
+    "a2a8ee7ae3a82eb4",
+    "037ea472fa44b76d",
+    "b19a70a02d1b8019",
+    "b9d81de7740a4460",
+    "9cbc0cc7e4784fb2",
+    "4e3f204068f6745c",
+    "5df83f1cef0fa0a0",
+    "b51b7126d38b8b52",
+    "92905c882704dff0",
+    "8ff3bebb9128067c",
+    "05c0c15c739403db",
+    "d664376e2a8dcecd",
+    "fd679a6e258915b3",
+    "5750576547aa0d90",
+    "852174729551523b",
+    "72c1ccf9f8c5630e",
+    "da80b68af2e5bf79",
+    "720af75c92791b10",
+    "e9ef67ed2e0a3f2e",
+    "70fa23777fd5a9a8",
+    "e03a0eb4d5b2eef3",
+    "08b4188f25f52745",
+    "db4af0887c54ea2e",
+    "dd81956b51ced67c",
+    "5b49ff10f35d5b4e",
+    "97187e57952323e1",
+    "a0eda106ad04d811",
+    "4a241dfccb74b1ea",
+    "3558b935c991219e",
+    "3ce750a709c16804",
+    "59f65481a3387968",
+    "867124b45c26e82d",
+    "43a858227cbcb1fe",
+    "3eda0a5a6bec4929",
+    "c066d3fabb36cfee",
+    "cd8763798f16ab54",
+    "f1b5c9853bc308e8",
+    "a27340d3c5a987fe",
+    "25243ff13502dd3d",
+    "4183f83dd3fa3367",
+    "e04e32efa12a1ad5",
+    "6c2f64dbc97216c4",
+    "c66c04b08651f9c5",
+    "e1104b8d69eaf292",
+    "64610ae29a6cb67c",
+    "ceeda911124b82fc",
+    "732e98f509bdacf2",
+    "f3facfc363bd6466"
+   ]
+  },
+  {
+   "date": "2019-12-21",
+   "future": false,
+   "celex": "01999L0035-20191221",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objectivo",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Âmbito de aplicação",
+    "Suprime Artigo 4.º — Verificações iniciais exigidas relativamente aos ferries ro-ro ou às embarcações de passageiros de alta velocidade",
+    "Suprime Artigo 5.º — Verificações iniciais exigidas relativamente às companhias e aos Estados do pavilhão",
+    "Suprime Artigo 6.º — Vistorias específicas iniciais",
+    "Suprime Artigo 7.º — Disposições especiais",
+    "Suprime Artigo 8.º — Vistorias específicas regulares e outras vistorias",
+    "Suprime Artigo 9.º — Notificação",
+    "Suprime Artigo 10.º — Impedimento de exploração",
+    "Suprime Artigo 11.º — Procedimentos relativos às vistorias específicas iniciais e regulares",
+    "Suprime Artigo 13.º — Medidas de acompanhamento",
+    "Suprime Artigo 14.º — Cooperação entre Estados de acolhimento",
+    "Suprime Artigo 15.º — Medidas de apoio",
+    "Suprime Artigo 16.º — Procedimento de comité",
+    "Suprime Artigo 17.º — Procedimento de alteração",
+    "Suprime Artigo 18.º — Sanções",
+    "Suprime Artigo 19.º — Aplicação",
+    "Suprime Artigo 20.º — Avaliação da aplicação",
+    "Suprime Artigo 21.º — Entrada em vigor",
+    "Suprime Artigo 22.º — Destinatários",
+    "Suprime ANEXO I",
+    "Suprime REQUISITOS ESPECÍFICOS A SATISFAZER PELAS COMPANHIAS",
+    "Suprime a que se refere o n.º 1 do artigo 5.º e os artigos 6.º e 8.º",
+    "Suprime ANEXO II",
+    "Suprime LISTA DE INSTRUMENTOS COMUNITÁRIOS",
+    "Suprime referidos no n.º 1, alínea c), do artigo 10.º",
+    "Suprime ANEXO III",
+    "Suprime PROCEDIMENTOS PARA AS VISTORIAS ESPECÍFICAS",
+    "Suprime a que se refere os artigos 6.º e 8.º",
+    "Suprime ANEXO IV",
+    "Suprime ORIENTAÇÕES INDICATIVAS A SEGUIR PELOS INSPECTORES QUALIFICADOS AO EFECTUAREM VISTORIAS NÃO PROGRAMADAS DURANTE UMA TRAVESSIA REGULAR",
+    "Suprime a que se refere o n.º 1 do artigo 8.º",
+    "Suprime 1. Informação sobre os passageiros",
+    "Suprime 2. Informação sobre o carregamento e a estabilidade",
+    "Suprime 3. Segurança para a navegação no mar",
+    "Suprime 4. Comunicações de segurança",
+    "Suprime 5. Entradas no diário de bordo",
+    "Suprime 6. Mercadorias perigosas",
+    "Suprime 7. Fixação dos veículos de mercadorias",
+    "Suprime 8. Pavimentos para veículos",
+    "Suprime 9. Encerramento das portas estanque",
+    "Suprime 10. Serviço de rondas",
+    "Suprime 11. Comunicações em situações de emergência",
+    "Suprime 12. Língua comum de trabalho dos membros da tripulação",
+    "Suprime 13. Equipamento de segurança",
+    "Suprime 14. Equipamento de navegação e radioeléctrico",
+    "Suprime 15. Iluminação de emergência suplementar",
+    "Suprime 16. Meios de evacuação",
+    "Suprime 17. Manual de operações",
+    "Suprime 18. Limpeza da casa das máquinas",
+    "Suprime 19. Eliminação do lixo",
+    "Suprime 20. Plano de manutenção",
+    "Suprime 21. Viagem",
+    "Suprime ANEXO V",
+    "Suprime CRITÉRIOS DE QUALIFICAÇÃO E INDEPENDÊNCIA QUE DEVEM SATISFAZER OS INSPECTORES QUALIFICADOS",
+    "Suprime a que se refere a alínea r) do artigo 2.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "4e35f111c61e0602"
+   ]
+  }
+ ],
+ "fragments": {
+  "357b176d0e6f2bec": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 1999/35/CE do Conselho de 29 de Abril de 1999 relativa a um sistema de vistorias obrigatórias para a exploração segura de serviços regulares de ferries ro-ro e embarcações de passageiros de alta velocidade** *Jornal Oficial nº L 138 de 01/06/1999 p. 0001 - 0019*\n\nDIRECTIVA 1999/35/CE DO CONSELHO\n\nde 29 de Abril de 1999\n\nrelativa a um sistema de vistorias obrigatórias para a exploração segura de serviços regulares de ferries ro-ro e embarcações de passageiros de alta velocidade\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.o 2 do seu artigo 84.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Comité Económico e Social(2),\n\nDelibrando nos termos do artigo 189.oC do Tratado(3),\n\n(1) Considerando que, no quadro da política comum dos transportes, devem ser adoptadas novas medidas, para aumentar a segurança do transporte marítimo de passageiros;\n\n(2) Considerando que a Comunidade está extremamente preocupada com os acidentes que envolveram ferries ro-ro e causaram enormes perdas de vidas humanas; que as pessoas que utilizam ferries ro-ro e embarcações de passageiros de alta velocidade na Comunidade têm o direito de esperar e contar com um nível de segurança adequado;\n\n(3) Considerando que, na Resolução de 22 de Dezembro de 1994 relativa à seguraça dos ferries roll-on/roll-off de passageiros(4), o Conselho convidou a Comissão a apresentar propostas para o estabelecimento de um regime de vistorias obrigatórias e de controlo da segurança de todos os ferries ro-ro de passageiros que operem de e para portos da Comunidade, incluindo o direito de proceder a investigações acerca de acidentes marítimos;\n\n(4) Considerando que, dada nomeadamente a dimensão de mercado interno do transporte marítimo de passageiros, a acção a nível da Comunidade é a maneira mais eficaz de estabelecer, em toda a Comunidade, um nível mínimo comum de segurança para os navios;\n\n(5) Considerando que a acção a nível da Comunidade é o meio mais eficaz de garantir a aplicação harmonizada de alguns dos princípios acordados no âmbito da Organização Marítima Internacional (OMI), evitando-se assim distorções da concorrência entre diferentes portos da Comunidade e entre diferentes ferries ro-ro e embarcações de passageiros de alta velocidade;\n\n(6) Considerando que, atendendo ao princípio da proporcionalidade, uma directiva do Conselho é o instrumento jurídico mais adequado, por proporcionar um enquadramento para a aplicação uniforme e obrigatória das normas comuns de segurança pelos Estados-Membros, deixando embora a cada Estado-Membro o direito de decidir dos meios de aplicação que melhor se coadunem com o seu sistema interno;\n\n(7) Considerando que a segurança dos navios é sobretudo da responsabilidade dos Estados do pavilhão; que os Estados-Membros devem assegurar o cumprimento dos requisitos de segurança aplicáveis aos ferries ro-ro e às embarcações de passageiros de alta velocidade que arvoram o seu pavilhão, bem como às companhias que os exploram;\n\n(8) Considerando que a inspecção pelo Estado do porto não impõe vistorias e verificações aprofundadas de prevenção a efectuar com regularidade em ferries ro-ro e embarcações de passageiros de alta velocidade; que, por conseguinte, se deve verificar as companhias e os ferries e as embarcações que aquelas exploram satisfazem as normas de segurança acordadas no âmbito da OMI e, se for caso disso, a nível regional, através de um sistema de inspecções regulares obrigatórias efectuadas pelos Estados de acolhimento; que as companhias devem ser impedidas de explorar esses ferries e essas embarcações se as inspecções revelarem um incumprimento perigoso dessas normas de segurança;\n\n(9) Considerando que a presente directiva tem por destinatários os Estados-Membros na qualidade de Estados de acolhimento; que as responsabilidades exercidas nessa qualidade assentam em responsabilidades específicas do Estado do porto que estão plenamente em conformidade com a Convenção das Nações Unidas sobre o Direito do Mar (UNCLOS) de 1982;\n\n(10) Considerando que, para reforçar a segurança e evitar distorções da concorrência, as normas comuns de segurança se devem aplicar a todos os ferries ro-ro e embarcações de passageiros de alta velocidade, qualquer que seja o seu pavilhão, que efectuem serviços regulares de um ou para um porto dos Estados-Membros, tanto em viagens internacionais como domésticas, em zonas marítimas situadas a mais de 20 milhas de uma linha de costa onde pessoas naufragadas possam desembarcar, deixando aos Estados-Membros a possibilidade de alargarem o âmbito de aplicação da presente directiva a ferries e embarcações que operem em viagens domésticas em zonas marítimas situadas a menos de 20 milhas da linha da costa;\n\n(11) Considerando que é necessário que os Estados de acolhimento se assegurem de que os ferries ro-ro e as embarcações de passageiros de alta velocidade que operem de e para portos da Comunidade cumprem determinados requisitos harmonizados de certificação e vistoria pelo Estado do pavilhão;\n\n(12) Considerando que esses ferries ro-ro e essas embarcações de passageiros de alta velocidade devem igualmente satisfazer, na fase de construção e durante toda a sua vida útil, as normas de classificação pertinentes, no que respeita à construção e manutenção do casco, às máquinas principais e auxiliares, à instalação eléctrica e instalação de controlo, e que devem estar munidos de um equipamento de registo dos dados de viagem que satisfaça os requisitos internacionais relevantes;\n\n(13) Considerando que os Estados de acolhimento devem assegurar-se de que as companhias que prestam esses serviços exploram os respectivos ferries ro-ro e embarcações de passageiros de alta velocidade de uma forma que garanta um máximo de segurança; que os Estados-Membros interessados que não sejam o Estado do pavilhão devem poder participar plenamente em qualquer investigação sobre acidentes marítimos;\n\n(14) Considerando que é fundamental verificar se as administrações do Estado do pavilhão de países terceiros vão ao encontro dos compromissos assumidos pelas companhias de cooperarem em qualquer investigação sobre acidentes ou incidentes marítimos e de cumprirem as regras das organizações reconhecidas em matéria de classificação e, se for caso disso, de certificação; que essas administrações devem aceitar o recurso a procedimentos harmonizados de vistoria e de certificação;\n\n(15) Considerando que, para garantir o cumprimento continuado dos requisitos da presente directiva pelos ferries ro-ro e pelas embarcações de passageiros de alta velocidade, os Estados de acolhimento devem proceder a vistorias antes do início de um serviço e, posteriormente, a intervalos regulares, bem como sempre que ocorra uma alteração significativa das circunstâncias de exploração;\n\n(16) Considerando que, para reduzir os encargos a que são sujeitas as companhias, devem ser tidas na devida conta as verificações e vistorias anteriormente efectuadas; que os ferries ro-ro e as embarcações de passageiros de alta velocidade devem ficar isentos de vistorias sempre que comprovadamente cumpram os requisitos da presente directiva ao operarem em rotas semelhantes; que os ferries e as embarcações de substituição devem beneficiar de disposições especiais; que os ferries e as embarcações sujeitos a vistorias que tenham satisfeito o Estado de acolhimento não devem ser submetidos às inspecções alargadas previstas na Directiva 95/21/CE do Conselho, de 19 de Junho de 1995, relativa à aplicação, aos navios que escalem os postos da Comunidade ou naveguem em águas sob jurisdição dos Estados-Membros, das normas internacionais respeitantes à segurança da navegação, à prevenção da poluição e às condições de vida e de trabalho a bordo dos navios (inspecção pelo Estado do porto)(5);\n\n(17) Considerando que os Estados-Membros devem cooperar no exercício das suas responsabilidades enquanto Estados de acolhimento;\n\n(18) Considerando que os Estados-Membros podem julgar útil a possibilidade de serem assistidos no desempenho das tarefas que lhes incumbem por organizações reconhecidas que preencham os critérios definidos na Directiva 94/57/CE do Conselho, de 22 de Novembro de 1994, relativa às regras comuns para as organizações de vistoria e inspecção de navios e para as actividades relevantes das administrações marítimas(6);\n\n(19) Considerando que, ao planificar as vistorias, se devem ter em conta os calendários operacionais e de manutenção dos ferries ro-ro e das embarcações de passageiros de alta velocidade;\n\n(20) Considerando que os Estados-Membros devem assegurar-se de que os respectivos ordenamentos jurídicos internos lhes permitem, bem como a quaisquer outros Estados-Membros legitimamente interessados, participar ou cooperar na investigação de um acidente, bem como investigar um acidente, com base nas disposições do Código para a Investigação de Acidentes Marítimos da OMI; que o resultado de tais investigações deve ser facultado ao público;\n\n(21) Considerando que um conjunto de medidas de acompanhamento nos domínios dos sistemas de orientação náutica, planos de contingência e restrições operacionais locais contribuirá para aumentar a segurança;\n\n(22) Considerando que, para possibilitar o controlo da aplicação da presente directiva, deve ser criada uma base de dados que contenha as informações recolhidas nas vistorias;\n\n(23) Considerando que é necessário que um comité composto por representantes dos Estados-Membros assista a Comissão para efeitos da aplicação efectiva da presente directiva; que o comité instituído pelo artigo 12.o da Directiva 93/75/CEE do Conselho, de 13 de Setembro de 1993, relativa às condições mínimas exigidas aos navios com destino aos portos marítimos da Comunidade ou que deles saiam transportando mercadorias perigosas ou poluentes(7), pode assumir essas funções;\n\n(24) Considerando que certas disposições da presente directiva podem ser adaptadas pelo referido comité a fim de as tornar conformes com as medidas da Comunidade ou da OMI e de melhorar o regime estabelecido pela directiva para ter em conta futuras alterações à Convenção Internacional para a Salvaguarda da Vida Humana no Mar de 1974 (SOLAS) que entrem em vigor e assegurar a implementação harmonizada das alterações introduzidas em certas resoluções da OMI, sem alargar o âmbito das mesmas,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "6a085c8931a96675": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\nA presente directiva tem por objectivo estabelecer um sistema de vistorias obrigatórias que proporcione maiores garantias de exploração segura de serviços regulares de ferries ro-ro e embarcações de passageiros de alta velocidade de e para portos dos Estados-Membros da Comunidade, bem como conferir aos Estados-Membros o direito de investigarem qualquer acidente ou incidente marítimo nesses serviços ou de participarem ou cooperarem nessas investigações."
+  },
+  "c8b4dbf417456f14": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva e seus anexos, entende-se por:\n\na) \"Ferry ro-ro\", um navio de passageiros de mar equipado de forma a permitir o embarque e desembarque directos em marcha de veículos rodoviários ou ferroviários que transporte mais de 12 passageiros;\n\nb) \"Embarcação de passageiros de alta velocidade\", uma embarcação de alta velocidade conforme definida na regra 1 do capítulo X da Convenção SOLAS de 1974, na versão em vigor à data de adopção da presente directiva, que transporte mais de 12 passageiros;\n\nc) \"Passageiro\", qualquer pessoa excepto:\n\ni) o comandante e os membros da tripulação ou outras pessoas empregadas ou ocupadas, sob qualquer forma, a bordo de um navio em serviços que a este digam respeito, e\n\nii) uma criança de idade inferior a um ano;\n\nd) \"Convenção SOLAS de 1974\", a Convenção Internacional para a Salvaguarda da Vida Humana no Mar, bem como os seus protocolos e alterações, na versão em vigor à data de adopção da presente directiva;\n\ne) \"Código das Embarcações de Alta Velocidade\", o Código Internacional para a Segurança das Embarcações de Alta Velocidade constante da Resolução MSC 36(63), de 20 de Maio de 1994, do Comité de Segurança Marítima da OMI, na versão em vigor à data de adopção da presente directiva;\n\nf) \"Serviço regular\", uma série de travessias efectuadas por um ferry ro-ro ou por uma embarcação de passageiros de alta velocidade por forma a servir o tráfego entre os mesmos dois ou mais portos, ou uma série de viagens de ou para o mesmo porto sem escalas intermédias:\n\ni) segundo um horário publicado, ou\n\nii) com uma regularidade ou frequência tais que constituam uma série manifestamente sistemática;\n\ng) \"Zona marítima\", uma zona marítima incluída numa lista estabelecida nos termos do artigo 4.o da Directiva 98/18/CE do Conselho, de 17 de Março de 1998, relativa às regras e normas de segurança para os navios de passageiros(8);\n\nh) \"Certificados\":\n\ni) para os ferries ro-ro e as embarcações de passageiros de alta velocidade utilizados em viagens internacionais, os certificados de segurança emitidos em conformidade com a Convenção SOLAS de 1974 e respectivas alterações, juntamente com os registos de equipamento pertinentes e, quando for caso disso, os certificados de isenção e as autorizações de exploração;\n\nii) para os ferries ro-ro e as embarações de passageiros de alta velocidade utilizados em viagens domésticas, os certificados de segurança emitidos em conformidade com a Directiva 98/18/CE, juntamente com os registos de equipamento pertinentes e, quando for caso disso, os certificados de isenção e as autorizações de exploração;\n\ni) \"Certificado de isenção\", o certificado emitido em conformidade com a regra I/B/12 a) vi) da Convenção SOLAS de 1974;\n\nj) \"Administração do Estado do pavilhão\", as autoridades competentes do Estado cujo pavilhão o ferry ro-ro ou a embarcação de passageiros de alta velocidade está autorizado a arvorar;\n\nk) \"Estado de acolhimento\", um Estado-Membro de cujos ou para cujos portos um ferry ro-ro ou uma embarcação de passageiros de alta velocidade efectua um serviço regular;\n\nl) \"Viagem internacional\", uma viagem por mar de um porto de um Estado-Membro para um porto situado fora desse Estado-Membro ou vice-versa;\n\nm) \"Viagem doméstica\", uma viagem em zonas marítimas de um porto de um Estado-Membro para o mesmo ou outro porto desse Estado-Membro;\n\nn) \"Organização reconhecida\", uma organização reconhecida em conformidade com o artigo 4.o da Directiva 94/57/CE;\n\no) \"Companhia\", uma companhia que explore um ou mais ferries ro-ro e para a qual tenha sido emitido um documento de conformidade nos termos do n.o 2 do artigo 5.o do Regulamento (CE) n.o 3051/95 do Conselho, de 8 de Dezembro de 1995, relativo à gestão da segurança dos ferries roll-on/roll-off de passageiros (ferries ro-ro)(9), ou uma companhia que explore embarcações de passageiros de alta velocidade e para a qual tenha sido emitido um documento de conformidade nos termos da regra IX/4 da Convenção SOLAS de 1974 na versão em vigor à data de adopção da presente directiva;\n\np) \"Código de Investigação de Acidentes Marítimos\", o Código de Investigação de Acidentes ou Incidentes Marítimos adoptado pela OMI por meio da Resolução A.849(20) da Assembleia, de 27 de Novembro de 1997;\n\nq) \"Vistoria específica\", uma vistoria efectuada pelo Estado de acolhimento conforme especificado nos artigos 6.o e 8.o;\n\nr) \"Inspector qualificado\", um agente administrativo do Estado ou outra pessoa, devidamente autorizado pela autoridade competente de um Estado-Membro a efectuar vistorias e inspecções relacionadas com os certificados e que preencha os critérios de qualificação e independência especificados no anexo V;\n\ns) \"Anomalia\", uma situação de incumprimento dos requisitos da presente directiva."
+  },
+  "2203c04ea8b9b1e2": {
+   "fragment_id": "Artigo 3.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação\n\n1. A presente directiva aplica-se a todos os ferries ro-ro e embarcações de passageiros de alta velocidade, qualquer que seja o seu pavilhão, que operem de ou para um porto de um Estado-Membro em serviço regular, quando efectuem viagens internacionais ou viagens domésticas em zonas marítimas abrangidas pela classe A conforme referido no artigo 4.o da Directiva 98/18/CE.\n\n2. Os Estados-Membros podem aplicar a presente directiva aos ferries ro-ro e embarcações de passageiros de alta velocidade que efectuem viagens domésticas em zonas marítimas distintas das referidas no n.o 1. Em tais circunstâncias, as regras pertinentes são aplicáveis a todos os ferries e embarcações que operem em condições idênticas, sem discriminações por motivo de pavilhão, da nacionalidade ou do local de estabelecimento da companhia."
+  },
+  "c528db738c4e0a45": {
+   "fragment_id": "Artigo 4.º — Verificações iniciais exigidas relativamente aos ferries ro-ro ou às embarcações de passageiros de alta velocidade",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Verificações iniciais exigidas relativamente aos ferries ro-ro ou às embarcações de passageiros de alta velocidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Verificações iniciais exigidas relativamente aos ferries ro-ro ou às embarcações de passageiros de alta velocidade\n\n1. Antes da entrada em exploração de um ferry ro-ro ou de uma embarcação de passageiros de alta velocidade num serviço regular, ou no prazo de 12 meses a contar da data referida no n.o 1 do artigo 19.o para um ferry ro-ro ou uma embarcação de passageiros de alta velocidade já a operar num serviço regular nessa data, os Estados de acolhimento devem verificar se os ferries e as embarcações:\n\na) Estão munidos de certificados válidos emitidos pela administração do Estado do pavilhão ou por uma organização reconhecida que actue em seu nome;\n\nb) Foram inspeccionados para efeitos da emissão de certificados em conformidade com os procedimentos e orientações pertinentes que figuram em anexo à Resolução A.746(18) da Assembleia da OMI sobre as orientações relativas às vistorias no âmbito do sistema harmonizado de vistoria e certificação, na versão em vigor à data de adopção da presente directiva, ou com procedimentos destinados ao mesmo fim;\n\nc) Satisfazem as normas especificadas para classificação segundo as regras de uma organização reconhecida, ou regras consideradas equivalentes pela administração do Estado do pavilhão no que respeita à construção e manutenção do casco, máquinas e instalações eléctricas e de comando;\n\nd) Estão munidos de um equipamento de registo dos dados de viagem (VDR - Voyage Data Recorder), com o fim de fornecer informações para a investigação de um eventual acidente. O VDR deve satisfazer as normas de desempenho definidas na Resolução A.861(20) da Assembleia da OMI, de 27 de Novembro de 1997, e as normas de ensaio estabelecidas na norma n.o 61996 da Comissão Electrotécnica Internacional (CEI). No entanto, para os VDR a instalar a bordo de ferries ou embarcações construídos anteriormente à entrada em vigor da presente directiva, podem ser concedidas isenções relativamente a certos requisitos. Essas isenções e as condições da sua concessão serão decididas nos termos do artigo 16.o;\n\ne) Satisfazem os requisitos específicos de estabilidade adoptados a nível regional e transpostos para a sua legislação nacional em conformidade com o processo de notificação previsto na Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação(10), quando efectuem nessa região um serviço abrangido pela referida legislação nacional, desde que esses requisitos não ultrapassem os especificados no anexo da Resolução 14 (Requisitos de estabilidade pertencentes ao acordo) da Conferência SOLAS de 1995 e tenham sido notificados ao secretário-geral da OMI nos termos do ponto 3 da referida resolução.\n\n2. A alínea e) do n.o 1 só se aplica às embarcações de passageiros de alta velocidade quando for caso disso."
+  },
+  "67bbec97bf01ab26": {
+   "fragment_id": "Artigo 5.º — Verificações iniciais exigidas relativamente às companhias e aos Estados do pavilhão",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Verificações iniciais exigidas relativamente às companhias e aos Estados do pavilhão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Verificações iniciais exigidas relativamente às companhias e aos Estados do pavilhão\n\nAntes da entrada em exploração de um ferry ro-ro ou de uma embarcação de passageiros de alta velocidade num serviço regular, ou no prazo de doze meses a contar da data referida no n.o 1 do artigo 19.o para um ferry ro-ro ou uma embarcação de passageiros de alta velocidade já a operar num serviço regular nessa data, os Estados de acolhimento devem:\n\n1. Verificar que as companhias que exploram ou pretendem explorar esse ferry ou essa embarcação em serviço regular:\n\na) Tomam as medidas necessárias para garantir que são aplicados os requisitos específicos estabelecidos no anexo I e fornecem prova da conformidade com o disposto no presente número e no artigo 4.o aos Estados de acolhimento envolvidos no serviço regular;\n\nb) Concordam à partida que os Estados de acolhimento ou qualquer outro Estado-Membro legitimamente interessado podem, nos termos do artigo 12.o, investigar qualquer acidente ou incidente marítimo ou participar ou cooperar nessas investigações e facilitam a esses Estados o acesso aos dados recuperados do VDR do seu ferry ou da sua embarcação envolvido num acidente ou incidente;\n\n2. Verificar, para os navios e as embarcações que arvorem pavilhão que não seja o de um Estado-Membro, a confirmação do Estado do pavilhão de que aceitou o compromisso assumido pela companhia de respeitar os requisitos da presente directiva."
+  },
+  "665a17d5d6872e11": {
+   "fragment_id": "Artigo 6.º — Vistorias específicas iniciais",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Vistorias específicas iniciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Vistorias específicas iniciais\n\n1. Antes da entrada em exploração de um ferry ro-ro ou de uma embarcação de passageiros de alta velocidade num serviço regular, ou no prazo de 12 meses a contar da data referida no n.o 1 do artigo 19.o para um ferry ro-ro ou uma embarcação de passageiros de alta velocidade já a operar num serviço regular nessa data, os Estados de acolhimento devem efectuar uma vistoria específica inicial, em conformidade com os anexos I e III, a fim de se certificarem de que o ferry ou a embarcação em causa satisfaz os requisitos necessários para a exploração segura de um serviço regular.\n\n2. Quando o presente artigo for aplicado antes da entrada em exploração, os Estados de acolhimento devem estabelecer uma data para a vistoria específica inicial, que não será superior a um mês após a recepção da prova necessária, para completar a verificação nos termos dos artigos 4.o e 5.o"
+  },
+  "516361d10af1571d": {
+   "fragment_id": "Artigo 7.º — Disposições especiais",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Disposições especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Disposições especiais\n\n1. Quando um ferry ro-ro ou uma embarcação de passageiros de alta velocidade for efectuar outro serviço regular, o novo Estado de acolhimento deve ter na maior conta as verificações e vistorias anteriormente efectuadas em relação a esse ferry ou a essa embarcação no que diz respeito à exploração num serviço regular anterior abrangido pela presente directiva. Se o novo Estado de acolhimento considerar que essas verificações e vistorias anteriores são satisfatórias e que são válidas para as novas condições de exploração, não precisam de ser aplicados os artigos 4.o, 5.o e 6.o antes da entrada em exploração no novo serviço regular do ferry ou da embarcação.\n\n2. Os artigos 4.o, 5.o e 6.o não precisam de ser aplicados quando um ferry ro-ro ou embarcação de passageiros de alta velocidade que cumpra as disposições da presente directiva, já a operar num serviço regular abrangido pela presente directiva, for transferido para outro serviço regular em que as características da rota sejam consideradas semelhantes pelos Estados de acolhimento em causa e todos os Estados de acolhimento concordarem que o ferry ou a embarcação preenche todos os requisitos para a exploração segura desse serviço.\n\nA pedido de uma companhia, os Estados de acolhimento em questão podem confirmar antecipadamente que concordam que as características de rota são semelhantes.\n\n3. Nos casos em que, devido a circunstâncias imprevistas, se tiver de substituir rapidamente um ferry ro-ro ou uma embarcação de passageiros de alta velocidade para garantir a continuidade do serviço e os n.os 1 e 2 não forem aplicáveis, o Estado de acolhimento pode autorizar o ferry ou a embarcação a começar a operar desde que:\n\na) Uma inspecção visual e uma veritificação de documentos não suscite suspeitas de que o ferry ou a embarcação não preenche os requisitos necessários a uma exploração segura; e\n\nb) O Estado de acolhimento complete no prazo de um mês as verificações e vistorias nos termos dos artigos 4.o, 5.o e 6.o"
+  },
+  "b1606e3d6c01661d": {
+   "fragment_id": "Artigo 8.º — Vistorias específicas regulares e outras vistorias",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Vistorias específicas regulares e outras vistorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Vistorias específicas regulares e outras vistorias\n\n1. Os Estados de acolhimento devem efectuar, uma vez de 12 em 12 meses:\n\n- uma vistoria específica, em conformidade com o anexo III, e\n\n- uma vistoria durante um serviço regular, que deverá procurar abranger suficientes aspectos referidos nos anexos I, III e IV para se assegurarem de que o ferry ou a embarcação continua a preencher todos os requisitos necessários a uma exploração segura.\n\nUma vistoria específica inicial em conformidade com o artigo 6.o conta como uma vistoria específica para efeitos do presente artigo.\n\n2. Os Estados de acolhimento devem efectuar a uma vistoria específica em conformidade com o anexo III cada vez que um ferry ro-ro ou uma embarcação de passageiros de alta velocidade seja objecto de reparações, alterações ou modificações de grande importância ou quando tenha havido mudança de companhia aramadora ou de pavilhão ou transferência de classe. Contudo, em caso de mudança de companhia armadora ou de pavilhão, ou de transferência de classe, os Estados de acolhimento, após tomarem em conta as verificações e vistorias anteriormente efectuadas em relação a esse ferry ou essa embarcação, e na medida em que a exploração segura do ferry ou da embarcação não seja afectada por essa mudança ou transferência, podem dispensar o ferry ou a embarcação da vistoria específica exigida no presente número.\n\n3. Caso as vistorias previstas no n.o 1 confirmem ou revelem anomalias em relação aos requisitos da presente directiva que justifiquem que se impeça a exploração, todas as despesas relativas às vistorias num período contabilístico habitual serão suportadas pela companhia."
+  },
+  "06d396edd6360456": {
+   "fragment_id": "Artigo 9.º — Notificação",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Notificação\n\nOs Estados de acolhimento devem informar as companhias rapidamente, por escrito, dos resultados das verificações e vistorias efectuadas nos termos dos artigos 4.o, 5.o, 6.o e 8.o"
+  },
+  "9724fc1c677e02c6": {
+   "fragment_id": "Artigo 10.º — Impedimento de exploração",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Impedimento de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Impedimento de exploração\n\n1. Um Estado-Membro de acolhimento deve impedir a exploração de um ferry ro-ro ou de uma embarcação de passageiros de alta velocidade num serviço regular:\n\na) Quando não lhe for possível confirmar que o ferry ou a embarcação cumpre os requisitos previstos nos artigos 4.o e 5.o;\n\nb) Sempre que, durante as vistorias previstas nos artigos 6.o e 8.o, sejam constatadas anomalias que representem um perigo imediato para a vida, para o ferry ou a embarcação, para a tripulação e os passageiros;\n\nc) Quando exista um comprovado incumprimento dos instrumentos comunitários referidos no anexo II que represente um perigo imediato para a vida, para o ferry ou a embarcação, para a tripulação e os passageiros;\n\nd) Sempre que não tenha sido consultado pelo Estado do pavilhão quanto às matérias previstas nos n.os 1 e 5 do artigo 13.o,\n\naté o Estado de acolhimento ter estabelecido que o perigo foi afastado e que estão preenchidos os requisitos da presente directiva.\n\nO Estado de acolhimento deve informar a companhia, por escrito, da decisão de impedir a exploração do ferry ro-ro ou da embarcação de passageiros de alta velocidade, apresentando uma justificação completa da mesma.\n\n2. Contudo, quando um ferry ro-ro ou uma embarcação de passageiros de alta velocidade já estiver a operar num serviço regular e for comprovada a existência de anomalias, os Estados de acolhimento devem exigir da companhia que tome as medidas necessárias para que estas sejam corrigidas prontamente ou, se não representarem um perigo imediato para a segurança do ferry ou da embarcação, nem dos seus tripulantes e passageiros, num prazo bem definido e razoável. Uma vez corrigidas as anomalias, os Estados de acolhimento em questão devem verificar se as correcções efectuadas os satisfazem plenamente. Se não for esse o caso, devem impedir a exploração do ferry ou da embarcação.\n\n3. Os Estados-Membros devem em conformidade com as respectivas legislações nacionais, estabelecer e manter vias de recurso apropriadas que permitam a uma companhia recorrer de uma decisão de impedimento de exploração. A tramitação dos recursos deve ser expedita. O recurso não suspende automaticamente a decisão.\n\nA autoridade competente deve informar devidamente a companhia do seu direito de recurso.\n\n4. Quando os artigos 4.o, 5.o e 8.o forem aplicados antes da entrada em exploração de um ferry ro-ro ou de uma embarcação de passageiros de alta velocidade num serviço regular, uma decisão de impedimento de exploração de um ferry ou uma embarcação deve ser tomada no prazo de um mês a contar da vistoria específica inicial e comunicada imediatamente à companhia."
+  },
+  "949c51efc25fe13d": {
+   "fragment_id": "Artigo 11.º — Procedimentos relativos às vistorias específicas iniciais e regulares",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Procedimentos relativos às vistorias específicas iniciais e regulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Procedimentos relativos às vistorias específicas iniciais e regulares\n\n1. Os ferries ro-ro e as embarcações de passageiros de alta velocidade cujas vistorias específicas tenham satisfeito o(s) Estado(s) de acolhimento envolvido(s) são dispensados por esse(s) Estado(s) de acolhimento das inspecções alargadas referidas no n.o 4 do artigo 7.o da Directiva 95/21/CE e das inspecções alargadas com base no motivo inequívoco de pertencerem à categoria de navio de passageiros, como referido no n.o 1 do artigo 7.o e na parte A, ponto 3, do anexo V dessa directiva.\n\n2. As administrações de dois ou mais Estados de acolhimento envolvidos numa vistoria específica do mesmo ferry ou embarcação devem cooperar entre si. As vistorias específicas devem ser efectuadas por uma equipa composta por inspectores qualificados do(s) Estado(s) de acolhimento envolvido(s). Sempre que for necessária uma avaliação qualitativa do cumprimento das disposições relativas à classe, os Estados de acolhimento devem assegurar que a equipa conta com os peritos necessários, incluindo, se for caso disso, um inspector de uma organização reconhecida. As anomalias detectadas devem ser comunicadas pelos inspectores às administrações dos Estados de acolhimento. O Estado de acolhimento deve comunicar estas informações ao Estado do pavilhão se este não for um Estado de acolhimento envolvido na vistoria.\n\n3. Um Estado de acolhimento envolvido pode concordar em efectuar a uma vistoria a pedido de outro Estado de acolhimento envolvido.\n\n4. A pedido das companhias, os Estados de acolhimento convidam a administração do Estado do pavilhão, caso este não seja um Estado de acolhimento, a fazer-se representar em qualquer vistoria específica a efectuar nos termos da presente directiva.\n\n5. Ao planearem uma vistoria nos termos dos artigos 6.o e 8.o, os Estados de acolhimento devem ter na devida conta os calendários de exploração e de manutenção do ferry ou da embarcação.\n\n6. Os resultados das vistorias específicas devem ser registados num relatório cujo formato será definido nos termos do artigo 16.o\n\n7. Em caso de diferendo persistente entre Estados de acolhimento quanto ao cumprimento das disposições do artigo 4.o e do n.o 1 do artigo 5.o, a administração de qualquer Estado de acolhimento envolvido numa vistoria específica notifica imediatamente a Comissão das razões do diferendo.\n\n8. A Comissão inicia imediatamente o processo de tomada de uma decisão nos termos do artigo 16.o"
+  },
+  "c47344044d38d4b1": {
+   "fragment_id": "Artigo 12.º — Investigação de acidentes",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Investigação de acidentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Investigação de acidentes\n\n1. Os Estados-Membros devem estabelecer, no âmbito dos respectivos ordenamentos jurídicos internos, um quadro jurídico que lhes permita, bem como a qualquer outro Estado-Membro legitimamente interessado, participarem ou cooperarem na investigação de qualquer acidente ou incidente marítimo ou, quando previsto ao abrigo do Código de Investigação de Acidentes Marítimos, investigarem esse acidente ou incidente marítimo em que esteja envolvido um ferry ro-ro ou uma embarcação de passageiros de alta velocidade.\n\n2. \"Estado legitimamente interessado\", \"Estado que conduz a investigação\" e \"acidente marítimo\" devem ter o mesmo significado que no Código de Investigação de Acidentes Marítimos.\n\n3. Quando um ferry ro-ro ou uma embarcação de passageiros de alta velocidade esteja envolvido num acidente marítimo, o processo de investigação deve ser iniciado pelo Estado em cujas águas ocorreu o acidente ou incidente ou, se tiver ocorrido noutras águas, pelo último Estado-Membro visitado pelo ferry ou a embarcação. Este Estado é responsável pela investigação e coordenação com os outros Estados legitimamente interessados até ser mutuamente acordado o Estado que conduz a investigação.\n\n4. Os Estados-Membros que conduzam tais investigações, ou que nelas participem ou cooperem, devem assegurar que a investigação seja concluída eficientemente e com a maior brevidade possível tendo em conta o Código de Investigação de Acidentes Marítimos.\n\n5. Os Estados-Membros devem assegurar que os relatórios resultantes das investigações sejam tornados públicos, em conformidade com o ponto 12.3 do Código de Investigação de Acidentes Marítimos, e notificados à Comissão."
+  },
+  "584ba5a0034b4bdc": {
+   "fragment_id": "Artigo 13.º — Medidas de acompanhamento",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Medidas de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Medidas de acompanhamento\n\n1. Os Estados-Membros que emitam ou reconheçam um certificado de isenção devem colaborar com o Estado de acolhimento envolvido ou a administração do Estado do pavilhão no sentido de resolver, antes da vistoria específica inicial, qualquer diferendo que possa surgir quanto à adequação das isenções.\n\n2. Os Estados-Membros estabelecerão sistemas costeiros de orientação náutica e outros sistemas de informação em conformidade com a Resolução A.795(19) da OMI, para assistir os ferries ro-ro e as embarcações de passageiros de alta velocidade, por cuja segurança são responsáveis, na realização segura de totalidade ou parte do serviço regular.\n\n3. Cada Estado-Membro deve fornecer à Comissão cópias dos relatórios das vistorias previstos no n.o 6 do artigo 11.o, com o número de identificação da OMI se for caso disso. A Comissão pode decidir, nos termos do artigo 16.o, quais os meios adequados de atribuição de um número de identificação a outros navios. Se no serviço regular estiverem envolvidos dois ou mais Estados de acolhimento, as informações podem ser fornecidas por apenas um desses Estados. A Comissão deve estabelecer e manter uma base de dados com as informações fornecidas. As condições de acesso à base de dados devem ser decididas nos termos do artigo 16.o\n\n4. Os Estados-Membros devem assegurar que as companhias que exploram ferries ro-ro ou embarcações de passageiros de alta velocidade em serviços regulares de e para os seus portos possam manter e aplicar um sistema integrado de planos de contingência para situações de emergência a bordo. Devem recorrer, para esse fim, ao quadro previsto na Resolução A.852(20) da Assembleia da OMI sobre as orientações para uma estrutura de um sistema integrado de contingência. Se dois ou mais Estados-Membros estiverem envolvidos, na qualidade de Estados de acolhimento, no mesmo serviço regular, devem estabelecer conjuntamente um plano para as diferentes rotas.\n\n5. Os Estados-Membros devem assegurar o seu pleno envolvimento, na qualidade de Estados de acolhimento, pela administração do Estado do pavilhão no processo de emissão da autorização de exploração para uma embarcação de alta velocidade em conformidade com as disposições do ponto 1.9.3 do Código das Embarações de Alta Velocidade. Os Estados-Membros devem assegurar que sejam estabelecidas ou mantidas as restrições de exploração exigidas pelas situações locais e necessárias para a protecção da vida, dos recursos naturais e das actividades costeiras, e devem tomar medidas para assegurar que tais restrições sejam efectivamente observadas."
+  },
+  "b19a70a02d1b8019": {
+   "fragment_id": "Artigo 14.º — Cooperação entre Estados de acolhimento",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Cooperação entre Estados de acolhimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Cooperação entre Estados de acolhimento\n\nOs Estados de acolhimento envolvidos no mesmo serviço regular devem colaborar entre si na aplicação da presente directiva."
+  },
+  "7ea8396d643dad0f": {
+   "fragment_id": "Artigo 15.º — Medidas de apoio",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Medidas de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Medidas de apoio\n\nOs Estados-Membros devem informar os países terceiros com responsabilidades de Estado do pavilhão ou responsabilidades semelhantes às de um Estado de acolhimento relativamente a ferries ro-ro ou embarcações de passageiros de alta velocidade abrangidos pelo âmbito de aplicação da presente directiva que operem entre um porto de um Estado-Membro e um porto de um Estado terceiro dos requisitos impostos pela presente directiva às companhias que exploram um serviço regular de ou para um porto da Comunidade."
+  },
+  "4eb4b61faafddb31": {
+   "fragment_id": "Artigo 16.º — Comité de regulamentação",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Comité de regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Comité de regulamentação\n\n1. A Comissão é assistida pelo comité instituído no n.o 1 do artigo 12.o da Directiva 93/75/CEE.\n\n2. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer será emitido por maioria, nos termos previstos no n.o 2 do artigo 148.o do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-Membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\n3. a) A Comissão adoptará as medidas projectadas desde que sejam conformes com o parecer do comité;\n\nb) Se as medidas projectadas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada. Se, no termo de prazo de oito semanas a contar da data em que o assunto foi submetido à apreciação do Conselho, este último ainda não tiver deliberado, a Comissão adoptará as medidas propostas."
+  },
+  "6694729771d7286b": {
+   "fragment_id": "Artigo 17.º — Procedimento de alteração",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Procedimento de alteração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Procedimento de alteração\n\nNos termos do artigo 16.o:\n\na) Os anexos;\n\nb) As definições;\n\nc) As referências a instrumentos comunitários;\n\nd) As referências a resoluções da OMI,\n\npodem ser alterados na medida do necessário para ficarem em conformidade com as medidas da Comunidade ou da OMI que tenham entrado em vigor, mas sem alargar o âmbito da presente directiva.\n\nOs anexos também podem ser alterados nos termos do artigo 16.o quando tal for necessário para melhorar o regime estabelecido pela presente directiva, mas sem alargar o seu âmbito."
+  },
+  "5df83f1cef0fa0a0": {
+   "fragment_id": "Artigo 18.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Sanções\n\nOs Estados-Membros devem estabelecer o sistema de sanções a aplicar em caso de infracção às disposições nacionais adoptadas nos termos da presente directiva e tomar todas as medidas necessárias para assegurar a aplicação dessas sanções. As sanções previstas devem ser eficazes, proporcionadas e dissuasoras."
+  },
+  "8f081fb226a7dd15": {
+   "fragment_id": "Artigo 19.º — Aplicação",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Aplicação\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 1 de Dezembro de 2000. Do facto devem informar imediatamente a Comissão.\n\n2. As disposições do n.o 1, alínea d), do artigo 4.o devem ser aplicadas no prazo de 30 meses a contar da data de publicação da norma n.o 61996 da CEI ou a partir de 1 de Janeiro de 2001, consoante o que ocorra em último lugar.\n\n3. Quando os Estados-Membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-Membros.\n\n4. Os Estados-Membros devem comunicar imediatamente à Comissão todas as disposições de direito interno que adoptarem no domínio regido pela presente directiva. A Comissão informa do facto os restantes Estados-Membros"
+  },
+  "104d7386c9ca3268": {
+   "fragment_id": "Artigo 20.º — Avaliação da aplicação",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Avaliação da aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Avaliação da aplicação\n\nNo prazo de três anos a contar da data referida no n.o 1 do artigo 19.o, a Comissão avaliará, com base nas informações fornecidas pelos Estados-Membros nos termos do artigo 13.o, a aplicação da presente directiva."
+  },
+  "fb2885b7d1826ff5": {
+   "fragment_id": "Artigo 21.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nA presente directiva entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "f21b6b32f6b2ecc6": {
+   "fragment_id": "Artigo 22.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 29 de Abril de 1999.\n\nPelo Conselho\n\nO Presidente\n\nW. MÜLLER\n\n(1) JO C 108 de 7.4.1998, p. 122.\n\n(2) JO C 407 de 28.12.1998, p. 120.\n\n(3) Parecer do Parlamento Europeu de 7 de Outubro de 1998 (JO C 328 de 26.10.1998, p. 82), posição comum do Conselho de 21 de Dezembro de 1998 (JO C 49 de 22.2.1999, p. 5) e decisão do Parlamento Europeu de 10 de Fevereiro de 1999 (ainda não publicada no Jornal Oficial).\n\n(4) JO C 379 de 31.12.1994, p. 8.\n\n(5) JO L 157 de 7.7.1995, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 98/42/CE da Comissão (JO L 184 de 27.6.1998, p. 40).\n\n(6) JO L 319 de 12.12.1994, p. 20. Directiva alterada pela Directiva 97/58/CE da Comissão (JO L 274 de 7.10.1997, p. 8).\n\n(7) JO L 247 de 5.10.1993, p. 19. Directiva como a última redacção que lhe foi dada pela Directiva 98/74/CE da Comissão (JO L 276 de 13.10.1998, p. 7).\n\n(8) JO L 144 de 15.5.1998, p. 1.\n\n(9) JO L 320 de 30.12.1995, p. 14. Regulamento alterado pelo Regulamento (CE) n.o 179/98 da Comissão (JO L 19 de 24.1.1998, p. 35).\n\n(10) JO L 204 de 21.7.1998, p. 37. Directiva com a redacção que lhe foi dada pela Directiva 98/48/CE (JO L 217 de 5.8.1998, p. 18)."
+  },
+  "155d60579a74bdfe": {
+   "fragment_id": "ANEXO I — REQUISITOS ESPECÍFICOS A SATISFAZER PELAS COMPANHIAS",
+   "type": "divisao",
+   "heading": "ANEXO I — REQUISITOS ESPECÍFICOS A SATISFAZER PELAS COMPANHIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — REQUISITOS ESPECÍFICOS A SATISFAZER PELAS COMPANHIAS\n\na que se refere o n.o 1 do artigo 5.o e os artigos 6.o e 8.o\n\nAs companhias devem garantir que a bordo dos seus ferries ro-ro e embarcações de passageiros de alta velocidade:\n\n1. São fornecidas ao comandante, antes da largada do ferry ou da embarcação, informações adequadas sobre a disponibilidade de sistemas costeiros de orientação náutica e outros sistemas de informação que o assistam na condução segura das viagens e que o comandante participa nos sistemas de orientação náutica criados pelos Estados-Membros;\n\n2. Aplicadas as disposições pertinentes dos pontos 2 a 6 da Circular 699 do Comité de Segurança Marítima, sobre orientações revistas para as instruções de segurança aos passageiros;\n\n3. É afixada, em local facilmente acessível, uma tabela com a organização do serviço a bordo, que contenha:\n\na) A escala de serviço no mar e no porto; e\n\nb) O número máximo de horas de trabalho ou o número mínimo de horas de repouso exigidas para os marítimos de quarto;\n\n4. O comandante não se vê impossibilitado de tomar as decisões que, no seu critério profissional, considere necessárias para a segurança da navegação e da operação do navio, em especial em condições de mau tempo e mar agitado;\n\n5. O comandante mantém um registo das actividades e incidentes de navegação importantes para a segurança da navegação;\n\n6. Qualquer avaria ou deformação permanente nas portas do casco ou na chaparia do casco que lhe está associada que possa afectar a integridade do ferry ou da embarcação e quaisquer anomalias nos dispositivos de tranca dessas portas são prontamente comunicadas à administração do Estado do pavilhão e ao Estado de acolhimento e prontamente corrigidas a contento de ambos;\n\n7. Está disponível, antes da largada do ferry ou da embarcação, um plano de viagem actualizado. Para preparar o plano de viagem deverão ter-se plenamente em conta as orientações estabelecidas na Resolução MSC/...(70) do Comité de Segurança Marítima, sobre orientações para os planos de viagem;\n\n8. São comunicadas aos passageiros e disponibilizadas em modalidades acessíveis a pessoas com dificuldades de visão as informações gerais disponíveis a bordo respeitantes aos serviços e assistência a idosos e deficientes."
+  },
+  "10b1d7683cd5ba30": {
+   "fragment_id": "ANEXO II — LISTA DE INSTRUMENTOS COMUNITÁRIOS",
+   "type": "divisao",
+   "heading": "ANEXO II — LISTA DE INSTRUMENTOS COMUNITÁRIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — LISTA DE INSTRUMENTOS COMUNITÁRIOS\n\nreferidos no n.o 1, alínea c), do artigo 10.o\n\n- Directiva 93/75/CE do Conselho, de 13 de Setembro de 1993, relativas às condições mínimas exigidas aos navios com destino aos portos marítimos da Comunidade ou que deles saiam transportando mercadorias perigosas ou poluentes (JO L 247 de 5.10.1993, p. 19). Directiva com a última redacção que lhe foi dada pela Directiva 98/74/CE da Comissão (JO L 276 de 13.10.1998, p. 7).\n\n- Directiva 94/58/CE do Conselho, de 22 de Novembro de 1994, relativa ao nível mínimo de formação dos marítimos (JO L 319 de 12.12.1994, p. 28). Directiva com a última redacção que lhe foi dada pela Directiva 98/35/CE (JO L 172 de 17.6.1998, p. 1), se aplicável.\n\n- Regulamento (CE) n.o 3051/95 do Conselho, de 8 de Dezembro de 1995, relativo à gestão da segurança dos ferries roll-on/roll off de passageiros (ferries ro-ro) (JO L 320 de 30.12.1995, p. 14). Regulamento com a redacção que lhe foi dada pelo Regulamento (CE) n.o 179/98 da Comissão (JO L 19 de 24.1.1998, p. 35)."
+  },
+  "399436e0df39a511": {
+   "fragment_id": "ANEXO III — PROCEDIMENTOS PARA AS VISTORIAS ESPECÍFICAS",
+   "type": "divisao",
+   "heading": "ANEXO III — PROCEDIMENTOS PARA AS VISTORIAS ESPECÍFICAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — PROCEDIMENTOS PARA AS VISTORIAS ESPECÍFICAS\n\na que se refere os artigos 6.o e 8.o\n\n1. As vistorias específicas deverão garantir que estão satisfeitas as prescrições obrigatórias, especialmente as relativas à construção, subdivisão e estabilidade, maquinaria e instalações tecnológicas, carregamento, estabilidade, protecção contra incêndios, número máximo de passageiros, telecomunicações e navegação, meios de salvação e transporte de mercadorias perigosas e devem, para tal efeito e quando aplicável, incluir no mínimo:\n\n- o arranque do gerador de emergência,\n\n- a inspecção da iluminação de emergência,\n\n- a inspecção da fonte de energia de emergência para as instalações radioeléctricas,\n\n- o ensaio da instalação sonora para comunicações públicas,\n\n- um exercício de combate a incêndios, incluindo a demonstração da capacidade de utilização do equipamento de bombeiro,\n\n- o funcionamento da bomba de incêndio de emergência com duas mangueiras ligadas ao colector,\n\n- o ensaio dos comandos remotos de paragem de emergência do abastecimento de combustível às caldeiras e máquinas principais e auxiliares e dos ventiladores,\n\n- o ensaio dos comandos à distância e locais de encerramento das válvulas de borboleta contra incêndios,\n\n- o ensaio dos sistemas de alarme e detecção de incêndios,\n\n- o ensaio do encerramento das portas corta-fogo,\n\n- o funcionamento das bombas de esgoto,\n\n- o encerramento das portas das anteparas estanques nos postos de manobra locais e à distância,\n\n- uma demonstração de que os elementos-chave da tripulação conhecem o plano para limitação de avarias,\n\n- o arriamento de pelo menos um barco salva-vidas e uma baleeira salva-vidas, o arranque e ensaio dos seus sistemas de propulsão e governo e a sua recuperação da água para a posição de estiva a bordo,\n\n- a verificação de que todas as baleeiras e barcos salva-vidas correspondem ao inventário,\n\n- o ensaio dos aparelhos de governo principal e auxiliar do navio ou embarcação.\n\n2. As vistorias específicas deverão incluir a verificação do sistema de manutenção planificada de bordo.\n\n3. As vistorias específicas deverão incidir na familiarização e eficiência dos membros da tripulação no que respeita aos procedimentos de segurança, aos procedimentos de emergência, à manutenção, aos métodos de trabalho, à segurança dos passageiros, aos procedimentos na ponte e às operações relacionadas com a carga e os veículos. Deve ser verificada a capacidade dos marítimos de compreenderem e, quando necessário, darem ordens e instruções na língua comum de trabalho registada no diário de bordo do navio. Devem ser verificadas as provas documentais de que os membros da tripulação seguiram com êxito uma formação especial, em particular:\n\n- formação em controlo de multidões,\n\n- formação de familiarização,\n\n- formação no domínio da segurança, para o pessoal que presta assistência directa aos passageiros nos espaços a estes reservados, em especial aos passageiros idosos e deficientes, em situações de emergência, e\n\n- formação em gestão de situações de crise e comportamento humano.\n\nA vistoria específica deverá incluir uma avaliação destinada a determinar se a organização das escalas de serviço dá origem a fadiga excessiva, particularmente a nível do pessoal que efectua quartos.\n\n4. Os certificados de competência dos membros da tripulação emitidos por Estados terceiros só serão reconhecidos se satisfizerem o disposto na Regra I/10 da Convenção internacional sobre normas de formação, de certificação e de serviço de quartos para os marítimos, de 1978 (Convenção NFCSQ), revista."
+  },
+  "a95af4591d8bf9ed": {
+   "fragment_id": "ANEXO IV — ORIENTAÇÕES INDICATIVAS A SEGUIR PELOS INSPECTORES QUALIFICADOS AO EFECTUAREM VISTORIAS NÃO PROGRAMADAS DURANTE UMA TRAVESSIA REGULAR",
+   "type": "divisao",
+   "heading": "ANEXO IV — ORIENTAÇÕES INDICATIVAS A SEGUIR PELOS INSPECTORES QUALIFICADOS AO EFECTUAREM VISTORIAS NÃO PROGRAMADAS DURANTE UMA TRAVESSIA REGULAR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — ORIENTAÇÕES INDICATIVAS A SEGUIR PELOS INSPECTORES QUALIFICADOS AO EFECTUAREM VISTORIAS NÃO PROGRAMADAS DURANTE UMA TRAVESSIA REGULAR\n\na que se refere o n.o 1 do artigo 8.o\n\n1. Informação sobre os passageiros\n\nVerificar os meios utilizados para assegurar que não é excedido o número de passageiros que o ferry ro-ro ou a embarcação de passageiros de alta velocidade (a seguir \"navio\") está certificado para transportar; se o sistema de registo das informações relativas aos passageiros satisfaz as regras estabelecidas e é eficaz; o modo como a informação sobre o número total de passageiros é transmitida ao comandante e, nos casos adequados, como os passageiros que efectuam uma travessia de ida e volta sem ir a terra são contabilizados no total para a viagem de regresso.\n\n2. Informação sobre o carregamento e a estabilidade\n\nVerificar se estão instaladas e são utilizadas escalas de calado fiáveis, quando aplicável; se estão previstas medidas para assegurar que a carga do navio não seja excessiva e que a linha de carga de compartimentação apropriada não está submersa; se a avaliação do carregamento e da estabilidade é efectuada como exigido; se os veículos de mercadorias e outra carga são pesados quando necessário e os dados transmitidos ao navio para utilização na avaliação do carregamento e da estabilidade; se os planos para limitação de avarias estão afixados de forma permanente e se existem folhetos com as informações relativas à limitação de avarias à disposição dos oficiais do navio.\n\n3. Segurança para a navegação no mar\n\nVerificar o procedimento para assegurar que o navio está preparado para navegar em segurança antes de deixar o cais, o que deverá incluir um procedimento de confirmação de que todas as portas do casco estanques à água e à intempérie estão fechadas; se todas as portas do pavimento reservado aos veículos são fechadas antes de o navio deixar o cais ou ficam abertas apenas o tempo suficiente para permitir o fecho do visor de proa; os dispositivos de fecho das portas da proa, da popa e do costado e a existência, na ponte de comando, de indicadores luminosos e de um sistema de vigilância por televisão que permitam controlar a situação das portas. Deve ser verificada e assinalada qualquer anomalia no funcionamento dos indicadores luminosos, particularmente os interruptores das portas.\n\n4. Comunicações de segurança\n\nVerificar como são feitas as comunicações de segurança de rotina e a afixação das instruções e orientações sobre os procedimentos a seguir em situações de emergência na(s) língua(s) adequada(s); se as comunicações de segurança de rotina são efectuadas no início da viagem e se são audíveis em todos os espaços públicos, incluindo os pavimentos descobertos, a que os passageiros têm acesso.\n\n5. Entradas no diário de bordo\n\nExame do diário de bordo para verificar se são lançadas as entradas respeitantes ao encerramento das portas da proa, popa e costado e outras portas estanques à água e à intempérie, aos exercícios de manobra das portas estanques de compartimentação, aos ensaios dos aparelhos de governo, etc. Verificar igualmente se estão registados os dados relativos aos calados, ao bordo livre e à estabilidade, bem como a língua de trabalho comum da tripulação.\n\n6. Mercadorias perigosas\n\nVerificar se o carregamento de mercadorias perigosas ou poluentes é efectuado em conformidade com as regras aplicáveis e, em particular, se existe uma declaração relativa às mercadorias perigosas e poluentes e um manifesto ou um plano de estiva que mostre a sua localização a bordo, se é permitido o transporte da carga em causa em navios de passageiros e se as mercadorias perigosas ou poluentes estão devidamente marcadas, rotuladas, estivadas, fixadas e segregadas.\n\nVerificar se os veículos que transportam mercadorias perigosas ou poluentes são devidamente assinalados e fixados; se está disponível em terra, quando são transportadas mercadorias perigosas ou poluentes, cópia do manifesto ou plano de estiva pertinente; se o comandante está a par dos requisitos de notificação estabelecidos na Directiva 93/75/CEE e se conhece as instruções sobre os procedimentos a seguir em situações de emergência e a prestação de primeiros socorros em caso de incidente que envolva mercadorias perigosas ou poluentes marinhos; se a ventilação dos pavimentos reservados aos veículos está sempre a funcionar, se é reforçada quando os motores dos veículos estão em marcha e se há meios de assinalar na ponte que a ventilação está operacional.\n\n7. Fixação dos veículos de mercadorias\n\nVerificar o modo de fixação dos veículos de mercadorias, por exemplo, se essa fixação é em bloco ou por cabos individuais. A disponibilidade de pontos reforçados de fixação suficientes. Os meios de fixar os veículos de mercadorias quando está ou se espera mau tempo. O método de fixação de autocarros e motociclos, se for caso disso. A disponibilidade no navio de um manual de fixação da carga.\n\n8. Pavimentos para veículos\n\nVerificar se os espaços de categoria especial e os espaços de carga ro-ro são constantemente patrulhados ou controlados por um sistema de vigilância por televisão, de modo a poderem ser observados os movimentos dos veículos em condições de mau tempo e a entrada não autorizada de passageiros; se as portas corta-fogo e as entradas são mantidas fechadas e se estão afixados avisos para que os passageiros se mantenham fora dos pavimentos reservados aos veículos quando o navio está a navegar.\n\n9. Encerramento das portas estanque\n\nVerificar se são seguidas as orientações estabelecidas nas instruções operacionais do navio para a manobra das portas estanques de compartimentação; se são efectuados os exercícios exigidos; se o comando das portas estanques na ponte está, quando possível, em modo \"local\", se as portas se mantêm fechadas em condições de visibilidade limitada e em qualquer situação de risco; se as tripulações são instruídas quanto ao modo correcto de manobrar as portas e estão conscientes dos riscos associados à sua manobra incorrecta.\n\n10. Serviço de rondas\n\nDeve confirmar-se se é efectuado um serviço de rondas eficaz que permita detectar rapidamente qualquer início de incêndio. Tal ronda deve incluir os espaços de categoria especial em que não exista uma instalação fixa de detecção e alarme de incêndios, tendo presente que tais espaços poderão ser patrulhados como indicado no ponto 8.\n\n11. Comunicações em situações de emergência\n\nExistência de um número suficiente de membros da tripulação, de acordo com o rol de chamada, para assistir os passageiros em situações de emergência, facilmente identificáveis e capazes de comunicar com os passageiros numa emergência, tendo em conta uma combinação adequada e apropriada de quaisquer dos seguintes factores:\n\na) A língua ou línguas correspondentes às nacionalidades prevalecentes a nível dos passageiros transportados numa determinada rota;\n\nb) A probabilidade de a capacidade de utilizar vocabulário elementar em inglês para fornecer instruções básicas constituir um meio de comunicação com um passageiro a necessitar de assistência, quer o passageiro e o tripulante falem ou não uma língua comum;\n\nc) A eventual necessidade de comunicar por outros meios numa situação de emergência (por exemplo, por meio de uma demonstração, gestos ou chamando a atenção para o local onde se encontram as instruções, os postos de reunião, os dispositivos salva-vidas ou as vias de evacuação, quando a comunicação oral for impossível);\n\nd) O grau de disponibilidade de instruções de segurança completas para os passageiros nas suas línguas maternas;\n\ne) As línguas em que, numa situação de emergência ou num exercício, podem ser feitas as comunicações de emergência destinadas a fornecer instruções fundamentais aos passageiros e a facilitar a assistência dos tripulantes aos passageiros.\n\n12. Língua comum de trabalho dos membros da tripulação\n\nVerificar se está definida uma língua de trabalho que assegure um desempenho efectivo da tripulação no que respeita à segurança e se essa língua está registada no diário de bordo do navio.\n\n13. Equipamento de segurança\n\nVerificar se é feita a manutenção dos meios de salvação e de combate a incêndios, incluindo as portas corta-fogo e outros meios da protecção estrutural contra incêndios que possam ser facilmente inspeccionados; se estão permanentemente afixados planos de combate a incêndios ou se estão disponíveis para informação dos oficiais do navio folhetos com informações equivalentes; se os locais de arrumação dos coletes de salvação são adequados e se se podem identificar facilmente os locais onde se encontram os coletes de salvação para crianças; se o carregamento dos veículos não impede a manobra dos dispositivos de combate a incêndios, dos dispositivos de paragem/corte de emergência, dos comandos das válvulas de temporal, etc., que possam estar localizados nos pavimentos reservados aos veículos.\n\n14. Equipamento de navegação e radioeléctrico\n\nSe estão operacionais o equipamento de navegação e o equipamento de radiocomunicações, incluindo as radiobalizas de localização de sinistros (EPIRB - Emergency Position-Indicating Radio Beacons).\n\n15. Iluminação de emergência suplementar\n\nVerificar se existe uma instalação de iluminação de emergência suplementar, quando as regras aplicáveis o exijam, e se é mantido um registo das anomalias.\n\n16. Meios de evacuação\n\nVerificar a marcação, em conformidade com as regras aplicáveis, e a iluminação dos meios de evacuação a partir das fontes de energia principal e de emergência; as medidas tomadas para manter os veículos afastados das vias evacuação quando estas atravessam ou passam pelos pavimentos a eles reservados; se as saídas são mantidas desimpedidas, particularmente as das lojas francas, muitas vezes bloqueadas por uma concentração excessiva de produtos.\n\n17. Manual de operações\n\nVerificar se o comandante e os oficiais superiores dispõem, cada um, de um exemplar do manual de operações e existem outros exemplares à disposição dos tripulantes e, também, se há listas de verificação para as operações de preparação para a navegação e outras operações.\n\n18. Limpeza da casa das máquinas\n\nVerificar se a casa das máquinas é mantida em boas condições de limpeza segundo os procedimentos de manutenção.\n\n19. Eliminação do lixo\n\nVerificar se as disposições tomadas para a recolha e eliminação do lixo são satisfatórias.\n\n20. Plano de manutenção\n\nTodas as companhias devem dispor de instruções permanentes, incluindo um sistema de manutenção planificada, para todos os dispositivos relacionados com a segurança, incluindo as portas da proa e da popa e as aberturas no costado, bem como os seus dispositivos de fecho, e que abranjam também a manutenção da casa das máquinas e o equipamento de segurança. Deve haver planos para a verificação periódica de todos os dispositivos, de modo a manter as normas de segurança ao mais elevado nível. Deve haver procedimentos para registo das anomalias e confirmação da sua correcta rectificação, de modo a que o comandante e a pessoa em terra designada no âmbito da estrutura de gestão da companhia possam ter conhecimento das anomalias e sejam notificados da sua rectificação num prazo determinado. A verificação periódica do funcionamento dos dispositivos de fecho das portas interior e exterior da proa deverá incluir os indicadores, o equipamento de vigilância e os embornais eventualmente existentes no espaço situado entre o visor de proa e a porta interior e, especialmente, os mecanismos de fecho e os seus sistemas hidráulicos.\n\n21. Viagem\n\nDeve aproveitar-se a oportunidade de realização de uma viagem para verificar se há sobrelotação, incluindo a disponibilidade de lugares e o bloqueamento de passagens, escadas e saídas de emergência por bagagens ou passageiros que não encontraram lugar, se os passageiros abandonaram o pavimento reservado aos veículos antes de o navio zarpar e só voltam a ter acesso a esse pavimento imediatamente antes de o navio atracar."
+  },
+  "88cada4de9952a77": {
+   "fragment_id": "ANEXO V — CRITÉRIOS DE QUALIFICAÇÃO E INDEPENDÊNCIA QUE DEVEM SATISFAZER OS INSPECTORES QUALIFICADOS",
+   "type": "divisao",
+   "heading": "ANEXO V — CRITÉRIOS DE QUALIFICAÇÃO E INDEPENDÊNCIA QUE DEVEM SATISFAZER OS INSPECTORES QUALIFICADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — CRITÉRIOS DE QUALIFICAÇÃO E INDEPENDÊNCIA QUE DEVEM SATISFAZER OS INSPECTORES QUALIFICADOS\n\na que se refere a alínea r) do artigo 2.o\n\n1. O inspector qualificado deve estar autorizado pela autoridade competente do Estado-Membro a efectuar as vistorias específicas referidas no artigo 6.o\n\n2. - O inspector qualificado deve ter completado, no mínimo, um ano de serviço junto da autoridade competente de um Estado-Membro como inspector de Estado do pavilhão afecto à inspecção e certificação de navios em conformidade com a Convenção SOLAS de 1974,\n\n- e possuir:\n\na) um certificado de competência para o posto de comandante, que lhe permita comandar um navio de arqueação bruta igual ou superior a 1000 GT (ver Convenção NFCSQ, regra II/2), ou\n\nb) um certificado de competência para o posto de chefe de máquinas, que lhe permita desempenhar essas funções a bordo de um navio cuja máquina principal tenha uma potência propulsora igual ou superior a 3000 kW (ver Convenção NFCSQ, regra III/2), ou\n\nc) um diploma de arquitecto naval, engenheiro mecânico ou engenheiro noutro ramo de engenharia relacionado com o sector marítimo, passado por um Estado-Membro, e experiência profissional de um mínimo de cinco anos nessa qualidade.\n\n- Os inspectores qualificados a que se referem as alíneas a) e b) devem ter prestado serviço no mar como, respectivamente, oficial da secção de convés ou oficial da secção de máquinas, durante um período não inferior a cinco anos.\n\nOu:\n\n- possuir um diploma universitário pertinente ou ter seguido uma formação equivalente num Estado-Membro,\n\n- ter recebido formação e diploma de uma escola para inspectores da segurança de navios num Estado-Membro, e\n\n- ter prestado pelo menos dois anos de serviço junto da autoridade competente de um Estado-Membro como inspector de Estado do pavilhão afecto à inspecção e certificação de navios em conformidade com a Convenção SOLAS de 1974.\n\n3. Os inspectores qualificados devem estar aptos a comunicar oralmente e por escrito com os marítimos na língua mais correntemente falada no mar.\n\n4. Os inspectores qualificados devem ter um conhecimento adequado das disposições da Convenção SOLAS de 1974 e dos procedimentos pertinentes previstos na presente directiva.\n\n5. Os inspectores qualificados que efectuem vistorias específicas não devem ter qualquer interesse comercial na companhia em causa, nem em qualquer outra companhia que explore um serviço regular à partida ou com destino ao Estado de acolhimento em causa, nem nos ferries ro-ro ou embarcações de passageiros de alta velocidade inspeccionados; também não devem ser empregados ou trabalhar por conta de organizações não governamentais que efectuem vistorias obrigatórias ou de classificação de navios ou emitam certificados para esse ferry ou essa embarcação.\n\n6. Os inspectores que não satisfaçam os critérios acima enunciados serão igualmente aceites se tiverem sido empregados pela autoridade competente para efectuarem vistorias obrigatórias ou inspecções de controlo do Estado do porto à data de adopção da Directiva 95/21/CE."
+  },
+  "532c3a0bd9ef69a3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Abril de 1999\n\nrelativa a um sistema de vistorias obrigatórias para a exploração segura de serviços regulares de *ferries ro-ro* e embarcações de passageiros de alta velocidade\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 2 do seu artigo 84.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/aef361bf-55bf-40b4-a26e-a75742da6ca1.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/aef361bf-55bf-40b4-a26e-a75742da6ca1.0018.03/DOC_1#E0002)),\n\nDelibrando nos termos do artigo 189.ºC do Tratado ([^3^](http://publications.europa.eu/resource/cellar/aef361bf-55bf-40b4-a26e-a75742da6ca1.0018.03/DOC_1#E0003)),\n\n(1) Considerando que, no quadro da política comum dos transportes, devem ser adoptadas novas medidas, para aumentar a segurança do transporte marítimo de passageiros;\n\n(2) Considerando que a Comunidade está extremamente preocupada com os acidentes que envolveram *ferries ro-ro* e causaram enormes perdas de vidas humanas; que as pessoas que utilizam *ferries ro-ro* e embarcações de passageiros de alta velocidade na Comunidade têm o direito de esperar e contar com um nível de segurança adequado;\n\n(3) Considerando que, na Resolução de 22 de Dezembro de 1994 relativa à seguraça dos *ferries roll-on/roll-off* de passageiros ([^4^](http://publications.europa.eu/resource/cellar/aef361bf-55bf-40b4-a26e-a75742da6ca1.0018.03/DOC_1#E0004)), o Conselho convidou a Comissão a apresentar propostas para o estabelecimento de um regime de vistorias obrigatórias e de controlo da segurança de todos os *ferries ro-ro* de passageiros que operem de e para portos da Comunidade, incluindo o direito de proceder a investigações acerca de acidentes marítimos;\n\n(4) Considerando que, dada nomeadamente a dimensão de mercado interno do transporte marítimo de passageiros, a acção a nível da Comunidade é a maneira mais eficaz de estabelecer, em toda a Comunidade, um nível mínimo comum de segurança para os navios;\n\n(5) Considerando que a acção a nível da Comunidade é o meio mais eficaz de garantir a aplicação harmonizada de alguns dos princípios acordados no âmbito da Organização Marítima Internacional (OMI), evitando-se assim distorções da concorrência entre diferentes portos da Comunidade e entre diferentes *ferries ro-ro* e embarcações de passageiros de alta velocidade;\n\n(6) Considerando que, atendendo ao princípio da proporcionalidade, uma directiva do Conselho é o instrumento jurídico mais adequado, por proporcionar um enquadramento para a aplicação uniforme e obrigatória das normas comuns de segurança pelos Estados-Membros, deixando embora a cada Estado-Membro o direito de decidir dos meios de aplicação que melhor se coadunem com o seu sistema interno;\n\n(7) Considerando que a segurança dos navios é sobretudo da responsabilidade dos Estados do pavilhão; que os Estados-Membros devem assegurar o cumprimento dos requisitos de segurança aplicáveis aos *ferries ro-ro* e às embarcações de passageiros de alta velocidade que arvoram o seu pavilhão, bem como às companhias que os exploram;\n\n(8) Considerando que a inspecção pelo Estado do porto não impõe vistorias e verificações aprofundadas de prevenção a efectuar com regularidade em *ferries ro-ro* e embarcações de passageiros de alta velocidade; que, por conseguinte, se deve verificar as companhias e os *ferries* e as embarcações que aquelas exploram satisfazem as normas de segurança acordadas no âmbito da OMI e, se for caso disso, a nível regional, através de um sistema de inspecções regulares obrigatórias efectuadas pelos Estados de acolhimento; que as companhias devem ser impedidas de explorar esses *ferries* e essas embarcações se as inspecções revelarem um incumprimento perigoso dessas normas de segurança;\n\n(9) Considerando que a presente directiva tem por destinatários os Estados-Membros na qualidade de Estados de acolhimento; que as responsabilidades exercidas nessa qualidade assentam em responsabilidades específicas do Estado do porto que estão plenamente em conformidade com a Convenção das Nações Unidas sobre o Direito do Mar (UNCLOS) de 1982;\n\n(10) Considerando que, para reforçar a segurança e evitar distorções da concorrência, as normas comuns de segurança se devem aplicar a todos os *ferries ro-ro* e embarcações de passageiros de alta velocidade, qualquer que seja o seu pavilhão, que efectuem serviços regulares de um ou para um porto dos Estados-Membros, tanto em viagens internacionais como domésticas, em zonas marítimas situadas a mais de 20 milhas de uma linha de costa onde pessoas naufragadas possam desembarcar, deixando aos Estados-Membros a possibilidade de alargarem o âmbito de aplicação da presente directiva a *ferries* e embarcações que operem em viagens domésticas em zonas marítimas situadas a menos de 20 milhas da linha da costa;\n\n(11) Considerando que é necessário que os Estados de acolhimento se assegurem de que os *ferries ro-ro* e as embarcações de passageiros de alta velocidade que operem de e para portos da Comunidade cumprem determinados requisitos harmonizados de certificação e vistoria pelo Estado do pavilhão;\n\n(12) Considerando que esses *ferries ro-ro* e essas embarcações de passageiros de alta velocidade devem igualmente satisfazer, na fase de construção e durante toda a sua vida útil, as normas de classificação pertinentes, no que respeita à construção e manutenção do casco, às máquinas principais e auxiliares, à instalação eléctrica e instalação de controlo, e que devem estar munidos de um equipamento de registo dos dados de viagem que satisfaça os requisitos internacionais relevantes;\n\n(13) Considerando que os Estados de acolhimento devem assegurar-se de que as companhias que prestam esses serviços exploram os respectivos *ferries ro-ro* e embarcações de passageiros de alta velocidade de uma forma que garanta um máximo de segurança; que os Estados-Membros interessados que não sejam o Estado do pavilhão devem poder participar plenamente em qualquer investigação sobre acidentes marítimos;\n\n(14) Considerando que é fundamental verificar se as administrações do Estado do pavilhão de países terceiros vão ao encontro dos compromissos assumidos pelas companhias de cooperarem em qualquer investigação sobre acidentes ou incidentes marítimos e de cumprirem as regras das organizações reconhecidas em matéria de classificação e, se for caso disso, de certificação; que essas administrações devem aceitar o recurso a procedimentos harmonizados de vistoria e de certificação;\n\n(15) Considerando que, para garantir o cumprimento continuado dos requisitos da presente directiva pelos *ferries ro-ro* e pelas embarcações de passageiros de alta velocidade, os Estados de acolhimento devem proceder a vistorias antes do início de um serviço e, posteriormente, a intervalos regulares, bem como sempre que ocorra uma alteração significativa das circunstâncias de exploração;\n\n(16) Considerando que, para reduzir os encargos a que são sujeitas as companhias, devem ser tidas na devida conta as verificações e vistorias anteriormente efectuadas; que os *ferries ro-ro* e as embarcações de passageiros de alta velocidade devem ficar isentos de vistorias sempre que comprovadamente cumpram os requisitos da presente directiva ao operarem em rotas semelhantes; que os *ferries* e as embarcações de substituição devem beneficiar de disposições especiais; que os *ferries* e as embarcações sujeitos a vistorias que tenham satisfeito o Estado de acolhimento não devem ser submetidos às inspecções alargadas previstas na Directiva 95/21/CE do Conselho, de 19 de Junho de 1995, relativa à aplicação, aos navios que escalem os postos da Comunidade ou naveguem em águas sob jurisdição dos Estados-Membros, das normas internacionais respeitantes à segurança da navegação, à prevenção da poluição e às condições de vida e de trabalho a bordo dos navios (inspecção pelo Estado do porto) ([^5^](http://publications.europa.eu/resource/cellar/aef361bf-55bf-40b4-a26e-a75742da6ca1.0018.03/DOC_1#E0005));\n\n(17) Considerando que os Estados-Membros devem cooperar no exercício das suas responsabilidades enquanto Estados de acolhimento;\n\n(18) Considerando que os Estados-Membros podem julgar útil a possibilidade de serem assistidos no desempenho das tarefas que lhes incumbem por organizações reconhecidas que preencham os critérios definidos na Directiva 94/57/CE do Conselho, de 22 de Novembro de 1994, relativa às regras comuns para as organizações de vistoria e inspecção de navios e para as actividades relevantes das administrações marítimas ([^6^](http://publications.europa.eu/resource/cellar/aef361bf-55bf-40b4-a26e-a75742da6ca1.0018.03/DOC_1#E0006));\n\n(19) Considerando que, ao planificar as vistorias, se devem ter em conta os calendários operacionais e de manutenção dos *ferries ro-ro* e das embarcações de passageiros de alta velocidade;\n\n(20) Considerando que os Estados-Membros devem assegurar-se de que os respectivos ordenamentos jurídicos internos lhes permitem, bem como a quaisquer outros Estados-Membros legitimamente interessados, participar ou cooperar na investigação de um acidente, bem como investigar um acidente, com base nas disposições do Código para a Investigação de Acidentes Marítimos da OMI; que o resultado de tais investigações deve ser facultado ao público;\n\n(21) Considerando que um conjunto de medidas de acompanhamento nos domínios dos sistemas de orientação náutica, planos de contingência e restrições operacionais locais contribuirá para aumentar a segurança;\n\n(22) Considerando que, para possibilitar o controlo da aplicação da presente directiva, deve ser criada uma base de dados que contenha as informações recolhidas nas vistorias;\n\n(23) Considerando que é necessário que um comité composto por representantes dos Estados-Membros assista a Comissão para efeitos da aplicação efectiva da presente directiva; que o comité instituído pelo artigo 12.º da Directiva 93/75/CEE do Conselho, de 13 de Setembro de 1993, relativa às condições mínimas exigidas aos navios com destino aos portos marítimos da Comunidade ou que deles saiam transportando mercadorias perigosas ou poluentes ([^7^](http://publications.europa.eu/resource/cellar/aef361bf-55bf-40b4-a26e-a75742da6ca1.0018.03/DOC_1#E0007)), pode assumir essas funções;\n\n(24) Considerando que certas disposições da presente directiva podem ser adaptadas pelo referido comité a fim de as tornar conformes com as medidas da Comunidade ou da OMI e de melhorar o regime estabelecido pela directiva para ter em conta futuras alterações à Convenção Internacional para a Salvaguarda da Vida Humana no Mar de 1974 (SOLAS) que entrem em vigor e assegurar a implementação harmonizada das alterações introduzidas em certas resoluções da OMI, sem alargar o âmbito das mesmas,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "de0198939388b959": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\nA presente directiva tem por objectivo estabelecer um sistema de vistorias obrigatórias que proporcione maiores garantias de exploração segura de serviços regulares de *ferries ro-ro* e embarcações de passageiros de alta velocidade de e para portos dos Estados-Membros da Comunidade, bem como conferir aos Estados-Membros o direito de investigarem qualquer acidente ou incidente marítimo nesses serviços ou de participarem ou cooperarem nessas investigações."
+  },
+  "96302cd34326f3eb": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva e seus anexos, entende-se por:\n\na) «Ferry ro-ro», um navio de passageiros de mar equipado de forma a permitir o embarque e desembarque directos em marcha de veículos rodoviários ou ferroviários que transporte mais de 12 passageiros;\n\nb) «Embarcação de passageiros de alta velocidade», uma embarcação de alta velocidade conforme definida na regra X/1 do capítulo X da Convenção SOLAS de 1974, na versão actualizada, que transporte mais de 12 passageiros;\n\nc) «Passageiro», qualquer pessoa excepto:\n\ni) o comandante e os membros da tripulação ou outras pessoas empregadas ou ocupadas, sob qualquer forma, a bordo de um navio em serviços que a este digam respeito, e\n\nii) uma criança de idade inferior a um ano;\n\nd) «Convenção SOLAS de 1974», a Convenção Internacional para a salvaguarda da vida humana no mar, bem como os seus protocolos e alterações, na versão actualizada;\n\ne) «Código das embarcações de alta velocidade», o «código internacional para a segurança das embarcações de alta velocidade» constante na Resolução MSC 36(63) do Comité de Segurança Marítima da OMI, de 20 de Maio de 1994, na versão actualizada;\n\nf) «Serviço regular», uma série de travessias efectuadas por um *ferry ro-ro* ou por uma embarcação de passageiros de alta velocidade por forma a servir o tráfego entre os mesmos dois ou mais portos, ou uma série de viagens de ou para o mesmo porto sem escalas intermédias:\n\ni) segundo um horário publicado, ou\n\nii) com uma regularidade ou frequência tais que constituam uma série manifestamente sistemática;\n\ng) «Zona marítima», uma zona marítima incluída numa lista estabelecida nos termos do artigo 4.º da Directiva 98/18/CE do Conselho, de 17 de Março de 1998, relativa às regras e normas de segurança para os navios de passageiros ([^8^](http://publications.europa.eu/resource/cellar/aef361bf-55bf-40b4-a26e-a75742da6ca1.0018.03/DOC_1#E0008));\n\nh) «Certificados»:\n\ni) para os *ferries ro-ro* e as embarcações de passageiros de alta velocidade utilizados em viagens internacionais, os certificados de segurança emitidos em conformidade com a Convenção SOLAS de 1974 e respectivas alterações, juntamente com os registos de equipamento pertinentes e, quando for caso disso, os certificados de isenção e as autorizações de exploração;\n\nii) para os *ferries ro-ro* e as embarações de passageiros de alta velocidade utilizados em viagens domésticas, os certificados de segurança emitidos em conformidade com a Directiva 98/18/CE, juntamente com os registos de equipamento pertinentes e, quando for caso disso, os certificados de isenção e as autorizações de exploração;\n\ni) «Certificado de isenção», o certificado emitido em conformidade com a regra I/B/12 a) vi) da Convenção SOLAS de 1974;\n\nj) «Administração do Estado do pavilhão», as autoridades competentes do Estado cujo pavilhão o *ferry ro-ro* ou a embarcação de passageiros de alta velocidade está autorizado a arvorar;\n\nk) «Estado de acolhimento», um Estado-Membro de cujos ou para cujos portos um *ferry ro-ro* ou uma embarcação de passageiros de alta velocidade efectua um serviço regular;\n\nl) «Viagem internacional», uma viagem por mar de um porto de um Estado-Membro para um porto situado fora desse Estado-Membro ou vice-versa;\n\nm) «Viagem doméstica», uma viagem em zonas marítimas de um porto de um Estado-Membro para o mesmo ou outro porto desse Estado-Membro;\n\nn) «Organização reconhecida», uma organização reconhecida em conformidade com o artigo 4.º da Directiva 94/57/CE;\n\no) «Companhia», uma companhia que explore um ou mais *ferries ro-ro* e para a qual tenha sido emitido um documento de conformidade nos termos do n.º 2 do artigo 5.º do Regulamento (CE) n.º 3051/95 do Conselho, de 8 de Dezembro de 1995, relativo à gestão da segurança dos *ferries roll-on*/*roll-off* de passageiros (*ferries ro-ro*), ou uma companhia que explore embarcações de passageiros de alta velocidade e para a qual tenha sido emitido um documento de conformidade nos termos da regra IX/4 da Convenção SOLAS de 1974, na versão actualizada;\n\np) «Código de Investigação de Acidentes Marítimos», o Código de Investigação de Acidentes ou Incidentes Marítimos adoptado pela OMI por meio da Resolução A.849(20) da Assembleia, de 27 de Novembro de 1997;\n\nq) «Vistoria específica», uma vistoria efectuada pelo Estado de acolhimento conforme especificado nos artigos 6.º e 8.º;\n\nr) «Inspector qualificado», um agente administrativo do Estado ou outra pessoa, devidamente autorizado pela autoridade competente de um Estado-Membro a efectuar vistorias e inspecções relacionadas com os certificados e que preencha os critérios de qualificação e independência especificados no anexo V;\n\ns) «Anomalia», uma situação de incumprimento dos requisitos da presente directiva."
+  },
+  "8291bef491e4c69f": {
+   "fragment_id": "Artigo 3.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação\n\n1. A presente directiva aplica-se a todos os *ferries ro-ro* e embarcações de passageiros de alta velocidade, qualquer que seja o seu pavilhão, que operem de ou para um porto de um Estado-Membro em serviço regular, quando efectuem viagens internacionais ou viagens domésticas em zonas marítimas abrangidas pela classe A conforme referido no artigo 4.º da Directiva 98/18/CE.\n\n2. Os Estados-Membros podem aplicar a presente directiva aos *ferries ro-ro* e embarcações de passageiros de alta velocidade que efectuem viagens domésticas em zonas marítimas distintas das referidas no n.º 1. Em tais circunstâncias, as regras pertinentes são aplicáveis a todos os *ferries* e embarcações que operem em condições idênticas, sem discriminações por motivo de pavilhão, da nacionalidade ou do local de estabelecimento da companhia."
+  },
+  "446fd63f594034e8": {
+   "fragment_id": "Artigo 4.º — Verificações iniciais exigidas relativamente aos ferries ro-ro ou às embarcações de passageiros de alta velocidade",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Verificações iniciais exigidas relativamente aos ferries ro-ro ou às embarcações de passageiros de alta velocidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Verificações iniciais exigidas relativamente aos ferries ro-ro ou às embarcações de passageiros de alta velocidade\n\n1. Antes da entrada em exploração de um *ferry ro-ro* ou de uma embarcação de passageiros de alta velocidade num serviço regular, ou no prazo de 12 meses a contar da data referida no n.º 1 do artigo 19.º para um *ferry ro-ro* ou uma embarcação de passageiros de alta velocidade já a operar num serviço regular nessa data, os Estados de acolhimento devem verificar se os *ferries* e as embarcações:\n\na) Estão munidos de certificados válidos emitidos pela administração do Estado do pavilhão ou por uma organização reconhecida que actue em seu nome;\n\nb) Foram inspeccionados para efeitos da emissão de certificados em conformidade com os procedimentos e orientações pertinentes que figuram em anexo à Resolução A.746(18) da Assembleia da OMI sobre as orientações relativas às vistorias no âmbito do sistema harmonizado de vistoria e certificação, na versão em vigor à data de adopção da presente directiva, ou com procedimentos destinados ao mesmo fim;\n\nc) Satisfazem as normas especificadas para classificação segundo as regras de uma organização reconhecida, ou regras consideradas equivalentes pela administração do Estado do pavilhão no que respeita à construção e manutenção do casco, máquinas e instalações eléctricas e de comando;\n\nd) Estão munidos de um equipamento de registo dos dados de viagem (VDR — *Voyage Data Recorder*), com o fim de fornecer informações para a investigação de um eventual acidente. O VDR deve satisfazer as normas de desempenho definidas na Resolução A.861(20) da Assembleia da OMI, de 27 de Novembro de 1997, e as normas de ensaio estabelecidas na norma n.º 61996 da Comissão Electrotécnica Internacional (CEI). No entanto, para os VDR a instalar a bordo de *ferries* ou embarcações construídos anteriormente à entrada em vigor da presente directiva, podem ser concedidas isenções relativamente a certos requisitos. Essas isenções e as condições da sua concessão serão decididas [**►M2**](http://publications.europa.eu/resource/celex/32009R0219) pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 16.º **◄**;\n\ne) Satisfazem os requisitos específicos de estabilidade adoptados a nível regional e transpostos para a sua legislação nacional em conformidade com o processo de notificação previsto na Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação ([^9^](http://publications.europa.eu/resource/cellar/aef361bf-55bf-40b4-a26e-a75742da6ca1.0018.03/DOC_1#E0009)), quando efectuem nessa região um serviço abrangido pela referida legislação nacional, desde que esses requisitos não ultrapassem os especificados no anexo da Resolução 14 (Requisitos de estabilidade pertencentes ao acordo) da Conferência SOLAS de 1995 e tenham sido notificados ao secretário-geral da OMI nos termos do ponto 3 da referida resolução.\n\n2. A alínea e) do n.º 1 só se aplica às embarcações de passageiros de alta velocidade quando for caso disso."
+  },
+  "10439667ba3dfc23": {
+   "fragment_id": "Artigo 5.º — Verificações iniciais exigidas relativamente às companhias e aos Estados do pavilhão",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Verificações iniciais exigidas relativamente às companhias e aos Estados do pavilhão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Verificações iniciais exigidas relativamente às companhias e aos Estados do pavilhão\n\nAntes da entrada em exploração de um *ferry ro-ro* ou de uma embarcação de passageiros de alta velocidade num serviço regular, ou no prazo de doze meses a contar da data referida no n.º 1 do artigo 19.º para um *ferry ro-ro* ou uma embarcação de passageiros de alta velocidade já a operar num serviço regular nessa data, os Estados de acolhimento devem:\n\n1. Verificar que as companhias que exploram ou pretendem explorar esse *ferry* ou essa embarcação em serviço regular:\n\na) Tomam as medidas necessárias para garantir que são aplicados os requisitos específicos estabelecidos no anexo I e fornecem prova da conformidade com o disposto no presente número e no artigo 4.º aos Estados de acolhimento envolvidos no serviço regular;\n\nb) Concordam à partida que os Estados de acolhimento ou qualquer outro Estado-Membro legitimamente interessado podem, nos termos do artigo 12.º, investigar qualquer acidente ou incidente marítimo ou participar ou cooperar nessas investigações e facilitam a esses Estados o acesso aos dados recuperados do VDR do seu *ferry* ou da sua embarcação envolvido num acidente ou incidente;\n\n2. Verificar, para os navios e as embarcações que arvorem pavilhão que não seja o de um Estado-Membro, a confirmação do Estado do pavilhão de que aceitou o compromisso assumido pela companhia de respeitar os requisitos da presente directiva."
+  },
+  "32e06e8feeff6e5b": {
+   "fragment_id": "Artigo 6.º — Vistorias específicas iniciais",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Vistorias específicas iniciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Vistorias específicas iniciais\n\n1. Antes da entrada em exploração de um *ferry ro-ro* ou de uma embarcação de passageiros de alta velocidade num serviço regular, ou no prazo de 12 meses a contar da data referida no n.º 1 do artigo 19.º para um *ferry ro-ro* ou uma embarcação de passageiros de alta velocidade já a operar num serviço regular nessa data, os Estados de acolhimento devem efectuar uma vistoria específica inicial, em conformidade com os anexos I e III, a fim de se certificarem de que o *ferry* ou a embarcação em causa satisfaz os requisitos necessários para a exploração segura de um serviço regular.\n\n2. Quando o presente artigo for aplicado antes da entrada em exploração, os Estados de acolhimento devem estabelecer uma data para a vistoria específica inicial, que não será superior a um mês após a recepção da prova necessária, para completar a verificação nos termos dos artigos 4.º e 5.º"
+  },
+  "ea9063260f437de8": {
+   "fragment_id": "Artigo 7.º — Disposições especiais",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Disposições especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Disposições especiais\n\n1. Quando um *ferry ro-ro* ou uma embarcação de passageiros de alta velocidade for efectuar outro serviço regular, o novo Estado de acolhimento deve ter na maior conta as verificações e vistorias anteriormente efectuadas em relação a esse *ferry* ou a essa embarcação no que diz respeito à exploração num serviço regular anterior abrangido pela presente directiva. Se o novo Estado de acolhimento considerar que essas verificações e vistorias anteriores são satisfatórias e que são válidas para as novas condições de exploração, não precisam de ser aplicados os artigos 4.º, 5.º e 6.º antes da entrada em exploração no novo serviço regular do *ferry* ou da embarcação.\n\n2. Os artigos 4.º, 5.º e 6.º não precisam de ser aplicados quando um *ferry ro-ro* ou embarcação de passageiros de alta velocidade que cumpra as disposições da presente directiva, já a operar num serviço regular abrangido pela presente directiva, for transferido para outro serviço regular em que as características da rota sejam consideradas semelhantes pelos Estados de acolhimento em causa e todos os Estados de acolhimento concordarem que o *ferry* ou a embarcação preenche todos os requisitos para a exploração segura desse serviço.\n\nA pedido de uma companhia, os Estados de acolhimento em questão podem confirmar antecipadamente que concordam que as características de rota são semelhantes.\n\n3. Nos casos em que, devido a circunstâncias imprevistas, se tiver de substituir rapidamente um *ferry ro-ro* ou uma embarcação de passageiros de alta velocidade para garantir a continuidade do serviço e os n.^os^ 1 e 2 não forem aplicáveis, o Estado de acolhimento pode autorizar o *ferry* ou a embarcação a começar a operar desde que:\n\na) Uma inspecção visual e uma veritificação de documentos não suscite suspeitas de que o *ferry* ou a embarcação não preenche os requisitos necessários a uma exploração segura; e\n\nb) O Estado de acolhimento complete no prazo de um mês as verificações e vistorias nos termos dos artigos 4.º, 5.º e 6.º"
+  },
+  "e3ad9dcf894f0b1f": {
+   "fragment_id": "Artigo 8.º — Vistorias específicas regulares e outras vistorias",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Vistorias específicas regulares e outras vistorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Vistorias específicas regulares e outras vistorias\n\n1. Os Estados de acolhimento devem efectuar, uma vez de 12 em 12 meses:\n\n— uma vistoria específica, em conformidade com o anexo III, e\n\n— uma vistoria durante um serviço regular, que deverá procurar abranger suficientes aspectos referidos nos anexos I, III e IV para se assegurarem de que o *ferry* ou a embarcação continua a preencher todos os requisitos necessários a uma exploração segura.\n\nUma vistoria específica inicial em conformidade com o artigo 6.º conta como uma vistoria específica para efeitos do presente artigo.\n\n2. Os Estados de acolhimento devem efectuar a uma vistoria específica em conformidade com o anexo III cada vez que um *ferry ro-ro* ou uma embarcação de passageiros de alta velocidade seja objecto de reparações, alterações ou modificações de grande importância ou quando tenha havido mudança de companhia aramadora ou de pavilhão ou transferência de classe. Contudo, em caso de mudança de companhia armadora ou de pavilhão, ou de transferência de classe, os Estados de acolhimento, após tomarem em conta as verificações e vistorias anteriormente efectuadas em relação a esse *ferry* ou essa embarcação, e na medida em que a exploração segura do *ferry* ou da embarcação não seja afectada por essa mudança ou transferência, podem dispensar o *ferry* ou a embarcação da vistoria específica exigida no presente número.\n\n3. Caso as vistorias previstas no n.º 1 confirmem ou revelem anomalias em relação aos requisitos da presente directiva que justifiquem que se impeça a exploração, todas as despesas relativas às vistorias num período contabilístico habitual serão suportadas pela companhia."
+  },
+  "b4eeb7e0912a29c4": {
+   "fragment_id": "Artigo 9.º — Notificação",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Notificação\n\nOs Estados de acolhimento devem informar as companhias rapidamente, por escrito, dos resultados das verificações e vistorias efectuadas nos termos dos artigos 4.º, 5.º, 6.º e 8.º"
+  },
+  "66326f07dd45a3de": {
+   "fragment_id": "Artigo 10.º — Impedimento de exploração",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Impedimento de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Impedimento de exploração\n\n1. Um Estado-Membro de acolhimento deve impedir a exploração de um *ferry ro-ro* ou de uma embarcação de passageiros de alta velocidade num serviço regular:\n\na) Quando não lhe for possível confirmar que o *ferry* ou a embarcação cumpre os requisitos previstos nos artigos 4.º e 5.º;\n\nb) Sempre que, durante as vistorias previstas nos artigos 6.º e 8.º, sejam constatadas anomalias que representem um perigo imediato para a vida, para o *ferry* ou a embarcação, para a tripulação e os passageiros;\n\nc) Quando exista um comprovado incumprimento dos instrumentos comunitários referidos no anexo II que represente um perigo imediato para a vida, para o *ferry* ou a embarcação, para a tripulação e os passageiros;\n\nd) Sempre que não tenha sido consultado pelo Estado do pavilhão quanto às matérias previstas nos n.^os^ 1 e 5 do artigo 13.º,\n\naté o Estado de acolhimento ter estabelecido que o perigo foi afastado e que estão preenchidos os requisitos da presente directiva.\n\nO Estado de acolhimento deve informar a companhia, por escrito, da decisão de impedir a exploração do *ferry ro-ro* ou da embarcação de passageiros de alta velocidade, apresentando uma justificação completa da mesma.\n\n2. Contudo, quando um *ferry ro-ro* ou uma embarcação de passageiros de alta velocidade já estiver a operar num serviço regular e for comprovada a existência de anomalias, os Estados de acolhimento devem exigir da companhia que tome as medidas necessárias para que estas sejam corrigidas prontamente ou, se não representarem um perigo imediato para a segurança do *ferry* ou da embarcação, nem dos seus tripulantes e passageiros, num prazo bem definido e razoável. Uma vez corrigidas as anomalias, os Estados de acolhimento em questão devem verificar se as correcções efectuadas os satisfazem plenamente. Se não for esse o caso, devem impedir a exploração do *ferry* ou da embarcação.\n\n3. Os Estados-Membros devem em conformidade com as respectivas legislações nacionais, estabelecer e manter vias de recurso apropriadas que permitam a uma companhia recorrer de uma decisão de impedimento de exploração. A tramitação dos recursos deve ser expedita. O recurso não suspende automaticamente a decisão.\n\nA autoridade competente deve informar devidamente a companhia do seu direito de recurso.\n\n4. Quando os artigos 4.º, 5.º e 8.º forem aplicados antes da entrada em exploração de um *ferry ro-ro* ou de uma embarcação de passageiros de alta velocidade num serviço regular, uma decisão de impedimento de exploração de um *ferry* ou uma embarcação deve ser tomada no prazo de um mês a contar da vistoria específica inicial e comunicada imediatamente à companhia."
+  },
+  "a2a8ee7ae3a82eb4": {
+   "fragment_id": "Artigo 11.º — Procedimentos relativos às vistorias específicas iniciais e regulares",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Procedimentos relativos às vistorias específicas iniciais e regulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Procedimentos relativos às vistorias específicas iniciais e regulares\n\n1. Os *ferries ro-ro* e as embarcações de passageiros de alta velocidade cujas vistorias específicas tenham satisfeito o(s) Estado(s) de acolhimento envolvido(s) são dispensados por esse(s) Estado(s) de acolhimento das inspecções alargadas referidas no n.º 4 do artigo 7.º da Directiva 95/21/CE e das inspecções alargadas com base no motivo inequívoco de pertencerem à categoria de navio de passageiros, como referido no n.º 1 do artigo 7.º e na parte A, ponto 3, do anexo V dessa directiva.\n\n2. As administrações de dois ou mais Estados de acolhimento envolvidos numa vistoria específica do mesmo *ferry* ou embarcação devem cooperar entre si. As vistorias específicas devem ser efectuadas por uma equipa composta por inspectores qualificados do(s) Estado(s) de acolhimento envolvido(s). Sempre que for necessária uma avaliação qualitativa do cumprimento das disposições relativas à classe, os Estados de acolhimento devem assegurar que a equipa conta com os peritos necessários, incluindo, se for caso disso, um inspector de uma organização reconhecida. As anomalias detectadas devem ser comunicadas pelos inspectores às administrações dos Estados de acolhimento. O Estado de acolhimento deve comunicar estas informações ao Estado do pavilhão se este não for um Estado de acolhimento envolvido na vistoria.\n\n3. Um Estado de acolhimento envolvido pode concordar em efectuar a uma vistoria a pedido de outro Estado de acolhimento envolvido.\n\n4. A pedido das companhias, os Estados de acolhimento convidam a administração do Estado do pavilhão, caso este não seja um Estado de acolhimento, a fazer-se representar em qualquer vistoria específica a efectuar nos termos da presente directiva.\n\n5. Ao planearem uma vistoria nos termos dos artigos 6.º e 8.º, os Estados de acolhimento devem ter na devida conta os calendários de exploração e de manutenção do *ferry* ou da embarcação.\n\n6. Os resultados das vistorias específicas devem ser registados num relatório cujo formato será definido [**►M2**](http://publications.europa.eu/resource/celex/32009R0219) pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 16.º **◄**\n\n7. Em caso de diferendo persistente entre Estados de acolhimento quanto ao cumprimento das disposições do artigo 4.º e do n.º 1 do artigo 5.º, a administração de qualquer Estado de acolhimento envolvido numa vistoria específica notifica imediatamente a Comissão das razões do diferendo.\n\n8. A Comissão inicia imediatamente o processo de tomada de uma decisão [**►M2**](http://publications.europa.eu/resource/celex/32009R0219) pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 16.º **◄**"
+  },
+  "c3eaf6e19e8b1f7d": {
+   "fragment_id": "Artigo 12.º — Investigação de acidentes",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Investigação de acidentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Investigação de acidentes\n\n1. Os Estados-Membros devem estabelecer, no âmbito dos respectivos ordenamentos jurídicos internos, um quadro jurídico que lhes permita, bem como a qualquer outro Estado-Membro legitimamente interessado, participarem ou cooperarem na investigação de qualquer acidente ou incidente marítimo ou, quando previsto ao abrigo do Código de Investigação de Acidentes Marítimos, investigarem esse acidente ou incidente marítimo em que esteja envolvido um *ferry ro-ro* ou uma embarcação de passageiros de alta velocidade.\n\n2. «Estado legitimamente interessado», «Estado que conduz a investigação» e «acidente marítimo» devem ter o mesmo significado que no Código de Investigação de Acidentes Marítimos.\n\n3. Quando um *ferry ro-ro* ou uma embarcação de passageiros de alta velocidade esteja envolvido num acidente marítimo, o processo de investigação deve ser iniciado pelo Estado em cujas águas ocorreu o acidente ou incidente ou, se tiver ocorrido noutras águas, pelo último Estado-Membro visitado pelo *ferry* ou a embarcação. Este Estado é responsável pela investigação e coordenação com os outros Estados legitimamente interessados até ser mutuamente acordado o Estado que conduz a investigação.\n\n4. Os Estados-Membros que conduzam tais investigações, ou que nelas participem ou cooperem, devem assegurar que a investigação seja concluída eficientemente e com a maior brevidade possível tendo em conta o Código de Investigação de Acidentes Marítimos.\n\n5. Os Estados-Membros devem assegurar que os relatórios resultantes das investigações sejam tornados públicos, em conformidade com o ponto 12.3 do Código de Investigação de Acidentes Marítimos, e notificados à Comissão."
+  },
+  "037ea472fa44b76d": {
+   "fragment_id": "Artigo 13.º — Medidas de acompanhamento",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Medidas de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Medidas de acompanhamento\n\n1. Os Estados-Membros que emitam ou reconheçam um certificado de isenção devem colaborar com o Estado de acolhimento envolvido ou a administração do Estado do pavilhão no sentido de resolver, antes da vistoria específica inicial, qualquer diferendo que possa surgir quanto à adequação das isenções.\n\n2. Os Estados-Membros estabelecerão sistemas costeiros de orientação náutica e outros sistemas de informação em conformidade com a Resolução A.795(19) da OMI, para assistir os *ferries ro-ro* e as embarcações de passageiros de alta velocidade, por cuja segurança são responsáveis, na realização segura de totalidade ou parte do serviço regular.\n\n3. Cada Estado-Membro deve fornecer à Comissão cópias dos relatórios das vistorias previstos no n.º 6 do artigo 11.º, com o número de identificação da OMI se for caso disso. A Comissão pode decidir, [**►M2**](http://publications.europa.eu/resource/celex/32009R0219) pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 16.º **◄**, quais os meios adequados de atribuição de um número de identificação a outros navios. Se no serviço regular estiverem envolvidos dois ou mais Estados de acolhimento, as informações podem ser fornecidas por apenas um desses Estados. A Comissão deve estabelecer e manter uma base de dados com as informações fornecidas. As condições de acesso à base de dados devem ser decididas [**►M2**](http://publications.europa.eu/resource/celex/32009R0219) pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 16.º **◄**\n\n4. Os Estados-Membros devem assegurar que as companhias que exploram *ferries ro-ro* ou embarcações de passageiros de alta velocidade em serviços regulares de e para os seus portos possam manter e aplicar um sistema integrado de planos de contingência para situações de emergência a bordo. Devem recorrer, para esse fim, ao quadro previsto na Resolução A.852(20) da Assembleia da OMI sobre as orientações para uma estrutura de um sistema integrado de contingência. Se dois ou mais Estados-Membros estiverem envolvidos, na qualidade de Estados de acolhimento, no mesmo serviço regular, devem estabelecer conjuntamente um plano para as diferentes rotas.\n\n5. Os Estados-Membros devem assegurar o seu pleno envolvimento, na qualidade de Estados de acolhimento, pela administração do Estado do pavilhão no processo de emissão da autorização de exploração para uma embarcação de alta velocidade em conformidade com as disposições do ponto 1.9.3 do Código das Embarações de Alta Velocidade. Os Estados-Membros devem assegurar que sejam estabelecidas ou mantidas as restrições de exploração exigidas pelas situações locais e necessárias para a protecção da vida, dos recursos naturais e das actividades costeiras, e devem tomar medidas para assegurar que tais restrições sejam efectivamente observadas."
+  },
+  "b9d81de7740a4460": {
+   "fragment_id": "Artigo 15.º — Medidas de apoio",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Medidas de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Medidas de apoio\n\nOs Estados-Membros devem informar os países terceiros com responsabilidades de Estado do pavilhão ou responsabilidades semelhantes às de um Estado de acolhimento relativamente a *ferries ro-ro* ou embarcações de passageiros de alta velocidade abrangidos pelo âmbito de aplicação da presente directiva que operem entre um porto de um Estado-Membro e um porto de um Estado terceiro dos requisitos impostos pela presente directiva às companhias que exploram um serviço regular de ou para um porto da Comunidade."
+  },
+  "f9a5d5cb64aed9ab": {
+   "fragment_id": "Artigo 16.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité para a Segurança Marítima e a Prevenção da Poluição por Navios (COSS), criado pelo artigo 3.º do Regulamento (CE) n.º 2099/2002 do Parlamento Europeu e do Conselho ([^10^](http://publications.europa.eu/resource/cellar/aef361bf-55bf-40b4-a26e-a75742da6ca1.0018.03/DOC_1#E0010)).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de dois meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "4e3f204068f6745c": {
+   "fragment_id": "Artigo 17.º — Procedimento de alteração",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Procedimento de alteração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Procedimento de alteração\n\nOs anexos da presente directiva, as definições, as referências a instrumentos comunitários e as referências aos instrumentos da OMI podem ser adaptados na medida do necessário para ajustar às medidas da Comunidade ou da OMI que tenham entrado em vigor, mas sem alargar o âmbito da presente directiva.\n\nOs anexos da presente directiva também podem ser adaptados quando tal for necessário para melhorar o regime estabelecido pela presente directiva, mas sem alargar o seu âmbito.\n\nEssas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 16.º.\n\nAs alterações dos instrumentos internacionais referidos no artigo 2.º podem ser excluídas do âmbito da presente directiva, nos termos do artigo 5.º do Regulamento (CE) n.º 2099/2002."
+  },
+  "b51b7126d38b8b52": {
+   "fragment_id": "Artigo 19.º — Aplicação",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Aplicação\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 1 de Dezembro de 2000. Do facto devem informar imediatamente a Comissão.\n\n2. As disposições do n.º 1, alínea d), do artigo 4.º devem ser aplicadas no prazo de 30 meses a contar da data de publicação da norma n.º 61996 da CEI ou a partir de 1 de Janeiro de 2001, consoante o que ocorra em último lugar.\n\n3. Quando os Estados-Membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-Membros.\n\n4. Os Estados-Membros devem comunicar imediatamente à Comissão todas as disposições de direito interno que adoptarem no domínio regido pela presente directiva. A Comissão informa do facto os restantes Estados-Membros"
+  },
+  "92905c882704dff0": {
+   "fragment_id": "Artigo 20.º — Avaliação da aplicação",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Avaliação da aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Avaliação da aplicação\n\nNo prazo de três anos a contar da data referida no n.º 1 do artigo 19.º, a Comissão avaliará, com base nas informações fornecidas pelos Estados-Membros nos termos do artigo 13.º, a aplicação da presente directiva."
+  },
+  "8ff3bebb9128067c": {
+   "fragment_id": "Artigo 21.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nA presente directiva entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "05c0c15c739403db": {
+   "fragment_id": "Artigo 22.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "fd679a6e258915b3": {
+   "fragment_id": "REQUISITOS ESPECÍFICOS A SATISFAZER PELAS COMPANHIAS",
+   "type": "divisao",
+   "heading": "REQUISITOS ESPECÍFICOS A SATISFAZER PELAS COMPANHIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS ESPECÍFICOS A SATISFAZER PELAS COMPANHIAS"
+  },
+  "5750576547aa0d90": {
+   "fragment_id": "a que se refere o n.º 1 do artigo 5.º e os artigos 6.º e 8.º",
+   "type": "divisao",
+   "heading": "a que se refere o n.º 1 do artigo 5.º e os artigos 6.º e 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### a que se refere o n.º 1 do artigo 5.º e os artigos 6.º e 8.º\n\nAs companhias devem garantir que a bordo dos seus *ferries ro-ro* e embarcações de passageiros de alta velocidade:\n\n1. São fornecidas ao comandante, antes da largada do *ferry* ou da embarcação, informações adequadas sobre a disponibilidade de sistemas costeiros de orientação náutica e outros sistemas de informação que o assistam na condução segura das viagens e que o comandante participa nos sistemas de orientação náutica criados pelos Estados-Membros;\n\n2. Aplicadas as disposições pertinentes dos pontos 2 a 6 da Circular 699 do Comité de Segurança Marítima, sobre orientações revistas para as instruções de segurança aos passageiros;\n\n3. É afixada, em local facilmente acessível, uma tabela com a organização do serviço a bordo, que contenha:\n\na) A escala de serviço no mar e no porto; e\n\nb) O número máximo de horas de trabalho ou o número mínimo de horas de repouso exigidas para os marítimos de quarto;\n\n4. O comandante não se vê impossibilitado de tomar as decisões que, no seu critério profissional, considere necessárias para a segurança da navegação e da operação do navio, em especial em condições de mau tempo e mar agitado;\n\n5. O comandante mantém um registo das actividades e incidentes de navegação importantes para a segurança da navegação;\n\n6. Qualquer avaria ou deformação permanente nas portas do casco ou na chaparia do casco que lhe está associada que possa afectar a integridade do *ferry* ou da embarcação e quaisquer anomalias nos dispositivos de tranca dessas portas são prontamente comunicadas à administração do Estado do pavilhão e ao Estado de acolhimento e prontamente corrigidas a contento de ambos;\n\n7. Está disponível, antes da largada do *ferry* ou da embarcação, um plano de viagem actualizado. Para preparar o plano de viagem deverão ter-se plenamente em conta as orientações estabelecidas na [**►M1**](http://publications.europa.eu/resource/celex/32002L0084) Resolução A.893(21) da Assembleia da OMI**◄**, sobre orientações para os planos de viagem;\n\n8. São comunicadas aos passageiros e disponibilizadas em modalidades acessíveis a pessoas com dificuldades de visão as informações gerais disponíveis a bordo respeitantes aos serviços e assistência a idosos e deficientes."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "72c1ccf9f8c5630e": {
+   "fragment_id": "LISTA DE INSTRUMENTOS COMUNITÁRIOS",
+   "type": "divisao",
+   "heading": "LISTA DE INSTRUMENTOS COMUNITÁRIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LISTA DE INSTRUMENTOS COMUNITÁRIOS"
+  },
+  "da80b68af2e5bf79": {
+   "fragment_id": "referidos no n.º 1, alínea c), do artigo 10.º",
+   "type": "divisao",
+   "heading": "referidos no n.º 1, alínea c), do artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### referidos no n.º 1, alínea c), do artigo 10.º\n\n— Directiva 93/75/CE do Conselho, de 13 de Setembro de 1993, relativas às condições mínimas exigidas aos navios com destino aos portos marítimos da Comunidade ou que deles saiam transportando mercadorias perigosas ou poluentes (JO L 247 de 5.10.1993, p. 19). Directiva com a última redacção que lhe foi dada pela Directiva 98/74/CE da Comissão (JO L 276 de 13.10.1998, p. 7).\n\n— Directiva 94/58/CE do Conselho, de 22 de Novembro de 1994, relativa ao nível mínimo de formação dos marítimos (JO L 319 de 12.12.1994, p. 28). Directiva com a última redacção que lhe foi dada pela Directiva 98/35/CE (JO L 172 de 17.6.1998, p. 1), se aplicável.\n\n— Regulamento (CE) n.º 3051/95 do Conselho, de 8 de Dezembro de 1995, relativo à gestão da segurança dos *ferries roll-on/roll* off de passageiros *(ferries ro-ro)* (JO L 320 de 30.12.1995, p. 14). Regulamento com a redacção que lhe foi dada pelo Regulamento (CE) n.º 179/98 da Comissão (JO L 19 de 24.1.1998, p. 35)."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "e9ef67ed2e0a3f2e": {
+   "fragment_id": "PROCEDIMENTOS PARA AS VISTORIAS ESPECÍFICAS",
+   "type": "divisao",
+   "heading": "PROCEDIMENTOS PARA AS VISTORIAS ESPECÍFICAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROCEDIMENTOS PARA AS VISTORIAS ESPECÍFICAS"
+  },
+  "70fa23777fd5a9a8": {
+   "fragment_id": "a que se refere os artigos 6.º e 8.º",
+   "type": "divisao",
+   "heading": "a que se refere os artigos 6.º e 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### a que se refere os artigos 6.º e 8.º\n\n1. As vistorias específicas deverão garantir que estão satisfeitas as prescrições obrigatórias, especialmente as relativas à construção, subdivisão e estabilidade, maquinaria e instalações tecnológicas, carregamento, estabilidade, protecção contra incêndios, número máximo de passageiros, telecomunicações e navegação, meios de salvação e transporte de mercadorias perigosas e devem, para tal efeito e quando aplicável, incluir no mínimo:\n\n— o arranque do gerador de emergência,\n\n— a inspecção da iluminação de emergência,\n\n— a inspecção da fonte de energia de emergência para as instalações radioeléctricas,\n\n— o ensaio da instalação sonora para comunicações públicas,\n\n— um exercício de combate a incêndios, incluindo a demonstração da capacidade de utilização do equipamento de bombeiro,\n\n— o funcionamento da bomba de incêndio de emergência com duas mangueiras ligadas ao colector,\n\n— o ensaio dos comandos remotos de paragem de emergência do abastecimento de combustível às caldeiras e máquinas principais e auxiliares e dos ventiladores,\n\n— o ensaio dos comandos à distância e locais de encerramento das válvulas de borboleta contra incêndios,\n\n— o ensaio dos sistemas de alarme e detecção de incêndios,\n\n— o ensaio do encerramento das portas corta-fogo,\n\n— o funcionamento das bombas de esgoto,\n\n— o encerramento das portas das anteparas estanques nos postos de manobra locais e à distância,\n\n— uma demonstração de que os elementos-chave da tripulação conhecem o plano para limitação de avarias,\n\n— o arriamento de pelo menos um barco salva-vidas e uma baleeira salva-vidas, o arranque e ensaio dos seus sistemas de propulsão e governo e a sua recuperação da água para a posição de estiva a bordo,\n\n— a verificação de que todas as baleeiras e barcos salva-vidas correspondem ao inventário,\n\n— o ensaio dos aparelhos de governo principal e auxiliar do navio ou embarcação.\n\n2. As vistorias específicas deverão incluir a verificação do sistema de manutenção planificada de bordo.\n\n3. As vistorias específicas deverão incidir na familiarização e eficiência dos membros da tripulação no que respeita aos procedimentos de segurança, aos procedimentos de emergência, à manutenção, aos métodos de trabalho, à segurança dos passageiros, aos procedimentos na ponte e às operações relacionadas com a carga e os veículos. Deve ser verificada a capacidade dos marítimos de compreenderem e, quando necessário, darem ordens e instruções na língua comum de trabalho registada no diário de bordo do navio. Devem ser verificadas as provas documentais de que os membros da tripulação seguiram com êxito uma formação especial, em particular:\n\n— formação em controlo de multidões,\n\n— formação de familiarização,\n\n— formação no domínio da segurança, para o pessoal que presta assistência directa aos passageiros nos espaços a estes reservados, em especial aos passageiros idosos e deficientes, em situações de emergência, e\n\n— formação em gestão de situações de crise e comportamento humano.\n\n4. Os certificados de competência dos membros da tripulação emitidos por Estados terceiros só serão reconhecidos se satisfizerem o disposto na Regra I/10 da Convenção internacional sobre normas de formação, de certificação e de serviço de quartos para os marítimos, de 1978 (Convenção NFCSQ), revista."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "08b4188f25f52745": {
+   "fragment_id": "ORIENTAÇÕES INDICATIVAS A SEGUIR PELOS INSPECTORES QUALIFICADOS AO EFECTUAREM VISTORIAS NÃO PROGRAMADAS DURANTE UMA TRAVESSIA REGULAR",
+   "type": "divisao",
+   "heading": "ORIENTAÇÕES INDICATIVAS A SEGUIR PELOS INSPECTORES QUALIFICADOS AO EFECTUAREM VISTORIAS NÃO PROGRAMADAS DURANTE UMA TRAVESSIA REGULAR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ORIENTAÇÕES INDICATIVAS A SEGUIR PELOS INSPECTORES QUALIFICADOS AO EFECTUAREM VISTORIAS NÃO PROGRAMADAS DURANTE UMA TRAVESSIA REGULAR"
+  },
+  "db4af0887c54ea2e": {
+   "fragment_id": "a que se refere o n.º 1 do artigo 8.º",
+   "type": "divisao",
+   "heading": "a que se refere o n.º 1 do artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### a que se refere o n.º 1 do artigo 8.º"
+  },
+  "dd81956b51ced67c": {
+   "fragment_id": "1. Informação sobre os passageiros",
+   "type": "divisao",
+   "heading": "1. Informação sobre os passageiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Informação sobre os passageiros\n\nVerificar os meios utilizados para assegurar que não é excedido o número de passageiros que o *ferry ro-ro* ou a embarcação de passageiros de alta velocidade (a seguir «navio») está certificado para transportar; se o sistema de registo das informações relativas aos passageiros satisfaz as regras estabelecidas e é eficaz; o modo como a informação sobre o número total de passageiros é transmitida ao comandante e, nos casos adequados, como os passageiros que efectuam uma travessia de ida e volta sem ir a terra são contabilizados no total para a viagem de regresso."
+  },
+  "5b49ff10f35d5b4e": {
+   "fragment_id": "2. Informação sobre o carregamento e a estabilidade",
+   "type": "divisao",
+   "heading": "2. Informação sobre o carregamento e a estabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Informação sobre o carregamento e a estabilidade\n\nVerificar se estão instaladas e são utilizadas escalas de calado fiáveis, quando aplicável; se estão previstas medidas para assegurar que a carga do navio não seja excessiva e que a linha de carga de compartimentação apropriada não está submersa; se a avaliação do carregamento e da estabilidade é efectuada como exigido; se os veículos de mercadorias e outra carga são pesados quando necessário e os dados transmitidos ao navio para utilização na avaliação do carregamento e da estabilidade; se os planos para limitação de avarias estão afixados de forma permanente e se existem folhetos com as informações relativas à limitação de avarias à disposição dos oficiais do navio."
+  },
+  "97187e57952323e1": {
+   "fragment_id": "3. Segurança para a navegação no mar",
+   "type": "divisao",
+   "heading": "3. Segurança para a navegação no mar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Segurança para a navegação no mar\n\nVerificar o procedimento para assegurar que o navio está preparado para navegar em segurança antes de deixar o cais, o que deverá incluir um procedimento de confirmação de que todas as portas do casco estanques à água e à intempérie estão fechadas; se todas as portas do pavimento reservado aos veículos são fechadas antes de o navio deixar o cais ou ficam abertas apenas o tempo suficiente para permitir o fecho do visor de proa; os dispositivos de fecho das portas da proa, da popa e do costado e a existência, na ponte de comando, de indicadores luminosos e de um sistema de vigilância por televisão que permitam controlar a situação das portas. Deve ser verificada e assinalada qualquer anomalia no funcionamento dos indicadores luminosos, particularmente os interruptores das portas."
+  },
+  "a0eda106ad04d811": {
+   "fragment_id": "4. Comunicações de segurança",
+   "type": "divisao",
+   "heading": "4. Comunicações de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Comunicações de segurança\n\nVerificar como são feitas as comunicações de segurança de rotina e a afixação das instruções e orientações sobre os procedimentos a seguir em situações de emergência na(s) língua(s) adequada(s); se as comunicações de segurança de rotina são efectuadas no início da viagem e se são audíveis em todos os espaços públicos, incluindo os pavimentos descobertos, a que os passageiros têm acesso."
+  },
+  "4a241dfccb74b1ea": {
+   "fragment_id": "5. Entradas no diário de bordo",
+   "type": "divisao",
+   "heading": "5. Entradas no diário de bordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Entradas no diário de bordo\n\nExame do diário de bordo para verificar se são lançadas as entradas respeitantes ao encerramento das portas da proa, popa e costado e outras portas estanques à água e à intempérie, aos exercícios de manobra das portas estanques de compartimentação, aos ensaios dos aparelhos de governo, etc. Verificar igualmente se estão registados os dados relativos aos calados, ao bordo livre e à estabilidade, bem como a língua de trabalho comum da tripulação."
+  },
+  "3558b935c991219e": {
+   "fragment_id": "6. Mercadorias perigosas",
+   "type": "divisao",
+   "heading": "6. Mercadorias perigosas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6. Mercadorias perigosas\n\nVerificar se o carregamento de mercadorias perigosas ou poluentes é efectuado em conformidade com as regras aplicáveis e, em particular, se existe uma declaração relativa às mercadorias perigosas e poluentes e um manifesto ou um plano de estiva que mostre a sua localização a bordo, se é permitido o transporte da carga em causa em navios de passageiros e se as mercadorias perigosas ou poluentes estão devidamente marcadas, rotuladas, estivadas, fixadas e segregadas.\n\nVerificar se os veículos que transportam mercadorias perigosas ou poluentes são devidamente assinalados e fixados; se está disponível em terra, quando são transportadas mercadorias perigosas ou poluentes, cópia do manifesto ou plano de estiva pertinente; se o comandante está a par dos requisitos de notificação estabelecidos na Directiva 93/75/CEE e se conhece as instruções sobre os procedimentos a seguir em situações de emergência e a prestação de primeiros socorros em caso de incidente que envolva mercadorias perigosas ou poluentes marinhos; se a ventilação dos pavimentos reservados aos veículos está sempre a funcionar, se é reforçada quando os motores dos veículos estão em marcha e se há meios de assinalar na ponte que a ventilação está operacional."
+  },
+  "3ce750a709c16804": {
+   "fragment_id": "7. Fixação dos veículos de mercadorias",
+   "type": "divisao",
+   "heading": "7. Fixação dos veículos de mercadorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7. Fixação dos veículos de mercadorias\n\nVerificar o modo de fixação dos veículos de mercadorias, por exemplo, se essa fixação é em bloco ou por cabos individuais. A disponibilidade de pontos reforçados de fixação suficientes. Os meios de fixar os veículos de mercadorias quando está ou se espera mau tempo. O método de fixação de autocarros e motociclos, se for caso disso. A disponibilidade no navio de um manual de fixação da carga."
+  },
+  "59f65481a3387968": {
+   "fragment_id": "8. Pavimentos para veículos",
+   "type": "divisao",
+   "heading": "8. Pavimentos para veículos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8. Pavimentos para veículos\n\nVerificar se os espaços de categoria especial e os espaços de carga *ro-ro* são constantemente patrulhados ou controlados por um sistema de vigilância por televisão, de modo a poderem ser observados os movimentos dos veículos em condições de mau tempo e a entrada não autorizada de passageiros; se as portas corta-fogo e as entradas são mantidas fechadas e se estão afixados avisos para que os passageiros se mantenham fora dos pavimentos reservados aos veículos quando o navio está a navegar."
+  },
+  "867124b45c26e82d": {
+   "fragment_id": "9. Encerramento das portas estanque",
+   "type": "divisao",
+   "heading": "9. Encerramento das portas estanque",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 9. Encerramento das portas estanque\n\nVerificar se são seguidas as orientações estabelecidas nas instruções operacionais do navio para a manobra das portas estanques de compartimentação; se são efectuados os exercícios exigidos; se o comando das portas estanques na ponte está, quando possível, em modo «local», se as portas se mantêm fechadas em condições de visibilidade limitada e em qualquer situação de risco; se as tripulações são instruídas quanto ao modo correcto de manobrar as portas e estão conscientes dos riscos associados à sua manobra incorrecta."
+  },
+  "43a858227cbcb1fe": {
+   "fragment_id": "10. Serviço de rondas",
+   "type": "divisao",
+   "heading": "10. Serviço de rondas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 10. Serviço de rondas\n\nDeve confirmar-se se é efectuado um serviço de rondas eficaz que permita detectar rapidamente qualquer início de incêndio. Tal ronda deve incluir os espaços de categoria especial em que não exista uma instalação fixa de detecção e alarme de incêndios, tendo presente que tais espaços poderão ser patrulhados como indicado no ponto 8."
+  },
+  "3eda0a5a6bec4929": {
+   "fragment_id": "11. Comunicações em situações de emergência",
+   "type": "divisao",
+   "heading": "11. Comunicações em situações de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 11. Comunicações em situações de emergência\n\nExistência de um número suficiente de membros da tripulação, de acordo com o rol de chamada, para assistir os passageiros em situações de emergência, facilmente identificáveis e capazes de comunicar com os passageiros numa emergência, tendo em conta uma combinação adequada e apropriada de quaisquer dos seguintes factores:\n\na) A língua ou línguas correspondentes às nacionalidades prevalecentes a nível dos passageiros transportados numa determinada rota;\n\nb) A probabilidade de a capacidade de utilizar vocabulário elementar em inglês para fornecer instruções básicas constituir um meio de comunicação com um passageiro a necessitar de assistência, quer o passageiro e o tripulante falem ou não uma língua comum;\n\nc) A eventual necessidade de comunicar por outros meios numa situação de emergência (por exemplo, por meio de uma demonstração, gestos ou chamando a atenção para o local onde se encontram as instruções, os postos de reunião, os dispositivos salva-vidas ou as vias de evacuação, quando a comunicação oral for impossível);\n\nd) O grau de disponibilidade de instruções de segurança completas para os passageiros nas suas línguas maternas;\n\ne) As línguas em que, numa situação de emergência ou num exercício, podem ser feitas as comunicações de emergência destinadas a fornecer instruções fundamentais aos passageiros e a facilitar a assistência dos tripulantes aos passageiros."
+  },
+  "c066d3fabb36cfee": {
+   "fragment_id": "12. Língua comum de trabalho dos membros da tripulação",
+   "type": "divisao",
+   "heading": "12. Língua comum de trabalho dos membros da tripulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 12. Língua comum de trabalho dos membros da tripulação\n\nVerificar se está definida uma língua de trabalho que assegure um desempenho efectivo da tripulação no que respeita à segurança e se essa língua está registada no diário de bordo do navio."
+  },
+  "cd8763798f16ab54": {
+   "fragment_id": "13. Equipamento de segurança",
+   "type": "divisao",
+   "heading": "13. Equipamento de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 13. Equipamento de segurança\n\nVerificar se é feita a manutenção dos meios de salvação e de combate a incêndios, incluindo as portas corta-fogo e outros meios da protecção estrutural contra incêndios que possam ser facilmente inspeccionados; se estão permanentemente afixados planos de combate a incêndios ou se estão disponíveis para informação dos oficiais do navio folhetos com informações equivalentes; se os locais de arrumação dos coletes de salvação são adequados e se se podem identificar facilmente os locais onde se encontram os coletes de salvação para crianças; se o carregamento dos veículos não impede a manobra dos dispositivos de combate a incêndios, dos dispositivos de paragem/corte de emergência, dos comandos das válvulas de temporal, etc., que possam estar localizados nos pavimentos reservados aos veículos."
+  },
+  "f1b5c9853bc308e8": {
+   "fragment_id": "14. Equipamento de navegação e radioeléctrico",
+   "type": "divisao",
+   "heading": "14. Equipamento de navegação e radioeléctrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 14. Equipamento de navegação e radioeléctrico\n\nSe estão operacionais o equipamento de navegação e o equipamento de radiocomunicações, incluindo as radiobalizas de localização de sinistros (EPIRB — *Emergency Position-Indicating Radio Beacons*)."
+  },
+  "a27340d3c5a987fe": {
+   "fragment_id": "15. Iluminação de emergência suplementar",
+   "type": "divisao",
+   "heading": "15. Iluminação de emergência suplementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 15. Iluminação de emergência suplementar\n\nVerificar se existe uma instalação de iluminação de emergência suplementar, quando as regras aplicáveis o exijam, e se é mantido um registo das anomalias."
+  },
+  "25243ff13502dd3d": {
+   "fragment_id": "16. Meios de evacuação",
+   "type": "divisao",
+   "heading": "16. Meios de evacuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 16. Meios de evacuação\n\nVerificar a marcação, em conformidade com as regras aplicáveis, e a iluminação dos meios de evacuação a partir das fontes de energia principal e de emergência; as medidas tomadas para manter os veículos afastados das vias evacuação quando estas atravessam ou passam pelos pavimentos a eles reservados; se as saídas são mantidas desimpedidas, particularmente as das lojas francas, muitas vezes bloqueadas por uma concentração excessiva de produtos."
+  },
+  "4183f83dd3fa3367": {
+   "fragment_id": "17. Manual de operações",
+   "type": "divisao",
+   "heading": "17. Manual de operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 17. Manual de operações\n\nVerificar se o comandante e os oficiais superiores dispõem, cada um, de um exemplar do manual de operações e existem outros exemplares à disposição dos tripulantes e, também, se há listas de verificação para as operações de preparação para a navegação e outras operações."
+  },
+  "e04e32efa12a1ad5": {
+   "fragment_id": "18. Limpeza da casa das máquinas",
+   "type": "divisao",
+   "heading": "18. Limpeza da casa das máquinas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 18. Limpeza da casa das máquinas\n\nVerificar se a casa das máquinas é mantida em boas condições de limpeza segundo os procedimentos de manutenção."
+  },
+  "6c2f64dbc97216c4": {
+   "fragment_id": "19. Eliminação do lixo",
+   "type": "divisao",
+   "heading": "19. Eliminação do lixo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 19. Eliminação do lixo\n\nVerificar se as disposições tomadas para a recolha e eliminação do lixo são satisfatórias."
+  },
+  "c66c04b08651f9c5": {
+   "fragment_id": "20. Plano de manutenção",
+   "type": "divisao",
+   "heading": "20. Plano de manutenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 20. Plano de manutenção\n\nTodas as companhias devem dispor de instruções permanentes, incluindo um sistema de manutenção planificada, para todos os dispositivos relacionados com a segurança, incluindo as portas da proa e da popa e as aberturas no costado, bem como os seus dispositivos de fecho, e que abranjam também a manutenção da casa das máquinas e o equipamento de segurança. Deve haver planos para a verificação periódica de todos os dispositivos, de modo a manter as normas de segurança ao mais elevado nível. Deve haver procedimentos para registo das anomalias e confirmação da sua correcta rectificação, de modo a que o comandante e a pessoa em terra designada noâmbito da estrutura de gestão da companhia possam ter conhecimento das anomalias e sejam notificados da sua rectificação num prazo determinado. A verificação periódica do funcionamento dos dispositivos de fecho das portas interior e exterior da proa deverá incluir os indicadores, o equipamento de vigilância e os embornais eventualmente existentes no espaço situado entre o visor de proa e a porta interior e, especialmente, os mecanismos de fecho e os seus sistemas hidráulicos."
+  },
+  "e1104b8d69eaf292": {
+   "fragment_id": "21. Viagem",
+   "type": "divisao",
+   "heading": "21. Viagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 21. Viagem\n\nDeve aproveitar-se a oportunidade de realização de uma viagem para verificar se há sobrelotação, incluindo a disponibilidade de lugares e o bloqueamento de passagens, escadas e saídas de emergência por bagagens ou passageiros que não encontraram lugar, se os passageiros abandonaram o pavimento reservado aos veículos antes de o navio zarpar e só voltam a ter acesso a esse pavimento imediatamente antes de o navio atracar."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "ceeda911124b82fc": {
+   "fragment_id": "CRITÉRIOS DE QUALIFICAÇÃO E INDEPENDÊNCIA QUE DEVEM SATISFAZER OS INSPECTORES QUALIFICADOS",
+   "type": "divisao",
+   "heading": "CRITÉRIOS DE QUALIFICAÇÃO E INDEPENDÊNCIA QUE DEVEM SATISFAZER OS INSPECTORES QUALIFICADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CRITÉRIOS DE QUALIFICAÇÃO E INDEPENDÊNCIA QUE DEVEM SATISFAZER OS INSPECTORES QUALIFICADOS"
+  },
+  "732e98f509bdacf2": {
+   "fragment_id": "a que se refere a alínea r) do artigo 2.º",
+   "type": "divisao",
+   "heading": "a que se refere a alínea r) do artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### a que se refere a alínea r) do artigo 2.º\n\n1. O inspector qualificado deve estar autorizado pela autoridade competente do Estado-Membro a efectuar as vistorias específicas referidas no artigo 6.º\n\n2. Ou:\n\n— O inspector qualificado deve ter completado, no mínimo, um ano de serviço junto da autoridade competente de um Estado-Membro como inspector de Estado do pavilhão afecto à inspecção e certificação de navios em conformidade com a Convenção SOLAS de 1974,\n\na) um certificado de competência para o posto de comandante, que lhe permita comandar um navio de arqueação bruta igual ou superior a 1 000 GT (ver Convenção NFCSQ, regra II/2), ou\n\nb) um certificado de competência para o posto de chefe de máquinas, que lhe permita desempenhar essas funções a bordo de um navio cuja máquina principal tenha uma potência propulsora igual ou superior a 3 000 kW (ver Convenção NFCSQ, regra III/2), ou\n\nc) um diploma de arquitecto naval, engenheiro mecânico ou engenheiro noutro ramo de engenharia relacionado com o sector marítimo, passado por um Estado-Membro, e experiência profissional de um mínimo de cinco anos nessa qualidade.\n\n— Os inspectores qualificados a que se referem as alíneas a) e b) devem ter prestado serviço no mar como, respectivamente, oficial da secção de convés ou oficial da secção de máquinas, durante um período não inferior a cinco anos.\n\n— possuir um diploma universitário pertinente ou ter seguido uma formação equivalente num Estado-Membro,\n\n— ter recebido formação e diploma de uma escola para inspectores da segurança de navios num Estado-Membro, e\n\n— ter prestado pelo menos dois anos de serviço junto da autoridade competente de um Estado-Membro como inspector de Estado do pavilhão afecto à inspecção e certificação de navios em conformidade com a Convenção SOLAS de 1974.\n\n3. Os inspectores qualificados devem estar aptos a comunicar oralmente e por escrito com os marítimos na língua mais correntemente falada no mar.\n\n4. Os inspectores qualificados devem ter um conhecimento adequado das disposições da Convenção SOLAS de 1974 e dos procedimentos pertinentes previstos na presente directiva.\n\n5. Os inspectores qualificados que efectuem vistorias específicas não devem ter qualquer interesse comercial na companhia em causa, nem em qualquer outra companhia que explore um serviço regular à partida ou com destino ao Estado de acolhimento em causa, nem nos *ferries ro-ro* ou embarcações de passageiros de alta velocidade inspeccionados; também não devem ser empregados ou trabalhar por conta de organizações não governamentais que efectuem vistorias obrigatórias ou de classificação de navios ou emitam certificados para esse *ferry* ou essa embarcação.\n\n6. Os inspectores que não satisfaçam os critérios acima enunciados serão igualmente aceites se tiverem sido empregados pela autoridade competente para efectuarem vistorias obrigatórias ou inspecções de controlo do Estado do porto à data de adopção da Directiva 95/21/CE.\n\n---"
+  },
+  "441d6d8615251654": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/aef361bf-55bf-40b4-a26e-a75742da6ca1.0018.03/DOC_1#src.E0001)) JO C 108 de 7.4.1998, p. 122.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/aef361bf-55bf-40b4-a26e-a75742da6ca1.0018.03/DOC_1#src.E0002)) JO C 407 de 28.12.1998, p. 120.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/aef361bf-55bf-40b4-a26e-a75742da6ca1.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 7 de Outubro de 1998 (JO C 328 de 26.10.1998, p. 82), posição comum do Conselho de 21 de Dezembro de 1998 (JO C 49 de 22.2.1999, p. 5) e decisão do Parlamento Europeu de 10 de Fevereiro de 1999 (ainda não publicada no Jornal Oficial).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/aef361bf-55bf-40b4-a26e-a75742da6ca1.0018.03/DOC_1#src.E0004)) JO C 379 de 31.12.1994, p. 8.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/aef361bf-55bf-40b4-a26e-a75742da6ca1.0018.03/DOC_1#src.E0005)) JO L 157 de 7.7.1995, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 98/42/CE da Comissão (JO L 184 de 27.6.1998, p. 40).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/aef361bf-55bf-40b4-a26e-a75742da6ca1.0018.03/DOC_1#src.E0006)) JO L 319 de 12.12.1994, p. 20. Directiva alterada pela Directiva 97/58/CE da Comissão (JO L 274 de 7.10.1997, p. 8).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/aef361bf-55bf-40b4-a26e-a75742da6ca1.0018.03/DOC_1#src.E0007)) JO L 247 de 5.10.1993, p. 19. Directiva como a última redacção que lhe foi dada pela Directiva 98/74/CE da Comissão (JO L 276 de 13.10.1998, p. 7).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/aef361bf-55bf-40b4-a26e-a75742da6ca1.0018.03/DOC_1#src.E0008)) JO L 144 de 15.5.1998, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/aef361bf-55bf-40b4-a26e-a75742da6ca1.0018.03/DOC_1#src.E0009)) JO L 204 de 21.7.1998, p. 37. Directiva com a redacção que lhe foi dada pela Directiva 98/48/CE (JO L 217 de 5.8.1998, p. 18).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/aef361bf-55bf-40b4-a26e-a75742da6ca1.0018.03/DOC_1#src.E0010)) JO L 324 de 29.11.2002, p. 1."
+  },
+  "6367c7b57f8e0032": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Abril de 1999\n\nrelativa a um sistema de vistorias obrigatórias para a exploração segura de serviços regulares de *ferries ro-ro* e embarcações de passageiros de alta velocidade\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 2 do seu artigo 84.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/e8493b74-b783-4ebd-abd4-f63369768e1a.0019.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/e8493b74-b783-4ebd-abd4-f63369768e1a.0019.03/DOC_1#E0002)),\n\nDelibrando nos termos do artigo 189.ºC do Tratado ([^3^](http://publications.europa.eu/resource/cellar/e8493b74-b783-4ebd-abd4-f63369768e1a.0019.03/DOC_1#E0003)),\n\n(1) Considerando que, no quadro da política comum dos transportes, devem ser adoptadas novas medidas, para aumentar a segurança do transporte marítimo de passageiros;\n\n(2) Considerando que a Comunidade está extremamente preocupada com os acidentes que envolveram *ferries ro-ro* e causaram enormes perdas de vidas humanas; que as pessoas que utilizam *ferries ro-ro* e embarcações de passageiros de alta velocidade na Comunidade têm o direito de esperar e contar com um nível de segurança adequado;\n\n(3) Considerando que, na Resolução de 22 de Dezembro de 1994 relativa à seguraça dos *ferries roll-on/roll-off* de passageiros ([^4^](http://publications.europa.eu/resource/cellar/e8493b74-b783-4ebd-abd4-f63369768e1a.0019.03/DOC_1#E0004)), o Conselho convidou a Comissão a apresentar propostas para o estabelecimento de um regime de vistorias obrigatórias e de controlo da segurança de todos os *ferries ro-ro* de passageiros que operem de e para portos da Comunidade, incluindo o direito de proceder a investigações acerca de acidentes marítimos;\n\n(4) Considerando que, dada nomeadamente a dimensão de mercado interno do transporte marítimo de passageiros, a acção a nível da Comunidade é a maneira mais eficaz de estabelecer, em toda a Comunidade, um nível mínimo comum de segurança para os navios;\n\n(5) Considerando que a acção a nível da Comunidade é o meio mais eficaz de garantir a aplicação harmonizada de alguns dos princípios acordados no âmbito da Organização Marítima Internacional (OMI), evitando-se assim distorções da concorrência entre diferentes portos da Comunidade e entre diferentes *ferries ro-ro* e embarcações de passageiros de alta velocidade;\n\n(6) Considerando que, atendendo ao princípio da proporcionalidade, uma directiva do Conselho é o instrumento jurídico mais adequado, por proporcionar um enquadramento para a aplicação uniforme e obrigatória das normas comuns de segurança pelos Estados-Membros, deixando embora a cada Estado-Membro o direito de decidir dos meios de aplicação que melhor se coadunem com o seu sistema interno;\n\n(7) Considerando que a segurança dos navios é sobretudo da responsabilidade dos Estados do pavilhão; que os Estados-Membros devem assegurar o cumprimento dos requisitos de segurança aplicáveis aos *ferries ro-ro* e às embarcações de passageiros de alta velocidade que arvoram o seu pavilhão, bem como às companhias que os exploram;\n\n(8) Considerando que a inspecção pelo Estado do porto não impõe vistorias e verificações aprofundadas de prevenção a efectuar com regularidade em *ferries ro-ro* e embarcações de passageiros de alta velocidade; que, por conseguinte, se deve verificar as companhias e os *ferries* e as embarcações que aquelas exploram satisfazem as normas de segurança acordadas no âmbito da OMI e, se for caso disso, a nível regional, através de um sistema de inspecções regulares obrigatórias efectuadas pelos Estados de acolhimento; que as companhias devem ser impedidas de explorar esses *ferries* e essas embarcações se as inspecções revelarem um incumprimento perigoso dessas normas de segurança;\n\n(9) Considerando que a presente directiva tem por destinatários os Estados-Membros na qualidade de Estados de acolhimento; que as responsabilidades exercidas nessa qualidade assentam em responsabilidades específicas do Estado do porto que estão plenamente em conformidade com a Convenção das Nações Unidas sobre o Direito do Mar (UNCLOS) de 1982;\n\n(10) Considerando que, para reforçar a segurança e evitar distorções da concorrência, as normas comuns de segurança se devem aplicar a todos os *ferries ro-ro* e embarcações de passageiros de alta velocidade, qualquer que seja o seu pavilhão, que efectuem serviços regulares de um ou para um porto dos Estados-Membros, tanto em viagens internacionais como domésticas, em zonas marítimas situadas a mais de 20 milhas de uma linha de costa onde pessoas naufragadas possam desembarcar, deixando aos Estados-Membros a possibilidade de alargarem o âmbito de aplicação da presente directiva a *ferries* e embarcações que operem em viagens domésticas em zonas marítimas situadas a menos de 20 milhas da linha da costa;\n\n(11) Considerando que é necessário que os Estados de acolhimento se assegurem de que os *ferries ro-ro* e as embarcações de passageiros de alta velocidade que operem de e para portos da Comunidade cumprem determinados requisitos harmonizados de certificação e vistoria pelo Estado do pavilhão;\n\n(12) Considerando que esses *ferries ro-ro* e essas embarcações de passageiros de alta velocidade devem igualmente satisfazer, na fase de construção e durante toda a sua vida útil, as normas de classificação pertinentes, no que respeita à construção e manutenção do casco, às máquinas principais e auxiliares, à instalação eléctrica e instalação de controlo, e que devem estar munidos de um equipamento de registo dos dados de viagem que satisfaça os requisitos internacionais relevantes;\n\n(13) Considerando que os Estados de acolhimento devem assegurar-se de que as companhias que prestam esses serviços exploram os respectivos *ferries ro-ro* e embarcações de passageiros de alta velocidade de uma forma que garanta um máximo de segurança; que os Estados-Membros interessados que não sejam o Estado do pavilhão devem poder participar plenamente em qualquer investigação sobre acidentes marítimos;\n\n(14) Considerando que é fundamental verificar se as administrações do Estado do pavilhão de países terceiros vão ao encontro dos compromissos assumidos pelas companhias de cooperarem em qualquer investigação sobre acidentes ou incidentes marítimos e de cumprirem as regras das organizações reconhecidas em matéria de classificação e, se for caso disso, de certificação; que essas administrações devem aceitar o recurso a procedimentos harmonizados de vistoria e de certificação;\n\n(15) Considerando que, para garantir o cumprimento continuado dos requisitos da presente directiva pelos *ferries ro-ro* e pelas embarcações de passageiros de alta velocidade, os Estados de acolhimento devem proceder a vistorias antes do início de um serviço e, posteriormente, a intervalos regulares, bem como sempre que ocorra uma alteração significativa das circunstâncias de exploração;\n\n(16) Considerando que, para reduzir os encargos a que são sujeitas as companhias, devem ser tidas na devida conta as verificações e vistorias anteriormente efectuadas; que os *ferries ro-ro* e as embarcações de passageiros de alta velocidade devem ficar isentos de vistorias sempre que comprovadamente cumpram os requisitos da presente directiva ao operarem em rotas semelhantes; que os *ferries* e as embarcações de substituição devem beneficiar de disposições especiais; que os *ferries* e as embarcações sujeitos a vistorias que tenham satisfeito o Estado de acolhimento não devem ser submetidos às inspecções alargadas previstas na Directiva 95/21/CE do Conselho, de 19 de Junho de 1995, relativa à aplicação, aos navios que escalem os postos da Comunidade ou naveguem em águas sob jurisdição dos Estados-Membros, das normas internacionais respeitantes à segurança da navegação, à prevenção da poluição e às condições de vida e de trabalho a bordo dos navios (inspecção pelo Estado do porto) ([^5^](http://publications.europa.eu/resource/cellar/e8493b74-b783-4ebd-abd4-f63369768e1a.0019.03/DOC_1#E0005));\n\n(17) Considerando que os Estados-Membros devem cooperar no exercício das suas responsabilidades enquanto Estados de acolhimento;\n\n(18) Considerando que os Estados-Membros podem julgar útil a possibilidade de serem assistidos no desempenho das tarefas que lhes incumbem por organizações reconhecidas que preencham os critérios definidos na Directiva 94/57/CE do Conselho, de 22 de Novembro de 1994, relativa às regras comuns para as organizações de vistoria e inspecção de navios e para as actividades relevantes das administrações marítimas ([^6^](http://publications.europa.eu/resource/cellar/e8493b74-b783-4ebd-abd4-f63369768e1a.0019.03/DOC_1#E0006));\n\n(19) Considerando que, ao planificar as vistorias, se devem ter em conta os calendários operacionais e de manutenção dos *ferries ro-ro* e das embarcações de passageiros de alta velocidade;\n\n(20) Considerando que os Estados-Membros devem assegurar-se de que os respectivos ordenamentos jurídicos internos lhes permitem, bem como a quaisquer outros Estados-Membros legitimamente interessados, participar ou cooperar na investigação de um acidente, bem como investigar um acidente, com base nas disposições do Código para a Investigação de Acidentes Marítimos da OMI; que o resultado de tais investigações deve ser facultado ao público;\n\n(21) Considerando que um conjunto de medidas de acompanhamento nos domínios dos sistemas de orientação náutica, planos de contingência e restrições operacionais locais contribuirá para aumentar a segurança;\n\n(22) Considerando que, para possibilitar o controlo da aplicação da presente directiva, deve ser criada uma base de dados que contenha as informações recolhidas nas vistorias;\n\n(23) Considerando que é necessário que um comité composto por representantes dos Estados-Membros assista a Comissão para efeitos da aplicação efectiva da presente directiva; que o comité instituído pelo artigo 12.º da Directiva 93/75/CEE do Conselho, de 13 de Setembro de 1993, relativa às condições mínimas exigidas aos navios com destino aos portos marítimos da Comunidade ou que deles saiam transportando mercadorias perigosas ou poluentes ([^7^](http://publications.europa.eu/resource/cellar/e8493b74-b783-4ebd-abd4-f63369768e1a.0019.03/DOC_1#E0007)), pode assumir essas funções;\n\n(24) Considerando que certas disposições da presente directiva podem ser adaptadas pelo referido comité a fim de as tornar conformes com as medidas da Comunidade ou da OMI e de melhorar o regime estabelecido pela directiva para ter em conta futuras alterações à Convenção Internacional para a Salvaguarda da Vida Humana no Mar de 1974 (SOLAS) que entrem em vigor e assegurar a implementação harmonizada das alterações introduzidas em certas resoluções da OMI, sem alargar o âmbito das mesmas,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "d0d21b23bf166fa5": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva e seus anexos, entende-se por:\n\na) «Ferry ro-ro», um navio de passageiros de mar equipado de forma a permitir o embarque e desembarque directos em marcha de veículos rodoviários ou ferroviários que transporte mais de 12 passageiros;\n\nb) «Embarcação de passageiros de alta velocidade», uma embarcação de alta velocidade conforme definida na regra X/1 do capítulo X da Convenção SOLAS de 1974, na versão actualizada, que transporte mais de 12 passageiros;\n\nc) «Passageiro», qualquer pessoa excepto:\n\ni) o comandante e os membros da tripulação ou outras pessoas empregadas ou ocupadas, sob qualquer forma, a bordo de um navio em serviços que a este digam respeito, e\n\nii) uma criança de idade inferior a um ano;\n\nd) «Convenção SOLAS de 1974», a Convenção Internacional para a salvaguarda da vida humana no mar, bem como os seus protocolos e alterações, na versão actualizada;\n\ne) «Código das embarcações de alta velocidade», o «código internacional para a segurança das embarcações de alta velocidade» constante na Resolução MSC 36(63) do Comité de Segurança Marítima da OMI, de 20 de Maio de 1994, na versão actualizada;\n\nf) «Serviço regular», uma série de travessias efectuadas por um *ferry ro-ro* ou por uma embarcação de passageiros de alta velocidade por forma a servir o tráfego entre os mesmos dois ou mais portos, ou uma série de viagens de ou para o mesmo porto sem escalas intermédias:\n\ni) segundo um horário publicado, ou\n\nii) com uma regularidade ou frequência tais que constituam uma série manifestamente sistemática;\n\ng) «Zona marítima», uma zona marítima incluída numa lista estabelecida nos termos do artigo 4.º da Directiva 98/18/CE do Conselho, de 17 de Março de 1998, relativa às regras e normas de segurança para os navios de passageiros ([^8^](http://publications.europa.eu/resource/cellar/e8493b74-b783-4ebd-abd4-f63369768e1a.0019.03/DOC_1#E0008));\n\nh) «Certificados»:\n\ni) para os *ferries ro-ro* e as embarcações de passageiros de alta velocidade utilizados em viagens internacionais, os certificados de segurança emitidos em conformidade com a Convenção SOLAS de 1974 e respectivas alterações, juntamente com os registos de equipamento pertinentes e, quando for caso disso, os certificados de isenção e as autorizações de exploração;\n\nii) para os *ferries ro-ro* e as embarações de passageiros de alta velocidade utilizados em viagens domésticas, os certificados de segurança emitidos em conformidade com a Directiva 98/18/CE, juntamente com os registos de equipamento pertinentes e, quando for caso disso, os certificados de isenção e as autorizações de exploração;\n\ni) «Certificado de isenção», o certificado emitido em conformidade com a regra I/B/12 a) vi) da Convenção SOLAS de 1974;\n\nj) «Administração do Estado do pavilhão», as autoridades competentes do Estado cujo pavilhão o *ferry ro-ro* ou a embarcação de passageiros de alta velocidade está autorizado a arvorar;\n\nk) «Estado de acolhimento», um Estado-Membro de cujos ou para cujos portos um *ferry ro-ro* ou uma embarcação de passageiros de alta velocidade efectua um serviço regular;\n\nl) «Viagem internacional», uma viagem por mar de um porto de um Estado-Membro para um porto situado fora desse Estado-Membro ou vice-versa;\n\nm) «Viagem doméstica», uma viagem em zonas marítimas de um porto de um Estado-Membro para o mesmo ou outro porto desse Estado-Membro;\n\nn) «Organização reconhecida», uma organização reconhecida em conformidade com o artigo 4.º da Directiva 94/57/CE;\n\no) «Companhia», uma companhia que explore um ou mais *ferries ro-ro* e para a qual tenha sido emitido um documento de conformidade nos termos do n.º 2 do artigo 5.º do Regulamento (CE) n.º 3051/95 do Conselho, de 8 de Dezembro de 1995, relativo à gestão da segurança dos *ferries roll-on*/*roll-off* de passageiros (*ferries ro-ro*), ou uma companhia que explore embarcações de passageiros de alta velocidade e para a qual tenha sido emitido um documento de conformidade nos termos da regra IX/4 da Convenção SOLAS de 1974, na versão actualizada;\n\np) «Código de Investigação de Acidentes Marítimos», o Código de Investigação de Acidentes ou Incidentes Marítimos adoptado pela OMI por meio da Resolução A.849(20) da Assembleia, de 27 de Novembro de 1997;\n\nq) «Vistoria específica», uma vistoria efectuada pelo Estado de acolhimento conforme especificado nos artigos 6.º e 8.º;\n\nr) «Inspector qualificado», um agente administrativo do Estado ou outra pessoa, devidamente autorizado pela autoridade competente de um Estado-Membro a efectuar vistorias e inspecções relacionadas com os certificados e que preencha os critérios de qualificação e independência especificados no anexo V;\n\ns) «Anomalia», uma situação de incumprimento dos requisitos da presente directiva."
+  },
+  "688347c06d9f13ca": {
+   "fragment_id": "Artigo 4.º — Verificações iniciais exigidas relativamente aos ferries ro-ro ou às embarcações de passageiros de alta velocidade",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Verificações iniciais exigidas relativamente aos ferries ro-ro ou às embarcações de passageiros de alta velocidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Verificações iniciais exigidas relativamente aos ferries ro-ro ou às embarcações de passageiros de alta velocidade\n\n1. Antes da entrada em exploração de um *ferry ro-ro* ou de uma embarcação de passageiros de alta velocidade num serviço regular, ou no prazo de 12 meses a contar da data referida no n.º 1 do artigo 19.º para um *ferry ro-ro* ou uma embarcação de passageiros de alta velocidade já a operar num serviço regular nessa data, os Estados de acolhimento devem verificar se os *ferries* e as embarcações:\n\na) Estão munidos de certificados válidos emitidos pela administração do Estado do pavilhão ou por uma organização reconhecida que actue em seu nome;\n\nb) Foram inspeccionados para efeitos da emissão de certificados em conformidade com os procedimentos e orientações pertinentes que figuram em anexo à Resolução A.746(18) da Assembleia da OMI sobre as orientações relativas às vistorias no âmbito do sistema harmonizado de vistoria e certificação, na versão em vigor à data de adopção da presente directiva, ou com procedimentos destinados ao mesmo fim;\n\nc) Satisfazem as normas especificadas para classificação segundo as regras de uma organização reconhecida, ou regras consideradas equivalentes pela administração do Estado do pavilhão no que respeita à construção e manutenção do casco, máquinas e instalações eléctricas e de comando;\n\nd) Estão munidos de um equipamento de registo dos dados de viagem (VDR — *Voyage Data Recorder*), com o fim de fornecer informações para a investigação de um eventual acidente. O VDR deve satisfazer as normas de desempenho definidas na Resolução A.861(20) da Assembleia da OMI, de 27 de Novembro de 1997, e as normas de ensaio estabelecidas na norma n.º 61996 da Comissão Electrotécnica Internacional (CEI). No entanto, para os VDR a instalar a bordo de *ferries* ou embarcações construídos anteriormente à entrada em vigor da presente directiva, podem ser concedidas isenções relativamente a certos requisitos. Essas isenções e as condições da sua concessão serão decididas [**►M2**](http://publications.europa.eu/resource/celex/32009R0219) pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 16.º **◄**;\n\ne) Satisfazem os requisitos específicos de estabilidade adoptados a nível regional e transpostos para a sua legislação nacional em conformidade com o processo de notificação previsto na Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação ([^9^](http://publications.europa.eu/resource/cellar/e8493b74-b783-4ebd-abd4-f63369768e1a.0019.03/DOC_1#E0009)), quando efectuem nessa região um serviço abrangido pela referida legislação nacional, desde que esses requisitos não ultrapassem os especificados no anexo da Resolução 14 (Requisitos de estabilidade pertencentes ao acordo) da Conferência SOLAS de 1995 e tenham sido notificados ao secretário-geral da OMI nos termos do ponto 3 da referida resolução.\n\n2. A alínea e) do n.º 1 só se aplica às embarcações de passageiros de alta velocidade quando for caso disso."
+  },
+  "9cbc0cc7e4784fb2": {
+   "fragment_id": "Artigo 16.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité para a Segurança Marítima e a Prevenção da Poluição por Navios (COSS), criado pelo artigo 3.º do Regulamento (CE) n.º 2099/2002 do Parlamento Europeu e do Conselho ([^10^](http://publications.europa.eu/resource/cellar/e8493b74-b783-4ebd-abd4-f63369768e1a.0019.03/DOC_1#E0010)).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de dois meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "f3facfc363bd6466": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/e8493b74-b783-4ebd-abd4-f63369768e1a.0019.03/DOC_1#src.E0001)) JO C 108 de 7.4.1998, p. 122.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/e8493b74-b783-4ebd-abd4-f63369768e1a.0019.03/DOC_1#src.E0002)) JO C 407 de 28.12.1998, p. 120.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/e8493b74-b783-4ebd-abd4-f63369768e1a.0019.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 7 de Outubro de 1998 (JO C 328 de 26.10.1998, p. 82), posição comum do Conselho de 21 de Dezembro de 1998 (JO C 49 de 22.2.1999, p. 5) e decisão do Parlamento Europeu de 10 de Fevereiro de 1999 (ainda não publicada no Jornal Oficial).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/e8493b74-b783-4ebd-abd4-f63369768e1a.0019.03/DOC_1#src.E0004)) JO C 379 de 31.12.1994, p. 8.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/e8493b74-b783-4ebd-abd4-f63369768e1a.0019.03/DOC_1#src.E0005)) JO L 157 de 7.7.1995, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 98/42/CE da Comissão (JO L 184 de 27.6.1998, p. 40).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/e8493b74-b783-4ebd-abd4-f63369768e1a.0019.03/DOC_1#src.E0006)) JO L 319 de 12.12.1994, p. 20. Directiva alterada pela Directiva 97/58/CE da Comissão (JO L 274 de 7.10.1997, p. 8).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/e8493b74-b783-4ebd-abd4-f63369768e1a.0019.03/DOC_1#src.E0007)) JO L 247 de 5.10.1993, p. 19. Directiva como a última redacção que lhe foi dada pela Directiva 98/74/CE da Comissão (JO L 276 de 13.10.1998, p. 7).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/e8493b74-b783-4ebd-abd4-f63369768e1a.0019.03/DOC_1#src.E0008)) JO L 144 de 15.5.1998, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/e8493b74-b783-4ebd-abd4-f63369768e1a.0019.03/DOC_1#src.E0009)) JO L 204 de 21.7.1998, p. 37. Directiva com a redacção que lhe foi dada pela Directiva 98/48/CE (JO L 217 de 5.8.1998, p. 18).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/e8493b74-b783-4ebd-abd4-f63369768e1a.0019.03/DOC_1#src.E0010)) JO L 324 de 29.11.2002, p. 1."
+  },
+  "4e35f111c61e0602": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01999L0035 — PT — 21.12.2019 — 004.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31999L0035) [DIRECTIVA 1999/35/CE DO CONSELHO](http://publications.europa.eu/resource/celex/31999L0035) [de 29 de Abril de 1999](http://publications.europa.eu/resource/celex/31999L0035) [relativa a um sistema de vistorias obrigatórias para a exploração segura de serviços regulares de *ferries ro-ro* e embarcações de passageiros de alta velocidade](http://publications.europa.eu/resource/celex/31999L0035) (JO L 138, 1.6.1999, p.1)\n\n**Revogada por:**\n\n- [Diretiva (UE) 2017/2110 do Parlamento Europeu e do Conselho de 15 de novembro de 2017](http://publications.europa.eu/resource/celex/32017L2110) — L 315 — 61 — 30.11.2017"
+  }
+ }
+}

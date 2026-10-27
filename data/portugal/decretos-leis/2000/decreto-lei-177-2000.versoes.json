@@ -1,0 +1,182 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:339390:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-221325633",
+ "dre_path": "/dr/detalhe/decreto-lei/177-2000-339390",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2000-08-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "221312048",
+    "221312049",
+    "221312050",
+    "221312051",
+    "221312052",
+    "221312053",
+    "221312054",
+    "221312055",
+    "221312056"
+   ]
+  },
+  {
+   "date": "2002-03-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:300608:por",
+     "title": "Decreto-Lei n.º 74/2002",
+     "published": "2002-03-26",
+     "dre_path": "/dr/detalhe/decreto-lei/74-2002-300608"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "221312048",
+    "221312049",
+    "221312050",
+    "221312051",
+    "221312052",
+    "221312053",
+    "221312054",
+    "221312055",
+    "221325690",
+    "221312057"
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:910323298:por",
+     "title": "Decreto-Lei n.º 13-A/2025",
+     "published": "2025-03-10",
+     "dre_path": "/dr/detalhe/decreto-lei/13-a-2025-910323298"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "221312048",
+    "221312049",
+    "911628116",
+    "221312051",
+    "221312052",
+    "221312053",
+    "221312054",
+    "221312055",
+    "221325690",
+    "221312057"
+   ]
+  }
+ ],
+ "fragments": {
+  "221312048": {
+   "fragment_id": "221325634",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 177/2000\n\nde 9 de Agosto\n\nCaracterizados pela Constituição como órgãos de soberania, os tribunais têm como função essencial a administração da justiça.\n\nA prossecução desta função obriga a tarefas de administração e gestão diárias que, no caso dos tribunais superiores, podem com proveito ser executadas pelos próprios órgãos jurisdicionais.\n\nCom a atribuição de autonomia administrativa e financeira, na linha do que sucede já hoje com o Tribunal Constitucional e o Tribunal de Contas, visa-se confiar aos próprios tribunais uma participação activa no exercício da função administrativa, com inegáveis vantagens no que respeita à desconcentração de competências do Estado.\n\nO diploma prevê que as despesas dos tribunais superiores referentes ao quadro de magistrados e funcionários, as despesas correntes e as de capital sejam suportadas pelo orçamento próprio dos tribunais superiores, financiado pelo Orçamento do Estado e pelo Instituto de Gestão Financeira e Patrimonial da Justiça.\n\nCria-se, igualmente, o conselho administrativo, órgão com competência administrativa e financeira, composto pelo presidente do tribunal, pelos vice-presidentes e pelo secretário do tribunal ou pelo administrador.\n\nForam ouvidos o Conselho Superior da Magistratura, o Conselho Superior dos Tribunais Administrativos e Fiscais e o Conselho Superior do Ministério Público.\n\nAssim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "221312049": {
+   "fragment_id": "221325635",
+   "type": 11,
+   "heading": "Artigo 1.º — Autonomia administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Autonomia administrativa\n\nO Supremo Tribunal de Justiça, o Supremo Tribunal Administrativo, os tribunais da Relação e o Tribunal Central Administrativo, adiante designados por tribunais superiores, são dotados de autonomia administrativa."
+  },
+  "221312050": {
+   "fragment_id": "221325636",
+   "type": 11,
+   "heading": "Artigo 2.º — Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Orçamento\n\n1 - Os tribunais superiores dispõem de orçamento próprio destinado a suportar as despesas com o quadro de magistrados e funcionários que lhes estão afectos, as demais despesas correntes e as despesas de capital necessárias ao exercício das suas competências.\n\n2 - O orçamento dos tribunais superiores é financiado por receitas próprias, por verbas do Orçamento do Estado e dos cofres geridos pelo Instituto de Gestão Financeira e Patrimonial da Justiça.\n\n3 - Constituem receitas próprias dos tribunais superiores o saldo de gerência do ano anterior, o produto de multas processuais, o produto da venda de publicações editadas e ainda quaisquer outras que lhes sejam atribuídas por lei, contrato ou outro título.\n\n4 - O produto das receitas próprias referidas no número anterior pode ser aplicado na realização de despesas correntes e de capital que, em cada ano, não possam ser suportadas pelas verbas inscritas no Orçamento do Estado, designadamente despesas de edição de publicações ou de realização de estudos, análises ou outros trabalhos extraordinários."
+  },
+  "221312051": {
+   "fragment_id": "221325637",
+   "type": 11,
+   "heading": "Artigo 3.º — Conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conselho administrativo\n\n1 - Os tribunais superiores dispõem de conselhos administrativos, constituídos pelo presidente do tribunal, pelos vice-presidentes, pelo secretário de tribunal superior ou administrador, consoante o caso, e pelo responsável pelos serviços de apoio administrativo e financeiro.\n\n2 - Cabe aos conselhos administrativos exercer a competência administrativa e financeira que integra a gestão normal dos serviços de apoio, competindo-lhes, designadamente:\n\na) Elaborar os projectos de orçamento do tribunal e pronunciar-se, quando para tal solicitado, sobre as propostas de alteração orçamental que se mostrem necessárias;\n\nb) Autorizar as despesas que não devam ser autorizadas pelo presidente;\n\nc) Autorizar o pagamento de despesas, qualquer que seja a entidade que tenha autorizado a respectiva realização;\n\nd) Autorizar a constituição de fundos permanentes para o pagamento directo de pequenas despesas, estabelecendo as regras a que obedecerá o seu controlo;\n\ne) Orientar a contabilidade e fiscalizar a sua escrituração;\n\nf) Gerir o parque automóvel afecto ao tribunal;\n\ng) Exercer as demais funções previstas na lei.\n\n2 - O conselho administrativo reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocado pelo seu presidente.\n\n3 - Para a validade das deliberações do conselho administrativo é necessária a presença de, pelo menos, três dos seus membros, entre os quais o presidente."
+  },
+  "221312052": {
+   "fragment_id": "221325638",
+   "type": 11,
+   "heading": "Artigo 4.º — Gestão financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Gestão financeira\n\n1 - Cabe ao Presidente do Supremo Tribunal de Justiça e ao Presidente do Supremo Tribunal Administrativo exercer os poderes administrativos e financeiros idênticos aos que integram a competência ministerial.\n\n2 - Aos presidentes dos tribunais da Relação e do Tribunal Central Administrativo cabe exercer os poderes administrativos e financeiros idênticos aos que integram a competência dos órgãos máximos dos organismos dotados de autonomia administrativa e financeira.\n\n3 - As despesas que, pela sua natureza ou montante, ultrapassem os limites estabelecidos nos números anteriores e, bem assim, as que o presidente entenda submeter-lhe são autorizadas pelo tribunal, através do conselho administrativo.\n\n4 - Os Presidentes do Supremo Tribunal de Justiça e do Supremo Tribunal Administrativo podem delegar competências no chefe do seu gabinete, no administrador do tribunal ou no secretário até ao limite das competências de director-geral.\n\n5 - Os presidentes dos tribunais superiores têm competência para propor ao Ministro da Justiça a nomeação de um administrador, exercendo, com as necessárias adaptações, as competências dos administradores dos tribunais judiciais de 1.ª instância.\n\n6 - Os presidentes dos tribunais superiores podem celebrar contratos de prestação de serviços, contratos individuais de trabalho e contratos a termo certo nos termos do regime geral em vigor para a Administração Pública."
+  },
+  "221312053": {
+   "fragment_id": "221325639",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisição de fundos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisição de fundos\n\n1 - Os tribunais superiores requisitam mensalmente à Direcção-Geral do Orçamento e ao Instituto de Gestão Financeira e Patrimonial da Justiça as importâncias que lhes forem necessárias por conta da dotação global que lhes é atribuída.\n\n2 - As requisições referidas no número anterior, depois de visadas pela Direcção-Geral do Orçamento, são transmitidas, com as competentes autorizações para pagamento ao Banco de Portugal, sendo as importâncias levantadas e depositadas, à ordem dos tribunais, na Caixa Geral de Depósitos.\n\n3 - O presidente do tribunal pode aprovar a despesa do regime duodecimal de qualquer das dotações orçamentais e, bem assim, solicitar a antecipação, total ou parcial, dos respectivos duodécimos."
+  },
+  "221312054": {
+   "fragment_id": "221325640",
+   "type": 11,
+   "heading": "Artigo 6.º — Conta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conta\n\nAs contas de gerência anual dos tribunais superiores são organizadas e aprovadas pelos respectivos conselhos administrativos e são submetidas, no prazo legal, ao Tribunal de Contas."
+  },
+  "221312055": {
+   "fragment_id": "221325641",
+   "type": 11,
+   "heading": "Artigo 7.º — Serviços de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Serviços de apoio\n\nOs serviços de apoio dos tribunais superiores devem ser adaptados ao regime de autonomia previsto no presente diploma, por decreto-lei a aprovar no prazo de 120 dias."
+  },
+  "221312056": {
+   "fragment_id": "221325642",
+   "type": 11,
+   "heading": "Artigo 8.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Disposição transitória\n\nO presente diploma é aplicável à elaboração dos orçamentos do Supremo Tribunal de Justiça, do Supremo Tribunal Administrativo para o ano de 2002 e aos orçamentos dos tribunais de Relação e ao Tribunal Central Administrativo para o ano de 2003."
+  },
+  "221325690": {
+   "fragment_id": "221325642",
+   "type": 11,
+   "heading": "Artigo 8.º — Disposição transitória",
+   "in_force_from": "2002-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 74/2002 - Diário da República n.º 72/2002, Série I-A de 2002-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2002-300608), em vigor a partir de 2002-03-27"
+   ],
+   "markdown": "###### Artigo 8.º — Disposição transitória\n\nO presente diploma é aplicável à elaboração dos orçamentos do Supremo Tribunal de Justiça, do Supremo Tribunal Administrativo para o ano de 2003 e aos orçamentos dos tribunais da Relação e ao Tribunal Central Administrativo para o ano de 2004.\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 74/2002 - Diário da República n.º 72/2002, Série I-A de 2002-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2002-300608), em vigor a partir de 2002-03-27"
+  },
+  "221312057": {
+   "fragment_id": "221325643",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de Junho de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Alberto de Sousa Martins.\n\nPromulgado em 27 de Julho de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 29 de Julho de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "911628116": {
+   "fragment_id": "221325636",
+   "type": 11,
+   "heading": "Artigo 2.º — Orçamento",
+   "in_force_from": "2025-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 152.º do/a [Decreto-Lei n.º 13-A/2025 - Diário da República n.º 48/2025, Suplemento, Série I de 2025-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), em vigor a partir de 2025-03-11, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Orçamento\n\n1 - Os tribunais superiores dispõem de orçamento próprio destinado a suportar as despesas com o quadro de magistrados e funcionários que lhes estão afectos, as demais despesas correntes e as despesas de capital necessárias ao exercício das suas competências.\n\n2 - O orçamento dos tribunais superiores é financiado por receitas próprias, por verbas do Orçamento do Estado e dos cofres geridos pelo Instituto de Gestão Financeira e Patrimonial da Justiça.\n\n3 - Constituem receitas próprias dos tribunais superiores o saldo de gerência do ano anterior, o produto de multas processuais, o produto da venda de publicações editadas, o produto da venda de merchandising, o produto da venda de bilhetes para visitas aos espaços públicos, o produto da receita de arrendamento/utilização de espaços públicos; e ainda quaisquer outras que lhes sejam atribuídas por lei, contrato ou outro título.\n\n4 - O produto das receitas próprias referidas no número anterior pode ser aplicado na realização de despesas correntes e de capital que, em cada ano, não possam ser suportadas pelas verbas inscritas no Orçamento do Estado, designadamente despesas de edição de publicações ou de realização de estudos, análises ou outros trabalhos extraordinários.\n\n> Alterado pelo/a Artigo 152.º do/a [Decreto-Lei n.º 13-A/2025 - Diário da República n.º 48/2025, Suplemento, Série I de 2025-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), em vigor a partir de 2025-03-11, produz efeitos a partir de 2025-01-01"
+  }
+ }
+}

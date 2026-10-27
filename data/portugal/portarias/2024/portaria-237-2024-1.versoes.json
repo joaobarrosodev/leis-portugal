@@ -1,0 +1,138 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:889495845:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-939004563",
+ "dre_path": "/dr/detalhe/portaria/237-2024-889495845",
+ "source_lastmod": "2025-12-19",
+ "versions": [
+  {
+   "date": "2024-10-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "939077875",
+    "939078075",
+    "939078275",
+    "939078475",
+    "939078675",
+    "939078875",
+    "939079075"
+   ]
+  },
+  {
+   "date": "2025-12-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:989749710:por",
+     "title": "Portaria n.º 450/2025/1",
+     "published": "2025-12-19",
+     "dre_path": "/dr/detalhe/portaria/450-2025-989749710"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "939077875",
+    "939078075",
+    "989734461",
+    "989734462",
+    "989734463",
+    "939078875",
+    "939079075"
+   ]
+  }
+ ],
+ "fragments": {
+  "939077875": {
+   "fragment_id": "939077775",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Decreto-Lei n.º 127/2014, de 22 de agosto, veio estabelecer o regime jurídico a que ficam sujeitos a abertura, a modificação e o funcionamento dos estabelecimentos prestadores de cuidados de saúde, qualquer que seja a sua denominação, natureza jurídica ou entidade titular da exploração, incluindo os estabelecimentos detidos por instituições particulares de solidariedade social (IPSS), bem como os estabelecimentos detidos por pessoas coletivas públicas.\n\nO n.º 2 do artigo 2.º do mesmo preceito dispõe que a verificação dos requisitos técnicos de funcionamento dos estabelecimentos prestadores de cuidados de saúde é titulada por licença, exceto se o estabelecimento em causa for detido por pessoa coletiva pública ou for abrangido pelo artigo 13.º do Decreto-Lei n.º 138/2013, de 9 de outubro, caso em que a verificação dos respetivos requisitos é titulada por declaração de conformidade.\n\nO n.º 4 do mesmo artigo 2.º sujeita a obtenção dessa declaração de conformidade a procedimento próprio a definir por portaria do membro do Governo responsável pela área da saúde.\n\nA tendência que tem vindo a desenhar-se na recente legislação sobre esta matéria é a da igualdade entre unidades prestadoras de cuidados de saúde, independentemente do setor detentor da respetiva propriedade.\n\nImporta, por isso, sujeitar as unidades detidas pelas pessoas coletivas públicas, bem como as abrangidas pelo artigo 13.º do Decreto-Lei n.º 138/2013, de 9 de outubro, aos mesmos requisitos de abertura e funcionamento e aos mesmos procedimentos que as demais unidades prestadoras de cuidados de saúde.\n\nAssim, ao abrigo do disposto no n.º 4 do artigo 2.º do Decreto-Lei n.º 127/2014, de 22 de agosto, na sua redação atual, manda o Governo, pela Ministra da Saúde, o seguinte:"
+  },
+  "939078075": {
+   "fragment_id": "939077975",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria define os requisitos de abertura e funcionamento e o procedimento ao qual obedece a obtenção de declaração de conformidade para as unidades prestadoras de cuidados de saúde detidas por pessoas coletivas públicas ou abrangidas pelo artigo 13.º do Decreto-Lei n.º 138/2013, de 9 de outubro."
+  },
+  "939078275": {
+   "fragment_id": "939078175",
+   "type": 11,
+   "heading": "Artigo 2.º — Requisitos de abertura e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Requisitos de abertura e funcionamento\n\nOs requisitos de abertura e funcionamento das unidades prestadoras de cuidados de saúde previstas no artigo 1.º são os mesmos que se encontram estabelecidos em diplomas próprios, nomeadamente para as unidades privadas de saúde."
+  },
+  "939078475": {
+   "fragment_id": "939078375",
+   "type": 11,
+   "heading": "Artigo 3.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Procedimento\n\n1 - O procedimento para a obtenção, pelas unidades previstas no artigo 1.º, da declaração de conformidade é o previsto nos números seguintes.\n\n2 - Aplica-se o procedimento simplificado, previsto no artigo 4.º do Decreto-Lei n.º 127/2014, de 22 de agosto, no respeitante às unidades das seguintes tipologias:\n\na) Clínicas e consultórios dentários;\n\nb) Clínicas e consultórios médicos;\n\nc) Centros de enfermagem;\n\nd) Unidades de medicina física e reabilitação;\n\ne) Unidades de radiologia;\n\nf) Postos de colheitas de genética médica e de análises clínicas.\n\n3 - Aplica-se o procedimento ordinário, previsto no artigo 5.º do Decreto-Lei n.º 127/2014, de 22 de agosto, no respeitante às unidades das restantes tipologias."
+  },
+  "939078675": {
+   "fragment_id": "939078575",
+   "type": 11,
+   "heading": "Artigo 4.º — Modelo de declaração de conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Modelo de declaração de conformidade\n\nA entidade competente para o licenciamento define por regulamento o modelo e conteúdo da declaração de conformidade."
+  },
+  "939078875": {
+   "fragment_id": "939078775",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "939079075": {
+   "fragment_id": "939078975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra da Saúde, Ana Paula Martins, em 29 de setembro de 2024."
+  },
+  "989734461": {
+   "fragment_id": "939078175",
+   "type": 11,
+   "heading": "Artigo 2.º — Requisitos de abertura e funcionamento",
+   "in_force_from": "2025-12-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 450/2025/1 - Diário da República n.º 244/2025, Série I de 2025-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/450-2025-989749710), em vigor a partir de 2025-12-20"
+   ],
+   "markdown": "###### Artigo 2.º — Requisitos de abertura e funcionamento\n\n1 - Os requisitos de abertura e funcionamento dos estabelecimentos prestadores de cuidados de saúde previstos no artigo 1.º são estabelecidos em diplomas próprios, definidos por portaria do membro do Governo responsável pela área da saúde.\n\n2 - Os requisitos de abertura e funcionamento previstos para os estabelecimentos prestadores de cuidados de saúde detidos por pessoas coletivas públicas, bem como os respetivos prazos de adaptação, são extensíveis aos estabelecimentos abrangidos pelo artigo 13.º do Decreto-Lei n.º 138/2013, de 9 de outubro.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 450/2025/1 - Diário da República n.º 244/2025, Série I de 2025-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/450-2025-989749710), em vigor a partir de 2025-12-20"
+  },
+  "989734462": {
+   "fragment_id": "939078375",
+   "type": 11,
+   "heading": "Artigo 3.º — Procedimento",
+   "in_force_from": "2025-12-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 450/2025/1 - Diário da República n.º 244/2025, Série I de 2025-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/450-2025-989749710), em vigor a partir de 2025-12-20"
+   ],
+   "markdown": "###### Artigo 3.º — Procedimento\n\n1 - A verificação dos requisitos técnicos de funcionamento dos estabelecimentos prestadores de cuidados de saúde previstos no artigo 1.º é titulada por declaração de conformidade, obtida mediante procedimento simplificado por mera comunicação prévia ou procedimento ordinário, consoante a tipologia em causa.\n\n2 - Aplica-se o procedimento simplificado, previsto no artigo 4.º do Decreto-Lei n.º 127/2014, de 22 de agosto, no respeitante às unidades das seguintes tipologias:\n\na) Clínicas e consultórios dentários;\n\nb) Clínicas e consultórios médicos;\n\nc) Centros de enfermagem;\n\nd) Unidades de medicina física e reabilitação, unidades de fisioterapia, de terapia da fala e de terapia ocupacional;\n\ne) Unidades de radiologia;\n\nf) Postos de colheitas de genética médica e de análises clínicas;\n\ng) Unidades de terapêuticas não convencionais;\n\nh) Outras que sejam identificadas nas portarias a que se referem os n.os 1 e 5 do artigo 2.º do Decreto-Lei n.º 127/2014, de 22 de agosto.\n\n3 - Aplica-se o procedimento ordinário, previsto no artigo 5.º do Decreto-Lei n.º 127/2014, de 22 de agosto, aos estabelecimentos prestadores de cuidados de saúde no respeitante às tipologias que não sejam abrangidas pelo procedimento simplificado por mera comunicação prévia.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 450/2025/1 - Diário da República n.º 244/2025, Série I de 2025-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/450-2025-989749710), em vigor a partir de 2025-12-20"
+  },
+  "989734463": {
+   "fragment_id": "939078575",
+   "type": 11,
+   "heading": "Artigo 4.º — Modelo de declaração de conformidade",
+   "in_force_from": "2025-12-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 450/2025/1 - Diário da República n.º 244/2025, Série I de 2025-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/450-2025-989749710), em vigor a partir de 2025-12-20"
+   ],
+   "markdown": "###### Artigo 4.º — Modelo de declaração de conformidade\n\nO modelo e conteúdo da declaração de conformidade são aprovados pelo Conselho de Administração da Entidade Reguladora da Saúde.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 450/2025/1 - Diário da República n.º 244/2025, Série I de 2025-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/450-2025-989749710), em vigor a partir de 2025-12-20"
+  }
+ }
+}

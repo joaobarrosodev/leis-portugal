@@ -1,0 +1,188 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31973L0361:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01973L0361-20030605",
+ "dre_path": null,
+ "source_lastmod": "2003-06-05",
+ "versions": [
+  {
+   "date": "1973-12-05",
+   "future": false,
+   "celex": "31973L0361",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a44928bfac9ec324",
+    "1a0b1f8eb012a622",
+    "9c7cbd684125af9d",
+    "f594487d4fba77d6",
+    "017dc68369ba62bc",
+    "fe38458390772749",
+    "69c227622efdfb35",
+    "7ab34f4204670dc9",
+    "b0a26ddbbd3a896b"
+   ]
+  },
+  {
+   "date": "2003-06-05",
+   "future": false,
+   "celex": "01973L0361-20030605",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO",
+    "Adita Artigo 1.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o"
+   ],
+   "fragments": [
+    "cc176a0ac67a629d",
+    "67657e80f46669b0",
+    "5747196baf845f6f",
+    "8c047987e3e7db70",
+    "2476b9a9d81e8f9b",
+    "60ca8d3b684bbe2d",
+    "cfca8fd3d6ea5a17"
+   ]
+  }
+ ],
+ "fragments": {
+  "a44928bfac9ec324": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 73/361/CEE do Conselho, de 19 de Novembro de 1973, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-Membros respeitantes à certificação e à marcação de cabos metálicos, correntes e ganchos** *Jornal Oficial nº L 335 de 05/12/1973 p. 0051 - 0055 Edição especial finlandesa: Capítulo 13 Fascículo 3 p. 0168 Edição especial grega: Capítulo 13 Fascículo 2 p. 0140 Edição especial sueca: Capítulo 13 Fascículo 3 p. 0168 Edição especial espanhola: Capítulo 13 Fascículo 3 p. 0093 Edição especial portuguesa: Capítulo 13 Fascículo 3 p. 0093*\n\nDIRECTIVA DO CONSELHO de 19 de Novembro de 1973 relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros respeitantes à certificação e à marcação de cabos metálicos, correntes e ganchos\n\n(73/361/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu,\n\nTendo em conta o parecer do Comité Económico e Social,\n\nConsiderando que em vários Estados-membros é estabelecida uma certificação e uma marcação para certos cabos metálicos, correntes e ganchos destinados a serem utilizados para elevação ou movimentação que estas prescrições diferem de um Estado-membro para outro; que, pela sua disparidade, entravam o comércio na Comunidade Económica Europeia;\n\nConsiderando que estes obstáculos ao estabelecimento e ao funcionamento do mercado comum podem ser reduzidos, ou mesmo eliminados, se forem adoptadas as mesmas disposições referentes à certificação e à marcação de cabos metálicos, correntes e ganchos por todos os Estados-membros, quer em complemento, quer em substituição das disposições nacionais actuais;\n\nConsiderando que a presente directiva se limita às disposições relativas à certificação e à marcação de cabos metálicos, correntes e ganchos; que a certificação e a marcação permitirão aos fabricantes e utilizadores de aparelhos de elevação conhecer, nomeadamente, as características desses cabos metálicos, correntes e ganchos; que, além disso, directivas relativas às regras de construção dos diferentes aparelhos de elevação, a adoptar posteriormente, incluirão disposições relativas ao emprego específico dos cabos, correntes e ganchos;\n\nConsiderando que o progresso técnico requer uma adaptação rápida das disposições técnicas relativas aos aparelhos e meios de elevação; que convém, a fim de facilitar a aplicação das medidas necessárias para esse efeito, prever um procedimento que instaure uma cooperação estreita entre os Estados-membros e a Commissão no âmbito de um Comité para adaptação ao progresso técnico das directivas que visam a eliminação dos entraves técnicos ao comércio intracomunitário no sector dos aparelhos e meios de elevação,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "1a0b1f8eb012a622": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nA presente directiva diz respeito aos meios de elevação, com exclusão:\n\n- dos meios de elevação usados,\n\n- dos meios de elevação utilizados a bordo dos navios e nos caminhos-de-ferro, funiculares e teleféricos.\n\nPara efeitos do disposto na presente directiva, entende-se por meios de elevação os cabos metálicos, as correntes em varão redondo de aço e os ganchos destinados a operações de elevação ou movimentação."
+  },
+  "9c7cbd684125af9d": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Os Estados-membros não podem proibir ou restringir, por motivos relacionados com a certificação ou a marcação, a colocação no mercado dos meios de elevação a que se refere o artigo 1o, se estes estiverem munidos de um certificado e de uma marcação em conformidade com as prescrições constantes do anexo.\n\n2. Contudo, se um Estado-membro verificar que as características, nomeadamente as mínimas, de um meio de elevação não estão em conformidade com as indicadas no certificado, pode suspender a colocação no mercado desse meio de elevação. Desse facto informará imediatamente os outros Estados-membros e a Comissão, especificando os motivos da sua decisão.\n\nSe um Estado-membro contestar o fundamento da medida acima referida, os Estados-membros interessados esforçar-se-ao por resolver o diferendo.\n\nA Comissão é mantida informada. Procede, na medida do necessário, às consultas adequadas tendo em vista a obtenção de uma solução."
+  },
+  "f594487d4fba77d6": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nOs Estados-membros podem exigir que, no seu território, na altura da oferta e da venda ao consumidor final, os certificados e marcações previstos pela presente directiva sejam expressos sob a forma de símbolos aceites a nível internacional ou nas suas línguas nacionais."
+  },
+  "017dc68369ba62bc": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. É instituído um Comité para adaptação ao progresso técnico das directivas que visam a eliminação dos entraves técnicos ao comércio no sector dos aparelhos e meios de elevação, a seguir designado «Comité», composto por representantes dos Estados-membros e presidido por um representante da Comissão.\n\n2. O Comité estabelecerá o seu regulamento interno.\n\n3. As alterações necessárias para adaptar ao progresso técnico as disposições do anexo serão adoptadas em conformidade com o procedimento previsto no artigo 5o."
+  },
+  "fe38458390772749": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Quando for feita remissão ao procedimento definido no presente artigo, o assunto será submetido aí apreciação do Comité pelo seu presidente, quer por sua iniciativa quer a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão submeterá ao Comité um projecto de medidas a tomar. O Comité emitirá o seu parecer sobre esse projecto, num prazo que o presidente pode fixar em função da urgência da questão em causa. Pronunciar-se-á por maioria de quarenta e um votos, sendo atribuída aos votos dos Estados-membros a ponderação prevista no no 2 do artigo 148o do Tratado. O presidente não participará na votação.\n\n3. a) A Comissão adoptará as medidas preconizadas quando forem conformes ao parecer do Comité;\n\nb) Quando as medidas preconizadas não forem conformes ao parecer do Comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada;\n\nc) Se, decorridos três meses a contar da apresentação da proposta ao Conselho, este não tiver deliberado, as medidas propostas serão adoptadas pela Comissão."
+  },
+  "69c227622efdfb35": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Os Estados-membros porão em vigor as disposições necessárias para darem cumprimento à presente directiva no prazo de dezoito meses a contar da sua notificação e desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros devem assegurar que seja comunicado à Comissão o texto das principais disposições de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "7ab34f4204670dc9": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nOn Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 19 de Novembro de 1973.\n\nPelo Conselho\n\nO Presidente\n\nIb FREDERIKSEN"
+  },
+  "b0a26ddbbd3a896b": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n1. Disposições gerais\n\n1.1. Cada comprimento de cabo metálico e de corrente, bem como cada gancho, deve possuir uma marca ou, se a marcação não for possível, uma placa ou um anel inamovíveis, que deve conter as referências do fabricante ou do seu representante estabelecido na Comunidade Económica Europeia e o número dos respectivos certificados (ver pontos 2.1, 3.1 e 4.1).\n\n1.2. O fabricante ou o seu representante estabelecido na Comunidade Económica Europeia garante que cada comprimento de cabo metálico e de corrente, bem como cada gancho, corresponde às características indicadas nos certificados (ver pontos 2.1, 3.1 e 4.1).\n\n2. Disposições respeitantes aos cabos metálicos\n\n2.1. O fabricante ou o seu representante estabelecido na Comunidade Económica Europeia deve emitir, para cada cabo, um certificado que contenha, pelo menos, as seguintes indicações:\n\na) Indicações obrigatórias:\n\n- nome e morada do fabricante ou do seu representante estabelecido na Comunidade Económica Europeia,\n\n- diâmetro nominal do cabo,\n\n- comprimento do cabo fornecido,\n\n- massa média por metro linear,\n\n- modo e sentido de formação do cabo (enrolamento dos fios à direita ou à esquerda, preformado ou não, cruzado ou «Lang»,...),\n\n- passo de cablagem,\n\n- construção (composição do cabo, natureza e comprimento da alma do cabo, número de cordões, número de fios); juntar o esquema cotado da secção,\n\n- características do aço (classes ou qualidades);\n\n- a tensão nominal de rotura à tracção do arame,\n\n- a resistência prática mais baixa à rotura sob tracção do cabo,\n\n- a tensão mínima prática de rotura à tracção do cabo,\n\n- pormenores sobre a natureza da protecção contra a corrosão interna e externa (no caso de zincagem, deve ser indicada a qualidade da zincagem),\n\n- certificação de que a cabo é feito de uma só peça e que as suas características são constantes ao longo de todo o comprimento,\n\n- pormenores sobre a natureza e métodos dos ensaios de tracção, torção, flexão, bem como os seus resultados,\n\n- limites de temperatura de utilização do cabo,\n\n- instruções de manutenção e inspecção.\n\nb) Indicação eventual\n\n- se o cabo é fabricado de acordo com uma norma nacional ou internacional, indicar essa norma.\n\n3. Disposições relativas às correntes em varão rendondo de aço\n\n3.1. O fabricante ou o seu representante estabelecido na Comunidade Económica Europeia deve emitir, para cada corrente, um certificado que contenha, pelo menos, as seguintes indicações:\n\na) Indicações obrigatórias:\n\n- o nome e morada do fabricante ou do seu representante estabelecido na Comunidade Económica Europeia,\n\n- características da corrente (comprimento e largura nominais do elo, tolerâncias máximas, diâmetro do fio, corrente calibrada ou não); juntar um esquema cotado de dois elos, pelo menos,\n\n- comprimento da corrente fornecida,\n\n- massa média por metro linear,\n\n- método de ligação dos elos (por forjagem ou soldadura eléctrica),\n\n- valor da carga de ensaio aplicada à totalidade da corrente após tratamento térmico,\n\n- tensão de rotura efectiva, mínima, à tracção da corrente, à temperatura normal,\n\n- tensão de rotura efectiva mínima à tracção da corrente à temperatura de utilização,\n\n- alongamento proporcional de rotura à tracção,\n\n- características do material da corrente (por exemplo, classe ou qualidade),\n\n- tipo de tratamento térmico aplicado e, se necessário, a aplicar ulteriormente pelo fabricante ou por uma empresa especializada,\n\n- pormenores sobre a natureza e os métodos dos ensaios de tracção e seus resultados,\n\n- limites de temperatura de utilização da corrente,\n\n- instruções de manutenção e de inspecção;\n\nb) Indicações eventuais:\n\n- se a corrente é fabricada de acordo com uma norma nacional ou internacional, indicar essa norma,\n\n- a indicação «para qualquer tratamento térmico, consultar o fabricante ou e seu representante», se se tratar de uma corrente que tenha sido submetida a um tratamento térmico especial.\n\n3.2. Um elo em cada vinte, pelo menos, ou um elo em cada metro, optando pelo menor destes dois intervalos, deve possuir, de forma legível e indelével, uma marca de qualidade de acordo com uma norma nacional ou internacional. As marcas devem ter as seguintes dimensões:\n\n\"\" ID=\"1\">Até 12,5, inclusive> ID=\"2\">3\"> ID=\"1\">Acima de 12,5 até 26, inclusive> ID=\"2\">4,5\"> ID=\"1\">Acima de 26> ID=\"2\">6\">\n\n4. Disposições relativas aos ganchos\n\n4.1. O fabricante ou o seu representante estabelecido na Comunidade Económica Europeia deve emitir, para cada lote de ganchos ou, a pedido do utilizador, para cada gancho, um certificado que contenha, pelo menos, as seguintes indicações:\n\na) Indicações obrigatórias:\n\n- nome e morada do fabricante ou de seu representante estabelecido na Comunidade Económica Europeia,\n\n- tipo de gancho,\n\n- características dimensionais\n\n- referências de identificação, se se tratar de um gancho que obedeça a normas nacionais ou internacionais,\n\n- se o gancho não é fabricado de acordo com uma norma nacional ou internacional;\n\n- a carga que provoca uma abertura suficiente para a libertação dessa carga ou a carga de rotura (o fabricante deve precisar se se trata da abertura do gancho ou de rotura),\n\n- a carga máxima que não provoca uma deformação permanente,\n\n- as características do aço (classe ou qualidade),\n\n- o tipo de tratamento térmico aplicado e, se necessário, a aplicar posteriormente pelo fabricante ou por uma empresa especializada,\n\n- pormenores sobre a natureza e os métodos dos ensaios de tracção e seus resultados,\n\n- limites de temperatura de utilização dos ganchos,\n\n- instruções de manutenção e de inspecção;\n\nb) Indicação eventual:\n\n- a indicação« para qualquer tratamento térmico, consultar o fabricante ou o seu representante, se se tratar de ganchos que tenham sido submetidos a um tratamento térmico especial.\n\n4.2. Os ganchos devem possuir, de forma legível e indelével, um marca de qualidade de acordo com una norma nacional ou internacional."
+  },
+  "cc176a0ac67a629d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1973L0361 — PT — 05.06.2003 — 005.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31973L0361:PT:NOT) [DIRECTIVA DO CONSELHO de 19 de Novembro de 1973 relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros respeitantes à certificação e à marcação de cabos metálicos, correntes e ganchos (73/361/CEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31973L0361:PT:NOT) (JO L 335, 5.12.1973, p.51)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31976L0434:PT:NOT) | [Directiva da Comissão 76/434/CEE de 13 de Abril de 1976](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31976L0434:PT:NOT) | L 122 | 20 | 8.5.1976 |\n| [►M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0368:PT:NOT) | [Directiva do Conselho 91/368/CEE de 20 de Junho de 1991](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0368:PT:NOT) | L 198 | 16 | 22.7.1991 |\n| [►M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0807:PT:NOT) | [Regulamento (CE) n.o 807/2003 do Conselho de 14 de Abril de 2003](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0807:PT:NOT) | L 122 | 36 | 16.5.2003 |\n\nAlterado por:\n\n| [A1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11979H:FR:NOT) | [Acto de Adesão da Grécia](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11979H:FR:NOT) | L 291 | 17 | 19.11.1979 |\n| --- | --- | --- | --- | --- |\n| [A2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11985I:PT:NOT) |  | L 302 | 23 | 15.11.1985 |\n\n(*) Este acto não existe em língua portuguesa.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31973L0361:PT:NOT)\n\nDIRECTIVA DO CONSELHO\n\nde 19 de Novembro de 1973\n\nrelativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros respeitantes à certificação e à marcação de cabos metálicos, correntes e ganchos\n\n(73/361/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100.o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu,\n\nTendo em conta o parecer do Comité Económico e Social,\n\nConsiderando que em vários Estados-membros é estabelecida uma certificação e uma marcação para certos cabos metálicos, correntes e ganchos destinados a serem utilizados para elevação ou movimentação que estas prescrições diferem de um Estado-membro para outro; que, pela sua disparidade, entravam o comércio na Comunidade Económica Europeia;\n\nConsiderando que estes obstáculos ao estabelecimento e ao funcionamento do mercado comum podem ser reduzidos, ou mesmo eliminados, se forem adoptadas as mesmas disposições referentes à certificação e à marcação de cabos metálicos, correntes e ganchos por todos os Estados-membros, quer em complemento, quer em substituição das disposições nacionais actuais;\n\nConsiderando que a presente directiva se limita às disposições relativas à certificação e à marcação de cabos metálicos, correntes e ganchos; que a certificação e a marcação permitirão aos fabricantes e utilizadores de aparelhos de elevação conhecer, nomeadamente, as características desses cabos metálicos, correntes e ganchos; que, além disso, directivas relativas às regras de construção dos diferentes aparelhos de elevação, a adoptar posteriormente, incluirão disposições relativas ao emprego específico dos cabos, correntes e ganchos;\n\nConsiderando que o progresso técnico requer uma adaptação rápida das disposições técnicas relativas aos aparelhos e meios de elevação; que convém, a fim de facilitar a aplicação das medidas necessárias para esse efeito, prever um procedimento que instaure uma cooperação estreita entre os Estados-membros e a Commissão no âmbito de um Comité para adaptação ao progresso técnico das directivas que visam a eliminação dos entraves técnicos ao comércio intracomunitário no sector dos aparelhos e meios de elevação,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "67657e80f46669b0": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva diz respeito aos meios de elevação, com exclusão:\n\n— dos meios de elevação usados,\n\n— dos meios de elevação utilizados a bordo dos navios e nos caminhos-de-ferro, funiculares e teleféricos.\n\nPara efeitos do disposto na presente directiva, entende-se por meios de elevação os cabos metálicos, as correntes em varão redondo de aço e os ganchos destinados a operações de elevação ou movimentação.\n\n[▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0368:PT:NOT) —————\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31973L0361:PT:NOT)"
+  },
+  "5747196baf845f6f": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. É instituído um Comité para adaptação ao progresso técnico das directivas que visam a eliminação dos entraves técnicos ao comércio no sector dos aparelhos e meios de elevação, a seguir designado «Comité», composto por representantes dos Estados-membros e presidido por um representante da Comissão.\n\n[▼M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0807:PT:NOT) —————\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31973L0361:PT:NOT)\n\n3. As alterações necessárias para adaptar ao progresso técnico as disposições do anexo serão adoptadas em conformidade com o procedimento previsto no artigo 5.o\n\n[▼M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0807:PT:NOT)"
+  },
+  "8c047987e3e7db70": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. A Comissão é assistida pelo Comité para a Adaptação ao Progresso Técnico das Directivas que visam a eliminação dos entraves técnicos ao comércio no sector dos aparelhos e meios de elevação.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.o e 7.o da Decisão 1999/468/CE ([1](http://publications.europa.eu/resource/cellar/601ce859-02cf-4e25-820e-46621f1c1eb7.0018.02/DOC_1#E0001)).\n\nO prazo previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31973L0361:PT:NOT)"
+  },
+  "2476b9a9d81e8f9b": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-membros porão em vigor as disposições necessárias para darem cumprimento à presente directiva no prazo de dezoito meses a contar da sua notificação e desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros devem assegurar que seja comunicado à Comissão o texto das principais disposições de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "60ca8d3b684bbe2d": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOn Estados-membros são destinatários da presente directiva.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31976L0434:PT:NOT)"
+  },
+  "cfca8fd3d6ea5a17": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n1. DISPOSIÇÕES GERAIS\n\n1.1. Cada comprimento de cabo metálico e de corrente, bem como cada gancho, deve possuir uma marca ou, se a marcação não for possível, uma placa ou um anel inamovíveis que deve conter as referências do fabricante ou do seu representante estabelecido na Comunidade Económica Europeia e identificar o respectivo certificado (ver pontos 2.1, 3.1 e 4.1).\n\n1.2. O fabricante ou o seu representante estabelecido na Comunidade Económica Europeia comprova pelo certificado respectivo que cada comprimento de cabo metálico e de corrente, bem como cada gancho, corresponde às características nele indicadas (ver pontos 2.1, 3.1 e 4.1).\n\n2. DISPOSIÇÕES RELATIVAS AOS CABOS METÁLICOS\n\n2.1. O fabricante ou o seu representante estabelecido na Comunidade Económica Europeia deve emitir, para cada cabo metálico, um certificado que contenha, pelo menos, as seguintes indicações: 1. Nome e morada do fabricante ou do seu representante estabelecido na Comunidade Económica Europeia; 2. Diâmetro nominal; 3. Massa nominal por metro linear; 4. O modo (vulgar, Lang e alternado) e o sentido de formação do cabo (à direita ou à esquerda); 5. Preformado ou não preformado; 6. Construção (composição e tipo de cabo metálico, número de cordões, número de fios por cordão, natureza da alma do cabo e composição, se for de aço); 7. Classe(s) de resistência à tracção dos fios; 8. Carga mínima de rotura do cabo (carga mínima que deve ser atingida aquando do ensaio da tracção até à rotura). Se tiver sido efectuado um ensaio de tracção até à rotura, indicar todos os dados relativos ao ensaio; 9. Revestimento de superfície: se o cabo é galvanizado, indicar o grau de galvanização ou a qualidade. No caso de aplicação de outro processo de protecção, fornecer os pormenores; 10. Se os fios não são de aço ao carbono, indicar as especificações; 11. Se o cabo metálico é fabricado de acordo com uma norma nacional ou internacional, indicar essa forma; 12. No caso de terem sido efectuados ensaios dos fios e/ou do cabo, indicar as normas ou especificações a que obedecem. Se tiverem sido efectuados ensaios não conformes a uma norma ou especificação, indicá-los em pormenor, bem como os seus resultados; 13. Se a construção ou a composição do cabo requerem uma manutenção e/ou uma inspecção especiais, fornecer as respectivas instruções; 14. Assinatura do responsável, em conformidade com o ponto 1; 15. Cargo do signatário na empresa fabricante ou representante autorizado do fabricante; 16. Local e data.\n\n3. DISPOSIÇÕES RELATIVAS ÀS CORRENTES EM VARÃO REDONDO DE AÇO\n\n3.1. O fabricante ou o seu representante estabelecido na Comunidade Económica Europeia deve emitir, para cada corrente, um certificado que contenha, pelo menos, as seguintes indicações: 1. Nome e morada do fabricante ou do seu representante estabelecido na Comunidade Económica Europeia; 2. Características da corrente não calibrada: comprimento exterior nominal do elo, largura exterior nominal do elo, diâmetro nominal do varão e indicação da tolerância do diâmetro; juntar um esquema cotado de, pelo menos, dois elos consecutivos, com indicação das dimensões; 3. Características da corrente calibrada: comprimento exterior nominal do elo, largura exterior nominal do elo, diâmetro nominal do varão, passo nominal, bem como a indicação das tolerâncias de todas estas dimensões; juntar um esquema cotado de, pelo menos, dois elos consecutivos, com indicação das dimensões; 4. Massa nominal por metro linear; 5. Método de soldadura dos elos; 6. Valor da carga de ensaio aplicada à totalidade da corrente após tratamento térmico; 7. Carga mínima de rotura de corrente (carga mínima que deve ser atingida aquando do ensaio de tracção até à rotura); 8. Alongamento total mínimo na rotura expresso em percentagem;indicação do comprimento da amostra ou do número dos elos; 9. Propriedades do material da corrente (por exemplo: classe internacional da corrente ou, eventualmente, especificação do aço da corrente); 10. Tipo de tratamento térmico aplicado; 11. Se a corrente é fabricada de acordo com uma norma nacional ou internacional, indicar essa norma; 12. No caso de terem sido efectuados ensaios da corrente, indicar as normas ou especificações a que obedecem. Se tiverem sido efectuados ensaios não conformes a uma norma ou especificação, indicá-los em pormenor, bem como os seus resultados; 13. Se as propriedades da corrente requerem um tratamento, uma manutenção e/ou uma inspecção especiais, fornecer as respectivas indicações ou instruções; 14. Assinatura do responsável, em conformidade com o ponto 1; 15. Cargo do signatário na empresa fabricante ou representante autorizado do fabricante; 16. Local e data.\n\n3.2. Se as correntes são fabricadas em conformidade com uma norma nacional ou internacional, devem possuir, de forma legível e indelével, as marcas de qualidade conformes à referida norma. Estas marcas de qualidade devem ser apostas em cada comprimento individualizado de corrente. É necessária, pelo menos, uma marca em cada metro ou, pelo menos, uma marca em cada vinte elos, optando pelo menor destes dois intervalos. As marcas devem ter as seguintes dimensões: Diâmetro nominal do varão mm Dimensões mínimas dos algarismos mm Até 8, inclusive 2 Acima de 8 até 12,5, inclusive 3 Acima de 12,5 até 26, inclusive 4,5 Acima de 26 6\n\nDiâmetro nominal do varão mm Dimensões mínimas dos algarismos mm\n\nAté 8, inclusive 2\n\nAcima de 8 até 12,5, inclusive 3\n\nAcima de 12,5 até 26, inclusive 4,5\n\nAcima de 26 6\n\n4. DISPOSIÇÕES RELATIVAS AOS GANCHOS\n\n4.1. O fabricante ou o seu representante estabelecido na Comunidade Económica Europeia deve emitir, para cada lote de ganchos ou, a pedido do utilizador, para cada gancho, um certificado que contenha, pelo menos, as seguintes indicações: 1. Nome e morada do fabricante ou do seu representante estabelecido na Comunidade Económica Europeia; 2. Se o certificado se referir a um lote de ganchos, indicar o número de ganchos do lote; 3. Tipo de gancho; 4. Características dimensionais: juntar um esquema cotado do gancho com as dimensões principais; 5. Carga máxima de ensaio que pode ser aplicada ao gancho de modo que não haja deformação permanente significativa depois de retirada; em nenhum caso a deformação permanente medida na abertura do gancho pode ultrapassar 0,25 %; 6. Carga a que o gancho se abre ou abrirá a um ponto tal que deixe de estar em condições de a suportar; deve ser aplicada a carga máxima de rotura no caso de um gancho cujo fabrico é tal que se parte ou partirá em vez de deixar escapar a carga em consequência da sua abertura; 7. Propriedades do material do gancho (por exemplo: classe internacional do gancho ou, eventualmente, especificação do aço do gancho); 8. Tipo de tratamento térmico aplicado durante o fabrico do gancho; 9. Se o gancho é fabricado de acordo com uma norma nacional ou internacional, indicar essa norma e identificar o gancho em conformidade com essa norma; 10. No caso de terem sido efectuados ensaios do gancho, indicar as normas ou especificações a que obedecem. Se tiverem sido efectuados ensaios não conformes a uma norma ou especificação, indicá-los em pormenor (no caso de lotes, indicar o número de amostras), bem como os seus resultados; 11. Se as propriedades do gancho requerem um tratamento, uma manutenção e/ou uma inspecção especiais, fornecer as respectivas indicações ou instruções 12. Assinatura do responsável, em conformidade com o ponto 1; 13. Cargo do signatário na empresa fabricante ou representante autorizado do fabricante; 14. Local e data.\n\n4.2. Se os ganchos são fabricados em conformidade com uma norma nacional ou internacional, devem possuir, de forma legível e indelével, as marcas de qualidade conformes à referida norma.\n\n([1](http://publications.europa.eu/resource/cellar/601ce859-02cf-4e25-820e-46621f1c1eb7.0018.02/DOC_1#src.E0001)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45)."
+  }
+ }
+}

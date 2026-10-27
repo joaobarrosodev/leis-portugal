@@ -1,0 +1,138 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:66397917:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-118320452",
+ "dre_path": "/dr/detalhe/portaria/17-a-2015-66397917",
+ "source_lastmod": "2025-05-30",
+ "versions": [
+  {
+   "date": "2015-01-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "920348272",
+    "118366802",
+    "118366803",
+    "118366804",
+    "118366805"
+   ]
+  },
+  {
+   "date": "2018-02-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114610497:por",
+     "title": "Portaria n.º 40/2018",
+     "published": "2018-01-31",
+     "dre_path": "/dr/detalhe/portaria/40-2018-114610497"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "920348272",
+    "920348273",
+    "920348274",
+    "920373475",
+    "920373476",
+    "920373477"
+   ]
+  }
+ ],
+ "fragments": {
+  "920348272": {
+   "fragment_id": "118320453",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2018-02-01",
+   "changed_by": [],
+   "markdown": "Portaria n.º 17-A/2015\n\nde 30 de janeiro\n\nA Declaração Mensal de Remunerações - AT destina-se a dar cumprimento à obrigação declarativa a que se refere a subalínea i) da alínea c) e a alínea d), do n.º 1 do artigo 119.º do Código do Imposto sobre o Rendimento das Pessoas Singulares (IRS), aprovado pelo Decreto-Lei nº 442-A/88, de 30 de novembro.\n\nA Lei n.º 82.º-E/2014, de 31 de dezembro, que aprovou a reforma da tributação das pessoas singulares, alterou profundamente o Código do IRS, nomeadamente com o aditamento do artigo 2.º-A, que integrou o anterior n.º 8 do artigo 2.º, acrescentando à delimitação negativa da incidência os \"vales educação\" previstos no Decreto-Lei n.º 26/99, de 28 de janeiro, e as importâncias suportadas pelas entidades patronais com encargos, indemnizações ou compensações, pagos no ano da deslocação pela mudança do local de trabalho, bem como com as alterações às alíneas b) e c) do n.º 5 do artigo 12.º e ainda do n.º 1 do artigo 99.º.\n\nParalelamente, a mesma Lei aditou o artigo 39.º-A ao Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, estabelecendo uma isenção de IRS para os trabalhadores deslocados no estrangeiro.\n\nPerante as referidas alterações legislativas, mostra-se necessário proceder à adaptação do texto das instruções de preenchimento da Declaração Mensal de Remunerações - AT.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do artigo 8.º do Decreto-Lei n.º 442-A/88, de 30 de novembro, e do n.º 1 do artigo 144.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, o seguinte:\n\n> Nota: [Artigo 4.º, Portaria n.º 31/2017 - Diário da República n.º 13/2017, Série I de 2017-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/31-2017-105770334) Revoga, a partir de 19 de janeiro de 2017, com efeitos a 1 de janeiro de 2017, as anteriores instruções de preenchimento aprovadas pela presente portaria."
+  },
+  "118366802": {
+   "fragment_id": "118320454",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nSão aprovadas as instruções de preenchimento da Declaração Mensal de Remunerações - AT, destinada a dar cumprimento à obrigação declarativa a que se refere a subalínea i) da alínea c), e a alínea d), do n.º 1 do artigo 119.º, do Código do IRS, anexas à presente portaria."
+  },
+  "118366803": {
+   "fragment_id": "118320455",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Norma revogatória\n\nSão revogadas as anteriores instruções de preenchimento aprovadas pela Portaria n.º 15-A/2014, de 24 de dezembro."
+  },
+  "118366804": {
+   "fragment_id": "118320456",
+   "type": 11,
+   "heading": "Artigo 3.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Produção de efeitos\n\nA presente portaria produz efeitos desde 1 de janeiro de 2015, devendo as instruções agora aprovadas ser utilizadas no preenchimento da Declaração Mensal de Remunerações - AT relativa a rendimentos pagos ou colocados à disposição a partir daquela data."
+  },
+  "118366805": {
+   "fragment_id": "118320457",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "920348273": {
+   "fragment_id": "118320454",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2018-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 40/2018 - Diário da República n.º 22/2018, Série I de 2018-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/40-2018-114610497), em vigor a partir de 2018-02-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nSão aprovadas as instruções de preenchimento da Declaração Mensal de Remunerações - AT, destinada a dar cumprimento à obrigação declarativa a que se refere a subalínea i) da alínea c), e a alínea d), do n.º 1 do artigo 119.º, do Código do IRS, anexas à presente portaria.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 40/2018 - Diário da República n.º 22/2018, Série I de 2018-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/40-2018-114610497), em vigor a partir de 2018-02-01"
+  },
+  "920348274": {
+   "fragment_id": "118320455",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma revogatória",
+   "in_force_from": "2018-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 40/2018 - Diário da República n.º 22/2018, Série I de 2018-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/40-2018-114610497), em vigor a partir de 2018-02-01",
+    "Retificado pelo/a [Declaração de Retificação n.º 10/2015 - Diário da República n.º 46/2015, Série I de 2015-03-06](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/10-2015-66674043), produz efeitos a partir de 2015-01-31"
+   ],
+   "markdown": "###### Artigo 2.º — Norma revogatória\n\nSão revogadas as anteriores instruções de preenchimento aprovadas pela Portaria n.º 15-A/2014, de 24 de janeiro.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 40/2018 - Diário da República n.º 22/2018, Série I de 2018-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/40-2018-114610497), em vigor a partir de 2018-02-01\n\n> Retificado pelo/a [Declaração de Retificação n.º 10/2015 - Diário da República n.º 46/2015, Série I de 2015-03-06](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/10-2015-66674043), produz efeitos a partir de 2015-01-31"
+  },
+  "920373475": {
+   "fragment_id": "118320456",
+   "type": 11,
+   "heading": "Artigo 3.º — Produção de efeitos",
+   "in_force_from": "2018-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 40/2018 - Diário da República n.º 22/2018, Série I de 2018-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/40-2018-114610497), em vigor a partir de 2018-02-01"
+   ],
+   "markdown": "###### Artigo 3.º — Produção de efeitos\n\nA presente portaria produz efeitos desde 1 de janeiro de 2015, devendo as instruções agora aprovadas ser utilizadas no preenchimento da Declaração Mensal de Remunerações - AT relativa a rendimentos pagos ou colocados à disposição a partir daquela data.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 40/2018 - Diário da República n.º 22/2018, Série I de 2018-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/40-2018-114610497), em vigor a partir de 2018-02-01"
+  },
+  "920373476": {
+   "fragment_id": "118320457",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": "2018-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 40/2018 - Diário da República n.º 22/2018, Série I de 2018-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/40-2018-114610497), em vigor a partir de 2018-02-01"
+   ],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 40/2018 - Diário da República n.º 22/2018, Série I de 2018-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/40-2018-114610497), em vigor a partir de 2018-02-01"
+  },
+  "920373477": {
+   "fragment_id": "118320458",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2018-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 40/2018 - Diário da República n.º 22/2018, Série I de 2018-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/40-2018-114610497), em vigor a partir de 2018-02-01"
+   ],
+   "markdown": "O Secretário de Estado dos Assuntos Fiscais, Paulo de Faria Lince Núncio, em 28 de janeiro de 2015.\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 40/2018 - Diário da República n.º 22/2018, Série I de 2018-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/40-2018-114610497), em vigor a partir de 2018-02-01"
+  }
+ }
+}

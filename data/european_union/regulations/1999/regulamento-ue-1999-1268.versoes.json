@@ -1,0 +1,793 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31999R1268:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999R1268-20070101",
+ "dre_path": null,
+ "source_lastmod": "2007-01-01",
+ "versions": [
+  {
+   "date": "1999-06-26",
+   "future": false,
+   "celex": "31999R1268",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b35f92ccd9c41b7e",
+    "31ea7151bc15417f",
+    "28e0985c90b27aea",
+    "c1630d3f406de00e",
+    "e9f1ea4056266ad8",
+    "9e66e5fa7e674504",
+    "bb9ae2f7f33aa491",
+    "2ec644f5c73b2c7e",
+    "8bad012b1ae47ea8",
+    "debaa05ae42a8d1a",
+    "d110ec8ecf1f7c33",
+    "ccb325ecdc03fc8e",
+    "e6e6fec379fb4106",
+    "09e3214cb91324ec",
+    "6afc51434bdc0c0d",
+    "029718cfccf0381d",
+    "733ad41e5ea22b10",
+    "91ca2310e8f674c1",
+    "b6d60872ea5ec0e3",
+    "345f0f53438c649e",
+    "105d61f9f9368379",
+    "f71acdaba924c898",
+    "7242c4ed9f709b15"
+   ]
+  },
+  {
+   "date": "2004-04-30",
+   "future": false,
+   "celex": "01999R1268-20040430",
+   "acts": [
+    {
+     "id": "eu:celex:32001R2500:por",
+     "title": "M1",
+     "published": null,
+     "celex": "32001R2500"
+    },
+    {
+     "id": "eu:celex:32003R0696:por",
+     "title": "M2",
+     "published": null,
+     "celex": "32003R0696"
+    },
+    {
+     "id": "eu:celex:32004R0769:por",
+     "title": "REGULAMENTO (CE) N. o 769/2004 DO CONSELHO de 21 de Abril de 2004",
+     "published": null,
+     "celex": "32004R0769"
+    },
+    {
+     "id": "eu:celex:32004R2008:por",
+     "title": "REGULAMENTO (CE) N. o 2008/2004 DO CONSELHO de 16 de Novembro de 2004",
+     "published": null,
+     "celex": "32004R2008"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Medidas",
+    "Altera Artigo 3.º — Complementaridade e assistência técnica",
+    "Altera Artigo 16.º — Entrada em vigor",
+    "Adita TÍTULO 1",
+    "Adita OBJECTIVOS E TIPOS DE MEDIDAS",
+    "Adita TÍTULO II",
+    "Adita ASSISTÊNCIA",
+    "Adita TÍTULO III",
+    "Adita DISPOSIÇÕES FINANCEIRAS",
+    "Adita Artigo 8.º — Taxa da contribuição comunitária e intensidade da ajuda",
+    "Adita TÍTULO IV",
+    "Adita REGRAS DE EXECUÇÃO",
+    "Adita TÍTULO V",
+    "Adita OUTRAS DISPOSIÇÕES",
+    "Adita TÍTULO VI",
+    "Adita DISPOSIÇÕES FINAIS",
+    "Adita Notas",
+    "Suprime TÍTULO 1 — OBJECTIVOS E TIPOS DE MEDIDAS",
+    "Suprime TÍTULO II — ASSISTÊNCIA",
+    "Suprime TÍTULO III — DISPOSIÇÕES FINANCEIRAS",
+    "Suprime Artigo 8.º — Taxa da contribuição comunitária",
+    "Suprime TÍTULO IV — REGRAS DE EXECUÇÃO",
+    "Suprime TÍTULO V — OUTRAS DISPOSIÇÕES",
+    "Suprime TÍTULO VI — DISPOSIÇÕES FINAIS"
+   ],
+   "fragments": [
+    "7c0b4da2975d17c6",
+    "a49bd0c1d6d02cda",
+    "51c76caa9ac596d5",
+    "28e0985c90b27aea",
+    "69ac66b49f647d27",
+    "4c8bdeab3d91ec7d",
+    "2e8464684e419357",
+    "cf749d9f327bc4bc",
+    "28c012a247de1e97",
+    "482a18fae5485752",
+    "8bad012b1ae47ea8",
+    "9db704600627e53c",
+    "6e028bd1d966d922",
+    "debc3bc6abf1a02a",
+    "a259ff8adcbd4842",
+    "be3c066d058ca2fb",
+    "09e3214cb91324ec",
+    "a95f259d7a34a32c",
+    "662cf62f00c33127",
+    "1bd691919871fe6d",
+    "e633ec01e52ec0b7",
+    "4f8efffddfe96470",
+    "4e5f5ef2cc0de1a3",
+    "88ff924aa0795aac",
+    "fd1f6efdb97a73cb",
+    "dde9cf53e9ae6c9a",
+    "a41b6a4a67de15f5",
+    "644b3175f01e380f",
+    "0d864bb0631c0fae",
+    "923d08dea9fd7310"
+   ]
+  },
+  {
+   "date": "2005-01-02",
+   "future": false,
+   "celex": "01999R1268-20050102",
+   "acts": [
+    {
+     "id": "eu:celex:32004R2257:por",
+     "title": "REGULAMENTO (CE) N. o 2257/2004 DO CONSELHO de 20 de Dezembro de 2004",
+     "published": null,
+     "celex": "32004R2257"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Objectivos",
+    "Altera Artigo 2.º — Medidas",
+    "Altera Artigo 3.º — Complementaridade e assistência técnica",
+    "Altera Artigo 4.º — Programação",
+    "Altera Artigo 5.º — Apreciação prévia, acompanhamento e avaliação",
+    "Altera Artigo 7.º — Recursos",
+    "Altera Artigo 11.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "1705d2b97ae77385",
+    "a49bd0c1d6d02cda",
+    "51c76caa9ac596d5",
+    "a75fe5c7aa72352b",
+    "659e7ed990bfd306",
+    "4c8bdeab3d91ec7d",
+    "2e8464684e419357",
+    "276e3112349ff45b",
+    "be1702dc0f310b1d",
+    "6dc2aada42ea4300",
+    "8bad012b1ae47ea8",
+    "9db704600627e53c",
+    "6e028bd1d966d922",
+    "be1e84ad97e6a0c9",
+    "a259ff8adcbd4842",
+    "be3c066d058ca2fb",
+    "09e3214cb91324ec",
+    "d57ff0406c795aab",
+    "662cf62f00c33127",
+    "1bd691919871fe6d",
+    "e633ec01e52ec0b7",
+    "4f8efffddfe96470",
+    "4e5f5ef2cc0de1a3",
+    "88ff924aa0795aac",
+    "fd1f6efdb97a73cb",
+    "dde9cf53e9ae6c9a",
+    "a41b6a4a67de15f5",
+    "644b3175f01e380f",
+    "0d864bb0631c0fae",
+    "600c1ad5fb42233c"
+   ]
+  },
+  {
+   "date": "2005-12-28",
+   "future": false,
+   "celex": "01999R1268-20051228",
+   "acts": [
+    {
+     "id": "eu:celex:32005R2112:por",
+     "title": "REGULAMENTO (CE) N. o 2112/2005 DO CONSELHO de 21 de Novembro de 2005",
+     "published": null,
+     "celex": "32005R2112"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Medidas",
+    "Altera Artigo 3.º — Complementaridade e assistência técnica",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "3f6003a399e77aaa",
+    "a49bd0c1d6d02cda",
+    "51c76caa9ac596d5",
+    "a75fe5c7aa72352b",
+    "b7a343f8aa05ebf6",
+    "4c8bdeab3d91ec7d",
+    "2e8464684e419357",
+    "835ae392bf179dc4",
+    "be1702dc0f310b1d",
+    "6dc2aada42ea4300",
+    "8bad012b1ae47ea8",
+    "9db704600627e53c",
+    "6e028bd1d966d922",
+    "be1e84ad97e6a0c9",
+    "a259ff8adcbd4842",
+    "be3c066d058ca2fb",
+    "09e3214cb91324ec",
+    "d57ff0406c795aab",
+    "662cf62f00c33127",
+    "1bd691919871fe6d",
+    "e633ec01e52ec0b7",
+    "4f8efffddfe96470",
+    "4e5f5ef2cc0de1a3",
+    "88ff924aa0795aac",
+    "fd1f6efdb97a73cb",
+    "dde9cf53e9ae6c9a",
+    "a41b6a4a67de15f5",
+    "644b3175f01e380f",
+    "0d864bb0631c0fae",
+    "27d8cbaa3608c115"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01999R1268-20070101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime TÍTULO 1",
+    "Suprime OBJECTIVOS E TIPOS DE MEDIDAS",
+    "Suprime Artigo 1.º — Objectivos",
+    "Suprime Artigo 2.º — Medidas",
+    "Suprime TÍTULO II",
+    "Suprime ASSISTÊNCIA",
+    "Suprime Artigo 3.º — Complementaridade e assistência técnica",
+    "Suprime Artigo 4.º — Programação",
+    "Suprime Artigo 5.º — Apreciação prévia, acompanhamento e avaliação",
+    "Suprime Artigo 6.º — Compatibilidade",
+    "Suprime TÍTULO III",
+    "Suprime DISPOSIÇÕES FINANCEIRAS",
+    "Suprime Artigo 7.º — Recursos",
+    "Suprime Artigo 8.º — Taxa da contribuição comunitária e intensidade da ajuda",
+    "Suprime Artigo 9.º — Controlo financeiro",
+    "Suprime Artigo 10.º — Redução, suspesão e supressão da ajuda",
+    "Suprime Artigo 11.º",
+    "Suprime TÍTULO IV",
+    "Suprime REGRAS DE EXECUÇÃO",
+    "Suprime Artigo 12.º",
+    "Suprime TÍTULO V",
+    "Suprime OUTRAS DISPOSIÇÕES",
+    "Suprime Artigo 13.º — Relatórios",
+    "Suprime TÍTULO VI",
+    "Suprime DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 14.º — Informação e publicidade",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º — Entrada em vigor",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "a597c5746090f2ec"
+   ]
+  }
+ ],
+ "fragments": {
+  "b35f92ccd9c41b7e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n° 1268/1999 do Conselho de 21 de Junho de 1999 relativo ao apoio comunitário a medidas de pré-adesão em matéria de agricultura e desenvolvimento rural nos países candidatos da Europa Central e Oriental durante o período de pré-adesão** *Jornal Oficial nº L 161 de 26/06/1999 p. 0087 - 0093*\n\nREGULAMENTO (CE) N.o 1268/1999 DO CONSELHO\n\nde 21 de Junho de 1999\n\nrelativo ao apoio comunitário a medidas de pré-adesão em matéria de agricultura e desenvolvimento rural nos países candidatos da Europa Central e Oriental durante o período de pré-adesão\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 308.o\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Parlamento Europeu(2),\n\nTendo em conta o parecer do Comité Económico e Social(3),\n\nTendo em conta o parecer do Comité das Regiões(4),\n\n(1) Considerando que as conclusões do Conselho Europeu do Luxemburgo, de 12 e 13 de Dezembro de 1997, prevêem uma estratégia reforçada de pré-adesão para os países candidatos da Europa Central e Oriental e uma estratégia de pré-adesão específica para Chipre;\n\n(2) Considerando que as conclusões do Conselho Europeu prevêem que a ajuda prevista no presente regulamento seja por agora concedida aos 10 países candidatos da Europa Central e Oriental;\n\n(3) Considerando que a Comunidade decidiu fornecer uma assistência especial a favor dos países candidatos à adesão sob a forma de uma ajuda de pré-adesão, a fim de desenvolver acções destinadas a apoiar o actual processo de reforma económica e social nesses países e a preparar e facilitar a integração das suas economias na economia comunitária;\n\n(4) Considerando que a assistência a título do apoio comunitário a medidas de pré-adesão em matéria de agricultura e desenvolvimento rural nos países candidatos da Europa Central e Oriental durante o período de pré-adesão, juntamente com a assistência comunitária ao abrigo do Regulamento (CE) n.o 1267/1999 do Conselho, de 21 de Junho de 1999, que cria um instrumento estrutural de pré-adesão(5), será coordenada no quadro do Regulamento (CE) n.o 1266/1999 do Conselho, de 21 de Junho de 1999, relativo à coordenação de assistência aos países candidatos no âmbito da estratégia de pré-adesão e que altera o Regulamento (CEE) n.o 3906/89(6) e ficará sujeita às disposições de condicionalidade do Regulamento (CE) n.o 622/98 do Conselho, de 16 de Março de 1998, relativo à assistência aos países candidatos no contexto da estratégia de pré-adesão, nomeadamente ao estabelecimento de parcerias de adesão(7);\n\n(5) Considerando que o ponto 17 das conclusões do Conselho Europeu do Luxemburgo, de 12 e 13 de Dezembro de 1997, prêve que o apoio financeiro aos países implicados no processo de alargamento deverá basear-se, para a repartição da ajuda, no princípio da igualdade de tratamento, independentemente da data da adesão, sendo prestada especial atenção aos Estados com maiores necessidades;\n\n(6) Considerando que a ajuda comunitária de pré-adesão deve ter por objectivo, especialmente, resolver problemas prioritários de adaptação das economias dos países candidatos, de um modo sustentável, e facilitar a respectiva execução do acervo comunitário, com particular ênfase para a política agrícola comum (PAC);\n\n(7) Considerando que a ajuda de pré-adesão no sector agrícola deve respeitar as prioridades da política agrícola comum pós-reforma; que essa ajuda deve ser aplicada em áreas prioritárias a definir para cada país, tais como a melhoria das estruturas de transformação dos produtos agrícolas e dos produtos da pesca, a distribuição, o controlo de qualidade dos géneros alimentícios, a fiscalização veterinária e fitossanitária e a criação de agrupamentos de produtores; que deverá ser igualmente possível financiar projectos integrados de desenvolvimento rural destinados a apoiar iniciativas locais e medidas agro-ambientais, a melhorar a eficácia das explorações agrícolas e a adaptar infra-estruturas, bem como medidas que acelerem a reconversão estrutural;\n\n(8) Considerando que, no sector agrícola, o apoio comunitário será concretizado sob a forma de programas plurianuais, estabelecidos de acordo com as directrizes e os princípios dos programas operacionais aplicados no âmbito da política estrutural, a fim de facilitar a aplicação dos princípios e dos procedimentos em vigor nos países candidatos;\n\n(9) Considerando que, de acordo com o Regulamento (CE) n.o 1260/1999 do Conselho, de 29 de Junho de 1999, que estabelece disposições gerais sobre os Fundos estruturais(8) uma medida só pode receber assistência de um único instrumento financeiro comunitário durante um dado período, atentas, no caso do Banco Europeu de Investimento (BEI), as suas próprias regras sobre a concessão de assistência;\n\n(10) Considerando que os fundos comunitários não devem substituir o financiamento disponível em cada país candidato e que a assistência da Comunidade constitui uma contribuição financeira para a realização dos projectos;\n\n(11) Considerando que a ajuda de pré-adesão no sector agrícola deve ser concedida sob a forma de uma contribuição financeira condicionada às regras financeiras específicas previstas no Regulamento (CE) n.o 1258/1999 do Conselho, de 17 de Maio de 1999, relativo ao financiamento da política agrícola comum(9);\n\n(12) Considerando que a repartição pelos países candidatos dos recursos fixados pela autoridade orçamental no preâmbulo do presente instrumento, deve ter plenamente em conta a prosperidade nacional, com base no produto interno bruto, a população agrícola activa e a superfície agrícola utilizada, bem como, se necessário, as particularidades territoriais específicas;\n\n(13) Considerando que é conveniente que os países candidatos apresentem os seus planos o mais rapidamente possível, a fim de não atrasar a aplicação das medidas de pré-adesão a partir de 1 de Janeiro de 2000;\n\n(14) Considerando que o estabelecimento desses programas, a sua execução e os mecanismos de acompanhamento devem observar as regras específicas dos Fundos estruturais, facilitando assim a transferência do acervo comunitário;\n\n(15) Considerando que se deve proceder a uma avaliação prévia pormenorizada antes da autorização de recursos comunitários, a fim de assegurar que o programa corresponda às necessidades reais, de permitir uma certa flexibilidade na realização da intervenção comunitária, para atender às informações pertinentes e aos primeiros resultados das medidas, e de reforçar o acompanhamento e a avaliação subsequente, para garantir a concretização do impacte previsto;\n\n(16) Considerando que é conveniente prever a constituição de um comité que assista a Comissão no acompanhamento de cada programa;\n\n(17) Considerando que as decisões necessárias devem ser adoptadas nos termos do n.o 2 do artigo 50.o do Regulamento (CE) n.o 1260/1999 e, em relação a questões financeiras específicas, nos termos do artigo 13.o do Regulamento (CE) n.o 1258/1999;\n\n(18) Considerando que devem ser apresentados ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social e ao Comité das Regiões relatórios sobre os progressos realizados na aplicação da ajuda agrícola de pré-adesão;\n\n(19) Considerando que, durante o período de transição (1 de Janeiro de 1999 a 31 de Dezembro de 2001), qualquer referência ao euro deve, em regra geral, ser entendida como uma referência ao euro enquanto unidade monetária, nos termos do segundo período do artigo 2.o do Regulamento (CE) n.o 974/98 do Conselho, de 3 de Maio de 1998, relativo à introdução do euro(10);\n\n(20) Considerando que a execução destas medidas contribuirá para a realização dos objectivos da União e que o Tratado não prevê, para a adopção do presente regulamento, outros poderes para além dos previstos no artigo 308.o,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "31ea7151bc15417f": {
+   "fragment_id": "TÍTULO 1 — OBJECTIVOS E TIPOS DE MEDIDAS",
+   "type": "divisao",
+   "heading": "TÍTULO 1 — OBJECTIVOS E TIPOS DE MEDIDAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO 1 — OBJECTIVOS E TIPOS DE MEDIDAS"
+  },
+  "28e0985c90b27aea": {
+   "fragment_id": "Artigo 1.º — Objectivos",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivos\n\n1. O presente regulamento estabelece o quadro do apoio comunitário à agricultura e ao desenvolvimento rural sustentáveis a conceder, no período de pré-adesão, aos seguintes países candidatos: Bulgária, Eslováquia, Eslovénia, Estónia, Hungria, Letónia, Lituânia, Polónia, República Checa e Roménia.\n\n2. O apoio comunitário deve respeitar as condições estabelecidas no âmbito das parcerias de adesão e destina-se especialmente a:\n\na) Contribuir para a execução do acervo comunitário relativo à política agrícola comum e políticas conexas;\n\nb) Resolver problemas prioritários e específicos de adaptação sustentável do sector agrícola e das zonas rurais nos países candidatos;"
+  },
+  "c1630d3f406de00e": {
+   "fragment_id": "Artigo 2.º — Medidas",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Medidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Medidas\n\nSegundo as prioridades definidas pelos países candidatos, e tal como previsto n.o 3 do artigo 4.o, o apoio à agricultura e ao desenvolvimento rural deve incidir sobre uma ou várias das seguintes medidas, as quais devem ser compatíveis com o acervo comunitário relevante:\n\n- investimentos em explorações agrícolas,\n\n- melhoria da transformação e comercialização dos produtos agrícolas e dos produtos da pesca,\n\n- melhoramento das estruturas de controlo da qualidade e de fiscalização veterinária e fitossanitária, para efeitos de qualidade dos géneros alimentícios e de defesa do consumidor,\n\n- métodos de produção agrícola concebidos para proteger o ambiente e preservar o espaço natural,\n\n- desenvolvimento e diversificação de actividades económicas com vista à criação de ocupações múltiplas ou rendimentos alternativos,\n\n- criação de serviços de substituição e gestão nas explorações agrícolas,\n\n- criação de agrupamentos de produtores,\n\n- renovação e desenvolvimento de pequenos aglomerados populacionais e protecção e conservação da herança rural,\n\n- melhoria fundiária e emparcelamento,\n\n- estabelecimento e actualização de cadastros fundiários,\n\n- melhoria da formação profissional,\n\n- desenvolvimento e melhoramento de infra-estruturas rurais,\n\n- gestão dos recursos hídricos agrícolas,\n\n- silvicultura, incluindo arborização de zonas agrícolas, investimentos em explorações silvícolas de propriedade privada e transformação e comercialização de produtos florestais,\n\n- assistência técnica às medidas abrangidas pelo presente regulamento, incluindo estudos para apoiar a preparação e o acompanhamento do programa e campanhas de informação e publicidade."
+  },
+  "e9f1ea4056266ad8": {
+   "fragment_id": "TÍTULO II — ASSISTÊNCIA",
+   "type": "divisao",
+   "heading": "TÍTULO II — ASSISTÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — ASSISTÊNCIA"
+  },
+  "9e66e5fa7e674504": {
+   "fragment_id": "Artigo 3.º — Complementaridade e assistência técnica",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Complementaridade e assistência técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Complementaridade e assistência técnica\n\n1. A acção comunitária será concebida como um complemento das acções nacionais correspondentes ou como um contributo para as mesmas e será estabelecida através de uma cooperação estreita entre a Comissão, o país candidato e as autoridades e organismos competentes, bem como os parceiros económicos e sociais ao nível adequado. Essa cooperação abrangerá a preparação e a execução, incluindo o financiamento e a apreciação, o acompanhamento e a avaliação das medidas.\n\n2. No quadro da assistência técnica, a Comissão tomará iniciativas e medidas para assegurar que as medidas comunitárias contribuam para os objectivos prioritários a que se refere o n.o 1 e proporcionem um valor acrescentado às iniciativas nacionais."
+  },
+  "bb9ae2f7f33aa491": {
+   "fragment_id": "Artigo 4.º — Programação",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Programação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Programação\n\n1. As medidas destinadas à agricultura e ao desenvolvimento rural sustentável abrangidas pelo presente regulamento serão objecto de um plano a elaborar ao nível territorial mais adequado. Os planos serão preparados pelas autoridades competentes designadas pelos países candidatos e serão apresentados por esses países à Comissão, após consulta das autoridades e organismos competentes ao nível adequado.\n\n2. O plano cobrirá um período máximo de sete anos a partir de 2000, sob reserva do n.o 2 do artigo 1.o, e incluirá:\n\n- uma descrição quantificada da situação actual, que indique as disparidades, atrasos e potencialidades de desenvolvimento, os principais resultados de anteriores operações efectuadas com assistência comunitária, os recursos financeiros mobilizados e os resultados disponíveis das avaliações,\n\n- uma descrição da estratégia proposta, os seus objectivos quantificados, as prioridades seleccionadas e o âmbito geográfico,\n\n- uma apreciação prévia, que mostre o impacte esperado em termos económicos, ambientais e sociais, incluindo os efeitos no emprego,\n\n- um quadro financeiro indicativo global, que discrimine os recursos financeiros nacionais, comunitários - e, se for caso disso, privados - previstos, correspondentes a cada prioridade de desenvolvimento rural adoptada no âmbito do plano, incluindo, se necessário, as medidas financiadas pelo BEI e outros instrumentos financeiros internacionais,\n\n- um perfil financeiro indicativo para cada ano abrangido pelo período de programação em relação a cada fonte que contribua para o programa,\n\n- se for caso disso, informações sobre a necessidade de estudos, formação ou assistência técnica relativos à preparação, execução ou adopção das medidas em causa,\n\n- os nomes das autoridades e organismos competentes, responsáveis pela execução do programa, incluindo a entidade pagadora,\n\n- a definição dos \"beneficiários finais\", que podem ser organizações ou empresas, públicas ou privadas, responsáveis pela condução das operações. No caso de serem concedidos auxílios públicos por outras autoridades designadas pelos países candidatos, os beneficiários finais serão as instituições que decidem da concessão da ajuda pública,\n\n- a descrição das medidas previstas para a realização dos planos, nomeadamente regimes de auxílio, incluindo os elementos necessários para a determinação da observância das regras de concorrência,\n\n- disposições que assegurem uma correcta execução do programa, incluindo o acompanhamento e a avaliação e a definição de indicadores quantitativos para a avaliação e dos regimes de controlos e sanções,\n\n- os resultados das consultas e as disposições tomadas para a associação de autoridades e organismos competentes, bem como dos parceiros económicos, sociais e ambientais adequados.\n\n3. Nos seus planos, os países candidatos devem assegurar que seja dada prioridade às medidas de melhoria da eficácia do mercado, das normas de qualidade e das normas sanitárias e às medidas de criação de emprego nas zonas rurais, de acordo com o disposto em matéria de protecção do ambiente.\n\n4. Salvo acordo em contrário com o país candidato, o plano deve ser apresentado no prazo de seis meses a contar da data de entrada em vigor do presente regulamento.\n\n5. Com base no plano de cada país candidato, e no prazo de seis meses a contar da data da sua apresentação, será aprovado um programa de agricultura e desenvolvimento rural pela Comissão, nos termos do n.o 2 do artigo 50.o do Regulamento (CE) n.o 1260/1999, desde que estejam disponíveis todas as informações pertinentes. Nomeadamente, a Comissão apreciará o plano proposto em função da sua coerência com o presente regulamento.\n\n6. O programa pode, se necessário, ser revisto e adaptado em função:\n\n- da evolução socioeconómica, de novas informações pertinentes e dos resultados da execução das acções em causa, incluindo os resultados do acompanhamento e da avaliação, bem como da necessidade de adaptar os montantes de ajuda disponível,\n\n- de acções realizadas no âmbito da parceria de adesão e do programa nacional de adopção do acervo comunitário, ou\n\n- de uma reafectação dos recursos nos termos do artigo 15.o"
+  },
+  "2ec644f5c73b2c7e": {
+   "fragment_id": "Artigo 5.º — Apreciação prévia, acompanhamento e avaliação",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Apreciação prévia, acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Apreciação prévia, acompanhamento e avaliação\n\n1. A fim de determinar a sua eficácia, o apoio às medidas incluídas no programa será objecto de uma apreciação prévia e de uma apreciação intercalar, de um acompanhamento contínuo e de uma avaliação subsequente, destinados a permitir apreciar os seus resultados e o seu impacte em relação aos objectivos definidos.\n\n2. A Comissão e o país candidato acompanharão a execução do programa. Esse acompanhamento será realizado através de processos acordados em conjunto.\n\nO acompanhamento será efectuado por referência a indicadores específicos, de carácter físico, ambiental e financeiro, previamente acordados e definidos.\n\nOs países candidatos apresentarão à Comissão relatórios anuais sobre os progressos efectuados, até ao termo do primeiro semestre do ano subsequente, os quais conterão, pelo menos, as informações referidas no artigo 37.o do Regulamento (CE) n.o 1260/1999.\n\n3. Para cada programa de desenvolvimento rural será criado um Comité de Acompanhamento, nos termos do artigo 35.o do Regulamento (CE) n.o 1260/1999."
+  },
+  "8bad012b1ae47ea8": {
+   "fragment_id": "Artigo 6.º — Compatibilidade",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Compatibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Compatibilidade\n\nAs medidas objecto de apoio comunitário devem observar os compromissos adoptados na parceria de adesão e ser coerentes com os princípios do programa nacional de adopção do acervo comunitário.\n\nAs medidas financiadas ao abrigo do presente regulamento devem observar as disposições dos Acordos Europeus, incluindo as disposições de execução desses acordos em matéria de auxílios estatais.\n\nAs medidas financiadas ao abrigo do presente regulamento obedecerão aos objectivos da PAC, designadamente os das organizações comuns de mercado, e das medidas estruturais comunitárias e não deverão causar distorções comerciais."
+  },
+  "debaa05ae42a8d1a": {
+   "fragment_id": "TÍTULO III — DISPOSIÇÕES FINANCEIRAS",
+   "type": "divisao",
+   "heading": "TÍTULO III — DISPOSIÇÕES FINANCEIRAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — DISPOSIÇÕES FINANCEIRAS"
+  },
+  "d110ec8ecf1f7c33": {
+   "fragment_id": "Artigo 7.º — Recursos",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Recursos\n\n1. A assistência comunitária prevista no presente regulamento será concedida durante o período compreendido entre 2000 e 2006. As dotações anuais serão aprovadas pela autoridade orçamental dentro dos limites das perspectivas financeiras.\n\n2. A contribuição financeira da Comunidade para a execução do programa de desenvolvimento rural será concedida sob a forma de adiantamentos, co-financiamento e financiamento, de acordo com os princípios previstos no artigo 30.o do Regulamento (CE) n.o 1260/1999.\n\nOs pagamentos relativos à assistência financeira podem assumir a forma de adiantamentos para a execução do programa e de pagamentos de despesas efectuadas.\n\n3. A dotação financeira a atribuir a cada país candidato ao abrigo do presente instrumento basear-se-á nos seguintes critérios objectivos:\n\n- população agrícola,\n\n- superfície agrícola,\n\n- produto interno bruto (PIB) per capita em paridade de poder de compra,\n\n- situação territorial específica.\n\n4. No período referido no n.o 2 do artigo 4.o, podem ser afectados até 2 % da dotação anual, ao financiamento de medidas tomadas por iniciativa da Comissão para estudos preliminares, visitas de intercâmbio, avaliações e controlos."
+  },
+  "ccb325ecdc03fc8e": {
+   "fragment_id": "Artigo 8.º — Taxa da contribuição comunitária",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Taxa da contribuição comunitária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Taxa da contribuição comunitária\n\n1. A contribuição comunitária pode elevar-se a 75 % da despesa pública elegível total.\n\nPara as medidas referidas no último travessão do artigo 2.o e no n.o 4 do artigo 7.o, a contribuição financeira comunitária pode ascender a 100 % do custo elegível total.\n\n2. No caso de investimentos geradores de receitas, o auxílio público pode elevar-se a 50 % do custo elegível total, para os quais a contribuição comunitária pode ascender a 75 %. A contribuição comunitária respeitará sempre os limites máximos das taxas de auxílio e de cumulação estabelecidos para os auxílios estatais.\n\n3. O apoio financeiro e os pagamentos serão expressos em euros."
+  },
+  "e6e6fec379fb4106": {
+   "fragment_id": "Artigo 9.º — Controlo financeiro",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Controlo financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Controlo financeiro\n\n1. O apoio financeiro respeitará os princípios previstos no Regulamento (CE) n.o 1258/1999.\n\nA Comissão executará as despesas previstas no presente regulamento nos termos do Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias e com base no protocolo financeiro a estabelecer entre a Comissão e o país beneficiário.\n\n2. A Comissão adoptará, nos termos do artigo 12.o, os métodos de gestão do programa, as disposições de acompanhamento e controlo da sua execução, os sistemas de prevenção e controlo de irregularidades e os processos de recuperação de montantes indevidamente pagos. A adopção dessas medidas é considerada um requisito prévio para a aprovação do programa prevista no n.o 5 do artigo 4.o\n\n3. Sem prejuízo dos controlos efectuados pelos países beneficiários, a Comissão e o Tribunal de Contas podem, através dos seus agentes ou representantes devidamente autorizados, proceder a auditorias técnicas ou financeiras no local, incluindo controlos por amostragem e auditorias finais."
+  },
+  "09e3214cb91324ec": {
+   "fragment_id": "Artigo 10.º — Redução, suspesão e supressão da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Redução, suspesão e supressão da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Redução, suspesão e supressão da ajuda\n\n1. Se a execução de uma medida parecer não justificar qualquer parte do financiamento que lhe foi atribuído, a Comissão procederá a uma análise adequada do caso, nomeadamente convidando o país candidato ou as autoridades por ele designadas para a execução da medida a apresentarem as suas observações num determinado prazo.\n\n2. Após essa análise, a Comissão pode reduzir ou suspender a ajuda para a medida em causa, se a análise confirmar a existência de uma irregularidade ou de uma alteração importante que afecte a natureza ou as condições de execução da medida e para a qual não tenha sido obtida aprovação da Comissão.\n\n3. Qualquer montante que dê lugar a repetição do indevido deve ser devolvido à Comissão. Os montantes não devolvidos serão acrescidos de juros de mora, nos termos do Regulamento Financeiro."
+  },
+  "6afc51434bdc0c0d": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nA Comissão atribuirá os recursos disponíveis aos países candidatos para aplicação do n.o 2 do artigo 7.o No prazo de três meses a contar da data de adopção do presente regulamento, a Comissão comunicará a cada país candidato as suas decisões sobre a dotação financeira indicativa para sete anos."
+  },
+  "029718cfccf0381d": {
+   "fragment_id": "TÍTULO IV — REGRAS DE EXECUÇÃO",
+   "type": "divisao",
+   "heading": "TÍTULO IV — REGRAS DE EXECUÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — REGRAS DE EXECUÇÃO"
+  },
+  "733ad41e5ea22b10": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. A Comissão adoptará as regras de execução do presente regulamento nos termos do n.o 2 do artigo 50.o do Regulamento (CE) n.o 1260/1999.\n\n2. A Comissão adoptará as regras de execução financeiras nos termos do artigo 13.o do Regulamento (CE) n.o 1258/1999. Essas regras incluirão, nomeadamente, as disposições adequadas pra garantir a observância da disciplina orçamental."
+  },
+  "91ca2310e8f674c1": {
+   "fragment_id": "TÍTULO V — OUTRAS DISPOSIÇÕES",
+   "type": "divisao",
+   "heading": "TÍTULO V — OUTRAS DISPOSIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V — OUTRAS DISPOSIÇÕES"
+  },
+  "b6d60872ea5ec0e3": {
+   "fragment_id": "Artigo 13.º — Relatórios",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Relatórios\n\nA Comissão apresentará ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social e ao Comité das Regiões um relatório anual sobre o apoio comunitário concedido a título do presente regulamento.\n\nNesse relatório a Comissão indicará, em especial, os progressos alcançados na realização dos objectivos definidos no artigo 1.o"
+  },
+  "345f0f53438c649e": {
+   "fragment_id": "TÍTULO VI — DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "TÍTULO VI — DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VI — DISPOSIÇÕES FINAIS"
+  },
+  "105d61f9f9368379": {
+   "fragment_id": "Artigo 14.º — Informação e publicidade",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Informação e publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Informação e publicidade\n\n1. Os programas previstos no n.o 5 do artigo 4.o serão objecto de uma publicidade adequada nos países candidatos.\n\n2. A publicidade destinar-se-á especialmente a:\n\n- informar os beneficiários potenciais e as organizações profissionais sobre as possibilidades de assistência,\n\n- informar o público em geral acerca do papel desempenhado pela Comunidade em relação à ajuda.\n\nAs propostas e as medidas adoptadas para o efeito serão comunicadas à Comissão."
+  },
+  "f71acdaba924c898": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nUm país que se torne membro da União Europeia perde o direito ao apoio previsto no presente regulamento. Os recursos disponibilizados pelo facto de um país candidato se ter tornado membro da União Europeia serão reafectados a outros países candidatos referidos no n.o 1 do artigo 1.o A reafectação será efectuada em função das necessidades do país candidato e da sua capacidade de absorver a assistência assim como dos critérios previstos no n.o 3 do artigo 7.o\n\nO Conselho, deliberando por maioria qualificada sob proposta da Comissão, adoptará uma decisão que defina a abordagem geral da reafectação.\n\nA Comissão decidirá da reafectação dos recursos disponíveis entre os restantes beneficiários, nos termos do n.o 1 do artigo 12.o, em função da decisão do Conselho referida no segundo parágrafo do presente artigo."
+  },
+  "7242c4ed9f709b15": {
+   "fragment_id": "Artigo 16.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente regulamento entra em vigor três dias após a sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é aplicável a partir de 1 de Janeiro de 2000.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito no Luxemburgo, em 21 de Junho de 1999.\n\nPelo Conselho\n\nO Presidente\n\nG. VERHEUGEN\n\n(1) JO C 175 de 9.6.1998, p. 7 e\n\nJO C 27 de 2.2.1999, p. 18.\n\n(2) Parecer emitido em 6 de Maio de 1999 (ainda não publicado no Jornal Oficial)\n\n(3) JO C 101 de 12.4.1999.\n\n(4) JO C 93 de 6.4.1999.\n\n(5) Ver a página 73 do presente Jornal Oficial.\n\n(6) Ver a página 68 do presente Jornal Oficial.\n\n(7) JO L 85 de 20.3.1998, p. 3.\n\n(8) Ver a página 1 do presente Jornal Oficial.\n\n(9) JO L 160 de 26.6.1999, p. 103.\n\n(10) JO L 139 de 11.5.1998, p. 1."
+  },
+  "7c0b4da2975d17c6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Junho de 1999\n\nrelativo ao apoio comunitário a medidas de pré-adesão em matéria de agricultura e desenvolvimento rural nos países candidatos da Europa Central e Oriental durante o período de pré-adesão\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 308.º\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/22c7326f-afad-4c33-a892-2706b615eb09.0010.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/22c7326f-afad-4c33-a892-2706b615eb09.0010.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/22c7326f-afad-4c33-a892-2706b615eb09.0010.03/DOC_1#E0003)),\n\nTendo em conta o parecer do Comité das Regiões ([^4^](http://publications.europa.eu/resource/cellar/22c7326f-afad-4c33-a892-2706b615eb09.0010.03/DOC_1#E0004)),\n\n(1) Considerando que as conclusões do Conselho Europeu do Luxemburgo, de 12 e 13 de Dezembro de 1997, prevêem uma estratégia reforçada de pré-adesão para os países candidatos da Europa Central e Oriental e uma estratégia de pré-adesão específica para Chipre;\n\n(2) Considerando que as conclusões do Conselho Europeu prevêem que a ajuda prevista no presente regulamento seja por agora concedida aos 10 países candidatos da Europa Central e Oriental;\n\n(3) Considerando que a Comunidade decidiu fornecer uma assistência especial a favor dos países candidatos à adesão sob a forma de uma ajuda de pré-adesão, a fim de desenvolver acções destinadas a apoiar o actual processo de reforma económica e social nesses países e a preparar e facilitar a integração das suas economias na economia comunitária;\n\n(4) Considerando que a assistência a título do apoio comunitário a medidas de pré-adesão em matéria de agricultura e desenvolvimento rural nos países candidatos da Europa Central e Oriental durante o período de pré-adesão, juntamente com a assistência comunitária ao abrigo do Regulamento (CE) n.º 1267/1999 do Conselho, de 21 de Junho de 1999, que cria um instrumento estrutural de pré-adesão ([^5^](http://publications.europa.eu/resource/cellar/22c7326f-afad-4c33-a892-2706b615eb09.0010.03/DOC_1#E0005)), será coordenada no quadro do Regulamento (CE) n.º 1266/1999 do Conselho, de 21 de Junho de 1999, relativo à coordenação de assistência aos países candidatos no âmbito da estratégia de pré-adesão e que altera o Regulamento (CEE) n.º 3906/89 ([^6^](http://publications.europa.eu/resource/cellar/22c7326f-afad-4c33-a892-2706b615eb09.0010.03/DOC_1#E0006)) e ficará sujeita às disposições de condicionalidade do Regulamento (CE) n.º 622/98 do Conselho, de 16 de Março de 1998, relativo à assistência aos países candidatos no contexto da estratégia de pré-adesão, nomeadamente ao estabelecimento de parcerias de adesão ([^7^](http://publications.europa.eu/resource/cellar/22c7326f-afad-4c33-a892-2706b615eb09.0010.03/DOC_1#E0007));\n\n(5) Considerando que o ponto 17 das conclusões do Conselho Europeu do Luxemburgo, de 12 e 13 de Dezembro de 1997, prêve que o apoio financeiro aos países implicados no processo de alargamento deverá basear-se, para a repartição da ajuda, no princípio da igualdade de tratamento, independentemente da data da adesão, sendo prestada especial atenção aos Estados com maiores necessidades;\n\n(6) Considerando que a ajuda comunitária de pré-adesão deve ter por objectivo, especialmente, resolver problemas prioritários de adaptação das economias dos países candidatos, de um modo sustentável, e facilitar a respectiva execução do acervo comunitário, com particular ênfase para a política agrícola comum (PAC);\n\n(7) Considerando que a ajuda de pré-adesão no sector agrícola deve respeitar as prioridades da política agrícola comum pós-reforma; que essa ajuda deve ser aplicada em áreas prioritárias a definir para cada país, tais como a melhoria das estruturas de transformação dos produtos agrícolas e dos produtos da pesca, a distribuição, o controlo de qualidade dos géneros alimentícios, a fiscalização veterinária e fitossanitária e a criação de agrupamentos de produtores; que deverá ser igualmente possível financiar projectos integrados de desenvolvimento rural destinados a apoiar iniciativas locais e medidas agro-ambientais, a melhorar a eficácia das explorações agrícolas e a adaptar infra-estruturas, bem como medidas que acelerem a reconversão estrutural;\n\n(8) Considerando que, no sector agrícola, o apoio comunitário será concretizado sob a forma de programas plurianuais, estabelecidos de acordo com as directrizes e os princípios dos programas operacionais aplicados no âmbito da política estrutural, a fim de facilitar a aplicação dos princípios e dos procedimentos em vigor nos países candidatos;\n\n(9) Considerando que, de acordo com o Regulamento (CE) n.º 1260/1999 do Conselho, de 29 de Junho de 1999, que estabelece disposições gerais sobre os Fundos estruturais ([^8^](http://publications.europa.eu/resource/cellar/22c7326f-afad-4c33-a892-2706b615eb09.0010.03/DOC_1#E0008)) uma medida só pode receber assistência de um único instrumento financeiro comunitário durante um dado período, atentas, no caso do Banco Europeu de Investimento (BEI), as suas próprias regras sobre a concessão de assistência;\n\n(10) Considerando que os fundos comunitários não devem substituir o financiamento disponível em cada país candidato e que a assistência da Comunidade constitui uma contribuição financeira para a realização dos projectos;\n\n(11) Considerando que a ajuda de pré-adesão no sector agrícola deve ser concedida sob a forma de uma contribuição financeira condicionada às regras financeiras específicas previstas no Regulamento (CE) n.º 1258/1999 do Conselho, de 17 de Maio de 1999, relativo ao financiamento da política agrícola comum ([^9^](http://publications.europa.eu/resource/cellar/22c7326f-afad-4c33-a892-2706b615eb09.0010.03/DOC_1#E0009));\n\n(12) Considerando que a repartição pelos países candidatos dos recursos fixados pela autoridade orçamental no preâmbulo do presente instrumento, deve ter plenamente em conta a prosperidade nacional, com base no produto interno bruto, a população agrícola activa e a superfície agrícola utilizada, bem como, se necessário, as particularidades territoriais específicas;\n\n(13) Considerando que é conveniente que os países candidatos apresentem os seus planos o mais rapidamente possível, a fim de não atrasar a aplicação das medidas de pré-adesão a partir de 1 de Janeiro de 2000;\n\n(14) Considerando que o estabelecimento desses programas, a sua execução e os mecanismos de acompanhamento devem observar as regras específicas dos Fundos estruturais, facilitando assim a transferência do acervo comunitário;\n\n(15) Considerando que se deve proceder a uma avaliação prévia pormenorizada antes da autorização de recursos comunitários, a fim de assegurar que o programa corresponda às necessidades reais, de permitir uma certa flexibilidade na realização da intervenção comunitária, para atender às informações pertinentes e aos primeiros resultados das medidas, e de reforçar o acompanhamento e a avaliação subsequente, para garantir a concretização do impacte previsto;\n\n(16) Considerando que é conveniente prever a constituição de um comité que assista a Comissão no acompanhamento de cada programa;\n\n(17) Considerando que as decisões necessárias devem ser adoptadas nos termos do n.º 2 do artigo 50.º do Regulamento (CE) n.º 1260/1999 e, em relação a questões financeiras específicas, nos termos do artigo 13.º do Regulamento (CE) n.º 1258/1999;\n\n(18) Considerando que devem ser apresentados ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social e ao Comité das Regiões relatórios sobre os progressos realizados na aplicação da ajuda agrícola de pré-adesão;\n\n(19) Considerando que, durante o período de transição (1 de Janeiro de 1999 a 31 de Dezembro de 2001), qualquer referência ao euro deve, em regra geral, ser entendida como uma referência ao euro enquanto unidade monetária, nos termos do segundo período do artigo 2.º do Regulamento (CE) n.º 974/98 do Conselho, de 3 de Maio de 1998, relativo à introdução do euro ([^10^](http://publications.europa.eu/resource/cellar/22c7326f-afad-4c33-a892-2706b615eb09.0010.03/DOC_1#E0010));\n\n(20) Considerando que a execução destas medidas contribuirá para a realização dos objectivos da União e que o Tratado não prevê, para a adopção do presente regulamento, outros poderes para além dos previstos no artigo 308.º,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "a49bd0c1d6d02cda": {
+   "fragment_id": "TÍTULO 1",
+   "type": "divisao",
+   "heading": "TÍTULO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO 1"
+  },
+  "51c76caa9ac596d5": {
+   "fragment_id": "OBJECTIVOS E TIPOS DE MEDIDAS",
+   "type": "divisao",
+   "heading": "OBJECTIVOS E TIPOS DE MEDIDAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJECTIVOS E TIPOS DE MEDIDAS"
+  },
+  "69ac66b49f647d27": {
+   "fragment_id": "Artigo 2.º — Medidas",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Medidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Medidas\n\nSegundo as prioridades definidas pelos países candidatos, e tal como previsto n.º 3 do artigo 4.º, o apoio à agricultura e ao desenvolvimento rural deve incidir sobre uma ou várias das seguintes medidas, as quais devem ser compatíveis com o acervo comunitário relevante:\n\n— investimentos em explorações agrícolas,\n\n— melhoria da transformação e comercialização dos produtos agrícolas e dos produtos da pesca,\n\n— melhoramento das estruturas de controlo da qualidade e de fiscalização veterinária e fitossanitária, para efeitos de qualidade dos géneros alimentícios e de defesa do consumidor,\n\n— métodos de produção agrícola concebidos para proteger o ambiente e preservar o espaço natural,\n\n— desenvolvimento e diversificação de actividades económicas com vista à criação de ocupações múltiplas ou rendimentos alternativos,\n\n— criação de serviços de substituição e gestão nas explorações agrícolas,\n\n— criação de agrupamentos de produtores,\n\n— renovação e desenvolvimento de pequenos aglomerados populacionais e protecção e conservação da herança rural,\n\n— melhoria fundiária e emparcelamento,\n\n— estabelecimento e actualização de cadastros fundiários,\n\n— melhoria da formação profissional,\n\n— desenvolvimento e melhoramento de infra-estruturas rurais,\n\n— gestão dos recursos hídricos agrícolas,\n\n— silvicultura, incluindo arborização de zonas agrícolas, investimentos em explorações silvícolas de propriedade privada e transformação e comercialização de produtos florestais,\n\n— assistência técnica às medidas abrangidas pelo presente regulamento, incluindo estudos para apoiar a preparação e o acompanhamento do programa e campanhas de informação e publicidade,\n\n— no respeitante à Bulgária e à Roménia, preparação das comunidades rurais para conceber e executar estratégias locais de desenvolvimento rural e estratégias integradas de desenvolvimento territorial numa base piloto, nos limites definidos no artigo 33.º-F do Regulamento (CE) n.º 1257/1999 do Conselho de 17 de Maio de 1999 relativo ao apoio do Fundo Europeu de Orientação e de Garantia Agrícola (FEOGA) ao desenvolvimento rural ([^11^](http://publications.europa.eu/resource/cellar/22c7326f-afad-4c33-a892-2706b615eb09.0010.03/DOC_1#E0012))."
+  },
+  "4c8bdeab3d91ec7d": {
+   "fragment_id": "TÍTULO II",
+   "type": "divisao",
+   "heading": "TÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II"
+  },
+  "2e8464684e419357": {
+   "fragment_id": "ASSISTÊNCIA",
+   "type": "divisao",
+   "heading": "ASSISTÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ASSISTÊNCIA"
+  },
+  "cf749d9f327bc4bc": {
+   "fragment_id": "Artigo 3.º — Complementaridade e assistência técnica",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Complementaridade e assistência técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Complementaridade e assistência técnica\n\n1. A acção comunitária será concebida como um complemento das acções nacionais correspondentes ou como um contributo para as mesmas e será estabelecida através de uma cooperação estreita entre a Comissão, o país candidato e as autoridades e organismos competentes, bem como os parceiros económicos e sociais ao nível adequado. Essa cooperação abrangerá a preparação e a execução, incluindo o financiamento e a apreciação, o acompanhamento e a avaliação das medidas.\n\n2. No quadro da assistência técnica, a Comissão tomará iniciativas e medidas para assegurar que as medidas comunitárias contribuam para os objectivos prioritários a que se refere o n.º 1 e proporcionem um valor acrescentado às iniciativas nacionais.\n\n3. As pessoas singulares e colectivas de Chipre, Malta e Turquia, bem como dos países que beneficiam de ajuda ao abrigo do Regulamento (CE) n.º 2666/2000 do Conselho, de 5 de Dezembro de 2000, relativo à ajuda à Albânia, à Bósnia-Herzegovina, à Croácia, à República Federativa da Jugoslávia e à antiga República jugoslava da Macedónia ([^12^](http://publications.europa.eu/resource/cellar/22c7326f-afad-4c33-a892-2706b615eb09.0010.03/DOC_1#E0011)) podem participar em concursos e contratos em igualdade de condições com todas as pessoas singulares e colectivas dos Estados-Membros abrangidas pelo âmbito de aplicação dos Tratados e dos países beneficiários."
+  },
+  "28c012a247de1e97": {
+   "fragment_id": "Artigo 4.º — Programação",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Programação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Programação\n\n1. As medidas destinadas à agricultura e ao desenvolvimento rural sustentável abrangidas pelo presente regulamento serão objecto de um plano a elaborar ao nível territorial mais adequado. Os planos serão preparados pelas autoridades competentes designadas pelos países candidatos e serão apresentados por esses países à Comissão, após consulta das autoridades e organismos competentes ao nível adequado.\n\n2. O plano cobrirá um período máximo de sete anos a partir de 2000, sob reserva do n.º 2 do artigo 1.º, e incluirá:\n\n— uma descrição quantificada da situação actual, que indique as disparidades, atrasos e potencialidades de desenvolvimento, os principais resultados de anteriores operações efectuadas com assistência comunitária, os recursos financeiros mobilizados e os resultados disponíveis das avaliações,\n\n— uma descrição da estratégia proposta, os seus objectivos quantificados, as prioridades seleccionadas e o âmbito geográfico,\n\n— uma apreciação prévia, que mostre o impacte esperado em termos económicos, ambientais e sociais, incluindo os efeitos no emprego,\n\n— um quadro financeiro indicativo global, que discrimine os recursos financeiros nacionais, comunitários — e, se for caso disso, privados — previstos, correspondentes a cada prioridade de desenvolvimento rural adoptada no âmbito do plano, incluindo, se necessário, as medidas financiadas pelo BEI e outros instrumentos financeiros internacionais,\n\n— um perfil financeiro indicativo para cada ano abrangido pelo período de programação em relação a cada fonte que contribua para o programa,\n\n— se for caso disso, informações sobre a necessidade de estudos, formação ou assistência técnica relativos à preparação, execução ou adopção das medidas em causa,\n\n— os nomes das autoridades e organismos competentes, responsáveis pela execução do programa, incluindo a entidade pagadora,\n\n— a definição dos «beneficiários finais», que podem ser organizações ou empresas, públicas ou privadas, responsáveis pela condução das operações. No caso de serem concedidos auxílios públicos por outras autoridades designadas pelos países candidatos, os beneficiários finais serão as instituições que decidem da concessão da ajuda pública,\n\n— a descrição das medidas previstas para a realização dos planos, nomeadamente regimes de auxílio, incluindo os elementos necessários para a determinação da observância das regras de concorrência,\n\n— disposições que assegurem uma correcta execução do programa, incluindo o acompanhamento e a avaliação e a definição de indicadores quantitativos para a avaliação e dos regimes de controlos e sanções,\n\n— os resultados das consultas e as disposições tomadas para a associação de autoridades e organismos competentes, bem como dos parceiros económicos, sociais e ambientais adequados.\n\n3. Nos seus planos, os países candidatos devem assegurar que seja dada prioridade às medidas de melhoria da eficácia do mercado, das normas de qualidade e das normas sanitárias e às medidas de criação de emprego nas zonas rurais, de acordo com o disposto em matéria de protecção do ambiente.\n\n4. Salvo acordo em contrário com o país candidato, o plano deve ser apresentado no prazo de seis meses a contar da data de entrada em vigor do presente regulamento.\n\n5. Com base no plano de cada país candidato, e no prazo de seis meses a contar da data da sua apresentação, será aprovado um programa de agricultura e desenvolvimento rural pela Comissão, nos termos do n.º 2 do artigo 50.º do Regulamento (CE) n.º 1260/1999, desde que estejam disponíveis todas as informações pertinentes. Nomeadamente, a Comissão apreciará o plano proposto em função da sua coerência com o presente regulamento.\n\n6. O programa pode, se necessário, ser revisto e adaptado em função:\n\n— da evolução socioeconómica, de novas informações pertinentes e dos resultados da execução das acções em causa, incluindo os resultados do acompanhamento e da avaliação, bem como da necessidade de adaptar os montantes de ajuda disponível,\n\n— de acções realizadas no âmbito da parceria de adesão e do programa nacional de adopção do acervo comunitário, ou\n\n— de uma reafectação dos recursos nos termos do artigo 15.º"
+  },
+  "482a18fae5485752": {
+   "fragment_id": "Artigo 5.º — Apreciação prévia, acompanhamento e avaliação",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Apreciação prévia, acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Apreciação prévia, acompanhamento e avaliação\n\n1. A fim de determinar a sua eficácia, o apoio às medidas incluídas no programa será objecto de uma apreciação prévia e de uma apreciação intercalar, de um acompanhamento contínuo e de uma avaliação subsequente, destinados a permitir apreciar os seus resultados e o seu impacte em relação aos objectivos definidos.\n\n2. A Comissão e o país candidato acompanharão a execução do programa. Esse acompanhamento será realizado através de processos acordados em conjunto.\n\nO acompanhamento será efectuado por referência a indicadores específicos, de carácter físico, ambiental e financeiro, previamente acordados e definidos.\n\nOs países candidatos apresentarão à Comissão relatórios anuais sobre os progressos efectuados, até ao termo do primeiro semestre do ano subsequente, os quais conterão, pelo menos, as informações referidas no artigo 37.º do Regulamento (CE) n.º 1260/1999.\n\n3. Para cada programa de desenvolvimento rural será criado um Comité de Acompanhamento, nos termos do artigo 35.º do Regulamento (CE) n.º 1260/1999."
+  },
+  "9db704600627e53c": {
+   "fragment_id": "TÍTULO III",
+   "type": "divisao",
+   "heading": "TÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III"
+  },
+  "6e028bd1d966d922": {
+   "fragment_id": "DISPOSIÇÕES FINANCEIRAS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINANCEIRAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINANCEIRAS"
+  },
+  "debc3bc6abf1a02a": {
+   "fragment_id": "Artigo 7.º — Recursos",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Recursos\n\n1. A assistência comunitária prevista no presente regulamento será concedida durante o período compreendido entre 2000 e 2006. As dotações anuais serão aprovadas pela autoridade orçamental dentro dos limites das perspectivas financeiras.\n\n2. A contribuição financeira da Comunidade para a execução do programa de desenvolvimento rural será concedida sob a forma de adiantamentos, co-financiamento e financiamento, de acordo com os princípios previstos no artigo 30.º do Regulamento (CE) n.º 1260/1999.\n\nOs pagamentos relativos à assistência financeira podem assumir a forma de adiantamentos para a execução do programa e de pagamentos de despesas efectuadas.\n\n3. A dotação financeira a atribuir a cada país candidato ao abrigo do presente instrumento basear-se-á nos seguintes critérios objectivos:\n\n— população agrícola,\n\n— superfície agrícola,\n\n— produto interno bruto (PIB) *per capita* em paridade de poder de compra,\n\n— situação territorial específica.\n\n4. No período referido no n.º 2 do artigo 4.º, podem ser afectados até 2 % da dotação anual, ao financiamento de medidas tomadas por iniciativa da Comissão para estudos preliminares, visitas de intercâmbio, avaliações e controlos."
+  },
+  "a259ff8adcbd4842": {
+   "fragment_id": "Artigo 8.º — Taxa da contribuição comunitária e intensidade da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Taxa da contribuição comunitária e intensidade da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Taxa da contribuição comunitária e intensidade da ajuda\n\n1. A contribuição comunitária não pode ser superior a 75 % do montante total da despesa pública elegível.\n\nContudo, este limite será de:\n\na) 80 % no respeitante às medidas referidas nos quarto, sétimo, décimo primeiro e décimo sexto travessões do artigo 2.º e a quaisquer projectos relativos às infra estruturas;\n\nb) 85 % no respeitante aos projectos abrangidos por qualquer medida em cujo âmbito a Comissão tenha determinado que ocorreram catástrofes naturais de proporções excepcionais;\n\nc) 100 % no respeitante à medida referida no décimo quinto travessão do artigo 2.º e no n.º 4 do artigo 7.º\n\n2. O auxílio público não pode ser superior a 50 % do custo elegível total do investimento.\n\nContudo, este limite será de:\n\na) 55 % no respeitante aos investimentos nas explorações agrícolas realizados por jovens agricultores;\n\nb) 60 % no respeitante aos investimentos realizados nas explorações agrícolas situadas em zonas montanhosas;\n\nc) 65 % no respeitante aos investimentos realizados por jovens agricultores nas explorações agrícolas situadas em zonas montanhosas;\n\nd) 75 % no respeitante aos investimentos referidos na alínea b) do n.º 1;\n\ne) 100 % no respeitante aos investimentos em infra estruturas que não sejam de natureza a gerar rendimentos líquidos importantes;\n\nf) 100 % no respeitante às medidas referidas no décimo sexto travessão do artigo 2.º\n\nAo determinar a taxa do auxílio público para efeitos do presente número, não serão tidas em conta os auxílios nacionais que sejam de natureza a facilitar o acesso a dotações concedidas sem o benefício de qualquer contribuição comunitária prevista no âmbito deste instrumento.\n\nA contribuição comunitária respeitará sempre os limites máximos das taxas de auxílio e de cumulação estabelecidos para os auxílios estatais nos Acordos Europeus.\n\n3. O montante da contribuição comunitária é expresso em euros."
+  },
+  "be3c066d058ca2fb": {
+   "fragment_id": "Artigo 9.º — Controlo financeiro",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Controlo financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Controlo financeiro\n\n1. O apoio financeiro respeitará os princípios previstos no Regulamento (CE) n.º 1258/1999.\n\nA Comissão executará as despesas previstas no presente regulamento nos termos do Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias e com base no protocolo financeiro a estabelecer entre a Comissão e o país beneficiário.\n\n2. A Comissão adoptará, nos termos do artigo 12.º, os métodos de gestão do programa, as disposições de acompanhamento e controlo da sua execução, os sistemas de prevenção e controlo de irregularidades e os processos de recuperação de montantes indevidamente pagos. A adopção dessas medidas é considerada um requisito prévio para a aprovação do programa prevista no n.º 5 do artigo 4.º\n\n3. Sem prejuízo dos controlos efectuados pelos países beneficiários, a Comissão e o Tribunal de Contas podem, através dos seus agentes ou representantes devidamente autorizados, proceder a auditorias técnicas ou financeiras no local, incluindo controlos por amostragem e auditorias finais."
+  },
+  "a95f259d7a34a32c": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nA Comissão atribuirá os recursos disponíveis aos países candidatos para aplicação do n.º 2 do artigo 7.º No prazo de três meses a contar da data de adopção do presente regulamento, a Comissão comunicará a cada país candidato as suas decisões sobre a dotação financeira indicativa para sete anos."
+  },
+  "662cf62f00c33127": {
+   "fragment_id": "TÍTULO IV",
+   "type": "divisao",
+   "heading": "TÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV"
+  },
+  "1bd691919871fe6d": {
+   "fragment_id": "REGRAS DE EXECUÇÃO",
+   "type": "divisao",
+   "heading": "REGRAS DE EXECUÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REGRAS DE EXECUÇÃO"
+  },
+  "e633ec01e52ec0b7": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. A Comissão adoptará as regras de execução do presente regulamento nos termos do n.º 2 do artigo 50.º do Regulamento (CE) n.º 1260/1999.\n\n2. A Comissão adoptará as regras de execução financeiras nos termos do artigo 13.º do Regulamento (CE) n.º 1258/1999. Essas regras incluirão, nomeadamente, as disposições adequadas pra garantir a observância da disciplina orçamental."
+  },
+  "4f8efffddfe96470": {
+   "fragment_id": "TÍTULO V",
+   "type": "divisao",
+   "heading": "TÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V"
+  },
+  "4e5f5ef2cc0de1a3": {
+   "fragment_id": "OUTRAS DISPOSIÇÕES",
+   "type": "divisao",
+   "heading": "OUTRAS DISPOSIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OUTRAS DISPOSIÇÕES"
+  },
+  "88ff924aa0795aac": {
+   "fragment_id": "Artigo 13.º — Relatórios",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Relatórios\n\nA Comissão apresentará ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social e ao Comité das Regiões um relatório anual sobre o apoio comunitário concedido a título do presente regulamento.\n\nNesse relatório a Comissão indicará, em especial, os progressos alcançados na realização dos objectivos definidos no artigo 1.º"
+  },
+  "fd1f6efdb97a73cb": {
+   "fragment_id": "TÍTULO VI",
+   "type": "divisao",
+   "heading": "TÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VI"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "a41b6a4a67de15f5": {
+   "fragment_id": "Artigo 14.º — Informação e publicidade",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Informação e publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Informação e publicidade\n\n1. Os programas previstos no n.º 5 do artigo 4.º serão objecto de uma publicidade adequada nos países candidatos.\n\n2. A publicidade destinar-se-á especialmente a:\n\n— informar os beneficiários potenciais e as organizações profissionais sobre as possibilidades de assistência,\n\n— informar o público em geral acerca do papel desempenhado pela Comunidade em relação à ajuda.\n\nAs propostas e as medidas adoptadas para o efeito serão comunicadas à Comissão."
+  },
+  "644b3175f01e380f": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nUm país que se torne membro da União Europeia perde o direito ao apoio previsto no presente regulamento. Os recursos disponibilizados pelo facto de um país candidato se ter tornado membro da União Europeia serão reafectados a outros países candidatos referidos no n.º 1 do artigo 1.º A reafectação será efectuada em função das necessidades do país candidato e da sua capacidade de absorver a assistência assim como dos critérios previstos no n.º 3 do artigo 7.º\n\nO Conselho, deliberando por maioria qualificada sob proposta da Comissão, adoptará uma decisão que defina a abordagem geral da reafectação.\n\nA Comissão decidirá da reafectação dos recursos disponíveis entre os restantes beneficiários, nos termos do n.º 1 do artigo 12.º, em função da decisão do Conselho referida no segundo parágrafo do presente artigo."
+  },
+  "0d864bb0631c0fae": {
+   "fragment_id": "Artigo 16.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente regulamento entra em vigor três dias após a sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nO presente regulamento é aplicável a partir de 1 de Janeiro de 2000.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "923d08dea9fd7310": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/22c7326f-afad-4c33-a892-2706b615eb09.0010.03/DOC_1#src.E0001)) JO C 175 de 9.6.1998, p. 7 e\n\n> JO C 27 de 2.2.1999, p. 18.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/22c7326f-afad-4c33-a892-2706b615eb09.0010.03/DOC_1#src.E0002)) Parecer emitido em 6 de Maio de 1999 (ainda não publicado no Jornal Oficial)\n\n> ([^3^](http://publications.europa.eu/resource/cellar/22c7326f-afad-4c33-a892-2706b615eb09.0010.03/DOC_1#src.E0003)) JO C 101 de 12.4.1999.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/22c7326f-afad-4c33-a892-2706b615eb09.0010.03/DOC_1#src.E0004)) JO C 93 de 6.4.1999.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/22c7326f-afad-4c33-a892-2706b615eb09.0010.03/DOC_1#src.E0005)) Ver a página 73 do presente Jornal Oficial.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/22c7326f-afad-4c33-a892-2706b615eb09.0010.03/DOC_1#src.E0006)) Ver a página 68 do presente Jornal Oficial.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/22c7326f-afad-4c33-a892-2706b615eb09.0010.03/DOC_1#src.E0007)) JO L 85 de 20.3.1998, p. 3.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/22c7326f-afad-4c33-a892-2706b615eb09.0010.03/DOC_1#src.E0008)) Ver a página 1 do presente Jornal Oficial.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/22c7326f-afad-4c33-a892-2706b615eb09.0010.03/DOC_1#src.E0009)) JO L 160 de 26.6.1999, p. 103.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/22c7326f-afad-4c33-a892-2706b615eb09.0010.03/DOC_1#src.E0010)) JO L 139 de 11.5.1998, p. 1.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/22c7326f-afad-4c33-a892-2706b615eb09.0010.03/DOC_1#src.E0012)) JO L 160 de 26.6.1999, p. 80. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 583/2004 (JO L 91 de 30.3.2004, p. 1).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/22c7326f-afad-4c33-a892-2706b615eb09.0010.03/DOC_1#src.E0011)) JO L 306 de 7.12.2000, p. 1. Regulamento alterado pelo Regulamento (CE) n.º 2415/2001 (JO L 327 de 13.12.2001, p. 3)."
+  },
+  "1705d2b97ae77385": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Junho de 1999\n\nrelativo ao apoio comunitário a medidas de pré-adesão em matéria de agricultura e desenvolvimento rural nos países candidatos da Europa Central e Oriental durante o período de pré-adesão\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 308.º\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/8c91aaee-a579-47f1-a252-44789e93a1f5.0010.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/8c91aaee-a579-47f1-a252-44789e93a1f5.0010.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/8c91aaee-a579-47f1-a252-44789e93a1f5.0010.03/DOC_1#E0003)),\n\nTendo em conta o parecer do Comité das Regiões ([^4^](http://publications.europa.eu/resource/cellar/8c91aaee-a579-47f1-a252-44789e93a1f5.0010.03/DOC_1#E0004)),\n\n(1) Considerando que as conclusões do Conselho Europeu do Luxemburgo, de 12 e 13 de Dezembro de 1997, prevêem uma estratégia reforçada de pré-adesão para os países candidatos da Europa Central e Oriental e uma estratégia de pré-adesão específica para Chipre;\n\n(2) Considerando que as conclusões do Conselho Europeu prevêem que a ajuda prevista no presente regulamento seja por agora concedida aos 10 países candidatos da Europa Central e Oriental;\n\n(3) Considerando que a Comunidade decidiu fornecer uma assistência especial a favor dos países candidatos à adesão sob a forma de uma ajuda de pré-adesão, a fim de desenvolver acções destinadas a apoiar o actual processo de reforma económica e social nesses países e a preparar e facilitar a integração das suas economias na economia comunitária;\n\n(4) Considerando que a assistência a título do apoio comunitário a medidas de pré-adesão em matéria de agricultura e desenvolvimento rural nos países candidatos da Europa Central e Oriental durante o período de pré-adesão, juntamente com a assistência comunitária ao abrigo do Regulamento (CE) n.º 1267/1999 do Conselho, de 21 de Junho de 1999, que cria um instrumento estrutural de pré-adesão ([^5^](http://publications.europa.eu/resource/cellar/8c91aaee-a579-47f1-a252-44789e93a1f5.0010.03/DOC_1#E0005)), será coordenada no quadro do Regulamento (CE) n.º 1266/1999 do Conselho, de 21 de Junho de 1999, relativo à coordenação de assistência aos países candidatos no âmbito da estratégia de pré-adesão e que altera o Regulamento (CEE) n.º 3906/89 ([^6^](http://publications.europa.eu/resource/cellar/8c91aaee-a579-47f1-a252-44789e93a1f5.0010.03/DOC_1#E0006)) e ficará sujeita às disposições de condicionalidade do Regulamento (CE) n.º 622/98 do Conselho, de 16 de Março de 1998, relativo à assistência aos países candidatos no contexto da estratégia de pré-adesão, nomeadamente ao estabelecimento de parcerias de adesão ([^7^](http://publications.europa.eu/resource/cellar/8c91aaee-a579-47f1-a252-44789e93a1f5.0010.03/DOC_1#E0007));\n\n(5) Considerando que o ponto 17 das conclusões do Conselho Europeu do Luxemburgo, de 12 e 13 de Dezembro de 1997, prêve que o apoio financeiro aos países implicados no processo de alargamento deverá basear-se, para a repartição da ajuda, no princípio da igualdade de tratamento, independentemente da data da adesão, sendo prestada especial atenção aos Estados com maiores necessidades;\n\n(6) Considerando que a ajuda comunitária de pré-adesão deve ter por objectivo, especialmente, resolver problemas prioritários de adaptação das economias dos países candidatos, de um modo sustentável, e facilitar a respectiva execução do acervo comunitário, com particular ênfase para a política agrícola comum (PAC);\n\n(7) Considerando que a ajuda de pré-adesão no sector agrícola deve respeitar as prioridades da política agrícola comum pós-reforma; que essa ajuda deve ser aplicada em áreas prioritárias a definir para cada país, tais como a melhoria das estruturas de transformação dos produtos agrícolas e dos produtos da pesca, a distribuição, o controlo de qualidade dos géneros alimentícios, a fiscalização veterinária e fitossanitária e a criação de agrupamentos de produtores; que deverá ser igualmente possível financiar projectos integrados de desenvolvimento rural destinados a apoiar iniciativas locais e medidas agro-ambientais, a melhorar a eficácia das explorações agrícolas e a adaptar infra-estruturas, bem como medidas que acelerem a reconversão estrutural;\n\n(8) Considerando que, no sector agrícola, o apoio comunitário será concretizado sob a forma de programas plurianuais, estabelecidos de acordo com as directrizes e os princípios dos programas operacionais aplicados no âmbito da política estrutural, a fim de facilitar a aplicação dos princípios e dos procedimentos em vigor nos países candidatos;\n\n(9) Considerando que, de acordo com o Regulamento (CE) n.º 1260/1999 do Conselho, de 29 de Junho de 1999, que estabelece disposições gerais sobre os Fundos estruturais ([^8^](http://publications.europa.eu/resource/cellar/8c91aaee-a579-47f1-a252-44789e93a1f5.0010.03/DOC_1#E0008)) uma medida só pode receber assistência de um único instrumento financeiro comunitário durante um dado período, atentas, no caso do Banco Europeu de Investimento (BEI), as suas próprias regras sobre a concessão de assistência;\n\n(10) Considerando que os fundos comunitários não devem substituir o financiamento disponível em cada país candidato e que a assistência da Comunidade constitui uma contribuição financeira para a realização dos projectos;\n\n(11) Considerando que a ajuda de pré-adesão no sector agrícola deve ser concedida sob a forma de uma contribuição financeira condicionada às regras financeiras específicas previstas no Regulamento (CE) n.º 1258/1999 do Conselho, de 17 de Maio de 1999, relativo ao financiamento da política agrícola comum ([^9^](http://publications.europa.eu/resource/cellar/8c91aaee-a579-47f1-a252-44789e93a1f5.0010.03/DOC_1#E0009));\n\n(12) Considerando que a repartição pelos países candidatos dos recursos fixados pela autoridade orçamental no preâmbulo do presente instrumento, deve ter plenamente em conta a prosperidade nacional, com base no produto interno bruto, a população agrícola activa e a superfície agrícola utilizada, bem como, se necessário, as particularidades territoriais específicas;\n\n(13) Considerando que é conveniente que os países candidatos apresentem os seus planos o mais rapidamente possível, a fim de não atrasar a aplicação das medidas de pré-adesão a partir de 1 de Janeiro de 2000;\n\n(14) Considerando que o estabelecimento desses programas, a sua execução e os mecanismos de acompanhamento devem observar as regras específicas dos Fundos estruturais, facilitando assim a transferência do acervo comunitário;\n\n(15) Considerando que se deve proceder a uma avaliação prévia pormenorizada antes da autorização de recursos comunitários, a fim de assegurar que o programa corresponda às necessidades reais, de permitir uma certa flexibilidade na realização da intervenção comunitária, para atender às informações pertinentes e aos primeiros resultados das medidas, e de reforçar o acompanhamento e a avaliação subsequente, para garantir a concretização do impacte previsto;\n\n(16) Considerando que é conveniente prever a constituição de um comité que assista a Comissão no acompanhamento de cada programa;\n\n(17) Considerando que as decisões necessárias devem ser adoptadas nos termos do n.º 2 do artigo 50.º do Regulamento (CE) n.º 1260/1999 e, em relação a questões financeiras específicas, nos termos do artigo 13.º do Regulamento (CE) n.º 1258/1999;\n\n(18) Considerando que devem ser apresentados ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social e ao Comité das Regiões relatórios sobre os progressos realizados na aplicação da ajuda agrícola de pré-adesão;\n\n(19) Considerando que, durante o período de transição (1 de Janeiro de 1999 a 31 de Dezembro de 2001), qualquer referência ao euro deve, em regra geral, ser entendida como uma referência ao euro enquanto unidade monetária, nos termos do segundo período do artigo 2.º do Regulamento (CE) n.º 974/98 do Conselho, de 3 de Maio de 1998, relativo à introdução do euro ([^10^](http://publications.europa.eu/resource/cellar/8c91aaee-a579-47f1-a252-44789e93a1f5.0010.03/DOC_1#E0010));\n\n(20) Considerando que a execução destas medidas contribuirá para a realização dos objectivos da União e que o Tratado não prevê, para a adopção do presente regulamento, outros poderes para além dos previstos no artigo 308.º,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "a75fe5c7aa72352b": {
+   "fragment_id": "Artigo 1.º — Objectivos",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivos\n\n1. O presente regulamento estabelece o quadro do apoio comunitário à agricultura e ao desenvolvimento rural sustentáveis para o período de pré-adesão, na Bulgária, na Croácia e na Roménia. O presente regulamento continua a ser aplicável até à conclusão dos programas iniciados, ao seu abrigo, na República Checa, na Eslováquia, na Eslovénia, na Estónia, na Letónia, na Lituânia, na Hungria, na Polónia, antes da sua adesão à União Europeia.\n\n2. O apoio comunitário deve respeitar as condições estabelecidas no âmbito das parcerias de adesão e destina-se especialmente a:\n\na) Contribuir para a execução do acervo comunitário relativo à política agrícola comum e políticas conexas;\n\nb) Resolver problemas prioritários e específicos de adaptação sustentável do sector agrícola e das zonas rurais nos países candidatos;"
+  },
+  "659e7ed990bfd306": {
+   "fragment_id": "Artigo 2.º — Medidas",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Medidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Medidas\n\nSegundo as prioridades definidas pelos países candidatos, e tal como previsto n.º 3 do artigo 4.º, o apoio à agricultura e ao desenvolvimento rural deve incidir sobre uma ou várias das seguintes medidas, as quais devem ser compatíveis com o acervo comunitário relevante:\n\n— investimentos em explorações agrícolas,\n\n— melhoria da transformação e comercialização dos produtos agrícolas e dos produtos da pesca,\n\n— melhoramento das estruturas de controlo da qualidade e de fiscalização veterinária e fitossanitária, para efeitos de qualidade dos géneros alimentícios e de defesa do consumidor,\n\n— métodos de produção agrícola concebidos para proteger o ambiente e preservar o espaço natural,\n\n— desenvolvimento e diversificação de actividades económicas com vista à criação de ocupações múltiplas ou rendimentos alternativos,\n\n— criação de serviços de substituição e gestão nas explorações agrícolas,\n\n— criação de agrupamentos de produtores,\n\n— renovação e desenvolvimento de pequenos aglomerados populacionais e protecção e conservação da herança rural,\n\n— melhoria fundiária e emparcelamento,\n\n— estabelecimento e actualização de cadastros fundiários,\n\n— melhoria da formação profissional,\n\n— desenvolvimento e melhoramento de infra-estruturas rurais,\n\n— gestão dos recursos hídricos agrícolas,\n\n— silvicultura, incluindo arborização de zonas agrícolas, investimentos em explorações silvícolas de propriedade privada e transformação e comercialização de produtos florestais,\n\n— assistência técnica às medidas abrangidas pelo presente regulamento, incluindo estudos para apoiar a preparação e o acompanhamento do programa e campanhas de informação e publicidade,\n\n— no respeitante à Bulgária e à Roménia, preparação das comunidades rurais para conceber e executar estratégias locais de desenvolvimento rural e estratégias integradas de desenvolvimento territorial numa base piloto, nos limites definidos no artigo 33.º-F do Regulamento (CE) n.º 1257/1999 do Conselho de 17 de Maio de 1999 relativo ao apoio do Fundo Europeu de Orientação e de Garantia Agrícola (FEOGA) ao desenvolvimento rural ([^11^](http://publications.europa.eu/resource/cellar/8c91aaee-a579-47f1-a252-44789e93a1f5.0010.03/DOC_1#E0012))."
+  },
+  "276e3112349ff45b": {
+   "fragment_id": "Artigo 3.º — Complementaridade e assistência técnica",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Complementaridade e assistência técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Complementaridade e assistência técnica\n\n1. A acção comunitária será concebida como um complemento das acções nacionais correspondentes ou como um contributo para as mesmas e será estabelecida através de uma cooperação estreita entre a Comissão, o país candidato e as autoridades e organismos competentes, bem como os parceiros económicos e sociais ao nível adequado. Essa cooperação abrangerá a preparação e a execução, incluindo o financiamento e a apreciação, o acompanhamento e a avaliação das medidas.\n\n2. No quadro da assistência técnica, a Comissão tomará iniciativas e medidas para assegurar que as medidas comunitárias contribuam para os objectivos prioritários a que se refere o n.º 1 e proporcionem um valor acrescentado às iniciativas nacionais.\n\n3. As pessoas singulares e colectivas de Chipre, Malta e Turquia, bem como dos países que beneficiam de ajuda ao abrigo do Regulamento (CE) n.º 2666/2000 do Conselho, de 5 de Dezembro de 2000, relativo à ajuda à Albânia, à Bósnia-Herzegovina, à Croácia, à República Federativa da Jugoslávia e à antiga República jugoslava da Macedónia ([^12^](http://publications.europa.eu/resource/cellar/8c91aaee-a579-47f1-a252-44789e93a1f5.0010.03/DOC_1#E0011)) podem participar em concursos e contratos em igualdade de condições com todas as pessoas singulares e colectivas dos Estados-Membros abrangidas pelo âmbito de aplicação dos Tratados e dos países beneficiários."
+  },
+  "be1702dc0f310b1d": {
+   "fragment_id": "Artigo 4.º — Programação",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Programação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Programação\n\n1. As medidas destinadas à agricultura e ao desenvolvimento rural sustentável abrangidas pelo presente regulamento serão objecto de um plano a elaborar ao nível territorial mais adequado. Os planos serão preparados pelas autoridades competentes designadas pelos países candidatos e serão apresentados por esses países à Comissão, após consulta das autoridades e organismos competentes ao nível adequado.\n\n2. O plano cobrirá um período máximo de sete anos a partir de 2000, sob reserva do n.º 2 do artigo 1.º, e incluirá:\n\n— uma descrição quantificada da situação actual, que indique as disparidades, atrasos e potencialidades de desenvolvimento, os principais resultados de anteriores operações efectuadas com assistência comunitária, os recursos financeiros mobilizados e os resultados disponíveis das avaliações,\n\n— uma descrição da estratégia proposta, os seus objectivos quantificados, as prioridades seleccionadas e o âmbito geográfico,\n\n— uma apreciação prévia, que mostre o impacte esperado em termos económicos, ambientais e sociais, incluindo os efeitos no emprego,\n\n— um quadro financeiro indicativo global, que discrimine os recursos financeiros nacionais, comunitários — e, se for caso disso, privados — previstos, correspondentes a cada prioridade de desenvolvimento rural adoptada no âmbito do plano, incluindo, se necessário, as medidas financiadas pelo BEI e outros instrumentos financeiros internacionais,\n\n— um perfil financeiro indicativo para cada ano abrangido pelo período de programação em relação a cada fonte que contribua para o programa,\n\n— se for caso disso, informações sobre a necessidade de estudos, formação ou assistência técnica relativos à preparação, execução ou adopção das medidas em causa,\n\n— os nomes das autoridades e organismos competentes, responsáveis pela execução do programa, incluindo a entidade pagadora,\n\n— a definição dos «beneficiários finais», que podem ser organizações ou empresas, públicas ou privadas, responsáveis pela condução das operações. No caso de serem concedidos auxílios públicos por outras autoridades designadas pelos países candidatos, os beneficiários finais serão as instituições que decidem da concessão da ajuda pública,\n\n— a descrição das medidas previstas para a realização dos planos, nomeadamente regimes de auxílio, incluindo os elementos necessários para a determinação da observância das regras de concorrência,\n\n— disposições que assegurem uma correcta execução do programa, incluindo o acompanhamento e a avaliação e a definição de indicadores quantitativos para a avaliação e dos regimes de controlos e sanções,\n\n— os resultados das consultas e as disposições tomadas para a associação de autoridades e organismos competentes, bem como dos parceiros económicos, sociais e ambientais adequados.\n\nEm derrogação do primeiro parágrafo e no caso da Croácia, o plano cobrirá, nas condições previstas nesse parágrafo, um período máximo de dois anos a partir de 2005.\n\n3. Nos seus planos, os países candidatos devem assegurar que seja dada prioridade às medidas de melhoria da eficácia do mercado, das normas de qualidade e das normas sanitárias e às medidas de criação de emprego nas zonas rurais, de acordo com o disposto em matéria de protecção do ambiente.\n\n4. Salvo acordo em contrário com o país candidato, o plano deve ser apresentado no prazo de seis meses a contar da data de entrada em vigor do presente regulamento.\n\n5. Com base no plano de cada país candidato, e no prazo de seis meses a contar da data da sua apresentação, será aprovado um programa de agricultura e desenvolvimento rural pela Comissão, nos termos do n.º 2 do artigo 50.º do Regulamento (CE) n.º 1260/1999, desde que estejam disponíveis todas as informações pertinentes. Nomeadamente, a Comissão apreciará o plano proposto em função da sua coerência com o presente regulamento.\n\n6. O programa pode, se necessário, ser revisto e adaptado em função:\n\n— da evolução socioeconómica, de novas informações pertinentes e dos resultados da execução das acções em causa, incluindo os resultados do acompanhamento e da avaliação, bem como da necessidade de adaptar os montantes de ajuda disponível,\n\n— de acções realizadas no âmbito da parceria de adesão e do programa nacional de adopção do acervo comunitário, ou\n\n— de uma reafectação dos recursos nos termos do artigo 15.º"
+  },
+  "6dc2aada42ea4300": {
+   "fragment_id": "Artigo 5.º — Apreciação prévia, acompanhamento e avaliação",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Apreciação prévia, acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Apreciação prévia, acompanhamento e avaliação\n\n1. A fim de determinar a sua eficácia, o apoio às medidas incluídas no programa será objecto de uma apreciação prévia e de uma apreciação intercalar, de um acompanhamento contínuo e de uma avaliação subsequente, destinados a permitir apreciar os seus resultados e o seu impacte em relação aos objectivos definidos.[**►M5**](http://publications.europa.eu/resource/celex/32004R2257) No entanto, no caso da Croácia, o respectivo programa não pode ser objecto de uma apreciação intercalar.**◄**\n\n2. A Comissão e o país candidato acompanharão a execução do programa. Esse acompanhamento será realizado através de processos acordados em conjunto.\n\nO acompanhamento será efectuado por referência a indicadores específicos, de carácter físico, ambiental e financeiro, previamente acordados e definidos.\n\nOs países candidatos apresentarão à Comissão relatórios anuais sobre os progressos efectuados, até ao termo do primeiro semestre do ano subsequente, os quais conterão, pelo menos, as informações referidas no artigo 37.º do Regulamento (CE) n.º 1260/1999.\n\n3. Para cada programa de desenvolvimento rural será criado um Comité de Acompanhamento, nos termos do artigo 35.º do Regulamento (CE) n.º 1260/1999."
+  },
+  "be1e84ad97e6a0c9": {
+   "fragment_id": "Artigo 7.º — Recursos",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Recursos\n\nA assistência comunitária prevista no presente regulamento será concedida durante o período compreendido entre 2000 e 2006, com excepção da assistência comunitária à Croácia, que será concedida durante o período compreendido entre 2005 e 2006. As dotações anuais serão autorizadas pela autoridade orçamental dentro dos limites das perspectivas financeiras.\n\n2. A contribuição financeira da Comunidade para a execução do programa de desenvolvimento rural será concedida sob a forma de adiantamentos, co-financiamento e financiamento, de acordo com os princípios previstos no artigo 30.º do Regulamento (CE) n.º 1260/1999.\n\nOs pagamentos relativos à assistência financeira podem assumir a forma de adiantamentos para a execução do programa e de pagamentos de despesas efectuadas.\n\n3. A dotação financeira a atribuir a cada país candidato ao abrigo do presente instrumento basear-se-á nos seguintes critérios objectivos:\n\n— população agrícola,\n\n— superfície agrícola,\n\n— produto interno bruto (PIB) *per capita* em paridade de poder de compra,\n\n— situação territorial específica.\n\nNo entanto, no caso da Croácia, a dotação financeira anual será fixada separadamente.\n\n4. No período referido no n.º 2 do artigo 4.º, podem ser afectados até 2 % da dotação anual, ao financiamento de medidas tomadas por iniciativa da Comissão para estudos preliminares, visitas de intercâmbio, avaliações e controlos."
+  },
+  "d57ff0406c795aab": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nA Comissão atribuirá os recursos disponíveis aos países candidatos para aplicação do n.º 2 do artigo 7.º. No prazo de três meses a contar da data em que decidir que um determinado país candidato é elegível para assistência a título do presente regulamento, a Comissão comunicará a esse país candidato a sua decisão sobre a dotação financeira indicativa para as perspectivas financeiras em curso."
+  },
+  "600c1ad5fb42233c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/8c91aaee-a579-47f1-a252-44789e93a1f5.0010.03/DOC_1#src.E0001)) JO C 175 de 9.6.1998, p. 7 e\n\n> JO C 27 de 2.2.1999, p. 18.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/8c91aaee-a579-47f1-a252-44789e93a1f5.0010.03/DOC_1#src.E0002)) Parecer emitido em 6 de Maio de 1999 (ainda não publicado no Jornal Oficial)\n\n> ([^3^](http://publications.europa.eu/resource/cellar/8c91aaee-a579-47f1-a252-44789e93a1f5.0010.03/DOC_1#src.E0003)) JO C 101 de 12.4.1999.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/8c91aaee-a579-47f1-a252-44789e93a1f5.0010.03/DOC_1#src.E0004)) JO C 93 de 6.4.1999.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/8c91aaee-a579-47f1-a252-44789e93a1f5.0010.03/DOC_1#src.E0005)) Ver a página 73 do presente Jornal Oficial.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/8c91aaee-a579-47f1-a252-44789e93a1f5.0010.03/DOC_1#src.E0006)) Ver a página 68 do presente Jornal Oficial.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/8c91aaee-a579-47f1-a252-44789e93a1f5.0010.03/DOC_1#src.E0007)) JO L 85 de 20.3.1998, p. 3.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/8c91aaee-a579-47f1-a252-44789e93a1f5.0010.03/DOC_1#src.E0008)) Ver a página 1 do presente Jornal Oficial.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/8c91aaee-a579-47f1-a252-44789e93a1f5.0010.03/DOC_1#src.E0009)) JO L 160 de 26.6.1999, p. 103.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/8c91aaee-a579-47f1-a252-44789e93a1f5.0010.03/DOC_1#src.E0010)) JO L 139 de 11.5.1998, p. 1.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/8c91aaee-a579-47f1-a252-44789e93a1f5.0010.03/DOC_1#src.E0012)) JO L 160 de 26.6.1999, p. 80. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 583/2004 (JO L 91 de 30.3.2004, p. 1).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/8c91aaee-a579-47f1-a252-44789e93a1f5.0010.03/DOC_1#src.E0011)) JO L 306 de 7.12.2000, p. 1. Regulamento alterado pelo Regulamento (CE) n.º 2415/2001 (JO L 327 de 13.12.2001, p. 3)."
+  },
+  "3f6003a399e77aaa": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Junho de 1999\n\nrelativo ao apoio comunitário a medidas de pré-adesão em matéria de agricultura e desenvolvimento rural nos países candidatos da Europa Central e Oriental durante o período de pré-adesão\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 308.º\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/4ed0c307-1a1f-4747-990c-91af454cdc49.0016.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/4ed0c307-1a1f-4747-990c-91af454cdc49.0016.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/4ed0c307-1a1f-4747-990c-91af454cdc49.0016.03/DOC_1#E0003)),\n\nTendo em conta o parecer do Comité das Regiões ([^4^](http://publications.europa.eu/resource/cellar/4ed0c307-1a1f-4747-990c-91af454cdc49.0016.03/DOC_1#E0004)),\n\n(1) Considerando que as conclusões do Conselho Europeu do Luxemburgo, de 12 e 13 de Dezembro de 1997, prevêem uma estratégia reforçada de pré-adesão para os países candidatos da Europa Central e Oriental e uma estratégia de pré-adesão específica para Chipre;\n\n(2) Considerando que as conclusões do Conselho Europeu prevêem que a ajuda prevista no presente regulamento seja por agora concedida aos 10 países candidatos da Europa Central e Oriental;\n\n(3) Considerando que a Comunidade decidiu fornecer uma assistência especial a favor dos países candidatos à adesão sob a forma de uma ajuda de pré-adesão, a fim de desenvolver acções destinadas a apoiar o actual processo de reforma económica e social nesses países e a preparar e facilitar a integração das suas economias na economia comunitária;\n\n(4) Considerando que a assistência a título do apoio comunitário a medidas de pré-adesão em matéria de agricultura e desenvolvimento rural nos países candidatos da Europa Central e Oriental durante o período de pré-adesão, juntamente com a assistência comunitária ao abrigo do Regulamento (CE) n.º 1267/1999 do Conselho, de 21 de Junho de 1999, que cria um instrumento estrutural de pré-adesão ([^5^](http://publications.europa.eu/resource/cellar/4ed0c307-1a1f-4747-990c-91af454cdc49.0016.03/DOC_1#E0005)), será coordenada no quadro do Regulamento (CE) n.º 1266/1999 do Conselho, de 21 de Junho de 1999, relativo à coordenação de assistência aos países candidatos no âmbito da estratégia de pré-adesão e que altera o Regulamento (CEE) n.º 3906/89 ([^6^](http://publications.europa.eu/resource/cellar/4ed0c307-1a1f-4747-990c-91af454cdc49.0016.03/DOC_1#E0006)) e ficará sujeita às disposições de condicionalidade do Regulamento (CE) n.º 622/98 do Conselho, de 16 de Março de 1998, relativo à assistência aos países candidatos no contexto da estratégia de pré-adesão, nomeadamente ao estabelecimento de parcerias de adesão ([^7^](http://publications.europa.eu/resource/cellar/4ed0c307-1a1f-4747-990c-91af454cdc49.0016.03/DOC_1#E0007));\n\n(5) Considerando que o ponto 17 das conclusões do Conselho Europeu do Luxemburgo, de 12 e 13 de Dezembro de 1997, prêve que o apoio financeiro aos países implicados no processo de alargamento deverá basear-se, para a repartição da ajuda, no princípio da igualdade de tratamento, independentemente da data da adesão, sendo prestada especial atenção aos Estados com maiores necessidades;\n\n(6) Considerando que a ajuda comunitária de pré-adesão deve ter por objectivo, especialmente, resolver problemas prioritários de adaptação das economias dos países candidatos, de um modo sustentável, e facilitar a respectiva execução do acervo comunitário, com particular ênfase para a política agrícola comum (PAC);\n\n(7) Considerando que a ajuda de pré-adesão no sector agrícola deve respeitar as prioridades da política agrícola comum pós-reforma; que essa ajuda deve ser aplicada em áreas prioritárias a definir para cada país, tais como a melhoria das estruturas de transformação dos produtos agrícolas e dos produtos da pesca, a distribuição, o controlo de qualidade dos géneros alimentícios, a fiscalização veterinária e fitossanitária e a criação de agrupamentos de produtores; que deverá ser igualmente possível financiar projectos integrados de desenvolvimento rural destinados a apoiar iniciativas locais e medidas agro-ambientais, a melhorar a eficácia das explorações agrícolas e a adaptar infra-estruturas, bem como medidas que acelerem a reconversão estrutural;\n\n(8) Considerando que, no sector agrícola, o apoio comunitário será concretizado sob a forma de programas plurianuais, estabelecidos de acordo com as directrizes e os princípios dos programas operacionais aplicados no âmbito da política estrutural, a fim de facilitar a aplicação dos princípios e dos procedimentos em vigor nos países candidatos;\n\n(9) Considerando que, de acordo com o Regulamento (CE) n.º 1260/1999 do Conselho, de 29 de Junho de 1999, que estabelece disposições gerais sobre os Fundos estruturais ([^8^](http://publications.europa.eu/resource/cellar/4ed0c307-1a1f-4747-990c-91af454cdc49.0016.03/DOC_1#E0008)) uma medida só pode receber assistência de um único instrumento financeiro comunitário durante um dado período, atentas, no caso do Banco Europeu de Investimento (BEI), as suas próprias regras sobre a concessão de assistência;\n\n(10) Considerando que os fundos comunitários não devem substituir o financiamento disponível em cada país candidato e que a assistência da Comunidade constitui uma contribuição financeira para a realização dos projectos;\n\n(11) Considerando que a ajuda de pré-adesão no sector agrícola deve ser concedida sob a forma de uma contribuição financeira condicionada às regras financeiras específicas previstas no Regulamento (CE) n.º 1258/1999 do Conselho, de 17 de Maio de 1999, relativo ao financiamento da política agrícola comum ([^9^](http://publications.europa.eu/resource/cellar/4ed0c307-1a1f-4747-990c-91af454cdc49.0016.03/DOC_1#E0009));\n\n(12) Considerando que a repartição pelos países candidatos dos recursos fixados pela autoridade orçamental no preâmbulo do presente instrumento, deve ter plenamente em conta a prosperidade nacional, com base no produto interno bruto, a população agrícola activa e a superfície agrícola utilizada, bem como, se necessário, as particularidades territoriais específicas;\n\n(13) Considerando que é conveniente que os países candidatos apresentem os seus planos o mais rapidamente possível, a fim de não atrasar a aplicação das medidas de pré-adesão a partir de 1 de Janeiro de 2000;\n\n(14) Considerando que o estabelecimento desses programas, a sua execução e os mecanismos de acompanhamento devem observar as regras específicas dos Fundos estruturais, facilitando assim a transferência do acervo comunitário;\n\n(15) Considerando que se deve proceder a uma avaliação prévia pormenorizada antes da autorização de recursos comunitários, a fim de assegurar que o programa corresponda às necessidades reais, de permitir uma certa flexibilidade na realização da intervenção comunitária, para atender às informações pertinentes e aos primeiros resultados das medidas, e de reforçar o acompanhamento e a avaliação subsequente, para garantir a concretização do impacte previsto;\n\n(16) Considerando que é conveniente prever a constituição de um comité que assista a Comissão no acompanhamento de cada programa;\n\n(17) Considerando que as decisões necessárias devem ser adoptadas nos termos do n.º 2 do artigo 50.º do Regulamento (CE) n.º 1260/1999 e, em relação a questões financeiras específicas, nos termos do artigo 13.º do Regulamento (CE) n.º 1258/1999;\n\n(18) Considerando que devem ser apresentados ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social e ao Comité das Regiões relatórios sobre os progressos realizados na aplicação da ajuda agrícola de pré-adesão;\n\n(19) Considerando que, durante o período de transição (1 de Janeiro de 1999 a 31 de Dezembro de 2001), qualquer referência ao euro deve, em regra geral, ser entendida como uma referência ao euro enquanto unidade monetária, nos termos do segundo período do artigo 2.º do Regulamento (CE) n.º 974/98 do Conselho, de 3 de Maio de 1998, relativo à introdução do euro ([^10^](http://publications.europa.eu/resource/cellar/4ed0c307-1a1f-4747-990c-91af454cdc49.0016.03/DOC_1#E0010));\n\n(20) Considerando que a execução destas medidas contribuirá para a realização dos objectivos da União e que o Tratado não prevê, para a adopção do presente regulamento, outros poderes para além dos previstos no artigo 308.º,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "b7a343f8aa05ebf6": {
+   "fragment_id": "Artigo 2.º — Medidas",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Medidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Medidas\n\nSegundo as prioridades definidas pelos países candidatos, e tal como previsto n.º 3 do artigo 4.º, o apoio à agricultura e ao desenvolvimento rural deve incidir sobre uma ou várias das seguintes medidas, as quais devem ser compatíveis com o acervo comunitário relevante:\n\n— investimentos em explorações agrícolas,\n\n— melhoria da transformação e comercialização dos produtos agrícolas e dos produtos da pesca,\n\n— melhoramento das estruturas de controlo da qualidade e de fiscalização veterinária e fitossanitária, para efeitos de qualidade dos géneros alimentícios e de defesa do consumidor,\n\n— métodos de produção agrícola concebidos para proteger o ambiente e preservar o espaço natural,\n\n— desenvolvimento e diversificação de actividades económicas com vista à criação de ocupações múltiplas ou rendimentos alternativos,\n\n— criação de serviços de substituição e gestão nas explorações agrícolas,\n\n— criação de agrupamentos de produtores,\n\n— renovação e desenvolvimento de pequenos aglomerados populacionais e protecção e conservação da herança rural,\n\n— melhoria fundiária e emparcelamento,\n\n— estabelecimento e actualização de cadastros fundiários,\n\n— melhoria da formação profissional,\n\n— desenvolvimento e melhoramento de infra-estruturas rurais,\n\n— gestão dos recursos hídricos agrícolas,\n\n— silvicultura, incluindo arborização de zonas agrícolas, investimentos em explorações silvícolas de propriedade privada e transformação e comercialização de produtos florestais,\n\n— assistência técnica às medidas abrangidas pelo presente regulamento, incluindo estudos para apoiar a preparação e o acompanhamento do programa e campanhas de informação e publicidade,\n\n— no respeitante à Bulgária e à Roménia, preparação das comunidades rurais para conceber e executar estratégias locais de desenvolvimento rural e estratégias integradas de desenvolvimento territorial numa base piloto, nos limites definidos no artigo 33.º-F do Regulamento (CE) n.º 1257/1999 do Conselho de 17 de Maio de 1999 relativo ao apoio do Fundo Europeu de Orientação e de Garantia Agrícola (FEOGA) ao desenvolvimento rural ([^11^](http://publications.europa.eu/resource/cellar/4ed0c307-1a1f-4747-990c-91af454cdc49.0016.03/DOC_1#E0012))."
+  },
+  "835ae392bf179dc4": {
+   "fragment_id": "Artigo 3.º — Complementaridade e assistência técnica",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Complementaridade e assistência técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Complementaridade e assistência técnica\n\n1. A acção comunitária será concebida como um complemento das acções nacionais correspondentes ou como um contributo para as mesmas e será estabelecida através de uma cooperação estreita entre a Comissão, o país candidato e as autoridades e organismos competentes, bem como os parceiros económicos e sociais ao nível adequado. Essa cooperação abrangerá a preparação e a execução, incluindo o financiamento e a apreciação, o acompanhamento e a avaliação das medidas.\n\n2. No quadro da assistência técnica, a Comissão tomará iniciativas e medidas para assegurar que as medidas comunitárias contribuam para os objectivos prioritários a que se refere o n.º 1 e proporcionem um valor acrescentado às iniciativas nacionais.\n\n3. As pessoas singulares e colectivas de Chipre, Malta e Turquia, bem como dos países que beneficiam de ajuda ao abrigo do Regulamento (CE) n.º 2666/2000 do Conselho, de 5 de Dezembro de 2000, relativo à ajuda à Albânia, à Bósnia-Herzegovina, à Croácia, à República Federativa da Jugoslávia e à antiga República jugoslava da Macedónia ([^12^](http://publications.europa.eu/resource/cellar/4ed0c307-1a1f-4747-990c-91af454cdc49.0016.03/DOC_1#E0011)) podem participar em concursos e contratos em igualdade de condições com todas as pessoas singulares e colectivas dos Estados-Membros abrangidas pelo âmbito de aplicação dos Tratados e dos países beneficiários. [**►M6**](http://publications.europa.eu/resource/celex/32005R2112) O direito de participar em concursos ao abrigo do presente regulamento é definido de acordo com as regras de elegibilidade e respectivas derrogações, previstas no presente regulamento e no Regulamento (CE) n.º 2112/2005 do Conselho, de 21 de Novembro de 2005, relativo ao acesso à ajuda externa da Comunidade ([^13^](http://publications.europa.eu/resource/cellar/4ed0c307-1a1f-4747-990c-91af454cdc49.0016.03/DOC_1#E0014)).**◄**"
+  },
+  "27d8cbaa3608c115": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4ed0c307-1a1f-4747-990c-91af454cdc49.0016.03/DOC_1#src.E0001)) JO C 175 de 9.6.1998, p. 7 e\n\n> JO C 27 de 2.2.1999, p. 18.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/4ed0c307-1a1f-4747-990c-91af454cdc49.0016.03/DOC_1#src.E0002)) Parecer emitido em 6 de Maio de 1999 (ainda não publicado no Jornal Oficial)\n\n> ([^3^](http://publications.europa.eu/resource/cellar/4ed0c307-1a1f-4747-990c-91af454cdc49.0016.03/DOC_1#src.E0003)) JO C 101 de 12.4.1999.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/4ed0c307-1a1f-4747-990c-91af454cdc49.0016.03/DOC_1#src.E0004)) JO C 93 de 6.4.1999.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/4ed0c307-1a1f-4747-990c-91af454cdc49.0016.03/DOC_1#src.E0005)) Ver a página 73 do presente Jornal Oficial.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/4ed0c307-1a1f-4747-990c-91af454cdc49.0016.03/DOC_1#src.E0006)) Ver a página 68 do presente Jornal Oficial.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/4ed0c307-1a1f-4747-990c-91af454cdc49.0016.03/DOC_1#src.E0007)) JO L 85 de 20.3.1998, p. 3.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/4ed0c307-1a1f-4747-990c-91af454cdc49.0016.03/DOC_1#src.E0008)) Ver a página 1 do presente Jornal Oficial.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/4ed0c307-1a1f-4747-990c-91af454cdc49.0016.03/DOC_1#src.E0009)) JO L 160 de 26.6.1999, p. 103.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/4ed0c307-1a1f-4747-990c-91af454cdc49.0016.03/DOC_1#src.E0010)) JO L 139 de 11.5.1998, p. 1.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/4ed0c307-1a1f-4747-990c-91af454cdc49.0016.03/DOC_1#src.E0012)) JO L 160 de 26.6.1999, p. 80. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 583/2004 (JO L 91 de 30.3.2004, p. 1).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/4ed0c307-1a1f-4747-990c-91af454cdc49.0016.03/DOC_1#src.E0011)) JO L 306 de 7.12.2000, p. 1. Regulamento alterado pelo Regulamento (CE) n.º 2415/2001 (JO L 327 de 13.12.2001, p. 3).\n\n> ([^13^](http://publications.europa.eu/resource/cellar/4ed0c307-1a1f-4747-990c-91af454cdc49.0016.03/DOC_1#src.E0014)) JO L 344 de 27.12.2005, p. 23."
+  },
+  "a597c5746090f2ec": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1999R1268 — PT — 01.01.2007 — 006.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31999R1268) [REGULAMENTO (CE) N.º 1268/1999 DO CONSELHO](http://publications.europa.eu/resource/celex/31999R1268) [de 21 de Junho de 1999](http://publications.europa.eu/resource/celex/31999R1268) [relativo ao apoio comunitário a medidas de pré-adesão em matéria de agricultura e desenvolvimento rural nos países candidatos da Europa Central e Oriental durante o período de pré-adesão](http://publications.europa.eu/resource/celex/31999R1268) (JO L 161, 26.6.1999, p.87)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1085/2006 do Conselho de 17 de Julho de 2006](http://publications.europa.eu/resource/celex/32006R1085) — L 210 — 82 — 31.7.2006"
+  }
+ }
+}

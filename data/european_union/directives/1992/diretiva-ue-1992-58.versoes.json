@@ -1,0 +1,245 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992L0058:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0058-20190726",
+ "dre_path": null,
+ "source_lastmod": "2019-07-26",
+ "versions": [
+  {
+   "date": "1992-08-26",
+   "future": false,
+   "celex": "31992L0058",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ad9090dbbdc43262",
+    "d53a76c36f3745eb",
+    "4e504b35c807220b",
+    "fdb41aac42cd5ac9",
+    "bc29caac608d48a2",
+    "dc2e63b8d5819517",
+    "4cd048162de4689d",
+    "74afe998a6d96699",
+    "b1170e66050d8de2",
+    "dc18561f442a0fda",
+    "8216cf0ca520082e",
+    "e7d63441fd0c53b3",
+    "c9c91d1d7d408141",
+    "533aa7466d235a93",
+    "cbc6e835fd0a01e7",
+    "a5bde475a499889b",
+    "87f7d3d82413b7ee",
+    "0030e2f20e42b9f7",
+    "92006a1099e5c2e7",
+    "e647665fbfd4a123",
+    "97087ba6f92ee2b7",
+    "c4ec238a6a82ac6b",
+    "3dbe6c1b95feacb2",
+    "7883c05789d32b25",
+    "22211da6a7639a5b"
+   ]
+  }
+ ],
+ "fragments": {
+  "ad9090dbbdc43262": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 92/58/CEE do Conselho, de 24 de Junho de 1992, relativa às prescrições mínimas para a sinalização de segurança e/ou de saúde no trabalho (nona directiva especial na acepção do nº 1 do artigo 16º da Directiva 89/391/CEE)** *Jornal Oficial nº L 245 de 26/08/1992 p. 0023 - 0042 Edição especial finlandesa: Capítulo 5 Fascículo 5 p. 0182 Edição especial sueca: Capítulo 5 Fascículo 5 p. 0182*\n\nDIRECTIVA 92/58/CEE DO CONSELHO de 24 de Junho de 1992 relativa às prescrições mínimas para a sinalização de segurança e/ou de saúde no trabalho (nona directiva especial na acepção do no. 1 do artigo 16o. da Directiva 89/391/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 118o.A,\n\nTendo em conta a proposta da Comissão, apresentada após consulta ao Comité consultivo para a segurança, a higiene e a protecção da saúde no local de trabalho (1),\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que o artigo 118o.A do Tratado prevê que o Conselho adopte, por directiva, prescrições mínimas destinadas a promovera melhoria, designadamente, das condições de trabalho, a fim de garantir um melhor nível de protecção da segurança e da saúde dos trabalhadores;\n\nConsiderando que nos termos do referido artigo, essas directivas devem evitar impor disciplinas administrativas, financeiras e jurídicas tais que sejam contrárias à criação e ao desenvolvimento de pequenas e médias empresas;\n\nConsiderando que a comunicação da Comissão sobre o seu programa no domínio da segurança, da higiene e da saúde no trabalho (4) prevê a revisão e a extensão do âmbito de aplicação da Directiva 77/576/CEE do Conselho, de 25 de Julho de 1977, relativa à aproximação das disposições legislativas regulamentares e administrativas dos Estados-membros respeitantes à sinalização de segurança nos locais de trabalho (5);\n\nConsiderando que o Conselho, na sua resolução de 21 de Dezembro de 1987 relativa à segurança, à higiene e à saúde no local de trabalho (6), tomou nota da intenção da Comissão de lhe apresentar a curto prazo uma proposta de revisão e de extensão da directiva acima mencionada;\n\nConsiderando que há que substituir pela presente directiva a Directiva 77/576/CEE por razões de racionalidade e de clareza;\n\nConsiderando que a presente directiva é uma directiva especial na acepção do no. 1 do artigo 16o. da Directiva 89/391/CEE do Conselho, de 12 de Junho de 1989, relativa à aplicação de medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho (7), e que, por esse facto, o disposto na referida directiva se aplica plenamente ao domínio da sinalização de segurança e de saúde no trabalho, sem prejuízo de disposições mais restritivas e/ou específicas incluídas na presente directiva;\n\nConsiderando que a regulamentação comunitária em vigor se refere essencialmente a placas de segurança e à sinalização de obstáculos e de locais perigosos e que, por este motivo, se limita a um número restrito de formas de sinalização;\n\nConsiderando que uma limitação desta natureza tem como consequência o facto de determinados riscos não serem objecto de uma sinalização apropriada; que, consequentemente, há que introduzir novas formas de sinalização destinadas a permitir que as entidades patronais e os trabalhadores identifiquem e evitem riscos para a sua segurança e/ou saúde no trabalho;\n\nConsiderando que deve existir uma sinalização de segurança e/ou de saúde sempre que não possam ser evitados ou suficientemente limitados os riscos através da utilização de meios de protecção colectiva ou de medidas, métodos ou processos de organização do trabalho;\n\nConsiderando que as numerosas diferenças actualmente existentes em matéria de sinalização de segurança e/ou de saúde entre os Estados-membros constituem factores de insegurança susceptíveis de aumentar devido à livre circulação dos trabalhadores no âmbito do mercado interno;\n\nConsiderando que a utilização no trabalho de uma sinalização harmonizada contribui geralmente para minimizar os riscos que podem decorrer de diferenças linguísticas e culturais entre os trabalhadores;\n\nConsiderando que a presente directiva constitui um elemento concreto no âmbito da realização da dimensão social do mercado interno;\n\nConsiderando que, por força da Decisão 74/325/CEE (8), o Comité consultivo para a segurança, a higiene e a protecção da saúde no local de trabalho é consultado pela Comissão com o objectivo de elaborar propostas neste domínio,\n\nADOPTOU A PRESENTE DIRECTIVA"
+  },
+  "d53a76c36f3745eb": {
+   "fragment_id": "SECÇÃO I DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "SECÇÃO I DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I DISPOSIÇÕES GERAIS"
+  },
+  "4e504b35c807220b": {
+   "fragment_id": "Artigo 1o. — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1o. — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o. — Objecto\n\n1. A presente directiva, que é a nona directiva especial na acepção do no. 1 do artigo 16o. da Directiva 89/391/CEE, fixa prescrições mínimas para a sinalização de segurança e/ou de saúde no trabalho.\n\n2. A presente directiva não diz respeito às disposições comunitárias relativas à colocação no mercado de substâncias e preparados perigosos, de produtos e/ou equipamentos, a menos que essas disposições comunitárias lhes façam expressamente referência.\n\n3. A presente directiva não se aplica à sinalização utilizada para a regulamentação do tráfego rodoviário, ferroviário, fluvial, marítimo e aéreo.\n\n4. O disposto na Directiva 89/391/CEE aplica-se plenamente a todo o tipo de sinalização referida no no. 1, sem prejuízo de disposições mais restritivas e/ou específicas incluídas na presente directiva."
+  },
+  "fdb41aac42cd5ac9": {
+   "fragment_id": "Artigo 2o. — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2o. — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o. — Definições\n\nPara efeitos do disposto na presente directiva, entende-se por:\n\na) Sinalização de segurança e/ou de saúde, a sinalização que, relacionada com determinado objecto, actividade ou situação, fornece uma indicação ou uma prescrição relativa à segurança e/ou à saúde no trabalho, por intermédio, consoante o caso, de uma placa, uma cor, um sinal luminoso ou acústico, uma comunicação verbal ou um sinal gestual;\n\nb) Sinal de proibição, o sinal que proíbe um comportamente susceptível de expor uma pessoa a um perigo ou de provocar um perigo;\n\nc) Sinal de aviso, o sinal que adverte de um risco ou perigo;\n\nd) Sinal de obrigação, o sinal que prescreve um comportamento determinado.\n\ne) Sinal de salvamento ou de socorro, o sinal que dá indicações relativas às saídas de emergência ou aos meios de socorro ou salvamento;\n\nf) Sinal de indicação, o sinal que fornece outras indicações para além das previstas nas alíneas b) a e);\n\ng) Placa, o sinal que por combinação de uma forma geométrica, de cores e de um símbolo ou pictograma fornece uma determinada indicação, cuja visibilidade é garantida por uma iluminação de intensidade suficiente;\n\nh) Placa adicional, uma placa utilizada em conjunto com uma das placas indicadas na alínea g), destinada a fornecer indicações complementares;\n\ni) Cor de segurança, uma cor à qual é atribuído um significado determinado;\n\nj) Símbolo ou pictograma, a imagem que descreve uma situação ou prescreve um comportamente determinado e que é utilizada numa placa ou superfície luminosa;\n\nk) Sinal luminoso, o sinal emitido por um dispositivo composto por materiais transparentes ou translúcidos iluminados a partir do interior ou pela retaguarda de modo a fazê-lo surgir, por si próprio, como uma superfície luminosa;\n\nl) Sinal acústico, o sinal sonoro codificado, emitido e difundido por um dispositivo ad hoc, sem utilização de voz humana ou sintética;\n\nm) Comunicação verbal, uma mensagem verbal pré-determinada, com utilização de voz humana ou sintética;\n\nn) Sinal gestual, um movimento e/ou posição dos braços e/ou das mãos, sob forma codificada, para guiar pessoas que efectuem manobras que representam um risco ou um perigo para os trabalhadores."
+  },
+  "bc29caac608d48a2": {
+   "fragment_id": "SECÇÃO II OBRIGAÇÕES DA ENTIDADE PATRONAL",
+   "type": "divisao",
+   "heading": "SECÇÃO II OBRIGAÇÕES DA ENTIDADE PATRONAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II OBRIGAÇÕES DA ENTIDADE PATRONAL"
+  },
+  "dc2e63b8d5819517": {
+   "fragment_id": "Artigo 3o. — Regras gerais",
+   "type": "artigo",
+   "heading": "Artigo 3o. — Regras gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o. — Regras gerais\n\n1. A entidade patronal deverá prever ou certificar-se da existência de sinalização de segurança e/ou de saúde no trabalho de acordo com o disposto na presente directiva, sempre que os riscos não possam ser evitados ou suficientemente minorados com meios técnicos de protecção colectiva ou com medidas, métodos ou processos de organização do trabalho.\n\nA entidade patronal terá em conta todas as avaliações de riscos realizadas em conformidade com o no. 3, alínea a), do artigo 6o. da Directiva 89/391/CEE.\n\n2. A sinalização aplicável aos tráfegos rodoviário, ferroviário, fluvial, marítimo e aéreo deve, sem prejuízo das disposições previstas no anexo V, ser utilizada para esses tráfegos no interior das empresas e/ou estabelecimentos, se for caso disso."
+  },
+  "4cd048162de4689d": {
+   "fragment_id": "Artigo 4o. — Sinalização de segurança e/ou de saúde utilizada pela primeira vez",
+   "type": "artigo",
+   "heading": "Artigo 4o. — Sinalização de segurança e/ou de saúde utilizada pela primeira vez",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o. — Sinalização de segurança e/ou de saúde utilizada pela primeira vez\n\nA sinalização de segurança e/ou de saúde utilizada no trabalho pela primeira vez a partir da data prevista no no. 1, primeiro parágrafo, do artigo 11o. deve, sem prejuízo do disposto no artigo 6o., obedecer às prescrições mínimas que figuram nos anexos I a IX."
+  },
+  "74afe998a6d96699": {
+   "fragment_id": "Artigo 5o. — Sinalização de segurança e/ou de saúde já utilizada",
+   "type": "artigo",
+   "heading": "Artigo 5o. — Sinalização de segurança e/ou de saúde já utilizada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o. — Sinalização de segurança e/ou de saúde já utilizada\n\nA sinalização de segurança e/ou de saúde já utilizada no trabalho antes da data prevista no no. 1, primeiro parágrafo, do artigo 11o. deve, sem prejuízo do disposto no artigo 6o., passar a obedecer às prescrições mínimas que figuram nos anexos I a IX o mais tardar 18 meses após essa data."
+  },
+  "b1170e66050d8de2": {
+   "fragment_id": "Artigo 6o. — Isenções",
+   "type": "artigo",
+   "heading": "Artigo 6o. — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o. — Isenções\n\n1. Os Estados-membros podem, tendo em conta a natureza da actividade e/ou a dimensão das empresas, definir as categorias de empresas que beneficiam de isenção total, parcial ou temporária da obrigação de utilizar os sinais luminosos e/ou acústicos previstos na presente directiva, desde que sejam tomadas medidas alternativas que garantam o mesmo nível de protecção.\n\n2. Os Estados-membros podem derrogar, após consulta aos parceiros sociais, a aplicação do ponto 2 do anexo VIII e/ou do ponto 3 do anexo IX, prevendo medidas alternativas que garantam o mesmo nível de protecção.\n\n3. Ao aplicarem o no. 1, os Estados-membros consultarão as organizações do patronato e dos trabalhadores, de acordo com as legislações e/ou práticas nacionais."
+  },
+  "dc18561f442a0fda": {
+   "fragment_id": "Artigo 7o. — Informação e formação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 7o. — Informação e formação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o. — Informação e formação dos trabalhadores\n\n1. Sem prejuízo do disposto no artigo 10o. da Directiva 89/391/CEE, os trabalhadores e/ou os seus representantes serão informados de todas as medidas a tomar no âmbito da sinalização de segurança e/ou de saúde utilizada no trabalho.\n\n2. Sem prejuízo do disposto no artigo 12o. da Directiva 89/391/CEE, os trabalhadores devem receber uma formação adequada, nomeadamente sob a forma de instruções precisas, sobre a sinalização de segurança e/ou de saúde utilizada no trabalho.\n\nA formação a que se refere o parágrafo anterior incidirá especialmente sobre o significado da sinalização, nomeadamente quando esta implicar a utilização de palavras, e sobre os comportmentos gerais e específicos a adoptar."
+  },
+  "8216cf0ca520082e": {
+   "fragment_id": "Artigo 8o. — Consulta e participação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 8o. — Consulta e participação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o. — Consulta e participação dos trabalhadores\n\nEm conformidade com o artigo 11o. da Directiva 89/391/CEE, os trabalhadores e/ou os seus representantes serão consultados e participarão em tudo quanto se relacione com os domínios abrangidos pela presente directiva, incluindo os anexos I a IX."
+  },
+  "e7d63441fd0c53b3": {
+   "fragment_id": "SECÇÃO III DISPOSIÇÕES DIVERSAS",
+   "type": "divisao",
+   "heading": "SECÇÃO III DISPOSIÇÕES DIVERSAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III DISPOSIÇÕES DIVERSAS"
+  },
+  "c9c91d1d7d408141": {
+   "fragment_id": "Artigo 9o. — Adaptação dos anexos",
+   "type": "artigo",
+   "heading": "Artigo 9o. — Adaptação dos anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o. — Adaptação dos anexos\n\nAs adaptações de natureza estritamente técnica dos anexos I a IX em função:\n\n- da adopção de directivas em matéria de harmonização técnica e de normalização, relativas à concepção e ao frabrico de meios ou dispositivos de sinalização de segurança e/ou de saúde no trabalho\n\ne/ou\n\n- do progresso técnico, da evolução das regulamentações ou especificações internacionais ou dos conhecimentos no domínio da sinalização de segurança e/ou de saúde no trabalho\n\nserão adoptadas segundo o procedimento previsto no artigo 17o. da Directiva 89/391/CEE."
+  },
+  "533aa7466d235a93": {
+   "fragment_id": "Artigo 10o.",
+   "type": "artigo",
+   "heading": "Artigo 10o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o.\n\n1. A Directiva 77/576/CEE é revogada com efeito na data referida no no. 1, primeiro parágrafo, do artigo 11o.\n\nContudo, nos casos a que se refere o artigo 5o., a presente directiva continua a ser aplicável durante um período máximo de 18 meses após aquela data.\n\n2. As remissões para a directiva revogada entendem-se como sendo feitas às correspondentes disposições da presente directiva."
+  },
+  "cbc6e835fd0a01e7": {
+   "fragment_id": "Artigo 11o. — Disposições finais",
+   "type": "artigo",
+   "heading": "Artigo 11o. — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o. — Disposições finais\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 24 de Junho de 1994.\n\nDo facto informarão imediatamente a Comissão.\n\n2. Quando os Estados-membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão determinadas pelos Estados-membros.\n\n3. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno já adoptadas ou que adoptarem no domínio regido pela presente directiva.\n\n4. Os Estados-membros apresentarão à Comissão, de cinco em cinco anos, um relatório sobre a aplicação prática da presente directiva, nele indicando os pontos de vista dos parceiros sociais.\n\nA Comissão informará o Parlamento Europeu, o Conselho, o Comité Económico e Social e o Comité consultivo para a segurança, a higiene e a saúde no local de trabalho sobre os referidos relatórios.\n\n5. A Comissão apresentará periodicamente ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social um relatório sobre a aplicação da presente directiva tendo em conta os nos. 1 a 4."
+  },
+  "a5bde475a499889b": {
+   "fragment_id": "Artigo 12o.",
+   "type": "artigo",
+   "heading": "Artigo 12o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o.\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 24 de Junho de 1992.\n\nPelo Conselho\n\nO Presidente\n\nJosé da SILVA PENEDA\n\n(1) JO no. C 53 de 28. 2. 1991, p. 46 e JO no. C 279 de 26. 10. 1991, p. 13.(2) JO no. C 240 de 16. 9. 1991, p. 102 e JO no. C 150 de 15. 6. 1992.(3) JO no. C 159 de 17. 6. 1991, p. 9.(4) JO no. C 28 de 3. 2. 1988, p. 3.(5) JO no. L 229 de 7. 9. 1977, p. 12. Directiva com a última redacção que lhe foi dada pela Directiva 79/640/CEE (JO no. L 183 de 19. 7. 1979, p. 11).(6) JO no. C 28 de 3. 2. 1989, p. 1.(7) JO no. L 183 de 29. 6. 1989, p. 1.(8) JO no. L 185 de 9. 7. 1974, p. 15."
+  },
+  "87f7d3d82413b7ee": {
+   "fragment_id": "ANEXO I — PRESCRIÇÕES MÍNIMAS GERAIS RELATIVAS À SINALIZAÇÃO DE SEGURANÇA E/OU DE SAÚDE NO TRABALHO 1. Observações preliminares",
+   "type": "divisao",
+   "heading": "ANEXO I — PRESCRIÇÕES MÍNIMAS GERAIS RELATIVAS À SINALIZAÇÃO DE SEGURANÇA E/OU DE SAÚDE NO TRABALHO 1. Observações preliminares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — PRESCRIÇÕES MÍNIMAS GERAIS RELATIVAS À SINALIZAÇÃO DE SEGURANÇA E/OU DE SAÚDE NO TRABALHO 1. Observações preliminares\n\n1.1. Sempre que, por força da regra geral enunciada no artigo 3o. da directiva, for requerida uma sinalização de segurança e/ou de saúde, tal sinalização deverá cumprir as exigências específicas referidas nos anexos II a IX.\n\n1.2. O presente anexo inclui essas exigências, descreve as diferentes utilizações da sinalização de segurança e/ou saúde e enuncia as regras gerais da intermutabilidade e complementaridade dessa sinalização.\n\n1.3. A sinalização de segurança e/ou de saúde deverá ser utilizada exclusivamente para transmitir as mensagens ou as informações especificadas na directiva.\n\n2. Formas de sinalização\n\n2.1. Sinalização permanente\n\n2.1.1. A sinalização respeitante a proibições, avisos e obrigações, bem como a que se refere à localização e identificação dos meios de salvamento ou de socorro, deve ser feita de forma permanente através de placas.\n\nA sinalização destinada a indicar a localização e a identificação de material e equipamento de combate a incêndios deve ser feita de forma permanente por meio de placas e/ou da cor de segurança.\n\n2.1.2. A sinalização sobre recipientes e tubagens será feita da forma prevista no anexo III.\n\n2.1.3. A sinalização dos riscos de choque contra obstáculos e de queda de pessoas será feita com carácter permanente por meio de uma cor de segurança e/ou de placas.\n\n2.1.4. A marcação das vias de circulação será feita com carácter permanente por meio de uma cor de segurança.\n\n2.2. Sinalização acidental\n\n2.2.1. A sinalização de acontecimentos perigosos, a chamada de pessoas para uma acção específica, bem como a evacuação de emergência de pessoas serão feitas com carácter acidental e tendo em conta a intermutabilidade e a complementaridade previstas no ponto 3, por meio de um sinal luminoso, acústico e/ou de uma comunicação verbal.\n\n2.2.2. A orientação das pessoas que efectuem manobras que impliquem riscos ou perigos deve ser feita com carácter acidental por meio de um sinal gestual e/ou de uma comunicação verbal.\n\n3. Intermutabilidade e complementaridade das sinalizações\n\n3.1. Se o grau de eficácia for igual, pode-se optar entre:\n\n- uma cor de segurança ou uma placa, para assinalar riscos de tropeçamento ou queda com desnível,\n\n- sinais luminosos, sinais acústicos e comunicação verbal,\n\n- sinais gestuais e comunicação verbal.\n\n3.2. Certas formas de sinalização podem ser utilizadas em conjunto, nomeadamente:\n\n- sinais luminosos e sinais acústicos,\n\n- sinais luminosos e comunicação verbal,\n\n- sinais gestuais e comunicação verbal.\n\n4. As indicações constantes do quadro seguinte aplicam-se a qualquer sinalização que inclua uma cor de segurança.\n\nCor\n\nSignificado ou finalidade\n\nIndicações e precisões\n\nVermelho\n\nSinal de proibição\n\nAtitudes perigosas\n\nPerigo - Alarme\n\nStop, pausa, dispositivos de corte de\n\nemergência\n\nEvacuação\n\nMaterial e equipamento\n\nde combate a incêndios\n\nIdentificação e localização\n\nAmarelo ou\n\namarelo-alaranjado\n\nSinal de aviso\n\nAtenção, precaução\n\nVerificação\n\nAzul\n\nSinal de obrigação\n\nComportamento ou acção específicos - Obrigação de utilizar equipamento de protecção individual\n\nVerde\n\nSinal de salvamento ou de\n\nsocorro\n\nPortas, saídas, vias, material, postos, locais específicos\n\nSituação de segurança\n\nRegresso à normalidade\n\n5. A eficácia da sinalização não deve ser posta em causa:\n\n5.1. Pela presença de uma outra sinalização ou de uma outra fonte emissora do mesmo tipo que perturbem a visibilidade ou a audibilidade, o que implica, nomeadamente:\n\n5.1.1. Evitar a afixação de um número excessivo de placas na proximidade imediata umas das outras;\n\n5.1.2. Não utilizar simultaneamente dois sinais luminosos que possam ser confundidos;\n\n5.1.3. Não utilizar um sinal luminoso nas proximidades de uma outra fonte luminosa pouco nítida;\n\n5.1.4. Não utilizar ao mesmo tempo dois sinais sonoros;\n\n5.1.5. Não utilizar um sinal sonoro se o ruído ambiente for demasiado forte;\n\n5.2. Pela má concepção, número insuficiente, má localização, mau estado ou mau funcionamento dos meios ou dispositivos de sinalização.\n\n6. Os meios e dispositivos de sinalização devem, consoante o caso, ser regularmente limpos, mantidos, verificados, reparados e substituídos se necessário, por forma a conservarem as suas qualidades intrínsecas e/ou de funcionamento.\n\n7. O número e a localização dos meios ou dispositivos de sinalização a instalar depende da importância dos riscos ou perigos ou da zona a cobrir.\n\n8. No caso das sinalizações que necessitam de uma fonte de energia para funcionar deve ser assegurada uma alimentação de emergência em caso de interrupção do fornecimento de energia, a não ser que o risco desapareça com o corte de energia.\n\n9. O disparo de um sinal luminoso e/ou sonoro indica o início de uma acção solicitada; a sua duração deve ser tão longa quanto a acção o exija.\n\nOs sinais luminosos ou acústicos devem ser rearmados imediatamente após cada utilização.\n\n10. O bom funcionamento e a eficácia real dos sinais luminosos e acústicos devem ser objecto de verificação antes da sua entrada em serviço e, posteriormente, de forma suficientemente repetida.\n\n11. No caso de os trabalhadores implicados terem capacidades auditivas ou visuais limitadas, incluindo as decorrentes do uso de equipamentos de protecção individual, devem ser tomadas medidas adequadas suplementares ou de substituição.\n\n12. As zonas, salas ou recintos utilizados para armazenagem de substâncias perigosas em grandes quantidades devem ser assinalados com uma placa de aviso apropriada, escolhida de entre as enumeradas no ponto 3.2 do anexo II ou marcadas de acordo com o ponto 1 do anexo III, excepto se a rotulagem das diferentes embalagens ou recipientes for suficiente para o efeito."
+  },
+  "0030e2f20e42b9f7": {
+   "fragment_id": "ANEXO II — PRESCRIÇÕES MÍNIMAS GERAIS RELATIVAS ÀS PLACAS DE SINALIZAÇÃO 1. Características intrínsecas",
+   "type": "divisao",
+   "heading": "ANEXO II — PRESCRIÇÕES MÍNIMAS GERAIS RELATIVAS ÀS PLACAS DE SINALIZAÇÃO 1. Características intrínsecas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — PRESCRIÇÕES MÍNIMAS GERAIS RELATIVAS ÀS PLACAS DE SINALIZAÇÃO 1. Características intrínsecas\n\n1.1. A forma e as cores das placas estão definidas no ponto 3, em função do objectivo específico das mesmas (placas de proibição, de aviso, de obrigação, de salvamento ou socorro e placas relativas ao material ou equipamento de combate a incêndios).\n\n1.2. Os pictogramas devem ser tão simples quanto possível e os pormenores inúteis à compreensão devem ser eliminados.\n\n1.3. Os pictogramas utilizados podem variar ligeiramente ou ser mais detalhados em relação às figuras previstas no ponto 3, com condição de que o seu significado seja equivalente e de que nenhuma diferença ou adaptação torne imcompreensível o seu significado.\n\n1.4. As placas deverão ser de um material que ofereça a maior resistência possível a choques, intempéries e agressões do meio ambiente.\n\n1.5. As dimensões e as características colorimétricas e fotométricas das placas devem garantir uma boa visibilidade e compreensão.\n\n2. Condições de utilização\n\n2.1. As placas devem em princípio ser instaladas a uma altura e numa posição apropriada relativamente ao ângulo de visão, tendo em conta os eventuais obstáculos, quer no acesso a uma zona no caso de um risco geral quer na proximidade imediata de um risco determinado ou do objecto a sinalizar e em local bem iluminado e facilmente acessível e visível.\n\nSem prejuízo do disposto na Directiva 89/654/CEE, devem ser utilizados, caso existam más condições de iluminação natural, cores fosforescentes, materiais reflectores ou iluminação artificial.\n\n2.2. As placas devem ser retiradas sempre que a situação que as justificava deixar de se verificar."
+  },
+  "92006a1099e5c2e7": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nPRESCRIÇÕES MÍNIMAS RELATIVAS A SINALIZAÇÃO DE RECIPIENTES E TUBAGENS 1. Os recipientes utilizados no trabalho que contenham substâncias ou preparado perigosos, tal como definidos nas Directivas 67/548/CEE (¹) e 88/379/CEE (²), e os recipientes utilizados para a armazenagem dessas substâncias ou preparados perigosos bem como as tubagens aparentes que contenham ou transportem essas substâncias ou preparados perigosos devem exibir a rotulagem (pictograma ou símbolo sobre fundo colorido) prevista nas referidas directivas.\n\nO primeiro parágrafo não se aplica aos recipientes utilizados no trabalho durante um curto período de tempo nem aos recipientes cujo conteúdo mude frequentemente, desde que sejam tomadas medidas alternativas adequadas, nomeadamente de informação e/ou de formação, que garantam o mesmo nível de protecção.\n\nA rotulagem prevista no primeiro parágrafo pode ser:\n\n- substituída por placas de aviso, como as previstas no anexo II, com o mesmo pictograma ou símbolo,\n\n- completada por informações adicionais como, por exemplo, o nome e/ou a fórmula da substância ou de preparado perigoso, e pormenores sobre os riscos,\n\n- no que se refere ao transporte de recipientes no local de trabalho, completada ou substituída por placas utilizáveis a nível comunitário para o transporte de substâncias ou preparados perigosos.\n\n2. Esta sinalização deve ser colocada nas seguintes condições:\n\n- no(s) lado(s) visíveis,\n\n- sob forma rígida, autocolante ou pintada.\n\n3. As características intrínsecas previstas no ponto 1.4 do anexo II e as condições de utilização previstas no seu ponto 2, relativas às placas de sinalização, aplicam-se se for caso disso à rotulagem prevista no ponto 1 do presente anexo.\n\n4. Sem prejuízo do disposto nos nos. 1, 2 e 3, a rotulagem utilizada nas tubagens deve ser colocada de forma visível junto dos pontos de maior perigo, tais como válvulas e pontos de ligação, e ser repetida tanto quanto necessário.\n\n5. As zonas, salas ou recintos utilizados para a armazenagem de substâncias ou preparados perigosos em grandes quantidades devem ser assinalados com uma placa de aviso apropriada, escolhida de entre as enumeradas no ponto 3.2 do anexo II ou marcadas de acordo com o ponto 1 do anexo III, excepto se a rotulagem das diferentes embalagens ou recipientes for suficiente para o efeito, tendo em conta o ponto 1.5 do anexo II relativo às dimensões.\n\nOs locais de armazenagem de determinadas substâncias ou preparados perigosos podem ser assinalados por meio de uma placa de aviso de «vários perigos».\n\nAs placas ou a rotulagem acima referidas devem ser colocadas, consoante os casos, junto da zona de armazenagem ou na porta de acesso à sala de armazenagem.\n\n(¹) JO no. L 196 de 16. 8. 1967, p. 1.\n\n(²) JO no. L 187 de 16. 7. 1988, p. 14."
+  },
+  "e647665fbfd4a123": {
+   "fragment_id": "ANEXO IV — PRESCRIÇÕES MÍNIMAS RELATIVAS À IDENTIFICAÇÃO E À LOCALIZAÇÃO DO EQUIPAMENTO DE COMBATE A INCÊNDIOS 1. Observação prévia",
+   "type": "divisao",
+   "heading": "ANEXO IV — PRESCRIÇÕES MÍNIMAS RELATIVAS À IDENTIFICAÇÃO E À LOCALIZAÇÃO DO EQUIPAMENTO DE COMBATE A INCÊNDIOS 1. Observação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — PRESCRIÇÕES MÍNIMAS RELATIVAS À IDENTIFICAÇÃO E À LOCALIZAÇÃO DO EQUIPAMENTO DE COMBATE A INCÊNDIOS 1. Observação prévia\n\nO presente anexo aplica-se ao equipamento exclusivamente destinado ao combate a incêndios.\n\n2. O equipamento de combate a incêndios deve ser identificado por meio da cor do equipamento e por uma placa de localização e/ou pela cor dos locais onde se encontra ou dos acessos a esses locais.\n\n3. A cor de identificação deste equipamento é o vermelho.\n\nA superfície vermelha deverá ser suficiente para permitir uma fácil identificação.\n\n4. As placas previstas no ponto 3.5 do anexo II deverão ser utilizadas em função da localização deste equipamento."
+  },
+  "97087ba6f92ee2b7": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V\n\nPRESCRIÇÕES MÍNIMAS RELATIVAS À SINALIZAÇÃO DE OBSTÁCULOS E LOCAIS PERIGOSOS E À MARCAÇÃO DAS VIAS DE CIRCULAÇÃO 1. Sinalização de obstáculos e locais perigosos\n\n1.1. A sinalização dos riscos de choque contra obstáculos e de queda de objectos e pessoas efectuar-se-á no interior das zonas edificadas da empresa a que o trabalhador tem acesso no âmbito do seu trabalho por meio da cor amarela em alternância com a cor negra ou da cor vermelha em alternância com a cor branca.\n\n1.2. As dimensões desta sinalização devem ter em conta as dimensões do obstáculo ou do local perigoso assinalado.\n\n1.3. As faixas amarelas e negras ou vermelhas e brancas devem ter uma inclinação de cerca de 45o e apresentar dimensões sensivelmente iguais entre si.\n\n1.4. Exemplo:\n\n2. Marcação das vias de circulação\n\n2.1. Sempre que a utilização e o equipamento dos locais de trabalho o exijam, para protecção dos trabalhadores, as vias de circulação de veículos devem ser identificadas de forma clara através de faixas contínuas de cor bem visível, de preferência branca ou amarela, tendo em conta a cor do pavimento.\n\n2.2. A localização das faixas deverá ter em conta as distâncias de segurança necessárias entre os veículos que possam circular nessas vias e qualquer objecto que possa encontrar-se nas proximidades, e entre os peões e os veículos.\n\n2.3. As vias permanentes situadas no exterior, nas zonas edificadas, deverão igualmente ser marcadas, na medida em que isso for necessário, a não ser que sejam dotadas de barreiras ou de um pavimento adequado."
+  },
+  "c4ec238a6a82ac6b": {
+   "fragment_id": "ANEXO VI — PRESCRIÇÕES MÍNIMAS RELATIVAS AOS SINAIS LUMINOSOS 1. Características intrínsecas",
+   "type": "divisao",
+   "heading": "ANEXO VI — PRESCRIÇÕES MÍNIMAS RELATIVAS AOS SINAIS LUMINOSOS 1. Características intrínsecas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — PRESCRIÇÕES MÍNIMAS RELATIVAS AOS SINAIS LUMINOSOS 1. Características intrínsecas\n\n1.1. A luz emitida pelo sinal deve provocar um contraste luminoso adequado ao meio em que se encontra, em função das condições de utilização previstas, sem no entanto encadear por ser demasiado intensa, ou causar má visibilidade por ser insuficiente.\n\n1.2. A superfície luminosa que emite o sinal pode ser de cor uniforme ou incluir um pictograma sobre um fundo determinado.\n\n1.3. A cor uniforme deverá respeitar o quadro de significados das cores que figura no ponto 4 do anexo I.\n\n1.4. Se o sinal incluir um pictograma, este deverá respeitar, por analogia, as regras que lhe são aplicáveis, tal como definidas no anexo II.\n\n2. Regras de utilização especiais\n\n2.1. Se um dispositivo puder emitir um sinal contínuo e intermitente, este último deverá ser utilizado para indicar, relativamente ao sinal contínuo, um nível de perigo mais elevado ou uma maior urgência da intervenção ou da acção solicitada ou imposta.\n\nA duração de cada emissão de luz e a frequência das emissões de luz de um sinal intermitente deverão ser previstas de forma\n\n- a assegurar uma boa percepção da mensagem e\n\n- a evitar qualquer confusão, quer entre diversos sinais luminosos quer com um sinal luminoso contínuo.\n\n2.2. Se um sinal luminoso intermitente for utilizado em substituição ou em complemento de um sinal acústico, o código do sinal deverá ser idêntico.\n\n2.3. Os dispositivos de emissão de sinais luminosos a utilizar em caso de grande perigo devem ser especialmente vigiados ou encontrar-se munidos de uma lâmpada auxiliar."
+  },
+  "3dbe6c1b95feacb2": {
+   "fragment_id": "ANEXO VII — PRESCRIÇÕES MÍNIMAS RELATIVAS AOS SINAIS ACÚSTICOS 1. Características intrínsecas",
+   "type": "divisao",
+   "heading": "ANEXO VII — PRESCRIÇÕES MÍNIMAS RELATIVAS AOS SINAIS ACÚSTICOS 1. Características intrínsecas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII — PRESCRIÇÕES MÍNIMAS RELATIVAS AOS SINAIS ACÚSTICOS 1. Características intrínsecas\n\n1.1. O sinal acústico deve:\n\na) Ter um nível sonoro nitidamente superior ao nível do ruído ambiente por forma a ser audível, sem ser excessivo ou doloroso;\n\nb) Ser facilmente reconhecível, tendo nomeadamente em conta a duração dos impulsos e a separação entre impulsos e grupos de impulsos, e ser bem distinto, quer de outros sinais acústicos quer de outros ruídos ambientais.\n\n1.2. Se um dispositivo puder emitir um sinal acústico com frequência variável e frequência estável, a frequência variável será utilizada para indicar, em relação à frequência estável, um nível de perigo mais elevado ou uma maior urgência da intervenção ou da acção solicitada ou imposta.\n\n2. Código a utilizar\n\nO som de um sinal de evacuação deve ser contínuo."
+  },
+  "7883c05789d32b25": {
+   "fragment_id": "ANEXO VIII — PRESCRIÇÕES MÍNIMAS RELATIVAS À COMUNICAÇÃO VERBAL 1. Características intrínsecas",
+   "type": "divisao",
+   "heading": "ANEXO VIII — PRESCRIÇÕES MÍNIMAS RELATIVAS À COMUNICAÇÃO VERBAL 1. Características intrínsecas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII — PRESCRIÇÕES MÍNIMAS RELATIVAS À COMUNICAÇÃO VERBAL 1. Características intrínsecas\n\n1.1. A comunicação verbal estabelecer-se-á entre um locutor ou emissor e um ou vários auditores, sob a forma de textos curtos, frases, grupos de palavras e/ou palavras isoladas, eventualmente codificadas.\n\n1.2. As mensagens verbais devem ser tão curtas, simples e claras quanto possível; as aptidões verbais do locutor e as faculdades auditivas do(s) auditor(es) deverão ser suficientes para garantir uma comunicação verbal segura.\n\n1.3. A comunicação verbal pode ser directa (utilização da voz humana) ou indirecta (voz humana ou sintética, difundida por um meio ad hoc).\n\n2. Regras de utilização especiais\n\n2.1. As pessoas interessadas deverão conhecer a linguagem utilizada, a fim de poderem pronunciar e compreender correctamente a mensagem verbal e adoptar, em função desta, um comportamento adequado, no domínio da segurança e/ou da saúde.\n\n2.2. Se a comunicação verbal for utilizada em substituição ou como complemento de sinais gestuais, é necessário, se não se utilizarem códigos, empregar palavras como:\n\n- início:\n\npara indicar que o comando foi assumido,\n\n- stop:para interromper ou terminar um movimento,\n\n- fim:para parar as operações,\n\n- subir:para fazer subir uma carga,\n\n- descer:para fazer descer uma carga,\n\n- avançar\n\nrecuar\n\nà direita:\n\nà esquerda:\n\naa\n\nA\n\na\n\nA\n\ns\n\n(o sentido destes movimentos deve ser coordenado com os códigos gestuais correspondentes, se for caso disso),\n\n- perigo:para exigir um stop ou uma paragem de emergência,\n\n- depressa:para acelerar um movimento por razões de segurança."
+  },
+  "22211da6a7639a5b": {
+   "fragment_id": "ANEXO IX — PRESCRIÇÕES MÍNIMAS RELATIVAS AOS SINAIS GESTUAIS 1. Características",
+   "type": "divisao",
+   "heading": "ANEXO IX — PRESCRIÇÕES MÍNIMAS RELATIVAS AOS SINAIS GESTUAIS 1. Características",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IX — PRESCRIÇÕES MÍNIMAS RELATIVAS AOS SINAIS GESTUAIS 1. Características\n\nUm sinal gestual deve ser preciso, simples, largo, fácil de executar e de compreender e muito diferente de qualquer outro sinal gestual.\n\nA utilização simultânea dos dois braços deve ser feita simetricamente e para um único sinal gestual.\n\nOs gestos utilizados podem, desde que respeitem as características acima indicadas, variar ligeiramente ou ser mais pormenorizados do que os representados no ponto 3, desde que o seu significado e compreensão sejam pelo menos equivalentes.\n\n2. Regras de utilização especiais\n\n2.1. O responsável pela emissão dos sinais, chamado sinaleiro, dá instruções de manobras com a ajuda de sinais gestuais ao receptor dos sinais, chamado operador.\n\n2.2. O sinaleiro deve poder seguir visualmente o conjunto das manobras sem ser por elas ameaçado.\n\n2.3. O sinaleiro deve consagrar-se exclusivamente ao comando das manobras e à segurança dos trabalhadores que se encontram nas imediações.\n\n2.4. Se as condições previstas no ponto 2.2 não forem preenchidas, devem ser destacados um ou vários sinaleiros suplementares.\n\n2.5. O operador deve suspender a manobra em curso para pedir novas instruções quando não puder executar as ordens recebidas com as garantias de segurança necessárias.\n\n2.6. Acesórios de sinalização gestual\n\nO sinaleiro deve ser facilmente reconhecido pelo operador.\n\nO sinaleiro deverá ostentar um ou vários elementos de reconhecimento adequados: por exemplo, casaco, boné, mangas, braçadeiras, bandeirolas.\n\nOs elementos de reconhecimento serão de cor viva e de preferência única, exclusivamente utilizada pelo sinaleiro.\n\n3. Gestos codificados a utilizar\n\nObservação prévia:\n\nOs códigos indicados em seguida não impedem a utilização de outros códigos aplicáveis a nível comunitário, que tenham em vista as mesmas manobras, nomeadamente em determinados sectores de actividade.\n\nSignificado\n\nDescrição\n\nIlustração\n\n3. Significado\n\nDescrição\n\nIlustração\n\nA. Gestos de carácter geral\n\nINÍCIO\n\nAtenção\n\nComando assumido\n\nAmbos os braços abertos horizontalmente, palmas das mãos voltadas para a frente\n\nSTOP\n\nInterrupção\n\nFim do movimento\n\nBraço direito levantado, palma da mão direita para a frente\n\nFIM\n\ndas operações\n\nMãos juntas ao nível do peito\n\nB. Movimentos verticais\n\nSUBIR\n\nBraço direito estendido para cima, com a palma da mão virada para a frente descrevendo um círculo lentamente\n\nDESCER\n\nBraço direito estendido para baixo, com a palma da mão virada para dentro descrevendo um círculo lentamente\n\nDISTÂNCIA VERTICAL\n\nMãos colocadas de modo a indicar a distância\n\n3. Significado\n\nDescrição\n\nIlustração\n\nC. Movimentos horizontais\n\nAVANÇAR\n\nAmbos os braços dobrados, palmas das mãos voltadas para dentro; os antebraços fazem movimentos lentos em direcção ao corpo\n\nRECUAR\n\nAmbos os braços dobrados, palmas das mãos voltados para fora; os antebraços fazem movimentos lentos afastando-se do corpo\n\nPARA A DIREITA\n\nrelativamente ao\n\nsinaleiro\n\nBraço direito estendido mais ou menos horizontalmente, com a palma da mão direita voltada para baixo, fazendo pequenos movimentos lentos na direcção pretendida\n\nPARA A ESQUERDA\n\nrelativamente ao\n\nsinaleiro\n\nBraço esquerdo estendido mais ou menos horizontalmente, com a palma da mão esquerda voltada para baixo, fazendo pequenos movimentos lentos na direcção pretendida\n\nDISTÂNCIA\n\nHORIZONTAL\n\nMãos colocadas de modo a indicar a distância\n\n3. Significado\n\nDescrição\n\nIlustração\n\nD. Perigo\n\nPERIGO\n\nStop ou paragem\n\nemergência\n\nAmbos os braços estendidos para cima com as palmas das mãos voltadas para a frente\n\nMOVIMENTO\n\nRÁPIDO\n\nOs gestos codificados que comandam os movimentos são efectuados com rapidez\n\nMOVIMENTO\n\nLENTO\n\nOs gestos codificados que comandam os movimentos são efectuados muito lentamente"
+  }
+ }
+}

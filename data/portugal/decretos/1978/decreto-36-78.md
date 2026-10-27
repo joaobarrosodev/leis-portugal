@@ -1,0 +1,192 @@
+---
+schema_version: '1.0'
+id: pt:dre:425298:por
+title: Decreto n.º 36/78
+short_title: null
+summary: Aprova o Acordo no Domínio da Saúde entre a República Portuguesa e a República da Guiné-Bissau, assinado em 13 de
+  Janeiro de 1978
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros - Gabinete Coordenador para a Cooperação
+proposing_entity: null
+official_number: 36/78
+official_date: null
+publication_date: '1978-04-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 89/1978, Série I de 1978-04-17
+  number: '89'
+  series: I
+  supplement: null
+  pages: 734 - 735
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/04/08900/07340735.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '425298'
+  dre_path: /dr/detalhe/decreto/36-1978-425298
+  internal: pt:dre:425298:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/36-1978-425298
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/36-1978-425298
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:50:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4b685cb83e8873502a97910f662ed98267ae82ef8dcb41b6fe46062a34aca49f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:50:29Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Assistência Médica
+- Convenção
+- Cooperação Internacional
+- Formação Profissional
+- Guiné-Bissau
+- Médico
+- Pessoal Técnico Auxiliar de Diagnóstico e Terapêutica
+- Portugal
+- Saúde
+- Saúde Pública
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:50:29Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 36/78
+
+de 17 de Abril
+
+O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
+
+Artigo único. É aprovado o Acordo no Domínio da Saúde entre a República Portuguesa e a República da Guiné-Bissau, assinado em 13 de Janeiro de 1978, cujo texto vai anexo ao presente decreto.
+
+Visto e aprovado em Conselho de Ministros. - Mário Firmino Miguel - Vítor Augusto Nunes de Sá Machado.
+
+Assinado em 3 de Abril de 1978.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+ACORDO NO DOMÍNIO DA SAÚDE ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA DA GUINÉ-BISSAU.
+
+Considerando os princípios definidos no Acordo Geral de Cooperação e Amizade;
+
+Considerando que nesse Acordo se prevê expressamente a celebração de acordos especiais que regulem as formas de cooperação recíproca a empreender nos vários domínios;
+
+Reconhecendo a importância da cooperação no domínio da saúde e as vantagens que dela advêm quer para ambos os povos, quer para a própria ciência:
+
+As Partes Contratantes decidem concluir o seguinte Acordo:
+
+###### ARTIGO 1.º
+
+1 - O Estado Português compromete-se, na medida das suas possibilidades e quando solicitado pelo Estado da Guiné-Bissau, a assegurar o tratamento em Portugal de nacionais guineenses até uma presença máxima de quinze doentes.
+
+2 - O internamento destes doentes e o seu tratamento serão feitos nos diversos estabelecimentos hospitalares oficiais, dentro das disponibilidades existentes e em termos de igualdade com os cidadãos portugueses, cabendo a coordenação do processo de encaminhamento dos doentes a entidade portuguesa a designar.
+
+###### ARTIGO 2.º
+
+1 - O Estado da Guiné-Bissau, através da sua Embaixada em Lisboa, compromete-se a enviar previamente à entidade coordenadora mencionada no n.º 2 do artigo anterior uma história clínica justificando a evacuação do doente.
+
+2 - O Estado Português obriga-se a dar uma resposta num prazo de sete dias, contados a partir do recebimento da história clínica pela entidade coordenadora, confirmando ou desaconselhando a evacuação e especificando em que data deverá ser evacuado e se o doente será hospitalizado ou seguido em regime ambulatório.
+
+3 - O Estado Português obriga-se também a ponderar a possibilidade de promover o transporte, em ambulância adequada, desde o aeroporto até ao hospital de destino, de doentes em situação particularmente grave.
+
+4 - O Estado da Guiné-Bissau compromete-se, ainda, através da sua Embaixada em Lisboa, a:
+
+a) Avisar, com uma antecedência mínima de vinte e quatro horas, a entidade a que se refere o n.º 2 do artigo 1.º da data, local e hora de chegada a Lisboa dos doentes a submeter a tratamento, nos termos do presente Acordo;
+
+b) Informar os serviços competentes do Ministério dos Negócios Estrangeiros da data da chegada a Lisboa daqueles doentes;
+
+c) Promover a sua deslocação até ao local de destino.
+
+###### ARTIGO 3.º
+
+Ficam a cargo do Estado da Guiné-Bissau os encargos relativos a:
+
+a) Transporte de ida e regresso dos doentes;
+
+b) Alojamento, em caso de tratamento ambulatório, quando os doentes não fiquem instalados em estabelecimentos hospitalares ou suas dependências;
+
+c) Alojamento, após o tratamento ser dado por concluído pelas competentes autoridades hospitalares portuguesas, mesmo daqueles que, após obterem alta hospitalar, tenham necessidade de tratamento complementar do tipo ambulatório;
+
+d) Próteses e medicamentos, quando a prescrição for feita em regime de tratamento ambulatório;
+
+e) Funeral ou repatriamento do corpo, em caso de morte.
+
+###### ARTIGO 4.º
+
+1 - Ficam a cargo do Estado Português os encargos relativos a internamento e tratamento de doentes, incluindo exames radiológicos e biológicos, quando os mesmos se efectuarem em estabelecimentos hospitalares ou suas dependências.
+
+2 - Os encargos assumidos pelo Estado Português nos termos do presente Acordo cessarão a partir do momento em que o tratamento for dado por concluído pelas competentes autoridades hospitalares portuguesas.
+
+3 - Quando os doentes tenham alta e regressem ao Estado da Guiné-Bissau, o hospital onde o tratamento foi realizado enviará relatório confidencial do tratamento à autoridade sanitária guineense.
+
+###### ARTIGO 5.º
+
+1 - Os estabelecimentos e serviços de saúde do Estado Português podem receber cidadãos do Estado da Guiné-Bissau tendo em vista a formação de técnicos médicos ou de técnicos auxiliares de medicina, quer no domínio da medicina hospitalar, quer no domínio da saúde pública.
+
+2 - O Estado Português poderá assegurar, em condições a estabelecer, o funcionamento de cursos intensivos para formação de técnicos auxiliares de medicina hospitalar ou de saúde pública, quer em território português, quer em território guineense.
+
+3 - A execução do disposto nos números anteriores far-se-á nos termos do acordo a celebrar nos domínios do ensino e da formação profissional.
+
+###### ARTIGO 6.º
+
+O Estado Português colaborará, na medida das suas possibilidades e quando solicitado, nos programas de saúde pública a empreender pelo Estado da Guiné-Bissau, nomeadamente no que se refere à epidemiologia e profilaxia de doenças transmissíveis, em condições a estabelecer entre ambas as Partes.
+
+###### ARTIGO 7.º
+
+Poderão ser contemplados em acordo complementar outros problemas de cooperação no domínio da saúde.
+
+###### ARTIGO 8.º
+
+O presente Acordo entrará em vigor provisoriamente na data da sua assinatura e definitivamente na data de troca de notas confirmando a sua aprovação, em conformidade com os requisitos constitucionais de ambos os Países, e manter-se-á vigente até doze meses depois da data em que qualquer Parte Contratante notifique a outra Parte do seu desejo de denunciar o Acordo.
+
+Feito em Lisboa aos 13 de Janeiro de 1978, em dois exemplares, fazendo ambos os textos igualmente fé.
+
+Pelo Governo da República Portuguesa:
+
+Mário Soares.
+
+Pelo Governo da República da Guiné-Bissau:
+
+João da Costa.

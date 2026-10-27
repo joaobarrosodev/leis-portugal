@@ -1,0 +1,913 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:298235:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1994-125276715",
+ "dre_path": "/dr/detalhe/decreto-lei/202-1994-298235",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1994-07-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "125277183",
+    "125276631",
+    "125276632",
+    "125276633",
+    "125276634",
+    "125276635",
+    "125276636",
+    "125276637",
+    "125276638",
+    "125276639",
+    "125276641",
+    "125276642",
+    "125276643",
+    "125276644",
+    "125276645",
+    "125276646",
+    "125276647",
+    "125276648",
+    "125276649",
+    "125276650",
+    "125276651",
+    "125276652",
+    "125276653",
+    "125276654",
+    "125276655",
+    "125276656",
+    "125276657",
+    "125276658",
+    "125276659",
+    "125276660",
+    "125276661",
+    "125276662",
+    "125276663",
+    "125276664",
+    "125276665",
+    "125276666",
+    "125276667"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:667964:por",
+     "title": "Declaração de Rectificação n.º 101/94",
+     "published": "1994-07-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/101-1994-667964",
+     "date": "1994-07-28"
+    }
+   ]
+  },
+  {
+   "date": "2017-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:105387216:por",
+     "title": "Lei n.º 38/2016",
+     "published": "2016-12-19",
+     "dre_path": "/dr/detalhe/lei/38-2016-105387216"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-A",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "125276630",
+    "125276631",
+    "125276632",
+    "125277182",
+    "125276634",
+    "125276635",
+    "125276636",
+    "125276637",
+    "125276638",
+    "125276639",
+    "125276640",
+    "125276641",
+    "125276642",
+    "125277179",
+    "125276644",
+    "125277180",
+    "125277181",
+    "125276646",
+    "125276647",
+    "125276648",
+    "125276649",
+    "125276650",
+    "125276651",
+    "125276652",
+    "125276653",
+    "125276654",
+    "125276655",
+    "125276656",
+    "125276657",
+    "125276658",
+    "125276659",
+    "125276660",
+    "125276661",
+    "125276662",
+    "125276663",
+    "125276664",
+    "125276665",
+    "125276666",
+    "125276667"
+   ]
+  },
+  {
+   "date": "2020-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:125234992:por",
+     "title": "Decreto-Lei n.º 151/2019",
+     "published": "2019-10-11",
+     "dre_path": "/dr/detalhe/decreto-lei/151-2019-125234992"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "125277183",
+    "125277184",
+    "125277185",
+    "125277186",
+    "125277187",
+    "125277188",
+    "125277189",
+    "125277190",
+    "125277191",
+    "125277192",
+    "125277193",
+    "125277194",
+    "125277195",
+    "125277196",
+    "125277197",
+    "125277198",
+    "125277199",
+    "125277200",
+    "125277201",
+    "125277202",
+    "125277203",
+    "125277204",
+    "125277205",
+    "125277206",
+    "125277207",
+    "125277208",
+    "125277209",
+    "125277210",
+    "125277211",
+    "125277212",
+    "125277213",
+    "125277214",
+    "125277215",
+    "125277216",
+    "125277217",
+    "125277218",
+    "125277219",
+    "125277220",
+    "125277221"
+   ]
+  }
+ ],
+ "fragments": {
+  "125277183": {
+   "fragment_id": "125276716",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2020-01-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 202/94\n\nde 23 de Julho\n\nO presente decreto-lei visa transformar o Serviço de Transportes Colectivos do Porto (STCP) em sociedade anónima.\n\nCom a presente medida dota-se a empresa de um quadro legal moderno e mais ajustado aos seus actuais objectivos.\n\nFoi ouvida a Câmara Municipal do Porto, bem como a Comissão dos Trabalhadores do Serviço de Transportes Colectivos do Porto (STCP).\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "125276631": {
+   "fragment_id": "125276717",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n- 1 - O Serviço de Transportes Colectivos do Porto (STCP), instituído pelo Decreto-Lei n.º 38144, de 30 de Dezembro de 1950, é transformado, pelo presente diploma, em sociedade anónima de capitais exclusivamente públicos, com a denominação de Sociedade de Transportes Colectivos do Porto, S. A., ou, abreviadamente, STCP, S. A.\n\n2 - A STCP, S. A., rege-se pelo presente diploma, pelos seus estatutos, pelas normas reguladoras das sociedades anónimas e pelas normas especiais cuja aplicação decorra do objecto da Sociedade."
+  },
+  "125276632": {
+   "fragment_id": "125276718",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n- 1 - A STCP, S. A., sucede automática e globalmente ao Serviço de Transportes Colectivos do Porto (STCP) e continua a personalidade jurídica deste, conservando a universalidade dos direitos e obrigações integrantes da sua esfera jurídica no momento da transformação, sem prejuízo dos direitos imobiliários de que a Câmara Municipal do Porto seja titular.\n\n2 - O presente diploma é título bastante para a comprovação do estabelecido no artigo anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da STCP, S. A."
+  },
+  "125276633": {
+   "fragment_id": "125276719",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n- 1 - O capital social da STCP, S. A., é de 4500000000$00, encontrando-se totalmente subscrito e realizado através da conservação em capital dos empréstimos concedidos pelo Fundo de Regularização da Dívida Pública.\n\n2 - As acções representativas do capital subscrito pelo Estado são detidas pela Direcção-Geral do Tesouro, sem prejuízo de a sua gestão ser cometida a uma pessoa colectiva de direito público ou outra entidade que por imposição legal pertença ao sector público.\n\n3 - Os direitos do Estado, como accionista da STCP, S. A., são exercidos por um representante designado por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, salvo quando a gestão das acções tenha sido cometida a outra entidade nos termos do número anterior."
+  },
+  "125276634": {
+   "fragment_id": "125276720",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - São aprovados os estatutos da STCP, S. A., anexos ao presente diploma.\n\n2 - A transformação operada pelo artigo 1.º, bem como os estatutos agora aprovados produzem efeitos relativamente a terceiros, independentemente de registo, que, no entanto, deve ser efectuado oficiosamente, sem taxas ou emolumentos, nos 30 dias seguintes à entrada em vigor do presente diploma.\n\n3 - As eventuais alterações dos estatutos produzirão todos os seus efeitos desde que deliberadas nos termos dos mesmos e com observância das disposições aplicáveis da lei comercial e do presente diploma, sendo bastante a sua redução a escritura pública e o subsequente registo."
+  },
+  "125276635": {
+   "fragment_id": "125276721",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA STCP, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos."
+  },
+  "125276636": {
+   "fragment_id": "125276722",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n- 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração enviará aos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, pelo menos 30 dias antes da data da assembleia geral anual:\n\na) O relatório de gestão e as contas do exercício;\n\nb) Quaisquer elementos adequados à compreensão integral da situação económica e financeira da empresa, eficiência da gestão e perspectivas da sua evolução.\n\n2 - O conselho fiscal enviará trimestralmente aos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões."
+  },
+  "125276637": {
+   "fragment_id": "125276723",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs trabalhadores ao serviço e os pensionistas do Serviço de Transportes Colectivos do Porto (STCP) mantêm perante a STCP, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor do presente diploma."
+  },
+  "125276638": {
+   "fragment_id": "125276724",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n- 1 - Enquanto não forem eleitos os membros dos órgãos sociais, os membros do conselho de gerência constituem o conselho de administração.\n\n2 - Até ao 60.º dia posterior à data de entrada em vigor do presente diploma, os Ministros das Finanças e das Obras Públicas, Transportes e Comunicações nomearão o representante a que se refere o n.º 3 do artigo 3.º, o qual convocará a assembleia geral da STCP, S. A., para a eleição dos titulares dos órgãos sociais e a aprovação do respectivo estatuto remuneratório."
+  },
+  "125276639": {
+   "fragment_id": "125276725",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nSão revogados os Decretos-Leis n.os 38144, de 30 de Dezembro de 1950, 48461, de 1 de Julho de 1968, e 33/75, de 28 de Janeiro."
+  },
+  "125276641": {
+   "fragment_id": "125276727",
+   "type": 14,
+   "heading": "Anexo — Estatutos da Sociedade de Transportes Colectivos do Porto, S. A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Estatutos da Sociedade de Transportes Colectivos do Porto, S. A."
+  },
+  "125276642": {
+   "fragment_id": "125276728",
+   "type": 1,
+   "heading": "Capítulo I — Denominação, duração, sede e objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Denominação, duração, sede e objecto"
+  },
+  "125276643": {
+   "fragment_id": "125276729",
+   "type": 11,
+   "heading": "Artigo 1.º — Denominação e duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Denominação e duração\n\n1 - A sociedade adopta a forma de sociedade anónima e a denominação de STCP - Sociedade de Transportes Colectivos do Porto, S. A.\n\n2 - A Sociedade tem duração ilimitada."
+  },
+  "125276644": {
+   "fragment_id": "125276730",
+   "type": 11,
+   "heading": "Artigo 2.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sede\n\n1 - A Sociedade tem sede no Porto, na Avenida da Boavista, 806, e pode ser mudada, dentro da área do município, por simples deliberação do conselho de administração.\n\n2 - Por deliberação do conselho de administração, a Sociedade pode criar e encerrar agências, delegações ou qualquer outra forma de representação em território nacional."
+  },
+  "125276645": {
+   "fragment_id": "125276731",
+   "type": 11,
+   "heading": "Artigo 3.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objecto\n\n1 - A Sociedade tem por objecto principal a exploração do transporte público rodoviário de passageiros na área urbana do Grande Porto.\n\n2 - Acessoriamente, a Sociedade pode explorar transportes colectivos de passageiros de superfície na e fora da área geográfica referida no número anterior.\n\n3 - Para o exercício do objecto referido nos números anteriores, a Sociedade pode participar na constituição e adquirir participações em sociedades de qualquer natureza e objecto, em associação, agrupamentos complementares de empresas, agrupamentos de empresas de interesse económico, ou outras formas de colaboração com terceiros."
+  },
+  "125276646": {
+   "fragment_id": "125276732",
+   "type": 1,
+   "heading": "Capítulo II — Capital social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Capital social"
+  },
+  "125276647": {
+   "fragment_id": "125276733",
+   "type": 11,
+   "heading": "Artigo 4.º — Capital social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Capital social\n\n1 - O capital social, integralmente subscrito e realizado, é de 4500000000$00.\n\n2 - O capital social é representado por 4500000 acções com o valor nominal de 1000$00 cada uma e representadas por títulos de 1, 5, 50, 100, 1000 e 10000 acções, podendo o conselho de administração emitir certificados provisórios ou definitivos representativos de qualquer número de acções.\n\n3 - Fica desde já autorizada a emissão ou conversão de acções ou outros títulos em forma meramente escritural, nos termos da legislação aplicável, e desde que haja prévia deliberação favorável da assembleia geral, ficando as despesas inerentes por conta dos accionistas que o requererem."
+  },
+  "125276648": {
+   "fragment_id": "125276734",
+   "type": 1,
+   "heading": "Capítulo III — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Órgãos sociais"
+  },
+  "125276649": {
+   "fragment_id": "125276735",
+   "type": 8,
+   "heading": "Secção I — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposição geral"
+  },
+  "125276650": {
+   "fragment_id": "125276736",
+   "type": 11,
+   "heading": "Artigo 5.º — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Órgãos sociais\n\n1 - A Sociedade tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos presentes estatutos.\n\n2 - Os membros dos órgãos sociais consideram-se empossados logo que tenham sido eleitos e permanecem no exercício das suas funções até à designação de quem deva substituí-los, estando dispensados de prestar caução, relativamente ao desempenho dos seus cargos."
+  },
+  "125276651": {
+   "fragment_id": "125276737",
+   "type": 8,
+   "heading": "Secção II — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Assembleia geral"
+  },
+  "125276652": {
+   "fragment_id": "125276738",
+   "type": 11,
+   "heading": "Artigo 6.º — Participação na assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Participação na assembleia geral\n\n1 - A assembleia geral é composta pelos accionistas com direito de voto.\n\n2 - A cada 100 acções corresponde um voto, podendo os accionistas possuidores de um número inferior de acções agrupar-se de forma a, em conjunto e fazendo-se representar por um dos agrupados, reunirem as condições necessárias ao exercício do direito de voto.\n\n3 - Para conferir direito de voto as acções devem estar averbadas em nome dos respectivos titulares no livro de registo da Sociedade pelo menos 15 dias antes da data marcada para a reunião da assembleia geral.\n\n4 - Os accionistas que sejam pessoas colectivas indicam, por carta dirigida ao presidente da mesa, quem os representará na assembleia geral.\n\n5 - Nenhum accionista se pode fazer representar por mais de uma pessoa na mesma sessão da assembleia geral."
+  },
+  "125276653": {
+   "fragment_id": "125276739",
+   "type": 11,
+   "heading": "Artigo 7.º — Reuniões e deliberações da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Reuniões e deliberações da assembleia geral\n\n1 - A assembleia geral reúne extraordinariamente sempre que os conselhos de administração ou fiscal o julguem necessário ou ainda quando a sua convocação seja requerida ao presidente da respectiva mesa por accionistas que representem, pelo menos, 5% do capital social e, ordinariamente, uma vez por ano.\n\n2 - A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa, que inclui ainda um vice-presidente e um secretário, podendo qualquer deles ser ou não accionista, sendo as respectivas faltas supridas nos termos da lei comercial.\n\n3 - As deliberações são tomadas por maioria de votos dos accionistas presentes ou representados na reunião da assembleia geral sempre que a lei ou os estatutos não exijam maior número.\n\n4 - A assembleia geral para eleição dos membros dos órgãos sociais não pode deliberar sem que estejam presentes ou representados accionistas cujas acções representem, pelo menos, 51% do capital social."
+  },
+  "125276654": {
+   "fragment_id": "125276740",
+   "type": 11,
+   "heading": "Artigo 8.º — Competência da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competência da assembleia geral\n\n1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei ou os presentes estatutos lhe atribuam competência.\n\n2 - Compete, em especial, à assembleia geral:\n\na) Apreciar o relatório do conselho de administração, discutir as contas do exercício e o parecer do conselho fiscal e sobre a aplicação dos resultados do exercício;\n\nb) Eleger e exonerar os membros da mesa da assembleia geral, do conselho de administração e do conselho fiscal;\n\nc) Deliberar sobre quaisquer alterações dos estatutos e aumentos de capital;\n\nd) Deliberar sobre as remunerações dos membros dos órgãos sociais, podendo para o efeito designar uma comissão de vencimentos;\n\ne) Deliberar sobre os projectos de expansão das linhas exploradas pela empresa;\n\nf) Autorizar a aquisição e a alienação de bens imóveis, bem como a realização de investimentos, quando, em cada caso, o valor exceda o correspondente a 10% do capital social da Sociedade;\n\ng) Autorizar a aquisição e a alienação de participações sociais, neste último caso apenas quando o valor exceda o correspondente a 10% do capital social da STCP, S. A.;\n\nh) Deliberar sobre a emissão de obrigações."
+  },
+  "125276655": {
+   "fragment_id": "125276741",
+   "type": 8,
+   "heading": "Secção III — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Conselho de administração"
+  },
+  "125276656": {
+   "fragment_id": "125276742",
+   "type": 11,
+   "heading": "Artigo 9.º — Composição do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Composição do conselho de administração\n\n1 - O conselho de administração é composto por um presidente e por dois ou quatro vogais.\n\n2 - As vagas ou impedimentos que ocorram no conselho de administração serão preenchidos por cooptação dos administradores em exercício, desde que estes sejam em número suficiente para o conselho poder funcionar.\n\n3 - O mandato dos membros do conselho de administração é de três anos, renovável."
+  },
+  "125276657": {
+   "fragment_id": "125276743",
+   "type": 11,
+   "heading": "Artigo 10.º — Reuniões e deliberações do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Reuniões e deliberações do conselho de administração\n\n1 - O conselho de administração deve fixar as datas ou periodicidade das suas reuniões ordinárias e reunirá, extraordinariamente, sempre que seja convocado pelo presidente, por sua iniciativa ou a requerimento de dois administradores ou do conselho fiscal.\n\n2 - O conselho de administração não pode deliberar sem presença da maioria dos seus membros.\n\n3 - As deliberações do conselho de administração constam sempre de acta, que consignará os votos de vencido, e são tomadas por maioria dos votos expressos, tendo o presidente, ou quem o substitua, voto de qualidade."
+  },
+  "125276658": {
+   "fragment_id": "125276744",
+   "type": 11,
+   "heading": "Artigo 11.º — Competência do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competência do conselho de administração\n\n1 - Compete ao conselho de administração:\n\na) Gerir os negócios sociais e praticar todos os actos relativos ao objecto social que não caibam na competência atribuída a outros órgãos da Sociedade;\n\nb) Elaborar o relatório anual;\n\nc) Adquirir, alienar ou onerar direitos ou bens móveis e imóveis e participações sociais, sem prejuízo do disposto nas alíneas f) e g) do n.º 2 do artigo 8.º;\n\nd) Representar a Sociedade em juízo e fora dele, activa e passivamente, podendo desistir, transigir e confessar em quaisquer pleitos e, bem assim, celebrar convenções de arbitragem;\n\ne) Estabelecer a organização técnico-administrativa da Sociedade e as normas do seu funcionamento interno;\n\nf) Constituir mandatários com os poderes considerados convenientes;\n\ng) Exercer as demais competências que lhe sejam atribuídas pela lei ou pela assembleia geral.\n\n2 - O conselho de administração pode, dentro dos limites legais, delegar algumas das suas competências num ou mais dos seus membros."
+  },
+  "125276659": {
+   "fragment_id": "125276745",
+   "type": 11,
+   "heading": "Artigo 12.º — Competência do presidente do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competência do presidente do conselho de administração\n\n1 - Compete ao presidente do conselho de administração dirigir a actividade do conselho e, em especial:\n\na) Convocar e presidir às reuniões do conselho de administração;\n\nb) Zelar pela correcta execução das deliberações do conselho.\n\n2 - Nas suas faltas ou impedimentos o presidente é substituído pelo vogal do conselho de administração por si designado para o efeito."
+  },
+  "125276660": {
+   "fragment_id": "125276746",
+   "type": 11,
+   "heading": "Artigo 13.º — Representação da Sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Representação da Sociedade\n\n1 - A Sociedade obriga-se:\n\na) Pela assinatura de dois membros do conselho de administração, sendo uma delas a do presidente;\n\nb) Pela assinatura de um administrador, quando haja delegação expressa do conselho para a prática de determinado acto;\n\nc) Pela assinatura de mandatário constituído, no âmbito do correspondente mandato.\n\n2 - Em assuntos de mero expediente basta a assinatura de um administrador.\n\n3 - O conselho de administração pode deliberar, nos termos legais, que certos documentos da Sociedade sejam assinados por processos mecânicos ou por chancela, designadamente os títulos representativos do capital social."
+  },
+  "125276661": {
+   "fragment_id": "125276747",
+   "type": 8,
+   "heading": "Secção IV — Conselho fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Conselho fiscal"
+  },
+  "125276662": {
+   "fragment_id": "125276748",
+   "type": 11,
+   "heading": "Artigo 14.º — Fiscalização da actividade da Sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Fiscalização da actividade da Sociedade\n\n1 - A fiscalização da actividade social compete a um conselho fiscal, composto por três membros efectivos e um suplente, todos eleitos em assembleia geral, sendo um dos membros efectivos presidente.\n\n2 - Um dos membros e o suplente são revisores oficiais de contas.\n\n3 - O mandato dos membros do conselho fiscal é de três anos, renovável."
+  },
+  "125276663": {
+   "fragment_id": "125276749",
+   "type": 11,
+   "heading": "Artigo 15.º — Reuniões e deliberações do conselho fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Reuniões e deliberações do conselho fiscal\n\n1 - O conselho fiscal reúne ordinariamente, nos termos da lei, e extraordinariamente sempre que o respectivo presidente o convoque, quer por sua iniciativa, quer a solicitação de qualquer dos restantes membros do conselho fiscal.\n\n2 - Para que o conselho fiscal possa deliberar é necessária a presença da maioria dos seus membros.\n\n3 - As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, tendo o presidente voto de qualidade."
+  },
+  "125276664": {
+   "fragment_id": "125276750",
+   "type": 11,
+   "heading": "Artigo 16.º — Competência do conselho fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Competência do conselho fiscal\n\n1 - Para além das competências constantes da lei geral, compete especialmente ao conselho fiscal:\n\na) Examinar, sempre que o julgue conveniente e pelo menos uma vez por mês, a escrituração da Sociedade;\n\nb) Acompanhar o funcionamento da instituição e o cumprimento das leis, dos estatutos e dos regulamentos que lhe são aplicáveis;\n\nc) Fazer-se representar nas reuniões do conselho de administração sempre que o entenda conveniente;\n\nd) Pedir a convocação extraordinária da assembleia geral sempre que o entenda conveniente;\n\ne) Examinar as situações periódicas apresentadas pelo conselho de administração durante a sua gerência;\n\nf) Emitir parecer sobre o orçamento, o balanço, o inventário e as contas anuais;\n\ng) Chamar a atenção do conselho de administração para qualquer assunto que deva ser ponderado e pronunciar-se sobre qualquer matéria que lhe seja submetida por aquele órgão.\n\n2 - O conselho fiscal pode ser coadjuvado por técnicos especialmente designados ou contratados para esse efeito e ainda por empresas especializadas em trabalhos de auditoria."
+  },
+  "125276665": {
+   "fragment_id": "125276751",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "125276666": {
+   "fragment_id": "125276752",
+   "type": 11,
+   "heading": "Artigo 17.º — Aplicação de resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Aplicação de resultados\n\nOs resultados positivos de cada exercício, devidamente aprovados, têm, pela ordem abaixo indicada, a seguinte aplicação:\n\na) Um mínimo de 10% para constituição ou reintegração da reserva legal, até atingir o montante legalmente exigível;\n\nb) Outras aplicações impostas por lei;\n\nc) Do remanescente será distribuída pelos accionistas, a título de dividendos, a percentagem que vier a ser fixada, a qual, salvo voto favorável de três quartos dos votos dos accionistas presentes ou representados, não poderá ser inferior a 50%;\n\nd) O restante, conforme for deliberado pela assembleia geral."
+  },
+  "125276667": {
+   "fragment_id": "125276753",
+   "type": 11,
+   "heading": "Artigo 18.º — Dissolução da Sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Dissolução da Sociedade\n\n1 - A Sociedade dissolve-se nos casos e nos termos legais.\n\n2 - A liquidação da Sociedade reger-se-á pelas disposições da lei e pelas deliberações da assembleia geral."
+  },
+  "125276630": {
+   "fragment_id": "125276716",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 202/94\n\nde 23 de Julho\n\nO presente decreto-lei visa transformar o Serviço de Transportes Colectivos do Porto (STCP) em sociedade anónima.\n\nCom a presente medida dota-se a empresa de um quadro legal moderno e mais ajustado aos seus actuais objectivos.\n\nFoi ouvida a Câmara Municipal do Porto, bem como a Comissão dos Trabalhadores do Serviço de Transportes Colectivos do Porto (STCP).\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "125277182": {
+   "fragment_id": "125276719",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 38/2016 - Diário da República n.º 241/2016, Série I de 2016-12-19](https://diariodarepublica.pt/dr/detalhe/lei/38-2016-105387216), em vigor a partir de 2017-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 101/94 - Diário da República n.º 175/1994, 1º Suplemento, Série I-A de 1994-07-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/101-1994-667964), em vigor a partir de 1994-07-28"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - O capital social da STCP, S. A., é de 4500000000$00, encontrando-se totalmente subscrito e realizado através da conversão em capital dos empréstimos concedidos pelo Fundo de Regularização da Dívida Pública.\n\n2 - As acções representativas do capital subscrito pelo Estado são detidas pela Direcção-Geral do Tesouro, sem prejuízo de a sua gestão ser cometida a uma pessoa colectiva de direito público ou outra entidade que por imposição legal pertença ao sector público.\n\n3 - Os direitos do Estado, como accionista da STCP, S. A., são exercidos por um representante designado por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, salvo quando a gestão das acções tenha sido cometida a outra entidade nos termos do número anterior.\n\n4 - Para a prossecução do objeto principal da STCP, S. A., referido no n.º 1, a STCP, S. A., não pode subconcessionar a sua atividade principal a entidades que não sejam de direito público ou de capitais exclusivamente públicos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 38/2016 - Diário da República n.º 241/2016, Série I de 2016-12-19](https://diariodarepublica.pt/dr/detalhe/lei/38-2016-105387216), em vigor a partir de 2017-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 101/94 - Diário da República n.º 175/1994, 1º Suplemento, Série I-A de 1994-07-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/101-1994-667964), em vigor a partir de 1994-07-28"
+  },
+  "125276640": {
+   "fragment_id": "125276726",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de Junho de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 12 de Julho de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 14 de Julho de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "125277179": {
+   "fragment_id": "125276729",
+   "type": 11,
+   "heading": "Artigo 1.º — Denominação e duração",
+   "in_force_from": "1994-07-28",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 101/94 - Diário da República n.º 175/1994, 1º Suplemento, Série I-A de 1994-07-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/101-1994-667964), em vigor a partir de 1994-07-28"
+   ],
+   "markdown": "###### Artigo 1.º — Denominação e duração\n\n1 - A sociedade adopta a forma de sociedade anónima e a denominação de Sociedade de Transportes Colectivos do Porto, S. A., ou, abreviadamente, STCP, S. A.\n\n2 - A Sociedade tem duração ilimitada.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 101/94 - Diário da República n.º 175/1994, 1º Suplemento, Série I-A de 1994-07-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/101-1994-667964), em vigor a partir de 1994-07-28"
+  },
+  "125277180": {
+   "fragment_id": "125276767",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Proibição de transmissão ou subconcessão",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 38/2016 - Diário da República n.º 241/2016, Série I de 2016-12-19](https://diariodarepublica.pt/dr/detalhe/lei/38-2016-105387216), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 2.º-A — Proibição de transmissão ou subconcessão\n\nA atividade de transporte público rodoviário de passageiros na área urbana do Grande Porto, a ser exercida pela STCP, S. A., não pode ser transmitida ou subconcessionada a outras entidades que não sejam de direito público ou de capitais exclusivamente públicos.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 38/2016 - Diário da República n.º 241/2016, Série I de 2016-12-19](https://diariodarepublica.pt/dr/detalhe/lei/38-2016-105387216), em vigor a partir de 2017-01-01"
+  },
+  "125277181": {
+   "fragment_id": "125276731",
+   "type": 11,
+   "heading": "Artigo 3.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objecto\n\n1 - A Sociedade tem por objecto principal a exploração do transporte público rodoviário de passageiros na área urbana do Grande Porto.\n\n2 - Acessoriamente, a Sociedade pode explorar transportes colectivos de passageiros de superfície na e fora da área geográfica referida no número anterior.\n\n3 - Para o exercício do objecto referido nos números anteriores, a Sociedade pode participar na constituição e adquirir participações em sociedades de qualquer natureza e objecto, em associação, agrupamentos complementares de empresas, agrupamentos de empresas de interesse económico, ou outras formas de colaboração com terceiros."
+  },
+  "125277184": {
+   "fragment_id": "125276717",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 1.º\n\n- 1 - O Serviço de Transportes Colectivos do Porto (STCP), instituído pelo Decreto-Lei n.º 38144, de 30 de Dezembro de 1950, é transformado, pelo presente diploma, em sociedade anónima de capitais exclusivamente públicos, com a denominação de Sociedade de Transportes Colectivos do Porto, S. A., ou, abreviadamente, STCP, S. A.\n\n2 - A STCP, S. A., rege-se pelo presente diploma, pelos seus estatutos, pelas normas reguladoras das sociedades anónimas e pelas normas especiais cuja aplicação decorra do objecto da Sociedade.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277185": {
+   "fragment_id": "125276718",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 2.º\n\n- 1 - A STCP, S. A., sucede automática e globalmente ao Serviço de Transportes Colectivos do Porto (STCP) e continua a personalidade jurídica deste, conservando a universalidade dos direitos e obrigações integrantes da sua esfera jurídica no momento da transformação, sem prejuízo dos direitos imobiliários de que a Câmara Municipal do Porto seja titular.\n\n2 - O presente diploma é título bastante para a comprovação do estabelecido no artigo anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da STCP, S. A.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277186": {
+   "fragment_id": "125276719",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 38/2016 - Diário da República n.º 241/2016, Série I de 2016-12-19](https://diariodarepublica.pt/dr/detalhe/lei/38-2016-105387216), em vigor a partir de 2017-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 101/94 - Diário da República n.º 175/1994, 1º Suplemento, Série I-A de 1994-07-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/101-1994-667964), em vigor a partir de 1994-07-28"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - O capital social da STCP, S. A., é de 4500000000$00, encontrando-se totalmente subscrito e realizado através da conversão em capital dos empréstimos concedidos pelo Fundo de Regularização da Dívida Pública.\n\n2 - As acções representativas do capital subscrito pelo Estado são detidas pela Direcção-Geral do Tesouro, sem prejuízo de a sua gestão ser cometida a uma pessoa colectiva de direito público ou outra entidade que por imposição legal pertença ao sector público.\n\n3 - Os direitos do Estado, como accionista da STCP, S. A., são exercidos por um representante designado por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, salvo quando a gestão das acções tenha sido cometida a outra entidade nos termos do número anterior.\n\n4 - Para a prossecução do objeto principal da STCP, S. A., referido no n.º 1, a STCP, S. A., não pode subconcessionar a sua atividade principal a entidades que não sejam de direito público ou de capitais exclusivamente públicos.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 38/2016 - Diário da República n.º 241/2016, Série I de 2016-12-19](https://diariodarepublica.pt/dr/detalhe/lei/38-2016-105387216), em vigor a partir de 2017-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 101/94 - Diário da República n.º 175/1994, 1º Suplemento, Série I-A de 1994-07-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/101-1994-667964), em vigor a partir de 1994-07-28"
+  },
+  "125277187": {
+   "fragment_id": "125276720",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - São aprovados os estatutos da STCP, S. A., anexos ao presente diploma.\n\n2 - A transformação operada pelo artigo 1.º, bem como os estatutos agora aprovados produzem efeitos relativamente a terceiros, independentemente de registo, que, no entanto, deve ser efectuado oficiosamente, sem taxas ou emolumentos, nos 30 dias seguintes à entrada em vigor do presente diploma.\n\n3 - As eventuais alterações dos estatutos produzirão todos os seus efeitos desde que deliberadas nos termos dos mesmos e com observância das disposições aplicáveis da lei comercial e do presente diploma, sendo bastante a sua redução a escritura pública e o subsequente registo.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277188": {
+   "fragment_id": "125276721",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 5.º\n\nA STCP, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277189": {
+   "fragment_id": "125276722",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 6.º\n\n- 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração enviará aos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, pelo menos 30 dias antes da data da assembleia geral anual:\n\na) O relatório de gestão e as contas do exercício;\n\nb) Quaisquer elementos adequados à compreensão integral da situação económica e financeira da empresa, eficiência da gestão e perspectivas da sua evolução.\n\n2 - O conselho fiscal enviará trimestralmente aos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277190": {
+   "fragment_id": "125276723",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 7.º\n\nOs trabalhadores ao serviço e os pensionistas do Serviço de Transportes Colectivos do Porto (STCP) mantêm perante a STCP, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor do presente diploma.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277191": {
+   "fragment_id": "125276724",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 8.º\n\n- 1 - Enquanto não forem eleitos os membros dos órgãos sociais, os membros do conselho de gerência constituem o conselho de administração.\n\n2 - Até ao 60.º dia posterior à data de entrada em vigor do presente diploma, os Ministros das Finanças e das Obras Públicas, Transportes e Comunicações nomearão o representante a que se refere o n.º 3 do artigo 3.º, o qual convocará a assembleia geral da STCP, S. A., para a eleição dos titulares dos órgãos sociais e a aprovação do respectivo estatuto remuneratório.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277192": {
+   "fragment_id": "125276725",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 9.º\n\nSão revogados os Decretos-Leis n.os 38144, de 30 de Dezembro de 1950, 48461, de 1 de Julho de 1968, e 33/75, de 28 de Janeiro.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277193": {
+   "fragment_id": "125276726",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de Junho de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 12 de Julho de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 14 de Julho de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277194": {
+   "fragment_id": "125276727",
+   "type": 14,
+   "heading": "Anexo — Estatutos da Sociedade de Transportes Colectivos do Porto, S. A.",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "## Anexo — Estatutos da Sociedade de Transportes Colectivos do Porto, S. A.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277195": {
+   "fragment_id": "125276728",
+   "type": 1,
+   "heading": "Capítulo I — Denominação, duração, sede e objecto",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "### Capítulo I — Denominação, duração, sede e objecto\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277196": {
+   "fragment_id": "125276729",
+   "type": 11,
+   "heading": "Artigo 1.º — Denominação e duração",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 101/94 - Diário da República n.º 175/1994, 1º Suplemento, Série I-A de 1994-07-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/101-1994-667964), em vigor a partir de 1994-07-28"
+   ],
+   "markdown": "###### Artigo 1.º — Denominação e duração\n\n1 - A sociedade adopta a forma de sociedade anónima e a denominação de Sociedade de Transportes Colectivos do Porto, S. A., ou, abreviadamente, STCP, S. A.\n\n2 - A Sociedade tem duração ilimitada.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 101/94 - Diário da República n.º 175/1994, 1º Suplemento, Série I-A de 1994-07-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/101-1994-667964), em vigor a partir de 1994-07-28"
+  },
+  "125277197": {
+   "fragment_id": "125276730",
+   "type": 11,
+   "heading": "Artigo 2.º — Sede",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Sede\n\n1 - A Sociedade tem sede no Porto, na Avenida da Boavista, 806, e pode ser mudada, dentro da área do município, por simples deliberação do conselho de administração.\n\n2 - Por deliberação do conselho de administração, a Sociedade pode criar e encerrar agências, delegações ou qualquer outra forma de representação em território nacional.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277198": {
+   "fragment_id": "125276767",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Proibição de transmissão ou subconcessão",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 38/2016 - Diário da República n.º 241/2016, Série I de 2016-12-19](https://diariodarepublica.pt/dr/detalhe/lei/38-2016-105387216), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 2.º-A — Proibição de transmissão ou subconcessão\n\nA atividade de transporte público rodoviário de passageiros na área urbana do Grande Porto, a ser exercida pela STCP, S. A., não pode ser transmitida ou subconcessionada a outras entidades que não sejam de direito público ou de capitais exclusivamente públicos.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 38/2016 - Diário da República n.º 241/2016, Série I de 2016-12-19](https://diariodarepublica.pt/dr/detalhe/lei/38-2016-105387216), em vigor a partir de 2017-01-01"
+  },
+  "125277199": {
+   "fragment_id": "125276731",
+   "type": 11,
+   "heading": "Artigo 3.º — Objecto",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Objecto\n\n1 - A Sociedade tem por objecto principal a exploração do transporte público rodoviário de passageiros na área urbana do Grande Porto.\n\n2 - Acessoriamente, a Sociedade pode explorar transportes colectivos de passageiros de superfície na e fora da área geográfica referida no número anterior.\n\n3 - Para o exercício do objecto referido nos números anteriores, a Sociedade pode participar na constituição e adquirir participações em sociedades de qualquer natureza e objecto, em associação, agrupamentos complementares de empresas, agrupamentos de empresas de interesse económico, ou outras formas de colaboração com terceiros.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277200": {
+   "fragment_id": "125276732",
+   "type": 1,
+   "heading": "Capítulo II — Capital social",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "### Capítulo II — Capital social\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277201": {
+   "fragment_id": "125276733",
+   "type": 11,
+   "heading": "Artigo 4.º — Capital social",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Capital social\n\n1 - O capital social, integralmente subscrito e realizado, é de 4500000000$00.\n\n2 - O capital social é representado por 4500000 acções com o valor nominal de 1000$00 cada uma e representadas por títulos de 1, 5, 50, 100, 1000 e 10000 acções, podendo o conselho de administração emitir certificados provisórios ou definitivos representativos de qualquer número de acções.\n\n3 - Fica desde já autorizada a emissão ou conversão de acções ou outros títulos em forma meramente escritural, nos termos da legislação aplicável, e desde que haja prévia deliberação favorável da assembleia geral, ficando as despesas inerentes por conta dos accionistas que o requererem.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277202": {
+   "fragment_id": "125276734",
+   "type": 1,
+   "heading": "Capítulo III — Órgãos sociais",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "### Capítulo III — Órgãos sociais\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277203": {
+   "fragment_id": "125276735",
+   "type": 8,
+   "heading": "Secção I — Disposição geral",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "#### Secção I — Disposição geral\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277204": {
+   "fragment_id": "125276736",
+   "type": 11,
+   "heading": "Artigo 5.º — Órgãos sociais",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Órgãos sociais\n\n1 - A Sociedade tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos presentes estatutos.\n\n2 - Os membros dos órgãos sociais consideram-se empossados logo que tenham sido eleitos e permanecem no exercício das suas funções até à designação de quem deva substituí-los, estando dispensados de prestar caução, relativamente ao desempenho dos seus cargos.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277205": {
+   "fragment_id": "125276737",
+   "type": 8,
+   "heading": "Secção II — Assembleia geral",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "#### Secção II — Assembleia geral\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277206": {
+   "fragment_id": "125276738",
+   "type": 11,
+   "heading": "Artigo 6.º — Participação na assembleia geral",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Participação na assembleia geral\n\n1 - A assembleia geral é composta pelos accionistas com direito de voto.\n\n2 - A cada 100 acções corresponde um voto, podendo os accionistas possuidores de um número inferior de acções agrupar-se de forma a, em conjunto e fazendo-se representar por um dos agrupados, reunirem as condições necessárias ao exercício do direito de voto.\n\n3 - Para conferir direito de voto as acções devem estar averbadas em nome dos respectivos titulares no livro de registo da Sociedade pelo menos 15 dias antes da data marcada para a reunião da assembleia geral.\n\n4 - Os accionistas que sejam pessoas colectivas indicam, por carta dirigida ao presidente da mesa, quem os representará na assembleia geral.\n\n5 - Nenhum accionista se pode fazer representar por mais de uma pessoa na mesma sessão da assembleia geral.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277207": {
+   "fragment_id": "125276739",
+   "type": 11,
+   "heading": "Artigo 7.º — Reuniões e deliberações da assembleia geral",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Reuniões e deliberações da assembleia geral\n\n1 - A assembleia geral reúne extraordinariamente sempre que os conselhos de administração ou fiscal o julguem necessário ou ainda quando a sua convocação seja requerida ao presidente da respectiva mesa por accionistas que representem, pelo menos, 5% do capital social e, ordinariamente, uma vez por ano.\n\n2 - A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa, que inclui ainda um vice-presidente e um secretário, podendo qualquer deles ser ou não accionista, sendo as respectivas faltas supridas nos termos da lei comercial.\n\n3 - As deliberações são tomadas por maioria de votos dos accionistas presentes ou representados na reunião da assembleia geral sempre que a lei ou os estatutos não exijam maior número.\n\n4 - A assembleia geral para eleição dos membros dos órgãos sociais não pode deliberar sem que estejam presentes ou representados accionistas cujas acções representem, pelo menos, 51% do capital social.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277208": {
+   "fragment_id": "125276740",
+   "type": 11,
+   "heading": "Artigo 8.º — Competência da assembleia geral",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Competência da assembleia geral\n\n1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei ou os presentes estatutos lhe atribuam competência.\n\n2 - Compete, em especial, à assembleia geral:\n\na) Apreciar o relatório do conselho de administração, discutir as contas do exercício e o parecer do conselho fiscal e sobre a aplicação dos resultados do exercício;\n\nb) Eleger e exonerar os membros da mesa da assembleia geral, do conselho de administração e do conselho fiscal;\n\nc) Deliberar sobre quaisquer alterações dos estatutos e aumentos de capital;\n\nd) Deliberar sobre as remunerações dos membros dos órgãos sociais, podendo para o efeito designar uma comissão de vencimentos;\n\ne) Deliberar sobre os projectos de expansão das linhas exploradas pela empresa;\n\nf) Autorizar a aquisição e a alienação de bens imóveis, bem como a realização de investimentos, quando, em cada caso, o valor exceda o correspondente a 10% do capital social da Sociedade;\n\ng) Autorizar a aquisição e a alienação de participações sociais, neste último caso apenas quando o valor exceda o correspondente a 10% do capital social da STCP, S. A.;\n\nh) Deliberar sobre a emissão de obrigações.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277209": {
+   "fragment_id": "125276741",
+   "type": 8,
+   "heading": "Secção III — Conselho de administração",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "#### Secção III — Conselho de administração\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277210": {
+   "fragment_id": "125276742",
+   "type": 11,
+   "heading": "Artigo 9.º — Composição do conselho de administração",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Composição do conselho de administração\n\n1 - O conselho de administração é composto por um presidente e por dois ou quatro vogais.\n\n2 - As vagas ou impedimentos que ocorram no conselho de administração serão preenchidos por cooptação dos administradores em exercício, desde que estes sejam em número suficiente para o conselho poder funcionar.\n\n3 - O mandato dos membros do conselho de administração é de três anos, renovável.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277211": {
+   "fragment_id": "125276743",
+   "type": 11,
+   "heading": "Artigo 10.º — Reuniões e deliberações do conselho de administração",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Reuniões e deliberações do conselho de administração\n\n1 - O conselho de administração deve fixar as datas ou periodicidade das suas reuniões ordinárias e reunirá, extraordinariamente, sempre que seja convocado pelo presidente, por sua iniciativa ou a requerimento de dois administradores ou do conselho fiscal.\n\n2 - O conselho de administração não pode deliberar sem presença da maioria dos seus membros.\n\n3 - As deliberações do conselho de administração constam sempre de acta, que consignará os votos de vencido, e são tomadas por maioria dos votos expressos, tendo o presidente, ou quem o substitua, voto de qualidade.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277212": {
+   "fragment_id": "125276744",
+   "type": 11,
+   "heading": "Artigo 11.º — Competência do conselho de administração",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Competência do conselho de administração\n\n1 - Compete ao conselho de administração:\n\na) Gerir os negócios sociais e praticar todos os actos relativos ao objecto social que não caibam na competência atribuída a outros órgãos da Sociedade;\n\nb) Elaborar o relatório anual;\n\nc) Adquirir, alienar ou onerar direitos ou bens móveis e imóveis e participações sociais, sem prejuízo do disposto nas alíneas f) e g) do n.º 2 do artigo 8.º;\n\nd) Representar a Sociedade em juízo e fora dele, activa e passivamente, podendo desistir, transigir e confessar em quaisquer pleitos e, bem assim, celebrar convenções de arbitragem;\n\ne) Estabelecer a organização técnico-administrativa da Sociedade e as normas do seu funcionamento interno;\n\nf) Constituir mandatários com os poderes considerados convenientes;\n\ng) Exercer as demais competências que lhe sejam atribuídas pela lei ou pela assembleia geral.\n\n2 - O conselho de administração pode, dentro dos limites legais, delegar algumas das suas competências num ou mais dos seus membros.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277213": {
+   "fragment_id": "125276745",
+   "type": 11,
+   "heading": "Artigo 12.º — Competência do presidente do conselho de administração",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Competência do presidente do conselho de administração\n\n1 - Compete ao presidente do conselho de administração dirigir a actividade do conselho e, em especial:\n\na) Convocar e presidir às reuniões do conselho de administração;\n\nb) Zelar pela correcta execução das deliberações do conselho.\n\n2 - Nas suas faltas ou impedimentos o presidente é substituído pelo vogal do conselho de administração por si designado para o efeito.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277214": {
+   "fragment_id": "125276746",
+   "type": 11,
+   "heading": "Artigo 13.º — Representação da Sociedade",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Representação da Sociedade\n\n1 - A Sociedade obriga-se:\n\na) Pela assinatura de dois membros do conselho de administração, sendo uma delas a do presidente;\n\nb) Pela assinatura de um administrador, quando haja delegação expressa do conselho para a prática de determinado acto;\n\nc) Pela assinatura de mandatário constituído, no âmbito do correspondente mandato.\n\n2 - Em assuntos de mero expediente basta a assinatura de um administrador.\n\n3 - O conselho de administração pode deliberar, nos termos legais, que certos documentos da Sociedade sejam assinados por processos mecânicos ou por chancela, designadamente os títulos representativos do capital social.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277215": {
+   "fragment_id": "125276747",
+   "type": 8,
+   "heading": "Secção IV — Conselho fiscal",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "#### Secção IV — Conselho fiscal\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277216": {
+   "fragment_id": "125276748",
+   "type": 11,
+   "heading": "Artigo 14.º — Fiscalização da actividade da Sociedade",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Fiscalização da actividade da Sociedade\n\n1 - A fiscalização da actividade social compete a um conselho fiscal, composto por três membros efectivos e um suplente, todos eleitos em assembleia geral, sendo um dos membros efectivos presidente.\n\n2 - Um dos membros e o suplente são revisores oficiais de contas.\n\n3 - O mandato dos membros do conselho fiscal é de três anos, renovável.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277217": {
+   "fragment_id": "125276749",
+   "type": 11,
+   "heading": "Artigo 15.º — Reuniões e deliberações do conselho fiscal",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Reuniões e deliberações do conselho fiscal\n\n1 - O conselho fiscal reúne ordinariamente, nos termos da lei, e extraordinariamente sempre que o respectivo presidente o convoque, quer por sua iniciativa, quer a solicitação de qualquer dos restantes membros do conselho fiscal.\n\n2 - Para que o conselho fiscal possa deliberar é necessária a presença da maioria dos seus membros.\n\n3 - As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, tendo o presidente voto de qualidade.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277218": {
+   "fragment_id": "125276750",
+   "type": 11,
+   "heading": "Artigo 16.º — Competência do conselho fiscal",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Competência do conselho fiscal\n\n1 - Para além das competências constantes da lei geral, compete especialmente ao conselho fiscal:\n\na) Examinar, sempre que o julgue conveniente e pelo menos uma vez por mês, a escrituração da Sociedade;\n\nb) Acompanhar o funcionamento da instituição e o cumprimento das leis, dos estatutos e dos regulamentos que lhe são aplicáveis;\n\nc) Fazer-se representar nas reuniões do conselho de administração sempre que o entenda conveniente;\n\nd) Pedir a convocação extraordinária da assembleia geral sempre que o entenda conveniente;\n\ne) Examinar as situações periódicas apresentadas pelo conselho de administração durante a sua gerência;\n\nf) Emitir parecer sobre o orçamento, o balanço, o inventário e as contas anuais;\n\ng) Chamar a atenção do conselho de administração para qualquer assunto que deva ser ponderado e pronunciar-se sobre qualquer matéria que lhe seja submetida por aquele órgão.\n\n2 - O conselho fiscal pode ser coadjuvado por técnicos especialmente designados ou contratados para esse efeito e ainda por empresas especializadas em trabalhos de auditoria.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277219": {
+   "fragment_id": "125276751",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "### Capítulo IV — Disposições finais\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277220": {
+   "fragment_id": "125276752",
+   "type": 11,
+   "heading": "Artigo 17.º — Aplicação de resultados",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Aplicação de resultados\n\nOs resultados positivos de cada exercício, devidamente aprovados, têm, pela ordem abaixo indicada, a seguinte aplicação:\n\na) Um mínimo de 10% para constituição ou reintegração da reserva legal, até atingir o montante legalmente exigível;\n\nb) Outras aplicações impostas por lei;\n\nc) Do remanescente será distribuída pelos accionistas, a título de dividendos, a percentagem que vier a ser fixada, a qual, salvo voto favorável de três quartos dos votos dos accionistas presentes ou representados, não poderá ser inferior a 50%;\n\nd) O restante, conforme for deliberado pela assembleia geral.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277221": {
+   "fragment_id": "125276753",
+   "type": 11,
+   "heading": "Artigo 18.º — Dissolução da Sociedade",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — Dissolução da Sociedade\n\n1 - A Sociedade dissolve-se nos casos e nos termos legais.\n\n2 - A liquidação da Sociedade reger-se-á pelas disposições da lei e pelas deliberações da assembleia geral.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  }
+ }
+}

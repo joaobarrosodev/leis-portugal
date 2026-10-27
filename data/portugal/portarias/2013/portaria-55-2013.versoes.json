@@ -1,0 +1,152 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:258096:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-71076512",
+ "dre_path": "/dr/detalhe/portaria/55-2013-258096",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-02-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "71064189",
+    "71064190",
+    "71064191",
+    "71064192",
+    "71064193",
+    "71064194"
+   ]
+  },
+  {
+   "date": "2015-11-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:71066565:por",
+     "title": "Portaria n.º 406/2015",
+     "published": "2015-11-23",
+     "dre_path": "/dr/detalhe/portaria/406-2015-71066565"
+    }
+   ],
+   "changes": [
+    "Altera LISTA ANEXA"
+   ],
+   "fragments": [
+    "71064189",
+    "71064190",
+    "71064191",
+    "71064192",
+    "71064193",
+    "71064194",
+    "71064195",
+    "71064202"
+   ]
+  },
+  {
+   "date": "2017-03-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:106616121:por",
+     "title": "Portaria n.º 111/2017",
+     "published": "2017-03-16",
+     "dre_path": "/dr/detalhe/portaria/111-2017-106616121"
+    }
+   ],
+   "changes": [
+    "Altera LISTA ANEXA"
+   ],
+   "fragments": [
+    "71064189",
+    "71064190",
+    "71064191",
+    "71064192",
+    "71064193",
+    "71064194",
+    "71064195",
+    "106607236"
+   ]
+  }
+ ],
+ "fragments": {
+  "71064189": {
+   "fragment_id": "71076513",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 55/2013\n\nde 7 de fevereiro\n\nNo âmbito do processo reformador do Serviço Nacional de Saúde (SNS), pelo Decreto-Lei n.º 19/2010, de 22 de março, alterado pelo Decreto-Lei n.º 108/2011, de 17 de novembro, foi criada a SPMS - Serviços Partilhados do Ministério da Saúde, E.P.E., abreviadamente designada SPMS, com a qualidade de central de compras para o sector da saúde, tendo vista a prestação de serviços partilhados específicos nesta área em matéria de compras e logística, de serviços financeiros, de recursos humanos e de sistemas e tecnologias de informação e comunicação aos estabelecimentos e serviços do SNS, independentemente da sua natureza jurídica, bem como aos órgãos e serviços do Ministério da Saúde e a quaisquer outras entidades, quando executem atividades específicas da área da saúde.\n\nAtravés da aquisição centralizada visa-se assim a promoção de eficácia e eficiência em organizações dos sectores público e privado, permitindo não só elevadas poupanças, criação de sinergias e aumento de produtividade, como também benefícios ao nível da qualidade do serviço prestado e da qualidade e celeridade da informação de gestão produzida. Simultaneamente, a referida aquisição centralizada de bens e serviços que, pela sua natureza e relevância estratégica, podem e devem ser garantidos por um único fornecedor a todas as entidades do sistema de saúde, permite a sua libertação para se concentrarem na prossecução das suas atividades nucleares: a prestação de cuidados de saúde aos cidadãos.\n\nNeste contexto, a presente portaria vem proceder à definição das categorias de bens e serviços abrangidos nas atribuições da SPMS, na qualidade de central de compras, para celebrar contratos públicos de aprovisionamento e à concretização dos termos em que será efetuada a contratação da aquisição de bens e serviços ao seu abrigo.\n\nNestes termos, ao abrigo do disposto no n.º 6 do artigo 4.º do Decreto-Lei n.º 19/2010, de 22 de março, alterado pelo Decreto-Lei nº 108/2011, de 17 de novembro, manda o Governo, pelo Secretário de Estado da Saúde, o seguinte:"
+  },
+  "71064190": {
+   "fragment_id": "71076514",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria define as categorias de bens e serviços específicos da área da saúde cujos contratos públicos de aprovisionamento (CPA) e, se for o caso, os procedimentos de aquisição, são celebrados e conduzidos pela SPMS, nos termos do n.º 6 do artigo 4.º do Decreto-Lei n.º 19/2010, de 22 de março.\n\n2 - A condução dos procedimentos de aquisição referida no número anterior poderá incluir, designadamente, a negociação e a adjudicação das propostas em representação das entidades compradoras, mediante contrato de mandato administrativo a celebrar entre a SPMS e aquelas entidades."
+  },
+  "71064191": {
+   "fragment_id": "71076515",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - As categorias de bens e serviços referidas no artigo anterior são as constantes da lista anexa à presente portaria, que dela faz parte integrante.\n\n2 - A lista referida no número anterior é objeto de atualização ou revisão, e republicação, sempre que tal se justifique, designadamente, em função da análise das necessidades agregadas de aquisição, de alterações organizativas ou de funcionamento das entidades compradoras, ou da evolução tecnológica."
+  },
+  "71064192": {
+   "fragment_id": "71076516",
+   "type": 11,
+   "heading": "Artigo 3.º — Obrigatoriedade de aquisição centralizada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Obrigatoriedade de aquisição centralizada\n\n1 - A contratação no âmbito dos CPA referidos no n.º 1 do artigo 1.º poderá ser tornada obrigatória, com carácter de generalidade, para a totalidade ou parte dos serviços e instituições do SNS ou dos órgãos e serviços do Ministério da Saúde, por despacho do membro do Governo responsável pela área da saúde, para a aquisição dos bens e serviços abrangidos nas categorias neles previstas.\n\n2 - Sendo determinada a obrigatoriedade de aquisição centralizada, nos termos do número anterior, é vedado às instituições do SNS ou dos órgãos e serviços do Ministério da Saúde abrangidos, a partir da produção de efeitos do despacho de obrigatoriedade referido no número anterior, proceder à abertura de procedimentos de aquisição e renovações contratuais que não sejam feitas ao abrigo desses CPA e que tenham por objeto ou efeito a aquisição de bens ou serviços pelos mesmos abrangidos."
+  },
+  "71064193": {
+   "fragment_id": "71076517",
+   "type": 11,
+   "heading": "Artigo 4.º — Celebração de contratos ao abrigo dos contratos públicos de aprovisionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Celebração de contratos ao abrigo dos contratos públicos de aprovisionamento\n\nA celebração de contratos de fornecimento pelos serviços e estabelecimentos do Serviço Nacional de Saúde e pela SPMS em representação daquelas entidades ao abrigo dos CPA referidos no n.º 1 do artigo 1.º deve ser feita de acordo com o disposto no artigo 259.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua atual redação."
+  },
+  "71064194": {
+   "fragment_id": "71076518",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "71064195": {
+   "fragment_id": "71076519",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 24 de janeiro de 2013."
+  },
+  "71064202": {
+   "fragment_id": "71076520",
+   "type": 11,
+   "heading": "LISTA ANEXA",
+   "in_force_from": "2015-11-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 406/2015 - Diário da República n.º 229/2015, Série I de 2015-11-23](https://diariodarepublica.pt/dr/detalhe/portaria/406-2015-71066565), em vigor a partir de 2015-11-24"
+   ],
+   "markdown": "###### LISTA ANEXA\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 406/2015 - Diário da República n.º 229/2015, Série I de 2015-11-23](https://diariodarepublica.pt/dr/detalhe/portaria/406-2015-71066565), em vigor a partir de 2015-11-24"
+  },
+  "106607236": {
+   "fragment_id": "71076520",
+   "type": 11,
+   "heading": "LISTA ANEXA",
+   "in_force_from": "2017-03-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111/2017 - Diário da República n.º 54/2017, Série I de 2017-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/111-2017-106616121), em vigor a partir de 2017-03-16",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 406/2015 - Diário da República n.º 229/2015, Série I de 2015-11-23](https://diariodarepublica.pt/dr/detalhe/portaria/406-2015-71066565), em vigor a partir de 2015-11-24"
+   ],
+   "markdown": "###### LISTA ANEXA\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111/2017 - Diário da República n.º 54/2017, Série I de 2017-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/111-2017-106616121), em vigor a partir de 2017-03-16\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 406/2015 - Diário da República n.º 229/2015, Série I de 2015-11-23](https://diariodarepublica.pt/dr/detalhe/portaria/406-2015-71066565), em vigor a partir de 2015-11-24"
+  }
+ }
+}

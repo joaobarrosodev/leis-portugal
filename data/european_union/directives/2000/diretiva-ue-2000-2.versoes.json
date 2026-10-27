@@ -1,0 +1,101 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32000L0002:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000L0002-20000215",
+ "dre_path": null,
+ "source_lastmod": "2000-02-15",
+ "versions": [
+  {
+   "date": "2000-01-26",
+   "future": false,
+   "celex": "32000L0002",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "128226678b24a21f",
+    "7bd08b44c24bebe1",
+    "87312ef4126aa0b3",
+    "94cc5e1eb876bec2",
+    "928ea11e5b5f14d9",
+    "17abe027c98d529b",
+    "ab35fb6f5f5d59db",
+    "93a7ec17b5ca0e5f",
+    "cb38baad1b480c75"
+   ]
+  }
+ ],
+ "fragments": {
+  "128226678b24a21f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2000/2/CE da Comissão, de 14 de Janeiro de 2000, que adapta ao progresso técnico a Directiva 75/322/CEE do Conselho relativa à supressão das interferências radioeléctricas produzidas por motores de ignição comandada que equipam os tractores agrícolas ou florestais de rodas e a Directiva 74/150/CEE do Conselho relativa à recepção dos tractores agrícolas ou florestais de rodas (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 021 de 26/01/2000 p. 0023 - 0031*\n\nDIRECTIVA 2000/2/CE DA COMISSÃO\n\nde 14 de Janeiro de 2000\n\nque adapta ao progresso técnico a Directiva 75/322/CEE do Conselho relativa à supressão das interferências radioeléctricas produzidas por motores de ignição comandada que equipam os tractores agrícolas ou florestais de rodas e a Directiva 74/150/CEE do Conselho relativa à recepção dos tractores agrícolas ou florestais de rodas\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 74/150/CEE do Conselho, de 4 de Março de 1974, relativa à aproximação das legislações dos Estados-Membros respeitantes à recepção dos tractores agrícolas ou florestais de rodas(1), com a última redacção que lhe foi dada pela Directiva 97/54/CE do Parlamento Europeu e do Conselho(2), e, nomeadamente, o seu artigo 11.o,\n\nTendo em conta a Directiva 75/322/CEE do Conselho, de 20 de Maio de 1975, relativa à aproximação das legislações dos Estados-Membros respeitantes à supressão das interferências radioeléctricas produzidas por motores de ignição comandada que equipam os tractores agrícolas ou florestais de rodas(3), com a última redacção que lhe foi dada pela Directiva 97/54/CE e, nomeadamente, o seu artigo 5.o,\n\nConsiderando o seguinte:\n\n(1) A Directiva 75/322/CEE é uma das directivas específicas do procedimento de recepção CE instituído pela Directiva 74/150/CEE; por conseguinte, as disposições da Directiva 74/150/CEE respeitantes aos sistemas, componentes e unidades técnicas são aplicáveis à referida directiva;\n\n(2) A Directiva 75/322/CEE contém as primeiras medidas destinadas a garantir uma compatibilidade electromagnética elementar no que diz respeito às interferências radioeléctricas e, desde então, a complexidade e a diversidade dos equipamentos eléctricos e electrónicos aumentaram com o progresso técnico;\n\n(3) Atendendo à crescente preocupação com os desenvolvimentos tecnológicos nos equipamentos eléctricos e electrónicos e à necessidade de assegurar a compatibilidade geral de diferentes equipamentos eléctricos e electrónicos, a Directiva 89/336/CEE do Conselho(4), com a última redacção que lhe foi dada pela Directiva 93/68/CEE(5), estabeleceu disposições gerais relativas à compatibilidade electromagnética para todos os produtos não abrangidos por uma directiva específica;\n\n(4) Por força do princípio estabelecido na Directiva 89/336/CEE, as disposições gerais da referida directiva não se aplicam, ou deixam de se aplicar, aos aparelhos abrangidos por directivas específicas na medida em que os requisitos de protecção previstos na referida directiva são harmonizados;\n\n(5) A Directiva 75/322/CEE deve tornar-se uma dessas directivas específicas;\n\n(6) A adaptação ao progresso técnico foi realizada, no caso dos veículos a motor, pela Directiva 95/54/CE da Comissão(6) relativa à supressão das interferências radioeléctricas produzidas pelos motores de ignição comandada que equipam os veículos a motor. Convém actualmente adoptar requisitos equivalentes de supressão das interferências radioeléctricas produzidas pelos motores que equipam os tractores agrícolas ou florestais, pela criação de uma directiva específica no quadro do procedimento de recepção que preveja que esta seja concedida por uma autoridade nacional designada com base em requisitos técnicos harmonizados;\n\n(7) É necessário que os requisitos técnicos relativos às interferências radioeléctricas (compatibilidade electromagnética) dos veículos, seus componentes e seus sistemas sejam unicamente regidos, a partir de 1 de Outubro de 2001, pelas disposições da Directiva 75/322/CEE;\n\n(8) As disposições da presente directiva estão em conformidade com o parecer do Comité de Adaptação ao Progresso Técnico instituído pelo artigo 12.o da Directiva 74/150/CEE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "7bd08b44c24bebe1": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Directiva 75/322/CEE é alterada do seguinte modo:\n\n1. O título passa a ter a seguinte redacção: \"Directiva 75/322/CEE do Conselho, de 20 de Maio de 1975, relativa à supressão das interferências radioeléctricas (compatibilidade electromagnética) produzidas pelos tractores agrícolas ou florestais.\".\n\n2. O artigo 1.o e o artigo 2.o passam a ter a seguinte redacção: \"Artigo 1.o\n\nPara efeitos do disposto na presente directiva, entende-se por 'veículo' os tractores na acepção da Directiva 74/150/CEE."
+  },
+  "87312ef4126aa0b3": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros não podem recusar a recepção CE nem a recepção de âmbito nacional de um modelo de veículo ou tipo de sistema, componente ou entidade técnica, por motivos relacionados com a compatibilidade electromagnética, se foram satisfeitos os requisitos da presente directiva.\".\n\n3. O artigo 3.o é suprimido.\n\n4. O artigo 4.o, passa a ter a seguinte redacção: \"Artigo 4.o\n\nA presente directiva constitui uma directiva específica, para efeitos do disposto no n.o 2 do artigo 2.o da Directiva 89/336/CEE do Conselho(7), a partir de 1 de Outubro de 2001.\".\n\n5. Os anexos são substituídos pelos anexos I a IX em anexo à presente directiva."
+  },
+  "94cc5e1eb876bec2": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. A partir de 1 de Janeiro de 2001, os Estados-Membros não podem, por motivos relacionados com a compatibilidade electromagnética:\n\n- recusar a recepção CE ou a recepção de âmbito nacional a um modelo de veículo,\n\n- recusar a recepção CE a um componente ou uma unidade técnica,\n\n- proibir a matrícula, a venda ou a entrada em serviço de veículos,\n\n- proibir a venda ou a utilização de componentes ou de unidades técnicas,\n\nse esses veículos, componentes ou unidades técnicas satisfizerem os requisitos da Directiva 75/322/CEE, com a redacção que lhe é dada pela presente directiva.\n\n2. A partir de 1 de Outubro de 2002, os Estados-Membros:\n\n- deixam de poder emitir a recepção CE,\n\ne\n\n- podem recusar a recepção de âmbito nacional,\n\na um modelo de veículo ou a um tipo de componente ou de unidade técnica, se não forem satisfeitos os requisitos da Directiva 75/322/CEE, com a redacção que lhe é dada pela presente directiva.\n\n3. O n.o 2 não se aplica aos modelos de veículos aos quais tenha sido concedida uma recepção antes de 1 de Outubro de 2002 por força da Directiva 77/537/CEE do Conselho(8) nem, se for caso disso, às extensões posteriores dessas recepções.\n\n4. A partir de 1 de Outubro de 2008, os Estados-Membros:\n\n- consideram que os certificados de conformidade que acompanham os veículos novos, nos termos da Directiva 74/150/CEE, deixam de ser válidos para efeitos do disposto no n.o 1 do artigo 7.o dessa directiva,\n\ne\n\n- podem recusar a venda e a colocação em serviço de subconjuntos eléctricos ou electrónicos novos enquanto componentes ou unidades técnicas,\n\nse não forem satisfeitos os requisitos da presente directiva.\n\n5. Sem prejuízo dos n.os 2 e 4, no caso de sobresselentes, os Estados-Membros continuarão a conceder a recepção CE e a autorizar a venda e a colocação em serviço de componentes ou unidades técnicas destinados a modelos de veículos aos quais tinha sido concedida a recepção antes de 1 de Outubro de 2002 por força da Directiva 75/322/CEE ou da Directiva 77/537/CEE, se for caso disso com uma extensão posterior."
+  },
+  "928ea11e5b5f14d9": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nNo ponto 3.17 do anexo I e no ponto 2.4 do anexo II da Directiva 74/150/CEE, a expressão \"supressão das interferências radioeléctricas\" é substituída por \"compatibilidade electromagnética\"."
+  },
+  "17abe027c98d529b": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 31 de Dezembro de 2000. Desse facto informarão imediatamente a Comissão.\n\nQuando os Estados-Membros adoptarem tais disposições, essas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "ab35fb6f5f5d59db": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "93a7ec17b5ca0e5f": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 14 de Janeiro de 2000.\n\nPela Comissão\n\nErkki LIIKANEN\n\nMembro da Comissão\n\n(1) JO L 84 de 28.3.1974, p. 10.\n\n(2) JO L 277 de 10.10.1997, p. 24.\n\n(3) JO L 147 de 9.6.1975, p. 28.\n\n(4) JO L 139 de 23.5.1989, p. 19.\n\n(5) JO L 220 de 30.8.1993, p. 1.\n\n(6) JO L 266 de 8.11.1995, p. 1.\n\n(7) JO L 139 de 23.5.1989, p. 19.\n\n(8) JO L 220 de 29.8.1977, p. 38."
+  },
+  "cb38baad1b480c75": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nPara efeitos do disposto na presente directiva, os anexos I, IIA, IIB, IIIA, IIIB, IV e VI da Directiva 95/54/CE são alterados do seguinte modo:\n\n1. Anexo I\n\n1.1. O ponto 1.1 passa a ter a seguinte redacção: \"A presente directiva aplica-se à compatibilidade electromagnética dos veículos abrangidos pelo artigo 1.o Aplica-se também às unidades técnicas eléctricas ou electrónicas destinadas a equipar os veículos.\".\n\n1.2. No ponto 2.1.10: A expressão \"artigo 2.o da Directiva 70/156/CEE\" é substituída pela expressão \"artigo 9.oA da Directiva 74/150/CEE\".\n\n1.3. Nos pontos 3.1.1 e 3.2.1: A expressão \"n.o 4 do artigo 3.o da Directiva 70/156/CEE\" é substituída pela expressão \"artigo 9.oA da Directiva 74/150/CEE\".\n\n1.4. Nos pontos 4.2.1.1 e 4.2.2.1: A expressão \"n.o 3 do artigo 4.o e, se aplicável, n.o 4 do artigo 4.o da Directiva 70/156/CEE\" é substituída pela expressão \"artigo 4.o da Directiva 74/150/CEE\".\n\n1.5. No ponto 4.3.1: A expressão \"artigo 5.o da Directiva 70/156/CEE\" é substituída pela expressão \"artigo 6.o da Directiva 74/150/CEE\".\n\n1.6. No ponto 5.2:\n\n1.6.1. Os 11 travessões são substituídos por uma frase com a seguinte redacção: \"1 para a Alemanha, 2 para a França, 3 para a Itália, 4 para os Países Baixos, 5 para a Suécia, 6 para a Bélgica, 9 para a Espanha, 11 para o Reino Unido, 12 para a Áustria, 13 para o Luxemburgo, 17 para a Finlândia, 18 para a Dinamarca, 21 para Portugal, 23 para a Grécia, 24 para a Irlanda.\".\n\n1.6.2. A expressão \"Directiva 72/245/CEE\" é substituída pela expressão \"Directiva 75/322/CEE\".\n\n1.7. Os pontos 7.1 e 7.3 são suprimidos.\n\n2. Anexo IIA\n\n2.1. O título passa a ter a seguinte redacção \"Ficha de informações n.o... nos termos do anexo I da Directiva 74/150/CEE, relativa à recepção CE de um veículo no que diz respeito à compatibilidade electromagnética (Directiva 75/322/CEE, com a última redacção que lhe foi dada pela Directiva 2000/2/CE)\".\n\n2.2. A nota de pé-de-página (*) é suprimida.\n\n3. Anexo IIB\n\n3.1. O título passa a ter a seguinte redacção: \"Ficha de informações n.o... relativa à recepção CE de um subconjunto eléctrico/electrónico no que diz respeito à compatibilidade electromagnética (Directiva 75/322/CEE, com a última redacção que lhe foi dada pela Directiva 2000/2/CE).\".\n\n4. Anexo IIIA\n\n4.1. O título passa a ser o seguinte: \"CERTIFICADO DE RECEPÇÃO CE\".\n\n4.2. No primeiro parágrafo: A expressão \"Directiva 72/245/CEE\" é substituída pela expressão \"Directiva 75/322/CEE\".\n\n4.3. No ponto 0.4:\n\n4.3.1. A expressão \"Categoria do veículo (3)\", é substituída pelo termo \"Veículo\".\n\n4.3.2. A nota de pé-de-página (3) é suprimida.\n\n4.4. O título do apêndice passa a ser o seguinte: \"Apêndice ao certificado de recepção CE n.o... relativo à recepção CE de um modelo de veículo no que diz respeito à Directiva 75/322/CEE, com a última redacção que lhe foi dada pela Directiva 2000/2/CE\".\n\n5. Anexo IIIB:\n\n5.1. O título passa a ser o seguinte: \"CERTIFICADO DE RECEPÇÃO CE\".\n\n5.2. No primeiro parágrafo: A expressão \"Directiva 72/245/CEE\" é substituída pela expressão \"Directiva 75/322/CEE\".\n\n5.3. No ponto 0.4:\n\n5.3.1. A expressão \"Categoria do veículo (3)\", é substituída pelo termo \"Veículo\".\n\n5.3.2. A nota de pé-de-página (3) é suprimida.\n\n5.4. O título do apêndice passa a ser o seguinte: \"Apêndice ao certificado de recepção CE n.o... relativo à recepção CE de um modelo de veículo no que diz respeito à Directiva 75/322/CEE, com a última redacção que lhe foi dada pela Directiva 2000/2/CE.\".\n\n6. Anexo IV\n\n6.1. O primeiro parágrafo do ponto 1.3 passa a ter a seguinte redacção: \"Este ensaio é concebido para medir a radiação electromagnética em banda larga emitida pelos sistemas de ignição comandada (por faísca) e pelos motores eléctricos (motor de tracção eléctrico, motores dos sistemas de aquecimento ou de degelo, bombas de combustível, bombas hidráulicas, etc.), que equipam permanentemente o veículo.\".\n\n6.2. O ponto 5.3 é completado com texto com a seguinte redacção: \"e alinhada com o centro do veículo, definido como sendo o ponto situado no eixo principal do veículo a meia distância entre os centros dos eixos da frente e da retaguarda do veículo.\".\n\n6.3. No apêndice l, as figuras 1 e 2 são substituídas pelas figuras 1 e 2 seguintes:\n\n>PIC FILE= \"L_2000021PT.002801.EPS\">\n\n>PIC FILE= \"L_2000021PT.002901.EPS\">\n\n>PIC FILE= \"L_2000021PT.002902.EPS\">.\n\n7. Anexo VI\n\n7.1. O ponto 4.1.1 passa a ter a seguinte redacção: \"O motor deve fazer rodar normalmente as rodas motoras a uma velocidade constante correspondente a três quartos da velocidade máxima do veículo se não houver razões técnicas para que o fabricante prefira uma velocidade diferente. O motor do veículo é carregado com o binário adequado. Se for caso disso, os veios de transmissão podem ser desligados (por exemplo, no que diz respeito aos veículos de mais de dois eixos), desde que não alimentem um componente emissor de interferências.\".\n\n7.2. O ponto 5.4.1.4 passa a ter a seguinte redacção: \"5.4.1.4. Para uma iluminação à frente:\n\n- a 1,0 +- 0,2 m no interior do veículo, medidos a partir do ponto de intersecção dos pára-brisas e da tampa do compartimento do motor (ponto C do apêndice 1 do presente anexo), ou\n\n- 0,2 +- 0,2 m a partir do centro do eixo da frente do tractor, medidos em direcção ao centro do tractor (ponto D do apêndice 2 do presente anexo),\n\ntomando-se das duas a distância que resultar no ponto de referência mais próximo da antena.\".\n\n7.3. É aditado um novo ponto 5.4.1.5 com a seguinte redacção: \"5.4.1.5. Para uma iluminação à retaguarda:\n\n- a 1,0 +- 0,2 m no interior do veículo, medidos a partir do ponto de intersecção dos pára-brisas e da tampa do compartimento do motor (ponto C do apêndice 1 do presente anexo), ou\n\n- 0,2 +- 0,2 m a partir do centro do eixo à retaguarda do tractor, medidos em direcção ao centro do tractor (ponto D do apêndice 2 do presente anexo),\n\ntomando-se das duas a distância que resultar no ponto de referência mais próximo da antena.\".\n\n7.4. Os Apêndices 1 e 2 passam a ser os seguintes:\n\n\"Apêndice 1\n\n>PIC FILE= \"L_2000021PT.003002.EPS\">\n\nApêndice 2\n\n>PIC FILE= \"L_2000021PT.003102.EPS\">\".\n\n7.5. O apêndice 3 é suprimido.\n\n7.6. O apêndice 4 passa a ser apêndice 3."
+  }
+ }
+}

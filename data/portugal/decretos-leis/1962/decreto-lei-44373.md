@@ -1,0 +1,180 @@
+---
+schema_version: '1.0'
+id: pt:dre:164228:por
+title: Decreto-Lei n.º 44373
+short_title: null
+summary: Designa as entidades a que é mantido, com carácter permanente, o regime de isenção de direitos de importação estabelecido
+  pelo Decreto-Lei n.º 43962 e inclui nas ressalvas feitas nos artigos 1.º e 2.º do referido decreto-lei as isenções de direitos
+  de importação relativas a materiais para a manufactura dos bordados da Madeira e dos Açores e a diamantes não lapidados
+  - Introduz uma nota à subposição 38.11.02 da pauta dos direitos de importação
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças - Direcção-Geral das Alfândegas
+proposing_entity: null
+official_number: '44373'
+official_date: null
+publication_date: '1962-05-29'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 122/1962, Série I de 1962-05-29
+  number: '122'
+  series: I
+  supplement: null
+  pages: 769 - 770
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/05/12200/07690770.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '164228'
+  dre_path: /dr/detalhe/decreto-lei/44373-1962-164228
+  internal: pt:dre:164228:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44373-1962-164228
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44373-1962-164228
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:41:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2a8fe7dbe770af8ddd3c90b58fbe007f30026debb2b651b8eadff851fb626d6b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:41:04Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Artesanato
+- Direitos de Importação
+- Importação
+- Isenção Fiscal
+- Madeira.ilha Adjacente
+- Pauta Aduaneira
+- Pedra Preciosa
+- Regime Fiscal
+relationships:
+- type: amended_by
+  target: pt:dre:272386:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:272386:por
+  label: "Introduzidas na lista anexa ao Dec Lei 47958, de 25-Set de 1967, as mercadorias abrangidas pela nota aditada ao\
+    \ artigo 38.11.02 da pauta dos direitos de importação pelo presente diploma, pelo DEC LEI.48424.08.06.1968.MF, DG.IS [137]\
+    \ de 08.06.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48424-1968-272386
+  date: '1968-06-08'
+- type: cites
+  target: pt:dre:183406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675814:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:41:04Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 44373
+
+1. O § 4.º do artigo 3.º do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406), de 14 de Outubro de 1961, determina que até ao dia 30 de Maio do ano corrente se publique no Diário do Governo, mediante diploma legal, a lista das entidades a quem for mantido, com carácter permanente, o regime de isenção de direitos, com indicação das condições particulares de cada caso. É esse um dos objectivos do presente diploma.
+
+Mas, para além das entidades expressamente autorizadas, em obediência a contratos feitos com o Estado, a beneficiar daquela isenção, há alguns casos genéricos de importação de mercadorias, que têm gozado até agora de isenção de direitos, que não foram considerados no artigo 2.º do decreto-lei acima referido, mas sobre os quais se apresentaram reclamações à sombra do § único do artigo 1.º do mesmo diploma, que a comissão referida no artigo 3.º apreciou e que se consideram de atender. Estes casos são contemplados no artigo 2.º do presente diploma.
+
+Também se apresentaram reclamações no sentido de se manter a isenção de direitos de importação para fungicidas e insecticidas. A estas reclamações se dá satisfação parcial, permitindo em certos casos a importação com taxa reduzida.
+
+2. As 113 reclamações presentes à comissão, a maioria das quais não pode ser considerada, revelam certa desorientação quanto aos objectivos do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406), o que resulta, aliás, da grande diversidade de situações hoje existentes quanto à isenção de direitos de importação. Daí, e apesar das explicações que foram dadas no relatório daquele decreto, o parecer oportuno resumir agora a doutrina.
+
+Quanto a esta matéria, um importador do continente ou das ilhas adjacentes cabe numa das quatro categorias seguintes:
+
+1.ª O importador ou a mercadoria a importar incluem-se nas ressalvas dos artigos 1.º e 2.º do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406) ou do artigo 2.º do presente diploma: a isenção de direitos é automática;
+
+2.ª O importador está incluído na lista aprovada pelo artigo 1.º do presente diploma, ou virá a ter posição equivalente (hipótese a considerar excepcional) que lhe seja dada, no futuro, por lei ou decreto-lei: cabe-lhe o direito permanente de importação sem direitos, respeitadas as condições particulares de cada caso [matéria regulada pela alínea a) do artigo 4.º do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406)];
+
+3.ª O importador exerce actividade genèricamente autorizada por lei ou decreto-lei a beneficiar da isenção, como a [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758) (electricidade), a [Lei n.º 2005](https://diariodarepublica.pt/dr/detalhe/lei/2005-1945-614081) (indústrias novas ou reorganizadas), a [Lei n.º 2073](https://diariodarepublica.pt/dr/detalhe/lei/2073-1954-675814) (indústria hoteleira), o [Decreto-Lei n.º 29725](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29725-1939-201783) (fomento mineiro), etc.: não lhe cabe o direito permanente de importar com isenção, mas pode requerê-lo, caso por caso, ao Conselho Económico, que resolverá, impondo as condições que julgar oportunas, de acordo com a alínea b) do mesmo artigo 4.º;
+
+4.ª O importador não tem qualquer título a invocar senão o de desejar fazer uma importação reputada de interesse para a economia nacional: pode igualmente requerer a isenção ao Conselho Económico, que resolverá de acordo com a alínea c) do mesmo artigo 4.º
+
+De harmonia com o que fica exposto;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º A lista a que se refere o § 4.º do artigo 3.º do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406), de 14 de Outubro de 1961, é a que segue anexa a este diploma e baixa assinada pelo Ministro das Finanças.
+
+§ único. Em tudo que não seja contrariado pelas condições especiais mencionadas nesta lista, vigoram, quanto ao processo da isenção, as disposições dos artigos 5.º e 6.º do decreto-lei referido no corpo do artigo.
+
+Art. 2.º Independentemente das ressalvas feitas nos artigos 1.º e 2.º do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406), são mantidas as seguintes isenções de direitos de importação:
+
+a) As referidas no [Decreto n.º 30290](https://diariodarepublica.pt/dr/detalhe/decreto/30290-1940-189141), de 13 de Fevereiro de 1940, relativas a materiais para a manufactura dos bordados da Madeira e dos Açores;
+
+b) As referidas no [Decreto-Lei n.º 41004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41004-1957-652964), de 15 de Fevereiro de 1957, relativas a diamantes não lapidados.
+
+Art. 3.º Na pauta dos direitos de importação é introduzida a seguinte nota à subposição 38.11.02:
+
+Os produtos abrangidos nesta subposição ficam sujeitos à taxa na pauta mínima de 15 por cento ad valorem quando a Inspecção-Geral dos Produtos Agrícolas e Industriais, ouvido o parecer do Laboratório de Fitofarmacologia, informar que são indispensáveis à defesa da agricultura e silvicultura nacionais e não são produzidos no país em boas condições de qualidade.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 29 de Maio de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
+
+Lista aprovada pelo artigo 1.º do Decreto-Lei n.º 44373, respeitante às entidades mencionadas no § 4.º do artigo 3.º do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/05/12200/07690770.pdf)
+
+Ministério das Finanças, 29 de Maio de 1962. - O Ministro das Finanças, António Manuel Pinto Barbosa.

@@ -1,0 +1,258 @@
+---
+schema_version: '1.0'
+id: pt:dre:324293:por
+title: Decreto-Lei n.º 131/85
+short_title: null
+summary: Determina que a produção e a comercialização de mel passem a obedecer ao disposto na Norma Portuguesa 1307 «Mel -
+  Definição, classificação e características»
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura
+proposing_entity: null
+official_number: 131/85
+official_date: null
+publication_date: '1985-04-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 98/1985, Série I de 1985-04-29
+  number: '98'
+  series: I
+  supplement: null
+  pages: 1130 - 1132
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/04/09800/11301132.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '324293'
+  dre_path: /dr/detalhe/decreto-lei/131-1985-324293
+  internal: pt:dre:324293:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1985-324293
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1985-324293
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:02:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b50b97a61485c7e706b5d0cfb78ddbf07352715500798537ce6417a6dc33ef6e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:02:59Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Apicultura
+- Comércio
+- Controlo de Qualidade
+- Fiscalização
+- MEL
+- Multa
+- Norma Portuguesa
+- Produto Alimentar
+- Proteção do Consumidor
+- Saúde Pública
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:497270:por
+  label: "Revogado pelo DEC LEI.214/2003.2003.09.18.MADRP DR.IS-A [216], nos termos do seu art. 12.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-2003-497270
+  date: '2003-09-18'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:02:59Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 131/85
+
+de 29 de Abril
+
+1. A obtenção de cada vez mais altos padrões de qualidade e o aumento da produção são duas condições indispensáveis para que se abram aos nossos produtos, designadamente os alimentares, as portas do mercado privilegiado mas altamente competitivo dos países mais desenvolvidos, entre os quais se contam os que integram a CEE.
+
+2. Mas, se aos agentes económicos cabem especiais responsabilidades na adopção das medidas tendentes à penetração nos diversos mercados, compete, todavia, à Administração promover a elaboração e publicação de diplomas que regulem as diferentes actividades, por forma a proporcionar aos mesmos agentes as condições que tornarão possível a implementação de tais medidas e assegurem a qualidade desses produtos.
+
+3. No que se refere à produção de mel, alimento considerado de elevado valor nutritivo e larga divulgação na alimentação comum e até em alimentação especial, por se tratar de um produto natural, isento de quaisquer aditivos, essas medidas foram adoptadas em 1976 através da publicação da Norma Portuguesa 1307, que estabelece as respectivas características e exigências de qualidade.
+
+4. No sentido de se harmonizarem integralmente os critérios aí definidos com os adoptados na legislação comunitária, procedeu-se recentemente à revisão desta norma, que acaba de ser publicada.
+
+5. Neste contexto, para que os mencionados objectivos possam ser atingidos, considera-se indispensável tornar obrigatório o cumprimento da NP-1307.
+
+6. A violação das disposições do presente diploma não é expressamente considerada no articulado, visto que recai na previsão do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro, e legislação complementar, que regula as infracções antieconómicas, quer se trate de crimes, quer de contra-ordenações.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º A produção e a comercialização de mel passam a obedecer ao disposto na NP-1307 «Mel - Definição, classificação e características», publicada em anexo ao presente diploma e que dele faz parte integrante.
+
+Art. 2.º As alterações à NP-1307, publicada em anexo, que resultem da sua posterior actualização poderão ser tornadas obrigatórias mediante portaria do Secretário de Estado do Comércio e Indústria Agrícolas.
+
+Art. 3.º Este diploma entra em vigor no dia 1 de Janeiro de 1986.
+
+Visto e aprovado em Conselho de Ministros de 28 de Março de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Mário Ferreira Bastos Raposo - Álvaro Roque de Pinho Bissaia Barreto - Maria Raquel Lopes de Bethencourt Ferreira - Júlio Miranda Calha.
+
+Promulgado em 10 de Abril de 1985.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 11 de Abril de 1985.
+
+O Primeiro-Ministro, Mário Soares.
+
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/04/09800/11301132.pdf)
+
+1 - Objectivo:
+
+A presente norma destina-se a definir, classificar e fixar as características do mel.
+
+2 - Referências:
+
+NP-1308 - Mel. Determinação do teor de cinza.
+
+NP-1309 - Mel. Determinação da acidez.
+
+3 - Definição:
+
+Para os efeitos da presente norma, entende-se por mel a substância açucarada produzida pelas abelhas melíficas a partir do néctar das flores ou das secreções provenientes de outras partes vivas das plantas, ou que sobre elas se encontrem, e que libam, transformam e combinam com matérias específicas e armazenam nos favos da colmeia.
+
+4 - Descrição:
+
+O mel é constituído, essencialmente, por diversos açúcares, predominando a glucose e a frutose. Contém, ainda, proteínas, aminoácidos, enzimas, ácidos orgânicos, matérias minerais, pólen e outras substâncias, podendo ter, também, sacarose, maltose, melezitose e outros oligossacáridos (incluindo dextrinas) e ainda vestígios de fungos de algas de leveduras e de outras partículas sólidas provenientes da colheita do mel.
+
+5 - Classificação:
+
+5.1 - Quanto à origem, o mel classifica-se em:
+
+5.1.1 - Mel de néctar - mel proveniente, principalmente, dos nectários das flores.
+
+5.1.2 - Mel da melada - mel proveniente, principalmente, das secreções de outras partes vivas de plantas ou que sobre elas se encontrem.
+
+5.2 - Quanto ao modo de obtenção, o mel classifica-se em:
+
+5.2.1 - Mel em favos - mel armazenado pelas abelhas nos alvéolos operculados de favos recentemente construídos e que não contenham criação, vendido em favos inteiros ou em secções de favos.
+
+5.2.2 - Mel com pedaços de favos - mel que contém um ou vários pedaços de mel em favos.
+
+5.2.3 - Mel centrifugado - mel obtido por centrifugação dos favos desoperculados e que não contenham criação.
+
+5.2.4 - Mel escorrido - mel obtido por escorrimento dos favos desoperculados e que não contenham criação.
+
+5.2.5 - Mel espremido - mel obtido por compressão dos favos, que não contenham criação, sem aquecimento ou com aquecimento moderado.
+
+5.3 - Quanto à sua aplicação, o mel classifica-se em:
+
+5.3.1 - Mel para consumo directo ou simplesmente mel - mel destinado ao consumo final, que tem de apresentar todas as características indicadas na presente norma.
+
+5.3.2 - Mel para pastelaria ou mel para indústria - mel destinado à indústria, o qual tem de apresentar as características indicadas para o mel, com excepção das referentes a aroma e sabor (6.1.2), índice diastásico (6.2), hidroximetilfurfural (6.2), fermentação e efervescência (6.2.1) e enzimas (6.2.2),
+
+6 - Características:
+
+6.1 - Características físicas:
+
+6.1.1 - Cor - a cor do mel pode ir desde uma tonalidade quase incolor a castanho-escuro. A coloração do mel de melada (5.1.2) vai do castanho-claro ou esverdeado a uma tonalidade quase negra.
+
+6.1.2 - Aroma e sabor - variáveis, conforme a planta ou plantas donde provêm, não devendo apresentar qualquer cheiro ou sabor anormais, comunicados por substâncias estranhas durante a sua extracção ou armazenamento.
+
+6.1.3 - Consistência - o mel pode apresentar-se fluido, espesso ou cristalizado (em parte ou na totalidade).
+
+6.2 - Características químicas:
+
+O mel deve obedecer às características químicas e limites que constam do quadro seguinte:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/04/09800/11301132.pdf)
+
+6.2.1 - O mel não deve ter começado a fermentar ou a ficar efervescente.
+
+6.2.2 - O mel não deve ser aquecido de maneira que os seus enzimas naturais sejam destruídos ou consideravelmente inactivados.
+
+6.2.3 - A acidez do mel não deve ser alterada de maneira artificial.
+
+6.2.4 - O mel não pode, em caso algum, conter substâncias em quantidade tal que possam representar perigo para a saúde humana.
+
+7 - Higiene:
+
+O mel devera, na medida do possível, apresentar-se isento de matérias orgânicas e inorgânicas estranhas à sua composição, por exemplo bolores, insectos, fragmentos de insectos, criação ou grãos de areia, quando é vendido a retalho ou utilizado em qualquer produto destinado ao consumo humano.
+
+8 - Aditivos:
+
+Não é permitida a adição de qualquer produto ao mel.
+
+9 - Acondicionamento:
+
+O mel só pode ser comercializado acondicionado em embalagens adequadas, limpas, estanques, de um material inócuo, inerte em relação ao conteúdo e impermeável.
+
+10 - Marcação:
+
+10.1 - As indicações a figurar obrigatoriamente na rotulagem do mel destinado ao consumidor final, em caracteres indeléveis, facilmente visíveis e legíveis, são as seguintes:
+
+a) A denominação de venda, constituída pela palavra «mel» isolada ou acompanhada dos elementos de classificação, referidos na secção 4, quanto à origem e ao modo de obtenção, sendo obrigatória a designação completa nos casos do «mel em favos» (5.2.1), do «mel com pedaços de favos» (5.2.2) e do «mel para pastelaria» ou «mel para indústria» (5.3.2);
+
+b) O nome, firma ou denominação social e morada do produtor, importador, embalador ou vendedor;
+
+c) A quantidade líquida, expressa em gramas ou em quilogramas;
+
+d) O país de origem.
+
+10.2 - Na rotulagem do mel poderão ainda constar facultativamente menções respeitantes ao seguinte:
+
+Região de origem, se dela provém inteiramente;
+
+Plantas melíferas predominantes na área do pasto das abelhas que produziram o mel, se este apresentar as características organolépticas, físico-químicas e microscópicas próprias de tal origem.
+
+10.3 - Se o mel não se destinar ao consumidor final e for acondicionado em recipientes cuja quantidade líquida seja igual ou superior a 10 kg, é somente obrigatória no rótulo a indicação da denominação de venda, podendo as menções referidas nas alíneas b), c) e d) do n.º 10.1 figurar apenas nos documentos que acompanham o produto.
+
+11 - Bibliografia:
+
+Directive (74/409/CEE) du Conseil, du 22 juillet 1974, relative à l'harmonisation des législations des États membres concernant le miel. J. O. n.º L 291 du 19 novembre 1969.
+
+Commission du Codex Alimentarius - CAC/vol. II - Ed. 1, Codex Stan. 12 - 1981:
+
+Norme Codex pour le miel (Norme régionale européenne).

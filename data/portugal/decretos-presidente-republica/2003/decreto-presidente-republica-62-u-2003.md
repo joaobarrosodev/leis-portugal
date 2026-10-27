@@ -1,0 +1,106 @@
+---
+schema_version: '1.0'
+id: pt:dre:638352:por
+title: Decreto do Presidente da República n.º 62-U/2003
+short_title: null
+summary: Reduz, por indulto, a pena residual de prisão aplicada a Rosemari de Brito Barbosa
+jurisdiction: portugal
+territory: null
+document_type: decreto-presidente-republica
+document_type_label: Decreto do Presidente da República
+issuing_authority:
+- Presidência da República
+proposing_entity: null
+official_number: 62-U/2003
+official_date: null
+publication_date: '2003-12-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 295/2003, 1º Suplemento, Série I-A de 2003-12-23
+  number: '295'
+  series: I
+  supplement: null
+  pages: 8670-(7) a 8670-(7)
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/12/295a01/00070007.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decpresrep/62-u/2003/12/23/p/dre/pt/html
+  oj: null
+  dre: '638352'
+  dre_path: /dr/detalhe/decreto-presidente-republica/62-u-2003-638352
+  internal: pt:dre:638352:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/62-u-2003-638352
+  metadata_url: https://data.dre.pt/eli/decpresrep/62-u/2003/12/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/62-u-2003-638352
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:46:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 18d04528f82ffbbd17a00fe4f92e7c267cc0234b2e5cbc682a3118af81f9c1ce
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:46:02Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Perdão da Pena
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:46:02Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto do Presidente da República n.º 62-U/2003
+
+de 23 de Dezembro
+
+O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:
+
+A pena residual de prisão aplicada a Rosemari de Brito Barbosa, de 35 anos de idade, no processo n.º 36/02.7ADLSB, da 2.ª Secção da 6.ª Vara Criminal de Lisboa, é reduzida, por indulto, em 6 meses de prisão, por razões humanitárias.
+
+O presente indulto é concedido sob as seguintes condições resolutivas:
+
+a) Não se ter a indultada constituído em ausência ilegítima do estabelecimento prisional à data da concessão do indulto;
+
+b) Não se constituir a indultada em ausência ilegítima do estabelecimento prisional relativamente a medida de flexibilização da pena que esteja a gozar à data da publicação do indulto.
+
+Assinado em 22 de Dezembro de 2003.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 23 de Dezembro de 2003.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.

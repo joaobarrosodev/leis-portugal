@@ -1,0 +1,849 @@
+---
+schema_version: '1.0'
+id: pt:dre:854635717:por
+title: Portaria n.º 87/2024/1
+short_title: null
+summary: Estabelece os requisitos mínimos relativos ao licenciamento, instalação, organização e funcionamento, recursos humanos
+  e instalações técnicas dos laboratórios de anatomia patológica detidos por pessoas coletivas públicas, instituições militares,
+  instituições particulares de solidariedade social e entidades privadas.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Defesa Nacional, Trabalho, Solidariedade e Segurança Social e Saúde
+proposing_entity: null
+official_number: 87/2024/1
+official_date: null
+publication_date: '2024-03-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 50/2024, Série I de 2024-03-11
+  number: '50'
+  series: I
+  supplement: null
+  pages: 15 - 32
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/03/05000/0001500032.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-10-07'
+version_history:
+  file: portaria-87-2024-1.versoes.json
+  count: 3
+  source_lastmod: '2025-04-14'
+  versions:
+  - date: '2024-03-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-04-12'
+    amending: pt:dre:914713269:por
+    amending_title: Portaria n.º 175/2025/1
+    changes:
+    - Altera Artigo 11.º
+    - Altera Artigo 17.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Altera Anexo IV
+    - Altera Anexo VI
+  - date: '2025-10-07'
+    amending: pt:dre:938108820:por
+    amending_title: Portaria n.º 325/2025/1
+    changes:
+    - Altera Artigo 13.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Altera Anexo V
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/87/2024/p/cons/20251006/pt/html
+  oj: null
+  dre: '854635717'
+  dre_path: /dr/detalhe/portaria/87-2024-854635717
+  internal: pt:dre:854635717:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/87-2024-854635717
+  metadata_url: https://data.dre.pt/eli/port/87/2024/p/cons/20251006/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-914891275
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-914891275
+  retrieved_at: '2026-10-22T13:25:11Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-04-14T00:00:00Z'
+integrity:
+  source_sha256: a0fe05024473d9b7ec276da5b1d582c9cd26697f910785416972149e1d9de108
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:25:11Z'
+  notes: 3 versão(ões); histórico completo em portaria-87-2024-1.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Análise Laboratorial
+- Livro de Reclamações
+- Controlo de Qualidade
+- Saúde
+- Regulamentação de Atos Legislativos
+- Entidade Reguladora da Saúde
+- Especificação Técnica
+- Licenciamento
+- Manual de Boas Práticas
+- Recursos Humanos
+- Segurança das Instalações
+- Seguro Obrigatório de Responsabilidade Civil
+relationships:
+- type: amended_by
+  target: pt:dre:914713269:por
+  label: Altera Artigo 11.º; Altera Artigo 17.º; Altera Anexo I; Altera Anexo II; Altera Anexo IV; Altera Anexo VI
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/175-2025-914713269
+  date: '2025-04-11'
+- type: amended_by
+  target: pt:dre:938108820:por
+  label: Altera Artigo 13.º; Altera Anexo I; Altera Anexo II; Altera Anexo V
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/325-2025-938108820
+  date: '2025-10-06'
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/32/2022/05/09/p/dre
+- type: cites
+  target: pt:dre:500051:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/138/2013/10/09/p/dre
+- type: cites
+  target: pt:dre:56304801:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/127/2014/08/22/p/dre
+article_structure:
+  article_count: 23
+  section_count: 13
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:25:11Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 87/2024/1
+
+Portaria n.º 87/2024/1
+
+de 11 de março
+
+O Decreto-Lei n.º 127/2014, de 22 de agosto, na sua redação atual, estabeleceu o regime jurídico a que ficam sujeitos a abertura, a modificação e o funcionamento dos estabelecimentos prestadores de cuidados de saúde, qualquer que seja a sua denominação, natureza jurídica ou entidade titular da exploração.
+
+O n.º 1 do artigo 2.º do referido diploma legal estabelece que a abertura e o funcionamento de um estabelecimento prestador de cuidados de saúde dependem da verificação dos requisitos técnicos de funcionamento aplicáveis a cada uma das tipologias, definidos por portaria do membro do Governo responsável pela área da saúde, sendo a mesma titulada por licença, no caso dos estabelecimentos prestadores de cuidados de saúde detidos por entidades privadas e por declaração de conformidade, no caso de estabelecimentos detidos por pessoa coletiva pública ou que seja abrangida pelo artigo 13.º do Decreto-Lei n.º 138/2013, de 9 de outubro.
+
+No que respeita às unidades de saúde cuja titularidade seja de instituições particulares de solidariedade social (IPSS) ou de instituições militares, o n.º 5 do artigo 2.º do referido decreto-lei determina que as condições de abertura e funcionamento bem como os termos da declaração de conformidade são definidos por portaria dos membros do Governo responsáveis pelas áreas da defesa nacional, segurança social e saúde.
+
+Considerando que está em causa a fixação de requisitos técnicos que se prendem, no essencial, com a melhoria da qualidade assistencial e a garantia da segurança do utente, decorrentes de determinações legais do ordenamento jurídico nacional ou de regras da União Europeia, é fundamental a uniformização de critérios, independentemente da titularidade do estabelecimento de saúde em causa.
+
+Face ao exposto, a presente portaria promove a regulamentação do processo de abertura e funcionamento dos estabelecimentos prestadores de cuidados de saúde detidos por pessoas coletivas públicas, instituições militares, IPSS ou entidades privadas, salvaguardando-se as especificidades próprias das unidades de saúde militar, nomeadamente as que são utilizadas em contexto operacional.
+
+Registe-se que o já mencionado Decreto-Lei n.º 127/2014, de 22 de agosto, na redação em vigor, previa um prazo de 120 dias, após a sua entrada em vigor, para a regulamentação, por portaria, das condições de licenciamento das diferentes tipologias de unidades de prestação de cuidados de saúde. Encontrando-se já largamente ultrapassado esse prazo, através do Despacho n.º 14603/2022, de 21 de dezembro, do Ministro da Saúde, foi criado um grupo de trabalho agregando as instituições públicas com intervenção no processo, designadamente a Direção Executiva do Serviço Nacional de Saúde, I. P., a Entidade Reguladora da Saúde e a Administração Central do Sistema de Saúde, I. P., bem como os prestadores mais relevantes dos setores social e privado. A presente portaria reflete o consenso que foi possível alcançar, com trabalho técnico exaustivo e exigente.
+
+Foram também ouvidos a Ordem dos Médicos, a Ordem dos Enfermeiros, a Ordem dos Engenheiros, a Ordem dos Arquitetos, a Ordem dos Médicos Dentistas, a Ordem dos Biólogos, a Ordem dos Farmacêuticos, a Ordem dos Fisioterapeutas, a Associação Nacional de Centros de Diálise, a Associação Portuguesa de Medicina Física de Reabilitação, a Associação Portuguesa dos Técnicos de Radiologia, Radioterapia e Medicina Nuclear, a Associação Nacional dos Laboratórios Clínicos, a Sociedade Portuguesa de Medicina Nuclear, o Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P., a Sociedade Portuguesa de Genética Humana, a Sociedade Portuguesa de Radioterapia-Oncologia, a Associação Portuguesa de Radioterapeutas, a Sociedade Portuguesa de Anatomia Patológica e a Associação Portuguesa de Técnicos de Anatomia Patológica.
+
+O protelamento da publicação das portarias que regulamentam o Decreto-Lei n.º 127/2014, de 22 de agosto, na sua redação atual, representará a manutenção da insegurança jurídica que condiciona a intervenção dos diferentes agentes do setor da saúde e conduzirá a um ainda maior adiamento da generalização da implementação das normas de qualidade e segurança de que devem beneficiar todos os destinatários dos cuidados prestados, pelo que se entende que, após o moroso e consensual trabalho realizado, este procedimento tem caráter urgente.
+
+Assim:
+
+Manda o Governo, pela Ministra da Defesa Nacional, pela Ministra do Trabalho, Solidariedade e Segurança Social e pelo Ministro da Saúde, ao abrigo do disposto nos n.<sup>os </sup>1 e 5 do artigo 2.º do Decreto-Lei n.º 127/2014, de 22 de agosto, na sua redação atual, e dos artigos 15.º, 24.º e 25.º, todos do Decreto-Lei n.º 32/2022, de 9 de maio, na sua redação atual, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+A presente portaria estabelece os requisitos mínimos relativos ao licenciamento, instalação, organização e funcionamento, recursos humanos e instalações técnicas dos laboratórios de anatomia patológica detidos por pessoas coletivas públicas, instituições militares, instituições particulares de solidariedade social (IPSS) e entidades privadas, salvaguardando-se as especificidades próprias das unidades de saúde militares, designadamente as que são utilizadas em contexto operacional.
+
+###### Artigo 2.º — Definições
+
+Para efeitos da presente portaria, consideram-se "laboratórios de anatomia patológica" as unidades onde se realize a análise macroscópica, microscópica e molecular de órgãos, tecidos e células, tendo como objetivo o diagnóstico de lesões, com implicações no diagnóstico, no tratamento e no prognóstico das doenças, bem como na sua prevenção.
+
+### Capítulo II — Organização e funcionamento
+
+###### Artigo 3.º — Qualidade e segurança
+
+As normas de qualidade e segurança devem ser cumpridas em todas as situações previstas na presente portaria, de acordo com as regras, os códigos científicos e técnicos internacionalmente reconhecidos nas áreas abrangidas, competindo à Direção-Geral da Saúde (DGS), ouvidas as respetivas Ordens e Associações Profissionais, públicas ou privadas, propor ao membro do Governo responsável pela área da saúde a sua adoção, assegurando-se a devida publicidade.
+
+###### Artigo 4.º — Manual de Boas Práticas
+
+1 - Para efeito da promoção e garantia de qualidade dos laboratórios de anatomia patológica, devem ser considerados os requisitos e exigências constantes do Manual de Boas Práticas Laboratoriais de Anatomia Patológica do Ministério da Saúde.
+
+2 - O Manual de Boas Práticas referido no número anterior é aprovado por despacho do membro do Governo responsável pela área da saúde.
+
+###### Artigo 5.º — Resultados dos exames
+
+Os resultados dos exames efetuados por cada laboratório devem constar de relatório validado pelo diretor técnico ou por profissional detentor das habilitações académicas e profissionais estabelecidas no n.º 1 do artigo 14.º da presente portaria, no qual o diretor clínico/serviço delegue funções, nos termos do regulamento interno.
+
+###### Artigo 6.º — Informação aos utentes
+
+1 - Nos laboratórios de anatomia patológica devem ser colocados, em local bem visível do público, a certidão de registo do estabelecimento na Entidade Reguladora da Saúde (ERS), a licença de funcionamento ou a declaração de conformidade, o horário de funcionamento, o nome do diretor clínico e, quando a unidade esteja integrada num estabelecimento com várias tipologias e ou serviços, do diretor de serviço, a referência à existência de regulamento interno, os procedimentos a adotar em situações de emergência e os direitos e deveres dos utentes, devendo ainda estar disponível para consulta a tabela de preços.
+
+2 - Deve ainda ser afixada, em local bem visível, ou disponibilizada para consulta no local, informação relativa aos acordos e convenções para a prestação de cuidados de saúde aplicáveis à unidade em causa, bem com os respetivos âmbitos.
+
+###### Artigo 7.º — Seguro de responsabilidade civil
+
+1 - Os laboratórios de anatomia patológica devem contratar e manter em vigor um seguro de responsabilidade civil que cubra os riscos inerentes à sua atividade.
+
+2 - Os laboratórios de anatomia patológica devem assegurar que os profissionais que nelas exercem a sua atividade estão abrangidos por seguro de responsabilidade civil válido.
+
+###### Artigo 8.º — Regulamento interno
+
+1 - Os laboratórios de anatomia patológica devem dispor de um regulamento interno, do qual deve constar, pelo menos, o seguinte:
+
+a) Identificação do diretor clínico/serviço e do seu substituto, ou critério de substituição, na ausência de indicação expressa, bem como dos restantes profissionais de saúde e colaboradores;
+
+b) Estrutura organizacional;
+
+c) Deveres gerais dos profissionais;
+
+d) Categorias e graduações profissionais, funções e competências de cada grupo profissional;
+
+e) Normas de funcionamento;
+
+f) Procedimento de emergência médica.
+
+2 - O regulamento interno deve ainda prever a existência, no próprio documento ou em documento acessório, de:
+
+a) Lista e plano anual de manutenção preventiva das instalações e equipamentos e de calibração de equipamento médico ou aferição por tipologia de equipamento;
+
+b) Plano anual de formação e avaliação dos colaboradores;
+
+c) Manual de procedimentos operativos;
+
+d) Plano periódico de participação em programas de avaliação externa da qualidade;
+
+e) Procedimentos de controlo da qualidade;
+
+f) Plano anual de auditorias internas e externas;
+
+g) Procedimentos de colheita, receção e aceitação de amostras;
+
+h) Laboratórios com os quais tem colaboração;
+
+i) Condições de transporte, acondicionamento e armazenamento de amostras;
+
+j) Condições de higiene e segurança do ambiente, incluindo a recolha, armazenamento e transporte de resíduos sólidos e líquidos, em conformidade com as disposições legais aplicáveis.
+
+###### Artigo 9.º — Registo, conservação e arquivo
+
+1 - Os laboratórios de anatomia patológica devem possuir e manter, em arquivo físico ou digital, durante o prazo legalmente estabelecido, os seguintes documentos/amostras:
+
+a) Prescrição médica;
+
+b) Cópias dos relatórios dos exames de anatomia patológica realizados;
+
+c) Lâminas de histologia e de citologia;
+
+d) Blocos de parafina.
+
+2 - Os laboratórios de anatomia patológica devem conservar, durante um mínimo de cinco anos, salvo se prazo mais longo resultar da lei, os seguintes documentos:
+
+a) Documentos previstos no Manual de Boas Práticas Laboratoriais de Anatomia Patológica;
+
+b) Dados referentes ao controlo da qualidade, incluindo os resultados dos programas de avaliação externa de qualidade, cartas controlo e registos de cartas controlo ambiental;
+
+c) Resultados dos programas de garantia da qualidade e segurança dos equipamentos médicos, designadamente:
+
+i) Fichas de equipamento e respetivas declarações de conformidade;
+
+ii) Mapas de manutenções preventivas e de calibrações;
+
+iii) Folhas de obra das ações corretivas aos equipamentos;
+
+iv) Lista de equipamentos de proteção radiológica, bem como evidências de controlos da qualidade periódicos;
+
+v) Ficha de segurança;
+
+d) Contratos ou extratos de contratos celebrados com terceiros relativos às atividades identificadas no artigo 16.º do presente diploma;
+
+e) Protocolos técnicos, de formação e outras normas técnicas destinadas à atividade profissional;
+
+f) Regulamento interno;
+
+g) Resultados das vistorias realizadas pelas entidades competentes;
+
+h) Acordos relativos à aquisição de reagentes e equipamentos;
+
+i) Acordos de colaboração com outros laboratórios e demonstração do seu sistema de qualidade;
+
+j) Manual ou Procedimentos de Higiene e Segurança;
+
+k) Procedimentos de colheitas, receção e aceitação de amostras;
+
+l) Cópia dos relatórios das auditorias à qualidade do ar interior, de acordo a legislação em vigor.
+
+3 - Adicionalmente, se aplicável, os laboratórios de anatomia patológica devem dispor ainda, em arquivo físico ou digital, da seguinte documentação:
+
+a) Certificado de exploração ou declaração de inspeção inicial das instalações elétricas, consoante o tipo (A, B ou C);
+
+b) Cópia do termo de responsabilidade pela exploração das instalações elétricas, ou da declaração de inspeção periódica, consoante o tipo (A, B ou C) e a potência aparente da instalação;
+
+c) Certificação dos equipamentos elevadores;
+
+d) Cópia ou extrato do contrato de manutenção dos equipamentos elevadores;
+
+e) Certificado de inspeção das instalações de gás;
+
+f) Cópia ou extrato do contrato com entidade licenciada para a gestão de resíduos e de material radioativo;
+
+g) Resultados das análises efetuadas no âmbito do controlo sanitário da água;
+
+h) Cópia do certificado dos dispositivos médicos, incluindo sistema de distribuição de gases medicinais, em conformidade com o previsto na legislação em vigor;
+
+i) Cópia da declaração de validação de funcionamento de recipientes sob pressão simples e/ou o certificado de aprovação de funcionamento de equipamentos sob pressão;
+
+j) Cópia do relatório de ensaios do sistema de climatização, demonstrativo do cumprimento dos requisitos exigidos na presente portaria e na legislação em vigor, assinado por um técnico habilitado;
+
+k) Cópia dos relatórios de inspeção a sistemas técnicos, no âmbito da legislação, em vigor na área da eficiência energética;
+
+l) Cópia do certificado energético, em conformidade com a legislação em vigor;
+
+m) Cópia do relatório de ensaios que comprovem o funcionamento dos equipamentos geradores de ruído, como por exemplo sistemas de vácuo e/ou produção de ar comprimido, em conformidade com o Regulamento Geral do Ruído em vigor;
+
+n) Plano de prevenção e controlo ou programa de manutenção e limpeza, bem como toda a documentação associada no âmbito da legislação em vigor, no sentido de prevenir o risco de proliferação e disseminação da bactéria Legionella.
+
+###### Artigo 10.º — Valências
+
+1 - Os laboratórios de anatomia patológica podem ser autorizados a desenvolver, isolada ou conjuntamente, as seguintes valências previstas na nomenclatura do Manual de Boas Práticas Laboratoriais de Anatomia Patológica do Ministério da Saúde:
+
+a) Histopatologia de biopsias, peças cirúrgicas e exames intraoperatórios;
+
+b) Citologia esfoliativa e aspirativa;
+
+c) Autópsia clínica;
+
+d) Autópsia fetoplacentar e patologia do desenvolvimento;
+
+e) Técnicas complementares de estudo e de diagnóstico morfológico: imunocitoquímica, biologia molecular, microscopia eletrónica ou outras associadas à morfologia e biopatologia celular;
+
+f) Telepatologia e digitalização de lâminas.
+
+2 - Quando não haja lugar ao desempenho de quatro das valências de a) a e) do n.º 1, o laboratório identifica-se pela valência ou valências que prossegue.
+
+3 - Não é autorizado o desenvolvimento das valências referidas no n.º 1 do presente artigo fora das instalações licenciadas.
+
+### Capítulo III — Instrução do pedido e condições de funcionamento
+
+###### Artigo 11.º — Instrução do pedido
+
+1 - Os pedidos de licenciamento ou de emissão da declaração de conformidade dos laboratórios de anatomia patológica, para além dos elementos instrutórios constantes do n.º 3 do artigo 5.º do Decreto-Lei n.º 127/2014, de 22 de agosto, devem ser instruídos com os seguintes documentos:
+
+a) No caso das unidades privadas, certidão atualizada do registo comercial, ou código de acesso à certidão permanente de pessoa coletiva, ou, no caso de pessoa singular, cópia do cartão do cidadão;
+
+b) No caso das IPSS, declaração de inscrição como IPSS, emitida pela segurança social;
+
+c) Relação nominal do pessoal que integra a unidade ou, conforme aplicável, declaração de compromisso de entrega da relação nominal do pessoal, respetivo mapa com a distribuição pelos diferentes grupos profissionais e cópias das respetivas cédulas ou carteiras profissionais, no prazo máximo de 60 dias a contar da data da licença de funcionamento;
+
+d) Memória descritiva e justificativa e telas finais dos projetos de arquitetura, instalações e equipamentos elétricos, instalações e equipamentos mecânicos, instalações e equipamentos de águas e esgotos e instalação da rede de gases medicinais;
+
+e) Parecer favorável das medidas de autoproteção, ou comprovativo deste pedido, emitido pela Autoridade Nacional de Emergência e Proteção Civil (ANEPC);
+
+f) Relatório da última inspeção regular dentro do prazo legal ou documento comprovativo do pedido, seguindo os critérios estabelecidos no Regime Jurídico de Segurança contra Incêndios em Edifícios;
+
+g) (Revogada.)
+
+h) Autorização de utilização para comércio ou serviços ou outra finalidade mais específica, emitida pela câmara municipal competente ou documento(s) equivalente(s), nos termos da legislação em vigor.
+
+2 - O laboratório que pretenda praticar nas instalações licenciadas outras valências, para além das constantes na licença de funcionamento, deve apresentar requerimento de averbamento por via eletrónica, à entidade competente para o licenciamento, acompanhado dos seguintes elementos:
+
+a) Identificação do laboratório;
+
+b) Tipo de valência cujo licenciamento pretende obter;
+
+c) Indicação da qualificação do pessoal que irá trabalhar em cada valência;
+
+d) Indicação do equipamento a instalar, caso aplicável;
+
+e) Projeto atualizado de arquitetura e das especialidades das instalações em que irá funcionar.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 175/2025/1 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/175-2025-914713269), em vigor a partir de 2025-04-12
+
+###### Artigo 12.º — Condições de funcionamento
+
+1 - São condições de atribuição de licença de funcionamento ou de declaração de conformidade:
+
+a) A idoneidade do requerente, a qual, no caso de se tratar de pessoa coletiva, deve ser preenchida pelos administradores, ou diretores/gerentes que detenham a direção efetiva do laboratório;
+
+b) A idoneidade profissional dos elementos da direção clínica e direção técnica ou de serviço, se aplicável, bem como do demais pessoal clínico e técnico;
+
+c) O cumprimento dos requisitos que permitam a garantia da qualidade técnica dos cuidados e tratamentos a prestar, bem como garantir que os equipamentos de que ficarão dotados se encontram em perfeito estado de funcionamento.
+
+2 - Para efeitos do disposto na alínea a) do número anterior, é considerado idóneo o requerente em relação ao qual não se verifique qualquer dos seguintes impedimentos:
+
+a) Proibição legal do exercício do comércio;
+
+b) Condenação, com trânsito em julgado, qualquer que tenha sido a natureza do crime, nos casos em que tenha sido decretada a interdição do exercício de profissão;
+
+c) Inibição do exercício da atividade profissional, pela respetiva Ordem ou Associação Profissional, durante o período determinado.
+
+3 - Para efeitos do disposto na alínea b) do n.º 1, são considerados profissionais idóneos aqueles em relação aos quais não se verifique nenhum dos seguintes impedimentos:
+
+a) Condenação, com trânsito em julgado, qualquer que tenha sido a natureza do crime, nos casos em que tenha sido decretada a interdição do exercício de profissão;
+
+b) Inibição do exercício da atividade profissional, pela respetiva Ordem ou Associação Profissional, durante o período determinado.
+
+4 - O disposto nos n.<sup>os </sup>2 e 3 deixa de produzir efeitos após reabilitação ou pelo decurso do prazo de interdição fixado pela decisão condenatória.
+
+### Capítulo IV — Recursos humanos
+
+###### Artigo 13.º — Direção clínica
+
+1 - Os laboratórios de anatomia patológica são tecnicamente dirigidos por um diretor clínico, médico com especialidade de anatomia patológica.
+
+2 - Sempre que a unidade se encontre integrada num estabelecimento de saúde onde sejam desenvolvidas outras tipologias de atividade o estabelecimento é dirigido por um diretor clínico, sendo a responsabilidade técnica do laboratório de anatomia patológica assumida por um diretor de serviço, médico da respetiva especialidade.
+
+3 - [Revogado.]
+
+4 - A atividade dos laboratórios de anatomia patológica implica a presença física do diretor clínico ou, no caso previsto no número anterior, do diretor de serviço por forma a garantir a supervisão da atividade realizada, devendo ser substituído, nos seus impedimentos e ausências, por um profissional qualificado com formação equivalente.
+
+5 - Para efeitos do disposto no número anterior, entende-se por "impedimentos" quaisquer circunstâncias anormais e imprevisíveis que impeçam a efetiva disponibilidade do diretor clínico/diretor de serviço.
+
+6 - Em caso de impedimento ou cessação permanente de funções do diretor clínico ou, no caso previsto no n.º 3, do diretor de serviço, deve ser promovida a sua substituição no prazo máximo de 30 dias, com comunicação da substituição à entidade competente.
+
+7 - É da responsabilidade do diretor clínico/serviço:
+
+a) Designar, de entre os profissionais com qualificação equivalente à sua, o seu substituto durante as suas ausências ou impedimentos, em respeito pelas regras constantes do regulamento interno;
+
+b) Zelar pela qualidade dos cuidados clínicos prestados, tendo em particular atenção os programas de garantia da qualidade, incluindo o controlo de infeção;
+
+c) Garantir a formação contínua do pessoal técnico da unidade;
+
+d) Supervisionar o cumprimento das normas estabelecidas;
+
+e) Aprovar os protocolos e velar pelo seu cumprimento;
+
+f) Colaborar na definição das normas referentes à proteção da saúde e à segurança do pessoal, bem como respeitar as especificações referentes à proteção do ambiente e da saúde pública e zelar pelo seu cumprimento;
+
+g) Garantir a idoneidade e a qualificação técnica dos profissionais adequadas para o desempenho da atividade;
+
+h) Aprovar o procedimento de emergência médica e assegurar a sua divulgação.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 325/2025/1 - Diário da República n.º 192/2025, Série I de 2025-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/325-2025-938108820), em vigor a partir de 2025-10-07
+
+###### Artigo 14.º — Pessoal
+
+1 - Os laboratórios de anatomia patológica devem dispor de todos os recursos humanos necessários ao desempenho das funções para que estão legalmente habilitados por licenciamento ou declaração de conformidade.
+
+2 - Os laboratórios de anatomia patológica devem definir e assegurar, no funcionamento dos serviços, a disponibilidade permanente, presencial ou remota, de pessoal qualificado, sob a responsabilidade do diretor clínico/diretor de serviço.
+
+3 - Sempre que solicitado pelas entidades competentes, os laboratórios de anatomia patológica devem facultar a relação atualizada do seu pessoal, incluindo as respetivas categorias profissionais, habilitações e descrição de funções.
+
+###### Artigo 15.º — Recurso a serviços contratados
+
+Os laboratórios de anatomia patológica podem recorrer a serviços de terceiros, nomeadamente no âmbito do tratamento de roupa, de gases medicinais e produtos esterilizados e, ainda, a gestão dos resíduos, quando as entidades prestadoras de tais serviços se encontrem, nos termos da legislação em vigor, licenciadas, certificadas ou acreditadas para o efeito.
+
+###### Artigo 16.º — Colaboração com outros laboratórios
+
+1 - Os laboratórios de anatomia patológica podem estabelecer acordos de colaboração entre si ou com laboratórios de anatomia patológica licenciados de outro Estado-Membro da União Europeia habilitados a exercer a atividade, nos termos das regras aplicáveis no mesmo e que disponham de um sistema da qualidade que assegure um nível de qualidade, no mínimo, equivalente ao seu, os quais devem ser transmitidos à entidade competente para o licenciamento.
+
+2 - Os laboratórios de anatomia patológica podem, ainda, estabelecer acordos com laboratórios de anatomia patológica fora da União Europeia, desde que os mesmos disponham de um sistema da qualidade que assegure um nível de qualidade, no mínimo, equivalente ao seu, os quais devem ser apresentados à entidade competente para aprovação, que se considera tacitamente concedida se não ocorrer pronúncia em contrário, no prazo de 10 dias úteis, contados da data da comunicação.
+
+3 - Salvo nos casos permitidos pelo Manual de Boas Práticas Laboratoriais de Anatomia Patológica, os laboratórios de anatomia patológica licenciados ao abrigo deste diploma não podem ser utilizados como postos de colheita de outros laboratórios.
+
+### Capítulo V — Requisitos técnicos
+
+###### Artigo 17.º — Normas genéricas de localização, construção, segurança e privacidade
+
+1 - Os laboratórios de anatomia patológica devem situar-se em locais de fácil acessibilidade e que disponham de infraestruturas viárias, de abastecimento de água, de saneamento, de energia elétrica e de telecomunicações.
+
+2 - Os laboratórios de anatomia patológica devem, preferencialmente, estar instalados em edifícios destinados a esse fim.
+
+3 - Excecionalmente, se a natureza das demais atividades exercidas nos edifícios não o desaconselhar, pode ser admitida a instalação de laboratórios de anatomia patológica em parte de edifício, desde que haja independência operacional das instalações técnicas especiais, ainda que localizadas em zonas comuns e se observem as disposições técnicas expressas na presente portaria.
+
+4 - A construção deve contemplar a existência de um percurso acessível até aos espaços fundamentais de funcionamento da unidade, nos termos do regime jurídico das acessibilidades em vigor.
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - A sinalética deve ser concebida de forma a ser compreendida pelos utentes, obedecendo aos requisitos de legibilidade definidos no regime jurídico das acessibilidades em vigor.
+
+8 - Os acabamentos utilizados nos laboratórios de anatomia patológica devem permitir a manutenção de um grau de higienização compatível com a atividade desenvolvida nos locais a que se destinam.
+
+9 - Todos os compartimentos que disponham de lavatório com torneira de comando não manual, devem ser munidos de dispensador de sabão líquido, porta-toalhetes e recipientes de resíduos de abertura não manual, sendo que a parede junto dos lavatórios deve ser revestida de material impermeável e de fácil higienização. Os compartimentos onde haja prestação de cuidados de saúde devem prever a existência de dispensadores de SABA (solução antisséptica de base alcoólica).
+
+10 - Os laboratórios de anatomia patológica devem garantir a localização de instalações técnicas, de armazenagem de fluidos inflamáveis ou perigosos e de gases medicinais, caso existam, nas condições de segurança legalmente exigidas.
+
+11 - Sempre que o laboratório exercer a sua atividade em valências com exigências específicas da qualidade da água, deve proceder à avaliação da qualidade da mesma, de acordo com a legislação em vigor, seja por aquisição de água tratada ou dispondo de sistemas de tratamento próprios, adequados e em condições de permanente e correta utilização, que assegurem as características físicas, químicas e microbiológicas apropriadas às utilizações previstas.
+
+12 - As circulações horizontais, os compartimentos de armazenamento, sujos e despejos e material de limpeza deverão ter como pé-direito útil mínimo 2,40 m, entendendo-se como tal a altura livre do pavimento ao teto ou teto falso, devendo nas demais áreas ser cumprido o pé-direito útil mínimo previsto na legislação em vigor.
+
+13 - Os laboratórios onde se manuseiem produtos tóxicos, irritantes ou corrosivos devem possuir meios de atuação rápida de lavagem na área clínica/técnica, designadamente duche de emergência e lava-olhos, em local próximo da zona de trabalho, nos termos das normas legais aplicáveis.
+
+14 - Os laboratórios de anatomia patológica devem garantir as condições que permitam o respeito pela privacidade e dignidade dos utentes.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 175/2025/1 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/175-2025-914713269), em vigor a partir de 2025-04-12
+
+###### Artigo 18.º — Especificações técnicas
+
+Os laboratórios de anatomia patológica devem observar as especificações técnicas relativas aos compartimentos e aos requisitos mínimos de instalações, equipamentos técnicos e médicos constantes dos anexos i a vii da presente portaria, da qual fazem parte integrante.
+
+### Capítulo VI — Disposições finais e transitórias
+
+###### Artigo 19.º — Prazo de adaptação
+
+1 - As unidades licenciadas dispõem do prazo de cinco anos, a contar da entrada em vigor da presente portaria, para adaptação aos requisitos técnicos de funcionamento aqui previstos, devendo, no mesmo prazo e sem prejuízo do disposto no artigo 12.º do Decreto-Lei n.º 127/2014, de 22 de agosto, requerer, através do Portal de Licenciamento da ERS, a licença de funcionamento que ateste a conformidade com a regulamentação vigente.
+
+2 - Tratando-se de unidades que disponham de licença de funcionamento emitida pela ERS ao abrigo do Decreto-Lei n.º 127/2014, de 22 de agosto, e da regulamentação prevista no n.º 2 do artigo 25.º do mesmo diploma e cuja obtenção deva seguir o procedimento ordinário, no prazo definido no número anterior, deverão solicitar, através do Portal de Licenciamento, a emissão de nova licença com dispensa de vistoria prévia, através de requerimento fundamentado que ateste o cumprimento dos novos requisitos técnicos de funcionamento aqui previstos.
+
+3 - As IPSS, as instituições militares e as pessoas coletivas públicas em funcionamento dispõem do prazo de cinco anos, a contar da entrada em vigor da presente portaria, para adaptação aos requisitos técnicos de funcionamento aqui previstos.
+
+4 - Os titulares de processos de licenciamento em curso, à data de entrada em vigor da presente portaria, podem optar pela adequação aos novos requisitos técnicos de funcionamento aqui previstos, mediante requerimento dirigido à ERS.
+
+5 - Nas situações referidas no número anterior, a ERS dará continuidade à tramitação dos processos, aproveitando os atos já praticados e decidindo sobre o pedido de emissão da licença de funcionamento, à luz dos requisitos técnicos definidos na presente portaria.
+
+###### Artigo 20.º — Outros serviços de saúde
+
+Quando no mesmo estabelecimento coexistam várias tipologias de atividade, devem ser cumpridas as exigências e requisitos constantes dos respetivos diplomas.
+
+###### Artigo 21.º — Livro de reclamações
+
+Os laboratórios de anatomia patológica estão sujeitos à obrigatoriedade de existência e disponibilização de livro de reclamações, nos termos da legislação em vigor.
+
+###### Artigo 22.º — Norma revogatória
+
+É revogada a Portaria n.º 165/2014, de 21 de agosto.
+
+###### Artigo 23.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Em 1 de março de 2024.
+
+A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho. - O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro.
+
+## Anexo I — Laboratórios de anatomia patológica
+
+(a que se refere o artigo 18.º)
+
+Compartimentos a considerar:
+
+| Designação | Função do compartimento | Área útil mínima (m2) | Largura mínima (m) | NSB(*) | Observações |
+| --- | --- | --- | --- | --- | --- |
+| Área de acolhimento (**) |  |  |  |  |  |
+| Receção de amostras/secretaria | Receção de amostras, com secretaria e zona de arquivo | - | - | - | Obrigatoriedade de análises à qualidade do ar anualmente (vapores de formol).Obrigatoriedade de um módulo de anatomia patológica/sistema de informação laboratorial. |
+| Zona de espera d) | Para utentes e acompanhantes:Para adultosPara crianças (se houver pediatria)Para utentes em cama ou maca | - | - | - | Junto à receção/secretaria, se tiver atendimento ao público. |
+| Instalação sanitária de público adaptada a pessoas com mobilidade condicionada d) | - | - | - | - | Exigível se tiver atendimento ao público. |
+| Sala de colheitas d) | Para colheitas | 4 | - | - | Mínimo um posto.Cada posto adicional com área de 3 m2.Possibilidade de organização em «boxes».Se laboratório realizar colheitas. Pode ser partilhada com o laboratório de Patologia clínica. |
+| Área clínica/técnica |  |  |  |  |  |
+| Zona de macroscopia | Preparação de peças, fixação.Mesa de observação, descrição e secção macroscópica | 12 | - | 2 | Obrigatoriedade de armário para armazenamento de amostras biológicas com extração/contenção de formol.Obrigatoriedade de análises à qualidade do ar anualmente (vapores de formol).Obrigatoriedade de um módulo de anatomia patológica/sistema de informação laboratorial. |
+| Zona de Exames Extemporâneos |  |  |  |  | Facultativo.Com crióstato e bateria de coloração de Hematoxilina e Eosina. Obrigatoriedade de um módulo de anatomia patológica/sistema de informação laboratorial. |
+| Zona de histologia | Processamento, inclusão, corte, coloração e montagem de lâminas | 25 | - | - | Obrigatoriedade de análises à qualidade do ar anualmente.Obrigatoriedade de um módulo de anatomia patológica/sistema de informação laboratorial. |
+| Zona de Citologia | Técnicas laboratoriais de citologia. | 12 |  |  | Obrigatoriedade de um módulo de anatomia patológica/sistema de informação laboratorial. |
+| Zona de Imunohistoquímica | Técnicas de Imunohistoquímica |  |  |  | Obrigatoriedade de um módulo de anatomia patológica/sistema de informação laboratorial. |
+| Zona de observação de lâminas | Observação microscópica | 12 | - | - | Facultativo. Zona de observação de lâminas na mesma zona de citologia e na zona dos médicos.Obrigatoriedade de um módulo de anatomia patológica/sistema de informação laboratorial. |
+| Arquivo | Para arquivo de lâminas histológicas, lâminas citológicas e blocos de parafina | - | - | - | - |
+| Zona de autópsias (se existir) |  |  |  |  |  |
+| Sala de autópsias | Para realização de autópsias | 24 | - | 3 ou 4 | Com mesa de autópsias em aço inoxidável. Com mesa de corte de órgãos e maca/elevador de transferência de cadáveres.Obrigatoriedade de um módulo de anatomia patológica/sistema de informação laboratorial. |
+| Depósito de cadáveres | Para depósito temporário de cadáveres | 10 | - | - | Com frigoríficos para conservação de cadáveres. |
+| Sala de lavagem | Lavagem e recuperação de material | 6 | - | - | Pia de despejos |
+| Vestiário de pessoal | - | - | - | - | Preferencialmente com ligação direta à sala de autópsias. |
+| Área de pessoal |  |  |  |  |  |
+| Gabinete | Para trabalho/reuniões | - | - | - | Obrigatório gabinete(s) médico(s) com o módulo de anatomia patológica/sistema de informação laboratorial. |
+| Sala de pessoal f) | Pausa de pessoal | - | - | - | Facultativo. |
+| Instalação sanitária de pessoal | - |  | - | - | Obrigatório.Com possibilidade de ser partilhada. |
+| Vestiário de pessoal | - | - | - | - | Com zona de cacifos. Pode ser centralizado se integrado em unidade de saúde com mais tipologias. |
+| Área logística |  |  |  |  |  |
+| Sala de sujos e despejos | Para arrumação temporária de sacos de roupa suja e de resíduos e despejos | - | - | - | A área prevista deve garantir a funcionalidade da sala considerando o volume de sujos e tempo de permanência. |
+| Área de reprocessamentoSala de descontaminação a) e) | Para limpeza e desinfeção, de dispositivos médicos de uso múltiplo | - | - | - | A área prevista deve garantir a funcionalidade e segurança em todas as fases do reprocessamento dos dispositivos médicos. |
+| Área de reprocessamentoSala limpa b) c) | Com esterilizador de tipo adequado e ligação à sala de descontaminação por «guichet» ou por máquina de lavar com duas portas | - | - | - | Pode ser partilhada com laboratório de patologia clínica ou laboratório de genética se forem adjacentes. |
+| Armazém de inflamáveis | Armazenamento de produtos inflamáveis | - | - | - | Obrigatoriedade de armazenamento em armário antideflagrante. |
+
+(*) NSB - Nível de segurança biológico.
+
+(**) Possibilidade de partilha com o laboratório de patologia clínica ou laboratório de genética.
+
+a) Aplicam-se os comentários do anexo sobre reprocessamento de equipamentos médicos.
+
+b) A sala limpa é exigível quando a unidade não utilize exclusivamente material descartável, não dispuser de serviços centralizados de reprocessamento de dispositivos médicos de uso múltiplo ou recurso ao exterior.
+
+c) Deve estar separada da sala de descontaminação por divisória integral até ao teto (ou teto falso), sendo admissível a existência de uma porta de comunicação.
+
+d) Possibilidade de partilha com outros serviços, se integrado em unidade de saúde.
+
+e) A sala de descontaminação é exigível quando a unidade não utilizar exclusivamente material descartável.
+
+f) Considera-se conveniente que a área para descanso do pessoal permanente do laboratório permita a possibilidade de tomar refeições.
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 325/2025/1 - Diário da República n.º 192/2025, Série I de 2025-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/325-2025-938108820), em vigor a partir de 2025-10-07
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 175/2025/1 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/175-2025-914713269), em vigor a partir de 2025-04-12
+
+## Anexo II — (a que se refere o artigo 21.º)
+
+Aquecimento, ventilação e ar condicionado (AVAC)
+
+Requisitos mínimos a considerar:
+
+1 - Todos os compartimentos devem satisfazer as condições ambiente de temperatura e de humidade previstas na legislação em vigor, com particular atenção para a libertação de produtos tóxicos, irritantes ou corrosivos.
+
+2 - Em termos de exigências associadas aos equipamentos de renovação e de extração de ar (caudal de ar novo, caudal de extração ou níveis de filtragem, a título exemplificativo), deve ser verificado o maior dos requisitos que resultem da interceção do exigido na presente portaria com a legislação em vigor, na área dos edifícios no âmbito da eficiência energética.
+
+Os compartimentos com classificação de segurança biológica indicados no anexo i, devem cumprir a NP EN 12128, nas partes aplicáveis e adicionalmente satisfazer os seguintes requisitos:
+
+Laboratórios
+
+|  | Nível de segurança biológica 1 e 2 | Nível de segurança biológica 3 | Nível de segurança biológica 4 (se existir) |
+| --- | --- | --- | --- |
+| Condições ambiente | 20ºC a 25ºC/30 a 60% HR | 20ºC a 25ºC/30 a 60% HR | 20ºC a 25ºC/30 a 60% HR |
+| Pressão - antecâmara | - | Sobrepressão: 30 Pa (1) | Subpressão -30 Pa (1) (2) (3) |
+| Pressão - laboratório | Subpressão | Subpressão: -50Pa (2) (3) | Subpressão -70Pa (2) (3) |
+| Tipo de unidade | VC, UI ou UTA (7) | UTA e ventilador de extração privativos (1) (2) | UTA e ventilador de extração privativos (1) (2) |
+| Diferencial de temperatura<8ºC em frio |  |  |  |
+| <8ºC em frio | <8ºC em frio |  |  |
+| Caudal de ar novo | ≥ 35 m3/h. por pessoa ou 6 ren/h (6) | ≥ 35 m3/h. por pessoa ou 8 ren/h (6) | ≥ 35 m3/h. por pessoa ou 10 ren/h (6) |
+| Recirculação | Sim | Não (5) | Não (5) |
+| Recuperação de calor | Opcional, apenas de recuperação sensível | Não | Não |
+| Filtragem do ar novo | ISO ePM1 ≥ 50% (4) | ISO ePM1 ≥ 80% (4) | ISO ePM1 ≥ 80% (4) |
+| Filtragem do ar de retorno | ISO ePM10 ≥ 50% | - | - |
+| Filtragem do ar de exaustão | Não | H13 (sistema de extração independente) | Dois filtros H13 (sistema de extração independente) |
+| Filtragem terminal | Não | Não | H13 |
+
+Notas: VC - Ventiloconvetor; UI - Unidade de indução; UTA - Unidade de tratamento de ar.
+
+(1)
+
+A adufa deve encontrar-se numa pressão intermédia entre a sala e a circulação.
+
+(2)
+
+A sala deve ter um sistema de monitorização visual da pressão da sala e da adufa com alarme sonoro e visual. Deve ser possível visualizar a monitorização daquelas pressões, quer no interior, quer no exterior de ambos os locais.
+
+(3)
+
+O sistema de renovação de ar ambiente deve ter um sistema de controlo, por forma a não permitir a pressurização da sala.
+
+(4)
+
+Filtragem final da unidade de tratamento de ar novo (UTAN) ou da UTA.
+
+(5)
+
+O sistema de ventilação deve possuir dispositivos que impeçam o refluxo de ar.
+
+Todos os filtros (incluindo os terminais) devem dispor de pressostatos diferenciais ligados ao sistema de gestão técnica centralizada. O laboratório, a câmara pressurizada e os respetivos sistemas para extração de ar devem poder ser selados para fumigação e permitir uma remoção ou extração eficaz do fumigante.
+
+(6)
+
+Adotar o maior dos critérios.
+
+(7)
+
+Podem ser utilizados sistemas alternativos de climatização, desde que o projeto de execução se faça acompanhar do estudo comprovativo do cumprimento da norma NP EN 378.
+
+A câmara pressurizada e o laboratório devem estar equipados com fechos interligados.
+
+As câmaras de fluxo laminar requerem admissão e rejeição de ar privativas.
+
+Nos laboratórios com nível de segurança biológica 4, as janelas devem ser seladas, sem possibilidade de abertura, e ser inquebráveis para evitar fluxos de ar.
+
+Caso exista reprocessamento de dispositivos médicos de uso múltiplo, de acordo com o anexo iv, devem ser garantidos os seguintes requisitos:
+
+|  | Área de reprocessamento Sala de descontaminação | Área de reprocessamento Sala limpa |
+| --- | --- | --- |
+| Tratamento | VC/UI* | VC/UI* |
+| Ar novo | 10 ren/h (1) | 10 ren/h (1) |
+| Condições ambiente | - | - |
+| Extração | sim, forçada (2) | sim, forçada (2) |
+| Sobrepressão/subpressão | Subpressão | Sobrepressão |
+
+(*) VC - Ventiloconvector; UI - Unidade de indução.
+
+(1)
+
+A UTAN a utilizar deve ter filtragem final mínima ISO ePM1 ≥ 50 %
+
+(2)
+
+Com sistemas de extração generalizados, o sistema de «sujos» deve ser independente do de «limpos».
+
+Todos os compartimentos com produção de poluentes devem ter extração forçada própria e independente das extrações de limpos, com as seguintes taxas mínimas de renovação:
+
+Ventilação - Compartimentos diversos
+
+|  | Instalações sanitárias | Sala de sujos e despejos | Armazém de material de consumo, reagentes e amostras |
+| --- | --- | --- | --- |
+| Ventilação - Extração | Em conformidade com a legislação em vigor no SCE (*) | 10 ren/h | 10 ren/h |
+
+(*) SCE - Sistema de Certificação Energética dos Edifícios.
+
+Notas Gerais:
+
+Quanto à seleção das unidades de tratamento de ar/novo, recomenda-se que as mesmas devam apresentar certificado de construção higiénica adequado à classe de risco do espaço a climatizar.
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 325/2025/1 - Diário da República n.º 192/2025, Série I de 2025-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/325-2025-938108820), em vigor a partir de 2025-10-07
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 175/2025/1 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/175-2025-914713269), em vigor a partir de 2025-04-12
+
+## Anexo III — (a que se refere o artigo 18.º)
+
+Instalações frigoríficas
+
+Requisitos mínimos a considerar:
+
+Frigorífico para laboratório com congelador para amostras biológicas, munido de controlo e registo de temperatura.
+
+Armário para material e reagentes de laboratório à temperatura ambiente e/ou câmara frigorífica para reagentes e consumíveis a temperatura adequada, com capacidade inerente às necessidades do laboratório. O armário e/ou câmara frigorifica devem ter registo de temperatura.
+
+Armário frigorífico para conservação de cadáveres, com controlo e registo de temperatura, se existir depósito de cadáveres.
+
+## Anexo IV — (a que se refere o artigo 18.º)
+
+Reprocessamento de dispositivos médicos de uso múltiplo
+
+1 - Para a obtenção de dispositivos médicos devem adotar-se as seguintes modalidades:
+
+a) Utilização exclusiva de dispositivos médicos de uso único, sendo proibido o reprocessamento para utilização posterior, salvo se permitido por regulamentação específica;
+
+b) Utilização de dispositivos médicos de uso múltiplo reprocessados em entidade externa com implementação ou certificação da NP EN ISO 13485, ou ao abrigo de normativo que a venha a substituir ou em unidade de saúde licenciada, ou com declaração de conformidade, que disponha de unidade central de reprocessamento;
+
+c) Utilização de dispositivos médicos de uso múltiplo reprocessados em unidade interna de reprocessamento de dispositivos médicos de uso múltiplo para uma parte ou a totalidade das necessidades de um único serviço da unidade de saúde, sendo que, em caso de reprocessamento pela unidade interna de apenas uma parte do material, o restante deve ser obtido com recurso às demais opções descritas;
+
+d) Utilização de dispositivos médicos de uso múltiplo reprocessados em unidade central de reprocessamento de dispositivos médicos de uso múltiplo para as necessidades de dois ou mais serviços da unidade de saúde, concebida, organizada e equipada de acordo com os normativos e legislação em vigor, que deve dispor de capacidade adequada às necessidades e ter implementada ou estar certificada pela NP EN ISO 13485 ou ao abrigo de normativo que a venha a substituir.
+
+Deverão ser considerados os seguintes equipamentos:
+
+|  | Nível de segurança biológica 1 e 2 | Nível de segurança biológica 3 | Nível de segurança biológica 4 |
+| --- | --- | --- | --- |
+| Equipamento de reprocessamento | Em unidade interna de reprocessamento de dispositivos médicos:- Máquina de lavar e desinfetar- Esterilizador | Em unidade central de reprocessamento de dispositivos médicos de uso múltiplo:- Máquina de lavar e desinfetar- Esterilizador (1) | Em unidade central de reprocessamento de dispositivos médicos de uso múltiplo:- Máquina de lavar e desinfetar- Esterilizador (2) |
+
+(
+
+1
+
+) Os laboratórios com nível de segurança biológica 3, independentemente de recorrerem às opções a) e b), terão de obrigatoriamente instalar um esterilizador no complexo laboratorial. Quando o esterilizador for instalado no laboratório deve ser de dupla porta.
+
+(
+
+2
+
+) Os laboratórios com nível de segurança biológica 4, independentemente de recorrerem às opções a) e b), terão de obrigatoriamente instalar no laboratório um esterilizador de dupla porta.
+
+2 - Todos os dispositivos médicos potencialmente contaminados são manipulados, recolhidos e transportados em caixas ou carros fechados para a área de descontaminação, de forma a evitar o risco de contaminação dos circuitos envolventes e de utentes e pessoal.
+
+3 - As unidades internas e centrais de reprocessamento de dispositivos médicos de uso múltiplo devem satisfazer as normas relativas a qualidade e segurança, nos termos do artigo 3.º, com vista a assegurar o cumprimento das seguintes fases, respeitando ainda as instruções do fabricante dos dispositivos médicos:
+
+a) Recolha de instrumentos ou dispositivos médicos;
+
+b) Limpeza e desinfeção;
+
+c) Inspeção, montagem e embalagem;
+
+d) Esterilização;
+
+e) Armazenamento.
+
+4 - Qualquer que seja a origem dos dispositivos médicos de uso múltiplo reprocessados, deve existir evidência da validação da eficácia das diferentes fases do reprocessamento garantindo-se, pelo menos:
+
+a) A validação do ciclo de esterilização, no caso da unidade interna de reprocessamento de dispositivos médicos de uso múltiplo;
+
+b) A validação dos processos de lavagem/desinfeção, embalagem, selagem e esterilização na unidade central de reprocessamento de dispositivos médicos de uso múltiplo.
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 175/2025/1 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/175-2025-914713269), em vigor a partir de 2025-04-12
+
+## Anexo V — (a que se refere o artigo 18.º)
+
+Instalações e equipamentos elétricos
+
+1 - As instalações elétricas devem satisfazer as regras e regulamentos aplicáveis, nomeadamente as Regras Técnicas das Instalações Elétricas de Baixa Tensão (Portaria n.º 949-A/2006, de 11 de setembro), sem exclusão de outras disposições regulamentares válidas para instalações com estas características.
+
+2 - Na iluminação interior, devem ser observadas as orientações constantes da norma ISO 8995 CIE S 008/E de 15 de maio de 2003, contendo as especificações da Commission Internationale de L’Éclairage, ou da EN 12464-01/2021, sobre os níveis de iluminação e respetiva uniformidade em estabelecimentos de saúde, bem como sobre a capacidade de restituição de cores das fontes luminosas a utilizar e sobre a prevenção do desconforto visual. As unidades novas ou sujeitas a remodelações em data posterior à publicação do presente diploma, devem dar cumprimento aos requisitos dos sistemas fixos de iluminação previstos no n.º 4 do anexo ii da Portaria n.º 138-I/2021 de 1 de julho.
+
+3 - Todos os compartimentos devem dispor do número de tomadas necessárias à ligação individual de todos os equipamentos cuja utilização simultânea esteja prevista, ou seja, uma tomada por equipamento, a que se deve acrescentar uma tomada adicional para equipamento de limpeza.
+
+4 - Recomenda-se que nas instalações sanitárias que recebam público e nas salas de colheitas exista um sistema de sinalização acústico/luminoso que assegure a chamada de pessoal em serviço pelos utentes. Este sistema deve satisfazer as seguintes condições:
+
+a) Incorporar um dispositivo de chamada e sinalização luminosa com confirmação da mesma, localizado na instalação sanitária, de acesso fácil pelo utente; o cancelamento da chamada só poderá ser realizado no compartimento onde a mesma se realizou;
+
+b) O sistema acima descrito deve ser considerado uma instalação de segurança.
+
+5 - Recomenda-se que nas salas de espera seja instalado um sistema de chamada de utente, através de indicador numérico de senha de chamada, com emissão de sinal acústico; opcionalmente, poderá ser associado a sistema de intercomunicação para contacto por fonia.
+
+6 - Em caso de existirem aplicações informáticas, suportadas em computadores, que impliquem a necessidade de criar uma rede de dados estruturada, a mesma deve ser realizada segundo as normas aplicáveis mais recentes, visando maior velocidade na transmissão de dados e fiabilidade na constituição da mesma. Deverão ser contempladas, no mínimo, duas tomadas de informática por posto de trabalho/ponto de ligação à rede de dados.
+
+7 - Todos os equipamentos sensíveis a perturbações existentes na tensão de alimentação elétrica e/ou cuja interrupção na sua alimentação cause transtornos ao normal funcionamento do laboratório devem ser ligados a unidades de alimentação ininterrupta (UPS), individuais ou centralizada e ligados a tomadas devidamente identificadas. A sua potência aparente e autonomia devem ser dimensionadas em função das características técnicas dos equipamentos que alimentam.
+
+8 - Nas zonas de acesso restrito, devem implementar-se sistemas de controlo de acesso.
+
+9 - A instalação elétrica geral, tal como os vários locais de uso médico devem ser concebidos em conformidade com as Regras Técnicas das Instalações Elétricas de Baixa Tensão (RTIEBT), previstas na Portaria n.º 949-A/2006, de 11 de setembro.
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 325/2025/1 - Diário da República n.º 192/2025, Série I de 2025-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/325-2025-938108820), em vigor a partir de 2025-10-07
+
+## Anexo VI — (a que se refere o artigo 18.º)
+
+Equipamento sanitário
+
+Requisitos mínimos a considerar:
+
+| Serviço/compartimento | Equipamento sanitário |
+| --- | --- |
+| Sala de colheitas (se existir) | Lavatório (1) |
+| Instalações sanitárias de público adaptadas a pessoas com mobilidade condicionada: |  |
+| Antecâmara (se existir) | Lavatório (recomendável) |
+| Cabine de retrete | Lavatório e bacia de retrete (2) |
+| Zonas de macroscopia, histologia e citologia | (3) |
+| Sala de pessoal (se existir) | Tina de bancada |
+| Instalação sanitária de pessoal: |  |
+| Antecâmara (se existir) | Lavatório (recomendável) |
+| Cabine de retrete | Lavatório e bacia de retrete |
+| Sala de sujos e despejos | Lavatório, pia de despejos |
+| Zona de autópsias (se existir): |  |
+| Sala de autópsias | Lavatório (recomendável) (3)(4) |
+| Depósito de cadáveres | Lavatório (1) |
+| Sala de lavagem | Tinas e pia de despejos (1)(4) |
+
+(
+
+1
+
+) Com torneiras de comando não manual.
+
+(
+
+2
+
+) Com acessórios para pessoas com mobilidade condicionada.
+
+(
+
+3
+
+) Com pontos de água e de esgoto.
+
+(
+
+4
+
+) Pavimentos dotados de ralos sifonados.
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 175/2025/1 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/175-2025-914713269), em vigor a partir de 2025-04-12
+
+## Anexo VII — (a que se refere o artigo 18.º)
+
+Equipamento laboratorial e equipamento geral
+
+Deve ser considerado o equipamento laboratorial e geral mínimo, previsto no Manual de Boas Práticas Laboratoriais de Anatomia Patológica vigente.
+
+117429892

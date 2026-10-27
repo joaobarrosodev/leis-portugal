@@ -1,0 +1,561 @@
+---
+schema_version: '1.0'
+id: pt:dre:411855:por
+title: Decreto Regulamentar Regional n.º 10/2000/A
+short_title: null
+summary: Aprova a orgânica do Instituto de Acção Social
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Secretaria Regional da Educação e Assuntos Sociais
+proposing_entity: null
+official_number: 10/2000/A
+official_date: null
+publication_date: '2000-03-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 62/2000, Série I-B de 2000-03-14
+  number: '62'
+  series: I
+  supplement: null
+  pages: 985 - 990
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/03/062b00/09850990.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: partially_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/10/2000/03/14/a/dre/pt/html
+  oj: null
+  dre: '411855'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/10-2000-411855
+  internal: pt:dre:411855:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2000-411855
+  metadata_url: https://data.dre.pt/eli/decregulreg/10/2000/03/14/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2000-411855
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:29:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b0e4c6acd4baea314f845341dc2cd8317f27d71821c5788f597c5a776ab1a680
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:12Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Definição de Competências
+- Instituto de Acção Social
+- Instituto Público
+- Integração de Trabalhadores
+- Orgânica
+- Quadro de Pessoal
+- Reclassificação de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:276846:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:344876:por
+  label: "Alterado o art. 5º pelo DRR.3/2001/A.2001.04.17.PG-RAA,DR.IS-B [111] de 14/Mai/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2001-344876
+  date: '2001-04-17'
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para a categoria de assistente técnico, nos termos do art. 4º, dos trabalhadores integrados\
+    \ nas carreiras ou titulares das categorias previstas no presente diploma, extintas a partir da entrada em vigor do Regime\
+    \ de Contrato de Trabalho em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\
+    8\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
+- type: amended_by
+  target: pt:dre:444253:por
+  label: "Transitada para a dependência do Secretário Regional do Trabalho e Solidariedade Social, o Instituto de Acção Social,\
+    \ cuja orgânica foi aprovada pelo presente diploma, pelo DRR.25/2008/A.31.12.2008.PG-RAA, DR.IS [252] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-2008-444253
+  date: '2008-12-31'
+- type: cites
+  target: pt:dre:152496:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/7/1992/02/06/a/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216323:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/28/1998/11/24/a/dre
+- type: cites
+  target: pt:dre:232972:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/43/1996/10/08/a/dre
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:419795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484987:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/177/1995/07/26/p/dre
+- type: cites
+  target: pt:dre:517437:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/6/1997/03/19/a/dre
+- type: cites
+  target: pt:dre:573284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
+- type: repealed_by
+  target: pt:dre:276846:por
+  label: "Revogado, a partir de 01.06.2011, com as alterações introduzidas pelo DRR 3/2001/A de 14-Mai, pelo DRR.8/2011/A.12.04.2011.PG-RAA,\
+    \ DR.IS [72] de 12.04.2011, sem prejuízo do disposto nos nºs 2 e 3 do seu art. 4º, e remetidas para o Instituto de Desenvolvimento\
+    \ Social dos Açores, IPRA (IDSA, IPRA) as referências feitas em lei ou regulamento ao Instituto de Acção Social.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-2011-276846
+  date: '2011-04-12'
+article_structure:
+  article_count: 31
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:29:12Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 10/2000/A
+
+Orgânica do Instituto de Acção Social
+
+A política social constitui uma das preocupações fundamentais do VII Governo Regional, com vista à promoção social das populações, impondo-se que sejam repensadas as estruturas e as regras de funcionamento e de articulação vertical e horizontal do aparelho administrativo da segurança social.
+
+Assim, em execução do n.º 1 do artigo 30.º do [Decreto Legislativo Regional n.º 11/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-1987-419795), de 26 de Junho, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 227.º da Constituição e da alínea o) do artigo 60.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
+
+### CAPÍTULO I — Natureza e atribuições
+
+###### Artigo 1.º — Natureza
+
+O Instituto de Acção Social, abreviadamente designado por IAS, é um instituto público dotado de autonomia administrativa e financeira.
+
+###### Artigo 2.º — Atribuições
+
+1 - São atribuições do IAS:
+
+a) Assegurar o desenvolvimento de acções de natureza preventiva, terapêutica e promocional, numa perspectiva integrada e tendencialmente personalizada para a consecução dos objectivos da acção social;
+
+b) Promover a mobilização de recursos da própria comunidade na prossecução das acções a que se refere a alínea anterior;
+
+c) Colaborar no estudo de medidas de política e intervenção social;
+
+d) Assegurar o exercício da tutela das instituições particulares de solidariedade social, assegurando a respectiva fiscalização;
+
+e) Licenciar e fiscalizar os estabelecimentos de apoio social, nomeadamente os de fins lucrativos.
+
+2 - No âmbito das atribuições previstas nas alíneas a) e b) do número anterior, o IAS, em coordenação com o Serviço Regional de Protecção Civil, manterá actualizado um plano de actuação para as situações de emergência ou calamidade e coordenará a utilização dos recursos postos à sua disposição para acudir às situações de emergência ou calamidade e coordenará a utilização dos recursos postos à sua disposição para acudir às situações decorrentes de tais eventos.
+
+###### Artigo 3.º — Articulação e cooperação intersectorial
+
+1 - O IAS articula-se e coopera com outras entidades que intervenham no mesmo domínio ou com que a sua actividade se relacione.
+
+2 - No desempenho das suas atribuições, para além da colaboração próxima que deve manter com todos os serviços da Secretaria Regional da Educação e Assuntos Sociais, o IAS deve, em especial:
+
+a) Articular a sua acção com outras entidades públicas ou privadas, promovendo as ligações, acordos e associações que se revelem de utilidade para o exercício das suas funções;
+
+b) Promover e incentivar trocas de conhecimentos nos domínios das suas atribuições com organismos públicos e privados, nomeadamente os que prossigam actividades de investigação nas áreas das atribuições do IAS.
+
+### CAPÍTULO II — Órgãos, serviços e suas competências
+
+###### Artigo 4.º — Órgãos e serviços
+
+O IAS tem os seguintes órgãos e serviços:
+
+a) Conselho de administração;
+
+b) Repartição de Serviços Administrativos;
+
+c) Divisão de Planeamento e Apoio às Instituições;
+
+d) Divisão de Acção Social de Angra do Heroísmo;
+
+e) Divisão de Acção Social da Horta;
+
+f) Divisão de Acção Social de Ponta Delgada.
+
+#### SECÇÃO I — Conselho de administração
+
+###### Artigo 5.º — Composição
+
+1 - O IAS é dirigido por um conselho de administração, constituído pelo director regional da Solidariedade e Segurança Social, que preside, e por dois vogais, nomeados, em comissão de serviço, por três anos, por despacho do Secretário Regional da Educação e Assuntos Sociais, sob proposta do director regional da Solidariedade e Segurança Social, de entre indivíduos com licenciatura adequada.
+
+2 - O presidente do conselho de administração exerce as suas funções em regime de acumulação, auferindo, pelo exercício das mesmas, uma gratificação no valor de 30% da remuneração correspondente ao cargo de director regional.
+
+3 - Aos vogais é atribuída a remuneração correspondente ao índice 900 das carreiras do regime geral da função pública.
+
+###### Artigo 6.º — Competências
+
+1 - Compete ao conselho de administração:
+
+a) Elaborar e promover a aprovação superior de programas de actuação do IAS;
+
+b) Coordenar a preparação e apresentar superiormente o projecto de orçamento;
+
+c) Elaborar o relatório do exercício e a conta anual;
+
+d) Conceder prestações no âmbito das actividades do IAS;
+
+e) Decidir os processos de contra-ordenações relacionados com as atribuições do IAS.
+
+2 - O conselho de administração poderá delegar o exercício de parte da sua competência no presidente, nos vogais e nos chefes de divisão de acção social.
+
+###### Artigo 7.º — Competências do presidente do conselho de administração
+
+1 - Compete ao presidente do conselho de administração:
+
+a) Representar o IAS, bem como estabelecer as ligações deste com os serviços da administração regional;
+
+b) Convocar e dirigir os trabalhos das sessões do conselho e assegurar o cumprimento das deliberações tomadas;
+
+c) Dirigir os serviços do IAS, orientando-os na realização das suas atribuições;
+
+d) Passar certidões;
+
+e) Promover a articulação do IAS com outras entidades e serviços no processo de compatibilização permanente das respostas traduzidas em serviço social e ou em equipamentos ou ainda nas que se expressam em prestações pecuniárias.
+
+2 - O presidente será substituído, nas suas faltas e impedimentos, pelo vogal que designar.
+
+###### Artigo 8.º — Responsabilidade dos membros do conselho de administração
+
+1 - Os membros do conselho de administração são responsáveis, civil e criminalmente, pelas faltas ou irregularidades cometidas no exercício das suas funções.
+
+2 - Consideram-se isentos de responsabilidade os membros que não tiverem intervindo na deliberação ou a desaprovaram com declaração na acta da respectiva reunião.
+
+###### Artigo 9.º — Funcionamento do conselho de administração
+
+1 - O conselho de administração reúne ordinariamente uma vez por semana e extraordinariamente sempre que o seu presidente, por iniciativa própria ou a pedido de um dos vogais, o convoque.
+
+2 - As deliberações são tomadas por maioria dos membros do conselho, cabendo voto de qualidade ao presidente.
+
+3 - Das reuniões serão lavradas actas em livro próprio, subscritas pelos membros presentes.
+
+4 - Quando a natureza das matérias a tratar o aconselhe, o presidente poderá convocar funcionários do IAS ou convidar representantes de quaisquer entidades públicas ou privadas a participar nas reuniões do conselho sem direito de voto.
+
+#### SECÇÃO II — Repartição Administrativa
+
+###### Artigo 10.º — Competências da Repartição
+
+1 - Compete à Repartição Administrativa assegurar o expediente geral e apoiar a administração de pessoal, patrimonial e financeira.
+
+2 - A Repartição Administrativa compreende a Secção de Orçamento e Contabilidade e a Secção de Pessoal e Documentação.
+
+###### Artigo 11.º
+
+#### Secção de Orçamento e Contabilidade
+
+Compete à Secção de Orçamento e Contabilidade:
+
+a) Organizar e elaborar o projecto de orçamento do IAS e acompanhar a respectiva execução;
+
+b) Elaborar a conta de gerência;
+
+c) Processar e pagar os vencimentos e outras remunerações devidas ao pessoal;
+
+d) Organizar os processos relativos a aquisições de bens e serviços necessários ao funcionamento do IAS;
+
+e) Organizar os processos de liquidação de receitas e despesas e de execução de reposições;
+
+f) Organizar e remeter ao Centro de Gestão Financeira da Segurança Social e ao Tribunal de Contas os mapas anuais de movimentações das verbas orçamentadas;
+
+g) Elaborar as estatísticas decorrentes da contabilidade efectuada.
+
+###### Artigo 12.º
+
+#### Secção de Pessoal e Documentação
+
+Compete à Secção de Pessoal e Documentação:
+
+a) Executar as acções e o expediente relativos ao recrutamento, gestão corrente e mobilidade do pessoal, bem como os actos que sejam inerentes ao respectivo regime jurídico;
+
+b) Organizar e manter actualizado o cadastro do pessoal;
+
+c) Proceder ao controlo da assiduidade e pontualidade do pessoal;
+
+d) Emitir parecer sobre os assuntos de pessoal a submeter a despacho superior.
+
+e) Receber, registar, distribuir e assegurar a expedição da correspondência;
+
+f) Assegurar a recolha e o tratamento da bibliografia e demais documentação técnica de interesse para o sector;
+
+g) Facultar a consulta de bibliografia e documentação depositadas;
+
+h) Seleccionar e tratar as informações veiculadas pelos órgãos de comunicação social relativas às competências do IAS;
+
+i) Proceder à difusão de legislação, ordens de serviço, documentação e demais informação relacionada com a segurança social.
+
+#### SECÇÃO III
+
+###### Artigo 13.º
+
+Divisão de Planeamento e Apoio às Instituições
+
+Compete à Divisão de Planeamento e Apoio às Instituições:
+
+a) Promover estudos e elaborar pareceres de natureza técnica em matéria de planeamento com interesse específico para as actividades a desenvolver;
+
+b) Colaborar nas acções tendentes à caracterização sócio-demográfica das áreas de intervenção do IAS e elaborar os respectivos documentos de análise;
+
+c) Proceder à recolha, análise, tratamento e difusão da informação estatística necessária, nomeadamente no que respeita a recursos humanos, equipamentos colectivos, recursos financeiros e utilização dos serviços;
+
+d) Proceder à avaliação dos programas e projectos de intervenção social, nomeadamente os de articulação intersectorial;
+
+e) Emitir parecer sobre a legalidade dos actos das instituições particulares de solidariedade social sujeitos a registo;
+
+f) Prestar apoio técnico-jurídico aos órgãos do IAS e às instituições particulares de solidariedade social;
+
+g) Proceder à escrituração em livro próprio do registo das instituições particulares de solidariedade social, após encerramento do respectivo processo, e à inscrição de todos os actos que a lei submeta a registo;
+
+h) Apoiar as instituições particulares de solidariedade social nos procedimentos administrativos legalmente exigidos, no âmbito das respectivas actividades estatutárias;
+
+i) Organizar ficheiros das instituições particulares de solidariedade social e de outras entidades que mantenham acordos de cooperação com o IAS;
+
+j) Analisar os orçamentos e contas das instituições particulares de solidariedade social;
+
+k) Prestar apoio contabilístico às instituições particulares de solidariedade social.
+
+#### SECÇÃO IV — Divisões de acção social
+
+###### Artigo 14.º — Divisões de acção social
+
+1 - O IAS assegura o exercício das suas atribuições, de forma desconcentrada, através das Divisões de Acção Social de Angra do Heroísmo, Horta e Ponta Delgada.
+
+2 - O âmbito geográfico das divisões de acção social é o seguinte:
+
+a) Divisão de Acção Social de Angra do Heroísmo - Terceira, Graciosa e São Jorge;
+
+b) Divisão de Acção Social da Horta - Faial, Pico, Flores e Corvo;
+
+c) Divisão de Acção Social de Ponta Delgada - São Miguel e Santa Maria.
+
+###### Artigo 15.º — Serviços locais
+
+As divisões de acção social compreendem serviços locais, de âmbito concelhio ou de ilha ou grupo de ilhas, que exercem as atribuições das divisões nas áreas correspondentes às respectivas designações:
+
+1) Divisão de Acção Social de Angra do Heroísmo:
+
+a) Serviço de Acção Social da Praia da Vitória;
+
+b) Serviço de Acção Social da Graciosa;
+
+c) Serviço de Acção Social de São Jorge;
+
+2) Divisão de Acção Social da Horta:
+
+a) Serviço de Acção Social do Pico;
+
+b) Serviço de Acção Social das Flores e Corvo.
+
+3) Divisão de Acção Social de Ponta Delgada:
+
+a) Serviço de Acção Social da Ribeira Grande;
+
+b) Serviço de Acção Social de Vila Franca do Campo;
+
+c) Serviço de Acção Social de Lagoa;
+
+d) Serviço de Acção Social da Povoação;
+
+e) Serviço de Acção Social de Nordeste;
+
+f) Serviço de Acção Social de Rabo de Peixe;
+
+g) Serviço de Acção Social da Maia;
+
+h) Serviço de Acção Social de Santa Maria.
+
+###### Artigo 16.º — Coordenação dos serviços de acção social
+
+1 - Os serviços de acção social de ilha ou grupo de ilhas são dirigidos por coordenadores, havendo ainda um coordenador como coadjuvante do chefe da Divisão de Acção Social de Ponta Delgada e outro como coadjuvante do chefe da Divisão da Acção Social de Angra do Heroísmo.
+
+2 - Os coordenadores são nomeados em comissão de serviço pelo período de três anos, renovável por despacho do Secretário Regional da Educação e Assuntos Sociais, de entre o pessoal técnico superior ou, excepcionalmente, sempre que não haja pessoal técnico superior provido no respectivo quadro, de entre pessoal da carreira técnica ou técnico-profissional.
+
+3 - Os coordenadores são remunerados pela escala salarial imediatamente superior à que detêm na respectiva carreira e pelo índice correspondente ao escalão do mesmo número que detiverem ou imediatamente inferior se não houver coincidência.
+
+4 - Nos casos em que os coordenadores se encontrem posicionados no topo da escala salarial da respectiva carreira, serão remunerados pelo índice imediatamente seguinte ao que detêm na respectiva categoria, não podendo, em qualquer caso, resultar remuneração superior à auferida pelos vogais do conselho de administração.
+
+###### Artigo 17.º — Competências das divisões de acção social
+
+1 - Compete às divisões de acção social:
+
+a) Inventariar as necessidades e recursos existentes no âmbito da sua área de actuação fazendo o diagnóstico das situações de carência social;
+
+b) Contribuir para a consciencialização dos indivíduos e das famílias quanto às necessidades reais e recursos, com vista à elaboração de projectos que levem à aceleração do processo do desenvolvimento sócio-económico;
+
+c) Promover a participação das populações nas soluções dos seus problemas no quadro do processo de desenvolvimento local e regional;
+
+d) Fomentar e apoiar o voluntariado no âmbito do sector;
+
+e) Promover e coordenar acções de apoio às famílias, indivíduos e grupos, visando dar respostas adequadas aos problemas apresentados;
+
+f) Desenvolver, dinamizar e apoiar acções tendentes à integração social dos indivíduos ou grupos marginalizados;
+
+g) Propor a criação de equipamentos sociais, de acordo com as necessidades inventariadas, e orientá-los tecnicamente;
+
+h) Recolher os elementos estatísticos do sector;
+
+i) Cooperar com as instituições particulares de solidariedade social, nos termos dos protocolos e acordos de cooperação e ou de gestão celebrados;
+
+j) Fiscalizar o funcionamento das instituições particulares de solidariedade social, bem como o cumprimento dos termos dos protocolos e acordos celebrados;
+
+k) Fiscalizar o funcionamento das instituições de apoio social com fins lucrativos, bem como verificar as condições para a concessão de alvarás.
+
+2 - Aos chefes de divisão incumbe superintender a acção dos serviços de acção social das respectivas áreas.
+
+### CAPÍTULO III — Administração financeira
+
+###### Artigo 18.º — Receitas
+
+1 - São receitas correntes do IAS:
+
+a) Transferências do Centro de Gestão Financeira da Segurança Social;
+
+b) Transferências do orçamento da Região Autónoma dos Açores;
+
+c) Subsídios de quaisquer entidades públicas ou particulares, donativos, legados ou heranças;
+
+d) Outras receitas permitidas por lei.
+
+2 - São receitas de capital do IAS as transferências de capital do Centro de Gestão Financeira da Segurança Social.
+
+###### Artigo 19.º — Despesas
+
+1 - São despesas correntes do IAS:
+
+a) Prestações pecuniárias de acção social;
+
+b) Administração;
+
+c) Outras despesas previstas por lei.
+
+2 - São despesas de capital do IAS as que decorrem de investimentos relacionados com a respectiva actividade.
+
+###### Artigo 20.º — Depósitos bancários
+
+As disponibilidades do IAS são obrigatoriamente depositadas à sua ordem em qualquer instituição de crédito, sem prejuízo de poder ter em tesouraria as importâncias indispensáveis ao pagamento de despesas que deva ser feito em dinheiro, de acordo com instruções emanadas do Centro de Gestão Financeira da Segurança Social.
+
+###### Artigo 21.º — Movimentação de valores
+
+1 - A movimentação de valores depositados processa-se mediante duas assinaturas, uma das quais de um membro do conselho de administração, podendo a outra ser de dirigente ou chefia dos serviços centrais do IAS designado por aquele conselho.
+
+2 - A movimentação de valores das divisões e serviços de acção social relativos aos fundos permanentes e fundos de maneio processa-se mediante duas assinaturas, sendo uma do chefe de divisão ou coordenador de ilha e outra de um elemento a designar, em cada serviço, por despacho do conselho de administração.
+
+###### Artigo 22.º — Fundos permanentes
+
+Poderão ser constituídos fundos permanentes e fundos de maneio junto das divisões de acção social ou serviços de ilha para satisfazer despesas inerentes ao seu funcionamento, nomeadamente despesas inadiáveis ou de prazo fixo, em termos a definir pelo conselho de administração, de acordo com as orientações fixadas pelo Centro de Gestão Financeira da Segurança Social.
+
+### CAPÍTULO IV — Pessoal
+
+###### Artigo 23.º — Estrutura dos quadros de pessoal
+
+1 - Pessoal do IAS é o constante do mapa anexo ao presente diploma, do qual faz parte integrante, e é agrupado de acordo com a seguinte classificação:
+
+a) Pessoal dirigente;
+
+b) Pessoal de chefia;
+
+c) Pessoal técnico superior;
+
+d) Pessoal técnico;
+
+e) Pessoal de educação de infância;
+
+f) Pessoal de informática;
+
+g) Pessoal técnico-profissional e administrativo;
+
+h) Pessoal auxiliar.
+
+2 - Por despacho do conselho de administração do IAS, sob proposta do chefe de divisão da respectiva divisão de acção social, será afecto aos diversos serviços de acção social o número de funcionários necessários à prossecução das respectivas competências.
+
+###### Artigo 24.º — Ingresso e acesso
+
+As condições e regras de ingresso e acesso do pessoal do IAS são as estabelecidas no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, e respectivas alterações, as previstas no presente diploma e demais legislação regional e geral complementar.
+
+###### Artigo 25.º — Pessoal dirigente
+
+O pessoal dirigente é provido de acordo com o disposto na [Lei n.º 49/99](https://diariodarepublica.pt/dr/detalhe/lei/49-1999-391578), de 22 de Junho.
+
+###### Artigo 26.º — Educadores de infância
+
+Os educadores de infância são recrutados e providos nos termos da lei geral, aplicando-se à respectiva carreira, com as necessárias adaptações, as regras constantes do Decreto-Lei n.º 193-A/90, de 28 de Abril, e respectivas alterações.
+
+###### Artigo 27.º — Pessoal de informática
+
+As condições e regras de ingresso e acesso do pessoal de informática são as constantes do [Decreto-Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1991-693840), de 11 de Janeiro, alterado pelo [Decreto-Lei n.º 177/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1995-484987), de 26 de Julho.
+
+### CAPÍTULO V — Disposições transitórias e finais
+
+###### Artigo 28.º
+
+O pessoal a que se refere o quadro de pessoal constante do [Decreto Regulamentar Regional n.º 28/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-1998-216323), de 24 de Novembro, transita para o quadro anexo ao presente diploma, do qual faz parte integrante, automática e independentemente de quaisquer formalidades.
+
+###### Artigo 29.º — Sucessão de direitos e obrigações
+
+O IAS sucede na titularidade dos direitos e obrigações da Região relativamente aos actos e contratos relacionados com a sua actividade, designadamente os respeitantes a contratos de arrendamento, independentemente de qualquer formalidade.
+
+###### Artigo 30.º — Reclassificação
+
+O auxiliar administrativo do quadro de pessoal da Secção de Pessoal e Documentação da Repartição dos Serviços Administrativos que exerce funções de motorista há, pelo menos, cinco anos é reclassificado na categoria de motorista do mesmo quadro de pessoal, sem prejuízo da posse das respectivas habilitações legais.
+
+###### Artigo 31.º — Revogação
+
+São revogados os Decretos Regulamentares Regionais n.os [23/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1990-573284), [7/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1992-152496), [43/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/43-1996-232972), [6/97/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1997-517437) e [28/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-1998-216323), respectivamente de 31 de Julho, 6 de Fevereiro, 8 de Outubro, 19 de Março e 24 de Novembro.
+
+Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 2 de Dezembro de 1999.
+
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
+
+Assinado em Angra do Heroísmo em 18 de Fevereiro de 2000.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
+
+## ANEXO — Mapa a que se refere o artigo 23.º
+
+Instituto de Acção Social
+
+[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/03/062b00/09850990.pdf)

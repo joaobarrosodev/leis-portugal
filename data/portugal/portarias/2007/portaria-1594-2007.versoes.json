@@ -1,0 +1,235 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:627672:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-106980923",
+ "dre_path": "/dr/detalhe/portaria/1594-2007-627672",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-12-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "106966842",
+    "106966843",
+    "106966844",
+    "106966845",
+    "106966846",
+    "106966847",
+    "106966848",
+    "106966849",
+    "106966850",
+    "106966851",
+    "106966852",
+    "106966853",
+    "106966854",
+    "106966855",
+    "106966856",
+    "106966857",
+    "106966858",
+    "106966859"
+   ]
+  },
+  {
+   "date": "2012-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176062:por",
+     "title": "Portaria n.º 286/2012",
+     "published": "2012-09-20",
+     "dre_path": "/dr/detalhe/portaria/286-2012-176062"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "106966842",
+    "106966843",
+    "106966844",
+    "106966845",
+    "106966846",
+    "106966847",
+    "106966848",
+    "106966849",
+    "106966850",
+    "106966851",
+    "106966852",
+    "106966853",
+    "106966854",
+    "106966861",
+    "106966856",
+    "106966857",
+    "106966858",
+    "106966859",
+    "106966860"
+   ]
+  }
+ ],
+ "fragments": {
+  "106966842": {
+   "fragment_id": "106980924",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1594/2007\n\nde 17 de Dezembro\n\nO Decreto-Lei n.º 324/2007, de 28 de Setembro, alterou o Código do Registo Civil introduzindo diversas medidas de simplificação e desformalização relacionadas com a vida das pessoas, reduzindo obstáculos burocráticos e formalidades dispensáveis nas áreas do registo civil e dos actos notarias conexos.\n\nDe entre estas medidas destaca-se a criação de dois serviços de balcão único que constituem o cumprimento de um compromisso assumido pelo XVII Governo Constitucional no âmbito do Programa SIMPLEX. Estes serviços - o «Balcão das Heranças» e o balcão «Divórcio com Partilha» - agregam num atendimento único procedimentos relativos às heranças e ao divórcio.\n\nO «Balcão das Heranças» permite realizar em atendimento único todos os actos e formalidades relacionados com a sucessão hereditária. Aqui se incluem, por exemplo, a habilitação de herdeiros, a partilha dos bens imóveis, móveis ou participações sociais sujeitos a registo, a liquidação dos impostos que se mostrem devidos e a realização dos registos e pedidos de registo dos bens partilhados.\n\nPor sua vez, o serviço «Divórcio com Partilha» permite que, no âmbito do divórcio e da separação de pessoas e bens por mútuo consentimento tramitados nas conservatórias do registo civil, se possam efectuar todos os actos e formalidades relacionados com este procedimento. É o caso da realização da partilha, da liquidação dos impostos que se mostrem devidos e do registo dos bens imóveis, móveis sujeitos a registo e participações sociais partilhados.\n\nCom a criação destes novos serviços, vários actos e formalidades são dispensados e os que se revelem indispensáveis ficam concentrados num único atendimento, sem necessidade de efectuar diversas deslocações a conservatórias diversas, cartórios notariais e serviços de finanças, com vantagem para os cidadãos.\n\nA presente portaria destina-se a regulamentar os termos da prestação do serviço nestes novos balcões únicos, nomeadamente quanto ao atendimento prévio que neles possa existir, às condições de verificação dos pressupostos da partilha do património conjugal e ao arquivo de documentos.\n\nAssim:\n\nManda o Governo, pelo Ministro da Justiça, ao abrigo do disposto nos n.os 2 do artigo 210.º-D, 4 do artigo 210.º-E e 5 do artigo 272.º-A do Código do Registo Civil, aprovado pelo Decreto-Lei n.º 131/95, de 6 de Junho, com as alterações introduzidas pelos Decretos-Leis n.os 36/97, de 31 de Janeiro, 120/98, de 8 de Maio, 375-A/99, de 20 de Setembro, 228/2001, de 20 de Agosto, 273/2001, de 13 de Outubro, 323/2001, de 17 de Dezembro, 113/2002, de 20 de Abril, 194/2003, de 23 de Agosto, e 53/2004, de 18 de Março, pela Lei n.º 29/2007, de 2 de Agosto, e pelo Decreto-Lei n.º 324/2007, de 28 de Setembro, e do disposto no n.º 5 do artigo 25.º deste último decreto-lei, o seguinte:"
+  },
+  "106966843": {
+   "fragment_id": "106980925",
+   "type": 8,
+   "heading": "Secção I — Procedimentos simplificados de sucessão hereditária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Procedimentos simplificados de sucessão hereditária"
+  },
+  "106966844": {
+   "fragment_id": "106980926",
+   "type": 11,
+   "heading": "Artigo 1.º — Atendimento prévio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Atendimento prévio\n\nNo âmbito dos procedimentos simplificados de sucessão hereditária previstos nos artigos 210.º-A a 210.º-R do Código do Registo Civil, o funcionário competente procede a um atendimento prévio do requerente praticando os seguintes actos pela ordem indicada:\n\na) Efectua uma análise do pedido e dos documentos apresentados pelo requerente;\n\nb) Promove as diligências de instrução do procedimento que devam ser efectuadas por via oficiosa, nos termos do artigo 210.º-E do Código do Registo Civil;\n\nc) Comunica ao requerente quais os documentos que deve apresentar;\n\nd) Marca a data de realização do procedimento, nos termos dos artigos 2.º e 3.º"
+  },
+  "106966845": {
+   "fragment_id": "106980927",
+   "type": 11,
+   "heading": "Artigo 2.º — Marcação prévia e documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Marcação prévia e documentos\n\n1 - A realização do procedimento só pode ser marcada para uma data posterior a sete dias úteis relativamente à data do pedido se esta for a vontade dos interessados.\n\n2 - A realização do procedimento referido no número anterior pode ser remarcada para outra data se os documentos que devam ser disponibilizados pelas partes forem entregues menos de cinco dias úteis antes da data marcada para a realização do procedimento e essa remarcação se revelar absolutamente indispensável.\n\n3 - O envio em suporte electrónico ou telecópia dos documentos referidos no número anterior equivale à sua disponibilização à conservatória, mas não dispensa a exibição dos originais no momento da realização do procedimento."
+  },
+  "106966846": {
+   "fragment_id": "106980928",
+   "type": 11,
+   "heading": "Artigo 3.º — Marcação prévia em casos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Marcação prévia em casos especiais\n\n1 - A marcação da realização do procedimento tem lugar no prazo de 10 dias úteis relativamente à data do pedido nos casos seguintes:\n\na) Quando a sucessão seja regulada por lei estrangeira;\n\nb) Quando a sucessão se funde, ainda que parcialmente, em testamento ou contrato sucessório ou disposição testamentária contidos em convenção antenupcial;\n\nc) Quando se verifique o repúdio da herança por parte de algum dos herdeiros;\n\nd) Quando se verifique a necessidade de chamamento de bens à colação na partilha;\n\ne) Quando a herança a partilhar integre uma das seguintes situações:\n\ni) Mais de 15 bens ou direitos;\n\nii) Meações e quinhões hereditários noutros patrimónios indivisos;\n\niii) Bens futuros e expectativas de aquisição;\n\niv) Bens ou direitos registados ou localizados no estrangeiro ou a que se aplique lei estrangeira.\n\n2 - A marcação da realização do procedimento prevista no número anterior só pode ter lugar numa data posterior a 10 dias úteis relativamente à data do pedido se essa for a vontade dos interessados."
+  },
+  "106966847": {
+   "fragment_id": "106980929",
+   "type": 11,
+   "heading": "Artigo 4.º — Tramitação subsequente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tramitação subsequente\n\nApós o atendimento prévio, os procedimentos simplificados de sucessão hereditária são tramitados no mesmo dia, em atendimento presencial único, nos termos dos artigos 210.º-F a 210.º-M do Código do Registo Civil."
+  },
+  "106966848": {
+   "fragment_id": "106980930",
+   "type": 8,
+   "heading": "Secção II — Procedimento de partilha do património conjugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Procedimento de partilha do património conjugal"
+  },
+  "106966849": {
+   "fragment_id": "106980931",
+   "type": 11,
+   "heading": "Artigo 5.º — Atendimento prévio, marcação prévia e partilha do património conjugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Atendimento prévio, marcação prévia e partilha do património conjugal\n\n1 - Os pressupostos da partilha do património conjugal relativos a bens sujeitos a registo a que se refere o n.º 2 do artigo 272.º-A do Código do Registo Civil são verificados em atendimento prévio, nos termos do artigo 1.º, no momento da apresentação do pedido de separação de pessoas e bens ou de divórcio por mútuo consentimento.\n\n2 - A realização da partilha do património conjugal é marcada para a data da conferência prevista no n.º 3 do artigo 14.º do Decreto-Lei n.º 272/2001, de 13 de Outubro, só podendo ser marcada para uma data posterior a cinco dias úteis relativamente à data do pedido se essa for a vontade dos interessados.\n\n3 - Nos casos em que seja necessário proceder à notificação dos interessados, a realização da partilha do património conjugal só pode ser marcada para uma data posterior a cinco dias úteis relativamente à data em que a notificação se presume efectuada, se essa for a vontade dos interessados.\n\n4 - No caso de ser apresentado acordo sobre o exercício do poder paternal relativo a filhos menores, a marcação da data e as notificações só se verificam depois da recepção da pronúncia favorável do Ministério Público.\n\n5 - As marcações referidas nos números anteriores só são asseguradas se os documentos que devam ser disponibilizados pelas partes forem entregues pelo menos dois dias úteis antes da data marcada para a realização do procedimento.\n\n6 - O disposto nos números anteriores não prejudica a aplicação dos artigos 1420.º a 1422.º do Código de Processo Civil.\n\n7 - A realização da partilha do património conjugal tem lugar imediatamente após a realização da conferência e da decretação da separação judicial de pessoas e bens ou do divórcio previstas no n.º 3 do artigo 14.º do Decreto-Lei n.º 272/2001, de 13 de Outubro, desde que as partes tenham renunciado expressamente ao recurso.\n\n8 - São aplicáveis os n.os 2 e 3 do artigo 2.º"
+  },
+  "106966850": {
+   "fragment_id": "106980932",
+   "type": 11,
+   "heading": "Artigo 6.º — Marcação prévia em casos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Marcação prévia em casos especiais\n\n1 - A marcação da realização do procedimento tem lugar no prazo de sete dias úteis relativamente à data do pedido nos casos seguintes:\n\na) Quando o regime de bens que vigore no casamento for regulado por lei estrangeira ou por convenção antenupcial atípica;\n\nb) Quando o património conjugal integre uma das seguintes situações:\n\ni) Meações e quinhões hereditários noutros patrimónios indivisos;\n\nii) Bens futuros e expectativas de aquisição.\n\n2 - A marcação da realização do procedimento prevista no número anterior só pode ter lugar numa data posterior a sete dias úteis relativamente à data do pedido, se essa for a vontade dos interessados."
+  },
+  "106966851": {
+   "fragment_id": "106980933",
+   "type": 11,
+   "heading": "Artigo 7.º — Tramitação subsequente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Tramitação subsequente\n\nApós o atendimento prévio, a partilha do património conjugal é tramitada no mesmo dia, em atendimento presencial único, nos termos do artigo 5.º e do artigo 272.º-B do Código do Registo Civil."
+  },
+  "106966852": {
+   "fragment_id": "106980934",
+   "type": 8,
+   "heading": "Secção III — Assinatura, apresentação, certidão permanente e arquivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Assinatura, apresentação, certidão permanente e arquivo"
+  },
+  "106966853": {
+   "fragment_id": "106980935",
+   "type": 11,
+   "heading": "Artigo 8.º — Assinatura de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Assinatura de documentos\n\nOs documentos resultantes dos procedimentos simplificados de sucessão hereditária e de partilha do património conjugal são assinados por todos os intervenientes e, sempre que possível, digitalizados, não guardando a conservatória qualquer outro arquivo além do previsto no artigo 11.º"
+  },
+  "106966854": {
+   "fragment_id": "106980936",
+   "type": 11,
+   "heading": "Artigo 9.º — Apresentação de pedidos de registo predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apresentação de pedidos de registo predial\n\n1 - No caso de pedidos de registo predial promovidos nos termos do n.º 1 do artigo 19.º do Decreto-Lei n.º 324/2007, de 28 de Setembro, estes são remetidos à conservatória competente por meios electrónicos ou, apenas quando estes não estejam disponíveis, por telecópia, acompanhados da cópia dos documentos caso a conservatória não tenha acesso electrónico aos mesmos.\n\n2 - Nos casos referidos no número anterior, a conservatória competente remete aos interessados gratuitamente uma certidão, nos termos da alínea g) do n.º 1 do artigo 210.º-F do Código do Registo Civil.\n\n3 - Os pedidos de registo apresentados por meios electrónicos ou por telecópia são anotados no diário pela ordem da sua recepção:\n\na) Imediatamente após a última apresentação pessoal do dia, quando recebidos entre as 0 e as 16 horas;\n\nb) Imediatamente antes da primeira apresentação pessoal do dia seguinte, quando recebidos entre as 16 e as 24 horas."
+  },
+  "106966855": {
+   "fragment_id": "106980937",
+   "type": 11,
+   "heading": "Artigo 10.º — Certidão permanente de registo comercial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Certidão permanente de registo comercial\n\nNo caso de serem efectuados registos de participações sociais é disponibilizada gratuitamente por um ano uma certidão permanente de registo comercial."
+  },
+  "106966856": {
+   "fragment_id": "106980938",
+   "type": 11,
+   "heading": "Artigo 11.º — Arquivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Arquivo\n\n1 - Ficam arquivados os documentos que serviram de base à realização dos procedimentos simplificados de sucessão hereditária e partilha do património conjugal.\n\n2 - O arquivo previsto nos números anteriores é efectuado, sempre que possível, por via electrónica, com dispensa da sua conservação em suporte físico, sendo devolvidos aos interessados os documentos que estes tenham apresentado e que resultem da realização do procedimento.\n\n3 - Os documentos arquivados na forma prevista no número anterior, desde que sejam integralmente apreensíveis, têm o mesmo valor probatório dos originais."
+  },
+  "106966857": {
+   "fragment_id": "106980939",
+   "type": 8,
+   "heading": "Secção IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Disposições finais e transitórias"
+  },
+  "106966858": {
+   "fragment_id": "106980940",
+   "type": 11,
+   "heading": "Artigo 12.º — Período experimental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Período experimental\n\n1 - O período experimental previsto no artigo 18.º do Decreto-Lei n.º 324/2007, de 28 de Setembro, tem início após a entrada em vigor da presente portaria e termina no dia 30 de Maio de 2008.\n\n2 - Durante o período experimental, os procedimentos simplificados de sucessão hereditária não podem ser promovidos nos casos seguintes:\n\na) Quando a sucessão hereditária seja regulada por lei estrangeira;\n\nb) Quando a herança a partilhar integre quotas ou partes sociais em sociedades por quotas, em nome colectivo ou em comandita simples, quando tais sociedades possuam bens imóveis e quando, pela partilha, algum dos herdeiros fique a dispor de, pelo menos, 75  % do capital social ou o número de sócios se reduza a dois, sendo marido e mulher, casados no regime de comunhão geral de bens ou de adquiridos;\n\nc) Quando a partilha da herança determine:\n\ni) O fraccionamento de prédios ou a constituição de propriedade horizontal;\n\nii) A constituição da compropriedade ou o aumento do número de compartes sobre prédios rústicos.\n\n3 - Durante o período experimental, a realização da partilha do património conjugal não pode ser promovida nos casos seguintes:\n\na) Quando o regime de bens que vigora no casamento for regulado por lei estrangeira;\n\nb) Quando do património conjugal façam parte quotas ou partes sociais em sociedades por quotas, em nome colectivo ou em comandita simples, quando tais sociedades possuam bens imóveis e quando, pela partilha, algum dos herdeiros fique a dispor de, pelo menos, 75  % do capital social ou o número de sócios se reduza a dois, sendo marido e mulher, casados no regime de comunhão geral de bens ou de adquiridos;\n\nc) Quando a partilha determine:\n\ni) O fraccionamento de prédios ou a constituição de propriedade horizontal;\n\nii) A constituição da compropriedade ou o aumento do número de compartes sobre prédios rústicos."
+  },
+  "106966859": {
+   "fragment_id": "106980941",
+   "type": 11,
+   "heading": "Artigo 13.º — Início de vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Início de vigência\n\n1 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n2 - Os procedimentos simplificados de sucessão hereditária e de partilha do património conjugal no âmbito de processo de separação judicial de pessoas e bens ou de divórcio por mútuo consentimento previstos nos artigos 210.º-A a 210.º-R e 272.º-A a 272.º-C do Código do Registo Civil, na redacção do Decreto-Lei n.º 324/2007, de 28 de Setembro, entram em funcionamento na data prevista no número anterior."
+  },
+  "106966861": {
+   "fragment_id": "106980937",
+   "type": 11,
+   "heading": "Artigo 10.º — Certidões permanentes",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+   ],
+   "markdown": "###### Artigo 10.º — Certidões permanentes\n\n1 - A certidão do registo predial a entregar no âmbito do procedimento é aquela a que se refere o n.º 6 do artigo 110.º do Código do Registo Predial, podendo o interessado fazer a opção nele prevista.\n\n2 - A certidão de registo comercial a entregar no âmbito do procedimento é aquela a que se refere o n.º 6 do artigo 75.º do Código do Registo Comercial.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+  },
+  "106966860": {
+   "fragment_id": "106980942",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro da Justiça, João Tiago Valente Almeida da Silveira, Secretário de Estado da Justiça, em 13 de Dezembro de 2007."
+  }
+ }
+}

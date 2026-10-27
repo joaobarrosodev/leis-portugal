@@ -1,0 +1,118 @@
+---
+schema_version: '1.0'
+id: pt:dre:336688:por
+title: Portaria n.º 449/75
+short_title: null
+summary: Dá nova redacção às alíneas c) e d) do n.º 2 do n.º 5.º da Portaria n.º 759/74, de 23 de Novembro, relativa a casas
+  de renda limitada
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Equipamento Social e do Ambiente - Secretaria de Estado da Habitação e Urbanismo
+proposing_entity: null
+official_number: 449/75
+official_date: null
+publication_date: '1975-07-22'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 167/1975, Série I de 1975-07-22
+  number: '167'
+  series: I
+  supplement: null
+  pages: 1019 - 1019
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/07/16700/10191019.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '336688'
+  dre_path: /dr/detalhe/portaria/449-1975-336688
+  internal: pt:dre:336688:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/449-1975-336688
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/449-1975-336688
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:47:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1a38b961582a9bde640b02205691d9850c73d4e1b88144d0e0fb394b423fde1f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:47:00Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Custo da Construção
+- Habitação Social
+- Renda Limitada
+relationships:
+- type: amended_by
+  target: pt:dre:408154:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:466193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621756:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:408154:por
+  label: "Revogada pela PORT.726/76.1976.12.02.MHUC DR.IS [281]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/726-1976-408154
+  date: '1976-12-02'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:47:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 449/75
+
+de 22 de Julho
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Habitação e Urbanismo, ao abrigo dos artigos 3.º e 4.º do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), de 14 de Novembro, o seguinte:
+
+1.º A alínea c) do n.º 2 do n.º 5.º da [Portaria n.º 759/74](https://diariodarepublica.pt/dr/detalhe/portaria/759-1974-466193), de 23 de Novembro, passa a ter a seguinte redacção:
+
+c) Um acréscimo máximo de 35% sobre o quantitativo que resultar do produto da área bruta do fogo pelo respectivo preço de construção, determinado em conformidade com as duas alíneas anteriores. Esse acréscimo corresponde à soma de duas parcelas, sendo uma equivalente ao valor do terreno urbanizado, que não poderá exceder 15% e outra aos encargos de financiamento, comercialização, custo do projecto e encargos diversos, que não poderá exceder 20%.
+
+2.º A alínea d) do n.º 2 do n.º 5.º da [Portaria n.º 759/74](https://diariodarepublica.pt/dr/detalhe/portaria/759-1974-466193), de 23 de Novembro, passa a ter a seguinte redacção:
+
+d) Uma taxa de capitalização a aplicar ao valor final, determinado na alínea antecedente, que se fixa em 8,5%, para determinação das rendas das casas de renda limitada.
+
+Secretaria de Estado da Habitação e Urbanismo, 30 de Junho de 1975. - O Secretário de Estado da Habitação e Urbanismo, Eduardo Ribeiro Pereira.

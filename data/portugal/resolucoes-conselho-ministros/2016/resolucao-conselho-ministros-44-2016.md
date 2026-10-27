@@ -1,0 +1,255 @@
+---
+schema_version: '1.0'
+id: pt:dre:75170441:por
+title: Resolução do Conselho de Ministros n.º 44/2016
+short_title: null
+summary: Fixa as orientações estratégicas para a alteração do Programa Nacional da Política de Ordenamento do Território,
+  aprovado pela Lei n.º 58/2007, de 4 de setembro, através de um sistema colaborativo e descentralizado assente em pontos
+  focais e numa comissão consultiva, sob coordenação da Direção-Geral do Território
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 44/2016
+official_date: null
+publication_date: '2016-08-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 161/2016, Série I de 2016-08-23
+  number: '161'
+  series: I
+  supplement: null
+  pages: 2843 - 2845
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/08/16100/0284302845.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/44/2016/08/23/p/dre/pt/html
+  oj: null
+  dre: '75170441'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/44-2016-75170441
+  internal: pt:dre:75170441:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/44-2016-75170441
+  metadata_url: https://data.dre.pt/eli/resolconsmin/44/2016/08/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/44-2016-75170441
+  consolidated_url: null
+  retrieved_at: '2026-10-23T13:10:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c81bdfa07f87ce1abdc0f296f7a2888ed69ba346bac65fccfcd76b33dde1595f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:10:00Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Direção Geral do Território
+- Ordenamento do Território
+- Programa Nacional da Política de Ordenamento do Território
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/3/2016/01/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/3/2016/01/22/p/dre
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: http://data.dre.pt/eli/lei/31/2014/05/30/p/dre
+- type: cites
+  target: pt:dre:640143:por
+  label: null
+  source: http://data.dre.pt/eli/lei/58/2007/09/04/p/dre
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/80/2015/05/14/p/dre
+- type: cites
+  target: pt:dre:73268683:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T13:10:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 44/2016
+
+O Programa Nacional da Política de Ordenamento do Território (PNPOT), aprovado pela [Lei n.º 58/2007](https://diariodarepublica.pt/dr/detalhe/lei/58-2007-640143), de 4 de setembro define o modelo territorial que traduz espacialmente as orientações estratégicas em matéria de sistema urbano e acessibilidades e estabelece os seguintes objetivos estratégicos para Portugal, os quais constituem o quadro referencial de compromissos das políticas com incidência territorial:
+
+a) Conservar e valorizar a biodiversidade, os recursos e o património natural, paisagístico e cultural, utilizar, de modo sustentável, os recursos energéticos e geológicos e prevenir e minimizar os riscos;
+
+b) Reforçar a competitividade territorial de Portugal e a sua integração nos espaços ibérico, europeu, atlântico e global;
+
+c) Promover o desenvolvimento policêntrico dos territórios e reforçar as infraestruturas de suporte à integração e à coesão territoriais;
+
+d) Assegurar a equidade territorial no provimento de infraestruturas e de equipamentos coletivos e a universalidade no acesso aos serviços de interesse geral, promovendo a coesão social;
+
+e) Expandir as redes e infraestruturas avançadas de informação e comunicação e incentivar a sua crescente utilização pelos cidadãos, empresas e Administração Pública;
+
+f) Reforçar a qualidade e a eficiência da gestão territorial, promovendo a responsabilidade partilhada e a participação informada, ativa e responsável dos cidadãos e das instituições.
+
+O PNPOT é composto, nos termos do artigo 33.º do Regime Jurídico dos Instrumentos de Gestão Territorial, aprovado pelo [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, por:
+
+a) Um relatório, que identifica e define cenários de desenvolvimento territorial e fundamenta opções estratégicas, bem como as prioridades da intervenção em matéria de ordenamento do território, estabelecendo um modelo de organização espacial;
+
+b) Um programa de ação, que concretiza a estratégia de ordenamento e de desenvolvimento territorial do País, designadamente através da definição de objetivos de médio e longo prazo, das opções e das prioridades de intervenção, bem como os compromissos de intervenção legislativa e a programação do investimento das ações propostas.
+
+Atentos aos resultados da avaliação da execução do Programa de Ação 2007-2013, desenvolvida pela Direção-Geral do Território e acompanhada por uma rede de pontos focais, representativa do conjunto das entidades sob administração direta do Estado cujos interesses públicos interessou acautelar.
+
+Considerando que o Programa de Ação viu chegado o seu término de programação no final de 2013.
+
+Tendo presente que o Portugal 2020 vem colocar o foco na dimensão territorial das políticas públicas nas suas diversas escalas, seguindo as prioridades e agendas acordadas ao nível europeu, assim como as opções estratégicas de base territorial desenvolvidas e estabelecidas no quadro nacional das políticas de desenvolvimento regional e de ordenamento do território e urbanismo.
+
+Tendo presente a elaboração da Estratégia Cidades Sustentáveis 2020, documento que visa reforçar o contributo da estruturação urbana do território nacional e da melhoria da qualidade de vida das populações em meio urbano no contexto do desenvolvimento territorial do país.
+
+Atendendo à necessidade de promover a coesão territorial do País através de uma estratégia assente no desenvolvimento e geração de riqueza e emprego no interior do País, mediante a potenciação, a valorização e a fixação de valor dos recursos próprios de cada espaço do território nacional e que a "afirmação do interior" como fator central do desenvolvimento económico e da coesão territorial consubstancia um dos objetivos prioritários do Programa do XXI Governo Constitucional, tendo a [Resolução do Conselho de Ministros n.º 3/2016](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-2016-73268683), de 22 de janeiro, criado a Unidade de Missão para a Valorização do Interior, cujos resultados devem ser espelhados nas opções estratégicas nacionais constantes do PNPOT.
+
+Atendendo ao triplo desígnio do Programa Nacional de Reformas até 2020, designadamente, mais crescimento, melhor emprego e maior igualdade, no que se articula com a política de ordenamento do território e com a estratégia de desenvolvimento territorial.
+
+Considerando que é objetivo do Governo implementar políticas com vista a «valorizar o território», pilar fundamental do Programa de Governo, e que para tal se impõe colocar o ordenamento do território e o planeamento rural e urbano ao serviço do desenvolvimento territorial, desígnio a ser concretizado em articulação com todas as políticas públicas.
+
+Não esquecendo que é necessário e urgente integrar estes dois domínios, que têm de estar perfeitamente sintonizados e em interdependência, promovendo, por esta via, um verdadeiro planeamento estratégico do desenvolvimento e uma eficaz operacionalização do mesmo.
+
+Considerando que a política de ordenamento do território deve ser o espaço de encontro e coordenação da expressão espacial das diferentes políticas sectoriais, numa perspetiva de definição estratégica da ocupação do território, à luz do modelo de desenvolvimento adotado, da conceção do sistema urbano, da localização das principais infraestruturas e da promoção das necessárias articulações entre as redes e equipamentos estruturantes da gestão territorial, salvaguardando os recursos e os valores naturais, bem como os sistemas indispensáveis à utilização sustentável do território.
+
+Considerando que, na ótica da estruturação do sistema urbano, devem privilegiar-se intervenções integradas focalizadas nas seguintes áreas:
+
+i) Fortalecimento do papel das duas áreas metropolitanas do país na estruturação do sistema urbano nacional, respondendo aos desafios particulares que estes territórios enfrentam ao nível da coesão social e da atratividade das áreas urbanas de incidência, e ainda implementando estratégias de baixa emissão de carbono, incluindo a promoção da mobilidade urbana sustentável, medidas para melhorar a qualidade do ambiente urbano, para a prevenção e gestão de riscos e para a adaptação às alterações climáticas;
+
+ii) Desenvolvimento de uma política de promoção da regeneração e reabilitação urbana focalizada nos centros urbanos de nível superior a merecer definição nos instrumentos de gestão territorial a macro escala: o PNPOT e os programas regionais de ordenamento do território que estruturam o sistema urbano nacional.
+
+Considerando o impulso que se pretende conferir à reabilitação urbana, constituindo uma das prioridades das políticas públicas de ordenamento do território e do urbanismo a existência de cidades dinâmicas, sustentáveis, social e culturalmente integradas, bem como o favorecimento das ações de reabilitação do edificado e a requalificação das áreas urbanas, com simplificação dos respetivos procedimentos.
+
+Considerando que a recente reforma legislativa das matérias relativas ao território, nas vertentes do solo, do ordenamento do território e do urbanismo, consubstanciada na Lei de Bases Gerais da Política Pública de Solos, de Ordenamento do Território e de Urbanismo, no Regime Jurídico dos Instrumentos de Gestão Territorial e no Regime Jurídico da Urbanização e da Edificação, procedeu à alteração de paradigmas instituídos e envolveu a articulação de regimes jurídicos sectoriais, aconselhando a revisitação das opções de desenvolvimento territorial.
+
+Considerando a necessidade de dispor de um documento estratégico que deverá servir de referência para a elaboração da segunda geração dos planos regionais de ordenamento do território.
+
+Considerando o disposto no n.º 1 do artigo 50.º da [Lei n.º 31/2014](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), de 30 de maio, e no n.º 1 do artigo 116.º do Regime Jurídico dos Instrumentos de Gestão Territorial, que estabelecem que os programas territoriais são objeto de revisão ou alteração face à evolução ou reponderação das condições económicas, sociais, culturais e ambientais subjacentes à sua elaboração.
+
+Atendendo a que se mantêm no essencial os objetivos e orientações estratégicas do atual PNPOT, não se justificando a revisão dos princípios que subjazem ao modelo territorial preconizado, mas que se revela necessário e oportuno promover a atualização do programa.
+
+Considerando que esta atualização deve enfatizar a natureza programática do PNPOT e dar resposta às conclusões da avaliação efetuada, conferindo especial atenção ao Acordo de Paris, de dezembro de 2015, sobre Alterações Climáticas, aos princípios orientadores resultantes do atual ciclo de programação estratégica, aos objetivos da política de planeamento e execução de grandes infraestruturas, aos objetivos da política pública de solos, ordenamento do território e urbanismo, às variáveis demográficas e socioeconómicas mais recentes, às linhas estratégicas de proteção e salvaguarda do litoral bem como aos instrumentos estratégicos de política de ordenamento e de gestão do espaço marítimo nacional, nomeadamente a Estratégia Nacional para o Mar, de prevenção de riscos e de valorização do interior, de forma a formatar um PNPOT que tome em conta as novas realidades territoriais e a política europeia de desenvolvimento e coesão territorial.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Determinar a alteração do Programa Nacional da Política de Ordenamento do Território, abreviadamente designado por PNPOT, incidindo em particular na elaboração de um novo Programa de Ação a 10 anos e de um novo regime de gestão, acompanhamento e monitorização.
+
+2 - Determinar que o programa de ação do PNPOT, para além da prossecução das orientações estratégicas de base territorial e do modelo territorial estabelecido pelo relatório do PNPOT, deverá:
+
+a) Estabelecer critérios de base territorial, fundamentados em parâmetros de coesão e desenvolvimento territorial, que constituam referencial para o planeamento e programação das políticas sectoriais e prossecução dos seus interesses específicos;
+
+b) Assegurar a coerência com a programação operacional dos Fundos Europeus Estruturais e de Investimento do atual e de um próximo ciclo de planeamento;
+
+c) Promover uma abordagem integrada do território que permita superar as visões estritamente sectoriais e potenciar coerências e complementaridades funcionais, bem como racionalizar o uso e aproveitamento dos recursos territoriais, resolvendo ou mitigando potenciais conflitos de interesses;
+
+d) Relevar a «afirmação do interior» como fator central do desenvolvimento económico e da coesão territorial através de uma estratégia assente no desenvolvimento e geração de riqueza e emprego no interior do país mediante a potenciação, valorização e fixação de valor dos recursos próprios do território nacional;
+
+e) Promover o reforço do sistema urbano nacional, fortalecendo o papel das áreas metropolitanas e das cidades de média dimensão na competitividade e coesão territorial;
+
+f) Alicerçar o planeamento e a programação das redes de infraestruturas, equipamentos e serviços coletivos de interesse geral em critérios articulados de eficiência e equidade territorial e na estruturação dada pelo Sistema Urbano Nacional, promovendo soluções integradas e espacialmente equilibradas das funções urbanas;
+
+g) Investir numa política de promoção da regeneração e requalificação urbana focalizada nos centros urbanos estruturantes e na resposta aos desafios de desenvolvimento urbano sustentável;
+
+h) Afirmar a especialização inteligente como vetor de recuperação económica, enquadrada no potencial de desenvolvimento endógeno do território, mediante utilização e desenvolvimento das vantagens das tecnologias de informação e de comunicação bem como do recurso a novos fatores de produção, designadamente do mar, da floresta e dos recursos minerais;
+
+i) Reforçar e promover as linhas estratégicas de proteção e salvaguarda do litoral e investir numa estratégia de ordenamento e de gestão articulada que atente à valorização do espaço marítimo nacional e contribua para o desenvolvimento sustentável do país;
+
+j) Assegurar a avaliação e a gestão preventiva de riscos naturais, tecnológicos e mistos na definição das opções de organização territorial e promover a adoção de medidas de minimização e mitigação dos riscos, no contexto de uma estratégia nacional integrada;
+
+k) Assegurar o funcionamento de instrumentos de monitorização regular e de avaliação de resultados e estabelecer o quadro para a prestação sistemática de informação padronizada de base setorial, de base local e de base regional;
+
+l) Adequar as diretrizes para os programas e planos territoriais às necessidades atuais, atento o nível de maturidade do sistema de gestão territorial, os instrumentos entretanto aprovados, bem como a revisão do quadro legislativo da política de ordenamento do território e do urbanismo realizada.
+
+3 - Incumbir a Direção-Geral do Território (DGT) de promover a elaboração da alteração do PNPOT.
+
+4 - Determinar que a alteração do PNPOT é apoiada por um sistema de pontos focais que integra representantes das Regiões Autónomas dos Açores e da Madeira, das Comissões de Coordenação e Desenvolvimento Regional, da Unidade de Missão para a Valorização do Interior, dos órgãos de acompanhamento das dinâmicas regionais dos Programas Operacionais e das entidades e serviços da Administração Pública com atribuições relevantes nas áreas das finanças, indústria, energia, turismo, comércio, mar, agricultura, desenvolvimento rural e florestas, património natural e conservação da natureza e da biodiversidade, pescas, administração portuária, transportes, comunicações, património arquitetónico e arqueológico, recursos geológicos, educação, cultura, saúde, justiça, desporto, segurança, proteção civil, e defesa nacional, bem como entidades com quaisquer outros interesses a salvaguardar.
+
+5 - Estabelecer que os pontos focais referidos no número anterior são designados por despacho dos ministros competentes em razão da matéria, a proferir no prazo máximo de 15 dias após a publicação da presente resolução.
+
+6 - Determinar que a alteração do PNPOT é acompanhada por uma comissão consultiva, composta por um representante das seguintes entidades:
+
+a) Associação Nacional de Municípios Portugueses;
+
+b) Associação Nacional de Freguesias;
+
+c) Confederação da Indústria Portuguesa;
+
+d) Confederação do Comércio e Serviços de Portugal;
+
+e) Associação Empresarial de Portugal;
+
+f) Confederação dos Agricultores de Portugal;
+
+g) Confederação Nacional da Agricultura;
+
+h) Confederação do Turismo Português;
+
+i) Confederação Geral dos Trabalhadores Portugueses;
+
+j) União Geral de Trabalhadores;
+
+k) Federação Portuguesa da Indústria da Construção e Obras Públicas;
+
+l) Ordem dos Arquitetos;
+
+m) Ordem dos Engenheiros;
+
+n) Associação dos Urbanistas Portugueses;
+
+o) Associação Portuguesa de Arquitetos Paisagistas;
+
+p) Associação Profissional dos Arqueólogos;
+
+q) Associação Portuguesa de Geógrafos;
+
+r) Associação Portuguesa de Geólogos;
+
+s) Confederação Portuguesa das Associações de Defesa do Ambiente.
+
+7 - Estabelecer que compete à DGT convocar e presidir às reuniões da comissão consultiva, bem como solicitar às entidades nela representadas a apresentação de propostas, sugestões ou recomendações.
+
+8 - Determinar que a DGT promove a realização de reuniões com todas ou algumas das entidades integrantes da comissão consultiva, bem como com as do sistema de pontos focais, as quais devem prestar, de forma atempada, toda a colaboração e informação necessárias ao bom desenvolvimento dos trabalhos.
+
+9 - Estabelecer que a DGT promove a articulação dos trabalhos com as demais entidades que, não integrando o sistema de pontos focais, contribuam para a prossecução das orientações constantes no n.º 2.
+
+10 - Determinar que os trabalhos técnicos de alteração do PNPOT iniciam-se imediatamente após a entrada em vigor da presente resolução e devem estar concluídos no prazo de 12 meses.
+
+11 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros, 8 de junho de 2016. - O Primeiro-Ministro, António Luís Santos da Costa.

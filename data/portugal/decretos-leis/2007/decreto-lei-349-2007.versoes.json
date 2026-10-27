@@ -1,0 +1,670 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:629134:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-201046258",
+ "dre_path": "/dr/detalhe/decreto-lei/349-2007-629134",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-10-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "205690587",
+    "201046159",
+    "201046160",
+    "201046161",
+    "201046162",
+    "201046163",
+    "201046164",
+    "201046165",
+    "201046166",
+    "201046167",
+    "201046168",
+    "201046169",
+    "201046170",
+    "201046171",
+    "201046172",
+    "201046173",
+    "201046174",
+    "201056375",
+    "201056376",
+    "201056377",
+    "201056378",
+    "201056379",
+    "201056380",
+    "201056381",
+    "201056383",
+    "201056384",
+    "201056385",
+    "201056386"
+   ]
+  },
+  {
+   "date": "2011-06-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:670027:por",
+     "title": "Decreto-Lei n.º 79/2011",
+     "published": "2011-06-20",
+     "dre_path": "/dr/detalhe/decreto-lei/79-2011-670027"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "201046158",
+    "201046159",
+    "201046160",
+    "201046161",
+    "201046162",
+    "201046163",
+    "201046164",
+    "201046165",
+    "201046166",
+    "201056387",
+    "201046168",
+    "201046169",
+    "201046170",
+    "201046171",
+    "201046172",
+    "201046173",
+    "201046174",
+    "201056375",
+    "201056376",
+    "201056377",
+    "201056378",
+    "201056379",
+    "201056380",
+    "201056381",
+    "201056382",
+    "201056383",
+    "201056384",
+    "201056385",
+    "201056386"
+   ]
+  },
+  {
+   "date": "2023-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:200907657:por",
+     "title": "Decreto-Lei n.º 59/2022",
+     "published": "2022-09-13",
+     "dre_path": "/dr/detalhe/decreto-lei/59-2022-200907657"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "205690587",
+    "205690588",
+    "205690589",
+    "205690590",
+    "205690591",
+    "205690592",
+    "205690593",
+    "205690594",
+    "205690595",
+    "205690596",
+    "205690597",
+    "205690598",
+    "205690599",
+    "205690600",
+    "205690601",
+    "205690602",
+    "205690603",
+    "205690604",
+    "205690605",
+    "205690606",
+    "205690607",
+    "205690608",
+    "205690609",
+    "205690610",
+    "205690611",
+    "205690612",
+    "205690613",
+    "205690614",
+    "205690615"
+   ]
+  }
+ ],
+ "fragments": {
+  "205690587": {
+   "fragment_id": "201046259",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-01-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 349/2007\n\nde 19 de Outubro\n\nA produção de animais da espécie bovina ocupa um lugar muito importante na agricultura da União Europeia, sendo que o alcance de resultados satisfatórios nesse domíno encontra-se dependente da utilização de animais reprodutores de raça pura.\n\nO crescimento da produtividade neste sector depende em boa parte da liberalização das trocas intracomunitárias de reprodutores de raça pura, tendo esta sido iniciada com a publicação da Directiva n.º <a href=\"eurlex.asp?ano=1977&id=377L0504\" title=\"Link para Directiva da Comunidade Europeia\">77/504/CEE</a>, do Conselho, de 25 de Julho, que diz respeito aos animais da espécie bovina reprodutores de raça pura, a qual foi alterada pelas Directivas n.os <a href=\"eurlex.asp?ano=1979&id=379L0268\" title=\"Link para Directiva da Comunidade Europeia\">79/268/CEE</a>, do Conselho, de 5 de Março, <a href=\"eurlex.asp?ano=1985&id=385L0586\" title=\"Link para Directiva da Comunidade Europeia\">85/586/CEE</a>, do Conselho, de 20 de Dezembro, <a href=\"eurlex.asp?ano=1991&id=391L0174\" title=\"Link para Directiva da Comunidade Europeia\">91/174/CEE</a>, do Conselho, de 25 de Março, e <a href=\"eurlex.asp?ano=1994&id=394L0028\" title=\"Link para Directiva da Comunidade Europeia\">94/28/CE</a>, do Conselho, de 23 de Junho, bem como pelos Regulamentos (CE) n.os <a href=\"eurlex.asp?ano=1985&id=385R3768\" title=\"Link para Regulamento da Comunidade Europeia\">3768/85</a>, do Conselho, de 20 de Dezembro, e <a href=\"eurlex.asp?ano=2003&id=303R0807\" title=\"Link para Regulamento da Comunidade Europeia\">807/2003</a>, do Conselho, de 14 de Abril.\n\nContudo, a liberalização total das trocas intracomunitárias de reprodutores de raça pura pressupõe a harmonização das regras no que diz respeito à admissão à reprodução, a qual foi prosseguida com a publicação da Directiva n.º <a href=\"eurlex.asp?ano=1987&id=387L0328\" title=\"Link para Directiva da Comunidade Europeia\">87/328/CEE</a>, do Conselho, de 18 de Junho.\n\nOs mencionados diplomas comunitários e as respectivas alterações encontram-se transpostos para a ordem jurídica nacional através dos Decretos-Leis n.os 403/89, de 11 de Novembro, e 46/98, de 3 de Março, bem como das Portarias n.os 1055/89, de 6 de Dezembro, e 119/94, de 24 de Fevereiro.\n\nFoi entretanto publicada a Directiva n.º <a href=\"eurlex.asp?ano=2005&id=305L0024\" title=\"Link para Directiva da Comunidade Europeia\">2005/24/CE</a>, do Conselho, de 14 de Março, que altera a Directiva n.º <a href=\"eurlex.asp?ano=1987&id=387L0328\" title=\"Link para Directiva da Comunidade Europeia\">87/328/CEE</a>, a qual importa agora transpor para a ordem jurídica interna.\n\nO presente decreto-lei adopta ainda as normas constantes das Decisões n.os <a href=\"eurlex.asp?ano=1984&id=384D0247\" title=\"Link para Decisão da Comunidade Europeia\">84/247/CEE</a>, da Comissão, de 27 de Abril, que determina os critérios de reconhecimento das organizações e associações de criadores que criem ou mantenham livros genealógicos para bovinos reprodutores de raça pura, <a href=\"eurlex.asp?ano=1984&id=384D0419\" title=\"Link para Decisão da Comunidade Europeia\">84/419/CEE</a>, da Comissão, de 19 de Julho, que determina os critérios de inscrição dos bovinos nos livros genealógicos, <a href=\"eurlex.asp?ano=1986&id=386D0404\" title=\"Link para Decisão da Comunidade Europeia\">86/404/CEE</a>, da Comissão, de 29 de Junho, que estabelece o modelo e os dados a inscrever no certificado genealógico dos animais da espécie bovina reprodutores de raça pura, <a href=\"eurlex.asp?ano=1988&id=388D0124\" title=\"Link para Decisão da Comunidade Europeia\">88/124/CEE</a>, de Comissão, de 21 de Janeiro, que estabelece os modelos dos certificados genealógicos do esperma e dos óvulos fecundados dos animais reprodutores de raça pura da espécie bovina e as menções que deles devem constar, com a última redacção que lhe foi dada pela Decisão n.º <a href=\"eurlex.asp?ano=2002&id=302D0008\" title=\"Link para Decisão da Comunidade Europeia\">2002/8/CE</a>, da Comissão, de 28 de Dezembro, <a href=\"eurlex.asp?ano=1996&id=396D0080\" title=\"Link para Decisão da Comunidade Europeia\">96/80/CE</a>, da Comissão, de 12 de Janeiro, que estabelece o modelo do certificado genealógico relativo aos óvulos de bovinos reprodutores e as informações a fornecer no referido certificado com a última redacção que lhe foi dada pela Decisão n.º <a href=\"eurlex.asp?ano=2002&id=302D0008\" title=\"Link para Decisão da Comunidade Europeia\">2002/8/CE</a>, da Comissão, de 28 de Dezembro, e, finalmente, <a href=\"eurlex.asp?ano=2006&id=306D0427\" title=\"Link para Decisão da Comunidade Europeia\">2006/427/CE</a>, da Comissão, de 20 de Junho, que fixa os métodos de controlo do rendimento e de apreciação do valor genético dos reprodutores de raça pura da espécie bovina.\n\nAproveita-se, assim, para reunir num só diploma todas as normas respeitantes às trocas intracomunitárias de bovinos reprodutores de raça pura.\n\nO presente decreto-lei aprova as normas relativas às trocas intracomunitárias e à importação de animais da espécie bovina reprodutores de raça pura e respectivos produtos, procedendo à transposição da Directiva n.º <a href=\"eurlex.asp?ano=2005&id=305L0024\" title=\"Link para Directiva da Comunidade Europeia\">2005/24/CE</a>, e revogando os Decretos-Leis n.os 403/89, de 11 de Novembro, e 46/98, de 3 de Março, que transpôs a Directiva n.º <a href=\"eurlex.asp?ano=1994&id=394L0028\" title=\"Link para Directiva da Comunidade Europeia\">94/28/CE</a>, do Conselho, de 23 de Junho, bem como as Portarias n.os 1055/89, de 6 de Dezembro, e 119/94, de 24 de Fevereiro.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "201046159": {
+   "fragment_id": "201046260",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "201046160": {
+   "fragment_id": "201046261",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei transpõe para a ordem juridica interna a Directiva n.º <a href=\"eurlex.asp?ano=2005&id=305L0024\" title=\"Link para Directiva da Comunidade Europeia\">2005/24/CE</a>, do Conselho, de 14 de Março, que altera a Directiva n.º <a href=\"eurlex.asp?ano=1987&id=387L0328\" title=\"Link para Directiva da Comunidade Europeia\">87/328/CEE</a> no que diz respeito aos centros de armazenagem de sémen e à utilização de óvulos e embriões provenientes de reprodutores de raça pura da espécie bovina, e procede à consolidação da transposição da Directiva n.º <a href=\"eurlex.asp?ano=1994&id=394L0028\" title=\"Link para Directiva da Comunidade Europeia\">94/28/CE</a>, do Conselho, de 23 de Junho, que fixa os princípios relativos às condições zootécnicas e genealógicas aplicáveis às importações de animais, sémen, óvulos e embriões provenientes de países terceiros, e que altera a Directiva n.º <a href=\"eurlex.asp?ano=1977&id=377L0504\" title=\"Link para Directiva da Comunidade Europeia\">77/504/CEE</a>, que diz respeito aos animais da espécie bovina reprodutores de raça pura."
+  },
+  "201046161": {
+   "fragment_id": "201046262",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente decreto-lei, entende-se por:\n\na) «Bovino reprodutor de raça pura» qualquer animal da espécie bovina, incluindo os búfalos, cujos pais e avós estejam inscritos ou registados num livro genealógico da mesma raça e que, ele próprio, aí esteja inscrito ou registado e seja susceptível de aí ser inscrito;\n\nb) «Livro genealógico» qualquer livro, registo, ficheiro ou apoio informático mantido, quer por uma organização ou associação de criadores reconhecida oficialmente, no qual estão inscritos ou registados os bovinos reprodutores de raça pura de uma raça determinada com referência aos seus ascendentes."
+  },
+  "201046162": {
+   "fragment_id": "201046263",
+   "type": 1,
+   "heading": "Capítulo II — Animais da espécie bovina reprodutores de raça pura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Animais da espécie bovina reprodutores de raça pura"
+  },
+  "201046163": {
+   "fragment_id": "201046264",
+   "type": 11,
+   "heading": "Artigo 3.º — Importação de reprodutores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Importação de reprodutores\n\n1 - O presente decreto-lei é aplicável às importações de bovinos reprodutores de raça pura provenientes de países terceiros.\n\n2 - Os bovinos reprodutores de raça pura a que se refere o número anterior devem encontrar-se acompanhados dos seguintes documentos:\n\na) Certificado genealógico que comprove que estão inscritos ou registados no livro genealógico do país terceiro expedidor;\n\nb) Documento que comprove que os animais estão inscritos ou registados e susceptíveis de serem inscritos num livro genealógico na União Europeia."
+  },
+  "201046164": {
+   "fragment_id": "201046265",
+   "type": 11,
+   "heading": "Artigo 4.º — Inscrição nos livros genealógicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Inscrição nos livros genealógicos\n\n1 - Os critérios de inscrição nos livros geneológicos constam do anexo i do presente decreto-lei e que dele faz parte integrante.\n\n2 - As organizações ou associações de criadores reconhecidas oficialmente não podem recusar a inscrição, nos seus livros genealógicos, dos bovinos reprodutores de raça pura provenientes de outro Estado membro desde que aqueles preencham as condições a que se refere o número anterior."
+  },
+  "201046165": {
+   "fragment_id": "201046266",
+   "type": 11,
+   "heading": "Artigo 5.º — Certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Certificados\n\n1 - Os bovinos reprodutores de raça pura, bem como o esperma, os óvulos e embriões deles provenientes, são acompanhados, nas trocas intracomunitárias, por um certificado genealógico cujos modelos constam do anexo iv do presente decreto-lei e que dele faz parte integrante.\n\n2 - Os certificados genealógicos do esperma e dos embriões devem conter, em anexo, um documento relativo aos mesmos, cujo modelo consta do anexo iv."
+  },
+  "201046166": {
+   "fragment_id": "201046267",
+   "type": 11,
+   "heading": "Artigo 6.º — Métodos de controlo e critérios de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Métodos de controlo e critérios de avaliação\n\nOs métodos de controlo dos resultados e da apreciação do valor genético dos animais da espécie bovina constam do anexo iii do presente decreto-lei e que dele faz parte integrante."
+  },
+  "201046167": {
+   "fragment_id": "201046268",
+   "type": 11,
+   "heading": "Artigo 7.º — Reconhecimento das organizações e associações de criadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Reconhecimento das organizações e associações de criadores\n\n1 - As organizações ou associações de criadores que mantenham ou criem livros genealógicos devem solicitar o seu reconhecimento à Direcção-Geral de Veterinária (DGV), apresentando um requerimento, no serviço regional da DGV da área da sede da organização ou associação requerente, do qual constem, entre outros, os seguintes elementos:\n\na) Designação social e sede da requerente;\n\nb) Contactos telefónico e electrónico e fax da requerente.\n\n2 - O requerimento referido no número anterior deve ser ainda acompanhado dos seguintes documentos:\n\na) Título constitutivo da pessoa colectiva;\n\nb) Cópia dos estatutos.\n\n3 - No caso de se tratar de uma associação de criadores, se o acto de constituição e os estatutos da associação se encontrarem publicados em sítio da Internet de acesso público, regulado por portaria do Ministro da Justiça, os mesmos devem ser obtidos oficiosamente pela DGV.\n\n4 - A DGV reconhece as organizações ou associações de criadores que reúnam as condições fixadas no anexo ii do presente decreto-lei e que dele faz parte integrante.\n\n5 - O reconhecimento é retirado pela DGV quando as organizações ou associações de criadores deixem de reunir, de forma permanente, as condições fixadas no anexo ii.\n\n6 - O reconhecimento de uma nova organização para uma mesma raça pode ser recusado pela DGV se este puser em perigo a conservação da raça ou comprometer o programa zootécnico em curso para essa raça numa outra organização."
+  },
+  "201046168": {
+   "fragment_id": "201046269",
+   "type": 1,
+   "heading": "Capítulo III — Admissão à reprodução de bovinos reprodutores de raça pura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Admissão à reprodução de bovinos reprodutores de raça pura"
+  },
+  "201046169": {
+   "fragment_id": "201046270",
+   "type": 11,
+   "heading": "Artigo 8.º — Admissão de reprodutores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Admissão de reprodutores\n\n1 - São admitidos, para efeitos de testagem oficial, touros de raça pura ou o seu sémen dentro dos limites quantitativos necessários para a execução daqueles testes oficiais por parte de organismos ou associações acreditadas.\n\n2 - Podem ser admitidos à inseminação artificial touros de raça pura ou a utilização do respectivo sémen quando tais touros tenham sido admitidos à inseminação artificial num Estado membro com base em testes efectuados de acordo com o procedimento comunitariamente previsto.\n\n3 - Caso a aplicação dos números anteriores ocasione conflitos, nomeadamente no que diz respeito à interpretação dos resultados dos testes, os operadores podem solicitar o parecer de um perito à sua escolha."
+  },
+  "201046170": {
+   "fragment_id": "201046271",
+   "type": 11,
+   "heading": "Artigo 9.º — Identificação dos reprodutores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Identificação dos reprodutores\n\nA utilização dos touros de raça pura e do respectivo sémen depende de uma prévia identificação daqueles touros através da análise do grupo sanguíneo ou através de qualquer outro método aprovado comunitariamente."
+  },
+  "201046171": {
+   "fragment_id": "201046272",
+   "type": 11,
+   "heading": "Artigo 10.º — Trocas intracomunitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Trocas intracomunitárias\n\nNo que se refere às trocas intracomunitárias, o sémen referido no artigo 8.º é recolhido, tratado e armazenado em centros de colheita ou, se necessário, em centros de armazenagem aprovados nos termos do Decreto-Lei n.º 187/2004, de 7 de Agosto, que fixa as exigências de polícia sanitária aplicáveis às trocas comerciais intracomunitárias e às importações de sémen de animais de espécie bovina."
+  },
+  "201046172": {
+   "fragment_id": "201046273",
+   "type": 1,
+   "heading": "Capítulo IV — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regime sancionatório"
+  },
+  "201046173": {
+   "fragment_id": "201046274",
+   "type": 11,
+   "heading": "Artigo 11.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Fiscalização\n\nSem prejuízo da competência atribuída por lei a outras entidades, compete à DGV a fiscalização do cumprimento das normas do presente decreto-lei."
+  },
+  "201046174": {
+   "fragment_id": "201056275",
+   "type": 11,
+   "heading": "Artigo 12.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima no montante mínimo de (euro) 250 e máximo de (euro) 3740 ou de (euro) 44 890, consoante o agente seja pessoa singular ou colectiva:\n\na) A importação de bovinos reprodutores de raça pura sem os documentos mencionados no artigo 3.º;\n\nb) O incumprimento dos critérios de inscrição nos livros geneológicos a que se refere o n.º 1 do artigo 4.º;\n\nc) O incumprimento do disposto no n.º 2 do artigo 4.º;\n\nd) A circulação de bovinos reprodutores de raça pura, esperma, óvulos e embriões sem os documentos referidos no artigo 5.º;\n\ne) O incumprimento do disposto no artigo 10.º quanto à recolha, tratamento e armazenagem de sémen.\n\n2 - A negligência é punível, sendo os montantes das coimas referidos no número anterior reduzidos a metade."
+  },
+  "201056375": {
+   "fragment_id": "201056276",
+   "type": 11,
+   "heading": "Artigo 13.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Sanções acessórias\n\nConsoante a gravidade da contra-ordenação e a culpa do agente, podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:\n\na) Apreensão dos animais ou produtos animais;\n\nb) Interdição do exercício de uma profissão ou actividade cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participar em feiras ou mercados;\n\ne) Encerramento do estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\nf) Suspensão de autorizações, licenças e alvarás."
+  },
+  "201056376": {
+   "fragment_id": "201056277",
+   "type": 11,
+   "heading": "Artigo 14.º — Instrução e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Instrução e decisão\n\n1 - A aplicação das coimas e sanções acessórias compete ao director-geral de Veterinária.\n\n2 - A entidade que levantar o auto de notícia remete o mesmo, para instrução do competente processo, ao serviço regional da DGV da área da prática da infracção."
+  },
+  "201056377": {
+   "fragment_id": "201056278",
+   "type": 11,
+   "heading": "Artigo 15.º — Afectação do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Afectação do produto das coimas\n\n1 - O produto das coimas é distribuído da seguinte forma:\n\na) 10  % para a entidade que levantou o auto;\n\nb) 30  % para a DGV;\n\nc) 60  % para os cofres do Estado.\n\n2 - O produto das coimas cobradas nas Regiões Autónomas constitui receita própria destas."
+  },
+  "201056378": {
+   "fragment_id": "201056279",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "201056379": {
+   "fragment_id": "201056280",
+   "type": 11,
+   "heading": "Artigo 16.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regiões Autónomas\n\n1 - O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações que sejam introduzidas através de diploma regional adequado.\n\n2 - A execução administrativa do presente decreto-lei nas Regiões Autónomas dos Açores e da Madeira cabe aos serviços competentes das respectivas Administrações Regionais, sem prejuízo das competências atribuída à DGV, na qualidade de autoridade sanitária veterinária nacional."
+  },
+  "201056380": {
+   "fragment_id": "201056281",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Norma revogatória\n\nSão revogados os Decretos-Leis n.os 403/89, de 11 de Novembro, e 46/98, de 3 de Março, e as Portarias n.os 1055/89, de 6 de Dezembro, e 119/94, de 24 de Fevereiro."
+  },
+  "201056381": {
+   "fragment_id": "201056282",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "201056383": {
+   "fragment_id": "201056284",
+   "type": 14,
+   "heading": "Anexo I — Critérios para inscrição de bovinos nos livros genealógicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Critérios para inscrição de bovinos nos livros genealógicos\n\n1 - Inscreve-se na secção principal do livro genealógico de determinada raça um bovino que:\n\na) Seja descendente de pais e avós inscritos num livro genealógico da mesma raça;\n\nb) Seja identificado, na altura do nascimento, de acordo com as regras estabelecidas pelo livro onde vai ser inscrito;\n\nc) Possua filiação que obedeça às regras desse livro.\n\n2 - A secção principal do livro genealógico pode estar dividida em várias classes em função do mérito dos animais. Só os bovinos que obedeçam aos critérios do n.º 1 podem ser inscritos numa dessas classes.\n\n3 - Uma organização ou associação de criadores responsável pela manutenção de um livro genealógico pode decidir a inscrição de uma fêmea que não obedeça aos requisitos mencionados no n.º 1 numa outra secção anexa ao referido livro se:\n\na) For identificada de acordo com as regras estabelecidas pelo livro genealógico;\n\nb) Estiver de acordo com os padrões da raça;\n\nc) Obedecer aos critérios de rendimentos mínimos estabelecidos pelo livro genealógico.\n\n4 - As exigências mencionadas nas alíneas b) e c) do n.º 3 podem ser outras se a referida fêmea, ainda que pertencendo à raça em questão, não tiver origem conhecida ou se for resultante de um programa de cruzamento, aprovado pela organização ou associação responsável pelo livro genealógico.\n\n5 - Uma fêmea cuja mãe e avó materna estejam inscritas na secção anexa ao livro conforme o n.º 3 e cujo pai e os dois avós estejam registados na secção principal do livro de acordo com o disposto no n.º 1 deve ser considerada fêmea de raça pura e inscrita na secção principal do referido livro.\n\n6 - No caso de o livro prever várias classes na sua secção principal, um bovino proveniente de um outro Estado membro deve ser inscrito na classe do livro a cujos critérios obedece."
+  },
+  "201056384": {
+   "fragment_id": "201056285",
+   "type": 14,
+   "heading": "Anexo II — Condições para o reconhecimento das organizações e associações de criadores responsáveis pelos livros genealógicos dos bovinos reprodutores de raça pura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Condições para o reconhecimento das organizações e associações de criadores responsáveis pelos livros genealógicos dos bovinos reprodutores de raça pura\n\nPara serem reconhecidas, as organizações ou associações de criadores responsáveis pelos livros genealógicos devem:\n\n1) Dispor de personalidade jurídica;\n\n2) Satisfazer os controlos da autoridade competente no que respeita ao seguinte:\n\na) Eficácia do seu funcionamento;\n\nb) Capacidade de controlo das genealogias;\n\nc) Posse de um efectivo de animais suficiente para realizar um programa de melhoramento ou para assegurar a conservação da raça desde que isso seja considerado necessário;\n\nd) Capacidade de utilizar os dados relativos às características zootécnicas necessárias à realização do programa de melhoramento ou de conservação da raça;\n\n3) Ter estabelecido disposições relativas:\n\na) À definição das características da raça (ou raças);\n\nb) Ao sistema de identificação dos animais;\n\nc) Ao sistema de registo das genealogias;\n\nd) À definição dos objectivos a alcançar;\n\ne) Ao sistema de utilização dos dados zootécnicos;\n\nf) À divisão do livro genealógico, se houver várias modalidades de inscrição ou se existirem várias modalidades de classificação dos animais;\n\n4) Dispor de um regulamento interno, adoptado de acordo com os estatutos, prevendo, particularmente, a ausência de discriminação dos seus aderentes."
+  },
+  "201056385": {
+   "fragment_id": "201056286",
+   "type": 14,
+   "heading": "Anexo III — Métodos de controlo do rendimento e de apreciação do valor genético dos reprodutores de raça pura da espécie bovina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Métodos de controlo do rendimento e de apreciação do valor genético dos reprodutores de raça pura da espécie bovina\n\nI - Objecto. - A DGV aprova os organismos responsáveis pelo estabelecimento das normas relativas ao registo do desempenho e à avaliação genética, bem como pela publicação dos resultados da avaliação dos bovinos reprodutores de raça pura.\n\nAqueles organismos devem fornecer uma descrição dos métodos de registo, do modelo utilizado na descrição da performance (desempenho), do método de análise estatística e dos parâmetros genéticos utilizados na avaliação de cada um dos caracteres.\n\nII - Registo do desempenho. - Todos os dados devem ser registados sob a responsabiliade do organismo aprovado.\n\n1 - Caracteres ligados à produção de carne:\n\na) Teste de desempenho individual e ou da descendência, em estação:\n\ni) Devem indicar-se o método utilizado e o número de animais testados;\n\nii) O protocolo do teste deve especificar, nomeadamente, o seguinte:\n\nCondições de admissão na estação;\n\nSe for caso disso, o comportamento dos animais na exploração antes da sua entrada na estação;\n\nIdentidade do proprietário dos animais sujeitos a testes individuais de desempenho;\n\nIdade máxima dos animais a testar aquando da sua entrada na estação e leque de idades dos animais contemporâneos na estação;\n\nTipo de regime alimentar e sistema de alimentação;\n\niii) Caracteres registados - devem registar-se pelo menos o aumento do peso vivo e o desenvolvimento muscular (conformação muscular) e, se possível, outros parâmetros tais como o índice de conversão dos alimentos e características da carcaça. As unidades especializadas podem ser utilizadas como estações, sob a responsabilidade do organismo aprovado;\n\nb) Controlo de performances no terreno (na exploração) - os métodos de controlo e de validação dos resultados devem ser fornecidos pelos organismos aprovados. Devem ser registados pelo menos o peso vivo e a idade e ainda outras características eventualmente disponíveis, tais como a conformação muscular;\n\nc) Controlo baseado em dados provenientes de inquéritos às explorações, aos locais de venda ou aos matadouros - os dados pertinentes relativos ao peso vivo e ao peso da carcaça, ao preço de venda, à categoria da carcaça segundo a grelha comunitária de classificação de carcaças e à qualidade da carne, caso existam, devem ser registados.\n\n2 - Registo da produção de leite - o registo de dados relativos à produção leiteira deve ser feito em conformidade com os princípios aprovados pelos organismos internacionais competentes (por exemplo, o Comité Internacional para o Controlo da Produtividade Animal - ICAR).\n\n3 - Reprodução (caracteres secundários) - a avaliação da fertilidade, da aptidão para o parto e da longevidade deve ser feita com base nos dados relativos à fecundação (por exemplo, percentagem de fêmeas que não apresentam retorno de cio), à facilidade de parto e à idade funcional (por exemplo, stayability - índice de sobrevivência dos descendentes fêmeas até uma idade determinada - , idade à reforma, duração da vida produtiva), respectivamente.\n\n4 - Avaliação morfológica (tipo) - no caso de ser utilizada, a classificação morfológica deve ser efectuada por meio de um sistema de registo aprovado.\n\nIII - Avaliação genética. - 1 - Princípios - a avaliação genética dos reprodutores deve ser feita sob a responsabilidade dos organismos aprovados e incluir os seguintes caracteres, em função dos objectivos da selecção:\n\nCaracterísticas leiteiras para os animais de raças de aptidão «leite»;\n\nCaracterísticas ligadas à produção de carne para os animais de raças de aptidão «carne»;\n\nCaracterísticas leiteiras e ligadas à produção de carne para os animais de aptidão mista.\n\nAlém disso, é recomendada a inclusão, na avaliação genética das características ligadas à reprodução e das características morfológicas, nas raças em que estes caracteres são registados.\n\nO valor genético de um animal é estimado com base nos desempenhos do próprio indivíduo e ou dos seus parentes.\n\nOs métodos estatísticos utilizados na avaliação genética devem obedecer aos princípios aprovados por organismos internacionais competentes (por exemplo, ICAR) e garantir uma avaliação genética não distorcida por influência dos principais factores ambientais ou pela estrutura dos dados.\n\nA fiabilidade da apreciação genética é dada pelo coeficiente de determinação, de acordo com os princípios aprovados por organismos internacionais competentes (por exemplo, ICAR). Tanto a fiabilidade como a data da avaliação devem acompanhar os resultados da avaliação aquando da respectiva publicação.\n\nAs particularidades e os defeitos genéticos definidos pelos organismos oficialmente habilitados para proceder à determinação destes caracteres, de comum acordo com as organizações ou associações de criadores reconhecidas em conformidade com o presente decreto-lei, devem ser publicados.\n\n2 - Avaliação genética dos touros a utilizar na inseminação artificial - os touros devem ser submetidos a uma avaliação genética para as características obrigatórias, devendo ser publicados os respectivos valores genéticos. Devem igualmente ser publicados outros valores genéticos eventualmente disponíveis.\n\nAs presentes disposições não se aplicam às raças ameaçadas de extinção.\n\na) Avaliação genética de touros a utilizar na inseminação artificial com base nas características leiteiras\n\nA avaliação genética dos caracteres leiteiros deve incluir a quantidade e composição (teor de matéria gorda e de proteínas) do leite produzido, bem como outros dados pertinentes para a apreciação da aptidão genética para a produção de leite.\n\nA fiabilidade mínima da avaliação genética dos touros de raças leiteiras para inseminação artificial deve ser, pelo menos, de 0,5 para os caracteres principais de produção, tendo em conta todas as informações relativas aos parentes, em conformidade com os princípios do ICAR.\n\nb) Avaliação genética de touros a utilizar na inseminação artificial com base nas características ligadas à produção de carne\n\nA avaliação genética destes touros deve basear-se num dos seguintes métodos de teste de desempenho:\n\ni) Teste de desempenho individual em estação;\n\nii) Teste dos descendentes e ou colaterais em estação ou em unidades especializadas;\n\niii) Teste dos descendentes e ou colaterais em explorações, devendo os descendentes ser distribuídos pelos efectivos de forma que seja possível fazer uma comparação válida entre os touros;\n\niv) Testes dos descendentes e ou colaterais através da colheita de dados em explorações, locais de venda e matadouros, de forma a permitir uma comparação válida dos touros.\n\nO peso da carcaça e, se for caso disso, a qualidade da carne, o crescimento e a aptidão para o parto, bem como qualquer outro carácter de interesse, devem, caso sejam registados, ser incluídos na avaliação genética do touro."
+  },
+  "201056386": {
+   "fragment_id": "201056287",
+   "type": 14,
+   "heading": "Anexo IV — Modelos de certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Modelos de certificados\n\n(ver documento original)"
+  },
+  "201046158": {
+   "fragment_id": "201046259",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 349/2007\n\nde 19 de Outubro\n\nA produção de animais da espécie bovina ocupa um lugar muito importante na agricultura da União Europeia, sendo que o alcance de resultados satisfatórios nesse domíno encontra-se dependente da utilização de animais reprodutores de raça pura.\n\nO crescimento da produtividade neste sector depende em boa parte da liberalização das trocas intracomunitárias de reprodutores de raça pura, tendo esta sido iniciada com a publicação da Directiva n.º <a href=\"eurlex.asp?ano=1977&id=377L0504\" title=\"Link para Directiva da Comunidade Europeia\">77/504/CEE</a>, do Conselho, de 25 de Julho, que diz respeito aos animais da espécie bovina reprodutores de raça pura, a qual foi alterada pelas Directivas n.os <a href=\"eurlex.asp?ano=1979&id=379L0268\" title=\"Link para Directiva da Comunidade Europeia\">79/268/CEE</a>, do Conselho, de 5 de Março, <a href=\"eurlex.asp?ano=1985&id=385L0586\" title=\"Link para Directiva da Comunidade Europeia\">85/586/CEE</a>, do Conselho, de 20 de Dezembro, <a href=\"eurlex.asp?ano=1991&id=391L0174\" title=\"Link para Directiva da Comunidade Europeia\">91/174/CEE</a>, do Conselho, de 25 de Março, e <a href=\"eurlex.asp?ano=1994&id=394L0028\" title=\"Link para Directiva da Comunidade Europeia\">94/28/CE</a>, do Conselho, de 23 de Junho, bem como pelos Regulamentos (CE) n.os <a href=\"eurlex.asp?ano=1985&id=385R3768\" title=\"Link para Regulamento da Comunidade Europeia\">3768/85</a>, do Conselho, de 20 de Dezembro, e <a href=\"eurlex.asp?ano=2003&id=303R0807\" title=\"Link para Regulamento da Comunidade Europeia\">807/2003</a>, do Conselho, de 14 de Abril.\n\nContudo, a liberalização total das trocas intracomunitárias de reprodutores de raça pura pressupõe a harmonização das regras no que diz respeito à admissão à reprodução, a qual foi prosseguida com a publicação da Directiva n.º <a href=\"eurlex.asp?ano=1987&id=387L0328\" title=\"Link para Directiva da Comunidade Europeia\">87/328/CEE</a>, do Conselho, de 18 de Junho.\n\nOs mencionados diplomas comunitários e as respectivas alterações encontram-se transpostos para a ordem jurídica nacional através dos Decretos-Leis n.os 403/89, de 11 de Novembro, e 46/98, de 3 de Março, bem como das Portarias n.os 1055/89, de 6 de Dezembro, e 119/94, de 24 de Fevereiro.\n\nFoi entretanto publicada a Directiva n.º <a href=\"eurlex.asp?ano=2005&id=305L0024\" title=\"Link para Directiva da Comunidade Europeia\">2005/24/CE</a>, do Conselho, de 14 de Março, que altera a Directiva n.º <a href=\"eurlex.asp?ano=1987&id=387L0328\" title=\"Link para Directiva da Comunidade Europeia\">87/328/CEE</a>, a qual importa agora transpor para a ordem jurídica interna.\n\nO presente decreto-lei adopta ainda as normas constantes das Decisões n.os <a href=\"eurlex.asp?ano=1984&id=384D0247\" title=\"Link para Decisão da Comunidade Europeia\">84/247/CEE</a>, da Comissão, de 27 de Abril, que determina os critérios de reconhecimento das organizações e associações de criadores que criem ou mantenham livros genealógicos para bovinos reprodutores de raça pura, <a href=\"eurlex.asp?ano=1984&id=384D0419\" title=\"Link para Decisão da Comunidade Europeia\">84/419/CEE</a>, da Comissão, de 19 de Julho, que determina os critérios de inscrição dos bovinos nos livros genealógicos, <a href=\"eurlex.asp?ano=1986&id=386D0404\" title=\"Link para Decisão da Comunidade Europeia\">86/404/CEE</a>, da Comissão, de 29 de Junho, que estabelece o modelo e os dados a inscrever no certificado genealógico dos animais da espécie bovina reprodutores de raça pura, <a href=\"eurlex.asp?ano=1988&id=388D0124\" title=\"Link para Decisão da Comunidade Europeia\">88/124/CEE</a>, de Comissão, de 21 de Janeiro, que estabelece os modelos dos certificados genealógicos do esperma e dos óvulos fecundados dos animais reprodutores de raça pura da espécie bovina e as menções que deles devem constar, com a última redacção que lhe foi dada pela Decisão n.º <a href=\"eurlex.asp?ano=2002&id=302D0008\" title=\"Link para Decisão da Comunidade Europeia\">2002/8/CE</a>, da Comissão, de 28 de Dezembro, <a href=\"eurlex.asp?ano=1996&id=396D0080\" title=\"Link para Decisão da Comunidade Europeia\">96/80/CE</a>, da Comissão, de 12 de Janeiro, que estabelece o modelo do certificado genealógico relativo aos óvulos de bovinos reprodutores e as informações a fornecer no referido certificado com a última redacção que lhe foi dada pela Decisão n.º <a href=\"eurlex.asp?ano=2002&id=302D0008\" title=\"Link para Decisão da Comunidade Europeia\">2002/8/CE</a>, da Comissão, de 28 de Dezembro, e, finalmente, <a href=\"eurlex.asp?ano=2006&id=306D0427\" title=\"Link para Decisão da Comunidade Europeia\">2006/427/CE</a>, da Comissão, de 20 de Junho, que fixa os métodos de controlo do rendimento e de apreciação do valor genético dos reprodutores de raça pura da espécie bovina.\n\nAproveita-se, assim, para reunir num só diploma todas as normas respeitantes às trocas intracomunitárias de bovinos reprodutores de raça pura.\n\nO presente decreto-lei aprova as normas relativas às trocas intracomunitárias e à importação de animais da espécie bovina reprodutores de raça pura e respectivos produtos, procedendo à transposição da Directiva n.º <a href=\"eurlex.asp?ano=2005&id=305L0024\" title=\"Link para Directiva da Comunidade Europeia\">2005/24/CE</a>, e revogando os Decretos-Leis n.os 403/89, de 11 de Novembro, e 46/98, de 3 de Março, que transpôs a Directiva n.º <a href=\"eurlex.asp?ano=1994&id=394L0028\" title=\"Link para Directiva da Comunidade Europeia\">94/28/CE</a>, do Conselho, de 23 de Junho, bem como as Portarias n.os 1055/89, de 6 de Dezembro, e 119/94, de 24 de Fevereiro.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "201056387": {
+   "fragment_id": "201046268",
+   "type": 11,
+   "heading": "Artigo 7.º — Reconhecimento das organizações e associações de criadores",
+   "in_force_from": "2011-06-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 79/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2011-670027), em vigor a partir de 2011-06-25"
+   ],
+   "markdown": "###### Artigo 7.º — Reconhecimento das organizações e associações de criadores\n\n1 - As organizações ou associações de criadores que mantenham ou criem livros genealógicos devem solicitar o seu reconhecimento à Direcção-Geral de Veterinária (DGV), apresentando um requerimento, no serviço regional da DGV da área da sede da organização ou associação requerente, do qual constem, entre outros, os seguintes elementos:\n\na) Designação social e sede da requerente;\n\nb) Contactos telefónico e electrónico e fax da requerente.\n\n2 - O requerimento referido no número anterior deve ser ainda acompanhado dos seguintes documentos:\n\na) Título constitutivo da pessoa colectiva;\n\nb) Cópia dos estatutos.\n\n3 - No caso de se tratar de uma associação de criadores, se o acto de constituição e os estatutos da associação se encontrarem publicados em sítio da Internet de acesso público, regulado por portaria do Ministro da Justiça, os mesmos devem ser obtidos oficiosamente pela DGV.\n\n4 - A DGV reconhece as organizações ou associações de criadores que reúnam as condições fixadas no anexo ii do presente decreto-lei e que dele faz parte integrante.\n\n5 - O reconhecimento é retirado pela DGV quando as organizações ou associações de criadores deixem de reunir, de forma permanente, as condições fixadas no anexo ii.\n\n6 - O reconhecimento de uma nova organização para uma mesma raça pode ser recusado pela DGV se este puser em perigo a conservação da raça ou comprometer o programa zootécnico em curso para essa raça numa outra organização.\n\n7 - Para efeitos de manutenção ou elaboração de livros genealógicos, a DGV deve aprovar e manter actualizada uma lista das organizações ou associações de criadores, reconhecidas nos termos do n.º 1, disponibilizando-a aos outros Estados membros e ao público.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 79/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2011-670027), em vigor a partir de 2011-06-25"
+  },
+  "201056382": {
+   "fragment_id": "201056283",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de Agosto de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Jaime de Jesus Lopes Silva.\n\nPromulgado em 4 de Outubro de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 8 de Outubro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "205690588": {
+   "fragment_id": "201046260",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+  },
+  "205690589": {
+   "fragment_id": "201046261",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei transpõe para a ordem juridica interna a Directiva n.º <a href=\"eurlex.asp?ano=2005&id=305L0024\" title=\"Link para Directiva da Comunidade Europeia\">2005/24/CE</a>, do Conselho, de 14 de Março, que altera a Directiva n.º <a href=\"eurlex.asp?ano=1987&id=387L0328\" title=\"Link para Directiva da Comunidade Europeia\">87/328/CEE</a> no que diz respeito aos centros de armazenagem de sémen e à utilização de óvulos e embriões provenientes de reprodutores de raça pura da espécie bovina, e procede à consolidação da transposição da Directiva n.º <a href=\"eurlex.asp?ano=1994&id=394L0028\" title=\"Link para Directiva da Comunidade Europeia\">94/28/CE</a>, do Conselho, de 23 de Junho, que fixa os princípios relativos às condições zootécnicas e genealógicas aplicáveis às importações de animais, sémen, óvulos e embriões provenientes de países terceiros, e que altera a Directiva n.º <a href=\"eurlex.asp?ano=1977&id=377L0504\" title=\"Link para Directiva da Comunidade Europeia\">77/504/CEE</a>, que diz respeito aos animais da espécie bovina reprodutores de raça pura.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+  },
+  "205690590": {
+   "fragment_id": "201046262",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente decreto-lei, entende-se por:\n\na) «Bovino reprodutor de raça pura» qualquer animal da espécie bovina, incluindo os búfalos, cujos pais e avós estejam inscritos ou registados num livro genealógico da mesma raça e que, ele próprio, aí esteja inscrito ou registado e seja susceptível de aí ser inscrito;\n\nb) «Livro genealógico» qualquer livro, registo, ficheiro ou apoio informático mantido, quer por uma organização ou associação de criadores reconhecida oficialmente, no qual estão inscritos ou registados os bovinos reprodutores de raça pura de uma raça determinada com referência aos seus ascendentes.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+  },
+  "205690591": {
+   "fragment_id": "201046263",
+   "type": 1,
+   "heading": "Capítulo II — Animais da espécie bovina reprodutores de raça pura",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "### Capítulo II — Animais da espécie bovina reprodutores de raça pura\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+  },
+  "205690592": {
+   "fragment_id": "201046264",
+   "type": 11,
+   "heading": "Artigo 3.º — Importação de reprodutores",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Importação de reprodutores\n\n1 - O presente decreto-lei é aplicável às importações de bovinos reprodutores de raça pura provenientes de países terceiros.\n\n2 - Os bovinos reprodutores de raça pura a que se refere o número anterior devem encontrar-se acompanhados dos seguintes documentos:\n\na) Certificado genealógico que comprove que estão inscritos ou registados no livro genealógico do país terceiro expedidor;\n\nb) Documento que comprove que os animais estão inscritos ou registados e susceptíveis de serem inscritos num livro genealógico na União Europeia.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+  },
+  "205690593": {
+   "fragment_id": "201046265",
+   "type": 11,
+   "heading": "Artigo 4.º — Inscrição nos livros genealógicos",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Inscrição nos livros genealógicos\n\n1 - Os critérios de inscrição nos livros geneológicos constam do anexo i do presente decreto-lei e que dele faz parte integrante.\n\n2 - As organizações ou associações de criadores reconhecidas oficialmente não podem recusar a inscrição, nos seus livros genealógicos, dos bovinos reprodutores de raça pura provenientes de outro Estado membro desde que aqueles preencham as condições a que se refere o número anterior.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+  },
+  "205690594": {
+   "fragment_id": "201046266",
+   "type": 11,
+   "heading": "Artigo 5.º — Certificados",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Certificados\n\n1 - Os bovinos reprodutores de raça pura, bem como o esperma, os óvulos e embriões deles provenientes, são acompanhados, nas trocas intracomunitárias, por um certificado genealógico cujos modelos constam do anexo iv do presente decreto-lei e que dele faz parte integrante.\n\n2 - Os certificados genealógicos do esperma e dos embriões devem conter, em anexo, um documento relativo aos mesmos, cujo modelo consta do anexo iv.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+  },
+  "205690595": {
+   "fragment_id": "201046267",
+   "type": 11,
+   "heading": "Artigo 6.º — Métodos de controlo e critérios de avaliação",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Métodos de controlo e critérios de avaliação\n\nOs métodos de controlo dos resultados e da apreciação do valor genético dos animais da espécie bovina constam do anexo iii do presente decreto-lei e que dele faz parte integrante.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+  },
+  "205690596": {
+   "fragment_id": "201046268",
+   "type": 11,
+   "heading": "Artigo 7.º — Reconhecimento das organizações e associações de criadores",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 79/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2011-670027), em vigor a partir de 2011-06-25"
+   ],
+   "markdown": "###### Artigo 7.º — Reconhecimento das organizações e associações de criadores\n\n1 - As organizações ou associações de criadores que mantenham ou criem livros genealógicos devem solicitar o seu reconhecimento à Direcção-Geral de Veterinária (DGV), apresentando um requerimento, no serviço regional da DGV da área da sede da organização ou associação requerente, do qual constem, entre outros, os seguintes elementos:\n\na) Designação social e sede da requerente;\n\nb) Contactos telefónico e electrónico e fax da requerente.\n\n2 - O requerimento referido no número anterior deve ser ainda acompanhado dos seguintes documentos:\n\na) Título constitutivo da pessoa colectiva;\n\nb) Cópia dos estatutos.\n\n3 - No caso de se tratar de uma associação de criadores, se o acto de constituição e os estatutos da associação se encontrarem publicados em sítio da Internet de acesso público, regulado por portaria do Ministro da Justiça, os mesmos devem ser obtidos oficiosamente pela DGV.\n\n4 - A DGV reconhece as organizações ou associações de criadores que reúnam as condições fixadas no anexo ii do presente decreto-lei e que dele faz parte integrante.\n\n5 - O reconhecimento é retirado pela DGV quando as organizações ou associações de criadores deixem de reunir, de forma permanente, as condições fixadas no anexo ii.\n\n6 - O reconhecimento de uma nova organização para uma mesma raça pode ser recusado pela DGV se este puser em perigo a conservação da raça ou comprometer o programa zootécnico em curso para essa raça numa outra organização.\n\n7 - Para efeitos de manutenção ou elaboração de livros genealógicos, a DGV deve aprovar e manter actualizada uma lista das organizações ou associações de criadores, reconhecidas nos termos do n.º 1, disponibilizando-a aos outros Estados membros e ao público.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 79/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2011-670027), em vigor a partir de 2011-06-25"
+  },
+  "205690597": {
+   "fragment_id": "201046269",
+   "type": 1,
+   "heading": "Capítulo III — Admissão à reprodução de bovinos reprodutores de raça pura",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "### Capítulo III — Admissão à reprodução de bovinos reprodutores de raça pura\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+  },
+  "205690598": {
+   "fragment_id": "201046270",
+   "type": 11,
+   "heading": "Artigo 8.º — Admissão de reprodutores",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Admissão de reprodutores\n\n1 - São admitidos, para efeitos de testagem oficial, touros de raça pura ou o seu sémen dentro dos limites quantitativos necessários para a execução daqueles testes oficiais por parte de organismos ou associações acreditadas.\n\n2 - Podem ser admitidos à inseminação artificial touros de raça pura ou a utilização do respectivo sémen quando tais touros tenham sido admitidos à inseminação artificial num Estado membro com base em testes efectuados de acordo com o procedimento comunitariamente previsto.\n\n3 - Caso a aplicação dos números anteriores ocasione conflitos, nomeadamente no que diz respeito à interpretação dos resultados dos testes, os operadores podem solicitar o parecer de um perito à sua escolha.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+  },
+  "205690599": {
+   "fragment_id": "201046271",
+   "type": 11,
+   "heading": "Artigo 9.º — Identificação dos reprodutores",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Identificação dos reprodutores\n\nA utilização dos touros de raça pura e do respectivo sémen depende de uma prévia identificação daqueles touros através da análise do grupo sanguíneo ou através de qualquer outro método aprovado comunitariamente.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+  },
+  "205690600": {
+   "fragment_id": "201046272",
+   "type": 11,
+   "heading": "Artigo 10.º — Trocas intracomunitárias",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Trocas intracomunitárias\n\nNo que se refere às trocas intracomunitárias, o sémen referido no artigo 8.º é recolhido, tratado e armazenado em centros de colheita ou, se necessário, em centros de armazenagem aprovados nos termos do Decreto-Lei n.º 187/2004, de 7 de Agosto, que fixa as exigências de polícia sanitária aplicáveis às trocas comerciais intracomunitárias e às importações de sémen de animais de espécie bovina.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+  },
+  "205690601": {
+   "fragment_id": "201046273",
+   "type": 1,
+   "heading": "Capítulo IV — Regime sancionatório",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "### Capítulo IV — Regime sancionatório\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+  },
+  "205690602": {
+   "fragment_id": "201046274",
+   "type": 11,
+   "heading": "Artigo 11.º — Fiscalização",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Fiscalização\n\nSem prejuízo da competência atribuída por lei a outras entidades, compete à DGV a fiscalização do cumprimento das normas do presente decreto-lei.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+  },
+  "205690603": {
+   "fragment_id": "201056275",
+   "type": 11,
+   "heading": "Artigo 12.º — Contra-ordenações",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima no montante mínimo de (euro) 250 e máximo de (euro) 3740 ou de (euro) 44 890, consoante o agente seja pessoa singular ou colectiva:\n\na) A importação de bovinos reprodutores de raça pura sem os documentos mencionados no artigo 3.º;\n\nb) O incumprimento dos critérios de inscrição nos livros geneológicos a que se refere o n.º 1 do artigo 4.º;\n\nc) O incumprimento do disposto no n.º 2 do artigo 4.º;\n\nd) A circulação de bovinos reprodutores de raça pura, esperma, óvulos e embriões sem os documentos referidos no artigo 5.º;\n\ne) O incumprimento do disposto no artigo 10.º quanto à recolha, tratamento e armazenagem de sémen.\n\n2 - A negligência é punível, sendo os montantes das coimas referidos no número anterior reduzidos a metade.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+  },
+  "205690604": {
+   "fragment_id": "201056276",
+   "type": 11,
+   "heading": "Artigo 13.º — Sanções acessórias",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Sanções acessórias\n\nConsoante a gravidade da contra-ordenação e a culpa do agente, podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:\n\na) Apreensão dos animais ou produtos animais;\n\nb) Interdição do exercício de uma profissão ou actividade cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participar em feiras ou mercados;\n\ne) Encerramento do estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\nf) Suspensão de autorizações, licenças e alvarás.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+  },
+  "205690605": {
+   "fragment_id": "201056277",
+   "type": 11,
+   "heading": "Artigo 14.º — Instrução e decisão",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Instrução e decisão\n\n1 - A aplicação das coimas e sanções acessórias compete ao director-geral de Veterinária.\n\n2 - A entidade que levantar o auto de notícia remete o mesmo, para instrução do competente processo, ao serviço regional da DGV da área da prática da infracção.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+  },
+  "205690606": {
+   "fragment_id": "201056278",
+   "type": 11,
+   "heading": "Artigo 15.º — Afectação do produto das coimas",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Afectação do produto das coimas\n\n1 - O produto das coimas é distribuído da seguinte forma:\n\na) 10  % para a entidade que levantou o auto;\n\nb) 30  % para a DGV;\n\nc) 60  % para os cofres do Estado.\n\n2 - O produto das coimas cobradas nas Regiões Autónomas constitui receita própria destas.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+  },
+  "205690607": {
+   "fragment_id": "201056279",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "### Capítulo V — Disposições finais\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+  },
+  "205690608": {
+   "fragment_id": "201056280",
+   "type": 11,
+   "heading": "Artigo 16.º — Regiões Autónomas",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Regiões Autónomas\n\n1 - O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações que sejam introduzidas através de diploma regional adequado.\n\n2 - A execução administrativa do presente decreto-lei nas Regiões Autónomas dos Açores e da Madeira cabe aos serviços competentes das respectivas Administrações Regionais, sem prejuízo das competências atribuída à DGV, na qualidade de autoridade sanitária veterinária nacional.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+  },
+  "205690609": {
+   "fragment_id": "201056281",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma revogatória",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Norma revogatória\n\nSão revogados os Decretos-Leis n.os 403/89, de 11 de Novembro, e 46/98, de 3 de Março, e as Portarias n.os 1055/89, de 6 de Dezembro, e 119/94, de 24 de Fevereiro.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+  },
+  "205690610": {
+   "fragment_id": "201056282",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+  },
+  "205690611": {
+   "fragment_id": "201056283",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de Agosto de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Jaime de Jesus Lopes Silva.\n\nPromulgado em 4 de Outubro de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 8 de Outubro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+  },
+  "205690612": {
+   "fragment_id": "201056284",
+   "type": 14,
+   "heading": "Anexo I — Critérios para inscrição de bovinos nos livros genealógicos",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "## Anexo I — Critérios para inscrição de bovinos nos livros genealógicos\n\n1 - Inscreve-se na secção principal do livro genealógico de determinada raça um bovino que:\n\na) Seja descendente de pais e avós inscritos num livro genealógico da mesma raça;\n\nb) Seja identificado, na altura do nascimento, de acordo com as regras estabelecidas pelo livro onde vai ser inscrito;\n\nc) Possua filiação que obedeça às regras desse livro.\n\n2 - A secção principal do livro genealógico pode estar dividida em várias classes em função do mérito dos animais. Só os bovinos que obedeçam aos critérios do n.º 1 podem ser inscritos numa dessas classes.\n\n3 - Uma organização ou associação de criadores responsável pela manutenção de um livro genealógico pode decidir a inscrição de uma fêmea que não obedeça aos requisitos mencionados no n.º 1 numa outra secção anexa ao referido livro se:\n\na) For identificada de acordo com as regras estabelecidas pelo livro genealógico;\n\nb) Estiver de acordo com os padrões da raça;\n\nc) Obedecer aos critérios de rendimentos mínimos estabelecidos pelo livro genealógico.\n\n4 - As exigências mencionadas nas alíneas b) e c) do n.º 3 podem ser outras se a referida fêmea, ainda que pertencendo à raça em questão, não tiver origem conhecida ou se for resultante de um programa de cruzamento, aprovado pela organização ou associação responsável pelo livro genealógico.\n\n5 - Uma fêmea cuja mãe e avó materna estejam inscritas na secção anexa ao livro conforme o n.º 3 e cujo pai e os dois avós estejam registados na secção principal do livro de acordo com o disposto no n.º 1 deve ser considerada fêmea de raça pura e inscrita na secção principal do referido livro.\n\n6 - No caso de o livro prever várias classes na sua secção principal, um bovino proveniente de um outro Estado membro deve ser inscrito na classe do livro a cujos critérios obedece.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+  },
+  "205690613": {
+   "fragment_id": "201056285",
+   "type": 14,
+   "heading": "Anexo II — Condições para o reconhecimento das organizações e associações de criadores responsáveis pelos livros genealógicos dos bovinos reprodutores de raça pura",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "## Anexo II — Condições para o reconhecimento das organizações e associações de criadores responsáveis pelos livros genealógicos dos bovinos reprodutores de raça pura\n\nPara serem reconhecidas, as organizações ou associações de criadores responsáveis pelos livros genealógicos devem:\n\n1) Dispor de personalidade jurídica;\n\n2) Satisfazer os controlos da autoridade competente no que respeita ao seguinte:\n\na) Eficácia do seu funcionamento;\n\nb) Capacidade de controlo das genealogias;\n\nc) Posse de um efectivo de animais suficiente para realizar um programa de melhoramento ou para assegurar a conservação da raça desde que isso seja considerado necessário;\n\nd) Capacidade de utilizar os dados relativos às características zootécnicas necessárias à realização do programa de melhoramento ou de conservação da raça;\n\n3) Ter estabelecido disposições relativas:\n\na) À definição das características da raça (ou raças);\n\nb) Ao sistema de identificação dos animais;\n\nc) Ao sistema de registo das genealogias;\n\nd) À definição dos objectivos a alcançar;\n\ne) Ao sistema de utilização dos dados zootécnicos;\n\nf) À divisão do livro genealógico, se houver várias modalidades de inscrição ou se existirem várias modalidades de classificação dos animais;\n\n4) Dispor de um regulamento interno, adoptado de acordo com os estatutos, prevendo, particularmente, a ausência de discriminação dos seus aderentes.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+  },
+  "205690614": {
+   "fragment_id": "201056286",
+   "type": 14,
+   "heading": "Anexo III — Métodos de controlo do rendimento e de apreciação do valor genético dos reprodutores de raça pura da espécie bovina",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "## Anexo III — Métodos de controlo do rendimento e de apreciação do valor genético dos reprodutores de raça pura da espécie bovina\n\nI - Objecto. - A DGV aprova os organismos responsáveis pelo estabelecimento das normas relativas ao registo do desempenho e à avaliação genética, bem como pela publicação dos resultados da avaliação dos bovinos reprodutores de raça pura.\n\nAqueles organismos devem fornecer uma descrição dos métodos de registo, do modelo utilizado na descrição da performance (desempenho), do método de análise estatística e dos parâmetros genéticos utilizados na avaliação de cada um dos caracteres.\n\nII - Registo do desempenho. - Todos os dados devem ser registados sob a responsabiliade do organismo aprovado.\n\n1 - Caracteres ligados à produção de carne:\n\na) Teste de desempenho individual e ou da descendência, em estação:\n\ni) Devem indicar-se o método utilizado e o número de animais testados;\n\nii) O protocolo do teste deve especificar, nomeadamente, o seguinte:\n\nCondições de admissão na estação;\n\nSe for caso disso, o comportamento dos animais na exploração antes da sua entrada na estação;\n\nIdentidade do proprietário dos animais sujeitos a testes individuais de desempenho;\n\nIdade máxima dos animais a testar aquando da sua entrada na estação e leque de idades dos animais contemporâneos na estação;\n\nTipo de regime alimentar e sistema de alimentação;\n\niii) Caracteres registados - devem registar-se pelo menos o aumento do peso vivo e o desenvolvimento muscular (conformação muscular) e, se possível, outros parâmetros tais como o índice de conversão dos alimentos e características da carcaça. As unidades especializadas podem ser utilizadas como estações, sob a responsabilidade do organismo aprovado;\n\nb) Controlo de performances no terreno (na exploração) - os métodos de controlo e de validação dos resultados devem ser fornecidos pelos organismos aprovados. Devem ser registados pelo menos o peso vivo e a idade e ainda outras características eventualmente disponíveis, tais como a conformação muscular;\n\nc) Controlo baseado em dados provenientes de inquéritos às explorações, aos locais de venda ou aos matadouros - os dados pertinentes relativos ao peso vivo e ao peso da carcaça, ao preço de venda, à categoria da carcaça segundo a grelha comunitária de classificação de carcaças e à qualidade da carne, caso existam, devem ser registados.\n\n2 - Registo da produção de leite - o registo de dados relativos à produção leiteira deve ser feito em conformidade com os princípios aprovados pelos organismos internacionais competentes (por exemplo, o Comité Internacional para o Controlo da Produtividade Animal - ICAR).\n\n3 - Reprodução (caracteres secundários) - a avaliação da fertilidade, da aptidão para o parto e da longevidade deve ser feita com base nos dados relativos à fecundação (por exemplo, percentagem de fêmeas que não apresentam retorno de cio), à facilidade de parto e à idade funcional (por exemplo, stayability - índice de sobrevivência dos descendentes fêmeas até uma idade determinada - , idade à reforma, duração da vida produtiva), respectivamente.\n\n4 - Avaliação morfológica (tipo) - no caso de ser utilizada, a classificação morfológica deve ser efectuada por meio de um sistema de registo aprovado.\n\nIII - Avaliação genética. - 1 - Princípios - a avaliação genética dos reprodutores deve ser feita sob a responsabilidade dos organismos aprovados e incluir os seguintes caracteres, em função dos objectivos da selecção:\n\nCaracterísticas leiteiras para os animais de raças de aptidão «leite»;\n\nCaracterísticas ligadas à produção de carne para os animais de raças de aptidão «carne»;\n\nCaracterísticas leiteiras e ligadas à produção de carne para os animais de aptidão mista.\n\nAlém disso, é recomendada a inclusão, na avaliação genética das características ligadas à reprodução e das características morfológicas, nas raças em que estes caracteres são registados.\n\nO valor genético de um animal é estimado com base nos desempenhos do próprio indivíduo e ou dos seus parentes.\n\nOs métodos estatísticos utilizados na avaliação genética devem obedecer aos princípios aprovados por organismos internacionais competentes (por exemplo, ICAR) e garantir uma avaliação genética não distorcida por influência dos principais factores ambientais ou pela estrutura dos dados.\n\nA fiabilidade da apreciação genética é dada pelo coeficiente de determinação, de acordo com os princípios aprovados por organismos internacionais competentes (por exemplo, ICAR). Tanto a fiabilidade como a data da avaliação devem acompanhar os resultados da avaliação aquando da respectiva publicação.\n\nAs particularidades e os defeitos genéticos definidos pelos organismos oficialmente habilitados para proceder à determinação destes caracteres, de comum acordo com as organizações ou associações de criadores reconhecidas em conformidade com o presente decreto-lei, devem ser publicados.\n\n2 - Avaliação genética dos touros a utilizar na inseminação artificial - os touros devem ser submetidos a uma avaliação genética para as características obrigatórias, devendo ser publicados os respectivos valores genéticos. Devem igualmente ser publicados outros valores genéticos eventualmente disponíveis.\n\nAs presentes disposições não se aplicam às raças ameaçadas de extinção.\n\na) Avaliação genética de touros a utilizar na inseminação artificial com base nas características leiteiras\n\nA avaliação genética dos caracteres leiteiros deve incluir a quantidade e composição (teor de matéria gorda e de proteínas) do leite produzido, bem como outros dados pertinentes para a apreciação da aptidão genética para a produção de leite.\n\nA fiabilidade mínima da avaliação genética dos touros de raças leiteiras para inseminação artificial deve ser, pelo menos, de 0,5 para os caracteres principais de produção, tendo em conta todas as informações relativas aos parentes, em conformidade com os princípios do ICAR.\n\nb) Avaliação genética de touros a utilizar na inseminação artificial com base nas características ligadas à produção de carne\n\nA avaliação genética destes touros deve basear-se num dos seguintes métodos de teste de desempenho:\n\ni) Teste de desempenho individual em estação;\n\nii) Teste dos descendentes e ou colaterais em estação ou em unidades especializadas;\n\niii) Teste dos descendentes e ou colaterais em explorações, devendo os descendentes ser distribuídos pelos efectivos de forma que seja possível fazer uma comparação válida entre os touros;\n\niv) Testes dos descendentes e ou colaterais através da colheita de dados em explorações, locais de venda e matadouros, de forma a permitir uma comparação válida dos touros.\n\nO peso da carcaça e, se for caso disso, a qualidade da carne, o crescimento e a aptidão para o parto, bem como qualquer outro carácter de interesse, devem, caso sejam registados, ser incluídos na avaliação genética do touro.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+  },
+  "205690615": {
+   "fragment_id": "201056287",
+   "type": 14,
+   "heading": "Anexo IV — Modelos de certificados",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "## Anexo IV — Modelos de certificados\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 59/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2022-200907657), em vigor a partir de 2023-01-01"
+  }
+ }
+}

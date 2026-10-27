@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:608074:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2005-984972441",
+ "dre_path": "/dr/detalhe/aviso/51-2005-608074",
+ "source_lastmod": "2026-06-18",
+ "versions": [
+  {
+   "date": "2005-02-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1134004175",
+    "985181975"
+   ]
+  }
+ ],
+ "fragments": {
+  "1134004175": {
+   "fragment_id": "985181675",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por ordem superior se torna público que o Governo da República Portuguesa depositou, em 25 de Junho de 2004, o seu instrumento de aceitação relativo às Emendas à Convenção da Organização Marítima Internacional, adoptadas pela Assembleia da Organização em 7 de Novembro de 1991.\n\nAs Emendas à Convenção da Organização Marítima Internacional foram aprovadas pelo Decreto n.º 10/94, publicado no Diário da República, 1.ª série-A, n.º 58, de 10 de Março de 1994."
+  },
+  "985181975": {
+   "fragment_id": "985181875",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Direcção-Geral dos Assuntos Multilaterais, 2 de Fevereiro de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício."
+  }
+ }
+}

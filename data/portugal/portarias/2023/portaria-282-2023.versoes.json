@@ -1,0 +1,278 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:221642378:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-225096011",
+ "dre_path": "/dr/detalhe/portaria/282-2023-221642378",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2023-09-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "225028411",
+    "225028412",
+    "225028413",
+    "225028414",
+    "225028415",
+    "225028416",
+    "225028417",
+    "225028418",
+    "225028419",
+    "225028420",
+    "225028421",
+    "225028422",
+    "225028423",
+    "225028424",
+    "225028425",
+    "225028426",
+    "225028427",
+    "225028428",
+    "225028429"
+   ]
+  },
+  {
+   "date": "2023-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:225044394:por",
+     "title": "Portaria n.º 399/2023",
+     "published": "2023-11-30",
+     "dre_path": "/dr/detalhe/portaria/399-2023-225044394"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "225028411",
+    "225028412",
+    "225028413",
+    "225028437",
+    "225028438",
+    "225028416",
+    "225028417",
+    "225028418",
+    "225028439",
+    "225028420",
+    "225028421",
+    "225028422",
+    "225028423",
+    "225028424",
+    "225028440",
+    "225028426",
+    "225028427",
+    "225028428",
+    "225028429",
+    "225028430"
+   ]
+  }
+ ],
+ "fragments": {
+  "225028411": {
+   "fragment_id": "225096012",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 282/2023\n\nde 14 de setembro\n\nSumário: Cria o «Programa Qualifica Indústria», dirigido a micro, pequenas e médias empresas (PME) dos setores industriais, destinado a apoiar processos de qualificação e requalificação de trabalhadores, prevenindo desemprego futuro.\n\nO XXIII Governo Constitucional assumiu como compromisso e prioridade fazer da aprendizagem ao longo da vida um desígnio para esta década, traduzindo essa orientação na integração da dimensão da formação profissional e da qualificação nos instrumentos estratégicos de planeamento e execução das políticas públicas em diferentes áreas setoriais, designadamente na área de energia, digital, da economia verde, como bem evidenciou o Livro Verde sobre o Futuro Trabalho.\n\nDe facto, a prioridade atribuída à formação profissional foi reforçada com a meta europeia do Plano de Ação do Pilar Europeu dos Direitos Sociais, endossada na Cimeira Social do Porto 2021, de, até 2030, os países da União Europeia abrangerem anualmente 60 % dos adultos entre os 25 e os 64 anos de idade em ações de aprendizagem ao longo da vida.\n\nA formação profissional e a qualificação constituem para as pessoas, para as empresas e para o País fatores indeclináveis no âmbito da promoção e sustentabilidade do crescimento económico e do desenvolvimento humano e social, assumindo cada vez maior centralidade nas economias e sociedades contemporâneas.\n\nO Acordo sobre «Formação profissional e qualificação: Um desígnio estratégico para as pessoas, para as empresas e para o País», assinado em sede de Comissão Permanente de Concertação Social em julho de 2021, veio criar condições para que a formação profissional, em particular a certificada, possa reforçar o seu potencial enquanto instrumento de incremento da competitividade dos setores e empresas e das oportunidades das pessoas, promovendo em simultâneo o alinhamento com as necessidades das empresas e dos setores e a capitalização nos percursos de qualificação individuais, melhorando os níveis de empregabilidade.\n\nVerifica-se que, hoje, de um modo transversal, a sociedade portuguesa confronta-se com um problema de carência de mão-de-obra especializada, o que condiciona a qualificação, a especialização e a inovação da oferta. Paralelamente, assiste-se, igualmente, ao risco de potenciais situações de desemprego futuro por via dos impactos destas transições e da consequente obsolescência das competências que obriga a um cuidado particular para que estas transições sejam justas e não deixem ninguém para trás. Isto obriga a uma ação de valorização e requalificação dos trabalhadores, mitigando esses riscos e promovendo a sua empregabilidade e adequabilidade às necessidades do mercado. Estas realidades obrigam, igualmente, a ações consistentes que proporcionem atração de novos talentos, sem os quais será difícil à indústria promover dinâmicas de modernização organizativa, tecnológica e ainda a introdução intensiva de ferramentas da economia digital, essenciais à competitividade.\n\nNestes termos, está criado o quadro para, em períodos em que as empresas do setor verifiquem um decréscimo da atividade produtiva resultante de condições de mercado, imprevistas e fora da sua esfera de atuação, implementar projetos de formação setoriais extraordinários e transitórios, que em si mesmos contribuam para a modernização do setor industrial nas suas várias vertentes e das empresas, aumentando as competências profissionais dos seus trabalhadores.\n\nForam ouvidos os parceiros sociais com assento na Comissão Permanente da Concertação Social.\n\nAssim:\n\nNos termos do disposto na alínea f) do n.º 1 e na alínea b) do n.º 6 do artigo 9.º do Decreto-Lei n.º 396/2007, de 31 de dezembro, na sua atual redação, e das alíneas b) e j) do n.º 2 do artigo 3.º do Decreto-Lei n.º 13/2015, de 26 de janeiro, manda o Governo, pelo Secretário de Estado do Trabalho, no uso da competência delegada pelo Despacho n.º 7910/2022, de 21 de junho, da Ministra do Trabalho, Solidariedade e Segurança Social, publicado no Diário da República, 2.ª série, n.º 123, de 28 de junho de 2022, o seguinte:"
+  },
+  "225028412": {
+   "fragment_id": "225096013",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\nA presente portaria cria o «Programa Qualifica Indústria», que define os termos e as condições de atribuição de um apoio extraordinário e transitório à qualificação e requalificação dos trabalhadores das micro, pequenas e médias empresas (PME) dos setores industriais, para poderem fazer face a alterações súbitas de mercado, adiante designado por «Programa»."
+  },
+  "225028413": {
+   "fragment_id": "225096014",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nSão objetivos deste Programa:\n\na) Contribuir para a melhoria das qualificações dos trabalhadores das empresas dos setores industriais, enquanto fator de desenvolvimento profissional, (re)qualificação e melhoria da respetiva empregabilidade;\n\nb) Prevenir o risco de desemprego e promover a manutenção dos postos de trabalho;\n\nc) Contribuir para a melhoria da produtividade e da competitividade das empresas e da economia."
+  },
+  "225028414": {
+   "fragment_id": "225096015",
+   "type": 11,
+   "heading": "Artigo 3.º — Requisitos de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisitos de acesso\n\n1 - Para aceder ao presente Programa, a entidade empregadora deve:\n\na) Ser uma empresa do setor industrial;\n\nb) Ser micro, pequena e média empresa (PME), certificada nos termos do disposto no Decreto-Lei n.º 372/2007, de 6 de novembro, na sua redação atual;\n\nc) Ter, comprovadamente, à data da candidatura, as situações contributiva e tributária regularizadas perante a segurança social (SS) e a Autoridade Tributária e Aduaneira (AT);\n\nd) Registar um decréscimo extraordinário do número de encomendas e, subsequentemente, uma quebra de faturação igual ou superior a 25 %, num só trimestre, entre o terceiro mês anterior e o terceiro mês posterior ao da apresentação da candidatura ou ao início da ação de formação, quando comparado com o período homólogo do ano anterior.\n\ne) Não se encontrar em situação de incumprimento no que respeita a apoios financeiros concedidos pelo IEFP, I. P.;\n\nf) Ter a situação regularizada em matéria de restituições no âmbito dos financiamentos dos Fundos Europeus Estruturais e de Investimento;\n\ng) Não ter pagamentos de salários em atraso;\n\nh) Não ter sido condenada em processo-crime ou contraordenacional grave ou muito grave por violação de legislação de trabalho, nomeadamente sobre discriminação no trabalho e no acesso ao emprego, nos últimos três anos, salvo se da sanção aplicada no âmbito desse processo resultar prazo superior, caso em que se aplica este último;\n\ni) Não ter procedido a despedimentos, exceto por facto imputável ao trabalhador, nos últimos três meses contados da data de submissão da candidatura;\n\nj) Não proceder à contratação de novos trabalhadores ou prestadores de serviços, nem recorrer a trabalho suplementar nem a trabalho temporário para as funções desempenhadas pelos trabalhadores que estejam abrangidos pelo Programa.\n\n2 - Sem prejuízo do disposto na alínea b) do número anterior, poderão excecionalmente aceder ao Programa Grandes Empresas desde que dentro dos limites de dotação definidos para estas empresas em sede de aviso."
+  },
+  "225028415": {
+   "fragment_id": "225096016",
+   "type": 11,
+   "heading": "Artigo 4.º — Apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Apoios\n\n1 - Os apoios a atribuir traduzem-se numa subvenção não reembolsável, para fazer face aos encargos com os custos salariais e com os custos de formação, nos termos indicados nos números seguintes.\n\n2 - O mecanismo a adotar é o do regime de custos simplificados, na modalidade de tabela normalizada de custos unitários, conforme a alínea c) do n.º 2 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e a alínea b) do n.º 1 do artigo 67.º do Regulamento (EU) n.º 1303/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro, ambos na sua atual redação.\n\n3 - A taxa de financiamento deve ter em conta a aplicação das taxas de auxílios de Estado previstas no n.º 4 do artigo 31.º do Regulamento (UE) n.º 651/2014 da Comissão, de 16 de junho, na sua atual redação, concretamente a taxa base de incentivo de 50 %, acrescida de uma das majorações a seguir indicadas, não podendo a taxa global ultrapassar 70 %:\n\na) Majoração em 10 p. p. se a formação for dada a trabalhadores com deficiência ou desfavorecidos;\n\nb) Majoração em 10 p. p. se o incentivo for concedido a médias empresas e de 20 p. p. se for concedido a micro e pequenas empresas.\n\n4 - Os custos totais de formação a considerar resultam da soma de:\n\na) Um custo unitário, no valor de 7,12 (euro), por cada formando e por hora de formação (custo unitário 1 - CtU1), para apoiar todos os custos elegíveis da formação, com exceção dos custos relativos aos encargos salariais dos formandos;\n\nb) Um custo unitário, no valor de 7,50 (euro), por cada formando e por hora de formação (custo unitário 2 - CtU2), para apoiar os custos com salários e respetivas contribuições sociais obrigatórias.\n\n5 - O apoio a conceder resulta da aplicação das seguintes fórmulas, por ação de formação:\n\nVF = número de formandos x número de horas de formação\n\nCE = (VF x CtU1) + (VF x CtU2)\n\nIncentivo = CE x taxa de incentivo\n\n6 - Para efeitos do número anterior, VF é o volume de formação e CE é o custo elegível.\n\n7 - O apoio referido neste artigo destina-se a um máximo de 200 horas de formação por trabalhador, sendo o cálculo do montante global a aprovar por candidatura o que resultar da aplicação do disposto nos números anteriores, face ao volume de formação apresentado em sede de candidatura."
+  },
+  "225028416": {
+   "fragment_id": "225096017",
+   "type": 11,
+   "heading": "Artigo 5.º — Plano de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Plano de formação\n\n1 - O plano de formação deve, designadamente:\n\na) Contribuir para a melhoria efetiva das competências profissionais dos trabalhadores, preferencialmente aumentando o seu nível de qualificação;\n\nb) Ser construído com recurso à formação certificada, modular ou contínua, podendo, contudo, integrar até 75 % das horas totais de formação extra-Catálogo;\n\nc) Abranger até 200 horas de formação por trabalhador a realizar no horário de trabalho, e permitir a integração em dias completos de formação, rentabilizando paragens de produção associadas ao decréscimo da atividade produtiva da empresa;\n\nd) Abranger, pelo menos, duas semanas contínuas de formação.\n\n2 - A formação pode ser ministrada de modo presencial, misto ou à distância (b-learning ou e-learning), consoante se considere mais adequado e estejam reunidas as condições necessárias para o efeito.\n\n3 - As horas de formação previstas no Plano de Formação não são contabilizadas para efeito de cumprimento da obrigação de promoção de formação contínua obrigatória, prevista no artigo 131.º do Código do Trabalho."
+  },
+  "225028417": {
+   "fragment_id": "225096018",
+   "type": 11,
+   "heading": "Artigo 6.º — Entidades formadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entidades formadoras\n\nA formação no âmbito do Programa é desenvolvida pelas seguintes entidades formadoras:\n\na) Centros de gestão direta e centros de gestão participada da rede de centros do IEFP, I. P.;\n\nb) Associações de empregadores e empresariais, de âmbito setorial, regional e nacional, e empresas da indústria, devidamente certificadas como entidades formadoras certificadas pela Direção-Geral do Emprego e das Relações de Trabalho (DGERT)."
+  },
+  "225028418": {
+   "fragment_id": "225096019",
+   "type": 11,
+   "heading": "Artigo 7.º — Formadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Formadores\n\n1 - Podem ser formadores no âmbito do Programa os detentores de certificados de competências pedagógicas (CCP) ou equivalente, ou os que dele estejam isentos, e sejam detentores de competência técnica e experiência profissional adequada às matérias ou conteúdos a ministrar, em função dos domínios de formação em que intervêm, nos termos do disposto na Portaria n.º 214/2011, de 30 de maio, na sua redação atual.\n\n2 - A título excecional e considerando a especificidade associada à indústria transformadora, o IEFP, I. P., pode autorizar o exercício da atividade de formador a profissionais que possuam especial qualificação académica ou profissional, nos termos previstos na Portaria n.º 214/2011, de 30 de maio, na sua redação atual."
+  },
+  "225028419": {
+   "fragment_id": "225096020",
+   "type": 11,
+   "heading": "Artigo 8.º — Regime de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regime de candidatura\n\n1 - Podem apresentar candidatura a projetos de formação as entidades empregadoras previstas no artigo 3.º, diretamente ou através das respetivas associações representativas de empregadores e empresariais, de âmbito setorial, regional e nacional.\n\n2 - Sem prejuízo do disposto no número anterior, as empresas e as associações empresariais, de âmbito setorial, regional e nacional que não sejam entidades formadoras certificadas podem apresentar candidatura, solicitando ao IEFP, I. P., que, através da sua rede de centros, proceda à organização e realização dos planos formativos.\n\n3 - Compete ao IEFP, I. P., promover a abertura de concursos por setor, mediante publicação de avisos, face a necessidades extraordinárias e transitórias verificadas na indústria.\n\n4 - O Programa adota um regime de candidatura aberta pelo período de vigência aí estabelecido e as candidaturas são aprovadas até ao limite da dotação orçamental prevista no aviso.\n\n5 - Cada entidade empregadora pode apresentar candidatura até ao número máximo de 100 trabalhadores, por empresa.\n\n6 - Compete ao IEFP, I. P., definir os respetivos procedimentos de candidatura, incluindo os critérios de avaliação, bem como proceder à sua instrução, análise e decisão, de acordo com os critérios a estabelecer em sede de aviso.\n\n7 - A contratualização dos apoios concedidos é realizada entre o IEFP, I. P., e a entidade que titula a candidatura, nos termos a definir em sede de aviso."
+  },
+  "225028420": {
+   "fragment_id": "225096021",
+   "type": 11,
+   "heading": "Artigo 9.º — Registo da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Registo da informação\n\n1 - As entidades formadoras que desenvolvam ações de formação ao abrigo do Programa devem assegurar o registo da informação relativa às ações de formação ministradas, em respeito pelos normativos em vigor, nomeadamente através do Sistema Integrado da Oferta Formativa (SIGO).\n\n2 - O registo das ações de formação ministradas, efetuado nos termos do número anterior, quando aplicável, releva para efeitos de obtenção de qualificação que integre o Catálogo Nacional de Qualificações."
+  },
+  "225028421": {
+   "fragment_id": "225096022",
+   "type": 11,
+   "heading": "Artigo 10.º — Cumulação de apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cumulação de apoios\n\nNão podem ser atribuídos os apoios financeiros previstos no âmbito do presente Programa nas seguintes situações:\n\na) Quando a formação alvo do apoio já seja objeto de financiamento público ou comunitário;\n\nb) Quando o contrato de trabalho atual do trabalhador abrangido pelo Programa tenha sido objeto de financiamento público ou comunitário nos últimos 12 meses."
+  },
+  "225028422": {
+   "fragment_id": "225096023",
+   "type": 11,
+   "heading": "Artigo 11.º — Suspensão do Programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Suspensão do Programa\n\n1 - Caso cesse a situação de decréscimo do número de encomendas e quebra de faturação, conforme definido na alínea d) do n.º 1 do artigo 3.º, em momento posterior à apresentação da candidatura ou no decurso do Programa, este deverá ser imediatamente suspenso, ficando as entidades empregadoras obrigadas a comunicar a suspensão ao IEFP, I. P.\n\n2 - Em caso de suspensão do Programa nos termos do número anterior, as horas de formação previstas no Plano de Formação que não tenham sido ministradas até à data da suspensão poderão ser ministradas até ao final do prazo do respetivo aviso, desde que a entidade empregadora volte a encontrar-se em situação de decréscimo do número de encomendas e quebra de faturação, conforme definido no artigo 1.º\n\n3 - Nas situações referidas no número anterior, é aplicável o disposto no n.º 2 do artigo 9.º"
+  },
+  "225028423": {
+   "fragment_id": "225096024",
+   "type": 11,
+   "heading": "Artigo 12.º — Incumprimento e restituição do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Incumprimento e restituição do apoio\n\n1 - O incumprimento por parte das entidades empregadoras ou das entidades previstas na alínea b) do artigo 6.º das obrigações previstas na presente portaria e no aviso aplicável implica a imediata cessação dos apoios e a restituição ao IEFP, I. P., dos montantes já recebidos, total ou parcialmente, nos termos a definir em sede de aviso.\n\n2 - Constituem situações de incumprimento, designadamente:\n\na) Despedimento, exceto por facto imputável ao trabalhador durante o período de execução do Programa;\n\nb) Não cumprimento pontual das obrigações retributivas aos trabalhadores;\n\nc) Não cumprimento, pelo empregador, das suas obrigações legais, fiscais ou contributivas;\n\nd) Incumprimento, pelo empregador, das obrigações assumidas em candidatura;\n\ne) Prestação de falsas declarações em sede de candidatura e durante a execução do Programa, nomeadamente sobre o decréscimo extraordinário do número de encomendas e a quebra de faturação.\n\n3 - Sem prejuízo do disposto no n.º 1, a prestação de falsas declarações para a obtenção dos apoios previstos na presente portaria pode configurar responsabilidade civil e criminal, nos termos legalmente aplicáveis.\n\n4 - Caso a restituição prevista nos números anteriores não seja efetuada, voluntariamente, no prazo fixado pelo IEFP, I. P., são devidos juros de mora à taxa legal em vigor, desde o fim desse prazo, nos termos do disposto no Decreto-Lei n.º 13/2015, de 26 de janeiro, podendo ser realizada cobrança coerciva nos termos da legislação em vigor."
+  },
+  "225028424": {
+   "fragment_id": "225096025",
+   "type": 11,
+   "heading": "Artigo 13.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Financiamento\n\nO presente Programa é passível de financiamento comunitário, sendo-lhe aplicável as respetivas disposições de direito comunitário e nacional."
+  },
+  "225028425": {
+   "fragment_id": "225096026",
+   "type": 11,
+   "heading": "Artigo 14.º — Auxílios de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Auxílios de Estado\n\nO apoio previsto no artigo 5.º é atribuído ao abrigo do regime de auxílios de Estado - auxílios à formação, nos termos do artigo 31.º do Regulamento (EU) n.º 651/2014 da Comissão, de 17 de junho de 2014, com as alterações dadas pelo Regulamento (EU) n.º 2017/1084 da Comissão, de 14 de junho de 2017."
+  },
+  "225028426": {
+   "fragment_id": "225096027",
+   "type": 11,
+   "heading": "Artigo 15.º — Regulamentação e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regulamentação e avaliação\n\n1 - O IEFP, I. P., é responsável pela elaboração dos avisos de abertura de candidaturas ao Programa.\n\n2 - As matérias que não se encontrem previstas nesta portaria ou no respetivo aviso regem-se pelos normativos específicos em vigor.\n\n3 - Os avisos são publicados no sítio institucional do IEFP, I. P., na Internet.\n\n4 - Os avisos estão sujeitos a homologação do membro do Governo responsável pela área governativa do trabalho.\n\n5 - O Programa é objeto de avaliação em sede da Comissão Permanente de Concertação Social, no prazo de um ano após a data de entrada em vigor da presente portaria."
+  },
+  "225028427": {
+   "fragment_id": "225096028",
+   "type": 11,
+   "heading": "Artigo 16.º — Acompanhamento, verificação e auditoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Acompanhamento, verificação e auditoria\n\nPara efeitos de cumprimento do disposto na presente portaria e demais regulamentação aplicável, podem ser realizadas ações de acompanhamento, de verificação, de auditoria ou de inspeção por parte dos serviços do IEFP, I. P., bem como por outras entidades com competências para o efeito."
+  },
+  "225028428": {
+   "fragment_id": "225096029",
+   "type": 11,
+   "heading": "Artigo 17.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Disposição transitória\n\nOs valores definidos no artigo 4.º podem ser atualizados a qualquer altura, por alteração superveniente da legislação de enquadramento, sendo aplicáveis às candidaturas que ainda não tenham sido objeto de decisão de aprovação."
+  },
+  "225028429": {
+   "fragment_id": "225096030",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos até 31 de dezembro de 2024."
+  },
+  "225028437": {
+   "fragment_id": "225096015",
+   "type": 11,
+   "heading": "Artigo 3.º — Requisitos de acesso",
+   "in_force_from": "2023-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 399/2023 - Diário da República n.º 232/2023, Série I de 2023-11-30](https://diariodarepublica.pt/dr/detalhe/portaria/399-2023-225044394), em vigor a partir de 2023-12-01"
+   ],
+   "markdown": "###### Artigo 3.º — Requisitos de acesso\n\n1 - Para aceder ao presente Programa, a entidade empregadora deve:\n\na) Ser uma empresa do setor industrial;\n\nb) Ser micro, pequena e média empresa (PME), certificada nos termos do disposto no Decreto-Lei n.º 372/2007, de 6 de novembro, na sua redação atual;\n\nc) Ter, comprovadamente, à data da candidatura, as situações contributiva e tributária regularizadas perante a segurança social (SS) e a Autoridade Tributária e Aduaneira (AT);\n\nd) Registar um decréscimo extraordinário do número de encomendas e, subsequentemente, uma quebra de faturação igual ou superior a 20 %, num só trimestre, entre o terceiro mês anterior e o terceiro mês posterior ao da apresentação da candidatura ou ao início da ação de formação, quando comparado com o período homólogo do ano anterior.\n\ne) Não se encontrar em situação de incumprimento no que respeita a apoios financeiros concedidos pelo IEFP, I. P.;\n\nf) Ter a situação regularizada em matéria de restituições no âmbito dos financiamentos dos Fundos Europeus Estruturais e de Investimento;\n\ng) Não ter pagamentos de salários em atraso;\n\nh) Não ter sido condenada em processo-crime ou contraordenacional grave ou muito grave por violação de legislação de trabalho, nomeadamente sobre discriminação no trabalho e no acesso ao emprego, nos últimos três anos, salvo se da sanção aplicada no âmbito desse processo resultar prazo superior, caso em que se aplica este último;\n\ni) Não ter procedido a despedimentos, exceto por facto imputável ao trabalhador, nos últimos três meses contados da data de submissão da candidatura;\n\nj) Não proceder à contratação de novos trabalhadores ou prestadores de serviços, nem recorrer a trabalho suplementar nem a trabalho temporário para as funções desempenhadas pelos trabalhadores que estejam abrangidos pelo Programa.\n\n2 - Sem prejuízo do disposto na alínea b) do número anterior, poderão aceder ao Programa Grandes Empresas desde que a respetiva candidatura não exceda o limite de 100 trabalhadores.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 399/2023 - Diário da República n.º 232/2023, Série I de 2023-11-30](https://diariodarepublica.pt/dr/detalhe/portaria/399-2023-225044394), em vigor a partir de 2023-12-01"
+  },
+  "225028438": {
+   "fragment_id": "225096016",
+   "type": 11,
+   "heading": "Artigo 4.º — Apoios",
+   "in_force_from": "2023-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 399/2023 - Diário da República n.º 232/2023, Série I de 2023-11-30](https://diariodarepublica.pt/dr/detalhe/portaria/399-2023-225044394), em vigor a partir de 2023-12-01"
+   ],
+   "markdown": "###### Artigo 4.º — Apoios\n\n1 - Os apoios a atribuir traduzem-se numa subvenção não reembolsável, para fazer face aos encargos com os custos salariais e subsídio de alimentação, e com os custos de formação, nos termos indicados nos números seguintes.\n\n2 - O mecanismo a adotar é o do regime de custos simplificados, na modalidade de tabela normalizada de custos unitários, conforme a alínea c) do n.º 2 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e a alínea b) do n.º 1 do artigo 67.º do Regulamento (EU) n.º 1303/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro, ambos na sua atual redação.\n\n3 - A taxa de financiamento deve ter em conta a aplicação das taxas de auxílios de Estado previstas no n.º 4 do artigo 31.º do Regulamento (UE) n.º 651/2014 da Comissão, de 16 de junho, na sua atual redação, concretamente a taxa base de incentivo de 50 %, acrescida de uma das majorações a seguir indicadas, não podendo a taxa global ultrapassar 70 %:\n\na) Majoração em 10 p. p. se a formação for dada a trabalhadores com deficiência ou desfavorecidos;\n\nb) Majoração em 10 p. p. se o incentivo for concedido a médias empresas e de 20 p. p. se for concedido a micro e pequenas empresas.\n\n4 - Os custos totais de formação a considerar resultam da soma de:\n\na) Um custo unitário, no valor de 7,12 (euro), por cada formando e por hora de formação (custo unitário 1 - CtU1), para apoiar todos os custos elegíveis da formação, com exceção dos custos relativos aos encargos salariais dos formandos;\n\nb) Um custo unitário, no valor de 7,50 (euro), por cada formando e por hora de formação (custo unitário 2 - CtU2), para apoiar os custos com salários e respetivas contribuições sociais obrigatórias.\n\n5 - O apoio a conceder resulta da aplicação das seguintes fórmulas, por ação de formação:\n\nVF = número de formandos x número de horas de formação\n\nCE = (VF x CtU1) + (VF x CtU2)\n\nIncentivo = CE x taxa de incentivo\n\n6 - Para efeitos do número anterior, VF é o volume de formação e CE é o custo elegível.\n\n7 - O apoio referido neste artigo destina-se a um máximo de 200 horas de formação por trabalhador, sendo o cálculo do montante global a aprovar por candidatura o que resultar da aplicação do disposto nos números anteriores, face ao volume de formação apresentado em sede de candidatura.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 399/2023 - Diário da República n.º 232/2023, Série I de 2023-11-30](https://diariodarepublica.pt/dr/detalhe/portaria/399-2023-225044394), em vigor a partir de 2023-12-01"
+  },
+  "225028439": {
+   "fragment_id": "225096020",
+   "type": 11,
+   "heading": "Artigo 8.º — Regime de candidatura",
+   "in_force_from": "2023-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 399/2023 - Diário da República n.º 232/2023, Série I de 2023-11-30](https://diariodarepublica.pt/dr/detalhe/portaria/399-2023-225044394), em vigor a partir de 2023-12-01"
+   ],
+   "markdown": "###### Artigo 8.º — Regime de candidatura\n\n1 - Podem apresentar candidatura a projetos de formação as entidades empregadoras previstas no artigo 3.º, diretamente ou através das respetivas associações representativas de empregadores e empresariais, de âmbito setorial, regional e nacional.\n\n2 - Sem prejuízo do disposto no número anterior, as empresas e as associações empresariais, de âmbito setorial, regional e nacional que não sejam entidades formadoras certificadas podem apresentar candidatura, solicitando ao IEFP, I. P., que, através da sua rede de centros, proceda à organização e realização dos planos formativos.\n\n3 - Compete ao IEFP, I. P., promover a abertura de concursos por setor, mediante publicação de avisos, face a necessidades extraordinárias e transitórias verificadas na indústria.\n\n4 - O Programa adota um regime de candidatura aberta pelo período de vigência aí estabelecido e as candidaturas são aprovadas até ao limite da dotação orçamental prevista no aviso.\n\n5 - (Revogado.)\n\n6 - Compete ao IEFP, I. P., definir os respetivos procedimentos de candidatura, incluindo os critérios de avaliação, bem como proceder à sua instrução, análise e decisão, de acordo com os critérios a estabelecer em sede de aviso.\n\n7 - A contratualização dos apoios concedidos é realizada entre o IEFP, I. P., e a entidade que titula a candidatura, nos termos a definir em sede de aviso.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 399/2023 - Diário da República n.º 232/2023, Série I de 2023-11-30](https://diariodarepublica.pt/dr/detalhe/portaria/399-2023-225044394), em vigor a partir de 2023-12-01"
+  },
+  "225028440": {
+   "fragment_id": "225096026",
+   "type": 11,
+   "heading": "Artigo 14.º — Auxílios de Estado",
+   "in_force_from": "2023-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 399/2023 - Diário da República n.º 232/2023, Série I de 2023-11-30](https://diariodarepublica.pt/dr/detalhe/portaria/399-2023-225044394), em vigor a partir de 2023-12-01"
+   ],
+   "markdown": "###### Artigo 14.º — Auxílios de Estado\n\nO apoio previsto no artigo 4.º é atribuído ao abrigo do regime de auxílios de Estado - auxílios à formação, nos termos do artigo 31.º do Regulamento (EU) n.º 651/2014 da Comissão, de 17 de junho de 2014, com as alterações dadas pelo Regulamento (EU) n.º 2017/1084 da Comissão, de 14 de junho de 2017.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 399/2023 - Diário da República n.º 232/2023, Série I de 2023-11-30](https://diariodarepublica.pt/dr/detalhe/portaria/399-2023-225044394), em vigor a partir de 2023-12-01"
+  },
+  "225028430": {
+   "fragment_id": "225096031",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 12 de setembro de 2023.\n\n116848928"
+  }
+ }
+}

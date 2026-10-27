@@ -1,0 +1,178 @@
+---
+schema_version: '1.0'
+id: pt:dre:682208:por
+title: Resolução da Assembleia da República n.º 23/91
+short_title: null
+summary: Aprova, para ratificação, o Acordo de Cooperação Técnica no Domínio Militar entre a República Portuguesa e a República
+  de Cabo Verde
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 23/91
+official_date: null
+publication_date: '1991-08-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 181/1991, Série I-A de 1991-08-08
+  number: '181'
+  series: I
+  supplement: null
+  pages: 3951 - 3952
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/08/181a00/39513952.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/23/1991/08/08/p/dre/pt/html
+  oj: null
+  dre: '682208'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/23-1991-682208
+  internal: pt:dre:682208:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/23-1991-682208
+  metadata_url: https://data.dre.pt/eli/resolassrep/23/1991/08/08/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/23-1991-682208
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:55:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 39b58ba1836815f155dc7b024e01aff85b78d1b68b4ccf643478f3670dc39332
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:55:31Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cabo Verde
+- Convenção
+- Cooperação Militar
+- Cooperação Técnica
+- Mindelo
+- Portugal
+relationships: []
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:55:31Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 23/91
+
+Aprova, para ratificação, o Acordo de Cooperação Técnica no Domínio Militar entre a República Portuguesa e a República de Cabo Verde.
+
+A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e 169.º, n.º 5, da Constituição, aprovar, para ratificação, o Acordo de Cooperação Técnica no Domínio Militar entre a República Portuguesa e a República de Cabo Verde, assinado em Mindelo, a 13 de Junho de 1988, cujo original segue em anexo.
+
+Aprovada em 4 de Junho de 1991.
+
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
+
+## ANEXO
+
+ACORDO DE COOPERAÇÃO TÉCNICA NO DOMÍNIO MILITAR ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE CABO VERDE.
+
+A República Portuguesa e a República de Cabo Verde:
+
+Animadas pela vontade de estreitar os laços de amizade existentes entre os dois países e os dois povos;
+
+Decididas a desenvolver e facilitar as relações de cooperação;
+
+Considerando os propósitos expressos no Acordo Geral de Cooperação e Amizade e no Acordo de Cooperação Científica e Técnica;
+
+decidem, numa base de plena independência, respeito pela soberania, não ingerência nos assuntos internos e reciprocidade de interesses, concluir o seguinte Acordo:
+
+###### Artigo 1.º
+
+A República Portuguesa e a República de Cabo Verde, adiante designadas Partes, comprometem-se, na medida das suas possibilidades, em regime de reciprocidade e quando para tanto solicitadas, à prestação mútua de cooperação técnica no domínio militar.
+
+###### Artigo 2.º
+
+1 - A cooperação técnica no domínio militar compreenderá acções de formação pessoal, fornecimento de material e prestação de serviços.
+
+2 - Os termos da cooperação a desenvolver em qualquer das modalidades previstas poderão ser objecto de regulamentação própria por protocolo adicional.
+
+###### Artigo 3.º
+
+As acções de cooperação previstas no presente Acordo integrar-se-ão em programas de cooperação cujo âmbito, objectivo e responsabilidade de execução serão definidos, caso a caso, pelos serviços ou organismos designados como competentes pela legislação de cada Parte.
+
+###### Artigo 4.º
+
+1 - Nos casos em que a execução das acções de cooperação previstas no presente Acordo exija a deslocação de pessoal, a Parte solicitada para prestar e coordenar as referidas acções poderá enviar para o território da Parte solicitante uma missão que se integrará na Embaixada, ficando na dependência do embaixador.
+
+2 - Ao pessoal referido no número anterior são aplicáveis as disposições da Convenção de Viena sobre relações diplomáticas relativas aos membros do pessoal administrativo e técnico das missões diplomáticas.
+
+###### Artigo 5.º
+
+1 - O pessoal de uma das Partes que frequente cursos ou estágios em unidades ou estabelecimentos militares de outra Parte ficará sujeito a um regime jurídico que definirá, nomeadamente, as condições de frequência dos referidos cursos ou estágios e as normas a que ficará sujeito.
+
+2 - O regime jurídico referido no número anterior será definido pelas competentes autoridades de cada Parte, dele devendo ser obrigatoriamente dado conhecimento à outra Parte por meio de troca de notas diplomáticas.
+
+###### Artigo 6.º
+
+Com o objectivo de implementar as disposições do presente Acordo e assegurar a sua realização nas melhores condições, será constituída uma comissão mista paritária que reunirá alternadamente em Cabo Verde e Portugal, devendo as suas reuniões, na medida do possível, coincidir com as da comissão mista prevista no Acordo Geral de Cooperação e Amizade.
+
+###### Artigo 7.º
+
+Para execução do presente Acordo a Parte Portuguesa concederá, na medida das suas possibilidades, bolsas para formação profissional e estágios, e procurará implementar outras formas de apoio ao desenvolvimento dessas acções de formação.
+
+###### Artigo 8.º
+
+1 - Constitui encargo da Parte solicitante, nas condições que, para efeito de liquidação, vierem a ser estabelecidas, por mútuo acordo, o custo do material fornecido pela Parte solicitada.
+
+2 - Em matéria de prestação de serviço aplicar-se-á o regime de repartição de encargos previsto no artigo 18.º do Acordo de Cooperação no Domínio do Ensino e da Formação Profissional.
+
+3 - A Parte solicitante assegurará ao pessoal integrante da emissão referida no artigo 4.º alojamento adequado nos locais onde venha a prestar serviço em condições a definir caso a caso.
+
+4 - A Parte solicitante compromete-se a promover e assegurar o transporte para deslocação em serviço de membros da missão.
+
+###### Artigo 9.º
+
+1 - O presente Acordo entrará em vigor na data da última notificação do cumprimento das formalidades exigidas pela ordem de cada uma das Partes e será válido por um período de três anos, prorrogável por períodos iguais e sucessivos, salvo denúncia de uma das Partes por escrito, com antecedência de pelo menos 180 dias antes da sua expiração.
+
+2 - As Partes reservam-se o direito de suspender a execução, no todo ou em parte, do disposto no presente Acordo ou, independentemente de qualquer aviso, proceder à sua denúncia parcial ou total, se sobreviver modificação substancial das condições existentes à data da assinatura, que seja de molde a pôr em causa a continuidade da cooperação nele prevista.
+
+3 - A suspensão da execução ou a denúncia nos termos referidos no número anterior, que deverão ser consideradas actos inamistosos e delas não resultará, para a Parte que exerceu esse direito, qualquer responsabilidade perante a outra Parte.
+
+###### Artigo 10.º
+
+As Partes signatárias obrigam-se a resolver qualquer diferendo relacionado com a interpretação ou aplicação deste Acordo, com espírito de amizade e compreensão mútua.
+
+Feito em Mindelo, em 13 de Junho de 1988, em dois originais em língua portuguesa, ambos fazendo igualmente fé.
+
+Pela República Portuguesa:
+
+José Manuel Durão Barroso, Secretário de Estado dos Negócios Estrangeiros e da Cooperação.
+
+Pela República de Cabo Verde:
+
+José Brito, Ministro Adjunto do Ministro do Plano e da Cooperação.

@@ -1,0 +1,1822 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:582664:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-230010770",
+ "dre_path": "/dr/detalhe/decreto-lei/349-1999-582664",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-09-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "230022864",
+    "230022865",
+    "230022866",
+    "230022867",
+    "230022868",
+    "230022870",
+    "230022871",
+    "230022872",
+    "230022873",
+    "230022874",
+    "230023575",
+    "230023576",
+    "230023577",
+    "230023578",
+    "230023579",
+    "230023580",
+    "230023581",
+    "230023582",
+    "230023583",
+    "230023584",
+    "230023585",
+    "230023586",
+    "230023587",
+    "230023588",
+    "230023589",
+    "230023590",
+    "230023591",
+    "230023592",
+    "230023593",
+    "230023594",
+    "230023595",
+    "230023596",
+    "230023597",
+    "230023598",
+    "230023599",
+    "230023600",
+    "230023601",
+    "230023602",
+    "230023603",
+    "230023604",
+    "230023605",
+    "230023606",
+    "230023607",
+    "230023608",
+    "230023609",
+    "230023610",
+    "230023611",
+    "230023612",
+    "230023613",
+    "230023614",
+    "230023615",
+    "230023616",
+    "230023617",
+    "230023618",
+    "230023619",
+    "230023620",
+    "230023621",
+    "230023622",
+    "230023623",
+    "230023624",
+    "230023625",
+    "230023626",
+    "230023627",
+    "230023628",
+    "230023629",
+    "230023630",
+    "230023631",
+    "230023632",
+    "230023633",
+    "230023634",
+    "230023635",
+    "230023636",
+    "230023637",
+    "230023638",
+    "230023639",
+    "230023640",
+    "230023641",
+    "230023642",
+    "230023643",
+    "230023644",
+    "230023645",
+    "230023646",
+    "230023647",
+    "230023648",
+    "230023649",
+    "230023650",
+    "230023651",
+    "230023652",
+    "230023653",
+    "230023654",
+    "230023655",
+    "230023656",
+    "230023657",
+    "230023658",
+    "230023659",
+    "230023660",
+    "230023661",
+    "230023662",
+    "230023663",
+    "230023664"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:670537:por",
+     "title": "Lei n.º 47/2011",
+     "published": "2011-06-27",
+     "dre_path": "/dr/detalhe/lei/47-2011-670537",
+     "date": "2011-02-27"
+    }
+   ]
+  },
+  {
+   "date": "2011-07-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:670537:por",
+     "title": "Lei n.º 47/2011",
+     "published": "2011-06-27",
+     "dre_path": "/dr/detalhe/lei/47-2011-670537"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 11.º-A",
+    "Adita Capítulo VII",
+    "Adita Artigo 50.º-A",
+    "Adita Artigo 79.º",
+    "Adita Capítulo XI",
+    "Adita Artigo 80.º",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 31.º",
+    "Altera Artigo 33.º",
+    "Altera Artigo 35.º",
+    "Altera Artigo 36.º",
+    "Altera Artigo 37.º",
+    "Altera Artigo 38.º",
+    "Altera Artigo 39.º",
+    "Altera Artigo 40.º",
+    "Altera Artigo 41.º",
+    "Altera Artigo 42.º",
+    "Altera Artigo 43.º",
+    "Altera Artigo 44.º",
+    "Altera Artigo 47.º",
+    "Altera Artigo 48.º",
+    "Altera Artigo 49.º",
+    "Altera Artigo 50.º",
+    "Altera Artigo 51.º",
+    "Altera Artigo 52.º",
+    "Altera Artigo 53.º",
+    "Altera Artigo 54.º",
+    "Altera Artigo 59.º",
+    "Altera Artigo 61.º",
+    "Altera Artigo 63.º",
+    "Altera Artigo 67.º",
+    "Altera Artigo 70.º",
+    "Altera Artigo 71.º",
+    "Altera Artigo 75.º",
+    "Altera Artigo 76.º",
+    "Altera Artigo 77.º",
+    "Revoga Artigo 10.º"
+   ],
+   "fragments": [
+    "230022864",
+    "230022865",
+    "230022866",
+    "230022867",
+    "230022868",
+    "230022869",
+    "230022870",
+    "230022871",
+    "248260838",
+    "248260828",
+    "248260829",
+    "230023575",
+    "248260830",
+    "248260831",
+    "248260832",
+    "248260833",
+    "248260834",
+    "248260836",
+    "248260835",
+    "248260837",
+    "253273435",
+    "230023584",
+    "230023585",
+    "248260839",
+    "248260840",
+    "248260841",
+    "248260842",
+    "248260843",
+    "248260844",
+    "248260845",
+    "253273375",
+    "230023594",
+    "253273376",
+    "253273377",
+    "253273378",
+    "253273379",
+    "253273380",
+    "253273381",
+    "230023601",
+    "253273382",
+    "253273383",
+    "230023604",
+    "253273384",
+    "230023606",
+    "230023607",
+    "253273385",
+    "253273386",
+    "253273387",
+    "230023611",
+    "253273388",
+    "230023613",
+    "253273389",
+    "253273390",
+    "253273391",
+    "253273392",
+    "253273393",
+    "253273394",
+    "253273395",
+    "230023621",
+    "253273396",
+    "253273397",
+    "253273398",
+    "230023625",
+    "230023626",
+    "253273399",
+    "230023628",
+    "253273400",
+    "253273401",
+    "253273402",
+    "253273425",
+    "253273431",
+    "253273426",
+    "230023633",
+    "253273403",
+    "253273404",
+    "253273405",
+    "253273406",
+    "230023638",
+    "230023639",
+    "230023640",
+    "230023641",
+    "230023642",
+    "253273427",
+    "253273412",
+    "230023645",
+    "253273413",
+    "253273414",
+    "253273415",
+    "230023649",
+    "230023650",
+    "230023651",
+    "253273416",
+    "230023653",
+    "230023654",
+    "253273417",
+    "253273418",
+    "230023657",
+    "230023658",
+    "230023659",
+    "253273419",
+    "253273428",
+    "253273420",
+    "253273421",
+    "230023664",
+    "253273433",
+    "253273429",
+    "253273411"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:670537:por",
+     "title": "Lei n.º 47/2011",
+     "published": "2011-06-27",
+     "dre_path": "/dr/detalhe/lei/47-2011-670537",
+     "date": "2023-07-27"
+    },
+    {
+     "id": "pt:dre:670537:por",
+     "title": "Lei n.º 47/2011",
+     "published": "2011-06-27",
+     "dre_path": "/dr/detalhe/lei/47-2011-670537",
+     "date": "2027-07-27"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "230022864": {
+   "fragment_id": "230010771",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 349/99\n\nde 2 de Setembro\n\nA criação de uma associação de direito público dos engenheiros técnicos vem dar resposta à necessidade de uma representação unitária da profissão, condição da sua valorização e da realização do interesse público subjacente à natureza da pessoa colectiva na qual esta repousa.\n\nAssim, a presente regulamentação atende à particular importância económica e social que reveste a profissão de engenheiro técnico e ao modo como os seus diversos ramos de especialidade intervêm na sociedade civil, exigindo, nessa medida, a definição e execução de um conjunto de regras que constituam o enquadramento essencial do acesso e exercício das áreas de actividade e saber compreendidas na profissão.\n\nSem nunca perder de vista a natureza mista das associações públicas profissionais - pública, enquanto prossegue atribuições públicas relativas ao exercício de profissões onde o interesse público está especialmente patente, privada, porque associação representativa dos profissionais inscritos -, a elaboração do Estatuto da ANET - Associação Nacional dos Engenheiros Técnicos procurou conciliar as propostas apresentadas pelas diferentes associações representativas dos engenheiros técnicos com os imperativos decorrentes do actual quadro constitucional português.\n\nEntre os aspectos mais significativos da regulamentação a que agora se procede, cumpre assinalar o reforço da descentralização organizativa e, bem assim, da separação entre órgãos executivos e disciplinares, a abertura à criação de áreas de especialização, a definição do núcleo essencial de regras de deontologia profissional, a previsão das regras sobre processo disciplinar, a consagração do referendo interno como instrumento de aprovação ou de ratificação pela profissão de decisões particularmente relevantes, e, de uma maneira geral, todo o enquadramento relativo ao exercício da profissão de engenheiro técnico.\n\nFinalmente, importa que, em simultâneo, se complete a transposição para a ordem jurídica interna da Directiva n.º 89/48/CEE, de 21 de Dezembro de 1988, já efectuada em termos genéricos pelo Decreto-Lei n.º 289/91, de 10 de Agosto.\n\nTendo sido ouvidas as associações representativas dos engenheiros técnicos:\n\nAssim, no uso da autorização legislativa concedida pelo artigo 1.º da Lei n.º 38/99, de 26 de Maio, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "230022865": {
+   "fragment_id": "230010772",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ criada a ANET - Associação Nacional dos Engenheiros Técnicos, doravante designada como Associação, associação de direito público representativa dos engenheiros técnicos, cujo Estatuto se publica em anexo ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "230022866": {
+   "fragment_id": "230010773",
+   "type": 11,
+   "heading": "Artigo 2.º — Comissão instaladora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Comissão instaladora\n\n1 - Por portaria do Ministro do Equipamento, do Planeamento e da Administração do Território será nomeada, no prazo de 30 dias a contar da entrada em vigor do presente diploma, a comissão instaladora da Associação e aprovado o seu regulamento interno.\n\n2 - A comissão instaladora referida no número anterior é composta por cinco a nove membros e nela devem estar representadas as diferentes associações de engenheiros técnicos.\n\n3 - Compete à comissão instaladora:\n\na) Preparar os regulamentos internos necessários ao funcionamento da Associação;\n\nb) Promover a inscrição dos engenheiros técnicos;\n\nc) Preparar os actos eleitorais para os órgãos nacionais e regionais da Associação;\n\nd) Conferir posse aos titulares dos órgãos eleitos da Associação;\n\ne) Realizar os demais actos necessários ao normal funcionamento da Associação;\n\nf) Prestar contas do mandato exercido.\n\n3 - O mandato da comissão instaladora não pode exceder um ano e cessa com a investidura dos órgãos nacionais da Associação."
+  },
+  "230022867": {
+   "fragment_id": "230010774",
+   "type": 11,
+   "heading": "Artigo 3.º — Sucessão nos direitos e obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sucessão nos direitos e obrigações\n\n1 - A Associação pode, por convénio a celebrar com as associações de engenheiros técnicos representadas na comissão instaladora, suceder nas suas situações jurídicas activas e passivas.\n\n2 - O convénio referido no número anterior pode ser celebrado pela comissão instaladora."
+  },
+  "230022868": {
+   "fragment_id": "230023475",
+   "type": 11,
+   "heading": "Artigo 4.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Disposição transitória\n\nO disposto no n.º 1 do artigo 42.º do Estatuto não se aplica nas primeiras eleições para os órgãos nacionais e regionais da Associação."
+  },
+  "230022870": {
+   "fragment_id": "230023477",
+   "type": 14,
+   "heading": "Anexo — ESTATUTO DA ASSOCIAÇÃO NACIONAL DOS ENGENHEIROS TÉCNICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — ESTATUTO DA ASSOCIAÇÃO NACIONAL DOS ENGENHEIROS TÉCNICOS"
+  },
+  "230022871": {
+   "fragment_id": "230023478",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "230022872": {
+   "fragment_id": "230023479",
+   "type": 11,
+   "heading": "Artigo 1.º — Denominação, natureza e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Denominação, natureza e sede\n\n1 - A ANET - Associação Nacional dos Engenheiros Técnicos, adiante designada por Associação, é a associação pública representativa dos detentores de bacharelato em Engenharia, ou formação legalmente equiparada, que exercem a profissão de engenheiro técnico.\n\n2 - A Associação tem sede em Lisboa."
+  },
+  "230022873": {
+   "fragment_id": "230023480",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nSão atribuições da Associação:\n\na) Conceder o título de engenheiro técnico;\n\nb) Zelar pela função social, dignidade e prestígio da profissão de engenheiro técnico, promovendo a valorização profissional e científica dos seus associados e a defesa e o respeito pelos respectivos princípios deontológicos;\n\nc) Efectuar o registo de todos os engenheiros técnicos;\n\nd) Propor ao Governo a elaboração de regulamentação sobre a respectiva actividade profissional;\n\ne) Representar os engenheiros técnicos junto dos órgãos de soberania e colaborar com os órgãos da Administração Pública sempre que estejam em causa matérias que se relacionem com a prossecução dos seus fins;\n\nf) Contribuir para a defesa e promoção da engenharia técnica, sendo ouvida sobre os projectos de diplomas legislativos que interessem à prossecução dos seus fins;\n\ng) Defender os direitos e interesses legítimos dos seus membros;\n\nh) Fazer respeitar o código deontológico e exercer jurisdição disciplinar sobre todos os engenheiros técnicos que exerçam a profissão no território nacional;\n\ni) Promover o intercâmbio de ideias e experiências entre os membros e com organismos congéneres estrangeiros, bem como acções de coordenação interdisciplinar;\n\nj) Promover, patrocinar e apoiar a edição de publicações que contribuam para um melhor esclarecimento público sobre as implicações e a relevância da engenharia técnica;\n\nl) Colaborar com escolas, institutos politécnicos, faculdades e outras instituições em iniciativas que visem a formação dos engenheiros técnicos;\n\nm) Prestar serviços aos seus membros."
+  },
+  "230022874": {
+   "fragment_id": "230023481",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito\n\n1 - A Associação compreende as Secções Regionais do Norte, do Centro, do Sul, dos Açores e da Madeira.\n\n2 - A Secção Regional do Norte compreende os distritos de Braga, Bragança, Porto, Viana do Castelo e Vila Real.\n\n3 - A Secção Regional do Centro compreende os distritos de Aveiro, Castelo Branco, Coimbra, Guarda, Leiria e Viseu.\n\n4 - A Secção Regional do Sul compreende os distritos de Beja, Évora, Faro, Lisboa, Portalegre, Santarém e Setúbal.\n\n5 - As Secções Regionais dos Açores e da Madeira compreendem, respectivamente, as Regiões Autónomas dos Açores e da Madeira."
+  },
+  "230023575": {
+   "fragment_id": "230023482",
+   "type": 1,
+   "heading": "Capítulo II — Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Membros"
+  },
+  "230023576": {
+   "fragment_id": "230023483",
+   "type": 11,
+   "heading": "Artigo 4.º — Inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Inscrição\n\nA atribuição do título, o seu uso e o exercício da profissão de engenheiro técnico dependem de inscrição como membro efectivo da Associação."
+  },
+  "230023577": {
+   "fragment_id": "230023484",
+   "type": 11,
+   "heading": "Artigo 5.º — Membros estrangeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Membros estrangeiros\n\n1 - O exercício em Portugal da profissão de engenheiro técnico por nacionais de outros Estados membros da União Europeia, possuidores das habilitações académicas e profissionais legalmente exigidas para o exercício da profissão no Estado de origem, depende de inscrição na Associação.\n\n2 - Os nacionais de Estados não pertencentes à União Europeia podem, para efeito do exercício em Portugal da profissão de engenheiro técnico, inscrever-se na Associação em condições de reciprocidade, nos termos a fixar por convenção ou protocolo internacional."
+  },
+  "230023578": {
+   "fragment_id": "230023485",
+   "type": 11,
+   "heading": "Artigo 6.º — Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Membros\n\nA Associação integra membros:\n\na) Efectivos;\n\nb) Honorários;\n\nc) Estudantes;\n\nd) Colectivos."
+  },
+  "230023579": {
+   "fragment_id": "230023486",
+   "type": 11,
+   "heading": "Artigo 7.º — Membros efectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Membros efectivos\n\n1 - A admissão como membro efectivo depende de titularidade de bacharelato em Engenharia em curso oficialmente reconhecido ou formação legalmente equiparada.\n\n2 - Os membros efectivos inscrevem-se na especialidade correspondente ao seu domínio de actividade.\n\n3 - A inscrição na Associação faz-se na secção regional do respectivo domicílio profissional."
+  },
+  "230023580": {
+   "fragment_id": "230023487",
+   "type": 11,
+   "heading": "Artigo 8.º — Membros honorários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Membros honorários\n\nPode ser atribuída a qualidade de membro honorário às pessoas singulares ou colectivas que, tendo exercido actividade de reconhecido interesse público e contribuído para a dignificação e prestígio da profissão de engenheiro técnico, sejam consideradas como merecedoras de tal distinção."
+  },
+  "230023581": {
+   "fragment_id": "230023488",
+   "type": 11,
+   "heading": "Artigo 9.º — Membros estudantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Membros estudantes\n\nOs estudantes do último ano do bacharelato em Engenharia podem ser admitidos na qualidade de membros estudantes."
+  },
+  "230023582": {
+   "fragment_id": "230023489",
+   "type": 11,
+   "heading": "Artigo 10.º — Membros colectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Membros colectivos\n\nPodem inscrever-se como membros colectivos da Associação as pessoas colectivas que com ela estabeleçam acordo escrito e que desenvolvam actividades relevantes no domínio da engenharia técnica."
+  },
+  "230023583": {
+   "fragment_id": "230023490",
+   "type": 11,
+   "heading": "Artigo 11.º — Demissão e suspensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Demissão e suspensão\n\n1 - Perdem a qualidade de membros os engenheiros técnicos que o requeiram.\n\n2 - É suspensa a inscrição:\n\na) Aos membros que a requeiram;\n\nb) Aos membros aos quais seja aplicada pena disciplinar de suspensão."
+  },
+  "230023584": {
+   "fragment_id": "230023491",
+   "type": 1,
+   "heading": "Capítulo III — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Órgãos"
+  },
+  "230023585": {
+   "fragment_id": "230023492",
+   "type": 8,
+   "heading": "Secção I — Órgãos nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Órgãos nacionais"
+  },
+  "230023586": {
+   "fragment_id": "230023493",
+   "type": 11,
+   "heading": "Artigo 12.º — Órgãos nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Órgãos nacionais\n\n1 - São órgãos nacionais da Associação:\n\na) A assembleia geral;\n\nb) O presidente;\n\nc) A assembleia de representantes;\n\nd) O conselho directivo nacional;\n\ne) O conselho fiscal nacional;\n\nf) O conselho jurisdicional;\n\ng) O conselho da profissão.\n\n2 - Os mandatos dos membros dos órgãos da Associação têm a duração de três anos.\n\n3 - É permitida a reeleição, mas o cargo não pode ser desempenhado, consecutivamente, por mais de três mandatos.\n\n4 - Pelo exercício dos mandatos não cabe qualquer remuneração."
+  },
+  "230023587": {
+   "fragment_id": "230023494",
+   "type": 11,
+   "heading": "Artigo 13.º — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Assembleia geral\n\n1 - A assembleia geral é composta pela totalidade dos membros efectivos no pleno gozo dos seus direitos e reúne ordinariamente duas vezes por ano e extraordinariamente sempre que convocada, nos termos do n.º 4.\n\n2 - A organização das reuniões da assembleia geral cabe à secção regional onde aquelas se realizem.\n\n3 - A mesa da assembleia geral é formada pelo presidente, vice-presidente e secretário, eleitos em lista.\n\n4 - A assembleia geral reúne extraordinariamente, mediante convocação do respectivo presidente, sempre que o conselho directivo nacional, a assembleia de representantes, os conselhos directivos de secção ou, pelo menos, 300 membros efectivos o requeiram, juntando a respectiva ordem de trabalhos.\n\n5 - Compete à assembleia geral:\n\na) Deliberar, até 30 de Abril, sobre o relatório e contas do conselho directivo nacional relativo ao ano civil transacto, tendo em conta o parecer do conselho fiscal nacional;\n\nb) Deliberar, até 15 de Dezembro de cada ano, sobre o plano, tendo em conta o parecer do conselho fiscal nacional.\n\n6 - Compete ao presidente da assembleia geral dar posse aos membros eleitos para os órgãos nacionais e apreciar os seus pedidos de exoneração."
+  },
+  "230023588": {
+   "fragment_id": "230023495",
+   "type": 11,
+   "heading": "Artigo 14.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Presidente\n\n1 - O presidente e os dois vice-presidentes da Associação são eleitos.\n\n2 - Compete ao presidente:\n\na) Representar a Associação, em juízo e fora dele;\n\nb) Presidir, com voto de qualidade, ao conselho directivo nacional e à assembleia de representantes;\n\nc) Presidir ao conselho da profissão;\n\nd) Convocar a assembleia de representantes;\n\ne) Despachar o expediente corrente do conselho directivo nacional.\n\n3 - O presidente é coadjuvado por dois vice-presidentes, que o substituem nas suas ausências ou impedimentos.\n\n4 - O presidente pode delegar competências nos vice-presidentes e nos presidentes dos conselhos directivos de secção."
+  },
+  "230023589": {
+   "fragment_id": "230023496",
+   "type": 11,
+   "heading": "Artigo 15.º — Assembleia de representantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Assembleia de representantes\n\n1 - A assembleia de representantes é constituída por:\n\na) O presidente e os vice-presidentes da Associação;\n\nb) Os restantes membros do conselho directivo nacional;\n\nc) Os presidentes das assembleias de secção;\n\nd) Os membros do conselho fiscal nacional;\n\ne) Os presidentes dos colégios de especialidades.\n\n2 - A organização das reuniões da assembleia cabe à secção regional onde aquelas se realizem.\n\n3 - A mesa da assembleia de representantes é formada pelos presidentes das assembleias de secção e presidida pelo presidente da assembleia de secção onde a reunião tiver lugar.\n\n4 - Compete à assembleia de representantes:\n\na) Deliberar sobre os assuntos que o conselho directivo nacional decida submeter-lhe;\n\nb) Apreciar o plano de actividades e o orçamento anual, a submeter à assembleia geral;\n\nc) Fixar as jóias e quotas a cobrar pelas secções, bem como a percentagem destas receitas destinadas às secções;\n\nd) Aprovar todos os regulamentos mencionados no presente Estatuto respeitantes aos órgãos nacionais;\n\ne) Deliberar, mediante proposta do conselho directivo nacional, sobre a realização de referendos.\n\n5 - A assembleia de representantes, convocada pelo presidente, reúne ordinariamente até 30 de Novembro de cada ano, para os fins previstos nas alíneas b) e c) do número anterior, e extraordinariamente por iniciativa do conselho directivo nacional ou das assembleias de secção."
+  },
+  "230023590": {
+   "fragment_id": "230023497",
+   "type": 11,
+   "heading": "Artigo 16.º — Conselho directivo nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Conselho directivo nacional\n\n1 - O conselho directivo nacional é constituído pelo presidente da Associação, pelos dois vice-presidentes e pelos presidentes e vice-presidentes dos conselhos directivos das secções.\n\n2 - O funcionamento do conselho directivo nacional é objecto de regulamento próprio.\n\n3 - Compete ao conselho directivo nacional:\n\na) Desenvolver as relações internacionais da Associação, delas dando conta à assembleia geral;\n\nb) Arrecadar receitas e efectuar despesas;\n\nc) Aprovar as linhas gerais dos programas da acção dos colégios;\n\nd) Aprovar o regulamento de funcionamento das delegações;\n\ne) Apresentar à assembleia de representantes, para parecer ou para deliberação, propostas sobre matérias de especial relevância para a Associação;\n\nf) Propor à assembleia de representantes a realização de referendos;\n\ng) Organizar os referendos e os actos eleitorais, em colaboração com os competentes órgãos regionais e decidir dos recursos interpostos;\n\nh) Decidir da instituição de novas especialidades;\n\ni) Conferir a qualidade de membro honorário e proceder ao reconhecimento profissional dos cursos de bacharelato em Engenharia, conducentes ao título de engenheiro técnico;\n\nj) Zelar pela conservação e actualização do registo geral da inscrição de membros;\n\nl) Arbitrar conflitos de competência;\n\nm) Deliberar sobre a propositura da acções judiciais, confessar, desistir, transigir, alienar ou onerar bens, contrair empréstimos e aceitar doações, heranças e legados;\n\nn) Esclarecer dúvidas relativas à inscrição dos membros efectivos nas especialidades reconhecidas pela Associação;\n\no) Constituir grupos de trabalho;\n\np) Admitir e dispensar pessoal dos serviços de apoio aos órgãos nacionais;\n\nq) Designar o secretário-geral, a quem cabe, mediante remuneração, apoiar a actividade dos órgãos nacionais e executar as políticas definidas pelo conselho, de acordo com as directrizes emanadas do presidente;\n\nr) Aprovar a estrutura do secretariado dos colégios de especialidades.\n\ns) Exercer todas as competências que não sejam reconhecidas a outros órgãos.\n\n4 - O conselho directivo nacional deve ouvir previamente o conselho da profissão quando esteja em causa o exercício das competências referidas nas alíneas a), c), n) e o) do número anterior."
+  },
+  "230023591": {
+   "fragment_id": "230023498",
+   "type": 11,
+   "heading": "Artigo 17.º — Conselho fiscal nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Conselho fiscal nacional\n\n1 - O conselho fiscal nacional é constituído por cinco membros eleitos, entre os quais um presidente e um secretário.\n\n2 - Compete ao conselho fiscal nacional:\n\na) Examinar, pelo menos trimestralmente, a gestão financeira desenvolvida pelos órgãos nacionais;\n\nb) Dar parecer sobre o relatório, contas e orçamentos anuais;\n\nc) Assistir, sem direito a voto, às reuniões do conselho directivo nacional, sempre que julgue conveniente ou este o solicite."
+  },
+  "230023592": {
+   "fragment_id": "230023499",
+   "type": 11,
+   "heading": "Artigo 18.º — Conselho jurisdicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Conselho jurisdicional\n\n1 - O conselho jurisdicional é constituído por cinco membros eleitos, sendo o presidente cooptado de entre estes.\n\n2 - Compete ao conselho jurisdicional:\n\na) Zelar pelo cumprimento do presente Estatuto, dos respectivos regulamentos e das decisões e deliberações tomadas pelos órgãos competentes;\n\nb) Dar parecer sobre as propostas de regulamentos;\n\nc) Dar apoio ao conselho directivo nacional na arbitragem de conflitos de competência;\n\nd) Exercer o poder disciplinar relativamente a infracções cometidas por titulares ou ex-titulares dos órgãos da Associação;\n\ne) Julgar os recursos interpostos das decisões dos conselhos disciplinares de secção.\n\n3 - O conselho jurisdicional é assessorado por um consultor jurídico."
+  },
+  "230023593": {
+   "fragment_id": "230023500",
+   "type": 11,
+   "heading": "Artigo 19.º — Conselho da profissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Conselho da profissão\n\n1 - O conselho da profissão é constituído por três membros eleitos e pelos presidentes de cada um dos colégios de especialidades.\n\n2 - O conselho pode ser assessorado por personalidades de reconhecido mérito científico ou profissional, a título permanente ou eventual, e solicitar pareceres a comissões especializadas da Associação ou a entidades exteriores.\n\n3 - Compete ao conselho da profissão:\n\na) Zelar pelo cumprimento do código deontológico dos engenheiros técnicos;\n\nb) Propor ao conselho directivo nacional o reconhecimento profissional dos cursos de bacharelato em Engenharia, conducentes ao título de engenheiro técnico;\n\nc) Propor ao conselho directivo nacional a instituição de especialidades;\n\nd) Emitir pareceres sobre a regulamentação do exercício da profissão.\n\n4 - Das decisões do conselho da profissão cabe recurso para o conselho directivo nacional."
+  },
+  "230023594": {
+   "fragment_id": "230023501",
+   "type": 8,
+   "heading": "Secção II — Órgãos regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Órgãos regionais"
+  },
+  "230023595": {
+   "fragment_id": "230023502",
+   "type": 11,
+   "heading": "Artigo 20.º — São órgãos regionais da Associação:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — São órgãos regionais da Associação:\n\na) As assembleias de secção;\n\nb) Os conselhos directivos de secção;\n\nc) Os conselhos fiscais de secção;\n\nd) Os conselhos disciplinares de secção."
+  },
+  "230023596": {
+   "fragment_id": "230023503",
+   "type": 11,
+   "heading": "Artigo 21.º — Assembleias de secção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Assembleias de secção\n\n1 - As assembleias de secção são constituídas por todos os membros efectivos no pleno gozo dos seus direitos, inscritos nas respectivas secções regionais.\n\n2 - Compete às assembleias de secção:\n\na) Aprovar o relatório e contas do conselho directivo de secção e o parecer do conselho fiscal de secção respectivos;\n\nb) Apreciar e deliberar sobre o orçamento anual proposto pelo respectivo conselho directivo de secção;\n\nc) Apreciar os actos de gestão dos respectivos órgãos da secção;\n\nd) Aprovar os regulamentos dos órgãos de secção;\n\ne) Apreciar os assuntos que lhe sejam submetidos;\n\nf) Pedir a convocação da assembleia de representantes.\n\n3 - As assembleias de secção são dirigidas por uma mesa, constituída por um presidente e dois secretários.\n\n4 - As assembleias de secção reúnem anualmente em sessões ordinárias, no mês de Março, para exercerem as competências previstas nas alíneas b) e c) do n.º 2.\n\n5 - As assembleias de secção reúnem extraordinariamente por iniciativa dos respectivos conselhos directivos ou conselhos fiscais ou sempre que um mínimo de 5% ou de 100 membros efectivos no pleno gozo dos seus direitos o requeira à mesa.\n\n6 - As decisões das assembleias de secção não vinculam a Associação enquanto instituição de âmbito nacional."
+  },
+  "230023597": {
+   "fragment_id": "230023504",
+   "type": 11,
+   "heading": "Artigo 22.º — Conselhos directivos de secção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Conselhos directivos de secção\n\n1 - Os conselhos directivos de secção são constituídos por um presidente, um vice-presidente, um secretário, um tesoureiro e um vogal.\n\n2 - Compete aos conselhos directivos de secção:\n\na) Promover acções tendentes à realização dos objectivos da Associação, de acordo com as grandes linhas de actuação definidas pelo conselho directivo nacional;\n\nb) Representar a respectiva secção regional, em juízo e fora dele;\n\nc) Gerir as actividades das respectivas secções regionais nos termos do presente Estatuto e dos regulamentos e administrar os bens que lhes são confiados;\n\nd) Requerer a convocação de assembleias de secção;\n\ne) Elaborar e apresentar aos respectivos conselhos fiscais, com a antecedência mínima de 30 dias relativamente à respectiva assembleia de secção, o relatório e contas do ano civil anterior;\n\nf) Submeter à aprovação e votação das respectivas assembleias de secção o relatório e contas do ano civil anterior;\n\ng) Submeter à aprovação e votação das respectivas assembleias de secção o orçamento anual para o ano civil em curso;\n\nh) Arrecadar receitas, transferir verbas arrecadadas por conta de outrem e satisfazer despesas;\n\ni) Organizar os actos eleitorais;\n\nj) Colaborar com o conselho directivo nacional na organização e realização de referendos;\n\nl) Convocar reuniões de esclarecimento e debate relativas a referendos a realizar;\n\nm) Receber e instruir os pedidos de inscrição e promover o registo dos membros;\n\nn) Propor membros honorários;\n\no) Elaborar e aprovar os regulamentos necessários ao funcionamento dos respectivos serviços."
+  },
+  "230023598": {
+   "fragment_id": "230023505",
+   "type": 11,
+   "heading": "Artigo 23.º — Conselhos fiscais de secção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Conselhos fiscais de secção\n\n1 - Os conselhos fiscais de secção são constituídos por três membros efectivos, sendo o presidente cooptado de entre eles.\n\n2 - Compete aos conselhos fiscais de secção:\n\na) Examinar, pelo menos trimestralmente, a gestão financeira da competência dos respectivos conselhos directivos;\n\nb) Dar parecer sobre o relatório e contas apresentados pelos respectivos conselhos directivos, bem como sobre o orçamento;\n\nc) Participar, sempre que o julguem conveniente e sem direito a voto, nas reuniões dos respectivos conselhos directivos."
+  },
+  "230023599": {
+   "fragment_id": "230023506",
+   "type": 11,
+   "heading": "Artigo 24.º — Conselhos disciplinares de secção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Conselhos disciplinares de secção\n\n1 - Os conselhos disciplinares de secção são constituídos por três membros efectivos, sendo o presidente cooptado de entre eles.\n\n2 - Compete aos conselhos disciplinares de secção instruir e julgar os processos disciplinares que digam respeito aos membros da Associação, sem prejuízo dos que são da competência do conselho jurisdicional.\n\n3 - Das decisões dos conselhos disciplinares de secção cabe recurso para o conselho jurisdicional."
+  },
+  "230023600": {
+   "fragment_id": "230023507",
+   "type": 11,
+   "heading": "Artigo 25.º — Delegações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Delegações\n\n1 - Podem ser criadas delegações em áreas não correspondentes às sedes de secções regionais, mediante proposta de um mínimo de 50% dos membros com domicílio profissional na área correspondente, desde que em número não inferior a 75.\n\n2 - Nas Regiões Autónomas, as delegações podem abranger uma ilha ou um grupo de ilhas.\n\n3 - Em qualquer caso, a criação de delegações depende de aprovação pela assembleia de secção correspondente.\n\n4 - As delegações exercem as competências que lhes forem delegadas pelo conselho directivo da respectiva secção."
+  },
+  "230023601": {
+   "fragment_id": "230023508",
+   "type": 1,
+   "heading": "Capítulo IV — Especialidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Especialidades"
+  },
+  "230023602": {
+   "fragment_id": "230023509",
+   "type": 11,
+   "heading": "Artigo 26.º — Definição e enumeração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Definição e enumeração\n\n1 - A Associação integra colégios de especialidades, os quais agrupam os engenheiros técnicos que exercem a sua profissão no domínio correspondente a cada uma das especialidades.\n\n2 - Entende-se por especialidade um domínio da actividade da engenharia técnica, com características técnicas e científicas próprias.\n\n3 - Para além das que vierem a ser reconhecidas pelos órgãos competentes, são desde já criadas na Associação as seguintes especialidades:\n\na) Engenharia civil;\n\nb) Engenharia electrónica e de telecomunicações;\n\nc) Engenharia de energia e sistemas de potência;\n\nd) Engenharia mecânica;\n\ne) Engenharia química;\n\nf) Engenharia informática;\n\ng) Engenharia geotécnica;\n\nh) Engenharia agrária.\n\n4 - Os titulares de bacharelato em Engenharia, ou em área legalmente equiparada, com uma especialidade ainda não estruturada na Associação são inscritos naquela que o conselho da profissão considere como a mais adequada de entre as especialidades reconhecidas.\n\n5 - A instituição de novas especialidades e dos respectivos colégios compete ao conselho directivo nacional, mediante parecer do conselho da profissão.\n\n6 - Cada um dos colégios pode associar mais de uma especialidade, de acordo com o voto maioritário dos membros de cada uma das especialidades interessadas.\n\n7 - Cada colégio dispõe de um secretariado."
+  },
+  "230023603": {
+   "fragment_id": "230023510",
+   "type": 11,
+   "heading": "Artigo 27.º — Direcções de colégios de especialidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Direcções de colégios de especialidades\n\n1 - Os colégios de especialidades são dirigidos por direcções de colégios.\n\n2 - Sem prejuízo do disposto no número seguinte, as direcções de colégios são constituídas por um presidente e dois vice-presidentes, eleitos pelos membros da respectiva especialidade.\n\n3 - No caso de o colégio agrupar mais de uma especialidade, a direcção de colégio deve ainda integrar membros das especialidades que o compõem.\n\n4 - Podem participar nas reuniões das direcções de colégios os membros que para tal sejam convidados.\n\n5 - Compete a cada direcção de colégio:\n\na) Discutir e propor planos de acção relativos a questões profissionais no âmbito da especialidade do colégio;\n\nb) Discutir, dar parecer e propor planos de acção relativos à formação, actualização e especialização dos engenheiros técnicos;\n\nc) Dar parecer sobre matérias da especialização, bem como as de admissão e de qualificação;\n\nd) Dar parecer sobre matérias da especialidade do colégio, ou outras referentes à Associação, quando solicitado pelo conselho directivo nacional ou pelo conselho da profissão;\n\ne) Apoiar o conselho directivo nacional no domínio da respectiva especialidade;\n\nf) Participar na actividade geral da Associação através do conselho da profissão."
+  },
+  "230023604": {
+   "fragment_id": "230023511",
+   "type": 1,
+   "heading": "Capítulo V — Congresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Congresso"
+  },
+  "230023605": {
+   "fragment_id": "230023512",
+   "type": 11,
+   "heading": "Artigo 28.º — Congresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Congresso\n\n1 - A Associação realiza, com frequência não inferior a dois anos, um congresso de índole técnica, científica e profissional.\n\n2 - O congresso tem lugar, alternadamente, em cada uma das secções regionais.\n\n3 - A organização do congresso cabe ao conselho directivo nacional, com a colaboração do conselho directivo da secção regional onde se realiza o congresso.\n\n4 - As despesas com a realização dos congressos são suportadas pelos órgãos nacionais."
+  },
+  "230023606": {
+   "fragment_id": "230023513",
+   "type": 1,
+   "heading": "Capítulo VI — Eleições e referendos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Eleições e referendos"
+  },
+  "230023607": {
+   "fragment_id": "230023514",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "230023608": {
+   "fragment_id": "230023515",
+   "type": 11,
+   "heading": "Artigo 29.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Organização\n\nA organização das eleições e dos referendos compete ao conselho directivo nacional, com a colaboração das mesas das assembleias de secção, devendo para o efeito:\n\na) Convocar as assembleias eleitorais e de referendos;\n\nb) Promover a constituição das comissões de fiscalização;\n\nc) Organizar os cadernos eleitorais e apreciar as respectivas reclamações;\n\nd) Verificar a regularidade das candidaturas."
+  },
+  "230023609": {
+   "fragment_id": "230023516",
+   "type": 11,
+   "heading": "Artigo 30.º — Comissões de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Comissões de fiscalização\n\n1 - É constituída em cada secção uma comissão de fiscalização, composta pelo presidente da respectiva mesa da assembleia de secção e por um representante de cada uma das listas concorrentes, a qual inicia as suas funções no dia seguinte ao da apresentação das candidaturas ou da abertura do processo de referendo.\n\n2 - Os representantes de cada lista concorrente devem ser indicados conjuntamente com a apresentação das candidaturas.\n\n3 - Se o presidente da mesa da assembleia geral for candidato nas eleições a realizar é substituído na comissão de fiscalização por um dos secretários ou por um membro da Associação designado pela respectiva mesa.\n\n4 - Compete às comissões de fiscalização:\n\na) Fiscalizar o processo eleitoral ou de referendo;\n\nb) Elaborar relatórios sobre eventuais irregularidades, a entregar às correspondentes mesas das assembleias de secção."
+  },
+  "230023610": {
+   "fragment_id": "230023517",
+   "type": 11,
+   "heading": "Artigo 31.º — Sufrágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Sufrágio\n\n1 - O sufrágio é universal e por voto secreto.\n\n2 - Têm direito a voto os membros efectivos da Associação que se encontrem no pleno gozo dos seus direitos."
+  },
+  "230023611": {
+   "fragment_id": "230023518",
+   "type": 11,
+   "heading": "Artigo 32.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Publicidade\n\nA convocação das eleições e dos referendos é feita por meio de anúncios convocatórios afixados na sede nacional e nas sedes regionais e publicada em dois dos jornais mais lidos na área eleitoral com a antecedência mínima de 60 dias."
+  },
+  "230023612": {
+   "fragment_id": "230023519",
+   "type": 11,
+   "heading": "Artigo 33.º — Cadernos eleitorais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Cadernos eleitorais\n\n1 - Os cadernos eleitorais devem ser afixados nas sedes nacional e regionais 45 dias antes da data da realização das eleições.\n\n2 - Da inscrição irregular ou de omissão nos cadernos eleitorais pode qualquer eleitor reclamar para a mesa eleitoral nos 15 dias seguintes aos da afixação, devendo esta decidir da reclamação no prazo de quarenta e oito horas."
+  },
+  "230023613": {
+   "fragment_id": "230023520",
+   "type": 11,
+   "heading": "Artigo 34.º — Horário de votação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Horário de votação\n\nO horário das mesas de voto é marcado pelo conselho directivo nacional, devendo estas funcionar durante um mínimo de dez horas."
+  },
+  "230023614": {
+   "fragment_id": "230023521",
+   "type": 11,
+   "heading": "Artigo 35.º — Boletins de voto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Boletins de voto\n\n1 - Os boletins de voto são editados pelo conselho directivo nacional.\n\n2 - Os boletins de voto, bem como as listas de candidatura, são enviados aos membros efectivos da Associação até 10 dias úteis antes da data marcada para o acto eleitoral e estão igualmente disponíveis nos locais de voto."
+  },
+  "230023615": {
+   "fragment_id": "230023522",
+   "type": 11,
+   "heading": "Artigo 36.º — Identidade dos eleitores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Identidade dos eleitores\n\nA identificação dos eleitores é feita através da cédula profissional e, na sua falta, por meio de bilhete de identidade ou qualquer outro elemento de identificação com fotografia, aceite pela mesa de voto."
+  },
+  "230023616": {
+   "fragment_id": "230023523",
+   "type": 11,
+   "heading": "Artigo 37.º — Funcionamento das mesas de voto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Funcionamento das mesas de voto\n\n1 - As mesas de voto funcionam nas sedes nacional e regionais da Associação e, eventualmente, noutros locais a definir pela mesa eleitoral.\n\n2 - As mesas das assembleias de secção promovem, até cinco dias antes da data das eleições ou do referendo, a constituição das mesas de voto, devendo designar um representante seu, que preside."
+  },
+  "230023617": {
+   "fragment_id": "230023524",
+   "type": 11,
+   "heading": "Artigo 38.º — Contagem dos votos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Contagem dos votos\n\n1 - Logo que a votação tenha terminado, procede-se à contagem dos votos e à elaboração da acta dos resultados, devidamente assinada pelos elementos da mesa de voto.\n\n2 - O apuramento final é feito na sede da Associação no prazo de sete dias."
+  },
+  "230023618": {
+   "fragment_id": "230023525",
+   "type": 11,
+   "heading": "Artigo 39.º — Reclamação e recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Reclamação e recurso\n\n1 - Os eleitores podem reclamar perante a mesa eleitoral, com fundamento em irregularidades do acto eleitoral, até três dias após o encerramento do processo eleitoral.\n\n2 - A mesa eleitoral deve apreciar a reclamação no prazo de quarenta e oito horas, sendo a decisão comunicada ao reclamante por escrito e afixada na sede da Associação.\n\n3 - Da decisão da mesa eleitoral cabe recurso para o conselho directivo nacional no prazo de oito dias úteis contados da data em que os interessados tiveram conhecimento da decisão da mesa eleitoral.\n\n4 - O conselho directivo nacional é convocado para o efeito nos oito dias seguintes."
+  },
+  "230023619": {
+   "fragment_id": "230023526",
+   "type": 11,
+   "heading": "Artigo 40.º — Divulgação dos resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Divulgação dos resultados\n\n1 - Não tendo havido reclamações ou recursos, ou sido decididos os que tenham sido apresentados, é feita a divulgação dos resultados.\n\n2 - A divulgação dos resultados das eleições para os órgãos regionais é feita pelas respectivas mesas das assembleias de secção.\n\n3 - A divulgação dos resultados eleitorais para os órgãos nacionais da Associação, bem como dos resultados dos referendos, é feita pelo conselho directivo nacional."
+  },
+  "230023620": {
+   "fragment_id": "230023527",
+   "type": 11,
+   "heading": "Artigo 41.º — Voto por procuração e por correspondência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Voto por procuração e por correspondência\n\n1 - O voto é pessoal e secreto, não sendo admitido o voto por procuração.\n\n2 - Sem prejuízo do disposto no número anterior, é admitido o voto por correspondência desde que:\n\na) O boletim de voto esteja dobrado em quatro e contido em sobrescrito fechado;\n\nb) Do referido sobrescrito conste o nome, o número de cédula profissional e a assinatura igual à existente na ficha de filiação;\n\nc) O sobrescrito seja introduzido noutro e endereçado à mesa eleitoral, por meio de correio registado, até ao dia da votação, inclusive."
+  },
+  "230023621": {
+   "fragment_id": "230023528",
+   "type": 8,
+   "heading": "Secção II — Eleições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Eleições"
+  },
+  "230023622": {
+   "fragment_id": "230023529",
+   "type": 11,
+   "heading": "Artigo 42.º — Capacidade eleitoral passiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Capacidade eleitoral passiva\n\n1 - Só pode ser eleito para os órgãos da Associação quem seja, há mais de seis meses, membro efectivo no pleno gozo dos seus direitos.\n\n2 - Os candidatos ao conselho directivo nacional e a presidente e vice-presidentes da Associação não podem integrar as listas de candidatos a qualquer outro órgão."
+  },
+  "230023623": {
+   "fragment_id": "230023530",
+   "type": 11,
+   "heading": "Artigo 43.º — Sistema eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Sistema eleitoral\n\n1 - Salvo o disposto no número seguinte, as eleições para os órgãos da Associação são feitas de acordo com o sistema da representação proporcional, segundo o método da média mais alta de Hondt.\n\n2 - As eleições para presidente e vice-presidentes, bem como para os conselhos directivos de secção, são feitas de acordo com o sistema maioritário a uma volta."
+  },
+  "230023624": {
+   "fragment_id": "230023531",
+   "type": 11,
+   "heading": "Artigo 44.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Apresentação de candidaturas\n\n1 - As candidaturas são entregues nas mesas das assembleias de secção junto com um termo de aceitação e os respectivos programas de acção.\n\n2 - A apresentação das candidaturas deve ser feita até 30 dias antes da data do acto eleitoral.\n\n3 - As candidaturas devem ser subscritas por um mínimo de 100 membros efectivos da Associação.\n\n4 - Os candidatos são identificados pelo nome completo, número de cédula profissional, idade, residência e domicílio profissional.\n\n5 - Os proponentes das candidaturas são identificados pelo nome completo legível, assinatura e número de cédula profissional."
+  },
+  "230023625": {
+   "fragment_id": "230023532",
+   "type": 11,
+   "heading": "Artigo 45.º — Período eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Período eleitoral\n\n1 - As eleições devem ter lugar no último trimestre do ano do termo do mandato dos órgãos eleitos.\n\n2 - No caso de perda de quórum ou de destituição de órgãos eleitos, as eleições devem ter lugar nos três meses seguintes à perda de quórum ou da destituição, salvo se faltar menos de um ano para o início de novo mandato."
+  },
+  "230023626": {
+   "fragment_id": "230023533",
+   "type": 11,
+   "heading": "Artigo 46.º — Suprimento de irregularidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Suprimento de irregularidades\n\n1 - As mesas das assembleias de secção devem verificar da regularidade das candidaturas nos cinco dias subsequentes ao encerramento do prazo para entrega das listas de candidatura.\n\n2 - Com vista ao suprimento das eventuais irregularidades encontradas, a documentação é devolvida ao primeiro subscritor da lista, o qual deve saná-las no prazo de três dias úteis.\n\n3 - Findo o prazo referido no número anterior sem que se proceda à regularização das candidaturas, deve a mesa da assembleia de secção rejeitá-las nas vinte e quatro horas seguintes."
+  },
+  "230023627": {
+   "fragment_id": "230023534",
+   "type": 11,
+   "heading": "Artigo 47.º — Publicidade dos programas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Publicidade dos programas\n\nAs listas de candidatura concorrentes às eleições, bem como os respectivos programas de acção, são afixados nas sedes nacionais e regionais da Associação desde a data da sua aceitação definitiva até à realização do acto eleitoral."
+  },
+  "230023628": {
+   "fragment_id": "230023535",
+   "type": 8,
+   "heading": "Secção III — Referendos internos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Referendos internos"
+  },
+  "230023629": {
+   "fragment_id": "230023536",
+   "type": 11,
+   "heading": "Artigo 48.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Objecto\n\n1 - A Associação pode realizar, a nível nacional, referendos internos com carácter vinculativo aos seus membros, destinados a submeter a votação as questões que o conselho directivo nacional considere suficientemente relevantes.\n\n2 - As questões devem ser formuladas com clareza e para respostas de sim ou não.\n\n3 - As questões referentes a matérias que o presente Estatuto cometa à competência deliberativa de qualquer órgão nacional só podem ser submetidas a referendo mediante autorização desse órgão."
+  },
+  "230023630": {
+   "fragment_id": "230023537",
+   "type": 11,
+   "heading": "Artigo 49.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Organização\n\n1 - O teor das questões a submeter a referendo interno é divulgado junto de todos os membros da Associação e deve ser objecto de reuniões de esclarecimento e debate.\n\n2 - Sem prejuízo do disposto no número seguinte, as propostas de alteração às questões a submeter a referendo interno devem ser dirigidas por escrito ao conselho directivo nacional, durante o período de esclarecimento e debate, por membros da Associação devidamente identificados.\n\n3 - As propostas de referendo interno subscritas por um mínimo de 3% dos membros efectivos da Associação no pleno gozo dos seus direitos não podem ser objecto de alteração."
+  },
+  "230023631": {
+   "fragment_id": "230023538",
+   "type": 11,
+   "heading": "Artigo 50.º — Efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Efeitos\n\n1 - O efeito vinculativo do referendo interno depende de o número de votantes ser superior a metade dos membros efectivos inscritos nos cadernos eleitorais.\n\n2 - Quando se trate de projectos de propostas relativos à dissolução da Associação, a aprovação carece do voto expresso de dois terços dos membros inscritos nos cadernos eleitorais."
+  },
+  "230023632": {
+   "fragment_id": "230023539",
+   "type": 1,
+   "heading": "Capítulo VII — Deontologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Deontologia"
+  },
+  "230023633": {
+   "fragment_id": "230023540",
+   "type": 8,
+   "heading": "Secção I — Direitos e deveres para com a Associação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Direitos e deveres para com a Associação"
+  },
+  "230023634": {
+   "fragment_id": "230023541",
+   "type": 11,
+   "heading": "Artigo 51.º — Direitos dos membros efectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Direitos dos membros efectivos\n\nConstituem direitos dos membros efectivos:\n\na) Participar nas actividades da Associação;\n\nb) Requerer a convocação de assembleias de secção extraordinárias;\n\nc) Eleger e ser eleitos para o desempenho de funções na Associação;\n\nd) Intervir na criação de especialidades;\n\ne) Requerer a atribuição de títulos de especialização;\n\nf) Beneficiar da actividade editorial da Associação;\n\ng) Utilizar os serviços oferecidos pela Associação;\n\nh) Utilizar a cédula profissional emitida pela Associação."
+  },
+  "230023635": {
+   "fragment_id": "230023542",
+   "type": 11,
+   "heading": "Artigo 52.º — Deveres dos membros efectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Deveres dos membros efectivos\n\n1 - Constituem deveres dos membros efectivos para com a Associação:\n\na) Cumprir as obrigações do presente Estatuto e dos regulamentos da Associação;\n\nb) Desempenhar as funções para as quais tenham sido eleitos ou escolhidos;\n\nc) Colaborar com comissões ou grupos de trabalho da Associação;\n\nd) Pagar as quotas estabelecidas pelos órgãos competentes da Associação.\n\n2 - Estão isentos do pagamento de quotas os membros da Associação cuja inscrição se encontre suspensa."
+  },
+  "230023636": {
+   "fragment_id": "230023543",
+   "type": 11,
+   "heading": "Artigo 53.º — Direitos dos membros honorários e estudantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Direitos dos membros honorários e estudantes\n\nOs membros honorários e estudantes gozam dos seguintes direitos:\n\na) Participar nas actividades da Associação;\n\nb) Intervir, sem direito a voto, na assembleia geral e nas assembleias de secção."
+  },
+  "230023637": {
+   "fragment_id": "230023544",
+   "type": 11,
+   "heading": "Artigo 54.º — Deveres dos membros estudantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Deveres dos membros estudantes\n\nOs membros estudantes devem participar na prossecução dos objectivos da Associação e colaborar nas suas actividades."
+  },
+  "230023638": {
+   "fragment_id": "230023545",
+   "type": 8,
+   "heading": "Secção II — Deveres profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Deveres profissionais"
+  },
+  "230023639": {
+   "fragment_id": "230023546",
+   "type": 11,
+   "heading": "Artigo 55.º — Deveres do engenheiro técnico para com a comunidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Deveres do engenheiro técnico para com a comunidade\n\nSão deveres do engenheiro técnico:\n\na) Desempenhar com competência as suas funções, contribuindo para o progresso da engenharia técnica;\n\nb) Defender o ambiente e os recursos naturais;\n\nc) Garantir a segurança do pessoal, dos utentes e do público em geral;\n\nd) Procurar as melhores soluções técnicas, ponderando a economia e a qualidade das obras que projectar, dirigir ou organizar."
+  },
+  "230023640": {
+   "fragment_id": "230023547",
+   "type": 11,
+   "heading": "Artigo 56.º — Deveres do engenheiro técnico para com a entidade empregadora e para com o cliente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Deveres do engenheiro técnico para com a entidade empregadora e para com o cliente\n\nSão deveres do engenheiro técnico para com a entidade empregadora e o cliente:\n\na) Contribuir para a realização dos objectivos económico-sociais das organizações em que se integre, promovendo o aumento da produtividade, a melhoria da qualidade dos produtos e das condições de trabalho;\n\nb) Prestar os seus serviços com diligência e pontualidade, de modo a não prejudicar o cliente nem terceiros, nunca abandonando, sem justificação, os trabalhos que lhe forem confiados ou os cargos que desempenhar;\n\nc) Abster-se de divulgar ou de utilizar segredos profissionais;\n\nd) Fixar uma remuneração adequada ao serviço prestado."
+  },
+  "230023641": {
+   "fragment_id": "230023548",
+   "type": 11,
+   "heading": "Artigo 57.º — Deveres do engenheiro técnico no exercício da profissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Deveres do engenheiro técnico no exercício da profissão\n\nSão deveres do engenheiro técnico no exercício da sua profissão:\n\na) Agir sempre com boa fé, lealdade, correcção e isenção;\n\nb) Apenas assinar pareceres, projectos ou outros trabalhos profissionais de que seja autor ou colaborador."
+  },
+  "230023642": {
+   "fragment_id": "230023549",
+   "type": 11,
+   "heading": "Artigo 58.º — Deveres recíprocos dos engenheiros técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Deveres recíprocos dos engenheiros técnicos\n\nSão deveres recíprocos dos engenheiros técnicos:\n\na) Evitar qualquer concorrência desleal;\n\nb) Prestar aos colegas, desde que solicitada, toda a colaboração possível;\n\nc) Abster-se de prejudicar a reputação ou a actividade profissional de colegas;\n\nd) Quando chamado a substituir um colega na execução de um trabalho, não o aceitar sem o informar previamente."
+  },
+  "230023643": {
+   "fragment_id": "230023550",
+   "type": 1,
+   "heading": "Capítulo VIII — Responsabilidade disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Responsabilidade disciplinar"
+  },
+  "230023644": {
+   "fragment_id": "230023551",
+   "type": 11,
+   "heading": "Artigo 59.º — Responsabilidade disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Responsabilidade disciplinar\n\n1 - Os engenheiros técnicos estão sujeitos à jurisdição disciplinar dos órgãos da Associação, nos termos previstos no presente Estatuto e nos respectivos regulamentos.\n\n2 - Comete infracção disciplinar o engenheiro técnico que, por acção ou omissão, violar dolosa ou negligentemente algum dos deveres fixados neste Estatuto e nos respectivos regulamentos.\n\n3 - A acção disciplinar é independente de eventual responsabilidade civil ou criminal."
+  },
+  "230023645": {
+   "fragment_id": "230023552",
+   "type": 11,
+   "heading": "Artigo 60.º — Competência disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Competência disciplinar\n\nSem prejuízo do disposto na alínea d) do n.º 2 do artigo 18.º, o exercício do poder disciplinar compete aos conselhos disciplinares de secção."
+  },
+  "230023646": {
+   "fragment_id": "230023553",
+   "type": 11,
+   "heading": "Artigo 61.º — Instauração do processo disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Instauração do processo disciplinar\n\n1 - O processo disciplinar é instaurado mediante decisão dos conselhos disciplinares de secção ou do conselho jurisdicional, consoante o caso.\n\n2 - Os tribunais e demais autoridades públicas devem dar conhecimento à Associação da prática por engenheiros técnicos de actos susceptíveis de constituírem infracção disciplinar.\n\n3 - O Ministério Público e as demais entidades com poderes de investigação criminal devem dar conhecimento à Associação das participações apresentadas contra engenheiros técnicos, por actos relacionados com o exercício da profissão."
+  },
+  "230023647": {
+   "fragment_id": "230023554",
+   "type": 11,
+   "heading": "Artigo 62.º — Prescrição do procedimento disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Prescrição do procedimento disciplinar\n\n1 - O procedimento disciplinar prescreve no prazo de três anos sobre a prática da infracção, salvo o disposto no número seguinte.\n\n2 - O procedimento disciplinar de titulares de órgãos da Associação prescreve no prazo de três anos sobre a cessação das respectivas funções.\n\n3 - As infracções disciplinares que constituam simultaneamente ilícito penal prescrevem no mesmo prazo que o procedimento criminal, quando este for superior.\n\n4 - A responsabilidade disciplinar permanece durante o período de suspensão da Associação, e não cessa pela demissão como membro da Associação, relativamente a factos anteriormente praticados."
+  },
+  "230023648": {
+   "fragment_id": "230023555",
+   "type": 11,
+   "heading": "Artigo 63.º — Penas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Penas\n\n1 - As penas disciplinares são as seguintes:\n\na) Advertência;\n\nb) Censura;\n\nc) Suspensão até seis meses;\n\nd) Suspensão de seis meses a um ano;\n\ne) Suspensão de um a cinco anos.\n\n2 - A pena prevista na alínea c) do n.º 1 só pode ser aplicada por infracção disciplinar que configure negligência grave ou de acentuado desinteresse pelo cumprimento dos deveres profissionais consagrados na alínea a) do artigo 52.º, nas alíneas b) e c) do artigo 55.º, nas alíneas b) e c) do artigo 56.º, no artigo 57.º e nas alíneas a), c) e d) do artigo 58.º\n\n3 - A pena prevista na alínea d) do n.º 1 só pode ser aplicada por infracção disciplinar que afecte gravemente a dignidade e o prestígio profissional do engenheiro técnico.\n\n4 - A pena prevista na alínea e) do n.º 1 é aplicável quando tenha sido cometida infracção disciplinar que também constitua crime punível com pena de prisão superior a dois anos, ou em caso de reincidência da infracção referida no número anterior."
+  },
+  "230023649": {
+   "fragment_id": "230023556",
+   "type": 11,
+   "heading": "Artigo 64.º — Escolha e medida da pena",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Escolha e medida da pena\n\nA escolha e a medida da pena são feitas em função da culpa do arguido, tendo em conta a gravidade e as consequências da infracção, os antecedentes profissionais e disciplinares e as demais circunstâncias da infracção."
+  },
+  "230023650": {
+   "fragment_id": "230023557",
+   "type": 11,
+   "heading": "Artigo 65.º — Instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Instrução\n\n1 - A instrução do processo disciplinar compreende as diligências necessárias ao apuramento da verdade material, devendo o relator remover os obstáculos ao seu regular e rápido andamento e, sem prejuízo do direito de defesa, recusar o que for inútil ou dilatório.\n\n2 - Até ao despacho de acusação o processo é secreto."
+  },
+  "230023651": {
+   "fragment_id": "230023558",
+   "type": 11,
+   "heading": "Artigo 66.º — Termo da instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Termo da instrução\n\n1 - Finda a instrução, o relator profere despacho de acusação ou emite parecer fundamentado em que conclua no sentido do arquivamento do processo.\n\n2 - Não sendo proferido despacho de acusação, o relator apresenta o parecer na primeira reunião do conselho disciplinar de secção ou do conselho jurisdicional, consoante o caso, a fim de ser deliberado o arquivamento do processo ou determinado que o mesmo prossiga com a realização de diligências suplementares ou com o despacho de acusação, podendo neste último caso ser designado novo relator."
+  },
+  "230023652": {
+   "fragment_id": "230023559",
+   "type": 11,
+   "heading": "Artigo 67.º — Despacho de acusação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Despacho de acusação\n\n1 - O despacho de acusação deve indicar a identidade do arguido, os factos imputados e as circunstâncias em que foram praticados, as normas legais e regulamentares infringidas, a prova e o prazo para a apresentação de defesa.\n\n2 - O arguido é notificado da acusação pessoalmente ou por carta registada, com aviso de recepção, com a entrega da respectiva cópia."
+  },
+  "230023653": {
+   "fragment_id": "230023560",
+   "type": 11,
+   "heading": "Artigo 68.º — Defesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Defesa\n\n1 - O prazo para apresentação de defesa é de 20 dias.\n\n2 - O arguido pode nomear para a sua defesa um representante especialmente mandatado para esse efeito.\n\n3 - A defesa deve expor clara e concisamente os factos e as razões que a fundamentam.\n\n4 - Com a defesa deve o arguido apresentar o rol de testemunhas, juntar documentos e requerer as diligências necessárias para o apuramento dos factos relevantes.\n\n5 - Não podem ser apresentadas mais de 5 testemunhas por cada facto, não podendo o total delas exceder 20."
+  },
+  "230023654": {
+   "fragment_id": "230023561",
+   "type": 11,
+   "heading": "Artigo 69.º — Alegações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Alegações\n\nRealizadas as diligências a que se refere o artigo anterior e outras que sejam determinadas pelo relator, o interessado e o arguido são notificados para alegarem por escrito no prazo de 20 dias."
+  },
+  "230023655": {
+   "fragment_id": "230023562",
+   "type": 11,
+   "heading": "Artigo 70.º — Julgamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Julgamento\n\n1 - Finda a instrução, o processo é presente ao conselho disciplinar de secção ou ao conselho jurisdicional, consoante o caso, para julgamento, sendo lavrado e assinado o respectivo acórdão.\n\n2 - As penas de suspensão de 2 a 10 anos só podem ser aplicadas mediante decisão que obtenha dois terços dos votos de todos os membros do órgão competente.\n\n3 - Das deliberações dos conselhos disciplinares de secção cabe recurso para o conselho jurisdicional."
+  },
+  "230023656": {
+   "fragment_id": "230023563",
+   "type": 11,
+   "heading": "Artigo 71.º — Notificação do acórdão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Notificação do acórdão\n\n1 - Os acórdãos finais são notificados ao arguido e aos interessados nos termos do n.º 2 do artigo 67.º\n\n2 - O acórdão que aplicar pena de suspensão é também notificado à entidade empregadora do infractor."
+  },
+  "230023657": {
+   "fragment_id": "230023564",
+   "type": 11,
+   "heading": "Artigo 72.º — Processo de inquérito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Processo de inquérito\n\n1 - Pode ser ordenada a abertura de processo de inquérito sempre que não esteja concretizada a infracção ou não seja conhecido o seu autor, e quando seja necessário proceder a averiguações destinadas ao esclarecimento dos factos.\n\n2 - O processo de inquérito regula-se pelas normas aplicáveis ao processo disciplinar em tudo o que não esteja especialmente previsto."
+  },
+  "230023658": {
+   "fragment_id": "230023565",
+   "type": 11,
+   "heading": "Artigo 73.º — Termo de instrução em processo de inquérito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Termo de instrução em processo de inquérito\n\n1 - Finda a instrução, o relator emite um parecer fundamentado em que propõe o prosseguimento do processo como disciplinar ou o seu arquivamento, consoante considere existirem ou não indícios suficientes da prática de infracção disciplinar.\n\n2 - O relator apresenta o seu parecer em reunião do conselho disciplinar de secção ou do conselho jurisdicional, consoante o caso, que delibera no sentido de o processo prosseguir como disciplinar, ser arquivado ou de serem realizadas diligências complementares.\n\n3 - Caso o parecer não seja aprovado, pode ser designado novo relator de entre os membros que façam vencimento."
+  },
+  "230023659": {
+   "fragment_id": "230023566",
+   "type": 11,
+   "heading": "Artigo 74.º — Execução das decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Execução das decisões\n\n1 - Compete ao conselho directivo nacional dar execução às decisões disciplinares, podendo essa competência ser delegada no conselho directivo regional da área onde o arguido tenha domicílio profissional.\n\n2 - O cumprimento da pena de suspensão tem início a partir do dia da respectiva notificação.\n\n3 - Se à data do início da suspensão estiver suspensa ou cancelada a inscrição do arguido, o cumprimento da pena de suspensão tem início a partir do dia imediato àquele em que tiver lugar o levantamento da suspensão da inscrição, ou a reinscrição, ou a partir do termo da data em que termina a execução da anterior pena de suspensão."
+  },
+  "230023660": {
+   "fragment_id": "230023567",
+   "type": 11,
+   "heading": "Artigo 75.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Revisão\n\n1 - As decisões disciplinares definitivas podem ser revistas a pedido do interessado, com fundamento em novos factos ou novas provas, susceptíveis de alterar o sentido daquelas, ou quando outra decisão definitiva considerar falsos elementos de prova determinantes da decisão a rever.\n\n2 - A concessão de revisão depende de deliberação pela maioria absoluta dos membros do órgão que proferiu a decisão disciplinar."
+  },
+  "230023661": {
+   "fragment_id": "230023568",
+   "type": 1,
+   "heading": "Capítulo IX — Receitas e despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Receitas e despesas"
+  },
+  "230023662": {
+   "fragment_id": "230023569",
+   "type": 11,
+   "heading": "Artigo 76.º — Receitas dos órgãos nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Receitas dos órgãos nacionais\n\nConstituem receitas dos órgãos nacionais da Associação:\n\na) A percentagem das receitas previstas na alínea c) do n.º 4 do artigo 15.º cobradas pelos órgãos regionais, por delegação do conselho directivo nacional;\n\nb) O produto da venda de publicações editadas;\n\nc) Os resultados da realização dos congressos;\n\nd) Os resultados de outras actividades;\n\ne) As heranças, legados e doações;\n\nf) Os rendimentos dos bens que lhes estejam afectos;\n\ng) Os juros de contas de depósitos."
+  },
+  "230023663": {
+   "fragment_id": "230023570",
+   "type": 11,
+   "heading": "Artigo 77.º — Receitas dos órgãos regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Receitas dos órgãos regionais\n\nConstituem receitas dos órgãos regionais:\n\na) A percentagem que lhes couber das jóias e das quotas pagas pelos respectivos membros inscritos;\n\nb) O produto de outras actividades levadas a efeito por sua iniciativa;\n\nc) As heranças, legados e doações destinadas a utilização nas respectivas áreas territoriais de jurisdição;\n\nd) Os rendimentos dos bens que lhes estejam afectos;\n\ne) Os juros de conta de depósitos."
+  },
+  "230023664": {
+   "fragment_id": "230023571",
+   "type": 11,
+   "heading": "Artigo 78.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Despesas\n\n1 - As despesas de deslocação dos titulares dos órgãos nacionais, no exercício das suas funções, são suportadas pelo conselho directivo nacional.\n\n2 - As despesas de deslocação dos titulares dos órgãos das secções regionais, no exercício das suas funções, são suportadas pelos respectivos conselhos directivos de secção."
+  },
+  "230022869": {
+   "fragment_id": "230023476",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 15 de Julho de 1999. - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim - João Cardona Gomes Cravinho - Guilherme d'Oliveira Martins - Fernando Lopes Ribeiro Mendes.\n\nPromulgado em 20 de Agosto de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 26 de Agosto de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "248260838": {
+   "fragment_id": "230023479",
+   "type": 11,
+   "heading": "Artigo 1.º — Denominação, natureza e sede",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 1.º — Denominação, natureza e sede\n\n1 - A OET - Ordem dos Engenheiros Técnicos, adiante designada por Ordem, é a associação pública representativa dos titulares de um grau académico de curso de ensino superior do 1.º ciclo em Engenharia, ou de formação equiparada, que exercem a profissão de engenheiro técnico.\n\n2 - A Ordem tem sede em Lisboa.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "248260828": {
+   "fragment_id": "230023480",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nSão atribuições da Ordem:\n\na) Conceder o título de engenheiro técnico;\n\nb) Regular o acesso e exercício da profissão de engenheiro técnico;\n\nc) Criar níveis de qualificação profissional e atribuir títulos de especialista;\n\nd) Zelar pela função social, dignidade e prestígio da profissão de engenheiro técnico, promovendo a valorização profissional e científica dos seus associados e a defesa e o respeito pelos respectivos princípios deontológicos;\n\ne) Efectuar o registo de todos os engenheiros técnicos;\n\nf) Elaborar a regulamentação sobre a respectiva actividade profissional;\n\ng) Representar os engenheiros técnicos junto dos órgãos de soberania e colaborar com os órgãos da Administração Pública sempre que esteja em causa matérias que se relacionem com a prossecução dos seus fins;\n\nh) Contribuir para a defesa e promoção da engenharia, sendo ouvida sobre os projectos de diplomas legislativos que interessem à Engenharia;\n\ni) Defender os direitos e interesses legítimos dos seus membros;\n\nj) Fazer respeitar o código deontológico e exercer jurisdição disciplinar sobre todos os engenheiros técnicos que exerçam a profissão no território nacional;\n\nk) Promover o intercâmbio de ideias e experiências entre os membros e com organismos congéneres estrangeiros, bem como acções de coordenação interdisciplinar;\n\nl) Promover, patrocinar e apoiar a edição de publicações que contribuam para um melhor esclarecimento público sobre as implicações e a relevância da engenharia;\n\nm) Colaborar com escolas, universidades, institutos politécnicos, faculdades e outras instituições em iniciativas que visem a formação dos engenheiros técnicos;\n\nn) Prestar serviços aos seus membros;\n\no) Participar no processo oficial de acreditação e avaliação dos cursos que dão acesso à profissão de engenheiro técnico.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "248260829": {
+   "fragment_id": "230023481",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 3.º — Âmbito\n\n1 - A Ordem compreende as Secções Regionais do Norte, do Centro, do Sul, dos Açores e da Madeira.\n\n2 - A Secção Regional do Norte compreende os distritos de Braga, Bragança, Porto, Viana do Castelo e Vila Real.\n\n3 - A Secção Regional do Centro compreende os distritos de Aveiro, Castelo Branco, Coimbra, Guarda, Leiria e Viseu.\n\n4 - A Secção Regional do Sul compreende os distritos de Beja, Évora, Faro, Lisboa, Portalegre, Santarém e Setúbal.\n\n5 - As Secções Regionais dos Açores e da Madeira compreendem, respectivamente, as Regiões Autónomas dos Açores e da Madeira.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "248260830": {
+   "fragment_id": "230023483",
+   "type": 11,
+   "heading": "Artigo 4.º — Inscrição",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 4.º — Inscrição\n\nA atribuição do título, o seu uso e o exercício da profissão de engenheiro técnico dependem de inscrição como membro efectivo da Ordem.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "248260831": {
+   "fragment_id": "230023484",
+   "type": 11,
+   "heading": "Artigo 5.º — Membros estrangeiros",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 5.º — Membros estrangeiros\n\n1 - O exercício em Portugal da profissão de engenheiro técnico por nacionais de outros Estados membros da União Europeia, possuidores das habilitações académicas e profissionais legalmente exigidas para o exercício da profissão no Estado de origem, depende de inscrição na Ordem.\n\n2 - Os nacionais de Estados não pertencentes à União Europeia podem, para efeito do exercício em Portugal da profissão de engenheiro técnico, inscrever-se na Ordem em condições de reciprocidade, nos termos a fixar por convenção ou protocolo internacional.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "248260832": {
+   "fragment_id": "230023485",
+   "type": 11,
+   "heading": "Artigo 6.º — Membros",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 6.º — Membros\n\nA Ordem integra membros:\n\na) Estudantes;\n\nb) Estagiários;\n\nc) Efectivos;\n\nd) (Revogada.)\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "248260833": {
+   "fragment_id": "230023486",
+   "type": 11,
+   "heading": "Artigo 7.º — Membros estudantes",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 7.º — Membros estudantes\n\nOs estudantes do último ano dos cursos referidos no n.º 1 do artigo 1.º podem ser admitidos na qualidade de membros estudantes.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "248260834": {
+   "fragment_id": "230023487",
+   "type": 11,
+   "heading": "Artigo 8.º — Membros estagiários",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 8.º — Membros estagiários\n\n1 - A admissão como membro estagiário depende da titularidade do grau académico referido no n.º 1 do artigo 1.º\n\n2 - A qualidade de membro estagiário é adquirida após a apresentação e aprovação do plano de estágio profissional.\n\n3 - Os membros estagiários inscrevem-se no colégio de especialidade correspondente à do seu curso.\n\n4 - A inscrição na Ordem faz-se na secção regional do respectivo domicílio profissional.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "248260836": {
+   "fragment_id": "230023488",
+   "type": 11,
+   "heading": "Artigo 9.º — Membros efectivos",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 9.º — Membros efectivos\n\n1 - A admissão como membro efectivo depende de titularidade do grau académico referido no n.º 1 do artigo 1.º\n\n2 - A qualidade de membro efectivo é adquirida após a realização, com sucesso, do estágio profissional.\n\n3 - Os membros efectivos inscrevem-se no colégio de especialidade correspondente à do seu curso.\n\n4 - A inscrição na Ordem faz-se na secção regional do respectivo domicílio profissional.\n\n> Alterado pelo/a Artigo 9.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "248260835": {
+   "fragment_id": "230023489",
+   "type": 11,
+   "heading": "Artigo 10.º — Membros colectivos",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 10.º — Membros colectivos\n\nPodem inscrever-se como membros colectivos da Associação as pessoas colectivas que com ela estabeleçam acordo escrito e que desenvolvam actividades relevantes no domínio da engenharia técnica.\n\n> Revogado pelo/a Artigo 10.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "248260837": {
+   "fragment_id": "230023490",
+   "type": 11,
+   "heading": "Artigo 11.º — Demissão e suspensão",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 11.º — Demissão e suspensão\n\n1 - Perdem a qualidade de membros os engenheiros técnicos que solicitem a sua demissão da Ordem.\n\n2 - É suspensa a inscrição e, por consequência, a qualidade de engenheiro técnico:\n\na) Se o membro o requerer;\n\nb) Se for aplicada ao membro uma pena disciplinar de suspensão.\n\n> Alterado pelo/a Artigo 11.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273435": {
+   "fragment_id": "253274980",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Níveis de qualificação",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 11.º-A — Níveis de qualificação\n\n1 - Os níveis de qualificação dos membros efectivos são os seguintes:\n\na) Engenheiro técnico;\n\nb) Engenheiro técnico sénior;\n\nc) Engenheiro técnico especialista.\n\n2 - O grau de engenheiro técnico é obtido após a homologação, pelo conselho directivo nacional, da aprovação no estágio profissional.\n\n3 - O grau de engenheiro técnico sénior pode ser conferido aos membros que, fruto de experiência profissional, detenham as competências para realizar actos de engenharia de maior complexidade dentro da sua especialidade, nos termos de regulamento aplicável.\n\n4 - O grau de engenheiro técnico especialista pode ser conferido aos membros que, fruto de experiência profissional e académica acumulada, detenham as competências para realizar actos de engenharia de maior complexidade dentro da uma área específica da sua especialidade ou englobando várias especialidades, nos termos de regulamento aplicável.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "248260839": {
+   "fragment_id": "230023493",
+   "type": 11,
+   "heading": "Artigo 12.º — Órgãos nacionais",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 12.º — Órgãos nacionais\n\n1 - São órgãos nacionais da Ordem:\n\na) A assembleia geral;\n\nb) O bastonário;\n\nc) A assembleia de representantes;\n\nd) O conselho directivo nacional;\n\ne) O conselho fiscal nacional;\n\nf) O conselho jurisdicional;\n\ng) O conselho da profissão.\n\n2 - Os mandatos dos membros dos órgãos da Ordem têm a duração de três anos.\n\n3 - É permitida a reeleição, mas o cargo não pode ser desempenhado, consecutivamente, por mais de três mandatos.\n\n4 - O desempenho de funções efectivas e em permanência dos titulares dos órgãos nacionais pode ser remunerado, nos termos a definir em regulamento específico.\n\n5 - Os funcionários e agentes da Administração Pública podem ser destacados ou requisitados, nos termos da lei, para o desempenho de funções em permanência nos órgãos nacionais.\n\n> Alterado pelo/a Artigo 12.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "248260840": {
+   "fragment_id": "230023494",
+   "type": 11,
+   "heading": "Artigo 13.º — Assembleia geral",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 13.º — Assembleia geral\n\n1 - A assembleia geral é composta pela totalidade dos membros efectivos no pleno gozo dos seus direitos e reúne ordinariamente duas vezes por ano e extraordinariamente sempre que convocada, nos termos do n.º 4.\n\n2 - (Revogado.)\n\n3 - A mesa da assembleia geral é formada pelo presidente, vice-presidente e secretário, eleitos em lista.\n\n4 - A assembleia geral reúne extraordinariamente, mediante convocação do respectivo presidente da mesa, sempre que o conselho directivo nacional, a assembleia de representantes, os conselhos directivos de secção ou, pelo menos, 300 membros efectivos o requeiram, juntando a proposta de ordem de trabalhos.\n\n5 - Compete à assembleia geral:\n\na) Deliberar, até 30 de Abril, sobre o relatório de actividades e contas consolidadas da Ordem, aprovadas pelo conselho directivo nacional relativo ao ano civil transacto, tendo em conta o parecer do conselho fiscal nacional e o relatório do revisor oficial de contas;\n\nb) Deliberar, até 15 de Dezembro de cada ano, sobre o plano de actividades e orçamento consolidado, tendo em conta o parecer do conselho fiscal nacional.\n\n6 - Compete ao presidente da assembleia geral dar posse aos membros eleitos para os órgãos nacionais e apreciar os seus pedidos de exoneração.\n\n7 - O presidente da mesa da assembleia geral pode assistir, sem direito a voto, às reuniões do conselho directivo nacional, sempre que o julgue conveniente ou este órgão o solicite.\n\n> Alterado pelo/a Artigo 13.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "248260841": {
+   "fragment_id": "230023495",
+   "type": 11,
+   "heading": "Artigo 14.º — Presidente",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 14.º — Presidente\n\n1 - O bastonário e os três vice-presidentes da Ordem são eleitos em lista.\n\n2 - Compete ao bastonário:\n\na) Representar a Ordem, em juízo e fora dele;\n\nb) Presidir, com voto de qualidade, ao conselho directivo nacional e à assembleia de representantes;\n\nc) (Revogada.)\n\nd) Convocar a assembleia de representantes;\n\ne) Despachar o expediente corrente do conselho directivo nacional;\n\nf) Propor, ao conselho directivo nacional, a personalidade para ocupar o cargo de provedor da Ordem.\n\n3 - O bastonário é coadjuvado por três vice-presidentes, que o substituem nas suas ausências ou impedimentos.\n\n4 - O bastonário pode delegar competências nos vice-presidentes e nos presidentes dos conselhos directivos de secção.\n\n> Alterado pelo/a Artigo 14.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "248260842": {
+   "fragment_id": "230023496",
+   "type": 11,
+   "heading": "Artigo 15.º — Assembleia de representantes",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 15.º — Assembleia de representantes\n\n1 - A assembleia de representantes é constituída por:\n\na) O bastonário e os vice-presidentes da Ordem;\n\nb) Os restantes membros do conselho directivo nacional;\n\nc) O presidente da mesa da assembleia geral;\n\nd) Os presidentes das mesas das assembleias de secção;\n\ne) O presidente do conselho fiscal nacional;\n\nf) O presidente do conselho de profissão;\n\ng) Os presidentes dos colégios de especialidades.\n\n2 - (Revogado.)\n\n3 - A assembleia de representantes é presidida pelo bastonário da Ordem.\n\n4 - Compete à assembleia de representantes:\n\na) Deliberar sobre os assuntos que o conselho directivo nacional decida submeter-lhe;\n\nb) Apreciar o plano de actividades e o orçamento anual, a submeter à assembleia geral;\n\nc) Fixar as jóias e quotas a cobrar aos membros, bem como a percentagem destas receitas destinadas às secções regionais;\n\nd) Aprovar todos os regulamentos mencionados no presente Estatuto respeitantes aos órgãos nacionais;\n\ne) Deliberar, mediante proposta do conselho directivo nacional, sobre a realização de referendos.\n\n5 - A assembleia de representantes, convocada pelo bastonário, reúne ordinariamente até 30 de Novembro de cada ano, para os fins previstos nas alíneas b) e c) do número anterior, e extraordinariamente por iniciativa do conselho directivo nacional.\n\n> Alterado pelo/a Artigo 15.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "248260843": {
+   "fragment_id": "230023497",
+   "type": 11,
+   "heading": "Artigo 16.º — Conselho directivo nacional",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 16.º — Conselho directivo nacional\n\n1 - O conselho directivo nacional é constituído pelo bastonário da Ordem, que tem voto de qualidade em caso de empate, pelos três vice-presidentes e pelos presidentes e vice-presidentes dos conselhos directivos das secções.\n\n2 - O funcionamento do conselho directivo nacional é objecto de regulamento próprio.\n\n3 - Compete ao conselho directivo nacional:\n\na) Desenvolver as relações internacionais da Ordem, delas dando conta à assembleia geral;\n\nb) Elaborar o plano de actividades e o orçamento consolidado da Ordem;\n\nc) Elaborar o relatório de actividades e as contas consolidadas da Ordem;\n\nd) Arrecadar receitas e efectuar despesas;\n\ne) Aprovar as linhas gerais dos programas da acção dos colégios;\n\nf) Aprovar o regulamento de funcionamento das delegações e dos delegados distritais e das ilhas das regiões autónomas;\n\ng) Apresentar à assembleia de representantes, para parecer ou para deliberação, propostas sobre matérias de especial relevância para a Ordem;\n\nh) Propor à assembleia de representantes a realização de referendos;\n\ni) Organizar os referendos e os actos eleitorais, em colaboração com os competentes órgãos regionais, e decidir dos recursos interpostos;\n\nj) Decidir da instituição de novas especialidades;\n\nk) Criar níveis de qualificação profissional e atribuir títulos de especialista;\n\nl) Aprovar os regulamentos propostos pelo conselho da profissão;\n\nm) Proceder ao reconhecimento dos cursos de Engenharia, conducentes ao título de engenheiro técnico;\n\nn) Zelar pela conservação e actualização do registo geral da inscrição de membros;\n\no) Arbitrar conflitos de competência;\n\np) Deliberar sobre a propositura da acções judiciais, confessar, desistir, transigir, alienar ou onerar bens, contrair empréstimos e aceitar doações, heranças e legados;\n\nq) Esclarecer dúvidas relativas à inscrição dos membros efectivos nas especialidades reconhecidas pela Ordem;\n\nr) Constituir grupos de trabalho;\n\ns) Deliberar sobre a admissão ou dispensa de funcionários da Ordem, sejam eles adstritos aos serviços de apoio aos órgãos nacionais ou regionais;\n\nt) Designar o secretário-geral, a quem cabe, mediante remuneração, apoiar a actividade dos órgãos nacionais e executar as políticas definidas pelo conselho directivo nacional, de acordo com as directrizes emanadas do bastonário;\n\nu) Designar o provedor da Ordem;\n\nv) Exercer todas as competências que não sejam reconhecidas a outros órgãos.\n\n4 - O conselho directivo nacional deve ouvir previamente o conselho da profissão quando esteja em causa o exercício das competências referidas nas alíneas e), j), l) e q) do número anterior.\n\n> Alterado pelo/a Artigo 16.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "248260844": {
+   "fragment_id": "230023498",
+   "type": 11,
+   "heading": "Artigo 17.º — Conselho fiscal nacional",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 17.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 17.º — Conselho fiscal nacional\n\n1 - O conselho fiscal nacional é constituído por um presidente, dois vice-presidentes e dois vogais, eleitos em lista, e pelos presidentes dos conselhos fiscais de secção, estes sem direito a voto.\n\n2 - Compete ao conselho fiscal nacional:\n\na) Examinar, pelo menos trimestralmente, a gestão financeira desenvolvida pelos órgãos nacionais;\n\nb) Dar parecer sobre o relatório, contas e orçamentos anuais;\n\nc) (Revogada.)\n\n3 - O presidente do conselho fiscal nacional pode assistir, sem direito a voto, às reuniões do conselho directivo nacional, sempre que julgue conveniente ou este o solicite.\n\n> Alterado pelo/a Artigo 17.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "248260845": {
+   "fragment_id": "230023499",
+   "type": 11,
+   "heading": "Artigo 18.º — Conselho jurisdicional",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 18.º — Conselho jurisdicional\n\n1 - O conselho jurisdicional é constituído por um presidente, dois vice-presidentes e dois vogais.\n\n2 - Compete ao conselho jurisdicional:\n\na) Zelar pelo cumprimento do presente Estatuto, dos respectivos regulamentos e das decisões e deliberações tomadas pelos órgãos competentes;\n\nb) Dar parecer sobre as propostas de regulamentos;\n\nc) Dar apoio ao conselho directivo nacional na arbitragem de conflitos de competência;\n\nd) Exercer o poder disciplinar relativamente a infracções cometidas por titulares ou ex-titulares dos órgãos da Ordem;\n\ne) Julgar os recursos interpostos das decisões dos conselhos disciplinares de secção.\n\n3 - O conselho jurisdicional pode ser assessorado por um consultor jurídico.\n\n4 - O presidente do conselho jurisdicional pode assistir, sem direito a voto, às reuniões do conselho directivo nacional, sempre que julgue conveniente ou este o solicite.\n\n> Alterado pelo/a Artigo 18.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273375": {
+   "fragment_id": "230023500",
+   "type": 11,
+   "heading": "Artigo 19.º — Conselho da profissão",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 19.º — Conselho da profissão\n\n1 - O conselho da profissão é constituído por um presidente, dois vice-presidentes e pelos presidentes de cada um dos colégios de especialidades.\n\n2 - O conselho pode ser assessorado por personalidades de reconhecido mérito científico ou profissional, a título permanente ou eventual, e solicitar pareceres a comissões especializadas da Ordem ou a entidades exteriores.\n\n3 - Compete ao conselho da profissão:\n\na) Zelar pelo cumprimento do código deontológico dos engenheiros técnicos;\n\nb) Propor ao conselho directivo nacional a instituição de especialidades;\n\nc) Propor ao conselho directivo nacional a criação de níveis de qualificação profissional e a atribuição de títulos de especialista;\n\nd) Emitir pareceres sobre a regulamentação do exercício da profissão;\n\ne) Propor ao conselho directivo nacional a atribuição de graus de acordo com o sistema de graduação da Ordem.\n\n4 - Das decisões do conselho da profissão cabe recurso para o conselho directivo nacional.\n\n5 - O presidente do conselho da profissão pode assistir, sem direito a voto, às reuniões do conselho directivo nacional, sempre que julgue conveniente ou este órgão o solicite.\n\n> Alterado pelo/a Artigo 19.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273376": {
+   "fragment_id": "230023502",
+   "type": 11,
+   "heading": "Artigo 20.º — São órgãos regionais da Ordem:",
+   "in_force_from": "2023-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 20.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2023-07-27"
+   ],
+   "markdown": "###### Artigo 20.º — São órgãos regionais da Ordem:\n\na) As assembleias de secção;\n\nb) Os conselhos directivos de secção;\n\nc) Os conselhos fiscais de secção;\n\nd) Os conselhos disciplinares de secção.\n\n> Alterado pelo/a Artigo 20.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2023-07-27"
+  },
+  "253273377": {
+   "fragment_id": "230023503",
+   "type": 11,
+   "heading": "Artigo 21.º — Assembleias de secção",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 21.º — Assembleias de secção\n\n1 - As assembleias de secção são constituídas por todos os membros efectivos no pleno gozo dos seus direitos, inscritos nas respectivas secções regionais.\n\n2 - Compete às assembleias de secção:\n\na) Aprovar o relatório e contas do conselho directivo de secção, atento o parecer do conselho fiscal de secção respectivo;\n\nb) Apreciar e deliberar sobre o orçamento anual proposto pelo respectivo conselho directivo de secção;\n\nc) Apreciar os actos de gestão dos respectivos órgãos de secção;\n\nd) Aprovar os regulamentos dos órgãos de secção;\n\ne) Apreciar os assuntos que lhe sejam submetidos;\n\nf) Pedir a convocação da assembleia de representantes.\n\n3 - As assembleias de secção são dirigidas por uma mesa, constituída por um presidente e dois secretários, eleitos em lista.\n\n4 - As assembleias de secção reúnem anualmente em sessões ordinárias, no mês de Março, para exercerem as competências previstas nas alíneas b) e c) do n.º 2.\n\n5 - As assembleias de secção reúnem extraordinariamente por iniciativa dos respectivos conselhos directivos ou conselhos fiscais ou sempre que um mínimo de 5 % ou de 100 membros efectivos no pleno gozo dos seus direitos o requeira à mesa.\n\n6 - As decisões das assembleias de secção não vinculam a Ordem enquanto instituição de âmbito nacional.\n\n> Alterado pelo/a Artigo 21.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273378": {
+   "fragment_id": "230023504",
+   "type": 11,
+   "heading": "Artigo 22.º — Conselhos directivos de secção",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 22.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 22.º — Conselhos directivos de secção\n\n1 - Os conselhos directivos de secção são constituídos por um presidente, um vice-presidente, um secretário, um tesoureiro e um vogal, eleitos em lista.\n\n2 - Compete aos conselhos directivos de secção:\n\na) Promover acções tendentes à realização dos objectivos da Ordem, de acordo com as grandes linhas de actuação definidas pelo conselho directivo nacional;\n\nb) Representar a respectiva secção regional, em juízo e fora dele;\n\nc) Gerir as actividades das respectivas secções regionais nos termos do presente Estatuto e dos regulamentos e administrar os bens que lhes são confiados;\n\nd) Requerer a convocação de assembleias de secção;\n\ne) Elaborar e apresentar aos respectivos conselhos fiscais, com a antecedência mínima de 30 dias relativamente à respectiva assembleia de secção, o relatório e contas do ano civil anterior;\n\nf) Submeter à aprovação e votação das respectivas assembleias de secção o relatório e contas do ano civil anterior;\n\ng) Submeter à aprovação e votação das respectivas assembleias de secção o orçamento anual para o ano civil em curso;\n\nh) Arrecadar receitas, transferir verbas arrecadadas por conta de outrem e satisfazer despesas;\n\ni) Organizar os actos eleitorais;\n\nj) Colaborar com o conselho directivo nacional na organização e realização de referendos;\n\nl) Convocar reuniões de esclarecimento e debate relativas a referendos a realizar;\n\nm) Receber e instruir os pedidos de inscrição e promover o registo dos membros;\n\nn) (Revogada.)\n\no) Elaborar e aprovar os regulamentos necessários ao funcionamento dos respectivos serviços.\n\n> Alterado pelo/a Artigo 22.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273379": {
+   "fragment_id": "230023505",
+   "type": 11,
+   "heading": "Artigo 23.º — Conselhos fiscais de secção",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 23.º — Conselhos fiscais de secção\n\n1 - Os conselhos fiscais de secção são constituídos por um presidente e dois vogais, eleitos em lista, acrescido do presidente do conselho fiscal nacional, este sem direito a voto.\n\n2 - Compete aos conselhos fiscais de secção:\n\na) Examinar, pelo menos trimestralmente, a gestão financeira da competência dos respectivos conselhos directivos;\n\nb) Dar parecer sobre o relatório e contas apresentados pelos respectivos conselhos directivos, bem como sobre o orçamento;\n\nc) Participar, sempre que o julguem conveniente e sem direito a voto, nas reuniões dos respectivos conselhos directivos.\n\n> Alterado pelo/a Artigo 23.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273380": {
+   "fragment_id": "230023506",
+   "type": 11,
+   "heading": "Artigo 24.º — Conselhos disciplinares de secção",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 24.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 24.º — Conselhos disciplinares de secção\n\n1 - Os conselhos disciplinares de secção são constituídos por um presidente e dois vogais, eleitos em lista.\n\n2 - Compete aos conselhos disciplinares de secção instruir e julgar os processos disciplinares que digam respeito aos membros da Ordem, sem prejuízo dos que são da competência do conselho jurisdicional.\n\n3 - Das decisões dos conselhos disciplinares de secção cabe recurso para o conselho jurisdicional.\n\n> Alterado pelo/a Artigo 24.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273381": {
+   "fragment_id": "230023507",
+   "type": 11,
+   "heading": "Artigo 25.º — Delegações",
+   "in_force_from": "2027-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 25.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2027-07-27"
+   ],
+   "markdown": "###### Artigo 25.º — Delegações\n\n1 - Podem ser criadas delegações em áreas não correspondentes às sedes de secções regionais, mediante proposta de um mínimo de 50 % dos membros com domicílio profissional na área correspondente, desde que em número não inferior a 75.\n\n2 - Nas regiões autónomas, as delegações podem abranger uma ilha ou um grupo de ilhas, independentemente do respectivo número de associados.\n\n3 - Em qualquer caso, a criação de delegações depende de aprovação pela assembleia de secção correspondente.\n\n4 - As delegações exercem as competências que lhes forem delegadas pelo conselho directivo da respectiva secção.\n\n> Alterado pelo/a Artigo 25.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2027-07-27"
+  },
+  "253273382": {
+   "fragment_id": "230023509",
+   "type": 11,
+   "heading": "Artigo 26.º — Definição e enumeração",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 26.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 26.º — Definição e enumeração\n\n1 - A Ordem integra colégios de especialidades, os quais agrupam os engenheiros técnicos que exercem a sua profissão no domínio correspondente a cada uma das especialidades.\n\n2 - Entende-se por especialidade, que se pode organizar por áreas de conhecimento, um domínio da actividade da engenharia com características técnicas e científicas próprias.\n\n3 - Para além das que vierem a ser reconhecidas pelos órgãos competentes, são desde já criadas na Ordem as seguintes especialidades:\n\na) Engenharia civil;\n\nb) Engenharia electrónica e de telecomunicações;\n\nc) Engenharia de energia e sistemas de potência;\n\nd) Engenharia mecânica;\n\ne) Engenharia química;\n\nf) Engenharia informática;\n\ng) Engenharia geotécnica;\n\nh) Engenharia agrária;\n\ni) Engenharia geográfica/topográfica;\n\nj) Engenharia de ambiente;\n\nk) Engenharia de segurança;\n\nl) Engenharia aeronáutica;\n\nm) Engenharia de transportes;\n\nn) Engenharia da protecção civil;\n\no) Engenharia alimentar;\n\np) Engenharia industrial e da qualidade.\n\n4 - Os titulares do grau académico referido no n.º 1 do artigo 1.º, com uma especialidade ainda não organizada na Ordem, são inscritos naquela que o conselho da profissão considere como a mais adequada de entre as especialidades reconhecidas.\n\n5 - A instituição de novas especialidades e dos respectivos colégios compete ao conselho directivo nacional, mediante parecer do conselho da profissão.\n\n6 - Cada um dos colégios pode associar mais de uma especialidade, de acordo com o voto maioritário dos membros de cada uma das especialidades interessadas.\n\n7 - (Revogado.)\n\n> Alterado pelo/a Artigo 26.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273383": {
+   "fragment_id": "230023510",
+   "type": 11,
+   "heading": "Artigo 27.º — Direcções de colégios de especialidades",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 27.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 27.º — Direcções de colégios de especialidades\n\n1 - Os colégios de especialidades são dirigidos por direcções de colégios.\n\n2 - Sem prejuízo do disposto no número seguinte, as direcções de colégios são constituídas por um presidente e dois vice-presidentes, eleitos pelos membros da respectiva especialidade.\n\n3 - No caso de o colégio agrupar mais de uma especialidade, a direcção de colégio deve ainda integrar membros das especialidades que o compõem.\n\n4 - Podem participar nas reuniões das direcções de colégios os membros que para tal sejam convidados.\n\n5 - Compete a cada direcção de colégio:\n\na) Discutir e propor planos de acção relativos a questões profissionais no âmbito da especialidade do colégio;\n\nb) Discutir, dar parecer e propor planos de acção relativos à formação, actualização e especialização dos engenheiros técnicos;\n\nc) Propor a elaboração de regulamentos;\n\nd) Dar parecer sobre matérias da especialização, bem como as de admissão e de qualificação;\n\ne) Dar parecer sobre matérias da especialidade do colégio, ou outras referentes à Ordem, quando solicitado pelo conselho directivo nacional ou pelo conselho da profissão;\n\nf) Apoiar o conselho directivo nacional no domínio da respectiva especialidade;\n\ng) Participar na actividade geral da Ordem através do conselho da profissão.\n\n6 - Os colégios de especialidades têm sede na secção regional a que o presidente do respectivo colégio pertence.\n\n7 - As despesas do colégio são assumidas pelas secções regionais onde o mesmo se encontra sediado.\n\n> Alterado pelo/a Artigo 27.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273384": {
+   "fragment_id": "230023512",
+   "type": 11,
+   "heading": "Artigo 28.º — Congresso",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 28.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 28.º — Congresso\n\n1 - A Ordem realiza, com frequência não inferior a dois anos, um congresso de índole técnica, científica e profissional.\n\n2 - O congresso tem lugar, alternadamente, em cada uma das secções regionais.\n\n3 - A organização do congresso cabe ao conselho directivo nacional, com a colaboração do conselho directivo da secção regional onde se realiza o congresso.\n\n4 - As despesas com a realização dos congressos podem ser comparticipadas pelos órgãos nacionais.\n\n> Alterado pelo/a Artigo 28.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273385": {
+   "fragment_id": "230023515",
+   "type": 11,
+   "heading": "Artigo 29.º — Organização",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 29.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 29.º — Organização\n\n1 - A organização das eleições e dos referendos compete ao conselho directivo nacional, que, para o efeito, nomeia uma comissão eleitoral, com a colaboração das mesas das assembleias de secção, devendo para o efeito:\n\na) Convocar as assembleias eleitorais e de referendos;\n\nb) Promover a constituição das comissões de fiscalização;\n\nc) Organizar os cadernos eleitorais e apreciar as respectivas reclamações;\n\nd) Verificar a regularidade das candidaturas.\n\n2 - A comissão eleitoral é presidida pelo bastonário, que pode delegar essa competência.\n\n> Alterado pelo/a Artigo 29.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273386": {
+   "fragment_id": "230023516",
+   "type": 11,
+   "heading": "Artigo 30.º — Comissões de fiscalização",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 30.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 30.º — Comissões de fiscalização\n\n1 - É constituída em cada secção uma comissão de fiscalização, composta pelo presidente da respectiva mesa da assembleia de secção e por um representante de cada uma das listas concorrentes, a qual inicia as suas funções no dia seguinte ao da apresentação das candidaturas ou da abertura do processo de referendo.\n\n2 - Os representantes de cada lista concorrente devem ser indicados conjuntamente com a apresentação das candidaturas.\n\n3 - Se o presidente da mesa da assembleia geral for candidato nas eleições a realizar, é substituído na comissão de fiscalização por um dos secretários ou por um membro da Ordem designado pela respectiva mesa.\n\n4 - Compete às comissões de fiscalização:\n\na) Fiscalizar o processo eleitoral ou de referendo;\n\nb) Elaborar relatórios sobre eventuais irregularidades, a entregar às correspondentes mesas das assembleias de secção.\n\n> Alterado pelo/a Artigo 30.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273387": {
+   "fragment_id": "230023517",
+   "type": 11,
+   "heading": "Artigo 31.º — Sufrágio",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 31.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 31.º — Sufrágio\n\n1 - O sufrágio é universal e por voto secreto.\n\n2 - Têm direito a voto os membros efectivos da Ordem que se encontrem no pleno gozo dos seus direitos.\n\n> Alterado pelo/a Artigo 31.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273388": {
+   "fragment_id": "230023519",
+   "type": 11,
+   "heading": "Artigo 33.º — Cadernos eleitorais",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 33.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 33.º — Cadernos eleitorais\n\n1 - Os cadernos eleitorais devem ser afixados nas sedes nacional e regionais 45 dias antes da data da realização das eleições.\n\n2 - Da inscrição irregular ou de omissão nos cadernos eleitorais pode qualquer eleitor reclamar para a mesa eleitoral nos 15 dias seguintes aos da afixação, devendo esta decidir da reclamação no prazo de 4 dias.\n\n> Alterado pelo/a Artigo 33.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273389": {
+   "fragment_id": "230023521",
+   "type": 11,
+   "heading": "Artigo 35.º — Boletins de voto",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 35.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 35.º — Boletins de voto\n\n1 - Os boletins de voto são editados pelo conselho directivo nacional.\n\n2 - Os boletins de voto, bem como as listas de candidatura, são enviados aos membros efectivos da Ordem até 10 dias úteis antes da data marcada para o acto eleitoral e estão igualmente disponíveis nos locais de voto.\n\n> Alterado pelo/a Artigo 35.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273390": {
+   "fragment_id": "230023522",
+   "type": 11,
+   "heading": "Artigo 36.º — Identidade dos eleitores",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 36.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 36.º — Identidade dos eleitores\n\nA identificação dos eleitores é feita através da apresentação do bilhete de identidade ou de qualquer outro elemento de identificação com fotografia, aceite pela mesa eleitoral.\n\n> Alterado pelo/a Artigo 36.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273391": {
+   "fragment_id": "230023523",
+   "type": 11,
+   "heading": "Artigo 37.º — Funcionamento das mesas de voto",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 37.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 37.º — Funcionamento das mesas de voto\n\n1 - As mesas eleitorais funcionam obrigatoriamente em todas as sedes regionais da Ordem.\n\n2 - A constituição das mesas eleitorais é promovida pelas assembleias de secção, até cinco dias antes da data das eleições ou do referendo, devendo designar um representante seu, que preside à respectiva mesa, integrando, esta, um elemento de cada lista concorrente.\n\n> Alterado pelo/a Artigo 37.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273392": {
+   "fragment_id": "230023524",
+   "type": 11,
+   "heading": "Artigo 38.º — Contagem dos votos",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 38.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 38.º — Contagem dos votos\n\n1 - Logo que a votação tenha terminado, procede-se à imediata contagem dos votos, presenciais e por correspondência, e à elaboração da acta dos resultados, devidamente assinada pelos elementos da mesa eleitoral.\n\n2 - O apuramento final é feito na sede da Ordem no prazo de sete dias.\n\n> Alterado pelo/a Artigo 38.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273393": {
+   "fragment_id": "230023525",
+   "type": 11,
+   "heading": "Artigo 39.º — Reclamação e recurso",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 39.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 39.º — Reclamação e recurso\n\n1 - Os eleitores podem reclamar perante a mesa eleitoral, com fundamento em irregularidades do acto eleitoral, até três dias após o fim da votação.\n\n2 - A mesa eleitoral deve apreciar a reclamação no prazo de 48 horas, sendo a decisão comunicada ao reclamante por escrito e afixada na sede da Ordem.\n\n3 - Da decisão da mesa eleitoral cabe recurso para o conselho directivo nacional no prazo de oito dias úteis contados da data em que for comunicada ao reclamante a decisão da mesa eleitoral.\n\n4 - O conselho directivo nacional é convocado para o efeito nos oito dias seguintes.\n\n> Alterado pelo/a Artigo 39.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273394": {
+   "fragment_id": "230023526",
+   "type": 11,
+   "heading": "Artigo 40.º — Divulgação dos resultados",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 40.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 40.º — Divulgação dos resultados\n\n1 - Não tendo havido reclamações ou recursos, ou sido decididos os que tenham sido apresentados, é feita a divulgação dos resultados.\n\n2 - A divulgação dos resultados das eleições para os órgãos regionais é feita pelas respectivas mesas das assembleias de secção.\n\n3 - A divulgação dos resultados eleitorais para os órgãos nacionais da Ordem, bem como dos resultados dos referendos, é feita pelo conselho directivo nacional.\n\n4 - Os resultados eleitorais devem ser afixados na sede nacional da Ordem e em todas as secções regionais e delegações.\n\n> Alterado pelo/a Artigo 40.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273395": {
+   "fragment_id": "230023527",
+   "type": 11,
+   "heading": "Artigo 41.º — Voto por procuração e por correspondência",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 41.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 41.º — Voto por procuração e por correspondência\n\n1 - O voto é pessoal e secreto, não sendo admitido o voto por procuração.\n\n2 - Sem prejuízo do disposto no número anterior, é admitido o voto por correspondência desde que:\n\na) O boletim de voto esteja dobrado em quatro e contido em sobrescrito fechado;\n\nb) Dentro desse mesmo sobrescrito conste igualmente uma fotocópia simples do bilhete de identidade ou do cartão de cidadão do membro, devendo na mesma ser aposto o respectivo número de membro, e a sua assinatura conforme a do documento de identificação;\n\nc) O sobrescrito seja introduzido noutro e endereçado à mesa eleitoral, por via postal, e que tenha sido recebido na Ordem até ao dia da votação, inclusive.\n\n3 - O pagamento de todos os custos associados ao voto por correspondência é da inteira responsabilidade do membro.\n\n> Alterado pelo/a Artigo 41.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273396": {
+   "fragment_id": "230023529",
+   "type": 11,
+   "heading": "Artigo 42.º — Capacidade eleitoral passiva",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 42.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 42.º — Capacidade eleitoral passiva\n\n1 - Só pode ser eleito para os órgãos da Ordem quem seja, há mais de seis meses, membro efectivo no pleno gozo dos seus direitos.\n\n2 - Os candidatos ao conselho directivo nacional, o bastonário e os vice-presidentes da Ordem não podem integrar as listas de candidatos a qualquer outro órgão.\n\n> Alterado pelo/a Artigo 42.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273397": {
+   "fragment_id": "230023530",
+   "type": 11,
+   "heading": "Artigo 43.º — Sistema eleitoral",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 43.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 43.º — Sistema eleitoral\n\n1 - As eleições para bastonário e vice-presidentes, mesa da assembleia geral nacional, conselho fiscal nacional, conselhos directivos de secção, mesa das assembleias de secção e conselho fiscal de secção são feitas de acordo com o sistema maioritário a uma volta.\n\n2 - As eleições para os restantes órgãos da Ordem são feitas de acordo com o sistema da representação proporcional, segundo o método da média mais alta de Hondt.\n\n> Alterado pelo/a Artigo 43.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273398": {
+   "fragment_id": "230023531",
+   "type": 11,
+   "heading": "Artigo 44.º — Apresentação de candidaturas",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 44.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 44.º — Apresentação de candidaturas\n\n1 - As candidaturas são entregues nas mesas das assembleias de secção junto com um termo de aceitação de cada membro que as constituem e os respectivos programas de acção.\n\n2 - A apresentação das candidaturas deve ser feita até 30 dias antes da data do acto eleitoral.\n\n3 - As candidaturas podem ser apresentadas para o conjunto de todos os órgãos da Ordem, ou para o conjunto dos órgãos nacionais, ou para o conjunto dos órgãos de cada região ou para a direcção dos colégios, e devem ser subscritas por um mínimo de 100 membros efectivos da Ordem.\n\n4 - Os candidatos são identificados pelo nome completo, número de membro, idade e residência ou domicílio profissional.\n\n5 - Os proponentes das candidaturas são identificados pelo nome completo legível, assinatura e número de membro.\n\n> Alterado pelo/a Artigo 44.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273399": {
+   "fragment_id": "230023534",
+   "type": 11,
+   "heading": "Artigo 47.º — Publicidade dos programas",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 47.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 47.º — Publicidade dos programas\n\nAs listas de candidatura concorrentes às eleições, bem como os respectivos programas de acção, são afixados na sede nacional, nas sedes regionais e nas delegações da Ordem desde a data da sua aceitação definitiva até à realização do acto eleitoral.\n\n> Alterado pelo/a Artigo 47.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273400": {
+   "fragment_id": "230023536",
+   "type": 11,
+   "heading": "Artigo 48.º — Objecto",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 48.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 48.º — Objecto\n\n1 - A Ordem pode realizar, a nível nacional, referendos internos com carácter vinculativo aos seus membros, destinados a submeter a votação as questões que o conselho directivo nacional considere suficientemente relevantes.\n\n2 - As questões devem ser formuladas com clareza e para respostas de sim ou não.\n\n3 - As questões referentes a matérias que o presente Estatuto cometa à competência deliberativa de qualquer órgão nacional só podem ser submetidas a referendo mediante autorização desse órgão, lavrada em acta.\n\n> Alterado pelo/a Artigo 48.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273401": {
+   "fragment_id": "230023537",
+   "type": 11,
+   "heading": "Artigo 49.º — Organização",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 49.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 49.º — Organização\n\n1 - O teor das questões a submeter a referendo interno é divulgado junto de todos os membros da Ordem e deve ser objecto de reuniões de esclarecimento e debate.\n\n2 - Sem prejuízo do disposto no número seguinte, as propostas de alteração às questões a submeter a referendo interno devem ser dirigidas por escrito ao conselho directivo nacional, durante o período de esclarecimento e debate, por membros da Ordem devidamente identificados.\n\n3 - As propostas de referendo interno subscritas por um mínimo de 3 % dos membros efectivos da Ordem no pleno gozo dos seus direitos não podem ser objecto de alteração.\n\n> Alterado pelo/a Artigo 49.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273402": {
+   "fragment_id": "230023538",
+   "type": 11,
+   "heading": "Artigo 50.º — Efeitos",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 50.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 50.º — Efeitos\n\n1 - O efeito vinculativo do referendo interno depende de o número de votantes ser superior a metade dos membros efectivos inscritos nos cadernos eleitorais.\n\n2 - Quando se trate de projectos de propostas relativos à dissolução da Ordem, a aprovação carece do voto expresso de dois terços dos membros inscritos nos cadernos eleitorais.\n\n> Alterado pelo/a Artigo 50.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273425": {
+   "fragment_id": "253274986",
+   "type": 1,
+   "heading": "Capítulo VII — Provedor da Ordem",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "### Capítulo VII — Provedor da Ordem\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273431": {
+   "fragment_id": "253274981",
+   "type": 11,
+   "heading": "Artigo 50.º-A — Competências e forma de designação",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 50.º-A — Competências e forma de designação\n\n1 - O provedor da Ordem tem como função analisar reclamações ou sugestões apresentadas e assegurar as respostas adequadas em tempo útil e oportuno e recomendar soluções.\n\n2 - O provedor é nomeado pelo conselho directivo nacional, mediante proposta do bastonário.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273426": {
+   "fragment_id": "230023539",
+   "type": 1,
+   "heading": "Capítulo VIII — Deontologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Deontologia"
+  },
+  "253273403": {
+   "fragment_id": "230023541",
+   "type": 11,
+   "heading": "Artigo 51.º — Direitos dos membros efectivos",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 51.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 51.º — Direitos dos membros efectivos\n\nConstituem direitos dos membros efectivos:\n\na) Participar nas actividades da Ordem;\n\nb) Requerer a convocação de assembleias de secção extraordinárias;\n\nc) Eleger e ser eleitos para o desempenho de funções na Ordem;\n\nd) Intervir na criação de especialidades;\n\ne) Requerer a atribuição de títulos de especialização;\n\nf) Beneficiar da actividade editorial da Ordem;\n\ng) Utilizar os serviços oferecidos pela Ordem;\n\nh) Utilizar o cartão de identificação de membro da Ordem.\n\n> Alterado pelo/a Artigo 51.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273404": {
+   "fragment_id": "230023542",
+   "type": 11,
+   "heading": "Artigo 52.º — Deveres dos membros efectivos",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 52.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 52.º — Deveres dos membros efectivos\n\n1 - Constituem deveres dos membros efectivos para com a Ordem:\n\na) Cumprir as obrigações do presente Estatuto e dos regulamentos da Ordem;\n\nb) Desempenhar as funções para as quais tenham sido eleitos ou escolhidos;\n\nc) Colaborar com comissões ou grupos de trabalho da Ordem;\n\nd) Pagar as quotas estabelecidas pelos órgãos competentes da Ordem.\n\n2 - Estão isentos do pagamento de quotas os membros da Ordem cuja inscrição se encontre suspensa, salvo por via de procedimento disciplinar.\n\n3 - O atraso no pagamento de quotas por período superior a seis meses, implica a suspensão automática dos direitos inerentes à qualidade de membro efectivo.\n\n> Alterado pelo/a Artigo 52.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273405": {
+   "fragment_id": "230023543",
+   "type": 11,
+   "heading": "Artigo 53.º — Direitos dos membros honorários e estudantes",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 53.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 53.º — Direitos dos membros honorários e estudantes\n\nOs membros estudantes gozam dos seguintes direitos:\n\na) Participar nas actividades da Ordem;\n\nb) Intervir, sem direito a voto, na assembleia geral e nas assembleias de secção.\n\n> Alterado pelo/a Artigo 53.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273406": {
+   "fragment_id": "230023544",
+   "type": 11,
+   "heading": "Artigo 54.º — Deveres dos membros estudantes",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 54.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 54.º — Deveres dos membros estudantes\n\nOs membros estudantes devem participar na prossecução dos objectivos da Ordem e colaborar nas suas actividades.\n\n> Alterado pelo/a Artigo 54.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273427": {
+   "fragment_id": "230023550",
+   "type": 1,
+   "heading": "Capítulo IX — Responsabilidade disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Responsabilidade disciplinar"
+  },
+  "253273412": {
+   "fragment_id": "230023551",
+   "type": 11,
+   "heading": "Artigo 59.º — Responsabilidade disciplinar",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 59.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 59.º — Responsabilidade disciplinar\n\n1 - Os engenheiros técnicos estão sujeitos à jurisdição disciplinar dos órgãos da Ordem, nos termos previstos no presente Estatuto e nos respectivos regulamentos.\n\n2 - Comete infracção disciplinar o engenheiro técnico que, por acção ou omissão, violar dolosa ou negligentemente algum dos deveres fixados neste Estatuto e nos respectivos regulamentos.\n\n3 - A acção disciplinar é independente de eventual responsabilidade civil ou criminal.\n\n4 - As questões de natureza estritamente técnica estão excluídas do âmbito da acção disciplinar, cabendo à Ordem a execução das penas resultantes de decisões judiciais.\n\n5 - O pedido de cancelamento e a suspensão da inscrição não fazem cessar a responsabilidade disciplinar por infracções praticadas anteriormente.\n\n6 - A desistência do procedimento disciplinar pelo interessado extingue a responsabilidade disciplinar, salvo se a falta imputada afectar a dignidade do engenheiro técnico visado ou o prestígio da profissão ou da Ordem ou os interesses de terceiros.\n\n> Alterado pelo/a Artigo 59.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273413": {
+   "fragment_id": "230023553",
+   "type": 11,
+   "heading": "Artigo 61.º — Instauração do processo disciplinar",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 61.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 61.º — Instauração do processo disciplinar\n\n1 - O processo disciplinar é instaurado mediante decisão dos conselhos disciplinares de secção ou do conselho jurisdicional, consoante o caso, devendo simultaneamente ser nomeado o relator.\n\n2 - Os tribunais e demais autoridades públicas devem dar conhecimento à Ordem da prática por engenheiros técnicos de actos susceptíveis de constituírem infracção disciplinar.\n\n3 - O Ministério Público e as demais entidades com poderes de investigação criminal devem dar conhecimento à Ordem das participações apresentadas contra engenheiros técnicos, por actos relacionados com o exercício da profissão.\n\n> Alterado pelo/a Artigo 61.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273414": {
+   "fragment_id": "230023554",
+   "type": 11,
+   "heading": "Artigo 62.º — Prescrição do procedimento disciplinar",
+   "in_force_from": "2011-02-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 62.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-02-27"
+   ],
+   "markdown": "###### Artigo 62.º — Prescrição do procedimento disciplinar\n\n1 - O procedimento disciplinar prescreve no prazo de três anos sobre a prática da infracção, salvo o disposto no número seguinte.\n\n2 - O procedimento disciplinar de titulares de órgãos da Ordem prescreve no prazo de três anos sobre a cessação das respectivas funções.\n\n3 - As infracções disciplinares que constituam simultaneamente ilícito penal prescrevem no mesmo prazo que o procedimento criminal, quando este for superior.\n\n4 - A responsabilidade disciplinar permanece durante o período de suspensão da Ordem, e não cessa pela demissão como membro da Ordem, relativamente a factos anteriormente praticados.\n\n> Alterado pelo/a Artigo 62.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-02-27"
+  },
+  "253273415": {
+   "fragment_id": "230023555",
+   "type": 11,
+   "heading": "Artigo 63.º — Penas",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 63.º — Penas\n\n1 - As penas disciplinares são as seguintes:\n\na) Advertência;\n\nb) Censura;\n\nc) Suspensão até seis meses;\n\nd) Suspensão de seis meses a um ano;\n\ne) Suspensão de um a cinco anos.\n\n2 - A pena prevista na alínea c) do n.º 1 só pode ser aplicada por infracção disciplinar que configure negligência grave ou de acentuado desinteresse pelo cumprimento dos deveres profissionais consagrados na alínea a) do artigo 52.º, nas alíneas b) e c) do artigo 55.º, nas alíneas b) e c) do artigo 56.º, no artigo 57.º e nas alíneas a), c) e d) do artigo 58.º\n\n3 - A pena prevista na alínea d) do n.º 1 só pode ser aplicada por infracção disciplinar que afecte gravemente a dignidade e o prestígio profissional do engenheiro técnico.\n\n4 - A pena prevista na alínea e) do n.º 1 é aplicável quando tenha sido cometida infracção disciplinar que também constitua crime punível com pena de prisão superior a dois anos, ou em caso de reincidência da infracção referida no número anterior.\n\n5 - As penas disciplinares aplicadas pelo conselho jurisdicional e pelos conselhos disciplinares de secção são registadas e publicitadas pelo conselho directivo nacional, em órgãos de comunicação social, de âmbito nacional ou regional.\n\n> Alterado pelo/a Artigo 63.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273416": {
+   "fragment_id": "230023559",
+   "type": 11,
+   "heading": "Artigo 67.º — Despacho de acusação",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 67.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 67.º — Despacho de acusação\n\n1 - O despacho de acusação deve indicar a identidade do arguido, os factos imputados e as circunstâncias em que foram praticados, as normas legais e regulamentares infringidas, a prova e o prazo para a apresentação de defesa.\n\n2 - O arguido é notificado da acusação pessoalmente ou por carta registada, com aviso de recepção, com a entrega da respectiva cópia.\n\n3 - Se o arguido se encontrar em parte incerta e for desconhecida a sua residência, é notificado por edital referindo apenas que se encontra pendente um processo e qual o prazo para apresentação de defesa, o qual deve ser afixado na porta do seu último domicílio profissional, do seu último local de trabalho ou da sua última residência ou domicílio fiscal conhecidos e ainda nas instalações da sede nacional e da secção regional respectiva.\n\n4 - Com o despacho de acusação que conclua pela aplicação de pena não inferior a seis meses de suspensão pode ser proposta a suspensão preventiva do arguido, a deliberar pelo conselho disciplinar de secção ou do conselho jurisdicional.\n\n5 - A suspensão preventiva pode ser decretada, em especial, nos casos seguintes:\n\na) Quando exista a possibilidade de prática de novas e graves infracções disciplinares;\n\nb) Quando a instrução possa ser perturbada em termos que prejudiquem o apuramento da infracção.\n\n6 - A suspensão preventiva não pode ultrapassar três meses e deve ser descontada na pena de suspensão que venha a ser aplicada.\n\n7 - Os processos disciplinares em que o arguido se encontre preventivamente suspenso preferem a todos os demais.\n\n> Alterado pelo/a Artigo 67.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273417": {
+   "fragment_id": "230023562",
+   "type": 11,
+   "heading": "Artigo 70.º — Julgamento",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 70.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 70.º — Julgamento\n\n1 - Finda a instrução, o processo é presente ao conselho disciplinar de secção ou ao conselho jurisdicional, consoante o caso, para julgamento, sendo lavrado e assinado o respectivo acórdão.\n\n2 - As penas de suspensão de um a cinco anos só podem ser aplicadas mediante decisão que obtenha dois terços dos votos de todos os membros do órgão competente.\n\n3 - Das deliberações dos conselhos disciplinares de secção cabe recurso para o conselho jurisdicional.\n\n> Alterado pelo/a Artigo 70.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273418": {
+   "fragment_id": "230023563",
+   "type": 11,
+   "heading": "Artigo 71.º — Notificação do acórdão",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 71.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 71.º — Notificação do acórdão\n\n1 - Os acórdãos finais são notificados ao arguido e aos interessados nos termos do n.º 2 do artigo 67.º\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 71.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273419": {
+   "fragment_id": "230023567",
+   "type": 11,
+   "heading": "Artigo 75.º — Revisão",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 75.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 75.º — Revisão\n\n1 - As decisões disciplinares definitivas podem ser revistas a pedido do interessado, com fundamento em novos factos ou novas provas, susceptíveis de alterar o sentido daquelas, ou quando outra decisão definitiva considerar falsos elementos de prova determinantes da decisão a rever.\n\n2 - O prazo para interposição de revisão é de 8 dias contados da notificação ou de 15 dias a contar da afixação do edital.\n\n> Alterado pelo/a Artigo 75.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273428": {
+   "fragment_id": "230023568",
+   "type": 1,
+   "heading": "Capítulo X — Receitas e despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo X — Receitas e despesas"
+  },
+  "253273420": {
+   "fragment_id": "230023569",
+   "type": 11,
+   "heading": "Artigo 76.º — Receitas dos órgãos nacionais",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 76.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 76.º — Receitas dos órgãos nacionais\n\nConstituem receitas dos órgãos nacionais da Ordem:\n\na) A percentagem que lhes couber das receitas previstas na alínea c) do n.º 4 do artigo 15.º;\n\nb) O produto da venda de publicações editadas;\n\nc) (Revogada.)\n\nd) Os resultados de outras actividades;\n\ne) As heranças, legados e doações;\n\nf) Os rendimentos dos bens que lhes estejam afectos;\n\ng) Os juros de contas de depósitos.\n\n> Alterado pelo/a Artigo 76.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273421": {
+   "fragment_id": "230023570",
+   "type": 11,
+   "heading": "Artigo 77.º — Receitas dos órgãos regionais",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 77.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 77.º — Receitas dos órgãos regionais\n\nConstituem receitas dos órgãos regionais da Ordem:\n\na) A percentagem que lhes couber das receitas previstas na alínea c) do n.º 4 do artigo 15.º;\n\nb) O produto de outras actividades levadas a efeito por sua iniciativa;\n\nc) As heranças, legados e doações destinadas a utilização nas respectivas áreas territoriais de jurisdição;\n\nd) Os rendimentos dos bens que lhes estejam afectos;\n\ne) Os juros de conta de depósitos.\n\n> Alterado pelo/a Artigo 77.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273433": {
+   "fragment_id": "253274982",
+   "type": 11,
+   "heading": "Artigo 79.º — Revisor oficial de contas",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 79.º — Revisor oficial de contas\n\nA auditoria da gestão patrimonial e financeira é assegurada por um revisor oficial de contas.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273429": {
+   "fragment_id": "253274979",
+   "type": 1,
+   "heading": "Capítulo XI — Revisão do Estatuto",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "### Capítulo XI — Revisão do Estatuto\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  },
+  "253273411": {
+   "fragment_id": "253274983",
+   "type": 11,
+   "heading": "Artigo 80.º — Revisão",
+   "in_force_from": "2011-07-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+   ],
+   "markdown": "###### Artigo 80.º — Revisão\n\n1 - Todas as iniciativas de revisão do Estatuto devem ser divulgadas pela classe para pronunciamento durante o período mínimo de 30 dias.\n\n2 - O estatuto deve ser revisto de cinco em cinco anos, desde que para tal existam motivos justificados.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 47/2011 - Diário da República n.º 121/2011, Série I de 2011-06-27](https://diariodarepublica.pt/dr/detalhe/lei/47-2011-670537), em vigor a partir de 2011-07-27"
+  }
+ }
+}

@@ -1,0 +1,252 @@
+---
+schema_version: '1.0'
+id: pt:dre:544411:por
+title: Decreto Regulamentar n.º 5/2012
+short_title: null
+summary: Aprova a orgânica da Direcção-Geral de Armamento e Infra-Estruturas de Defesa
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 5/2012
+official_date: null
+publication_date: '2012-01-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 13/2012, Série I de 2012-01-18
+  number: '13'
+  series: I
+  supplement: null
+  pages: 305 - 307
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/01/01300/0030500307.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/5/2012/01/18/p/dre/pt/html
+  oj: null
+  dre: '544411'
+  dre_path: /dr/detalhe/decreto-regulamentar/5-2012-544411
+  internal: pt:dre:544411:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2012-544411
+  metadata_url: https://data.dre.pt/eli/decregul/5/2012/01/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2012-544411
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:33:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f4e55df18bd69dcc9a06da1bcef9af26f2b6d050be5b5798798a5d2a9a215d3b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:33:19Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Centro de Dados da Defesa
+- Definição de Competências
+- Direcção Geral de Armamento e Infra-estruturas de Defesa
+- Diretor Geral
+- Estatuto Remuneratório
+- Ministério da Defesa Nacional
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Receita
+- Subdirector Geral
+relationships:
+- type: amended_by
+  target: pt:dre:69920320:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:65983260:por
+  label: Determinada a extinção, sendo objeto de fusão, a Direção-Geral de Armamento e Infraestruturas de Defesa (sendo as
+    suas atribuições integradas na recém-criada Direção-Geral de Recursos da Defesa Nacional), pelo(a) Decreto-Lei n.º 183/2014
+    - Diário da República n.º 250/2014, Série I de 2014-12-29, nos termos do disposto nos arts. 28.º e 29.º do presente diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-2014-65983260
+  date: '2014-12-29'
+- type: cites
+  target: pt:dre:145184:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/122/2011/12/29/p/dre
+- type: cites
+  target: pt:dre:489499:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/23/2009/09/04/p/dre
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: repealed_by
+  target: pt:dre:69920320:por
+  label: Revogado pelo(a) Decreto Regulamentar n.º 8/2015 - Diário da República n.º 148/2015, Série I de 2015-07-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/8-2015-69920320
+  date: '2015-07-31'
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:33:19Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 5/2012
+
+de 18 de janeiro
+
+No âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respectivos serviços.
+
+Trata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objectivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objectivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de optimização do funcionamento da Administração Pública.
+
+Importava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.
+
+No quadro das orientações definidas pelo PREMAC, importa concretizar o esforço de racionalização estrutural consagrado no [Decreto-Lei n.º 122/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2011-145184), de 29 de Dezembro, que aprova a Lei Orgânica do Ministério da Defesa Nacional (MDN), avançando na definição dos modelos organizacionais dos serviços que integram a respectiva estrutura. Na sequência da aprovação desta Lei Orgânica, o presente decreto regulamentar estabelece a estrutura orgânica da Direcção-Geral de Armamento e Infra-Estruturas de Defesa (DGAIED).
+
+De acordo com o novo quadro consagrado na mencionada Lei Orgânica do MDN, é estabelecida a organização e competências da DGAIED, discriminando os objectivos que à mesma compete prosseguir.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 24.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de Janeiro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+A Direcção-Geral de Armamento e Infra-Estruturas de Defesa (DGAIED), é um serviço central da administração directa do Estado dotado de autonomia administrativa.
+
+###### Artigo 2.º — Missão e atribuições
+
+1 - A DGAIED tem por missão conceber, propor, coordenar, executar e apoiar as actividades relativas ao armamento e equipamentos de defesa, e ao património e infra-estruturas necessários ao cumprimento das missões da defesa nacional.
+
+2 - A DGAIED prossegue as seguintes atribuições:
+
+a) Contribuir para a definição, planeamento, coordenação e acompanhamento da execução das políticas de defesa, nos domínios do armamento e equipamento das Forças Armadas, das infra-estruturas militares e civis necessárias à defesa nacional, da investigação e desenvolvimento na área das ciências e tecnologias de defesa, da base tecnológica e industrial de defesa, do ambiente, qualidade e normalização, e dos sistemas de informação geográfica e serviços de cartografia;
+
+b) Participar no processo de edificação de capacidades militares, coordenando a formulação dos planos de armamento e de infra-estruturas enquanto instrumentos de planeamento, com vista à elaboração de propostas de lei de programação;
+
+c) Coordenar a elaboração das propostas de Lei de Programação Militar e de Lei de Programação das Infra-Estruturas Militares, sob anteprojectos elaborados no âmbito das Forças Armadas e de acordo com as directivas ministeriais, bem como assegurar a respectiva execução e controlo;
+
+d) Promover, coordenar e executar as actividades relativas à gestão do ciclo de vida logístico do armamento, bens e equipamentos, no que se refere aos processos de aquisição, manutenção e alienação sob sua responsabilidade, à garantia da qualidade, catalogação e normalização de material, e à desmilitarização e alienação, em cooperação com o Estado-Maior-General das Forças Armadas (EMGFA), os ramos das Forças Armadas e o Ministério da Administração Interna;
+
+e) Propor a concessão de autorizações para o acesso e o exercício das actividades de indústria e ou comércio de bens e tecnologias militares, proceder à supervisão da actividade das empresas do sector da defesa e proceder ao controlo das importações e exportações de produtos relacionados com a defesa, supervisionando o cumprimento dos normativos legais;
+
+f) Contribuir para a definição e execução das políticas de ordenamento do território e urbanismo, garantindo a salvaguarda dos interesses da defesa nacional em sede de produção, alteração, revisão e execução dos instrumentos de gestão do território;
+
+g) Estudar, propor e coordenar os actos e procedimentos relativos à constituição, modificação e extinção de servidões militares e de outras restrições de utilidade pública e emitir pareceres e autorizações sobre licenciamentos, nos termos da legislação aplicável;
+
+h) Participar na preparação e execução de medidas que envolvam a requisição, aos particulares, de coisas ou serviços;
+
+i) Propor e coordenar os procedimentos e as acções relativos à aquisição, gestão, administração, disposição e rentabilização das infra-estruturas programadas e património afecto à defesa nacional;
+
+j) Propor, implementar, coordenar e dinamizar as actividades de carácter ambiental e de gestão de energia e dos recursos naturais, no âmbito da defesa nacional;
+
+l) Exercer as competências de autoridade nacional para a garantia da qualidade no âmbito da defesa nacional;
+
+m) Acompanhar e participar no planeamento de forças, designadamente no quadro da Organização do Tratado do Atlântico Norte (OTAN) e da União Europeia (UE);
+
+n) Assegurar o cumprimento dos compromissos nacionais no âmbito da OTAN relativamente às infra-estruturas e sistemas de comando e controlo militares;
+
+o) Assegurar, no âmbito das suas atribuições, a representação em organizações e entidades nacionais e internacionais, propondo, coordenando e desenvolvendo actividades de cooperação internacional na execução das políticas de defesa no domínio do armamento e equipamentos das Forças Armadas, das infra-estruturas militares e civis necessárias à defesa nacional, da investigação e desenvolvimento na área das ciências e tecnologias de defesa, da base tecnológica e industrial de defesa, do ambiente, qualidade e normalização, e dos sistemas de informação geográfica e serviços de cartografia.
+
+###### Artigo 3.º — Órgãos
+
+A DGAIED é dirigida por um director-geral, coadjuvado por um subdirector-geral, cargos de direcção superior de 1.º e 2.º graus, respectivamente.
+
+###### Artigo 4.º — Director-geral
+
+1 - Sem prejuízo das competências que lhe sejam conferidas por lei ou nele delegadas ou subdelegadas, compete ao director-geral exercer as funções de Director Nacional de Armamento.
+
+2 - O subdirector-geral exerce as competências que lhe sejam delegadas ou subdelegadas pelo director-geral, competindo-lhe substituí-lo nas suas faltas e impedimentos.
+
+###### Artigo 5.º — Tipo de organização interna
+
+A organização interna da DGAIED obedece ao seguinte modelo estrutural misto:
+
+a) Nas áreas de actividades relativas à gestão dos projectos decorrentes da programação militar e de infra-estruturas, património e ambiente, o modelo de estrutura matricial;
+
+b) Nas restantes áreas, o modelo de estrutura hierarquizada.
+
+###### Artigo 6.º — Receitas
+
+1 - A DGAIED dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+
+2 - A DGAIED dispõe ainda das seguintes receitas próprias:
+
+a) As verbas provenientes da venda de cadernos de encargos relativos a projectos;
+
+b) As verbas provenientes das contribuições de fundos comuns resultantes do acordo entre Portugal e a OTAN destinadas às infra-estruturas;
+
+c) As verbas provenientes da contribuição de Portugal destinadas a suprirem as despesas de interesse nacional que excedam os requisitos militares mínimos definidos pela OTAN;
+
+d) As verbas provenientes de acordos de utilização, concessão de exploração, aluguer de capacidades sobrantes ou outros referentes à disponibilização das infra-estruturas sedeadas em Portugal, devidamente autorizados e pertencentes ao inventário OTAN;
+
+e) As verbas provenientes do produto das receitas geradas pela rentabilização do património imobiliário afecto à defesa nacional;
+
+f) Quaisquer outras receitas que por lei, contrato ou outro título lhe sejam atribuídas.
+
+3 - As quantias cobradas pela DGAIED são fixadas e periodicamente actualizadas por despacho dos membros do Governo responsáveis pelas áreas da defesa nacional e das finanças, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indirectos de funcionamento.
+
+###### Artigo 7.º — Despesas
+
+Constituem despesas da DGAIED as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.
+
+###### Artigo 8.º — Mapa de cargos de direcção
+
+Os lugares de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau constam do mapa anexo ao presente decreto regulamentar, do qual faz parte integrante.
+
+###### Artigo 9.º — Estatuto remuneratório do chefe de equipa multidisciplinar
+
+Ao chefe da equipa multidisciplinar é atribuído um estatuto remuneratório equiparado a chefe de divisão.
+
+###### Artigo 10.º — Norma revogatória
+
+É revogado o [Decreto Regulamentar n.º 23/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-2009-489499), de 4 de Setembro.
+
+###### Artigo 11.º — Entrada em vigor
+
+O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 24 de Novembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva - Maria de Assunção Oliveira Cristas Machado da Graça.
+
+Promulgado em 5 de Janeiro de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 9 de Janeiro de 2012.
+
+O Primeiro-Ministro, Pedro Passos Coelho.
+
+## ANEXO — (a que se refere o artigo 8.º)
+
+Mapa de pessoal dirigente
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/01/01300/0030500307.pdf)

@@ -1,0 +1,5529 @@
+---
+schema_version: '1.0'
+id: pt:dre:692261:por
+title: Decreto-Lei n.º 433/99
+short_title: null
+summary: Aprova o Código de Procedimento e de Processo Tributário
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 433/99
+official_date: null
+publication_date: '1999-10-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 250/1999, Série I-A de 1999-10-26
+  number: '250'
+  series: I
+  supplement: null
+  pages: 7170 - 7215
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/10/250a00/71707215.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-07-01'
+version_history:
+  file: decreto-lei-433-99.versoes.json
+  count: 37
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1999-10-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-04-09'
+    amending: pt:dre:679669:por
+    amending_title: Lei n.º 3-B/2000
+    changes:
+    - Adita Artigo 292.º
+    - Adita Artigo 293.º
+    - Altera Artigo 100.º
+    - Altera Artigo 194.º
+  - date: '2001-01-01'
+    amending: pt:dre:504145:por
+    amending_title: Acórdão do Tribunal Constitucional n.º 759/2013; Lei n.º 30-G/2000
+    changes:
+    - Declara Inconstitucionalidade Artigo 146.º-B
+    - Adita Artigo 146.º-A
+    - Adita Artigo 146.º-B
+    - Adita Artigo 146.º-C
+    - Adita Artigo 146.º-D
+    - Altera Artigo 146.º
+    - Altera Artigo 214.º
+  - date: '2001-07-05'
+    amending: pt:dre:322110:por
+    amending_title: Lei n.º 15/2001
+    changes:
+    - Adita Artigo 183.º-A
+    - Altera Artigo 10.º
+    - Altera Artigo 22.º
+    - Altera Artigo 59.º
+    - Altera Artigo 68.º
+    - Altera Artigo 73.º
+    - Altera Artigo 96.º
+    - Altera Artigo 103.º
+    - Altera Artigo 108.º
+    - Altera Secção III
+    - Altera Artigo 110.º
+    - Altera Artigo 111.º
+    - Altera Secção IV
+    - Altera Artigo 112.º
+    - Altera Artigo 114.º
+    - Altera Artigo 116.º
+    - Altera Artigo 118.º
+    - Altera Artigo 119.º
+    - Altera Artigo 134.º
+    - Altera Artigo 136.º
+    - Altera Artigo 137.º
+    - Altera Artigo 178.º
+    - Altera Artigo 202.º
+    - Altera Artigo 230.º
+    - Altera Artigo 231.º
+    - Altera Artigo 235.º
+    - Altera Artigo 245.º
+    - Altera Artigo 248.º
+    - Altera Artigo 249.º
+    - Altera Artigo 250.º
+    - Altera Artigo 251.º
+    - Altera Artigo 252.º
+    - Altera Artigo 255.º
+    - Altera Artigo 256.º
+    - Altera Artigo 258
+    - Revoga Artigo 254.º
+  - date: '2002-01-01'
+    amending: pt:dre:229157:por
+    amending_title: Lei n.º 109-B/2001
+    changes:
+    - Altera Artigo 80.º
+    - Altera Artigo 86.º
+    - Altera Artigo 108.º
+    - Altera Artigo 181.º
+    - Altera Artigo 201.º
+    - Altera Artigo 206.º
+    - Altera Artigo 230.º
+    - Altera Artigo 231.º
+    - Altera Artigo 237.º
+    - Altera Artigo 241.º
+    - Altera Artigo 276.º
+    - Altera Artigo 277.º
+    - Altera Artigo 278.º
+  - date: '2003-07-24'
+    amending: pt:dre:670764:por
+    amending_title: Decreto-Lei n.º 160/2003
+    changes:
+    - Altera Artigo 8.º
+    - Altera Artigo 39.º
+    - Altera Artigo 282.º
+  - date: '2005-01-01'
+    amending: pt:dre:689420:por
+    amending_title: Lei n.º 55-B/2004
+    changes:
+    - Altera Artigo 38.º
+    - Altera Artigo 43.º
+    - Altera Artigo 65.º
+    - Altera Artigo 82.º
+    - Altera Artigo 83.º
+    - Altera Artigo 137.º
+    - Altera Artigo 163.º
+    - Altera Artigo 190.º
+    - Altera Artigo 223.º
+    - Altera Artigo 230.º
+    - Altera Artigo 231.º
+    - Altera Artigo 240.º
+  - date: '2006-01-01'
+    amending: pt:dre:376234:por
+    amending_title: Lei n.º 60-A/2005
+    changes:
+    - Altera Artigo 70.º
+  - date: '2006-06-30'
+    amending: pt:dre:620286:por
+    amending_title: Decreto-Lei n.º 76-A/2006
+    changes:
+    - Altera Artigo 83.º
+  - date: '2007-01-01'
+    amending: pt:dre:197511:por
+    amending_title: Lei n.º 53-A/2006; Decreto-Lei n.º 238/2006
+    changes:
+    - Altera Artigo 39.º
+    - Altera Artigo 73.º
+    - Altera Artigo 163.º
+    - Altera Artigo 189.º
+    - Altera Artigo 195.º
+    - Altera Artigo 196.º
+    - Altera Artigo 219.º
+    - Altera Artigo 235
+    - Altera Artigo 240.º
+    - Altera Artigo 250.º
+    - Altera Artigo 251.º
+    - Revoga Artigo 183.º-A
+    - Altera Artigo 24.º
+    - Altera Artigo 31.º
+    - Altera Artigo 33.º
+    - Altera Artigo 70.º
+    - Altera Artigo 185.º
+    - Altera Artigo 186.º
+    - Altera Artigo 188.º
+    - Altera Artigo 263.º
+    - Altera Artigo 265.º
+  - date: '2008-01-01'
+    amending: pt:dre:529450:por
+    amending_title: Lei n.º 67-A/2007
+    changes:
+    - Altera Artigo 38.º
+    - Altera Artigo 169.º
+    - Altera Artigo 191.º
+    - Altera Artigo 192.º
+    - Altera Artigo 196.º
+    - Altera Artigo 199.º
+    - Altera Artigo 215.º
+    - Altera Artigo 224.º
+    - Altera Artigo 231.º
+    - Altera Artigo 250.º
+  - date: '2009-01-01'
+    amending: pt:dre:243747:por
+    amending_title: Lei n.º 64-A/2008; Lei n.º 40/2008
+    changes:
+    - Adita Capítulo VIII
+    - Adita Artigo 95.º-A
+    - Adita Artigo 95.º-B
+    - Adita Artigo 95.º-C
+    - Altera Artigo 57.º
+    - Altera Artigo 63.º
+    - Altera Artigo 199.º
+    - Altera Artigo 183.º-A
+  - date: '2010-04-29'
+    amending: pt:dre:609990:por
+    amending_title: Lei n.º 3-B/2010
+    changes:
+    - Adita Artigo 90.º-A
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 89.º
+    - Altera Artigo 90.º
+    - Altera Artigo 148.º
+    - Altera Artigo 149.º
+    - Altera Artigo 150.º
+    - Altera Artigo 169.º
+    - Altera Artigo 189.º
+    - Altera Artigo 191.º
+    - Altera Artigo 193.º
+    - Altera Artigo 196.º
+    - Altera Artigo 200.º
+  - date: '2011-01-01'
+    amending: pt:dre:344942:por
+    amending_title: Lei n.º 55-A/2010
+    changes:
+    - Altera Artigo 61.º
+    - Altera Artigo 75.º
+    - Altera Artigo 97.º
+    - Altera Artigo 150.º
+    - Altera Artigo 151.º
+    - Altera Artigo 185.º
+    - Altera Artigo 245.º
+    - Altera Artigo 247.º
+    - Altera Artigo 248.º
+    - Altera Artigo 252.º
+    - Altera Artigo 256.º
+    - Altera Artigo 278.º
+    - Revoga Artigo 243.º
+  - date: '2012-01-01'
+    amending: pt:dre:243769:por
+    amending_title: Lei n.º 64-B/2011
+    changes:
+    - Altera Artigo 24.º
+    - Altera Artigo 27.º
+    - Altera Artigo 29.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 41.º
+    - Altera Artigo 42.º
+    - Altera Artigo 43.º
+    - Altera Artigo 59.º
+    - Altera Artigo 63.º
+    - Altera Artigo 88
+    - Altera Artigo 89.º
+    - Altera Artigo 103.º
+    - Altera Artigo 150.º
+    - Altera Artigo 151.º
+    - Altera Artigo 163.º
+    - Altera Artigo 169.º
+    - Altera Artigo 170.º
+    - Altera Artigo 181.º
+    - Altera Artigo 189.º
+    - Altera Artigo 190.º
+    - Altera Artigo 191.º
+    - Altera Artigo 192.º
+    - Altera Artigo 193.º
+    - Altera Artigo 195.º
+    - Altera Artigo 196.º
+    - Altera Artigo 198.º
+    - Altera Artigo 199.º
+    - Altera Artigo 217.º
+    - Altera Artigo 227.º
+    - Altera Artigo 239.º
+    - Altera Artigo 242.º
+    - Altera Artigo 244.º
+    - Altera Artigo 248.º
+    - Altera Artigo 249.º
+    - Altera Artigo 250.º
+    - Altera Artigo 255.º
+    - Altera Artigo 256.º
+    - Altera Artigo 257.º
+    - Altera Artigo 262.º
+  - date: '2013-01-01'
+    amending: pt:dre:256471:por
+    amending_title: Decreto-Lei n.º 6/2013; Lei n.º 66-B/2012; Lei n.º 32-B/2002
+    changes:
+    - Altera Artigo 10.º
+    - Altera Artigo 75.º
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+    - Altera Artigo 35.º
+    - Altera Artigo 39.º
+    - Altera Artigo 97.º
+    - Altera Artigo 97.º-A
+    - Altera Artigo 102.º
+    - Altera Artigo 112.º
+    - Altera Artigo 169.º
+    - Altera Artigo 170.º
+    - Altera Artigo 176.º
+    - Altera Artigo 191.º
+    - Altera Artigo 196.º
+    - Altera Artigo 199.º
+    - Altera Artigo 223.º
+    - Altera Artigo 249.º
+    - Altera Artigo 54.º
+    - Altera Artigo 59.º
+    - Altera Artigo 66.º
+    - Altera Artigo 86.º
+    - Altera Artigo 111.º
+    - Altera Artigo 183.º-A
+  - date: '2013-01-22'
+    amending: pt:dre:256471:por
+    amending_title: Decreto-Lei n.º 6/2013
+    changes:
+    - Altera Artigo 6.º
+  - date: '2014-01-01'
+    amending: pt:dre:164404:por
+    amending_title: Lei n.º 83-C/2013
+    changes:
+    - Adita Artigo 77.º-A
+    - Adita Artigo 77.º-B
+    - Adita Artigo 133.º-A
+    - Altera Artigo 44.º
+    - Altera Artigo 67.º
+    - Altera Artigo 73.º
+    - Altera Artigo 75.º
+    - Altera Secção VII
+  - date: '2015-01-01'
+    amending: pt:dre:66022085:por
+    amending_title: Lei n.º 82-E/2014; Lei n.º 82-B/2014
+    changes:
+    - Altera Artigo 102.º
+    - Altera Artigo 131.º
+    - Altera Artigo 132.º
+    - Altera Artigo 133.º-A
+    - Adita Artigo 177.º-A
+    - Adita Artigo 177.º-B
+    - Adita Artigo 177.º-C
+    - Altera Artigo 6.º
+    - Altera Artigo 31.º
+    - Altera Artigo 38.º
+    - Altera Artigo 73.º
+    - Altera Artigo 112.º
+    - Altera Artigo 146.º-A
+    - Altera Artigo 146.º-D
+    - Altera Artigo 191.º
+    - Altera Artigo 192.º
+    - Altera Artigo 194.º
+    - Altera Artigo 198.º
+    - Altera Artigo 200.º
+    - Altera Artigo 215.º
+    - Altera Artigo 219.º
+    - Altera Artigo 221.º
+    - Altera Artigo 224.º
+    - Altera Artigo 246.º
+    - Altera Artigo 252.º
+    - Altera Artigo 264.º
+    - Altera Artigo 265.º
+    - Altera Artigo 278.º
+    - Altera Artigo 280.º
+    - Revoga Artigo 146.º-C
+  - date: '2016-03-31'
+    amending: pt:dre:73958532:por
+    amending_title: Lei n.º 7-A/2016
+    changes:
+    - Adita Artigo 199.º-A
+    - Altera Artigo 7.º
+    - Altera Artigo 73.º
+    - Altera Artigo 75.º
+    - Altera Artigo 177.º-A
+    - Altera Artigo 190.º
+    - Altera Artigo 191.º
+    - Altera Artigo 210.º
+    - Altera Artigo 215.º
+    - Altera Artigo 223.º
+    - Altera Artigo 227.º
+    - Altera Artigo 269.º
+  - date: '2016-05-24'
+    amending: pt:dre:74498465:por
+    amending_title: Lei n.º 13/2016
+    changes:
+    - Altera Artigo 219.º
+    - Altera Artigo 231.º
+    - Altera Artigo 244.º
+  - date: '2016-07-02'
+    amending: pt:dre:74843513:por
+    amending_title: Decreto-Lei n.º 36/2016
+    changes:
+    - Altera Artigo 177.º-C
+    - Altera Artigo 221.º
+    - Altera Artigo 248.º
+    - Altera Artigo 252.º
+  - date: '2017-01-01'
+    amending: pt:dre:105637672:por
+    amending_title: Lei n.º 42/2016
+    changes:
+    - Adita Artigo 183.º-B
+    - Altera Artigo 59.º
+    - Altera Artigo 198.º
+  - date: '2017-08-29'
+    amending: pt:dre:108063581:por
+    amending_title: Lei n.º 100/2017
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 12.º
+    - Altera Artigo 138.º
+    - Altera Artigo 196.º
+    - Altera Artigo 199.º
+  - date: '2018-01-01'
+    amending: pt:dre:114425586:por
+    amending_title: Lei n.º 114/2017; Lei n.º 100/2017
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 40.º
+    - Altera Artigo 97.º
+    - Altera Artigo 198.º
+    - Altera Artigo 80.º
+    - Altera Artigo 88.º
+    - Altera Artigo 91.º
+    - Altera Artigo 150.º
+    - Altera Artigo 181.º
+    - Altera Artigo 197.º
+    - Altera Artigo 228.º
+    - Altera Artigo 241.º
+  - date: '2019-01-01'
+    amending: pt:dre:117537583:por
+    amending_title: Lei n.º 71/2018
+    changes:
+    - Adita Artigo 38.º-A
+    - Altera Artigo 35.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Artigo 41.º
+    - Altera Artigo 69.º
+    - Altera Artigo 84.º
+    - Altera Artigo 103.º
+    - Altera Artigo 169.º
+    - Altera Artigo 183.º
+    - Altera Artigo 191.º
+    - Altera Artigo 192.º
+    - Altera Artigo 199.º
+    - Altera Artigo 199.º-A
+  - date: '2019-04-27'
+    amending: pt:dre:121665678:por
+    amending_title: Lei n.º 27/2019
+    changes:
+    - Altera Artigo 148.º
+  - date: '2019-05-04'
+    amending: pt:dre:122217198:por
+    amending_title: Lei n.º 32/2019
+    changes:
+    - Altera Artigo 63.º
+  - date: '2019-10-01'
+    amending: pt:dre:124793094:por
+    amending_title: Lei n.º 119/2019
+    changes:
+    - Altera Artigo 39.º
+  - date: '2020-04-01'
+    amending: pt:dre:130893436:por
+    amending_title: Lei n.º 2/2020
+    changes:
+    - Altera Artigo 104.º
+  - date: '2021-02-27'
+    amending: pt:dre:158368130:por
+    amending_title: Lei n.º 7/2021
+    changes:
+    - Adita Artigo 40.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 20.º
+    - Altera Artigo 23.º
+    - Altera Artigo 38.º
+    - Altera Artigo 41.º
+    - Altera Artigo 76.º
+    - Altera Artigo 136.º
+    - Altera Artigo 156.º
+    - Altera Artigo 163.º
+    - Altera Artigo 180.º
+    - Altera Artigo 183.º-A
+    - Altera Artigo 192.º
+    - Altera Artigo 196.º
+    - Altera Artigo 199.º
+    - Altera Artigo 223.º
+    - Altera Artigo 237.º
+    - Altera Artigo 250.º
+    - Altera Artigo 253.º
+    - Altera Artigo 256.º
+    - Altera Artigo 264.º
+    - Altera Artigo 278.º
+  - date: '2021-10-16'
+    amending: pt:dre:169602018:por
+    amending_title: Lei n.º 56/2021
+    changes:
+    - Altera Artigo 26.º-A
+    - Altera Artigo 287.º
+  - date: '2022-06-28'
+    amending: pt:dre:185224662:por
+    amending_title: Lei n.º 12/2022
+    changes:
+    - Altera Artigo 227.º
+  - date: '2023-08-29'
+    amending: pt:dre:220956295:por
+    amending_title: Decreto-Lei n.º 74-B/2023
+    changes:
+    - Altera Artigo 280.º
+  - date: '2024-01-01'
+    amending: pt:dre:835864042:por
+    amending_title: Lei n.º 82/2023
+    changes:
+    - Altera Artigo 223.º
+  - date: '2025-01-14'
+    amending: pt:dre:897548402:por
+    amending_title: Decreto-Lei n.º 91/2024
+    changes:
+    - Altera Artigo 38.º
+    - Altera Artigo 214.º
+    - Altera Artigo 223.º
+  - date: '2025-07-01'
+    amending: pt:dre:912653926:por
+    amending_title: Decreto-Lei n.º 49/2025
+    changes:
+    - Altera Artigo 24.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/433/1999/p/cons/20250327/pt/html
+  oj: null
+  dre: '692261'
+  dre_path: /dr/detalhe/decreto-lei/433-1999-692261
+  internal: pt:dre:692261:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1999-692261
+  metadata_url: https://data.dre.pt/eli/dec-lei/433/1999/p/cons/20250327/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-34577575
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-34577575
+  retrieved_at: '2026-10-22T11:54:41Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 5b995ed9816c1df60c487f7ebf5862488c0698df032c3a48b8d1a9d94f74d29b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:54:41Z'
+  notes: 37 versão(ões); histórico completo em decreto-lei-433-99.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Recurso
+- Liquidação Judicial
+- Cobrança de Impostos
+- Código de Procedimento e de Processo Tributário
+- Código de Processo Tributário
+- Multa
+- Contra-ordenação
+- Contribuinte
+- Direcção Geral dos Impostos
+- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Direito Fiscal
+- Dívidas ao Estado
+- Estatuto dos Benefícios Fiscais
+- Execução Fiscal
+- Garantia do Contribuinte
+- Direito à Justiça
+- Infracção Fiscal
+- JURO de MORA
+- Juros
+- Lei Geral Tributária
+- Medidas Preventivas
+- Pagamento a Prestações
+- Prazo
+- Presunção
+- Procedimento Tributário
+- Processo Tributário
+- Prova
+- Regime Jurídico
+- Regulamento das Custas dos Processos Tributários
+- Benefícios Fiscais
+- Custas Judiciais
+- Autarquia Local
+- Tributação
+relationships:
+- type: amended_by
+  target: pt:dre:679669:por
+  label: Adita Artigo 292.º; Adita Artigo 293.º; Altera Artigo 100.º; Altera Artigo 194.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669
+  date: '2000-04-04'
+- type: amended_by
+  target: pt:dre:212015:por
+  label: Declara Inconstitucionalidade Artigo 146.º-B; Adita Artigo 146.º-A; Adita Artigo 146.º-B; Adita Artigo 146.º-C; Adita
+    Artigo 146.º-D; Altera Artigo 146.º; Altera Artigo 214.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:322110:por
+  label: Adita Artigo 183.º-A; Altera Artigo 10.º; Altera Artigo 22.º; Altera Artigo 59.º; Altera Artigo 68.º; Altera Artigo
+    73.º; Altera Artigo 96.º; Altera Artigo 103.º; Altera Artigo 108.º; Altera Secção III; Altera Artigo 110.º; Altera Artigo
+    111.º; Altera Secção IV; Altera Artigo 112.º; Altera Artigo 114.º; Altera Artigo 116.º; Altera Artigo 118.º; Altera Artigo
+    119.º; Altera Artigo 134.º; Altera Artigo 136.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110
+  date: '2001-06-05'
+- type: amended_by
+  target: pt:dre:229157:por
+  label: Altera Artigo 80.º; Altera Artigo 86.º; Altera Artigo 108.º; Altera Artigo 181.º; Altera Artigo 201.º; Altera Artigo
+    206.º; Altera Artigo 230.º; Altera Artigo 231.º; Altera Artigo 237.º; Altera Artigo 241.º; Altera Artigo 276.º; Altera
+    Artigo 277.º; Altera Artigo 278.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157
+  date: '2001-12-27'
+- type: amended_by
+  target: pt:dre:306907:por
+  label: Altera Artigo 10.º; Altera Artigo 75.º; Altera Artigo 24.º; Altera Artigo 26.º; Altera Artigo 35.º; Altera Artigo
+    39.º; Altera Artigo 97.º; Altera Artigo 97.º-A; Altera Artigo 102.º; Altera Artigo 112.º; Altera Artigo 169.º; Altera
+    Artigo 170.º; Altera Artigo 176.º; Altera Artigo 191.º; Altera Artigo 196.º; Altera Artigo 199.º; Altera Artigo 223.º;
+    Altera Artigo 249.º; Altera Artigo 54.º; Altera Artigo 59.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:220944:por
+  label: Altera Artigo 8.º; Altera Artigo 39.º; Altera Artigo 282.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2003-220944
+  date: '2003-03-08'
+- type: amended_by
+  target: pt:dre:670764:por
+  label: Altera Artigo 8.º; Altera Artigo 39.º; Altera Artigo 282.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2003-670764
+  date: '2003-07-19'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: Altera Artigo 38.º; Altera Artigo 43.º; Altera Artigo 65.º; Altera Artigo 82.º; Altera Artigo 83.º; Altera Artigo
+    137.º; Altera Artigo 163.º; Altera Artigo 190.º; Altera Artigo 223.º; Altera Artigo 230.º; Altera Artigo 231.º; Altera
+    Artigo 240.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: Altera Artigo 70.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: Altera Artigo 83.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:552372:por
+  label: Altera Artigo 39.º; Altera Artigo 73.º; Altera Artigo 163.º; Altera Artigo 189.º; Altera Artigo 195.º; Altera Artigo
+    196.º; Altera Artigo 219.º; Altera Artigo 235; Altera Artigo 240.º; Altera Artigo 250.º; Altera Artigo 251.º; Revoga Artigo
+    183.º-A; Altera Artigo 24.º; Altera Artigo 31.º; Altera Artigo 33.º; Altera Artigo 70.º; Altera Artigo 185.º; Altera Artigo
+    186.º; Altera Artigo 188.º; Altera Artigo 263.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2006-552372
+  date: '2006-12-20'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: Altera Artigo 39.º; Altera Artigo 73.º; Altera Artigo 163.º; Altera Artigo 189.º; Altera Artigo 195.º; Altera Artigo
+    196.º; Altera Artigo 219.º; Altera Artigo 235; Altera Artigo 240.º; Altera Artigo 250.º; Altera Artigo 251.º; Revoga Artigo
+    183.º-A; Altera Artigo 24.º; Altera Artigo 31.º; Altera Artigo 33.º; Altera Artigo 70.º; Altera Artigo 185.º; Altera Artigo
+    186.º; Altera Artigo 188.º; Altera Artigo 263.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: Altera Artigo 38.º; Altera Artigo 169.º; Altera Artigo 191.º; Altera Artigo 192.º; Altera Artigo 196.º; Altera Artigo
+    199.º; Altera Artigo 215.º; Altera Artigo 224.º; Altera Artigo 231.º; Altera Artigo 250.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:247448:por
+  label: Adita Capítulo VIII; Adita Artigo 95.º-A; Adita Artigo 95.º-B; Adita Artigo 95.º-C; Altera Artigo 57.º; Altera Artigo
+    63.º; Altera Artigo 199.º; Altera Artigo 183.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448
+  date: '2008-02-26'
+- type: amended_by
+  target: pt:dre:455641:por
+  label: Adita Capítulo VIII; Adita Artigo 95.º-A; Adita Artigo 95.º-B; Adita Artigo 95.º-C; Altera Artigo 57.º; Altera Artigo
+    63.º; Altera Artigo 199.º; Altera Artigo 183.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/40-2008-455641
+  date: '2008-08-11'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: Adita Capítulo VIII; Adita Artigo 95.º-A; Adita Artigo 95.º-B; Adita Artigo 95.º-C; Altera Artigo 57.º; Altera Artigo
+    63.º; Altera Artigo 199.º; Altera Artigo 183.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: Adita Artigo 90.º-A; Altera Artigo 38.º; Altera Artigo 39.º; Altera Artigo 89.º; Altera Artigo 90.º; Altera Artigo
+    148.º; Altera Artigo 149.º; Altera Artigo 150.º; Altera Artigo 169.º; Altera Artigo 189.º; Altera Artigo 191.º; Altera
+    Artigo 193.º; Altera Artigo 196.º; Altera Artigo 200.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: Altera Artigo 61.º; Altera Artigo 75.º; Altera Artigo 97.º; Altera Artigo 150.º; Altera Artigo 151.º; Altera Artigo
+    185.º; Altera Artigo 245.º; Altera Artigo 247.º; Altera Artigo 248.º; Altera Artigo 252.º; Altera Artigo 256.º; Altera
+    Artigo 278.º; Revoga Artigo 243.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: Altera Artigo 24.º; Altera Artigo 27.º; Altera Artigo 29.º; Altera Artigo 38.º; Altera Artigo 39.º; Altera Artigo
+    41.º; Altera Artigo 42.º; Altera Artigo 43.º; Altera Artigo 59.º; Altera Artigo 63.º; Altera Artigo 88; Altera Artigo
+    89.º; Altera Artigo 103.º; Altera Artigo 150.º; Altera Artigo 151.º; Altera Artigo 163.º; Altera Artigo 169.º; Altera
+    Artigo 170.º; Altera Artigo 181.º; Altera Artigo 189.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: Altera Artigo 10.º; Altera Artigo 75.º; Altera Artigo 24.º; Altera Artigo 26.º; Altera Artigo 35.º; Altera Artigo
+    39.º; Altera Artigo 97.º; Altera Artigo 97.º-A; Altera Artigo 102.º; Altera Artigo 112.º; Altera Artigo 169.º; Altera
+    Artigo 170.º; Altera Artigo 176.º; Altera Artigo 191.º; Altera Artigo 196.º; Altera Artigo 199.º; Altera Artigo 223.º;
+    Altera Artigo 249.º; Altera Artigo 54.º; Altera Artigo 59.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:256471:por
+  label: Altera Artigo 10.º; Altera Artigo 75.º; Altera Artigo 24.º; Altera Artigo 26.º; Altera Artigo 35.º; Altera Artigo
+    39.º; Altera Artigo 97.º; Altera Artigo 97.º-A; Altera Artigo 102.º; Altera Artigo 112.º; Altera Artigo 169.º; Altera
+    Artigo 170.º; Altera Artigo 176.º; Altera Artigo 191.º; Altera Artigo 196.º; Altera Artigo 199.º; Altera Artigo 223.º;
+    Altera Artigo 249.º; Altera Artigo 54.º; Altera Artigo 59.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2013-256471
+  date: '2013-01-17'
+- type: amended_by
+  target: pt:dre:504145:por
+  label: Declara Inconstitucionalidade Artigo 146.º-B; Adita Artigo 146.º-A; Adita Artigo 146.º-B; Adita Artigo 146.º-C; Adita
+    Artigo 146.º-D; Altera Artigo 146.º; Altera Artigo 214.º
+  source: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/759-2013-504145
+  date: '2013-11-18'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: Adita Artigo 77.º-A; Adita Artigo 77.º-B; Adita Artigo 133.º-A; Altera Artigo 44.º; Altera Artigo 67.º; Altera Artigo
+    73.º; Altera Artigo 75.º; Altera Secção VII
+  source: https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Altera Artigo 102.º; Altera Artigo 131.º; Altera Artigo 132.º; Altera Artigo 133.º-A; Adita Artigo 177.º-A; Adita
+    Artigo 177.º-B; Adita Artigo 177.º-C; Altera Artigo 6.º; Altera Artigo 31.º; Altera Artigo 38.º; Altera Artigo 73.º; Altera
+    Artigo 112.º; Altera Artigo 146.º-A; Altera Artigo 146.º-D; Altera Artigo 191.º; Altera Artigo 192.º; Altera Artigo 194.º;
+    Altera Artigo 198.º; Altera Artigo 200.º; Altera Artigo 215.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:66022085:por
+  label: Altera Artigo 102.º; Altera Artigo 131.º; Altera Artigo 132.º; Altera Artigo 133.º-A; Adita Artigo 177.º-A; Adita
+    Artigo 177.º-B; Adita Artigo 177.º-C; Altera Artigo 6.º; Altera Artigo 31.º; Altera Artigo 38.º; Altera Artigo 73.º; Altera
+    Artigo 112.º; Altera Artigo 146.º-A; Altera Artigo 146.º-D; Altera Artigo 191.º; Altera Artigo 192.º; Altera Artigo 194.º;
+    Altera Artigo 198.º; Altera Artigo 200.º; Altera Artigo 215.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/82-e-2014-66022085
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:73958532:por
+  label: Adita Artigo 199.º-A; Altera Artigo 7.º; Altera Artigo 73.º; Altera Artigo 75.º; Altera Artigo 177.º-A; Altera Artigo
+    190.º; Altera Artigo 191.º; Altera Artigo 210.º; Altera Artigo 215.º; Altera Artigo 223.º; Altera Artigo 227.º; Altera
+    Artigo 269.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532
+  date: '2016-03-30'
+- type: amended_by
+  target: pt:dre:74498465:por
+  label: Altera Artigo 219.º; Altera Artigo 231.º; Altera Artigo 244.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/13-2016-74498465
+  date: '2016-05-23'
+- type: amended_by
+  target: pt:dre:74843513:por
+  label: Altera Artigo 177.º-C; Altera Artigo 221.º; Altera Artigo 248.º; Altera Artigo 252.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2016-74843513
+  date: '2016-07-01'
+- type: amended_by
+  target: pt:dre:105637672:por
+  label: Adita Artigo 183.º-B; Altera Artigo 59.º; Altera Artigo 198.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672
+  date: '2016-12-28'
+- type: amended_by
+  target: pt:dre:107791615:por
+  label: Adita Artigo 183.º-B; Altera Artigo 59.º; Altera Artigo 198.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2017-107791615
+  date: '2017-08-01'
+- type: amended_by
+  target: pt:dre:108063581:por
+  label: Altera Artigo 6.º; Altera Artigo 12.º; Altera Artigo 138.º; Altera Artigo 196.º; Altera Artigo 199.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/100-2017-108063581
+  date: '2017-08-28'
+- type: amended_by
+  target: pt:dre:114425586:por
+  label: Altera Artigo 7.º; Altera Artigo 40.º; Altera Artigo 97.º; Altera Artigo 198.º; Altera Artigo 80.º; Altera Artigo
+    88.º; Altera Artigo 91.º; Altera Artigo 150.º; Altera Artigo 181.º; Altera Artigo 197.º; Altera Artigo 228.º; Altera Artigo
+    241.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586
+  date: '2017-12-29'
+- type: amended_by
+  target: pt:dre:117537583:por
+  label: Adita Artigo 38.º-A; Altera Artigo 35.º; Altera Artigo 39.º; Altera Artigo 40.º; Altera Artigo 41.º; Altera Artigo
+    69.º; Altera Artigo 84.º; Altera Artigo 103.º; Altera Artigo 169.º; Altera Artigo 183.º; Altera Artigo 191.º; Altera Artigo
+    192.º; Altera Artigo 199.º; Altera Artigo 199.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:121665678:por
+  label: Altera Artigo 148.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/27-2019-121665678
+  date: '2019-03-28'
+- type: amended_by
+  target: pt:dre:122217198:por
+  label: Altera Artigo 63.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/32-2019-122217198
+  date: '2019-05-03'
+- type: amended_by
+  target: pt:dre:124750731:por
+  label: Altera Artigo 39.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731
+  date: '2019-09-17'
+- type: amended_by
+  target: pt:dre:124793094:por
+  label: Altera Artigo 39.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094
+  date: '2019-09-18'
+- type: amended_by
+  target: pt:dre:130893436:por
+  label: Altera Artigo 104.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436
+  date: '2020-03-31'
+- type: amended_by
+  target: pt:dre:158368130:por
+  label: Adita Artigo 40.º-A; Altera Artigo 1.º; Altera Artigo 20.º; Altera Artigo 23.º; Altera Artigo 38.º; Altera Artigo
+    41.º; Altera Artigo 76.º; Altera Artigo 136.º; Altera Artigo 156.º; Altera Artigo 163.º; Altera Artigo 180.º; Altera Artigo
+    183.º-A; Altera Artigo 192.º; Altera Artigo 196.º; Altera Artigo 199.º; Altera Artigo 223.º; Altera Artigo 237.º; Altera
+    Artigo 250.º; Altera Artigo 253.º; Altera Artigo 256.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130
+  date: '2021-02-26'
+- type: amended_by
+  target: pt:dre:169602018:por
+  label: Altera Artigo 26.º-A; Altera Artigo 287.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/56-2021-169602018
+  date: '2021-08-16'
+- type: amended_by
+  target: pt:dre:176800374:por
+  label: Altera Artigo 227.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374
+  date: '2021-12-30'
+- type: amended_by
+  target: pt:dre:185224662:por
+  label: Altera Artigo 227.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662
+  date: '2022-06-27'
+- type: amended_by
+  target: pt:dre:220956295:por
+  label: Altera Artigo 280.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-b-2023-220956295
+  date: '2023-08-28'
+- type: amended_by
+  target: pt:dre:835864042:por
+  label: Altera Artigo 223.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042
+  date: '2023-12-29'
+- type: amended_by
+  target: pt:dre:897548402:por
+  label: Altera Artigo 38.º; Altera Artigo 214.º; Altera Artigo 223.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2024-897548402
+  date: '2024-11-22'
+- type: amended_by
+  target: pt:dre:912653926:por
+  label: Altera Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2025-912653926
+  date: '2025-03-27'
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/398/1998/12/17/p/dre
+- type: cites
+  target: pt:dre:214238:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/180/1996/09/25/p/dre
+- type: cites
+  target: pt:dre:226051:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/329-a/1995/12/12/p/dre
+- type: cites
+  target: pt:dre:229484:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/29/1998/02/11/p/dre
+- type: cites
+  target: pt:dre:570520:por
+  label: null
+  source: http://data.dre.pt/eli/lei/87-b/1998/12/31/p/dre
+- type: cites
+  target: pt:dre:594675:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/154/1991/04/23/p/dre
+article_structure:
+  article_count: 327
+  section_count: 80
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:54:41Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 433/99
+
+1 - A lei geral tributária, aprovada pelo artigo 1.º do Decreto-Lei n.º 398/98, de 17 de Dezembro, exige uma extensa e profunda adaptação às suas disposições dos vários códigos e leis tributárias, designadamente do Código de Processo Tributário, aprovado pelo artigo 1.º do Decreto-Lei n.º 154/91, de 23 de Abril.
+
+Na verdade, aquela lei chamou a si a regulamentação directa de aspectos essenciais da relação jurídico-tributária e do próprio procedimento tributário, que constavam até então do Código de Processo Tributário e de outras leis tributárias. Impõe-se agora a modificação da sistematização e disciplina deste Código, que ficará essencialmente a ser um código de processo judicial tributário e das execuções fiscais, sem prejuízo de complementar a regulamentação do procedimento tributário efectuada pela lei geral tributária, o que é feito no título II.
+
+2 - A reforma do Código de Processo Civil efectuada pelos Decretos-Leis n.os 329-A/95, de 12 de Dezembro, e 180/96, de 25 de Setembro, impõe também a harmonização com as suas disposições do Código de Processo Tributário.
+
+O processo tributário é processo especial, mas a evolução do processo civil não podia deixar de reflectir-se na evolução do processo tributário, que não é qualquer realidade estática nem enclave autónomo do direito processual comum.
+
+3 - As modificações agora introduzidas no Código de Processo Tributário (agora definido, de acordo com a nova terminologia da lei geral tributária, como sendo também código do procedimento tributário) visam também objectivos gerais de simplicidade e eficácia.
+
+Simplicidade e eficácia não são, no entanto, incompatíveis com os direitos e garantias dos contribuintes. Pelo contrário, sem eficácia e simplicidade do procedimento e processo, esses direitos e garantias não passarão de proclamações retóricas, sem conteúdo efectivo. Pretende-se que a regulamentação do procedimento e processo tributários assegure não só a certeza, como a celeridade na declaração e realização dos direitos tributários, que é condição essencial de uma melhor justiça fiscal.
+
+O presente Código de Procedimento e de Processo Tributário não se aplica apenas aos impostos administrados tradicionalmente pela Direcção-Geral dos Impostos (DGCI). Fica também claro que se aplica ao exercício dos direitos tributários em geral, quer pela DGCI, quer por outras entidades públicas, designadamente a Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC), quer inclusivamente por administrações tributárias não dependentes do Ministério das Finanças. Foram eliminadas todas as referências ao Código de Processo Tributário que inviabilizavam ou dificultavam a sua aplicação por parte das referidas entidades, sem prejuízo de se salvaguardar o disposto no direito comunitário ou em lei especial que pontualmente aponte para soluções diferentes das consagradas no presente Código. Paralelamente, introduziram-se no Regulamento das Custas dos Processos Tributários, aprovado pelo artigo 1.º do Decreto-Lei n.º 29/98, de 11 de Fevereiro, as adaptações destinadas a viabilizar a sua efectiva aplicação aos processos aduaneiros.
+
+4 - A opção por novas sistematização e ordenação das disposições que integravam o Código de Processo Tributário resulta da amplitude das modificações exigidas pela lei geral tributária e pela reforma do Código de Processo Civil. É o resultado, no entanto, de meras opções de técnica legislativa, não representando qualquer alteração substancial do actual quadro das relações Fisco-contribuinte, que é considerado equilibrado, e mantendo-se rigorosamente no âmbito da autorização legislativa concedida pelo n.º 1 do artigo 51.º da Lei n.º 87-B/98, de 31 de Dezembro.
+
+5 - O título I do presente Código mantém, na medida do possível, a estrutura do título I do Código de Processo Tributário, expurgada das matérias substantivas, incluindo as normas sobre responsabilidade tributária, que passaram entretanto a constar da lei geral tributária.
+
+Assinalam-se em especial nesse título a adaptação das normas sobre a personalidade e capacidade tributárias, prazos e notificações às alterações do Código de Processo Civil e à lei geral tributária e a definição de um quadro claro de resolução de conflitos de competências, incluindo entre administrações tributárias diferentes.
+
+6 - No título II registam-se a adaptação das normas de procedimento tributário que não foram incluídas na lei geral tributária aos princípios e disposições desta, a consagração do princípio do duplo grau de decisão no procedimento tributário, que é uma garantia da sua celeridade e eficácia, a possibilidade de, em caso de erro na forma de procedimento, este ser convolado na forma adequada, o desenvolvimento dos deveres de informação dos contribuintes previstos na lei geral tributária, a regulamentação de subprocedimentos de especial importância, como os da declaração de abuso de direito ou de elisão de presunções legais, e a simplificação do processo de decisão das reclamações. São igualmente integradas no Código as normas de natureza procedimental do Estatuto dos Benefícios Fiscais que não devam caber na lei geral tributária.
+
+7 - No processo judicial tributário, que integra o título III, anotam-se especialmente, além da simplificação do processo de decisão, incluindo na fase da preparação do processo pela administração tributária, a regulamentação, pela primeira vez, da impugnação das providências cautelares adoptadas pela administração tributária e da possibilidade de reacção dos contribuintes contra omissões lesivas da administração tributária, dando-se assim consagração a inovações da última revisão constitucional obviamente acolhidas pela lei geral tributária.
+
+8 - Na execução fiscal, que integra o título IV, avulta essencialmente a sua adequação ao modelo do novo processo civil, acentuando-se a ideia de uma execução não universal, mas simultaneamente ampliando-se as garantias do executado e de terceiros, sem prejuízo das necessárias eficácia e celeridade do processo.
+
+9 - No título V regressa-se ao modelo do Código de Processo das Contribuições e Impostos, reconhecido como mais adequado, da autonomização da matéria dos recursos jurisdicionais e esclarecem-se algumas das soluções legislativas do Código de Processo Tributário à luz da experiência concreta da sua aplicação. Procede-se também, de acordo com o balanço feito da aplicação do Código de Processo Tributário, a uma simplificação e harmonização do sistema de recursos.
+
+10 - Finalmente, a aprovação do presente Código insere-se na linha da Resolução do Conselho de Ministros n.º 119/97, de 14 de Julho, na medida em que reforça e aperfeiçoa o sistema de garantias dos contribuintes e imprime maior eficácia e celeridade à justiça tributária.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+No uso da autorização legislativa concedida pelos n.os 1 e 6 do artigo 51.º da Lei n.º 87-B/98, de 31 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+###### Artigo 1.º — Aprovação
+
+É aprovado o Código de Procedimento e de Processo Tributário, que faz parte integrante do presente decreto-lei.
+
+###### Artigo 2.º — Revogação
+
+1 - É revogado a partir da entrada em vigor do Código de Procedimento e de Processo Tributário o Código de Processo Tributário, aprovado pelo artigo 1.º do Decreto-Lei n.º 154/91, de 23 de Abril, bem como toda a legislação contrária ao Código aprovado pelo presente decreto-lei, sem prejuízo das disposições que este expressamente mantenha em vigor.
+
+2 - Ficam também revogados a partir da entrada em vigor do presente Código os artigos 14.º a 17.º do Estatuto dos Benefícios Fiscais, aprovado pelo artigo 1.º do Decreto-Lei n.º 215/89, de 1 de Julho.
+
+###### Artigo 3.º — Continuação em vigor
+
+1 - Até à revisão do Regime Jurídico das Infracções Fiscais não Aduaneiras, aprovado pelo artigo 1.º do Decreto-Lei n.º 20-A/90, de 15 de Janeiro, continuarão em vigor os artigos 25.º a 30.º, 35.º, 36.º e 180.º a 232.º do Código de Processo Tributário.
+
+2 - Manter-se-á em vigor o disposto nos n.os 1 e 2 do artigo 49.º do Código de Processo Tributário, na parte relativa à contagem do prazo de interposição do recurso das decisões de aplicação das coimas.
+
+###### Artigo 4.º — Entrada em vigor
+
+O Código de Procedimento e de Processo Tributário entra em vigor a 1 de Janeiro de 2000 e só se aplica aos procedimentos iniciados e aos processos instaurados a partir dessa data.
+
+###### Artigo 5.º — Unidade de conta
+
+Para efeitos do código aprovado pelo presente decreto-lei, considera-se unidade de conta a unidade de conta processual a que se referem os n.os 5 e 6 do Decreto-Lei n.º 212/89, de 30 de Junho.
+
+###### Artigo 6.º — Disposições especiais
+
+1 - Consideram-se órgãos periféricos locais, para efeitos do código aprovado pelo presente decreto-lei, os serviços de finanças, delegações aduaneiras e postos aduaneiros da Autoridade Tributária e Aduaneira (AT).
+
+2 - Na execução fiscal consideram-se órgãos periféricos regionais as direções de finanças ou quaisquer outros órgãos da administração tributária a quem lei especial atribua as competências destas no processo.
+
+3 - Consideram-se órgãos periféricos regionais, para efeitos do código aprovado pelo presente decreto-lei, as direções de finanças e as alfândegas da AT.
+
+4 - As competências que o código aprovado pelo presente decreto-lei atribui aos órgãos periféricos regionais e aos órgãos periféricos locais da administração tributária para o procedimento e processo tributário são exercidas, relativamente às pessoas singulares ou coletivas que, nos termos da lei, sejam qualificadas como grandes contribuintes, pelo órgão do serviço central da AT a quem, organicamente, seja cometida, como atribuição específica, o respetivo acompanhamento e gestão tributárias, com exceção dos impostos aduaneiros e especiais de consumo.
+
+5 - Excecionam-se das competências atribuídas ao órgão do serviço central da AT a que se refere o número anterior, as competências atribuídas aos órgãos periféricos locais previstas no Código do Imposto Municipal sobre Imóveis.
+
+6 - Nos tributos, incluindo parafiscais, não administrados pelas entidades referidas nos n.os 1 e 3, consideram-se órgãos periféricos locais os territorialmente competentes para a sua liquidação e cobrança e órgãos periféricos regionais os imediatamente superiores.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 100/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/100-2017-108063581), em vigor a partir de 2017-08-29
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 6/2013 - Diário da República n.º 12/2013, Série I de 2013-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2013-256471), em vigor a partir de 2013-01-22, produz efeitos a partir de 2012-01-01
+
+###### Artigo 7.º — Tributos administrados por autarquias locais
+
+1 - As competências atribuídas no código aprovado pelo presente decreto-lei a órgãos periféricos locais ou, no que respeita às competências de execução fiscal, a órgãos periféricos regionais, são exercidas pelas autarquias quanto aos tributos por elas administrados.
+
+2 - As competências atribuídas no código aprovado pelo presente decreto-lei ao dirigente máximo do serviço ou a órgãos executivos da administração tributária serão exercidas, nos termos da lei, pelo presidente da autarquia.
+
+3 - As competências atribuídas pelo código aprovado pelo presente decreto-lei ao representante da Fazenda Pública serão exercidas, nos termos da lei, por licenciado em Direito ou em Solicitadoria desempenhando funções de mero apoio jurídico.
+
+4 - A competência para cobrança coerciva de impostos e outros tributos administrados por autarquias locais pode ser atribuída à administração tributária mediante protocolo, ou a agentes de execução mediante protocolo com a Ordem dos Solicitadores e dos Agentes de Execução.
+
+5 - A competência para cobrança coerciva de tributos administrados pelas freguesias pode ser atribuída aos municípios a cuja área pertençam mediante protocolo.
+
+6 - A realização de penhoras é precedida das diligências que a autarquia considere úteis à identificação ou localização de bens penhoráveis, procedendo esta, sempre que necessário, à consulta, nas bases de dados da administração tributária, de informação sobre a identificação do executado e sobre a identificação e a localização dos bens do executado.
+
+7 - A informação sobre a identificação do executado referida no número anterior apenas inclui o domicílio fiscal, mediante indicação à Autoridade Tributária e Aduaneira do número de identificação fiscal.
+
+8 - A consulta direta pelo município às bases de dados referidas no n.º 6 é efetuada em termos a definir por portaria dos membros do Governo responsáveis pelas áreas das finanças e das autarquias locais.
+
+9 - A regulamentação referida no número anterior deve especificar, em relação a cada consulta, a obtenção e a conservação dos dados referentes à data da consulta e à identificação do respetivo processo executivo e dos trabalhadores e titulares de órgãos municipais que tenham acesso a informação transmitida pela AT.
+
+10 - Quando não seja possível o acesso eletrónico, pelo município, aos elementos sobre a identificação e a localização dos bens do executado, a AT deve fornecê-los pelo meio mais célere e no prazo de 30 dias.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+> Alterado pelo/a Artigo 269.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 100/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/100-2017-108063581), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 175.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+###### Artigo 8.º — Constituição de fundo
+
+Será constituído na DGAIEC, no prazo de 180 dias a contar da entrada em vigor do presente decreto-lei, um fundo da mesma natureza e fins do previsto para a DGCI no artigo 3.º do Decreto-Lei n.º 29/98, de 11 de Fevereiro.
+
+###### Artigo 9.º — Processos aduaneiros
+
+1 - O artigo 24.º do Regulamento das Custas dos Processos Tributários, aprovado pelo artigo 1.º do Decreto-Lei n.º 29/98, passa a ter a seguinte redacção:
+
+«Artigo 24.º
+
+Processos aduaneiros
+
+O presente Regulamento aplica-se aos processos aduaneiros, com as seguintes adaptações:
+
+a) Consideram-se feitas à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC) as referências efectuadas à DGCI;
+
+b) Consideram-se feitas às alfândegas, delegações e postos aduaneiros da DGAIEC as referências feitas às repartições de finanças;
+
+c) Consideram-se feitas às alfândegas de que dependam os postos aduaneiros ou delegações aduaneiras as referências efectuadas às direcções de finanças.»
+
+2 - Quando estiverem em causa receitas administradas pela DGAIEC, consideram-se feitas a esta as referências efectuadas à DGCI nos artigos 3.º e 4.º do decreto-lei referido no n.º 1.
+
+###### Artigo 10.º — Remissões
+
+Consideram-se feitas para as disposições correspondentes do Código de Procedimento e de Processo Tributário todas as remissões efectuadas nos códigos e leis tributárias, bem como em legislação avulsa, para o Código de Processo Tributário.
+
+Visto e aprovado em Conselho de Ministros de 18 de Agosto de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - José Manuel de Matos Fernandes.
+
+Promulgado em 24 de Setembro de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 13 de Outubro de 1999.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## Anexo — CÓDIGO DE PROCEDIMENTO E DE PROCESSO TRIBUTÁRIO
+
+## Título I — Disposições gerais
+
+### Capítulo I — Âmbito e direito subsidiário
+
+###### Artigo 1.º — Âmbito
+
+O presente Código aplica-se, sem prejuízo do disposto no direito da União Europeia, noutras normas de direito internacional que vigorem diretamente na ordem interna, na lei geral tributária ou em legislação especial, incluindo as normas que regulam a liquidação e cobrança dos tributos parafiscais:
+
+a) Ao procedimento tributário;
+
+b) Ao processo judicial tributário;
+
+c) À cobrança coerciva das dívidas exigíveis em processo de execução fiscal;
+
+d) Aos recursos jurisdicionais.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+###### Artigo 2.º — Direito subsidiário
+
+São de aplicação supletiva ao procedimento e processo judicial tributário, de acordo com a natureza dos casos omissos:
+
+a) As normas de natureza procedimental ou processual dos códigos e demais leis tributárias;
+
+b) As normas sobre a organização e funcionamento da administração tributária;
+
+c) As normas sobre organização e processo nos tribunais administrativos e tributários;
+
+d) O Código do Procedimento Administrativo;
+
+e) O Código de Processo Civil.
+
+### Capítulo II — Dos sujeitos procedimentais e processuais
+
+#### Secção I — Da personalidade e da capacidade tributárias
+
+###### Artigo 3.º — Personalidade e capacidade tributárias
+
+1 - A personalidade judiciária tributária resulta da personalidade tributária.
+
+2 - A capacidade judiciária e para o exercício de quaisquer direitos no procedimento tributário tem por base e por medida a capacidade de exercício dos direitos tributários.
+
+3 - Os incapazes só podem estar em juízo e no procedimento por intermédio dos seus representantes, ou autorizados pelo seu curador, excepto quanto aos actos que possam exercer pessoal e livremente.
+
+###### Artigo 4.º — Intervenção das sucursais
+
+As sucursais, agências, delegações ou representações podem intervir, no procedimento ou no processo judicial tributário, mediante autorização expressa da administração principal, quando o facto tributário lhes respeitar.
+
+###### Artigo 5.º — Mandato tributário
+
+1 - Os interessados ou seus representantes legais podem conferir mandato, sob a forma prevista na lei, para a prática de actos de natureza procedimental ou processual tributária que não tenham carácter pessoal.
+
+2 - O mandato tributário só pode ser exercido, nos termos da lei, por advogados, advogados estagiários e solicitadores quando se suscitem ou discutam questões de direito perante a administração tributária em quaisquer petições, reclamações ou recursos.
+
+3 - A revogação do mandato tributário só produz efeitos para com a administração tributária quando lhe for notificada.
+
+###### Artigo 6.º — Patrocínio judiciário e representação em juízo
+
+1 - É obrigatória a constituição de mandatário nos tribunais tributários, nos termos previstos na lei processual administrativa.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+###### Artigo 7.º — Curador especial ou provisório
+
+1 - Em caso de, no procedimento tributário, se apurar a inexistência de designação de um representante legal do incapaz e sem prejuízo dos poderes legalmente atribuídos ao Ministério Público, deve a entidade legalmente incumbida da sua direcção requerer de imediato a sua nomeação ao tribunal competente e, em caso de urgência, proceder simultaneamente à nomeação de um curador provisório que o represente até à nomeação do representante legal.
+
+2 - O disposto no número anterior aplica-se às pessoas singulares que, por anomalia psíquica ou qualquer outro motivo grave, se mostre estarem impossibilitadas de receber as notificações ou citações promovidas pela administração tributária ou ausentes em parte incerta sem representante legal ou procurador.
+
+3 - O curador a que se refere o presente artigo tem direito ao reembolso pelo representado das despesas que comprovadamente haja efectuado no exercício das suas funções.
+
+###### Artigo 8.º — Representação das entidades desprovidas de personalidade jurídica mas que dispõem de personalidade tributária e das sociedades ou pessoas colectivas sem representante conhecido
+
+1 - As entidades desprovidas de personalidade jurídica mas que disponham de personalidade tributária são representadas pelas pessoas que, legalmente ou de facto, efectivamente as administrem.
+
+2 - Aplica-se o disposto no n.º 1 do artigo anterior, com as adaptações necessárias, se as pessoas colectivas ou entes legalmente equiparados não dispuserem de quem as represente.
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 160/2003 - Diário da República n.º 165/2003, Série I-A de 2003-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2003-670764), em vigor a partir de 2003-07-24
+
+#### Secção II — Da legitimidade
+
+###### Artigo 9.º — Legitimidade
+
+1 - Têm legitimidade no procedimento tributário, além da administração tributária, os contribuintes, incluindo substitutos e responsáveis, outros obrigados tributários, as partes dos contratos fiscais e quaisquer outras pessoas que provem interesse legalmente protegido.
+
+2 - A legitimidade dos responsáveis solidários resulta da exigência em relação a eles do cumprimento da obrigação tributária ou de quaisquer deveres tributários, ainda que em conjunto com o devedor principal.
+
+3 - A legitimidade dos responsáveis subsidiários resulta de ter sido contra eles ordenada a reversão da execução fiscal ou requerida qualquer providência cautelar de garantia dos créditos tributários.
+
+4 - Têm legitimidade no processo judicial tributário, além das entidades referidas nos números anteriores, o Ministério Público e o representante da Fazenda Pública.
+
+#### Secção III — Da competência
+
+###### Artigo 10.º — Competências da administração tributária
+
+1 - Aos serviços da administração tributária cabe:
+
+a) Liquidar e cobrar ou colaborar na cobrança dos tributos, nos termos das leis tributárias;
+
+b) Proceder à revisão oficiosa dos actos tributários;
+
+c) Decidir as petições e reclamações e pronunciar-se sobre os recursos hierárquicos apresentados pelos contribuintes;
+
+d) Reconhecer isenções ou outros benefícios fiscais e praticar, nos casos previstos na lei, outros actos administrativos em matéria tributária;
+
+e) Receber e enviar por via eletrónica ao tribunal tributário competente as petições iniciais nos processos de impugnação judicial que neles sejam entregues e dar cumprimento ao disposto nos artigos 111.º e 112.º;
+
+f) Instaurar os processos de execução fiscal e realizar os actos a estes respeitantes, salvo os previstos no n.º 1 do artigo 151.º do presente Código;
+
+g) Cobrar as custas dos processos e dar-lhes o destino legal;
+
+h) Efectuar as diligências que lhes sejam ordenadas ou solicitadas pelos tribunais tributários;
+
+i) Cumprir deprecadas;
+
+j) Realizar os demais actos que lhes sejam cometidos na lei.
+
+2 - Sem prejuízo do disposto na lei, designadamente quanto aos procedimentos relativos a tributos parafiscais e aos procedimentos relativos aos grandes contribuintes, são competentes para o procedimento os órgãos periféricos locais da administração tributária do domicílio ou sede do contribuinte, da situação dos bens ou da liquidação.
+
+3 - Sem prejuízo do disposto na lei quanto aos procedimentos relativos aos grandes contribuintes, se a administração tributária não dispuser de órgãos periféricos locais, são competentes os órgãos periféricos regionais da administração tributária do domicílio ou sede do contribuinte, da situação dos bens ou da liquidação.
+
+4 - Se a administração tributária não dispuser de órgãos periféricos regionais, as competências atribuídas pelo presente Código a esses órgãos serão exercidas pelo dirigente máximo do serviço ou por aquele em quem ele delegar essa competência.
+
+5 - Salvo disposição expressa em contrário, a competência do serviço determina-se no início do procedimento, sendo irrelevantes as alterações posteriores.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 6/2013 - Diário da República n.º 12/2013, Série I de 2013-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2013-256471), em vigor a partir de 2013-01-01, produz efeitos a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 11.º — Conflitos de competência
+
+1 - Os conflitos positivos ou negativos de competência entre diferentes serviços do mesmo órgão da administração tributária são resolvidos pelo seu dirigente máximo.
+
+2 - Os conflitos positivos ou negativos de competência entre órgãos da administração tributária pertencentes ao mesmo ministério são resolvidos pelo ministro respectivo.
+
+3 - Os conflitos positivos ou negativos de competência entre órgãos da administração tributária pertencentes a ministérios diferentes são resolvidos pelo Primeiro-Ministro.
+
+4 - Os conflitos positivos ou negativos da competência entre órgãos da administração tributária do governo central, dos governos regionais e das autarquias locais são resolvidos, nos termos do presente Código, pelos tribunais tributários.
+
+5 - São resolvidos oficiosamente os conflitos de competência dentro do mesmo ministério, devendo os órgãos que os suscitarem solicitar a sua resolução à entidade competente no prazo de 8 dias.
+
+6 - Salvo disposição em contrário, o interessado deve requerer a resolução do conflito de competência no prazo de 30 dias após a notificação da decisão ou do conhecimento desta.
+
+###### Artigo 12.º — Competência dos tribunais tributários
+
+1 - Os processos da competência dos tribunais tributários são julgados em 1.ª instância pelo tribunal da área do serviço periférico local onde se praticou o ato objeto da impugnação ou no caso da execução fiscal, no tribunal da área do domicílio ou sede do executado.
+
+2 - No caso de actos tributários ou em matéria tributária praticados por outros serviços da administração tributária, julgará em 1.ª instância o tribunal da área do domicílio ou sede do contribuinte, da situação dos bens ou da transmissão.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 100/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/100-2017-108063581), em vigor a partir de 2017-08-29
+
+###### Artigo 13.º — Poderes do juiz
+
+1 - Aos juízes dos tribunais tributários incumbe a direcção e julgamento dos processos da sua jurisdição, devendo realizar ou ordenar todas as diligências que considerem úteis ao apuramento da verdade relativamente aos factos que lhes seja lícito conhecer.
+
+2 - As autoridades e repartições públicas são obrigadas a prestar as informações que o juiz entender necessárias ao bom andamento dos processos.
+
+###### Artigo 14.º — Competência do Ministério Público
+
+1 - Cabe ao Ministério Público a defesa da legalidade, a promoção do interesse público e a representação dos ausentes, incertos e incapazes.
+
+2 - O Ministério Público será sempre ouvido nos processos judiciais antes de ser proferida a decisão final, nos termos deste Código.
+
+###### Artigo 15.º — Competência do representante da Fazenda Pública
+
+1 - Compete ao representante da Fazenda Pública nos tribunais tributários:
+
+a) Representar a administração tributária e, nos termos da lei, quaisquer outras entidades públicas no processo judicial tributário e no processo de execução fiscal;
+
+b) Recorrer e intervir em patrocínio da Fazenda Pública na posição de recorrente ou recorrida;
+
+c) Praticar quaisquer outros actos previstos na lei.
+
+2 - No exercício das suas competências, deve o representante da Fazenda Pública promover o rápido andamento dos processos, podendo requisitar às repartições públicas os elementos de que necessitar e solicitar, nos termos da lei, aos serviços da administração tributária as diligências necessárias.
+
+3 - Quando a representação do credor tributário não for do representante da Fazenda Pública, as competências deste são exercidas pelo mandatário judicial que aquele designar.
+
+###### Artigo 16.º — Incompetência absoluta em processo judicial
+
+1 - A infracção das regras de competência em razão da hierarquia e da matéria determina a incompetência absoluta do tribunal.
+
+2 - A incompetência absoluta é de conhecimento oficioso e pode ser arguida pelos interessados ou suscitada pelo Ministério Público ou pelo representante da Fazenda Pública até ao trânsito em julgado da decisão final.
+
+###### Artigo 17.º — Incompetência territorial em processo judicial
+
+1 - A infracção das regras de competência territorial determina a incompetência relativa do tribunal ou serviço periférico local ou regional onde correr o processo.
+
+2 - A incompetência em razão do território é de conhecimento oficioso, podendo ser arguida ou conhecida até à prolação da sentença em 1.ª instância, sem prejuízo do disposto no número seguinte.
+
+3 - No processo de execução fiscal, a incompetência territorial do órgão de execução só pode ser arguida ou conhecida oficiosamente até findar o prazo para a oposição, implicando a remessa oficiosa do processo para o serviço considerado competente, no prazo de 48 horas, notificando-se o executado.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+###### Artigo 18.º — Efeitos da declaração judicial de incompetência
+
+1 - A decisão judicial de incompetência implica a remessa oficiosa do processo, por via eletrónica, ao tribunal tributário ou administrativo competente, no prazo de 48 horas.
+
+2 - Quando a petição seja dirigida a tribunal incompetente, sem que o tribunal competente pertença à jurisdição administrativa e fiscal, pode o interessado, no prazo de 15 dias a contar do trânsito em julgado da decisão que declare a incompetência, requerer a remessa do processo, se possível por via eletrónica, ao tribunal competente, com indicação do mesmo.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+###### Artigo 19.º — Deficiências ou irregularidades processuais
+
+O tribunal ou qualquer serviço da administração tributária para onde subir o processo, se nele verificar qualquer deficiência ou irregularidade que não possa sanar, mandá-lo-á baixar para estas serem supridas.
+
+#### Secção IV — Dos actos procedimentais e processuais
+
+##### Subsecção I — Dos prazos
+
+###### Artigo 20.º — Contagem dos prazos
+
+1 - Os prazos do procedimento tributário e interposição da impugnação judicial contam-se de modo contínuo e nos termos do artigo 279.º do Código Civil, transferindo-se o seu termo, quando os prazos terminarem em dia em que os serviços ou os tribunais estiverem encerrados, para o primeiro dia útil seguinte.
+
+2 - Os prazos para a prática de actos no processo judicial contam-se nos termos do Código de Processo Civil.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+###### Artigo 21.º — Despacho e sentenças. Prazos
+
+Na falta de disposições especiais, observar-se-ão os seguintes prazos para os despachos e sentenças:
+
+a) Os despachos que não sejam de mero expediente serão proferidos dentro de 10 dias, devendo os de mero expediente ser proferidos no prazo de 5 dias;
+
+b) As sentenças serão proferidas dentro de 20 dias.
+
+###### Artigo 22.º — Promoções do Ministério Público e do representante da Fazenda Pública. Prazo
+
+1 - No processo judicial tributário, os prazos para a prática de actos pelo Ministério Público e pelo representante da Fazenda Pública têm a natureza de prazos peremptórios.
+
+2 - Na falta de disposição especial, os prazos mencionados no número anterior são de 20 dias na 1.ª instância e de 30 dias nos tribunais superiores.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 23.º — Prazos fixados
+
+1 - Quando, nos termos da lei, o prazo para a prática do ato deva ser fixado pela administração tributária ou pelo juiz, este não pode ser inferior a 10 nem superior a 30 dias.
+
+2 - Se a administração tributária ou o juiz não fixarem o prazo, este será de 10 dias.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+###### Artigo 24.º — Passagem de certidões e cumprimento de cartas precatórias. Prazos
+
+1 - As certidões de actos e termos do procedimento tributário e do processo judicial, bem como os comprovativos de cadastros ou outros elementos em arquivo na administração tributária, sempre que informatizados, são passados, no prazo máximo de três dias, por via electrónica através da Internet ou mediante impressão nos serviços da administração tributária.
+
+2 - Nos procedimentos e processos não informatizados, as certidões e termos são passados mediante a apresentação de pedido escrito ou oral, no prazo máximo de cinco dias.
+
+3 - As certidões poderão ser passadas no prazo de 48 horas caso a administração tributária disponha dos elementos necessários e o contribuinte invoque fundamentadamente urgência na sua obtenção.
+
+4 - Salvo o disposto em lei especial, a validade das certidões passadas pela administração tributária é de um ano, exceto as certidões comprovativas de situação tributária regularizada, que têm a validade de quatro meses.
+
+5 - A validade de certidões passadas pela administração tributária que estejam sujeitas a prazo de caducidade pode ser prorrogada, a pedido dos interessados, por períodos sucessivos de um ano, que não pode ultrapassar três anos, desde que não haja alteração dos elementos anteriormente certificados, exceto as respeitantes à situação tributária regularizada, cujo prazo de validade nunca pode ser prorrogado.
+
+6 - A certidão comprovativa de situação tributária regularizada não constitui documento de quitação.
+
+7 - O pedido a que se refere o n.º 5 pode ser formulado no requerimento inicial, competindo aos serviços, no momento da prorrogação, a verificação de que não houve alteração dos elementos anteriormente certificados.
+
+8 - As cartas precatórias serão cumpridas nos 60 dias posteriores ao da sua entrada nos serviços deprecados.
+
+9 - Os documentos emitidos nos termos do n.º 1 são autenticados com um código de identificação, permitindo-se a consulta do original electrónico disponibilizado no serviço electrónico da Internet da administração tributária pela entidade interessada, considerando-se inexistente o documento enquanto não for efectuada a confirmação da conformidade do seu conteúdo em papel com o original electrónico.
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 49/2025 - Diário da República n.º 61/2025, Série I de 2025-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2025-912653926), em vigor a partir de 2025-07-01
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 238/2006 - Diário da República n.º 243/2006, Série I de 2006-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2006-552372), em vigor a partir de 2007-01-01
+
+###### Artigo 25.º — Cumprimento dos prazos
+
+Os serviços competentes da administração tributária ou dos tribunais tributários elaborarão relações trimestrais dos procedimentos e processos em que os prazos previstos no presente Código não foram injustificadamente cumpridos e remetê-las-ão às entidades com competência inspectiva e disciplinar sobre os responsáveis do incumprimento, para os efeitos que estas entenderem apropriados.
+
+##### Subsecção II — Do expediente interno
+
+###### Artigo 26.º — Recibos
+
+1 - Os serviços da administração tributária passarão obrigatoriamente recibo das petições e de quaisquer outros requerimentos, exposições ou reclamações, com menção dos documentos que os instruam e da data da apresentação, independentemente da natureza do processo administrativo ou judicial.
+
+2 - No caso de remessa pelo correio, sob registo, de requerimentos, petições ou outros documentos dirigidos à administração tributária, considera-se que a mesma foi efectuada na data do respectivo registo, salvo o especialmente estabelecido nas leis tributárias.
+
+3 - No caso de remessa de petições ou outros documentos dirigidos à administração tributária por telefax ou por via eletrónica, considera-se que a mesma foi efetuada na data de emissão, servindo de prova, respetivamente, a cópia do aviso de onde conste a menção de que a mensagem foi enviada com sucesso, bem como a data, hora e número de telefax do recetor ou o extrato da mensagem efetuado pelo funcionário, o qual será incluído no processo.
+
+4 - A presunção referida no número anterior poderá ser ilidida por informação do operador sobre o conteúdo e a data da emissão.
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 44.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, 2º Suplemento, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2013-01-01
+
+###### Artigo 26.º-A — Distribuição
+
+Aplica-se ao processo tributário o disposto na lei processual administrativa em matéria de distribuição dos processos e demais documentos sujeitos a distribuição, incluindo os procedimentos a respeitar na atribuição de um processo a um juiz.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 56/2021 - Diário da República n.º 158/2021, Série I de 2021-08-16](https://diariodarepublica.pt/dr/detalhe/lei/56-2021-169602018), em vigor a partir de 2021-10-16
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+###### Artigo 27.º — Processos administrativos ou judiciais instaurados
+
+1 - A administração tributária e os tribunais tributários registam e arquivam os procedimentos administrativos e os processos judiciais instaurados, sempre que possível em suporte informático, por forma que seja possível a sua consulta a partir de vários critérios de pesquisa.
+
+2 - Os arquivos são obrigatoriamente mantidos durante os 10 anos seguintes à decisão dos procedimentos ou ao trânsito em julgado das decisões judiciais.
+
+3 - (Revogado).
+
+4 - (Revogado).
+
+5 - (Revogado).
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 28.º — Arquivo
+
+1 - Com os verbetes a que se refere o artigo anterior, organizar-se-á um índice geral alfabético informatizado dos processos administrativos e judiciais.
+
+2 - À medida que os processos administrativos ou judiciais findarem, serão os verbetes retirados do índice geral vivo e com eles organizar-se-ão, de acordo com as características do serviço e a natureza de cada um dele, os seguintes índices históricos:
+
+a) Processos administrativos de reclamação graciosa;
+
+b) Processos administrativos de cobrança a posteriori dos tributos;
+
+c) Processos administrativos de reembolso ou dispensa de pagamento dos tributos;
+
+d) Processos de impugnação judicial;
+
+e) Execuções extintas por cobrança;
+
+f) Execuções extintas por dação;
+
+g) Execuções extintas por confusão;
+
+h) Execuções extintas por conversão de créditos em capital;
+
+i) Execuções extintas por transferência de titularidade dos créditos;
+
+j) Execuções extintas por perdão ou amnistia;
+
+k) Execuções extintas por prescrição;
+
+l) Execuções extintas por anulação das dívidas;
+
+m) Execuções extintas por declaração em falhas;
+
+n) Cartas precatórias cumpridas;
+
+o) Outros processos administrativos;
+
+p) Outros processos judiciais.
+
+3 - Apenas em caso de impossibilidade de processamento dos índices por meios informáticos, poderão estes ser processados manualmente.
+
+4 - Os documentos integrando os processos administrativos ou judiciais correspondentes aos verbetes referidos no n.º 2 manter-se-ão arquivados por 8 anos, salvo aqueles em que tenha havido venda de bens, sub-rogação, oposição, embargos de terceiros e reclamação de créditos quando os pagamentos tenham sido efectuados de acordo com a graduação de créditos, que permanecerão arquivados por tempo indeterminado.
+
+> Revogado pelo/a Artigo 153.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 29.º — Modelo dos impressos processuais
+
+1 - Os impressos a utilizar no procedimento administrativo tributário não informatizado, incluindo o processo de execução fiscal, obedecem a modelos aprovados pelo membro do Governo ou órgão executivo de quem dependam os serviços da administração tributária.
+
+2 - Os impressos a utilizar no processo judicial tributário obedecem a modelos aprovados pelos Ministros das Finanças e da Justiça.
+
+3 - A cópia para suporte papel dos procedimentos e processos informatizados deve ser efectuada, sempre que possível, no formato dos impressos aprovados.
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 30.º — Consulta dos processos administrativos ou judiciais
+
+1 - Os documentos dos processos administrativos e judiciais pendentes ou arquivados podem ser consultados pelos interessados ou seus representantes.
+
+2 - Os mandatários judiciais constituídos podem requerer que os processos pendentes ou arquivados nos tribunais lhes sejam confiados para exame fora da secretaria, com observância das normas do Código de Processo Civil.
+
+###### Artigo 31.º — Editais
+
+1 - Quando, nos termos da lei, houver lugar à publicação de editais ou anúncios, esta será feita a expensas do interessado, entrando em regra de custas.
+
+2 - Os editais e os anúncios publicados são juntos aos restantes documentos do processo administrativo ou judicial, com indicação da data e custo da publicação.
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 238/2006 - Diário da República n.º 243/2006, Série I de 2006-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2006-552372), em vigor a partir de 2007-01-01
+
+###### Artigo 32.º — Restituição de documentos
+
+Findo o processo administrativo ou judicial, os documentos serão restituídos ao interessado a seu pedido, sendo substituídos por certidões do mesmo teor ou, tratando-se de documentos que existam permanentemente em repartições ou serviços públicos, desde que fique no processo a indicação da repartição ou serviço e do livro e lugar respectivos.
+
+###### Artigo 33.º — Processos administrativos ou judiciais concluídos
+
+1 - Os documentos dos processos administrativos ou judiciais concluídos, depois de mensalmente descarregados no registo geral, serão arquivados no tribunal ou serviço que os tenha instaurado, por ordem sequencial ou alfabética, em tantos maços distintos quantos os índices especiais referidos no artigo 28.º
+
+2 - O disposto no número anterior não prejudica a obrigação de remessa dos processos concluídos ao órgão da administração tributária competente para a execução da sentença ou acórdão, nos termos previstos neste Código.
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 238/2006 - Diário da República n.º 243/2006, Série I de 2006-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2006-552372), em vigor a partir de 2007-01-01
+
+###### Artigo 34.º — Valor probatório dos documentos existentes nos arquivos da administração tributária
+
+1 - O conhecimento dos documentos existentes nos arquivos da administração tributária, relativos às relações estabelecidas com os contribuintes no âmbito da execução da política tributária ou outra, pode ser obtido pelas seguintes formas:
+
+a) Informação escrita;
+
+b) Certidão, fotocópia, reprodução de microfilme, reprodução de registo informático ou reprodução de registo digital.
+
+2 - As cópias obtidas a partir dos suportes arquivísticos utilizados na administração tributária têm a força probatória do original, desde que devidamente autenticadas.
+
+3 - O interessado pode requerer, nos termos legais, o confronto das cópias referidas no número anterior com o original.
+
+##### Subsecção III — Das notificações e citações
+
+###### Artigo 35.º — Notificações e citações
+
+1 - Diz-se notificação o acto pelo qual se leva um facto ao conhecimento de uma pessoa ou se chama alguém a juízo.
+
+2 - A citação é o acto destinado a dar conhecimento ao executado de que foi proposta contra ele determinada execução ou a chamar a esta, pela primeira vez, pessoa interessada.
+
+3 - As notificações e as citações podem efetuar-se pessoalmente no local em que o notificando for encontrado, por via postal simples, por carta registada ou por carta registada com aviso de receção, ou por transmissão eletrónica de dados, através do serviço público de notificações eletrónicas associado à morada única digital, da caixa postal eletrónica ou na área reservada do Portal das Finanças.
+
+4 - Os despachos a ordenar citações ou notificações podem ser impressos e assinados por chancela.
+
+5 - Qualquer funcionário da administração tributária, no exercício das suas funções, promove a notificação e a citação.
+
+6 - A adesão à morada única digital nos termos previstos no serviço público de notificações eletrónicas associado à morada única digital determina que as notificações e citações podem ser feitas através daquele.
+
+> Alterado pelo/a Artigo 296.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 93/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2017-107791615), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+###### Artigo 36.º — Notificações em geral
+
+1 - Os actos em matéria tributária que afectem os direitos e interesses legítimos dos contribuintes só produzem efeitos em relação a estes quando lhes sejam validamente notificados.
+
+2 - As notificações conterão sempre a decisão, os seus fundamentos e meios de defesa e prazo para reagir contra o acto notificado, bem como a indicação da entidade que o praticou e se o fez no uso de delegação ou subdelegação de competências.
+
+3 - Constitui notificação o recebimento pelo interessado de cópia de acta ou assento do acto a que assista.
+
+###### Artigo 37.º — Comunicação ou notificação insuficiente
+
+1 - Se a comunicação da decisão em matéria tributária não contiver a fundamentação legalmente exigida, a indicação dos meios de reacção contra o acto notificado ou outros requisitos exigidos pelas leis tributárias, pode o interessado, dentro de 30 dias ou dentro do prazo para reclamação, recurso ou impugnação ou outro meio judicial que desta decisão caiba, se inferior, requerer a notificação dos requisitos que tenham sido omitidos ou a passagem de certidão que os contenha, isenta de qualquer pagamento.
+
+2 - Se o interessado usar da faculdade concedida no número anterior, o prazo para a reclamação, recurso, impugnação ou outro meio judicial conta-se a partir da notificação ou da entrega da certidão que tenha sido requerida.
+
+3 - A apresentação do requerimento previsto no n.º 1 pode ser provada por duplicado do mesmo, com o registo de entrada no serviço que promoveu a comunicação ou notificação ou por outro documento autêntico.
+
+4 - No caso de o tribunal vier a reconhecer como estando errado o meio de reacção contra o acto notificado indicado na notificação, poderá o meio de reacção adequado ser ainda exercido no prazo de 30 dias a contar do trânsito em julgado da decisão judicial.
+
+###### Artigo 38.º — Avisos e notificações por via postal ou telecomunicações endereçadas
+
+1 - As notificações são efectuadas obrigatoriamente por carta registada com aviso de recepção, sempre que tenham por objecto actos ou decisões susceptíveis de alterarem a situação tributária dos contribuintes ou a convocação para estes assistirem ou participarem em actos ou diligências.
+
+2 - Para efeitos do disposto no número anterior a comunicação dos serviços postais para levantamento de carta registada remetida pela administração fiscal deve sempre conter de forma clara a identificação do remetente.
+
+3 - As notificações não abrangidas pelo n.º 1, bem como as relativas às liquidações de tributos que resultem de declarações dos contribuintes ou de correcções à matéria tributável que tenha sido objecto de notificação para efeitos do direito de audição, são efectuadas por carta registada.
+
+4 - As notificações relativas a liquidações de impostos periódicos feitas nos prazos previstos na lei são efectuadas por simples via postal.
+
+5 - As notificações serão pessoais nos casos previstos na lei ou quando a entidade que a elas proceder o entender necessário.
+
+6 - Às notificações pessoais aplicam-se as regras sobre a citação pessoal.
+
+7 - O funcionário que emitir qualquer aviso ou notificação indicará o seu nome e mencionará a identificação do procedimento ou processo e o resumo dos seus objectivos.
+
+8 - As notificações referidas nos n.os 3 e 4 do presente artigo podem ser efectuadas, nos termos do número anterior, por telefax quando a administração tributária tenha conhecimento do número de telefax do notificando e possa posteriormente confirmar o conteúdo da mensagem e o momento em que foi enviada.
+
+9 - As notificações referidas no presente artigo, bem como as efetuadas nos processos de execução fiscal, podem ser efetuadas por transmissão eletrónica de dados, através do serviço público de notificações eletrónicas associado à morada única digital ou da caixa postal eletrónica, equivalendo ambas à remessa por via postal registada ou por via postal registada com aviso de receção.
+
+10 - (Revogado).
+
+11 - Quando se refiram a actos praticados por meios electrónicos pelo dirigente máximo do serviço, as notificações efectuadas por transmissão electrónica de dados são autenticadas com assinatura electrónica avançada certificada nos termos previstos pelo Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas.
+
+12 - A administração fiscal disponibiliza no seu serviço na Internet os documentos electrónicos de notificação e citação a cada sujeito passivo.
+
+13 - As notificações por transmissão eletrónica de dados previstas no n.º 9 podem conter apenas um resumo da fundamentação dos atos notificados, desde que remetam expressamente para uma fundamentação completa disponível a cada sujeito passivo na área reservada do Portal das Finanças.
+
+14 - Sem prejuízo do disposto nos n.os 8 e 9, as notificações a entidades bancárias, relativas a pedidos de informação financeira ou outros atos e diligências no âmbito do processo de execução fiscal, bem como as respetivas respostas dos notificandos, podem ser realizadas através da plataforma informática de registos e transmissão de ofícios protocolada entre o Banco de Portugal e as autoridades públicas ou outras entidades requerentes.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 91/2024 - Diário da República n.º 227/2024, Série I de 2024-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2024-897548402), em vigor a partir de 2025-01-14
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 93/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2017-107791615), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 120.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29
+
+> Alterado pelo/a Artigo 84.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01
+
+> Alterado pelo/a Artigo 41.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+###### Artigo 38.º-A — Notificações e citações eletrónicas no Portal das Finanças
+
+1 - As notificações e citações são efetuadas por transmissão eletrónica de dados, na respetiva área reservada no Portal das Finanças, relativamente aos sujeitos passivos:
+
+a) Que sendo obrigados a possuir caixa postal eletrónica, nos termos do n.º 12 do artigo 19.º da lei geral tributária, não a tenham comunicado à administração tributária no prazo legal para o efeito;
+
+b) Residentes em Estado fora da União Europeia ou do Espaço Económico Europeu, que não tenham designado representante com residência em território nacional;
+
+c) Que não sendo obrigados a possuir e a comunicar a caixa postal eletrónica, optem pelas notificações e citações eletrónicas no Portal das Finanças;
+
+d) Que embora possuam caixa postal eletrónica e a tenham comunicado à administração tributária, optem pelas notificações e citações eletrónicas no Portal das Finanças;
+
+e) Não residentes de, ou residentes que se ausentem para, Estado-Membro da União Europeia ou do Espaço Económico Europeu, cuja designação de representante seja meramente facultativa, optem pelas notificações e citações eletrónicas no Portal das Finanças.
+
+2 - A adesão às notificações e citações no Portal das Finanças, exercida por opção, pode ser feita mediante autenticação na área reservada.
+
+3 - A opção de adesão prevista no número anterior pode ser exercida a qualquer momento, produzindo efeitos no 1.º dia do mês seguinte, desde que entre a data da opção e a data da respetiva produção de efeitos decorra um período mínimo de 10 dias, caso contrário, a adesão só produz efeitos no 1.º dia do 2.º mês seguinte.
+
+4 - As notificações e citações efetuadas por transmissão eletrónica consideram-se efetuadas no 5.º dia posterior ao registo de disponibilização na respetiva área reservada do Portal das Finanças.
+
+5 - O sistema informático de suporte às notificações e citações eletrónicas no Portal das Finanças garante:
+
+a) A autenticidade da notificação;
+
+b) O registo e a comprovação da data e da hora da disponibilização efetiva das notificações eletrónicas na respetiva área reservada.
+
+6 - As notificações e as citações eletrónicas efetuadas por transmissão eletrónica na respetiva área reservada do Portal das Finanças equivalem à remessa por via postal, via postal registada ou via postal registada com aviso de receção, consoante os casos.
+
+7 - A disponibilização das notificações e citações previstas no presente artigo, bem como o regime da adesão, da desistência e cessação do mesmo, é regulamentada por portaria do membro do Governo responsável pela área das finanças
+
+> Aditado pelo/a Artigo 297.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+###### Artigo 39.º — Perfeição das notificações
+
+1 - As notificações efetuadas nos termos do n.º 3 do artigo 38.º presumem-se feitas no 3.º dia posterior ao do registo ou no 1.º dia útil seguinte a esse, quando esse dia não seja útil.
+
+2 - A presunção do número anterior só pode ser ilidida pelo notificado quando não lhe seja imputável o facto de a notificação ocorrer em data posterior à presumida, devendo para o efeito a administração tributária ou o tribunal, com base em requerimento do interessado, requerer aos correios informação sobre a data efectiva da recepção.
+
+3 - Havendo aviso de recepção, a notificação considera-se efectuada na data em que ele for assinado e tem-se por efectuada na própria pessoa do notificando, mesmo quando o aviso de recepção haja sido assinado por terceiro presente no domicílio do contribuinte, presumindo-se neste caso que a carta foi oportunamente entregue ao destinatário.
+
+4 - O distribuidor do serviço postal procederá à notificação das pessoas referidas no número anterior por anotação do bilhete de identidade ou de outro documento oficial.
+
+5 - Em caso de o aviso de recepção ser devolvido ou não vier assinado por o destinatário se ter recusado a recebê-lo ou não o ter levantado no prazo previsto no regulamento dos serviços postais e não se comprovar que entretanto o contribuinte comunicou a alteração do seu domicílio fiscal, a notificação será efectuada nos 15 dias seguintes à devolução por nova carta registada com aviso de recepção, presumindo-se a notificação se a carta não tiver sido recebida ou levantada, sem prejuízo de o notificando poder provar justo impedimento ou a impossibilidade de comunicação da mudança de residência no prazo legal.
+
+6 - No caso da recusa de recebimento ou não levantamento da carta, previstos no número anterior, a notificação presume-se feita no 3.º dia posterior ao do registo ou no 1.º dia útil seguinte a esse, quando esse dia não seja útil.
+
+7 - Quando a notificação for efectuada por telefax ou via Internet, presume-se que foi feita na data de emissão, servindo de prova, respectivamente, a cópia do aviso de onde conste a menção de que a mensagem foi enviada com sucesso, bem como a data, hora e número de telefax do receptor ou o extracto da mensagem efectuado pelo funcionário, o qual será incluído no processo.
+
+8 - A presunção referida no número anterior poderá ser ilidida por informação do operador sobre o conteúdo e data da emissão.
+
+9 - [Revogado.]
+
+10 - As notificações efetuadas para o domicílio fiscal eletrónico consideram-se efetuadas no décimo quinto dia posterior ao registo de disponibilização daquelas, sendo que a contagem só se inicia no primeiro dia útil seguinte, no sistema de suporte ao serviço público de notificações eletrónicas associado à morada única digital ou na caixa postal eletrónica da pessoa a notificar.
+
+11 - A presunção do número anterior só pode ser ilidida pelo notificado quando, por facto que não lhe seja imputável, a notificação ocorrer em data posterior à presumida e nos casos em que se comprove que o contribuinte comunicou a alteração daquela nos termos do artigo 43.º
+
+12 - O acto de notificação será nulo no caso de falta de indicação do autor do acto e, no caso de este o ter praticado no uso de delegação ou subdelegação de competências, da qualidade em que decidiu, do seu sentido e da sua data.
+
+13 - O presente artigo não prejudica a aplicação do disposto no n.º 6 do artigo 45.º da Lei Geral Tributária.
+
+> Alterado pelo/a Artigo 14.º do/a [Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094), em vigor a partir de 2019-10-01
+
+> Alterado pelo/a Artigo 296.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 93/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2017-107791615), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 120.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29
+
+> Alterado pelo/a Artigo 93.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 160/2003 - Diário da República n.º 165/2003, Série I-A de 2003-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2003-670764), em vigor a partir de 2003-07-24
+
+###### Artigo 40.º — Notificações aos mandatários
+
+1 - As notificações aos interessados que tenham constituído mandatário são feitas na pessoa deste da seguinte forma:
+
+a) Nos procedimentos tributários, por carta registada, dirigida para o seu escritório ou por transmissão eletrónica de dados na respetiva área reservada do Portal das Finanças;
+
+b) Nos processos judiciais tributários, nos termos previstos nas normas sobre processo nos tribunais administrativos.
+
+2 - Quando a notificação se destine a chamar o interessado para a prática de ato pessoal, além de ser notificado o mandatário, será enviado pelo correio um aviso registado ao próprio interessado, indicando a data, o local e o fim da comparência.
+
+3 - As notificações referidas nos números anteriores podem ainda ser efetuadas pelo funcionário competente quando o notificando se encontrar no edifício do serviço ou do tribunal.
+
+4 - Às notificações eletrónicas no Portal das Finanças aplica-se o disposto nos n.os 4 a 7 do artigo 38.º-A.
+
+> Alterado pelo/a Artigo 296.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 270.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+###### Artigo 40.º-A — Notificações e citações aos administradores judiciais
+
+1 - As notificações e citações dirigidas aos administradores judiciais, no exercício dessa função, devem ser remetidas para o seu domicílio profissional, salvo disposição legal em contrário, ou por transmissão eletrónica de dados na respetiva área reservada do Portal das Finanças.
+
+2 - O domicílio profissional é aquele que constar da lista oficial de administradores judiciais publicada no portal da Comissão para o Acompanhamento dos Auxiliares da Justiça, a comunicar por esta à Autoridade Tributária e Aduaneira por via eletrónica.
+
+3 - O disposto nos n.os 4 a 7 do artigo 38.º-A é aplicável às notificações e citações referidas no n.º 1, realizadas por transmissão eletrónica de dados na respetiva área reservada do Portal das Finanças.
+
+> Aditado pelo/a Artigo 5.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+###### Artigo 41.º — Notificação ou citação das pessoas colectivas ou sociedades
+
+1 - As pessoas coletivas e sociedades são citadas ou notificadas na sua caixa postal eletrónica ou na sua área reservada do Portal das Finanças, nos termos previstos no artigo 38.º-A, ou na pessoa de um dos seus administradores ou gerentes, na sua sede, na residência destes ou em qualquer lugar onde se encontrem.
+
+2 - Não podendo efetuar-se na pessoa do representante por este não ser encontrado pelo funcionário, a citação ou notificação realiza-se na pessoa de qualquer trabalhador, capaz de transmitir os termos do ato, que se encontre no local onde normalmente funcione a administração da pessoa coletiva ou sociedade.
+
+3 - O disposto no número anterior não se aplica se a pessoa colectiva ou sociedade se encontrar em fase de liquidação ou falência, caso em que a diligência será efectuada na pessoa do liquidatário.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+> Alterado pelo/a Artigo 296.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 42.º — Notificação ou citação do Estado, das autarquias locais e dos serviços públicos
+
+1 - As notificações e citações de autarquia local ou outra entidade de direito público são feitas por via electrónica para a respectiva caixa postal electrónica ou por carta registada com aviso de recepção, dirigida ao seu presidente ou ao membro em que este tenha delegado essa competência.
+
+2 - Se o notificando ou citando for um serviço público do Estado, a notificação ou citação que não seja por via electrónica será feita na pessoa do seu presidente, director-geral ou funcionário equiparado, salvo disposição legal em contrário.
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 43.º — Obrigação de participação de domicílio
+
+1 - Os interessados que intervenham ou possam intervir em quaisquer procedimentos ou processos nos serviços da administração tributária ou nos tribunais tributários comunicam, no prazo de 15 dias, qualquer alteração do seu domicílio, sede ou caixa postal electrónica.
+
+2 - A falta de recebimento de qualquer aviso ou comunicação expedidos nos termos dos artigos anteriores, devido ao não cumprimento do disposto no n.º 1, não é oponível à administração tributária, sem prejuízo do que a lei dispõe quanto à obrigatoriedade da citação e da notificação e dos termos por que devem ser efectuadas.
+
+3 - A comunicação referida no n.º 1 só produz efeitos, sem prejuízo da possibilidade legal de a administração tributária proceder oficiosamente à sua rectificação, se o interessado fizer prova de já ter solicitado ou obtido a actualização fiscal do domicílio, sede ou caixa postal electrónica.
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 41.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+## Título II — Do procedimento tributário
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 44.º — Procedimento tributário
+
+1 - O procedimento tributário compreende, para efeitos do presente Código:
+
+a) As acções preparatórias ou complementares da liquidação dos tributos, incluindo parafiscais, ou de confirmação dos factos tributários declarados pelos sujeitos passivos ou outros obrigados tributários;
+
+b) A liquidação dos tributos, quando efectuada pela administração tributária;
+
+c) A revisão, oficiosa ou por iniciativa dos interessados, dos actos tributários;
+
+d) A emissão, rectificação, revogação, ratificação, reforma ou conversão de quaisquer outros actos administrativos em matéria tributária, incluindo sobre benefícios fiscais;
+
+e) As reclamações, incluindo as que tenham por fundamento a classificação pautal, a origem ou o valor aduaneiro das mercadorias e os recursos hierárquicos;
+
+f) A avaliação directa ou indirecta dos rendimentos ou valores patrimoniais;
+
+g) A cobrança das obrigações tributárias, na parte que não tiver natureza judicial;
+
+h) (Revogada);
+
+i) Todos os demais actos dirigidos à declaração dos direitos tributários.
+
+2 - As acções de observação das realidades tributárias, da verificação do cumprimento das obrigações tributárias e de prevenção das infracções tributárias são reguladas pelo Regime Complementar do Procedimento de Inspecção Tributária.
+
+> Alterado pelo/a Artigo 217.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+###### Artigo 45.º — Contraditório
+
+1 - O procedimento tributário segue o princípio do contraditório, participando o contribuinte, nos termos da lei, na formação da decisão.
+
+2 - O contribuinte é ouvido oralmente ou por escrito, conforme o objectivo do procedimento.
+
+3 - No caso de audiência oral, as declarações do contribuinte serão reduzidas a termo.
+
+###### Artigo 46.º — Proporcionalidade
+
+Os actos a adoptar no procedimento serão os adequados aos objectivos a atingir, de acordo com os princípios da proporcionalidade, eficiência, praticabilidade e simplicidade.
+
+###### Artigo 47.º — Duplo grau de decisão
+
+1 - No procedimento tributário vigora o princípio do duplo grau de decisão, não podendo a mesma pretensão do contribuinte ser apreciada sucessivamente por mais de dois órgãos integrando a mesma administração tributária.
+
+2 - Considera-se que a pretensão é a mesma, para efeitos do número anterior, em caso de identidade do autor e dos fundamentos de facto e de direito invocados.
+
+3 - O pedido de reapreciação da decisão deve, salvo lei especial, ser dirigido ao dirigente máximo do serviço ou a quem ele tiver delegado essa competência.
+
+###### Artigo 48.º — Cooperação da administração tributária e do contribuinte
+
+1 - A administração tributária esclarecerá os contribuintes e outros obrigados tributários sobre a necessidade de apresentação de declarações, reclamações e petições e a prática de quaisquer outros actos necessários ao exercício dos seus direitos, incluindo a correcção dos erros ou omissões manifestas que se observem.
+
+2 - O contribuinte cooperará de boa-fé na instrução do procedimento, esclarecendo de modo completo e verdadeiro os factos de que tenha conhecimento e oferecendo os meios de prova a que tenha acesso.
+
+###### Artigo 49.º — Cooperação de entidades públicas
+
+Estão sujeitos a um dever geral de cooperação no procedimento os serviços, estabelecimentos e organismos, ainda que personalizados, do Estado, das Regiões Autónomas e das autarquias locais, as associações públicas, as empresas públicas ou de capital exclusivamente público, as instituições particulares de solidariedade social e as pessoas colectivas de utilidade pública.
+
+###### Artigo 50.º — Meios de prova
+
+No procedimento, o órgão instrutor utilizará todos os meios de prova legalmente previstos que sejam necessários ao correcto apuramento dos factos, podendo designadamente juntar actas e documentos, tomar declarações de qualquer natureza do contribuinte ou outras pessoas e promover a realização de perícias ou inspecções oculares.
+
+###### Artigo 51.º — Contratação de outras entidades
+
+1 - A administração tributária pode, nos termos da lei e no âmbito das suas competências, contratar o serviço de quaisquer outras entidades para a colaboração em operações de entrega e recepção de declarações ou outros documentos ou de processamento da liquidação ou cobrança das obrigações tributárias.
+
+2 - A administração tributária pode igualmente, nos termos da lei, celebrar protocolos com entidades públicas e privadas com vista à realização das suas atribuições.
+
+3 - Quem, em virtude dos contratos e protocolos referidos nos números anteriores, tomar conhecimento de quaisquer dados relativos à situação tributária dos contribuintes fica igualmente sujeito ao dever de sigilo fiscal.
+
+###### Artigo 52.º — Erro na forma de procedimento
+
+Se, em caso de erro na forma de procedimento, puderem ser aproveitadas as peças úteis ao apuramento dos factos, será o procedimento oficiosamente convolado na forma adequada.
+
+###### Artigo 53.º — Arquivamento
+
+1 - O procedimento da iniciativa do contribuinte será obrigatoriamente arquivado se ficar parado mais de 90 dias por motivo a este imputável.
+
+2 - A administração tributária deve, até 15 dias antes do termo do prazo referido no n.º 1, notificar o contribuinte, por carta registada, e informá-lo sobre os efeitos do incumprimento dos seus deveres de cooperação.
+
+###### Artigo 54.º — Impugnação unitária
+
+Salvo quando forem imediatamente lesivos dos direitos do contribuinte ou disposição expressa em sentido diferente, não são susceptíveis de impugnação contenciosa os actos interlocutórios do procedimento, sem prejuízo de poder ser invocada na impugnação da decisão final qualquer ilegalidade anteriormente cometida.
+
+> Alterado pelo/a Artigo 44.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, 2º Suplemento, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2013-01-01
+
+### Capítulo II — Procedimentos prévios de informação e avaliação
+
+###### Artigo 55.º — Orientações genéricas
+
+1 - É da exclusiva competência do dirigente máximo do serviço ou do funcionário em quem ele tiver delegado essa competência a emissão de orientações genéricas visando a uniformização da interpretação e aplicação das normas tributárias pelos serviços.
+
+2 - Somente as orientações genéricas emitidas pelas entidades referidas no número anterior vinculam a administração tributária.
+
+3 - As orientações genéricas referidas no n.º 1 devem constar obrigatoriamente de circulares administrativas e aplicam-se exclusivamente à administração tributária que procedeu à sua emissão.
+
+###### Artigo 56.º — Base de dados
+
+1 - A administração tributária organizará uma base de dados, permanentemente actualizada, contendo as orientações genéricas referidas no n.º 1 do artigo anterior.
+
+2 - Aos contribuintes será facultado o acesso directo à base de dados referida no n.º 1 do presente artigo.
+
+3 - Os interessados em qualquer procedimento ou processo regulado pelo presente Código poderão requerer ao dirigente máximo do serviço a comunicação de quaisquer despachos comportando orientações genéricas da administração tributária sobre as questões discutidas.
+
+4 - A administração tributária responderá comunicando ao contribuinte o teor dos despachos solicitados expurgados dos seus elementos de carácter pessoal e procedendo à sua inclusão na base de dados a que se refere o n.º 1 no prazo de 90 dias.
+
+5 - O disposto nos n.os 3 e 4 aplica-se a quaisquer informações ou pareceres que a administração tributária invoque no procedimento ou processo para fundamentar a sua posição.
+
+###### Artigo 57.º — Informações vinculativas
+
+1 - A notificação aos interessados da resposta ao pedido de informação vinculativa inclui obrigatoriamente a informação ou parecer em que a administração tributária se baseou para a sua prestação.
+
+2 - Os interessados não ficam dispensados, quando o despacho for sobre os pressupostos de qualquer benefício fiscal dependente de reconhecimento, de o requerer autonomamente nos termos da lei.
+
+3 - Apresentado o pedido de reconhecimento que tenha sido precedido do pedido de informação vinculativa, este ser-lhe-á apensado a requerimento do interessado, devendo a entidade competente para a decisão conformar-se com o anterior despacho, na medida em que a situação hipotética objecto do pedido de informação vinculativa coincida com a situação de facto objecto do pedido de reconhecimento, sem prejuízo das medidas de controlo do benefício fiscal exigidas por lei.
+
+> Alterado pelo/a Artigo 111.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01
+
+###### Artigo 58.º — Avaliação prévia
+
+1 - Os contribuintes poderão, caso provem interesse legítimo, mediante o pagamento de uma taxa a fixar entre limites mínimos e máximos definidos anualmente pelo ministro competente, solicitar a avaliação de bens ou direitos que constituam a base de incidência de quais quer tributos, a que a administração tributária ainda não tenha procedido.
+
+2 - A avaliação efectuada no número anterior tem efeitos vinculativos para a administração tributária por um período de três anos após se ter tornado definitiva.
+
+3 - O efeito vinculativo referido no número anterior não se produz, em caso de reclamação ou impugnação da avaliação, até à decisão.
+
+### Capítulo III — Do procedimento de liquidação
+
+#### Secção I — Da instauração
+
+###### Artigo 59.º — Início do procedimento
+
+1 - O procedimento de liquidação instaura-se com as declarações dos contribuintes ou, na falta ou vício destas, com base em todos os elementos de que disponha ou venha a obter a entidade competente.
+
+2 - O apuramento da matéria tributável far-se-á com base nas declarações dos contribuintes, desde que estes as apresentem nos termos previstos na lei e forneçam à administração tributária os elementos indispensáveis à verificação da sua situação tributária.
+
+3 - Em caso de erro de facto ou de direito nas declarações dos contribuintes, estas podem ser substituídas:
+
+a) Seja qual for a situação da declaração a substituir, se ainda decorrer o prazo legal da respectiva entrega;
+
+b) Sem prejuízo da responsabilidade contra-ordenacional que ao caso couber, quando desta declaração resultar imposto superior ou reembolso inferior ao anteriormente apurado, nos seguintes prazos:
+
+I) Nos 30 dias seguintes ao termo do prazo legal, seja qual for a situação da declaração a substituir;
+
+II) Até ao termo do prazo legal de reclamação graciosa ou impugnação judicial do acto de liquidação, para a correcção de erros ou omissões imputáveis aos sujeitos passivos de que resulte imposto de montante inferior ao liquidado com base na declaração apresentada;
+
+III) Até 60 dias antes do termo do prazo de caducidade, para a correcção de erros imputáveis aos sujeitos passivos de que resulte imposto superior ao anteriormente liquidado.
+
+4 - (Revogado).
+
+5 - A declaração de substituição entregue no prazo legal para a reclamação graciosa, quando a administração tributária não proceder à sua liquidação, é convolada em reclamação graciosa, de tal se notificando o sujeito passivo.
+
+6 - Da apresentação das declarações de substituição não pode resultar a ampliação dos prazos de reclamação graciosa, impugnação judicial ou revisão do acto tributário, que seriam aplicáveis caso não tivessem sido apresentadas.
+
+7 - Sempre que a entidade competente tome conhecimento de factos tributários não declarados pelo sujeito passivo e do suporte probatório necessário, o procedimento de liquidação é instaurado oficiosamente pelos competentes serviços.
+
+> Alterado pelo/a Artigo 229.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 44.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, 2º Suplemento, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+#### Secção II — Da decisão
+
+###### Artigo 60.º — Definitividade dos actos tributários
+
+Os actos tributários praticados por autoridade fiscal competente em razão da matéria são definitivos quanto à fixação dos direitos dos contribuintes, sem prejuízo da sua eventual revisão ou impugnação nos termos da lei.
+
+#### Secção III — Dos juros indemnizatórios
+
+###### Artigo 61.º — Juros indemnizatórios
+
+1 - O direito aos juros indemnizatórios é reconhecido pelas seguintes entidades:
+
+a) Pela entidade competente para a decisão de reclamação graciosa, quando o fundamento for erro imputável aos serviços de que tenha resultado pagamento da dívida tributária em montante superior ao legalmente devido;
+
+b) Pela entidade que determina a restituição oficiosa dos tributos, quando não seja cumprido o prazo legal de restituição;
+
+c) Pela entidade que procede ao processamento da nota de crédito, quando o fundamento for o atraso naquele processamento;
+
+d) Pela entidade competente para a decisão sobre o pedido de revisão do acto tributário por iniciativa do contribuinte, quando não seja cumprido o prazo legal de revisão do acto tributário.
+
+2 - Em caso de anulação judicial do acto tributário, cabe à entidade que execute a decisão judicial da qual resulte esse direito determinar o pagamento dos juros indemnizatórios a que houver lugar.
+
+3 - Os juros indemnizatórios serão liquidados e pagos no prazo de 90 dias contados a partir da decisão que reconheceu o respectivo direito ou do dia seguinte ao termo do prazo legal de restituição oficiosa do tributo.
+
+4 - Se a decisão que reconheceu o direito a juros indemnizatórios for judicial, o prazo de pagamento conta-se a partir do início do prazo da sua execução espontânea.
+
+5 - Os juros são contados desde a data do pagamento indevido do imposto até à data do processamento da respectiva nota de crédito, em que são incluídos.
+
+6 - Sem prejuízo do disposto no número seguinte, pode o interessado reclamar, junto do competente órgão periférico regional da administração tributária, do não pagamento de juros indemnizatórios nos termos previstos no n.º 1, no prazo de 120 dias contados da data do conhecimento da nota de crédito ou, na sua falta, do termo do prazo para a sua emissão.
+
+7 - O interessado pode ainda, no prazo de 30 dias contados do termo do prazo de execução espontânea da decisão, reclamar, junto do competente órgão periférico regional da administração tributária, do não pagamento de juros indemnizatórios no caso da execução de uma decisão judicial de que resulte esse direito.
+
+8 - O pagamento de juros indemnizatórios não está sujeito a impulso processual da iniciativa do contribuinte.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130)
+
+> Alterado pelo/a Artigo 126.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+#### Secção IV — Procedimentos próprios
+
+###### Artigo 62.º — Acto de liquidação consequente
+
+1 - Em caso de a fixação ou a revisão da matéria tributável dever ter lugar por procedimento próprio, a liquidação efectua-se de acordo com a decisão do referido procedimento, salvo em caso de esta violar manifestamente competências legais.
+
+2 - A declaração da violação das referidas competências legais pode ser requerida pelo contribuinte ou efectuada pela administração tributária, sendo neste caso obrigatoriamente notificada ao contribuinte no prazo máximo de 15 dias após o termo do procedimento referido no número anterior.
+
+###### Artigo 63.º — Aplicação de disposição antiabuso
+
+1 - A liquidação de tributos com base na disposição antiabuso constante do n.º 2 do artigo 38.º da lei geral tributária segue os termos previstos neste artigo.
+
+2 - (Revogado).
+
+3 - A fundamentação do projecto e da decisão de aplicação da disposição antiabuso referida no n.º 1 contém necessariamente:
+
+a) A descrição da construção ou série de construções que foram realizadas com abuso das formas jurídicas ou que não foram realizadas por razões económicas válidas que reflitam a substância económica;
+
+b) A demonstração de que a construção ou série de construções foi realizada com a finalidade principal ou uma das finalidades principais de obter uma vantagem fiscal não conforme com o objeto ou a finalidade do direito fiscal aplicável;
+
+c) A identificação dos negócios ou atos que correspondam à substância ou realidade económica, bem como a indicação das normas de incidência que se lhes aplicam;
+
+d) A demonstração de que o sujeito passivo sobre o qual recairia a obrigação de efetuar a retenção na fonte, ou de reter um montante de imposto superior, tinha ou deveria ter conhecimento da construção ou série de construções, quando aplicável.
+
+4 - A aplicação da disposição antiabuso referida no n.º 1 depende de:
+
+a) Audição prévia do contribuinte, nos termos da lei;
+
+b) Existência de procedimento de inspeção dirigido ao beneficiário do rendimento e ao substituto tributário, quando se verifique o recurso às regras gerais de responsabilidade em caso de substituição tributária a que se refere o n.º 5 do artigo 38.º da Lei Geral Tributária.
+
+5 - O direito de audição prévia é exercido no prazo de 30 dias a contar da notificação do projecto de aplicação da disposição antiabuso ao contribuinte.
+
+6 - No prazo referido no número anterior, poderá o contribuinte apresentar as provas que entender
+
+pertinentes.
+
+7 - A aplicação da disposição antiabuso referida no n.º 1 é prévia e obrigatoriamente autorizada, após a audição prévia do contribuinte prevista no n.º 5, pelo dirigente máximo do serviço ou pelo funcionário em quem ele tiver delegado essa competência.
+
+8 - A disposição antiabuso referida no n.º 1 não é aplicável se o contribuinte tiver solicitado à administração tributária informação vinculativa sobre os factos que a tiverem fundamentado e a administração tributária não responder no prazo de 150 dias.
+
+9 - (Revogado).
+
+10 - (Revogado).
+
+11 - A impugnação da liquidação de tributos com base na disposição antiabuso referida no n.º 1 será obrigatoriamente precedida de reclamação graciosa.
+
+12 - Quando se verifique a aplicação do disposto no n.º 5 do artigo 38.º da Lei Geral Tributária:
+
+a) A aplicação da disposição antiabuso referida no n.º 1 não prejudica o direito de regresso aplicável do montante do imposto retido e, bem assim, o direito do beneficiário de optar pelo englobamento do rendimento, nos termos previstos na lei;
+
+b) A decisão da reclamação graciosa apresentada pelo beneficiário do rendimento nos termos do número anterior, é igualmente da competência do órgão periférico regional que, nos termos do n.º 1 do artigo 75.º, seja competente para a decisão de reclamação graciosa apresentada pelo substituto tributário, podendo este órgão determinar a sua apensação.
+
+13 - A opção de englobamento prevista no número anterior pode ser exercida pelo sujeito passivo através de declaração de substituição acompanhada de requerimento dirigido ao Diretor-Geral da Autoridade Tributária e Aduaneira, no prazo de 120 dias a contar da data do conhecimento, ou da data em que for possível obter o conhecimento, do trânsito da decisão, quer administrativa quer judicial, das correções efetuadas ao abrigo do n.º 1.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 32/2019 - Diário da República n.º 85/2019, Série I de 2019-05-03](https://diariodarepublica.pt/dr/detalhe/lei/32-2019-122217198), em vigor a partir de 2019-05-04
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 111.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01
+
+###### Artigo 64.º — Presunções
+
+1 - O interessado que pretender ilidir qualquer presunção prevista nas normas de incidência tributária deverá para o efeito, caso não queira utilizar as vias da reclamação graciosa ou impugnação judicial de acto tributário que nela se basear, solicitar a abertura de procedimento contraditório próprio.
+
+2 - O procedimento previsto no número anterior será instaurado no órgão periférico local da área do domicílio ou sede do contribuinte, da situação dos bens ou da liquidação, mediante petição do contribuinte dirigida àquele órgão, acompanhada dos meios de prova admitidos nas leis tributárias.
+
+3 - A petição considera-se tacitamente deferida se não lhe for dada qualquer resposta no prazo de seis meses, salvo quando a falta desta for imputável ao contribuinte.
+
+4 - Caso já tenham terminado os prazos gerais de reclamação ou de impugnação judicial do acto tributário, a decisão do procedimento previsto no presente artigo apenas produz efeitos para o futuro.
+
+### Capítulo IV — Do reconhecimento dos benefícios fiscais
+
+###### Artigo 65.º — Reconhecimento dos benefícios fiscais
+
+1 - Salvo disposição em contrário e sem prejuízo dos direitos resultantes da informação vinculativa a que se refere o n.º 1 do artigo 57.º, o reconhecimento dos benefícios fiscais depende da iniciativa dos interessados, mediante requerimento dirigido especificamente a esse fim, o cálculo, quando obrigatório, do benefício requerido e a prova da verificação dos pressupostos do reconhecimento nos termos da lei.
+
+2 - Os pedidos de reconhecimento serão apresentados nos serviços competentes para a liquidação do tributo a que se refere o benefício e serão instruídos de acordo com as normas legais que concedam os benefícios.
+
+3 - Os pedidos referidos no número anterior são apresentados nos seguintes prazos:
+
+a) Se se tratar de benefícios fiscais relativos a factos tributários sujeitos a retenção na fonte a título definitivo, até ao limite do prazo para entrega do respectivo imposto nos cofres do Estado;
+
+b) Nos restantes casos, até ao limite do prazo para a entrega da declaração de rendimentos relativa ao período em que se verificarem os pressupostos da atribuição do benefício fiscal.
+
+4 - O despacho de deferimento fixará as datas do início e do termo do benefício fiscal, dele cabendo recurso hierárquico do indeferimento nos termos do presente Código.
+
+5 - Sem prejuízo das sanções contra-ordenacionais aplicáveis, a manutenção dos efeitos de reconhecimento do benefício dependem de o contribuinte facultar à administração fiscal todos os elementos necessários ao controlo dos seus pressupostos de que esta não disponha.
+
+> Alterado pelo/a Artigo 41.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+### Capítulo V — Dos recursos hierárquicos
+
+###### Artigo 66.º — Interposição do recurso hierárquico
+
+1 - Sem prejuízo do princípio do duplo grau de decisão, as decisões dos órgãos da administração tributária são susceptíveis de recurso hierárquico.
+
+2 - Os recursos hierárquicos são dirigidos ao mais elevado superior hierárquico do autor do acto e interpostos, no prazo de 30 dias a contar da notificação do acto respectivo, perante o autor do acto recorrido.
+
+3 - Os recursos hierárquicos devem, salvo no caso de revogação total do acto previsto no número seguinte, subir no prazo de 15 dias, acompanhados do processo a que respeite o acto ou, quando tiverem efeitos meramente devolutivos, com um seu extracto.
+
+4 - No prazo referido no número anterior pode o autor do acto recorrido revogá-lo total ou parcialmente.
+
+5 - Os recursos hierárquicos serão decididos no prazo máximo de 60 dias.
+
+> Alterado pelo/a Artigo 44.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, 2º Suplemento, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2013-01-01
+
+###### Artigo 67.º — Recurso hierárquico - Relações com o recurso contencioso
+
+1 - Os recursos hierárquicos, salvo disposição em contrário das leis tributárias, têm natureza meramente facultativa e efeito devolutivo.
+
+2 - Em caso de a lei atribuir ao recurso hierárquico efeito suspensivo, este limita-se à parte da decisão contestada.
+
+3 - Sem prejuízo do disposto no n.º 1, o recurso contencioso de atos da administração tributária praticados por ocasião do desalfandegamento, que decidam a classificação pautal de mercadorias de importação proibida ou condicionada é previamente precedido de recurso hierárquico, sendo aplicável, com as devidas adaptações, o disposto no artigo 77.º- A.
+
+> Alterado pelo/a Artigo 217.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+### Capítulo VI — Do procedimento de reclamação graciosa
+
+###### Artigo 68.º — Procedimento de reclamação graciosa
+
+1 - O procedimento de reclamação graciosa visa a anulação total ou parcial dos actos tributários por iniciativa do contribuinte, incluindo, nos termos da lei, os substitutos e responsáveis.
+
+2 - Não pode ser deduzida reclamação graciosa quando tiver sido apresentada impugnação judicial com o mesmo fundamento.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 69.º — Regras fundamentais
+
+São regras fundamentais do procedimento de reclamação graciosa:
+
+a) Simplicidade de termos e brevidade das resoluções;
+
+b) Dispensa de formalidades essenciais;
+
+c) Inexistência do caso decidido ou resolvido;
+
+d) Isenção de custas;
+
+e) Limitação dos meios probatórios à forma documental e aos elementos oficiais de que os serviços disponham, sem prejuízo do direito de o órgão instrutor ordenar outras diligências complementares manifestamente indispensáveis à descoberta da verdade material;
+
+f) A reclamação tem efeito suspensivo quando for prestada garantia adequada nos termos do presente Código.
+
+> Alterado pelo/a Artigo 296.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+###### Artigo 70.º — Apresentação, fundamentos e prazo da reclamação graciosa
+
+1 - A reclamação graciosa pode ser deduzida com os mesmos fundamentos previstos para a impugnação judicial e será apresentada no prazo de 120 dias contados a partir dos factos previstos no n.º 1 do artigo 102.º
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+4 - Em caso de documento ou sentença superveniente, bem como de qualquer outro facto que não tivesse sido possível invocar no prazo previsto no n.º 1, este conta-se a partir da data em que se tornou possível ao reclamante obter o documento ou conhecer o facto.
+
+5 - Se os fundamentos da reclamação graciosa constarem de documento público ou sentença, o prazo referido no número anterior suspende-se entre a solicitação e a emissão do documento e a instauração e a decisão da acção judicial.
+
+6 - A reclamação graciosa é apresentada por escrito no serviço periférico local da área do domicílio ou sede do contribuinte, da situação dos bens ou da liquidação, podendo sê-lo oralmente mediante redução a termo em caso de manifesta simplicidade.
+
+7 - A reclamação graciosa pode igualmente ser enviada por transmissão electrónica de dados, nos termos definidos em portaria do Ministro das Finanças.
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 238/2006 - Diário da República n.º 243/2006, Série I de 2006-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2006-552372), em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 58.º do/a [Lei n.º 60-A/2005 - Diário da República n.º 250/2005, 1º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2005-376234), em vigor a partir de 2006-01-01
+
+###### Artigo 71.º — Cumulação de pedidos
+
+1 - Na reclamação graciosa poderá haver cumulação de pedidos, nos mesmos termos que os previstos para a impugnação judicial, salvo quando o órgão instrutor entenda, fundamentadamente, haver prejuízo para a celeridade da decisão.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+###### Artigo 72.º — Coligação de reclamantes
+
+1 - A reclamação graciosa poderá ser apresentada em coligação, nos mesmos termos que os previstos para a impugnação judicial, salvo quando o órgão instrutor entenda, fundamentadamente, haver prejuízo para a celeridade da decisão.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+###### Artigo 73.º — Competência para a instauração e instrução do processo
+
+1 - Salvo quando a lei estabeleça em sentido diferente, a reclamação graciosa é dirigida ao órgão periférico regional da administração tributária e instruída, quando necessário, pelo serviço periférico local da área do domicílio ou sede do contribuinte, da situação dos bens ou da liquidação.
+
+2 - O órgão periférico local instaurará o processo, instruí-lo-á com os elementos ao seu dispor em prazo não superior a 90 dias e elaborará proposta fundamentada de decisão.
+
+3 - Não haverá instrução, caso a entidade referida no número anterior disponha de todos os elementos necessários para a decisão.
+
+4 - (Revogado).
+
+5 - (Revogado).
+
+6 - (Revogado).
+
+7 - O disposto no presente artigo não é aplicável à reclamação graciosa que tenha por fundamento a classificação pautal, a origem ou o valor aduaneiro das mercadorias.
+
+> Alterado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 217.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 93.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 238/2006 - Diário da República n.º 243/2006, Série I de 2006-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2006-552372), em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 74.º — Apensação
+
+1 - Se houver fundamento para a cumulação de pedidos ou para a coligação de reclamantes nos termos dos artigos 71.º e 72.º e o procedimento estiver na mesma fase, os interessados poderão requerer a sua apensação à reclamação apresentada em primeiro lugar.
+
+2 - A apensação só terá lugar quando não houver prejuízo para a celeridade do procedimento de reclamação.
+
+###### Artigo 75.º — Entidade competente para a decisão
+
+1 - Salvo quando a lei estabeleça em sentido diferente, a entidade competente para a decisão da reclamação graciosa é o dirigente do órgão periférico regional da área do domicílio ou sede do contribuinte, da situação dos bens ou da liquidação ou, não havendo órgão periférico regional, o dirigente máximo do serviço.
+
+2 - (Revogado).
+
+3 - O dirigente do órgão periférico regional da área do órgão de execução fiscal é competente para a decisão sobre a reclamação apresentada no âmbito da responsabilidade subsidiária efetivada em sede de execução fiscal.
+
+4 - A competência referida nos números anteriores pode ser delegada pelo dirigente máximo do serviço, director de serviços ou dirigente do órgão periférico regional em funcionários qualificados ou nos dirigentes dos órgãos periféricos locais, cabendo neste último caso ao imediato inferior hierárquico destes a proposta de decisão.
+
+5 - O disposto no presente artigo não é aplicável à reclamação graciosa que tenha por fundamento a classificação pautal, a origem ou o valor aduaneiro das mercadorias.
+
+> Alterado pelo/a Artigo 175.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 217.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 6/2013 - Diário da República n.º 12/2013, Série I de 2013-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2013-256471), em vigor a partir de 2013-01-01, produz efeitos a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 126.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+###### Artigo 76.º — Recurso hierárquico. Relações com o recurso contencioso
+
+1 - Do ato de indeferimento total ou parcial da reclamação graciosa cabe recurso hierárquico no prazo previsto no n.º 2 do artigo 66.º, com os efeitos previstos no n.º 1 do artigo 67.º
+
+2 - A decisão sobre o recurso hierárquico é passível de recurso contencioso, salvo se de tal decisão já tiver sido deduzida impugnação judicial com o mesmo objecto.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+###### Artigo 77.º — Agravamento da colecta
+
+1 - Nos casos em que a reclamação graciosa não seja condição da impugnação judicial e não existirem motivos que razoavelmente a fundamentem, a entidade competente para a decisão aplicará um agravamento graduado até 5% da colecta objecto do pedido, o qual será liquidado adicionalmente, a título de custas, pelo órgão periférico local do domicílio ou sede do reclamante, da situação dos bens ou da liquidação.
+
+2 - Nos casos em que a reclamação graciosa seja condição de impugnação judicial, o agravamento só é exigível caso tenha sido julgada improcedente a impugnação judicial deduzida pelo reclamante.
+
+3 - O agravamento pode ser objecto de impugnação autónoma com fundamento na injustiça da decisão condenatória.
+
+###### Artigo 77.º-A — Reclamação graciosa em matéria de classificação pautal, origem ou valor aduaneiro das mercadorias
+
+1 - A reclamação graciosa de atos de liquidação que tenha por fundamento a classificação pautal, a origem ou o valor aduaneiro das mercadorias é apresentada junto do órgão periférico local que tenha praticado o ato de liquidação e remetida ao dirigente máximo do serviço para decisão.
+
+2 - Na instrução do processo o órgão periférico local competente inclui, se for caso disso, as amostras recolhidas e os relatórios de quaisquer controlos, ações de natureza fiscalizadora ou inspeções que tenham servido de base à liquidação.
+
+3 - Após a instrução, o processo é remetido ao serviço central competente em matéria de classificação pautal, origem ou valor aduaneiro no prazo de 15 dias, que procede à instrução complementar, sempre que se mostre necessária, à análise do processo e à elaboração da proposta fundamentada de decisão.
+
+> Aditado pelo/a Artigo 219.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+###### Artigo 77.º-B — Relação com a impugnação judicial
+
+A impugnação judicial de atos de liquidação que tenha por fundamento a classificação pautal, a origem ou o valor aduaneiro das mercadorias efetua-se nos termos do artigo 133.º-A.
+
+> Aditado pelo/a Artigo 219.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+### Capítulo VII — Da cobrança
+
+#### Secção I — Disposições gerais
+
+###### Artigo 78.º — Modalidades da cobrança
+
+A cobrança das dívidas tributárias pode ocorrer sob as seguintes modalidades:
+
+a) Pagamento voluntário;
+
+b) Cobrança coerciva.
+
+###### Artigo 79.º — Competência
+
+A cobrança dos tributos é assegurada pelas entidades legalmente competentes e, em caso de serem periódicos, os respectivos prazos serão divulgados pela comunicação social.
+
+#### Secção II — Das garantias da cobrança
+
+###### Artigo 80.º — Citação para reclamação de créditos tributários
+
+1 - Salvo nos casos expressamente previstos na lei, em processo de execução que não tenha natureza tributária, é obrigatoriamente citado o diretor do órgão periférico regional da área do domicílio fiscal ou da sede do executado, para apresentar, no prazo de 15 dias, certidão de quaisquer dívidas de tributos à Fazenda Pública imputadas ao executado que possam ser objeto de reclamação de créditos, sob pena de nulidade dos atos posteriores à data em que a citação devia ter sido efetuada.
+
+2 - Não havendo dívidas, a certidão referida no número anterior será substituída por simples comunicação através de ofício.
+
+3 - As certidões referidas no n.º 1 serão remetidas, mediante recibo, ao respectivo representante do Ministério Público e delas deverão constar, além da natureza, montante e período de tempo de cada um dos tributos ou outras dívidas, a matéria tributável que produziu esse tributo ou a causa da dívida, a indicação dos artigos matriciais dos prédios sobre que recaiu, o montante das custas, havendo execução, e a data a partir da qual são devidos juros de mora.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 100/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/100-2017-108063581), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 50.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, 2º Suplemento, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+###### Artigo 81.º — Restituição do remanescente nas execuções
+
+1 - O remanescente do produto de quaisquer bens vendidos ou liquidados em processo de execução ou das importâncias nele penhoradas poderá ser aplicado no prazo de 30 dias após a conclusão do processo para o pagamento de quaisquer dívidas tributárias de que o executado seja devedor à Fazenda Nacional e que não tenham sido reclamadas nem impugnadas.
+
+2 - Findo o prazo referido no número anterior, o remanescente será restituído ao executado.
+
+3 - No caso de ter havido transmissão do direito ao remanescente, deverá o interessado provar que está pago ou assegurado o pagamento do tributo que sobre ela recair.
+
+###### Artigo 82.º — Trespasse de estabelecimento comercial ou industrial
+
+1 - O notário que celebrar escritura do trespasse ou outro tipo de transmissão contratual relativa a estabelecimento comercial ou industrial exigirá previamente do cedente documento comprovativo da sua comunicação ao serviço periférico local da administração tributária da área da sua sede ou domicílio, feita com uma antecedência mínima de 30 dias e máxima de 60 relativamente à data da escritura.
+
+2 - O disposto no número anterior não será aplicável se, antes da escritura, o transmitente apresentar ao notário certidão do serviço periférico local da residência, comprovativa da inexistência de quaisquer dívidas tributárias, emitida no prazo de 5 dias úteis após o pedido.
+
+3 - Quando o trespasse for celebrado por qualquer outra forma legalmente admissível que não por escritura pública, o cedente deve comunicar a transmissão ao serviço periférico local da administração tributária da área da sua sede ou domicílio, nos mesmos prazos estabelecidos no n.º 1, relativamente à data da transmissão.
+
+> Alterado pelo/a Artigo 41.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+###### Artigo 83.º — Sujeitos passivos inactivos
+
+1 - Independentemente do procedimento contra-ordenacional a que haja lugar, em caso de sociedades, cooperativas e estabelecimentos individuais de responsabilidade limitada cuja declaração de rendimentos evidencie não desenvolverem actividade efectiva por um período de dois anos consecutivos, a administração tributária comunica tal facto à conservatória de registo competente, para efeitos de instauração dos procedimentos administrativos de dissolução e de liquidação da entidade, no prazo de 30 dias posteriores à apresentação daquela declaração.
+
+2 - A administração tributária comunica ainda ao serviço de registo competente, para os efeitos referidos no número anterior:
+
+a) A omissão do dever de entrega da declaração fiscal de rendimentos por um período de dois anos consecutivos;
+
+b) A declaração oficiosa de cessação de actividade, promovida pela administração tributária.
+
+3 - Não se considera exercício da actividade, para efeitos do presente artigo, a mera emissão directa ou indirecta de facturas a utilizar por terceiros, sem que a causa da emissão tenha sido qualquer operação económica comprovada.
+
+> Alterado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30
+
+> Alterado pelo/a Artigo 41.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+#### Secção III — Do pagamento voluntário
+
+###### Artigo 84.º — Pagamento voluntário
+
+1 - Constitui pagamento voluntário de dívidas de impostos e demais prestações tributárias o efectuado dentro do prazo estabelecido nas leis tributárias.
+
+2 - Durante o decurso do prazo referido no número anterior, podem ser efetuados pagamentos parciais.
+
+3 - Não são aceites pagamentos parciais inferiores a metade da unidade de conta, salvo quando se trate do pagamento do remanescente em dívida.
+
+4 - Findo o prazo de pagamento voluntário, sem que o pagamento tenha sido recebido integralmente, observar-se-á o disposto no artigo 88.º
+
+> Alterado pelo/a Artigo 296.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+###### Artigo 85.º — Prazos. Proibição da moratória e da suspensão da execução
+
+1 - Os prazos de pagamento voluntário dos tributos são regulados nas leis tributárias.
+
+2 - Nos casos em que as leis tributárias não estabeleçam prazo de pagamento, este será de 30 dias após a notificação para pagamento efectuada pelos serviços competentes.
+
+3 - A concessão da moratória ou a suspensão da execução fiscal fora dos casos previstos na lei, quando dolosas, são fundamento de responsabilidade tributária subsidiária.
+
+4 - A responsabilidade subsidiária prevista no número anterior depende de condenação disciplinar ou criminal do responsável.
+
+###### Artigo 86.º — Termo do prazo de pagamento voluntário. Pagamentos por conta
+
+1 - Findo o prazo de pagamento voluntário, começarão a vencer-se juros de mora nos termos das leis tributárias.
+
+2 - O contribuinte pode, a partir do termo do prazo de pagamento voluntário, requerer o pagamento em prestações nos termos das leis tributárias.
+
+3 - Sem prejuízo do disposto no número anterior, poderá ser requerido à entidade competente para a apreciação do pedido na execução fiscal, a partir do início do prazo do pagamento voluntário, o pagamento em prestações, no âmbito e nos termos previstos em processo conducente à celebração de acordo de recuperação dos créditos do Estado.
+
+4 - Antes da extracção da certidão de dívida, nos termos e para efeitos do artigo 88.º, pode o contribuinte efectuar um pagamento por conta de dívidas por tributos constantes das notas de cobrança, desde que se verifiquem cumulativamente as seguintes condições:
+
+a) Ter sido deduzida reclamação graciosa ou impugnação judicial da liquidação ou apresentado pedido de revisão oficiosa da liquidação do tributo com fundamento em erro imputável aos serviços;
+
+b) Abranger o pagamento por conta a parte da colecta que não for objecto de reclamação graciosa ou impugnação judicial.
+
+5 - O pagamento por conta deve ser solicitado à entidade competente para a instauração de processo de execução fiscal.
+
+6 - Aos pagamentos por conta previstos no presente artigo aplica-se, com as necessárias adaptações, o disposto aos pagamentos por conta na execução fiscal.
+
+7 - No caso de recurso hierárquico com efeito suspensivo da liquidação, o contribuinte deve proceder ao pagamento da liquidação provisória, com base na matéria tributável não contestada, no prazo do pagamento voluntário, passando, caso contrário, o recurso hierárquico a ter efeito meramente devolutivo.
+
+> Alterado pelo/a Artigo 44.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, 2º Suplemento, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 50.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, 2º Suplemento, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+###### Artigo 87.º — Dação em pagamento antes da execução fiscal
+
+1 - A dação em pagamento antes da instauração do processo de execução fiscal só é admissível no âmbito de processo conducente à celebração de acordo de recuperação de créditos do Estado.
+
+2 - O requerimento da dação em pagamento pode ser apresentado a partir do início do prazo do pagamento voluntário e é dirigido ao ministro ou órgão executivo de que dependa a administração tributária, que decidirá, ouvidos os serviços competentes, designadamente sobre o montante da dívida e acrescido e os encargos que incidam sobre os bens.
+
+3 - A aceitação da dação, em caso de dívidas a diferentes administrações tributárias, poderá ser efectuada por despacho conjunto dos ministros competentes e órgãos executivos, que deverá discriminar o montante aplicado no pagamento das dívidas existentes, sem prejuízo do direito de o contribuinte solicitar a revisão dos critérios utilizados.
+
+4 - À dação em pagamento efectuada nos termos do presente artigo aplicam-se os requisitos materiais ou processuais da dação em pagamento na execução fiscal, com as necessárias adaptações.
+
+5 - Salvo se já tiver sido instaurado processo de execução fiscal em que se efectua por auto no processo, a dação em pagamento efectua-se por auto no procedimento previsto no presente artigo.
+
+6 - O pedido de dação em pagamento não suspende a cobrança da obrigação tributária.
+
+7 - As despesas de avaliação entram em regra de custas do procedimento de dação em pagamento, salvo se já tiver sido instaurado processo de execução fiscal, caso em que serão consideradas custas deste processo.
+
+###### Artigo 88.º — Extracção das certidões de dívida
+
+1 - Findo o prazo de pagamento voluntário estabelecido nas leis tributárias, será extraída pelos serviços competentes certidão de dívida com base nos elementos que tiverem ao seu dispor.
+
+2 - As certidões de dívida serão assinadas e autenticadas e conterão, sempre que possível e sem prejuízo do disposto no presente Código, os seguintes elementos:
+
+a) Identificação do devedor, incluindo o número fiscal de contribuinte;
+
+b) Descrição sucinta, situações e artigos matriciais dos prédios que originaram as colectas;
+
+c) Estabelecimento, local e objecto da actividade tributada;
+
+d) Número dos processos;
+
+e) Proveniência da dívida e seu montante;
+
+f) Número do processo de liquidação do tributo sobre a transmissão, identificação do transmitente, número e data do termo da declaração prestada para a liquidação;
+
+g) Rendimentos que serviram de base à liquidação, com indicação das fontes, nos termos das alíneas b) e c);
+
+h) Nomes e moradas dos administradores ou gerentes da empresa ou sociedade executada;
+
+i) Nomes e moradas das entidades garantes da dívida e tipo e montante da garantia prestada;
+
+j) Nomes e moradas de outras pessoas solidária ou subsidiariamente responsáveis;
+
+k) Quaisquer outras indicações úteis para o eficaz seguimento da execução.
+
+3 - A assinatura das certidões de dívida poderá ser efectuada por chancela ou outro meio de reprodução devidamente autorizado por quem as emitir, podendo a autenticação ser efectuada por aposição do selo branco ou, mediante prévia autorização do membro do Governo competente, por qualquer outra forma idónea de identificação da assinatura e do serviço emitente.
+
+4 - As certidões de dívida podem ser emitidas por via electrónica, sendo autenticadas pela assinatura electrónica avançada da entidade emitente, nos termos do Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas.
+
+5 - As certidões de dívida servem de base à instauração do processo de execução fiscal.
+
+6 - A extracção das certidões de dívidas poderá ser cometida, pelo órgão dirigente da administração tributária, aos serviços que disponham dos elementos necessários para essa actividade.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 100/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/100-2017-108063581), em vigor a partir de 2018-01-01.
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01.
+
+###### Artigo 89.º — Compensação de dívidas de tributos por iniciativa da administração tributária
+
+1 - Os créditos do executado resultantes de reembolso, revisão oficiosa, reclamação ou impugnação judicial de qualquer acto tributário são aplicados na compensação das suas dívidas cobradas pela administração tributária, excepto nos casos seguintes:
+
+a) Estar a correr prazo para interposição de reclamação graciosa, recurso hierárquico, impugnação judicial, recurso judicial ou oposição à execução;
+
+b) Estar pendente qualquer dos meios graciosos ou judiciais referidos na alínea anterior ou estar a dívida a ser paga em prestações, desde que a dívida exequenda se mostre garantida nos termos do artigo 169.º
+
+2 - Quando a importância do crédito for insuficiente para o pagamento da totalidade das dívidas e acrescido, o crédito é aplicado sucessivamente no pagamento dos juros de mora, de outros encargos legais e do capital da dívida, aplicando-se o disposto no n.º 3 do artigo 262.º, sem prejuízo do disposto na parte final do n.º 2 do mesmo artigo.
+
+3 - A compensação efectua-se pela seguinte ordem de preferência:
+
+a) Com dívidas da mesma proveniência e, se respeitarem a impostos periódicos, relativas ao mesmo período de tributação;
+
+b) Com dívidas da mesma proveniência e, se respeitarem a impostos periódicos, respeitantes a diferentes períodos de tributação;
+
+c) Com dívidas provenientes de tributos retidos na fonte ou legalmente repercutidos a terceiros e não entregues;
+
+d) Com dívidas provenientes de outros tributos.
+
+4 - As certidões de dívida podem ser emitidas por via electrónica, sendo autenticadas pela assinatura electrónica avançada da entidade emitente, nos termos do Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas.
+
+5 - Se o crédito for insuficiente para o pagamento da totalidade das dívidas, dentro da mesma hierarquia de preferência, esta efectua-se segundo a seguinte ordem:
+
+a) Com as dívidas mais antigas;
+
+b) Dentro das dívidas com igual antiguidade, com as de maior valor;
+
+c) Em igualdade de circunstâncias, com qualquer das dívidas.
+
+5 - A compensação é efectuada através da emissão de título de crédito destinado a ser aplicado no pagamento da dívida exequenda e acrescido.
+
+6 - Verificando-se a compensação referida nos números anteriores, os acréscimos legais serão devidos até à data da compensação ou, se anterior, até à data limite que seria de observar no reembolso do crédito se o atraso não for imputável ao contribuinte.
+
+7 - O ministro ou órgão executivo de que dependa a administração tributária pode proceder à regulamentação do disposto no presente artigo que se mostre necessária.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-07-01
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 120.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29
+
+###### Artigo 90.º — Compensação com créditos tributários por iniciativa do contribuinte
+
+1 - A compensação com créditos tributários pode ser efectuada a pedido do contribuinte quando, nos termos e condições do artigo anterior, a administração tributária esteja impedida de a fazer.
+
+2 - A compensação com créditos tributários de que seja titular qualquer outra pessoa singular ou colectiva pode igualmente ser efectuada, nas mesmas condições do número anterior, desde que o devedor os ofereça e o credor expressamente aceite.
+
+3 - A compensação referida nos números anteriores é requerida ao dirigente máximo da administração tributária, devendo, no caso do número anterior, o devedor apresentar com o requerimento prova do consentimento do credor.
+
+4 - A compensação com créditos sobre o Estado de natureza não tributária de que o contribuinte seja titular pode igualmente ser efectuada em processo de execução fiscal se a dívida correspondente a esses créditos for certa, líquida e exigível e tiver cabimento orçamental.
+
+5 - (Revogado).
+
+6 - (Revogado).
+
+> Alterado pelo/a Artigo 120.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29
+
+###### Artigo 90.º-A — Compensação com créditos não tributários por iniciativa do contribuinte
+
+1 - A compensação com créditos de qualquer natureza sobre a administração directa do Estado de que o contribuinte seja titular pode ser efectuada quando se verifiquem as seguintes condições cumulativas:
+
+a) A dívida tributária esteja em fase de cobrança coerciva;
+
+b) As dívidas da administração directa do Estado que o contribuinte indique para compensação sejam certas, líquidas e exigíveis.
+
+2 - A compensação a que se refere o número anterior é requerida pelo executado ao dirigente máximo da administração tributária, devendo ser feita prova da existência e da origem do crédito, do seu valor e do prazo de vencimento.
+
+3 - A administração tributária, no prazo de 10 dias, solicita à entidade da administração directa do Estado devedora o reconhecimento e a validação do carácter certo, líquido e exigível do crédito indicado pelo executado para compensação.
+
+4 - A entidade devedora, em prazo igual ao do número anterior, pronuncia-se sobre o carácter certo, líquido e exigível do crédito, indicando o seu valor e data de vencimento, de forma a permitir o processamento da compensação.
+
+5 - O órgão da execução fiscal promove a aplicação do crédito referido no número anterior no processo de execução fiscal, nos termos dos artigos 261.º e 262.º, consoante o caso.
+
+6 - Verificando-se a compensação referida no presente artigo, os acréscimos legais são devidos até ao mês seguinte ao da data da apresentação do requerimento a que se refere o n.º 2.
+
+7 - As condições e procedimentos de aplicação do disposto no presente artigo podem ser regulamentados por portaria do membro de Governo responsável pela área das finanças.
+
+> Aditado pelo/a Artigo 121.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29
+
+#### Secção IV — Das formas e meios de pagamento
+
+###### Artigo 91.º — Condições da sub-rogação
+
+1 - Para beneficiar dos efeitos da sub-rogação, o terceiro que pretender pagar antes de instaurada a execução deve requerê-lo ao dirigente do órgão periférico regional da administração tributária competente, que decide no próprio requerimento, caso se prove o interesse legítimo ou a autorização do devedor, indicando o montante da dívida a pagar e respetivos juros de mora.
+
+2 - Se estiver pendente a execução, o pedido será feito ao órgão competente, e o pagamento, quando autorizado, compreenderá a quantia exequenda acrescida de juros de mora e custas.
+
+3 - O pagamento, com sub-rogação, requerido depois da venda dos bens só poderá ser autorizado pela quantia que ficar em dívida.
+
+4 - O despacho que autorizar a sub-rogação será notificado ao devedor e ao terceiro que a tiver requerido.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 100/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/100-2017-108063581), em vigor a partir de 2018-01-01
+
+###### Artigo 92.º — Sub-rogação. Garantias
+
+1 - A dívida paga pelo sub-rogado conserva as garantias, privilégios e processo de cobrança e vencerá juros pela taxa fixada na lei civil, se o sub-rogado o requerer.
+
+2 - O sub-rogado pode requerer a instauração ou o prosseguimento da execução fiscal para cobrar do executado o que por ele tiver pago, salvo tratando-se de segunda sub-rogação.
+
+###### Artigo 93.º — Documentos, conferência e validação dos pagamentos
+
+1 - Os devedores de tributos de qualquer natureza apresentarão no acto de pagamento, relativamente às liquidações efectuadas pelos serviços da administração tributária, o respectivo documento de cobrança ou, nos restantes casos, a guia de pagamento oficial ou título equivalente.
+
+2 - Os pagamentos de dívidas que se encontrem na fase da cobrança coerciva serão efectuados através de guia ou título de cobrança equivalente previamente solicitado ao órgão competente.
+
+3 - As entidades intervenientes na cobrança deverão exigir sempre a inscrição do número fiscal do devedor nos documentos referidos no número anterior e comprovar a exactidão da inscrição por conferência com o respectivo cartão que, para o efeito, será exibido ou por conferência com o constante dos registos dos serviços para esse devedor cuja identidade será provada pelo documento legal adequado.
+
+###### Artigo 94.º — Prova de pagamento
+
+1 - No acto do pagamento, a entidade interveniente na cobrança entregará ao interessado documento comprovativo.
+
+2 - Constituirá prova bastante do pagamento do tributo nos termos do número anterior a declaração bancária confirmativa, quando o tributo tenha sido pago por cheque ou transferência de conta.
+
+###### Artigo 95.º — Cobrança de receitas não liquidadas pela administração tributária
+
+1 - As guias relativas a receitas cuja liquidação não seja da competência dos serviços da administração tributária e que estes devam nos termos da lei coercivamente cobrar serão remetidas ao órgão da execução fiscal do domicílio ou sede do devedor.
+
+2 - O órgão referido no número anterior mandará notificar o devedor, por carta registada com aviso de recepção, para, no prazo de 30 dias a contar da notificação, efectuar o pagamento.
+
+3 - Decorrido o prazo sem que o pagamento tenha sido efectuado, será extraída certidão de dívida para efeitos de cobrança coerciva.
+
+### Capítulo VIII — Do procedimento de correcção de erros da administração tributária
+
+> Aditado pelo/a Artigo 112.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01
+
+###### Artigo 95.º-A — Procedimento de correcção de erros da administração tributária
+
+1 - O procedimento de correcção de erros regulado no presente capítulo visa a reparação por meios simplificados de erros materiais ou manifestos da administração tributária ocorridos na concretização do procedimento tributário ou na tramitação do processo de execução fiscal.
+
+2 - Consideram-se erros materiais ou manifestos, designadamente os que resultarem do funcionamento anómalo dos sistemas informáticos da administração tributária, bem como as situações inequívocas de erro de cálculo, de escrita, de inexactidão ou lapso.
+
+3 - O procedimento é caracterizado pela dispensa de formalidades essenciais e simplicidade de termos.
+
+4 - A instauração do procedimento não prejudica a utilização no prazo legal de qualquer meio procedimental ou processual que tenha por objecto a ilegalidade da liquidação ou a exigibilidade da dívida.
+
+> Aditado pelo/a Artigo 112.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01
+
+###### Artigo 95.º-B — Legitimidade, prazo e termos de apresentação do pedido
+
+1 - Os sujeitos passivos de quaisquer relações tributárias ou os titulares de qualquer interesse legítimo podem, para efeitos de abertura do procedimento regulado no presente capítulo, solicitar junto do dirigente máximo da administração tributária a correcção de erros que os tiverem prejudicado.
+
+2 - O pedido de correcção de erros é deduzido no prazo de 10 dias posteriores ao conhecimento efectivo pelo contribuinte do acto lesivo em causa.
+
+3 - O pedido a que se referem os números anteriores pode ser apresentado verbalmente ou por escrito em qualquer serviço da administração tributária.
+
+4 - No caso do pedido ser apresentado verbalmente, é reduzido a escrito pelo serviço da administração tributária que o tiver recebido.
+
+> Aditado pelo/a Artigo 112.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01
+
+###### Artigo 95.º-C — Competência
+
+1 - O pedido de correcção de erros é decidido pelo dirigente máximo do serviço ou por qualquer outro funcionário qualificado em quem seja delegada essa competência.
+
+2 - A decisão do pedido é instruída pela unidade orgânica designada genericamente pelo dirigente máximo do serviço para o efeito.
+
+3 - O prazo máximo de decisão do pedido é de 15 dias.
+
+4 - A instrução do pedido é efectuada sumariamente, devendo os serviços chamados a colaborar dar prioridade à solicitação da unidade orgânica referida no n.º 2.
+
+5 - Caso o fundamento do pedido seja a ilegalidade da liquidação, a inexigibilidade da dívida ou outro fundamento para o qual a lei preveja meio processual próprio, deve o contribuinte ser convidado a substituir o procedimento pelo meio adequado.
+
+6 - A decisão do pedido é notificada ao contribuinte presencialmente ou por via postal simples.
+
+7 - O indeferimento do pedido não está sujeito a audição prévia.
+
+> Aditado pelo/a Artigo 112.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01
+
+## Título III — Do processo judicial tributário
+
+### Capítulo I — Disposições gerais
+
+#### Secção I — Da natureza e forma de processo judicial tributário
+
+###### Artigo 96.º — Objecto
+
+1 - O processo judicial tributário tem por função a tutela plena, efectiva e em tempo útil dos direitos e interesses legalmente protegidos em matéria tributária.
+
+2 - Para cumprir em tempo útil a função que lhe é cometida pelo número anterior, o processo judicial tributário não deve ter duração acumulada superior a dois anos contados entre a data da respectiva instauração e a da decisão proferida em 1.ª instância que lhe ponha termo.
+
+3 - O prazo referido no número anterior deverá ser de 90 dias relativamente aos processos a que se referem as alíneas g), i), j), l) e m) do artigo seguinte.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 97.º — Processo judicial tributário
+
+1 - O processo judicial tributário compreende:
+
+a) A impugnação da liquidação dos tributos, incluindo os parafiscais e os actos de autoliquidação, retenção na fonte e pagamento por conta;
+
+b) A impugnação da fixação da matéria tributável, quando não dê origem à liquidação de qualquer tributo;
+
+c) A impugnação do indeferimento total ou parcial das reclamações graciosas dos actos tributários;
+
+d) A impugnação dos actos administrativos em matéria tributária que comportem a apreciação da legalidade do acto de liquidação;
+
+e) A impugnação do agravamento à colecta aplicado, nos casos previstos na lei, em virtude da apresentação de reclamação ou recurso sem qualquer fundamento razoável;
+
+f) A impugnação dos actos de fixação de valores patrimoniais;
+
+g) A impugnação das providências cautelares adoptadas pela administração tributária;
+
+h) As acções para o reconhecimento de um direito ou interesse em matéria tributária;
+
+i) As providências cautelares de natureza judicial;
+
+j) Os meios acessórios de intimação para consulta de processos ou documentos administrativos e passagem de certidões;
+
+l) A produção antecipada de prova;
+
+m) A intimação para um comportamento;
+
+n) O recurso dos atos praticados na execução fiscal, no próprio processo ou, nos casos de subida imediata, por apenso;
+
+o) A oposição, os embargos de terceiros e outros incidentes, bem como a reclamação da decisão da verificação e graduação de créditos;
+
+p) A ação administrativa, designadamente para a condenação à prática de ato administrativo legalmente devido relativamente a atos administrativos de indeferimento total ou parcial ou da revogação de isenções ou outros benefícios fiscais, quando dependentes de reconhecimento da administração tributária, bem como para a impugnação ou condenação à prática de ato administrativo legalmente devido relativamente a outros atos administrativos relativos a questões tributárias que não comportem apreciação da legalidade do ato de liquidação, e para a impugnação ou condenação à emissão de normas administrativas em matéria fiscal;
+
+q) Outros meios processuais previstos na lei.
+
+2 - A ação administrativa é regulada pelas normas sobre processo nos tribunais administrativos.
+
+3 - São também regulados pelas normas sobre processo nos tribunais administrativos:
+
+a) As providências cautelares de natureza judicial a favor do contribuinte ou demais obrigados tributários, sem prejuízo do efeito suspensivo de atos de liquidação só poder ser obtido mediante prestação de garantia ou concessão da sua dispensa nos termos previstos nas normas tributárias;
+
+b) Os conflitos de competência entre tribunais tributários e tribunais administrativos e entre órgãos da administração tributária do governo central, dos governos regionais e das autarquias locais.
+
+4 - Os atos processuais, incluindo os atos das partes que devam ser praticados por escrito, as notificações entre mandatários, entre estes e os representantes da Fazenda Pública, e as notificações aos representantes da Fazenda Pública e ao Ministério Público, bem como a tramitação do processo judicial tributário, são efetuados nos termos previstos para os processos nos tribunais administrativos, designadamente nos artigos 24.º e 25.º do Código de Processo nos Tribunais Administrativos.
+
+5 - No contencioso associado à execução fiscal o disposto no número anterior é aplicável apenas a partir da receção dos autos em tribunal.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+> Alterado pelo/a Artigo 270.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 126.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+###### Artigo 97.º-A — Valor da causa
+
+1 - Os valores atendíveis, para efeitos de custas ou outros previstos na lei, para as acções que decorram nos tribunais tributários, são os seguintes:
+
+a) Quando seja impugnada a liquidação, o da importância cuja anulação se pretende;
+
+b) Quando se impugne o acto de fixação da matéria colectável, o valor contestado;
+
+c) Quando se impugne o acto de fixação dos valores patrimoniais, o valor contestado;
+
+d) No recurso contencioso do indeferimento total ou parcial ou da revogação de isenções ou outros benefícios fiscais, o do valor da isenção ou benefício;
+
+e) No contencioso associado à execução fiscal, o valor correspondente ao montante da dívida exequenda ou da parte restante, quando haja anulação parcial, exceto nos casos de compensação, penhora ou venda de bens ou direitos, em que corresponde ao valor dos mesmos, se inferior.
+
+2 - Revogado.
+
+3 - Quando haja apensação de impugnações ou execuções, o valor é o correspondente à soma dos pedidos.
+
+> Nota: [Artigo 26.º, Decreto-Lei n.º 34/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448) Entrada em vigor: 2009-04-20, por força do art. 156.º da Lei n.º 64-A/2008, de 31 de dezembro, sem prejuízo do disposto no seu n.º 2.
+
+> Alterado pelo/a Artigo 11.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Aditado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 34/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448), em vigor a partir de 2009-04-20
+
+#### Secção II — Das nulidades do processo judicial tributário
+
+###### Artigo 98.º — Nulidades insanáveis
+
+1 - São nulidades insanáveis em processo judicial tributário:
+
+a) A ineptidão da petição inicial;
+
+b) A falta de informações oficiais referentes a questões de conhecimento oficioso no processo;
+
+c) A falta de notificação do despacho que admitir o recurso aos interessados, se estes não alegarem.
+
+2 - As nulidades referidas no número anterior podem ser oficiosamente conhecidas ou deduzidas a todo o tempo, até ao trânsito em julgado da decisão final.
+
+3 - As nulidades dos actos têm por efeito a anulação dos termos subsequentes do processo que deles dependam absolutamente, devendo sempre aproveitar-se as peças úteis ao apuramento dos factos.
+
+4 - Em caso de erro na forma do processo, este será convolado na forma do processo adequada, nos termos da lei.
+
+5 - Sem prejuízo dos demais casos de regularização da petição, esta pode ser corrigida a convite do tribunal em caso de errada identificação do autor do acto impugnado, salvo se o erro for manifestamente indesculpável.
+
+### Capítulo II — Do processo de impugnação
+
+#### Secção I — Disposições gerais
+
+###### Artigo 99.º — Fundamentos da impugnação
+
+Constitui fundamento de impugnação qualquer ilegalidade, designadamente:
+
+a) Errónea qualificação e quantificação dos rendimentos, lucros, valores patrimoniais e outros factos tributários;
+
+b) Incompetência;
+
+c) Ausência ou vício da fundamentação legalmente exigida;
+
+d) Preterição de outras formalidades legais.
+
+###### Artigo 100.º — Dúvidas sobre o facto tributário e utilização de métodos indirectos
+
+1 - Sempre que da prova produzida resulte a fundada dúvida sobre a existência e quantificação do facto tributário, deverá o acto impugnado ser anulado.
+
+2 - Em caso de quantificação da matéria tributável por métodos indirectos não se considera existir dúvida fundada, para efeitos do número anterior, se o fundamento da aplicação daqueles consistir na inexistência ou desconhecimento, por recusa de exibição, da contabilidade ou escrita e de mais documentos legalmente exigidos ou a sua falsificação, ocultação ou destruição, ainda que os contribuintes invoquem razões acidentais.
+
+3 - O disposto no número anterior não prejudica a possibilidade de na impugnação judicial o impugnante demonstrar erro ou manifesto excesso na matéria tributável quantificada.
+
+> Alterado pelo/a Artigo 68.º do/a [Lei n.º 3-B/2000 - Diário da República n.º 80/2000, 2º Suplemento, Série I-A de 2000-04-04](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), em vigor a partir de 2000-04-09, produz efeitos a partir de 2000-01-01
+
+###### Artigo 101.º — Arguição subsidiária de vícios
+
+O impugnante pode arguir os vícios do acto impugnado segundo uma relação de subsidiariedade.
+
+#### Secção II — Da petição
+
+###### Artigo 102.º — Impugnação judicial. Prazo de apresentação
+
+1 - A impugnação será apresentada no prazo de três meses contados a partir dos factos seguintes:
+
+a) Termo do prazo para pagamento voluntário das prestações tributárias legalmente notificadas ao contribuinte;
+
+b) Notificação dos restantes actos tributários, mesmo quando não dêem origem a qualquer liquidação;
+
+c) Citação dos responsáveis subsidiários em processo de execução fiscal;
+
+d) Formação da presunção de indeferimento tácito;
+
+e) Notificação dos restantes actos que possam ser objecto de impugnação autónoma nos termos deste Código;
+
+f) Conhecimento dos actos lesivos dos interesses legalmente protegidos não abrangidos nas alíneas anteriores.
+
+2 - (Revogado).
+
+3 - Se o fundamento for a nulidade, a impugnação pode ser deduzida a todo o tempo.
+
+4 - O disposto neste artigo não prejudica outros prazos especiais fixados neste Código ou noutras leis tributárias.
+
+> Alterado pelo/a Artigo 16.º do/a [Lei n.º 82-E/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-e-2014-66022085), em vigor a partir de 2015-01-01, produz efeitos a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+###### Artigo 103.º — Apresentação. Local. Efeito suspensivo
+
+1 - A petição é apresentada no tribunal tributário competente ou no serviço periférico local onde haja sido ou deva legalmente considerar-se praticado o acto.
+
+2 - Para os efeitos do número anterior, os actos tributários consideram-se sempre praticados na área do domicílio ou sede do contribuinte, da situação dos bens ou da liquidação.
+
+3 - No caso de a petição ser apresentada em serviço periférico local, este procederá ao seu envio ao tribunal tributário competente no prazo de cinco dias após o pagamento da taxa de justiça inicial.
+
+4 - A impugnação tem efeito suspensivo quando for prestada garantia adequada nos termos do presente Código.
+
+5 - Caso haja garantia prestada nos termos da alínea f) do artigo 69.º, esta mantém-se, independentemente de requerimento ou despacho, sem prejuízo de poder haver lugar a notificação para o seu reforço.
+
+6 - A petição inicial pode ser remetida a qualquer das entidades referidas no n.º 1 pelo correio, sob registo, valendo, nesse caso, como data do acto processual a da efectivação do respectivo registo postal.
+
+> Alterado pelo/a Artigo 296.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 104.º — Cumulação de pedidos e coligação de autores
+
+1 - Na impugnação judicial é admitida a cumulação de pedidos, ainda que relativos a diferentes atos, e a coligação de autores, desde que, cumulativamente:
+
+a) Aos pedidos corresponda a mesma forma processual; e
+
+b) A sua apreciação tenha por base as mesmas circunstâncias de facto ou o mesmo relatório de inspeção tributária, ou sejam suscetíveis de ser decididos com base na aplicação das mesmas normas a situações de facto do mesmo tipo.
+
+2 - Não obsta à cumulação ou à coligação referida no número anterior a circunstância de os pedidos se reportarem a diferentes tributos, desde que todos se reconduzam à mesma natureza, à luz da classificação prevista do n.º 2 do artigo 3.º da Lei Geral Tributária.
+
+3 - Quando forem cumulados pedidos para cuja apreciação sejam territorialmente competentes diversos tribunais, o autor pode escolher qualquer deles para a propositura da ação, mas se a cumulação disser respeito a pedidos entre os quais haja uma relação de dependência ou de subsidiariedade, a ação deve ser proposta no tribunal competente para apreciar o pedido principal.
+
+4 - Ao processo impugnatório é igualmente aplicável o disposto no artigo 57.º do Código de Processo nos Tribunais Administrativos.
+
+> Alterado pelo/a Artigo 363.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+###### Artigo 105.º — Seleção de processos com andamento prioritário e apensação
+
+1 - Quando, num mesmo tribunal, sejam intentados mais de 10 processos, ou interpostos recursos de decisões relativas a mais de 10 processos, que, embora referentes a diferentes atos tributários, sejam respeitantes ao mesmo tributo, arguam os mesmos vícios, e sejam suscetíveis de ser decididos com base na aplicação das mesmas normas a situações de facto do mesmo tipo, o presidente do tribunal deve determinar, ouvidas as partes, que seja dado andamento apenas a um deles e se suspenda a tramitação dos demais, nos termos da lei de processo administrativo.
+
+2 - Sem prejuízo dos restantes casos de apensação previstos na lei e desde que o juiz entenda não haver prejuízo para o andamento da causa, os processos de impugnação judicial podem ser apensados ao instaurado em primeiro lugar que estiver na mesma fase, em caso de verificação de qualquer das circunstâncias referidas no artigo anterior.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+###### Artigo 106.º — Indeferimento tácito
+
+A reclamação graciosa presume-se indeferida para efeito de impugnação judicial após o termo do prazo legal de decisão pelo órgão competente.
+
+###### Artigo 107.º — Petição dirigida ao delegante ou subdelegante
+
+O indeferimento tácito da petição ou requerimento dirigido ao delegante ou subdelegante é imputável, para efeitos de impugnação, ao delegado ou subdelegado, mesmo que a este não seja remetido o requerimento ou petição, atendendo-se à data da respectiva entrada para o efeito do artigo anterior.
+
+###### Artigo 108.º — Requisitos da petição inicial
+
+1 - A impugnação será formulada em petição articulada, dirigida ao juiz do tribunal competente, em que se identifiquem o acto impugnado e a entidade que o praticou e se exponham os factos e as razões de direito que fundamentam o pedido.
+
+2 - Na petição indicar-se-á o valor do processo ou a forma como se pretende a sua determinação a efectuar pelos serviços competentes da administração tributária.
+
+3 - Com a petição, o impugnante oferece os documentos de que dispuser, arrola testemunhas e requererá as demais provas que não dependam de ocorrências supervenientes.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+> Alterado pelo/a Artigo 50.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, 2º Suplemento, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 109.º — Despesas com a produção de prova
+
+1 - As despesas com a produção da prova são da responsabilidade de quem as oferecer e, se for o impugnante, garanti-las-á mediante prévio depósito.
+
+2 - O não pagamento dos preparos para a realização das despesas implica a não realização da diligência requerida pelo impugnante, salvo quando o juiz fundamentadamente a entender necessária ao conhecimento do pedido.
+
+#### Secção III — Da contestação
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 110.º — Contestação
+
+1 - Recebida a petição, o juiz ordena a notificação do representante da Fazenda Pública para, no prazo de três meses, contestar e solicitar a produção de prova adicional, sem prejuízo do disposto na parte final do n.º 5 do artigo 112.º
+
+2 - O juiz pode convidar o impugnante a suprir, no prazo que designar, qualquer deficiência ou irregularidade.
+
+3 - O representante da Fazenda Pública deve solicitar, no prazo de três dias, o processo administrativo ao órgão periférico local da situação dos bens ou da liquidação, mas esse expediente não interfere no prazo da contestação previsto no n.º 1.
+
+4 - Com a contestação, o representante da Fazenda Pública remete ao tribunal, por via eletrónica, o processo administrativo que lhe tenha sido enviado pelos serviços, para todos os efeitos legais.
+
+5 - O juiz pode, a todo o tempo, ordenar ao serviço periférico local a remessa, por via eletrónica, do processo administrativo, mesmo na falta de contestação do representante da Fazenda Pública.
+
+6 - A falta de contestação não representa a confissão dos factos articulados pelo impugnante.
+
+7 - O juiz aprecia livremente a falta de contestação especificada dos factos.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 111.º — Organização do processo administrativo
+
+1 - O órgão periférico local da situação dos bens ou da liquidação deve organizar o processo e remetê-lo ao representante da Fazenda Pública, no prazo de 30 dias a contar do pedido que lhe seja feito por aquele, sem prejuízo do disposto no artigo seguinte.
+
+2 - Ao órgão referido no número anterior compete, designadamente, instruir o processo com os seguintes elementos:
+
+a) A informação da inspecção tributária sobre a matéria de facto considerada pertinente;
+
+b) A informação prestada pelos serviços da administração tributária sobre os elementos oficiais que digam respeito à colecta impugnada e sobre a restante matéria do pedido;
+
+c) Outros documentos de que disponha e repute convenientes para o julgamento, incluindo, quando já tenha sido resolvido, procedimento de reclamação graciosa relativamente ao mesmo acto.
+
+3 - Caso haja sido apresentada, anteriormente à recepção da petição de impugnação, reclamação graciosa relativamente ao mesmo acto, esta deve ser apensa à impugnação judicial, no estado em que se encontrar, sendo considerada, para todos os efeitos, no âmbito do processo de impugnação.
+
+4 - Caso, posteriormente à recepção da petição de impugnação, seja apresentada reclamação graciosa relativamente ao mesmo acto e com diverso fundamento, deve esta ser apensa à impugnação judicial, sendo igualmente considerada, para todos os efeitos, no âmbito do processo de impugnação.
+
+5 - O disposto nos n.os 3 e 4 é igualmente aplicável, com as necessárias adaptações, no caso de recurso hierárquico interposto da decisão da reclamação graciosa ao abrigo do artigo 76.º
+
+> Alterado pelo/a Artigo 44.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, 2º Suplemento, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+#### Secção IV — Do conhecimento inicial do pedido
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 112.º — Revogação do acto impugnado
+
+1 - Compete ao dirigente do órgão periférico regional da administração tributária revogar, total ou parcialmente, dentro do prazo referido no n.º 1 do artigo anterior, o ato impugnado caso o valor do processo não exceda o valor da alçada do tribunal tributário de 1.ª instância.
+
+2 - Compete ao dirigente máximo do serviço revogar, total ou parcialmente, dentro do prazo referido no n.º 1 do artigo anterior, o ato impugnado caso o valor do processo exceda o valor da alçada do tribunal tributário de 1.ª instância.
+
+3 - No caso de o acto impugnado ser revogado parcialmente, o órgão que procede à revogação deve, nos 3 dias subsequentes, proceder à notificação do impugnante para, no prazo de 10 dias, se pronunciar, prosseguindo o processo se o impugnante nada disser ou declarar que mantém a impugnação.
+
+4 - A revogação total do acto impugnado é notificada ao representante da Fazenda Pública nos 3 dias subsequentes, cabendo a este promover a extinção do processo.
+
+5 - A revogação parcial do acto impugnado é notificada ao representante da Fazenda Pública, com simultânea remessa do processo administrativo, no prazo de três dias após a recepção da declaração do impugnante referida no n.º 3 ou do termo do prazo aí previsto, sendo, nesse caso, o prazo para contestar de 30 dias a contar da notificação.
+
+6 - A competência referida no presente artigo pode ser delegada pela entidade competente para a apreciação em qualquer dirigente da administração tributária ou em funcionário qualificado.
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 113.º — Conhecimento imediato do pedido
+
+1 - Junta a posição do representante da Fazenda Pública ou decorrido o respectivo prazo, o juiz, após vista ao Ministério Público, conhecerá logo o pedido se a questão for apenas de direito ou, sendo também de facto, o processo fornecer os elementos necessários.
+
+2 - Sem prejuízo do disposto no número anterior, se o representante da Fazenda Pública suscitar questão que obste ao conhecimento do pedido, será ouvido o impugnante.
+
+#### Secção V — Da instrução
+
+###### Artigo 114.º — Diligências de prova
+
+Não conhecendo logo do pedido, o juiz ordena as diligências de produção de prova necessárias, as quais são produzidas no respetivo tribunal, aplicando-se o princípio da plenitude da assistência do juiz.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 115.º — Meios de prova
+
+1 - São admitidos os meios gerais de prova.
+
+2 - As informações oficiais só têm força probatória quando devidamente fundamentadas, de acordo com critérios objectivos.
+
+3 - O teor das informações oficiais será sempre notificado ao impugnante, logo que juntas.
+
+4 - A genuinidade de qualquer documento deve ser impugnada no prazo de 10 dias após a sua apresentação ou junção ao processo, sendo no mesmo prazo feito o pedido de confronto com o original da certidão ou da cópia com a certidão de que foi extraída.
+
+###### Artigo 116.º — Pareceres técnicos. Prova pericial
+
+1 - Poderá haver prova pericial no processo de impugnação judicial sempre que o juiz entenda necessário o parecer de técnicos especializados.
+
+2 - A realização da perícia é ordenada pelo juiz, oficiosamente ou a pedido do impugnante ou do representante da Fazenda Pública, formulado, respectivamente, na petição inicial e na contestação.
+
+3 - A perícia poderá também ser requerida no prazo de 20 dias após a notificação das informações oficiais, se a elas houver lugar.
+
+4 - A prova pericial referida nos números anteriores será regulada nos termos do Código de Processo Civil.
+
+5 - Cabe ao tribunal adiantar o encargo das diligências não requeridas pelo impugnante, o qual entrará no final em regra de custas.
+
+6 - As despesas de diligências requeridas pelo impugnante são por este suportadas, mediante preparo a fixar pelo juiz, e entram no final em regra de custas.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 117.º — Impugnação com base em mero erro na quantificação da matéria tributável ou nos pressupostos de aplicação de métodos indirectos
+
+1 - Salvo em caso de regime simplificado de tributação ou quando da decisão seja interposto, nos termos da lei, recurso hierárquico com efeitos suspensivos da liquidação, a impugnação dos actos tributários com base em erro na quantificação da matéria tributável ou nos pressupostos de aplicação de métodos indirectos depende de prévia apresentação do pedido de revisão da matéria tributável.
+
+2 - Na petição inicial identificará o impugnante o erro ou outra ilegalidade que serve de fundamento à impugnação, apresentará os pareceres periciais que entender necessários e solicitará diligências.
+
+3 - Na introdução em juízo, o representante da Fazenda Pública oferecerá, por sua vez, os pareceres periciais que considerar indispensáveis à apreciação do acto impugnado e solicitará, se for caso disso, outras diligências.
+
+4 - O juiz pode, se o entender, oficiosamente ou a requerimento dos interessados, ordenar a audição dos peritos que tenham subscrito os pareceres técnicos referidos nos números anteriores, determinar ao impugnante e ao representante da Fazenda Pública o esclarecimento das suas posições e ordenar novas diligências de prova.
+
+###### Artigo 118.º — Testemunhas
+
+1 - O número de testemunhas a inquirir não poderá exceder 3 por cada facto nem o total de 10 por cada acto tributário impugnado.
+
+2 - Os depoimentos são prestados em audiência contraditória, devendo ser gravados, sempre que existam meios técnicos para o efeito, cabendo ao juiz a respectiva redução a escrito, que deve constar em acta, quando não seja possível proceder àquela gravação.
+
+3 - Na marcação da diligência, o juiz deve observar o disposto no artigo 155.º do Código de Processo Civil.
+
+4 - A falta de testemunha, de representante da Fazenda Pública ou de advogado não é motivo de adiamento da diligência.
+
+5 - O impugnante e o representante da Fazenda Pública podem interrogar directamente as testemunhas.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 119.º — Depoimento das testemunhas
+
+1 - As testemunhas residentes na área de jurisdição do tribunal tributário são notificadas por carta registada, sendo as restantes a apresentar pela parte que as ofereceu, salvo se fundadamente se requerer a sua notificação.
+
+2 - A devolução de carta de notificação de testemunha é notificada à parte que a apresentou, mas não dá lugar a nova notificação, salvo nos casos de erro do tribunal, cabendo à parte a apresentação da testemunha.
+
+3 - O impugnante e o representante da Fazenda Pública podem requerer que o depoimento das testemunhas residentes fora da área de jurisdição do tribunal tributário seja feito nos termos do número seguinte.
+
+4 - As testemunhas a inquirir nos termos do número anterior são apresentadas pela parte que as ofereceu e são ouvidas por teleconferência gravada a partir do tribunal tributário da área da sua residência, devendo ser identificadas perante funcionário judicial do tribunal onde o depoimento é prestado.
+
+5 - A inquirição das testemunhas prevista no n.º 3 deve ser efectuada durante a mesma diligência em que são ouvidas as demais testemunhas, salvo quando exista motivo ponderoso que justifique que essa inquirição seja marcada para outra data.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 120.º — Notificação para alegações
+
+1 - Quando tenha sido produzida prova que não conste do processo administrativo, ou quando o tribunal o entenda necessário, ordena a notificação das partes para apresentarem alegações escritas, por prazo simultâneo, a fixar entre 10 a 30 dias.
+
+2 - O disposto no número anterior não prejudica a faculdade de as partes prescindirem do prazo para alegações.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+###### Artigo 121.º — Vista do Ministério Público
+
+1 - Apresentadas as alegações ou findo o respectivo prazo e antes de proferida a sentença, o juiz dará vista ao Ministério Público para, se pretender, se pronunciar expressamente sobre as questões de legalidade que tenham sido suscitadas no processo ou suscitar outras nos termos das suas competências legais.
+
+2 - Se o Ministério Público suscitar questão que obste ao conhecimento do pedido, serão ouvidos o impugnante e o representante da Fazenda Pública.
+
+#### Secção VI — Da sentença
+
+###### Artigo 122.º — Conclusão dos autos. Sentença
+
+1 - Em seguida serão os autos conclusos para decisão do juiz, que proferirá sentença.
+
+2 - O impugnante, se decair no todo ou em parte e tiver dado origem à causa, será condenado em custas e poderá sê-lo, também, em sanção pecuniária, como litigante de má fé.
+
+###### Artigo 122.º-A — Julgamento em formação alargada e consulta prejudicial para o Supremo Tribunal Administrativo
+
+Quando à apreciação de um tribunal tributário de 1.ª instância se coloque uma questão de direito nova que suscite dificuldades sérias e possa vir a ser suscitada noutros litígios, pode o respetivo presidente, oficiosamente ou por proposta do juiz da causa, determinar que se adote o julgamento em formação alargada ou a consulta prejudicial para o Supremo Tribunal Administrativo, nos termos do artigo 93.º do Código de Processo nos Tribunais Administrativos.
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+###### Artigo 123.º — Sentença. Objecto
+
+1 - A sentença identificará os interessados e os factos objecto de litígio, sintetizará a pretensão do impugnante e respectivos fundamentos, bem como a posição do representante da Fazenda Pública e do Ministério Público, e fixará as questões que ao tribunal cumpre solucionar.
+
+2 - O juiz discriminará também a matéria provada da não provada, fundamentando as suas decisões.
+
+###### Artigo 124.º — Ordem de conhecimento dos vícios na sentença
+
+1 - Na sentença, o tribunal apreciará prioritariamente os vícios que conduzam à declaração de inexistência ou nulidade do acto impugnado e, depois, os vícios arguidos que conduzam à sua anulação.
+
+2 - Nos referidos grupos a apreciação dos vícios é feita pela ordem seguinte:
+
+a) No primeiro grupo, o dos vícios cuja procedência determine, segundo o prudente critério do julgador, mais estável ou eficaz tutela dos interesses ofendidos;
+
+b) No segundo grupo, a indicada pelo impugnante, sempre que este estabeleça entre eles uma relação de subsidiariedade e não sejam arguidos outros vícios pelo Ministério Público ou, nos demais casos, a fixada na alínea anterior.
+
+###### Artigo 125.º — Nulidades da sentença
+
+1 - Constituem causas de nulidade da sentença a falta de assinatura do juiz, a não especificação dos fundamentos de facto e de direito da decisão, a oposição dos fundamentos com a decisão, a falta de pronúncia sobre questões que o juiz deva apreciar ou a pronúncia sobre questões que não deva conhecer.
+
+2 - A falta da assinatura do juiz pode ser suprida oficiosamente ou a requerimento dos interessados, enquanto for possível obtê-la, devendo o juiz declarar a data em que assina.
+
+###### Artigo 126.º — Notificação da sentença
+
+A sentença será notificada no prazo de 10 dias ao Ministério Público, ao impugnante e ao representante da Fazenda Pública.
+
+#### Secção VII — Da impugnação dos atos de autoliquidação, substituição tributária, pagamentos por conta e dos atos de liquidação com fundamento em classificação pautal, origem ou valor aduaneiro das mercadorias
+
+> Alterado pelo/a Artigo 218.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+###### Artigo 127.º — Incidentes
+
+1 - São admitidos em processo de impugnação os incidentes seguintes:
+
+a) Assistência;
+
+b) Habilitação;
+
+c) Apoio judiciário.
+
+2 - O prazo de resposta ao incidente é de 15 dias.
+
+3 - O Ministério Público pronunciar-se-á obrigatoriamente antes da decisão do incidente sobre a matéria nele discutida.
+
+###### Artigo 128.º — Processamento e julgamento dos incidentes
+
+Os incidentes serão processados e julgados nos termos do Código de Processo Civil, em tudo que não seja estabelecido no presente Código.
+
+###### Artigo 129.º — Incidente de assistência
+
+1 - É admitido em processo de impugnação o incidente de assistência nos casos seguintes:
+
+a) Intervenção do substituto nas impugnações deduzidas pelo substituído e vice-versa;
+
+b) Intervenção do responsável subsidiário nas impugnações deduzidas pelo contribuinte.
+
+2 - A sentença produzirá caso julgado face ao assistente relativamente ao objecto da impugnação.
+
+###### Artigo 130.º — Admissão do incidente de habilitação
+
+É admitido o incidente de habilitação quando, no decurso do processo judicial, falecer o impugnante e o sucessor pretenda impor a sua posição processual.
+
+#### Secção VIII — Da impugnação dos actos de autoliquidação, substituição tributária e pagamentos por conta
+
+###### Artigo 131.º — Impugnação em caso de autoliquidação
+
+1 - Em caso de erro na autoliquidação, a impugnação será obrigatoriamente precedida de reclamação graciosa dirigida ao dirigente do órgão periférico regional da administração tributária, no prazo de 2 anos após a apresentação da declaração.
+
+2 - (Revogado).
+
+3 - Quando estiver exclusivamente em causa matéria de direito e a autoliquidação tiver sido efetuada de acordo com orientações genéricas emitidas pela administração tributária, não há lugar à reclamação necessária prevista no n.º 1.
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 82-E/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-e-2014-66022085), em vigor a partir de 2015-01-01, produz efeitos a partir de 2015-01-01
+
+###### Artigo 132.º — Impugnação em caso de retenção na fonte
+
+1 - A retenção na fonte é susceptível de impugnação por parte do substituto em caso de erro na entrega de imposto superior ao retido.
+
+2 - O imposto entregue a mais será descontado nas entregas seguintes da mesma natureza a efectuar no ano do pagamento indevido.
+
+3 - Caso não seja possível a correcção referida no número anterior, o substituto que quiser impugnar reclamará graciosamente para o órgão periférico regional da administração tributária competente no prazo de 2 anos a contar do termo do prazo nele referido.
+
+4 - O disposto no número anterior aplica-se à impugnação pelo substituído da retenção que lhe tiver sido efectuada, salvo quando a retenção tiver a mera natureza de pagamento por conta do imposto devido a final.
+
+5 - (Revogado).
+
+6 - À impugnação em caso de retenção na fonte aplica-se o disposto no n.º 3 do artigo anterior.
+
+> Alterado pelo/a Artigo 16.º do/a [Lei n.º 82-E/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-e-2014-66022085), em vigor a partir de 2015-01-01, produz efeitos a partir de 2015-01-01
+
+###### Artigo 133.º — Impugnação em caso de pagamento por conta
+
+1 - O pagamento por conta é susceptível de impugnação judicial com fundamento em erro sobre os pressupostos da sua existência ou do seu quantitativo quando determinado pela administração tributária.
+
+2 - A impugnação do pagamento por conta depende de prévia reclamação graciosa para o órgão periférico local da administração tributária competente, no prazo de 30 dias após o pagamento indevido.
+
+3 - Caso a reclamação seja expressamente indeferida, o contribuinte poderá impugnar, no prazo de 30 dias, o acto nos mesmos termos que do acto de liquidação.
+
+4 - Decorridos 90 dias após a sua apresentação sem que tenha sido indeferida, considera-se a reclamação tacitamente deferida.
+
+###### Artigo 133.º-A — Impugnação com fundamento em matéria de classificação pautal, origem ou valor aduaneiro das mercadorias
+
+A impugnação judicial de atos de liquidação que tenha por fundamento a classificação pautal, a origem ou o valor aduaneiro das mercadorias depende de prévia reclamação graciosa prevista no presente Código.
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 82-E/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-e-2014-66022085), em vigor a partir de 2015-01-01, produz efeitos a partir de 2015-01-01
+
+> Aditado pelo/a Artigo 219.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+###### Artigo 134.º — Objecto da impugnação
+
+1 - Os atos de fixação dos valores patrimoniais podem ser impugnados, no prazo de três meses após a sua notificação ao contribuinte, com fundamento em qualquer ilegalidade.
+
+2 - Constitui motivo de ilegalidade, além da preterição de formalidades legais, o erro de facto ou de direito na fixação.
+
+3 - As incorrecções nas inscrições matriciais dos valores patrimoniais podem ser objecto de impugnação judicial, no prazo de 30 dias, desde que o contribuinte tenha solicitado previamente a correcção da inscrição junto da entidade competente e esta a recuse ou não se pronuncie no prazo de 90 dias a partir do pedido.
+
+4 - À impugnação referida no número anterior aplica-se o disposto no n.º 3 do artigo 111.º
+
+5 - O pedido de correcção da inscrição nos termos do número anterior pode ser apresentado a todo o tempo.
+
+6 - O prazo da impugnação referida no n.º 3 conta-se a partir da notificação da recusa ou do termo do prazo para apreciação do pedido.
+
+7 - A impugnação referida neste artigo não tem efeito suspensivo e só poderá ter lugar depois de esgotados os meios graciosos previstos no procedimento de avaliação.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+### Capítulo III — Dos processos de acção cautelar
+
+#### Secção I — Disposições gerais
+
+###### Artigo 135.º — Providências cautelares
+
+1 - São admitidas em processo judicial tributário as seguintes providências cautelares avulsas a favor da administração tributária:
+
+a) O arresto;
+
+b) O arrolamento.
+
+2 - A impugnação dos actos de apreensão de bens, quando a eles houver lugar segundo as leis tributárias, e de outras providências cautelares adoptadas, nos termos da lei, pela administração tributária é regulada pelo disposto no presente capítulo.
+
+#### Secção II — Do arresto
+
+###### Artigo 136.º — Requisitos do arresto
+
+1 - O representante da Fazenda Pública pode requerer arresto de bens do devedor de tributos ou do responsável solidário ou subsidiário quando ocorram, simultaneamente, as circunstâncias seguintes:
+
+a) Haver fundado receio da diminuição de garantia de cobrança de créditos tributáveis;
+
+b) O tributo estar liquidado ou em fase de liquidação.
+
+2 - Nos tributos periódicos considera-se que o tributo está em fase de liquidação a partir do final do ano civil ou de outro período de tributação a que os respectivos rendimentos se reportem.
+
+3 - Nos tributos de obrigação única, o tributo considera-se em fase de liquidação a partir do momento da ocorrência do facto tributário.
+
+4 - O representante da Fazenda Pública alegará os factos que demonstrem o tributo ou a sua provável existência e os fundamentos do receio de diminuição de garantias de cobrança de créditos tributários, relacionando, também, os bens que devem ser arrestados, com as menções necessárias ao arresto.
+
+5 - As circunstâncias referidas na alínea a) do n.º 1 presumem-se no caso de dívidas por impostos que o devedor ou responsável esteja obrigado a reter ou a repercutir a terceiros e não haja entregue nos prazos legais.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 137.º — Caducidade
+
+1 - O arresto fica sem efeito com o pagamento da dívida, ou quando, no processo de liquidação do ou dos tributos para cuja garantia é destinado, se apure até ao fim do ano posterior àquele em que se efectuou não haver lugar a qualquer acto tributário e, ainda, se, a todo o tempo, for prestada garantia nos termos previstos no presente Código.
+
+2 - O arresto fica igualmente sem efeito quando, tendo sido decretado na pendência de procedimento de inspecção tributária, a entidade inspeccionada não for notificada do relatório de inspecção no prazo de 90 dias a contar da data do seu decretamento, a menos que, findo este período, ainda não tenha terminado o prazo legal para a conclusão daquele procedimento de inspecção, com as eventuais prorrogações legais, caso em que o arresto fica sem efeito no termo deste último prazo legal.
+
+3 - O arresto caducará ainda na medida do que exceder o montante suficiente para garantir o tributo, juros compensatórios liquidados e o acrescido relativo aos 6 meses posteriores.
+
+> Alterado pelo/a Artigo 41.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 138.º — Competência para o arresto
+
+Tem competência para o arresto o tribunal tributário de 1.ª instância da área do domicílio ou sede do executado.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 100/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/100-2017-108063581), em vigor a partir de 2017-08-29
+
+###### Artigo 139.º — Regime do arresto
+
+Ao regime do arresto aplica-se o disposto no Código de Processo Civil em tudo o que não for especialmente regulado nesta secção.
+
+#### Secção III — Do arrolamento
+
+###### Artigo 140.º — Requisitos do arrolamento
+
+Havendo fundado receio de extravio ou de dissipação de bens ou de documentos conexos com obrigações tributárias, pode ser requerido pelo representante da Fazenda Pública o seu arrolamento.
+
+###### Artigo 141.º — Competência para o arrolamento
+
+O processo de arrolamento é da competência do tribunal tributário de 1.ª instância da área da residência, sede ou estabelecimento estável do contribuinte.
+
+###### Artigo 142.º — Regime do arrolamento
+
+Ao regime do arrolamento aplica-se o disposto no Código de Processo Civil, em tudo o que não for especialmente regulado nesta secção.
+
+#### Secção IV — Da apreensão
+
+###### Artigo 143.º — Impugnação da apreensão
+
+1 - É admitida a impugnação judicial dos actos de apreensão de bens praticados pela administração tributária, no prazo de 15 dias a contar do levantamento do auto.
+
+2 - A impugnação da apreensão de bens reveste-se sempre de carácter urgente, precedendo as diligências respectivas a quaisquer outros actos judiciais não urgentes.
+
+3 - É competente para o conhecimento da impugnação o tribunal tributário de 1.ª instância da área em que a apreensão tiver sido efectuada.
+
+4 - Tem legitimidade para a impugnação prevista neste artigo o proprietário ou detentor dos bens apreendidos.
+
+5 - Sempre que as leis tributárias exijam a notificação dos actos de apreensão às pessoas referidas no número anterior, o prazo da impugnação conta-se a partir dessa notificação.
+
+6 - Estando pendente processo contra-ordenacional, a decisão judicial da impugnação do acto de apreensão faz caso julgado, considerando-se sempre definitiva a libertação dos bens e meios de transporte, independentemente da decisão quanto às coimas.
+
+7 - A regularização da situação tributária do arguido na pendência do processo de impugnação extingue este.
+
+#### Secção V — Da impugnação das providências cautelares adoptadas pela administração tributária
+
+###### Artigo 144.º — Impugnação das providências cautelares adoptadas pela administração tributária
+
+1 - Sem prejuízo do disposto no artigo anterior, as providências cautelares adoptadas pela administração tributária são impugnáveis no prazo de 15 dias após a sua realização ou o seu conhecimento efectivo pelo interessado, quando posterior, com fundamento em qualquer ilegalidade.
+
+2 - A impugnação é apresentada no tribunal tributário de 1.ª instância da área do serviço da administração tributária que tiver adoptado a providência cautelar.
+
+3 - A impugnação das providências cautelares reveste-se sempre de carácter urgente, precedendo as diligências respectivas a quaisquer outros actos judiciais não urgentes.
+
+4 - No requerimento, deve o contribuinte invocar as razões de facto e de direito que justificam a anulação total ou parcial da providência cautelar.
+
+5 - Antes da decisão, é obrigatoriamente ouvida a administração tributária sobre a necessidade e legalidade da providência.
+
+6 - A impugnação das providências cautelares adoptadas pela administração tributária não tem efeitos suspensivos, devendo, no entanto, até à decisão a administração tributária abster-se da prática de actos que possam comprometer os efeitos úteis do processo.
+
+### Capítulo IV — Acção para o reconhecimento de um direito ou interesse legítimo em matéria tributária
+
+###### Artigo 145.º — Reconhecimento de um direito ou interesse legítimo em matéria tributária
+
+1 - As acções para obter o reconhecimento de um direito ou interesse legalmente protegido em matéria tributária podem ser propostas por quem invoque a titularidade do direito ou interesse a reconhecer.
+
+2 - O prazo da instauração da acção é de 4 anos após a constituição do direito ou o conhecimento da lesão do interessado.
+
+3 - As acções apenas podem ser propostas sempre que esse meio processual for o mais adequado para assegurar uma tutela plena, eficaz e efectiva do direito ou interesse legalmente protegido.
+
+4 - As acções seguem os termos do processo de impugnação, considerando-se na posição de entidade que praticou o acto a que tiver competência para decidir o pedido.
+
+### Capítulo V — Dos meios processuais acessórios
+
+###### Artigo 146.º — Meios processuais acessórios
+
+1 - Para além do meio previsto no artigo seguinte, são admitidos no processo judicial tributário os meios processuais acessórios de intimação para a consulta de documentos e passagem de certidões, de produção antecipada de prova e de execução dos julgados, os quais serão regulados pelo disposto nas normas sobre o processo nos tribunais administrativos.
+
+2 - O prazo para a execução espontânea das sentenças e acórdãos dos tribunais tributários conta-se a partir da data do seu trânsito em julgado.
+
+3 - Cabe aos tribunais tributários de 1.ª instância a apreciação das questões referidas no presente artigo.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+> Alterado pelo/a Artigo 16.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, 3º Suplemento, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01
+
+###### Artigo 146.º-A — Processo especial de derrogação do dever de sigilo bancário
+
+1 - O processo especial de derrogação do dever de sigilo bancário aplica-se às situações legalmente previstas de acesso da administração tributária à informação bancária para fins fiscais.
+
+2 - O processo especial previsto no número anterior reveste as seguintes formas:
+
+a) Recurso interposto pelo contribuinte;
+
+b) (Revogada).
+
+> Alterado pelo/a Artigo 224.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Aditado pelo/a Artigo 16.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, 3º Suplemento, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01
+
+###### Artigo 146.º-B — Tramitação do recurso interposto pelo contribuinte
+
+1 - O contribuinte que pretenda recorrer da decisão da administração tributária que determina o acesso directo à informação bancária que lhe diga respeito deve justificar sumariamente as razões da sua discordância em requerimento apresentado no tribunal tributário de 1.ª instância da área do seu domicílio fiscal.
+
+2 - A petição referida no número anterior deve ser apresentada no prazo de 10 dias a contar da data em que foi notificado da decisão, independentemente da lei atribuir à mesma efeito suspensivo ou devolutivo.
+
+3 - A petição referida no número anterior não obedece a formalidade especial, não tem de ser subscrita por advogado e deve ser acompanhada dos respectivos elementos de prova, que devem revestir natureza exclusivamente documental.
+
+4 - O director-geral dos Impostos ou o director-geral das Alfândegas e dos Impostos Especiais sobre o Consumo são notificados para, querendo, deduzirem oposição no prazo de 10 dias, a qual deve ser acompanhada dos respectivos elementos de prova.
+
+5 - As regras dos números precedentes aplicam-se, com as necessárias adaptações, ao recurso previsto no artigo 89.º-A da Lei Geral Tributária.
+
+> Nota: [Acórdão do Tribunal Constitucional n.º 759/2013 - Diário da República n.º 223/2013, Série I de 2013-11-18](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/759-2013-504145) Declara-se com força obrigatória geral a inconstitucionalidade, por violação dos artigos 20.º, n.º 1, em conjugação com o artigo 18.º, n.º 2, ambos da Constituição, da norma constante da parte final do n.º 3 do artigo 146.º-B do Código de Processo e Procedimento Tributário, aprovado pelo Decreto-Lei n.º 433/99, de 26 de outubro, quando aplicável por força do disposto no n.º 8 do artigo 89.º-A da Lei Geral Tributária, na medida em que exclui em absoluto a produção de prova testemunhal, nos casos em que esta é, em geral, admissível.
+
+> Declarada Inconstitucionalidade pelo/a [Acórdão do Tribunal Constitucional n.º 759/2013 - Diário da República n.º 223/2013, Série I de 2013-11-18](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/759-2013-504145), em vigor a partir de 2001-01-01
+
+> Aditado pelo/a Artigo 16.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, 3º Suplemento, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01
+
+###### Artigo 146.º-C — Tramitação do pedido de autorização da administração tributária
+
+1 - Quando a administração tributária pretenda aceder à informação bancária referente a familiares do contribuinte ou de terceiros com ele relacionados, pode requerer ao tribunal tributário de 1.ª instância da área do domicílio fiscal do visado a respectiva autorização.
+
+2 - O pedido de autorização não obedece a formalidade especial e deve ser acompanhado pelos respectivos elementos de prova.
+
+3 - O visado é notificado para, querendo, deduzir oposição no prazo de 10 dias, a qual deve ser acompanhada dos respectivos elementos de prova.
+
+> Revogado pelo/a Artigo 224.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Aditado pelo/a Artigo 16.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, 3º Suplemento, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01
+
+###### Artigo 146.º-D — Processo urgente
+
+1 - O processo referido no artigo 146.º-B é tramitado como processo urgente.
+
+2 - A decisão judicial deve ser proferida no prazo de três meses a contar da data de apresentação do requerimento inicial.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Aditado pelo/a Artigo 16.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, 3º Suplemento, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01
+
+### Capítulo VI — Da intimação para um comportamento
+
+###### Artigo 147.º — Intimação para um comportamento
+
+1 - Em caso de omissão, por parte da administração tributária, do dever de qualquer prestação jurídica susceptível de lesar direito ou interesse legítimo em matéria tributária, poderá o interessado requerer a sua intimação para o cumprimento desse dever junto do tribunal tributário competente.
+
+2 - O presente meio só é aplicável quando, vistos os restantes meios contenciosos previstos no presente Código, ele for o meio mais adequado para assegurar a tutela plena, eficaz e efectiva dos direitos ou interesses em causa.
+
+3 - No requerimento dirigido ao tribunal tributário de 1.ª instância deve o requerente identificar a omissão, o direito ou interesse legítimo violado ou lesado ou susceptível de violação ou lesão e o procedimento ou procedimentos a praticar pela administração tributária para os efeitos previstos no n.º 1.
+
+4 - A administração tributária pronunciar-se-á sobre o requerimento do contribuinte no prazo de 15 dias, findos os quais o juiz resolverá, intimando, se for caso disso, a administração tributária a reintegrar o direito, reparar a lesão ou adoptar a conduta que se revelar necessária, que poderá incluir a prática de actos administrativos, no prazo que considerar razoável, que não poderá ser inferior a 30 nem superior a 120 dias.
+
+5 - A decisão judicial especificará os actos a praticar para integral cumprimento do dever referido no n.º 1.
+
+6 - Revogado.
+
+> Alterado pelo/a Artigo 11.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+## Título IV — Da execução fiscal
+
+### Capítulo I — Disposições gerais
+
+#### Secção I — Do âmbito
+
+###### Artigo 148.º — Âmbito da execução fiscal
+
+1 - O processo de execução fiscal abrange a cobrança coerciva das seguintes dívidas:
+
+a) Tributos, incluindo impostos aduaneiros, especiais e extrafiscais, taxas, demais contribuições financeiras a favor do Estado, adicionais cumulativamente cobrados, juros e outros encargos legais;
+
+b) Coimas e outras sanções pecuniárias fixadas em decisões, sentenças ou acórdãos relativos a contra-ordenações tributárias, salvo quando aplicadas pelos tribunais comuns.
+
+c) Coimas e outras sanções pecuniárias decorrentes da responsabilidade civil determinada nos termos do Regime Geral das Infracções Tributárias.
+
+2 - Poderão ser igualmente cobradas mediante processo de execução fiscal, nos casos e termos expressamente previstos na lei:
+
+a) Outras dívidas ao Estado e a outras pessoas colectivas de direito público que devam ser pagas por força de acto administrativo;
+
+b) Reembolsos ou reposições;
+
+c) Custas, multas não penais e outras sanções pecuniárias fixadas em processo judicial.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 27/2019 - Diário da República n.º 62/2019, Série I de 2019-03-28](https://diariodarepublica.pt/dr/detalhe/lei/27-2019-121665678), em vigor a partir de 2019-04-27
+
+> Alterado pelo/a Artigo 120.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29
+
+#### Secção II — Da competência
+
+###### Artigo 149.º — Órgão da execução fiscal
+
+Considera-se, para efeitos do presente Código, órgão da execução fiscal o serviço da administração tributária onde deva legalmente correr a execução ou, quando esta deva correr nos tribunais comuns, o tribunal competente.
+
+> Alterado pelo/a Artigo 120.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29
+
+###### Artigo 150.º — Competência territorial
+
+1 - É competente para a execução fiscal a administração tributária.
+
+2 - A instauração e os actos da execução são praticados no órgão da administração tributária designado, mediante despacho, pelo dirigente máximo do serviço.
+
+3 - Na falta de designação referida no número anterior, a instauração e os atos da execução são praticados no órgão periférico regional da área do domicílio ou sede do devedor.
+
+4 - (Revogado).
+
+5 - O dirigente máximo do órgão periférico regional onde deva correr a execução fiscal pode delegar a competência na execução fiscal em qualquer órgão periférico local da sua área de competência territorial.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 100/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/100-2017-108063581), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 126.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+> Alterado pelo/a Artigo 120.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29
+
+###### Artigo 151.º — Competência dos tribunais tributários
+
+1 - Compete ao tribunal tributário de 1.ª instância da área do domicílio ou sede do devedor originário, depois de ouvido o Ministério Público nos termos do presente Código, decidir os incidentes, os embargos, a oposição, incluindo quando incida sobre os pressupostos da responsabilidade subsidiária, e a reclamação dos atos praticados pelos órgãos da execução fiscal.
+
+2 - O disposto no presente artigo não se aplica quando a execução fiscal deva correr nos tribunais comuns, caso em que cabe a estes tribunais o integral conhecimento das questões referidas no número anterior.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 126.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+#### Secção III — Da legitimidade
+
+##### Subsecção I — Da legitimidade dos exequentes
+
+###### Artigo 152.º — Legitimidade dos exequentes
+
+1 - Tem legitimidade para promover a execução das dívidas referidas no artigo 148.º o órgão da execução fiscal.
+
+2 - Quando a execução fiscal correr nos tribunais comuns, a legitimidade para promoção da execução é, nos termos da lei, do Ministério Público.
+
+##### Subsecção II — Da legitimidade dos executados
+
+###### Artigo 153.º — Legitimidade dos executados
+
+1 - Podem ser executados no processo de execução fiscal os devedores originários e seus sucessores dos tributos e demais dívidas referidas no artigo 148.º, bem como os garantes que se tenham obrigado como principais pagadores, até ao limite da garantia prestada.
+
+2 - O chamamento à execução dos responsáveis subsidiários depende da verificação de qualquer das seguintes circunstâncias:
+
+a) Inexistência de bens penhoráveis do devedor e seus sucessores;
+
+b) Fundada insuficiência, de acordo com os elementos constantes do auto de penhora e outros de que o órgão da execução fiscal disponha, do património do devedor para a satisfação da dívida exequenda e acrescido.
+
+###### Artigo 154.º — Legitimidade do cabeça-de-casal
+
+Se, no decurso do processo de execução, falecer o executado, são válidos todos os actos praticados pelo cabeça-de-casal independentemente da habilitação de herdeiros nos termos do presente Código.
+
+###### Artigo 155.º — Partilha entre sucessores
+
+1 - Tendo-se verificado a partilha entre os sucessores da pessoa que no título figurar como devedor, o órgão da execução fiscal ordenará, para efeito de citação dos herdeiros, a destrinça da parte que cada um deles deva pagar.
+
+2 - Em relação a cada devedor será processada guia ou documento equivalente em triplicado, com a indicação de que foi passada nos termos deste artigo, servindo um dos exemplares de recibo ao contribuinte.
+
+3 - Para efeito dos números anteriores, quando quem realizar a citação verificar que o executado faleceu, prestará informação em que declare:
+
+a) No caso de ter havido partilhas, os herdeiros e as suas quotas hereditárias;
+
+b) Não tendo havido partilhas, os herdeiros, caso sejam conhecidos, e se está pendente inventário.
+
+4 - No caso da alínea a) do número anterior será mandado citar cada um dos herdeiros para pagar o que proporcionalmente lhe competir na dívida exequenda e, no da alínea b), citar-se-á, respectivamente, consoante esteja ou não a correr inventário, o cabeça-de-casal ou qualquer dos herdeiros para pagar toda a dívida sob cominação de penhora em quaisquer bens da herança, fazendo-se a citação dos herdeiros incertos por editais.
+
+###### Artigo 156.º — Insolvência do executado
+
+Se o funcionário ou a pessoa que deva realizar o ato verificarem que o executado foi declarado insolvente, o órgão da execução fiscal ordena que a citação se faça na pessoa do liquidatário judicial.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+###### Artigo 157.º — Reversão contra terceiros adquirentes de bens
+
+1 - Na falta ou insuficiência de bens do originário devedor ou dos seus sucessores e se se tratar de dívida com direito de sequela sobre bens que se tenham transmitido a terceiros, contra estes reverterá a execução, salvo se a transmissão se tiver realizado por venda em processo a que a Fazenda Pública devesse ser chamada a deduzir os seus direitos.
+
+2 - Os terceiros só respondem pelo imposto relativo aos bens transmitidos e apenas estes podem ser penhorados na execução, a não ser que aqueles nomeiem outros bens em sua substituição e o órgão da execução fiscal considere não haver prejuízo.
+
+###### Artigo 158.º — Reversão contra possuidores
+
+1 - Se, nos impostos sobre a propriedade mobiliária ou imobiliária, se verificar que a dívida liquidada em nome do actual possuidor, fruidor ou proprietário dos bens respeita a um período anterior ao início dessa posse, fruição ou propriedade, a execução reverterá, nos termos da lei, contra o antigo possuidor, fruidor ou proprietário.
+
+2 - Se, nas execuções referidas no número anterior, se verificar que os títulos de cobrança foram processados em nome do antigo possuidor, fruidor ou proprietário, o funcionário ou outra pessoa que deva realizar a citação informará quem foi o possuidor, fruidor ou proprietário dos bens durante o período a que respeita a dívida exequenda, para que o órgão da execução fiscal o mande citar, se for caso disso, segundo as leis tributárias.
+
+###### Artigo 159.º — Reversão no caso de substituição tributária
+
+No caso de substituição tributária e na falta ou insuficiência de bens do devedor, a execução reverterá contra os responsáveis subsidiários.
+
+###### Artigo 160.º — Reversão no caso de pluralidade de responsáveis subsidiários
+
+1 - Quando a execução reverta contra responsáveis subsidiários, o órgão da execução fiscal mandá-los-á citar todos, depois de obtida informação no processo sobre as quantias por que respondem.
+
+2 - A falta de citação de qualquer dos responsáveis não prejudica o andamento da execução contra os restantes.
+
+3 - Se o pagamento não for efectuado dentro do prazo ou decaírem na oposição deduzida, os responsáveis subsidiários suportarão, além das custas a que tenham dado causa, as que forem devidas pelos originários devedores.
+
+###### Artigo 161.º — Reversão da execução contra funcionários
+
+1 - Os funcionários que intervierem no processo ficarão subsidiariamente responsáveis, pela importância das dívidas que não puderam ser cobradas, por qualquer dos seguintes actos, desde que dolosamente praticados:
+
+a) Quando, por terem dado causa à instauração tardia da execução, por passarem mandado para penhora fora do prazo legal ou por não o terem cumprido atempadamente, não forem encontrados bens suficientes ao executado ou aos responsáveis;
+
+b) Quando, sendo conhecidos bens penhoráveis, lavrarem auto de diligência a testar a sua inexistência;
+
+c) Quando possibilitem um novo estado de insolvência por não informarem nas execuções declaradas em falhas que os devedores ou responsáveis adquiriram posteriormente bens penhoráveis.
+
+2 - A responsabilidade subsidiária do funcionário só poderá ser exercida após condenação em processo disciplinar pelos factos referidos no número anterior.
+
+#### Secção IV — Dos títulos executivos
+
+###### Artigo 162.º — Espécies de títulos executivos
+
+Só podem servir de base à execução fiscal os seguintes títulos executivos:
+
+a) Certidão extraída do título de cobrança relativa a tributos e outras receitas do Estado;
+
+b) Certidão de decisão exequível proferida em processo de aplicação das coimas;
+
+c) Certidão do acto administrativo que determina a dívida a ser paga;
+
+d) Qualquer outro título a que, por lei especial, seja atribuída força executiva.
+
+###### Artigo 163.º — Requisitos dos títulos executivos
+
+1 - São requisitos essenciais dos títulos executivos:
+
+a) Menção da entidade emissora ou promotora da execução;
+
+b) Assinatura da entidade emissora ou promotora da execução, por chancela nos termos do presente Código ou, preferencialmente, através de aposição de assinatura electrónica avançada;
+
+c) Data em que foi emitido;
+
+d) Nome e número de contribuinte do ou dos devedores;
+
+e) Natureza e proveniência da dívida e indicação do seu montante.
+
+2 - No título executivo deve ainda indicar-se a data a partir da qual são devidos juros de mora e a importância sobre que incidem, devendo, na sua falta, esta indicação ser solicitada à entidade competente.
+
+3 - Os títulos executivos são emitidos por via electrónica e, quando provenientes de entidades externas, devem, preferencialmente, ser entregues à administração tributária por transmissão electrónica de dados, valendo nesse caso como assinatura a certificação de acesso.
+
+4 - A aposição da assinatura electrónica avançada deve ser realizada de acordo com os requisitos legais e regulamentares exigíveis pelo Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 93.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 41.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+###### Artigo 164.º — Elementos que acompanham o título executivo
+
+A entidade promotora da execução pode juntar ao título executivo, se o entender necessário, uma nota de que conste o resumo da situação que serviu de base à instauração do processo.
+
+#### Secção V — Das nulidades processuais
+
+###### Artigo 165.º — Nulidades. Regime
+
+1 - São nulidades insanáveis em processo de execução fiscal:
+
+a) A falta de citação, quando possa prejudicar a defesa do interessado;
+
+b) A falta de requisitos essenciais do título executivo, quando não puder ser suprida por prova documental.
+
+2 - As nulidades dos actos têm por efeito a anulação dos termos subsequentes do processo que deles dependam absolutamente, aproveitando-se as peças úteis ao apuramento dos factos.
+
+3 - Se o respectivo representante tiver sido citado, a nulidade por falta de citação do inabilitado por prodigalidade só invalidará os actos posteriores à penhora.
+
+4 - As nulidades mencionadas são de conhecimento oficioso e podem ser arguidas até ao trânsito em julgado da decisão final.
+
+#### Secção VI — Dos incidentes e impugnações
+
+###### Artigo 166.º — Incidentes da instância e impugnações
+
+1 - São admitidos no processo de execução fiscal os seguintes incidentes:
+
+a) Embargos de terceiros;
+
+b) Habilitação de herdeiros;
+
+c) Apoio judiciário.
+
+2 - À impugnação da genuinidade de qualquer documento aplica-se o disposto no n.º 4 do artigo 115.º
+
+###### Artigo 167.º — Incidente de embargos de terceiros
+
+O incidente dos embargos de terceiros, quando não forem liminarmente indeferidos na parte que não estiver regulada no presente Código, rege-se pelas disposições aplicáveis à oposição à execução.
+
+###### Artigo 168.º — Incidente de habilitação de herdeiros
+
+1 - No caso de falecimento do executado, será informado no processo quem são os herdeiros, nos termos do n.º 3 do artigo 155.º
+
+2 - O disposto no número anterior aplica-se à habilitação das sucessões do embargante e do credor reclamante de créditos.
+
+#### Secção VII — Da suspensão, interrupção e extinção do processo
+
+###### Artigo 169.º — Suspensão da execução. Garantias
+
+1 - A execução fica suspensa até à decisão do pleito em caso de reclamação graciosa, a impugnação judicial ou recurso judicial que tenham por objeto a legalidade da dívida exequenda, bem como durante os procedimentos de resolução de diferendos no quadro da Convenção de Arbitragem 90/436/CEE, de 23 de julho, relativa à eliminação da dupla tributação em caso de correção de lucros entre empresas associadas de diferentes Estados-Membros, ou de convenção para evitar a dupla tributação, desde que tenha sido constituída garantia nos termos do artigo 195.º ou prestada nos termos do artigo 199.º ou a penhora garanta a totalidade da quantia exequenda e do acrescido, o que deve ser informado no processo pelo funcionário competente.
+
+2 - A execução fica igualmente suspensa, desde que, após o termo do prazo de pagamento voluntário, seja prestada garantia antes da apresentação do meio gracioso ou judicial correspondente, acompanhada de requerimento em que conste a natureza da dívida, o período a que respeita e a entidade que praticou o acto, bem como a indicação da intenção de apresentar meio gracioso ou judicial para discussão da legalidade ou da exigibilidade da dívida exequenda.
+
+3 - A execução fica ainda suspensa, por um período máximo de 120 dias, contados a partir do termo do prazo de pagamento voluntário, para dívidas tributárias em execução fiscal de valor inferior a 5000 (euro) para pessoas singulares, ou 10 000 (euro) para pessoas coletivas, independentemente da prestação de garantia ou de apresentação de requerimento, até à apresentação do meio gracioso ou judicial correspondente, cessando este efeito quinze dias após a sua apresentação, se não for apresentada a competente garantia ou obtida a sua dispensa.
+
+4 - O requerimento a que se refere o n.º 2 dá início a um procedimento, que é extinto se, no prazo legal, não for apresentado o correspondente meio processual e comunicado esse facto ao órgão competente para a execução.
+
+5 - Extinto o procedimento referido no número anterior, aplica-se o disposto no n.º 2 do artigo 200.º
+
+6 - A execução fica ainda suspensa até à decisão que venha a ser proferida no âmbito dos procedimentos a que se referem os artigos 90.º e 90.º-A.
+
+7 - Se não houver garantia constituída ou prestada, nem penhora, ou os bens penhorados não garantirem a dívida exequenda e acrescido, é disponibilizado no portal das finanças na Internet, mediante acesso restrito ao executado, ou através do órgão da execução fiscal, a informação relativa aos montantes da dívida exequenda e acrescido, bem como da garantia a prestar, apenas se suspendendo a execução quando da sua efectiva prestação.
+
+8 - Caso no prazo de 15 dias, a contar da apresentação de qualquer dos meios de reacção previstos neste artigo, não tenha sido apresentada garantia idónea ou requerida a sua dispensa, procede-se de imediato à penhora.
+
+9 - Quando a garantia constituída nos termos do artigo 195.º, ou prestada nos termos do artigo 199.º, se tornar insuficiente é ordenada a notificação do executado dessa insuficiência e da obrigação de reforço ou prestação de nova garantia idónea no prazo de 15 dias, sob pena de ser levantada a suspensão da execução.
+
+10 - O executado que não der conhecimento da existência de processo que justifique a suspensão da execução responderá pelas custas relativas ao processado posterior à penhora.
+
+11 - (Revogado).
+
+12 - Se for apresentada oposição à execução, aplica-se o disposto nos n.os 1 a 8.
+
+13 - Considera-se que têm a situação tributária regularizada os contribuintes que obtenham a suspensão do processo de execução fiscal nos termos do presente artigo, sem prejuízo do disposto quanto à dispensa de garantia.
+
+14 - O valor da garantia é o que consta da citação, nos casos em que seja apresentada nos 30 dias posteriores à citação.
+
+> Nota: [Artigo 17.º, Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130) A Lei n.º 7/2021, de 26 de fevereiro, dispõe os n.os 3 a 10 e 12 a 14 do artigo 169.º entram em vigor a 1 de julho de 2021.
+
+> Nota: [Artigo 154.º, Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769) A alteração efetuada a este artigo pela Lei 64-B/2011, de 30 de dezembro, tem aplicação imediata em todos os processos de execução fiscal que se encontrem pendentes a partir da sua entrada em vigor (01-01-2012).
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130)
+
+> Alterado pelo/a Artigo 296.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 120.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29
+
+> Alterado pelo/a Artigo 84.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01
+
+> Alterado pelo/a Artigo 44.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, 2º Suplemento, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2013-01-01
+
+###### Artigo 170.º — Dispensa da prestação de garantia
+
+1 - Quando a garantia possa ser dispensada nos termos previstos na lei, deve o executado requerer a dispensa ao órgão da execução fiscal no prazo de 15 dias a contar da apresentação de meio de reacção previsto no artigo anterior.
+
+2 - Caso o fundamento da dispensa da garantia seja superveniente ao termo daquele prazo, deve a dispensa ser requerida no prazo de 30 dias após a sua ocorrência.
+
+3 - O pedido a dirigir ao órgão da execução fiscal deve ser fundamentado de facto e de direito e instruído com a prova documental necessária.
+
+4 - O pedido de dispensa de garantia será resolvido no prazo de 10 dias após a sua apresentação.
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 171.º — Indemnização em caso de garantia indevida
+
+1 - A indemnização em caso de garantia bancária ou equivalente indevidamente prestada será requerida no processo em que seja controvertida a legalidade da dívida exequenda.
+
+2 - A indemnização deve ser solicitada na reclamação, impugnação ou recurso ou em caso de o seu fundamento ser superveniente no prazo de 30 dias após a sua ocorrência.
+
+###### Artigo 172.º — Suspensão da execução em virtude de acção judicial sobre os bens penhorados
+
+A acção judicial que tenha por objecto a propriedade ou posse dos bens penhorados suspende a execução quanto a esses bens, sem prejuízo de continuar noutros bens.
+
+###### Artigo 173.º — Suspensão da execução nos órgãos da execução fiscal deprecado
+
+A suspensão da execução poderá decretar-se no órgão da execução fiscal deprecado, se este dispuser dos elementos necessários e aí puder ser efectuada a penhora.
+
+###### Artigo 174.º — Impossibilidade da deserção
+
+1 - A interrupção do processo de execução fiscal nunca dá causa à deserção.
+
+2 - O executado será notificado quando a execução prossiga a requerimento do sub-rogado.
+
+###### Artigo 175.º — Prescrição ou duplicação de colecta
+
+A prescrição ou duplicação da colecta serão conhecidas oficiosamente pelo juiz se o órgão da execução fiscal que anteriormente tenha intervido o não tiver feito.
+
+###### Artigo 176.º — Extinção do processo
+
+1 - O processo de execução fiscal extingue-se:
+
+a) Por pagamento da quantia exequenda e do acrescido;
+
+b) Por anulação da dívida ou do processo;
+
+c) Por qualquer outra forma prevista na lei.
+
+2 - Nas execuções por coimas ou outras sanções pecuniárias o processo executivo extingue-se também:
+
+a) Por morte do infractor;
+
+b) Por amnistia da contra-ordenação;
+
+c) Pela prescrição das coimas e sanções acessórias;
+
+d) Pela anulação da decisão condenatória em processo de revisão.
+
+3 - O disposto na alínea a) do n.º 1 não prejudica o controlo jurisdicional da atividade do órgão de execução fiscal, nos termos legais, caso se mantenha a utilidade da apreciação da lide.
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+###### Artigo 177.º — Prazo de extinção da execução
+
+A extinção da execução verificar-se-á dentro de um ano contado da instauração, salvo causas insuperáveis, devidamente justificadas.
+
+###### Artigo 177.º-A — Situação tributária regularizada
+
+1 - Considera-se que o contribuinte tem a situação tributária regularizada quando se verifique um dos seguintes requisitos:
+
+a) Não seja devedor de quaisquer impostos ou outras prestações tributárias e respetivos juros;
+
+b) Esteja autorizado ao pagamento da dívida em prestações, desde que exista garantia constituída, nos termos legais;
+
+c) Tenha pendente meio de contencioso adequado à discussão da legalidade ou exigibilidade da dívida exequenda e o processo de execução fiscal tenha garantia constituída, nos termos legais;
+
+d) Tenha a execução fiscal suspensa, nos termos do n.º 2 do artigo 169.º, havendo garantia constituída, nos termos legais.
+
+2 - À constituição de garantia é equiparada, para estes efeitos, a sua dispensa e a sua caducidade.
+
+> Alterado pelo/a Artigo 175.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Aditado pelo/a Artigo 223.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+###### Artigo 177.º-B — Efeitos de não regularização da situação tributária
+
+Sem prejuízo do disposto noutras disposições legais, aos contribuintes que não tenham a sua situação tributária regularizada é vedado:
+
+a) Celebrar contratos de fornecimentos, empreitadas de obras públicas ou aquisição de serviços e bens com o Estado, regiões autónomas, institutos públicos, autarquias locais e instituições particulares de solidariedade social maioritariamente financiadas pelo Orçamento do Estado, bem como renovar o prazo dos contratos já existentes;
+
+b) Concorrer à concessão de serviços públicos;
+
+c) Fazer cotar em bolsa de valores os títulos representativos do seu capital social;
+
+d) Lançar ofertas públicas de venda do seu capital ou alienar em subscrição pública títulos de participação, obrigações ou ações;
+
+e) Beneficiar dos apoios de fundos europeus estruturais e de investimento e públicos;
+
+f) Distribuir lucros do exercício ou fazer adiantamentos sobre lucros no decurso do exercício.
+
+> Aditado pelo/a Artigo 223.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+###### Artigo 177.º-C — Comprovação de situação tributária
+
+A comprovação da situação tributária apenas pode ser efetuada mediante a prestação de consentimento do próprio sujeito passivo a que se refere o artigo 4.º do Decreto-Lei n.º 114/2007, de 19 de abril, quando diga respeito às seguintes pessoas:
+
+a) As que participem nos procedimentos administrativos referidos no Decreto-Lei n.º 114/2007, de 19 de abril;
+
+b) Os sujeitos passivos abrangidos pela obrigação prevista no n.º 10 do artigo 19.º da LGT.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2016 - Diário da República n.º 125/2016, Série I de 2016-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2016-74843513), em vigor a partir de 2016-07-02
+
+> Aditado pelo/a Artigo 223.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+### Capítulo II — Do processo
+
+#### Secção I — Disposições gerais
+
+###### Artigo 178.º — Coligação de exequentes
+
+1 - A administração tributária pode coligar-se, em processo de execução, às instituições do sistema de solidariedade e segurança social.
+
+2 - A coligação é decidida pelos membros do Governo competentes ou por aqueles em quem estes delegarem.
+
+3 - O processo de execução é instaurado e instruído pelo maior credor.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 179.º — Apensação de execuções
+
+1 - Correndo contra o mesmo executado várias execuções, nos termos deste Código, serão apensadas, oficiosamente ou a requerimento dele, quando se encontrarem na mesma fase.
+
+2 - A apensação será feita à mais adiantada dessas execuções.
+
+3 - A apensação não se verifica quando a administração tributária considerar, fundamentadamente, que prejudica o cumprimento de formalidades especiais.
+
+4 - Procede-se à desapensação de qualquer das execuções apensadas, quando se considere, fundamentadamente, que a manutenção da sua apensação prejudica o andamento das restantes.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+###### Artigo 180.º — Efeito do processo de recuperação da empresa e de insolvência na execução fiscal
+
+1 - Proferido o despacho judicial de prosseguimento da ação de recuperação da empresa ou declarada a insolvência, são sustados os processos de execução fiscal que se encontrem pendentes e todos os que de novo vierem a ser instaurados contra a mesma empresa, logo após a sua instauração.
+
+2 - O tribunal judicial competente avoca os processos de execução fiscal pendentes, os quais são apensados ao processo de recuperação ou ao processo de insolvência, onde o Ministério Público reclama o pagamento dos respetivos créditos pelos meios aí previstos, se não estiver constituído mandatário especial.
+
+3 - Os processos de execução fiscal, antes de remetidos ao tribunal judicial, serão contados, fazendo-se neles o cálculo dos juros de mora devidos.
+
+4 - Os processos de execução fiscal avocados são devolvidos no prazo de oito dias, quando cesse o processo de recuperação ou logo que finde o de insolvência.
+
+5 - Se a empresa, o insolvente ou os responsáveis subsidiários vierem a adquirir bens em qualquer altura, o processo de execução fiscal prossegue para cobrança do que se mostre em dívida à Fazenda Pública, sem prejuízo das obrigações contraídas por esta no âmbito do processo de recuperação, bem como sem prejuízo da prescrição.
+
+6 - O disposto neste artigo não se aplica aos créditos vencidos após a declaração de insolvência ou despacho de prosseguimento da ação de recuperação da empresa, que seguirão os termos normais até à extinção da execução.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+###### Artigo 181.º — Deveres tributários do administrador judicial da insolvência
+
+1 - (Revogado).
+
+2 - No prazo de 10 dias, a contar da notificação da sentença que tiver declarado a insolvência ou da citação que lhe tenha sido feita em processo de execução fiscal, o administrador da insolvência requer, sob pena de incorrer em responsabilidade subsidiária, a avocação dos processos em que o insolvente seja executado ou responsável e que se encontrem pendentes nos órgãos da execução fiscal do seu domicílio, e daqueles onde tenha bens ou exerça comércio ou indústria, a fim de serem apensados ao processo de insolvência.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 100/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/100-2017-108063581), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 50.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, 2º Suplemento, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+###### Artigo 182.º — Impossibilidade da declaração de insolvência
+
+1 - Em processo de execução fiscal não pode ser declarada a insolvência do executado.
+
+2 - Sem prejuízo do disposto no número anterior e da prossecução da execução fiscal contra os responsáveis solidários ou subsidiários, quando os houver, o órgão da execução fiscal, em caso de concluir pela inexistência ou fundada insuficiência dos bens penhoráveis do devedor para o pagamento da dívida exequenda e acrescido, comunica o facto ao representante do Ministério Público competente para que apresente o pedido da declaração de insolvência no tribunal competente, sem prejuízo da possibilidade de apresentação do pedido por mandatário especial.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130)
+
+###### Artigo 183.º — Garantia. Local da prestação. Levantamento
+
+1 - Se houver lugar a qualquer forma de garantia, esta é prestada junto do órgão da execução fiscal onde pender o processo respetivo, nos termos estabelecidos no presente Código.
+
+2 - A garantia poderá ser levantada oficiosamente ou a requerimento de quem a haja prestado, logo que no processo que a determinou tenha transitado em julgado decisão favorável ao garantido ou haja pagamento da dívida.
+
+3 - O levantamento pode ser total ou parcial consoante o conteúdo da decisão ou o pagamento efectuado.
+
+4 - Para o levantamento da garantia não é exigida prova de quitação com a Fazenda Pública.
+
+5 - Se o levantamento for requerido pelos sucessores de quem tenha prestado a caução, deverão estes provar essa qualidade e que se encontra pago ou assegurado o imposto devido pela transmissão da quantia ou valores a levantar.
+
+> Alterado pelo/a Artigo 296.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+###### Artigo 183.º-A — Caducidade de garantia
+
+1 - A garantia prestada para suspender a execução em caso de reclamação graciosa, impugnação judicial ou oposição caduca:
+
+a) Automaticamente se a reclamação graciosa não estiver decidida no prazo de um ano a contar da data da sua interposição;
+
+b) Se na impugnação judicial ou na oposição não tiver sido proferida decisão em 1.ª instância no prazo de quatro anos a contar da data da sua apresentação e o interessado apresente requerimento no processo.
+
+2 - As situações previstas no número anterior são independentes de a garantia ter sido prestada pelo contribuinte ou constituída pela Autoridade Tributária e Aduaneira.
+
+3 - O requerimento mencionado na alínea b) do n.º 1 é submetido à apreciação do tribunal competente, devendo ser determinada em decisão fundamentada, após audição da administração tributária, a caducidade da garantia ou a sua manutenção por um período máximo adicional não renovável até dois anos, caso dos elementos do processo seja possível perceber o risco de prejuízo sério para o Estado.
+
+4 - Os prazos referidos no n.º 1 são acrescidos em seis meses quando houver recurso a prova pericial.
+
+5 - O regime dos números anteriores não se aplica se o atraso na decisão resultar de motivo imputável ao reclamante, impugnante, recorrente ou executado.
+
+6 - A verificação da caducidade cabe:
+
+a) No caso de reclamação graciosa, ao órgão competente para a decidir ou;
+
+b) Ao tribunal tributário de 1.ª instância onde estiver pendente a impugnação, recurso ou oposição.
+
+7 - Para aplicação da alínea a) do número anterior o interessado apresenta requerimento e a decisão é proferida no prazo de 30 dias.
+
+8 - Não sendo a decisão proferida no prazo previsto no n.º 7, considera-se o requerimento tacitamente deferido.
+
+9 - Em caso de deferimento expresso ou tácito, o órgão da execução fiscal deverá promover, no prazo de cinco dias, o cancelamento da garantia.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 40/2008 - Diário da República n.º 154/2008, Série I de 2008-08-11](https://diariodarepublica.pt/dr/detalhe/lei/40-2008-455641), em vigor a partir de 2009-01-01
+
+> Revogado pelo/a Artigo 94.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 44.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, 2º Suplemento, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2013-01-01
+
+> Aditado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 183.º-B — Caducidade da garantia por decisão em 1.ª instância
+
+1 - A garantia prestada para suspender o processo de execução fiscal caduca se na ação de impugnação judicial ou de oposição o garantido obtiver decisão integralmente favorável em 1.ª instância.
+
+2 - O cancelamento da garantia cabe ao órgão de execução fiscal, oficiosamente, no prazo de 30 dias após a notificação da decisão a que se refere o número anterior.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+> Aditado pelo/a Artigo 230.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+###### Artigo 184.º — Registo das execuções fiscais
+
+1 - O registo dos processos será efectuado:
+
+a) Nas relações que acompanham as certidões de dívidas ao Estado ou em livro de modelo a aprovar;
+
+b) No livro, de modelo a aprovar, de outras execuções ou então nas relações que acompanham as certidões;
+
+c) No livro, de modelo a aprovar, das cartas precatórias recebidas.
+
+2 - Os registos serão efectuados por ordem numérica e cronológica anual, podendo ser processados por meios informáticos.
+
+3 - As relações a organizar pelas diversas entidades conterão colunas próprias para a inserção do número do processo e averbamento de arquivo, tal como consta dos livros de registo.
+
+4 - Os livros terão termo de abertura e de encerramento assinados pelo órgão da execução fiscal, que também rubricará todas as folhas depois de numeradas, podendo fazê-lo por chancela.
+
+###### Artigo 185.º — Formalidades das diligências
+
+1 - No processo de execução fiscal, as diligências a solicitar a outros tribunais ou autoridades sê-lo-ão por simples ofício ou por outros meios simplificados previstos na legislação processual civil, salvo nos seguintes casos, em que se empregará carta precatória:
+
+a) Para citação;
+
+b) Para penhora, que não seja de dinheiro ou outros valores depositados à ordem de qualquer autoridade nas instituições de crédito;
+
+c) Para cada um dos aludidos actos e termos subsequentes;
+
+d) Para inquirição ou declarações.
+
+2 - No procedimento de execução informatizado, todos os actos e diligências do procedimento são efectuados pelo titular do órgão competente para a execução fiscal, sem prejuízo da solicitação referida no número anterior, quando se revele mais eficaz para a cobrança da dívida.
+
+3 - Nos casos referidos no número anterior a administração tributária disponibiliza, por meios electrónicos, às entidades referidas no n.º 1 e para a prática dos actos nele referidos, todos os elementos necessários à realização e à confirmação das respectivas diligências.
+
+> Alterado pelo/a Artigo 126.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 238/2006 - Diário da República n.º 243/2006, Série I de 2006-12-20](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2007-01-01
+
+###### Artigo 186.º — Carta precatória extraída de execução
+
+1 - Na carta precatória extraída de execução que possa ser paga no órgão da execução fiscal deprecado indicar-se-á a proveniência e montante da dívida a data em que começaram a vencer-se juros de mora e a importância das custas contadas no órgão da execução fiscal deprecante até à data da expedição, juntando-se, se for caso disso, cópia da nota referida no presente Código.
+
+2 - A carta só será devolvida depois de contadas as custas.
+
+3 - Poderá não ter lugar o envio de carta precatória se for mais vantajoso para a execução e o órgão da execução fiscal a ser deprecado fizer parte da área do órgão regional em que se integre o órgão da execução fiscal deprecante.
+
+4 - Nos casos referidos no n.º 3 as diligências serão efectuadas pelo próprio órgão da execução fiscal deprecante ou pelo funcionário em quem este, com autorização do órgão periférico regional da administração tributária, tenha delegado essa competência.
+
+5 - Nos processos informatizados, a emissão da carta precatória, quando a ela haja lugar, resulta de procedimento electrónico onde fica registado o acto de emissão pelo órgão deprecante e todos os actos praticados no órgão deprecado, operando este directamente no processo.
+
+Artigo 188.º
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 238/2006 - Diário da República n.º 243/2006, Série I de 2006-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2006-552372), em vigor a partir de 2007-01-01
+
+###### Artigo 187.º — Carta rogatória
+
+1 - A carta rogatória será acompanhada de uma nota em que se indique a natureza da dívida, o tempo a que respeita e o facto que a originou.
+
+2 - Quando se levantem dúvidas sobre a expedição de carta rogatória, o órgão da execução fiscal consultará, nos termos da lei, os serviços competentes do Ministério dos Negócios Estrangeiros.
+
+#### Secção II — Da instauração e citação
+
+###### Artigo 188.º — Instauração e autuação da execução
+
+1 - Instaurada a execução, mediante despacho a lavrar no ou nos respectivos títulos executivos ou em relação destes, no prazo de 24 horas após o recebimento e efectuado o competente registo, o órgão da execução fiscal ordenará a citação do executado.
+
+2 - Serão autuadas conjuntamente todas as certidões de dívidas que se encontrem no órgão da execução fiscal à data da instauração e que tenham sido extraídas contra o mesmo devedor.
+
+3 - Nos processos informatizados, a instauração é efectuada electronicamente, com a emissão do título executivo, sendo de imediato efectuada a citação.
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 238/2006 - Diário da República n.º 243/2006, Série I de 2006-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2006-552372), em vigor a partir de 2007-01-01
+
+###### Artigo 189.º — Efeitos e função das citações
+
+1 - A citação comunica ao devedor os prazos para oposição à execução e para requerer a dação em pagamento, e que o pedido de pagamento em prestações pode ser requerido até à marcação da venda.
+
+2 - (Revogado).
+
+3 - O executado pode, até ao termo do prazo de oposição à execução, requerer a dação em pagamento nos termos da secção v do presente capítulo.
+
+4 - O pedido de dação em pagamento poderá, no entanto, ser cumulativo com o do pagamento em prestações, ficando este suspenso até aquele ser decidido pelo ministro ou órgão executivo competente.
+
+5 - Se os bens oferecidos em dação não forem suficientes para o pagamento da dívida exequenda, pode o excedente beneficiar do pagamento em prestações nos termos do presente título.
+
+6 - Caso se vençam as prestações, nos termos previstos no n.º 1 do artigo 200.º, ou logo que notificado o indeferimento do pedido do pagamento em prestações ou da dação em pagamento, prossegue de imediato o processo de execução.
+
+7 - (Revogado).
+
+8 - Nos casos de suspensão da instância, pela pendência de reclamação graciosa, impugnação, recurso judicial ou oposição sobre o objecto da dívida exequenda, pode o executado, no prazo de 15 dias após a notificação da decisão neles proferida, requerer o pagamento em prestações ou solicitar a dação em
+
+pagamento.
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 120.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29
+
+> Alterado pelo/a Artigo 93.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01
+
+###### Artigo 190.º — Formalidades das citações
+
+1 - A citação deve conter os elementos previstos nas alíneas a), c), d) e e) do n.º 1 do artigo 163.º do presente Código ou, em alternativa, ser acompanhada de cópia do título executivo.
+
+2 - A citação é sempre acompanhada da nota indicativa do prazo para oposição, ou para dação em pagamento, nos termos do presente título, bem como da indicação de que, nos casos referidos no artigo 169.º e no artigo 52.º da lei geral tributária, a suspensão da execução e a regularização da situação tributária dependem da efectiva existência de garantia idónea, cujo valor deve constar da citação, ou em alternativa da obtenção de autorização da sua dispensa.
+
+3 - Quando a citação for por mandado, entregar-se-á ao executado uma nota nos termos do número anterior, de tudo se lavrando certidão, que será assinada pelo citando e pelo funcionário encarregado da diligência.
+
+4 - Quando, por qualquer motivo, a pessoa citada não assinar ou a citação não puder realizar-se, intervirão duas testemunhas, que assinarão se souberem e puderem fazê-lo.
+
+5 - A citação poderá ser feita na pessoa do legal representante do executado, nos termos do Código de Processo Civil.
+
+6 - Sem prejuízo do disposto nos números anteriores, só ocorre falta de citação quando o respectivo destinatário alegue e demonstre que não chegou a ter conhecimento do acto por motivo que lhe não foi imputável.
+
+7 - Nos casos de dívidas cobradas no mesmo processo de execução fiscal, os elementos da citação previstos no n.º 1 podem referir-se à globalidade das dívidas, indicando a sua natureza, o ano ou período a que se reportam e o seu montante global, considerando-se os executados apenas citados, nestes casos, no quinto dia posterior à citação efetuada nos termos dos artigos seguintes.
+
+8 - Sem prejuízo do disposto no número anterior, as citações assim efetuadas contêm a referência de que os elementos relativos a cada uma das dívidas podem ser consultados no Portal das Finanças ou, no caso de sujeitos passivos não abrangidos pela obrigação prevista no n.º 10 do artigo 19.º da Lei Geral Tributária ou que não tenham optado por aderir ao serviço de caixa postal eletrónica, e desde que não possuam senha de acesso ao Portal das Finanças, gratuitamente, junto do órgão de execução fiscal.
+
+> Alterado pelo/a Artigo 175.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 41.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+###### Artigo 191.º — Citações por via postal
+
+1 - Nos processos de execução fiscal cuja quantia exequenda não exceda 500 unidades de conta, a citação efetua-se, mediante via postal simples, aplicando-se-lhe as regras do artigo anterior, com as necessárias adaptações.
+
+2 - A citação referida no número anterior é feita por via postal registada quando a dívida exequenda for superior a 50 vezes a unidade de conta.
+
+3 - A citação é pessoal:
+
+a) Nos casos não referidos nos números anteriores;
+
+b) Na efetivação da responsabilidade solidária ou subsidiária;
+
+c) Quando houver necessidade de proceder à venda de bens;
+
+d) Quando o órgão de execução fiscal a considerar mais eficaz para a cobrança da dívida.
+
+4 - As citações referidas no presente artigo podem ser efetuadas para o domicílio fiscal eletrónico ou na respetiva área reservada do Portal das Finanças, valendo como citação pessoal.
+
+5 - [Revogado.]
+
+6 - As citações efetuadas para o domicílio fiscal eletrónico ou na área reservada do Portal das Finanças consideram-se efetuadas no 5.º dia posterior ao registo de disponibilização daquelas no sistema de suporte ao serviço público de notificações eletrónicas associado à morada única digital, na caixa postal eletrónica ou na respetiva área reservada do Portal das Finanças.
+
+7 - A presunção do número anterior só pode ser ilidida pelo citado quando, por facto que não lhe seja imputável, a citação ocorrer em data posterior à presumida e nos casos em que se comprove que o contribuinte comunicou a alteração daquela nos termos do artigo 43.º
+
+8 - As citações efectuadas por transmissão electrónica de dados são sempre autenticadas com a assinatura electrónica avançada certificada nos termos previstos pelo Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas, da entidade competente.
+
+> Alterado pelo/a Artigo 296.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 93/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2017-107791615), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 175.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 120.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29
+
+> Alterado pelo/a Artigo 84.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01
+
+###### Artigo 192.º — Citações pessoal e edital
+
+1 - As citações pessoais são efetivadas nos termos do Código de Processo Civil, em tudo o que não for especialmente regulado no presente Código.
+
+2 - No caso de a citação pessoal ser efectuada mediante carta registada com aviso de recepção e este vier devolvido ou não vier assinado o respectivo aviso por o destinatário ter recusado a sua assinatura ou não ter procedido, no prazo legal, ao levantamento da carta no estabelecimento postal e não se comprovar que o contribuinte comunicou a alteração do seu domicílio ou sede fiscal, nos termos do artigo 43.º, é repetida a citação, enviando-se nova carta registada com aviso de recepção ao citando, advertindo-o da cominação prevista no número seguinte.
+
+3 - A citação considera-se efectuada, nos termos do artigo anterior, na data certificada pelo distribuidor do serviço postal ou, no caso de ter sido deixado aviso, no 8.º dia posterior a essa data, presumindo-se que o citando teve conhecimento dos elementos que lhe foram deixados, sem prejuízo de fazer prova da impossibilidade de comunicação da alteração do seu domicílio ou sede.
+
+4 - Sendo desconhecida a residência, prestada a informação de que o interessado reside em parte incerta ou devolvida a carta ou postal com a nota de não encontrado, será solicitada, caso o órgão da execução fiscal assim o entender, confirmação das autoridades policiais ou municipais e efectuada a citação ou notificação por meio de éditos, nos termos do disposto neste artigo.
+
+5 - O funcionário que verificar os factos previstos no número anterior passará certidão, que fará assinar pela pessoa de quem tenha recebido a informação respectiva.
+
+6 - Expedida carta precatória para citação e verificada a ausência em parte incerta, compete à entidade deprecante ordenar a citação edital, se for caso disso.
+
+7 - A citação edital é feita por afixação de edital, seguida da publicação de anúncio no Portal das Finanças em acesso público.
+
+8 - O edital é afixado na porta da casa da última residência ou sede que o citando teve no País.
+
+9 - Sendo as citações feitas nos termos e locais dos números anteriores, constam dos éditos, conforme o caso, a natureza dos bens penhorados, o prazo do pagamento e de oposição e a data e o local designado para a venda.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+> Alterado pelo/a Artigo 296.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 84.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01
+
+###### Artigo 193.º — Penhora e venda em caso de citação por postal
+
+1 - Se a citação for efectuada por via postal ou por transmissão electrónica de dados, conforme previsto no artigo 191.º, e o postal não vier devolvido ou, sendo devolvido, não indicar a nova morada do executado e ainda em caso de não acesso à caixa postal electrónica, procede-se à penhora.
+
+2 - A realização da venda depende de prévia citação pessoal.
+
+3 - Se não for conhecida a morada do executado, proceder-se-á à citação edital, nos termos do artigo anterior.
+
+4 - A venda não poderá ter lugar antes de decorridos 30 dias sobre o termo do prazo da oposição à execução e será comunicada nos termos dos números anteriores.
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 120.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29
+
+###### Artigo 194.º — Citação no caso de o citando não ser encontrado
+
+1 - Nas execuções de valor superior a 500 unidades de conta, quando o executado não for encontrado, o funcionário encarregue de proceder à citação começa por averiguar se é conhecida a atual morada do executado e se possui bens penhoráveis.
+
+2 - Se ao executado não forem conhecidos bens penhoráveis e não houver responsáveis solidários ou subsidiários, lavrar-se-á certidão da diligência, a fim de a dívida exequenda ser declarada em falhas, sem prejuízo de quaisquer averiguações ou diligências posteriores.
+
+3 - Se forem encontrados bens penhoráveis, proceder-se-á logo à penhora, seguindo-se as diligências previstas nos n.os 2 e seguintes do artigo 193.º
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 68.º do/a [Lei n.º 3-B/2000 - Diário da República n.º 80/2000, 2º Suplemento, Série I-A de 2000-04-04](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), em vigor a partir de 2000-04-09, produz efeitos a partir de 2000-01-01
+
+#### Secção III — Garantias especiais
+
+###### Artigo 195.º — Constituição de hipoteca legal ou penhor
+
+1 - Quando o interesse da eficácia da cobrança o torne recomendável, o órgão da execução fiscal pode constituir hipoteca legal ou penhor.
+
+2 - A hipoteca legal é constituída com o pedido de registo à conservatória competente, que é efectuado por via electrónica, sempre que possível.
+
+3 - (Revogado).
+
+4 - Para efeitos do n.º 2, os funcionários do órgão da execução fiscal gozam de prioridade de atendimento na conservatória em termos idênticos aos dos advogados ou solicitadores.
+
+5 - O penhor constitui-se por via electrónica ou por auto e é notificado ao devedor nos termos previstos para a citação.
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 93.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01
+
+#### Secção IV — Do pagamento em prestações
+
+###### Artigo 196.º — Pagamento em prestações e outras medidas
+
+1 - As dívidas exigíveis em processo executivo podem ser pagas em prestações mensais e iguais, mediante requerimento a dirigir, até à marcação da venda, ao órgão da execução fiscal, sem prejuízo do disposto no artigo 198.º-A.
+
+2 - O disposto no número anterior não é aplicável às dívidas resultantes da falta de entrega, dentro dos respetivos prazos legais, de imposto retido na fonte ou legalmente repercutido a terceiros, salvo em caso de falecimento do executado.
+
+3 - É excepcionalmente admitida a possibilidade de pagamento em prestações das dívidas referidas no número anterior, sem prejuízo da responsabilidade contra-ordenacional ou criminal que ao caso couber, quando:
+
+a) O pagamento em prestações se inclua em plano de recuperação no âmbito de processo de insolvência ou de processo especial de revitalização, ou em acordo sujeito ao regime extrajudicial de recuperação de empresas em execução ou em negociação, e decorra do plano ou do acordo, consoante o caso, a imprescindibilidade da medida, podendo neste caso haver lugar a dispensa da obrigação de substituição dos administradores ou gerentes, se tal for tido como adequado pela entidade competente para autorizar o plano; ou
+
+b) Se demonstre a dificuldade financeira excecional e previsíveis consequências económicas gravosas, não podendo o número das prestações mensais exceder 24 e o valor de qualquer delas ser inferior a 1 unidade de conta no momento da autorização.
+
+4 - O pagamento em prestações é autorizado desde que se verifique que o executado pela sua situação económica, não pode solver a dívida de uma só vez, não devendo o número das prestações em caso algum exceder 36 e o valor de qualquer delas ser inferior a um quarto da unidade de conta no momento da autorização, exceto se demonstrada a falsidade da situação económica que fundamenta o pedido.
+
+5 - Nos casos em que se demonstre notória dificuldade financeira e previsíveis consequências económicas para os devedores, poderá ser alargado o número de prestações mensais até 5 anos, se a dívida exequenda exceder 500 unidades de conta no momento da autorização, não podendo então
+
+nenhuma delas ser inferior a 10 unidades de conta.
+
+6 - Quando, para efeitos de plano de recuperação a aprovar no âmbito de processo de insolvência ou de processo especial de revitalização, ou de acordo a sujeitar ao regime extrajudicial de recuperação de empresas do qual a administração tributária seja parte, se demonstre a indispensabilidade da medida, e ainda quando os riscos inerentes à recuperação dos créditos o tornem recomendável, a administração tributária pode estabelecer que o regime prestacional seja alargado até ao limite máximo de 150 prestações, com a observância das condições previstas na parte final do número anterior.
+
+7 - Quando o executado esteja a cumprir plano de recuperação aprovado no âmbito de processo de insolvência ou de processo especial de revitalização, ou acordo sujeito ao regime extrajudicial de recuperação de empresas, e demonstre a indispensabilidade de acordar um plano prestacional relativo a dívida exigível em processo executivo não incluída no plano ou acordo em execução, mas respeitante a facto tributário anterior à data de aprovação do plano ou de celebração do acordo, e ainda quando os riscos inerentes à recuperação dos créditos o tornem recomendável, a administração tributária pode estabelecer que o regime prestacional seja alargado, até ao limite máximo de 150 prestações, com a observância das condições previstas na parte final do n.º 5.
+
+8 - A importância a dividir em prestações não compreende os juros de mora, que continuam a vencer-se em relação à dívida exequenda incluída em cada prestação e até integral pagamento, os quais serão incluídos na guia passada pelo funcionário para pagamento conjuntamente com a prestação.
+
+9- Podem beneficiar do regime previsto neste artigo os terceiros que assumam a dívida, ainda que o seu pagamento em prestações se encontre autorizado, desde que obtenham autorização do devedor ou provem interesse legítimo e prestem, em qualquer circunstância, garantias através dos meios
+
+previstos no n.º 1 do artigo 199.º
+
+10 - A assunção da dívida nos termos do número anterior não exonera o antigo devedor, respondendo este solidariamente com o novo devedor, e, em caso de incumprimento, o processo de execução fiscal prosseguirá os seus termos contra o novo devedor.
+
+11 - O despacho de aceitação de assunção de dívida e das garantias apresentadas pelo novo devedor para suspensão da execução fiscal pode determinar a extinção das garantias constituídas e ou apresentadas pelo antigo devedor.
+
+12 - O novo devedor ficará sub-rogado nos direitos referidos no nº 1 do artigo 92º após a regularização da dívida, nos termos e condições previstos no presente artigo.
+
+13 - O disposto neste artigo não poderá aplicar-se a nenhum caso de pagamento por sub-rogação
+
+> Nota: [Artigo 17.º, Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130) A Lei n.º 7/2021, de 26 de fevereiro, dispõe que o n.º 2 do artigo 196º entra em vigor a 1 de julho de 2021.
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 125/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), em vigor a partir de 2022-07-01
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 100/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/100-2017-108063581), em vigor a partir de 2017-08-29
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 120.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29
+
+> Alterado pelo/a Artigo 84.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01
+
+> Alterado pelo/a Artigo 93.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01
+
+###### Artigo 197.º — Entidade competente para autorizar as prestações
+
+1 - A competência para autorização de pagamento em prestações é do órgão da execução fiscal.
+
+2 - (Revogado).
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 100/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/100-2017-108063581), em vigor a partir de 2018-01-01
+
+###### Artigo 198.º — Requisitos do pedido
+
+1 - No requerimento para pagamento em prestações o executado indicará a forma como se propõe efectuar o pagamento e os fundamentos da proposta.
+
+2 - Após recepção e instrução dos pedidos com todas as informações de que se disponha, estes são imediatamente apreciados pelo órgão da execução fiscal ou, sendo caso disso, imediatamente remetidos após recepção para sancionamento superior, devendo o pagamento da primeira prestação ser efectuado no mês seguinte àquele em que for notificado o despacho.
+
+3 - Caso o pedido de pagamento em prestações obedeça a todos os pressupostos legais, deve o mesmo ser objeto de imediata autorização pelo órgão considerado competente nos termos do artigo anterior, notificando-se o requerente desse facto e de que, caso pretenda a suspensão da execução e a regularização da sua situação tributária, deve ser constituída ou prestada garantia idónea nos termos do artigo 199.º ou, em alternativa, obter a autorização para a sua dispensa.
+
+4 - Caso se apure que o pedido de pagamento em prestações não obedece aos pressupostos legais de que depende a sua autorização, o mesmo será indeferido de imediato, com notificação ao requerente dos fundamentos do mesmo indeferimento.
+
+5 - É dispensada a prestação de garantia para dívidas de valor inferior ou igual a (euro) 5000 para pessoas singulares, ou a (euro) 10 000 para pessoas coletivas.
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 125/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), em vigor a partir de 2022-07-01
+
+> Alterado pelo/a Artigo 270.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 229.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 198.º-A — Plano oficioso de pagamento em prestações
+
+1 - Aquando da instauração de processos de execução fiscal para cobrança de dívidas de valor inferior ou igual a (euro) 5000 para pessoas singulares, ou a (euro) 10 000 para pessoas coletivas, é elaborado pela Autoridade Tributária e Aduaneira um plano oficioso de pagamento da dívida em prestações.
+
+2 - O plano elaborado é disponibilizado na área reservada do executado do Portal das Finanças para consulta e emissão das guias de pagamento, devendo o pagamento da primeira prestação ser efetuado no mês seguinte àquele em que for notificado o plano.
+
+3 - O disposto no número anterior não prejudica o disposto no n.º 3 do artigo 169.º, devendo a notificação do plano ocorrer apenas quando cessar a suspensão da execução.
+
+4 - As prestações são mensais, iguais e sucessivas, não podendo o seu número exceder 36 e o seu valor ser inferior a um quarto da unidade de conta.
+
+5 - A importância a dividir em prestações não compreende os juros de mora, que continuam a vencer-se em relação à dívida exequenda incluída em cada prestação e até integral pagamento, os quais serão incluídos na guia para pagamento conjuntamente com a prestação.
+
+6 - O processo de execução fiscal é suspenso e a situação tributária do contribuinte é, nos termos e para os efeitos do artigo 177.º-A, considerada regularizada a partir da data de elaboração do plano e com o cumprimento do plano prestacional.
+
+7 - A exclusão do plano ocorre automaticamente, prosseguindo o processo de execução fiscal os seus termos, com a falta de pagamento da primeira prestação, nos termos do número anterior, ou com a falta de pagamento de três prestações.
+
+8 - A exclusão do plano, nos termos do número anterior, não prejudica o acesso aos demais regimes de pagamento em prestações previstos no presente Código.
+
+9 - O pagamento em prestações ao abrigo do regime fixado no presente artigo não depende da prestação de quaisquer garantias adicionais, sem prejuízo da manutenção das garantias já constituídas.
+
+> Aditado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 125/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), em vigor a partir de 2022-07-01
+
+###### Artigo 199.º — Garantias
+
+1 - Caso não se encontre já constituída garantia, com o pedido deverá o executado oferecer garantia idónea, a qual consistirá em garantia bancária, caução, seguro-caução ou qualquer meio susceptível de assegurar os créditos do exequente.
+
+2 - A garantia idónea referida no número anterior poderá consistir, ainda, a requerimento do executado e mediante concordância da administração tributária, em penhor ou hipoteca voluntária, aplicando-se o disposto no artigo 195º, com as necessárias adaptações.
+
+3 – Se o executado considerar existirem os pressupostos da isenção da prestação de garantia, deverá invocá-los e prová-los na petição.
+
+4 - Vale como garantia, para os efeitos do n.º 1, a penhora já feita sobre os bens necessários para assegurar o pagamento da dívida exequenda e acrescido ou a efectuar em bens nomeados para o efeito pelo executado no prazo referido no n.º 7.
+
+5 - No caso de a garantia apresentada se tornar insuficiente, a mesma deve ser reforçada nos termos das normas previstas neste artigo.
+
+6 - A garantia é prestada pelo valor da dívida exequenda, juros de mora contados até ao termo do prazo de pagamento voluntário ou à data do pedido, quando posterior, com o limite de cinco anos, e custas na totalidade, acrescida de 25 % da soma daqueles valores, exceto no caso dos planos prestacionais onde a garantia é prestada pelo valor da dívida exequenda, juros de mora contados até ao termo do prazo do plano de pagamento concedido e custas na totalidade, sem prejuízo do disposto no n.º 14 do artigo 169.º
+
+7 - As garantias referidas no nº 1 serão constituídas para cobrir todo o período de tempo que foi concedido para efectuar o pagamento, acrescido de três meses, e serão apresentadas no prazo de 15 dias a contar da notificação que autorizar as prestações, salvo no caso de garantia que pela sua natureza justifique a ampliação do prazo até 30 dias, prorrogáveis por mais 30, em caso de circunstâncias excepcionais.
+
+8 - A falta de prestação de garantia idónea dentro do prazo referido no número anterior, ou a inexistência de autorização para dispensa da mesma, no mesmo prazo, origina a prossecução dos termos normais do processo de execução, nomeadamente para penhora dos bens ou direitos considerados suficientes, nos termos e para os efeitos do n.º 4.
+
+9 - É competente para apreciar as garantias a prestar nos termos do presente artigo a entidade competente para autorizar o pagamento em prestações.
+
+10 - Em caso de diminuição significativa do valor dos bens que constituem a garantia, o órgão da execução fiscal ordena ao executado que a reforce ou preste nova garantia idónea no prazo de 15 dias, com a cominação prevista no n.º 8 deste artigo.
+
+11 - A garantia poderá ser reduzida, oficiosamente ou a requerimento dos contribuintes, à medida que os pagamentos forem efectuados e se tornar manifesta a desproporção entre o montante daquela e a dívida restante.
+
+12 - As garantias bancárias, caução e seguros-caução previstas neste artigo são constituídas a favor da administração tributária por via electrónica, nos termos a definir por portaria do Ministro das Finanças.
+
+13 - Os pagamentos em prestações ao abrigo de plano de recuperação no âmbito de processo de insolvência ou de processo especial de revitalização ou em acordo sujeito ao regime extrajudicial de recuperação de empresas em execução ou em negociação que decorra do plano ou do acordo não dependem da prestação de quaisquer garantias adicionais.
+
+14 - As garantias constituídas à data de autorização dos pagamentos em prestações referidos no número anterior mantêm-se até ao limite máximo da quantia exequenda, sendo reduzidas anualmente no dobro do montante efetivamente pago em prestações ao abrigo daqueles planos de pagamentos, desde que não se verifique, consoante os casos, a existência de novas dívidas fiscais em cobrança coerciva cuja execução não esteja legalmente suspensa ou cujos prazos de reclamação ou impugnação estejam a decorrer.
+
+15 - Os n.os 13 e 14 são correspondentemente aplicáveis, com as necessárias adaptações, aos planos de pagamentos em prestações aprovados ao abrigo do n.º 7 do artigo 196.º
+
+> Nota: [Artigo 154.º, Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769) A alteração efetuada a este artigo pela Lei 64-B/2011, de 30 de dezembro, tem aplicação imediata em todos os processos de execução fiscal que se encontrem pendentes a partir da sua entrada em vigor (01-01-2012).
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+> Alterado pelo/a Artigo 296.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 100/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/100-2017-108063581), em vigor a partir de 2017-08-29
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 111.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01
+
+> Alterado pelo/a Artigo 84.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01
+
+###### Artigo 199.º-A — Avaliação da garantia
+
+1 - Na avaliação da garantia, com exceção de garantia bancária, caução e seguro-caução, deve atender-se ao valor dos bens ou do património apurado nos termos dos artigos 13.º a 17.º do Código do Imposto do Selo.
+
+2 - Sendo o garante uma sociedade, o valor do seu património corresponde ao valor da totalidade dos títulos representativos do seu capital social determinado nos termos do artigo 15.º do Código do Imposto do Selo.
+
+3 - Sendo o garante uma pessoa singular, deve atender-se ao património desonerado e aos rendimentos suscetíveis de gerar meios para cumprir a obrigação.
+
+4 - O valor determinado nos termos dos números anteriores deve ser deduzido dos seguintes montantes, quando aplicável e sempre que afete a capacidade da garantia:
+
+a) Garantias concedidas e outras obrigações extrapatrimoniais assumidas;
+
+b) Passivos contingentes;
+
+c) Partes de capital do executado, detidas, direta ou indiretamente, na respetiva proporção;
+
+d) Quaisquer créditos sobre o executado.
+
+> Alterado pelo/a Artigo 296.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Aditado pelo/a Artigo 176.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+###### Artigo 200.º — Consequências da falta de pagamento
+
+1 - A falta de pagamento sucessivo de três prestações, ou de seis interpoladas, importa o vencimento das seguintes se, no prazo de 30 dias a contar da notificação para o efeito, o executado não proceder ao pagamento das prestações incumpridas, prosseguindo o processo de execução fiscal os seus termos.
+
+2 - A entidade que tiver prestado a garantia será citada para, no prazo de 30 dias, efectuar o pagamento da dívida ainda existente e acrescido até ao montante da garantia prestada, sob pena de ser executada no processo.
+
+3 - No processo far-se-ão constar os bens que foram dados em garantia.
+
+4 - Nos casos de dispensa de garantia, nos termos do n.º 5 do artigo 198.º, a falta de pagamento de uma prestação importa o vencimento imediato das seguintes, prosseguindo o processo de execução fiscal os seus termos.
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 120.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29
+
+#### Secção V — Da dação em pagamento
+
+###### Artigo 201.º — Dação em pagamento. Requisitos
+
+1 - Nos processos de execução fiscal o executado ou terceiro podem, no prazo de oposição, requerer ao ministro ou órgão executivo de quem dependa a administração tributária legalmente competente para a liquidação e cobrança da dívida a extinção da dívida exequenda e acrescido, com a dação em pagamento de bens móveis ou imóveis, nas condições seguintes:
+
+a) Descrição pormenorizada dos bens dados em pagamento;
+
+b) Os bens dados em pagamento não terem valor superior à dívida exequenda e acrescido, salvo os casos de se demonstrar a possibilidade de imediata utilização dos referidos bens para fins de interesse público ou social, ou de a dação se efectuar no âmbito do processo conducente à celebração de acordo de recuperação de créditos do Estado.
+
+2 - Apresentado o requerimento, o órgão da execução fiscal enviará ao dirigente máximo do serviço, no prazo de 10 dias, cópia do requerimento, bem como o resumo do processo e dos encargos que incidam sobre os bens, com conhecimento, no mesmo prazo, ao imediato superior hierárquico, quando exista.
+
+3 - Recebido o processo, o dirigente máximo do serviço poderá remetê-lo para despacho do ministro competente, com fundamento no desinteresse da dação, ou solicitar a avaliação dos bens oferecidos em pagamento, através de uma comissão cuja constituição será promovida pelo órgão de execução fiscal, que presidirá, e dois louvados por ele designados que serão, no caso de bens imóveis, peritos avaliadores das listas regionais e, no caso de bens móveis, pessoas com especialização técnica adequada, devendo a comissão efectuar a avaliação no prazo máximo de 30 dias após ser determinada a sua realização.
+
+4 - Em situações de especial complexidade técnica, o dirigente máximo do serviço solicitará a avaliação dos bens, conforme os casos, à Direcção-Geral do Património do Estado, à Direcção-Geral do Tesouro e ao Instituto de Gestão do Crédito Público ou a entidade especializada designada por despacho do Ministro das Finanças.
+
+5 - A avaliação é efectuada pelo valor de mercado dos bens, tendo em conta a maior ou menor possibilidade da sua realização.
+
+6 - As despesas efectuadas com as avaliações referidas nos n.os 3 e 4 entram em regra de custas do processo de execução fiscal, devendo o devedor efectuar o respectivo preparo no prazo de 5 dias a contar da data da notificação, sob pena de não prosseguimento do pedido.
+
+7 - Reunidos os elementos referidos nos números anteriores, o processo será remetido para despacho ao ministro ou ao órgão executivo competente, que poderá, antes de decidir, determinar a junção de outros elementos no prazo de 10 dias, sob pena de o pedido não ter seguimento, salvo se o atraso não for imputável ao contribuinte.
+
+8 - O despacho que autorizar a dação em pagamento definirá os termos de entrega dos bens oferecidos, podendo seleccionar, entre os propostos, os bens a entregar em cumprimento da dívida exequenda e acrescido.
+
+9 - Em caso de aceitação da dação em pagamento de bens de valor superior à dívida exequenda e acrescido, o despacho que a autoriza constitui, a favor do devedor, um crédito no montante desse excesso, a utilizar em futuros pagamentos de impostos ou outras prestações tributárias, na aquisição de bens ou de serviços no prazo de 5 anos ou no pagamento de rendas, desde que as receitas correspondentes estejam sob a administração do ministério ou órgão executivo por onde corra o processo de dação.
+
+10 - O crédito previsto no número anterior é intransmissível e impenhorável e a sua utilização depende da prévia comunicação, no prazo de 30 dias, à entidade a quem deva ser efectuado o pagamento.
+
+11 - Em caso de cessação de actividade, o devedor pode requerer à administração tributária, nos 60 dias posteriores, o pagamento em numerário do montante referido no n.º 9, que só lhe será concedido se fizer prova da inexistência de dívidas tributárias àquela entidade.
+
+12 - A dação em pagamento operar-se-á através de auto lavrado no processo.
+
+13 - Na dação em pagamento de bens imóveis lavrar-se-á um auto por cada prédio.
+
+14 - O auto referido nos números anteriores valerá, para todos os efeitos, como título de transmissão.
+
+15 - O executado poderá desistir da dação em pagamento até 5 dias após a notificação do despacho ministerial, mediante o integral pagamento da totalidade da dívida exequenda e acrescido, incluindo as custas das avaliações a que se referem os n.os 3 e 5 do presente artigo.
+
+16 - Autorizada a dação em pagamento, seguir-se-ão, na parte aplicável, as regras previstas nas alíneas c) e d) do artigo 255.º deste Código.
+
+17 - O terceiro a que se refere o n.º 1 só ficará sub-rogado nos direitos da Fazenda Pública nos termos e condições definidos nos artigos 91.º e 92.º do presente Código.
+
+18 - As despesas de avaliação, que compreendem os salários e abonos de transporte dos membros da comissão constituída por promoção do órgão de execução fiscal, serão fixadas por portaria do Ministro das Finanças.
+
+> Alterado pelo/a Artigo 50.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, 2º Suplemento, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+###### Artigo 202.º — Bens dados em pagamento
+
+1 - No despacho que autorizar a dação, pode o Ministro ou o órgão executivo competente determinar a venda, por proposta em carta fechada, dos bens dados em pagamento, em prazo a fixar.
+
+2 - Em caso de urgência na venda dos bens, designadamente pelo seu risco de desvalorização, ou de estes serem de valor reduzido, ou quando seja essa a solução mais adequada à continuidade da utilização produtiva dos bens, pode o ministro ou órgão executivo competente determinar que a venda seja efectuada por negociação particular.
+
+3 - Pode também o ministro ou órgão executivo competente autorizar os serviços sob a sua dependência a locarem ou a onerarem, nos termos previstos na lei, os bens dados em pagamento ou a com eles realizarem capital ou outras prestações sociais.
+
+4 - Os direitos emergentes da locação ou da oneração referidas no n.º 3 só podem ser penhorados em processo de execução fiscal.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+#### Secção VI — Da oposição
+
+###### Artigo 203.º — Prazo de oposição à execução
+
+1 - A oposição deve ser deduzida no prazo de 30 dias a contar:
+
+a) Da citação pessoal ou, não a tendo havido, da primeira penhora;
+
+b) Da data em que tiver ocorrido o facto superveniente ou do seu conhecimento pelo executado.
+
+2 - Havendo vários executados, os prazos correrão independentemente para cada um deles.
+
+3 - Para efeitos do disposto na alínea b) do n.º 1, considera-se superveniente não só o facto que tiver ocorrido posteriormente ao prazo da oposição, mas ainda aquele que, embora ocorrido antes, só posteriormente venha ao conhecimento do executado, caso em que deverá ser este a provar a superveniência.
+
+4 - A oposição deve ser deduzida até à venda dos bens, sem prejuízo do disposto no n.º 3 do artigo 257.º
+
+5 - Na sequência de duas ou mais citações respeitantes a diferentes execuções pendentes contra o mesmo executado no mesmo órgão de execução fiscal, ainda que não apensadas, pode este deduzir uma única oposição, até ao termo do prazo que começou a correr em primeiro lugar.
+
+6 - Quando o juiz entender não haver prejuízo para o andamento da causa, pode determinar que os processos de oposição possam ser apensados à oposição autuada em primeiro lugar no Tribunal, desde que as oposições se encontrem na mesma fase e se verifiquem as condições previstas no número anterior.
+
+7 - O órgão da execução fiscal comunica o pagamento da dívida exequenda, por via eletrónica, ao tribunal tributário de 1.ª instância onde pender a oposição, para efeitos da sua eventual extinção.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+###### Artigo 204.º — Fundamentos da oposição à execução
+
+1 - A oposição só poderá ter algum dos seguintes fundamentos:
+
+a) Inexistência do imposto, taxa ou contribuição nas leis em vigor à data dos factos a que respeita a obrigação ou, se for o caso, não estar autorizada a sua cobrança à data em que tiver ocorrido a respectiva liquidação;
+
+b) Ilegitimidade da pessoa citada por esta não ser o próprio devedor que figura no título ou seu sucessor ou, sendo o que nele figura, não ter sido, durante o período a que respeita a dívida exequenda, o possuidor dos bens que a originaram, ou por não figurar no título e não ser responsável pelo pagamento da dívida;
+
+c) Falsidade do título executivo, quando possa influir nos termos da execução;
+
+d) Prescrição da dívida exequenda;
+
+e) Falta da notificação da liquidação do tributo no prazo de caducidade;
+
+f) Pagamento ou anulação da dívida exequenda;
+
+g) Duplicação de colecta;
+
+h) Ilegalidade da liquidação da dívida exequenda, sempre que a lei não assegure meio judicial de impugnação ou recurso contra o acto de liquidação;
+
+i) Quaisquer fundamentos não referidos nas alíneas anteriores, a provar apenas por documento, desde que não envolvam apreciação da legalidade da liquidação da dívida exequenda, nem representem interferência em matéria de exclusiva competência da entidade que houver extraído o título.
+
+2 - A oposição nos termos da alínea h), que não seja baseada em mera questão de direito, reger-se-á pelas disposições relativas ao processo de impugnação.
+
+###### Artigo 205.º — Duplicação de colecta
+
+1 - Haverá duplicação de colecta para efeitos do artigo anterior quando, estando pago por inteiro um tributo, se exigir da mesma ou de diferente pessoa um outro de igual natureza, referente ao mesmo facto tributário e ao mesmo período de tempo.
+
+2 - A duplicação de colecta só poderá ser alegada uma vez, salvo baseando-se em documento superveniente demonstrativo do pagamento ou de nova liquidação.
+
+3 - Alegada a duplicação, obter-se-á informação sobre se este fundamento já foi apreciado noutro processo e sobre as razões que originaram a nova liquidação.
+
+4 - Para efeitos dos números anteriores, a alegação da duplicação de colecta será de imediato anotada pelos serviços competentes da administração tributária nos respectivos elementos de liquidação.
+
+###### Artigo 206.º — Requisitos da petição
+
+Com a petição em que deduz a oposição, o executado oferece todos os documentos, arrola testemunhas e requer as demais provas.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+> Alterado pelo/a Artigo 50.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, 2º Suplemento, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+###### Artigo 206.º-A — Coligação de executados
+
+Os executados e revertidos podem coligar-se entre si, nos termos aplicáveis ao processo de impugnação.
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+###### Artigo 207.º — Local da apresentação da petição da oposição à execução
+
+1 - A petição inicial será apresentada no órgão da execução fiscal onde pender a execução.
+
+2 - Se tiver sido expedida carta precatória, a oposição poderá ser deduzida no órgão da execução fiscal deprecado, devolvendo-se a carta, depois de contada, para seguimento da oposição.
+
+###### Artigo 208.º — Autuação da petição e remessa ao tribunal
+
+1 - Autuada a petição, o órgão da execução fiscal remete o processo, por via eletrónica, no prazo de 20 dias, ao tribunal de 1.ª instância competente com as informações que reputar convenientes, incluindo as respeitantes à apensação de execuções.
+
+2 - Quando for invocada, como fundamento da oposição à execução, a ilegitimidade da pessoa citada por não ter exercido funções de administração ou gestão em pessoas coletivas e entes fiscalmente equiparados, o órgão de execução fiscal identifica todos contra quem tenha sido revertida a execução, os que foram citados, os que deduziram oposição com idêntico fundamento e o estado em que se encontram as referidas oposições.
+
+3 - No referido prazo, salvo quando a lei atribua expressamente essa competência a outra entidade, o órgão da execução fiscal poderá pronunciar-se sobre o mérito da oposição e revogar o acto que lhe tenha dado fundamento.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+###### Artigo 209.º — Rejeição liminar da oposição
+
+1 - Recebido o processo, o juiz rejeitará logo a oposição por um dos seguintes fundamentos:
+
+a) Ter sido deduzida fora do prazo;
+
+b) Não ter sido alegado algum dos fundamentos admitidos no n.º 1 do artigo 204.º;
+
+c) Ser manifesta a improcedência.
+
+2 - Se o fundamento alegado for o da alínea i) do n.º 1 do artigo 204.º, a oposição será também rejeitada quando à petição se não juntem o documento ou documentos necessários.
+
+###### Artigo 210.º — Notificação da oposição ao representante da Fazenda Pública
+
+Recebida a oposição, será notificado o representante da Fazenda Pública para contestar no prazo de 30 dias.
+
+> Alterado pelo/a Artigo 175.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+###### Artigo 211.º — Processamento da oposição. Alegações. Sentença
+
+1 - Cumprido o disposto no artigo anterior, seguir-se-á o que para o processo de impugnação se prescreve a seguir ao despacho liminar.
+
+2 - São admitidos os meios gerais de prova, salvo as disposições especiais da lei tributária e sem prejuízo do disposto na alínea i) do n.º 1 do artigo 204.º
+
+###### Artigo 212.º — Suspensão de execução
+
+A oposição suspende a execução, nos termos do presente Código.
+
+###### Artigo 213.º — Devolução da oposição ao órgão da execução fiscal
+
+Transitada em julgado a sentença que decidir a oposição e pagas as custas, se forem devidas, será o processo devolvido ao órgão da execução fiscal para ser apensado ao processo da execução.
+
+#### Secção VII — Da apreensão de bens
+
+##### Subsecção I — Do arresto
+
+###### Artigo 214.º — Fundamentos do arresto. Conversão em penhora
+
+1 - Havendo justo receio de insolvência ou de ocultação ou alienação de bens, pode o representante da Fazenda Pública junto do competente tribunal tributário requerer arresto em bens suficientes para garantir a dívida exequenda e o acrescido, com aplicação do disposto pelo presente Código para o arresto no processo judicial tributário.
+
+2 - As circunstâncias referidas no número anterior presumem-se no caso de dívidas por impostos que o executado tenha retido ou repercutido a terceiros e não entregue nos prazos legais.
+
+3 - O arresto efectuado nos termos do número anterior ou antes da instauração do processo de execução será convertido em penhora se o pagamento não tiver sido efectuado.
+
+4 - Para efeitos de arresto ou penhora dos bens do contribuinte, pode ser requerida às instituições bancárias informação acerca do número das suas contas e respectivos saldos.
+
+5 - Os órgãos de execução fiscal podem utilizar a Plataforma Eletrónica de Registo e Transmissão de Ofícios do Banco de Portugal, com mecanismo idóneo para a notificação de pedidos de informação bancária, designadamente os previstos no número anterior, ou de outros atos e diligências, dirigidos a entidades bancárias, no âmbito dos processos de execução fiscal, podendo as respostas dos notificandos ser enviadas pelo mesmo meio.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 91/2024 - Diário da República n.º 227/2024, Série I de 2024-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2024-897548402), em vigor a partir de 2025-01-14
+
+> Alterado pelo/a Artigo 16.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, 3º Suplemento, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01
+
+##### Subsecção II — Da penhora
+
+###### Artigo 215.º — Mandado para a penhora. Ocorrências anómalas - Nomeação de bens à penhora
+
+1 - Findo o prazo posterior à citação sem ter sido efectuado o pagamento, procede-se à penhora.
+
+2 - A penhora pode ser efectuada por via electrónica.
+
+3 - Se, no acto da penhora, o executado ou alguém em seu nome declarar que os bens a penhorar pertencem a terceiros, deve o funcionário exigir-lhes a declaração do título por que os bens se acham em poder do executado e a respectiva prova, efectuando-se a penhora em caso de dúvida.
+
+4 - O direito de nomear bens à penhora considera-se sempre devolvido ao exequente, mas o órgão da execução fiscal poderá admiti-la, nos termos da lei, nos bens indicados pelo executado, desde que daí não resulte prejuízo.
+
+5 - A administração tributária acede a informação relativa à existência de bens ou direitos do devedor, suscetíveis de penhora, incluindo todos os dados existentes nos registos que possui, bem como na contabilidade da empresa.
+
+6 - A administração tributária pode, em qualquer momento, notificar o devedor ou terceiros para a apresentação de elementos que se revelem necessários à cobrança da dívida, incluindo os elementos da contabilidade das empresas.
+
+7 - O envio dos elementos referidos no número anterior é feito por via eletrónica.
+
+8 - A frustração da citação não obsta à aplicação, no respetivo processo de execução fiscal, dos montantes depositados, se aquela não vier devolvida ou, sendo devolvida, não indicar a nova morada do executado e ainda em caso de não acesso à caixa postal eletrónica.
+
+9 - A aplicação efetuada nos termos do número anterior não prejudica o exercício de direitos por parte do executado, designadamente quanto à oposição à execução.
+
+> Alterado pelo/a Artigo 175.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 84.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01
+
+###### Artigo 216.º — Execução contra autarquia local ou outra pessoa de direito público
+
+1 - Se o executado for alguma autarquia local ou outra entidade de direito público, empresa pública, associação pública, pessoa colectiva de utilidade pública administrativa ou instituição de solidariedade social, remeter-se-á aos respectivos órgãos de representação ou gestão certidão da importância em dívida e acrescido, a fim de promoverem o seu pagamento ou a inclusão da verba necessária no primeiro orçamento, desde que não tenha sido efectuado o pagamento nem deduzida oposição no prazo posterior à citação.
+
+2 - A ineficácia das diligências referidas no número anterior não impede a penhora em bens dela susceptíveis.
+
+###### Artigo 217.º — Extensão da penhora
+
+A penhora é feita nos bens previsivelmente suficientes para o pagamento da dívida exequenda e do acrescido, mas, quando o produto dos bens penhorados for insuficiente para pagamento da execução, esta prossegue em outros bens.
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 218.º — Levantamento da penhora. Bens penhoráveis em execução fiscal
+
+1 - No processo de recuperação da empresa e quando a medida for extensiva aos credores em idênticas circunstâncias da Fazenda Pública, o juiz poderá levantar a penhora, a requerimento do gestor judicial, fundamentado nos interesses da recuperação, com parecer favorável da comissão de credores, bem como no processo de falência.
+
+2 - Sempre que possível, o levantamento da penhora depende da sua substituição por garantia idónea.
+
+3 - Podem ser penhorados pelo órgão da execução fiscal os bens apreendidos por qualquer tribunal, não sendo a execução, por esse motivo, sustada nem apensada.
+
+###### Artigo 219.º — Bens prioritariamente a penhorar
+
+1 - Sem prejuízo do disposto nos n.os 4 e 5, a penhora começa pelos bens cujo valor pecuniário seja de mais fácil realização e se mostre adequado ao montante do crédito do exequente.
+
+2 - Tratando-se de dívida com privilégio, e na falta de bens a que se refere o número anterior, a penhora começa pelos bens a que este respeitar, se ainda pertencerem ao executado e sem prejuízo do disposto no n.º 2 do artigo 157.º
+
+3 - (Revogado).
+
+4 - Caso a dívida tenha garantia real onerando bens do devedor por estes começará a penhora que só prosseguirá noutros bens quando se reconheça a insuficiência dos primeiros para conseguir os fins da execução.
+
+5 - A penhora sobre o bem imóvel com finalidade de habitação própria e permanente está sujeita às condições previstas no artigo 244.º.
+
+6 - Quando exista plano de pagamento em prestações devidamente autorizado, e a execução fiscal deva prosseguir os seus termos normais, pode a penhora iniciar-se por bens distintos daqueles cujo valor pecuniário seja de mais fácil realização, quando indicados pelo executado e desde que o pagamento em prestações se encontre a ser pontualmente cumprido.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2016 - Diário da República n.º 99/2016, Série I de 2016-05-23](https://diariodarepublica.pt/dr/detalhe/lei/13-2016-74498465), em vigor a partir de 2016-05-24
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 93.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01
+
+###### Artigo 220.º — Coima fiscal e responsabilidade de um dos cônjuges Penhora de bens comuns do casal.
+
+Na execução para cobrança de coima fiscal ou com fundamento em responsabilidade tributária exclusiva de um dos cônjuges, podem ser imediatamente penhorados bens comuns, devendo, neste caso, citar-se o outro cônjuge para requerer a separação judicial de bens, prosseguindo a execução sobre os bens penhorados se a separação não for requerida no prazo de 30 dias ou se se suspender a instância por inércia ou negligência do requerente em promover os seus termos processuais.
+
+###### Artigo 221.º — Formalidade de penhora de móveis
+
+1 - Na penhora de móveis observar-se-á designadamente o seguinte:
+
+a) Os bens serão efectivamente apreendidos e entregues a um depositário idóneo, salvo se puderem ser removidos, sem inconveniente, para os serviços ou para qualquer depósito público;
+
+b) O depositário é escolhido pelo funcionário, podendo a escolha recair no executado;
+
+c) Na penhora lavra-se um auto, que é assinado pelo depositário ou por duas testemunhas, onde se regista o dia, a hora e o local da diligência, se menciona o valor da execução, se relacionam os bens por verbas numeradas, se indica o seu estado de conservação e o valor aproximado e se referem as obrigações e responsabilidades a que fica sujeito o depositário, a quem é entregue uma cópia;
+
+d) Se o executado estiver presente e se recuse a assinar, mencionar-se-á o facto.
+
+2 - A penhora de bens móveis que façam parte do ativo de sujeitos passivos de IVA, ainda que dele isentos, pode ser feita mediante notificação que discrimine os bens penhorados e identifique o fiel depositário.
+
+3 - No caso referido no número anterior, o fiel depositário dispõe do prazo de cinco dias para informar a administração tributária da eventual inexistência, total ou parcial, dos bens penhorados.
+
+4 - A penhora efetuada nos termos do disposto no n.º 2 não obsta a que o executado possa dispor livremente dos bens, desde que se trate de bens de natureza fungível e assegure a sua apresentação, no prazo de cinco dias, quando notificado para o efeito pela administração tributária.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2016 - Diário da República n.º 125/2016, Série I de 2016-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2016-74843513), em vigor a partir de 2016-07-02
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+###### Artigo 222.º — Formalidades da penhora de veículos automóveis de aluguer
+
+1 - Quando a penhora recair sobre o veículo automóvel licenciado para o exercício da indústria de transporte de aluguer, será também apreendida a respectiva licença, desde que a sua transmissão seja permitida por lei especial, caducando aquela com a venda dos veículos.
+
+2 - O órgão da execução fiscal comunicará a venda às autoridades competentes para efeito de eventual concessão de nova licença.
+
+###### Artigo 223.º — Formalidade da penhora de dinheiro ou de valores depositados
+
+1 - À penhora de dinheiro ou de outros valores depositados aplicam-se as regras previstas no Código de Processo Civil, sem prejuízo do disposto nos números seguintes.
+
+2 - A penhora de dinheiro ou de outros valores depositados será precedida de informação do funcionário competente sobre a identidade do depositário, a quantia ou os objectos depositados e o valor presumível destes.
+
+3 - A penhora de depósito existente em instituição legalmente autorizada a recebê-lo é realizada mediante notificação efetuada por transmissão eletrónica de dados, para o domicílio fiscal eletrónico da depositária, na respetiva área reservada do Portal das Finanças ou na área reservada da Segurança Social Direta, com expressa menção do processo.
+
+4 - Nas demais penhoras de dinheiro ou de valores depositados, a penhora é efetuada nos termos previstos para a penhora de créditos, com as devidas adaptações.
+
+5 - A notificação da penhora deve conter a identificação do limite máximo a penhorar bem como a indicação de que as quantias depositadas, até àquele montante, ficam indisponíveis desde a data da penhora, salvo nos casos previstos na lei, mantendo-se válida por período não superior a um ano, sem prejuízo de renovação.
+
+6 - Salvo comunicação em contrário do órgão da execução fiscal, verificando-se novas entradas o depositário deve proceder imediatamente à sua penhora, até ao limite do montante comunicado nos termos do número anterior.
+
+7 - A instituição detentora do depósito penhorado deve, por transmissão eletrónica de dados ou através do Portal das Finanças ou da Segurança Social Direta, no prazo de cinco dias contados da penhora, comunicar o saldo penhorado e as contas objeto de penhora à data em que esta se considere efetuada, ou a inexistência ou impenhorabilidade da conta ou saldo.
+
+8 - Recebida a comunicação do saldo penhorado, nos termos do número anterior, o órgão de execução fiscal ordena, no prazo máximo de cinco dias, o levantamento das demais penhoras, caso o valor do saldo penhorado seja suficiente para a satisfação do valor em dívida, ou sendo esse valor insuficiente, a redução das penhoras nos valores respetivos, indicando à instituição detentora do depósito o montante e número da conta onde essa redução deve ocorrer.
+
+9 - A instituição detentora do depósito penhorado deve, no prazo referido no número anterior, proceder ao depósito das quantias e valores penhorados à ordem do processo de execução fiscal, mediante documento de pagamento obtido para o efeito no Portal das Finanças, ou mediante transferência bancária quando se trata de dívida à segurança social.
+
+10 - Caso a quantia penhorada não seja entregue no prazo indicado no número anterior, a entidade é executada, no próprio processo, para o pagamento do valor do depósito e das custas e despesas acrescidas.
+
+11 - Além das coisas que obrigatoriamente são depositadas em instituição de crédito competente, poderão também ser ali guardadas outras, desde que isso se mostre conveniente.
+
+12 - O executado pode solicitar à instituição detentora do depósito penhorado que proceda ao depósito das quantias e valores penhorados à ordem do órgão de execução fiscal.
+
+13 - A título excecional e sempre que o interesse da eficácia da cobrança o imponha, a penhora pode ser efetuada presencialmente por funcionário da Autoridade Tributária e Aduaneira devidamente credenciado para o efeito.
+
+14 - Os órgãos de execução fiscal podem utilizar a Plataforma Eletrónica de Registo e Transmissão de Ofícios do Banco de Portugal, como mecanismo idóneo para as notificações previstas no presente artigo, podendo as respostas dos notificandos ser enviadas pelo mesmo meio.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 91/2024 - Diário da República n.º 227/2024, Série I de 2024-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2024-897548402), em vigor a partir de 2025-01-14
+
+> Alterado pelo/a Artigo 267.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+> Alterado pelo/a Artigo 175.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 41.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+###### Artigo 224.º — Formalidades da penhora de créditos
+
+1 - A penhora de créditos consiste na notificação ao devedor, efetuada preferencialmente por via eletrónica, emitida pelo órgão de execução fiscal, de que todos os créditos do executado até ao valor da dívida exequenda e acrescido ficam à ordem do órgão de execução fiscal, observando-se o disposto no Código de Processo Civil, com as necessárias adaptações e ainda as seguintes regras:
+
+a) Revogada;
+
+b) O devedor, se reconhecer a obrigação imediata de pagar ou não houver prazo para o pagamento, depositará o crédito em operações de tesouraria, à ordem do órgão da execução fiscal, no prazo de 30 dias a contar da penhora, e, se o não fizer, será executado pela importância respectiva, no próprio processo;
+
+c) Se reconhecer a obrigação de pagar, mas tiver a seu favor prazo de pagamento, aguardar-se-á o seu termo, observando-se seguidamente o disposto na alínea anterior;
+
+d) O devedor será advertido na notificação de que não se exonera pagando directamente ao credor;
+
+e) Revogada;
+
+f) Inexistindo o crédito ou sendo o seu valor insuficiente para garantir a dívida exequenda e acrescido, o órgão da execução fiscal pode notificar o devedor da penhora de créditos futuros até àquele valor, mantendo-se válida a notificação por período não superior a um ano, sem prejuízo de renovação.
+
+2 - Não sendo possível a forma de comunicação prevista no número anterior, a mesma deve ser feita com as formalidades da citação pessoal e sujeita ao regime desta.
+
+3 - No caso de litigiosidade do crédito penhorado, pode também a Fazenda Pública promover a acção declaratória, suspendendo-se entretanto a execução se o executado não possuir outros bens penhoráveis.
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 84.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01
+
+###### Artigo 225.º — Formalidades da penhora de partes sociais ou de quotas em sociedade
+
+1 - A penhora de parte social ou de quota em sociedade será feita mediante auto em que se especificará o objecto da penhora e o valor resultante do último balanço, nomeando-se depositário um dos administradores, directores ou gerentes.
+
+2 - Se não for possível indicar no auto da penhora o valor do último balanço, será esse valor fixado pelo órgão da execução fiscal antes da venda.
+
+###### Artigo 226.º — Formalidades de penhora de títulos de crédito emitidas por entidades públicas
+
+Quando haja de penhorar-se um título de crédito emitido por entidade pública, observar-se-á o seguinte:
+
+a) Dar-se-á conhecimento aos serviços competentes de que não devem autorizar nem efectuar o pagamento;
+
+b) No acto da penhora apreender-se-á o título;
+
+c) Não sendo possível a apreensão, o órgão da execução fiscal providenciará no sentido de os serviços competentes lhe remeterem segunda via do título e considerar nulo o seu original;
+
+d) Em seguida, o órgão da execução fiscal promoverá a cobrança do título, fazendo entrar o produto em conta da dívida exequenda e do acrescido, e, havendo sobras, depositar-se-ão em operações de tesouraria, para serem entregues ao executado.
+
+###### Artigo 227.º — Formalidades da penhora de quaisquer abonos, salários ou vencimentos
+
+1 - Quando a penhora recaia sobre abonos, salários ou vencimentos, é notificada a entidade que os deva pagar, para que faça, nas quantias devidas, o desconto correspondente ao crédito penhorado e proceda ao seu depósito.
+
+2 - Aos rendimentos auferidos no âmbito das atividades especificamente previstas na tabela a que se refere o artigo 151.º do Código do Imposto sobre o Rendimento das Pessoas Singulares aplica-se o seguinte regime:
+
+a) São impenhoráveis dois terços da parte líquida dos rendimentos totais;
+
+b) A parte líquida dos rendimentos corresponde à aplicação do coeficiente 0,75 ao montante total pago ou colocado à disposição do executado, excluído o IVA liquidado;
+
+c) A impenhorabilidade prevista neste número tem como limite máximo mensal o montante equivalente a três salários mínimos nacionais e como limite mínimo mensal, quando o executado não tenha outro rendimento, o montante equivalente a um salário mínimo nacional;
+
+d) O limite máximo e mínimo da impenhorabilidade é apurado globalmente, para cada mês, pela entidade que os deva pagar;
+
+e) A entidade pagadora dos rendimentos deve comunicar ao órgão de execução, preferencialmente através do respetivo portal, previamente a qualquer pagamento ao executado, o montante total a pagar, o valor impenhorável apurado e o montante do valor a penhorar, tudo apurado de acordo com o presente artigo;
+
+f) O órgão de execução fiscal, com base nas informações prestadas, confirma ou apura o valor a penhorar e comunica-o à entidade pagadora, no prazo de dois dias úteis a contar da comunicação referida na alínea anterior;
+
+g) No caso da falta da comunicação referida na alínea anterior, a entidade pagadora efetua o pagamento ao executado de acordo com o valor apurado na alínea e);
+
+h) A impenhorabilidade prevista neste número é aplicável apenas aos executados que não aufiram, no mês a que se refere a apreensão, vencimentos, salários, prestações periódicas pagas a título de aposentação ou qualquer outra regalia social, seguro, indemnização por acidente, renda vitalícia ou prestações de qualquer natureza que assegurem a sua subsistência;
+
+i) Para controlo do estatuído no presente artigo, pode o órgão de execução utilizar toda a informação relevante para o efeito disponível nas suas bases de dados.
+
+3 - O incumprimento do determinado no presente artigo pela entidade pagadora determina a sua execução nos autos, como infiel depositária dos valores que deveriam ter sido penhorados e ou entregues e não o foram.
+
+> Alterado pelo/a Artigo 312.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28, produz efeitos a partir de 2023-06-27
+
+> Alterado pelo/a Artigo 175.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 228.º — Penhora de rendimentos periódicos
+
+1 - A penhora em rendimentos, tais como rendas, juros ou outras prestações periódicas, terá trato sucessivo pelos períodos bastantes para o pagamento da dívida exequenda e do acrescido, nomeando-se depositário o respectivo devedor.
+
+2 - As importâncias vencidas serão depositadas em operações de tesouraria, à ordem do órgão da execução fiscal.
+
+3 - A penhora a que se refere este artigo caduca de direito logo que esteja extinta a execução, o que será comunicado ao depositário.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 100/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/100-2017-108063581), em vigor a partir de 2018-01-01
+
+###### Artigo 229.º — Formalidades da penhora de rendimentos
+
+1 - Na penhora de rendimentos observar-se-á o seguinte:
+
+a) No acto da penhora, notificar-se-á o devedor dos rendimentos de que não ficará desonerado da obrigação se pagar ao executado, o que se fará constar do auto;
+
+b) Se o prédio não estiver arrendado à data da penhora ou se o arrendamento findar entretanto, será o mesmo prédio, ou a parte dele que ficar devoluta, arrendado no processo, pela melhor oferta e por prazo não excedente a um ano, renovável até ao pagamento da execução;
+
+c) Se um imóvel impenhorável estiver ocupado gratuitamente, ser-lhe-á atribuído, para efeitos de penhora, uma renda mensal correspondente a 1/240 ou 1/180 do seu valor patrimonial, conforme se trate, respectivamente, de prédio rústico ou prédio urbano;
+
+d) Se o estabelecimento comercial ou industrial, ou a concessão mineira, cujo direito à exploração haja sido penhorado, se encontrar paralisado, proceder-se-á à cedência pela melhor oferta e por prazo não excedente a um ano, renovável até ao pagamento da execução;
+
+e) Se o estabelecimento for concessão mineira, a penhora do direito à exploração, referida na alínea anterior, depende de autorização do ministro competente, que a concederá no prazo de 30 dias;
+
+f) Se os rendimentos penhorados não forem pagos no seu vencimento, será o respectivo devedor executado no processo pelas importâncias não depositadas.
+
+2 - É aplicável à entrega dos rendimentos penhorados o disposto no n.º 2 do artigo anterior.
+
+###### Artigo 230.º — Penhora de móveis sujeita a registo
+
+1 - Quando a penhora de móveis estiver sujeita a registo, será este imediatamente requerido pelo órgão da execução fiscal, aplicando-se o n.º 4 do artigo 195.º
+
+2 - O serviço competente efectuará o registo no prazo de 15 dias e, dentro deste prazo, remeterá o respectivo certificado e a certidão de ónus, a fim de serem juntos ao processo.
+
+3 - A penhora prevista neste artigo também pode ser realizada por comunicação electrónica à conservatória competente, nos termos previstos no Código de Processo Civil.
+
+> Alterado pelo/a Artigo 41.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+> Alterado pelo/a Artigo 50.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, 2º Suplemento, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 231.º — Formalidades de penhora de imóveis
+
+1 - A penhora de imóveis ou de figuras parcelares do respectivo direito de propriedade é efectuada por comunicação emitida pelo órgão da execução fiscal à conservatória do registo predial competente, emitindo-se uma comunicação por cada prédio, na qual se reproduzem todos os elementos da caderneta predial, bem como a identificação do devedor, o valor da dívida, o número do processo e o número da penhora, observando-se ainda o seguinte:
+
+a) A penhora deve ser registada no prazo máximo de cinco dias;
+
+b) Efectuado o registo, a conservatória comunica ao órgão da execução o número da apresentação, os elementos identificativos do registo e a identificação do ónus ou encargos que recaem sobre o bem penhorado, identificando os respectivos beneficiários, bem como o valor dos emolumentos e a conta;
+
+c) Seguidamente, o órgão da execução fiscal nomeia depositário mediante notificação por carta registada com aviso de recepção, podendo ser escolhido um funcionário da administração tributária, o próprio executado, seja pessoa singular ou colectiva, ou outro, a quem os bens penhorados são entregues;
+
+d) Revogada;
+
+e) Revogada.
+
+2 - Os actos e comunicações referidos no número anterior são efectuados, sempre que possível, por via electrónica, podendo os elementos da caderneta predial ser substituídos por consulta directa à matriz predial informatizada.
+
+3 - A comunicação da penhora contém a assinatura electrónica qualificada do titular do órgão da execução, valendo como autenticação a certificação de acesso das conservatórias aos serviços electrónicos da administração tributária.
+
+5 - A penhora de imóveis pode também ser efetuada nos termos do Código de Processo Civil, com as especificidades previstas na presente lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2016 - Diário da República n.º 99/2016, Série I de 2016-05-23](https://diariodarepublica.pt/dr/detalhe/lei/13-2016-74498465), em vigor a partir de 2016-05-24
+
+> Alterado pelo/a Artigo 84.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01
+
+> Alterado pelo/a Artigo 41.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+> Alterado pelo/a Artigo 50.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, 2º Suplemento, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 232.º — Formalidades da penhora do direito a bens indivisos
+
+Da penhora que tiver por objecto o direito a uma parte de bens, lavrar-se-á auto, no qual se indicará a quota do executado, se identificarão os bens, se forem determinados, e os condóminos, observando-se ainda as regras seguintes:
+
+a) O depositário será escolhido pelo funcionário, que preferirá o administrador dos bens, se o houver, podendo, na falta deste, ser o próprio executado;
+
+b) Obtidos os elementos indispensáveis junto do órgão de execução fiscal e da conservatória, será a penhora registada, se for caso disso, e, depois de passados o certificado de registo e a certidão de ónus, serão estes documentos juntos ao processo;
+
+c) Efectuada a penhora no direito e acção a herança indivisa, e correndo inventário, o órgão da execução fiscal comunicará o facto ao respectivo tribunal e solicitar-lhe-á que oportunamente informe quais os bens adjudicados ao executado, podendo, neste caso, a execução ser suspensa por período não superior a 1 ano;
+
+d) A penhora transfere-se, sem mais, para os bens que couberem ao executado na partilha.
+
+###### Artigo 233.º — Responsabilidade dos depositários
+
+À responsabilidade dos depositários dos bens penhorados aplicar-se-ão as seguintes regras:
+
+a) Para os efeitos da responsabilização do depositário pelo incumprimento do dever de apresentação de bens, aquele será executado pela importância respectiva, no próprio processo, sem prejuízo do procedimento criminal;
+
+b) O depositário poderá ser oficiosamente removido pelo órgão da execução fiscal;
+
+c) Na prestação de contas o órgão da execução fiscal nomeará um perito, se for necessário, e decidirá segundo o seu prudente arbítrio.
+
+###### Artigo 234.º — Penhora de direitos
+
+É subsidiariamente aplicável à penhora de direitos o disposto na lei para a penhora das coisas móveis e das coisas imóveis.
+
+###### Artigo 235 — Levantamento da penhora
+
+1 - (Revogado).
+
+2 - A penhora pode ser levantada verificados os pressupostos previstos no artigo 183.º-A, aplicando-se os termos aí estatuídos, com as necessárias adaptações.
+
+3 - Quando a execução tiver sido paga por terceiro sub-rogado e o processo, por motivo que lhe seja imputável, se encontre parado há mais de 6 meses, a penhora poderá ser levantada a requerimento do executado ou de qualquer credor.
+
+> Alterado pelo/a Artigo 93.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 236.º — Inexistência de bens penhoráveis
+
+1 - Se ao executado não forem encontrados bens penhoráveis, o funcionário competente lavrará auto de diligência, perante duas testemunhas idóneas que ratifiquem o facto, devendo uma delas, sempre que possível, ser o presidente da junta de freguesia.
+
+2 - O auto será assinado pelas testemunhas, se souberem e puderem fazê-lo, e pelo funcionário competente.
+
+3 - O órgão da execução fiscal assegurar-se-á, por todos os meios ao seu alcance, incluindo a consulta dos arquivos informáticos da administração tributária, de que o executado não possui bens penhoráveis.
+
+##### Subsecção III — Dos embargos de terceiro
+
+###### Artigo 237.º — Função do incidente dos embargos de terceiro. Disposições aplicáveis
+
+1 - Quando o arresto, a penhora ou qualquer outro ato de apreensão ou entrega de bens ofender a posse ou qualquer outro direito incompatível com a realização ou o âmbito da diligência de que seja titular um terceiro, pode este fazê-lo valer por meio de embargos de terceiro.
+
+2 - Os embargos são deduzidos junto do órgão da execução fiscal.
+
+3 - O prazo para dedução de embargos de terceiro é de 30 dias contados desde o dia em que foi praticado o acto ofensivo da posse ou direito ou daquele em que o embargante teve conhecimento da ofensa, mas nunca depois de os respectivos bens terem sido vendidos.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+> Alterado pelo/a Artigo 50.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, 2º Suplemento, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+###### Artigo 238.º — Eficácia do caso julgado
+
+A decisão de mérito proferida nos embargos de terceiro constitui caso julgado no processo de execução fiscal quanto à existência e titularidade dos direitos invocados por embargante e embargado.
+
+#### Secção VIII — Da convocação dos credores e da verificação dos créditos
+
+###### Artigo 239.º — Citação dos credores preferentes e do cônjuge
+
+1 - Feita a penhora e junta a certidão de ónus, serão citados os credores com garantia real, relativamente aos bens penhorados, e o cônjuge do executado no caso previsto no artigo 220.º ou quando a penhora incida sobre bens imóveis ou bens móveis sujeitos a registo, sem o que a execução não prosseguirá.
+
+2 - Os credores desconhecidos, bem como os sucessores dos credores preferentes, são citados por éditos de 10 dias.
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 240.º — Convocação de credores
+
+1 - Podem reclamar os seus créditos no prazo de 15 dias após a citação nos termos do artigo anterior os credores que gozem de garantia real sobre os bens penhorados.
+
+2 - O crédito exequendo não carece de ser reclamado.
+
+3 - O órgão da execução fiscal só procede à convocação de credores quando dos autos conste a existência de qualquer direito real de garantia.
+
+4 - O disposto no número anterior não obsta a que o credor com garantia real reclame espontaneamente o seu crédito na execução, até à transmissão dos bens penhorados.
+
+> Alterado pelo/a Artigo 93.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 41.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+###### Artigo 241.º — Citação do órgão da execução fiscal
+
+1 - Se não se verificarem as circunstâncias do n.º 3 do artigo anterior, são citados os diretores dos órgãos periféricos regionais da área do domicílio fiscal da pessoa a quem foram penhorados os bens onde não corra o processo para, no prazo de 15 dias, apresentarem certidão das dívidas que devam ser reclamadas.
+
+2 - Se a certidão tiver de ser passada pelo órgão periférico regional da administração tributária onde correr o processo, será junto a este, sem mais formalidades, no prazo de 10 dias a contar da penhora.
+
+3 - Às certidões e à citação a que se refere este artigo é aplicável o disposto nos n.os 2, 3 e 4 do artigo 80.º do presente Código.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 100/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/100-2017-108063581), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 50.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, 2º Suplemento, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+###### Artigo 242.º — Citação edital dos credores desconhecidos e sucessores não habilitados dos preferentes
+
+Para a citação dos credores desconhecidos e sucessores não habilitados dos preferentes afixar-se-á um só edital no órgão da execução fiscal onde correr a execução.
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 243.º — Prazo de reclamação de créditos pelo representante da Fazenda Pública
+
+O representante da Fazenda Pública junto do tribunal tributário de 1.ª instância da área do órgão da execução fiscal reclamará os créditos no prazo de 25 dias a contar da data em que for notificado.
+
+> Revogado pelo/a Artigo 127.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+###### Artigo 244.º — Realização da venda
+
+1 - A venda realiza-se após o termo do prazo de reclamação de créditos.
+
+2 - Não há lugar à realização da venda de imóvel destinado exclusivamente a habitação própria e permanente do devedor ou do seu agregado familiar, quando o mesmo esteja efetivamente afeto a esse fim.
+
+3 - O disposto no número anterior não é aplicável aos imóveis cujo valor tributável se enquadre, no momento da penhora, na taxa máxima prevista para a aquisição de prédio urbano ou de fração autónoma de prédio urbano destinado exclusivamente a habitação própria e permanente, em sede de imposto sobre as transmissões onerosas de imóveis.
+
+4 - Nos casos previstos no número anterior, a venda só pode ocorrer um ano após o termo do prazo de pagamento voluntário da dívida mais antiga.
+
+5 - A penhora do bem imóvel referido no n.º 2 não releva para efeitos do disposto no artigo 217.º, enquanto se mantiver o impedimento à realização da venda previsto no número anterior, e não impede a prossecução da penhora e venda dos demais bens do executado.
+
+6 - O impedimento legal à realização da venda de imóvel afeto a habitação própria e permanente previsto no n.º 2 pode cessar a qualquer momento, a requerimento do executado.
+
+7 - Pode ser suspensa, mediante decisão fundamentada do órgão de execução fiscal, a realização da venda, sempre que for do interesse da execução, nomeadamente quando o valor dos créditos reclamados pelos credores referidos nos artigos 240.º e 242.º for manifestamente superior ao da dívida exequenda e acrescido, podendo a execução prosseguir em outros bens.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2016 - Diário da República n.º 99/2016, Série I de 2016-05-23](https://diariodarepublica.pt/dr/detalhe/lei/13-2016-74498465), em vigor a partir de 2016-05-24
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 245.º — Verificação e graduação de créditos
+
+1 - A verificação e graduação dos créditos tem efeito suspensivo quanto ao seu objecto, sem prejuízo do andamento da execução fiscal até à venda dos bens.
+
+2 - Havendo reclamações ou juntas as certidões referidas no artigo 241.º, o órgão de execução fiscal procede à verificação e graduação de créditos, notificando dela todos os credores que reclamaram créditos.
+
+3 - Os credores referidos no número anterior podem reclamar da verificação e graduação de créditos nos termos e prazos previstos nos artigos 276.º e seguintes.
+
+4 - A reclamação referida no número anterior tem efeitos suspensivos, procedendo-se à sua remessa imediata, por via eletrónica, ao tribunal tributário de 1.ª instância, acompanhada do processo principal.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+> Alterado pelo/a Artigo 126.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 246.º — Disposições aplicáveis à reclamação de créditos
+
+1 - Na reclamação de créditos observam-se as disposições do Código de Processo Civil, exceto no que respeita à reclamação da decisão de verificação e graduação, que é efetuada exclusivamente nos termos dos artigos 276.º a 278.º deste código.
+
+2 - Na reclamação de créditos só é admissível prova documental.
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+###### Artigo 247.º — Devolução do processo de reclamação de créditos ao órgão da execução fiscal
+
+1 - Os processos que tiverem subido ao tribunal tributário de 1.ª instância, em virtude de reclamação da decisão do órgão de execução fiscal, para decisão da verificação e graduação de créditos, são devolvidos ao órgão da execução fiscal após o trânsito em julgado da decisão.
+
+2 - No caso de o tribunal tributário de 1.ª instância não poder efectuar a liquidação por não dispor dos elementos necessários, solicitá-los-á ao órgão da execução fiscal para que lhes forneça no prazo que fixar.
+
+> Alterado pelo/a Artigo 126.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+#### Secção IX — Da venda dos bens penhorados
+
+###### Artigo 248.º — Regra geral
+
+1 - A venda é feita preferencialmente por meio de leilão electrónico ou, na sua impossibilidade, de propostas em carta fechada, nos termos dos números seguintes, salvo quando o presente Código disponha de forma contrária.
+
+2 - A venda é realizada por leilão electrónico, que decorre durante 15 dias, sendo o valor base o correspondente a 70 % do determinado nos termos do artigo 250.º
+
+3 - Inexistindo propostas nos termos do número anterior, a venda passa imediatamente para a modalidade de proposta em carta fechada, que decorre durante 15 a 20 dias, baixando o valor base referido no número anterior para 50 % do determinado nos termos do artigo 250.º
+
+4 - Não sendo apresentadas propostas nos termos fixados nos números anteriores, é aberto de novo leilão electrónico, que decorre durante 15 dias, adjudicando-se o bem à proposta de valor mais elevado.
+
+5 - Sem prejuízo do disposto no n.º 2 do artigo 235.º e no n.º 7 do artigo 244.º, qualquer que seja a modalidade de venda ou as tentativas de venda já realizadas, a venda não pode ser adjudicada por um montante inferior a 20 % do valor determinado nos termos do artigo 250.º
+
+6 - O órgão de execução fiscal pode determinar a venda em outra modalidade prevista no Código de Processo Civil.
+
+7 - Os procedimentos e especificações da realização da venda por leilão electrónico são definidos por portaria do Ministro das Finanças.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2016 - Diário da República n.º 125/2016, Série I de 2016-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2016-74843513), em vigor a partir de 2016-07-02
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 126.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 249.º — Publicidade da venda
+
+1 - Determinada a venda, procede-se à respectiva publicitação, mediante divulgação através da Internet.
+
+2 - O disposto no número anterior não prejudica que, por iniciativa do órgão da execução fiscal ou por sugestão dos interessados na venda, sejam utilizados outros meios de divulgação.
+
+3 - (Revogado).
+
+4 - (Revogado).
+
+5 - Em todos os meios de publicitação da venda incluem-se, por forma que permita a sua fácil compreensão, as seguintes indicações:
+
+a) Designação do órgão por onde corre o processo;
+
+b) Nome ou firma do executado;
+
+c) Identificação sumária dos bens;
+
+d) Local, prazo e horas em que os bens podem ser examinados;
+
+e) Valor base da venda;
+
+f) Designação e endereço do órgão a quem devem ser entregues ou enviadas as propostas;
+
+g) Data e hora limites para recepção das propostas;
+
+h) Data, hora e local de abertura das propostas;
+
+i) Qualquer condição prevista em lei especial para a aquisição, detenção ou comercialização dos bens.
+
+6 - Os bens devem estar patentes no local indicado, pelo menos até ao dia e hora limites para recepção das propostas, sendo o depositário obrigado a mostrá-los a quem pretenda examiná-los, durante as horas fixadas nos meios de publicitação da venda.
+
+7 - Os titulares do direito de preferência na alienação dos bens são notificados do dia e hora da entrega dos bens ao proponente, para poderem exercer o seu direito no acto da adjudicação.
+
+8 - A publicitação através da Internet faz-se nos termos definidos em portaria do Ministro das Finanças.
+
+9 - (Revogado).
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 250.º — Valor base dos bens para a venda
+
+1 - O valor base para venda é determinado da seguinte forma:
+
+a) Os imóveis urbanos, inscritos ou omissos na matriz, pelo valor patrimonial tributário apurado nos termos do Código do Imposto Municipal sobre Imóveis (CIMI);
+
+b) Os imóveis rústicos, pelo valor patrimonial atualizado com base em fatores de correção monetária, nos termos do disposto na alínea c) do n.º 1 do artigo 27.º do Decreto-Lei n.º 287/2003, de 12 de novembro, ou pelo valor de mercado, quando superior;
+
+2 - Sem prejuízo da determinação do valor dos bens imóveis para venda nos termos do número anterior, quando se mostre evidente que o valor de mercado dos bens é manifestamente superior ao apurado por aquelas regras, a requerimento do executado ou por iniciativa do órgão de execução fiscal pode ainda recorrer-se à determinação do valor com recurso a parecer técnico de um perito especializado e registado na Comissão do Mercado de Valores Mobiliários, seguindo-se a demais tramitação do processo.
+
+3 - O órgão da execução fiscal promove oficiosamente a avaliação dos prédios urbanos ainda não avaliados nos termos do CIMI, que estará concluída no prazo máximo de 20 dias e será efectuada por verificação directa, sem necessidade dos documentos previstos no artigo 37.º do respectivo Código.
+
+4 - A avaliação efectuada nos termos do número anterior produz efeitos imediatos em sede do IMI.
+
+5 - O valor base a anunciar para venda é igual a 70 % do determinado nos termos do n.º 1.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 84.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01
+
+> Alterado pelo/a Artigo 93.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 251.º — Local de entrega das propostas e de realização da venda Equiparação da concessão mineira a imóvel
+
+1 - A entrega de propostas far-se-á no local do órgão da execução fiscal onde vai ser efectuada a venda.
+
+2 -  A proposta pode ser igualmente enviada por transmissão electrónica de dados, nos termos definidos em portaria do Ministro das Finanças.
+
+3 - A concessão mineira é equiparada a imóvel, devendo, se abranger vários concelhos, a venda realizar-se no órgão da execução fiscal da área onde se processa a maior parte do processo de exploração.
+
+4 - A validade da venda da concessão mineira depende de autorização expressa do ministro competente, a requerimento do adquirente, a apresentar no prazo de 60 dias após a sua realização.
+
+> Alterado pelo/a Artigo 93.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 252.º — Outras modalidades de venda
+
+1 - A venda por outra das modalidades previstas no Código de Processo Civil só é efectuada nos seguintes casos:
+
+a) Quando a modalidade de venda for a de propostas em carta fechada e no dia designado para a abertura de propostas se verificar a inexistência de proponentes ou a existência apenas de propostas de valor inferior ao valor base anunciado;
+
+b) Quando os bens a vender forem valores mobiliários admitidos à cotação em bolsa;
+
+c) Quando for determinado pelo órgão de execução fiscal.
+
+d) ...
+
+e) Quando for determinado pelo dirigente máximo do serviço.
+
+2 - Quando haja fundada urgência na venda de bens, ou estes sejam de valor não superior a 40 unidades de conta, pode o órgão de execução fiscal determinar a venda por negociação particular.
+
+3 - Quando tenha lugar a venda por negociação particular, são publicitados na Internet, nos termos definidos em portaria do Ministro das Finanças, o nome ou firma do executado, o órgão por onde corre o processo, a identificação sumária dos bens, o local, o prazo e as horas em que estes podem ser examinados, o valor base da venda e o nome ou firma do negociador, bem como a residência ou sede deste.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2016 - Diário da República n.º 125/2016, Série I de 2016-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2016-74843513), em vigor a partir de 2016-07-02
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 126.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 38/2003 - Diário da República n.º 57/2003, Série I-A de 2003-03-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2003-220944), em vigor a partir de 2003-09-15
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 253.º — Adjudicação dos bens na venda por proposta em carta fechada
+
+Na venda por meio de propostas em carta fechada observar-se-á o seguinte:
+
+a) A abertura das propostas far-se-á no dia e hora designados, na presença do órgão da execução fiscal, podendo assistir à abertura os proponentes, os reclamantes citados nos termos do artigo 239.º e quem puder exercer o direito de preferência ou remissão;
+
+b) Se o preço mais elevado, com o limite mínimo previsto no n.º 5 do artigo 250.º, for oferecido por mais de um proponente, abre-se logo licitação entre eles, salvo se declararem que pretendem adquirir os bens em compropriedade;
+
+c) Estando presente só um dos proponentes do maior preço, pode esse cobrir a proposta dos outros e, se nenhum deles estiver presente ou nenhum quiser cobrir a proposta dos outros, procede-se a sorteio para determinar a proposta que deve prevalecer.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+###### Artigo 254.º — Arrematação
+
+1 - A arrematação é presidida pelo órgão da execução fiscal, que mandará anunciar a abertura da praça.
+
+2 - Os bens móveis, incluindo os créditos, podem ser arrematados singularmente, por lotes ou em globo, conforme o órgão da execução fiscal considerar mais conveniente.
+
+3 - Os imóveis serão arrematados um por um, salvo se razões especiais de proximidade ou dependência tomarem presumivelmente mais rendosa a arrematação conjunta.
+
+4 - Posto em leilão cada objecto ou lote, o funcionário competente exercerá as funções de pregoeiro, anunciando em voz alta o primeiro lanço que aparecer acima do valor e os que se sucederem e tomando conta dos respectivos licitantes.
+
+5 - A licitação só se considera finda quando o funcionário competente tiver anunciado, por três vezes, o lanço mais elevado e este lanço não for coberto.
+
+6 - Terminada a licitação, serão interpelados os titulares do direito de preferência para que declarem se querem exercer o seu direito.
+
+7 - Apresentando-se a preferir mais de uma pessoa com igual direito, abre-se licitação entre elas, fazendo-se a adjudicação à que oferecer maior preço.
+
+8 - Se, passada uma hora, não houver lanço superior ao valor por que os bens foram postos em praça, é esta encerrada e decidida uma segunda praça, nos termos do n.º 3 do artigo 250.º, designando-se logo o dia, se possível.
+
+9 - Da primeira à segunda praça mediará o intervalo de seis dias, pelo menos.
+
+10 - Sem prejuízo de outras formas de publicidade reputadas convenientes, a notícia da segunda praça é dada por um único edital afixado com a antecipação mínima de três dias por um único anúncio, que se publicará com igual antecipação.
+
+11 - A afixação faz-se, tratando-se de prédio urbano, na porta deste e, quando se trate de outra espécie de bens, na do edifício onde deva realizar-se a arrematação.
+
+12 - Não se repete em caso algum a notificação aos preferentes.
+
+> Revogado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 255.º — Inexistência de propostas
+
+Quando não houver propostas que satisfaçam o valor base do artigo 248.º, o órgão da execução fiscal pode adquirir os bens para a Fazenda Pública, com observância do seguinte:
+
+a) Até ao valor da dívida exequenda e do acrescido, salvo se o valor real dos bens for inferior ao total da dívida, caso em que o preço não deverá exceder dois terços desse valor;
+
+b) No caso de se tratar de prédio ou outro bem que esteja onerado com encargos mais privilegiados do que as dívidas ao Estado, o direito referido no presente artigo será exercido pelo dirigente máximo do serviço, quando o montante daqueles encargos for inferior a dois terços do valor real do prédio;
+
+c) Efectuada a aquisição para a Fazenda Pública, o funcionário competente, quando for caso disso, promove o registo na conservatória, aplicando-se o disposto no n.º 4 do artigo 195.º, e envia todos os documentos ao imediato superior hierárquico;
+
+d) O imediato superior hierárquico comunica a aquisição à Direcção-Geral do Património.
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 256.º — Formalidades da venda
+
+1 - A venda obedece ainda aos seguintes requisitos:
+
+a) Não podem ser adquirentes, por si, por interposta pessoa ou por entidade jurídica em que participem, os magistrados e os funcionários da administração tributária;
+
+b) Não podem ser adquirentes entidades não residentes submetidas a um regime fiscal claramente mais favorável ou aquelas cujos regimes jurídicos não permitam identificar os titulares efectivos do capital;
+
+c) Das vendas de bens móveis, efectuadas no mesmo dia e no mesmo processo, lavrar-se-á um único auto, mencionando-se o nome de cada adquirente, os objectos ou lotes vendidos e o preço;
+
+d) Nas vendas de bens imóveis lavrar-se-á um auto por cada prédio;
+
+e) O funcionário competente passa guia para o adquirente depositar a totalidade do preço à ordem do órgão da execução fiscal, no prazo de 15 dias a contar da decisão de adjudicação, sob pena das sanções previstas legalmente;
+
+f) Nas aquisições de valor superior a 500 vezes a unidade de conta, mediante requerimento fundamentado do adquirente, entregue no prazo máximo de cinco dias a contar da decisão de adjudicação, pode ser autorizado o depósito, no prazo referido na alínea anterior, de apenas parte do preço, não inferior a um quinto, obrigando-se à entrega da parte restante no prazo máximo de 12 meses;
+
+g) Efectuado o depósito, juntar-se-á ao processo um duplicado da guia;
+
+h) O adquirente, ainda que demonstre a sua qualidade de credor, nunca será dispensado do depósito do preço;
+
+i) O Estado, os institutos públicos e as instituições de segurança social não estão sujeitos à obrigação do depósito do preço, enquanto tal não for necessário para pagamento de credores mais graduados no processo de reclamação de créditos.
+
+2 - O adquirente pode, com base no título de transmissão, requerer ao órgão de execução fiscal, contra o detentor e no próprio processo, a entrega dos bens.
+
+3 - O órgão de execução fiscal pode solicitar o auxílio das autoridades policiais para a entrega do bem adjudicado ao adquirente.
+
+4 - Sem prejuízo de outras disposições legais, o não pagamento do preço devido, no prazo determinado legalmente, impede o adjudicatário faltoso de apresentar qualquer proposta em qualquer venda em execução fiscal, durante um período de dois anos.
+
+5 - A transmissão do direito de propriedade só ocorre com a emissão do título de transmissão, depois de depositado o preço e cumpridas as obrigações fiscais.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 126.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05
+
+###### Artigo 257.º — Anulação da venda
+
+1 - A anulação da venda só poderá ser requerida dentro dos prazos seguintes:
+
+a) De 90 dias, no caso de a anulação se fundar na existência de algum ónus real que não tenha sido tomado em consideração e não haja caducado ou em erro sobre o objecto transmitido ou sobre as qualidades por falta de conformidade com o que foi anunciado;
+
+b) De 30 dias, quando for invocado fundamento de oposição à execução que o executado não tenha podido apresentar no prazo da alínea a) do n.º 1 do artigo 203.º;
+
+c) De 15 dias, nos restantes casos previstos no Código de Processo Civil.
+
+2 - O prazo contar-se-á da data da venda ou da que o requerente tome conhecimento do facto que servir de fundamento à anulação, competindo-lhe provar a data desse conhecimento, ou do trânsito em julgado da acção referida no n.º 3.
+
+3 - Se o motivo da anulação da venda couber nos fundamentos da oposição à execução, a anulação depende do reconhecimento do respectivo direito nos termos do presente Código, suspendendo-se o prazo referido na alínea c) do n.º 1 no período entre a acção e a decisão.
+
+4 - O pedido de anulação da venda deve ser dirigido ao órgão periférico regional da administração tributária que, no prazo máximo de 45 dias, pode deferir ou indeferir o pedido, ouvidos todos os interessados na venda, no prazo previsto no artigo 60.º da lei geral tributária.
+
+5 - Decorrido o prazo previsto no número anterior sem qualquer decisão expressa, o pedido de anulação da venda é considerado indeferido.
+
+6 - Havendo decisão expressa, deve esta ser notificada a todos os interessados no prazo de 10 dias.
+
+7 - Da decisão, expressa ou tácita, sobre o pedido de anulação da venda cabe reclamação nos termos do artigo 276.º
+
+8 - A anulação da venda não prejudica os direitos que possam assistir ao adquirente em virtude da aplicação das normas sobre enriquecimento sem causa.
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 258 — Remição
+
+O direito de remição é reconhecido nos termos previstos no Código de Processo Civil.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2001 - Diário da República n.º 130/2001, Série I-A de 2001-06-05](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), em vigor a partir de 2001-07-05.
+
+#### Secção X — Da extinção da execução
+
+##### Subsecção I — Da extinção por pagamento coercivo
+
+###### Artigo 259.º — Levantamento da quantia necessária para o pagamento
+
+1 - Se a penhora for de dinheiro, o levantamento da quantia necessária para o pagamento da dívida exequenda e do acrescido será feito por via de mandado passado a favor do órgão da execução fiscal.
+
+2 - Tratando-se de depósito obrigatório na instituição de crédito competente, solicitar-se-á a esta a passagem de precatório-cheque a favor do órgão da execução fiscal onde correr o processo.
+
+###### Artigo 260.º — Cancelamento de registos
+
+O levantamento da penhora e o cancelamento dos registos dos direitos reais que caducam, nos termos do n.º 2 do artigo 824.º do Código Civil, serão ordenados pelo órgão da execução fiscal se anteriormente não tiverem sido requeridos pelo adquirente dos bens.
+
+###### Artigo 261.º — Extinção da execução pelo pagamento coercivo
+
+1 - Se, em virtude da penhora ou da venda, forem arrecadadas importâncias suficientes para solver a execução, e não houver lugar a verificação e graduação de créditos, será aquela declarada extinta depois de feitos os pagamentos.
+
+2 - No despacho, que não será notificado, o órgão da execução fiscal declarará se foram cumpridas as formalidades legais, designadamente as da conta e dos pagamentos.
+
+###### Artigo 262.º — Insuficiência da importância arrecadada. Pagamentos parciais
+
+1 - Sempre que seja ou possa ser reclamado no processo de execução fiscal um crédito tributário existente e o produto da venda dos bens penhorados não seja suficiente para o seu pagamento, o processo continuará seus termos até integral execução dos bens do executado e responsáveis solidários ou subsidiários, sendo entretanto sustados os processos de execução fiscal pendentes com o mesmo objecto.
+
+2 - Quando, em virtude de penhora ou de venda, forem arrecadadas importâncias insuficientes para solver a dívida exequenda e o acrescido, são sucessivamente aplicadas, em primeiro lugar, na amortização dos juros de mora, de outros encargos legais e da dívida tributária mais antiga, incluindo juros compensatórios, salvo tratando-se de dívidas de recursos próprios tradicionais da União Europeia, caso em que são sucessivamente aplicadas no pagamento da dívida tributária, incluindo juros compensatórios, dos juros de mora e dos encargos legais.
+
+3 - O montante aplicado no pagamento dos juros de mora não pode em caso algum ser superior ao de metade do capital da dívida a amortizar.
+
+4 - Se a execução não for por tributos ou outros rendimentos em dívida à Fazenda Pública, pagar-se-ão, sucessivamente, as custas, a dívida exequenda e os juros de mora.
+
+5 - Se a dívida exequenda abranger vários títulos de cobrança e a quantia arrecadada perfizer a importância de um deles, é satisfeito esse documento, salvo se um dos títulos for decorrente de dívidas de recursos próprios tradicionais da União Europeia, caso em que as importâncias arrecadadas são aplicadas proporcionalmente entre estes recursos próprios tradicionais e os restantes impostos.
+
+6 - Se a execução não respeitar a dívidas de recursos próprios tradicionais e se a quantia não chegar para pagar um título de cobrança ou se, pago um por inteiro, sobrar qualquer importância, é dado pagamento por conta ao documento mais antigo; se forem da mesma data, é imputado no documento de menor valor e, em igualdade de circunstâncias, em qualquer deles.
+
+7 - (Revogado).
+
+8 - Os juros de mora são devidos relativamente à parte que for paga até ao mês, inclusive, em que se tiver concluído a venda dos bens ou, se a penhora for de dinheiro, até ao mês em que esta se efectuou.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-07-01
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 263.º — Guia para pagamento coercivo
+
+O pagamento coercivo é sempre feito através do documento único de cobrança.
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 238/2006 - Diário da República n.º 243/2006, Série I de 2006-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2006-552372), em vigor a partir de 2007-01-01
+
+##### Subsecção II — Da extinção por pagamento voluntário
+
+###### Artigo 264.º — Pagamento voluntário. Pagamento por conta
+
+1 - A execução extinguir-se-á no estado em que se encontrar se o executado, ou outra pessoa por ele, pagar a dívida exequenda e o acrescido, salvo o que, na parte aplicável, se dispõe neste Código sobre a sub-rogação.
+
+2 - Sem prejuízo do andamento do processo, pode efetuar-se qualquer pagamento por conta do débito, desde que a entrega não seja inferior a um quarto da unidade de conta, observando-se, neste caso, o disposto nos n.os 2 a 6 do artigo 262.º
+
+3 - Na execução fiscal são admitidos sem excepção os meios de pagamento previstos na fase do pagamento voluntário das obrigações tributárias.
+
+4 - Sem prejuízo do disposto no n.º 2, o pagamento de um valor mínimo de 10 % do valor em dívida suspende o procedimento de venda desse processo de execução fiscal, por um período de 30 dias.
+
+> Nota: [Artigo 17.º, Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130) A Lei n.º 7/2021, de 26 de fevereiro, dispõe que o n.º 4 do artigo 264.º entra em vigor a 1 de julho de 2021.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 265.º — Formalidades do pagamento voluntário
+
+1 - O pagamento pode ser efectuado a qualquer tempo, mediante a emissão do respectivo documento único de pagamento.
+
+2 - (Revogado).
+
+3 - O pagamento não susta o concurso de credores se for efetuado após a realização da venda.
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 238/2006 - Diário da República n.º 243/2006, Série I de 2006-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2006-552372), em vigor a partir de 2007-01-01
+
+###### Artigo 266.º — Pagamento havendo carta precatória
+
+Quando tiver sido expedida carta precatória, o pagamento poderá ser feito no órgão de execução fiscal deprecado ou no deprecante.
+
+###### Artigo 267.º — Pagamento no órgão da execução fiscal deprecante
+
+1 - Se o pagamento for requerido perante o órgão da execução fiscal deprecante, este mandará depositar à sua ordem, em operações de tesouraria, a quantia que repute suficiente para o pagamento da dívida e do acrescido.
+
+2 - Efectuado o depósito, solicitar-se-á de imediato a devolução da carta precatória no estado em que se encontrar, e, recebida esta, o funcionário, dentro de 24 horas, contará o processo e processará uma guia de operações de tesouraria, que remeterá à Direcção-Geral do Tesouro, com cópia para o processo.
+
+###### Artigo 268.º — Pagamento no órgão da execução fiscal deprecada
+
+Quando o pagamento tiver sido requerido no órgão da execução fiscal deprecado, após o pagamento integral do débito, este juntará à carta precatória o documento comprovativo do pagamento e devolvê-lo-á de imediato ao órgão da execução fiscal deprecante.
+
+###### Artigo 269.º — Extinção da execução pelo pagamento voluntário
+
+1 - O pagamento voluntário da quantia em dívida implica a extinção da execução fiscal, comunicando-se tal facto ao executado, por via eletrónica.
+
+2 - É ainda extinta a execução se, após o pagamento voluntário da totalidade da dívida exequenda e acrescido, em conformidade com o respetivo documento de pagamento integral, se verifique serem devidos juros de mora ou custas, desde que o seu valor total não seja superior a (euro) 10.
+
+3 - A extinção da execução fiscal, nos termos do número anterior, determina, para todos os efeitos legais, a extinção da dívida de juros de mora ou custas.
+
+> Alterado pelo/a Artigo 175.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 152.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 270.º — Extinção da execução por anulação da dívida
+
+1 - O órgão da execução fiscal onde correr o processo deverá declarar extinta a execução, oficiosamente, quando se verifique a anulação da dívida exequenda.
+
+2 - Quando a anulação tiver de efectivar-se por nota de crédito, a extinção só se fará após a sua emissão.
+
+###### Artigo 271.º — Levantamento da penhora e cancelamento do registo
+
+Extinta a execução e após o pagamento de todos os encargos que se mostrem devidos, é ordenado o levantamento da penhora e o cancelamento do seu registo, quando houver lugar a ele.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-07-01
+
+##### Subsecção III — Da declaração em falhas
+
+###### Artigo 272.º — Declaração de falhas
+
+Será declarada em falhas pelo órgão da execução fiscal a dívida exequenda e acrescido quando, em face de auto de diligência, se verifique um dos seguintes casos:
+
+a) Demonstrar a falta de bens penhoráveis do executado, seus sucessores e responsáveis solidários ou subsidiários;
+
+b) Ser desconhecido o executado e não ser possível identificar o prédio, quando a dívida exequenda for de tributo sobre a propriedade imobiliária;
+
+c) Encontrar-se ausente em parte incerta o devedor do crédito penhorado e não ter o executado outros bens penhoráveis.
+
+###### Artigo 273.º — Eliminação do prédio da matriz
+
+Se o fundamento da declaração em falhas for o da alínea b) do artigo anterior, o órgão competente eliminará na matriz o artigo referente ao prédio desconhecido.
+
+###### Artigo 274.º — Prosseguimento da execução da dívida declarada em falhas
+
+A execução por dívida declarada em falhas prosseguirá, sem necessidade de nova citação e a todo o tempo, salvo prescrição, logo que haja conhecimento de que o executado, seus sucessores ou outros responsáveis possuem bens penhoráveis ou, no caso previsto na alínea b) do artigo 272.º, logo que se identifique o executado ou o prédio.
+
+###### Artigo 275.º — Inscrição do prédio na matriz
+
+Quando houver dívida declarada em falhas, inscrever-se-á na matriz o prédio cuja identificação se tornou possível.
+
+#### Secção XI — Das reclamações e recursos das decisões do órgão da execução fiscal
+
+###### Artigo 276.º — Reclamações das decisões do órgão da execução fiscal
+
+As decisões proferidas pelo órgão da execução fiscal e outras autoridades da administração tributária que no processo afectem os direitos e interesses legítimos do executado ou de terceiro são susceptíveis de reclamação para o tribunal tributário de l.ª instância.
+
+> Alterado pelo/a Artigo 50.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, 2º Suplemento, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+###### Artigo 277.º — Prazo e apresentação da reclamação
+
+1 - A reclamação será apresentada no prazo de 10 dias após a notificação da decisão e indicará expressamente os fundamentos e conclusões.
+
+2 - A reclamação é apresentada no órgão da execução fiscal que, no prazo de 10 dias, poderá ou não revogar o acto reclamado.
+
+3 - Caso o acto reclamado tenha sido proferido por entidade diversa do órgão da execução fiscal, o prazo referido no número anterior é de 30 dias.
+
+> Alterado pelo/a Artigo 50.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, 2º Suplemento, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+###### Artigo 278.º — Regime da reclamação
+
+1 - O tribunal só conhecerá das reclamações quando, depois de realizadas a penhora e a venda, o processo lhe for remetido a final.
+
+2 - Antes do conhecimento das reclamações, será notificado o representante da Fazenda Pública para responder, no prazo de 8 dias, ouvido o representante do Ministério Público, que se pronunciará no mesmo prazo.
+
+3 - O disposto no n.º 1 não se aplica quando a reclamação se fundamentar em prejuízo irreparável causado por qualquer das seguintes ilegalidades:
+
+a) Inadmissibilidade da penhora dos bens concretamente apreendidos ou da extensão com que foi realizada;
+
+b) Imediata penhora dos bens que só subsidiariamente respondam pela dívida exequenda;
+
+c) Incidência sobre bens que, não respondendo, nos termos de direito substantivo, pela dívida exequenda, não deviam ter sido abrangidos pela diligência;
+
+d) Determinação da prestação de garantia indevida ou superior à devida;
+
+e) Erro na verificação ou graduação de créditos;
+
+f) Falta de fundamentação da decisão relativa à apensação.
+
+4 - No caso previsto no número anterior, caso não se verificar a circunstância dos n.os 2 e 3 do artigo 277.º, o órgão da execução fiscal fará subir a reclamação no prazo de oito dias.
+
+5 - Em caso de subida imediata, a administração tributária remete por via eletrónica a reclamação e o processo executivo que a acompanha.
+
+6 - A reclamação referida no n.º 3 suspende os efeitos do ato reclamado e segue as regras dos processos urgentes.
+
+7 - Considera-se haver má fé, para efeitos de tributação em sanção pecuniária por esse motivo, a apresentação do pedido referido no n.º 3 do presente artigo sem qualquer fundamento razoável.
+
+8 - Com a remessa para o tribunal tributário de 1.ª instância, a execução fica suspensa até à decisão do pleito, desde que a reclamação tenha por objeto matéria que afete a totalidade da tramitação da execução.
+
+9 - Quando a reclamação incida apenas sobre parte do processo de execução fiscal, o processo suspende-se apenas quanto a esta parte.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 126.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+> Alterado pelo/a Artigo 50.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, 2º Suplemento, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+## Título V — Dos recursos dos actos jurisdicionais
+
+###### Artigo 279.º — Âmbito
+
+1 - O presente título aplica-se:
+
+a) Aos recursos dos actos jurisdicionais praticados no processo judicial tributário regulado pelo presente Código;
+
+b) Aos recursos dos actos jurisdicionais no processo de execução fiscal, designadamente as decisões sobre incidentes, oposição, pressupostos da responsabilidade subsidiária, verificação e graduação definitiva de créditos, adulação da venda e recursos dos demais actos praticados pelo órgão da execução fiscal.
+
+2 - Os recursos dos actos jurisdicionais sobre meios processuais acessórios comuns à jurisdição administrativa e tributária são regulados pelas normas sobre processo nos tribunais administrativos.
+
+###### Artigo 280.º — Recursos das decisões proferidas em processos judiciais
+
+1 - Das decisões dos tribunais tributários de 1.ª instância cabe recurso, a interpor pelo impugnante, recorrente, executado, oponente ou embargante, pelo Ministério Público, pelo representante da Fazenda Pública e por qualquer outro interveniente que no processo fique vencido, para o Tribunal Central Administrativo, salvo nas situações previstas no n.º 3.
+
+2 - O recurso das decisões que, em primeiro grau de jurisdição, tenham conhecido do mérito da causa é admitido nos processos de valor superior à alçada do tribunal de que se recorre, quando a decisão impugnada seja desfavorável ao recorrente em valor superior a metade da alçada desse tribunal, atendendo-se somente, em caso de fundada dúvida acerca do valor da sucumbência, ao valor da causa.
+
+3 - Os recursos interpostos das decisões de mérito proferidas por tribunais tributários são da competência do Supremo Tribunal Administrativo quando cumulativamente:
+
+a) As partes aleguem apenas questões de direito;
+
+b) O valor da causa seja superior à alçada dos tribunais centrais administrativos;
+
+c) O valor da sucumbência seja superior a metade da alçada do tribunal de que se recorre.
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - Para além dos casos previstos na lei processual civil e administrativa, é sempre admissível recurso, independentemente do valor da causa e da sucumbência, de decisões que perfilhem solução oposta relativamente ao mesmo fundamento de direito e na ausência substancial de regulamentação jurídica, com mais de três sentenças do mesmo ou de outro tribunal tributário.
+
+> Nota: [Artigo 8.º, Decreto-Lei n.º 74-B/2023 - Diário da República n.º 166/2023, 1º Suplemento, Série I de 2023-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-b-2023-220956295) determina que as alterações introduzidas aos números 1, 3 e 6 do presente artigo aplicam-se aos processos pendentes nos tribunais tributários à data da sua entrada em vigor (29-08-2023).
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 74-B/2023 - Diário da República n.º 166/2023, 1º Suplemento, Série I de 2023-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-b-2023-220956295), em vigor a partir de 2023-08-29
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+> Alterado pelo/a Artigo 222.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+###### Artigo 281.º — Interposição, processamento e julgamento dos recursos
+
+Os recursos das decisões proferidas pelos tribunais tributários, ainda que interlocutórias, regem-se pelo disposto no Código de Processo Civil, salvo o disposto no presente título.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+###### Artigo 282.º — Interposição de recurso
+
+1 - O prazo para a interposição de recurso é de 30 dias e conta-se a partir da notificação da decisão recorrida.
+
+2 - O recurso é interposto mediante requerimento dirigido ao tribunal que proferiu a decisão, que inclui ou junta a respetiva alegação e no qual são enunciados os vícios imputados à decisão e formuladas conclusões.
+
+3 - Recebido o requerimento, a secretaria promove oficiosamente a notificação do recorrido e do Ministério Público, salvo se este for recorrente, para alegações no prazo de 30 dias.
+
+4 - Se o recurso tiver por objeto a reapreciação da prova gravada, ao prazo de interposição e de resposta acrescem 10 dias.
+
+5 - Findos os prazos concedidos aos recorrentes, o juiz ou relator aprecia os requerimentos apresentados e pronuncia-se sobre as nulidades arguidas e os pedidos de reforma, ordenando a subida do recurso se a tal nada obstar.
+
+6 - Do despacho do juiz ou relator que não admita o recurso pode o recorrente reclamar, segundo o disposto na lei processual civil, para o tribunal que seria competente para dele conhecer.
+
+7 - Do despacho do relator que não receba o recurso interposto de decisão da Secção de Contencioso Tributário do Supremo Tribunal Administrativo para o Pleno do mesmo Tribunal, ou o retenha, cabe reclamação para a conferência e da decisão desta não há recurso.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 160/2003 - Diário da República n.º 165/2003, Série I-A de 2003-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2003-670764), em vigor a partir de 2003-07-24
+
+###### Artigo 283.º — Prazo para interposição de recurso nos processos urgentes
+
+Nos processos urgentes, os recursos são interpostos no prazo de 15 dias, mediante requerimento dirigido ao tribunal que proferiu a decisão, que inclui ou junta a respetiva alegação e no qual são enunciados os vícios imputados à decisão e formuladas conclusões.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+###### Artigo 284.º — Recurso para uniformização de jurisprudência
+
+1 - As partes e o Ministério Público podem dirigir ao Supremo Tribunal Administrativo, no prazo de 30 dias contado do trânsito em julgado do acórdão impugnado, pedido de admissão de recurso para uniformização de jurisprudência, quando, sobre a mesma questão fundamental de direito, exista contradição:
+
+a) Entre um acórdão do Tribunal Central Administrativo, e outro acórdão anteriormente proferido pelo mesmo ou outro Tribunal Central Administrativo ou pelo Supremo Tribunal Administrativo;
+
+b) Entre dois acórdãos do Supremo Tribunal Administrativo.
+
+2 - A petição de recurso é acompanhada de alegação na qual se identifiquem, de forma precisa e circunstanciada, os aspetos de identidade que determinam a contradição alegada e a infração imputada ao acórdão recorrido.
+
+3 - O recurso não é admitido se a orientação perfilhada no acórdão impugnado estiver de acordo com a jurisprudência mais recentemente consolidada do Supremo Tribunal Administrativo.
+
+4 - O recurso é julgado pelo pleno da secção e o acórdão é publicado na 1.ª série do Diário da República.
+
+5 - A decisão de provimento emitida pelo tribunal superior não afeta qualquer decisão anterior àquela que tenha sido impugnada, nem as situações jurídicas ao seu abrigo constituídas.
+
+6 - A decisão que verifique a existência da contradição alegada anula o acórdão recorrido e substitui-o, decidindo a questão controvertida.
+
+7 - O recurso de uniformização de jurisprudência deve ser interposto pelo Ministério Público, mesmo quando não seja parte na causa, caso em que não tem qualquer influência na decisão desta, destinando-se unicamente à emissão de acórdão de uniformização sobre o conflito de jurisprudência.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+###### Artigo 285.º — Recurso de revista
+
+1 - Das decisões proferidas em segunda instância pelo Tribunal Central Administrativo pode haver, excecionalmente, revista para o Supremo Tribunal Administrativo, quando esteja em causa a apreciação de uma questão que, pela sua relevância jurídica ou social, se revista de importância fundamental ou quando a admissão do recurso seja claramente necessária para uma melhor aplicação do direito.
+
+2 - A revista só pode ter como fundamento a violação de lei substantiva ou processual.
+
+3 - Aos factos materiais fixados pelo tribunal recorrido, o tribunal de revista aplica definitivamente o regime jurídico que julgue adequado.
+
+4 - O erro na apreciação das provas e na fixação dos factos materiais da causa não pode ser objeto de revista, salvo havendo ofensa de uma disposição expressa de lei que exija certa espécie de prova para a existência do facto ou que fixe a força de determinado meio de prova.
+
+5 - Na revista de decisão de atribuição ou recusa de providência cautelar, o Supremo Tribunal Administrativo, quando não confirme a decisão recorrida, substitui-a por acórdão que decide a questão controvertida, aplicando os critérios de atribuição das providências cautelares por referência à matéria de facto fixada nas instâncias.
+
+6 - A decisão quanto à questão de saber se, no caso concreto, se preenchem os pressupostos do n.º 1 compete ao Supremo Tribunal Administrativo, devendo ser objeto de apreciação preliminar sumária, a cargo de uma formação constituída por três juízes de entre os mais antigos da Secção de Contencioso Tributário.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+###### Artigo 286.º — Subida do recurso
+
+1 - Seguidamente, o processo subirá ao tribunal superior, mediante simples despacho do juiz ou, no caso do recurso, para uniformização de jurisprudência, do relator
+
+2 - Os recursos têm efeito meramente devolutivo, salvo se for prestada garantia nos termos do presente Código ou o efeito devolutivo afectar o efeito útil dos recursos.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+###### Artigo 287.º — Distribuição do recurso
+
+1 - Recebido o processo no tribunal de recurso, procede-se à sua distribuição, de forma eletrónica, aplicando-se, com as necessárias adaptações, o disposto no Código de Processo Civil quanto à distribuição nos tribunais superiores, incluindo os procedimentos a respeitar na atribuição de um processo a um juiz.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 56/2021 - Diário da República n.º 158/2021, Série I de 2021-08-16](https://diariodarepublica.pt/dr/detalhe/lei/56-2021-169602018), em vigor a partir de 2021-10-16
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+###### Artigo 288.º — Julgamento do recurso
+
+1 - Feita a distribuição, o processo vai com vista ao Ministério Público por 20 dias.
+
+2 - Com o parecer do Ministério Público ou decorrido o respetivo prazo, os autos são conclusos ao relator, a quem incumbe deferir todos os termos do recurso até final, nos termos prescritos no Código de Processo Civil.
+
+3 - Do despacho do relator referido no número anterior é admitida reclamação para a conferência.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+###### Artigo 289.º — Julgamento ampliado do recurso
+
+1 - O Presidente do Supremo Tribunal Administrativo ou o do Tribunal Central Administrativo podem determinar que no julgamento de um recurso intervenham todos os juízes da secção quando tal se revele necessário ou conveniente para assegurar a uniformidade da jurisprudência, sendo o quórum de dois terços.
+
+2 - O julgamento nas condições previstas no número anterior pode ser requerido pelas partes e deve ser proposto pelo relator ou pelos adjuntos, designadamente quando se verifique a possibilidade de vencimento de solução jurídica em oposição com jurisprudência anteriormente firmada no domínio da mesma legislação e sobre a mesma questão fundamental de direito.
+
+3 - Determinado o julgamento por todos os juízes da secção, nos termos previstos nos números anteriores, o relator determina a extração de cópia das peças processuais relevantes para o conhecimento do objeto do recurso, as quais são entregues a cada um dos juízes, permanecendo o processo, para consulta, na secretaria do tribunal.
+
+4 - O acórdão é publicado na 1.ª ou na 2.ª série do Diário da República, consoante seja proferido pelo Supremo Tribunal Administrativo ou pelo Tribunal Central Administrativo.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+###### Artigo 290.º — Marcação do julgamento
+
+Lançado o visto do relator, o presidente, no prazo de 10 dias, designará a sessão em que há-de ser julgado o processo, não podendo exceder a segunda sessão imediata.
+
+> Revogado pelo/a Artigo 11.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+###### Artigo 291.º — Ordem dos julgamentos
+
+O julgamento dos processos far-se-á pela ordem da respectiva entrada na secretaria, mas o presidente, oficiosamente ou a requerimento dos interessados, poderá dar prioridade a qualquer processo, havendo justo motivo.
+
+> Revogado pelo/a Artigo 11.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+###### Artigo 292.º — Elaboração da conta
+
+A conta será elaborada no final do processo pelo tribunal que tiver julgado em 1.ª instância.
+
+> Aditado pelo/a Artigo 68.º do/a [Lei n.º 3-B/2000 - Diário da República n.º 80/2000, 2º Suplemento, Série I-A de 2000-04-04](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), em vigor a partir de 2000-04-09, produz efeitos a partir de 2000-01-01
+
+###### Artigo 293.º — Revisão da sentença
+
+1 - A decisão transitada em julgado pode ser objeto de revisão, com qualquer dos fundamentos previstos no Código de Processo Civil, no prazo de quatro anos, correndo o respetivo processo por apenso ao processo em que a decisão foi proferida.
+
+2 - (Revogado.)
+
+3 - O requerimento da revisão é apresentado no tribunal que proferiu a decisão a rever, no prazo de 30 dias a contar dos factos referidos no número anterior, juntamente com a documentação necessária.
+
+4 - Se a revisão for requerida pelo Ministério Público, o prazo de apresentação do requerimento referido no número anterior é de três meses.
+
+5 - Salvo no que vem previsto no presente artigo, a revisão segue os termos do processo em que foi proferida a decisão revidenda.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+> Aditado pelo/a Artigo 68.º do/a [Lei n.º 3-B/2000 - Diário da República n.º 80/2000, 2º Suplemento, Série I-A de 2000-04-04](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), em vigor a partir de 2000-04-09, produz efeitos a partir de 2000-01-01

@@ -1,0 +1,119 @@
+---
+schema_version: '1.0'
+id: pt:dre:239064:por
+title: Portaria n.º 21079
+short_title: null
+summary: Aprova os modelos C. P. D 11, D 11-A, D 17 e D 17-A, que substituem os aprovados pelas Portarias n.os 13366 e 17663
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças - Direcção-Geral da Contabilidade Pública
+proposing_entity: null
+official_number: '21079'
+official_date: null
+publication_date: '1965-02-01'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 26/1965, Série I de 1965-02-01
+  number: '26'
+  series: I
+  supplement: null
+  pages: 123 - 125
+  pdf_url: https://files.diariodarepublica.pt/1s/1965/02/02600/01230125.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '239064'
+  dre_path: /dr/detalhe/portaria/21079-1965-239064
+  internal: pt:dre:239064:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/21079-1965-239064
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21079-1965-239064
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:55:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 36b597a98d330e344cb765d7e0089d36976d466ca4f6d15dcea5423f9a70cb09
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:55:42Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:281669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658745:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:55:42Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 21079
+
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças, nos termos do [Decreto n.º 37769](https://diariodarepublica.pt/dr/detalhe/decreto/37769-1950-658745), de 28 de Fevereiro de 1950:
+
+1.º Aprovar os impressos a seguir discriminados, destinados à entrega de receitas e ao serviço de reposições:
+
+Modelo C. P. D 11 - guia de entrega de receita a emitir pelos serviços;
+
+Modelo C. P. D 11-A - guia de entrega de receita a emitir pelas repartições da contabilidade pública;
+
+Modelo C. P. D 17 - guia de reposição abatida ou não abatida nos pagamentos;
+
+Modelo C. P. D 17-A - guia de reposição de saldos;
+
+os quais substituirão idênticos modelos aprovados, no tocante aos dois primeiros, pela [Portaria n.º 13366](https://diariodarepublica.pt/dr/detalhe/portaria/13366-1950-490883), de 25 de Novembro de 1950, e, quanto aos restantes, pela [Portaria n.º 17663](https://diariodarepublica.pt/dr/detalhe/portaria/17663-1960-281669), de 7 de Abril de 1960.
+
+2.º Estabelecer o seu uso obrigatório, permitindo-se, no entanto, que continuem a ser utilizados, com a necessária adaptação, os impressos actualmente na posse dos serviços.
+
+3.º Considerar os citados impressos como exclusivos da Imprensa Nacional de Lisboa, devendo a sua tiragem ser feita em papel formato normal A4 (210 mm x 297 mm).
+
+Ministério das Finanças, 1 de Fevereiro de 1965. - Pelo Ministro das Finanças, Manuel Tarujo de Almeida, Subsecretário de Estado do Orçamento.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/02/02600/01230125.pdf)
+
+Ministério das Finanças, 1 de Fevereiro de 1965. - Pelo Ministro das Finanças, Manuel Tarujo de Almeida, Subsecretário de Estado do Orçamento.

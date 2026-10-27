@@ -1,0 +1,238 @@
+---
+schema_version: '1.0'
+id: pt:dre:179992:por
+title: Decreto Legislativo Regional n.º 16/85/M
+short_title: null
+summary: Cria na dependência da Secretaria Regional dos Assuntos Sociais, a Escola de enfermagem Pós-Básica da Madeira
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Regional
+proposing_entity: null
+official_number: 16/85/M
+official_date: null
+publication_date: '1985-07-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 172/1985, Série I de 1985-07-29
+  number: '172'
+  series: I
+  supplement: null
+  pages: 2262 - 2264
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/07/17200/22622264.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '179992'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/16-1985-179992
+  internal: pt:dre:179992:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-1985-179992
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-1985-179992
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:37:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7dfa4c9a63f894de5a5346c4d49df7c9e213ddaeacaa9fe4923fae2bd2323afc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:57Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Escola de Enfermagem
+- Escola de Enfermagem Pós-Básica
+- Formação Profissional
+- Madeira.região Autónoma
+relationships:
+- type: amended_by
+  target: pt:numero:portaria:821/89
+  label: RECONVERTIDA EM ESCOLA SUPERIOR DE ENFERMAGEM DA MADEIRA, PELA PORT 821/89 DE 15-SET DR.IS [213] S [213]
+  source: null
+  date: '1989-09-15'
+- type: cites
+  target: pt:dre:151547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568308:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:37:57Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 16/85/M
+
+Criação, na dependência da Secretaria Regional dos Assuntos Sociais, da Escola de Enfermagem Pós-Básica da Madeira
+
+A necessidade de facultar aos enfermeiros da Região Autónoma da Madeira o acesso às habilitações profissionais pós-básicas requeridas para progressão na respectiva carreira, criada pelo [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), de 12 de Novembro, posteriormente substituído pelo [Decreto-Lei n.º 178/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547), de 23 de Maio, conduziu à abertura dos cursos de especialização em enfermagem, formalizada pelo Despacho n.º 9/83, de 11 de Abril, do Secretário Regional dos Assuntos Sociais.
+
+Na sequência do supracitado despacho iniciaram-se de facto cursos de especialização em enfermagem, pelo que urge agora dar os passos indispensáveis para a definição legal de estruturas que garantam a prossecução dos objectivos pretendidos.
+
+Nestas circunstâncias, e porque os primeiros cursos se encontram na fase final, importa agora não protelar por mais tempo a situação vigente e proceder de forma que os cursos de enfermagem pós-básicos a serem ministrados na Região Autónoma da Madeira adquiram todos os requisitos legais dos que são ministrados nas Escolas Pós-Básicas de Lisboa, Porto e Coimbra, criadas pelo [Decreto-Lei n.º 265/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1983-452040), de 16 de Junho.
+
+Nestes termos:
+
+A Assembleia Regional da Madeira, ao abrigo do disposto na alínea a) do artigo 229.º da Constituição, conjugada com a alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, decreta o seguinte:
+
+Artigo 1.º - 1 - É criada, na dependência da Secretaria Regional dos Assuntos Sociais, a Escola de Enfermagem Pós-Básica da Madeira, a seguir designada por Escola.
+
+2 - A Escola é dotada de autonomia técnico-pedagógica e administrativa.
+
+3 - Sem prejuízo do disposto nos números precedentes, a Escola receberá do Departamento de Ensino de Enfermagem do Instituto Nacional de Saúde Dr. Ricardo Jorge orientação e supervisão técnica e pedagógica no âmbito do protocolo a estabelecer entre a Secretaria Regional dos Assuntos Sociais e o Ministério da Saúde.
+
+Art. 2.º A Escola tem por finalidade:
+
+a) Preparar enfermeiros a nível pós-básico;
+
+b) Promover e realizar estudos e pesquisas em ordem ao aperfeiçoamento da enfermagem;
+
+c) Cooperar com entidades oficiais e particulares, regionais, nacionais e estrangeiras, com vista à melhoria do nível científico da enfermagem.
+
+Art. 3.º - 1 - À Escola, na execução da sua finalidade de preparar enfermeiros a nível pós-básico, compete em especial:
+
+a) Ministrar cursos de enfermagem, a saber:
+
+1.º Curso de Pedagogia e Administração para enfermeiros especialistas;
+
+2.º Cursos de especialização em enfermagem;
+
+3.º Curso de Pedagogia Aplicada à Enfermagem;
+
+4.º Curso de Administração de Serviços de Enfermagem;
+
+5.º Outros cursos que eventualmente venham a ser criados para enfermeiros;
+
+b) Emitir os diplomas referentes aos cursos mencionados na alínea a), que serão homologados nos termos a serem definidos no protocolo referido no n.º 3 do artigo 1.º do presente diploma;
+
+c) Promover e realizar acções de formação permanente, essencialmente para os enfermeiros diplomados com os cursos mencionados na alínea a) do presente artigo.
+
+2 - Em execução da sua finalidade de estudos e pesquisa compete-lhe em especial:
+
+a) Promover e realizar estudos e pesquisas nas áreas da prestação de cuidados de enfermagem e da administração e ensino de enfermagem;
+
+b) Divulgar estudos e pesquisas com interesse para a enfermagem.
+
+3 - Em execução da finalidade de cooperação com vista à melhoria do nível científico da enfermagem, compete-lhe em especial:
+
+a) Promover o intercâmbio nacional e internacional de informação de interesse para consecução das finalidades da Escola;
+
+b) Colaborar com outras instituições ou organizações regionais, nacionais ou estrangeiras em actividades científicas que visem a melhoria da prestação de cuidados e do exercício profissional.
+
+Art. 4.º Os cursos mencionados neste diploma em tudo se regem pelas disposições legais definidas a nível nacional.
+
+Art. 5.º Todas as actividades da Escola na prossecução das suas finalidades serão orientadas pelas necessidades da Região Autónoma da Madeira e instituídas progressivamente na medida dos meios postos à sua disposição.
+
+Art. 6.º A Escola sucede à estrutura definida no Despacho n.º 9/83, de 11 de Abril, do Secretário Regional dos Assuntos Sociais, nela se integrando os cursos de especialização em enfermagem actualmente a serem ministrados.
+
+Art. 7.º A organização e funcionamento da Escola reger-se-á por regulamento próprio, aprovado pelo Governo Regional.
+
+Art. 8.º - 1 - Constituem receitas da Escola:
+
+a) As comparticipações da Secretaria Regional dos Assuntos Sociais;
+
+b) Os subsídios e donativos de outras entidades oficiais e particulares, nacionais ou estrangeiras;
+
+c) Os emolumentos e taxas de serviços prestados de acordo com tabelas aprovadas;
+
+d) O produto da venda de publicações da Escola;
+
+e) Quaisquer outras receitas legalmente autorizadas.
+
+2 - Constituem despesas da Escola as que resultem da execução das suas finalidades.
+
+Art. 9.º É afecto à Escola todo o material e equipamento adstrito à estrutura definida no Despacho n.º 9/83, de 11 de Abril, do Secretário Regional dos Assuntos Sociais.
+
+Art. 10.º - 1 - A Escola é colocada em regime de instalação, nos termos da legislação aplicável, contando-se o respectivo prazo a partir da data de posse da comissão instaladora.
+
+2 - A comissão instaladora será composta por 4 elementos, um dos quais presidirá, a nomear por despacho do Secretário Regional dos Assuntos Sociais.
+
+3 - À comissão instaladora compete:
+
+a) Assegurar a continuidade da acção desenvolvida pela comissão coordenadora, tendo em vista as finalidades da Escola;
+
+b) Estabelecer os princípios gerais de orientação da Escola;
+
+c) Fixar os princípios gerais de organização da Escola;
+
+d) Elaborar e propor superiormente a aprovação do regulamento sobre a organização e funcionamento de Escola, previsto no artigo 7.º do presente diploma;
+
+e) Elaborar regulamentos internos;
+
+f) Gerir a Escola nas áreas pedagógica, técnica e administrativa;
+
+g) Elaborar, para aprovação superior, o mapa de pessoal e posteriormente o respectivo quadro;
+
+h) Preparar os balancetes mensais para aprovação superior e posteriormente elaborar o projecto de orçamento;
+
+i) Preparar o plano anual de actividades da Escola e submetê-lo a aprovação da Secretaria Regional dos Assuntos Sociais;
+
+j) Responder perante a Secretaria Regional dos Assuntos Sociais pelo cumprimento da lei e normas regulamentares superiormente aprovadas;
+
+k) Representar a Escola;
+
+l) Coordenar as actividades de todos os serviços da Escola;
+
+m) Apreciar periodicamente o rendimento e a eficiência dos serviços da Escola, promovendo medidas de correcção, se necessário;
+
+n) Exercer o poder disciplinar que a lei e ou os regulamentos disciplinam internos lhe conferem;
+
+o) Submeter à apreciação superior todos os assuntos sobre os quais a Escola não tenha competência para decidir;
+
+p) Elaborar o relatório anual das actividades da Escola e submetê-lo à consideração superior.
+
+4 - O regime de instalação cessará com a entrada em vigor do regulamento previsto no artigo 7.º do presente diploma e aprovação do quadro de pessoal da Escola.
+
+Aprovado em sessão plenária em 11 de Junho de 1985.
+
+O Presidente da Assembleia Regional da Madeira, Jorge Nélio Praxedes Ferraz Mendonça.
+
+Assinado em 28 de Junho de 1985.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

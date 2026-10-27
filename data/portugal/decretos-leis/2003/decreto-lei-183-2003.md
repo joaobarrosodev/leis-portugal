@@ -1,0 +1,263 @@
+---
+schema_version: '1.0'
+id: pt:dre:655076:por
+title: Decreto-Lei n.º 183/2003
+short_title: null
+summary: Altera o Estatuto da Comissão do Mercado de Valores Mobiliários (CMVM), aprovado pelo Decreto-Lei n.º 473/99, de
+  8 de Novembro, no que respeita à estrutura de taxas de supervisão do mercado de valores mobiliários
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 183/2003
+official_date: null
+publication_date: '2003-08-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 190/2003, Série I-A de 2003-08-19
+  number: '190'
+  series: I
+  supplement: null
+  pages: 5188 - 5190
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/08/190a00/51885190.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/183/2003/08/19/p/dre/pt/html
+  oj: null
+  dre: '655076'
+  dre_path: /dr/detalhe/decreto-lei/183-2003-655076
+  internal: pt:dre:655076:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2003-655076
+  metadata_url: https://data.dre.pt/eli/dec-lei/183/2003/08/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2003-655076
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:38:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3e5857584bee458735d34c4a3f90ed7b9deb7a03e52692e608d60159eeddf50f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:30Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CMVM
+- Estatuto
+- Mercado de Capitais
+- Mercado de Valores
+- Operações de Bolsa
+- Taxa
+- TAXA de Realização de Operações
+- Valores Mobiliários
+relationships:
+- type: amended_by
+  target: pt:dre:66108236:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:453563:por
+  label: "Alterados os arts. 9.º e 25.º-A, do Estatuto da Comissão do Mercado de Valores Mobiliários, aprovado pelo Decreto-Lei\
+    \ n.º 473/99, de 8 de Novembro, na redacção do presente diploma, e republicado em anexo com a redacção actual , pelo DEC\
+    \ LEI.169/2008.26.08.2008.MFAP, DR.IS [164] de 26.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-2008-453563
+  date: '2008-08-26'
+- type: cites
+  target: pt:dre:300636:por
+  label: null
+  source: http://data.dre.pt/eli/port/323/2002/03/27/p/dre
+- type: cites
+  target: pt:dre:567024:por
+  label: null
+  source: http://data.dre.pt/eli/port/1303/2001/11/22/p/dre
+- type: cites
+  target: pt:dre:682983:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/486/1999/11/13/p/dre
+- type: cites
+  target: pt:dre:682985:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/473/1999/11/08/p/dre
+- type: repealed_by
+  target: pt:dre:66108236:por
+  label: Revogado a partir de 01.02.2015 o Dec Lei 473/99, de 08-nov, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 5/2015 - Diário da República n.º 5/2015, Série I de 2015-01-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-2015-66108236
+  date: '2015-01-08'
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:38:30Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 183/2003
+
+de 19 de Agosto
+
+Na sequência da entrada em vigor, no ano de 2000, do Código dos Valores Mobiliários e do actual Estatuto da Comissão do Mercado de Valores Mobiliários (CMVM), deu-se início a uma reforma do sistema de taxas devidas em contrapartida dos actos e dos serviços de supervisão do mercado de valores mobiliários a cargo da CMVM.
+
+Tal reforma, orientada pelos princípios do «utilizador-pagador», da equidade na distribuição dos encargos de financiamento do sistema de supervisão, do reforço da competitividade do mercado de valores mobiliários português, da eliminação das distorções e das perdas de eficiência ocasionadas pelas características de algumas taxas, do alargamento das bases de incidência e da concomitante redução do montante das taxas, da adequação do sistema de taxas à evolução do mercado, e, finalmente, da diversificação das fontes de financiamento da CMVM, tem sido levada a efeito, como é recomendável, de modo gradual.
+
+Desta forma, ao longo do último triénio, procedeu-se, entre outros aspectos, a sucessivos desagravamentos das taxas de realização de operações em mercado regulamentado e fora dele, eliminaram-se ou reduziram-se várias taxas que eram devidas por actos de registo a cargo da CMVM, estabeleceram-se limites máximos e mínimos para o montante de muitas taxas ad valorem, aperfeiçoaram-se as taxas devidas pelo registo de intermediários financeiros, alargou-se a incidência das taxas de supervisão às instituições de investimento colectivo e às entidades comercializadoras de participações em instituições de investimento colectivo estrangeiras, bem como à gestão individual de carteiras por conta de terceiros e aos fundos de titularização e instituíram-se algumas novas taxas em contrapartida de determinados actos praticados pela CMVM e da supervisão de informação financeira periódica prestada pelos emitentes, através das Portarias n.os 1313-A/2000, de 29 de Fevereiro, 1338/2000, de 5 de Setembro, [1303/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1303-2001-567024), de 22 de Novembro, e [323/2002](https://diariodarepublica.pt/dr/detalhe/portaria/323-2002-300636), de 27 de Março, e dos regulamentos da CMVM n.º 9/2000, de 23 de Fevereiro, n.º 35/2000, de 29 de Dezembro, n.º 8/2001, de 28 de Dezembro, n.º 10/2002, de 19 de Julho, n.º 1/2003, de 23 de Janeiro e n.º 4/2003, de 27 de Junho.
+
+O presente diploma constitui um novo marco significativo neste processo de reforma, fazendo com que esta registe mais um avanço de grande relevo e rasgando novos horizontes para a continuidade da sua evolução no respeito pelos princípios já enunciados.
+
+Nestes termos, determina-se a abolição das taxas sobre as operações realizadas em bolsa, noutros mercados regulamentados e fora deles, eliminando-se, assim, um conjunto de taxas históricas do mercado de valores mobiliários português, que, entre outros inconvenientes, penalizavam a sua liquidez, eficiência e competitividade internacional. No entanto, para evitar rupturas no sistema de financiamento da CMVM, a efectiva extinção das referidas taxas é compreensivelmente diferida para o momento da entrada em vigor do novo sistema de taxas para que aponta o presente diploma.
+
+Por outro lado, consagram-se no presente diploma as normas de habilitação adequadas ao aprofundamento e ao prosseguimento da reforma em curso do sistema de taxas de supervisão do mercado de valores mobiliários. Assim, para além de se prever a manutenção da figura das taxas devidas pelos destinatários de quaisquer actos ou factos praticados pela CMVM e da supervisão, por esta Comissão, dos serviços de gestão, individual ou colectiva, de activos, aponta-se no sentido do reforço da componente relativa às taxas de manutenção de registos e seus averbamentos e de supervisão contínua ou prudencial, incluindo a supervisão contínua da informação prestada ao mercado. Consequentemente, verificar-se-á a redução do peso relativo das taxas variáveis e o acréscimo do das taxas fixas no conjunto das fontes de financiamento da CMVM, o que permitirá obter ganhos de eficiência associados a uma programação mensal mais realista das receitas desta instituição.
+
+Foram ouvidas a CMVM, a Associação Portuguesa de Bancos e a Associação Portuguesa de Sociedades Corretoras e Financeiras de Corretagem.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Alteração ao [Decreto-Lei n.º 473/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/473-1999-682985), de 8 de Novembro
+
+Os artigos 9.º e 26.º do Estatuto da Comissão do Mercado de Valores Mobiliários, aprovado pelo [Decreto-Lei n.º 473/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/473-1999-682985), de 8 de Novembro, passam a ter a seguinte redacção:
+
+«Artigo 9.º
+
+[...]
+
+...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) ...
+
+j) ...
+
+l) ...
+
+m) ...
+
+n) Aprovar os regulamentos e os outros actos normativos cuja competência a lei atribua à CMVM, incluindo a definição das taxas a que se refere o presente Estatuto, salvo quando a lei atribua essa competência ao Ministro das Finanças;
+
+o) ...
+
+p) ...
+
+q) ...
+
+r) ...
+
+s) ...
+
+Artigo 26.º
+
+[...]
+
+1 - ...
+
+a) O produto das taxas a que se refere o artigo 25.º-A;
+
+b) [Anterior alínea e).]
+
+c) [Anterior alínea f).]
+
+d) [Anterior alínea g).]
+
+e) [Anterior alínea h).]
+
+f) [Anterior alínea i).]
+
+g) [Anterior alínea j).]
+
+2 - [Anterior n.º 3.]
+
+3 - [Anterior n.º 4.]»
+
+###### Artigo 2.º — Aditamento ao [Decreto-Lei n.º 473/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/473-1999-682985), de 8 de Novembro
+
+É aditado ao capítulo IV do Estatuto da Comissão do Mercado de Valores Mobiliários (CMVM), aprovado pelo [Decreto-Lei n.º 473/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/473-1999-682985), de 8 de Novembro, o artigo 25.º-A, com a seguinte redacção:
+
+«Artigo 25.º-A
+
+Taxas
+
+1 - Em contrapartida dos actos praticados pela CMVM e dos serviços por ela prestados são devidas taxas.
+
+2 - As taxas a que se refere o número anterior são devidas:
+
+a) Pelos destinatários de quaisquer actos ou factos praticados pela CMVM previstos na lei ou em regulamento, incluindo, nomeadamente, os actos de registo, autorização, dispensa, aprovação, reconhecimento, declaração, recepção de comunicações, cópia ou certidão;
+
+b) Pelas entidades sujeitas ao registo junto da CMVM, em contrapartida dos serviços de manutenção de registos e seus averbamentos;
+
+c) Pelas entidades sujeitas à jurisdição da CMVM, em contrapartida dos serviços de supervisão contínua ou prudencial e das demais actividades de supervisão da CMVM, incluindo, nomeadamente, as que incidem sobre os intermediários financeiros, os mercados e as respectivas entidades gestoras, bem como sobre as entidades gestoras de sistemas de liquidação e de sistemas centralizados de valores mobiliários;
+
+d) Pelos prestatários dos actos e actividades de supervisão da CMVM respeitantes ao serviço de gestão, individual ou colectiva, de activos, incluindo a actividade dos respectivos depositários, bem como dos respeitantes aos demais serviços de investimento e serviços auxiliares de investimento ou a quaisquer outras actividades sujeitas à supervisão da CMVM;
+
+e) Por quem preste informação ao mercado, incluindo, nomeadamente, a informação financeira ou de qualquer outra natureza prestada pelos intermediários financeiros, emitentes, auditores registados na CMVM e investidores institucionais, em contrapartida da supervisão dessa informação ou, sendo esse o caso, da divulgação da mesma pela CMVM, designadamente através do seu sistema de difusão de informação;
+
+f) Por quaisquer outras pessoas ou entidades, em contrapartida de quaisquer outros actos praticados ou serviços prestados pela CMVM e de que aquelas sejam prestatárias.
+
+3 - A incidência, subjectiva e objectiva, o montante ou a alíquota, a periodicidade e, se for caso disso, as isenções, totais ou parciais, das taxas a que se referem as alíneas c) e d) do número anterior são fixados, ouvida a CMVM, por portaria do Ministro das Finanças, competindo à CMVM estabelecer, por regulamento, os respectivos modos e prazos de liquidação e cobrança.
+
+4 - As taxas a que se referem as alíneas a), b), e) e f) do n.º 1 são estabelecidas por regulamento da CMVM, que definirá a incidência, subjectiva e objectiva, o montante ou a alíquota, a periodicidade e, se for caso disso, as isenções, totais ou parciais, de cada taxa, bem como os respectivos modos e prazos de liquidação e cobrança.»
+
+###### Artigo 3.º — Revogação
+
+São revogados o artigo 211.º do Código dos Valores Mobiliários, aprovado pelo [Decreto-Lei n.º 486/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1999-682983), de 13 de Novembro, e a [Portaria n.º 1303/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1303-2001-567024), de 22 de Novembro, com a redacção que lhe foi dada pela [Portaria n.º 323/2002](https://diariodarepublica.pt/dr/detalhe/portaria/323-2002-300636), de 27 de Março.
+
+###### Artigo 4.º — Entrada em vigor
+
+O presente diploma entra em vigor em 30 de Agosto de 2003.
+
+Visto e aprovado em Conselho de Ministros de 24 de Julho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite.
+
+Promulgado em 6 de Agosto de 2003.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 8 de Agosto de 2003.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.

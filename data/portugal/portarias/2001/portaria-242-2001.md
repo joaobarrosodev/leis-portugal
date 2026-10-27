@@ -1,0 +1,227 @@
+---
+schema_version: '1.0'
+id: pt:dre:352713:por
+title: Portaria n.º 242/2001
+short_title: null
+summary: Aprova o Regulamento de Conservação Arquivística da Presidência da República
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério da Cultura
+proposing_entity: null
+official_number: 242/2001
+official_date: null
+publication_date: '2001-03-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 69/2001, Série I-B de 2001-03-22
+  number: '69'
+  series: I
+  supplement: null
+  pages: 1598 - 1608
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/03/069b00/15981608.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/242/2001/03/22/p/dre/pt/html
+  oj: null
+  dre: '352713'
+  dre_path: /dr/detalhe/portaria/242-2001-352713
+  internal: pt:dre:352713:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/242-2001-352713
+  metadata_url: https://data.dre.pt/eli/port/242/2001/03/22/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/242-2001-352713
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:31:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 07ba507e274b2228059c741523ba271ebebc0f37a9171104dae9abc024fa514e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:01Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conservação de Documentos
+- Fiscalização
+- Instituto dos Arquivos Nacionais-torre do Tombo
+- Microfilmagem
+- Presidência da República
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:291844:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/121/1992/07/02/p/dre
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:31:01Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 242/2001
+
+de 22 de Março
+
+No decurso da sua actividade como órgão de soberania, a Presidência da República tem vindo a acumular um grande acervo documental que justifica a avaliação, selecção, preservação e valorização do património arquivístico, através de um sistema de gestão desse património que permita a determinação de prazos de conservação arquivística, a eliminação de documentos sem valor arquivístico, com inerentes vantagens funcionais e económicas para os vários serviços, e assegurar a conservação de documentos com interesse histórico, cultural, científico, administrativo ou outro atendível.
+
+Assim, é finalidade do presente diploma instituir um conjunto de normas que regulem o ciclo de vida da documentação de arquivo, controlando o seu crescimento através da avaliação, selecção, transferência, incorporação em arquivo definitivo, eliminação e substituição de suporte.
+
+Nestes termos e ao abrigo do disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 447/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1988-356515), de 10 de Dezembro:
+
+Manda o Governo, pelo Ministro da Cultura e pelo Secretário de Estado da Presidência do Conselho de Ministros, aprovar o seguinte:
+
+REGULAMENTO DE CONSERVAÇÃO ARQUIVÍSTICA DA PRESIDÊNCIA DA REPÚBLICA
+
+###### Artigo 1.º — Âmbito de aplicação
+
+O presente Regulamento é aplicável a toda a documentação produzida e recebida, no âmbito das suas atribuições e competências, pela Presidência da República, adiante designada por PR.
+
+###### Artigo 2.º — Avaliação
+
+1 - O processo de avaliação dos documentos de arquivo da PR tem por objectivo a determinação do seu valor para efeitos da respectiva conservação permanente ou eliminação, findos os prazos de conservação administrativa dos documentos.
+
+2 - Os prazos mínimos de conservação administrativa dos documentos são os que constam da tabela de selecção anexa ao presente Regulamento, de que faz parte integrante, e são da responsabilidade da PR.
+
+3 - Os prazos de conservação administrativa contam-se a partir da data final do documento, colecção, ou processo, salvo se outra menção constar da tabela de selecção.
+
+4 - Cabe ao Instituto de Arquivos Nacionais/Torre do Tombo, adiante designado por IAN/TT, a determinação do destino final da documentação, sob proposta da PR.
+
+###### Artigo 3.º — Selecção
+
+1 - A selecção dos documentos a conservar permanentemente em arquivo definitivo deve ser efectuada pela PR, de acordo com as orientações estabelecidas na tabela de selecção.
+
+2 - Os documentos aos quais foi reconhecido valor arquivístico devem ser mantidos em arquivo no suporte original, excepto nos casos cuja substituição seja previamente autorizada nos termos do n.º 1 do artigo 10.º
+
+###### Artigo 4.º — Tabela de selecção
+
+1 - A tabela de selecção consigna e sintetiza as disposições relativas à avaliação documental referida no artigo 2.º
+
+2 - A tabela de selecção deve ser submetida a revisões, com vista à sua adequação às alterações da produção documental.
+
+3 - Para efeitos do disposto no n.º 2, deve a PR obter o parecer favorável do IAN/TT, enquanto organismo coordenador da política arquivística nacional, mediante proposta devidamente fundamentada.
+
+###### Artigo 5.º — Remessas para arquivo intermédio
+
+1 - Findos os prazos de conservação em fase activa, a documentação com reduzidas taxas de utilização deverá, de acordo com o estipulado na tabela de selecção, ser remetida do arquivo corrente para o arquivo intermédio.
+
+2 - As remessas de documentos para arquivo intermédio devem ser efectuadas de acordo com a periodicidade que a PR vier a determinar.
+
+###### Artigo 6.º — Remessas para arquivo definitivo
+
+1 - Cumpridos os prazos de conservação administrativa, os documentos que, de acordo com a tabela de selecção, sejam de conservação permanente devem ser remetidos para arquivo definitivo.
+
+2 - As remessas não podem pôr em causa a integridade dos conjuntos documentais e deverão ser acompanhadas, sempre que possível, dos respectivos registos, índices e outros elementos de referência.
+
+###### Artigo 7.º — Formalidades das remessas
+
+1 - As remessas atrás referidas devem obedecer às seguintes formalidades:
+
+a) Serem acompanhadas de um auto de entrega, a título de prova;
+
+b) O auto de entrega deve ter em anexo uma guia de remessa destinada à identificação e controlo da documentação remetida, obrigatoriamente rubricada e autenticada pelas partes envolvidas no processo;
+
+c) A guia de remessa será feita em duplicado, ficando o original no serviço destinatário e o duplicado devolvido ao serviço de origem.
+
+2 - Os modelos do auto de entrega e da guia de remessa são os constantes do anexo II ao presente Regulamento.
+
+###### Artigo 8.º — Eliminação
+
+1 - A eliminação dos documentos aos quais não for reconhecido valor arquivístico, não se justificando a sua conservação permanente, deve ser efectuada logo após o cumprimento dos respectivos prazos de conservação fixados na tabela de selecção.
+
+2 - É vedada a eliminação dos documentos que não estejam mencionados na tabela de selecção.
+
+3 - A decisão sobre o processo de eliminação deve atender a critérios de confidencialidade e racionalidade de meios e custos.
+
+###### Artigo 9.º — Formalidades da eliminação
+
+1 - A eliminação dos documentos mencionados no artigo 8.º deve obedecer às seguintes formalidades:
+
+a) Ser acompanhada de um auto de eliminação, que fará prova do abate patrimonial;
+
+b) O auto de eliminação deve ser assinado pelo dirigente do serviço ou organismo em causa, bem como pelo responsável do arquivo;
+
+c) O referido auto deve ser feito em duplicado, ficando o original no serviço que procede à eliminação e o duplicado remetido para o IAN/TT.
+
+2 - O modelo consta do anexo III ao presente Regulamento.
+
+###### Artigo 10.º — Substituição do suporte
+
+1 - A substituição do suporte dos documentos será feita por microfilme, de acordo com as normas técnicas da International Standard Organization, abreviadamente designada por ISO.
+
+2 - A substituição do suporte dos documentos só poderá ser efectuada mediante parecer favorável do IAN/TT, nos termos do n.º 2 do artigo 5.º do [Decreto-Lei n.º 121/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1992-291844), de 2 de Julho.
+
+3 - As cópias obtidas a partir de microfilme autenticado têm força probatória do original, nos termos do disposto no artigo 3.º do [Decreto-Lei n.º 447/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1988-356515), de 10 de Dezembro.
+
+###### Artigo 11.º — Acessibilidade e comunicabilidade
+
+O acesso e a comunicabilidade dos arquivos da PR atenderão a critérios de confidencialidade da informação definidos internamente, em conformidade com a lei geral.
+
+###### Artigo 12.º — Fiscalização
+
+Compete ao IAN/TT a inspecção técnica sobre a execução do disposto na presente portaria.
+
+###### Artigo 13.º — Entrada em vigor
+
+O disposto na presente portaria entra em vigor no dia imediato ao da sua publicação.
+
+Em 24 de Novembro de 2000.
+
+O Secretário de Estado da Presidência do Conselho de Ministros, Vitalino José Ferreira Prova Canas. - Pelo Ministro da Cultura, João Alexandre do Nascimento Baptista, Secretário de Estado da Cultura.
+
+## ANEXO I — Tabela de selecção
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/03/069b00/15981608.pdf)
+
+## ANEXO II — Presidência da República
+
+Auto de entrega
+
+[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/03/069b00/15981608.pdf)](https://files.diariodarepublica.pt/1s/2001/03/069b00/15981608.pdf)](https://files.diariodarepublica.pt/1s/2001/03/069b00/15981608.pdf)
+
+Presidência da República
+
+Guia de remessa
+
+[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/03/069b00/15981608.pdf)](https://files.diariodarepublica.pt/1s/2001/03/069b00/15981608.pdf)](https://files.diariodarepublica.pt/1s/2001/03/069b00/15981608.pdf)
+
+## ANEXO III — Presidência da República
+
+Auto de eliminação
+
+[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/03/069b00/15981608.pdf)](https://files.diariodarepublica.pt/1s/2001/03/069b00/15981608.pdf)](https://files.diariodarepublica.pt/1s/2001/03/069b00/15981608.pdf)

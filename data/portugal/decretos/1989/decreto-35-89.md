@@ -1,0 +1,184 @@
+---
+schema_version: '1.0'
+id: pt:dre:619279:por
+title: Decreto n.º 35/89
+short_title: null
+summary: Aprova o Protocolo entre a República Portuguesa e a República Democrática de São Tomé e Príncipe Relativo ao Bairro
+  da Cooperação Portuguesa
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 35/89
+official_date: null
+publication_date: '1989-08-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 189/1989, Série I de 1989-08-18
+  number: '189'
+  series: I
+  supplement: null
+  pages: 3380 - 3382
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/08/18900/33803382.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '619279'
+  dre_path: /dr/detalhe/decreto/35-1989-619279
+  internal: pt:dre:619279:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/35-1989-619279
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/35-1989-619279
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:02:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 66708c606cc17e779482a69dcf03ff1150094c1a04d7d6d6a0689b974781d449
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:02:17Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Convenção
+- Cooperante
+- Habitação
+- Portugal
+relationships: []
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:02:17Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 35/89
+
+de 18 de Agosto
+
+Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
+
+Artigo único. É aprovado o Protocolo entre a República Portuguesa e a República Democrática de São Tomé e Príncipe Relativo ao Bairro da Cooperação Portuguesa, feito em Lisboa a 27 de Julho de 1988, cujo original, em português, vai anexo ao presente decreto.
+
+Visto e aprovado em Conselho de Ministros de 13 de Julho de 1989. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro.
+
+Assinado em 26 de Julho de 1989.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 31 de Julho de 1989.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+PROTOCOLO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DEMOCRÁTICA DE SÃO TOMÉ E PRÍNCIPE RELATIVO AO BAIRRO DA COOPERAÇÃO PORTUGUESA
+
+A República Portuguesa e a República Democrática de São Tomé e Príncipe:
+
+Desejosas de aprofundar e desenvolver as relações de cooperação bilateral;
+
+Conscientes da necessidade de contribuir para a resolução da questão do alojamento dos agentes de cooperação portuguesa a prestarem serviço temporariamente em São Tomé e Príncipe;
+
+decidiram concluir o seguinte Protocolo:
+
+###### Artigo 1.º — Constituição de compropriedade sobre o Bairro
+
+1 - A República Portuguesa e a República Democrática de São Tomé e Príncipe, adiante designadas Partes, constituem um direito de compropriedade sobre o Bairro da Cooperação Portuguesa, adiante designado por Bairro, nos termos do presente Protocolo e da lei civil são-tomense.
+
+2 - A quota da Parte são-tomense é de 20% e a quota da Parte portuguesa é de 80%.
+
+3 - A compropriedade tem como objectivo o prédio urbano, com exclusão do prédio rústico, que é propriedade da Parte são-tomense.
+
+###### Artigo 2.º
+
+1 - A área inicial do prédio rústico afecto à construção do Bairro é de 10420 m2, está localizado na cidade de São Tomé e confronta a norte com a ex-Rua de Pêro Escobar, a sul com a Rua Projectada, a este com o rio Água Grande e a oeste com a estrada nacional n.º 3 da Cidade Capital-Trindade-Madalena. A sua configuração geométrica consta do anexo 1.
+
+2 - O disposto no número anterior não exclui a possibilidade de, por aditamento ao presente Protocolo, vir a ser aumentada a área de construção inicial, à custa do terreno contíguo ao Bairro, ou, não sendo tal possível, de um outro terreno.
+
+###### Artigo 3.º — Financiamento para a construção do Bairro
+
+1 - O Bairro será construído na forma de co-financiamento pelas duas Partes, nos termos do anexo 2.
+
+2 - A Parte são-tomense equipará adequadamente as instalações do Bairro, de modo que possam satisfazer os fins a que se destinam, sem prejuízo do contributo que a Parte portuguesa eventualmente possa dar para o mesmo efeito.
+
+###### Artigo 4.º — Fim a que o Bairro se destina
+
+1 - O Bairro destina-se a alojar agentes da cooperação portuguesa, podendo a sua utilização por outros agentes portugueses ser decidida por despacho do Ministro dos Negócios Estrangeiros da Parte portuguesa.
+
+2 - Uma parte do Bairro, a identificar no projecto, composta pelo menos por quatro quartos, salas de estar e cozinhas, destina-se exclusivamente a alojar funcionários dos organismos coordenadores da cooperação portuguesa ou pessoas transitoriamente ao seu serviço, integrados em missões de curta ou média duração.
+
+###### Artigo 5.º — Administração do Bairro
+
+1 - O Bairro será administrado por uma comissão que funcionará na dependência da Embaixada de Portugal em São Tomé e cuja constituição e funcionamento serão definidos pela Parte portuguesa.
+
+2 - Caberá à comissão praticar os actos de administração ordinária e extraordinária, nomeadamente providenciar as reparações e manter o bom estado de conservação dos prédios.
+
+###### Artigo 6.º — Isenções fiscais
+
+Pela compropriedade do Bairro, as duas Partes estão isentas da contribuição predial, assim como de outros impostos ou licenças que houvesse que aplicar para a construção do Bairro.
+
+###### Artigo 7.º — Substituição do Protocolo anterior
+
+O presente Protocolo substitui o Protocolo entre a República Democrática de São Tomé e Príncipe e a República Portuguesa Relativo à Concessão do Direito de Superfície de Terrenos Destinados à Implantação do Bairro da Cooperação Portuguesa, de 15 de Junho de 1983.
+
+###### Artigo 8.º — Período de validade
+
+1 - O presente Protocolo entrará em vigor na data da última notificação do cumprimento das formalidades exigidas pela ordem jurídica de cada uma das Partes e será válido por um período de 50 anos, renovável tacitamente por períodos iguais e sucessivos de cinco anos, a menos que uma das Partes o denuncie, com observância de um pré-aviso de seis meses do termo do período inicial ou de prorrogação.
+
+2 - O prazo referido no número anterior só inicia a sua contagem a partir do início da efectiva utilização do Bairro pelos agentes da cooperação portuguesa.
+
+Feito em Lisboa aos 27 de Julho de 1988, em dois originais em língua portuguesa, fazendo ambos igualmente fé.
+
+Pela República Portuguesa:
+
+O Secretário de Estado dos Negócios Estrangeiros e da Cooperação, José Manuel Durão Barroso.
+
+Pela República Democrática de São Tomé e Príncipe:
+
+O Ministro da Cooperação, (Assinatura ilegível.)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/18900/33803382.pdf)
+
+## ANEXO 2 — Contribuição da Parte são-tomense para a construção do Bairro
+
+1 - A Parte são-tomense contribuirá com a areia, a brita e a pedra necessárias à construção do Bairro e, bem assim, com o respectivo transporte até ao local da obra.
+
+2 - Contribuirá ainda com as madeiras necessárias para a execução da obra, nomeadamente estruturas de cobertura, limpos e cofragens.
+
+3 - Isentará de direitos e outras taxas de porto os materiais e equipamentos a utilizar no Bairro.
+
+4 - Assegurará o fornecimento de água e energia eléctrica ao Bairro, colocando a respectiva conduta e cabo no limite do referido Bairro. Assegurará, por outro lado, a drenagem das águas fluviais e águas negras provenientes do terreno.

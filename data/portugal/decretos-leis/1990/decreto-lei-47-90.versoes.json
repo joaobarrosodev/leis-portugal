@@ -1,0 +1,239 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:334655:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1990-34477675",
+ "dre_path": "/dr/detalhe/decreto-lei/47-1990-334655",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1990-02-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "180035361",
+    "48209375",
+    "48209475",
+    "48209575",
+    "48209675",
+    "48209775",
+    "48209875",
+    "48209975",
+    "48210075",
+    "48210175"
+   ]
+  },
+  {
+   "date": "2021-03-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:159993990:por",
+     "title": "Decreto-Lei n.º 23/2021",
+     "published": "2021-03-23",
+     "dre_path": "/dr/detalhe/decreto-lei/23-2021-159993990"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "180035361",
+    "180035362",
+    "180035363",
+    "180035364",
+    "180035365",
+    "180035366",
+    "180035367",
+    "180035368",
+    "180035369",
+    "180035370",
+    "180035371"
+   ]
+  }
+ ],
+ "fragments": {
+  "180035361": {
+   "fragment_id": "35097475",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-03-28",
+   "changed_by": [],
+   "markdown": "Com o presente diploma pretende-se limitar o uso, fabricação e comercialização de certas substâncias perigosas, na prossecução do objectivo de salvaguardar a saúde humana e o ambiente.\n\nNesta linha de orientação, o Governo autonomizou, dessas substâncias perigosas, os bifenilospoliclorados e terfenilospoliclorados (PCB e PCT) e o amianto, produtos químicos com desenvolvida e diversificada utilização industrial, devido às suas especiais características, fazendo publicar os Decretos-Leis nos 221/88, de 28 de Junho, 28/87, de 14 de Janeiro, e 38/88, de 22 de Abril, respectivamente.\n\nÉ chegado agora o momento de disciplinar outras substâncias e preparações igualmente perigosas, das quais as crianças são as primeiras vítimas, porque algumas delas são utilizadas em objectos, brinquedos e artigos de Carnaval.\n\nPor outro lado, algumas dessas substâncias são utilizadas em produtos têxteis e de vestuário, o que constitui risco grave para a saúde humana.\n\nHá, pois, que prevenir tais riscos, proibindo certos usos de tais substâncias, dando-se, assim, lugar à transposição das Directivas n.os <a href=\"eurlex.asp?ano=1976&id=376L0769\" title=\"Link para Directiva da Comunidade Europeia\">76/769/CEE</a>, do Conselho, de 27 de Julho de 1976, <a href=\"eurlex.asp?ano=1979&id=379L0663\" title=\"Link para Directiva da Comunidade Europeia\">79/663/CEE</a>, do Conselho, de 24 de Julho de 1979, <a href=\"eurlex.asp?ano=1982&id=382L0806\" title=\"Link para Directiva da Comunidade Europeia\">82/806/CEE</a>, do Conselho, de 22 de Maio de 1983, e <a href=\"eurlex.asp?ano=1983&id=383L0264\" title=\"Link para Directiva da Comunidade Europeia\">83/264/CEE</a>, do Conselho, de 16 de Maio de 1983, sem prejuízo de, no contexto comunitário, se verificar a necessidade de actualização deste diploma motivada pelo progresso técnico e científico.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "48209375": {
+   "fragment_id": "35722675",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\nO presente diploma tem por objectivo limitar o uso, nos produtos ou artigos definidos no artigo subsequente, das seguintes substâncias ou preparações perigosas:\n\na) Substâncias ou preparações líquidas consideradas como perigosas na acepção das definições do artigo 4.º e dos critérios constantes do anexo VI-D do Decreto-Lei n.º 280-A/87, de 17 de Julho;\n\nb) Cloro-1-etileno (cloreto de vinilo monómero);\n\nc) Fosfato de tri (2,3-dibromopropilo);\n\nd) Benzeno;\n\ne) Óxido de triaziridinilfosfina;\n\nf) Polibromobifenilo (PBB);\n\ng) Pó-de-panamá, Quillaja saponaria, e seus derivados contendo saponinas;\n\nh) Pó de raiz de Helleborus viridis e de Helleborus niger;\n\ni) Pó de raiz de Veratrum album e Veratrum nigrum;\n\nj) Benzidina e seus derivados;\n\nl) o-nitrobenzaldeído;\n\nm) Pó de madeira;\n\nn) Sulfureto e bissulfureto de amónio;\n\no) Polissulfureto de amónio;\n\np) Bromoacetato de metilo;\n\nq) Bromoacetato de etilo;\n\nr) Bromoacetato de propilo;\n\ns) Bromoacetato de butilo."
+  },
+  "48209475": {
+   "fragment_id": "35722775",
+   "type": 11,
+   "heading": "Artigo 2.º — Produtos ou artigos abrangidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Produtos ou artigos abrangidos\n\n1 - É proibida a fabricação e a comercialização de objectos decorativos destinados a produzir efeitos de luz ou de cor, obtidos por meio de fases diferentes, como lâmpadas de ambiente e cinzeiros, que contenham as substâncias líquidas, estremes ou contidas em preparações, referidas na alínea a) do artigo anterior.\n\n2 - É proibida a fabricação e a comercialização de aerossóis, qualquer que seja o seu fim, que contenham como agente propulsor a substância mencionada na alínea b) do artigo anterior.\n\n3 - É proibida a fabricação e a comercialização de tecidos e artigos têxteis destinados a entrar em contacto com a pele, nomeadamente na confecção de vestuário, roupa interior e artigos de lingerie, que contenham as substâncias mencionadas nas alíneas c), e) e f) do artigo anterior.\n\n4 - É proibida a fabricação e a comercialização de brinquedos, parte de brinquedos ou seus acessórios nos quais a concentração em benzeno livre seja superior a 5 mg por quilograma do peso do brinquedo, sua parte ou acessório.\n\n5 - É proibida a fabricação e a comercialização de artigos de diversão usualmente utilizados na época de Carnaval desde que contenham os produtos enumerados nas alíneas g) a s) do artigo anterior, salvo se utilizados em quantidades inferiores a 1,5 ml."
+  },
+  "48209575": {
+   "fragment_id": "35722875",
+   "type": 11,
+   "heading": "Artigo 3.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Fiscalização\n\nAs medidas de fiscalização do cumprimento do presente diploma ficam cometidas aos diferentes serviços e organismos, de acordo com a respectiva competência em razão da matéria."
+  },
+  "48209675": {
+   "fragment_id": "35722975",
+   "type": 11,
+   "heading": "Artigo 4.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Contra-ordenações\n\n1 - Constituem contra-ordenações, puníveis com coima de 50000$00 a 200000$00, as infracções ao disposto no artigo 2.º\n\n2 - No caso de a contra-ordenação ser praticada por uma pessoa colectiva, a coima aplicável elevar-se-á, em caso de dolo, até ao montante máximo de 3000000$00.\n\n3 - Em todos os casos, a negligência é punível."
+  },
+  "48209775": {
+   "fragment_id": "35723075",
+   "type": 11,
+   "heading": "Artigo 5.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Sanções acessórias\n\n1 - Acessoriamente à aplicação de coimas, poderão ser apreendidos os produtos ou objectos que serviram para a prática da infracção ou que foram produzidos durante ou em resultado da mesma.\n\n2 - Os objectos ou produtos apreendidos ficam à guarda da entidade fiscalizadora até ao trânsito em julgado da decisão de apreensão, transferindo-se então a sua propriedade para o Estado."
+  },
+  "48209875": {
+   "fragment_id": "35723175",
+   "type": 11,
+   "heading": "Artigo 6.º — Competências no processo de contra-ordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competências no processo de contra-ordenação\n\n1 - A instauração dos processos de contra-ordenações e a aplicação das coimas competem ao director-geral da Qualidade do Ambiente, a quem deverão, para o efeito, ser remetidos os autos de notícia, participação ou denúncia e os processos, finda a instrução.\n\n2 - A instrução dos processos cabe ao organismo competente, nos termos do artigo 3.º, o qual os enviará, finda esta, ao director-geral da Qualidade do Ambiente, para o efeito consignado no número anterior."
+  },
+  "48209975": {
+   "fragment_id": "35723275",
+   "type": 11,
+   "heading": "Artigo 7.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Produto das coimas\n\n1 - A afectação do produto das coimas far-se-á da forma seguinte:\n\na) 40% para a Direcção-Geral da Qualidade do Ambiente, constituindo receita própria;\n\nb) 60% para a entidade fiscalizadora.\n\n2 - As receitas obtidas pela Direcção-Geral da Qualidade do Ambiente, nos termos do número anterior, destinam-se a acções de inspecção e controlo."
+  },
+  "48210075": {
+   "fragment_id": "35723375",
+   "type": 11,
+   "heading": "Artigo 8.º — Competências nas regiões autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competências nas regiões autónomas\n\nAs competências cometidas no presente diploma à Direcção-Geral da Qualidade do Ambiente e ao respectivo director-geral são, nas Regiões Autónomas dos Açores e da Madeira, exercidas pelos respectivos órgãos de governo próprio."
+  },
+  "48210175": {
+   "fragment_id": "35723475",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente diploma entra em vigor 90 dias após a data da sua publicação."
+  },
+  "180035362": {
+   "fragment_id": "35722675",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 446/99 - Diário da República n.º 256/1999, Série I-A de 1999-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1999-694176)"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\nO presente diploma tem por objectivo limitar o uso, nos produtos ou artigos definidos no artigo subsequente, das seguintes substâncias ou preparações perigosas:\n\na) (Revogada);\n\nb) Cloro-1-etileno (cloreto de vinilo monómero);\n\nc) Fosfato de tri (2,3-dibromopropilo);\n\nd) Benzeno;\n\ne) Óxido de triaziridinilfosfina;\n\nf) Polibromobifenilo (PBB);\n\ng) Pó-de-panamá, Quillaja saponaria, e seus derivados contendo saponinas;\n\nh) Pó de raiz de Helleborus viridis e de Helleborus niger;\n\ni) Pó de raiz de Veratrum album e Veratrum nigrum;\n\nj) Benzidina e seus derivados;\n\nl) o-nitrobenzaldeído;\n\nm) Pó de madeira;\n\nn) Sulfureto e bissulfureto de amónio;\n\no) Polissulfureto de amónio;\n\np) Bromoacetato de metilo;\n\nq) Bromoacetato de etilo;\n\nr) Bromoacetato de propilo;\n\ns) Bromoacetato de butilo.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 446/99 - Diário da República n.º 256/1999, Série I-A de 1999-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1999-694176)"
+  },
+  "180035363": {
+   "fragment_id": "35722775",
+   "type": 11,
+   "heading": "Artigo 2.º — Produtos ou artigos abrangidos",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 446/99 - Diário da República n.º 256/1999, Série I-A de 1999-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1999-694176)"
+   ],
+   "markdown": "###### Artigo 2.º — Produtos ou artigos abrangidos\n\n1 - (Revogado).\n\n2 - É proibida a fabricação e a comercialização de aerossóis, qualquer que seja o seu fim, que contenham como agente propulsor a substância mencionada na alínea b) do artigo anterior.\n\n3 - É proibida a fabricação e a comercialização de tecidos e artigos têxteis destinados a entrar em contacto com a pele, nomeadamente na confecção de vestuário, roupa interior e artigos de lingerie, que contenham as substâncias mencionadas nas alíneas c), e) e f) do artigo anterior.\n\n4 - É proibida a fabricação e a comercialização de brinquedos, parte de brinquedos ou seus acessórios nos quais a concentração em benzeno livre seja superior a 5 mg por quilograma do peso do brinquedo, sua parte ou acessório.\n\n5 - É proibida a fabricação e a comercialização de artigos de diversão usualmente utilizados na época de Carnaval desde que contenham os produtos enumerados nas alíneas g) a s) do artigo anterior, salvo se utilizados em quantidades inferiores a 1,5 ml.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 446/99 - Diário da República n.º 256/1999, Série I-A de 1999-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1999-694176)"
+  },
+  "180035364": {
+   "fragment_id": "35722875",
+   "type": 11,
+   "heading": "Artigo 3.º — Fiscalização",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 3.º — Fiscalização\n\nAs medidas de fiscalização do cumprimento do presente diploma ficam cometidas aos diferentes serviços e organismos, de acordo com a respectiva competência em razão da matéria.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "180035365": {
+   "fragment_id": "35722975",
+   "type": 11,
+   "heading": "Artigo 4.º — Contra-ordenações",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 4.º — Contra-ordenações\n\n1 - Constituem contra-ordenações, puníveis com coima de 50000$00 a 200000$00, as infracções ao disposto no artigo 2.º\n\n2 - No caso de a contra-ordenação ser praticada por uma pessoa colectiva, a coima aplicável elevar-se-á, em caso de dolo, até ao montante máximo de 3000000$00.\n\n3 - Em todos os casos, a negligência é punível.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "180035366": {
+   "fragment_id": "35723075",
+   "type": 11,
+   "heading": "Artigo 5.º — Sanções acessórias",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 5.º — Sanções acessórias\n\n1 - Acessoriamente à aplicação de coimas, poderão ser apreendidos os produtos ou objectos que serviram para a prática da infracção ou que foram produzidos durante ou em resultado da mesma.\n\n2 - Os objectos ou produtos apreendidos ficam à guarda da entidade fiscalizadora até ao trânsito em julgado da decisão de apreensão, transferindo-se então a sua propriedade para o Estado.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "180035367": {
+   "fragment_id": "35723175",
+   "type": 11,
+   "heading": "Artigo 6.º — Competências no processo de contra-ordenação",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 6.º — Competências no processo de contra-ordenação\n\n1 - A instauração dos processos de contra-ordenações e a aplicação das coimas competem ao director-geral da Qualidade do Ambiente, a quem deverão, para o efeito, ser remetidos os autos de notícia, participação ou denúncia e os processos, finda a instrução.\n\n2 - A instrução dos processos cabe ao organismo competente, nos termos do artigo 3.º, o qual os enviará, finda esta, ao director-geral da Qualidade do Ambiente, para o efeito consignado no número anterior.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "180035368": {
+   "fragment_id": "35723275",
+   "type": 11,
+   "heading": "Artigo 7.º — Produto das coimas",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 7.º — Produto das coimas\n\n1 - A afectação do produto das coimas far-se-á da forma seguinte:\n\na) 40% para a Direcção-Geral da Qualidade do Ambiente, constituindo receita própria;\n\nb) 60% para a entidade fiscalizadora.\n\n2 - As receitas obtidas pela Direcção-Geral da Qualidade do Ambiente, nos termos do número anterior, destinam-se a acções de inspecção e controlo.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "180035369": {
+   "fragment_id": "35723375",
+   "type": 11,
+   "heading": "Artigo 8.º — Competências nas regiões autónomas",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 8.º — Competências nas regiões autónomas\n\nAs competências cometidas no presente diploma à Direcção-Geral da Qualidade do Ambiente e ao respectivo director-geral são, nas Regiões Autónomas dos Açores e da Madeira, exercidas pelos respectivos órgãos de governo próprio.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "180035370": {
+   "fragment_id": "35723475",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente diploma entra em vigor 90 dias após a data da sua publicação.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "180035371": {
+   "fragment_id": "35723575",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de Novembro de 1989. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Joaquim Fernando Nogueira - Luís Fernando Mira Amaral - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - José Albino da Silva Peneda - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 30 de Janeiro de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 31 de Janeiro de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  }
+ }
+}

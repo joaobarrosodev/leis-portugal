@@ -1,0 +1,639 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992L0050:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0050-20060131",
+ "dre_path": null,
+ "source_lastmod": "2006-01-31",
+ "versions": [
+  {
+   "date": "1992-07-24",
+   "future": false,
+   "celex": "31992L0050",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4f7ed66eb82a32df",
+    "cd862d01e9a5384c",
+    "5ba08e953e276bbc",
+    "0a0798886774056c",
+    "b5682b94062b08bf",
+    "f37cece5e7b9b5f9",
+    "d32b062ea639b4c7",
+    "805afe0b363d16bb",
+    "19234fd17e00bb0c",
+    "9db74a372fbe04e3",
+    "5bd61117d585f0ac",
+    "294094f04d851027",
+    "1572e514631bffb6",
+    "3e5d3a1db8b3d50a",
+    "22abfeea8904d338",
+    "283eab2ecc0d6229",
+    "2044238b33fd46d1",
+    "0e2b00c61f5003dd",
+    "76b48f15b8560a1b",
+    "2716b1f64a14ece5",
+    "4f708284ab2d9724",
+    "0b0a17f61304b642",
+    "79de235b8e6d60e9",
+    "199d1e898ef5063b",
+    "9e56a4e105100aa9",
+    "151cfd52da7bd507",
+    "4614a6d173328a4c",
+    "2f22a8c88cdcf7d4",
+    "7805a169cd444610",
+    "3a6958e677fa6c32",
+    "623f189a54899750",
+    "e431be30d3a67323",
+    "4334a79e4abdd4b3",
+    "f5064670c22faa77",
+    "ee5821362656aee3",
+    "db14f990f4e32a63",
+    "64c144c34304d26c",
+    "d6de8c48d2d7420d",
+    "c3d95aaa5c93a368",
+    "4e09346df66c6695",
+    "9dce125d136a411a",
+    "13d7dbf2862ff056",
+    "7320f7ba199b79da",
+    "da9f1cad667f94fd",
+    "7bf885d1567652d1",
+    "3affde70bb44f8c2",
+    "3ef2f3a2e9fb123f",
+    "c55537b3d91cb98d",
+    "378670309237f704",
+    "2a22de402e58ff61",
+    "d32d7385191c3005",
+    "1e56dc628646095f",
+    "f6cbc6300a982e69",
+    "fb640596fa883777",
+    "9076659006060a23",
+    "e1f14c19a77b186d",
+    "71041afe037b96ed",
+    "56905624085fe1bc",
+    "013f4144d353912a",
+    "c0ca0e3f151f535f"
+   ]
+  },
+  {
+   "date": "2006-01-31",
+   "future": false,
+   "celex": "01992L0050-20060131",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime TÍTULO I — Disposições gerais",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime TÍTULO II — Aplicação a dois níveis",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º — Os contratos que tenham por objecto serviços enumerados no anexo I B serão celebrados de acordo com o disposto nos artigos 14º e 16º",
+    "Suprime Artigo 10º",
+    "Suprime TÍTULO III — Escolha dos processos de adjudicação e regras relativas aos concursos",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime TÍTULO IV — Regras comuns no domínio técnico",
+    "Suprime Artigo 14º",
+    "Suprime TÍTULO V — Regras comuns de publicidade",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º",
+    "Suprime Artigo 18º",
+    "Suprime Artigo 19º",
+    "Suprime Artigo 20º",
+    "Suprime Artigo 21º",
+    "Suprime Artigo 22º",
+    "Suprime TÍTULO VI — CAPÍTULO 1",
+    "Suprime Artigo 23º",
+    "Suprime Artigo 24º",
+    "Suprime Artigo 25º",
+    "Suprime Artigo 26º",
+    "Suprime Artigo 27º",
+    "Suprime Artigo 28º",
+    "Suprime CAPÍTULO 2 — Critérios de selecção qualitativa",
+    "Suprime Artigo 29º",
+    "Suprime Artigo 30º",
+    "Suprime Artigo 31º",
+    "Suprime Artigo 32º",
+    "Suprime Artigo 33º",
+    "Suprime Artigo 34º",
+    "Suprime Artigo 35º",
+    "Suprime CAPÍTULO 3 — Critérios de adjudicação dos contratos",
+    "Suprime Artigo 36º",
+    "Suprime Artigo 37º",
+    "Suprime TÍTULO VII — Disposições finais",
+    "Suprime Artigo 38º",
+    "Suprime Artigo 39º",
+    "Suprime Artigo 40º",
+    "Suprime Artigo 41º",
+    "Suprime Artigo 42º",
+    "Suprime Artigo 43º",
+    "Suprime Artigo 44º",
+    "Suprime Artigo 45º",
+    "Suprime ANEXO I A — Serviços na acepção do artigo 8º",
+    "Suprime ANEXO I B — Serviços na acepção do artigo 9º",
+    "Suprime ANEXO II — Definição de determinadas especificações técnicas",
+    "Suprime ANEXO III — Modelos de anúncio de concurso",
+    "Suprime ANEXO IV — A. Anúncios de concursos"
+   ],
+   "fragments": [
+    "2101a1d94dde986f"
+   ]
+  }
+ ],
+ "fragments": {
+  "4f7ed66eb82a32df": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 92/50/CEE do Conselho de 18 de Junho de 1992 relativa à coordenação dos processos de adjudicação de contratos públicos de serviços** *Jornal Oficial nº L 209 de 24/07/1992 p. 0001 - 0024 Edição especial finlandesa: Capítulo 6 Fascículo 3 p. 0139 Edição especial sueca: Capítulo 6 Fascículo 3 p. 0139*\n\nDirectiva 92/50/CEE do Conselho\n\nde 18 de Junho de 1992\n\nrelativa à coordenação dos processos de adjudicação de contratos públicos de serviços\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o nº 2 do seu artigo 57º e o seu artigo 66º,\n\nTendo em conta a proposta da Comissão(1),\n\nEm cooperação com o Parlamento Europeu(2),\n\nTendo em conta o parecer do Comité Económico e Social(3),\n\nConsiderando que o Conselho Europeu concluiu no sentido da necessidade de realizar o mercado interno;\n\nConsiderando que é necessário adoptar medidas destinadas a estabelecer progressivamente o mercado interno durante o período que termina em 31 de Dezembro de 1992; que o mercado interno é um espaço sem fronteiras internas no qual é assegurada a livre circulação de mercadorias, pessoas, serviços e capitais;\n\nConsiderando que esses objectivos exigem a coordenação dos processos de adjudicação dos contratos públicos de serviços;\n\nConsiderando que o Livro Branco sobre a realização do mercado interno inclui um programa de acção e um calendário para a liberalização dos contratos públicos, inclusivamente no domínio dos serviços, na medida em que estes não estejam ainda abrangidos pelo disposto na Directiva 71/305/CEE do Conselho, de 26 de Julho de 1971, relativa à coordenação dos processos de adjudicação de empreitadas de obras públicas(4), e na Directiva 77/62/CEE do Conselho, de 21 de Dezembro de 1976, relativa à coordenação dos processos de celebração de contratos de fornecimento de direito público(5);\n\nConsiderando que a presente directiva deve ser aplicada por todas as entidades adjudicantes, na acepção da Directiva 71/305/CEE;\n\nConsiderando que é necessário evitar entraves à livre circulação de serviços; que, por conseguinte, os prestadores de serviços podem ser pessoas singulares ou colectivas; que, todavia, a presente directiva não prejudica a aplicação, a nível nacional, das regras relativas às condições de exercício de uma actividade ou de uma profissão desde que sejam compatíveis com o direito comunitário;\n\nConsiderando que, para efeitos de aplicação das regras de aquisição e para efeitos de controlo, a melhor forma de descrever o domínio dos serviços é subdividi-los em categorias que correspondam a posições específicas de uma nomenclatura comum; que os anexos I A e I B da presente directiva fazem referência à nomenclatura CCP (classificação comum dos produtos) das Nações Unidas; que, no futuro, esta nomenclatura poderá ser substituída por uma nomenclatura comunitária; que é pois necessário prever a possibilidade de adaptação, nos anexos I A e I B, da nomenclatura CCP;\n\nConsiderando que a prestação de serviços apenas é abrangida pela presente directiva na medida em que essa prestação tenha uma base contratual; que não é abrangida a prestação de serviços numa outra base, como seja a decorrente de disposições legislativas ou regulamentares ou contratos de trabalho;\n\nConsiderando que, nos termos do artigo 130ºF do Tratado, o fomento da investigação e do desenvolvimento constitui um dos meios para reforçar as bases científicas e tecnológicas da indústria europeia e que a abertura dos contratos públicos contribuirá para a realização deste objectivo; que o co-financiamento de programas de investigação não deverá ser abrangido pela presente directiva; que não estão pois abrangidos pela presente directiva os contratos de serviços de investigação e de desenvolvimento diferentes daqueles cujos resultados pertencem exclusivamente à entidade adjudicante para utilização no exercício da sua própria actividade, desde que a prestação de serviços seja totalmente remunerada pela autoridade adjudicante;\n\nConsiderando que os contratos relativos à aquisição ou locação de bens imóveis ou a direitos sobre estes bens têm características específicas que tornam inadequada a aplicação das regras dos contratos públicos;\n\nConsiderando que a adjudicação dos contratos relativos a determinados serviços audiovisuais no domínio da radiodifusão é regida por considerações que tornam inadequada a aplicação das regras dos contratos públicos;\n\nConsiderando que os serviços de arbitragem e conciliação são normalmente prestados por organismos ou indivíduos que são designados ou seleccionados, de um modo que não pode ser regido pelas regras dos conratos públicos;\n\nConsiderando que os serviços financeiros abrangidos pela presente directiva não incluem os instrumentos relacionados com a política monetária, as taxas de câmbio, a dívida pública, a gestão de reservas e outras políticas que impliquem operações sobre títulos ou outros instrumentos financeiros; que, por consequência, os contratos relativos à emissão, compra, venda e transferência de títulos ou outros instrumentos financeiros não são abrangidos pela presente directiva; que os serviços prestados por bancos centrais são igualmente excluídos;\n\nConsiderando que, no domínio dos serviços, se devem aplicar as mesmas derrogações que as já previstas nas Directivas 71/305/CEE e 77/62/CEE relativamente à segurança do Estado ou ao sigilo, bem como em relação ao primado de outras regras de aquisição, tais como as decorrentes de acordos internacionais, do estacionamento de tropas ou das regras específicas de organizações internacionais;\n\nConsiderando que a presente directiva não prejudica a aplicação do disposto, nomeadamente, nos artigos 55º, 56º e 66º do Tratado;\n\nConsiderando que resulta da Directiva 71/305/CEE que um contrato só poderá ser considerado um contrato de empreitada de obras públicas se tiver por objecto a execução de uma obra; que os contratos públicos de serviços, nomeadamente no domínio dos serviços de gestão de propriedades, poderão, em certos casos, incluir a execução de obras; que, se essas obras forem acessórias e não constituírem o objecto do contrato, não poderão justificar a classificação do contrato como contrato de empreitada de obras públicas;\n\nConsiderando que as regras relativas aos contratos de serviços incluídas na Directiva 90/531/CEE do Conselho, de 17 de Setembro de 1990, relativa aos procedimentos de adjudicação dos contratos de direito público nos sectores da água, da energia, dos transportes e das telecomunicações(6), não devem ser afectadas pelo disposto na presente directiva;\n\nConsiderando que os contratos com um prestador único designado podem, em determinadas condições, ser total ou parcialmente isentos da aplicação da presente directiva;\n\nConsiderando que a presente directiva não deve ser aplicável a contratos de valor inferior a determinado limiar, a fim de evitar formalidades desnecessárias; que esse limiar pode, em princípio, ser idêntico ao já considerado em relação aos contratos públicos de fornecimentos; que o cálculo do valor do contrato, a publicação e o método de adaptação dos limiares devem ser idênticos aos previstos nas outras directivas comunitárias relativas aos processos de adjudicação de contratos;\n\nConsiderando que, para eliminar as práticas que restringem a concorrência, em geral, e, em particular, as que restringem a participação nos contratos de nacionais de outros Estados-membros, é necessário melhorar o acesso dos prestadores de serviços aos processos de adjudicação dos contratos;\n\nConsiderando que, por um período transitório, a aplicação integral da presente directiva deve limitar-se aos contratos de serviços em relação aos quais as disposições da directiva permitirão a plena concretização do potencial de acréscimo do comércio transfronteiriço; que os contratos de outros serviços carecem de controlo durante um certo período até que seja tomada uma decisão quanto à aplicação integral da presente directiva; que convém definir o mecanismo de realização desse controlo; que, simultaneamente, deve permitir que os interessados tenham acesso às informações pertinentes;\n\nConsiderando que as regras relativas à adjudicação de contratos públicos de serviços devem ser tão próximas quanto possível das aplicáveis aos contratos públicos de fornecimentos e aos contratos de empreitada de obras públicas;\n\nConsiderando que as regras de aquisição previstas nas Directivas 71/305/CEE e 77/62/CEE podem ser pertinentes com as adaptações necessárias para ter em conta aspectos especiais dos contratos de serviços, tais como a escolha do procedimento por negociação, os concursos, as variantes, a forma jurídica sob a qual os prestadores de serviços operam, a reserva de determinadas actividades a determinadas profissões, o registo e as questões de garantia de qualidade;\n\nConsiderando que é possível recorrer ao procedimento por negociação com publicação prévia de um anúncio quando o serviço a prestar não pode ser especificado com precisão suficiente, especialmente no domínio dos serviços de carácter intelectual, do que resulta que esse contrato não pode ser adjudicado por selecção da melhor proposta de acordo com as regras que regem os concursos públicos e limitados;\n\nConsiderando que as regras comunitárias relativas ao reconhecimento mútuo de diplomas, certificados ou outras provas de habilitações formais são aplicáveis nos casos em que é exigida a prova de uma habilitação específica para participação num processo de adjudicação ou num concurso;\n\nConsiderando que os objectivos da presente directiva não exigem, no estádio actual, qualquer alteração a nível nacional no que diz respeito à concorrência de preços entre prestadores de determinados serviços;\n\nConsiderando que a aplicação da presente directiva deve ser revista o mais tardar três anos após a data prevista para a transposição das regras relativas aos contratos públicos para a legislação nacional; que essa revisão deve ter em conta, em especial, a possibilidade de aplicar plenamente a directiva a um leque mais vasto de contratos de serviços,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "cd862d01e9a5384c": {
+   "fragment_id": "TÍTULO I — Disposições gerais",
+   "type": "divisao",
+   "heading": "TÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Disposições gerais"
+  },
+  "5ba08e953e276bbc": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nPara efeitos do disposto na presente directiva:\n\na) Os contratos públicos de serviços são contratos a título oneroso celebrados por escrito entre um prestador de serviços e uma entidade adjudicante, com excepção de:\n\ni) contratos de fornecimento de direito público na acepção da alínea a) do artigo 1º da Directiva 77/62/CEE e contratos de empreitada de obras públicas na acepção da alínea a) do artigo 1º da Directiva 71/305/CEE,\n\nii) contratos adjudicados nos domínios referidos nos artigos 2º, 7º, 8º e 9º da Directiva 90/531/CEE e contratos que preenchem os requisitos previstos no nº 2 do artigo 6º da referida directiva,\n\niii) contratos de aquisição ou locação, com recurso a quaisquer modalidades financeiras, de terrenos, edifícios existentes ou outros bens imóveis, ou relativos a direitos sobre esses bens; no entanto, serão abrangidos pela presente directiva os contratos relativos a serviços financeiros celebrados concomitantemente, antes ou depois do contrato de aquisição ou locação, sob qualquer forma,\n\niv) contratos de aquisição, desenvolvimento, produção ou co-produção de programas por parte de organismos de radiodifusão e contratos relativos ao tempo de antena,\n\nv) contratos relativos a serviços de telefonia vocal, telex, radiotelefonia móvel, chamada de pessoas e comunicação via satélite,\n\nvi) contratos relativos a serviços de arbitragem e conciliação,\n\nvii) contratos dos serviços financeiros relativos à emissão, compra, venda e transferência de títulos ou outros instrumentos financeiros bem como serviços prestados por bancos centrais,\n\nviii) contratos relativos ao emprego,\n\nix) contratos de serviços de investigação e desenvolvimento para além dos contratos cujos resultados são pertença exclusiva da entidade adjudicante, que deles farão uso no exercício da sua própria actividade, desde que a prestação do serviço seja inteiramente remunerada pela entidade adjudicante;\n\nb) São consideradas entidades adjudicantes o Estado, as autarquias locais ou regionais, os organismos de direito público, as associações formadas por uma ou mais autarquias ou organismos de direito público.\n\nConsidera-se organismo de direito público qualquer organismo:\n\n- criado com o objectivo específico de satisfazer necessidades de interesse geral, sem carácter industrial ou comercial, e\n\n- dotado de personalidade jurídica, e\n\n- financiado maioritariamente pelo Estado, por autarquias locais ou regionais ou por outros organismos de direito público, ou submetido a um controlo de gestão por parte dessas entidades, ou que tenha um órgão de administração, de direcção ou de fiscalização cujos membros são, em mais de 50 %, designados pelo Estado, por autarquais locais ou regionais ou por outros organismos de direito público.\n\nAs listas dos organismos e das categorias de organismos de direito público que preenchem os critérios referidos no segundo parágrafo do presente número constam do anexo I da Directiva 71/305/CEE. Essas listas são tão completas quanto possível e poderão ser revistas nos termos do processo previsto no artigo 30ºB da citada directiva;\n\nc) Os prestadores de serviços são qualquer pessoa singular ou colectiva, incluindo organismos de direito público, que ofereçam serviços. O prestador de serviços que apresenta uma proposta é designado pelo termo proponente; aquele que solicitou um convite para participar num concurso limitado ou num procecimento por negociação é designado pelo termo candidato;\n\nd) Os concursos públicos são concursos nacionais no âmbito dos quais qualquer prestador de serviços interessado pode apresentar uma proposta;\n\ne) Os concursos limitados são concursos nacionais no âmbito dos quais só os prestadores de serviços convidados pela entidade adjudicante podem apresentar uma proposta;\n\nf) Os procedimentos por negociação são procedimentos nacionais no âmbito dos quais as entidades adjudicantes consultam prestadores de serviços à sua escolha, negociando com um ou vários de entre eles as condições de contrato;\n\ng) Os concursos para trabalhos de concepção são procedimentos nacionais destinados a fornecer à entidade adjudicante principalmente nos domínios do ordenamento do território, do planeamento urbano, da arquitectura e da engenharia civil, ou do processamento de dados, um plano ou projecto seleccionado por um júri com base num concurso com ou sem atribuição de prémios."
+  },
+  "0a0798886774056c": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nCaso um contrato público abranja simultaneamente produtos na acepção da Directiva 77/62/CEE e serviços na acepção dos anexos I A e I B da presente directiva, integrar-se-á no âmbito da presente directiva se o valor dos serviços em questão exceder o dos produtos abrangidos pelo contrato."
+  },
+  "b5682b94062b08bf": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Na adjudicação dos seus contratos públicos de prestação de serviços, ou na organização de concursos para trabalhos de concepção, as entidades adjudicantes aplicarão procedimentos adaptados ao disposto na presente directiva.\n\n2. As entidades adjudicantes assegurarão que não se verifique qualquer discriminação entre os vários prestadores de serviços.\n\n3. Os Estados-membros tomarão as medidas necessárias para garantir que as entidades adjudicantes respeitem ou façam respeitar o disposto na presente directiva sempre que subsidiem directamente, em mais de 50 %, um contrato de serviços celebrado por uma entidade exterior e relacionado com um contrato de empreitada de obras na acepção do nº 2 do artigo 1ºA da Directiva 71/305/CEE."
+  },
+  "f37cece5e7b9b5f9": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. A presente directiva é aplicável aos contratos de serviços celebrados por entidades adjudicantes no domínio da defesa, com excepção dos contratos abrangidos pelo disposto no artigo 223º do Tratado.\n\n2. A presente directiva não é aplicável aos serviços que sejam declarados secretos ou cuja execução deva ser acompanhada de medidas especiais de segurança nos termos das disposições legislativas, regulamentares ou administrativas em vigor no Estado-membro em questão, ou quando a protecção dos interesses essenciais da segurança desse Estado o exigir."
+  },
+  "d32b062ea639b4c7": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nA presente directiva não é aplicável aos contratos regidos por regras processuais diferentes e celebrados:\n\na) Por força de um acordo internacional concluído entre um Estado-membro e um ou mais países terceiros, e tendo por objecto serviços destinados à execução ou exploração conjunta de um projecto pelos Estados signatários; estes acordos serão comunicados à Comissão, que pode consultar o comité consultivo para os contratos de empreitada de obras públicas instituído pela Decisão 71/306/CEE(7);\n\nb) Com empresas de um Estado-membro ou de um país terceiro, por força de um acordo internacional relativo ao estacionamento de tropas;\n\nc) Por força de regras específicas de uma organização internacional."
+  },
+  "805afe0b363d16bb": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nA presente directiva não é aplicável à celebração de contratos públicos de serviços atribuídos a uma entidade que seja ela própria uma entidade adjudicante na acepção da alínea b) do artigo 1º, com base num direito exclusivo estabelecido por disposições legislativas, regulamentares ou administrativas publicadas, desde que essas disposições sejam compatíveis com o Tratado."
+  },
+  "19234fd17e00bb0c": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. A presente directiva é aplicável aos contratos de serviços cujo montante estimado, sem imposto sobre o valor acrescentado (IVA), seja igual ou superior a 200000 ecus.\n\n2. Para efeitos de cálculo do valor estimado do contrato, a entidade adjudicante deve incluir a remuneração total estimada do prestador de serviços, tendo em conta o disposto nos números 3 a 8.\n\n3. A selecção do método de avaliação não pode ser efectuada com o objectivo de subtrair os contratos à aplicação do disposto na presente directiva; de igual modo, nenhum projecto de compra de um determinado volume de serviços pode ser cindido a fim de o subtrair à aplicação do disposto no presente artigo.\n\n4. Para efeitos do cálculo do montante estimado do contrato em relação às categorias de serviços a seguir indicadas, deverá ter-se em conta, se for caso disso:\n\n- em relação aos serviços de seguro, o prémio a pagar,\n\n- em relação aos serviços bancários e outros serviços financeiros, os honorários, comissões e juros, bem como outros tipos de remuneração,\n\n- em relação aos contratos que envolvem um trabalho de concepção, os honorários ou comissão a pagar.\n\nSempre que os serviços sejam subdivididos em vários lotes, sendo cada um deles objecto de um contrato, o valor de cada lote deve ser tido em conta para efeitos do cálculo do montante atrás referido.\n\nSempre que o valor dos lotes seja igual ou ultrapasse esse montante, as disposições da presente directiva são aplicáveis a todos os lotes. As entidades adjudicantes serão autorizadas a não aplicar o disposto no nº 1 em relação aos lotes cujo valor estimado sem IVA seja inferior a 80000 ecus, desde que o valor total estimado do conjunto dos lotes isentos não exceda, em consequência disso, 20 % do valor total estimado de todos os lotes.\n\n5. No caso de contratos que não especifiquem um preço total, deve ser tomado como base para o cálculo do valor estimado do contrato:\n\n- no caso de contratos de duração fixa, na medida em que ela seja igual ou inferior a 48 meses, o valor total do contrato em relação ao seu período de vigência,\n\n- no caso de contratos de duração indeterminada ou superior a 48 meses, o valor mensal multiplicado por 48.\n\n6. No caso de contratos com carácter regular ou que devam ser renovados no decurso de um determinado período, deve ser tomado como base para o cálculo do valor do contrato:\n\n- ou o valor global de contratos semelhantes para a mesma categoria de serviços celebrados durante o exercício fiscal ou nos 12 meses anteriores, corrigido, se possível, para atender às alterações de quantidade ou de valor susceptíveis de ocorrerem nos 12 meses seguintes ao contrato inicial,\n\n- ou o valor real global estimado dos contratos durante os 12 meses seguintes à primeira prestação, ou durante o período de vigência do contrato caso este seja superior a 12 meses.\n\n7. Sempre que um contrato preveja expressamente opções, deve ser tomado como base para o cálculo do valor do contrato o total máximo possível, incluindo o recurso às opções.\n\n8. O contravalor dos limiares em moeda nacional será revisto de dois em dois anos, com início em 1 de Janeiro de 1994. O cálculo desse contravalor basear-se-á no valor médio diário das moedas nacionais expresso em ecus durante o período de 24 meses com termo no último dia de Agosto imediatamente anterior à revisão de 1 de Janeiro. Os contravalores serão publicados no Jornal Oficial das Comunidades Europeias no início de Novembro.\n\nO método de cálculo referido no parágrafo anterior será examinado, por iniciativa da Comissão, no âmbito do comité consultivo para os contratos públicos, em princípio dois anos após o início da sua aplicação."
+  },
+  "9db74a372fbe04e3": {
+   "fragment_id": "TÍTULO II — Aplicação a dois níveis",
+   "type": "divisao",
+   "heading": "TÍTULO II — Aplicação a dois níveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Aplicação a dois níveis"
+  },
+  "5bd61117d585f0ac": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nOs contratos que tenham por objecto serviços enumerados no anexo I A serão celebrados de acordo com o disposto nos títulos III a VI."
+  },
+  "294094f04d851027": {
+   "fragment_id": "Artigo 9º — Os contratos que tenham por objecto serviços enumerados no anexo I B serão celebrados de acordo com o disposto nos artigos 14º e 16º",
+   "type": "artigo",
+   "heading": "Artigo 9º — Os contratos que tenham por objecto serviços enumerados no anexo I B serão celebrados de acordo com o disposto nos artigos 14º e 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º — Os contratos que tenham por objecto serviços enumerados no anexo I B serão celebrados de acordo com o disposto nos artigos 14º e 16º"
+  },
+  "1572e514631bffb6": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nOs contratos que tenham simultaneamente por objecto serviços enumerados no anexo I A e serviços enumerados no anexo I B serão celebrados de acordo com o disposto nos títulos III a VI sempre que o valor dos serviços enumerados no anexo I A seja superior ao valor dos serviços enumerados no anexo I B. Caso contrário, serão celebrados de acordo com o disposto nos artigos 14º e 16º"
+  },
+  "3e5d3a1db8b3d50a": {
+   "fragment_id": "TÍTULO III — Escolha dos processos de adjudicação e regras relativas aos concursos",
+   "type": "divisao",
+   "heading": "TÍTULO III — Escolha dos processos de adjudicação e regras relativas aos concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Escolha dos processos de adjudicação e regras relativas aos concursos"
+  },
+  "22abfeea8904d338": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\n1. Na celebração de contratos públicos de serviços, as entidades adjudicantes aplicarão os procedimentos definidos nas alíneas d), e) e f) do artigo 1º, adaptados à presente directiva.\n\n2. As entidades adjudicantes podem celebrar contratos públicos de serviços recorrendo a um procedimento por negociação, com publicação prévia de um anúncio nos seguientes casos:\n\na) Em presença de propostas irregulares apresentadas no âmbito de um concurso público ou limitado, ou em caso de apresentação de propostas inaceitáveis nos termos de disposições nacionais compatíveis com o disposto nos artigos 23º a 28º, desde que as condições iniciais do contrato não sejam substancialmente alteradas. Nestes casos, as entidades adjudicantes não são obrigadas a publicar um anúncio se incluírem nesse procedimento por negociação todos os proponentes que satisfaçam os critérios previstos nos artigos 29º a 35º e que, aquando do concurso público ou limitado anterior, tenham apresentado propostas em conformidade com os requisitos formais do processo de concurso;\n\nb) Em casos excepcionais, quando a natureza dos serviços ou as contigências a eles inerentes não permitam uma fixação prévia e global do preço:\n\nc) Nos casos em que a natureza dos serviços a prestar, nomeadamente no caso de serviços de carácter intelectual e dos serviços incluídos na categoria 6 do anexo I A, seja de molde a não permitir o estabelecimento das especificações do contrato com uma precisão suficiente para que seja possível adjudicar o contrato através da selecção da melhor proposta, de acordo com as regras que regem os processos de concurso público ou limitado.\n\n3. As entidades adjudicantes podem celebrar contratos públicos de serviços recorrendo a um procedimento por negociação, sem publicação prévia de um anúncio, nos seguintes casos:\n\na) Na ausência de propostas ou de propostas adequadas em resposta a um concurso público ou limitado, desde que as condições iniciais do contrato não sejam substancialmente alteradas e que, a pedido da Comissão, lhe seja transmitido um relatório;\n\nb) Quando, por motivos técnicos ou artísticos, ou ainda atinentes à protecção de direitos exclusivos, os serviços apenas possam ser executados por um prestador de serviços determinado;\n\nc) Quando o contrato em questão venha na sequência de um concurso para trabalhos de concepção e deva, de acordo com as regras aplicáveis, ser atribuído ao vencedor ou a um dos vencedores desse concurso. Neste último caso, todos os vencedores deverão ser convidados a participar nas negociações;\n\nd) Na medida do estritamente necessário, quando, por motivos de urgência imperiosa resultante de acontecimentos imprevisíveis pelas entidades adjudicantes em questão, não possam ser cumpridos os prazos previstos para os processos de concurso público e limitado ou para os procedimentos por negociação referidos nos artigos 17º a 20º As circunstâncias invocadas para justificar a urgência imperiosa não devem, em caso algum, ser imputáveis às entidades adjudicantes;\n\ne) Quando se trate de serviços complementares não incluídos no projecto inicialmente considerado ou no primeiro contrato celebrado, mas que, na sequência de ciscunstâncias imprevistas, se tenham tornado necessários para a execução do serviço descrito nesses documentos, na condição de a adjudicação ser feita ao prestador de serviços que executa esse serviço:\n\n- quando esses serviços complementares não possam ser técnica ou economicamente separados do contrato principal sem graves inconvenientes para as entidades adjudicantes, ou\n\n- quando os serviços em questão, embora possam ser separados da execução do contrato inicial, sejam absolutamente necessários para as fases posteriores do contrato.\n\nNo entanto, o valor cumulado estimado dos contratos celebrados relativamente a serviços complementares não pode exceder 50 % do montante do contrato principal;\n\nf) Quando se trate de novos serviços que consistam na repetição de serviços similares confiados ao prestador de serviços a quem foi adjudicado um contrato anterior pelas mesmas entidades adjudicantes, desde que esses serviços estejam em conformidade com um projecto de base, projecto esse que tenha sido objecto de um primeiro contrato celebrado de acordo com os procedimentos referidos no nº 4. A possibilidade de recurso ao procedimento por negociação deve ser indicado aquando da abertura do concurso para o primeiro projecto, devendo o custo total estimado dos serviços subsequentes ser tomado em consideração pelas entidades adjudicantes para efeitos de aplicação do disposto no artigo 7º O recurso ao procedimento por negociação apenas será possível no triénio subsequente à celebração do contrato inicial.\n\n4. Em todos os outros casos, as entidades adjudicantes celebrarão os seus contratos públicos de serviços através do recurso aos processos de concurso público ou de concurso limitado."
+  },
+  "283eab2ecc0d6229": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n1. Num prazo de 15 dias a contar da data de recepção do respectivo pedido, a entidade adjudicante comunicará aos candidatos ou proponentes não aceites, que o solicitem por escrito, os motivos da recusa da sua candidatura ou proposta e, quando se trate de um concurso, o nome do adjudicatário.\n\n2. A entidade adjudicante comunicará aos candidatos ou proponentes que o solicitem por escrito as razões que a levaram a decidir não adjudicar um contrato que foi objecto de um concurso ou a recomeçar o processo. A entidade adjudicante comunicará também a sua decisão ao Serviço das Publicações Oficiais das Comunidades Europeias.\n\n3. Em relação a cada contrato adjudicado, as entidades adjudicantes devem elaborar um relatório escrito que inclua, pelo menos, o seguinte:\n\n- o seu nome e o endereço, o objecto e o valor do contrato,\n\n- os nomes dos candidatos ou proponentes aceites e os motivos dessa selecção,\n\n- os nomes dos candidatos ou proponentes recusados e os motivos dessa recusa,\n\n- o nome do proponente escolhido e os motivos da selecção da sua proposta, bem como, se conhecida, qualquer parte do contrato que o adjudicatário tencione subcontratar com terceiros,\n\n- quando se trate de procedimentos por negociação, as circunstâncias referidas no artigo 11º que justificam o recurso a esse procedimento.\n\nEste relatório, ou os seus pontos principais, serão comunicados à Comissão a seu pedido."
+  },
+  "2044238b33fd46d1": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n1. O disposto no presente artigo aplica-se aos concursos para trabalhos de concepção organizados no âmbito de um processo de adjudicação de contratos de serviços cujo valor estimado sem IVA seja igual ou superior ao valor referido no nº 1 do artigo 7º\n\n2. O disposto neste artigo aplica-se a todos os concursos para trabalhos de concepção sempre que o montante total dos prémios de participação nos mesmos e dos pagamentos efectuados aos participantes seja igual ou superior a 200000 ecus.\n\n3. As regras relativas à organização dos concursos para trabalhos de concepção são definidas em conformidade com os requisitos do presente artigo e colocadas à disposição de quem estiver interessado em participar nesses concursos.\n\n4. O acesso à participação nos concursos não pode ser restringido:\n\n- ao território ou a uma parte do território de um Estado-membro,\n\n- pelo facto de os participantes terem obrigatoriamente de ser, por força da legislação do Estado-membro onde o concurso para os trabalhos de concepção é organizado, ou pessoas singulares ou pessoas colectivas.\n\n5. Sempre que o número de participantes num concurso para trabalhos de concepção for limitado, as entidades adjudicantes definirão critérios de selecção claros e não discriminatórios. O número dos candidatos convidados a participar nos concursos para trabalhos de concepção deve contemplar, sempre, a necessidade de se assegurar uma concorrência efectiva.\n\n6. O júri será composto unicamente de pessoas singulares que sejam alheias aos participantes no concurso. Sempre que seja exigida uma habilitação profissional específica aos participantes num concurso, pelo menos um terço dos membros do júri deve possuir as mesmas habilitações ou habilitações equivalentes.\n\nO júri deve ter autonomia de decisão ou de parecer. As suas decisões ou pareceres devem ser tomados relativamente a projectos apresentados de forma anónima e aplicando unicamente os critérios indicados no anúncio na acepção do nº 3 do artigo 15º"
+  },
+  "0e2b00c61f5003dd": {
+   "fragment_id": "TÍTULO IV — Regras comuns no domínio técnico",
+   "type": "divisao",
+   "heading": "TÍTULO IV — Regras comuns no domínio técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — Regras comuns no domínio técnico"
+  },
+  "76b48f15b8560a1b": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\n1. As especificações técnicas definidas no anexo II devem constar dos documentos gerais ou dos documentos contratuais relativos a cada contrato.\n\n2. Sem prejuízo das regras técnicas nacionais obrigatórias, desde que compatíveis com o direito comunitário, as referidas especificações técnicas serão definidas pelas entidades adjudicantes por referência a normas nacionais que transponham normas europeias, a condições de homologação técnica europeias ou a especificações técnicas comuns.\n\n3. As entidades adjudicantes podem não aplicar o disposto no nº 2:\n\na) Se as normas, as condições de homologação técnica europeias ou as especificações técnicas comuns não incluírem qualquer disposição relativa à verificação da conformidade, ou se não existirem meios técnicos que permitam determinar, de modo satisfatório, a conformidade de um produto com essas normas, com essas condições de homologação técnica europeias ou com essas especificações técnicas comuns;\n\nb) Se a aplicação do disposto no nº 2 contrariar a aplicação da Directiva 86/361/CEE do Conselho, de 24 de Julho de 1986, relativa à primeira etapa de reconhecimento mútuo das aprovações de equipamentos terminais de telecomunicações(8), ou da Decisão 87/95/CEE do Conselho, de 22 de Dezembro de 1986, relativa à normalização no domínio das tecnologias da informação e das telecomunicações(9), ou de outros instrumentos comunitários no domínio de serviços ou produtos específicos;\n\nc) Se essas normas, condições de homologação técnica europeias ou especificações técnicas comuns obrigarem a entidade adjudicante a utilizar produtos ou materiais incompatíveis com o equipamento que utiliza, ou acarretar custos ou dificuldades técnicas desproporcionados, mas unicamente no âmbito de uma estratégia claramente definida e registada destinada à transição, num prazo determinado, para normas europeias, condições de homologação técnica europeias ou especificações técnicas comuns;\n\nd) Se o projecto em causa for verdadeiramente inovador, não sendo adequado o recurso a normas, a condições de homologação técnica europeias ou a especificações técnicas comuns existentes.\n\n4. As entidades adjudicantes que invocarem o disposto no nº 3 devem, sempre que possível, indicar as respectivas razões no anúncio de concurso publicado no Jornal Oficial das Comunidades Europeias ou no caderno de encargos e, em todos os casos, registar essas razões na sua documentação interna e fornecer essas informações, mediante pedido nesse sentido, aos Estados-membros e à Comissão.\n\n5. Na ausência de normas europeias, condições de homologação técnica europeias ou especificações técnicas comuns, as especificações técnicas:\n\na) Serão definidas por referência às especificações técnicas nacionais reconhecidas como conformes aos requisitos essenciais enumerados nas directivas comunitárias relativas à harmonização técnica, de acordo com os procedimentos definidos nessas directivas, e em especial de acordo com os procedimentos definidos na Directiva 89/106/CEE(10);\n\nb) Podem ser definidas por referência às especificações técnicas nacionais em matéria de concepção, método de cálculo e de execução de obras e utilização de materiais;\n\nc) Podem ser definidas por referência a outros documentos.\n\nNeste caso, convém que se tome por referência, por ordem de preferência:\n\ni) normas nacionais que transponham normas internacionais aceites pelo país da entidade adjudicante,\n\nii) outras normas nacionais e condições de homologação técnica nacionais do país da entidade adjudicante,\n\niii) qualquer outra norma.\n\n6. Salvo se tais especificações forem justificados pelo objecto do contrato, os Estados-membros proibirão a introdução, nas cláusulas contratuais específicas de um determinado contrato, de especificações técnicas que mencionem produtos de um determinado fabrico ou proveniência, ou obtidos segundo processos especiais, que tenham por efeito favorecer ou eliminar certos prestadores de serviços. É nomeadamente proibida a indicação de marcas, patentes ou tipos, ou de uma determinada origem ou produção. É no entanto permitida tal indicação quando acompanhada da menção \"ou equivalente\", quando as entidades adjudicantes não possam fornecer uma descrição do objecto do contrato por meio de especificações suficientemente precisas e inteligíveis para todos os interessados."
+  },
+  "2716b1f64a14ece5": {
+   "fragment_id": "TÍTULO V — Regras comuns de publicidade",
+   "type": "divisao",
+   "heading": "TÍTULO V — Regras comuns de publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V — Regras comuns de publicidade"
+  },
+  "4f708284ab2d9724": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\n1. As entidades adjudicantes darão a conhecer, por meio de um anúncio indicativo a publicar o mais rapidamente possível após o início do respectivo exercício orçamental, o total dos contratos que tencionam celebrar durante os 12 meses seguintes, relativamente a cada uma das categorias de serviços enumeradas no anexo I A, quando o valor total estimado, tendo em conta o disposto no artigo 7º, seja igual ou superior a 750000 ecus.\n\n2. As entidades adjudicantes que pretendam adjudicar um contrato público de serviços através de um concurso público, de um concurso limitado ou, nas condições definidas no artigo 11º, de um procedimento por negociação darão a conhecer a sua intenção através de um anúncio.\n\n3. As entidades adjudicantes que pretendam organizar um concurso para trabalhos de concepção darão a conhecer a sua intenção através de um anúncio."
+  },
+  "0b0a17f61304b642": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\n1. As entidades adjudicantes que tenham adjudicado um contrato público de serviços ou que tenham organizado um concurso para trabalhos de concepção enviarão um anúncio com os resultados do processo de adjudicação ao Serviço das Publicações Oficiais das Comunidades Europeias.\n\n2. Os anúncios serão publicados:\n\n- para os contratos públicos de fornecimentos enumerados no anexo I A, em conformidade com o disposto nos artigos 17º a 20 º,\n\n- para os concursos para trabalhos de concepção, em conformidade com o artigo 17º\n\n3. No caso de contratos públicos de serviços relativos a serviços enumerados no anexo I B, as entidades adjudicantes indicarão no anúncio se concordam com a publicação.\n\n4. A Comissão definirá as regras relativas à elaboração de relatórios periódicos com base nos anúncios referidos no nº 3 e à publicação desses relatórios de acordo com o procedimento definido no nº 3 do artigo 40º\n\n5. Na medida em que a divulgação de informações relativas à adjudicação do contrato possa obstar à aplicação da lei, ser contrária ao interesse público, prejudicar os legítimos interesses comerciais de determinadas empresas públicas ou privadas ou prejudicar a concorrência leal entre prestadores de serviços, essas informações podem não ser publicadas."
+  },
+  "79de235b8e6d60e9": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\n1. Os anúncios devem ser elaborados em conformidade com os modelos que constam dos anexos III e IV especificando as informações aí exigidas. As entidades adjudicantes não podem exigir quaisquer outras condições para além das especificadas nos artigos 31º e 32º quando pedirem informações relativamente às condições de carácter económico e técnico que exigem dos prestadores de serviços para a sua selecção (ponto 13 do anexo III B, ponto 13 do anexo III C e ponto 12 do anexo III D).\n\n2. Os anúncios serão enviados pela entidade adjudicante, o mais rapidamente possível e pelas vias mais adequadas, ao Serviço das Publicações Oficiais das Comunidades Europeias. No caso do processo acelerado previsto no artigo 20º, os anúncios serão enviados por telex, telegrama ou telecópia.\n\nO anúncio previsto no nº 1 do artigo 15º será enviado o mais rapidamente possível após o início de cada exercício orçamental.\n\nO anúncio previsto no nº 1 do artigo 16º será enviado o mais tardar 48 dias após a adjudicação do contrato em causa, ou o encerramento do concurso para trabalhos de concepção em causa.\n\n3. Os anúncios referidos no nº 1 do artigo 15º serão publicados por extenso no Jornal Oficial das Comunidades Europeias e no banco de dados TED, nas línguas oficiais das Comunidades, apenas fazendo fé o texto da língua original.\n\n4. Os anúncios referidos nos n[fmxordmp] 2 e 3 do artigo 15º serão publicados por extenso no Jornal Oficial das Comunidades Europeias e no banco de dados TED, nas respectivas línguas originais. Um resumo dos elementos importantes de cada anúncio será publicado nas outras línguas oficiais das Comunidades, apenas fazendo fé o texto da língua original.\n\n5. O Serviço das Publicações Oficiais das Comunidades Europeias publicará os anúncios o mais tardar 12 dias após a data do respectivo envio. No caso de processo acelerado previsto no artigo 20º esse prazo é reduzido para cinco dias.\n\n6. A publicação nos jornais oficiais ou na imprensa do país da entidade adjudicante não deve efectuar-se antes da data de envio e deve fazer referência a essa data. A publicação não deve conter outras informações para além das publicadas no Jornal Oficial das Comunidades Europeias.\n\n7. As entidades adjudicantes devem poder comprovar a data de envio.\n\n8. As despesas de publicação dos anúncios no Jornal Oficial das Comunidades Europeias ficam a cargo das Comunidades. O anúncio não pode exceder uma página do referido jornal, ou seja, cerca de 650 palavras. Cada número do Jornal Oficial das Comunidades Europeias de que conste um ou mais anúncios deve reproduzir o ou os modelos em que o ou os anúncios publicados se baseiam."
+  },
+  "199d1e898ef5063b": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\n1. Nos concursos públicos, o prazo para recepção das propostas será fixado pelas entidades adjudicantes, de modo a que não seja inferior a 52 dias a contar da data do envio do anúncio.\n\n2. O prazo de recepção das propostas previsto no nº 1 pode ser reduzido para 36 dias se as entidades adjudicantes tiverem publicado o anúncio previsto no nº 1 do artigo 15º, elaborado em conformidade com o modelo constante do anexo III A, no Jornal Oficial das Comunidades Europeias.\n\n3. Desde que tenham sido pedidos em tempo útil, os cadernos de encargos e os documentos complementares devem ser enviados aos prestadores de serviços pelas entidades adjudicantes ou pelos serviços competentes, nos seis dias seguintes à recepção do pedido.\n\n4. Desde que tenham sido pedidas em tempo útil, as informações complementares sobre os cadernos de encargos devem ser comunicadas pelas entidades adjudicantes o mais tardar seis dias antes da data limite fixada para a recepção das propostas.\n\n5. Sempre que, em razão do seu volume, os cadernos de encargos e os documentos ou informações complementares não puderem ser fornecidos nos prazos fixados nos n[fmxordmp] 3 e 4 ou quando as propostas apenas puderem ser apresentadas na sequência de uma visita aos locais ou após consulta no local de documentos anexos ao caderno de encargos, os prazos previstos nos n[fmxordmp] 1 e 2 devem ser adequadamente prolongados."
+  },
+  "9e56a4e105100aa9": {
+   "fragment_id": "Artigo 19º",
+   "type": "artigo",
+   "heading": "Artigo 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º\n\n1. Nos concursos limitados e nos procedimentos por negociação, na acepção do nº 2 do artigo 11º, o prazo de recepção dos pedidos de participação será fixado pelas entidades adjudicantes de modo a não ser inferior a 37 dias, a contar da data do envio do anúncio.\n\n2. As entidades adjudicantes convidarão, simultaneamente e por escrito, os candidatos admitidos a apresentarem as suas propostas. A carta de convite será acompanhada do caderno de encargos e dos documentos complementares. Incluirá, pelo menos:\n\na) Eventualmente, o endereço do serviço onde podem ser pedidos o caderno de encargos e os documentos complementares e a data limite para apresentar esse pedido, bem como o montante e as modalidades de pagamento da quantia que deve ser eventualmente paga para obtenção desses documentos;\n\nb) A data de recepção das propostas, o endereço para o qual devem ser enviadas e a ou as línguas em que devem ser redigidas;\n\nc) Uma referência ao anúncio publicado;\n\nd) A indicação dos documentos a juntar eventualmente, quer para comprovar as declarações verificáveis fornecidas pelo candidato nos termos do nº 1 do artigo 17º quer como complemento das informações previstas nesse mesmo artigo em condições idênticas às previstas nos artigos 31º e 32º;\n\ne) Os critérios de adjudicação do contrato, caso não constem do anúncio.\n\n3. Nos concursos limitados, o prazo de recepção das propostas fixado pelas entidades adjudicantes não pode ser inferior a 40 dias a contar da data do envio do convite escrito.\n\n4. O prazo de recepção das propostas previsto no nº 3 pode ser reduzido para 26 dias se as entidades adjudicantes tiverem publicado o anúncio previsto no nº 1 do artigo 15º, elaborado em conformidade com o modelo constante do anexo III A, no Jornal Oficial das Comunidades Europeias.\n\n5. Os pedidos de participação nos processos de adjudicação podem ser feitos por carta, por telegrama, por telex, por telecópia ou por telefone. Nestes quatro últimos casos, devem ser confirmados por carta a enviar antes de decorrido o prazo previsto no nº 1.\n\n6. Desde que tenham sido pedidas em tempo útil, as informações complementares sobre o caderno de encargos devem ser comunicadas pelas entidades adjudicantes o mais tardar seis dias antes da data limite fixada para a recepção das propostas.\n\n7. Quando as propostas apenas puderem se apresentadas na sequência de uma visita aos locais ou após consulta in loco de documentos anexos ao caderno de encargos, os prazos previstos nos n[fmxordmp] 3 e 4 devem ser adequadamente prolongados."
+  },
+  "151cfd52da7bd507": {
+   "fragment_id": "Artigo 20º",
+   "type": "artigo",
+   "heading": "Artigo 20º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20º\n\n1. Nos casos em que a urgência torne impraticáveis os prazos previstos no artigo 19º, as entidades adjudicantes podem fixar os prazos seguintes:\n\na) Um prazo para a recepção dos pedidos de participação, que não pode ser inferior a 15 dias a contar da data do envio do anúncio;\n\nb) Um prazo para a recepção das propostas, que não pode ser inferior a 10 dias a contar da data do convite.\n\n2. Desde que tenham sido pedidas em tempo útil, as informações complementares sobre o caderno de encargos devem ser comunicadas pelas entidades adjudicantes, o mais tardar quatro dias antes da data limite fixada para a recepção das propostas.\n\n3. Os pedidos de participação nos concursos e os convites para apresentação de propostas devem ser feitos pelas vias mais rápidas possíveis. Os pedidos de participação nos concursos que forem feitos por telegrama, por telex, por telecópia ou por telefone devem ser confirmados por carta, a enviar antes de decorrido o prazo previsto no nº 1."
+  },
+  "4614a6d173328a4c": {
+   "fragment_id": "Artigo 21º",
+   "type": "artigo",
+   "heading": "Artigo 21º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21º\n\nAs entidades adjudicantes podem mandar publicar no Jornal Oficial das Comunidades Europeias anúncios de contratos públicos de serviços que não estejam sujeitos à publicidade obrigatória prevista pela presente directiva."
+  },
+  "2f22a8c88cdcf7d4": {
+   "fragment_id": "Artigo 22º",
+   "type": "artigo",
+   "heading": "Artigo 22º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22º\n\nAs condições de estabelecimento, transmissão, recepção, tradução, compilação e distribuição dos anúncios referidos nos artigos 15º, 16º e 17º, e dos relatórios estatísticos previstos no nº 4 do artigo 16º e no artigo 39º, e a nomenclatura prevista nos anexos I A e I B, bem como a referência nos anúncios a determinadas posições da nomenclatura dentro das categorias de serviços enumeradas nos anexos citados, podem ser alteradas de acordo com o procedimento definido no nº 3 do artigo 40º"
+  },
+  "7805a169cd444610": {
+   "fragment_id": "TÍTULO VI — CAPÍTULO 1",
+   "type": "divisao",
+   "heading": "TÍTULO VI — CAPÍTULO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VI — CAPÍTULO 1\n\nRegras comuns de participação"
+  },
+  "3a6958e677fa6c32": {
+   "fragment_id": "Artigo 23º",
+   "type": "artigo",
+   "heading": "Artigo 23º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23º\n\nOs contratos serão adjudicados com base nos critérios definidos no capítulo 3, tendo em conta o disposto no artigo 24º, depois de as entidades adjudicantes terem verificado a aptidão dos prestadores de serviços não excluídos por força do disposto no artigo 29º, de acordo com os critérios referidos nos artigos 31º e 32º"
+  },
+  "623f189a54899750": {
+   "fragment_id": "Artigo 24º",
+   "type": "artigo",
+   "heading": "Artigo 24º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24º\n\n1. Sempre que o critério de adjudicação do contrato seja o da proposta economicamente mais vantajosa, as entidades adjudicantes podem tomar em consideração variantes apresentadas por um proponente e que obedeçam às especificações mínimas impostas. As entidades adjudicantes devem indicar nos cadernos de encargos as especificações mínimas a que as variantes devem obedecer e quaisquer requisitos específicos relativos à sua apresentação. Se não forem admitidas variantes, o anúncio de concurso deverá especificá-lo.\n\nAs entidades adjudicantes não podem recusar uma variante pelo simples facto de ela ter sido elaborada com especificações técnicas definidas por referência a normas nacionais que transponham normas europeias, a condições de homologação técnica europeias ou a especificações técnicas comuns referidas no nº 2 do artigo 14º, ou por referência a especificações técnicas nacionais referidas no nº 5, alíneas a) e b), do artigo 14º\n\n2. As entidades adjudicantes que tenham aceite variantes nos termos do nº 1 não podem recusar uma variante pelo simples facto de ela poder conduzir, caso seja escolhida, a um contrato de fornecimento e não a um contrato público de serviços na acepção da presente directiva."
+  },
+  "e431be30d3a67323": {
+   "fragment_id": "Artigo 25º",
+   "type": "artigo",
+   "heading": "Artigo 25º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25º\n\nNos cadernos de encargos, a entidade adjudicante pode solicitar que o proponente indique na sua proposta qualquer parte do contrato que tencione eventualmente subcontratar com terceiros.\n\nEsta indicação não prejudica a questão da responsabilidade do prestador de serviços principal."
+  },
+  "4334a79e4abdd4b3": {
+   "fragment_id": "Artigo 26º",
+   "type": "artigo",
+   "heading": "Artigo 26º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26º\n\n1. As propostas podem ser apresentadas por agrupamentos de prestadores de serviços. Não se pode exigir que estes grupos tenham uma determinada forma jurídica para efeitos de apresentação da proposta; no entanto, o agrupamento escolhido poderá ser obrigado a fazê-lo quando lhe for atribuído o contrato.\n\n2. Os candidatos ou proponentes que, ao abrigo da legislação do Estado-membro em que estão estabelecidos, estão habilitados a desenvolver a actividade de serviços em causa, não podem ser recusados pelo simples facto de, ao abrigo da legislação do Estado-membro em que o contrato é adjudicado, deverem ser quer uma pessoa singular quer uma pessoa colectiva.\n\n3. Pode contudo ser exigido às pessoas colectivas que indiquem na proposta ou no pedido de participação os nomes e habilitações profissionais do pessoal que será responsável pela execução do serviço em causa."
+  },
+  "f5064670c22faa77": {
+   "fragment_id": "Artigo 27º",
+   "type": "artigo",
+   "heading": "Artigo 27º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27º\n\n1. Nos concursos limitados e nos procedimentos por negociação, as entidades adjudicantes seleccionarão, de entre os candidatos que possuam as qualificações previstas nos artigos 29º a 35º, aqueles que convidarão a apresentar uma proposta ou a negociar, com base nas informações fornecidas relativamente à situação do prestador de serviços e nas informações e formalidades necessárias à avaliação das condições mínimas de carácter económico e técnico que o mesmo deve preencher.\n\n2. Quando a adjudicação do contrato se processe na sequência de um concurso limitado, as entidades adjudicantes podem determinar um intervalo de variação dentro do qual se situará o número de prestadores de serviços que tencionem convidar. Nesse caso, o intervalo de variação deve ser indicado no anúncio de concurso. O intervalo de variação será determinado em função da natureza do serviço a executar. O intervalo de variação deve incluir pelo menos cinco prestadores de serviços podendo ir até 20.\n\nDe qualquer modo, o número de candidatos convidados a apresentarem propostas deve ser suficiente para assegurar uma concorrência efectiva.\n\n3. Quando as entidades adjudicantes adjudiquem um contrato na sequência de um procedimento por negociação, nos termos do nº 2 do artigo 11º, o número de candidatos admitidos à negociação não pode ser inferior a três, desde que haja um número suficiente de candidatos adequados.\n\n4. Cada Estado-membro assegurará que as entidades adjudicantes convidem sem discriminação, e nas mesmas condições em que convidam os seus nacionais, os nacionais de outros Estados-membros que satisfaçam os requisitos necessários."
+  },
+  "ee5821362656aee3": {
+   "fragment_id": "Artigo 28º",
+   "type": "artigo",
+   "heading": "Artigo 28º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28º\n\n1. A entidade adjudicante pode indicar no caderno de encargos, ou ser obrigada por um Estado-membro a fazê-lo, a entidade ou entidades junto das quais os candidatos podem obter as informações pertinentes sobre as obrigações respeitantes às disposições de protecção e condições de trabalho em vigor no Estado-membro, região ou localidade em que os serviços irão ser executados, e que serão aplicáveis aos serviços executados no local durante a execução do contrato.\n\n2. A entidade adjudicante que fornece as informações referidas no nº 1 solicitará aos proponentes ou aos participantes no processo de adjudicação do contrato que indiquem terem tomado em consideração, aquando da elaboração da sua proposta, as obrigações respeitantes às disposições relativas à protecção e às condições de trabalho em vigor no local em que o serviço será executado. Esta disposição não prejudica a aplicação do disposto no artigo 37º relativamente ao exame de propostas anormalmente baixas."
+  },
+  "db14f990f4e32a63": {
+   "fragment_id": "CAPÍTULO 2 — Critérios de selecção qualitativa",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2 — Critérios de selecção qualitativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 2 — Critérios de selecção qualitativa"
+  },
+  "64c144c34304d26c": {
+   "fragment_id": "Artigo 29º",
+   "type": "artigo",
+   "heading": "Artigo 29º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29º\n\nPodem ser excluídos da participação num processo de adjudicação os prestadores de serviços que:\n\na) Se encontrem em estado de falência, de liquidação, de cessação de actividade, sujeitos a qualquer meio preventivo da liquidação de patrimónios ou em qualquer situação análoga resultante de um processo da mesma natureza nos termos da legislação e regulamentação nacionais;\n\nb) Tenham pendente processo de declaração de falência, para aplicação de qualquer meio preventivo da liquidação de património ou qualquer outro processo da mesma natureza nos termos da legislação e regulamentação nacionais;\n\nc) Tenham sido condenados por sentença transitada em julgado por qualquer delito que afecte a sua honorabilidade profissional;\n\nd) Tenham cometido uma falta grave em matéria profissional, comprovada por qualquer meio que as entidades adjudicantes possam apresentar;\n\ne) Não tenham cumprido as suas obrigações relativamente ao pagamento de quotizações para a segurança social, de acordo com as disposições legais do país onde se encontram estabelecidos ou as do país da entidade adjudicante;\n\nf) Não tenham cumprido as suas obrigações relativamente ao pagamento de impostos, de acordo com as disposições legais do país da entidade adjudicante;\n\ng) Sejam culpados de falsas declarações graves ao prestar, ou abster-se de prestar, as informações que possam ser exigidas nos termos do presente capítulo.\n\nSempre que a entidade adjudicante solicite ao prestador de serviços que prove que nenhum dos casos referidos nas alíneas a), b), c), e) e f) se lhe aplica, aceitará como prova suficiente:\n\n- nos casos previstos nas alíneas a), b) e c), a apresentação de um certificado de registo criminal ou, na sua falta, de documento equivalente emitido por uma autoridade judicial ou administrativa competente do país de origem ou de proveniência da pessoa em questão, do qual conste que aqueles requisitos estão satisfeitos,\n\n- nos casos previstos nas alíneas e) e f), um certificado emitido pela autoridade competente do Estado-membro em questão.\n\nSe o país em questão não emitir este tipo de documentos ou certificados, estes podem ser substituídos por uma declaração sob juramento do interessado perante uma autoridade judicial ou administrativa, um notário ou um organismo profissional ou comercial competente do país de origem ou de proveniência da pessoa em causa.\n\nOs Estados-membros designarão, no prazo referido no artigo 44º, as autoridades e organismos competentes para a emissão destes documentos e informarão imediatamente os outros Estados-membros e a Comissão em conformidade."
+  },
+  "d6de8c48d2d7420d": {
+   "fragment_id": "Artigo 30º",
+   "type": "artigo",
+   "heading": "Artigo 30º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30º\n\n1. Na medida em que os candidatos a um contrato público ou os provenientes devam, para poder executar o serviço em questão, possuir uma autorização especial ou ser membros de uma organização específica no seu país de origem, a entidade adjudicante pode exigir-lhes prova da obtenção dessa autorização ou da sua qualidade de membro da referida organização.\n\n2. Pode ser solicitado a qualquer candidato ou proponente prova da sua inscrição, conforme previsto no seu país de estabelecimento, num dos registos profissionais ou comerciais referidos no nº 3 ou a apresentação de uma declaração feita sob juramento ou certificado nos termos do mesmo número.\n\n3. São os seguintes os registos profissionais ou comerciais e as declarações e certificados em questão:\n\n- na Bélgica, o \"registre du commerce - Handelsregister\" e as \"ordres professionnels - Beroepsorden\",\n\n- na Dinamarca, o \"Erhvervs- og Selsskabsstyrelsen\",\n\n- na Alemanha, o \"Handelsregister\", o \"Handwerksrolle\" e o \"Vereinsregister\",\n\n- na Grécia, o \"Registo dos Consulentes de Estudos\" e o \"Registo dos Gabinetes de Estudos\"; pode também ser exigida uma declaração sob compromisso de honra perante o notário relativa ao exercício da profissão em questão; especialmente para a prestação dos serviços de estudo do anexo IA, o registo profissional \"Μητρώο Μελετητών\" e o \"Μητρώο Γραφείων Μελετών\" para os casos previstos na legislação nacional em vigor,\n\n- em Espanha, o \"Registro oficial de contratistas del ministerio de Economia y Hacienda\",\n\n- em França, o \"registre du commerce\" e o \"répertoire des métiers\",\n\n- em Itália, o \"Registro della Camera di commercio, industria, agricoltura e artigianato\", o \"Registro delle commissioni provinciali per l'artigianato\" ou o \"Consiglio nazionale degli ordini professionali\",\n\n- no Luxemburgo, o \"registre aux firmes\" e o \"rôle de la Chambre des métiers\",\n\n- nos Países Baixos, o \"Handelsregister\",\n\n- em Portugal, o \"Registo Nacional das Pessoas Colectivas\",\n\n- no Reino Unido e Irlanda, o prestador de serviços pode ser convidado a apresentar um certificado do \"Registrar of companies\" ou do \"Registrar of Friendly Societies\" ou, na ausência desses certificados, um certificado de que conste que o interessado declarou sob juramento exercer a profissão em questão no país em que está estabelecido, num lugar específico e sob uma denominação comercial determinada."
+  },
+  "c3d95aaa5c93a368": {
+   "fragment_id": "Artigo 31º",
+   "type": "artigo",
+   "heading": "Artigo 31º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31º\n\n1. A prova da capacidade financeira e económica do prestador de serviços pode ser feita, regra geral, por um ou mais dos elementos seguintes:\n\na) Declarações bancárias adequadas ou prova da subscrição de um seguro de riscos profissionais;\n\nb) Apresentação dos balanços do prestador de serviços ou extractos desses balanços, sempre que a publicação de balanços seja exigida pela legislação sobre as sociedades do país em que o prestador de serviços está estabelecido;\n\nc) Uma declaração relativa ao volume de negócios global da empresa e ao seu volume de negócios relativamente aos serviços a que o contrato diz respeito no decurso dos três últimos exercícios financeiros.\n\n2. As entidades adjudicantes devem especificar no anúncio ou no convite para apresentação de propostas qual o elemento ou elementos de referência que escolheram e aqueles que, para além dos referidos no nº 1, devem ser apresentados.\n\n3. Se, por qualquer razão válida, o prestador de serviços não puder apresentar os elementos de referência pedidos pela entidade adjudicante, poderá provar a sua capacidade económica e financeira por meio de qualquer outro documento considerado adequado pela entidade adjudicante."
+  },
+  "4e09346df66c6695": {
+   "fragment_id": "Artigo 32º",
+   "type": "artigo",
+   "heading": "Artigo 32º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32º\n\n1. A capacidade dos prestadores de serviços para a execução de serviços pode ser apreciada em função das suas qualificações, eficiência, experiência e fiabilidade.\n\n2. A prova da capacidade técnica dos prestadores de serviços pode ser fornecida por um ou mais dos meios a seguir indicados, de acordo com a natureza, quantidade e finalidade dos serviços a prestar:\n\na) Habilitações literárias e profissionais do prestador de serviços e/ou dos quadros da empresa e, em especial, da pessoa ou pessoas responsáveis pela prestação;\n\nb) Uma lista dos principais serviços prestados nos últimos três anos, com indicação do montante, datas e destinatários públicos ou privados dos serviços executados:\n\n- quando se trate de entidades adjudicantes, a prova deve revestir a forma de um certificado emitido ou visado pela autoridade competente,\n\n- quando se trate de destinatários privados, a prova da prestação deverá revestir a forma de uma declaração do comprador ou, na sua falta, de uma simples declaração do prestador de serviços;\n\nc) Indicação dos técnicos ou organismos técnicos envolvidos, quer dependam ou não directamente do prestador de serviços, e especialmente dos responsáveis pelo controlo da qualidade;\n\nd) Uma declaração relativa aos efectivos médios anuais do prestador de serviços e ao efectivo do pessoal de enquadramento nos últimos três anos;\n\ne) Uma declaração relativa às ferramentas e equipamento industrial e técnico à disposição do prestador de serviços para execução dos serviços;\n\nf) Uma descrição das medidas adoptadas pelo prestador de serviços para garantia da qualidade e dos seus meios de estudo e investigação;\n\ng) Sempre que os serviços a fornecer sejam complexos ou, excepcionalmente, se destinem a um objectivo especial, um controlo efectuado pela entidade adjudicante ou, em seu nome, por um organismo oficial competente do país em que o prestador de serviços se encontra estabelecido, sob reserva do acordo desse organismo, relativo à capacidade técnica do prestador de serviços e, se necessário, aos seus meios de estudo e investigação e às medidas que toma para controlo da qualidade;\n\nh) Indicação da parte do contrato que o prestador de serviços tenciona subcontratar.\n\n3. A entidade adjudicante deve especificar no anúncio ou no convite para apresentação de propostas quais os elementos de referência que pretende receber.\n\n4. O âmbito das informações referidas no artigo 31º e nos n[fmxordmp] 1, 2 e 3 do presente artigo deve limitar-se ao objecto do contrato. As entidades adjudicantes devem ter em consideração os interesses legítimos dos prestadores de serviços no que diz respeito à protecção dos segredos técnicos ou comerciais da sua empresa."
+  },
+  "9dce125d136a411a": {
+   "fragment_id": "Artigo 33º",
+   "type": "artigo",
+   "heading": "Artigo 33º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33º\n\nCaso as entidades adjudicantes exijam a apresentação de certificados emitidos por organismos independentes para certificação da conformidade do prestador de serviços com determinadas normas de garantia da qualidade, deve ser feita referência a sistemas de garantia da qualidade baseados no conjunto de normas europeias NE 29000, certificados por organismos conformes ao conjunto de normas europeias NE 45000. As entidades adjudicantes deverão reconhecer certificados equivalentes de organismos estabelecidos noutros Estados-membros. Aceitarão igualmente outras provas de medidas de garantia da qualidade equivalentes apresentadas por prestadores de serviços que não tenham acesso aos referidos certificados, ou que os não possam obter dentro dos prazos estabelecidos."
+  },
+  "13d7dbf2862ff056": {
+   "fragment_id": "Artigo 34º",
+   "type": "artigo",
+   "heading": "Artigo 34º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34º\n\nAs entidades adjudicantes podem, dentro dos limites do disposto nos artigos 29º a 32º, convidar os prestadores de serviços a fornecer elementos que complementem os certificados e documentos apresentados ou que os clarifiquem."
+  },
+  "7320f7ba199b79da": {
+   "fragment_id": "Artigo 35º",
+   "type": "artigo",
+   "heading": "Artigo 35º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35º\n\n1. Os Estados-membros que tenham listas oficiais de prestadores de serviços reconhecidos devem adaptá-las ao disposto nas alíneas a) a d) e g) do artigo 29º e nos artigos 30º, 31º e 32º\n\n2. Os prestadores de serviços inscritos nessas listas podem, em relação a cada contrato, apresentar à entidade adjudicante um certificado de registo emitido pela autoridade competente. Esse certificado deve indicar os elementos de referência que permitiram a sua inscrição na lista e a classificação que lhes é atribuída nessa lista.\n\n3. A inscrição de um prestador de serviços numa lista oficial, certificada pelos organismos competentes, constitui para as entidades adjudicantes de outros Estados-membros uma presunção de aptidão correspondente à classificação do prestador de serviços apenas para efeitos do disposto nas alíneas a) a d) e g) do artigo 29º, no artigo 30º, nas alíneas b) e c) do artigo 31º e na alínea a) do artigo 32º\n\nAs informações extraídas do registo numa lista oficial não podem ser contestadas. No entanto, no que diz respeito ao pagamento de quotizações para a segurança social, pode ser exigido um certificado suplementar a qualquer prestador de serviços inscrito, caso o contrato lhe venha a ser adjudicado.\n\nAs entidades adjudicantes de outros Estados-membros aplicarão as disposições acima referidas apenas em benefício de prestadores de serviços estabelecidos no Estado-membro que elaborou a lista oficial.\n\n4. Aquando do eventual registo numa lista oficial de prestadores de serviços de outros Estados-membros, não pode ser exigida nenhuma prova ou declaração para além das exigidas aos prestadores de serviços nacionais e, em caso algum, nenhuma para além das previstas nos artigos 29º e 33º\n\n5. Os Estados-membros que possuem listas oficiais serão obrigados a comunicar aos outros Estados-membros o endereço do organismo para o qual devem ser enviados os pedidos de registo."
+  },
+  "da9f1cad667f94fd": {
+   "fragment_id": "CAPÍTULO 3 — Critérios de adjudicação dos contratos",
+   "type": "divisao",
+   "heading": "CAPÍTULO 3 — Critérios de adjudicação dos contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 3 — Critérios de adjudicação dos contratos"
+  },
+  "7bf885d1567652d1": {
+   "fragment_id": "Artigo 36º",
+   "type": "artigo",
+   "heading": "Artigo 36º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36º\n\n1. Sem prejuízo das disposições legislativas, regulamentares ou administrativas nacionais relativas à remuneração de determinados serviços, os critérios que a entidade adjudicante tomará como base para a adjudicação de contratos podem ser:\n\na) Ou, quando a adjudicação contempla a proposta economicamente mais vantajosa, vários critérios que variam consoante o contrato: por exemplo, qualidade, mérito técnico, características estéticas e funcionais, assistência técnica e serviço pós-venda, data de entrega, prazos de entrega ou de execução, preço;\n\nb) Ou, unicamente o preço mais baixo.\n\n2. Sempre que o contrato deva ser adjudicado ao prestador de serviços que apresente a proposta economicamente mais vantajosa, as entidades adjudicantes devem indicar nos cadernos de encargos ou no anúncio de concurso quais os critérios de adjudicação que tencionam aplicar, se possível por ordem decrescente da importância que lhes é atribuída."
+  },
+  "3affde70bb44f8c2": {
+   "fragment_id": "Artigo 37º",
+   "type": "artigo",
+   "heading": "Artigo 37º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37º\n\nSe em relação a um determinado contrato as propostas parecerem anomalamente baixas face à prestação em causa, a entidade adjudicante solicitará por escrito, antes de rejeitar essas propostas, esclarecimentos sobre os elementos constitutivos da proposta em questão que considere relevantes e verificará esses elementos constitutivos tendo em conta as explicações recebidas.\n\nA entidade adjudicante pode tomar em consideração explicações que se justifiquem por motivos objectivos, incluindo a economia do método do serviço, as soluções técnicas escolhidas, as condições excepcionalmente favoráveis de que o proponente dispõe para a prestação do serviço ou a originalidade do serviço proposto pelo proponente.\n\nCaso os documentos relativos ao concurso prevejam a adjudicação do contrato pelo preço mais baixo, a entidade adjudicante deve comunicar à Comissão a rejeição de propostas consideradas demasiado baixas."
+  },
+  "3ef2f3a2e9fb123f": {
+   "fragment_id": "TÍTULO VII — Disposições finais",
+   "type": "divisao",
+   "heading": "TÍTULO VII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VII — Disposições finais"
+  },
+  "c55537b3d91cb98d": {
+   "fragment_id": "Artigo 38º",
+   "type": "artigo",
+   "heading": "Artigo 38º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38º\n\nA contagem dos prazos será feita de acordo com o disposto no Regulamento (CEE, Euratom) nº 1182/71 do Conselho, de 3 de Junho de 1971, relativo à determinação das regras aplicáveis aos prazos, às datas e aos termos(11)."
+  },
+  "378670309237f704": {
+   "fragment_id": "Artigo 39º",
+   "type": "artigo",
+   "heading": "Artigo 39º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39º\n\n1. Para permitir uma apreciação dos resultados da aplicação da presente directiva, os Estados-membros enviarão à Comissão, o mais tardar em 31 de Outubro de 1995, um relatório estatístico sobre o ano anterior relativo aos contratos de serviços atribuídos por entidades adjudicantes e, posteriormente, de dois anos em 31 de Outubro.\n\n2. O referido relatório deve indicar pelo menos o número e o valor dos contratos atribuídos por cada entidade adjudicante ou categoria de entidades adjudicantes acima do limiar, subdivididos tanto quanto possível por processo de concurso, categoria de serviços e nacionalidade do prestador de serviços a quem foi adjudicado o contrato e, no caso dos procedimentos por negociação, subdivididos de acordo com o disposto no artigo 11º, com indicação do número e valor dos contratos adjudicados a cada Estado-membro e a países terceiros.\n\n3. A Comissão determinará a natureza das eventuais informações estatísticas exigidas nos termos do disposto na presente directiva, de acordo com o procedimento definido no nº 3 do artigo 40º"
+  },
+  "2a22de402e58ff61": {
+   "fragment_id": "Artigo 40º",
+   "type": "artigo",
+   "heading": "Artigo 40º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40º\n\n1. A Comissão é assistida pelo Comité consultivo para os contratos de direito público, instituído pela Decisão 71/306/CEE.\n\n2. No que diz respeito a contratos de serviços de telecomunicações incluídos na categoria 5 do anexo I A, a Comissão é igualmente assistida pelo Comité consultivo para os contratos no sector das telecomunicações, instituído pela Directiva 90/531/CEE.\n\n3. Quando é feita referência ao procedimento previsto no presente número, o representante da Comissão submete à apreciação do comité um projecto das medidas a tomar. O comité emite o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa, se necessário procedendo a votação.\n\nEsse parecer deve ser exarado em acta; além disso, cada Estado-membro tem o direito de solicitar que a sua posição conste da acta.\n\nA Comissão tomará na melhor conta o parecer emitido pelo comité. O comité será por ela informado do modo como tomou em consideração o seu parecer.\n\n4. Por iniciativa da Comissão ou a pedido de um Estado-membro, o comité examinará todas as questões relativas à aplicação da presente directiva."
+  },
+  "d32d7385191c3005": {
+   "fragment_id": "Artigo 41º",
+   "type": "artigo",
+   "heading": "Artigo 41º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41º\n\nO nº 1 do artigo 1º da Directiva 89/665/CEE do Conselho, de 21 de Dezembro de 1989, que coordena as disposições legislativas, regulamentares e administrativas relativas à aplicação dos processos de recurso em matéria de adjudicação dos contratos de direito público de obras de fornecimento(12), passa a ter a seguinte redacção: \"1. Os Estados-membros tomarão as medidas necessárias para garantir que, no que se refere aos processos de adjudicação abrangidos pelo âmbito de aplicação das Directivas 71/305/CEE, 77/62/CEE e 92/50/CEE(13), as medidas necessárias para garantir que as decisões tomadas pelas entidades adjudicantes possam ser objecto de recursos eficazes e, sobretudo, tão rápidos quanto possível, nas condições previstas nos artigos seguintes e, novamente, no nº 7 do artigo 2º, com o fundamento de que essas decisões tenham violado o direito comunitário em matéria de contratos públicos ou as regras nacionais que transpõem esse direito.\"."
+  },
+  "1e56dc628646095f": {
+   "fragment_id": "Artigo 42º",
+   "type": "artigo",
+   "heading": "Artigo 42º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42º\n\n1. A alínea c) do nº 1 do artigo 5º da Directiva 77/62/CEE, alterada pela Directiva 88/295/CEE, passa a ter a seguinte redacção: \"c) O contravalor dos limiares em moeda nacional e o limiar fixado pelo acordo GATT expresso em ecus, são, em princípio, revistos de dois em dois anos, a partir de 1 de Janeiro de 1988. O cálculo desses contravalores baseia-se num valor diário médio dessas moedas, expresso em ecus, e do ecu expresso em DSE, verificados durante o período de 24 meses que termina no último dia do mês de Agosto imediatamente anterior à revisão que produz efeitos em 1 de Janeiro. Esses contravalores são publicados no Jornal Oficial das Comunidades Europeias no princípio de Novembro.\"\n\n2. O nº 2 do artigo 4ºA da Directiva 71/305/CEE, alterada pela Directiva 89/440/CEE, passa a ter a seguinte redacção: \"2. a) O contravalor do limiar em moedas nacionais será, em princípio, revisto de dois em dois anos com efeitos em 1 de Janeiro de 1992. O cálculo desse contravalor baseia-se no valor diário médio dessas moedas expresso em ecus, durante o período de 24 meses que termina no último dia do mês de Agosto imediatamente anterior à revisão que produz efeitos em 1 de Janeiro. Esses contravalores serão publicados no Jornal Oficial das Comunidades Europeias no princípio de Novembro;\n\nb) O método de cálculo previsto na alínea a) será reanalisado, sob proposta da Comissão, pelo Comité consultivo dos contratos públicos, em princípio dois anos após a sua primeira utilização\"."
+  },
+  "f6cbc6300a982e69": {
+   "fragment_id": "Artigo 43º",
+   "type": "artigo",
+   "heading": "Artigo 43º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43º\n\nO mais tardar três anos após o prazo estabelecido para cumprimento do disposto na presente directiva, a Comissão, actuando em estreita cooperação com os comités referidos nos n[fmxordmp] 1 e 2 do artigo 40º, procederá a uma revisão da aplicação da presente directiva, incluindo, nomeadamente, os efeitos da aplicação da directiva aos contratos de serviços enumerados no anexo I A e as disposições relativas às normas técnicas.\n\nA Comissão apreciará, em especial, as perspectivas de aplicação integral da directiva aos contratos relativos a outros serviços enumerados no anexo I B e os efeitos da execução interna de serviços na liberalização do mercado nesta área. A Comissão apresentará as propostas necessárias com vista à adaptação da directiva em conformidade."
+  },
+  "fb640596fa883777": {
+   "fragment_id": "Artigo 44º",
+   "type": "artigo",
+   "heading": "Artigo 44º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento ao disposto na presente directiva o mais tardar até 1 de Julho de 1993. Desse facto informarão imediatamente a Comissão.\n\nSempre que os Estados-membros adoptem tais disposições, estas farão referência à presente directiva ou serão acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão os textos das disposições essenciais de direito interno, adoptadas em execução do disposto na presente directiva."
+  },
+  "9076659006060a23": {
+   "fragment_id": "Artigo 45º",
+   "type": "artigo",
+   "heading": "Artigo 45º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 18 de Junho de 1992.\n\nPelo Conselho\n\nO Presidente\n\nVitor Martins\n\n(1) JO nº C 23 de 31. 1. 1991, p. 1e\n\nJO nº C 250 de 25. 9. 1991, p. 4.\n\n(2) JO nº C 158 de 17. 6. 1991, p. 90 e\n\nJO nº C 150 de 15. 6. 1992.\n\n(3) JO nº C 191 de 22. 7. 1991, p. 41.\n\n(4) JO nº L 185 de 16. 8. 1971, p. 5. Directiva com a última redacção que lhe foi dada pela Directiva 90/531/CEE (JO nº L 297 de 29. 10. 1990, p. 1).\n\n(5) JO nº L 13 de 15. 1. 1977, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 90/531/CEE (JO nº L 297 de 29. 10. 1990, p. 1).\n\n(6) JO nº L 297 de 29. 10. 1990, p. 1.\n\n(7) JO nº L 185 de 16. 8. 1971, p. 15. Decisão alterada pela Decisão 77/63/CEE (JO nº L 13 de 15. 1. 1977, p. 15).\n\n(8) JO nº L 217 de 5. 8. 1986, p. 21. Directiva alterada pela Directiva 91/263/CEE (JO nº L 128 de 23. 5. 1991, p. 1).\n\n(9) JO nº L 36 de 7. 2. 1987, p. 31.\n\n(10) JO nº L 40 de 11. 2. 1989, p. 12.\n\n(11) JO nº L 124 de 8. 6. 1971, p. 1.\n\n(12) JO nº L 395 de 30. 12. 1989, p. 33.\n\n(13) JO nº L 209 de 24. 7. 1992, p. 1"
+  },
+  "e1f14c19a77b186d": {
+   "fragment_id": "ANEXO I A — Serviços na acepção do artigo 8º",
+   "type": "divisao",
+   "heading": "ANEXO I A — Serviços na acepção do artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I A — Serviços na acepção do artigo 8º\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "71041afe037b96ed": {
+   "fragment_id": "ANEXO I B — Serviços na acepção do artigo 9º",
+   "type": "divisao",
+   "heading": "ANEXO I B — Serviços na acepção do artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I B — Serviços na acepção do artigo 9º\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "56905624085fe1bc": {
+   "fragment_id": "ANEXO II — Definição de determinadas especificações técnicas",
+   "type": "divisao",
+   "heading": "ANEXO II — Definição de determinadas especificações técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Definição de determinadas especificações técnicas\n\nPara efeitos do disposto na presente directiva, entende-se por:\n\n1. Especificações técnicas, o conjunto dos requisitos técnicos constantes, nomeadamente, do caderno de encargos, que definem as características exigidas de uma obra, material, produto ou fornecimento, e que permitem caracterizar objectivamente uma obra, um material, um produto ou um fornecimento de modo a que estes correspondam à utilização a que a entidade adjudicante os destina. Esses requisitos técnicos incluem os níveis de qualidade, desempenho, segurança ou dimensões, incluindo os requisitos aplicáveis ao material, ao produto ou ao fornecimento no que diz respeito à garantia de qualidade, terminologia, símbolos, ensaios e métodos de ensaio, embalagem, marcação ou rotulagem. Incluem igualmente regras relativas à concepção e previsão de custos, ensaio, inspecção e recepção de obras, bem como os métodos ou técnicas de construção e todas as outras condições de carácter técnico que a entidade adjudicante possa exigir, por meio de regulamentação geral ou específica, relativamente às obras acabadas e aos materiais ou elementos integrantes dessas obras;\n\n2. Norma, uma especificação técnica aprovada por um organismo de normalização reconhecido, da actividade normativa para aplicação repetida e continuada, cuja observância não é em princípio obrigatória;\n\n3. Norma europeia, uma norma aprovada pelo Comité Europeu de Normalização (CEN) ou pelo Comité Europeu de Normalização Electrónica (CENELEC) como \"norma europeia\" (NE) ou \"documento de harmonização\" (DH), em conformidade com as regras comuns dessas organizações, ou pelo Instituto Europeu de Normalização das Telecomunicações (IENT) como \"norma europeia de telecomunicações\" (NET);\n\n4. Condição de homologação técnica europeia, uma apreciação técnica favorável da adequação de um produto para utilização, baseada no cumprimento dos requisitos essenciais previstos para as obras de construção, através das características inerentes do produto e das condições de aplicação e utilização definidas. A homologação europeia deve ser emitida por um organismo de aprovação designado para o efeito pelo Estado-membro;\n\n5. Especificação técnica comum, uma especificação técnica estabelecida de acordo com um processo reconhecido pelos Estados-membros para assegurar a sua aplicação uniforme em todos os Estados-membros e que tenha sido publicada no Jornal Oficial das Comunidades Europeias;\n\n6. Requisitos essenciais, as exigências relativas à segurança, saúde e certos outros aspectos de interesse colectivo a que devem obedecer as obras de construção."
+  },
+  "013f4144d353912a": {
+   "fragment_id": "ANEXO III — Modelos de anúncio de concurso",
+   "type": "divisao",
+   "heading": "ANEXO III — Modelos de anúncio de concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Modelos de anúncio de concurso\n\nA. Informação prévia\n\n1. Designação, endereço, endereço telegráfico, números de telefone, telex e telecopiadora da entidade adjudicante e, se for diferente, do serviço junto do qual podem ser obtidas informações adicionais.\n\n2. Montante global das aquisições previstas para cada uma das categorias de serviços enumeradas no anexo I A.\n\n3. Data prevista para início dos processos de adjudicação, por categoria.\n\n4. Outras informações.\n\n5. Data de envio do anúncio.\n\n6. Data de recepção do anúncio pelo Serviço das Publicações Oficiais das Comunidades Europeias.\n\nB. Concurso público\n\n1. Designação, endereço, endereço telegráfico, números de telefone, telex e telecopiadora da entidade adjudicante.\n\n2. Categoria do serviço e descrição.\n\nNúmero de referência CCP.\n\n3. Local da prestação.\n\n4. a) Indicar se a execução do serviço está reservada, por força de uma disposição legislativa, regulamentar ou administrativa, a uma profissão específica.\n\nb) Referência da disposição legislativa, regulamentar ou administrativa,\n\nc) Indicação se as pessoas colectivas devem indicar os nomes e habilitações profissionais do seu pessoal responsável pela execução do serviço.\n\n5. Indicação se os prestadores de serviços podem apresentar propostas relativamente a uma parte dos serviços em questão.\n\n6. Eventual proibição de variantes.\n\n7. Duração do contrato ou prazo de execução do serviço.\n\n8. a) Designação e endereço do serviço a que podem ser pedidos os documentos necessários.\n\nb) Data limite de apresentação desses pedidos.\n\nc) Se for caso disso, montante eventualmente a pagar por esses documentos e condições de pagamento.\n\n9. a) Pessoas autorizadas a assistir à abertura das propostas.\n\nb) Data, hora e local de abertura.\n\n10. Se for caso disso, cauções e garantias exigidas.\n\n11. Modalidades principais de financiamento e pagamento e/ou referências aos textos que as regulamentam.\n\n12. Se for caso disso, forma jurídica que deve revestir o grupo de prestadores de serviços adjudicatário do contrato.\n\n13. Informações relativas à situação do prestador de serviços e informações e formalidades necessárias para uma apreciação das condições mínimas de carácter económico e técnico que este deve preencher.\n\n14. Prazo durante o qual o proponente é obrigado a manter a sua proposta.\n\n15. Critérios de adjudicação do contrato e, se possível, sua classificação. Os critérios que não sejam do preço mais baixo devem ser mencionados caso não figurem no caderno de encargos.\n\n16. Outras informações.\n\n17. Data de envio do anúncio.\n\n18. Data de recepção do anúncio pelo Serviço das Publicações Oficiais das Comunidades Europeias.\n\nC. Concurso limitado\n\n1. Designação, endereço, endereço telegráfico, números de telefone, telex e telecopiadora da entidade adjudicante.\n\n2. Categoria do serviço e descrição.\n\nNúmero de referência CCP.\n\n3. Local da prestação.\n\n4. a) Indicar se a execução do serviço está reservada, por força de uma disposição legislativa, regulamentar ou administrativa, a uma profissão específica.\n\nb) Referência da disposição legislativa, regulamentar ou administrativa.\n\nc) Indicar se as pessoas colectivas devem indicar os nomes e habilitações profissionais do seu pessoal responsável pela execução do serviço.\n\n5. Indicar se o prestador de serviços pode apresentar propostas relativamente a uma parte dos serviços em questão.\n\n6. Número previsto dos prestadores de serviços que serão convidados a apresentar propostas ou intervalo de variação a considerar.\n\n7. Eventual proibição de variantes.\n\n8. Duração do contrato ou data limite para a prestação do serviço.\n\n9. Se for caso disso, forma jurídica que deve revestir o grupo de prestadores de serviços adjudicatário do contrato.\n\n10. a) Se for caso disso, justificação do recurso ao processo acelerado.\n\nb) Data limite de recepção dos pedidos de participação.\n\nc) Endereço para onde devem ser enviados.\n\nd) Língua ou línguas em que devem ser redigidos.\n\n11. Data limite de envio dos convites para apresentação de propostas.\n\n12. Se for caso disso, cauções e garantias exigidas.\n\n13. Informações relativas à situação do prestador de serviços e informações e formalidades necessárias para uma apreciação das condições mínimas de carácter económico e técnico que este deve preencher.\n\n14. Critérios de adjudicação do contrato e, se possível, sua classificação, caso estes não sejam indicados no convite para apresentação de propostas.\n\n15. Outras informações.\n\n16. Data de envio do anúncio.\n\n17. Data de recepção do anúncio pelo Serviço das Publicações Oficiais das Comunidades Europeias.\n\nD. Procedimento por negociação\n\n1. Designação, endereço, endereço telegráfico, números de telefone, telex e telecopiadora da entidade adjudicante.\n\n2. Categoria do serviço e descrição.\n\nNúmero de referência CCP.\n\n3. Local da prestação.\n\n4. a) Indicar se a execução do serviço está reservada, por força de uma disposição legislativa, regulamentar ou administrativa, a uma profissão específica.\n\nb) Referência da disposição legislativa, regulamentar ou administrativa.\n\nc) Indicar se as pessoas colectivas devem indicar os nomes e habilitações profissionais do seu pessoal responsável pela execução do serviço.\n\n5. Indicar se o prestador de serviços pode apresentar propostas relativamente a uma parte dos serviços em questão.\n\n6. Número previsto dos prestadores de serviços que serão convidados a apresentar propostas ou intervalo de variação a considerar.\n\n7. Eventual proibição de variantes.\n\n8. Duração do contrato ou data limite para a execução do serviço.\n\n9. Se for caso disso, forma jurídica que deve revestir o grupo de prestadores de serviços adjudicatário do contrato.\n\n10. a) Se for caso disso, justificação do recurso ao processo acelerado.\n\nb) Data limite de recepção dos pedidos de participação.\n\nc) Endereço para onde devem ser enviados.\n\nd) Língua ou línguas em que devem ser redigidos.\n\n11. Se for caso disso, cauções e garantias exigidas.\n\n12. Informações relativas à situação do prestador de serviços e informações e formalidades necessárias para uma apreciação das condições mínimas de carácter económico e técnico que este deve preencher.\n\n13. Se for caso disso, nomes e endereços dos prestadores de serviços já seleccionados pela entidade adjudicante.\n\n14. Outras informações.\n\n15. Data de envio do anúncio.\n\n16. Data de recepção do anúncio pelo Serviço das Publicações Oficiais das Comunidades Europeias.\n\n17. Data ou datas de publicações anteriores no Jornal Oficial das Comunidades Europeias.\n\nE. Adjudicação de contratos\n\n1. Designação e endereço da entidade adjudicante.\n\n2. Processo de adjudicação escolhido; em caso de procedimento por negociação sem publicação prévia de um anúncio, justificação (nº 3 do artigo 11º).\n\n3. Categoria do serviço e descrição.\n\nNúmero de referência CCP.\n\n4. Data de adjudicação do contrato.\n\n5. Critérios de adjudicação do contrato.\n\n6. Número de propostas recebidas.\n\n7. Designação e endereço do prestador ou prestadores de serviços.\n\n8. Preço ou gama de preços (mínimo/máximo) pagos.\n\n9. Se for caso disso, valor e parte do contrato susceptíveis de ser objecto de subcontratação com terceiros.\n\n10. Outras informações.\n\n11. Data de publicação do anúncio de concurso no Jornal Oficial das Comunidades Europeias.\n\n12. Data de envio do anúncio.\n\n13. Data de recepção do anúncio pelo Serviço das Publicações Oficiais das Comunidades Europeias.\n\n14. No caso de contratos relativos a serviços enumerados no anexo I B, acordo da entidade adjudicante quanto à publicação do anúncio (nº 3 do artigo 16º)."
+  },
+  "c0ca0e3f151f535f": {
+   "fragment_id": "ANEXO IV — A. Anúncios de concursos",
+   "type": "divisao",
+   "heading": "ANEXO IV — A. Anúncios de concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — A. Anúncios de concursos\n\n1. Designação, endereço, endereço telegráfico, números de telefone, telex e telecopiadora da entidade adjudicante e do serviço junto do qual podem ser obtidos os documentos necessários.\n\n2. Descrição do projecto.\n\n3. Tipo de concurso: público ou limitado.\n\n4. No caso de concursos públicos: data limite para o envio dos projectos.\n\n5. No caso de concursos limitados:\n\na) Número previsto de participantes;\n\nb) Se for caso disso, nomes dos participantes já seleccionados;\n\nc) Critérios a utilizar para selecção dos participantes;\n\nd) Data limite para o envio de pedidos de participação.\n\n6. Se for caso disso, indicação se a participação está reservada a uma profissão específica.\n\n7. Critérios a utilizar para apreciação dos projectos.\n\n8. Se for caso disso, nomes dos membros do júri seleccionados.\n\n9. Indicar se a decisão do júri tem carácter vinculativo.\n\n10. Se for caso disso, número e valor dos prémios a atribuir.\n\n11. Se for caso disso, indicações sobre os pagamentos a efectuar a todos os participantes.\n\n12. Indicar se os vencedores adquirem o direito de beneficiar da adjudicação de um contrato suplementar.\n\n13. Outras informações.\n\n14. Data de envio do anúncio.\n\n15. Data de recepção do anúncio pelo Serviço das Publicações Oficiais das Comunidades Europeias.\n\nB. Resultados dos concursos\n\n1. Designação, endereço, endereço telegráfico, números de telefone, telex e telecopiadora da entidade adjudicante.\n\n2. Descrição do projecto.\n\n3. Número total de participantes.\n\n4. Número de participantes estrangeiros.\n\n5. Vencedor ou vencedores do concurso.\n\n6. Se for caso disso, prémio ou prémios.\n\n7. Outras informações.\n\n8. Referência do anúncio de concurso para trabalhos de concepção.\n\n9. Data de envio do anúncio.\n\n10. Data de recepção do anúncio pelo Serviço das Publicações Oficiais das Comunidades Europeias."
+  },
+  "2101a1d94dde986f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1992L0050 — PT — 31.01.2006 — 006.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31992L0050) [DIRECTIVA 92/50/CEE DO CONSELHO](http://publications.europa.eu/resource/celex/31992L0050) [de 18 de Junho de 1992](http://publications.europa.eu/resource/celex/31992L0050) [relativa à coordenação dos processos de adjudicação de contratos públicos de serviços](http://publications.europa.eu/resource/celex/31992L0050) (JO L 209, 24.7.1992, p.1)\n\n**revogado por:**\n\n- [Directiva 2004/18/CE do Parlamento Europeu e do Conselho de 31 de Março de 2004](http://publications.europa.eu/resource/celex/32004L0018) — L 134 — 114 — 30.4.2004"
+  }
+ }
+}

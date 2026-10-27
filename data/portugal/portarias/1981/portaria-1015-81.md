@@ -1,0 +1,279 @@
+---
+schema_version: '1.0'
+id: pt:dre:567946:por
+title: Portaria n.º 1015/81
+short_title: null
+summary: Aprova o Regulamento do apoio ao Desporto da Alta Competição e o Estatuto do Atleta de Alta Competição em Representação
+  Nacional
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Qualidade de Vida
+proposing_entity: null
+official_number: 1015/81
+official_date: null
+publication_date: '1981-11-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 272/1981, Série I de 1981-11-25
+  number: '272'
+  series: I
+  supplement: null
+  pages: 3105 - 3107
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/11/27200/31053107.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '567946'
+  dre_path: /dr/detalhe/portaria/1015-1981-567946
+  internal: pt:dre:567946:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1015-1981-567946
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1015-1981-567946
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:34:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 54afecddc73568251b060b6fb8339e3eb9d159280880a03f1fb907b29e582016
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:34:37Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atleta de ALTA Competição
+- Desporto de ALTA Competição
+- Estatuto
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:399871:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:430619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561817:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:399871:por
+  label: "Revogada pela PORT.809/84.15.10.1984.MQV, DR.IS [239] de 15.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/809-1984-399871
+  date: '1984-10-15'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:34:37Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1015/81
+
+de 25 de Novembro
+
+A importância da função social desempenhada pelo desporto de alta competição é hoje, apesar de algumas incompreensões, generalizadamente reconhecida. Pelos valores culturais e científicos que integra e pelo significado promocional de que se reveste, ele constitui, indubitavelmente, factor do maior relevo no desenvolvimento qualitativo e quantitativo da prática desportiva.
+
+O reconhecimento desta realidade explica a preocupação dos poderes públicos em regulamentar o apoio a prestar às estruturas e praticantes do desporto de alta competição, que se traduziu na publicação dos Decretos-Leis n.os [559/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/559-1976-430619), de 16 de Julho, e [519-U/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-u-1979-510021), de 28 de Dezembro, e da [Portaria n.º 730/80](https://diariodarepublica.pt/dr/detalhe/portaria/730-1980-461802), de 26 de Setembro.
+
+Tendo em atenção diversas sugestões e críticas formuladas em ordem à melhoria da regulamentação referida e tendo em vista o aperfeiçoamento dos mecanismos de apoio ao desporto de alta competição e a dignificação das representações desportivas nacionais, individuais e colectivas, sem prejuízo da autonomia própria das federações desportivas que pelas mesmas são responsáveis, entendeu-se proceder à alteração do Regulamento do Apoio ao Desporto de Alta Competição e do Estatuto do Atleta de Alta Competição em Representação Nacional.
+
+Assim, tendo em atenção o [Decreto-Lei n.º 290/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1981-561817), de 14 de Outubro:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Qualidade de Vida, o seguinte:
+
+1.º São aprovados o Regulamento do Apoio ao Desporto de Alta Competição e o Estatuto do Atleta de Alta Competição em Representação Nacional, cujos textos se publicam como anexos I e II a esta portaria, dela fazendo parte integrante.
+
+2.º É revogada a [Portaria n.º 730/80](https://diariodarepublica.pt/dr/detalhe/portaria/730-1980-461802), de 26 de Setembro.
+
+3.º As dúvidas suscitadas na aplicação da presente portaria serão resolvidas por despacho ministerial.
+
+4.º Esta portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Ministério da Qualidade de Vida, 26 de Outubro de 1981. - O Ministro da Qualidade de Vida, Gonçalo Pereira Ribeiro Teles.
+
+## ANEXO I — Regulamento do Apoio ao Desporto de Alta Competição
+
+Artigo 1.º - 1 - O apoio ao desporto de alta competição, a promover pelas estruturas orgânicas da Direcção-Geral dos Desportos (DGD), é dirigido aos atletas que, em representação individual ou colectiva, tenham alcançado resultados de comprovado nível internacional ou demonstrado qualidades indicativas de os poderem vir a obter.
+
+2 - O referido apoio será canalizado através das federações desportivas.
+
+Art. 2.º Por desporto de alta competição entende-se o que se traduz na participação nas mais significativas provas desportivas mundiais, incluindo ainda o que se desenvolve na fase de preparação dos atletas que se destinam a competir em tais provas.
+
+Art. 3.º O presente Regulamento compreende as provas a seguir indicadas, que se consideram de interesse público nacional:
+
+a) Provas em que participem representações nacionais:
+
+Campeonatos do Mundo;
+
+Campeonato da Europa;
+
+b) Provas em que participem clubes:
+
+Taça dos Clubes Campeões Europeus;
+
+Taça dos Clubes Vencedores das Taças;
+
+c) Jogos Olímpicos;
+
+d) Outras provas de carácter internacional que, embora não previstas nas alíneas anteriores, venham a ser consideradas, por despacho ministerial, como provas de interesse público nacional.
+
+Art. 4.º A Direcção-Geral dos Desportos, em estreita colaboração com as federações e mediante protocolos a estabelecer, assegurará a coordenação dos trabalhos e apoios com vista às participações nacionais previstas no artigo anterior, estabelecendo também contactos com outras entidades que sejam julgadas indispensáveis para coordenação.
+
+Art. 5.º À Direcção-Geral do Apoio Médico (DGAM) incumbe o acompanhamento e o controle médico-desportivo dos atletas abrangidos pelos apoios referidos que se enquadrem no âmbito da sua competência.
+
+Art. 6.º - 1 - No quadro do apoio à alta competição, as categorias consideradas são as seguintes:
+
+a) Internacional, constituída pelos atletas que tenham realizado ou obtido resultados de comprovado nível internacional;
+
+b) Nacional, constituída pelos atletas de comprovado nível nacional e que revelem capacidade para poderem vir a alcançar bons resultados internacionais;
+
+e) Esperanças, constituída pelos jovens que revelem possibilidades de poderem vir a atingir categoria internacionais
+
+2 - A cada uma desta categorias corresponderá um conjunto de apoios a definir anualmente pelos competentes serviços da DGD, devendo dos mesmos constar os protocolos a estabelecer com as federações desportivas, sujeitos a aprovação ministerial.
+
+Art. 7.º - 1 - Compete a cada uma das federações desportivas apresentar anualmente à DGD a lista dos atletas susceptíveis de serem abrangidos por cada uma das categorias referidas no n.º 1 do artigo anterior, da qual constará o seguinte:
+
+a) Resultados mínimos ou percentagens de pontuação que fixou para a selecção dos atletas;
+
+b) Critério de apuramento por aferição em contactos internacionais;
+
+c) Objectivos a alcançar com a participação;
+
+d) Calendário de participação;
+
+e) Individualização do atleta, fundamentando a razão da selecção;
+
+f) Nota de cadastro do atleta;
+
+g) Outros elementos que possua e possam definir a carreira desportiva do atleta;
+
+h) Plano geral de preparação.
+
+2 - Compete ainda a cada uma das federações desportivas a execução do plano geral de preparação referido na alínea h) do número antecedente.
+
+Art. 8.º - 1 - A título experimental, são criados centros de formação para a alta competição, a funcionar na dependência do Instituto Nacional dos Desportos (IND), com vista a possibilitar um aproveitamento eficaz dos apoios a que se refere a presente portaria.
+
+2 - Estes centros funcionarão de acordo com regulamentação a fixar no prazo de 180 dias.
+
+Art. 9.º Como órgão da cooperação técnica e de representação de entidades desportivas junto da DGD, funcionará a Comissão de Apoio ao Desporto de Alta Competição (CADAC).
+
+Art. 10.º A Comissão de Apoio ao Desporto de Alta Competição (CADAC) tem as seguintes atribuições:
+
+a) Apreciar os elementos fornecidos pelas federações nos termos do artigo 7.º, n.º 1, e decidir quais as modalidades e os atletas que devem ser abrangidos pelos apoios a conceder;
+
+b) Acompanhar e controlar a execução das acções e dos apoios, estabelecendo para isso a necessária ligação com os dirigentes, técnicos e directores técnicos das modalidades abrangidas;
+
+c) Propor à DGD e com ela colaborar na investigação e adopção das medidas e técnicas que a prática nacional e internacional tenha demonstrado como mais adequadas para a prossecução dos fins visados pelos apoios;
+
+d) Colaborar com a DGD na sensibilização e mobilização de vontades e de meios;
+
+e) Promover reuniões em que tomem parte representantes da DGD, dirigentes, técnicos e directores técnicos das modalidades abrangidas, sem interferir com a autonomia orgânica das respectivas federações e serviços públicos, por forma a possibilitar um eficaz acompanhamento e controle permanente das acções e dos apoios;
+
+f) Praticar os actos decisórios que por despacho ministerial lhe forem cometidos em matéria de apoio à alta competição e que por lei se não encontrem reservados à competência de outras entidades.
+
+Art. 11.º - 1 - A Comissão de Apoio ao Desporto de Alta Competição será constituída por:
+
+a) Director-geral dos Desportos, ou seu representante, que preside e tem voto de qualidade;
+
+b) Director do Instituto Nacional dos Desportos;
+
+c) Director dos Serviços das Actividades Gimno-Desportivas;
+
+d) Representante da Direcção-Geral do Apoio Médico;
+
+e) Chefe da Divisão do Desporto Federado;
+
+f) Representante do Comité Olímpico Português;
+
+g) 4 representantes das federações (1 de desportos colectivos, 1 de desportos náuticos, 1 de combate e 1 de desportos individuais);
+
+h) 2 vogais de reconhecida competência técnica, sem direito a voto.
+
+2 - Os vogais referidos na alínea h) do número anterior serão nomeados por despacho ministerial, mediante proposta da CADAC.
+
+3 - A CADAC reúne-se por convocação do director-geral dos Desportos ou seu representante, ou a pedido de 5 membros com direito a voto.
+
+## ANEXO II — Estatuto do Atleta de Alta Competição em Representação Nacional
+
+Artigo 1.º Aos atletas abrangidos pelo presente Estatuto é aplicável o disposto no [Decreto-Lei n.º 559/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/559-1976-430619), de 16 de Julho.
+
+Art. 2.º Os atletas estudantes beneficiarão das facilidades previstas no [Decreto-Lei n.º 519-U/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-u-1979-510021), de 28 de Dezembro.
+
+Art. 3.º As bolsas de valorização a conceder aos atletas abrangidos pelo presente Estatuto serão propostas pela DGD, sob parecer favorável da CADAC, à entidade competente, com base nos estudos prévios que haja realizado e tendo, nomeadamente, em consideração as dificuldades resultantes da actividade profissional ou estudantil, de deslocações, de reforços alimentares ou de equipamento desportivo.
+
+Art. 4.º Constitutem direitos do atleta abrangido pelo presente Estatuto:
+
+a) Apoio médico e médico-desportivo, correndo todas despesas com Lesões ou acidentes derivados da prática desportiva e ocorridos após ser abrangido pelo presente Estatuto por conta do Centro de Medicina Desportiva que dá apoio ao atleta;
+
+b) Seguro respeitante à sua actividade desportiva (competição, preparação e transportes), até limite a estabelecer pela CADAC;
+
+c) Concessão do pagamento de estudos, cursos ou lições por explicadores, quando na situação de empregados ou estudantes se tenham de apresentar a concursos ou a exames para cuja habilitação ou preparação tenham sido prejudicados pela actividade desportiva e desde que não abrangidos nas bolsas referidas no artigo 3.º do presente Estatuto;
+
+d) Possibilidade de receberem da respectiva federação o equipamento adequado para treino e competição;
+
+e) Possibilidade de serem contemplados com bolsas de valorização académica e profissional;
+
+f) Concessão das facilidades possíveis no referente a apoio técnico-desportivo e na utilização de instalações;
+
+g) Concessão de uma indemnização material compatível e adequada aos gastos mensais em deslocações para treinos e provas, bem como para o reforço de alimentação.
+
+Art. 5.º Constituem deveres do atleta abrangido pelo presente estatuto:
+
+1) Cumprimento do regime de treinos, estágios e participação em provas, de acordo com a programação técnica e médica desportiva;
+
+2) Comparência aos exames médico-desportivos marcados pela Direcção-Geral de Apoio Médico;
+
+3) Observância das indicações da Direcção-Geral do Apoio Médico, de acordo com a respectiva regulamentação;
+
+4) Adopção de um comportamento cívico adequado à função cultural e social do atleta de alta competição.
+
+Art. 6.º - 1 - O não cumprimento dos deveres estatuídos determinará o seu afastamento do regime de preparação ou a suspensão do atleta, consoante a gravidade das faltas, após inquérito.
+
+2 - A instrução do inquérito e a aplicação das sanções previstas no número anterior são da competência da Comissão referida no artigo 9.º do Regulamento do Apoio ao Desporto de Alta Competição.
+
+3 - Da decisão do processo cabe recurso para o Ministro da Qualidade de Vida.
+
+O Ministro da Qualidade de Vida, Gonçalo Pereira Ribeiro Teles.

@@ -1,0 +1,165 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:165950849:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-168341486",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/20-2021-165950849",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-06-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "168333047",
+    "168333048",
+    "168333049",
+    "168333050",
+    "168333051",
+    "168333052",
+    "168333053",
+    "168333054",
+    "168333055",
+    "168333056",
+    "168333057"
+   ]
+  },
+  {
+   "date": "2022-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:168296690:por",
+     "title": "Declaração de Retificação n.º 11/2021/A",
+     "published": "2021-07-26",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/11-2021-168296690"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 5.º"
+   ],
+   "fragments": [
+    "168333047",
+    "168333048",
+    "168333049",
+    "168333050",
+    "168333051",
+    "168333059",
+    "168333053",
+    "168333054",
+    "168333055",
+    "168333056",
+    "168333057",
+    "168333058"
+   ]
+  }
+ ],
+ "fragments": {
+  "168333047": {
+   "fragment_id": "168341487",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 20/2021/A\n\nSumário: Criação da figura do Provedor Regional do Animal.\n\nCriação da figura do Provedor Regional do Animal\n\nA relação do homem e da sociedade com os animais é ancestral e acompanhou a evolução das mentalidades humanas e o próprio crescimento da consciência da importância crescente do bem-estar animal.\n\nA «Declaração de Cambridge sobre a Consciência em Animais Humanos e Não Humanos», de 2012, redigida por Philip Low, nasceu da necessidade de reavaliar os substratos neurobiológicos da experiência consciente e comportamentos relacionados em animais humanos e não humanos. A partir de várias experiências no domínio da pesquisa da consciência nasceram evidências. A ausência de um neocórtex não parece impedir que um organismo experimente estados afetivos.\n\nEsta Declaração mostrou evidências convergentes que indicam que animais não humanos têm os substratos neuroanatómicos, neuroquímicos e neurofisiológicos de estados de consciência e, como tal, são detentores de capacidade para exibir comportamentos intencionais. Consequentemente, o peso das evidências indica que os humanos não são os únicos a possuir os substratos neurológicos que geram a consciência.\n\nEsta aproximação do animal humano ao não humano, ao nível da dotação da consciência, deixa de ser compatível com a velha ideia do «ser», muito de origem bíblica, com o homem a tomar lugar no topo de uma cadeia biológica. Esta visão antropocêntrica já não encontra validação nos tempos que correm e os diversos estudos e as evidências recolocam o ser humano no mesmo nível que os animais não humanos, alguns já domesticados pela simbiose com os homens, no combate pelos recursos naturais. Ora, isto conduz mais a uma aproximação, ao nível da senciência, do que a uma diferenciação.\n\nEsta ideia «especista» que impõe uma aceção de superioridade fisicalista e de exclusividade da consciência moral ao homem, tem vindo a ser ultrapassada por aquilo que podemos denominar de «expansão evolucionista», que muda a forma como olhamos para os animais não humanos, ou seja, não tanto como nossos subordinados, mas mais como seres distintos.\n\nEsta atitude de humildade intelectual humana expandida, baseada em evidências científicas, conduziu-nos, então, à confirmação cabal de que os animas são seres dotados de sensibilidade e emoção que merecem ser respeitados, sendo necessária uma mudança de comportamento, acompanhada por um corpo normativo que inclua um ordenamento jurídico nacional e regional articulado.\n\nO enquadramento do Código Penal, explanado na Lei n.º 69/2014, de 29 de agosto, que criminaliza os maus-tratos e abandono de animais domésticos, cujo regime sancionatório foi alterado pela Lei n.º 39/2020, de 18 de agosto, e a Lei n.º 8/2017, de 3 de março, que estabelece um estatuto jurídico dos animais, alterando o Código Civil e reconhecendo a sua natureza de seres vivos dotados de sensibilidade, juntamente com a publicação do Decreto Legislativo Regional n.º 12/2016/A, de 8 de julho, que proíbe o abate de animais domésticos e errantes na Região Autónoma dos Açores, reconhecem uma necessidade de mudança normativa que já se fez na sociedade civil.\n\nA assunção da responsabilização, por parte das autoridades, pelos animais errantes e sua vacinação, controle de zoonoses, promoção de campanhas de esterilização e adoção, tem evoluído através do tempo e tem sido produzida legislação que visa uma normalização dos comportamentos humanos e a adaptação de estruturas municipais. Desde 1925, com o artigo 3.º do Decreto n.º 11:242, de 16 de novembro, o artigo 19.º do Decreto-Lei n.º 276/2001, de 17 de outubro, e o Decreto-Lei n.º 314/2003, de 17 de dezembro, houve sempre o espírito de atribuir mais competências às Câmaras Municipais na área da salvaguarda do bem-estar animal, munindo-as de meios para cumprir o disposto nestes diplomas legais.\n\nA criação do Provedor não é inovadora e começou por ser implementada nos municípios de Lisboa, Tavira e Almada, com o objetivo de criar uma figura que garanta o efetivo cumprimento da suprema salvaguarda do bem-estar animal, o combate ao seu abandono e promoção de adoção, vigilância e controle de zoonoses, promovendo, simultaneamente, a proteção da saúde pública.\n\nA abrangência desejada neste diploma não se esgota, contudo, nos animais domésticos mas a todos as espécies e seus habitats, incluindo espécies marinhas e aéreas protegidas, ou não, animais sujeitos a eventos e espetáculos, nunca esquecendo os denominados animais de pecuária que vivem em regimes exploratórios e, muitos deles, sujeitos a transporte por terra e mar em que nem sempre se assiste ao cumprimento com os normativos que estabelecem as regras de execução, na ordem jurídica nacional, de regulamentos internacionais.\n\nNão podemos deixar cair no esquecimento os animais de grande porte usados, ao longo da sua vida, como força de trabalho que, depois de esgotada, são tantas vezes descartados, como os equídeos e bovinos, que carecem de legislação protecionista.\n\nEsta figura corresponde, portanto, à criação de uma entidade singular, de índole facilitadora, que estabeleça a interligação necessária entre o poder regional, municipal, entidades oficiais fiscalizadoras e associações de proteção e bem-estar animal, no escrupuloso cumprimento da legislação em vigor e cuja missão efetiva é zelar pelo bem-estar animal.\n\nÉ fundamental seguir as regras da imparcialidade e autonomia para a criação de um órgão independente relativamente a qualquer entidade regional ou municipal e desprovida de poderes injuntivos na tomada das suas decisões.\n\nA criação do Provedor Regional dos Animais fazia parte de um conjunto de medidas apresentadas no programa eleitoral do PAN (Pessoas-Animais-Natureza) às Legislativas Regionais de 2020. Esta figura foi já contemplada na Assembleia Legislativa da Região Autónoma da Madeira que discutiu iniciativas que visam a criação do Provedor do Animal naquela Região Autónoma, aguardando somente pela sua regulamentação. Tal figura será também contemplada pelo Governo Português, cuja função irá muito para além do domínio do animal de companhia, mas que compreenderá todos os animais, incluindo animais de pecuária.\n\nEste diploma pretende acompanhar o que são os desígnios que promovem a proteção e bem-estar animal, para que a Região Autónoma dos Açores não fique aquém das pretensões socioculturais e normativas a nível nacional.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:"
+  },
+  "168333048": {
+   "fragment_id": "168341488",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto legislativo regional cria o Provedor Regional do Animal, enquanto órgão singular, dotado de autonomia administrativa e que prossegue a sua missão de forma isenta, autónoma e imparcial no território da Região Autónoma dos Açores."
+  },
+  "168333049": {
+   "fragment_id": "168341489",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e contexto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão e contexto\n\n1 - O Provedor Regional do Animal, doravante designado por «Provedor», tem como missão a defesa e promoção do bem-estar animal, através do acompanhamento da atuação dos poderes públicos no cumprimento da legislação regional aplicável, sem poder decisório ou capacidade sancionatória.\n\n2 - O Provedor articula o desempenho das suas funções com todas as entidades públicas e privadas com competências em matéria de bem-estar animal, designadamente com o Governo Regional, as autarquias locais e as associações de proteção animal.\n\n3 - O Provedor prossegue a sua missão em colaboração com os organismos municipais, regionais, associações, instituições ou outras entidades, cujo objeto seja a promoção do bem-estar animal, sempre que tal seja proveitoso para o cumprimento da sua atividade."
+  },
+  "168333050": {
+   "fragment_id": "168341490",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências\n\n1 - Compete ao Provedor:\n\na) Receber queixas e sugestões relativamente à atuação dos órgãos ou serviços públicos em matéria de bem-estar animal;\n\nb) Analisar as denúncias relativas a maus-tratos e abandono de animais que sejam registadas na plataforma online «SOS Animais Açores», interagindo, para o efeito, com as diversas entidades com competência na matéria;\n\nc) Encaminhar para as entidades competentes informação que receba sobre situações que coloquem em risco o bem-estar animal, indicando a legislação regional aplicável;\n\nd) Propor as medidas necessárias à prevenção de riscos suscetíveis de pôr em causa o bem-estar animal e assinalar as insuficiências da legislação que identificar, emitindo recomendações para a sua interpretação, alteração, revogação ou para a criação de nova legislação;\n\ne) Emitir, por iniciativa própria, ou com base em solicitações que lhe tenham sido dirigidas, pareceres e recomendações na sequência de queixas e sugestões dirigidas aos órgãos ou serviços públicos responsáveis pela área do bem-estar dos animais, no âmbito das respetivas competências;\n\nf) Contribuir para que a proteção e bem-estar animal seja considerado na definição e na execução das políticas do Governo Regional e das autarquias locais;\n\ng) Esclarecer todas as dúvidas que lhe sejam apresentadas, por qualquer pessoa singular ou coletiva, tendo sempre por base a legislação regional, nacional ou comunitária casuisticamente aplicável, devendo dar conhecimento das mesmas ao departamento do Governo Regional com competência em matéria de veterinária;\n\nh) Promover e participar em diversas atividades, nomeadamente ações de sensibilização, seminários, conferências, cursos e outros eventos afins, tendo sempre como parceiro o departamento do Governo Regional com competência em matéria veterinária ou as autarquias locais;\n\ni) Ser ouvido previamente à aprovação de atos legislativos ou regulamentares, em matéria de bem-estar animal, pronunciando-se no prazo de 10 dias úteis;\n\nj) Previamente à emissão de recomendações no contexto da sua missão e competências, ouvir as entidades visadas, permitindo-lhes que prestem todos os esclarecimentos necessários;\n\nk) Criar mecanismos de cooperação com as entidades referidas no n.º 2 do artigo 2.º, que permitam melhorar a eficácia e a eficiência, no âmbito da proteção e saúde animal e detenção e controlo da população de animais de companhia;\n\nl) Emitir, por iniciativa própria ou com base em solicitações rececionadas, recomendações ou pareceres relativamente à atuação de entidades públicas ou privadas em matéria de bem-estar animal, encaminhando-as às entidades competentes para possível correção ou alteração de atuação;\n\nm) Prestar, por escrito, todas as informações solicitadas pelo Governo Regional ou pela Assembleia Legislativa da Região Autónoma dos Açores, relativamente ao bem-estar animal, no prazo máximo de 30 dias após a sua receção;\n\nn) Elaborar um plano anual de atividades, o qual deverá ser apresentado para apreciação ao departamento do Governo Regional com competência em matéria de veterinária e à Assembleia Legislativa da Região Autónoma dos Açores previamente à respetiva implementação;\n\no) Elaborar um relatório anual sobre a sua atividade e competências e sobre a situação do bem-estar animal a nível regional, o qual é remetido para a Assembleia Legislativa da Região Autónoma dos Açores e ao departamento do Governo Regional com competência em matéria de veterinária.\n\n2 - O Provedor está sujeito ao dever de sigilo em relação a todas as informações ou documentos."
+  },
+  "168333051": {
+   "fragment_id": "168341491",
+   "type": 11,
+   "heading": "Artigo 4.º — Colaboração e dever de resposta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Colaboração e dever de resposta\n\n1 - O Provedor, no cumprimento da sua atividade, colabora com as entidades competentes em matéria do bem-estar animal visadas por queixas ou sugestões, procurando alcançar as soluções mais adequadas nas situações a corrigir.\n\n2 - O Provedor deve dar resposta às queixas ou sugestões apresentadas por escrito pelos cidadãos, no prazo de 60 dias, com as medidas adotadas ao nível das situações que originaram as queixas ou recomendações, dando sempre conhecimento das respostas ao departamento do Governo Regional com competência em matéria de veterinária e às autarquias territorialmente competentes.\n\n3 - As entidades competentes em matéria de bem-estar animal devem prestar toda a colaboração que lhes seja solicitada pelo Provedor, no desempenho da sua missão e competências.\n\n4 - As entidades visadas devem dar resposta às recomendações do Provedor, emanadas no quadro da sua missão e competências, no prazo de 60 dias, através de um parecer circunstanciado, com especial incidência sobre as medidas adotadas ou, se for caso disso, com a adequada fundamentação para a sua não adoção."
+  },
+  "168333052": {
+   "fragment_id": "168341492",
+   "type": 11,
+   "heading": "Artigo 5.º — Designação e financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Designação e financiamento\n\n1 - O Provedor é eleito pela Assembleia Legislativa da Região Autónoma dos Açores por maioria de dois terços.\n\n2 - O Provedor é eleito de entre pessoas que ofereçam garantias de idoneidade, independência, credibilidade e integridade pessoal, experiência e competência notórias para o desempenho das funções.\n\n3 - Não poderão ser eleitos como Provedor os dirigentes partidários, membros de órgãos diretivos de associações de proteção animal ou de empresas do setor público empresarial regional, membros do Governo Regional prestadores de serviços ou fornecedores da administração pública regional.\n\n4 - O Provedor pode exercer, em acumulação, desde que de natureza não conflituante ou incompatível, sem necessidade de mais formalidades, atividades em instituições de ensino superior, designadamente as atividades de docência e de investigação, em regime de tempo integral ou tempo parcial, nos termos da legislação em vigor.\n\n5 - No Orçamento da Região Autónoma dos Açores devem ser inscritas verbas destinadas à remuneração e aos recursos financeiros, técnicos, logísticos e administrativos necessários para a prossecução das funções do Provedor, fixadas por diploma regulamentar próprio.\n\n6 - O Provedor exerce as suas funções e é equiparado para efeitos remuneratórios, a Chefe de Divisão, cargo de direção intermédia de 2.º grau, conforme previsto no Decreto Legislativo Regional n.º 2/2005/A, de 9 de maio, na sua atual redação, podendo, no entanto, optar pelo vencimento de origem no caso de a nomeação recair sobre um trabalhador da administração pública que aufira vencimento superior.\n\n7 - O Provedor beneficia do regime de segurança social aplicável aos trabalhadores da administração pública.\n\n8 - O tempo de serviço prestado como Provedor considera-se, para todos os efeitos, como prestado no lugar de origem, mantendo aquele todos os direitos, subsídios, regalias sociais e remuneratórias e quaisquer outras correspondentes ao seu lugar de origem, não podendo, igualmente, ser prejudicado nas promoções a que, entretanto, tenham adquirido direito, nem nos concursos públicos a que se submeta, pelo não exercício de atividade no lugar de origem."
+  },
+  "168333053": {
+   "fragment_id": "168341493",
+   "type": 11,
+   "heading": "Artigo 6.º — Apoio ao funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Apoio ao funcionamento\n\nO Provedor dispõe de sede própria e de serviços de apoio técnico e administrativo, constituídos por pessoal afeto dos quadros da administração pública regional, a definir no âmbito de diploma regulamentar próprio, cuja instalação compete ao Governo Regional."
+  },
+  "168333054": {
+   "fragment_id": "168341494",
+   "type": 11,
+   "heading": "Artigo 7.º — Duração do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Duração do mandato\n\nO Provedor exerce o seu mandato correspondendo ao período da legislatura vigente da Assembleia Legislativa da Região Autónoma dos Açores."
+  },
+  "168333055": {
+   "fragment_id": "168341495",
+   "type": 11,
+   "heading": "Artigo 8.º — Cessação de mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Cessação de mandato\n\n1 - O mandato do Provedor cessa nos seguintes casos:\n\na) Morte ou impossibilidade física permanente;\n\nb) Destituição fundamentada, aprovada por uma maioria qualificada de dois terços em sessão plenária da Assembleia Legislativa da Região Autónoma dos Açores;\n\nc) Renúncia através de carta dirigida ao Presidente da Assembleia Legislativa da Região Autónoma dos Açores;\n\nd) Por perda dos requisitos de elegibilidade ou por incompatibilidade superveniente;\n\ne) Termo do mandato nos termos do artigo anterior."
+  },
+  "168333056": {
+   "fragment_id": "168341496",
+   "type": 11,
+   "heading": "Artigo 9.º — Publicidade e acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Publicidade e acesso\n\nOs meios de contacto e de apresentação de sugestões e queixas ao Provedor, bem como os pareceres, recomendações e relatórios por si produzidos, são disponibilizados no respetivo sítio na Internet."
+  },
+  "168333057": {
+   "fragment_id": "168341497",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia 1 de janeiro de 2022."
+  },
+  "168333059": {
+   "fragment_id": "168341492",
+   "type": 11,
+   "heading": "Artigo 5.º — Designação e financiamento",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 11/2021/A - Diário da República n.º 143/2021, Série I de 2021-07-26](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-2021-168296690), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Designação e financiamento\n\n1 - O Provedor é eleito pela Assembleia Legislativa da Região Autónoma dos Açores por maioria de dois terços.\n\n2 - O Provedor é eleito de entre pessoas que ofereçam garantias de idoneidade, independência, credibilidade e integridade pessoal, experiência e competência notórias para o desempenho das funções.\n\n3 - Não poderão ser eleitos como Provedor os dirigentes partidários, membros de órgãos diretivos de associações de proteção animal ou de empresas do setor público empresarial regional, membros do Governo Regional, prestadores de serviços ou fornecedores da administração pública regional.\n\n4 - O Provedor pode exercer, em acumulação, desde que de natureza não conflituante ou incompatível, sem necessidade de mais formalidades, atividades em instituições de ensino superior, designadamente as atividades de docência e de investigação, em regime de tempo integral ou tempo parcial, nos termos da legislação em vigor.\n\n5 - No Orçamento da Região Autónoma dos Açores devem ser inscritas verbas destinadas à remuneração e aos recursos financeiros, técnicos, logísticos e administrativos necessários para a prossecução das funções do Provedor, fixadas por diploma regulamentar próprio.\n\n6 - O Provedor exerce as suas funções e é equiparado para efeitos remuneratórios, a Chefe de Divisão, cargo de direção intermédia de 2.º grau, conforme previsto no Decreto Legislativo Regional n.º 2/2005/A, de 9 de maio, na sua atual redação, podendo, no entanto, optar pelo vencimento de origem no caso de a nomeação recair sobre um trabalhador da administração pública que aufira vencimento superior.\n\n7 - O Provedor beneficia do regime de segurança social aplicável aos trabalhadores da administração pública.\n\n8 - O tempo de serviço prestado como Provedor considera-se, para todos os efeitos, como prestado no lugar de origem, mantendo aquele todos os direitos, subsídios, regalias sociais e remuneratórias e quaisquer outras correspondentes ao seu lugar de origem, não podendo, igualmente, ser prejudicado nas promoções a que, entretanto, tenham adquirido direito, nem nos concursos públicos a que se submeta, pelo não exercício de atividade no lugar de origem.\n\n> Retificado pelo/a [Declaração de Retificação n.º 11/2021/A - Diário da República n.º 143/2021, Série I de 2021-07-26](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-2021-168296690), em vigor a partir de 2022-01-01"
+  },
+  "168333058": {
+   "fragment_id": "168341498",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 20 de maio de 2021.\n\nO Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.\n\nAssinado em Angra do Heroísmo em 21 de junho de 2021.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.\n\n114339952"
+  }
+ }
+}

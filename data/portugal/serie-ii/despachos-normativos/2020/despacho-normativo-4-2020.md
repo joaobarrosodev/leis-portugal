@@ -1,0 +1,354 @@
+---
+schema_version: '1.0'
+id: pt:dre:130600838:por
+title: Despacho Normativo n.º 4/2020
+short_title: null
+summary: Determina a criação de uma linha de apoio financeiro, destinada a fazer face às necessidades de tesouraria das microempresas
+  turísticas cuja atividade se encontra fortemente afetada pelos efeitos económicos resultantes do surto da doença COVID-19
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Economia e Transição Digital - Gabinete da Secretária de Estado do Turismo
+proposing_entity: null
+official_number: 4/2020
+official_date: null
+publication_date: '2020-03-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 60/2020, Série II de 2020-03-25
+  number: '60'
+  series: II
+  supplement: null
+  pages: 18 - 22
+  pdf_url: https://files.diariodarepublica.pt/2s/2020/03/060000000/0001800022.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '130600838'
+  dre_path: /dr/detalhe/despacho-normativo/4-2020-130600838
+  internal: pt:dre:130600838:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-2020-130600838
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-2020-130600838
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:08:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f1658e55701ac537d7d43f290d255cfbd9ceeb951fb8ffd4c810331321b0f698
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:39Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Auxílio de Minimis
+- Definição de Competências
+- Doença Infecciosa
+- Empresa
+- Epidemia
+- Estabelecimento Hoteleiro
+- Financiamento
+- Formulário Eletrónico
+- IAPMEI
+- Indústria Hoteleira
+- Infraestrutura Turística
+- Instituto do Turismo de Portugal
+- Linha de Crédito
+- Microempresa
+- Regime de Apoio
+- Saúde Pública
+- Tesouraria
+- Turismo
+relationships:
+- type: amended_by
+  target: pt:dre:184357069:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:142111051:por
+  label: Alterados, a partir de 12.08.2020, os arts. 2.º, 4.º, 5.º, 7.º, 9.º e 10.º e o Anexo do presente Despacho, que é
+    republicado, pelo(a) Despacho Normativo n.º 10/2020 - Diário da República n.º 176/2020, Série II de 2020-09-09 nos termos
+    do art. 3.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/10-2020-142111051
+  date: '2020-09-09'
+- type: amended_by
+  target: pt:dre:153493528:por
+  label: Alterados os arts. 1.º, 2.º, 3.º, 4.º 5.º, 6.º, 7.º, 8.º, 10.º e anexo do presente diploma, na versão alterada e
+    republicada pelo DN 10/2020 de 11-ago, pelo(a) Despacho Normativo n.º 1/2021 - Diário da República n.º 6/2021, Série II
+    de 2021-01-11, que o republicou em anexo com as altrerações ora introduzidas
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-2021-153493528
+  date: '2021-01-11'
+- type: amended_by
+  target: pt:dre:158698071:por
+  label: Diferida para 30 de junho de 2022 a data de início do reembolso dos empréstimos cujos períodos de carência terminem
+    até dia 31 de março de 2022, concedidos ao abrigo da Linha de Apoio às Micro e Pequenas Empresas do Turismo - COVID-19,
+    criada pelo presente diploma, e alterados os 2.º, 4.º, 5.º e 6.º deste mesmo diploma, na versão alterada e republicada
+    pelo DN 1/2021 de 11-jan, pelo(a) Despacho Normativo n.º 8/2021 - Diário da República n.º 43/2021, Série II de 2021-03-03,
+    que o republicou em anexo com as alterações ora introduzidas.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/8-2021-158698071
+  date: '2021-03-03'
+- type: amended_by
+  target: pt:dre:162021993:por
+  label: Aditado o n.º 6 ao art. 5.º do presente despacho normativo e republicado em anexo, pelo(a) Despacho Normativo n.º
+    11/2021 - Diário da República n.º 79/2021, Série II de 2021-04-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/11-2021-162021993
+  date: '2021-04-23'
+- type: amended_by
+  target: pt:dre:162166474:por
+  label: Aditada uma CAE à lista de CAE constante do anexo ao presente diploma pelo(a) Despacho Normativo n.º 12/2021 - Diário
+    da República n.º 81/2021, Série II de 2021-04-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/12-2021-162166474
+  date: '2021-04-27'
+- type: amended_by
+  target: pt:dre:169354255:por
+  label: Reforçado o orçamento da Linha de Apoio às Micro e Pequenas Empresas do Turismo - COVID-19, criada pelo presente
+    diploma, pelo(a) Despacho Normativo n.º 22/2021 - Diário da República n.º 154/2021, Série II de 2021-08-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/22-2021-169354255
+  date: '2021-08-10'
+- type: amended_by
+  target: pt:dre:178860622:por
+  label: Reforçado, a partir de 10.02.2022, o orçamento da Linha de Apoio às Micro e Pequenas Empresas do Turismo - COVID-19,
+    criada pelo presente diploma pelo(a) Despacho Normativo n.º 5/2022 - Diário da República n.º 28/2022, Série II de 2022-02-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/5-2022-178860622
+  date: '2022-02-09'
+- type: amended_by
+  target: pt:dre:184357069:por
+  label: Alterado, a partir de 04.06.2022, o art. 6.º do presente despacho, na versão republicada pelo DN 11/2021 de 23-abr
+    e posteriormente alterada, pelo(a) Despacho Normativo n.º 9/2022 - Diário da República n.º 108/2022, Série II de 2022-06-03,
+    com efeitos nos termos do disposto nos n.ºs 1 e 2 do seu art. 2.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/9-2022-184357069
+  date: '2022-06-03'
+- type: cites
+  target: pt:dre:107596686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127648461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67098359:por
+  label: null
+  source: null
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:08:39Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 4/2020
+
+O recente surto de doença por coronavírus (COVID-19) e os seus efeitos na atividade económica nacional demonstraram a necessidade de implementação de um conjunto de medidas de apoio às empresas afetadas, entre as quais se inclui a criação, no quadro da Linha de Crédito Capitalizar 2018, de um mecanismo de financiamento preferencialmente dirigido às pequenas e médias empresas - a Linha COVID-19.
+
+Contudo, a dimensão do impacto do surto no setor do turismo, causado pela forte e súbita retração das viagens a nível mundial, e a sua imprevisibilidade em termos de duração, justificam o reforço dos apoios às empresas do turismo, mediante a imediata criação de instrumentos de financiamento específicos para o setor, um recorrendo às disponibilidades orçamentais do Turismo de Portugal, I. P., o que se faz pelo presente Despacho Normativo, e outros recorrendo ao sistema nacional de garantia mútuo, cuja criação se encontra em curso.
+
+Neste sentido, o instrumento de apoio financeiro que ora se cria inclui no seu âmbito as empresas do turismo de dimensão mais pequena, que, por isso, apresentam maior dificuldade no acesso ao financiamento, e para fazer face às suas necessidades mais urgentes.
+
+Com estes instrumentos de apoio financeiro pretende-se, assim, criar as melhores condições para que as empresas do turismo, particularmente afetadas pelo surto da doença por coronavírus (COVID-19), possam assegurar a manutenção da sua capacidade produtiva e os respetivos postos de trabalho.
+
+Assim, ao abrigo do disposto no n.º 2 do artigo 1.º e das alíneas a) e e) do n.º 2 do artigo 3.º, todos do [Decreto-Lei n.º 129/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2012-178510), de 22 de junho, na redação dada pelo [Decreto-Lei n.º 66/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2015-67098359), de 29 de abril, e no exercício da competência que me foi delegada pelo Ministro da Economia e da Transição Digital através do [Despacho n.º 12483/2019](https://diariodarepublica.pt/dr/detalhe/despacho/12483-2019-127648461), de 31 de dezembro, publicado no Diário da República, 2.ª série, n.º 251, de 31 de dezembro de 2019, determino o seguinte:
+
+###### Artigo 1.º — Criação, objeto e objetivos
+
+1 - É criada a presente linha de apoio financeiro, destinada a fazer face às necessidades de tesouraria das microempresas turísticas cuja atividade se encontra fortemente afetada pelos efeitos económicos resultantes do surto da doença COVID-19.
+
+2 - A presente linha de apoio tem por objetivo o financiamento da tesouraria das empresas que, em resultado dos danos decorrentes do surto da doença COVID-19, demonstrem necessidades temporárias de acréscimo de fundo de maneio.
+
+###### Artigo 2.º — Dotação orçamental
+
+A dotação máxima disponível para financiamento das operações ao abrigo da presente linha de apoio financeiro é de (euro) 60.000.000, sendo assegurada, exclusivamente, por receitas próprias do Turismo de Portugal, I. P.
+
+###### Artigo 3.º — Entidades beneficiárias
+
+1 - São beneficiárias do apoio financeiro as microempresas com certificação eletrónica no portal do IAPMEI, I. P., nos termos do [Decreto-Lei n.º 372/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-2007-629439), de 6 de novembro, alterado e republicado pelo [Decreto-Lei n.º 81/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686), de 30 de junho, conforme Recomendação n.º 2003/361/CE, da Comissão Europeia, de 6 de maio, que exerçam, em território nacional, as atividades turísticas incluídas nos códigos CAE-Ver.1 em anexo.
+
+2 - Entende-se por microempresa a que empregue menos de 10 trabalhadores efetivos e cujo volume de negócios anual ou balanço total anual não excede 2 milhões de euros.
+
+###### Artigo 4.º — Condições de elegibilidade
+
+1 - Têm acesso à presente linha de apoio financeiro as microempresas que, à data da candidatura, reúnam as seguintes condições:
+
+a) Demonstrarem uma situação regularizada perante a administração fiscal, a segurança social e o Turismo de Portugal, I. P.;
+
+b) Encontrarem-se devidamente licenciadas para o exercício da respetiva atividade e devidamente registadas no Registo Nacional de Turismo, quando legalmente exigível;
+
+c) Demonstrarem que a atividade desenvolvida foi afetada negativamente pelo surto da doença COVID-19;
+
+d) Não se encontrarem numa situação de empresa em dificuldade, tendo em conta a definição constante do n.º 3 do presente artigo;
+
+e) Não terem sido objeto de aplicação, nos dois anos anteriores à data da candidatura, de sanção administrativa ou judicial pela utilização ao seu serviço de mão-de-obra legalmente sujeita ao pagamento de impostos e contribuições para a segurança social, não declarada nos termos das normas que imponham essa obrigação, em Portugal [ou no Estado de que é nacional ou no qual se situe o seu estabelecimento principal];
+
+f) Não terem sido condenados nos dois anos anteriores à data da candidatura, por sentença transitada em julgado, por despedimento ilegal de grávidas, puérperas ou lactantes.
+
+2 - A verificação do cumprimento das condições enunciadas nas alíneas b) a f) é efetuada mediante declaração prestada pela empresa no momento da candidatura.
+
+3 - Por empresa em dificuldade entende-se uma empresa que se encontre, pelo menos, numa das seguintes circunstâncias:
+
+a) No caso de uma empresa que exista há três ou mais anos, se mais de metade do seu capital social subscrito tiver desaparecido devido a perdas acumuladas;
+
+b) Sempre que a empresa for objeto de um processo coletivo de insolvência ou preencher os critérios para ser submetida a um processo coletivo de insolvência a pedido dos seus credores;
+
+c) Sempre que uma empresa tiver recebido um auxílio de emergência e ainda não tiver reembolsado o empréstimo ou terminado a garantia, ou tiver recebido um auxílio à reestruturação e ainda estiver sujeita a um plano de reestruturação.
+
+###### Artigo 5.º — Intensidade, natureza e limite do apoio financeiro
+
+1 - O apoio financeiro a conceder ao abrigo da presente linha reveste a natureza de apoio reembolsável, sem quaisquer juros remuneratórios associados.
+
+2 - O apoio referido no número anterior corresponde ao valor de (euro) 750 mensais por cada posto de trabalho existente na empresa a 29 de fevereiro de 2020, multiplicado pelo período de três meses, até ao montante máximo de (euro) 20.000.
+
+###### Artigo 6.º — Condições do financiamento
+
+1 - O apoio financeiro é reembolsado no prazo de 3 anos, a contar da data de celebração do respetivo contrato, incluindo um período de carência correspondente a 12 meses.
+
+2 - O reembolso do apoio financeiro concedido nos termos do número anterior ocorre em prestações de igual montante e com uma periodicidade trimestral.
+
+3 - Para garantia do reembolso do apoio financeiro, um dos sócios da microempresa mutuária deve prestar a respetiva fiança pessoal no momento da contratação do apoio.
+
+###### Artigo 7.º — Apresentação de candidaturas
+
+As candidaturas são apresentadas em contínuo, através de formulário disponível no portal do Turismo de Portugal, I. P., acompanhado dos seguintes documentos:
+
+a) Declaração de remunerações entregue na Segurança Social relativa aos trabalhadores existentes na empresa em 29 de fevereiro de 2020;
+
+b) Autorização de consulta eletrónica da situação tributária e contributiva tendo em conta os seguintes dados do Turismo de Portugal, I. P., necessários para a autorização:
+
+Número de Identificação Fiscal 508666236 e Número de Identificação da Segurança Social 20003562314;
+
+c) Código de acesso à certidão permanente de registo comercial.
+
+###### Artigo 8.º — Análise das candidaturas
+
+1 - Compete ao Turismo de Portugal, I. P., a análise das candidaturas no prazo máximo de 5 dias úteis.
+
+2 - O Turismo de Portugal realiza as diligências que se revelem necessárias para a apreciação dos pedidos referidos no número anterior.
+
+3 - Ao prazo de análise referido no n.º 1 acresce a solicitação à entidade beneficiária, sempre que necessário, de elementos complementares, os quais devem ser apresentados no prazo máximo de 5 dias úteis contados da data de notificação do respetivo pedido.
+
+4 - A falta de resposta da entidade beneficiária no prazo fixado no número anterior determina a desistência da sua candidatura.
+
+###### Artigo 9.º — Decisão e formalização
+
+1 - A decisão final sobre a concessão do apoio financeiro incumbe ao Turismo de Portugal, I. P.
+
+2 - A atribuição do apoio financeiro é formalizada através de contrato a celebrar entre a entidade beneficiária e o Turismo de Portugal, I. P.
+
+3 - A não celebração do contrato, por razões imputáveis à entidade beneficiária, no prazo de 10 dias úteis contados da data de notificação de atribuição do apoio financeiro, determina a caducidade do direito ao mesmo.
+
+###### Artigo 10.º — Obrigações das entidades beneficiárias
+
+São obrigações das entidades beneficiárias:
+
+a) Apresentar, em julho de 2020, documento comprovativo da manutenção dos postos de trabalho existentes à data de 29 de fevereiro de 2020;
+
+b) Cumprir as obrigações legais, designadamente as fiscais, contributivas e de manutenção da situação regularizada perante o Turismo de Portugal, I. P.;
+
+c) Reembolsar o apoio financeiro concedido nos prazos e termos aprovados e contratados;
+
+d) Entregar, nos prazos estabelecidos para o efeito, todos os elementos solicitados pelo Turismo de Portugal, I. P.;
+
+e) Comunicar ao Turismo de Portugal, I. P., qualquer ocorrência ou alteração que coloque em causa os pressupostos de aprovação do apoio;
+
+f) Sempre que aplicável, manter as condições legais necessárias ao exercício da atividade;
+
+g) Manter a contabilidade organizada de acordo com a legislação aplicável.
+
+###### Artigo 11.º — Incumprimento
+
+1 - Os contratos podem ser resolvidos unilateralmente pelo Turismo de Portugal, I. P., sempre que se verifique, pelo menos, uma das seguintes situações, imputáveis à entidade beneficiária:
+
+a) Não cumprimento dos objetivos ou obrigações contratuais;
+
+b) Não cumprimento das respetivas obrigações legais;
+
+c) Prestação de informações falsas sobre a sua situação ou viciação dos dados fornecidos na apresentação da candidatura.
+
+2 - A resolução do contrato implica a devolução do apoio financeiro recebido, acrescido de juros calculados à taxa indicada no contrato de concessão de apoio financeiro, no prazo de 60 dias úteis contados da data da respetiva notificação.
+
+###### Artigo 12.º — Enquadramento comunitário
+
+Os apoios financeiros são concedidos ao abrigo do regime de auxílios de minimis.
+
+###### Artigo 13.º — Entrada em vigor
+
+O presente despacho entra em vigor no dia seguinte ao da sua assinatura.
+
+18 de março de 2020. - A Secretária de Estado do Turismo, Rita Baptista Marques.
+
+## ANEXO — CAE Turismo
+
+551 - Estabelecimentos hoteleiros
+
+55201 - Alojamento mobilado para turistas
+
+55202 - Turismo no espaço rural
+
+55204 - Outros locais de alojamento de curta duração
+
+55300 - Parques de campismo e de caravanismo
+
+561 - Restaurantes
+
+563 - Estabelecimentos de bebidas
+
+771 - Aluguer de veículos automóveis
+
+79 - Agências de viagem, operadores turísticos, outros serviços de reservas
+
+82300 - Organização de feiras, congressos e outros eventos similares
+
+93192 - Outras atividades desportivas, n. e. (1)
+
+93210 - Atividades de parques de diversão e temáticos (1)
+
+93292 - Atividades dos portos de recreio (marinas) (1)
+
+93293 - Organização de atividades de animação (1)
+
+93294 - Outras atividades de diversão e recreativas, n. e. (1)
+
+Notas
+
+(1) Atividades enquadráveis, desde que desenvolvidas por empresas de animação turística.
+
+313132265

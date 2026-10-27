@@ -1,0 +1,101 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31991L0498:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0498-19950101",
+ "dre_path": null,
+ "source_lastmod": "1995-01-01",
+ "versions": [
+  {
+   "date": "1995-01-01",
+   "future": false,
+   "celex": "01991L0498-19950101",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7ea8f147a8665451",
+    "ca79c257e86ef3a5",
+    "765a9137c1a86bdc",
+    "f8504fca3a5d16d6",
+    "fb46f9dba94e8631",
+    "f7491bc02a3dddc6",
+    "faa78fd78631bd6d",
+    "8b8aaba343e60521",
+    "53bf686bf55874d4"
+   ]
+  }
+ ],
+ "fragments": {
+  "7ea8f147a8665451": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1991L0498 — PT — 01.01.1995 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0498:PT:NOT) [DIRECTIVA DO CONSELHO de 29 de Julho de 1991 relativa às condições de concessão de derrogações temporárias e limitadas das normas comunitárias sanitárias específicas para a produção e a comercialização de carnes frescas (91/498/CEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0498:PT:NOT) (JO L 268, 24.9.1991, p.105)\n\nAlterado por:\n\n|  |  | Jornal Oficial |\n| --- | --- | --- |\n| No | page | date |\n\nAlterado por:\n\n| [A1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N:PT:NOT) | [Acto de Adesão da Áustria, da Finlândia e da Suécia](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N:PT:NOT) | C 241 | 21 | 29.8.1994 |\n| --- | --- | --- | --- | --- |\n|  | (adaptado pela Decisão 95/1/CE, Euratom, CECA do Conselho) | L 001 | 1 | .. |\n\nRectificado por:\n\n[►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0498R(01):PT:NOT) [Rectificação, JO L 073, 19.3.1992, p. 29 (91/498)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0498R(01):PT:NOT)\n\n[►C2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0498R(02):PT:NOT) [Rectificação, JO L 082, 27.3.1992, p. 71 (91/498)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0498R(02):PT:NOT)\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0498:PT:NOT)\n\nDIRECTIVA DO CONSELHO\n\nde 29 de Julho de 1991\n\nrelativa às condições de concessão de derrogações temporárias e limitadas das normas comunitárias sanitárias específicas para a produção e a comercialização de carnes frescas\n\n(91/498/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43.o,\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/234a20a8-a331-4897-8546-221e712e0e11.0018.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([2](http://publications.europa.eu/resource/cellar/234a20a8-a331-4897-8546-221e712e0e11.0018.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([3](http://publications.europa.eu/resource/cellar/234a20a8-a331-4897-8546-221e712e0e11.0018.02/DOC_1#E0003)),\n\nConsiderando que as carnes frescas constam da lista do anexo II do Tratado; que a sua introdução no mercado constitui uma fonte de rendimentos para uma parte importante da população agrícola;\n\nConsiderando que, a fim de assegurar um desenvolvimento racional deste sector, aumentar a produtividade e estabelecer progressivamente as condições de um mercado interno, foram fixadas normas sanitárias a nível comunitário para a produção e a comercialização pela Directiva 64/433/CEE ([4](http://publications.europa.eu/resource/cellar/234a20a8-a331-4897-8546-221e712e0e11.0018.02/DOC_1#E0004)) alterada e codificada pela Directiva 91/497/CEE ([5](http://publications.europa.eu/resource/cellar/234a20a8-a331-4897-8546-221e712e0e11.0018.02/DOC_1#E0005));\n\nConsiderando que é possível que, devido a determinadas situações especiais, alguns estabelecimentos não estejam, em 1 de Janeiro de 1993, em condições de respeitar o conjunto das normas específicas previstas; que, a fim de tomar em consideração situações locais ou evitar o encerramento abrupto de estabelecimentos, é conveniente prever um regime de concessão de derrogações limitadas e temporárias para estabelecimentos em actividade antes de 1 de Janeiro de 1992;\n\nConsiderando que a concessão a determinados estabelecimentos de eventuais derrogações das normas comunitárias sanitárias específicas não prejudica a submissão do conjunto das operações de produção e comercialização às normas de higiene fixadas pela Directiva 64/433/CEE;\n\nConsiderando que é necessário que essas derrogações sejam objecto de controlo por parte da Comissão, a fim de evitar todos os riscos de uma utilização abusiva; que, com esse intuito, é conveniente prever um processo que instaure uma estreita e eficaz cooperação entre a Comissão e os Estados-membros no âmbito do Comité Veterinário Permanente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "ca79c257e86ef3a5": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs Estados-membros velarão por que, a partir de 1 de Janeiro de 1996:\n\n— todos os estabelecimentos respeitem as exigências da Directiva 64/433/CEE,\n\n— a carne proveniente desses estabelecimentos esteja munida [►C2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0498R(02):PT:NOT) da marca de salubridade ◄ prevista no anexo I, capítulo X, da Directiva 64/433/CEE ou, no caso dos estabelecimentos previstos no artigo 4.o desta directiva, da marca de salubridade prevista no n.o 3 deste artigo."
+  },
+  "765a9137c1a86bdc": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-membros podem autorizar, até 31 de Dezembro de 1995,[►](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N::NOT) [►](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N::NOT) excepto no que se refere à Suécia, em que a data será 31 de Dezembro de 1996, e no que se refere à Áustria e à Finlândia, em que a data será 31 de Dezembro de 1997, ◄ ◄ os estabelecimentos que, à data da notificação da presente directiva, não tenham sido considerados conformes com as condições de aprovação previstas pela Directiva 64/433/CEE a derrogar algumas das exigências previstas [►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0498R(01):PT:NOT) nos pontos 1 a 14 do anexo I ◄ da Directiva 64/433/CEE, desde que a carne proveniente dos estabelecimentos acima referidos esteja munida da estampilha nacional.\n\n2. Só poderão obter estas derrogações os estabelecimentos que tenham apresentado, antes de 1 de Abril de 1992, um pedido de derrogação à autoridade nacional competente.\n\nEste pedido deverá ser acompanhado de um plano e de um programa de obras especificando os prazos em que poderão dar cumprimento às exigências previstas no [►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0498R(01):PT:NOT) primeiro parágrafo ◄.\n\nCaso seja solicitada uma contribuição financeira à Comunidade, só poderão ser aceites os pedidos de projectos conformes com as exigências da Directiva 64/433/CEE.\n\nOs Estados-membros deverão apresentar à Comissão, antes de 1 de Julho de 1992,[►](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N::NOT) [►](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N::NOT) ou no que se refere à Áustria, à Finlândia e à Suécia, a partir da data de entrada em vigor doTratado de Adesão, ◄ ◄ a lista de estabelecimentos aos quais se tenciona conceder uma derrogação. Essa lista deverá especificar, estabelecimento por estabelecimento, o tipo e a duração das derrogações previstas, a natureza dos controlos a efectuar sobre as carnes provenientes desse estabelecimento e o pessoal encarregado desses controlos.\n\nA aprovação nacional dos estabelecimentos que não tiverem apresentado um pedido de derrogação na data referida no primeiro parágrafo ou cujo pedido tiver sido recusado pelo Estado-membro em questão deverá ser retirada antes de 1 de Janeiro de 1993.\n\nApós recepção da lista prevista no quarto parágrafo apresentada por um Estado-membro, a Comissão dispõe de um prazo de dois meses para analisar essa lista e apresentá-la eventualmente após alteração ao Comité Veterinário Permanente, que se pronunciará de acordo com o procedimento previsto no artigo 6.o\n\n3. A Comissão publicará a lista dos estabelecimentos que beneficiam de derrogações."
+  },
+  "f8504fca3a5d16d6": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nCom efeitos a 1 de Julho de 1992, o artigo 2.o da Directiva 88/409/CEE do Conselho, de 15 de Junho de 1988, que estabelece as regras sanitárias aplicáveis à carne destinada ao mercado nacional e os níveis da taxa a cobrar em conformidade com a Directiva 85/73/CEE para a inspecção dessa mesma carne ([6](http://publications.europa.eu/resource/cellar/234a20a8-a331-4897-8546-221e712e0e11.0018.02/DOC_1#E0006)), é alterado do seguinte modo:\n\n«Artigo 2.o\n\nA partir de 1 de Janeiro de 1996, os Estados-membros aplicarão as disposições necessárias para garantir que toda a carne fresca produzida nos respectivos territórios para aí ser comercializada seja obtida num estabelecimento aprovado, em conformidade com os requisitos da Directiva 64/433/CEE.»\n\n."
+  },
+  "fb46f9dba94e8631": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAté 31 de Dezembro de 1997, a República Helénica está autorizada a manter nas zonas desfavorecidas de fraca densidade populacional, identificadas segundo o procedimento previsto no artigo 6.o, os abates de ovinos e caprinos que, de 15 de Fevereiro a 15 de Maio, sejam efectuados em locais que não satisfaçam os requisitos constantes dos anexos I e II da Directiva 64/433/CEE e a derrogar, no que respeita à exigência relativa à água quente, as disposições do ponto 2, alínea a), do anexo II da citada directiva.\n\nA República Helénica velará por que a carne obtida a título desta derrogação só possa ser colocada no mercado na Grécia, depois de ter sido submetida à inspecção post mortem por um veterinário oficial e munida da estampilha prevista no n.o 3 do ponto A do artigo 4.o da Directiva 64/433/CEE.\n\nO Conselho, com base num relatório da Comissão acompanhado de eventuais propostas sobre as quais deliberará por maioria qualificada, voltará a analisar o presente artigo."
+  },
+  "f7491bc02a3dddc6": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA República Federal da Alemanha pode obter, de acordo com o procedimento previsto no artigo 6.o, um prazo suplementar para os estabelecimentos situados nos Länder da antiga República Democrática Alemã, no âmbito dos planos de reestruturação em curso."
+  },
+  "faa78fd78631bd6d": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nNos casos em que se faça referência ao procedimento previsto no presente artigo, as regras que se aplicam são as estabelecidas no artigo 16.o da Directiva 64/433/CEE."
+  },
+  "8b8aaba343e60521": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento ao n.o 2 do artigo 1.o até 1 de Janeiro de 1992 e às demais disposições da presente directiva até 1 de Janeiro de 1993. Do facto informarão imediatamente a Comissão.\n\nSempre que os Estados-membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros."
+  },
+  "53bf686bf55874d4": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados-membros são os destinatários da presente directiva.\n\n([1](http://publications.europa.eu/resource/cellar/234a20a8-a331-4897-8546-221e712e0e11.0018.02/DOC_1#src.E0001)) JO n.o C 84 de 2. 4. 1990, p. 100.\n\n([2](http://publications.europa.eu/resource/cellar/234a20a8-a331-4897-8546-221e712e0e11.0018.02/DOC_1#src.E0002)) JO n.o C 183 de 15. 7. 1991.\n\n([3](http://publications.europa.eu/resource/cellar/234a20a8-a331-4897-8546-221e712e0e11.0018.02/DOC_1#src.E0003)) JO n.o C 332 31. 12. 1990, p. 62.\n\n([4](http://publications.europa.eu/resource/cellar/234a20a8-a331-4897-8546-221e712e0e11.0018.02/DOC_1#src.E0004)) JO n.o 121 de 29. 7. 1964, p. 2012/64.\n\n([5](http://publications.europa.eu/resource/cellar/234a20a8-a331-4897-8546-221e712e0e11.0018.02/DOC_1#src.E0005)) Ver página 69 do presente Jornal Oficial.\n\n([6](http://publications.europa.eu/resource/cellar/234a20a8-a331-4897-8546-221e712e0e11.0018.02/DOC_1#src.E0006)) JO n.o L 194 de 22. 7. 1988, p. 28."
+  }
+ }
+}

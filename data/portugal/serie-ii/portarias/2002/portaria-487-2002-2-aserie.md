@@ -1,0 +1,104 @@
+---
+schema_version: '1.0'
+id: pt:dre:2252798:por
+title: Portaria n.º 487/2002 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Defesa Nacional
+proposing_entity: null
+official_number: 487/2002(2.ªsérie)
+official_date: null
+publication_date: '2002-03-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 66/2002, Série II de 2002-03-19
+  number: '66'
+  series: II
+  supplement: null
+  pages: 5207 - 5207
+  pdf_url: https://files.diariodarepublica.pt/2s/2002/03/066000000/0520705207.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2252798'
+  dre_path: /dr/detalhe/portaria/487-2002-2252798
+  internal: pt:dre:2252798:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/487-2002-2252798
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/487-2002-2252798
+  consolidated_url: null
+  retrieved_at: '2026-10-23T16:32:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a87bbbfbc26aac81329ffc258aadfab46c25af409b9785f1595efd3880cac02d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:32:37Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ação Social
+- Açores
+- Forças Armadas
+- Instituto de Ação Social das Forças Armadas
+- Ponta Delgada
+relationships:
+- type: cites
+  target: pt:dre:678447:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T16:32:37Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 487/2002 (2.ª série)
+
+Portaria n.º 487/2002 (2.ª série). - O Instituto de Acção Social das Forças Armadas (IASFA), nos termos do n.º 1 do artigo 3.º do seu Estatuto, aprovado pelo [Decreto-Lei n.º 284/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1995-678447), de 30 de Outubro, tem por objectivo fundamental desenvolver acções de promoção do bem-estar social dos seus beneficiários.
+
+Uma das formas mais eficazes de concretizar aquela acção social é através dos seus equipamentos sociais. O IASFA dispõe actualmente dos Centros de Apoio Social de Runa, Oeiras, Alfeite, Lisboa, Porto, Braga, Coimbra, Tomar e Évora, para além do Centro de Repouso de Porto Santo. Mostra-se, pois, de primacial importância a criação do Centro de Apoio Social de Ponta Delgada, local onde, para além de uma pequeníssima delegação do IASFA, não existe qualquer estrutura daquele tipo.
+
+O Centro de Apoio Social de Ponta Delgada terá vários serviços que visam colmatar as principais lacunas que presentemente se fazem sentir. Assim, disporá de um centro de convívio, social com biblioteca, sala de leitura e outras salas de convívio, de um serviço de apoio médico aos beneficiários, com consultas de clínica geral e algumas especialidades, de um serviço de apoio para execução de exames complementares de diagnóstico e tratamentos médicos, assim como permitirá a prestação do serviço de apoio aos beneficiários no âmbito das modalidades de acção social complementar.
+
+Assim, nos termos do n.º 4 do artigo 7.º do Estatuto do Instituto de Acção Social das Forças Armadas, aprovado pelo [Decreto-Lei n.º 284/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1995-678447), de 30 de Outubro:
+
+Manda o Governo, pelos Ministros das Finanças e da Defesa Nacional, que seja criado o Centro de Apoio Social de Ponta Delgada, do Instituto de Acção Social das Forças Armadas, que funciona, provisoriamente, no Quartel-General da Zona Militar dos Açores, Forte de São Brás, 9500-150 Ponta Delgada.
+
+5 de Março de 2002. - O Ministro das Finanças, Guilherme d'Oliveira Martins. - O Ministro da Defesa Nacional, Rui Eduardo Ferreira Rodrigues Pena.

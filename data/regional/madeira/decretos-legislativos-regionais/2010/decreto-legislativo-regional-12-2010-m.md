@@ -1,0 +1,708 @@
+---
+schema_version: '1.0'
+id: pt:dre:333364:por
+title: Decreto Legislativo Regional n.º 12/2010/M
+short_title: null
+summary: Estabelece o Estatuto do Gestor Público das Empresas Públicas da Região Autónoma da Madeira
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 12/2010/M
+official_date: null
+publication_date: '2010-08-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 151/2010, Série I de 2010-08-05
+  number: '151'
+  series: I
+  supplement: null
+  pages: 3225 - 3230
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/08/15100/0322503230.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-07-01'
+version_history:
+  file: decreto-legislativo-regional-12-2010-m.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2010-08-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-01-11'
+    amending: pt:dre:485631:por
+    amending_title: Decreto Legislativo Regional n.º 2/2011/M
+    changes:
+    - Altera Artigo 23.º
+  - date: '2014-02-01'
+    amending: pt:dre:484080:por
+    amending_title: Decreto Legislativo Regional n.º 31/2013/M
+    changes:
+    - Adita Artigo 9.º-A
+    - Adita Artigo 24.º-A
+    - Adita Artigo 24.º-B
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 29.º
+  - date: '2015-08-14'
+    amending: pt:dre:70007184:por
+    amending_title: Decreto Legislativo Regional n.º 6/2015/M
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 23.º
+  - date: '2021-07-01'
+    amending: pt:dre:166099800:por
+    amending_title: Decreto Legislativo Regional n.º 15/2021/M
+    changes:
+    - Altera Artigo 23.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/12/2010/m/cons/20210630/pt/html
+  oj: null
+  dre: '333364'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/12-2010-333364
+  internal: pt:dre:333364:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2010-333364
+  metadata_url: https://data.dre.pt/eli/declegreg/12/2010/m/cons/20210630/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-166150544
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-166150544
+  retrieved_at: '2026-10-22T12:43:10Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 2cb7fa4747033c4d2722b3b629d662746222b9cd3ca071032aa9b9ca9146bb3e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:43:10Z'
+  notes: 5 versão(ões); histórico completo em decreto-legislativo-regional-12-2010-m.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Exoneração
+- Definição de Competências
+- Deontologia Profissional
+- Empresa Participada
+- Empresa Pública Regional
+- Empresa Pública
+- Estatuto
+- Administração Pública
+- Sistema Retributivo
+- Formas de Provimento
+- Setor Empresarial do Estado
+- Gestor Público
+- Conselho Diretivo
+- Incompatibilidades
+- Instituto Público
+- Mandato
+- Organismo do Estado
+- Órgãos de Gestão
+- Madeira.região Autónoma
+- Proteção Social
+- Administração Regional
+relationships:
+- type: amended_by
+  target: pt:dre:485631:por
+  label: Altera Artigo 23.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631
+  date: '2011-01-10'
+- type: amended_by
+  target: pt:dre:484080:por
+  label: Adita Artigo 9.º-A; Adita Artigo 24.º-A; Adita Artigo 24.º-B; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo
+    3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º;
+    Altera Artigo 12.º; Altera Artigo 14.º; Altera Artigo 16.º; Altera Artigo 18.º; Altera Artigo 20.º; Altera Artigo 21.º;
+    Altera Artigo 23.º; Altera Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2013-484080
+  date: '2013-12-26'
+- type: amended_by
+  target: pt:dre:70007184:por
+  label: Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 23.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-70007184
+  date: '2015-08-13'
+- type: amended_by
+  target: pt:dre:105657288:por
+  label: Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 23.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288
+  date: '2016-12-30'
+- type: amended_by
+  target: pt:dre:166099800:por
+  label: Altera Artigo 23.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800
+  date: '2021-06-30'
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:632407:por
+  label: null
+  source: http://data.dre.pt/eli/lei/64/1993/08/26/p/dre
+article_structure:
+  article_count: 36
+  section_count: 10
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:43:10Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 12/2010/M
+
+Decreto Legislativo Regional n.º 12/2010/M
+
+Estabelece o Estatuto do Gestor Público das Empresas Públicas da Região Autónoma da Madeira
+
+A uniformização e harmonização de princípios e regras do exercício de funções dos membros dos órgãos de gestão e administração das empresas públicas da Região Autónoma da Madeira tem constituído uma preocupação do Governo Regional.
+
+Nesta linha, procedeu-se a um estudo exaustivo sobre as situações existentes relativas aos membros daqueles órgãos, nomeadamente no que respeita à existência de contratos de gestão, às remunerações, benefícios e acumulação de funções.
+
+Verificou-se que, apesar da inexistência de regras fixadas, quer para a celebração de contratos de gestão quer para a fixação de remunerações, estes elementos não apresentavam oscilações significativas.
+
+Assim, o principal factor a assinalar pelas entidades fiscalizadoras, inexistência de critérios para a fixação de remunerações, prendia-se essencialmente com o desajustamento existente entre as realidades empresariais do Estado e das Regiões Autónomas com a legislação então em vigor.
+
+Este desajustamento, após um longo trabalho preparatório, levou à publicação do Decreto-Lei n.º 71/2007, de 27 de Março.
+
+Neste contexto, eis que se encontram reunidas as condições para se estabelecer o Estatuto do Gestor Público das Empresas Públicas da Região Autónoma da Madeira.
+
+Foram observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo da alínea c) do n.º 1 do artigo 227.º e do n.º 1 do artigo 228.º da Constituição da República Portuguesa e das alíneas e) do n.º 1 do artigo 37.º e c) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, revisto e alterado pelas Leis n.os 130/99, de 21 de Agosto, e 12/2000, de 21 de Junho, o seguinte:
+
+> Nota: [Artigo 4.º, Decreto Legislativo Regional n.º 31/2013/M - Diário da República n.º 250/2013, Série I de 2013-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2013-484080) Durante a vigência do Programa de Ajustamento Económico e Financeiro da Região Autónoma da Madeira não há lugar à atribuição de prémios de gestão prevista no artigo 24.º do Decreto Legislativo Regional n.º 12/2010/M, de 5 de agosto, com a redação dada pelo presente diploma.
+
+### Capítulo I — Objecto e âmbito de aplicação
+
+###### Artigo 1.º — Objecto
+
+O presente diploma estabelece o estatuto do gestor público das empresas públicas da Região Autónoma da Madeira, definidas no artigo 3.º do regime jurídico do setor empresarial da Região Autónoma da Madeira, aprovado pelo Decreto Legislativo Regional n.º 13/2010/M, de 5 de agosto, alterado pelo Decreto Legislativo Regional n.º 2/2011/M, de 10 de janeiro.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 31/2013/M - Diário da República n.º 250/2013, Série I de 2013-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2013-484080), em vigor a partir de 2014-02-01
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - O presente diploma aplica-se ao gestor público, considerando-se como tal, para efeitos do presente Estatuto, o membro do órgão de gestão ou administração das empresas públicas da Região Autónoma da Madeira.
+
+2 - O disposto nos artigos 3.º, 7.º e 8.º, no n.º 1 do artigo 9.º-A, nos artigos 10.º e 11.º, no n.º 1 do artigo 16.º e no artigo 17.º do presente diploma são ainda aplicáveis aos titulares de órgão de administração de empresas participadas pela Região Autónoma da Madeira, quando designados por esta.
+
+3 - O presente diploma é ainda aplicável, com as devidas adaptações aos membros de órgãos diretivos de institutos públicos de regime especial da Região Autónoma da Madeira.
+
+4 - Não são considerados gestores públicos os membros da mesa da assembleia geral de órgão de fiscalização ou de outro órgão a que não caibam funções de gestão ou administração.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 31/2013/M - Diário da República n.º 250/2013, Série I de 2013-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2013-484080), em vigor a partir de 2014-02-01
+
+### Capítulo II — Exercício da gestão
+
+###### Artigo 3.º — Orientações
+
+Na gestão das empresas públicas da Região Autónoma da Madeira são observadas as orientações e recomendações fixadas nos termos do artigo 11.º do Decreto Legislativo Regional n.º 13/2010/M, de 5 de agosto, alterado pelo Decreto Legislativo Regional n.º 2/2011/M, de 10 de janeiro, bem como outras orientações que sejam fixadas ao abrigo de lei especial.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 31/2013/M - Diário da República n.º 250/2013, Série I de 2013-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2013-484080), em vigor a partir de 2014-02-01
+
+###### Artigo 4.º — Deveres dos gestores públicos
+
+São deveres dos gestores públicos e, em especial, dos que exerçam funções executivas:
+
+a) Dar cumprimento às orientações e recomendações a que se refere o artigo anterior;
+
+b) Prosseguir a realização dos objectivos da empresa definidos em assembleia geral ou, quando existam, em contratos de gestão;
+
+c) Orientar a respectiva actuação de acordo com o plano estratégico da empresa;
+
+d) Contribuir activamente para que a empresa possa alcançar os seus objectivos, designadamente acompanhando, verificando e controlando a evolução das actividades e dos negócios da empresa em todas as suas componentes;
+
+e) Avaliar e gerir os riscos inerentes à actividade da empresa, de forma a assegurar a sua sustentabilidade e potenciar o seu desenvolvimento;
+
+f) Assegurar o tratamento equitativo dos titulares do capital;
+
+g) Assegurar a suficiência, a veracidade e a fiabilidade das informações relativas à empresa bem como a sua confidencialidade;
+
+h) Guardar sigilo profissional sobre os factos e documentos cujo conhecimento resulte do exercício das suas funções e não divulgar ou utilizar, seja qual for a finalidade, em proveito próprio ou alheio, directamente ou por interposta pessoa, o conhecimento que advenha de tais factos ou documentos;
+
+i) Participar, com assiduidade e eficiência, na actividade dos órgãos em que se integram, prosseguindo critérios de racionalização dos recursos humanos, materiais e financeiros da empresa e promovendo a motivação dos respectivos trabalhadores.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 31/2013/M - Diário da República n.º 250/2013, Série I de 2013-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2013-484080), em vigor a partir de 2014-02-01
+
+###### Artigo 5.º — Avaliação do desempenho
+
+1 - O desempenho das funções de gestão deve ser objeto de avaliação sistemática, tendo por parâmetros:
+
+a) Os objetivos fixados nas orientações previstas no artigo 3.º, designadamente as orientações diretas definidas pelos membros do Governo Regional responsáveis pela área das finanças e pelo respetivo setor de atividade;
+
+b) Os objectivos decorrentes do contrato de gestão;
+
+c) Os critérios definidos em assembleia geral;
+
+d) (Revogada.)
+
+e) (Revogada.)
+
+2 - A avaliação do desempenho compete:
+
+a) Nas entidades públicas empresariais, aos membros do Governo Regional responsáveis pela área das finanças e pelo respetivo setor de atividade;
+
+b) Nas restantes empresas, à assembleia geral, mediante apresentação de proposta do acionista único ou maioritário.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 31/2013/M - Diário da República n.º 250/2013, Série I de 2013-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2013-484080), em vigor a partir de 2014-02-01
+
+###### Artigo 6.º — Poderes próprios da função administrativa
+
+O exercício de poderes próprios da função administrativa, nos casos legalmente previstos, observa os princípios gerais de direito administrativo.
+
+###### Artigo 7.º — Autonomia de gestão
+
+Observado o disposto nas orientações fixadas ao abrigo da lei, designadamente as previstas no artigo 11.º do Decreto Legislativo Regional n.º 13/2010/M, de 5 de agosto, alterado pelo Decreto Legislativo Regional n.º 2/2011/M, de 10 de janeiro, e no contrato de gestão, o órgão de gestão ou administração goza de autonomia de gestão.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 31/2013/M - Diário da República n.º 250/2013, Série I de 2013-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2013-484080), em vigor a partir de 2014-02-01
+
+###### Artigo 8.º — Despesas confidenciais
+
+Aos gestores públicos é vedada a realização ou o benefício de quaisquer despesas confidenciais ou não documentadas.
+
+### Capítulo III — Designação, mandato e contratos de gestão
+
+#### Secção I — Formas de designação e duração do mandato dos gestores públicos
+
+###### Artigo 9.º — Designação dos gestores
+
+1 - Os gestores públicos são designados por nomeação ou por eleição.
+
+2 - A nomeação é feita mediante resolução do Conselho do Governo Regional, devidamente fundamentada e publicada no Jornal Oficial da Região Autónoma da Madeira juntamente com uma nota relativa ao currículo académico e profissional do designado, sob proposta dos membros do Governo Regional responsáveis pela área das finanças e pelo respetivo setor de atividade.
+
+3 - (Revogado).
+
+4 - .(Revogado).
+
+5 - Não pode ocorrer a nomeação ou proposta de eleição de gestor público entre a convocação de eleições para a Assembleia Legislativa da Madeira ou a demissão do Governo Regional e a aprovação do programa do novo Governo Regional, salvo, se verificada a vacatura dos cargos em causa ou a urgência da designação, caso em que as referidas nomeação ou proposta de que ainda não tenha resultado eleição dependem de confirmação pelo Governo Regional recém-nomeado.
+
+6 - A eleição é feita nos termos da lei comercial.
+
+> Alterado pelo/a Artigo 74.º do/a [Decreto Legislativo Regional n.º 42-A/2016/M - Diário da República n.º 250/2016, 1º Suplemento, Série I de 2016-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), em vigor a partir de 2016-01-01, produz efeitos a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto Legislativo Regional n.º 6/2015/M - Diário da República n.º 157/2015, Série I de 2015-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-70007184), em vigor a partir de 2015-08-14
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 31/2013/M - Diário da República n.º 250/2013, Série I de 2013-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2013-484080), em vigor a partir de 2014-02-01
+
+###### Artigo 9.º-A — Requisitos
+
+1 - Os gestores públicos são escolhidos de entre pessoas com comprovada idoneidade, mérito profissional, competência e experiência de gestão, bem como sentido de interesse público e habilitadas, no mínimo, com o grau académico de licenciatura.
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+> Alterado pelo/a Artigo 74.º do/a [Decreto Legislativo Regional n.º 42-A/2016/M - Diário da República n.º 250/2016, 1º Suplemento, Série I de 2016-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), em vigor a partir de 2016-01-01, produz efeitos a partir de 2017-01-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2013/M - Diário da República n.º 250/2013, Série I de 2013-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2013-484080), em vigor a partir de 2014-02-01
+
+###### Artigo 10.º — Duração do mandato
+
+1 - O mandato é exercido, em regra, pelo prazo de três anos, sendo coincidentes os mandatos dos membros do mesmo órgão de gestão.
+
+2 - A lei e os estatutos fixam, até ao limite máximo de três, o número de renovações consecutivas dos mandatos na mesma empresa pública.
+
+3 - Na falta de disposição legal ou estatutária, é aplicável o número de mandatos previstos no número anterior.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 31/2013/M - Diário da República n.º 250/2013, Série I de 2013-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2013-484080), em vigor a partir de 2014-02-01
+
+###### Artigo 11.º — Comissão de serviço e mobilidade
+
+1 - Para o exercício das funções de gestor público podem ser designados, em regime de comissão de serviço, trabalhadores da própria empresa, da empresa mãe, ou de outras relativamente às quais aquela ou a sua empresa mãe exerçam direta ou indiretamente influência dominante, nos termos do n.º 1 do artigo 3.º do Decreto Legislativo Regional n.º 13/2010/M, de 5 de agosto, alterado pelo Decreto Legislativo Regional n.º 2/2011/M, de 10 de janeiro.
+
+2 - Podem ainda exercer funções de gestor público:
+
+a) Trabalhadores com relação jurídica de emprego público, mediante acordo de cedência de interesse público, nos termos da Lei n.º 12-A/2008, de 27 fevereiro;
+
+b) Trabalhadores de outras empresas públicas ou privadas, mediante acordo de cedência ocasional.
+
+3 - À cedência ocasional é aplicável o disposto no Código de Trabalho, sem prejuízo do disposto nas alíneas seguintes:
+
+a) O acordo de cedência ocasional pode ocorrer entre trabalhadores de quaisquer empresas, independentemente da relação societária existente entre elas ou de existência de estrutura organizativa comum;
+
+b) A cedência ocasional terá a duração do respetivo mandato, sem prejuízo do disposto no n.º 4 do artigo 391.º do Código das Sociedades Comerciais, podendo ser renovada em caso de reeleição ou nova designação para o órgão de administração;
+
+c) Não existe qualquer obrigação de comunicação da situação de cedência à comissão de trabalhadores.
+
+4 - O tempo de serviço desempenhado em funções de gestor público releva como serviço prestado no quadro de origem, com salvaguarda de todos os direitos inerentes.
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto Legislativo Regional n.º 6/2015/M - Diário da República n.º 157/2015, Série I de 2015-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-70007184), em vigor a partir de 2015-08-14
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 31/2013/M - Diário da República n.º 250/2013, Série I de 2013-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2013-484080), em vigor a partir de 2014-02-01
+
+#### Secção II — Contratos de gestão
+
+###### Artigo 12.º — Contratos de gestão
+
+1 - Nas empresas públicas da Região Autónoma da Madeira, é obrigatória a celebração de um contrato de gestão.
+
+2 - (Revogado.)
+
+3 - Os contratos de gestão definem:
+
+a) As formas de concretização das orientações impostas nos termos do artigo 11.º do Decreto Legislativo Regional n.º 13/2010/M, de 5 de agosto, alterado pelo Decreto Legislativo Regional n.º 2/2011/M, de 10 de janeiro, envolvendo sempre metas objetivas, quantificadas e mensuráveis anualmente durante a vigência do contrato de gestão, que representem uma melhoria operacional e financeira nos princípios indicadores da gestão da empresa;
+
+b) Os parâmetros de eficiência da gestão;
+
+c) Outros objectivos específicos.
+
+d) Os elementos referidos no n.º 2 do artigo 24.º
+
+4 - O contrato de gestão é celebrado no prazo de três meses contados a partir da data da designação do gestor público entre este, os titulares da função acionista e a Região, representada pelos membros do Governo Regional responsáveis pela área das finanças e pelo respetivo setor de atividade, sendo nulo o respetivo ato de nomeação quando ultrapassado aquele prazo.
+
+5 - Os contratos de gestão não podem estabelecer regimes específicos de indemnização ou qualquer outro tipo de compensação por cessação de funções, nem contrariar o que se encontra fixado no artigo 21.º
+
+6 - O contrato de gestão deve expressamente prever a demissão quando a avaliação de desempenho seja negativa, designadamente, por incumprimento devido a motivos individualmente imputáveis dos objetivos referidos nas orientações fixadas nos termos do artigo 11.º do Decreto Legislativo Regional n.º 13/2010/M, de 5 de agosto, alterado pelo Decreto Legislativo Regional n.º 2/2011/M, de 10 de janeiro.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 31/2013/M - Diário da República n.º 250/2013, Série I de 2013-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2013-484080), em vigor a partir de 2014-02-01
+
+### Capítulo IV — Natureza das funções, impedimentos e incompatibilidades dos gestores
+
+###### Artigo 13.º — Natureza das funções
+
+1 - Os gestores públicos podem ter funções executivas ou não executivas, de acordo com o modelo de gestão adoptado na empresa pública da Região Autónoma da Madeira em causa, nos termos da lei e tendo ainda em conta as boas práticas reconhecidas internacionalmente.
+
+2 - A natureza das funções exercidas pelo gestor público, executivas ou não executivas, é determinada no respectivo acto de designação, nomeadamente na nomeação ou eleição.
+
+3 - Atendendo à natureza das funções, os gestores públicos poderão ser designados por gestores executivos ou gestores não executivos.
+
+###### Artigo 14.º — Gestores executivos
+
+1 - Os gestores públicos executivos exercem as respectivas funções em regime de exclusividade, sem prejuízo do disposto no número seguinte e no n.º 3 do artigo 16.º
+
+2 - São cumuláveis com o exercício de funções de gestor executivo:
+
+a) As atividades exercidas por inerência;
+
+b) A participação em conselhos consultivos, comissões de fiscalização ou outros órgãos colegiais, quando previstos na lei ou quando tal resulte de decisão do Governo Regional;
+
+c) As atividades de docência em estabelecimentos de ensino superior público ou de interesse público, mediante autorização, por despacho dos membros do Governo Regional responsáveis pela área das finanças e pelo respetivo setor de atividade ou nos termos de contrato de gestão;
+
+d) A actividade de criação artística e literária, bem como quaisquer outras de que resulte a percepção de remunerações provenientes de direitos de autor, sem prejuízo do disposto na alínea h) do artigo 4.º;
+
+e) A realização de conferências, palestras, acções de formação de curta duração e outras actividades de idêntica natureza;
+
+f) (Revogada).
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 31/2013/M - Diário da República n.º 250/2013, Série I de 2013-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2013-484080), em vigor a partir de 2014-02-01
+
+###### Artigo 15.º — Gestores não executivos
+
+1 - Os gestores não executivos exercem as suas funções com independência, oferecendo garantias de juízo livre e incondicionado em face dos demais gestores, e não podem ter interesses negociais relacionados com a empresa, os seus principais clientes e fornecedores e outros accionistas que não a Região Autónoma da Madeira.
+
+2 - Os gestores não executivos acompanham e avaliam continuamente a gestão da empresa pública em causa por parte dos demais gestores, com vista a assegurar a prossecução dos objectivos estratégicos da empresa, a eficiência das suas actividades e a conciliação dos interesses dos accionistas com o interesse geral.
+
+3 - Aos gestores não executivos são facultados todos os elementos necessários ao exercício das suas funções, designadamente nos aspectos técnicos e financeiros, bem como uma permanente actualização da situação da empresa em todos os planos relevantes para a realização do seu objecto.
+
+###### Artigo 16.º — Incompatibilidades e impedimentos
+
+1 - É incompatível com as funções de gestor executivo e de gestor não executivo o exercício de cargos de direção da administração direta e indireta do Estado ou da Região Autónoma da Madeira, ou das autoridades reguladoras independentes, sem prejuízo do exercício de funções por inerência.
+
+2 - Os gestores não executivos não podem exercer quaisquer outras actividades temporárias ou permanentes:
+
+a) Na mesma empresa;
+
+b) Em empresas privadas concorrentes no mesmo sector.
+
+3 - Os gestores executivos e os gestores não executivos não podem ser designados para órgãos de administração ou fiscalização de outra empresa que integre o setor público empresarial da Região Autónoma da Madeira, salvo o disposto nas alíneas seguintes:
+
+a) Quando a designação respeite ao exercício de funções não remuneradas na empresa mãe ou em outras relativamente às quais a própria empresa ou a sua empresa mãe exerçam direta ou indiretamente influência dominante nos termos referidos no n.º 1 do artigo 3.º do Decreto Legislativo Regional n.º 13/2010/M, de 5 de agosto, alterado pelo Decreto Legislativo Regional n.º 2/2011/M, de 10 de janeiro;
+
+b) Excecionalmente e sujeita a especial fundamentação, atendendo à respetiva necessidade ou conveniência, e mediante autorização dos membros do Governo Regional responsáveis pela área das finanças e pelo respetivo setor de atividade da empresa onde se encontre a desempenhar funções.
+
+4 - Os gestores executivos e os gestores não executivos não podem celebrar, durante o exercício dos respetivos mandatos, sob pena de nulidade, quaisquer contratos de trabalho ou de prestação de serviços com as empresas mencionadas nos n.os 2 e 3 que devam vigorar após a cessação das suas funções.
+
+5 - Os gestores executivos e os gestores não executivos devem declarar-se impedidos de tomar parte em deliberações quando nelas tenham interesse, por si, como representante ou como gestor de negócios de outra pessoa ou ainda quando tal suceda em relação ao seu cônjuge, parente ou afim em linha reta ou até ao 2.º grau em linha colateral ou em relação com pessoa com quem viva em economia comum.
+
+6 - Aos gestores executivos e aos gestores não executivos é ainda aplicável, com as necessárias adaptações, o disposto nos artigos 8.º, 9.º, 9.º-A, 11.º, 12.º e 14.º e no n.º 4 do artigo 13.º da Lei n.º 64/93, de 26 de agosto.
+
+7 - (Revogado.)
+
+8 - Sem prejuízo do disposto no artigo 11.º da Lei n.º 64/93, de 26 de agosto, antes do início de funções, o gestor público comunica, por escrito, à Inspeção Regional de Finanças, todas as participações e interesses patrimoniais que detenha, direta ou indiretamente, na empresa na qual irá exercer funções ou em qualquer outra.
+
+9 - Os membros das mesas de assembleias gerais não podem exercer quaisquer outras atividades temporárias ou permanentes em empresas privadas concorrentes no mesmo setor.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 31/2013/M - Diário da República n.º 250/2013, Série I de 2013-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2013-484080), em vigor a partir de 2014-02-01
+
+### Capítulo V — Responsabilidade e cessação de funções
+
+###### Artigo 17.º — Responsabilidade
+
+Os gestores públicos são penal, civil e financeiramente responsáveis pelos actos e omissões praticados durante a sua gestão, nos termos da lei.
+
+###### Artigo 18.º — Cessação de funções de gestor público
+
+As funções de gestor público cessam:
+
+a) Por dissolução do órgão de administração nos termos do artigo 28.º do Decreto Legislativo Regional n.º 13/2010/M, de 5 de agosto, alterado pelo Decreto Legislativo Regional n.º 2/2011/M, de 10 de janeiro;
+
+b) Por demissão;
+
+c) Por renúncia;
+
+d) Nas demais situações previstas na lei comercial.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 31/2013/M - Diário da República n.º 250/2013, Série I de 2013-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2013-484080), em vigor a partir de 2014-02-01
+
+###### Artigo 19.º — Demissão
+
+O gestor público pode ser demitido por mera conveniência ou quando lhe seja individualmente imputável uma das situações referidas no artigo seguinte.
+
+###### Artigo 20.º — Demissão por situação imputável
+
+1 - O órgão de eleição ou nomeação pode demitir o gestor público quando lhe seja individualmente imputável uma das seguintes situações:
+
+a) A avaliação de desempenho seja negativa, designadamente por incumprimento dos objetivos referidos nas orientações fixadas ao abrigo do artigo 11.º do Decreto Legislativo Regional n.º 13/2010/M, de 5 de agosto, alterado pelo Decreto Legislativo Regional n.º 2/2011/M, de 10 de janeiro, ou no contrato de gestão;
+
+b) A violação grave, por acção ou por omissão, da lei ou dos estatutos da empresa;
+
+c) A violação das regras sobre incompatibilidades e impedimentos;
+
+d) A violação do dever de sigilo profissional.
+
+2 - A demissão requer audiência prévia do gestor público e é fundamentada.
+
+3 - A demissão implica a cessação do mandato, não havendo lugar a qualquer subvenção ou compensação pela cessação de funções.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 31/2013/M - Diário da República n.º 250/2013, Série I de 2013-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2013-484080), em vigor a partir de 2014-02-01
+
+###### Artigo 21.º — Demissão e dissolução por mera conveniência
+
+1 - A cessação de funções do gestor público por mera conveniência pode ter lugar a qualquer tempo e compete ao órgão de eleição ou nomeação.
+
+2 - Nos casos previstos no número anterior e desde que conte, pelo menos, 12 meses seguidos de exercício de funções, o gestor público tem direito a uma indemnização correspondente ao vencimento de base que auferiria até ao final do respetivo mandato, com o limite de 12 meses.
+
+3 - Nos casos de regresso ao exercício de funções ou de aceitação, no prazo a que se refere o número anterior, de função ou cargo no âmbito do setor público administrativo ou empresarial da Região Autónoma da Madeira, ou no caso de regresso às funções anteriormente desempenhadas pelos gestores nomeados em regime de comissão de serviço ou de cedência especial ou ocasional, a indemnização eventualmente devida é reduzida ao montante da diferença entre o vencimento como gestor e o vencimento do lugar de origem à data da cessação de funções de gestor, ou o novo vencimento, caso em que deverá ser devolvida a parte da indemnização que eventualmente haja sido paga.
+
+4 - O disposto nos n.os 2 e 3 é aplicado no caso de dissolução por mera conveniência, previsto no n.º 4 do artigo 28.º do Decreto Legislativo Regional n.º 13/2010/M, de 5 de agosto, alterado pelo Decreto Legislativo Regional n.º 2/2011/M, de 10 de janeiro.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 31/2013/M - Diário da República n.º 250/2013, Série I de 2013-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2013-484080), em vigor a partir de 2014-02-01
+
+###### Artigo 22.º — Renúncia
+
+1 - O gestor público pode renunciar ao cargo, nos termos da lei comercial.
+
+2 - A renúncia não carece de aceitação, mas deve ser comunicada aos órgãos de eleição ou de nomeação.
+
+### Capítulo VI — Remunerações e benefícios
+
+###### Artigo 23.º — Princípios gerais de remuneração
+
+1 - A remuneração dos gestores integra um vencimento mensal que não pode ultrapassar o vencimento do Presidente do Governo Regional da Região Autónoma da Madeira.
+
+2 - A remuneração dos gestores públicos integra ainda um abono mensal, pago 12 vezes ao ano, para despesas de representação no valor de 40 % do respetivo vencimento.
+
+3 - O vencimento mensal dos gestores públicos é determinado em função de critérios decorrentes da complexidade, exigência e responsabilidade inerentes às respetivas funções, atendendo às práticas normais de mercado no respetivo setor de atividade, fixados nas orientações a que se refere o n.º 4 do artigo 23.º do regime jurídico do setor empresarial da Região Autónoma da Madeira.
+
+4 - Os gestores não executivos têm direito a uma remuneração fixa, correspondente à atividade normal que desempenhem, até ao limite de um quarto da remuneração de igual natureza estabelecida para os gestores executivos.
+
+5 - Os gestores não executivos, quando tenham efetiva participação em comissões criadas especificamente para acompanhamento da atividade da empresa, podem ainda ter direito a uma remuneração complementar, não podendo em qualquer caso a remuneração global exceder um terço da remuneração fixa estabelecida para o gestor executivo.
+
+6 - A remuneração dos gestores não executivos não integra qualquer abono mensal para despesas de representação.
+
+7 - (Revogado.)
+
+8 - Mediante autorização expressa no ato de designação ou eleição, os gestores podem optar pelo vencimento do lugar de origem, não podendo, todavia, exceder, salvo no caso previsto no n.º 10, o vencimento mensal do Presidente do Governo Regional.
+
+9 - (Revogado.)
+
+10 - Nos casos previstos no artigo 11.º, quando se trate de empresas cuja principal função seja a produção de bens e serviços mercantis, incluindo serviços financeiros, e relativamente à qual se encontrem em regime de concorrência no mercado, mediante autorização expressa do membro do Governo responsável pela área das finanças, os gestores podem optar por valor com o limite da remuneração média dos últimos três anos, aplicado o coeficiente de atualização resultante das correspondentes taxas de variação média anual do índice de preços no consumidor apurado pelo Instituto Nacional de Estatística, devendo ser objeto de despacho fundamentado e publicado no Jornal Oficial da Região Autónoma da Madeira.
+
+11 - (Revogado.)
+
+12 - Nos casos em que seja exercido o direito de opção referido no n.º 10, os gestores não auferem o abono mensal para despesas de representação a que se refere o n.º 2 nas situações em que o respetivo vencimento mensal ultrapasse o limite fixado pelo n.º 1.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 15/2021/M - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2021-166099800), em vigor a partir de 2021-07-01
+
+> Alterado pelo/a Artigo 74.º do/a [Decreto Legislativo Regional n.º 42-A/2016/M - Diário da República n.º 250/2016, 1º Suplemento, Série I de 2016-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), em vigor a partir de 2016-01-01, produz efeitos a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto Legislativo Regional n.º 6/2015/M - Diário da República n.º 157/2015, Série I de 2015-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-70007184), em vigor a partir de 2015-08-14
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 31/2013/M - Diário da República n.º 250/2013, Série I de 2013-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2013-484080), em vigor a partir de 2014-02-01
+
+> Alterado pelo/a Artigo 56.º do/a [Decreto Legislativo Regional n.º 2/2011/M - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-01
+
+###### Artigo 24.º — Fixação de remunerações
+
+1 - A remuneração dos gestores públicos é fixada:
+
+a) Por resolução do Conselho do Governo Regional, no caso das entidades públicas empresariais;
+
+b) Por deliberação em assembleia geral, no caso das empresas públicas constituídas nos termos da lei comercial.
+
+2 - Sem prejuízo do disposto no número anterior, os contratos de gestão a celebrar com os gestores públicos que exerçam funções executivas contemplam, além das matérias indicadas no artigo 12.º, os seguintes pontos:
+
+a) Valores fixados para cada uma das componentes da remuneração consideradas;
+
+b) Prémios de gestão passíveis de atribuição no final do exercício ou do mandato, que não podem ultrapassar metade da remuneração anual auferida, de acordo com o cumprimento dos critérios objetivos dos quais dependa a sua eventual atribuição, sem prejuízo do limite fixado nos respetivos estatutos;
+
+c) Outras regalias ou benefícios aplicáveis aos demais colaboradores da empresa.
+
+3 - A graduação dos prémios de gestão tem por base indicadores de gestão, que resultem do desenvolvimento estratégico preconizado para cada empresa, no âmbito do setor em que se insere.
+
+4 - Os indicadores referidos no número anterior são definidos em cada contrato de gestão com base nas orientações estabelecidas ao abrigo do artigo 11.º do Decreto Legislativo Regional n.º 13/2010/M, de 5 de agosto, alterado pelo Decreto Legislativo Regional n.º 2/2011/M, de 10 de janeiro, e tendo em consideração as situações específicas em causa, designadamente as resultantes da prestação de serviços de interesse geral.
+
+5 - Nos casos em que se estipularem objetivos de gestão de exigência acrescida, o contrato de gestão pode ainda, excecionalmente, mediante despacho do membro do Governo Regional responsável pela área das finanças, fundamentado e publicado no Jornal Oficial da Região Autónoma da Madeira, estabelecer um regime específico de prémios de gestão a atribuir quando se verifique o cumprimento total dos objetivos estipulados, o qual não pode exceder metade do total da remuneração anual auferida.
+
+6 - Nas situações referidas na alínea b) do n.º 1, a competência para a fixação da remuneração pode ser delegada numa comissão de remunerações designada pela assembleia geral ou pelo conselho geral e de supervisão.
+
+7 - A remuneração, regalias ou benefícios dos gestores públicos são fixados com observância dos princípios estabelecidos no artigo anterior e em conformidade com os critérios estabelecidos nas orientações a que se refere a alínea c) do n.º 2 do artigo 11.º do Decreto Legislativo Regional n.º 13/2010/M, de 5 de agosto, alterado pelo Decreto Legislativo Regional n.º 2/2011/M, de 10 de janeiro.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 31/2013/M - Diário da República n.º 250/2013, Série I de 2013-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2013-484080), em vigor a partir de 2014-02-01
+
+###### Artigo 24.º-A — Utilização de cartões de crédito, comunicações e de viaturas
+
+1 - Não é permitida a utilização de cartões de crédito e outros instrumentos de pagamento por gestores públicos tendo por objeto a realização de despesas ao serviço da empresa.
+
+2 - Não é permitido o reembolso a gestores públicos de quaisquer despesas que caiam no âmbito do conceito de despesas de representação pessoal.
+
+3 - O valor máximo das despesas associadas a comunicações, que incluem telefone móvel, telefone domiciliário e Internet, e das viaturas de serviço afetas aos gestores públicos, é fixado:
+
+a) Por deliberação em assembleia geral, no caso das empresas públicas constituídas nos termos da lei comercial;
+
+b) Por despacho do membro do Governo Regional responsável pela área das finanças, publicado no Jornal Oficial da Região Autónoma da Madeira, no caso das entidades públicas empresariais.
+
+4 - O valor previsto no número anterior é fixado à luz das orientações que venham a ser estabelecidas para o efeito pelos acionistas ou por despacho do membro do Governo Regional responsável pela área das finanças, tendo como limite máximo, no caso das comunicações, o valor global fixado para os cargos de direção superior de 1.º grau da Administração Pública.
+
+5 - O valor máximo de combustível afeto mensalmente às viaturas de serviço é fixado em um quarto do valor do abono mensal para despesas de representação.
+
+6 - É vedado o exercício de qualquer opção por parte dos gestores para aquisição de viaturas de serviço que lhes tenham sido afetas.
+
+7 - O disposto no n.º 5 do presente artigo exerce-se em conformidade com as demais normas legais e regulamentares relativas à utilização de viaturas.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2013/M - Diário da República n.º 250/2013, Série I de 2013-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2013-484080), em vigor a partir de 2014-02-01
+
+###### Artigo 24.º-B — Subsídio de refeição e abono de ajudas de custo e transporte
+
+É aplicável aos gestores públicos os regimes do subsídio de refeição e do abono de ajudas de custo e transporte por deslocações em território português e ao estrangeiro aplicável à generalidade dos trabalhadores em funções públicas.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2013/M - Diário da República n.º 250/2013, Série I de 2013-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2013-484080), em vigor a partir de 2014-02-01
+
+###### Artigo 25.º — Benefícios sociais
+
+Os gestores públicos gozam dos benefícios sociais conferidos aos trabalhadores da empresa em que exerçam funções, nos termos que venham a ser concretizados pelas respetivas comissões de fixação de remunerações, pela assembleia geral ou pelos membros do Governo Regional responsáveis pelo setor de atividade e pela área das finanças, consoante o caso, com exceção dos respeitantes a planos complementares de reforma, aposentação, sobrevivência ou invalidez.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 31/2013/M - Diário da República n.º 250/2013, Série I de 2013-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2013-484080), em vigor a partir de 2014-02-01
+
+###### Artigo 26.º — Pensões
+
+Os gestores públicos beneficiam do regime geral de segurança social, se não optarem por outro que os abranja.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 31/2013/M - Diário da República n.º 250/2013, Série I de 2013-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2013-484080), em vigor a partir de 2014-02-01
+
+### Capítulo VII — Governo empresarial e transparência
+
+###### Artigo 27.º — Ética
+
+Os gestores públicos estão sujeitos às normas de ética aceites no sector de actividade em que se situem as respectivas empresas.
+
+###### Artigo 28.º — Boas práticas
+
+1 - Sem prejuízo do disposto no artigo anterior, os gestores públicos estão igualmente sujeitos às boas práticas decorrentes dos usos internacionais, designadamente em matéria de transparência, respeito pela concorrência e pelos agentes do mercado e prestação de informação sobre a sua organização e as actividades envolvidas.
+
+2 - O Conselho do Governo Regional pode fixar, mediante resolução, os princípios e regras a que se refere o artigo anterior que devem ser especialmente observados pelos gestores públicos no exercício das suas funções.
+
+### Capítulo VIII — Disposições finais e transitórias
+
+###### Artigo 29.º — Exercício de funções por beneficiário de complementos de reforma
+
+Quem, tendo exercido funções de gestor público, auferindo, por causa desse exercício, benefícios complementares de reforma, desempenhe funções em empresas ou outras entidades públicas, tem o direito de optar entre a remuneração nesta empresa ou entidade e aqueles benefícios.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 31/2013/M - Diário da República n.º 250/2013, Série I de 2013-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2013-484080), em vigor a partir de 2014-02-01
+
+###### Artigo 30.º — Aplicação
+
+1 - O presente diploma aplica-se às designações de gestores públicos que venham a ocorrer após a sua entrada em vigor, sem prejuízo do disposto nos números seguintes.
+
+2 - Os gestores públicos relativamente aos quais se verifiquem situações de incompatibilidade ou acumulação de funções em desconformidade com o disposto no presente diploma devem pôr termo a essas situações no prazo máximo de um ano ou fazer cessar os respectivos mandatos.
+
+3 - Os gestores públicos que, até à entrada em vigor do presente diploma, preencham os requisitos dos planos complementares de reforma, aposentação, invalidez ou sobrevivência por este suprimidos beneficiam, na aplicação das regras de cálculo da respectiva pensão, apenas do tempo de exercício efectivo de funções verificado à data da sua entrada em vigor.
+
+4 - As prestações complementares de reforma e aposentação apenas podem ser auferidas após a cessação de funções como gestores públicos e a partir do momento em que estejam cumpridos os requisitos gerais de acesso à aposentação ou reforma e esta tenha lugar.
+
+5 - A cessação de mandato prevista no n.º 2 não confere direito a qualquer indemnização ou subvenção.
+
+###### Artigo 31.º — Direito subsidiário
+
+Em tudo quanto não esteja disposto no presente diploma, aplica-se o Código das Sociedades Comerciais.
+
+###### Artigo 32.º — Prevalência de normas
+
+O disposto no presente diploma prevalece sobre os estatutos das empresas públicas.
+
+###### Artigo 33.º — Entrada em vigor
+
+O presente diploma entra em vigor no prazo de 60 dias após a sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 30 de Junho de 2010.
+
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
+
+Assinado em 28 de Julho de 2010.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

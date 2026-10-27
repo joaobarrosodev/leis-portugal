@@ -1,0 +1,172 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:124044595:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-124090713",
+ "dre_path": "/dr/detalhe/decreto-lei/113-2019-124044595",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-08-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "124090812",
+    "124090813",
+    "124090814",
+    "124090815",
+    "124090816",
+    "124090817",
+    "124090818",
+    "124090819",
+    "124090820",
+    "124090821",
+    "124090822",
+    "124090823",
+    "124090824",
+    "124090825",
+    "124090826",
+    "124090827"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:124716450:por",
+     "title": "Declaração de Retificação n.º 42/2019",
+     "published": "2019-09-16",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/42-2019-124716450",
+     "date": "2019-08-20"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "124090812": {
+   "fragment_id": "124090714",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 113/2019\n\nde 19 de agosto\n\nSumário: Assegura a execução, na ordem jurídica nacional, do Regulamento (CE) n.º 1099/2009, relativo à occisão dos animais criados ou mantidos para a produção de alimentos, lã, peles, peles com pelo ou outros produtos, bem como à occisão de animais para efeitos de despovoamento e operações complementares.\n\nA proteção dos animais no momento do abate ou occisão é contemplada pela legislação europeia desde 1974, tendo sido consideravelmente reforçada pela Diretiva n.º 93/119/CE, do Conselho, de 22 de dezembro de 1993, transposta para a ordem jurídica nacional pelo Decreto-Lei n.º 28/96, de 2 de abril.\n\nNo entanto, foram observadas discrepâncias importantes entre os Estados-Membros na aplicação desta diretiva e apontados problemas e diferenças importantes em matéria de bem-estar suscetíveis de afetar a competitividade entre os operadores das empresas.\n\nA existência de medidas que garantam a proteção dos animais no momento do abate ou occisão é relevante para a escolha dos consumidores.\n\nPor outro lado, o reforço das medidas de proteção dos animais no momento do abate contribui igualmente para melhorar a qualidade da carne, bem como a segurança dos trabalhadores dos matadouros.\n\nAssim, com vista a garantir a existência de normas harmonizadas no que respeita ao bem-estar dos animais no momento da occisão, o Regulamento (CE) n.º 1099/2009, do Conselho, de 24 de setembro de 2009, veio revogar a Diretiva n.º 93/119/CE, do Conselho, de 22 de dezembro de 1993, e estabelecer regras mais exigentes no que respeita à occisão dos animais criados ou mantidos para a produção de alimentos, lã, peles, peles com pelo ou outros produtos, bem como à occisão de animais para efeitos de despovoamento e operações complementares.\n\nO presente decreto-lei fixa as regras de execução do Regulamento (CE) n.º 1099/2009, do Conselho, de 24 de setembro de 2009, designadamente as relativas à designação do responsável pelo bem-estar dos animais, a quem compete coordenar e acompanhar a implementação dos procedimentos operacionais relativos ao bem-estar animal nos matadouros. Tal responsável deve ser dotado de autoridade e competência técnica para orientar o pessoal em cada linha de abate e, ainda, aplicar as regras respeitantes à formação do pessoal que efetua a occisão e operações complementares e que devem dispor de um certificado de aptidão adequado às operações que executam.\n\nPermite-se à autoridade competente, sempre que identifique um incumprimento, tomar medidas administrativas de correção que garantam a resolução da situação por parte do operador, em especial as medidas expressamente previstas no artigo 22.º do Regulamento (CE) n.º 1099/2009, do Conselho, de 24 de setembro de 2009.\n\nO presente decreto-lei dá também cumprimento ao artigo 23.º do Regulamento (CE) n.º 1099/2009, do Conselho, de 24 de setembro de 2009, que prevê a criação pelo Estado de um regime sancionatório efetivo, proporcionado e dissuasivo a aplicar às infrações ao seu incumprimento e impõe a tomada das medidas necessárias para garantir a sua aplicação.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "124090813": {
+   "fragment_id": "124090715",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei assegura a execução e garante o cumprimento, no ordenamento jurídico nacional, das obrigações decorrentes do Regulamento (CE) n.º 1099/2009, do Conselho, de 24 de setembro de 2009, adiante designado por Regulamento, relativo à occisão dos animais criados ou mantidos para a produção de alimentos, lã, peles, peles com pelo ou outros produtos, bem como à occisão de animais para efeitos de despovoamento e operações complementares."
+  },
+  "124090814": {
+   "fragment_id": "124090716",
+   "type": 11,
+   "heading": "Artigo 2.º — Autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Autoridade competente\n\nA direção, coordenação e controlo das ações a desenvolver para execução do Regulamento, e do presente decreto-lei, cabem à Direção-Geral de Alimentação e Veterinária (DGAV), na qualidade de autoridade sanitária veterinária nacional."
+  },
+  "124090815": {
+   "fragment_id": "124090717",
+   "type": 11,
+   "heading": "Artigo 3.º — Obrigações dos operadores das empresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Obrigações dos operadores das empresas\n\n1 - No decurso da realização dos controlos oficiais, os operadores das empresas devem permitir o acesso às instalações e demais infraestruturas e facultar, nos moldes, suportes e urgência requeridos, qualquer documentação e registos considerados necessários pela DGAV para a avaliação do cumprimento das disposições legais aplicáveis.\n\n2 - Os operadores das empresas devem comunicar à DGAV todas as alterações às informações referidas no n.º 2 do artigo 14.º do Regulamento, que a esta tenham sido prestadas de acordo com a mesma disposição."
+  },
+  "124090816": {
+   "fragment_id": "124090718",
+   "type": 11,
+   "heading": "Artigo 4.º — Medidas administrativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Medidas administrativas\n\n1 - Sempre que no âmbito de um controlo oficial se verifique que o operador de um matadouro não cumpre as normas do Regulamento, comprometendo, designadamente, o bem-estar dos animais, o diretor-geral de Alimentação e Veterinária determina as medidas de natureza administrativa consideradas adequadas, designadamente as previstas no artigo 22.º do Regulamento, destinadas a corrigir ou fazer cessar os incumprimentos detetados e que devem constar de relatório devidamente fundamentado, contendo, entre outros, a descrição pormenorizada dos factos verificados.\n\n2 - Para além do disposto no número anterior, pode também ser determinada a proibição da colocação no mercado dos produtos provenientes do abate ou occisão e operações complementares realizados em violação das normas do Regulamento, sem prejuízo do disposto no n.º 4 do artigo 26.º do Regulamento.\n\n3 - A adoção das medidas a que se referem os números anteriores deve, sempre que possível, ser precedida da audição dos operadores económicos, salvo quando as mesmas se revelem urgentes ou seja razoavelmente de prever que a audição possa comprometer a execução ou a utilidade da medida em causa.\n\n4 - Os custos com a execução das medidas adotadas nos termos dos números anteriores são suportados pelo operador da empresa.\n\n5 - A DGAV pode solicitar a colaboração das autoridades policiais e demais entidades administrativas competentes, nos casos de recusa ou obstrução de acesso às instalações, em incumprimento do disposto no n.º 1 do artigo anterior, tendo em vista a remoção de obstruções e a garantia da realização das medidas determinadas, bem como a segurança de pessoas e bens na execução dos atos a praticar."
+  },
+  "124090817": {
+   "fragment_id": "124090719",
+   "type": 11,
+   "heading": "Artigo 5.º — Responsável pelo bem-estar animal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Responsável pelo bem-estar animal\n\n1 - Nos termos do artigo 17.º do Regulamento, os matadouros devem ter um responsável pelo bem-estar animal, que deve ter competência e formação profissional adequadas e ser detentor de um certificado de aptidão que o habilite a executar todas as operações realizadas no matadouro pelas quais seja responsável, com exceção do disposto no n.º 6 do mesmo artigo do Regulamento.\n\n2 - A formação a que se refere o número anterior deve observar os requisitos de ingresso, os procedimentos, os métodos de avaliação e a duração estabelecidos no regulamento específico relativo aos cursos de proteção dos animais no momento da occisão, em conformidade com o previsto no Despacho n.º 9485/2015, de 15 de agosto, publicado no Diário da República, 2.ª série, n.º 162, de 20 de agosto."
+  },
+  "124090818": {
+   "fragment_id": "124090720",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fiscalização\n\nSem prejuízo da competência atribuída por lei a outras entidades, compete à DGAV assegurar a fiscalização da observância das normas constantes do Regulamento, bem como do presente decreto-lei."
+  },
+  "124090819": {
+   "fragment_id": "124090721",
+   "type": 11,
+   "heading": "Artigo 7.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Contraordenações\n\n1 - Constitui contraordenação punível com coima, cujo montante mínimo é de (euro) 250 e máximo de (euro) 3 740, no caso de o agente ser uma pessoa singular, e cujo montante mínimo é de (euro) 500 e máximo de (euro) 44 890, no caso de o agente ser uma pessoa coletiva:\n\na) O desrespeito pelo disposto nos artigos 3.º a 7.º e 9.º a 11.º do Regulamento, relativos aos requisitos gerais aplicáveis à occisão e às operações complementares;\n\nb) A venda ou a publicitação em desrespeito pelo disposto no artigo 8.º do Regulamento, quando os produtos ou os equipamentos de imobilização ou de atordoamento não estejam acompanhados de instruções adequadas relativas à respetiva utilização;\n\nc) O incumprimento das regras estabelecidas no n.º 1 do artigo 14.º do Regulamento e descritas no respetivo anexo II relativas à configuração, construção e equipamentos utilizados nos matadouros;\n\nd) O desrespeito pelo disposto nos artigos 15.º e 16.º do Regulamento, relativos às operações de manipulação e imobilização, bem como aos procedimentos de monitorização nos matadouros;\n\ne) O desrespeito pelo disposto nos n.os 1 a 5 do artigo 17.º do Regulamento, no caso de matadouros em que sejam abatidas 1 000 ou mais cabeças normais de mamíferos ou 150 000 ou mais unidades de aves de capoeira ou coelhos por ano;\n\nf) O desrespeito pelo disposto no artigo 19.º do Regulamento, relativo à occisão de emergência;\n\ng) O impedimento ou criação de obstáculos aos controlos oficiais, impedindo o acesso a instalações ou não disponibilizando os elementos solicitados pela DGAV, nos termos estabelecidos no n.º 1 do artigo 3.º do presente decreto-lei;\n\nh) A não comunicação de alterações às informações e aos documentos em desrespeito pelo previsto no n.º 2 do artigo 3.º do presente decreto-lei;\n\ni) O não cumprimento das normas transitórias previstas no artigo 14.º do presente decreto-lei.\n\n2 - A tentativa e a negligência são puníveis, sendo os limites das coimas reduzidos para metade.\n\n3 - Às contraordenações previstas no n.º 1 aplica-se supletivamente o regime consagrado no Decreto-Lei n.º 433/82, de 27 de outubro, na sua redação atual."
+  },
+  "124090820": {
+   "fragment_id": "124090722",
+   "type": 11,
+   "heading": "Artigo 8.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sanções acessórias\n\n1 - Em função da gravidade da infração e da culpa do agente, podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:\n\na) Perda de bens a favor do Estado;\n\nb) Interdição do exercício de uma profissão ou atividade cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participar em feiras ou mercados;\n\ne) Privação do direito de participar em arrematações ou concurso público que tenham por objeto o fornecimento de bens e serviços;\n\nf) Encerramento do estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa.\n\n2 - As sanções referidas nas alíneas b) a f) do número anterior têm a duração máxima de dois anos, contados a partir da data em que a decisão se tornar definitiva ou transitar em julgado."
+  },
+  "124090821": {
+   "fragment_id": "124090723",
+   "type": 11,
+   "heading": "Artigo 9.º — Instrução e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Instrução e decisão\n\n1 - A entidade que levantar o auto de notícia remete o mesmo, para instrução do competente processo, à unidade orgânica desconcentrada da DGAV da área em que tiver sido consumado a infração ou, caso a infração não tenha chegado a consumar-se, tiver sido praticado o último ato de execução ou, em caso de punibilidade dos atos preparatórios, tiver sido praticado o último ato de preparação.\n\n2 - A aplicação das coimas e sanções acessórias compete ao diretor-geral de Alimentação e Veterinária."
+  },
+  "124090822": {
+   "fragment_id": "124090724",
+   "type": 11,
+   "heading": "Artigo 10.º — Afetação do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Afetação do produto das coimas\n\nO produto das coimas é distribuído da seguinte forma:\n\na) 10 % para a entidade que levantou o auto;\n\nb) 30 % para a DGAV;\n\nc) 60 % para os cofres do Estado."
+  },
+  "124090823": {
+   "fragment_id": "124090725",
+   "type": 11,
+   "heading": "Artigo 11.º — Regiões autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regiões autónomas\n\n1 - Os atos e os procedimentos necessários à execução do presente decreto-lei nas regiões autónomas dos Açores e Madeira, entre os quais a instrução e decisão dos procedimentos contraordenacionais, competem às entidades das respetivas administrações regionais com atribuições e competências nas matérias em causa.\n\n2 - O produto das coimas cobradas nas regiões autónomas constitui receita própria destas."
+  },
+  "124090824": {
+   "fragment_id": "124090726",
+   "type": 11,
+   "heading": "Artigo 12.º — Disposições complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Disposições complementares\n\nAs disposições complementares necessárias à execução do presente decreto-lei e do Regulamento (CE) n.º 1099/2009, do Conselho, de 24 de setembro de 2009, são objeto de portaria do membro do Governo responsável pela área da agricultura."
+  },
+  "124090825": {
+   "fragment_id": "124090727",
+   "type": 11,
+   "heading": "Artigo 13.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Disposições transitórias\n\nOs matadouros aprovados nos termos do Decreto-Lei n.º 28/96, de 2 de abril, e que beneficiam das disposições transitórias previstas no artigo 29.º do Regulamento, devem assegurar a manutenção do cumprimentos das normas constantes nos anexos B e D do referido decreto-lei, bem como adaptar a sua configuração, construção e os equipamentos, até ao dia 8 de dezembro de 2019, de forma a assegurarem o cumprimento das normas previstas no n.º 1 do artigo 14.º e no anexo II do Regulamento."
+  },
+  "124090826": {
+   "fragment_id": "124090728",
+   "type": 11,
+   "heading": "Artigo 14.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 28/96, de 2 de abril, sem prejuízo das disposições transitórias estabelecidas no artigo seguinte."
+  },
+  "124090827": {
+   "fragment_id": "124090729",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

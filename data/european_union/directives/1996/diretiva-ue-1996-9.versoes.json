@@ -1,0 +1,526 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31996L0009:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0009-20190606",
+ "dre_path": null,
+ "source_lastmod": "2019-06-06",
+ "versions": [
+  {
+   "date": "1996-03-27",
+   "future": false,
+   "celex": "31996L0009",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2f3e6f61c847f63d",
+    "211b08437e1244df",
+    "9d054a9df578259a",
+    "98fcc9d00ccbf9f3",
+    "4f742ea631dacbda",
+    "77218db538316853",
+    "9464c337fe5a8669",
+    "cdbb97e082de0fc8",
+    "720a3aecebfdd12e",
+    "7fb10d1a0954c5f7",
+    "5d5deac995b071f4",
+    "0f32b513a3756deb",
+    "ea9c7b104c1216dd",
+    "6013f260e593e6f8",
+    "ea799ad0504cb6b6",
+    "fe2223738b88df9f",
+    "df1774d4b3f5d80f",
+    "3b36c5f759536e05",
+    "062e917268c29995",
+    "0ebd74401da7832d",
+    "ab694b86a417c53b",
+    "2dfba97002cc9030"
+   ]
+  },
+  {
+   "date": "2019-06-06",
+   "future": false,
+   "celex": "01996L0009-20190606",
+   "acts": [
+    {
+     "id": "eu:celex:32019L0790:por",
+     "title": "DIRETIVA (UE) 2019/790 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 17 de abril de 2019",
+     "published": null,
+     "celex": "32019L0790"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita CAPÍTULO I",
+    "Adita ÂMBITO DE APLICAÇÃO",
+    "Adita Artigo 1.º — Âmbito de aplicação",
+    "Adita Artigo 2.º — Restrições ao âmbito de aplicação",
+    "Adita CAPÍTULO II",
+    "Adita DIREITO DE AUTOR",
+    "Adita Artigo 3.º — Objecto da protecção",
+    "Adita Artigo 4.º — Qualidade de autor da base de dados",
+    "Adita Artigo 5.º — Actos sujeitos a restrições",
+    "Adita Artigo 6.º — Excepções aos actos sujeitos a restrições",
+    "Adita CAPÍTULO III",
+    "Adita DIREITO SUI GENERIS",
+    "Adita Artigo 7.º — Objecto da protecção",
+    "Adita Artigo 8.º — Direitos e obrigações do utilizador legítimo",
+    "Adita Artigo 9.º — Excepções ao direito sui generis",
+    "Adita Artigo 10.º — Prazo de protecção",
+    "Adita Artigo 11.º — Beneficiários do direito sui generis",
+    "Adita CAPÍTULO IV",
+    "Adita DISPOSIÇÕES COMUNS",
+    "Adita Artigo 12.º — Sanções",
+    "Adita Artigo 13.º — Aplicação de outras disposições legais",
+    "Adita Artigo 14.º — Aplicação no tempo",
+    "Adita Artigo 15.º — Carácter imperativo de certas disposições",
+    "Adita Artigo 16.º — Disposições finais",
+    "Adita Artigo 17.º",
+    "Adita Notas",
+    "Suprime CAPÍTULO I — ÂMBITO DE APLICAÇÃO",
+    "Suprime Artigo 1º — Âmbito de aplicação",
+    "Suprime Artigo 2º — Restrições ao âmbito de aplicação",
+    "Suprime CAPÍTULO II — DIREITO DE AUTOR",
+    "Suprime Artigo 3º — Objecto da protecção",
+    "Suprime Artigo 4º — Qualidade de autor da base de dados",
+    "Suprime Artigo 5º — Actos sujeitos a restrições",
+    "Suprime Artigo 6º — Excepções aos actos sujeitos a restrições",
+    "Suprime CAPÍTULO III — DIREITO SUI GENERIS",
+    "Suprime Artigo 7º — Objecto da protecção",
+    "Suprime Artigo 8º — Direitos e obrigações do utilizador legítimo",
+    "Suprime Artigo 9º — Excepções ao direito sui generis",
+    "Suprime Artigo 10º — Prazo de protecção",
+    "Suprime Artigo 11º — Beneficiários do direito sui generis",
+    "Suprime CAPÍTULO IV — DISPOSIÇÕES COMUNS",
+    "Suprime Artigo 12º — Sanções",
+    "Suprime Artigo 13º — Aplicação de outras disposições legais",
+    "Suprime Artigo 14º — Aplicação no tempo",
+    "Suprime Artigo 15º — Carácter imperativo de certas disposições",
+    "Suprime Artigo 16º — Disposições finais",
+    "Suprime Artigo 17º"
+   ],
+   "fragments": [
+    "67510f70470631a6",
+    "226c39ffd0a88dad",
+    "707b247288f2485e",
+    "1d480795af73ea26",
+    "462e9a7ad6631730",
+    "f0f8c960bfdbce9b",
+    "34250f14d6d11acd",
+    "31d7a3bc319e888c",
+    "9b37288820ed2ee7",
+    "1e1e9dc40750bdcb",
+    "8a6fe61f60300b06",
+    "1e7a0903d2eed348",
+    "5067ac1e807f4fba",
+    "1f1220cfcc086609",
+    "d545a46e852928be",
+    "5c61e3f40218d589",
+    "df51112c1ca8319c",
+    "ad8af62448290eb6",
+    "1ecfc79da3f1ac7f",
+    "3a2293c837b31c16",
+    "acedf958c8544039",
+    "9ed8719d2a9075c7",
+    "599c4c38e059279b",
+    "3acc0c7b95330579",
+    "3d6e9daebdd5b69f",
+    "67b89c3ce8bbea20",
+    "52ebe6d95086199d"
+   ]
+  }
+ ],
+ "fragments": {
+  "2f3e6f61c847f63d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 96/9/CE do Parlamento Europeu e do Conselho, de 11 de Março de 1996, relativa à protecção jurídica das bases de dados** *Jornal Oficial nº L 077 de 27/03/1996 p. 0020 - 0028*\n\nDIRECTIVA 96/9/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 1996 relativa à protecção jurídica das bases de dados\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o nº 2 do seu artigo 57º e os seus artigos 66º e 100ºA,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nDeliberando nos termos do procedimento previsto no artigo 189ºB do Tratado (3),\n\n(1) Considerando que as bases de dados não beneficiam hoje em dia de uma protecção suficiente em todos os Estados-membros ao abrigo da legislação vigente; que essa protecção, quando existe, apresenta características diferentes;\n\n(2) Considerando que tais diferenças de protecção jurídica das bases de dados conferida pelas legislações dos Estados-membros têm efeitos negativos directos sobre o funcionamento do mercado interno no que respeita às bases de dados e, nomeadamente, sobre a liberdade das pessoas singulares e colectivas fornecerem produtos e serviços de bases de dados em linha, com a base jurídica harmonizada em toda a Comunidade; que tais diferenças têm tendência a acentuar-se à medida que os Estados-membros adoptem novas disposições legislativas na matéria, que assume uma dimensão internacional crescente;\n\n(3) Considerando que é necessário eliminar as diferenças existentes que têm um efeito de distorção no funcionamento de mercado interno e evitar que surjam novas diferenças, ao passo que as diferenças que presentemente não afectam negativamente o funcionamento do mercado interno ou o desenvolvimento de um mercado da informação na Comunidade podem não ser suprimidas ou impedidas;\n\n(4) Considerando que a protecção das bases de dados pelo direito de autor se encontra prevista nos Estados-membros sob diferentes formas, quer através da legislação ou da jurisprudência, e que, enquanto subsistirem diferenças entre as legislações dos Estados-membros quanto ao âmbito de aplicação e às condições de protecção dos direitos, tais direitos de propriedade intelectual não harmonizados podem ter por efeito entravar a livre circulação de bens e serviços na Comunidade;\n\n(5) Considerando que o direito de autor constitui uma forma adequada de direitos exclusivos dos autores de bases de dados;\n\n(6) Considerando porém, que, na ausência de um sistema harmonizado de legislação ou de jurisprudência sobre concorrência desleal nos Estados-membros, são necessárias outras medidas adicionais, a fim de impedir a extracção e/ou a reutilização não autorizadas do conteúdo de uma base de dados;\n\n(7) Considerando que o fabrico de uma base de dados exige o investimento de recursos humanos, técnicos e financeiros consideráveis, podendo-se copiar ou aceder a essas bases a um custo muito inferior ao de uma concepção autónoma de uma base de dados;\n\n(8) Considerando que a extracção e/ou reutilização não autorizadas do conteúdo de uma base de dados constituem actos que podem ter graves consequências económicas e técnicas;\n\n(9) Considerando que as bases de dados são um instrumento vital no desenvolvimento de um mercado da informação a nível na Comunidade; que este instrumento será igualmente útil em muitos outros domínios;\n\n(10) Considerando que o aumento exponencial, na Comunidade e a nível mundial, do volume de informações geradas e processadas anualmente em todos os sectores do comércio e da indústria exige investimentos em sistemas avançados de gestão da informação em todos os Estados-membros;\n\n(11) Considerando que existe presentemente um grande desequilíbrio entre os níveis de investimento praticados no sector das bases de dados, tanto entre os Estados-membros como entre a Comunidade e os principais países terceiros produtores;\n\n(12) Considerando que um investimento desta natureza em sistemas modernos de armazenamento e tratamento da informação não poderá ser realizado na Comunidade sem um regime jurídico estável e homogéneo de protecção dos direitos de fabricantes das bases de dados;\n\n(13) Considerando que a presente directiva protege as recolhas, por vezes denominadas «complicações», de obras, dados ou outras matérias, cuja disposição, armazenamento e acesso são efectuados por meios que recorrem nomeadamente a processos electrónicos, electromagnéticos ou electro-ópticos ou outros análogos;\n\n(14) Considerando que convém alargar a protecção concedida pela presente directiva às bases de dados não electrónicas;\n\n(15) Considerando que os critérios aplicados para determinar se tais bases de dados são susceptíveis de beneficiar da protecção pelo direito de autor deverão limitar-se ao facto de constituirem uma criação intelectual própria do autor, ao efectuar a selecção ou a disposição do conteúdo da base de dados; que essa protecção incide sobre a estrutura da base;\n\n(16) Considerando que não devem aplicar-se outros critérios que não o da originalidade, na acepção da criação intelectual, para determinar se a base de dados é susceptível de protecção pelo direito de autor, e que, em especial, não deverão intervir critérios estéticos ou qualitativos;\n\n(17) Considerando que o termo «base de dados» deverá ser entendido como incluindo quaisquer recolhas de obras literárias, artísticas, musicais ou outras, ou quaisquer outros materiais como textos, sons, imagens, números, factos e dados; que se deverá tratar de recolhas de obras, dados ou outros elementos independentes, ordenados de modo sistemático ou metódico e individualmente acessíveis; que daí decorre que a fixação de uma obra audiovisual, cinematográfica, literária ou musical, como tal, não é abrangida pelo âmbito de aplicação da presente directiva;\n\n(18) Considerando que a presente directiva não prejudica a liberdade de os autores decidirem se, ou de que modo, permitirão que as suas obras sejam incluídas numa base de dados, nomeadamente, se a autorização concedida se reveste ou não de carácter exclusivo; que a protecção das bases de dados pelo direito sui generis não prejudica os direitos existentes sobre o seu conteúdo e, designadamente, quando um autor ou titular de um direito conexo autoriza a inserção de algumas das suas obras ou das suas prestações numa base de dados em execução de um contrato de licença não exclusiva, um terceiro pode explorar essas obras ou prestações mediante a autorização requerida do autor ou do titular do direito conexo sem que a tal se oponha o direito sui generis do fabricante da base de dados, na condição de que essas obras ou prestações não sejam nem extraídas da base de dados nem reutilizadas a partir desta;\n\n(19) Considerando que, em geral, a complicação de várias fixações de execuções musicais em CD não é abrangida pelo âmbito de aplicação da directiva tanto pelo facto de, como compilação, não preencher as condições para beneficiar da protecção do direito de autor como por não representar um investimento suficientemente avultado para beneficiar do direito sui generis;\n\n(20) Considerando que a protecção prevista na presente directiva pode ser igualmente aplicável aos elementos necessários ao funcionamento ou à consulta de certas bases de dados, como o thesaurus e os sistemas de indexação;\n\n(21) Considerando que a protecção prevista na presente directiva se refere às bases de dados em que as obras, dados ou outros elementos tenham sido ordenados de modo sistemático ou metódico; que não se exige que essas matérias tenham sido fisicamente armazenadas de modo organizado;\n\n(22) Considerando que as bases de dados electrónicos, na acepção da presente directiva, podem compreender igualmente dispositivos como os CD-ROM e os CD-I;\n\n(23) Considerando que a expressão «base de dados» não deve aplicar-se aos programas de computador utilizados no fabrico ou no funcionamento de uma base de dados, que são protegidos pela Directiva 91/250/CEE do Conselho, de 14 de Maio de 1991, relativa à protecção jurídica dos programas de computador (4);\n\n(24) Considerando que o aluguer e o comodato de bases de dados do domínio do direito de autor e direitos conexos se regem exclusivamente pela Directiva 92/100/CEE do Conselho, de 19 de Novembro de 1992, relativa ao direito de aluguer, ao direito de comodato e a certos direitos conexos aos direitos de autor em matéria de prosperidade intelectual (5);\n\n(25) Considerando que o prazo do direito de autor se encontra já regulamentado na Directiva 93/98/CEE do Conselho, de 29 de Outubro de 1993, relativa à harmonização, do prazo de protecção dos direitos de autor e de certos direitos conexos (6);\n\n(26) Considerando que as obras protegidas pelo direito de autor e as prestações protegidas por direitos conexos incorporadas numa base de dados continuam a ser objecto dos direitos exclusivos respectivos e não podem, por conseguinte, ser incorporados na base de dados nem dela extraídas sem a autorização do titular dos direitos ou dos seus sucessores legítimos;\n\n(27) Considerando que os direitos de autor sobre as obras e os direitos conexos sobre prestações incorporadas numa base de dados em nada são afectados pela existência de um direito distinto sobre a selecção ou a disposição dessas obras e prestações numa base de dados;\n\n(28) Considerando que os direitos morais da pessoa singular que criou a base de dados pertencem ao autor e devem ser exercidos nos termos da legislação dos Estados-membros e da Convenção de Berna sobre a protecção das obras literárias e artísticas; que, por conseguinte, tais direitos não se integram no âmbito da presente directiva;\n\n(29) Considerando que o regime aplicável à criação assalariada fica sujeito ao poder discricionário dos Estados-membros; que, por conseguinte, a presente directiva em nada impede os Estados-membros de especificarem na respectiva legislação que, quando uma base de dados for criada por um empregado no exercício das suas funções ou por indicação da sua entidade patronal só este estará habilitado a exercer todos os direitos patrimoniais relativos à base de dados assim criada, salvo disposição contratual em contrário;\n\n(30) Considerando que os direitos exclusivos do autor deverão incluir o direito de determinar como e por quem a sua obra poderá ser explorada e, em especial, o de controlar a colocação da sua obra à disposição de pessoas não autorizadas;\n\n(31) Considerando que a protecção das bases de dados pelo direito de autor inclui igualmente a colocação à disposição de bases de dados sob outra forma que não seja a distribuição de cópias;\n\n(32) Considerando que os Estados-membros são obrigados a garantir pelo menos a equivalência material das respectivas disposições nacionais relativamente aos actos sujeitos a restrições, previstos na presente directiva;\n\n(33) Considerando que a questão do esgotamento do direito de distribuição não se coloca no caso de bases de dados em linha que pertencem ao domínio da prestação de serviços; que o mesmo se aplica à cópia material de uma base desse tipo feita pelo utilizador do serviço com o consentimento do titular do direito; que, ao contrário dos CD-ROM ou CD-I em que a propriedade intelectual é incorporada num suporte material, a saber, numa mercadoria, cada prestação em linha é efectivamente um acto que deverá estar sujeito a autorização se o direito de autor o previr;\n\n(34) Considerando que, contudo, uma vez que o titular do direito tenha optado por colocar um exemplar da base de dados à disposição de um utilizador, quer através de um serviço em linha ou de outros meios de distribuição, esse utilizador legítimo deverá poder aceder à base de dados e utilizá-la para os fins e da forma previstos no contrato de licença celebrado com o titular do direito, mesmo se esse acesso e essa utilização implicarem a necessidade de executar actos em princípio sujeitos a restrições;\n\n(35) Considerando que é conveniente prever uma lista de excepções aos actos sujeitos a restrições, tendo em conta o facto de o direito de autor a que se refere a presente directiva apenas ser aplicável à selecção ou à disposição das matérias contidas numa base de dados; que se deverá conferir aos Estados-membros a faculdade de, em certos casos, preverem as referidas excepções; que, no entanto, esta faculdade deve ser utilizada de acordo com as disposições da convenção de Berna e na medida em que essas excepções se refiram à estrutura da base de dados; que é conveniente distinguir as excepções feitas ao abrigo da utilização privada, das excepções feitas ao abrigo da reprodução para fins privados, dizendo este último domínio respeito às disposições de direito interno de certos Estados-membros em matéria de tributação de suportes virgens ou de aparelhos de gravação;\n\n(36) Considerando que o termo «investigação científica» diz respeito, na acepção da presente directiva, tanto às ciências naturais como às ciências humanas;\n\n(37) Considerando que a presente directiva não prejudica o disposto no nº 1 do artigo 10º da Convenção de Berna;\n\n(38) Considerando que a utilização crescente da tecnologia digital expõe o fabricante de base de dados ao risco de o conteúdo da sua base de dados ser directamente carregado e reordenado por meios electrónicos sem a sua autorização a fim de produzir uma base de dados de conteúdo idêntico mas que não constitua uma violação de qualquer direito de autor sobre a disposição da primeira base de dados;\n\n(39) Considerando que, para além da protecção pelo direito de autor da originalidade da selecção ou disposição do conteúdo da base de dados, a presente directiva pretende salvaguardar a posição dos fabricantes de bases de dados relativamente à apropriação abusiva dos resultados do investimento financeiro e profissional realizado para obter e coligir o conteúdo, protegendo o conjunto ou partes substanciais da base de dados de certos actos cometidos pelo utilizador ou por um concorrente;\n\n(40) Considerando que o objectivo deste direito sui generis consiste em garantir a protecção de um investimento na obtenção, verificação ou apresentação do conteúdo de uma base de dados durante o prazo limitado do direito; que esse investimento pode consistir na utilização de meios financeiros e/ou de ocupação do tempo, de esforços e de energia;\n\n(41) Considerando que o objectivo do direito sui generis consiste em conceder ao fabricante de uma base de dados a possibilidade de impedir a extracção e/ou a reutilização não autorizada da totalidade ou de uma parte substancial do conteúdo da base de dados; que é o fabricante de uma base de dados que toma a iniciativa e assume o risco de efectuar os investimentos; que isso exclui da noção de fabricante nomeadamente os subempreiteiros;\n\n(42) Considerando que o direito específico de impedir a extracção e/ou a reutilização não autorizadas visa os actos do utilizador que ultrapassam os direitos legítimos deste e prejudicam assim o investimento; que o direito de impedir a extracção e/ou a reutilização total ou de uma parte substancial do conteúdo visa não apenas o fabrico de um produto parasita concorrente, mas também o utilizador que, pelos seus actos, atente de modo substancial contra o investimento, tanto em termos qualitativos, como quantitativos;\n\n(43) Considerando que, em caso de transmissão em linha, o direito de proibir a reutilização não se esgota relativamente à base de dados, nem a qualquer cópia material dessa mesma base ou de parte dela feita pelo destinatário da transmissão com o consentimento do titular do direito;\n\n(44) Considerando que, sempre que a visualização do conteúdo de uma base de dados em ecrã exigir a transferência permanente ou temporária da totalidade ou de uma parte substancial desse conteúdo para outro suporte é para tal necessária a autorização do titular do direito;\n\n(45) Considerando que o direito de impedir a extracção e/ou a reutilização não autorizada não representa de modo algum uma extensão da protecção do direito de autor aos factos em si ou aos dados;\n\n(46) Considerando que a existência de um direito de se opor à extracção e/ou reutilização não autorizadas da totalidade ou de uma parte substancial de obras, de dados ou de elementos de uma base de dados não origina um novo direito sobre essas mesmas obras, dados ou elementos;\n\n(47) Considerando que, para fomentar a concorrência entre fornecedores de produtos e serviços no mercado da informação, a protecção pelo direito sui generis não deverá ser exercida de molde a facilitar abusos de posição dominante, nomeadamente no que respeita à criação e difusão de novos produtos e serviços que constituam um valor acrescentado de ordem intelectual, documental, técnica, económica ou comercial; que, desde logo, as disposições da presente directiva não prejudicam a aplicação das regras sobre concorrência, comunitárias ou nacionais;\n\n(48) Considerando que o objectivo da presente directiva, de garantir um nível de protecção das bases de dados adequado e uniforme enquanto meio de assegurar a remuneração do fabricante da base de dados, é diferente dos objectivos prosseguidos pela Directiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de Outubro de 1995, relativa à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados (7), de garantir a livre circulação dos dados pessoais com base em regras harmonizadas destinadas a proteger os direitos fundamentais, nomeadamente o direito ao respeito da vida privada consagrado no artigo 8º da Convenção europeia de protecção dos direitos do homem e das liberdades fundamentais; que as disposições da presente directiva em nada prejudicam a aplicação da legislação em matéria de protecção de dados;\n\n(49) Considerando que, não obstante o direito de proibir a extracção e/ou a reutilização da totalidade ou de uma parte substancial de uma base de dados, se deverá prever que o fabricante de uma base de dados ou o titular do direito não possa impedir o utilizador legítimo de extrair e reutilizar partes não substanciais da base; que, no entanto, esse mesmo utilizador não pode prejudicar injustificadamente os legítimos interesses do titular do direito sui generis, nem o titular de um direito de autor ou de qualquer direito conexo sobre obras ou prestações contidas nessa base;\n\n(50) Considerando que convém dar aos Estados-membros a faculdade de preverem excepções ao direito de impedir a extracção e/ou a reutilização não autorizadas de uma parte substancial do conteúdo de uma base de dados quanto se trate de uma extracção para fins privados, ou para fins de ilustração didáctica ou de investigação científica e quando se trate de uma extracção e/ou reutilização realizadas para fins de segurança pública, ou tendo em vista um processo administrativo ou judicial; que convém que essas operações não prejudiquem os direitos exclusivos do fabricante de explorar a base de dados e que o seu objectivo não se revista de carácter comercial;\n\n(51) Considerando que, quando recorrem à faculdade de autorizar o utilizador legítimo de uma base de dados a dela extrair uma parte substancial do conteúdo para fins de ilustração didáctica ou de investigação científica, os Estados-membros podem limitar essa autorização a certas categorias de estabelecimentos de ensino ou de investigação científica;\n\n(52) Considerando que os Estados-membros nos quais estão em vigor normas específicas que estabelecem um direito semelhante ao direito sui generis previsto na presente directiva, devem poder manter, em relação ao novo direito, as excepções tradicionalmente previstas por essa mesma legislação;\n\n(53) Considerando que o ónus da prova da data de conclusão do fabrico de uma base de dados incumbe ao seu fabricante;\n\n(54) Considerando que o ónus da prova da reunião dos critérios que permitem concluir que determinada alteração substancial do conteúdo de uma base de dados deve ser considerada como um novo investimento avultado, incumbe ao fabricante da base resultante desse investimento;\n\n(55) Considerando que qualquer novo investimento avultado que implique um novo prazo de protecção poderá exigir uma verificação substancial do conteúdo da base de dados;\n\n(56) Considerando que o direito de se opor à extracção e/ou à reutilização não autorizadas do conteúdo de uma base de dados só se aplica às bases de dados cujos fabricantes sejam nacionais de países terceiros ou neles tenham residência habitual, e às bases de dados produzidas por pessoas colectivas não estabelecidas num Estado-membro, na acepção do Tratado, na condição de estes países terceiros proporcionarem uma protecção idêntica às bases de dados produzidas por nacionais de um Estado-membro ou pessoas que tenham residência habitual no território da Comunidade;\n\n(57) Considerando que, para além das sanções previstas nas legislações dos Estados-membros para as violações do direito de autor ou de outros direitos, os Estados-membros devem prever sanções adequadas em caso de extracção e/ou reutilização não autorizadas do conteúdo de uma base de dados;\n\n(58) Considerando que, para além da protecção que a presente directiva assegura à base de dados através do direito de autor, e ao seu conteúdo através do direito sui generis de impedir a extracção e/ou a reutilização não autorizadas, devem continuar a aplicar-se as outras disposições legais relevantes existentes nos Estados-membros no que se refere ao fornecimento de produtos e serviços de bases de dados;\n\n(59) Considerando que a presente directiva em nada prejudica a aplicação às bases de dados constituídas por obras audiovisuais de regras eventualmente reconhecidas pela legislação de um determinado Estado-membro em matéria de teledifusão de programas audiovisuais;\n\n(60) Considerando que certos Estados-membros protegem actualmente, através de um regime de direito de autor, bases de dados que não obedecem aos critérios de elegibilidade para a protecção a título do direito de autor previsto na presente directiva; que, ainda que as bases de dados em questão sejam elegíveis para a protecção pelo direito de se opor à extracção e/ou reutilização não autorizadas do seu conteúdo, previsto na presente directiva, o prazo da protecção conferida por este último direito é sensivelmente inferior ao prazo de que beneficiam ao abrigo dos regimes nacionais actualmente em vigor; que qualquer harmonização dos critérios aplicados para determinar se determinada base de dados será protegida pelo direito de autor não poderá resultar na redução do prazo de protecção de que beneficiam actualmente os titulares dos direitos em causa; que para esse efeito se deverá prever uma derrogação; que os efeitos dessa derrogação se devem limitar ao território dos Estados-membros interessados,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "211b08437e1244df": {
+   "fragment_id": "CAPÍTULO I — ÂMBITO DE APLICAÇÃO",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — ÂMBITO DE APLICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — ÂMBITO DE APLICAÇÃO"
+  },
+  "9d054a9df578259a": {
+   "fragment_id": "Artigo 1º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º — Âmbito de aplicação\n\n1. A presente directiva diz respeito à protecção jurídica das bases de dados, seja qual for a forma de que estas se revistam.\n\n2. Para efeitos da presente directiva, entende-se por «base de dados», uma colectânea de obras, dados ou outros elementos independentes, dispostos de modo sistemático ou metódico e susceptíveis de acesso individual por meios electrónicos ou outros.\n\n3. A protecção prevista na presente directiva não é aplicável aos programas de computador utilizados no fabrico ou no funcionamento de bases de dados acessíveis por meios electrónicos."
+  },
+  "98fcc9d00ccbf9f3": {
+   "fragment_id": "Artigo 2º — Restrições ao âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2º — Restrições ao âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º — Restrições ao âmbito de aplicação\n\nA presente directiva é aplicável sem prejuízo das disposições comunitárias relativas:\n\na) À protecção jurídica dos programas de computador;\n\nb) Ao direito de aluguer e de comodato e a certos direitos conexos ao direito de autor no domínio da propriedade intelectual;\n\nc) Ao prazo de protecção pelo direito de autor e por certos direitos conexos."
+  },
+  "4f742ea631dacbda": {
+   "fragment_id": "CAPÍTULO II — DIREITO DE AUTOR",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — DIREITO DE AUTOR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — DIREITO DE AUTOR"
+  },
+  "77218db538316853": {
+   "fragment_id": "Artigo 3º — Objecto da protecção",
+   "type": "artigo",
+   "heading": "Artigo 3º — Objecto da protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º — Objecto da protecção\n\n1. Nos termos da presente directiva, as bases de dados que, devido à selecção ou disposição das matérias, constituam uma criação intelectual específica do respectivo autor, serão protegidas nessa qualidade pelo direito de autor. Não serão aplicáveis quaisquer outros critérios para determinar se estas podem beneficiar dessa protecção.\n\n2. A protecção das bases de dados pelo direito de autor prevista na presente directiva não abrange o seu conteúdo e em nada prejudica eventuais direitos que subsistam sobre o referido conteúdo."
+  },
+  "9464c337fe5a8669": {
+   "fragment_id": "Artigo 4º — Qualidade de autor da base de dados",
+   "type": "artigo",
+   "heading": "Artigo 4º — Qualidade de autor da base de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º — Qualidade de autor da base de dados\n\n1. O autor de uma base de dados é a pessoa singular ou o grupo de pessoas singulares que criou a base ou, quando a legislação dos Estados-membros o permita, a pessoa colectiva considerada por aquela legislação como titular do direito.\n\n2. Se a legislação do Estado-membro reconhecer as obras colectivas, os direitos patrimoniais pertencerão à pessoa investida do direito de autor.\n\n3. Se uma base de dados tiver sido criada conjuntamente por várias pessoas singulares, os direitos exclusivos pertencer-lhes-ão conjuntamente."
+  },
+  "cdbb97e082de0fc8": {
+   "fragment_id": "Artigo 5º — Actos sujeitos a restrições",
+   "type": "artigo",
+   "heading": "Artigo 5º — Actos sujeitos a restrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º — Actos sujeitos a restrições\n\nO autor de uma base de dados beneficia do direito exclusivo de efectuar ou autorizar os seguintes actos relativos à forma de expressão protegida pelo direito de autor:\n\na) Reprodução permanente ou provisória, total ou parcial, por quaisquer meios e sob qualquer forma;\n\nb) Tradução, adaptação, transformação ou qualquer outra modificação;\n\nc) Qualquer forma de distribuição da base ou de uma cópia ao público. A primeira comercialização na Comunidade da cópia de uma base de dados efectuada pelo titular do direito, ou com o seu consentimento, esgotará o direito de controlar a revenda dessa mesma cópia na Comunidade;\n\nd) Qualquer comunicação, exposição ou representação pública;\n\ne) Qualquer reprodução, distribuição, comunicação, exposição ou representação pública dos resultados dos actos citados na alínea b)."
+  },
+  "720a3aecebfdd12e": {
+   "fragment_id": "Artigo 6º — Excepções aos actos sujeitos a restrições",
+   "type": "artigo",
+   "heading": "Artigo 6º — Excepções aos actos sujeitos a restrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º — Excepções aos actos sujeitos a restrições\n\n1. O utilizador legítimo de uma base de dados ou das suas cópias pode efectuar todos os actos enumerados no artigo 5º, necessários para aceder ao conteúdo da base de dados e para a utilizar em condições normais sem autorização do autor da base. Se o utilizador legítimo estiver autorizado a utilizar apenas uma parte da base de dados, o presente número é aplicável unicamente a essa parte.\n\n2. Os Estados-membros têm a faculdade de prever restrições aos direitos referidos no artigo 5º nos seguintes casos:\n\na) Sempre que se trate de uma reprodução para fins particulares de uma base de dados não electrónica;\n\nb) Sempre que a utilização seja feita exclusivamente com fins de ilustração didáctica ou de investigação científica, desde que indique a fonte, na medida em que isso se justifique pelo objectivo não comercial a prosseguir;\n\nc) Sempre que se trate de uma utilização para fins de segurança pública, ou para efeitos de um processo administrativo ou judicial;\n\nd) Sempre que se trate de outras excepções ao direito de autor tradicionalmente previstas no seu direito interno, sem prejuízo do disposto nas alíneas a), b) e c).\n\n3. De acordo com a Convenção de Berna para a protecção das obras literárias e artísticas, o presente artigo não pode ser interpretado no sentido de permitir a sua aplicação de uma forma que cause um prejuízo injustificado aos legítimos interesses do titular dos direitos ou que prejudique a exploração normal da base de dados."
+  },
+  "7fb10d1a0954c5f7": {
+   "fragment_id": "CAPÍTULO III — DIREITO SUI GENERIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — DIREITO SUI GENERIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — DIREITO SUI GENERIS"
+  },
+  "5d5deac995b071f4": {
+   "fragment_id": "Artigo 7º — Objecto da protecção",
+   "type": "artigo",
+   "heading": "Artigo 7º — Objecto da protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º — Objecto da protecção\n\n1. Os Estados-membros instituirão o direito de o fabricante de uma base de dados proibir a extracção e/ou a reutilização da totalidade ou de uma parte substancial, avaliada qualitativa ou quantitativamente, do conteúdo desta, quando a obtenção, verificação ou apresentação desse conteúdo representem um investimento substancial do ponto de vista qualitativo ou quantitativo.\n\n2. Para efeitos do presente capítulo, entende-se por:\n\na) «Extracção»: a transferência permanente ou temporária da totalidade ou de uma parte substancial do conteúdo de uma base de dados para outro suporte, seja por que meio ou sob que forma for;\n\nb) «Reutilização»: qualquer forma de pôr à disposição do público a totalidade ou uma parte substancial do conteúdo da base através da distribuição de cópias, aluguer, transmissão em linha ou sob qualquer outra forma. A primeira venda de uma cópia de uma base de dados na Comunidade efectuada pelo titular do direito ou com o seu consentimento esgota o direito de controlar a revenda dessa cópia na Comunidade.\n\nO comodato público não constitui um acto de extracção ou de reutilização.\n\n3. O direito previsto no nº 1 pode ser transferido, cedido ou objecto de licenças contratuais.\n\n4. O direito previsto no nº 1 é aplicável independentemente de a base de dados poder ser protegida pelo direito de autor ou por outros direitos. Além disso, esse direito será igualmente aplicável independentemente de o conteúdo da base de dados poder ser protegido pelo direito de autor ou por outros direitos. A protecção das bases de dados pelo direito previsto no nº 1 não prejudica os direitos existentes sobre o seu conteúdo.\n\n5. Não serão permitidas a extracção e/ou reutilização e sistemáticas de partes não susbstanciais do conteúdo da base de dados que pressuponham actos contrários à exploração normal dessa base, ou que possam causar um prejuízo injustificado aos legítimos interesses do fabricante da base."
+  },
+  "0f32b513a3756deb": {
+   "fragment_id": "Artigo 8º — Direitos e obrigações do utilizador legítimo",
+   "type": "artigo",
+   "heading": "Artigo 8º — Direitos e obrigações do utilizador legítimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º — Direitos e obrigações do utilizador legítimo\n\n1. O fabricante de uma base de dados posta à disposição do público, seja por que meio for, não pode impedir o utilizador legítimo dessa base de extrair e/ou reutilizar partes não substanciais do respectivo conteúdo, avaliadas qualitativa ou quantitativamente, para qualquer efeito. Se o utilizador legítimo estiver autorizado a extrair e/ou a reutilizar apenas uma parte da base de dados, o presente número é aplicável unicamente a essa parte.\n\n2. O utilizador legítimo de uma base de dados posta à disposição do público, seja por que meio for, não pode praticar quaisquer actos que colidam com a exploração normal dessa base, ou lesem injustificadamente os legítimos interesses do fabricante da base.\n\n3. O utilizador legítimo de uma base de dados posta à disposição do público, seja por que meio for, não pode prejudicar o titular de um direito de autor ou de um direito conexo sobre obras ou prestações contidas nessa base."
+  },
+  "ea9c7b104c1216dd": {
+   "fragment_id": "Artigo 9º — Excepções ao direito sui generis",
+   "type": "artigo",
+   "heading": "Artigo 9º — Excepções ao direito sui generis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º — Excepções ao direito sui generis\n\nOs Estados-membros podem prever que o utilizador legítimo de uma base de dados posta à disposição do público, seja por que meio for, possa, sem autorização do fabricante da base extrair e/ou reutilizar uma parte substancial do seu conteúdo:\n\na) Sempre que se trate de uma extracção para fins particulares do conteúdo de uma base de dados não electrónica;\n\nb) Sempre que se trate de uma extracção para fins de ilustração didáctica ou de investigação científica, desde que indique a fonte e na medida em que tal se justifique pelo objectivo não comerical a atingir;\n\nc) Sempre que se trate de uma extracção e/ou de uma reutilização para fins de segurança pública ou para efeitos de um processo administrativo ou judicial."
+  },
+  "6013f260e593e6f8": {
+   "fragment_id": "Artigo 10º — Prazo de protecção",
+   "type": "artigo",
+   "heading": "Artigo 10º — Prazo de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º — Prazo de protecção\n\n1. O direito previsto no artigo 7º produz efeitos a partir da data de conclusão do fabrico da base de dados, e expira ao fim de 15 anos a contar de 1 de Janeiro do ano seguinte ao da data de conclusão.\n\n2. No caso de uma base de dados que tenha sido posta à disposição do público antes do decurso do prazo previsto no nº 1, o prazo de protecção por este direito terminará ao fim de quinze anos a contar de 1 de Janeiro do ano seguinte àquele em que a base de dados tiver sido posta pela primeira vez à disposição do público.\n\n3. Qualquer modificação substancial, avaliada quantitativa ou qualitativamente, do conteúdo de uma base de dados, incluindo quaisquer modificações substancias resultantes da acumulação de aditamentos, supressões ou alterações sucessivos que levem a considerar que se trata de un novo investimento substancial, avaliado qualitativa ou quantitativamente, permitirá atribuir à base resultante desse investimento um período de protecção próprio."
+  },
+  "ea799ad0504cb6b6": {
+   "fragment_id": "Artigo 11º — Beneficiários do direito sui generis",
+   "type": "artigo",
+   "heading": "Artigo 11º — Beneficiários do direito sui generis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º — Beneficiários do direito sui generis\n\n1. O direito previsto no artigo 7º é aplicável às bases de dados cujo fabricante ou o titular do direito sejam nacionais dos Estados-membros ou tenham residência habitual no território da Comunidade.\n\n2. O nº 1 do presente artigo é igualmente aplicável às sociedades e empresas constituídas nos termos do direito de um Estado-membro e que tenham a sua sede social, administração central ou estabelecimento principal na Comunidade. Todavia, se essa sociedade ou empresa tiver apenas a sua sede social no território da Comunidade, a sua actividade deverá possuir uma ligação real e permanente com a economia de um dos Estados-membros.\n\n3. O Conselho, sob proposta da Comissão, celebrará acordos que tornem o direito previsto no artigo 7º extensivo às bases de dados fabricadas em países terceiros e que não sejam abrangidas pelos nºs 1 e 2. O período de protecção reconhecido à base de dados em virtude deste procedimento não pode exceder o prazo previsto no artigo 10º."
+  },
+  "fe2223738b88df9f": {
+   "fragment_id": "CAPÍTULO IV — DISPOSIÇÕES COMUNS",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — DISPOSIÇÕES COMUNS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — DISPOSIÇÕES COMUNS"
+  },
+  "df1774d4b3f5d80f": {
+   "fragment_id": "Artigo 12º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 12º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º — Sanções\n\nOs Estados-membros preverão sanções adequadas contra a violação dos direitos previstos na presente directiva."
+  },
+  "3b36c5f759536e05": {
+   "fragment_id": "Artigo 13º — Aplicação de outras disposições legais",
+   "type": "artigo",
+   "heading": "Artigo 13º — Aplicação de outras disposições legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º — Aplicação de outras disposições legais\n\nO disposto na presente directiva não prejudica as disposições relativas nomeadamente ao direito de autor, aos direitos conexos ou a quaisquer outros direitos ou obrigações que subsistam sobre os dados, obras ou outros elementos incorporados numa base de dados, as patentes, marcas, desenhos e modelos, protecção dos tesouros nacionais, a legislação sobre acordos, as decisões ou prácticas concertadas entre empresas e concorrência desleal, o segredo comercial, a segurança, a confidencialidade, a protecção dos dados pessoais e da vida privada, o acesso aos documentos públicos ou o direito dos contratos."
+  },
+  "062e917268c29995": {
+   "fragment_id": "Artigo 14º — Aplicação no tempo",
+   "type": "artigo",
+   "heading": "Artigo 14º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º — Aplicação no tempo\n\n1. A protecção prevista na presente directiva em relação ao direito de autor abrangerá igualmente as bases de dados criadas antes da data referida no nº 1 do artigo 16º que nessa data preencham os requisitos previstos na presente directiva quanto à protecção das bases de dados pelo direito de autor.\n\n2. Em derrogação do nº 1, sempre que uma base de dados protegida por um regime de direitos de autor num Estado-membro à data de publicação da presente directiva não corresponda aos critérios de elegibilidade para a protecção a título de direito de autor previsto no nº 1 do artigo 3º, a presente directiva não terá por efeito a redução, nesse Estado-membro, do prazo de protecção concedido a título do regime acima referido ainda por decorrer.\n\n3. A protecção prevista na presente directiva em relação ao direito referido no artigo 7º abrangerá igualmente as bases de dados cujo fabrico foi concluído durante os quinze anos anteriores à data referida no nº 1 do artigo 16º e que nessa data preencham os requisitos previstos no artigo 7º.\n\n4. A protecção prevista nos nºs 1 e 3 não prejudica os actos concluídos e os direitos adquiridos antes da data referida nesses números.\n\n5. No caso de uma base de dados cujo fabrico tenha sido concluído durante os quinze anos anteriores à data referida no nº 1 do artigo 16º, o período de protecção do direito previsto no artigo 7º é de quinze anos a contar de 1 de Janeiro do ano seguinte a essa data."
+  },
+  "0ebd74401da7832d": {
+   "fragment_id": "Artigo 15º — Carácter imperativo de certas disposições",
+   "type": "artigo",
+   "heading": "Artigo 15º — Carácter imperativo de certas disposições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º — Carácter imperativo de certas disposições\n\nÉ nula qualquer disposição contratual contrária ao nº 1 do artigo 6º e ao artigo 8º."
+  },
+  "ab694b86a417c53b": {
+   "fragment_id": "Artigo 16º — Disposições finais",
+   "type": "artigo",
+   "heading": "Artigo 16º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º — Disposições finais\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 1 de Janeiro de 1998.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva.\n\n3. O mais tardar no final do terceiro ano subsequente à data referida no nº 1 e, posteriormente, de três em três anos, a Comissão apresentará ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social um relatório sobre a aplicação da presente directiva, no qual, designadamente com base em informações específicas fornecidas pelos Estados-membros, analisará nomeadamente a aplicação do direito sui generis, incluindo os artigos 8º e 9º, e, verificará, em especial, se a aplicação daquele direito deu origem a abusos de posição dominante ou a outros atentados à livre concorrência que justifiquem medidas apropriadas, entre as quais a instituição de um regime de licenças não voluntárias. A Comissão apresentará, se necessário, propostas de adaptação da presente directiva à evolução do sector das bases de dados."
+  },
+  "2dfba97002cc9030": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Estrasburgo, em 11 de Março de 1996.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nK. HÄNSCHPelo Conselho\n\nO Presidente\n\nL. DINI\n\n(1) JO nº C 156 de 23. 6. 1992, p. 4; e\n\nJO nº C 308 de 15. 11. 1993, p. 1.\n\n(2) JO nº C 19 de 25. 1. 1993, p. 3.\n\n(3) Parecer do Parlamento Europeu de 23 de Junho de 1993 (JO nº C 194 de 19. 7. 1993, p. 144), posição comum do Conselho de 10 de Julho de 1995 (JO nº C 288 de 30. 10. 1995, p. 14) e decisão do Parlamento Europeu de 14 de Dezembro de 1995 (JO nº C 17 de 22. 1. 1996). Decisão do Conselho de 26 de Fevereiro de 1996.\n\n(4) JO nº L 122 de 17. 5. 1991, p. 42. Directiva com a última redacção que lhe foi dada pela Directiva 93/98/CE (JO nº L 290 de 24. 11. 1993, p. 9).\n\n(5) JO nº L 346 de 27. 11. 1992, p. 61.\n\n(6) JO nº L 290 de 24. 11. 1993, p. 9.\n\n(7) JO nº L 281 de 23. 11. 1995, p. 31."
+  },
+  "67510f70470631a6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Março de 1996\n\nrelativa à protecção jurídica das bases de dados"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "707b247288f2485e": {
+   "fragment_id": "ÂMBITO DE APLICAÇÃO",
+   "type": "divisao",
+   "heading": "ÂMBITO DE APLICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ÂMBITO DE APLICAÇÃO"
+  },
+  "1d480795af73ea26": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1. A presente directiva diz respeito à protecção jurídica das bases de dados, seja qual for a forma de que estas se revistam.\n\n2. Para efeitos da presente directiva, entende-se por «base de dados», uma colectânea de obras, dados ou outros elementos independentes, dispostos de modo sistemático ou metódico e susceptíveis de acesso individual por meios electrónicos ou outros.\n\n3. A protecção prevista na presente directiva não é aplicável aos programas de computador utilizados no fabrico ou no funcionamento de bases de dados acessíveis por meios electrónicos."
+  },
+  "462e9a7ad6631730": {
+   "fragment_id": "Artigo 2.º — Restrições ao âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Restrições ao âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Restrições ao âmbito de aplicação\n\nA presente directiva é aplicável sem prejuízo das disposições comunitárias relativas:\n\na) À protecção jurídica dos programas de computador;\n\nb) Ao direito de aluguer e de comodato e a certos direitos conexos ao direito de autor no domínio da propriedade intelectual;\n\nc) Ao prazo de protecção pelo direito de autor e por certos direitos conexos."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "34250f14d6d11acd": {
+   "fragment_id": "DIREITO DE AUTOR",
+   "type": "divisao",
+   "heading": "DIREITO DE AUTOR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DIREITO DE AUTOR"
+  },
+  "31d7a3bc319e888c": {
+   "fragment_id": "Artigo 3.º — Objecto da protecção",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Objecto da protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objecto da protecção\n\n1. Nos termos da presente directiva, as bases de dados que, devido à selecção ou disposição das matérias, constituam uma criação intelectual específica do respectivo autor, serão protegidas nessa qualidade pelo direito de autor. Não serão aplicáveis quaisquer outros critérios para determinar se estas podem beneficiar dessa protecção.\n\n2. A protecção das bases de dados pelo direito de autor prevista na presente directiva não abrange o seu conteúdo e em nada prejudica eventuais direitos que subsistam sobre o referido conteúdo."
+  },
+  "9b37288820ed2ee7": {
+   "fragment_id": "Artigo 4.º — Qualidade de autor da base de dados",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Qualidade de autor da base de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Qualidade de autor da base de dados\n\n1. O autor de uma base de dados é a pessoa singular ou o grupo de pessoas singulares que criou a base ou, quando a legislação dos Estados-membros o permita, a pessoa colectiva considerada por aquela legislação como titular do direito.\n\n2. Se a legislação do Estado-membro reconhecer as obras colectivas, os direitos patrimoniais pertencerão à pessoa investida do direito de autor.\n\n3. Se uma base de dados tiver sido criada conjuntamente por várias pessoas singulares, os direitos exclusivos pertencer-lhes-ão conjuntamente."
+  },
+  "1e1e9dc40750bdcb": {
+   "fragment_id": "Artigo 5.º — Actos sujeitos a restrições",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Actos sujeitos a restrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Actos sujeitos a restrições\n\nO autor de uma base de dados beneficia do direito exclusivo de efectuar ou autorizar os seguintes actos relativos à forma de expressão protegida pelo direito de autor:\n\na) Reprodução permanente ou provisória, total ou parcial, por quaisquer meios e sob qualquer forma;\n\nb) Tradução, adaptação, transformação ou qualquer outra modificação;\n\nc) Qualquer forma de distribuição da base ou de uma cópia ao público. A primeira comercialização na Comunidade da cópia de uma base de dados efectuada pelo titular do direito, ou com o seu consentimento, esgotará o direito de controlar a revenda dessa mesma cópia na Comunidade;\n\nd) Qualquer comunicação, exposição ou representação pública;\n\ne) Qualquer reprodução, distribuição, comunicação, exposição ou representação pública dos resultados dos actos citados na alínea b)."
+  },
+  "8a6fe61f60300b06": {
+   "fragment_id": "Artigo 6.º — Excepções aos actos sujeitos a restrições",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Excepções aos actos sujeitos a restrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Excepções aos actos sujeitos a restrições\n\n1. O utilizador legítimo de uma base de dados ou das suas cópias pode efectuar todos os actos enumerados no artigo 5.º, necessários para aceder ao conteúdo da base de dados e para a utilizar em condições normais sem autorização do autor da base. Se o utilizador legítimo estiver autorizado a utilizar apenas uma parte da base de dados, o presente número é aplicável unicamente a essa parte.\n\n2. Os Estados-membros têm a faculdade de prever restrições aos direitos referidos no artigo 5.º nos seguintes casos:\n\na) Sempre que se trate de uma reprodução para fins particulares de uma base de dados não electrónica;\n\nb) Sempre que a utilização seja feita exclusivamente com fins de ilustração didática ou de investigação científica, desde que indique a fonte, na medida em que isso se justifique pelo objetivo não comercial a prosseguir, sem prejuízo das exceções e limitações previstas na Diretiva (UE) 2019/790 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/b748608c-875e-11e9-9f05-01aa75ed71a1.0019.03/DOC_1#E0001));\n\nc) Sempre que se trate de uma utilização para fins de segurança pública, ou para efeitos de um processo administrativo ou judicial;\n\nd) Sempre que se trate de outras excepções ao direito de autor tradicionalmente previstas no seu direito interno, sem prejuízo do disposto nas alíneas a), b) e c).\n\n3. De acordo com a Convenção de Berna para a protecção das obras literárias e artísticas, o presente artigo não pode ser interpretado no sentido de permitir a sua aplicação de uma forma que cause um prejuízo injustificado aos legítimos interesses do titular dos direitos ou que prejudique a exploração normal da base de dados."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "5067ac1e807f4fba": {
+   "fragment_id": "DIREITO SUI GENERIS",
+   "type": "divisao",
+   "heading": "DIREITO SUI GENERIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DIREITO SUI GENERIS"
+  },
+  "1f1220cfcc086609": {
+   "fragment_id": "Artigo 7.º — Objecto da protecção",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Objecto da protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Objecto da protecção\n\n1. Os Estados-membros instituirão o direito de o fabricante de uma base de dados proibir a extracção e/ou a reutilização da totalidade ou de uma parte substancial, avaliada qualitativa ou quantitativamente, do conteúdo desta, quando a obtenção, verificação ou apresentação desse conteúdo representem um investimento substancial do ponto de vista qualitativo ou quantitativo.\n\n2. Para efeitos do presente capítulo, entende-se por:\n\na) «Extracção»: a transferência permanente ou temporária da totalidade ou de uma parte substancial do conteúdo de uma base de dados para outro suporte, seja por que meio ou sob que forma for;\n\nb) «Reutilização»: qualquer forma de pôr à disposição do público a totalidade ou uma parte substancial do conteúdo da base através da distribuição de cópias, aluguer, transmissão em linha ou sob qualquer outra forma. A primeira venda de uma cópia de uma base de dados na Comunidade efectuada pelo titular do direito ou com o seu consentimento esgota o direito de controlar a revenda dessa cópia na Comunidade.\n\nO comodato público não constitui um acto de extracção ou de reutilização.\n\n3. O direito previsto no n.º 1 pode ser transferido, cedido ou objecto de licenças contratuais.\n\n4. O direito previsto no n.º 1 é aplicável independentemente de a base de dados poder ser protegida pelo direito de autor ou por outros direitos. Além disso, esse direito será igualmente aplicável independentemente de o conteúdo da base de dados poder ser protegido pelo direito de autor ou por outros direitos. A protecção das bases de dados pelo direito previsto no n.º 1 não prejudica os direitos existentes sobre o seu conteúdo.\n\n5. Não serão permitidas a extracção e/ou reutilização e sistemáticas de partes não susbstanciais do conteúdo da base de dados que pressuponham actos contrários à exploração normal dessa base, ou que possam causar um prejuízo injustificado aos legítimos interesses do fabricante da base."
+  },
+  "d545a46e852928be": {
+   "fragment_id": "Artigo 8.º — Direitos e obrigações do utilizador legítimo",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Direitos e obrigações do utilizador legítimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direitos e obrigações do utilizador legítimo\n\n1. O fabricante de uma base de dados posta à disposição do público, seja por que meio for, não pode impedir o utilizador legítimo dessa base de extrair e/ou reutilizar partes não substanciais do respectivo conteúdo, avaliadas qualitativa ou quantitativamente, para qualquer efeito. Se o utilizador legítimo estiver autorizado a extrair e/ou a reutilizar apenas uma parte da base de dados, o presente número é aplicável unicamente a essa parte.\n\n2. O utilizador legítimo de uma base de dados posta à disposição do público, seja por que meio for, não pode praticar quaisquer actos que colidam com a exploração normal dessa base, ou lesem injustificadamente os legítimos interesses do fabricante da base.\n\n3. O utilizador legítimo de uma base de dadso posta à disposição do público, seja por que meio for, não pode prejudicar o titular de um direito de autor ou de um direito conexo sobre obras ou prestações contidas nessa base."
+  },
+  "5c61e3f40218d589": {
+   "fragment_id": "Artigo 9.º — Excepções ao direito sui generis",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Excepções ao direito sui generis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Excepções ao direito sui generis\n\nOs Estados-membros podem prever que o utilizador legítimo de uma base de dados posta à disposição do público, seja por que meio for, possa, sem autorização do fabricante da base extrair e/ou reutilizar uma parte substancial do seu conteúdo:\n\na) Sempre que se trate de uma extracção para fins particulares do conteúdo de uma base de dados não electrónica;\n\nb) Sempre que se trate de uma extração para fins de ilustração didática ou de investigação científica, desde que indique a fonte e na medida em que tal se justifique pelo objetivo não comercial a atingir, sem prejuízo das exceções e limitações previstas na Diretiva (UE) 2019/790;\n\nc) Sempre que se trate de uma extracção e/ou de uma reutilização para fins de segurança pública ou para efeitos de um processo administrativo ou judicial."
+  },
+  "df51112c1ca8319c": {
+   "fragment_id": "Artigo 10.º — Prazo de protecção",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Prazo de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Prazo de protecção\n\n1. O direito previsto no artigo 7.º produz efeitos a partir da data de conclusão do fabrico da base de dados, e expira ao fim de 15 anos a contar de 1 de Janeiro do ano seguinte ao da data de conclusão.\n\n2. No caso de uma base de dados que tenha sido posta à disposição do público antes do decurso do prazo previsto no n.º 1, o prazo de protecção por este direito terminará ao fim de quinze anos a contar de 1 de Janeiro do ano seguinte àquele em que a base de dados tiver sido posta pela primeira vez à disposição do público.\n\n3. Qualquer modificação substancial, avaliada quantitativa ou qualitativamente, do conteúdo de uma base de dados, incluindo quaisquer modificações substancias resultantes da acumulação de aditamentos, supressões ou alterações sucessivos que levem a considerar que se trata de un novo investimento substancial, avaliado qualitativa ou quantitativamente, permitirá atribuir à base resultante desse investimento um período de protecção próprio."
+  },
+  "ad8af62448290eb6": {
+   "fragment_id": "Artigo 11.º — Beneficiários do direito sui generis",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Beneficiários do direito sui generis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Beneficiários do direito sui generis\n\n1. O direito previsto no artigo 7.º é aplicável às bases de dados cujo fabricante ou o titular do direito sejam nacionais dos Estados-membros ou tenham residência habitual no território da Comunidade.\n\n2. O n.º 1 do presente artigo é igualmente aplicável às sociedades e empresas constituídas nos termos do direito de um Estado-membro e que tenham a sua sede social, administração central ou estabelecimento principal na Comunidade. Todavia, se essa sociedade ou empresa tiver apenas a sua sede social no território da Comunidade, a sua actividade deverá possuir uma ligação real e permanente com a economia de um dos Estados-membros.\n\n3. O Conselho, sob proposta da Comissão, celebrará acordos que tornem o direito previsto no artigo 7.º extensivo às bases de dados fabricadas em países terceiros e que não sejam abrangidas pelos n.^os^ 1 e 2. O período de protecção reconhecido à base de dados em virtude deste procedimento não pode exceder o prazo previsto no Artigo 10.º."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "3a2293c837b31c16": {
+   "fragment_id": "DISPOSIÇÕES COMUNS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES COMUNS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES COMUNS"
+  },
+  "acedf958c8544039": {
+   "fragment_id": "Artigo 12.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Sanções\n\nOs Estados-membros preverão sanções adequadas contra a violação dos direitos previstos na presente directiva."
+  },
+  "9ed8719d2a9075c7": {
+   "fragment_id": "Artigo 13.º — Aplicação de outras disposições legais",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Aplicação de outras disposições legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Aplicação de outras disposições legais\n\nO disposto na presente directiva não prejudica as disposições relativas nomeadamente ao direito de autor, aos direitos conexos ou a quaisquer outros direitos ou obrigações que subsistam sobre os dados, obras ou outros elementos incorporados numa base de dados, as patentes, marcas, desenhos e modelos, protecção dos tesouros nacionais, a legislação sobre acordos, as decisões ou prác- ticas concertadas entre empresas e concorrência desleal, o segredo comercial, a segurança, a confidencialidade, a protecção dos dados pessoais e da vida privada, o acesso aos documentos públicos ou o direito dos contratos."
+  },
+  "599c4c38e059279b": {
+   "fragment_id": "Artigo 14.º — Aplicação no tempo",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Aplicação no tempo\n\n1. A protecção prevista na presente directiva em relação ao direito de autor abrangerá igualmente as bases de dados criadas antes da data referida no n.º 1 do artigo 16.º que nessa data preencham os requisitos previstos na presente directiva quanto à protecção das bases de dados pelo direito de autor.\n\n2. Em derrogação do n.º 1, sempre que uma base de dados protegida por um regime de direitos de autor num Estado-membro à data de publicação da presente directiva não corresponda aos critérios de elegibilidade para a protecção a título de direito de autor previsto no n.º 1 do artigo 3.º, a presente directiva não terá por efeito a redução, nesse Estado-membro, do prazo de protecção concedido a título do regime acima referido ainda por decorrer.\n\n3. A protecção prevista na presente directiva em relação ao direito referido no artigo 7.º abrangerá igualmente as bases de dados cujo fabrico foi concluído durante os quinze anos anteriores à data referida no n.º 1 do artigo 16.º e que nessa data preencham os requisitos previstos no Artigo 7.º.\n\n4. A protecção prevista nos n.º ^s^ 1 e 3 não prejudica os actos concluídos e os direitos adquiridos antes da data referida nesses números.\n\n5. No caso de uma base de dados cujo fabrico tenha sido concluído durante os quinze anos anteriores à data referida no n.º 1 do artigo 16.º, o período de protecção do direito previsto no artigo 7.º é de quinze anos a contar de 1 de Janeiro do ano seguinte a essa data."
+  },
+  "3acc0c7b95330579": {
+   "fragment_id": "Artigo 15.º — Carácter imperativo de certas disposições",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Carácter imperativo de certas disposições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Carácter imperativo de certas disposições\n\nÉ nula qualquer disposição contratual contrária ao n.º 1 do artigo 6.º e ao Artigo 8.º."
+  },
+  "3d6e9daebdd5b69f": {
+   "fragment_id": "Artigo 16.º — Disposições finais",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Disposições finais\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 1 de Janeiro de 1998.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva.\n\n3. O mais tardar no final do terceiro ano subsequente à data referida no n.º 1 e, posteriormente, de três em três anos, a Comissão apresentará ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social um relatório sobre a aplicação da presente directiva, no qual, designadamente com base em informações específicas fornecidas pelos Estados-membros, analisará nomeadamente a aplicação do direito sui generis, incluindo os artigos 8.º e 9.º, e, verificará, em especial, se a aplicação daquele direito deu origem a abusos de posição dominante ou a outros atentados à livre concorrência que justifiquem medidas apropriadas, entre as quais a instituição de um regime de licenças não voluntárias. A Comissão apresentará, se necessário, propostas de adaptação da presente directiva à evolução do sector das bases de dados."
+  },
+  "67b89c3ce8bbea20": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nOs Estados-membros são destinatários da presente directiva.\n\n---"
+  },
+  "52ebe6d95086199d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b748608c-875e-11e9-9f05-01aa75ed71a1.0019.03/DOC_1#src.E0001)) Diretiva (UE) 2019/790 do Parlamento Europeu e do Conselho, de 17 de abril de 2019, relativa aos direitos de autor e direitos conexos no mercado único digital e que altera as Diretivas 96/9/CE e 2001/29/CE (JO L 130 de 17.5.2019, p. 92)."
+  }
+ }
+}

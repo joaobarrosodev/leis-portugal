@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:130603048:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-130694337",
+ "dre_path": "/dr/detalhe/portaria/80-a-2020-130603048",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-03-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "130694261",
+    "130694258"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:130603072:por",
+     "title": "Declaração de Retificação n.º 11-E/2020",
+     "published": "2020-03-25",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/11-e-2020-130603072",
+     "date": "2020-03-26"
+    }
+   ]
+  },
+  {
+   "date": "2020-04-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:131292957:por",
+     "title": "Portaria n.º 90/2020",
+     "published": "2020-04-09",
+     "dre_path": "/dr/detalhe/portaria/90-2020-131292957"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "131290559",
+    "130694258"
+   ]
+  },
+  {
+   "date": "2020-05-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:133879986:por",
+     "title": "Decreto-Lei n.º 21/2020",
+     "published": "2020-05-16",
+     "dre_path": "/dr/detalhe/decreto-lei/21-2020-133879986"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "134191577",
+    "134191578"
+   ]
+  }
+ ],
+ "fragments": {
+  "130694261": {
+   "fragment_id": "130694338",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2020-03-26",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 11-E/2020 - Diário da República n.º 60/2020, 2º Suplemento, Série I de 2020-03-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-e-2020-130603072), em vigor a partir de 2020-03-26"
+   ],
+   "markdown": "Portaria n.º 80-A/2020\n\nde 25 de março\n\nSumário: Regula o regime de prestação de serviços essenciais de inspeção de veículos.\n\nO Decreto n.º 2-A/2020, de 20 de março, veio regulamentar a aplicação do estado de emergência decretado pelo Decreto do Presidente da República n.º 14-A/2020, de 18 de março, com fundamento na verificação de uma situação de calamidade pública, ocasionada pela doença COVID-19 enquanto pandemia internacional.\n\nO referido Decreto n.º 2-A/2020, de 20 de março, procedeu à criação de um conjunto de medidas, designadamente em matéria de circulação na via pública e de funcionamento ou suspensão de determinados tipos de instalações, estabelecimentos e atividades, com o intuito de conter a transmissão do vírus e conter a expansão da doença COVID-19.\n\nNo caso do setor dos transportes e especificamente em matéria de inspeções técnicas periódicas de veículos a motor e seus reboques, a implementação de tais medidas impossibilita as entidades gestoras de centros de inspeção de cumprir a totalidade das obrigações previstas nos respetivos contratos de gestão.\n\nDeste modo, é essencial garantir que são assegurados os serviços essenciais, apenas por marcação, referentes a alguns veículos.\n\nEm conformidade, foi aprovado o Decreto-Lei n.º 10-C/2020, de 23 de março, que estabelece medidas excecionais e temporárias de resposta à epidemia SARS-CoV-2 no âmbito das inspeções técnicas periódicas de veículos a motor e seus reboques.\n\nNos termos previstos no artigo 4.º, n.º 1, do Decreto-Lei n.º 10-C/2020, de 23 de março, o regime de prestação de serviços essenciais de inspeção é definido por portaria do membro do Governo responsável pela área dos transportes, sob proposta do Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.).\n\nAssim, nos termos previstos no mencionado artigo 4.º, n.º 1, do Decreto-Lei n.º 10-C/2020, de 23 de março, manda o Governo, pelo Secretário de Estado das Infraestruturas, o seguinte:\n\n1 - As entidades gestoras encerram os centros de inspeção, mantendo-se o atendimento para a prestação dos serviços essenciais, mediante marcação.\n\n2 - As entidades gestoras informam o IMT, I. P., de quais são os centros de inspeção que, até ao dia 30 de junho de 2020, asseguram a prestação dos serviços essenciais.\n\n3 - São serviços essenciais os serviços de inspeção que têm obrigatoriamente de serem realizados, por marcação, referentes aos seguintes veículos:\n\na) Automóveis pesados de passageiros (M2 e M3);\n\nb) Automóveis pesados de mercadorias (N2 e N3);\n\nc) Reboques e semirreboques com peso bruto igual ou superior 3500 kg (O3 e O4), com exceção dos reboques agrícolas;\n\nd) Automóveis ligeiros licenciados para o transporte público de passageiros e ambulâncias;\n\ne) Reinspeções a veículos anteriormente reprovados;\n\nf) Inspeções para atribuição de nova matrícula de importados usados;\n\ng) Inspeções extraordinárias para reaver documentos;\n\nh) Automóveis ligeiros de passageiros (M1), utilizados para transporte internacional, para deslocação autorizada;\n\ni) Automóveis utilizados no transporte escolar.\n\n4 - Os centros de inspeção que asseguram a prestação dos serviços essenciais devem cumprir as instruções da Direção-Geral da Saúde.\n\n5 - São aplicáveis as regras de segurança e higiene previstas no artigo 13.º do Decreto n.º 2-A/2020, de 20 de março, com as devidas adaptações, bem como as regras de higiene e sanitárias definidas pela Direção-Geral da Saúde.\n\n> Retificado pelo/a [Declaração de Retificação n.º 11-E/2020 - Diário da República n.º 60/2020, 2º Suplemento, Série I de 2020-03-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-e-2020-130603072), em vigor a partir de 2020-03-26"
+  },
+  "130694258": {
+   "fragment_id": "130694339",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado das Infraestruturas, Jorge Moreno Delgado, em 24 de março de 2020.\n\n100000213"
+  },
+  "131290559": {
+   "fragment_id": "130694338",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2020-04-10",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 11-E/2020 - Diário da República n.º 60/2020, 2º Suplemento, Série I de 2020-03-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-e-2020-130603072), em vigor a partir de 2020-03-26",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2020 - Diário da República n.º 71/2020, Série I de 2020-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/90-2020-131292957), em vigor a partir de 2020-04-10"
+   ],
+   "markdown": "Portaria n.º 80-A/2020\n\nde 25 de março\n\nSumário: Regula o regime de prestação de serviços essenciais de inspeção de veículos.\n\nO Decreto n.º 2-A/2020, de 20 de março, veio regulamentar a aplicação do estado de emergência decretado pelo Decreto do Presidente da República n.º 14-A/2020, de 18 de março, com fundamento na verificação de uma situação de calamidade pública, ocasionada pela doença COVID-19 enquanto pandemia internacional.\n\nO referido Decreto n.º 2-A/2020, de 20 de março, procedeu à criação de um conjunto de medidas, designadamente em matéria de circulação na via pública e de funcionamento ou suspensão de determinados tipos de instalações, estabelecimentos e atividades, com o intuito de conter a transmissão do vírus e conter a expansão da doença COVID-19.\n\nNo caso do setor dos transportes e especificamente em matéria de inspeções técnicas periódicas de veículos a motor e seus reboques, a implementação de tais medidas impossibilita as entidades gestoras de centros de inspeção de cumprir a totalidade das obrigações previstas nos respetivos contratos de gestão.\n\nDeste modo, é essencial garantir que são assegurados os serviços essenciais, apenas por marcação, referentes a alguns veículos.\n\nEm conformidade, foi aprovado o Decreto-Lei n.º 10-C/2020, de 23 de março, que estabelece medidas excecionais e temporárias de resposta à epidemia SARS-CoV-2 no âmbito das inspeções técnicas periódicas de veículos a motor e seus reboques.\n\nNos termos previstos no artigo 4.º, n.º 1, do Decreto-Lei n.º 10-C/2020, de 23 de março, o regime de prestação de serviços essenciais de inspeção é definido por portaria do membro do Governo responsável pela área dos transportes, sob proposta do Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.).\n\nAssim, nos termos previstos no mencionado artigo 4.º, n.º 1, do Decreto-Lei n.º 10-C/2020, de 23 de março, manda o Governo, pelo Secretário de Estado das Infraestruturas, o seguinte:\n\n1 - As entidades gestoras encerram os centros de inspeção, mantendo-se o atendimento para a prestação dos serviços essenciais, mediante marcação.\n\n2 - As entidades gestoras informam o IMT, I. P., de quais são os centros de inspeção que, até ao dia 30 de junho de 2020, asseguram a prestação dos serviços essenciais.\n\n3 - São serviços essenciais os serviços de inspeção que têm obrigatoriamente de serem realizados, por marcação, referentes aos seguintes veículos:\n\na) Automóveis pesados de passageiros (M2 e M3);\n\nb) Automóveis pesados de mercadorias (N2 e N3);\n\nc) Reboques e semirreboques com peso bruto igual ou superior 3500 kg (O3 e O4), com exceção dos reboques agrícolas;\n\nd) Automóveis ligeiros licenciados para o transporte público de passageiros e ambulâncias;\n\ne) Reinspeções a veículos anteriormente reprovados;\n\nf) Inspeções para atribuição de nova matrícula de importados usados;\n\ng) Inspeções extraordinárias para reaver documentos;\n\nh) Automóveis ligeiros de passageiros (M1), utilizados para transporte internacional, para deslocação autorizada;\n\ni) Automóveis utilizados no transporte escolar.\n\n4 - Os centros de inspeção que asseguram a prestação dos serviços essenciais devem cumprir as instruções da Direção-Geral da Saúde.\n\n5 - São aplicáveis as regras de segurança e higiene previstas no artigo 13.º do Decreto n.º 2-A/2020, de 20 de março, com as devidas adaptações, bem como as regras de higiene e sanitárias definidas pela Direção-Geral da Saúde.\n\n> Retificado pelo/a [Declaração de Retificação n.º 11-E/2020 - Diário da República n.º 60/2020, 2º Suplemento, Série I de 2020-03-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-e-2020-130603072), em vigor a partir de 2020-03-26\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2020 - Diário da República n.º 71/2020, Série I de 2020-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/90-2020-131292957), em vigor a partir de 2020-04-10"
+  },
+  "134191577": {
+   "fragment_id": "130694338",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2020-05-17",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 11-E/2020 - Diário da República n.º 60/2020, 2º Suplemento, Série I de 2020-03-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-e-2020-130603072), em vigor a partir de 2020-03-26",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2020 - Diário da República n.º 71/2020, Série I de 2020-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/90-2020-131292957), em vigor a partir de 2020-04-10",
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2020-133879986), em vigor a partir de 2020-05-17, produz efeitos a partir de 2020-05-18"
+   ],
+   "markdown": "Portaria n.º 80-A/2020\n\nde 25 de março\n\nSumário: Regula o regime de prestação de serviços essenciais de inspeção de veículos.\n\nO Decreto n.º 2-A/2020, de 20 de março, veio regulamentar a aplicação do estado de emergência decretado pelo Decreto do Presidente da República n.º 14-A/2020, de 18 de março, com fundamento na verificação de uma situação de calamidade pública, ocasionada pela doença COVID-19 enquanto pandemia internacional.\n\nO referido Decreto n.º 2-A/2020, de 20 de março, procedeu à criação de um conjunto de medidas, designadamente em matéria de circulação na via pública e de funcionamento ou suspensão de determinados tipos de instalações, estabelecimentos e atividades, com o intuito de conter a transmissão do vírus e conter a expansão da doença COVID-19.\n\nNo caso do setor dos transportes e especificamente em matéria de inspeções técnicas periódicas de veículos a motor e seus reboques, a implementação de tais medidas impossibilita as entidades gestoras de centros de inspeção de cumprir a totalidade das obrigações previstas nos respetivos contratos de gestão.\n\nDeste modo, é essencial garantir que são assegurados os serviços essenciais, apenas por marcação, referentes a alguns veículos.\n\nEm conformidade, foi aprovado o Decreto-Lei n.º 10-C/2020, de 23 de março, que estabelece medidas excecionais e temporárias de resposta à epidemia SARS-CoV-2 no âmbito das inspeções técnicas periódicas de veículos a motor e seus reboques.\n\nNos termos previstos no artigo 4.º, n.º 1, do Decreto-Lei n.º 10-C/2020, de 23 de março, o regime de prestação de serviços essenciais de inspeção é definido por portaria do membro do Governo responsável pela área dos transportes, sob proposta do Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.).\n\nAssim, nos termos previstos no mencionado artigo 4.º, n.º 1, do Decreto-Lei n.º 10-C/2020, de 23 de março, manda o Governo, pelo Secretário de Estado das Infraestruturas, o seguinte:\n\n1 - As entidades gestoras encerram os centros de inspeção, mantendo-se o atendimento para a prestação dos serviços essenciais, mediante marcação.\n\n2 - As entidades gestoras informam o IMT, I. P., de quais são os centros de inspeção que, até ao dia 30 de junho de 2020, asseguram a prestação dos serviços essenciais.\n\n3 - São serviços essenciais os serviços de inspeção que têm obrigatoriamente de serem realizados, por marcação, referentes aos seguintes veículos:\n\na) Automóveis pesados de passageiros (M2 e M3);\n\nb) Automóveis pesados de mercadorias (N2 e N3);\n\nc) Reboques e semirreboques com peso bruto igual ou superior 3500 kg (O3 e O4), com exceção dos reboques agrícolas;\n\nd) Automóveis ligeiros licenciados para o transporte público de passageiros e ambulâncias;\n\ne) Reinspeções a veículos anteriormente reprovados;\n\nf) Inspeções para atribuição de nova matrícula de importados usados;\n\ng) Inspeções extraordinárias para reaver documentos;\n\nh) Automóveis ligeiros de passageiros (M1), utilizados para transporte internacional, para deslocação autorizada;\n\ni) Automóveis utilizados no transporte escolar.\n\n4 - Os centros de inspeção que asseguram a prestação dos serviços essenciais devem cumprir as instruções da Direção-Geral da Saúde.\n\n5 - São aplicáveis as regras de segurança e higiene previstas no artigo 13.º do Decreto n.º 2-A/2020, de 20 de março, com as devidas adaptações, bem como as regras de higiene e sanitárias definidas pela Direção-Geral da Saúde.\n\n> Retificado pelo/a [Declaração de Retificação n.º 11-E/2020 - Diário da República n.º 60/2020, 2º Suplemento, Série I de 2020-03-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-e-2020-130603072), em vigor a partir de 2020-03-26\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2020 - Diário da República n.º 71/2020, Série I de 2020-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/90-2020-131292957), em vigor a partir de 2020-04-10\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2020-133879986), em vigor a partir de 2020-05-17, produz efeitos a partir de 2020-05-18"
+  },
+  "134191578": {
+   "fragment_id": "130694339",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2020-05-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2020-133879986), em vigor a partir de 2020-05-17, produz efeitos a partir de 2020-05-18"
+   ],
+   "markdown": "O Secretário de Estado das Infraestruturas, Jorge Moreno Delgado, em 24 de março de 2020.\n\n100000213\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2020-133879986), em vigor a partir de 2020-05-17, produz efeitos a partir de 2020-05-18"
+  }
+ }
+}

@@ -1,0 +1,176 @@
+---
+schema_version: '1.0'
+id: pt:dre:619149:por
+title: Assento n.º 15/94
+short_title: null
+summary: No domínio do n.º 3 do artigo 410.º do Código Civil (redacção do Decreto-Lei n.º 236/80, de 18 de Julho), a omissão
+  das formalidades previstas nesse número não pode ser invocada por terceiros
+jurisdiction: portugal
+territory: null
+document_type: assento
+document_type_label: Assento
+issuing_authority:
+- Supremo Tribunal de Justiça
+proposing_entity: null
+official_number: 15/94
+official_date: null
+publication_date: '1994-10-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 236/1994, Série I-A de 1994-10-12
+  number: '236'
+  series: I
+  supplement: null
+  pages: 6171 - 6172
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/10/236a00/61716172.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/asst/15/1994/10/12/p/dre/pt/html
+  oj: null
+  dre: '619149'
+  dre_path: /dr/detalhe/assento/15-1994-619149
+  internal: pt:dre:619149:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/assento/15-1994-619149
+  metadata_url: https://data.dre.pt/eli/asst/15/1994/10/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/assento/15-1994-619149
+  consolidated_url: null
+  retrieved_at: '2026-10-22T18:27:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2c2ceec2822247498ec0c62341d5df08d5b61862261c2e6da077f8a71a66bb77
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:27:54Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Assinatura Reconhecida
+- Direito Civil
+relationships:
+- type: cites
+  target: pt:dre:220772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477358:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T18:27:54Z'
+  warnings: []
+  errors: []
+---
+
+# Assento n.º 15/94
+
+Processo n.º 84332 - Visto n.º 218
+
+Acordam, em sessão plenária, no Supremo Tribunal de Justiça:
+
+A Caixa Geral de Depósitos, Crédito e Previdência recorre para o tribunal pleno do acórdão deste Supremo Tribunal, certificado a fls. 9 e seguintes, sob a razão de ele se encontrar em oposição com o acórdão deste mesmo Supremo constante a fl. 27 (acórdão fundamento), e no que toca às razões seguintes:
+
+O acórdão recorrido opinou no sentido de que o terceiro (no caso a recorrente Caixa Geral de Depósitos) não pode invocar em juízo a nulidade do contrato-promessa com base em falta de reconhecimento presencial das assinaturas dos outorgantes de contrato-promessa referente a prédio urbano de que fazia parte a fracção autónoma objecto desse contrato, e na falta de certificação pelo notário da existência da respectiva licença de construção, mesmo que seja (esse terceiro) beneficiário de hipoteca sobre tal objecto.
+
+Por sua vez, o acórdão fundamento seguiu entendimento contrário.
+
+No acórdão preliminar, por unanimidade, decidiu-se estar verificada a invocada oposição.
+
+O Exmo. Magistrado do Ministério Público, no seu parecer sobre a solução a dar ao presente conflito jurisprudencial, pronunciou-se favoravelmente à tese do acórdão recorrido, propondo-se se lavre assento com a seguinte redacção:
+
+A omissão dos requisitos constantes do artigo 40.º, n.º 3, do Código Civil não pode ser invocada por terceiros.
+
+Corridos os vistos, cumpre decidir.
+
+O reconhecimento jurisdicional da existência de oposição entre as decisões postas em confronto não impede que o tribunal pleno decida em sentido contrário (artigo 766.º, n.º 3, do Código de Processo Civil).
+
+Reexaminando a questão, alcança-se a conclusão de que a oposição existe.
+
+Dado que os acórdãos fundamento e recorrido foram ditados com referência a situações verificadas no domínio da mesma legislação, qual fosse o artigo 410.º, n.º 3, do Código Civil, na redacção dada pelo [Decreto-Lei n.º 236/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1980-472484), de 18 de Julho (o contrato-promessa a que respeita o acórdão fundamento teve lugar em 18 de Junho de 1981 e o contrato referido no acórdão recorrido ocorreu em 18 de Dezembro de 1985), resta indagar dos demais pressupostos da oposição entre ambos, quais sejam a identidade de situações versadas num e noutro e a expressa oposição entre as soluções neles encontradas.
+
+Que as situações versadas em ambos os acórdãos são idênticas não restam dúvidas, pois ambas se referem a contratos-promessa carecidos de reconhecimento presencial das assinaturas dos promitentes contraentes, além da falta de certificação notarial da licença de utilização ou de construção para os objectos dos contratos.
+
+No que respeita às soluções ditadas nos sobreditos acórdãos (recorrido e fundamento), há que atentar no seguinte:
+
+O acórdão recorrido, de forma directa e frontal, pronuncia-se no sentido de fenecer a terceiro não parte no contra-promessa a possibilidade de invocar em juízo a nulidade do mesmo com assento na verificação de vícios de forma do contrato por omissão dos requisitos postos no artigo 410.º, n.º 3, do Código Civil (redacção do [Decreto-Lei n.º 236/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1980-472484), de 18 de Julho), mesmo que beneficiário fosse de hipoteca sobre o objecto do contrato-promessa.
+
+Por seu lado, o acórdão fundamento, ostensivamente e de modo explícito, refere ser lícito a tal terceiro beneficiário de hipoteca sobre o dito objecto, e portanto titular de relação cuja consistência pode ser afectada pelo negócio (contrato-promessa), invocar em defesa dos seus interesses a referenciada nulidade.
+
+Patente fica, pois, a oposição encontrada nas soluções ditadas pelos acórdãos recorrido e fundamento, justificativa de que sobre ela se pronuncie o tribunal pleno com vista ao alcance da uniformização jurisprudencial sobre o ponto contravertido.
+
+Postos os antecedentes considerandos, avancemos.
+
+Os artigos 410.º e 442.º do Código Civil, na versão aí adoptada e sancionada pelo [Decreto-Lei n.º 47344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47344-1966-477358), de 25 de Novembro de 1966 (que o aprovou), ficaram gizados em moldes um tanto ou quanto simplistas, mas adaptados ao sistema sócio-económico então existente, caracterizado por regular estabilidade.
+
+Assim se exigia para validade do contrato-promessa o simples documento particular assinado pelos promitentes, e como sanção para a retratação injustificada do negócio apenas se previa a perda do sinal passado ou a restituição dele, em dobro, consoante a violação do contrato proviesse de uma ou de outra parte, conforme o definido quanto a tal pela lei.
+
+Nada mais seria preciso, já que as condições de estabilidade económica então vigentes eram de molde a sancionar o contratante relapso que sofreria as consequências da retratação injustificada do negócio a que se obrigara.
+
+Porém, as condições sofreram mutação a derivar de factos vários, como o aumento demográfico gerador de procura de habitação e a explosão inflacionária a influir directamente no preço das habitações disponíveis para negócio.
+
+Daí que, e vários casos surgiram neste sentido, se pudesse dar azo a que o promitente-vendedor se sentisse aliciado a retratar um negócio de contrato-promessa, sujeitando-se contudo e simplesmente à restituição do dobro do sinal que recebera, prejuízo esse que à partida lhe seria largamente compensado com o preço pelo qual depois negociasse o objecto prometido vender, por valor altamente superior ao estipulado no contrato-promessa que retratara.
+
+Para efeitos de pôr termo a tais situações, e com vista a dar mais consistência e solenidade ao contrato-promessa e a prevenir a clandestinidade da construção, surgiu então o n.º 3 do artigo 410.º do Código Civil, introduzido pelo [Decreto-Lei n.º 236/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1980-472484), de 18 de Julho, a estatuir que:
+
+O documento referido no número anterior deve conter o reconhecimento presencial das assinaturas dos outorgantes e a certificação, pelo notário, da existência da respectiva licença de construção. A omissão destes requisitos não é, porém, invocável pelo promitente-vendedor, salvo no caso de ter sido o promitente-comprador que directamente lhe deu causa.
+
+Esta planificação surge, pois, e essencialmente, com vista à defesa do interesse do promitente-comprador, que por vezes, por menos avisado em assuntos de natureza jurídica, pode vir a sentir-se frustrado quanto a negócio que realizou na melhor das boas fés.
+
+Tanto assim que só a ele, segundo o normativo citado, cabe o direito de invocar a imperfeição do negócio por falta das sobreditas e correspectivas formalidades de lei no devido instrumento (salvo se para tal directamente houver contribuído).
+
+Tudo isto ressurge do relatório do [Decreto-Lei n.º 236/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1980-472484) citado, como do expendido pelo Dr. Calvão da Silva, in "Sinal e contrato-promessa", Boletim da Faculdade de Direito de Coimbra, número especial, Estudos em Homenagem ao Prof. Eduardo Correia, II, 1984, pp. 83 e seguintes.
+
+Aqui chegados será ocasião de pronunciamento sobre o ponto específico em questão neste recurso, qual seja o de saber se a supra-indicada omissão das formalidades prescritas no n.º 3 do artigo 410.º do Código Civil - redacção do [Decreto-Lei n.º 236/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1980-472484) - consubstanciará plena e absoluta nulidade invocada por qualquer, e de conhecimento oficioso, também, pelo tribunal, ou não.
+
+O acórdão fundamento pronuncia-se pela afirmativa, enquanto o recorrido envereda em contrário sentido.
+
+Vamos afoitamente pelo expendido no acórdão recorrido.
+
+Com efeito, não está em causa o interesse geral na invalidade do negócio por carência nele das devidas formalidades, mas apenas o particular interesse do promitente-comprador, que a lei quis essencialmente proteger, como sobressai do já atrás deixado dito.
+
+Em moldes de qualificação jurídica, está-se, pois, face a nulidade atípica, com vista à protecção apenas do promitente-comprador, e que por isso não poderá ser invocável por terceiros, nem oficiosamente conhecida, como aliás o fez ressaltar o dito estudo do Dr. Calvão da Silva, "Sinal e contrato-promessa", e o constante também do Acórdão deste Supremo de 29 de Novembro de 1989, in Boletim, n.º 391, p. 610.
+
+Tanto assim que a protecção ao promitente-comprador vai ao ponto de o artigo 442.º, n.º 3, do Código Civil (redacção do [Decreto-Lei n.º 236/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1980-472484)) lhe conceder verdadeiro direito de retenção sobre o objecto da promessa [regime actualmente consagrado em moldes gerais no artigo 775.º, n.º 1, alínea f), do Código Civil, redacção do [Decreto-Lei n.º 379/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1986-220772), de 11 de Novembro].
+
+Nem o credor hipotecário sobre o objecto da promessa pode queixar-se de eventuais prejuízos; por um lado, porque a hipoteca tem a consistência que a lei lhe confere, e, por outro, porque sempre tem melhores meios técnicos, que os particulares, permissíveis de ponderada selectividade do crédito, e ainda porquanto a prevalência do direito de retenção, preferencial sobre a hipoteca (artigo 759.º, n.º 2, do Código Civil), resulta directamente da lei.
+
+Pelo exposto, acorda-se em negar provimento ao recurso, e, confirmando o acórdão recorrido, formula-se o seguinte assento:
+
+No domínio do n.º 3 do artigo 410.º do Código Civil (redacção do [Decreto-Lei n.º 236/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1980-472484), de 18 de Julho), a omissão das formalidades previstas nesse número não pode ser invocada por terceiros.
+
+Custas pelo recorrente.
+
+Lisboa, 28 de Junho de 1994. - Miguel Montenegro - Cura Mariano - Dias Simão - Chichorro Rodrigues - Figueiredo de Sousa - Martins da Fonseca - Mário de Noronha - Fernando Fabião - César Marques - Sá Nogueira - Calixto Pires - Gonçalves Pereira - Roger Lopes - Ramiro Vidigal - Costa Raposo (com a declaração de que alterei a minha posição do problema aqui em causa) - Martins da Costa - Pais de Sousa - Henrique de Matos - Miranda Gusmão - Araújo Ribeiro - Raul Mateus - Sá Couto - Costa Pereira - Santos Monteiro - Carlos Caldas - Faria de Sousa - Pereira Cardigos - Sá Ferreira - Silva Cancela - Machado Soares - Cardona Ferreira - Amado Gomes - Correia de Sousa - Silva Reis - Oliveira Branquinho - Gelásio Rocha - Castanheira da Costa - Ferreira da Silva (com a declaração de que já segui a orientação distinta) - Pedro Macedo - Lopes de Melo - Coelho Ventura - Afonso de Melo (com a declaração que optava pela formulação do Ministério Público) - Vítor Rocha - Costa Marques - Sousa Inês (votei no sentido de o assento ser tirado exclusivamente em relação às duas hipóteses em confronto, em que descontário é credor hipotecário; repugna-me que o assento abranja terceiros imediatamento interessados) - Sampaio da Nóvoa.

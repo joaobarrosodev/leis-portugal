@@ -1,0 +1,118 @@
+---
+schema_version: '1.0'
+id: pt:dre:395748:por
+title: Despacho Normativo n.º 92/82
+short_title: null
+summary: Esclarece dúvidas sobre a interpretação de algumas disposições contidas no Decreto-Lei n.º 307/81, de 13 de Novembro,
+  que cria no Ministério da Habitação, Obras Públicas e Transportes o Gabinete da Ponte Ferroviária sobre o Rio Douro
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Habitação, Obras Públicas e Transportes - Gabinete do Ministro
+proposing_entity: null
+official_number: 92/82
+official_date: null
+publication_date: '1982-06-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 132/1982, Série I de 1982-06-11
+  number: '132'
+  series: I
+  supplement: null
+  pages: 1654 - 1654
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/06/13200/16541654.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '395748'
+  dre_path: /dr/detalhe/despacho-normativo/92-1982-395748
+  internal: pt:dre:395748:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/92-1982-395748
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/92-1982-395748
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:21:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 88cc932e67fb2a5f605eee2985881b00a3c14f110abc832b174bed993d6a54cf
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:21:55Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ministério da Habitação Obras Públicas e Transportes
+- Ponte
+- Porto
+- Transporte Ferroviário
+relationships:
+- type: cites
+  target: pt:dre:561817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568324:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:21:55Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 92/82
+
+Considerando que surgiram algumas dúvidas quanto à interpretação e sequente aplicação prática de algumas das disposições contidas no articulado do [Decreto-Lei n.º 307/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1981-568324), de 13 de Novembro, havendo, por conseguinte, necessidade de as esclarecer definitivamente, e atentos os princípios de economia legislativa que ao caso aproveitam, no uso da faculdade que me é conferida pelo artigo 11.º do mesmo diploma legal, torno público o entendimento que deverá ser dado a tais disposições.
+
+Assim:
+
+1 - O n.º 2 do artigo 9.º deverá entender-se como uma disposição supletiva ao n.º 1 do mesmo artigo.
+
+Com efeito, com a inclusão deste número visou-se fixar o regime de financiamento das despesas do Gabinete da Ponte Ferroviária sobre o Rio Douro enquanto não estiverem inscritas no OGE as verbas a tanto destinadas, quer no que concerne ao ano económico da publicação do diploma (1981), quer nos subsequentes.
+
+Aliás, a não ser esta a intenção do legislador, a expressão «... e enquanto não forem inscritas ...» seria perfeitamente despicienda.
+
+Portanto, compete ao FETT suportar as despesas do Gabinete da Ponte Ferroviária sobre o Rio Douro enquanto não forem orçamentadas no Gabinete do Ministro da Habitação, Obras Públicas e Transportes as verbas julgadas necessárias para o seu funcionamento.
+
+2 - Quando no n.º 3 do artigo 9.º se faz referência à 12.ª Delegação da Contabilidade Pública, deverá passar a entender-se 8.ª Delegação da Contabilidade Pública.
+
+Com efeito, a primitiva referência à 12.ª Delegação da Contabilidade Pública fundava-se no facto de ser esta a declaração afecta ao Gabinete do Ministro dos Transportes e Comunicações.
+
+Com a publicação da Lei Orgânica do actual Governo ([Decreto-Lei n.º 290/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1981-561817), de 14 de Outubro), que extinguiu o Ministério dos Transportes e Comunicações (cf. artigo 5.º do citado diploma), criando o novo Ministério da Habitação, Obras Públicas e Transportes (cf. artigo 17.º), alterou-se também o quadro de afectação aos gabinetes ministeriais da delegação da contabilidade pública, cabendo agora ao Gabinete do Ministro da Habitação, Obras Públicas e Transportes a 8.ª Delegação, e não a 12.ª, como anteriormente.
+
+Por esta razão, deverá entender-se ser a 8.ª Delegação da Contabilidade Pública a competente para a movimentação das verbas destinadas ao Gabinete da Ponte Ferroviária sobre o Rio Douro.
+
+Ministério da Habitação, Obras Públicas e Transportes, 21 de Maio de 1982. - O Ministro da Habitação, Obras Públicas e Transportes, José Carlos Pinto Soromenho Viana Baptista.

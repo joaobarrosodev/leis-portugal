@@ -1,0 +1,391 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31998D0179:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998D0179-20210610",
+ "dre_path": null,
+ "source_lastmod": "2021-06-10",
+ "versions": [
+  {
+   "date": "1998-03-05",
+   "future": false,
+   "celex": "31998D0179",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8a985e2dcbd0d0e2",
+    "865d378fa9103d46",
+    "7cf6d9511a145779",
+    "f1fed32c1413e47a"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01998D0179-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:32006R1792:por",
+     "title": "REGULAMENTO (CE) N. o 1792/2006 DA COMISSÃO de 23 de Outubro de 2006",
+     "published": null,
+     "celex": "32006R1792"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita ANEXO",
+    "Adita Regras a aplicar na colheita de amostras oficiais e no tratamento dessas amostras",
+    "Adita 1. Competências",
+    "Adita 1.1. Inspector",
+    "Adita 1.2. Laboratórios aprovados",
+    "Adita 2. Colheita das amostras",
+    "Adita 2.1. Aspectos fundamentais",
+    "Adita 2.2. Estratégia de amostragem",
+    "Adita 2.3. Colheita das amostras",
+    "Adita 2.4. Quantidade de amostra",
+    "Adita 2.5. Divisão em subamostras",
+    "Adita 2.6. Recipientes para as amostras",
+    "Adita 2.7. Relatório da colheita de amostras",
+    "Adita 2.8. Relatório ao laboratório",
+    "Adita 2.9. Transporte e conservação",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime ANEXO — Regras a aplicar na colheita de amostras oficiais e no tratamento dessas amostras"
+   ],
+   "fragments": [
+    "fe7d9ed98f6e4694",
+    "07b132f5ce006217",
+    "c12878d757e5ab0e",
+    "10220b9774fa9034",
+    "a464d7e406eb1d2f",
+    "c513eab714aed4e9",
+    "9fb3ee1d7a7b4726",
+    "6003015c060b8872",
+    "7b618c9645a6c515",
+    "5a2ca17c8b12eaf7",
+    "c2c1ffdc4cb3cbfe",
+    "61856e28b73fdc13",
+    "9bd6274c9fb3c31b",
+    "9f75419e8f7579eb",
+    "5873caddd7e240ea",
+    "830f2a501fbbbca2",
+    "f95c59bf09aa1b96",
+    "f96919ccf40d4ffe",
+    "a8728dd2cca83a2e"
+   ]
+  },
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "01998D0179-20130701",
+   "acts": [
+    {
+     "id": "eu:celex:32013R0519:por",
+     "title": "REGULAMENTO (UE) N. o 519/2013 DA COMISSÃO de 21 de fevereiro de 2013",
+     "published": null,
+     "celex": "32013R0519"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera 1.2. Laboratórios aprovados",
+    "Altera 2.1. Aspectos fundamentais",
+    "Altera 2.2. Estratégia de amostragem",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "bad2c73b2ede75d4",
+    "07b132f5ce006217",
+    "c12878d757e5ab0e",
+    "10220b9774fa9034",
+    "a464d7e406eb1d2f",
+    "c513eab714aed4e9",
+    "9fb3ee1d7a7b4726",
+    "4b71e76c874617bc",
+    "7b618c9645a6c515",
+    "e996e65a26db1dad",
+    "39f20383fdc930e1",
+    "61856e28b73fdc13",
+    "9bd6274c9fb3c31b",
+    "9f75419e8f7579eb",
+    "5873caddd7e240ea",
+    "830f2a501fbbbca2",
+    "f95c59bf09aa1b96",
+    "f96919ccf40d4ffe",
+    "62076d5614938773"
+   ]
+  },
+  {
+   "date": "2021-06-10",
+   "future": false,
+   "celex": "01998D0179-20210610",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime ANEXO",
+    "Suprime Regras a aplicar na colheita de amostras oficiais e no tratamento dessas amostras",
+    "Suprime 1. Competências",
+    "Suprime 1.1. Inspector",
+    "Suprime 1.2. Laboratórios aprovados",
+    "Suprime 2. Colheita das amostras",
+    "Suprime 2.1. Aspectos fundamentais",
+    "Suprime 2.2. Estratégia de amostragem",
+    "Suprime 2.3. Colheita das amostras",
+    "Suprime 2.4. Quantidade de amostra",
+    "Suprime 2.5. Divisão em subamostras",
+    "Suprime 2.6. Recipientes para as amostras",
+    "Suprime 2.7. Relatório da colheita de amostras",
+    "Suprime 2.8. Relatório ao laboratório",
+    "Suprime 2.9. Transporte e conservação",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "ae4acafdc8f86db6"
+   ]
+  }
+ ],
+ "fragments": {
+  "8a985e2dcbd0d0e2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**98/179/CE: Decisão da Comissão de 23 de Fevereiro de 1998 que estabelece regras para a colheita das amostras oficiais a utilizar na pesquisa de determinadas substâncias e seus resíduos nos animais vivos e respectivos produtos (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 065 de 05/03/1998 p. 0031 - 0034*\n\nDECISÃO DA COMISSÃO de 23 de Fevereiro de 1998 que estabelece regras para a colheita das amostras oficiais a utilizar na pesquisa de determinadas substâncias e seus resíduos nos animais vivos e respectivos produtos (Texto relevante para efeitos do EEE) (98/179/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 96/23/CE do Conselho, de 29 de Abril de 1996, relativa às medidas de controlo a aplicar a certas substâncias e aos seus resíduos nos animais vivos e respectivos produtos e que revoga as Directivas 85/358/CEE e 86/469/CEE e as Decisões 89/187/CEE e 91/664/CEE (1), e, nomeadamente, o nº 1, segundo parágrafo, do seu artigo 15º,\n\nConsiderando que os procedimentos definidos pelas autoridades competentes dos Estados-membros responsáveis pela colheita das amostras e pelo tratamento das mesmas até à sua chegada ao laboratório responsável pelas análises têm uma influência directa e imediata nas substâncias ilegais eventualmente presentes nas amostras e na possibilidade de detecção dos resíduos de determinadas substâncias; que esses procedimentos constituem, portanto, um elementos importante do plano de vigilância dos resíduos;\n\nConsiderando que, para melhorar a eficácia dos planos de vigilância postos em prática anualmente pelos Estados-membros com vista à pesquisa de determinadas substâncias e resíduos dessas substâncias nos animais vivos e respectivos produtos e a fim de garantir a comparabilidade dos resultados obtidos, é necessário estabelecer regras harmonizadas para a colheita das amostras;\n\nConsiderando que as amostras devem ser colhidas de acordo com os anexos III e IV da directiva acima referida; que, para o efeito, é igualmente necessário especificar os critérios de selecção;\n\nConsiderando que as medidas previstas na presente decisão estão em conformidade com o parecer do Comité Veterinário Permanente,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "865d378fa9103d46": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nAs regras a aplicar na colheita de amostras oficiais, incluindo os critérios de selecção, figuram no anexo da presente decisão."
+  },
+  "7cf6d9511a145779": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nOs Estados-membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 23 de Fevereiro de 1998.\n\nPela Comissão\n\nFranz FISCHLER\n\nMembro da Comissão\n\n(1) JO L 125 de 23. 5. 1996, p. 10."
+  },
+  "f1fed32c1413e47a": {
+   "fragment_id": "ANEXO — Regras a aplicar na colheita de amostras oficiais e no tratamento dessas amostras",
+   "type": "divisao",
+   "heading": "ANEXO — Regras a aplicar na colheita de amostras oficiais e no tratamento dessas amostras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Regras a aplicar na colheita de amostras oficiais e no tratamento dessas amostras\n\n1. Competências\n\n1.1. Inspector\n\nA autoridade competente designará inspectores oficiais que procederão à colheita, registo, preparação e organização do transporte em condições apropriadas das amostras oficiais a pesquisar.\n\n1.2. Laboratórios aprovados\n\nA análise das amostras será obrigatoriamente efectuada por laboratórios aprovados pela autoridade competente para a pesquisa oficial de resíduos.\n\nOs laboratórios autorizados terão de participar num programa externo internacionalmente reconhecido de avaliação do controlo de qualidade. A acreditação terá de ser obtida antes de 1 de Janeiro de 2002.\n\nOs laboratórios em questão devem provar a respectiva competência participando regularmente com sucesso em programas de comprovação de proficiência reconhecidos ou organizados pelos laboratórios de referência nacionais ou comunitários.\n\n2. Colheita das amostras\n\n2.1. Aspectos fundamentais\n\nSempre que se proceda à colheita de amostras oficiais, esta deve ter lugar sem aviso prévio e de surpresa e ser efectuada a horas não fixas do dia e em qualquer dos dias da semana. Os Estados-membros devem tomar todas as precauções necessárias para garantir que o elemento surpresa das inspecções é sempre salvaguardado.\n\nA colheita de amostras deve ser efectuada a intervalos variáveis ao longo de todo o ano nos estabelecimentos referidos no ponto 1 do anexo III da Directiva 96/23/CE do Conselho (1). Note-se, a esse propósito, que algumas substâncias são ministradas apenas em determinadas épocas do ano.\n\nSem prejuízo das disposições do plano de vigilância dos resíduos, a selecção das amostras terá em conta outras informações disponíveis, designadamente relativas à utilização de substâncias ainda desconhecidas ou a doenças surgidas subitamente em determinadas regiões, indícios de actividades fraudulentas, etc.\n\n2.2. Estratégia de amostragem\n\nO plano de vigilância dos resíduos tem por objectivo:\n\na) Detectar todos os tratamentos ilegais, na acepção da alínea b) do artigo 2º da Directiva 96/23/CE;\n\nb) Verificar o cumprimento dos teores máximos de resíduos de medicamentos veterinários fixados nos anexos I e III do Regulamento (CEE) nº 2377/90 do Conselho (2) e dos teores máximos de pesticidas fixados no anexo II da Directiva 86/363/CEE do Conselho (3) ou nas regulamentações nacionais no domínio dos contaminantes ambientais;\n\nc) Examinar e elucidar as razões da presença de resíduos nos géneros alimentícios de origem animal;\n\n2.3. Colheita das amostras\n\n2.3.1. Definições\n\n2.3.1.1. Amostra-alvo\n\nEntende-se por «amostra-alvo» uma amostra colhida por aplicação da estratégia de amostragem definida no ponto 2.2.\n\n2.3.1.2. Amostra suspeita\n\nEntende-se por «amostra suspeita» uma amostra colhida:\n\n- na sequência da obtenção de resultados positivos em amostras colhidas de acordo com o disposto no artigo 5º da Directiva 96/23/CE,\n\n- por aplicação do artigo 11º,\n\n- por aplicação do artigo 24º\n\n2.3.1.3. Amostra aleatória\n\nEntende-se por «amostra aleatória» uma amostra colhida com base em critérios estatísticos por forma a constituir um dado representativo.\n\n2.3.2. Colheita de amostras-alvo nas explorações\n\n2.3.2.1. Critérios de selecção das amostras-alvo\n\nAs explorações onde terão lugar as colheitas de amostras podem ser escolhidas com base no conhecimento dos locais ou em outras informações pertinentes, como o tipo de sistema de engorda, a raça ou o sexo do animal. O inspector procederá em seguida a uma avaliação da totalidade dos efectivos da exploração e seleccionará os animais que serão objecto da colheita de amostras. Nessa avaliação, serão, designadamente, ponderados os seguintes critérios:\n\n- a existência de indícios da utilização de substâncias farmacologicamente activas,\n\n- características sexuais secundárias,\n\n- alterações comportamentais,\n\n- o mesmo nível de desenvolvimento num grupo de animais de raça/categoria diferentes,\n\n- a existência de animais bem constituídos mas com pouca gordura.\n\n2.3.2.2. Tipo de amostra-alvo a colher\n\nAs amostras apropriadas destinadas à detecção de substâncias farmacologicamente activas são colhidas de acordo com as disposições do plano de vigilância dos resíduos.\n\n2.3.3. Colheita de amostras-alvo em estabelecimentos de primeira transformação\n\n2.3.3.1. Critérios de selecção\n\nAo determinar as carcaças e/ou os produtos animais que serão objecto da colheita de amostras, o inspector terá, designadamente, em conta os seguintes critérios:\n\n- o sexo, a idade, a espécie e o sistema de criação,\n\n- as informações disponíveis sobre o produtor,\n\n- a existência de indícios da utilização de substâncias farmacologicamente activas,\n\n- as práticas tradicionais no que respeita à administração de determinadas substâncias farmacologicamente activas no contexto do sistema de criação em causa.\n\nAo proceder-se à colheita de amostras, deve ser evitada a multiplicação de amostras do mesmo produtor.\n\n2.3.3.2. Tipo de amostras colhido\n\nAs amostras apropriadas à detecção de substâncias farmacologicamente activas são colhidas de acordo com as disposições do plano de vigilância dos resíduos.\n\n2.4. Quantidade de amostra\n\nA quantidade mínima das amostras será definida no plano nacional de vigilância dos resíduos. Deve ser suficiente para que os laboratórios aprovados possam efectuar os procedimentos analíticos necessários para completar as análises de despistagem e de confirmação.\n\n2.5. Divisão em subamostras\n\nExcepto se tal não for tecnicamente possível ou não for exigido pela legislação nacional, cada amostra será dividida em, pelo menos, duas subamostras equivalentes, de forma que cada uma delas possa ser submetida ao procedimento analítico completo. A subdivisão das amostras pode ter lugar no ponto de colheita ou no laboratório.\n\n2.6. Recipientes para as amostras\n\nAs amostras serão colocadas em recipientes adequados que permitam manter a sua integridade e identificar a sua origem. Os recipientes devem, designadamente, ser concebidos de forma a não poder haver substituições, contaminações cruzadas ou degradação e deve poder ser-lhes aposto um selo oficial.\n\n2.7. Relatório da colheita de amostras\n\nSerá elaborado um relatório de todas as colheitas de amostras.\n\nO inspector inserirá nesse relatório, pelo menos, os seguintes elementos:\n\n- o endereço das autoridades competentes,\n\n- o nome do inspector ou o código de identificação,\n\n- o número de código oficial da amostra,\n\n- a data da colheita das amostras,\n\n- o nome e o endereço do proprietário ou da pessoa responsável pelos animais ou pelos produtos de origem animal,\n\n- o nome e o endereço da exploração de origem dos animais (quando se tratar de uma colheita de amostras na exploração),\n\n- o número de registo do estabelecimento/número do matadouro,\n\n- a identificação dos animais ou dos produtos,\n\n- a espécie animal,\n\n- a matriz das amostras,\n\n- os medicamentos administrados nas quatro semanas anteriores à colheita das amostras (quando se tratar de uma colheita de amostras na exploração),\n\n- a substância ou os grupos de substâncias a submeter a pesquisa analítica,\n\n- observações.\n\nEm função do procedimento concreto de colheita das amostras, será previsto um determinado número de cópias do relatório. O relatório da colheita de amostras e respectivas cópias serão assinados pelo menos pelo inspector: no caso de a colheita de amostras ter lugar numa exploração, o criador ou seu representante poderá ser convidado a assinar o original do relatório.\n\nO original do relatório da colheita de amostras fica na posse da autoridade competente, que zelará por que pessoas não autorizadas a ele não tenham acesso.\n\nSe necessário, o criador ou o proprietário do estabelecimento pode ser informado da colheita de amostras efectuada.\n\n2.8. Relatório ao laboratório\n\nO relatório destinado ao laboratório, elaborado pelas autoridades competentes, conterá, pelo menos, os seguintes elementos:\n\n- o endereço das autoridades competentes,\n\n- o nome do inspector ou o código de identificação,\n\n- o número de código oficial da amostra,\n\n- a data da colheita das amostras,\n\n- a espécie animal,\n\n- a matriz das amostras,\n\n- a substância ou os grupos de substâncias a submeter a pesquisa analítica,\n\n- observações.\n\nEste relatório é entregue ao laboratório de análises de rotina juntamente com as amostras.\n\n2.9. Transporte e conservação\n\nOs planos de vigilância dos resíduos devem especificar as condições de transporte e conservação adequadas a cada combinação analito/matriz, de modo a garantir a estabilidade dos analitos e a integridade das amostras. Deve ser dada uma atenção especial às caixas de transporte, à temperatura e ao prazo de entrega ao laboratório responsável.\n\nEm caso de não conformidade com as prescrições do plano de vigilância, o laboratório informará de imediato a autoridade competente.\n\n(1) JO L 125 de 23. 5. 1996, p. 10.\n\n(2) JO L 224 de 18. 8. 1990, p. 1.\n\n(3) JO L 221 de 7. 8. 1989, p. 43."
+  },
+  "fe7d9ed98f6e4694": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Fevereiro de 1998\n\nque estabelece regras para a colheita das amostras oficiais a utilizar na pesquisa de determinadas substâncias e seus resíduos nos animais vivos e respectivos produtos\n\n(Texto relevante para efeitos do EEE)\n\n(98/179/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 96/23/CE do Conselho, de 29 de Abril de 1996, relativa às medidas de controlo a aplicar a certas substâncias e aos seus resíduos nos animais vivos e respectivos produtos e que revoga as Directivas 85/358/CEE e 86/469/CEE e as Decisões 89/187/CEE e 91/664/CEE ([^1^](http://publications.europa.eu/resource/cellar/976b0e99-f79e-4c32-b7e8-a5e36c957b9c.0017.03/DOC_1#E0001)), e, nomeadamente, o n.º 1, segundo parágrafo, do seu artigo 15.º,\n\nConsiderando que os procedimentos definidos pelas autoridades competentes dos Estados-membros responsáveis pela colheita das amostras e pelo tratamento das mesmas até à sua chegada ao laboratório responsável pelas análises têm uma influência directa e imediata nas substâncias ilegais eventualmente presentes nas amostras e na possibilidade de detecção dos resíduos de determinadas substâncias; que esses procedimentos constituem, portanto, um elementos importante do plano de vigilância dos resíduos;\n\nConsiderando que, para melhorar a eficácia dos planos de vigilância postos em prática anualmente pelos Estados-membros com vista à pesquisa de determinadas substâncias e resíduos dessas substâncias nos animais vivos e respectivos produtos e a fim de garantir a comparabilidade dos resultados obtidos, é necessário estabelecer regras harmonizadas para a colheita das amostras;\n\nConsiderando que as amostras devem ser colhidas de acordo com os anexos III e IV da directiva acima referida; que, para o efeito, é igualmente necessário especificar os critérios de selecção;\n\nConsiderando que as medidas previstas na presente decisão estão em conformidade com o parecer do Comité Veterinário Permanente,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "07b132f5ce006217": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs regras a aplicar na colheita de amostras oficiais, incluindo os critérios de selecção, figuram no anexo da presente decisão."
+  },
+  "c12878d757e5ab0e": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-membros são os destinatários da presente decisão."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "a464d7e406eb1d2f": {
+   "fragment_id": "Regras a aplicar na colheita de amostras oficiais e no tratamento dessas amostras",
+   "type": "divisao",
+   "heading": "Regras a aplicar na colheita de amostras oficiais e no tratamento dessas amostras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Regras a aplicar na colheita de amostras oficiais e no tratamento dessas amostras"
+  },
+  "c513eab714aed4e9": {
+   "fragment_id": "1. Competências",
+   "type": "divisao",
+   "heading": "1. Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Competências"
+  },
+  "9fb3ee1d7a7b4726": {
+   "fragment_id": "1.1. Inspector",
+   "type": "divisao",
+   "heading": "1.1. Inspector",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.1. Inspector\n\nA autoridade competente designará inspectores oficiais que procederão à colheita, registo, preparação e organização do transporte em condições apropriadas das amostras oficiais a pesquisar."
+  },
+  "6003015c060b8872": {
+   "fragment_id": "1.2. Laboratórios aprovados",
+   "type": "divisao",
+   "heading": "1.2. Laboratórios aprovados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.2. Laboratórios aprovados\n\nA análise das amostras será obrigatoriamente efectuada por laboratórios aprovados pela autoridade competente para a pesquisa oficial de resíduos.\n\nOs laboratórios autorizados terão de participar num programa externo internacionalmente reconhecido de avaliação do controlo de qualidade. A acreditação terá de ser obtida antes de 1 de Janeiro de 2002.[**►A1**](http://publications.europa.eu/resource/celex/12003T) No que se refere à República Checa, à Estónia, a Chipre, à Letónia, à Lituânia, à Hungria, a Malta, à Polónia, à Eslovénia e à Eslováquia, a acreditação terá de ser obtida antes da data de adesão.**◄** [**►M1**](http://publications.europa.eu/resource/celex/32006R1792) Relativamente à Bulgária e à Roménia, a acreditação terá de ser obtida até à data da adesão.**◄**\n\nOs laboratórios em questão devem provar a respectiva competência participando regularmente com sucesso em programas de comprovação de proficiência reconhecidos ou organizados pelos laboratórios de referência nacionais ou comunitários."
+  },
+  "7b618c9645a6c515": {
+   "fragment_id": "2. Colheita das amostras",
+   "type": "divisao",
+   "heading": "2. Colheita das amostras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Colheita das amostras"
+  },
+  "5a2ca17c8b12eaf7": {
+   "fragment_id": "2.1. Aspectos fundamentais",
+   "type": "divisao",
+   "heading": "2.1. Aspectos fundamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.1. Aspectos fundamentais\n\nSempre que se proceda à colheita de amostras oficiais, esta deve ter lugar sem aviso prévio e de surpresa e ser efectuada a horas não fixas do dia e em qualquer dos dias da semana. Os Estados-membros devem tomar todas as precauções necessárias para garantir que o elemento surpresa das inspecções é sempre salvaguardado.\n\nA colheita de amostras deve ser efectuada a intervalos variáveis ao longo de todo o ano nos estabelecimentos referidos no ponto 1 do anexo III da Directiva 96/23/CE do Conselho ([^2^](http://publications.europa.eu/resource/cellar/976b0e99-f79e-4c32-b7e8-a5e36c957b9c.0017.03/DOC_1#E0002)). Note-se, a esse propósito, que algumas substâncias são ministradas apenas em determinadas épocas do ano.\n\nSem prejuízo das disposições do plano de vigilância dos resíduos, a selecção das amostras terá em conta outras informações disponíveis, designadamente relativas à utilização de substâncias ainda desconhecidas ou a doenças surgidas subitamente em determinadas regiões, indícios de actividades fraudulentas, etc."
+  },
+  "c2c1ffdc4cb3cbfe": {
+   "fragment_id": "2.2. Estratégia de amostragem",
+   "type": "divisao",
+   "heading": "2.2. Estratégia de amostragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2. Estratégia de amostragem\n\nO plano de vigilância dos resíduos tem por objectivo:\n\na) Detectar todos os tratamentos ilegais, na acepção da alínea b) do artigo 2.º da Directiva 96/23/CE;\n\nb) Verificar o cumprimento dos teores máximos de resíduos de medicamentos veterinários fixados nos anexos I e III do Regulamento (CEE) n.º 2377/90 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/976b0e99-f79e-4c32-b7e8-a5e36c957b9c.0017.03/DOC_1#E0003)) e dos teores máximos de pesticidas fixados no anexo II da Directiva 86/363/CEE do Conselho ([^4^](http://publications.europa.eu/resource/cellar/976b0e99-f79e-4c32-b7e8-a5e36c957b9c.0017.03/DOC_1#E0004)) ou nas regulamentações nacionais no domínio dos contaminantes ambientais;\n\nc) Examinar e elucidar as razões da presença de resíduos nos géneros alimentícios de origem animal;"
+  },
+  "61856e28b73fdc13": {
+   "fragment_id": "2.3. Colheita das amostras",
+   "type": "divisao",
+   "heading": "2.3. Colheita das amostras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.3. Colheita das amostras\n\n2.3.1. Definições 2.3.1.1. Amostra-alvo Entende-se por «amostra-alvo» uma amostra colhida por aplicação da estratégia de amostragem definida no ponto 2.2. 2.3.1.2. Amostra suspeita Entende-se por «amostra suspeita» uma amostra colhida: — na sequência da obtenção de resultados positivos em amostras colhidas de acordo com o disposto no artigo 5.º da Directiva 96/23/CE, — por aplicação do artigo 11.º, — por aplicação do artigo 24.º 2.3.1.3. Amostra aleatória Entende-se por «amostra aleatória» uma amostra colhida com base em critérios estatísticos por forma a constituir um dado representativo.\n\n2.3.1.1. Amostra-alvo Entende-se por «amostra-alvo» uma amostra colhida por aplicação da estratégia de amostragem definida no ponto 2.2.\n\n2.3.1.2. Amostra suspeita Entende-se por «amostra suspeita» uma amostra colhida: — na sequência da obtenção de resultados positivos em amostras colhidas de acordo com o disposto no artigo 5.º da Directiva 96/23/CE, — por aplicação do artigo 11.º, — por aplicação do artigo 24.º\n\n2.3.1.3. Amostra aleatória Entende-se por «amostra aleatória» uma amostra colhida com base em critérios estatísticos por forma a constituir um dado representativo.\n\n2.3.2. Colheita de amostras-alvo nas explorações 2.3.2.1. Critérios de selecção das amostras-alvo As explorações onde terão lugar as colheitas de amostras podem ser escolhidas com base no conhecimento dos locais ou em outras informações pertinentes, como o tipo de sistema de engorda, a raça ou o sexo do animal. O inspector procederá em seguida a uma avaliação da totalidade dos efectivos da exploração e seleccionará os animais que serão objecto da colheita de amostras. Nessa avaliação, serão, designadamente, ponderados os seguintes critérios: — a existência de indícios da utilização de substâncias farmacologicamente activas, — características sexuais secundárias, — alterações comportamentais, — o mesmo nível de desenvolvimento num grupo de animais de raça/categoria diferentes, — a existência de animais bem constituídos mas com pouca gordura. 2.3.2.2. Tipo de amostra-alvo a colher As amostras apropriadas destinadas à detecção de substâncias farmacologicamente activas são colhidas de acordo com as disposições do plano de vigilância dos resíduos.\n\n2.3.2.1. Critérios de selecção das amostras-alvo As explorações onde terão lugar as colheitas de amostras podem ser escolhidas com base no conhecimento dos locais ou em outras informações pertinentes, como o tipo de sistema de engorda, a raça ou o sexo do animal. O inspector procederá em seguida a uma avaliação da totalidade dos efectivos da exploração e seleccionará os animais que serão objecto da colheita de amostras. Nessa avaliação, serão, designadamente, ponderados os seguintes critérios: — a existência de indícios da utilização de substâncias farmacologicamente activas, — características sexuais secundárias, — alterações comportamentais, — o mesmo nível de desenvolvimento num grupo de animais de raça/categoria diferentes, — a existência de animais bem constituídos mas com pouca gordura.\n\n2.3.2.2. Tipo de amostra-alvo a colher As amostras apropriadas destinadas à detecção de substâncias farmacologicamente activas são colhidas de acordo com as disposições do plano de vigilância dos resíduos.\n\n2.3.3. Colheita de amostras-alvo em estabelecimentos de primeira transformação 2.3.3.1. Critérios de selecção Ao determinar as carcaças e/ou os produtos animais que serão objecto da colheita de amostras, o inspector terá, designadamente, em conta os seguintes critérios: — o sexo, a idade, a espécie e o sistema de criação, — as informações disponíveis sobre o produtor, — a existência de indícios da utilização de substâncias farmacologicamente activas, — as práticas tradicionais no que respeita à administração de determinadas substâncias farmacologicamente activas no contexto do sistema de criação em causa. Ao proceder-se à colheita de amostras, deve ser evitada a multiplicação de amostras do mesmo produtor. 2.3.3.2. Tipo de amostras colhido As amostras apropriadas à detecção de substâncias farmacologicamente activas são colhidas de acordo com as disposições do plano de vigilância dos resíduos.\n\n2.3.3.1. Critérios de selecção Ao determinar as carcaças e/ou os produtos animais que serão objecto da colheita de amostras, o inspector terá, designadamente, em conta os seguintes critérios: — o sexo, a idade, a espécie e o sistema de criação, — as informações disponíveis sobre o produtor, — a existência de indícios da utilização de substâncias farmacologicamente activas, — as práticas tradicionais no que respeita à administração de determinadas substâncias farmacologicamente activas no contexto do sistema de criação em causa. Ao proceder-se à colheita de amostras, deve ser evitada a multiplicação de amostras do mesmo produtor.\n\n2.3.3.2. Tipo de amostras colhido As amostras apropriadas à detecção de substâncias farmacologicamente activas são colhidas de acordo com as disposições do plano de vigilância dos resíduos."
+  },
+  "9bd6274c9fb3c31b": {
+   "fragment_id": "2.4. Quantidade de amostra",
+   "type": "divisao",
+   "heading": "2.4. Quantidade de amostra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.4. Quantidade de amostra\n\nA quantidade mínima das amostras será definida no plano nacional de vigilância dos resíduos. Deve ser suficiente para que os laboratórios aprovados possam efectuar os procedimentos analíticos necessários para completar as análises de despistagem e de confirmação."
+  },
+  "9f75419e8f7579eb": {
+   "fragment_id": "2.5. Divisão em subamostras",
+   "type": "divisao",
+   "heading": "2.5. Divisão em subamostras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.5. Divisão em subamostras\n\nExcepto se tal não for tecnicamente possível ou não for exigido pela legislação nacional, cada amostra será dividida em, pelo menos, duas subamostras equivalentes, de forma que cada uma delas possa ser submetida ao procedimento analítico completo. A subdivisão das amostras pode ter lugar no ponto de colheita ou no laboratório."
+  },
+  "5873caddd7e240ea": {
+   "fragment_id": "2.6. Recipientes para as amostras",
+   "type": "divisao",
+   "heading": "2.6. Recipientes para as amostras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.6. Recipientes para as amostras\n\nAs amostras serão colocadas em recipientes adequados que permitam manter a sua integridade e identificar a sua origem. Os recipientes devem, designadamente, ser concebidos de forma a não poder haver substituições, contaminações cruzadas ou degradação e deve poder ser-lhes aposto um selo oficial."
+  },
+  "830f2a501fbbbca2": {
+   "fragment_id": "2.7. Relatório da colheita de amostras",
+   "type": "divisao",
+   "heading": "2.7. Relatório da colheita de amostras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.7. Relatório da colheita de amostras\n\nSerá elaborado um relatório de todas as colheitas de amostras.\n\nO inspector inserirá nesse relatório, pelo menos, os seguintes elementos:\n\n— o endereço das autoridades competentes,\n\n— o nome do inspector ou o código de identificação,\n\n— o número de código oficial da amostra,\n\n— a data da colheita das amostras,\n\n— o nome e o endereço do proprietário ou da pessoa responsável pelos animais ou pelos produtos de origem animal,\n\n— o nome e o endereço da exploração de origem dos animais (quando se tratar de uma colheita de amostras na exploração),\n\n— o número de registo do estabelecimento/número do matadouro,\n\n— a identificação dos animais ou dos produtos,\n\n— a espécie animal,\n\n— a matriz das amostras,\n\n— os medicamentos administrados nas quatro semanas anteriores à colheita das amostras (quando se tratar de uma colheita de amostras na exploração),\n\n— a substância ou os grupos de substâncias a submeter a pesquisa analítica,\n\n— observações.\n\nEm função do procedimento concreto de colheita das amostras, será previsto um determinado número de cópias do relatório. O relatório da colheita de amostras e respectivas cópias serão assinados pelo menos pelo inspector: no caso de a colheita de amostras ter lugar numa exploração, o criador ou seu representante poderá ser convidado a assinar o original do relatório.\n\nO original do relatório da colheita de amostras fica na posse da autoridade competente, que zelará por que pessoas não autorizadas a ele não tenham acesso.\n\nSe necessário, o criador ou o proprietário do estabelecimento pode ser informado da colheita de amostras efectuada."
+  },
+  "f95c59bf09aa1b96": {
+   "fragment_id": "2.8. Relatório ao laboratório",
+   "type": "divisao",
+   "heading": "2.8. Relatório ao laboratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.8. Relatório ao laboratório\n\nO relatório destinado ao laboratório, elaborado pelas autoridades competentes, conterá, pelo menos, os seguintes elementos:\n\n— o endereço das autoridades competentes,\n\n— o nome do inspector ou o código de identificação,\n\n— o número de código oficial da amostra,\n\n— a data da colheita das amostras,\n\n— a espécie animal,\n\n— a matriz das amostras,\n\n— a substância ou os grupos de substâncias a submeter a pesquisa analítica,\n\n— observações.\n\nEste relatório é entregue ao laboratório de análises de rotina juntamente com as amostras."
+  },
+  "f96919ccf40d4ffe": {
+   "fragment_id": "2.9. Transporte e conservação",
+   "type": "divisao",
+   "heading": "2.9. Transporte e conservação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.9. Transporte e conservação\n\nOs planos de vigilância dos resíduos devem especificar as condições de transporte e conservação adequadas a cada combinação analito/matriz, de modo a garantir a estabilidade dos analitos e a integridade das amostras. Deve ser dada uma atenção especial às caixas de transporte, à temperatura e ao prazo de entrega ao laboratório responsável.\n\nEm caso de não conformidade com as prescrições do plano de vigilância, o laboratório informará de imediato a autoridade competente.\n\n---"
+  },
+  "a8728dd2cca83a2e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/976b0e99-f79e-4c32-b7e8-a5e36c957b9c.0017.03/DOC_1#src.E0001)) JO L 125 de 23. 5. 1996, p. 10.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/976b0e99-f79e-4c32-b7e8-a5e36c957b9c.0017.03/DOC_1#src.E0002)) JO L 125 de 23. 5. 1996, p. 10.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/976b0e99-f79e-4c32-b7e8-a5e36c957b9c.0017.03/DOC_1#src.E0003)) JO L 224 de 18. 8. 1990, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/976b0e99-f79e-4c32-b7e8-a5e36c957b9c.0017.03/DOC_1#src.E0004)) JO L 221 de 7. 8. 1989, p. 43."
+  },
+  "bad2c73b2ede75d4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Fevereiro de 1998\n\nque estabelece regras para a colheita das amostras oficiais a utilizar na pesquisa de determinadas substâncias e seus resíduos nos animais vivos e respectivos produtos\n\n(Texto relevante para efeitos do EEE)\n\n(98/179/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 96/23/CE do Conselho, de 29 de Abril de 1996, relativa às medidas de controlo a aplicar a certas substâncias e aos seus resíduos nos animais vivos e respectivos produtos e que revoga as Directivas 85/358/CEE e 86/469/CEE e as Decisões 89/187/CEE e 91/664/CEE ([^1^](http://publications.europa.eu/resource/cellar/f09bf4d4-aa4a-412f-9653-102c5d64bbd5.0018.03/DOC_1#E0001)), e, nomeadamente, o n.º 1, segundo parágrafo, do seu artigo 15.º,\n\nConsiderando que os procedimentos definidos pelas autoridades competentes dos Estados-membros responsáveis pela colheita das amostras e pelo tratamento das mesmas até à sua chegada ao laboratório responsável pelas análises têm uma influência directa e imediata nas substâncias ilegais eventualmente presentes nas amostras e na possibilidade de detecção dos resíduos de determinadas substâncias; que esses procedimentos constituem, portanto, um elementos importante do plano de vigilância dos resíduos;\n\nConsiderando que, para melhorar a eficácia dos planos de vigilância postos em prática anualmente pelos Estados-membros com vista à pesquisa de determinadas substâncias e resíduos dessas substâncias nos animais vivos e respectivos produtos e a fim de garantir a comparabilidade dos resultados obtidos, é necessário estabelecer regras harmonizadas para a colheita das amostras;\n\nConsiderando que as amostras devem ser colhidas de acordo com os anexos III e IV da directiva acima referida; que, para o efeito, é igualmente necessário especificar os critérios de selecção;\n\nConsiderando que as medidas previstas na presente decisão estão em conformidade com o parecer do Comité Veterinário Permanente,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "4b71e76c874617bc": {
+   "fragment_id": "1.2. Laboratórios aprovados",
+   "type": "divisao",
+   "heading": "1.2. Laboratórios aprovados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.2. Laboratórios aprovados\n\nA análise das amostras será obrigatoriamente efectuada por laboratórios aprovados pela autoridade competente para a pesquisa oficial de resíduos.\n\nOs laboratórios autorizados terão de participar num programa externo internacionalmente reconhecido de avaliação do controlo de qualidade. A acreditação terá de ser obtida antes de 1 de Janeiro de 2002. [**►A1**](http://publications.europa.eu/resource/celex/12003T) No que se refere à República Checa, à Estónia, a Chipre, à Letónia, à Lituânia, à Hungria, a Malta, à Polónia, à Eslovénia e à Eslováquia, a acreditação terá de ser obtida antes da data de adesão.**◄** [**►M1**](http://publications.europa.eu/resource/celex/32006R1792) Relativamente à Bulgária e à Roménia, a acreditação terá de ser obtida até à data da adesão.**◄** [**►M2**](http://publications.europa.eu/resource/celex/32013R0519) Relativamente à Croácia, a acreditação terá de ser obtida até à data da adesão.**◄**\n\nOs laboratórios em questão devem provar a respectiva competência participando regularmente com sucesso em programas de comprovação de proficiência reconhecidos ou organizados pelos laboratórios de referência nacionais ou comunitários."
+  },
+  "e996e65a26db1dad": {
+   "fragment_id": "2.1. Aspectos fundamentais",
+   "type": "divisao",
+   "heading": "2.1. Aspectos fundamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.1. Aspectos fundamentais\n\nSempre que se proceda à colheita de amostras oficiais, esta deve ter lugar sem aviso prévio e de surpresa e ser efectuada a horas não fixas do dia e em qualquer dos dias da semana. Os Estados-membros devem tomar todas as precauções necessárias para garantir que o elemento surpresa das inspecções é sempre salvaguardado.\n\nA colheita de amostras deve ser efectuada a intervalos variáveis ao longo de todo o ano nos estabelecimentos referidos no ponto 1 do anexo III da Directiva 96/23/CE do Conselho ([^2^](http://publications.europa.eu/resource/cellar/f09bf4d4-aa4a-412f-9653-102c5d64bbd5.0018.03/DOC_1#E0002)). Note-se, a esse propósito, que algumas substâncias são ministradas apenas em determinadas épocas do ano.\n\nSem prejuízo das disposições do plano de vigilância dos resíduos, a selecção das amostras terá em conta outras informações disponíveis, designadamente relativas à utilização de substâncias ainda desconhecidas ou a doenças surgidas subitamente em determinadas regiões, indícios de actividades fraudulentas, etc."
+  },
+  "39f20383fdc930e1": {
+   "fragment_id": "2.2. Estratégia de amostragem",
+   "type": "divisao",
+   "heading": "2.2. Estratégia de amostragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2. Estratégia de amostragem\n\nO plano de vigilância dos resíduos tem por objectivo:\n\na) Detectar todos os tratamentos ilegais, na acepção da alínea b) do artigo 2.º da Directiva 96/23/CE;\n\nb) Verificar o cumprimento dos teores máximos de resíduos de medicamentos veterinários fixados nos anexos I e III do Regulamento (CEE) n.º 2377/90 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/f09bf4d4-aa4a-412f-9653-102c5d64bbd5.0018.03/DOC_1#E0003)) e dos teores máximos de pesticidas fixados no anexo II da Directiva 86/363/CEE do Conselho ([^4^](http://publications.europa.eu/resource/cellar/f09bf4d4-aa4a-412f-9653-102c5d64bbd5.0018.03/DOC_1#E0004)) ou nas regulamentações nacionais no domínio dos contaminantes ambientais;\n\nc) Examinar e elucidar as razões da presença de resíduos nos géneros alimentícios de origem animal;"
+  },
+  "62076d5614938773": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/f09bf4d4-aa4a-412f-9653-102c5d64bbd5.0018.03/DOC_1#src.E0001)) JO L 125 de 23. 5. 1996, p. 10.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/f09bf4d4-aa4a-412f-9653-102c5d64bbd5.0018.03/DOC_1#src.E0002)) JO L 125 de 23. 5. 1996, p. 10.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/f09bf4d4-aa4a-412f-9653-102c5d64bbd5.0018.03/DOC_1#src.E0003)) JO L 224 de 18. 8. 1990, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/f09bf4d4-aa4a-412f-9653-102c5d64bbd5.0018.03/DOC_1#src.E0004)) JO L 221 de 7. 8. 1989, p. 43."
+  },
+  "ae4acafdc8f86db6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01998D0179 — PT — 10.06.2021 — 004.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31998D0179) [DECISÃO DA COMISSÃO](http://publications.europa.eu/resource/celex/31998D0179) [de 23 de Fevereiro de 1998](http://publications.europa.eu/resource/celex/31998D0179) [que estabelece regras para a colheita das amostras oficiais a utilizar na pesquisa de determinadas substâncias e seus resíduos nos animais vivos e respectivos produtos](http://publications.europa.eu/resource/celex/31998D0179) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/31998D0179) [(98/179/CE)](http://publications.europa.eu/resource/celex/31998D0179) (JO L 065, 5.3.1998, p.31)\n\n**Revogada por:**\n\n- [Regulamento de Execução (UE) 2021/808 da Comissão de 22 de março de 2021](http://publications.europa.eu/resource/celex/32021R0808) — L 180 — 84 — 21.5.2021"
+  }
+ }
+}

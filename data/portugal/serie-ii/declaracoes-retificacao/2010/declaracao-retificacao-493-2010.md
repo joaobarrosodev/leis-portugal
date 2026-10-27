@@ -1,0 +1,128 @@
+---
+schema_version: '1.0'
+id: pt:dre:2542085:por
+title: Declaração de Rectificação n.º 493/2010
+short_title: null
+summary: Declaração de rectificação ao aviso n.º 2486/2010, publicado no Diário da República, 2.ª série, n.º 23, de 3 de Fevereiro
+  de 2010
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Município de Vila Real de Santo António
+proposing_entity: null
+official_number: 493/2010
+official_date: null
+publication_date: '2010-03-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 49/2010, Série II de 2010-03-11
+  number: '49'
+  series: II
+  supplement: null
+  pages: 11556 - 11556
+  pdf_url: https://files.diariodarepublica.pt/2s/2010/03/049000000/1155611556.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2542085'
+  dre_path: /dr/detalhe/declaracao-rectificacao/493-2010-2542085
+  internal: pt:dre:2542085:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/493-2010-2542085
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/493-2010-2542085
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:26:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 45b33eb5146959950677dfb48dda39acb06ae3f353f53d33c42e0ecef3e1a909
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:26:18Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:26:18Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 493/2010
+
+Declaração de rectificação n.º 493/2010
+
+Para os devidos efeitos, rectifica-se o aviso n.º 2486/2010, publicado no Diário da República, 2.ª série, n.º 23, de 3 de Fevereiro de 2010, relativo ao procedimento concursal para a ocupação de um posto de trabalho na categoria de técnico superior - urbanismo, em regime de contrato de trabalho em funções públicas por tempo indeterminado.
+
+Assim, onde se lê:
+
+«11 - Composição e identificação do Júri:
+
+Presidente: Arq. José Carlos Costa Barros, Vice-Presidente.
+
+Vogais efectivos:
+
+Dr. João Francisco Catarino Eleutério, Técnico Superior.
+
+Dr.ª Ana Teresa Guerreiro, Chefe de Divisão.
+
+Vogais suplentes:
+
+Eng.ª Ana Isabel Sousa Horta, Técnica Superior.
+
+Dr.ª Lisandra Maria André Rua, Técnica Superior.»
+
+deve ler-se:
+
+«11 - Composição e identificação do júri:
+
+Presidente: Dr. João Francisco Catarino Eleutério, técnico superior.
+
+Vogais efectivos:
+
+Dr. José Manuel B. Carepa Vaz, técnico superior.
+
+Dr.ª Ana Teresa Guerreiro, chefe de divisão.
+
+Vogais suplentes:
+
+Arq.ª Maria Perpétua Domingos Almeida, chefe de divisão.
+
+Dr.ª Lisandra Maria André Rua, técnica superior.»
+
+23 de Fevereiro de 2010. - A Vereadora do Pelouro de Recursos Humanos, Maria da Conceição Cabrita.
+
+302958829

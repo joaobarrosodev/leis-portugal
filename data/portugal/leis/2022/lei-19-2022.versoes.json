@@ -1,0 +1,336 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:202455960:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2022-202436963",
+ "dre_path": "/dr/detalhe/lei/19-2022-202455960",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2022-10-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "202437421",
+    "202437422",
+    "202437423",
+    "202437424",
+    "202437425",
+    "202437426",
+    "202437427",
+    "202437428",
+    "202437429",
+    "202437430",
+    "202437431"
+   ]
+  },
+  {
+   "date": "2023-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:205557192:por",
+     "title": "Lei n.º 24-D/2022",
+     "published": "2022-12-30",
+     "dre_path": "/dr/detalhe/lei/24-d-2022-205557192"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "202437421",
+    "202437422",
+    "202437423",
+    "206253300",
+    "202437425",
+    "202437426",
+    "206253301",
+    "202437428",
+    "202437429",
+    "202437430",
+    "202437431",
+    "202437432"
+   ]
+  },
+  {
+   "date": "2023-06-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:213650800:por",
+     "title": "Lei n.º 24/2023",
+     "published": "2023-05-29",
+     "dre_path": "/dr/detalhe/lei/24-2023-213650800"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "202437421",
+    "202437422",
+    "202437423",
+    "206253300",
+    "202437425",
+    "202437426",
+    "213702316",
+    "202437428",
+    "202437429",
+    "202437430",
+    "202437431",
+    "202437432"
+   ]
+  },
+  {
+   "date": "2023-10-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:222477692:por",
+     "title": "Lei n.º 56/2023",
+     "published": "2023-10-06",
+     "dre_path": "/dr/detalhe/lei/56-2023-222477692"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "202437421",
+    "202437422",
+    "202437423",
+    "222582055",
+    "202437425",
+    "202437426",
+    "213702316",
+    "202437428",
+    "202437429",
+    "202437430",
+    "202437431",
+    "202437432"
+   ]
+  },
+  {
+   "date": "2024-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:835864042:por",
+     "title": "Lei n.º 82/2023",
+     "published": "2023-12-29",
+     "dre_path": "/dr/detalhe/lei/82-2023-835864042"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "202437421",
+    "202437422",
+    "202437423",
+    "222582055",
+    "202437425",
+    "202437426",
+    "836904040",
+    "202437428",
+    "202437429",
+    "202437430",
+    "202437431",
+    "202437432"
+   ]
+  },
+  {
+   "date": "2025-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:875716582:por",
+     "title": "Lei n.º 38/2024",
+     "published": "2024-08-07",
+     "dre_path": "/dr/detalhe/lei/38-2024-875716582"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "202437421",
+    "202437422",
+    "202437423",
+    "222582055",
+    "202437425",
+    "202437426",
+    "836904040",
+    "202437428",
+    "202437429",
+    "202437430",
+    "875980989",
+    "202437432"
+   ]
+  }
+ ],
+ "fragments": {
+  "202437421": {
+   "fragment_id": "202436964",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 19/2022\n\nde 21 de outubro\n\nSumário: Determina o coeficiente de atualização de rendas para 2023, cria um apoio extraordinário ao arrendamento, reduz o IVA no fornecimento de eletricidade, estabelece um regime transitório de atualização das pensões, estabelece um regime de resgate de planos de poupança e determina a impenhorabilidade de apoios às famílias.\n\nDetermina o coeficiente de atualização de rendas para 2023, cria um apoio extraordinário ao arrendamento, reduz o IVA no fornecimento de eletricidade, estabelece um regime transitório de atualização das pensões, estabelece um regime de resgate de planos de poupança e determina a impenhorabilidade de apoios às famílias.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "202437422": {
+   "fragment_id": "202436965",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei:\n\na) Fixa o coeficiente de atualização anual de renda dos diversos tipos de arrendamento urbano e rural, a vigorar no ano civil de 2023;\n\nb) Estabelece um apoio extraordinário à tributação dos rendimentos prediais decorrentes de contratos de arrendamento auferidos em 2023;\n\nc) Reduz transitoriamente a taxa do imposto sobre o valor acrescentado aplicável a fornecimentos de eletricidade;\n\nd) Estabelece um regime transitório de atualização de pensões;\n\ne) Estabelece um regime de resgate de planos de poupança sem penalização; e,\n\nf) Determina a impenhorabilidade dos apoios às famílias."
+  },
+  "202437423": {
+   "fragment_id": "202436966",
+   "type": 11,
+   "heading": "Artigo 2.º — Coeficiente de atualização de rendas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Coeficiente de atualização de rendas\n\n1 - Durante o ano civil de 2023 não se aplica o coeficiente de atualização anual de renda dos diversos tipos de arrendamento previsto no artigo 24.º da Lei n.º 6/2006, de 27 de fevereiro.\n\n2 - O coeficiente de atualização de renda dos diversos tipos de arrendamento urbano e rural abrangidos pelo disposto no número anterior, vigente no ano civil de 2023, é de 1,02, sem prejuízo de estipulação diferente entre as partes.\n\n3 - Aos contratos que remetam para a atualização de renda prevista no n.º 1 ou para o respetivo aviso no Diário da República é aplicável o coeficiente de 1,02."
+  },
+  "202437424": {
+   "fragment_id": "202436967",
+   "type": 11,
+   "heading": "Artigo 3.º — Apoio extraordinário ao arrendamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Apoio extraordinário ao arrendamento\n\n1 - Para efeitos de imposto sobre o rendimento das pessoas singulares, a determinação dos rendimentos prediais decorrentes de contratos de arrendamento enquadráveis na categoria F, aos quais se aplicam as taxas previstas no n.º 1 do artigo 68.º ou no n.º 1 do artigo 72.º do Código do Imposto sobre o Rendimento das Pessoas Singulares (CIRS), aprovado em anexo ao Decreto-Lei n.º 442-A/88, de 30 de novembro, obtém-se através da aplicação do coeficiente de 0,91 após as deduções a que se refere o artigo 41.º do mesmo Código.\n\n2 - Aos rendimentos aos quais se aplique uma das taxas especiais previstas nos n.os 2 a 5 do artigo 72.º do CIRS, são aplicáveis os coeficientes de apoio constantes da tabela seguinte:\n\n(ver documento original)\n\n3 - Para efeitos de imposto sobre o rendimento das pessoas coletivas (IRC), a determinação dos rendimentos tributáveis de rendas, aos quais se aplicam as taxas previstas no artigo 87.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas, aprovado em anexo ao Decreto-Lei n.º 442-B/88, de 30 de novembro, obtém-se através da aplicação do coeficiente de 0,87.\n\n4 - O disposto no número anterior não se aplica a sujeitos passivos de IRC abrangidos pelo regime simplificado de determinação da matéria coletável.\n\n5 - Os coeficientes de apoio previstos no presente artigo aplicam-se apenas a rendas que, cumulativamente:\n\na) Se tornem devidas e sejam pagas em 2023;\n\nb) Emerjam de contratos de arrendamento em vigor antes de 1 de janeiro de 2022, comunicados à Autoridade Tributária e Aduaneira nos termos do artigo 60.º do Código do Imposto do Selo, aprovado em anexo à Lei n.º 150/99, de 11 de setembro, quando aplicável; e,\n\nc) Não respeitem a contratos que sejam objeto de atualização a um valor superior ao que resulte da aplicação do coeficiente de atualização determinado no artigo anterior."
+  },
+  "202437425": {
+   "fragment_id": "202436968",
+   "type": 11,
+   "heading": "Artigo 4.º — Aditamento à lista I anexa ao Código do Imposto sobre o Valor Acrescentado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Aditamento à lista I anexa ao Código do Imposto sobre o Valor Acrescentado\n\nÉ aditada a verba 2.38 à lista I anexa ao Código do Imposto sobre o Valor Acrescentado, aprovado em anexo ao Decreto-Lei n.º 394-B/84, de 26 de dezembro (Código do IVA), com a seguinte redação:\n\n«2.38 - Fornecimento de eletricidade para consumo, com exclusão das suas componentes fixas, relativamente a uma potência contratada que não ultrapasse 6,90 kVA, na parte que não exceda:\n\na) 100 kWh por período de 30 dias;\n\nb) 150 kWh por período de 30 dias, quando adquirida para consumo de famílias numerosas, considerando-se como tais os agregados familiares constituídos por cinco ou mais pessoas.\n\nAs regras a que deve obedecer a aplicação da verba, nomeadamente no que respeita à eletricidade adquirida para consumo de famílias numerosas, ao seu apuramento em tarifas multi-horárias ou à definição das regras aplicáveis ao cálculo da proporção dos limites a que se referem as alíneas a) e b) para os casos em que se verifiquem períodos inferiores ou superiores a 30 dias, são determinadas por portaria dos membros do Governo responsáveis pelas áreas das finanças e da energia.»\n\n> Nota: [Artigo 285.º, Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042) O disposto no presente artigo, produz efeitos até 31 de dezembro de 2024."
+  },
+  "202437426": {
+   "fragment_id": "202436969",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime transitório de atualização das pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regime transitório de atualização das pensões\n\n1 - As pensões regulamentares de invalidez e de velhice do regime geral de segurança social e demais pensões, subsídios e complementos, previstos na Portaria n.º 301/2021, de 15 de dezembro, atribuídos anteriormente a 1 de janeiro de 2022, são atualizados nos termos seguintes:\n\na) Em 4,43 % as pensões de valor igual ou inferior a duas vezes o valor do indexante dos apoios sociais (IAS);\n\nb) Em 4,07 % as pensões de valor superior a duas vezes o valor do IAS, até seis vezes o valor do IAS;\n\nc) Em 3,53 % as pensões de valor superior a seis vezes o valor do IAS, até 12 vezes o valor do IAS.\n\n2 - As pensões do regime de proteção social convergente da Caixa Geral de Aposentações, I. P., são atualizadas, com as necessárias adaptações, nos termos do número anterior.\n\n3 - O valor das pensões é atualizado com efeitos a partir de 1 de janeiro de 2023."
+  },
+  "202437427": {
+   "fragment_id": "202436970",
+   "type": 11,
+   "heading": "Artigo 6.º — Resgate de planos de poupança sem penalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Resgate de planos de poupança sem penalização\n\n1 - Sem prejuízo do disposto nos n.os 1 a 4 do artigo 4.º do Decreto-Lei n.º 158/2002, de 2 de julho, até 31 de dezembro de 2023 o valor de planos poupança-reforma (PPR), de planos poupança-educação (PPE) e de planos poupança-reforma/educação (PPR/E) pode ser reembolsado até ao limite mensal do IAS pelos participantes desses planos.\n\n2 - O valor reembolsado é determinado, com as necessárias adaptações, de acordo com a legislação e respetiva regulamentação aplicável aos planos e fundos de poupança, consoante a natureza, para esse reembolso, e com o previsto nos documentos constitutivos.\n\n3 - As instituições de crédito, tal como definidas no Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, e as entidades autorizadas a comercializar este tipo de produtos financeiros divulgam de forma visível, até 31 de dezembro de 2023, nos seus sítios na Internet e, no caso de emitirem extratos de conta com uma área para a prestação de informações ao cliente, nos respetivos extratos para o cliente, a possibilidade de resgate de PPR, PPE e PPR/E ao abrigo deste regime.\n\n4 - O Banco de Portugal e a Autoridade de Supervisão de Seguros e Fundos de Pensões fiscalizam as entidades que regulam quanto ao cumprimento do disposto no número anterior."
+  },
+  "202437428": {
+   "fragment_id": "202436971",
+   "type": 11,
+   "heading": "Artigo 7.º — Impenhorabilidade dos apoios às famílias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Impenhorabilidade dos apoios às famílias\n\nO apoio extraordinário a titulares de rendimentos e prestações sociais e o complemento excecional a pensionistas, previstos, respetivamente, nos artigos 2.º e 4.º do Decreto-Lei n.º 57-C/2022, de 6 de setembro, são impenhoráveis."
+  },
+  "202437429": {
+   "fragment_id": "202436972",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Norma revogatória\n\nÉ revogada a verba 2.8 da lista II anexa ao Código do IVA."
+  },
+  "202437430": {
+   "fragment_id": "202436973",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "202437431": {
+   "fragment_id": "202436974",
+   "type": 11,
+   "heading": "Artigo 10.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Produção de efeitos\n\n1 - O disposto no artigo 3.º produz efeitos entre 1 de janeiro e 31 de dezembro de 2023.\n\n2 - O disposto nos artigos 4.º e 6.º produz efeitos entre 1 de outubro de 2022 e 31 de dezembro de 2023."
+  },
+  "206253300": {
+   "fragment_id": "202436967",
+   "type": 11,
+   "heading": "Artigo 3.º — Apoio extraordinário ao arrendamento",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 273.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Apoio extraordinário ao arrendamento\n\n1 - Para efeitos de imposto sobre o rendimento das pessoas singulares, a determinação dos rendimentos prediais decorrentes de contratos de arrendamento enquadráveis na categoria F, aos quais se aplicam as taxas previstas no n.º 1 do artigo 68.º ou no n.º 1 do artigo 72.º do Código do Imposto sobre o Rendimento das Pessoas Singulares (CIRS), aprovado em anexo ao Decreto-Lei n.º 442-A/88, de 30 de novembro, obtém-se através da aplicação do coeficiente de 0,91 após as deduções a que se refere o artigo 41.º do mesmo Código.\n\n2 - Aos rendimentos aos quais se aplique uma das taxas especiais previstas nos n.os 2 a 5 do artigo 72.º do CIRS, são aplicáveis os coeficientes de apoio constantes da tabela seguinte, após as deduções a que se refere o artigo 41.º do mesmo Código:\n\n(ver documento original)\n\n3 - Para efeitos de imposto sobre o rendimento das pessoas coletivas (IRC), a determinação dos rendimentos tributáveis de rendas, aos quais se aplicam as taxas previstas no artigo 87.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas, aprovado em anexo ao Decreto-Lei n.º 442-B/88, de 30 de novembro, obtém-se através da aplicação do coeficiente de 0,87.\n\n4 - O disposto no número anterior não se aplica a sujeitos passivos de IRC abrangidos pelo regime simplificado de determinação da matéria coletável.\n\n5 - Os coeficientes de apoio previstos no presente artigo aplicam-se apenas a rendas que, cumulativamente:\n\na) Se tornem devidas e sejam pagas em 2023;\n\nb) Emerjam de contratos de arrendamento em vigor antes de 1 de janeiro de 2022, comunicados à Autoridade Tributária e Aduaneira nos termos do artigo 60.º do Código do Imposto do Selo, aprovado em anexo à Lei n.º 150/99, de 11 de setembro, quando aplicável; e,\n\nc) Não respeitem a contratos que sejam objeto de atualização a um valor superior ao que resulte da aplicação do coeficiente de atualização determinado no artigo anterior.\n\n6 - Sempre que os contratos de arrendamento a cujos rendimentos seja aplicado o disposto no n.º 2 cessem os seus efeitos antes de decorridos os prazos de duração dos mesmos ou das suas renovações por motivo imputável ao senhorio ou, no caso do direito de habitação duradoura, por acordo das partes, extingue-se o direito à aplicação dos coeficientes previstos na presente lei, sendo aplicável a regra prevista no n.º 20 do artigo 72.º do CIRS.\n\n> Alterado pelo/a Artigo 273.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01"
+  },
+  "206253301": {
+   "fragment_id": "202436970",
+   "type": 11,
+   "heading": "Artigo 6.º — Resgate de planos de poupança sem penalização",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 273.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Resgate de planos de poupança sem penalização\n\n1 - Sem prejuízo do disposto nos n.os 1 a 4 do artigo 4.º do Decreto-Lei n.º 158/2002, de 2 de julho, até 31 de dezembro de 2023 o valor de planos poupança-reforma (PPR), de planos poupança-educação (PPE) e de planos poupança-reforma/educação (PPR/E) pode ser reembolsado até ao limite mensal do IAS pelos participantes desses planos.\n\n2 - Durante o ano de 2023 é permitido o reembolso parcial ou total do valor dos planos-poupança referidos no número anterior para pagamento de prestações de contratos de crédito garantidos por hipoteca sobre imóvel destinado a habitação própria e permanente do participante, bem como prestações do crédito à construção ou beneficiação de imóveis para habitação própria e permanente, e entregas a cooperativas de habitação em soluções de habitação própria permanente, sendo dispensadas da obrigação de permanência mínima de cinco anos para mobilização sem a penalização prevista no n.º 4 do artigo 21.º do Estatuto dos Benefícios Fiscais, à semelhança das situações referidas nas alíneas b), c) e d) do n.º 1 do artigo 4.º do Decreto-Lei n.º 158/2002, de 2 de julho.\n\n3 - O valor reembolsado é determinado, com as necessárias adaptações, de acordo com a legislação e respetiva regulamentação aplicável aos planos e fundos de poupança, consoante a natureza, para esse reembolso, e com o previsto nos documentos constitutivos.\n\n4 - As instituições de crédito, tal como definidas no Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, e as entidades autorizadas a comercializar este tipo de produtos financeiros divulgam de forma visível, até 31 de dezembro de 2023, nos seus sítios na Internet e, no caso de emitirem extratos de conta com uma área para a prestação de informações ao cliente, nos respetivos extratos para o cliente, a possibilidade de resgate de PPR, PPE e PPR/E ao abrigo deste regime.\n\n5 - O Banco de Portugal e a Autoridade de Supervisão de Seguros e Fundos de Pensões fiscalizam as entidades que regulam quanto ao cumprimento do disposto no número anterior.\n\n> Alterado pelo/a Artigo 273.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01"
+  },
+  "202437432": {
+   "fragment_id": "202547175",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 22 de setembro de 2022.\n\nO Presidente da Assembleia da República, Augusto Santos Silva.\n\nPromulgada em 17 de outubro de 2022.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 17 de outubro de 2022.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n115793943"
+  },
+  "213702316": {
+   "fragment_id": "202436970",
+   "type": 11,
+   "heading": "Artigo 6.º — Resgate de planos de poupança sem penalização",
+   "in_force_from": "2023-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 24/2023 - Diário da República n.º 103/2023, Série I de 2023-05-29](https://diariodarepublica.pt/dr/detalhe/lei/24-2023-213650800), em vigor a partir de 2023-06-28",
+    "Alterado pelo/a Artigo 273.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Resgate de planos de poupança sem penalização\n\n1 - Sem prejuízo do disposto nos n.os 1 a 4 do artigo 4.º do Decreto-Lei n.º 158/2002, de 2 de julho, até 31 de dezembro de 2023 o valor de planos poupança-reforma (PPR), de planos poupança-educação (PPE) e de planos poupança-reforma/educação (PPR/E) pode ser reembolsado até ao limite mensal do IAS pelos participantes desses planos.\n\n2 - Durante o ano de 2023 é permitido o reembolso parcial ou total do valor dos planos-poupança referidos no número anterior para pagamento de prestações de contratos de crédito garantidos por hipoteca sobre imóvel destinado a habitação própria e permanente do participante, bem como prestações do crédito à construção ou beneficiação de imóveis para habitação própria e permanente, e entregas a cooperativas de habitação em soluções de habitação própria permanente, sendo dispensadas da obrigação de permanência mínima de cinco anos para mobilização sem a penalização prevista no n.º 4 do artigo 21.º do Estatuto dos Benefícios Fiscais, à semelhança das situações referidas nas alíneas b), c) e d) do n.º 1 do artigo 4.º do Decreto-Lei n.º 158/2002, de 2 de julho.\n\n3 - O disposto no número anterior é igualmente aplicável para efeitos de reembolso antecipado dos contratos de crédito nele referidos até ao limite anual de 12 IAS.\n\n4 - O valor reembolsado é determinado, com as necessárias adaptações, de acordo com a legislação e respetiva regulamentação aplicável aos planos e fundos de poupança, consoante a natureza, para esse reembolso, e com o previsto nos documentos constitutivos.\n\n5 - As instituições de crédito, tal como definidas no Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, e as entidades autorizadas a comercializar este tipo de produtos financeiros divulgam de forma visível, até 31 de dezembro de 2023, nos seus sítios na Internet e, no caso de emitirem extratos de conta com uma área para a prestação de informações ao cliente, nos respetivos extratos para o cliente, a possibilidade de resgate de PPR, PPE e PPR/E ao abrigo deste regime.\n\n6 - As entidades referidas no número anterior adequam os respetivos canais de atendimento, assegurando que os clientes podem aceder ao regime de resgate criado pelo presente artigo nos mesmos canais, designadamente digitais e telefónicos, que facultam para as restantes operações de subscrição, reforço ou resgate dos planos enunciados nos n.os 1 e 2.\n\n7 - O Banco de Portugal e a Autoridade de Supervisão de Seguros e Fundos de Pensões fiscalizam as entidades que regulam quanto ao cumprimento do disposto nos n.os 5 e 6.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 24/2023 - Diário da República n.º 103/2023, Série I de 2023-05-29](https://diariodarepublica.pt/dr/detalhe/lei/24-2023-213650800), em vigor a partir de 2023-06-28\n\n> Alterado pelo/a Artigo 273.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01"
+  },
+  "222582055": {
+   "fragment_id": "202436967",
+   "type": 11,
+   "heading": "Artigo 3.º — Apoio extraordinário ao arrendamento",
+   "in_force_from": "2023-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 33.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07",
+    "Alterado pelo/a Artigo 273.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Apoio extraordinário ao arrendamento\n\n1 - Para efeitos de imposto sobre o rendimento das pessoas singulares, a determinação dos rendimentos prediais decorrentes de contratos de arrendamento enquadráveis na categoria F, aos quais se aplicam as taxas previstas no n.º 1 do artigo 68.º ou no n.º 2 do artigo 72.º do Código do Imposto sobre o Rendimento das Pessoas Singulares (CIRS), aprovado em anexo ao Decreto-Lei n.º 442-A/88, de 30 de novembro, obtém-se através da aplicação do coeficiente de 0,90 após as deduções a que se refere o artigo 41.º do mesmo Código.\n2 - Aos rendimentos aos quais se aplique uma das taxas especiais previstas nos n.os 3 a 5 do artigo 72.º do CIRS, são aplicáveis os coeficientes de apoio constantes da tabela seguinte, após as deduções a que se refere o artigo 41.º do mesmo Código:\n\n| Taxa aplicável | Coeficiente<br>de apoio |\n| --- | --- |\n|  |  |\n| 26 %... | 0,90 |\n| 24 %... | 0,89 |\n| 23 %... | 0,89 |\n| 22 %... | 0,88 |\n| 21 %... | 0,87 |\n| 20 %... | 0,87 |\n| 19 %... | 0,86 |\n| 18 %... | 0,85 |\n| 16 %... | 0,82 |\n| 15 %... | 0,81 |\n| 14 %... | 0,79 |\n| 10 %... | 0,70 |\n| 5 %... | 0,45 |\n\n3 - Para efeitos de imposto sobre o rendimento das pessoas coletivas (IRC), a determinação dos rendimentos tributáveis de rendas, aos quais se aplicam as taxas previstas no artigo 87.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas, aprovado em anexo ao Decreto-Lei n.º 442-B/88, de 30 de novembro, obtém-se através da aplicação do coeficiente de 0,87.\n4 - O disposto no número anterior não se aplica a sujeitos passivos de IRC abrangidos pelo regime simplificado de determinação da matéria coletável.\n5 - Os coeficientes de apoio previstos no presente artigo aplicam-se apenas a rendas que, cumulativamente:\na) Se tornem devidas e sejam pagas em 2023;\nb) Emerjam de contratos de arrendamento em vigor antes de 1 de janeiro de 2022, comunicados à Autoridade Tributária e Aduaneira nos termos do artigo 60.º do Código do Imposto do Selo, aprovado em anexo à Lei n.º 150/99, de 11 de setembro, quando aplicável; e,\nc) Não respeitem a contratos que sejam objeto de atualização a um valor superior ao que resulte da aplicação do coeficiente de atualização determinado no artigo anterior.\n6 - Sempre que os contratos de arrendamento a cujos rendimentos seja aplicado o disposto no n.º 2 cessem os seus efeitos antes de decorridos os prazos de duração dos mesmos ou das suas renovações por motivo imputável ao senhorio ou, no caso do direito de habitação duradoura, por acordo das partes, extingue-se o direito à aplicação dos coeficientes previstos na presente lei, sendo aplicável a regra prevista no n.º 20 do artigo 72.º do CIRS.\n\n> Alterado pelo/a Artigo 33.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07\n\n> Alterado pelo/a Artigo 273.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01"
+  },
+  "836904040": {
+   "fragment_id": "202436970",
+   "type": 11,
+   "heading": "Artigo 6.º — Resgate de planos de poupança sem penalização",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 313.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 24/2023 - Diário da República n.º 103/2023, Série I de 2023-05-29](https://diariodarepublica.pt/dr/detalhe/lei/24-2023-213650800), em vigor a partir de 2023-06-28",
+    "Alterado pelo/a Artigo 273.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Resgate de planos de poupança sem penalização\n\n1 - Sem prejuízo do disposto nos n.os 1 a 4 do artigo 4.º do Decreto-Lei n.º 158/2002, de 2 de julho, até 31 de dezembro de 2024 o valor de planos poupança-reforma (PPR), de planos poupança-educação (PPE) e de planos poupança reforma/educação (PPR/E) pode ser reembolsado até ao limite mensal do IAS pelos participantes desses planos.\n\n2 - Durante os anos de 2023 e 2024 é permitido o reembolso parcial ou total do valor dos planos-poupança referidos no número anterior para pagamento de prestações de contratos de crédito garantidos por hipoteca sobre imóvel destinado a habitação própria e permanente do participante, bem como prestações do crédito à construção ou beneficiação de imóveis para habitação própria e permanente, e entregas a cooperativas de habitação em soluções de habitação própria permanente, sendo dispensadas da obrigação de permanência mínima de cinco anos para mobilização sem a penalização prevista no n.º 4 do artigo 21.º do Estatuto dos Benefícios Fiscais, à semelhança das situações referidas nas alíneas b), c) e d) do n.º 1 do artigo 4.º do Decreto-Lei n.º 158/2002, de 2 de julho.\n\n3 - O disposto no número anterior é igualmente aplicável para efeitos de reembolso antecipado dos contratos de crédito nele referidos até ao limite anual de 24 IAS.\n\n4 - O valor reembolsado é determinado, com as necessárias adaptações, de acordo com a legislação e respetiva regulamentação aplicável aos planos e fundos de poupança, consoante a natureza, para esse reembolso, e com o previsto nos documentos constitutivos.\n\n5 - As instituições de crédito, tal como definidas no Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, e as entidades autorizadas a comercializar este tipo de produtos financeiros divulgam de forma visível, até 31 de dezembro de 2024, nos seus sítios na Internet e, no caso de emitirem extratos de conta com uma área para a prestação de informações ao cliente, nos respetivos extratos para o cliente, a possibilidade de resgate de PPR, PPE e PPR/E ao abrigo deste regime.\n\n6 - As entidades referidas no número anterior adequam os respetivos canais de atendimento, assegurando que os clientes podem aceder ao regime de resgate criado pelo presente artigo nos mesmos canais, designadamente digitais e telefónicos, que facultam para as restantes operações de subscrição, reforço ou resgate dos planos enunciados nos n.os 1 e 2.\n\n7 - O Banco de Portugal e a Autoridade de Supervisão de Seguros e Fundos de Pensões fiscalizam as entidades que regulam quanto ao cumprimento do disposto nos n.os 5 e 6.\n\n> Alterado pelo/a Artigo 313.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 24/2023 - Diário da República n.º 103/2023, Série I de 2023-05-29](https://diariodarepublica.pt/dr/detalhe/lei/24-2023-213650800), em vigor a partir de 2023-06-28\n\n> Alterado pelo/a Artigo 273.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01"
+  },
+  "875980989": {
+   "fragment_id": "202436974",
+   "type": 11,
+   "heading": "Artigo 10.º — Produção de efeitos",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 38/2024 - Diário da República n.º 152/2024, Série I de 2024-08-07](https://diariodarepublica.pt/dr/detalhe/lei/38-2024-875716582), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Produção de efeitos\n\n1 - O disposto no artigo 3.º produz efeitos entre 1 de janeiro e 31 de dezembro de 2023.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 38/2024 - Diário da República n.º 152/2024, Série I de 2024-08-07](https://diariodarepublica.pt/dr/detalhe/lei/38-2024-875716582), em vigor a partir de 2025-01-01"
+  }
+ }
+}

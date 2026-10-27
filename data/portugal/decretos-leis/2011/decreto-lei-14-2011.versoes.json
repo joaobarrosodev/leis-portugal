@@ -1,0 +1,256 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:280946:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2011-212320696",
+ "dre_path": "/dr/detalhe/decreto-lei/14-2011-280946",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-01-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "212302504",
+    "212302505",
+    "212302506",
+    "212302507",
+    "212302508",
+    "212302509",
+    "212302510",
+    "212302511",
+    "212302512",
+    "212302513",
+    "212302514",
+    "212302515",
+    "212302516"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:564627:por",
+     "title": "Declaração de Rectificação n.º 8-A/2011",
+     "published": "2011-03-25",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/8-a-2011-564627",
+     "date": "2011-01-30"
+    }
+   ]
+  },
+  {
+   "date": "2015-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66016527:por",
+     "title": "Lei n.º 82-B/2014",
+     "published": "2014-12-31",
+     "dre_path": "/dr/detalhe/lei/82-b-2014-66016527"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "212302504",
+    "212302505",
+    "212302506",
+    "212302507",
+    "212302508",
+    "212322715",
+    "212302510",
+    "212302511",
+    "212302512",
+    "212302513",
+    "212322713",
+    "212322714",
+    "212302516",
+    "212302517"
+   ]
+  },
+  {
+   "date": "2026-05-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1126594009:por",
+     "title": "Decreto-Lei n.º 105/2026",
+     "published": "2026-05-26",
+     "dre_path": "/dr/detalhe/decreto-lei/105-2026-1126594009"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "212302504",
+    "212302505",
+    "212302506",
+    "212302507",
+    "212302508",
+    "1127137775",
+    "212302510",
+    "212302511",
+    "212302512",
+    "212302513",
+    "212322713",
+    "212322714",
+    "212302516",
+    "212302517"
+   ]
+  }
+ ],
+ "fragments": {
+  "212302504": {
+   "fragment_id": "212320697",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 14/2011\n\nde 25 de Janeiro\n\nO presente decreto-lei cria, no âmbito do Ministério da Justiça, o Fundo para a Modernização da Justiça, o qual visa assegurar a sustentabilidade de reformas essenciais já em curso ou projectadas, dotando o sistema de novas fontes de financiamento.\n\nTrata-se de um fundo com receitas próprias garantidas que visa a modernização judiciária, em particular a realização de acções de formação e de divulgação, a investigação científica, o apetrechamento dos tribunais, a introdução de novos processos e tecnologias, com o objectivo de aumentar a eficiência e a eficácia dos serviços e, em geral, a actualização e modernização das demais infra-estruturas do sistema de Justiça.\n\nProssegue-se assim o objectivo do XVIII Governo Constitucional de modernizar o Estado através de medidas que passam, entre outras, pela reforma da Administração Pública e pelo aperfeiçoamento dos moldes institucionais e organizativos da Justiça.\n\nO financiamento do fundo é assegurado por um conjunto de receitas diversificadas. Refiram-se, a título de exemplo, uma percentagem do montante reservado ao Estado do produto das coimas por infracções ocorridas em infra-estruturas rodoviárias, uma percentagem do valor dos montantes recuperados em sede de processo tributário e de recuperação de activos resultantes de actividades criminosas, bem como o produto de aplicações financeiras dos capitais disponíveis no fundo ou de doações, heranças, legados ou contribuições mecenáticas, entre outras receitas que lhe sejam atribuídas por lei ou negócio jurídico.\n\nA natureza e a origem diversificada dessas receitas exprimem a solidariedade devida à Justiça pela relevante contribuição que dá para a defesa da legalidade democrática, a redução de custos de contexto, o reforço da competitividade do País e a realização de outros importantes objectivos com impacto transversal.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "212302505": {
+   "fragment_id": "212320698",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei cria, no âmbito do Ministério da Justiça, o Fundo para a Modernização da Justiça, doravante designado Fundo, e procede à alteração ao Decreto-Lei n.º 206/2006, de 27 de Outubro, que aprova a orgânica do Ministério da Justiça."
+  },
+  "212302506": {
+   "fragment_id": "212320699",
+   "type": 11,
+   "heading": "Artigo 2.º — Criação e natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Criação e natureza\n\n1 - É criado o Fundo para a Modernização da Justiça.\n\n2 - O Fundo tem a natureza de património autónomo, sem personalidade jurídica, com autonomia financeira e rege-se pelo disposto no presente decreto-lei e demais legislação aplicável."
+  },
+  "212302507": {
+   "fragment_id": "212320700",
+   "type": 11,
+   "heading": "Artigo 3.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objectivos\n\nO Fundo tem por objectivos o financiamento de projectos tendentes a assegurar a modernização judiciária."
+  },
+  "212302508": {
+   "fragment_id": "212320701",
+   "type": 11,
+   "heading": "Artigo 4.º — Finalidades do fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Finalidades do fundo\n\nO Fundo tem por finalidade apoiar as seguintes áreas:\n\na) A introdução de novas tecnologias;\n\nb) A introdução de novos processos ou alteração de processos existentes com o objectivo de aumentar a eficiência ou a eficácia dos serviços;\n\nc) A actualização e modernização do parque judiciário e das demais infra-estruturas do sistema de Justiça;\n\nd) A realização de acções de divulgação e formação em matéria de modernização judiciária;\n\ne) A investigação científica."
+  },
+  "212302509": {
+   "fragment_id": "212320702",
+   "type": 11,
+   "heading": "Artigo 5.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Financiamento\n\n1 - O financiamento do Fundo é assegurado pelas seguintes receitas:\n\na) 50 % do produto do agravamento da taxa de justiça aos grandes litigantes;\n\nb) 5 % do montante reservado ao Estado do produto das coimas por infracções ocorridas em infra-estruturas rodoviárias;\n\nc) Uma percentagem a definir por portaria dos membros do Governo responsáveis pelas áreas das finanças e da justiça dos montantes recuperados em sede de processo tributário;\n\nd) 50 % dos montantes obtidos por força da acção do gabinete de recuperação de activos resultantes de actividades criminosas;\n\ne) O produto das aplicações financeiras dos capitais disponíveis no fundo;\n\nf) O produto de doações, heranças, legados ou contribuições mecenáticas;\n\ng) Quaisquer outras receitas que lhe sejam atribuídas por lei ou negócio jurídico.\n\n2 - As receitas previstas nas alíneas c) e d) do número anterior são transferidas pelas entidades responsáveis pela respectiva cobrança, para o Fundo, no final de cada trimestre do ano económico a que dizem respeito.\n\n3 - Os saldos que venham a ser apurados no fim de cada ano económico transitam para o ano seguinte."
+  },
+  "212302510": {
+   "fragment_id": "212320703",
+   "type": 11,
+   "heading": "Artigo 6.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Despesas\n\nConstituem despesas do Fundo as que resultem de encargos decorrentes da aplicação do presente decreto-lei, bem como do regulamento previsto no artigo 9.º"
+  },
+  "212302511": {
+   "fragment_id": "212320704",
+   "type": 11,
+   "heading": "Artigo 7.º — Administração e gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Administração e gestão\n\n1 - É da competência do Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P. (IGFIJ, I. P.) a prática de todos os actos de administração e gestão do Fundo.\n\n2 - No exercício das competências de administração e de gestão atribuídas ao IGFIJ, I. P., cabe ao seu conselho directivo, nomeadamente, o seguinte:\n\na) Aprovar o plano anual de actividades e do relatório anual de execução;\n\nb) Propor ao Ministro da Justiça as orientações estratégicas de aplicação do Fundo;\n\nc) Aprovar o financiamento de projectos que constem do Quadro de Avaliação e Responsabilização (QUAR) dos organismos do Ministério da Justiça ou que contribuam para os seus objectivos, mediante prévia cabimentação orçamental, nos termos do regulamento referido no artigo 9.º, e propor a homologação pelo membro do Governo responsável pela área da justiça e da modernização judiciária;\n\nd) Decidir em todas as matérias que envolvam encargos e assunção de responsabilidades pelo Fundo;\n\ne) Assegurar a autonomia no registo e controlo dos fluxos financeiros próprios do Fundo, bem como a identificação clara das candidaturas que venha a financiar;\n\nf) Garantir a existência de uma contabilidade específica para o Fundo, de acordo com princípios que permitam uma clara diferenciação entre esta e a restante contabilidade do IGFIJ, I. P.;\n\ng) Proceder ao controlo da regularidade das despesas efectuadas pelos beneficiários no âmbito dos apoios financiados;\n\nh) Fornecer às entidades competentes todas as informações que venham a ser por estas solicitadas.\n\n3 - A gestão do Fundo é realizada de acordo com os princípios, regras e instrumentos de gestão e controlo previstos no regulamento a que se refere o n.º 1 do artigo 9.º"
+  },
+  "212302512": {
+   "fragment_id": "212320705",
+   "type": 11,
+   "heading": "Artigo 8.º — Comissões consultivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Comissões consultivas\n\nPor despacho do membro do Governo responsável pela área da justiça podem ser constituídas, sem acréscimo de encargos para o Estado, comissões consultivas para a modernização da justiça destinadas a colaborar na definição das orientações estratégicas do Fundo."
+  },
+  "212302513": {
+   "fragment_id": "212320706",
+   "type": 11,
+   "heading": "Artigo 9.º — Regulamento do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regulamento do Fundo\n\n1 - O regulamento do Fundo é aprovado por portaria do membro do Governo responsável pela área da justiça, no prazo de 30 dias a contar da entrada em vigor do presente decreto-lei.\n\n2 - O regulamento previsto no número anterior estabelece, nomeadamente, o seguinte:\n\na) O objecto do regime de financiamento previsto;\n\nb) Os procedimentos de apresentação e decisão das candidaturas;\n\nc) As regras relativas ao financiamento e à afectação dos recursos financeiros.\n\n3 - Podem ser beneficiários do Fundo os serviços, organismos, órgãos consultivos e demais estruturas do Ministério da Justiça, nos termos do regulamento a que se refere o número anterior."
+  },
+  "212302514": {
+   "fragment_id": "212320707",
+   "type": 11,
+   "heading": "Artigo 10.º — Alteração ao Decreto-Lei n.º 206/2006, de 27 de Outubro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Alteração ao Decreto-Lei n.º 206/2006, de 27 de Outubro\n\nO artigo 5.º do Decreto-Lei n.º 206/2006, de 27 de Outubro, passa a ter a seguinte redacção:\n\n«Artigo 5.º\n\n[...]\n\n...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) O Fundo para a Modernização da Justiça;\n\ne) ...»"
+  },
+  "212302515": {
+   "fragment_id": "212320708",
+   "type": 11,
+   "heading": "Artigo 11.º — Aditamento ao Decreto-Lei n.º 206/2006, de 27 de Outubro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Aditamento ao Decreto-Lei n.º 206/2006, de 27 de Outubro\n\nÉ aditado ao Decreto-Lei n.º 206/2006, de 27 de Outubro, o artigo 21.º-A, com a seguinte redacção:\n\n«Artigo 21.º-A\n\nFundo para a Modernização da Justiça\n\n1 - O Fundo para a Modernização da Justiça tem por missão financiar projectos tendentes a assegurar a modernização judiciária, nas suas diversas vertentes.\n\n2 - São atribuições do Fundo contribuir para promover:\n\na) A introdução de novas tecnologias;\n\nb) A introdução de novos processos ou alteração de processos existentes com o objectivo de aumentar a eficiência ou a eficácia dos serviços;\n\nc) A actualização e modernização do parque judiciário e das demais infra-estruturas do sistema de Justiça;\n\nd) A realização de acções de divulgação e formação em matéria de modernização judiciária;\n\ne) A investigação científica.\n\n3 - O Fundo para a Modernização da Justiça tem a natureza de património autónomo, sem personalidade jurídica, com autonomia financeira.\n\n4 - A administração e gestão do Fundo compete ao conselho directivo do IGFIJ, I. P.»"
+  },
+  "212302516": {
+   "fragment_id": "212320709",
+   "type": 11,
+   "heading": "Artigo 12.º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Aplicação no tempo\n\nAs receitas referidas no artigo 5.º do presente decreto-lei revertem para o Fundo a partir de 1 de Janeiro de 2011."
+  },
+  "212322715": {
+   "fragment_id": "212320702",
+   "type": 11,
+   "heading": "Artigo 5.º — Financiamento",
+   "in_force_from": "2015-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 171.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Financiamento\n\n1 - O financiamento do Fundo é assegurado pelas seguintes receitas:\n\na) 50 % do produto do agravamento da taxa de justiça aos grandes litigantes;\n\nb) 5 % do montante reservado ao Estado do produto das coimas por infracções ocorridas em infra-estruturas rodoviárias;\n\nc) Uma percentagem a definir por portaria dos membros do Governo responsáveis pelas áreas das finanças e da justiça dos montantes recuperados em sede de processo tributário;\n\nd) 50 % dos montantes obtidos por força da acção do gabinete de recuperação de activos resultantes de actividades criminosas;\n\ne) 50 % do produto da alienação dos bens perdidos a favor do Estado, nos termos do artigo 186.º do Código de Processo Penal, aprovado pelo Decreto-Lei n.º 78/87, de 17 de fevereiro, e do n.º 1 do artigo 35.º e do artigo 36.º do Decreto-Lei n.º 15/93, de 22 de janeiro;\n\nf) O produto das aplicações financeiras dos capitais disponíveis no fundo;\n\ng) O produto de doações, heranças, legados ou contribuições mecenáticas;\n\nh) Quaisquer outras receitas que lhe sejam atribuídas por lei ou negócio jurídico.\n\n2 - As receitas previstas nas alíneas c) e d) do número anterior são transferidas pelas entidades responsáveis pela respectiva cobrança, para o Fundo, no final de cada trimestre do ano económico a que dizem respeito.\n\n3 - Os saldos que venham a ser apurados no fim de cada ano económico transitam para o ano seguinte.\n\n> Alterado pelo/a Artigo 171.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+  },
+  "212322713": {
+   "fragment_id": "212320707",
+   "type": 11,
+   "heading": "Artigo 10.º — Alteração ao Decreto-Lei n.º 206/2006, de 27 de Outubro",
+   "in_force_from": "2011-01-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 8-A/2011 - Diário da República n.º 60/2011, 1º Suplemento, Série I de 2011-03-25](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-a-2011-564627), em vigor a partir de 2011-01-30"
+   ],
+   "markdown": "###### Artigo 10.º — Alteração ao Decreto-Lei n.º 206/2006, de 27 de Outubro\n\nO artigo 7.º do Decreto-Lei n.º 206/2006, de 27 de Outubro, passa a ter a seguinte redacção:\n\n«Artigo 7.º\n\n[...]\n\n...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) O Fundo para a Modernização da Justiça.;\n\ne) ...»\n\n> Retificado pelo/a [Declaração de Rectificação n.º 8-A/2011 - Diário da República n.º 60/2011, 1º Suplemento, Série I de 2011-03-25](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-a-2011-564627), em vigor a partir de 2011-01-30"
+  },
+  "212322714": {
+   "fragment_id": "212320708",
+   "type": 11,
+   "heading": "Artigo 11.º — Aditamento ao Decreto-Lei n.º 206/2006, de 27 de Outubro",
+   "in_force_from": "2011-01-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 8-A/2011 - Diário da República n.º 60/2011, 1º Suplemento, Série I de 2011-03-25](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-a-2011-564627), em vigor a partir de 2011-01-30"
+   ],
+   "markdown": "###### Artigo 11.º — Aditamento ao Decreto-Lei n.º 206/2006, de 27 de Outubro\n\nÉ aditado ao Decreto-Lei n.º 206/2006, de 27 de Outubro, o artigo 25.º-A, com a seguinte redacção:\n\n«Artigo 25.º-A\n\n1 - O Fundo para a Modernização da Justiça tem por missão financiar projectos tendentes a assegurar a modernização judiciária, nas suas diversas vertentes.\n\n2 - São atribuições do Fundo contribuir para promover:\n\na) A introdução de novas tecnologias;\n\nb) A introdução de novos processos ou alteração de processos existentes com o objectivo de aumentar a eficiência ou a eficácia dos serviços;\n\nc) A actualização e modernização do parque judiciário e das demais infra-estruturas do sistema de Justiça;\n\nd) A realização de acções de divulgação e formação em matéria de modernização judiciária;\n\ne) A investigação científica.\n\n3 - O Fundo para a Modernização da Justiça tem a natureza de património autónomo, sem personalidade jurídica, com autonomia financeira.\n\n4 - A administração e gestão do Fundo compete ao conselho directivo do IGFIJ, I. P.»\n\n> Retificado pelo/a [Declaração de Rectificação n.º 8-A/2011 - Diário da República n.º 60/2011, 1º Suplemento, Série I de 2011-03-25](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-a-2011-564627), em vigor a partir de 2011-01-30"
+  },
+  "212302517": {
+   "fragment_id": "212320710",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 4 de Novembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto de Sousa Martins.\n\nPromulgado em 3 de Janeiro de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 7 de Janeiro de 2011.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "1127137775": {
+   "fragment_id": "212320702",
+   "type": 11,
+   "heading": "Artigo 5.º — Financiamento",
+   "in_force_from": "2026-05-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 165.º do/a [Decreto-Lei n.º 105/2026 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2026-1126594009), em vigor a partir de 2026-05-26.",
+    "Alterado pelo/a Artigo 171.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Financiamento\n\n1 - O financiamento do Fundo é assegurado pelas seguintes receitas:\n\na) 50 % do produto do agravamento da taxa de justiça aos grandes litigantes;\n\nb) 5 % do montante reservado ao Estado do produto das coimas por infracções ocorridas em infra-estruturas rodoviárias;\n\nc) Uma percentagem a definir por portaria dos membros do Governo responsáveis pelas áreas das finanças e da justiça dos montantes recuperados em sede de processo tributário;\n\nd) [Revogada,]\n\ne) 50 % do produto da alienação dos bens perdidos a favor do Estado, nos termos do artigo 186.º do Código de Processo Penal, aprovado pelo Decreto-Lei n.º 78/87, de 17 de fevereiro, e do n.º 1 do artigo 35.º e do artigo 36.º do Decreto-Lei n.º 15/93, de 22 de janeiro;\n\nf) O produto das aplicações financeiras dos capitais disponíveis no fundo;\n\ng) O produto de doações, heranças, legados ou contribuições mecenáticas;\n\nh) Quaisquer outras receitas que lhe sejam atribuídas por lei ou negócio jurídico.\n\n2 - As receitas previstas nas alíneas c) e d) do número anterior são transferidas pelas entidades responsáveis pela respectiva cobrança, para o Fundo, no final de cada trimestre do ano económico a que dizem respeito.\n\n3 - Os saldos que venham a ser apurados no fim de cada ano económico transitam para o ano seguinte.\n\n> Alterado pelo/a Artigo 165.º do/a [Decreto-Lei n.º 105/2026 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2026-1126594009), em vigor a partir de 2026-05-26.\n\n> Alterado pelo/a Artigo 171.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+  }
+ }
+}

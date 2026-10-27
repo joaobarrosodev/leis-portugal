@@ -1,0 +1,165 @@
+---
+schema_version: '1.0'
+id: pt:dre:1087907681:por
+title: Resolução do Conselho de Ministros n.º 72/2026
+short_title: null
+summary: Designa o presidente do conselho de administração da Unidade Local de Saúde de Entre Douro e Vouga, E. P. E.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 72/2026
+official_date: null
+publication_date: '2026-04-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 78/2026, Série I de 2026-04-22
+  number: '78'
+  series: I
+  supplement: null
+  pages: 2 - 3
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/04/07800/0000200003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/72/2026/04/22/p/dre/pt/html
+  oj: null
+  dre: '1087907681'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/72-2026-1087907681
+  internal: pt:dre:1087907681:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/72-2026-1087907681
+  metadata_url: https://data.dre.pt/eli/resolconsmin/72/2026/04/22/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/72-2026-1087907681
+  consolidated_url: null
+  retrieved_at: '2026-10-22T18:39:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8e943e94d8e9b608b80993006454457d390175f80546abd9ce635582f13f36a5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:39:04Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho de Administração
+- Conselho de Ministros
+- Estatuto
+- Gestor Público
+- Governo XXV
+- Nomeação
+- Presidente
+- Regulamentação de Atos Legislativos
+- Serviço Nacional de Saúde
+- Unidade Local de Saúde de Entre Douro e Vouga
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/18/2012/02/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/18/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/52/2022/08/04/p/dre
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
+- type: cites
+  target: pt:dre:840715785:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T18:39:04Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 72/2026
+
+Tendo em vista melhorar a prestação de cuidados de saúde e reforçar o acesso das populações abrangidas, garantindo que todos os cidadãos tenham acesso a cuidados de saúde de qualidade e de forma tempestiva e equitativa, o Governo tem procurado implementar um conjunto de medidas que reforcem a capacidade de resposta do Serviço Nacional de Saúde (SNS).
+
+Para se alcançar este desiderato, ou seja, fortalecer a capacidade de resposta das entidades integradas no SNS, é necessário que a respetiva gestão seja assegurada por um conselho de administração capaz de adotar estratégias eficazes, quer de planeamento quer de gestão eficiente dos recursos disponíveis.
+
+Atendendo a que o cargo de presidente do conselho de administração da Unidade Local de Saúde de Entre Douro e Vouga, E. P. E., se encontra vago, torna-se necessário proceder à designação de um novo titular, para completar o mandato em curso do atual conselho de administração, designado pelo [Despacho n.º 1567/2024](https://diariodarepublica.pt/dr/detalhe/despacho/1567-2024-840715785), do diretor executivo, de 8 de fevereiro.
+
+A remuneração dos membros do conselho de administração da Unidade Local de Saúde de Entre Douro e Vouga, E. P. E., obedece ao disposto no n.º 5 da [Resolução do Conselho de Ministros n.º 18/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-2012-542993), de 21 de fevereiro, e à classificação atribuída pela [Resolução do Conselho de Ministros n.º 36/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-2012-553924), de 26 de março.
+
+Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, a Comissão de Recrutamento e Seleção para a Administração Pública, que se pronunciou favoravelmente sobre a designação constante da presente resolução.
+
+Assim:
+
+Nos termos dos n.os2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, do artigo 12.º, dos n.os1 a 3 do artigo 13.º, do artigo 15.º e da alínea c) do n.º 3 do artigo 20.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Designar, para exercer funções de presidente do conselho de administração da Unidade Local de Saúde de Entre Douro e Vouga, E. P. E., Carlos Alberto Couto da Silva, cuja idoneidade, experiência e competências profissionais para o desempenho do cargo são evidenciadas na respetiva nota curricular, que consta do anexo à presente resolução e da qual faz parte integrante.
+
+2 - Estabelecer que a presente designação é feita pelo período restante do mandato em curso dos membros do atual conselho de administração da Unidade Local de Saúde de Entre Douro e Vouga, E. P. E.
+
+3 - Autorizar o designado Carlos Alberto Couto da Silva a exercer a atividade de docência em estabelecimentos de ensino superior público ou de interesse público, devendo a acumulação de funções ora autorizada ser exercida em horário e de forma a não colidir com o exercício das funções para as quais está a ser designado.
+
+4 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros, 9 de abril de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+## ANEXO — (a que se refere o n.º 1)
+
+Nota curricular
+
+Carlos Alberto Couto da Silva.
+
+Data de nascimento: 25 de abril de 1964.
+
+Naturalidade: Grijó - Vila Nova de Gaia e residente: Alvarelhos - Trofa.
+
+Formação académica e profissional:
+
+Bacharelato em Contabilidade e Administração pelo ISCAP, licenciatura em Economia pela Faculdade de Economia do Porto, Ciclo Europeu de Management Superior pelo Institut Français de Géstion, Mastering the New Challenges of Health Care pela Universidade de Lausanne e Harvard Medical International, Mastering Health Care Finance pela Universidade de Lausanne e Harvard Medical International (fui também coorganizador); PADIS.
+
+Experiência profissional:
+
+Auditor da empresa Ernst & Whinney; Responsável pela auditoria interna da Companhia de Seguros Garantia; Auditor interno da equipa internacional do grupo de bebidas canadiano Seagram (integrava em Portugal as marcas Sandeman, Raposeira, Macieira, etc); Diretor financeiro da empresa SGO Electrodomésticos; Diretor administrativo e financeiro da Champcork (Grupo Amorim); Vogal do conselho de administração da Raro (Grupo Amorim); Consultor da administração e formador de várias empresas (ex: Têxtil Nortenha); Administrador delegado do Hospital Conde de S. Bento (Santo Tirso); Administrador delegado do Hospital da Trofa; Responsável pelo Serviço de Planeamento e Apoio à Gestão do Hospital Padre Américo - Vale do Sousa; Diretor de zona dos CTT - Correios de Portugal; Vogal do conselho de administração do Hospital Geral de Santo António; Vogal do conselho de administração do Centro Hospitalar do Porto; Diretor-geral da empresa ELNOR; Diretor administrativo e financeiro da empresa SADOTEL (operações do Grupo Altice na República Dominicana); Diretor administrativo e financeiro da TNORD (operações do Grupo Altice em Portugal); Presidente do conselho de administração do Centro Hospitalar do Tâmega e Sousa; e presidente do conselho de administração da Unidade Local de Saúde do Tâmega e Sousa; Membro da comissão executiva da CESPU (Ensino Superior Politécnico e Universitário nas áreas da Saúde) e secretário do conselho de supervisão da Ordem dos Médicos.
+
+Outros:
+
+Presidência e direção de diversas coletividades de desporto e música; membro da Direção das Ligas de Amigos dos Hospitais de Santo Tirso e Santo António; etc.
+
+119948303

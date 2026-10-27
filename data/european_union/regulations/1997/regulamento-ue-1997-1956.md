@@ -1,0 +1,220 @@
+---
+schema_version: '1.0'
+id: eu:celex:31997R1956:por
+title: Regulamento (CE) nº 1956/97 da Commissão de 8 de Outubro de 1997
+short_title: null
+summary: Regulamento (CE) nº 1956/97 da Commissão de 8 de Outubro de 1997 que derroga e altera o Regulamento (CEE) nº 2456/93
+  relativo às normas de execução do Regulamento (CEE) nº 805/68 do Conselho no que respeita à intervenção pública
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 1997/1956
+official_date: null
+publication_date: '1997-10-09'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 276 de 9.10.1997
+  number: '276'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/70606ed6-584e-4ba4-bf4d-ea99d8939f31.0011.02/DOC_1
+entry_into_force_dates:
+- '1997-10-01'
+- '1997-10-09'
+end_of_validity_date: '2000-04-01'
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 31997R1956
+  eli: http://data.europa.eu/eli/reg/1997/1956/oj
+  oj: oj:JOL_1997_276_R_0034_007
+  dre: null
+  dre_path: null
+  internal: eu:celex:31997R1956:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A31997R1956
+  metadata_url: http://publications.europa.eu/resource/cellar/70606ed6-584e-4ba4-bf4d-ea99d8939f31.0011
+  content_url: http://publications.europa.eu/resource/cellar/70606ed6-584e-4ba4-bf4d-ea99d8939f31.0011.01/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-26T13:59:29Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-04-07T11:43:04.536+02:00'
+integrity:
+  source_sha256: c3fe7cccb3eeedb2c31843e223f8376c078a01ec7ca7744a650ef0efc2a4f549
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T13:59:29Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- carcaça
+- carne de vaca
+- compra de intervenção
+- organismo de intervenção
+- qualidade do produto
+relationships:
+- type: amends
+  target: celex:31993R2456
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c72f0454-59e1-463d-9d8d-bfa7b9ab7f60
+  date: '1993-09-04'
+- type: based_on
+  target: celex:31968R0805
+  label: null
+  source: http://publications.europa.eu/resource/cellar/2aa83e99-b89a-4a0e-84d9-4f7a63c4f2c5
+  date: '1968-06-28'
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T13:59:29Z'
+  warnings:
+  - Não foi detetado o título principal no XHTML.
+  errors: []
+---
+
+# Regulamento (CE) nº 1956/97 da Commissão de 8 de Outubro de 1997
+
+**Regulamento (CE) nº 1956/97 da Commissão de 8 de Outubro de 1997 que derroga e altera o Regulamento (CEE) nº 2456/93 relativo às normas de execução do Regulamento (CEE) nº 805/68 do Conselho no que respeita à intervenção pública** *Jornal Oficial nº L 276 de 09/10/1997 p. 0034 - 0035*
+
+REGULAMENTO (CE) Nº 1956/97 DA COMISSÃO de 8 de Outubro de 1997 que derroga e altera o Regulamento (CEE) nº 2456/93 relativo às normas de execução do Regulamento (CEE) nº 805/68 do Conselho no que respeita à intervenção pública
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia,
+
+Tendo em conta o Regulamento (CEE) nº 805/68 do Conselho, de 27 de Junho de 1968, que estabelece a organização comum de mercado no sector da carne de bovino (1), com a última redacção que lhe foi dada pelo Regulamento (CE) nº 2222/96 (2), e, nomeadamente, o nº 7 do seu artigo 6º e o nº 3 do seu artigo 22ºA,
+
+Considerando que, devido ao fraco consumo da carne de bovino actualmente verificado em determinados mercados comunitários, persiste no sector uma descida significativa dos preços no respeitante a determinadas qualidades; que esta situação exige medidas de apoio;
+
+Considerando que é conveniente, com este intuito, prever certas derrogações das disposições do Regulamento (CEE) nº 2456/93 da Comissão (3), com a última redacção que lhe foi dada pelo Regulamento (CE) nº 1304/97 (4), relativamente aos concursos abertos durante o quarto trimestre de 1997;
+
+Considerando que, para que a intervenção possa desempenhar plenamente a sua função na sequência da grave situação do mercado, é necessário alargar a lista das qualidades elegíveis prevista no Reino Unido e na Irlanda;
+
+Considerando que, devido à fraca procura neste período do ano de determinadas peças menos nobres, entre as quais a aba descarregada, é oportuno autorizar a compra para intervenção igualmente de quartos dianteiros do tipo pistola que incluam a referida aba descarregada; que é conveniente prever explicitamente as condições de aceitação dos quartos dianteiros;
+
+Considerando que, na sequência da compra em intervenção de quartos dianteiros, é conveniente definir o preço destes produtos a partir dos preços-carcaça;
+
+Considerando que, a título excepcional, não foi aplicável o peso máximo previsto no nº 2, alínea h), do artigo 4º do Regulamento (CEE) nº 2456/93; que é conveniente restabelecer, progressivamente, o limite de peso inicialmente previsto;
+
+Considerando que, na sequência da difícil situação do mercado da carne de bovino, é conveniente manter temporariamente o montante revisto do acrescimento aplicável ao preço médio do mercado e que serve para definir o preço máximo de compra;
+
+Considerando que à luz da experiência, é necessário adaptar os requisitos aplicáveis às carcaças, meias-carcaças e quartos, a fim de ter em conta certas regras relativas à identificação das carnes com osso destinadas à desossa, com vista à sua tomada a cargo;
+
+Considerando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão da Carne de Bovino,
+
+ADOPTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1º
+
+1. Em derrogação do nº 1, primeiro parágrafo, do artigo 4º do Regulamento (CEE) nº 2456/93, os produtos adicionais que podem ser comprados em intervenção, apesar de não constarem do anexo III do mesmo regulamento, são os seguintes:
+
+REINO UNIDO
+
+Grã-Bretanha
+
+- categoria C, classes U3 e U4,
+
+- categoria C, classes O3 e O4;
+
+Irlanda do Norte
+
+- categoria C, classes O3 e O4.
+
+IRLANDA
+
+- categoria C, classe O4.
+
+A diferença entre os preços de intervenção da qualidade R3 e da qualidade O4 é fixada em 30 ecus por 100 quilogramas.
+
+O coeficiente a utilizar para converter as propostas apresentadas para a qualidade R3 em propostas para a qualidade O4 é fixado em 0,914 (classe média).
+
+2. Em derrogação do nº 2 do artigo 4º do Regulamento (CEE) nº 2456/93:
+
+a) Não podem ser compradas em intervenção as carcaças e meias-carcaças de animais castrados, criados no Reino Unido e com mais de trinta meses;
+
+b) Podem ser comprados em intervenção:
+
+- os quartos dianteiros obtidos por corte direito com cinco costelas, provenientes das carcaças ou meias-carcaças referidas no mesmo número; o preço dos quartos dianteiros é derivado do preço-carcaça, mediante a aplicação do coeficiente 0,80,
+
+- os quartos dianteiros com a aba descarregada adjacente, obtidos por corte de pistola com cinco costelas, provenientes das carcaças ou meias-carcaças referidas no mesmo número e destinados à desossa nos termos do disposto no título II; o preço dos quartos dianteiros é derivado do preço-carcaça, mediante a aplicação do coeficiente 0,68.
+
+3. Em derrogação do nº 2, alínea h), do artigo 4º do Regulamento (CEE) nº 2456/93, o peso das carcaças referidas no número anterior não deve exceder 360 quilogramas.
+
+4. Em derrogação do nº 1 do artigo 14º do Regulamento (CEE) nº 2456/93:
+
+a) Na primeira frase, o montante do acréscimo aplicável ao preço médio de mercado será de 14 ecus por 100 quilogramas de peso-carcaça;
+
+b) Na segunda frase, o montante do acréscimo aplicável ao preço médio de mercado será de 7 ecus por 100 quilogramas de peso-carcaça.
+
+5. Em derrogação do artigo 17º do Regulamento (CEE) nº 2456/93, sempre que a tomada a cargo se limitar aos quartos dianteiros, estes devem ser apresentados conjuntamente com o quarto traseiro correspondente tendo em vista a sua aceitação pelo organismo de intervenção do forma a permitir, nomeadamente, controlar o peso máximo, apresentação e classificação da carcaça de que provêm.
+
+No entanto, caso uma inspecção prévia dos quartos dianteiro e traseiro tenha lugar nas condições referidas no nº 3 do referido artigo, os quartos dianteiros aceites no âmbito da inspecção prévia podem ser então apresentados sem o quarto traseiro com vista à sua tomada a cargo definitiva no centro de intervenção, após terem sido aí transportados por intermédio de um meio de transporte selado.
+
+6. Em derrogação da alínea c) do ponto 2 do anexo V do Regulamento (CEE) nº 2456/93, na acepção do presente regulamento, entende-se por quartos dianteiros:
+
+- corte de carcaça após secagem e refrigeração, nas condições referidas no nº 5,
+
+- corte direito com cinco costelas,
+
+ou
+
+- corte em pistola com cinco costelas, com a aba descarregada adjacente.
+
+7. Em derrogação do ponto 1.2.8 «Aba descarregada ou fralda de intervenção» do anexo VI do Regulamento (CEE) nº 2456/93, sempre que o quarto dianteiro tiver sido obtido por corte em pistola, a aba descarregada inteira será retirada do quarto dianteiro em pistola ao nível da quinta costela.
+
+###### Artigo 2º
+
+No anexo V do Regulamento (CEE) nº 2456/93, a última frase do nº 3 passa a ter a seguinte redacção:
+
+«Sem prejuízo do disposto no nº 5 do artigo 17º do presente regulamento, a pleura deve apresentar-se intacta.».
+
+###### Artigo 3º
+
+O presente regulamento entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias.
+
+O artigo 1º é aplicável aos concursos abertos durante os meses de Outubro, Novembro e Dezembro de 1997.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.
+
+Feito em Bruxelas, em 8 de Outubro de 1997.
+
+Pela Comissão
+
+Franz FISCHLER
+
+Membro da Comissão
+
+(1) JO L 148 de 28. 6. 1968, p. 24.
+
+(2) JO L 296 de 21. 11. 1996, p. 50.
+
+(3) JO L 225 de 4. 9. 1993, p. 4.
+
+(4) JO L 177 de 5. 7. 1997, p. 8.

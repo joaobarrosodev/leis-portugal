@@ -1,0 +1,326 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:553639:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-904570280",
+ "dre_path": "/dr/detalhe/decreto-lei/68-2012-553639",
+ "source_lastmod": "2025-01-22",
+ "versions": [
+  {
+   "date": "2012-03-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "904547535",
+    "904547536",
+    "904547537",
+    "904547538",
+    "904547539",
+    "904547540",
+    "904547541",
+    "904547542",
+    "904547543",
+    "904547544",
+    "904547545",
+    "904547546",
+    "904547547",
+    "904547548",
+    "904547549",
+    "904547550",
+    "904547551",
+    "904547552",
+    "904547553",
+    "904547554"
+   ]
+  },
+  {
+   "date": "2015-10-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70686130:por",
+     "title": "Decreto-Lei n.º 236/2015",
+     "published": "2015-10-14",
+     "dre_path": "/dr/detalhe/decreto-lei/236-2015-70686130"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "904547535",
+    "904547536",
+    "904547556",
+    "904547557",
+    "904547539",
+    "904547558",
+    "904547541",
+    "904547542",
+    "904547543",
+    "904547544",
+    "904547545",
+    "904547546",
+    "904547547",
+    "904547548",
+    "904547549",
+    "904547550",
+    "904547551",
+    "904547552",
+    "904547553",
+    "904547554",
+    "904547555"
+   ]
+  },
+  {
+   "date": "2024-11-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:892125865:por",
+     "title": "Decreto-Lei n.º 75/2024",
+     "published": "2024-10-22",
+     "dre_path": "/dr/detalhe/decreto-lei/75-2024-892125865"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "904547535",
+    "904547536",
+    "904547556",
+    "904547559",
+    "904547539",
+    "904547558",
+    "904547541",
+    "904547542",
+    "904547543",
+    "904547544",
+    "904547545",
+    "904547546",
+    "904547547",
+    "904547548",
+    "904547549",
+    "904547550",
+    "904547551",
+    "904547552",
+    "904547553",
+    "904547554",
+    "904547555"
+   ]
+  }
+ ],
+ "fragments": {
+  "904547535": {
+   "fragment_id": "904570281",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 68/2012\n\nde 20 de março\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objetivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objetivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de otimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nPara concretizar o esforço de racionalização estrutural, o Decreto-Lei n.º 7/2012, de 17 de janeiro, que aprovou a Lei Orgânica do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território (MAMAOT), procedeu à reorganização do modelo de inserção orgânica do laboratório de investigação das pescas e do mar (L-IPIMAR), que se encontrava incluído no Instituto Nacional de Recursos Biológicos, I. P. (INRB, I. P.).\n\nPresidiu a esta alteração orgânica a constatação de que a fusão realizada no âmbito do PRACE pelo Decreto-Lei n.º 209/2006, de 27 de outubro, dos anteriores Instituto Nacional de Investigação Agrária, I. P. (INIAP, I. P.), Laboratório Nacional de Investigação Veterinária (LNIV) e Direcção-Geral de Proteção de Culturas (DGPC), a qual resultou no agrupamento de três departamentos de investigação científica - o laboratório de investigação agrária (L-INIA), o laboratório de investigação veterinária (L-NIV) e o L-IPIMAR, não produziu os resultados esperados.\n\nDe facto, a experiência de integrar todos estes Laboratórios num único organismo não se mostrou profícua, congregando culturas organizacionais diferenciadas que aglomeravam áreas de investigação distintas, geograficamente muito dispersas, tendo como único ponto aglutinador um conselho diretivo comum. Foi decidido aproveitar da anterior fusão apenas os aspetos que se revelaram positivos.\n\nNo contexto do PREMAC, pela singularidade do L-IPIMAR e por se visar incrementar fortemente a investigação científica e o desenvolvimento tecnológico na área do mar, justificou-se destacar essas atribuições, através da desagregação do laboratório marítimo (L-IPIMAR).\n\nSimultaneamente, procurou-se uma maior coesão do modelo de integração do anterior Instituto de Meteorologia, I. P., no MAMAOT, através da fusão da investigação nas áreas científicas do mar e da atmosfera, e do inerente incremento no grau de integração na aproximação ao interface entre a atmosfera e o oceano, e à análise da perigosidade sísmica, cujas fontes são maioritariamente localizadas no subsolo marinho.\n\nAinda dentro do mesmo princípio de potenciação de sinergias pela junção de capacidades científicas de áreas correlacionadas, foi também feita a integração da área científica da Geologia Marinha, até então no Laboratório Nacional de Energia e Geologia (LNEG), e das áreas de projetos de investigação, desenvolvimento e inovação até agora a cargo do Instituto Portuário e dos Transportes Marítimos, I. P.\n\nFoi assim criado o Instituto Português do Mar e da Atmosfera, I. P. (IPMA, I. P.).\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 9.º da Lei n.º 3/2004, de 15 de janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "904547536": {
+   "fragment_id": "904570282",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Instituto Português do Mar e da Atmosfera, I. P., abreviadamente designado por IPMA, I. P., é um instituto público, integrado na administração indireta do Estado, dotado de autonomia administrativa e financeira e património próprio.\n\n2 - O IPMA, I. P., prossegue atribuições do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, sob superintendência e tutela do respetivo ministro.\n\n3 - A definição das orientações estratégicas e a fixação de objetivos para o IPMA, I. P., bem como o acompanhamento da sua execução, são articulados entre os membros do Governo responsáveis pelas áreas do mar e da ciência."
+  },
+  "904547537": {
+   "fragment_id": "904570283",
+   "type": 11,
+   "heading": "Artigo 2.º — Jurisdição territorial e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Jurisdição territorial e sede\n\n1 - O IPMA, I. P., é um organismo central com jurisdição sobre todo o território nacional.\n\n2 - O IPMA, I. P., tem sede em Lisboa.\n\n3 - O IPMA, I. P., dispõe de 3 serviços desconcentrados, designados por delegações."
+  },
+  "904547538": {
+   "fragment_id": "904570284",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O IPMA, I. P., é o laboratório de Estado que tem por missão promover e coordenar a investigação científica, o desenvolvimento tecnológico, a inovação e a prestação de serviços no domínio do mar e da atmosfera, assegurando a implementação das estratégias e políticas nacionais nas suas áreas de atuação, contribuindo para o desenvolvimento económico e social, sendo investido nas funções de autoridade nacional nos domínios da meteorologia, meteorologia aeronáutica, do clima, da sismologia e do geomagnetismo.\n\n2 - São atribuições do IPMA, I. P.:\n\na) Promover, coordenar e realizar atividades de investigação, experimentação e demonstração no domínio das ciências e tecnologias nas áreas dos recursos marinhos, da pesca, da aquicultura e da indústria transformadora do pescado, da meteorologia, do clima, da biologia marinha, da geofísica, da geologia marinha, dos serviços marítimos e da segurança marítima e contribuir para o desenvolvimento de novas áreas de atividade e usos do oceano;\n\nb) Promover a exploração sustentável dos recursos marinhos e a sua valorização, assegurando a avaliação sistemática do estado ambiental e a preservação da biodiversidade do meio marinho, com particular incidência nas áreas marinhas protegidas, contribuindo para a definição e implementação das políticas de preservação e qualidade do ambiente marinho;\n\nc) Assegurar, no âmbito dos recursos vivos marinhos, as funções de Laboratório Nacional de Referência, nomeadamente, nas áreas da segurança alimentar e da sanidade animal e vegetal;\n\nd) Participar, no âmbito dos recursos vivos marinhos, na elaboração dos planos oficiais de controlo nas áreas da saúde animal e vegetal e segurança alimentar;\n\ne) Assegurar a realização das análises laboratoriais enquadradas nos planos oficiais de controlo coordenados pelo MAMAOT, no âmbito dos recursos vivos marinhos, designadamente através da colocação em rede dos laboratórios acreditados já existentes;\n\nf) Assegurar a vigilância meteorológica, climática, sísmica e geofísica, e difundir regularmente informação e previsões do estado do tempo e do mar para todos os fins necessários;\n\ng) Assegurar o funcionamento das redes de medição de variáveis de estado relativas às suas áreas de competência e garantir a aquisição, o processamento, a difusão e a gestão da informação recolhida, assegurando a gestão e disponibilização dos dados nacionais relativos aos ambientes atmosférico, geofísico e marinho;\n\nh) Apoiar, nas suas áreas de competência, a definição e a exploração dos resultados das redes de monitorização do mar, da atmosfera e da qualidade do ar;\n\ni) Realizar estudos técnicos no âmbito das suas áreas de competência;\n\nj) Contribuir para a avaliação e gestão dos riscos de desastres de origem natural e antropogénica e fornecer avisos especiais antecipados às entidades nacionais com responsabilidade em matéria de proteção civil relativos a sismos, maremotos, eventos meteorológicos extremos e alterações bruscas das condições do ambiente marinho;\n\nk) Prestar serviços à navegação aérea e marítima no domínio da informação e previsão meteorológica necessária à segurança e condução de operações;\n\nl) Disponibilizar a informação meteorológica necessária para fins de defesa nacional;\n\nm) Estudar o clima e a variabilidade climática, e contribuir para o estabelecimento de cenários climáticos futuros;\n\nn) Contribuir para a análise dos efeitos decorrentes das alterações climáticas e para a definição das correspondentes medidas de adaptação em coordenação com a Agência Portuguesa do Ambiente, I. P.;\n\no) Certificar as condições de ocorrência de fenómenos meteorológicos, geofísicos e da composição atmosférica;\n\np) Contribuir para o desenvolvimento de tecnologias, serviços e sistemas associados à implementação, gestão e controlo dos serviços, da segurança e das atividades marítimas;\n\nq) Conceber, projetar, desenvolver, construir e comercializar instrumentos, equipamentos, aparelhos e produtos informáticos ligados à sua atividade;\n\nr) Assegurar a representação nacional e internacional nas áreas da sua competência;\n\ns) Promover a difusão de conhecimentos e de resultados obtidos em atividades de investigação e de desenvolvimento tecnológico, assegurando a salvaguarda dos direitos de propriedade intelectual, bem como recolher, classificar, publicar e difundir bibliografia e outros elementos de informação científica e técnica.\n\n3 - Para a prossecução das suas atribuições, o IPMA, I. P., pode ainda:\n\na) Colaborar, nos termos da lei, com empresas, instituições, associações e fundações com objetos sociais afins ou complementares;\n\nb) Acolher investigadores no âmbito de programas cooperativos de investigação, assegurando as condições para a execução das atividades no âmbito desses programas;\n\nc) Estabelecer ou colaborar em programas de formação.\n\n4 - O IPMA, I. P., exerce as suas atribuições em articulação, sempre que necessário, com os serviços e instituições de outras áreas da Administração Pública ou do sector privado, nomeadamente no âmbito da investigação científica e da cultura."
+  },
+  "904547539": {
+   "fragment_id": "904570285",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nSão órgãos do IPMA, I. P.:\n\na) O conselho diretivo;\n\nb) O fiscal único;\n\nc) O conselho de orientação;\n\nd) O conselho científico;\n\ne) A unidade de acompanhamento;\n\nf) A comissão paritária."
+  },
+  "904547540": {
+   "fragment_id": "904570286",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho diretivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho diretivo\n\n1 - O conselho diretivo é composto por um presidente e por dois vogais.\n\n2 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao conselho diretivo, no âmbito da orientação e gestão do IPMA, I. P.:\n\na) Prosseguir as políticas de ciência e tecnologia definidas para o IPMA, I. P., e elaborar os respetivos planos e relatórios;\n\nb) Deliberar sobre a celebração de contratos, protocolos e convénios, com entidades nacionais ou estrangeiras, públicas ou privadas, necessários à prossecução da sua missão e atribuições.\n\n3 - O conselho diretivo exerce as funções de Autoridade para a Meteorologia Aeronáutica, prevista no Regulamento (CE) n.º 550/2004, do Parlamento e do Conselho, de 10 de Março de 2004."
+  },
+  "904547541": {
+   "fragment_id": "904570287",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fiscal único\n\nO fiscal único é designado e tem as competências previstas na lei quadro dos institutos públicos."
+  },
+  "904547542": {
+   "fragment_id": "904570288",
+   "type": 11,
+   "heading": "Artigo 7.º — Conselho de orientação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Conselho de orientação\n\n1 - O conselho de orientação é o órgão responsável por assegurar a eficaz articulação de vários departamentos governamentais, da comunidade científica e dos sectores económicos e sociais, na atividade do IPMA, I. P.\n\n2 - Ao conselho de orientação compete acompanhar a atividade do IPMA, I. P., e, em especial, apoiar o conselho diretivo na conceção, enquadramento e execução das ações necessárias à concretização das atribuições do IPMA, I. P., nomeadamente na definição dos meios necessários e adequados à execução dessas ações, produzindo, para o efeito, os pareceres e recomendações que entenda formular ou que lhe sejam solicitados.\n\n3 - O conselho de orientação é composto por:\n\na) Um representante do membro do Governo responsável pela área do mar, que preside;\n\nb) Um representante do membro do Governo responsável pela área da economia;\n\nc) Um representante do membro do Governo responsável pela área da ciência.\n\n4 - Os membros do conselho de orientação previstos no número anterior são designados por despacho dos respetivos membros do Governo.\n\n5 - O mandato dos membros do conselho de orientação referidos no n.º 3 tem a duração de três anos, renovável por iguais períodos, mantendo-se o exercício de funções até à efetiva substituição.\n\n6 - O presidente do conselho de orientação pode convidar a participar nas reuniões do conselho, sem direito a voto, outras individualidades cuja presença considere conveniente em razão dos assuntos a tratar.\n\n7 - As normas de funcionamento do conselho de orientação constam de regulamento interno a elaborar pelo próprio conselho.\n\n8 - A participação no conselho de orientação não é remunerada."
+  },
+  "904547543": {
+   "fragment_id": "904570289",
+   "type": 11,
+   "heading": "Artigo 8.º — Conselho científico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Conselho científico\n\n1 - O conselho científico é o órgão responsável pela apreciação e acompanhamento da atividade de investigação científica, desenvolvimento tecnológico e inovação do IPMA, I. P.\n\n2 - O conselho científico é constituído por todos os que, a qualquer título, incluindo o de bolseiro, quer sejam cidadãos nacionais ou estrangeiros, exerçam atividade na instituição, desde que estejam habilitados com o grau de doutor ou equivalente, tenham obtido aprovação nas provas de acesso à categoria de investigador auxiliar, ou, ainda que não possuam qualquer dessas qualificações, integrem a carreira de investigação em categoria igual ou superior à de investigador auxiliar ou a carreira docente universitária em categoria igual ou superior à de professor auxiliar.\n\n3 - O presidente do conselho científico é eleito por escrutínio secreto e maioria simples dos votos expressos.\n\n4 - O mandato do presidente do conselho científico tem a duração de três anos, renovável por iguais períodos.\n\n5 - São competências do conselho científico:\n\na) Emitir parecer sobre os projetos de orçamento, de plano de atividades e de relatório anuais de atividades do IPMA, I. P.;\n\nb) Emitir parecer sobre a criação dos grupos de trabalho de investigação;\n\nc) Emitir parecer sobre a atribuição de prémios de caráter científico;\n\nd) Aprovar o seu regulamento interno;\n\ne) Formular sugestões para o desenvolvimento de novos projetos;\n\nf) Dar parecer sobre o regulamento dos bolseiros de investigação;\n\ng) Dar parecer sobre o estabelecimento de acordos, protocolos e convénios;\n\nh) Dar parecer sobre todos os assuntos que lhe sejam submetidos pelo conselho diretivo.\n\n6 - A participação no conselho científico não é remunerada."
+  },
+  "904547544": {
+   "fragment_id": "904570290",
+   "type": 11,
+   "heading": "Artigo 9.º — Unidade de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Unidade de acompanhamento\n\n1 - A unidade de acompanhamento é o órgão de avaliação interna da atividade do IPMA, I. P., e consequente aconselhamento do seu conselho diretivo.\n\n2 - A unidade de acompanhamento é constituída por cinco a nove individualidades exteriores ao IPMA, I. P., de reconhecida competência nas áreas de atividade do IPMA, I. P.\n\n3 - Sempre que possível, pelo menos três dos membros da unidade de acompanhamento devem exercer a sua atividade em instituições congéneres não nacionais.\n\n4 - Dois dos membros da unidade de acompanhamento devem representar os destinatários das atividades do IPMA, I. P.\n\n5 - A composição da unidade de acompanhamento, incluindo o presidente, é proposta pelo conselho diretivo e homologada pelo membro do Governo responsável pela área do mar.\n\n6 - O mandato dos membros da unidade de acompanhamento tem a duração de três anos, renovável por iguais períodos.\n\n7 - À unidade de acompanhamento compete avaliar regularmente, segundo parâmetros definidos pelo conselho diretivo, o funcionamento da instituição e dar os pareceres que julgar adequados, nomeadamente sobre os planos e relatórios anuais ou plurianuais de atividades do IPMA, I. P., e sobre as questões que lhe forem submetidas pelo conselho diretivo.\n\n8 - As normas de funcionamento da unidade de acompanhamento constam de regulamento interno a aprovar pela própria unidade.\n\n9 - A participação na unidade de acompanhamento não é remunerada."
+  },
+  "904547545": {
+   "fragment_id": "904570291",
+   "type": 11,
+   "heading": "Artigo 10.º — Comissão paritária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comissão paritária\n\n1 - A comissão paritária é o órgão consultivo do IPMA, I. P., para questões de natureza laboral.\n\n2 - A comissão paritária tem a seguinte composição:\n\na) Dois representantes dos trabalhadores do IPMA, I. P., por estes eleitos;\n\nb) Dois representantes do conselho diretivo, por este designados.\n\n3 - O presidente da comissão paritária é eleito pelos seus pares, por escrutínio secreto e maioria simples.\n\n4 - Os membros da comissão paritária são designados pelo período de um ano e mantêm-se em funções até serem substituídos.\n\n5 - À comissão paritária compete pronunciar-se, a título consultivo, sobre questões de natureza laboral do IPMA, I. P., nomeadamente de organização do trabalho, formação profissional, higiene e segurança no trabalho e ação social, bem como sobre os respetivos plano e relatório anual de atividades.\n\n6 - As normas de funcionamento da comissão paritária constam de regulamento interno a aprovar pela própria comissão.\n\n7 - A participação na comissão paritária não é remunerada."
+  },
+  "904547546": {
+   "fragment_id": "904570292",
+   "type": 11,
+   "heading": "Artigo 11.º — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Organização interna\n\nA organização interna do IPMA, I. P., é a prevista nos respetivos Estatutos."
+  },
+  "904547547": {
+   "fragment_id": "904570293",
+   "type": 11,
+   "heading": "Artigo 12.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Receitas\n\n1 - O IPMA, I. P., dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - O IPMA, I. P., dispõe ainda das seguintes receitas próprias:\n\na) As quantias que lhe sejam devidas em resultado do exercício da sua atividade, nomeadamente as cobradas pela prestação de serviços;\n\nb) As comparticipações e subsídios concedidos por organismos nacionais, comunitários ou extracomunitários, no âmbito de planos de investimentos, programas e projetos estruturais ou outros;\n\nc) O produto da venda de edições, publicações ou outro material por si publicado ou que lhe seja disponibilizado para este fim;\n\nd) As verbas resultantes da realização de estudos e outros trabalhos de caráter técnico e científico;\n\ne) As doações, heranças e legados concedidos por quaisquer entidades;\n\nf) Os rendimentos dos bens ou direitos que o IPMA, I. P., possuir ou por qualquer título fruir, nomeadamente, os relativos aos direitos de autor e de propriedade industrial de que seja titular;\n\ng) O produto da venda de direitos e, ainda, de alienação de bens móveis e imóveis pertencentes ao seu património, que, nos termos da lei, possam ser dispensados ou tenham sido inutilizados, bem como da constituição de direitos sobre eles;\n\nh) Remunerações de depósitos e outras aplicações financeiras junto do Tesouro;\n\ni) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título."
+  },
+  "904547548": {
+   "fragment_id": "904570294",
+   "type": 11,
+   "heading": "Artigo 13.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Despesas\n\nConstituem despesas do IPMA, I. P., as que resultem de encargos decorrentes da prossecução das respetivas atribuições."
+  },
+  "904547549": {
+   "fragment_id": "904570295",
+   "type": 11,
+   "heading": "Artigo 14.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Património\n\nO património do IPMA, I. P., é constituído pela universalidade de bens, direitos e obrigações de que seja titular."
+  },
+  "904547550": {
+   "fragment_id": "904570296",
+   "type": 11,
+   "heading": "Artigo 15.º — Direitos de propriedade industrial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direitos de propriedade industrial\n\n1 - Às invenções, desenhos e modelos, a que se refere Código da Propriedade Industrial, feitos pelo pessoal do IPMA, I. P., no desempenho da sua atividade na instituição, aplica-se, em matéria de direitos, deveres e procedimentos, o disposto na legislação relativa ao Estatuto da Carreira de Investigação Científica.\n\n2 - Aos direitos gerados no decurso da atividade de IC&DT sob contrato aplica-se o disposto no número anterior, a não ser que os respetivos contratos estipulem de diferente forma."
+  },
+  "904547551": {
+   "fragment_id": "904570297",
+   "type": 11,
+   "heading": "Artigo 16.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Sucessão\n\nO IPMA, I. P., sucede nas atribuições:\n\na) Do Instituto de Meteorologia, I. P.;\n\nb) Do Instituto Nacional dos Recursos Biológicos, I. P., no domínio das pescas, aquicultura e mar;\n\nc) Do LNEG, I. P., no domínio da geologia marinha, com exceção da cartografia sistemática;\n\nd) Do Instituto Portuário e dos Transportes Marítimos, I. P., no domínio dos projetos de investigação, desenvolvimento e inovação."
+  },
+  "904547552": {
+   "fragment_id": "904570298",
+   "type": 11,
+   "heading": "Artigo 17.º — Critérios de seleção de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Critérios de seleção de pessoal\n\nSão fixados os seguintes critérios gerais e abstratos de seleção do pessoal necessário à prossecução das atribuições do IPMA, I. P.:\n\na) O desempenho de funções no Instituto de Meteorologia, I. P.;\n\nb) O desempenho de funções no Instituto Nacional dos Recursos Biológicos, I. P., no domínio das pescas, aquicultura e mar;\n\nc) O desempenho de funções no Laboratório Nacional de Energia e Geologia, I. P., no domínio da geologia marinha, com exceção da cartografia sistemática;\n\nd) O desempenho de funções no Instituto Portuário e dos Transportes Marítimos, I. P., na área dos projetos de investigação, desenvolvimento e inovação."
+  },
+  "904547553": {
+   "fragment_id": "904570299",
+   "type": 11,
+   "heading": "Artigo 18.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 157/2007, de 27 de abril."
+  },
+  "904547554": {
+   "fragment_id": "904570300",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "904547556": {
+   "fragment_id": "904570283",
+   "type": 11,
+   "heading": "Artigo 2.º — Jurisdição territorial e sede",
+   "in_force_from": "2015-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 236/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2015-70686130), em vigor a partir de 2015-10-15"
+   ],
+   "markdown": "###### Artigo 2.º — Jurisdição territorial e sede\n\n1 - O IPMA, I. P., é um organismo central com jurisdição sobre todo o território nacional.\n\n2 - O IPMA, I. P., tem sede em Lisboa.\n\n3 - O IPMA, I. P., dispõe de dois serviços desconcentrados, designados por delegações.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 236/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2015-70686130), em vigor a partir de 2015-10-15"
+  },
+  "904547557": {
+   "fragment_id": "904570284",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2015-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 236/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2015-70686130), em vigor a partir de 2015-10-15"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O IPMA, I. P., é o laboratório de Estado que tem por missão assegurar a prossecução das estratégias e políticas nacionais nos domínios do mar e da atmosfera promovendo e coordenando a investigação, o desenvolvimento tecnológico, a inovação e a prestação de serviços.\n\n2 - O IPMA, I. P., é investido nas funções de autoridade nacional de meteorologia, com exceção da meteorologia aeronáutica civil.\n\n3 - São atribuições do IPMA, I. P.:\n\na) Promover, coordenar e realizar atividades de investigação, experimentação e demonstração no domínio das ciências e tecnologias nas áreas dos recursos marinhos, da pesca, da aquicultura e da indústria transformadora do pescado, da meteorologia, do clima, da biologia marinha, da geofísica, da geologia marinha, dos serviços marítimos e da segurança marítima e contribuir para o desenvolvimento de novas áreas de atividade e usos do oceano;\n\nb) Promover a exploração sustentável dos recursos marinhos e a sua valorização, assegurando a avaliação sistemática do estado ambiental e a preservação da biodiversidade do meio marinho, com particular incidência nas áreas marinhas protegidas, contribuindo para a definição e implementação das políticas de preservação e qualidade do ambiente marinho;\n\nc) Assegurar, no âmbito dos recursos vivos marinhos, as funções de Laboratório Nacional de Referência, nomeadamente, nas áreas da segurança alimentar e da sanidade animal e vegetal;\n\nd) Participar, no âmbito dos recursos vivos marinhos, na elaboração dos planos oficiais de controlo nas áreas da saúde animal e vegetal e segurança alimentar;\n\ne) Assegurar a realização das análises laboratoriais enquadradas nos planos oficiais de controlo coordenados pelo MAMAOT, no âmbito dos recursos vivos marinhos, designadamente através da colocação em rede dos laboratórios acreditados já existentes;\n\nf) Assegurar a vigilância meteorológica, climática, sísmica e geofísica, e difundir regularmente informação e previsões do estado do tempo e do mar para todos os fins necessários;\n\ng) Assegurar o funcionamento das redes de medição de variáveis de estado relativas às suas áreas de competência e garantir a aquisição, o processamento, a difusão e a gestão da informação recolhida, assegurando a gestão e disponibilização dos dados nacionais relativos aos ambientes atmosférico, geofísico e marinho;\n\nh) Apoiar, nas suas áreas de competência, a definição e a exploração dos resultados das redes de monitorização do mar, da atmosfera e da qualidade do ar;\n\ni) Realizar estudos técnicos no âmbito das suas áreas de competência;\n\nj) Contribuir para a avaliação e gestão dos riscos de desastres de origem natural e antropogénica e fornecer avisos especiais antecipados às entidades nacionais com responsabilidade em matéria de proteção civil relativos a sismos, maremotos, eventos meteorológicos extremos e alterações bruscas das condições do ambiente marinho;\n\nk) Prestar serviços à navegação aérea e marítima no domínio da informação e previsão meteorológica necessária à segurança e condução de operações;\n\nl) Disponibilizar a informação meteorológica necessária para fins de defesa nacional;\n\nm) Estudar o clima e a variabilidade climática, e contribuir para o estabelecimento de cenários climáticos futuros;\n\nn) Contribuir para a análise dos efeitos decorrentes das alterações climáticas e para a definição das correspondentes medidas de adaptação em coordenação com a Agência Portuguesa do Ambiente, I. P.;\n\no) Certificar as condições de ocorrência de fenómenos meteorológicos, geofísicos e da composição atmosférica;\n\np) Contribuir para o desenvolvimento de tecnologias, serviços e sistemas associados à implementação, gestão e controlo dos serviços, da segurança e das atividades marítimas;\n\nq) Conceber, projetar, desenvolver, construir e comercializar instrumentos, equipamentos, aparelhos e produtos informáticos ligados à sua atividade;\n\nr) Assegurar a representação nacional e internacional nas áreas da sua competência;\n\ns) Promover a difusão de conhecimentos e de resultados obtidos em atividades de investigação e de desenvolvimento tecnológico, assegurando a salvaguarda dos direitos de propriedade intelectual, bem como recolher, classificar, publicar e difundir bibliografia e outros elementos de informação científica e técnica.\n\n4 - Para a prossecução das suas atribuições, o IPMA, I. P., pode ainda:\n\na) Colaborar, nos termos da lei, com empresas, instituições, associações e fundações com objetos sociais afins ou complementares;\n\nb) Acolher investigadores no âmbito de programas cooperativos de investigação, assegurando as condições para a execução das atividades no âmbito desses programas;\n\nc) Estabelecer ou colaborar em programas de formação.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 236/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2015-70686130), em vigor a partir de 2015-10-15"
+  },
+  "904547558": {
+   "fragment_id": "904570286",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho diretivo",
+   "in_force_from": "2015-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 236/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2015-70686130), em vigor a partir de 2015-10-15"
+   ],
+   "markdown": "###### Artigo 5.º — Conselho diretivo\n\n1 - O conselho diretivo é composto por um presidente e por dois vogais.\n\n2 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao conselho diretivo, no âmbito da orientação e gestão do IPMA, I. P.:\n\na) Prosseguir as políticas de ciência e tecnologia definidas para o IPMA, I. P., e elaborar os respetivos planos e relatórios;\n\nb) Deliberar sobre a celebração de contratos, protocolos e convénios, com entidades nacionais ou estrangeiras, públicas ou privadas, necessários à prossecução da sua missão e atribuições.\n\n3 - (Revogado).\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 236/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2015-70686130), em vigor a partir de 2015-10-15"
+  },
+  "904547555": {
+   "fragment_id": "904570301",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de janeiro de 2012. - Pedro Passos Coelho - Luís Filipe Bruno da Costa de Morais Sarmento - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça - Nuno Paulo de Sousa Arrobas Crato.\n\nPromulgado em 9 de março de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 13 de março de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "904547559": {
+   "fragment_id": "904570284",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2024-11-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 75/2024 - Diário da República n.º 205/2024, Série I de 2024-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2024-892125865), em vigor a partir de 2024-11-24",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 236/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2015-70686130), em vigor a partir de 2015-10-15"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O IPMA, I. P., é o laboratório do Estado que tem por missão assegurar a prossecução das estratégias e políticas nacionais nos domínios do mar e da atmosfera promovendo e coordenando a investigação, o desenvolvimento tecnológico, a inovação e a prestação de serviços.\n\n2 - O IPMA, I. P., é investido nas funções de autoridade nacional do clima, da sismologia, do geomagnetismo e da meteorologia, com exceção da meteorologia aeronáutica civil.\n\n3 - São atribuições do IPMA, I. P.:\n\na) Promover, coordenar e realizar atividades de investigação, experimentação e demonstração no domínio das ciências e tecnologias nas áreas dos recursos marinhos, da pesca, da aquicultura e da indústria transformadora do pescado, da meteorologia, do clima, da biologia marinha, da geofísica, da geologia marinha, dos serviços marítimos e da segurança marítima e contribuir para o desenvolvimento de novas áreas de atividade e usos do oceano;\n\nb) Promover a exploração sustentável dos recursos marinhos e a sua valorização, assegurando a avaliação sistemática do estado ambiental e a preservação da biodiversidade do meio marinho, com particular incidência nas áreas marinhas protegidas, contribuindo para a definição e implementação das políticas de preservação e qualidade do ambiente marinho;\n\nc) Assegurar, no âmbito dos recursos vivos marinhos, as funções de Laboratório Nacional de Referência, nomeadamente, nas áreas da segurança alimentar e da sanidade animal e vegetal;\n\nd) Participar, no âmbito dos recursos vivos marinhos, na elaboração dos planos oficiais de controlo nas áreas da saúde animal e vegetal e segurança alimentar;\n\ne) Assegurar a realização das análises laboratoriais enquadradas nos planos oficiais de controlo coordenados pelo MAMAOT, no âmbito dos recursos vivos marinhos, designadamente através da colocação em rede dos laboratórios acreditados já existentes;\n\nf) Assegurar a vigilância meteorológica, climática, sísmica e geofísica, e difundir regularmente informação e previsões do estado do tempo e do mar para todos os fins necessários;\n\ng) Assegurar o funcionamento das redes de medição de variáveis de estado relativas às suas áreas de competência e garantir a aquisição, o processamento, a difusão e a gestão da informação recolhida, assegurando a gestão e disponibilização dos dados nacionais relativos aos ambientes atmosférico, geofísico e marinho;\n\nh) Apoiar, nas suas áreas de competência, a definição e a exploração dos resultados das redes de monitorização do mar, da atmosfera e da qualidade do ar;\n\ni) Realizar estudos técnicos no âmbito das suas áreas de competência;\n\nj) Contribuir para a avaliação e gestão dos riscos de desastres de origem natural e antropogénica e fornecer avisos especiais antecipados às entidades nacionais com responsabilidade em matéria de proteção civil relativos a sismos, maremotos, eventos meteorológicos extremos e alterações bruscas das condições do ambiente marinho;\n\nk) Prestar serviços à navegação aérea e marítima no domínio da informação e previsão meteorológica necessária à segurança e condução de operações;\n\nl) Disponibilizar a informação meteorológica necessária para fins de defesa nacional;\n\nm) Estudar o clima e a variabilidade climática, e contribuir para o estabelecimento de cenários climáticos futuros;\n\nn) Contribuir para a análise dos efeitos decorrentes das alterações climáticas e para a definição das correspondentes medidas de adaptação em coordenação com a Agência Portuguesa do Ambiente, I. P.;\n\no) Certificar as condições de ocorrência de fenómenos meteorológicos, geofísicos e da composição atmosférica;\n\np) Contribuir para o desenvolvimento de tecnologias, serviços e sistemas associados à implementação, gestão e controlo dos serviços, da segurança e das atividades marítimas;\n\nq) Conceber, projetar, desenvolver, construir e comercializar instrumentos, equipamentos, aparelhos e produtos informáticos ligados à sua atividade;\n\nr) Assegurar a representação nacional e internacional nas áreas da sua competência;\n\ns) Promover a difusão de conhecimentos e de resultados obtidos em atividades de investigação e de desenvolvimento tecnológico, assegurando a salvaguarda dos direitos de propriedade intelectual, bem como recolher, classificar, publicar e difundir bibliografia e outros elementos de informação científica e técnica.\n\n4 - Para a prossecução das suas atribuições, o IPMA, I. P., pode ainda:\n\na) Colaborar, nos termos da lei, com empresas, instituições, associações e fundações com objetos sociais afins ou complementares;\n\nb) Acolher investigadores no âmbito de programas cooperativos de investigação, assegurando as condições para a execução das atividades no âmbito desses programas;\n\nc) Estabelecer ou colaborar em programas de formação.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 75/2024 - Diário da República n.º 205/2024, Série I de 2024-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2024-892125865), em vigor a partir de 2024-11-24\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 236/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2015-70686130), em vigor a partir de 2015-10-15"
+  }
+ }
+}

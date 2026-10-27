@@ -1,0 +1,160 @@
+---
+schema_version: '1.0'
+id: pt:dre:3298950:por
+title: Declaração de Rectificação n.º 2631/2009
+short_title: null
+summary: Rectificação do despacho n.º 19 319/2009, de 17 de Agosto, publicado no Diário da República, 2.ª série, n.º 162,
+  de 21 de Agosto 2009
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Ministério da Saúde - Gabinete da Ministra
+proposing_entity: null
+official_number: 2631/2009
+official_date: null
+publication_date: '2009-10-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 208/2009, Série II de 2009-10-27
+  number: '208'
+  series: II
+  supplement: null
+  pages: 43626 - 43627
+  pdf_url: https://files.diariodarepublica.pt/2s/2009/10/208000000/4362643627.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3298950'
+  dre_path: /dr/detalhe/declaracao-rectificacao/2631-2009-3298950
+  internal: pt:dre:3298950:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2631-2009-3298950
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2631-2009-3298950
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:08:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a0d173a18e3328a5d2fd2e2cfd8c55b2746b660e637fe43c870b71ada1276148
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:09Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Estabelecimento Hospitalar
+- Expropriação
+- Lisboa
+- Utilidade Pública
+relationships:
+- type: cites
+  target: pt:dre:171692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1728278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569885:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:08:09Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de rectificação n.º 2631/2009
+
+Nos termos do artigo 148.º do Código do Procedimento Administrativo, rectifico o despacho n.º 19 319/2009, de 17 de Agosto, publicado no Diário da República, 2.ª série, n.º 162, de 21 de Agosto de 2009, pelo que onde se lê «expropriação das parcelas de terreno do prédio descrito» deve ler-se «expropriação do prédio descrito», onde se lê «necessárias à construção» deve ler-se «necessário à construção», onde se lê «identificadas no anexo ao presente despacho» deve ler-se «identificado no anexo ao presente despacho» e no anexo ao referido despacho onde se lê:
+
+Construção do futuro Hospital Oriental de Lisboa
+
+Mapa de expropriações
+
+Freguesia de Santa Maria dos Olivais, concelho de Lisboa
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/208000000/4362643627.pdf)
+
+deve ler-se:
+
+Construção do futuro Hospital de Lisboa Oriental
+
+Mapa de expropriações
+
+Parcela única
+
+Freguesias de Santa Maria dos Olivais e Marvila, concelho de Lisboa
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/208000000/4362643627.pdf)
+
+Dada a extensão da rectificação, procede-se, em anexo, à republicação do despacho.
+
+16 de Outubro de 2009. - A Ministra da Saúde, Ana Maria Teodoro Jorge.
+
+## ANEXO — (republicação)
+
+[Despacho n.º 19319/2009](https://diariodarepublica.pt/dr/detalhe/despacho/19319-2009-1728278)
+
+Com vista à construção do futuro Hospital de Lisboa Oriental, a Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P. (ARSLVT), veio requerer, nos termos dos artigos 1.º, 12.º a 15.º e 19.º do Código das Expropriações, aprovado pela [Lei n.º 168/99](https://diariodarepublica.pt/dr/detalhe/lei/168-1999-569885), de 18 de Setembro, alterada e republicada pela [Lei n.º 56/2008](https://diariodarepublica.pt/dr/detalhe/lei/56-2008-453988), de 4 de Setembro, a declaração de utilidade pública, com carácter urgente, do prédio descrito na 8.ª Conservatória do Registo Predial de Lisboa, sob a ficha n.º 4588, da freguesia de Santa Maria dos Olivais, e inscrito na matriz predial urbana sob os artigos 810 e 811, da freguesia de Marvila.
+
+Assim:
+
+1 - No exercício das competências previstas na alínea a) do n.º 1 do artigo 14.º do Código das Expropriações, aprovado pela [Lei n.º 168/99](https://diariodarepublica.pt/dr/detalhe/lei/168-1999-569885), de 18 de Setembro, alterada e republicada pela [Lei n.º 56/2008](https://diariodarepublica.pt/dr/detalhe/lei/56-2008-453988), de 4 de Setembro, em harmonia com o disposto nos artigos 1.º e 10.º a 15.º do mesmo Código, bem como no artigo 23.º do [Decreto-Lei n.º 185/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2002-171692), de 20 de Agosto, alterado pelo [Decreto-Lei n.º 176/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2009-493009), de 4 de Agosto, e ainda com os fundamentos constantes da deliberação do conselho directivo da ARSLVT n.º 49/2009, acta n.º 47, de 5 de Agosto de 2009, declaro a utilidade pública e atribuo carácter de urgência à expropriação do prédio descrito na 8.ª Conservatória do Registo Predial de Lisboa, sob a ficha n.º 4588, da freguesia de Santa Maria dos Olivais, e inscrito na matriz predial urbana sob os artigos 810 e 811, da freguesia de Marvila, necessário à construção do futuro Hospital de Lisboa Oriental, identificado no anexo ao presente despacho, do qual faz parte integrante.
+
+2 - Os encargos com a expropriação são da responsabilidade da ARSLVT.
+
+17 de Agosto de 2009. - A Ministra da Saúde, Ana Maria Teodoro Jorge.
+
+## ANEXO — Construção do futuro Hospital de Lisboa Oriental
+
+Mapa de expropriações
+
+Parcela única
+
+Freguesias de Santa Maria dos Olivais e Marvila, concelho de Lisboa
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/10/208000000/4362643627.pdf)
+
+202456239

@@ -1,0 +1,497 @@
+---
+schema_version: '1.0'
+id: pt:dre:362310:por
+title: Decreto-Lei n.º 110/2001
+short_title: null
+summary: Transpõe para a ordem jurídica nacional a Directiva n.º 98/53/CE, da Comissão, de 16 de Julho, relativa à aproximação
+  das legislações dos Estados membros sobre os métodos de colheitas e amostras e os métodos de análise para o controlo oficial
+  dos teores de certos contaminantes (aflatoxinas) nos géneros alimentícios
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 110/2001
+official_date: null
+publication_date: '2001-04-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 82/2001, Série I-A de 2001-04-06
+  number: '82'
+  series: I
+  supplement: null
+  pages: 2041 - 2046
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/04/082a00/20412046.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2006-01-05'
+version_history:
+  file: decreto-lei-110-2001.versoes.json
+  count: 4
+  source_lastmod: '2025-09-04'
+  versions:
+  - date: '2001-04-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-04-15'
+    amending: pt:dre:315880:por
+    amending_title: Decreto-Lei n.º 72-I/2003
+    changes:
+    - Altera Anexo I
+    - Altera Anexo II
+  - date: '2004-06-08'
+    amending: pt:dre:281205:por
+    amending_title: Decreto-Lei n.º 133/2004
+    changes:
+    - Altera Anexo I
+    - Altera Anexo II
+  - date: '2006-01-05'
+    amending: pt:dre:203442:por
+    amending_title: Decreto-Lei n.º 8/2006
+    changes:
+    - Altera Anexo I
+    - Altera Anexo II
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/110/2001/p/cons/20060104/pt/html
+  oj: null
+  dre: '362310'
+  dre_path: /dr/detalhe/decreto-lei/110-2001-362310
+  internal: pt:dre:362310:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2001-362310
+  metadata_url: https://data.dre.pt/eli/dec-lei/110/2001/p/cons/20060104/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-934180141
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-934180141
+  retrieved_at: '2026-10-22T13:33:09Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-09-04T00:00:00Z'
+integrity:
+  source_sha256: b6e9241bb7616e6adb696f015f9ba09bf2cbe4e2c9af2e1d051901a745919dac
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:33:09Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-110-2001.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Produto Alimentar
+- Análise Laboratorial
+- Aproximação das Legislações
+- Controlo de Qualidade
+- Controlo Sanitário
+- Saúde Pública
+- Regulamento CE
+relationships:
+- type: amended_by
+  target: pt:dre:315880:por
+  label: Altera Anexo I; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-i-2003-315880
+  date: '2003-04-14'
+- type: amended_by
+  target: pt:dre:281205:por
+  label: Altera Anexo I; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2004-281205
+  date: '2004-06-03'
+- type: amended_by
+  target: pt:dre:203442:por
+  label: Altera Anexo I; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2006-203442
+  date: '2006-01-04'
+- type: cites
+  target: celex:31985L0591
+  label: null
+  source: http://data.europa.eu/eli/dir/1985/591/oj
+- type: cites
+  target: celex:31989L0397
+  label: null
+  source: http://data.europa.eu/eli/dir/1989/397/oj
+- type: cites
+  target: celex:31991D0180
+  label: null
+  source: http://data.europa.eu/eli/dec/1991/180/oj
+- type: cites
+  target: celex:31993L0099
+  label: null
+  source: http://data.europa.eu/eli/dir/1993/99/oj
+- type: cites
+  target: celex:31997R0194
+  label: null
+  source: http://data.europa.eu/eli/reg/1997/194/oj
+- type: cites
+  target: celex:31998L0053
+  label: null
+  source: http://data.europa.eu/eli/dir/1998/53/oj
+- type: cites
+  target: celex:31998R1525
+  label: null
+  source: http://data.europa.eu/eli/reg/1998/1525/oj
+- type: transposes
+  target: celex:31998L0053
+  label: null
+  source: null
+article_structure:
+  article_count: 3
+  section_count: 2
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:33:09Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 110/2001
+
+Decreto-Lei n.º 110/2001
+
+de 6 de Abril
+
+O Decreto-Lei n.º 132/2000, de 13 de Julho, ao transpor para o direito nacional as Directivas n.os 85/591/CEE, do Conselho, de 20 de Dezembro, 89/397/CEE, do Conselho, de 14 de Junho, e 93/99/CEE, do Conselho, de 29 de Outubro, estabeleceu as regras aplicáveis ao exercício do controlo oficial dos géneros alimentícios e criou o sistema de normas de qualidade para os laboratórios nacionais acreditados e avaliados para efectuarem as análises no âmbito do referido controlo, tendo ainda fixado os critérios a que deve obedecer a validação dos métodos de análise a utilizar no controlo oficial.
+
+O Regulamento (CE) n.º 1525/98, da Comissão, de 16 de Julho, que alterou o Regulamento (CE) n.º 194/97, fixou os teores máximos de certos contaminantes presentes nos géneros alimentícios e os limites máximos para as aflatoxinas em certos géneros alimentícios.
+
+A Directiva n.º 98/53/CE, da Comissão, de 16 de Julho, veio fixar os métodos de colheita de amostras e os métodos de análise para o controlo oficial dos teores de certos contaminantes nos géneros alimentícios.
+
+A amostragem desempenha um papel importante na fidelidade da determinação do teor das aflatoxinas, que se apresentam em geral de forma muito heterogénea nos lotes.
+
+Importa fixar os critérios gerais a que devem obedecer os métodos de colheita e análise, a fim de que os laboratórios encarregues dos controlos utilizem métodos de análise com eficácia comparável.
+
+Com a transposição da Directiva n.º 98/53/CE, da Comissão, de 16 de Julho, para o direito nacional fixam-se os métodos de colheita de amostras para o controlo oficial dos teores de aflatoxinas nos géneros alimentícios, o modo de preparação das amostras e os critérios gerais a que devem obedecer os métodos de análise para o controlo oficial dos teores de aflatoxinas de certos géneros alimentícios.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Métodos de colheita de amostras
+
+As colheitas de amostras para o controlo oficial dos teores de aflatoxinas nos géneros alimentícios são efectuadas de acordo com os métodos descritos no anexo I do presente diploma.
+
+###### Artigo 2.º — Preparação de amostras e método de análise
+
+A preparação da amostra e o método de análise utilizado para o controlo oficial dos teores de aflatoxinas nos géneros alimentícios devem satisfazer os critérios descritos no anexo II do presente diploma.
+
+###### Artigo 3.º — Entrada em vigor
+
+Este diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 22 de Fevereiro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Luís Manuel Capoulas Santos - Maria Manuela de Brito Arcanjo Marques da Costa.
+
+Promulgado em 20 de Março de 2001.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 30 de Março de 2001.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## Anexo I — Métodos de colheita das amostras para controlo oficial dos teores de aflatoxinas nos géneros alimentícios
+
+1 - Objectivo e âmbito de aplicação - as amostras destinadas aos controlos oficiais do teor de aflatoxinas nos géneros alimentícios são colhidas em conformidade com os métodos a seguir indicados. As amostras globais assim obtidas são consideradas representativas dos lotes. A conformidade dos lotes relativamente aos teores máximos fixados no Regulamento (CE) n.º 1525/98 é estabelecida em função dos teores determinados nas amostras de laboratório.
+
+2 - Definições:
+
+Lote - quantidade de género alimentício identificável, entregue de uma vez, que apresenta, conforme estabelecido pelo agente responsável, características comuns, tais como a origem, a variedade, o tipo de embalagem, o embalador, o expedidor ou a marcação;
+
+Sublote - parte designada de um grande lote a fim de aplicar o método de colheita a essa parte designada. Cada sublote deve ser fisicamente separado e identificável;
+
+Toma ou amostra elementar - quantidade de matéria colhida num só ponto do lote ou do sublote;
+
+Amostra global - agregação de todas as tomas elementares colhidas no lote ou sublote;
+
+Amostra para laboratório - amostra destinada ao laboratório (subamostra).
+
+3 - Disposições gerais:
+
+3.1 - Pessoal - a colheita deve ser efectuada por uma pessoa mandatada para esse efeito.
+
+3.2 - Produto a amostrar - todos os lotes a analisar devem ser amostrados separadamente. Em conformidade com as disposições específicas previstas no n.º 5 do presente anexo, os grandes lotes devem ser subdivididos em sublotes, que devem ser amostrados separadamente.
+
+3.3 - Precauções a tomar - durante a amostragem e a preparação das amostras de laboratório devem ser tomadas precauções para evitar qualquer alteração que possa fazer variar o teor de aflatoxinas ou afectar as análises ou a representatividade da amostra global.
+
+3.4 - Tomas elementares ou amostras elementares - na medida do possível, as tomas elementares devem ser colhidas em diversos pontos do lote ou do sublote. Todas as derrogações dessa regra devem ser assinaladas no registo previsto no n.º 3.8.
+
+3.5 - Preparação da amostra global e das amostras para laboratório (subamostras) - a amostra global é obtida através da mistura das tomas elementares. Após essa mistura, a amostra global deve ser dividida em subamostras iguais em conformidade com as disposições específicas previstas no n.º 5 do presente anexo.
+
+A mistura é necessária para garantir que cada subamostra contenha porções do lote ou sublote inteiro.
+
+3.6 - Preparação das amostras idênticas - são colhidas amostras idênticas da amostra para laboratório, depois de homogeneizada, para efeitos de controlo, de direito de recurso e de referência.
+
+3.7 - Acondicionamento e envio das amostras para laboratório - colocar cada amostra para laboratório num recipiente limpo, de material inerte, protegendo-a adequadamente de qualquer possível contaminação ou dano durante o transporte. Tomar igualmente todas as precauções necessárias para evitar qualquer modificação da composição da amostra para laboratório susceptível de ocorrer durante o transporte ou a armazenagem.
+
+3.8 - Fecho e rotulagem das amostras - cada amostra oficial será selada no local de colheita e identificada. Para cada colheita de amostra, elaborar um registo de amostragem que permita identificar sem ambiguidade o lote amostrado e indicar a data e o local de amostragem, bem como qualquer informação suplementar que possa ser útil ao analista.
+
+4 - Disposições explicativas:
+
+4.1 - Diferentes tipos de lotes - os produtos podem ser comercializados a granel, em contentores ou em embalagens individuais (sacos, embalagens para venda a retalho, etc.). O método de amostragem pode ser aplicado às diferentes formas sob as quais os produtos são colocados no mercado. Sem prejuízo das disposições específicas previstas no n.º 5 do presente anexo, a fórmula seguinte pode ser utilizada como guia para a amostragem dos lotes comercializados em sacos ou em embalagens individuais:
+
+Frequência de amostragem = (Massa do lote/Massa de amostra global) x (Massa da toma elementar/Massa de uma embalagem individual)
+
+Massa - a exprimir em quilogramas.
+
+Frequência de amostragem - número de embalagens individuais das quais é colhida uma toma elementar (as casas decimais devem ser arredondadas para o número inteiro mais próximo).
+
+4.2 - Massa da toma elementar. - A massa da toma elementar é de cerca de 300 g, salvo definição em contrário no n.º 5 do presente anexo e com excepção das especiarias, caso em que a massa da toma elementar é de cerca de 100 g. No caso das embalagens para venda a retalho, a massa da toma elementar será em função da massa da embalagem.
+
+4.3 - Número de tomas elementares para os lotes <15 t - salvo indicação em contrário no n.º 5 do presente anexo, o número de tomas elementares a colher depende da massa do lote, com um mínimo de 10 e um máximo de 100. Os valores do quadro seguinte podem ser utilizados para determinar o número de tomas elementares a colher.
+
+QUADRO N.º 1
+
+Número de tomas elementares a colher em função da massa do lote
+
+(ver quadro no documento original)
+
+5 - Disposições específicas:
+
+5.1 - Resumo geral do método de amostragem para os amendoins, para os frutos de casca rija, para os frutos secos, para as especiarias e para os cereais.
+
+QUADRO N.º 2
+
+Subdivisão dos lotes em sublotes em função do produto e da massa do lote
+
+(ver quadro no documento original)
+
+5.2 - Amendoins, pistácios, castanhas-do-brasil, figos secos, cereais (lotes (igual ou maior que) 50 t) e especiarias:
+
+5.2.1 - Método de colheita:
+
+Desde que os sublotes possam ser fisicamente separados, cada lote deve ser subdividido em sublotes segundo o quadro n.º 2 constante do n.º 5.1. Dado que a massa dos lotes nem sempre é um múltiplo exacto do peso dos sublotes, a massa dos sublotes pode exceder a massa indicada até um máximo de 20%;
+
+Cada sublote deve ser objecto de uma amostragem separada;
+
+Número de tomas elementares - 100. No caso dos lotes <15 t, o número de tomas elementares a colher depende da massa do lote, com um mínimo de 10 e um máximo de 100 (v. n.º 4.3);
+
+Massa da amostra global igual a 30 kg, grosseiramente misturada, a dividir em três subamostras iguais de 10 kg antes de triturar (esta divisão em três subamostras não é necessária no caso dos amendoins, dos frutos de casca rija, dos frutos secos e do milho destinados a ser submetidos a um tratamento de triagem ou a outros tratamentos físicos e no caso de se dispor de equipamento que permita homogeneizar uma amostra de 30 kg). As amostras globais menores que 10 kg não devem ser subdivididas em subamostras. No caso das especiarias, a massa da amostra global não excederá 10 kg, pelo que não é necessária a divisão em subamostras.
+
+Amostra para laboratório - uma subamostra de 10 kg (cada subamostra deve ser finamente triturada separadamente e cuidadosamente misturada a fim de garantir uma homogeneização completa em conformidade com as disposições do anexo II);
+
+Nos casos em que não seja possível aplicar o método de colheita atrás descrito sem provocar danos económicos consideráveis (por exemplo, por causa das formas de embalagem ou dos meios de transporte), pode ser aplicado um método de colheita alternativo adequado, desde que a amostragem seja tão representativa quanto possível e que o método aplicado seja descrito e solidamente documentado;
+
+5.2.2 - Aceitação de um lote ou sublote:
+
+Para os amendoins, os frutos de casca rija, os frutos secos e o milho destinados a serem submetidos a um tratamento de triagem ou a outros tratamentos físicos e para as especiarias:
+
+Aceitação, se a amostra global ou a média das subamostras respeitar o limite máximo, tendo em conta a incerteza de medição e a correcção em função da recuperação;
+
+Rejeição, se a amostra global ou a média das subamostras exceder o limite máximo, com um grau de confiança elevado, tendo em conta a incerteza de medição e a correcção em função da recuperação.
+
+Para os amendoins, os frutos de casca rija, os frutos secos e os cereais destinados ao consumo humano directo, bem como para os cereais, com excepção do milho, destinados a serem submetidos a um tratamento de triagem ou a outros tratamentos físicos:
+
+Aceitação, se nenhuma das subamostras respeitar o limite máximo, tendo em conta a incerteza de medição e a correcção em função da recuperação;
+
+Rejeição, se uma ou várias das subamostras exceder o limite máximo, com um grau de confiança elevado, tendo em conta a incerteza de medição e a correcção em função da recuperação.
+
+No caso de uma amostra global inferior a 10 kg:
+
+Aceitação, se a amostra global respeitar o limite máximo tendo em conta a incerteza de medição e a correcção em função da recuperação;
+
+Rejeição, se a amostra global exceder o limite máximo, com um grau de confiança elevado, tendo em conta a incerteza de medição e a correcção em função da recuperação.
+
+5.3 - Frutos de casca rija, com excepção dos amendoins, dos pistácios e das castanhas do Brasil, frutos secos, com excepção dos figos secos, e cereais (lotes <50 t):
+
+5.3.1 - Método de colheita:
+
+Para estes produtos pode ser aplicado o método de colheita previsto no n.º 5.2.1. No entanto, atendendo à baixa contaminação ligada a alguns desses produtos e ou às formas mais recentes de embalagem em que são comercializados, pode ser aplicado um outro método de colheita mais simples;
+
+Para lotes de cereais <50 t, podem ser colhidas, em função da massa do lote, 10 a 100 tomas elementares de 100 g reunidas numa amostra global de 1 kg a 10 kg.
+
+Os valores do quadro seguinte podem ser utilizados para determinar o número de tomas elementares a colher.
+
+QUADRO N.º 3
+
+Número de tomas elementares a colher em função da massa do lote de cereais
+
+(ver quadro no documento original)
+
+5.3.2 - Aceitação de um lote ou sublote - v. n.º 5.2.2.
+
+5.4 - Leite:
+
+5.4.1 - Método de colheita:
+
+Método de colheita em conformidade com a Decisão n.º 91/180/CEE, da Comissão, de 14 de Fevereiro, que adopta determinados métodos de análise e testes para o leite cru e o leite tratado termicamente;
+
+Número de tomas elementares - mínimo de cinco;
+
+Massa de amostra global - mínimo de 0,5 kg ou litros;
+
+5.4.2 - Aceitação de um lote ou sublote:
+
+Aceitação, se a amostra global respeitar o limite máximo, tendo em conta a incerteza de medição e a correcção em função da recuperação;
+
+Rejeição, se a amostra global exceder o limite máximo, com um grau de confiança elevado, tendo em conta a incerteza de medição e a correcção em função da recuperação.
+
+5.5 - Produtos derivados e géneros alimentícios compostos de diversos ingredientes:
+
+5.5.1 - Produtos lácteos:
+
+5.5.1.1 - Método de colheita:
+
+Método de colheita em conformidade com a Portaria n.º 621/91, de 11 de Julho, que fixa métodos comunitários de colheita de amostras, com vista à análise química, de leites conservados;
+
+Número de tomas elementares - mínimo de cinco;
+
+Para os outros produtos lácteos é aplicado um método de colheita equivalente;
+
+5.5.1.2 - Aceitação de um lote ou sublote:
+
+Aceitação, se a amostra global respeitar o limite máximo, tendo em conta a incerteza de medição e a correcção em função da recuperação;
+
+Rejeição, se a amostra global exceder o limite máximo, com um grau de confiança elevado tendo em conta a incerteza de medição e a correcção em função da recuperação.
+
+5.5.2 - Outros produtos derivados que apresentem partículas muito finas, tais como farinha, pasta de figos e pasta de amendoins (distribuição homogénea da contaminação pelas aflatoxinas):
+
+5.5.2.1 - Método de colheita:
+
+Número de tomas elementares - 100. Em caso de lotes <50 t, o número de tomas elementares é compreendido entre 10 e 100, consoante o peso do lote (v. quadro n.º 3, n.º 5.3.1);
+
+A massa de toma elementar é de cerca de 100 g. No caso dos lotes em embalagens para venda a retalho, a massa de toma elementar depende da dimensão da embalagem;
+
+Massa da amostra global = 1 kg a 10 kg, misturados;
+
+5.5.2.2 - Número de amostras a colher:
+
+O número de amostras globais a colher depende da massa do lote. A divisão dos grandes lotes em sublotes deve ser efectuada conforme indicado no quadro n.º 2 do n.º 5.1 para os cereais.
+
+Cada sublote deve ser objecto de uma amostragem separada;
+
+5.5.2.3 - Aceitação de um lote ou sublote:
+
+Aceitação, se a amostra global respeitar o limite máximo, tendo em conta a incerteza de medição e a correcção em função da recuperação;
+
+Rejeição, se a amostra global exceder o limite máximo, com um grau de confiança elevado, tendo em conta a incerteza de medição e a correcção em função da recuperação.
+
+5.6 - Outros produtos que apresentem partículas relativamente grosseiras (distribuição heterogénea da contaminação pelas aflatoxinas) - método de colheita e aceitação em conformidade com o disposto nos n.os 5.2 e 5.3 deste anexo para produtos agrícolas não transformados.
+
+5.7 - Géneros alimentícios destinados a lactentes e a crianças jovens:
+
+5.7.1 - Método de colheita - é aplicável o método de colheita mencionado relativamente ao leite e aos produtos derivados, bem como aos géneros alimentícios compostos mencionados nos n.os 5.4, 5.5 e 5.6.
+
+5.7.2 - Aceitação do lote:
+
+Aceitação, se a amostra global for conforme ao limite máximo, atendendo à incerteza de medição e à correcção em função da recuperação;
+
+Rejeição, se a amostra global exceder o limite máximo para além de qualquer dúvida razoável, tendo em conta a incerteza de medição e a correcção em função da recuperação.
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 72-I/2003 - Diário da República n.º 88/2003, 1º Suplemento, Série I-A de 2003-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-i-2003-315880) Com as alterações produzidas pelo Decreto-Lei n.º 72-I/2003, ao quadro n.º 2 do n.º 5.2 do presente anexo, é aditado o produto «especiarias».
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 8/2006 - Diário da República n.º 3/2006, Série I-A de 2006-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2006-203442), em vigor a partir de 2006-01-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2004 - Diário da República n.º 130/2004, Série I-A de 2004-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2004-281205), em vigor a partir de 2004-06-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72-I/2003 - Diário da República n.º 88/2003, 1º Suplemento, Série I-A de 2003-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-i-2003-315880), em vigor a partir de 2003-04-15
+
+## Anexo II — Preparação das amostras e critérios gerais a que devem obedecer os métodos de análise para o controlo oficial dos teores de aflatoxinas de certos géneros alimentícios.
+
+1 - Introdução:
+
+1.1 - Precauções - é conveniente, na medida do possível, evitar a luz do dia durante a operação, pois a aflatoxina decompõe-se progressivamente sob a influência da luz ultravioleta. Dado que a aflatoxina se distribui de forma extremamente heterogénea, as amostras devem ser preparadas (e sobretudo homogeneizadas) com o maior cuidado.
+
+Para a preparação do produto a testar, deve ser utilizada a totalidade do produto recebido no laboratório.
+
+1.2 - Cálculo da proporção de casca/miolo nos frutos de casca rija inteiros - os limites fixados para as aflatoxinas pelo Regulamento (CE) n.º 1525/98 aplicam-se à parte comestível.
+
+O teor de aflatoxinas da parte comestível pode ser determinado do seguinte modo:
+
+Os frutos de casca rija inteiros constituintes das amostras podem ser descascados e o teor de aflatoxinas analisado na parte comestível;
+
+O método de preparação da amostra pode aplicar-se ao fruto de casca rija inteiro com a sua casca. O método de amostragem e de análise deve nesse caso incluir a estimativa da massa do miolo do fruto na amostra global. Este valor é estimado mediante a aplicação de um factor adequado que represente a proporção de casca relativamente ao miolo nos frutos inteiros. Essa proporção permite determinar a quantidade de miolo na amostra global utilizada para a preparação e para a análise da amostra. Para esse efeito, é colhida do lote ou da amostra global uma centena de frutos de casca rija inteiros. A proporção pode ser obtida pesando aproximadamente 100 frutos inteiros, retirando-lhes a casca e pesando as porções de casca e de miolo. A proporção de casca relativamente ao miolo determinada pelo laboratório pode ser tida em conta nos trabalhos de análise efectuados em seguida. No entanto, a proporção deve ser determinada pelo processo acima descrito se a amostra não respeitar o limite máximo.
+
+2 - Tratamento da amostra como recebida no laboratório:
+
+Triturar finamente e misturar completamente cada amostra de laboratório, mediante um processo relativamente ao qual se tenha demonstrado que permita uma homogeneização completa;
+
+No caso de o nível máximo se aplicar à matéria seca, o teor desta será determinado numa parte da amostra homogeneizada, mediante um processo relativamente ao qual se tenha demonstrado que determina com exactidão o teor de matéria seca.
+
+3 - Subdivisão das amostras para medidas executórias e acções de defesa - as amostras para análise destinadas a medidas executórias, a fins comerciais ou a procedimentos de arbitragem são colhidas das amostras para laboratório depois de homogeneizadas.
+
+4 - Método de análise a utilizar pelo laboratório e requisitos de controlo do laboratório:
+
+4.1 - Definições - seguem-se algumas das definições mais frequentemente utilizadas, aplicáveis aos laboratórios.
+
+Os parâmetros de fidelidade mais frequentemente citados são a repetibilidade e a reprodutibilidade:
+
+r = repetibilidade - valor abaixo do qual se pode esperar que a diferença absoluta entre os resultados de dois testes determinados obtidos em condições de repetibilidade (isto é, mesma amostra, mesmo operador, mesmos equipamentos, mesmo laboratório e curto intervalo de tempo) se situe dentro dos limites da probabilidade específica (em princípio, 95%), sendo r = 2,8 x S(índice r);
+
+S(índice r) = desvio padrão calculado a partir dos resultados obtidos em condições de repetibilidade;
+
+RSD(índice r) = desvio padrão relativo calculado a partir dos resultados obtidos em condições de repetibilidade:
+
+[(S(índice r)/X) x 100]
+
+fórmula na qual X representa a média dos resultados para todos os laboratórios e amostras;
+
+R = reprodutibilidade - valor abaixo do qual se pode esperar que a diferença absoluta entre os resultados de testes individuais obtidos em condições de reprodutibilidade (isto é, para um produto idêntico obtido pelos operadores em diferentes laboratórios utilizando o método de ensaio normalizado) se situe dentro de um certo limite de probabilidade (em princípio, 95%) R = 2,8 x S(índice R);
+
+S(índice R) = desvio padrão, calculado a partir dos resultados obtidos em condições de reprodutibilidade;
+
+RSD(índice R) = desvio padrão relativo calculado a partir dos resultados obtidos em condições de reprodutibilidade:
+
+(ver fórmula no documento original)
+
+4.2 - Exigências gerais - os métodos de análise utilizados para o controlo dos géneros alimentícios devem cumprir, na medida do possível, as disposições dos n.os 1 e 2 do anexo da Directiva n.º 85/591/CEE.
+
+4.3 - Exigências específicas - desde que não seja prescrito a nível comunitário qualquer método específico para a determinação dos teores de aflatoxinas nos géneros alimentícios, os laboratórios podem escolher o método a utilizar, desde que esse método respeite os seguintes critérios:
+
+(ver quadro no documento original)
+
+A fidelidade RSD(índice r) pode ser calculada como um coeficiente de 0,66 da fidelidade RSD(índice R) da concentração em causa.
+
+Notas
+
+Valores a aplicar tanto a B(índice 1 como à soma de B(índice 1) + B(índice 2) + G(índice 1) + G(índice 2).
+
+Se as somas das aflatoxinas individuais B(índice 1) + B(índice 2) + G(índice 1) + G(índice 2) tiverem que ser registadas, a taxa de recuperação de cada uma delas por meio do método de análise deve ser conhecida ou equivalente.
+
+Os limites de detecção dos métodos utilizados não são indicados, visto que os valores relativos à fidelidade são dados para as concentrações em causa.
+
+Os valores relativos à fidelidade são calculados a partir da equação de Horwitz, ou seja:
+
+RSD(índice R) = 2(elevado a (1 - 0,5 log C))
+
+em que:
+
+RSD(índice R) é o desvio padrão relativo calculado a partir dos resultados obtidos em condições de reprodutibilidade [(S(índice r)/X) x 100];
+
+C é a taxa de concentração (isto é, 1 = 100 g/100 g, 0,001 = 1000 mg/kg).
+
+Trata-se de uma equação geral relativa à fidelidade considerada independente da substância analisada ou da matriz e dependente apenas da concentração no caso da maior parte dos métodos de análise de rotina.
+
+44.4 - Cálculo da taxa de recuperação e registo dos resultados. - O resultado analítico é registado corrigido ou não com o valor da taxa de recuperação. O modo de registo e a taxa de recuperação devem ser indicados. O resultado analítico corrigido em função da taxa de recuperação é utilizado para verificar a conformidade (v. n.os 5.2.2, 5.4.2, 5.5.1.2 e 5.5.2.3 deste artigo).
+
+O resultado analítico deve ser registado como x +/- U, em que x é o resultado analítico e U é a incerteza expandida da medição, utilizando um factor de cobertura de K = 2 com um nível de confiança de aproximadamente 95%.
+
+4.5 - Normas de qualidade aplicáveis aos laboratórios - os laboratórios devem obedecer às disposições do Decreto-Lei n.º 132/2000.
+
+> Nota: [Artigo 2.º, Decreto-Lei n.º 72-I/2003 - Diário da República n.º 88/2003, 1º Suplemento, Série I-A de 2003-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-i-2003-315880) Com as alterações produzidas pelo Decreto-Lei n.º 72-I/2003, no quadro constante do n.º 4.3 do presente anexo, a amplitude de concentração «0,01-0,5 (mi)g/kg» relativa à recuperação aflatoxina M(índice 1) deve ser substituída por «0,01-0,05 (mi)g/kg.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 8/2006 - Diário da República n.º 3/2006, Série I-A de 2006-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2006-203442), em vigor a partir de 2006-01-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2004 - Diário da República n.º 130/2004, Série I-A de 2004-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2004-281205), em vigor a partir de 2004-06-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72-I/2003 - Diário da República n.º 88/2003, 1º Suplemento, Série I-A de 2003-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-i-2003-315880), em vigor a partir de 2003-04-15

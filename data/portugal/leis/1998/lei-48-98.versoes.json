@@ -1,0 +1,1024 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:438067:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1998-34497575",
+ "dre_path": "/dr/detalhe/lei/48-1998-438067",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-08-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "57381232",
+    "49078775",
+    "49078875",
+    "49078975",
+    "49079075",
+    "49079175",
+    "49079275",
+    "49079375",
+    "49079475",
+    "49079575",
+    "49079675",
+    "49079775",
+    "49079875",
+    "49079975",
+    "49080075",
+    "49080175",
+    "49080275",
+    "49080375",
+    "49080475",
+    "49080575",
+    "49080675",
+    "49080775",
+    "49080875",
+    "49080975",
+    "49081075",
+    "49081175",
+    "49081275",
+    "49081375",
+    "49081475",
+    "49081575",
+    "49081675",
+    "49081775",
+    "49081875",
+    "49081975",
+    "49082075",
+    "49082175",
+    "49082275",
+    "49082375",
+    "49082475",
+    "49082575",
+    "49082675",
+    "49082775",
+    "49082875"
+   ]
+  },
+  {
+   "date": "2007-09-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:641158:por",
+     "title": "Lei n.º 54/2007",
+     "published": "2007-08-31",
+     "dre_path": "/dr/detalhe/lei/54-2007-641158"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 20.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 32.º",
+    "Altera Artigo 33.º",
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "51271675",
+    "49078775",
+    "49078875",
+    "49078975",
+    "49079075",
+    "49079175",
+    "49079275",
+    "49079375",
+    "49079475",
+    "49079575",
+    "49079675",
+    "49079775",
+    "49079875",
+    "49079975",
+    "49080075",
+    "49080175",
+    "49080275",
+    "49080375",
+    "49080475",
+    "49080575",
+    "49080675",
+    "49080775",
+    "49080875",
+    "49080975",
+    "51270975",
+    "49081175",
+    "49081275",
+    "51271075",
+    "49081475",
+    "49081575",
+    "49081675",
+    "49081775",
+    "49081875",
+    "49081975",
+    "49082075",
+    "49082175",
+    "49082275",
+    "49082375",
+    "51271375",
+    "51271575",
+    "49082675",
+    "49082775",
+    "49082875",
+    "49082975"
+   ]
+  },
+  {
+   "date": "2014-06-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25345938:por",
+     "title": "Lei n.º 31/2014",
+     "published": "2014-05-30",
+     "dre_path": "/dr/detalhe/lei/31-2014-25345938"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "57381232",
+    "57381233",
+    "57381234",
+    "57381235",
+    "57381236",
+    "57381237",
+    "57381238",
+    "57381239",
+    "57381240",
+    "57381241",
+    "57381242",
+    "57381243",
+    "57381244",
+    "57381245",
+    "57381246",
+    "57381247",
+    "57381248",
+    "57381249",
+    "57381250",
+    "57381251",
+    "57381252",
+    "57381253",
+    "57381254",
+    "57381255",
+    "57381256",
+    "57381257",
+    "57381258",
+    "57381259",
+    "57381260",
+    "57381261",
+    "57381262",
+    "57381263",
+    "57381264",
+    "57381265",
+    "57381266",
+    "57381267",
+    "57381268",
+    "57381269",
+    "57381270",
+    "57381271",
+    "57381272",
+    "57381273",
+    "57381274",
+    "57380375"
+   ]
+  }
+ ],
+ "fragments": {
+  "57381232": {
+   "fragment_id": "35117375",
+   "type": 15,
+   "heading": "Diploma — Estabelece as bases da política de ordenamento do território e de urbanismo",
+   "in_force_from": "2014-06-29",
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos dos artigos 161.º, alínea c), 165.º, n.º 1, alínea z), 166.º, n.º 3, e do artigo 112.º, n.º 5, da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "49078775": {
+   "fragment_id": "35857675",
+   "type": 1,
+   "heading": "Capítulo I — Princípios e objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Princípios e objectivos"
+  },
+  "49078875": {
+   "fragment_id": "37407075",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - A presente lei estabelece as bases da política de ordenamento do território e de urbanismo.\n\n2 - A política de ordenamento do território e de urbanismo define e integra as acções promovidas pela Administração Pública, visando assegurar uma adequada organização e utilização do território nacional, na perspectiva da sua valorização, designadamente no espaço europeu, tendo como finalidade o desenvolvimento económico, social e cultural integrado, harmonioso e sustentável do País, das diferentes regiões e aglomerados urbanos."
+  },
+  "49078975": {
+   "fragment_id": "37407175",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto\n\nConstitui objecto da presente lei:\n\na) A definição do quadro da política de ordenamento do território e de urbanismo, bem como dos instrumentos de gestão territorial que a concretizam;\n\nb) A regulação, no âmbito da política de ordenamento do território e de urbanismo, das relações entre os diversos níveis da Administração Pública e desta com as populações e com os representantes dos diferentes interesses económicos e sociais."
+  },
+  "49079075": {
+   "fragment_id": "37407275",
+   "type": 11,
+   "heading": "Artigo 3.º — Fins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Fins\n\nConstituem fins da política de ordenamento do território e de urbanismo:\n\na) Reforçar a coesão nacional, organizando o território, corrigindo as assimetrias regionais e assegurando a igualdade de oportunidades dos cidadãos no acesso às infra-estruturas, equipamentos, serviços e funções urbanas;\n\nb) Promover a valorização integrada das diversidades do território nacional;\n\nc) Assegurar o aproveitamento racional dos recursos naturais, a preservação do equilíbrio ambiental, a humanização das cidades e a funcionalidade dos espaços edificados;\n\nd) Assegurar a defesa e valorização do património cultural e natural;\n\ne) Promover a qualidade de vida e assegurar condições favoráveis ao desenvolvimento das actividades económicas, sociais e culturais;\n\nf) Racionalizar, reabilitar e modernizar os centros urbanos e promover a coerência dos sistemas em que se inserem;\n\ng) Salvaguardar e valorizar as potencialidades do espaço rural, contendo a desertificação e incentivando a criação de oportunidades de emprego;\n\nh) Acautelar a protecção civil da população, prevenindo os efeitos decorrentes de catástrofes naturais ou da acção humana."
+  },
+  "49079175": {
+   "fragment_id": "37407375",
+   "type": 11,
+   "heading": "Artigo 4.º — Dever de ordenar o território",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Dever de ordenar o território\n\n1 - O Estado, as Regiões Autónomas e as autarquias locais devem promover, de forma articulada, políticas activas de ordenamento do território e de urbanismo, nos termos das suas atribuições e das competências dos respectivos órgãos, de acordo com o interesse público e no respeito pelos direitos, liberdades e garantias dos cidadãos.\n\n2 - O disposto no número anterior envolve as obrigações de zelar pela efectiva consolidação de um sistema de gestão territorial e de acautelar os efeitos que as demais políticas prosseguidas possam, aos diversos níveis, envolver para o ordenamento do território e o urbanismo."
+  },
+  "49079275": {
+   "fragment_id": "37407475",
+   "type": 11,
+   "heading": "Artigo 5.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Princípios gerais\n\nA política de ordenamento do território e de urbanismo obedece aos princípios gerais de:\n\na) Sustentabilidade e solidariedade intergeracional, assegurando a transmissão às gerações futuras de um território e de espaços edificados correctamente ordenados;\n\nb) Economia, assegurando a utilização ponderada e parcimoniosa dos recursos naturais e culturais;\n\nc) Coordenação, articulando e compatibilizando o ordenamento com as políticas de desenvolvimento económico e social, bem como as políticas sectoriais com incidência na organização do território, no respeito por uma adequada ponderação dos interesses públicos e privados em causa;\n\nd) Subsidiariedade, coordenando os procedimentos dos diversos níveis da Administração Pública, por forma a privilegiar o nível decisório mais próximo do cidadão;\n\ne) Equidade, assegurando a justa repartição dos encargos e benefícios decorrentes da aplicação dos instrumentos de gestão territorial;\n\nf) Participação, reforçando a consciência cívica dos cidadãos através do acesso à informação e à intervenção nos procedimentos de elaboração, execução, avaliação e revisão dos instrumentos de gestão territorial;\n\ng) Responsabilidade, garantindo a prévia ponderação das intervenções com impacte relevante no território e estabelecendo o dever de reposição ou compensação dos danos que ponham em causa a qualidade ambiental;\n\nh) Contratualização, incentivando modelos de actuação baseados na concertação entre a iniciativa pública e a iniciativa privada na concretização dos instrumentos de gestão territorial;\n\ni) Segurança jurídica, garantindo a estabilidade dos regimes legais e o respeito pelas situações jurídicas validamente constituídas."
+  },
+  "49079375": {
+   "fragment_id": "37407575",
+   "type": 11,
+   "heading": "Artigo 6.º — Objectivos do ordenamento do território e do urbanismo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Objectivos do ordenamento do território e do urbanismo\n\n1 - O ordenamento do território e o urbanismo prosseguem objectivos específicos, consoante a natureza da realidade territorial subjacente, promovendo:\n\na) A melhoria das condições de vida e de trabalho das populações, no respeito pelos valores culturais, ambientais e paisagísticos;\n\nb) A distribuição equilibrada das funções de habitação, trabalho, cultura e lazer;\n\nc) A criação de oportunidades diversificadas de emprego como meio para a fixação de populações, particularmente nas áreas menos desenvolvidas;\n\nd) A preservação e defesa dos solos com aptidão natural ou aproveitados para actividades agrícolas, pecuárias ou florestais, restringindo-se a sua afectação a outras utilizações aos casos em que tal for comprovadamente necessário;\n\ne) A adequação dos níveis de densificação urbana, impedindo a degradação da qualidade de vida, bem como o desequilíbrio da organização económica e social;\n\nf) A rentabilização das infra-estruturas, evitando a extensão desnecessária das redes e dos perímetros urbanos e racionalizando o aproveitamento das áreas intersticiais;\n\ng) A aplicação de uma política de habitação que permita resolver as carências existentes;\n\nh) A reabilitação e a revitalização dos centros históricos e dos elementos de património cultural classificados;\n\ni) A recuperação ou reconversão de áreas degradadas;\n\nj) A reconversão de áreas urbanas de génese ilegal.\n\n2 - Nos diversos espaços, a programação, a criação e a manutenção de serviços públicos, de equipamentos colectivos e de espaços verdes deve procurar atenuar as assimetrias existentes, tendo em conta as necessidades específicas das populações, as acessibilidades e a adequação da capacidade de utilização.\n\n3 - O ordenamento do território e o urbanismo devem assegurar a salvaguarda dos valores naturais essenciais, garantindo que:\n\na) As edificações, isoladas ou em conjunto, se integram na paisagem, contribuindo para a valorização da envolvente;\n\nb) Os recursos hídricos, as zonas ribeirinhas, a orla costeira, as florestas e outros locais com interesse particular para a conservação da natureza constituem objecto de protecção compatível com a normal fruição pelas populações das suas pontencialidades específicas;\n\nc) As paisagens resultantes da actuação humana, caracterizadas pela diversidade, pela harmonia e pelos sistemas sócio-culturais que suportam, são protegidas e valorizadas;\n\nd) Os solos são utilizados por forma a impedir a sua contaminação ou erosão."
+  },
+  "49079475": {
+   "fragment_id": "35857775",
+   "type": 1,
+   "heading": "Capítulo II — Sistema de gestão territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Sistema de gestão territorial"
+  },
+  "49079575": {
+   "fragment_id": "37407675",
+   "type": 11,
+   "heading": "Artigo 7.º — Caracterização do sistema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Caracterização do sistema\n\n1 - A política de ordenamento do território e de urbanismo assenta no sistema de gestão territorial.\n\n2 - O sistema de gestão territorial organiza-se, num quadro de interacção coordenada, em três âmbitos distintos:\n\na) O âmbito nacional, que define o quadro estratégico para o ordenamento do espaço nacional, estabelecendo as directizes a considerar no ordenamento regional e municipal e a compatibilização entre os diversos instrumentos de política sectorial com incidência territorial, instituindo, quando necessário, os instrumentos de natureza especial;\n\nb) O âmbito regional, que define o quadro estratégico para o ordenamento do espaço regional em estreita articulação com as políticas nacionais de desenvolvimento económico e social, estabelecendo as directrizes orientadoras do ordenamento municipal;\n\nc) O âmbito municipal, que define, de acordo com as directrizes de âmbito nacional e regional e com opções próprias de desenvolvimento estratégico, o regime de uso do solo e a respectiva programação.\n\n3 - O sistema de gestão territorial concretiza a interacção coordenada dos seus diversos âmbitos, através de um conjunto coerente e racional de instrumentos de gestão territorial."
+  },
+  "49079675": {
+   "fragment_id": "37407775",
+   "type": 11,
+   "heading": "Artigo 8.º — Instrumentos de gestão territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Instrumentos de gestão territorial\n\nOs instrumentos de gestão territorial, de acordo com as funções diferenciadas que desempenham, integram:\n\na) Instrumentos de desenvolvimento territorial, de natureza estratégica, que traduzem as grandes opções com relevância para a organização do território, estabelecendo directrizes de carácter genérico sobre o modo de uso do mesmo, consubstanciando o quadro de referência a considerar na elaboração de instrumentos de planeamento territorial;\n\nb) Instrumentos de planeamento territorial, de natureza regulamentar, que estabelecem o regime de uso do solo, definindo modelos de evolução da ocupação humana e da organização de redes e sistemas urbanos e, na escala adequada, parâmetros de aproveitamento do solo;\n\nc) Instrumentos de política sectorial, que programam ou concretizam as políticas de desenvolvimento económico e social com incidência espacial, determinando o respectivo impacte territorial;\n\nd) Instrumentos de natureza especial, que estabelecem um meio supletivo de intervenção do Governo apto à prossecução de objectivos de interesse nacional, com repercussão espacial, ou, transitoriamente, de salvaguarda de princípios fundamentais do programa nacional de ordenamento do território."
+  },
+  "49079775": {
+   "fragment_id": "37407875",
+   "type": 11,
+   "heading": "Artigo 9.º — Caracterização dos instrumentos de gestão territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Caracterização dos instrumentos de gestão territorial\n\n1 - São instrumentos de desenvolvimento territorial:\n\na) O programa nacional da política de ordenamento do território, cujas directrizes e orientações fundamentais traduzem um modelo de organização espacial que terá em conta o sistema urbano, as redes, as infra-estruturas e os equipamentos de interesse nacional, bem como as áreas de interesse nacional em termos agrícolas, ambientais e patrimoniais;\n\nb) Os planos regionais de ordenamento do território que, de acordo com as directrizes definidas a nível nacional e tendo em conta a evolução demográfica e as perspectivas de desenvolvimento económico, social e cultural, estabelecem as orientações para o ordenamento do território regional e definem as redes regionais de infra-estruturas e transportes, constituindo o quadro de referência para a elaboração dos planos municipais de ordenamento do território, devendo ser acompanhados de um esquema representando o modelo territorial proposto;\n\nc) Os planos intermunicipais de ordenamento do território, que são de elaboração facultativa, visam a articulação estratégica entre áreas territoriais que, pela sua interdependência, necessitam de coordenação integrada.\n\n2 - São instrumentos de planeamento territorial os planos municipais de ordenamento do território, que compreendem as seguintes figuras:\n\na) O plano director municipal, que, com base na estratégia de desenvolvimento local, estabelece a estrutura espacial, a classificação básica do solo, bem como parâmetros de ocupação, considerando a implantação dos equipamentos sociais, e desenvolve a qualificação dos solos urbano e rural;\n\nb) O plano de urbanização, que desenvolve, em especial, a qualificação do solo urbano;\n\nc) O plano de pormenor, que define com detalhe o uso de qualquer área delimitada do território municipal.\n\n3 - São instrumentos de política sectorial os planos com incidência territorial da responsabilidade dos diversos sectores da administração central, nomeadamente nos domínios dos transportes, das comunicações, da energia e recursos geológicos, da educação e da formação, da cultura, da saúde, da habitação, do turismo, da agricultura, do comércio e indústria, das florestas e do ambiente.\n\n4 - Constituem instrumentos de natureza especial os planos especiais de ordenamento do território."
+  },
+  "49079875": {
+   "fragment_id": "37407975",
+   "type": 11,
+   "heading": "Artigo 10.º — Relações entre instrumentos de gestão territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Relações entre instrumentos de gestão territorial\n\n1 - Os instrumentos de planeamento territorial devem prosseguir as orientações definidas pelos instrumentos de desenvolvimento territorial.\n\n2 - Os instrumentos de desenvolvimento territorial e os instrumentos de política sectorial traduzem um compromisso recíproco de integração e compatibilização das respectivas opções, determinando que:\n\na) Os planos sectoriais desenvolvam e concretizem, no respectivo domínio de intervenção, as directrizes definidas no programa nacional da política de ordenamento do território;\n\nb) Os planos regionais de ordenamento do território integrem as regras definidas no programa nacional da política de ordenamento do território e nos planos sectoriais preexistentes;\n\nc) A elaboração dos planos sectoriais vise a necessária compatibilização com os planos regionais de ordenamento do território, relativamente aos quais tenham incidência espacial.\n\n3 - Os planos regionais de ordenamento do território e os planos sectoriais vinculam as entidades públicas competentes para a elaboração e aprovação de planos municipais relativamente aos quais tenham incidência espacial, devendo ser assegurada a compatibilidade entre os mesmos.\n\n4 - Os planos especiais de ordenamento do território traduzem um compromisso recíproco de compatibilização com o programa nacional da política de ordenamento do território e os planos regionais de ordenamento do território e prevalecem sobre os planos municipais e intermunicipais.\n\n5 - Na elaboração de novos instrumentos de gestão territorial devem ser identificados e ponderados os planos, programas e projectos com incidência na área a que respeitam, já existentes ou em preparação, e asseguradas as necessárias compatibilizações."
+  },
+  "49079975": {
+   "fragment_id": "37408075",
+   "type": 11,
+   "heading": "Artigo 11.º — Vinculação dos instrumentos de gestão territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Vinculação dos instrumentos de gestão territorial\n\n1 - Os instrumentos de gestão territorial vinculam as entidades públicas.\n\n2 - Os planos municipais e especiais de ordenamento do território são ainda vinculativos para os particulares."
+  },
+  "49080075": {
+   "fragment_id": "37408175",
+   "type": 11,
+   "heading": "Artigo 12.º — Direito de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direito de informação\n\nOs particulares têm direito à informação tanto nos procedimentos de elaboração e alteração, como após a publicação dos instrumentos de gestão territorial, previstos no n.º 2 do artigo anterior, podendo, designadamente, consultar o respectivo processo, adquirir cópias e obter certidões."
+  },
+  "49080175": {
+   "fragment_id": "37408275",
+   "type": 11,
+   "heading": "Artigo 13.º — Garantias dos particulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Garantias dos particulares\n\n1 - São reconhecidas aos titulares de direitos e interesses lesados por instrumentos de gestão territorial vinculativos dos particulares as garantias gerais dos administrados e, nomeadamente:\n\na) O direito de promover a respectiva impugnação;\n\nb) O direito de acção popular;\n\nc) O direito de apresentação de queixa ao Ministério Público e ao Provedor de Justiça.\n\n2 - São ainda reconhecidos os direitos de acção popular e de apresentação de queixa ao Provedor de Justiça relativamente a todos os instrumentos de gestão territorial cujos efeitos não vinculem directamente os particulares."
+  },
+  "49080275": {
+   "fragment_id": "35857875",
+   "type": 1,
+   "heading": "Capítulo III — Regime de uso do solo e execução dos instrumentos de planeamento territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Regime de uso do solo e execução dos instrumentos de planeamento territorial"
+  },
+  "49080375": {
+   "fragment_id": "37408375",
+   "type": 11,
+   "heading": "Artigo 14.º — Uso do solo e das águas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Uso do solo e das águas\n\n1 - A ocupação, a utilização e a transformação do solo estão subordinadas aos fins, princípios gerais e objectivos específicos estabelecidos nos artigos 3.º, 5.º e 6.º do presente diploma e conformam-se com o regime de uso do solo definido nos instrumentos de planeamento territorial.\n\n2 - Idênticos fins, princípios gerais e objectivos são aplicáveis, com as devidas adaptações, ao ordenamento das águas e zonas envolventes, marginais ou ribeirinhas."
+  },
+  "49080475": {
+   "fragment_id": "37408475",
+   "type": 11,
+   "heading": "Artigo 15.º — Classificação e qualificação do solo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Classificação e qualificação do solo\n\n1 - O regime de uso do solo é definido mediante a classificação e a qualificação do solo.\n\n2 - A classificação do solo determina o destino básico dos terrenos e assenta na distinção fundamental entre solo rural e solo urbano, entendendo-se por:\n\na) Solo rural, aquele para o qual é reconhecida vocação para as actividades agrícolas, pecuárias, florestais ou minerais, assim como o que integra os espaços naturais de protecção ou de lazer, ou que seja ocupado por infra-estruturas que não lhe confiram o estatuto de solo urbano;\n\nb) Solo urbano, aquele para o qual é reconhecida vocação para o processo de urbanização e de edificação, nele se compreendendo os terrenos urbanizados ou cuja urbanização seja programada, constituindo o seu todo o perímetro urbano.\n\n3 - A qualificação dos solos regula, com respeito pela sua classificação básica, o aproveitamento dos terrenos em função da actividade dominante que neles possa ser efectuada ou desenvolvida, estabelecendo o respectivo uso e edificabilidade.\n\n4 - O regime de uso do solo é estabelecido em instrumentos de planeamento territorial, que definem para o efeito as adequadas classificação e qualificação."
+  },
+  "49080575": {
+   "fragment_id": "37408575",
+   "type": 11,
+   "heading": "Artigo 16.º — Execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Execução\n\n1 - A Administração Pública tem o dever de proceder à execução coordenada e programada dos instrumentos de planeamento territorial, recorrendo aos meios de política de solos que vierem a ser estabelecidos na lei.\n\n2 - Para a execução coordenada e programada dos instrumentos de planeamento territorial, os meios de política de solos a estabelecer na lei devem contemplar, nomeadamente, modos de aquisição ou disponibilização de terrenos, mecanismos de transformação fundiária e formas de parceria ou contratualização, que incentivem a concertação dos diversos interesses.\n\n3 - A coordenação e programação dos instrumentos de planeamento territorial determina para os particulares o dever de concretizar e adequar as suas pretensões às metas e prioridades neles estabelecidas."
+  },
+  "49080675": {
+   "fragment_id": "37408675",
+   "type": 11,
+   "heading": "Artigo 17.º — Programas de acção territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Programas de acção territorial\n\n1 - A coordenação das actuações das entidades públicas e privadas interessadas na definição da política de ordenamento do território e de urbanismo e na execução dos instrumentos de planeamento territorial pode ser enquadrada por programas de acção territorial.\n\n2 - Os programas de acção territorial têm por base um diagnóstico das tendências de transformação das áreas a que se referem, definem os objectivos a atingir no período da sua vigência, especificam as acções a realizar pelas entidades neles interessadas e estabelecem o escalonamento temporal dos investimentos neles previstos.\n\n3 - A concretização dos programas de acção territorial é assegurada mediante acordo celebrado entre as entidades neles interessadas."
+  },
+  "49080775": {
+   "fragment_id": "37408775",
+   "type": 11,
+   "heading": "Artigo 18.º — Compensação e indemnização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Compensação e indemnização\n\n1 - Os instrumentos de gestão territorial vinculativos dos particulares devem prever mecanismos equitativos de perequação compensatória, destinados a assegurar a redistribuição entre os interessados dos encargos e benefícios deles resultantes, nos termos a estabelecer na lei.\n\n2 - Existe o dever de indemnizar sempre que os instrumentos de gestão territorial vinculativos dos particulares determinem restrições significativas de efeitos equivalentes a expropriação, a direitos de uso do solo preexistentes e juridicamente consolidados que não possam ser compensados nos termos do número anterior.\n\n3 - A lei define o prazo e as condições de exercício do direito à indemnização previsto no número anterior."
+  },
+  "49080875": {
+   "fragment_id": "35857975",
+   "type": 1,
+   "heading": "Capítulo IV — Regime dos instrumentos de gestão territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regime dos instrumentos de gestão territorial"
+  },
+  "49080975": {
+   "fragment_id": "37408875",
+   "type": 11,
+   "heading": "Artigo 19.º — Regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Regime jurídico\n\nO regime jurídico dos instrumentos de gestão territorial é estabelecido através de diplomas legais complementares da presente lei."
+  },
+  "49081075": {
+   "fragment_id": "37408975",
+   "type": 11,
+   "heading": "Artigo 20.º — Elaboração e aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Elaboração e aprovação\n\n1 - O programa nacional da política de ordenamento do território é elaborado pelo Governo e aprovado pela Assembleia da República, ouvidas as Regiões Autónomas, as regiões administrativas e os municípios.\n\n2 - Os planos regionais de ordenamento do território são elaborados pelas juntas regionais, com audição dos municípios abrangidos, e são aprovados pelas assembleias regionais, com posterior ratificação pelo Governo.\n\n3 - Os planos intermunicipais de ordenamento do território são elaborados pelas câmaras municipais envolvidas e, após parecer da junta regional, aprovados pelas assembleias municipais respectivas, estando sujeitos a ratificação pelo Governo.\n\n4 - Os planos municipais de ordenamento do território são elaborados pelas câmaras municipais e aprovados pelas assembleias municipais, estabelecendo-se as seguintes regras específicas:\n\na) Os planos directores municipais estão sujeitos a parecer da junta regional e a ratificação pelo Governo;\n\nb) Os planos de urbanização estão sujeitos a parecer da junta regional e a ratificação pelo Governo quando não se conformem com o plano director municipal que os abrange ou sempre que este não seja eficaz;\n\nc) Os planos de pormenor estão sujeitos a parecer da junta regional e a ratificação pelo Governo quando não se conformem com o plano director municipal ou com o plano de urbanização que os abrangem ou sempre que estes não sejam eficazes;\n\nd) Os planos de pormenor são de iniciativa das câmaras municipais tendo em conta a concretização dos programas de acção territorial.\n\n5 - Os planos especiais de ordenamento do território são elaborados pela administração central, sendo assegurado que:\n\na) A decisão de sujeitar áreas delimitadas de um ou de vários municípios à disciplina de um instrumento de natureza especial, com fundamento em relevante interesse nacional, bem como a sua aprovação são da competência do Conselho de Ministros;\n\nb) As autarquias locais abrangidas intervêm na sua elaboração e execução;\n\nc) Os planos especiais de ordenamento do território devem ter em conta os planos municipais existentes para a sua zona de influência e obrigam a adequação destes, em prazo a estabelecer por acordo com as câmaras municipais.\n\n6 - Os planos sectoriais com incidência territorial são elaborados pela administração central e aprovados pelo Governo, ouvidas as autarquias locais abrangidas."
+  },
+  "49081175": {
+   "fragment_id": "37409075",
+   "type": 11,
+   "heading": "Artigo 21.º — Participação e concertação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Participação e concertação\n\n1 - Os instrumentos de gestão territorial são submetidos a prévia apreciação pública.\n\n2 - A elaboração e aprovação dos instrumentos de gestão territorial vinculativos dos particulares são objecto de mecanismos reforçados de participação dos cidadãos, nomeadamente através de formas de concertação de interesses."
+  },
+  "49081275": {
+   "fragment_id": "37409175",
+   "type": 11,
+   "heading": "Artigo 22.º — Pareceres da junta regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Pareceres da junta regional\n\n1 - Os pareceres a emitir pela junta regional relativamente aos planos municipais e intermunicipais incidem sobre a sua articulação com os objectivos, princípios e regras aplicáveis no município ou municípios em causa, definidos por instrumentos de desenvolvimento territorial, de planeamento territorial, de política sectorial ou de natureza especial.\n\n2 - A junta regional deve suscitar a ilegalidade dos instrumentos de planeamento territorial sujeitos à sua apreciação junto das entidades competentes para a respectiva aprovação."
+  },
+  "49081375": {
+   "fragment_id": "37409275",
+   "type": 11,
+   "heading": "Artigo 23.º — Ratificação pelo Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Ratificação pelo Governo\n\n1 - A ratificação pelo Governo dos planos regionais, intermunicipais e municipais destina-se a verificar a sua conformidade com as disposições legais e regulamentares vigentes, bem como a conformidade com instrumentos de desenvolvimento territorial, de planeamento territorial, de política sectorial ou de natureza especial válidos e eficazes, sem prejuízo do disposto no número seguinte.\n\n2 - A ratificação dos planos pode ser parcial, aproveitando apenas à parte conforme com as normas legais e regulamentares vigentes e conforme com os instrumentos de gestão territorial eficazes."
+  },
+  "49081475": {
+   "fragment_id": "37409375",
+   "type": 11,
+   "heading": "Artigo 24.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Publicidade\n\n1 - São publicados em Diário da República todos os instrumentos de gestão territorial.\n\n2 - Poderão ser estabelecidos ainda outros meios de publicidade que garantam uma adequada divulgação."
+  },
+  "49081575": {
+   "fragment_id": "37409475",
+   "type": 11,
+   "heading": "Artigo 25.º — Alteração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Alteração\n\n1 - Os instrumentos de desenvolvimento territorial e os instrumentos de política sectorial são alterados sempre que a evolução das perspectivas de desenvolvimento económico e social o determine.\n\n2 - Os instrumentos de gestão territorial vinculativos dos particulares devem respeitar um período de vigência mínima legalmente definido, durante o qual eventuais alterações terão carácter excepcional, nos termos a definir por lei.\n\n3 - São directamente aplicáveis aos instrumentos de gestão territorial referidos no número anterior as novas leis ou regulamentos que colidam com as suas disposições ou estabeleçam servidões administrativas ou restrições de utilidade públicas que afectem as suas prescrições."
+  },
+  "49081675": {
+   "fragment_id": "37409575",
+   "type": 11,
+   "heading": "Artigo 26.º — Suspensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Suspensão\n\nOs instrumentos de gestão territorial podem ser total ou parcialmente suspensos em casos excepcionais e quando esteja em causa a prossecução de relevante interesse público."
+  },
+  "49081775": {
+   "fragment_id": "37409675",
+   "type": 11,
+   "heading": "Artigo 27.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Revisão\n\nOs instrumentos de gestão territorial vinculativos dos particulares são obrigatoriamente revistos no prazo e condições legalmente previstos."
+  },
+  "49081875": {
+   "fragment_id": "35858075",
+   "type": 1,
+   "heading": "Capítulo V — Avaliação da política de ordenamento do território",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Avaliação da política de ordenamento do território"
+  },
+  "49081975": {
+   "fragment_id": "37409775",
+   "type": 11,
+   "heading": "Artigo 28.º — Relatórios sobre o estado do ordenamento do território",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Relatórios sobre o estado do ordenamento do território\n\n1 - O Governo apresenta de dois em dois anos à Assembleia da República um relatório sobre o estado do ordenamento do território, no qual é feito o balanço da execução do programa nacional da política de ordenamento do território e são discutidos os princípios orientadores e as formas de articulação das políticas sectoriais com incidência territorial.\n\n2 - A junta regional apresenta de dois em dois anos à assembleia regional um relatório sobre o estado do ordenamento do território a nível regional, no qual se aprecia a execução, ao nível regional, do plano regional de ordenamento do território, das políticas sectoriais com incidência territorial e articulação entre os planos directores municipais.\n\n3 - A câmara municipal apresenta, de dois em dois anos, à assembleia municipal um relatório sobre a execução dos planos municipais de ordenamento do território e a sua articulação com a estratégia de desenvolvimento municipal, sendo igualmente apreciada a eventual necessidade de revisão ou alteração dos planos."
+  },
+  "49082075": {
+   "fragment_id": "37409875",
+   "type": 11,
+   "heading": "Artigo 29.º — Acompanhamento da política de ordenamento do território",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Acompanhamento da política de ordenamento do território\n\n1 - A lei deve estabelecer formas de acompanhamento permanente e avaliação técnica da gestão territorial e prever mecanismos que garantam a qualidade dos instrumentos que a concretizam.\n\n2 - A lei deve estabelecer ainda a criação de um sistema nacional de dados sobre o território, articulado aos níveis regional e local."
+  },
+  "49082175": {
+   "fragment_id": "35858175",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "49082275": {
+   "fragment_id": "37409975",
+   "type": 11,
+   "heading": "Artigo 30.º — Aplicação directa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Aplicação directa\n\n1 - Os princípios e regras consagrados pelo presente diploma que sejam directamente exequíveis entram em vigor na data estabelecida no artigo 36.º\n\n2 - Sem prejuízo do disposto nos artigos seguintes e sempre que directamente exequíveis, são ainda de aplicação imediata os princípios e regras relativos à eficácia dos diversos instrumentos de gestão territorial."
+  },
+  "49082375": {
+   "fragment_id": "37410075",
+   "type": 11,
+   "heading": "Artigo 31.º — Planos regionais de ordenamento do território",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Planos regionais de ordenamento do território\n\n1 - Os planos regionais de ordenamento do território aprovados nos termos do Decreto-Lei n.º 176-A/88, de 18 de Maio, continuam em vigor até à sua revisão obrigatória pelos órgãos das regiões administrativas.\n\n2 - A revisão referida no número anterior obedece às regras de competência consagradas no n.º 2 do artigo 20.º da presente lei, devendo ocorrer nos três anos subsequentes à primeira eleição das assembleias regionais, após o que, caso não sejam revistos, os actuais planos regionais de ordenamento do território deixarão de vincular os particulares.\n\n3 - Verificada a revisão prevista nos números anteriores, os planos regionais de ordenamento do território revestir-se-ão da eficácia estabelecida nos n.os 2 e 3 do artigo 10.º da presente lei.\n\n4 - Os planos regionais de ordenamento do território cuja elaboração foi previamente determinada pelo Governo, mas cuja aprovação ocorra depois da entrada em vigor da presente lei terão o respectivo conteúdo integrado pelos princípios consagrados pela presente lei, designadamente em matéria de eficácia e de relacionamento com os demais níveis e instrumentos de gestão territorial.\n\n5 - Até à instituição em concreto das regiões administrativas mantêm-se as actuais competências da administração central relativas à elaboração e aprovação de planos regionais de ordenamento do território."
+  },
+  "49082475": {
+   "fragment_id": "37410175",
+   "type": 11,
+   "heading": "Artigo 32.º — Planos municipais de ordenamento do território",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Planos municipais de ordenamento do território\n\n1 - Até à instituição em concreto das regiões administrativas mantêm-se as actuais competências da administração central relativas ao acompanhamento da elaboração dos planos municipais de ordenamento do território.\n\n2 - Após a aprovação do programa nacional de políticas de ordenamento do território e dos novos planos regionais de ordenamento do território, a ratificação de planos municipais pelo Governo só terá lugar nos casos em que seja suscitada, no âmbito do procedimento de elaboração e aprovação dos planos, a desconformidade com as disposições legais e regulamentares vigentes ou com instrumentos de gestão territorial eficazes."
+  },
+  "49082575": {
+   "fragment_id": "37410275",
+   "type": 11,
+   "heading": "Artigo 33.º — Planos especiais de ordenamento do território",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Planos especiais de ordenamento do território\n\nOs planos especiais de ordenamento do território são os planos de ordenamento de áreas protegidas, os planos de ordenamento de albufeiras de águas públicas e os planos de ordenamento da orla costeira."
+  },
+  "49082675": {
+   "fragment_id": "37410375",
+   "type": 11,
+   "heading": "Artigo 34.º — Outros planos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Outros planos\n\n1 - Todos os instrumentos de natureza legal ou regulamentar com incidência territorial actualmente existentes deverão ser reconduzidos, no âmbito do sistema de planeamento estabelecido pela presente lei, ao tipo de instrumento de gestão territorial que se revele adequado à sua vocação específica.\n\n2 - O disposto no número anterior deverá considerar que:\n\na) A produção de quaisquer efeitos jurídicos externos pelos instrumentos com incidência territorial a integrar no sistema de planeamento territorial dependerá sempre, nos termos do artigo 11.º, n.º 2, da presente lei, da possibilidade de converter aqueles instrumentos em planos municipais de ordenamento do território ou em planos especiais de ordenamento do território;\n\nb) Além de determinar o alcance dos efeitos jurídicos a produzir, a integração em qualquer das categorias de instrumentos de gestão territorial legalmente previstas impõe o cumprimento das regras relativas à respectiva elaboração, aprovação e entrada em vigor;\n\nc) A integração nas categorias previstas no sistema de gestão territorial deverá fazer-se no prazo de dois anos a contar da entrada em vigor da presente lei, findo o qual deixam de vincular os particulares todos os instrumentos de natureza legal ou regulamentar com incidência territorial que não se enquadrem no elenco típico legalmente estabelecido.\n\n3 - No prazo máximo de 180 dias, o Governo definirá em diploma próprio o procedimento a adoptar."
+  },
+  "49082775": {
+   "fragment_id": "37410475",
+   "type": 11,
+   "heading": "Artigo 35.º — Legislação complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Legislação complementar\n\n1 - No prazo de um ano serão aprovados os diplomas legais complementares que definirão:\n\na) O regime jurídico do programa nacional da política de ordenamento do território;\n\nb) O regime jurídico dos planos intermunicipais de ordenamento do território;\n\nc) As alterações aos regimes aplicáveis à elaboração, aprovação, execução, avaliação e revisão dos planos regionais de ordenamento do território, dos planos municipais de ordenamento do território e dos planos especiais de ordenamento do território.\n\n2 - No mesmo prazo serão ainda aprovados os diplomas legais complementares que definirão:\n\na) O regime dos instrumentos de política de solos, destinado a proporcionar as adequadas condições para a elaboração, desenvolvimento e execução dos instrumentos de planeamento territorial;\n\nb) O regime dos instrumentos de transformação da estrutura fundiária, da iniciativa da Administração Pública, necessários à execução dos instrumentos de planeamento territorial."
+  },
+  "49082875": {
+   "fragment_id": "37410575",
+   "type": 11,
+   "heading": "Artigo 36.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Entrada em vigor\n\nA presente lei entra em vigor 30 dias após a sua publicação."
+  },
+  "51271675": {
+   "fragment_id": "35117375",
+   "type": 15,
+   "heading": "Diploma — Estabelece as bases da política de ordenamento do território e de urbanismo",
+   "in_force_from": "2007-09-05",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 54/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/54-2007-641158), em vigor a partir de 2007-09-05"
+   ],
+   "markdown": "A Assembleia da República decreta, nos termos dos artigos 161.º, alínea c), 165.º, n.º 1, alínea z), 166.º, n.º 3, e do artigo 112.º, n.º 5, da Constituição, para valer como lei geral da República, o seguinte:\n\n> Alterado pelo/a [Lei n.º 54/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/54-2007-641158), em vigor a partir de 2007-09-05"
+  },
+  "51270975": {
+   "fragment_id": "37408975",
+   "type": 11,
+   "heading": "Artigo 20.º — Elaboração e aprovação",
+   "in_force_from": "2007-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo Único do/a [Lei n.º 54/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/54-2007-641158), em vigor a partir de 2007-09-05"
+   ],
+   "markdown": "###### Artigo 20.º — Elaboração e aprovação\n\n1 - O programa nacional da política de ordenamento do território é elaborado pelo Governo e aprovado pela Assembleia da República, ouvidas as Regiões Autónomas, as regiões administrativas e os municípios.\n\n2 - Os planos regionais de ordenamento do território são elaborados pelas juntas regionais, com audição dos municípios abrangidos, e são aprovados pelas assembleias regionais, com posterior ratificação pelo Governo.\n\n3 - Os planos intermunicipais de ordenamento do território são elaborados pelas câmaras municipais envolvidas e, após parecer da junta regional, aprovados pelas assembleias municipais respectivas.\n\n4 - Os planos municipais de ordenamento do território são elaborados pelas câmaras municipais e aprovados pelas assembleias municipais, estabelecendo-se as seguintes regras específicas:\n\na) Os planos directores municipais estão sujeitos a parecer da junta regional e a ratificação pelo Governo, quando se verifique a incompatibilidade com planos regionais de ordenamento do território e planos sectoriais;\n\nb) Os planos de urbanização estão sujeitos a parecer da junta regional;\n\nc) Os planos de pormenor estão sujeitos a parecer da junta regional;\n\nd) Os planos de pormenor são de iniciativa das câmaras municipais tendo em conta a concretização dos programas de acção territorial.\n\n5 - Os planos especiais de ordenamento do território são elaborados pela administração central, sendo assegurado que:\n\na) A decisão de sujeitar áreas delimitadas de um ou de vários municípios à disciplina de um instrumento de natureza especial, com fundamento em relevante interesse nacional, bem como a sua aprovação são da competência do Conselho de Ministros;\n\nb) As autarquias locais abrangidas intervêm na sua elaboração e execução;\n\nc) Os planos especiais de ordenamento do território devem ter em conta os planos municipais existentes para a sua zona de influência e obrigam a adequação destes, em prazo a estabelecer por acordo com as câmaras municipais.\n\n6 - Os planos sectoriais com incidência territorial são elaborados pela administração central e aprovados pelo Governo, ouvidas as autarquias locais abrangidas.\n\n> Alterado pelo/a Artigo Único do/a [Lei n.º 54/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/54-2007-641158), em vigor a partir de 2007-09-05"
+  },
+  "51271075": {
+   "fragment_id": "37409275",
+   "type": 11,
+   "heading": "Artigo 23.º — Ratificação pelo Governo",
+   "in_force_from": "2007-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo Único do/a [Lei n.º 54/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/54-2007-641158), em vigor a partir de 2007-09-05"
+   ],
+   "markdown": "###### Artigo 23.º — Ratificação pelo Governo\n\n1 - A ratificação pelo Governo do plano director municipal tem como efeito a derrogação das normas dos planos regionais e planos sectoriais incompatíveis com as opções municipais.\n\n2 - A ratificação do plano director municipal pode ser parcial, aproveitando apenas a parte objecto de ratificação.\n\n> Alterado pelo/a Artigo Único do/a [Lei n.º 54/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/54-2007-641158), em vigor a partir de 2007-09-05"
+  },
+  "51271375": {
+   "fragment_id": "37410175",
+   "type": 11,
+   "heading": "Artigo 32.º — Planos municipais de ordenamento do território",
+   "in_force_from": "2007-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo Único do/a [Lei n.º 54/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/54-2007-641158), em vigor a partir de 2007-09-05"
+   ],
+   "markdown": "###### Artigo 32.º — Planos municipais de ordenamento do território\n\n1 - Até à instituição em concreto das regiões administrativas mantêm-se as actuais competências da administração central relativas ao acompanhamento da elaboração dos planos municipais de ordenamento do território.\n\n2 - A cessação de restrições e servidões de utilidade pública e a desafectação de imóveis do domínio público ou dos fins de utilidade pública a que se encontravam adstritos, designadamente os do domínio privado indisponível do Estado, mesmo que integrem o património de institutos ou de empresas públicas, têm como efeito a caducidade do regime de uso do solo para eles especificamente previsto nos planos municipais de ordenamento do território, se estes não tiverem já estabelecido o regime de uso do solo aplicável.\n\n3 - Perante a verificação da caducidade do regime de uso do solo referida no número anterior, o município deve redefinir o uso do solo mediante a elaboração ou alteração de instrumento de gestão territorial.\n\n> Alterado pelo/a Artigo Único do/a [Lei n.º 54/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/54-2007-641158), em vigor a partir de 2007-09-05"
+  },
+  "51271575": {
+   "fragment_id": "37410275",
+   "type": 11,
+   "heading": "Artigo 33.º — Planos especiais de ordenamento do território",
+   "in_force_from": "2007-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo Único do/a [Lei n.º 54/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/54-2007-641158), em vigor a partir de 2007-09-05"
+   ],
+   "markdown": "###### Artigo 33.º — Planos especiais de ordenamento do território\n\nOs planos especiais de ordenamento do território são os planos de ordenamento de áreas protegidas, os planos de ordenamento de albufeiras de águas públicas, os planos de ordenamento da orla costeira e os planos de ordenamento dos estuários.\n\n> Alterado pelo/a Artigo Único do/a [Lei n.º 54/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/54-2007-641158), em vigor a partir de 2007-09-05"
+  },
+  "49082975": {
+   "fragment_id": "35858275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 30 de Junho de 1998.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 28 de Julho de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 30 de Julho de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "57381233": {
+   "fragment_id": "35857675",
+   "type": 1,
+   "heading": "Capítulo I — Princípios e objectivos",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "### Capítulo I — Princípios e objectivos\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381234": {
+   "fragment_id": "37407075",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - A presente lei estabelece as bases da política de ordenamento do território e de urbanismo.\n\n2 - A política de ordenamento do território e de urbanismo define e integra as acções promovidas pela Administração Pública, visando assegurar uma adequada organização e utilização do território nacional, na perspectiva da sua valorização, designadamente no espaço europeu, tendo como finalidade o desenvolvimento económico, social e cultural integrado, harmonioso e sustentável do País, das diferentes regiões e aglomerados urbanos.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381235": {
+   "fragment_id": "37407175",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 2.º — Objecto\n\nConstitui objecto da presente lei:\n\na) A definição do quadro da política de ordenamento do território e de urbanismo, bem como dos instrumentos de gestão territorial que a concretizam;\n\nb) A regulação, no âmbito da política de ordenamento do território e de urbanismo, das relações entre os diversos níveis da Administração Pública e desta com as populações e com os representantes dos diferentes interesses económicos e sociais.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381236": {
+   "fragment_id": "37407275",
+   "type": 11,
+   "heading": "Artigo 3.º — Fins",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 3.º — Fins\n\nConstituem fins da política de ordenamento do território e de urbanismo:\n\na) Reforçar a coesão nacional, organizando o território, corrigindo as assimetrias regionais e assegurando a igualdade de oportunidades dos cidadãos no acesso às infra-estruturas, equipamentos, serviços e funções urbanas;\n\nb) Promover a valorização integrada das diversidades do território nacional;\n\nc) Assegurar o aproveitamento racional dos recursos naturais, a preservação do equilíbrio ambiental, a humanização das cidades e a funcionalidade dos espaços edificados;\n\nd) Assegurar a defesa e valorização do património cultural e natural;\n\ne) Promover a qualidade de vida e assegurar condições favoráveis ao desenvolvimento das actividades económicas, sociais e culturais;\n\nf) Racionalizar, reabilitar e modernizar os centros urbanos e promover a coerência dos sistemas em que se inserem;\n\ng) Salvaguardar e valorizar as potencialidades do espaço rural, contendo a desertificação e incentivando a criação de oportunidades de emprego;\n\nh) Acautelar a protecção civil da população, prevenindo os efeitos decorrentes de catástrofes naturais ou da acção humana.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381237": {
+   "fragment_id": "37407375",
+   "type": 11,
+   "heading": "Artigo 4.º — Dever de ordenar o território",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 4.º — Dever de ordenar o território\n\n1 - O Estado, as Regiões Autónomas e as autarquias locais devem promover, de forma articulada, políticas activas de ordenamento do território e de urbanismo, nos termos das suas atribuições e das competências dos respectivos órgãos, de acordo com o interesse público e no respeito pelos direitos, liberdades e garantias dos cidadãos.\n\n2 - O disposto no número anterior envolve as obrigações de zelar pela efectiva consolidação de um sistema de gestão territorial e de acautelar os efeitos que as demais políticas prosseguidas possam, aos diversos níveis, envolver para o ordenamento do território e o urbanismo.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381238": {
+   "fragment_id": "37407475",
+   "type": 11,
+   "heading": "Artigo 5.º — Princípios gerais",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 5.º — Princípios gerais\n\nA política de ordenamento do território e de urbanismo obedece aos princípios gerais de:\n\na) Sustentabilidade e solidariedade intergeracional, assegurando a transmissão às gerações futuras de um território e de espaços edificados correctamente ordenados;\n\nb) Economia, assegurando a utilização ponderada e parcimoniosa dos recursos naturais e culturais;\n\nc) Coordenação, articulando e compatibilizando o ordenamento com as políticas de desenvolvimento económico e social, bem como as políticas sectoriais com incidência na organização do território, no respeito por uma adequada ponderação dos interesses públicos e privados em causa;\n\nd) Subsidiariedade, coordenando os procedimentos dos diversos níveis da Administração Pública, por forma a privilegiar o nível decisório mais próximo do cidadão;\n\ne) Equidade, assegurando a justa repartição dos encargos e benefícios decorrentes da aplicação dos instrumentos de gestão territorial;\n\nf) Participação, reforçando a consciência cívica dos cidadãos através do acesso à informação e à intervenção nos procedimentos de elaboração, execução, avaliação e revisão dos instrumentos de gestão territorial;\n\ng) Responsabilidade, garantindo a prévia ponderação das intervenções com impacte relevante no território e estabelecendo o dever de reposição ou compensação dos danos que ponham em causa a qualidade ambiental;\n\nh) Contratualização, incentivando modelos de actuação baseados na concertação entre a iniciativa pública e a iniciativa privada na concretização dos instrumentos de gestão territorial;\n\ni) Segurança jurídica, garantindo a estabilidade dos regimes legais e o respeito pelas situações jurídicas validamente constituídas.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381239": {
+   "fragment_id": "37407575",
+   "type": 11,
+   "heading": "Artigo 6.º — Objectivos do ordenamento do território e do urbanismo",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 6.º — Objectivos do ordenamento do território e do urbanismo\n\n1 - O ordenamento do território e o urbanismo prosseguem objectivos específicos, consoante a natureza da realidade territorial subjacente, promovendo:\n\na) A melhoria das condições de vida e de trabalho das populações, no respeito pelos valores culturais, ambientais e paisagísticos;\n\nb) A distribuição equilibrada das funções de habitação, trabalho, cultura e lazer;\n\nc) A criação de oportunidades diversificadas de emprego como meio para a fixação de populações, particularmente nas áreas menos desenvolvidas;\n\nd) A preservação e defesa dos solos com aptidão natural ou aproveitados para actividades agrícolas, pecuárias ou florestais, restringindo-se a sua afectação a outras utilizações aos casos em que tal for comprovadamente necessário;\n\ne) A adequação dos níveis de densificação urbana, impedindo a degradação da qualidade de vida, bem como o desequilíbrio da organização económica e social;\n\nf) A rentabilização das infra-estruturas, evitando a extensão desnecessária das redes e dos perímetros urbanos e racionalizando o aproveitamento das áreas intersticiais;\n\ng) A aplicação de uma política de habitação que permita resolver as carências existentes;\n\nh) A reabilitação e a revitalização dos centros históricos e dos elementos de património cultural classificados;\n\ni) A recuperação ou reconversão de áreas degradadas;\n\nj) A reconversão de áreas urbanas de génese ilegal.\n\n2 - Nos diversos espaços, a programação, a criação e a manutenção de serviços públicos, de equipamentos colectivos e de espaços verdes deve procurar atenuar as assimetrias existentes, tendo em conta as necessidades específicas das populações, as acessibilidades e a adequação da capacidade de utilização.\n\n3 - O ordenamento do território e o urbanismo devem assegurar a salvaguarda dos valores naturais essenciais, garantindo que:\n\na) As edificações, isoladas ou em conjunto, se integram na paisagem, contribuindo para a valorização da envolvente;\n\nb) Os recursos hídricos, as zonas ribeirinhas, a orla costeira, as florestas e outros locais com interesse particular para a conservação da natureza constituem objecto de protecção compatível com a normal fruição pelas populações das suas pontencialidades específicas;\n\nc) As paisagens resultantes da actuação humana, caracterizadas pela diversidade, pela harmonia e pelos sistemas sócio-culturais que suportam, são protegidas e valorizadas;\n\nd) Os solos são utilizados por forma a impedir a sua contaminação ou erosão.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381240": {
+   "fragment_id": "35857775",
+   "type": 1,
+   "heading": "Capítulo II — Sistema de gestão territorial",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "### Capítulo II — Sistema de gestão territorial\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381241": {
+   "fragment_id": "37407675",
+   "type": 11,
+   "heading": "Artigo 7.º — Caracterização do sistema",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 7.º — Caracterização do sistema\n\n1 - A política de ordenamento do território e de urbanismo assenta no sistema de gestão territorial.\n\n2 - O sistema de gestão territorial organiza-se, num quadro de interacção coordenada, em três âmbitos distintos:\n\na) O âmbito nacional, que define o quadro estratégico para o ordenamento do espaço nacional, estabelecendo as directizes a considerar no ordenamento regional e municipal e a compatibilização entre os diversos instrumentos de política sectorial com incidência territorial, instituindo, quando necessário, os instrumentos de natureza especial;\n\nb) O âmbito regional, que define o quadro estratégico para o ordenamento do espaço regional em estreita articulação com as políticas nacionais de desenvolvimento económico e social, estabelecendo as directrizes orientadoras do ordenamento municipal;\n\nc) O âmbito municipal, que define, de acordo com as directrizes de âmbito nacional e regional e com opções próprias de desenvolvimento estratégico, o regime de uso do solo e a respectiva programação.\n\n3 - O sistema de gestão territorial concretiza a interacção coordenada dos seus diversos âmbitos, através de um conjunto coerente e racional de instrumentos de gestão territorial.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381242": {
+   "fragment_id": "37407775",
+   "type": 11,
+   "heading": "Artigo 8.º — Instrumentos de gestão territorial",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 8.º — Instrumentos de gestão territorial\n\nOs instrumentos de gestão territorial, de acordo com as funções diferenciadas que desempenham, integram:\n\na) Instrumentos de desenvolvimento territorial, de natureza estratégica, que traduzem as grandes opções com relevância para a organização do território, estabelecendo directrizes de carácter genérico sobre o modo de uso do mesmo, consubstanciando o quadro de referência a considerar na elaboração de instrumentos de planeamento territorial;\n\nb) Instrumentos de planeamento territorial, de natureza regulamentar, que estabelecem o regime de uso do solo, definindo modelos de evolução da ocupação humana e da organização de redes e sistemas urbanos e, na escala adequada, parâmetros de aproveitamento do solo;\n\nc) Instrumentos de política sectorial, que programam ou concretizam as políticas de desenvolvimento económico e social com incidência espacial, determinando o respectivo impacte territorial;\n\nd) Instrumentos de natureza especial, que estabelecem um meio supletivo de intervenção do Governo apto à prossecução de objectivos de interesse nacional, com repercussão espacial, ou, transitoriamente, de salvaguarda de princípios fundamentais do programa nacional de ordenamento do território.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381243": {
+   "fragment_id": "37407875",
+   "type": 11,
+   "heading": "Artigo 9.º — Caracterização dos instrumentos de gestão territorial",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 9.º — Caracterização dos instrumentos de gestão territorial\n\n1 - São instrumentos de desenvolvimento territorial:\n\na) O programa nacional da política de ordenamento do território, cujas directrizes e orientações fundamentais traduzem um modelo de organização espacial que terá em conta o sistema urbano, as redes, as infra-estruturas e os equipamentos de interesse nacional, bem como as áreas de interesse nacional em termos agrícolas, ambientais e patrimoniais;\n\nb) Os planos regionais de ordenamento do território que, de acordo com as directrizes definidas a nível nacional e tendo em conta a evolução demográfica e as perspectivas de desenvolvimento económico, social e cultural, estabelecem as orientações para o ordenamento do território regional e definem as redes regionais de infra-estruturas e transportes, constituindo o quadro de referência para a elaboração dos planos municipais de ordenamento do território, devendo ser acompanhados de um esquema representando o modelo territorial proposto;\n\nc) Os planos intermunicipais de ordenamento do território, que são de elaboração facultativa, visam a articulação estratégica entre áreas territoriais que, pela sua interdependência, necessitam de coordenação integrada.\n\n2 - São instrumentos de planeamento territorial os planos municipais de ordenamento do território, que compreendem as seguintes figuras:\n\na) O plano director municipal, que, com base na estratégia de desenvolvimento local, estabelece a estrutura espacial, a classificação básica do solo, bem como parâmetros de ocupação, considerando a implantação dos equipamentos sociais, e desenvolve a qualificação dos solos urbano e rural;\n\nb) O plano de urbanização, que desenvolve, em especial, a qualificação do solo urbano;\n\nc) O plano de pormenor, que define com detalhe o uso de qualquer área delimitada do território municipal.\n\n3 - São instrumentos de política sectorial os planos com incidência territorial da responsabilidade dos diversos sectores da administração central, nomeadamente nos domínios dos transportes, das comunicações, da energia e recursos geológicos, da educação e da formação, da cultura, da saúde, da habitação, do turismo, da agricultura, do comércio e indústria, das florestas e do ambiente.\n\n4 - Constituem instrumentos de natureza especial os planos especiais de ordenamento do território.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381244": {
+   "fragment_id": "37407975",
+   "type": 11,
+   "heading": "Artigo 10.º — Relações entre instrumentos de gestão territorial",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 10.º — Relações entre instrumentos de gestão territorial\n\n1 - Os instrumentos de planeamento territorial devem prosseguir as orientações definidas pelos instrumentos de desenvolvimento territorial.\n\n2 - Os instrumentos de desenvolvimento territorial e os instrumentos de política sectorial traduzem um compromisso recíproco de integração e compatibilização das respectivas opções, determinando que:\n\na) Os planos sectoriais desenvolvam e concretizem, no respectivo domínio de intervenção, as directrizes definidas no programa nacional da política de ordenamento do território;\n\nb) Os planos regionais de ordenamento do território integrem as regras definidas no programa nacional da política de ordenamento do território e nos planos sectoriais preexistentes;\n\nc) A elaboração dos planos sectoriais vise a necessária compatibilização com os planos regionais de ordenamento do território, relativamente aos quais tenham incidência espacial.\n\n3 - Os planos regionais de ordenamento do território e os planos sectoriais vinculam as entidades públicas competentes para a elaboração e aprovação de planos municipais relativamente aos quais tenham incidência espacial, devendo ser assegurada a compatibilidade entre os mesmos.\n\n4 - Os planos especiais de ordenamento do território traduzem um compromisso recíproco de compatibilização com o programa nacional da política de ordenamento do território e os planos regionais de ordenamento do território e prevalecem sobre os planos municipais e intermunicipais.\n\n5 - Na elaboração de novos instrumentos de gestão territorial devem ser identificados e ponderados os planos, programas e projectos com incidência na área a que respeitam, já existentes ou em preparação, e asseguradas as necessárias compatibilizações.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381245": {
+   "fragment_id": "37408075",
+   "type": 11,
+   "heading": "Artigo 11.º — Vinculação dos instrumentos de gestão territorial",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 11.º — Vinculação dos instrumentos de gestão territorial\n\n1 - Os instrumentos de gestão territorial vinculam as entidades públicas.\n\n2 - Os planos municipais e especiais de ordenamento do território são ainda vinculativos para os particulares.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381246": {
+   "fragment_id": "37408175",
+   "type": 11,
+   "heading": "Artigo 12.º — Direito de informação",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 12.º — Direito de informação\n\nOs particulares têm direito à informação tanto nos procedimentos de elaboração e alteração, como após a publicação dos instrumentos de gestão territorial, previstos no n.º 2 do artigo anterior, podendo, designadamente, consultar o respectivo processo, adquirir cópias e obter certidões.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381247": {
+   "fragment_id": "37408275",
+   "type": 11,
+   "heading": "Artigo 13.º — Garantias dos particulares",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 13.º — Garantias dos particulares\n\n1 - São reconhecidas aos titulares de direitos e interesses lesados por instrumentos de gestão territorial vinculativos dos particulares as garantias gerais dos administrados e, nomeadamente:\n\na) O direito de promover a respectiva impugnação;\n\nb) O direito de acção popular;\n\nc) O direito de apresentação de queixa ao Ministério Público e ao Provedor de Justiça.\n\n2 - São ainda reconhecidos os direitos de acção popular e de apresentação de queixa ao Provedor de Justiça relativamente a todos os instrumentos de gestão territorial cujos efeitos não vinculem directamente os particulares.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381248": {
+   "fragment_id": "35857875",
+   "type": 1,
+   "heading": "Capítulo III — Regime de uso do solo e execução dos instrumentos de planeamento territorial",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "### Capítulo III — Regime de uso do solo e execução dos instrumentos de planeamento territorial\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381249": {
+   "fragment_id": "37408375",
+   "type": 11,
+   "heading": "Artigo 14.º — Uso do solo e das águas",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 14.º — Uso do solo e das águas\n\n1 - A ocupação, a utilização e a transformação do solo estão subordinadas aos fins, princípios gerais e objectivos específicos estabelecidos nos artigos 3.º, 5.º e 6.º do presente diploma e conformam-se com o regime de uso do solo definido nos instrumentos de planeamento territorial.\n\n2 - Idênticos fins, princípios gerais e objectivos são aplicáveis, com as devidas adaptações, ao ordenamento das águas e zonas envolventes, marginais ou ribeirinhas.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381250": {
+   "fragment_id": "37408475",
+   "type": 11,
+   "heading": "Artigo 15.º — Classificação e qualificação do solo",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 15.º — Classificação e qualificação do solo\n\n1 - O regime de uso do solo é definido mediante a classificação e a qualificação do solo.\n\n2 - A classificação do solo determina o destino básico dos terrenos e assenta na distinção fundamental entre solo rural e solo urbano, entendendo-se por:\n\na) Solo rural, aquele para o qual é reconhecida vocação para as actividades agrícolas, pecuárias, florestais ou minerais, assim como o que integra os espaços naturais de protecção ou de lazer, ou que seja ocupado por infra-estruturas que não lhe confiram o estatuto de solo urbano;\n\nb) Solo urbano, aquele para o qual é reconhecida vocação para o processo de urbanização e de edificação, nele se compreendendo os terrenos urbanizados ou cuja urbanização seja programada, constituindo o seu todo o perímetro urbano.\n\n3 - A qualificação dos solos regula, com respeito pela sua classificação básica, o aproveitamento dos terrenos em função da actividade dominante que neles possa ser efectuada ou desenvolvida, estabelecendo o respectivo uso e edificabilidade.\n\n4 - O regime de uso do solo é estabelecido em instrumentos de planeamento territorial, que definem para o efeito as adequadas classificação e qualificação.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381251": {
+   "fragment_id": "37408575",
+   "type": 11,
+   "heading": "Artigo 16.º — Execução",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 16.º — Execução\n\n1 - A Administração Pública tem o dever de proceder à execução coordenada e programada dos instrumentos de planeamento territorial, recorrendo aos meios de política de solos que vierem a ser estabelecidos na lei.\n\n2 - Para a execução coordenada e programada dos instrumentos de planeamento territorial, os meios de política de solos a estabelecer na lei devem contemplar, nomeadamente, modos de aquisição ou disponibilização de terrenos, mecanismos de transformação fundiária e formas de parceria ou contratualização, que incentivem a concertação dos diversos interesses.\n\n3 - A coordenação e programação dos instrumentos de planeamento territorial determina para os particulares o dever de concretizar e adequar as suas pretensões às metas e prioridades neles estabelecidas.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381252": {
+   "fragment_id": "37408675",
+   "type": 11,
+   "heading": "Artigo 17.º — Programas de acção territorial",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 17.º — Programas de acção territorial\n\n1 - A coordenação das actuações das entidades públicas e privadas interessadas na definição da política de ordenamento do território e de urbanismo e na execução dos instrumentos de planeamento territorial pode ser enquadrada por programas de acção territorial.\n\n2 - Os programas de acção territorial têm por base um diagnóstico das tendências de transformação das áreas a que se referem, definem os objectivos a atingir no período da sua vigência, especificam as acções a realizar pelas entidades neles interessadas e estabelecem o escalonamento temporal dos investimentos neles previstos.\n\n3 - A concretização dos programas de acção territorial é assegurada mediante acordo celebrado entre as entidades neles interessadas.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381253": {
+   "fragment_id": "37408775",
+   "type": 11,
+   "heading": "Artigo 18.º — Compensação e indemnização",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 18.º — Compensação e indemnização\n\n1 - Os instrumentos de gestão territorial vinculativos dos particulares devem prever mecanismos equitativos de perequação compensatória, destinados a assegurar a redistribuição entre os interessados dos encargos e benefícios deles resultantes, nos termos a estabelecer na lei.\n\n2 - Existe o dever de indemnizar sempre que os instrumentos de gestão territorial vinculativos dos particulares determinem restrições significativas de efeitos equivalentes a expropriação, a direitos de uso do solo preexistentes e juridicamente consolidados que não possam ser compensados nos termos do número anterior.\n\n3 - A lei define o prazo e as condições de exercício do direito à indemnização previsto no número anterior.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381254": {
+   "fragment_id": "35857975",
+   "type": 1,
+   "heading": "Capítulo IV — Regime dos instrumentos de gestão territorial",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "### Capítulo IV — Regime dos instrumentos de gestão territorial\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381255": {
+   "fragment_id": "37408875",
+   "type": 11,
+   "heading": "Artigo 19.º — Regime jurídico",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 19.º — Regime jurídico\n\nO regime jurídico dos instrumentos de gestão territorial é estabelecido através de diplomas legais complementares da presente lei.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381256": {
+   "fragment_id": "37408975",
+   "type": 11,
+   "heading": "Artigo 20.º — Elaboração e aprovação",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29",
+    "Alterado pelo/a Artigo Único do/a [Lei n.º 54/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/54-2007-641158), em vigor a partir de 2007-09-05"
+   ],
+   "markdown": "###### Artigo 20.º — Elaboração e aprovação\n\n1 - O programa nacional da política de ordenamento do território é elaborado pelo Governo e aprovado pela Assembleia da República, ouvidas as Regiões Autónomas, as regiões administrativas e os municípios.\n\n2 - Os planos regionais de ordenamento do território são elaborados pelas juntas regionais, com audição dos municípios abrangidos, e são aprovados pelas assembleias regionais, com posterior ratificação pelo Governo.\n\n3 - Os planos intermunicipais de ordenamento do território são elaborados pelas câmaras municipais envolvidas e, após parecer da junta regional, aprovados pelas assembleias municipais respectivas.\n\n4 - Os planos municipais de ordenamento do território são elaborados pelas câmaras municipais e aprovados pelas assembleias municipais, estabelecendo-se as seguintes regras específicas:\n\na) Os planos directores municipais estão sujeitos a parecer da junta regional e a ratificação pelo Governo, quando se verifique a incompatibilidade com planos regionais de ordenamento do território e planos sectoriais;\n\nb) Os planos de urbanização estão sujeitos a parecer da junta regional;\n\nc) Os planos de pormenor estão sujeitos a parecer da junta regional;\n\nd) Os planos de pormenor são de iniciativa das câmaras municipais tendo em conta a concretização dos programas de acção territorial.\n\n5 - Os planos especiais de ordenamento do território são elaborados pela administração central, sendo assegurado que:\n\na) A decisão de sujeitar áreas delimitadas de um ou de vários municípios à disciplina de um instrumento de natureza especial, com fundamento em relevante interesse nacional, bem como a sua aprovação são da competência do Conselho de Ministros;\n\nb) As autarquias locais abrangidas intervêm na sua elaboração e execução;\n\nc) Os planos especiais de ordenamento do território devem ter em conta os planos municipais existentes para a sua zona de influência e obrigam a adequação destes, em prazo a estabelecer por acordo com as câmaras municipais.\n\n6 - Os planos sectoriais com incidência territorial são elaborados pela administração central e aprovados pelo Governo, ouvidas as autarquias locais abrangidas.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29\n\n> Alterado pelo/a Artigo Único do/a [Lei n.º 54/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/54-2007-641158), em vigor a partir de 2007-09-05"
+  },
+  "57381257": {
+   "fragment_id": "37409075",
+   "type": 11,
+   "heading": "Artigo 21.º — Participação e concertação",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 21.º — Participação e concertação\n\n1 - Os instrumentos de gestão territorial são submetidos a prévia apreciação pública.\n\n2 - A elaboração e aprovação dos instrumentos de gestão territorial vinculativos dos particulares são objecto de mecanismos reforçados de participação dos cidadãos, nomeadamente através de formas de concertação de interesses.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381258": {
+   "fragment_id": "37409175",
+   "type": 11,
+   "heading": "Artigo 22.º — Pareceres da junta regional",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 22.º — Pareceres da junta regional\n\n1 - Os pareceres a emitir pela junta regional relativamente aos planos municipais e intermunicipais incidem sobre a sua articulação com os objectivos, princípios e regras aplicáveis no município ou municípios em causa, definidos por instrumentos de desenvolvimento territorial, de planeamento territorial, de política sectorial ou de natureza especial.\n\n2 - A junta regional deve suscitar a ilegalidade dos instrumentos de planeamento territorial sujeitos à sua apreciação junto das entidades competentes para a respectiva aprovação.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381259": {
+   "fragment_id": "37409275",
+   "type": 11,
+   "heading": "Artigo 23.º — Ratificação pelo Governo",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29",
+    "Alterado pelo/a Artigo Único do/a [Lei n.º 54/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/54-2007-641158), em vigor a partir de 2007-09-05"
+   ],
+   "markdown": "###### Artigo 23.º — Ratificação pelo Governo\n\n1 - A ratificação pelo Governo do plano director municipal tem como efeito a derrogação das normas dos planos regionais e planos sectoriais incompatíveis com as opções municipais.\n\n2 - A ratificação do plano director municipal pode ser parcial, aproveitando apenas a parte objecto de ratificação.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29\n\n> Alterado pelo/a Artigo Único do/a [Lei n.º 54/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/54-2007-641158), em vigor a partir de 2007-09-05"
+  },
+  "57381260": {
+   "fragment_id": "37409375",
+   "type": 11,
+   "heading": "Artigo 24.º — Publicidade",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 24.º — Publicidade\n\n1 - São publicados em Diário da República todos os instrumentos de gestão territorial.\n\n2 - Poderão ser estabelecidos ainda outros meios de publicidade que garantam uma adequada divulgação.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381261": {
+   "fragment_id": "37409475",
+   "type": 11,
+   "heading": "Artigo 25.º — Alteração",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 25.º — Alteração\n\n1 - Os instrumentos de desenvolvimento territorial e os instrumentos de política sectorial são alterados sempre que a evolução das perspectivas de desenvolvimento económico e social o determine.\n\n2 - Os instrumentos de gestão territorial vinculativos dos particulares devem respeitar um período de vigência mínima legalmente definido, durante o qual eventuais alterações terão carácter excepcional, nos termos a definir por lei.\n\n3 - São directamente aplicáveis aos instrumentos de gestão territorial referidos no número anterior as novas leis ou regulamentos que colidam com as suas disposições ou estabeleçam servidões administrativas ou restrições de utilidade públicas que afectem as suas prescrições.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381262": {
+   "fragment_id": "37409575",
+   "type": 11,
+   "heading": "Artigo 26.º — Suspensão",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 26.º — Suspensão\n\nOs instrumentos de gestão territorial podem ser total ou parcialmente suspensos em casos excepcionais e quando esteja em causa a prossecução de relevante interesse público.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381263": {
+   "fragment_id": "37409675",
+   "type": 11,
+   "heading": "Artigo 27.º — Revisão",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 27.º — Revisão\n\nOs instrumentos de gestão territorial vinculativos dos particulares são obrigatoriamente revistos no prazo e condições legalmente previstos.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381264": {
+   "fragment_id": "35858075",
+   "type": 1,
+   "heading": "Capítulo V — Avaliação da política de ordenamento do território",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "### Capítulo V — Avaliação da política de ordenamento do território\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381265": {
+   "fragment_id": "37409775",
+   "type": 11,
+   "heading": "Artigo 28.º — Relatórios sobre o estado do ordenamento do território",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 28.º — Relatórios sobre o estado do ordenamento do território\n\n1 - O Governo apresenta de dois em dois anos à Assembleia da República um relatório sobre o estado do ordenamento do território, no qual é feito o balanço da execução do programa nacional da política de ordenamento do território e são discutidos os princípios orientadores e as formas de articulação das políticas sectoriais com incidência territorial.\n\n2 - A junta regional apresenta de dois em dois anos à assembleia regional um relatório sobre o estado do ordenamento do território a nível regional, no qual se aprecia a execução, ao nível regional, do plano regional de ordenamento do território, das políticas sectoriais com incidência territorial e articulação entre os planos directores municipais.\n\n3 - A câmara municipal apresenta, de dois em dois anos, à assembleia municipal um relatório sobre a execução dos planos municipais de ordenamento do território e a sua articulação com a estratégia de desenvolvimento municipal, sendo igualmente apreciada a eventual necessidade de revisão ou alteração dos planos.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381266": {
+   "fragment_id": "37409875",
+   "type": 11,
+   "heading": "Artigo 29.º — Acompanhamento da política de ordenamento do território",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 29.º — Acompanhamento da política de ordenamento do território\n\n1 - A lei deve estabelecer formas de acompanhamento permanente e avaliação técnica da gestão territorial e prever mecanismos que garantam a qualidade dos instrumentos que a concretizam.\n\n2 - A lei deve estabelecer ainda a criação de um sistema nacional de dados sobre o território, articulado aos níveis regional e local.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381267": {
+   "fragment_id": "35858175",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381268": {
+   "fragment_id": "37409975",
+   "type": 11,
+   "heading": "Artigo 30.º — Aplicação directa",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 30.º — Aplicação directa\n\n1 - Os princípios e regras consagrados pelo presente diploma que sejam directamente exequíveis entram em vigor na data estabelecida no artigo 36.º\n\n2 - Sem prejuízo do disposto nos artigos seguintes e sempre que directamente exequíveis, são ainda de aplicação imediata os princípios e regras relativos à eficácia dos diversos instrumentos de gestão territorial.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381269": {
+   "fragment_id": "37410075",
+   "type": 11,
+   "heading": "Artigo 31.º — Planos regionais de ordenamento do território",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 31.º — Planos regionais de ordenamento do território\n\n1 - Os planos regionais de ordenamento do território aprovados nos termos do Decreto-Lei n.º 176-A/88, de 18 de Maio, continuam em vigor até à sua revisão obrigatória pelos órgãos das regiões administrativas.\n\n2 - A revisão referida no número anterior obedece às regras de competência consagradas no n.º 2 do artigo 20.º da presente lei, devendo ocorrer nos três anos subsequentes à primeira eleição das assembleias regionais, após o que, caso não sejam revistos, os actuais planos regionais de ordenamento do território deixarão de vincular os particulares.\n\n3 - Verificada a revisão prevista nos números anteriores, os planos regionais de ordenamento do território revestir-se-ão da eficácia estabelecida nos n.os 2 e 3 do artigo 10.º da presente lei.\n\n4 - Os planos regionais de ordenamento do território cuja elaboração foi previamente determinada pelo Governo, mas cuja aprovação ocorra depois da entrada em vigor da presente lei terão o respectivo conteúdo integrado pelos princípios consagrados pela presente lei, designadamente em matéria de eficácia e de relacionamento com os demais níveis e instrumentos de gestão territorial.\n\n5 - Até à instituição em concreto das regiões administrativas mantêm-se as actuais competências da administração central relativas à elaboração e aprovação de planos regionais de ordenamento do território.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381270": {
+   "fragment_id": "37410175",
+   "type": 11,
+   "heading": "Artigo 32.º — Planos municipais de ordenamento do território",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29",
+    "Alterado pelo/a Artigo Único do/a [Lei n.º 54/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/54-2007-641158), em vigor a partir de 2007-09-05"
+   ],
+   "markdown": "###### Artigo 32.º — Planos municipais de ordenamento do território\n\n1 - Até à instituição em concreto das regiões administrativas mantêm-se as actuais competências da administração central relativas ao acompanhamento da elaboração dos planos municipais de ordenamento do território.\n\n2 - A cessação de restrições e servidões de utilidade pública e a desafectação de imóveis do domínio público ou dos fins de utilidade pública a que se encontravam adstritos, designadamente os do domínio privado indisponível do Estado, mesmo que integrem o património de institutos ou de empresas públicas, têm como efeito a caducidade do regime de uso do solo para eles especificamente previsto nos planos municipais de ordenamento do território, se estes não tiverem já estabelecido o regime de uso do solo aplicável.\n\n3 - Perante a verificação da caducidade do regime de uso do solo referida no número anterior, o município deve redefinir o uso do solo mediante a elaboração ou alteração de instrumento de gestão territorial.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29\n\n> Alterado pelo/a Artigo Único do/a [Lei n.º 54/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/54-2007-641158), em vigor a partir de 2007-09-05"
+  },
+  "57381271": {
+   "fragment_id": "37410275",
+   "type": 11,
+   "heading": "Artigo 33.º — Planos especiais de ordenamento do território",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29",
+    "Alterado pelo/a Artigo Único do/a [Lei n.º 54/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/54-2007-641158), em vigor a partir de 2007-09-05"
+   ],
+   "markdown": "###### Artigo 33.º — Planos especiais de ordenamento do território\n\nOs planos especiais de ordenamento do território são os planos de ordenamento de áreas protegidas, os planos de ordenamento de albufeiras de águas públicas, os planos de ordenamento da orla costeira e os planos de ordenamento dos estuários.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29\n\n> Alterado pelo/a Artigo Único do/a [Lei n.º 54/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/54-2007-641158), em vigor a partir de 2007-09-05"
+  },
+  "57381272": {
+   "fragment_id": "37410375",
+   "type": 11,
+   "heading": "Artigo 34.º — Outros planos",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 34.º — Outros planos\n\n1 - Todos os instrumentos de natureza legal ou regulamentar com incidência territorial actualmente existentes deverão ser reconduzidos, no âmbito do sistema de planeamento estabelecido pela presente lei, ao tipo de instrumento de gestão territorial que se revele adequado à sua vocação específica.\n\n2 - O disposto no número anterior deverá considerar que:\n\na) A produção de quaisquer efeitos jurídicos externos pelos instrumentos com incidência territorial a integrar no sistema de planeamento territorial dependerá sempre, nos termos do artigo 11.º, n.º 2, da presente lei, da possibilidade de converter aqueles instrumentos em planos municipais de ordenamento do território ou em planos especiais de ordenamento do território;\n\nb) Além de determinar o alcance dos efeitos jurídicos a produzir, a integração em qualquer das categorias de instrumentos de gestão territorial legalmente previstas impõe o cumprimento das regras relativas à respectiva elaboração, aprovação e entrada em vigor;\n\nc) A integração nas categorias previstas no sistema de gestão territorial deverá fazer-se no prazo de dois anos a contar da entrada em vigor da presente lei, findo o qual deixam de vincular os particulares todos os instrumentos de natureza legal ou regulamentar com incidência territorial que não se enquadrem no elenco típico legalmente estabelecido.\n\n3 - No prazo máximo de 180 dias, o Governo definirá em diploma próprio o procedimento a adoptar.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381273": {
+   "fragment_id": "37410475",
+   "type": 11,
+   "heading": "Artigo 35.º — Legislação complementar",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 35.º — Legislação complementar\n\n1 - No prazo de um ano serão aprovados os diplomas legais complementares que definirão:\n\na) O regime jurídico do programa nacional da política de ordenamento do território;\n\nb) O regime jurídico dos planos intermunicipais de ordenamento do território;\n\nc) As alterações aos regimes aplicáveis à elaboração, aprovação, execução, avaliação e revisão dos planos regionais de ordenamento do território, dos planos municipais de ordenamento do território e dos planos especiais de ordenamento do território.\n\n2 - No mesmo prazo serão ainda aprovados os diplomas legais complementares que definirão:\n\na) O regime dos instrumentos de política de solos, destinado a proporcionar as adequadas condições para a elaboração, desenvolvimento e execução dos instrumentos de planeamento territorial;\n\nb) O regime dos instrumentos de transformação da estrutura fundiária, da iniciativa da Administração Pública, necessários à execução dos instrumentos de planeamento territorial.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57381274": {
+   "fragment_id": "37410575",
+   "type": 11,
+   "heading": "Artigo 36.º — Entrada em vigor",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 36.º — Entrada em vigor\n\nA presente lei entra em vigor 30 dias após a sua publicação.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "57380375": {
+   "fragment_id": "35858275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "Aprovada em 30 de Junho de 1998.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 28 de Julho de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 30 de Julho de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  }
+ }
+}

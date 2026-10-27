@@ -1,0 +1,100 @@
+---
+schema_version: '1.0'
+id: pt:dre:233683:por
+title: Portaria n.º 23216
+short_title: null
+summary: Prorroga por mais um ano a faculdade contida no artigo 7.º do Decreto-Lei n.º 46301, que estabelece o regime financeiro
+  dos serviços e instituições que visam actividades de natureza hospitalar
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Saúde e Assistência
+proposing_entity: null
+official_number: '23216'
+official_date: null
+publication_date: '1968-02-10'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 35/1968, Série I de 1968-02-10
+  number: '35'
+  series: I
+  supplement: null
+  pages: 227 - 227
+  pdf_url: https://files.diariodarepublica.pt/1s/1968/02/03500/02270227.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '233683'
+  dre_path: /dr/detalhe/portaria/23216-1968-233683
+  internal: pt:dre:233683:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/23216-1968-233683
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23216-1968-233683
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:42:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: dfbb77a971e839029ad7c1a6a0f0d8f07308c115f3e83cc5d47ef3251f6ae9fa
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:42:15Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:236710:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:42:15Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 23216
+
+O artigo 7.º do [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710), de 27 de Abril de 1965, concedeu aos Ministros das Finanças e da Saúde e Assistência a faculdade de autorizar a pagar, em conta das dotações respectivas do orçamento do ano que estiver correndo, encargos contraídos em anos anteriores.
+
+Como expressamente se dizia nessa disposição, tal faculdade, fundamentada no condicionalismo então existente, vigoraria pelo prazo de três anos, podendo, no entanto, ser prorrogada.
+
+Verifica-se que, não obstante os esforços realizados, ainda não pode considerar-se regularizada a situação financeira dos hospitais.
+
+Nestes termos, e ao abrigo do disposto no artigo 7.º do [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710), de 27 de Abril de 1965:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Saúde e Assistência, prorrogar por mais um ano a faculdade contida no citado artigo 7.º
+
+Ministérios das Finanças e da Saúde e Assistência, 10 de Fevereiro de 1968. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho.

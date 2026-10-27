@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:224161291:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso-extrato/2023-1171918075",
+ "dre_path": "/dr/detalhe/aviso-extrato/21813-2023-224161291",
+ "source_lastmod": "2026-09-18",
+ "versions": [
+  {
+   "date": "2023-11-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1171922675"
+   ]
+  }
+ ],
+ "fragments": {
+  "1171922675": {
+   "fragment_id": "1171918175",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Sumário: Homologação da lista de classificação final do procedimento concursal para a categoria de assistente graduado sénior de pediatria\n\nPara os devidos efeitos e conhecimento dos interessados, publica-se a lista de classificação final, homologada por deliberação do Conselho de Administração do Centro Hospitalar Leiria, E. P. E., de 2023.10.18, relativo ao procedimento concursal para assistente graduado sénior de Pediatria, aberto por aviso n.º 12273/2023, publicado na 2.ª série, n.º 124 de 28 de junho:\n\nLista de classificação final\n\n1.º Ester Augusta Figueira Gama, com 19,01 valores\n\n2.º João Patricio de Sousa e Alvim Bismark do Agro, com 14,41 valores\n\n3.º Maria Helena da Silva Porfirio, com 10,76 valores\n\nDo despacho da homologação cabe recurso administrativo a interpor no prazo de 10 dias úteis, contados a partir da data de publicação do presente aviso no Diário da República, o qual deverá ser entregue no Serviço de Gestão de Recursos Humanos do Centro Hospitalar Leiria, EPE, sito na Rua das Olhalvas, Pousos, 2410-197 Leiria"
+  }
+ }
+}

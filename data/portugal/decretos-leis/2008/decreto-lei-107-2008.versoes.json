@@ -1,0 +1,1090 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:456200:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-75326849",
+ "dre_path": "/dr/detalhe/decreto-lei/107-2008-456200",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-06-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75326765",
+    "75326766",
+    "75326767",
+    "75326768",
+    "75326769",
+    "75326770",
+    "75326771",
+    "75326772",
+    "75326773",
+    "75326774",
+    "75327076",
+    "75327077",
+    "75327078",
+    "75327079",
+    "75327080",
+    "75327081",
+    "75327082",
+    "75327083",
+    "75327084",
+    "75327085",
+    "75327086",
+    "75327087",
+    "75327088",
+    "75327089",
+    "75327090",
+    "75327091",
+    "75327092",
+    "75327093",
+    "75327094",
+    "75327095",
+    "75327096",
+    "75327097",
+    "75327098",
+    "75327099",
+    "75327100",
+    "75327101",
+    "75327102",
+    "75327103",
+    "75327104",
+    "75327105",
+    "75327106",
+    "75327107",
+    "75327108",
+    "75327109",
+    "75327110",
+    "75327111",
+    "75327112",
+    "75327113",
+    "75327114",
+    "75327115",
+    "75327116",
+    "75327117",
+    "75327118",
+    "75327119",
+    "75327120",
+    "75327121",
+    "75327122",
+    "75327123",
+    "75327124",
+    "75327125",
+    "75327126",
+    "75327127",
+    "75327128",
+    "75327129",
+    "75327130",
+    "75327131",
+    "75327132",
+    "75327133",
+    "75327134",
+    "75327135",
+    "75327136",
+    "75327137",
+    "75327138",
+    "75327139",
+    "75327140",
+    "75327141",
+    "75327142",
+    "75327143",
+    "75327144",
+    "75327145",
+    "75327146",
+    "75327147",
+    "75327148",
+    "75327149",
+    "75327150",
+    "75327151",
+    "75327152",
+    "75327153",
+    "75327154",
+    "75327155",
+    "75327156",
+    "75327157",
+    "75327158",
+    "75327159",
+    "75327160",
+    "75327161",
+    "75327162",
+    "75327163",
+    "75327164",
+    "75327165",
+    "75327166",
+    "75327167",
+    "75327168",
+    "75327169",
+    "75327170",
+    "75327171",
+    "75327172",
+    "75327173",
+    "75327174",
+    "75327275",
+    "75327276",
+    "75327277",
+    "75327278",
+    "75327279",
+    "75327280",
+    "75327281",
+    "75327282",
+    "75327283",
+    "75327284"
+   ]
+  }
+ ],
+ "fragments": {
+  "75326765": {
+   "fragment_id": "75326850",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 107/2008\n\nde 25 de Junho\n\nDecorridos dois anos sobre a publicação do Decreto-Lei n.º 74/2006, de 24 de Março, a concretização do Processo de Bolonha ao nível da adopção do modelo de organização do ensino superior em três ciclos já atingiu, em 2007-2008, cerca de 90 % dos cursos e ficará concluída, como previsto, até 2010, incluindo-se aqui a adopção do sistema europeu de transferência e acumulação de créditos (ECTS), baseado no trabalho efectivo dos próprios estudantes.\n\nHá igualmente que atingir uma das outras metas do Processo de Bolonha, a da transição de um sistema de ensino baseado na transmissão de conhecimentos para um sistema baseado no desenvolvimento das competências dos estudantes, em que as componentes de trabalho experimental ou de projecto, entre outras, e a aquisição de competências transversais devem desempenhar um papel decisivo.\n\nNeste contexto, estabelece-se, através do presente diploma, a elaboração, por cada instituição de ensino superior, de um relatório anual, público, acerca do progresso da concretização do Processo de Bolonha nesta vertente.\n\nEsse relatório deverá integrar o contributo dos estudantes e docentes, através de formas de participação e auscultação a promover pelos conselhos pedagógico e científico ou técnico-científico, e adoptar indicadores objectivos que evidenciem o progresso das mudanças realizadas na instituição e em cada curso.\n\nDeve igualmente incluir informação sobre os quadros de qualificação adoptados na organização dos cursos, as metodologias e indicadores adoptados para a aferição, por unidade curricular, da relação entre os créditos fixados e as competências a alcançar, e os métodos de trabalho adoptados para a integração da aprendizagem e da avaliação de conhecimentos.\n\nProcura assegurar-se desta forma um aprofundamento da concretização do processo de Bolonha e uma maior transparência dos progressos da instituição em relação aos objectivos fixados, o que constituirá uma base para escolhas mais informadas por parte dos estudantes, das famílias e da sociedade.\n\nEntretanto, a entrada em vigor da Lei n.º 62/2007, de 10 de Setembro (regime jurídico das instituições de ensino superior), revogando a Lei da Autonomia das Universidades, a Lei do Estatuto e Autonomia dos Estabelecimentos de Ensino Superior Politécnico e o Estatuto do Ensino Superior Particular e Cooperativo, recomenda, para maior clareza, a introdução de alguns aperfeiçoamentos no regime transitório, fixado pelo Decreto-Lei n.º 74/2006, de 24 de Março, de entrada em funcionamento de novos ciclos de estudos até ao início de actividade da Agência de Avaliação e Acreditação do Ensino Superior, o que se faz igualmente através do presente diploma.\n\nNa mesma oportunidade, promove-se uma simplificação e desburocratização de procedimentos, recomendadas pela experiência de aplicação do Decreto-Lei n.º 74/2006, de 24 de Março.\n\nEntre as modificações introduzidas destacam-se:\n\nA supressão do regime transitório de registo das alterações de planos de estudos, substituído pelo envio das mesmas, pela instituição de ensino superior, para publicação no Diário da República com comunicação em simultâneo à Direcção-Geral do Ensino Superior;\n\nA introdução de um regime de deferimento tácito, apenas em relação ao regime transitório de autorização de funcionamento de novos ciclos de estudos em instituições de ensino superior públicas e privadas;\n\nNo regime transitório de autorização de funcionamento de novos ciclos de estudos, o recurso a comissões de especialistas quando tal seja considerado necessário no âmbito do processo técnico de verificação da satisfação dos requisitos fixados pela lei;\n\nO afastamento de quaisquer dúvidas que ainda pudessem subsistir quanto à não sujeição dos pedidos de registo de ciclos de estudos de mestrado em associação e de todos os ciclos de estudos de doutoramento a prazo de apresentação;\n\nA clarificação do universo de formações que, tendo em vista a creditação no âmbito de um ciclo de estudos do ensino superior, pode ser objecto de apreciação, o qual inclui, naturalmente, qualquer tipo de formação prévia.\n\nA par destas alterações tomam-se algumas medidas, que se reputam da maior importância, no sentido de garantir uma maior flexibilidade no acesso à formação superior. Assim, estabelece-se:\n\nA possibilidade de inscrição em disciplinas isoladas, por parte de qualquer interessado, com a garantia, em caso de aprovação, de certificação e ainda de creditação, se e quando ingressar em curso que as integre;\n\nA possibilidade de os estudantes de um curso superior se inscreverem, em qualquer estabelecimento de ensino superior, em disciplinas que não integrem o plano de estudos do seu curso, com a garantia, em caso de aprovação, de certificação e de inclusão no suplemento ao diploma;\n\nA possibilidade de inscrição num curso superior em regime de tempo parcial.\n\nIntroduz-se igualmente uma importante medida de apoio aos licenciados e mestres que, após a obtenção do grau, se encontrem a realizar estágio profissional para o exercício de uma profissão, os quais, por um período de 24 meses, passam a conservar, sem pagamento de quaisquer propinas ou outros encargos, alguns dos direitos dos alunos da instituição onde obtiveram o grau, designadamente cartão de identificação, acesso à acção social escolar, incluindo a bolsas de estudo, e acesso a bibliotecas e recursos informáticos.\n\nNesta mesma oportunidade, promove-se a simplificação do processo de comprovação da titularidade dos graus, que passará a ser assegurada através de um diploma, tornando facultativa a solicitação, e o pagamento, de outros documentos de natureza tradicional como as cartas de curso e as cartas doutorais.\n\nFinalmente introduzem-se algumas alterações nos Decretos-Leis n.os 42/2005, de 22 de Fevereiro (princípios reguladores dos instrumentos para a criação do espaço europeu do ensino superior), e 67/2005, de 15 de Março (mestrados «Erasmus Mundus»), que visam assegurar uma melhor articulação entre estes diplomas e o Decreto-Lei n.º 74/2006, de 24 de Março.\n\nForam ouvidos o Conselho de Reitores das Universidades Portuguesas, o Conselho Coordenador dos Institutos Superiores Politécnicos e a Associação Portuguesa do Ensino Superior Privado.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 46/86, de 14 de Outubro (Lei de Bases do Sistema Educativo), alterada pelas Leis n.os 115/97, de 19 de Setembro, e 49/2005, de 30 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "75326766": {
+   "fragment_id": "75326851",
+   "type": 11,
+   "heading": "Artigo 1.º — Alteração ao Decreto-Lei n.º 74/2006, de 24 de Março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alteração ao Decreto-Lei n.º 74/2006, de 24 de Março\n\n1 - Os artigos 14.º, 26.º, 38.º, 45.º, 49.º, 67.º, 69.º, 71.º, 72.º, 73.º, 74.º, 77.º, 80.º e 83.º do Decreto-Lei n.º 74/2006, de 24 de Março, passam a ter a seguinte redacção:\n\n«Artigo 14.º\n\n[...]\n\n...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) Elementos que constam obrigatoriamente dos diplomas e cartas de curso;\n\ni) Prazo de emissão do diploma, da carta de curso e do suplemento ao diploma;\n\nj) [Anterior alínea i).]\n\nArtigo 26.º\n\n[...]\n\n...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nl) ...\n\nm) ...\n\nn) Elementos que constam obrigatoriamente dos diplomas e cartas de curso;\n\no) Prazo de emissão do diploma, da carta de curso e do suplemento ao diploma;\n\np) [Anterior alínea o).]\n\nArtigo 38.º\n\n[...]\n\n...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nl) Elementos que constam obrigatoriamente dos diplomas e cartas doutorais;\n\nm) Prazo de emissão do diploma, da carta doutoral e do suplemento ao diploma;\n\nn) [Anterior alínea m).]\n\nArtigo 45.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) Reconhecem, através da atribuição de créditos, a experiência profissional e outra formação não abrangida pelas alíneas anteriores.\n\n2 - ...\n\n3 - ...\n\nArtigo 49.º\n\nRegisto de graus e diplomas, certidões e cartas\n\n1 - Dos graus e diplomas conferidos é lavrado registo subscrito pelo órgão legal e estatutariamente competente do estabelecimento de ensino superior.\n\n2 - A titularidade dos graus e diplomas é comprovada por certidão do registo referido no número anterior, genericamente denominada diploma, e também, para os estudantes que o requeiram:\n\na) Por carta de curso, para os graus de licenciado e de mestre;\n\nb) Por carta doutoral, para o grau de doutor.\n\n3 - Os documentos a que se refere o n.º 2 podem ser plurilingues.\n\n4 - De acordo com as orientações aprovadas no âmbito do Processo de Bolonha, e nos termos do disposto no artigo 40.º do Decreto-Lei n.º 42/2005, de 22 de Fevereiro, a emissão de qualquer dos documentos a que se refere o n.º 2 é acompanhada da emissão de um suplemento ao diploma.\n\n5 - A emissão da certidão do registo não pode ser condicionada à solicitação de emissão ou pagamento dos documentos a que se referem as alíneas a) e b) do n.º 2.\n\n6 - O valor cobrado pela emissão de qualquer dos documentos a que se refere o n.º 2 não pode exceder o custo do serviço respectivo.\n\nArtigo 67.º\n\n[...]\n\n...\n\na) Nos estabelecimentos de ensino público universitário, ao regime em vigor à data da publicação do presente decreto-lei;\n\nb) Nos estabelecimentos de ensino público politécnico, ao regime fixado pelos artigos 69.º a 74.º do presente decreto-lei;\n\nc) Nos estabelecimentos de ensino particular ou cooperativo, ao regime fixado pelos artigos 69.º a 74.º do presente decreto-lei.\n\nArtig.o 69.º\n\n[...]\n\n1 - Compete ao Ministro da Ciência, Tecnologia e Ensino Superior, sob proposta do director-geral do Ensino Superior, autorizar o funcionamento de novos ciclos de estudos nos termos descritos no presente capítulo.\n\n2 - ...\n\nArtigo 71.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - No âmbito da verificação da satisfação dos requisitos, a Direcção-Geral do Ensino Superior pode ouvir, quando o considere necessário, comissões de especialistas, nomeadas por despacho do director-geral do Ensino Superior e integradas por professores do ensino superior, investigadores, ou especialistas de reconhecida experiência e competência profissional, nacionais ou estrangeiros, em número não inferior a três.\n\n4 - Os membros das comissões são independentes no exercício da sua actividade.\n\nArtigo 72.º\n\n[...]\n\n1 - A decisão sobre os pedidos de autorização de funcionamento é proferida:\n\na) Em relação aos ciclos de estudos conducentes ao grau de licenciado, no prazo máximo de quatro meses após a sua recepção;\n\nb) Em relação aos restantes ciclos de estudos, no prazo máximo de sete meses após a sua recepção.\n\n2 - Ultrapassado o prazo referido no número anterior, os pedidos referentes à autorização de funcionamento de ciclos de estudos consideram-se deferidos tacitamente.\n\n3 - O funcionamento de um ciclo de estudos que vise a atribuição de um grau académico sem a prévia autorização de funcionamento ou seu deferimento tácito determina o indeferimento do pedido.\n\n4 - (Anterior n.º 3.)\n\nArtigo 73.º\n\nNotificação e publicação\n\n1 - O despacho de deferimento é notificado por escrito à entidade requerente.\n\n2 - Do despacho de deferimento constam, em relação ao ciclo de estudos em causa:\n\na) O nome da instituição de ensino superior e unidade orgânica, se aplicável, que o ministra;\n\nb) O grau académico que confere;\n\nc) A denominação;\n\nd) A organização em percursos alternativos, quando aplicável;\n\ne) Quando se trate dos graus de licenciado e de mestre:\n\ni) O número de créditos, segundo o sistema europeu de transferência e acumulação de créditos (ECTS), necessário à obtenção do grau;\n\nii) A duração normal do ciclo de estudos;\n\niii) Os créditos, por área científica, que devem ser reunidos para a obtenção do grau.\n\n3 - Recebida a notificação do deferimento, a entidade requerente procede à publicação do despacho na 2.ª série do Diário da República.\n\n4 - A publicação inclui, em anexo, quando se trate dos graus de licenciado e de mestre, o plano de estudos, indicando, para cada unidade curricular, a área científica em que se insere, a duração, nomeadamente semestral, anual ou outra, o tempo de trabalho, em horas totais e horas de contacto, e o número de ECTS.\n\n5 - Tendo ocorrido deferimento tácito nos termos do n.º 2 do artigo anterior, a entidade requerente procede à publicação de aviso na 2.ª série do Diário da República, do qual constam, em relação ao ciclo de estudos em causa, os elementos a que se referem os n.os 2 e 4, bem como a data de envio do pedido à Direcção-Geral do Ensino Superior e a data em que se formou o deferimento tácito.\n\n6 - Na data do envio do aviso para publicação no Diário da República, a entidade requerente remete cópia do mesmo à Direcção-Geral do Ensino Superior.\n\nArtigo 74.º\n\n[...]\n\n1 - ...\n\n2 - A decisão de cancelamento da autorização de funcionamento compete ao Ministro da Ciência, Tecnologia e Ensino Superior, sob proposta do director-geral do Ensino Superior, precedida da audiência prévia dos interessados, e é publicada na 2.ª série do Diário da República.\n\n3 - ...\n\nArtigo 77.º\n\nInício de funcionamento\n\nO início de funcionamento das alterações está sujeito a comunicação prévia à Direcção-Geral do Ensino Superior e a publicação na 2.ª série do Diário da República.\n\nArtigo 80.º\n\nPublicação das alterações\n\nA publicação das alterações deve mencionar expressamente a data de comunicação das mesmas à Direcção-Geral do Ensino Superior.\n\nArtigo 83.º\n\n[...]\n\n1 - ...\n\n2 - O procedimento a que se refere o número anterior é realizado até ao final do ano lectivo de 2010-2011.»\n\n2 - A epígrafe do capítulo ii do título v passa a ser «Regime transitório de autorização de funcionamento de novos ciclos de estudos»."
+  },
+  "75326767": {
+   "fragment_id": "75326852",
+   "type": 11,
+   "heading": "Artigo 2.º — Aditamento ao Decreto-Lei n.º 74/2006, de 24 de Março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aditamento ao Decreto-Lei n.º 74/2006, de 24 de Março\n\n1 - Ao Decreto-Lei n.º 74/2006, de 24 de Março, são aditados os artigos 46.º-A, 46.º-B, 46.º-C e 74.º-A, com a seguinte redacção:\n\n«Artigo 46.º-A\n\nInscrição em unidades curriculares\n\n1 - Os estabelecimentos de ensino facultam a inscrição nas unidades curriculares que ministram.\n\n2 - A inscrição pode ser feita quer por alunos inscritos num curso de ensino superior quer por outros interessados.\n\n3 - A inscrição pode ser feita em regime sujeito a avaliação ou não.\n\n4 - As unidades curriculares em que o estudante se inscreva em regime sujeito a avaliação e em que obtenha aprovação:\n\na) São objecto de certificação;\n\nb) São obrigatoriamente creditadas, nos termos do artigo 45.º, caso o seu titular tenha ou venha a adquirir o estatuto de aluno de um ciclo de estudos de ensino superior;\n\nc) São incluídas em suplemento ao diploma que venha a ser emitido.\n\n5 - Pela inscrição nos termos deste artigo são devidos os montantes que forem fixados, de forma proporcionada, pelo órgão legal e estatutariamente competente do estabelecimento de ensino superior.\n\nArtigo 46.º-B\n\nEstágios profissionais\n\n1 - Os titulares do grau de licenciado ou de mestre que, no período de 24 meses após a obtenção do grau, se encontrem a realizar estágio profissional para o exercício de uma profissão beneficiam, nos termos fixados pelo presente artigo, dos direitos dos alunos da instituição de ensino superior que conferiu o grau.\n\n2 - A atribuição dos direitos é independente de o estágio profissional ser remunerado ou não e está condicionada à inscrição na instituição de ensino superior que conferiu o grau.\n\n3 - A inscrição a que se refere o número anterior não está sujeita ao pagamento de propinas ou de quaisquer outros encargos.\n\n4 - Os estagiários têm direito:\n\na) À emissão de cartão de identificação da instituição de ensino superior;\n\nb) Ao acesso à acção social escolar nos termos dos alunos da instituição, incluindo a eventual atribuição de bolsa de estudos;\n\nc) Ao acesso aos recursos da instituição, como bibliotecas e recursos informáticos, nos mesmos termos em que acedem os alunos.\n\nArtigo 46.º-C\n\nEstudantes em regime de tempo parcial\n\n1 - Os estabelecimentos de ensino superior facultam aos seus estudantes a inscrição e frequência dos seus ciclos de estudos em regime de tempo parcial.\n\n2 - O órgão legal e estatutariamente competente do estabelecimento de ensino superior aprova as normas regulamentares referentes ao regime de estudos em tempo parcial, incluindo, designadamente:\n\na) As condições de inscrição em regime de tempo parcial;\n\nb) As condições de mudança entre os regimes de tempo integral e de tempo parcial;\n\nc) O regime de propinas, o qual deve resultar da adequação proporcionada das regras gerais aplicáveis ao ciclo de estudos em causa;\n\nd) O regime de prescrição do direito à inscrição, o qual deve resultar da adequação proporcionada das regras gerais aplicáveis ao ciclo de estudos em causa.\n\nArtigo 74.º-A\n\nPrazos\n\n1 - Os prazos em que devem ser apresentados os pedidos de registo de autorização de funcionamento para novos ciclos de estudos de licenciatura, integrados de mestrado e de mestrado para cada ano lectivo são fixados por despacho do director-geral do Ensino Superior, ouvidos o Conselho de Reitores das Universidades Portuguesas, o Conselho Coordenador dos Institutos Superiores Politécnicos e a Associação Portuguesa do Ensino Superior Privado.\n\n2 - Não estão sujeitos a prazo de apresentação os pedidos de registo referentes:\n\na) A ciclos de estudos de doutoramento;\n\nb) A ciclos de estudos de mestrado a realizar em regime de associação com instituições nacionais ou estrangeiras.»\n\n2 - Ao título iv do Decreto-Lei n.º 74/2006, de 24 de Março, é aditado um capítulo v, com a epígrafe «Concretização do Processo de Bolonha», integrado por um artigo 66.º-A, com a seguinte redacção:\n\n«Artigo 66.º-A\n\nRelatório de concretização do Processo de Bolonha\n\n1 - Os estabelecimentos de ensino superior elaboram, anualmente, um relatório acerca da concretização dos objectivos do Processo de Bolonha.\n\n2 - O relatório deve incluir informação sobre as mudanças operadas, designadamente em matéria pedagógica, no sentido de uma formação orientada para o desenvolvimento das competências dos estudantes, organizada com base no sistema europeu de transferência e acumulação de créditos (ECTS) e onde as componentes de trabalho experimental ou de projecto, entre outras, e a aquisição de competências transversais devem desempenhar um papel decisivo.\n\n3 - O relatório deve incluir informação e indicadores que evidenciem o progresso das mudanças realizadas na instituição e em cada curso e que o permita comparar com a evolução realizada em outras instituições que se constituam como referência.\n\n4 - O relatório deve incluir indicadores objectivos que considerem, designadamente, a evolução do peso das várias componentes do trabalho do estudante no número de horas de trabalho total, nomeadamente total de horas de contacto, componente experimental, componente de projecto.\n\n5 - O relatório deve ainda referir, designadamente:\n\na) As medidas de apoio à promoção do sucesso escolar;\n\nb) As acções de apoio ao desenvolvimento de competências extracurriculares;\n\nc) As medidas de estímulo à inserção na vida activa.\n\n6 - O relatório deve integrar o contributo dos estudantes e docentes, através de inquéritos ou outras formas de participação, acerca da concretização dos objectivos visados, a promover pelos conselhos pedagógico e científico ou técnico-científico.\n\n7 - O relatório é elaborado para os anos lectivos de 2006-2007 a 2010-2011, inclusive, e é publicado no sítio da Internet do estabelecimento de ensino até 31 de Dezembro seguinte ao término do ano lectivo a que se reporta.»"
+  },
+  "75326768": {
+   "fragment_id": "75326853",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração ao Decreto-Lei n.º 42/2005, de 22 de Fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração ao Decreto-Lei n.º 42/2005, de 22 de Fevereiro\n\nO artigo 6.º do Decreto-Lei n.º 42/2005, de 22 de Fevereiro, passa a ter a seguinte redacção:\n\n«Artigo 6.º\n\nTrabalhos de dissertação e outros\n\nO número de créditos a atribuir à dissertação dos ciclos de estudos conducentes ao grau de mestre, ou a outras formas de concretizar a componente a que se refere a alínea b) do n.º 1 do artigo 20.º do Decreto-Lei n.º 74/2006, de 24 de Março, bem como a outros trabalhos da mesma natureza previstos para a obtenção de diplomas de ciclos de estudos não conferentes de grau, é fixado tendo em consideração o tempo médio normal estimado como necessário à sua preparação e avaliação, medido em anos lectivos ou fracção, correspondendo um ano lectivo de trabalho a 60 créditos.»"
+  },
+  "75326769": {
+   "fragment_id": "75326854",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração ao Decreto-Lei n.º 67/2005, de 15 de Março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração ao Decreto-Lei n.º 67/2005, de 15 de Março\n\nOs artigos 3.º e 6.º do Decreto-Lei n.º 67/2005, de 15 de Março, passam a ter a seguinte redacção:\n\n«Artigo 3.º\n\n[...]\n\nO grau de mestre conferido através de um curso de mestrado 'Erasmus Mundus' cuja conclusão tenha tido lugar no âmbito de um estabelecimento de ensino superior português é titulado nos termos fixados pelo Decreto-Lei n.º 74/2006, de 24 de Março.\n\nArtigo 6.º\n\n[...]\n\nOs estabelecimentos de ensino superior portugueses parceiros na organização e ministração de um curso de mestrado 'Erasmus Mundus' podem emitir diplomas conjuntos com os restantes estabelecimentos parceiros, nos termos fixados pelo artigo 43.º do Decreto-Lei n.º 74/2006, de 24 de Março.»"
+  },
+  "75326770": {
+   "fragment_id": "75326855",
+   "type": 11,
+   "heading": "Artigo 5.º — Alteração ao Decreto-Lei n.º 316/76, de 29 de Abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alteração ao Decreto-Lei n.º 316/76, de 29 de Abril\n\nOs equiparados a bacharéis a que se refere o artigo 4.º do Decreto-Lei n.º 316/76, de 29 de Abril, alterado pelo Decreto-Lei n.º 24/77, de 18 de Janeiro, têm direito ao prosseguimento de estudos e ainda à creditação da sua formação e experiência profissional nos termos do artigo 45.º do Decreto-Lei n.º 74/2006, de 24 de Março."
+  },
+  "75326771": {
+   "fragment_id": "75326856",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma revogatória\n\nSão revogados:\n\na) Os artigos 72.º, 73.º e 99.º do Decreto n.º 39 001, de 20 de Novembro de 1952;\n\nb) Os artigos 13.º, 25.º, 37.º, 70.º, 78.º e 79.º do Decreto-Lei n.º 74/2006, de 24 de Março."
+  },
+  "75326772": {
+   "fragment_id": "75326857",
+   "type": 11,
+   "heading": "Artigo 7.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Disposições transitórias\n\n1 - O disposto nos artigos 46.º-A, 46.º-B e 46.º-C do Decreto-Lei n.º 74/2006, de 24 de Março, aplica-se a partir do ano lectivo de 2008-2009, inclusive.\n\n2 - O primeiro relatório previsto no artigo 66.º-A do Decreto-Lei n.º 74/2006, de 24 de Março, deve ser publicado até 31 de Dezembro de 2008, reportando-se aos anos lectivos de 2006-2007 e 2007-2008.\n\n3 - O disposto no n.º 2 do artigo 72.º do Decreto-Lei n.º 74/2006, de 24 de Março, aplica-se apenas:\n\na) Aos pedidos de autorização de funcionamento de novos ciclos de estudos apresentados entre 1 de Janeiro e 28 de Dezembro de 2007, tendo em vista a entrada em funcionamento no ano lectivo de 2008-2009, contando o prazo a que se refere o n.º 1 do artigo 72.º a partir de 1 de Abril de 2008;\n\nb) Aos pedidos de autorização de funcionamento de novos ciclos de estudos tendo em vista a entrada em funcionamento em anos lectivos subsequentes, contando o prazo a que se refere o n.º 1 do artigo 72.º a partir do termo do prazo fixado para a apresentação dos pedidos."
+  },
+  "75326773": {
+   "fragment_id": "75326858",
+   "type": 11,
+   "heading": "Artigo 8.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Republicação\n\nÉ republicado em anexo, com a redacção que lhe é dada pelo presente decreto-lei, o Decreto-Lei n.º 74/2006, de 24 de Março."
+  },
+  "75326774": {
+   "fragment_id": "75326859",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "75327076": {
+   "fragment_id": "75326861",
+   "type": 14,
+   "heading": "Anexo — (republicação do Decreto-Lei n.º 74/2006, de 24 de Março)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (republicação do Decreto-Lei n.º 74/2006, de 24 de Março)\n\nGraus académicos e diplomas do ensino superior"
+  },
+  "75327077": {
+   "fragment_id": "75326862",
+   "type": 13,
+   "heading": "Título I — Objecto, âmbito e conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título I — Objecto, âmbito e conceitos"
+  },
+  "75327078": {
+   "fragment_id": "75326863",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei aprova o regime jurídico dos graus e diplomas do ensino superior, em desenvolvimento do disposto nos artigos 13.º a 15.º da Lei n.º 46/86, de 14 de Outubro (Lei de Bases do Sistema Educativo), alterada pelas Leis n.os 115/97, de 19 de Setembro, e 49/2005, de 30 de Agosto, bem como o disposto no n.º 4 do artigo 16.º da Lei n.º 37/2003, de 22 de Agosto (estabelece as bases do financiamento do ensino superior), alterada pela Lei n.º 49/2005, de 30 de Agosto."
+  },
+  "75327079": {
+   "fragment_id": "75326864",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O disposto no presente decreto-lei aplica-se a todos os estabelecimentos de ensino superior.\n\n2 - A aplicação dos princípios constantes do presente decreto-lei aos estabelecimentos de ensino superior público militar e policial é feita através de diploma próprio."
+  },
+  "75327080": {
+   "fragment_id": "75326865",
+   "type": 11,
+   "heading": "Artigo 3.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conceitos\n\nPara efeitos do disposto no presente decreto-lei, entende-se por:\n\na) «Unidade curricular» a unidade de ensino com objectivos de formação próprios que é objecto de inscrição administrativa e de avaliação traduzida numa classificação final;\n\nb) «Plano de estudos de um curso» o conjunto organizado de unidades curriculares em que um estudante deve ser aprovado para:\n\ni) Obter um determinado grau académico;\n\nii) Concluir um curso não conferente de grau;\n\niii) Reunir uma parte das condições para obtenção de um determinado grau académico;\n\nc) «Duração normal de um ciclo de estudos» o número de anos, semestres e ou trimestres lectivos em que o ciclo de estudos deve ser realizado pelo estudante, quando a tempo inteiro e em regime presencial;\n\nd) «Crédito» a unidade de medida do trabalho do estudante sob todas as suas formas, designadamente sessões de ensino de natureza colectiva, sessões de orientação pessoal de tipo tutorial, estágios, projectos, trabalhos no terreno, estudo e avaliação, nos termos do Decreto-Lei n.º 42/2005, de 22 de Fevereiro;\n\ne) «Condições de acesso» as condições gerais que devem ser satisfeitas para requerer a admissão a um ciclo de estudos;\n\nf) «Condições de ingresso» as condições específicas que devem ser satisfeitas para requerer a admissão a um ciclo de estudos concreto num determinado estabelecimento de ensino."
+  },
+  "75327081": {
+   "fragment_id": "75326866",
+   "type": 13,
+   "heading": "Título II — Graus académicos e diplomas do ensino superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título II — Graus académicos e diplomas do ensino superior"
+  },
+  "75327082": {
+   "fragment_id": "75326867",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "75327083": {
+   "fragment_id": "75326868",
+   "type": 11,
+   "heading": "Artigo 4.º — Graus académicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Graus académicos\n\n1 - No ensino politécnico, são conferidos os graus académicos de licenciado e de mestre.\n\n2 - No ensino universitário, são conferidos os graus académicos de licenciado, mestre e doutor."
+  },
+  "75327084": {
+   "fragment_id": "75326869",
+   "type": 1,
+   "heading": "Capítulo II — Licenciatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Licenciatura"
+  },
+  "75327085": {
+   "fragment_id": "75326870",
+   "type": 11,
+   "heading": "Artigo 5.º — Grau de licenciado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Grau de licenciado\n\nO grau de licenciado é conferido aos que demonstrem:\n\na) Possuir conhecimentos e capacidade de compreensão numa área de formação a um nível que:\n\ni) Sustentando-se nos conhecimentos de nível secundário, os desenvolva e aprofunde;\n\nii) Se apoie em materiais de ensino de nível avançado e lhes corresponda;\n\niii) Em alguns dos domínios dessa área, se situe ao nível dos conhecimentos de ponta da mesma;\n\nb) Saber aplicar os conhecimentos e a capacidade de compreensão adquiridos, de forma a evidenciarem uma abordagem profissional ao trabalho desenvolvido na sua área vocacional;\n\nc) Capacidade de resolução de problemas no âmbito da sua área de formação e de construção e fundamentação da sua própria argumentação;\n\nd) Capacidade de recolher, seleccionar e interpretar a informação relevante, particularmente na sua área de formação, que os habilite a fundamentarem as soluções que preconizam e os juízos que emitem, incluindo na análise os aspectos sociais, científicos e éticos relevantes;\n\ne) Competências que lhes permitam comunicar informação, ideias, problemas e soluções, tanto a públicos constituídos por especialistas como por não especialistas;\n\nf) Competências de aprendizagem que lhes permitam uma aprendizagem ao longo da vida com elevado grau de autonomia."
+  },
+  "75327086": {
+   "fragment_id": "75326871",
+   "type": 11,
+   "heading": "Artigo 6.º — Atribuição do grau de licenciado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Atribuição do grau de licenciado\n\n1 - As áreas de formação em que cada estabelecimento de ensino superior confere o grau de licenciado são fixadas pelo seu órgão legal e estatutariamente competente.\n\n2 - O grau de licenciado numa determinada área de formação só pode ser conferido pelos estabelecimentos de ensino superior que:\n\na) Disponham de um corpo docente próprio, qualificado na área em causa e adequado em número, cuja maioria seja constituída por titulares do grau de doutor ou especialistas de reconhecida experiência e competência profissional;\n\nb) Disponham dos recursos humanos e materiais indispensáveis a garantir o nível e a qualidade da formação adquirida.\n\n3 - A verificação da satisfação dos requisitos referidos no número anterior é feita no âmbito do processo de acreditação."
+  },
+  "75327087": {
+   "fragment_id": "75326872",
+   "type": 11,
+   "heading": "Artigo 7.º — Acesso e ingresso no ciclo de estudos conducente ao grau de licenciado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Acesso e ingresso no ciclo de estudos conducente ao grau de licenciado\n\nO acesso e o ingresso no ciclo de estudos conducente ao grau de licenciado são regulados por diplomas próprios."
+  },
+  "75327088": {
+   "fragment_id": "75326873",
+   "type": 11,
+   "heading": "Artigo 8.º — Ciclo de estudos conducente ao grau de licenciado no ensino politécnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Ciclo de estudos conducente ao grau de licenciado no ensino politécnico\n\n1 - No ensino politécnico, o ciclo de estudos conducente ao grau de licenciado tem 180 créditos e uma duração normal de seis semestres curriculares de trabalho dos alunos.\n\n2 - Exceptuam-se do disposto no número anterior os casos em que seja indispensável, para o acesso ao exercício de determinada actividade profissional, uma formação de até 240 créditos, com uma duração normal de até sete ou oito semestres curriculares de trabalho, em consequência de normas jurídicas expressas, nacionais ou da União Europeia, ou de uma prática consolidada em instituições de referência de ensino superior do espaço europeu.\n\n3 - No ensino politécnico, o ciclo de estudos conducente ao grau de licenciado deve valorizar especialmente a formação que visa o exercício de uma actividade de carácter profissional, assegurando aos estudantes uma componente de aplicação dos conhecimentos e saberes adquiridos às actividades concretas do respectivo perfil profissional."
+  },
+  "75327089": {
+   "fragment_id": "75326874",
+   "type": 11,
+   "heading": "Artigo 9.º — Ciclo de estudos conducente ao grau de licenciado no ensino universitário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Ciclo de estudos conducente ao grau de licenciado no ensino universitário\n\n1 - No ensino universitário, o ciclo de estudos conducente ao grau de licenciado tem 180 a 240 créditos e uma duração normal compreendida entre seis e oito semestres curriculares de trabalho dos alunos.\n\n2 - Na fixação do número de créditos deste ciclo de estudos para as diferentes áreas de formação, os estabelecimentos de ensino universitário devem adoptar valores similares aos de instituições de referência de ensino universitário do espaço europeu nas mesmas áreas, tendo em vista assegurar aos estudantes portugueses condições de mobilidade e de formação e de integração profissional semelhantes, em duração e conteúdo, às dos restantes Estados que integram aquele espaço."
+  },
+  "75327090": {
+   "fragment_id": "75327175",
+   "type": 11,
+   "heading": "Artigo 10.º — Estrutura do ciclo de estudos conducente ao grau de licenciado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Estrutura do ciclo de estudos conducente ao grau de licenciado\n\nO ciclo de estudos conducente ao grau de licenciado é integrado por um conjunto organizado de unidades curriculares denominado curso de licenciatura."
+  },
+  "75327091": {
+   "fragment_id": "75327176",
+   "type": 11,
+   "heading": "Artigo 11.º — Concessão do grau de licenciado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Concessão do grau de licenciado\n\nO grau de licenciado é conferido aos que, através da aprovação em todas as unidades curriculares que integram o plano de estudos do curso de licenciatura, tenham obtido o número de créditos fixado."
+  },
+  "75327092": {
+   "fragment_id": "75327177",
+   "type": 11,
+   "heading": "Artigo 12.º — Classificação final do grau de licenciado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Classificação final do grau de licenciado\n\n1 - Ao grau de licenciado é atribuída uma classificação final, expressa no intervalo de 10-20 da escala numérica inteira de 0 a 20, bem como no seu equivalente na escala europeia de comparabilidade de classificações.\n\n2 - A classificação final é a média aritmética ponderada das classificações obtidas nas unidades curriculares que integram o plano de estudos do curso de licenciatura.\n\n3 - Os coeficientes de ponderação são fixados pelas normas regulamentares a que se refere o artigo 14.º\n\n4 - A classificação final é atribuída pelo órgão legal e estatutariamente competente do estabelecimento de ensino superior."
+  },
+  "75327093": {
+   "fragment_id": "75327178",
+   "type": 11,
+   "heading": "Artigo 13.º — Titulação do grau de licenciado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Titulação do grau de licenciado\n\n(Revogado.)"
+  },
+  "75327094": {
+   "fragment_id": "75327179",
+   "type": 11,
+   "heading": "Artigo 14.º — Normas regulamentares da licenciatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Normas regulamentares da licenciatura\n\nO órgão legal e estatutariamente competente de cada estabelecimento de ensino superior aprova as normas relativas às seguintes matérias:\n\na) Condições específicas de ingresso;\n\nb) Condições de funcionamento;\n\nc) Estrutura curricular, plano de estudos e créditos, nos termos das normas técnicas a que se refere o artigo 12.º do Decreto-Lei n.º 42/2005, de 22 de Fevereiro;\n\nd) Regime de avaliação de conhecimentos;\n\ne) Regime de precedências;\n\nf) Regime de prescrição do direito à inscrição, tendo em consideração, no ensino público, o disposto sobre esta matéria na Lei n.º 37/2003, de 22 de Agosto;\n\ng) Coeficientes de ponderação e procedimentos para o cálculo da classificação final;\n\nh) Elementos que constam obrigatoriamente dos diplomas e cartas de curso;\n\ni) Prazo de emissão do diploma, da carta de curso e do suplemento ao diploma;\n\nj) Processo de acompanhamento pelos órgãos pedagógico e científico."
+  },
+  "75327095": {
+   "fragment_id": "75327180",
+   "type": 1,
+   "heading": "Capítulo III — Mestrado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Mestrado"
+  },
+  "75327096": {
+   "fragment_id": "75327181",
+   "type": 11,
+   "heading": "Artigo 15.º — Grau de mestre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Grau de mestre\n\n1 - O grau de mestre é conferido aos que demonstrem:\n\na) Possuir conhecimentos e capacidade de compreensão a um nível que:\n\ni) Sustentando-se nos conhecimentos obtidos ao nível do 1.º ciclo, os desenvolva e aprofunde;\n\nii) Permitam e constituam a base de desenvolvimentos e ou aplicações originais, em muitos casos em contexto de investigação;\n\nb) Saber aplicar os seus conhecimentos e a sua capacidade de compreensão e de resolução de problemas em situações novas e não familiares, em contextos alargados e multidisciplinares, ainda que relacionados com a sua área de estudo;\n\nc) Capacidade para integrar conhecimentos, lidar com questões complexas, desenvolver soluções ou emitir juízos em situações de informação limitada ou incompleta, incluindo reflexões sobre as implicações e responsabilidades éticas e sociais que resultem dessas soluções e desses juízos ou os condicionem;\n\nd) Ser capazes de comunicar as suas conclusões e os conhecimentos e raciocínios a elas subjacentes, quer a especialistas, quer a não especialistas, de uma forma clara e sem ambiguidades;\n\ne) Competências que lhes permitam uma aprendizagem ao longo da vida, de um modo fundamentalmente auto-orientado ou autónomo.\n\n2 - O grau de mestre é conferido numa especialidade, podendo, quando necessário, as especialidades ser desdobradas em áreas de especialização."
+  },
+  "75327097": {
+   "fragment_id": "75327182",
+   "type": 11,
+   "heading": "Artigo 16.º — Atribuição do grau de mestre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Atribuição do grau de mestre\n\n1 - As especialidades em que cada estabelecimento de ensino superior confere o grau de mestre são fixadas pelo seu órgão legal e estatutariamente competente.\n\n2 - Só podem conferir o grau de mestre numa determinada especialidade os estabelecimentos de ensino superior que, nas áreas científicas integrantes da formação a ele conducente:\n\na) Disponham de um corpo docente próprio qualificado e adequado em número, cuja maioria seja constituída por titulares do grau de doutor ou especialistas de reconhecida experiência e competência profissional;\n\nb) Disponham dos recursos humanos e materiais indispensáveis a garantir o nível e a qualidade da formação adquirida;\n\nc) Desenvolvam actividade reconhecida de formação e investigação ou de desenvolvimento de natureza profissional de alto nível.\n\n3 - A verificação da satisfação dos requisitos referidos no número anterior é feita no âmbito do processo de acreditação."
+  },
+  "75327098": {
+   "fragment_id": "75327183",
+   "type": 11,
+   "heading": "Artigo 17.º — Acesso e ingresso no ciclo de estudos conducente ao grau de mestre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Acesso e ingresso no ciclo de estudos conducente ao grau de mestre\n\n1 - Podem candidatar-se ao acesso ao ciclo de estudos conducente ao grau de mestre:\n\na) Titulares do grau de licenciado ou equivalente legal;\n\nb) Titulares de um grau académico superior estrangeiro conferido na sequência de um 1.º ciclo de estudos organizado de acordo com os princípios do Processo de Bolonha por um Estado aderente a este Processo;\n\nc) Titulares de um grau académico superior estrangeiro que seja reconhecido como satisfazendo os objectivos do grau de licenciado pelo órgão científico estatutariamente competente do estabelecimento de ensino superior onde pretendem ser admitidos;\n\nd) Detentores de um currículo escolar, científico ou profissional que seja reconhecido como atestando capacidade para realização deste ciclo de estudos pelo órgão científico estatutariamente competente do estabelecimento de ensino superior onde pretendem ser admitidos.\n\n2 - As normas regulamentares a que se refere o artigo 26.º fixam as regras específicas para o ingresso neste ciclo de estudos.\n\n3 - O reconhecimento a que se referem as alíneas b) a d) do n.º 1 tem como efeito apenas o acesso ao ciclo de estudos conducente ao grau de mestre e não confere ao seu titular a equivalência ao grau de licenciado ou o reconhecimento desse grau."
+  },
+  "75327099": {
+   "fragment_id": "75327184",
+   "type": 11,
+   "heading": "Artigo 18.º — Ciclo de estudos conducente ao grau de mestre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Ciclo de estudos conducente ao grau de mestre\n\n1 - O ciclo de estudos conducente ao grau de mestre tem 90 a 120 créditos e uma duração normal compreendida entre três e quatro semestres curriculares de trabalho dos alunos.\n\n2 - Excepcionalmente, e sem prejuízo de ser assegurada a satisfação de todos os requisitos relacionados com a caracterização dos objectivos do grau e das suas condições de obtenção, o ciclo de estudos conducente ao grau de mestre numa especialidade pode ter 60 créditos e uma duração normal de dois semestres curriculares de trabalho em consequência de uma prática estável e consolidada internacionalmente nessa especialidade.\n\n3 - No ensino universitário, o ciclo de estudos conducente ao grau de mestre deve assegurar que o estudante adquira uma especialização de natureza académica com recurso à actividade de investigação, de inovação ou de aprofundamento de competências profissionais.\n\n4 - No ensino politécnico, o ciclo de estudos conducente ao grau de mestre deve assegurar, predominantemente, a aquisição pelo estudante de uma especialização de natureza profissional.\n\n5 - A obtenção do grau de mestre referido nos números anteriores, ou dos créditos correspondentes ao curso de especialização referido na alínea a) do n.º 1 do artigo 20.º do presente decreto-lei, pode ainda habilitar ao acesso a profissões sujeitas a requisitos especiais de reconhecimento, nos termos legais e institucionais previstos para o efeito."
+  },
+  "75327100": {
+   "fragment_id": "75327185",
+   "type": 11,
+   "heading": "Artigo 19.º — Ciclo de estudos integrado conducente ao grau de mestre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Ciclo de estudos integrado conducente ao grau de mestre\n\n1 - No ensino universitário, o grau de mestre pode igualmente ser conferido após um ciclo de estudos integrado, com 300 a 360 créditos e uma duração normal compreendida entre 10 e 12 semestres curriculares de trabalho, nos casos em que, para o acesso ao exercício de uma determinada actividade profissional, essa duração:\n\na) Seja fixada por normas legais da União Europeia;\n\nb) Resulte de uma prática estável e consolidada na União Europeia.\n\n2 - O acesso e ingresso no ciclo de estudos referido no número anterior rege-se pelas normas aplicáveis ao acesso e ingresso no ciclo de estudos conducente ao grau de licenciado.\n\n3 - No ciclo de estudos referido no n.º 1, é conferido o grau de licenciado aos que tenham realizado os 180 créditos correspondentes aos primeiros seis semestres curriculares de trabalho.\n\n4 - O grau de licenciado referido no número anterior deve adoptar uma denominação que não se confunda com a do grau de mestre.\n\n5 - As normas regulamentares a que se refere o artigo 26.º devem prever a possibilidade de ingresso no ciclo de estudos referido no n.º 1 por licenciados em área adequada, bem como a creditação neste ciclo de estudos da formação obtida no curso de licenciatura."
+  },
+  "75327101": {
+   "fragment_id": "75327186",
+   "type": 11,
+   "heading": "Artigo 20.º — Estrutura do ciclo de estudos conducente ao grau de mestre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Estrutura do ciclo de estudos conducente ao grau de mestre\n\n1 - O ciclo de estudos conducente ao grau de mestre integra:\n\na) Um curso de especialização, constituído por um conjunto organizado de unidades curriculares, denominado curso de mestrado, a que corresponde um mínimo de 50 % do total dos créditos do ciclo de estudos;\n\nb) Uma dissertação de natureza científica ou um trabalho de projecto, originais e especialmente realizados para este fim, ou um estágio de natureza profissional objecto de relatório final, consoante os objectivos específicos visados, nos termos que sejam fixados pelas respectivas normas regulamentares, a que corresponde um mínimo de 35 % do total dos créditos do ciclo de estudos.\n\n2 - Os valores mínimos a que se refere o n.º 1:\n\na) Não se aplicam ao ciclo de estudos integrado a que se refere o artigo anterior;\n\nb) Podem ser alterados por decisão da agência de acreditação a que se refere o artigo 53.º"
+  },
+  "75327102": {
+   "fragment_id": "75327187",
+   "type": 11,
+   "heading": "Artigo 21.º — Orientação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Orientação\n\n1 - A elaboração da dissertação ou do trabalho de projecto e a realização do estágio são orientadas por doutor ou por especialista de mérito reconhecido como tal pelo órgão científico estatutariamente competente do estabelecimento de ensino superior, nacional ou estrangeiro.\n\n2 - A orientação pode ser assegurada em regime de co-orientação, quer por orientadores nacionais, quer por nacionais e estrangeiros."
+  },
+  "75327103": {
+   "fragment_id": "75327188",
+   "type": 11,
+   "heading": "Artigo 22.º — Júri do mestrado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Júri do mestrado\n\n1 - A dissertação, o trabalho de projecto ou o relatório de estágio são objecto de apreciação e discussão pública por um júri nomeado pelo órgão legal e estatutariamente competente do estabelecimento de ensino superior.\n\n2 - O júri é constituído por três a cinco membros, incluindo o orientador ou os orientadores.\n\n3 - Os membros do júri devem ser especialistas no domínio em que se insere a dissertação, o trabalho de projecto ou o relatório de estágio e são nomeados de entre nacionais ou estrangeiros titulares do grau de doutor ou especialistas de mérito reconhecido como tal pelo órgão científico do estabelecimento de ensino.\n\n4 - As deliberações do júri são tomadas por maioria dos membros que o constituem, através de votação nominal justificada, não sendo permitidas abstenções.\n\n5 - Das reuniões do júri são lavradas actas, das quais constam os votos de cada um dos seus membros e a respectiva fundamentação, que pode ser comum a todos ou a alguns membros do júri."
+  },
+  "75327104": {
+   "fragment_id": "75327189",
+   "type": 11,
+   "heading": "Artigo 23.º — Concessão do grau de mestre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Concessão do grau de mestre\n\nO grau de mestre é conferido aos que, através da aprovação em todas as unidades curriculares que integram o plano de estudos do curso de mestrado e da aprovação no acto público de defesa da dissertação, do trabalho de projecto ou do relatório de estágio, tenham obtido o número de créditos fixado."
+  },
+  "75327105": {
+   "fragment_id": "75327190",
+   "type": 11,
+   "heading": "Artigo 24.º — Classificação final do grau de mestre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Classificação final do grau de mestre\n\n1 - Ao grau académico de mestre é atribuído uma classificação final, expressa no intervalo de 10-20 da escala numérica inteira de 0 a 20, bem como no seu equivalente na escala europeia de comparabilidade de classificações.\n\n2 - As normas regulamentares a que se refere o artigo 26.º fixam a forma de cálculo da classificação final."
+  },
+  "75327106": {
+   "fragment_id": "75327191",
+   "type": 11,
+   "heading": "Artigo 25.º — Titulação do grau de mestre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Titulação do grau de mestre\n\n(Revogado.)"
+  },
+  "75327107": {
+   "fragment_id": "75327192",
+   "type": 11,
+   "heading": "Artigo 26.º — Normas regulamentares do mestrado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Normas regulamentares do mestrado\n\nO órgão legal e estatutariamente competente de cada estabelecimento de ensino superior aprova as normas relativas às seguintes matérias:\n\na) Regras sobre a admissão no ciclo de estudos, em especial as condições de natureza académica e curricular, as normas de candidatura, os critérios de selecção e seriação e o processo de fixação e divulgação das vagas e dos prazos de candidatura;\n\nb) Condições de funcionamento;\n\nc) Estrutura curricular, plano de estudos e créditos, nos termos das normas técnicas a que se refere o artigo 12.º do Decreto-Lei n.º 42/2005, de 22 de Fevereiro;\n\nd) Concretização da componente a que se refere a alínea b) do n.º 1 do artigo 20.º;\n\ne) Regimes de precedências e de avaliação de conhecimentos no curso de mestrado;\n\nf) Regime de prescrição do direito à inscrição, tendo em consideração, no ensino público e quando aplicável, o disposto sobre esta matéria na Lei n.º 37/2003, de 22 de Agosto;\n\ng) Processo de nomeação do orientador ou dos orientadores, condições em que é admitida a co-orientação e regras a observar na orientação;\n\nh) Regras sobre a apresentação e entrega da dissertação, do trabalho de projecto ou do relatório de estágio, e sua apreciação;\n\ni) Prazos máximos para a realização do acto público de defesa da dissertação, do trabalho de projecto ou do relatório de estágio;\n\nj) Regras sobre a composição, nomeação e funcionamento do júri;\n\nl) Regras sobre as provas de defesa da dissertação, do trabalho de projecto ou do relatório de estágio;\n\nm) Processo de atribuição da classificação final;\n\nn) Elementos que constam obrigatoriamente dos diplomas e cartas de curso;\n\no) Prazo de emissão do diploma, da carta de curso e do suplemento ao diploma;\n\np) Processo de acompanhamento pelos órgãos pedagógico e científico."
+  },
+  "75327108": {
+   "fragment_id": "75327193",
+   "type": 11,
+   "heading": "Artigo 27.º — Propinas do ciclo de estudos conducente ao grau de mestre no ensino público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Propinas do ciclo de estudos conducente ao grau de mestre no ensino público\n\n1 - O valor das propinas devidas pela inscrição no ciclo de estudos integrado previsto no artigo 19.º é fixado nos termos previstos para o ciclo de estudos conducente ao grau de licenciado no n.º 2 do artigo 16.º da Lei n.º 37/2003, de 22 de Agosto.\n\n2 - O valor das propinas devidas pela inscrição no ciclo de estudos conducente ao grau de mestre no ensino público, quando a sua conjugação com um ciclo de estudos conducente ao grau de licenciado seja indispensável para o acesso ao exercício de uma actividade profissional, é igualmente fixado nos termos previstos para o ciclo de estudos conducente ao grau de licenciado no n.º 2 do artigo 16.º da Lei n.º 37/2003, de 22 de Agosto.\n\n3 - O valor das propinas devidas pela inscrição no ciclo de estudos conducente ao grau de mestre no ensino público nos restantes casos é fixado pelos órgãos a que se refere o artigo 17.º da Lei n.º 37/2003, de 22 de Agosto."
+  },
+  "75327109": {
+   "fragment_id": "75327194",
+   "type": 1,
+   "heading": "Capítulo IV — Doutoramento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Doutoramento"
+  },
+  "75327110": {
+   "fragment_id": "75327195",
+   "type": 11,
+   "heading": "Artigo 28.º — Grau de doutor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Grau de doutor\n\n1 - O grau de doutor é conferido aos que demonstrem:\n\na) Capacidade de compreensão sistemática num domínio científico de estudo;\n\nb) Competências, aptidões e métodos de investigação associados a um domínio científico;\n\nc) Capacidade para conceber, projectar, adaptar e realizar uma investigação significativa respeitando as exigências impostas pelos padrões de qualidade e integridade académicas;\n\nd) Ter realizado um conjunto significativo de trabalhos de investigação original que tenha contribuído para o alargamento das fronteiras do conhecimento, parte do qual mereça a divulgação nacional ou internacional em publicações com comité de selecção;\n\ne) Ser capazes de analisar criticamente, avaliar e sintetizar ideias novas e complexas;\n\nf) Ser capazes de comunicar com os seus pares, a restante comunidade académica e a sociedade em geral sobre a área em que são especializados;\n\ng) Ser capazes de, numa sociedade baseada no conhecimento, promover, em contexto académico e ou profissional, o progresso tecnológico, social ou cultural.\n\n2 - O grau de doutor é conferido num ramo do conhecimento ou numa sua especialidade."
+  },
+  "75327111": {
+   "fragment_id": "75327196",
+   "type": 11,
+   "heading": "Artigo 29.º — Atribuição do grau de doutor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Atribuição do grau de doutor\n\n1 - Os ramos do conhecimento e especialidades em que cada universidade confere o grau de doutor são fixados pelo seu órgão legal e estatutariamente competente.\n\n2 - Só podem conferir o grau de doutor numa determinada área as universidades que:\n\na) Disponham de um corpo docente próprio, qualificado nessa área, cuja maioria seja constituída por titulares do grau de doutor, e dos demais recursos humanos e materiais que garantam o nível e a qualidade da formação adquirida;\n\nb) Demonstrem possuir, nessa área, os recursos humanos e organizativos necessários à realização de investigação;\n\nc) Demonstrem possuir, por si ou através da sua participação ou colaboração, ou dos seus docentes e investigadores, em determinadas instituições científicas, uma experiência acumulada de investigação sujeita a avaliação e concretizada numa produção científica e académica relevantes nessa área.\n\n3 - A verificação da satisfação dos requisitos referidos no número anterior é feita no âmbito do processo de acreditação."
+  },
+  "75327112": {
+   "fragment_id": "75327197",
+   "type": 11,
+   "heading": "Artigo 30.º — Acesso e ingresso no ciclo de estudos conducente ao grau de doutor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Acesso e ingresso no ciclo de estudos conducente ao grau de doutor\n\n1 - Podem candidatar-se ao acesso ao ciclo de estudos conducente ao grau de doutor:\n\na) Os titulares do grau de mestre ou equivalente legal;\n\nb) Os titulares de grau de licenciado, detentores de um currículo escolar ou científico especialmente relevante que seja reconhecido como atestando capacidade para a realização deste ciclo de estudos pelo órgão científico legal e estatutariamente competente da universidade onde pretendem ser admitidos;\n\nc) Os detentores de um currículo escolar, científico ou profissional que seja reconhecido como atestando capacidade para a realização deste ciclo de estudos pelo órgão científico legal e estatutariamente competente da universidade onde pretendem ser admitidos.\n\n2 - As normas regulamentares a que se refere o artigo 38.º fixam as condições específicas para o ingresso neste ciclo de estudos.\n\n3 - O reconhecimento a que se referem as alíneas b) e c) do número anterior tem como efeito apenas o acesso ao ciclo de estudos conducente ao grau de doutor e não confere ao seu titular a equivalência ao grau de licenciado ou de mestre, ou ao seu reconhecimento."
+  },
+  "75327113": {
+   "fragment_id": "75327198",
+   "type": 11,
+   "heading": "Artigo 31.º — Ciclo de estudos conducente ao grau de doutor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Ciclo de estudos conducente ao grau de doutor\n\nO ciclo de estudos conducente ao grau de doutor integra:\n\na) A elaboração de uma tese original e especialmente elaborada para este fim, adequada à natureza do ramo de conhecimento ou da especialidade;\n\nb) A eventual realização de unidades curriculares dirigidas à formação para a investigação, cujo conjunto se denomina curso de doutoramento, sempre que as respectivas normas regulamentares o prevejam."
+  },
+  "75327114": {
+   "fragment_id": "75327199",
+   "type": 11,
+   "heading": "Artigo 32.º — Registo das teses de doutoramento em curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Registo das teses de doutoramento em curso\n\nAs teses de doutoramento em curso são objecto de registo nos termos do Decreto-Lei n.º 52/2002, de 2 de Março."
+  },
+  "75327115": {
+   "fragment_id": "75327200",
+   "type": 11,
+   "heading": "Artigo 33.º — Regime especial de apresentação da tese",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Regime especial de apresentação da tese\n\n1 - Os que reúnam as condições para acesso ao ciclo de estudos conducente ao grau de doutor podem requerer a apresentação de uma tese ao acto público de defesa sem inscrição no ciclo de estudos a que se refere o artigo 31.º e sem a orientação a que se refere a alínea c) do artigo 38.º\n\n2 - Compete ao órgão científico legal e estatutariamente competente da universidade decidir quanto ao pedido, após apreciação do currículo do requerente e da adequação da tese aos objectivos visados pelo grau de doutor, nos termos do artigo 28.º"
+  },
+  "75327116": {
+   "fragment_id": "75327201",
+   "type": 11,
+   "heading": "Artigo 34.º — Júri do doutoramento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Júri do doutoramento\n\n1 - A tese é objecto de apreciação e discussão pública por um júri nomeado pelo órgão legal e estatutariamente competente da universidade.\n\n2 - O júri de doutoramento é constituído:\n\na) Pelo reitor, que preside, ou por quem dele receba delegação para esse fim;\n\nb) Por um mínimo de três vogais doutorados;\n\nc) Pelo orientador ou orientadores, sempre que existam.\n\n3 - Dois dos membros do júri referidos no número anterior são designados de entre professores e investigadores doutorados de outras instituições de ensino superior ou de investigação, nacionais ou estrangeiras.\n\n4 - Pode ainda fazer parte do júri especialista de reconhecida competência na área científica em que se insere a tese.\n\n5 - O júri deve integrar, pelo menos, três professores ou investigadores do domínio científico em que se insere a tese.\n\n6 - As deliberações do júri são tomadas por maioria dos membros que o constituem, através de votação nominal justificada, não sendo permitidas abstenções.\n\n7 - Das reuniões do júri são lavradas actas, das quais constam os votos de cada um dos seus membros e a respectiva fundamentação, que pode ser comum a todos ou a alguns membros do júri."
+  },
+  "75327117": {
+   "fragment_id": "75327202",
+   "type": 11,
+   "heading": "Artigo 35.º — Concessão do grau de doutor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Concessão do grau de doutor\n\nO grau de doutor é conferido aos que tenham obtido aprovação no acto público de defesa da tese."
+  },
+  "75327118": {
+   "fragment_id": "75327203",
+   "type": 11,
+   "heading": "Artigo 36.º — Qualificação final do grau de doutor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Qualificação final do grau de doutor\n\n1 - Ao grau académico de doutor é atribuída uma qualificação final nos termos fixados pelas normas regulamentares aprovadas pela universidade que o atribui.\n\n2 - A qualificação é atribuída pelo júri a que se refere o artigo 34.º, consideradas as classificações obtidas nas unidades curriculares do curso de doutoramento, quando exista, e o mérito da tese apreciado no acto público."
+  },
+  "75327119": {
+   "fragment_id": "75327204",
+   "type": 11,
+   "heading": "Artigo 37.º — Titulação do grau de doutor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Titulação do grau de doutor\n\n(Revogado.)"
+  },
+  "75327120": {
+   "fragment_id": "75327205",
+   "type": 11,
+   "heading": "Artigo 38.º — Normas regulamentares do doutoramento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Normas regulamentares do doutoramento\n\nO órgão legal e estatutariamente competente de cada universidade aprova as normas relativas às seguintes matérias:\n\na) Regras sobre a admissão no ciclo de estudos, em especial as condições de natureza académica e curricular, as normas de candidatura e os critérios de selecção;\n\nb) Existência de curso de doutoramento e, quando exista, a respectiva estrutura curricular, plano de estudos e créditos, tendo em consideração o disposto sobre esta matéria no Decreto-Lei n.º 42/2005, de 22 de Fevereiro, e suas normas regulamentares;\n\nc) Processo de nomeação do orientador ou dos orientadores, condições em que é admitida a co-orientação e regras a observar na orientação;\n\nd) Processo de registo do tema da tese;\n\ne) Condições de preparação da tese;\n\nf) Regras sobre a apresentação e entrega da tese e sua apreciação;\n\ng) Regras sobre os prazos máximos para a realização do acto público de defesa da dissertação, do trabalho de projecto ou do relatório de estágio;\n\nh) Regras sobre a composição, nomeação e funcionamento do júri;\n\ni) Regras sobre as provas de defesa da tese;\n\nj) Processo de atribuição da qualificação final;\n\nl) Elementos que constam obrigatoriamente dos diplomas e cartas doutorais;\n\nm) Prazo de emissão do diploma, da carta doutoral e do suplemento ao diploma;\n\nn) Processo de acompanhamento pelos órgãos pedagógico e científico."
+  },
+  "75327121": {
+   "fragment_id": "75327206",
+   "type": 1,
+   "heading": "Capítulo V — Diplomas de ensino superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Diplomas de ensino superior"
+  },
+  "75327122": {
+   "fragment_id": "75327207",
+   "type": 11,
+   "heading": "Artigo 39.º — Diplomas que podem ser conferidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Diplomas que podem ser conferidos\n\n1 - Os estabelecimentos de ensino superior podem atribuir diplomas, designadamente:\n\na) Pela realização de parte de um curso de licenciatura não inferior a 120 créditos;\n\nb) Pela conclusão de um curso de mestrado não inferior a 60 créditos;\n\nc) Pela conclusão de um curso de doutoramento;\n\nd) Pela realização de outros cursos não conferentes de grau académico.\n\n2 - Nos diplomas a que se refere o número anterior deve ser adoptada uma denominação que não se confunda com a da obtenção final do grau académico correspondente, quando exista."
+  },
+  "75327123": {
+   "fragment_id": "75327208",
+   "type": 11,
+   "heading": "Artigo 40.º — Titulação dos diplomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Titulação dos diplomas\n\n1 - Os diplomas a que se refere o artigo anterior são titulados por documento emitido pelo órgão legal e estatutariamente competente do estabelecimento de ensino superior.\n\n2 - A emissão do documento a que se refere o número anterior é acompanhada da emissão do suplemento ao diploma nos termos do Decreto-Lei n.º 42/2005, de 22 de Fevereiro.\n\n3 - Os regulamentos dos cursos a que se refere o n.º 1 do artigo anterior fixam os prazos de emissão dos diplomas e dos respectivos suplementos ao diploma."
+  },
+  "75327124": {
+   "fragment_id": "75327209",
+   "type": 1,
+   "heading": "Capítulo VI — Atribuição de graus e diplomas em associação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Atribuição de graus e diplomas em associação"
+  },
+  "75327125": {
+   "fragment_id": "75327210",
+   "type": 11,
+   "heading": "Artigo 41.º — Objecto da associação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Objecto da associação\n\n1 - Os estabelecimentos de ensino superior podem associar-se com outros estabelecimentos de ensino superior, nacionais ou estrangeiros, para a realização dos ciclos de estudos conducentes aos graus e diplomas a que se referem os capítulos anteriores.\n\n2 - Tendo em vista o disposto no n.º 7 do artigo 13.º da Lei de Bases do Sistema Educativo, não é permitida a adopção do regime de franquia."
+  },
+  "75327126": {
+   "fragment_id": "75327211",
+   "type": 11,
+   "heading": "Artigo 42.º — Atribuição do grau ou diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Atribuição do grau ou diploma\n\nQuando os estabelecimentos de ensino associados sejam igualmente competentes para a atribuição de grau ou diploma na área em causa nos termos do presente decreto-lei, o grau ou diploma pode ser atribuído:\n\na) Apenas por um dos estabelecimentos;\n\nb) Por cada um dos estabelecimentos, separadamente;\n\nc) Por todos os estabelecimentos em conjunto."
+  },
+  "75327127": {
+   "fragment_id": "75327212",
+   "type": 11,
+   "heading": "Artigo 43.º — Titulação do grau ou diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Titulação do grau ou diploma\n\n1 - No caso da alínea b) do artigo anterior, o grau ou diploma é titulado através de um documento emitido por cada um dos estabelecimentos.\n\n2 - No caso da alínea c) do artigo anterior, o grau ou diploma é titulado através de um documento único subscrito pelos órgãos legal e estatutariamente competentes de todos os estabelecimentos.\n\n3 - A emissão dos documentos a que se referem os números anteriores é acompanhada da emissão do suplemento ao diploma nos termos do Decreto-Lei n.º 42/2005, de 22 de Fevereiro, pelo estabelecimento de ensino superior português."
+  },
+  "75327128": {
+   "fragment_id": "75327213",
+   "type": 1,
+   "heading": "Capítulo VII — Mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Mobilidade"
+  },
+  "75327129": {
+   "fragment_id": "75327214",
+   "type": 11,
+   "heading": "Artigo 44.º — Garantia de mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Garantia de mobilidade\n\nA mobilidade dos estudantes entre os estabelecimentos de ensino superior nacionais, do mesmo ou de diferentes subsistemas, bem como entre estabelecimentos de ensino superior nacionais e estrangeiros, é assegurada através do sistema europeu de transferência e acumulação de créditos, com base no princípio do reconhecimento mútuo do valor da formação realizada e das competências adquiridas."
+  },
+  "75327130": {
+   "fragment_id": "75327215",
+   "type": 11,
+   "heading": "Artigo 45.º — Creditação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Creditação\n\n1 - Tendo em vista o prosseguimento de estudos para a obtenção de grau académico ou diploma, os estabelecimentos de ensino superior:\n\na) Creditam nos seus ciclos de estudos a formação realizada no âmbito de outros ciclos de estudos superiores em estabelecimentos de ensino superior nacionais ou estrangeiros, quer a obtida no quadro da organização decorrente do Processo de Bolonha, quer a obtida anteriormente;\n\nb) Creditam nos seus ciclos de estudos a formação realizada no âmbito dos cursos de especialização tecnológica nos termos fixados pelo respectivo diploma;\n\nc) Reconhecem, através da atribuição de créditos, a experiência profissional e outra formação não abrangida pelas alíneas anteriores.\n\n2 - A creditação tem em consideração o nível dos créditos e a área científica onde foram obtidos.\n\n3 - Os procedimentos a adoptar para a creditação são fixados pelos órgãos legal e estatutariamente competentes dos estabelecimentos de ensino superior."
+  },
+  "75327131": {
+   "fragment_id": "75327216",
+   "type": 1,
+   "heading": "Capítulo VIII — Outras disposições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Outras disposições"
+  },
+  "75327132": {
+   "fragment_id": "75327217",
+   "type": 11,
+   "heading": "Artigo 46.º — Inscrição em unidades curriculares de ciclos de estudos subsequentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Inscrição em unidades curriculares de ciclos de estudos subsequentes\n\n1 - Aos alunos inscritos num ciclo de estudos pode ser autorizada a inscrição em unidades curriculares de ciclos de estudos subsequentes.\n\n2 - As unidades curriculares a que se refere o número anterior:\n\na) São objecto de certificação;\n\nb) São objecto de menção no suplemento ao diploma;\n\nc) São creditadas em caso de inscrição do aluno no ciclo de estudos em causa."
+  },
+  "75327133": {
+   "fragment_id": "75327218",
+   "type": 11,
+   "heading": "Artigo 46.º-A — Inscrição em unidades curriculares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º-A — Inscrição em unidades curriculares\n\n1 - Os estabelecimentos de ensino facultam a inscrição nas unidades curriculares que ministram.\n\n2 - A inscrição pode ser feita quer por alunos inscritos num curso de ensino superior, quer por outros interessados.\n\n3 - A inscrição pode ser feita em regime sujeito a avaliação ou não.\n\n4 - As unidades curriculares em que o estudante se inscreva em regime sujeito a avaliação e em que obtenha aprovação:\n\na) São objecto de certificação;\n\nb) São obrigatoriamente creditadas, nos termos do artigo 45.º, caso o seu titular tenha ou venha a adquirir o estatuto de aluno de um ciclo de estudos de ensino superior;\n\nc) São incluídas em suplemento ao diploma que venha a ser emitido.\n\n5 - Pela inscrição nos termos deste artigo são devidos os montantes que forem fixados, de forma proporcionada, pelo órgão legal e estatutariamente competente do estabelecimento de ensino superior."
+  },
+  "75327134": {
+   "fragment_id": "75327219",
+   "type": 11,
+   "heading": "Artigo 46.º-B — Estágios profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º-B — Estágios profissionais\n\n1 - Os titulares do grau de licenciado ou de mestre que, no período de 24 meses após a obtenção do grau, se encontrem a realizar estágio profissional para o exercício de uma profissão beneficiam, nos termos fixados pelo presente artigo, dos direitos dos alunos da instituição de ensino superior que conferiu o grau.\n\n2 - A atribuição dos direitos é independente de o estágio profissional ser remunerado ou não e está condicionada à inscrição na instituição de ensino superior que conferiu o grau.\n\n3 - A inscrição a que se refere o número anterior não está sujeita ao pagamento de propinas ou de quaisquer outros encargos.\n\n4 - Os estagiários têm direito:\n\na) À emissão de cartão de identificação da instituição de ensino superior;\n\nb) Ao acesso à acção social escolar nos termos dos alunos da instituição, incluindo a eventual atribuição de bolsa de estudos;\n\nc) Ao acesso aos recursos da instituição, como bibliotecas e recursos informáticos, nos mesmos termos em que acedem os alunos."
+  },
+  "75327135": {
+   "fragment_id": "75327220",
+   "type": 11,
+   "heading": "Artigo 46.º-C — Estudantes em regime de tempo parcial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º-C — Estudantes em regime de tempo parcial\n\n1 - Os estabelecimentos de ensino superior facultam aos seus estudantes a inscrição e frequência dos seus ciclos de estudos em regime de tempo parcial.\n\n2 - O órgão legal e estatutariamente competente do estabelecimento de ensino superior aprova as normas regulamentares referentes ao regime de estudos em tempo parcial incluindo, designadamente:\n\na) As condições de inscrição em regime de tempo parcial;\n\nb) As condições de mudança entre os regimes de tempo integral e de tempo parcial;\n\nc) O regime de propinas, o qual deve resultar da adequação proporcionada das regras gerais aplicáveis ao ciclo de estudos em causa;\n\nd) O regime de prescrição do direito à inscrição, o qual deve resultar da adequação proporcionada das regras gerais aplicáveis ao ciclo de estudos em causa."
+  },
+  "75327136": {
+   "fragment_id": "75327221",
+   "type": 11,
+   "heading": "Artigo 47.º — Professores recrutados através de concursos de provas públicas no âmbito do ensino politécnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Professores recrutados através de concursos de provas públicas no âmbito do ensino politécnico\n\nPara efeitos do presente decreto-lei consideram-se, entre outros, como «especialistas de reconhecida experiência e competência profissional» os professores-adjuntos e os professores-coordenadores da carreira do ensino superior politécnico recrutados através de concurso de provas públicas nos termos do Estatuto da Carreira do Pessoal Docente do Ensino Superior Politécnico, aprovado pelo Decreto-Lei n.º 185/81, de 1 de Julho, alterado pelo Decreto-Lei n.º 69/88, de 3 de Março."
+  },
+  "75327137": {
+   "fragment_id": "75327222",
+   "type": 11,
+   "heading": "Artigo 48.º — Regras aplicáveis ao funcionamento dos júris",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Regras aplicáveis ao funcionamento dos júris\n\n1 - O funcionamento dos júris a que se referem os artigos 22.º e 34.º regula-se pelo disposto no Código do Procedimento Administrativo em tudo o que não esteja previsto no presente decreto-lei.\n\n2 - As reuniões dos júris a que se referem os artigos 22.º e 34.º anteriores aos actos públicos a que se referem os artigos 23.º e 35.º podem ser realizadas por teleconferência."
+  },
+  "75327138": {
+   "fragment_id": "75327223",
+   "type": 11,
+   "heading": "Artigo 49.º — Registo de graus e diplomas, certidões e cartas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Registo de graus e diplomas, certidões e cartas\n\n1 - Dos graus e diplomas conferidos é lavrado registo subscrito pelo órgão legal e estatutariamente competente do estabelecimento de ensino superior.\n\n2 - A titularidade dos graus e diplomas é comprovada por certidão do registo referido no número anterior, genericamente denominada diploma, e também, para os estudantes que o requeiram:\n\na) Por carta de curso, para os graus de licenciado e de mestre;\n\nb) Por carta doutoral, para o grau de doutor.\n\n3 - Os documentos a que se refere o n.º 2 podem ser plurilingues.\n\n4 - De acordo com as orientações aprovadas no âmbito do Processo de Bolonha, e nos termos do disposto no artigo 40.º do Decreto-Lei n.º 42/2005, de 22 de Fevereiro, a emissão de qualquer dos documentos a que se refere o n.º 2 é acompanhada da emissão de um suplemento ao diploma.\n\n5 - A emissão da certidão do registo não pode ser condicionada à solicitação de emissão ou pagamento dos documentos a que se referem as alíneas a) e b) do n.º 2.\n\n6 - O valor cobrado pela emissão de qualquer dos documentos a que se refere o n.º 2 não pode exceder o custo do serviço respectivo."
+  },
+  "75327139": {
+   "fragment_id": "75327224",
+   "type": 11,
+   "heading": "Artigo 50.º — Depósito legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Depósito legal\n\n1 - As dissertações de mestrado e as teses de doutoramento estão sujeitas:\n\na) A depósito legal de um exemplar em papel e de um exemplar em formato digital na Biblioteca Nacional;\n\nb) A depósito de um exemplar em formato digital no Observatório da Ciência e do Ensino Superior.\n\n2 - Os depósitos referidos no número anterior são da responsabilidade do estabelecimento de ensino superior que tiver conferido o grau."
+  },
+  "75327140": {
+   "fragment_id": "75327225",
+   "type": 11,
+   "heading": "Artigo 51.º — Línguas estrangeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Línguas estrangeiras\n\nOs estabelecimentos de ensino superior podem prever a utilização de línguas estrangeiras:\n\na) Na ministração do ensino em qualquer dos ciclos de estudos a que se refere o presente decreto-lei;\n\nb) Na escrita das dissertações de mestrado, dos trabalhos de projecto e relatórios de estágio de mestrado e das teses de doutoramento, e nos respectivos actos públicos de defesa."
+  },
+  "75327141": {
+   "fragment_id": "75327226",
+   "type": 13,
+   "heading": "Título III — Acreditação e entrada em funcionamento dos ciclos de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título III — Acreditação e entrada em funcionamento dos ciclos de estudos"
+  },
+  "75327142": {
+   "fragment_id": "75327227",
+   "type": 11,
+   "heading": "Artigo 52.º — Acreditação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Acreditação\n\n1 - A acreditação de um ciclo de estudos consiste na verificação do preenchimento dos requisitos exigidos para a sua criação e funcionamento.\n\n2 - A acreditação abrange todos os estabelecimentos de ensino superior e todos os ciclos de estudos."
+  },
+  "75327143": {
+   "fragment_id": "75327228",
+   "type": 11,
+   "heading": "Artigo 53.º — Agência de acreditação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Agência de acreditação\n\n1 - A acreditação realiza-se no quadro do sistema europeu de garantia de qualidade no ensino superior, compete a uma agência de acreditação a criar e regular através de diploma próprio e concretiza-se nos termos por ele fixados.\n\n2 - A agência de acreditação é uma entidade dotada de autonomia científica e técnica.\n\n3 - A agência de acreditação articula-se com os estabelecimentos de ensino superior, as associações profissionais e outras entidades relevantes.\n\n4 - A acreditação realiza-se no respeito pela autonomia científica e pedagógica dos estabelecimentos de ensino superior, nos termos definidos pelo diploma referido no n.º 1."
+  },
+  "75327144": {
+   "fragment_id": "75327229",
+   "type": 11,
+   "heading": "Artigo 54.º — Entrada em funcionamento de um ciclo de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Entrada em funcionamento de um ciclo de estudos\n\n1 - A entrada em funcionamento num estabelecimento de ensino superior de um ciclo de estudos conducente ao grau de licenciado, mestre ou doutor carece de acreditação prévia, sem prejuízo do disposto no artigo seguinte.\n\n2 - A acreditação de um ciclo de estudos implica o reconhecimento do grau ou dos graus conferidos."
+  },
+  "75327145": {
+   "fragment_id": "75327230",
+   "type": 11,
+   "heading": "Artigo 55.º — Modalidades de acreditação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Modalidades de acreditação\n\n1 - A acreditação prévia de um ciclo de estudos num estabelecimento de ensino superior é, em regra, conferida através da acreditação do estabelecimento de ensino superior para esse fim.\n\n2 - A acreditação de um estabelecimento de ensino superior para os fins a que se refere o número anterior é conferida por um determinado período de tempo, para uma ou mais áreas de formação e para os ciclos de estudos conducentes a um ou mais graus académicos."
+  },
+  "75327146": {
+   "fragment_id": "75327231",
+   "type": 11,
+   "heading": "Artigo 56.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Financiamento\n\n1 - A acreditação de um ciclo de estudos de um estabelecimento de ensino superior não implica necessariamente o seu financiamento público.\n\n2 - O financiamento público de um ciclo de estudos de um estabelecimento de ensino superior é decidido no quadro legalmente em vigor tendo em consideração o ordenamento da rede de formação superior."
+  },
+  "75327147": {
+   "fragment_id": "75327232",
+   "type": 11,
+   "heading": "Artigo 57.º — Requisitos para a acreditação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Requisitos para a acreditação\n\n1 - São requisitos gerais para a acreditação de um ciclo de estudos:\n\na) Um projecto educativo, científico e cultural próprio, adequado aos objectivos fixados para esse ciclo de estudos;\n\nb) Um corpo docente próprio, qualificado na área em causa, e adequado em número;\n\nc) Os recursos humanos e materiais indispensáveis para garantir o nível e a qualidade da formação, designadamente espaços lectivos, equipamentos, bibliotecas e laboratórios adequados.\n\n2 - São requisitos especiais para a acreditação de um ciclo de estudos conducente ao grau de mestre numa determinada especialidade:\n\na) Que o corpo docente que assegura o seu funcionamento seja constituído, na sua maioria, por titulares do grau de doutor ou especialistas de reconhecida experiência e competência profissional nas áreas científicas integrantes dessa especialidade;\n\nb) Que o estabelecimento de ensino desenvolva actividade reconhecida de formação e investigação ou de desenvolvimento de natureza profissional de alto nível, nas áreas científicas integrantes dessa especialidade.\n\n3 - São requisitos especiais para a acreditação de um ciclo de estudos conducente ao grau de doutor num determinado ramo do conhecimento ou especialidade:\n\na) A existência de recursos humanos e organizativos próprios necessários à realização de investigação nas áreas científicas integrantes desse ramo do conhecimento ou especialidade;\n\nb) Que o corpo docente que assegura o seu funcionamento seja constituído, na sua maioria, por titulares do grau de doutor nas áreas científicas integrantes desse ramo do conhecimento ou especialidade;\n\nc) Que a universidade possua, por si ou através da sua participação ou colaboração, ou dos seus docentes e investigadores, em determinadas instituições científicas, uma experiência acumulada de investigação sujeita a avaliação e concretizada numa produção científica e académica relevantes nas áreas científicas integrantes desse ramo do conhecimento ou especialidade."
+  },
+  "75327148": {
+   "fragment_id": "75327233",
+   "type": 11,
+   "heading": "Artigo 58.º — Intransmissibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Intransmissibilidade\n\nA acreditação é intransmissível."
+  },
+  "75327149": {
+   "fragment_id": "75327234",
+   "type": 11,
+   "heading": "Artigo 59.º — Validade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Validade\n\nA acreditação é conferida por um prazo determinado, a fixar, findo o qual o ciclo de estudos é objecto de reapreciação."
+  },
+  "75327150": {
+   "fragment_id": "75327235",
+   "type": 11,
+   "heading": "Artigo 60.º — Cancelamento da acreditação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Cancelamento da acreditação\n\n1 - O incumprimento dos requisitos legais ou das disposições estatutárias e a não observância dos critérios científicos e pedagógicos que justificaram a acreditação determinam o seu cancelamento, após audiência prévia da instituição em causa.\n\n2 - Na situação prevista no número anterior são definidos os prazos de cessação do funcionamento do ciclo de estudos e as medidas de salvaguarda das expectativas dos estudantes nele inscritos."
+  },
+  "75327151": {
+   "fragment_id": "75327236",
+   "type": 13,
+   "heading": "Título IV — Adequação dos ciclos de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título IV — Adequação dos ciclos de estudos"
+  },
+  "75327152": {
+   "fragment_id": "75327237",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Princípios gerais"
+  },
+  "75327153": {
+   "fragment_id": "75327238",
+   "type": 11,
+   "heading": "Artigo 61.º — Adequação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Adequação\n\n1 - Os estabelecimentos de ensino superior devem promover a adequação dos cursos que se encontram a ministrar e dos graus que estão autorizados a conferir ao regime jurídico fixado pelo presente decreto-lei.\n\n2 - O processo de adequação visa a reorganização de cada ciclo de estudos em funcionamento e concretiza-se através:\n\na) Da passagem de um ensino baseado na transmissão de conhecimentos para um ensino baseado no desenvolvimento de competências;\n\nb) Da orientação da formação ministrada para os objectivos específicos que devem ser assegurados pelos ciclos de estudos do subsistema, universitário ou politécnico, em que se insere;\n\nc) Da determinação do trabalho que o estudante deve desenvolver em cada unidade curricular - incluindo, designadamente, quando aplicáveis, as sessões de ensino de natureza colectiva, as sessões de orientação pessoal de tipo tutorial, os estágios, os projectos, os trabalhos no terreno, o estudo e a avaliação - e sua expressão em créditos de acordo com o sistema europeu de transferência e acumulação de créditos (ECTS - European Credit Transfer and Accumulation System);\n\nd) Da fixação do número total de créditos, e consequente duração do ciclo de estudos, dentro dos valores e de acordo com os critérios estabelecidos pelo presente decreto-lei.\n\n3 - A adequação deve ser realizada até ao final do ano lectivo de 2008-2009, inclusive, e nela participam, obrigatoriamente, docentes e alunos, designadamente através dos órgãos científico e pedagógico do estabelecimento de ensino e ou da unidade orgânica, conforme for o caso.\n\n4 - No ano lectivo de 2009-2010, todos os ciclos de estudos devem estar organizados de acordo com o regime jurídico fixado pelo presente decreto-lei."
+  },
+  "75327154": {
+   "fragment_id": "75327239",
+   "type": 1,
+   "heading": "Capítulo II — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Registo"
+  },
+  "75327155": {
+   "fragment_id": "75327240",
+   "type": 11,
+   "heading": "Artigo 62.º — Registo da adequação dos ciclos de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Registo da adequação dos ciclos de estudos\n\n1 - A entrada em funcionamento da adequação a que se refere o artigo anterior está sujeita a registo.\n\n2 - O registo é efectuado pelo director-geral do Ensino Superior."
+  },
+  "75327156": {
+   "fragment_id": "75327241",
+   "type": 11,
+   "heading": "Artigo 63.º — Instrução dos processos de registo da adequação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Instrução dos processos de registo da adequação\n\n1 - O pedido de registo da adequação de um ciclo de estudos é dirigido ao director-geral do Ensino Superior, que zela pelo cumprimento das normas legais aplicáveis.\n\n2 - O processo de registo é instruído com um relatório subscrito pelos órgãos científico e pedagógico do estabelecimento de ensino e ou da unidade orgânica, conforme for o caso, contendo, designadamente:\n\na) A indicação dos ciclos de estudos em funcionamento que são objecto da adequação;\n\nb) Os objectivos visados pelo ciclo de estudos;\n\nc) A fundamentação do número de créditos que, com base no trabalho estimado dos alunos, é atribuído a cada unidade curricular, incluindo os inquéritos realizados aos estudantes e docentes tendo em vista esse fim;\n\nd) A fundamentação do número total de créditos e da consequente duração do ciclo de estudos, tendo em consideração o disposto, conforme for o caso, nos n.os 1 e 2 do artigo 8.º, no artigo 9.º, nos n.os 1 e 2 do artigo 18.º e no n.º 1 do artigo 19.º;\n\ne) A demonstração da adequação da organização do ciclo de estudos e metodologias de ensino:\n\ni) À aquisição das competências a que se referem, conforme for o caso, os artigos 5.º, 15.º e 28.º;\n\nii) Aos objectivos fixados, conforme for o caso, pelo n.º 3 do artigo 8.º e pelos n.os 3 e 4 do artigo 18.º;\n\nf) Uma análise comparativa entre a organização fixada para o ciclo de estudos e a de cursos de referência com objectivos similares ministrados no espaço europeu;\n\ng) A forma como os resultados da avaliação externa foram incorporados na organização do ciclo de estudos.\n\n3 - Quando a duração do ciclo de estudos se fundamente em normas jurídicas específicas, práticas consolidadas ou requisitos profissionais excepcionais, conforme previsto no n.º 2 do artigo 8.º, no n.º 2 do artigo 18.º e no n.º 1 do artigo 19.º, cabe ao estabelecimento de ensino superior juntar os documentos aptos a alicerçar essa fundamentação.\n\n4 - O processo de registo é igualmente instruído com a estrutura curricular, o plano de estudos e os créditos, nos termos das normas técnicas a que se refere o artigo 12.º do Decreto-Lei n.º 42/2005, de 22 de Fevereiro.\n\n5 - O Ministro da Ciência, Tecnologia e Ensino Superior, sob proposta do director-geral do Ensino Superior, ouvido o Conselho de Reitores das Universidades Portuguesas, o Conselho Coordenador dos Institutos Superiores Politécnicos e a Associação Portuguesa do Ensino Superior Privado, aprova, por despacho a publicar na 2.ª série do Diário da República, as regras técnicas, os prazos e um instrumento normalizado de apresentação dos pedidos de registo de adequação.\n\n6 - São indeferidos liminarmente os pedidos que não se encontrem formalmente instruídos nos termos fixados pelos números anteriores."
+  },
+  "75327157": {
+   "fragment_id": "75327242",
+   "type": 11,
+   "heading": "Artigo 64.º — Notificação e publicação do despacho de registo da adequação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Notificação e publicação do despacho de registo da adequação\n\n1 - A decisão sobre os pedidos de registo de adequação deve ser proferida no prazo de 45 dias úteis após a sua recepção.\n\n2 - O pedido de registo é recusado em caso de violação das normas legais e regulamentares aplicáveis.\n\n3 - Quando o pedido de registo tenha sido indeferido ou não tenha sido objecto de decisão no prazo a que se refere o n.º 1, os interessados podem interpor, nos termos gerais de direito, os respectivos meios de impugnação graciosa ou contenciosa.\n\n4 - A tramitação do processo do registo está sujeita às regras do Código do Procedimento Administrativo.\n\n5 - O director-geral do Ensino Superior envia para publicação na 2.ª série do Diário da República o despacho de registo, dando conhecimento do mesmo aos interessados."
+  },
+  "75327158": {
+   "fragment_id": "75327243",
+   "type": 1,
+   "heading": "Capítulo III — Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Acompanhamento"
+  },
+  "75327159": {
+   "fragment_id": "75327244",
+   "type": 11,
+   "heading": "Artigo 65.º — Criação e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Criação e competências\n\nPor despacho do Ministro da Ciência, Tecnologia e Ensino Superior será criada e regulada uma comissão de acompanhamento do processo de adequação, com as seguintes competências:\n\na) Acompanhar a execução do processo de adequação dos cursos;\n\nb) Elaborar um relatório anual sobre o processo;\n\nc) Emitir parecer sobre questões genéricas ou específicas relacionadas com o processo de adequação."
+  },
+  "75327160": {
+   "fragment_id": "75327245",
+   "type": 1,
+   "heading": "Capítulo IV — Transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Transição"
+  },
+  "75327161": {
+   "fragment_id": "75327246",
+   "type": 11,
+   "heading": "Artigo 66.º — Transição curricular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Transição curricular\n\n1 - As regras de transição entre a anterior organização de estudos e a nova organização decorrente do processo de adequação são fixadas pelos órgãos legal e estatutariamente competentes, após audição de docentes e alunos através dos órgãos científico e pedagógico do estabelecimento de ensino e ou da unidade orgânica, conforme for o caso.\n\n2 - As regras de transição devem assegurar:\n\na) O respeito pelas legítimas expectativas dos alunos;\n\nb) Os necessários regimes de creditação na nova organização de estudos da formação obtida na anterior organização;\n\nc) Que da sua aplicação não resulte um aumento da carga lectiva prevista na anterior organização.\n\n3 - A coexistência entre a nova organização de estudos e a anterior, se prevista nas regras de transição, não deve exceder um ano lectivo, podendo, excepcional e justificadamente, prolongar-se por mais um."
+  },
+  "75327162": {
+   "fragment_id": "75327247",
+   "type": 1,
+   "heading": "Capítulo V — Concretização do Processo de Bolonha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Concretização do Processo de Bolonha"
+  },
+  "75327163": {
+   "fragment_id": "75327248",
+   "type": 11,
+   "heading": "Artigo 66.º-A — Relatório de concretização do Processo de Bolonha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º-A — Relatório de concretização do Processo de Bolonha\n\n1 - Os estabelecimentos de ensino superior elaboram, anualmente, um relatório acerca da concretização dos objectivos do Processo de Bolonha.\n\n2 - O relatório deve incluir informação sobre as mudanças operadas, designadamente em matéria pedagógica, no sentido de uma formação orientada para o desenvolvimento das competências dos estudantes, organizada com base no sistema europeu de transferência e acumulação de créditos (ECTS) e onde as componentes de trabalho experimental ou de projecto, entre outras, e a aquisição de competências transversais devem desempenhar um papel decisivo.\n\n3 - O relatório deve incluir informação e indicadores que evidenciem o progresso das mudanças realizadas na instituição e em cada curso e que o permita comparar com a evolução realizada em outras instituições que se constituam como referência.\n\n4 - O relatório deve incluir indicadores objectivos que considerem, designadamente, a evolução do peso das várias componentes do trabalho do estudante no número de horas de trabalho total, nomeadamente total de horas de contacto, componente experimental, componente de projecto.\n\n5 - O relatório deve ainda referir, designadamente:\n\na) As medidas de apoio à promoção do sucesso escolar;\n\nb) As acções de apoio ao desenvolvimento de competências extracurriculares;\n\nc) As medidas de estímulo à inserção na vida activa.\n\n6 - O relatório deve integrar o contributo dos estudantes e docentes, através de inquéritos ou outras formas de participação, acerca da concretização dos objectivos visados, a promover pelos conselhos pedagógico e científico ou técnico-científico.\n\n7 - O relatório é elaborado para os anos lectivos de 2006-2007 a 2010-2011, inclusive, e é publicado no sítio da Internet do estabelecimento de ensino até 31 de Dezembro seguinte ao término do ano lectivo a que se reporta."
+  },
+  "75327164": {
+   "fragment_id": "75327249",
+   "type": 13,
+   "heading": "Título V — Novos ciclos de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título V — Novos ciclos de estudos"
+  },
+  "75327165": {
+   "fragment_id": "75327250",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "75327166": {
+   "fragment_id": "75327251",
+   "type": 11,
+   "heading": "Artigo 67.º — Regimes aplicáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Regimes aplicáveis\n\nAté à criação e entrada em funcionamento da agência de acreditação, e sem prejuízo do disposto no artigo seguinte, a entrada em funcionamento de novas licenciaturas, mestrados ou doutoramentos fica sujeita:\n\na) Nos estabelecimentos de ensino público universitário, ao regime em vigor à data da publicação do presente decreto-lei;\n\nb) Nos estabelecimentos de ensino público politécnico, ao regime fixado pelos artigos 69.º a 74.º do presente decreto-lei;\n\nc) Nos estabelecimentos de ensino particular ou cooperativo, ao regime fixado pelos artigos 69.º a 74.º do presente decreto-lei."
+  },
+  "75327167": {
+   "fragment_id": "75327252",
+   "type": 11,
+   "heading": "Artigo 68.º — Instrução do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Instrução do processo\n\n1 - Os processos referentes à entrada em funcionamento de novas licenciaturas, mestrados ou doutoramentos são enviados à Direcção-Geral do Ensino Superior, instruídos com:\n\na) Relatório, subscrito pelo órgão científico legal e estatutariamente competente do estabelecimento de ensino:\n\ni) Descrevendo e fundamentando os objectivos do ciclo de estudos, a sua organização e a adequação dos recursos humanos e materiais às exigências científicas e pedagógicas e à qualidade do ensino;\n\nii) Enquadrando o ciclo de estudos na rede de formação nacional da respectiva área e explicitando as razões para a sua criação, quando se trate de estabelecimentos de ensino públicos;\n\nb) A estrutura curricular, o plano de estudos e os créditos, nos termos das normas técnicas a que se refere o artigo 12.º do Decreto-Lei n.º 42/2005, de 22 de Fevereiro;\n\nc) A fundamentação do número de créditos que, com base no trabalho estimado dos alunos, é atribuído a cada unidade curricular, incluindo os inquéritos realizados aos estudantes e docentes tendo em vista esse fim;\n\nd) A fundamentação do número total de créditos e da consequente duração do ciclo de estudos tendo em consideração o disposto, conforme for o caso, nos n.os 1 e 2 do artigo 8.º, no artigo 9.º, nos n.os 1 e 2 do artigo 18.º e no n.º 1 do artigo 19.º;\n\ne) A demonstração da adequação da organização do ciclo de estudos e metodologias de ensino:\n\ni) À aquisição das competências a que se referem, conforme for o caso, os artigos 5.º, 15.º e 28.º;\n\nii) Aos objectivos fixados, conforme for o caso, pelo n.º 3 do artigo 8.º e pelos n.os 3 e 4 do artigo 18.º;\n\nf) Uma análise comparativa entre a organização fixada para o ciclo de estudos e a de cursos de referência com objectivos similares ministrados no espaço europeu.\n\n2 - Quando a duração do ciclo de estudos se fundamente em normas jurídicas específicas, práticas consolidadas ou requisitos profissionais excepcionais, conforme previsto no n.º 2 do artigo 8.º, no n.º 2 do artigo 18.º e no n.º 1 do artigo 19.º, cabe ao estabelecimento de ensino superior juntar os documentos aptos a alicerçar essa fundamentação.\n\n3 - O Ministro da Ciência, Tecnologia e Ensino Superior, sob proposta do director-geral do Ensino Superior, ouvidos o Conselho de Reitores das Universidades Portuguesas, o Conselho Coordenador dos Institutos Superiores Politécnicos e a Associação Portuguesa do Ensino Superior Privado, aprova, por despacho a publicar na 2.ª série do Diário da República, as regras técnicas, os prazos e um instrumento normalizado de apresentação dos pedidos de autorização de funcionamento.\n\n4 - São indeferidos liminarmente os pedidos que não se encontrem formalmente instruídos nos termos fixados pelos números anteriores."
+  },
+  "75327168": {
+   "fragment_id": "75327253",
+   "type": 1,
+   "heading": "Capítulo II — Regime transitório de autorização de funcionamento de novos ciclos de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Regime transitório de autorização de funcionamento de novos ciclos de estudos"
+  },
+  "75327169": {
+   "fragment_id": "75327254",
+   "type": 11,
+   "heading": "Artigo 69.º — Autorização de funcionamento de novos ciclos de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Autorização de funcionamento de novos ciclos de estudos\n\n1 - Compete ao Ministro da Ciência, Tecnologia e Ensino Superior, sob proposta do director-geral do Ensino Superior, autorizar o funcionamento de novos ciclos de estudos nos termos descritos no presente capítulo.\n\n2 - A competência a que se refere o artigo anterior pode ser delegada no director-geral do Ensino Superior."
+  },
+  "75327170": {
+   "fragment_id": "75327255",
+   "type": 11,
+   "heading": "Artigo 70.º — Comissões de especialistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Comissões de especialistas\n\n(Revogado.)"
+  },
+  "75327171": {
+   "fragment_id": "75327256",
+   "type": 11,
+   "heading": "Artigo 71.º — Processo de apreciação dos pedidos de autorização de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Processo de apreciação dos pedidos de autorização de funcionamento\n\n1 - A Direcção-Geral do Ensino Superior procede à instrução dos pedidos de autorização de funcionamento, verificando a satisfação dos requisitos a que se refere o artigo 57.º\n\n2 - A tramitação do processo do registo está sujeita às regras do Código do Procedimento Administrativo.\n\n3 - No âmbito da verificação da satisfação dos requisitos, a Direcção-Geral do Ensino Superior pode ouvir, quando o considere necessário, comissões de especialistas, nomeadas por despacho do director-geral do Ensino Superior e integradas por professores do ensino superior, investigadores, ou especialistas de reconhecida experiência e competência profissional, nacionais ou estrangeiros, em número não inferior a três.\n\n4 - Os membros das comissões são independentes no exercício da sua actividade."
+  },
+  "75327172": {
+   "fragment_id": "75327257",
+   "type": 11,
+   "heading": "Artigo 72.º — Decisão sobre os pedidos de autorização de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Decisão sobre os pedidos de autorização de funcionamento\n\n1 - A decisão sobre os pedidos de autorização de funcionamento é proferida:\n\na) Em relação aos ciclos de estudos conducentes ao grau de licenciado, no prazo máximo de quatro meses após a sua recepção;\n\nb) Em relação aos restantes ciclos de estudos, no prazo máximo de sete meses após a sua recepção.\n\n2 - Ultrapassado o prazo referido no número anterior, os pedidos referentes à autorização de funcionamento de ciclos de estudos consideram-se deferidos tacitamente.\n\n3 - O funcionamento de um ciclo de estudos que vise a atribuição de um grau académico sem a prévia autorização de funcionamento ou seu deferimento tácito determina o indeferimento do pedido.\n\n4 - O ensino ministrado nos termos do número anterior não é passível de reconhecimento ou equivalência."
+  },
+  "75327173": {
+   "fragment_id": "75327258",
+   "type": 11,
+   "heading": "Artigo 73.º — Notificação e publicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Notificação e publicação\n\n1 - O despacho de deferimento é notificado por escrito à entidade requerente.\n\n2 - Do despacho de deferimento constam, em relação ao ciclo de estudos em causa:\n\na) O nome da instituição de ensino superior e unidade orgânica, se aplicável, que o ministra;\n\nb) O grau académico que confere;\n\nc) A denominação;\n\nd) A organização em percursos alternativos, quando aplicável;\n\ne) Quando se trate dos graus de licenciado e de mestre:\n\ni) O número de créditos, segundo o sistema europeu de transferência e acumulação de créditos (ECTS), necessário à obtenção do grau;\n\nii) A duração normal do ciclo de estudos;\n\niii) Os créditos, por área científica, que devem ser reunidos para a obtenção do grau.\n\n3 - Recebida a notificação do deferimento, a entidade requerente procede à publicação do despacho na 2.ª série do Diário da República.\n\n4 - A publicação inclui, em anexo, quando se trate dos graus de licenciado e de mestre, o plano de estudos, indicando, para cada unidade curricular, a área científica em que se insere, a duração, nomeadamente semestral, anual ou outra, o tempo de trabalho, em horas totais e horas de contacto, e o número de ECTS.\n\n5 - Tendo ocorrido deferimento tácito nos termos do n.º 2 do artigo anterior, a entidade requerente procede à publicação de aviso na 2.ª série do Diário da República, do qual constam, em relação ao ciclo de estudos em causa, os elementos a que se referem os n.os 2 e 4, bem como a data de envio do pedido à Direcção-Geral do Ensino Superior e a data em que se formou o deferimento tácito.\n\n6 - Na data do envio do aviso para publicação no Diário da República, a entidade requerente remete cópia do mesmo à Direcção-Geral do Ensino Superior."
+  },
+  "75327174": {
+   "fragment_id": "75327259",
+   "type": 11,
+   "heading": "Artigo 74.º — Cancelamento da autorização de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Cancelamento da autorização de funcionamento\n\n1 - O incumprimento dos requisitos legais ou das disposições estatutárias e a não observância dos critérios científicos e pedagógicos que justificaram a autorização de funcionamento, bem como a modificação do projecto educativo do ciclo de estudos, designadamente através de alterações não fundamentadas realizadas nos termos do capítulo seguinte, determinam o seu cancelamento.\n\n2 - A decisão de cancelamento da autorização de funcionamento compete ao Ministro da Ciência, Tecnologia e Ensino Superior, sob proposta do director-geral do Ensino Superior, precedida da audiência prévia dos interessados, e é publicada na 2.ª série do Diário da República.\n\n3 - Na situação prevista no número anterior são definidos os prazos de cessação do funcionamento do ciclo de estudos e as medidas de salvaguarda das expectativas dos estudantes nele inscritos."
+  },
+  "75327275": {
+   "fragment_id": "75327260",
+   "type": 11,
+   "heading": "Artigo 74.º-A — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º-A — Prazos\n\n1 - Os prazos em que devem ser apresentados os pedidos de registo de autorização de funcionamento para novos ciclos de estudos de licenciatura, integrados de mestrado e de mestrado para cada ano lectivo são fixados por despacho do director-geral do Ensino Superior, ouvidos o Conselho de Reitores das Universidades Portuguesas, o Conselho Coordenador dos Institutos Superiores Politécnicos e a Associação Portuguesa do Ensino Superior Privado.\n\n2 - Não estão sujeitos a prazo de apresentação os pedidos de registo referentes:\n\na) A ciclos de estudos de doutoramento;\n\nb) A ciclos de estudos de mestrado a realizar em regime de associação com instituições nacionais ou estrangeiras."
+  },
+  "75327276": {
+   "fragment_id": "75327261",
+   "type": 13,
+   "heading": "Título VI — Alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título VI — Alterações"
+  },
+  "75327277": {
+   "fragment_id": "75327262",
+   "type": 11,
+   "heading": "Artigo 75.º — Regime aplicável às alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Regime aplicável às alterações\n\nA alteração de planos de estudos e de outros elementos caracterizadores de um ciclo de estudos que não modifiquem os seus objectivos fica sujeita ao regime fixado pelo presente título."
+  },
+  "75327278": {
+   "fragment_id": "75327263",
+   "type": 11,
+   "heading": "Artigo 76.º — Regime aplicável às alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Regime aplicável às alterações\n\nA aprovação das alterações a que se refere o artigo anterior cabe aos órgãos legal e estatutariamente competentes dos estabelecimentos de ensino superior."
+  },
+  "75327279": {
+   "fragment_id": "75327264",
+   "type": 11,
+   "heading": "Artigo 77.º — Início de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Início de funcionamento\n\nO início de funcionamento das alterações está sujeito a comunicação prévia à Direcção-Geral do Ensino Superior e a publicação na 2.ª série do Diário da República."
+  },
+  "75327280": {
+   "fragment_id": "75327265",
+   "type": 11,
+   "heading": "Artigo 78.º — Instrução dos processos de alteração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Instrução dos processos de alteração\n\n(Revogado.)"
+  },
+  "75327281": {
+   "fragment_id": "75327266",
+   "type": 11,
+   "heading": "Artigo 79.º — Decisão sobre os processos de alteração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Decisão sobre os processos de alteração\n\n(Revogado.)"
+  },
+  "75327282": {
+   "fragment_id": "75327267",
+   "type": 11,
+   "heading": "Artigo 80.º — Publicação das alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Publicação das alterações\n\nA publicação das alterações deve mencionar expressamente a data de comunicação das mesmas à Direcção-Geral do Ensino Superior."
+  },
+  "75327283": {
+   "fragment_id": "75327268",
+   "type": 13,
+   "heading": "Título VII — Normas finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título VII — Normas finais e transitórias"
+  },
+  "75327284": {
+   "fragment_id": "75327269",
+   "type": 11,
+   "heading": "Artigo 81.º — Mestrados e doutoramentos em curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Mestrados e doutoramentos em curso\n\nAos estudantes que tenham solicitado admissão ao mestrado ou ao doutoramento aplica-se o regime jurídico vigente à data em que foram apresentados os respectivos pedidos.\n\nArt.igo 82.º\n\nPrazos especiais\n\n1 - Os estabelecimentos de ensino que, excepcionalmente, pretendam efectuar pedidos de registo de adequação, de autorização de funcionamento de novas formações e de registo de alterações para a entrada em funcionamento no ano lectivo de 2006-2007 devem remetê-los à Direcção-Geral do Ensino Superior até ao dia 31 de Março de 2006.\n\n2 - Os pedidos de registo de adequação, de autorização de funcionamento de novas formações e de registo de alterações para a entrada em funcionamento no ano lectivo de 2007-2008 devem ser remetidos à Direcção-Geral do Ensino Superior até ao dia 15 de Novembro de 2006.\n\nArtigo 83.º\n\nAcreditação dos ciclos de estudos em funcionamento\n\n1 - Os ciclos de estudos em funcionamento quando do início da actividade da agência de acreditação são objecto do procedimento de acreditação.\n\n2 - O procedimento a que se refere o número anterior é realizado até ao final do ano lectivo de 2010-2011.\n\nArtigo 84.º\n\nNorma revogatória\n\n1 - Com a entrada em vigor do presente decreto-lei são revogados:\n\na) Os artigos 25.º a 29.º e 36.º a 39.º do Regime Jurídico do Desenvolvimento e da Qualidade do Ensino Superior, aprovado pela Lei n.º 1/2003, de 6 de Janeiro;\n\nb) O Decreto-Lei n.º 216/92, de 13 de Outubro, com excepção do n.º 4 do artigo 4.º e dos artigos 30.º e 31.º;\n\nc) Os n.os 1, 2 e 4 do artigo 39.º, o n.º 5 do artigo 53.º, o n.º 1 do artigo 57.º e os artigos 58.º a 60.º, 64.º e 67.º do Estatuto do Ensino Superior Particular e Cooperativo, aprovado pelo Decreto-Lei n.º 16/94, de 22 de Janeiro, alterado, por ratificação, pela Lei n.º 37/94, de 11 de Novembro, e pelo Decreto-Lei n.º 94/99, de 23 de Março.\n\n2 - Com a entrada em vigor da portaria referida no n.º 1 do artigo 49.º são revogados:\n\na) O Decreto n.º 119/81, de 26 de Setembro;\n\nb) O Decreto Regulamentar n.º 63/87, de 17 de Dezembro.\n\nArtigo 85.º\n\nEntrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

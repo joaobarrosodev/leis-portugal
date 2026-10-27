@@ -1,0 +1,106 @@
+---
+schema_version: '1.0'
+id: pt:dre:445537:por
+title: Portaria n.º 124/71
+short_title: null
+summary: Assegura a unificação do tipo de capacete de protecção a utilizar pelos agentes da Polícia de Segurança Pública quando
+  se transportem fardados, em serviço oficial ou em serviço próprio, em motociclos, ciclomotores e velocípedes com motor auxiliar
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Interior - Comando-Geral da Polícia de Segurança Pública
+proposing_entity: null
+official_number: 124/71
+official_date: null
+publication_date: '1971-03-06'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 55/1971, Série I de 1971-03-06
+  number: '55'
+  series: I
+  supplement: null
+  pages: 287 - 288
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/03/05500/02870288.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '445537'
+  dre_path: /dr/detalhe/portaria/124-1971-445537
+  internal: pt:dre:445537:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/124-1971-445537
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/124-1971-445537
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:25:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4cff772ec6e6c7604d7896421b975c483003a03df097f4f42c74bd78c6d07248
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:30Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:148831:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:25:30Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 124/71
+
+de 6 de Março
+
+Verificando-se a necessidade de assegurar a unificação do tipo de capacete de protecção a utilizar pelos agentes da Polícia de Segurança Pública quando se transportem fardados, em serviço oficial ou em serviço próprio, em motociclos, ciclomotores e velocípedes com motor auxiliar, para cumprimento do determinado nos n.os 3 e 17 dos artigos 7.º e 38.º do Código da Estrada, referidos no artigo 1.º do [Decreto n.º 424/70](https://diariodarepublica.pt/dr/detalhe/decreto/424-1970-148831), de 4 de Setembro, conjugado com o artigo 3.º do mesmo decreto e ao abrigo do disposto no artigo 2.º do Decreto-Lei n.º 41798, de 8 de Agosto de 1958:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Interior, aprovar e publicar a seguinte alteração ao plano de uniformes da Polícia de Segurança Pública:
+
+1.º O pessoal da Polícia de Segurança Pública que estiver de serviço como ciclomotorista ou utilize velocípede com motor auxiliar usará o capacete protector do modelo da fig. 107-A.
+
+2.º O pessoal da Polícia de Segurança Pública quando se faça transportar fardado em motociclos, ciclomotores ou velocípedes com motor auxiliar, particulares, fará também uso do capacete protector do modelo da fig. 107-A.
+
+3.º Capacete protector (fig. 107-A) - casco de plástico de alta densidade, com vivo e tapa-nuca, de tela impermeável, de cor preta, e pala de plástico de injecção de polietileno, de cor também preta. À frente, na parte inferior, tem cravado o emblema da Polícia de Segurança Pública, de metal branco-prateado.
+
+O Ministro do Interior, António Manuel Gonçalves Rapazote.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/03/05500/02870288.pdf)
+
+O Ministro do Interior, António Manuel Gonçalves Rapazote.

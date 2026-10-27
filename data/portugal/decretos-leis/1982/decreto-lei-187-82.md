@@ -1,0 +1,164 @@
+---
+schema_version: '1.0'
+id: pt:dre:392442:por
+title: Decreto-Lei n.º 187/82
+short_title: null
+summary: Eleva os quantitativos das multas previstas no Código da Estrada
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Habitação, Obras Públicas e Transportes - Secretaria de Estado dos Transportes Interiores - Direcção-Geral
+  de Viação
+proposing_entity: null
+official_number: 187/82
+official_date: null
+publication_date: '1982-05-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 110/1982, Série I de 1982-05-15
+  number: '110'
+  series: I
+  supplement: null
+  pages: 1269 - 1269
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/05/11000/12691269.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '392442'
+  dre_path: /dr/detalhe/decreto-lei/187-1982-392442
+  internal: pt:dre:392442:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1982-392442
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1982-392442
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:42:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 161e98ff40459d9dc875b4f61e25b11b017fa0f3b8d675279c5e727ff6672f51
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:42:53Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Código da Estrada
+- Multa
+relationships:
+- type: amended_by
+  target: pt:dre:430196:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601315:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:394104:por
+  label: Rectificado o presente diploma, pela DECL.DD6136.12.07.1982.PCM, DR.IS [167] de 22.07.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-394104
+  date: '1982-07-12'
+- type: repealed_by
+  target: pt:dre:430196:por
+  label: "Revogado a partir de 01.08.1989 pelo DEC LEI.240/89.26.07.1989.MOPTC, DR.IS [170-2ºSupl] de 26.07.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/240-1989-430196
+  date: '1989-07-26'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:42:53Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 187/82
+
+de 15 de Maio
+
+As multas previstas no Código da Estrada, cujos montantes foram fixados pelo Decreto-Regulamentar n.º 40/77, de 16 de Junho, têm em vista reprimir actos ilícitos meramente contravencionais.
+
+Tais quantitativos deixaram de constituir factor dissuasório de transgressões, em resultado do processo inflacionário desenvolvido durante os últimos anos.
+
+Nestes termos:
+
+Considerando o disposto no § único do artigo 1.º do [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º Os quantitativos mínimos das multas, actualmente aplicáveis por infracção às disposições do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1944, são modificados nos termos seguintes:
+
+a) Os de 20$00 passam para 50$00;
+
+b) Os de 100$00 passam para 300$00;
+
+c) Os de 200$00 passam para 600$00;
+
+d) Os de 400$00 passam para 1000$00;
+
+e) Os de 600$00 passam para 1500$00;
+
+f) Os de 1000$00 passam para 3000$00;
+
+g) Os de 2000$00 passam para 5000$00;
+
+h) Os de 4000$00 e 5000$00 passam para 10000$00;
+
+i) Os de 10000$00 passam para 20000$00;
+
+j) Os de 20000$00 passam para 30000$00;
+
+k) Os de 30000$00 passam para 50000$00.
+
+Art. 2.º Exceptuam-se do disposto no artigo anterior os quantitativos previstos no n.º 7 do artigo 14.º do Código da Estrada para as restantes contravenções, que passam para 400$00, e ainda o previsto no terceiro parágrafo do n.º 8 do artigo 26.º do Código da Estrada, no que se refere somente à paragem e estacionamento na berma da auto-estrada, que se fixa em 800$00.
+
+Art. 3.º Os novos quantitativos de multas fixados no artigo 1.º do presente diploma aplicar-se-ão às disposições do Código da Estrada alteradas pelo [Decreto Regulamentar n.º 4/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1982-601315), de 15 de Janeiro.
+
+Art. 4.º As multas previstas no Código da Estrada continuam a ser variáveis, graduadas entre um limite mínimo correspondente ao valor fixado pelo presente diploma e um limite máximo equivalente ao quíntuplo do limite mínimo.
+
+Art. 5.º O pagamento voluntário das multas, nos termos do n.º 1 do artigo 70.º do Código da Estrada, deve ser efectuado sempre pelo mínimo.
+
+Art. 6.º Os quantitativos das multas previstos no Código da Estrada podem ser alterados por portaria do Ministro da Habitação, Obras Públicas e Transportes.
+
+Art. 7.º O disposto no presente diploma entra em vigor 30 dias após a sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 20 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
+
+Promulgado em 5 de Maio de 1982.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

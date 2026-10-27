@@ -1,0 +1,200 @@
+---
+schema_version: '1.0'
+id: pt:dre:374673:por
+title: Decreto-Lei n.º 181/88
+short_title: null
+summary: Estabelece o regime e as respectivas normas regulamentares para a realização de operações cambiais decorrentes de
+  transacções de mercadorias
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 181/88
+official_date: null
+publication_date: '1988-05-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 117/1988, Série I de 1988-05-20
+  number: '117'
+  series: I
+  supplement: null
+  pages: 2133 - 2134
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/05/11700/21332134.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '374673'
+  dre_path: /dr/detalhe/decreto-lei/181-1988-374673
+  internal: pt:dre:374673:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1988-374673
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1988-374673
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:25:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5124ed10af9e7f15d970f7a9c39227a13f4f938100c6b9de6053d51b6924366f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:25:15Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Banco de Portugal
+- Circulação de Mercadorias
+- Comércio Externo
+- Definição de Competências
+- Exportação
+- Importação
+- Instituição de Crédito
+- Operação Cambial
+relationships:
+- type: amended_by
+  target: pt:dre:640952:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:546459:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:287580:por
+  label: Rectificado pela DECL.DD2752.1988.06.21.PCM,DR.IS [149]Supl de 30/Jun/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-287580
+  date: '1988-06-21'
+- type: repealed_by
+  target: pt:dre:640952:por
+  label: "Revogado pelo DEC LEI.176/91.1991.05.14.MF DR.IS-A [110]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-1991-640952
+  date: '1991-05-14'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:25:15Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 181/88
+
+de 20 de Maio
+
+A adopção em toda a Comunidade Europeia, a partir de 1 de Janeiro de 1988, do designado «documento único», com vista à simplificação das formalidades administrativas aduaneiras decorrentes da liberalização das operações de comércio externo, veio impor, em conformidade com a legislação comunitária aplicável e no âmbito das obrigações decorrentes do Acto de Adesão de Portugal às Comunidades Europeias, o estabelecimento de um novo regime de execução das operações cambiais ligadas ao comércio de mercadorias, dando lugar a uma regulação descentralizada do mercado cambial.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º A realização de operações cambiais decorrentes de transacções de mercadorias fica sujeita ao regime estabelecido no presente decreto-lei e nas respectivas normas regulamentares.
+
+Art. 2.º - 1 - As operações cambiais previstas no artigo anterior deverão ser sempre realizadas por intermédio de uma instituição de crédito autorizada a exercer, por forma plena, o comércio de câmbios em Portugal.
+
+2 - É ainda admitida na realização das referidas operações a intervenção dos Correios e Telecomunicações de Portugal (CTT), confinada ao cumprimento das disposições que regem a sua actividade no domínio das importações e exportações contra-reembolso.
+
+3 - Sem prejuízo das competências legalmente atribuídas ao Banco de Portugal em matéria de regulação do mercado cambial, devem as instituições de crédito e os CTT zelar pela observância das disposições constantes do presente decreto-lei e suas normas regulamentares.
+
+4 - Exceptuam-se do regime previsto no anterior n.º 1 os casos em que a legislação sobre operações cambiais admita formas diferentes de realização.
+
+Art. 3.º - 1 - Os agentes económicos residentes são obrigados a transferir para Portugal o valor das transacções de mercadorias, cedendo ao sistema bancário nacional, contra escudos, a totalidade dos meios de pagamento sobre o exterior, expressos em moeda estrangeira, de que sejam detentores ou titulares em resultado da realização de transacções de mercadorias, no prazo de quinze dias a contar da data em que os mesmos forem colocados à sua disposição.
+
+2 - Os agentes económicos residentes podem transferir para o exterior ou para crédito de contas estrangeiras, a favor de não residentes, as importâncias referentes à liquidação de operações de compra de mercadorias, em conformidade com o disposto neste diploma.
+
+3 - As divisas necessárias à liquidação ao exterior de transacções de mercadorias somente podem ser adquiridas nos dois dias úteis anteriores à sua utilização, sem prejuízo da faculdade do recurso às operações do mercado a prazo.
+
+4 - A dedução de importâncias referentes a comissões, fretes, seguros e outros encargos legítimos inerentes às transacções efectuadas poderá ser feita em condições a estabelecer em instruções do Banco de Portugal.
+
+Art. 4.º - 1 - A realização de operações cambiais reguladas neste diploma depende de prévia verificação pelo Banco de Portugal da natureza e realidade das transacções que lhes dão origem, da legitimidade dos intervenientes e da sua conformidade com a legislação aplicável.
+
+2 - O Banco de Portugal poderá delegar nas instituições de crédito autorizadas a exercer, por forma plena, o comércio de câmbios a competência para proceder à verificação a que alude o número antecedente e, bem assim, ao correspondente controle cambial.
+
+3 - Para os efeitos previstos nos números anteriores, deverá ser exigida a apresentação dos documentos justificativos que permitam verificar a natureza e realidade das operações, designadamente o montante das mesmas, as datas de exigibilidade dos pagamentos e a identidade e domicílio dos intervenientes, podendo ainda ser solicitadas a quaisquer entidades, públicas ou privadas, informações e provas complementares.
+
+4 - Sem prejuízo da avocação, a todo o tempo, dos respectivos processos pelo Banco de Portugal, das decisões proferidas pelas instituições de crédito, no uso de poderes delegados, só se pode recorrer hierarquicamente para aquele Banco, sendo as decisões deste passíveis de recurso contencioso, quando por ele confirmadas, entendendo-se como tacitamente confirmadas as decisões não alteradas decorridos 30 dias sobre a data em que for apresentado o recurso hierárquico.
+
+Art. 5.º - 1 - O Ministro das Finanças poderá determinar, por portaria, que, para efeitos de verificação da natureza e realidade das transacções de mercadorias, a realização das respectivas operações cambiais fique sujeita a domiciliação bancária.
+
+2 - Poderá o Ministro das Finanças, também por portaria, fixar os condicionalismos a observar na realização de operações cambiais decorrentes de transacções de mercadorias de natureza específica.
+
+Art. 6.º Nas transacções de mercadorias e na realização das correspondentes operações cambiais deverá ser observado o estabelecido nas directivas monetárias em vigor quanto às moedas de facturação e liquidação.
+
+Art. 7.º - 1 - Os meios de pagamento sobre o estrangeiro adquiridos com vista à liquidação de determinada transacção de mercadorias não podem ser utilizados para fim diverso.
+
+2 - Não se concretizando, total ou parcialmente, a transacção que deu origem à aquisição dos meios de pagamento sobre o estrangeiro, devem estes ser revendidos a uma instituição de crédito até ao 15.º dia posterior à data inicialmente prevista para a expedição das mercadorias.
+
+Art. 8.º - 1 - As operações cambiais decorrentes de transacções de mercadorias devem efectuar-se até seis meses após a data de desalfandegamento.
+
+2 - Mediante aviso, o Banco de Portugal estabelecerá os termos e condições das liquidações antecipadas e, bem assim, das efectuadas decorrido o prazo previsto no número precedente.
+
+Art. 9.º - 1 - Carece de prévio parecer favorável do Banco de Portugal a exportação de mercadorias que não dê origem a operações cambiais.
+
+2 - Exceptuam-se do regime do número anterior as exportações respeitantes a:
+
+a) Artigos de propaganda e mostruários sem valor, peças e outras mercadorias remetidas em substituição de mercadorias idênticas chegadas impróprias ou avariadas e taras que devam ser posteriormente reenviadas e cujo valor não seja incluído no das mercadorias que acondicionaram;
+
+b) Artigos destinados a representações diplomáticas e consulares, quer para as suas instalações, quer para as residências oficiais dos respectivos funcionários, quer ainda para efeitos de propaganda e representação de Portugal;
+
+c) Artigos de culto religioso, material didáctico e outros bens de consumo, duradouros ou não, oferecidos a igrejas e associações religiosas e a quaisquer instituições sem fim lucrativo e destinados ao exercício das respectivas actividades;
+
+d) Quaisquer bens de consumo, duradouros ou não, oferecidos a pessoas singulares residentes no estrangeiro que, pelo seu pequeno valor, se não considerem susceptíveis de constituir objectivo de ulteriores transacções comerciais ou que, pela sua natureza, não constituam expediente visando a exportação de mercadorias.
+
+Art. 10.º Os competentes serviços alfandegários remeterão ao Banco de Portugal exemplar ou reprodução de exemplar do documento único comunitário (DU) referente às operações de exportação no prazo de cinco dias a contar da data do embarque efectivo das mercadorias.
+
+Art. 11.º - 1 - O Banco de Portugal transmitirá às instituições de crédito autorizadas a exercer o comércio de câmbios de forma plena em território nacional as instruções para a execução do disposto no presente decreto-lei.
+
+2 - As instituições de crédito referidas no número anterior ficam interditas de cobrar qualquer comissão ou taxa a título de domiciliação das operações cambiais.
+
+Art. 12.º As instituições de crédito devem remeter ao Banco de Portugal, de acordo com as instruções que por este lhes forem transmitidas, elementos de informação relacionados com as operações cambiais reguladas neste diploma.
+
+Art. 13.º A liquidação das transacções de mercadorias realizadas no âmbito da legislação anterior continua a reger-se pelo que nela se estabelecia.
+
+Art. 14.º É vedado o fraccionamento de operações de que possa resultar não sujeição ao regime do presente decreto-lei e respectivas normas regulamentares.
+
+Art. 15.º As infracções ao disposto neste decreto-lei e respectivas normas regulamentares são puníveis nos termos da legislação reguladora das infracções nos domínios monetário, cambial e financeiro.
+
+Art. 16.º São revogados os artigos 15.º a 23.º do [Decreto-Lei n.º 524/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1985-546459), de 31 de Dezembro.
+
+Art. 17.º O presente diploma produz efeitos desde 1 de Janeiro de 1988.
+
+Visto e aprovado em Conselho de Ministros de 4 de Fevereiro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins - Joaquim Martins Ferreira do Amaral.
+
+Promulgado em 6 de Maio de 1988.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 10 de Maio de 1988.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

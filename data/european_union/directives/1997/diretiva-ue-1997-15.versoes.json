@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997L0015:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997L0015-20051020",
+ "dre_path": null,
+ "source_lastmod": "2005-10-20",
+ "versions": [
+  {
+   "date": "1997-04-10",
+   "future": false,
+   "celex": "31997L0015",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fe0b5dc27ac1af64",
+    "debda51df68d4fbb",
+    "dfca480fed805f22",
+    "06f1d4746f7469c5",
+    "a83040c6d16671be",
+    "d7ced20b3d747842",
+    "231b705cb5e19791",
+    "c4aa220f788a33b6"
+   ]
+  },
+  {
+   "date": "2005-10-20",
+   "future": false,
+   "celex": "01997L0015-20051020",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime ANEXO"
+   ],
+   "fragments": [
+    "321b9e04b9367712"
+   ]
+  }
+ ],
+ "fragments": {
+  "fe0b5dc27ac1af64": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 97/15/CE da Comissão de 25 de Março de 1997 que adopta as normas Eurocontrol e altera a Directiva 93/65/CEE do Conselho relativa à definição e à utilização de especificações técnicas compatíveis para a aquisição de equipamentos e de sistemas para a gestão do tráfego aéreo (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 095 de 10/04/1997 p. 0016 - 0018*\n\nDIRECTIVA 97/15/CE DA COMISSÃO de 25 de Março de 1997 que adopta as normas Eurocontrol e altera a Directiva 93/65/CEE do Conselho relativa à definição e à utilização de especificações técnicas compatíveis para a aquisição de equipamentos e de sistemas para a gestão do tráfego aéreo (Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 93/65/CEE do Conselho, de 19 de Julho de 1993, relativa à definição e à utilização de especificações técnicas compatíveis para a aquisição de equipamentos e de sistemas para a gestão do tráfego aéreo (1), e, nomeadamente, o seu artigo 3º e o nº 2 do seu artigo 5º,\n\nConsiderando que, nos termos do artigo 3º da Directiva 93/65/CEE, a Comissão identificará e adoptará normas Eurocontrol;\n\nConsiderando que o anexo I da Directiva 93/65/CEE contém uma lista indicativa de normas Eurocontrol e que essa lista deve ser o mais completa possível;\n\nConsiderando que o anexo II da Directiva 93/65/CEE define as entidades adjudicantes responsáveis pela aquisição de equipamentos de navegação aérea e que a lista dessas entidades deve ser actualizada;\n\nConsiderando que, uma vez que o Eurocontrol adoptou duas normas, convém que essas normas sejam tornadas obrigatórias; que convém igualmente que a lista indicativa constante do anexo I seja alterada em virtude da introdução pelo Eurocontrol do programa Eatchip;\n\nConsiderando que é necessário alterar o anexo II para ter em conta as alterações notificadas pelos Estados-membros e ainda para incluir as entidades adjudicantes dos novos Estados-membros;\n\nConsiderando que as medidas previstas na presente directiva estão em conformidade com o parecer do comité instituído nos termos da Directiva 93/65/CEE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "debda51df68d4fbb": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nOs elementos obrigatórios das especificações Eurocontrol incluídos nos seguintes documentos de normas Eurocontrol são adoptados na medida em que sejam necessários à implementação de um sistema europeu integrado de gestão do tráfego aéreo:\n\n- a norma Eurocontrol para a transferência de dados em linha (OLDI), primeira edição (documento de referência Eurocontrol 001-92),\n\n- a norma Eurocontrol para a apresentação dos dados transferidos nos serviços de tráfego aéreo (ADEXP) - Air Traffic Services Data Exchange Presentation) (documento de referência Eurocontrol 002-93)."
+  },
+  "dfca480fed805f22": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nO anexo I da Directiva 93/65/CEE é substituído pelo anexo da presente directiva."
+  },
+  "06f1d4746f7469c5": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nO anexo II da directiva passa a ter a seguinte redacção:\n\n1. As entidades adjudicantes do Eurocontrol da Bélgica, da Dinamarca, da França, da Grécia, da Irlanda, da Itália, de Portugal e do Reino Unido são alteradas do seguinte modo:\n\nEUROCONTROL\n\nRue de la Fusée, 96\n\nB-1130 Bruxelles\n\nBélgica\n\nRégie des Voies Aériennes (RVA/RLW)\n\nCentre Communication Nord (CCN)\n\nrue du Progrès, 80 Bte 2\n\nB-1030 Bruxelles\n\nDinamarca\n\nStatens Luftfartsvæsen\n\n(Civil Aviation Administration)\n\nPostbox 744\n\nDK-Copenhagen SV\n\nBillund Lufthavn\n\nPO Box 10\n\nDK-7190 Billund\n\nKøbenhavns Lufthavne A/S\n\nPO Box 74\n\nFlyvervej 11\n\nDK-2770 Kastrup\n\nFrança\n\nMinistre chargé de l'aviation civile\n\nDirection générale de l'aviation civile\n\n48, rue Camille-Desmoulins\n\nF-92452 Issy les Moulineaux cedex\n\ne, no domínio das suas competências:\n\nAéroport de Paris\n\n291, Boulevard Raspail\n\nF-75675 Paris Cedex 14\n\nGrécia\n\nMinistry of Transport and Communications\n\nCivil Aviation Authority\n\nGeneral Directorate of Air Navigation\n\nwho delegates in particular to:\n\nElectronics Division\n\nVasileos Georgiou 1\n\nPO Box 73751-16604 Elliniko\n\nGR-Athens\n\nIrlanda\n\nIrish Aviation Authority,\n\nAviation House\n\nHawkins Street\n\nIRL-Dublin 2\n\nAer Rianta Cpt.\n\nDublin Airport\n\nIRL-Co. Dublin\n\nItália\n\nENAV\n\nEnte Nazionale di Assistenza al Volo\n\nVia Salaria, 715\n\nI-00138 Roma\n\nPortugal\n\nANA-EP (Empresa Pública de Aeroportos e Navegação Aérea)\n\nRua D, Edifício 120\n\nAeroporto de Lisboa\n\nP-1700 Lisboa\n\nReino Unido\n\nNational Air Traffic Services Ltd.\n\nCAA House\n\n45-59 Kingsway\n\nUK-London WC2B 6TE\n\n2. São aditadas à lista as seguintes entidades adjudicantes:\n\nÁustria\n\nAustro Control GmbH\n\nSchnirchgasse 11\n\nA-1030 Wien\n\nFinlândia\n\nIlmailulaitos/Luftfartsverket\n\n(CAA Finland)\n\nPO Box 50\n\nFIN-01531 Vantaa\n\nSuécia\n\nSwedish Civil Aviation Administration\n\nLuftfartsverket\n\nVikboplan 11\n\nS-601 79 Norrkoping"
+  },
+  "a83040c6d16671be": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 1 de Dezembro de 1997. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem estas disposições, elas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão os textos das principais disposições de direito nacional que adoptarem no domínio regido pela presente directiva. A Comissão informará do facto os restantes Estados-membros."
+  },
+  "d7ced20b3d747842": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nA presente directiva entra em vigor no vigésimo dia após a sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "231b705cb5e19791": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 25 de Março de 1997.\n\nPela Comissão\n\nNeil KINNOCK\n\nMembro da Comissão\n\n(1) JO nº L 187 de 29. 7. 1993, p. 52."
+  },
+  "c4aa220f788a33b6": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n«ANEXO I\n\nDOMÍNIOS A QUE SÃO APLICÁVEIS AS NORMAS EUROCONTROL REFERIDAS NO ARTIGO 3º\n\nLista indicativa\n\nComunicações\n\nNavegação\n\nVigilância\n\nSistemas de tratamento de dados\n\nProcedimentos para a gestão do espaço aéreo e para a gestão do tráfego aéreo\n\nRegras de trabalho e requisitos operacionais para a gestão do tráfego aéreo\n\nRecursos humanos»."
+  },
+  "321b9e04b9367712": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1997L0015 — PT — 20.10.2005 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31997L0015) [DIRECTIVA 97/15/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/31997L0015) [de 25 de Março de 1997](http://publications.europa.eu/resource/celex/31997L0015) [que adopta as normas Eurocontrol e altera a Directiva 93/65/CEE do Conselho relativa à definição e à utilização de especificações técnicas compatíveis para a aquisição de equipamentos e de sistemas para a gestão do tráfego aéreo](http://publications.europa.eu/resource/celex/31997L0015) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/31997L0015) (JO L 095, 10.4.1997, p.16)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 552/2004 do Parlamento Europeu e do Conselho de 10 de Março de 2004](http://publications.europa.eu/resource/celex/32004R0552) — L 96 — 26 — 31.3.2004"
+  }
+ }
+}

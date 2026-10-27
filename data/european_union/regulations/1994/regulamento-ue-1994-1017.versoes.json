@@ -1,0 +1,169 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31994R1017:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994R1017-20050101",
+ "dre_path": null,
+ "source_lastmod": "2005-01-01",
+ "versions": [
+  {
+   "date": "1994-05-03",
+   "future": false,
+   "celex": "31994R1017",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "48c2707ecd6e0aa9",
+    "38e192333de0f3a5",
+    "c65cb751ac23fe33",
+    "5634b1230f381fc4",
+    "543d5815f30b863e",
+    "595f2eb218aada86",
+    "69ce0fc6e605a19c",
+    "b324c663d92285fd",
+    "70a959ce3d952709",
+    "735c9b2fabc96f3e",
+    "79c6b05139a81faa",
+    "556de009abf4cc12",
+    "48853e0c67835f6f"
+   ]
+  },
+  {
+   "date": "2005-01-01",
+   "future": false,
+   "celex": "01994R1017-20050101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime ANEXO"
+   ],
+   "fragments": [
+    "d0862d209f543321"
+   ]
+  }
+ ],
+ "fragments": {
+  "48c2707ecd6e0aa9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 1017/94 do Conselho, de 26 de Abril de 1994, relativo à reconversão de terras actualmente consagradas às culturas arvenses para a produção animal extensiva em Portugal** *Jornal Oficial nº L 112 de 03/05/1994 p. 0002 - 0004 Edição especial finlandesa: Capítulo 3 Fascículo 57 p. 0033 Edição especial sueca: Capítulo 3 Fascículo 57 p. 0033*\n\nREGULAMENTO (CE) Nº 1017/94 DO CONSELHO de 26 de Abril de 1994 relativo à reconversão de terras actualmente consagradas às culturas arvenses para a produção animal extensiva em Portugal\n\nO CONSELHO DA UNIAO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, e nomeadamente, o seu artigo 43º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nConsiderando que, no âmbito da « Reforma Agrária », foram colectivizados em várias regiões de Portugal mais de um milhão de hectares de terras; que uma grande parte desta superfície foi ou está a ser entregue aos antigos proprietários ou aos seus herdeiros; que uma parte destas superfícies, antes da colectivização, estava consagrada à produção animal; que, na sequência da colectivização, a maior parte daquelas terras foi consagrada à produção de culturas arvenses; que a reconversão destas superfícies na actividade agrícola tradicional, nomeadamente a produção animal extensiva de bovinos e/ou ovinos/caprinos, como preconizada por Portugal nas regiões em causa, pressupõe, para não pôr em causa a viabilidade destas explorações, a existência de um número suficiente de direitos ao prémio previsto no artigo 4ºD do Regulamento (CEE) nº 805/68 do Conselho, de 27 de Junho de 1968, que estabelece a organização comum de mercado no sector da carne de bovino (2), e no artigo 5ºA do Regulamento (CEE) nº 3013/89 do Conselho, de 25 de Setembro de 1989, que estabelece a organização comum de mercado no sector das carnes de ovino e caprino (3); que é conveniente autorizar Portugal a realizar um programa de reconversão das referidas superfícies, colocando à sua disposição uma reserva nacional específica de direitos ao prémio; que, para não perturbar a situação do mercado em Portugal, é necessário limitar o número máximo de cabeças normais (CN) que podem ser objecto do programa de reconversão;\n\nConsiderando que o processo de colectivização das terras, dada a sua natureza e amplitude, condicionou nas regiões em causa toda a actividade agrícola e, por conseguinte, todas as explorações; que, por conseguinte, é conveniente considerar elegíveis para o programa de reconversão todas as superfícies situadas nas regiões colectivizadas;\n\nConsiderando que é necessário limitar o acesso ao programa de reconversão aos produtores de que uma parte ou todas as parcelas se situem nas regiões abrangidas pela colectivização, que preencham certas condições e se comprometam a reconverter essas parcelas na produção animal extensiva, de acordo com um nível máximo de encabeçamento por hectare reconvertido e segundo um plano de reconversão aprovado pelas autoridades competentes;\n\nConsiderando que os bovinos machos provenientes da criação de novas vacas em aleitamento instaladas no âmbito do programa de reconversão devem igualmente poder aceder ao prémio especial previsto no artigo 4ºB do Regulamento (CEE) nº 805/68, sem prejuízo dos actuais produtores; que, por conseguinte, é adequado que uma parte dos direitos ao prémio resultantes da reconversão de culturas arvenses em criação de vacas em aleitamento seja destinada ao aumento do limite regional de prémios previstos no citado regulamento;\n\nConsiderando que, para evitar abusos, é conveniente limitar a transferência e a cessão de direitos obtidos pela reconversão, bem como prever sanções para o caso de o produtor não respeitar os seus compromissos;\n\nConsiderando que o programa de reconversão deve ser limitado no tempo; que, por conseguinte, é conveniente prever que, no termo do programa sejam suprimidos a reserva específica criada pelo presente regulamento e os direitos ainda por atribuir;\n\nConsiderando que as superfícies aráveis convertidas na produção animal extensiva devem deixar de poder beneficiar de pagamentos compensatórios no âmbito do regime instituído pelo Regulamento (CEE) nº 1765/92 do Conselho, de 30 de Junho de 1992, que institui um sistema de apoio aos produtores de determinadas culturas arvenses (4); que, por conseguinte, é conveniente equiparar essas terras às pastagens permanentes referidas no artigo 9º do mesmo regulamento, por um lado, e retirar da superfície de base regional de Portugal a superfície total de terras reconvertidas, por outro lado,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "38e192333de0f3a5": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nPortugal é autorizado a realizar, durante um período de oito anos, nas regiões enumeradas em anexo, um programa de reconversão de superfícies actualmente consagradas às culturas arvenses na produção animal extensiva, até um limite de 200 000 hectares."
+  },
+  "c65cb751ac23fe33": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nSem prejuízo do artigo 4ºF do Regulamento (CEE) nº 805/68 e do artigo 5ºB do Regulamento (CEE) nº 3013/89, é atribuída a Portugal uma reserva nacional autónoma e específica, a seguir denominada « reserva específica », dotada de um número global de direitos ao prémio à vaca em aleitamento, na acepção do artigo 4ºD do Regulamento (CEE) nº 805/68, e/ou à ovelha, na acepção do artigo 5º do Regulamento (CEE) nº 3013/89, a seguir denominados « direitos ao prémio », equivalente a 100 000 cabeças normais (CN).\n\nPara efeitos do presente regulamento, a conversão de CN em direitos ao prémio será efectuada por meio do quadro de conversão constante do anexo I do Regulamento (CEE) nº 2328/91 do Conselho, de 15 de Julho de 1991, relativo à melhoria da eficácia das estruturas agrícolas (5). Para o efeito, são tidas em conta as vacas em aleitamento e os ovinos e/ou caprinos que sejam objecto de um pedido de participação no programa de reconversão."
+  },
+  "5634b1230f381fc4": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os direitos ao prémio compreendidos na reserva específica serão atribuídos aos agricultores cujas superfícies agrícolas sejam total ou parcialmente utilizadas para a produção de culturas arvenses referidas no anexo I do Regulamento (CEE) nº 1765/92. Só são elegíveis as parcelas:\n\n- situadas nas regiões enumeradas em anexo, e\n\n- relativamente às quais os produtores tenham beneficiado de pagamentos compensatórios previstos no Regulamento (CEE) nº 1765/92, e\n\n- que sejam objecto de um programa de reconversão na produção animal extensiva.\n\n2. A atribuição de direitos está sujeita à condição de que o encabeçamento nas superfícies declaradas, calculado de acordo com os nºs 1, 2 e 3 do artigo 4ºG do Regulamento (CEE) nº 805/68, seja igual ou inferior a 0,5 CN/ha.\n\n3. Por hectare reconvertido na produção animal extensiva, será atribuído um número de direitos ao prémio equivalente a 0,5 CN. Todavia, no caso de uma reconversão de superfícies para a criação de vacas em aleitamento, o número de direitos ao prémio à vaca em aleitamento a atribuir é reduzido em 25 %; os direitos não atribuídos resultantes desta redução são adicionados ao limite máximo regional respectivo, a que se refere o nº 3 do artigo 4ºB do Regulamento (CEE) nº 805/68."
+  },
+  "543d5815f30b863e": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nPara obter direitos ao prémio, cada agricultor deve apresentar um pedido, que indique nomeadamente o tipo de direitos pedidos, acompanhado de:\n\n- um plano de desenvolvimento da produção extensiva de vacas em aleitamento e/ou de ovinos e/ou caprinos, que permita à autoridade competente concluir que a reconversão estará concluída nos prazos previstos e que será respeitado o encabeçamento máximo referido no nº 2 do artigo 3º,\n\n- um compromisso de abandonar as culturas arvenses nas superfícies declaradas, em benefício da produção animal extensiva,\n\n- uma declaração de tomada de conhecimento das condições de atribuição dos direitos ao prémio"
+  },
+  "595f2eb218aada86": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nAnualmente, com base nos pedidos apresentados, as autoridades competentes decidirão do número de direitos a atribuir e do facto informarão os agricultores requerentes, o mais tardar dois meses antes do primeiro dia do primeiro período de apresentação de pedidos de prémio previsto por Portugal para as vacas em aleitamento e/ou ovinos e/ou caprinos."
+  },
+  "69ce0fc6e605a19c": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Os direitos ao prémio atribuídos nos termos do presente regulamento são adicionados aos direitos já obtidos pelo beneficiário e regidos pelas disposições a eles relativas, previstas, respectivamente, no Regulamento (CEE) nº 805/68 e no Regulamento (CEE) nº 3013/89. No entanto, estes direitos não podem ser transferidos nem cedidos temporariamente ao abrigo dos cinco anos ou campanhas seguintes à data da atribuição.\n\n2. Se as superfícies objecto de um pedido de atribuição de direitos não forem reconvertidas de acordo com o plano de desenvolvimento previsto na alínea a) do artigo 4º, os direitos atribuídos a essas superfícies serão retirados e reafectados à reserva específica."
+  },
+  "b324c663d92285fd": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nNo final do oitavo ano seguinte à entrada em vigor do presente regulamento, os direitos ao prémio não atribuídos caducam e é suprimida a reserva específica."
+  },
+  "70a959ce3d952709": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nAs autoridades portuguesas adoptarão as medidas necessárias para garantir a observância das disposições do presente regulamento. Estas medidas incluirão, nomeadamente:\n\na) A verificação da elegibilidade das superfícies declaradas;\n\nb) O controlo do abandono da produção de culturas arvenses nas superfícies declaradas e da efectiva reconversão destas na produção animal extensiva nos prazos previstos."
+  },
+  "735c9b2fabc96f3e": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. As superfícies de culturas arvenses reconvertidas no âmbito do presente regime e correspondentes ao conjunto dos pedidos admissíveis durante cada campanha serão deduzidas, a partir da campanha seguinte, da superfície de base regional ou, se for caso disso, individual, prevista nos nºs 2 ou 3 do artigo 2º do Regulamento (CEE) nº 1765/92. As autoridades portuguesas comunicarão anualmente à Comissão a soma da totalidade das superfícies convertidas, de modo a permitir a modificação, em tempo útil, da superfície de base regional.\n\n2. As superfícies de culturas arvenses reconvertidas serão equiparadas às pastagens permanentes, previstas no artigo 9º do Regulamento (CEE) nº 1765/92."
+  },
+  "79c6b05139a81faa": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nSempre que necessário, a Comissão adoptará as modalidades de aplicação do presente regulamento, de acordo com o procedimento previsto no artigo 27º do Regulamento (CEE) nº 805/68 e no artigo 30º do Regulamento (CEE) nº 3013/89."
+  },
+  "556de009abf4cc12": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito no Luxemburgo, em 26 de Abril de 1994.\n\nPelo Conselho\n\nO Presidente\n\nG. MORAITIS\n\n(1) Parecer emitido em 22 de Abril de 1994 (ainda não publicado no Jornal Oficial).\n\n(2) JO nº L 148 de 28. 6. 1968, p. 24. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) nº 3611/93 (JO nº L 328 de 29. 12. 1993, p. 7).\n\n(3) Jo nº L 289 de 7. 10. 1989, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) nº 233/94 (JO nº L 30 de 3. 2. 1994, p. 9).\n\n(4) JO nº L 181 de 1. 7. 1992, p. 12. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) nº 231/94 (JO nº L 30 de 3. 2. 1994, p. 2).\n\n(5) JO nº L 218 de 6. 8. 1991, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) nº 3669/93 (JO nº L 338 de 31. 12. 1993, p. 26)."
+  },
+  "48853e0c67835f6f": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nRegiões a que se refere o artigo 1º Distritos de Castelo Branco, Santarém, Lisboa, Setúbal, Évora, Beja, Faro e Portalegre."
+  },
+  "d0862d209f543321": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1994R1017 — PT — 01.01.2005 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31994R1017) [REGULAMENTO (CE) N.º 1017/94 DO CONSELHO](http://publications.europa.eu/resource/celex/31994R1017) [de 26 de Abril de 1994](http://publications.europa.eu/resource/celex/31994R1017) [relativo à reconversão de terras actualmente consagradas às culturas arvenses para a produção animal extensiva em Portugal](http://publications.europa.eu/resource/celex/31994R1017) (JO L 112, 3.5.1994, p.2)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1782/2003 do Conselho de 29 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1782) — L 270 — 1 — 21.10.2003"
+  }
+ }
+}

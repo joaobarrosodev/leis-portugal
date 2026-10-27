@@ -1,0 +1,18 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992R0900:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R0900-19920413",
+ "dre_path": null,
+ "source_lastmod": "1992-04-13",
+ "versions": [
+  {
+   "date": "1992-04-10",
+   "future": false,
+   "celex": "31992R0900",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  }
+ ],
+ "fragments": {}
+}

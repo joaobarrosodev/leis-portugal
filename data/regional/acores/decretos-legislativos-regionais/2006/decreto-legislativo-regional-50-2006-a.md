@@ -1,0 +1,424 @@
+---
+schema_version: '1.0'
+id: pt:dre:545592:por
+title: Decreto Legislativo Regional n.º 50/2006/A
+short_title: null
+summary: Estabelece o regime jurídico da bolsa de emprego público da Região Autónoma dos Açores, designada por BEP - Açores
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 50/2006/A
+official_date: null
+publication_date: '2006-12-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 237/2006, Série I de 2006-12-12
+  number: '237'
+  series: I
+  supplement: null
+  pages: 8338 - 8341
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/12/23700/83388341.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-12-31'
+version_history:
+  file: decreto-legislativo-regional-50-2006-a.versoes.json
+  count: 5
+  source_lastmod: '2024-08-22'
+  versions:
+  - date: '2006-12-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-12-11'
+    amending: pt:dre:628777:por
+    amending_title: Decreto Legislativo Regional n.º 27/2007/A
+    changes:
+    - Altera Artigo 5.º
+  - date: '2008-07-25'
+    amending: pt:dre:454504:por
+    amending_title: Decreto Legislativo Regional n.º 27/2008/A
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+  - date: '2009-10-15'
+    amending: pt:dre:491435:por
+    amending_title: Decreto Legislativo Regional n.º 17/2009/A
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 10.º
+  - date: '2024-12-31'
+    amending: pt:dre:901536098:por
+    amending_title: Decreto Legislativo Regional n.º 15/2024/A
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/50/2006/a/cons/20241230/pt/html
+  oj: null
+  dre: '545592'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/50-2006-545592
+  internal: pt:dre:545592:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/50-2006-545592
+  metadata_url: https://data.dre.pt/eli/declegreg/50/2006/a/cons/20241230/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-885358459
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-885358459
+  retrieved_at: '2026-10-22T13:12:47Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-08-22T00:00:00Z'
+integrity:
+  source_sha256: 28752a23f7ba1e62072baf42713625162de53a6f045ef8f3f5eddc5e4666addb
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:12:47Z'
+  notes: 5 versão(ões); histórico completo em decreto-legislativo-regional-50-2006-a.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Função Pública
+- Concurso
+- Administração Pública
+- Bolsa de Emprego Público
+- Quadro Regional de ILHA
+- Recrutamento de Pessoal
+- Base de Dados
+- Sistema de Informação
+- Administração Local
+- Regime Jurídico
+- Mobilidade de Pessoal
+- Funcionário Público
+- Administração Regional
+- Gestão de Recursos Humanos
+- Açores
+relationships:
+- type: amended_by
+  target: pt:dre:628777:por
+  label: Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2007-628777
+  date: '2007-12-10'
+- type: amended_by
+  target: pt:dre:454504:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 9.º; Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2008-454504
+  date: '2008-07-24'
+- type: amended_by
+  target: pt:dre:491435:por
+  label: Altera Artigo 5.º; Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435
+  date: '2009-10-14'
+- type: amended_by
+  target: pt:dre:901536098:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º;
+    Altera Artigo 11.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2024-901536098
+  date: '2024-12-30'
+- type: cites
+  target: pt:dre:261502:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/19/2004/06/01/a/dre
+article_structure:
+  article_count: 17
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:12:47Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 50/2006/A
+
+Decreto Legislativo Regional n.º 50/2006/A
+
+Bolsa de emprego público - Açores
+
+Com a criação da bolsa de emprego público da administração pública regional da Região Autónoma dos Açores, designada por BEP - Açores, pretendeu-se constituir uma base de informação que tem por objectivo dinamizar os processos de divulgação e publicitação das oportunidades de recrutamento e de mobilidade geográfica, interdepartamental e profissional dos recursos humanos da administração pública regional mediante a previsão de mecanismos que, simplificando e organizando aqueles procedimentos, permitam contribuir para uma melhor e mais eficaz gestão dos recursos humanos com reflexos na qualidade dos serviços prestados ao cidadão.
+
+A alteração introduzida no presente diploma ao funcionamento da BEP - Açores visa constituir um instrumento privilegiado de divulgação das oportunidades de emprego na medida em que a divulgação e publicitação entre a oferta e a procura de emprego público na Região Autónoma dos Açores passa a fazer-se naquela bolsa.
+
+Esta medida traduz-se numa profunda alteração no procedimento administrativo e enquadra-se no âmbito da sociedade de informação na medida em que toda a informação relativa ao emprego público na Região passa a estar disponibilizada aos potenciais utilizadores através da Internet. E com vista à prossecução daquele desiderato o Governo Regional facilitará o acesso à Internet.
+
+Para além de esta importante medida se reflectir directamente nos cidadãos, facilitando a acessibilidade às ofertas de emprego público, irá permitir à administração regional autónoma dos Açores reduzir de forma substancial os encargos inerentes ao processo.
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma estabelece o regime jurídico da bolsa de emprego público da Região Autónoma dos Açores, doravante designada por BEP - Açores.
+
+###### Artigo 2.º — Natureza
+
+1 - A BEP-Açores é uma base de informação que visa simplificar e agilizar a divulgação e tramitação dos processos de recrutamento, de mobilidade geográfica, entre quadros regionais de ilha, interdepartamental e profissional e de reafectação dos recursos humanos da administração pública regional.
+
+2 - A publicitação dos procedimentos concursais assim como as demais situações referidas no artigo 5.º são obrigatoriamente efectuadas na BEP-Açores.
+
+3 - Sem prejuízo do disposto na primeira parte do número anterior, os serviços podem publicitar aqueles procedimentos concursais, por extrato, através de outros meios de divulgação, designadamente, em jornal de expansão regional ou nacional, quando o considerarem oportuno.
+
+> Alterado pelo/a Artigo 73.º do/a [Decreto Legislativo Regional n.º 15/2024/A - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2024-901536098), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 27/2008/A - Diário da República n.º 142/2008, Série I de 2008-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2008-454504), em vigor a partir de 2008-07-25
+
+###### Artigo 3.º — Âmbito de aplicação
+
+1 - O presente diploma aplica-se aos serviços e organismos da Assembleia Legislativa e da administração regional autónoma, da Região Autónoma dos Açores, incluindo os institutos públicos regionais, nas modalidades de serviços personalizados, de estabelecimentos públicos e de fundos públicos.
+
+2 - A aplicação do presente diploma aos serviços da Assembleia Legislativa da Região Autónoma dos Açores faz-se com as adaptações impostas pela observância das correspondentes competências.
+
+3 - As autarquias locais da Região Autónoma dos Açores podem utilizar a BEP - Açores mediante a celebração de um protocolo com o membro do Governo Regional com competência na área da administração pública.
+
+4 - Os hospitais EPER podem utilizar a BEP-Açores para efeitos de divulgação das ofertas de emprego e, ou, respetivos procedimentos de seleção, com as devidas adaptações.
+
+> Alterado pelo/a Artigo 73.º do/a [Decreto Legislativo Regional n.º 15/2024/A - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2024-901536098), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 27/2008/A - Diário da República n.º 142/2008, Série I de 2008-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2008-454504), em vigor a partir de 2008-07-25
+
+###### Artigo 4.º — Entidade gestora
+
+A gestão da BEP - Açores compete ao departamento do Governo com competência na área da administração pública.
+
+###### Artigo 5.º — Conteúdo
+
+1 - A BEP-Açores contém o registo e divulgação de:
+
+a) Os procedimentos concursais referidos no diploma que regula os regimes de vinculação, carreiras e remunerações dos trabalhadores que exercem funções públicas;
+
+b) Necessidades de recrutamento de pessoal por recurso aos mecanismos de mobilidade;
+
+c) Pessoal interessado em mudança de local de trabalho, de serviço ou de carreira;
+
+d) (Revogada.)
+
+e) Outras informações respeitantes a processos de recrutamento ou de mobilidade na Administração Pública.
+
+2 - A BEP-Açores contém, também, o registo e divulgação de:
+
+a) Despachos conjuntos de afectação dos trabalhadores integrados nos quadros de ilha;
+
+b) Despachos de consolidação da mobilidade interna, na categoria, dos trabalhadores da administração local, com relação jurídica de emprego público por tempo indeterminado, nos serviços e organismos da administração pública regional;
+
+c) As consolidações de mobilidades de trabalhadores com relação jurídica de emprego público por tempo indeterminado, nos termos da Lei Geral do Trabalho em Funções Públicas, nos serviços e organismos da administração pública regional;
+
+d) Despachos de afectação do respectivo membro do Governo Regional quando a afectação se efectivar dentro do mesmo departamento do Governo e no mesmo quadro regional de ilha;
+
+e) Lista de afectação dos trabalhadores integrados em quadros regionais de ilha;
+
+f) Os actos de nomeação, bem como os que determinam, relativamente aos trabalhadores nomeados, mudanças definitivas de órgãos ou serviços e, ou, de categoria;
+
+g) O contrato de trabalho por tempo indeterminado, bem como os que determinam, relativamente aos trabalhadores nomeados, mudanças definitivas de órgãos ou serviços e, ou, de categoria e, ainda, os contratos a termo resolutivo, certo ou incerto, e as respectivas renovações;
+
+h) As comissões de serviço;
+
+i) Os actos de cessação das modalidades da relação jurídica de emprego público referidas nas alíneas anteriores;
+
+j) As alterações dos posicionamentos remuneratórios;
+
+l) As listas nominativas de transição;
+
+m) Os contratos de prestação de serviços;
+
+n) A lista de antiguidade dos trabalhadores que exercem funções públicas, nos termos da legislação em vigor.
+
+3 - A BEP-Açores dá suporte à tramitação dos procedimentos de recrutamento na administração pública regional.
+
+4 - O registo da informação na BEP-Açores compete:
+
+a) A cada serviço utilizador, nos casos das alíneas a) e b) do n.º 1, c), d), f) a j), m) e n) do n.º 2 e do n.º 3;
+
+b) Ao membro do Governo Regional com competência em matéria de administração pública, no caso das alíneas e) do n.º 1 e a), b), e) e l) do n.º 2;
+
+c) Aos interessados, nos casos previstos na alínea c) do n.º 1.
+
+> Alterado pelo/a Artigo 73.º do/a [Decreto Legislativo Regional n.º 15/2024/A - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2024-901536098), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 17/2009/A - Diário da República n.º 199/2009, Série I de 2009-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), em vigor a partir de 2009-10-15
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 27/2008/A - Diário da República n.º 142/2008, Série I de 2008-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2008-454504), em vigor a partir de 2008-07-25
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 27/2007/A - Diário da República n.º 237/2007, Série I de 2007-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2007-628777), em vigor a partir de 2007-12-11
+
+###### Artigo 6.º — Suporte e disponibilização
+
+1 - A BEP - Açores tem como suporte uma aplicação informática disponibilizada através da Internet, sem prejuízo da utilização de outros suportes.
+
+2 - O registo e divulgação na BEP - Açores substitui, quando legalmente exigida, a publicação em jornal oficial ou órgão de comunicação social.
+
+###### Artigo 7.º — Estrutura da informação institucional
+
+1 - A informação constante da BEP - Açores é estruturada, a nível geográfico, por ilha e concelho, a nível orgânico, por referência à Assembleia Legislativa ou ao departamento do Governo, serviço ou organismo de ilha ou instituto público regional e, a nível funcional, por carreira, categoria e área funcional.
+
+2 - A divulgação das necessidades de recrutamento identifica o tipo de instrumento de mobilidade a utilizar, o serviço, a carreira, a categoria e a remuneração correspondente, o local de trabalho, através da localidade e concelho, os requisitos habilitacionais e profissionais, o número de postos de trabalho a preencher, o conteúdo funcional e eventuais condições preferenciais para o desempenho.
+
+3 - A divulgação do procedimento concursal identifica o tipo de procedimento, o serviço, a categoria e carreira, a remuneração, o local de trabalho, através da localidade e concelho, os requisitos de admissão, o número de lugares a prover, o conteúdo funcional, quando exigido, o prazo de entrega de candidaturas, os requisitos habilitacionais e profissionais, a referência expressa aos requisitos de nacionalidade, bem como à quota a preencher por pessoas com deficiência, e o prazo de duração do contrato a termo resolutivo, quando aplicável.
+
+4 - Os despachos de afetação dos trabalhadores integrados nos quadros regionais de ilha, e os despachos de consolidação da mobilidade interna na categoria, dos trabalhadores da administração local, nos serviços e organismos da administração pública regional, são publicados na sua versão integral.
+
+5 - A lista de afectação dos trabalhadores integrados nos quadros regionais de ilha contém o nome do trabalhador, a categoria e carreira onde se encontra integrado, o serviço ou organismo a que se encontra afecto e respectivo início de funções, bem como o quadro regional de ilha a que pertence.
+
+6 - Dos atos e contratos a que se referem as alíneas c) e f) a j) do n.º 2 do artigo 5.º constam a indicação da carreira, categoria e posição remuneratória do nomeado ou contratado ou, sendo o caso, a função a desempenhar e respetiva retribuição, bem como o respetivo prazo, sendo publicitados através de extrato.
+
+7 - Os contratos de prestação de serviço são publicitados através de extracto.
+
+> Alterado pelo/a Artigo 73.º do/a [Decreto Legislativo Regional n.º 15/2024/A - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2024-901536098), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 27/2008/A - Diário da República n.º 142/2008, Série I de 2008-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2008-454504), em vigor a partir de 2008-07-25
+
+###### Artigo 8.º — Estrutura da informação individual
+
+1 - O pessoal interessado na mudança de local de trabalho, de serviço ou de carreira preenche um formulário de identificação profissional de acordo com modelo disponível em formato electrónico, especificando a carreira e categoria, as habilitações literárias e profissionais, a remuneração auferida e o local de trabalho pretendido, através da indicação de uma ou mais localidades e ou concelhos dos serviços da sua preferência, devendo ainda identificar-se através do nome completo, da data de nascimento, da morada, do número de telefone e do endereço electrónico.
+
+2 - Os dados de identificação referidos no número anterior são divulgados pela BEP - Açores apenas com autorização do interessado, podendo este desde logo optar por divulgar todos ou alguns daqueles dados.
+
+3 - A candidatura a procedimento concursal de recrutamento, submetida na BEP-Açores, é efetuada mediante o preenchimento dos respetivos formulários tipo, disponíveis em suporte eletrónico.
+
+> Alterado pelo/a Artigo 73.º do/a [Decreto Legislativo Regional n.º 15/2024/A - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2024-901536098), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+###### Artigo 9.º — Obrigatoriedade do registo e duração
+
+1 - É obrigatório o registo na BEP-Açores da informação a que se referem a alínea a) do n.º 1 e as alíneas do n.º 2 do artigo 5.º, com a estrutura mencionada no artigo 7.º, sem prejuízo do disposto nos n.os 2 e 4 do artigo 3.º
+
+2 - É igualmente obrigatório o registo na BEP-Açores da informação a que se refere a alínea b) do n.º 1 do artigo 5.º
+
+3 - São nulos os procedimentos feitos com preterição do disposto nos números anteriores, sem prejuízo da responsabilidade civil e disciplinar que ao caso couber.
+
+4 - A contagem de prazos para efeitos de apresentação de candidaturas inicia-se no dia seguinte ao da publicação do respectivo aviso na BEP - Açores.
+
+5 - A informação é disponibilizada na BEP-Açores:
+
+a) Com carácter permanente, toda a informação respeitante aos n.os 1 e 2 do presente artigo;
+
+b) A informação respeitante à alínea c) do n.º 1 do artigo 5.º, pelo período de 90 dias seguidos, sem prejuízo de poder ser renovada através de instruções expressas do interessado.
+
+6 - O disposto no número anterior não impede a eliminação da informação em prazo inferior quando esta tenha perdido utilidade ou por iniciativa do interessado.
+
+7 - A informação relativa ao procedimento concursal, registada na BEP-Açores, é igualmente disponibilizada com carácter de permanência, com exceção da documentação apresentada pelos candidatos, cuja eliminação obedece aos prazos definidos na regulamentação própria.
+
+> Alterado pelo/a Artigo 73.º do/a [Decreto Legislativo Regional n.º 15/2024/A - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2024-901536098), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 27/2008/A - Diário da República n.º 142/2008, Série I de 2008-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2008-454504), em vigor a partir de 2008-07-25
+
+###### Artigo 10.º — Esgotamento dos mecanismos de mobilidade
+
+1 - Os serviços ou organismos da administração regional autónoma só poderão recorrer ao procedimento concursal após a observância das seguinte condições:
+
+a) Consultar os pedidos de mobilidade na BEP - Açores, contactando directamente os funcionários ou agentes que reúnam o perfil pretendido;
+
+b) Se não for possível encontrar um trabalhador com o perfil pretendido ou não existir qualquer pedido de mobilidade naquela bolsa, o serviço ou organismo deve inscrever na BEP - Açores uma oferta de mobilidade, disponibilizando-a pelo período de cinco dias seguidos, aguardando o contacto de trabalhadores eventualmente interessados.
+
+2 - A inexistência de funcionários ou agentes com o perfil pretendido nos termos do número anterior deverá ser devidamente fundamentado.
+
+3 - A prova de que foi efectuada consulta aos pedidos de mobilidade é realizada através da impressão da consulta e informação das diligências efectuadas junto dos funcionários ou agentes contactados na sequência da mesma.
+
+4 - A prova de que foi disponibilizada na BEP - Açores a oferta de emprego por mobilidade é efectuada através da impressão do respectivo suporte informático da oferta.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), produz efeitos a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 17/2009/A - Diário da República n.º 199/2009, Série I de 2009-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), em vigor a partir de 2009-10-15
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 27/2008/A - Diário da República n.º 142/2008, Série I de 2008-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2008-454504), em vigor a partir de 2008-07-25
+
+###### Artigo 11.º — Registo e acesso à bolsa
+
+1 - O registo da informação na BEP - Açores, institucional ou individual, depende de obtenção prévia do correspondente código de acesso, a atribuir pelo departamento do Governo com competência em matéria de administração pública.
+
+2 - A BEP - Açores é de consulta directa, possibilitando o acesso à estrutura de informação referida no artigo 7.º
+
+3 - A informação individual constante dos n.os 1 e 3 do artigo 8.º é de acesso restrito aos serviços e entidades referidos no artigo 3.º
+
+> Alterado pelo/a Artigo 73.º do/a [Decreto Legislativo Regional n.º 15/2024/A - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2024-901536098), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+###### Artigo 12.º — Entidade responsável
+
+1 - Ao departamento do Governo com competência em matéria de administração pública, enquanto entidade gestora da BEP - Açores, compete especialmente:
+
+a) Disponibilizar os recursos técnicos indispensáveis à estruturação e correcto funcionamento da BEP - Açores, satisfazendo os necessários requisitos de actualização, segurança e acessibilidade;
+
+b) Definir e assegurar os procedimentos adequados à salvaguarda da confidencialidade dos dados pessoais;
+
+c) Efectuar os registos de informação que lhe estejam confiados;
+
+d) Garantir e controlar a qualidade da informação disponibilizada através da BEP - Açores, recusando ou eliminando registos ou informação irrelevante, desactualizada ou inadequada aos objectivos daquela bolsa, gerindo a emissão e controlo dos códigos de acesso para registo de informação;
+
+e) Emitir documentos comprovativos dos resultados das pesquisas efectuadas quando solicitados pelos serviços utilizadores;
+
+f) Facultar o acesso à BEP-Açores aos serviços e entidades referidas no artigo 3.º e ao pessoal que, para os efeitos dos n.os 1 e 3 do artigo 8.º, a ela pretenda aceder;
+
+g) Recusar o acesso à BEP - Açores a pessoas ou entidades que a ela não devam ter acesso ou que dela façam uso inadequado;
+
+h) Proceder ao tratamento estatístico da informação registada na BEP - Açores, incluindo, nomeadamente, o número de ofertas de emprego e de candidatos admitidos e não admitidos, desagregados por sexo;
+
+i) Promover a utilização da BEP - Açores;
+
+j) Disponibilizar um serviço de apoio aos utilizadores;
+
+l) Acompanhar o funcionamento da BEP - Açores e elaborar relatórios periódicos da sua actividade e resultados.
+
+2 - Os relatórios a que se refere a alínea l) do número anterior são de acesso não condicionado e divulgados no site da BEP - Açores.
+
+> Alterado pelo/a Artigo 73.º do/a [Decreto Legislativo Regional n.º 15/2024/A - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2024-901536098), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01
+
+###### Artigo 13.º — Direitos e garantias individuais
+
+A qualquer pessoa, desde que devidamente identificada, é reconhecido o direito de conhecer o conteúdo do registo ou registos da base de dados que lhe respeitem, bem como o de exigir a correcção das informações nela contidas e o complemento das total ou parcialmente omissas.
+
+###### Artigo 14.º — Regulamentação
+
+Serão objecto de regulamentação, a aprovar por despacho do membro do Governo Regional responsável pela administração pública, a definição dos formulários electrónicos de recolha de dados, bem como das normas de segurança a adoptar.
+
+###### Artigo 15.º — Norma de prevalência
+
+O regime estabelecido no presente diploma prevalece sobre quaisquer normas que disponham em contrário quanto à mesma matéria.
+
+###### Artigo 16.º — Entrada em funcionamento
+
+A BEP - Açores com as competências estabelecidas neste diploma entra em funcionamento no prazo máximo de dois meses após a entrada em vigor do presente diploma.
+
+###### Artigo 17.º — Norma revogatória
+
+Com a entrada em funcionamento da BEP - Açores é revogado o Decreto Legislativo Regional n.º 19/2004/A, de 1 de Junho.
+
+Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 26 de Outubro de 2006.
+
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
+
+Assinado em Angra do Heroísmo em 21 de Novembro de 2006.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma dos Açores, José António Mesquita.

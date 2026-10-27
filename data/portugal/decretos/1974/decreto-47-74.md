@@ -1,0 +1,119 @@
+---
+schema_version: '1.0'
+id: pt:dre:407497:por
+title: Decreto n.º 47/74
+short_title: null
+summary: Autoriza a Comissão Administrativa das Novas Instalações para as Forças Armadas a celebrar contrato para a execução
+  da empreitada de construção do edifício para aulas, camaratas e arrecadações gerais dos cursos de oficiais e sargentos da
+  Escola Prática de Artilharia, em Vendas Novas
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Obras Públicas - Comissão Administrativa das Novas Instalações para as Forças Armadas
+proposing_entity: null
+official_number: 47/74
+official_date: null
+publication_date: '1974-02-14'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 38/1974, Série I de 1974-02-14
+  number: '38'
+  series: I
+  supplement: null
+  pages: 224 - 225
+  pdf_url: https://files.diariodarepublica.pt/1s/1974/02/03800/02240225.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '407497'
+  dre_path: /dr/detalhe/decreto/47-1974-407497
+  internal: pt:dre:407497:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/47-1974-407497
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47-1974-407497
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:34:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 86f280dbb514b3c0cf1842e70ec34a8e056cd68a607a1982fcc7a318187b75dc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:34:44Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527418:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:34:44Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 47/74
+
+de 14 de Fevereiro
+
+Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48234-1968-233363), de 31 de Janeiro de 1968;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º É autorizada a Comissão Administrativa das Novas Instalações para as Forças Armadas a celebrar contrato para a execução da empreitada de construção do edifício para aulas, camaratas e arrecadações gerais dos cursos de oficiais e sargentos milicianos da Escola Prática de Artilharia, em Vendas Novas, pela importância de 19266489$00.
+
+Art. 2.º - 1. O encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder as seguintes quantias:
+
+Em 1974 ... 5000000$00
+
+Em 1975 ... 4864699$00
+
+O remanescente, no valor de 9401790$00, foi adiantado ao adjudicatário, nos termos do artigo 188.º do [Decreto-Lei n.º 48871](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48871-1969-527418), de 19 de Fevereiro de 1969.
+
+2. A importância fixada para o ano seguinte será acrescida do saldo apurado no ano que lhe antecede.
+
+Marcello Caetano Manuel - Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches.
+
+Promulgado em 4 de Fevereiro de 1974.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -1,0 +1,367 @@
+---
+schema_version: '1.0'
+id: pt:dre:519187:por
+title: Decreto-Lei n.º 51/2007
+short_title: null
+summary: Regula as práticas comerciais das instituições de crédito e assegura a transparência da informação por estas prestada
+  no âmbito da celebração de contratos de crédito para aquisição, construção e realização de obras em habitação própria permanente,
+  secundária ou para arrendamento, bem como para aquisição de terrenos para construção de habitação própria
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia e da Inovação
+proposing_entity: null
+official_number: 51/2007
+official_date: null
+publication_date: '2007-03-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 47/2007, Série I de 2007-03-07
+  number: '47'
+  series: I
+  supplement: null
+  pages: 1481 - 1483
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/03/04700/14811483.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2018-01-01'
+version_history:
+  file: decreto-lei-51-2007.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2007-03-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-06-28'
+    amending: pt:dre:448970:por
+    amending_title: Decreto-Lei n.º 88/2008
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Entrada Vigor Diploma
+  - date: '2009-10-16'
+    amending: pt:dre:493693:por
+    amending_title: Decreto-Lei n.º 192/2009
+    changes:
+    - Adita Artigo 14.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 9.º
+    - Entrada Vigor Diploma
+  - date: '2013-01-16'
+    amending: pt:dre:192421:por
+    amending_title: Decreto-Lei n.º 226/2012
+    changes:
+    - Altera Artigo 1.º
+    - Entrada Vigor Diploma
+  - date: '2018-01-01'
+    amending: pt:dre:107561581:por
+    amending_title: Decreto-Lei n.º 74-A/2017
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/51/2007/p/cons/20170623/pt/html
+  oj: null
+  dre: '519187'
+  dre_path: /dr/detalhe/decreto-lei/51-2007-519187
+  internal: pt:dre:519187:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2007-519187
+  metadata_url: https://data.dre.pt/eli/dec-lei/51/2007/p/cons/20170623/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-34523675
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-34523675
+  retrieved_at: '2026-10-22T11:48:45Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: aa9986bd0caa663e434824f822045ed2106a068a1e0ee2f07232d13f37cb2738
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:48:45Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-51-2007.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Imóveis
+- Instituição de Crédito
+- Construção Civil
+- Contra-ordenação
+- Crédito à Habitação
+- Fiscalização
+- Crédito Bancário
+- Habitação
+- Arrendamento Urbano para Habitação
+- Comércio
+relationships:
+- type: amended_by
+  target: pt:dre:448970:por
+  label: Altera Artigo 4.º; Altera Artigo 7.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2008-448970
+  date: '2008-05-29'
+- type: amended_by
+  target: pt:dre:493693:por
+  label: Adita Artigo 14.º-A; Altera Artigo 1.º; Altera Artigo 9.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2009-493693
+  date: '2009-08-17'
+- type: amended_by
+  target: pt:dre:192421:por
+  label: Altera Artigo 1.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2012-192421
+  date: '2012-10-18'
+- type: amended_by
+  target: pt:dre:107561581:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581
+  date: '2017-06-23'
+- type: cites
+  target: pt:dre:218727:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/220/1994/08/23/p/dre
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
+article_structure:
+  article_count: 17
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:48:45Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 51/2007
+
+A consagração legislativa de boas práticas bancárias, bem como a uniformização de procedimentos por todas as instituições de crédito, constitui um desiderato considerado essencial para o Governo, não só na perspectiva de assegurar uma maior transparência nas relações contratuais entre aquelas instituições e os seus clientes, mas também como incentivo a uma concorrência mais salutar do sector bancário.
+
+O crédito à habitação é actualmente uma área do mercado especialmente atractiva para as instituições de crédito, procurando cada uma delas captar o maior universo de clientes, através do recurso à publicidade dos seus produtos e serviços.
+
+Actualmente a publicidade ao crédito à habitação, enquanto instrumento da concorrência, é veiculada de forma mais criativa e agressiva para os consumidores, conferindo uma maior visibilidade às variáveis que as instituições de crédito consideram mais apelativas para os seus clientes, designadamente a atribuição de condições promocionais pela instituição de crédito no início do contrato em detrimento de outras componentes que são contabilizadas para efeitos de montante global da concessão de crédito, como seja o cálculo da taxa anual efectiva (TAE), a que se refere o Decreto-Lei n.º 220/94, de 23 de Agosto. A TAE corresponde a todos os custos associados ao empréstimo, nomeadamente as comissões bancárias, juros, despesas de avaliação e de análise do processo, além do montante e do prazo de duração do mesmo.
+
+Constata-se igualmente que são aplicados pelas instituições critérios diferenciados na contagem do cálculo de juros aplicados nos referidos contratos.
+
+Por seu lado, as elevadas comissões aplicadas no reembolso antecipado total ou parcial dos contratos de crédito tem permitido às instituições de crédito fidelizar por longo período de tempo os seus clientes, criando entraves a uma sadia concorrência do mercado. Esta prática onera o consumidor e cria obstáculos nas situações em que o mesmo pretende transferir o seu crédito para outra instituição ou pretende efectuar o reembolso definitivo do contrato de crédito.
+
+A Autoridade da Concorrência pronunciou-se sobre esta matéria e refere no seu parecer que «A comissão de amortização antecipada é uma mais-valia para o banco como vertente geradora de receita e como instrumento de fidelização do cliente. Contudo, ambas as vertentes podem implicar uma redução da concorrência com correspondente diminuição do bem-estar do consumidor. Estes encargos podem ser vistos como representando de per se uma fonte de poder de mercado, colocando limites à concorrência». Este parecer refere, ainda, que «a comissão de amortização antecipada não é o único custo de mudança de cariz financeiro associada à transferência do crédito à habitação. A mera introdução de um preço máximo para a comissão de amortização antecipada pode ser inconsequente se as instituições financeiras compensarem a perda de receita resultante da redução dessa comissão com o aumento das restantes comissões ou com a criação de comissões adicionais para o cliente».
+
+Com as regras estabelecidas no presente diploma, a comissão a cobrar pelas instituições de crédito nas situações de reembolso parcial ou total não pode exceder 0,5% a aplicar sobre o capital a reembolsar, nos contratos celebrados no regime de taxa variável, e 2% nos contratos celebrados no regime de taxa fixa, quer para os contratos de crédito à habitação que venham a ser celebrados, quer para aqueles que se encontram em execução à data da sua entrada em vigor, ressalvando, neste último caso, os reembolsos já efectuados ou as situações em que tenha sido contratada pelas partes uma comissão de valor inferior à ora estabelecida ou que tenha havido lugar a isenção da mesma.
+
+O crédito para aquisição ou construção de habitação própria é, em Portugal, a principal causa de endividamento das famílias e constitui um motivo de preocupação na prevenção do sobreendividamento, pelo que o Governo decide legislar no sentido de conferir aos contratos de crédito para aquisição, construção e realização de obras em habitação própria permanente, secundária ou para arrendamento, bem como para aquisição de terrenos para construção de habitação própria, e à publicidade aos mesmos, um maior grau de transparência, nomeadamente no que respeita ao cálculo da TAE aplicada pela instituição de crédito.
+
+Para além deste aspecto, o Governo decide legislar no sentido de uniformizar os critérios utilizados na contagem do cálculo de juros, a qual deve ter por referência 365 dias.
+
+Deste modo, é clarificada a forma de cálculo da TAE, que passa a abranger, entre outros elementos, as condições promocionais atribuídas pelas instituições de crédito; são fixados o prazo para a contagem do cálculo dos juros e o valor da comissão a aplicar nas situações de reembolso parcial ou total ou de transferência do crédito para outra instituição; são ainda reforçados o direito à informação dos consumidores e as regras sobre a publicidade ao crédito à habitação.
+
+Foi promovida a consulta ao Conselho Nacional do Consumo e à Associação Portuguesa de Consumidores e Utilizadores de Serviços Financeiros (SEFIN).
+
+Foi ouvido o Banco de Portugal.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei regula as práticas comerciais das instituições de crédito e assegura a transparência da informação por estas prestada no âmbito da celebração, da renegociação e da transferência dos contratos de crédito para aquisição, construção e realização de obras em habitação própria permanente, secundária ou para arrendamento, bem como para aquisição de terrenos para construção de habitação própria.
+
+2 - As regras previstas neste decreto-lei aplicam-se, ainda, aos contratos de crédito cuja garantia hipotecária incida, total ou parcialmente, sobre um imóvel que simultaneamente garanta um contrato de crédito celebrado com a mesma instituição para os fins indicados no número anterior.
+
+3 - O presente decreto-lei aplica-se ainda aos contratos de crédito garantidos por hipoteca sobre coisa imóvel ou por outro direito sobre coisa imóvel, não abrangidos pelos números anteriores, e que sejam celebrados com pessoas singulares que atuem com objetivos alheios à sua atividade comercial ou profissional.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 74-A/2017 - Diário da República n.º 120/2017, 1º Suplemento, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 226/2012 - Diário da República n.º 202/2012, Série I de 2012-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2012-192421), em vigor a partir de 2013-01-16, produz efeitos a partir de 2013-01-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 192/2009 - Diário da República n.º 158/2009, Série I de 2009-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2009-493693), em vigor a partir de 2009-10-16
+
+###### Artigo 2.º — Âmbito
+
+O disposto no presente decreto-lei aplica-se aos contratos de crédito referidos no artigo anterior que venham a ser celebrados após a sua entrada em vigor, bem como aos contratos que se encontrem em execução à mesma data, ressalvados, neste último caso, o cálculo da taxa anual efectiva (TAE), o cálculo de juros e os reembolsos antecipados já efectuados.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 74-A/2017 - Diário da República n.º 120/2017, 1º Suplemento, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), em vigor a partir de 2018-01-01
+
+###### Artigo 3.º — Taxa anual efectiva
+
+1 - A TAE dos contratos previstos no artigo 1.º deste decreto-lei deve ser calculada nos termos previstos no Decreto-Lei n.º 220/94, de 23 de Agosto, e abranger, quando for o caso, todas as condições promocionais associadas ao contrato.
+
+2 - Em caso de existência de condições promocionais, a instituição de crédito, para além da TAE, calculada nos termos do número anterior, informa clara e expressamente os seus clientes sobre:
+
+a) A TAE aplicada, caso não existam quaisquer condições promocionais;
+
+b) A duração das condições promocionais, bem como os seus efeitos a longo prazo no contrato, indicando a TAE que passará a vigorar após a cessação dessas condições.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 74-A/2017 - Diário da República n.º 120/2017, 1º Suplemento, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), em vigor a partir de 2018-01-01
+
+###### Artigo 4.º — Cálculo dos juros
+
+1 - Nos contratos abrangidos pelo disposto no presente decreto-lei, o cálculo dos juros deve adoptar a convenção 30/360, correspondente a um mês de 30 dias e a um ano de 360 dias.
+
+2 - O indexante subjacente à determinação da taxa de juro, em articulação com o disposto no número anterior, deve assumir também um ano de 360 dias, pelo que, sendo o indexante a EURIBOR, esta deve corresponder à sua cotação com referência a um ano de 360 dias.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 74-A/2017 - Diário da República n.º 120/2017, 1º Suplemento, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 88/2008 - Diário da República n.º 103/2008, Série I de 2008-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2008-448970), em vigor a partir de 2008-06-28
+
+###### Artigo 5.º — Direito ao reembolso antecipado
+
+1 - Os mutuários têm o direito de efectuar o reembolso antecipado parcial em qualquer momento do contrato, independentemente do capital a reembolsar, desde que efectuado em data coincidente com os vencimentos das prestações e mediante pré-aviso de sete dias úteis à instituição de crédito mutuante.
+
+2 - O reembolso antecipado total pode ser efectuado em qualquer momento da vigência do contrato mediante pré-aviso de 10 dias úteis à instituição de crédito mutuante.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 74-A/2017 - Diário da República n.º 120/2017, 1º Suplemento, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), em vigor a partir de 2018-01-01
+
+###### Artigo 6.º — Comissão por reembolso antecipado
+
+1 - O valor da comissão a pagar pelo cliente nos casos de reembolso antecipado, parcial ou total, ou de transferência de crédito para outra instituição consta clara e expressamente do contrato e não pode ser superior a:
+
+a) 0,5% a aplicar sobre o capital que é reembolsado no caso de contratos celebrados no regime de taxa variável;
+
+b) 2% a aplicar sobre o capital que é reembolsado no caso de contratos celebrados no regime de taxa fixa.
+
+2 - O disposto no número anterior não se aplica aos contratos em execução em que tenha sido convencionada entre as partes a isenção de pagamento de comissão.
+
+3 - Em caso de reembolso por motivos de morte, desemprego ou deslocação profissional, não podem ser aplicadas comissões.
+
+4 - Sem prejuízo do disposto no n.º 1, as partes podem convencionar entre si a isenção do pagamento da comissão de reembolso antecipado.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 74-A/2017 - Diário da República n.º 120/2017, 1º Suplemento, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), em vigor a partir de 2018-01-01
+
+###### Artigo 7.º — Transferência de crédito
+
+No caso de reembolso antecipado com vista à transferência do crédito, deve a instituição de crédito do mutuário facultar, no prazo de 10 dias úteis, à nova instituição de crédito mutuante todas as informações e elementos necessários à realização destas operações, designadamente o valor do capital em dívida e o período de tempo de empréstimo já decorrido.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 74-A/2017 - Diário da República n.º 120/2017, 1º Suplemento, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 88/2008 - Diário da República n.º 103/2008, Série I de 2008-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2008-448970), em vigor a partir de 2008-06-28
+
+###### Artigo 8.º — Débito de encargos adicionais
+
+É proibido o débito de qualquer encargo ou despesa adicional pela realização das operações de reembolso antecipado parcial ou total do contrato de crédito ou de transferência do crédito para outra instituição.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 74-A/2017 - Diário da República n.º 120/2017, 1º Suplemento, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), em vigor a partir de 2018-01-01
+
+###### Artigo 9.º — Vendas associadas
+
+1 - Às instituições de crédito está vedado fazer depender a celebração ou renegociação dos contratos referidos no artigo 1.º da aquisição de outros produtos ou serviços financeiros.
+
+2 - Quando sejam propostos ao consumidor outros produtos ou serviços financeiros como forma de reduzir as comissões, e demais custos do empréstimo, nomeadamente o spread de taxa de juro, a instituição de crédito deve apresentar ao consumidor, clara e expressamente, a taxa anual efectiva (TAE) que reflecte aquela redução de comissões e demais custos e a taxa anual efectiva revista (TAER).
+
+3 - A TAER é calculada nos termos do artigo 4.º do Decreto-Lei n.º 220/94, de 23 de Agosto, considerando:
+
+a) A prestação revista em função da redução do spread e ou de outros custos como contrapartida da subscrição dos produtos e serviços propostos nos termos do número anterior;
+
+b) Eventuais custos associados aos produtos e serviços propostos nos termos do número anterior.
+
+4 - O direito de exigir o cumprimento de condição relativa à contratação de outros produtos ou serviços financeiros acordada nos termos do n.º 2 prescreve no prazo de um ano após a sua não verificação.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 74-A/2017 - Diário da República n.º 120/2017, 1º Suplemento, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 192/2009 - Diário da República n.º 158/2009, Série I de 2009-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2009-493693), em vigor a partir de 2009-10-16
+
+###### Artigo 10.º — Dever de informação
+
+1 - A instituição de crédito informa clara e expressamente os seus clientes sobre:
+
+a) O cálculo da TAE com as condições não promocionais, o período de validade das condições promocionais e as consequências destas, a longo prazo, no contrato;
+
+b) O prazo para a contagem do cálculo de juros;
+
+c) O modo e as condições de reembolso antecipado, parcial ou total, do contrato.
+
+2 - A instituição de crédito deve colocar no seu sítio da Internet, de forma detalhada, as informações referidas no número anterior.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 74-A/2017 - Diário da República n.º 120/2017, 1º Suplemento, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), em vigor a partir de 2018-01-01
+
+###### Artigo 11.º — Publicidade
+
+Na publicidade ao crédito para aquisição, construção e realização de obras em habitação própria permanente, secundária ou para arrendamento, bem como para aquisição de terrenos para construção de habitação própria, e em todas as comunicações comerciais que tenham por objectivo, directo ou indirecto, a sua promoção com vista à comercialização, é feita referência clara e expressa ao período de validade das condições promocionais, à TAE e ao valor da comissão aplicável no reembolso parcial ou total do contrato de crédito.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 74-A/2017 - Diário da República n.º 120/2017, 1º Suplemento, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), em vigor a partir de 2018-01-01
+
+###### Artigo 12.º — Contra-ordenações
+
+1 - Constitui contra-ordenação a violação do disposto nos artigos 3.º a 10.º, punível nos termos da alínea i) do artigo 210.º e do artigo 212.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, sem prejuízo da aplicação das demais disposições em matéria contra-ordenacional aí previstas.
+
+2 - Constitui contra-ordenação a violação do disposto no artigo 11.º, punível com coima de (euro) 20000 a (euro) 44000.
+
+3 - A tentativa e a negligência são sempre puníveis, sendo os limites das coimas aplicáveis reduzidos para metade.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 74-A/2017 - Diário da República n.º 120/2017, 1º Suplemento, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), em vigor a partir de 2018-01-01
+
+###### Artigo 13.º — Fiscalização
+
+1 - A fiscalização do cumprimento do disposto nos artigos 3.º a 10.º do presente decreto-lei, bem como a aplicação das correspondentes coimas e sanções acessórias, é da competência do Banco de Portugal, sendo aplicável o Regime Geral das Instituições de Crédito e Sociedades Financeiras.
+
+2 - Compete ao Instituto do Consumidor, nos termos do Código da Publicidade, aprovado pelo Decreto-Lei n.º 330/90, de 23 de Outubro, a fiscalização do disposto no artigo 11.º, bem como a instrução dos processos de contra-ordenação resultantes da sua violação, cabendo à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CAGMEP) a aplicação das sanções devidas.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 74-A/2017 - Diário da República n.º 120/2017, 1º Suplemento, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), em vigor a partir de 2018-01-01
+
+###### Artigo 14.º — Produto das coimas
+
+O produto das coimas decorrentes da violação do disposto no artigo 11.º reverte em:
+
+a) 40% para o Instituto do Consumidor;
+
+b) 60% para o Estado.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 74-A/2017 - Diário da República n.º 120/2017, 1º Suplemento, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), em vigor a partir de 2018-01-01
+
+###### Artigo 14.º-A — Aplicação do Decreto-Lei n.º 171/2008, de 26 de Agosto
+
+Aos contratos objecto do presente decreto-lei aplica-se o disposto no Decreto-Lei n.º 171/2008, de 26 de Agosto.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 74-A/2017 - Diário da República n.º 120/2017, 1º Suplemento, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), em vigor a partir de 2018-01-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 192/2009 - Diário da República n.º 158/2009, Série I de 2009-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2009-493693), em vigor a partir de 2009-10-16
+
+###### Artigo 15.º — Avaliação da execução do diploma
+
+No final do 1.º ano a contar da data de entrada em vigor do presente decreto-lei, o Banco de Portugal elabora e divulga um relatório de avaliação do impacte da aplicação do mesmo.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 74-A/2017 - Diário da República n.º 120/2017, 1º Suplemento, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), em vigor a partir de 2018-01-01
+
+###### Artigo 16.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 74-A/2017 - Diário da República n.º 120/2017, 1º Suplemento, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), em vigor a partir de 2018-01-01
+
+Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho.
+
+Promulgado em 21 de Fevereiro de 2007.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 22 de Fevereiro de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 74-A/2017 - Diário da República n.º 120/2017, 1º Suplemento, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-a-2017-107561581), em vigor a partir de 2018-01-01

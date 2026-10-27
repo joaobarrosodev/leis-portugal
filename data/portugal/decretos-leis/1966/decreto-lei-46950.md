@@ -1,0 +1,192 @@
+---
+schema_version: '1.0'
+id: pt:dre:487923:por
+title: Decreto-Lei n.º 46950
+short_title: null
+summary: Sujeita a um encargo de mais-valia os prédios rústicos e os terrenos de construção definidos no artigo 11.º, n.º
+  2, da Lei n.º 2030 e no artigo 44.º do Decreto n.º 43587, situados na margem sul do Tejo
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas - Gabinete do Ministro
+proposing_entity: null
+official_number: '46950'
+official_date: null
+publication_date: '1966-04-09'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 84/1966, Série I de 1966-04-09
+  number: '84'
+  series: I
+  supplement: null
+  pages: 518 - 520
+  pdf_url: https://files.diariodarepublica.pt/1s/1966/04/08400/05180520.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '487923'
+  dre_path: /dr/detalhe/decreto-lei/46950-1966-487923
+  internal: pt:dre:487923:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46950-1966-487923
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46950-1966-487923
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:56:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 08673f85a2f9a8895a43aa47918abee65ee686a49aaeca82e6169531ceecbde5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:56:43Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Construção Civil
+- Lisboa
+- Plano de Urbanização
+- Plano Director Municipal
+- Política de Solos
+- Ponte
+- Prédio Rústico
+- RIO TEJO
+relationships:
+- type: cites
+  target: pt:dre:302897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558653:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:56:43Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 46950
+
+1. Em vista da excepcional valorização dos terrenos da margem sul do Tejo, em consequência da construção da ponte entre Lisboa e Almada, o artigo 4.º do [Decreto-Lei n.º 41616](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41616-1958-302897), de 10 de Maio de 1958, publicado antes de se iniciar aquela construção, prevê a incidência do encargo de mais-valia sobre os referidos terrenos, ainda que se encontrassem fora das áreas dos planos de urbanização.
+
+A mesma disposição legal, autorizando a delimitação da zona sujeita à mais-valia e o regime da respectiva graduação, implìcitamente permite a alteração do regime expresso na [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), de 22 de Junho de 1948, que fixou rìgidamente o encargo de 50 por cento sobre a valorização verificada.
+
+Dentro da amplitude consignada no referido [Decreto-Lei n.º 41616](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41616-1958-302897), entendeu-se que o encargo deveria também incidir sobre os terrenos que já eram de construção à data em que foi anunciada a construção da ponte, pois que para esses terrenos resulta igualmente uma excepcional valorização, não se justificando que ficassem isentos, dadas as vultosas despesas que a obra, por sua natureza, impõe.
+
+Por idêntica ordem de considerações ficam ainda sujeitas ao encargo as áreas ocupadas por prédios urbanos já existentes e que venham a ser demolidos para reconstrução ou profundamente remodelados de forma a sofrerem alteração na sua estrutura resistente.
+
+Uma vez admitida a tributação dos terrenos de construção, não se justificaria, com efeito, que as duas referidas situações ficassem livres do ónus de mais-valia.
+
+De resto, não se trata de uma solução inteiramente nova, pois, pelo regime geral anterior, o artigo 10.º da Lei de 26 de Julho de 1912 não excluía os prédios urbanos que aumentassem de valor locativo.
+
+Ficam, no entanto, isentos os prédios urbanos que se mantenham ou para os quais a licença de obras se limite à respectiva conservação, beneficiação ou ampliação que não implique a referida alteração profunda.
+
+À mais-valia que resulta da construção da ponte deve somar-se a mais-valia imposta pela lei geral sempre que haja obras de urbanização e abertura de grandes vias de comunicação.
+
+2. Considerou-se que a área valorizada pela ponte deveria abranger todo o território a sul do Tejo fixado no Plano Director do Desenvolvimento Urbanístico da Região de Lisboa, definido na [Lei n.º 2099](https://diariodarepublica.pt/dr/detalhe/lei/2099-1959-432216), de 14 de Agosto de 1959, com os ajustamentos previstos na mesma lei.
+
+A solução estava já prevista no artigo 4.º do [Decreto-Lei n.º 41616](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41616-1958-302897) e justifica-se inteiramente dados os encargos de urbanização em várias zonas abrangidas nos respectivos planos aprovados, além do encargo principal relativo à construção da ponte e acessos, obra esta que constitui só por si a principal determinante da valorização da referida área.
+
+Verificando-se que a valorização dos prédios rústicos se processa, de um modo geral, em todos os locais da península de Setúbal, considerou-se uma única zona para o efeito, correspondente à definição do Plano Director para a margem sul do Tejo.
+
+A delimitação da área valorizada fixada no presente diploma, nos referidos termos, substituirá, por sua natureza, os despachos que a lei geral exige para cada caso.
+
+3. A mais-valia será apurada a partir do valor real e corrente que o terreno tinha antes de decidida pelo Governo a construção da ponte, atendendo-se ao respectivo destino económico nessa altura, como prédio rústico ou terreno de construção.
+
+Por isso, não poderá influenciar aquele valor inicial a grande valorização dos terrenos que se verificou logo que foi tomada aquela decisão.
+
+A valorização devida a este facto deverá ser integralmente imputada ao custo actual, de forma a apurar-se devidamente todo o montante possível de tributação.
+
+4. Uma parte do encargo de mais-valia reverterá sempre a favor da câmara, ainda mesmo nos casos em que não acresça a mais-valia geral prevista no artigo 1.º, n.º 4.º
+
+Pretende-se, assim, beneficiar as câmaras, concorrendo para as avultadas despesas com obras de urbanização que não possam ser compensadas de outra forma.
+
+5. Mantém-se o processo vigente para apurar a mais-valia e efectuar a sua cobrança.
+
+Havendo duas entidades - Estado e município - que beneficiam do encargo, houve que prever a representação de cada uma, quer na fase amigável, quer na fase contenciosa.
+
+6. O diploma entra imediatamente em vigor e será aplicado a todas as concessões de licenças - cuja obrigatoriedade se torna extensiva às obras de construção ou reconstrução em toda a área valorizada -, ainda que requeridas antes da sua publicação.
+
+Considerou-se que a área delimitada se encontra concretamente beneficiada pela conclusão próxima da ponte e de novas vias de comunicação, o que está confirmado pela valorização efectivamente já verificada dos prédios da margem sul, valorização que não seria justo deixar de onerar imediatamente.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º - 1. Em conformidade com o artigo 4.º do [Decreto-Lei n.º 41616](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41616-1958-302897), de 10 de Maio de 1958, ficam sujeitos a um encargo de mais-valia os prédios rústicos sitos na margem sul do Tejo que, por virtude da execução da ponte entre Lisboa e Almada, aumentem de valor pela possibilidade da sua utilização como terrenos de construção urbana.
+
+2. Os terrenos de construção definidos no artigo 11.º, n.º 2, da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), de 22 de Junho de 1948, e no artigo 44.º do [Decreto n.º 43587](https://diariodarepublica.pt/dr/detalhe/decreto/43587-1961-558653), de 8 de Abril de 1961, situados na zona referida no n.º 1 deste artigo ficam igualmente sujeitos a um encargo de mais-valia.
+
+3. São equiparadas a terrenos de construção as áreas resultantes da demolição de prédios urbanos já existentes ou as daqueles prédios que, para efeito de obras de remodelação, sofram alteração da sua estrutura resistente.
+
+4. No apuramento da mais-valia deverá também atender-se ao disposto no artigo 78.º do [Decreto n.º 43587](https://diariodarepublica.pt/dr/detalhe/decreto/43587-1961-558653).
+
+Art. 2.º - 1. Considera-se área valorizada toda a zona ao sul do Tejo abrangida pelo Plano Director do Desenvolvimento Urbanístico da Região de Lisboa e definida nos termos da [Lei n.º 2099](https://diariodarepublica.pt/dr/detalhe/lei/2099-1959-432216), de 14 de Agosto de 1959, com os ajustamentos determinados ao artigo do n.º 4 da base I da referida lei.
+
+2. Esta delimitação substitui, para todos os efeitos, os actos e formalidades previstos no artigo 79.º do [Decreto n.º 43587](https://diariodarepublica.pt/dr/detalhe/decreto/43587-1961-558653).
+
+Art. 3.º A mais-valia corresponde a diferença entre o valor do prédio à data em que for requerida a licença de construção ou de obra e o seu valor em conformidade com o respectivo destino económico à data em que foi anunciada a construção da ponte pela publicação do [Decreto-Lei n.º 41616](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41616-1958-302897), de 10 de Maio de 1958.
+
+Art. 4.º - 1. O encargo de mais-valia é de 60 por cento da importância apurada nos termos do artigo 3.º, revertendo em todos os casos 20 por cento para o Estado e 40 por cento para a câmara municipal do concelho onde se situar o prédio.
+
+2. Nos casos previstos na segunda parte do n.º 4 do artigo 17.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), de 22 de Junho de 1948, o custo das obras suportadas pela entidade expropriada será abatido à parte da mais-valia atribuída à câmara municipal.
+
+Art. 5.º O processo para o apuramento da mais-valia e a cobrança do respectivo encargo regem-se, na parte não especialmente prevista neste diploma, pelo disposto no [Decreto n.º 43587](https://diariodarepublica.pt/dr/detalhe/decreto/43587-1961-558653).
+
+Art. 6.º - 1. Para determinação da mais-valia, na fase administrativa, intervirá um representante do Estado, a designar pelo Ministério das Obras Públicas, juntamente com representante da câmara municipal respectiva e o proprietário interessado ou seu representante.
+
+2. Não se chegando a acordo nesta primeira fase, haverá que recorrer à arbitragem prevista no [Decreto n.º 43587](https://diariodarepublica.pt/dr/detalhe/decreto/43587-1961-558653).
+
+3. O árbitro que representa as duas partes interessadas na cobrança da mais-valia - Estado e câmara municipal - deverá ser designado pela câmara com o parecer favorável do Ministério das Obras Públicas.
+
+4. No caso de haver recurso da arbitragem, o perito representante do Estado e câmara municipal deverá ser designado por esta com parecer favorável do Ministério das Obras Públicas.
+
+Art. 7.º O produto da mais-valia pertencente ao Estado será contabilizado em regime de consignação de receitas pela câmara municipal que efectuar a cobrança e dará entrada nos cofres do Estado até ao dia 10 do mês seguinte àquele em que tiver sido pago.
+
+Art. 8.º Todas as obras de construção ou reconstrução urbana na área prevista no artigo 2.º do presente diploma ficam sujeitas a licença da câmara municipal do concelho onde se situar o terreno.
+
+Art. 9.º O encargo de mais-valia será cobrado relativamente às obras cujas licenças forem concedidas depois da publicação deste decreto-lei, considerando-se concretamente beneficiadas todas as áreas abrangidas pela delimitação fixada no artigo 2.º, sem necessidade dos despachos previstos no artigo 83.º, alínea a), do [Decreto n.º 43587](https://diariodarepublica.pt/dr/detalhe/decreto/43587-1961-558653).
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 9 de Abril de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

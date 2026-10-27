@@ -1,0 +1,505 @@
+---
+schema_version: '1.0'
+id: pt:dre:128071719:por
+title: Decreto-Lei n.º 2/2020
+short_title: null
+summary: Altera o Regulamento da Matrícula, o Código da Estrada e o Regulamento da Habilitação Legal para Conduzir
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Infraestruturas e Habitação
+official_number: 2/2020
+official_date: null
+publication_date: '2020-01-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 9/2020, Série I de 2020-01-14
+  number: '9'
+  series: I
+  supplement: null
+  pages: 4 - 12
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/2/2020/01/14/p/dre/pt/html
+  oj: null
+  dre: '128071719'
+  dre_path: /dr/detalhe/decreto-lei/2-2020-128071719
+  internal: pt:dre:128071719:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2020-128071719
+  metadata_url: https://data.dre.pt/eli/dec-lei/2/2020/01/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2020-128071719
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:39:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 154fb8f88638d85e3dc53f71b17548196a05ce62ac2b7588a9bb54d13c60cadf
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:39:57Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agência para a Modernização Administrativa
+- Carta de Condução
+- Código da Estrada
+- Definição de Competências
+- Espaço do Cidadão
+- Instituto da Mobilidade e dos Transportes
+- Instituto da Mobilidade e dos Transportes Terrestres
+- Matrícula
+- Prazo
+- Regulamento CE
+- Regulamento da Habilitação Legal para Conduzir
+- Regulamento de Matrícula dos Automóveis seus Reboques Motociclos Ciclomotores Triciclos Quadriciclos Máquinas Industriais
+  e Máquinas Industriais Rebocáveis
+- Veículo
+relationships:
+- type: amended_by
+  target: pt:dre:150757538:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: celex:31998R2411
+  label: null
+  source: http://data.europa.eu/eli/reg/1998/2411/oj
+- type: cites
+  target: pt:dre:107648315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114315241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117142873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168056:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/214/1996/11/20/p/dre
+- type: cites
+  target: pt:dre:172174:por
+  label: null
+  source: http://data.dre.pt/eli/lei/20/2002/08/21/p/dre
+- type: cites
+  target: pt:dre:178550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223835:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/2/1998/01/03/p/dre
+- type: cites
+  target: pt:dre:245683:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/265-a/2001/09/28/p/dre
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
+- type: cites
+  target: pt:dre:342616:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/162/2001/05/22/p/dre
+- type: cites
+  target: pt:dre:344242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456273:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/113/2008/07/01/p/dre
+- type: cites
+  target: pt:dre:493497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:589934:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/54/2005/03/03/p/dre
+- type: cites
+  target: pt:dre:608684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/44/2005/02/23/p/dre
+- type: cites
+  target: pt:dre:670029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70133808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75060359:por
+  label: null
+  source: null
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:39:57Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 2/2020
+
+de 14 de janeiro
+
+A regulamentação da matéria relativa às chapas de matrícula foi efetuada através do [Decreto-Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2005-589934), de 3 de março, na sua redação atual, que aprovou o Regulamento de Matrícula dos Automóveis, Seus Reboques, Motociclos, Ciclomotores, Triciclos, Quadriciclos, Máquinas Industriais e Máquinas Industriais Rebocáveis. A aproximação do esgotamento da atual série de matrículas determina que se proceda a alguns ajustamentos de natureza técnica nos modelos de chapas de matrícula, adaptando-os às novas combinações de carateres e adotando um formato que simplifica a sua produção.
+
+Através do presente decreto-lei efetua-se ainda a harmonização do modelo de chapa de matrícula com o da generalidade dos Estados-Membros da União Europeia, que não apresentam referência à data da primeira matrícula do veículo, para além de se harmonizar os modelos das chapas de matrícula dos ciclomotores e motociclos com o dos restantes veículos, no que se refere à inclusão do dístico identificador do Estado-Membro de matrícula, previsto no [Regulamento (CE) n.º 2411/98](https://diariodarepublica.pt/application/external/eurolex?98R2411) do Conselho, de 3 de novembro de 1998, facilitando a circulação internacional destes veículos. É importante mencionar que a referência ao ano e mês de matrícula é única na União Europeia, verificando-se que, atualmente, só em Itália é possível indicar o ano da matrícula. Acresce que, esta menção gera interpretações incorretas por parte das entidades fiscalizadoras do trânsito de outros Estados-Membros da União Europeia quando os veículos circulam internacionalmente, uma vez que diversos países utilizam a referida solução não para a indicação da data da primeira matrícula do veículo, mas para inscrever a data limite de validade da matrícula, situação comum no caso de matrículas temporárias ou de exportação.
+
+Importa referir que através deste novo modelo de chapas de matrícula será possível estabilizar o processo de produção de matrículas durante um longo período, sendo possível estimar como tempo máximo possível de utilização do modelo AA-00-AA cerca de 74 anos, o qual, ainda que venha ser reduzido, nomeadamente pela não utilização de combinações que possam formar palavras ou siglas que se entenda dever evitar, terá uma duração de utilização previsível de 45 anos. Ademais, este novo modelo permitirá considerar a inclusão de três algarismos na matrícula.
+
+Os modelos que agora se aprovam passam a ser obrigatórios para todas as matrículas atribuídas a partir da data em que se esgotar a atual série de números de matrícula, podendo as chapas de matrícula que já se encontram instaladas no parque de veículos em circulação manter-se em uso, sem necessidade de substituição, que poderá, no entanto, ser efetuada pelos proprietários dos veículos caso assim o desejem.
+
+Adicionalmente, altera-se o regime aplicável aos serviços de emissão, revalidação, substituição, segundas vias e trocas de títulos de condução nacionais e estrangeiros, que passam a poder ser prestados nos Espaços Cidadão, pelos trabalhadores que prestam o atendimento do serviço. Alarga-se ainda o prazo de troca dos títulos de condução estrangeiros, após a obtenção de residência em território nacional, sem necessidade de realização de prova prática, que passa de 90 dias para dois anos, alinhando-se este prazo com o regime previsto para a revalidação por caducidade das cartas de condução portuguesa.
+
+Por último, estabelecem-se procedimentos tendentes à concretização da medida iSIMPLEX «Carta Automática», prevendo-se a criação de mecanismos que permitam a revalidação automática da carta de condução.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede:
+
+a) À décima nona alteração ao Código da Estrada, aprovado pelo [Decreto-Lei n.º 114/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1994-250659), de 3 de maio, e alterado pelos [Decretos-Leis n.os 214/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1996-168056), de 20 de novembro, [2/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1998-223835), de 3 de janeiro, [162/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2001-342616), de 22 de maio, e [265-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-a-2001-245683), de 28 de setembro, pela [Lei n.º 20/2002](https://diariodarepublica.pt/dr/detalhe/lei/20-2002-172174), de 21 de agosto, pelos [Decretos-Leis n.os 44/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2005-608743), de 23 de fevereiro, [113/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2008-456273), de 1 de julho, e [113/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), de 18 de maio, pelas Leis n.os [78/2009](https://diariodarepublica.pt/dr/detalhe/lei/78-2009-493497), de 13 de agosto, e [46/2010](https://diariodarepublica.pt/dr/detalhe/lei/46-2010-344242), de 7 de setembro, pelos [Decretos-Leis n.os 82/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2011-670029), de 20 de junho, e [138/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2012-178550), de 5 de julho, pelas Leis n.os [72/2013](https://diariodarepublica.pt/dr/detalhe/lei/72-2013-499526), de 3 de setembro, e [116/2015](https://diariodarepublica.pt/dr/detalhe/lei/116-2015-70133808), de 28 de agosto, pelo Decreto-Lei n.º [40/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2016-75060359), de 29 de julho, pela [Lei n.º 47/2017](https://diariodarepublica.pt/dr/detalhe/lei/47-2017-107648315), de 7 de julho, e pelos Decretos-Leis n.os [151/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2017-114315241), de 7 de dezembro, e [107/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2018-117142873), de 29 de novembro;
+
+b) À quarta alteração ao [Decreto-Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2005-589934), de 3 de março, alterado pelos [Decretos-Leis n.os 106/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2006-346124), de 8 de junho, e [112/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2009-608684), de 18 de maio, e pela Lei n.º [46/2010](https://diariodarepublica.pt/dr/detalhe/lei/46-2010-344242), de 7 de setembro, que aprovou o Regulamento de Matrícula dos Automóveis, Seus Reboques, Motociclos, Ciclomotores, Triciclos, Quadriciclos, Máquinas Industriais e Máquinas Industriais Rebocáveis; e
+
+c) À quarta alteração ao Decreto-Lei n.º [138/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2012-178550), de 5 de julho, alterado pelos [Decretos-Leis n.os 37/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2014-571913), de 14 de março, [40/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2016-75060359), de 29 de julho, e [151/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2017-114315241), de 7 de dezembro, que altera o Código da Estrada e aprova o Regulamento da Habilitação Legal para Conduzir.
+
+###### Artigo 2.º — Alteração ao Código da Estrada
+
+O artigo 128.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 114/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1994-250659), de 3 de maio, na sua redação atual, passa a ter a seguinte redação:
+
+«Artigo 128.º
+
+[...]
+
+1 - [...].
+
+2 - [...].
+
+3 - [...].
+
+4 - [...].
+
+5 - [...].
+
+6 - [...].
+
+7 - [...]:
+
+a) [...].
+
+b) [...].
+
+c) Não for requerida a troca do título estrangeiro no prazo de dois anos, contados a partir da data da fixação da residência em Portugal.
+
+d) [...].
+
+e) [...].
+
+8 - [...].»
+
+###### Artigo 3.º — Alteração ao Regulamento de Matrícula dos Automóveis, Seus Reboques, Motociclos, Ciclomotores, Triciclos, Quadriciclos, Máquinas Industriais e Máquinas Industriais Rebocáveis
+
+Os artigos 3.º, 5.º, 9.º e 10.º do Regulamento de Matrícula dos Automóveis, Seus Reboques, Motociclos, Ciclomotores, Triciclos, Quadriciclos, Máquinas Industriais e Máquinas Industriais Rebocáveis, aprovado em anexo ao [Decreto-Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2005-589934), de 3 de março, na sua redação atual, passam a ter seguinte redação:
+
+«Artigo 3.º
+
+[...]
+
+1 - [...].
+
+2 - [...].
+
+3 - [...].
+
+4 - Quando se esgotarem os números de matrícula correspondentes à alínea c) do n.º 2, o número de matrícula referido no n.º 1 passa a ser constituído por dois grupos de duas letras e um grupo central de dois algarismos.
+
+5 - [...].
+
+6 - [...].
+
+7 - [...].
+
+8 - [...].
+
+9 - [...].
+
+Artigo 5.º
+
+[...]
+
+1 - [...]:
+
+a) [...];
+
+b) [...];
+
+c) Entre 1 de janeiro de 1998 e a data de início da emissão de números de matrícula do formato previsto no n.º 4 do artigo 3.º - anexo iv;
+
+d) A partir da data de início da emissão de números de matrícula do formato previsto no n.º 4 do artigo 3.º - anexo v.
+
+2 - [...].
+
+3 - As chapas de matrícula dos modelos i a iv dos anexos iii e v devem ser revestidas de material retrorrefletor, apresentando fundo de cor branca e letras, algarismos, traços e rebordo periférico a preto.
+
+4 - [...].
+
+5 - (Revogado.)
+
+6 - A chapa de matrícula dos ciclomotores, motociclos de cilindrada não superior a 50 cm3 e dos quadriciclos, matriculados pelo IMT, I. P., deve obedecer às características e dimensões do modelo vi do anexo iv, apresentando fundo amarelo e letras, algarismos, traços e rebordo periférico a preto, sendo substituído pelo modelo v do anexo v, a partir da data a que se refere a alínea d) do n.º 1.
+
+7 - (Revogado.)
+
+8 - Nos ciclomotores de três rodas e nos quadriciclos que apresentem largura adequada ou possuam espaço próprio para a colocação da chapa de matrícula, pode ser instalada chapa do modelo vii do anexo iv até à data a que se refere a alínea d) do n.º 1 e do modelo vi do anexo v, a partir daquela data.
+
+9 - Nos triciclos que possuam as características referidas no número anterior pode ser instalada chapa do modelo i do anexo iv até à data a que se refere a alínea d) do n.º 1, e do modelo i do anexo v, a partir daquela data.
+
+10 - As chapas de matrícula dos motociclos com cilindrada superior a 50 cm3 e dos triciclos, matriculados a partir de 1 de janeiro de 2007, devem obedecer ao modelo v do anexo iv, sendo o referido modelo substituído pelo modelo iv do anexo v, a partir da data a que se refere a alínea d) do n.º 1, e devem ser constituídas por material plástico.
+
+11 - As chapas de matrícula das máquinas industriais e máquinas industriais rebocáveis devem obedecer aos modelos viii e ix do anexo iv, apresentando fundo vermelho e letras, algarismos, traços e rebordo periférico a preto, sendo os referidos modelos substituídos pelos modelos vii e viii do anexo v, a partir da data a que se refere a alínea d) do n.º 1.
+
+12 - As chapas de matrícula dos veículos matriculados antes da data a que se refere a alínea d) do n.º 1, correspondentes aos modelos previstos nos anexos ii, iii e iv, mantêm-se válidas para os veículos em circulação, podendo ser substituídas por chapas do modelo correspondente, constante do anexo v.
+
+Artigo 9.º
+
+[...]
+
+1 - As chapas de matrícula dos modelos constantes dos anexos iii, iv e v devem corresponder a um modelo homologado pelo IMT, I. P.
+
+2 - [...].
+
+3 - Nos casos em que, por razões construtivas ou funcionais, não possam ser colocadas nos veículos chapas com as dimensões previstas no presente Regulamento, o IMT, I. P., pode autorizar a colocação de chapas de matrícula com dimensões inferiores, não podendo os carateres apresentar altura inferior a 60 mm.
+
+4 - [...].
+
+Artigo 10.º
+
+[...]
+
+1 - A inscrição de números de matrícula em chapas de matrícula dos modelos constantes dos anexos iii, iv e v só pode ser efetuada por manipuladores que possuam uma autorização para o efeito, concedida pelo fabricante das chapas de matrícula, titular da respetiva homologação.
+
+2 - [...].
+
+3 - [...].
+
+4 - [...].
+
+5 - [...].»
+
+###### Artigo 4.º — Aditamento do anexo v ao [Decreto-Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2005-589934), de 3 de março
+
+É aditado o anexo v ao Regulamento de Matrícula dos Automóveis, Seus Reboques, Motociclos, Ciclomotores, Triciclos, Quadriciclos, Máquinas Industriais e Máquinas Industriais Rebocáveis, aprovado em anexo ao [Decreto-Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2005-589934), de 3 de março, com a redação constante do anexo ao presente decreto-lei e do qual faz parte integrante.
+
+###### Artigo 5.º — Alteração ao Decreto-Lei n.º [138/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2012-178550), de 5 de julho
+
+O artigo 10.º do Decreto-Lei n.º [138/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2012-178550), de 5 de julho, na sua redação atual, passa a ter a seguinte redação:
+
+«Artigo 10.º
+
+Regime de emissão, revalidação, substituição, segundas vias e trocas de títulos de condução nacionais e estrangeiros
+
+1 - [...].
+
+2 - Todos os serviços relacionados com a emissão, revalidação, substituição e emissão de segundas vias de títulos de condução da competência do IMT, I. P., podem ser prestados nos Espaços Cidadão, pelos trabalhadores que prestam o atendimento do serviço, através de protocolo a celebrar entre o IMT, I. P., e a Agência para a Modernização Administrativa, I. P. (AMA, I. P.), designadamente nos Espaços Cidadão instalados nos consulados portugueses.
+
+3 - Todos os serviços relacionados com a troca de títulos de condução estrangeiro da competência do IMT, I. P., podem ser prestados nos Espaços Cidadão localizados em território nacional, pelos trabalhadores que prestam o atendimento do serviço, através de protocolo a celebrar entre o IMT, I. P., e a AMA, I. P.
+
+4 - As entidades e os procedimentos técnicos e administrativos necessários ao disposto nos números anteriores são definidos por deliberação do conselho diretivo do IMT, I. P.
+
+5 - [...].
+
+6 - (Anterior n.º 3.)
+
+7 - (Anterior n.º 4.)»
+
+###### Artigo 6.º — Alteração ao Regulamento da Habilitação Legal para Conduzir
+
+Os artigos 14.º e 17.º do Regulamento da Habilitação Legal para Conduzir, aprovado em anexo ao Decreto-Lei n.º [138/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2012-178550), de 5 de julho, na sua redação atual, passam a ter a seguinte redação:
+
+«Artigo 14.º
+
+[...]
+
+1 - [...]:
+
+a) [...];
+
+b) [...];
+
+c) No prazo de dois anos a contar da data de fixação de residência do seu titular em Portugal, se o título for um dos mencionados nas alíneas c) ou d) do n.º 1 do artigo 125.º do Código da Estrada.
+
+2 - [...].
+
+3 - [...].
+
+4 - [...].
+
+5 - [...].
+
+6 - [...].
+
+7 - [...].
+
+Artigo 17.º
+
+[...]
+
+1 - [...].
+
+2 - [...].
+
+3 - [...].
+
+4 - [...].
+
+5 - [...].
+
+6 - [...].
+
+7 - [...].
+
+8 - [...].
+
+9 - [...].
+
+10 - [...].
+
+11 - [...].
+
+12 - Podem ser definidos mecanismos de revalidação automática das cartas de condução por portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa e dos transportes.»
+
+###### Artigo 7.º — Alterações sistemáticas
+
+São introduzidas as seguintes alterações sistemáticas ao Regulamento de Matrícula dos Automóveis, Seus Reboques, Motociclos, Ciclomotores, Triciclos, Quadriciclos, Máquinas Industriais e Máquinas Industriais Rebocáveis, aprovado em anexo ao [Decreto-Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2005-589934), de 3 de março, na sua redação atual:
+
+a) A epígrafe do capítulo ii passa a designar-se «Emissão de chapas de matrícula dos modelos constantes dos anexos iii, iv e v»;
+
+b) O anexo v é renumerado como anexo vi.
+
+###### Artigo 8.º — Referências legais
+
+Todas as referências legais feitas ao Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT, I. P.), e ao presidente do conselho diretivo do IMTT, I. P., constantes do [Decreto-Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2005-589934), de 3 de março, na sua redação atual, devem considerar-se feitas, respetivamente, ao Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), e ao presidente do conselho diretivo do IMT, I. P.
+
+###### Artigo 9.º — Normas transitórias
+
+1 - O disposto na alínea c) do n.º 1 do artigo 14.º do Regulamento da Habilitação Legal para Conduzir, aprovado em anexo ao Decreto-Lei n.º [138/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2012-178550), de 5 de julho, na redação introduzida pelo presente decreto-lei, aplica-se aos processos que se encontram pendentes no IMT, I. P., à data da entrada em vigor do presente decreto-lei.
+
+2 - As homologações de modelo de chapas de matrícula concedidas pelo IMT, I. P., para as chapas de matrícula dos modelos constantes dos anexos iii e iv ao Regulamento de Matrícula dos Automóveis, Seus Reboques, Motociclos, Ciclomotores, Triciclos, Quadriciclos, Máquinas Industriais e Máquinas Industriais Rebocáveis, aprovado em anexo ao [Decreto-Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2005-589934), de 3 de março, na sua redação atual, mantêm-se válidas, até ao termo da sua vigência, para a produção de chapas de matrícula dos modelos correspondentes, constantes do anexo v ao referido Regulamento, na redação introduzida pelo presente decreto-lei.
+
+3 - O IMT, I. P., pode autorizar a instalação de chapas de matrícula do modelo em uso à data da primeira matrícula do veículo, no caso dos veículos de interesse histórico.
+
+###### Artigo 10.º — Norma revogatória
+
+São revogados os n.os 5 e 7 do artigo 5.º do Regulamento de Matrícula dos Automóveis, Seus Reboques, Motociclos, Ciclomotores, Triciclos, Quadriciclos, Máquinas Industriais e Máquinas Industriais Rebocáveis, aprovado em anexo ao [Decreto-Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2005-589934), de 3 de março, na sua redação atual.
+
+###### Artigo 11.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 19 de dezembro de 2019. - Pedro Gramaxo de Carvalho Siza Vieira - Alexandra Ludomila Ribeiro Fernandes Leitão - Pedro Nuno de Oliveira Santos.
+
+Promulgado em 8 de janeiro de 2020.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 10 de janeiro de 2020.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+## ANEXO — (a que se refere o artigo 3.º)
+
+## ANEXO V — Modelo I - Automóveis (frente e retaguarda)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf)
+
+Modelo II - Automóveis (retaguarda)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf)
+
+Modelo III - Reboques
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf)
+
+Modelo IV - Motociclos de cilindrada superior a 50 cm3 e triciclos
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf)
+
+Modelo V - Ciclomotores, motociclos de cilindrada não superior a 50 cm3 e quadriciclos
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf)
+
+Modelo VI - Ciclomotores de três rodas e quadriciclos
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf)
+
+Modelo VII - Máquinas industriais e máquinas industriais rebocáveis (frente, retaguarda ou lateral)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf)
+
+Modelo VIII - Máquinas industriais e máquinas industriais rebocáveis (retaguarda ou lateral)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf)
+
+112916514

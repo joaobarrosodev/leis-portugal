@@ -1,0 +1,732 @@
+---
+schema_version: '1.0'
+id: pt:dre:411608:por
+title: Decreto-Lei n.º 117-A/2012
+short_title: null
+summary: Aprova a orgânica da Entidade de Serviços Partilhados da Administração Pública, I. P. (ESPAP, I. P.), e extingue
+  a Empresa de Gestão Partilhada de Recursos da Administração Pública, E. P. E. (GeRAP), e a Agência Nacional de Compras Públicas,
+  E. P. E. (ANCP)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 117-A/2012
+official_date: null
+publication_date: '2012-06-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14
+  number: '114'
+  series: I
+  supplement: 1º Suplemento
+  pages: 2998-(3) a 2998-(9)
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/06/11401/0000300009.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-05-27'
+version_history:
+  file: decreto-lei-117-a-2012.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2012-06-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-01-30'
+    amending: pt:dre:839477381:por
+    amending_title: Decreto-Lei n.º 17/2024
+    changes:
+    - Adita Artigo 1.º-A
+  - date: '2024-11-29'
+    amending: pt:dre:898201692:por
+    amending_title: Decreto-Lei n.º 95/2024
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 14.º
+    - Altera Artigo 17.º
+  - date: '2025-12-25'
+    amending: pt:dre:992627242:por
+    amending_title: Decreto-Lei n.º 130/2025
+    changes:
+    - Adita Artigo 24.º-A
+  - date: '2026-05-27'
+    amending: pt:dre:1126594009:por
+    amending_title: Decreto-Lei n.º 105/2026
+    changes:
+    - Altera Artigo 24.º-A
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/117-a/2012/p/cons/20260526/pt/html
+  oj: null
+  dre: '411608'
+  dre_path: /dr/detalhe/decreto-lei/117-a-2012-411608
+  internal: pt:dre:411608:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608
+  metadata_url: https://data.dre.pt/eli/dec-lei/117-a/2012/p/cons/20260526/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-34583975
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-34583975
+  retrieved_at: '2026-10-22T11:54:48Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 3642b59d14c31dc39c087d4bee82dd9040566e4fb70c2b570846f3c1498db0f2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:54:48Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-117-a-2012.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agência Nacional de Compras Públicas
+- Fiscal Único
+- Definição de Competências
+- Extinção de Serviços
+- Bolsa de Emprego Público
+- Conselho Diretivo
+- Gerap
+- Instituto de Informática
+- Instituto Público
+- Entidade de Serviços Partilhados da Administração Pública
+- Orgânica
+- Prestação de Serviços
+relationships:
+- type: amended_by
+  target: pt:dre:839477381:por
+  label: Adita Artigo 1.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381
+  date: '2024-01-29'
+- type: amended_by
+  target: pt:dre:898201692:por
+  label: Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 14.º;
+    Altera Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2024-898201692
+  date: '2024-11-28'
+- type: amended_by
+  target: pt:dre:992627242:por
+  label: Adita Artigo 24.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2025-992627242
+  date: '2025-12-24'
+- type: amended_by
+  target: pt:dre:1126594009:por
+  label: Altera Artigo 24.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2026-1126594009
+  date: '2026-05-26'
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
+- type: cites
+  target: pt:dre:145590:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/117/2011/12/15/p/dre
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: http://data.dre.pt/eli/lei/55-a/2010/12/31/p/dre
+- type: cites
+  target: pt:dre:517987:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/37/2007/02/19/p/dre
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/200/2006/10/25/p/dre
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:640899:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/300/2007/08/23/p/dre
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/558/1999/12/17/p/dre
+article_structure:
+  article_count: 30
+  section_count: 4
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:54:48Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 117-A/2012
+
+Decreto-Lei n.º 117-A/2012
+
+de 14 de junho
+
+No âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços.
+
+Trata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objetivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objetivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de otimização do funcionamento da Administração Pública.
+
+Importa decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.
+
+Através do presente decreto-lei concretiza-se a criação da Entidade de Serviços Partilhados da Administração Pública, I. P. (ESPAP, I. P.), que assume a missão e atribuições do Instituto de Informática, da Empresa de Gestão Partilhada de Recursos da Administração Pública, E. P. E. (GeRAP), e da Agência Nacional de Compras Públicas, E. P. E. (ANCP), que são extintos, por fusão.
+
+A fusão das atribuições do Instituto de Informática, da GeRAP e da ANCP na ESPAP, I. P., irá refundar e melhorar o desempenho das funções ligadas ao desenvolvimento e à gestão dos serviços partilhados prestados à Administração Pública no seu conjunto, agilizando a adoção de soluções e modelos de operação comuns e mais eficientes, nomeadamente nas áreas de gestão de recursos humanos, financeiros e das tecnologias de informação e comunicação (TIC), e potenciando sinergias das várias valências até aqui dispersas por três realidades organizacionais.
+
+Com a criação deste organismo, integrado na administração indireta do Estado, mantém-se a firme resolução do Governo na extensão do modelo de serviços partilhados a toda a Administração Pública, procurando uma alocação mais eficiente dos recursos existentes.
+
+Pretende-se, assim, prosseguir com o Programa de Gestão Partilhada de Recursos na Administração Pública (GeRALL), que a GeRAP tem vindo a promover, expandindo e consolidando a adoção dos instrumentos e modelos nas áreas de Gestão de Recursos Financeiros e Orçamentais em modo partilhado (GeRFiP) e de Gestão de Recursos Humanos em modo Partilhado (GeRHuP), por forma a tirar o maior partido dos ganhos proporcionados pela sua adoção.
+
+Com a prestação de serviços partilhados reduzem-se custos de funcionamento e criam-se oportunidades de melhoria, traduzidas, entre outras, em aproveitamento de soluções e capacidades de serviço de uso comum, em redução de esforço administrativo promovida pela uniformização, integração e automatização dos processos, em disponibilização de ferramentas adequadas ao processo de tomada de decisão e em partilha de informação com os diversos serviços da Administração Pública que dela necessitam no âmbito das suas atribuições.
+
+Na área das TIC, prevê-se a utilização das capacidades existentes como instrumentos de dinamização e suporte à prestação de serviços partilhados e, em geral, à promoção da reutilização e partilha de recursos comuns, designadamente em sintonia com os objetivos estabelecidos no plano global estratégico de racionalização e redução de custos com as TIC, na Administração Pública, aprovado pela Resolução do Conselho de Ministros n.º 12/2012, de 7 de fevereiro.
+
+Sublinha-se que a aposta na prestação de serviços partilhados constitui também uma resposta ao compromisso assumido no âmbito do Programa de Assistência Económica e Financeira (PAEF) acordado com o Fundo Monetário Internacional, a Comissão Europeia e o Banco Central Europeu, de reforçar a racionalidade da atuação pública e de reduzir a despesa contribuindo para o equilíbrio das contas públicas.
+
+Mantém-se o Sistema Nacional de Compras Públicas (SNCP) definido no Decreto-Lei n.º 37/2007, de 19 de fevereiro, assumindo a ESPAP, I. P., as funções de entidade gestora daquele sistema, sucedendo à ANCP. A ESPAP, I. P., assume também as funções de gestora do parque de veículos do Estado (PVE), sucedendo à ANCP. Esta transição de atribuições nas áreas referidas não implica qualquer alteração ao regime disciplinador do SNCP, da contratação pública e do PVE nem prejudica a sua eventual revisão no futuro. Neste processo visa-se igualmente assegurar a continuidade dos projetos em curso, através do aproveitamento das competências e conhecimento dos recursos humanos das entidades extintas.
+
+Destarte, dadas as valências dos recursos humanos da GeRAP e da ANCP, com relação jurídica laboral constituída ao abrigo do disposto nos artigos 16.º e 17.º do Decreto-Lei n.º 558/99, de 17 de dezembro, alterado e republicado pelo Decreto-Lei n.º 300/2007, de 23 de agosto, e pelas Leis n.os 64-A/2008, de 31 de dezembro, e 55-A/2010, de 31 de dezembro, procede-se à transição daquele pessoal, na situação jurídico-funcional de que hoje é titular, para a ESPAP, I. P.
+
+Ao mesmo tempo, equipara-se a ESPAP, I. P., a entidade pública empresarial para efeitos de conceção e desenvolvimento de soluções, aplicações, plataformas, projetos e execução de atividades conducentes ou necessárias à prestação de serviços partilhados, compras públicas, gestão do PVE e às respetivas atividades de suporte e, em geral, à promoção da utilização de recursos comuns na Administração Pública.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 9.º da Lei n.º 3/2004, de 15 de janeiro, no artigo 34.º do Decreto-Lei n.º 558/99, de 17 de dezembro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Natureza, missão, órgãos e estrutura
+
+###### Artigo 1.º — Natureza
+
+1 - A Entidade de Serviços Partilhados da Administração Pública, I. P., abreviadamente designada por ESPAP, I. P., é um instituto público de regime especial, nos termos da lei, integrado na administração indireta do Estado, dotado de autonomia administrativa e financeira e de património próprio.
+
+2 - A ESPAP, I. P., prossegue as atribuições do Ministério das Finanças sob superintendência e tutela do respetivo ministro.
+
+3 - A ESPAP, I. P., é equiparada a entidade pública empresarial para efeitos de conceção e desenvolvimento de soluções, aplicações, plataformas, projetos e execução de atividades conducentes ou necessárias à prestação de serviços partilhados, à prestação de serviços comuns e de suporte administrativo e especializado, compras públicas, gestão do parque de veículos do Estado (PVE) e às respetivas atividades de suporte e, em geral, à promoção da utilização de recursos comuns na Administração Pública.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 95/2024 - Diário da República n.º 231/2024, Série I de 2024-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2024-898201692), em vigor a partir de 2024-11-29, produz efeitos a partir de 2024-11-01
+
+###### Artigo 1.º-A — Norma interpretativa
+
+A equiparação da ESPAP, I. P., a entidade pública empresarial prevista no n.º 3 do artigo anterior, abrange o regime laboral.
+
+> Aditado pelo/a Artigo 149.º do/a [Decreto-Lei n.º 17/2024 - Diário da República n.º 20/2024, Série I de 2024-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), em vigor a partir de 2024-01-30, produz efeitos a partir de 2024-01-01
+
+###### Artigo 2.º — Jurisdição territorial e sede
+
+1 - A ESPAP, I. P., é um organismo central com jurisdição sobre todo o território nacional.
+
+2 - A ESPAP, I. P., tem sede no distrito de Lisboa.
+
+###### Artigo 3.º — Missão e atribuições
+
+1 - A ESPAP, I. P., tem por missão assegurar o desenvolvimento e a prestação de serviços partilhados no âmbito da Administração Pública, conceber, gerir e avaliar o Sistema Nacional de Compras Públicas (SNCP) e assegurar a gestão do PVE, apoiando a definição de políticas estratégicas nas áreas das tecnologias de informação e comunicação (TIC), garantindo o planeamento, conceção, execução e avaliação das iniciativas de informatização tecnológica, bem como assegurar a prestação de serviços comuns e de suporte administrativo e especializado.
+
+2 - São atribuições da ESPAP, I. P., a prestação de serviços partilhados ou comuns no âmbito da gestão de recursos humanos, mediante disponibilização de instrumentos de suporte e ou execução das seguintes atividades de apoio técnico ou administrativo:
+
+a) Planeamento de necessidades de pessoal;
+
+b) Criação, caraterização e alteração de postos de trabalho;
+
+c) Orçamentação de despesas com pessoal;
+
+d) Recrutamento e seleção de pessoal;
+
+e) Constituição, alteração e cessação das relações jurídicas de emprego;
+
+f) Registo e atualização de dados profissionais e pessoais necessários para a gestão dos recursos humanos;
+
+g) Mobilidade de trabalhadores;
+
+h) Assiduidade e trabalho suplementar;
+
+i) Deslocações em serviço;
+
+j) Processamento de abonos e descontos;
+
+k) Proteção social e sistemas ou subsistemas de saúde;
+
+l) Formação profissional;
+
+m) Avaliação do desempenho de trabalhadores e serviços;
+
+n) Informação, operacional e analítica, de apoio à gestão, incluindo mapas legais obrigatórios.
+
+3 - São atribuições da ESPAP, I. P., a prestação de serviços partilhados ou comuns no âmbito da gestão orçamental e de recursos financeiros, mediante disponibilização de instrumentos de suporte e ou execução das seguintes atividades de apoio técnico ou administrativo:
+
+a) Contabilidade orçamental, através da gestão, monitorização e controlo do orçamento e respetiva execução orçamental;
+
+b) Contabilidade geral, incluindo a produção dos diferentes mapas e peças contabilísticas;
+
+c) Contas a receber, através do registo da faturação de recebimentos de clientes;
+
+d) Contas a pagar, através da contabilização e registo de faturas de fornecedores e respetivos pagamentos;
+
+e) Tesouraria, através da gestão de dados de bancos, contas bancárias, emissão de meios de pagamento e respetiva reconciliação bancária;
+
+f) Imobilizado, através do registo e controlo contabilístico dos ativos fixos e imobilizado em curso, disponibilizando informação sobre transações de imobilizado e amortizações efetuadas;
+
+g) Gestão de contratos, através do registo e monitorização da informação relativa a contratos;
+
+h) Contabilidade analítica, através do registo das operações relevantes;
+
+i) Gestão da aquisição de bens e serviços, através do registo e monitorização da componente de aprovisionamentos;
+
+j) Gestão de existências em armazém, através do registo e monitorização dos movimentos de armazém;
+
+k) Vendas e distribuição, através do registo e monitorização do processo.
+
+4 - São atribuições da ESPAP, I. P., no âmbito das compras públicas:
+
+a) Negociar e celebrar acordos quadro ou outros contratos públicos de obras e de fornecimento de bens ou de serviços destinados às entidades públicas adjudicantes compradoras;
+
+b) Acompanhar e apoiar as Unidades Ministeriais de Compras (UMC) nas negociações dos contratos públicos a celebrar ao nível ministerial;
+
+c) Agregar e tratar a informação relativa às compras públicas;
+
+d) Definir, desenvolver e implementar estratégias de compra e negociação para as aquisições centralizadas, preservando e incrementando os níveis de concorrência nos respetivos setores de atividade;
+
+e) Elaborar propostas de legislação, de procedimentos e de adoção de sistemas de informação de suporte relacionados com as compras públicas;
+
+f) Apoiar o membro do Governo da tutela na definição de políticas e linhas de orientação para as compras públicas;
+
+g) Coordenar e apoiar os serviços, organismos e entidades públicas e seus fornecedores na adoção das normas e procedimentos definidos para o aprovisionamento público;
+
+h) Promover a adoção de procedimentos de natureza normativa relativos à aquisição e utilização de sistemas informáticos de suporte ao aprovisionamento público;
+
+i) Implementar e manter uma plataforma que permita assegurar o suporte ao ciclo integral de compras, privilegiando o relacionamento desmaterializado entre as empresas fornecedoras e a Administração Pública;
+
+j) Gerir as aplicações centralizadas que integram o Sistema de Compras Públicas Eletrónicas;
+
+k) Adotar práticas e privilegiar a aquisição de bens e serviços que promovam o equilíbrio adequado entre a eficiência financeira e a proteção do ambiente;
+
+l) Avaliar permanentemente o desempenho do Sistema Nacional de Compras Públicas (SNCP), designadamente mediante a promoção da realização de auditorias pelos serviços de inspeção e controlo competentes para o efeito.
+
+m) Assegurar as funções de Unidade Ministerial de Compras, sempre que esta atribuição não esteja acometida a outro serviço ou organismo.
+
+5 - São atribuições da ESPAP, I. P., no âmbito do PVE:
+
+a) Gerir o PVE, assegurando a aquisição e locação, em qualquer das suas modalidades, e a afetação, manutenção, assistência, reparação, abate e alienação de veículos, bem como dos bens e serviços necessários para o efeito;
+
+b) Assegurar a satisfação das necessidades dos serviços e organismos abrangidos pelo regime jurídico do PVE, no que se refere à utilização de veículos, incluindo a gestão das respetivas frotas;
+
+c) Assegurar a elaboração e atualização do inventário do PVE;
+
+d) Proceder à recolha e controlo de dados relativos aos veículos que integram o PVE e à respetiva utilização;
+
+e) Proceder ao tratamento estatístico dos dados relativos ao PVE e ao apuramento de indicadores que permitam aferir o nível de eficiência na gestão e utilização dos veículos, bem como a identificação de desvios;
+
+f) Promover o cumprimento das normas aplicáveis aos veículos que integrem o PVE;
+
+g) Propor ao membro do Governo da tutela projetos de regulamentação necessária à adequada gestão e utilização dos veículos que integram o PVE e que, pela sua natureza, não possam ser por si aprovados.
+
+6 - São atribuições da ESPAP, I. P., no âmbito das TIC:
+
+a) Promover e assegurar, em sintonia com os objetivos estabelecidos no plano global estratégico de racionalização e redução de custos com as TIC na Administração Pública, a disponibilização, gestão e operação de sistemas e infraestruturas de TIC, que promovam a racionalização e reutilização de recursos tecnológicos, numa lógica de serviços partilhados;
+
+b) Promover a racionalização, em articulação com outras entidades, designadamente com a Agência para a Modernização Administrativa, I. P., da evolução do modelo de governação das TIC, ajustando as modalidades de aquisição às ofertas do mercado e às soluções adotadas para a Administração Pública;
+
+c) Promover, em articulação com outras entidades, designadamente com a Agência para a Modernização Administrativa, I. P., a racionalização, flexibilização e agilização da utilização de meios tecnológicos pela Administração Pública, melhorando a qualidade do serviço prestado e diminuindo os custos envolvidos;
+
+d) Assegurar a articulação com os serviços e organismos com atribuições interministeriais na área das TIC, garantindo a participação em iniciativas de natureza transversal, a aplicação de normas e orientações comuns, a utilização de infraestruturas tecnológicas partilhadas da Administração Pública e a integração em processos aquisitivos agregados com outros ministérios;
+
+e) Assegurar a articulação entre o plano global estratégico de racionalização e redução de custos com as TIC na Administração Pública e a prestação de serviços partilhados e as compras públicas;
+
+f) Apoiar a definição de políticas de regulação, aquisição e gestão de recursos de TIC, com vista à racionalização global de meios e recursos, em articulação com outros serviços ou organismos inter e intraministeriais com responsabilidades neste domínio;
+
+g) Assegurar a definição, gestão e administração de bases de dados do Ministério das Finanças e ou globais, de utilização comum pela Administração Pública que lhe sejam cometidas e proceder à gestão e apoio à utilização dos sistemas operacionais a seu cargo, nomeadamente o suporte à elaboração, gestão e controlo do Orçamento do Estado;
+
+h) Prestar outros serviços que venham a ser determinados pelos membros do Governo com poderes de tutela ou superintendência ou solicitados por serviços e organismos do Ministério das Finanças ou de outros ministérios e outras entidades.
+
+7 - A ESPAP, I. P., tem ainda como atribuição processar, financiar e pagar as despesas resultantes de reconstituição de bens do Estado ou de indemnizações devidas a trabalhadores ou terceiros, nos termos definidos na lei.
+
+8 - Pode ainda ser determinada à ESPAP, I. P., por despacho do membro do Governo da tutela, a atribuição de prestação de serviços partilhados noutros domínios nos quais se considere existir oportunidade de reutilização e partilha de dados, recursos ou soluções comuns à Administração Pública.
+
+> Nota: [Artigo 6.º, Decreto-Lei n.º 95/2024 - Diário da República n.º 231/2024, Série I de 2024-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2024-898201692) O disposto no n.º 7 do presente artigo, produz efeitos a 1 de junho de 2025.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 95/2024 - Diário da República n.º 231/2024, Série I de 2024-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2024-898201692), em vigor a partir de 2024-11-29, produz efeitos a partir de 2024-11-01
+
+###### Artigo 4.º — Órgãos
+
+1 - São órgãos da ESPAP, I. P.:
+
+a) O conselho diretivo;
+
+b) O fiscal único.
+
+2 - Junto da ESPAP, I. P., funciona a comissão interministerial de compras.
+
+###### Artigo 5.º — Conselho diretivo
+
+1 - O conselho diretivo é composto por um presidente, por um vice-presidente e por quatro vogais.
+
+2 - Sem prejuízo das competências conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao conselho diretivo, no âmbito da orientação e gestão da ESPAP, I. P.:
+
+a) Assegurar a representação da ESPAP, I. P., nas comissões, grupos de trabalho ou atividades de organismos nacionais e estrangeiros;
+
+b) Assegurar as relações da ESPAP, I. P., com os outros serviços ou organismos do Estado e com outras entidades nacionais, públicas ou privadas;
+
+c) Submeter à aprovação do membro do Governo da tutela os projetos de regulamentação necessários à atividade da ESPAP, I. P., e que não possam ser por si aprovados;
+
+d) Elaborar as propostas de tipologias de serviços a prestar pela ESPAP, I. P., podendo associar-lhes um preço, e submetê-las à aprovação do membro do Governo da tutela;
+
+e) Negociar e celebrar contratos-programa, acordos de níveis de serviço, acordos quadro e outros contratos, públicos e privados, necessários ao desenvolvimento das atividades da ESPAP, I. P.;
+
+f) Proceder à definição de parcerias estratégicas com entidades públicas ou privadas e celebrar os respetivos protocolos;
+
+g) Promover a necessária articulação com os serviços e organismos da Administração Pública que, no âmbito das respetivas atribuições de natureza normativa e de coordenação, prestam apoio técnico na fixação dos requisitos dos processos desenvolvidos pela ESPAP, I. P.
+
+3 - O conselho diretivo pode delegar em qualquer dos seus membros as competências que lhe são cometidas, bem como delegar competências em matéria administrativa e financeira em dirigentes e coordenadores de equipas ou projetos da ESPAP, I. P., estabelecendo, em cada caso, os respetivos limites e condições.
+
+4 - O presidente do conselho diretivo pode delegar ou subdelegar competências próprias no vice-presidente, em qualquer dos vogais ou em trabalhadores da ESPAP, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 95/2024 - Diário da República n.º 231/2024, Série I de 2024-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2024-898201692), em vigor a partir de 2024-11-29, produz efeitos a partir de 2024-11-01
+
+###### Artigo 6.º — Fiscal único
+
+O fiscal único é designado e tem as competências previstas na lei quadro dos institutos públicos.
+
+###### Artigo 7.º — Comissão interministerial de compras
+
+1 - Junto da ESPAP, I. P., funciona a comissão interministerial de compras (CIC), mantendo articulação com o Fórum da Administração Pública, previsto no Decreto-Lei n.º 43-B/2024, de 2 de julho, cuja presidência é assegurada pelo presidente do conselho diretivo da ESPAP, I. P., ou por quem este designar.
+
+2 - A CIC é integrada, por inerência, pelo diretor-geral do Orçamento, pelo secretário-geral do Governo, pelos secretários-gerais dos Ministérios dos Negócios Estrangeiros, da Defesa Nacional e da Administração Interna e por um representante a indicar por cada área governativa.
+
+3 - Os restantes membros do conselho diretivo e o fiscal único da ESPAP, I. P., podem participar nas reuniões da CIC, sem direito a voto.
+
+4 - Podem ainda participar nas reuniões da CIC, sem direito a voto, por convocação do presidente, mediante proposta do conselho diretivo, tendo em conta os assuntos a apreciar, outras entidades cuja presença seja considerada útil ou necessária.
+
+5 - Compete à CIC:
+
+a) Pronunciar-se sobre as linhas gerais da política de aquisições públicas;
+
+b) Pronunciar-se sobre o aperfeiçoamento do quadro legal e regulamentar de aquisições públicas vigente;
+
+c) Pronunciar-se sobre o estabelecimento de padrões e níveis de consumo adequados às diferentes unidades;
+
+d) Assegurar a ligação entre a ESPAP, I. P., e os ministérios, no que se refere à recolha e divulgação dos elementos necessários ao funcionamento do sistema de aquisições públicas;
+
+e) Promover a permuta de informação entre os serviços e organismos utilizadores e cada departamento ministerial, de forma a melhorar as condições de processamento das aquisições;
+
+f) Dar parecer sobre quaisquer assuntos relacionados com as aquisições públicas, que lhe sejam submetidos pelo membro do Governo responsável pela área das finanças, pelo conselho diretivo da ESPAP, I. P., ou pelo seu presidente.
+
+6 - A CIC reúne, ordinariamente, pelo menos duas vezes por ano e, extraordinariamente, sempre que o presidente, por sua iniciativa ou a solicitação de um terço dos seus membros, a convocar.
+
+7 - As reuniões são convocadas pelo presidente com a antecedência mínima de cinco dias úteis, devendo ser indicados na convocatória a data, a hora e o local em que se realizam, bem como a ordem de trabalhos.
+
+8 - O exercício das funções na CIC não é remunerado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 95/2024 - Diário da República n.º 231/2024, Série I de 2024-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2024-898201692), em vigor a partir de 2024-11-29, produz efeitos a partir de 2024-11-01
+
+###### Artigo 8.º — Organização interna
+
+A organização interna da ESPAP, I. P., é a prevista nos respetivos estatutos e regulamentos internos, a aprovar nos termos da Lei-Quadro dos Institutos Públicos, aprovada pela Lei n.º 3/2004, de 15 de janeiro, na sua redação atual.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 95/2024 - Diário da República n.º 231/2024, Série I de 2024-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2024-898201692), em vigor a partir de 2024-11-29, produz efeitos a partir de 2024-11-01
+
+###### Artigo 9.º — Estatuto dos membros do conselho diretivo
+
+Os membros do conselho diretivo são equiparados, para efeitos remuneratórios, a gestores públicos.
+
+###### Artigo 10.º — Receitas
+
+1 - A ESPAP, I. P., dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+
+2 - A ESPAP, I. P., dispõe ainda das seguintes receitas próprias:
+
+a) As quantias cobradas pela prestação de serviços no âmbito das suas atribuições;
+
+b) O produto da venda de publicações e outros bens;
+
+c) As doações, heranças ou legados;
+
+d) As comparticipações, transferências, subsídios ou donativos concedidos por quaisquer entidades de direito público ou privado, nacionais ou estrangeiras;
+
+e) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.
+
+3 - As receitas referidas no número anterior são consignadas à realização de despesas da ESPAP, I. P., durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos do decreto-lei de execução orçamental anual.
+
+4 - A ESPAP, I. P., é remunerada no âmbito do SNCP, nos termos definidos em portaria do membro do Governo da tutela.
+
+5 - As receitas da atividade da ESPAP, I. P., decorrentes dos serviços prestados no âmbito do PVE obedecem aos parâmetros igualmente definidos em portaria do membro do Governo da tutela.
+
+###### Artigo 11.º — Despesas
+
+Constituem despesas da ESPAP, I. P., as que resultem de encargos decorrentes da prossecução das respetivas atribuições.
+
+###### Artigo 12.º — Património
+
+O património da ESPAP, I. P., é constituído pela universalidade de bens, direitos e obrigações de que seja titular.
+
+### Capítulo II — Princípios e objetivos orientadores da atividade e destinatários e termos da prestação dos serviços
+
+###### Artigo 13.º — Princípios e objetivos orientadores
+
+No exercício da sua atividade, a ESPAP, I. P., rege-se pelos seguintes princípios e objetivos orientadores:
+
+a) Promoção de uma cultura de prestação de serviço e o estabelecimento de relações do tipo cliente-fornecedor, prestando serviços adequados às necessidades dos serviços-clientes, com níveis de serviço definidos e podendo associar-lhes um preço;
+
+b) Contribuir para a melhoria da qualidade de gestão dos serviços e organismos e para a redução de custos de funcionamento e gestão da Administração Pública;
+
+c) Potenciar a transmissão de conhecimento interorganizações, permitindo a identificação e a disseminação de boas práticas no sentido da obtenção de elevados padrões de qualidade de serviço;
+
+d) Potenciar a obtenção de economias de escala e a eliminação de redundâncias;
+
+e) Catalisar o aumento da capacidade adaptativa da Administração Pública e potenciar a integração e consolidação interorganizações;
+
+f) Otimizar a afetação de recursos através de uma contínua normalização e racionalização dos processos de trabalho;
+
+g) Promover a normalização de processos, desenvolvendo, mantendo e melhorando, de forma rápida e contínua, padrões de processos que assegurem o cumprimento dos normativos em vigor, a integração e a otimização;
+
+h) Introduzir, incentivar e colaborar na adoção e utilização das melhores práticas nos domínios da gestão pública;
+
+i) Assegurar a avaliação pelos resultados, com base em objetivos definidos nos acordos de níveis de serviço, na execução financeira e na eficiência administrativa;
+
+j) Assegurar o princípio da igualdade de acesso dos interessados aos procedimentos de formação de acordos quadro ou outros contratos públicos.
+
+###### Artigo 14.º — Destinatários dos serviços
+
+1 - Os destinatários da atividade da ESPAP, I. P., nos domínios da prestação de serviços são designados, no presente decreto-lei, por serviços-clientes.
+
+2 - A disseminação da prestação de serviços efetua-se de forma gradual, competindo à ESPAP, I. P., de acordo com as determinações do membro do Governo da tutela:
+
+a) Configurar os modelos operacionais a adotar nos domínios correspondentes ao seu objeto;
+
+b) Definir um programa de implementação geral dos modelos operacionais;
+
+c) Implementar, gradual e controladamente, os modelos operacionais, e mobilizar, em articulação com os serviços-clientes, os meios e recursos necessários à prestação de serviços no âmbito das suas atribuições;
+
+d) Criar e mobilizar as estruturas definitivas que assegurem a prestação de serviços partilhados e comuns.
+
+3 - A ESPAP, I. P., pode ainda prestar serviços no âmbito das administrações regionais e autárquicas e às restantes entidades do sector público administrativo, independentemente da sua natureza e forma, tal como definido na Lei de Enquadramento Orçamental, designadamente nos termos do artigo seguinte.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 95/2024 - Diário da República n.º 231/2024, Série I de 2024-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2024-898201692), em vigor a partir de 2024-11-29, produz efeitos a partir de 2024-11-01
+
+###### Artigo 15.º — Termos da prestação dos serviços
+
+1 - A ESPAP, I. P., presta serviços, podendo ser remunerada e celebrando, para o efeito, contratos com os serviços-clientes.
+
+2 - As relações contratuais entre a ESPAP, I. P., e os serviços-clientes são fixadas no quadro do regulamento aprovado pelo conselho diretivo da ESPAP, I. P., homologado pelo membro do Governo da tutela, e publicado no sítio da Internet daquele organismo, à luz do qual são celebrados os contratos-programa e os contratos a que se refere o número anterior.
+
+3 - A prestação de serviços no âmbito do SNCP e da gestão do PVE é regulada em diploma próprio.
+
+4 - O membro do Governo da tutela estabelece, por despacho, mediante proposta da ESPAP, I. P., os termos da prestação de serviços por este organismo, incluindo a definição dos resultados a alcançar.
+
+###### Artigo 16.º — Prestação de serviços no âmbito do processo orçamental
+
+1 - Os serviços prestados pela ESPAP no âmbito do processo orçamental fazem parte das suas atribuições essenciais, não estando sujeitos a contratualização e não sendo remunerados.
+
+2 - Os serviços referidos no número anterior são especificados pelo membro do Governo responsável pela área das finanças.
+
+### Capítulo III — Relações com outras entidades
+
+###### Artigo 17.º — Colaboração, orientações técnicas e articulação
+
+1 - A ESPAP, I. P., presta e recebe colaboração dos serviços e organismos das administrações central do Estado, direta e indireta, regionais e autárquicas, no âmbito das suas atribuições.
+
+2 - Na normalização de processos e na prestação de serviços, a ESPAP, I. P., observa as orientações de natureza técnica e de coordenação estabelecidas pelos serviços e organismos competentes, designadamente em matéria de gestão financeira e de gestão e requalificação de recursos humanos.
+
+3 - Para cumprimento da missão e atribuições da ESPAP, I. P., todos os serviços e organismos, no âmbito das respetivas atribuições, articulam-se com aquela e, em especial, os seguintes:
+
+a) Direção-Geral do Orçamento;
+
+b) Direção-Geral da Administração e do Emprego Público;
+
+c) Autoridade Tributária e Aduaneira;
+
+d) Instituto Nacional de Administração, I. P.;
+
+e) Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E.;
+
+f) Instituto de Proteção e Assistência na Doença, I. P.;
+
+g) Caixa Geral de Aposentações, I. P.;
+
+h) Instituto da Segurança Social, I. P.;
+
+i) Agência para a Modernização Administrativa, I. P.;
+
+j) Secretaria-Geral do Governo;
+
+k) Secretarias-Gerais dos Negócios Estrangeiros, da Defesa Nacional e da Administração Interna.
+
+4 - Os termos da articulação a que se refere o número anterior, bem como os deveres de colaboração dos serviços-clientes com a ESPAP, I. P., podem ser estabelecidos por portaria dos membros do Governo responsáveis pelas áreas das finanças e da administração pública e da tutela do serviço ou organismo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 95/2024 - Diário da República n.º 231/2024, Série I de 2024-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2024-898201692), em vigor a partir de 2024-11-29, produz efeitos a partir de 2024-11-01
+
+###### Artigo 18.º — Parcerias
+
+1 - No âmbito das suas atribuições, a ESPAP, I. P., pode, nos termos previstos nas disposições legais aplicáveis, estabelecer parcerias ou associar-se com outras entidades do setor público ou privado, com ou sem fins lucrativos, desde que se verifiquem os seguintes requisitos cumulativos:
+
+a) Se mostre relevante para a prossecução das suas atribuições;
+
+b) Resultem comprovadas sinergias de ação benéficas ao desenvolvimento das áreas em que intervém;
+
+c) Seja obtida autorização prévia do membro do Governo da tutela.
+
+2 - A ESPAP, I. P., articula-se com outros serviços e entidades públicas estrangeiros para efeitos de partilha de experiências e de modelos de intervenção no âmbito das suas atribuições.
+
+### Capítulo IV — Disposições transitórias e finais
+
+###### Artigo 19.º — Extinções
+
+1 - São extintas:
+
+a) A Empresa de Gestão Partilhada de Recursos da Administração Pública, E. P. E. (GeRAP);
+
+b) A Agência Nacional de Compras Públicas, E. P. E. (ANCP).
+
+2 - Os processos de extinção a que se refere o número anterior decorrem durante o prazo de 90 dias úteis após a entrada em vigor do presente decreto-lei, sendo-lhes aplicáveis, com as necessárias adaptações, o disposto no n.º 2 do artigo 3.º, no artigo 5.º e no n.º 3 do artigo 8.º, bem como as adequadas disposições dos artigos 11.º a 19.º, todos do Decreto-Lei n.º 200/2006, de 25 de outubro.
+
+3 - As extinções previstas nos números anteriores não carecem de escritura pública, devendo os registos ser requeridos nos termos da lei.
+
+4 - Com a entrada em vigor do presente decreto-lei cessam automaticamente os mandatos dos membros dos conselhos de administração das entidades a que se refere o n.º 1, bem como todas as comissões de serviço dos titulares dos órgãos de direção e chefia das mesmas entidades.
+
+5 - Os membros dos conselhos de administração e os titulares dos órgãos de direção e de chefia cujos mandatos e comissões de serviço cessam nos termos do número anterior, mantêm-se em funções até à conclusão dos processos de extinção a que se refere o presente artigo, assumindo os primeiros as funções de liquidatários das respetivas entidades, após a entrada em vigor do presente decreto-lei.
+
+6 - Os documentos de prestação de contas das entidades extintas são organizados e aprovados no prazo estabelecido no n.º 2.
+
+7 - Os processos de extinção são conduzidos pelos membros dos respetivos conselhos de administração, competindo-lhes, nomeadamente:
+
+a) Elaborar o inventário de todos os bens das entidades referidas no n.º 1 e submetê-lo à apreciação do membro do Governo responsável pela área das finanças;
+
+b) Submeter os relatórios e contas do exercício de 2012, até à extinção das entidades, à aprovação do membro do Governo responsável pela área das finanças;
+
+c) Facultar ao conselho diretivo da ESPAP, I. P., toda a informação e colaboração necessárias para proceder à transição para aquele organismo das atribuições, competências e recursos das respetivas entidades.
+
+###### Artigo 20.º — Extinção do Instituto de Informática
+
+1 - Ao processo de fusão decorrente da extinção do Instituto de Informática, estabelecida na alínea d) do n.º 3 do artigo 27.º do Decreto-Lei n.º 117/2011, de 15 de dezembro, aplica-se o regime do Decreto-Lei n.º 200/2006, de 25 de outubro, e da Lei n.º 53/2006, de 7 de dezembro, alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, sem prejuízo do disposto no número seguinte.
+
+2 - O processo de fusão a que se refere o número anterior inicia-se na data da entrada em vigor do presente decreto-lei e decorre no prazo previsto no n.º 2 do artigo anterior.
+
+3 - O processo de fusão a que se referem os números anteriores é conduzido pelo conselho diretivo da ESPAP, I. P., com a colaboração dos membros dos conselhos de administração da GeRAP e da ANPC.
+
+###### Artigo 21.º — Sucessão
+
+1 - A ESPAP, I. P., sucede na totalidade das atribuições e competências, bem como nos direitos e deveres e ou em todas as relações jurídicas contratuais:
+
+a) Do Instituto de Informática;
+
+b) Da GeRAP;
+
+c) Da ANCP.
+
+2 - São transferidos para a ESPAP, I. P., os bens, direitos e obrigações de que sejam titulares o Instituto de Informática, a GeRAP e a ANCP, nos termos da lei.
+
+3 - A posição jurídica do Estado nos acordos e contratos celebrados pela ANCP e nos respetivos procedimentos pendentes, qualquer que seja a fase em que se encontrem, bem como nos procedimentos de aquisição centralizada para o PVE, é transferida para a ESPAP, I. P., na data da entrada em vigor do presente decreto-lei, independentemente de quaisquer formalidades.
+
+4 - O presente decreto-lei constitui, para todos os efeitos legais, incluindo o de registo, título bastante para as transmissões de direitos e obrigações nele previstos, ficando as mesmas isentas de quaisquer taxas ou emolumentos.
+
+###### Artigo 22.º — Referências
+
+Todas as referências, legais ou regulamentares, feitas ao Instituto de Informática, à GeRAP e à ANCP devem ter-se por feitas à ESPAP, I. P.
+
+###### Artigo 23.º — Reafetação de pessoal
+
+1 - Ao pessoal titular de relação jurídica de emprego público por tempo indeterminado com ou em funções no Instituto de Informática, na GeRAP e na ANCP é aplicável o disposto na Lei n.º 53/2006, de 7 de dezembro, alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, designadamente o seu artigo 13.º, sem prejuízo do disposto no n.º 4 do presente artigo.
+
+2 - Para efeitos do disposto no número anterior, o exercício de funções no serviço e entidades ali referidos constitui o critério geral e abstrato de seleção do pessoal a reafetar à ESPAP, I. P.
+
+3 - O pessoal titular de contrato de trabalho com a GeRAP e com a ANCP, ao abrigo do disposto no artigo 16.º do Decreto-Lei n.º 558/99, de 17 de dezembro, alterado e republicado pelo Decreto-Lei n.º 300/2007, de 23 de agosto, e pelas Leis n.os 64-A/2008, de 31 de dezembro, e 55-A/2010, de 31 de dezembro, transita para a ESPAP, I. P., sem alteração do respetivo vínculo.
+
+4 - Ao pessoal em cedência de interesse público na GeRAP e na ANCP, ao abrigo do disposto no artigo 17.º do Decreto-Lei n.º 558/99, de 17 de dezembro, alterado e republicado pelo Decreto-Lei n.º 300/2007, de 23 de agosto, e pelas Leis n.os 64-A/2008, de 31 de dezembro, e 55-A/2010, de 31 de dezembro, afeto às atividades a que se refere o n.º 3 do artigo 1.º continua a ser aplicável o regime jurídico-laboral anteriormente vigente, mantendo, até ao seu termo, as situações de mobilidade geral na ESPAP, I. P.
+
+###### Artigo 24.º — Mapas de pessoal
+
+A ESPAP, I. P., elabora, nos termos legais, os mapas de pessoal correspondentes às necessidades inerentes à prossecução das respetivas atribuições e competências, designadamente tendo em conta as atividades a que se refere o n.º 3 do artigo 1.º
+
+###### Artigo 24.º-A — Trabalhadores em cedência de interesse público na Entidade de Serviços Partilhados da Administração Pública, I. P.
+
+1 - Aos trabalhadores em cedência de interesse público na ESPAP, I. P., à data da entrada em vigor dos diplomas que estabelecem a reorganização dos seus serviços de origem, incluindo os reafetos àquela entidade na sequência destes processos de reorganização, continua a ser aplicável o regime jurídico-laboral anteriormente vigente, mantendo-se as cedências de interesse público até ao seu termo.
+
+2 - Atenta a equiparação a entidade pública empresarial prevista nos artigos 1.º e 1.º-A, a ESPAP, I. P., pode celebrar acordos de cedência de interesse público com trabalhadores detentores de contrato de trabalho em funções públicas, com vínculo à ESPAP, I. P., nos termos previstos nos artigos 241.º e seguintes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, para desempenho de funções em carreira prevista no regulamento de Carreiras da ESPAP, I. P.
+
+3 - A celebração de quaisquer acordos de cedência de interesse público que prevejam remunerações superiores às que resultariam do artigo 4.º do Decreto-Lei n.º 80/2025, de 22 de maio, com as necessárias adaptações, carecem das autorizações legais aplicáveis.
+
+4 - O previsto no número anterior não prejudica a manutenção do vínculo de emprego público nem a possibilidade de conversão definitiva prevista no Decreto-Lei n.º 80/2025, de 22 de maio.
+
+> Alterado pelo/a Artigo 163.º do/a [Decreto-Lei n.º 105/2026 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2026-1126594009), em vigor a partir de 2026-05-27.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 130/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2025-992627242), em vigor a partir de 2025-12-25
+
+###### Artigo 25.º — Norma transitória
+
+1 - Até à conclusão do processo de criação e entrada em pleno funcionamento da Direção-Geral da Qualificação dos Trabalhadores em Funções Públicas, prevista no Decreto-Lei n.º 48/2012, de 29 de fevereiro, a ESPAP, I. P., assume a missão, atribuições e competências da entidade gestora da mobilidade previstas no artigo 39.º da Lei n.º 53/2006, de 7 de dezembro, alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, e 64-B/2011, de 30 de dezembro.
+
+2 - No período a que se refere o número anterior, a ESPAP, I. P., assume as competências da entidade especializada pública nos termos e para os efeitos do disposto na alínea a) do n.º 2 do artigo 10.º da Portaria n.º 83-A/2009, de 22 de janeiro, alterada e republicada pela Portaria n.º 145-A/2011, de 6 de abril, as quais transitam para a Direção-Geral da Qualificação dos Trabalhadores em Funções Públicas após aquele período.
+
+3 - A data e os termos da transferência da missão, atribuições e competências a que se referem os números anteriores da ESPAP, I. P., para a Direção-Geral da Qualificação dos Trabalhadores em Funções Públicas são estabelecidos por despacho dos membros do Governo responsáveis pelas áreas das finanças e da administração pública.
+
+4 - As comunicações obrigatórias à ESPAP, I. P., bem como os restantes deveres de colaboração dos serviços no âmbito da gestão da mobilidade a que se refere o n.º 1, regem-se pelo disposto na Portaria n.º 1499-A/2007, de 21 de dezembro, alterada pela Portaria n.º 182/2011, de 5 de maio.
+
+5 - Após a transferência a que se refere o n.º 3, aplica-se à Direção-Geral da Qualificação dos Trabalhadores em Funções Públicas o regime das comunicações obrigatórias, bem como os restantes deveres de colaboração dos serviços no âmbito da gestão da mobilidade, estabelecido na Portaria n.º 1499-A/2007, de 21 de dezembro, alterada pela Portaria n.º 182/2011, de 5 de maio, competindo aos membros do Governo responsáveis pelas áreas das finanças e da administração pública regulamentar, por portaria, tais matérias.
+
+###### Artigo 26.º — Alteração ao Decreto-Lei n.º 78/2003, de 23 de abril
+
+1 - O artigo 3.º do Decreto-Lei n.º 78/2003, de 23 de abril, alterado e republicado pelo Decreto-Lei n.º 40/2008, de 10 de março, passa a ter a seguinte redação:
+
+«Artigo 3.º
+
+[...]
+
+A gestão da BEP compete à Direção-Geral da Qualificação dos Trabalhadores em Funções Públicas.»
+
+2 - A Direção-Geral da Administração e do Emprego Público assegura a gestão da Bolsa de Emprego Público (BEP) até que sejam criadas as condições para que a Direção-Geral da Qualificação dos Trabalhadores em Funções Públicas o possa fazer, nos termos do Decreto-Lei n.º 78/2003, de 23 de abril, alterado e republicado pelo Decreto-Lei n.º 40/2008, de 10 de março, e alterado pelo presente decreto-lei.
+
+3 - A data e os termos da transferência do exercício das competências referidas no número anterior para a Direção-Geral da Qualificação dos Trabalhadores em Funções Públicas são estabelecidos por despacho dos membros do Governo responsáveis pelas áreas das finanças e da administração pública.
+
+###### Artigo 27.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto-Lei n.º 25/2007, de 7 de fevereiro, alterado pelos Decretos-Leis n.os 18/2008, de 29 de janeiro, e 29-A/2011, de 1 de março;
+
+b) Os artigos 1.º, 2.º, 12.º, 13.º, os n.os 1 e 2 do artigo 14.º e o artigo 15.º, todos do Decreto-Lei n.º 37/2007, de 19 de fevereiro, alterado pela Lei n.º 3-B/2010, de 28 de abril, bem como os estatutos em anexo àquele decreto-lei;
+
+c) O Decreto-Lei n.º 83/2007, de 29 de março.
+
+###### Artigo 28.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 10 de maio de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Fernando Cassola de Miranda Relvas - Luís Pedro Russo da Mota Soares.
+
+Promulgado em 12 de junho de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 13 de junho de 2012.
+
+O Primeiro-Ministro, Pedro Passos Coelho.

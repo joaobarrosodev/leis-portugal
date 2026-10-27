@@ -1,0 +1,254 @@
+---
+schema_version: '1.0'
+id: eu:celex:32015D0772:por
+title: Decisão (UE) 2015/772 do Conselho, de 11 de maio de 2015
+short_title: null
+summary: Decisão (UE) 2015/772 do Conselho, de 11 de maio de 2015, que cria o Comité do Emprego e revoga a Decisão 2000/98/CE
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 2015/772
+official_date: null
+publication_date: '2015-05-14'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 121 de 14.5.2015
+  number: '121'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/fe4396cc-f9fa-11e4-a4c8-01aa75ed71a1.0018.01/DOC_1
+entry_into_force_dates:
+- '2015-05-15'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32015D0772
+  eli: http://data.europa.eu/eli/dec/2015/772/oj
+  oj: oj:JOL_2015_121_R_0005
+  dre: null
+  dre_path: null
+  internal: eu:celex:32015D0772:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32015D0772
+  metadata_url: http://publications.europa.eu/resource/cellar/fe4396cc-f9fa-11e4-a4c8-01aa75ed71a1.0018
+  content_url: http://publications.europa.eu/resource/cellar/fe4396cc-f9fa-11e4-a4c8-01aa75ed71a1.0018.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-26T14:15:31Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-06-11T22:09:18.855+02:00'
+integrity:
+  source_sha256: 8dcb83d731ead690f54edc277d55fee04bf89ee770b34da07310818b746df70f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T14:15:31Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- comité (UE)
+- comité do emprego (UE)
+relationships:
+- type: based_on
+  target: celex:12012E150
+  label: null
+  source: http://publications.europa.eu/resource/cellar/82a382bf-bb7a-4e90-a000-79282fa8e086
+  date: '2012-11-23'
+- type: cites
+  target: celex:12012E005
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6fb52474-ed55-43f9-a5ac-f77298218126
+- type: cites
+  target: celex:12012E148
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6ee9c141-142c-416b-a7f8-34fa9f3f7efb
+- type: cites
+  target: celex:12012E240
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7573545b-2afb-43e5-bad4-b7e877357d5a
+- type: cites
+  target: celex:31997R1466
+  label: null
+  source: http://publications.europa.eu/resource/cellar/509d41f6-5829-4bf9-aa9c-880ddb96cecb
+- type: cites
+  target: celex:32003D0174
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a9d7306a-2add-4575-98d6-228cb9010741
+- type: cites
+  target: celex:32011R1176
+  label: null
+  source: http://publications.europa.eu/resource/cellar/812eba32-e231-47ee-8ad0-734141b047ab
+- type: repeals
+  target: celex:32000D0098
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0106c36b-4622-4e5c-8b78-85d926c61e35
+  date: '2000-02-09'
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T14:15:31Z'
+  warnings: []
+  errors: []
+---
+
+# DECISÃO (UE) 2015/772 DO CONSELHO
+
+de 11 de maio de 2015
+
+que cria o Comité do Emprego e revoga a Decisão 2000/98/CE
+
+O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 150.º,
+
+Tendo em conta o parecer do Parlamento Europeu,
+
+Considerando o seguinte:
+
+(1) O artigo 5.º do Tratado dispõe que a União toma medidas para garantir a coordenação das políticas de emprego dos Estados-Membros com o objetivo de reforçar a sua eficácia mediante a elaboração de uma estratégia coordenada em matéria de emprego.
+
+(2) A parte III, título IX, do Tratado estabelece os procedimentos pelos quais os Estados-Membros e a União se empenharão em desenvolver uma estratégia coordenada em matéria de emprego e, em especial, em promover uma mão-de-obra qualificada, formada e adaptável, bem como mercados de trabalho que reajam rapidamente às mudanças económicas.
+
+(3) No desempenho das suas atribuições, que consistem designadamente em aconselhar e contribuir para os trabalhos do Conselho e da Comissão, o Comité do Emprego («Comité») deverá contribuir para assegurar que a Estratégia Europeia para o Emprego, a coordenação da política macroeconómica e o processo de reforma económica sejam formulados e executados de maneira coerente e de forma a apoiarem-se mutuamente.
+
+(4) O Comité deverá colaborar estreitamente com os parceiros sociais, nomeadamente com os representados na Cimeira Social Tripartida para o Crescimento e o Emprego criada pela Decisão 2003/174/CE do Conselho [([^1])](http://publications.europa.eu/resource/cellar/fe4396cc-f9fa-11e4-a4c8-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2015121PT.01001201-E0001).
+
+(5) Nas suas Conclusões de 27 e 28 de junho de 2013, o Conselho Europeu declarou que a dimensão social da União Económica e Monetária deveria ser reforçada. Numa primeira fase, importa acompanhar melhor e ter mais em conta a situação social e do mercado de trabalho no seio da União Económica e Monetária, nomeadamente recorrendo a indicadores sociais e de emprego adequados no âmbito do Semestre Europeu. É igualmente importante garantir uma melhor coordenação das políticas sociais e de emprego, no pleno respeito pelas competências nacionais.
+
+(6) Nas suas Conclusões de 24 e 25 de outubro de 2013, o Conselho Europeu declarou que a coordenação das políticas económicas, sociais e de emprego continuaria a ser reforçada em consonância com os procedimentos existentes, no pleno respeito pelas competências nacionais. O Conselho Europeu considerou que, para tal, era necessário envidar mais esforços para reforçar a cooperação entre as várias formações do Conselho a fim de assegurar a coerência dessas políticas em consonância com os objetivos comuns.
+
+(7) A presente decisão deverá refletir o desenvolvimento do Semestre Europeu e o papel do Comité neste processo. Em especial, o Regulamento (CE) n.º 1466/97 do Conselho [([^2])](http://publications.europa.eu/resource/cellar/fe4396cc-f9fa-11e4-a4c8-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2015121PT.01001201-E0002) prevê que o Comité Económico e Financeiro, o Comité de Política Económica, o Comité do Emprego e o Comité da Proteção Social devem ser consultados no âmbito do Semestre Europeu, sempre que tal se afigure adequado. Além disso, o Regulamento (UE) n.º 1176/2011 do Parlamento Europeu e do Conselho [([^3])](http://publications.europa.eu/resource/cellar/fe4396cc-f9fa-11e4-a4c8-01aa75ed71a1.0018.03/DOC_1#ntr3-L_2015121PT.01001201-E0003) determina que as apreciações aprofundadas devem ter em conta, se for o caso, as recomendações ou os convites dirigidos pelo Conselho aos Estados-Membros. Determina também que o plano de medidas corretivas para qualquer Estado-Membro, relativamente ao qual seja iniciado um procedimento por desequilíbrio excessivo, deve ter em conta o impacto económico e social das medidas políticas e ser consentâneo com as orientações gerais das políticas económicas e as orientações para o emprego.
+
+(8) O Comité e os órgãos da União envolvidos na coordenação das políticas económicas e sociais, nomeadamente o Comité Económico e Financeiro, o Comité de Política Económica e o Comité da Proteção Social, deverão trabalhar em estreita colaboração. Se for caso disso e de comum acordo entre os comités envolvidos, a cooperação do Comité com o Comité da Proteção Social, o Comité Económico e Financeiro e o Comité de Política Económica poderá incluir a organização de reuniões conjuntas, nomeadamente no âmbito dos respetivos papéis dos Comités no quadro do Semestre Europeu.
+
+(9) A fim de o Comité exercer eficazmente o mandato que lhe foi conferido pelo Tratado e de permitir a flexibilidade necessária para adaptar o calendário das suas atividades, nomeadamente no quadro do ciclo do Semestre Europeu, as disposições em matéria de governação respeitantes ao funcionamento do Comité deverão ser revistas, tendo em vista garantir a eficácia e a continuidade.
+
+(10) A Decisão 2000/98/CE do Conselho [([^4])](http://publications.europa.eu/resource/cellar/fe4396cc-f9fa-11e4-a4c8-01aa75ed71a1.0018.03/DOC_1#ntr4-L_2015121PT.01001201-E0004) deverá ser revogada,
+
+ADOTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º — Criação
+
+É criado o Comité do Emprego («Comité»), com carácter consultivo, para promover a coordenação das políticas de emprego e de mercado de trabalho entre os Estados-Membros, no pleno respeito do Tratado e tendo devidamente em conta as competências das instituições e dos órgãos da União.
+
+###### Artigo 2.º — Atribuições
+
+1. O Comité tem por atribuições:
+
+a) acompanhar a evolução da situação do emprego e das políticas de emprego nos Estados-Membros e na União;
+
+b) sem prejuízo do artigo 240.º do Tratado, formular pareceres, quer a pedido do Conselho ou da Comissão, quer por iniciativa própria, e contribuir para a preparação das deliberações do Conselho a que se refere o artigo 148.º do Tratado.
+
+2. Para os efeitos do n.º 1, o Comité procura, nomeadamente:
+
+a) promover a consideração de alcançar o objetivo de um elevado nível de emprego na definição e execução das políticas e ações da União;
+
+b) contribuir para o processo conducente à adoção das orientações gerais das políticas económicas, de forma a garantir a coerência entre as orientações para o emprego e as referidas orientações gerais e a contribuir para a sinergia entre a Estratégia Europeia para o Emprego, a coordenação da política macroeconómica e o processo de reforma económica de um modo mutuamente vantajoso;
+
+c) participar ativamente no diálogo sobre as políticas macroeconómicas a nível da União;
+
+d) contribuir para todos os aspetos do Semestre Europeu no âmbito do seu mandato e informar o Conselho sobre esses aspetos;
+
+e) promover intercâmbios de informação e experiências entre Estados-Membros e com a Comissão.
+
+3. O Comité adota todos os anos um programa de trabalho que tenha em conta as prioridades políticas do Conselho e da Comissão. O programa de trabalho é transmitido ao Conselho.
+
+4. O Comité pode recorrer a peritos externos em função das necessidades da sua agenda.
+
+###### Artigo 3.º — Composição
+
+1. Os Estados-Membros e a Comissão nomeiam cada um dois membros do Comité. Podem também nomear dois membros suplentes.
+
+2. Os membros do Comité e os membros suplentes são escolhidos de entre funcionários ou peritos de alto nível com comprovada competência no domínio da política de emprego e do mercado de trabalho nos Estados-Membros.
+
+3. Os Estados-Membros e a Comissão envidam todos os esforços para obter um equilíbrio entre os sexos na composição do Comité.
+
+###### Artigo 4.º — Funcionamento
+
+1. O Comité elege o seu presidente de entre os membros nomeados pelos Estados-Membros para um mandato de dois anos. O presidente pode ser reeleito uma vez para um novo mandato de dois anos. O Comité pode decidir prorrogar o mandato do presidente por um período máximo de oito meses em casos devidamente justificados, para assegurar a eficácia e a continuidade do seu trabalho. O presidente pode exercer funções durante um período máximo de quatro anos e oito meses.
+
+2. O presidente é assistido por quatro vice-presidentes, dois dos quais são eleitos pelo Comité de entre os seus membros para um mandato de dois anos, renovável uma vez. O terceiro vice-presidente é um representante do Estado-Membro que exerce a Presidência do Conselho. O quarto vice-presidente é um representante do Estado-Membro que exercer a Presidência seguinte.
+
+3. O presidente delega o seu direito de voto no seu suplente.
+
+4. As reuniões do Comité são convocadas pelo presidente, por sua própria iniciativa ou a pedido de uma maioria dos seus membros.
+
+5. O Comité elabora o seu regulamento interno.
+
+6. As despesas são reembolsadas em conformidade com as regras administrativas em vigor.
+
+7. A Comissão presta apoio analítico e organizativo adequado ao Comité. A Comissão designa um dos seus funcionários como secretário. O secretário e o pessoal que o assiste atuam por instrução do Comité sempre que o assistam no desempenho das suas atribuições. O secretário assegura a ligação com o Secretariado-Geral do Conselho no que se refere à organização de reuniões.
+
+8. O Comité trabalha, se for caso disso, em cooperação com outros órgãos e comités pertinentes no domínio da política social e económica, como o Comité da Proteção Social, o Comité Económico e Financeiro, o Comité de Política Económica, o Comité da Educação e o Conselho de Administração da Rede Europeia de Serviços Públicos de Emprego.
+
+###### Artigo 5.º — Grupos de trabalho
+
+1. O Comité pode confiar o estudo de questões específicas aos seus membros suplentes ou pode criar grupos de trabalho para esse efeito. A presidência desses grupos de trabalho é assegurada por um vice-presidente do Comité, por um membro ou por um membro suplente do Comité, por um funcionário da Comissão, ou por um membro do grupo de trabalho, ele próprio designado pelo Comité.
+
+2. A Comissão presta apoio analítico e organizativo adequado aos grupos de trabalho.
+
+3. Os grupos de trabalho podem recorrer a peritos para os assistirem.
+
+4 O Comité pode também criar grupos de trabalho conjuntos com outros comités ou órgãos, devendo as regras de governação desses grupos ser determinadas conjuntamente.
+
+###### Artigo 6.º — Consulta dos parceiros sociais
+
+No cumprimento do seu mandato, o Comité consulta os parceiros sociais. Neste contexto, estabelece contactos com os parceiros sociais representados na Cimeira Social Tripartida para o Crescimento e o Emprego.
+
+###### Artigo 7.º — Disposições transitórias
+
+O mandato de qualquer dos membros eleitos nos termos do artigo 3.º da Decisão 2000/98/CE continua até ao seu termo, tal como determinado nos termos do artigo 4.º da presente decisão. Considera-se que a data do início desse mandato é a da eleição que tenha sido realizada nos termos do artigo 3.º da Decisão 2000/98/CE.
+
+###### Artigo 8.º — Revogação
+
+A Decisão 2000/98/CE é revogada a partir da data da primeira reunião do Comité após a entrada em vigor da presente decisão. Essa reunião deve realizar-se no prazo de quatro meses a contar da data de adoção da presente decisão.
+
+###### Artigo 9.º — Entrada em vigor
+
+A presente decisão entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+Feito em Bruxelas, em 11 de maio de 2015.
+
+***Pelo Conselho***
+
+***O Presidente***
+
+**J. DŪKLAVS**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/fe4396cc-f9fa-11e4-a4c8-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2015121PT.01001201-E0001) Decisão 2003/174/CE do Conselho, de 6 de março de 2003, que institui uma Cimeira Social Tripartida para o Crescimento e o Emprego ([JO L 70 de 14.3.2003, p. 31](http://publications.europa.eu/resource/oj/JOL_2003_070_R_TOC)).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/fe4396cc-f9fa-11e4-a4c8-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2015121PT.01001201-E0002) Regulamento (CE) n.º 1466/97 do Conselho, de 7 de julho de 1997, relativo ao reforço da supervisão das situações orçamentais e à supervisão e coordenação das políticas económicas ([JO L 209 de 2.8.1997, p. 1](http://publications.europa.eu/resource/oj/JOL_1997_209_R_TOC)).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/fe4396cc-f9fa-11e4-a4c8-01aa75ed71a1.0018.03/DOC_1#ntc3-L_2015121PT.01001201-E0003) Regulamento (UE) n.º 1176/2011 do Parlamento Europeu e do Conselho, de 16 de novembro de 2011, sobre prevenção e correção dos desequilíbrios macroeconómicos ([JO L 306 de 23.11.2011, p. 25](http://publications.europa.eu/resource/oj/JOL_2011_306_R_TOC)).
+
+> [(^4^)](http://publications.europa.eu/resource/cellar/fe4396cc-f9fa-11e4-a4c8-01aa75ed71a1.0018.03/DOC_1#ntc4-L_2015121PT.01001201-E0004) Decisão 2000/98/CE do Conselho, de 24 de janeiro de 2000, que institui o Comité do Emprego ([JO L 29 de 4.2.2000, p. 21](http://publications.europa.eu/resource/oj/JOL_2000_029_R_TOC)).

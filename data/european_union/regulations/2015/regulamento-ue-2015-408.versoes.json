@@ -1,0 +1,199 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32015R0408:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015R0408-20250701",
+ "dre_path": null,
+ "source_lastmod": "2025-07-01",
+ "versions": [
+  {
+   "date": "2017-12-04",
+   "future": false,
+   "celex": "02015R0408-20171204",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "89537a7d4d1d1d0e",
+    "d07e16ca1380f3de",
+    "ea52dcc5d6562acf",
+    "2eec9bde68033308",
+    "456c9c00761d36a9"
+   ]
+  },
+  {
+   "date": "2019-08-01",
+   "future": false,
+   "celex": "02015R0408-20190801",
+   "acts": [
+    {
+     "id": "eu:celex:32019R1085:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2019/1085 DA COMISSÃO de 25 de junho de 2019",
+     "published": null,
+     "celex": "32019R1085"
+    }
+   ],
+   "changes": [
+    "Altera ANEXO"
+   ],
+   "fragments": [
+    "89537a7d4d1d1d0e",
+    "d07e16ca1380f3de",
+    "ea52dcc5d6562acf",
+    "2eec9bde68033308",
+    "65787a5c21d04311"
+   ]
+  },
+  {
+   "date": "2020-10-07",
+   "future": false,
+   "celex": "02015R0408-20201007",
+   "acts": [
+    {
+     "id": "eu:celex:32020R1295:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2020/1295 DA COMISSÃO de 16 de setembro de 2020",
+     "published": null,
+     "celex": "32020R1295"
+    }
+   ],
+   "changes": [
+    "Altera ANEXO"
+   ],
+   "fragments": [
+    "89537a7d4d1d1d0e",
+    "d07e16ca1380f3de",
+    "ea52dcc5d6562acf",
+    "2eec9bde68033308",
+    "10220b9774fa9034"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "eu:celex:32021R1177:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2021/1177 DA COMISSÃO de 16 de julho de 2021",
+     "published": null,
+     "celex": "32021R1177",
+     "date": "2021-08-08"
+    },
+    {
+     "id": "eu:celex:32022R0043:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2022/43 DA COMISSÃO de 13 de janeiro de 2022",
+     "published": null,
+     "celex": "32022R0043",
+     "date": "2022-03-01"
+    },
+    {
+     "id": "eu:celex:32022R1252:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2022/1252 DA COMISSÃO de 19 de julho de 2022",
+     "published": null,
+     "celex": "32022R1252",
+     "date": "2022-08-09"
+    },
+    {
+     "id": "eu:celex:32023R1436:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2023/1436 DA COMISSÃO de 10 de julho de 2023",
+     "published": null,
+     "celex": "32023R1436",
+     "date": "2023-07-31"
+    },
+    {
+     "id": "eu:celex:32024R1749:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2024/1749 DA COMISSÃO de 24 de junho de 2024",
+     "published": null,
+     "celex": "32024R1749",
+     "date": "2024-09-01"
+    },
+    {
+     "id": "eu:celex:32024R2806:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2024/2806 DA COMISSÃO de 31 de outubro de 2024",
+     "published": null,
+     "celex": "32024R2806",
+     "date": "2024-11-24"
+    },
+    {
+     "id": "eu:celex:32025R0808:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2025/808 DA COMISSÃO de 5 de maio de 2025",
+     "published": null,
+     "celex": "32025R0808",
+     "date": "2025-05-26"
+    },
+    {
+     "id": "eu:celex:32025R0833:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2025/833 DA COMISSÃO de 5 de maio de 2025",
+     "published": null,
+     "celex": "32025R0833",
+     "date": "2025-07-01"
+    },
+    {
+     "id": "eu:celex:32025R0910:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2025/910 DA COMISSÃO de 20 de maio de 2025",
+     "published": null,
+     "celex": "32025R0910",
+     "date": "2025-07-01"
+    },
+    {
+     "id": "eu:celex:32025R1152:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2025/1152 DA COMISSÃO de 11 de junho de 2025",
+     "published": null,
+     "celex": "32025R1152",
+     "date": "2025-07-01"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "89537a7d4d1d1d0e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de março de 2015\n\nque dá execução ao artigo 80.º, n.º 7, do Regulamento (CE) n.º 1107/2009 do Parlamento Europeu e do Conselho relativo à colocação dos produtos fitofarmacêuticos no mercado, e que estabelece uma lista de substâncias candidatas para substituição\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "d07e16ca1380f3de": {
+   "fragment_id": "Artigo 1.º — Substâncias candidatas para substituição",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Substâncias candidatas para substituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Substâncias candidatas para substituição\n\nAs substâncias ativas incluídas no anexo I da Diretiva 91/414/CEE que preenchem os critérios estabelecidos no anexo II, ponto 4, do Regulamento (CE) n.º 1107/2009 são as indicadas na lista constante do anexo do presente regulamento.\n\nO primeiro parágrafo é igualmente aplicável às substâncias ativas aprovadas ao abrigo do Regulamento (CE) n.º 1107/2009 em conformidade com as medidas transitórias do artigo 80.º, n.º 1."
+  },
+  "ea52dcc5d6562acf": {
+   "fragment_id": "Artigo 2.º — Medidas transitórias",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Medidas transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Medidas transitórias\n\nO artigo 1.º e o anexo não se aplicam aos pedidos para autorização de produtos fitofarmacêuticos apresentados antes de 1 de agosto de 2015."
+  },
+  "2eec9bde68033308": {
+   "fragment_id": "Artigo 3.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "456c9c00761d36a9": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n1-metilciclopropeno\n\n8-hidroxiquinolina\n\naclonifena\n\namitrol\n\nbifentrina\n\nbromadiolona\n\nbromuconazol\n\ncarbendazime\n\nclortolurão (estereoquímica não especificada)\n\ncompostos de cobre (variantes hidróxido de cobre, oxicloreto de cobre, óxido de cobre, calda bordalesa e sulfato de cobre tribásico)\n\nciproconazol\n\nciprodinil\n\ndiclofope\n\ndifenacume\n\ndifenoconazol\n\ndiflufenicão\n\ndimetoato\n\ndimoxistrobina\n\ndiquato\n\nepoxiconazol\n\nesfenvalerato\n\netoprofos\n\netofenprox\n\netoxazol\n\nfamoxadona\n\nfenamifos\n\nóxido de fenebutaestanho\n\nfipronil\n\nfludioxinil\n\nflufenacete\n\nflumioxazina\n\nfluometurão\n\nfluopicolida\n\nfluquinconazol\n\nglufosinato\n\nhaloxifope-P\n\nimazamox\n\nimazossulfurão\n\nisoproturão\n\nisopirasame\n\nlambda-cialotrina\n\nlenacil\n\nlinurão\n\nlufenurão\n\nmecoprope\n\nmetalaxil\n\nmetame\n\nmetconazol\n\nmetomil\n\nmetribuzina\n\nmetsulfurão-metilo\n\nmolinato\n\nmiclobutanil\n\nnicossulfurão\n\noxadiargil\n\noxadiazão\n\noxamil\n\noxifluorfena\n\npaclobutrazol\n\npendimetalina\n\npirimicarbe\n\nprocloraz\n\nprofoxidime\n\npropiconazol\n\npropoxicarbazona\n\nprossulfurão\n\nquinoxifena\n\nquizalofope-P (variante quizalofope-P-tefurilo)\n\nsulcotriona\n\ntebuconazol\n\ntebufenepirade\n\ntepraloxidime\n\ntiaclopride\n\ntrialato\n\ntriassulfurão\n\ntriazoxida\n\nwarfarina\n\nzirame"
+  },
+  "65787a5c21d04311": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n8-hidroxiquinolina\n\naclonifena\n\namitrol\n\nbifentrina\n\nbromadiolona\n\nbromuconazol\n\ncarbendazime\n\nclortolurão (estereoquímica não especificada)\n\ncompostos de cobre (variantes hidróxido de cobre, oxicloreto de cobre, óxido de cobre, calda bordalesa e sulfato de cobre tribásico)\n\nciproconazol\n\nciprodinil\n\ndiclofope\n\ndifenacume\n\ndifenoconazol\n\ndiflufenicão\n\ndimetoato\n\ndimoxistrobina\n\ndiquato\n\nepoxiconazol\n\nesfenvalerato\n\netoprofos\n\netofenprox\n\netoxazol\n\nfamoxadona\n\nfenamifos\n\nóxido de fenebutaestanho\n\nfipronil\n\nfludioxinil\n\nflufenacete\n\nflumioxazina\n\nfluometurão\n\nfluopicolida\n\nfluquinconazol\n\nglufosinato\n\nhaloxifope-P\n\nimazamox\n\nimazossulfurão\n\nisoproturão\n\nisopirasame\n\nlambda-cialotrina\n\nlenacil\n\nlinurão\n\nlufenurão\n\nmecoprope\n\nmetalaxil\n\nmetame\n\nmetconazol\n\nmetomil\n\nmetribuzina\n\nmetsulfurão-metilo\n\nmolinato\n\nmiclobutanil\n\nnicossulfurão\n\noxadiargil\n\noxadiazão\n\noxamil\n\noxifluorfena\n\npaclobutrazol\n\npendimetalina\n\npirimicarbe\n\nprocloraz\n\nprofoxidime\n\npropiconazol\n\npropoxicarbazona\n\nprossulfurão\n\nquinoxifena\n\nquizalofope-P (variante quizalofope-P-tefurilo)\n\nsulcotriona\n\ntebuconazol\n\ntebufenepirade\n\ntepraloxidime\n\ntiaclopride\n\ntrialato\n\ntriassulfurão\n\ntriazoxida\n\nwarfarina\n\nzirame"
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  }
+ }
+}

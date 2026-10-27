@@ -1,0 +1,170 @@
+---
+schema_version: '1.0'
+id: pt:dre:214262:por
+title: Decreto-Lei n.º 49264
+short_title: null
+summary: Dá nova redacção aos artigos 2.º, 6.º e 10.º do Decreto-Lei n.º 41492, que reajusta os quadros e efectivos da Força
+  Aérea
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho - Secretaria de Estado da Aeronáutica
+proposing_entity: null
+official_number: '49264'
+official_date: null
+publication_date: '1969-09-26'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 226/1969, Série I de 1969-09-26
+  number: '226'
+  series: I
+  supplement: null
+  pages: 1307 - 1308
+  pdf_url: https://files.diariodarepublica.pt/1s/1969/09/22600/13071308.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '214262'
+  dre_path: /dr/detalhe/decreto-lei/49264-1969-214262
+  internal: pt:dre:214262:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49264-1969-214262
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49264-1969-214262
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:10:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ac0a3cfc50e817cbbf877b883bf63e78d7a1bdfdcf4967853048b08a4c8e2b7d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:53Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Força Aérea
+- Militar
+- Serviço Militar
+relationships:
+- type: amended_by
+  target: pt:dre:626423:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:161707:por
+  label: "Alterada a al. i) do art. 10º do Dec Lei 41492, de 31-Dez, 1957, na redacção do presente diploma, pelo DEC LEI.182/75.03.04.1975.CCEMFA,\
+    \ DG.IS [78] de 03.04.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/182-1975-161707
+  date: '1975-04-03'
+- type: cites
+  target: pt:dre:251422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272665:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:10:53Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 49264
+
+Considerando que a legislação em vigor é omissa no que respeita às condições que devem reger, em circunstâncias excepcionais, a prestação de serviço do pessoal militar da Força Aérea;
+
+Tornando-se necessário adaptar aquelas condições à situação anormal que se verifica no ultramar;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo único. Os artigos 2.º, 6.º e 10.º do [Decreto-Lei n.º 41492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41492-1957-251422), de 31 de Dezembro de 1957, passam a ter a seguinte redacção:
+
+Art. 2.º - 1. O pessoal não permanente privativo da Força Aérea na disponibilidade pode, por determinação do Ministro da Defesa Nacional, sob proposta do Secretário de Estado da Aeronáutica, ser anualmente convocado para exercícios ou manobras, por período não superior a três semanas.
+
+Pode igualmente o Ministro da Defesa Nacional, sob proposta do Secretário de Estado da Aeronáutica, autorizar a convocação do referido pessoal para um período de instrução, não excedente a três meses, destinado à obtenção de condições de promoção.
+
+Por decisão do Conselho Superior de Defesa Nacional, sob proposta do Ministro da Defesa Nacional, pode ainda o mesmo pessoal ser obrigado à prestação de serviço efectivo por prazo não determinado, quando o imponham circunstâncias anormais de segurança ou de defesa.
+
+...
+
+Art. 6.º O pessoal militar permanente privativo da Força Aérea serve:
+
+I) Oficiais
+
+Em regime de nomeação vitalícia.
+
+II) Sargentos
+
+Para os sargentos-ajudantes e primeiros-sargentos, em regime de nomeação vitalícia.
+
+Para os segundos-sargentos e furriéis, em regime de contrato por períodos de três anos, que, em circunstâncias normais e quando não denunciado por qualquer das partes com uma antecedência de, pelo menos, três meses, se considera, no fim de cada período automàticamente prorrogado. Para os punidos disciplinar ou judicialmente a prorrogação carece de deferimento de requerimento apresentado pelo interessado.
+
+III) Praças readmitidas
+
+Em regime de contrato pelo período de três anos, nas condições expressas para os segundos-sargentos e furriéis.
+
+§ 1.º A prorrogação automática dos contratos dos sargentos e praças verificar-se-á também em tempo de guerra ou sempre que situações anormais o imponham e terá a duração de três anos, com início no dia imediato ao do termo do anterior período do contrato. Tal prorrogação dependerá de despacho do Secretário de Estado da Aeronáutica e poderá ser renovada enquanto aquelas circunstâncias se mantiverem.
+
+§ 2.º Logo que cessem as condições referidas no parágrafo anterior pode, a requerimento dos interessados, ser concedida licença ilimitada aos sargentos de nomeação vitalícia ou autorizada a passagem à situação de disponibilidade do restante pessoal independentemente do termo dos contratos respectivos.
+
+...
+
+Art. 10.º O pessoal militar não permanente privativo da Força Aérea permanece nas fileiras:
+
+I) Oficiais milicianos e sargentos milicianos
+
+Durante o período da obrigação normal de serviço e durante os períodos de instrução anual.
+
+Após o período da obrigação normal de serviço, em regime de contrato por períodos de três anos, que, em circunstâncias normais e quando não denunciado por qualquer das partes com uma antecedência de, pelo menos, três meses, se considera no fim de cada período automàticamente prorrogado. Para os punidos judicial ou disciplinarmente ou para os que tenham atingido ou atinjam durante o período seguinte a idade de 30 anos, a prorrogação deve ser requerida pelos interessados, não podendo manter-se ao serviço para além dos 35 anos.
+
+II) Praças não readmitidas
+
+Durante o período de obrigação normal de serviço e durante os períodos de instrução anual.
+
+§ único. O pessoal referido no corpo deste artigo permanece ainda obrigatòriamente nas fileiras, quando assim for determinado, nos termos do corpo do artigo 2.º e em conformidade com a [Lei n.º 2135](https://diariodarepublica.pt/dr/detalhe/lei/2135-1968-272665), de 11 de Julho de 1968.
+
+Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
+
+Promulgado em 19 de Setembro de 1969.
+
+Publique-se.
+
+Presidência da República, 26 de Setembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

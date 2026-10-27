@@ -1,0 +1,96 @@
+---
+schema_version: '1.0'
+id: pt:dre:381093:por
+title: Resolução n.º 182/79
+short_title: null
+summary: Autoriza a Empresa Pública Telefones de Lisboa e Porto a contrair um empréstimo no Banco de Fomento Nacional até
+  ao montante do contravalor em escudos de 13 milhões de dólares
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 182/79
+official_date: null
+publication_date: '1979-06-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 141/1979, Série I de 1979-06-21
+  number: '141'
+  series: I
+  supplement: null
+  pages: 1352 - 1352
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/06/14100/13521352.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '381093'
+  dre_path: /dr/detalhe/resolucao/182-1979-381093
+  internal: pt:dre:381093:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/182-1979-381093
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/182-1979-381093
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:18:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: aa577559a3e6d89599bc8ffca06972ca80bd356d1744f9dd28d8b975e9e95881
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:18:35Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Banco de Fomento Nacional
+- TLP
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:18:35Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 182/79
+
+O Conselho de Ministros, reunido em 31 de Maio de 1979, resolveu:
+
+1 - Autorizar a Empresa Pública Telefones de Lisboa e Porto a contrair um empréstimo no Banco de Fomento Nacional de prazo superior a cinco anos, sob a forma de abertura de crédito, até ao montante do contravalor em escudos de 13 milhões de dólares dos Estados Unidos, utilizável até 12 de Junho de 1979.
+
+2 - A operação será amortizável em doze prestações iguais de capital, semestrais e sucessivas, vencendo juros à taxa de 22 1/4% ajustável até ao limite legalmente consentido para operações de prazo idêntico, podendo ser outra a taxa inicial se, ao tempo da assinatura do contrato de empréstimo, aquela já tiver sido legalmente alterada. O empréstimo será garantido por consignação das receitas em geral.
+
+3 - O empréstimo referido nos números anteriores destina-se ao financiamento parcial dos investimentos inscritos no PISEE/79 para aquela empresa pública.
+
+Presidência do Conselho de Ministros, 31 de Maio de 1979. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.

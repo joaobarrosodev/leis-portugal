@@ -1,0 +1,368 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:675641:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1997-1018765101",
+ "dre_path": "/dr/detalhe/lei/116-1997-675641",
+ "source_lastmod": "2026-04-22",
+ "versions": [
+  {
+   "date": "1999-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:423061:por",
+     "title": "Lei n.º 118/99",
+     "published": "1999-08-11",
+     "dre_path": "/dr/detalhe/lei/118-1999-423061"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 12.º-A"
+   ],
+   "fragments": [
+    "1019644175",
+    "1019644375",
+    "1019644575",
+    "1019644775",
+    "1019644975",
+    "1019645175",
+    "1019645375",
+    "1019645575",
+    "1019645775",
+    "1019645975",
+    "1019646175",
+    "1019646375",
+    "1019646575",
+    "1088729375",
+    "1088729575",
+    "1088729675"
+   ]
+  },
+  {
+   "date": "2003-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632906:por",
+     "title": "Lei n.º 99/2003",
+     "published": "2003-08-27",
+     "dre_path": "/dr/detalhe/lei/99-2003-632906"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1088737375",
+    "1088772175",
+    "1088772275",
+    "1088772375",
+    "1088772475",
+    "1088772575",
+    "1088772675",
+    "1088772775",
+    "1088772875",
+    "1088772975",
+    "1088773075",
+    "1088773175",
+    "1088773275",
+    "1088773375",
+    "1088773475",
+    "1088773575"
+   ]
+  }
+ ],
+ "fragments": {
+  "1019644175": {
+   "fragment_id": "1019644075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Estatuto do Trabalhador-Estudante\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 168.º, n.º 1, alínea b), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "1019644375": {
+   "fragment_id": "1019644275",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto do diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto do diploma\n\nO presente diploma contém o regime jurídico do trabalhador-estudante, sem prejuízo dos direitos e regalias consignados em legislação ou regulamentação de trabalho mais favorável."
+  },
+  "1019644575": {
+   "fragment_id": "1019644475",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - Para efeitos de aplicação do presente diploma, considera-se trabalhador-estudante todo o trabalhador por conta de outrem, independentemente do vínculo laboral, ao serviço de uma entidade pública ou privada e que frequente qualquer nível do ensino oficial ou equivalente, incluindo cursos de pós-graduação, realização de mestrados ou doutoramentos, em instituição pública, particular ou cooperativa.\n\n2 - Ficam ainda abrangidos pelas disposições constantes da presente lei, com excepção dos artigos 3.º, 4.º, 6.º e 10.º, n.º 1, os estudantes que se encontrem numa das seguintes situações:\n\na) Sejam trabalhadores por conta própria;\n\nb) Frequentem cursos de formação profissional ou programas de ocupação temporária de jovens, desde que com duração igual ou superior a seis meses.\n\n3 - Não perdem o estatuto de trabalhador-estudante aqueles que, estando por ele abrangidos, sejam entretanto colocados na situação de desemprego involuntário."
+  },
+  "1019644775": {
+   "fragment_id": "1019644675",
+   "type": 11,
+   "heading": "Artigo 3.º — Horário de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Horário de trabalho\n\n1 - As empresas ou serviços devem elaborar horários de trabalho específicos para os trabalhadores-estudantes, com flexibilidade ajustável à frequência das aulas e à inerente deslocação para os respectivos estabelecimentos de ensino.\n\n2 - Quando não seja possível a aplicação do regime previsto no número anterior, o trabalhador-estudante será dispensado até seis horas semanais, sem perda de retribuição ou de qualquer outra regalia, se assim o exigir o respectivo horário escolar.\n\n3 - A opção entre os regimes previstos nos números anteriores será objecto de acordo entre a entidade empregadora, os trabalhadores interessados e as suas estruturas representativas, em ordem a conciliar os direitos dos trabalhadores-estudantes com o normal funcionamento das empresas ou serviços.\n\n4 - Não existindo o acordo previsto no número anterior, aplicar-se-á supletivamente o regime previsto nos n.os 2 e 5 do presente artigo.\n\n5 - A dispensa de serviço para frequência de aulas prevista no n.º 2 do presente artigo poderá ser utilizada de uma só vez ou fraccionadamente e depende da duração do trabalho semanal, nos seguintes termos:\n\na) Duração de trabalho entre vinte e vinte e nove horas - dispensa até três horas;\n\nb) Duração de trabalho entre trinta e trinta e três horas - dispensa até quatro horas;\n\nc) Duração de trabalho entre trinta e quatro e trinta e sete horas - dispensa até cinco horas;\n\nd) Duração de trabalho igual ou superior a trinta e oito horas - dispensa até seis horas.\n\n6 - O período normal de trabalho de um trabalhador-estudante não pode ser superior a oito horas por dia e a quarenta horas por semana, no qual se inclui o trabalho suplementar, excepto se prestado por casos de força maior.\n\n7 - Mediante acordo, podem as partes afastar a aplicação do número anterior em favor do regime flexível previsto na lei geral, tendo o trabalhador-estudante direito, nesse caso, a um dia por mês de dispensa de trabalho, sem perda de remuneração."
+  },
+  "1019644975": {
+   "fragment_id": "1019644875",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime de turnos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regime de turnos\n\n1 - O trabalhador-estudante que preste serviço em regime de turnos tem os direitos conferidos no artigo anterior, desde que o ajustamento dos períodos de trabalho não seja totalmente incompatível com o funcionamento daquele regime.\n\n2 - Nos casos em que não seja possível a aplicação do disposto no número anterior, o trabalhador tem direito de preferência na ocupação de postos de trabalho compatíveis com a sua aptidão profissional e com a possibilidade de participar nas aulas que se proponha frequentar."
+  },
+  "1019645175": {
+   "fragment_id": "1019645075",
+   "type": 11,
+   "heading": "Artigo 5.º — Prestação de provas de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Prestação de provas de avaliação\n\n1 - O trabalhador-estudante tem direito a ausentar-se, sem perda de vencimento ou de qualquer outra regalia, para prestação de provas de avaliação, nos seguintes termos:\n\na) Até dois dias por cada prova de avaliação, sendo um o da realização da prova e o outro o imediatamente anterior, incluindo sábados, domingos e feriados;\n\nb) No caso de provas em dias consecutivos ou de mais de uma prova no mesmo dia, os dias anteriores serão tantos quantas as provas de avaliação a efectuar, aí se incluindo sábados, domingos e feriados;\n\nc) Os dias de ausência referidos nas alíneas anteriores não poderão exceder um máximo de quatro por disciplina.\n\n2 - Consideram-se justificadas as faltas dadas pelos trabalhadores-estudantes na estrita medida das necessidades impostas pelas deslocações para prestar provas de avaliação.\n\n3 - As entidades empregadoras podem exigir, a todo o tempo, prova da necessidade das referidas deslocações e do horário das provas de avaliação de conhecimentos.\n\n4 - Para efeitos da aplicação do presente artigo, consideram-se provas de avaliação todas as provas escritas e orais, incluindo exames, bem como a apresentação de trabalhos, quando estes as substituam."
+  },
+  "1019645375": {
+   "fragment_id": "1019645275",
+   "type": 11,
+   "heading": "Artigo 6.º — Férias e licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Férias e licenças\n\n1 - Os trabalhadores-estudantes têm direito a marcar as férias de acordo com as suas necessidades escolares, salvo se daí resultar comprovada incompatibilidade com o plano de férias da entidade empregadora.\n\n2 - Os trabalhadores-estudantes têm direito ao gozo interpolado de 15 dias de férias à sua livre escolha, salvo no caso de incompatibilidade resultante do encerramento para férias do estabelecimento ou do serviço.\n\n3 - Em cada ano civil, os trabalhadores-estudantes podem utilizar, seguida ou interpoladamente, até 10 dias úteis de licença, com desconto no vencimento mas sem perda de qualquer outra regalia, desde que o requeiram nos seguintes termos:\n\na) Com quarenta e oito horas de antecedência, no caso de se pretender um dia de licença;\n\nb) Com oito dias de antecedência, no caso de se pretender dois a cinco dias de licença;\n\nc) Com um mês de antecedência, caso se pretenda mais de cinco dias de licença."
+  },
+  "1019645575": {
+   "fragment_id": "1019645475",
+   "type": 11,
+   "heading": "Artigo 7.º — Efeitos profissionais da valorização escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Efeitos profissionais da valorização escolar\n\n1 - Ao trabalhador-estudante devem ser proporcionadas oportunidades de promoção profissional adequada à valorização obtida por efeito de cursos ou conhecimentos adquiridos, não sendo, todavia, obrigatória a reclassificação profissional por simples obtenção desses cursos ou conhecimentos.\n\n2 - Têm direito, em igualdade de condições, no preenchimento de cargos para os quais se achem habilitados por virtude dos cursos ou conhecimentos adquiridos, todos os trabalhadores que os tenham obtido na qualidade de trabalhador-estudante."
+  },
+  "1019645775": {
+   "fragment_id": "1019645675",
+   "type": 11,
+   "heading": "Artigo 8.º — Isenções e regalias dos estabelecimentos de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Isenções e regalias dos estabelecimentos de ensino\n\n1 - Os trabalhadores-estudantes não estão sujeitos a quaisquer normas que obriguem à frequência de um número mínimo de disciplinas ou cadeiras de determinado curso, em graus de ensino em que isso seja possível, ou a normas que instituam regimes de prescrição ou impliquem mudança de estabelecimento.\n\n2 - Os trabalhadores-estudantes não estão ainda sujeitos a quaisquer disposições legais que façam depender o aproveitamento escolar da frequência de um número mínimo de aulas por disciplina ou cadeira.\n\n3 - Os trabalhadores-estudantes não estão sujeitos a normas que limitem o número de exames a realizar na época de recurso.\n\n4 - Os trabalhadores-estudantes gozam de uma época especial de exames em todos os cursos e em todos os anos lectivos.\n\n5 - Os exames e provas de avaliação, bem como os serviços mínimos de apoio aos trabalhadores-estudantes, deverão funcionar também em horário pós-laboral, quando cumpridos os requisitas definidos no n.º 4 do artigo 12.º\n\n6 - Os trabalhadores-estudantes têm direito a aulas de compensação sempre que essas aulas, pela sua natureza, sejam pelos docentes consideradas como imprescindíveis para o processo de avaliação e aprendizagem."
+  },
+  "1019645975": {
+   "fragment_id": "1019645875",
+   "type": 11,
+   "heading": "Artigo 9.º — Requisitos para a fruição de regalias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Requisitos para a fruição de regalias\n\nPara beneficiar das regalias estabelecidas neste diploma, incumbe ao trabalhador-estudante:\n\na) Junto à entidade empregadora, fazer prova da sua condição de estudante, apresentar o respectivo horário escolar e comprovar o aproveitamento no final de cada ano escolar;\n\nb) Junto ao estabelecimento de ensino, comprovar a sua qualidade de trabalhador ou de se encontrar numa das situações previstas no n.º 2 do artigo 2.º"
+  },
+  "1019646175": {
+   "fragment_id": "1019646075",
+   "type": 11,
+   "heading": "Artigo 10.º — Cessação de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cessação de direitos\n\n1 - As regalias previstas nos artigos 3.º e 6.º cessam quando o trabalhador-estudante não conclua com aproveitamento o ano escolar ao abrigo de cuja frequência beneficiara dessas mesmas regalias.\n\n2 - As restantes regalias estabelecidas no presente diploma cessam quando o trabalhador-estudante não tenha aproveitamento em dois anos consecutivos ou três interpolados.\n\n3 - Para os efeitos dos números anteriores, considera-se aproveitamento escolar o trânsito de ano ou a aprovação em pelo menos metade das disciplinas em que o trabalhador-estudante estiver matriculado, arredondando-se por defeito este número quando necessário, considerando-se falta de aproveitamento a desistência voluntária de qualquer disciplina, excepto se justificada por facto que não seja imputável ao próprio, nomeadamente doença prolongada, acidente, gravidez ou cumprimento de obrigações legais.\n\n4 - No ano subsequente àquele em que perdeu as regalias previstas neste diploma, pode o trabalhador-estudante requerer novamente a aplicação deste estatuto."
+  },
+  "1019646375": {
+   "fragment_id": "1019646275",
+   "type": 11,
+   "heading": "Artigo 11.º — Excesso de candidatos à frequência de cursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Excesso de candidatos à frequência de cursos\n\nSempre que o número de pretensões formuladas por trabalhadores-estudantes no sentido de lhes ser aplicado o disposto no artigo 3.º do presente diploma se revelar, manifesta e comprovadamente, comprometedor do funcionamento normal da empresa, fixar-se-á, por acordo entre os trabalhadores interessados, a hierarquia e a estrutura representativa dos trabalhadores, o número e as condições em que serão deferidas as pretensões apresentadas."
+  },
+  "1019646575": {
+   "fragment_id": "1019646475",
+   "type": 11,
+   "heading": "Artigo 12.º — Cumprimento do presente estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Cumprimento do presente estatuto\n\n1 - O Governo, no prazo de seis meses a contar da data de entrada em vigor da presente lei, deverá promover a criação de um organismo ou serviço ao qual, na área da educação, competirá o tratamento das questões específicas dos trabalhadores-estudantes.\n\n2 - A Inspecção-Geral do Trabalho conhecerá, nos termos do respectivo estatuto, das infracções a este diploma cometidas pelas entidades empregadoras.\n\n3 - Deverá igualmente o Governo definir as condições de frequência de cursos de formação escolar, aperfeiçoamento de línguas e actualização profissional.\n\n4 - Deverá ainda o Governo fomentar a criação de aulas nocturnas nos estabelecimentos de ensino onde o justifique o número de trabalhadores-estudantes inscritos, bem como conceder homologação ao seu funcionamento."
+  },
+  "1088729375": {
+   "fragment_id": "1088729275",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Contra-ordenações",
+   "in_force_from": "1999-12-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 19.º do/a [Lei n.º 118/99 - Diário da República n.º 186/1999, Série I-A de 1999-08-11](https://diariodarepublica.pt/dr/detalhe/lei/118-1999-423061), em vigor a partir de 1999-12-01."
+   ],
+   "markdown": "###### Artigo 12.º-A — Contra-ordenações\n\n1 - Constitui contra-ordenação grave a violação dos n.os 2, 5, 6 e 7 do artigo 3.º, do artigo 4.º e dos n.os 1 e 2 do artigo 5.º\n\n2 - Constitui contra-ordenação leve a violação do artigo 6.º e do n.º 2 do artigo 7.º\n\n> Aditado pelo/a Artigo 19.º do/a [Lei n.º 118/99 - Diário da República n.º 186/1999, Série I-A de 1999-08-11](https://diariodarepublica.pt/dr/detalhe/lei/118-1999-423061), em vigor a partir de 1999-12-01."
+  },
+  "1088729575": {
+   "fragment_id": "1019646675",
+   "type": 11,
+   "heading": "Artigo 13.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Disposições finais\n\n1 - O presente estatuto terá divulgação obrigatória em todos os estabelecimentos de ensino.\n\n2 - É revogada a Lei n.º 26/81, de 21 de Agosto."
+  },
+  "1088729675": {
+   "fragment_id": "1019646875",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 31 de Julho de 1997.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 16 de Outubro de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 20 de Outubro de 1997.\n\nO Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino."
+  },
+  "1088737375": {
+   "fragment_id": "1019644075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2003-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+   ],
+   "markdown": "Estatuto do Trabalhador-Estudante\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 168.º, n.º 1, alínea b), e 169.º, n.º 3, da Constituição, o seguinte:\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+  },
+  "1088772175": {
+   "fragment_id": "1019644275",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto do diploma",
+   "in_force_from": "2003-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto do diploma\n\nO presente diploma contém o regime jurídico do trabalhador-estudante, sem prejuízo dos direitos e regalias consignados em legislação ou regulamentação de trabalho mais favorável.\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+  },
+  "1088772275": {
+   "fragment_id": "1019644475",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2003-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - Para efeitos de aplicação do presente diploma, considera-se trabalhador-estudante todo o trabalhador por conta de outrem, independentemente do vínculo laboral, ao serviço de uma entidade pública ou privada e que frequente qualquer nível do ensino oficial ou equivalente, incluindo cursos de pós-graduação, realização de mestrados ou doutoramentos, em instituição pública, particular ou cooperativa.\n\n2 - Ficam ainda abrangidos pelas disposições constantes da presente lei, com excepção dos artigos 3.º, 4.º, 6.º e 10.º, n.º 1, os estudantes que se encontrem numa das seguintes situações:\n\na) Sejam trabalhadores por conta própria;\n\nb) Frequentem cursos de formação profissional ou programas de ocupação temporária de jovens, desde que com duração igual ou superior a seis meses.\n\n3 - Não perdem o estatuto de trabalhador-estudante aqueles que, estando por ele abrangidos, sejam entretanto colocados na situação de desemprego involuntário.\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+  },
+  "1088772375": {
+   "fragment_id": "1019644675",
+   "type": 11,
+   "heading": "Artigo 3.º — Horário de trabalho",
+   "in_force_from": "2003-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+   ],
+   "markdown": "###### Artigo 3.º — Horário de trabalho\n\n1 - As empresas ou serviços devem elaborar horários de trabalho específicos para os trabalhadores-estudantes, com flexibilidade ajustável à frequência das aulas e à inerente deslocação para os respectivos estabelecimentos de ensino.\n\n2 - Quando não seja possível a aplicação do regime previsto no número anterior, o trabalhador-estudante será dispensado até seis horas semanais, sem perda de retribuição ou de qualquer outra regalia, se assim o exigir o respectivo horário escolar.\n\n3 - A opção entre os regimes previstos nos números anteriores será objecto de acordo entre a entidade empregadora, os trabalhadores interessados e as suas estruturas representativas, em ordem a conciliar os direitos dos trabalhadores-estudantes com o normal funcionamento das empresas ou serviços.\n\n4 - Não existindo o acordo previsto no número anterior, aplicar-se-á supletivamente o regime previsto nos n.os 2 e 5 do presente artigo.\n\n5 - A dispensa de serviço para frequência de aulas prevista no n.º 2 do presente artigo poderá ser utilizada de uma só vez ou fraccionadamente e depende da duração do trabalho semanal, nos seguintes termos:\n\na) Duração de trabalho entre vinte e vinte e nove horas - dispensa até três horas;\n\nb) Duração de trabalho entre trinta e trinta e três horas - dispensa até quatro horas;\n\nc) Duração de trabalho entre trinta e quatro e trinta e sete horas - dispensa até cinco horas;\n\nd) Duração de trabalho igual ou superior a trinta e oito horas - dispensa até seis horas.\n\n6 - O período normal de trabalho de um trabalhador-estudante não pode ser superior a oito horas por dia e a quarenta horas por semana, no qual se inclui o trabalho suplementar, excepto se prestado por casos de força maior.\n\n7 - Mediante acordo, podem as partes afastar a aplicação do número anterior em favor do regime flexível previsto na lei geral, tendo o trabalhador-estudante direito, nesse caso, a um dia por mês de dispensa de trabalho, sem perda de remuneração.\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+  },
+  "1088772475": {
+   "fragment_id": "1019644875",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime de turnos",
+   "in_force_from": "2003-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+   ],
+   "markdown": "###### Artigo 4.º — Regime de turnos\n\n1 - O trabalhador-estudante que preste serviço em regime de turnos tem os direitos conferidos no artigo anterior, desde que o ajustamento dos períodos de trabalho não seja totalmente incompatível com o funcionamento daquele regime.\n\n2 - Nos casos em que não seja possível a aplicação do disposto no número anterior, o trabalhador tem direito de preferência na ocupação de postos de trabalho compatíveis com a sua aptidão profissional e com a possibilidade de participar nas aulas que se proponha frequentar.\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+  },
+  "1088772575": {
+   "fragment_id": "1019645075",
+   "type": 11,
+   "heading": "Artigo 5.º — Prestação de provas de avaliação",
+   "in_force_from": "2003-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+   ],
+   "markdown": "###### Artigo 5.º — Prestação de provas de avaliação\n\n1 - O trabalhador-estudante tem direito a ausentar-se, sem perda de vencimento ou de qualquer outra regalia, para prestação de provas de avaliação, nos seguintes termos:\n\na) Até dois dias por cada prova de avaliação, sendo um o da realização da prova e o outro o imediatamente anterior, incluindo sábados, domingos e feriados;\n\nb) No caso de provas em dias consecutivos ou de mais de uma prova no mesmo dia, os dias anteriores serão tantos quantas as provas de avaliação a efectuar, aí se incluindo sábados, domingos e feriados;\n\nc) Os dias de ausência referidos nas alíneas anteriores não poderão exceder um máximo de quatro por disciplina.\n\n2 - Consideram-se justificadas as faltas dadas pelos trabalhadores-estudantes na estrita medida das necessidades impostas pelas deslocações para prestar provas de avaliação.\n\n3 - As entidades empregadoras podem exigir, a todo o tempo, prova da necessidade das referidas deslocações e do horário das provas de avaliação de conhecimentos.\n\n4 - Para efeitos da aplicação do presente artigo, consideram-se provas de avaliação todas as provas escritas e orais, incluindo exames, bem como a apresentação de trabalhos, quando estes as substituam.\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+  },
+  "1088772675": {
+   "fragment_id": "1019645275",
+   "type": 11,
+   "heading": "Artigo 6.º — Férias e licenças",
+   "in_force_from": "2003-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+   ],
+   "markdown": "###### Artigo 6.º — Férias e licenças\n\n1 - Os trabalhadores-estudantes têm direito a marcar as férias de acordo com as suas necessidades escolares, salvo se daí resultar comprovada incompatibilidade com o plano de férias da entidade empregadora.\n\n2 - Os trabalhadores-estudantes têm direito ao gozo interpolado de 15 dias de férias à sua livre escolha, salvo no caso de incompatibilidade resultante do encerramento para férias do estabelecimento ou do serviço.\n\n3 - Em cada ano civil, os trabalhadores-estudantes podem utilizar, seguida ou interpoladamente, até 10 dias úteis de licença, com desconto no vencimento mas sem perda de qualquer outra regalia, desde que o requeiram nos seguintes termos:\n\na) Com quarenta e oito horas de antecedência, no caso de se pretender um dia de licença;\n\nb) Com oito dias de antecedência, no caso de se pretender dois a cinco dias de licença;\n\nc) Com um mês de antecedência, caso se pretenda mais de cinco dias de licença.\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+  },
+  "1088772775": {
+   "fragment_id": "1019645475",
+   "type": 11,
+   "heading": "Artigo 7.º — Efeitos profissionais da valorização escolar",
+   "in_force_from": "2003-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+   ],
+   "markdown": "###### Artigo 7.º — Efeitos profissionais da valorização escolar\n\n1 - Ao trabalhador-estudante devem ser proporcionadas oportunidades de promoção profissional adequada à valorização obtida por efeito de cursos ou conhecimentos adquiridos, não sendo, todavia, obrigatória a reclassificação profissional por simples obtenção desses cursos ou conhecimentos.\n\n2 - Têm direito, em igualdade de condições, no preenchimento de cargos para os quais se achem habilitados por virtude dos cursos ou conhecimentos adquiridos, todos os trabalhadores que os tenham obtido na qualidade de trabalhador-estudante.\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+  },
+  "1088772875": {
+   "fragment_id": "1019645675",
+   "type": 11,
+   "heading": "Artigo 8.º — Isenções e regalias dos estabelecimentos de ensino",
+   "in_force_from": "2003-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+   ],
+   "markdown": "###### Artigo 8.º — Isenções e regalias dos estabelecimentos de ensino\n\n1 - Os trabalhadores-estudantes não estão sujeitos a quaisquer normas que obriguem à frequência de um número mínimo de disciplinas ou cadeiras de determinado curso, em graus de ensino em que isso seja possível, ou a normas que instituam regimes de prescrição ou impliquem mudança de estabelecimento.\n\n2 - Os trabalhadores-estudantes não estão ainda sujeitos a quaisquer disposições legais que façam depender o aproveitamento escolar da frequência de um número mínimo de aulas por disciplina ou cadeira.\n\n3 - Os trabalhadores-estudantes não estão sujeitos a normas que limitem o número de exames a realizar na época de recurso.\n\n4 - Os trabalhadores-estudantes gozam de uma época especial de exames em todos os cursos e em todos os anos lectivos.\n\n5 - Os exames e provas de avaliação, bem como os serviços mínimos de apoio aos trabalhadores-estudantes, deverão funcionar também em horário pós-laboral, quando cumpridos os requisitas definidos no n.º 4 do artigo 12.º\n\n6 - Os trabalhadores-estudantes têm direito a aulas de compensação sempre que essas aulas, pela sua natureza, sejam pelos docentes consideradas como imprescindíveis para o processo de avaliação e aprendizagem.\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+  },
+  "1088772975": {
+   "fragment_id": "1019645875",
+   "type": 11,
+   "heading": "Artigo 9.º — Requisitos para a fruição de regalias",
+   "in_force_from": "2003-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+   ],
+   "markdown": "###### Artigo 9.º — Requisitos para a fruição de regalias\n\nPara beneficiar das regalias estabelecidas neste diploma, incumbe ao trabalhador-estudante:\n\na) Junto à entidade empregadora, fazer prova da sua condição de estudante, apresentar o respectivo horário escolar e comprovar o aproveitamento no final de cada ano escolar;\n\nb) Junto ao estabelecimento de ensino, comprovar a sua qualidade de trabalhador ou de se encontrar numa das situações previstas no n.º 2 do artigo 2.º\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+  },
+  "1088773075": {
+   "fragment_id": "1019646075",
+   "type": 11,
+   "heading": "Artigo 10.º — Cessação de direitos",
+   "in_force_from": "2003-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+   ],
+   "markdown": "###### Artigo 10.º — Cessação de direitos\n\n1 - As regalias previstas nos artigos 3.º e 6.º cessam quando o trabalhador-estudante não conclua com aproveitamento o ano escolar ao abrigo de cuja frequência beneficiara dessas mesmas regalias.\n\n2 - As restantes regalias estabelecidas no presente diploma cessam quando o trabalhador-estudante não tenha aproveitamento em dois anos consecutivos ou três interpolados.\n\n3 - Para os efeitos dos números anteriores, considera-se aproveitamento escolar o trânsito de ano ou a aprovação em pelo menos metade das disciplinas em que o trabalhador-estudante estiver matriculado, arredondando-se por defeito este número quando necessário, considerando-se falta de aproveitamento a desistência voluntária de qualquer disciplina, excepto se justificada por facto que não seja imputável ao próprio, nomeadamente doença prolongada, acidente, gravidez ou cumprimento de obrigações legais.\n\n4 - No ano subsequente àquele em que perdeu as regalias previstas neste diploma, pode o trabalhador-estudante requerer novamente a aplicação deste estatuto.\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+  },
+  "1088773175": {
+   "fragment_id": "1019646275",
+   "type": 11,
+   "heading": "Artigo 11.º — Excesso de candidatos à frequência de cursos",
+   "in_force_from": "2003-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+   ],
+   "markdown": "###### Artigo 11.º — Excesso de candidatos à frequência de cursos\n\nSempre que o número de pretensões formuladas por trabalhadores-estudantes no sentido de lhes ser aplicado o disposto no artigo 3.º do presente diploma se revelar, manifesta e comprovadamente, comprometedor do funcionamento normal da empresa, fixar-se-á, por acordo entre os trabalhadores interessados, a hierarquia e a estrutura representativa dos trabalhadores, o número e as condições em que serão deferidas as pretensões apresentadas.\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+  },
+  "1088773275": {
+   "fragment_id": "1019646475",
+   "type": 11,
+   "heading": "Artigo 12.º — Cumprimento do presente estatuto",
+   "in_force_from": "2003-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+   ],
+   "markdown": "###### Artigo 12.º — Cumprimento do presente estatuto\n\n1 - O Governo, no prazo de seis meses a contar da data de entrada em vigor da presente lei, deverá promover a criação de um organismo ou serviço ao qual, na área da educação, competirá o tratamento das questões específicas dos trabalhadores-estudantes.\n\n2 - A Inspecção-Geral do Trabalho conhecerá, nos termos do respectivo estatuto, das infracções a este diploma cometidas pelas entidades empregadoras.\n\n3 - Deverá igualmente o Governo definir as condições de frequência de cursos de formação escolar, aperfeiçoamento de línguas e actualização profissional.\n\n4 - Deverá ainda o Governo fomentar a criação de aulas nocturnas nos estabelecimentos de ensino onde o justifique o número de trabalhadores-estudantes inscritos, bem como conceder homologação ao seu funcionamento.\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+  },
+  "1088773375": {
+   "fragment_id": "1088729275",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Contra-ordenações",
+   "in_force_from": "2003-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01.",
+    "Aditado pelo/a Artigo 19.º do/a [Lei n.º 118/99 - Diário da República n.º 186/1999, Série I-A de 1999-08-11](https://diariodarepublica.pt/dr/detalhe/lei/118-1999-423061), em vigor a partir de 1999-12-01."
+   ],
+   "markdown": "###### Artigo 12.º-A — Contra-ordenações\n\n1 - Constitui contra-ordenação grave a violação dos n.os 2, 5, 6 e 7 do artigo 3.º, do artigo 4.º e dos n.os 1 e 2 do artigo 5.º\n\n2 - Constitui contra-ordenação leve a violação do artigo 6.º e do n.º 2 do artigo 7.º\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01.\n\n> Aditado pelo/a Artigo 19.º do/a [Lei n.º 118/99 - Diário da República n.º 186/1999, Série I-A de 1999-08-11](https://diariodarepublica.pt/dr/detalhe/lei/118-1999-423061), em vigor a partir de 1999-12-01."
+  },
+  "1088773475": {
+   "fragment_id": "1019646675",
+   "type": 11,
+   "heading": "Artigo 13.º — Disposições finais",
+   "in_force_from": "2003-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+   ],
+   "markdown": "###### Artigo 13.º — Disposições finais\n\n1 - O presente estatuto terá divulgação obrigatória em todos os estabelecimentos de ensino.\n\n2 - É revogada a Lei n.º 26/81, de 21 de Agosto.\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+  },
+  "1088773575": {
+   "fragment_id": "1019646875",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2003-12-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+   ],
+   "markdown": "Aprovada em 31 de Julho de 1997.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 16 de Outubro de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 20 de Outubro de 1997.\n\nO Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.\n\n> Revogado pelo/a Artigo 21.º do/a [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), em vigor a partir de 2003-12-01."
+  }
+ }
+}

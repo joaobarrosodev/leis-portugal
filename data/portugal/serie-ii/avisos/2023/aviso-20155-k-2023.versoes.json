@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:223154133:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2023-1169178775",
+ "dre_path": "/dr/detalhe/aviso/20155-k-2023-223154133",
+ "source_lastmod": "2026-09-18",
+ "versions": [
+  {
+   "date": "2023-10-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1169179375"
+   ]
+  }
+ ],
+ "fragments": {
+  "1169179375": {
+   "fragment_id": "1169178875",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Consulta pública -\n\nInês de Saint-Maurice Esteves de Medeiros Victorino de Almeida, Presidente da Câmara Municipal de Almada, torna público que a Câmara Municipal de Almada, em reunião ordinária de 16 de outubro de 2023, deliberou submeter a período de consulta pública, pelo prazo de 30 dias úteis, o , nos termos do estatuído no artigo 101.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual.\n\nO prazo da consulta pública é contado da data da publicação do respetivo aviso na 2.ª série do Diário da República.\n\nO texto está disponível para ser consultado no sítio institucional do Município, em www.cm-almada.pt.\n\nQualquer interessado pode apresentar, durante o período de consulta pública, por escrito, sugestões, que possam ser relevantes para o procedimento, as quais deverão ser dirigidas ao Diretor do Departamento de Habitação, Dr. Carlos Nunes e poderão ser entregues nas Unidades de Atendimento ao Público do Concelho ou enviadas através do mail: almadainforma@cm-almada.pt."
+  }
+ }
+}

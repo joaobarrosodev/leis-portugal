@@ -1,0 +1,1301 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:677435:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1980-172335083",
+ "dre_path": "/dr/detalhe/portaria/129-1980-677435",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1980-03-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "172335176",
+    "172335177",
+    "172335178",
+    "172335179",
+    "172335180",
+    "172335181",
+    "172335182",
+    "172335183",
+    "172335184",
+    "172335185",
+    "172335186",
+    "172335187",
+    "172335188",
+    "172335189",
+    "172335190",
+    "172335191",
+    "172335192",
+    "172335193",
+    "172335194",
+    "172335195",
+    "172335196",
+    "172335197",
+    "172335198",
+    "172335199",
+    "172335200",
+    "172335201",
+    "172335202",
+    "172335203",
+    "172335204",
+    "172335205",
+    "172335206",
+    "172335207",
+    "172335208",
+    "172335209",
+    "172335210",
+    "172335211",
+    "172335212",
+    "172335213",
+    "172335214",
+    "172335215",
+    "172335216",
+    "172335217",
+    "172335218",
+    "172335219",
+    "172335220",
+    "172335221",
+    "172335222",
+    "172335223",
+    "172335224",
+    "172335225",
+    "172335226",
+    "172335227",
+    "172335228",
+    "172335229",
+    "172335230",
+    "172335231",
+    "172335232",
+    "172335233",
+    "172335234",
+    "172335235",
+    "172335236",
+    "172335237",
+    "172335238",
+    "172335239",
+    "172335240",
+    "172335241",
+    "172335242",
+    "172335243",
+    "172335244",
+    "172335245",
+    "172335246",
+    "172335247",
+    "172335248",
+    "172335249",
+    "172335250",
+    "172335251",
+    "172335252",
+    "172335253",
+    "172335254",
+    "172335255",
+    "172335256",
+    "172335257",
+    "172335258",
+    "172335259",
+    "172335260",
+    "172335261",
+    "172335262",
+    "172335263",
+    "172335264",
+    "172335265",
+    "172335266",
+    "172335267",
+    "172335268",
+    "172335269",
+    "172335270",
+    "172335271",
+    "172335272",
+    "172335273",
+    "172335274",
+    "172335675",
+    "172335676",
+    "172335677",
+    "172335678",
+    "172335679",
+    "172335680",
+    "172335681",
+    "172335682",
+    "172335683",
+    "172335684",
+    "172335685",
+    "172335686",
+    "172335687",
+    "172335688",
+    "172335689",
+    "172335690",
+    "172335691",
+    "172335692",
+    "172335693",
+    "172335694",
+    "172335695"
+   ]
+  },
+  {
+   "date": "1983-07-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:453780:por",
+     "title": "Portaria n.º 764/83",
+     "published": "1983-07-15",
+     "dre_path": "/dr/detalhe/portaria/764-1983-453780"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 44.º",
+    "Revoga Artigo 45.º",
+    "Revoga Artigo 46.º",
+    "Revoga Artigo 47.º",
+    "Revoga Artigo 48.º",
+    "Revoga Artigo 49.º"
+   ],
+   "fragments": [
+    "172335176",
+    "172335177",
+    "172335178",
+    "172335179",
+    "172335180",
+    "172335181",
+    "172335182",
+    "172335183",
+    "172335184",
+    "172335185",
+    "172335186",
+    "172335187",
+    "172335188",
+    "172335189",
+    "172335190",
+    "172335191",
+    "172335192",
+    "172335193",
+    "172335194",
+    "172335195",
+    "172335196",
+    "172335197",
+    "172335198",
+    "172335199",
+    "172335200",
+    "172335201",
+    "172335202",
+    "172335203",
+    "172335204",
+    "172335205",
+    "172335206",
+    "172335207",
+    "172335208",
+    "172335209",
+    "172335210",
+    "172335211",
+    "172335212",
+    "172335213",
+    "172335214",
+    "172335215",
+    "172335216",
+    "172335217",
+    "172335218",
+    "172335219",
+    "172335220",
+    "172335221",
+    "172335222",
+    "172335223",
+    "172335224",
+    "172335225",
+    "172335226",
+    "172335227",
+    "172335228",
+    "172335698",
+    "172335699",
+    "172335700",
+    "172335701",
+    "172335702",
+    "172335703",
+    "172335235",
+    "172335236",
+    "172335237",
+    "172335238",
+    "172335239",
+    "172335240",
+    "172335241",
+    "172335242",
+    "172335243",
+    "172335244",
+    "172335245",
+    "172335246",
+    "172335247",
+    "172335248",
+    "172335249",
+    "172335250",
+    "172335251",
+    "172335252",
+    "172335253",
+    "172335254",
+    "172335255",
+    "172335256",
+    "172335257",
+    "172335258",
+    "172335259",
+    "172335260",
+    "172335261",
+    "172335262",
+    "172335263",
+    "172335264",
+    "172335265",
+    "172335266",
+    "172335267",
+    "172335268",
+    "172335269",
+    "172335270",
+    "172335271",
+    "172335272",
+    "172335273",
+    "172335274",
+    "172335675",
+    "172335676",
+    "172335677",
+    "172335678",
+    "172335679",
+    "172335680",
+    "172335681",
+    "172335682",
+    "172335683",
+    "172335684",
+    "172335685",
+    "172335686",
+    "172335687",
+    "172335688",
+    "172335689",
+    "172335690",
+    "172335691",
+    "172335692",
+    "172335693",
+    "172335694",
+    "172335695"
+   ]
+  }
+ ],
+ "fragments": {
+  "172335176": {
+   "fragment_id": "172335084",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 129/80\n\nde 25 de Março\n\nAo abrigo do artigo 2.º do Decreto-Lei n.º 29749, de 13 de Julho de 1939, e do artigo 7.º do Decreto-Lei n.º 661/74, de 26 de Novembro:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio e Indústrias Agrícolas, o seguinte:\n\n1.º São aprovadas as normas que regem o funcionamento dos matadouros e que constam do regulamento anexo a esta portaria.\n\n2.º Esta portaria não é aplicável às Regiões Autónomas dos Açores e da Madeira.\n\n3.º O presente diploma entra em vigor no décimo quinto dia posterior ao da sua publicação.\n\nSecretaria de Estado do Comércio e Indústrias Agrícolas, 26 de Fevereiro de 1980. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Francisco Manuel Durão Lino.\n\nREGULAMENTO DOS MATADOUROS DA JUNTA NACIONAL DOS PRODUTOS PECUÁRIOS"
+  },
+  "172335177": {
+   "fragment_id": "172335085",
+   "type": 13,
+   "heading": "Título I — Do funcionamento dos matadouros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título I — Do funcionamento dos matadouros"
+  },
+  "172335178": {
+   "fragment_id": "172335086",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "172335179": {
+   "fragment_id": "172335087",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO Regulamento dos Matadouros da Junta Nacional dos Produtos Pecuários destina-se a regular o labor dos matadouros, bem como relações entre os matadouros e terceiros, e aplica-se, com as adaptações que se revelarem necessárias, às casas de matança e às instalações frigoríficas anexas."
+  },
+  "172335180": {
+   "fragment_id": "172335088",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n- 1 - São terceiros todos os utentes dos serviços dos matadouros, bem como qualquer estranho aos serviços dos mesmos.\n\n2 - São utentes todos aqueles que utilizam os serviços dos matadouros."
+  },
+  "172335181": {
+   "fragment_id": "172335089",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n- 1 - É obrigatório o registo dos talhos e dos comerciantes e industriais, bem como de quaisquer entidades particulares e oficiais que habitualmente utilizem os serviços de algum matadouro.\n\n2 - Os registos serão feitos nas secretarias dos matadouros industriais em Lisboa e Porto.\n\n3 - Nas restantes localidades, os registos far-se-ão nas secretarias dos matadouros, nas subdelegações ou nas delegações da JNPP, conforme for considerado mais funcional, em resolução conjunta da comissão de gestão ou director técnico-administrativo do matadouro e dos delegado e subdelegado da JNPP.\n\n4 - O registo será cancelado, em qualquer altura, a pedido do interessado e caduca quando o mesmo, durante um ano consecutivo, não utilizar os serviços do matadouro.\n\n5 - A cada registo corresponderá um número.\n\n6 - No registo de cada talho anotar-se-ão: a firma ou designação social do interessado, o local onde está instalada a administração e o local do estabelecimento.\n\n7 - No registo dos comerciantes e industriais anotar-se-ão: firma ou designação social, local da administração, data do registo, estabelecimento ou estabelecimentos (locais e números dos registos), actividades que exerce, marcas usadas e comprovação anual de estar em dia o pagamento da contribuição industrial.\n\n8 - Caducará imediatamente o registo quando se não fizer a comprovação referida no número anterior.\n\n9 - A cada talho será atribuído um número."
+  },
+  "172335182": {
+   "fragment_id": "172335090",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nPara registo das sociedades, exigir-se-á a prova da sua constituição e da sua regularidade."
+  },
+  "172335183": {
+   "fragment_id": "172335091",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nQualquer particular não registado pode, mediante requerimento, utilizar, a título eventual, os serviços dos matadouros para abate de animais destinados ao seu consumo."
+  },
+  "172335184": {
+   "fragment_id": "172335092",
+   "type": 1,
+   "heading": "Capítulo II — Dos matadouros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Dos matadouros"
+  },
+  "172335185": {
+   "fragment_id": "172335093",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSão objectivos destes estabelecimentos:\n\n1) O abate de animais de talho destinados ao consumo público, a preparação de vísceras e miudezas respectivas, a transformação dos subprodutos e outras operações inerentes;\n\n2) A distribuição de carnes, subprodutos e despojos."
+  },
+  "172335186": {
+   "fragment_id": "172335094",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nPara efeitos deste Regulamento, entende-se por carnes toda e qualquer parte comestível de mamífero abatido num matadouro."
+  },
+  "172335187": {
+   "fragment_id": "172335095",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAs disposições que regulam o funcionamento dos matadouros podem ser interpretadas e esclarecidas por meio de instruções e ordens de serviço dimanadas da direcção da JNPP, das comissões de gestão e dos directores técnico-administrativos."
+  },
+  "172335188": {
+   "fragment_id": "172335096",
+   "type": 1,
+   "heading": "Capítulo III — Entrada de animais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Entrada de animais"
+  },
+  "172335189": {
+   "fragment_id": "172335097",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n- 1 - A entrada de animais faz-se pelo portão destinado a esse fim das 8 às 10 horas, de domingo a quinta-feira.\n\n2 - Mediante justificação, a recepção de animais, excepto de suínos e equídeos, para abate poderá ser feita das 13 às 16 horas, salvo aos domingos e feriados, desde que os seus apresentantes satisfaçam o pagamento da prestação do serviço correspondente.\n\n3 - Todos os animais devem ser apresentados desferrados, identificados e acompanhados de documentação sanitária, ou outra, quando for legalmente exigida.\n\n4 - É proibida a entrada nos matadouros de animais conduzidos por menores não emancipados.\n\n5 - Mediante prévia justificação superiormente reconhecida, as comissões de gestão e os directores técnico-administrativos dos matadouros podem estabelecer horários diferentes dos estabelecidos por este artigo.\n\n6 - Dispensa-se o carácter prévio do reconhecimento da justificação de que trata o número anterior quando as circunstâncias do momento assim o impuserem."
+  },
+  "172335190": {
+   "fragment_id": "172335098",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n- 1 - Os animais não devidamente identificados darão entrada na abegoaria mista, sendo da responsabilidade do apresentante qualquer prejuízo resultante da deficiente identificação dos animais apresentados.\n\n2 - Os animais devem ser marcados antes de entrarem no matadouro, podendo, porém, nos casos justificativos, ser marcados até à entrada nas abegoarias, sempre que possível, no cais de desembarque."
+  },
+  "172335191": {
+   "fragment_id": "172335099",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n- 1 - Os animais devem ter a marca perfeitamente visível e exacta do apresentante.\n\n2 - A marca será feita à tesoura nos bovinos, equídeos e caprinos e, nas restantes espécies, a tinta.\n\n3 - Existirá no matadouro o fac-símile de cada uma das marcas.\n\n4 - Os animais enviados directamente da produção devem ser marcados com a letra L, seguida das iniciais do nome civil, completo ou abreviado, ou da firma ou designação social, por sua vez seguidas do número atribuído pelos serviços competentes.\n\n5 - É proibido fazer ou modificar marcas depois de os animais terem dado entrada nas abegoarias, salvo nos casos em que as razões especiais competentes reconhecidas o justifiquem.\n\n6 - As modificações competentes autorizadas nos termos do número anterior serão registadas no respectivo mapa.\n\n7 - Nas zonas com campanha de saneamento, as comissões de gestão e os directores técnico-administrativos dos matadouros podem autorizar que a identificação desses animais se faça pela chapa auricular posta pelos serviços oficiais da campanha de saneamento.\n\n8 - Logo após inspecção ante mortem, as reses serão marcadas nos termos da legislação em vigor."
+  },
+  "172335192": {
+   "fragment_id": "172335100",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs animais de índole bravia, bem como os bovinos adultos inteiros, devem entrar no matadouro presos com segurança."
+  },
+  "172335193": {
+   "fragment_id": "172335101",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n- 1 - É proibida a entrada nos matadouros de animais vivos de qualquer espécie não destinados a serem abatidos para consumo.\n\n2 - É proibida a entrada nos matadouros de animais mortos, salvo quando se prove ou deva presumir que a morte ocorreu durante a deslocação dos mesmos para o matadouro, devendo-se então proceder de harmonia com o disposto nos artigos 70.º e seguintes do Regulamento da Inspecção Sanitária dos Animais de Talho, das Respectivas Carnes, Subprodutos e Despojos."
+  },
+  "172335194": {
+   "fragment_id": "172335102",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nA estrutura dos meios de transporte deverá permitir que:\n\n1) Os animais possam ser carregados e descarregados facilmente;\n\n2) Os animais de espécies diferentes fiquem separados durante o transporte;\n\n3) Mediante a instalação de grades ou de outros dispositivos apropriados se reduza ao mínimo a sujidade dos animais produzida pelos excrementos depositados nos pavimentos dos veículos;\n\n4) A ventilação seja perfeita;\n\n5) Nos veículos de mais de um piso os pavimentos mentos dos pisos superiores sejam de material impermeável e construídos de modo que os animais dos pisos inferiores não sejam atingidos pelos excrementos dos que se encontram nos pisos superiores;\n\n6) Sejam de fácil limpeza e desinfecção."
+  },
+  "172335195": {
+   "fragment_id": "172335103",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n- 1 - Chegados ao matadouro, deverão os animais ser descarregados de imediato.\n\n2 - Os animais que aguardem a descarga dentro dos veículos deverão ser mantidos ao abrigo dos agentes climatéricos nocivos e com boas condições de arejamento.\n\n3 - O pessoal encarregado da descarga, condução e alojamento dos animais deverá ser suficientemente instruído e possuir capacidade para assimilar e respeitar as instruções."
+  },
+  "172335196": {
+   "fragment_id": "172335104",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nImediatamente a seguir à descarga, deverá proceder-se à limpeza e à desinfecção dos veículos utílizados no transporte de animais."
+  },
+  "172335197": {
+   "fragment_id": "172335105",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n- 1 - Na descarga dos animais deverá utilizar-se equipamento adequado à prevenção de acidentes.\n\n2 - Os animais não devem ser assustados, nem excitados, nem submetidos a qualquer sofrimento desnecessário.\n\n3 - Nas deslocações dos animais deverá aproveitar-se, tanto quanto possível, o seu instinto gregário.\n\n4 - Os instrumentos de descarga eléctrica destinados a dirigir os animais não podem ser usados senão para bovinos e suínos, devendo o seu uso ser espaçado e não exceder, de cada vez, dois segundos."
+  },
+  "172335198": {
+   "fragment_id": "172335106",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nOs animais acidentados nas condições do n.º 2 do artigo 19.º podem dar entrada no matadouro fora das horas fixadas no artigo 9.º, para se decidir da urgência do abate."
+  },
+  "172335199": {
+   "fragment_id": "172335107",
+   "type": 1,
+   "heading": "Capítulo IV — Abates de urgência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Abates de urgência"
+  },
+  "172335200": {
+   "fragment_id": "172335108",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n- 1 - Consideram-se abates de urgência os que devam ser praticados em animais de talho que, por causas comprovadamente justificáveis, devam realizar-se imediatamente.\n\n2 - São causas justificáveis todos os acidentes graves, ocorridos dentro ou fora das instalações dos matadouros, provocados ou não por acções criminosas com ou sem intenção fraudulenta, além de outras situações que, pondo em risco a vida dos animais ou a salubridade das suas carnes, possam originar consideráveis prejuízos económicos."
+  },
+  "172335201": {
+   "fragment_id": "172335109",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n- 1 - Sempre que se apresentem nos matadouros para abate animais nas condições do artigo anterior, o encarregado da recepção, ou o seu substituto, recebê-los-á e contactará imediatamente o director da comissão de gestão ou o director técnico-administrativo, informando-o das condições em que as reses se encontram. Igual procedimento deverá adoptar se o acidente ocorrer dentro das instalações do matadouro.\n\n2 - Nos matadouros industriais, designadamente Lisboa e Porto, os apresentantes de gado deverão comunicar a necessidade do abate de urgência dentro do horário normal de funcionamento do matadouro."
+  },
+  "172335202": {
+   "fragment_id": "172335110",
+   "type": 1,
+   "heading": "Capítulo V — Abegoarias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Abegoarias"
+  },
+  "172335203": {
+   "fragment_id": "172335111",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nOs animais disporão de água para bebida e de camas convenientes quando as circunstâncias o aconselhem e o permitam."
+  },
+  "172335204": {
+   "fragment_id": "172335112",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n- 1 - Os animais referidos no artigo 12.º devem ser alojados separadamente.\n\n2 - Os animais atingidos ou suspeitos de doença infecto-contagiosa devem ser isolados."
+  },
+  "172335205": {
+   "fragment_id": "172335113",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nÉ proibida a permanência de animais fora dos currais ou abegoarias."
+  },
+  "172335206": {
+   "fragment_id": "172335114",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nO acesso dos apresentantes de gado às abegoarias e currais só pode ter lugar durante o período de funcionamento do matadouro e com autorização do responsável pelo sector."
+  },
+  "172335207": {
+   "fragment_id": "172335115",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nCompete aos directores das comissões de gestão e aos directores técnico-administrativos dos matadouros decidirem sobre pedidos de retirada dos matadouros de animais vivos, devendo, porém, ser ouvidos, em todos os casos, o inspector sanitário ou o corpo de inspectores sanitários em serviço no respectivo matadouro, cuja opinião se baseará no que o Regulamento da Inspecção Sanitária dos Animais de Talho, das Respectivas Carnes, Subprodutos e Despojos dispõe sobre a matéria."
+  },
+  "172335208": {
+   "fragment_id": "172335116",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n- 1 - Será por conta do apresentante a alimentação do gado que fique em estábulo.\n\n2 - Quando se não prove culpa por parte da JNPP, não responde esta pelos acidentes sofridos ou causados pelo gado.\n\n3 - A JNPP também não responde pelos acidentes sofridos ou causados pelo gado quando, provando-se culpa da sua parte, se verifique, segundo a experiência comum, que, mesmo sem culpa, os acidentes se produziriam."
+  },
+  "172335209": {
+   "fragment_id": "172335117",
+   "type": 1,
+   "heading": "Capítulo VI — Serviços de matança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Serviços de matança"
+  },
+  "172335210": {
+   "fragment_id": "172335118",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n- 1 - O serviço de matança efectuar-se-á todos os dias úteis, com a duração fixada na lei geral laboral, iniciando-se entre as 7 e as 9 horas, consoante os condicionalismos locais.\n\n2 - Quando as circunstâncias o justifiquem, poderá, no entanto, ser a matança efectuada aos sábados, domingos e feriados, ou suspensa em qualquer dia útil."
+  },
+  "172335211": {
+   "fragment_id": "172335119",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\n- 1 - As comissões de gestão e os directores técnico-administrativos fixarão o máximo diário de animais a abater.\n\n2 - A ordem de abate será diariamente estabelecida tendo em vista as normas sanitárias, o bom funcionamento do serviço e a facilidade e regularidade de distribuição das carnes."
+  },
+  "172335212": {
+   "fragment_id": "172335120",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nOs animais aprovados em vida para abate terão um período de jejum e repouso conforme o determinado no Regulamento da Inspecção Sanitária dos Animais de Talho, das Respectivas Carnes, Subprodutos e Despojos."
+  },
+  "172335213": {
+   "fragment_id": "172335121",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nUma vez introduzidos no local da matança, os animais deverão ser imediatamente abatidos pelos métodos mais adequados."
+  },
+  "172335214": {
+   "fragment_id": "172335122",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nA urgência do abate não dispensa a inspecção ante mortem."
+  },
+  "172335215": {
+   "fragment_id": "172335123",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nSe a apresentação dos animais ou acidente se verificar fora do horário normal de trabalho e se julgue urgente o abate, o director da comissão de gestão ou director técnico-administrativo do matadouro requisitará os serviços urgentes de inspecção sanitária."
+  },
+  "172335216": {
+   "fragment_id": "172335124",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\n- 1 - Os animais portadores ou suspeitos de doença infecto-contagiosa, se no matadouro não houver nave sanitária de abate, abater-se-ão em último lugar, procedendo-se, seguidamente, à desinfecção do pessoal, utensílios e equipamento utilizados.\n\n2 - Os locais onde permaneceram e aqueles em que foram abatidos os animais referidos no número anterior serão lavados e desinfectados dentro do mais curto espaço de tempo possível."
+  },
+  "172335217": {
+   "fragment_id": "172335125",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\n- 1 - Sem prejuízo das outras disposições legais em vigor sobre marcação de carnes, as carcaças das reses bovinas e equídeas serão marcadas com o número de ordem de saída e o número do talho a que se destinam, e as reses suínas, ovinas e caprinas, apenas com o número do talho a que estão destinadas.\n\n2 - Também sem prejuízo das disposições legais referidas no número anterior, as carcaças dos animais abatidos que forem propriedade da JNPP serão marcadas somente com o número da ordem de saída e a marca deste organismo."
+  },
+  "172335218": {
+   "fragment_id": "172335126",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\n- 1 - As pelarias serão marcadas com os números de ordem de saída das reses, ferro e número da semana açougueira.\n\n2 - A marcação será a tinta, que pode ser do tipo da aplicada na marcação da carne, e terá lugar no lado do carnaz, de preferência na zona dorsal.\n\n3 - Após a marcação, as pelarias seguirão para as casas de salga ou, não havendo estas, serão entregues ao apresentante das respectivas reses."
+  },
+  "172335219": {
+   "fragment_id": "172335127",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\nNo abate dos animais e preparação das carnes devem observar-se os seguintes preceitos:\n\n1) Nenhum animal poderá ser sangrado sem estar completamente insensibilizado à dor;\n\n2) A sangria deve ser completa e imediata à insensibilização e o sangue destinado ao consumo humano deverá ser recolhido higienicamente e em recipientes apropriados;\n\n3) A esfola e a descorna não serão iniciadas enquanto os animais apresentarem movimentos reaccionais;\n\n4) Impedir-se-á, por todos os meios, o contacto da carne com o solo e a sua conspurcação;\n\n5) Utilizar-se-á sempre água potável;\n\n6) A pele deverá ser extraída sem golpes e sem tecidos aderentes;\n\n7) A evisceração deve ser feita na meia hora que se segue à sangria;\n\n8) A cabeça e os órgãos destacados devem ser imediatamente identificados por forma a permitirem o reconhecimento das carcaças a que pertencem até ser dada por finda a inspecção. Em todas as espécies, os rins devem ficar aderentes à carcaça pelas suas ligações naturais. As carcaças de ovinos e caprinos deverão conservar as fressuras agarradas até à inspecção;\n\n9) A incisão e excisão de qualquer parte ou tecido só poderá ser efectuada por determinação e sob vigilância da inspecção sanitária;\n\n10) É proibido fazer a limpeza de sangue e de corpos estranhos aderentes às carcaças utilizando ar sob pressão ou panos. Só é permitida a limpeza por água corrente sob pressão;\n\n11) Em cada espécie, a preparação e esquartejamento de carcaça devem ser feitos segundo preceituado nas normas portuguesas n.os 776, 777, 778 e 779 de 1970 e 833 de 1971;\n\n12) A pesagem da carcaça será efectuada imediatamente após a sua preparação;\n\n13) À medida que forem preparadas, classificadas e inspeccionadas, far-se-ão sair das salas de matança para o destino respectivo carcaças, peles, chifres, fressuras e miudezas."
+  },
+  "172335220": {
+   "fragment_id": "172335128",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\nÉ proibido abrir, esvaziar, lavar e preparar estômagos intestinos em qualquer lugar que não seja a triparia ou, na falta desta, outro lugar adequado."
+  },
+  "172335221": {
+   "fragment_id": "172335129",
+   "type": 11,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\nOs recipientes das miudezas devem manter-se em bom estado de conservação e limpeza e ser desinfectados após a sua utilização."
+  },
+  "172335222": {
+   "fragment_id": "172335130",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\n- 1 - Nas naves de matança, nas câmaras frigoríficas e em todos os locais de preparação e armazenagem de carnes, subprodutos e despojos é proibida a presença de pessoas estranhas ao serviço.\n\n2 - Exceptuam-se do número anterior os apresentantes do gado, os quais têm acesso aos locais onde se encontrem as carcaças rejeitadas e àqueles em que funcionem as balanças de pesagem, a fim de poderem seguir as pesagens das carcaças do gado que apresentarem e recolherem elementos para fundamentação de pedido de recurso.\n\n3 - Cada apresentante de gado só poderá permanecer nos locais indicados no número anterior durante o tempo estritamente necessário."
+  },
+  "172335223": {
+   "fragment_id": "172335131",
+   "type": 1,
+   "heading": "Capítulo VII — Serviços sanitários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Serviços sanitários"
+  },
+  "172335224": {
+   "fragment_id": "172335132",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nA inspecção sanitária dos animais de talho, das respectivas carnes, subprodutos e despojos será realizada pelos competentes inspectores sanitários nos termos do Regulamento aprovado pela Portaria n.º 14551, de 24 de Setembro de 1953, e demais legislação em vigor."
+  },
+  "172335225": {
+   "fragment_id": "172335133",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\n- 1 - Os animais retirados dos matadouros nos termos do artigo 25.º serão previamente marcados à tesoura com os seguintes dizeres:\n\nReprovado;\n\nData;\n\nNome do concelho em que está instalado o matadouro.\n\n2 - Os suínos são marcados a tinta."
+  },
+  "172335226": {
+   "fragment_id": "172335134",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\n- 1 - Só no momento da inspecção sanitária se poderão efectuar as operações de limpeza das carcaças e miudezas, ficando proibida a extracção, ocultação ou alteração do aspecto de quaisquer lesões ou anomalias antes de a referida inspecção estar concluída.\n\n2 - É proibido retirar quaisquer peças de carne ou miudezas antes de a inspecção sanitária estar concluída."
+  },
+  "172335227": {
+   "fragment_id": "172335135",
+   "type": 11,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\nSerá fixada em local apropriado relação das rejeições, com indicação das suas causas."
+  },
+  "172335228": {
+   "fragment_id": "172335136",
+   "type": 1,
+   "heading": "Capítulo VIII — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Recursos"
+  },
+  "172335229": {
+   "fragment_id": "172335137",
+   "type": 11,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\n- 1 - Dos mapas dos resultados da inspecção sanitária e da classificação de carcaças deve constar a indicação da hora exacta da respectiva afixação.\n\n2 - Nas duas horas seguintes à afixação dos resultados da inspecção sanitária e da classificação das carcaças, podem os apresentantes dos respectivos animais requerer ao director da comissão de gestão ou ao director técnico-administrativo do matadouro a reinspecção, bem como a reclassificação, procedendo simultaneamente ao correspondente depósito.\n\n3 - As entidades requeridas providenciarão imediatamente como for necessário.\n\n4 - O requerimento deve ser entregue e o depósito efectuado na secretaria em que se realizam os registos nos termos dos n.os 2 e 3 do artigo 3.º, devendo a secretaria passar ao requerente um documento comprovativo do depósito e da hora exacta da entrega do requerimento e dar conhecimento à entidade requerida, ainda que por via telefónica, no mais curto espaço de tempo possível, sem exceder o prazo de meia hora.\n\n5 - Enquanto não vigorar diploma legal que disponha diferentemente, os depósitos dos recursos de reclassificação serão iguais aos depósitos dos recursos de reinspecção sanitária fixados na Portaria n.º 84/75, de 14 de Fevereiro."
+  },
+  "172335230": {
+   "fragment_id": "172335138",
+   "type": 11,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\n- 1 - As juntas de recurso serão presididas pelo director da comissão de gestão ou pelo director técnico-administrativo do matadouro.\n\n2 - Os presidentes da junta de recurso nomearão secretário de entre o pessoal da secretaria do matadouro ou, na falta deste, requisitá-lo-ão aos subdelegados ou delegados da respectiva área e promoverão que a junta de recurso se reúna dentro de vinte e quatro horas, mas não tomarão parte na elaboração da resolução acerca da matéria do recurso."
+  },
+  "172335231": {
+   "fragment_id": "172335139",
+   "type": 11,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\n- 1 - Enquanto não vigorar nova disposição legal referente à constituição das juntas de recurso de inspecção sanitária, aplicar-se-á a legislação em vigor, com as adaptações que se mostrarem necessárias.\n\n2 - As juntas de recurso de reclassificação serão constituídas por três médicos veterinários, sendo um apresentado pelo recorrente e dois nomeados pelo director da comissão de gestão ou director técnico-administrativo do matadouro de entre os classificadores de carcaças do matadouro.\n\n3 - Se o recorrente não apresentar médico veterinário, o director da comissão de gestão ou o director técnico-administrativo procederá nos termos do número seguinte.\n\n4 - Na falta de médicos veterinários classificadores de carcaças do matadouro em número suficiente, serão requisitados pelo director da comissão de gestão ou director técnico-administrativo à delegação da JNPP em cuja área funcione o matadouro, a qual, se necessário, poderá, por sua vez, requisitá-los ao serviço de comércio de carnes ou a outra delegação da JNPP.\n\n5 - O classificador de cuja decisão for interposto recurso não pode fazer parte da junta de recurso, salvo como presidente da mesma, mas pode estar presente para prestar esclarecimentos, por sua iniciativa ou por solicitação da junta de recurso, e para, querendo, sustentar a sua decisão."
+  },
+  "172335232": {
+   "fragment_id": "172335140",
+   "type": 11,
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\nDas resoluções das juntas de recurso elaborar-se-ão actas e não haverá lugar a novo recurso."
+  },
+  "172335233": {
+   "fragment_id": "172335141",
+   "type": 11,
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\nConfirmada a decisão recorrida, o recorrente responde pelas despesas do recurso, nomeadamente pelos honorários do médico veterinário que apresentou, e pelos transportes, ajudas de custo e horas extraordinárias do presidente de junta de recurso, do secretário, do classificador de cuja decisão recorreu e dos vogais da junta, e perde o depósito a favor da JNPP."
+  },
+  "172335234": {
+   "fragment_id": "172335142",
+   "type": 11,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\nSe a resolução da junta de recurso for favorável ao recorrente, não responderá este pelas despesas referidas no artigo 48.º, excepto pelos honorários e transportes do médico veterinário que apresentou."
+  },
+  "172335235": {
+   "fragment_id": "172335143",
+   "type": 1,
+   "heading": "Capítulo IX — Marcação das carnes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Marcação das carnes"
+  },
+  "172335236": {
+   "fragment_id": "172335144",
+   "type": 11,
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\nTerminada a inspecção sanitária, serão as carnes marcadas de acordo com a legislação em vigor."
+  },
+  "172335237": {
+   "fragment_id": "172335145",
+   "type": 1,
+   "heading": "Capítulo X — Oficinas de triparia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo X — Oficinas de triparia"
+  },
+  "172335238": {
+   "fragment_id": "172335146",
+   "type": 11,
+   "heading": "Artigo 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º\n\nAs oficinas de triparia destinam-se ao esvaziamento, lavagem e preparação dos estômagos, intestinos e outras miudezas, bem como à lavagem e preparação das cabeças e extremidades dos membros."
+  },
+  "172335239": {
+   "fragment_id": "172335147",
+   "type": 11,
+   "heading": "Artigo 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º\n\nA preparação dos estômagos e intestinos consiste em despi-los das camadas serosa e mucosa e em separá-los dos mesentérios."
+  },
+  "172335240": {
+   "fragment_id": "172335148",
+   "type": 11,
+   "heading": "Artigo 53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º\n\n- 1 - A preparação das extremidades dos membros consiste no escaldão, depilação e extracção das unhas.\n\n2 - A preparação das cabeças consiste na esfola e lavagem ou, no caso das vitelas, em escaldão e depilação."
+  },
+  "172335241": {
+   "fragment_id": "172335149",
+   "type": 11,
+   "heading": "Artigo 54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º\n\nÉ proibido colocar no pavimento qualquer peça já preparada."
+  },
+  "172335242": {
+   "fragment_id": "172335150",
+   "type": 1,
+   "heading": "Capítulo XI — Utilização das câmaras frigoríficas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XI — Utilização das câmaras frigoríficas"
+  },
+  "172335243": {
+   "fragment_id": "172335151",
+   "type": 11,
+   "heading": "Artigo 55.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º\n\n- 1 - As carcaças, fressuras, miudezas e outros subprodutos aprovados para consumo humano deverão ser retirados dos locais de preparação e seguir para as câmaras frigoríficas de imediato, transportando-se e armazenando-se de modo a evitar-se a sua contaminação e deterioração.\n\n2 - Nas câmaras de refrigeração, as carcaças devem ficar suspensas em via aérea de modo a não haver contacto entre elas.\n\n3 - A armazenagem deverá ser de modo a acautelar que o gotejo de alguma peça caia sobre outra."
+  },
+  "172335244": {
+   "fragment_id": "172335152",
+   "type": 11,
+   "heading": "Artigo 56.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º\n\n- 1 - A capacidade limite das câmaras frigoríficas não deverá ser excedida.\n\n2 - As portas das câmaras frigoríficas não deverão deixar-se abertas mais tempo do que o estritamente necessário.\n\n3 - Quando nas câmaras frigoríficas não houver aparelho de registo automático de temperaturas, serão estas lidas a intervalos regulares, anotando-se os resultados num livro de registos."
+  },
+  "172335245": {
+   "fragment_id": "172335153",
+   "type": 11,
+   "heading": "Artigo 57.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º\n\n- 1 - A utilização das câmaras frigoríficas para conservação de produtos não provenientes de animais abatidos no matadouro deve ser requerida à comissão de gestão ou ao director técnico-administrativo do matadouro.\n\n2 - Só se admite a armazenagem de produtos em bom estado de conservação e em recipientes adequados.\n\n3 - É proibida a armazenagem de peixe, marisco e de tudo o que possa prejudicar outros produtos armazenados."
+  },
+  "172335246": {
+   "fragment_id": "172335154",
+   "type": 11,
+   "heading": "Artigo 58.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º\n\nSerá mantida a temperatura adequada à conservação dos produtos alimentares, não respondendo a JNPP pelos prejuízos que ocorrem sem culpa da sua parte, nem quando, provando-se culpa da sua parte, se verifique, segundo a experiência comum, que, mesmo sem culpa da sua parte, os prejuízos se produziriam."
+  },
+  "172335247": {
+   "fragment_id": "172335155",
+   "type": 11,
+   "heading": "Artigo 59.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º\n\nA abertura das câmaras frigoríficas para a entrada e saída de produtos está sujeita a horário fixado pela comissão de gestão ou director técnico-administrativo."
+  },
+  "172335248": {
+   "fragment_id": "172335156",
+   "type": 11,
+   "heading": "Artigo 60.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º\n\nÉ proibida a reentrada de carnes nas câmaras frigoríficas, salvo nos casos de reinspecções, repesagens e reclassificações."
+  },
+  "172335249": {
+   "fragment_id": "172335157",
+   "type": 11,
+   "heading": "Artigo 61.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º\n\nAs comissões de gestão e os directores técnico-administrativos dos matadouros poderão ordenar a saída dos produtos armazenados quando sejam notadas alterações anómalas."
+  },
+  "172335250": {
+   "fragment_id": "172335158",
+   "type": 11,
+   "heading": "Artigo 62.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º\n\nVerificar-se-ão o peso e a natureza das mercadorias que entram nas câmaras frigoríficas, bem como o peso das que saem, excepto, no respeitante a esta última verificação, quando tecnicamente se considerar desnecessário."
+  },
+  "172335251": {
+   "fragment_id": "172335159",
+   "type": 11,
+   "heading": "Artigo 63.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º\n\nAs carnes que se encontrem em câmaras frigoríficas e que não devem ser distribuídas serão assinaladas por forma bem visível e, quando possível, colocadas em câmaras só a elas reservadas."
+  },
+  "172335252": {
+   "fragment_id": "172335160",
+   "type": 1,
+   "heading": "Capítulo XII — Pesagem, depósito e distribuição de carnes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XII — Pesagem, depósito e distribuição de carnes"
+  },
+  "172335253": {
+   "fragment_id": "172335161",
+   "type": 11,
+   "heading": "Artigo 64.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º\n\nA pesagem das carcaças será feita imediatamente após a sua preparação, tomando-se nota em impresso próprio dos números de ordem de saída, espécie animal, respectivos pesos e outros elementos que se considerem necessários ou úteis."
+  },
+  "172335254": {
+   "fragment_id": "172335162",
+   "type": 11,
+   "heading": "Artigo 65.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º\n\nSó podem ser distribuídas carnes devidamente identificadas e em viaturas com os requisitos regulamentares."
+  },
+  "172335255": {
+   "fragment_id": "172335163",
+   "type": 11,
+   "heading": "Artigo 66.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º\n\n- 1 - As viaturas de transporte de carnes não poderão transportar simultaneamente outras mercadorias ou objectos, nem conduzir pessoas estranhas ao serviço de carga e descarga e de fiscalização.\n\n2 - As viaturas dos matadouros afectas ao transporte de carnes só poderão ser utilizadas para outros fins com prévia autorização da comissão de gestão ou director administrativo dos respectivos matadouros.\n\n3 - As viaturas de transporte de carnes deverão, após o serviço, ser escrupulosamente lavadas e desinfectadas.\n\n4 - Quando as viaturas de transporte de carnes não forem propriedade da JNPP e adstritas aos matadouros, serão inspeccionadas antes do carregamento."
+  },
+  "172335256": {
+   "fragment_id": "172335164",
+   "type": 11,
+   "heading": "Artigo 67.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º\n\nO horário e a ordem de distribuição de carnes serão estabelecidos pela comissão de gestão ou director técnico-administrativo do matadouro."
+  },
+  "172335257": {
+   "fragment_id": "172335165",
+   "type": 11,
+   "heading": "Artigo 68.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º\n\n- 1 - Os distribuidores deverão usar resguardos com capuz, de modo a impedir o contacto das carnes com o vestuário e o cabelo.\n\n2 - Os distribuidores deverão diligenciar para que as carnes não se conspurquem durante a distribuição."
+  },
+  "172335258": {
+   "fragment_id": "172335166",
+   "type": 1,
+   "heading": "Capítulo XIII — Depósito de couros e peles",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XIII — Depósito de couros e peles"
+  },
+  "172335259": {
+   "fragment_id": "172335167",
+   "type": 11,
+   "heading": "Artigo 69.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º\n\n- 1 - À entrada do depósito de salga far-se-á a conferência do número de couros e peles em conformidade com os abates efectuados e as marcas de cada uma das pelarias, havendo um registo para identificação, que ficará em conta corrente.\n\n2 - Se os couros e as peles forem provenientes de animais abatidos noutros matadouros da JNPP, deverá o interessado apresentar documento, passado por esse matadouro ou por alguma das secretarias referidas nos n.os 2 e 3 do artigo 3.º, que permita a conferência exigida no número anterior.\n\n3 - Não é permitida a entrada de couros e peles que não sejam provenientes de abates no mesmo ou noutros matadouros pertencentes à JNPP."
+  },
+  "172335260": {
+   "fragment_id": "172335168",
+   "type": 11,
+   "heading": "Artigo 70.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º\n\n- 1 - Os couros e as peles serão salgados, dentro do possível, com o sal novo, de grão médio para os couros e fino para as peles, aplicado por forma a recobrir completamente o carnaz, depois de colocados aqueles despojos, bem distendidos, em pilhas de cerca de 1 m de altura.\n\n2 - O tempo de salga será, pelo menos, de quinze dias, salvo tratando-se de pelarias de ovídeos, cujo tempo de salga não excederá quarenta e oito horas."
+  },
+  "172335261": {
+   "fragment_id": "172335169",
+   "type": 1,
+   "heading": "Capítulo XIV — Produtos reprovados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XIV — Produtos reprovados"
+  },
+  "172335262": {
+   "fragment_id": "172335170",
+   "type": 11,
+   "heading": "Artigo 71.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º\n\nAs carcaças ou partes de carcaças reprovadas ou declaradas impróprias para consumo imediato, os órgãos doentes e todas as porções de carnes ou vísceras rejeitadas terão o destino que lhes é definido no capítulo VII do Regulamento da Inspecção Sanitária dos Animais de Talho, das Respectivas Carnes, Subprodutos e Despojos, aprovado pela Portaria n.º 14551, de 24 de Setembro de 1953."
+  },
+  "172335263": {
+   "fragment_id": "172335171",
+   "type": 1,
+   "heading": "Capítulo XV — Higiene e limpeza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XV — Higiene e limpeza"
+  },
+  "172335264": {
+   "fragment_id": "172335172",
+   "type": 11,
+   "heading": "Artigo 72.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º\n\nTodos os trabalhadores do matadouro que estejam em contacto com as operações de abate, preparação e manuseamento de carnes e subprodutos de matança devem ser portadores do cartão individual de sanidade, ficando o número deste junto do seu processo arquivado na secretaria do matadouro."
+  },
+  "172335265": {
+   "fragment_id": "172335173",
+   "type": 11,
+   "heading": "Artigo 73.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º\n\n- 1 - Todo o trabalhador que sofra de ferida ou chaga, diarreia, afecção respiratória ou que saiba ou suspeite ser portador de doença contagiosa deve participar imediatamente o facto ao seu superior hierárquico, o qual dará conhecimento à comissão de gestão ou ao director técnico-administrativo, a fim de serem tomadas providências.\n\n2 - O trabalhador não é obrigado a revelar a natureza da doença."
+  },
+  "172335266": {
+   "fragment_id": "172335174",
+   "type": 11,
+   "heading": "Artigo 74.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º\n\nO fardamento do pessoal deve apresentar-se limpo no início do trabalho, sendo para tal efeito necessário um mínimo de três fardamentos, fornecidos pelo matadouro."
+  },
+  "172335267": {
+   "fragment_id": "172335575",
+   "type": 11,
+   "heading": "Artigo 75.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º\n\n- 1 - Os trabalhadores ocupados em tarefas em que possam directa ou indirectamente contaminar as carcaças ou qualquer produto comestível devem lavar cuidadosamente as mãos com água corrente e detergente e desinfectá-las:\n\na) Imediatamente antes de se iniciarem os trabalhos;\n\nb) Quando saiam do local de trabalho por qualquer motivo;\n\nc) Quando, tendo saído do local de trabalho, a ele regressem;\n\nd) Quando, durante o trabalho, contactem matérias infectadas ou suspeitas.\n\n2 - Durante a laboração os trabalhadores nas condições do número anterior devem lavar as mãos frequentemente com água corrente, sendo facultativo o uso do detergente e dispensando-se a desinfecção, se não tiverem contactado matérias infectadas ou suspeitas.\n\n3 - Quando na manipulação das carnes se usem luvas, deverão manter-se estas em boas condições de higiene.\n\n4 - O uso de luvas não exime o trabalhador dos deveres de higiene das mãos."
+  },
+  "172335268": {
+   "fragment_id": "172335576",
+   "type": 11,
+   "heading": "Artigo 76.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º\n\nAs luvas deverão ser de material impermeável, salvo os casos em que este se revele inapropriado."
+  },
+  "172335269": {
+   "fragment_id": "172335577",
+   "type": 11,
+   "heading": "Artigo 77.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º\n\nNa falta de disposição legal aplicável, compete à comissão de gestão ou ao director técnico-administrativo escolher o detergente ou detergentes, bem como o desinfectante ou desinfectantes, podendo, para o efeito, solicitar o parecer da Direcção-Geral dos Serviços Veterinários."
+  },
+  "172335270": {
+   "fragment_id": "172335578",
+   "type": 11,
+   "heading": "Artigo 78.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º\n\n- 1 - Os estranhos ao serviço só podem ter acesso aos locais em que se encontrem carcaças ou quaisquer produtos comestíveis envergando vestuário protector adequado.\n\n2 - No caso dos apresentantes de animais que, ao abrigo do n.º 2 do artigo 39.º, desejem assistir às pesagens das carcaças, o vestuário referido no número anterior não será fornecido pelo matadouro."
+  },
+  "172335271": {
+   "fragment_id": "172335579",
+   "type": 11,
+   "heading": "Artigo 79.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º\n\n- 1 - Os locais de trabalho, equipamento e utensílios devem ser cuidadosamente lavados e desinfectados após utilização e, durante esta, quando necessário.\n\n2 - As lavagens e desinfecções referidas no número anterior operar-se-ão de modo a evitar que com elas se contaminem as carnes.\n\n3 - Os utensílios serão de material resistente à corrosão e insusceptível de alterar as características das carnes."
+  },
+  "172335272": {
+   "fragment_id": "172335580",
+   "type": 11,
+   "heading": "Artigo 80.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º\n\nÉ proibido fumar ou comer nos locais de trabalho e de armazenagem."
+  },
+  "172335273": {
+   "fragment_id": "172335581",
+   "type": 11,
+   "heading": "Artigo 81.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º\n\nÉ proibido conspurcar com expectoração, saliva ou por qualquer outro meio os locais de trabalho e de armazenagem."
+  },
+  "172335274": {
+   "fragment_id": "172335582",
+   "type": 11,
+   "heading": "Artigo 82.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º\n\nÉ proibido colocar serradura nos pavimentos dos locais de trabalho e de armazenagem."
+  },
+  "172335675": {
+   "fragment_id": "172335583",
+   "type": 11,
+   "heading": "Artigo 83.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º\n\nOs estrumes e detritos produzidos no matadouro devem ser retirados diariamente."
+  },
+  "172335676": {
+   "fragment_id": "172335584",
+   "type": 11,
+   "heading": "Artigo 84.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º\n\nAs comissões de gestão e os directores técnico-administrativos elaborarão programas permanentes de limpeza e desinfecção que englobem operações periódicas de desratização e assegurem a higiene de todas as partes dos respectivos matadouros."
+  },
+  "172335677": {
+   "fragment_id": "172335585",
+   "type": 1,
+   "heading": "Capítulo XVI — Disposições diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XVI — Disposições diversas"
+  },
+  "172335678": {
+   "fragment_id": "172335586",
+   "type": 11,
+   "heading": "Artigo 85.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º\n\nA entrada de pessoas estranhas ao serviço no matadouro dependerá de autorização de qualquer membro da comissão de gestão ou do director técnico-administrativo ou, na ausência destes, de quem os substitua nos seus impedimentos."
+  },
+  "172335679": {
+   "fragment_id": "172335587",
+   "type": 11,
+   "heading": "Artigo 86.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º\n\nFindo o período de trabalho, as chaves de todas as secções serão entregues ao guarda de serviço e colocadas por este no respectivo chaveiro."
+  },
+  "172335680": {
+   "fragment_id": "172335588",
+   "type": 1,
+   "heading": "Capítulo XVII — Do pessoal do matadouro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XVII — Do pessoal do matadouro"
+  },
+  "172335681": {
+   "fragment_id": "172335589",
+   "type": 11,
+   "heading": "Artigo 87.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º\n\nO matadouro é administrado por uma comissão de gestão ou por um director técnico-administrativo."
+  },
+  "172335682": {
+   "fragment_id": "172335590",
+   "type": 11,
+   "heading": "Artigo 88.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º\n\nA distribuição do pessoal e suas funções constarão do organograma do matadouro."
+  },
+  "172335683": {
+   "fragment_id": "172335591",
+   "type": 11,
+   "heading": "Artigo 89.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89.º\n\nÉ proibido ao pessoal do matadouro:\n\n1.º Abandonar o local de trabalho, ainda que por curto espaço de tempo, ou mudar de funções sem prévia autorização;\n\n2.º Permanecer noutro local de trabalho sem prévia autorização;\n\n3.º Sair do matadouro durante as horas de serviço sem prévia autorização;\n\n4.º Usar utensílios de trabalho para fins que não sejam os específicos para os quais lhes são confiados."
+  },
+  "172335684": {
+   "fragment_id": "172335592",
+   "type": 11,
+   "heading": "Artigo 90.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º\n\nOs trabalhadores são responsáveis pela conservação e asseio do material (fardamento e utensílios de trabalho) que lhes seja distribuído, devendo guardá-lo em local reservado para esse fim."
+  },
+  "172335685": {
+   "fragment_id": "172335593",
+   "type": 11,
+   "heading": "Artigo 91.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 91.º\n\n- 1 - Os trabalhadores dos matadouros dos diferentes serviços, mormente abegoaria, matança, triparia, salga e frigoríficos, devem, para uma completa formação profissional e quando tal for julgado conveniente para o bom andamento dos trabalhos, prestar serviço, devidamente escalados, nas diferentes secções.\n\n2 - Nos tempos livres que porventura ocorram dentro do horário normal de funcionamento dos matadouros, podem os trabalhadores ser incumbidos de outras tarefas não específicas necessárias à conservação, manutenção e limpeza do matadouro, máquinas e ferramentas."
+  },
+  "172335686": {
+   "fragment_id": "172335594",
+   "type": 13,
+   "heading": "Título II — Dos prémios e louvores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título II — Dos prémios e louvores"
+  },
+  "172335687": {
+   "fragment_id": "172335595",
+   "type": 11,
+   "heading": "Artigo 92.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 92.º\n\n- 1 - Os trabalhadores que, pelo grau de dedicação, zelo e competência, possam ser apresentados como exemplo a seguir pelos restantes têm direito ao reconhecimento do seu mérito por meio de:\n\na) Louvores em ordem de serviço;\n\nb) Prémios pecuniários;\n\nc) Concessões de especiais facilidades no serviço, embora sem quebra de deveres fundamentais do trabalhador.\n\n2 - A concessão de prémios pecuniários será regulamentada por despacho da direcção da JNPP, publicado em ordem de serviço."
+  },
+  "172335688": {
+   "fragment_id": "172335596",
+   "type": 11,
+   "heading": "Artigo 93.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 93.º\n\nOs louvores, prémios pecuniários e especiais facilidades referidos no artigo anterior serão concedidos pela direcção da JNPP sobre proposta do superior hierárquico, aprovada pela comissão de gestão, ou director técnico-administrativo do matadouro a que o trabalhador esteja ou tenha estado adstrito."
+  },
+  "172335689": {
+   "fragment_id": "172335597",
+   "type": 13,
+   "heading": "Título III — Do pessoal estranho ao matadouro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título III — Do pessoal estranho ao matadouro"
+  },
+  "172335690": {
+   "fragment_id": "172335598",
+   "type": 11,
+   "heading": "Artigo 94.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 94.º\n\nO pessoal estranho ao serviço do matadouro é obrigado a portar-se com compostura e disciplina e a respeitar as normas de serviço."
+  },
+  "172335691": {
+   "fragment_id": "172335599",
+   "type": 11,
+   "heading": "Artigo 95.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 95.º\n\nAs comissões de gestão e os directores técnico-administrativos dos matadouros podem interditar a entrada nos respectivos matadouros aos utentes e a outras pessoas estranhas aos serviços:\n\n1) Que por qualquer modo perturbem a ordem, a higiene, o decoro ou o funcionamento do matadouro ou que faltem ao respeito devido a qualquer elemento do pessoal da JNPP, nomeadamente do dirigente, no exercício das suas funções relativas ao matadouro ou por causa delas;\n\n2) Que sejam condenados, por decisão judicial transitada em julgado, por crime, ainda que só tentado, contra algumas das pessoas das categorias referidas no número anterior no exercício das suas funções relativas ao matadouro ou por causa delas."
+  },
+  "172335692": {
+   "fragment_id": "172335600",
+   "type": 11,
+   "heading": "Artigo 96.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 96.º\n\n- 1 - A interdição do n.º 1 do artigo 95.º não excederá sessenta dias.\n\n2 - A interdição referida no n.º 2 do artigo 95.º será de sessenta e um dias a um ano, não podendo ser inferior a cento e vinte e um dias se a condenação for em pena maior.\n\n3 - A suspensão da pena criminal não obriga à suspensão da interdição de entrada no matadouro.\n\n4 - Quando, transitada em julgado a decisão judicial condenatória, se aplicar a correspondente interdição, será descontada nesta a interdição já sofrida nos termos do n.º 1.\n\n5 - Nenhuma interdição de entrada no matadouro pode ser aplicada sem prévia audiência, considerando-se esta efectuada quando notificado para dizer o que se lhe oferecer, por escrito, no prazo de dez dias, o interessado não responder, ainda que os papéis da notificação hajam sido devolvidos."
+  },
+  "172335693": {
+   "fragment_id": "172335601",
+   "type": 11,
+   "heading": "Artigo 97.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 97.º\n\nNo prazo de quinze dias, a contar da notificação da interdição, é admissível recurso, que terá sempre efeito suspensivo, para o conselho de direcção da JNPP."
+  },
+  "172335694": {
+   "fragment_id": "172335602",
+   "type": 13,
+   "heading": "Título IV — Cobrança de valores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título IV — Cobrança de valores"
+  },
+  "172335695": {
+   "fragment_id": "172335603",
+   "type": 11,
+   "heading": "Artigo 98.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 98.º\n\nO conselho de direcção da JNPP emitirá como normas de tesouraria as regras que salvaguardem os interesses do organismo e sejam compatíveis, na prática, com a cobrança de valores que normalmente se processam, quer respeitantes a fornecimentos, quer à cobrança de taxas.\n\nSecretaria de Estado do Comércio e Indústrias Agrícolas, 26 de Fevereiro de 1980. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Francisco Manuel Durão Lino."
+  },
+  "172335698": {
+   "fragment_id": "172335137",
+   "type": 11,
+   "heading": "Artigo 44.º",
+   "in_force_from": "1983-07-20",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 764/83 - Diário da República n.º 161/1983, Série I de 1983-07-15](https://diariodarepublica.pt/dr/detalhe/portaria/764-1983-453780), em vigor a partir de 1983-07-20"
+   ],
+   "markdown": "###### Artigo 44.º\n\n- 1 - Dos mapas dos resultados da inspecção sanitária e da classificação de carcaças deve constar a indicação da hora exacta da respectiva afixação.\n\n2 - Nas duas horas seguintes à afixação dos resultados da inspecção sanitária e da classificação das carcaças, podem os apresentantes dos respectivos animais requerer ao director da comissão de gestão ou ao director técnico-administrativo do matadouro a reinspecção, bem como a reclassificação, procedendo simultaneamente ao correspondente depósito.\n\n3 - As entidades requeridas providenciarão imediatamente como for necessário.\n\n4 - O requerimento deve ser entregue e o depósito efectuado na secretaria em que se realizam os registos nos termos dos n.os 2 e 3 do artigo 3.º, devendo a secretaria passar ao requerente um documento comprovativo do depósito e da hora exacta da entrega do requerimento e dar conhecimento à entidade requerida, ainda que por via telefónica, no mais curto espaço de tempo possível, sem exceder o prazo de meia hora.\n\n5 - Enquanto não vigorar diploma legal que disponha diferentemente, os depósitos dos recursos de reclassificação serão iguais aos depósitos dos recursos de reinspecção sanitária fixados na Portaria n.º 84/75, de 14 de Fevereiro.\n\n> Revogado pelo/a [Portaria n.º 764/83 - Diário da República n.º 161/1983, Série I de 1983-07-15](https://diariodarepublica.pt/dr/detalhe/portaria/764-1983-453780), em vigor a partir de 1983-07-20"
+  },
+  "172335699": {
+   "fragment_id": "172335138",
+   "type": 11,
+   "heading": "Artigo 45.º",
+   "in_force_from": "1983-07-20",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 764/83 - Diário da República n.º 161/1983, Série I de 1983-07-15](https://diariodarepublica.pt/dr/detalhe/portaria/764-1983-453780), em vigor a partir de 1983-07-20"
+   ],
+   "markdown": "###### Artigo 45.º\n\n- 1 - As juntas de recurso serão presididas pelo director da comissão de gestão ou pelo director técnico-administrativo do matadouro.\n\n2 - Os presidentes da junta de recurso nomearão secretário de entre o pessoal da secretaria do matadouro ou, na falta deste, requisitá-lo-ão aos subdelegados ou delegados da respectiva área e promoverão que a junta de recurso se reúna dentro de vinte e quatro horas, mas não tomarão parte na elaboração da resolução acerca da matéria do recurso.\n\n> Revogado pelo/a [Portaria n.º 764/83 - Diário da República n.º 161/1983, Série I de 1983-07-15](https://diariodarepublica.pt/dr/detalhe/portaria/764-1983-453780), em vigor a partir de 1983-07-20"
+  },
+  "172335700": {
+   "fragment_id": "172335139",
+   "type": 11,
+   "heading": "Artigo 46.º",
+   "in_force_from": "1983-07-20",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 764/83 - Diário da República n.º 161/1983, Série I de 1983-07-15](https://diariodarepublica.pt/dr/detalhe/portaria/764-1983-453780), em vigor a partir de 1983-07-20"
+   ],
+   "markdown": "###### Artigo 46.º\n\n- 1 - Enquanto não vigorar nova disposição legal referente à constituição das juntas de recurso de inspecção sanitária, aplicar-se-á a legislação em vigor, com as adaptações que se mostrarem necessárias.\n\n2 - As juntas de recurso de reclassificação serão constituídas por três médicos veterinários, sendo um apresentado pelo recorrente e dois nomeados pelo director da comissão de gestão ou director técnico-administrativo do matadouro de entre os classificadores de carcaças do matadouro.\n\n3 - Se o recorrente não apresentar médico veterinário, o director da comissão de gestão ou o director técnico-administrativo procederá nos termos do número seguinte.\n\n4 - Na falta de médicos veterinários classificadores de carcaças do matadouro em número suficiente, serão requisitados pelo director da comissão de gestão ou director técnico-administrativo à delegação da JNPP em cuja área funcione o matadouro, a qual, se necessário, poderá, por sua vez, requisitá-los ao serviço de comércio de carnes ou a outra delegação da JNPP.\n\n5 - O classificador de cuja decisão for interposto recurso não pode fazer parte da junta de recurso, salvo como presidente da mesma, mas pode estar presente para prestar esclarecimentos, por sua iniciativa ou por solicitação da junta de recurso, e para, querendo, sustentar a sua decisão.\n\n> Revogado pelo/a [Portaria n.º 764/83 - Diário da República n.º 161/1983, Série I de 1983-07-15](https://diariodarepublica.pt/dr/detalhe/portaria/764-1983-453780), em vigor a partir de 1983-07-20"
+  },
+  "172335701": {
+   "fragment_id": "172335140",
+   "type": 11,
+   "heading": "Artigo 47.º",
+   "in_force_from": "1983-07-20",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 764/83 - Diário da República n.º 161/1983, Série I de 1983-07-15](https://diariodarepublica.pt/dr/detalhe/portaria/764-1983-453780), em vigor a partir de 1983-07-20"
+   ],
+   "markdown": "###### Artigo 47.º\n\nDas resoluções das juntas de recurso elaborar-se-ão actas e não haverá lugar a novo recurso.\n\n> Revogado pelo/a [Portaria n.º 764/83 - Diário da República n.º 161/1983, Série I de 1983-07-15](https://diariodarepublica.pt/dr/detalhe/portaria/764-1983-453780), em vigor a partir de 1983-07-20"
+  },
+  "172335702": {
+   "fragment_id": "172335141",
+   "type": 11,
+   "heading": "Artigo 48.º",
+   "in_force_from": "1983-07-20",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 764/83 - Diário da República n.º 161/1983, Série I de 1983-07-15](https://diariodarepublica.pt/dr/detalhe/portaria/764-1983-453780), em vigor a partir de 1983-07-20"
+   ],
+   "markdown": "###### Artigo 48.º\n\nConfirmada a decisão recorrida, o recorrente responde pelas despesas do recurso, nomeadamente pelos honorários do médico veterinário que apresentou, e pelos transportes, ajudas de custo e horas extraordinárias do presidente de junta de recurso, do secretário, do classificador de cuja decisão recorreu e dos vogais da junta, e perde o depósito a favor da JNPP.\n\n> Revogado pelo/a [Portaria n.º 764/83 - Diário da República n.º 161/1983, Série I de 1983-07-15](https://diariodarepublica.pt/dr/detalhe/portaria/764-1983-453780), em vigor a partir de 1983-07-20"
+  },
+  "172335703": {
+   "fragment_id": "172335142",
+   "type": 11,
+   "heading": "Artigo 49.º",
+   "in_force_from": "1983-07-20",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 764/83 - Diário da República n.º 161/1983, Série I de 1983-07-15](https://diariodarepublica.pt/dr/detalhe/portaria/764-1983-453780), em vigor a partir de 1983-07-20"
+   ],
+   "markdown": "###### Artigo 49.º\n\nSe a resolução da junta de recurso for favorável ao recorrente, não responderá este pelas despesas referidas no artigo 48.º, excepto pelos honorários e transportes do médico veterinário que apresentou.\n\n> Revogado pelo/a [Portaria n.º 764/83 - Diário da República n.º 161/1983, Série I de 1983-07-15](https://diariodarepublica.pt/dr/detalhe/portaria/764-1983-453780), em vigor a partir de 1983-07-20"
+  }
+ }
+}

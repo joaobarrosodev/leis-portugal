@@ -1,0 +1,1192 @@
+---
+schema_version: '1.0'
+id: pt:dre:156002:por
+title: Decreto-Lei n.º 168/97
+short_title: null
+summary: Aprova o regime jurídico da instalação e do funcionamento dos estabelecimentos de restauração e de bebidas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia
+proposing_entity: null
+official_number: 168/97
+official_date: null
+publication_date: '1997-07-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 152/1997, Série I-A de 1997-07-04
+  number: '152'
+  series: I
+  supplement: null
+  pages: 3280 - 3290
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/07/152a00/32803290.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2007-07-19'
+version_history:
+  file: decreto-lei-168-97.versoes.json
+  count: 6
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1997-07-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-04-25'
+    amending: pt:dre:531827:por
+    amending_title: Decreto-Lei n.º 139/99
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 8.º
+    - Altera Artigo 12.º
+    - Altera Artigo 16.º
+    - Altera Artigo 21.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 41.º
+    - Altera Artigo 42.º
+    - Altera Artigo 43.º
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+    - Altera Artigo 49.º
+    - Entrada Vigor Diploma
+  - date: '2000-09-14'
+    amending: pt:dre:577710:por
+    amending_title: Decreto-Lei n.º 222/2000
+    changes:
+    - Altera Artigo 38.º
+    - Altera Artigo 46.º
+    - Entrada Vigor Diploma
+  - date: '2002-02-01'
+    amending: pt:dre:239225:por
+    amending_title: Decreto-Lei n.º 9/2002
+    changes:
+    - Adita Artigo 2.º-A
+    - Entrada Vigor Diploma
+  - date: '2002-03-12'
+    amending: pt:dre:250611:por
+    amending_title: Decreto-Lei n.º 57/2002
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Secção III
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Secção IV
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 23.º
+    - Altera Artigo 26.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 41.º
+    - Altera Artigo 44.º
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+    - Altera Artigo 48.º
+    - Altera Artigo 49.º
+    - Altera Artigo 50.º
+  - date: '2007-07-19'
+    amending: pt:dre:639279:por
+    amending_title: Decreto-Lei n.º 234/2007
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/168/1997/p/cons/20070619/pt/html
+  oj: null
+  dre: '156002'
+  dre_path: /dr/detalhe/decreto-lei/168-1997-156002
+  internal: pt:dre:156002:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1997-156002
+  metadata_url: https://data.dre.pt/eli/dec-lei/168/1997/p/cons/20070619/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-34433575
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-34433575
+  retrieved_at: '2026-10-22T11:41:16Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: e6d35291a01537c3b56d0c37d3daf97b6be54e3857f1a0199dfd314ca61c3b70
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:41:16Z'
+  notes: 6 versão(ões); histórico completo em decreto-lei-168-97.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Central
+- Alvará
+- Livro de Reclamações
+- Bebida Alcoólica
+- Espetáculos e Divertimentos Públicos
+- Modernização Administrativa
+- Turismo
+- Multa
+- Construção Civil
+- Direção Geral da Saúde
+- Concurso Público
+- Contra-ordenação
+- Definição de Competências
+- Delegação de Competências
+- Descentralização
+- Direcção Geral de Energia
+- Direcção Geral do Turismo
+- Embargo
+- Região de Turismo
+- Saúde Pública
+- Estabelecimento de Bebidas
+- Estabelecimento de Restauração
+- Fiscalização
+- Governador Civil
+- Licenciamento
+- Licenciamento de Obras
+- Licença Municipal
+- Licença Sanitária
+- Parecer
+- Prazo
+- Prestação de Serviços
+- Proteção do Consumidor
+- Qualidade do Produto
+- Refeição
+- Câmara Municipal
+- Regime Jurídico
+- Serviço Nacional de Bombeiros
+- Taxa
+- Transferência de Competências
+- Autarquia Local
+- Vistoria
+relationships:
+- type: amended_by
+  target: pt:dre:531827:por
+  label: Altera Artigo 1.º; Altera Artigo 8.º; Altera Artigo 12.º; Altera Artigo 16.º; Altera Artigo 21.º; Altera Artigo 31.º;
+    Altera Artigo 32.º; Altera Artigo 35.º; Altera Artigo 36.º; Altera Artigo 38.º; Altera Artigo 39.º; Altera Artigo 41.º;
+    Altera Artigo 42.º; Altera Artigo 43.º; Altera Artigo 44.º; Altera Artigo 45.º; Altera Artigo 46.º; Altera Artigo 49.º;
+    Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1999-531827
+  date: '1999-04-24'
+- type: amended_by
+  target: pt:dre:577710:por
+  label: Altera Artigo 38.º; Altera Artigo 46.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2000-577710
+  date: '2000-09-09'
+- type: amended_by
+  target: pt:dre:239225:por
+  label: Adita Artigo 2.º-A; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2002-239225
+  date: '2002-01-24'
+- type: amended_by
+  target: pt:dre:250611:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Secção III; Altera Artigo 6.º;
+    Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Secção IV; Altera Artigo 10.º; Altera Artigo 11.º; Altera
+    Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera
+    Artigo 18.º; Altera Artigo 23.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611
+  date: '2002-03-11'
+- type: amended_by
+  target: pt:dre:639279:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279
+  date: '2007-06-19'
+- type: cites
+  target: pt:dre:156001:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/167/1997/07/04/p/dre
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/25/1993/08/17/p/dre
+- type: cites
+  target: pt:dre:633726:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/327/1995/12/05/p/dre
+- type: cites
+  target: pt:dre:651701:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/336/1993/09/29/p/dre
+article_structure:
+  article_count: 58
+  section_count: 10
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:41:16Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 168/97
+
+A recusa de ratificação do Decreto-Lei n.º 327/95, de 5 de Dezembro, veio repor em vigor o Decreto-Lei n.º 328/86, de 30 de Setembro.
+
+Tendo-se consciência de que a revisão deste último diploma corresponde a uma necessidade sentida unanimemente por todos os intervenientes na actividade por ele regulada, procurou-se, em colaboração com a Federação dos Restaurantes, Cafés e Similares e demais associações patronais e sindicais do sector, definir um regime que, por um lado, tenha presente as especificidades das actividades abrangidas, e, por outro, defina regras que permitam a defesa do consumidor e da qualidade da oferta.
+
+Reconhecendo-se que as actividades de restauração e de bebidas tiveram no último decénio uma evolução muito profunda, desenvolvendo actualmente inúmeras formas de prestação de serviços que as separam de forma clara das actividades com carácter turístico, optou-se por definir o regime do licenciamento e funcionamento dos respectivos estabelecimentos num diploma autónomo.
+
+De acordo com esta orientação, o presente diploma regula essencialmente a instalação e o funcionamento dos estabelecimentos destinados a prestar serviços de restauração e de bebidas.
+
+Com o objectivo de simplificar as relações entre os interessados e as câmaras municipais responsáveis pelo licenciamento dos estabelecimentos, prevê-se que exista apenas uma licença para a abertura dos mesmos, emitida pela câmara municipal competente, a qual substitui todas as actualmente exigidas.
+
+Assim, extingue-se a licença policial dos governos civis, cuja intervenção, nos casos considerados justificados, passa a processar-se ao nível da apreciação do pedido de licenciamento, tornando mais simples a relação entre os interessados e a Administração.
+
+O processo de licenciamento, que continua a ser da competência das câmaras municipais, passa a ser organizado de acordo com o estabelecido no Decreto-Lei n.º 445/91, de 20 de Novembro, que regula o licenciamento das obras particulares, designadamente no que respeita aos prazos fixados para as decisões camarárias que se mantiveram inalterados.
+
+Na mesma perspectiva de simplificação, estabelece-se um regime inovador no que respeita à abertura dos empreendimentos, permitindo-se aos interessados que o façam sem estarem prisioneiros das peias burocráticas, caso não sejam cumpridos os prazos fixados para a actuação da Administração.
+
+Tendo em vista adequar o quadro legal à realidade, os estabelecimentos de restauração e de bebidas deixam de estar normalmente sujeitos a classificação, visto estar demonstrado que esse condicionalismo era desprovido, na prática, de relevância e criava equívocos no consumidor.
+
+Procurou-se, porém, salvaguardar as condições mínimas de funcionamento dos estabelecimentos, fazendo-se intervir em simultâneo no acto preparatório da emissão da «licença de utilização para serviços de restauração ou de bebidas» as autoridades de saúde, o Serviço Nacional de Bombeiros e a respectiva Federação, atribuindo-se aos presidentes das câmaras competência para os convocar.
+
+De acordo com o princípio de que a manutenção da qualidade e características dos estabelecimentos não interessa apenas às entidades oficiais, instituiu-se um processo de colaboração activa entre as diversas entidades interessadas no sector, fazendo-as intervir nas fases ligadas ao funcionamento dos estabelecimentos.
+
+Nesta medida, faz-se intervir também na classificação dos estabelecimentos representantes dos órgãos regionais e locais de turismo e da respectiva Federação.
+
+Para salvaguarda dos interesses dos particulares, criou-se um processo inovador, permitindo uma apreciação técnica das decisões tomadas nestas matérias com as quais os interessados não concordem.
+
+Por outro lado, prevêem-se formas de participação das entidades locais na preservação da qualidade da oferta turística portuguesa, podendo a Direcção-Geral do Turismo delegar nos órgãos regionais e locais de turismo algumas das suas competências. Pode assim dizer-se que se está perante um primeiro passo para uma futura descentralização da intervenção da administração central, se a prática vier a confirmar as virtualidades que o princípio contém.
+
+De acordo com a orientação definida pelo presente diploma, os requisitos mínimos exigidos correspondem àqueles elementos que se consideram básicos para o exercício das actividades.
+
+Foram ouvidos a Associação Nacional de Municípios, os órgãos de governo próprio das Regiões Autónomas, as associações patronais e os sindicatos do sector e o Instituto do Consumidor e as associações do consumidor.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Âmbito
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+###### Artigo 1.º — Estabelecimentos de restauração ou de bebidas
+
+1 - São estabelecimentos de restauração, qualquer que seja a sua denominação, os estabelecimentos destinados a prestar, mediante remuneração, serviços de alimentação e de bebidas no próprio estabelecimento ou fora dele.
+
+2 - São estabelecimentos de bebidas, qualquer que seja a sua denominação, os estabelecimentos destinados a prestar, mediante remuneração, serviços de bebidas e cafetaria no próprio estabelecimento ou fora dele.
+
+3 - Os estabelecimentos referidos nos números anteriores podem dispor de salas ou espaços destinados a dança.
+
+4 - Os estabelecimentos referidos nos n.os 1 e 2 podem dispor de instalações destinadas ao fabrico próprio de pastelaria, panificação e gelados, enquadrados na classe D do Decreto Regulamentar n.º 25/93, de 17 de Agosto, ficando assim sujeitos, não ao regime do licenciamento do exercício da actividade industrial previsto naquele diploma, mas ao regime da instalação previsto no presente diploma.
+
+5 - Os requisitos das instalações, classificação e funcionamento de cada um dos tipos de estabelecimentos referidos nos números anteriores são definidos em regulamento próprio.
+
+6 - Para efeito do disposto no presente diploma, não se consideram estabelecimentos de restauração ou de bebidas as cantinas, os refeitórios e os bares de entidades públicas, de empresas e de estabelecimentos de ensino, destinados a fornecer serviços de alimentação e de bebidas exclusivamente ao respectivo pessoal e alunos, devendo este condicionamento ser devidamente publicitado.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 139/99 - Diário da República n.º 96/1999, Série I-A de 1999-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1999-531827), em vigor a partir de 1999-04-25
+
+### Capítulo II — Instalação
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+#### Secção I — Regime aplicável
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+###### Artigo 2.º — Instalação
+
+Para efeitos do presente diploma, considera-se instalação de estabelecimentos de restauração ou de bebidas o processo de licenciamento ou de autorização para a realização de operações urbanísticas relativas à construção e ou utilização de edifícios ou suas fracções destinados ao funcionamento daqueles estabelecimentos.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+###### Artigo 2.º-A — Proibição de instalação
+
+1 - É proibida a instalação de estabelecimentos de bebidas onde se vendam bebidas alcoólicas para consumo no próprio estabelecimento ou fora dele junto de estabelecimentos escolares dos ensinos básico e secundário.
+
+2 - As áreas relativas à proibição referida no número anterior são delimitadas, caso a caso, pelos municípios, em colaboração com a direcção regional de educação.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Aditado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 9/2002 - Diário da República n.º 20/2002, Série I-A de 2002-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2002-239225), em vigor a partir de 2002-02-01
+
+###### Artigo 3.º — Regime aplicável
+
+1 - Os processos respeitantes à instalação de estabelecimentos de restauração ou de bebidas são organizados pelas câmaras municipais e regulam-se pelo regime jurídico da urbanização e da edificação, com as especificidades estabelecidas nos artigos seguintes.
+
+2 - Nos pedidos de informação prévia, de licenciamento ou de autorização relativos à instalação dos estabelecimentos de restauração ou de bebidas, o interessado deve indicar no pedido o tipo de estabelecimento pretendido.
+
+3 - Para os efeitos do disposto nos n.os 2 e 3 do artigo 19.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, os pareceres do Serviço Nacional de Bombeiros, do governador civil, da entidade competente no âmbito das instalações eléctricas e das autoridades de saúde emitidos ao abrigo do disposto nos artigos 4.º e 6.º a 9.º são obrigatoriamente comunicados por aquelas entidades à câmara municipal competente.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+#### Secção II — Pedido de informação prévia
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+###### Artigo 4.º — Consulta ao governador civil
+
+1 - No caso de todos os estabelecimentos de bebidas e dos estabelecimentos de restauração que disponham de salas ou espaços destinados a dança, a câmara municipal, no âmbito da apreciação do pedido de informação prévia, deve consultar o governador civil do distrito em que o estabelecimento se localiza a fim de este se pronunciar, quanto à sua localização e aos aspectos de segurança e de ordem pública que o funcionamento do estabelecimento possa implicar, remetendo-lhe para o efeito os elementos necessários, nomeadamente a identificação da entidade requerente e a localização do estabelecimento.
+
+2 - À consulta prevista no número anterior aplica-se o disposto no artigo 19.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, com excepção do prazo previsto no n.º 8 daquele artigo, que é alargado para 30 dias.
+
+3 - O parecer emitido pelo governador civil no âmbito do pedido de informação prévia é vinculativo para um eventual pedido de licenciamento ou de autorização de obras de edificação do estabelecimento de restauração ou de bebidas, desde que este seja apresentado no prazo de um ano relativamente à data da comunicação ao requerente, pela câmara municipal, da decisão que haja recaído sobre aquele pedido.
+
+4 - A não emissão de parecer dentro do prazo fixado no n.º 2 entende-se como parecer favorável.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+###### Artigo 5.º — Prazo para a deliberação
+
+No caso previsto no artigo anterior, o prazo para a deliberação da câmara municipal sobre o pedido de informação prévia conta-se a partir da data da recepção do parecer ou do termo do prazo estabelecido para a sua emissão.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+#### Secção III — Licenciamento ou autorização de operações urbanísticas
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+###### Artigo 6.º — Parecer do Serviço Nacional de Bombeiros
+
+1 - O deferimento pela câmara municipal do pedido do licenciamento ou de autorização para a realização de obras de edificação referentes a estabelecimentos de restauração ou de bebidas carece de parecer do Serviço Nacional de Bombeiros.
+
+2 - À consulta e à emissão de parecer do Serviço Nacional de Bombeiros no âmbito do processo de licenciamento ou de autorização aplica-se o disposto no artigo 19.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, com excepção do prazo previsto no n.º 8 daquele artigo, que é alargado para 30 dias.
+
+3 - O parecer do Serviço Nacional de Bombeiros destina-se a verificar o cumprimento das regras de segurança contra riscos de incêndio constantes de regulamento aprovado por portaria conjunta dos membros do Governo responsáveis pelas áreas da administração interna e do turismo.
+
+4 - Quando desfavorável, o parecer do Serviço Nacional de Bombeiros é vinculativo.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+###### Artigo 7.º — Parecer do governador civil
+
+1 - No caso de todos os estabelecimentos de bebidas e dos estabelecimentos de restauração que disponham de salas ou espaços destinados a dança, o deferimento pela câmara municipal do pedido do licenciamento ou de autorização para a realização de obras de edificação referentes a estabelecimentos de restauração ou de bebidas carece de parecer favorável a emitir pelo governador civil do distrito em que o estabelecimento se localiza, salvo se já tiver sido emitido parecer favorável nos termos do artigo 4.º e ainda não tiver decorrido o prazo previsto no n.º 3 do mesmo artigo, no que diz respeito à sua localização, sobre os aspectos de segurança e de ordem públicas que o funcionamento do estabelecimento possa implicar.
+
+2 - À consulta prevista no número anterior aplica-se o disposto no artigo 19.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, com excepção do prazo previsto no n.º 8 daquele artigo, que é alargado para 30 dias.
+
+3 - O parecer do governador civil, a emitir no prazo de 30 dias a contar da solicitação referida no número anterior, incide exclusivamente sobre os aspectos de segurança e ordem públicas que o funcionamento do estabelecimento possa implicar.
+
+4 - A não recepção do parecer dentro do prazo fixado no número anterior entende-se como parecer favorável.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+###### Artigo 8.º — Parecer da entidade competente no âmbito das instalações eléctricas
+
+1 - No caso dos estabelecimentos previstos no n.º 4 do artigo 1.º, a emissão do alvará de licença ou de autorização para a realização de obras de edificação carece de parecer favorável a emitir pela associação inspectora de instalações eléctricas, para as de serviço particular de 5.ª categoria, nos termos do disposto no Decreto-Lei n.º 272/92, de 3 de Dezembro, ou pelas delegações regionais do Ministério da Economia para todas as outras instalações.
+
+2 - À consulta e à emissão do parecer da entidade competente aplica-se o disposto no artigo 19.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, com excepção do prazo previsto no n.º 8 daquele artigo, que é alargado para 30 dias.
+
+3 - O parecer da entidade competente destina-se a verificar o cumprimento das regras relativas à instalação eléctrica dos estabelecimentos, constantes do Decreto-Lei n.º 517/80, de 31 de Outubro, com as alterações introduzidas pelo Decreto-Lei n.º 272/92, de 3 de Dezembro.
+
+4 - Para os efeitos do disposto no número anterior, o requerente deverá apresentar, juntamente com o projecto de arquitectura, o projecto de instalação eléctrica, excepto se for de 5.ª categoria de potência inferior a 50 kVA, nos termos do disposto no Decreto-Lei n.º 272/92, de 3 de Dezembro.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 139/99 - Diário da República n.º 96/1999, Série I-A de 1999-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1999-531827), em vigor a partir de 1999-04-25
+
+###### Artigo 9.º — Parecer das autoridades de saúde
+
+1 - O deferimento pela câmara municipal do pedido de licenciamento para a realização de obras de edificação em estabelecimentos de restauração ou de bebidas carece de parecer das autoridades de saúde a emitir pelo delegado concelhio de saúde ou adjunto do delegado concelhio de saúde.
+
+2 - À emissão de parecer das autoridades de saúde aplica-se o disposto no artigo 19.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, com excepção do prazo previsto no n.º 8 daquele artigo, que é alargado para 30 dias.
+
+3 - O parecer das autoridades de saúde destina-se a verificar o cumprimento das normas de higiene e saúde públicas previstas no Decreto-Lei n.º 336/93, de 29 de Setembro.
+
+4 - Quando desfavorável, o parecer das autoridades de saúde é vinculativo.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+#### Secção IV — Licenciamento ou autorização da utilização
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+###### Artigo 10.º — Autorização do Serviço Nacional de Bombeiros
+
+1 - Carecem de autorização do Serviço Nacional de Bombeiros as obras previstas nas alíneas a) e b) do n.º 1 do artigo 6.º do Decreto-Lei n.º 555/99, de 16 de Dezembro.
+
+2 - Para efeito do disposto no número anterior, o interessado deve dirigir ao Serviço Nacional de Bombeiros um requerimento instruído nos termos da portaria referida no n.º 3 do artigo 6.º
+
+3 - A autorização a que se refere o n.º 1 deve ser emitida no prazo de 15 dias a contar da data da recepção da documentação, sob pena de o requerimento se entender tacitamente deferido.
+
+4 - O Serviço Nacional de Bombeiros deve dar conhecimento à câmara municipal das obras que autorize nos termos do n.º 1.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+###### Artigo 11.º — Licença ou autorização de utilização para serviços de restauração ou de bebidas
+
+1 - Concluída a obra e equipado o estabelecimento em condições de iniciar o seu funcionamento, o interessado requer a concessão da licença ou da autorização de utilização para serviços de restauração ou de bebidas dos edifícios novos, reconstruídos, reparados, ampliados ou alterados, ou das fracções autónomas cujas obras tenham sido licenciadas ou autorizadas nos termos do presente diploma.
+
+2 - A licença ou a autorização de utilização para serviços de restauração ou de bebidas destina-se a comprovar, para além do disposto no artigo 62.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, a observância das normas relativas às condições sanitárias e à segurança contra riscos de incêndio.
+
+3 - A licença ou a autorização de utilização para serviços de restauração ou de bebidas é sempre precedida da vistoria a que se refere o artigo seguinte, a qual substitui a vistoria prevista no artigo 64.º do Decreto-Lei n.º 555/99, de 16 de Dezembro.
+
+4 - O prazo para deliberação sobre a concessão da licença ou autorização de utilização é o constante da alínea b) do n.º 1 do artigo 30.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, no caso de se tratar de procedimento de autorização, e o previsto na alínea d) do n.º 1 do artigo 23.º do mesmo diploma, no caso de se tratar de procedimento de licenciamento, a contar em ambos os casos a partir da data da realização da vistoria ou do termo do prazo para a sua realização.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+###### Artigo 12.º — Vistoria
+
+1 - A vistoria deve realizar-se no prazo de 30 dias a contar da data da apresentação do requerimento referido no n.º 1 do artigo anterior e, sempre que possível, em data a acordar com o interessado.
+
+2 - A vistoria é efectuada por uma comissão composta por:
+
+a) Três técnicos a designar pela câmara municipal, dos quais, pelo menos, dois devem ter formação e habilitação legal para assinar projectos correspondentes à obra objecto de vistoria;
+
+b) O delegado concelhio de saúde ou o adjunto do delegado concelhio de saúde;
+
+c) Um representante do Serviço Nacional de Bombeiros;
+
+d) Um representante da associação inspectora de instalações eléctricas, quando se tratar dos estabelecimentos previstos no n.º 4 do artigo 1.º, se os mesmos dispuserem de instalações de serviço particular de 5.ª categoria, nos termos previstos no Decreto-Lei n.º 517/80, de 31 de Outubro, na redacção que lhe foi dada pelo Decreto-Lei n.º 272/92, de 3 de Dezembro, ou um representante das delegações regionais do Ministério da Economia, se os mesmos estabelecimentos dispuserem de quaisquer outros tipos de instalações;
+
+e) Um representante da FERECA - Federação da Restauração, Cafés, Pastelarias e Similares de Portugal;
+
+f) Um representante de outra associação patronal do sector, no caso de o requerente o indicar no pedido de vistoria.
+
+3 - O requerente da licença ou da autorização de utilização, os autores dos projectos e o técnico responsável pela direcção técnica da obra participam na vistoria sem direito a voto.
+
+4 - Compete ao presidente da câmara municipal a convocação das entidades referidas nas alíneas b) a f) do n.º 2 e as pessoas referidas no número anterior com a antecedência mínima de oito dias.
+
+5 - A ausência das entidades referidas nas alíneas b) a f) do n.º 2 e das pessoas referidas no n.º 3, desde que regularmente convocadas, não é impeditiva nem constitui justificação da não realização da vistoria, nem da concessão da licença ou da autorização de utilização.
+
+6 - A comissão referida no n.º 2 depois de proceder à vistoria elabora o respectivo auto, devendo entregar uma cópia ao requerente.
+
+7 - Quando o auto de vistoria conclua em sentido desfavorável ou quando seja desfavorável o voto, fundamentado, de um dos elementos referidos nas alíneas b), c) e d) do n.º 2, não pode ser concedida a licença ou a autorização de utilização.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 139/99 - Diário da República n.º 96/1999, Série I-A de 1999-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1999-531827), em vigor a partir de 1999-04-25
+
+###### Artigo 13.º — Alvará de licença ou de autorização de utilização para serviços de restauração ou de bebidas
+
+1 - Concedida a licença ou a autorização de utilização para serviços de restauração ou de bebidas, o titular requer ao presidente da câmara municipal a emissão do alvará que a titula, o qual deve ser emitido no prazo de 30 dias a contar da data da recepção do respectivo requerimento.
+
+2 - A emissão do alvará deve ser notificada ao requerente, por correio registado, no prazo de oito dias a contar da data da sua decisão.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+###### Artigo 14.º — Funcionamento dos estabelecimentos de restauração ou de bebidas
+
+1 - O funcionamento dos estabelecimentos de restauração ou de bebidas depende apenas da titularidade do alvará de licença ou de autorização de utilização para serviços de restauração ou de bebidas, emitido nos termos do disposto no artigo anterior, o qual constitui, relativamente a estes estabelecimentos, o alvará de licença ou autorização de utilização previsto nos artigos 62.º e 74.º do Decreto-Lei n.º 555/99, de 16 de Dezembro.
+
+2 - Sem prejuízo do disposto no número seguinte, a existência de alvará de licença ou de autorização de utilização para serviços de restauração ou de bebidas concedido ao abrigo do presente diploma ou a existência da autorização de abertura, no caso dos estabelecimentos de restauração ou de bebidas existentes à data da entrada em vigor do presente diploma, concedida pela Direcção-Geral do Turismo ou pelas câmaras municipais, nos termos do artigo 36.º do Decreto-Lei n.º 328/86, de 30 de Setembro, ou de legislação anterior, ou ainda a abertura dos estabelecimentos com base num deferimento tácito do pedido de emissão do alvará de licença ou de autorização para serviços de restauração ou de bebidas deve ser obrigatoriamente mencionado nos contratos de transmissão, ou nos contratos-promessa de transmissão, sob qualquer forma jurídica, relativos a estabelecimentos ou a imóveis ou suas fracções onde estejam instalados estabelecimentos de restauração ou de bebidas, que venham a ser celebrados em data posterior à entrada em vigor do presente diploma, sob pena de nulidade dos mesmos.
+
+3 - Aos contratos de arrendamento relativos a imóveis, ou suas fracções, onde se pretendam instalar estabelecimentos de restauração ou de bebidas aplica-se, com as necessárias adaptações, o disposto no artigo 9.º do Regime do Arrendamento Urbano, aprovado pelo Decreto-Lei n.º 321-B/90, de 15 de Outubro.
+
+4 - A falta da menção referida no n.º 2 no título de transmissão constitui fundamento de recusa do registo da mesma.
+
+5 - A transmissão ou promessa de transmissão, sob qualquer forma, de direitos relativos a estabelecimentos ou a imóveis ou suas fracções, onde estejam instalados estabelecimentos de restauração ou de bebidas, deve ser comunicada à câmara municipal competente, nos termos e para os efeitos previstos no n.º 3 do artigo seguinte.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+###### Artigo 15.º — Especificações do alvará
+
+1 - O alvará de licença ou de autorização de utilização para serviços de restauração ou de bebidas deve especificar, para além dos elementos referidos no n.º 5 do artigo 77.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, a identificação da entidade exploradora, o nome, o tipo e a capacidade máxima do estabelecimento.
+
+2 - Os tipos a que se refere o número anterior são os seguintes:
+
+a) Estabelecimento de restauração;
+
+b) Estabelecimento de restauração com sala ou espaços destinados a dança;
+
+c) Estabelecimento de restauração com fabrico próprio de pastelaria, panificação e gelados enquadrados na classe D do Decreto Regulamentar n.º 25/93, de 17 de Agosto;
+
+d) Estabelecimento de bebidas;
+
+e) Estabelecimento de bebidas com sala ou espaços destinados a dança;
+
+f) Estabelecimento de bebidas com fabrico próprio de pastelaria, panificação e gelados enquadrados na classe D do Decreto Regulamentar n.º 25/93, de 17 de Agosto.
+
+3 - Sempre que haja alteração de qualquer dos elementos constantes do alvará, a entidade titular do alvará de licença ou de autorização de utilização ou a entidade exploradora do estabelecimento deve, para efeitos de averbamento, comunicar o facto à câmara municipal no prazo de 30 dias a contar da data do mesmo.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+###### Artigo 16.º — Modelo de alvará de licença ou autorização de utilização para serviços de restauração e de bebidas
+
+O modelo de alvará de licença ou de autorização de utilização para serviços de restauração ou de bebidas é aprovado por portaria conjunta dos membros do Governo responsáveis pelas áreas do ordenamento do território e do turismo.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 139/99 - Diário da República n.º 96/1999, Série I-A de 1999-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1999-531827), em vigor a partir de 1999-04-25
+
+###### Artigo 17.º — Alteração da utilização e concessão de licença ou autorização de utilização em edifícios sem anterior título de utilização
+
+1 - Se for requerida a alteração ao uso fixado em anterior licença ou autorização de utilização para permitir que o edifício, ou sua fracção, se destine à instalação dos estabelecimentos referidos no artigo 1.º, a câmara municipal deve consultar o Serviço Nacional de Bombeiros e as autoridades de saúde nos termos previstos nos artigos 6.º e 9.º
+
+2 - Quando as operações urbanísticas previstas no número anterior envolverem a realização das obras previstas na alínea b) do n.º 1 do artigo 6.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, os pareceres referidos no número anterior englobam a autorização prevista no artigo 10.º
+
+3 - O prazo para a realização da vistoria prevista no artigo 12.º conta-se a partir da recepção dos pareceres referidos no n.º 1 ou do termo do prazo para a emissão dos mesmos.
+
+4 - O prazo para deliberação sobre a concessão da licença ou autorização de utilização ou de alteração da utilização é o constante da alínea b) do n.º 1 do artigo 30.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, no caso de se tratar de procedimento de autorização, e o previsto na alínea d) do n.º 1 do artigo 23.º do mesmo diploma, no caso de se tratar de procedimento de licenciamento, a contar em ambos os casos a partir da data da realização da vistoria ou do termo do prazo para a sua realização.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+###### Artigo 18.º — Intimação judicial para a prática de acto legalmente devido
+
+1 - Decorridos os prazos para a prática de qualquer acto especialmente regulado no presente diploma sem que o mesmo se mostre praticado, aplica-se aos estabelecimentos de restauração ou de bebidas, com as necessárias adaptações, o disposto nos artigos 111.º, 112.º e 113.º do Decreto-Lei n.º 555/99, de 16 de Dezembro.
+
+2 - As associações patronais do sector do turismo que tenham personalidade jurídica podem intentar, em nome dos seus associados, os pedidos de intimação previstos no número anterior.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+###### Artigo 19.º — Caducidade da licença de utilização para serviços de restauração ou de bebidas
+
+1 - A licença de utilização para serviços de restauração ou de bebidas caduca nos seguintes casos:
+
+a) Se o estabelecimento não iniciar o seu funcionamento no prazo de um ano a contar da data da emissão do alvará da licença de utilização ou do termo do prazo para a sua emissão;
+
+b) Se o estabelecimento se mantiver encerrado por período superior a um ano, salvo por motivo de obras;
+
+c) Quando seja dada ao estabelecimento uma utilização diferente da prevista no respectivo alvará;
+
+d) Quando, por qualquer motivo, o estabelecimento não preencher os requisitos mínimos exigidos para qualquer dos tipos previstos no regulamento a que se refere o n.º 5 do artigo 1.º
+
+2 - Caducada a licença de utilização, o alvará é apreendido pela câmara municipal, na sequência de notificação ao respectivo titular, devendo ser encerrado o estabelecimento.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+#### Secção V — Classificação
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+###### Artigo 20.º — Requerimento
+
+1 - Os estabelecimentos de restauração e de bebidas podem ser classificados pela Direcção-Geral do Turismo, de acordo com o estabelecido no regulamento a que se refere o n.º 5 do artigo 1.º
+
+2 - Para efeitos do disposto no número anterior, o interessado deve dirigir à Direcção-Geral do Turismo um requerimento instruído nos termos de portaria do membro do Governo responsável pela área do turismo.
+
+3 - A classificação é sempre precedida de vistoria a efectuar pela Direcção-Geral do Turismo, nos termos do artigo seguinte.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+###### Artigo 21.º — Vistoria para efeitos de classificação
+
+1 - A vistoria a realizar pela Direcção-Geral do Turismo para a classificação do estabelecimento destina-se a verificar a observância das normas e dos requisitos relativos à classificação pretendida, estabelecidos no regulamento a que se refere o n.º 5 do artigo 1.º
+
+2 - A vistoria deve realizar-se no prazo de 45 dias a contar da data da apresentação do comprovativo do pagamento das taxas a que se refere o artigo 45.º e, sempre que possível, em data a acordar com o interessado.
+
+3 - A vistoria é efectuada por uma comissão composta por:
+
+a) Dois técnicos da Direcção-Geral do Turismo;
+
+b) Um representante do órgão regional ou local de turismo;
+
+c) Um representante da FERECA - Federação da Restauração, Cafés, Pastelarias e Similares de Portugal;
+
+d) Um representante de outra associação patronal do sector, no caso de o requerente o indicar no pedido de vistoria.
+
+4 - O requerente participa na vistoria, sem direito a voto.
+
+5 - Compete ao director-geral do Turismo convocar as entidades referidas nas alíneas b) a d) do n.º 3 e o requerente com a antecedência mínima de oito dias.
+
+6 - A ausência dos representantes referidos nas alíneas b) a d) do n.º 3 e do requerente, desde que regularmente convocados, não é impeditiva nem constitui justificação da não realização da vistoria.
+
+7 - Depois de proceder à vistoria, a comissão referida no número anterior elabora o respectivo auto, devendo entregar uma cópia ao requerente.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 139/99 - Diário da República n.º 96/1999, Série I-A de 1999-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1999-531827), em vigor a partir de 1999-04-25
+
+###### Artigo 22.º — Classificação
+
+No prazo de 15 dias a contar da realização da vistoria referida no artigo anterior, ou, não tendo havido vistoria, do termo do prazo para a sua realização, a Direcção-Geral do Turismo deve decidir sobre a classificação requerida.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+###### Artigo 23.º — Revisão da classificação e desclassificação
+
+1 - Um estabelecimento pode ser desclassificado pela Direcção-Geral do Turismo, a todo o tempo, oficiosamente, a solicitação do respectivo órgão regional ou local de turismo ou a requerimento dos interessados, nos seguintes casos:
+
+a) Verificada a alteração dos pressupostos que determinaram a classificação ao abrigo das normas e dos requisitos previstos no regulamento a que se refere o n.º 5 do artigo 1.º;
+
+b) Se o interessado, na sequência de vistoria efectuada ao estabelecimento, não realizar as obras ou não eliminar as deficiências para que foi notificado num prazo, não superior a 18 meses, que lhe tiver sido fixado pela Direcção-Geral do Turismo, sem prejuízo do disposto no n.º 3.º
+
+2 - Em casos excepcionais, devidamente fundamentados na complexidade e morosidade da execução dos trabalhos, o prazo previsto no número anterior pode ser prorrogado, por um período não superior a 12 meses, a requerimento do interessado.
+
+3 - Sempre que as obras necessitem de licença ou de autorização camarária, o prazo para a sua realização é o fixado pela câmara municipal no respectivo alvará de licença ou de autorização.
+
+4 - Se, na sequência de vistoria efectuada ao estabelecimento, se verificar que o mesmo não reúne os requisitos mínimos para poder funcionar como estabelecimento de restauração ou de bebidas, deve ser determinado o seu imediato encerramento temporário até que sejam realizadas as obras ou eliminadas as deficiências verificadas.
+
+5 - No caso previsto no número anterior, o presidente da câmara municipal, oficiosamente ou a solicitação da Direcção-Geral do Turismo, deve apreender o respectivo alvará de licença ou de autorização de utilização enquanto não for atribuída ao estabelecimento nova classificação.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+###### Artigo 24.º — Recurso hierárquico
+
+1 - Quando for indeferida pela Direcção-Geral do Turismo a classificação pretendida, o estabelecimento for desclassificado, o interessado não concorde com a necessidade de proceder a obras para manter a classificação ou com o prazo fixado para a realização destas, pode interpor recurso hierárquico para o membro do Governo responsável pela área do turismo.
+
+2 - Logo que interposto o recurso, o membro do Governo referido no número anterior pode determinar a intervenção de uma comissão, composta por:
+
+a) Um perito por ele nomeado, que presidirá;
+
+b) Dois representantes da Direcção-Geral do Turismo;
+
+c) Um representante do órgão regional ou local de turismo;
+
+d) Um representante da FERECA - Federação da Restauração, Cafés, Pastelarias e Similares de Portugal.
+
+3 - A comissão emite um parecer sobre o recurso interposto no prazo de 45 dias a contar da data do despacho da sua constituição.
+
+4 - Compete ao presidente da comissão convocar os restantes membros com uma antecedência mínima de oito dias, devendo para tal solicitar previamente às diversas entidades a indicação dos seus representantes.
+
+5 - A ausência dos representantes das entidades referidas nas alíneas b) a d) do n.º 2, desde que regularmente convocados, não é impeditiva nem constitui justificação do não funcionamento da comissão nem da emissão do parecer.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+###### Artigo 25.º — Dispensa de requisitos
+
+1 - Os requisitos exigidos para a atribuição da classificação pretendida ou para o funcionamento do estabelecimento podem ser dispensados, quando a sua estrita observância comprometer a rendibilidade do empreendimento e for susceptível de afectar as características arquitectónicas ou estruturais dos edifícios que:
+
+a) Sejam classificados a nível nacional, regional ou local; ou
+
+b) Possuam reconhecido valor histórico, arquitectónico, artístico ou cultural.
+
+2 - A verificação do disposto no número anterior é feita pela Direcção-Geral do Turismo ou pelo presidente da câmara municipal, consoante os casos.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+### Capítulo III — Exploração e funcionamento
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+###### Artigo 26.º — Nomes dos estabelecimentos
+
+1 - O nome dos estabelecimentos não pode sugerir um tipo diferente daquele para que foi licenciado ou autorizado, uma classificação que não lhe tenha sido atribuída ou características que não possuam.
+
+2 - Salvo quando pertencem à mesma organização, aos estabelecimentos de restauração ou de bebidas não podem ser atribuídos nomes iguais ou por tal forma semelhantes a outros já existentes ou requeridos que possam induzir em erro ou serem susceptíveis de confusão.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+###### Artigo 27.º — Referência à classificação
+
+Em toda a publicidade, correspondência, documentação e, de um modo geral, em toda a actividade externa do estabelecimento não podem ser sugeridas características que este não possua ou classificação que não lhe tenha sido atribuída, sendo obrigatória a referência ao tipo de estabelecimento licenciado.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+###### Artigo 28.º — Exploração de serviços de restauração ou de bebidas
+
+1 - A exploração de serviços de restauração ou de bebidas apenas é permitida em edifício ou parte de edifício que seja titular de licença ou de autorização de utilização destinada ao funcionamento de um dos estabelecimentos referidos nos n.os 1 e 2 do artigo 1.º, ou nos locais referidos no n.º 6 do mesmo artigo.
+
+2 - Para efeito do disposto no número anterior, considera-se também exploração de serviços de restauração e bebidas a actividade de catering e a de serviço de banquetes.
+
+3 - Presume-se que existe exploração de serviços de restauração ou de bebidas quando os edifícios ou as suas partes estejam mobilados e equipados em condições de poderem ser normalmente utilizados por pessoas para neles tomar ou adquirir refeições ou tomar bebidas acompanhadas ou não de alimentos ou produtos de cafetaria, mediante remuneração, ainda que esses serviços não constituam a actividade principal de quem os presta e ainda quando os mesmos sejam, por qualquer meio, anunciados ao público, directamente ou através dos meios de comunicação social.
+
+4 - A presunção prevista no número anterior verifica-se ainda que se trate de serviços prestados em construções amovíveis ou pré-fabricadas e mesmo que não possam ser legalmente consideradas como edifícios ou parte destes.
+
+5 - Sempre que se verifique alguma das situações previstas nos n.os 3 e 4 deste artigo, as câmaras municipais podem, oficiosamente ou a pedido dos órgãos regionais ou locais de turismo, da FERECA - Federação da Restauração, Cafés, Pastelarias e Similares de Portugal ou das associações patronais do sector, qualificar aquelas instalações como estabelecimentos de restauração ou de bebidas, mediante vistoria às instalações, a efectuar nos termos previstos no artigo 12.º
+
+6 - Nos casos previstos no número anterior, a câmara municipal deve notificar os respectivos proprietários ou exploradores para requererem a concessão da licença ou da autorização para serviços de restauração ou de bebidas e do alvará respectivo nos termos previstos no presente diploma.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+###### Artigo 29.º — Exploração dos estabelecimentos
+
+1 - A exploração de cada estabelecimento deve ser realizada por uma única entidade.
+
+2 - A unidade de exploração do estabelecimento não é impeditiva de a propriedade das várias fracções imobiliárias que o compõem pertencer a mais de uma pessoa.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+###### Artigo 30.º — Acesso aos estabelecimentos
+
+1 - É livre o acesso aos estabelecimentos de restauração ou de bebidas, salvo o disposto nos números seguintes.
+
+2 - Pode ser recusado o acesso ou a permanência nos estabelecimentos a quem perturbe o seu funcionamento normal, designadamente por:
+
+a) Não manifestar a intenção de utilizar os serviços neles prestados;
+
+b) Se recusar a cumprir as normas de funcionamento privativas do estabelecimento, desde que devidamente publicitadas;
+
+c) Penetrar nas áreas de acesso vedado.
+
+3 - Nos estabelecimentos de restauração ou de bebidas pode ser recusado o acesso às pessoas que se façam acompanhar por animais, desde que essas restrições sejam devidamente publicitadas.
+
+4 - O disposto no n.º 1 não prejudica, desde que devidamente publicitadas:
+
+a) A possibilidade de afectação total ou parcial dos estabelecimentos de restauração ou de bebidas à utilização exclusiva por associados ou beneficiários das entidades proprietárias ou da entidade exploradora;
+
+b) A reserva temporária de parte ou da totalidade dos estabelecimentos.
+
+5 - As entidades exploradoras dos estabelecimentos de restauração ou de bebidas não podem permitir o acesso a um número de utentes superior ao da respectiva capacidade.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+###### Artigo 31.º — Período de funcionamento
+
+Os estabelecimentos de restauração ou de bebidas devem estar abertos ao público durante todo o ano, salvo se a entidade exploradora comunicar à respectiva câmara municipal ou à Direcção-Geral do Turismo, no caso dos estabelecimentos classificados, qualificados como típicos ou declarados de interesse para o turismo, nos termos previstos no artigo 57.º do Decreto-Lei n.º 167/97, de 4 de Julho, até ao dia 1 de Outubro de cada ano, em que período pretende encerrar o estabelecimento no ano seguinte.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 139/99 - Diário da República n.º 96/1999, Série I-A de 1999-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1999-531827), em vigor a partir de 1999-04-25
+
+###### Artigo 32.º — Estado das instalações e do equipamento
+
+1 - As estruturas, as instalações e o equipamento dos estabelecimentos de restauração ou de bebidas devem funcionar em boas condições e ser mantidas em perfeito estado de conservação e higiene, por forma a evitar que seja posta em perigo a saúde dos seus utentes.
+
+2 - Os estabelecimentos de restauração ou de bebidas devem estar dotados dos meios adequados para prevenção dos riscos de incêndio de acordo com as normas técnicas estabelecidas em regulamento.
+
+3 - A câmara municipal ou a Direcção-Geral do Turismo, no caso dos estabelecimentos classificados, qualificados como típicos ou declarados de interesse para o turismo, nos termos previstos no artigo 57.º do Decreto-Lei n.º 167/97, de 4 de Julho, pode determinar a reparação das deteriorações e avarias verificadas, fixando prazo para o efeito, consultando as autoridades de saúde quando estiverem em causa o cumprimento de requisitos de instalação e funcionamento relativos à higiene e saúde pública e as entidades responsáveis pelo controlo oficial da higiene dos géneros alimentícios, nos termos previstos no Decreto-Lei n.º 67/98, de 18 de Março.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 139/99 - Diário da República n.º 96/1999, Série I-A de 1999-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1999-531827), em vigor a partir de 1999-04-25
+
+###### Artigo 33.º — Serviço
+
+1 - Nos estabelecimentos de restauração ou de bebidas deve ser prestado um serviço correspondente ao respectivo tipo, nos termos previstos no regulamento a que se refere o n.º 5 do artigo 1.º
+
+2 - A entidade exploradora de um estabelecimento de restauração ou de bebidas pode contratar com terceiros a prestação de serviços próprios do estabelecimento, mantendo-se responsável pelo seu funcionamento.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+###### Artigo 34.º — Responsável pelos estabelecimentos
+
+1 - Em todos os estabelecimentos de restauração ou de bebidas deve haver um responsável, a quem cabe zelar pelo seu funcionamento e nível de serviço e ainda assegurar o cumprimento das disposições legais e regulamentares aplicáveis.
+
+2 - Para efeitos do disposto no número anterior, a entidade exploradora deve comunicar à Direcção-Geral do Turismo o nome da pessoa ou das pessoas que asseguram permanentemente aquelas funções.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+### Capítulo IV — Fiscalização e sanções
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+###### Artigo 35.º — Competência de fiscalização
+
+1 - Sem prejuízo do disposto no regime jurídico da urbanização e da edificação e nos números seguintes, compete às câmaras municipais:
+
+a) Fiscalizar o cumprimento do disposto no presente diploma e no regulamento previsto no n.º 5 do artigo 1.º, relativamente a todos os estabelecimentos de restauração ou de bebidas;
+
+b) Fiscalizar a realização de operações urbanísticas com vista a assegurar a conformidade daquelas operações com as disposições legais e regulamentares aplicáveis e a prevenir os perigos que da sua realização possam resultar para a saúde e a segurança das pessoas em todos os edifícios onde estejam instalados estabelecimentos de restauração ou de bebidas;
+
+c) Conhecer das reclamações apresentadas sobre o funcionamento e o serviço dos estabelecimentos de restauração ou de bebidas, bem como ordenar as providências necessárias para corrigir as deficiências neles verificadas;
+
+d) Proceder à organização e instrução dos processos referentes às contra-ordenações previstas no presente diploma e no regulamento previsto no n.º 5 do artigo 1.º
+
+2 - Sem prejuízo do disposto no número anterior e nos números seguintes, compete à Direcção-Geral do Turismo fiscalizar o cumprimento do disposto no presente diploma e seus regulamentos relativamente aos requisitos que determinam a classificação dos estabelecimentos de restauração ou de bebidas, a sua qualificação como típicos ou a sua declaração de interesse para o turismo, nos termos previstos no artigo 57.º do Decreto-Lei n.º 167/97, de 4 de Julho, e ainda exercer, relativamente aos mesmos estabelecimentos, as competências previstas nas alíneas c) e d) do número anterior, quando estiver em causa o cumprimento dos requisitos supra-referidos.
+
+3 - A Direcção-Geral do Turismo pode delegar nos órgãos regionais ou locais de turismo a competência para a fiscalização do funcionamento e serviço dos estabelecimentos de restauração ou de bebidas referidos no número anterior.
+
+4 - Sem prejuízo do disposto nos números anteriores e no número seguinte, compete às autoridades de saúde fiscalizar, relativamente a todos os estabelecimentos de restauração ou de bebidas, o cumprimento das regras de higiene e saúde pública previstas no presente diploma e no regulamento previsto no n.º 5 do artigo 1.º e no Decreto-Lei n.º 336/93, de 29 de Setembro.
+
+5 - Sem prejuízo do disposto nos números anteriores e no número seguinte, compete à Direcção-Geral do Controlo e Fiscalização da Qualidade Alimentar a fiscalização das normas gerais de higiene a que devem estar sujeitos os géneros alimentícios utilizados nos estabelecimentos de restauração ou de bebidas, nos termos previstos no presente diploma e no regulamento previsto no n.º 5 do artigo 1.º e no Decreto-Lei n.º 67/98, de 18 de Março.
+
+6 - Sem prejuízo do disposto nos números anteriores, compete ao Serviço Nacional de Bombeiros fiscalizar o cumprimento das regras de segurança contra riscos de incêndio previstas no regulamento referido no n.º 3 do artigo 6.º
+
+7 - As acções de fiscalização efectuadas nos termos previstos nos números anteriores podem ser feitas oficiosamente ou a pedido dos órgãos regionais ou locais de turismo, da FERECA - Federação da Restauração, Cafés, Pastelarias e Similares de Portugal ou das associações patronais do sector.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 139/99 - Diário da República n.º 96/1999, Série I-A de 1999-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1999-531827), em vigor a partir de 1999-04-25
+
+###### Artigo 36.º — Serviços de inspecção
+
+Aos funcionários da Direcção-Geral do Turismo, das câmaras municipais e, quando for caso disso, dos órgãos regionais ou locais em serviço de inspecção deve ser facultado o acesso aos estabelecimentos de restauração ou de bebidas e apresentados os documentos justificadamente solicitados.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 139/99 - Diário da República n.º 96/1999, Série I-A de 1999-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1999-531827), em vigor a partir de 1999-04-25
+
+###### Artigo 37.º — Livro de reclamações
+
+1 - Em todos os estabelecimentos de restauração ou de bebidas deve existir um livro destinado aos utentes para que estes possam formular observações e reclamações sobre o estado e a apresentação das instalações e do equipamento, bem como sobre a qualidade dos serviços e o modo como foram prestados.
+
+2 - O livro de reclamações deve ser obrigatória e imediatamente facultado ao utente que o solicite.
+
+3 - Um duplicado das observações ou reclamações deve ser enviado pelo responsável do estabelecimento de restauração ou de bebidas à Direcção-Geral do Turismo ou à câmara municipal, consoante os casos.
+
+4 - Deve ser entregue ao utente o duplicado das observações ou reclamações escritas no livro, o qual, se o entender, pode remetê-lo à Direcção-Geral do Turismo ou à câmara municipal, consoante os casos, acompanhado dos documentos e meios de prova necessários à apreciação das mesmas.
+
+5 - O livro de reclamações é editado e fornecido pela Direcção-Geral do Turismo ou pelas entidades que ela encarregar para o efeito, sendo o modelo, o preço e as condições de distribuição e utilização aprovados por portaria do membro do Governo responsável pela área do turismo.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+###### Artigo 38.º — Contra-ordenações
+
+1 - Para além das previstas nos regulamentos a que se refere o n.º 5 do artigo 1.º e das estabelecidas no artigo 98.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, constituem contra-ordenações:
+
+a) A falta de apresentação do requerimento previsto no n.º 2 do artigo 10.º;
+
+b) A realização das obras sem autorização do Serviço Nacional de Bombeiros prevista no n.º 1 do artigo 10.º;
+
+c) A não comunicação à câmara municipal da transmissão ou promessa de transmissão, sob qualquer forma, de direitos relativos a estabelecimentos ou a imóveis ou suas fracções onde estejam instalados estabelecimentos de restauração ou de bebidas, nos termos previstos no n.º 5 do artigo 14.º;
+
+d) A violação do disposto no n.º 3 do artigo 15.º;
+
+e) A violação do disposto nos n.os 1 e 2 do artigo 26.º;
+
+f) A violação do disposto no artigo 27.º;
+
+g) A utilização, directa ou indirecta, de edifício ou parte de edifício para a exploração de serviços de restauração ou de bebidas sem o respectivo alvará de licença ou de autorização de utilização para serviços de restauração ou de bebidas emitido nos termos do presente diploma ou autorização de abertura emitida nos termos do artigo 36.º do Decreto-Lei n.º 328/86, de 30 de Setembro, ou de legislação anterior, nos termos previstos no artigo 28.º;
+
+h) A violação do disposto no artigo 29.º;
+
+i) A violação do disposto no n.º 1 do artigo 30.º;
+
+j) A não publicitação das restrições de acesso previstas nos n.os 3 e 4 do artigo 30.º;
+
+l) A violação do disposto no n.º 5 do artigo 30.º;
+
+m) A violação do disposto no artigo 31.º;
+
+n) A violação do disposto no n.º 1 do artigo 32.º;
+
+o) A violação do disposto no n.º 2 do artigo 32.º;
+
+p) O não cumprimento do prazo fixado nos termos do n.º 3 do artigo 32.º;
+
+q) A violação do disposto no artigo 34.º;
+
+r) Impedir ou dificultar o acesso dos funcionários da Direcção-Geral do Turismo, das câmaras municipais ou dos órgãos regionais ou locais de turismo em serviço de inspecção aos estabelecimentos de restauração ou de bebidas nos termos do artigo 36.º;
+
+s) Recusar a apresentação dos documentos solicitados nos termos do artigo 36.º;
+
+t) A violação do disposto nos n.os 1, 2, 3 e 4 do artigo 37.º;
+
+u) A violação do disposto no n.º 2 do artigo 49.º
+
+2 - As contra-ordenações previstas nas alíneas c), f) e s) do número anterior são puníveis com coima de (euro) 50 ou 10024$00 a (euro) 250 ou 50120$00, no caso de se tratar de pessoa singular, e de (euro) 125 ou 25060$00 a (euro) 1250 ou 250603$00, no caso de se tratar de pessoa colectiva.
+
+3 - As contra-ordenações previstas nas alíneas a), d), e), m), n), p), q), r) e t) do n.º 1 são puníveis com coima de (euro) 125 ou 25060$00 a (euro) 1000 ou 200482$00, no caso de se tratar de pessoa singular, e de (euro) 500 ou 100241$00 a (euro) 5000 ou 1002410$00, no caso de se tratar de pessoa colectiva.
+
+4 - As contra-ordenações previstas nas alíneas h), i), j), l), o) e u) do n.º 1 são puníveis com coima de (euro) 250 ou 50121$00 a (euro) 2500 ou 501205$00, no caso de se tratar de pessoa singular, e de (euro) 1250 ou 250603$00 a (euro) 15000 ou 3007230$00, no caso de se tratar de pessoa colectiva.
+
+5 - As contra-ordenações previstas nas alíneas b) e g) do n.º 1 são puníveis com coima de (euro) 500 ou 100241$00 a (euro) 3740,90 ou 750000$00, no caso de se tratar de pessoa singular, e de (euro) 2500 ou 501205$00 a (euro) 30000 ou 6001460$00, no caso de se tratar de pessoa colectiva.
+
+6 - Nos casos previstos nas alíneas b), e), f), g), h), i), j), l), r), s) e t) do n.º 1 a tentativa é punível.
+
+7 - A negligência é punível.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 222/2000 - Diário da República n.º 209/2000, Série I-A de 2000-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2000-577710), em vigor a partir de 2000-09-14
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 139/99 - Diário da República n.º 96/1999, Série I-A de 1999-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1999-531827), em vigor a partir de 1999-04-25
+
+###### Artigo 39.º — Sanções acessórias
+
+1 - Em função da gravidade e da reiteração das contra-ordenações previstas no artigo anterior e no regulamento nele referido, bem como da culpa do agente e do tipo e classificação do estabelecimento, podem ser aplicadas as seguintes sanções acessórias:
+
+a) Perda do material através do qual se praticou a infracção;
+
+b) Interdição, por um período até dois anos, do exercício de actividade directamente relacionada com a infracção praticada;
+
+c) Encerramento do estabelecimento.
+
+2 - O encerramento do estabelecimento só pode ser determinado, para além dos casos expressamente previstos na alínea c) do n.º 2 do artigo 5.º do Decreto-Lei n.º 336/93, de 29 de Setembro, na alínea f) do n.º 1 do artigo 9.º do Decreto-Lei n.º 67/98, de 18 de Março, e nos regulamentos a que se refere o n.º 5 do artigo 1.º, com base nos comportamentos referidos nas alíneas b), g), n), o) e r) do n.º 1 do artigo anterior.
+
+3 - Quando forem aplicadas as sanções acessórias de interdição e encerramento do estabelecimento, o presidente da câmara municipal, oficiosamente ou a solicitação da Direcção-Geral do Turismo, deve apreender o respectivo alvará de licença ou de autorização de utilização para serviços de restauração ou de bebidas pelo período de duração daquela sanção.
+
+4 - Pode ser determinada a publicidade da aplicação das sanções previstas nas alíneas b) e c) do n.º 1 mediante:
+
+a) A fixação de cópia da decisão, pelo período de 30 dias, no próprio estabelecimento, em lugar e por forma bem visíveis; e
+
+b) A sua publicação, a expensas do infractor, pela Direcção-Geral do Turismo ou pela câmara municipal, consoante os casos, em jornal de difusão nacional, regional ou local, de acordo com o lugar, a importância e os efeitos da infracção.
+
+5 - A cópia da decisão publicada nos termos da alínea b) do número anterior não pode ter dimensão superior a tamanho A6.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 139/99 - Diário da República n.º 96/1999, Série I-A de 1999-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1999-531827), em vigor a partir de 1999-04-25
+
+###### Artigo 40.º — Limites da coima em caso de tentativa e de negligência
+
+1 - Em caso de punição da tentativa, os limites máximo e mínimo das coimas são reduzidos para um terço.
+
+2 - Se a infracção for praticada por negligência, os limites máximo e mínimo das coimas são reduzidos para metade.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+###### Artigo 41.º — Competência sancionatória
+
+1 - Sem prejuízo do disposto no número seguinte, a aplicação das coimas e das sanções acessórias previstas no presente diploma e no regulamento a que se refere o n.º 5 do artigo 1.º compete às câmaras municipais.
+
+2 - A aplicação das coimas e das sanções acessórias previstas no presente diploma e no regulamento a que se refere o n.º 5 do artigo 1.º resultantes do não cumprimento dos requisitos que determinam a classificação dos estabelecimentos de restauração ou de bebidas, a sua qualificação como típicos ou a sua declaração de interesse para o turismo, nos termos previstos no artigo 57.º do Decreto-Lei n.º 167/97, de 4 de Julho, é da competência do director-geral do Turismo.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 139/99 - Diário da República n.º 96/1999, Série I-A de 1999-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1999-531827), em vigor a partir de 1999-04-25
+
+###### Artigo 42.º — Produto das coimas
+
+1 - O produto das coimas aplicadas pela Direcção-Geral do Turismo por infracção ao disposto no presente diploma e ao regulamento a que se refere o n.º 5 do artigo 1.º reverte em 60% para os cofres do Estado e em 40% para a Direcção-Geral do Turismo.
+
+2 - O produto das coimas aplicadas pelas câmaras municipais por infracção ao disposto no presente diploma e ao regulamento a que se refere o n.º 5 do artigo 1.º constitui receita dos respectivos municípios.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 139/99 - Diário da República n.º 96/1999, Série I-A de 1999-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1999-531827), em vigor a partir de 1999-04-25
+
+###### Artigo 43.º — Embargo e demolição
+
+Os presidentes das câmaras municipais são competentes para embargar e ordenar a demolição das obras realizadas em violação do disposto no presente diploma e no regulamento a que se refere o n.º 5 do artigo 1.º, por sua iniciativa ou mediante comunicação da Direcção-Geral do Turismo, no caso dos estabelecimentos de restauração e de bebidas classificados, dos qualificados como típicos ou declarados de interesse para o turismo, nos termos previstos no artigo 57.º do Decreto-Lei n.º 167/97, de 4 de Julho, sem prejuízo das competências atribuídas por lei a outras entidades.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 139/99 - Diário da República n.º 96/1999, Série I-A de 1999-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1999-531827), em vigor a partir de 1999-04-25
+
+###### Artigo 44.º — Interdição de utilização
+
+Os presidentes das câmaras municipais, por sua iniciativa ou a pedido do director-geral do Turismo, no caso dos estabelecimentos de restauração ou de bebidas classificados, dos qualificados como típicos ou declarados de interesse para o turismo, nos termos previstos no artigo 57.º do Decreto-Lei n.º 167/97, de 4 de Julho, são competentes para determinar a interdição temporária da utilização de partes individualizadas, instalações ou equipamentos dos estabelecimentos de restauração ou de bebidas, sem prejuízo das competências atribuídas às autoridades de saúde e às autoridades responsáveis pela fiscalização e controlo da qualidade alimentar, nessa matéria, respectivamente pelos Decretos-Leis n.os 336/93, de 29 de Setembro, e 67/98, de 18 de Março, que, pelo seu deficiente estado de conservação ou pela falta de cumprimento do disposto no presente diploma e no regulamento a que se refere o n.º 5 do artigo 1.º, sejam susceptíveis de pôr em perigo a saúde pública ou a segurança dos utentes, ouvidas as autoridades de saúde pública com competência territorial.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 139/99 - Diário da República n.º 96/1999, Série I-A de 1999-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1999-531827), em vigor a partir de 1999-04-25
+
+### Capítulo V — Disposições finais e transitórias
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+###### Artigo 45.º — Taxas
+
+Pelas vistorias requeridas pelos interessados à Direcção-Geral do Turismo são devidas taxas de montante a fixar, bem como a repartição do mesmo pelas entidades envolvidas, por portaria conjunta dos Ministros das Finanças e da Economia.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 139/99 - Diário da República n.º 96/1999, Série I-A de 1999-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1999-531827), em vigor a partir de 1999-04-25
+
+###### Artigo 46.º — Registo
+
+1 - É organizado pela Direcção-Geral do Turismo, em colaboração com as câmaras municipais e a FERECA - Federação da Restauração, Cafés, Pastelarias e Similares de Portugal, o registo central de todos os estabelecimentos de restauração ou de bebidas, nos termos, prazos e condições a estabelecer em portaria do membro do Governo responsável pela área do turismo.
+
+2 - As entidades exploradoras dos estabelecimentos de restauração ou de bebidas devem comunicar à Direcção-Geral do Turismo a alteração de qualquer dos elementos do registo previstos na portaria a que se refere o número anterior, no prazo de 30 dias a contar da data em que tenha lugar essa alteração.
+
+3 - As câmaras municipais devem enviar à Direcção-Geral do Turismo, no prazo de 30 dias após ter sido emitido o alvará de licença ou de autorização de utilização previsto no artigo 14.º, cópia do mesmo, bem como os elementos necessários à elaboração do registo central dos estabelecimentos de restauração ou de bebidas previstos na portaria referida no n.º 1.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 222/2000 - Diário da República n.º 209/2000, Série I-A de 2000-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2000-577710), em vigor a partir de 2000-09-14
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 139/99 - Diário da República n.º 96/1999, Série I-A de 1999-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1999-531827), em vigor a partir de 1999-04-25
+
+###### Artigo 47.º — Estabelecimentos de restauração ou de bebidas integrados em empreendimentos turísticos
+
+À instalação e ao funcionamento dos estabelecimentos de restauração ou de bebidas que sejam partes integrantes de empreendimentos turísticos aplica-se o disposto no Decreto-Lei n.º 167/97, de 4 de Julho.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+###### Artigo 48.º — Obras e benfeitorias
+
+1 - Quando, para dar cumprimento ao disposto no presente diploma e aos seus regulamentos, for necessária a realização de obras e benfeitorias nos estabelecimentos de restauração ou de bebidas, aplica-se a estes estabelecimentos o disposto no artigo 34.º do Decreto-Lei n.º 328/86, de 30 de Setembro, que para esse efeito se mantém em vigor, na parte respeitante aos estabelecimentos similares, independentemente da data da celebração do respectivo contrato de locação.
+
+2 - O regime previsto no número anterior também se aplica nos casos em que a realização de obras e benfeitorias for determinada por lei ou por entidade da Administração com competência para o efeito.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+###### Artigo 49.º — Regime aplicável aos estabelecimentos de restauração ou de bebidas existentes
+
+1 - O disposto no presente diploma aplica-se aos estabelecimentos de restauração ou de bebidas existentes à data da sua entrada em vigor, sem prejuízo do disposto no número seguinte.
+
+2 - Os estabelecimentos referidos no número anterior devem satisfazer os requisitos previstos para o respectivo tipo, de acordo com o presente diploma e o regulamento a que refere o n.º 5 do artigo 1.º, no prazo de dois anos a contar da data da entrada em vigor daquele regulamento.
+
+3 - Quando, por razões de ordem arquitectónica ou técnica, não possam ser integralmente cumpridos os requisitos exigíveis para o tipo de estabelecimento em causa, deve o seu titular propor soluções alternativas, as quais serão apreciadas pela câmara municipal ou pela Direcção-Geral do Turismo, no caso dos estabelecimentos de restauração ou de bebidas classificados, dos qualificados como típicos ou declarados de interesse para o turismo, nos termos previstos no artigo 57.º do Decreto-Lei n.º 167/97, de 4 de Julho.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 139/99 - Diário da República n.º 96/1999, Série I-A de 1999-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1999-531827), em vigor a partir de 1999-04-25
+
+###### Artigo 50.º — Alvará de licença ou de autorização de utilização para serviços de restauração ou de bebidas
+
+1 - O alvará de licença ou de autorização de utilização para serviços de restauração ou de bebidas, emitido na sequência de obras de ampliação, reconstrução ou alteração, a realizar em estabelecimentos de restauração ou de bebidas existentes e em funcionamento à data da entrada em vigor do presente diploma, respeita a todo o estabelecimento, incluindo as partes não abrangidas pelas obras.
+
+2 - Às obras previstas no número anterior, ainda que isentas ou dispensadas de licença municipal, aplica-se, com as necessárias adaptações, o disposto no artigo 17.º
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+###### Artigo 51.º — Autorização de abertura
+
+1 - A autorização de abertura dos estabelecimentos de restauração ou de bebidas existentes à data da entrada em vigor do presente diploma, concedida pela Direcção-Geral do Turismo ou pelas câmaras municipais nos termos do artigo 36.º do Decreto-Lei n.º 328/86, de 30 de Setembro, ou de legislação anterior, mantém-se válida, só sendo substituída pelo alvará de licença ou de autorização de utilização para serviços de restauração ou de bebidas previsto no presente diploma, na sequência de obras de ampliação, reconstrução ou alteração.
+
+2 - À autorização de abertura referida no número anterior aplica-se o disposto no artigo 19.º, com as necessárias adaptações.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+###### Artigo 52.º — Processos pendentes respeitantes à construção de novos estabelecimentos de restauração ou de bebidas
+
+1 - Aos processos pendentes à data da entrada em vigor do presente diploma, respeitantes à apreciação dos projectos de arquitectura de novos estabelecimentos de restauração ou de bebidas aplica-se igualmente o disposto no presente diploma e no regulamento a que se refere o n.º 5 do artigo 1.º
+
+2 - Nos casos previstos no número anterior, a câmara municipal, se for caso disso, deve consultar o governo civil do distrito em que o estabelecimento se localiza, nos termos do artigo 7.º, no prazo de oito dias contado da data da entrada em vigor do presente diploma, suspendendo-se o prazo fixado para a decisão camarária até à recepção daquele parecer ou, na falta de parecer, até ao termo do prazo para a sua emissão.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+###### Artigo 53.º — Processos pendentes respeitantes à autorização de abertura de novos estabelecimentos
+
+1 - Aos processos pendentes à data da entrada em vigor do presente diploma, respeitantes à autorização de abertura de estabelecimentos de restauração ou de bebidas, aplica-se o disposto no presente diploma para a emissão do alvará de licença ou de autorização de utilização para serviços de restauração ou de bebidas.
+
+2 - No caso dos estabelecimentos de restauração ou de bebidas que estiverem em construção à data da entrada em vigor do presente diploma, o início do seu funcionamento depende igualmente de licença ou de autorização de utilização para serviços de restauração ou de bebidas.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+###### Artigo 54.º — Processos pendentes respeitantes a estabelecimentos de restauração ou de bebidas existentes
+
+1 - Aos processos pendentes à data da entrada em vigor do presente diploma, respeitantes a obras de ampliação, reconstrução ou alteração a realizar em estabelecimentos de restauração ou de bebidas existentes e em funcionamento, aplica-se o disposto no artigo 51.º, com as necessárias adaptações.
+
+2 - Aos processos pendentes à data da entrada em vigor do presente diploma, respeitantes à entrada em funcionamento de parte ou totalidade de estabelecimentos de restauração ou de bebidas existentes, resultante de obras neles realizadas, aplica-se o disposto no n.º 1 do artigo anterior.
+
+3 - No caso das obras referidas no número anterior que estiverem em curso à data da entrada em vigor do presente diploma aplica-se o n.º 2 do artigo anterior.
+
+4 - Ao alvará de licença ou de autorização de utilização para serviços de restauração ou de bebidas que vier a ser emitido na sequência dos casos previstos nos números anteriores aplica-se o disposto no artigo 49.º
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 57/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2002-250611), em vigor a partir de 2002-03-12
+
+###### Artigo 55.º — Regime relativo aos instrumentos de regulamentação colectiva de trabalho
+
+1 - Continuam a aplicar-se aos restaurantes e similares existentes à data da entrada em vigor do presente diploma as normas dos instrumentos de regulamentação colectiva de trabalho que pressupõem a existência de categorias dos mesmos, enquanto aquelas não forem alteradas, por forma a adaptarem-se ao disposto no presente diploma e ao regulamento a que se refere o n.º 5 do artigo 1.º
+
+2 - As categorias a que se refere o número anterior são as que os restaurantes e similares tinham à data da entrada em vigor do presente diploma.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+###### Artigo 56.º — Regiões Autónomas
+
+O regime previsto no presente decreto-lei é aplicável às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma e de especificidades regionais a introduzir por diploma regional adequado.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+###### Artigo 57.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia 1 de Julho de 1997.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19
+
+Visto e aprovado em Conselho de Ministros de 20 de Fevereiro de 1997. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco - Armando António Martins Vara - João Cardona Gomes Cravinho - José Manuel de Matos Fernandes - Augusto Carlos Serra Ventura Mateus - Manuel Maria Ferreira Carrilho.
+
+Promulgado em 6 de Junho de 1997.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 12 de Junho de 1997.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 234/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), em vigor a partir de 2007-07-19

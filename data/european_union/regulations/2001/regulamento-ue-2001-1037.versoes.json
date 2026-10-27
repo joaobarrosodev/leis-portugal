@@ -1,0 +1,175 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001R1037:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001R1037-20140101",
+ "dre_path": null,
+ "source_lastmod": "2014-01-01",
+ "versions": [
+  {
+   "date": "2001-05-31",
+   "future": false,
+   "celex": "32001R1037",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5e7f9718b3703dd5",
+    "acbbbfc3a1cd76ed",
+    "2a4abdf5f7495b8b",
+    "20e72d901fde55fd"
+   ]
+  },
+  {
+   "date": "2005-12-21",
+   "future": false,
+   "celex": "02001R1037-20051221",
+   "acts": [
+    {
+     "id": "eu:celex:32003R2324:por",
+     "title": "M1",
+     "published": null,
+     "celex": "32003R2324"
+    },
+    {
+     "id": "eu:celex:32005R2079:por",
+     "title": "REGULAMENTO (CE) N. o 2079/2005 DA COMISSÃO de 19 de Dezembro de 2005",
+     "published": null,
+     "celex": "32005R2079"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera ANEXO",
+    "Adita 1. Práticas enológicas autorizadas",
+    "Adita 2. Práticas enológicas idênticas ou análogas às autorizadas na Comunidade",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "1d19b8309a427f5d",
+    "1d37ea26f868a6ef",
+    "cee35d35cc4690b0",
+    "10220b9774fa9034",
+    "65d6ace89d68e915",
+    "d8bd313e76605e69",
+    "66e34d0108284a32"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "celex": "02001R1037-20140101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime ANEXO",
+    "Suprime 1. Práticas enológicas autorizadas",
+    "Suprime 2. Práticas enológicas idênticas ou análogas às autorizadas na Comunidade",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "81213b831c4b7fa5"
+   ]
+  }
+ ],
+ "fragments": {
+  "5e7f9718b3703dd5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 1037/2001 do Conselho, de 22 de Maio de 2001, que autoriza a oferta e o fornecimento para consumo humano directo de certos vinhos importados susceptíveis de terem sido objecto de práticas enológicas não previstas no Regulamento (CE) n.° 1493/1999** *Jornal Oficial nº L 145 de 31/05/2001 p. 0012 - 0015*\n\nRegulamento (CE) n.o 1037/2001 do Conselho\n\nde 22 de Maio de 2001\n\nque autoriza a oferta e o fornecimento para consumo humano directo de certos vinhos importados susceptíveis de terem sido objecto de práticas enológicas não previstas no Regulamento (CE) n.o 1493/1999\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.o 1493/1999 do Conselho, de 17 de Maio de 1999, que estabelece a organização comum do mercado vitivinícola(1), e, nomeadamente, o n.o 2 do seu artigo 45.o,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.o 1493/1999, que substituiu o Regulamento (CEE) n.o 822/87 do Conselho(2) com efeitos a partir de 1 de Agosto de 2000, prevê, no n.o 2 do artigo 45.o, que as derrogações aplicáveis aos produtos importados referidas no n.o 1 serão adoptadas de acordo com o procedimento do artigo 133.o do Tratado.\n\n(2) O n.o 1 do artigo 68.o do Regulamento (CE) n.o 1493/1999 prevê que os produtos referidos no n.o 2, alíneas a) e b), do seu artigo 1.o não podem ser importados sem serem acompanhados de um certificado que ateste serem conformes com as disposições às quais estão sujeitas a produção, a colocação em circulação e, se for caso disso, o fornecimento para consumo humano directo, no país terceiro de que são originários.\n\n(3) O Regulamento (CEE) n.o 1873/84 do Conselho(3) estabelece uma derrogação que autoriza a importação na Comunidade de vinhos americanos que tenham sido objecto de certas práticas enológicas não previstas nas disposições comunitárias. Em relação a algumas práticas enológicas, essa autorização só é válida até 31 de Dezembro de 2003.\n\n(4) O artigo 81.o do Regulamento (CE) n.o 1493/1999 revogou uma série de regulamentos do Conselho, incluindo o Regulamento (CEE) n.o 1873/84, com efeitos a partir de 1 de Agosto de 2000. Todavia, o Regulamento (CE) n.o 1608/2000 da Comissão, de 24 de Julho de 2000, que, na pendência das medidas definitivas de execução do Regulamento (CE) n.o 1493/1999 que estabelece a organização comum do mercado vitivinícola, fixa medidas transitórias(4), permite que certas disposições do Regulamento (CEE) n.o 1873/84 permaneçam aplicáveis até à adopção do presente regulamento pelo Conselho, e o mais tardar até 31 de Dezembro de 2003.\n\n(5) Está a decorrer um processo negocial entre a Comunidade, representada pela Comissão, e os Estados Unidos da América com vista à celebração de um acordo relativo ao comércio de vinho. Essas negociações incidem, nomeadamente, sobre as práticas enológicas de cada uma das partes, bem como sobre a protecção das indicações geográficas. Na sua reunião de 23 de Outubro de 2000, o Conselho \"Agricultura\" tomou nota do relatório da Comissão sobre o estado das negociações previsto no n.o 1, segundo parágrafo, do artigo 1.o do Regulamento (CE) n.o 1873/84 e confirmou a sua vontade de continuar as negociações, tendo estabelecido as orientações a seguir por esta.\n\n(6) Para facilitar o desenrolar dessas negociações, afigura-se conveniente que sejam retomadas as disposições do Regulamento (CEE) n.o 1873/84 e, nomeadamente, continuar a autorizar as práticas enológicas americanas referidas no ponto 1, alínea b), do anexo do Regulamento (CEE) n.o 1873/84, a título provisório, até à entrada em vigor do acordo resultante das referidas negociações e o mais tardar até 31 de Dezembro de 2003, conforme prevê o Conselho no Regulamento (CE) n.o 2839/98, que altera o Regulamento (CEE) n.o 1873/84.\n\n(7) A evolução do quadro regulamentar e das práticas enológicas requer uma actualização técnica do anexo, de modo a torná-lo coerente com as disposições regulamentares actualmente em vigor na matéria,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "acbbbfc3a1cd76ed": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Em derrogação do n.o 1 do artigo 45.o do Regulamento (CE) n.o 1493/1999, podem ser oferecidos ou fornecidos para consumo humano directo no interior da Comunidade produtos dos códigos NC 2204 10, 2204 21, 2204 29 e 2204 30 10 provenientes de uvas colhidas e vinificadas no território dos Estados Unidos da América nos quais possam ter sido utilizadas, no decurso das operações de elaboração e armazenamento, de acordo com as disposições dos Estados Unidos da América, uma ou mais das práticas enológicas referidas no ponto 1, alíneas a) e b), do anexo do presente regulamento.\n\nEsta autorização só é, porém, válida, no que se refere à utilização das práticas enológicas a que se refere o ponto 1, alínea b), do anexo, até à entrada em vigor do acordo resultante das negociações com os Estados Unidos da América com vista à celebração de um acordo relativo ao comércio de vinho, negociações que incidem nomeadamente sobre as práticas enológicas, bem como sobre a protecção das indicações geográficas, e o mais tardar até 31 de Dezembro de 2003.\n\n2. Os Estados-Membros não podem proibir a oferta e o fornecimento para consumo humano directo de vinhos provenientes de uvas colhidas e vinificadas no território dos Estados Unidos da América, de acordo com as disposições em vigor neste país, com base na eventual utilização de uma ou várias das práticas enológicas referidas no ponto 2, alíneas a) e b), do anexo.\n\n3. Os vinhos provenientes de uvas colhidas e vinificadas no território dos Estados Unidos da América que tenham sido objecto da adição de açúcares em solução aquosa não podem ser oferecidos ou fornecidos para consumo humano directo na Comunidade."
+  },
+  "2a4abdf5f7495b8b": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente regulamento entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 22 de Maio de 2001.\n\nPelo Conselho\n\nO Presidente\n\nM. Winberg\n\n(1) JO L 179 de 14.7.1999, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 2826/2000 (JO L 328 de 23.12.2000, p. 2).\n\n(2) JO L 84 de 27.3.1987, p. 1.\n\n(3) JO L 176 de 3.7.1984, p. 6. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 2839/98 (JO L 354 de 30.12.1998, p. 12).\n\n(4) JO L 185 de 25.7.2000, p. 24. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 491/2001 (JO L 71 de 13.3.2001, p. 3)."
+  },
+  "20e72d901fde55fd": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n1. Práticas enológicas autorizadas\n\na) Sem limite de tempo:\n\n- catalase derivada de Aspergillus niger,\n\n- glucose-oxidase derivada de Aspergillus niger,\n\n- sulfato ferroso,\n\n- farinha de soja;\n\nb) Até 31 de Dezembro de 2003, como limite máximo:\n\n- dimetilpolissiloxano,\n\n- monoestearato de polioxietileno (40),\n\n- monoestearato de sorbitano,\n\n- ácido fumárico,\n\n- resinas de permuta iónica,\n\n- ácido láctico,\n\n- ácido málico.\n\n2. Práticas enológicas idênticas ou análogas às autorizadas na Comunidade\n\na) Práticas enológicas idênticas:\n\n- acácia (goma arábica),\n\n- carvão activado,\n\n- albumina animal (incluindo a ovalbumina em pó ou em solução),\n\n- fosfato de amónio dibásico,\n\n- ácido ascórbico,\n\n- bentonite (Wyoming),\n\n- pó de bentonite em suspensão,\n\n- dióxido de carbono,\n\n- caseína,\n\n- ácido cítrico,\n\n- ar comprimido (ventilação),\n\n- sulfato de cobre,\n\n- terra de infusórios,\n\n- enzimas pectolíticas derivadas de Aspergillus niger,\n\n- gelatina alimentar,\n\n- gelatina no estado líquido,\n\n- cola de peixe,\n\n- azoto (nitrogénio),\n\n- bitartarato de potássio,\n\n- caseinato de potássio,\n\n- bissulfito de potássio,\n\n- sorbato de potássio,\n\n- dióxido de silício (gel ou solução coloidal a 30 %),\n\n- ácido sórbico,\n\n- tanino,\n\n- ácido tartárico,\n\n- carbonato de cálcio, contendo, eventualmente, pequenas quantidades do sal duplo de cálcio dos ácidos L-(+)-tartárico e L-(-)-málico,\n\n- sulfato de cálcio, na elaboração de vinhos licorosos,\n\n- polivinilpolipirrolidona (PVPP),\n\n- oxigénio;\n\nb) Práticas enológicas análogas:\n\n- ágar-ágar,\n\n- carbonato de amónio,\n\n- fosfato de amónio monobásico,\n\n- granulados de cortiça,\n\n- leite em pó,\n\n- serradura e aparas de carvalho não-calcinadas e não-tratadas,\n\n- carbonato de potássio,\n\n- carragenina,\n\n- celulose derivada de Aspergillus niger,\n\n- celulose,\n\n- leveduras autolisadas.\n\n- complexos resultantes da mistura de ferrocianeto de potássio e sulfato ferroso em solução aquosa, eventualmente em combinação com sulfato de cobre e carvão activado."
+  },
+  "1d19b8309a427f5d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Maio de 2001\n\nque autoriza a oferta e o fornecimento para consumo humano directo de certos vinhos importados susceptíveis de terem sido objecto de práticas enológicas não previstas no Regulamento (CE) n.º 1493/1999\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1493/1999 do Conselho, de 17 de Maio de 1999, que estabelece a organização comum do mercado vitivinícola ([^1^](http://publications.europa.eu/resource/cellar/7831af9d-e43d-4353-8335-ba04d6d8c820.0018.03/DOC_1#E0001)), e, nomeadamente, o n.º 2 do seu artigo 45.º,\n\nTendo em conta a proposta da Comissão,\n\n(1) O Regulamento (CE) n.º 1493/1999, que substituiu o Regulamento (CEE) n.º 822/87 do Conselho ([^2^](http://publications.europa.eu/resource/cellar/7831af9d-e43d-4353-8335-ba04d6d8c820.0018.03/DOC_1#E0002)) com efeitos a partir de 1 de Agosto de 2000, prevê, no n.º 2 do artigo 45.º, que as derrogações aplicáveis aos produtos importados referidas no n.º 1 serão adoptadas de acordo com o procedimento do artigo 133.º do Tratado.\n\n(2) O n.º 1 do artigo 68.º do Regulamento (CE) n.º 1493/1999 prevê que os produtos referidos no n.º 2, alíneas a) e b), do seu artigo 1.º não podem ser importados sem serem acompanhados de um certificado que ateste serem conformes com as disposições às quais estão sujeitas a produção, a colocação em circulação e, se for caso disso, o fornecimento para consumo humano directo, no país terceiro de que são originários.\n\n(3) O Regulamento (CEE) n.º 1873/84 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/7831af9d-e43d-4353-8335-ba04d6d8c820.0018.03/DOC_1#E0003)) estabelece uma derrogação que autoriza a importação na Comunidade de vinhos americanos que tenham sido objecto de certas práticas enológicas não previstas nas disposições comunitárias. Em relação a algumas práticas enológicas, essa autorização só é válida até 31 de Dezembro de 2003.\n\n(4) O artigo 81.º do Regulamento (CE) n.º 1493/1999 revogou uma série de regulamentos do Conselho, incluindo o Regulamento (CEE) n.º 1873/84, com efeitos a partir de 1 de Agosto de 2000. Todavia, o Regulamento (CE) n.º 1608/2000 da Comissão, de 24 de Julho de 2000, que, na pendência das medidas definitivas de execução do Regulamento (CE) n.º 1493/1999 que estabelece a organização comum do mercado vitivinícola, fixa medidas transitórias ([^4^](http://publications.europa.eu/resource/cellar/7831af9d-e43d-4353-8335-ba04d6d8c820.0018.03/DOC_1#E0004)), permite que certas disposições do Regulamento (CEE) n.º 1873/84 permaneçam aplicáveis até à adopção do presente regulamento pelo Conselho, e o mais tardar até 31 de Dezembro de 2003.\n\n(5) Está a decorrer um processo negocial entre a Comunidade, representada pela Comissão, e os Estados Unidos da América com vista à celebração de um acordo relativo ao comércio de vinho. Essas negociações incidem, nomeadamente, sobre as práticas enológicas de cada uma das partes, bem como sobre a protecção das indicações geográficas. Na sua reunião de 23 de Outubro de 2000, o Conselho «Agricultura» tomou nota do relatório da Comissão sobre o estado das negociações previsto no n.º 1, segundo parágrafo, do artigo 1.º do Regulamento (CE) n.º 1873/84 e confirmou a sua vontade de continuar as negociações, tendo estabelecido as orientações a seguir por esta.\n\n(6) Para facilitar o desenrolar dessas negociações, afigura-se conveniente que sejam retomadas as disposições do Regulamento (CEE) n.º 1873/84 e, nomeadamente, continuar a autorizar as práticas enológicas americanas referidas no ponto 1, alínea b), do anexo do Regulamento (CEE) n.º 1873/84, a título provisório, até à entrada em vigor do acordo resultante das referidas negociações e o mais tardar até 31 de Dezembro de 2003, conforme prevê o Conselho no Regulamento (CE) n.º 2839/98, que altera o Regulamento (CEE) n.º 1873/84.\n\n(7) A evolução do quadro regulamentar e das práticas enológicas requer uma actualização técnica do anexo, de modo a torná-lo coerente com as disposições regulamentares actualmente em vigor na matéria,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "1d37ea26f868a6ef": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Em derrogação do n.º 1 do artigo 45.º do Regulamento (CE) n.º 1493/1999, podem ser oferecidos ou fornecidos para consumo humano directo no interior da Comunidade produtos dos códigos NC 2204 10, 2204 21, 2204 29 e 2204 30 10 provenientes de uvas colhidas e vinificadas no território dos Estados Unidos da América nos quais possam ter sido utilizadas, no decurso das operações de elaboração e armazenamento, de acordo com as disposições dos Estados Unidos da América, uma ou mais das práticas enológicas referidas no ponto 1, alíneas a) e b), do anexo do presente regulamento.\n\nTodavia, esta autorização só é válida, no que se refere à utilização das práticas enológicas referidas no n.º 1, alínea b), do anexo, até à data em que sejam aplicáveis os artigos 4.º e 9.º do acordo entre a Comunidade Europeia e os Estados Unidos da América sobre o comércio de vinhos por um período máximo de três anos a contar da data de entrada em vigor do acordo sob forma de troca de cartas entre a Comunidade Europeia e os Estados Unidos da América sobre questões relacionadas com o comércio de vinhos ([^5^](http://publications.europa.eu/resource/cellar/7831af9d-e43d-4353-8335-ba04d6d8c820.0018.03/DOC_1#E0008)).\n\n2. Os Estados-Membros não podem proibir a oferta e o fornecimento para consumo humano directo de vinhos provenientes de uvas colhidas e vinificadas no território dos Estados Unidos da América, de acordo com as disposições em vigor neste país, com base na eventual utilização de uma ou várias das práticas enológicas referidas no ponto 2, alíneas a) e b), do anexo.\n\n3. Os vinhos provenientes de uvas colhidas e vinificadas no território dos Estados Unidos da América que tenham sido objecto da adição de açúcares em solução aquosa não podem ser oferecidos ou fornecidos para consumo humano directo na Comunidade."
+  },
+  "cee35d35cc4690b0": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente regulamento entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "65d6ace89d68e915": {
+   "fragment_id": "1. Práticas enológicas autorizadas",
+   "type": "divisao",
+   "heading": "1. Práticas enológicas autorizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Práticas enológicas autorizadas\n\na) *Sem limite de tempo:*\n\n— catalase derivada de *Aspergillus niger*,\n\n— glucose-oxidase derivada de *Aspergillus niger*,\n\n— sulfato ferroso,\n\n— farinha de soja;\n\nb) *[**►M2**](http://publications.europa.eu/resource/celex/32005R2079) Até à data referida no n.º 1, segundo parágrafo, do artigo 1.º o mais tardar**◄**:*\n\n— dimetilpolissiloxano,\n\n— monoestearato de polioxietileno (40),\n\n— monoestearato de sorbitano,\n\n— ácido fumárico,\n\n— resinas de permuta iónica,\n\n— ácido láctico,\n\n— ácido málico."
+  },
+  "d8bd313e76605e69": {
+   "fragment_id": "2. Práticas enológicas idênticas ou análogas às autorizadas na Comunidade",
+   "type": "divisao",
+   "heading": "2. Práticas enológicas idênticas ou análogas às autorizadas na Comunidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Práticas enológicas idênticas ou análogas às autorizadas na Comunidade\n\na) *Práticas enológicas idênticas:*\n\n— acácia (goma arábica),\n\n— carvão activado,\n\n— albumina animal (incluindo a ovalbumina em pó ou em solução),\n\n— fosfato de amónio dibásico,\n\n— ácido ascórbico,\n\n— bentonite (Wyoming),\n\n— pó de bentonite em suspensão,\n\n— dióxido de carbono,\n\n— caseína,\n\n— ácido cítrico,\n\n— ar comprimido (ventilação),\n\n— sulfato de cobre,\n\n— terra de infusórios,\n\n— enzimas pectolíticas derivadas de *Aspergillus niger*,\n\n— gelatina alimentar,\n\n— gelatina no estado líquido,\n\n— cola de peixe,\n\n— azoto (nitrogénio),\n\n— bitartarato de potássio,\n\n— caseinato de potássio,\n\n— bissulfito de potássio,\n\n— sorbato de potássio,\n\n— dióxido de silício (gel ou solução coloidal a 30 %),\n\n— ácido sórbico,\n\n— tanino,\n\n— ácido tartárico,\n\n— carbonato de cálcio, contendo, eventualmente, pequenas quantidades do sal duplo de cálcio dos ácidos L-(+)-tartárico e L-(–)-málico,\n\n— sulfato de cálcio, na elaboração de vinhos licorosos,\n\n— polivinilpolipirrolidona (PVPP),\n\n— oxigénio;\n\nb) *Práticas enológicas análogas:*\n\n— ágar-ágar,\n\n— carbonato de amónio,\n\n— fosfato de amónio monobásico,\n\n— granulados de cortiça,\n\n— leite em pó,\n\n— serradura e aparas de carvalho não-calcinadas e não-tratadas,\n\n— carbonato de potássio,\n\n— carragenina,\n\n— celulose derivada de *Aspergillus niger*,\n\n— celulose,\n\n— leveduras autolisadas.\n\n— complexos resultantes da mistura de ferrocianeto de potássio e sulfato ferroso em solução aquosa, eventualmente em combinação com sulfato de cobre e carvão activado.\n\n---"
+  },
+  "66e34d0108284a32": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/7831af9d-e43d-4353-8335-ba04d6d8c820.0018.03/DOC_1#src.E0001)) JO L 179 de 14.7.1999, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2826/2000 (JO L 328 de 23.12.2000, p. 2).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/7831af9d-e43d-4353-8335-ba04d6d8c820.0018.03/DOC_1#src.E0002)) JO L 84 de 27.3.1987, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/7831af9d-e43d-4353-8335-ba04d6d8c820.0018.03/DOC_1#src.E0003)) JO L 176 de 3.7.1984, p. 6. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2839/98 (JO L 354 de 30.12.1998, p. 12).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/7831af9d-e43d-4353-8335-ba04d6d8c820.0018.03/DOC_1#src.E0004)) JO L 185 de 25.7.2000, p. 24. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 491/2001 (JO L 71 de 13.3.2001, p. 3).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/7831af9d-e43d-4353-8335-ba04d6d8c820.0018.03/DOC_1#src.E0008)) JO L 301 de 18.11.2005, p. 16."
+  },
+  "81213b831c4b7fa5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2001R1037 — PT — 01.01.2014 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32001R1037) [REGULAMENTO (CE) N.º 1037/2001 DO CONSELHO](http://publications.europa.eu/resource/celex/32001R1037) [de 22 de Maio de 2001](http://publications.europa.eu/resource/celex/32001R1037) [que autoriza a oferta e o fornecimento para consumo humano directo de certos vinhos importados susceptíveis de terem sido objecto de práticas enológicas não previstas no Regulamento (CE) n.º 1493/1999](http://publications.europa.eu/resource/celex/32001R1037) (JO L 145, 31.5.2001, p.12)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 1308/2013 do Parlamento Europeu e do Conselho de 17 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1308) — L 347 — 671 — 20.12.2013"
+  }
+ }
+}

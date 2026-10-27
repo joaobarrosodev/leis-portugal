@@ -1,0 +1,493 @@
+---
+schema_version: '1.0'
+id: pt:dre:334894:por
+title: Decreto-Lei n.º 78/2010
+short_title: null
+summary: Modifica o processo de instalação, alteração e exercício de uma actividade pecuária, procedendo à segunda alteração
+  ao Decreto-Lei n.º 214/2008, de 10 de Novembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 78/2010
+official_date: null
+publication_date: '2010-06-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 122/2010, Série I de 2010-06-25
+  number: '122'
+  series: I
+  supplement: null
+  pages: 2274 - 2278
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/06/12200/0227402278.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/78/2010/06/25/p/dre/pt/html
+  oj: null
+  dre: '334894'
+  dre_path: /dr/detalhe/decreto-lei/78-2010-334894
+  internal: pt:dre:334894:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2010-334894
+  metadata_url: https://data.dre.pt/eli/dec-lei/78/2010/06/25/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2010-334894
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:13:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a63ea46a5df5bd45e1f8f7501f495ff545b4300a7b31d94ac66f933efa4c2343
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:52Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Controlo Sanitário
+- Exploração Pecuária
+- Licenciamento
+- Pecuária
+- Política Agrícola Comum
+- Prodep
+- Tratamento de Resíduos
+relationships:
+- type: amended_by
+  target: pt:dre:496729:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:277655:por
+  label: "Alterados os arts. 66º e 67º do Dec Lei 214/2008, de 10-Nov, na redacção do presente diploma, pelo DEC LEI.45/2011.25.03.2011.MADRP,\
+    \ DR.IS [60] de 25.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-2011-277655
+  date: '2011-03-25'
+- type: amended_by
+  target: pt:dre:146214:por
+  label: "Alterados os art.s 66º e 67º bem como o anexo IV do Dec Lei 214/2008, de 10-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.107/2011.16.11.2011.MAMAOT, DR.IS [220] de 16.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-2011-146214
+  date: '2011-11-16'
+- type: amended_by
+  target: pt:dre:260886:por
+  label: "Alterados os arts. 66º e 67º e o anexo IV do Dec Lei 214/2008, de 10-nov, na redação do presente diploma, pelo DEC\
+    \ LEI.59/2013.08.05.2013.MAMAOT, DR.IS [88] de 08.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2013-260886
+  date: '2013-05-08'
+- type: amends
+  target: pt:numero:decreto-lei:316/2009
+  label: "Altera, a partir de 30.06.2010, os artigos 3.º, 66.º, 67.º (os dois últimos na redacção do Decreto-Lei n.º 316/2009,\
+    \ de 29 de Outubro), 73.º e 76.º, adita os artigos 68.º-A e 68.º-B, e altera os anexos II, III e IV (os dois últimos anexos\
+    \ na redacção do Decreto-Lei n.º 316/2009, de 29 de Outubro), todos do Decreto-Lei n.º 214/2008, de 10 de Novembro, DR.IS\
+    \ [218] \0\0"
+  source: null
+  date: '2008-11-10'
+- type: cites
+  target: pt:dre:439393:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/214/2008/11/10/p/dre
+- type: cites
+  target: pt:dre:483397:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/316/2009/10/29/p/dre
+- type: repealed_by
+  target: pt:dre:496729:por
+  label: "Revogado o Dec Lei n.º 214/2008, de 10-nov, na redação do presente diploma, pelo DEC LEI.81/2013.14.06.2013.MAMAOT,\
+    \ DR.IS [113] de 14.06.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-2013-496729
+  date: '2013-06-14'
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:13:52Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 78/2010
+
+de 25 de Junho
+
+O [Decreto-Lei n.º 214/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), de 10 de Novembro, alterado pelo [Decreto-Lei n.º 316/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2009-483397), de 29 de Outubro, aprovou o regime de exercício da actividade pecuária (REAP) nas explorações pecuárias, entrepostos e centros de agrupamento, bem como o regime a aplicar às actividades de gestão, por valorização ou eliminação, dos efluentes pecuários, anexas a explorações pecuárias ou em unidades autónomas.
+
+O presente decreto-lei associa três princípios de referência na abordagem comum de licenciamento: (i) o enquadramento das condições de localização das explorações pecuárias e seu relacionamento com instrumentos de gestão territorial; (ii) a definição de regimes de controlo prévio com diferentes graus de exigência em função dos riscos potenciais da actividade, e (iii) a consagração do «balcão único», libertando o produtor pecuário de um conjunto de acções burocráticas e aprofundando o papel da entidade coordenadora do processo de licenciamento.
+
+Refere ainda como essencial normalizar a actividade do sector através do estabelecimento de regras que, por um lado, potenciem o respectivo crescimento económico e, por outro, garantam a protecção da hígio-sanidade e do bem-estar animal, da saúde pública e a protecção do ambiente.
+
+Apesar das virtualidades do actual diploma, enquanto instrumento harmonizador da legislação aplicável ao sector, a experiência colhida demonstra a necessidade de se introduzirem alterações ao regime vigente, por forma a que, para as actividades pecuárias existentes, o processo de reclassificação ou de regularização previsto neste regime possa atingir valores superiores de celeridade e eficiência, indo ao encontro das expectativas dos principais intervenientes neste processo.
+
+Com a presente alteração pretende-se promover a desburocratização, simplificar procedimentos e alargar alguns dos prazos, recaindo, assim, quer nos titulares das explorações pecuárias, quer na Administração, uma responsabilidade acrescida no cumprimento dos objectivos identificados.
+
+Nesta óptica, considera-se estratégico e prioritário identificar os principais constrangimentos que possam obstaculizar a conquista, por parte de titulares de actividades pecuárias existentes, de um título legítimo para o exercício daquela actividade.
+
+Assim, pretende-se que a actualização do cadastro de acordo com as disposições do presente decreto-lei seja a mais célere e rigorosa possível, de modo a que possam ser equacionadas entre as entidades públicas intervenientes as decisões adequadas à especificidade de cada situação, criando condições para a promoção de um desenvolvimento sustentável.
+
+Importa ainda acentuar a oportunidade desta alteração permitir que estas actividades pecuárias possam aceder aos instrumentos de apoio ao investimento previstos no Programa de Desenvolvimento Rural (PRODER), uma vez que a Administração está consciente do esforço que é solicitado aos titulares destas actividades de adaptarem as instalações às novas regras de funcionamento, quer para cumprimento das regras relativas ao bem-estar animal, quer no que diz respeito às directrizes de gestão de efluentes pecuários, no actual contexto económico-social.
+
+Todos estes ajustamentos e aperfeiçoamentos, agora vertidos, em letra de lei, convergem num último objectivo de induzir melhorias no funcionamento da actividade pecuária e, por essa via, na qualidade da produção pecuária nacional.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Foi promovida a audição à Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Alteração ao [Decreto-Lei n.º 214/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), de 10 de Novembro
+
+Os artigos 3.º, 66.º, 67.º, 73.º e 76.º do [Decreto-Lei n.º 214/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), de 10 de Novembro, alterado pelo [Decreto-Lei n.º 316/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2009-483397), de 29 de Outubro, passam a ter a seguinte redacção:
+
+«Artigo 3.º
+
+[...]
+
+...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) ...
+
+j) ...
+
+l) ...
+
+m) ...
+
+n) ...
+
+o) ...
+
+p) ...
+
+q) ...
+
+r) ...
+
+s) ...
+
+t) ...
+
+u) ...
+
+v) ...
+
+x) ...
+
+z) ...
+
+aa) ...
+
+bb) «Pessoa responsável» a pessoa singular que na exploração pecuária, entreposto ou centro de agrupamento detido por pessoa colectiva é o responsável directo pela gestão da exploração, entreposto ou centro de agrupamento pela implementação das normas de licenciamento, sanitárias, de bem-estar animal (BEA) e de protecção do ambiente;
+
+cc)...
+
+dd) ...
+
+ee) «Produtor» qualquer pessoa singular ou colectiva que exerce uma actividade pecuária e se responsabiliza pela mesma;
+
+ff) ...
+
+gg) ...
+
+hh) ...
+
+ii) ...
+
+jj) «Titular» a pessoa singular ou colectiva habilitada ao exercício de uma actividade pecuária, ou actividade complementar às actividades pecuárias, por um título bastante, nos termos do n.º 2 do artigo 28.º, do n.º 1 do artigo 36.º ou do n.º 5 do artigo 38.º;
+
+ll) ...
+
+Artigo 66.º
+
+[...]
+
+1 - As actividades pecuárias já licenciadas ou autorizadas ao abrigo da legislação anterior devem promover junto da entidade coordenadora, até 31 de Março de 2011, a actualização dos registos das explorações e solicitar a reclassificação das suas actividades pecuárias, com a actualização do cadastro de acordo com as disposições do presente decreto-lei e das respectivas portarias.
+
+2 - De forma complementar, as actividades pecuárias já licenciadas ou autorizadas devem promover as necessárias adaptações até ao prazo fixado para o seu reexame, tendo em consideração os prazos previstos no artigo 45.º, após a emissão da licença ou título da actividade pecuária prevista no presente decreto-lei, sem prejuízo de assegurar a adaptação da actividade pecuária ao cumprimento das normas regulamentares e de gestão dos efluentes pecuários no prazo de 18 meses a contar do termo do prazo estabelecido no número anterior.
+
+3 - Tendo em vista a adaptação ao cumprimento das normas de gestão dos efluentes pecuários, referida no número anterior, as actividades pecuárias devem obrigatoriamente apresentar o Plano de Gestão de Efluentes Pecuários (PGEP), nos termos da Portaria n.º 631/2009, de 9 de Junho, no prazo de seis meses a contar do termo do prazo estabelecido no n.º 1 do presente artigo.
+
+4 - (Anterior n.º 3.)
+
+5 - (Anterior n.º 4.)
+
+6 - (Anterior n.º 5.)
+
+Artigo 67.º
+
+[...]
+
+1 - ...
+
+2 - O titular de uma actividade pecuária existente à data da aplicação do presente decreto-lei que não possua título válido ou actualizado, face às condições actuais da actividade, tendo em consideração a capacidade, o sistema de exploração ou o tipo de produção, deve apresentar, até 31 de Dezembro de 2010, pedido de regularização da actividade pecuária.
+
+3 - ...
+
+4 - ...
+
+Artigo 73.º
+
+[...]
+
+1 - Os titulares de actividades pecuárias da classe 2, após os procedimentos previstos nos n.os 2 a 4 do artigo 67.º, devem, no prazo de 18 meses a contar do termo do prazo estabelecido no n.º 2 do mesmo artigo, promover a adaptação das suas instalações e estruturas complementares à actividade pecuária, de acordo com o estipulado no presente decreto-lei e nas normas regulamentares de cada actividade, assegurando, nomeadamente, o cumprimento das normas técnicas relativas à gestão e valorização dos efluentes pecuários.
+
+2 - Tendo em vista o cumprimento das normas de gestão dos efluentes pecuários, as actividades pecuárias das classes 1 e 2 abrangidas pelo pedido de regularização da actividade pecuária devem obrigatoriamente apresentar o Plano de Gestão de Efluentes Pecuários (PGEP), nos termos da Portaria n.º 631/2009, de 9 de Junho, no prazo de seis meses a contar do termo do prazo estabelecido no n.º 2 do artigo 67.º
+
+3 - (Anterior n.º 2.)
+
+4 - (Anterior n.º 3.)
+
+5 - (Anterior n.º 4.)
+
+Artigo 76.º
+
+Processos em curso
+
+1 - Aos processos que se encontrem em curso aplicam-se as normas do presente diploma com as especificações previstas nos números seguintes.
+
+2 - Para efeitos de conclusão do processo de instalação, de acordo com o presente decreto-lei, devem ser solicitados, pela entidade coordenadora ao requerente, os elementos adicionais que sejam necessários à adequação do processo às normas vigentes, sem prejuízo de serem aproveitados os actos praticados ao abrigo das normas objecto de revogação do artigo 80.º do [Decreto-Lei n.º 214/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), de 10 de Novembro.
+
+3 - Todos os actos praticados no âmbito da instrução dos pedidos de instalação, que tenham sido realizados durante a vigência das normas mencionadas no número anterior, e caso cumpram os requisitos previstos naquelas, consideram-se correctamente instruídos e os respectivos processos passíveis de licenciamento pela entidade competente prevista no presente diploma.»
+
+###### Artigo 2.º — Aditamento ao [Decreto-Lei n.º 214/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), de 10 de Novembro
+
+São aditados ao [Decreto-Lei n.º 214/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), de 10 de Novembro, alterado pelo [Decreto-Lei n.º 316/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2009-483397), de 29 de Outubro, os artigos 68.º-A e 68.º-B, com a seguinte redacção:
+
+«Artigo 68.º-A
+
+Medidas administrativas
+
+O titular das actividades pecuárias previstas no n.º 1 do artigo 67.º que não apresente o respectivo pedido de regularização das mesmas no prazo previsto no n.º 2 daquele artigo perde o direito ao regime excepcional de regularização consagrado no presente decreto-lei, considerando-se, para todos os efeitos legais, como uma nova actividade pecuária, devendo para tal iniciar a correspondente tramitação.
+
+Artigo 68.º-B
+
+Articulação com outros regimes
+
+O disposto nos artigos 66.º a 68.º, em relação ao período transitório, ao regime excepcional de regularização e ao título para o exercício da actividade pecuária, não prejudica o cumprimento da legislação ambiental em vigor, nomeadamente a necessidade de obtenção de quaisquer títulos, autorizações ou licenças, nos termos e nos prazos estabelecidos na referida legislação ambiental.»
+
+###### Artigo 3.º — Alteração aos anexos II, III e IV ao [Decreto-Lei n.º 214/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393)
+
+Os anexos II, III e IV do [Decreto-Lei n.º 214/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), de 10 de Novembro, alterado pelo [Decreto-Lei n.º 316/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2009-483397), de 29 de Outubro, são alterados de acordo com o anexo ao presente decreto-lei, que dele faz parte integrante.
+
+Visto e aprovado em Conselho de Ministros de 22 de Abril de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Fernando Medina Maciel Almeida Correia - António Manuel Soares Serrano - Ana Maria Teodoro Jorge.
+
+Promulgado em 14 de Junho de 2010.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 15 de Junho de 2010.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## ANEXO — (a que se refere o artigo 3.º)
+
+«ANEXO II
+
+[...]
+
+1.º
+
+[...]
+
+2.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+TABELA N.º 1
+
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/12200/0227402278.pdf)
+
+ANEXO III
+
+[...]
+
+SECÇÃO I
+
+[...]
+
+SECÇÃO II
+
+[...]
+
+SECÇÃO III
+
+[...]
+
+SECÇÃO IV
+
+[...]
+
+A - Actividades pecuárias da classe 1
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+A) [...]
+
+1) - ...
+
+2) - ...
+
+3) - ...
+
+4) - ...
+
+B) Memória descritiva contemplando:
+
+Descrição detalhada da actividade pecuária com indicação dos efectivos e ou núcleos de produção presentes e das capacidades instaladas;
+
+Referência ao sistema de informação parcelar (SIP) que caracterize a actividade pecuária bem como os núcleos de produção, se for o caso, identificando onde se localizam as instalações pecuárias bem como a caracterização das áreas e orientações agrícolas associadas à produção animal e que justifiquem o plano de gestão de efluentes, quando aplicável;
+
+Caracterização do plano de produção desenvolvida;
+
+Descrição dos sistemas alimentares e dos alimentos, matérias-primas e subsidiárias utilizadas, com indicação dos respectivos consumos anuais e capacidade de armazenagem, para cada uma delas;
+
+Indicação das produções anuais;
+
+Indicação dos tipos de energia utilizada explicitando os respectivos consumos (mensal ou anual);
+
+Indicação dos tipos de energia produzida no estabelecimento, se for o caso, explicitando a respectiva produção;
+
+Listagem das máquinas e equipamentos instalados (quantidade e designação);
+
+Indicação do número de trabalhadores e do regime de laboração;
+
+Descrição das instalações de carácter social, sanitários, lavabos e balneários e de primeiros socorros;
+
+Indicação das principais fontes de emissão de ruído e cheiros e sistemas de segurança das máquinas e equipamentos instalados;
+
+Indicação da origem da água utilizada/consumida, respectivos caudais e sistemas de tratamento associados, evidenciando a sua utilização racional;
+
+Identificação das fontes de emissão de efluentes pecuários e de outros efluentes das actividades pecuárias e geradoras de resíduos;
+
+C) [...]
+
+...
+
+B - Actividades enquadradas na classe 2
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+A) [...]
+
+...
+
+B) Memória descritiva contemplando:
+
+Descrição detalhada da actividade pecuária com indicação dos efectivos e ou núcleos de produção existentes e das capacidades instaladas e dos efectivos existentes;
+
+Referência do sistema de informação parcelar (SIP) que permita identificar geograficamente a localização da actividade pecuária, bem como dos núcleos de produção, se for o caso, identificando as instalações pecuárias, bem como a caracterização das áreas e orientações agrícolas associadas à produção animal e que justifiquem nomeadamente o sistema extensivo ou o plano de gestão de efluentes pecuários, quando aplicável;
+
+Caracterização do plano de produção e das produções esperadas;
+
+Descrição dos sistemas alimentares e dos alimentos, matérias-primas e subsidiárias utilizadas, com indicação dos respectivos consumos anuais e capacidade de armazenagem, para cada uma delas;
+
+Listagem das máquinas e equipamentos instalados (quando aplicável);
+
+Indicação do número de trabalhadores e do regime de laboração;
+
+Descrição das instalações de carácter social, sanitários (quando aplicável);
+
+Indicação da origem da água utilizada/consumida, respectivos caudais e sistemas de tratamento;
+
+C) [...]
+
+...
+
+6) ...
+
+7) ...
+
+8) ...
+
+ANEXO IV
+
+[...]
+
+1.º
+
+[...]
+
+2.º
+
+[...]
+
+3.º
+
+[...]
+
+4.º
+
+[...]
+
+5.º
+
+[...]
+
+1 - ...
+
+2 - As actividades pecuárias existentes que apresentem o pedido de regularização, o pedido de alteração da licença ou do título de exploração com a aplicação do regime de exercício da actividade pecuária previsto no presente decreto-lei até 31 de Outubro de 2010 têm uma redução de 50 % no valor das taxas previstas no presente decreto-lei.»

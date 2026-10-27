@@ -1,0 +1,351 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:105347310:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-107096172",
+ "dre_path": "/dr/detalhe/portaria/313-2016-105347310",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-12-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107092089",
+    "107092090",
+    "107092091",
+    "107092092",
+    "107092093",
+    "107092094",
+    "107092095",
+    "107092096",
+    "107092098",
+    "107092099",
+    "107092100",
+    "107092101",
+    "107092102"
+   ]
+  },
+  {
+   "date": "2017-05-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107094687:por",
+     "title": "Portaria n.º 177/2017",
+     "published": "2017-05-29",
+     "dre_path": "/dr/detalhe/portaria/177-2017-107094687"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I",
+    "Altera Anexo II",
+    "Altera Anexo III",
+    "Altera Anexo IV"
+   ],
+   "fragments": [
+    "107092089",
+    "107092090",
+    "107092091",
+    "107092092",
+    "107092093",
+    "107092094",
+    "107092095",
+    "107092096",
+    "107092097",
+    "107092112",
+    "107092113",
+    "107092114",
+    "107092115",
+    "107092102"
+   ]
+  },
+  {
+   "date": "2025-11-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:944098803:por",
+     "title": "Portaria n.º 376/2025/1",
+     "published": "2025-11-04",
+     "dre_path": "/dr/detalhe/portaria/376-2025-944098803"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Anexo I",
+    "Altera Anexo II",
+    "Altera Anexo III",
+    "Altera Anexo IV"
+   ],
+   "fragments": [
+    "107092089",
+    "944414999",
+    "944415000",
+    "944415001",
+    "944415002",
+    "944415003",
+    "107092095",
+    "107092096",
+    "107092097",
+    "944415004",
+    "944415005",
+    "944415006",
+    "944415007",
+    "107092102"
+   ]
+  }
+ ],
+ "fragments": {
+  "107092089": {
+   "fragment_id": "107096173",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 313/2016\n\nde 12 de dezembro\n\nO Decreto-Lei n.º 382/99, de 22 de setembro, estabelece as normas e os critérios para a delimitação de perímetros de proteção de captações de águas subterrâneas destinadas ao abastecimento público, com a finalidade de proteger a qualidade das águas dessas captações.\n\nOs perímetros de proteção visam prevenir, reduzir e controlar a poluição das águas subterrâneas, nomeadamente por infiltração de águas pluviais lixiviantes e de águas excedentes de rega e de lavagens, bem como potenciar os processos naturais de diluição e de autodepuração, prevenir, reduzir e controlar as descargas acidentais de poluentes e, ainda, proporcionar a criação de sistemas de aviso e alerta para a proteção dos sistemas de abastecimento de água proveniente de captações subterrâneas, em situações de poluição acidental destas águas.\n\nTodas as captações de água subterrânea destinadas ao abastecimento público de água para consumo humano, e a delimitação dos respetivos perímetros de proteção, estão sujeitas às regras estabelecidas no mencionado Decreto-Lei n.º 382/99, de 22 de setembro, bem como ao disposto no artigo 37.º da Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de dezembro, e na Portaria n.º 702/2009, de 6 de julho.\n\nNa sequência de um estudo apresentado pela empresa Águas do Centro Litoral, S. A., a Agência Portuguesa do Ambiente, I. P., elaborou, ao abrigo do n.º 2 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de setembro, uma proposta de delimitação e respetivos condicionamentos do perímetro de proteção das captações de água subterrânea do polo de captação da Boavista, em Coimbra, destinadas ao abastecimento público de água.\n\nAssim, nos termos do n.º 1 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de setembro, na redação conferida pelo Decreto-Lei n.º 226-A/2007, de 31 de maio, manda o Governo, pelo Secretário de Estado do Ambiente, no uso das competências delegadas pelo Ministro do Ambiente, através da subalínea ii) da alínea d) do n.º 2 do Despacho n.º 489/2016, de 12 de janeiro, publicado no Diário da República, 2.ª série, n.º 7, de 12 de janeiro de 2016, o seguinte:"
+  },
+  "107092090": {
+   "fragment_id": "107096174",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - É aprovada a delimitação do perímetro de proteção das captações de água subterrânea designadas por PDH1, PDH2 e PDH3, localizadas no polo de captação da Boavista, em Coimbra, que captam na massa de água Aluviões do Mondego (PT-O6).\n\n2 - As coordenadas das captações referidas no número anterior constam do quadro do anexo I à presente portaria, da qual faz parte integrante."
+  },
+  "107092091": {
+   "fragment_id": "107099775",
+   "type": 11,
+   "heading": "Artigo 2.º — Zona de proteção imediata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Zona de proteção imediata\n\n1 - A zona de proteção imediata respeitante ao perímetro de proteção das captações mencionadas no n.º 1 do artigo 1.º corresponde à área da superfície de terreno definida pelo polígono que resulta da união dos vértices indicados nos quadros constantes do anexo II da presente portaria, da qual faz parte integrante.\n\n2 - É interdita qualquer instalação ou atividade na zona de proteção imediata a que se refere o número anterior, com exceção das que têm como objetivo a conservação, manutenção e melhor exploração das captações.\n\n3 - O terreno abrangido pela zona de proteção imediata deve ser vedado e mantido limpo de quaisquer resíduos, produtos ou líquidos que possam provocar infiltração de substâncias indesejáveis para a qualidade da água das captações, nos termos do n.º 1 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro."
+  },
+  "107092092": {
+   "fragment_id": "107099776",
+   "type": 11,
+   "heading": "Artigo 3.º — Zona de proteção intermédia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Zona de proteção intermédia\n\n1 - A zona de proteção intermédia respeitante ao perímetro de proteção das captações mencionadas no n.º 1 do artigo 1.º corresponde à área da superfície do terreno delimitada pelo polígono que resulta da união dos vértices indicados nos quadros constantes do anexo III à presente portaria, da qual faz parte integrante.\n\n2 - Na zona de proteção intermédia a que se refere o número anterior são interditas, nos termos dos n.os 2 e 3 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, as seguintes atividades e instalações:\n\na) Infraestruturas aeronáuticas;\n\nb) Oficinas e estações de serviço de automóveis;\n\nc) Depósitos de materiais radioativos, de hidrocarbonetos e de resíduos perigosos;\n\nd) Postos de abastecimento e áreas de serviço de combustíveis;\n\ne) Transporte de hidrocarbonetos, de materiais radioativos ou de outras substâncias perigosas;\n\nf) Canalizações de produtos tóxicos;\n\ng) Lixeiras e aterros sanitários, incluindo quaisquer tipos de aterros para resíduos perigosos, não perigosos ou inertes;\n\nh) Instalação de estações de tratamento de águas residuais;\n\ni) Instalação de sistemas autónomos de águas residuais domésticas, tipo fossa, em zonas onde estejam disponíveis sistemas públicos de saneamento de águas residuais, bem como a rejeição e aplicação de efluentes no solo ou na água;\n\nj) Lagos e quaisquer obras ou escavações destinadas à extração e armazenamento de água ou de quaisquer outras substâncias suscetíveis de se infiltrarem, no caso de não serem impermeabilizadas;\n\nk) Realização de quaisquer sondagens para pesquisa e captação de água subterrânea, que não se destinem ao abastecimento público, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desativadas;\n\nl) Cemitérios;\n\nm) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas;\n\nn) Depósitos de sucata, devendo nos depósitos existentes ser assegurada a impermeabilização do solo, a recolha e o tratamento das águas de escorrência nas zonas de armazenamento;\n\no) Instalação de unidades industriais;\n\np) Parques de campismo e espaços destinados a práticas desportivas;\n\nq) Construção de caminhos-de-ferro;\n\nr) Pastorícia, usos pecuários e rejeição de efluentes na água ou no solo, incluindo o armazenamento de estrumes ou produtos potencialmente contaminantes.\n\n3 - Na zona de proteção intermédia a que se refere o n.º 1, são condicionadas, nos termos do n.º 2 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, ficando sujeitas a parecer prévio vinculativo da Agência Portuguesa do Ambiente, I. P., as seguintes atividades e instalações:\n\na) Construção de edificações, que podem ser permitidas desde que seja assegurada a ligação à rede de saneamento municipal ou, na sua impossibilidade, a instalação de um sistema autónomo doméstico de armazenamento devidamente estanque e sem qualquer rejeição para a água ou para o solo;\n\nb) Estradas podem ser permitidas desde que sejam tomadas as medidas necessárias para evitar a contaminação do solo ou da água;\n\nc) Instalação de coletores de águas residuais, que podem ser permitidos desde que respeitem critérios rigorosos de estanqueidade, devendo estar sujeitos a verificações periódicas do seu estado de conservação;\n\nd) Instalação de sistemas autónomos de águas residuais domésticas, tipo fossa, que podem ser permitidos caso respeitem rigorosos critérios de estanqueidade, devendo os sistemas existentes ser substituídos ou reconvertidos em sistemas estanques e ser desativados logo que estejam disponíveis sistemas públicos de saneamento de águas residuais nestas zonas;\n\ne) Usos agrícolas, que podem ser permitidos desde que não causem poluição das águas subterrâneas, nomeadamente através da aplicação inadequada de fertilizantes e pesticidas móveis e persistentes na água ou no solo, ou que possam formar substâncias tóxicas, persistentes e passíveis de bioacumulação, devendo ser cumpridas as regras do Código das Boas Práticas Agrícolas."
+  },
+  "107092093": {
+   "fragment_id": "107099777",
+   "type": 11,
+   "heading": "Artigo 4.º — Zona de proteção alargada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Zona de proteção alargada\n\n1 - A zona de proteção alargada respeitante ao perímetro de proteção das captações mencionadas no n.º 1 do artigo 1.º corresponde à área da superfície do terreno delimitada pelo polígono que resulta da união dos vértices indicados nos quadros constantes no anexo IV à presente portaria, da qual faz parte integrante.\n\n2 - Na zona de proteção alargada referida no número anterior são interditas, nos termos dos n.os 4 e 5 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, as seguintes atividades e instalações:\n\na) Transporte de hidrocarbonetos, de materiais radioativos e de outras substâncias perigosas;\n\nb) Depósitos de materiais radioativos, de hidrocarbonetos e de resíduos perigosos;\n\nc) Canalizações de produtos tóxicos;\n\nd) Refinarias e indústrias químicas;\n\ne) Depósitos de sucata, devendo nos depósitos existentes ser assegurada a impermeabilização do solo, a recolha e ou tratamento das águas de escorrência nas zonas de armazenamento;\n\nf) Lixeiras e aterros sanitários, incluindo quaisquer tipos de aterros para resíduos perigosos, não perigosos ou inertes;\n\ng) Cemitérios;\n\nh) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas;\n\ni) Infraestruturas aeronáuticas;\n\nj) Oficinas, estações de serviço de automóveis, postos de abastecimento e áreas de serviço de combustíveis.\n\n3 - Na zona de proteção alargada a que se refere o n.º 1, são condicionadas, nos termos do n.º 4 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, ficando sujeitas a parecer prévio vinculativo da Agência Portuguesa do Ambiente, I. P., as seguintes atividades e instalações:\n\na) Instalação de coletores de águas residuais, que podem ser permitidos desde que respeitem critérios rigorosos de estanqueidade, devendo estar sujeitos a verificações periódicas do seu estado de conservação;\n\nb) Instalação de estações de tratamento de águas residuais urbanas ou industriais, que é permitida desde que as águas residuais sejam sujeitas a tratamento compatível com os objetivos fixados para o meio recetor, não podendo prejudicar a qualidade da água para abastecimento público;\n\nc) Instalação de sistemas autónomos de águas residuais domésticas, tipo fossa, que podem ser permitidas caso respeitem rigorosos critérios de estanqueidade, devendo os sistemas existentes ser substituídos ou reconvertidos em sistemas estanques e ser desativadas logo que estejam disponíveis sistemas públicos de saneamento de águas residuais nestas zonas;\n\nd) Aplicação de fertilizantes e pesticidas móveis e persistentes na água ou no solo, ou que possam formar substâncias tóxicas, persistentes e passíveis de bioacumulação, que pode ser permitida desde que não cause poluição das águas subterrâneas, devendo ser cumpridas as regras do Código das Boas Práticas Agrícolas;\n\ne) Lagos e quaisquer obras ou escavações destinadas à recolha e armazenamento de água ou quaisquer substâncias suscetíveis de se infiltrarem, que podem ser permitidos desde que sejam devidamente impermeabilizados, e a sua profundidade não intersete o nível freático, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desativadas;\n\nf) Realização de quaisquer sondagens para pesquisa e captação de água subterrânea, ficando a sua execução sujeita à obtenção de título, nos termos do Decreto-Lei n.º 226-A/2007, de 31 de maio."
+  },
+  "107092094": {
+   "fragment_id": "107099778",
+   "type": 11,
+   "heading": "Artigo 5.º — Representação das zonas de proteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Representação das zonas de proteção\n\nAs zonas de proteção respeitantes aos perímetros de proteção mencionados no artigo 1.º encontram-se representadas no anexo V à presente portaria, da qual faz parte integrante."
+  },
+  "107092095": {
+   "fragment_id": "107099779",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma revogatória\n\nÉ revogada a Portaria n.º 924/2009, de 30 de setembro."
+  },
+  "107092096": {
+   "fragment_id": "107099780",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "107092098": {
+   "fragment_id": "107099782",
+   "type": 14,
+   "heading": "Anexo I — Coordenadas das captações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Coordenadas das captações\n\n(a que se refere o n.º 2 do artigo 1.º)\n\n(ver documento original)"
+  },
+  "107092099": {
+   "fragment_id": "107099783",
+   "type": 14,
+   "heading": "Anexo II — Zona de proteção imediata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Zona de proteção imediata\n\n(a que se refere o n.º 1 do artigo 2.º)\n\nCaptação PDH1\n\n(ver documento original)\n\nCaptação PDH2\n\n(ver documento original)\n\nCaptação PDH3\n\n(ver documento original)"
+  },
+  "107092100": {
+   "fragment_id": "107099784",
+   "type": 14,
+   "heading": "Anexo III — Zona de proteção intermédia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Zona de proteção intermédia\n\n(a que se refere o n.º 1 do artigo 3.º)\n\nCaptações PDH1e PDH2\n\n(ver documento original)\n\nCaptação PDH3\n\n(ver documento original)"
+  },
+  "107092101": {
+   "fragment_id": "107099785",
+   "type": 14,
+   "heading": "Anexo IV — Zona de proteção alargada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Zona de proteção alargada\n\n(a que se refere o n.º 1 do artigo 4.º)\n\nCaptações PDH1, PDH2 e PDH3\n\n(ver documento original)\n\nNota. - As coordenadas das captações e dos vértices encontram-se no sistema de coordenadas EPSG 3763 (PT - TM06/ETRS89, origem no ponto central)."
+  },
+  "107092102": {
+   "fragment_id": "107099786",
+   "type": 14,
+   "heading": "Anexo V — Planta de localização das zonas de proteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — Planta de localização das zonas de proteção\n\n(a que se refere o artigo 5.º)\n\nExtrato da Carta Militar de Portugal - 1:25000 (IGeoE)\n\n(ver documento original)"
+  },
+  "107092097": {
+   "fragment_id": "107099781",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Ambiente, Carlos Manuel Martins, em 25 de novembro de 2016."
+  },
+  "107092112": {
+   "fragment_id": "107099782",
+   "type": 14,
+   "heading": "Anexo I — Coordenadas das captações",
+   "in_force_from": "2017-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 177/2017 - Diário da República n.º 103/2017, Série I de 2017-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/177-2017-107094687), em vigor a partir de 2017-05-30, produz efeitos a partir de 2016-12-13"
+   ],
+   "markdown": "## Anexo I — Coordenadas das captações\n\n(a que se refere o n.º 2 do artigo 1.º)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 177/2017 - Diário da República n.º 103/2017, Série I de 2017-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/177-2017-107094687), em vigor a partir de 2017-05-30, produz efeitos a partir de 2016-12-13"
+  },
+  "107092113": {
+   "fragment_id": "107099783",
+   "type": 14,
+   "heading": "Anexo II — Zona de proteção imediata",
+   "in_force_from": "2017-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 177/2017 - Diário da República n.º 103/2017, Série I de 2017-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/177-2017-107094687), em vigor a partir de 2017-05-30, produz efeitos a partir de 2016-12-13"
+   ],
+   "markdown": "## Anexo II — Zona de proteção imediata\n\n(a que se refere o n.º 1 do artigo 2.º)\n\nCaptação PDH1\n\n(ver documento original)\n\nCaptação PDH2\n\n(ver documento original)\n\nCaptação PDH3\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 177/2017 - Diário da República n.º 103/2017, Série I de 2017-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/177-2017-107094687), em vigor a partir de 2017-05-30, produz efeitos a partir de 2016-12-13"
+  },
+  "107092114": {
+   "fragment_id": "107099784",
+   "type": 14,
+   "heading": "Anexo III — Zona de proteção intermédia",
+   "in_force_from": "2017-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 177/2017 - Diário da República n.º 103/2017, Série I de 2017-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/177-2017-107094687), em vigor a partir de 2017-05-30, produz efeitos a partir de 2016-12-13"
+   ],
+   "markdown": "## Anexo III — Zona de proteção intermédia\n\n(a que se refere o n.º 1 do artigo 3.º)\n\nCaptações PDH1e PDH2\n\n(ver documento original)\n\nCaptação PDH3\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 177/2017 - Diário da República n.º 103/2017, Série I de 2017-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/177-2017-107094687), em vigor a partir de 2017-05-30, produz efeitos a partir de 2016-12-13"
+  },
+  "107092115": {
+   "fragment_id": "107099785",
+   "type": 14,
+   "heading": "Anexo IV — Zona de proteção alargada",
+   "in_force_from": "2017-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 177/2017 - Diário da República n.º 103/2017, Série I de 2017-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/177-2017-107094687), em vigor a partir de 2017-05-30, produz efeitos a partir de 2016-12-13"
+   ],
+   "markdown": "## Anexo IV — Zona de proteção alargada\n\n(a que se refere o n.º 1 do artigo 4.º)\n\nCaptações PDH1, PDH2 e PDH3\n\n(ver documento original)\n\nNota. - As coordenadas das captações e dos vértices encontram-se no sistema de coordenadas EPSG 3763 (PT - TM06/ETRS89, origem no ponto central).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 177/2017 - Diário da República n.º 103/2017, Série I de 2017-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/177-2017-107094687), em vigor a partir de 2017-05-30, produz efeitos a partir de 2016-12-13"
+  },
+  "944414999": {
+   "fragment_id": "107096174",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2025-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 376/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/376-2025-944098803), em vigor a partir de 2025-11-05"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovada a delimitação dos perímetros de proteção das captações de águas subterrâneas designadas por PDH1 e PDH2, localizadas no polo de captação da Boavista, em Coimbra, que captam na massa de água subterrânea Aluviões do Mondego (PT04O6_C2).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 376/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/376-2025-944098803), em vigor a partir de 2025-11-05"
+  },
+  "944415000": {
+   "fragment_id": "107099775",
+   "type": 11,
+   "heading": "Artigo 2.º — Zona de proteção imediata",
+   "in_force_from": "2025-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 376/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/376-2025-944098803), em vigor a partir de 2025-11-05"
+   ],
+   "markdown": "###### Artigo 2.º — Zona de proteção imediata\n\n1 - As zonas de proteção imediata respeitantes aos perímetros de proteção das captações mencionadas no artigo 1.º correspondem às áreas da superfície do terreno definidas pelo círculo com o raio de 40 metros e com centro nos pontos cujas coordenadas são apresentadas no quadro constante do anexo i da presente portaria, que dela faz parte.\n\n2 - É interdita qualquer instalação ou atividade na zona de proteção imediata a que se refere o número anterior, com exceção das que têm como objetivo a conservação, manutenção e melhor exploração das captações.\n\n3 - O terreno abrangido pela zona de proteção imediata deve ser vedado e mantido limpo de quaisquer resíduos, produtos ou líquidos que possam provocar infiltração de substâncias indesejáveis para a qualidade da água das captações, nos termos do n.º 1 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 376/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/376-2025-944098803), em vigor a partir de 2025-11-05"
+  },
+  "944415001": {
+   "fragment_id": "107099776",
+   "type": 11,
+   "heading": "Artigo 3.º — Zona de proteção intermédia",
+   "in_force_from": "2025-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 376/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/376-2025-944098803), em vigor a partir de 2025-11-05"
+   ],
+   "markdown": "###### Artigo 3.º — Zona de proteção intermédia\n\n1 - A zona de proteção intermédia respeitante aos perímetros de proteção das captações mencionadas no artigo 1.º corresponde à área da superfície do terreno delimitada através de polígono que resulta da união dos vértices cujas coordenadas são indicadas no quadro constante do anexo ii da presente portaria, da qual faz parte integrante.\n\n2 - Na zona de proteção intermédia a que se refere o número anterior são interditas, nos termos dos n.os 2 e 3 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, as seguintes atividades e instalações:\n\na) Infraestruturas aeronáuticas;\n\nb) Oficinas e estações de serviço de automóveis;\n\nc) Depósitos de materiais radioativos, de hidrocarbonetos e de resíduos perigosos;\n\nd) Postos de abastecimento e áreas de serviço de combustíveis;\n\ne) Transporte de hidrocarbonetos, de materiais radioativos ou de outras substâncias perigosas;\n\nf) Canalizações de produtos tóxicos;\n\ng) Lixeiras e aterros sanitários, incluindo quaisquer tipos de aterros para resíduos perigosos, não perigosos ou inertes;\n\nh) Instalação de estações de tratamento de águas residuais;\n\ni) Instalação de sistemas autónomos de águas residuais domésticas, tipo fossa, em zonas onde estejam disponíveis sistemas públicos de saneamento de águas residuais, bem como a rejeição e aplicação de efluentes no solo ou na água;\n\nj) Lagos e quaisquer obras ou escavações destinadas à extração e armazenamento de água ou de quaisquer outras substâncias suscetíveis de se infiltrarem, no caso de não serem impermeabilizadas;\n\nk) Realização de quaisquer sondagens para pesquisa e captação de água subterrânea, que não se destinem ao abastecimento público, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desativadas;\n\nl) Cemitérios;\n\nm) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas;\n\nn) Depósitos de sucata, devendo nos depósitos existentes ser assegurada a impermeabilização do solo, a recolha e o tratamento das águas de escorrência nas zonas de armazenamento;\n\no) Instalação de unidades industriais;\n\np) Parques de campismo e espaços destinados a práticas desportivas;\n\nq) Construção de caminhos-de-ferro;\n\nr) Pastorícia, usos pecuários e rejeição de efluentes na água ou no solo, incluindo o armazenamento de estrumes ou produtos potencialmente contaminantes.\n\n3 - Na zona de proteção intermédia a que se refere o n.º 1, são condicionadas, nos termos do n.º 2 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, ficando sujeitas a parecer prévio vinculativo da Agência Portuguesa do Ambiente, I. P., as seguintes atividades e instalações:\n\na) Construção de edificações, que podem ser permitidas desde que seja assegurada a ligação à rede de saneamento municipal ou, na sua impossibilidade, a instalação de um sistema autónomo doméstico de armazenamento devidamente estanque e sem qualquer rejeição para a água ou para o solo;\n\nb) Estradas podem ser permitidas desde que sejam tomadas as medidas necessárias para evitar a contaminação do solo ou da água;\n\nc) Instalação de coletores de águas residuais, que podem ser permitidos desde que respeitem critérios rigorosos de estanqueidade, devendo estar sujeitos a verificações periódicas do seu estado de conservação;\n\nd) Instalação de sistemas autónomos de águas residuais domésticas, tipo fossa, que podem ser permitidos caso respeitem rigorosos critérios de estanqueidade, devendo os sistemas existentes ser substituídos ou reconvertidos em sistemas estanques e ser desativados logo que estejam disponíveis sistemas públicos de saneamento de águas residuais nestas zonas;\n\ne) Usos agrícolas, que podem ser permitidos desde que não causem poluição das águas subterrâneas, nomeadamente através da aplicação inadequada de fertilizantes e pesticidas móveis e persistentes na água ou no solo, ou que possam formar substâncias tóxicas, persistentes e passíveis de bioacumulação, devendo ser cumpridas as regras do Código das Boas Práticas Agrícolas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 376/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/376-2025-944098803), em vigor a partir de 2025-11-05"
+  },
+  "944415002": {
+   "fragment_id": "107099777",
+   "type": 11,
+   "heading": "Artigo 4.º — Zona de proteção alargada",
+   "in_force_from": "2025-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 376/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/376-2025-944098803), em vigor a partir de 2025-11-05"
+   ],
+   "markdown": "###### Artigo 4.º — Zona de proteção alargada\n\n1 - A zona de proteção alargada respeitante aos perímetros de proteção das captações mencionadas no artigo 1.º corresponde à área da superfície do terreno delimitada através de polígono que resulta da união dos vértices cujas coordenadas são indicadas no quadro constante do anexo iii da presente portaria, da qual faz parte integrante.\n\n2 - Na zona de proteção alargada referida no número anterior são interditas, nos termos dos n.os 4 e 5 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, as seguintes atividades e instalações:\n\na) Transporte de hidrocarbonetos, de materiais radioativos e de outras substâncias perigosas;\n\nb) Depósitos de materiais radioativos, de hidrocarbonetos e de resíduos perigosos;\n\nc) Canalizações de produtos tóxicos;\n\nd) Refinarias e indústrias químicas;\n\ne) Depósitos de sucata, devendo nos depósitos existentes ser assegurada a impermeabilização do solo, a recolha e ou tratamento das águas de escorrência nas zonas de armazenamento;\n\nf) Lixeiras e aterros sanitários, incluindo quaisquer tipos de aterros para resíduos perigosos, não perigosos ou inertes;\n\ng) Cemitérios;\n\nh) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas;\n\ni) Infraestruturas aeronáuticas;\n\nj) Oficinas, estações de serviço de automóveis, postos de abastecimento e áreas de serviço de combustíveis.\n\n3 - Na zona de proteção alargada a que se refere o n.º 1, são condicionadas, nos termos do n.º 4 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, ficando sujeitas a parecer prévio vinculativo da Agência Portuguesa do Ambiente, I. P., as seguintes atividades e instalações:\n\na) Instalação de coletores de águas residuais, que podem ser permitidos desde que respeitem critérios rigorosos de estanqueidade, devendo estar sujeitos a verificações periódicas do seu estado de conservação;\n\nb) Instalação de estações de tratamento de águas residuais urbanas ou industriais, que é permitida desde que as águas residuais sejam sujeitas a tratamento compatível com os objetivos fixados para o meio recetor, não podendo prejudicar a qualidade da água para abastecimento público;\n\nc) Instalação de sistemas autónomos de águas residuais domésticas, tipo fossa, que podem ser permitidas caso respeitem rigorosos critérios de estanqueidade, devendo os sistemas existentes ser substituídos ou reconvertidos em sistemas estanques e ser desativadas logo que estejam disponíveis sistemas públicos de saneamento de águas residuais nestas zonas;\n\nd) Aplicação de fertilizantes e pesticidas móveis e persistentes na água ou no solo, ou que possam formar substâncias tóxicas, persistentes e passíveis de bioacumulação, que pode ser permitida desde que não cause poluição das águas subterrâneas, devendo ser cumpridas as regras do Código das Boas Práticas Agrícolas;\n\ne) Lagos e quaisquer obras ou escavações destinadas à recolha e armazenamento de água ou quaisquer substâncias suscetíveis de se infiltrarem, que podem ser permitidos desde que sejam devidamente impermeabilizados, e a sua profundidade não intersete o nível freático, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desativadas;\n\nf) Realização de quaisquer sondagens para pesquisa e captação de água subterrânea, ficando a sua execução sujeita à obtenção de título, nos termos do Decreto-Lei n.º 226-A/2007, de 31 de maio.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 376/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/376-2025-944098803), em vigor a partir de 2025-11-05"
+  },
+  "944415003": {
+   "fragment_id": "107099778",
+   "type": 11,
+   "heading": "Artigo 5.º — Representação das zonas de proteção",
+   "in_force_from": "2025-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 376/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/376-2025-944098803), em vigor a partir de 2025-11-05"
+   ],
+   "markdown": "###### Artigo 5.º — Representação das zonas de proteção\n\nA planta de localização das zonas de proteção respeitantes aos perímetros de proteção mencionados no artigo 1.º consta do anexo iv da presente portaria, que dela faz parte integrante.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 376/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/376-2025-944098803), em vigor a partir de 2025-11-05"
+  },
+  "944415004": {
+   "fragment_id": "107099782",
+   "type": 14,
+   "heading": "Anexo I — Zonas de proteção imediata",
+   "in_force_from": "2025-11-05",
+   "changed_by": [
+    "Alterado pelo/a Anexo I do/a [Portaria n.º 376/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/376-2025-944098803), em vigor a partir de 2025-11-05",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 177/2017 - Diário da República n.º 103/2017, Série I de 2017-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/177-2017-107094687), em vigor a partir de 2017-05-30, produz efeitos a partir de 2016-12-13"
+   ],
+   "markdown": "## Anexo I — Zonas de proteção imediata\n\n(a que se refere o n.º 1 do artigo 2.º)\n\n| Centro | X (metros) | Y (metros) | Raio (metros) |\n| --- | --- | --- | --- |\n| 1 | -24642,69 | 57979,94 | 40 |\n| 2 | -24626,75 | 57723,93 | 40 |\n\nNota. - As coordenadas encontram-se no sistema de coordenadas EPSG 3763 (PT - TM06/ETRS89, origem no ponto central).\n\n> Alterado pelo/a Anexo I do/a [Portaria n.º 376/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/376-2025-944098803), em vigor a partir de 2025-11-05\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 177/2017 - Diário da República n.º 103/2017, Série I de 2017-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/177-2017-107094687), em vigor a partir de 2017-05-30, produz efeitos a partir de 2016-12-13"
+  },
+  "944415005": {
+   "fragment_id": "107099783",
+   "type": 14,
+   "heading": "Anexo II — Zona de proteção intermédia",
+   "in_force_from": "2025-11-05",
+   "changed_by": [
+    "Alterado pelo/a Anexo II do/a [Portaria n.º 376/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/376-2025-944098803), em vigor a partir de 2025-11-05",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 177/2017 - Diário da República n.º 103/2017, Série I de 2017-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/177-2017-107094687), em vigor a partir de 2017-05-30, produz efeitos a partir de 2016-12-13"
+   ],
+   "markdown": "## Anexo II — Zona de proteção intermédia\n\n(a que se refere o n.º 1 do artigo 3.º)\n\n| Vértice | X (metros) | Y (metros) |\n| --- | --- | --- |\n| A | -24661,77 | 58088,91 |\n| B | -24564,77 | 58099,91 |\n| C | -24487,77 | 57655,92 |\n| D | -24448,77 | 57562,92 |\n| E | -24592,77 | 57508,92 |\n| F | -24660,77 | 57716,92 |\n\nNota. - As coordenadas dos vértices encontram-se no sistema de coordenadas EPSG 3763 (PT - TM06/ETRS89, origem no ponto central).\n\n> Alterado pelo/a Anexo II do/a [Portaria n.º 376/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/376-2025-944098803), em vigor a partir de 2025-11-05\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 177/2017 - Diário da República n.º 103/2017, Série I de 2017-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/177-2017-107094687), em vigor a partir de 2017-05-30, produz efeitos a partir de 2016-12-13"
+  },
+  "944415006": {
+   "fragment_id": "107099784",
+   "type": 14,
+   "heading": "Anexo III — Zona de proteção intermédia",
+   "in_force_from": "2025-11-05",
+   "changed_by": [
+    "Alterado pelo/a Anexo II do/a [Portaria n.º 376/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/376-2025-944098803), em vigor a partir de 2025-11-05",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 177/2017 - Diário da República n.º 103/2017, Série I de 2017-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/177-2017-107094687), em vigor a partir de 2017-05-30, produz efeitos a partir de 2016-12-13"
+   ],
+   "markdown": "## Anexo III — Zona de proteção intermédia\n\n(a que se refere o n.º 1 do artigo 3.º)\n\n| Vértice | X (metros) | Y (metros) |\n| --- | --- | --- |\n| A | -24661,77 | 58088,91 |\n| B | -24564,77 | 58099,91 |\n| C | -24487,77 | 57655,92 |\n| D | -24448,77 | 57562,92 |\n| E | -24592,77 | 57508,92 |\n| F | -24660,77 | 57716,92 |\n\nNota. - As coordenadas dos vértices encontram-se no sistema de coordenadas EPSG 3763 (PT - TM06/ETRS89, origem no ponto central).\n\n> Alterado pelo/a Anexo II do/a [Portaria n.º 376/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/376-2025-944098803), em vigor a partir de 2025-11-05\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 177/2017 - Diário da República n.º 103/2017, Série I de 2017-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/177-2017-107094687), em vigor a partir de 2017-05-30, produz efeitos a partir de 2016-12-13"
+  },
+  "944415007": {
+   "fragment_id": "107099785",
+   "type": 14,
+   "heading": "Anexo IV — Planta de localização das zonas de proteção",
+   "in_force_from": "2025-11-05",
+   "changed_by": [
+    "Alterado pelo/a Anexo IV do/a [Portaria n.º 376/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/376-2025-944098803), em vigor a partir de 2025-11-05",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 177/2017 - Diário da República n.º 103/2017, Série I de 2017-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/177-2017-107094687), em vigor a partir de 2017-05-30, produz efeitos a partir de 2016-12-13"
+   ],
+   "markdown": "## Anexo IV — Planta de localização das zonas de proteção\n\n(a que se refere o artigo 5.º)\n\nExtrato da folha n.º 241 da Carta Militar de Portugal - 1:25 000 (IGeoE)\n\n![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/944098803/944098734.png)\n\n> Alterado pelo/a Anexo IV do/a [Portaria n.º 376/2025/1 - Diário da República n.º 213/2025, Série I de 2025-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/376-2025-944098803), em vigor a partir de 2025-11-05\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 177/2017 - Diário da República n.º 103/2017, Série I de 2017-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/177-2017-107094687), em vigor a partir de 2017-05-30, produz efeitos a partir de 2016-12-13"
+  }
+ }
+}

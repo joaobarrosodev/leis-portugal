@@ -1,0 +1,111 @@
+---
+schema_version: '1.0'
+id: pt:dre:537986:por
+title: Portaria n.º 1272/93
+short_title: null
+summary: Extingue a Missão para a Construção das Fragatas da Classe Vasco da Gama
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 1272/93
+official_date: null
+publication_date: '1993-12-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 292/1993, Série I-B de 1993-12-16
+  number: '292'
+  series: I
+  supplement: null
+  pages: 7001 - 7001
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/12/292b00/70017001.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/1272/1993/12/16/p/dre/pt/html
+  oj: null
+  dre: '537986'
+  dre_path: /dr/detalhe/portaria/1272-1993-537986
+  internal: pt:dre:537986:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1272-1993-537986
+  metadata_url: https://data.dre.pt/eli/port/1272/1993/12/16/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1272-1993-537986
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:47:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b85e8742ad99b60f1ba30c907745a39f4e34b3563340e4ab65f5e875f717238b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:47:23Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Navios
+- Extinção de Serviços
+- Marinha
+- MEKO
+- Missão para a Construção das Fragatas da Classe Vasco da GAMA
+- Unidade Naval
+relationships:
+- type: cites
+  target: pt:dre:419008:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:47:23Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1272/93
+
+de 16 de Dezembro
+
+A Missão para a Construção das Fragatas da Classe Vasco da Gama, criada pelo [Decreto-Lei n.º 245/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1987-419008), de 17 de Junho, tinha por incumbência proceder à gestão técnica do contrato de construção de três fragatas MEKO 200 e accionar os assuntos com directas implicações naquele contrato.
+
+Aquelas unidades navais foram entretanto entregues e aumentadas ao efectivo dos navios de guerra da Marinha.
+
+Por outro lado, já expirou o período de garantia do terceiro navio e encontram-se encerrados todos os processos administrativos contratuais.
+
+Considerando, assim, finalizada a gestão do contrato que originou a criação daquela Missão, pressuposto tipificado no referido decreto-lei para a extinção da Missão, ouvido o Chefe do Estado-Maior da Armada:
+
+Manda o Governo, nos termos do artigo 7.º do [Decreto-Lei n.º 245/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1987-419008), de 17 de Junho, pelo Ministro da Defesa Nacional, que seja, extinta a Missão para a Construção das Fragatas da Classe Vasco da Gama.
+
+Ministério da Defesa Nacional.
+
+Assinada em 12 de Novembro de 1993.
+
+O Ministro da Defesa Nacional, Joaquim Fernando Nogueira.

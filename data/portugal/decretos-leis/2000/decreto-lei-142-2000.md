@@ -1,0 +1,262 @@
+---
+schema_version: '1.0'
+id: pt:dre:320086:por
+title: Decreto-Lei n.º 142/2000
+short_title: null
+summary: Estabelece o regime jurídico do pagamento dos prémios de seguro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 142/2000
+official_date: null
+publication_date: '2000-07-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 162/2000, Série I-A de 2000-07-15
+  number: '162'
+  series: I
+  supplement: null
+  pages: 3219 - 3221
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/07/162a00/32193221.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/142/2000/07/15/p/dre/pt/html
+  oj: null
+  dre: '320086'
+  dre_path: /dr/detalhe/decreto-lei/142-2000-320086
+  internal: pt:dre:320086:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2000-320086
+  metadata_url: https://data.dre.pt/eli/dec-lei/142/2000/07/15/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2000-320086
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:17:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: eeaee68cef8ed59a891244652383ad8146aa01be9ea757f87a550355994d5094
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:17:24Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atividade Seguradora
+- Prémio de Seguro
+- Regime Jurídico
+- Seguro
+relationships:
+- type: amended_by
+  target: pt:dre:249804:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:187476:por
+  label: "Alterado o art. 15.º pelo DEC LEI.248-B/2000.2000.10.12.MJ DR.IS-A [236]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/248-b-2000-187476
+  date: '2000-10-12'
+- type: amended_by
+  target: pt:dre:517446:por
+  label: "Alterados os arts. 7º e 11º pelo DEC LEI.150/2004.29.06.2004.MF, DR.IS-A [151] de 29.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/150-2004-517446
+  date: '2004-06-29'
+- type: amended_by
+  target: pt:dre:240271:por
+  label: "Alterados os arts. 4.º, 5.º, 6.º, 7.º (este na redacção do Dec Lei 150/2004, de 29-Jun), 8.º 9.º, 10.º, 12.º e aditado\
+    \ o art. 9.º-A, pelo DEC LEI.122/2005.29.07.2005.MJ, DR.IS-A [145] de 29.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-2005-240271
+  date: '2005-07-29'
+- type: amended_by
+  target: pt:dre:640637:por
+  label: "Alterado, a partir de 20.10.2007, o art. 9º-A, aditado pelo Dec Lei 122/2005 de 29-Jul, pelo DEC LEI.291/2007.21.08.2007.MFAP,\
+    \ DR.IS [160] de 21.08.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/291-2007-640637
+  date: '2007-08-21'
+- type: cites
+  target: pt:dre:265557:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/105/1994/04/23/p/dre
+- type: repealed_by
+  target: pt:dre:249804:por
+  label: "Revogado, a partir de 01.01.2009, o presente diploma, na redacção dos Dec Lei 248-B/2000, de 12-Out, Dec Lei 150/2004,\
+    \ de 29-Jun, Dec Lei 122/2005, de 29-Jul,(o último na redacção do Dec Lei 199/2005, de 10-Nov) e Dec Lei 291/2007, de\
+    \ 21-Ago, pelo DEC LEI.72/2008.16.04.2008.MFAP, DR.IS [75] de 16.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-2008-249804
+  date: '2008-04-16'
+article_structure:
+  article_count: 15
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:17:24Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 142/2000
+
+de 15 de Julho
+
+O regime jurídico do pagamento dos prémios dos contratos de seguro consta do [Decreto-Lei n.º 105/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1994-265557), de 23 de Abril, cujo regime tem propiciado crescentes situações de incumprimento, que redundam em dezenas de milhares de acções judiciais instauradas, em cada ano, para cobrança de prémios. Daqui resulta ainda, reflexamente, a repercussão dos prejuízos causados pela conduta dos tomadores do seguro inadimplentes no montante dos prémios a pagar pelos segurados cumpridores.
+
+O presente diploma visa introduzir algumas alterações que disciplinem e tornem mais equilibradas as relações contratuais entre empresas de seguros e segurados.
+
+À semelhança da generalidade dos países da Comunidade Europeia, passa a dispor-se, como regra, que os contratos de seguro só produzem o efeito de cobertura do risco a partir do pagamento do prémio ou fracção iniciais, com o que se acautela a eventualidade de as empresas de seguros poderem ser obrigadas à cobertura de riscos sem que tais importâncias estejam pagas e as dispensa de accionarem o mecanismo de resolução dos contratos e de recorrerem a juízo para obterem o pagamento dos prémios ou fracções iniciais em dívida.
+
+Não assim quanto aos prémios ou fracções subsequentes, em que é de manter o regime vigente de obrigatoriedade de expedição de aviso pelas empresas de seguros aos tomadores do seguro, com a indicação da data limite para o pagamento e da advertência de resolução automática do contrato se o pagamento não tiver lugar. O que se reputa excessivo é o prazo de 60 dias actualmente estabelecido para esse pagamento, período durante o qual o contrato se conserva em vigor, pelo que se encurta esse prazo para 30 dias.
+
+Finalmente, prevê-se um sistema que permita às empresas de seguros poderem seleccionar criteriosamente os tomadores com quem contratam, facultando-lhes a possibilidade de, no exercício da liberdade contratual que lhes assiste, rejeitarem a celebração de contratos com tomadores inadimplentes, o que não representa qualquer desvio ao instituto do seguro obrigatório de responsabilidade civil. Assim, ficam as seguradoras habilitadas a instituírem, em conformidade com as respectivas normas em vigor, os mecanismos conducentes à identificação dos tomadores de seguros que injustificadamente não satisfizeram as suas obrigações de pagamento relativamente a contratos de seguro que celebraram.
+
+Atendendo a que, com o presente diploma, se tem em vista a diminuição da litigiosidade nos tribunais, é, assim, legítimo esperar das empresas de seguros uma utilização eficaz deste sistema de selecção, utilização essa que o cumprimento das regras de uma sã e leal concorrência também impõe.
+
+Foi ouvida a Comissão Nacional de Protecção de Dados, o Instituto de Seguros de Portugal, o Instituto do Consumidor e a Associação Portuguesa de Seguradores.
+
+Assim:
+
+Nos termos da alínea a) do no 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto e âmbito de aplicação
+
+1 - O presente diploma estabelece o regime jurídico do pagamento dos prémios de seguro.
+
+2 - O presente diploma é aplicável a todos os contratos de seguro, com excepção dos respeitantes aos seguros dos ramos colheitas, ao ramo «Vida», bem como aos seguros temporários celebrados por períodos inferiores a 90 dias.
+
+###### Artigo 2.º — Entidade a quem são pagos e formas de pagamento
+
+1 - Os prémios de seguro devem ser pagos, pontualmente, pelo tomador do seguro directamente à empresa de seguros ou a outra entidade por esta expressamente designada para o efeito.
+
+2 - Apenas são admitidas como formas de pagamento dos prémios de seguro as que forem fixadas por portaria do Ministro das Finanças.
+
+###### Artigo 3.º — Carácter unitário do prémio
+
+O prémio correspondente a cada período de duração do contrato de seguro é, salvo se o contrato for anulado ou resolvido nos termos legais e regulamentares em vigor, devido por inteiro, sem prejuízo de, em conformidade com o previsto na apólice respectiva, poder ser fraccionado para efeitos de pagamento.
+
+###### Artigo 4.º — Prémio ou fracção inicial
+
+1 - O prémio ou fracção inicial é devido na data da celebração do contrato.
+
+2 - É no entanto admitido o pagamento do prémio ou fracção inicial em data posterior à da celebração do contrato, de acordo com norma regulamentar a emitir pelo Instituto de Seguros de Portugal.
+
+3 - Em caso de impossibilidade de emissão do recibo no momento do pagamento do prémio ou fracção inicial, a empresa de seguros emite um recibo provisório, devendo emitir o recibo definitivo dentro do prazo que vier a ser fixado pela norma regulamentar referida no número anterior.
+
+###### Artigo 5.º — Prémio ou fracções subsequentes
+
+1 - Os prémios ou fracções subsequentes são devidos nas datas estabelecidas na apólice respectiva, sem prejuízo do disposto nos números seguintes.
+
+2 - Nos contratos de prémio variável, nomeadamente dos ramos de acidentes de trabalho, marítimo e mercadorias transportadas, os prémios ou fracções seguintes são devidos na data da emissão do recibo respectivo.
+
+3 - Nos contratos titulados por apólices abertas, os prémios ou fracções relativos às sucessivas aplicações são devidos na data da emissão do recibo respectivo.
+
+###### Artigo 6.º — Cobertura dos riscos
+
+1 - A cobertura dos riscos apenas se verifica a partir do momento do pagamento do prémio ou fracção inicial, salvo se, por acordo entre as partes, for estabelecida outra data, que não pode, todavia, ser anterior a da recepção da proposta de seguro pela empresa de seguros.
+
+2 - O momento do início da cobertura dos riscos deve constar expressamente das condições particulares da apólice e, quando estiver dependente do pagamento do prémio ou fracção inicial, comprova-se pelo respectivo recibo ou, na falta deste, pelo recibo provisório referido no n.º 3 do artigo 4.º
+
+3 - A empresa de seguros deve esclarecer devidamente o tomador acerca do teor do presente artigo, quer antes do pagamento do prémio ou fracção inicial, quer nas condições gerais ou especiais das apólices
+
+###### Artigo 7.º — Aviso para pagamento de prémios ou fracções subsequentes
+
+1 - A empresa de seguros encontra-se obrigada, até 30 dias antes da data em que os prémios ou fracções subsequentes sejam devidos, a avisar, por escrito, o tomador de seguro, indicando a data do pagamento, o valor a pagar e a forma de pagamento.
+
+2 - Do aviso a que se refere o número anterior devem obrigatoriamente constar as consequências da falta de pagamento do prémio ou fracção, nomeadamente a data a partir da qual o contrato é automaticamente resolvido, nos termos do artigo seguinte.
+
+3 - Recai sobre a empresa de seguros o ónus da prova relativo ao envio do aviso a que se refere o presente artigo.
+
+###### Artigo 8.º — Falta de pagamento de prémio ou fracções subsequentes
+
+1 - Na falta de pagamento do prémio ou fracção na data indicada no aviso referido no artigo anterior, o tomador de seguro constitui-se em mora e, decorridos que sejam 30 dias após aquela data, o contrato é automaticamente resolvido, sem possibilidade de ser reposto em vigor.
+
+2 - Durante o prazo referido no número anterior o contrato produz todos os seus efeitos.
+
+3 - Nos casos em que a cobrança seja efectuada através de mediadores, estes ficam obrigados a devolver às empresas de seguros os recibos não cobrados dentro do prazo de oito dias subsequentes ao prazo estabelecido no n.º 1, sob pena de incorrerem nas sanções legalmente estabelecidas.
+
+###### Artigo 9.º — Resolução dos contratos de seguro obrigatório do ramo de acidentes de trabalho
+
+1 - A resolução dos contratos de seguro obrigatório do ramo de acidentes de trabalho operada por força do disposto no n.º 1 do artigo anterior deve ser comunicada pela empresa de seguros à Inspecção-Geral do Trabalho, através de envio de listagens mensais por correio registado ou por outro meio do qual fique registo escrito ou electrónico
+
+2 - Em caso de dúvida, recai sobre a empresa de seguros o ónus da prova relativo à comunicação referida no número anterior.
+
+3 - A resolução dos contratos de seguro obrigatório do ramo de acidentes de trabalho operada nos termos do artigo anterior não é oponível a terceiros lesados, até 15 dias após a recepção das listagens referidas no n.º 1 do presente artigo, sem prejuízo do direito de regresso da empresa de seguros contra o tomador de seguro relativamente às prestações efectuadas às pessoas seguras ou a terceiros em consequência de sinistros ocorridos desde o momento da resolução do contrato até ao termo do prazo acima referido.
+
+4 - O disposto no número anterior não se aplica aos seguros de acidentes de trabalho em que os terceiros lesados sejam administradores, directores, gerentes ou equiparados do segurado.
+
+###### Artigo 10.º — Obrigação de pagamento em caso de resolução
+
+A resolução, nos termos do n.º 1 do artigo 8.º, não exonera o tomador de seguro da obrigação de pagamento dos prémios ou fracções em dívida correspondentes ao período em que o contrato esteve em vigor, acrescidos das penalidades contratualmente estabelecidas, bem como do que a empresa de seguros tiver pago ao abrigo do disposto no n.º 3 do artigo anterior, acrescido dos respectivos juros de mora.
+
+###### Artigo 11.º — Prémios de seguro em dívida
+
+1 - As empresas de seguros, mesmo nos casos de seguros obrigatórios, podem recusar a aceitação de um contrato de seguro se o risco que se pretende segurar já esteve coberto, total ou parcialmente, por contrato de seguro relativamente ao qual existam quaisquer quantias em dívida, nos termos dos artigos anteriores, salvo se o tomador tiver invocado excepção de não cumprimento do contrato.
+
+2 - Para efeitos do disposto no número anterior, todas as propostas de contrato de seguro devem incluir uma declaração do tomador de seguro sobre se o risco que pretende segurar já esteve ou não coberto, total ou parcialmente, por algum contrato relativamente ao qual existam quaisquer quantias em dívida, nos termos dos artigos anteriores.
+
+3 - As empresas de seguros, directamente ou por intermédio das suas associações representativas, e em conformidade com a respectiva legislação em vigor, ficam habilitadas a instituir mecanismos que permitam identificar os tomadores de seguros que, sem fundada justificação, não satisfizerem as suas obrigações de pagamento relativamente aos contratos de seguro que celebrarem.
+
+4 - Os mecanismos instituídos nos termos do número anterior devem respeitar as seguintes condições:
+
+a) De acordo com um princípio de reciprocidade, as empresas de seguros que pretendam aceder ao sistema ficam obrigadas a fornecer os elementos necessários quanto a contratos de seguro relativamente aos quais existam prémios injustificadamente em dívida;
+
+b) O acesso à informação pelas empresas de seguros deve circunscrever-se aos dados relativos a incumprimentos de obrigações de pagamento de prémios de contratos de seguro que cubram os mesmos riscos que se pretende segurar;
+
+c) Toda a informação recebida nos termos do número anterior deve ser exclusivamente destinada às empresas de seguros participantes, sendo vedada qualquer transmissão, total ou parcial, a terceiros, não podendo ainda ser utilizada para outros fins que não sejam os consignados no presente artigo;
+
+d) Eliminação imediata do sistema dos dados referentes a tomadores de seguros logo que se mostrem pagos os prémios de seguro que determinaram a sua identificação como incumpridores;
+
+e) Garantia, nos termos legais, aos respectivos titulares, do direito de acesso, rectificação e actualização dos dados.
+
+###### Artigo 12.º — Relações entre seguradoras e mediadores de seguros
+
+As relações entre as seguradoras e os mediadores de seguros com poderes de cobrança, designadamente no que respeita a prazos para prestação de contas, regem-se pelas normas específicas em vigor, sem prejuízo do disposto no n.º 3 do artigo 8.º
+
+###### Artigo 13.º — Exclusão
+
+O disposto no artigo 6.º e no n.º 1 do artigo 8.º não é aplicável às mútuas de seguros relativamente a prémios cujo recebimento se obtém através da dedução de valores nas operações de vendagem ou descarga.
+
+###### Artigo 14.º — Norma revogatória
+
+É revogado o [Decreto-Lei n.º 105/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1994-265557), de 23 de Abril.
+
+###### Artigo 15.º — Entrada em vigor
+
+O presente diploma entra em vigor no 1.º dia do 3.º mês seguinte ao da data da sua publicação, aplicando-se, a partir daquele momento, a todos os contratos de seguro que venham a ser celebrados, bem como, na data das respectivas renovações, aos contratos já existentes.
+
+Visto e aprovado em Conselho de Ministros de 12 de Maio de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Armando António Martins Vara.
+
+Promulgado em 21 de Junho de 2000.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 4 de Julho de 2000.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

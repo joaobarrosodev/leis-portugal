@@ -1,0 +1,588 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:125560576:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-125586979",
+ "dre_path": "/dr/detalhe/decreto-lei/157-2019-125560576",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-10-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "125505537",
+    "125505538",
+    "125505539",
+    "125505540",
+    "125505541",
+    "125505542",
+    "125505543",
+    "125505544",
+    "125505545",
+    "125505546",
+    "125505547",
+    "125505548",
+    "125505549",
+    "125505550",
+    "125505551",
+    "125505552",
+    "125505553",
+    "125505554",
+    "125505556",
+    "125505557",
+    "125505558",
+    "125505559",
+    "125505560",
+    "125505561",
+    "125505562",
+    "125505563",
+    "125505564",
+    "125505565",
+    "125505566",
+    "125505567",
+    "125505568",
+    "125505569",
+    "125505570",
+    "125505571",
+    "125505572",
+    "125505573",
+    "125505574",
+    "125587175",
+    "125587176",
+    "125587177",
+    "125587178",
+    "125587179",
+    "125587180",
+    "125587181",
+    "125587182",
+    "125587183",
+    "125587184",
+    "125587185",
+    "125587186",
+    "125587187"
+   ]
+  },
+  {
+   "date": "2021-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:165036155:por",
+     "title": "Lei n.º 36/2021",
+     "published": "2021-06-14",
+     "dre_path": "/dr/detalhe/lei/36-2021-165036155"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 19.º",
+    "Revoga Artigo 10.º"
+   ],
+   "fragments": [
+    "125505537",
+    "125505538",
+    "125505539",
+    "125505540",
+    "125505541",
+    "125505542",
+    "125505543",
+    "125505544",
+    "125505545",
+    "125505546",
+    "125505547",
+    "125505548",
+    "125505549",
+    "125505550",
+    "125505551",
+    "125505552",
+    "125505553",
+    "125505554",
+    "125505555",
+    "125505556",
+    "125505557",
+    "125505558",
+    "165261870",
+    "125505560",
+    "125505561",
+    "125505562",
+    "125505563",
+    "125505564",
+    "125505565",
+    "125505566",
+    "125505567",
+    "125505568",
+    "165274782",
+    "125505570",
+    "125505571",
+    "125505572",
+    "125505573",
+    "125505574",
+    "125587175",
+    "165261871",
+    "125587177",
+    "125587178",
+    "165261872",
+    "125587180",
+    "125587181",
+    "125587182",
+    "125587183",
+    "125587184",
+    "125587185",
+    "125587186",
+    "125587187"
+   ]
+  }
+ ],
+ "fragments": {
+  "125505537": {
+   "fragment_id": "125586980",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 157/2019\n\nde 22 de outubro\n\nSumário: Regula a forma do ato de instituição e o Regime do Registo de Fundações.\n\nA Lei-Quadro das Fundações, aprovada em anexo à Lei n.º 24/2012, de 9 de julho, na sua redação atual, prevê que as fundações portuguesas e as fundações estrangeiras que desenvolvam os seus fins em território nacional estão sujeitas a registo nos termos da lei. Prevê, igualmente, que esse registo conste de uma base de dados única, mantida e disponibilizada para consulta pública pelo Instituto dos Registos e do Notariado, I. P. (IRN, I. P.)\n\nO presente decreto-lei regulamenta o referido registo de fundações, o qual tem caráter obrigatório e contém os elementos de identificação das entidades fundacionais, tendo em vista a publicitação da sua situação jurídica.\n\nExecuta-se, desta forma, uma medida do Programa «Simplex+2018», assegurando, em simultâneo, o conhecimento da realidade fundacional existente em Portugal e a simplificação dos procedimentos associados à vida das fundações, desde a sua criação até à sua extinção, disponibilizando publicamente informação fiável e reduzindo os custos burocráticos atualmente existentes. Paralelamente, concretiza-se o Programa do XXI Governo Constitucional na parte relativa à implementação de políticas públicas que permitam melhorar a capacidade de o Estado ser ágil e eficaz, prestando melhores serviços aos cidadãos e às empresas, e garantindo a provisão de serviços públicos de qualidade com recurso a procedimentos simplificados.\n\nA simplificação de procedimentos e a redução de custos burocráticos são alcançadas, em primeiro lugar, pela consagração da possibilidade de instituição de fundações através de documento particular autenticado, em alternativa ao já previsto regime de instituição por escritura pública.\n\nEm segundo lugar, através da aplicação ao registo de fundações dos princípios de simplificação e cooperação entre organismos da Administração Pública, designadamente o princípio once only. Este princípio é garantido, desde logo, com a consagração de um regime transitório para as fundações instituídas em momento anterior à data de entrada em vigor do presente decreto-lei, prevendo-se a transição dos dados constantes do Ficheiro Central de Pessoas Coletivas, do registo comercial e dos registos da Secretaria-Geral da Presidência do Conselho de Ministros (SGPCM) para o registo de fundações. Simultaneamente, prevê-se o estabelecimento de comunicações sistemáticas entre as entidades públicas competentes nesta matéria. Adicionalmente, privilegia-se nos atos de registo as comunicações oficiosas de informação entre a SGPCM e o IRN, I. P.\n\nForam ouvidos a Comissão Nacional de Proteção de Dados, o Conselho Superior da Magistratura, o Conselho Superior dos Tribunais Administrativos e Fiscais, o Conselho dos Oficiais de Justiça, a Ordem dos Solicitadores e dos Agentes de Execução, o Conselho Consultivo das Fundações e o Centro Português das Fundações.\n\nFoi promovida a audição do Conselho Superior do Ministério Público, da Comissão para o Acompanhamento dos Auxiliares da Justiça, da Associação Sindical dos Juízes Portugueses, do Sindicato dos Magistrados do Ministério Público, do Sindicato dos Oficiais de Justiça, do Sindicato dos Funcionários Judiciais e da Ordem dos Advogados.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 24/2012, de 9 de julho, na sua redação atual, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "125505538": {
+   "fragment_id": "125586981",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "125505539": {
+   "fragment_id": "125586982",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei regula a forma do ato de instituição e o Regime do Registo de Fundações, a que se refere o artigo 8.º da Lei-Quadro das Fundações, aprovada em anexo à Lei n.º 24/2012, de 9 de julho, alterada e republicada pela Lei n.º 150/2015, de 10 de setembro.\n\n2 - O presente decreto-lei procede ainda à trigésima quinta alteração ao Regulamento Emolumentar dos Registos e do Notariado, aprovado em anexo ao Decreto-Lei n.º 322-A/2001, de 14 de dezembro, alterado pelo Decreto-Lei n.º 315/2002, de 27 de dezembro, pela Lei n.º 32-B/2002, de 31 de dezembro, pelos Decretos-Leis n.os 194/2003, de 23 de agosto, 53/2004, de 18 de março, 199/2004, de 18 de agosto, 111/2005, de 8 de julho, 178-A/2005, de 28 de outubro, 76-A/2006, de 29 de março, 85/2006, de 23 de maio, 125/2006, de 29 de junho, 237-A/2006, de 14 de dezembro, 8/2007, de 17 de janeiro, e 263-A/2007, de 23 de julho, pela Lei n.º 40/2007, de 24 de agosto, pelos Decretos-Leis n.os 324/2007, de 28 de setembro, 20/2008, de 31 de janeiro, 73/2008, de 16 de abril, 116/2008, de 4 de julho, 247-B/2008, de 30 de dezembro, 122/2009, de 21 de maio, 185/2009, de 12 de agosto, 99/2010, de 2 de setembro, e 209/2012, de 19 de setembro, pela Lei n.º 63/2012, de 10 de dezembro, pelos Decretos-Leis n.os 19/2015, de 3 de fevereiro, 201/2015, de 17 de setembro, 51/2017, de 25 de maio, e 54/2017, de 2 de junho, pelas Leis n.os 89/2017, de 21 de agosto, e 110/2017, de 15 de dezembro, pelos Decretos-Leis n.os 24/2019, de 1 de fevereiro, 66/2019, de 21 de maio, e 111/2019, de 16 de agosto, e pela Lei n.º 85/2019, de 3 de setembro."
+  },
+  "125505540": {
+   "fragment_id": "125586983",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO Regime do Registo de Fundações previsto no presente decreto-lei é aplicável a todas as fundações que exerçam os seus fins em território nacional, com exceção das inscritas no Registo das Pessoas Jurídicas Canónicas e no Registo das Pessoas Coletivas Religiosas, das instituições de ensino superior públicas de natureza fundacional e da Agência de Avaliação e Acreditação do Ensino Superior."
+  },
+  "125505541": {
+   "fragment_id": "125586984",
+   "type": 1,
+   "heading": "Capítulo II — Instituição de fundações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Instituição de fundações"
+  },
+  "125505542": {
+   "fragment_id": "125586985",
+   "type": 11,
+   "heading": "Artigo 3.º — Forma do ato de instituição de fundações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Forma do ato de instituição de fundações\n\nA instituição de fundações privadas por atos entre vivos deve constar de escritura pública ou documento particular autenticado."
+  },
+  "125505543": {
+   "fragment_id": "125586986",
+   "type": 1,
+   "heading": "Capítulo III — Registo de fundações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Registo de fundações"
+  },
+  "125505544": {
+   "fragment_id": "125586987",
+   "type": 11,
+   "heading": "Artigo 4.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competência\n\nCompete ao presidente do conselho diretivo do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), designar, por despacho, os serviços com competência para a prática de atos de registo referentes à situação jurídica das fundações regulados pelo presente decreto-lei."
+  },
+  "125505545": {
+   "fragment_id": "125586988",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime do Registo de Fundações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regime do Registo de Fundações\n\nÉ aprovado o Regime do Registo de Fundações em anexo ao presente decreto-lei e do qual faz parte integrante."
+  },
+  "125505546": {
+   "fragment_id": "125586989",
+   "type": 11,
+   "heading": "Artigo 6.º — Registo de representações permanentes de fundações estrangeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Registo de representações permanentes de fundações estrangeiras\n\n1 - As fundações estrangeiras que pretendam abrir representação permanente em Portugal devem requerer, através do seu representante legal, o registo da representação permanente e dos factos atinentes à sua situação jurídica.\n\n2 - O registo referido no número anterior está sujeito ao Regime previsto no anexo ao presente decreto-lei."
+  },
+  "125505547": {
+   "fragment_id": "125586990",
+   "type": 11,
+   "heading": "Artigo 7.º — Atos sujeitos a publicação obrigatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Atos sujeitos a publicação obrigatória\n\n1 - O ato de instituição de fundação, os seus estatutos e as respetivas alterações estão sujeitos a publicação obrigatória, que é efetuada gratuitamente e promovida pelo notário ou pela entidade autenticadora, conforme aplicável.\n\n2 - Todas as disposições legais que prevejam a publicação obrigatória do ato de instituição de fundação, dos estatutos da fundação e das respetivas alterações passam a ser entendidas como respeitando à publicação dos mesmos factos nos termos legalmente previstos para os atos das sociedades comerciais."
+  },
+  "125505548": {
+   "fragment_id": "125586991",
+   "type": 1,
+   "heading": "Capítulo IV — Alterações legislativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Alterações legislativas"
+  },
+  "125505549": {
+   "fragment_id": "125586992",
+   "type": 11,
+   "heading": "Artigo 8.º — Aditamento ao Decreto-Lei n.º 322-A/2001, de 14 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aditamento ao Decreto-Lei n.º 322-A/2001, de 14 de dezembro\n\nÉ aditado ao Regulamento Emolumentar dos Registos e do Notariado, aprovado em anexo ao Decreto-Lei n.º 322-A/2001, de 14 de dezembro, na sua redação atual, o artigo 27.º-C, com a seguinte redação:\n\n«Artigo 27.º-C\n\nEmolumentos do registo de fundações\n\n1 - Pelo registo do reconhecimento da fundação - (euro) 300.\n\n2 - Pelo registo de abertura de representação permanente de fundação estrangeira - (euro) 180.\n\n3 - Por qualquer outro ato de registo sobre fundações ou representações permanentes de fundação estrangeira - (euro) 150.\n\n4 - Pela urgência na feitura de cada registo é devido o valor do emolumento correspondente ao ato.\n\n5 - Pelo suprimento oficioso de deficiências nos termos dos n.os 2, 3 e 5 do artigo 52.º do Código do Registo Comercial - (euro) 30.\n\n6 - Pela desistência do pedido de registo - (euro) 20.\n\n7 - Pela recusa do registo - (euro) 50.\n\n8 - Abrangendo a inscrição mais de um facto, é devido o emolumento mais elevado de entre os previstos para os diversos factos a registar, acrescido de 50 % do emolumento correspondente a cada um dos restantes factos.\n\n9 - Os emolumentos previstos no presente artigo têm um valor único e incluem os montantes relativos aos atos subsequentes de inscrição no Ficheiro Central de Pessoas Coletivas e de publicação obrigatória, quando a estes houver lugar, bem como os montantes a pagar a título de emolumentos pessoais, quando estes sejam devidos.\n\n10 - São aplicáveis às fundações as taxas estabelecidas no presente Regulamento para os procedimentos, certidões, informações e acesso a base de dados, e demais atos de registo comercial, na medida em que se trate de ato análogo.\n\n11 - São ainda gratuitos os registos efetuados com base em comunicação oficiosa da Secretaria-Geral da Presidência do Conselho de Ministros a que se referem as alíneas a), no que toca ao registo do pedido de reconhecimento bem como da recusa do reconhecimento, e b) e f) do artigo 2.º do Regime do Registo de Fundações, aprovado em anexo ao Decreto-Lei n.º 157/2019, de 22 de outubro.»"
+  },
+  "125505550": {
+   "fragment_id": "125586993",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "125505551": {
+   "fragment_id": "125586994",
+   "type": 11,
+   "heading": "Artigo 9.º — Fundações instituídas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Fundações instituídas\n\n1 - As fundações instituídas em momento anterior à data de entrada em vigor do presente decreto-lei transitam para o registo de fundações, no prazo de três meses a contar daquela data, com os dados que constarem do Ficheiro Central de Pessoas Coletivas, do registo comercial e da base de dados da Secretaria-Geral da Presidência do Conselho de Ministros (SGPCM), conforme aplicável, após a indicação por esta entidade da natureza jurídica das fundações nos termos da Lei-Quadro das Fundações, aprovada em anexo à Lei n.º 24/2012, de 9 de julho, na sua redação atual.\n\n2 - A informação do registo a que se refere o número anterior deve ser completada e atualizada pelos interessados, os quais devem requerer, no prazo de três meses a contar de notificação para o efeito, o registo dos factos a que se referem os artigos 2.º a 4.º do Regime do Registo de Fundações, aprovado em anexo ao presente decreto-lei, respeitantes à situação jurídica da fundação entretanto ocorridos.\n\n3 - A notificação prevista no número anterior é efetuada por via de publicação de aviso nos termos do n.º 1 do artigo 167.º do Código das Sociedades Comerciais, na sua redação atual.\n\n4 - Para efeitos dos n.os 2 e 3, quando começar a contar o prazo de três meses, o IRN, I. P., informa a SGPCM, que procede à sua divulgação por via eletrónica.\n\n5 - Os registos a que se refere o n.º 2, desde que pedidos no prazo aí previsto, são gratuitos.\n\n6 - O incumprimento da obrigação prevista no n.º 2 determina o pagamento em dobro do emolumento previsto para o registo em falta.\n\n7 - O registo de fundações com estatuto de utilidade pública rege-se exclusivamente pelo disposto no presente decreto-lei, não lhes sendo aplicável o disposto no Decreto-Lei n.º 57/78, de 1 de abril."
+  },
+  "125505552": {
+   "fragment_id": "125586995",
+   "type": 11,
+   "heading": "Artigo 10.º — Cancelamento do registo de entidades inscritas no Registo Nacional de Pessoas Coletivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cancelamento do registo de entidades inscritas no Registo Nacional de Pessoas Coletivas\n\n1 - Sem prejuízo dos casos de extinção por decisão judicial, o Registo Nacional de Pessoas Coletivas (RNPC) cancela, na sequência de comunicação da SGPCM, oficiosa e gratuitamente, sem precedência de qualquer procedimento, o registo das entidades inscritas como fundações no RNPC referidas no n.º 3 da Resolução do Conselho de Ministros n.º 13-A/2013, de 8 de março.\n\n2 - Sem prejuízo das necessárias publicações e comunicações previstas na legislação aplicável, as entidades inscritas a que se refere o número anterior e a entidade competente para o seu reconhecimento são notificadas do cancelamento do registo referido no número anterior.\n\n3 - O encerramento da liquidação do património é comunicado pelos interessados ao RNPC, que procede à inscrição desse facto e ao cancelamento da matrícula da fundação, caso se trate de entidade inscrita no registo comercial."
+  },
+  "125505553": {
+   "fragment_id": "125586996",
+   "type": 11,
+   "heading": "Artigo 11.º — Cooperação institucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cooperação institucional\n\nÉ celebrado um protocolo de cooperação institucional entre o IRN, I. P., e a SGPCM, para a transmissão da informação necessária ao cumprimento do disposto nos artigos 9.º e 10.º, bem como para a implementação do Regime do Registo de Fundações, aprovado em anexo ao presente decreto-lei, cuja cópia é enviada à Comissão Nacional de Proteção de Dados."
+  },
+  "125505554": {
+   "fragment_id": "125586997",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia 1 de janeiro de 2020."
+  },
+  "125505556": {
+   "fragment_id": "125586999",
+   "type": 14,
+   "heading": "Anexo — (a que se referem os artigos 5.º, 6.º, 9.º e 11.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se referem os artigos 5.º, 6.º, 9.º e 11.º)\n\nREGIME DO REGISTO DE FUNDAÇÕES"
+  },
+  "125505557": {
+   "fragment_id": "125587000",
+   "type": 1,
+   "heading": "Capítulo I — Fins e objeto do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Fins e objeto do registo"
+  },
+  "125505558": {
+   "fragment_id": "125587001",
+   "type": 11,
+   "heading": "Artigo 1.º — Fins do registo de fundações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Fins do registo de fundações\n\nO registo de fundações destina-se a dar publicidade aos factos respeitantes à situação jurídica das fundações e das representações permanentes em território nacional de fundações estrangeiras, para salvaguarda da segurança do comércio jurídico."
+  },
+  "125505559": {
+   "fragment_id": "125587002",
+   "type": 11,
+   "heading": "Artigo 2.º — Registo de factos relativos a fundações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Registo de factos relativos a fundações\n\nEstão sujeitos a registo os seguintes factos relativos à situação jurídica de fundações:\n\na) O pedido de reconhecimento de fundação, bem como o reconhecimento ou a recusa do reconhecimento da fundação, após a sua conclusão;\n\nb) A concessão do estatuto de utilidade pública, a renovação e a sua cessação;\n\nc) A alteração dos estatutos, incluindo a ampliação e mudança dos fins da fundação;\n\nd) A designação, recondução e cessação de funções, por qualquer causa que não seja o decurso do tempo, dos membros do órgão de administração, do órgão diretivo ou executivo e do órgão de fiscalização da fundação;\n\ne) A fusão de fundações;\n\nf) A extinção da fundação;\n\ng) O encerramento da liquidação do património;\n\nh) A designação e cessação de funções, anterior ao encerramento da liquidação, dos liquidatários."
+  },
+  "125505560": {
+   "fragment_id": "125587003",
+   "type": 11,
+   "heading": "Artigo 3.º — Registo de factos relativos a representações permanentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Registo de factos relativos a representações permanentes\n\nEstão sujeitos a registo os seguintes factos relativos à situação jurídica de fundações estrangeiras com representação permanente em território nacional:\n\na) A criação, alteração e encerramento da representação permanente;\n\nb) A designação, recondução e cessação de funções do representante legal, bem como a alteração dos respetivos poderes;\n\nc) Os factos relativos à entidade representada, de acordo com o definido para as sociedades comerciais."
+  },
+  "125505561": {
+   "fragment_id": "125587004",
+   "type": 11,
+   "heading": "Artigo 4.º — Registo de ações e decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Registo de ações e decisões\n\nEstão sujeitas a registo:\n\na) As ações que tenham como fim, principal ou acessório, declarar, fazer reconhecer, constituir, modificar ou extinguir qualquer situação jurídica cujo registo esteja previsto nos artigos anteriores;\n\nb) As ações de declaração de nulidade ou de anulação dos atos de instituição de fundações, bem como dos respetivos estatutos;\n\nc) As ações de declaração de nulidade ou de anulação de deliberações dos órgãos das fundações, bem como os procedimentos e as respetivas providências cautelares de suspensão destas;\n\nd) As ações que tenham por fim a declaração de extinção de fundação ou de encerramento de representação permanente de fundação estrangeira;\n\ne) As ações de reforma, de declaração de nulidade ou de anulação de um registo ou do seu cancelamento;\n\nf) Os procedimentos e respetivas providências cautelares não especificadas requeridas com referência às ações mencionadas nas alíneas anteriores;\n\ng) As decisões finais, com trânsito em julgado, proferidas nas ações e procedimentos cautelares referidos nas alíneas anteriores;\n\nh) As sentenças declaratórias da insolvência de fundações e o respetivo trânsito em julgado;\n\ni) As sentenças, transitadas em julgado, de revogação das decisões judiciais referidas na alínea anterior;\n\nj) Os despachos de nomeação e de destituição do administrador judicial e do administrador judicial provisório da insolvência;\n\nk) Os despachos de atribuição ao devedor da administração da massa insolvente, assim como de proibição da prática de certos atos sem o consentimento do administrador da insolvência e os despachos que ponham termo a essa administração;\n\nl) As decisões judiciais de encerramento do processo de insolvência;\n\nm) As decisões judiciais de confirmação do fim do período de fiscalização incidente sobre a execução de plano de insolvência;\n\nn) A nomeação e cessação de funções do administrador judicial provisório em processo especial de revitalização."
+  },
+  "125505562": {
+   "fragment_id": "125587005",
+   "type": 1,
+   "heading": "Capítulo II — Obrigatoriedade do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Obrigatoriedade do registo"
+  },
+  "125505563": {
+   "fragment_id": "125587006",
+   "type": 11,
+   "heading": "Artigo 5.º — Factos sujeitos a registo obrigatório e prazos para o registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Factos sujeitos a registo obrigatório e prazos para o registo\n\n1 - O registo dos factos previstos nos artigos 2.º e 3.º e das ações, procedimentos, providências e decisões judiciais previstas no artigo anterior é obrigatório.\n\n2 - Salvo disposição legal em contrário, o registo deve ser pedido no prazo de dois meses a contar da data em que os factos tiverem sido titulados.\n\n3 - O registo das ações e dos procedimentos cautelares deve ser pedido no prazo de dois meses a contar da data da sua propositura.\n\n4 - O registo das decisões finais deve ser pedido no prazo de dois meses a contar da data do trânsito em julgado.\n\n5 - O registo das providências cautelares não é obrigatório se já se encontrar pedido o registo da ação principal."
+  },
+  "125505564": {
+   "fragment_id": "125587007",
+   "type": 11,
+   "heading": "Artigo 6.º — Oponibilidade a terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Oponibilidade a terceiros\n\nCom exceção dos factos cuja oponibilidade a terceiros decorra da publicitação, os factos sujeitos a registo só produzem efeitos contra terceiros depois da data do respetivo registo."
+  },
+  "125505565": {
+   "fragment_id": "125587008",
+   "type": 11,
+   "heading": "Artigo 7.º — Incumprimento da obrigação de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Incumprimento da obrigação de registo\n\n1 - A promoção do registo fora dos prazos referidos no artigo 5.º determina o pagamento de quantia igual à que estiver prevista a título de emolumento, independentemente da gratuitidade, isenção ou redução de que o ato beneficie.\n\n2 - O disposto no número anterior não se aplica aos tribunais, ao Ministério Público e à entidade competente para o reconhecimento das fundações."
+  },
+  "125505566": {
+   "fragment_id": "125587009",
+   "type": 1,
+   "heading": "Capítulo III — Registo e documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Registo e documentos"
+  },
+  "125505567": {
+   "fragment_id": "125587010",
+   "type": 11,
+   "heading": "Artigo 8.º — Registo de reconhecimento de fundação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Registo de reconhecimento de fundação\n\n1 - A submissão do pedido de reconhecimento nos termos do artigo 22.º da Lei-Quadro das Fundações, aprovada em anexo à Lei n.º 24/2012, de 9 de julho, na sua redação atual (Lei-Quadro das Fundações), é comunicada, preferencialmente por via eletrónica, aos serviços de registo pela Secretaria-Geral da Presidência do Conselho de Ministros (SGPCM), para efeitos de registo.\n\n2 - O registo a que se refere o número anterior é provisório por natureza, sendo convertido em definitivo com a comunicação do ato de reconhecimento, preferencialmente por via eletrónica, pela SGPCM aos serviços de registo.\n\n3 - A decisão de recusa do reconhecimento é comunicada nos termos do número anterior e determina o cancelamento da respetiva matrícula.\n\n4 - Para efeitos do n.º 2, o registo de reconhecimento de fundação reporta os seus efeitos à data de publicação no Diário da República do respetivo despacho de reconhecimento, emitido nos termos do artigo 20.º da Lei-Quadro das Fundações, devendo essa data constar como menção do registo de conversão.\n\n5 - A comunicação a que respeita o n.º 1 contém a informação necessária à abertura da matrícula da fundação."
+  },
+  "125505568": {
+   "fragment_id": "125587011",
+   "type": 11,
+   "heading": "Artigo 9.º — Registo da instituição de representação permanente de fundação estrangeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Registo da instituição de representação permanente de fundação estrangeira\n\nO registo da instituição de representação permanente de fundação estrangeira é efetuado com base em documentos que comprovem:\n\na) A existência jurídica da fundação estrangeira, de acordo com a lei ao abrigo da qual foi criada;\n\nb) A redação atualizada dos respetivos estatutos, dos quais devem constar a denominação, a sede e os fins;\n\nc) A deliberação de criação da representação permanente em território nacional, com menção da localização da representação;\n\nd) A deliberação de designação do respetivo representante legal, com menção dos poderes atribuídos;\n\ne) A autorização da entidade competente para o reconhecimento."
+  },
+  "125505569": {
+   "fragment_id": "125587012",
+   "type": 11,
+   "heading": "Artigo 10.º — Registo do estatuto de utilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Registo do estatuto de utilidade pública\n\nO registo da concessão de estatuto de utilidade pública, bem como da sua renovação ou cessação, é feito com a comunicação do respetivo ato, preferencialmente por via eletrónica, pela SGPCM aos serviços de registo."
+  },
+  "125505570": {
+   "fragment_id": "125587013",
+   "type": 11,
+   "heading": "Artigo 11.º — Registo da alteração dos estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Registo da alteração dos estatutos\n\nO registo da alteração dos estatutos das fundações é efetuado com base em pedido de registo transmitido aos serviços de registo pela SGPCM, preferencialmente por via eletrónica, do qual consta a ata comprovativa da deliberação de alteração estatutária, bem como o texto completo dos estatutos na sua redação atualizada e o respetivo título."
+  },
+  "125505571": {
+   "fragment_id": "125587014",
+   "type": 11,
+   "heading": "Artigo 12.º — Registo da designação e recondução dos membros dos órgãos da fundação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Registo da designação e recondução dos membros dos órgãos da fundação\n\nO registo da designação e recondução dos membros dos órgãos da fundação é efetuado com base em pedido de registo transmitido aos serviços de registo pela SGPCM, preferencialmente por via eletrónica, do qual constam a ata comprovativa da deliberação de designação ou de recondução e documento que comprove a aceitação daquela pelos membros designados ou reconduzidos."
+  },
+  "125505572": {
+   "fragment_id": "125587015",
+   "type": 11,
+   "heading": "Artigo 13.º — Registo de fusão de fundações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Registo de fusão de fundações\n\nO registo de fusão de fundações é efetuado com base em pedido de registo transmitido aos serviços de registo pela SGPCM, preferencialmente por via eletrónica, do qual consta a ata comprovativa da deliberação de fusão, bem como o texto completo dos estatutos na sua redação atualizada e o respetivo título."
+  },
+  "125505573": {
+   "fragment_id": "125587016",
+   "type": 11,
+   "heading": "Artigo 14.º — Registo de extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Registo de extinção\n\nSem prejuízo dos casos de extinção por decisão judicial, o registo da extinção é feito com a comunicação da declaração de extinção, preferencialmente por via eletrónica, pela SGPCM aos serviços de registo."
+  },
+  "125505574": {
+   "fragment_id": "125587017",
+   "type": 1,
+   "heading": "Capítulo IV — Atos de registo e publicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Atos de registo e publicações"
+  },
+  "125587175": {
+   "fragment_id": "125587018",
+   "type": 11,
+   "heading": "Artigo 15.º — Primeiro registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Primeiro registo\n\n1 - Nenhum facto referente a fundação ou a representação permanente de fundação estrangeira pode ser registado sem que se mostre efetuado o registo do respetivo reconhecimento ou criação, respetivamente.\n\n2 - O disposto no número anterior não é aplicável aos registos decorrentes do processo de insolvência.\n\n3 - Do primeiro registo decorre a matrícula da fundação ou da representação permanente de fundação estrangeira, conforme aplicável."
+  },
+  "125587176": {
+   "fragment_id": "125587019",
+   "type": 11,
+   "heading": "Artigo 16.º — Forma de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Forma de registo\n\n1 - Os registos a que se referem os artigos 8.º, 10.º e 14.º são efetuados oficiosamente com a comunicação dos respetivos atos, preferencialmente por via eletrónica, pela SGPCM aos serviços de registo.\n\n2 - Para efeitos do número anterior, o ato comunicado, juntamente com os respetivos documentos, constitui título bastante e suficiente para o registo.\n\n3 - Nos restantes casos, os registos são efetuados mediante a extratação dos elementos que definem a situação jurídica das fundações constantes dos documentos apresentados e transmitidos, preferencialmente por via eletrónica, pela SGPCM aos serviços de registo.\n\n4 - Para efeitos dos números anteriores, a verificação da viabilidade do registo é apreciada nos termos legais aplicáveis, designadamente observando o disposto no artigo 47.º do Código do Registo Comercial, na sua redação atual, sendo que, no que respeita aos factos resultantes de decisão da entidade competente nos termos da Lei-Quadro das Fundações, essa verificação não incide sobre os aspetos que foram objeto de decisão desta entidade, nem implica uma reapreciação da mesma.\n\n5 - A concessão do estatuto de utilidade pública, o respetivo prazo de validade e a cessação dos seus efeitos devem constar do extrato da matrícula."
+  },
+  "125587177": {
+   "fragment_id": "125587020",
+   "type": 11,
+   "heading": "Artigo 17.º — Registos provisórios por natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Registos provisórios por natureza\n\n1 - São provisórios por natureza os registos:\n\na) De pedido de reconhecimento de fundação;\n\nb) De ações e procedimentos cautelares;\n\nc) De declaração de insolvência, antes do trânsito em julgado da respetiva sentença.\n\n2 - São ainda provisórios por natureza os registos:\n\na) Dependentes de qualquer registo provisório ou que com ele sejam incompatíveis;\n\nb) Efetuados na pendência de impugnação de recusa de registo ou enquanto não decorrer o prazo para a sua interposição.\n\n3 - Salvo nos casos de provisoriedade previstos no n.º 1, deve ser lavrado despacho fundamentado que explicite os motivos da provisoriedade por natureza."
+  },
+  "125587178": {
+   "fragment_id": "125587021",
+   "type": 11,
+   "heading": "Artigo 18.º — Prazos especiais de vigência dos registos provisórios por natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Prazos especiais de vigência dos registos provisórios por natureza\n\n1 - Os registos referidos no n.º 1 do artigo anterior, se não forem provisórios com outro fundamento, não estão sujeitos a qualquer prazo de caducidade.\n\n2 - Aos registos referidos no n.º 2 do artigo anterior são aplicáveis, com as necessárias adaptações, as disposições relativas aos respetivos prazos constantes do Código do Registo Comercial, na sua redação atual."
+  },
+  "125587179": {
+   "fragment_id": "125587022",
+   "type": 11,
+   "heading": "Artigo 19.º — Factos registados por averbamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Factos registados por averbamento\n\n1 - São registados por averbamento às inscrições a que respeitam os seguintes factos:\n\na) A renovação e a cessação do estatuto de utilidade pública;\n\nb) A recondução e a cessação de funções dos membros dos órgãos das fundações, bem como dos representantes legais de fundações estrangeiras;\n\nc) A concessão de poderes especiais aos liquidatários ou aos representantes permanentes, bem como a sua modificação;\n\nd) A declaração de perda do direito ao uso de firma ou denominação;\n\ne) A cessação de funções do administrador judicial e do administrador judicial provisório da insolvência.\n\n2 - São registados nos mesmos termos:\n\na) A conversão em definitivos, no todo ou em parte, dos registos provisórios;\n\nb) A renovação dos registos;\n\nc) O cancelamento dos registos.\n\n3 - São registados juntamente com a conversão dos respetivos registos provisórios por natureza os seguintes factos:\n\na) A decisão final de ação inscrita;\n\nb) A providência decretada em procedimento cautelar inscrito;\n\nc) O trânsito em julgado da sentença declaratória da insolvência.\n\n4 - É registada através do cancelamento da respetiva inscrição a sentença, transitada em julgado, de revogação da decisão judicial declaratória da insolvência.\n\n5 - A conversão em definitiva da inscrição de ação em que se julgue modificado ou extinto um facto registado, ou se declare nulo ou anulado um registo, determina o correspondente averbamento oficioso de alteração ou de cancelamento.\n\n6 - Os averbamentos referidos no n.º 1 podem ser lavrados provisoriamente por dúvidas e podem ainda ser lavrados provisoriamente por natureza se devesse ser essa a qualificação dos registos dos factos idênticos que tenham de ser lavrados por inscrição."
+  },
+  "125587180": {
+   "fragment_id": "125587023",
+   "type": 11,
+   "heading": "Artigo 20.º — Publicações obrigatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Publicações obrigatórias\n\nÉ obrigatória a publicação:\n\na) Dos atos de registo respeitantes aos factos previstos nos artigos 2.º e 3.º;\n\nb) Dos atos de registo respeitantes aos factos previstos nas alíneas a) a g) do artigo 4.º;\n\nc) Da declaração de perda do direito ao uso de firma ou denominação."
+  },
+  "125587181": {
+   "fragment_id": "125587024",
+   "type": 1,
+   "heading": "Capítulo V — Comunicações e acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Comunicações e acesso"
+  },
+  "125587182": {
+   "fragment_id": "125587025",
+   "type": 11,
+   "heading": "Artigo 21.º — Comunicações obrigatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Comunicações obrigatórias\n\n1 - O serviço de registo deve comunicar aos serviços competentes da administração tributária, da segurança social e da cooperação e desenvolvimento, oficiosa e gratuitamente, o conteúdo dos atos de registo respeitantes aos seguintes factos:\n\na) O reconhecimento de fundações e a criação de representações permanentes em território nacional de fundações estrangeiras;\n\nb) As alterações aos estatutos das fundações e das fundações estrangeiras representadas em território nacional quanto à denominação, à sede, ao objeto ou fins e aos bens que integram o respetivo património, e a modificação das representações permanentes referidas na alínea anterior quanto ao local da representação e aos bens patrimoniais afetos;\n\nc) A designação e cessação de funções, por qualquer causa que não seja o decurso do tempo, dos membros dos órgãos das fundações e dos representantes permanentes das fundações estrangeiras, bem como os poderes destes últimos;\n\nd) A fusão de fundações;\n\ne) A extinção e o encerramento da liquidação do património das fundações e o encerramento das representações permanentes de fundações estrangeiras;\n\nf) A designação e cessação de funções, anterior ao encerramento da liquidação, dos liquidatários das fundações;\n\ng) A nomeação do administrador judicial e do administrador judicial provisório da insolvência.\n\n2 - Para os efeitos do disposto na alínea e) do número anterior, no momento do registo do encerramento da liquidação da entidade ou do encerramento da representação permanente, deve ser indicado o representante fiscal da entidade.\n\n3 - Os atos de registo respeitantes aos factos previstos no n.º 1 são igualmente comunicados, oficiosa e gratuitamente, às entidades ou serviços públicos que, nos termos da Lei-Quadro das Fundações, devam registar obrigatoriamente as fundações a que tais atos respeitam.\n\n4 - As comunicações obrigatórias efetuadas nos termos dos números anteriores determinam a dispensa para os interessados da obrigação legal de participação dos factos comunicados e de apresentação dos respetivos documentos comprovativos junto das entidades e serviços referidos nos mesmos números, sem prejuízo da informação adicional que, em razão da natureza da fundação, deva ser complementada junto das mesmas.\n\n5 - Os atos de registo respeitantes aos factos previstos no n.º 1 são igualmente comunicados à entidade competente para o reconhecimento das fundações, nos casos em que esta não os tenha transmitido.\n\n6 - As comunicações previstas nos números anteriores devem ser efetuadas oficiosa e preferencialmente por via eletrónica."
+  },
+  "125587183": {
+   "fragment_id": "125587026",
+   "type": 11,
+   "heading": "Artigo 22.º — Acesso aos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Acesso aos dados\n\n1 - Os dados constantes do registo de fundações estão sujeitos ao previsto nos artigos 78.º-B a 78.º-L do Código do Registo Comercial, na sua redação atual, com as necessárias adaptações.\n\n2 - Sem prejuízo do disposto no número anterior, é facultado o acesso aos dados constantes do registo de fundações à SGPCM e à Inspeção-Geral de Finanças (IGF), atentas as respetivas atribuições legais na matéria.\n\n3 - O acesso aos dados pelas entidades referidas no número anterior é gratuito e é assegurado pela Plataforma de Interoperabilidade na Administração Pública, nos termos do disposto na Resolução do Conselho de Ministros n.º 42/2015, de 19 de junho, mediante a celebração de protocolo entre as referidas entidades, o IRN, I. P., e a Agência para a Modernização Administrativa, I. P."
+  },
+  "125587184": {
+   "fragment_id": "125587027",
+   "type": 11,
+   "heading": "Artigo 23.º — Protocolo de cooperação institucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Protocolo de cooperação institucional\n\nPara efeitos dos artigos 21.º e 22.º, são celebrados protocolos de cooperação institucional entre a SGPCM, o Camões - Instituto da Cooperação e da Língua, I. P., a Autoridade Tributária e Aduaneira, a IGF, o IRN, I. P., o Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., a Direção-Geral da Segurança Social e o Instituto de Informática, I. P., cuja cópia é enviada à Comissão Nacional de Proteção de Dados."
+  },
+  "125587185": {
+   "fragment_id": "125587028",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais"
+  },
+  "125587186": {
+   "fragment_id": "125587029",
+   "type": 11,
+   "heading": "Artigo 24.º — Fundações públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Fundações públicas\n\nO registo de fundações públicas é efetuado ao abrigo do presente Regime, com as necessárias adaptações, em função das especificidades resultantes da Lei-Quadro das Fundações."
+  },
+  "125587187": {
+   "fragment_id": "125587030",
+   "type": 11,
+   "heading": "Artigo 25.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Direito subsidiário\n\nSão aplicáveis ao registo de fundações, com as necessárias adaptações, e naquilo que não for incompatível com a Lei-Quadro das Fundações, as disposições do Código do Registo Comercial, na sua redação atual, e do Regulamento do Registo Comercial, aprovado pela Portaria n.º 657-A/2006, de 29 de junho, na sua redação atual, na medida do indispensável ao preenchimento das lacunas da regulamentação própria.\n\n112680845"
+  },
+  "125505555": {
+   "fragment_id": "125586998",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 19 de setembro de 2019. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - Francisca Eugénia da Silva Dias Van Dunem.\n\nPromulgado em 8 de outubro de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 15 de outubro de 2019.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "165261870": {
+   "fragment_id": "125587002",
+   "type": 11,
+   "heading": "Artigo 2.º — Registo de factos relativos a fundações",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 2.º — Registo de factos relativos a fundações\n\nEstão sujeitos a registo os seguintes factos relativos à situação jurídica de fundações:\n\na) O pedido de reconhecimento de fundação, bem como o reconhecimento ou a recusa do reconhecimento da fundação, após a sua conclusão;\n\nb) (Revogada);\n\nc) A alteração dos estatutos, incluindo a ampliação e mudança dos fins da fundação;\n\nd) A designação, recondução e cessação de funções, por qualquer causa que não seja o decurso do tempo, dos membros do órgão de administração, do órgão diretivo ou executivo e do órgão de fiscalização da fundação;\n\ne) A fusão de fundações;\n\nf) A extinção da fundação;\n\ng) O encerramento da liquidação do património;\n\nh) A designação e cessação de funções, anterior ao encerramento da liquidação, dos liquidatários.\n\n> Alterado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+  },
+  "165274782": {
+   "fragment_id": "125587012",
+   "type": 11,
+   "heading": "Artigo 10.º — Registo do estatuto de utilidade pública",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 10.º — Registo do estatuto de utilidade pública\n\nO registo da concessão de estatuto de utilidade pública, bem como da sua renovação ou cessação, é feito com a comunicação do respetivo ato, preferencialmente por via eletrónica, pela SGPCM aos serviços de registo.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+  },
+  "165261871": {
+   "fragment_id": "125587019",
+   "type": 11,
+   "heading": "Artigo 16.º — Forma de registo",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 16.º — Forma de registo\n\n1 - Os registos a que se referem os artigos 8.º, 10.º e 14.º são efetuados oficiosamente com a comunicação dos respetivos atos, preferencialmente por via eletrónica, pela SGPCM aos serviços de registo.\n\n2 - Para efeitos do número anterior, o ato comunicado, juntamente com os respetivos documentos, constitui título bastante e suficiente para o registo.\n\n3 - Nos restantes casos, os registos são efetuados mediante a extratação dos elementos que definem a situação jurídica das fundações constantes dos documentos apresentados e transmitidos, preferencialmente por via eletrónica, pela SGPCM aos serviços de registo.\n\n4 - Para efeitos dos números anteriores, a verificação da viabilidade do registo é apreciada nos termos legais aplicáveis, designadamente observando o disposto no artigo 47.º do Código do Registo Comercial, na sua redação atual, sendo que, no que respeita aos factos resultantes de decisão da entidade competente nos termos da Lei-Quadro das Fundações, essa verificação não incide sobre os aspetos que foram objeto de decisão desta entidade, nem implica uma reapreciação da mesma.\n\n5 - (Revogada).\n\n> Alterado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+  },
+  "165261872": {
+   "fragment_id": "125587022",
+   "type": 11,
+   "heading": "Artigo 19.º — Factos registados por averbamento",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 19.º — Factos registados por averbamento\n\n1 - São registados por averbamento às inscrições a que respeitam os seguintes factos:\n\na) (Revogada).\n\nb) A recondução e a cessação de funções dos membros dos órgãos das fundações, bem como dos representantes legais de fundações estrangeiras;\n\nc) A concessão de poderes especiais aos liquidatários ou aos representantes permanentes, bem como a sua modificação;\n\nd) A declaração de perda do direito ao uso de firma ou denominação;\n\ne) A cessação de funções do administrador judicial e do administrador judicial provisório da insolvência.\n\n2 - São registados nos mesmos termos:\n\na) A conversão em definitivos, no todo ou em parte, dos registos provisórios;\n\nb) A renovação dos registos;\n\nc) O cancelamento dos registos.\n\n3 - São registados juntamente com a conversão dos respetivos registos provisórios por natureza os seguintes factos:\n\na) A decisão final de ação inscrita;\n\nb) A providência decretada em procedimento cautelar inscrito;\n\nc) O trânsito em julgado da sentença declaratória da insolvência.\n\n4 - É registada através do cancelamento da respetiva inscrição a sentença, transitada em julgado, de revogação da decisão judicial declaratória da insolvência.\n\n5 - A conversão em definitiva da inscrição de ação em que se julgue modificado ou extinto um facto registado, ou se declare nulo ou anulado um registo, determina o correspondente averbamento oficioso de alteração ou de cancelamento.\n\n6 - Os averbamentos referidos no n.º 1 podem ser lavrados provisoriamente por dúvidas e podem ainda ser lavrados provisoriamente por natureza se devesse ser essa a qualificação dos registos dos factos idênticos que tenham de ser lavrados por inscrição.\n\n> Alterado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+  }
+ }
+}

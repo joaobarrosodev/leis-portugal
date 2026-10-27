@@ -1,0 +1,483 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:131393156:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-138021006",
+ "dre_path": "/dr/detalhe/decreto-lei/14-e-2020-131393156",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-04-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "202011942",
+    "138020913",
+    "138020914",
+    "138020915",
+    "138020916",
+    "138020917",
+    "138020918",
+    "138020919",
+    "138020920",
+    "138020922"
+   ]
+  },
+  {
+   "date": "2020-07-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:137939968:por",
+     "title": "Decreto-Lei n.º 36/2020",
+     "published": "2020-07-15",
+     "dre_path": "/dr/detalhe/decreto-lei/36-2020-137939968"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 5.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "138020912",
+    "138020924",
+    "138020925",
+    "138020915",
+    "138020916",
+    "138020926",
+    "138020927",
+    "138020928",
+    "138020929",
+    "138020930",
+    "138020931",
+    "138020933"
+   ]
+  },
+  {
+   "date": "2021-07-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:167491775:por",
+     "title": "Decreto-Lei n.º 60-A/2021",
+     "published": "2021-07-15",
+     "dre_path": "/dr/detalhe/decreto-lei/60-a-2021-167491775"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 5.º-B",
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "138020912",
+    "167361127",
+    "138020925",
+    "138020915",
+    "138020916",
+    "138020926",
+    "138020927",
+    "167361128",
+    "167361129",
+    "167361130",
+    "167361131",
+    "167361132",
+    "167361133"
+   ]
+  },
+  {
+   "date": "2022-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:201773286:por",
+     "title": "Decreto-Lei n.º 66-A/2022",
+     "published": "2022-09-30",
+     "dre_path": "/dr/detalhe/decreto-lei/66-a-2022-201773286"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "202011942",
+    "202011943",
+    "202011944",
+    "202011945",
+    "202011946",
+    "202011947",
+    "202011948",
+    "202011949",
+    "202011950",
+    "202011951",
+    "202011952",
+    "202011953",
+    "202011954"
+   ]
+  }
+ ],
+ "fragments": {
+  "202011942": {
+   "fragment_id": "138021007",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-10-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 14-E/2020\n\nde 13 de abril\n\nSumário: Estabelece um regime excecional e temporário para a conceção, o fabrico, a importação, a comercialização nacional e a utilização de dispositivos médicos para uso humano e de equipamentos de proteção individual.\n\nNa sequência da qualificação, pela Organização Mundial de Saúde, da emergência de saúde pública ocasionada pela doença COVID-19 como uma pandemia internacional, o Presidente da República declarou, no passado dia 18 de março, o estado de emergência, com fundamento na verificação de uma situação de calamidade pública, através do Decreto do Presidente da República n.º 14-A/2020, de 18 de março.\n\nNo dia 2 de abril de 2020, o Presidente da República renovou a declaração de estado de emergência, com fundamento na verificação de uma situação de calamidade pública, através do Decreto do Presidente da República n.º 17-A/2020, de 2 de abril. Com a aprovação do Decreto n.º 2-B/2020, de 2 de abril, o Governo veio regulamentar a prorrogação do estado de emergência decretado pelo Presidente da República.\n\nA propagação rápida do novo coronavírus e da pandemia de COVID-19 determinou uma procura exponencial de dispositivos médicos e de equipamentos de proteção individual, tais como máscaras, luvas, fatos de proteção integral e equipamentos de proteção ocular, que, por sua vez, conduziu à escassez da quantidade de produtos necessários no contexto atual. A conceção, o fabrico, a importação, a colocação no mercado e a utilização daquele tipo de produtos no espaço europeu estão sujeitos a procedimentos de avaliação de conformidade, cuja verificação possibilita e determina a aposição da marcação «CE» nos produtos em causa, nos termos das regras comunitárias em vigor. Esta avaliação é, por sua vez, acompanhada também de procedimentos de fiscalização de conformidade por parte das entidades competentes.\n\nSucede que, face ao aumento exponencial da procura verificado na presente conjuntura e à necessidade de disponibilização célere destes produtos à população, como forma de prevenir o contágio e garantir a saúde e a segurança, tem-se assistido a uma escassez de oferta certificada, já que os fabricantes habituais não conseguiram, ainda, expandir a sua capacidade produtiva a fim de suprir as necessidades atuais do mercado.\n\nSimultaneamente, assiste-se a uma mobilização do tecido empresarial nacional, bem como da sociedade civil, para colaborar no esforço conjunto de combate à pandemia, seja reconvertendo as linhas de produção para o fabrico de equipamentos de proteção individual e dispositivos médicos essenciais seja dinamizando iniciativas de angariação e doação destes produtos.\n\nO problema descrito assume uma escala global, sentindo-se com particular acuidade no espaço europeu, dado o nível de propagação do vírus, o que levou as instituições europeias a recomendar uma agilização, simplificação ou mesmo derrogação daqueles procedimentos de avaliação de conformidade, em casos excecionais e desde que garantidos os requisitos mínimos de saúde e segurança.\n\nNeste sentido, foi adotada a Recomendação (UE) 2020/403 da Comissão, de 13 de março de 2020, sobre os procedimentos de avaliação da conformidade e de fiscalização do mercado face à ameaça da COVID-19, convidando todos os operadores económicos ao longo da cadeia de abastecimento, bem como os organismos notificados e as autoridades de fiscalização do mercado, a aplicar todas as medidas ao seu dispor para apoiar os esforços destinados a garantir o fornecimento de equipamentos de proteção individual e de dispositivos médicos em todo o mercado da União Europeia, dando resposta ao aumento constante da procura. Essas medidas não devem, no entanto, ter um efeito negativo no nível global de saúde e segurança, assegurando que todos os equipamentos de proteção individual ou dispositivos médicos colocados no mercado da União Europeia continuam a proporcionar um nível adequado de proteção da saúde e segurança dos utilizadores.\n\nA fim de adequar e adaptar os procedimentos nacionais de avaliação e fiscalização de conformidade dos dispositivos e equipamentos àquela Recomendação, e sendo expectável que a procura por estes produtos se mantenha elevada, não apenas na vigência do atual estado de emergência, mas também no período subsequente de retoma paulatina da normalidade económica e social, o Governo considera importante aprovar um ato normativo, dando segurança jurídica e apoio legal à atuação das entidades competentes para os processos de avaliação e fiscalização de conformidade daqueles produtos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "138020913": {
+   "fragment_id": "138021008",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece um regime excecional e transitório relativo ao fabrico, importação, colocação e disponibilização no mercado nacional de dispositivos médicos (DM) e de equipamentos de proteção individual (EPI), para efeitos de prevenção do contágio do novo coronavírus (SARS-CoV-2)."
+  },
+  "138020914": {
+   "fragment_id": "138021009",
+   "type": 11,
+   "heading": "Artigo 2.º — Regra geral de conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regra geral de conformidade\n\n1 - O fabrico, importação, colocação e disponibilização no mercado nacional de DM e de EPI, para efeitos de prevenção do contágio do SARS-CoV-2, devem obedecer aos procedimentos de avaliação de conformidade com os requisitos de saúde, segurança e desempenho legalmente exigidos, dos quais resulta a aposição da marcação CE e a emissão de declaração UE de conformidade.\n\n2 - Durante o surto de COVID-19, os procedimentos previstos no número anterior podem ser adaptados ou derrogados nos termos do disposto nos artigos seguintes, aplicando-se apenas aos DM e EPI que constam devidamente identificados no anexo ao presente decreto-lei e do qual faz parte integrante."
+  },
+  "138020915": {
+   "fragment_id": "138021010",
+   "type": 11,
+   "heading": "Artigo 3.º — Importação de dispositivos médicos e equipamentos de proteção individual sem marcação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Importação de dispositivos médicos e equipamentos de proteção individual sem marcação CE\n\n1 - Os DM e EPI necessários à prevenção do contágio do SARS-CoV-2, sem aposição de marcação CE, podem ser importados desde que sejam acompanhados de certificados ou outros documentos que comprovem a conformidade com as regras de saúde, de segurança e desempenho estabelecidas por outros Estados, equivalentes às exigidas pelos regulamentos comunitários, conforme lista elaborada pelo INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), relativamente aos DM, e pela Autoridade de Segurança Alimentar e Económica (ASAE), relativamente aos EPI.\n\n2 - Os DM e EPI necessários à prevenção do contágio do SARS-CoV-2 não abrangidos pelo número anterior devem apresentar documentação necessária à sua verificação, e apenas podem ser importados mediante prévia decisão favorável do INFARMED ou da ASAE, consoante o caso, a emitir, a pedido do importador, no prazo de quatro dias úteis, podendo este prazo ser prorrogado, uma vez, por igual período, caso se revele necessário consultar outras entidades.\n\n3 - A Autoridade Tributária e Aduaneira (AT) disponibiliza ao INFARMED, I. P., e à ASAE, com uma periodicidade quinzenal, uma lista contendo informações relativas à quantidade dos produtos importados e à sua tipologia, por referência às declarações de importação submetidas em cada período."
+  },
+  "138020916": {
+   "fragment_id": "138021011",
+   "type": 11,
+   "heading": "Artigo 4.º — Fabrico de dispositivos médicos e equipamentos de proteção individual sem marcação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Fabrico de dispositivos médicos e equipamentos de proteção individual sem marcação CE\n\n1 - Os DM e EPI necessários à prevenção do contágio do SARS-CoV-2 podem ser fabricados desde que o fabricante tenha dado cumprimento aos normativos de saúde, segurança e desempenho indicados para o efeito pelo INFARMED, I. P., relativamente aos DM, e pela ASAE, relativamente aos EPI, e disponibilize documentos comprovativos do cumprimento dos requisitos essenciais de saúde e segurança aplicáveis aos produtos em causa.\n\n2 - Para efeitos do disposto no número anterior, o INFARMED, I. P., e a ASAE devem publicar, nos respetivos sítios na Internet, os normativos de saúde, segurança e desempenho indicados para o fabrico daqueles produtos, no prazo de três dias úteis a contar da entrada em vigor do presente decreto-lei, os quais são passíveis de atualização e revisão.\n\n3 - Para efeitos de elaboração, atualização ou revisão do elenco dos normativos de saúde, segurança e desempenho, o INFARMED, I. P., e a ASAE podem articular-se entre si ou promover a consulta de outras entidades."
+  },
+  "138020917": {
+   "fragment_id": "138021012",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nColocação e disponibilização no mercado de dispositivos médicos e equipamentos de proteção individual\n\n1 - Os DM e EPI importados ou fabricados nos termos do disposto nos artigos anteriores, desde que cumpridos os demais requisitos de colocação de produtos no mercado, bem como as máscaras para uso social, podem ser disponibilizados:\n\na) Às unidades do sistema de saúde e outras entidades que disponham de adequada supervisão sanitária;\n\nb) Para venda em farmácias e locais de venda autorizados.\n\n2 - Sem prejuízo do disposto no número anterior, as semimáscaras de proteção respiratória, as máscaras para uso social e as luvas de uso único, importadas ou fabricadas nos termos do disposto nos artigos anteriores podem, ainda, ser livremente colocadas ou disponibilizadas no mercado, desde que cumpridos os demais requisitos de colocação de produtos no mercado, para venda em estabelecimentos de comércio por grosso e a retalho e em máquinas automáticas.\n\n3 - Os membros do Governo responsáveis pelas áreas da saúde e da economia, com faculdade de delegação, podem, conjuntamente, mediante despacho, permitir a colocação ou disponibilização no mercado de máscaras cirúrgicas para venda em estabelecimentos de comércio por grosso e a retalho ou em máquinas automáticas, designadamente definindo limites às quantidades assim disponibilizadas, por forma a assegurar o seu fornecimento prioritário ao pessoal de saúde."
+  },
+  "138020918": {
+   "fragment_id": "138021013",
+   "type": 11,
+   "heading": "Artigo 6.º — Natureza urgente e prioritária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Natureza urgente e prioritária\n\nOs procedimentos, decisões e recomendações da AT, do INFARMED, I. P., e da ASAE, necessários ao fabrico, importação, colocação e disponibilização no mercado de DM e EPI revestem natureza urgente e prioritária."
+  },
+  "138020919": {
+   "fragment_id": "138021014",
+   "type": 11,
+   "heading": "Artigo 7.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos a 13 de março de 2020."
+  },
+  "138020920": {
+   "fragment_id": "138021015",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "138020922": {
+   "fragment_id": "138021017",
+   "type": 14,
+   "heading": "Anexo — Lista a que se refere o n.º 2 do artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Lista a que se refere o n.º 2 do artigo 2.º\n\n1 - Máscaras cirúrgicas para uso por profissionais de saúde, de uso único e reutilizáveis.\n\n2 - Máscaras cirúrgicas para uso social, de uso único e reutilizáveis.\n\n3 - Semimáscaras de proteção respiratória.\n\n4 - Máscaras com viseira integrada.\n\n5 - Batas cirúrgicas.\n\n6 - Fatos de proteção integral.\n\n7 - Cógulas.\n\n8 - Toucas.\n\n9 - Manguitos.\n\n10 - Proteção de calçado - Cobre-botas.\n\n11 - Proteção de calçado - Cobre-sapatos.\n\n12 - Luvas de uso único.\n\n13 - Óculos de proteção.\n\n14 - Viseiras.\n\n15 - Zaragatoas.\n\n113179035"
+  },
+  "138020912": {
+   "fragment_id": "138021007",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 14-E/2020\n\nde 13 de abril\n\nSumário: Estabelece um regime excecional e temporário para a conceção, o fabrico, a importação, a comercialização nacional e a utilização de dispositivos médicos para uso humano e de equipamentos de proteção individual.\n\nNa sequência da qualificação, pela Organização Mundial de Saúde, da emergência de saúde pública ocasionada pela doença COVID-19 como uma pandemia internacional, o Presidente da República declarou, no passado dia 18 de março, o estado de emergência, com fundamento na verificação de uma situação de calamidade pública, através do Decreto do Presidente da República n.º 14-A/2020, de 18 de março.\n\nNo dia 2 de abril de 2020, o Presidente da República renovou a declaração de estado de emergência, com fundamento na verificação de uma situação de calamidade pública, através do Decreto do Presidente da República n.º 17-A/2020, de 2 de abril. Com a aprovação do Decreto n.º 2-B/2020, de 2 de abril, o Governo veio regulamentar a prorrogação do estado de emergência decretado pelo Presidente da República.\n\nA propagação rápida do novo coronavírus e da pandemia de COVID-19 determinou uma procura exponencial de dispositivos médicos e de equipamentos de proteção individual, tais como máscaras, luvas, fatos de proteção integral e equipamentos de proteção ocular, que, por sua vez, conduziu à escassez da quantidade de produtos necessários no contexto atual. A conceção, o fabrico, a importação, a colocação no mercado e a utilização daquele tipo de produtos no espaço europeu estão sujeitos a procedimentos de avaliação de conformidade, cuja verificação possibilita e determina a aposição da marcação «CE» nos produtos em causa, nos termos das regras comunitárias em vigor. Esta avaliação é, por sua vez, acompanhada também de procedimentos de fiscalização de conformidade por parte das entidades competentes.\n\nSucede que, face ao aumento exponencial da procura verificado na presente conjuntura e à necessidade de disponibilização célere destes produtos à população, como forma de prevenir o contágio e garantir a saúde e a segurança, tem-se assistido a uma escassez de oferta certificada, já que os fabricantes habituais não conseguiram, ainda, expandir a sua capacidade produtiva a fim de suprir as necessidades atuais do mercado.\n\nSimultaneamente, assiste-se a uma mobilização do tecido empresarial nacional, bem como da sociedade civil, para colaborar no esforço conjunto de combate à pandemia, seja reconvertendo as linhas de produção para o fabrico de equipamentos de proteção individual e dispositivos médicos essenciais seja dinamizando iniciativas de angariação e doação destes produtos.\n\nO problema descrito assume uma escala global, sentindo-se com particular acuidade no espaço europeu, dado o nível de propagação do vírus, o que levou as instituições europeias a recomendar uma agilização, simplificação ou mesmo derrogação daqueles procedimentos de avaliação de conformidade, em casos excecionais e desde que garantidos os requisitos mínimos de saúde e segurança.\n\nNeste sentido, foi adotada a Recomendação (UE) 2020/403 da Comissão, de 13 de março de 2020, sobre os procedimentos de avaliação da conformidade e de fiscalização do mercado face à ameaça da COVID-19, convidando todos os operadores económicos ao longo da cadeia de abastecimento, bem como os organismos notificados e as autoridades de fiscalização do mercado, a aplicar todas as medidas ao seu dispor para apoiar os esforços destinados a garantir o fornecimento de equipamentos de proteção individual e de dispositivos médicos em todo o mercado da União Europeia, dando resposta ao aumento constante da procura. Essas medidas não devem, no entanto, ter um efeito negativo no nível global de saúde e segurança, assegurando que todos os equipamentos de proteção individual ou dispositivos médicos colocados no mercado da União Europeia continuam a proporcionar um nível adequado de proteção da saúde e segurança dos utilizadores.\n\nA fim de adequar e adaptar os procedimentos nacionais de avaliação e fiscalização de conformidade dos dispositivos e equipamentos àquela Recomendação, e sendo expectável que a procura por estes produtos se mantenha elevada, não apenas na vigência do atual estado de emergência, mas também no período subsequente de retoma paulatina da normalidade económica e social, o Governo considera importante aprovar um ato normativo, dando segurança jurídica e apoio legal à atuação das entidades competentes para os processos de avaliação e fiscalização de conformidade daqueles produtos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "138020924": {
+   "fragment_id": "138021008",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2020-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2020 - Diário da República n.º 136/2020, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2020-137939968), em vigor a partir de 2020-07-16, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei estabelece um regime excecional e transitório relativo ao fabrico, importação, colocação e disponibilização no mercado nacional de dispositivos médicos (DM) e de equipamentos de proteção individual (EPI), para efeitos de prevenção do contágio do novo coronavírus (SARS-CoV-2).\n\n2 - O presente decreto-lei estabelece ainda o regime relativo ao fabrico, importação e comercialização de máscaras de uso social.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2020 - Diário da República n.º 136/2020, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2020-137939968), em vigor a partir de 2020-07-16, produz efeitos a partir de 2020-03-13"
+  },
+  "138020925": {
+   "fragment_id": "138021009",
+   "type": 11,
+   "heading": "Artigo 2.º — Regra geral de conformidade",
+   "in_force_from": "2020-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2020 - Diário da República n.º 136/2020, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2020-137939968), em vigor a partir de 2020-07-16, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "###### Artigo 2.º — Regra geral de conformidade\n\n1 - O fabrico, importação, colocação e disponibilização no mercado nacional de DM e de EPI, para efeitos de prevenção do contágio do SARS-CoV-2, devem obedecer aos procedimentos de avaliação de conformidade com os requisitos de saúde, segurança e desempenho legalmente exigidos, dos quais resulta a aposição da marcação CE e a emissão de declaração UE de conformidade.\n\n2 - Durante o surto de COVID-19, os procedimentos previstos no número anterior podem ser adaptados ou derrogados nos termos do disposto nos artigos seguintes, aplicando-se apenas aos DM e EPI que constam devidamente identificados no anexo ao presente decreto-lei e do qual faz parte integrante.\n\n3 - O fabrico e a importação de máscaras de uso social identificadas no anexo ao presente decreto-lei obedecem às especificações técnicas publicitadas para o efeito.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2020 - Diário da República n.º 136/2020, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2020-137939968), em vigor a partir de 2020-07-16, produz efeitos a partir de 2020-03-13"
+  },
+  "138020926": {
+   "fragment_id": "138021012",
+   "type": 11,
+   "heading": "Artigo 5.º — Colocação e disponibilização no mercado",
+   "in_force_from": "2020-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2020 - Diário da República n.º 136/2020, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2020-137939968), em vigor a partir de 2020-07-16, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "###### Artigo 5.º — Colocação e disponibilização no mercado\n\n1 - Os DM e EPI importados ou fabricados nos termos do disposto nos artigos anteriores, desde que cumpridos os demais requisitos de colocação de produtos no mercado, bem como as máscaras para uso social, podem ser disponibilizados no mercado nacional, desde que seja garantida a manutenção das suas características de saúde, segurança e desempenho.\n\n2 - As semimáscaras de proteção respiratória, as máscaras para uso social e as luvas de uso único podem também ser disponibilizadas em máquinas automáticas.\n\n3 - Os membros do Governo responsáveis pelas áreas da economia e da saúde, com faculdade de delegação, podem, conjuntamente, mediante despacho, definir limites às quantidades disponibilizadas no mercado de máscaras cirúrgicas e semimáscaras de proteção respiratória para venda em estabelecimentos de comércio por grosso e a retalho ou em máquinas automáticas, por forma a assegurar o seu fornecimento prioritário ao pessoal de saúde.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2020 - Diário da República n.º 136/2020, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2020-137939968), em vigor a partir de 2020-07-16, produz efeitos a partir de 2020-03-13"
+  },
+  "138020927": {
+   "fragment_id": "138021018",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Licenciamento industrial",
+   "in_force_from": "2020-07-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 36/2020 - Diário da República n.º 136/2020, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2020-137939968), em vigor a partir de 2020-07-16, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "###### Artigo 5.º-A — Licenciamento industrial\n\n1 - As alterações de estabelecimentos industriais, na aceção do artigo 39.º do Sistema da Indústria Responsável (SIR), aprovado em anexo ao Decreto-Lei n.º 169/2012, de 1 de agosto, na sua redação atual, com vista ao fabrico de DM, de EPI, de álcool etílico e ou de produtos biocidas desinfetantes para prevenção do contágio de SARS-CoV-2 obedece às seguintes regras:\n\na) Os casos previstos nos n.os 1 e 3 do artigo 39.º do SIR ficam apenas sujeitos a um pedido de alteração dirigido, através de correio eletrónico, ao IAPMEI - Agência para Competitividade e Inovação, I. P. (IAPMEI, I. P.), que convoca conferência procedimental na qual participam a Agência Portuguesa do Ambiente, I. P., e outras entidades competentes em função dos regimes ambientais aplicáveis, e que se realiza no prazo máximo de cinco dias úteis;\n\nb) Os estabelecimentos de tipo 3 ficam dispensados da mera comunicação prévia de alteração a que se refere o n.º 4 do artigo 39.º do SIR.\n\n2 - Nas situações previstas na alínea a) do número anterior, a decisão final do IAPMEI, I. P., só pode ser proferida sem a prévia realização da conferência procedimental após o termo do prazo fixado para a realização da mesma.\n\n3 - O pedido de alteração referido na alínea a) do n.º 1 é instruído com os seguintes elementos:\n\na) Descrição sucinta da alteração;\n\nb) Declaração, sob compromisso de honra dos elementos da direção do estabelecimento industrial, de que as alterações não implicam modificações ao nível da infraestrutura do estabelecimento industrial e que a atividade é temporária;\n\nc) Indicação da capacidade máxima instalada de produção e de armazenagem;\n\nd) Indicação das novas matérias-primas a utilizar no processo produtivo, dos novos produtos finais e, quando se tratar da utilização de solventes orgânicos, os respetivos consumos.\n\n4 - As autorizações concedidas ao abrigo do presente artigo são revogadas se tiverem sido obtidas por meio de falsas declarações, sem prejuízo do recurso a outros fundamentos legalmente previstos.\n\n5 - As autorizações relativas às alterações aos estabelecimentos industriais efetuadas ao abrigo do presente artigo caducam 30 dias após a revogação do presente decreto-lei.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 36/2020 - Diário da República n.º 136/2020, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2020-137939968), em vigor a partir de 2020-07-16, produz efeitos a partir de 2020-03-13"
+  },
+  "138020928": {
+   "fragment_id": "138021013",
+   "type": 11,
+   "heading": "Artigo 6.º — Natureza urgente e prioritária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Natureza urgente e prioritária\n\nOs procedimentos, decisões e recomendações da AT, do INFARMED, I. P., e da ASAE, necessários ao fabrico, importação, colocação e disponibilização no mercado de DM e EPI revestem natureza urgente e prioritária."
+  },
+  "138020929": {
+   "fragment_id": "138021014",
+   "type": 11,
+   "heading": "Artigo 7.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos a 13 de março de 2020."
+  },
+  "138020930": {
+   "fragment_id": "138021015",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "138020931": {
+   "fragment_id": "138021016",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de abril de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - António Manuel Veiga dos Santos Mendonça Mendes - Marta Alexandra Fartura Braga Temido de Almeida Simões.\n\nPromulgado em 13 de abril de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 13 de abril de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "138020933": {
+   "fragment_id": "138021017",
+   "type": 14,
+   "heading": "Anexo — Lista a que se referem os n.os 2 e 3 do artigo 2.º",
+   "in_force_from": "2020-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 36/2020 - Diário da República n.º 136/2020, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2020-137939968), em vigor a partir de 2020-07-16, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "## Anexo — Lista a que se referem os n.os 2 e 3 do artigo 2.º\n\n1 - Máscaras cirúrgicas para uso por profissionais de saúde, de uso único.\n\n2 - Máscaras para uso social, de uso único ou reutilizáveis.\n\n3 - Semimáscaras de proteção respiratória.\n\n4 - Máscaras com viseira integrada.\n\n5 - Batas cirúrgicas.\n\n6 - Fatos de proteção integral.\n\n7 - Cógulas.\n\n8 - Toucas.\n\n9 - Manguitos e perneiras.\n\n10 - Proteção de calçado - Cobre-botas.\n\n11 - Proteção de calçado - Cobre-sapatos.\n\n12 - Luvas de uso único.\n\n13 - Óculos de proteção.\n\n14 - Viseiras.\n\n15 - Zaragatoas.\n\n113179035\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 36/2020 - Diário da República n.º 136/2020, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2020-137939968), em vigor a partir de 2020-07-16, produz efeitos a partir de 2020-03-13"
+  },
+  "167361127": {
+   "fragment_id": "138021008",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2021-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60-A/2021 - Diário da República n.º 136/2021, 1º Suplemento, Série I de 2021-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-a-2021-167491775), em vigor a partir de 2021-07-16",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2020 - Diário da República n.º 136/2020, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2020-137939968), em vigor a partir de 2020-07-16, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei estabelece um regime excecional e transitório relativo ao fabrico, importação, colocação e disponibilização no mercado nacional de dispositivos médicos (DM) e de equipamentos de proteção individual (EPI), para efeitos de prevenção do contágio do novo coronavírus (SARS-CoV-2).\n\n2 - O presente decreto-lei estabelece ainda o regime relativo ao fabrico, importação e comercialização de máscaras de uso social.\n\n3 - O presente decreto-lei estabelece também um regime excecional relativo à disponibilização no mercado nacional de testes rápidos de antigénio (TRAg), enquanto DM para diagnóstico in vitro de autodiagnóstico.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60-A/2021 - Diário da República n.º 136/2021, 1º Suplemento, Série I de 2021-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-a-2021-167491775), em vigor a partir de 2021-07-16\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2020 - Diário da República n.º 136/2020, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2020-137939968), em vigor a partir de 2020-07-16, produz efeitos a partir de 2020-03-13"
+  },
+  "167361128": {
+   "fragment_id": "167503003",
+   "type": 11,
+   "heading": "Artigo 5.º-B — Disponibilização no mercado de testes rápidos de antigénio na modalidade de autoteste",
+   "in_force_from": "2021-07-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 60-A/2021 - Diário da República n.º 136/2021, 1º Suplemento, Série I de 2021-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-a-2021-167491775), em vigor a partir de 2021-07-16"
+   ],
+   "markdown": "###### Artigo 5.º-B — Disponibilização no mercado de testes rápidos de antigénio na modalidade de autoteste\n\n1 - Os TRAg na modalidade de autoteste utilizados para rastreio da infeção por SARS-CoV-2 podem ser disponibilizados no mercado nacional em supermercados e hipermercados, desde que sejam garantidas as condições definidas pelo fabricante na informação constante na rotulagem e/ou no folheto informativo.\n\n2 - Compete à Direção-Geral da Saúde, ao INFARMED, I. P., e ao Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P., a emissão de orientações necessárias à realização de TRAg na modalidade de autoteste.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 60-A/2021 - Diário da República n.º 136/2021, 1º Suplemento, Série I de 2021-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-a-2021-167491775), em vigor a partir de 2021-07-16"
+  },
+  "167361129": {
+   "fragment_id": "138021013",
+   "type": 11,
+   "heading": "Artigo 6.º — Natureza urgente e prioritária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Natureza urgente e prioritária\n\nOs procedimentos, decisões e recomendações da AT, do INFARMED, I. P., e da ASAE, necessários ao fabrico, importação, colocação e disponibilização no mercado de DM e EPI revestem natureza urgente e prioritária."
+  },
+  "167361130": {
+   "fragment_id": "138021014",
+   "type": 11,
+   "heading": "Artigo 7.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos a 13 de março de 2020."
+  },
+  "167361131": {
+   "fragment_id": "138021015",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "167361132": {
+   "fragment_id": "138021016",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de abril de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - António Manuel Veiga dos Santos Mendonça Mendes - Marta Alexandra Fartura Braga Temido de Almeida Simões.\n\nPromulgado em 13 de abril de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 13 de abril de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "167361133": {
+   "fragment_id": "138021017",
+   "type": 14,
+   "heading": "Anexo — Lista a que se referem os n.os 2 e 3 do artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 36/2020 - Diário da República n.º 136/2020, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2020-137939968), em vigor a partir de 2020-07-16, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "## Anexo — Lista a que se referem os n.os 2 e 3 do artigo 2.º\n\n1 - Máscaras cirúrgicas para uso por profissionais de saúde, de uso único.\n\n2 - Máscaras para uso social, de uso único ou reutilizáveis.\n\n3 - Semimáscaras de proteção respiratória.\n\n4 - Máscaras com viseira integrada.\n\n5 - Batas cirúrgicas.\n\n6 - Fatos de proteção integral.\n\n7 - Cógulas.\n\n8 - Toucas.\n\n9 - Manguitos e perneiras.\n\n10 - Proteção de calçado - Cobre-botas.\n\n11 - Proteção de calçado - Cobre-sapatos.\n\n12 - Luvas de uso único.\n\n13 - Óculos de proteção.\n\n14 - Viseiras.\n\n15 - Zaragatoas.\n\n113179035\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 36/2020 - Diário da República n.º 136/2020, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2020-137939968), em vigor a partir de 2020-07-16, produz efeitos a partir de 2020-03-13"
+  },
+  "202011943": {
+   "fragment_id": "138021008",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60-A/2021 - Diário da República n.º 136/2021, 1º Suplemento, Série I de 2021-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-a-2021-167491775), em vigor a partir de 2021-07-16",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2020 - Diário da República n.º 136/2020, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2020-137939968), em vigor a partir de 2020-07-16, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei estabelece um regime excecional e transitório relativo ao fabrico, importação, colocação e disponibilização no mercado nacional de dispositivos médicos (DM) e de equipamentos de proteção individual (EPI), para efeitos de prevenção do contágio do novo coronavírus (SARS-CoV-2).\n\n2 - O presente decreto-lei estabelece ainda o regime relativo ao fabrico, importação e comercialização de máscaras de uso social.\n\n3 - O presente decreto-lei estabelece também um regime excecional relativo à disponibilização no mercado nacional de testes rápidos de antigénio (TRAg), enquanto DM para diagnóstico in vitro de autodiagnóstico.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60-A/2021 - Diário da República n.º 136/2021, 1º Suplemento, Série I de 2021-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-a-2021-167491775), em vigor a partir de 2021-07-16\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2020 - Diário da República n.º 136/2020, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2020-137939968), em vigor a partir de 2020-07-16, produz efeitos a partir de 2020-03-13"
+  },
+  "202011944": {
+   "fragment_id": "138021009",
+   "type": 11,
+   "heading": "Artigo 2.º — Regra geral de conformidade",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2020 - Diário da República n.º 136/2020, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2020-137939968), em vigor a partir de 2020-07-16, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "###### Artigo 2.º — Regra geral de conformidade\n\n1 - O fabrico, importação, colocação e disponibilização no mercado nacional de DM e de EPI, para efeitos de prevenção do contágio do SARS-CoV-2, devem obedecer aos procedimentos de avaliação de conformidade com os requisitos de saúde, segurança e desempenho legalmente exigidos, dos quais resulta a aposição da marcação CE e a emissão de declaração UE de conformidade.\n\n2 - Durante o surto de COVID-19, os procedimentos previstos no número anterior podem ser adaptados ou derrogados nos termos do disposto nos artigos seguintes, aplicando-se apenas aos DM e EPI que constam devidamente identificados no anexo ao presente decreto-lei e do qual faz parte integrante.\n\n3 - O fabrico e a importação de máscaras de uso social identificadas no anexo ao presente decreto-lei obedecem às especificações técnicas publicitadas para o efeito.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2020 - Diário da República n.º 136/2020, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2020-137939968), em vigor a partir de 2020-07-16, produz efeitos a partir de 2020-03-13"
+  },
+  "202011945": {
+   "fragment_id": "138021010",
+   "type": 11,
+   "heading": "Artigo 3.º — Importação de dispositivos médicos e equipamentos de proteção individual sem marcação CE",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 3.º — Importação de dispositivos médicos e equipamentos de proteção individual sem marcação CE\n\n1 - Os DM e EPI necessários à prevenção do contágio do SARS-CoV-2, sem aposição de marcação CE, podem ser importados desde que sejam acompanhados de certificados ou outros documentos que comprovem a conformidade com as regras de saúde, de segurança e desempenho estabelecidas por outros Estados, equivalentes às exigidas pelos regulamentos comunitários, conforme lista elaborada pelo INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), relativamente aos DM, e pela Autoridade de Segurança Alimentar e Económica (ASAE), relativamente aos EPI.\n\n2 - Os DM e EPI necessários à prevenção do contágio do SARS-CoV-2 não abrangidos pelo número anterior devem apresentar documentação necessária à sua verificação, e apenas podem ser importados mediante prévia decisão favorável do INFARMED ou da ASAE, consoante o caso, a emitir, a pedido do importador, no prazo de quatro dias úteis, podendo este prazo ser prorrogado, uma vez, por igual período, caso se revele necessário consultar outras entidades.\n\n3 - A Autoridade Tributária e Aduaneira (AT) disponibiliza ao INFARMED, I. P., e à ASAE, com uma periodicidade quinzenal, uma lista contendo informações relativas à quantidade dos produtos importados e à sua tipologia, por referência às declarações de importação submetidas em cada período.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202011946": {
+   "fragment_id": "138021011",
+   "type": 11,
+   "heading": "Artigo 4.º — Fabrico de dispositivos médicos e equipamentos de proteção individual sem marcação CE",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 4.º — Fabrico de dispositivos médicos e equipamentos de proteção individual sem marcação CE\n\n1 - Os DM e EPI necessários à prevenção do contágio do SARS-CoV-2 podem ser fabricados desde que o fabricante tenha dado cumprimento aos normativos de saúde, segurança e desempenho indicados para o efeito pelo INFARMED, I. P., relativamente aos DM, e pela ASAE, relativamente aos EPI, e disponibilize documentos comprovativos do cumprimento dos requisitos essenciais de saúde e segurança aplicáveis aos produtos em causa.\n\n2 - Para efeitos do disposto no número anterior, o INFARMED, I. P., e a ASAE devem publicar, nos respetivos sítios na Internet, os normativos de saúde, segurança e desempenho indicados para o fabrico daqueles produtos, no prazo de três dias úteis a contar da entrada em vigor do presente decreto-lei, os quais são passíveis de atualização e revisão.\n\n3 - Para efeitos de elaboração, atualização ou revisão do elenco dos normativos de saúde, segurança e desempenho, o INFARMED, I. P., e a ASAE podem articular-se entre si ou promover a consulta de outras entidades.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202011947": {
+   "fragment_id": "138021012",
+   "type": 11,
+   "heading": "Artigo 5.º — Colocação e disponibilização no mercado",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2020 - Diário da República n.º 136/2020, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2020-137939968), em vigor a partir de 2020-07-16, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "###### Artigo 5.º — Colocação e disponibilização no mercado\n\n1 - Os DM e EPI importados ou fabricados nos termos do disposto nos artigos anteriores, desde que cumpridos os demais requisitos de colocação de produtos no mercado, bem como as máscaras para uso social, podem ser disponibilizados no mercado nacional, desde que seja garantida a manutenção das suas características de saúde, segurança e desempenho.\n\n2 - As semimáscaras de proteção respiratória, as máscaras para uso social e as luvas de uso único podem também ser disponibilizadas em máquinas automáticas.\n\n3 - Os membros do Governo responsáveis pelas áreas da economia e da saúde, com faculdade de delegação, podem, conjuntamente, mediante despacho, definir limites às quantidades disponibilizadas no mercado de máscaras cirúrgicas e semimáscaras de proteção respiratória para venda em estabelecimentos de comércio por grosso e a retalho ou em máquinas automáticas, por forma a assegurar o seu fornecimento prioritário ao pessoal de saúde.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2020 - Diário da República n.º 136/2020, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2020-137939968), em vigor a partir de 2020-07-16, produz efeitos a partir de 2020-03-13"
+  },
+  "202011948": {
+   "fragment_id": "138021018",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Licenciamento industrial",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 36/2020 - Diário da República n.º 136/2020, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2020-137939968), em vigor a partir de 2020-07-16, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "###### Artigo 5.º-A — Licenciamento industrial\n\n1 - As alterações de estabelecimentos industriais, na aceção do artigo 39.º do Sistema da Indústria Responsável (SIR), aprovado em anexo ao Decreto-Lei n.º 169/2012, de 1 de agosto, na sua redação atual, com vista ao fabrico de DM, de EPI, de álcool etílico e ou de produtos biocidas desinfetantes para prevenção do contágio de SARS-CoV-2 obedece às seguintes regras:\n\na) Os casos previstos nos n.os 1 e 3 do artigo 39.º do SIR ficam apenas sujeitos a um pedido de alteração dirigido, através de correio eletrónico, ao IAPMEI - Agência para Competitividade e Inovação, I. P. (IAPMEI, I. P.), que convoca conferência procedimental na qual participam a Agência Portuguesa do Ambiente, I. P., e outras entidades competentes em função dos regimes ambientais aplicáveis, e que se realiza no prazo máximo de cinco dias úteis;\n\nb) Os estabelecimentos de tipo 3 ficam dispensados da mera comunicação prévia de alteração a que se refere o n.º 4 do artigo 39.º do SIR.\n\n2 - Nas situações previstas na alínea a) do número anterior, a decisão final do IAPMEI, I. P., só pode ser proferida sem a prévia realização da conferência procedimental após o termo do prazo fixado para a realização da mesma.\n\n3 - O pedido de alteração referido na alínea a) do n.º 1 é instruído com os seguintes elementos:\n\na) Descrição sucinta da alteração;\n\nb) Declaração, sob compromisso de honra dos elementos da direção do estabelecimento industrial, de que as alterações não implicam modificações ao nível da infraestrutura do estabelecimento industrial e que a atividade é temporária;\n\nc) Indicação da capacidade máxima instalada de produção e de armazenagem;\n\nd) Indicação das novas matérias-primas a utilizar no processo produtivo, dos novos produtos finais e, quando se tratar da utilização de solventes orgânicos, os respetivos consumos.\n\n4 - As autorizações concedidas ao abrigo do presente artigo são revogadas se tiverem sido obtidas por meio de falsas declarações, sem prejuízo do recurso a outros fundamentos legalmente previstos.\n\n5 - As autorizações relativas às alterações aos estabelecimentos industriais efetuadas ao abrigo do presente artigo caducam 30 dias após a revogação do presente decreto-lei.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 36/2020 - Diário da República n.º 136/2020, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2020-137939968), em vigor a partir de 2020-07-16, produz efeitos a partir de 2020-03-13"
+  },
+  "202011949": {
+   "fragment_id": "167503003",
+   "type": 11,
+   "heading": "Artigo 5.º-B — Disponibilização no mercado de testes rápidos de antigénio na modalidade de autoteste",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 60-A/2021 - Diário da República n.º 136/2021, 1º Suplemento, Série I de 2021-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-a-2021-167491775), em vigor a partir de 2021-07-16"
+   ],
+   "markdown": "###### Artigo 5.º-B — Disponibilização no mercado de testes rápidos de antigénio na modalidade de autoteste\n\n1 - Os TRAg na modalidade de autoteste utilizados para rastreio da infeção por SARS-CoV-2 podem ser disponibilizados no mercado nacional em supermercados e hipermercados, desde que sejam garantidas as condições definidas pelo fabricante na informação constante na rotulagem e/ou no folheto informativo.\n\n2 - Compete à Direção-Geral da Saúde, ao INFARMED, I. P., e ao Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P., a emissão de orientações necessárias à realização de TRAg na modalidade de autoteste.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 60-A/2021 - Diário da República n.º 136/2021, 1º Suplemento, Série I de 2021-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-a-2021-167491775), em vigor a partir de 2021-07-16"
+  },
+  "202011950": {
+   "fragment_id": "138021013",
+   "type": 11,
+   "heading": "Artigo 6.º — Natureza urgente e prioritária",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 6.º — Natureza urgente e prioritária\n\nOs procedimentos, decisões e recomendações da AT, do INFARMED, I. P., e da ASAE, necessários ao fabrico, importação, colocação e disponibilização no mercado de DM e EPI revestem natureza urgente e prioritária.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202011951": {
+   "fragment_id": "138021014",
+   "type": 11,
+   "heading": "Artigo 7.º — Produção de efeitos",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 7.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos a 13 de março de 2020.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202011952": {
+   "fragment_id": "138021015",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202011953": {
+   "fragment_id": "138021016",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de abril de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - António Manuel Veiga dos Santos Mendonça Mendes - Marta Alexandra Fartura Braga Temido de Almeida Simões.\n\nPromulgado em 13 de abril de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 13 de abril de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202011954": {
+   "fragment_id": "138021017",
+   "type": 14,
+   "heading": "Anexo — Lista a que se referem os n.os 2 e 3 do artigo 2.º",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 36/2020 - Diário da República n.º 136/2020, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2020-137939968), em vigor a partir de 2020-07-16, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "## Anexo — Lista a que se referem os n.os 2 e 3 do artigo 2.º\n\n1 - Máscaras cirúrgicas para uso por profissionais de saúde, de uso único.\n\n2 - Máscaras para uso social, de uso único ou reutilizáveis.\n\n3 - Semimáscaras de proteção respiratória.\n\n4 - Máscaras com viseira integrada.\n\n5 - Batas cirúrgicas.\n\n6 - Fatos de proteção integral.\n\n7 - Cógulas.\n\n8 - Toucas.\n\n9 - Manguitos e perneiras.\n\n10 - Proteção de calçado - Cobre-botas.\n\n11 - Proteção de calçado - Cobre-sapatos.\n\n12 - Luvas de uso único.\n\n13 - Óculos de proteção.\n\n14 - Viseiras.\n\n15 - Zaragatoas.\n\n113179035\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 36/2020 - Diário da República n.º 136/2020, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2020-137939968), em vigor a partir de 2020-07-16, produz efeitos a partir de 2020-03-13"
+  }
+ }
+}

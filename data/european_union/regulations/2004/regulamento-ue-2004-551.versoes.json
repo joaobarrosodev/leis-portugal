@@ -1,0 +1,387 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004R0551:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0551-20091204",
+ "dre_path": null,
+ "source_lastmod": "2009-12-04",
+ "versions": [
+  {
+   "date": "2004-03-31",
+   "future": false,
+   "celex": "32004R0551",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7d8ee2f839318058",
+    "4480de156454f2ea",
+    "53f6a658b503829e",
+    "91f8cba1a15a141b",
+    "07b00eb08d077459",
+    "40418bcf543554fc",
+    "d5a7ad474ae784dd",
+    "1ead85b757142a9f",
+    "8c8ffcc0f9ab7e85",
+    "7a6ee10834686f5f",
+    "ac84fbae080d8925",
+    "dcc9b8bcb537c3a4",
+    "ed69596809fe0889",
+    "656d915ac2b9e7b5",
+    "a6bd337aaccbc157",
+    "4a6c4aa34de36704"
+   ]
+  },
+  {
+   "date": "2009-12-04",
+   "future": false,
+   "celex": "02004R0551-20091204",
+   "acts": [
+    {
+     "id": "eu:celex:32009R1070:por",
+     "title": "REGULAMENTO (CE) N. o 1070/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de Outubro de 2009",
+     "published": null,
+     "celex": "32009R1070"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Objectivo e âmbito de aplicação",
+    "Altera Artigo 3.º — Região europeia superior de informação de voo (RESIV)",
+    "Altera Artigo 11.º — Entrada em vigor",
+    "Adita CAPÍTULO I",
+    "Adita ASPECTOS GERAIS",
+    "Adita CAPÍTULO II",
+    "Adita ARQUITECTURA DO ESPAÇO AÉREO",
+    "Adita Artigo 3.º-A — Informação aeronáutica electrónica",
+    "Adita Artigo 4.º — Regras do ar e classificação do espaço aéreo",
+    "Adita Artigo 6.º — Gestão e concepção da rede",
+    "Adita CAPÍTULO III",
+    "Adita UTILIZAÇÃO FLEXÍVEL DO ESPAÇO AÉREO NO CÉU ÚNICO EUROPEU",
+    "Adita CAPÍTULO IV",
+    "Adita DISPOSIÇÕES FINAIS",
+    "Adita DECLARAÇÃO DA COMISSÃO",
+    "Adita Notas",
+    "Suprime CAPÍTULO I — ASPECTOS GERAIS",
+    "Suprime CAPÍTULO II — ARQUITECTURA DO ESPAÇO AÉREO",
+    "Suprime Artigo 2.º — Nível de divisão",
+    "Suprime Artigo 4.º — Classificação do espaço aéreo",
+    "Suprime Artigo 5.º — Reconfiguração do espaço aéreo superior",
+    "Suprime Artigo 6.º — Rotas optimizadas e configuração dos sectores no espaço aéreo superior",
+    "Suprime CAPÍTULO III — UTILIZAÇÃO FLEXÍVEL DO ESPAÇO AÉREO NO CÉU ÚNICO EUROPEU",
+    "Suprime Artigo 9.º — Gestão do fluxo do tráfego aéreo",
+    "Suprime CAPÍTULO IV — DISPOSIÇÕES FINAIS"
+   ],
+   "fragments": [
+    "f858008085512496",
+    "226c39ffd0a88dad",
+    "82623720478b0b5c",
+    "8b854aa3c9a0bc00",
+    "f0f8c960bfdbce9b",
+    "ee1e18b41bb49c3b",
+    "7a8c5827833894b0",
+    "2bf8b923fb98ecf9",
+    "e696f2f0a2285aaa",
+    "493eaeb8c56d68e7",
+    "1e7a0903d2eed348",
+    "51e7060d6941992f",
+    "fc81f9128d9843a3",
+    "5f09b8470b8acbbb",
+    "1ecfc79da3f1ac7f",
+    "dde9cf53e9ae6c9a",
+    "726f0053aa095c08",
+    "96df6c4e3253ad23",
+    "0ebf96e2c9602ac7",
+    "fb95a1a2c24d770b"
+   ]
+  }
+ ],
+ "fragments": {
+  "7d8ee2f839318058": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 551/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à organização e utilização do espaço aéreo no céu único europeu (\"regulamento relativo ao espaço aéreo\") (Texto relevante para efeitos do EEE) - Declaração da Comissão** *Jornal Oficial nº L 096 de 31/03/2004 p. 0020 - 0025*\n\nRegulamento (CE) n.o 551/2004 do Parlamento Europeu e do Conselho\n\nde 10 de Março de 2004\n\nrelativo à organização e utilização do espaço aéreo no céu único europeu\n\n(\"regulamento relativo ao espaço aéreo\")\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que estabelece a Comunidade Europeia, nomeadamente o n.o 2 do artigo 80.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Comité Económico e Social Europeu(2),\n\nTendo em conta o parecer do Comité das Regiões(3),\n\nDeliberando nos termos do artigo 251.o do Tratado, tendo em conta o projecto comum aprovado pelo Comité de Conciliação em 11 de Dezembro de 2003(4),\n\nConsiderando o seguinte:\n\n(1) A criação do céu único europeu requer uma abordagem harmonizada para a regulação da organização e utilização do espaço aéreo.\n\n(2) No relatório do grupo de alto nível sobre o céu único europeu, de Novembro de 2002, considera-se que o espaço aéreo deverá ser configurado, regulado e estrategicamente gerido no plano europeu.\n\n(3) A comunicação da Comissão sobre a criação do céu único europeu, de 30 de Novembro de 2001, preconiza a realização de uma reforma estrutural que permita a criação do céu único europeu através de uma gestão progressivamente mais integrada do espaço aéreo e do desenvolvimento de novos conceitos e procedimentos de gestão do tráfego aéreo.\n\n(4) O Regulamento (CE) n.o 549/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004(5), a seguir designado \"regulamento-quadro\", estabelece o quadro para a realização do céu único europeu.\n\n(5) Nos termos do artigo 1.o da Convenção de Chicago de 1944 sobre a aviação civil internacional, os Estados contratantes reconhecem que \"cada Estado tem a soberania completa e exclusiva sobre o espaço aéreo que cobre o seu território\". É no quadro dessa soberania que os Estados-Membros da Comunidade, sob reserva do disposto nas convenções internacionais aplicáveis, exercem as prerrogativas de poder público quando controlam o tráfego aéreo.\n\n(6) O espaço aéreo é um recurso comum para todas as categorias de utilizadores que deve ser utilizado de forma flexível por todos eles, garantindo um tratamento justo e transparente e tendo simultaneamente em conta as necessidade de segurança e defesa dos Estados-Membros, bem como os compromissos por estes assumidos em organizações internacionais.\n\n(7) A gestão eficiente do espaço aéreo é essencial para aumentar a capacidade do sistema de serviços de tráfego aéreo, optimizar a resposta às diversas necessidades dos utilizadores e assegurar a mais flexível utilização possível do espaço aéreo.\n\n(8) As actividades do Eurocontrol confirmam que a rede de rotas e a estrutura do espaço aéreo não podem, de forma realista, ser desenvolvidas isoladamente, já que cada Estado-Membro é parte integrante da rede europeia de gestão do tráfego aéreo, a seguir designada \"REGTA\", tanto no interior como fora do território da Comunidade.\n\n(9) Deve ser estabelecido um espaço aéreo operacional progressivamente mais integrado para o tráfego aéreo geral em rota no espaço aéreo superior, devendo ser identificada em conformidade a interface entre os espaços aéreos superior e inferior.\n\n(10) Uma região europeia superior de informação de voo, a seguir designada \"RESIV\", abrangendo o espaço aéreo superior sob a responsabilidade dos Estados-Membros no âmbito do presente regulamento, deverá facilitar o planeamento comum e a publicação de informação aeronáutica a fim de superar os estrangulamentos regionais.\n\n(11) Os utilizadores do espaço aéreo enfrentam condições díspares de acesso ao espaço aéreo comunitário e de liberdade de circulação nesse mesmo espaço. Tais disparidades devem-se à falta de harmonização da classificação do espaço aéreo.\n\n(12) A reconfiguração do espaço aéreo deverá basear-se em requisitos operacionais independentemente das fronteiras existentes. Deverão ser desenvolvidos princípios gerais comuns para a criação de blocos de espaço aéreo uniformes e funcionais em consulta com o Eurocontrol, e com base no aconselhamento técnico deste.\n\n(13) É essencial obter uma estrutura do espaço aéreo comum e harmonizada em termos de rotas e sectores, basear a organização actual e futura do espaço aéreo em princípios comuns e configurar e gerir o espaço aéreo de acordo com regras harmonizadas.\n\n(14) O conceito de utilização flexível do espaço aéreo deve ser aplicado de forma eficaz. É necessário optimizar a utilização dos sectores do espaço aéreo, especialmente em períodos de ponta do tráfego aéreo geral e em espaço aéreo de tráfego denso, mediante uma cooperação entre os Estados-Membros no que respeita à utilização desses sectores para operações e treino militares. Para tal, é necessário atribuir os recursos adequados para uma aplicação eficaz do conceito de utilização flexível do espaço aéreo, tendo em conta os requisitos civis e militares.\n\n(15) Os Estados-Membros deverão esforçar-se por cooperar com os Estados-Membros vizinhos na aplicação do conceito de utilização flexível do espaço aéreo transfronteiriço.\n\n(16) As diferenças de organização da cooperação civil-militar na Comunidade restringem a gestão uniforme e em tempo útil do espaço aéreo, bem como a introdução de mudanças. O êxito do céu único europeu depende de uma cooperação eficaz entre as autoridades civis e militares, sem prejuízo das prerrogativas e responsabilidades dos Estados-Membros no domínio da defesa.\n\n(17) As operações e o treino militares devem ser salvaguardados sempre que a aplicação de princípios e critérios comuns seja prejudicial à sua realização segura e eficaz.\n\n(18) Devem ser introduzidas medidas adequadas para melhorar a eficácia da gestão do fluxo do tráfego aéreo, a fim de assistir a unidades operacionais existentes, incluindo a unidade central de gestão do fluxo de tráfego aéreo do Eurocontrol, para assegurar a eficácia das operações de voo.\n\n(19) É necessário reflectir no alargamento dos conceitos do espaço aéreo superior ao espaço aéreo inferior, de acordo com um calendário e com estudos adequados,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "4480de156454f2ea": {
+   "fragment_id": "CAPÍTULO I — ASPECTOS GERAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — ASPECTOS GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — ASPECTOS GERAIS"
+  },
+  "53f6a658b503829e": {
+   "fragment_id": "Artigo 1.º — Objectivo e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo e âmbito de aplicação\n\n1. No âmbito do regulamento-quadro, o presente regulamento diz respeito à organização e utilização do espaço aéreo no Céu único europeu. O presente regulamento tem por objectivo reforçar o conceito de um espaço aéreo operacional progressivamente mais integrado no contexto da política comum de transportes e fixar procedimentos comuns de concepção, planeamento e gestão que garantam o desempenho seguro e eficaz da gestão do tráfego aéreo.\n\n2. A utilização do espaço aéreo apoia a operação dos serviços de navegação aérea como um todo congruente e coerente em conformidade com o disposto no Regulamento (CE) n.o 550/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à prestação de serviços de navegação aérea no céu único europeu (\"regulamento relativo à prestação de serviços\")(6).\n\n3. Sem prejuízo do artigo 10.o, o presente regulamento é aplicável ao espaço aéreo nas regiões EUR e AFI da OACI em que os Estados-Membros são responsáveis pela prestação de serviços de tráfego aéreo em conformidade com o regulamento relativo à prestação de serviços. Os Estados-Membros podem igualmente aplicar o presente regulamento ao espaço aéreo sob a sua responsabilidade noutras regiões da OACI, desde que informem do facto a Comissão e os demais Estados-Membros.\n\n4. As regiões de informação de voo compreendidas no espaço aéreo a que se aplica o presente regulamento são publicadas no Jornal Oficial da União Europeia."
+  },
+  "91f8cba1a15a141b": {
+   "fragment_id": "CAPÍTULO II — ARQUITECTURA DO ESPAÇO AÉREO",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — ARQUITECTURA DO ESPAÇO AÉREO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — ARQUITECTURA DO ESPAÇO AÉREO"
+  },
+  "07b00eb08d077459": {
+   "fragment_id": "Artigo 2.º — Nível de divisão",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Nível de divisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Nível de divisão\n\nO nível de divisão entre espaço aéreo superior e inferior é fixado no nível de voo 285.\n\nAs variações no nível de divisão justificadas por requisitos operacionais podem ser decididas por acordo com os Estados-Membros interessados nos termos do n.o 3 do artigo 5.o do regulamento-quadro."
+  },
+  "40418bcf543554fc": {
+   "fragment_id": "Artigo 3.º — Região europeia superior de informação de voo (RESIV)",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Região europeia superior de informação de voo (RESIV)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Região europeia superior de informação de voo (RESIV)\n\n1. A Comunidade e os seus Estados-Membros têm como objectivo a criação e o reconhecimento pela OACI de uma RESIV única. Para o efeito, no que respeita às questões da competência da Comunidade, a Comissão deve apresentar uma recomendação ao Conselho nos termos do artigo 300.o do Tratado, no prazo de dois anos a contar da entrada em vigor do presente regulamento.\n\n2. A RESIV é concebida para abranger o espaço aéreo sob a responsabilidade dos Estados-Membros nos termos do n.o 3 do artigo 1.o e pode incluir também espaço aéreo de países terceiros europeus.\n\n3. O estabelecimento da RESIV não prejudica a responsabilidade dos Estados-Membros pela designação de prestadores de serviços de tráfego aéreo para o espaço aéreo sob a sua responsabilidade em conformidade com o n.o 1 do artigo 8.o do regulamento relativo à prestação de serviços.\n\n4. Os Estados-Membros conservam as suas responsabilidades perante a OACI nos limites geográficos das regiões superiores de voo e das regiões de informação de voo que a OACI lhes tenha confiado à data de entrada em vigor do presente regulamento.\n\n5. Sem prejuízo da publicação de informação aeronáutica pelos Estados-Membros e de maneira coerente com essa publicação, a Comissão, em estreita cooperação com o Eurocontrol, coordena a realização de uma publicação de informação aeronáutica única relativa à RESIV, tendo em conta os requisitos pertinentes da OACI."
+  },
+  "d5a7ad474ae784dd": {
+   "fragment_id": "Artigo 4.º — Classificação do espaço aéreo",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Classificação do espaço aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Classificação do espaço aéreo\n\nA Comissão e os Estados-Membros devem configurar a RESIV de acordo com uma harmonização progressiva da classificação do espaço aéreo, concebida para assegurar a prestação sem falhas de serviços de navegação aérea no quadro do céu único europeu. Esta abordagem comum baseia-se numa aplicação simplificada da classificação do espaço aéreo, tal como definida na estratégia relativa ao espaço aéreo do Eurocontrol para os Estados da Conferência Europeia da Aviação Civil em conformidade com as normas da OACI.\n\nAs regras de execução necessárias nesta matéria são aprovadas nos termos do artigo 8.o do regulamento-quadro."
+  },
+  "1ead85b757142a9f": {
+   "fragment_id": "Artigo 5.º — Reconfiguração do espaço aéreo superior",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Reconfiguração do espaço aéreo superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Reconfiguração do espaço aéreo superior\n\n1. Tendo em vista atingir a capacidade e a eficácia máximas da rede de gestão do tráfego aéreo no céu único europeu e tendo em vista a manutenção de um nível de segurança elevado, o espaço aéreo superior deve ser reconfigurado em blocos funcionais de espaço aéreo.\n\n2. Os blocos funcionais de espaço aéreo devem nomeadamente:\n\na) Ser adequadamente fundamentados do ponto de vista da segurança;\n\nb) Permitir optimizar a utilização do espaço aéreo, tendo em conta os fluxos de tráfego aéreo;\n\nc) Justificar-se pelo seu valor acrescentado global, incluindo a optimização da utilização dos recursos técnicos e humanos, baseado em análises de custos/benefícios;\n\nd) Assegurar uma transferência fluida e flexível da responsabilidade pelo controlo do tráfego aéreo entre órgãos dos serviços de tráfego aéreo;\n\ne) Assegurar a compatibilidade entre as configurações do espaço aéreo superior e inferior;\n\nf) Satisfazer as condições decorrentes de acordos regionais celebrados na OACI; e\n\ng) Respeitar os acordos regionais vigentes à data de entrada em vigor do presente regulamento, em especial os acordos que envolvam países terceiros europeus.\n\n3. Devem ser desenvolvidos, nos termos do artigo 8.o do regulamento-quadro, princípios gerais comuns para o estabelecimento e a alteração de blocos funcionais de espaço aéreo.\n\n4. Um bloco funcional de espaço aéreo só pode ser estabelecido por acordo mútuo entre todos os Estados-Membros que têm responsabilidade por qualquer parte do espaço aéreo incluído no bloco, ou por declaração de um Estado-Membro se o espaço aéreo incluído no bloco estiver na totalidade sob a sua responsabilidade. O(s) Estado(s)-Membro(s) em causa só devem agir após terem consultado as partes interessadas, que incluem a Comissão e os outros Estados-Membros.\n\n5. Quando um bloco funcional de espaço aéreo incluir espaço aéreo que esteja total ou parcialmente sob a responsabilidade de dois ou mais Estados-Membros, o acordo nos termos do qual o bloco foi estabelecido deve incluir as necessárias disposições relativas ao processo segundo o qual o bloco pode ser modificado e um Estado-Membro se pode retirar do bloco, incluindo disposições transitórias.\n\n6. Caso surjam dificuldades entre dois ou mais Estados-Membros a propósito de um bloco funcional de espaço aéreo transfronteiriço que diga respeito a espaço aéreo sob a sua responsabilidade, os Estados-Membros em questão podem submeter conjuntamente o caso ao Comité do Céu Único para parecer. O parecer terá como destinatários os mesmos Estados-Membros. Sem prejuízo do disposto no n.o 4, os Estados-Membros devem ter em conta o parecer a fim de encontrar uma solução.\n\n7. As decisões referidas nos n.os 4 e 5 devem ser notificadas à Comissão para publicação no Jornal Oficial da União Europeia. A publicação deve precisar a data de entrada em vigor da decisão pertinente."
+  },
+  "8c8ffcc0f9ab7e85": {
+   "fragment_id": "Artigo 6.º — Rotas optimizadas e configuração dos sectores no espaço aéreo superior",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Rotas optimizadas e configuração dos sectores no espaço aéreo superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Rotas optimizadas e configuração dos sectores no espaço aéreo superior\n\n1. Devem estabelecer-se princípios e critérios comuns de configuração dos sectores e de definição de rotas para assegurar uma utilização do espaço aéreo segura, economicamente eficaz e respeitadora do ambiente. A concepção dos sectores deve ser coerente, nomeadamente, com a concepção das rotas.\n\n2. As regras de execução relativas aos domínios abrangidos pelo n.o 1 são aprovadas nos termos do artigo 8.o do regulamento-quadro.\n\n3. As decisões respeitantes à fixação ou alteração de rotas e sectores devem ser aprovadas pelos Estados-Membros que forem responsáveis pelo espaço aéreo a que se aplicam essas decisões."
+  },
+  "7a6ee10834686f5f": {
+   "fragment_id": "CAPÍTULO III — UTILIZAÇÃO FLEXÍVEL DO ESPAÇO AÉREO NO CÉU ÚNICO EUROPEU",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — UTILIZAÇÃO FLEXÍVEL DO ESPAÇO AÉREO NO CÉU ÚNICO EUROPEU",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — UTILIZAÇÃO FLEXÍVEL DO ESPAÇO AÉREO NO CÉU ÚNICO EUROPEU"
+  },
+  "ac84fbae080d8925": {
+   "fragment_id": "Artigo 7.º — Utilização flexível do espaço aéreo",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Utilização flexível do espaço aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Utilização flexível do espaço aéreo\n\n1. Tendo em conta a organização dos aspectos militares sob a sua responsabilidade, os Estados-Membros asseguram a aplicação uniforme no interior do céu único europeu do conceito de utilização flexível do espaço aéreo, tal como descrito pela OACI e desenvolvido pelo Eurocontrol, a fim de facilitar a gestão do espaço aéreo e a gestão do tráfego aéreo no contexto da política comum dos transportes.\n\n2. Os Estados-Membros apresentam todos os anos à Comissão um relatório sobre a aplicação, no contexto da política comum dos transportes, do conceito de utilização flexível do espaço aéreo em relação ao espaço aéreo sob a sua responsabilidade.\n\n3. Sempre que, e em especial na sequência dos relatórios apresentados pelos Estados-Membros, for necessário reforçar e harmonizar a aplicação do conceito de utilização flexível do espaço aéreo no interior do céu único europeu, as regras de execução no contexto da política comum de transportes serão aprovadas nos termos do artigo 8.o do regulamento-quadro."
+  },
+  "dcc9b8bcb537c3a4": {
+   "fragment_id": "Artigo 8.º — Suspensão temporária",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Suspensão temporária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Suspensão temporária\n\n1. Nos casos em que a aplicação do artigo 7.o crie dificuldades operacionais significativas, os Estados-Membros podem, a título temporário, suspender essa aplicação, na condição de informarem imediatamente do facto a Comissão e os demais Estados-Membros.\n\n2. Na sequência da introdução de uma suspensão temporária, podem ser introduzidos ajustamentos às regras aprovadas ao abrigo do n.o 3 do artigo 7.o para o espaço aéreo da responsabilidade do(s) Estado(s)-Membro(s) em questão nos termos do artigo 8.o do regulamento-quadro."
+  },
+  "ed69596809fe0889": {
+   "fragment_id": "Artigo 9.º — Gestão do fluxo do tráfego aéreo",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Gestão do fluxo do tráfego aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Gestão do fluxo do tráfego aéreo\n\n1. A fim de optimizar as capacidades disponíveis na utilização do espaço aéreo e de reforçar os processos de gestão do fluxo do tráfego aéreo, são aprovadas nos termos do artigo 8.o do regulamento-quadro regras de execução em matéria de gestão do fluxo de tráfego aéreo. Estas regras devem basear-se na transparência e na eficiência, garantindo a disponibilização flexível e atempada da capacidade, de harmonia com as recomendações do plano regional de navegação aérea da OACI para a região europeia.\n\n2. As regras de execução devem apoiar as decisões operacionais dos prestadores de serviços de navegação aérea, dos operadores aeroportuários e dos utilizadores do espaço aéreo, e abranger os seguintes domínios:\n\na) Planeamento dos voos;\n\nb) Utilização da capacidade de espaço aéreo disponível durante todas as fases do voo, incluindo a atribuição das faixas horárias; e\n\nc) Utilização das rotas pelo tráfego aéreo geral, incluindo:\n\n- a criação de uma publicação única para a orientação das rotas e do tráfego,\n\n- opções para o desvio do tráfego aéreo geral de zonas congestionadas, e\n\n- regras de prioridade para o acesso do tráfego aéreo geral ao espaço aéreo, em especial durante períodos de congestionamento e de crise."
+  },
+  "656d915ac2b9e7b5": {
+   "fragment_id": "CAPÍTULO IV — DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — DISPOSIÇÕES FINAIS"
+  },
+  "a6bd337aaccbc157": {
+   "fragment_id": "Artigo 10.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Revisão\n\nNo contexto da revisão periódica a que se refere o n.o 2 do artigo 12.o do regulamento-quadro, a Comissão deve ultimar um estudo prospectivo sobre as condições para a futura aplicação dos conceitos a que se referem os artigos 3.o, 5.o e 6.o ao espaço aéreo inferior.\n\nCom base nas conclusões do estudo e à luz dos progressos obtidos, a Comissão deve apresentar ao Parlamento Europeu e ao Conselho, até 31 de Dezembro de 2006, um relatório eventualmente acompanhado de uma proposta que alargue a aplicação daqueles conceitos ao espaço aéreo inferior ou que determine quaisquer outras medidas. Caso se encare a hipótese de tal alargamento, as decisões a ele relativas deverão de preferência ser tomadas antes de 31 de Dezembro de 2009."
+  },
+  "4a6c4aa34de36704": {
+   "fragment_id": "Artigo 11.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente regulamento entra em vigor 20 dias após o da sua publicação no Jornal Oficial da União Europeia.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Estrasburgo, em 10 de Março de 2004.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nP. Cox\n\nPelo Conselho\n\nO Presidente\n\nD. Roche\n\n(1) JO C 103 E de 30.4.2002, p. 35.\n\n(2) JO C 241 de 7.10.2002, p. 24.\n\n(3) JO C 278 de 14.11.2002, p. 13.\n\n(4) Parecer do Parlamento Europeu de 3 de Setembro de 2002 (JO C 272 E de 13.11.2003, p. 316), posição comum do Conselho de 18 de Março de 2003 (JO C 129 E de 3.6.2003, p. 11) e posição do Parlamento Europeu de 3 de Julho de 2003 (ainda não publicada no Jornal Oficial). Resolução legislativa do Parlamento Europeu de 29 de Janeiro de 2004 e decisão do Conselho de 2 de Fevereiro de 2004.\n\n(5) Ver página 1 do presente Jornal Oficial.\n\n(6) Ver página 10 do presente Jornal Oficial.\n\nDeclaração da Comissão\n\nCom base num relatório sobre a experiência adquirida com a aplicação do artigo 5.o, a Comissão apresentará, se necessário, num prazo de cinco anos, propostas de alteração do procedimento previsto no n.o 6 do artigo 5.o"
+  },
+  "f858008085512496": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Março de 2004\n\nrelativo à organização e utilização do espaço aéreo no céu único europeu\n\n(«regulamento relativo ao espaço aéreo»)\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que estabelece a Comunidade Europeia, nomeadamente o n.º 2 do artigo 80.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/ccca46aa-2dc7-4448-b2e0-c71c094226d4.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^2^](http://publications.europa.eu/resource/cellar/ccca46aa-2dc7-4448-b2e0-c71c094226d4.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/ccca46aa-2dc7-4448-b2e0-c71c094226d4.0018.03/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 251.º do Tratado, tendo em conta o projecto comum aprovado pelo Comité de Conciliação em 11 de Dezembro de 2003 ([^4^](http://publications.europa.eu/resource/cellar/ccca46aa-2dc7-4448-b2e0-c71c094226d4.0018.03/DOC_1#E0004)),\n\n(1) A criação do céu único europeu requer uma abordagem harmonizada para a regulação da organização e utilização do espaço aéreo.\n\n(2) No relatório do grupo de alto nível sobre o céu único europeu, de Novembro de 2002, considera-se que o espaço aéreo deverá ser configurado, regulado e estrategicamente gerido no plano europeu.\n\n(3) A comunicação da Comissão sobre a criação do céu único europeu, de 30 de Novembro de 2001, preconiza a realização de uma reforma estrutural que permita a criação do céu único europeu através de uma gestão progressivamente mais integrada do espaço aéreo e do desenvolvimento de novos conceitos e procedimentos de gestão do tráfego aéreo.\n\n(4) O Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004 ([^5^](http://publications.europa.eu/resource/cellar/ccca46aa-2dc7-4448-b2e0-c71c094226d4.0018.03/DOC_1#E0005)), a seguir designado «regulamento-quadro», estabelece o quadro para a realização do céu único europeu.\n\n(5) Nos termos do artigo 1.º da Convenção de Chicago de 1944 sobre a aviação civil internacional, os Estados contratantes reconhecem que «cada Estado tem a soberania completa e exclusiva sobre o espaço aéreo que cobre o seu território». É no quadro dessa soberania que os Estados-Membros da Comunidade, sob reserva do disposto nas convenções internacionais aplicáveis, exercem as prerrogativas de poder público quando controlam o tráfego aéreo.\n\n(6) O espaço aéreo é um recurso comum para todas as categorias de utilizadores que deve ser utilizado de forma flexível por todos eles, garantindo um tratamento justo e transparente e tendo simultaneamente em conta as necessidade de segurança e defesa dos Estados-Membros, bem como os compromissos por estes assumidos em organizações internacionais.\n\n(7) A gestão eficiente do espaço aéreo é essencial para aumentar a capacidade do sistema de serviços de tráfego aéreo, optimizar a resposta às diversas necessidades dos utilizadores e assegurar a mais flexível utilização possível do espaço aéreo.\n\n(8) As actividades do Eurocontrol confirmam que a rede de rotas e a estrutura do espaço aéreo não podem, de forma realista, ser desenvolvidas isoladamente, já que cada Estado-Membro é parte integrante da rede europeia de gestão do tráfego aéreo, a seguir designada «REGTA», tanto no interior como fora do território da Comunidade.\n\n(9) Deve ser estabelecido um espaço aéreo operacional progressivamente mais integrado para o tráfego aéreo geral em rota no espaço aéreo superior, devendo ser identificada em conformidade a interface entre os espaços aéreos superior e inferior.\n\n(10) Uma região europeia superior de informação de voo, a seguir designada «RESIV», abrangendo o espaço aéreo superior sob a responsabilidade dos Estados-Membros no âmbito do presente regulamento, deverá facilitar o planeamento comum e a publicação de informação aeronáutica a fim de superar os estrangulamentos regionais.\n\n(11) Os utilizadores do espaço aéreo enfrentam condições díspares de acesso ao espaço aéreo comunitário e de liberdade de circulação nesse mesmo espaço. Tais disparidades devem-se à falta de harmonização da classificação do espaço aéreo.\n\n(12) A reconfiguração do espaço aéreo deverá basear-se em requisitos operacionais independentemente das fronteiras existentes. Deverão ser desenvolvidos princípios gerais comuns para a criação de blocos de espaço aéreo uniformes e funcionais em consulta com o Eurocontrol, e com base no aconselhamento técnico deste.\n\n(13) É essencial obter uma estrutura do espaço aéreo comum e harmonizada em termos de rotas e sectores, basear a organização actual e futura do espaço aéreo em princípios comuns e configurar e gerir o espaço aéreo de acordo com regras harmonizadas.\n\n(14) O conceito de utilização flexível do espaço aéreo deve ser aplicado de forma eficaz. É necessário optimizar a utilização dos sectores do espaço aéreo, especialmente em períodos de ponta do tráfego aéreo geral e em espaço aéreo de tráfego denso, mediante uma cooperação entre os Estados-Membros no que respeita à utilização desses sectores para operações e treino militares. Para tal, é necessário atribuir os recursos adequados para uma aplicação eficaz do conceito de utilização flexível do espaço aéreo, tendo em conta os requisitos civis e militares.\n\n(15) Os Estados-Membros deverão esforçar-se por cooperar com os Estados-Membros vizinhos na aplicação do conceito de utilização flexível do espaço aéreo transfronteiriço.\n\n(16) As diferenças de organização da cooperação civil-militar na Comunidade restringem a gestão uniforme e em tempo útil do espaço aéreo, bem como a introdução de mudanças. O êxito do céu único europeu depende de uma cooperação eficaz entre as autoridades civis e militares, sem prejuízo das prerrogativas e responsabilidades dos Estados-Membros no domínio da defesa.\n\n(17) As operações e o treino militares devem ser salvaguardados sempre que a aplicação de princípios e critérios comuns seja prejudicial à sua realização segura e eficaz.\n\n(18) Devem ser introduzidas medidas adequadas para melhorar a eficácia da gestão do fluxo do tráfego aéreo, a fim de assistir a unidades operacionais existentes, incluindo a unidade central de gestão do fluxo de tráfego aéreo do Eurocontrol, para assegurar a eficácia das operações de voo.\n\n(19) É necessário reflectir no alargamento dos conceitos do espaço aéreo superior ao espaço aéreo inferior, de acordo com um calendário e com estudos adequados,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "82623720478b0b5c": {
+   "fragment_id": "ASPECTOS GERAIS",
+   "type": "divisao",
+   "heading": "ASPECTOS GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ASPECTOS GERAIS"
+  },
+  "8b854aa3c9a0bc00": {
+   "fragment_id": "Artigo 1.º — Objectivo e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo e âmbito de aplicação\n\n1. No âmbito do regulamento-quadro, o presente regulamento diz respeito à organização e utilização do espaço aéreo no Céu único europeu. O presente regulamento tem por objectivo reforçar o conceito de um espaço aéreo operacional progressivamente mais integrado no contexto da política comum de transportes e fixar procedimentos comuns de concepção, planeamento e gestão que garantam o desempenho seguro e eficaz da gestão do tráfego aéreo.\n\n2. A utilização do espaço aéreo apoia a operação dos serviços de navegação aérea como um todo congruente e coerente em conformidade com o disposto no Regulamento (CE) n.º 550/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à prestação de serviços de navegação aérea no céu único europeu («regulamento relativo à prestação de serviços») ([^6^](http://publications.europa.eu/resource/cellar/ccca46aa-2dc7-4448-b2e0-c71c094226d4.0018.03/DOC_1#E0006)).\n\n3. Sem prejuízo do artigo 10.º, o presente regulamento é aplicável ao espaço aéreo nas regiões EUR e AFI da OACI em que os Estados-Membros são responsáveis pela prestação de serviços de tráfego aéreo em conformidade com o regulamento relativo à prestação de serviços. Os Estados-Membros podem igualmente aplicar o presente regulamento ao espaço aéreo sob a sua responsabilidade noutras regiões da OACI, desde que informem do facto a Comissão e os demais Estados-Membros.\n\n4. As regiões de informação de voo compreendidas no espaço aéreo a que se aplica o presente regulamento são publicadas no *Jornal Oficial da União Europeia*."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "ee1e18b41bb49c3b": {
+   "fragment_id": "ARQUITECTURA DO ESPAÇO AÉREO",
+   "type": "divisao",
+   "heading": "ARQUITECTURA DO ESPAÇO AÉREO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ARQUITECTURA DO ESPAÇO AÉREO"
+  },
+  "7a8c5827833894b0": {
+   "fragment_id": "Artigo 3.º — Região europeia superior de informação de voo (RESIV)",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Região europeia superior de informação de voo (RESIV)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Região europeia superior de informação de voo (RESIV)\n\n1. A Comunidade e os seus Estados-Membros têm como objectivo a criação e o reconhecimento pela OACI de uma RESIV única. Para o efeito, no que respeita a questões da competência da Comunidade, a Comissão apresenta uma recomendação ao Conselho, nos termos do artigo 300.º do Tratado, até 4 de Dezembro de 2011.\n\n2. A RESIV é concebida para abranger o espaço aéreo sob a responsabilidade dos Estados-Membros nos termos do n.º 3 do artigo 1.º e pode incluir também espaço aéreo de países terceiros europeus.\n\n3. A criação da RESIV não prejudica a responsabilidade por parte dos Estados-Membros pela designação de prestadores de serviços de tráfego aéreo para o espaço aéreo sob a sua responsabilidade, em conformidade com o n.º 1 do artigo 8.º do regulamento relativo à prestação de serviços.\n\n4. Os Estados-Membros conservam as suas responsabilidades perante a OACI nos limites geográficos das regiões superiores de informação de voo e das regiões de informação de voo que a OACI lhes tenha confiado à data de entrada em vigor do presente regulamento."
+  },
+  "2bf8b923fb98ecf9": {
+   "fragment_id": "Artigo 3.º-A — Informação aeronáutica electrónica",
+   "type": "artigo",
+   "heading": "Artigo 3.º-A — Informação aeronáutica electrónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º-A — Informação aeronáutica electrónica\n\n1. Sem prejuízo da publicação de informação aeronáutica pelos Estados-Membros e em consonância com esta, a Comissão, em cooperação com o Eurocontrol, garante a disponibilização de informação aeronáutica electrónica de alta qualidade, que deve ser apresentada de forma harmonizada, satisfazendo os requisitos de todos os utilizadores interessados em termos de qualidade e tempestividade.\n\n2. Para efeitos do disposto no n.º 1, a Comissão:\n\na) Assegura o desenvolvimento de uma infra-estrutura de informação aeronáutica à escala da Comunidade, sob a forma de portal electrónico integrado de informação, com livre acesso de todos os interessados. Essa infra-estrutura integra o acesso e a disponibilização dos dados necessários, nomeadamente informação aeronáutica, informação do gabinete de informação dos serviços de tráfego aéreo (ARO), informação meteorológica e informação sobre a gestão do fluxo de tráfego aéreo;\n\nb) Apoia a modernização e harmonização da prestação de informação aeronáutica, no seu sentido mais lato, em cooperação estreita com o Eurocontrol e a OACI.\n\n3. A Comissão aprova regras de execução do presente artigo pelo procedimento de regulamentação a que se refere o n.º 3 do artigo 5.º do regulamento-quadro."
+  },
+  "e696f2f0a2285aaa": {
+   "fragment_id": "Artigo 4.º — Regras do ar e classificação do espaço aéreo",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Regras do ar e classificação do espaço aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regras do ar e classificação do espaço aéreo\n\nA Comissão aprova, pelo procedimento de regulamentação a que se refere o n.º 3 do artigo 5.º do regulamento-quadro, regras de execução para:\n\na) Aprovar as disposições adequadas sobre regras do ar com base nas normas e práticas recomendadas da OACI;\n\nb) Harmonizar a aplicação da classificação do espaço aéreo da OACI, com as adaptações adequadas, para garantir a prestação uniforme de serviços seguros e eficientes de tráfego aéreo no céu único europeu."
+  },
+  "493eaeb8c56d68e7": {
+   "fragment_id": "Artigo 6.º — Gestão e concepção da rede",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Gestão e concepção da rede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Gestão e concepção da rede\n\n1. As funções da rede de gestão do tráfego aéreo permitem uma utilização optimizada do espaço aéreo e garantem que os utilizadores do espaço aéreo possam operar as suas trajectórias preferidas, assegurando simultaneamente o máximo acesso ao espaço aéreo e aos serviços de navegação aérea. Estas funções da rede destinam-se a apoiar as iniciativas a nível nacional e a nível dos blocos funcionais de espaço aéreo e são executadas de forma a respeitar a separação entre funções de regulação e funções operacionais.\n\n2. Para alcançar os objectivos mencionados no n.º 1, e sem prejuízo das competências dos Estados-Membros relativamente às rotas nacionais e às estruturas do espaço aéreo, a Comissão garante que sejam exercidas as seguintes funções:\n\na) Concepção da rede de rotas europeia;\n\nb) Coordenação de recursos escassos nas faixas de frequências aeronáuticas utilizadas pelo tráfego aéreo geral, designadamente radiofrequências, bem como a coordenação de códigos dos *transponders* de radar.\n\n3. A Comissão pode fazer aditamentos à lista de funções constante do n.º 2, depois de consultar devidamente os interessados do sector em questão. Essas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, completando-o, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 4 do artigo 5.º do regulamento-quadro.\n\n4. As regras de execução das medidas mencionadas no presente artigo, com excepção das referidas nos n.^os^ 6 a 9, são aprovadas nos termos do n.º 3 do artigo 5.º do regulamento-quadro. Essas regras de execução têm por objecto, nomeadamente:\n\na) A coordenação e a harmonização de processos e procedimentos para aumentar a eficiência da gestão das frequências aeronáuticas, incluindo a definição de princípios e critérios;\n\nb) A função central de coordenação da identificação e resolução precoce das necessidades de frequências nas faixas atribuídas ao tráfego aéreo geral europeu, a fim de apoiar a concepção e o funcionamento da rede europeia de aviação;\n\nc) Funções adicionais da rede definidas no plano director ATM;\n\nd) Regras detalhadas do processo de decisão cooperativo entre os Estados-Membros, os prestadores de serviços de navegação aérea e a função de gestão da rede relativamente às tarefas referidas no n.º 2;\n\ne) Procedimentos de consulta dos interessados no âmbito do processo de decisão, tanto a nível nacional como a nível europeu; e\n\nf) No espectro de radiofrequências atribuído ao tráfego aéreo geral pela União Internacional das Telecomunicações, a repartição de tarefas e responsabilidades entre a função de gestão da rede e os gestores de frequências nacionais, de modo a assegurar que as funções de gestão das frequências nacionais continuem a executar as atribuições de frequências que não têm qualquer impacto na rede. Nos casos em que não haja qualquer impacto na rede, os gestores de frequências nacionais cooperam com os responsáveis pela função de gestão da rede, a fim de optimizar a utilização das frequências.\n\n5. Os aspectos da concepção do espaço aéreo distintos dos mencionados no n.º 2 são tratados a nível nacional ou a nível dos blocos funcionais de espaço aéreo. Esse processo de concepção tem em conta as exigências e a complexidade do tráfego e os planos de desempenho nacionais ou a nível dos blocos funcionais de espaço aéreo e inclui a consulta exaustiva de utilizadores do espaço aéreo ou de grupos que representem utilizadores do espaço aéreo e as autoridades militares, conforme o caso.\n\n6. Os Estados-Membros confiam ao Eurocontrol ou a outro organismo imparcial e competente a gestão do fluxo de tráfego aéreo, sem prejuízo das disposições relativas à supervisão.\n\n7. As regras de execução relativas à gestão do fluxo de tráfego aéreo, incluindo as disposições necessárias em matéria de supervisão, são elaboradas pelo procedimento consultivo a que se refere o n.º 2 do artigo 5.º do regulamento-quadro e aprovadas pelo procedimento de regulamentação a que se refere o n.º 3 do mesmo artigo, a fim de optimizar as capacidades disponíveis na utilização do espaço aéreo e de reforçar os processos de gestão do fluxo do tráfego aéreo. Essas regras devem basear-se na transparência e na eficiência, garantindo a disponibilização flexível e atempada da capacidade, de acordo com as recomendações do plano regional de navegação aérea da OACI para a região europeia.\n\n8. As regras de execução relativas à gestão do fluxo de tráfego aéreo devem apoiar as decisões operacionais dos prestadores de serviços de navegação aérea, dos operadores aeroportuários e dos utilizadores do espaço aéreo, e abranger os seguintes domínios:\n\na) Planeamento dos voos;\n\nb) Utilização da capacidade de espaço aéreo disponível durante todas as fases do voo, incluindo a atribuição das faixas horárias; e\n\nc) Utilização das rotas pelo tráfego aéreo geral, incluindo:\n\n— a criação de uma publicação única para a orientação das rotas e do tráfego,\n\n— opções para o desvio do tráfego aéreo geral de zonas congestionadas, e\n\n— regras de prioridade para o acesso do tráfego aéreo geral ao espaço aéreo, em especial durante períodos de congestionamento e de crise.\n\n9. Na elaboração e aprovação das regras de execução, a Comissão tem em conta, conforme o caso e sem prejuízo da segurança, a coerência entre planos de voo e faixas horárias aeroportuárias e a coordenação necessária com regiões adjacentes."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "51e7060d6941992f": {
+   "fragment_id": "UTILIZAÇÃO FLEXÍVEL DO ESPAÇO AÉREO NO CÉU ÚNICO EUROPEU",
+   "type": "divisao",
+   "heading": "UTILIZAÇÃO FLEXÍVEL DO ESPAÇO AÉREO NO CÉU ÚNICO EUROPEU",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### UTILIZAÇÃO FLEXÍVEL DO ESPAÇO AÉREO NO CÉU ÚNICO EUROPEU"
+  },
+  "fc81f9128d9843a3": {
+   "fragment_id": "Artigo 7.º — Utilização flexível do espaço aéreo",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Utilização flexível do espaço aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Utilização flexível do espaço aéreo\n\n1. Tendo em conta a organização dos aspectos militares sob a sua responsabilidade, os Estados-Membros asseguram a aplicação uniforme no interior do céu único europeu do conceito de utilização flexível do espaço aéreo, tal como descrito pela OACI e desenvolvido pelo Eurocontrol, a fim de facilitar a gestão do espaço aéreo e a gestão do tráfego aéreo no contexto da política comum dos transportes.\n\n2. Os Estados-Membros apresentam todos os anos à Comissão um relatório sobre a aplicação, no contexto da política comum dos transportes, do conceito de utilização flexível do espaço aéreo em relação ao espaço aéreo sob a sua responsabilidade.\n\n3. Sempre que, e em especial na sequência dos relatórios apresentados pelos Estados-Membros, for necessário reforçar e harmonizar a aplicação do conceito de utilização flexível do espaço aéreo no interior do céu único europeu, as regras de execução no contexto da política comum de transportes serão aprovadas nos termos do artigo 8.º do regulamento-quadro."
+  },
+  "5f09b8470b8acbbb": {
+   "fragment_id": "Artigo 8.º — Suspensão temporária",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Suspensão temporária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Suspensão temporária\n\n1. Nos casos em que a aplicação do artigo 7.º crie dificuldades operacionais significativas, os Estados-Membros podem, a título temporário, suspender essa aplicação, na condição de informarem imediatamente do facto a Comissão e os demais Estados-Membros.\n\n2. Na sequência da introdução de uma suspensão temporária, podem ser introduzidos ajustamentos às regras aprovadas ao abrigo do n.º 3 do artigo 7.º para o espaço aéreo da responsabilidade do(s) Estado(s)-Membro(s) em questão nos termos do artigo 8.º do regulamento-quadro."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "726f0053aa095c08": {
+   "fragment_id": "Artigo 10.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Revisão\n\nNo contexto da revisão periódica a que se refere o n.º 2 do artigo 12.º do regulamento-quadro, a Comissão deve ultimar um estudo prospectivo sobre as condições para a futura aplicação dos conceitos a que se referem os artigos 3.º, 5.º e 6.º ao espaço aéreo inferior.\n\nCom base nas conclusões do estudo e à luz dos progressos obtidos, a Comissão deve apresentar ao Parlamento Europeu e ao Conselho, até 31 de Dezembro de 2006, um relatório eventualmente acompanhado de uma proposta que alargue a aplicação daqueles conceitos ao espaço aéreo inferior ou que determine quaisquer outras medidas. Caso se encare a hipótese de tal alargamento, as decisões a ele relativas deverão de preferência ser tomadas antes de 31 de Dezembro de 2009."
+  },
+  "96df6c4e3253ad23": {
+   "fragment_id": "Artigo 11.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente regulamento entra em vigor 20 dias após o da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "0ebf96e2c9602ac7": {
+   "fragment_id": "DECLARAÇÃO DA COMISSÃO",
+   "type": "divisao",
+   "heading": "DECLARAÇÃO DA COMISSÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## DECLARAÇÃO DA COMISSÃO\n\nCom base num relatório sobre a experiência adquirida com a aplicação do artigo 5.º, a Comissão apresentará, se necessário, num prazo de cinco anos, propostas de alteração do procedimento previsto no n.º 6 do artigo 5.º\n\n---"
+  },
+  "fb95a1a2c24d770b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ccca46aa-2dc7-4448-b2e0-c71c094226d4.0018.03/DOC_1#src.E0001)) JO C 103 E de 30.4.2002, p. 35.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ccca46aa-2dc7-4448-b2e0-c71c094226d4.0018.03/DOC_1#src.E0002)) JO C 241 de 7.10.2002, p. 24.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/ccca46aa-2dc7-4448-b2e0-c71c094226d4.0018.03/DOC_1#src.E0003)) JO C 278 de 14.11.2002, p. 13.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/ccca46aa-2dc7-4448-b2e0-c71c094226d4.0018.03/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 3 de Setembro de 2002 (JO C 272 E de 13.11.2003, p. 316), posição comum do Conselho de 18 de Março de 2003 (JO C 129 E de 3.6.2003, p. 11) e posição do Parlamento Europeu de 3 de Julho de 2003 (ainda não publicada no Jornal Oficial). Resolução legislativa do Parlamento Europeu de 29 de Janeiro de 2004 e decisão do Conselho de 2 de Fevereiro de 2004.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/ccca46aa-2dc7-4448-b2e0-c71c094226d4.0018.03/DOC_1#src.E0005)) Ver página 1 do presente Jornal Oficial.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/ccca46aa-2dc7-4448-b2e0-c71c094226d4.0018.03/DOC_1#src.E0006)) Ver página 10 do presente Jornal Oficial."
+  }
+ }
+}

@@ -1,0 +1,278 @@
+---
+schema_version: '1.0'
+id: pt:dre:908290393:por
+title: Decreto-Lei n.º 12/2025
+short_title: null
+summary: Altera o Decreto-Lei n.º 55/2018, de 6 de julho, consolidando a implementação das provas de Monitorização da Aprendizagem
+  no final dos 4.º e 6.º anos de escolaridade.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Educação, Ciência e Inovação
+official_number: 12/2025
+official_date: null
+publication_date: '2025-02-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 37/2025, Série I de 2025-02-21
+  number: '37'
+  series: I
+  supplement: null
+  pages: 2 - 4
+  pdf_url: https://files.diariodarepublica.pt/1s/2025/02/03700/0000200004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/12/2025/02/21/p/dre/pt/html
+  oj: null
+  dre: '908290393'
+  dre_path: /dr/detalhe/decreto-lei/12-2025-908290393
+  internal: pt:dre:908290393:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2025-908290393
+  metadata_url: https://data.dre.pt/eli/dec-lei/12/2025/02/21/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2025-908290393
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:51:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c7cdf9f312e6dd3f4161b949550419c27cec9f3313901e8a58a4d2ab0b8b9f7c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:05Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aprendizagem
+- Avaliação de Conhecimentos
+- Currículo Nacional
+- Ensino Artístico
+- Ensino Básico
+- Ensino Secundário
+- Exame
+- Plano de Estudos
+relationships:
+- type: amended_by
+  target: pt:dre:941702851:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amends
+  target: pt:numero:decreto-lei:55/2018
+  label: Altera os artigos 4.º, 23.º, 25.º, 26.º e 30.º do Decreto-Lei n.º 55/2018, de 6 de julho, Diário da República n.º
+    129/2018, Série I
+  source: null
+  date: '2018-07-06'
+- type: cites
+  target: pt:dre:115652962:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/55/2018/07/06/p/dre
+- type: cites
+  target: pt:dre:168903099:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/70/2021/08/03/p/dre
+- type: cites
+  target: pt:dre:216154388:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/62/2023/07/25/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:51:05Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 12/2025
+
+de 21 de fevereiro
+
+O [Decreto-Lei n.º 55/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962), de 6 de julho, na sua redação atual, regula o currículo dos ensinos básico e secundário, definindo os princípios orientadores para a conceção, operacionalização e avaliação das aprendizagens, assegurando que todos os alunos adquirem os conhecimentos e desenvolvem as capacidades e atitudes previstas no Perfil dos Alunos à Saída da Escolaridade Obrigatória.
+
+A avaliação externa das aprendizagens constitui um instrumento essencial para o acompanhamento e o aperfeiçoamento contínuo do sistema educativo, contribuindo para a melhoria da qualidade do ensino e permitindo a monitorização eficaz das políticas públicas. Esta avaliação, obrigatória e universal, apoia as escolas e os professores na identificação de dificuldades e na promoção de intervenções pedagógicas adequadas.
+
+A introdução de provas de Monitorização da Aprendizagem (provas ModA), realizadas no 4.º e no 6.º anos de escolaridade, com o objetivo de promover uma recolha sistemática e comparável de dados, reforça a capacidade reguladora dos instrumentos de avaliação externa.
+
+Neste sentido, a presente alteração legislativa introduz um novo modelo de avaliação no ensino básico, consolidando a implementação das provas ModA como parte integrante do sistema educativo.
+
+Foram ouvidos o Conselho das Escolas e a Associação de Estabelecimentos de Ensino Particular e Cooperativo.
+
+Foi promovida a audição do Conselho Nacional de Educação e da Associação Nacional de Escolas Profissionais.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei de Bases do Sistema Educativo, aprovada pela [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de outubro, na sua redação atual, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à terceira alteração ao [Decreto-Lei n.º 55/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962), de 6 de julho, alterado pelos Decretos-Leis n.os[70/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2021-168903099), de 3 de agosto, e [62/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2023-216154388), de 25 de julho, que estabelece o currículo dos ensinos básico e secundário e os princípios orientadores da avaliação das aprendizagens.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 55/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962), de 6 de julho
+
+Os artigos 4.º, 23.º, 25.º, 26.º e 30.º do [Decreto-Lei n.º 55/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962), de 6 de julho, na sua redação atual, passam a ter a seguinte redação:
+
+«Artigo 4.º
+
+[...]
+
+1 - [...]
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+e) [...]
+
+f) [...]
+
+g) [...]
+
+h) [...]
+
+i) [...]
+
+j) [...]
+
+k) [...]
+
+l) [...]
+
+m) [...]
+
+n) [...]
+
+o) [...]
+
+p) [...]
+
+q) [...]
+
+r) [...]
+
+s) [...]
+
+t) [...]
+
+u) Promoção da capacidade reguladora dos instrumentos de avaliação externa, valorizando uma intervenção atempada e rigorosa, sustentada na recolha sistemática e comparável de dados, no sentido de superar dificuldades nos diferentes domínios curriculares;
+
+v) [...]
+
+w) [...]
+
+2 - [...]
+
+Artigo 23.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+a) [...]
+
+b) [...]
+
+i) Provas de Monitorização da Aprendizagem (adiante designadas por provas ModA);
+
+ii) [...]
+
+iii) [...]
+
+iv) [...]
+
+v) [...]
+
+3 - [...]
+
+Artigo 25.º
+
+[...]
+
+1 - [...]
+
+2 - As provas ModA, de aplicação universal e obrigatória, realizam-se no final do 4.º e do 6.º anos de escolaridade e permitem:
+
+a) Recolher dados de forma sistemática e comparável;
+
+b) [...]
+
+c) Robustecer o diagnóstico atempado de áreas a melhorar e potenciar uma intervenção pedagógica apropriada.
+
+3 - A avaliação dos alunos do ensino básico geral e dos cursos artísticos especializados integra a realização de provas finais do ensino básico no final do 9.º ano de escolaridade.
+
+4 - [...]
+
+5 - [...]
+
+6 - [...]
+
+Artigo 26.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - Com vista à organização do processo de avaliação externa, nomeadamente no que se refere à coordenação, planificação e realização de provas ModA, de provas finais do ensino básico e de exames finais nacionais do ensino secundário, são constituídas equipas em cada região do território nacional, que integram o Júri Nacional de Exames.
+
+4 - [...]
+
+Artigo 30.º
+
+[...]
+
+1 - A conclusão do ensino básico geral e dos cursos artísticos especializados do ensino básico está dependente da realização de provas finais do ensino básico às disciplinas sujeitas a avaliação externa.
+
+2 - [...]»
+
+Visto e aprovado em Conselho de Ministros de 30 de janeiro de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - Fernando Alexandre.
+
+Promulgado em 13 de fevereiro de 2025.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 14 de fevereiro de 2025.
+
+O Primeiro-Ministro, Luís Montenegro.
+
+118706751

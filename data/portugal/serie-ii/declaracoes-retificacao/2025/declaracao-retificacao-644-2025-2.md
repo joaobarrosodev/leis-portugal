@@ -1,0 +1,120 @@
+---
+schema_version: '1.0'
+id: pt:dre:925059296:por
+title: Declaração de Retificação n.º 644/2025/2
+short_title: null
+summary: Declara sem efeito a publicação das Portarias n.os 354/2025/2, de 20 de maio, 356/2025/2, de 21 de maio, e 357/2025/2,
+  de 21 de maio, que se referem, respetivamente, à fixação das dotações de consultores da Entidade do Tesouro e Finanças,
+  ao estabelecimento da estrutura nuclear da Entidade do Tesouro e Finanças e à fixação da estrutura nuclear da Entidade Orçamental.
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Finanças - Gabinete do Ministro de Estado e das Finanças
+proposing_entity: null
+official_number: 644/2025/2
+official_date: null
+publication_date: '2025-07-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 135/2025, Série II de 2025-07-16
+  number: '135'
+  series: II
+  supplement: null
+  pages: 40 - 40
+  pdf_url: https://files.diariodarepublica.pt/2s/2025/07/135000000/0004000040.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '925059296'
+  dre_path: /dr/detalhe/declaracao-retificacao/644-2025-925059296
+  internal: pt:dre:925059296:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/644-2025-925059296
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/644-2025-925059296
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:00:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 40d038d18869a223b24aa9ec284b38b0abefcab4656369725bf7eabac4466ca4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:00:28Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Consultor
+- Entidade do Tesouro e Finanças
+- Entidade Orçamental
+- Estrutura Central
+- Ministério das Finanças
+- Orgânica
+relationships:
+- type: amends
+  target: pt:numero:portaria:354/2025
+  label: Declara sem efeito a Portaria n.º 354/2025/2, de 20 de maio, DR.,IIS[96]
+  source: null
+  date: '2025-05-20'
+- type: amends
+  target: pt:numero:portaria:356/2025
+  label: Declara sem efeito a Portaria n.º 356/2025/2, de 21 de maio, DR.,IIS[97]
+  source: null
+  date: '2025-05-21'
+- type: amends
+  target: pt:numero:portaria:357/2025
+  label: Declara sem efeito a Portaria n.º 357/2025/2, de 21 de maio, DR.,IIS[97]
+  source: null
+  date: '2025-05-21'
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:918555091:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:00:28Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 644/2025/2
+
+Nos termos e para os efeitos do disposto no n.º 5 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, declara-se sem efeito a publicação da [Portaria n.º 354/2025/2](https://diariodarepublica.pt/dr/detalhe/portaria/354-2025-918555091), de 20 de maio, no Diário da República, 2.ª série, n.º 96, de 20 de maio de 2025, e a publicação das Portarias n.os356/2025/2 e 357/2025/2, ambas de 21 de maio, e publicadas no Diário da República, 2.ª série, n.º 97, de 21 de maio de 2025, diplomas que se referem, respetivamente, à fixação das dotações de consultores da Entidade do Tesouro e Finanças, ao estabelecimento da estrutura nuclear da Entidade do Tesouro e Finanças e à fixação da estrutura nuclear da Entidade Orçamental, em virtude de terem sido publicadas em série distinta daquela que era devida.
+
+9 de julho de 2025. - O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento.
+
+319284054

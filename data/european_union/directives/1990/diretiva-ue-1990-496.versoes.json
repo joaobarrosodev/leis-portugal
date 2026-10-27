@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31990L0496:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990L0496-20141213",
+ "dre_path": null,
+ "source_lastmod": "2014-12-13",
+ "versions": [
+  {
+   "date": "2014-12-13",
+   "future": false,
+   "celex": "01990L0496-20141213",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c07f4a28a39561fd"
+   ]
+  }
+ ],
+ "fragments": {
+  "c07f4a28a39561fd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1990L0496 — PT — 13.12.2014 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31990L0496) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31990L0496) [de 24 de Setembro de 1990](http://publications.europa.eu/resource/celex/31990L0496) [relativa à rotulagem nutricional dos géneros alimentícios](http://publications.europa.eu/resource/celex/31990L0496) [(90/496/CEE)](http://publications.europa.eu/resource/celex/31990L0496) (JO L 276, 6.10.1990, p.40)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 1169/2011 do Parlamento Europeu e do Conselho de 25 de Outubro de 2011](http://publications.europa.eu/resource/celex/32011R1169) — L 304 — 18 — 22.11.2011"
+  }
+ }
+}

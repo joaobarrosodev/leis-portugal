@@ -1,0 +1,282 @@
+---
+schema_version: '1.0'
+id: pt:dre:179531:por
+title: Decreto-Lei n.º 156/2012
+short_title: null
+summary: Aprova a orgânica da Direção-Geral do Tesouro e Finanças
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 156/2012
+official_date: null
+publication_date: '2012-07-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 138/2012, Série I de 2012-07-18
+  number: '138'
+  series: I
+  supplement: null
+  pages: 3810 - 3812
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/07/13800/0381003812.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-07-25'
+version_history:
+  file: decreto-lei-156-2012.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2012-07-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-07-25'
+    amending: pt:dre:216055960:por
+    amending_title: Decreto-Lei n.º 60/2023
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Revoga Artigo 10.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/156/2012/p/cons/20250331/pt/html
+  oj: null
+  dre: '179531'
+  dre_path: /dr/detalhe/decreto-lei/156-2012-179531
+  internal: pt:dre:179531:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2012-179531
+  metadata_url: https://data.dre.pt/eli/dec-lei/156/2012/p/cons/20250331/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-216138192
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-216138192
+  retrieved_at: '2026-10-22T12:58:19Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 51a57aed7da17b531dc06ff1e2f8631169d498d96902fded4a7065b032e1c8d5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:58:19Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-156-2012.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal Dirigente
+- Definição de Competências
+- Direção Geral do Tesouro e Finanças
+- Orgânica
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:216055960:por
+  label: Altera Artigo 2.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 9.º; Revoga Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2023-216055960
+  date: '2023-07-24'
+- type: cites
+  target: pt:dre:145590:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/117/2011/12/15/p/dre
+- type: cites
+  target: pt:dre:520429:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/21/2007/03/29/p/dre
+- type: cites
+  target: pt:dre:636406:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/273/2007/07/30/p/dre
+article_structure:
+  article_count: 12
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:58:19Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 156/2012
+
+Decreto-Lei n.º 156/2012
+
+de 18 de julho
+
+No âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços.
+
+Trata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos, e, por outro, para o cumprimento dos objetivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objetivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de otimização do funcionamento da Administração Pública.
+
+Importava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.
+
+Neste contexto, o Decreto-Lei n.º 117/2011, de 15 de dezembro, definiu os novos modelos orgânicos que integram a estrutura do Ministério das Finanças e, pelo presente diploma, procede-se à aprovação da orgânica da Direção-Geral do Tesouro e Finanças.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+A Direção-Geral do Tesouro e Finanças, abreviadamente designada por DGTF, é um serviço central da administração direta do Estado dotado de autonomia administrativa.
+
+###### Artigo 2.º — Missão e atribuições
+
+1 - A DGTF tem por missão assegurar as operações de intervenção financeira do Estado, acompanhar as matérias respeitantes ao exercício da tutela financeira do setor público administrativo e empresarial e da função acionista e assegurar a gestão integrada do património do Estado, com exceção do património imobiliário, bem como a intervenção em operações patrimoniais do setor público, nos termos da lei.
+
+2 - A DGTF prossegue as seguintes atribuições:
+
+a) Assegurar o estudo, preparação e acompanhamento das matérias respeitantes ao exercício da tutela financeira do setor público, administrativo e empresarial e ao exercício da função acionista do Estado;
+
+b) Definir orientações, assegurar a sua divulgação e acompanhar a respetiva implementação no setor empresarial do Estado de forma consistente, bem como dar apoio técnico à elaboração de instrumentos de planeamento e de gestão;
+
+c) Verificar o cumprimento das orientações, obrigações, responsabilidades e objetivos de gestão, e demais práticas de governo societário, o desempenho anual dos órgãos sociais das empresas do setor empresarial do Estado e dos respetivos membros, bem como a aplicação do Estatuto do Gestor Público, aprovado pelo Decreto-Lei n.º 71/2007, de 27 de março, na sua redação atual, em articulação com os demais órgãos e entidades de fiscalização, assegurando a respetiva integração no processo de aprovação anual de prestação de contas;
+
+d) Assegurar e acompanhar a contratualização da prestação de serviços de interesse geral, incluindo a fixação das obrigações das empresas do setor empresarial do Estado no desenvolvimento da atividade e as compensações financeiras a atribuir pelo Estado, nos termos da lei, em conformidade com o disposto nos artigos 48.º e 55.º do Regime Jurídico do Setor Público Empresarial, aprovado pelo Decreto-Lei n.º 133/2013, de 3 de outubro, na sua redação atual;
+
+e) Assegurar ou acompanhar processos de liquidação de entidades dos setores público administrativo e empresarial;
+
+f) Promover a transferência para o Estado de ativos e passivos e de outras responsabilidades de entidades extintas e assegurar o respetivo acompanhamento;
+
+g) Administrar a dívida pública acessória e assegurar a concessão e o acompanhamento de garantias do Estado, e outros poderes previstos na lei, bem como informar do cabimento e acompanhar as garantias concedidas por outras pessoas coletivas de direito público;
+
+h) Adquirir e administrar os ativos financeiros do Estado e assegurar a concessão de empréstimos e outras operações ativas do Estado, e o subsequente acompanhamento, bem como renegociar as condições contratuais de empréstimos anteriores ou consolidar créditos;
+
+i) Conceder subsídios, indemnizações compensatórias, bonificações de juros e outros apoios financeiros, nos termos previstos na lei;
+
+j) Assegurar a assunção de passivos e responsabilidades ou adquirir créditos sobre entidades ou organismos do setor público, bem como regularizar responsabilidades financeiras do Estado, nos termos previstos na lei;
+
+k) Promover a recuperação de créditos decorrentes das operações de intervenção financeira e assegurar a atualização e controlo da informação sobre os créditos do Estado integrados na carteira da DGTF, incluindo o acompanhamento e o controlo daqueles cuja gestão seja atribuída a terceiros;
+
+l) Adquirir, administrar e alienar, direta ou indiretamente, os ativos patrimoniais do Estado, com exceção do património imobiliário e sem prejuízo das competências que se encontrem atribuídas a outras entidades;
+
+m) Assegurar os procedimentos relativos à aceitação, a favor do Estado, como sucessor legitimário, de heranças e legados, bem como de doações, salvo quando estes se refiram exclusivamente a bens imóveis e sem prejuízo das competências que se encontrem atribuídas a outras entidades;
+
+n) Controlar a emissão e circulação da moeda metálica, em articulação com as restantes entidades competentes na matéria;
+
+o) Acompanhar o relacionamento entre o sector empresarial do Estado e o sector financeiro;
+
+p) Assegurar a gestão financeira de patrimónios autónomos;
+
+q) Propor princípios e instrumentos de apoio financeiro em matéria de créditos à exportação e ao investimento português no estrangeiro, incluindo o crédito de ajuda, em coordenação com as agências de crédito à exportação, sem prejuízo das atribuições de auditoria financeira e de gestão de outras entidades nesta matéria;
+
+r) Dar apoio e ou assegurar a representação técnica da área governativa das finanças em organizações europeias e internacionais nas matérias que se inserem dentro das suas competências, sem prejuízo das atribuições de orientação geral e estratégica de outras entidades nesta matéria;
+
+s) Prestar apoio técnico em matéria de instrumentos financeiros no âmbito das relações bilaterais, europeias e multilaterais, assegurando a realização de participações e contribuições internacionais nas instituições financeiras internacionais.
+
+> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 60/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2023-216055960), em vigor a partir de 2023-07-25
+
+###### Artigo 3.º — Órgãos
+
+A DGTF é dirigida por um diretor-geral, coadjuvado por três subdiretores-gerais, cargos de direção superior de 1.º e 2.º graus, respetivamente.
+
+###### Artigo 4.º — Diretor-geral
+
+1 - O diretor-geral exerce as competências que lhe forem conferidas por lei ou que nele forem delegadas ou subdelegadas.
+
+2 - Os subdiretores-gerais exercem as competências que lhes sejam delegadas ou subdelegadas pelo diretor-geral, devendo este identificar a quem compete substituí-lo nas suas faltas e impedimentos.
+
+###### Artigo 5.º — Tipo de organização interna
+
+1 - A organização interna da DGTF obedece ao seguinte modelo estrutural misto:
+
+a) O modelo de estrutura matricial, nas áreas de estudo, implementação, desenvolvimento e acompanhamento de projetos, sobretudo no âmbito do exercício da função acionista e em matéria de ativos do Estado;
+
+b) O modelo de estrutura hierarquizada, nas restantes áreas de atividade da DGTF.
+
+2 - Para efeitos da alínea a) do n.º 1, por despacho do diretor-geral podem ser criadas até quatro equipas multidisciplinares, definidas as competências a prosseguir por cada uma delas, designados os respetivos chefes de equipa e afetos os trabalhadores necessários, de acordo com critérios de especialização técnica e de experiência profissional.
+
+> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 60/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2023-216055960), em vigor a partir de 2023-07-25
+
+###### Artigo 6.º — Receitas
+
+1 - A DGTF dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+
+2 - A DGTF dispõe ainda das seguintes receitas próprias:
+
+a) As remunerações auferidas no âmbito da realização de operações ativas;
+
+b) Os montantes provenientes de comissões de gestão e de outras formas de remuneração que lhe sejam atribuídas pela gestão financeira de patrimónios autónomos;
+
+c) Os montantes correspondentes a 20% das taxas cobradas pela emissão das garantias pessoais do Estado;
+
+d) As receitas provenientes das parcerias público-privadas e das concessões que lhe sejam atribuídas por lei, regulamento, ato ou contrato;
+
+e) [Revogada.]
+
+f) Quaisquer receitas que lhe sejam atribuídas por lei, contrato ou outro título.
+
+3 - As quantias cobradas pela DGTF são fixadas e periodicamente atualizadas por despacho do membro do Governo responsável pela área das finanças, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indiretos de funcionamento.
+
+4 - As receitas referidas no n.º 2 são consignadas à realização de despesas da DGTF durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos do decreto-lei de execução orçamental anual.
+
+> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 60/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2023-216055960), em vigor a partir de 2023-07-25
+
+###### Artigo 7.º — Despesas
+
+Constituem despesas da DGTF as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.
+
+###### Artigo 8.º — Mapa de cargos de direção
+
+Os lugares de direção superior de 1.º e 2.º graus e de direção intermédia de 1.º grau constam do mapa anexo ao presente decreto-lei, do qual faz parte integrante.
+
+###### Artigo 9.º — Estatuto remuneratório dos chefes de equipas multidisciplinares
+
+Aos chefes de equipas multidisciplinares é atribuído um estatuto remuneratório equiparado a diretor de serviços ou chefe de divisão, em função da natureza e complexidade das funções, não podendo o estatuto equiparado a diretor de serviços ser atribuído a mais de três chefias de equipa em simultâneo.
+
+> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 60/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2023-216055960), em vigor a partir de 2023-07-25
+
+###### Artigo 10.º — Norma transitória
+
+1 - Até à entrada em funções da Unidade Técnica de Acompanhamento de Projetos, a DGTF mantém a competência para assegurar o estudo, preparação e acompanhamento das matérias relativas às parcerias público-privadas e às concessões.
+
+2 - Na prossecução das atribuições previstas no número anterior a DGTF adota o modelo de estrutura matricial.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 60/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2023-216055960), em vigor a partir de 2023-07-25
+
+###### Artigo 11.º — Norma revogatória
+
+É revogado o Decreto Regulamentar n.º 21/2007, de 29 de março, alterado pelo Decreto-Lei n.º 273/2007, de 30 de julho.
+
+###### Artigo 12.º — Entrada em vigor
+
+O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 10 de maio de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar.
+
+Promulgado em 7 de julho de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 10 de julho de 2012.
+
+O Primeiro-Ministro, Pedro Passos Coelho.
+
+## Anexo — Mapa a que se refere o artigo 8.º
+
+(ver documento original)

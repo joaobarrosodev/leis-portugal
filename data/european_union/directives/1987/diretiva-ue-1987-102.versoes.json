@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31987L0102:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01987L0102-20100512",
+ "dre_path": null,
+ "source_lastmod": "2010-05-12",
+ "versions": [
+  {
+   "date": "2010-05-12",
+   "future": false,
+   "celex": "01987L0102-20100512",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6bc122a5ded85799"
+   ]
+  }
+ ],
+ "fragments": {
+  "6bc122a5ded85799": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1987L0102 — PT — 12.05.2010 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31987L0102) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31987L0102) [de 22 de Dezembro de 1986](http://publications.europa.eu/resource/celex/31987L0102) [relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros relativas ao crédito ao consumo](http://publications.europa.eu/resource/celex/31987L0102) [(87/102/CEE)](http://publications.europa.eu/resource/celex/31987L0102) (JO L 042, 12.2.1987, p.48)\n\n**revogado por:**\n\n- [Directiva 2008/48/CE do Parlamento Europeu e do Conselho de 23 de Abril de 2008](http://publications.europa.eu/resource/celex/32008L0048) — L 133 — 66 — 22.5.2008"
+  }
+ }
+}

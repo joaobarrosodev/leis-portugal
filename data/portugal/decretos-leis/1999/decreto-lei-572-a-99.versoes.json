@@ -1,0 +1,151 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:425935:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-169689489",
+ "dre_path": "/dr/detalhe/decreto-lei/572-a-1999-425935",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-12-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "169686050",
+    "169686051",
+    "169686052",
+    "169686053",
+    "169686054",
+    "169686055"
+   ]
+  },
+  {
+   "date": "2000-07-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:301237:por",
+     "title": "Decreto-Lei n.º 123/2000",
+     "published": "2000-07-05",
+     "dre_path": "/dr/detalhe/decreto-lei/123-2000-301237"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-A",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "169686050",
+    "169686051",
+    "169686063",
+    "169686064",
+    "169686065",
+    "169686066",
+    "169686067",
+    "169686068"
+   ]
+  }
+ ],
+ "fragments": {
+  "169686050": {
+   "fragment_id": "169689490",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 572-A/99\n\nde 29 de Dezembro\n\nA EPAC - Empresa Pública de Abastecimento de Cereais foi criada pelo Decreto-Lei n.º 663/76, de 4 de Agosto, tendo por objecto assegurar o abastecimento de cereais e sementes, considerando a defesa da produção, as exigências do consumo e os superiores interesses da economia nacional. Para a realização do seu objecto a empresa pública beneficiava de um regime de exclusivo ou de intervenção na aquisição de cereais e sementes de produção nacional e de um regime de exclusivo na importação de cereais, sementes de cereais e forragens.\n\nPelo Decreto-Lei n.º 551/77, de 31 de Dezembro, foi transferido para a EPAC todo o pessoal e património do Instituto de Cereais, E. P., então extinto, assumindo a EPAC funções de intervenção e sendo acentuada a respectiva utilização como instrumento económico de acção do Governo, facultando o controlo e a regularização do mercado de cereais e sementes, nomeadamente nos aspectos dos preços e abastecimento.\n\nA adesão de Portugal às Comunidades Europeias, que obrigou à eliminação da exploração monopolista destes mercados pela EPAC, a liberalização progressiva neste sector, a criação da SILOPOR, por cisão e destaque de um conjunto de património imobiliário e mobiliário, determinada pelo Decreto-Lei n.º 293-A/86, de 12 de Setembro, alterado, por ratificação, pela Lei n.º 32/87, de 10 de Julho, vieram alterar sensivelmente o enquadramento em que a EPAC actuava, sem que os necessários ajustamentos e reestruturações tivessem sido oportunamente levados a cabo.\n\nA EPAC foi entretanto, através do Decreto-Lei n.º 26/91, de 11 de Janeiro, transformada em sociedade anónima de capitais exclusivamente públicos, adoptando a denominação de Empresa para Agroalimentação e Cereais, S. A., verificando-se actualmente que da pesada herança do passado, bem como da alteração do contexto jurídico, da realidade económica e do mercado de comercialização de cereais e sementes, resulta a inviabilidade da manutenção do equilíbrio económico-financeiro da EPAC. Razão pela qual se delibera e regula a dissolução e liquidação da EPAC - Empresa para Agroalimentação e Cereais, S. A.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "169686051": {
+   "fragment_id": "169689491",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - É dissolvida, com efeitos reportados a 28 de Dezembro de 1999, a EPAC - Empresa para Agroalimentação e Cereais, S. A., adiante designada por EPAC, S. A.\n\n2 - A dissolução da EPAC, S. A., não carece de escritura pública, devendo o registo ser requerido no prazo de sete dias após a data de entrada em vigor do presente diploma.\n\n3 - A liquidação da EPAC, S. A., é efectuada nos termos da lei, das deliberações da assembleia geral e do disposto nos artigos seguintes."
+  },
+  "169686052": {
+   "fragment_id": "169689492",
+   "type": 11,
+   "heading": "Artigo 2.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Património\n\n1 - Todo o património activo e passivo da EPAC, S. A., será liquidado por transmissão global para o accionista Estado, através da Direcção-Geral do Tesouro.\n\n2 - A Direcção-Geral do Tesouro, em representação do Estado, sucede à EPAC, S. A., em todas as relações jurídicas contratuais e processuais que esta integrava.\n\n3 - A Direcção-Geral do Tesouro fica depositária dos livros, documentos e demais elementos de escrituração da EPAC, S. A.\n\n4 - Para o efeito da transmissão referida no n.º 1, é dispensado o acordo a que se refere o n.º 1 do artigo 148.º do Código das Sociedades Comerciais.\n\n5 - Sem prejuízo do disposto no n.º 1, o Estado, através da Direcção-Geral do Tesouro, poderá assumir, nos termos do número anterior, dívidas da sociedade, em casos devidamente fundamentados."
+  },
+  "169686053": {
+   "fragment_id": "169689493",
+   "type": 11,
+   "heading": "Artigo 3.º — Acções judiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Acções judiciais\n\nCom a extinção da EPAC, S. A., a posição da Empresa nas acções judiciais pendentes em que seja parte será assumida pelo Estado, através da Direcção-Geral do Tesouro, não se suspendendo a instância nem sendo necessária habilitação."
+  },
+  "169686054": {
+   "fragment_id": "169689494",
+   "type": 11,
+   "heading": "Artigo 4.º — Forma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Forma\n\n1 - O presente diploma constitui, para todos os efeitos legais, inclusive para os de registo, título bastante para as transmissões de direitos e obrigações nele previstos, ficando as mesmas isentas de quaisquer taxas ou emolumentos.\n\n2 - Os actos a praticar pelos liquidatários da EPAC, S. A., respeitantes à dissolução, liquidação e extinção da sociedade são efectuados com dispensa de escritura e com isenção de quaisquer taxas ou emolumentos."
+  },
+  "169686055": {
+   "fragment_id": "169689495",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação."
+  },
+  "169686063": {
+   "fragment_id": "169689492",
+   "type": 11,
+   "heading": "Artigo 2.º — Património",
+   "in_force_from": "2000-07-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 123/2000 - Diário da República n.º 153/2000, Série I-A de 2000-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2000-301237), em vigor a partir de 2000-07-06"
+   ],
+   "markdown": "###### Artigo 2.º — Património\n\n1 - Todo o património activo e passivo da EPAC, S. A., será liquidado por transmissão global para o accionista Estado, através da Direcção-Geral do Tesouro.\n\n2 - A Direcção-Geral do Tesouro, em representação do Estado, sucede à EPAC, S. A., em todas as relações jurídicas contratuais e processuais que esta integrava.\n\n3 - A Direcção-Geral do Tesouro fica depositária dos livros, documentos e demais elementos de escrituração da EPAC, S. A.\n\n4 - Para o efeito da transmissão referida no n.º 1, é dispensado o acordo a que se refere o n.º 1 do artigo 148.º do Código das Sociedades Comerciais.\n\n5 - Antes da concretização da transmissão global do património prevista no n.º 1, o Estado, através da Direcção-Geral do Tesouro, poderá assumir, nos termos do número anterior, dívidas da sociedade em casos devidamente fundamentados.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 123/2000 - Diário da República n.º 153/2000, Série I-A de 2000-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2000-301237), em vigor a partir de 2000-07-06"
+  },
+  "169686064": {
+   "fragment_id": "169689504",
+   "type": 11,
+   "heading": "Artigo 2.º-A",
+   "in_force_from": "2000-07-06",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2000 - Diário da República n.º 153/2000, Série I-A de 2000-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2000-301237), em vigor a partir de 2000-07-06"
+   ],
+   "markdown": "###### Artigo 2.º-A\n\n1 - Entre a data da dissolução e a data da transmissão global para o accionista Estado do património activo e passivo da EPAC, S. A., a definir por deliberação da assembleia geral, os actos de liquidação da sociedade serão levados a cabo, nos termos do disposto no Código das Sociedades Comerciais, pelo liquidatário ou pelos liquidatários respectivos.\n\n2 - Os liquidatários referidos no número anterior têm as responsabilidades, os deveres e os poderes previstos no artigo 152.º do Código das Sociedades Comerciais, podendo nomear mandatários para a outorga em contratos que exijam a forma de escritura pública.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2000 - Diário da República n.º 153/2000, Série I-A de 2000-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2000-301237), em vigor a partir de 2000-07-06"
+  },
+  "169686065": {
+   "fragment_id": "169689493",
+   "type": 11,
+   "heading": "Artigo 3.º — Acções judiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Acções judiciais\n\nCom a extinção da EPAC, S. A., a posição da Empresa nas acções judiciais pendentes em que seja parte será assumida pelo Estado, através da Direcção-Geral do Tesouro, não se suspendendo a instância nem sendo necessária habilitação."
+  },
+  "169686066": {
+   "fragment_id": "169689494",
+   "type": 11,
+   "heading": "Artigo 4.º — Forma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Forma\n\n1 - O presente diploma constitui, para todos os efeitos legais, inclusive para os de registo, título bastante para as transmissões de direitos e obrigações nele previstos, ficando as mesmas isentas de quaisquer taxas ou emolumentos.\n\n2 - Os actos a praticar pelos liquidatários da EPAC, S. A., respeitantes à dissolução, liquidação e extinção da sociedade são efectuados com dispensa de escritura e com isenção de quaisquer taxas ou emolumentos."
+  },
+  "169686067": {
+   "fragment_id": "169689495",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação."
+  },
+  "169686068": {
+   "fragment_id": "169689496",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de Dezembro de 1999. - Jaime José Matos da Gama - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Luís Manuel Capoulas Santos.\n\nPromulgado em 28 de Dezembro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 28 de Dezembro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

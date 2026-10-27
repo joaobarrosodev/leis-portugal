@@ -1,0 +1,2913 @@
+---
+schema_version: '1.0'
+id: pt:dre:671387:por
+title: Decreto-Lei n.º 74/2006
+short_title: null
+summary: Aprova o regime jurídico dos graus e diplomas do ensino superior, em desenvolvimento do disposto nos artigos 13.º
+  a 15.º da Lei n.º 46/86, de 14 de Outubro (Lei de Bases do Sistema Educativo), bem como o disposto no n.º 4 do artigo 16.º
+  da Lei n.º 37/2003, de 22 de Agosto (estabelece as bases do financiamento do ensino superior)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Ciência, Tecnologia e Ensino Superior
+proposing_entity: null
+official_number: 74/2006
+official_date: null
+publication_date: '2006-03-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 60/2006, Série I-A de 2006-03-24
+  number: '60'
+  series: I
+  supplement: null
+  pages: 2242 - 2257
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/03/060a00/22422257.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-07-25'
+version_history:
+  file: decreto-lei-74-2006.versoes.json
+  count: 8
+  source_lastmod: '2026-07-23'
+  versions:
+  - date: '2006-03-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-06-26'
+    amending: pt:dre:456200:por
+    amending_title: Decreto-Lei n.º 107/2008
+    changes:
+    - Adita Artigo 46.º-A
+    - Adita Artigo 46.º-B
+    - Adita Artigo 46.º-C
+    - Adita Capítulo v
+    - Adita Artigo 66.º-A
+    - Adita Artigo 74.º-A
+    - Altera Artigo 14.º
+    - Altera Artigo 26.º
+    - Altera Artigo 38.º
+    - Altera Artigo 45.º
+    - Altera Artigo 49.º
+    - Altera Artigo 67.º
+    - Altera Artigo 69.º
+    - Altera Artigo 71.º
+    - Altera Artigo 72.º
+    - Altera Artigo 73.º
+    - Altera Artigo 74.º
+    - Altera Artigo 77.º
+    - Altera Artigo 80.º
+    - Altera Artigo 83.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 25.º
+    - Revoga Artigo 37.º
+    - Revoga Artigo 70.º
+    - Revoga Artigo 78.º
+    - Revoga Artigo 79.º
+  - date: '2009-09-19'
+    amending: pt:dre:483125:por
+    amending_title: Declaração de Rectificação n.º 81/2009; Decreto-Lei n.º 230/2009
+    changes:
+    - Retifica Artigo 38.º
+    - Altera Artigo 31.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 38.º
+    - Altera Artigo 49.º
+    - Altera Artigo 50.º
+  - date: '2013-09-06'
+    amending: pt:dre:498487:por
+    amending_title: Decreto-Lei n.º 115/2013
+    changes:
+    - Adita Artigo 45.º-A
+    - Adita Artigo 45.º-B
+    - Adita Artigo 54.º-A
+    - Adita Artigo 59.º-A
+    - Adita Artigo 60.º-A
+    - Adita Artigo 76.º-A
+    - Adita Artigo 76.º-B
+    - Adita Artigo 76.º-C
+    - Adita Artigo 79.º-A
+    - Adita Artigo 79.º-B
+    - Adita Artigo 79.º-C
+    - Adita Artigo 80.º-A
+    - Adita Artigo 80.º-B
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Altera Artigo 26.º
+    - Altera Artigo 29.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 39.º
+    - Altera Artigo 41.º
+    - Altera Artigo 42.º
+    - Altera Artigo 43.º
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º-A
+    - Altera Artigo 49.º
+    - Altera Artigo 50.º
+    - Altera Artigo 52.º
+    - Altera Artigo 53.º
+    - Altera Artigo 54.º
+    - Altera Artigo 55.º
+    - Altera Artigo 57.º
+    - Altera Artigo 59.º
+    - Altera Artigo 60.º
+    - Altera Artigo 75.º
+    - Altera Artigo 76.º
+  - date: '2016-09-14'
+    amending: pt:dre:75319452:por
+    amending_title: Decreto-Lei n.º 63/2016
+    changes:
+    - Adita Secção I
+    - Adita Artigo 40.º-A
+    - Adita Artigo 40.º-B
+    - Adita Artigo 40.º-C
+    - Adita Artigo 40.º-D
+    - Adita Secção II
+    - Adita Artigo 40.º-E
+    - Adita Artigo 40.º-F
+    - Adita Artigo 40.º-G
+    - Adita Secção III
+    - Adita Artigo 40.º-H
+    - Adita Secção IV
+    - Adita Artigo 40.º-I
+    - Adita Artigo 40.º-J
+    - Adita Artigo 40.º-K
+    - Adita Artigo 40.º-L
+    - Adita Artigo 40.º-M
+    - Adita Artigo 40.º-N
+    - Adita Artigo 40.º-O
+    - Adita Artigo 40.º-Q
+    - Adita Secção VI
+    - Adita Artigo 40.º-R
+    - Adita Artigo 40.º-S
+    - Adita Artigo 40.º-T
+    - Adita Artigo 40.º-U
+    - Adita Artigo 40.º-V
+    - Adita Secção VII
+    - Adita Artigo 40.º-W
+    - Adita Artigo 40.º-X
+    - Adita Secção VIII
+    - Adita Artigo 40.º-Y
+    - Adita Artigo 40.º-Z
+    - Adita Artigo 40.º-AA
+    - Adita Artigo 40.º-AB
+    - Adita Artigo 40.º-AC
+    - Adita Artigo 40.º-AD
+    - Adita Artigo 49.º-A
+    - Adita Artigo 51.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+  - date: '2018-08-17'
+    amending: pt:dre:116068879:por
+    amending_title: Decreto-Lei n.º 65/2018
+    changes:
+    - Adita Artigo 4.º-A
+    - Adita Artigo 38.º-A
+    - Adita Artigo 46.º-D
+    - Adita Artigo 51.º-B
+    - Adita Artigo 55.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 38.º
+    - Altera Artigo 40.º-B
+    - Altera Artigo 40.º-E
+    - Altera Artigo 40.º-H
+    - Altera Artigo 40.º-I
+    - Altera Artigo 40.º-T
+    - Altera Artigo 40.º-U
+    - Altera Artigo 40.º-V
+    - Altera Artigo 41.º
+    - Altera Artigo 42.º
+    - Altera Artigo 43.º
+    - Altera Artigo 45.º
+    - Altera Artigo 45.º-A
+    - Altera Artigo 46.º-A
+    - Altera Artigo 46.º-C
+    - Altera Artigo 48.º
+    - Altera Artigo 49.º
+  - date: '2021-04-17'
+    amending: pt:dre:161518656:por
+    amending_title: Decreto-Lei n.º 27/2021
+    changes:
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 41.º
+    - Altera Artigo 45.º
+  - date: '2026-07-25'
+    amending: pt:dre:1149265697:por
+    amending_title: Decreto-Lei n.º 148/2026
+    changes:
+    - Altera Artigo 46.º-B
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/74/2006/p/cons/20260720/pt/html
+  oj: null
+  dre: '671387'
+  dre_path: /dr/detalhe/decreto-lei/74-2006-671387
+  internal: pt:dre:671387:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387
+  metadata_url: https://data.dre.pt/eli/dec-lei/74/2006/p/cons/20260720/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-75326440
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-75326440
+  retrieved_at: '2026-10-22T13:46:11Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-07-23T00:00:00Z'
+integrity:
+  source_sha256: 098ae1bfc81b856e26033c9a434a4118b15269a808e82960c86ce9b808a74655
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:46:11Z'
+  notes: 8 versão(ões); histórico completo em decreto-lei-74-2006.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acreditação
+- Financiamento
+- Plano de Estudos
+- Depósito Legal
+- Diploma
+- Diretor Geral
+- Doutoramento
+- Ensino Cooperativo
+- Ensino no Estrangeiro
+- Ensino Particular
+- Ensino Superior Politécnico
+- Habilitações Literárias
+- Biblioteca Nacional
+- JURI
+- Licenciatura
+- Mestrado
+- Observatório da Ciência e do Ensino Superior
+- Direção Geral do Ensino Superior
+- Ministro da Ciência Tecnologia e Ensino Superior
+- Currículo Nacional
+- Estabelecimento de Ensino
+- Pessoal Docente
+- Propinas
+- Regime Jurídico
+- Ensino Superior
+- Sistema Educativo
+- TESE
+relationships:
+- type: amended_by
+  target: pt:dre:456200:por
+  label: Adita Artigo 46.º-A; Adita Artigo 46.º-B; Adita Artigo 46.º-C; Adita Capítulo v; Adita Artigo 66.º-A; Adita Artigo
+    74.º-A; Altera Artigo 14.º; Altera Artigo 26.º; Altera Artigo 38.º; Altera Artigo 45.º; Altera Artigo 49.º; Altera Artigo
+    67.º; Altera Artigo 69.º; Altera Artigo 71.º; Altera Artigo 72.º; Altera Artigo 73.º; Altera Artigo 74.º; Altera Artigo
+    77.º; Altera Artigo 80.º; Altera Artigo 83.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200
+  date: '2008-06-25'
+- type: amended_by
+  target: pt:dre:489773:por
+  label: Retifica Artigo 38.º; Altera Artigo 31.º; Altera Artigo 33.º; Altera Artigo 34.º; Altera Artigo 35.º; Altera Artigo
+    38.º; Altera Artigo 49.º; Altera Artigo 50.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2009-489773
+  date: '2009-09-14'
+- type: amended_by
+  target: pt:dre:483125:por
+  label: Retifica Artigo 38.º; Altera Artigo 31.º; Altera Artigo 33.º; Altera Artigo 34.º; Altera Artigo 35.º; Altera Artigo
+    38.º; Altera Artigo 49.º; Altera Artigo 50.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/81-2009-483125
+  date: '2009-10-27'
+- type: amended_by
+  target: pt:dre:498487:por
+  label: Adita Artigo 45.º-A; Adita Artigo 45.º-B; Adita Artigo 54.º-A; Adita Artigo 59.º-A; Adita Artigo 60.º-A; Adita Artigo
+    76.º-A; Adita Artigo 76.º-B; Adita Artigo 76.º-C; Adita Artigo 79.º-A; Adita Artigo 79.º-B; Adita Artigo 79.º-C; Adita
+    Artigo 80.º-A; Adita Artigo 80.º-B; Altera Artigo 3.º; Altera Artigo 6.º; Altera Artigo 14.º; Altera Artigo 16.º; Altera
+    Artigo 20.º; Altera Artigo 22.º; Altera Artigo 26.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487
+  date: '2013-08-07'
+- type: amended_by
+  target: pt:dre:75319452:por
+  label: Adita Secção I; Adita Artigo 40.º-A; Adita Artigo 40.º-B; Adita Artigo 40.º-C; Adita Artigo 40.º-D; Adita Secção
+    II; Adita Artigo 40.º-E; Adita Artigo 40.º-F; Adita Artigo 40.º-G; Adita Secção III; Adita Artigo 40.º-H; Adita Secção
+    IV; Adita Artigo 40.º-I; Adita Artigo 40.º-J; Adita Artigo 40.º-K; Adita Artigo 40.º-L; Adita Artigo 40.º-M; Adita Artigo
+    40.º-N; Adita Artigo 40.º-O; Adita Artigo 40.º-Q
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452
+  date: '2016-09-13'
+- type: amended_by
+  target: pt:dre:116068879:por
+  label: Adita Artigo 4.º-A; Adita Artigo 38.º-A; Adita Artigo 46.º-D; Adita Artigo 51.º-B; Adita Artigo 55.º-A; Altera Artigo
+    1.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 14.º; Altera Artigo 16.º; Altera Artigo 18.º;
+    Altera Artigo 19.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 22.º; Altera Artigo 26.º; Altera Artigo 27.º;
+    Altera Artigo 29.º; Altera Artigo 30.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879
+  date: '2018-08-16'
+- type: amended_by
+  target: pt:dre:161518656:por
+  label: Altera Artigo 21.º; Altera Artigo 22.º; Altera Artigo 41.º; Altera Artigo 45.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2021-161518656
+  date: '2021-04-16'
+- type: amended_by
+  target: pt:dre:1149265697:por
+  label: Altera Artigo 46.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2026-1149265697
+  date: '2026-07-20'
+- type: cites
+  target: celex:32005L0036
+  label: null
+  source: http://data.europa.eu/eli/dir/2005/36/oj
+- type: cites
+  target: pt:dre:656107:por
+  label: null
+  source: http://data.dre.pt/eli/lei/37/2003/08/22/p/dre
+article_structure:
+  article_count: 141
+  section_count: 30
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:46:11Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 74/2006
+
+Decreto-Lei n.º 74/2006
+
+de 24 de Março
+
+O Programa do XVII Governo estabeleceu como um dos objectivos essenciais da política para o ensino superior, no período de 2005-2009, garantir a qualificação dos portugueses no espaço europeu, concretizando o Processo de Bolonha oportunidade única para incentivar a frequência do ensino superior, melhorar a qualidade e a relevância das formações oferecidas, fomentar a mobilidade dos nossos estudantes e diplomados e a internacionalização das nossas formações.
+
+Em execução desse compromisso, em Abril de 2005 foi presente à Assembleia da República uma proposta de lei visando introduzir no articulado da Lei de Bases do Sistema Educativo referente à organização do ensino superior as alterações indispensáveis à concretização daquele objectivo.
+
+A Lei n.º 49/2005, de 30 de Agosto, que alterou a Lei de Bases do Sistema Educativo, consagrou, nomeadamente:
+
+A criação de condições para que todos os cidadãos possam ter acesso à aprendizagem ao longo da vida, modificando as condições de acesso ao ensino superior para os que nele não ingressaram na idade de referência, atribuindo aos estabelecimentos de ensino superior a responsabilidade pela sua selecção e criando condições para o reconhecimento da experiência profissional;
+
+A adopção do modelo de organização do ensino superior em três ciclos;
+
+A transição de um sistema de ensino baseado na ideia da transmissão de conhecimentos para um sistema baseado no desenvolvimento de competências;
+
+A adopção do sistema europeu de créditos curriculares (ECTS - European Credit Transfer and Accumulation System), baseado no trabalho dos estudantes.
+
+Na sequência da alteração da Lei de Bases do Sistema Educativo, o Governo aprova três diplomas estruturantes do sistema de ensino superior referentes aos cursos de especialização tecnológica, às condições especiais de acesso e aos graus e diplomas.
+
+O presente decreto-lei procede à regulamentação das alterações introduzidas pela Lei de Bases do Sistema Educativo relativas ao novo modelo de organização do ensino superior no que respeita aos ciclos de estudos e encontra-se estruturado em cinco títulos principais referentes:
+
+Aos graus académicos e diplomas do ensino superior (título II);
+
+Aos princípios gerais a que se subordina o processo de acreditação (título III);
+
+Às regras a aplicar para a reorganização dos cursos em funcionamento (título IV);
+
+Às regras transitórias a adoptar para a criação de novos ciclos de estudos até à criação e entrada em funcionamento da agência de acreditação (título V);
+
+Às regras a adoptar para o registo de alterações, designadamente das referentes aos planos de estudos dos cursos (título VI).
+
+No título II, os capítulos II a IV procedem à caracterização mais detalhada de cada um dos três ciclos de estudos no quadro dos trabalhos desenvolvidos no âmbito do Processo de Bolonha. Essa caracterização tem como aspectos mais relevantes:
+
+A organização do ensino superior em três ciclos, tal como já ficou consagrado pela Lei de Bases do Sistema Educativo;
+
+A diferenciação de objectivos entre os subsistemas politécnico e universitário, à luz da experiência europeia comparável, num contexto de igual dignidade e exigência mas de vocações diferentes;
+
+A definição dos objectivos de cada um dos ciclos de estudos na perspectiva das competências a adquirir, adoptando os resultados do trabalho colectivo realizado a nível europeu e concretizado nos descritores de Dublim, tendo presente que a transição de um sistema de ensino baseado na transmissão de conhecimentos para um sistema baseado no desenvolvimento de competências pelos próprios alunos é uma questão crítica central em toda a Europa, com particular expressão em Portugal;
+
+A organização dos cursos com base no sistema europeu de transferência e acumulação de créditos.
+
+A análise da experiência europeia mostra que ao 1.º ciclo correspondem, por norma, 180 créditos, isto é, três anos curriculares de trabalho.
+
+Para algumas profissões - poucas - são internacionalmente exigidas formações mais longas, correspondentes a quatro, cinco ou seis anos curriculares de trabalho.
+
+Contam-se neste grupo, desde logo, aquelas que são objecto de normas comunitárias de coordenação das condições mínimas de formação, como as constantes da Directiva n.º <a href="eurlex.asp?ano=2005&id=305L0036" title="Link para Directiva da Comunidade Europeia">2005/36/CE</a>, do Parlamento Europeu e do Conselho, de 7 de Setembro (Jornal Oficial, n.º L 255, de 30 de Setembro de 2005), onde se incluem os médicos, os enfermeiros responsáveis por cuidados gerais, os médicos dentistas, os médicos veterinários, os enfermeiros especializados em saúde materna e obstetrícia, os farmacêuticos e os arquitectos.
+
+Por outro lado, aquelas cuja duração mais longa resulta de uma prática estável e consolidada na União Europeia, como é o caso de algumas áreas de engenharia de concepção.
+
+Finalmente, aquelas a que, por força de normas legais nacionais actualmente em vigor, deva ser fixada uma duração superior a 180 créditos.
+
+A adopção de formações artificialmente longas, fora deste contexto europeu de referência, não é naturalmente aceitável, não só pelo que representaria em desperdício de recursos, como pelo prejuízo em que se traduziria para os estudantes dos estabelecimentos de ensino superior portugueses. Assim, e sem prejuízo da autonomia das instituições, a fórmula de financiamento terá em consideração as durações europeias de referência.
+
+Regula-se igualmente, tal como previsto na alteração introduzida na Lei de Bases do Financiamento do Ensino Superior pela Lei n.º 49/2005, de 30 de Agosto, a forma de fixação das propinas devidas pela inscrição no ciclo de estudos conducente ao grau de mestre no ensino público, estabelecendo que, quando a sua conjugação com um ciclo de estudos conducente ao grau de licenciado seja indispensável para o acesso ao exercício de uma actividade profissional, o seu valor é fixado de forma idêntica ao estabelecido na lei para a licenciatura, em cumprimento, aliás, do entendimento explicitado pelo Governo aquando da aprovação das alterações à Lei de Bases do Sistema Educativo.
+
+Na definição dos objectivos e condições para a atribuição de cada um dos graus académicos procurou ter-se em consideração as especificidades das diferentes áreas, designadamente da área artística. Esta é, porém, uma área sobre a qual é indispensável realizar uma reflexão aprofundada, que se irá promover de imediato, tendo em vista criar as condições mais favoráveis ao seu desenvolvimento no quadro do ensino superior, a exemplo da evolução entretanto registada noutros países.
+
+O capítulo V estabelece regras gerais quanto às formações de ensino superior não conferentes de grau.
+
+O capítulo VI consagra a faculdade de associação dos estabelecimentos de ensino superior, nacionais ou estrangeiros, para a realização conjunta de ciclos de estudos, e estabelece as regras a que está sujeita a atribuição de graus ou diplomas nesse quadro, prevendo expressamente a possibilidade de atribuição de diplomas conjuntos. Estabelece-se, assim, um quadro jurídico para o desenvolvimento de projectos de ensino em rede e para o estabelecimento de parcerias internacionais, geradores de sinergias entre as instituições e optimizadores da utilização dos recursos existentes.
+
+O capítulo VII consagra normas quanto à mobilidade dos estudantes entre cursos e estabelecimentos de ensino superior visando, na sequência do disposto no n.º 4 do artigo 13.º da Lei de Bases do Sistema Educativo, fixar um novo quadro de referência facilitador, longe do ultrapassado sistema de equivalências, creditando nos seus ciclos de estudos a formação realizada no âmbito de outros ciclos de estudos superiores em estabelecimentos de ensino superior nacionais ou estrangeiros e introduzindo a possibilidade de creditação da experiência profissional e a formação pós-secundária.
+
+Finalmente, o capítulo VIII introduz um conjunto de disposições inovadoras, entre as quais a obrigação de depósito legal de versões digitais das dissertações e teses de mestrado e doutoramento na Biblioteca Nacional e no Observatório da Ciência e do Ensino Superior, a permissão expressa do uso de línguas estrangeiras no ensino e na elaboração e discussão das dissertações e teses, e a utilização da teleconferência nas reuniões preparatórias dos júris.
+
+No título III fixam-se os princípios gerais a que fica sujeita a acreditação dos ciclos de estudos, condição indispensável ao seu funcionamento.
+
+Essa acreditação realizar-se-á no quadro do sistema europeu de garantia de qualidade no ensino superior e far-se-á, em regra, através da acreditação dos estabelecimentos de ensino para determinadas áreas de ensino, sendo da responsabilidade de uma agência dotada de autonomia científica e técnica a criar e regular através de diploma próprio.
+
+Deixa-se igualmente claro que, embora a acreditação seja indispensável ao financiamento pelo Estado dos ciclos de estudos no ensino público, ela não é a única condição, pois este está, naturalmente, condicionado ao ordenamento da rede de formação superior no quadro do regime legal em vigor.
+
+O título IV estabelece as regras a aplicar para a reorganização dos cursos em funcionamento.
+
+A adequação das formações ao novo modelo de organização do ensino superior vem sendo concretizada através de um trabalho em profundidade desenvolvido pelas instituições, que deve ser participado por estudantes e professores, e que visa, designadamente:
+
+A passagem de um ensino baseado na transmissão de conhecimentos para um ensino baseado no desenvolvimento de competências;
+
+A orientação da formação ministrada para os objectivos específicos que devem ser assegurados pelos ciclos de estudos do subsistema, universitário ou politécnico, em que se insere;
+
+Assegurar aos estudantes portugueses condições de formação e de integração profissional similares, em duração e conteúdo, às dos restantes Estados que integram o espaço europeu, através da adopção, em cada área de formação, de um número de créditos e, consequentemente, de uma duração, que não sejam diversos dos de instituições de referência de ensino superior daquele espaço nas mesmas áreas;
+
+A determinação do trabalho que o estudante deve desenvolver em cada unidade curricular incluindo, designadamente, e onde aplicável, as sessões de ensino de natureza colectiva, as sessões de orientação pessoal de tipo tutorial, os estágios, os projectos, os trabalhos no terreno, o estudo e a avaliação - e sua expressão em créditos, de acordo com o sistema europeu de transferência e acumulação de créditos, incluindo a realização de inquéritos aos estudantes e docentes tendo em vista esse fim;
+
+A fixação do número total de créditos, e consequente duração do ciclo de estudos, dentro dos valores e de acordo com os critérios estabelecidos pelo presente decreto-lei.
+
+A entrada em funcionamento da adequação das formações actuais fica sujeita a um procedimento de registo, da responsabilidade da Direcção-Geral do Ensino Superior, que visa, exclusivamente, a correcta verificação da realização dos procedimentos de adequação previstos na lei.
+
+Para apoiar a Direcção-Geral do Ensino Superior neste domínio será criada uma comissão de acompanhamento do processo de reorganização, integrada por representantes da Administração, dos estabelecimentos de ensino superior dos diferentes subsistemas, das associações de estudantes do ensino superior e por outras individualidades, a nomear pelo Ministro da Ciência, Tecnologia e Ensino Superior.
+
+A adequação deve traduzir-se numa apropriada reorganização das formações superiores tendo em vista a concretização dos objectivos do Processo de Bolonha, não podendo, de modo algum, ser encarada como uma mera alteração formal.
+
+Questão central no Processo de Bolonha é o da mudança do paradigma de ensino de um modelo passivo, baseado na aquisição de conhecimentos, para um modelo baseado no desenvolvimento de competências, onde se incluem quer as de natureza genérica - instrumentais, interpessoais e sistémicas - quer as de natureza específica associadas à área de formação, e onde a componente experimental e de projecto desempenham um papel importante.
+
+Identificar as competências, desenvolver as metodologias adequadas à sua concretização, colocar o novo modelo de ensino em prática, são os desafios com que se confrontam as instituições de ensino superior.
+
+Conforme acordado na Conferência Ministerial Europeia sobre o Acordo de Bolonha, realizada em Bergen em 2005, a adopção generalizada deste modelo de ciclos de estudos não deverá ultrapassar o ano de 2010. Neste sentido, o diploma estabelece que a adequação deve ser realizada até ao final do ano lectivo de 2008-2009, para que no ano lectivo de 2009-2010 todos os ciclos de estudos estejam organizados de acordo com o novo modelo.
+
+Os estabelecimentos de ensino superior dispõem, assim, de um período suficiente para procederem à adequação das suas formações a este novo paradigma.
+
+Para aqueles que já desenvolveram todo o trabalho necessário para a adopção do novo modelo de formação, são fixados prazos que permitirão iniciar a sua transição para o novo modelo já no ano lectivo de 2006-2007 ou de 2007-2008.
+
+Em todo este processo prevê-se expressamente o envolvimento activo de estudantes e professores através da participação dos órgãos de gestão onde se encontram representados, designadamente os conselhos científicos e pedagógicos, e de outras formas de consulta.
+
+Outras medidas terão de ser tomadas na sequência desta reorganização do ensino superior, designadamente as que se referem à adequação das carreiras profissionais em diversos domínios, nomeadamente revendo as suas normas de ingresso e acesso. Essas medidas irão ser tomadas de seguida, tendo em vista o horizonte de saída dos primeiros diplomados de acordo com este novo modelo.
+
+No capítulo IV deste título são fixados os princípios gerais da transição curricular, onde se estabelece que, após a reorganização de cada curso, os estabelecimentos de ensino superior deverão assegurar a integração dos alunos num período tão breve quanto possível, para que a coexistência entre a nova organização de estudos e a anterior, se prevista nas regras de transição, não exceda um ano lectivo, podendo, excepcionalmente, prolongar-se por mais um. Pretende-se assim impedir o funcionamento em paralelo, durante um período longo, de duas organizações e de duas formas de encarar o ensino, com a irracionalidade e desperdício de recursos a isso associadas.
+
+O título V estabelece as regras para a criação de novos ciclos de estudos no período transitório que decorrerá até à entrada em funcionamento da agência de acreditação. Este processo não será objecto de alterações, salvo no que se refere à forma de instruir os pedidos, onde, à semelhança do que acontece no processo de reorganização dos cursos antigos, haverá que proceder à demonstração da satisfação dos novos requisitos fixados pelo diploma, e ao ensino particular e cooperativo, onde, na linha do que vinha sendo solicitado pelas instituições, se inicia desde já um processo de simplificação e de desburocratização no sentido do modelo que será desenvolvido no quadro do processo de acreditação, através da intervenção de comissões de especialistas por área de formação.
+
+O título VI estabelece as regras a adoptar para o registo de alterações, designadamente de alterações de planos de estudos, onde se termina com o sistema anacrónico que exigia a sua aprovação por portaria ministerial, quer no ensino politécnico público quer no ensino privado, passando a caber aos estabelecimentos de ensino superior, universitários ou politécnicos, públicos ou privados, a aprovação e colocação em funcionamento de todas as alterações de planos de estudos, após comunicação à Direcção-Geral do Ensino Superior para um simples registo, que só pode ser recusado em caso de ilegalidade manifesta.
+
+O anteprojecto de diploma foi objecto de consulta pública, tendo sido recebidos os contributos do Conselho de Reitores das Universidades Portuguesas, do Conselho Coordenador dos Institutos Superiores Politécnicos, da Associação Portuguesa do Ensino Superior Privado, de associações de estudantes, de estabelecimentos de ensino superior, de organizações sindicais e de associações profissionais, bem como contributos individuais.
+
+Assim:
+
+No desenvolvimento da Lei n.º 46/86, de 14 de Outubro (Lei de Bases do Sistema Educativo), alterada pelas Leis n.os 115/97, de 19 de Setembro, e 49/2005, de 30 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+Graus académicos e diplomas do ensino superior
+
+## Título I — Objecto, âmbito e conceitos
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei aprova o regime jurídico dos graus e diplomas do ensino superior, em desenvolvimento do disposto nos artigos 13.º a 15.º da Lei n.º 46/86, de 14 de outubro, na sua redação atual, que aprova a Lei de Bases do Sistema Educativo, bem como o disposto no n.º 4 do artigo 16.º da Lei n.º 37/2003, de 22 de agosto, na sua redação atual, que estabelece as bases do financiamento do ensino superior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 2.º — Âmbito
+
+1 - O disposto no presente decreto-lei aplica-se a todos os estabelecimentos de ensino superior.
+
+2 - A aplicação dos princípios constantes do presente decreto-lei aos estabelecimentos de ensino superior público militar e policial é feita através de diploma próprio.
+
+###### Artigo 3.º — Conceitos
+
+Para efeitos do disposto no presente decreto-lei, entende-se por:
+
+a) «Unidade curricular» a unidade de ensino com objectivos de formação próprios que é objecto de inscrição administrativa e de avaliação traduzida numa classificação final;
+
+b) «Plano de estudos de um curso» o conjunto organizado de unidades curriculares em que um estudante deve ser aprovado para:
+
+i) Obter um determinado grau académico ou o diploma de técnico superior profissional;
+
+ii) Concluir um curso não conferente de grau;
+
+iii) Reunir uma parte das condições para obtenção de um determinado grau académico;
+
+c) «Duração normal de um ciclo de estudos» o número de anos, semestres e ou trimestres lectivos em que o ciclo de estudos deve ser realizado pelo estudante, quando a tempo inteiro e em regime presencial;
+
+d) 'Crédito' a unidade de medida do trabalho do estudante sob todas as suas formas, designadamente sessões de ensino de natureza coletiva, sessões de orientação pessoal de tipo tutorial, estágios, projetos, trabalhos no terreno, estudo e avaliação, nos termos do Decreto-Lei n.º 42/2005, de 22 de fevereiro, alterado pelo Decreto-Lei n.º 107/2008, de 25 de junho;
+
+e) «Condições de acesso» as condições gerais que devem ser satisfeitas para requerer a admissão a um ciclo de estudos;
+
+f) 'Condições de ingresso' as condições específicas que devem ser satisfeitas para requerer a admissão a um ciclo de estudos concreto numa determinada instituição de ensino superior;
+
+g) 'Especialista de reconhecida experiência e competência profissional', aquele que seja detentor do título de especialista conferido nos termos do disposto no Decreto-Lei n.º 206/2009, de 31 de agosto;
+
+h) «Áreas de formação fundamentais do ciclo», aquelas que, de harmonia com a classificação das áreas de educação e formação aprovada pela Portaria n.º 256/2005, de 16 de março, representem, pelo menos, 25% do total dos créditos;
+
+i) «Número de docentes equivalentes em tempo inteiro», o número de docentes calculado atribuindo aos docentes contratados em tempo parcial o peso correspondente à percentagem dos respetivos contratos;
+
+j) «Corpo docente total», o conjunto dos docentes que desenvolva a atividade docente, a qualquer título, no ciclo de estudos, em equivalente em tempo inteiro;
+
+k) 'Corpo docente de carreira':
+
+i) Nas instituições de ensino superior públicas, o conjunto de professores catedráticos, associados e auxiliares, no caso do ensino universitário, e o conjunto de professores coordenadores principais, coordenadores e adjuntos, no caso do ensino superior politécnico, contratados por tempo indeterminado ou sem termo, ainda que se encontrem no período experimental;
+
+ii) Nos estabelecimentos de ensino superior privados, o conjunto de docentes que integre as categorias de carreira estabelecidas pelo regime jurídico previsto no artigo 53.º da Lei n.º 62/2007, de 10 de setembro;
+
+l) 'Investigadores de carreira':
+
+i) Nas instituições de ensino superior públicas, o conjunto de investigadores coordenadores, principais e auxiliares contratados por tempo indeterminado ou sem termo, ainda que se encontrem no período experimental;
+
+ii) Nos estabelecimentos de ensino superior privados, o conjunto de investigadores que integre as categorias de carreira estabelecidas pelo regime jurídico previsto no artigo 53.º da Lei n.º 62/2007, de 10 de setembro;
+
+m) «Regime de tempo integral», o regime de exercício da docência em que se encontram os que fazem do ensino e investigação a sua atividade profissional exclusiva ou predominante, não podendo ser considerados como tal em mais de um estabelecimento de ensino superior;
+
+n) 'Horas de contacto' o tempo em horas utilizado em sessões presenciais de ensino de natureza coletiva, designadamente em salas de aula, laboratórios ou trabalhos de campo, e em sessões presenciais de orientação pessoal de tipo tutorial;
+
+o) 'Perfil profissional' a descrição do conjunto de atividades e saberes requeridos para o exercício de uma determinada atividade profissional;
+
+p) 'Referencial de competências' o conjunto de competências exigidas para a obtenção de uma qualificação;
+
+q) 'Investigação e Desenvolvimento', abreviadamente 'I&D', o conjunto de atividades de produção e difusão de conhecimento, conforme definido no Manual de Frascati da Organização para a Cooperação e Desenvolvimento Económico, incluindo atividades de investigação derivadas da curiosidade científica e atividades baseadas na prática e orientadas para o aperfeiçoamento profissional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+## Título II — Graus académicos e diplomas do ensino superior
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 4.º — Graus académicos e diplomas
+
+1 - As instituições de ensino superior conferem os graus académicos de licenciado, mestre e doutor.
+
+2 - No ensino politécnico é também conferido o diploma de técnico superior profissional.
+
+3 - As instituições de ensino superior podem ainda atribuir outros diplomas não conferentes de grau académico:
+
+a) Pela realização de parte de um curso de licenciatura não inferior a 120 créditos;
+
+b) Pela conclusão de um curso de mestrado não inferior a 60 créditos;
+
+c) Pela conclusão de um curso de doutoramento não inferior a 30 créditos;
+
+d) Pela realização de programas de pós-doutoramento;
+
+e) Pela realização de outros cursos não conferentes de grau académico integrados no seu projeto educativo.
+
+4 - Nos diplomas a que se referem as alíneas a), b) e c) do número anterior deve ser adotada uma denominação que não se confunda com a do grau académico.
+
+5 - Nos diplomas a que se referem as alíneas d) e e) do n.º 3 deve ser adotada uma denominação que não se confunda com a de graus académicos na mesma área.
+
+6 - Fica reservada às instituições de ensino superior a utilização dos termos 'pós-graduação', 'formação pós-graduada' e outros que sugiram estar em causa formação própria de ensino superior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 4.º-A — Ofertas formativas
+
+Sem prejuízo da sua autonomia científica e pedagógica, as instituições de ensino superior devem orientar-se, em matéria de oferta formativa, pelos seguintes princípios:
+
+a) Não duplicação da oferta já existente no mesmo âmbito regional;
+
+b) Diferenciação da oferta entre subsistemas, suprimindo progressivamente a oferta formativa que não se enquadre na vocação específica do seu subsistema;
+
+c) Especialização da oferta, concentrando a sua oferta formativa nas áreas em que tenham especial qualidade.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+### Capítulo II — Licenciatura
+
+###### Artigo 5.º — Grau de licenciado
+
+O grau de licenciado é conferido aos que demonstrem:
+
+a) Possuir conhecimentos e capacidade de compreensão numa área de formação a um nível que:
+
+i) Sustentando-se nos conhecimentos de nível secundário, os desenvolva e aprofunde;
+
+ii) Se apoie em materiais de ensino de nível avançado e lhes corresponda;
+
+iii) Em alguns dos domínios dessa área, se situe ao nível dos conhecimentos de ponta da mesma;
+
+b) Saber aplicar os conhecimentos e a capacidade de compreensão adquiridos, de forma a evidenciarem uma abordagem profissional ao trabalho desenvolvido na sua área vocacional;
+
+c) Capacidade de resolução de problemas no âmbito da sua área de formação e de construção e fundamentação da sua própria argumentação;
+
+d) Capacidade de recolher, seleccionar e interpretar a informação relevante, particularmente na sua área de formação, que os habilite a fundamentarem as soluções que preconizam e os juízos que emitem, incluindo na análise os aspectos sociais, científicos e éticos relevantes;
+
+e) Competências que lhes permitam comunicar informação, ideias, problemas e soluções, tanto a públicos constituídos por especialistas como por não especialistas;
+
+f) Competências de aprendizagem que lhes permitam uma aprendizagem ao longo da vida com elevado grau de autonomia.
+
+###### Artigo 6.º — Atribuição do grau de licenciado
+
+1 - As áreas de formação em que cada instituição de ensino superior confere o grau de licenciado são fixadas pelo seu órgão legal e estatutariamente competente.
+
+2 - O grau de licenciado numa determinada área de formação só pode ser conferido pelas instituições de ensino superior universitárias que, cumulativamente:
+
+a) Disponham de um corpo docente total que assegure a lecionação do ciclo de estudos que seja próprio, academicamente qualificado e especializado na área ou áreas de formação fundamentais do ciclo;
+
+b) Disponham de recursos humanos e materiais indispensáveis à garantia do nível e da qualidade da formação ministrada;
+
+c) Disponham de um coordenador do ciclo de estudos titular do grau de doutor na área de formação fundamental do ciclo, que se encontre integrado na carreira docente do ensino universitário da instituição em causa;
+
+d) Desenvolvam atividades de formação, investigação e desenvolvimento experimental de nível e qualidade reconhecidos, com publicações ou produção científica relevantes.
+
+3 - Para os efeitos do disposto na alínea a) do número anterior, considera-se que o corpo docente é:
+
+a) Próprio quando o corpo docente total é constituído por um mínimo de 60 % de docentes integrados na carreira docente respetiva;
+
+b) Academicamente qualificado quando o corpo docente total é constituído por um mínimo de 50% de docentes com o grau de doutor;
+
+c) Especializado quando um mínimo de 50 % do corpo docente total é constituído por docentes especializados na área ou áreas de formação fundamentais do ciclo de estudos, dos quais um mínimo de 60 % têm o grau de doutor.
+
+4 - (Revogado);
+
+5 - O grau de licenciado numa determinada área de formação só pode ser conferido pelas instituições de ensino superior politécnicas que, cumulativamente:
+
+a) Disponham de um corpo docente total que assegure a lecionação no ciclo de estudos que seja próprio, academicamente qualificado e especializado na área ou áreas de formação fundamentais do ciclo;
+
+b) Disponham de recursos humanos e materiais indispensáveis à garantia do nível e da qualidade da formação ministrada;
+
+c) Disponham de um coordenador do ciclo de estudos titular do grau de doutor ou especialista de reconhecida experiência e competência profissional na área de formação fundamental do ciclo, que se encontre integrado na carreira docente do ensino politécnico da instituição em causa;
+
+d) Desenvolvam atividades de formação e investigação baseada na prática e orientadas para o desenvolvimento profissional, de nível e qualidade reconhecidos.
+
+6 - Para os efeitos da alínea a) do número anterior, considera-se que o corpo docente é:
+
+a) Próprio quando o corpo docente total é constituído por um mínimo de 60 % de docentes integrados na carreira docente respetiva;
+
+b) Academicamente qualificado quando o corpo docente total é constituído por um mínimo de 50 % de docentes com o grau de doutor;
+
+c) Especializado quando um mínimo de 50% do corpo docente total é constituído por especialistas de reconhecida experiência e competência profissional na área ou áreas de formação fundamentais do ciclo de estudos ou por doutores especializados nessa área ou áreas.
+
+7 - Quando exista mais de uma área de formação fundamental num ciclo de estudos, os docentes especializados a que se referem a alínea c) do n.º 3 e a alínea c) do n.º 6 devem ter uma distribuição por áreas adequada ao peso de cada uma.
+
+8 - A verificação da satisfação dos requisitos referidos nos números anteriores é feita no âmbito do processo de acreditação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 7.º — Acesso e ingresso no ciclo de estudos conducente ao grau de licenciado
+
+O acesso e o ingresso no ciclo de estudos conducente ao grau de licenciado são regulados por diplomas próprios.
+
+###### Artigo 8.º — Ciclo de estudos conducente ao grau de licenciado no ensino politécnico
+
+1 - No ensino politécnico, o ciclo de estudos conducente ao grau de licenciado tem 180 créditos e uma duração normal de seis semestres curriculares de trabalho dos alunos.
+
+2 - Exceptuam-se do disposto no número anterior os casos em que seja indispensável, para o acesso ao exercício de determinada actividade profissional, uma formação de até 240 créditos, com uma duração normal de até sete ou oito semestres curriculares de trabalho, em consequência de normas jurídicas expressas, nacionais ou da União Europeia, ou de uma prática consolidada em instituições de referência de ensino superior do espaço europeu.
+
+3 - No ensino politécnico, o ciclo de estudos conducente ao grau de licenciado deve valorizar especialmente a formação que visa o exercício de uma actividade de carácter profissional, assegurando aos estudantes uma componente de aplicação dos conhecimentos e saberes adquiridos às actividades concretas do respectivo perfil profissional.
+
+###### Artigo 9.º — Ciclo de estudos conducente ao grau de licenciado no ensino universitário
+
+1 - No ensino universitário, o ciclo de estudos conducente ao grau de licenciado tem 180 a 240 créditos e uma duração normal compreendida entre seis e oito semestres curriculares de trabalho dos alunos.
+
+2 - Na fixação do número de créditos deste ciclo de estudos para as diferentes áreas de formação, os estabelecimentos de ensino universitário devem adoptar valores similares aos de instituições de referência de ensino universitário do espaço europeu nas mesmas áreas, tendo em vista assegurar aos estudantes portugueses condições de mobilidade e de formação e de integração profissional semelhantes, em duração e conteúdo, às dos restantes Estados que integram aquele espaço.
+
+###### Artigo 10.º — Estrutura do ciclo de estudos conducente ao grau de licenciado
+
+O ciclo de estudos conducente ao grau de licenciado é integrado por um conjunto organizado de unidades curriculares denominado curso de licenciatura.
+
+###### Artigo 11.º — Concessão do grau de licenciado
+
+O grau de licenciado é conferido aos que, através da aprovação em todas as unidades curriculares que integram o plano de estudos do curso de licenciatura, tenham obtido o número de créditos fixado.
+
+###### Artigo 12.º — Classificação final do grau de licenciado
+
+1 - Ao grau de licenciado é atribuída uma classificação final, expressa no intervalo 10-20 da escala numérica inteira de 0 a 20, bem como no seu equivalente na escala europeia de comparabilidade de classificações, nos termos fixados pelos artigos 16.º a 22.º do Decreto-Lei n.º 42/2005, de 22 de fevereiro, alterado pelo Decreto-Lei n.º 107/2008, de 25 de junho.
+
+2 - A classificação final é a média aritmética ponderada das classificações obtidas nas unidades curriculares que integram o plano de estudos do curso de licenciatura.
+
+3 - Os coeficientes de ponderação são fixados pelas normas regulamentares a que se refere o artigo 14.º
+
+4 - A classificação final é atribuída pelo órgão legal e estatutariamente competente do estabelecimento de ensino superior.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 13.º — Titulação do grau de licenciado
+
+1 - O grau de licenciado é titulado por uma carta de curso emitida pelo órgão legal e estatutariamente competente do estabelecimento de ensino superior.
+
+2 - A emissão da carta de curso, bem como das respectivas certidões, é acompanhada da emissão de um suplemento ao diploma elaborado nos termos e para os efeitos do Decreto-Lei n.º 42/2005, de 22 de Fevereiro.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26
+
+###### Artigo 14.º — Normas regulamentares da licenciatura
+
+O órgão legal e estatutariamente competente de cada estabelecimento de ensino superior aprova as normas relativas às seguintes matérias:
+
+a) Condições específicas de ingresso;
+
+b) Condições de funcionamento;
+
+c) Estrutura curricular, plano de estudos e créditos, nos termos das normas técnicas a que se refere o artigo 12.º do Decreto-Lei n.º 42/2005, de 22 de fevereiro, alterado pelo Decreto-Lei n.º 107/2008, de 25 de junho;
+
+d) Processo de creditação;
+
+e) Regime de avaliação de conhecimentos;
+
+f) Regime de precedências;
+
+g) Regime de prescrição do direito à inscrição, tendo em consideração, no ensino público, o disposto sobre esta matéria na Lei n.º 37/2003, de 22 de agosto, na sua redação atual.
+
+h) Coeficientes de ponderação e procedimentos para o cálculo da classificação final;
+
+i) Elementos que constam obrigatoriamente dos diplomas e cartas de curso;
+
+j) Prazo de emissão do diploma, da carta de curso e do suplemento ao diploma;
+
+k) Processo de acompanhamento pelos órgãos pedagógico e científico.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26
+
+### Capítulo III — Mestrado
+
+###### Artigo 15.º — Grau de mestre
+
+1 - O grau de mestre é conferido aos que demonstrem:
+
+a) Possuir conhecimentos e capacidade de compreensão a um nível que:
+
+i) Sustentando-se nos conhecimentos obtidos ao nível do 1.º ciclo, os desenvolva e aprofunde;
+
+ii) Permitam e constituam a base de desenvolvimentos e ou aplicações originais, em muitos casos em contexto de investigação;
+
+b) Saber aplicar os seus conhecimentos e a sua capacidade de compreensão e de resolução de problemas em situações novas e não familiares, em contextos alargados e multidisciplinares, ainda que relacionados com a sua área de estudo;
+
+c) Capacidade para integrar conhecimentos, lidar com questões complexas, desenvolver soluções ou emitir juízos em situações de informação limitada ou incompleta, incluindo reflexões sobre as implicações e responsabilidades éticas e sociais que resultem dessas soluções e desses juízos ou os condicionem;
+
+d) Ser capazes de comunicar as suas conclusões, e os conhecimentos e raciocínios a elas subjacentes, quer a especialistas, quer a não especialistas, de uma forma clara e sem ambiguidades;
+
+e) Competências que lhes permitam uma aprendizagem ao longo da vida, de um modo fundamentalmente auto-orientado ou autónomo.
+
+2 - O grau de mestre é conferido numa especialidade, podendo, quando necessário, as especialidades ser desdobradas em áreas de especialização.
+
+###### Artigo 16.º — Atribuição do grau de mestre
+
+1 - As especialidades em que cada estabelecimento de ensino superior confere o grau de mestre são fixadas pelo seu órgão legal e estatutariamente competente.
+
+2 - O grau de mestre numa determinada especialidade só pode ser conferido pelos estabelecimentos de ensino superior universitários que, na área ou áreas de formação fundamentais do ciclo de estudos, cumulativamente:
+
+a) Disponham de um corpo docente total que assegure a lecionação do ciclo de estudos que seja próprio, academicamente qualificado e especializado nessa área ou áreas;
+
+b) Disponham dos recursos humanos e materiais indispensáveis à garantia do nível e da qualidade da formação ministrada;
+
+c) Desenvolvam atividades de formação e de investigação e desenvolvimento experimental de nível e qualidade reconhecidos, com publicações ou produção científica relevantes;
+
+d) Disponham de um coordenador do ciclo de estudos titular do grau de doutor na área de formação fundamental do ciclo, que se encontre integrado na carreira docente do ensino universitário ou na carreira de investigação da instituição em causa.
+
+3 - Para os efeitos da alínea a) do número anterior, considera-se que o corpo docente é:
+
+a) Próprio quando o corpo docente total é constituído por um mínimo de 75 % de docentes integrados na carreira docente ou de investigação respetiva;
+
+b) Academicamente qualificado quando o corpo docente total é constituído por um mínimo de 60% de docentes com o grau de doutor;
+
+c) Especializado quando um mínimo de 50 % do corpo docente total é constituído por docentes especializados na área ou áreas de formação fundamentais do ciclo de estudos, dos quais um mínimo de 80 % têm o grau de doutor.
+
+4 - (Revogado).
+
+5 - O grau de mestre numa determinada especialidade só pode ser conferido pelos estabelecimentos de ensino superior politécnicos que, na área ou áreas de formação fundamentais do ciclo de estudos, cumulativamente:
+
+a) Disponham de um corpo docente total que assegure a lecionação no ciclo de estudos que seja próprio, academicamente qualificado e especializado na área ou áreas de formação fundamentais do ciclo;
+
+b) Disponham dos recursos humanos e materiais indispensáveis à garantia do nível e da qualidade da formação ministrada;
+
+c) Desenvolvam atividades de formação e de investigação baseada na prática e orientadas para o desenvolvimento profissional, de nível e qualidade reconhecidos;
+
+d) Disponham de um coordenador do ciclo de estudos titular do grau de doutor ou especialista de reconhecida experiência e competência profissional na área de formação fundamental do ciclo, que se encontre integrado na carreira docente de ensino politécnico da instituição em causa.
+
+6 - Para os efeitos da alínea a) do número anterior, considera-se que o corpo docente é:
+
+a) Próprio quando o corpo docente total é constituído por um mínimo de 75 % de docentes integrados na carreira docente respetiva;
+
+b) Academicamente qualificado quando o corpo docente total é constituído por um mínimo de 60 % de docentes com o grau de doutor;
+
+c) Especializado quando um mínimo de 50 % do corpo docente total é constituído por especialistas de reconhecida experiência e competência profissional na área ou áreas de formação fundamentais do ciclo de estudos ou por doutores especializados nessa área ou áreas.
+
+7 - (Revogado).
+
+8 - Quando exista mais de uma área de formação fundamental num ciclo de estudos, os docentes especializados a que se referem a alínea c) do n.º 3 e a alínea c) do n.º 6 devem ter uma distribuição por áreas adequada ao peso de cada uma.
+
+9 - A verificação da satisfação dos requisitos referidos nos números anteriores é feita no âmbito do processo de acreditação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 17.º — Acesso e ingresso no ciclo de estudos conducente ao grau de mestre
+
+1 - Podem candidatar-se ao acesso ao ciclo de estudos conducente ao grau de mestre:
+
+a) Titulares do grau de licenciado ou equivalente legal;
+
+b) Titulares de um grau académico superior estrangeiro conferido na sequência de um 1.º ciclo de estudos organizado de acordo com os princípios do Processo de Bolonha por um Estado aderente a este Processo;
+
+c) Titulares de um grau académico superior estrangeiro que seja reconhecido como satisfazendo os objectivos do grau de licenciado pelo órgão científico estatutariamente competente do estabelecimento de ensino superior onde pretendem ser admitidos;
+
+d) Detentores de um currículo escolar, científico ou profissional, que seja reconhecido como atestando capacidade para realização deste ciclo de estudos pelo órgão científico estatutariamente competente do estabelecimento de ensino superior onde pretendem ser admitidos.
+
+2 - As normas regulamentares a que se refere o artigo 26.º fixam as regras específicas para o ingresso neste ciclo de estudos.
+
+3 - O reconhecimento a que se referem as alíneas b) a d) do n.º 1 tem como efeito apenas o acesso ao ciclo de estudos conducente ao grau de mestre e não confere ao seu titular a equivalência ao grau de licenciado ou o reconhecimento desse grau.
+
+###### Artigo 18.º — Ciclo de estudos conducente ao grau de mestre
+
+1 - O ciclo de estudos conducente ao grau de mestre tem 90 a 120 créditos e uma duração normal compreendida entre três e quatro semestres curriculares de trabalho dos alunos.
+
+2 - O ciclo de estudos conducente ao grau de mestre pode ter 60 créditos e uma duração normal de dois semestres curriculares de trabalho nas seguintes situações:
+
+a) Quando tenha forte orientação profissionalizante e demonstre cumulativamente:
+
+i) Ter sido criado com consulta e envolvimento das entidades empregadoras e associações empresariais e socioprofissionais da região onde se insere a instituição de ensino superior;
+
+ii) Garantir o envolvimento dos empregadores e o apoio destes à realização de trabalhos de projeto, originais e especialmente realizados para os fins visados pelo ciclo de estudos, ou estágios de natureza profissional a ser objeto de relatório final, através de acordos ou outras formas de parceria com empresas ou outros empregadores, associações empresariais e socioprofissionais ou outras organizações adequadas à especificidade da formação ministrada, bem como às exigências dos perfis profissionais visados;
+
+iii) Estar orientado para o desenvolvimento ou aprofundamento de competências técnicas relevantes para o mercado de trabalho; e
+
+iv) Ser vocacionado para a promoção da aprendizagem ao longo da vida, designadamente pela fixação de condições de ingresso adequadas ao recrutamento exclusivo de estudantes com experiência profissional mínima prévia de cinco anos, devidamente comprovada;
+
+b) Em consequência de uma prática estável e consolidada internacionalmente nessa especialidade.
+
+3 - O disposto no número anterior não prejudica a necessidade de observar todos os requisitos relacionados com os objetivos e condições de obtenção do grau de mestre.
+
+4 - No ensino universitário, o ciclo de estudos conducente ao grau de mestre deve assegurar que o estudante adquira uma especialização de natureza académica com recurso à actividade de investigação, de inovação ou de aprofundamento de competências profissionais.
+
+5 - No ensino politécnico, o ciclo de estudos conducente ao grau de mestre deve assegurar, predominantemente, a aquisição pelo estudante de uma especialização de natureza profissional e o recurso à atividade de investigação baseada na prática.
+
+6 - A obtenção do grau de mestre referido nos números anteriores, ou dos créditos correspondentes ao curso de especialização referido na alínea a) do n.º 1 do artigo 20.º do presente decreto-lei, pode ainda habilitar ao acesso a profissões sujeitas a requisitos especiais de reconhecimento, nos termos legais e institucionais previstos para o efeito.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+###### Artigo 19.º — Ciclo de estudos integrado conducente ao grau de mestre
+
+1 - No ensino universitário, o grau de mestre pode igualmente ser conferido após um ciclo de estudos integrado, com 300 a 360 créditos e uma duração normal compreendida entre 10 e 12 semestres curriculares de trabalho, nas seguintes áreas de formação:
+
+a) Arquitetura e Urbanismo;
+
+b) Ciências Farmacêuticas;
+
+c) Medicina;
+
+d) Medicina Dentária;
+
+e) Medicina Veterinária.
+
+2 - O acesso e ingresso no ciclo de estudos referido no número anterior rege-se pelas normas aplicáveis ao acesso e ingresso no ciclo de estudos conducente ao grau de licenciado.
+
+3 - No ciclo de estudos referido no n.º 1, é conferido o grau de licenciado aos que tenham realizado os 180 créditos correspondentes aos primeiros seis semestres curriculares de trabalho.
+
+4 - O grau de licenciado referido no número anterior deve adoptar uma denominação que não se confunda com a do grau de mestre.
+
+5 - As normas regulamentares a que se refere o artigo 26.º devem prever a possibilidade de ingresso no ciclo de estudos referido no n.º 1 por licenciados em área adequada, bem como a creditação neste ciclo de estudos da formação obtida no curso de licenciatura.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+###### Artigo 20.º — Estrutura do ciclo de estudos conducente ao grau de mestre
+
+1 - O ciclo de estudos conducente ao grau de mestre integra:
+
+a) Um curso de especialização, constituído por um conjunto organizado de unidades curriculares, denominado curso de mestrado, a que corresponde um mínimo de 50% do total dos créditos do ciclo de estudos;
+
+b) Uma dissertação de natureza científica ou um trabalho de projeto, originais e especialmente realizados para este fim, ou um estágio de natureza profissional objeto de relatório final, consoante os objetivos específicos visados, nos termos que sejam fixados pelas respetivas normas regulamentares, a que corresponde um mínimo de 30 créditos.
+
+2 - Os valores mínimos a que se refere o número anterior:
+
+a) Não se aplicam ao ciclo de estudos integrado a que se refere o artigo anterior;
+
+b) Podem ser alterados por decisão da Agência de Avaliação e Acreditação do Ensino Superior no caso de acreditação de ciclos de estudos em associação com instituições de ensino superior estrangeiras.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 21.º — Orientação
+
+1 - A elaboração da dissertação ou do trabalho de projeto e a realização do estágio são orientadas por doutores, por especialistas de reconhecida experiência e competência profissional ou por especialistas considerados como tal pelo órgão científico estatutariamente competente do estabelecimento de ensino superior, nacional ou estrangeiro.
+
+2 - (Revogado).
+
+3 - Para efeitos do n.º 1 pode ser considerado especialista quem seja detentor de um grau académico e, cumulativamente:
+
+a) Exerça ou tenha exercido profissão na área do ciclo de estudos em causa, possuindo, no mínimo, 10 anos de experiência profissional nessa área, com exercício efetivo durante, pelo menos, 5 anos nos últimos 10 anos;
+
+b) Apresente um currículo profissional de qualidade e relevância comprovadas, devidamente confirmado e aceite pelo órgão cientificamente competente da instituição de ensino superior;
+
+c) Não seja titular de contrato por tempo indeterminado com uma instituição de ensino superior.
+
+4 - O reconhecimento a que se refere o número anterior não determina a atribuição do título de especialista, não se confunde com o título de especialista atribuído por associação pública profissional, bem como não releva para efeitos de acreditação de ciclos de estudo nem para cumprimento dos critérios previstos no artigo 49.º da Lei n.º 62/2007, de 10 de setembro.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 27/2021 - Diário da República n.º 74/2021, Série I de 2021-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2021-161518656), em vigor a partir de 2021-04-17
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+###### Artigo 22.º — Júri do mestrado
+
+1 - A dissertação, o trabalho de projecto ou o relatório de estágio são objecto de apreciação e discussão pública por um júri nomeado pelo órgão legal e estatutariamente competente do estabelecimento de ensino superior.
+
+2 - O júri é constituído por três a cinco membros, podendo um destes ser o orientador.
+
+3 - Nos ciclos de estudos em associação com instituições de ensino superior estrangeiras, sempre que existir mais do que um orientador, podem participar dois orientadores no júri, sendo, nessa situação, o júri constituído por cinco a sete membros.
+
+4 - Os membros do júri devem ser especialistas no domínio em que se insere a dissertação, o trabalho de projeto ou o relatório de estágio e são nomeados de entre nacionais ou estrangeiros titulares do grau de doutor, especialistas de reconhecida experiência e competência profissional ou especialistas considerados como tal pelo órgão científico estatutariamente competente nos termos do artigo anterior.
+
+5 - As deliberações do júri são tomadas por maioria dos membros que o constituem, através de votação nominal justificada, não sendo permitidas abstenções.
+
+6 - Das reuniões do júri são lavradas actas, das quais constam os votos de cada um dos seus membros e a respectiva fundamentação, que pode ser comum a todos ou a alguns membros do júri.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 27/2021 - Diário da República n.º 74/2021, Série I de 2021-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2021-161518656), em vigor a partir de 2021-04-17
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 23.º — Concessão do grau de mestre
+
+O grau de mestre é conferido aos que, através da aprovação em todas as unidades curriculares que integram o plano de estudos do curso de mestrado e da aprovação no acto público de defesa da dissertação, do trabalho de projecto ou do relatório de estágio, tenham obtido o número de créditos fixado.
+
+###### Artigo 24.º — Classificação final do grau de mestre
+
+1 - Ao grau académico de mestre é atribuído uma classificação final, expressa no intervalo 10-20 da escala numérica inteira de 0 a 20, bem como no seu equivalente na escala europeia de comparabilidade de classificações, nos termos fixados pelos artigos 16.º a 22.º do Decreto-Lei n.º 42/2005, de 22 de fevereiro, alterado pelo Decreto-Lei n.º 107/2008, de 25 de junho.
+
+2 - As normas regulamentares a que se refere o artigo 26.º fixam a forma de cálculo da classificação final.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 25.º — Titulação do grau de mestre
+
+1 - O grau de mestre é titulado por uma carta de curso do grau de mestre, emitida pelo órgão legal e estatutariamente competente do estabelecimento de ensino superior.
+
+2 - A emissão da carta de curso, bem como das respectivas certidões, é acompanhada da emissão de um suplemento ao diploma elaborado nos termos e para os efeitos do Decreto-Lei n.º 42/2005, de 22 de Fevereiro.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26
+
+###### Artigo 26.º — Normas regulamentares do mestrado
+
+O órgão legal e estatutariamente competente de cada estabelecimento de ensino superior aprova as normas relativas às seguintes matérias:
+
+a) Regras sobre a admissão no ciclo de estudos, em especial as condições de natureza académica e curricular, as normas de candidatura, os critérios de selecção e seriação, e o processo de fixação e divulgação das vagas e dos prazos de candidatura;
+
+b) Condições de funcionamento;
+
+c) Estrutura curricular, plano de estudos e créditos, nos termos das normas técnicas a que se refere o artigo 12.º do Decreto-Lei n.º 42/2005, de 22 de fevereiro, alterado pelo Decreto-Lei n.º 107/2008, de 25 de junho;
+
+d) Processo de creditação;
+
+e) Concretização da componente a que se refere a alínea b) do n.º 1 do artigo 20.º;
+
+f Regimes de precedências e de avaliação de conhecimentos no curso de mestrado;
+
+g) Regime de prescrição do direito à inscrição, tendo em consideração, no ensino público e quando aplicável, o disposto sobre esta matéria na Lei n.º 37/2003, de 22 de agosto, na sua redação atual;
+
+h) Processo de nomeação do orientador ou dos orientadores, condições em que é admitida a co-orientação e regras a observar na orientação;
+
+i) Regras sobre a apresentação e entrega da dissertação, do trabalho de projeto ou do relatório de estágio, e sua apreciação, sem prejuízo do disposto no artigo 46.º-D;
+
+j) Prazos máximos para a realização do acto público de defesa da dissertação, do trabalho de projecto ou do relatório de estágio;
+
+k) Regras sobre a composição, nomeação e funcionamento do júri;
+
+l) Regras sobre as provas de defesa da dissertação, do trabalho de projecto ou do relatório de estágio;
+
+m) Processo de atribuição da classificação final;
+
+n) Elementos que constam obrigatoriamente dos diplomas e cartas de curso;
+
+o) Prazo de emissão do diploma, da carta de curso e do suplemento ao diploma;
+
+p) Processo de acompanhamento pelos órgãos pedagógico e científico.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26
+
+###### Artigo 27.º — Propinas do ciclo de estudos conducente ao grau de mestre no ensino público
+
+1 - O valor das propinas devidas pela inscrição no ciclo de estudos integrado previsto no artigo 19.º é fixado nos termos previstos para o ciclo de estudos conducente ao grau de licenciado no n.º 2 do artigo 16.º da Lei n.º 37/2003, de 22 de agosto, na sua redação atual.
+
+2 - O valor das propinas devidas pela inscrição no ciclo de estudos conducente ao grau de mestre no ensino público, quando a sua conjugação com um ciclo de estudos conducente ao grau de licenciado seja indispensável para o acesso ao exercício de uma atividade profissional, é igualmente fixado nos termos previstos para o ciclo de estudos conducente ao grau de licenciado no n.º 2 do artigo 16.º da Lei n.º 37/2003, de 22 de agosto, na sua redação atual.
+
+3 - O valor das propinas devidas pela inscrição no ciclo de estudos conducente ao grau de mestre no ensino público nos restantes casos é fixado nos termos estabelecidos pela Lei n.º 62/2007, de 10 de setembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+### Capítulo IV — Doutoramento
+
+###### Artigo 28.º — Grau de doutor
+
+1 - O grau de doutor é conferido aos que demonstrem:
+
+a) Capacidade de compreensão sistemática num domínio científico de estudo;
+
+b) Competências, aptidões e métodos de investigação associados a um domínio científico;
+
+c) Capacidade para conceber, projectar, adaptar e realizar uma investigação significativa respeitando as exigências impostas pelos padrões de qualidade e integridade académicas;
+
+d) Ter realizado um conjunto significativo de trabalhos de investigação original que tenha contribuído para o alargamento das fronteiras do conhecimento, parte do qual mereça a divulgação nacional ou internacional em publicações com comité de selecção;
+
+e) Ser capazes de analisar criticamente, avaliar e sintetizar ideias novas e complexas;
+
+f) Ser capazes de comunicar com os seus pares, a restante comunidade académica e a sociedade em geral sobre a área em que são especializados;
+
+g) Ser capazes de, numa sociedade baseada no conhecimento, promover, em contexto académico e ou profissional, o progresso tecnológico, social ou cultural.
+
+2 - O grau de doutor é conferido num ramo do conhecimento ou numa sua especialidade.
+
+###### Artigo 29.º — Atribuição do grau de doutor
+
+1 - Os ramos do conhecimento e especialidades em que cada instituição de ensino superior confere o grau de doutor são fixados pelo seu órgão legal e estatutariamente competente.
+
+2 - O grau de doutor num determinado ramo do conhecimento ou sua especialidade só pode ser conferido pelas instituições de ensino superior que, cumulativamente:
+
+a) Disponham de um corpo docente total que assegure a lecionação do ciclo de estudos que seja próprio, academicamente qualificado e especializado nesse ramo de conhecimento ou sua especialidade;
+
+b) Disponham dos recursos humanos e materiais indispensáveis a garantir o nível e a qualidade da formação ministrada;
+
+c) Disponham, nessa área, dos recursos humanos e organizativos necessários à realização de atividades de I&D, nomeadamente através da demonstração da integração mínima de 75 % dos docentes do doutoramento em unidades de investigação com a classificação mínima de Muito Bom nesse ramo do conhecimento ou sua especialidade, obtida na sequência de avaliação desenvolvida pela Fundação para a Ciência e a Tecnologia, I. P.;
+
+d) Demonstrem possuir uma experiência acumulada em I&D, concretizada em produção científica e académica relevante nesse ramo do conhecimento ou sua especialidade;
+
+e) Disponham de um coordenador do ciclo de estudos titular do grau de doutor que seja especializado no ramo de conhecimento do ciclo ou sua especialidade e que se encontre integrado na carreira docente ou na carreira de investigação da instituição em causa.
+
+3 - Para os efeitos da alínea a) do número anterior, considera-se que o corpo docente é:
+
+a) Próprio quando o corpo docente total é constituído por um mínimo de 75 % de docentes ou investigadores integrados na carreira docente ou na carreira de investigação científica respetiva;
+
+b) Academicamente qualificado quando o corpo docente total é integralmente constituído por titulares do grau de doutor, sem prejuízo de, excecionalmente, poder integrar docentes não doutorados detentores de um currículo académico, científico ou profissional reconhecido, no âmbito do processo de acreditação, como atestando capacidade para ministrar este ciclo de estudos;
+
+c) Especializado quando o corpo docente total é constituído por um mínimo de 75% de titulares do grau de doutor nesse ramo de conhecimento ou sua especialidade.
+
+4 - (Revogado).
+
+5 - Para efeitos do disposto na alínea c) do n.º 2, apenas são contabilizados os docentes integrados em unidades de I&D que sejam:
+
+a) Unidades orgânicas da instituição de ensino superior em causa constituídas ao abrigo dos artigos 13.º e 14.º da Lei n.º 62/2007, de 10 de setembro;
+
+b) Entidades subsidiárias de direito privado constituídas ou participadas pela instituição de ensino superior em causa ao abrigo do artigo 15.º da Lei n.º 62/2007, de 10 de setembro;
+
+c) Unidades integradas ou acolhidas numa entidade subsidiária de direito privado que cumpra as condições da alínea anterior;
+
+d) Polos ou delegações de uma entidade subsidiária de direito privado que cumpra as condições da alínea b).
+
+6 - A verificação da satisfação dos requisitos referidos nos números anteriores é feita no âmbito do processo de acreditação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 30.º — Acesso e ingresso no ciclo de estudos conducente ao grau de doutor
+
+1 - Podem candidatar-se ao acesso ao ciclo de estudos conducente ao grau de doutor:
+
+a) Os titulares do grau de mestre ou equivalente legal;
+
+b) Os titulares de grau de licenciado, detentores de um currículo escolar ou científico especialmente relevante que seja reconhecido como atestando capacidade para a realização deste ciclo de estudos pelo órgão científico legal e estatutariamente competente da instituição de ensino superior onde pretendem ser admitidos;
+
+c) Os detentores de um currículo escolar, científico ou profissional que seja reconhecido como atestando capacidade para a realização deste ciclo de estudos pelo órgão científico legal e estatutariamente competente da instituição de ensino superior onde pretendem ser admitidos.
+
+2 - As normas regulamentares a que se refere o artigo 38.º fixam as condições específicas para o ingresso neste ciclo de estudos.
+
+3 - O reconhecimento a que se referem as alíneas b) e c) do n.º 1 tem como efeito apenas o acesso ao ciclo de estudos conducente ao grau de doutor e não confere ao seu titular a equivalência ao grau de licenciado ou de mestre, ou ao seu reconhecimento
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 31.º — Ciclo de estudos conducente ao grau de doutor
+
+1 - O ciclo de estudos conducente ao grau de doutor integra a elaboração de uma tese original especialmente elaborada para este fim, adequada à natureza do ramo de conhecimento ou da especialidade.
+
+2 - Em alternativa, em condições de exigência equivalentes, e tendo igualmente em consideração a natureza do ramo de conhecimento ou da especialidade, o ciclo de estudos conducente ao grau de doutor pode, nas condições previstas no regulamento de cada instituição de ensino superior, ser integrado:
+
+a) Pela compilação, devidamente enquadrada, de um conjunto coerente e relevante de trabalhos de investigação, já objecto de publicação em revistas com comités de selecção de reconhecido mérito internacional; ou
+
+b) No domínio das artes, por uma obra ou conjunto de obras ou realizações com carácter inovador, acompanhada de fundamentação escrita que explicite o processo de concepção e elaboração, a capacidade de investigação, e o seu enquadramento na evolução do conhecimento no domínio em que se insere.
+
+3 - O ciclo de estudos conducente ao grau de doutor deve visar essencialmente a aprendizagem orientada da prática de I&D de alto nível, podendo, eventualmente, integrar, quando as respetivas normas regulamentares justificadamente o prevejam, a realização de unidades curriculares dirigidas à formação para a investigação e/ou o desenvolvimento de competências complementares, cujo conjunto se denomina curso de doutoramento, fixando-se, nesse caso, as condições em que deve ser dispensada a frequência desse curso.
+
+4 - As atividades de investigação integradas no ciclo de estudos conducentes ao grau de doutor podem ser realizadas em qualquer ambiente de produção intensiva de conhecimento, nacional ou internacional, incluindo instituições de ensino superior, Laboratórios Associados, Laboratórios do Estado e outras instituições públicas de investigação, hospitais e unidades de cuidados de saúde, outras entidades integradas na Administração Pública onde sejam desenvolvidas atividades de I&D, instituições privadas sem fins lucrativos que tenham como objeto principal atividades de I&D, empresas cuja atividade haja sido reconhecida como de interesse científico ou tecnológico ou às quais tenha sido atribuído o título de Laboratório Colaborativo, ou consórcios entre qualquer uma destas entidades.
+
+5 - A proteção da propriedade intelectual resultante das atividades de I&D desenvolvidas no âmbito do ciclo de estudos conducente ao grau de doutor é feita nos termos de regulamento próprio da instituição em que decorram as atividades, quando exista, e do Código do Direito de Autor e dos Direitos Conexos.
+
+6 - Quando o ciclo de estudos conducente ao grau de doutor seja ministrado em associação com outras instituições de ensino superior, nacionais ou estrangeiras, ou quando as atividades decorram em diversas entidades com regulamentos próprios de proteção da propriedade intelectual, a titularidade dos direitos de propriedade intelectual resultante das atividades de I&D é regulada por acordo entre as entidades em causa e o estudante.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2009-489773), em vigor a partir de 2009-09-19
+
+###### Artigo 32.º — Registo das teses de doutoramento em curso
+
+As teses de doutoramento em curso são objecto de registo nos termos do Decreto-Lei n.º 52/2002, de 2 de Março.
+
+###### Artigo 33.º — Regime especial de apresentação da tese
+
+1 - Quem reunir as condições para acesso ao ciclo de estudos conducente ao grau de doutor pode requerer a apresentação de uma tese ou dos trabalhos previstos nas alíneas a) e b) do n.º 2 do artigo 31.º ao ato público de defesa sem inscrição no ciclo de estudos a que se refere o artigo 31.º e sem a orientação a que se refere o artigo 38.º-A.
+
+2 - Compete ao órgão científico legal e estatutariamente competente da instituição de ensino superior decidir quanto ao pedido, após apreciação do currículo do requerente e da adequação da tese ou dos trabalhos aos objetivos visados pelo grau de doutor, nos termos do artigo 28.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 230/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2009-489773), em vigor a partir de 2009-09-19
+
+###### Artigo 34.º — Júri do doutoramento
+
+1 - A tese ou os trabalhos previstos nas alíneas a) e b) do n.º 2 do artigo 31.º são objeto de apreciação e discussão pública por um júri nomeado pelo órgão legal e estatutariamente competente da instituição de ensino superior.
+
+2 - O júri de doutoramento é constituído:
+
+a) Pelo dirigente máximo da instituição de ensino superior, que preside, ou por quem ele nomeie para esse fim;
+
+b) Por um mínimo de quatro vogais doutorados, podendo um destes ser o orientador;
+
+3 - Nos ciclos de estudos em associação com instituições de ensino superior estrangeiras, sempre que existir mais do que um orientador, podem participar dois orientadores no júri, sendo nessa situação o júri constituído por um mínimo de seis vogais doutorados.
+
+4 - (Revogado).
+
+5 - Pelo menos dois dos membros do júri referidos na alínea b) do n.º 2 são designados de entre professores e investigadores doutorados de outros estabelecimentos de ensino superior ou de investigação, nacionais ou estrangeiros.
+
+6 - Pode, ainda, fazer parte do júri individualidade de reconhecida competência na área científica em que se inserem a tese ou os trabalhos previstos nas alíneas a) e b) do n.º 2 do artigo 31.º
+
+7 - O júri deve integrar, pelo menos, três professores ou investigadores do domínio científico em que se inserem a tese ou os trabalhos previstos nas alíneas a) e b) do n.º 2 do artigo 31.º
+
+8 - As deliberações do júri são tomadas por maioria dos membros que o constituem, através de votação nominal justificada, não sendo permitidas abstenções.
+
+9 - O presidente do júri tem voto de qualidade e só exerce o seu direito de voto:
+
+a) Quando seja professor ou investigador na área ou áreas científicas do ciclo de estudos; ou
+
+b) Em caso de empate.
+
+10 - Das reuniões do júri são lavradas actas, das quais constam os votos de cada um dos seus membros e a respectiva fundamentação, que pode ser comum a todos ou a alguns membros do júri.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2009-489773), em vigor a partir de 2009-09-19
+
+###### Artigo 35.º — Concessão do grau de doutor
+
+O grau de doutor é conferido aos que tenham obtido aprovação no acto público de defesa da tese ou dos trabalhos previstos nas alíneas a) e b) do n.º 2 do artigo 31.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2009-489773), em vigor a partir de 2009-09-19
+
+###### Artigo 36.º — Qualificação final do grau de doutor
+
+1 - Ao grau académico de doutor é atribuída uma qualificação final nos termos fixados pelas normas regulamentares aprovadas pela universidade ou instituto universitário que o atribui.
+
+2 - A qualificação é atribuída pelo júri a que se refere o artigo 34.º, consideradas as classificações obtidas nas unidades curriculares do curso de doutoramento, quando exista, e o mérito da tese ou dos trabalhos previstos nas alíneas a) e b) do n.º 2 do artigo 31.º apreciado no ato público.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 37.º — Titulação do grau de doutor
+
+1 - O grau de doutor é titulado por uma carta doutoral emitida pelo órgão legal e estatutariamente competente da universidade.
+
+2 - A emissão da carta doutoral, bem como das respectivas certidões, é acompanhada da emissão de um suplemento ao diploma elaborado nos termos e para os efeitos do Decreto-Lei n.º 42/2005, de 22 de Fevereiro.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26
+
+###### Artigo 38.º — Normas regulamentares do doutoramento
+
+O órgão legal e estatutariamente competente de cada instituição de ensino superior aprova as normas relativas às seguintes matérias:
+
+a) Regras sobre a admissão no ciclo de estudos, em especial as condições de natureza académica e curricular, as normas de candidatura e os critérios de selecção;
+
+b) Eventual existência, devidamente justificada, de curso de doutoramento e, quando exista, a estrutura curricular e plano de estudos e as condições em que deve ser dispensada a respectiva frequência;
+
+c) Processo de nomeação do orientador ou dos orientadores, condições em que é admitida a co-orientação e regras a observar na orientação;
+
+d) Processo de registo do tema do doutoramento;
+
+e) Condições de preparação da tese ou da apresentação dos trabalhos previstos nas alíneas a) e b) do n.º 2 do artigo 31.º;
+
+f) Regras sobre a apresentação e entrega da tese ou dos trabalhos previstos nas alíneas a) e b) do n.º 2 do artigo 31.º e sua apreciação, sem prejuízo do disposto no artigo 46.º-D;
+
+g) Regras sobre os prazos máximos para a realização do acto público de defesa da tese ou dos trabalhos previstos nas alíneas a) e b) do n.º 2 do artigo 31.º;
+
+h) Regras sobre a composição, nomeação e funcionamento do júri;
+
+i) Regras sobre as provas de defesa da tese ou dos trabalhos previstos nas alíneas a) e b) do n.º 2 do artigo 31.º;
+
+j) Processo de atribuição da qualificação final;
+
+l) Elementos que constam obrigatoriamente dos diplomas e cartas doutorais;
+
+m) Prazo de emissão do diploma, da carta doutoral e do suplemento ao diploma;
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 81/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/81-2009-483125), em vigor a partir de 2009-09-19
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2009-489773), em vigor a partir de 2009-09-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26
+
+###### Artigo 38.º-A — Orientação
+
+Sem prejuízo da possibilidade de dispensa prevista no artigo 33.º, a elaboração da tese de doutoramento ou dos trabalhos previstos nas alíneas a) e b) do n.º 2 do artigo 31.º é orientada por doutores, nos termos previstos nas normas regulamentares do doutoramento.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+### Capítulo V — Diploma de técnico superior profissional
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+#### Secção I — Princípios gerais
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 39.º — Diplomas que podem ser conferidos
+
+1 - Os estabelecimentos de ensino superior podem atribuir diplomas, designadamente:
+
+a) Pela realização de parte de um curso de licenciatura não inferior a 120 créditos;
+
+b) Pela conclusão de um curso de mestrado não inferior a 60 créditos;
+
+c) Pela conclusão de um curso de doutoramento não inferior a 30 créditos;
+
+d) Pela realização de outros cursos não conferentes de grau académico.
+
+2 - Nos diplomas a que se refere o número anterior deve ser adoptada uma denominação que não se confunda com a da obtenção final do grau académico correspondente, quando exista.
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 40.º — Titulação dos diplomas
+
+1 - Os diplomas a que se refere o artigo anterior são titulados por documento emitido pelo órgão legal e estatutariamente competente do estabelecimento de ensino superior.
+
+2 - A emissão do documento a que se refere o número anterior é acompanhada da emissão do suplemento ao diploma nos termos do Decreto-Lei n.º 42/2005, de 22 de Fevereiro.
+
+3 - Os regulamentos dos cursos a que se refere o n.º 1 do artigo anterior fixam os prazos de emissão dos diplomas e dos respectivos suplementos ao diploma.
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-A — Diploma de técnico superior profissional
+
+O diploma de técnico superior profissional é conferido aos que demonstrem:
+
+a) Possuir conhecimentos e capacidade de compreensão numa área de formação, e a um nível que:
+
+i) Sustentando-se nos conhecimentos de nível secundário, os desenvolva e aprofunde;
+
+ii) Se apoie em materiais de ensino de nível avançado e lhes corresponda;
+
+iii) Constitua a base para uma área de atividade profissional ou vocacional, para o desenvolvimento pessoal e para o prosseguimento de estudos com vista à conclusão de um ciclo de estudos conducente à atribuição do grau de licenciado;
+
+b) Saber aplicar, em contextos profissionais, os conhecimentos e a capacidade de compreensão adquiridos;
+
+c) Ter capacidade de identificar e utilizar informação para dar resposta a problemas concretos e abstratos bem definidos;
+
+d) Possuir competências que lhes permitam comunicar acerca da sua compreensão das questões, competências e atividades, com os seus pares, supervisores e clientes;
+
+e) Possuir competências de aprendizagem que lhes permitam prosseguir estudos com alguma autonomia.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-B — Atribuição do diploma de técnico superior profissional
+
+1 - As áreas de formação em que cada instituição de ensino superior confere o diploma de técnico superior profissional são definidas pelo seu órgão legal e estatutariamente competente, tendo em consideração as necessidades de formação profissional, designadamente na região em que se encontre inserida.
+
+2 - O diploma de técnico superior profissional numa determinada área de formação só pode ser conferido pelas instituições de ensino superior que disponham:
+
+a) De um projeto educativo, científico e cultural próprio, adequado aos objetivos fixados para o ciclo de estudos a ele conducente;
+
+b) De um corpo docente total que seja qualificado e especializado na área ou áreas de formação fundamentais do ciclo de estudos;
+
+c) Dos recursos humanos e materiais indispensáveis para garantir o nível e a qualidade da formação.
+
+3 - Para os efeitos da alínea b) do número anterior, considera-se que o corpo docente é:
+
+a) Qualificado quando o corpo docente total é constituído por um mínimo de 30 % de docentes com o grau de doutor, docentes integrados na carreira docente respetiva ou por especialistas de reconhecida experiência e competência profissional na área ou áreas de formação fundamentais do ciclo de estudos em causa;
+
+b) Especializado quando o corpo docente não integrado na alínea anterior é constituído por assistentes ou professores convidados a tempo parcial que desenvolvem a sua atividade profissional principal na área ou áreas de formação fundamentais do ciclo de estudos em causa.
+
+4 - A verificação da satisfação dos requisitos referidos nos números anteriores é feita no âmbito do processo de registo a que se referem os artigos 40.º-S e seguintes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-C — Articulação com o mercado de trabalho
+
+1 - A criação de cursos técnicos superiores profissionais, bem como a fixação dos seus planos de estudos, é precedida, obrigatoriamente, de consulta ou recolha de informação junto das entidades empregadoras e associações empresariais e socioprofissionais da região onde se insere a instituição de ensino superior.
+
+2 - Tendo em vista a concretização da formação em contexto de trabalho e a integração no mercado de emprego, as instituições de ensino superior celebram acordos ou outras formas de parceria com empresas ou outros empregadores, associações empresariais e socioprofissionais ou outras organizações que melhor se adequem à especificidade da formação ministrada, bem como às exigências dos perfis profissionais visados.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-D — Redes
+
+No quadro da ministração dos cursos técnicos superiores profissionais, as instituições de ensino superior devem promover a sua articulação em redes regionais:
+
+a) Entre si;
+
+b) Com as escolas e outras entidades que ministrem cursos de formação profissional de nível secundário ou equivalente;
+
+c) Com empresas e outros empregadores, associações empresariais e socioprofissionais ou outras organizações relacionadas com as áreas de formação asseguradas.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+#### Secção II — Acesso, ingresso e número máximo de estudantes
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-E — Acesso ao ciclo de estudos conducente ao diploma de técnico superior profissional
+
+1 - Podem candidatar-se ao acesso aos cursos técnicos superiores profissionais:
+
+a) Os titulares de um curso de ensino secundário ou de habilitação legalmente equivalente;
+
+b) Os que tenham sido aprovados nas provas especialmente adequadas destinadas a avaliar a capacidade para a frequência do ensino superior dos maiores de 23 anos, realizadas, para o curso em causa, ao abrigo do disposto no Decreto-Lei n.º 64/2006, de 21 de março, na sua redação atual;
+
+2 - Podem igualmente candidatar-se ao acesso aos cursos técnicos superiores profissionais os titulares de um diploma de especialização tecnológica, de um diploma de técnico superior profissional ou de um grau de ensino superior.
+
+3 - Os estudantes que concluam os cursos de formação profissional de nível secundário ou equivalente nas escolas e noutras entidades em rede com uma instituição que ministre ensino politécnico têm prioridade na ocupação de até 50 % das vagas que sejam fixadas nos cursos técnicos superiores profissionais por esta ministrados e para os quais reúnam as condições de ingresso.
+
+4 - Os estudantes com deficiência têm prioridade na ocupação de um mínimo de duas vagas, até 4 % das vagas que sejam fixadas nos cursos técnicos superiores profissionais para os quais reúnam as condições de ingresso.
+
+5 - A prioridade dos estudantes com deficiência prevalece sobre a prioridade dos estudantes referidos no n.º 3.
+
+6 - As regras para a avaliação funcional da deficiência são fixadas pelo órgão legal e estatutariamente competente da instituição de ensino superior, observando os princípios fixados para situações similares no âmbito do regime geral de acesso ao ensino superior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-F — Ingresso no ciclo de estudos conducente ao diploma de técnico superior profissional
+
+1 - O ingresso nos cursos técnicos superiores profissionais realiza-se através de um concurso organizado pela instituição de ensino superior.
+
+2 - As condições de ingresso em cada curso técnico superior profissional são fixadas pela instituição de ensino superior, em função da área de estudos em que aquele se integra.
+
+3 - As condições a que se refere o número anterior têm como referencial os conhecimentos e aptidões correspondentes ao nível do ensino secundário nas áreas relevantes para cada curso.
+
+4 - As condições de ingresso, a forma de proceder à verificação da sua satisfação e as regras a que estão sujeitos os concursos são fixadas em regulamento aprovado pelo órgão legal e estatutariamente competente da instituição de ensino superior, publicado, previamente, na 2.ª série do Diário da República.
+
+5 - Todos os documentos relacionados com a verificação da satisfação das condições de ingresso, incluindo eventuais provas escritas efetuadas pelo estudante, integram o seu processo individual.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-G — Número máximo de estudantes
+
+1 - No âmbito do processo de registo da criação a que se referem os artigos 40.º-S e seguintes são fixados, em relação a cada par instituição/ciclo de estudos, os seguintes valores:
+
+a) O número máximo de estudantes a admitir em cada ano letivo;
+
+b) O número máximo total de estudantes inscritos em simultâneo.
+
+2 - O número anual máximo de novas admissões, bem como o número máximo de estudantes que pode estar inscrito em cada ciclo de estudos em cada ano letivo:
+
+a) É fixado anualmente por cada instituição, tendo em consideração:
+
+i) A informação disponível sobre a empregabilidade, incluindo a recolhida nos termos do artigo 40.º-AA;
+
+ii) A informação disponível sobre a procura desta via para prosseguimento da formação profissional em ciclos de estudos conferentes de grau académico;
+
+iii) Os recursos de cada uma, designadamente quanto a pessoal docente, instalações, equipamentos e meios financeiros;
+
+b) Está sujeito aos limites fixados no ato do seu registo;
+
+c) Está subordinado, nas instituições de ensino superior públicas, às orientações gerais que sejam estabelecidas pelo membro do Governo responsável pela área do ensino superior, ouvidos os organismos representativos das instituições, tendo em consideração, designadamente, a racionalização da oferta educativa, a política nacional de formação de recursos humanos e os recursos disponíveis;
+
+d) É comunicado à Direção-Geral do Ensino Superior, acompanhado da respetiva fundamentação.
+
+3 - Em caso de ausência de fundamentação expressa e suficiente dos valores fixados, de infração das normas legais aplicáveis ou de não cumprimento das orientações gerais estabelecidas nos termos da alínea c) do número anterior, aqueles valores podem ser alterados por despacho fundamentado do membro do Governo responsável pela área do ensino superior, publicado na 2.ª série do Diário da República.
+
+4 - A Direção-Geral do Ensino Superior procede à divulgação dos valores fixados.
+
+5 - Não é permitida a transferência dos valores fixados nos termos dos números anteriores entre cursos ou instituições de ensino superior.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+#### Secção III — Propinas
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-H — Propinas do ciclo de estudos conducente ao diploma de técnico superior profissional
+
+Pela inscrição nos cursos técnicos superiores profissionais no ensino público é devida uma propina anual, a fixar pelo órgão legal e estatutariamente competente da instituição de ensino superior, de montante não superior ao valor máximo a que se refere o n.º 2 do artigo 16.º da Lei n.º 37/2003, de 22 de agosto, na sua redação atual.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+#### Secção IV — Ciclo de estudos
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-I — Ciclo de estudos conducente ao diploma de técnico superior profissional
+
+O ciclo de estudos conducente ao diploma de técnico superior profissional tem 120 créditos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-J — Estrutura do ciclo de estudos conducente ao diploma de técnico superior profissional
+
+Estrutura do ciclo de estudos conducente ao diploma de técnico superior profissional
+
+O ciclo de estudos conducente ao diploma de técnico superior profissional é integrado por um conjunto de unidades curriculares, denominado curso técnico superior profissional, organizadas nas componentes de:
+
+a) Formação geral e científica;
+
+b) Formação técnica;
+
+c) Formação em contexto de trabalho.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-K — Componente de formação geral e científica
+
+A componente de formação geral e científica visa desenvolver atitudes e comportamentos adequados a profissionais com elevado nível de qualificação profissional e adaptabilidade ao mundo do trabalho e da empresa, ampliar a formação cultural e aperfeiçoar, onde tal se revele indispensável, o conhecimento dos domínios de natureza científica que fundamentam as tecnologias próprias da respetiva área de formação.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-L — Componente de formação técnica
+
+1 - A componente de formação técnica integra domínios de natureza técnica orientados para a compreensão das atividades práticas e para a resolução de problemas do âmbito do exercício profissional, devendo concretizar-se, principalmente, na aplicação prática, laboratorial, oficinal e em projetos, e promover e estimular a componente de investigação baseada na prática.
+
+2 - A componente de formação técnica pode incluir módulos ministrados em ambiente de trabalho.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-M — Componente de formação em contexto de trabalho
+
+1 - A componente de formação em contexto de trabalho visa a aplicação dos conhecimentos e saberes adquiridos às atividades práticas do respetivo perfil profissional e contempla a execução de atividades sob orientação, utilizando as técnicas, os equipamentos e os materiais que se integram nos processos de produção de bens ou de prestação de serviços.
+
+2 - A componente de formação em contexto de trabalho tem uma duração não inferior a um semestre curricular, correspondente a 30 créditos.
+
+3 - A componente de formação em contexto de trabalho concretiza-se através de um estágio podendo ser repartida ao longo do curso.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-N — Organização do currículo
+
+Na organização do currículo dos cursos técnicos superiores profissionais devem ser satisfeitos os seguintes critérios:
+
+a) No conjunto dos créditos das componentes de formação geral e científica e de formação técnica, à primeira correspondem até 30 % e à segunda não menos de 70 %;
+
+b) Na componente de formação técnica, o conjunto das vertentes de aplicação prática, laboratorial, oficinal e de projeto deve corresponder a, pelo menos, 70 % das suas horas de contacto.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-O — Ministração do ensino
+
+1 - As formações referidas nas alíneas a) e b) do artigo 40.º-J devem ser ministradas no ambiente pedagógico adequado aos objetivos destes cursos.
+
+2 - O funcionamento dos cursos técnicos superiores profissionais realiza-se dentro do ciclo temporal dos anos letivos.
+
+3 - As instituições de ensino superior podem ministrar os cursos em mais do que uma localidade da região em que se integram.
+
+4 - A apreciação das condições de ministração do ensino faz-se separadamente para cada localidade onde a instituição pretenda ministrar o ciclo de estudos.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+#### Secção V — Concessão
+
+###### Artigo 40.º-P — Concessão do diploma de técnico superior profissional
+
+O diploma de técnico superior profissional é conferido aos que, através da aprovação em todas as unidades curriculares que integram o plano de estudos do curso técnico superior profissional, tenham obtido o número de créditos fixado.
+
+###### Artigo 40.º-Q — Classificação final do diploma de técnico superior profissional
+
+1 - Ao diploma de técnico superior profissional é atribuída uma classificação final, expressa no intervalo 10-20 da escala numérica inteira de 0 a 20, bem como no seu equivalente na escala europeia de comparabilidade de classificações, nos termos fixados pelos artigos 16.º a 22.º do Decreto-Lei n.º 42/2005, de 22 de fevereiro, alterado pelo Decreto-Lei n.º 107/2008, de 25 de junho.
+
+2 - A classificação final é a média aritmética ponderada das classificações obtidas nas unidades curriculares que integram o plano de estudos do curso técnico superior profissional.
+
+3 - Os coeficientes de ponderação são fixados pelas normas regulamentares a que se refere o artigo 40.º-Y.
+
+4 - A classificação final é atribuída pelo órgão legal e estatutariamente competente da instituição de ensino superior.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-R — Classificação final do diploma de técnico superior profissional
+
+1 - Ao diploma de técnico superior profissional é atribuída uma classificação final, expressa no intervalo 10-20 da escala numérica inteira de 0 a 20, bem como no seu equivalente na escala europeia de comparabilidade de classificações, nos termos fixados pelos artigos 16.º a 22.º do Decreto-Lei n.º 42/2005, de 22 de fevereiro, alterado pelo Decreto-Lei n.º 107/2008, de 25 de junho.
+
+2 - A classificação final é a média aritmética ponderada das classificações obtidas nas unidades curriculares que integram o plano de estudos do curso técnico superior profissional.
+
+3 - Os coeficientes de ponderação são fixados pelas normas regulamentares a que se refere o artigo 40.º-Y.
+
+4 - A classificação final é atribuída pelo órgão legal e estatutariamente competente da instituição de ensino superior.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+#### Secção VI — Entrada em funcionamento e registo
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-R — Entrada em funcionamento
+
+A entrada em funcionamento de um curso técnico superior profissional carece de registo prévio na Direção-Geral do Ensino Superior.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-S — Registo
+
+1 - No âmbito do registo da criação de cada curso técnico superior profissional são analisados, designadamente:
+
+a) A denominação do curso;
+
+b) A área de educação e formação em que se insere;
+
+c) O perfil profissional que visa preparar;
+
+d) O referencial de competências a adquirir e a sua articulação com o perfil profissional visado;
+
+e) A estrutura curricular;
+
+f) O plano de estudos e a articulação deste com o referencial de competências;
+
+g) Os resultados da consulta às empresas e associações da região, demonstrativos das necessidades de formação na área sem a correspondente oferta;
+
+h) As condições de ingresso;
+
+i) A existência de pessoal docente que satisfaça o disposto na alínea b) do n.º 2 do artigo 40.º-B;
+
+j) A existência das condições materiais para a ministração do ensino;
+
+k) A existência de protocolos com entidades externas que desenvolvam atividades profissionais adequadas ao perfil profissional visado e que assegurem, na quantidade e com a qualidade adequadas, a realização da componente de formação em contexto de trabalho.
+
+2 - Os pedidos de registo dos cursos são apresentados nos termos e nos prazos fixados por despacho do diretor-geral do Ensino Superior, publicado na 2.ª série do Diário da República.
+
+3 - No âmbito do processo de registo da criação dos cursos, a Direção-Geral do Ensino Superior pode:
+
+a) Promover a realização de visitas às instituições de ensino superior para proceder à avaliação, no local, da satisfação das condições;
+
+b) Ouvir entidades especializadas na área.
+
+4 - No âmbito do processo de registo da criação de cursos em áreas objeto de regulação do exercício da profissão, a Direção-Geral do Ensino Superior ouve, obrigatoriamente, as entidades públicas competentes, as quais dispõem do prazo de 30 dias úteis para se pronunciarem.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-T — Despacho de registo
+
+1 - A decisão sobre o pedido de registo da criação de um curso técnico superior profissional é da competência do diretor-geral do Ensino Superior.
+
+2 - Do despacho de deferimento do registo da criação de um curso técnico superior profissional devem constar os seguintes elementos:
+
+a) A denominação da instituição de ensino superior;
+
+b) A denominação do curso técnico superior profissional;
+
+c) A área de educação e formação em que se insere;
+
+d) O perfil profissional que visa preparar;
+
+e) O referencial de competências a adquirir;
+
+f) A estrutura curricular;
+
+g) O plano de estudos, com indicação, para cada componente de formação, das respetivas unidades curriculares, sua carga horária e número de créditos atribuídos;
+
+h) As condições de ingresso;
+
+i) As localidades e instalações em que é autorizada a ministração do curso;
+
+j) O número máximo para cada admissão de novos estudantes e o número máximo de estudantes que podem estar inscritos em simultâneo no curso em cada localidade em que esteja autorizada a sua ministração.
+
+3 - O despacho de deferimento do registo é notificado à instituição de ensino superior, sendo publicado nos termos definidos por portaria do membro do Governo responsável pela área do ensino superior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-U — Alterações
+
+1 - A aprovação das alterações aos cursos técnicos superiores profissionais compete aos órgãos legal e estatutariamente competentes das instituições de ensino superior.
+
+2 - A entrada em funcionamento das alterações aos elementos caraterizadores de um ciclo de estudos fica sujeita a registo na Direção-Geral do Ensino Superior.
+
+3 - Consideram-se elementos caraterizadores de um curso técnico superior profissional os constantes das alíneas a) a j) do n.º 2 do artigo 40.º-T.
+
+4 - À apreciação dos pedidos de registo das alterações aplica-se, com as necessárias adaptações, o disposto no artigo 40.º-S.
+
+5 - A alteração dos limites a que se refere a alínea j) do n.º 2 do artigo 40.º-T deve ser fundamentada na demonstração da existência de procura e das condições para a ministração do ensino.
+
+6 - A publicação das alterações é feita nos termos definidos por portaria do membro do Governo responsável pela área do ensino superior.
+
+7 - A publicação das alterações deve mencionar expressamente o número e a data de registo das mesmas na Direção-Geral do Ensino Superior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-V — Cancelamento do registo
+
+1 - São fundamentos para o cancelamento do registo:
+
+a) O incumprimento dos requisitos legais ou das disposições estatutárias;
+
+b) A não observância dos critérios que fundamentaram o registo;
+
+c) O funcionamento em local não autorizado;
+
+d) Uma avaliação externa desfavorável;
+
+e) A não inscrição de novos estudantes no 1.º ano durante três anos letivos consecutivos;
+
+f) A cessação da ministração do curso por decisão do órgão legal e estatutariamente competente da instituição de ensino superior.
+
+2 - O cancelamento do registo é da competência do diretor-geral do Ensino Superior, após audiência prévia da instituição em causa e ouvida a comissão de acompanhamento a que se refere o artigo seguinte.
+
+3 - O despacho de cancelamento do registo é notificado à instituição de ensino superior, sendo publicado nos termos definidos por portaria do membro do Governo responsável pela área do ensino superior.
+
+4 - Com a receção da notificação pela instituição de ensino superior, o curso técnico superior profissional:
+
+a) Deixa de poder admitir novos estudantes;
+
+b) Cessa o seu funcionamento, sem prejuízo de o diretor-geral do Ensino Superior poder autorizar que, durante o período por ele fixado, prossiga a ministração do ensino aos estudantes nele inscritos à data de cancelamento do registo e, se for caso disso, lhes sejam atribuídos os respetivos diplomas.
+
+5 - Na situação prevista na alínea f) do n.º 1, a decisão de cessação deve incluir os prazos de cessação do funcionamento do curso e as medidas de salvaguarda das expectativas dos estudantes nele inscritos e deve ser comunicada nos termos aprovados por despacho do Diretor-Geral do Ensino Superior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+#### Secção VII — Entrada em funcionamento e registo
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-W — Comissão de acompanhamento
+
+1 - É criada uma comissão de acompanhamento dos cursos técnicos superiores profissionais.
+
+2 - A comissão é constituída pelo diretor-geral do Ensino Superior, que coordena, e por um representante designado por cada uma das seguintes entidades:
+
+a) Agência de Avaliação e Acreditação do Ensino Superior;
+
+b) Associação Portuguesa do Ensino Superior Privado;
+
+c) Conselho Coordenador dos Institutos Superiores Politécnicos;
+
+d) Conselho de Reitores das Universidades Portuguesas;
+
+e) Associações de estudantes do ensino superior.
+
+3 - Compete à comissão pronunciar-se, designadamente, sobre:
+
+a) Os termos e prazos em que devem ser apresentados os pedidos de registo;
+
+b) Os critérios gerais de apreciação dos pedidos de registo;
+
+c) O cancelamento dos registos;
+
+d) A fixação dos procedimentos do processo de avaliação e dos parâmetros a adotar;
+
+e) A designação dos peritos responsáveis pela avaliação externa;
+
+f) Os relatórios de avaliação externa;
+
+g) A adequação da formação ministrada no âmbito dos cursos técnicos superiores profissionais às práticas internacionais, designadamente europeias, relativas a cursos do mesmo nível e objetivos.
+
+4 - A composição da comissão é publicada na 2.ª série do Diário da República.
+
+5 - Aos membros da comissão de acompanhamento não é devida qualquer remuneração pela participação ou pelo desempenho de funções na mesma.
+
+6 - As deliberações genéricas da comissão são publicadas na 2.ª série do Diário da República.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-X — Avaliação da qualidade
+
+1 - Os cursos técnicos superiores profissionais estão sujeitos a avaliação periódica da qualidade realizada de acordo com os princípios fixados pela Lei n.º 38/2007, de 16 de agosto.
+
+2 - A avaliação da qualidade reveste as formas de autoavaliação e de avaliação externa.
+
+3 - A avaliação externa é realizada de quatro em quatro anos, por peritos, nacionais ou internacionais, designados por despacho do diretor-geral do Ensino Superior, ouvida a comissão de acompanhamento.
+
+4 - Os procedimentos do processo de avaliação e os parâmetros a adotar são aprovados por deliberação da comissão de acompanhamento publicada na 2.ª série do Diário da República, devendo ter em consideração os princípios fixados pela Lei n.º 38/2007, de 16 de agosto.
+
+5 - Os resultados da avaliação são publicados, obrigatoriamente, nas páginas da Internet da instituição de ensino superior e da Direção-Geral do Ensino Superior.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+#### Secção VIII — Outras disposições
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-Y — Normas regulamentares do diploma de técnico superior profissional
+
+O órgão legal e estatutariamente competente de cada instituição de ensino superior aprova as normas relativas às seguintes matérias:
+
+a) Condições de ingresso e forma de proceder à verificação da sua satisfação;
+
+b) Regras a que estão sujeitos os concursos de ingresso;
+
+c) Condições de funcionamento;
+
+d) Regime de avaliação de conhecimentos;
+
+e) Regime de precedências;
+
+f) Regime de prescrição do direito à inscrição;
+
+g) Coeficientes de ponderação e procedimentos para o cálculo da classificação final;
+
+h) Elementos que constam obrigatoriamente dos diplomas;
+
+i) Prazo de emissão do diploma e do suplemento ao diploma;
+
+j) Processo de acompanhamento pelos órgãos pedagógico e científico.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-Z — Taxas
+
+São devidas taxas, de montante a fixar nos termos do n.º 3 do artigo 6.º do Decreto Regulamentar n.º 20/2012, de 7 de fevereiro, pelos seguintes atos:
+
+a) Registo de um curso técnico superior profissional e das suas alterações;
+
+b) Avaliação externa da qualidade de um curso técnico superior profissional.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-AA — Monitorização dos diplomados
+
+1 - As instituições de ensino superior asseguram a recolha de informação sobre o percurso profissional dos seus diplomados e a divulgação de informação de síntese sobre a mesma.
+
+2 - A metodologia a adotar para a recolha e divulgação da informação é comum a todas as instituições e é fixada por despacho do diretor-geral do Ensino Superior, ouvidas as instituições de ensino superior que ministram cursos técnicos superiores profissionais e a comissão de acompanhamento.
+
+3 - Esta informação deve ser considerada no âmbito do processo anual de fixação das vagas e do processo de avaliação da qualidade.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-AB — Pessoal docente
+
+1 - A ministração do ensino dos cursos técnicos superiores profissionais é assegurada pelo pessoal docente da instituição de ensino superior.
+
+2 - O disposto no número anterior entende-se sem prejuízo do recurso:
+
+a) À contratação de pessoal com a qualificação adequada, por períodos limitados de tempo, nos regimes legais aplicáveis, para assegurar a ministração do ensino de módulos específicos;
+
+b) A docentes e formadores de outras instituições que integrem as redes previstas no artigo 40.º-D.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-AC — Ação social
+
+Os estudantes inscritos nos cursos técnicos superiores profissionais são abrangidos pela ação social direta e indireta, nos mesmos termos dos restantes estudantes do ensino superior.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 40.º-AD — Financiamento das instituições de ensino superior públicas
+
+1 - Os estudantes inscritos nos cursos técnicos superiores profissionais em instituições de ensino superior públicas são considerados no quadro da aplicação das regras de financiamento dessas instituições.
+
+2 - O disposto no número anterior não prejudica o recurso por parte dessas instituições a financiamento complementar através:
+
+a) De fundos da União Europeia, nos termos dos respetivos regulamentos;
+
+b) De apoios financeiros de outras entidades.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+### Capítulo VI — Atribuição de graus e diplomas em associação
+
+###### Artigo 41.º — Objecto da associação
+
+1 - As instituições de ensino superior podem associar-se a outras instituições de ensino superior, nacionais ou estrangeiras, para a realização dos ciclos de estudos conducentes aos graus e diplomas a que se referem os capítulos anteriores.
+
+2 - Os ciclos de estudos referidos no número anterior devem:
+
+a) Ser objeto de acreditação pela Agência de Avaliação e Acreditação do Ensino Superior e de registo pela Direção-Geral do Ensino Superior, enquanto ciclos de estudos em associação, quando visem a atribuição de um grau;
+
+b) Ser objeto de registo pela Direção-Geral do Ensino Superior, enquanto ciclos de estudos em associação, quando visem a atribuição de um diploma de técnico superior profissional.
+
+3 - No caso a que se refere a alínea a) do número anterior, quando a associação envolva instituições de ensino superior estrangeiras, a Agência de Avaliação e Acreditação do Ensino Superior:
+
+a) Pode integrar no processo de acreditação os resultados de procedimentos de avaliação e de acreditação realizados por instituições estrangeiras ou internacionais que desenvolvam atividade de avaliação dentro dos princípios adotados pelo sistema europeu de garantia da qualidade do ensino superior bem como os resultados de procedimentos de avaliação de atividades de ciência e tecnologia desenvolvidos pelas entidades competentes nos países estrangeiros;
+
+b) Pode admitir a aplicação de valores inferiores aos fixados nos artigos 6.º, 16.º e 29.º;
+
+c) Dispensa as instituições de ensino superior estrangeiras do cumprimento dos requisitos gerais de acreditação previstos no n.º 1 do artigo 57.º
+
+4 - Tendo em vista o disposto no n.º 7 do artigo 13.º da Lei de Bases do Sistema Educativo, não é permitida a adoção do regime de franquia.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 27/2021 - Diário da República n.º 74/2021, Série I de 2021-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2021-161518656), em vigor a partir de 2021-04-17
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 42.º — Atribuição do grau ou diploma
+
+1 - Quando todas as instituições de ensino superior associadas forem legalmente competentes para a atribuição do grau ou diploma, este pode ser atribuído:
+
+a) Por todas as instituições em conjunto;
+
+b) (Revogada);
+
+c) Apenas por uma das instituições;
+
+d) Por cada uma das instituições, separadamente.
+
+2 - Quando alguma das instituições de ensino superior não for legalmente competente para atribuir o grau ou diploma, nomeadamente por pertencer a subsistema que não possua competência para tal, apenas a instituição ou instituições de ensino superior competentes o podem atribuir, nos termos definidos no número anterior.
+
+3 - A alínea d) do n.º 1 é aplicável apenas no caso de ciclos de estudos em associação com instituições de ensino superior estrangeiras.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 43.º — Titulação do grau ou diploma
+
+1 - (Revogado).
+
+2 - No caso a que se refere a alínea a) do n.º 1 do artigo anterior e de acordo com o convencionado pelas instituições associadas:
+
+a) O grau é titulado por diploma subscrito pelos órgãos legal e estatutariamente competentes de todas as instituições;
+
+b) O grau é titulado por diploma subscrito pelo órgão legal e estatutariamente competente de uma das instituições com menção das restantes.
+
+3 - No caso a que se refere a alínea d) do n.º 1 do artigo anterior, o grau é titulado através de diploma subscrito pelo órgão legal e estatutariamente competente de cada uma das instituições de ensino superior que o confere com menção das restantes.
+
+4 - No caso a que se refere a alínea c) do n.º 1 do artigo anterior, o grau é titulado por diploma subscrito pelo órgão legal e estatutariamente competente da instituição de ensino superior que o confere.
+
+5 - A emissão do diploma é acompanhada da emissão do suplemento ao diploma nos termos do Decreto-Lei n.º 42/2005, de 22 de fevereiro, alterado pelo Decreto-Lei n.º 107/2008, de 25 de junho.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+### Capítulo VII — Mobilidade
+
+###### Artigo 44.º — Garantia de mobilidade
+
+A mobilidade dos estudantes entre os estabelecimentos de ensino superior nacionais, do mesmo ou de diferentes subsistemas, bem como entre estabelecimentos de ensino superior nacionais e estrangeiros, é assegurada através do sistema europeu de transferência e acumulação de créditos, com base no princípio do reconhecimento mútuo do valor da formação realizada e das competências adquiridas.
+
+###### Artigo 45.º — Creditação
+
+1 - Tendo em vista o prosseguimento de estudos para a obtenção de grau académico ou diploma, os estabelecimentos de ensino superior:
+
+a) Podem creditar a formação realizada no âmbito de outros ciclos de estudos superiores conferentes de grau em instituições de ensino superior nacionais ou estrangeiras, quer a obtida no quadro da organização decorrente do Processo de Bolonha, quer a obtida anteriormente;
+
+b) Podem creditar a formação realizada no âmbito dos cursos técnicos superiores profissionais até ao limite de 50 % do total dos créditos do ciclo de estudos;
+
+c) Creditam as unidades curriculares realizadas com aproveitamento, nos termos do artigo 46.º-A, até ao limite de 50% do total dos créditos do ciclo de estudos;
+
+d) Podem creditar a formação realizada no âmbito de cursos não conferentes de grau académico ministrados em instituições de ensino superior nacionais ou estrangeiras, até ao limite de 50 % do total dos créditos do ciclo de estudos;
+
+e) Podem creditar a formação realizada no âmbito dos cursos de especialização tecnológica até ao limite de um terço do total dos créditos do ciclo de estudos;
+
+f) Podem creditar outra formação não abrangida pelas alíneas anteriores, até ao limite de um terço do total dos créditos do ciclo de estudos;
+
+g) Podem creditar experiência profissional até ao limite de 50 % do total dos créditos de cursos técnicos superiores profissionais nas situações em que o estudante detenha mais que cinco anos de experiência profissional devidamente comprovada;
+
+h) Podem creditar experiência profissional devidamente comprovada, até ao limite de um terço do total dos créditos do ciclo de estudos, sem prejuízo do disposto na alínea anterior.
+
+2 - O conjunto dos créditos atribuídos ao abrigo das alíneas d) a h) do número anterior não pode exceder dois terços do total dos créditos do ciclo de estudos.
+
+3 -(Revogado).
+
+4 - São nulas as creditações:
+
+a) Realizadas ao abrigo das alíneas a) e d) do n.º 1 quando as instituições estrangeiras em que a formação foi ministrada não sejam reconhecidas pelas autoridades competentes do Estado respetivo como fazendo parte do seu sistema de ensino superior, como estabelecido pelo artigo I.1 da Convenção sobre o Reconhecimento das Qualificações Relativas ao Ensino Superior na Região Europa, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 25/2000, de 30 de março;
+
+b) Que excedam os limites fixados nos n.os 1 e 2.
+
+5 - A atribuição de créditos ao abrigo das alíneas g) e h) do n.º 1 pode ser total ou parcialmente condicionada à realização de procedimentos de avaliação de conhecimentos específicos.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 27/2021 - Diário da República n.º 74/2021, Série I de 2021-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2021-161518656), em vigor a partir de 2021-04-17
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26
+
+###### Artigo 45.º-A — Regras aplicáveis à creditação
+
+1 - O processo de creditação é objeto de um regulamento aprovado pelo órgão legal e estatutariamente competente do estabelecimento de ensino superior e publicado na 2.ª série do Diário da República e no respetivo sítio na Internet.
+
+2 - O regulamento de creditação contém obrigatoriamente disposições relativas:
+
+a) Aos documentos que devem instruir os requerimentos;
+
+b) Aos órgãos competentes para apreciação e decisão;
+
+c) À publicidade das decisões;
+
+d) Aos prazos aplicáveis.
+
+3 - A creditação envolve, obrigatoriamente, a intervenção do conselho científico ou técnico-científico, podendo ser designado júri para o efeito.
+
+4 - A creditação tem em consideração o nível dos créditos e a área em que foram obtidos.
+
+5 - Não podem ser creditadas partes de unidades curriculares.
+
+6 - A creditação:
+
+a) Não é condição suficiente para o ingresso no ciclo de estudos;
+
+b) Só produz efeitos após a admissão no ciclo de estudos e para esse mesmo ciclo.
+
+7 - A Agência de Avaliação e Acreditação do Ensino Superior inclui na avaliação dos ciclos de estudos a análise das práticas dos estabelecimentos de ensino em matéria de creditação.
+
+8 - A Inspeção-Geral da Educação e Ciência desenvolve anualmente atividades regulares de auditoria e controlo com o objetivo de aferir a regularidade dos procedimentos de creditação efetuados ao abrigo do artigo anterior, podendo, se necessário, recorrer a peritos ou entidades com experiência no tipo de creditação em causa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 45.º-B — Formações não passíveis de creditação
+
+Não é passível de creditação:
+
+a) O ensino ministrado em ciclos de estudos conferentes ou não de grau académico cujo funcionamento não foi autorizado nos termos da lei;
+
+b) O ensino ministrado em ciclos de estudos conferentes ou não de grau académico fora da localidade e instalações a que se reporta a acreditação e ou o registo.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+### Capítulo VIII — Outras disposições
+
+###### Artigo 46.º — Inscrição em unidades curriculares de ciclos de estudos subsequentes
+
+1 - Aos alunos inscritos num ciclo de estudos pode ser autorizada a inscrição em unidades curriculares de ciclos de estudos subsequentes.
+
+2 - As unidades curriculares a que se refere o número anterior:
+
+a) São objecto de certificação;
+
+b) São objecto de menção no suplemento ao diploma;
+
+c) São creditadas em caso de inscrição do aluno no ciclo de estudos em causa.
+
+###### Artigo 46.º-A — Inscrição em unidades curriculares
+
+1 - As instituições de ensino superior facultam a inscrição nas unidades curriculares que ministram.
+
+2 - A inscrição pode ser feita quer por estudantes inscritos num ciclo de estudos de ensino superior, quer por outros interessados.
+
+3 - A inscrição pode ser feita em regime sujeito a avaliação ou não.
+
+4 - Quando a inscrição seja feita em regime sujeito a avaliação, cada estudante pode inscrever-se a um número máximo de 60 créditos acumulados ao longo do seu percurso académico.
+
+5 - As unidades curriculares em que o estudante se inscreva em regime sujeito a avaliação e em que obtenha aprovação:
+
+a) São objecto de certificação;
+
+b) São obrigatoriamente creditadas, nos termos do artigo 45.º, caso o seu titular tenha ou venha a adquirir o estatuto de aluno de um ciclo de estudos de ensino superior;
+
+c) São incluídas em suplemento ao diploma que venha a ser emitido.
+
+6 - Pela inscrição nos termos deste artigo são devidos os montantes que forem fixados, de forma proporcionada, pelo órgão legal e estatutariamente competente do estabelecimento de ensino superior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26
+
+###### Artigo 46.º-B — Estágios profissionais
+
+1 - Os titulares do grau de licenciado ou de mestre que, no período de 24 meses após a obtenção do grau, se encontrem a realizar estágio profissional para o exercício de uma profissão beneficiam, nos termos fixados pelo presente artigo, dos direitos dos alunos da instituição de ensino superior que conferiu o grau.
+
+2 - A atribuição dos direitos é independente de o estágio profissional ser remunerado ou não e está condicionada à inscrição na instituição de ensino superior que conferiu o grau.
+
+3 - A inscrição a que se refere o número anterior não está sujeita ao pagamento de propinas ou de quaisquer outros encargos.
+
+4 - Os estagiários têm direito:
+
+a) À emissão de cartão de identificação da instituição de ensino superior;
+
+b) (Revogada.)
+
+c) Ao acesso aos recursos da instituição, como bibliotecas e recursos informáticos, nos mesmos termos em que acedem os alunos.
+
+> Alterado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 148/2026 - Diário da República n.º 138/2026, Série I de 2026-07-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2026-1149265697), em vigor a partir de 2026-07-25.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26
+
+###### Artigo 46.º-C — Estudantes em regime de tempo parcial
+
+1 - As instituições de ensino superior devem facultar aos seus estudantes a inscrição e frequência dos seus ciclos de estudos em regime de tempo parcial.
+
+2 - O órgão legal e estatutariamente competente do estabelecimento de ensino superior aprova as normas regulamentares referentes ao regime de estudos em tempo parcial, incluindo, designadamente:
+
+a) As condições de inscrição em regime de tempo parcial;
+
+b) As condições de mudança entre os regimes de tempo integral e de tempo parcial, inclusivamente durante o decurso do ano letivo;
+
+c) O regime de propinas, o qual deve resultar da adequação proporcionada das regras gerais aplicáveis ao ciclo de estudos em causa;
+
+d) O regime de prescrição do direito à inscrição, o qual deve resultar da adequação proporcionada das regras gerais aplicáveis ao ciclo de estudos em causa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26
+
+###### Artigo 46.º-D — Entrega de dissertações, trabalhos de projetos, relatórios e teses em formato digital
+
+1 - A entrega de dissertações, trabalhos de projetos, relatórios, teses ou trabalhos que as substituam é realizada exclusivamente em formato digital.
+
+2 - Nas situações previstas na alínea b) do n.º 2 do artigo 31.º, apenas é exigida a entrega em formato digital relativamente às fundamentações escritas.
+
+3 - O disposto no n.º 1 aplica-se a todas as fases da entrega de dissertações, trabalhos de projetos, relatórios, teses ou trabalhos que as substituam.
+
+4 - A produção, publicação, transmissão e armazenamento dos documentos referidos no número anterior em suporte digital nas instituições do ensino superior são realizados em norma aberta, nos termos da Lei n.º 36/2011, de 21 de junho, que estabelece a adoção de normas abertas nos sistemas informáticos do Estado.
+
+5 - O disposto nos números anteriores não dispensa a necessidade de entrega de um exemplar em papel para efeitos do depósito legal previsto no n.º 4 do artigo 50.º
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+###### Artigo 47.º — Professores recrutados através de concursos de provas públicas no âmbito do ensino politécnico
+
+Para efeitos do presente decreto-lei consideram-se, entre outros, como «especialistas de reconhecida experiência e competência profissional», os professores-adjuntos e os professores-coordenadores da carreira do ensino superior politécnico recrutados através de concurso de provas públicas nos termos do Estatuto da Carreira do Pessoal Docente do Ensino Superior Politécnico, aprovado pelo Decreto-Lei n.º 185/81, de 1 de Julho, alterado pelo Decreto-Lei n.º 69/88, de 3 de Março.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 48.º — Regras aplicáveis ao funcionamento dos júris
+
+1 - O funcionamento dos júris a que se referem os artigos 22.º e 34.º regula-se pelo disposto no Código do Procedimento Administrativo em tudo o que não esteja previsto no presente decreto-lei.
+
+2 - As reuniões dos júris a que se referem os artigos 22.º e 34.º podem ser realizadas por teleconferência.
+
+3 - Nas provas públicas a que se referem os artigos 23.º e 35.º, o presidente do júri pode autorizar a participação de vogais por teleconferência em qualquer número, desde que haja condições técnicas para a sua plena participação nos trabalhos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 49.º — Registo de graus e diplomas, certidões e cartas
+
+1 - Dos graus e diplomas conferidos é lavrado registo subscrito pelo órgão legal e estatutariamente competente do estabelecimento de ensino superior.
+
+2 - A titularidade dos graus e diplomas é comprovada por certidão do registo referido no número anterior, genericamente denominada diploma, e também, para os estudantes que o requeiram:
+
+a) Por carta de curso, para os graus de licenciado e de mestre;
+
+b) Por carta doutoral, para o grau de doutor.
+
+3 - Os documentos a que se refere o número anterior podem ser plurilingues, sem prejuízo de a referência aos graus e diplomas dever ser formulada em língua portuguesa.
+
+4 - A emissão de qualquer dos documentos a que se refere o n.º 2 é acompanhada da emissão de suplemento ao diploma nos termos do artigo 40.º do Decreto-Lei n.º 42/2005, de 22 de Fevereiro, alterado pelo Decreto-Lei n.º 107/2008, de 25 de Junho.
+
+5 - A emissão da certidão do registo não pode ser condicionada à solicitação de emissão ou pagamento de qualquer outro documento académico, nomeadamente daqueles a que se referem as alíneas a) e b) do n.º 2.
+
+6 - O valor cobrado pela emissão de qualquer dos documentos a que se refere o n.º 2 não pode exceder o custo do serviço respectivo.
+
+7 - A solicitação de emissão e a emissão de qualquer dos documentos a que se referem os n.os 2 e 4 pode ser feita por via electrónica, nos termos a fixar por cada instituição de ensino superior, fazendo prova para todos os efeitos legais e perante qualquer autoridade pública ou entidade privada.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2009-489773), em vigor a partir de 2009-09-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26
+
+###### Artigo 49.º-A — Plataforma de registo de graus, diplomas, teses e dissertações
+
+1 - A atribuição de graus e de diplomas de técnico superior profissional é objeto de registo obrigatório numa plataforma eletrónica.
+
+2 - O registo na plataforma eletrónica deve ser efetuado após a realização do registo a que se refere o n.º 1 do artigo anterior, e antes da emissão de documentos comprovativos da titularidade do diploma.
+
+3 - A plataforma eletrónica atribui um número, único, a cada diploma conferido.
+
+4 - O número a que se refere o número anterior é aposto, obrigatoriamente, em todos os documentos comprovativos da titularidade do diploma.
+
+5 - As teses de doutoramento, os trabalhos previstos na alínea a) do n.º 2 do artigo 31.º, as fundamentações escritas a que se refere a alínea b) do n.º 2 do mesmo artigo, as dissertações de mestrado e os trabalhos e relatórios a que se refere a alínea b) do n.º 1 do artigo 20.º ficam igualmente sujeitas a registo obrigatório na plataforma eletrónica.
+
+6 - A criação e gestão da plataforma são asseguradas pela Direção-Geral do Ensino Superior em articulação com a Direção-Geral de Estatísticas da Educação e Ciência.
+
+7 - Os dados recolhidos pela plataforma eletrónica são utilizados pela Direção-Geral de Estatísticas da Educação e Ciência para fins de análise e estatística.
+
+8 - Os procedimentos de registo referidos nos n.os 1 e 5 são definidos por portaria do membro do Governo responsável pela área do ensino superior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 50.º — Depósito legal
+
+1 - As teses de doutoramento, os trabalhos previstos na alínea a) do n.º 2 do artigo 31.º, as fundamentações escritas a que se refere a alínea b) do n.º 2 do mesmo artigo, as dissertações de mestrado e os trabalhos e relatórios a que se refere a alínea b) do n.º 1 do artigo 20.º ficam sujeitas ao depósito obrigatório de uma cópia digital num repositório integrante da rede do Repositório Científico de Acesso Aberto de Portugal, operado pela Fundação para a Ciência e a Tecnologia, I. P.
+
+2 - O depósito visa o tratamento e a preservação dos referidos trabalhos científicos, bem como a difusão, em regime de acesso aberto, da produção que não for objeto de restrições ou embargos.
+
+3 - O depósito deve ser feito no respeito por requisitos técnicos, designadamente no que respeita aos formatos dos ficheiros e à respetiva descrição dos trabalhos, a definir por portaria do membro do Governo responsável pela área do ensino superior.
+
+4 - As teses de doutoramento, os trabalhos previstos na alínea a) do n.º 2 do artigo 31.º e as fundamentações escritas a que se refere a alínea b) do n.º 2 do mesmo artigo estão, ainda, sujeitas ao depósito de um exemplar em papel na Biblioteca Nacional de Portugal.
+
+5 - As obrigações de depósito referidas nos números anteriores são da responsabilidade de cada estabelecimento de ensino superior que confere o grau e devem ser cumpridas em prazo não superior a 60 dias a contar da data de concessão do mesmo.
+
+6 - Os estabelecimentos de ensino superior devem facultar o acesso sem restrições da Direção-Geral de Estatísticas da Educação e Ciência aos conteúdos depositados na rede do Repositório Científico de Acesso Aberto de Portugal para fins de recolha e processamento de indicadores estatísticos.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 230/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2009-489773), em vigor a partir de 2009-09-19
+
+###### Artigo 51.º — Línguas estrangeiras
+
+Os estabelecimentos de ensino superior podem prever a utilização de línguas estrangeiras:
+
+a) Na ministração do ensino em qualquer dos ciclos de estudos a que se refere o presente decreto-lei;
+
+b) Na escrita das teses de doutoramento, dos trabalhos previstos na alínea a) do n.º 2 do artigo 31.º, das fundamentações a que se refere a alínea b) do n.º 2 do mesmo artigo, das dissertações de mestrado e dos trabalhos e relatórios a que se refere a alínea b) do n.º 1 do artigo 20.º, e nos respetivos atos públicos de defesa.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 51.º-A — Financiamento
+
+1 - A acreditação e ou registo de um ciclo de estudos conferente ou não de grau académico não implica necessariamente o seu financiamento público.
+
+2 - O financiamento público de um ciclo de estudos de uma instituição de ensino superior é decidido no quadro legalmente em vigor tendo em consideração o ordenamento da rede de formação superior.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 51.º-B — Fixação de taxas e emolumentos
+
+Nas instituições de ensino superior públicas, as taxas e emolumentos devidos pelos atos administrativos necessários à inscrição, frequência e certificação da conclusão dos ciclos de estudos referidos nos capítulos II a V são fixadas pelo órgão legal e estatutariamente competente, ouvidas as estruturas representativas dos estudantes.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+## Título III — Acreditação e entrada em funcionamento dos ciclos de estudos
+
+###### Artigo 52.º — Acreditação
+
+1 - A acreditação de um ciclo de estudos consiste na verificação do preenchimento dos requisitos legais exigidos para a sua criação e funcionamento.
+
+2 - A acreditação abrange todos os estabelecimentos de ensino superior e todos os ciclos de estudos conferentes de grau académico.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 53.º — Competência para a acreditação
+
+1 - A acreditação realiza-se no quadro do sistema europeu de garantia de qualidade no ensino superior, compete à Agência de Avaliação e Acreditação do Ensino Superior, criada pelo Decreto-Lei n.º 369/2007, de 5 de novembro, e concretiza-se nos termos por ele fixados.
+
+2 - A Agência de Avaliação e Acreditação do Ensino Superior é uma entidade dotada de autonomia científica e técnica.
+
+3 - A Agência de Avaliação e Acreditação do Ensino Superior articula-se com os estabelecimentos de ensino superior, as associações profissionais e outras entidades relevantes.
+
+4 - A acreditação realiza-se no respeito pela autonomia científica e pedagógica dos estabelecimentos de ensino superior, nos termos definidos pelo Decreto-Lei n.º 369/2007, de 5 de novembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 54.º — Entrada em funcionamento de um ciclo de estudos
+
+1 - Sem prejuízo do disposto no artigo seguinte, a entrada em funcionamento de ciclos de estudos que visem conferir graus académicos carece de acreditação prévia pela Agência de Avaliação e Acreditação do Ensino Superior, e de subsequente registo pela Direção-Geral do Ensino Superior.
+
+2 - A acreditação e o subsequente registo de um ciclo de estudos implica o reconhecimento do grau ou dos graus conferidos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 54.º-A — Procedimento de acreditação e registo de ciclos de estudos
+
+1 - O procedimento de acreditação dos ciclos de estudos é fixado por regulamento da Agência de Avaliação e Acreditação do Ensino Superior, observando as melhores práticas internacionais em matéria de simplificação administrativa e tendo em consideração os seguintes princípios:
+
+a) Garantia de diversificação institucional, designadamente entre os sistemas universitário e politécnico, adequando os critérios de avaliação e acreditação ao ciclo de estudos em causa e ao tipo de ensino neles ministrado e garantindo que as comissões de avaliação externa são constituídas maioritariamente por peritos com experiência no subsistema em causa;
+
+b) Garantia de diversificação ao nível da acreditação de diferentes ciclos de estudos, adequando e diferenciando procedimentos específicos para a acreditação de ciclos de estudo de mestrado, designadamente de natureza profissional, e de doutoramento;
+
+c) Utilização de resultados de avaliações realizadas por entidades estrangeiras ou internacionais que desenvolvam atividade de avaliação dentro dos princípios adotados pelo sistema europeu de garantia da qualidade do ensino superior, quando adequado;
+
+d) Utilização dos resultados da avaliação desenvolvida pela Fundação para a Ciência e a Tecnologia, I. P., às unidades de I&D, para efeitos de acreditação de ciclos de estudos conducentes ao grau de doutor.
+
+2 - O procedimento de registo dos ciclos de estudos e respetiva publicação é fixado por portaria do membro do Governo responsável pela área do ensino superior.
+
+3 - Proferida decisão sobre a acreditação de um ciclo de estudos, a mesma é comunicada pela Agência de Avaliação e Acreditação do Ensino Superior ao requerente e à Direção-Geral do Ensino Superior para a realização do registo, acompanhada da informação necessária ao cumprimento por este dos ulteriores termos procedimentais.
+
+4 - No caso de pedido de acreditação de ciclo de estudos a ministrar inicialmente, inserido em processo de reconhecimento ou de alteração de reconhecimento de interesse público de estabelecimento de ensino superior privado ou de criação de um estabelecimento de ensino superior público, a decisão de acreditação deve ser proferida no prazo máximo de seis meses sobre a formulação do pedido devidamente instruído.
+
+5 - Nos restantes casos, a decisão sobre o pedido de acreditação de um ciclo de estudos deve ser proferida no prazo máximo de nove meses sobre a formulação do pedido devidamente instruído.
+
+6 - Findos os prazos indicados nos n.º s 4 e 5, considera-se tacitamente deferido o pedido, tendo-se o ciclo de estudos como acreditado para todos os efeitos legais pelo período de um ano.
+
+7 - No caso de deferimento tácito, cabe ao estabelecimento de ensino superior requerer à Direção-Geral do Ensino Superior a realização do registo.
+
+8 - A decisão sobre o pedido de registo deve ser proferida no prazo máximo de 60 dias sobre a decisão de acreditação ou do deferimento tácito da mesma.
+
+9 - Findo aquele prazo, considera-se tacitamente deferido o pedido de registo e este efetuado para todos os efeitos legais.
+
+10 - Os registos de ciclo de estudos são comunicados pela Direção-Geral do Ensino Superior à Direção-Geral de Estatísticas da Educação e Ciência para a sua inclusão nos exercícios de recolha de dados, análise e estatística realizados por este organismo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 55.º — Modalidades de acreditação
+
+1 - A acreditação de um ciclo de estudos num estabelecimento de ensino superior pode ser efetuada através:
+
+a) Da acreditação do ciclo de estudos;
+
+b) Da acreditação do estabelecimento de ensino superior para a ministração de ciclos de estudos em uma ou mais áreas de formação e conducente a um ou mais graus académicos.
+
+2 - (Revogado).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 55.º-A — Ciclos de estudos autorizados a funcionar no estrangeiro
+
+1 - Na sequência de acordo de cooperação bilateral ou multilateral outorgado pelo membro do Governo responsável pela área do ensino superior, a Agência de Avaliação e Acreditação do Ensino Superior pode acreditar ciclos de estudos conducentes à obtenção de grau académico para funcionamento no estrangeiro, desde que os referidos acordos de cooperação:
+
+a) Incluam autorização da parte estrangeira:
+
+i) Para as instituições de ensino superior portuguesas aí ministrarem os seus ciclos de estudos e conferirem os graus portugueses respetivos;
+
+ii) Para que o funcionamento dos ciclos de estudos possa ser objeto de avaliação e inspeção nos locais onde são ministrados pela Agência de Avaliação e Acreditação do Ensino Superior, pela Inspeção-Geral da Educação e Ciência e pela Direção-Geral do Ensino Superior;
+
+b) Prevejam que os estudantes admitidos satisfaçam as condições habilitacionais legalmente fixadas para o acesso e ingresso no ciclo de estudos em Portugal e que eventuais creditações de formação e experiência anterior sejam realizadas de acordo com a legislação aplicável;
+
+c) Prevejam que o pessoal docente que assegura a ministração do ciclo de estudos seja maioritariamente constituído por docentes ou investigadores da instituição de ensino superior portuguesa, em percentagem igual à exigida para os ciclos de estudos ministrados em Portugal, devendo o restante pessoal ser titular de qualificação académica idêntica à exigida pela legislação portuguesa para os ciclos de estudos em causa.
+
+2 - O funcionamento de um curso técnico superior profissional pode também ser autorizado a funcionar no estrangeiro, sendo registado pela Direção-Geral do Ensino Superior nesses termos, desde que cumpridas as condições previstas no número anterior, com as devidas adaptações.
+
+3 - O presente artigo não abrange o funcionamento de ciclos de estudos em associação com instituições de ensino superior estrangeiras, sendo a respetiva acreditação, atribuição de graus e diplomas e correspondente titulação reguladas nos termos dos artigos 41.º a 43.º
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+###### Artigo 56.º — Financiamento
+
+1 - A acreditação de um ciclo de estudos de um estabelecimento de ensino superior não implica necessariamente o seu financiamento público.
+
+2 - O financiamento público de um ciclo de estudos de um estabelecimento de ensino superior é decidido no quadro legalmente em vigor tendo em consideração o ordenamento da rede de formação superior.
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 57.º — Requisitos para a acreditação
+
+1 - São requisitos gerais para a acreditação de um ciclo de estudos:
+
+a) Um projecto educativo, científico e cultural próprio, adequado aos objectivos fixados para esse ciclo de estudos;
+
+b) Um corpo docente total próprio, academicamente qualificado e especializado e em número adequado;
+
+c) Os recursos humanos e materiais indispensáveis para garantir o nível e a qualidade da formação, designadamente espaços lectivos, equipamentos, bibliotecas e laboratórios adequados;
+
+d) O cumprimento por parte da instituição de ensino superior das disposições previstas nos estatutos de carreira docente aplicáveis relativamente a:
+
+i) Percentagens de professores de carreira e de docentes convidados;
+
+ii) Percentagens de distribuição dos professores de carreira por categoria.
+
+2 - São requisitos especiais para a acreditação de um ciclo de estudos conducente ao grau de licenciado numa determinada área de formação os fixados pelo artigo 6.º
+
+3 - São requisitos especiais para a acreditação de um ciclo de estudos conducente ao grau de mestre numa determinada especialidade os fixados pelo artigo 16.º.
+
+4 - São requisitos especiais para a acreditação de um ciclo de estudos conducente ao grau de doutor num determinado ramo do conhecimento ou numa sua especialidade, os fixados pelo artigo 29.º
+
+5 - Nos casos de acreditação de ciclos de estudos do ensino artístico, nos ciclos de estudos integrados em domínios científicos em que comprovadamente não exista pessoal docente academicamente qualificado e nos ciclos de estudos conducentes ao grau de mestre e de doutor que apresentam características multidisciplinares, a Agência de Avaliação e Acreditação do Ensino Superior pode, excecional e fundamentadamente:
+
+a) Admitir a aplicação de valores inferiores aos fixados nos artigos 6.º, 16.º e 29.º;
+
+b) Fixar um prazo para efeitos de demonstração do cumprimento integral dos requisitos gerais e especiais de acreditação, admitindo que tal cumprimento seja feito de modo progressivo ao longo dos anos iniciais de funcionamento do ciclo de estudos;
+
+c) Considerar como especialista de reconhecida experiência e competência profissional, para efeitos de acreditação de ciclos de estudos no ensino politécnico, aquele que seja detentor de um grau académico e exerça ou tenha exercido profissão na área em que leciona ou se propõe lecionar, possuindo, no mínimo, 10 anos de experiência profissional nessa área, com exercício efetivo durante, pelo menos, cinco anos nos últimos 10 anos, e um currículo profissional de qualidade e relevância comprovadas, devidamente confirmado e aceite pelo órgão técnico-científico da instituição de ensino superior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 58.º — Intransmissibilidade
+
+A acreditação é intransmissível.
+
+###### Artigo 59.º — Validade da acreditação
+
+1 - A acreditação é conferida pelo prazo estabelecido na decisão do processo de acreditação de um ciclo de estudos, nos termos do disposto em Regulamento aprovado pelo conselho de administração da Agência de Avaliação e Acreditação do Ensino Superior, ou pelo prazo de um ano, em caso de deferimento tácito.
+
+2 - Até ao termo dos prazos a que se refere o número anterior, o ciclo de estudos é objeto de reapreciação pela Agência de Avaliação e Acreditação do Ensino Superior, salvo em caso de cessação de funcionamento.
+
+3 - Não tendo sido proferida decisão sobre a manutenção da acreditação até ao termo do prazo a que se refere o n.º 1, a acreditação é prorrogada por períodos sucessivos de um ano até que seja objeto de decisão por parte da Agência de Avaliação e Acreditação do Ensino Superior.
+
+4 - Os ciclos de estudos acreditados pela Agência de Avaliação e Acreditação do Ensino Superior só podem ser ministrados nos locais para onde foram acreditados e registados ou à distância, se isso constar expressamente do ato de acreditação, ou, em caso de deferimento tácito, do respetivo pedido.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 59.º-A — Publicidade da acreditação e do registo
+
+1 - Os estabelecimentos de ensino superior identificam obrigatoriamente no seu sítio na Internet os ciclos de estudos conferentes de grau académico, com a menção:
+
+a) Da data de acreditação e do prazo da mesma;
+
+b) Do número e data do registo.
+
+2 - Os estabelecimentos de ensino superior não podem efetuar qualquer publicidade a ciclos de estudos conferentes de grau académico que não tenham ainda sido objeto de acreditação e registo ou cuja acreditação tenha sido revogada.
+
+3 - Às infrações a que se refere o presente artigo aplica-se o disposto nos artigos 164.º a 169.º da Lei n.º 62/2007, de 10 de setembro.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 60.º — Revogação da acreditação
+
+1 - O incumprimento dos requisitos legais ou das disposições estatutárias e a não observância dos critérios científicos e pedagógicos que justificaram a acreditação determinam a sua revogação, após audiência prévia da instituição de ensino superior em causa.
+
+2 - Na situação prevista no número anterior são definidos, pela Agência de Avaliação e Acreditação do Ensino Superior, os prazos de cessação do funcionamento do ciclo de estudos e as medidas de salvaguarda das expectativas dos estudantes nele inscritos.
+
+3 - A cessação da ministração de um ciclo de estudos por decisão do órgão legal e estatutariamente competente da instituição de ensino superior implica necessariamente a cessação da sua acreditação.
+
+4 - Na situação prevista no número anterior, a decisão de cessação da ministração do ciclo de estudos deve incluir os prazos de cessação do funcionamento do ciclo de estudos e as medidas de salvaguarda das expectativas dos estudantes nele inscritos.
+
+5 - Os prazos previstos no número anterior não podem ser superiores ao limite do prazo previsto no artigo 59.º, salvo se, à data da decisão de cessação, o referido prazo for inferior ao prazo previsto no n.º 2, aplicando-se, nesse caso, este último.
+
+6 - A cessação da ministração de um ciclo de estudos por iniciativa e decisão do órgão legal e estatutariamente competente da instituição de ensino superior deve ser comunicada de imediato à Agência de Avaliação e Acreditação do Ensino Superior e à Direção-Geral do Ensino Superior, através de procedimento a estabelecer conjuntamente pelos organismos referidos.
+
+7 - A revogação da acreditação de um ciclo de estudos determina a revogação do respetivo registo.
+
+8 - A partir da revogação da acreditação e do registo, não podem ser admitidos novos estudantes, embora, dentro dos prazos de cessação do funcionamento do ciclo de estudos definidos pela Agência de Avaliação e Acreditação do Ensino Superior, ou na decisão de cessação da ministração, possam ser atribuídos os respetivos graus aos estudantes já inscritos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 60.º-A — Tramitação desmaterializada
+
+1 - Todos os pedidos, comunicações e notificações, ou em geral quaisquer declarações, relacionadas com a acreditação e registo de ciclos de estudos que visem conferir graus académicos, entre os interessados e outros intervenientes nos procedimentos previstos no presente diploma, devem ser efetuados através do balcão único eletrónico dos serviços referido nos artigos 5.º e 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, excetuados os relativos a procedimentos contraordenacionais.
+
+2 - Quando, por motivo de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, os atos aí referidos podem ser praticados por qualquer outro meio legalmente admissível.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+## Título IV — Adequação dos ciclos de estudos
+
+### Capítulo I — Princípios gerais
+
+###### Artigo 61.º — Adequação
+
+1 - Os estabelecimentos de ensino superior devem promover a adequação dos cursos que se encontram a ministrar e dos graus que estão autorizados a conferir ao regime jurídico fixado pelo presente decreto-lei.
+
+2 - O processo de adequação visa a reorganização de cada ciclo de estudos em funcionamento e concretiza-se através:
+
+a) Da passagem de um ensino baseado na transmissão de conhecimentos para um ensino baseado no desenvolvimento de competências;
+
+b) Da orientação da formação ministrada para os objectivos específicos que devem ser assegurados pelos ciclos de estudos do subsistema, universitário ou politécnico, em que se insere;
+
+c) Da determinação do trabalho que o estudante deve desenvolver em cada unidade curricular - incluindo, designadamente, quando aplicáveis, as sessões de ensino de natureza colectiva, as sessões de orientação pessoal de tipo tutorial, os estágios, os projectos, os trabalhos no terreno, o estudo e a avaliação - e sua expressão em créditos de acordo com o sistema europeu de transferência e acumulação de créditos (ECTS: European Credit Transfer and Accumulation System);
+
+d) Da fixação do número total de créditos, e consequente duração do ciclo de estudos, dentro dos valores e de acordo com os critérios estabelecidos pelo presente decreto-lei.
+
+3 - A adequação deve ser realizada até ao final do ano lectivo de 2008-2009, inclusive, e nela participam, obrigatoriamente, docentes e alunos, designadamente através dos órgãos científico e pedagógico do estabelecimento de ensino e ou da unidade orgânica, conforme for o caso.
+
+4 - No ano lectivo de 2009-2010, todos os ciclos de estudos devem estar organizados de acordo com o regime jurídico fixado pelo presente decreto-lei.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+### Capítulo II — Registo
+
+###### Artigo 62.º — Registo da adequação dos ciclos de estudos
+
+1 - A entrada em funcionamento da adequação a que se refere o artigo anterior está sujeita a registo.
+
+2 - O registo é efectuado pelo director-geral do Ensino Superior.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 63.º — Instrução dos processos de registo da adequação
+
+1 - O pedido de registo da adequação de um ciclo de estudos é dirigido ao director-geral do Ensino Superior, que zela pelo cumprimento das normas legais aplicáveis.
+
+2 - O processo de registo é instruído com um relatório subscrito pelos órgãos científico e pedagógico do estabelecimento de ensino e ou da unidade orgânica, conforme for o caso, contendo, designadamente:
+
+a) A indicação dos ciclos de estudos em funcionamento que são objecto da adequação;
+
+b) Os objectivos visados pelo ciclo de estudos;
+
+c) A fundamentação do número de créditos que, com base no trabalho estimado dos alunos, é atribuído a cada unidade curricular, incluindo os inquéritos realizados aos estudantes e docentes tendo em vista esse fim;
+
+d) A fundamentação do número total de créditos e da consequente duração do ciclo de estudos, tendo em consideração o disposto, conforme for o caso, nos n.os 1 e 2 do artigo 8.º, no artigo 9.º, nos n.os 1 e 2 do artigo 18.º e no n.º 1 do artigo 19.º;
+
+e) A demonstração da adequação da organização do ciclo de estudos e metodologias de ensino:
+
+i) À aquisição das competências a que se referem, conforme for o caso, os artigos 5.º, 15.º e 28.º;
+
+ii) Aos objectivos fixados, conforme for o caso, pelo n.º 3 do artigo 8.º e pelos n.os 3 e 4 do artigo 18.º;
+
+f) Uma análise comparativa entre a organização fixada para o ciclo de estudos e a de cursos de referência com objectivos similares ministrados no espaço europeu;
+
+g) A forma como os resultados da avaliação externa foram incorporados na organização do ciclo de estudos.
+
+3 - Quando a duração do ciclo de estudos se fundamente em normas jurídicas específicas, práticas consolidadas ou requisitos profissionais excepcionais, conforme previsto no n.º 2 do artigo 8.º, no n.º 2 do artigo 18.º e no n.º 1 do artigo 19.º, cabe ao estabelecimento de ensino superior juntar os documentos aptos a alicerçar essa fundamentação.
+
+4 - O processo de registo é igualmente instruído com a estrutura curricular, o plano de estudos e os créditos, nos termos das normas técnicas a que se refere o artigo 12.º do Decreto-Lei n.º 42/2005, de 22 de Fevereiro.
+
+5 - O Ministro da Ciência, Tecnologia e Ensino Superior, sob proposta do director-geral do Ensino Superior, ouvido o Conselho de Reitores das Universidades Portuguesas, o Conselho Coordenador dos Institutos Superiores Politécnicos e a Associação Portuguesa do Ensino Superior Privado, aprova, por despacho a publicar na 2.ª série do Diário da República, as regras técnicas, os prazos e um instrumento normalizado de apresentação dos pedidos de registo de adequação.
+
+6 - São indeferidos liminarmente os pedidos que não se encontrem formalmente instruídos nos termos fixados pelos números anteriores.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 64.º — Notificação e publicação do despacho de registo da adequação
+
+1 - A decisão sobre os pedidos de registo de adequação deve ser proferida no prazo de 45 dias úteis após a sua recepção.
+
+2 - O pedido de registo é recusado em caso de violação das normas legais e regulamentares aplicáveis.
+
+3 - Quando o pedido de registo tenha sido indeferido ou não tenha sido objecto de decisão no prazo a que se refere o n.º 1, os interessados podem interpor, nos termos gerais de direito, os respectivos meios de impugnação graciosa ou contenciosa.
+
+4 - A tramitação do processo do registo está sujeita às regras do Código do Procedimento Administrativo.
+
+5 - O director-geral do Ensino Superior envia para publicação na 2.ª série do Diário da República o despacho de registo, dando conhecimento do mesmo aos interessados.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+### Capítulo III — Acompanhamento
+
+###### Artigo 65.º — Criação e competências
+
+Por despacho do Ministro da Ciência, Tecnologia e Ensino Superior será criada e regulada uma comissão de acompanhamento do processo de adequação, com as seguintes competências:
+
+a) Acompanhar a execução do processo de adequação dos cursos;
+
+b) Elaborar um relatório anual sobre o processo;
+
+c) Emitir parecer sobre questões genéricas ou específicas relacionadas com o processo de adequação.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+### Capítulo IV — Transição
+
+###### Artigo 66.º — Transição curricular
+
+1 - As regras de transição entre a anterior organização de estudos e a nova organização decorrente do processo de adequação são fixadas pelos órgãos legal e estatutariamente competentes, após audição de docentes e alunos através dos órgãos científico e pedagógico do estabelecimento de ensino e ou da unidade orgânica, conforme for o caso.
+
+2 - As regras de transição devem assegurar:
+
+a) O respeito pelas legítimas expectativas dos alunos;
+
+b) Os necessários regimes de creditação na nova organização de estudos da formação obtida na anterior organização;
+
+c) Que da sua aplicação não resulte um aumento da carga lectiva prevista na anterior organização.
+
+3 - A coexistência entre a nova organização de estudos e a anterior, se prevista nas regras de transição, não deve exceder um ano lectivo, podendo, excepcional e justificadamente, prolongar-se por mais um.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06.
+
+### Capítulo v — Concretização do Processo de Bolonha
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26
+
+###### Artigo 66.º-A — Relatório de concretização do Processo de Bolonha
+
+1 - Os estabelecimentos de ensino superior elaboram, anualmente, um relatório acerca da concretização dos objectivos do Processo de Bolonha.
+
+2 - O relatório deve incluir informação sobre as mudanças operadas, designadamente em matéria pedagógica, no sentido de uma formação orientada para o desenvolvimento das competências dos estudantes, organizada com base no sistema europeu de transferência e acumulação de créditos (ECTS) e onde as componentes de trabalho experimental ou de projecto, entre outras, e a aquisição de competências transversais devem desempenhar um papel decisivo.
+
+3 - O relatório deve incluir informação e indicadores que evidenciem o progresso das mudanças realizadas na instituição e em cada curso e que o permita comparar com a evolução realizada em outras instituições que se constituam como referência.
+
+4 - O relatório deve incluir indicadores objectivos que considerem, designadamente, a evolução do peso das várias componentes do trabalho do estudante no número de horas de trabalho total, nomeadamente total de horas de contacto, componente experimental, componente de projecto.
+
+5 - O relatório deve ainda referir, designadamente:
+
+a) As medidas de apoio à promoção do sucesso escolar;
+
+b) As acções de apoio ao desenvolvimento de competências extracurriculares;
+
+c) As medidas de estímulo à inserção na vida activa.
+
+6 - O relatório deve integrar o contributo dos estudantes e docentes, através de inquéritos ou outras formas de participação, acerca da concretização dos objectivos visados, a promover pelos conselhos pedagógico e científico ou técnico-científico.
+
+7 - O relatório é elaborado para os anos lectivos de 2006-2007 a 2010-2011, inclusive, e é publicado no sítio da Internet do estabelecimento de ensino até 31 de Dezembro seguinte ao término do ano lectivo a que se reporta.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26
+
+## Título V — Novos ciclos de estudos
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 67.º — Regimes aplicáveis
+
+Até à criação e entrada em funcionamento da agência de acreditação, e sem prejuízo do disposto no artigo seguinte, a entrada em funcionamento de novas licenciaturas, mestrados ou doutoramentos fica sujeita:
+
+a) Nos estabelecimentos de ensino público universitário, ao regime em vigor à data da publicação do presente decreto-lei;
+
+b) Nos estabelecimentos de ensino público politécnico, ao regime fixado pelos artigos 69.º a 74.º do presente decreto-lei;
+
+c) Nos estabelecimentos de ensino particular ou cooperativo, ao regime fixado pelos artigos 69.º a 74.º do presente decreto-lei.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26
+
+###### Artigo 68.º — Instrução do processo
+
+1 - Os processos referentes à entrada em funcionamento de novas licenciaturas, mestrados ou doutoramentos são enviados à Direcção-Geral do Ensino Superior, instruídos com:
+
+a) Relatório, subscrito pelo órgão científico legal e estatutariamente competente do estabelecimento de ensino:
+
+i) Descrevendo e fundamentando os objectivos do ciclo de estudos, a sua organização e a adequação dos recursos humanos e materiais às exigências científicas e pedagógicas e à qualidade do ensino;
+
+ii) Enquadrando o ciclo de estudos na rede de formação nacional da respectiva área e explicitando as razões para a sua criação, quando se trate de estabelecimentos de ensino públicos;
+
+b) A estrutura curricular, o plano de estudos e os créditos, nos termos das normas técnicas a que se refere o artigo 12.º do Decreto-Lei n.º 42/2005, de 22 de Fevereiro;
+
+c) A fundamentação do número de créditos que, com base no trabalho estimado dos alunos, é atribuído a cada unidade curricular, incluindo os inquéritos realizados aos estudantes e docentes tendo em vista esse fim;
+
+d) A fundamentação do número total de créditos e da consequente duração do ciclo de estudos tendo em consideração o disposto, conforme for o caso, nos n.os 1 e 2 do artigo 8.º, no artigo 9.º, nos n.os 1 e 2 do artigo 18.º e no n.º 1 do artigo 19.º;
+
+e) A demonstração da adequação da organização do ciclo de estudos e metodologias de ensino:
+
+i) À aquisição das competências a que se referem, conforme for o caso, os artigos 5.º, 15.º e 28.º;
+
+ii) Aos objectivos fixados, conforme for o caso, pelo n.º 3 do artigo 8.º e pelos n.os 3 e 4 do artigo 18.º;
+
+f) Uma análise comparativa entre a organização fixada para o ciclo de estudos e a de cursos de referência com objectivos similares ministrados no espaço europeu.
+
+2 - Quando a duração do ciclo de estudos se fundamente em normas jurídicas específicas, práticas consolidadas ou requisitos profissionais excepcionais, conforme previsto no n.º 2 do artigo 8.º, no n.º 2 do artigo 18.º e no n.º 1 do artigo 19.º, cabe ao estabelecimento de ensino superior juntar os documentos aptos a alicerçar essa fundamentação.
+
+3 - O Ministro da Ciência, Tecnologia e Ensino Superior, sob proposta do director-geral do Ensino Superior, ouvidos o Conselho de Reitores das Universidades Portuguesas, o Conselho Coordenador dos Institutos Superiores Politécnicos e a Associação Portuguesa do Ensino Superior Privado, aprova, por despacho a publicar na 2.ª série do Diário da República, as regras técnicas, os prazos e um instrumento normalizado de apresentação dos pedidos de autorização de funcionamento.
+
+4 - São indeferidos liminarmente os pedidos que não se encontrem formalmente instruídos nos termos fixados pelos números anteriores.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+### Capítulo II — Regime transitório de autorização de funcionamento de novos ciclos de estudos no ensino particular e cooperativo.
+
+###### Artigo 69.º — Autorização de funcionamento de novos ciclos de estudos
+
+1 - Compete ao Ministro da Ciência, Tecnologia e Ensino Superior, sob proposta do director-geral do Ensino Superior, autorizar o funcionamento de novos ciclos de estudos nos termos descritos no presente capítulo.
+
+2 - A competência a que se refere o artigo anterior pode ser delegada no director-geral do Ensino Superior.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26
+
+###### Artigo 70.º — Comissões de especialistas
+
+1 - São constituídas comissões de especialistas para a emissão de parecer sobre a satisfação dos requisitos para a autorização de funcionamento dos ciclos de estudos.
+
+2 - As comissões são constituídas por área de formação e integradas por professores do ensino superior, ou investigadores ou especialistas de reconhecida experiência e competência profissional, nacionais ou estrangeiros, em número não inferior a três.
+
+3 - As comissões são nomeadas por despacho do Ministro da Ciência, Tecnologia e Ensino Superior, sob proposta do director-geral do Ensino Superior, ouvida a Associação Portuguesa do Ensino Superior Privado.
+
+4 - Os membros das comissões são independentes no exercício da sua actividade.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26
+
+###### Artigo 71.º — Processo de apreciação dos pedidos de autorização de funcionamento
+
+1 - A Direcção-Geral do Ensino Superior procede à instrução dos pedidos de autorização de funcionamento, verificando a satisfação dos requisitos a que se refere o artigo 57.º
+
+2 - A tramitação do processo do registo está sujeita às regras do Código do Procedimento Administrativo.
+
+3 - No âmbito da verificação da satisfação dos requisitos, a Direcção-Geral do Ensino Superior pode ouvir, quando o considere necessário, comissões de especialistas, nomeadas por despacho do director-geral do Ensino Superior e integradas por professores do ensino superior, investigadores, ou especialistas de reconhecida experiência e competência profissional, nacionais ou estrangeiros, em número não inferior a três.
+
+4 - Os membros das comissões são independentes no exercício da sua actividade.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26
+
+###### Artigo 72.º — Decisão sobre os pedidos de autorização de funcionamento
+
+1 - A decisão sobre os pedidos de autorização de funcionamento é proferida:
+
+a) Em relação aos ciclos de estudos conducentes ao grau de licenciado, no prazo máximo de quatro meses após a sua recepção;
+
+b) Em relação aos restantes ciclos de estudos, no prazo máximo de sete meses após a sua recepção.
+
+2 - Ultrapassado o prazo referido no número anterior, os pedidos referentes à autorização de funcionamento de ciclos de estudos consideram-se deferidos tacitamente.
+
+3 - O funcionamento de um ciclo de estudos que vise a atribuição de um grau académico sem a prévia autorização de funcionamento ou seu deferimento tácito determina o indeferimento do pedido.
+
+4 - O ensino ministrado nos termos do número anterior não é passível de reconhecimento ou equivalência.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26
+
+###### Artigo 73.º — Notificação e publicação
+
+1 - O despacho de deferimento é notificado por escrito à entidade requerente.
+
+2 - Do despacho de deferimento constam, em relação ao ciclo de estudos em causa:
+
+a) O nome da instituição de ensino superior e unidade orgânica, se aplicável, que o ministra;
+
+b) O grau académico que confere;
+
+c) A denominação;
+
+d) A organização em percursos alternativos, quando aplicável;
+
+e) Quando se trate dos graus de licenciado e de mestre:
+
+i) O número de créditos, segundo o sistema europeu de transferência e acumulação de créditos (ECTS), necessário à obtenção do grau;
+
+ii) A duração normal do ciclo de estudos;
+
+iii) Os créditos, por área científica, que devem ser reunidos para a obtenção do grau.
+
+3 - Recebida a notificação do deferimento, a entidade requerente procede à publicação do despacho na 2.ª série do Diário da República.
+
+4 - A publicação inclui, em anexo, quando se trate dos graus de licenciado e de mestre, o plano de estudos, indicando, para cada unidade curricular, a área científica em que se insere, a duração, nomeadamente semestral, anual ou outra, o tempo de trabalho, em horas totais e horas de contacto, e o número de ECTS.
+
+5 - Tendo ocorrido deferimento tácito nos termos do n.º 2 do artigo anterior, a entidade requerente procede à publicação de aviso na 2.ª série do Diário da República, do qual constam, em relação ao ciclo de estudos em causa, os elementos a que se referem os n.os 2 e 4, bem como a data de envio do pedido à Direcção-Geral do Ensino Superior e a data em que se formou o deferimento tácito.
+
+6 - Na data do envio do aviso para publicação no Diário da República, a entidade requerente remete cópia do mesmo à Direcção-Geral do Ensino Superior.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26
+
+###### Artigo 74.º — Cancelamento da autorização de funcionamento
+
+1 - O incumprimento dos requisitos legais ou das disposições estatutárias e a não observância dos critérios científicos e pedagógicos que justificaram a autorização de funcionamento, bem como a modificação do projecto educativo do ciclo de estudos, designadamente através de alterações não fundamentadas realizadas nos termos do capítulo seguinte, determinam o seu cancelamento.
+
+2 - A decisão de cancelamento da autorização de funcionamento compete ao Ministro da Ciência, Tecnologia e Ensino Superior, sob proposta do director-geral do Ensino Superior, precedida da audiência prévia dos interessados, e é publicada na 2.ª série do Diário da República.
+
+3 - Na situação prevista no número anterior são definidos os prazos de cessação do funcionamento do ciclo de estudos e as medidas de salvaguarda das expectativas dos estudantes nele inscritos.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26
+
+###### Artigo 74.º-A — Prazos
+
+1 - Os prazos em que devem ser apresentados os pedidos de registo de autorização de funcionamento para novos ciclos de estudos de licenciatura, integrados de mestrado e de mestrado para cada ano lectivo são fixados por despacho do director-geral do Ensino Superior, ouvidos o Conselho de Reitores das Universidades Portuguesas, o Conselho Coordenador dos Institutos Superiores Politécnicos e a Associação Portuguesa do Ensino Superior Privado.
+
+2 - Não estão sujeitos a prazo de apresentação os pedidos de registo referentes:
+
+a) A ciclos de estudos de doutoramento;
+
+b) A ciclos de estudos de mestrado a realizar em regime de associação com instituições nacionais ou estrangeiras.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26
+
+## Título VI — Alterações
+
+###### Artigo 75.º — Regime aplicável às alterações
+
+A alteração dos elementos caraterizadores de um ciclo de estudos conferente de grau, modificando ou não os seus objetivos, fica sujeita ao regime fixado pelo presente título.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 76.º — Regime aplicável às alterações
+
+A alteração dos elementos caraterizadores de um ciclo de estudos, modificando ou não os seus objetivos, fica sujeita ao regime fixado pelo presente título.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 76.º-A — Elementos caraterizadores de um ciclo de estudos
+
+Consideram-se elementos caraterizadores de um ciclo de estudos:
+
+a) A denominação;
+
+b) A duração;
+
+c) O número de créditos;
+
+d) Os percursos alternativos como ramos, variantes, áreas de especialização de mestrado, especialidades de doutoramento;
+
+e) A área ou áreas de formação predominantes;
+
+f) A área ou áreas de formação obrigatórias;
+
+g) O peso do conjunto das áreas de formação obrigatórias no total dos créditos;
+
+h) O peso de cada área de formação predominante no total dos créditos;
+
+i) O plano de estudos;
+
+j) O número de horas de contacto;
+
+k) Os estabelecimentos de ensino superior associados, no caso dos ciclos de estudos acreditados para ministração em regime de associação.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 76.º-B — Entrada em funcionamento das alterações
+
+1 - A entrada em funcionamento das alterações aos elementos caraterizadores de um ciclo de estudos fica sujeita:
+
+a) Quando não modifiquem os seus objetivos, a registo na Direção-Geral do Ensino Superior;
+
+b) Quando modifiquem os seus objetivos, a um procedimento de acreditação nos termos fixados pela Agência de Avaliação e Acreditação do Ensino Superior e a subsequente registo na Direção-Geral do Ensino Superior.
+
+2 - Compete ao conselho de administração da Agência de Avaliação e Acreditação do Ensino Superior, ouvida a Direção-Geral do Ensino Superior, através de deliberação a publicar na 2.ª série do Diário da República, definir as situações em que uma alteração aos elementos caraterizadores de um ciclo de estudos implica uma modificação dos objetivos do mesmo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 76.º-C — Instrução do processo de registo e publicação
+
+Os procedimentos de registo a que se refere o n.º 1 do artigo anterior, bem como da respetiva publicação, são aprovados por portaria do membro do Governo responsável pela área do ensino superior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 77.º — Início de funcionamento
+
+O início de funcionamento das alterações está sujeito a comunicação prévia à Direcção-Geral do Ensino Superior e a publicação na 2.ª série do Diário da República.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26
+
+###### Artigo 78.º — Instrução dos processos de alteração
+
+1 - O pedido de registo de alteração num ciclo de estudos é dirigido ao director-geral do Ensino Superior e instruído com os elementos necessários à caracterização e fundamento da alteração.
+
+2 - O Ministro da Ciência, Tecnologia e Ensino Superior, sob proposta do director-geral do Ensino Superior, ouvido o Conselho de Reitores das Universidades Portuguesas, o Conselho Coordenador dos Institutos Superiores Politécnicos e a Associação Portuguesa do Ensino Superior Privado, aprova, por despacho a publicar na 2.ª série do Diário da República, as regras técnicas, os prazos e um instrumento normalizado de apresentação dos pedidos de registo das alterações.
+
+3 - São indeferidos liminarmente os pedidos que não se encontrem formalmente instruídos nos termos fixados pelos números anteriores.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26
+
+###### Artigo 79.º — Decisão sobre os processos de alteração
+
+1 - A decisão sobre os processos de alteração deve ser proferida no prazo de 30 dias úteis sobre a recepção do pedido.
+
+2 - O registo da alteração só pode ser recusado quando exista violação das normas legais aplicáveis.
+
+3 - A tramitação do processo do registo está sujeita às regras do Código do Procedimento Administrativo.
+
+4 - Ultrapassado o prazo referido no n.º 1, o pedido de registo considera-se deferido tacitamente.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26
+
+###### Artigo 79.º-A — Indeferimento liminar
+
+São liminarmente indeferidos os requerimentos de registo apresentados à Direção-Geral do Ensino Superior ao abrigo do disposto na alínea a) do n.º 1 do artigo 76.º-B que se refiram a alterações abrangidas pela deliberação a que se refere o n.º 2 do artigo 76.º-B.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 79.º-B — Prazo de decisão
+
+O registo a que se refere a alínea a) do n.º 1 do artigo 76.º-B considera-se tacitamente deferido se não for objeto de decisão no prazo de 60 dias após a receção do respetivo pedido.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 79.º-C — Prazo
+
+Salvo motivos ponderosos, cuja pertinência é avaliada e decidida pela Agência de Avaliação e Acreditação do Ensino Superior, as alterações a que se refere a alínea b) do n.º 1 do artigo 76.º-B só podem ocorrer após o funcionamento efetivo do ciclo de estudos por um período igual ao da sua duração normal, contado a partir da acreditação ou da última alteração ao abrigo da mesma norma.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 80.º — Publicação das alterações
+
+A publicação das alterações deve mencionar expressamente o número e a data de registo na Direção-Geral do Ensino Superior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26
+
+## Título VII — Normas finais e transitórias
+
+###### Artigo 80.º-A — Cooperação administrativa
+
+As autoridades competentes nos termos do presente diploma participam na cooperação administrativa, no âmbito dos procedimentos relativos a prestadores provenientes de outro Estado-Membro, nos termos do capítulo VI do Decreto-Lei n.º 92/2010, de 26 de julho, nomeadamente através do Sistema de Informação do Mercado Interno.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 80.º-B — Título de doutor honoris causa
+
+1 - As instituições de ensino superior podem atribuir o título de doutor honoris causa quando tenham doutoramentos acreditados.
+
+2 - O regime de atribuição do título de doutor honoris causa é aprovado pelo órgão legal e estatutariamente competente do estabelecimento de ensino superior.
+
+3 - A atribuição do título de doutor honoris causa a individualidades estrangeiras é precedida de audição do Ministro dos Negócios Estrangeiros.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), em vigor a partir de 2018-08-17
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 81.º — Mestrados e doutoramentos em curso
+
+Aos estudantes que tenham solicitado admissão ao mestrado ou ao doutoramento aplica-se o regime jurídico vigente à data em que foram apresentados os respectivos pedidos.
+
+###### Artigo 82.º — Prazos especiais
+
+1 - Os estabelecimentos de ensino que, excepcionalmente, pretendam efectuar pedidos de registo de adequação, de autorização de funcionamento de novas formações e de registo de alterações para a entrada em funcionamento no ano lectivo de 2006-2007 devem remetê-los à Direcção-Geral do Ensino Superior até ao dia 31 de Março de 2006.
+
+2 - Os pedidos de registo de adequação, de autorização de funcionamento de novas formações e de registo de alterações para a entrada em funcionamento no ano lectivo de 2007-2008 devem ser remetidos à Direcção-Geral do Ensino Superior até ao dia 15 de Novembro de 2006.
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14
+
+###### Artigo 83.º — Acreditação dos ciclos de estudos em funcionamento
+
+1 - Os ciclos de estudos em funcionamento quando do início da actividade da agência de acreditação são objecto do procedimento de acreditação.
+
+2 - O procedimento a que se refere o número anterior é realizado até ao final do ano lectivo de 2010-2011.»
+
+2 - A epígrafe do capítulo ii do título v passa a ser «Regime transitório de autorização de funcionamento de novos ciclos de estudos.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26
+
+###### Artigo 84.º — Norma revogatória
+
+1 - Com a entrada em vigor do presente decreto-lei são revogados:
+
+a) Os artigos 25.º a 29.º e 36.º a 39.º do Regime Jurídico do Desenvolvimento e da Qualidade do Ensino Superior, aprovado pela Lei n.º 1/2003, de 6 de Janeiro;
+
+b) O Decreto-Lei n.º 216/92, de 13 de Outubro, com excepção do n.º 4 do artigo 4.º e dos artigos 30.º e 31.º;
+
+c) Os n.os 1, 2 e 4 do artigo 39.º, o n.º 5 do artigo 53.º, o n.º 1 do artigo 57.º e os artigos 58.º a 60.º, 64.º e 67.º do Estatuto do Ensino Superior Particular e Cooperativo, aprovado pelo Decreto-Lei n.º 16/94, de 22 de Janeiro, alterado, por ratificação, pela Lei n.º 37/94, de 11 de Novembro, e pelo Decreto-Lei n.º 94/99, de 23 de Março.
+
+2 -(Revogado).
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487), em vigor a partir de 2013-09-06
+
+###### Artigo 85.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 16 de Fevereiro de 2006. - José Sócrates Carvalho Pinto de Sousa - José Mariano Rebelo Pires Gago.
+
+Promulgado em 20 de Março de 2006.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 21 de Março de 2006.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

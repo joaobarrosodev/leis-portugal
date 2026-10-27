@@ -1,0 +1,134 @@
+---
+schema_version: '1.0'
+id: pt:dre:636949:por
+title: Resolução da Assembleia da República n.º 34/2007
+short_title: null
+summary: Promoção do Baixo Mondego
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 34/2007
+official_date: null
+publication_date: '2007-08-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 155/2007, Série I de 2007-08-13
+  number: '155'
+  series: I
+  supplement: null
+  pages: 5202 - 5203
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/08/15500/0520205203.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/34/2007/08/13/p/dre/pt/html
+  oj: null
+  dre: '636949'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/34-2007-636949
+  internal: pt:dre:636949:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/34-2007-636949
+  metadata_url: https://data.dre.pt/eli/resolassrep/34/2007/08/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/34-2007-636949
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:19:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 03e815035b495bc5de536f9debcd2c5ae4aa8f890baef6718ca19d670d1af6bc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:19:27Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproveitamento Agrícola
+- Aproveitamento Hidroagrícola
+- ARH
+- Bacia Hidrográfica
+- Coimbra
+- Desenvolvimento Local
+- Figueira da Foz
+- Recursos Hídricos
+- RIO Mondego
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:19:27Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 34/2007
+
+Promoção do Baixo Mondego
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que adopte e faça aplicar a toda a região do Vale do Baixo Mondego, situada entre Coimbra e a Figueira da Foz, uma estruturada e consequente estratégia de desenvolvimento racional e sustentado, contemplando, designadamente, os seguintes objectivos:
+
+a) Regularização dos rios Arunca (8 km), Pranto (20 km), Ega (8,5 km), Foja (8 km), ribeira de Ançã e da vala de Vale Travesso;
+
+b) Compatibilização da regularização hídrica com a produção e disponibilidade energética para as explorações e as populações;
+
+c) Construção das estações elevatórias do Arunca, Ega, Pranto e Quada-Lares;
+
+d) Recuperação ambiental do leito central do Mondego e do leito periférico direito;
+
+e) Reabilitação do canal condutor geral;
+
+f) Remodelação da escada de peixes do açude-ponte de Coimbra;
+
+g) Reconstrução das infra-estruturas afectadas pelas cheias de 2001;
+
+h) Constituição de associações de utilizadores compostas pela totalidade ou parte dos utilizadores do domínio público hídrico de uma bacia ou de uma sub-bacia hidrográfica, às quais seriam atribuídos os seguintes direitos:
+
+Ao recebimento de parte dos valores resultantes da cobrança da taxa sobre os recursos hídricos, mediante a celebração de contratos-programa;
+
+À delegação de competências, pela Administração de Região Hidrográfica, da totalidade ou de parte das águas abrangidas pelos títulos de utilização geridos por cada associação;
+
+De preferência na atribuição de licenças ou de concessões;
+
+De concessão da exploração total ou parcial de empreendimentos de fins múltiplos;
+
+i) Implementação de um sistema de gestão da água;
+
+j) Melhoria das acessibilidades no vale e ao seu relacionamento com o exterior;
+
+l) Infra-estruturação de apoio ao uso urbano do vale e do rio Mondego, concebendo o primeiro como um corredor verde intermunicipal;
+
+m) Aproveitamento adequado de todo o potencial produtivo agrícola, nomeadamente, através da promoção de emparcelamentos fundiários, da organização dos proprietários e dos produtores e de um ordenamento das produções, estimulando, também, a promoção da agricultura por métodos biológicos;
+
+n) Promoção de uma participação expressiva e interessada dos cidadãos e entidades abrangidos pelas medidas constantes de uma tal estratégia de desenvolvimento.
+
+Aprovada em 19 de Julho de 2007.
+
+O Presidente da Assembleia da República, Jaime Gama.

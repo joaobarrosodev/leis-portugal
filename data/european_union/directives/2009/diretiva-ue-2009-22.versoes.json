@@ -1,0 +1,476 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009L0022:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0022-20220101",
+ "dre_path": null,
+ "source_lastmod": "2022-01-01",
+ "versions": [
+  {
+   "date": "2009-05-01",
+   "future": false,
+   "celex": "32009L0022",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "480fb8dcfbe7861e",
+    "dbe764020945be8b",
+    "ed045f2ac59e3684",
+    "919ec69e5f974621",
+    "9a4eeccf6f4e1745",
+    "7ea883a867105ecf",
+    "984f722a47989291",
+    "c2b5b8092ba395d7",
+    "310fa74682eb3b91",
+    "7727e33d5018fb4f",
+    "c10ff7d22c6a5f6d",
+    "d7f9317e6fecb378",
+    "2417c8aefb513d60"
+   ]
+  },
+  {
+   "date": "2013-07-08",
+   "future": false,
+   "celex": "02009L0022-20130708",
+   "acts": [
+    {
+     "id": "eu:celex:32013L0011:por",
+     "title": "DIRETIVA 2013/11/UE DO PARLAMENTO EUROPEU E DO CONSELHO Diretiva RAL de 21 de maio de 2013",
+     "published": null,
+     "celex": "32013L0011"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 11.º — Destinatários",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita LISTA DAS DIRECTIVAS REFERIDAS NO ARTIGO 1.º ([^5^](http://publications.europa.eu/resource/cellar/f25b4bcf-b93c-4f99-b861-90a6e9e0a2cb.0018.03/DOC_1#E0005))",
+    "Adita ANEXO II",
+    "Adita PARTE A",
+    "Adita Directiva revogada e suas alterações sucessivas",
+    "Adita (referidas no artigo 9.º)",
+    "Adita PARTE B",
+    "Adita Prazos de transposição para o direito nacional e de aplicação",
+    "Adita (referidos no artigo 9.º)",
+    "Adita ANEXO III"
+   ],
+   "fragments": [
+    "787758e42b204f1c",
+    "dbe764020945be8b",
+    "ed045f2ac59e3684",
+    "919ec69e5f974621",
+    "9a4eeccf6f4e1745",
+    "7ea883a867105ecf",
+    "984f722a47989291",
+    "c2b5b8092ba395d7",
+    "310fa74682eb3b91",
+    "7727e33d5018fb4f",
+    "c10ff7d22c6a5f6d",
+    "50f8d932d5311406",
+    "d664376e2a8dcecd",
+    "f27d3cf7efafd232",
+    "852174729551523b",
+    "87cee521b2f0bb1e",
+    "3a1a6286d541b526",
+    "ace51055039858bb",
+    "6041be3baf7dcb43",
+    "2ef192e8eee7944c",
+    "dc4f5c56bb1fe5eb",
+    "99961e0de0a5ff9a",
+    "023e3b8a43f80749"
+   ]
+  },
+  {
+   "date": "2016-01-09",
+   "future": false,
+   "celex": "02009L0022-20160109",
+   "acts": [
+    {
+     "id": "eu:celex:32013R0524:por",
+     "title": "REGULAMENTO (UE) N. o 524/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de maio de 2013",
+     "published": null,
+     "celex": "32013R0524"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Âmbito de aplicação",
+    "Altera Artigo 6.º — Relatórios",
+    "Altera Notas",
+    "Adita [►M2](http://publications.europa.eu/resource/celex/32013R0524) LISTA DOS ATOS DA UNIÃO◄ REFERIDAS NO ARTIGO 1.º ([^5^](http://publications.europa.eu/resource/cellar/ee8b05f6-e289-44a8-8b26-86aa8b8d0c76.0015.03/DOC_1#E0005))",
+    "Suprime LISTA DAS DIRECTIVAS REFERIDAS NO ARTIGO 1.º ([^5^](http://publications.europa.eu/resource/cellar/f25b4bcf-b93c-4f99-b861-90a6e9e0a2cb.0018.03/DOC_1#E0005))"
+   ],
+   "fragments": [
+    "57a4090bf04ddd80",
+    "6adfd5fff4267deb",
+    "ed045f2ac59e3684",
+    "919ec69e5f974621",
+    "9a4eeccf6f4e1745",
+    "7ea883a867105ecf",
+    "e462b13ad4d06670",
+    "c2b5b8092ba395d7",
+    "310fa74682eb3b91",
+    "7727e33d5018fb4f",
+    "c10ff7d22c6a5f6d",
+    "50f8d932d5311406",
+    "d664376e2a8dcecd",
+    "c13c4c57593fb438",
+    "852174729551523b",
+    "87cee521b2f0bb1e",
+    "3a1a6286d541b526",
+    "ace51055039858bb",
+    "6041be3baf7dcb43",
+    "2ef192e8eee7944c",
+    "dc4f5c56bb1fe5eb",
+    "99961e0de0a5ff9a",
+    "bf164e212737385d"
+   ]
+  },
+  {
+   "date": "2022-01-01",
+   "future": false,
+   "celex": "02009L0022-20220101",
+   "acts": [
+    {
+     "id": "eu:celex:32018R0302:por",
+     "title": "REGULAMENTO (UE) 2018/302 DO PARLAMENTO EUROPEU E DO CONSELHO de 28 de fevereiro de 2018",
+     "published": null,
+     "celex": "32018R0302"
+    },
+    {
+     "id": "eu:celex:32019L0770:por",
+     "title": "DIRETIVA (UE) 2019/770 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019",
+     "published": null,
+     "celex": "32019L0770"
+    },
+    {
+     "id": "eu:celex:32019L0771:por",
+     "title": "DIRETIVA (UE) 2019/771 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019",
+     "published": null,
+     "celex": "32019L0771"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Notas",
+    "Adita [►M2](http://publications.europa.eu/resource/celex/32013R0524) LISTA DOS ATOS DA UNIÃO◄ REFERIDAS NO ARTIGO 1.º ([^1^](http://publications.europa.eu/resource/cellar/f1ed8c7c-5387-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0001))",
+    "Suprime [►M2](http://publications.europa.eu/resource/celex/32013R0524) LISTA DOS ATOS DA UNIÃO◄ REFERIDAS NO ARTIGO 1.º ([^5^](http://publications.europa.eu/resource/cellar/ee8b05f6-e289-44a8-8b26-86aa8b8d0c76.0015.03/DOC_1#E0005))"
+   ],
+   "fragments": [
+    "3be1b5500740c9ff",
+    "6adfd5fff4267deb",
+    "cdb57e3be7f1b53b",
+    "919ec69e5f974621",
+    "9a4eeccf6f4e1745",
+    "7ea883a867105ecf",
+    "a1efeede5b0f31c9",
+    "c2b5b8092ba395d7",
+    "310fa74682eb3b91",
+    "7727e33d5018fb4f",
+    "c10ff7d22c6a5f6d",
+    "50f8d932d5311406",
+    "d664376e2a8dcecd",
+    "6aa027e4f0d320b3",
+    "852174729551523b",
+    "87cee521b2f0bb1e",
+    "3a1a6286d541b526",
+    "ace51055039858bb",
+    "6041be3baf7dcb43",
+    "2ef192e8eee7944c",
+    "dc4f5c56bb1fe5eb",
+    "99961e0de0a5ff9a",
+    "4c4982441542111b"
+   ]
+  }
+ ],
+ "fragments": {
+  "480fb8dcfbe7861e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Abril de 2009\n\nrelativa às acções inibitórias em matéria de protecção dos interesses dos consumidores\n\n(Versão codificada)\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 95.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/9f4748ef-f612-41cb-bc89-b2a7a2a64949.0018.02/DOC_1#ntr1-L_2009110PT.01003001-E0001),\n\nDeliberando nos termos do artigo 251.º do Tratado [([^2])](http://publications.europa.eu/resource/cellar/9f4748ef-f612-41cb-bc89-b2a7a2a64949.0018.02/DOC_1#ntr2-L_2009110PT.01003001-E0002),\n\nConsiderando o seguinte:\n\n(1) A Directiva 98/27/CE do Parlamento Europeu e do Conselho, de 19 de Maio de 1998, relativa às acções inibitórias em matéria de protecção dos interesses dos consumidores [([^3])](http://publications.europa.eu/resource/cellar/9f4748ef-f612-41cb-bc89-b2a7a2a64949.0018.02/DOC_1#ntr3-L_2009110PT.01003001-E0003), foi por diversas vezes alterada de modo substancial [([^4])](http://publications.europa.eu/resource/cellar/9f4748ef-f612-41cb-bc89-b2a7a2a64949.0018.02/DOC_1#ntr4-L_2009110PT.01003001-E0004). Por razões de clareza e racionalidade, deverá proceder-se à codificação da referida directiva.\n\n(2) Certas directivas, referidas no anexo I da presente directiva, estabelecem normas de protecção dos interesses dos consumidores.\n\n(3) Os mecanismos vigentes a nível nacional e comunitário para assegurar o cumprimento das referidas directivas nem sempre permitem que se ponha termo atempadamente às infracções lesivas dos interesses colectivos dos consumidores. Por interesses colectivos entendem-se os interesses que não constituem uma mera cumulação dos interesses dos particulares que tenham sido lesados por uma infracção. Tal não prejudica as acções e os recursos individuais intentados por particulares que tenham sido lesados por uma infracção.\n\n(4) No que se refere à cessação de práticas ilícitas segundo a legislação nacional aplicável, a eficácia das regras nacionais de transposição das referidas directivas, incluindo as regras de protecção para além do nível previsto nessas directivas, na medida em que sejam compatíveis com o Tratado e permitidas por essas directivas, pode ser entravada caso tais práticas produzam efeitos num Estado-Membro diferente daquele em que as referidas práticas têm origem.\n\n(5) Essas dificuldades podem prejudicar o bom funcionamento do mercado interno, tendo a consequência de que basta deslocar a origem de uma prática ilícita para outro país para a subtrair ao cumprimento da lei. Tal circunstância constitui uma distorção da concorrência.\n\n(6) Estas mesmas dificuldades são de natureza a afectar a confiança dos consumidores no mercado interno e podem limitar o âmbito de acção das organizações representativas dos interesses colectivos dos consumidores ou dos organismos públicos independentes responsáveis pela protecção dos interesses colectivos dos consumidores, lesados por práticas que constituem infracções ao direito comunitário.\n\n(7) Essas práticas ultrapassam muitas vezes as fronteiras entre os Estados-Membros. É necessário e urgente aproximar em certa medida as disposições nacionais que impõem a cessação de tais práticas ilícitas, independentemente do país em que a prática ilícita tenha produzido efeitos. Em sede de competência, essa aproximação não prejudica as normas de direito internacional privado nem as convenções em vigor entre os Estados-Membros, e respeita simultaneamente as obrigações gerais dos Estados-Membros decorrentes do Tratado, especialmente as que dizem respeito ao bom funcionamento do mercado interno.\n\n(8) O objectivo da acção prevista só pode ser alcançado pela Comunidade. Por conseguinte, incumbe à Comunidade agir.\n\n(9) O terceiro parágrafo do artigo 5.º do Tratado estabelece que a Comunidade não deve exceder o necessário para atingir os objectivos do Tratado. Nos termos deste artigo, deve-se ter, tanto quanto possível, em conta as especificidades das ordens jurídicas internas, deixando aos Estados-Membros a possibilidade de escolherem entre diferentes opções de efeitos equivalentes. Os tribunais ou as autoridades administrativas competentes para conhecer dos processos referidos na presente directiva deverão poder examinar os efeitos de decisões anteriores.\n\n(10) Uma dessas opções deverá consistir na possibilidade de prever que um ou mais organismos públicos independentes, especialmente responsáveis pela protecção dos interesses colectivos dos consumidores, intentem as acções previstas na presente directiva. Outra opção deverá consistir na possibilidade do exercício deste direito por organizações cujo objecto consista na protecção dos interesses colectivos dos consumidores, segundo os critérios definidos na legislação nacional.\n\n(11) Os Estados-Membros deverão poder escolher entre estas duas opções ou combiná-las, designando a nível nacional os organismos e/ou organizações com legitimidade para agir, para efeitos da presente directiva.\n\n(12) Com o propósito de prevenir infracções intracomunitárias, deverá aplicar-se a esses organismos e/ou organizações o princípio do reconhecimento mútuo. Os Estados-Membros comunicarão à Comissão, a pedido das respectivas entidades nacionais, o nome e objecto das respectivas entidades nacionais com legitimidade para intentar no seu próprio país, as acções previstas pela presente directiva.\n\n(13) Incumbe à Comissão assegurar a publicação de uma lista dessas entidades no *Jornal Oficial da União Europeia*. Enquanto não for publicada nenhuma declaração em contrário, presume-se que as entidades com legitimidade para agir o são se o seu nome estiver incluído nessa lista.\n\n(14) Os Estados-Membros deverão poder exigir uma consulta prévia pelo requerente que pretenda intentar a acção inibitória, a fim de permitir ao requerido fazer cessar a infracção que é objecto do litígio. Os Estados-Membros deverão ter a possibilidade de exigir que essa consulta prévia seja realizada em conjunto com o organismo público independente designado por esses Estados-Membros.\n\n(15) Tendo os Estados-Membros determinado que se proceda a essa consulta prévia, é necessário fixar um prazo de duas semanas a contar da recepção do pedido de consulta, no termo do qual, se não se conseguir pôr termo à infracção, o requerente terá o direito de recorrer imediatamente ao tribunal ou à autoridade administrativa competentes.\n\n(16) É conveniente que a Comissão elabore um relatório sobre o funcionamento da presente directiva e, especialmente, sobre o seu âmbito e sobre o funcionamento da consulta prévia.\n\n(17) A aplicação da presente directiva não deverá prejudicar a aplicação das normas comunitárias de concorrência.\n\n(18) A presente directiva não deverá prejudicar as obrigações dos Estados-Membros relativas aos prazos de transposição e de aplicação das directivas, indicados na parte B do anexo II,\n\nAPROVARAM A PRESENTE DIRECTIVA:"
+  },
+  "dbe764020945be8b": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1. A presente directiva tem por objecto aproximar as disposições legislativas, regulamentares e administrativas dos Estados-Membros relativas às acções inibitórias referidas no artigo 2.º, para a protecção dos interesses colectivos dos consumidores incluídos nas directivas enumeradas no anexo I, para garantir o bom funcionamento do mercado interno.\n\n2. Para efeitos da presente directiva, entende-se por infracção todo e qualquer acto contrário ao disposto nas directivas enumeradas no anexo I, transpostas para a ordem jurídica interna dos Estados-Membros e que prejudique os interesses colectivos referidos no n.º 1."
+  },
+  "ed045f2ac59e3684": {
+   "fragment_id": "Artigo 2.º — Acções inibitórias",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Acções inibitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Acções inibitórias\n\n1. Os Estados-Membros designam os tribunais ou as autoridades administrativas competentes para conhecer das acções e recursos intentados pelas entidades com legitimidade para agir nos termos do artigo 3.º a fim de que:\n\na) Seja tomada uma decisão, com a devida brevidade, se for caso disso mediante um processo expedito, com vista à cessação ou proibição de qualquer infracção;\n\nb) Sempre que tal se justifique, sejam determinadas medidas como por exemplo a publicação integral ou parcial da decisão, na forma considerada adequada, e/ou a publicação de uma declaração rectificativa tendo em vista eliminar os efeitos persistentes da infracção;\n\nc) Na medida em que o sistema jurídico do Estado-Membro em causa o permita, e em caso de não cumprimento da decisão no prazo fixado pelos tribunais ou pelas autoridades administrativas, o requerido que deva cumprir seja obrigado a pagar ao erário público, ou a qualquer beneficiário designado ou previsto na legislação nacional, um montante fixo por cada dia de atraso ou qualquer outro montante previsto na legislação nacional para garantir a execução das decisões.\n\n2. A presente directiva não prejudica as normas de direito internacional privado no que se refere à lei aplicável, conduzindo normalmente à aplicação da lei do Estado-Membro em que a infracção tem origem ou da lei do Estado-Membro em que a infracção produz efeitos."
+  },
+  "919ec69e5f974621": {
+   "fragment_id": "Artigo 3.º — Legitimidade para intentar uma acção",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Legitimidade para intentar uma acção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Legitimidade para intentar uma acção\n\nPara efeitos da presente directiva, têm legitimidade para intentar uma acção os organismos ou organizações que, devidamente constituídos segundo a legislação de um Estado-Membro, tenham interesse legítimo em fazer respeitar as disposições referidas no artigo 1.º e designadamente:\n\na) Um ou vários organismos públicos independentes, especificamente responsáveis pela protecção dos interesses previstos no artigo 1.º, nos Estados-Membros em que esses organismos existam; e/ou\n\nb) As organizações que tenham por finalidade proteger os interesses previstos no artigo 1.º, de acordo com os critérios previstos na respectiva legislação nacional."
+  },
+  "9a4eeccf6f4e1745": {
+   "fragment_id": "Artigo 4.º — Infracções intracomunitárias",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Infracções intracomunitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Infracções intracomunitárias\n\n1. Cada Estado-Membro toma as medidas necessárias para assegurar que, em caso de infracção com origem nesse Estado-Membro, qualquer entidade com legitimidade para intentar uma acção de outro Estado-Membro em que os interesses por ela protegidos sejam afectados pela infracção possa recorrer ao tribunal ou à autoridade administrativa referidos no artigo 2.º, mediante a apresentação da lista prevista no n.º 3 do presente artigo. Os tribunais ou as autoridades administrativas aceitam essa lista como prova da legitimidade para intentar uma acção da requerente, sem prejuízo do seu direito de examinar se o objecto da requerente justifica o exercício da acção num determinado caso.\n\n2. Com o propósito de prevenir infracções intracomunitárias, e sem prejuízo dos direitos reconhecidos a outras entidades pela legislação nacional, os Estados-Membros comunicam à Comissão, a pedido das respectivas entidades nacionais com interesse legítimo, que essas entidades têm legitimidade para intentar uma acção ao abrigo do artigo 2.º. Os Estados-Membros informam a Comissão do nome e objecto dessas entidades.\n\n3. A Comissão elabora uma lista das entidades referidas no n.º 2, especificando o seu objecto. Essa lista é publicada no *Jornal Oficial da União Europeia*. As alterações dessa lista são publicadas sem demora e a lista actualizada é publicada semestralmente."
+  },
+  "7ea883a867105ecf": {
+   "fragment_id": "Artigo 5.º — Consulta prévia",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Consulta prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Consulta prévia\n\n1. Os Estados-Membros podem prever ou manter em vigor disposições que estabeleçam que o interessado que tencione intentar uma acção inibitória só o pode fazer depois de ter tentado pôr termo à infracção, em consulta com o requerido ou com o requerido e uma entidade nos termos da alínea a) do artigo 3.º do Estado-Membro em que será intentada a acção inibitória. Cabe aos Estados-Membros decidir se o interessado que tencione intentar essa acção deve consultar a referida entidade. Se a cessação da infracção não se concretizar no prazo de duas semanas a contar da recepção do pedido das consultas, o interessado em causa pode intentar imediatamente a acção inibitória.\n\n2. A Comissão é notificada das regras da consulta prévia adoptadas pelos Estados-Membros, que são publicadas no *Jornal Oficial da União Europeia*."
+  },
+  "984f722a47989291": {
+   "fragment_id": "Artigo 6.º — Relatórios",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Relatórios\n\n1. De três em três anos, e pela primeira vez o mais tardar em 2 de Julho de 2003, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação da presente directiva.\n\n2. No seu primeiro relatório, a Comissão analisa especialmente:\n\na) O âmbito de aplicação da presente directiva em relação à protecção dos interesses colectivos das pessoas que exerçam uma actividade comercial, industrial, artesanal ou uma profissão liberal;\n\nb) O âmbito de aplicação da presente directiva, determinado em relação às directivas enumeradas no anexo I;\n\nc) Se a consulta prévia prevista no artigo 5.º contribuiu para a protecção efectiva dos consumidores.\n\nEsse relatório pode ser eventualmente acompanhado de propostas de alteração da presente directiva."
+  },
+  "c2b5b8092ba395d7": {
+   "fragment_id": "Artigo 7.º — Normas mais favoráveis",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Normas mais favoráveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Normas mais favoráveis\n\nA presente directiva não prejudica a adopção ou a manutenção pelos Estados-Membros de disposições que garantam, às entidades com legitimidade para intentar uma acção e a quaisquer interessados, uma faculdade de acção mais ampla no plano nacional."
+  },
+  "310fa74682eb3b91": {
+   "fragment_id": "Artigo 8.º — Execução",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Execução\n\nOs Estados-Membros comunicam à Comissão o texto das disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "7727e33d5018fb4f": {
+   "fragment_id": "Artigo 9.º — Disposições revogatórias",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Disposições revogatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições revogatórias\n\nÉ revogada a Directiva 98/27/CE, com a redacção que lhe foi dada pelas directivas referidas na parte A do anexo II, sem prejuízo das obrigações dos Estados-Membros no que respeita aos prazos de transposição para o direito nacional e de aplicação das directivas, indicados na parte B do anexo II.\n\nAs remissões feitas para a directiva revogada devem entender-se como sendo feitas para a presente directiva e devem ler-se nos termos da tabela de correspondência que consta do anexo III."
+  },
+  "c10ff7d22c6a5f6d": {
+   "fragment_id": "Artigo 10.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nA presente directiva entra em vigor em 29 de Dezembro de 2009."
+  },
+  "d7f9317e6fecb378": {
+   "fragment_id": "Artigo 11.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Estrasburgo, em 23 de Abril de 2009.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**H.-G. PÖTTERING**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**P. NEČAS**\n\n---"
+  },
+  "2417c8aefb513d60": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/9f4748ef-f612-41cb-bc89-b2a7a2a64949.0018.02/DOC_1#ntc1-L_2009110PT.01003001-E0001) [JO C 161 de 13.7.2007, p. 39](http://publications.europa.eu/resource/oj/JOC_2007_161_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/9f4748ef-f612-41cb-bc89-b2a7a2a64949.0018.02/DOC_1#ntc2-L_2009110PT.01003001-E0002) Parecer do Parlamento Europeu de 19 de Junho de 2007 ([JO C 146 E de 12.6.2008, p. 73](http://publications.europa.eu/resource/oj/JOC_2008_146_E_TOC)) e Decisão do Conselho de 23 de Março de 2009.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/9f4748ef-f612-41cb-bc89-b2a7a2a64949.0018.02/DOC_1#ntc3-L_2009110PT.01003001-E0003) [JO L 166 de 11.6.1998, p. 51](http://publications.europa.eu/resource/oj/JOL_1998_166_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/9f4748ef-f612-41cb-bc89-b2a7a2a64949.0018.02/DOC_1#ntc4-L_2009110PT.01003001-E0004) Ver parte A do anexo II."
+  },
+  "787758e42b204f1c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Abril de 2009\n\nrelativa às acções inibitórias em matéria de protecção dos interesses dos consumidores\n\n(Versão codificada)\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 95.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/f25b4bcf-b93c-4f99-b861-90a6e9e0a2cb.0018.03/DOC_1#E0001)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^2^](http://publications.europa.eu/resource/cellar/f25b4bcf-b93c-4f99-b861-90a6e9e0a2cb.0018.03/DOC_1#E0002)),\n\n(1) A Directiva 98/27/CE do Parlamento Europeu e do Conselho, de 19 de Maio de 1998, relativa às acções inibitórias em matéria de protecção dos interesses dos consumidores ([^3^](http://publications.europa.eu/resource/cellar/f25b4bcf-b93c-4f99-b861-90a6e9e0a2cb.0018.03/DOC_1#E0003)), foi por diversas vezes alterada de modo substancial ([^4^](http://publications.europa.eu/resource/cellar/f25b4bcf-b93c-4f99-b861-90a6e9e0a2cb.0018.03/DOC_1#E0004)). Por razões de clareza e racionalidade, deverá proceder-se à codificação da referida directiva.\n\n(2) Certas directivas, referidas no anexo I da presente directiva, estabelecem normas de protecção dos interesses dos consumidores.\n\n(3) Os mecanismos vigentes a nível nacional e comunitário para assegurar o cumprimento das referidas directivas nem sempre permitem que se ponha termo atempadamente às infracções lesivas dos interesses colectivos dos consumidores. Por interesses colectivos entendem-se os interesses que não constituem uma mera cumulação dos interesses dos particulares que tenham sido lesados por uma infracção. Tal não prejudica as acções e os recursos individuais intentados por particulares que tenham sido lesados por uma infracção.\n\n(4) No que se refere à cessação de práticas ilícitas segundo a legislação nacional aplicável, a eficácia das regras nacionais de transposição das referidas directivas, incluindo as regras de protecção para além do nível previsto nessas directivas, na medida em que sejam compatíveis com o Tratado e permitidas por essas directivas, pode ser entravada caso tais práticas produzam efeitos num Estado-Membro diferente daquele em que as referidas práticas têm origem.\n\n(5) Essas dificuldades podem prejudicar o bom funcionamento do mercado interno, tendo a consequência de que basta deslocar a origem de uma prática ilícita para outro país para a subtrair ao cumprimento da lei. Tal circunstância constitui uma distorção da concorrência.\n\n(6) Estas mesmas dificuldades são de natureza a afectar a confiança dos consumidores no mercado interno e podem limitar o âmbito de acção das organizações representativas dos interesses colectivos dos consumidores ou dos organismos públicos independentes responsáveis pela protecção dos interesses colectivos dos consumidores, lesados por práticas que constituem infracções ao direito comunitário.\n\n(7) Essas práticas ultrapassam muitas vezes as fronteiras entre os Estados-Membros. É necessário e urgente aproximar em certa medida as disposições nacionais que impõem a cessação de tais práticas ilícitas, independentemente do país em que a prática ilícita tenha produzido efeitos. Em sede de competência, essa aproximação não prejudica as normas de direito internacional privado nem as convenções em vigor entre os Estados-Membros, e respeita simultaneamente as obrigações gerais dos Estados-Membros decorrentes do Tratado, especialmente as que dizem respeito ao bom funcionamento do mercado interno.\n\n(8) O objectivo da acção prevista só pode ser alcançado pela Comunidade. Por conseguinte, incumbe à Comunidade agir.\n\n(9) O terceiro parágrafo do artigo 5.º do Tratado estabelece que a Comunidade não deve exceder o necessário para atingir os objectivos do Tratado. Nos termos deste artigo, deve-se ter, tanto quanto possível, em conta as especificidades das ordens jurídicas internas, deixando aos Estados-Membros a possibilidade de escolherem entre diferentes opções de efeitos equivalentes. Os tribunais ou as autoridades administrativas competentes para conhecer dos processos referidos na presente directiva deverão poder examinar os efeitos de decisões anteriores.\n\n(10) Uma dessas opções deverá consistir na possibilidade de prever que um ou mais organismos públicos independentes, especialmente responsáveis pela protecção dos interesses colectivos dos consumidores, intentem as acções previstas na presente directiva. Outra opção deverá consistir na possibilidade do exercício deste direito por organizações cujo objecto consista na protecção dos interesses colectivos dos consumidores, segundo os critérios definidos na legislação nacional.\n\n(11) Os Estados-Membros deverão poder escolher entre estas duas opções ou combiná-las, designando a nível nacional os organismos e/ou organizações com legitimidade para agir, para efeitos da presente directiva.\n\n(12) Com o propósito de prevenir infracções intracomunitárias, deverá aplicar-se a esses organismos e/ou organizações o princípio do reconhecimento mútuo. Os Estados-Membros comunicarão à Comissão, a pedido das respectivas entidades nacionais, o nome e objecto das respectivas entidades nacionais com legitimidade para intentar no seu próprio país, as acções previstas pela presente directiva.\n\n(13) Incumbe à Comissão assegurar a publicação de uma lista dessas entidades no *Jornal Oficial da União Europeia*. Enquanto não for publicada nenhuma declaração em contrário, presume-se que as entidades com legitimidade para agir o são se o seu nome estiver incluído nessa lista.\n\n(14) Os Estados-Membros deverão poder exigir uma consulta prévia pelo requerente que pretenda intentar a acção inibitória, a fim de permitir ao requerido fazer cessar a infracção que é objecto do litígio. Os Estados-Membros deverão ter a possibilidade de exigir que essa consulta prévia seja realizada em conjunto com o organismo público independente designado por esses Estados-Membros.\n\n(15) Tendo os Estados-Membros determinado que se proceda a essa consulta prévia, é necessário fixar um prazo de duas semanas a contar da recepção do pedido de consulta, no termo do qual, se não se conseguir pôr termo à infracção, o requerente terá o direito de recorrer imediatamente ao tribunal ou à autoridade administrativa competentes.\n\n(16) É conveniente que a Comissão elabore um relatório sobre o funcionamento da presente directiva e, especialmente, sobre o seu âmbito e sobre o funcionamento da consulta prévia.\n\n(17) A aplicação da presente directiva não deverá prejudicar a aplicação das normas comunitárias de concorrência.\n\n(18) A presente directiva não deverá prejudicar as obrigações dos Estados-Membros relativas aos prazos de transposição e de aplicação das directivas, indicados na parte B do anexo II,\n\nAPROVARAM A PRESENTE DIRECTIVA:"
+  },
+  "50f8d932d5311406": {
+   "fragment_id": "Artigo 11.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "f27d3cf7efafd232": {
+   "fragment_id": "LISTA DAS DIRECTIVAS REFERIDAS NO ARTIGO 1.º ([^5^](http://publications.europa.eu/resource/cellar/f25b4bcf-b93c-4f99-b861-90a6e9e0a2cb.0018.03/DOC_1#E0005))",
+   "type": "divisao",
+   "heading": "LISTA DAS DIRECTIVAS REFERIDAS NO ARTIGO 1.º ([^5^](http://publications.europa.eu/resource/cellar/f25b4bcf-b93c-4f99-b861-90a6e9e0a2cb.0018.03/DOC_1#E0005))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LISTA DAS DIRECTIVAS REFERIDAS NO ARTIGO 1.º ([^5^](http://publications.europa.eu/resource/cellar/f25b4bcf-b93c-4f99-b861-90a6e9e0a2cb.0018.03/DOC_1#E0005))\n\n1. Directiva 85/577/CEE do Conselho, de 20 de Dezembro de 1985, relativa à protecção dos consumidores no caso de contratos negociados fora dos estabelecimentos comerciais (JO L 372 de 31.12.1985, p. 31).\n\n2. Directiva 87/102/CEE do Conselho, de 22 de Dezembro de 1986, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-Membros relativas ao crédito ao consumo (JO L 42 de 12.2.1987, p. 48) ([^6^](http://publications.europa.eu/resource/cellar/f25b4bcf-b93c-4f99-b861-90a6e9e0a2cb.0018.03/DOC_1#E0006)).\n\n3. Directiva 89/552/CEE do Conselho, de 3 de Outubro 1989, relativa à coordenação de certas disposições legislativas, regulamentares e administrativas dos Estados-Membros relativas ao exercício de actividades de radiodifusão televisiva: artigos 10.º a 21.º (JO L 298 de 17.10.1989, p. 23).\n\n4. Directiva 90/314/CEE do Conselho, de 13 de Junho de 1990, relativa às viagens organizadas, férias organizadas e circuitos organizados (JO L 158 de 23.6.1990, p. 59).\n\n5. Directiva 93/13/CEE do Conselho, de 5 de Abril de 1993, relativa às cláusulas abusivas nos contratos celebrados com os consumidores (JO L 95 de 21.4.1993, p. 29).\n\n6. Directiva 97/7/CE do Parlamento Europeu e do Conselho, de 20 de Maio de 1997, relativa à protecção dos consumidores em matéria de contratos à distância (JO L 144 de 4.6.1997, p. 19).\n\n7. Directiva 1999/44/CE do Parlamento Europeu e do Conselho, de 25 de Maio de 1999, relativa a certos aspectos da venda de bens de consumo e das garantias a ela relativas (JO L 171 de 7.7.1999, p. 12).\n\n8. Directiva 2000/31/CE do Parlamento Europeu e do Conselho, de 8 de Junho de 2000, relativa a certos aspectos legais dos serviços da sociedade da informação, em especial do comércio electrónico, no mercado interno («Directiva sobre o comércio electrónico») (JO L 178 de 17.7.2000, p. 1).\n\n9. Directiva 2001/83/CE do Parlamento Europeu e do Conselho, de 6 de Novembro de 2001, que estabelece um código comunitário relativo aos medicamentos para uso humano: artigos 86.º a 100.º (JO L 311 de 28.11.2001, p. 67).\n\n10. Directiva 2002/65/CE do Parlamento Europeu e do Conselho, de 23 de Setembro de 2002, relativa à comercialização à distância de serviços financeiros prestados a consumidores (JO L 271 de 9.10.2002, p. 16).\n\n11. Directiva 2005/29/CE do Parlamento Europeu e do Conselho, de 11 de Maio de 2005, relativa às práticas comerciais desleais das empresas face aos consumidores no mercado interno (JO L 149 de 11.6.2005, p. 22).\n\n12. Directiva 2006/123/CE do Parlamento Europeu e do Conselho, de 12 de Dezembro de 2006, relativa aos serviços no mercado interno (JO L 376 de 27.12.2006, p. 36).\n\n13. Directiva 2008/122/CE do Parlamento Europeu e do Conselho, de 14 de Janeiro de 2009, sobre a protecção do consumidor relativamente a determinados aspectos dos contratos de utilização periódica de bens, de aquisição de produtos de férias de longa duração, de revenda e de troca (JO L 33 de 3.2.2009, p. 10).\n\n14. Diretiva 2013/11/UE do Parlamento Europeu e do Conselho, de 21 de maio de 2013, relativa à resolução alternativa de litígios de consumo (JO L de 165 18.6.2013, p. 63): artigo 13.º."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "87cee521b2f0bb1e": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A"
+  },
+  "3a1a6286d541b526": {
+   "fragment_id": "Directiva revogada e suas alterações sucessivas",
+   "type": "divisao",
+   "heading": "Directiva revogada e suas alterações sucessivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Directiva revogada e suas alterações sucessivas"
+  },
+  "ace51055039858bb": {
+   "fragment_id": "(referidas no artigo 9.º)",
+   "type": "divisao",
+   "heading": "(referidas no artigo 9.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (referidas no artigo 9.º)\n\nDirectiva 98/27/CE do Parlamento Europeu e do Conselho (JO L 166 de 11.6.1998, p. 51).\n\nDirectiva 1999/44/CE do Parlamento Europeu e do Conselho (JO L 171 de 7.7.1999, p. 12). apenas o artigo 10.º\n\nDirectiva 2000/31/CE do Parlamento Europeu e do Conselho (JO L 178 de 17.7.2000, p. 1). apenas o artigo 18.º, n.º 2\n\nDirectiva 2002/65/CE do Parlamento Europeu e do Conselho (JO L 271 de 9.10.2002, p. 16). apenas o artigo 19.º\n\nDirectiva 2005/29/CE do Parlamento Europeu e do Conselho (JO L 149 de 11.6.2005, p. 22). apenas o artigo 16.º, n.º 1\n\nDirectiva 2006/123/CE do Parlamento Europeu e do Conselho (JO L 376 de 27.12.2006, p. 36). apenas o artigo 42.º"
+  },
+  "6041be3baf7dcb43": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B"
+  },
+  "2ef192e8eee7944c": {
+   "fragment_id": "Prazos de transposição para o direito nacional e de aplicação",
+   "type": "divisao",
+   "heading": "Prazos de transposição para o direito nacional e de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Prazos de transposição para o direito nacional e de aplicação"
+  },
+  "dc4f5c56bb1fe5eb": {
+   "fragment_id": "(referidos no artigo 9.º)",
+   "type": "divisao",
+   "heading": "(referidos no artigo 9.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (referidos no artigo 9.º)\n\n| Directiva | Data limite de transposição | Data de aplicação |\n| --- | --- | --- |\n| 98/27/CE | 1 de Janeiro de 2001 | — |\n| 1999/44/CE | 1 de Janeiro de 2002 | — |\n| 2000/31/CE | 16 de Janeiro de 2002 | — |\n| 2002/65/CE | 9 de Outubro de 2004 | — |\n| 2005/29/CE | 12 de Junho de 2007 | 12 de Dezembro de 2007 |\n| 2006/123/CE | 28 de Dezembro de 2009 | — |"
+  },
+  "99961e0de0a5ff9a": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nDirectiva 98/27/CE Presente directiva\n\nArtigos 1.º-5.º Artigos 1.º-5.º\n\nArtigo 6.º, n.º 1 Artigo 6.º, n.º 1\n\nArtigo 6.º, n.º 2, primeiro parágrafo, primeiro travessão Artigo 6.º, n.º 2, primeiro parágrafo, alínea a)\n\nArtigo 6.º, n.º 2, primeiro parágrafo, segundo travessão Artigo 6.º, n.º 2, primeiro parágrafo, alínea b)\n\nArtigo 6.º, n.º 2, primeiro parágrafo, terceiro travessão Artigo 6.º, n.º 2, primeiro parágrafo, alínea c)\n\nArtigo 6.º, n.º 2, segundo parágrafo Artigo 6.º, n.º 2, segundo parágrafo\n\nArtigo 7.º Artigo 7.º\n\nArtigo 8.º, n.º 1 —\n\nArtigo 8.º, n.º 2 Artigo 8.º\n\n— Artigo 9.º\n\nArtigo 9.º Artigo 10.º\n\nArtigo 10.º Artigo 11.º\n\nAnexo Anexo I\n\n— Anexo II\n\n— Anexo III\n\n---"
+  },
+  "023e3b8a43f80749": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/f25b4bcf-b93c-4f99-b861-90a6e9e0a2cb.0018.03/DOC_1#src.E0001)) JO C 161 de 13.7.2007, p. 39.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/f25b4bcf-b93c-4f99-b861-90a6e9e0a2cb.0018.03/DOC_1#src.E0002)) Parecer do Parlamento Europeu de 19 de Junho de 2007 (JO C 146 E de 12.6.2008, p. 73) e Decisão do Conselho de 23 de Março de 2009.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/f25b4bcf-b93c-4f99-b861-90a6e9e0a2cb.0018.03/DOC_1#src.E0003)) JO L 166 de 11.6.1998, p. 51.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/f25b4bcf-b93c-4f99-b861-90a6e9e0a2cb.0018.03/DOC_1#src.E0004)) Ver parte A do anexo II.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/f25b4bcf-b93c-4f99-b861-90a6e9e0a2cb.0018.03/DOC_1#src.E0005)) As directivas citadas nos pontos 5, 6, 9 e 11 contêm disposições específicas sobre acções inibitórias.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/f25b4bcf-b93c-4f99-b861-90a6e9e0a2cb.0018.03/DOC_1#src.E0006)) A referida directiva é revogada e substituída pela Directiva 2008/48/CE do Parlamento Europeu e do Conselho, de 23 de Abril de 2008, relativa a contratos de crédito aos consumidores (JO L 133 de 22.5.2008, p. 66), com efeitos a partir de 12 de Maio de 2010."
+  },
+  "57a4090bf04ddd80": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Abril de 2009\n\nrelativa às acções inibitórias em matéria de protecção dos interesses dos consumidores\n\n(Versão codificada)\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 95.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/ee8b05f6-e289-44a8-8b26-86aa8b8d0c76.0015.03/DOC_1#E0001)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^2^](http://publications.europa.eu/resource/cellar/ee8b05f6-e289-44a8-8b26-86aa8b8d0c76.0015.03/DOC_1#E0002)),\n\n(1) A Directiva 98/27/CE do Parlamento Europeu e do Conselho, de 19 de Maio de 1998, relativa às acções inibitórias em matéria de protecção dos interesses dos consumidores ([^3^](http://publications.europa.eu/resource/cellar/ee8b05f6-e289-44a8-8b26-86aa8b8d0c76.0015.03/DOC_1#E0003)), foi por diversas vezes alterada de modo substancial ([^4^](http://publications.europa.eu/resource/cellar/ee8b05f6-e289-44a8-8b26-86aa8b8d0c76.0015.03/DOC_1#E0004)). Por razões de clareza e racionalidade, deverá proceder-se à codificação da referida directiva.\n\n(2) Certas directivas, referidas no anexo I da presente directiva, estabelecem normas de protecção dos interesses dos consumidores.\n\n(3) Os mecanismos vigentes a nível nacional e comunitário para assegurar o cumprimento das referidas directivas nem sempre permitem que se ponha termo atempadamente às infracções lesivas dos interesses colectivos dos consumidores. Por interesses colectivos entendem-se os interesses que não constituem uma mera cumulação dos interesses dos particulares que tenham sido lesados por uma infracção. Tal não prejudica as acções e os recursos individuais intentados por particulares que tenham sido lesados por uma infracção.\n\n(4) No que se refere à cessação de práticas ilícitas segundo a legislação nacional aplicável, a eficácia das regras nacionais de transposição das referidas directivas, incluindo as regras de protecção para além do nível previsto nessas directivas, na medida em que sejam compatíveis com o Tratado e permitidas por essas directivas, pode ser entravada caso tais práticas produzam efeitos num Estado-Membro diferente daquele em que as referidas práticas têm origem.\n\n(5) Essas dificuldades podem prejudicar o bom funcionamento do mercado interno, tendo a consequência de que basta deslocar a origem de uma prática ilícita para outro país para a subtrair ao cumprimento da lei. Tal circunstância constitui uma distorção da concorrência.\n\n(6) Estas mesmas dificuldades são de natureza a afectar a confiança dos consumidores no mercado interno e podem limitar o âmbito de acção das organizações representativas dos interesses colectivos dos consumidores ou dos organismos públicos independentes responsáveis pela protecção dos interesses colectivos dos consumidores, lesados por práticas que constituem infracções ao direito comunitário.\n\n(7) Essas práticas ultrapassam muitas vezes as fronteiras entre os Estados-Membros. É necessário e urgente aproximar em certa medida as disposições nacionais que impõem a cessação de tais práticas ilícitas, independentemente do país em que a prática ilícita tenha produzido efeitos. Em sede de competência, essa aproximação não prejudica as normas de direito internacional privado nem as convenções em vigor entre os Estados-Membros, e respeita simultaneamente as obrigações gerais dos Estados-Membros decorrentes do Tratado, especialmente as que dizem respeito ao bom funcionamento do mercado interno.\n\n(8) O objectivo da acção prevista só pode ser alcançado pela Comunidade. Por conseguinte, incumbe à Comunidade agir.\n\n(9) O terceiro parágrafo do artigo 5.º do Tratado estabelece que a Comunidade não deve exceder o necessário para atingir os objectivos do Tratado. Nos termos deste artigo, deve-se ter, tanto quanto possível, em conta as especificidades das ordens jurídicas internas, deixando aos Estados-Membros a possibilidade de escolherem entre diferentes opções de efeitos equivalentes. Os tribunais ou as autoridades administrativas competentes para conhecer dos processos referidos na presente directiva deverão poder examinar os efeitos de decisões anteriores.\n\n(10) Uma dessas opções deverá consistir na possibilidade de prever que um ou mais organismos públicos independentes, especialmente responsáveis pela protecção dos interesses colectivos dos consumidores, intentem as acções previstas na presente directiva. Outra opção deverá consistir na possibilidade do exercício deste direito por organizações cujo objecto consista na protecção dos interesses colectivos dos consumidores, segundo os critérios definidos na legislação nacional.\n\n(11) Os Estados-Membros deverão poder escolher entre estas duas opções ou combiná-las, designando a nível nacional os organismos e/ou organizações com legitimidade para agir, para efeitos da presente directiva.\n\n(12) Com o propósito de prevenir infracções intracomunitárias, deverá aplicar-se a esses organismos e/ou organizações o princípio do reconhecimento mútuo. Os Estados-Membros comunicarão à Comissão, a pedido das respectivas entidades nacionais, o nome e objecto das respectivas entidades nacionais com legitimidade para intentar no seu próprio país, as acções previstas pela presente directiva.\n\n(13) Incumbe à Comissão assegurar a publicação de uma lista dessas entidades no *Jornal Oficial da União Europeia*. Enquanto não for publicada nenhuma declaração em contrário, presume-se que as entidades com legitimidade para agir o são se o seu nome estiver incluído nessa lista.\n\n(14) Os Estados-Membros deverão poder exigir uma consulta prévia pelo requerente que pretenda intentar a acção inibitória, a fim de permitir ao requerido fazer cessar a infracção que é objecto do litígio. Os Estados-Membros deverão ter a possibilidade de exigir que essa consulta prévia seja realizada em conjunto com o organismo público independente designado por esses Estados-Membros.\n\n(15) Tendo os Estados-Membros determinado que se proceda a essa consulta prévia, é necessário fixar um prazo de duas semanas a contar da recepção do pedido de consulta, no termo do qual, se não se conseguir pôr termo à infracção, o requerente terá o direito de recorrer imediatamente ao tribunal ou à autoridade administrativa competentes.\n\n(16) É conveniente que a Comissão elabore um relatório sobre o funcionamento da presente directiva e, especialmente, sobre o seu âmbito e sobre o funcionamento da consulta prévia.\n\n(17) A aplicação da presente directiva não deverá prejudicar a aplicação das normas comunitárias de concorrência.\n\n(18) A presente directiva não deverá prejudicar as obrigações dos Estados-Membros relativas aos prazos de transposição e de aplicação das directivas, indicados na parte B do anexo II,\n\nAPROVARAM A PRESENTE DIRECTIVA:"
+  },
+  "6adfd5fff4267deb": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1. A presente directiva tem por objecto aproximar as disposições legislativas, regulamentares e administrativas dos Estados-Membros relativas às acções inibitórias referidas no artigo 2.º, para a protecção dos interesses colectivos dos consumidores incluídos [**►M2**](http://publications.europa.eu/resource/celex/32013R0524) nos actos da União enumerados no anexo I**◄**, para garantir o bom funcionamento do mercado interno.\n\n2. Para efeitos da presente directiva, entende-se por infracção todo e qualquer acto contrário ao disposto [**►M2**](http://publications.europa.eu/resource/celex/32013R0524) nos actos da União enumerados no anexo I**◄**, transpostas para a ordem jurídica interna dos Estados-Membros e que prejudique os interesses colectivos referidos no n.º 1."
+  },
+  "e462b13ad4d06670": {
+   "fragment_id": "Artigo 6.º — Relatórios",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Relatórios\n\n1. De três em três anos, e pela primeira vez o mais tardar em 2 de Julho de 2003, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação da presente directiva.\n\n2. No seu primeiro relatório, a Comissão analisa especialmente:\n\na) O âmbito de aplicação da presente directiva em relação à protecção dos interesses colectivos das pessoas que exerçam uma actividade comercial, industrial, artesanal ou uma profissão liberal;\n\nb) O âmbito de aplicação da presente directiva, determinado em relação [**►M2**](http://publications.europa.eu/resource/celex/32013R0524) aos actos da União enumerados no anexo I**◄**;\n\nc) Se a consulta prévia prevista no artigo 5.º contribuiu para a protecção efectiva dos consumidores.\n\nEsse relatório pode ser eventualmente acompanhado de propostas de alteração da presente directiva."
+  },
+  "c13c4c57593fb438": {
+   "fragment_id": "[►M2](http://publications.europa.eu/resource/celex/32013R0524) LISTA DOS ATOS DA UNIÃO◄ REFERIDAS NO ARTIGO 1.º ([^5^](http://publications.europa.eu/resource/cellar/ee8b05f6-e289-44a8-8b26-86aa8b8d0c76.0015.03/DOC_1#E0005))",
+   "type": "divisao",
+   "heading": "[►M2](http://publications.europa.eu/resource/celex/32013R0524) LISTA DOS ATOS DA UNIÃO◄ REFERIDAS NO ARTIGO 1.º ([^5^](http://publications.europa.eu/resource/cellar/ee8b05f6-e289-44a8-8b26-86aa8b8d0c76.0015.03/DOC_1#E0005))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### [►M2](http://publications.europa.eu/resource/celex/32013R0524) LISTA DOS ATOS DA UNIÃO◄ REFERIDAS NO ARTIGO 1.º ([^5^](http://publications.europa.eu/resource/cellar/ee8b05f6-e289-44a8-8b26-86aa8b8d0c76.0015.03/DOC_1#E0005))\n\n1. Directiva 85/577/CEE do Conselho, de 20 de Dezembro de 1985, relativa à protecção dos consumidores no caso de contratos negociados fora dos estabelecimentos comerciais (JO L 372 de 31.12.1985, p. 31).\n\n2. Directiva 87/102/CEE do Conselho, de 22 de Dezembro de 1986, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-Membros relativas ao crédito ao consumo (JO L 42 de 12.2.1987, p. 48) ([^6^](http://publications.europa.eu/resource/cellar/ee8b05f6-e289-44a8-8b26-86aa8b8d0c76.0015.03/DOC_1#E0006)).\n\n3. Directiva 89/552/CEE do Conselho, de 3 de Outubro 1989, relativa à coordenação de certas disposições legislativas, regulamentares e administrativas dos Estados-Membros relativas ao exercício de actividades de radiodifusão televisiva: artigos 10.º a 21.º (JO L 298 de 17.10.1989, p. 23).\n\n4. Directiva 90/314/CEE do Conselho, de 13 de Junho de 1990, relativa às viagens organizadas, férias organizadas e circuitos organizados (JO L 158 de 23.6.1990, p. 59).\n\n5. Directiva 93/13/CEE do Conselho, de 5 de Abril de 1993, relativa às cláusulas abusivas nos contratos celebrados com os consumidores (JO L 95 de 21.4.1993, p. 29).\n\n6. Directiva 97/7/CE do Parlamento Europeu e do Conselho, de 20 de Maio de 1997, relativa à protecção dos consumidores em matéria de contratos à distância (JO L 144 de 4.6.1997, p. 19).\n\n7. Directiva 1999/44/CE do Parlamento Europeu e do Conselho, de 25 de Maio de 1999, relativa a certos aspectos da venda de bens de consumo e das garantias a ela relativas (JO L 171 de 7.7.1999, p. 12).\n\n8. Directiva 2000/31/CE do Parlamento Europeu e do Conselho, de 8 de Junho de 2000, relativa a certos aspectos legais dos serviços da sociedade da informação, em especial do comércio electrónico, no mercado interno («Directiva sobre o comércio electrónico») (JO L 178 de 17.7.2000, p. 1).\n\n9. Directiva 2001/83/CE do Parlamento Europeu e do Conselho, de 6 de Novembro de 2001, que estabelece um código comunitário relativo aos medicamentos para uso humano: artigos 86.º a 100.º (JO L 311 de 28.11.2001, p. 67).\n\n10. Directiva 2002/65/CE do Parlamento Europeu e do Conselho, de 23 de Setembro de 2002, relativa à comercialização à distância de serviços financeiros prestados a consumidores (JO L 271 de 9.10.2002, p. 16).\n\n11. Directiva 2005/29/CE do Parlamento Europeu e do Conselho, de 11 de Maio de 2005, relativa às práticas comerciais desleais das empresas face aos consumidores no mercado interno (JO L 149 de 11.6.2005, p. 22).\n\n12. Directiva 2006/123/CE do Parlamento Europeu e do Conselho, de 12 de Dezembro de 2006, relativa aos serviços no mercado interno (JO L 376 de 27.12.2006, p. 36).\n\n13. Directiva 2008/122/CE do Parlamento Europeu e do Conselho, de 14 de Janeiro de 2009, sobre a protecção do consumidor relativamente a determinados aspectos dos contratos de utilização periódica de bens, de aquisição de produtos de férias de longa duração, de revenda e de troca (JO L 33 de 3.2.2009, p. 10).\n\n14. Diretiva 2013/11/UE do Parlamento Europeu e do Conselho, de 21 de maio de 2013, relativa à resolução alternativa de litígios de consumo (JO L de 165 18.6.2013, p. 63): artigo 13.º.\n\n15. Regulamento (UE) n.º 524/2013 do Parlamento Europeu e do Conselho, de 21 de maio de 2013, sobre a resolução de litígios de consumo em linha (Regulamento RLL) (JO L de 165 de 18.6.2013, p. 1): Artigo 14.º."
+  },
+  "bf164e212737385d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ee8b05f6-e289-44a8-8b26-86aa8b8d0c76.0015.03/DOC_1#src.E0001)) JO C 161 de 13.7.2007, p. 39.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ee8b05f6-e289-44a8-8b26-86aa8b8d0c76.0015.03/DOC_1#src.E0002)) Parecer do Parlamento Europeu de 19 de Junho de 2007 (JO C 146 E de 12.6.2008, p. 73) e Decisão do Conselho de 23 de Março de 2009.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/ee8b05f6-e289-44a8-8b26-86aa8b8d0c76.0015.03/DOC_1#src.E0003)) JO L 166 de 11.6.1998, p. 51.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/ee8b05f6-e289-44a8-8b26-86aa8b8d0c76.0015.03/DOC_1#src.E0004)) Ver parte A do anexo II.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/ee8b05f6-e289-44a8-8b26-86aa8b8d0c76.0015.03/DOC_1#src.E0005)) As directivas citadas nos pontos 5, 6, 9 e 11 contêm disposições específicas sobre acções inibitórias.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/ee8b05f6-e289-44a8-8b26-86aa8b8d0c76.0015.03/DOC_1#src.E0006)) A referida directiva é revogada e substituída pela Directiva 2008/48/CE do Parlamento Europeu e do Conselho, de 23 de Abril de 2008, relativa a contratos de crédito aos consumidores (JO L 133 de 22.5.2008, p. 66), com efeitos a partir de 12 de Maio de 2010."
+  },
+  "3be1b5500740c9ff": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Abril de 2009\n\nrelativa às acções inibitórias em matéria de protecção dos interesses dos consumidores\n\n(Versão codificada)\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "cdb57e3be7f1b53b": {
+   "fragment_id": "Artigo 2.º — Acções inibitórias",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Acções inibitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Acções inibitórias\n\n1.\n\nOs Estados-Membros designam os tribunais ou as autoridades administrativas competentes para conhecer das acções e recursos intentados pelas entidades com legitimidade para agir nos termos do artigo 3.º a fim de que:\n\na) Seja tomada uma decisão, com a devida brevidade, se for caso disso mediante um processo expedito, com vista à cessação ou proibição de qualquer infracção;\n\nb) Sempre que tal se justifique, sejam determinadas medidas como por exemplo a publicação integral ou parcial da decisão, na forma considerada adequada, e/ou a publicação de uma declaração rectificativa tendo em vista eliminar os efeitos persistentes da infracção;\n\nc) Na medida em que o sistema jurídico do Estado-Membro em causa o permita, e em caso de não cumprimento da decisão no prazo fixado pelos tribunais ou pelas autoridades administrativas, o requerido que deva cumprir seja obrigado a pagar ao erário público, ou a qualquer beneficiário designado ou previsto na legislação nacional, um montante fixo por cada dia de atraso ou qualquer outro montante previsto na legislação nacional para garantir a execução das decisões.\n\n2. A presente directiva não prejudica as normas de direito internacional privado no que se refere à lei aplicável, conduzindo normalmente à aplicação da lei do Estado-Membro em que a infracção tem origem ou da lei do Estado-Membro em que a infracção produz efeitos."
+  },
+  "a1efeede5b0f31c9": {
+   "fragment_id": "Artigo 6.º — Relatórios",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Relatórios\n\n1. De três em três anos, e pela primeira vez o mais tardar em 2 de Julho de 2003, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação da presente directiva.\n\n2.\n\nNo seu primeiro relatório, a Comissão analisa especialmente:\n\na) O âmbito de aplicação da presente directiva em relação à protecção dos interesses colectivos das pessoas que exerçam uma actividade comercial, industrial, artesanal ou uma profissão liberal;\n\nb) O âmbito de aplicação da presente directiva, determinado em relação [**►M2**](http://publications.europa.eu/resource/celex/32013R0524) aos actos da União enumerados no anexo I**◄**;\n\nc) Se a consulta prévia prevista no artigo 5.º contribuiu para a protecção efectiva dos consumidores.\n\nEsse relatório pode ser eventualmente acompanhado de propostas de alteração da presente directiva."
+  },
+  "6aa027e4f0d320b3": {
+   "fragment_id": "[►M2](http://publications.europa.eu/resource/celex/32013R0524) LISTA DOS ATOS DA UNIÃO◄ REFERIDAS NO ARTIGO 1.º ([^1^](http://publications.europa.eu/resource/cellar/f1ed8c7c-5387-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0001))",
+   "type": "divisao",
+   "heading": "[►M2](http://publications.europa.eu/resource/celex/32013R0524) LISTA DOS ATOS DA UNIÃO◄ REFERIDAS NO ARTIGO 1.º ([^1^](http://publications.europa.eu/resource/cellar/f1ed8c7c-5387-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0001))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### [►M2](http://publications.europa.eu/resource/celex/32013R0524) LISTA DOS ATOS DA UNIÃO◄ REFERIDAS NO ARTIGO 1.º ([^1^](http://publications.europa.eu/resource/cellar/f1ed8c7c-5387-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0001))\n\n1. Directiva 85/577/CEE do Conselho, de 20 de Dezembro de 1985, relativa à protecção dos consumidores no caso de contratos negociados fora dos estabelecimentos comerciais (JO L 372 de 31.12.1985, p. 31).\n\n2. Directiva 87/102/CEE do Conselho, de 22 de Dezembro de 1986, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-Membros relativas ao crédito ao consumo (JO L 42 de 12.2.1987, p. 48) ([^2^](http://publications.europa.eu/resource/cellar/f1ed8c7c-5387-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0002)).\n\n3. Directiva 89/552/CEE do Conselho, de 3 de Outubro 1989, relativa à coordenação de certas disposições legislativas, regulamentares e administrativas dos Estados-Membros relativas ao exercício de actividades de radiodifusão televisiva: artigos 10.º a 21.º (JO L 298 de 17.10.1989, p. 23).\n\n4. Directiva 90/314/CEE do Conselho, de 13 de Junho de 1990, relativa às viagens organizadas, férias organizadas e circuitos organizados (JO L 158 de 23.6.1990, p. 59).\n\n5. Directiva 93/13/CEE do Conselho, de 5 de Abril de 1993, relativa às cláusulas abusivas nos contratos celebrados com os consumidores (JO L 95 de 21.4.1993, p. 29).\n\n6. Directiva 97/7/CE do Parlamento Europeu e do Conselho, de 20 de Maio de 1997, relativa à protecção dos consumidores em matéria de contratos à distância (JO L 144 de 4.6.1997, p. 19).\n\n7. Diretiva (UE) 2019/771 do Parlamento Europeu e do Conselho, de 20 de maio de 2019, relativa a certos aspetos que dizem respeito a contratos de compra e venda de bens, que altera o Regulamento (UE) 2017/2394 e a Diretiva 2009/22/CE e que revoga a Diretiva 1999/44/CE (JO L 136 de 22.5.2019, p. 28).\n\n8. Directiva 2000/31/CE do Parlamento Europeu e do Conselho, de 8 de Junho de 2000, relativa a certos aspectos legais dos serviços da sociedade da informação, em especial do comércio electrónico, no mercado interno («Directiva sobre o comércio electrónico») (JO L 178 de 17.7.2000, p. 1).\n\n9. Directiva 2001/83/CE do Parlamento Europeu e do Conselho, de 6 de Novembro de 2001, que estabelece um código comunitário relativo aos medicamentos para uso humano: artigos 86.º a 100.º (JO L 311 de 28.11.2001, p. 67).\n\n10. Directiva 2002/65/CE do Parlamento Europeu e do Conselho, de 23 de Setembro de 2002, relativa à comercialização à distância de serviços financeiros prestados a consumidores (JO L 271 de 9.10.2002, p. 16).\n\n11. Directiva 2005/29/CE do Parlamento Europeu e do Conselho, de 11 de Maio de 2005, relativa às práticas comerciais desleais das empresas face aos consumidores no mercado interno (JO L 149 de 11.6.2005, p. 22).\n\n12. Directiva 2006/123/CE do Parlamento Europeu e do Conselho, de 12 de Dezembro de 2006, relativa aos serviços no mercado interno (JO L 376 de 27.12.2006, p. 36).\n\n13. Directiva 2008/122/CE do Parlamento Europeu e do Conselho, de 14 de Janeiro de 2009, sobre a protecção do consumidor relativamente a determinados aspectos dos contratos de utilização periódica de bens, de aquisição de produtos de férias de longa duração, de revenda e de troca (JO L 33 de 3.2.2009, p. 10).\n\n14. Diretiva 2013/11/UE do Parlamento Europeu e do Conselho, de 21 de maio de 2013, relativa à resolução alternativa de litígios de consumo (JO L de 165 18.6.2013, p. 63): artigo 13.º.\n\n15. Regulamento (UE) n.º 524/2013 do Parlamento Europeu e do Conselho, de 21 de maio de 2013, sobre a resolução de litígios de consumo em linha (Regulamento RLL) (JO L de 165 de 18.6.2013, p. 1): Artigo 14.º.\n\n16. Regulamento (UE) 2018/302 do Parlamento Europeu e do Conselho, de 28 de fevereiro de 2018, que visa prevenir o bloqueio geográfico injustificado e outras formas de discriminação baseadas na nacionalidade, no local de residência ou no local de estabelecimento dos clientes no mercado interno, e que altera os Regulamentos (CE) n.º 2006/2004 e (UE) 2017/2394 e a Diretiva 2009/22/CE (JO L 60 I de 2.3.2018, p. 1).\n\n17. Diretiva (UE) 2019/770 do Parlamento Europeu e do Conselho, de 20 de maio de 2019, sobre certos aspetos relativos aos contratos de fornecimento de conteúdos ou serviços digitais (JO L 136 de 22.5.2019, p. 1)."
+  },
+  "4c4982441542111b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/f1ed8c7c-5387-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#src.E0001)) As directivas citadas nos pontos 5, 6, 9 e 11 contêm disposições específicas sobre acções inibitórias.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/f1ed8c7c-5387-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#src.E0002)) A referida directiva é revogada e substituída pela Directiva 2008/48/CE do Parlamento Europeu e do Conselho, de 23 de Abril de 2008, relativa a contratos de crédito aos consumidores (JO L 133 de 22.5.2008, p. 66), com efeitos a partir de 12 de Maio de 2010."
+  }
+ }
+}

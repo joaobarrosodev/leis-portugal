@@ -1,0 +1,216 @@
+---
+schema_version: '1.0'
+id: pt:dre:67429776:por
+title: Resolução do Conselho de Ministros n.º 35-A/2015
+short_title: null
+summary: Autoriza a realização de despesa destinada à aquisição de dois navios-patrulha oceânicos da classe «Viana do Castelo»
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 35-A/2015
+official_date: null
+publication_date: '2015-06-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 110/2015, 1º Suplemento, Série I de 2015-06-08
+  number: '110'
+  series: I
+  supplement: null
+  pages: 3664-(2) a 3664-(3)
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/06/11001/0000200003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/35-a/2015/06/08/p/dre/pt/html
+  oj: null
+  dre: '67429776'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/35-a-2015-67429776
+  internal: pt:dre:67429776:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/35-a-2015-67429776
+  metadata_url: https://data.dre.pt/eli/resolconsmin/35-a/2015/06/08/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/35-a-2015-67429776
+  consolidated_url: null
+  retrieved_at: '2026-10-23T13:07:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c3b47874b654495ebed300ccc0d61e0e9952acf2064ac9597013000e4ad6d497
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:07:46Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Navios
+- Autorização de Despesas
+- Conselho de Ministros
+- Delegação de Competências
+- Despesas Públicas
+- Governo XIX
+- Marinha
+- Ministro da Defesa Nacional
+- Programa Relativo a Aquisição de Navios
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/19/2013/04/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/19/2013/04/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/26/2013/04/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/26/2013/04/19/p/dre
+- type: cites
+  target: pt:dre:219688:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/183/2004/12/22/p/dre
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+- type: cites
+  target: pt:dre:259967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: pt:dre:345291:por
+  label: null
+  source: http://data.dre.pt/eli/leiorg/1-a/2009/07/07/p/dre
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56384929:por
+  label: null
+  source: http://data.dre.pt/eli/leiorg/6/2014/09/01/p/dre
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671231:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/104/2011/10/06/p/dre
+- type: cites
+  target: pt:dre:67232587:por
+  label: null
+  source: http://data.dre.pt/eli/leiorg/7/2015/05/18/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T13:07:46Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 35-A/2015
+
+A situação financeira decorrente do Memorando de Entendimento assinado a 17 de maio de 2011 e do Programa de Assistência Financeira firmado para o triénio 2011-2014 implicou restrições e esforços significativos de redução da despesa do Estado.
+
+Na área da defesa nacional foi implementada a Reforma «Defesa 2020», aprovada pela [Resolução do Conselho de Ministros n.º 26/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/26-2013-260395), de 19 de abril, que aprovou as linhas de orientação para a execução da reforma estrutural da defesa nacional e das Forças Armadas.
+
+Este processo teve início com a revisão do Conceito Estratégico de Defesa Nacional, aprovado pela [Resolução do Conselho de Ministros n.º 19/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/19-2013-259967), de 5 de abril, que inclui também a revisão do Conceito Estratégico Militar, das Missões das Forças Armadas, do Sistema de Forças e do Dispositivo de Forças.
+
+No âmbito do planeamento de defesa procedeu-se ainda à revisão da Lei de Programação Infraestruturas Militares e à Lei de Programação Militar, que prevê os projetos de reequipamento das Forças Armadas Portuguesas.
+
+A par da revisão destes diplomas estruturantes foi igualmente necessário um esforço significativo de contenção orçamental, que implicou o cancelamento de vários projetos de investimentos na modernização das Forças Armadas, com poupanças significativas para o erário público, entre os quais a participação de Portugal no programa NH90, o contrato de viaturas PANDUR, o concurso para substituição de arma ligeira e o Programa Relativo à Aquisição de Navios Destinados à Marinha Portuguesa (PRAN).
+
+O PRAN, aprovado pela [Resolução do Conselho de Ministros n.º 183/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/183-2004-219688), de 22 de dezembro, previa a aquisição de seis navios-patrulha oceânicos e de cinco lanchas de fiscalização costeira.
+
+Em 2011 e ao invés do que estava estipulado nos prazos inicialmente previstos, estava construído, apenas, um dos seis navios-patrulha oceânicos previstos, e nenhuma lancha de fiscalização costeira.
+
+Atendendo à importância da edificação e reforço da capacidade de patrulha e fiscalização marítima oceânica da Marinha Portuguesa, bem como da capacidade de busca e o salvamento marítimo, o patrulhamento e a presença naval em demonstrações de soberania nacional, o apoio a autoridades nacionais no exercício das suas competências, isto é no combate ao narcotráfico ou à imigração ilegal, e o apoio às populações, e pese embora os constrangimentos financeiros com que o País se deparou nessa fase, foi possível disponibilizar meios financeiros para concluir a construção do segundo navio-patrulha oceânico, hoje ao serviço da Marinha. Assim, através do Despacho de 30 de dezembro de 2014, o Ministro da Defesa Nacional determinou que a então Direção-Geral de Armamento e Infraestruturas de Defesa, em estreita colaboração com a Marinha, estudasse e desenvolvesse trabalhos preparatórios para o efeito.
+
+Foi igualmente possível proceder à aquisição ao reino da Dinamarca de quatro navios de fiscalização costeira que, em breve, estarão ao serviço da Marinha Portuguesa, e que substituem a construção de cinco lanchas de fiscalização costeira previstas no PRAN.
+
+Os navios-patrulha oceânicos da classe «Viana do Castelo» destinam-se a substituir as corvetas das classes «João Coutinho» e «Baptista de Andrade», navios construídos na década de 70 do século passado, e que já há muito ultrapassaram a estimativa de vida útil de 35 anos para que foram projetados. Atualmente, a Marinha Portuguesa cumpre a sua missão de vigilância marítima nos espaços oceânicos de interesse nacional e internacional recorrendo aos dois navios-patrulha oceânicos já adquiridos e às quatro corvetas que restam das 10 iniciais, estas com 40 a 44 anos de idade.
+
+Deste modo, é necessário prosseguir o reforço da capacidade de vigilância e fiscalização oceânica, tendo por referência a classe «Viana do Castelo», de forma a assegurar, em permanência, o «Sistema de Forças» aprovado pelo Conselho Superior de Defesa Nacional, nos termos do artigo 5.º da Lei Orgânica de Bases da Organização das Forças Armadas, aprovada pela [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-a-2009-345291), de 7 de julho, republicada pela [Lei Orgânica n.º 6/2014](https://diariodarepublica.pt/dr/detalhe/lei-organica/6-2014-56384929), de 1 de setembro.
+
+De forma a alcançar poupanças significativas no que respeita aos encargos incrementais que estão associados à operação e à manutenção das corvetas, a substituição dos meios navais em fim de vida permite garantir, no imediato, a disponibilidade, em permanência e em segurança, dos meios indispensáveis à capacidade nacional de patrulha e fiscalização oceânicas.
+
+O objetivo de composição de forças que incorpora as orientações e determinações decorrentes do «Conceito Estratégico de Defesa Nacional», e do modelo da Reforma «Defesa 2020», impõe a celebração de um contrato para a aquisição de dois navios-patrulha oceânicos, de modo a que os mesmos estejam disponíveis, no limite, no ano de 2018, conforme previsto e aprovado na Lei de Programação Militar, atendendo ao período mínimo necessário para assegurar a entrada em operação de um navio-patrulha oceânico, cujo tempo de construção é estimado em dois anos e meio a três anos.
+
+As vantagens financeiras e técnico-logísticas para o Estado Português e, muito especialmente, para a Marinha, só serão atingidas se os navios-patrulha oceânicos revestirem uma configuração idêntica, isto é, reproduzirem as características próprias da classe de navios que vão integrar, à dos dois navios-patrulha oceânicos já existentes, permitindo assim obter mais-valias para a Marinha.
+
+Neste quadro, é de extrema importância permanecer na linha dos contratos anteriormente celebrados, garantindo a integral uniformidade dos meios navais a adquirir com os navios-patrulha oceânicos da classe «Viana do Castelo». Efetivamente, a capacitação da classe «Viana do Castelo» traduz-se num conjunto de vantagens financeiras e técnico-logísticas para o Estado e, muito especialmente, para a Marinha, que se traduzem, designadamente, na redução dos custos de investimento na construção destes navios, dos encargos com a formação do pessoal afeto à operação e manutenção dos navios e ainda dos encargos com a respetiva sustentação logística, diminuindo drasticamente os custos do seu ciclo de vida, bem como num aumento significativo da eficiência no desenvolvimento das missões de patrulha oceânica a que os mesmos se destinam. Este objetivo só é atingido se os navios-patrulha oceânicos a adquirir revestirem uma configuração idêntica à dos dois navios-patrulha oceânicos já existentes, isto é, se replicarem as características próprias da classe de navios que vão integrar, permitindo assim obter as referidas mais-valias para a Marinha.
+
+Com os dois navios-patrulha oceânicos adicionais, o Estado Português assegura, ainda, o cumprimento dos compromissos internacionais assumidos de fiscalização e patrulha oceânica, designadamente os decorrentes das convenções Safety of Life at Sea (SOLAS-1974) e Search and Rescue (SAR-1979).
+
+É assim necessário, por motivos de interesse público e urgência imperiosa adquirir, no mais curto prazo possível, os bens estritamente necessários para assegurar a capacidade de patrulha e fiscalização dos espaços marítimos sob soberania e jurisdição do Estado Português.
+
+A adoção de um procedimento concorrencial revela-se incompatível com a urgência imperiosa associada à salvaguarda dos interesses públicos identificados. Por um lado, a tramitação de um procedimento de concurso com fase de qualificação e de negociação, a que acresce a complexidade do objeto contratual - e o prazo que por esta razão teria que ser disponibilizado para a elaboração e apresentação de propostas se o procedimento fosse aberto a operadores sem experiência prévia da conceção e construção de navios-patrulha oceânicos «Viana do Castelo», não permitiriam que o início da execução do contrato tivesse lugar antes de passado pelo menos um ano. Para além disso, a inviabilidade de recurso a um procedimento concorrencial resulta, igualmente, da inevitável demora acrescida da própria execução do contrato, caso fosse adjudicada a proposta de qualquer fornecedor que não detivesse já um acervo de capacitação industrial para a construção dos navios-patrulha oceânicos «Viana do Castelo» decorrente da experiência e de capacidades de produção edificadas no âmbito da construção dos dois primeiros. O acréscimo de tempo necessário para implementação de raiz destas capacidades estima-se que se situe no intervalo de cerca de dois anos, o que incrementaria de forma insustentável o horizonte temporal de disponibilização dos navios ao Estado Português, para além de 2020.
+
+Por outro lado, é essencial garantir a aquisição dos navios a uma entidade que detenha o conhecimento decorrente da experiência e de capacidades de produção edificadas no âmbito da construção dos dois navios já ao serviço da Marinha.
+
+A WEST SEA, S.A., capacitou-se dos ativos técnico, tecnológicos e logísticos que estiveram envolvidos na construção dos dois primeiros navios-patrulha oceânicos «Viana do Castelo», bem como dos meios humanos a ela ligados, revelando-se, assim, como a única entidade que dispõe das especiais aptidões técnicas e estruturalmente impostas pelas especificidades da construção naval deste tipo de navios para os construir em tempo útil.
+
+Os dois navios-patrulha oceânicos já adquiridos e atualmente em operação pela Marinha foram construídos pela sociedade Estaleiros Navais de Viana do Castelo, S.A. (ENVC), e a sociedade comercial WEST SEA, S.A., capacitou-se, através de concursos abertos, transparentes e competitivos, dos ativos técnicos, tecnológicos e logísticos que estiveram envolvidos na construção dos dois primeiros navios-patrulha oceânicos «Viana do Castelo», bem como dos meios humanos a ela ligados, passando a usar e a aplicar as especiais aptidões e competências técnicas de que são titulares os operários e restantes profissionais integrados na sua estrutura fabril, advindos dos ENVC, pelo que a WEST SEA, S.A., é a única entidade a dispor das especiais aptidões técnicas e estruturalmente impostas pelas especificidades da construção naval deste tipo de unidades para as construir em tempo útil.
+
+Por outro lado, a EDISOFT, S.A., responsável pela construção de partes muito relevantes dos dois navios-patrulha oceânicos ao serviço da Marinha, assume-se como detentora da adequada capacidade de resposta para o fabrico e fornecimento dos equipamentos já instalados e a instalar neste tipo de navios, sendo titular de especiais aptidões técnicas e detentora de direitos exclusivos sobre relevantes equipamentos e tecnologias ligadas aos sistemas de comando e controlo dos navios.
+
+Deste modo, e com a aprovação da [Lei Orgânica n.º 7/2015](https://diariodarepublica.pt/dr/detalhe/lei-organica/7-2015-67232587), de 18 de maio, o Estado Português encontra-se habilitado a adotar o procedimento por negociação sem publicação de anúncio de concurso para a aquisição de dois navios-patrulha oceânicos «Viana do Castelo», com fundamento na urgência imperiosa imposta por objetivos fundamentais de interesse geral, ao abrigo da alínea d) do artigo 16.º do [Decreto-Lei n.º 104/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2011-671231), de 6 de outubro, pelo que a presente resolução autoriza a despesa relativa à aquisição de dois navios-patrulha oceânicos «Viana do Castelo».
+
+Assim:
+
+Nos termos da alínea c) do n.º 3 do artigo 17.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, da alínea d) do artigo 16.º do [Decreto-Lei n.º 104/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2011-671231), de 6 de outubro, do artigo 109.º do Código dos Contratos Públicos, aprovado pelo [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, dos artigos 44.º e 46.º do Código do Procedimento Administrativo, aprovado pelo [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Autorizar a Marinha a realizar a despesa relativa à aquisição de dois navios-patrulha oceânicos da classe «Viana do Castelo», até ao montante máximo de 77 000 000,00 EUR, a que acresce o IVA à taxa legal em vigor, com recurso ao procedimento por negociação sem publicação de anúncio, com consulta às sociedades comerciais WEST SEA S.A., e EDISOFT S.A., em regime de consórcio a constituir no momento da adjudicação.
+
+2 - Estabelecer que os encargos orçamentais resultantes do contrato a celebrar na sequência do procedimento referido no número anterior, são suportados pelas verbas inscritas e a inscrever na Lei de Programação Militar, não podendo exceder, em cada ano económico, os seguintes montantes, aos quais acresce o IVA:
+
+a) 2015 - 17 317 073,00 EUR;
+
+b) 2016 - 37 195 122,00 EUR;
+
+c) 2017 - 15 211 382,00 EUR;
+
+d) 2018 - 7 276 423,00 EUR.
+
+3 - Estabelecer que o montante fixado no número anterior para cada ano económico pode ser acrescido do saldo apurado na execução orçamental do ano anterior.
+
+4 - Determinar que a execução do contrato de aquisição de dois navios-patrulha oceânicos é acompanhada e fiscalizada por uma equipa de acompanhamento e fiscalização, com caráter permanente, deslocada para o local da construção até ao cumprimento integral do contrato, que deve ter o envolvimento de um elemento do Arsenal do Alfeite, S.A.
+
+5 - Delegar no Ministro da Defesa Nacional, com a faculdade de subdelegação, a competência para a prática de todos os atos a realizar no âmbito da presente resolução, designadamente a competência para aprovar as peças do procedimento, constituir a equipa de avaliação e negociação da proposta, praticar o ato de adjudicação, aprovar a minuta e para a outorga do contrato.
+
+6 - Estabelecer que a presente resolução produz efeitos a partir da data da sua aprovação.
+
+Presidência do Conselho de Ministros, 28 de maio de 2015. - O Primeiro-Ministro, Pedro Passos Coelho.

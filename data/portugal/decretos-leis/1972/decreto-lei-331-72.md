@@ -1,0 +1,490 @@
+---
+schema_version: '1.0'
+id: pt:dre:676628:por
+title: Decreto-Lei n.º 331/72
+short_title: null
+summary: Introduz alterações na redacção dos Decretos-Leis n.os 413/71 e 414/71, de 27 de Setembro, que promulgaram, respectivamente,
+  a organização do Ministério da Saúde e Assistência e o regime legal das carreiras profissionais do mesmo Ministério
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Saúde e Assistência - Gabinete do Ministro
+proposing_entity: null
+official_number: 331/72
+official_date: null
+publication_date: '1972-08-22'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 195/1972, Série I de 1972-08-22
+  number: '195'
+  series: I
+  supplement: null
+  pages: 1150 - 1154
+  pdf_url: https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '676628'
+  dre_path: /dr/detalhe/decreto-lei/331-1972-676628
+  internal: pt:dre:676628:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:23:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8208c0c375c4530279f370ca27f9826c3210a7a2fe20b15cd1dddc029fb3f21a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:51Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ministério da Saúde e Assistência
+- Orgânica
+relationships:
+- type: amended_by
+  target: pt:dre:258345:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:421234:por
+  label: "Alterado o quadro VI anexo ao Dec Lei 413/71, de 27-Set, na redacção do presente diploma, pelo DEC LEI.333/73.03.07.1973.MSA,\
+    \ DG.IS [154] de 03.07.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/333-1973-421234
+  date: '1973-07-03'
+- type: amended_by
+  target: pt:dre:160307:por
+  label: "Alterado o quadro VIIII anexo ao Dec Lei 413/71, de 27-Set, na redacção do presente diploma, pelo DEC LEI.73/75.20.02.1975.MAS,\
+    \ DG.IS [43] de 20.02.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-1975-160307
+  date: '1975-02-20'
+- type: amended_by
+  target: pt:dre:431395:por
+  label: "Alterado o quadro constante da tabela B da Direcção-Geral dos Hospitais anexo ao Dec Lei 413/71, de 27-Set, na redacção\
+    \ do presente diploma, pelo DEC.510/76.03.07.1976.MAI, DR.IS [154] de 03.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/510-1976-431395
+  date: '1976-07-03'
+- type: amended_by
+  target: pt:dre:446535:por
+  label: "Dada nova redacção ao art. 7º do Dec Lei 414/71 de 27-set, alterado pelo presente diploma, pelo DR.7/78.20.02.1978.PCM,\
+    \ DR.IS [42] de 20.02.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/7-1978-446535
+  date: '1978-02-20'
+- type: amended_by
+  target: pt:dre:473912:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral Geral da Assistência Social anexo ao Decreto-Lei n.º 413/71, de 27\
+    \ de Setembro, alterado pelo presente diploma, pela PORT.242/80.13.05.1980.PCM, DR.IS [110] de 13.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/242-1980-473912
+  date: '1980-05-13'
+- type: cites
+  target: pt:dre:236719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674003:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:431440:por
+  label: "Revogadas as alíneas I), II) e III) do mapa II anexo ao Decreto-Lei n.º 414/71, de 27 de Setembro, na redacção do\
+    \ presente diploma, pelo DEC.534/76.08.07.1976.MAI, DR.IS [158] de 08.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/534-1976-431440
+  date: '1976-07-08'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:23:51Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 331/72
+
+de 22 de Agosto
+
+Considerando a necessidade de rever e completar algumas das disposições dos Decretos-Leis n.os [413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738) e [414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro, que promulgaram, respectivamente, a organização do Ministério da Saúde e Assistência e o regime legal das carreiras profissionais do mesmo Ministério, de acordo com a experiência entretanto recolhida;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º São alterados os artigos 12.º, n.os 2, 3 e 4, 17.º, 18.º, 33.º, n.º 3, 34.º, n.º 3, 44.º, n.º 1, alínea b), 52.º, 59.º, n.º 3, 61.º, n.º 2, 64.º, n.º 3, 66.º, n.os 4 e 7, 70.º, n.os 1 e 2, 86.º, n.º 1, 91.º, n.º 1, 92.º, n.º 1, e 97.º n.º 1, alíneas c), f), i), k) n) e o), do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, que passam a ter a redacção seguinte:
+
+###### ARTIGO 12.º
+
+...
+
+2. A Secretaria-Geral compreende os seguintes serviços:
+
+a)Serviços de Contencioso;
+
+b) Serviços de Inspecção;
+
+c) Serviços de Aprovisionamento;
+
+d) Serviços de Instalações e Equipamento;
+
+e) Serviços de Pessoal e de Organização;
+
+f) Repartição de Serviços Administrativos.
+
+3. A Secretaria-Geral é dirigida por um secretário-geral, que, coadjuvado por um adjunto, superintende em todos os seus serviços e submete a despacho os assuntos que careçam de resolução superior.
+
+4. A junta médica do Ministério funciona na Secretaria-Geral, sob a presidência de um inspector superior ou director de serviços do Ministério que seja médico.
+
+...
+
+###### ARTIGO 17.º — Serviços de Pessoal e de Organização
+
+Compete aos Serviços de Pessoal e de Organização:
+
+a) Proceder aos estudos relativos a sistemas integrados de gestão do pessoal do Ministério, propondo as medidas necessárias ao seu gradual estabelecimento, e promover as respeitantes ao seu próprio pessoal;
+
+b) Exercer, relativamente à administração de pessoal, a acção orientadora e coordenadora dos serviços congéneres do Ministério;
+
+c) Promover, em ligação com a Secretaria-Geral da Presidência do Conselho, acções de formação e aperfeiçoamento em técnicas de administração do pessoal e colaborar em acções de formação profissional promovidas por outros departamentos do Ministério;
+
+d) Promover o estudo e divulgação dos princípios e técnicas de organização;
+
+e) Propor as medidas tendentes à permanente actualização da estrutura e do funcionamento dos serviços, bem como à racionalização e simplificação do trabalho administrativo;
+
+f) Proceder aos estudos preparatórios relativos à utilização da informática no âmbito do Ministério;
+
+g) Colaborar nos estudos e diligências tendentes a racionalizar a instalação e o equipamento dos serviços;
+
+h) Colaborar com os serviços interessados, designadamente os do Ministério das Finanças, e com o Gabinete de Estudos e Planeamento na preparação do orçamento do Ministério.
+
+###### ARTIGO 18.º — Repartição de Serviços Administrativos
+
+1. Compete à Repartição de Serviços Administrativos:
+
+a) Reunir os orçamentos preparados pelos serviços centrais e fazê-los presentes ao Conselho dos Directores-Gerais, para coordenação;
+
+b) Executar o expediente geral da Secretaria-Geral e o que lhe seja cometido pelo Gabinete do Ministro;
+
+c) Executar o serviço de contabilidade e economato da Secretaria-Geral, bem como o do Gabinete do Ministro, sem prejuízo da competência atribuída aos chefes de gabinete;
+
+d) Executar outras tarefas que lhe sejam cometidas pelo secretário-geral.
+
+2. A Repartição é constituída por quatro secções.
+
+...
+
+###### ARTIGO 33.º
+
+...
+
+3. Uma das direcções de serviços é dirigida pelo inspector superior de Medicina Social.
+
+...
+
+###### ARTIGO 34.º
+
+...
+
+3. Uma das direcções de serviços é dirigida pelo inspector superior de Exercício Profissional.
+
+...
+
+###### ARTIGO 44.º
+
+...
+
+1. ...
+
+b) Aprovar os quadros de pessoal e os orçamentos, ouvidas as direcções-gerais interessadas, dentro dos limites a fixar por despacho ministerial;
+
+...
+
+...
+
+###### ARTIGO 52.º — Funcionamento
+
+As inspecções coordenadoras das regiões são apoiadas administrativamente pelos respectivos centros de saúde distritais, correndo os despachos pela correspondente direcção-geral, segundo as suas matérias ou assuntos.
+
+...
+
+###### ARTIGO 59.º
+
+...
+
+3. Em Lisboa e Porto haverá dois directores de saúde, sendo os serviços dirigidos pelo mais antigo, coadjuvado pelo segundo, além do demais pessoal técnico que for indispensável ao funcionamento dos serviços.
+
+...
+
+###### ARTIGO 61.º
+
+...
+
+2. As comissões arbitrais regem-se por legislação própria, passando a caber à Secretaria-Geral as funções de apoio administrativo que, nos termos do [Decreto-Lei n.º 42596](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42596-1959-440479), de 19 de Outubro de 1959, cabiam à Direcção-Geral da Assistência.
+
+...
+
+###### ARTIGO 64.º
+
+...
+
+3. Os quadros constantes da tabela B entrarão em vigor nos termos que sejam determinados em portarias dos Ministros das Finanças e da Saúde e Assistência, sendo o primeiro provimento feito de harmonia com o disposto no artigo 65.º
+
+...
+
+###### ARTIGO 66.º
+
+...
+
+4. O adjunto do secretário-geral, o subdirector do Gabinete de Estudos e Planeamento, os directores e subdirectores ou adjuntos do Instituto Nacional de Saúde e dos demais institutos são livremente nomeados pelo Ministro de entre pessoas especialmente qualificadas para o desempenho dos cargos.
+
+...
+
+7. Os chefes de repartição serão nomeados por escolha do Ministro de entre diplomados com um curso superior, ou de entre os chefes de secção dos quadros do Ministério, ou, na falta destes, de outros serviços públicos, num e noutro caso com mais de cinco anos de bom e efectivo serviço nesta categoria.
+
+...
+
+###### ARTIGO 70.º
+
+1. Além do pessoal compreendido no mapa anexo, o Ministro pode requisitar, para prestarem serviço no Gabinete de Estudos e Planeamento, funcionários com a categoria dos cargos que estejam a desempenhar na altura da requisição, ainda que neles providos interinamente ou em comissão de serviço, ou admitidos ao abrigo do artigo 82.º deste diploma.
+
+2. A estes cargos poderão regressar, nas mesmas condições e sem perda de quaisquer direitos ou regalias dos lugares de origem, logo que sejam dispensados dos seus serviços no Gabinete.
+
+...
+
+###### ARTIGO 86.º
+
+1. A concentração, conversão, alteração ou extinção dos serviços e estabelecimentos previstos no presente diploma, com excepção dos centros de saúde, far-se-ão, ouvido o Gabinete de Estudos e Planeamento e a direcção-geral interessada, por decreto do Ministro da Saúde e Assistência, referendado pelo Ministro das Finanças.
+
+...
+
+###### ARTIGO 91.º
+
+1. As delegações e subdelegações de saúde consideram-se extintas a partir da data em que, por despacho ministerial publicado no Diário do Governo, for decidida a entrada em funcionamento normal dos centros de saúde dos respectivos concelhos, para os quais transitam as suas funções.
+
+...
+
+###### ARTIGO 92.º
+
+1. Os dispensários de higiene social consideram-se extintos a partir da data em que, por despacho ministerial, publicado no Diário do Governo, for decidida a entrada em funcionamento normal dos centros de saúde dos respectivos concelhos, para os quais transitam as suas funções, direitos e obrigações.
+
+...
+
+###### ARTIGO 97.º
+
+1. ...
+
+...
+
+c) [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945, mantendo-se transitòriamente em vigor os artigos 66.º a 70.º, aplicáveis às delegações e subdelegações de saúde até à sua completa extinção e os artigos referentes às instituições particulares de assistência, enquanto não for publicado o seu novo regulamento, bem como o quadro do pessoal das circunscrições de defesa sanitária dos portos marítimos e aéreos, que consta do mapa V anexo ao referido [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), até que aquelas venham a integrar-se nos centros de saúde distritais, extinguindo-se, porém, os respectivos lugares à medida que forem vagando;
+
+...
+
+f) [Decreto-Lei n.º 42210](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42210-1959-585976), de 13 de Abril de 1959, excepto o § 2.º do artigo 6.º, enquanto não for publicado o diploma que reorganize a Junta Sanitária de Águas;
+
+...
+
+i) [Decreto-Lei n.º 48853](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48853-1969-526655), de 10 de Agosto de 1961, excepto os artigos 8.º e 9.º;
+
+...
+
+k) [Decreto-Lei n.º 44320](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44320-1962-516057), de 30 de Abril de 1962, mantendo-se, contudo, transitòriamente, as situações criadas ao abrigo do mesmo e existentes na data da publicação do presente diploma;
+
+...
+
+n) [Decreto-Lei n.º 46310](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46310-1965-236719), de 27 de Abril de 1965, excepto os n.os 2 e 3 do artigo 1.º;
+
+o) [Decreto-Lei n.º 48166](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48166-1967-401512), de 27 de Dezembro de 1967, excepto o artigo 5.º, o n.º 2 do artigo 14.º e a alínea a) do artigo 19.º, e sem prejuízo do disposto no [Decreto-Lei n.º 211/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1972-674003), de 23 de Junho.
+
+Art. 2.º São aditadas ao [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, as disposições dos artigos 11.º, n.º 6, 16.º, n.º 7, 32.º, n.º 10, 34.º, n.º 1, alínea 1), 65.º, n.º 6, e 70.º n.º 4, com a redacção seguinte:
+
+###### ARTIGO 11.º
+
+...
+
+6. O Conselho dos Directores-Gerais é um órgão de coordenação, ao qual incumbe coadjuvar o Ministro na harmonização e conjugação das actividades dos diversos órgãos e serviços do Ministério.
+
+...
+
+###### ARTIGO 16.º
+
+...
+
+7. O Ministro pode determinar, por despacho, que as despesas dos Serviços de Instalações e Equipamento decorrentes da elaboração de projectos, direcção, administração e fiscalização de obras e recepção de material sejam suportadas pelos respectivos utilizadores, até ao limite de 5 por cento do respectivo valor, devendo a aplicação desta verba ser justificada em balancete semestral, a aprovar pelo Ministro.
+
+...
+
+###### ARTIGO 32.º
+
+...
+
+10. Uma das direcções de serviços é dirigida pelo inspector superior de Salubridade.
+
+...
+
+###### ARTIGO 34.º
+
+1 ...
+
+...
+
+l) Orientar e fiscalizar os serviços de enfermagem dos estabelecimentos dependentes da Direcção-Geral de Saúde.
+
+###### ARTIGO 65.º
+
+...
+
+6. Efectuadas as colocações referidas nos n.os 1, 2 e 3 deste artigo, as primeiras nomeações para os lugares dos quadros serão feitas por escolha do Ministro da Saúde e Assistência de entre indivíduos com a idade e as habilitações legais, obedecendo o respectivo provimento ao disposto no artigo 67.º deste diploma.
+
+...
+
+###### ARTIGO 70.º
+
+...
+
+4. O tempo de serviço prestado no Gabinete de Estudos e Planeamento pelos funcionários requisitados nos termos do n.º 1 contará para todos os efeitos, incluindo os de acesso nas carreiras a que pertençam.
+
+Art. 3.º As gratificações fixadas nos termos das alíneas g) e h) do quadro II anexo a este diploma consideram-se atribuídas desde a data da colocação do respectivo pessoal.
+
+Art. 4.º Os artigos 7.º e 29.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro, passam a ter a seguinte redacção:
+
+###### ARTIGO 7.º
+
+O provimento do lugar de delegado de saúde de 1.ª classe é feito por concurso documental de entre os delegados de saúde de 2.ª classe e técnicos de 2.ª classe, médicos, e, na sua falta, de entre os médicos referidos no n.º 7.º do artigo anterior e pela mesma ordem de preferência.
+
+...
+
+###### ARTIGO 29.º
+
+1. As normas aplicáveis ao ingresso e acesso na carreira de ensino de enfermagem são as constantes do artigo 5.º do [Decreto-Lei n.º 48166](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48166-1967-401512), de 27 de Dezembro de 1967.
+
+2. O ingresso na categoria de técnicos de enfermagem de 2.ª classe (grau 8 dos serviços centrais) faz-se por concurso documental não só de entre os profissionais referidos no artigo 33.º, n.º 1, mas ainda entre os dos graus 3 e 4 das escolas que preencham os seguintes requisitos:
+
+a) Terem completado o 3.º ciclo dos liceus ou equivalente;
+
+b) Terem sido aprovados na secção de ensino do curso de enfermagem complementar.
+
+3. O acesso do grau 8 ao grau 9 faz-se por concurso de provas públicas.
+
+4. Ao concurso a que se refere o número anterior podem também ser admitidos os profissionais do grau 4 das escolas que reúnam os requisitos constantes das alíneas do n.º 2 deste artigo.
+
+Art. 5.º - 1. São alterados os quadros II, VI, VIII, IX e X anexos ao [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, e os mapas I e II anexos ao [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro, de acordo com os que vão publicados em anexo a este diploma, assinados pelo Ministro da Saúde e Assistência.
+
+2. As alterações na situação do pessoal resultantes das modificações dos quadros serão feitas por despacho ministerial publicado no Diário do Governo, independentemente de mais formalidades, incluindo o visto do Tribunal de Contas.
+
+3. Os encargos adicionais decorrentes das alterações aos quadros anexos ao presente diploma serão suportados pelas dotações orçamentais das verbas de pessoal de cada organismo.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Baltasar Leite Rebelo de Sousa.
+
+Promulgado em 10 de Agosto de 1972.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+QUADRO II
+
+Secretaria-Geral
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf)
+
+QUADRO VI
+
+Direcção-Geral de Saúde
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf)
+
+QUADRO VIII
+
+Direcção-Geral dos Hospitais
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf)
+
+QUADRO IX
+
+Direcção-Geral da Assistência Social
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf)
+
+QUADRO X
+
+Serviços locais
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf)
+
+MAPA I
+
+Carreiras profissionais do tipo I
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf)
+
+MAPA II
+
+Carreiras profissionais do tipo II
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/08/19500/11501154.pdf)
+
+NOTA
+
+As enfermeiras de saúde pública responsáveis de equipa receberão a gratificação mensal de 300$00, nos termos do [Decreto-Lei n.º 48166](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48166-1967-401512), de 27 de Dezembro de 1967, e do [Decreto-Lei n.º 211/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1972-674003), de 21 de Junho.
+
+O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.

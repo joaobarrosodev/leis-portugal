@@ -1,0 +1,465 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:69736206:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-116906096",
+ "dre_path": "/dr/detalhe/decreto-lei/125-2015-69736206",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-07-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116866633",
+    "116866634",
+    "116866635",
+    "116866636",
+    "116866637",
+    "116866638",
+    "116866639",
+    "116866640",
+    "116866641",
+    "116866642",
+    "116866643",
+    "116866644",
+    "116866645",
+    "116866646",
+    "116866647",
+    "116866648",
+    "116866649",
+    "116866650",
+    "116866651",
+    "116866653",
+    "116866654",
+    "116866655",
+    "116866656",
+    "116866657",
+    "116866658",
+    "116866659",
+    "116866660",
+    "116866661",
+    "116866662",
+    "116866663",
+    "116866664",
+    "116866665",
+    "116866666",
+    "116866667",
+    "116866668",
+    "116866669",
+    "116866670",
+    "116866671",
+    "116866672",
+    "116866673",
+    "116866674"
+   ]
+  },
+  {
+   "date": "2018-11-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116903097:por",
+     "title": "Decreto-Lei n.º 89/2018",
+     "published": "2018-11-07",
+     "dre_path": "/dr/detalhe/decreto-lei/89-2018-116903097"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "116866633",
+    "116866634",
+    "116866635",
+    "116866636",
+    "116866637",
+    "116866638",
+    "116866639",
+    "116866640",
+    "116866641",
+    "116866642",
+    "116866643",
+    "116866644",
+    "116866645",
+    "116866646",
+    "116909780",
+    "116866648",
+    "116866649",
+    "116866650",
+    "116866651",
+    "116866652",
+    "116866653",
+    "116866654",
+    "116866655",
+    "116866656",
+    "116866657",
+    "116866658",
+    "116866659",
+    "116866660",
+    "116866661",
+    "116866662",
+    "116866663",
+    "116866664",
+    "116866665",
+    "116866666",
+    "116866667",
+    "116866668",
+    "116866669",
+    "116866670",
+    "116866671",
+    "116866672",
+    "116866673",
+    "116866674"
+   ]
+  }
+ ],
+ "fragments": {
+  "116866633": {
+   "fragment_id": "116906097",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 125/2015\n\nde 7 de julho\n\nO XIX Governo Constitucional definiu a educação, área determinante para o futuro coletivo da nação, como um dos eixos fundamentais para a ação governativa, plasmando esta opção no respetivo Programa.\n\nO Governo assume a necessidade de melhorar a qualidade do que se ensina e do que se aprende, com vista à concretização das metas definidas na Estratégia Europa 2020, continuando firmemente empenhado em melhorar a educação e formação dos jovens e intensificando, para isso, a aposta na promoção de projetos educativos de referência e no desenvolvimento de melhores estratégias educativas, da introdução das vias vocacionais, do reforço e da requalificação do ensino profissionalizante e da melhoria da aprendizagem ao longo da vida.\n\nA prossecução destes objetivos no Sistema Educativo Português deve, obrigatoriamente, ser acompanhada de melhores formas de organização e de métodos de administração e gestão escolar, capazes de permitir uma adequação da vida escolar aos novos desafios no âmbito da educação e formação, bem como de alcançar um clima de estabilidade e de confiança nas escolas.\n\nNo cumprimento dos objetivos e desafios definidos pelo XIX Governo Constitucional e integrados no Sistema Educativo Português, deve atender-se às lições aprendidas e que se constituem como ponte para um melhor futuro educativo.\n\nAcresce ainda que, no âmbito da defesa nacional, os estabelecimentos militares de ensino são um instrumento de elevada importância na relação entre as Forças Armadas e a sociedade civil, partilhando com esta os princípios basilares da sua cultura e identidade, sendo determinante valorizar a sua história para identificar e potenciar os seus aspetos distintivos, assegurando as condições necessárias para a manutenção de um projeto de ensino de qualidade reconhecida, que assenta a sua especificidade e diferenciação nas dimensões que configuram a matriz militar.\n\nNeste domínio, a existência dos Estabelecimentos Militares de Ensino não Superior do Exército (EME), por ser secular e plena de experiência, merece um olhar profundo e inspirador para as mudanças do futuro, garantindo as condições para a manutenção da sua existência e promoção do seu papel único no Sistema Educativo Português.\n\nAssim, na prossecução dos princípios orientadores para a educação e para a consolidação do processo de reforma dos EME, define-se uma orgânica de sistema de ensino não superior de matriz militar que, preservando a memória do seu importante património histórico, potencia os diferentes projetos educativos aí ministrados.\n\nNeste sentido, com base na experiência acumulada, estabeleceu-se como ponto fulcral da reforma operada nos EME a redefinição, numa lógica integrada e sistémica, das funções da Direção de Educação do Exército, que foi criada pelo entretanto revogado Decreto-Lei n.º 61/2006, de 21 de março, que aprovou a Lei Orgânica do Exército, reforçando-a e atribuindo-lhe competências de coordenação e harmonização da gestão pedagógica e da racionalização da administração escolar dos EME.\n\nPor outro lado, mostra-se necessário promover a desafetação do domínio público militar dos imóveis adstritos ao funcionamento do Instituto de Odivelas, na medida em que deixam de ser necessários para a prossecução dos fins a que até agora se destinavam, visando a sua futura fruição pela comunidade.\n\nDesta forma, o presente decreto-lei conclui a reforma do ensino não superior de matriz militar, tendo como pilares fundamentais a criação de um sistema harmonizado, a redefinição orgânica, coerente e integrada das diversas entidades responsáveis pelo ensino não superior de matriz militar e garantindo que as medidas introduzidas concorrem para potenciar o modelo educativo e para a prossecução da sustentabilidade do sistema de ensino não superior ministrado nos EME, tanto no que diz respeito aos custos que lhe estão associados, como à procura por parte de famílias e alunos.\n\nAssim:\n\nAo abrigo do disposto no n.º 2 do artigo 33.º do Decreto-Lei n.º 186/2014, de 29 de dezembro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "116866634": {
+   "fragment_id": "116906098",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei procede à configuração do sistema de ensino não superior de matriz militar e, neste âmbito, à definição das atribuições, das competências e da estrutura orgânica da Direção de Educação do Exército (DE).\n\n2 - O presente decreto-lei aprova também o Estatuto dos Estabelecimentos Militares de Ensino não Superior do Exército (EME), doravante designado por Estatuto, o qual estabelece os princípios gerais da organização e do funcionamento do ensino não superior ministrado nos EME, no respeito pelos princípios do Sistema Educativo Português e pelas especificidades da formação de matriz militar."
+  },
+  "116866635": {
+   "fragment_id": "116906099",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Princípios\n\nA consolidação da implementação da reforma do ensino não superior ministrado nos EME faz-se de acordo com os seguintes princípios fundamentais:\n\na) Criação de um sistema, único e harmonizado, de ensino de matriz militar;\n\nb) Definição de uma organização integrada das diversas entidades responsáveis, nos diferentes escalões, pelo ensino de matriz militar;\n\nc) Garantia da potenciação do modelo educativo de matriz militar e da sustentabilidade do sistema de ensino não superior ministrado nos EME;\n\nd) Aplicação de projetos educativos que promovam um sistema de ensino misto, de convivência integrada de género na vida escolar, e optativo entre os regimes de frequência de externato e de internato;\n\ne) Acompanhamento da evolução das melhores práticas educativas e potenciando a relação das Forças Armadas com a sociedade civil."
+  },
+  "116866636": {
+   "fragment_id": "116906100",
+   "type": 11,
+   "heading": "Artigo 3.º — Sistema de ensino não superior de matriz militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sistema de ensino não superior de matriz militar\n\n1 - O sistema de ensino não superior de matriz militar compreende:\n\na) A DE;\n\nb) Os EME.\n\n2 - À DE incumbe dirigir, coordenar e supervisionar as atividades dos EME, bem como dos órgãos ou serviços no âmbito do sistema de ensino não superior ministrado nos EME.\n\n3 - Os EME são responsáveis pelo desenvolvimento dos respetivos projetos educativos assentes numa formação de matriz militar, no respeito pelos princípios fundamentais previstos no Sistema Educativo Português."
+  },
+  "116866637": {
+   "fragment_id": "116906101",
+   "type": 11,
+   "heading": "Artigo 4.º — Tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tutela\n\n1 - A tutela política do sistema de ensino não superior ministrado nos EME cabe ao membro do Governo responsável pela área da defesa nacional, ao qual compete, designadamente, a emissão de orientações estratégicas e de diretrizes gerais no que respeita à sua autonomia e ao seu modelo de financiamento.\n\n2 - Os EME encontram-se integrados na estrutura orgânica do Exército, na direta dependência da DE."
+  },
+  "116866638": {
+   "fragment_id": "116906102",
+   "type": 11,
+   "heading": "Artigo 5.º — Direção de Educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direção de Educação\n\n1 - A DE é integrada pelos:\n\na) Diretor de Educação (DirEd);\n\nb) Conselho Coordenador da Direção de Educação (CCDE);\n\nc) Supervisor Pedagógico (SP);\n\nd) Adjunto Militar (AdjMil);\n\ne) Gabinete de Estatística e Gestão da Qualidade (GEGQ).\n\n2 - A DE é responsável pela supervisão do funcionamento dos EME e pela garantia da qualidade do ensino aí ministrado, cabendo-lhe, em especial:\n\na) Dirigir a atividade dos EME na sua dependência, no cumprimento das orientações superiores, designadamente do Chefe do Estado-Maior do Exército (CEME) e Vice-Chefe do Estado-Maior do Exército (VCEME);\n\nb) Definir, coordenar e harmonizar as linhas orientadoras dos projetos pedagógicos dos EME, em obediência aos princípios fundamentais do Sistema Educativo Português e da formação de matriz militar;\n\nc) Definir, coordenar e harmonizar as linhas orientadoras no âmbito da gestão dos recursos humanos, docentes e não docentes, e materiais, criando mecanismos de partilha e racionalização dos ónus ou encargos;\n\nd) Elaborar o Regulamento de Admissão aos EME e submetê-lo a aprovação do CEME;\n\ne) Coordenar os processos de candidatura e seleção dos alunos;\n\nf) Adequar e integrar a calendarização das atividades dos EME;\n\ng) Criar instrumentos e procedimentos de avaliação interna e de garantia da qualidade do ensino baseados em padrões de excelência nacionais e internacionais;\n\nh) Acompanhar a evolução do Sistema Educativo Português, promovendo a indispensável adequação do sistema de ensino não superior de matriz militar e apresentando, sempre que necessário, as propostas essenciais à sua atualização, numa perspetiva de conjunto e atendendo às suas especificidades;\n\ni) Definir o perfil funcional do SP, atendendo em especial aos seguintes requisitos:\n\ni) Habilitação específica para o exercício de funções de administração e gestão escolar;\n\nii) Relevância da experiência profissional.\n\n3 - São, ainda, atribuições da DE:\n\na) Promover a cooperação e os intercâmbios culturais, científicos, pedagógicos e técnicos dos EME com instituições congéneres, nacionais e estrangeiras, com especial destaque para a aproximação entre os povos dos países de língua oficial portuguesa e dos países europeus;\n\nb) Instituir prémios e incentivos destinados a reconhecer o mérito, a distinguir a qualidade e a apoiar atividades que valorizem a formação de matriz militar nos EME;\n\nc) Coordenar e harmonizar as linhas orientadoras para a dinamização da imagem dos EME, em coordenação com o Gabinete do CEME."
+  },
+  "116866639": {
+   "fragment_id": "116906103",
+   "type": 11,
+   "heading": "Artigo 6.º — Diretor de Educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Diretor de Educação\n\nO DirEd é um oficial general na situação de reserva, nomeado pelo CEME, que dirige as atividades da DE e superintende os EME, respondendo pelo cumprimento da respetiva missão e competindo-lhe em especial:\n\na) Presidir ao CCDE e assegurar o seu funcionamento nos termos do respetivo regulamento interno;\n\nb) Aprovar, ouvido o CCDE:\n\ni) A formulação estratégica, onde constam as linhas gerais de orientação dos EME no plano pedagógico e dos recursos;\n\nii) O programa da formação de matriz militar e as disciplinas e cursos com planos próprios a ministrar nos EME;\n\nc) Superintender na administração e gestão escolar dos EME, cabendo-lhe, designadamente:\n\ni) Homologar os planos anuais e plurianuais de atividades;\n\nii) Homologar os regulamentos internos dos EME, de acordo com as diretivas e orientações do CEME;\n\niii) Homologar os projetos educativos e as respetivas alterações;\n\niv) Homologar os projetos curriculares de escola;\n\nv) Homologar os relatórios anuais de atividades;\n\nd) Nomear e exonerar o SP;\n\ne) Definir e aprovar as propostas de medidas de caráter técnico-pedagógico que considere adequadas para a garantia da qualidade do ensino;\n\nf) Nomear os coordenadores pedagógicos dos EME (CPE), sob proposta dos diretores dos EME, ouvido o SP;\n\ng) Aprovar, sob proposta do CCDE, o respetivo regulamento interno;\n\nh) Supervisionar a gestão administrativa e financeira dos EME, designadamente a elaboração do orçamento anual, e monitorizar a respetiva execução de acordo com as diretivas emanadas para a estrutura orgânica do Exército;\n\ni) Exercer as competências administrativo-financeiras que lhe sejam delegadas ou subdelegadas pelos CEME ou VCEME;\n\nj) Emitir orientações nas matérias relativas à vida escolar nos EME, designadamente no que se refere aos docentes, discentes, encarregados de educação e restante pessoal ao serviço nos EME;\n\nk) Supervisionar a execução de protocolos de cooperação com instituições de ensino, bem como praticar os demais atos para tal necessários e para os quais esteja autorizado, nos termos definidos pelo CEME;\n\nl) Aplicar as taxas e os emolumentos aprovados pelo CEME."
+  },
+  "116866640": {
+   "fragment_id": "116906104",
+   "type": 11,
+   "heading": "Artigo 7.º — Conselho Coordenador da Direção de Educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Conselho Coordenador da Direção de Educação\n\n1 - O CCDE é integrado pelos:\n\na) DirEd, que preside;\n\nb) Diretores dos EME;\n\nc) SP;\n\nd) AdjMil;\n\ne) CPE.\n\n2 - Ao CCDE compete emitir pareceres, elaborar estudos e apresentar propostas sobre a administração e gestão escolar, designadamente no que se refere a:\n\na) Orientações técnico-pedagógicas adequadas às diferentes modalidades de ensino dos EME;\n\nb) Alterações aos projetos curriculares dos EME, no âmbito da formação de matriz militar e das disciplinas e cursos com planos próprios;\n\nc) Nomeação do SP, de acordo com o perfil funcional definido;\n\nd) Adaptação ou renovação de equipamentos e instalações escolares;\n\ne) Regulamentação respeitante aos EME com incidência direta nas atividades de ensino;\n\nf) Seleção e recrutamento de docentes, bem como a sua distribuição e gestão;\n\ng) Planos de atividades anuais e plurianuais;\n\nh) Atividades escolares em cada período escolar e relatórios anuais de atividades.\n\n3 - O regime de deliberação e funcionamento do CCDE é definido no respetivo regulamento."
+  },
+  "116866641": {
+   "fragment_id": "116906105",
+   "type": 11,
+   "heading": "Artigo 8.º — Supervisor Pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Supervisor Pedagógico\n\n1 - O SP é um docente habilitado com competências ao nível da administração e gestão escolar e da orientação técnico-pedagógica de estabelecimentos de ensino, nomeado para um mandato de três anos.\n\n2 - O SP é o responsável perante o DirEd, em articulação com os CPE, pela gestão pedagógica do ensino ministrado nos EME, competindo-lhe, designadamente:\n\na) Supervisionar a reformulação dos projetos educativos dos EME, de acordo com as orientações técnico-pedagógicas definidas;\n\nb) Supervisionar a atividade pedagógica nos EME, zelando pelo cumprimento da legislação e das normas atinentes;\n\nc) Coordenar as atividades de ensino;\n\nd) Assegurar, em ligação com o AdjMil, a integração da formação de matriz militar nos projetos curriculares dos EME;\n\ne) Supervisionar a gestão dos recursos humanos e materiais pedagógicos necessários ao normal funcionamento das atividades de ensino;\n\nf) Coordenar a formação do pessoal docente;\n\ng) Supervisionar os processos de avaliação do desempenho do pessoal docente não militar, garantindo a sua equiparação a todo o corpo docente dos EME;\n\nh) Coordenar o apoio administrativo ao funcionamento do CCDE, nos termos do respetivo regulamento interno;\n\ni) Emitir parecer relativamente à nomeação dos CPE;\n\nj) Coordenar os processos de seleção e recrutamento de docentes em articulação com os CPE;\n\nk) Coordenar o processo de distribuição de docentes pelos EME e supervisionar a respetiva distribuição do serviço docente para cada ano letivo;\n\nl) Acompanhar os processos de avaliação externa dos projetos educativos dos EME, em coordenação com o GEGQ;\n\nm) Apresentar ao DirEd e ao CCDE propostas de:\n\ni) Medidas de caráter técnico-pedagógico que considere necessárias à garantia da qualidade do ensino;\n\nii) Recrutamento de docentes, acompanhadas do calendário previsto para os respetivos procedimentos;\n\niii) Requalificação de infraestruturas e aquisição de equipamentos pedagógicos, em coordenação com o AdjMil;\n\nn) Exercer as demais competências que lhe sejam delegadas pelo DirEd."
+  },
+  "116866642": {
+   "fragment_id": "116906106",
+   "type": 11,
+   "heading": "Artigo 9.º — Adjunto militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Adjunto militar\n\nO AdjMil é um oficial superior que responde perante o DirEd pela formação de matriz militar e pelo funcionamento administrativo da DE, competindo-lhe, em especial:\n\na) Articular com o SP a integração da formação de matriz militar nos projetos curriculares dos EME e assegurar o seu cumprimento;\n\nb) Supervisionar a execução dos planos de atividades dos EME, na vertente financeira;\n\nc) Coordenar a elaboração dos planos e relatórios de atividades referente à DE e aos EME;\n\nd) Coordenar as assessorias técnicas e protocoladas ao nível da DE."
+  },
+  "116866643": {
+   "fragment_id": "116906107",
+   "type": 11,
+   "heading": "Artigo 10.º — Gabinete de Estatística e Gestão da Qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Gabinete de Estatística e Gestão da Qualidade\n\n1 - Ao GEGQ compete:\n\na) Assegurar o processo de gestão da qualidade ao nível da DE e dos EME;\n\nb) Assegurar a coordenação e o controlo dos processos de avaliação interna, de acordo com as orientações do DirEd;\n\nc) Garantir o registo estatístico da atividade dos EME.\n\n2 - O GEGQ é chefiado por um civil ou militar habilitado com competências na área da gestão da qualidade."
+  },
+  "116866644": {
+   "fragment_id": "116906108",
+   "type": 11,
+   "heading": "Artigo 11.º — Dever de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Dever de informação\n\n1 - A DE reporta, através do Exército, ao serviço central do Ministério da Defesa Nacional responsável pela política de ensino e formação, com periodicidade anual, a informação relativa ao sistema de ensino não superior ministrado nos EME.\n\n2 - A natureza da informação referida no número anterior é definida mediante despacho do membro do Governo responsável pela área da defesa nacional."
+  },
+  "116866645": {
+   "fragment_id": "116906109",
+   "type": 11,
+   "heading": "Artigo 12.º — Regulamentação dos Estabelecimentos Militares de Ensino não Superior do Exército",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regulamentação dos Estabelecimentos Militares de Ensino não Superior do Exército\n\nOs regulamentos internos dos EME estão sujeitos às orientações determinadas pelo CEME, nos termos do Estatuto, e são homologados pelo DirEd, no prazo de 180 dias, a contar da data da entrada em vigor do presente decreto-lei, definindo, designadamente, as seguintes matérias:\n\na) A organização dos EME;\n\nb) A administração e gestão escolar;\n\nc) A autonomia dos EME, no respeito pelos limites impostos no Estatuto e em legislação complementar;\n\nd) Os modelos de diplomas e prémios."
+  },
+  "116866646": {
+   "fragment_id": "116906110",
+   "type": 11,
+   "heading": "Artigo 13.º — Aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Aprovação\n\nÉ aprovado o Estatuto dos Estabelecimentos Militares de Ensino não Superior do Exército, que consta do anexo ao presente decreto-lei e do qual faz parte integrante."
+  },
+  "116866647": {
+   "fragment_id": "116906111",
+   "type": 11,
+   "heading": "Artigo 14.º — Recursos do Instituto de Odivelas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Recursos do Instituto de Odivelas\n\n1 - Os recursos humanos, docentes e não docentes, que prestam serviço no Instituto de Odivelas devem transitar, preferencialmente, para o Colégio Militar (CM) ou para o Instituto dos Pupilos do Exército.\n\n2 - Os recursos materiais e pedagógicos são reafetados, preferencialmente, ao CM, podendo, em função das necessidades, ser alocados aos restantes estabelecimentos, unidades ou órgãos do sistema de ensino e formação do Exército.\n\n3 - O espólio documental do Instituto de Odivelas deve ser salvaguardado pela DE.\n\n4 - O PM01/Odivelas, sito no Largo D. Dinis, 2675-336 Odivelas, e o PM007/Cascais, designado por Forte Velho de Santo António da Barra, sito em Cascais, parcialmente omissos na matriz e registo predial, são desafetados do domínio público militar e integrados no domínio privado do Estado, para os efeitos previstos no Decreto-Lei n.º 32/99, de 5 de fevereiro, alterado pela Lei n.º 131/99, de 28 de agosto, tendo em vista a respetiva fruição pela comunidade.\n\n5 - O presente decreto-lei constitui título bastante para a inscrição dos imóveis referidos no número anterior nas correspondentes matrizes e registos prediais."
+  },
+  "116866648": {
+   "fragment_id": "116906112",
+   "type": 11,
+   "heading": "Artigo 15.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Produção de efeitos\n\nO Estatuto produz efeitos sobre os projetos educativos dos EME a partir do ano letivo de 2015/2016, inclusive."
+  },
+  "116866649": {
+   "fragment_id": "116906113",
+   "type": 11,
+   "heading": "Artigo 16.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Norma transitória\n\n1 - Até à entrada em vigor dos regulamentos internos e demais legislação prevista no Estatuto, mantém-se em vigor, com as necessárias adaptações, a regulamentação atualmente aplicável.\n\n2 - O cargo de DirEd pode continuar a ser ocupado por um major-general na situação de ativo, até que se atinjam os quantitativos previstos no mapa anexo ao Decreto-Lei n.º 186/2014, de 29 de dezembro, ou até que se verifique a sua substituição."
+  },
+  "116866650": {
+   "fragment_id": "116906114",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto n.º 32615, de 31 de dezembro de 1942;\n\nb) O Decreto n.º 34093, de 8 de novembro de 1944;\n\nc) O Decreto-Lei n.º 42632, de 4 de novembro de 1959;\n\nd) A Portaria n.º 872/81, de 29 de setembro, alterada pelas Portarias n.os 774/86, de 31 de dezembro, 4/2000, de 5 de janeiro, 1390/2002, de 25 de outubro, e 931/2005, de 28 de setembro, sem prejuízo do disposto no artigo anterior."
+  },
+  "116866651": {
+   "fragment_id": "116906115",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao termo do ano letivo 2014/2015."
+  },
+  "116866653": {
+   "fragment_id": "116906117",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 13.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 13.º)\n\nESTATUTO DOS ESTABELECIMENTOS MILITARES DE ENSINO NÃO SUPERIOR DO EXÉRCITO"
+  },
+  "116866654": {
+   "fragment_id": "116906118",
+   "type": 1,
+   "heading": "Capítulo I — Do âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Do âmbito"
+  },
+  "116866655": {
+   "fragment_id": "116906119",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - O presente Estatuto estabelece os princípios gerais da organização e do funcionamento do ensino não superior ministrado nos Estabelecimentos Militares de Ensino não Superior do Exército (EME), no respeito pelos princípios do Sistema Educativo Português e pelas especificidades da formação de matriz militar.\n\n2 - O presente Estatuto aplica-se aos EME.\n\n3 - São EME:\n\na) O Colégio Militar (CM);\n\nb) O Instituto dos Pupilos do Exército (IPE).\n\n4 - Em tudo o que não estiver expressamente regulado no presente Estatuto e em regulamentação dele decorrente, aplica-se aos EME o regime geral do Sistema Educativo Português, com as necessárias adaptações."
+  },
+  "116866656": {
+   "fragment_id": "116906120",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza\n\n1 - Os EME são estabelecimentos de ensino da rede pública escolar inseridos na estrutura orgânica do Exército.\n\n2 - Os EME, enquanto órgãos de base do Exército, caracterizam-se por conciliar a organização e os valores próprios das Forças Armadas com a organização e objetivos fundamentais do Sistema Educativo Português e da escola como ambiente privilegiado de aprendizagem.\n\n3 - A admissão aos EME obriga a provas de admissão e a sua frequência ao pagamento de mensalidades.\n\n4 - São excecionados do pagamento de mensalidades os órfãos de militares ou de membros das forças de segurança.\n\n5 - O CM ministra todos os ciclos do ensino básico e o ensino secundário.\n\n6 - O IPE ministra os 2.º e 3.º ciclos do ensino básico e o ensino secundário na modalidade de ensino profissional.\n\n7 - Os EME funcionam num sistema de ensino misto, promovendo a convivência integrada de género na vida escolar.\n\n8 - Os alunos que frequentam os EME podem optar entre o regime de externato e o de internato."
+  },
+  "116866657": {
+   "fragment_id": "116906121",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missão\n\nOs EME têm como missão assegurar uma sólida formação de matriz militar, intelectual, técnica, física, moral e cívica, inspirada nas qualidades e virtudes da vida militar, e na prossecução dos princípios fundamentais definidos no Sistema Educativo Português, bem como relevar o papel da defesa nacional e das Forças Armadas na sociedade."
+  },
+  "116866658": {
+   "fragment_id": "116906122",
+   "type": 11,
+   "heading": "Artigo 4.º — Ação social escolar e outros apoios educativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Ação social escolar e outros apoios educativos\n\n1 - Na prossecução da missão cometida aos EME, em especial no âmbito da ação social escolar, são desenvolvidas medidas de apoio de caráter pedagógico, social e financeiro, visando, entre outros objetivos, a promoção do sucesso escolar e educativo, de modo que todos os seus beneficiários, independentemente das suas condições sociais, económicas, culturais e familiares, tenham a possibilidade de concluir com sucesso o ensino secundário.\n\n2 - As formas de ação social escolar e outros apoios educativos, bem como os universos de beneficiários, são fixados mediante portaria do membro do Governo responsável pela área da defesa nacional."
+  },
+  "116866659": {
+   "fragment_id": "116906123",
+   "type": 1,
+   "heading": "Capítulo II — Da organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Da organização"
+  },
+  "116866660": {
+   "fragment_id": "116906124",
+   "type": 11,
+   "heading": "Artigo 5.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Organização\n\n1 - Os EME têm a seguinte organização:\n\na) Direção;\n\nb) Órgãos de conselho;\n\nc) Serviço escolar, chefiado pelo respetivo coordenador pedagógico;\n\nd) Corpo de alunos;\n\ne) Serviços de apoio.\n\n2 - Os órgãos de conselho compreendem, designadamente, o conselho pedagógico e o conselho escolar.\n\n3 - No âmbito do conselho escolar, deve ser acautelada a participação dos pais e encarregados de educação."
+  },
+  "116866661": {
+   "fragment_id": "116906125",
+   "type": 11,
+   "heading": "Artigo 6.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regulamentação\n\nA estrutura, a organização e as competências dos EME são desenvolvidas nos respetivos regulamentos internos."
+  },
+  "116866662": {
+   "fragment_id": "116906126",
+   "type": 11,
+   "heading": "Artigo 7.º — Diretores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Diretores\n\n1 - Os EME são dirigidos por um diretor (DirEME), com o posto de coronel, nomeado pelo Chefe do Estado-Maior do Exército (CEME).\n\n2 - As competências do DirEME são as que resultarem do respetivo regulamento interno e, em especial, as seguintes:\n\na) Responder pelos EME e orientar e coordenar os respetivos serviços;\n\nb) Assegurar a unidade e a continuidade da ação educativa;\n\nc) Exercer as competências administrativo-financeiras que lhe sejam cometidas por lei, bem como as que lhe sejam delegadas ou subdelegadas;\n\nd) Convocar os órgãos de conselho e presidir às respetivas reuniões;\n\ne) Promover e fiscalizar a manutenção da ordem e da disciplina em todos os serviços e a observância das leis e dos regulamentos;\n\nf) Enviar anualmente ao Diretor de Educação (DirEd) um relatório das atividades desenvolvidas pelos EME e propor as medidas que se revelem necessárias;\n\ng) Aprovar e submeter à homologação do DirEd os projetos educativos, o regulamento interno, o projeto curricular e os planos e relatórios de atividades;\n\nh) Aprovar a distribuição do serviço docente e não docente;\n\ni) Nomear os coordenadores dos departamentos curriculares, ouvido o respetivo conselho pedagógico;\n\nj) Exercer o poder disciplinar em relação aos alunos;\n\nk) Garantir, nos termos da lei, o processo de avaliação do desempenho do pessoal civil docente e não docente;\n\nl) Dirigir as atividades de ensino, formação, instrução e apoio aprovadas;\n\nm) Supervisionar os processos de avaliação interna dos projetos educativos;\n\nn) Coordenar os recursos humanos e materiais atribuídos;\n\no) Propor a nomeação do coordenador pedagógico;\n\np) Zelar pelo cumprimento dos planos e programas curriculares;\n\nq) Coordenar a elaboração dos planos, relatórios e atividades;\n\nr) Propor superiormente a aquisição de recursos materiais."
+  },
+  "116866663": {
+   "fragment_id": "116906127",
+   "type": 1,
+   "heading": "Capítulo III — Das especificidades e autonomia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Das especificidades e autonomia"
+  },
+  "116866664": {
+   "fragment_id": "116906128",
+   "type": 11,
+   "heading": "Artigo 8.º — Especificidades do ensino não superior de matriz militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Especificidades do ensino não superior de matriz militar\n\nO ensino não superior de matriz militar insere-se no Sistema Educativo Português em paridade pedagógica com os estabelecimentos de ensino públicos, particulares e cooperativos, no respeito pela especificidade própria da formação de matriz militar e caracteriza-se por:\n\na) Uma sólida educação moral, intelectual e física, com plena consciência dos deveres e direitos de cidadãos, respeitadores da pessoa humana e do meio ambiente, defensores do património cultural e histórico da sua Pátria, intervenientes e participativos no que respeita às responsabilidades sociais e cívicas;\n\nb) Uma formação comportamental inspirada nas virtudes e qualidades militares, nomeadamente a coragem, a lealdade, a honra, a camaradagem, o espírito de bem servir e o amor à Pátria, e uma rigorosa e exigente disciplina em todas as atividades enquanto conjunto de princípios e de valores de orientação da vivência escolar, no respeito pela integridade física e psicológica dos alunos;\n\nc) Um regime de avaliação que atenda aos planos curriculares específicos dos EME, definido mediante despacho dos membros do Governo responsáveis pelas áreas da defesa nacional e da educação e ciência."
+  },
+  "116866665": {
+   "fragment_id": "116906129",
+   "type": 11,
+   "heading": "Artigo 9.º — Autonomia dos Estabelecimentos Militares de Ensino não Superior do Exército",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Autonomia dos Estabelecimentos Militares de Ensino não Superior do Exército\n\n1 - A autonomia é a faculdade reconhecida a cada um dos EME para tomar decisões nos domínios da organização pedagógica, da organização curricular, da gestão dos recursos humanos, da ação social escolar e da gestão estratégica.\n\n2 - Os EME gozam de autonomia escolar nas vertentes cultural, administrativa, pedagógica e disciplinar.\n\n3 - A autonomia cultural caracteriza-se pela capacidade de definir o seu programa de formação e de iniciativas culturais decorrentes do património e legado históricos dos EME e do seu passado secular.\n\n4 - A autonomia administrativa caracteriza-se pela aprovação, no âmbito escolar, de regulamentos, diretivas ou determinações e pela prática de atos administrativos, nos termos previstos nos respetivos regulamentos e demais legislação aplicável.\n\n5 - A autonomia pedagógica caracteriza-se pela capacidade de conceber e aplicar um projeto educativo que valorize uma formação de matriz militar e que adeque a ação pedagógica às circunstâncias concretas e às características dos alunos.\n\n6 - A autonomia disciplinar caracteriza-se pela adoção de um regime disciplinar escolar próprio.\n\n7 - A autonomia de cada um dos EME, nas suas várias vertentes, é exercida no âmbito e no respeito pelos limites estabelecidos nas orientações estratégicas ou diretrizes emanadas pela tutela e pelo CEME.\n\n8 - Sem prejuízo do recurso a outros métodos e processos de avaliação institucional, os EME estão sujeitos ao sistema de avaliação externa das escolas promovido pelos serviços da educação e do ensino não superior, com vista à promoção da sua melhoria, eficiência e eficácia."
+  },
+  "116866666": {
+   "fragment_id": "116906130",
+   "type": 1,
+   "heading": "Capítulo IV — Do corpo docente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Do corpo docente"
+  },
+  "116866667": {
+   "fragment_id": "116906131",
+   "type": 11,
+   "heading": "Artigo 10.º — Docentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Docentes\n\n1 - O corpo docente dos EME é constituído por todos os docentes, formadores ou instrutores que, a qualquer título, desenvolvam atividade docente em cursos, estágios, unidades curriculares ou quaisquer outras atividades de ensino e formação.\n\n2 - Aos docentes é aplicável o Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril, sem prejuízo das necessárias adaptações decorrentes da natureza dos EME.\n\n3 - Os docentes podem exercer a sua atividade em ambos os EME, de acordo com uma adequada distribuição do serviço docente.\n\n4 - A avaliação do desempenho do pessoal docente dos EME é feita de acordo com os respetivos regimes de avaliação."
+  },
+  "116866668": {
+   "fragment_id": "116906132",
+   "type": 11,
+   "heading": "Artigo 11.º — Requisitos habilitacionais para a docência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Requisitos habilitacionais para a docência\n\nO corpo docente dos EME é constituído por profissionais dotados dos requisitos habilitacionais, reconhecida competência e mérito profissional e por conduta ética e moral compatível com os valores próprios dos EME."
+  },
+  "116866669": {
+   "fragment_id": "116906133",
+   "type": 1,
+   "heading": "Capítulo V — Do corpo discente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Do corpo discente"
+  },
+  "116866670": {
+   "fragment_id": "116906134",
+   "type": 11,
+   "heading": "Artigo 12.º — Corpo discente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Corpo discente\n\nO corpo discente é constituído, em cada ano letivo, por todos os alunos matriculados para a frequência de ciclos de ensino, cursos, estágios, unidades curriculares ou quaisquer outras atividades de ensino e formação, estando sujeito aos direitos e deveres previstos no Estatuto do Aluno e Ética Escolar, aprovado pela Lei n.º 51/2012, de 5 de setembro, sem prejuízo das necessárias adaptações decorrentes da natureza dos EME e das previstas nos respetivos regulamentos internos."
+  },
+  "116866671": {
+   "fragment_id": "116906135",
+   "type": 11,
+   "heading": "Artigo 13.º — Comissão de Admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Comissão de Admissão\n\n1 - O concurso de admissão aos EME é desenvolvido por uma Comissão de Admissão (CA), nomeada anualmente por despacho do DirEd, nos termos do Regulamento de Admissão aos EME.\n\n2 - A CA é o órgão responsável pela coordenação e controlo de todas as operações dos concursos em cada um dos EME, competindo-lhe, em especial:\n\na) Propor ao DirEd os requisitos necessários às candidaturas aos concursos, às provas de admissão e o respetivo conteúdo;\n\nb) Estabelecer anualmente a calendarização dos concursos;\n\nc) Estabelecer os critérios gerais de classificação e seriação dos candidatos, de acordo com as normas de admissão;\n\nd) Deliberar sobre a admissão ou a exclusão dos candidatos aos concursos;\n\ne) Propor, para homologação, a lista de classificação final dos candidatos;\n\nf) Apresentar propostas de alteração das fases do concurso;\n\ng) Elaborar o relatório final de atividades.\n\n3 - O regimento da CA é aprovado por despacho do DirEd."
+  },
+  "116866672": {
+   "fragment_id": "116906136",
+   "type": 11,
+   "heading": "Artigo 14.º — Regime de candidatura e admissão ao concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regime de candidatura e admissão ao concurso\n\n1 - O Regulamento de Admissão aos EME fixa as condições de candidatura e as regras aplicáveis ao concurso e às provas de admissão, no respeito pelos princípios fundamentais do Sistema Educativo Português e pelas especificidades da formação de matriz militar.\n\n2 - São requisitos gerais de candidatura e admissão aos EME possuir as condições físicas e psicológicas e os conhecimentos e as capacidades de base indispensáveis à frequência do nível de ensino a que o candidato se candidata no estabelecimento em causa.\n\n3 - O Regulamento de Admissão aos EME é aprovado pelo CEME."
+  },
+  "116866673": {
+   "fragment_id": "116906137",
+   "type": 11,
+   "heading": "Artigo 15.º — Matrícula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Matrícula\n\nCabe a cada EME efetuar o processo de matrícula, a qual é anual e obrigatória e confere, no respeito pelos direitos e deveres consagrados na lei e nos respetivos regulamentos internos, o estatuto próprio de aluno."
+  },
+  "116866674": {
+   "fragment_id": "116906138",
+   "type": 11,
+   "heading": "Artigo 16.º — Exclusão de alunos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Exclusão de alunos\n\n1 - Os alunos são excluídos de um EME, nos termos do respetivo regulamento interno, no respeito pelos princípios fundamentais do Sistema Educativo Português e pelas especificidades da formação de matriz militar.\n\n2 - Aos alunos que sejam excluídos de um EME aplicam-se as normas definidas pelo Ministério da Educação e Ciência para a transição de ano e matrícula noutro estabelecimento de ensino."
+  },
+  "116909780": {
+   "fragment_id": "116906111",
+   "type": 11,
+   "heading": "Artigo 14.º — Recursos do Instituto de Odivelas",
+   "in_force_from": "2018-11-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 89/2018 - Diário da República n.º 214/2018, Série I de 2018-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2018-116903097), em vigor a partir de 2018-11-08"
+   ],
+   "markdown": "###### Artigo 14.º — Recursos do Instituto de Odivelas\n\n1 - Os recursos humanos, docentes e não docentes, que prestam serviço no Instituto de Odivelas devem transitar, preferencialmente, para o Colégio Militar (CM) ou para o Instituto dos Pupilos do Exército.\n\n2 - Os recursos materiais e pedagógicos são reafetados, preferencialmente, ao CM, podendo, em função das necessidades, ser alocados aos restantes estabelecimentos, unidades ou órgãos do sistema de ensino e formação do Exército.\n\n3 - O espólio documental do Instituto de Odivelas deve ser salvaguardado pela DE.\n\n4 - O PM 01/Odivelas, sito no largo D. Dinis, 2675-336 Odivelas, e o PM07/Cascais, designado por Forte Velho de Santo António da Barra, sito em Cascais, são desafetados do domínio público militar, mantendo-se o primeiro no domínio público cultural do Estado e o segundo no domínio público marítimo do Estado.\n\n5 - O presente decreto-lei constitui título bastante para a inscrição dos imóveis referidos no número anterior nas correspondentes matrizes e registos prediais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 89/2018 - Diário da República n.º 214/2018, Série I de 2018-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2018-116903097), em vigor a partir de 2018-11-08"
+  },
+  "116866652": {
+   "fragment_id": "116906116",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 7 de maio de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - José Pedro Correia de Aguiar-Branco - Nuno Paulo de Sousa Arrobas Crato.\n\nPromulgado em 1 de julho de 2015.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 3 de julho de 2015.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

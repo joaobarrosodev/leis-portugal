@@ -1,0 +1,239 @@
+---
+schema_version: '1.0'
+id: pt:dre:74967188:por
+title: Decreto Legislativo Regional n.º 30/2016/M
+short_title: null
+summary: Adapta à Região Autónoma da Madeira, o regime jurídico de acesso e exercício de atividades de comércio, serviços
+  e restauração, aprovado em anexo ao Decreto-Lei n.º 10/2015, de 16 de janeiro
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 30/2016/M
+official_date: null
+publication_date: '2016-07-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 136/2016, Série I de 2016-07-18
+  number: '136'
+  series: I
+  supplement: null
+  pages: 2303 - 2304
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/07/13600/0230302304.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/30/2016/07/18/m/dre/pt/html
+  oj: null
+  dre: '74967188'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/30-2016-74967188
+  internal: pt:dre:74967188:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2016-74967188
+  metadata_url: https://data.dre.pt/eli/declegreg/30/2016/07/18/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2016-74967188
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:42:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 40a09417f2617f4e21f8aa1af3468abebbd4b4731f1ba6a097bfbb7fb2ede620
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:02Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comércio
+- Definição de Competências
+- Direção Regional da Economia e Transportes
+- Direcção Regional de Agricultura
+- Direcção Regional de Qualificação Profissional
+- Estabelecimento Comercial
+- Estabelecimento de Restauração
+- Inspecção Regional das Actividades Económicas
+- Instalação de Serviços
+- Licenciamento
+- Livre Prestação de Serviços
+- Madeira.região Autónoma
+- Multa
+relationships:
+- type: cites
+  target: celex:32006L0123
+  label: null
+  source: http://data.europa.eu/eli/dir/2006/123/oj
+- type: cites
+  target: pt:dre:150949:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/8/1999/03/03/m/dre
+- type: cites
+  target: pt:dre:152531:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/6/1999/03/02/m/dre
+- type: cites
+  target: pt:dre:175319:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/17/2012/08/16/m/dre
+- type: cites
+  target: pt:dre:258767:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/11/2013/03/08/m/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:498725:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/27/2013/07/29/m/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:66229856:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/10/2015/01/16/p/dre
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:42:02Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 30/2016/M
+
+Adapta à Região Autónoma da Madeira o regime jurídico de acesso e exercício de atividades de comércio, serviços e restauração (RJACSR), aprovado em anexo ao [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro.
+
+O [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro, aprova o regime jurídico de acesso e exercício de atividades de comércio, serviços e restauração (RJACSR).
+
+O novo regime jurídico de acesso e exercício de atividades de comércio, serviços e restauração, simplifica do ponto vista administrativo os procedimentos que se apresentam necessários ao licenciamento das atividades nele previsto, reduzindo deste modo, custos de contexto.
+
+O procedimento de autorização conjunta, para as grandes superfícies comerciais e conjuntos comerciais, previsto no artigo 13.º e seguintes do RJACSR, já se encontram regulamentados pelo [Decreto Legislativo Regional n.º 11/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2013-258767), de 8 março, que estabelece o regime jurídico da instalação e da modificação dos estabelecimentos de comércio a retalho e dos conjuntos comerciais, em conformidade com os imperativos comunitários em matéria de concorrência e de liberdade de estabelecimento, nomeadamente, a [Diretiva 2006/123/CE](https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32006L0123) do Parlamento Europeu e do Conselho, de 12 de dezembro.
+
+O diploma supramencionado não identifica as entidades que, na Região Autónoma da Madeira, devem exercer as competências nele previstas, importa suprir tal lacuna, procedendo à sua definição.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 227.º e do n.º 1 do artigo 228.º da Constituição da República Portuguesa, da alínea c) do n.º 1 do artigo 37.º e da alínea bb) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, com as alterações introduzidas pelas [Leis n.os 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - O presente diploma adapta à Região Autónoma da Madeira, o regime jurídico de acesso e exercício de atividades de comércio, serviços e restauração (RJACSR), aprovado em anexo ao [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro, nos termos do artigo 2.º do referido diploma.
+
+2 - Não são aplicados na Região Autónoma da Madeira, a alínea b) do artigo 1.º, o artigo 6.º e os artigos 13.º a 19.º do RJACSR.
+
+###### Artigo 2.º — Normas de aplicação
+
+1 - As referências feitas no RJACSR, à Direção-Geral das Atividades Económicas (DGAE) e ao Instituto da Mobilidade e Transportes, I. P. (IMT, I. P.), consideram-se, na Região Autónoma da Madeira, reportadas à Direção Regional de Economia e Transportes (DRET).
+
+2 - As referências feitas no RJACSR, à Direção-Geral de Alimentação e Veterinária (DGAV), Direção-Geral do Consumidor (DGC), Direção-Geral do Emprego e das Relações de Trabalho (DGERT) e à Autoridade de Segurança Alimentar e Económica (ASAE) consideram-se, na Região Autónoma da Madeira, reportadas à Direção Regional da Agricultura (DRA), Serviço de Defesa do Consumidor (SDC), à Direção Regional de Qualificação Profissional (DRQP) e à Inspeção Regional das Atividades Económicas (IRAE), respetivamente.
+
+###### Artigo 3.º — Destino das coimas
+
+O produto das coimas aplicadas nos termos no RJACSR constitui receita da Região Autónoma da Madeira, se aplicadas pela IRAE, ou do município respetivo se aplicadas pelo presidente da câmara.
+
+###### Artigo 4.º — Alteração ao [Decreto Legislativo Regional n.º 11/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2013-258767), de 8 de março
+
+O artigo 18.º do [Decreto Legislativo Regional n.º 11/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2013-258767), de 8 de março, passa a ter a seguinte redação:
+
+«Artigo 18.º
+
+[...]
+
+A abertura, a modificação e o encerramento dos estabelecimentos e conjuntos comerciais abrangidos pelo presente diploma são objeto de registo, efetuado pela Direção Regional da Economia e Transportes (DRET), e devem ser comunicados até 10 dias após a ocorrência do facto, o qual é considerado para efeitos do cadastro comercial nos termos do artigo 148.º do RJACSR.»
+
+###### Artigo 5.º — Disposição transitória
+
+Até à disponibilização na Região Autónoma da Madeira do «Balcão do empreendedor», o cumprimento das obrigações previstas no RJACSR realizam-se através do preenchimento de impresso a aprovar por portaria da Secretaria Regional da Economia, Turismo e Cultura.
+
+###### Artigo 6.º — Norma revogatória
+
+São revogados:
+
+a) O [Decreto Legislativo Regional n.º 8/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1999-150949), de 3 de março;
+
+b) O [Decreto Legislativo Regional n.º 6/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-1999-152531), de 2 de março;
+
+c) O [Decreto Legislativo Regional n.º 17/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2012-175319), de 16 de agosto;
+
+d) O [Decreto Legislativo Regional n.º 27/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2013-498725), de 29 de julho;
+
+e) O n.º 2 do artigo 16.º, o artigo 17.º e o n.º 2 do artigo 18.º do [Decreto Legislativo Regional 11/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2013-258767), de 8 de março;
+
+f) A Portaria n.º 121/99, de 26 de julho;
+
+g) A Portaria n.º 122/99, de 26 de julho;
+
+h) A Portaria n.º 123/99, de 26 de julho;
+
+i) A Portaria n.º 124/99, de 26 de julho;
+
+j) A Portaria n.º 125/99, de 26 de julho;
+
+k) A Portaria n.º 126/99, de 26 de julho, alterada pela Portaria n.º 128/2001, de 8 de outubro;
+
+l) A Portaria n.º 127/99, de 26 de julho;
+
+m) A Portaria n.º 153/99, de 9 de setembro;
+
+n) A Portaria n.º 224/99, de 28 de dezembro;
+
+o) A Portaria n.º 17/2000, de 10 de março;
+
+p) A Portaria n.º 78/2012, de 18 de junho;
+
+q) A Portaria n.º 9/2013, de 11 de fevereiro;
+
+r) A Portaria n.º 10/2013, de 11 de fevereiro;
+
+s) A Portaria n.º 118/2013, de 16 de dezembro;
+
+t) O Despacho n.º 054/99, de 19 de março.
+
+###### Artigo 7.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 15 de junho de 2016.
+
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
+
+Assinado em 4 de julho de 2016.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

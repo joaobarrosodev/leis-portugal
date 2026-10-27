@@ -1,0 +1,120 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:946529348:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2025-946696205",
+ "dre_path": "/dr/detalhe/portaria/406-2025-946529348",
+ "source_lastmod": "2026-06-11",
+ "versions": [
+  {
+   "date": "2026-06-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1131112497:por",
+     "title": "Portaria n.º 254/2026/1",
+     "published": "2026-06-11",
+     "dre_path": "/dr/detalhe/portaria/254-2026-1131112497"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "946754575",
+    "946754775",
+    "946754975",
+    "946755175",
+    "946755375",
+    "946757575",
+    "946757775",
+    "1131523575",
+    "946758175",
+    "946758375"
+   ]
+  }
+ ],
+ "fragments": {
+  "946754575": {
+   "fragment_id": "946754475",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Decreto-Lei n.º 382/99, de 22 de setembro, na sua redação atual, estabelece as normas e os critérios para a delimitação de perímetros de proteção de captações de águas subterrâneas destinadas ao abastecimento público, com a finalidade de proteger a qualidade das águas dessas captações.\n\nOs perímetros de proteção visam prevenir, reduzir e controlar a poluição das águas subterrâneas, nomeadamente por infiltração de águas pluviais lixiviantes e de águas excedentes de rega e de lavagens, potenciar os processos naturais de diluição e de autodepuração das águas subterrâneas, prevenir, reduzir e controlar as descargas acidentais de poluentes e, por último, proporcionar a criação de sistemas de aviso e alerta para a proteção dos sistemas de abastecimento de água proveniente de captações de águas subterrâneas, em situações de poluição acidental destas águas.\n\nTodas as captações de águas subterrâneas destinadas ao abastecimento público de água para consumo humano, bem como a delimitação dos respetivos perímetros de proteção, estão sujeitas às regras estabelecidas no mencionado Decreto-Lei n.º 382/99, de 22 de setembro, na sua redação atual, bem como ao disposto no artigo 37.º da Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de dezembro, na sua redação atual, e na Portaria n.º 702/2009, de 6 de julho.\n\nAcresce que o artigo 10.º do Decreto-Lei n.º 69/2023, de 21 de agosto, que estabelece o regime jurídico da qualidade da água destinada ao consumo humano, transpondo diversas diretivas, prevê que a Agência Portuguesa do Ambiente, I. P. (APA, I. P.), deve, sem prejuízo do disposto nos artigos 29.º, 37.º, 45.º, 48.º e 54.º da Lei da Água e demais legislação complementar, efetuar a avaliação do risco das bacias de drenagem dos pontos de captação de água destinada ao consumo humano, incluindo a caracterização das bacias de drenagem dos pontos de captação e observando, para o efeito, de entre outras orientações, conforme estabelecido na subalínea iii) da alínea a) do n.º 2 do referido artigo, a georreferenciação dos pontos de captação nas bacias de drenagem identificadas nos termos do n.º 3 do artigo 10.º, que apenas pode ser dado a conhecer à Entidade Reguladora dos Serviços de Águas e Resíduos (ERSAR), às autoridades de saúde, à Autoridade de Segurança Alimentar e Económica (ASAE), aos órgãos de polícia criminal e às entidades gestoras de sistemas públicos e privados de abastecimento de água servidos pelos pontos de captação, nos termos do disposto no Decreto-Lei n.º 20/2022, de 28 de janeiro, em conjugação com o Decreto-Lei n.º 22/2025, de 19 de março.\n\nNesse sentido, a APA, I. P., apresentou, nos termos do n.º 2 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de setembro, na sua redação atual, e com os fundamentos constantes da Informação n.º 011635-202507-ARHALT_DPI, de 17 de julho de 2025, proposta de delimitação dos perímetros de proteção e respetivos condicionamentos das captações de águas subterrâneas designadas por «Captação Santana (CP6) (490/55)» e «Captação Santana (CP8) (490/56)», localizadas na freguesia de freguesia de Santana, concelho de Portel, tendo por base as propostas e os estudos próprios que lhe foram apresentados pela Águas do Vale do Tejo, S. A. (AdVT), entidade gestora das referidas captações de águas subterrâneas destinadas ao abastecimento público para consumo humano da população de Santana.\n\nAssim:\n\nNos termos e para os efeitos do disposto no n.º 1 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de setembro, na sua redação atual, manda o Governo, pelo Secretário de Estado do Ambiente, no uso das competências delegadas ao abrigo da subalínea ii) da alínea b) do n.º 1 do Despacho n.º 9525/2025, da Ministra do Ambiente e Energia, publicado no Diário da República, 2.ª série, n.º 153, de 11 de agosto de 2025, o seguinte:"
+  },
+  "946754775": {
+   "fragment_id": "946754675",
+   "type": 11,
+   "heading": "Artigo 1.º — Delimitação de perímetros de proteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Delimitação de perímetros de proteção\n\n1 - É aprovada a delimitação dos perímetros de proteção das captações de águas subterrâneas designadas por «Captação Santana (CP6) (490/55)» e «Captação Santana (CP8) (490/56)», localizadas na freguesia de Santana, concelho de Portel, destinadas ao abastecimento público para consumo humano, nos termos dos artigos seguintes.\n\n2 - A massa de água Maciço Antigo Indiferenciado da Bacia do Sado (PTA0X1RH6_C2) foi classificada no âmbito do Plano de Gestão da Região Hidrográfica do Sado e Mira com Estado Global Medíocre.\n\n3 - As captações mencionadas no n.º 1 abastecem 463 habitantes com um volume médio de 57,80 m<sup>3</sup>/dia."
+  },
+  "946754975": {
+   "fragment_id": "946754875",
+   "type": 11,
+   "heading": "Artigo 2.º — Zona de proteção imediata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Zona de proteção imediata\n\n1 - As zonas de proteção imediata respeitantes aos perímetros de proteção das captações de águas subterrâneas mencionadas no artigo anterior correspondem às áreas da superfície do terreno contíguas às captações, delimitadas através de polígonos que resultam da união dos vértices cujas coordenadas são indicadas nos quadros constantes do anexo i à presente portaria, que dela faz parte integrante.\n\n2 - É interdita qualquer instalação ou atividade nas zonas de proteção imediata a que se refere o número anterior, com exceção das que tenham por objetivo a conservação, manutenção e melhor exploração das captações.\n\n3 - Os terrenos abrangidos pelas zonas de proteção imediata devem ser vedados e mantidos limpos de quaisquer resíduos, produtos ou líquidos que possam provocar infiltração de substâncias indesejáveis para a qualidade da água das captações, nos termos do n.º 1 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, na sua redação atual."
+  },
+  "946755175": {
+   "fragment_id": "946755075",
+   "type": 11,
+   "heading": "Artigo 3.º — Zonas de proteção intermédia e alargada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Zonas de proteção intermédia e alargada\n\n1 - As zonas de proteção intermédia e alargada respeitantes aos perímetros de proteção das captações de águas subterrâneas mencionadas no artigo 1.º são coincidentes e correspondem às áreas da superfície do terreno delimitadas através de polígonos que resultam da união dos vértices cujas coordenadas são indicadas no quadro constante do anexo ii à presente portaria, que dela faz parte integrante.\n\n2 - Nas zonas de proteção intermédia e alargada mencionadas no número anterior são interditas, nos termos dos n.<sup>os </sup>2 a 5 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, na sua redação atual, as seguintes atividades e instalações:\n\na) Infraestruturas aeronáuticas;\n\nb) Oficinas e estações de serviço de automóveis;\n\nc) Depósitos de materiais radioativos, de hidrocarbonetos e de resíduos perigosos;\n\nd) Postos de abastecimento e áreas de serviço de combustíveis;\n\ne) Transporte de hidrocarbonetos, de materiais radioativos ou de outras substâncias perigosas;\n\nf) Canalizações de produtos tóxicos;\n\ng) Lixeiras e aterros sanitários, incluindo quaisquer tipos de aterros para resíduos perigosos, não perigosos ou inertes;\n\nh) Rejeição e aplicação de efluentes pecuários e de lamas de depuração;\n\ni) Instalação de fossas de esgoto e séticas em zonas onde estejam disponíveis sistemas públicos de saneamento de águas residuais;\n\nj) Instalação de coletores de águas residuais e estações de tratamento de águas residuais;\n\nk) Unidades industriais suscetíveis de produzir substâncias poluentes que, de forma direta ou indireta, possam vir a alterar a qualidade da água subterrânea;\n\nl) Cemitérios;\n\nm) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas;\n\nn) Depósitos de sucata ou operações de gestão de resíduos;\n\no) Lagos e quaisquer obras ou escavações destinadas à recolha e armazenamento de água ou quaisquer substâncias suscetíveis de se infiltrarem, no caso de não serem impermeabilizadas, incluindo a realização de sondagens de pesquisa e captação de água subterrânea que não se destinem ao abastecimento público, desde que exista a possibilidade de ligação à rede pública de abastecimento de água, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desativadas;\n\np) Refinarias e indústrias químicas.\n\n3 - Nas zonas de proteção intermédia e alargada a que se refere o n.º 1 são condicionadas, nos termos do n.<sup>os </sup>2 e 4 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, na sua redação atual, as seguintes atividades e instalações:\n\na) Pastorícia, que pode ser desenvolvida desde que não cause impacte significativo nos recursos hídricos;\n\nb) Usos agrícolas e pecuários, que apenas são permitidos desde que não causem impacte significativo nos recursos hídricos;\n\nc) Aplicação de pesticidas móveis e persistentes na água ou que possam formar substâncias tóxicas, persistentes ou bioacumuláveis;\n\nd) Fossas séticas, que apenas podem ser permitidas caso respeitem rigorosos critérios de estanquidade, devendo as fossas existentes ser substituídas ou reconvertidas em sistemas estanques, e desde que, logo que estejam disponíveis sistemas públicos de saneamento de águas residuais nestas zonas, sejam desativadas todas as fossas com a efetivação da ligação predial ao sistema de saneamento;\n\ne) Construção de edificações, que podem ser permitidas desde que seja assegurada a ligação à rede de saneamento municipal ou, na sua impossibilidade, a instalação de fossa do tipo estanque;\n\nf) Estradas e caminhos-de-ferro, que podem ser permitidos desde que sejam tomadas as medidas necessárias para evitar a contaminação dos solos e da água subterrânea;\n\ng) Espaços destinados a práticas desportivas e a parques de campismo, que podem ser permitidos desde que as instalações ou atividades não promovam a contaminação da água subterrânea e seja assegurada a ligação das infraestruturas de saneamento à rede municipal."
+  },
+  "946755375": {
+   "fragment_id": "946755275",
+   "type": 11,
+   "heading": "Artigo 4.º — Representação das zonas de proteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Representação das zonas de proteção\n\nAs plantas de localização respeitantes aos perímetros de proteção das captações mencionadas no artigo 1.º constam do anexo iii à presente portaria, que dela faz parte integrante."
+  },
+  "946757575": {
+   "fragment_id": "946755475",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "946757775": {
+   "fragment_id": "946757675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Ambiente, João Manuel do Amaral Esteves, em 8 de novembro de 2025."
+  },
+  "1131523575": {
+   "fragment_id": "946757875",
+   "type": 14,
+   "heading": "Anexo I — Zona de proteção imediata",
+   "in_force_from": "2026-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2026/1 - Diário da República n.º 111/2026, Série I de 2026-06-11](https://diariodarepublica.pt/dr/detalhe/portaria/254-2026-1131112497), em vigor a partir de 2026-06-12."
+   ],
+   "markdown": "## Anexo I — Zona de proteção imediata\n\n(a que se refere o n.º 1 do artigo 2.º)\r\nCaptação Santana (CP6) (490/55)\n\n| Vértices | X (metros) | Y (metros) |\n| --- | --- | --- |\n| 1 | 33 656,90 | -154 493,75 |\n| 2 | 33 651,37 | -154 494,06 |\n| 3 | 33 651,25 | -154 489,65 |\n| 4 | 33 656,68 | -154 489,37 |\n\nCaptação Santana (CP8) (490/56)\n\n| Vértices | X (metros) | Y (metros) |\n| --- | --- | --- |\n| 1 | 33 530,50 | -154 416,03 |\n| 2 | 33 533,63 | -154 418,78 |\n| 3 | 33 533,20 | -154 427,48 |\n| 4 | 33 511,17 | -154 424,80 |\n| 5 | 33 511,20 | - 154 418,38 |\n\nNota. - As coordenadas dos vértices encontram-se no sistema de coordenadas EPSG 3763 (PT - TM06/ETRS89, origem no ponto central).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 254/2026/1 - Diário da República n.º 111/2026, Série I de 2026-06-11](https://diariodarepublica.pt/dr/detalhe/portaria/254-2026-1131112497), em vigor a partir de 2026-06-12."
+  },
+  "946758175": {
+   "fragment_id": "946758075",
+   "type": 14,
+   "heading": "Anexo II — Zonas de proteção intermédia e alargada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Zonas de proteção intermédia e alargada\n\n(a que se refere o n.º 1 do artigo 3.º)\nCaptação Santana (CP6) (490/55) e Captação Santana (CP8) (490/56)\n\n| Vértices | X (metros) | Y (metros) |\n| --- | --- | --- |\n| 1 | 33 216,17 | -154 479,78 |\n| 2 | 33 243,43 | -154 408,90 |\n| 3 | 33 308,86 | -154 348,93 |\n| 4 | 33 423,35 | -154 201,73 |\n| 5 | 33 581,47 | -154 038,18 |\n| 6 | 33 679,61 | -153 890,98 |\n| 7 | 33 755,95 | -153 765,58 |\n| 8 | 33 930,42 | -153 574,77 |\n| 9 | 34 023,11 | -153 356,69 |\n| 10 | 34 213,94 | -153 165,88 |\n| 11 | 34 361,15 | -153 105,91 |\n| 12 | 34 508,36 | -153 100,46 |\n| 13 | 34 628,30 | -153 149,53 |\n| 14 | 34 753,70 | -153 231,31 |\n| 15 | 34 868,19 | -153 329,45 |\n| 16 | 34 977,23 | -153 405,78 |\n| 17 | 35 080,82 | -153 471,21 |\n| 18 | 35 211,67 | -153 558,45 |\n| 19 | 35 287,99 | -153 629,32 |\n| 20 | 35 391,58 | -153 760,17 |\n| 21 | 35 440,65 | -153 869,21 |\n| 22 | 35 500,61 | -154 049,13 |\n| 23 | 35 609,65 | -154 190,88 |\n| 24 | 35 675,07 | -154 381,71 |\n| 25 | 35 767,75 | -154 577,98 |\n| 26 | 35 811,36 | -154 752,44 |\n| 27 | 35 784,10 | -154 834,22 |\n| 28 | 35 729,57 | -154 965,07 |\n| 29 | 35 609,62 | -155 052,30 |\n| 30 | 35 424,25 | -155 150,43 |\n| 31 | 35 173,45 | -155 270,37 |\n| 32 | 34 960,82 | -155 313,98 |\n| 33 | 34 699,11 | -155 341,23 |\n| 34 | 34 486,48 | -155 384,84 |\n| 35 | 34 295,65 | -155 444,81 |\n| 36 | 34 093,93 | -155 455,71 |\n| 37 | 33 897,65 | -155 439,34 |\n| 38 | 33 668,66 | -155 412,08 |\n| 39 | 33 625,05 | -155 346,65 |\n| 40 | 33 537,82 | -155 264,87 |\n| 41 | 33 439,68 | -155 112,21 |\n| 42 | 33 347,01 | -154 845,07 |\n| 43 | 33 276,13 | -154 632,44 |\n\nNota. - As coordenadas dos vértices encontram-se no sistema de coordenadas EPSG 3763 (PT - TM06/ETRS89, origem no ponto central)."
+  },
+  "946758375": {
+   "fragment_id": "946758275",
+   "type": 14,
+   "heading": "Anexo III — Plantas de localização das zonas de proteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Plantas de localização das zonas de proteção\n\n(a que se refere o artigo 4.º)\nCaptação Santana (CP6) (490/55) e Captação Santana (CP8) (490/56)\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/946577192) |\n| --- |\n\n| ![A imagem não se encontra disponível.](https://dre.pt/application/file/946577193) |\n| --- |"
+  }
+ }
+}

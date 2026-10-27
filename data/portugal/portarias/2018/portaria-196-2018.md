@@ -1,0 +1,297 @@
+---
+schema_version: '1.0'
+id: pt:dre:115645079:por
+title: Portaria n.º 196/2018
+short_title: null
+summary: Aprova o Regulamento do Incentivo a Grandes Eventos Internacionais através do Fundo de Apoio ao Turismo e ao Cinema
+  criado pelo Decreto-Lei n.º 45/2018, de 19 de junho
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Economia
+proposing_entity: null
+official_number: 196/2018
+official_date: null
+publication_date: '2018-07-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 128/2018, Série I de 2018-07-05
+  number: '128'
+  series: I
+  supplement: null
+  pages: 2906 - 2909
+  pdf_url: https://files.diariodarepublica.pt/1s/2018/07/12800/0290602909.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/196/2018/07/05/p/dre/pt/html
+  oj: null
+  dre: '115645079'
+  dre_path: /dr/detalhe/portaria/196-2018-115645079
+  internal: pt:dre:115645079:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/196-2018-115645079
+  metadata_url: https://data.dre.pt/eli/port/196/2018/07/05/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/196-2018-115645079
+  consolidated_url: null
+  retrieved_at: '2026-10-27T01:01:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 152a7f5b90d64bd1bdfee2e3ee7fccf9f67ca55bfdeaad972cf11c5600baad19
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-27T01:01:25Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cinema
+- Dotação Orçamental
+- Financiamento
+- Fundo de Apoio ao Turismo e ao Cinema
+- Gestão Orçamental
+- Projeto de Investimento
+- Regulamentação de Atos Legislativos
+- Regulamento
+- Turismo
+relationships:
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115536002:por
+  label: null
+  source: null
+article_structure:
+  article_count: 19
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-27T01:01:25Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 196/2018
+
+de 5 de julho
+
+O [Decreto-Lei n.º 45/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2018-115536002), de 19 de junho criou, nos termos do artigo 204.º da [Lei n.º 114/2017](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), de 29 de dezembro, o Fundo de Apoio ao Turismo e ao Cinema, abreviadamente designado por Fundo, que tem por objetivo apoiar ações, iniciativas e projetos que contribuam para o reforço do posicionamento de Portugal enquanto destino turístico, para a coesão do território, para a redução da sazonalidade e para a sustentabilidade no turismo, nomeadamente através do apoio à captação de grandes eventos internacionais, através do apoio à captação de filmagens internacionais para Portugal e da criação de instrumentos de financiamento das empresas do turismo.
+
+Em conformidade com o disposto na alínea b) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 45/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2018-115536002), de 19 de junho, importa estabelecer as regras de apoio à realização e captação de grandes eventos internacionais que sejam relevantes para o reposicionamento e afirmação da imagem e notoriedade do destino turístico «Portugal», ao que se procede pela presente portaria.
+
+Assim, ao abrigo da alínea b) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 45/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2018-115536002), de 19 de junho que cria o Fundo, e no uso da competência que me foi delegada através do Despacho n.º 7543/2017, de 18 de agosto, publicado no Diário da República, 2.ª série, n.º 164, de 25 de agosto de 2017, determino o seguinte:
+
+###### Artigo 1.º — Objeto
+
+É aprovado, em anexo à presente portaria, dela fazendo parte integrante, o Regulamento do Incentivo a Grandes Eventos Internacionais através do Fundo de Apoio ao Turismo e ao Cinema criado pelo [Decreto-Lei n.º 45/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2018-115536002), de 19 de junho.
+
+###### Artigo 2.º — Dotação
+
+A dotação inicial a afetar ao Incentivo a Grandes Eventos Internacionais é de 10 milhões de euros.
+
+###### Artigo 3.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+A Secretária de Estado do Turismo, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 29 de junho de 2018.
+
+## ANEXO — (a que se refere o artigo 1.º)
+
+Regulamento do Incentivo a Grandes Eventos Internacionais através do Fundo de Apoio ao Turismo e ao Cinema
+
+###### Artigo 1.º — Âmbito e objetivos
+
+O presente regulamento estabelece as regras de atribuição de apoios financeiros a projetos de investimento que visem a captação e realização de eventos de grande impacto internacional em Portugal e que promovam a geração de negócio turístico e o aumento de fluxos turísticos.
+
+###### Artigo 2.º — Dotação e cabimentação orçamental
+
+A dotação orçamental utilizada para a execução do regime emergente do presente diploma é definida pelo órgão responsável pela gestão do Fundo.
+
+###### Artigo 3.º — Projetos elegíveis
+
+1 - São suscetíveis de incentivo, ao abrigo do presente regulamento, os eventos desportivos, culturais ou de outra natureza que, pela projeção internacional que alcancem, se mostrem relevantes para a promoção internacional de Portugal enquanto destino turístico.
+
+2 - Por decisão do membro do Governo responsável pela área do turismo, em casos excecionais, devidamente fundamentados, e de manifesto interesse e relevância para o país, podem igualmente ser apoiados outros eventos que, não possuindo ainda a projeção internacional referida no número anterior, demonstrem ter potencial para obter a dimensão e projeção internacionais exigidas.
+
+###### Artigo 4.º — Promotores
+
+São promotores dos projetos a financiar ao abrigo do presente regulamento:
+
+a) As entidades da administração pública ou as entidades em que estas deleguem a realização dos projetos objeto de apoio financeiro;
+
+b) As entidades privadas que sejam detentoras dos direitos de organização de eventos ou responsáveis pela promoção de atividades de interesse turístico.
+
+###### Artigo 5.º — Condições de elegibilidade dos promotores
+
+Os promotores devem reunir as seguintes condições de elegibilidade, sob pena de imediata exclusão da respetiva candidatura:
+
+a) Estar devidamente habilitados para o exercício da atividade promovida, quando aplicável;
+
+b) Possuir as respetivas situações devedora e contributiva regularizadas perante a administração fiscal, a segurança social e o Turismo de Portugal, I. P.
+
+###### Artigo 6.º — Condições de elegibilidade dos projetos
+
+1 - Os projetos a candidatar têm de reunir as seguintes condições de elegibilidade:
+
+a) Demonstrar um impacto significativo na projeção internacional do destino Portugal, nos termos previstos no n.º 2;
+
+b) Contribuir para a realização dos objetivos definidos na Estratégia para o Turismo 2027 (ET 2027);
+
+c) Demonstrar relevância turística;
+
+d) Demonstrar que se encontram asseguradas as fontes de financiamento, garantindo o mínimo de 10 % da cobertura financeira;
+
+e) Evidenciar reunir as condições materiais e financeiras necessárias à respetiva execução;
+
+f) Não estar iniciada a respetiva realização física à data da apresentação da candidatura.
+
+2 - A projeção internacional referida na alínea a) do número anterior é comprovada através de elementos que evidenciem o âmbito geográfico da difusão dos eventos, a respetiva frequência e o reconhecimento mediático dos participantes.
+
+3 - Em situações excecionais e em razão de circunstâncias concretas, o membro do Governo responsável pela área do turismo pode autorizar o afastamento do requisito referido na alínea f) do n.º 1, sob proposta do Turismo de Portugal, I. P.
+
+###### Artigo 7.º — Natureza e intensidade dos apoios
+
+1 - Os apoios a conceder no âmbito do presente regulamento revestem a natureza de incentivos:
+
+a) Reembolsáveis, com ou sem remuneração;
+
+b) Não reembolsáveis; ou
+
+c) Mistos, com ou sem remuneração na parte reembolsável.
+
+2 - Sempre que os projetos o justifiquem, a intervenção do Fundo pode concretizar-se através da respetiva participação em entidades públicas e privadas constituídas pelos promotores e que tenham por objeto a realização dos eventos.
+
+3 - Os apoios a que se refere a alínea a) do n.º 1 podem ser convertidos em apoios não reembolsáveis em caso de cumprimento das metas que sejam definidas para tal efeito na análise das candidaturas.
+
+4 - O prémio a atribuir nos termos do número anterior corresponde a 50 % do montante do apoio, salvo se, por decisão do membro do Governo responsável pelo turismo, for fixada uma percentagem superior, até ao limite de 100 %.
+
+5 - Sem prejuízo do disposto no número seguinte, os apoios a conceder ao abrigo do presente regulamento têm o limite máximo de 2 milhões de euros e não podem corresponder a mais de 50 % do valor global das despesas elegíveis.
+
+6 - Em situações excecionais e em razão de circunstâncias concretas, o membro do Governo responsável pela área do turismo pode autorizar o afastamento dos limites máximos referidos no número anterior.
+
+###### Artigo 8.º — Condições dos incentivos reembolsáveis
+
+1 - Sem prejuízo do disposto no n.º 3 do artigo anterior, os apoios reembolsáveis têm as seguintes condições:
+
+a) Prazo máximo de reembolso: 10 anos;
+
+b) Prazo máximo de carência de capital: 3 anos;
+
+c) Taxa máxima de juro de mora: taxa máxima aplicada pelo Turismo de Portugal, I. P., acrescida de 3 %.
+
+2 - O prazo de carência de capital integra-se no prazo máximo de reembolso.
+
+3 - Por motivos devidamente justificados, e desde que as características dos projetos o justifiquem, pode o membro do Governo responsável pela área do turismo autorizar que os apoios a conceder excedam os prazos máximos a que se referem as alíneas a) e b) do n.º 1.
+
+4 - O reembolso dos apoios é assegurado por garantia bancária ou hipoteca, podendo o Turismo de Portugal, I. P., fundamentadamente, aceitar outras garantias admitidas em direito ou dispensar, total ou parcialmente, a prestação das mesmas.
+
+###### Artigo 9.º — Participação em entidades públicas e privadas
+
+Nos casos a que se refere o n.º 2 do artigo 7.º, o Fundo pode participar no órgão de gestão das entidades que realizam os eventos.
+
+###### Artigo 10.º — Critérios de avaliação e seleção dos projetos
+
+1 - Os projetos a que se refere o presente diploma são apreciados e selecionados de acordo com a ponderação dos seguintes critérios:
+
+a) Reconhecimento internacional do evento - é ponderada a dimensão do evento, designadamente se o mesmo é de âmbito europeu e/ou mundial, a regularidade com que o mesmo se realiza em Portugal, bem como o nível de participação internacional;
+
+b) Contributo para a notoriedade de Portugal - é valorada a forma como o evento proporciona a promoção internacional da imagem de Portugal enquanto destino turístico;
+
+c) Grau de exposição mediática em meios de comunicação social internacional - são considerados os meios de comunicação social internacionais que se encontram devidamente assegurados para a cobertura do evento, bem como a qualidade da exposição alcançada pelo evento.
+
+2 - Nenhum projeto pode ser apoiado se não evidenciar um grau relevante de preenchimento de todos os critérios.
+
+###### Artigo 11.º — Candidaturas
+
+1 - As candidaturas são apresentadas a todo o tempo, em formulário eletrónico disponível no sítio da internet do Turismo de Portugal, I. P.
+
+2 - Os processos de candidatura são instruídos com os seguintes elementos:
+
+a) Memórias descritivas dos eventos;
+
+b) Estimativas do custo do investimento, suportadas com orçamentos e com a identificação das fontes de financiamento previstas;
+
+c) Cronogramas dos eventos;
+
+d) Comprovativos da situação contributiva perante a administração fiscal e segurança social.
+
+3 - O Turismo de Portugal, I. P., aprecia tecnicamente as candidaturas no prazo máximo de 20 dias úteis, formulando, sempre que tal se justifique, propostas de participação do Fundo em entidades públicas ou privadas, e de definição de metas para efeitos de atribuição dos prémios a que se refere o n.º 3 do artigo 7.º
+
+4 - O prazo referido no número anterior considera-se suspenso sempre que o Turismo de Portugal, I. P., solicite esclarecimentos complementares que se afigurem necessários à apreciação da candidatura e até que os mesmos sejam cabalmente prestados.
+
+###### Artigo 12.º — Tramitação subsequente
+
+1 - Finda a análise das candidaturas, o Turismo de Portugal, I. P., submete o processo a decisão final do membro do Governo responsável pelo turismo.
+
+2 - O Turismo de Portugal, I. P., notifica os promotores das decisões finais que recaíram sobre as candidaturas, as quais incluem a indicação dos incentivos a conceder, os respetivos termos e condições.
+
+3 - As notificações referidas no número anterior, quando favoráveis, são acompanhadas do respetivo pedido de elementos necessários à formalização dos contratos de concessão do apoio ou do convite para participação do Fundo na entidade pública ou privada que tenha por objeto a realização dos eventos.
+
+###### Artigo 13.º — Contratos
+
+1 - Sem prejuízo do disposto em legislação específica, a concessão dos apoios referidos no n.º 1 do artigo 7.º é objeto de contrato a celebrar entre o Turismo de Portugal, I. P., e os promotores, cujo conteúdo integra, com as adaptações que em cada caso se justifiquem:
+
+a) A natureza e montante dos apoios;
+
+b) O prazo de execução dos projetos;
+
+c) As condições de libertação dos apoios;
+
+d) As condições de prorrogação do prazo referido na alínea b);
+
+e) As consequências do incumprimento das obrigações assumidas pelos promotores;
+
+f) Os termos de acompanhamento dos investimentos realizados e os respetivos indicadores de realização.
+
+2 - Os promotores devem manter atualizados todos os documentos relevantes para o acompanhamento do projeto, incluindo, sempre que for o caso, os documentos comprovativos das despesas efetuadas.
+
+###### Artigo 14.º — Caducidade do direito ao incentivo
+
+1 - Os documentos necessários à celebração dos contratos de concessão de incentivos, sem prejuízo de prazos mais curtos que possam vir a ser definidos por motivos de urgência em razão dos eventos a realizar, devem ser remetidos ao Turismo de Portugal, I. P., no prazo máximo de 20 dias úteis.
+
+2 - As negociações tendentes à participação do Fundo em entidades públicas ou privadas devem estar concluídas no prazo máximo de 30 dias úteis.
+
+3 - O incumprimento dos prazos referidos nos números anteriores por culpa do promotor, gera a caducidade do direito ao apoio aprovado, salvo se o Turismo de Portugal, I. P., considerar justificado o incumprimento verificado.
+
+###### Artigo 15.º — Gestores de Projeto e Comissões de Acompanhamento
+
+1 - O Turismo de Portugal, I. P., designa gestores de projeto, que ficam incumbidos de assegurar o acompanhamento permanente dos projetos.
+
+2 - Sem prejuízo do disposto no número anterior, sempre que o entenda conveniente em razão das características do projeto, o Turismo de Portugal, I. P., pode constituir comissões de acompanhamento dos mesmos, cuja composição é definida caso a caso.
+
+###### Artigo 16.º — Acompanhamento e controlo
+
+Sem prejuízo de outros mecanismos que venham a ser contratualmente definidos, o acompanhamento, controlo e execução dos projetos são efetuados nos seguintes termos:
+
+a) A verificação financeira dos projetos tem por base a declaração de despesa de investimento, subscrita por um Revisor Oficial de Contas, Técnico Oficial de Contas ou pelo responsável financeiro do promotor, na qual deverá ser confirmado o valor total do evento, a realização e pagamento das despesas relativas a fees, direitos de organização e promoção internacional, bem como a discriminação do montante das receitas e patrocínios;
+
+b) A verificação física dos projetos tem por base a realização de visitas técnicas aos locais de realização dos eventos.
+
+111471044

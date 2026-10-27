@@ -1,0 +1,190 @@
+---
+schema_version: '1.0'
+id: pt:dre:398136:por
+title: Decreto-Lei n.º 55/72
+short_title: null
+summary: Fixa novas normas a observar na emissão de acções das sociedades comerciais e adopta medidas que visam à protecção
+  dos investimentos particulares em valores mobiliários - Revoga várias disposições legislativas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios da Justiça e das Finanças
+proposing_entity: null
+official_number: 55/72
+official_date: null
+publication_date: '1972-02-16'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 39/1972, Série I de 1972-02-16
+  number: '39'
+  series: I
+  supplement: null
+  pages: 183 - 184
+  pdf_url: https://files.diariodarepublica.pt/1s/1972/02/03900/01830184.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '398136'
+  dre_path: /dr/detalhe/decreto-lei/55-1972-398136
+  internal: pt:dre:398136:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1972-398136
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1972-398136
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:25:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: bffe8d2e02cac1cd5d21fedde025eac1dc7245d30f124f49b3351e93d1831246
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:25:17Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Código Comercial
+- Emissão de Títulos
+- Inspecção Geral de Crédito e Seguros
+- Licenciamento
+- Mercado de Títulos
+- Sociedade Comercial
+relationships:
+- type: amended_by
+  target: pt:dre:326709:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:299430:por
+  label: "Alterados os arts. 1º, 4º, 5º e 9º pelo DEC LEI.258/78.29.08.1978.MFP, DR.IS [198] de 29.08.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/258-1978-299430
+  date: '1978-08-29'
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673217:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:326709:por
+  label: Revogado, a partir de 05.12.1978, pelo(a) Decreto-Lei n.º 371/78 - Diário da República n.º 276/1978, Série I de 1978-11-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/371-1978-326709
+  date: '1978-11-30'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:25:17Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 55/72
+
+de 16 de Fevereiro
+
+Com o objectivo de conseguir um melhor aproveitamento dos recursos financeiros do País e desse modo assegurar a execução dos programas de financiamento dos planos de fomento, foi oportunamente publicada legislação disciplinando as emissões de títulos de empresas privadas.
+
+Assim, o [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), de 27 de Outubro de 1962, fixou as condições a que está sujeita a autorização da emissão de títulos no mercado nacional. Nele se estabelece que dependem de prévio parecer favorável do Conselho de Ministros para os Assuntos Económicos não só a emissão de acções ou obrigações de quaisquer empresas privadas cujo valor exceda, no período de um ano, a importância de 10 milhões de escudos, mas também a constituição de empresas cujo capital social seja igual ou superior a 50 milhões de escudos.
+
+Entretanto, o crescimento económico do País e, sobretudo, a tendência para uma maior dimensão das empresas aconselham a que se proceda a um reajustamento do referido condicionalismo - aliás, dentro do propósito afirmado pelo Governo na Lei de Meios para 1972 -, adaptando-o às actuais características e às perspectivas futuras da economia nacional. Para o efeito, alterem-se desde já as normas relativas à emissão de acções. Fica, todavia, para momento ulterior a modificação do regime paralelo da emissão de obrigações, que pareceu aconselhável integrar no diploma que se prepara sobre a disciplina geral desta modalidade de títulos.
+
+O presente decreto-lei simplifica o processo administrativo da concessão de autorizações. Além disso, fornece uma definição mais clara dos actos que devem estar sujeitos a autorização do Ministro das Finanças.
+
+Complementarmente, procede-se à revisão de outros aspectos das actuais disposições, consagrando-se algumas medidas susceptíveis de melhor proteger todos aqueles que são solicitados a aplicar as suas disponibilidades em valores mobiliários. Deste modo se favorece o regular funcionamento do mercado financeiro, através da mobilização de poupanças e da sua orientação para o desenvolvimento económico do País.
+
+Tudo, sem dúvida, destinado à criação de novos estímulos ao investimento produtivo e à dinamização da actividade económica nacional.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º - 1. Depende de autorização do Ministro das Finanças a emissão de acções no continente e ilhas adjacentes por:
+
+a) Sociedades com a totalidade das suas acções admitidas à cotação numa das bolsas nacionais de valores, desde que sobre as mesmas se tenham efectuado, nos doze meses anteriores à emissão, transacções em mais de oitenta sessões e nestas se haja operado a transferência da titularidade de um numero de acções não inferior a 2 por cento do respectivo total - quando o valor efectivo das emissões exceda, no período de um ano, a importância de 250 milhões de escudos;
+
+b) Sociedades que estejam definitivamente constituídas há, pelo menos, cinco anos, ou que resultem da fusão de sociedades, uma das quais, pelo menos, tenha imediatamente antes exercido a sua actividade por um período mínimo de igual duração, ou que, tendo a totalidade das suas acções admitidas à cotação em uma das bolsas nacionais de valores, não satisfaçam aos requisitos fixados na alínea anterior - sempre que o valor efectivo das emissões exceda, no período de um ano, a importância de 100 milhões de escudos;
+
+c) Quaisquer outras sociedades - quando aquele valor exceda, no mesmo período, a importância de 50 milhões de escudos.
+
+2. Os limites fixados nas alíneas do número anterior podem ser alterados por resolução do Conselho de Ministros para os Assuntos Económicos, mediante proposta do Ministro das Finanças.
+
+3. Dependem igualmente de autorização do Ministro das Finanças todas as emissões efectuadas nas províncias ultramarinas e no estrangeiro por sociedades com sede no continente ou ilhas adjacentes, sem prejuízo de outras formalidades prescritas na lei.
+
+4. Não estão sujeitas a autorização as emissões de acções correspondentes a incorporação de reservas no capital social, bem como a transformação ou fusão de sociedades, qualquer que seja o seu valor.
+
+5. Quando as circunstâncias o aconselhem, pode o Ministro das Finanças, em decreto, baixar os limites fixados nas alíneas do n.º 1, com referência às emissões a realizar por sociedades que exerçam, ou pretendam exercer, as actividades económicas indicadas no mesmo diploma.
+
+Art. 2.º - 1. O valor efectivo da emissão para os efeitos do artigo precedente determina-se pela maior das importâncias que resultar da multiplicação do valor nominal ou do preço de emissão das acções pelo número de títulos a emitir.
+
+2. Sempre que os títulos a emitir se destinem a ser vendidos ao público pelos tomadores iniciais ou por qualquer entidade intermediária, o valor efectivo a considerar é determinado pela multiplicação do preço de venda final ao público pelo número de títulos a emitir.
+
+Art. 3.º - 1. Fica o Ministro das Finanças autorizado a fixar, em portaria, as condições em que podem ser oferecidos ao público, no continente e ilhas adjacentes, quaisquer títulos ou valores mobiliários.
+
+2. Salvaguardado o cumprimento das condições previstas no número anterior, a oferta ao público, no continente e ilhas adjacentes, de quaisquer títulos ou valores mobiliários emitidos ou a emitir por entidades aí não domiciliadas carece de autorização do Ministro das Finanças.
+
+Art. 4.º - 1. Depende também de autorização do Ministro das Finanças a constituição, no continente e ilhas adjacentes, de quaisquer empresas cujo capital social seja superior a 100 milhões de escudos.
+
+2. Quando as circunstâncias o aconselhem, pode o Ministro das Finanças, em decreto, baixar o limite fixado no número anterior, com referência às empresas cujo objecto inclua o exercício das actividades económicas mencionadas no mesmo diploma.
+
+Art. 5.º - 1. Os pedidos de autorização para a prática dos actos previstos nos artigos anteriores serão apresentados na Inspecção-Geral de Crédito e Seguros, que poderá requisitar dos interessados todos os elementos necessários à instrução do respectivo processo.
+
+2. Poderá a mesma Inspecção-Geral solicitar de todas as entidades emitentes de títulos ou valores mobiliários as informações necessárias à verificação do cumprimento das disposições deste diploma ou ao conhecimento da evolução do mercado financeiro.
+
+Art. 6.º Os notários, conservadores e outros funcionários que intervenham nas escrituras e demais actos decorrentes da constituição de sociedades e da emissão de acções deverão assegurar o rigoroso cumprimento do disposto nos artigos 1.º e 4.º, solicitando dos interessados os necessários documentos.
+
+Art. 7.º Para efeitos do presente diploma, considera-se que existe oferta ao público de títulos ou valores mobiliários sempre que se verifique um dos seguintes requisitos:
+
+a) Ser efectuada com recurso a quaisquer meios publicitários a promoção da venda dos títulos ou valores mobiliários ou a identificação dos eventuais subscritores ou compradores;
+
+b) Não estar prèviamente identificada a totalidade dos subscritores ou compradores;
+
+c) Ser superior a cem o número de possíveis subscritores ou compradores.
+
+Art. 8.º É permitida a emissão de acções destinadas simultâneamente a subscrição particular e pública.
+
+Art. 9.º As entidades sujeitas a fiscalização da Inspecção-Geral de Crédito e Seguros continuam a reger-se, nesta matéria, pela legislação respectiva.
+
+Art. 10.º As infracções ao presente decreto-lei e aos diplomas que de harmonia com ele venham a ser publicados são puníveis nos termos dos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, e demais legislação complementar.
+
+Art. 11.º São revogados o artigo 12.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), de 27 de Outubro de 1962, na parte respeitante à emissão de acções, o artigo 13.º do mesmo decreto-lei e o artigo 169.º do Código Comercial, na parte a que se refere o artigo 8.º do presente diploma.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas.
+
+Promulgado em 9 de Fevereiro de 1972.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser presente à Assembleia Nacional.

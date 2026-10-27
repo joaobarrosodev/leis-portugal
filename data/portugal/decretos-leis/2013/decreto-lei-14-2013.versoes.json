@@ -1,0 +1,867 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:257001:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-108043706",
+ "dre_path": "/dr/detalhe/decreto-lei/14-2013-257001",
+ "source_lastmod": "2025-06-04",
+ "versions": [
+  {
+   "date": "2013-01-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "108042232",
+    "108042233",
+    "108042234",
+    "108042235",
+    "108042236",
+    "108042237",
+    "108042238",
+    "108042239",
+    "108042240",
+    "108042241",
+    "108042242",
+    "108042243",
+    "108042244",
+    "108042245",
+    "108042246",
+    "108042247",
+    "108042248",
+    "108042249",
+    "108042250",
+    "108042251",
+    "108042252",
+    "108042253",
+    "108042254",
+    "108042255",
+    "108042256",
+    "108042257",
+    "108042258",
+    "108042259",
+    "108042260",
+    "108042261",
+    "108042262",
+    "108042263",
+    "108042264",
+    "108042265",
+    "108042266",
+    "108042267",
+    "108042268",
+    "108042269",
+    "108042270",
+    "108042271",
+    "108042272",
+    "108042273",
+    "108042274",
+    "108044675",
+    "108044676",
+    "108044677",
+    "108044678",
+    "108044679",
+    "108044680",
+    "108044681",
+    "108044682",
+    "108044683",
+    "108044684",
+    "108044685",
+    "108044686",
+    "108044687",
+    "108044688",
+    "108044689",
+    "108044690",
+    "108044691",
+    "108044692"
+   ]
+  },
+  {
+   "date": "2017-11-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108028571:por",
+     "title": "Lei n.º 89/2017",
+     "published": "2017-08-21",
+     "dre_path": "/dr/detalhe/lei/89-2017-108028571"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "108042232",
+    "108042233",
+    "108042234",
+    "108042235",
+    "920502768",
+    "108042237",
+    "108042238",
+    "108042239",
+    "108042240",
+    "108042241",
+    "108042242",
+    "108042243",
+    "108042244",
+    "920502769",
+    "108042246",
+    "108042247",
+    "920636636",
+    "108042249",
+    "108042250",
+    "920502771",
+    "920502772",
+    "108042253",
+    "920502773",
+    "108042255",
+    "108042256",
+    "920502774",
+    "108042258",
+    "108042259",
+    "108042260",
+    "108042261",
+    "108042262",
+    "108042263",
+    "108042264",
+    "920636575",
+    "108042266",
+    "108042267",
+    "920636576",
+    "108042269",
+    "108042270",
+    "108042271",
+    "108042272",
+    "108042273",
+    "108042274",
+    "108044675",
+    "108044676",
+    "108044677",
+    "920636577",
+    "108044679",
+    "108044680",
+    "108044681",
+    "920636578",
+    "108044683",
+    "108044684",
+    "108044685",
+    "108044686",
+    "108044687",
+    "108044688",
+    "108044689",
+    "920636579",
+    "108044691",
+    "108044692",
+    "108044693"
+   ]
+  },
+  {
+   "date": "2020-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:141382321:por",
+     "title": "Lei n.º 58/2020",
+     "published": "2020-08-31",
+     "dre_path": "/dr/detalhe/lei/58-2020-141382321"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "108042232",
+    "108042233",
+    "108042234",
+    "108042235",
+    "920502768",
+    "108042237",
+    "108042238",
+    "108042239",
+    "108042240",
+    "108042241",
+    "108042242",
+    "108042243",
+    "108042244",
+    "920502769",
+    "108042246",
+    "108042247",
+    "922206784",
+    "108042249",
+    "108042250",
+    "920502771",
+    "920502772",
+    "108042253",
+    "920502773",
+    "108042255",
+    "108042256",
+    "920502774",
+    "108042258",
+    "108042259",
+    "108042260",
+    "108042261",
+    "108042262",
+    "108042263",
+    "108042264",
+    "920636575",
+    "108042266",
+    "108042267",
+    "920636576",
+    "108042269",
+    "108042270",
+    "108042271",
+    "108042272",
+    "108042273",
+    "108042274",
+    "108044675",
+    "108044676",
+    "108044677",
+    "920636577",
+    "108044679",
+    "108044680",
+    "108044681",
+    "920636578",
+    "108044683",
+    "108044684",
+    "108044685",
+    "108044686",
+    "108044687",
+    "108044688",
+    "108044689",
+    "920636579",
+    "108044691",
+    "108044692",
+    "108044693"
+   ]
+  }
+ ],
+ "fragments": {
+  "108042232": {
+   "fragment_id": "108043707",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 14/2013\n\nde 28 de janeiro\n\nO número fiscal de contribuinte, bem como os procedimentos a adotar com vista à respetiva atribuição e gestão foram instituídos e regulados originariamente pelo Decreto-Lei n.º 463/79, de 30 de novembro.\n\nA experiência acumulada ao longo da vigência deste diploma determinou a reformulação de alguns daqueles procedimentos, a qual se traduziu nas alterações legislativas introduzidas pelos Decretos-Leis n.os 240/84, de 13 de julho, 266/91, de 6 de agosto, 19/97, de 21 de janeiro, pela Lei n.º 15/2001, de 5 de junho, e pelo Decreto-Lei n.º 81/2003, de 23 de abril.\n\nAdemais, a implementação do regime atinente ao cartão do cidadão, por um lado, e do regime do cartão da empresa e do cartão de pessoa coletiva, por outro, veio alterar as regras de emissão do cartão de contribuinte, impondo-se, por conseguinte, a harmonização da atual legislação.\n\nParalelamente, e associado à reformulação dos procedimentos adotados, o desenvolvimento das plataformas tecnológicas e a sua aplicação aos procedimentos de atribuição e gestão do atual número de identificação fiscal (NIF) tem vindo a tornar possível a prestação de determinados serviços por transmissão eletrónica de dados, designadamente no que concerne à alteração do domicílio fiscal e indicação do IBAN, permitindo assim a prestação de serviços mais rápidos e eficientes por parte da administração tributária e mais cómodos e eficazes para os contribuintes.\n\nDoutra face, a realidade fiscal portuguesa tem vindo a justificar a necessidade premente da criação das figuras do cancelamento e suspensão do NIF. Tal relevância impõe-se, sobretudo, no âmbito da renúncia à representação fiscal por parte do representante, sempre que este tenha comprovadamente diligenciado junto do representado no sentido da sua substituição, e esta não tenha sido concretizada.\n\nCom o presente diploma, pretende-se, assim, harmonizar a legislação atualmente em vigor, clarificando-se o conteúdo e procedimentos da atribuição e gestão do NIF. Sem descurar a necessária segurança jurídica, visa-se promover, deste modo, a máxima simplificação das formalidades, facilitando a apreensão e aplicação das normas legais em questão pelos seus destinatários.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelo artigo 171.º da Lei n.º 64-B/2011, de 30 de dezembro, alterada pela Lei n.º 20/2012, de 14 de maio, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "108042233": {
+   "fragment_id": "108043708",
+   "type": 13,
+   "heading": "Título I — Das disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título I — Das disposições gerais"
+  },
+  "108042234": {
+   "fragment_id": "108043709",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e princípios gerais\n\n1 -O presente diploma institui o número de identificação fiscal, bem como as condições da sua atribuição, respetivos efeitos e gestão.\n\n2 -Os procedimentos de atribuição e gestão do número de identificação fiscal devem observar os princípios gerais do procedimento tributário e, bem assim, os princípios da autenticidade, veracidade, univocidade e segurança dos dados identificadores dos contribuintes."
+  },
+  "108042235": {
+   "fragment_id": "108043710",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição\n\nO número de identificação fiscal, abreviadamente designado por NIF, é um número sequencial destinado exclusivamente ao tratamento de informação de índole fiscal e aduaneira, devendo ser gerado de forma automática em conformidade com as disposições constantes do presente diploma."
+  },
+  "108042236": {
+   "fragment_id": "108043711",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito\n\nO NIF é obrigatório para as pessoas singulares e coletivas ou entidades legalmente equiparadas que, nos termos da lei, se encontrem sujeitas ao cumprimento de obrigações ou pretendam exercer os seus direitos junto da Administração Tributária e Aduaneira (AT)."
+  },
+  "108042237": {
+   "fragment_id": "108043712",
+   "type": 13,
+   "heading": "Título II — Da atribuição do número de identificação fiscal e cartão de contribuinte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título II — Da atribuição do número de identificação fiscal e cartão de contribuinte"
+  },
+  "108042238": {
+   "fragment_id": "108043713",
+   "type": 1,
+   "heading": "Capítulo I — Da atribuição do número de identificação fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Da atribuição do número de identificação fiscal"
+  },
+  "108042239": {
+   "fragment_id": "108043714",
+   "type": 8,
+   "heading": "Secção I — Das pessoas singulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Das pessoas singulares"
+  },
+  "108042240": {
+   "fragment_id": "108043715",
+   "type": 11,
+   "heading": "Artigo 4.º — Número de identificação fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Número de identificação fiscal\n\n1 -O NIF a atribuir às pessoas singulares, sejam cidadãos nacionais ou estrangeiros, é um número composto por nove dígitos, sendo os oito primeiros sequenciais e o último um dígito de controlo.\n\n2 -O primeiro dígito da esquerda pode variar entre os algarismos 1 a 4.\n\n3 -Os algarismos iniciais «45» correspondem aos cidadãos não residentes que apenas obtenham em território português rendimentos sujeitos a retenção na fonte a título definitivo.\n\n4 -Cada cidadão apenas pode ser detentor da titularidade de um único NIF.\n\n5 -O exercício de qualquer atividade por pessoa singular, bem como a titularidade de estabelecimento individual de responsabilidade limitada, não determina a atribuição de novo NIF."
+  },
+  "108042241": {
+   "fragment_id": "108043716",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência para a atribuição de número de identificação fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competência para a atribuição de número de identificação fiscal\n\nÉ da competência exclusiva da AT a atribuição de NIF de pessoa singular."
+  },
+  "108042242": {
+   "fragment_id": "108043717",
+   "type": 11,
+   "heading": "Artigo 6.º — Legitimidade para requerer a atribuição de número de identificação fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Legitimidade para requerer a atribuição de número de identificação fiscal\n\n1 -A inscrição de pessoa singular, para efeitos de atribuição de NIF, pode ser requerida, nos termos gerais do direito, pelo interessado, seu representante ou gestor de negócios, salvo o disposto no número seguinte.\n\n2 -A inscrição dos cidadãos referidos no n.º 3 do artigo 4.º deve ser solicitada pelo substituto tributário."
+  },
+  "108042243": {
+   "fragment_id": "108043718",
+   "type": 11,
+   "heading": "Artigo 7.º — Entidades competentes para o processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entidades competentes para o processo\n\n1 -Os cidadãos nacionais que, nos termos do artigo 3.º, estejam obrigados a possuir NIF devem solicitar a respetiva atribuição, inscrevendo-se nos seguintes locais:\n\na) Serviços Locais de Finanças;\n\nb) Entidades indicadas nos n.os 2 e 3 do artigo 20.º da Lei n.º 7/2007, de 5 de fevereiro, no âmbito da emissão e substituição do cartão de cidadão;\n\nc) Outros locais devidamente autorizados para o efeito.\n\n2 -Podem, igualmente, solicitar a atribuição de NIF junto das entidades elencadas nas alíneas do número anterior, os cidadãos brasileiros que solicitem a obtenção do cartão de cidadão, ao abrigo do n.º 2 do artigo 3.º da Lei n.º 7/2007, de 5 de fevereiro.\n\n3 -Nos restantes casos, os cidadãos devem inscrever-se, para efeitos de atribuição de NIF, junto das entidades indicadas nas alíneas a) e c) do n.º 1.\n\n4 -A atribuição de NIF a cidadãos não residentes que apenas obtenham em território português rendimentos sujeitos a retenção na fonte a título definitivo é solicitada pelo substituto tributário, exclusivamente, por transmissão eletrónica de dados."
+  },
+  "108042244": {
+   "fragment_id": "108043719",
+   "type": 11,
+   "heading": "Artigo 8.º — Procedimentos e formalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Procedimentos e formalidades\n\n1 -Sem prejuízo do disposto no n.º 4 do artigo anterior, a inscrição para efeitos de atribuição de NIF deve ser efetuada a pedido do cidadão interessado, seu representante ou gestor de negócios, mediante declaração verbal de todos os elementos identificativos relevantes ao respetivo registo.\n\n2 -A verificação da fidedignidade dos elementos identificativos declarados deve ser feita pelo serviço recetor, por cotejo dos dados constantes no documento identificativo do interessado.\n\n3 -Sempre que o pedido de inscrição seja efetuado por representante ou gestor de negócios, a respetiva identidade e legitimidade deve ser confirmada pelo serviço recetor.\n\n4 -Os elementos identificativos são recolhidos de imediato no sistema informático, sendo posteriormente impressos em documento tipificado para confirmação do declarante.\n\n5 -Após conclusão do procedimento previsto no número anterior, é emitido e autenticado, pelo serviço recetor, o documento comprovativo de inscrição, do qual consta obrigatoriamente o NIF do contribuinte, que é entregue ao declarante.\n\n6 -O documento comprovativo referido no número anterior pode ser provisoriamente utilizado, para os devidos efeitos legais, até à receção do respetivo cartão de cidadão ou cartão de contribuinte, consoante os casos.\n\n7 -Sempre que a atribuição de NIF decorra ao abrigo de processo de emissão ou substituição de cartão de cidadão, as entidades referidas na alínea b) do n.º 1 do artigo anterior, solicitam à AT a atribuição do respetivo NIF.\n\n8 -A fidedignidade dos elementos identificativos do interessado, declarados perante as entidades referidas no número precedente, deve ser efetuada de acordo com os n.os 2 e 3.\n\n9 -A comunicação do NIF atribuído, nos termos do n.º 4 do artigo anterior, é efetuada exclusivamente por transmissão eletrónica de dados."
+  },
+  "108042245": {
+   "fragment_id": "108043720",
+   "type": 11,
+   "heading": "Artigo 9.º — Elementos identificativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Elementos identificativos\n\n1 -Para efeitos do disposto no n.º 1 do artigo anterior são considerados e devidamente recolhidos os seguintes elementos identificativos do respetivo interessado:\n\na) Nome completo;\n\nb) Domicilio fiscal;\n\nc) Estatuto fiscal, de acordo com as regras de conexão de residência previstas no Código do IRS;\n\nd) Naturalidade;\n\ne) Nacionalidade;\n\nf) Data de Nascimento;\n\ng) Sexo;\n\nh) Número de documento de identificação civil e respetiva designação;\n\ni) Número de Identificação Bancária (NIB) ou Número Internacional de Conta Bancária (IBAN);\n\nj) Grau de deficiência;\n\nk) Contactos telefónicos;\n\nl) Correio electrónico.\n\n2 -O NIF a atribuir automaticamente é considerado igualmente um elemento de identificação do interessado, nos termos do artigo 2.º\n\n3 -Sempre que a legislação fiscal determine a existência de representante para pessoa singular não residente, é recolhido igualmente o NIF do representante, bem como o NIF do gestor de bens ou direitos, quando aplicável.\n\n4 -Para efeitos de atribuição de NIF a cidadãos não residentes que apenas obtenham em território nacional rendimentos sujeitos a retenção na fonte a título definitivo, são declarados pelo substituto tributário, em conformidade com o n.º 4 do artigo 7.º, os seguintes elementos identificativos:\n\na) Nome completo;\n\nb) Residência no estrangeiro;\n\nc) NIF do país da residência;\n\nd) Naturalidade;\n\ne) Nacionalidade;\n\nf) Data de nascimento;\n\ng) Sexo;\n\nh) Número de Identificação Bancária (NIB) ou Número Internacional de Conta Bancária (IBAN);\n\ni) NIF do substituto tributário.\n\n5 -Os elementos referidos nas alíneas i), k) e l) do n.º 1, bem como nas alíneas c) e h) do número anterior são facultativos."
+  },
+  "108042246": {
+   "fragment_id": "108043721",
+   "type": 11,
+   "heading": "Artigo 10.º — Documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Documentos\n\n1 -A inscrição de cidadão nacional, para efeitos de atribuição de NIF, deve realizar-se mediante a apresentação do documento de identificação civil do interessado, designadamente bilhete de identidade, cartão de cidadão ou passaporte válidos, assento de nascimento ou cédula pessoal.\n\n2 -Os cidadãos estrangeiros que pretendam inscrever-se como residentes nos termos da legislação fiscal devem, no momento da respetiva inscrição, apresentar cumulativamente os seguintes documentos:\n\na) Documento de identificação civil ou outro legalmente equivalente;\n\nb) Título de autorização de residência ou documento equivalente.\n\n3 -Os cidadãos estrangeiros que pretendam inscrever-se como não residentes nos termos da legislação fiscal devem, no momento da respetiva inscrição, apresentar cumulativamente os seguintes documentos:\n\na) Documento de identificação civil ou outro legalmente equivalente;\n\nb) Procuração ou contrato de mandato com representação com o representante fiscal;\n\nc) Documento de identificação fiscal e civil do representante fiscal.\n\n4 -As alíneas b) e c) referidas no número anterior não são aplicáveis aos cidadãos não residentes que, de acordo com a legislação fiscal, não estejam obrigados a nomear representante fiscal.\n\n5 -Para efeitos dos números anteriores, a AT pode exigir produção de prova complementar ou documento apto a comprovar os elementos identificativos previstos no n.º 4 do artigo anterior, bem como, sempre que suscitem dúvidas sobre a exatidão ou titularidade dos elementos de identificação, praticar as diligências necessárias à comprovação dos mesmos."
+  },
+  "108042247": {
+   "fragment_id": "108043722",
+   "type": 8,
+   "heading": "Secção II — Das pessoas coletivas e entidades legalmente equiparadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Das pessoas coletivas e entidades legalmente equiparadas"
+  },
+  "108042248": {
+   "fragment_id": "108043723",
+   "type": 11,
+   "heading": "Artigo 11.º — Número de identificação fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Número de identificação fiscal\n\n1 -O NIF das entidades abrangidas pelo regime jurídico do Registo Nacional de Pessoas Coletivas (RNPC) corresponde ao Número de Identificação de Pessoas Coletiva (NIPC) que for atribuído por esta entidade, após emissão de certificado de admissibilidade de firma ou denominação ou de inscrição no ficheiro central de pessoas coletivas.\n\n2 -É da competência da AT a atribuição de NIF às seguintes entidades não previstas no número anterior:\n\na) Não residentes que apenas obtenham em território português rendimentos sujeitos a retenção na fonte a título definitivo;\n\nb) Fundos;\n\nc) Entidades que se encontrem sujeitas ao cumprimento de obrigações ou pretendam exercer os seus direitos junto da Administração Tributária.\n\n3 -O NIF a atribuir ao abrigo do n.º 2 do presente artigo inicia-se pelo algarismo «7», seguindo, com as necessárias adaptações, o regime previsto nos n.os 1 e 4 do artigo 4.º"
+  },
+  "108042249": {
+   "fragment_id": "108043724",
+   "type": 11,
+   "heading": "Artigo 12.º — Legitimidade para requerer a atribuição de número de identificação fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Legitimidade para requerer a atribuição de número de identificação fiscal\n\n1 -Tem legitimidade para requerer a atribuição de NIF às entidades indicadas na alínea a) do n.º 2 do artigo anterior o substituto tributário.\n\n2 -A atribuição de NIF às entidades indicadas nas alíneas b) e c) do n.º 2 do artigo anterior pode ser requerida pela entidade interessada, por meio dos respetivos representantes legais, bem como por qualquer representante ou gestor de negócios, nos termos gerais do direito."
+  },
+  "108042250": {
+   "fragment_id": "108043725",
+   "type": 11,
+   "heading": "Artigo 13.º — Entidades competentes para o processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entidades competentes para o processo\n\n1 -Para efeitos de inscrição e consequente atribuição de NIF, as entidades referidas na alínea a) do n.º 2 do artigo 11.º devem efetuar o pedido exclusivamente por transmissão eletrónica de dados.\n\n2 - As entidades referidas nas alíneas b) e c) do n.º 2 do artigo 11.º, devem efetuar o respetivo pedido nos seguintes locais:\n\na) Serviços de Finanças;\n\nb) Outros locais devidamente autorizados para o efeito."
+  },
+  "108042251": {
+   "fragment_id": "108043726",
+   "type": 11,
+   "heading": "Artigo 14.º — Procedimentos e formalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Procedimentos e formalidades\n\n1 -Os procedimentos e formalidades aplicáveis à atribuição de NIF às entidades previstas no n.º 2 do artigo 11.º, designadamente no que concerne aos documentos a apresentar, seguem, com as necessárias adaptações, o regime previsto no artigo 8.º\n\n2 -Aquando da inscrição e atribuição de NIF às entidades referidas na alínea b) do n.º 2 do artigo 11.º, o requerente deve apresentar, se aplicável, o respetivo diploma de criação e a autorização da Comissão do Mercado dos Valores Mobiliários."
+  },
+  "108042252": {
+   "fragment_id": "108043727",
+   "type": 11,
+   "heading": "Artigo 15.º — Elementos identificativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Elementos identificativos\n\n1 -Para efeitos de atribuição de NIF às entidades previstas nas alíneas b) e c) do n.º 2 do artigo 11.º e, quando aplicável, são declarados e devidamente recolhidos pela AT os seguintes elementos identificativos:\n\na) Denominação social;\n\nb) Natureza jurídica;\n\nc) Data da constituição da entidade;\n\nd) Sede, direção efetiva ou estabelecimento estável;\n\ne) NIF do representante legal;\n\nf) Contactos telefónicos;\n\ng) Correio electrónico.\n\n2 -São declarados pelo substituto tributário, para efeitos da alínea a) do n.º 2 do artigo 11.º, os seguintes elementos identificativos, quando aplicável:\n\na) Denominação social;\n\nb) Sede no estrangeiro;\n\nc) NIF do país da residência;\n\nd) Número de Identificação Bancária (NIB) ou Número Internacional de Conta Bancária (IBAN);\n\ne) NIF do substituto tributário.\n\n3 -Sempre que o NIF corresponda ao NIPC atribuído pelo RNPC, os elementos identificativos são transmitidos por esta entidade à AT, por meio de transmissão eletrónica de dados."
+  },
+  "108042253": {
+   "fragment_id": "108043728",
+   "type": 8,
+   "heading": "Secção III — Outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Outras entidades"
+  },
+  "108042254": {
+   "fragment_id": "108043729",
+   "type": 11,
+   "heading": "Artigo 16.º — Heranças indivisas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Heranças indivisas\n\n1 -Compete exclusivamente à AT a atribuição de NIF às heranças indivisas.\n\n2 -O NIF a atribuir inicia-se pelo algarismo «7».\n\n3 -Podem solicitar a atribuição de NIF para as heranças indivisas, junto dos Serviços de Finanças ou outros locais devidamente autorizados para o efeito, o cabeça de casal do autor da herança, seu representante ou gestor de negócios, nos termos gerais do direito.\n\n4 -São recolhidos no sistema informático, para efeitos de atribuição de NIF, os seguintes elementos:\n\na) Designação da herança, a qual deve conter obrigatoriamente o nome do respetivo autor seguido da expressão «cabeça-de-casal da herança de»;\n\nb) NIF do autor da herança;\n\nc) Data do óbito;\n\nd) NIF do cabeça de casal;\n\ne) Identificação fiscal dos herdeiros.\n\n5 -Para efeitos de confirmação dos elementos discriminados no número precedente, devem ser apresentados pelo requerente os seguintes documentos:\n\na) Registo do óbito do autor da herança;\n\nb) Documento de identificação civil e fiscal dos herdeiros;\n\nc) Documento de identificação civil e fiscal do requerente, caso não seja herdeiro.\n\n6 -A atribuição de NIF às heranças indivisas segue, com as necessárias adaptações, os procedimentos e formalidades estabelecidos no artigo 8.º, salvo o disposto nos n.os 7 e 9."
+  },
+  "108042255": {
+   "fragment_id": "108043730",
+   "type": 1,
+   "heading": "Capítulo II — Do cartão de contribuinte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Do cartão de contribuinte"
+  },
+  "108042256": {
+   "fragment_id": "108043731",
+   "type": 11,
+   "heading": "Artigo 17.º — Competência para a emissão de cartão de contribuinte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competência para a emissão de cartão de contribuinte\n\n1 -A emissão do cartão de contribuinte é da competência exclusiva da AT.\n\n2 -O modelo do cartão, bem como os procedimentos relativos ao envio ou entrega ao respetivo titular são definidos por portaria a aprovar pelo Ministro das Finanças, com faculdade de delegação."
+  },
+  "108042257": {
+   "fragment_id": "108043732",
+   "type": 11,
+   "heading": "Artigo 18.º — Emissão do cartão de contribuinte de pessoa singular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Emissão do cartão de contribuinte de pessoa singular\n\n1 -Após a atribuição de NIF, é sempre emitido cartão de contribuinte a todas as pessoas singulares, excepto às que se encontrem abrangidas pelo artigo 3.º da Lei n.º 7/2007, de 5 de fevereiro, por força do respetivo artigo 2.º.\n\n2 -Nos casos em que haja lugar à emissão de cartão de contribuinte de pessoa singular, do mesmo deve apenas constar o nome completo do seu titular, o NIF atribuído e a data de emissão."
+  },
+  "108042258": {
+   "fragment_id": "108043733",
+   "type": 11,
+   "heading": "Artigo 19.º — Emissão do cartão de contribuinte de pessoa coletiva e entidade legalmente equiparada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Emissão do cartão de contribuinte de pessoa coletiva e entidade legalmente equiparada\n\n1 -Após validação informática da declaração de início de atividade, é emitido cartão de contribuinte às seguintes entidades mencionadas no n.º 2 do artigo 11.º:\n\na) Fundos;\n\nb) Entidades não contempladas no regime jurídico do RNPC e que se encontrem sujeitas ao cumprimento de obrigações ou pretendam exercer os seus direitos junto da Administração Tributária, quando aplicável.\n\n2 -Não é emitido cartão de contribuinte aos sujeitos não residentes, que apenas obtenham em território português rendimentos sujeitos a retenção na fonte a título definitivo.\n\n3 -Até à emissão do cartão de contribuinte, as pessoas coletivas e entidades legalmente equiparadas são identificadas através do comprovativo da entrega da declaração referida no n.º 1.\n\n4 -O cartão emitido, nos termos legais, pelo RNPC para as entidades sujeitas ao seu regime jurídico serve, para os devidos efeitos, como cartão de contribuinte dessas entidades."
+  },
+  "108042259": {
+   "fragment_id": "108043734",
+   "type": 11,
+   "heading": "Artigo 20.º — Emissão de cartão de contribuinte às heranças indivisas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Emissão de cartão de contribuinte às heranças indivisas\n\nApenas é emitido cartão de contribuinte às heranças indivisas quando o cabeça-de-casal, seu representante ou gestor de negócios, o solicitem."
+  },
+  "108042260": {
+   "fragment_id": "108043735",
+   "type": 11,
+   "heading": "Artigo 21.º — Emissão de segunda via do cartão de contribuinte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Emissão de segunda via do cartão de contribuinte\n\nNos casos de mau estado de conservação, perda, destruição ou extravio deve o contribuinte solicitar a emissão de novo cartão."
+  },
+  "108042261": {
+   "fragment_id": "108043736",
+   "type": 1,
+   "heading": "Capítulo III — Do domicílio fiscal e representação fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Do domicílio fiscal e representação fiscal"
+  },
+  "108042262": {
+   "fragment_id": "108043737",
+   "type": 11,
+   "heading": "Artigo 22.º — Domicílio fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Domicílio fiscal\n\n1 -Considera-se domicílio fiscal o estatuído no artigo 19.º da Lei Geral Tributária.\n\n2 -O domicílio fiscal das heranças indivisas corresponde ao do respetivo cabeça de casal.\n\n3 -O domicílio fiscal dos fundos corresponde ao da sociedade gestora ou, quando aplicável, de outro representante legal."
+  },
+  "108042263": {
+   "fragment_id": "108043738",
+   "type": 11,
+   "heading": "Artigo 23.º — Representação fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Representação fiscal\n\n1 -Salvo disposição em contrário, os não residentes que, nos termos do artigo 3.º, estejam obrigados a ser detentores de NIF devem nomear representante fiscal.\n\n2 -O representante fiscal, pessoa singular ou coletiva domiciliada em Portugal, deve declarar expressamente a aceitação da representação.\n\n3 -O domicílio fiscal do representado corresponde ao do representante.\n\n4 -Não há lugar à nomeação de representante fiscal aos sujeitos não residentes que apenas obtenham em território português rendimentos sujeitos a retenção na fonte a título definitivo, devendo o pedido de inscrição ser efetuado pelo substituto tributário, nos termos do disposto no n.º 4 do artigo 7.º"
+  },
+  "108042264": {
+   "fragment_id": "108043739",
+   "type": 1,
+   "heading": "Capítulo IV — Das vicissitudes do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Das vicissitudes do registo"
+  },
+  "108042265": {
+   "fragment_id": "108043740",
+   "type": 11,
+   "heading": "Artigo 24.º — Alteração ao registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Alteração ao registo\n\n1 -Sempre que se verifique qualquer alteração dos elementos constantes do registo deve o contribuinte, seu representante ou gestor de negócios, comunicar as respetivas alterações à AT, no prazo de 15 dias a contar da data da ocorrência do facto determinante da alteração, salvo se outro prazo não decorrer expressamente da lei.\n\n2 -A alteração só produz efeitos a partir da comunicação à Administração Tributária.\n\n3 -A AT procede à alteração oficiosa dos elementos identificativos constantes no registo, designadamente:\n\na) Sempre que tenha tomado conhecimento de tais alterações, no âmbito das suas competências ou através da comunicação efetuada nos termos do artigo 28.º;\n\nb) Por meio de decisão judicial;\n\nc) Por erro imputável aos serviços.\n\n4 -As alterações ao registo seguem, com as necessárias adaptações, os procedimentos e formalidades previstos para a inscrição inicial.\n\n5 -As alterações ao registo podem ser ainda efetuadas por transmissão electrónica de dados, designadamente alteração ao domicílio fiscal e indicação do IBAN.\n\n6 -Sem prejuízo do regime jurídico do cartão de cidadão e do RNPC, é emitido, nos termos previstos no capítulo II, novo cartão de contribuinte após quaisquer alterações efetuadas aos elementos identificativos constantes da face do cartão.\n\n7 -Quando a AT tenha conhecimento de outros elementos relevantes no âmbito da identificação do contribuinte, designadamente a situação de insolvência e a data de óbito, deve proceder ao averbamento no respetivo registo."
+  },
+  "108042266": {
+   "fragment_id": "108043741",
+   "type": 11,
+   "heading": "Artigo 25.º — Cancelamento do número de identificação fiscal e do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Cancelamento do número de identificação fiscal e do registo\n\n1 -O diretor-geral da AT procede ao cancelamento do NIF e, sempre que aplicável, do respetivo registo, nas seguintes situações:\n\na) Multiplicidade de inscrições relativas à mesma pessoa;\n\nb) Decisão judicial.\n\n2 -Quando se verifiquem as situações referidas no número anterior, deve o cartão de contribuinte ser imediatamente devolvido à AT.\n\n3 -Sempre que o contribuinte ou o respetivo representante não dê cumprimento ao disposto no número precedente, a AT pode diligenciar no sentido de apreender o cartão.\n\n4 -O cancelamento implica sempre a perda definitiva do direito ao uso do NIF.\n\n5 -O cancelamento do NIF efetuado de acordo com a alínea a) do n.º 1, é precedido de audiência do interessado, cabendo recurso hierárquico da decisão definitiva, a interpor nos termos definidos no Código de Procedimento e de Processo Tributário."
+  },
+  "108042267": {
+   "fragment_id": "108043742",
+   "type": 11,
+   "heading": "Artigo 26.º — Suspensão do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Suspensão do registo\n\n1 -O diretor-geral da AT pode declarar a suspensão do NIF sempre que existam fortes indícios da prática do crime de fraude fiscal e a suspensão seja necessária para evitar o prosseguimento da atividade criminosa.\n\n2 -O procedimento referido no número anterior tem por base uma informação fundamentada dos serviços de inspeção tributária ou de outro serviço da AT.\n\n3 -A suspensão referida no n.º 1 caduca quando cessem as causas que a justifiquem.\n\n4 -O titular do NIF suspenso fica impedido, enquanto a suspensão se mantiver, de exercer quaisquer direitos perante a administração fiscal, de que possa resultar a obtenção de uma vantagem económica, relacionada com a atividade exercida, designadamente reembolsos e benefícios fiscais dependentes de reconhecimento.\n\n5 -Nos casos de renúncia à representação fiscal, em que a mesma assume caráter obrigatório, sempre que o representante tenha comprovadamente diligenciado junto do representado no sentido da sua substituição e esta não tenha sido concretizada, pode a AT suspender o NIF do representado até ao cumprimento dessa obrigação.\n\n6 -Da suspensão do NIF efetuada de acordo com o disposto no n.º 1, cabe recurso hierárquico, com efeito suspensivo, a interpor nos termos definidos no Código de Procedimento e de Processo Tributário."
+  },
+  "108042268": {
+   "fragment_id": "108043743",
+   "type": 11,
+   "heading": "Artigo 27.º — Inscrição oficiosa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Inscrição oficiosa\n\n1 -Sem prejuízo da infracção que ao caso couber, a AT procede fundamentadamente à inscrição oficiosa, para efeitos de atribuição de NIF, designadamente, nas seguintes situações:\n\na) O contribuinte não proceda à respetiva inscrição, estando para isso obrigado a fazê-lo nos termos do artigo 3.º;\n\nb) O autor da herança não seja detentor de NIF e tal facto seja relevante no âmbito da atribuição de NIF à respetiva herança indivisa;\n\nc) As entidades sujeitas ao regime jurídico do RNPC não cumpram as formalidades previstas nesse regime;\n\nd) As entidades sejam não residentes no território nacional, mas possuam sede em outro Estado membro, abrangidas pelo processo de reembolso de IVA previsto no Decreto-Lei n.º 186/2009, de 12 de agosto.\n\n2 -Nas situações previstas nas alíneas a) e c) do número anterior, a AT comunica ao contribuinte, por escrito, a respetiva inscrição.\n\n3 -Após a inscrição, e se aplicável em conformidade com o disposto no capítulo II, é emitido cartão de contribuinte."
+  },
+  "108042269": {
+   "fragment_id": "108043744",
+   "type": 11,
+   "heading": "Artigo 28.º — Cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Cooperação\n\nTodos os serviços públicos que, no exercício das suas competências, tomem conhecimento de factos suscetíveis de dar lugar à inscrição ou a qualquer atualização cadastral, devem comunicar tais factos à AT no prazo de 30 dias."
+  },
+  "108042270": {
+   "fragment_id": "108043745",
+   "type": 1,
+   "heading": "Capítulo V — Da obrigatoriedade de identificação fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Da obrigatoriedade de identificação fiscal"
+  },
+  "108042271": {
+   "fragment_id": "108043746",
+   "type": 11,
+   "heading": "Artigo 29.º — Menção do número de identificação fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Menção do número de identificação fiscal\n\n1 -É obrigatória a menção do NIF em todas as declarações, participações, guias de entrega de imposto, requerimentos, petições, exposições, reclamações, impugnações, recursos, ou quaisquer outros documentos que sejam ou devam ser apresentados nos serviços de Administração Tributária.\n\n2 -No caso de declarações verbais prestadas nos mesmos serviços e que aí devam ser reduzidas a termo, é igualmente obrigatório fazer-se prova do NIF dos declarantes, devendo o mesmo ser anotado no referido termo.\n\n3 -Nas relações com a Administração Tributária, os contribuintes devem apresentar o respetivo cartão de contribuinte ou documento legalmente equivalente."
+  },
+  "108042272": {
+   "fragment_id": "108043747",
+   "type": 11,
+   "heading": "Artigo 30.º — Obrigatoriedade de comprovação do número de identificação fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Obrigatoriedade de comprovação do número de identificação fiscal\n\n1 -Os serviços públicos ou quaisquer outras entidades públicas ou privadas devem, no cumprimento das obrigações tributárias que lhe estejam cometidas, exigir dos contribuintes a comprovação do seu NIF.\n\n2 -Os rendimentos sujeitos a retenção na fonte, ainda que dela isentos, não podem ser pagos ou postos à disposição dos respetivos titulares, pelas entidades competentes, sem que aqueles façam previamente a comprovação do seu NIF.\n\n3 -O substituto tributário deve mencionar sempre o NIF das entidades referidas na alínea a) do n.º 2 do artigo 11.º"
+  },
+  "108042273": {
+   "fragment_id": "108043748",
+   "type": 11,
+   "heading": "Artigo 31.º — Falta de menção do número de identificação fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Falta de menção do número de identificação fiscal\n\n1 -Sem prejuízo das sanções estabelecidas na lei, são recusados ou considerados como não apresentados nos serviços da administração tributária os documentos que não mencionem o NIF, quando dos mesmos deva constar.\n\n2 -Em caso de omissão da menção do NIF em requerimentos, petições, exposições, reclamações, impugnações ou recursos, não sendo possível o seu suprimento oficioso, são os interessados convidados a suprir a deficiência existente.\n\n3 -São liminarmente indeferidos os documentos previstos no número anterior cuja deficiência não seja possível suprir por qualquer dos termos aí previstos.\n\n4 -O não cumprimento do disposto no n.º 3 do artigo 29.º constitui fundamento de recusa liminar de prestação de quaisquer informações ou declarações."
+  },
+  "108042274": {
+   "fragment_id": "108043749",
+   "type": 1,
+   "heading": "Capítulo VI — Das disposições gerais sobre documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Das disposições gerais sobre documentos"
+  },
+  "108044675": {
+   "fragment_id": "108043750",
+   "type": 11,
+   "heading": "Artigo 32.º — Autenticidade e legalidade dos documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Autenticidade e legalidade dos documentos\n\n1 -Os documentos apresentados, para efeitos da aplicação do presente diploma, devem ser originais ou cópias autenticadas, aceitando-se apenas cópias simples mediante o acompanhamento dos respetivos originais.\n\n2 -Os documentos lavrados no estrangeiro, bem como as assinaturas reconhecidas no estrangeiro, devem, aquando da sua apresentação, encontrar-se devidamente validados pelas autoridades competentes.\n\n3 -Os documentos redigidos em língua estrangeira devem ser apresentados em cópia traduzida devidamente certificada, nos termos da lei portuguesa.\n\n4 -Sempre que suscitem dúvidas acerca dos factos alegados pelo contribuinte ou seu representante, pode a AT exigir produção de prova complementar, bem como praticar as diligências necessárias à comprovação dos mesmos."
+  },
+  "108044676": {
+   "fragment_id": "108043751",
+   "type": 13,
+   "heading": "Título III — Da base de dados do registo de contribuintes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título III — Da base de dados do registo de contribuintes"
+  },
+  "108044677": {
+   "fragment_id": "108043752",
+   "type": 1,
+   "heading": "Capítulo I — Do Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Do Registo"
+  },
+  "108044678": {
+   "fragment_id": "108043753",
+   "type": 11,
+   "heading": "Artigo 33.º — Atos praticados perante ou pela Administração Tributária e Aduaneira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Atos praticados perante ou pela Administração Tributária e Aduaneira\n\nSão, nomeadamente, praticados perante ou pela AT os seguintes atos:\n\na) Inscrição de pessoa singular;\n\nb) Inscrição de pessoa coletiva e entidade legalmente equiparada;\n\nc) Inscrição de heranças indivisas;\n\nd) Alteração dos elementos identificativos registados;\n\ne) Cancelamento e suspensão da inscrição."
+  },
+  "108044679": {
+   "fragment_id": "108043754",
+   "type": 11,
+   "heading": "Artigo 34.º — Eficácia da comunicação dos factos sujeitos a registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Eficácia da comunicação dos factos sujeitos a registo\n\nPara efeitos do presente diploma, e salvo disposição legal em contrário, os factos sujeitos a registo só produzem efeitos perante a Administração Tributária após comunicação efetuada pelo contribuinte."
+  },
+  "108044680": {
+   "fragment_id": "108043755",
+   "type": 1,
+   "heading": "Capítulo II — Da proteção de dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Da proteção de dados pessoais"
+  },
+  "108044681": {
+   "fragment_id": "108043756",
+   "type": 11,
+   "heading": "Artigo 35.º — Finalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Finalidades\n\nO tratamento de ficheiros com dados pessoais a realizar por força do presente diploma visa estabelecer a integridade, veracidade e funcionamento seguro da atribuição e gestão do NIF."
+  },
+  "108044682": {
+   "fragment_id": "108043757",
+   "type": 11,
+   "heading": "Artigo 36.º — Tratamento de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Tratamento de dados\n\n1 -São objeto de recolha e tratamento os elementos de identificação do titular do NIF mencionados nos n.os 1 e 4 do artigo 9.º, para as pessoas singulares, nos n.os 1 e 2 do artigo 15.º, para as pessoas coletivas e entidades legalmente equiparadas, e no n.º 4 do artigo 16.º, para as heranças indivisas.\n\n2 -O tratamento dos elementos de identificação do titular ocorre associado às seguintes operações relativas à atribuição e gestão do NIF:\n\na) Receção, instrução e execução dos pedidos de atribuição do NIF;\n\nb) Receção, instrução e execução dos pedidos de atualização dos elementos constantes do registo;\n\nc) Execução do cancelamento (e suspensão) do registo;\n\nd) Personalização do cartão de contribuinte;\n\ne) Cooperação entre entidades competentes, quando legalmente permitido.\n\n3 -A recolha e o tratamento dos dados necessários às operações referidas no número anterior, com exceção da alínea d), só podem ser efetuados por entidades ou serviços da Administração Pública e respetivos trabalhadores em funções públicas."
+  },
+  "108044683": {
+   "fragment_id": "108043758",
+   "type": 11,
+   "heading": "Artigo 37.º — Comunicação de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Comunicação de dados\n\nSem prejuízo do disposto no artigo seguinte, a informação constante da base de dados do registo de contribuintes da AT só pode ser transmitida nas condições previstas no artigo 64.º da Lei Geral Tributária."
+  },
+  "108044684": {
+   "fragment_id": "108043759",
+   "type": 11,
+   "heading": "Artigo 38.º — Informação para fins de investigação ou estatística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Informação para fins de investigação ou estatística\n\nPara além dos casos previstos no artigo anterior, a informação constante na base de dados de registo de contribuintes da AT pode ser publicamente divulgada, nomeadamente para fins de investigação ou estatística, desde que não identifique nem permita identificar as pessoas a que respeita."
+  },
+  "108044685": {
+   "fragment_id": "108043760",
+   "type": 11,
+   "heading": "Artigo 39.º — Entidade responsável pelo registo dos contribuintes e sistema informático",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Entidade responsável pelo registo dos contribuintes e sistema informático\n\n1 -É da competência da AT a gestão do registo de contribuintes, nos termos e para os efeitos previstos na Lei n.º 67/98, de 26 de outubro.\n\n2 -O desenvolvimento, manutenção e segurança do sistema informático adequado à atribuição e gestão do NIF é assegurado pela AT, a qual põe em prática as medidas técnicas e organizativas adequadas à satisfação das exigências estabelecidas na Lei n.º 67/98, de 26 de outubro."
+  },
+  "108044686": {
+   "fragment_id": "108043761",
+   "type": 11,
+   "heading": "Artigo 40.º — Direitos de informação, de acesso e retificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Direitos de informação, de acesso e retificação\n\n1 -O titular do NIF, ou o representante devidamente mandatado para o efeito, tem o direito de, a todo o tempo, verificar os dados pessoais nele inscritos e conhecer o conteúdo da informação relativa aos seus dados pessoais.\n\n2 -Os sujeitos mencionados no número anterior têm o direito de exigir a correção de eventuais inexatidões, a supressão de dados indevidamente recolhidos ou indevidamente comunicados e a integração de omissões, nos termos previstos na Lei n.º 67/98, de 26 de outubro."
+  },
+  "108044687": {
+   "fragment_id": "108043762",
+   "type": 11,
+   "heading": "Artigo 41.º — Sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Sigilo\n\nOs responsáveis pelo tratamento de dados pessoais, bem como todas as pessoas que, no exercício das suas funções, tomem conhecimento daqueles dados, ficam estritamente vinculados ao dever de sigilo fiscal e profissional, mesmo após o termo das suas funções."
+  },
+  "108044688": {
+   "fragment_id": "108043763",
+   "type": 11,
+   "heading": "Artigo 42.º — Celebração de protocolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Celebração de protocolos\n\nA articulação entre a AT e os restantes organismos da Administração Pública, nomeadamente no que respeita à troca de informação relevante para efeitos de integração do registo de contribuintes, é definida em protocolos a celebrar entre as entidades envolvidas."
+  },
+  "108044689": {
+   "fragment_id": "108043764",
+   "type": 13,
+   "heading": "Título IV — Das disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título IV — Das disposições finais e transitórias"
+  },
+  "108044690": {
+   "fragment_id": "108043765",
+   "type": 11,
+   "heading": "Artigo 43.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Regime transitório\n\n1 -Mantém-se em vigor a Portaria n.º 377/2003, de 10 de maio.\n\n2 -Mantêm-se igualmente em vigor os Protocolos celebrados com a AT, ao abrigo da legislação anterior, que tenham por objecto a troca de informação."
+  },
+  "108044691": {
+   "fragment_id": "108043766",
+   "type": 11,
+   "heading": "Artigo 44.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Norma revogatória\n\nSão revogados os seguintes diplomas:\n\na) Decreto-Lei n.º 463/79, de 30 de novembro;\n\nb) Portaria n.º 386/98, de 3 de julho;\n\nc) Portaria n.º 271/99, de 13 de abril;\n\nd) Portaria n.º 862/99, de 8 de outubro;\n\ne) Portaria n.º 594/2003, de 21 de julho."
+  },
+  "108044692": {
+   "fragment_id": "108043767",
+   "type": 11,
+   "heading": "Artigo 45.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a data da sua publicação."
+  },
+  "920502768": {
+   "fragment_id": "108043711",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 7/2013 - Diário da República n.º 31/2013, Série I de 2013-02-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2013-258704), produz efeitos a partir de 2013-02-27"
+   ],
+   "markdown": "###### Artigo 3.º — Âmbito\n\nO NIF é obrigatório para as pessoas singulares e coletivas ou entidades legalmente equiparadas que, nos termos da lei, se encontrem sujeitas ao cumprimento de obrigações ou pretendam exercer os seus direitos junto da Autoridade Tributária e Aduaneira (AT).\n\n> Retificado pelo/a [Declaração de Retificação n.º 7/2013 - Diário da República n.º 31/2013, Série I de 2013-02-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2013-258704), produz efeitos a partir de 2013-02-27"
+  },
+  "920502769": {
+   "fragment_id": "108043720",
+   "type": 11,
+   "heading": "Artigo 9.º — Elementos identificativos",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 7/2013 - Diário da República n.º 31/2013, Série I de 2013-02-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2013-258704), produz efeitos a partir de 2013-02-27"
+   ],
+   "markdown": "###### Artigo 9.º — Elementos identificativos\n\n1 -Para efeitos do disposto no n.º 1 do artigo anterior são considerados e devidamente recolhidos os seguintes elementos identificativos do respetivo interessado:\n\na) Nome completo;\n\nb) Domicilio fiscal;\n\nc) Estatuto fiscal, de acordo com as regras de conexão de residência previstas no Código do IRS;\n\nd) Naturalidade;\n\ne) Nacionalidade;\n\nf) Data de Nascimento;\n\ng) Sexo;\n\nh) Número de documento de identificação civil e respetiva designação;\n\ni) Número de Identificação Bancária (NIB) ou Número Internacional de Conta Bancária (IBAN);\n\nj) Grau de deficiência;\n\nk) Contactos telefónicos;\n\nl) Correio eletrónico.\n\n2 -O NIF a atribuir automaticamente é considerado igualmente um elemento de identificação do interessado, nos termos do artigo 2.º\n\n3 -Sempre que a legislação fiscal determine a existência de representante para pessoa singular não residente, é recolhido igualmente o NIF do representante, bem como o NIF do gestor de bens ou direitos, quando aplicável.\n\n4 -Para efeitos de atribuição de NIF a cidadãos não residentes que apenas obtenham em território nacional rendimentos sujeitos a retenção na fonte a título definitivo, são declarados pelo substituto tributário, em conformidade com o n.º 4 do artigo 7.º, os seguintes elementos identificativos:\n\na) Nome completo;\n\nb) Residência no estrangeiro;\n\nc) NIF do país da residência;\n\nd) Naturalidade;\n\ne) Nacionalidade;\n\nf) Data de nascimento;\n\ng) Sexo;\n\nh) Número de Identificação Bancária (NIB) ou Número Internacional de Conta Bancária (IBAN);\n\ni) NIF do substituto tributário.\n\n5 -Os elementos referidos nas alíneas i), k) e l) do n.º 1, bem como nas alíneas c) e h) do número anterior são facultativos.\n\n> Retificado pelo/a [Declaração de Retificação n.º 7/2013 - Diário da República n.º 31/2013, Série I de 2013-02-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2013-258704), produz efeitos a partir de 2013-02-27"
+  },
+  "920636636": {
+   "fragment_id": "108043723",
+   "type": 11,
+   "heading": "Artigo 11.º — Número de identificação fiscal",
+   "in_force_from": "2017-11-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 20.º do/a [Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21](https://diariodarepublica.pt/dr/detalhe/lei/89-2017-108028571), em vigor a partir de 2017-11-19",
+    "Retificado pelo/a [Declaração de Retificação n.º 7/2013 - Diário da República n.º 31/2013, Série I de 2013-02-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2013-258704), produz efeitos a partir de 2013-02-27"
+   ],
+   "markdown": "###### Artigo 11.º — Número de identificação fiscal\n\n1 -O NIF das entidades abrangidas pelo regime jurídico do Registo Nacional de Pessoas Coletivas (RNPC) corresponde ao Número de Identificação de Pessoa Coletiva (NIPC) que for atribuído por esta entidade, após emissão de certificado de admissibilidade de firma ou denominação ou de inscrição no ficheiro central de pessoas coletivas.\n\n2 -É da competência da AT a atribuição de NIF às seguintes entidades não previstas no número anterior:\n\na) Não residentes que apenas obtenham em território português rendimentos sujeitos a retenção na fonte a título definitivo;\n\nb) Fundos;\n\nc) Entidades que se encontrem sujeitas ao cumprimento de obrigações ou pretendam exercer os seus direitos junto da Administração Tributária.\n\n3 -O NIF a atribuir ao abrigo do n.º 2 do presente artigo inicia-se pelo algarismo «7», seguindo, com as necessárias adaptações, o regime previsto nos n.os 1 e 4 do artigo 4.º\n\n4 - Quando, nos termos das alíneas b) e c) do n.º 2, seja atribuído NIF a fundos fiduciários e a outros centros de interesses coletivos sem personalidade jurídica com uma estrutura ou funções similares, deve a AT:\n\na) Comunicar ao Registo Central do Beneficiário Efetivo (RCBE) os elementos relevantes constantes do registo de tais entidades;\n\nb) Exigir a apresentação de comprovativo de prévia declaração no RCBE sempre que, em momento posterior, aquelas entidades pretendam cumprir obrigações fiscais ou exercer direitos perante a AT.\n\n> Alterado pelo/a Artigo 20.º do/a [Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21](https://diariodarepublica.pt/dr/detalhe/lei/89-2017-108028571), em vigor a partir de 2017-11-19\n\n> Retificado pelo/a [Declaração de Retificação n.º 7/2013 - Diário da República n.º 31/2013, Série I de 2013-02-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2013-258704), produz efeitos a partir de 2013-02-27"
+  },
+  "920502771": {
+   "fragment_id": "108043726",
+   "type": 11,
+   "heading": "Artigo 14.º — Procedimentos e formalidades",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 7/2013 - Diário da República n.º 31/2013, Série I de 2013-02-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2013-258704), produz efeitos a partir de 2013-02-27"
+   ],
+   "markdown": "###### Artigo 14.º — Procedimentos e formalidades\n\n1 -Os procedimentos e formalidades aplicáveis à atribuição de NIF às entidades previstas no n.º 2 do artigo 11.º, designadamente no que concerne aos documentos a apresentar, seguem, com as necessárias adaptações, o regime previsto no artigo 8.º\n\n2- Aquando da inscrição e atribuição de NIF às entidades referidas na alínea b) do n.º 2 do artigo 11.º, o requerente deve apresentar, se aplicável, o respetivo diploma de criação e a autorização da Comissão do Mercado de Valores Mobiliários.\n\n> Retificado pelo/a [Declaração de Retificação n.º 7/2013 - Diário da República n.º 31/2013, Série I de 2013-02-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2013-258704), produz efeitos a partir de 2013-02-27"
+  },
+  "920502772": {
+   "fragment_id": "108043727",
+   "type": 11,
+   "heading": "Artigo 15.º — Elementos identificativos",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 7/2013 - Diário da República n.º 31/2013, Série I de 2013-02-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2013-258704), produz efeitos a partir de 2013-02-27"
+   ],
+   "markdown": "###### Artigo 15.º — Elementos identificativos\n\n1- Para efeitos de atribuição de NIF às entidades previstas nas alíneas b) e c) do n.º 2 do artigo 11.º, são declarados e devidamente recolhidos pela AT os seguintes elementos identificativos, quando aplicável:\n\na) Denominação social;\n\nb) Natureza jurídica;\n\nc) Data da constituição da entidade;\n\nd) Sede, direção efetiva ou estabelecimento estável;\n\ne) NIF do representante legal;\n\nf) Contactos telefónicos;\n\ng) Correio eletrónico.\n\n2 -São declarados pelo substituto tributário, para efeitos da alínea a) do n.º 2 do artigo 11.º, os seguintes elementos identificativos, quando aplicável:\n\na) Denominação social;\n\nb) Sede no estrangeiro;\n\nc) NIF do país da residência;\n\nd) Número de Identificação Bancária (NIB) ou Número Internacional de Conta Bancária (IBAN);\n\ne) NIF do substituto tributário.\n\n3 -Sempre que o NIF corresponda ao NIPC atribuído pelo RNPC, os elementos identificativos são transmitidos por esta entidade à AT, por meio de transmissão eletrónica de dados.\n\n> Retificado pelo/a [Declaração de Retificação n.º 7/2013 - Diário da República n.º 31/2013, Série I de 2013-02-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2013-258704), produz efeitos a partir de 2013-02-27"
+  },
+  "920502773": {
+   "fragment_id": "108043729",
+   "type": 11,
+   "heading": "Artigo 16.º — Heranças indivisas",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 7/2013 - Diário da República n.º 31/2013, Série I de 2013-02-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2013-258704), produz efeitos a partir de 2013-02-27"
+   ],
+   "markdown": "###### Artigo 16.º — Heranças indivisas\n\n1 -Compete exclusivamente à AT a atribuição de NIF às heranças indivisas.\n\n2 -O NIF a atribuir inicia-se pelo algarismo «7».\n\n3 - Podem solicitar a atribuição de NIF para as heranças indivisas, junto dos Serviços de Finanças ou outros locais devidamente autorizados para o efeito, o cabeça-de-casal do autor da herança, seu representante ou gestor de negócios, nos termos gerais do direito.\n\n4 -São recolhidos no sistema informático, para efeitos de atribuição de NIF, os seguintes elementos:\n\na) Designação da herança, a qual deve conter obrigatoriamente o nome do respetivo autor seguido da expressão «cabeça-de-casal da herança de»;\n\nb) NIF do autor da herança;\n\nc) Data do óbito;\n\nd) NIF do cabeça-de-casal;\n\ne) Identificação fiscal dos herdeiros.\n\n5 -Para efeitos de confirmação dos elementos discriminados no número precedente, devem ser apresentados pelo requerente os seguintes documentos:\n\na) Registo do óbito do autor da herança;\n\nb) Documento de identificação civil e fiscal dos herdeiros;\n\nc) Documento de identificação civil e fiscal do requerente, caso não seja herdeiro.\n\n6 -A atribuição de NIF às heranças indivisas segue, com as necessárias adaptações, os procedimentos e formalidades estabelecidos no artigo 8.º, salvo o disposto nos n.os 7 e 9.\n\n> Retificado pelo/a [Declaração de Retificação n.º 7/2013 - Diário da República n.º 31/2013, Série I de 2013-02-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2013-258704), produz efeitos a partir de 2013-02-27"
+  },
+  "920502774": {
+   "fragment_id": "108043732",
+   "type": 11,
+   "heading": "Artigo 18.º — Emissão do cartão de contribuinte de pessoa singular",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 7/2013 - Diário da República n.º 31/2013, Série I de 2013-02-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2013-258704), produz efeitos a partir de 2013-02-27"
+   ],
+   "markdown": "###### Artigo 18.º — Emissão do cartão de contribuinte de pessoa singular\n\n1 - Após a atribuição de NIF, é sempre emitido cartão de contribuinte a todas as pessoas singulares, exceto às que se encontrem abrangidas pelo artigo 3.º da Lei n.º 7/2007, de 5 de fevereiro, por força do respetivo artigo 2.º.\n\n2 -Nos casos em que haja lugar à emissão de cartão de contribuinte de pessoa singular, do mesmo deve apenas constar o nome completo do seu titular, o NIF atribuído e a data de emissão.\n\n> Retificado pelo/a [Declaração de Retificação n.º 7/2013 - Diário da República n.º 31/2013, Série I de 2013-02-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2013-258704), produz efeitos a partir de 2013-02-27"
+  },
+  "920636575": {
+   "fragment_id": "108043740",
+   "type": 11,
+   "heading": "Artigo 24.º — Alteração ao registo",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 7/2013 - Diário da República n.º 31/2013, Série I de 2013-02-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2013-258704), produz efeitos a partir de 2013-02-27"
+   ],
+   "markdown": "###### Artigo 24.º — Alteração ao registo\n\n1 - Sempre que se verifique qualquer alteração dos elementos constantes do registo deve o contribuinte, seu representante ou gestor de negócios, comunicar as respetivas alterações à AT, no prazo de 15 dias a contar da data da ocorrência do facto determinante da alteração, salvo se outro prazo decorrer expressamente da lei.\n\n2 -A alteração só produz efeitos a partir da comunicação à Administração Tributária.\n\n3 -A AT procede à alteração oficiosa dos elementos identificativos constantes no registo, designadamente:\n\na) Sempre que tenha tomado conhecimento de tais alterações, no âmbito das suas competências ou através da comunicação efetuada nos termos do artigo 28.º;\n\nb) Por meio de decisão judicial;\n\nc) Por erro imputável aos serviços.\n\n4 -As alterações ao registo seguem, com as necessárias adaptações, os procedimentos e formalidades previstos para a inscrição inicial.\n\n5- As alterações ao registo podem ser ainda efetuadas por transmissão eletrónica de dados, designadamente alteração ao domicílio fiscal e indicação do IBAN.\n\n6 -Sem prejuízo do regime jurídico do cartão de cidadão e do RNPC, é emitido, nos termos previstos no capítulo II, novo cartão de contribuinte após quaisquer alterações efetuadas aos elementos identificativos constantes da face do cartão.\n\n7 -Quando a AT tenha conhecimento de outros elementos relevantes no âmbito da identificação do contribuinte, designadamente a situação de insolvência e a data de óbito, deve proceder ao averbamento no respetivo registo.\n\n> Retificado pelo/a [Declaração de Retificação n.º 7/2013 - Diário da República n.º 31/2013, Série I de 2013-02-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2013-258704), produz efeitos a partir de 2013-02-27"
+  },
+  "920636576": {
+   "fragment_id": "108043743",
+   "type": 11,
+   "heading": "Artigo 27.º — Inscrição oficiosa",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 7/2013 - Diário da República n.º 31/2013, Série I de 2013-02-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2013-258704), produz efeitos a partir de 2013-02-27"
+   ],
+   "markdown": "###### Artigo 27.º — Inscrição oficiosa\n\n1- Sem prejuízo da infração que ao caso couber, a AT procede fundamentadamente à inscrição oficiosa, para efeitos de atribuição de NIF, designadamente, nas seguintes situações:\n\na) O contribuinte não proceda à respetiva inscrição, estando para isso obrigado a fazê-lo nos termos do artigo 3.º;\n\nb) O autor da herança não seja detentor de NIF e tal facto seja relevante no âmbito da atribuição de NIF à respetiva herança indivisa;\n\nc) As entidades sujeitas ao regime jurídico do RNPC não cumpram as formalidades previstas nesse regime;\n\nd) As entidades sejam não residentes no território nacional, mas possuam sede em outro Estado membro, abrangidas pelo processo de reembolso de IVA previsto no Decreto-Lei n.º 186/2009, de 12 de agosto.\n\n2 -Nas situações previstas nas alíneas a) e c) do número anterior, a AT comunica ao contribuinte, por escrito, a respetiva inscrição.\n\n3 -Após a inscrição, e se aplicável em conformidade com o disposto no capítulo II, é emitido cartão de contribuinte.\n\n> Retificado pelo/a [Declaração de Retificação n.º 7/2013 - Diário da República n.º 31/2013, Série I de 2013-02-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2013-258704), produz efeitos a partir de 2013-02-27"
+  },
+  "920636577": {
+   "fragment_id": "108043753",
+   "type": 11,
+   "heading": "Artigo 33.º — Atos praticados perante ou pela Autoridade Tributária e Aduaneira",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 7/2013 - Diário da República n.º 31/2013, Série I de 2013-02-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2013-258704), produz efeitos a partir de 2013-02-27"
+   ],
+   "markdown": "###### Artigo 33.º — Atos praticados perante ou pela Autoridade Tributária e Aduaneira\n\nSão, nomeadamente, praticados perante ou pela AT os seguintes atos:\n\na) Inscrição de pessoa singular;\n\nb) Inscrição de pessoa coletiva e entidade legalmente equiparada;\n\nc) Inscrição de heranças indivisas;\n\nd) Alteração dos elementos identificativos registados;\n\ne) Cancelamento e suspensão da inscrição.\n\n> Retificado pelo/a [Declaração de Retificação n.º 7/2013 - Diário da República n.º 31/2013, Série I de 2013-02-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2013-258704), produz efeitos a partir de 2013-02-27"
+  },
+  "920636578": {
+   "fragment_id": "108043757",
+   "type": 11,
+   "heading": "Artigo 36.º — Tratamento de dados",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 7/2013 - Diário da República n.º 31/2013, Série I de 2013-02-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2013-258704), produz efeitos a partir de 2013-02-27"
+   ],
+   "markdown": "###### Artigo 36.º — Tratamento de dados\n\n1 -São objeto de recolha e tratamento os elementos de identificação do titular do NIF mencionados nos n.os 1 e 4 do artigo 9.º, para as pessoas singulares, nos n.os 1 e 2 do artigo 15.º, para as pessoas coletivas e entidades legalmente equiparadas, e no n.º 4 do artigo 16.º, para as heranças indivisas.\n\n2 -O tratamento dos elementos de identificação do titular ocorre associado às seguintes operações relativas à atribuição e gestão do NIF:\n\na) Receção, instrução e execução dos pedidos de atribuição do NIF;\n\nb) Receção, instrução e execução dos pedidos de atualização dos elementos constantes do registo;\n\nc) Execução do cancelamento e suspensão do registo;\n\nd) Personalização do cartão de contribuinte;\n\ne) Cooperação entre entidades competentes, quando legalmente permitido.\n\n3 -A recolha e o tratamento dos dados necessários às operações referidas no número anterior, com exceção da alínea d), só podem ser efetuados por entidades ou serviços da Administração Pública e respetivos trabalhadores em funções públicas.\n\n> Retificado pelo/a [Declaração de Retificação n.º 7/2013 - Diário da República n.º 31/2013, Série I de 2013-02-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2013-258704), produz efeitos a partir de 2013-02-27"
+  },
+  "920636579": {
+   "fragment_id": "108043765",
+   "type": 11,
+   "heading": "Artigo 43.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 7/2013 - Diário da República n.º 31/2013, Série I de 2013-02-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2013-258704), produz efeitos a partir de 2013-02-27"
+   ],
+   "markdown": "###### Artigo 43.º — Regime transitório\n\nMantêm-se igualmente em vigor os Protocolos celebrados com a AT, ao abrigo da legislação anterior, que tenham por objeto a troca de informação.\n\n> Retificado pelo/a [Declaração de Retificação n.º 7/2013 - Diário da República n.º 31/2013, Série I de 2013-02-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2013-258704), produz efeitos a partir de 2013-02-27"
+  },
+  "108044693": {
+   "fragment_id": "108043768",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 20 de dezembro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paula Maria von Hafe Teixeira da Cruz - Álvaro Santos Pereira - Luís Pedro Russo da Mota Soares.\n\nPromulgado em 18 de janeiro de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 22 de janeiro de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "922206784": {
+   "fragment_id": "108043723",
+   "type": 11,
+   "heading": "Artigo 11.º — Número de identificação fiscal",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Lei n.º 58/2020 - Diário da República n.º 169/2020, Série I de 2020-08-31](https://diariodarepublica.pt/dr/detalhe/lei/58-2020-141382321), em vigor a partir de 2020-09-01",
+    "Alterado pelo/a Artigo 20.º do/a [Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21](https://diariodarepublica.pt/dr/detalhe/lei/89-2017-108028571), em vigor a partir de 2017-11-19",
+    "Retificado pelo/a [Declaração de Retificação n.º 7/2013 - Diário da República n.º 31/2013, Série I de 2013-02-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2013-258704), produz efeitos a partir de 2013-02-27"
+   ],
+   "markdown": "###### Artigo 11.º — Número de identificação fiscal\n\n1 - O NIF das entidades abrangidas pelo regime jurídico do Registo Nacional de Pessoas Coletivas (RNPC) corresponde ao Número de Identificação de Pessoa Coletiva (NIPC) que for atribuído por esta entidade, após emissão de certificado de admissibilidade de firma ou denominação ou de inscrição no ficheiro central de pessoas coletivas.\n\n2 - É da competência da AT a atribuição de NIF às seguintes entidades não previstas no número anterior:\n\na) Não residentes que apenas obtenham em território português rendimentos sujeitos a retenção na fonte a título definitivo;\n\nb) Fundos;\n\nc) Entidades que se encontrem sujeitas ao cumprimento de obrigações ou pretendam exercer os seus direitos junto da Administração Tributária.\n\n3 - O NIF a atribuir ao abrigo do n.º 2 do presente artigo inicia-se pelo algarismo «7», seguindo, com as necessárias adaptações, o regime previsto nos n.os 1 e 4 do artigo 4.º\n\n4 - Quando, nos termos das alíneas b) e c) do n.º 2, seja atribuído NIF a fundos fiduciários e a outros centros de interesses coletivos sem personalidade jurídica com uma estrutura ou funções similares, deve a AT comunicar ao Registo Central do Beneficiário Efetivo (RCBE) os elementos relevantes constantes do registo de tais entidades.\n\n> Alterado pelo/a Artigo 18.º do/a [Lei n.º 58/2020 - Diário da República n.º 169/2020, Série I de 2020-08-31](https://diariodarepublica.pt/dr/detalhe/lei/58-2020-141382321), em vigor a partir de 2020-09-01\n\n> Alterado pelo/a Artigo 20.º do/a [Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21](https://diariodarepublica.pt/dr/detalhe/lei/89-2017-108028571), em vigor a partir de 2017-11-19\n\n> Retificado pelo/a [Declaração de Retificação n.º 7/2013 - Diário da República n.º 31/2013, Série I de 2013-02-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2013-258704), produz efeitos a partir de 2013-02-27"
+  }
+ }
+}

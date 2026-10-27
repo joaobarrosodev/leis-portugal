@@ -1,0 +1,210 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:515636:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2001-67579537",
+ "dre_path": "/dr/detalhe/lei/101-2001-515636",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2001-08-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "67577348",
+    "67577349",
+    "67577350",
+    "67577351",
+    "67577352",
+    "67577353",
+    "67577354",
+    "67577355"
+   ]
+  },
+  {
+   "date": "2013-08-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:499058:por",
+     "title": "Lei n.º 60/2013",
+     "published": "2013-08-23",
+     "dre_path": "/dr/detalhe/lei/60-2013-499058"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "67577348",
+    "67577349",
+    "67577357",
+    "67577351",
+    "67577352",
+    "67577353",
+    "67577354",
+    "67577355",
+    "67577356"
+   ]
+  },
+  {
+   "date": "2015-06-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67579528:por",
+     "title": "Lei n.º 61/2015",
+     "published": "2015-06-24",
+     "dre_path": "/dr/detalhe/lei/61-2015-67579528"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "67577348",
+    "67577349",
+    "67577363",
+    "67577351",
+    "67577352",
+    "67577353",
+    "67577354",
+    "67577355",
+    "67577356"
+   ]
+  },
+  {
+   "date": "2023-02-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:206158533:por",
+     "title": "Lei n.º 2/2023",
+     "published": "2023-01-16",
+     "dre_path": "/dr/detalhe/lei/2-2023-206158533"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "67577348",
+    "67577349",
+    "206157464",
+    "67577351",
+    "67577352",
+    "67577353",
+    "67577354",
+    "67577355",
+    "67577356"
+   ]
+  }
+ ],
+ "fragments": {
+  "67577348": {
+   "fragment_id": "67579538",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 101/2001\n\nde 25 de Agosto\n\nRegime jurídico das acções encobertas para fins de prevenção e investigação criminal\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "67577349": {
+   "fragment_id": "67579539",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente lei estabelece o regime das acções encobertas para fins de prevenção e investigação criminal.\n\n2 - Consideram-se acções encobertas aquelas que sejam desenvolvidas por funcionários de investigação criminal ou por terceiro actuando sob o controlo da Política Judiciária para prevenção ou repressão dos crimes indicados nesta lei, com ocultação da sua qualidade e identidade."
+  },
+  "67577350": {
+   "fragment_id": "67579540",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nAs acções encobertas são admissíveis no âmbito da prevenção e repressão dos seguintes crimes:\n\na) Homicídio voluntário, desde que o agente não seja conhecido;\n\nb) Contra a liberdade e contra a autodeterminação sexual a que corresponda, em abstracto, pena superior a 5 anos de prisão, desde que o agente não seja conhecido, ou sempre que sejam expressamente referidos ofendidos menores de 16 anos ou outros incapazes;\n\nc) Relativos ao tráfico e viciação de veículos furtados ou roubados;\n\nd) Escravidão, sequestro e rapto ou tomada de reféns;\n\ne) Organizações terroristas e terrorismo;\n\nf) Captura ou atentado à segurança de transporte por ar, água, caminho-de-ferro ou rodovia a que corresponda, em abstracto, pena igual ou superior a 8 anos de prisão;\n\ng) Executados com bombas, granadas, matérias ou engenhos explosivos, armas de fogo e objectos armadilhados, armas nucleares, químicas ou radioactivas;\n\nh) Roubo em instituições de crédito, repartições da Fazenda Pública e correios;\n\ni) Associações criminosas;\n\nj) Relativos ao tráfico de estupefacientes e de substâncias psicotrópicas;\n\nl) Branqueamento de capitais, outros bens ou produtos;\n\nm) Corrupção, peculato e participação económica em negócio e tráfico de influências;\n\nn) Fraude na obtenção ou desvio de subsídio ou subvenção;\n\no) Infracções económico-financeiras cometidas de forma organizada ou com recurso à tecnologia informática;\n\np) Infracções económico-financeiras de dimensão internacional ou transnacional;\n\nq) Contrafacção de moeda, títulos de créditos, valores selados, selos e outros valores equiparados ou a respectiva passagem;\n\nr) Relativos ao mercado de valores mobiliários."
+  },
+  "67577351": {
+   "fragment_id": "67579541",
+   "type": 11,
+   "heading": "Artigo 3.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisitos\n\n1 - As acções encobertas devem ser adequadas aos fins de prevenção e repressão criminais identificados em concreto, nomeadamente a descoberta de material probatório, e proporcionais quer àquelas finalidades quer à gravidade do crime em investigação.\n\n2 - Ninguém pode ser obrigado a participar em acção encoberta.\n\n3 - A realização de uma acção encoberta no âmbito do inquérito depende de prévia autorização do competente magistrado do Ministério Público, sendo obrigatoriamente comunicada ao juiz de instrução e considerando-se a mesma validada se não for proferido despacho de recusa nas setenta e duas horas seguintes.\n\n4 - Se a acção referida no número anterior decorrer no âmbito da prevenção criminal, é competente para autorização o juiz de instrução criminal, mediante proposta do Ministério Público.\n\n5 - Nos casos referidos no número anterior, a competência para a iniciativa e a decisão é, respectivamente, do magistrado do Ministério Público junto do Departamento Central de Investigação e Acção Penal e do juiz do Tribunal Central de Instrução Criminal.\n\n6 - A Polícia Judiciária fará o relato da intervenção do agente encoberto à autoridade judiciária competente no prazo máximo de quarenta e oito horas após o termo daquela."
+  },
+  "67577352": {
+   "fragment_id": "67579542",
+   "type": 11,
+   "heading": "Artigo 4.º — Protecção de funcionário e terceiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Protecção de funcionário e terceiro\n\n1 - A autoridade judiciária só ordenará a junção ao processo do relato a que se refere o n.º 5 do artigo 3.º se a reputar absolutamente indispensável em termos probatórios.\n\n2 - A apreciação da indispensabilidade pode ser remetida para o termo do inquérito ou da instrução, ficando entretanto o expediente, mediante prévio registo, na posse da Polícia Judiciária.\n\n3 - Oficiosamente ou a requerimento da Polícia Judiciária, a autoridade judiciária competente pode, mediante decisão fundamentada, autorizar que o agente encoberto que tenha actuado com identidade fictícia ao abrigo do artigo 5.º da presente lei preste depoimento sob esta identidade em processo relativo aos factos objecto da sua actuação.\n\n4 - No caso de o juiz determinar, por indispensabilidade da prova, a comparência em audiência de julgamento do agente encoberto, observará sempre o disposto na segunda parte do n.º 1 do artigo 87.º do Código de Processo Penal, sendo igualmente aplicável o disposto na Lei n.º 93/99, de 14 de Julho."
+  },
+  "67577353": {
+   "fragment_id": "67579543",
+   "type": 11,
+   "heading": "Artigo 5.º — Identidade fictícia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Identidade fictícia\n\n1 - Para o efeito do n.º 2 do artigo 1.º, os agentes da polícia criminal podem actuar sob identidade fictícia.\n\n2 - A identidade fictícia é atribuída por despacho do Ministro da Justiça, mediante proposta do director nacional da Polícia Judiciária.\n\n3 - A identidade referida no número anterior é válida por um período de seis meses prorrogáveis por períodos de igual duração, ficando o funcionário de investigação criminal a quem a mesma for atribuída autorizado a, durante aquele período, actuar sob a identidade fictícia, quer no exercício da concreta investigação quer genericamente em todas as circunstâncias do tráfico jurídico e social.\n\n4 - O despacho que atribui a identidade fictícia é classificado de secreto e deve incluir a referência à verdadeira identidade do agente encoberto.\n\n5 - Compete à Polícia Judiciária gerir e promover a actualização das identidade fictícias outorgadas nos termos dos números anteriores."
+  },
+  "67577354": {
+   "fragment_id": "67579544",
+   "type": 11,
+   "heading": "Artigo 6.º — Isenção de responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Isenção de responsabilidade\n\n1 - Não é punível a conduta do agente encoberto que, no âmbito de uma acção encoberta, consubstancie a prática de actos preparatórios ou de execução de uma infracção em qualquer forma de comparticipação diversa da instigação e da autoria mediata, sempre que guarde a devida proporcionalidade com a finalidade da mesma.\n\n2 - Se for instaurado procedimento criminal por acto ou actos praticados ao abrigo do disposto na presente lei, a autoridade judiciária competente deve, logo que tenha conhecimento de tal facto, requerer informação à autoridade judiciária que emitiu a autorização a que se refere o n.º 3 do artigo 3.º"
+  },
+  "67577355": {
+   "fragment_id": "67579545",
+   "type": 11,
+   "heading": "Artigo 7.º — Legislação revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Legislação revogada\n\nSão revogados:\n\na) Os artigos 59.º e 59.º-A do Decreto-Lei n.º 15/93, de 22 de Janeiro;\n\nb) O artigo 6.º da Lei n.º 36/94, de 29 de Setembro."
+  },
+  "67577357": {
+   "fragment_id": "67579540",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2013-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nAs acções encobertas são admissíveis no âmbito da prevenção e repressão dos seguintes crimes:\n\na) Homicídio voluntário, desde que o agente não seja conhecido;\n\nb) Contra a liberdade e contra a autodeterminação sexual a que corresponda, em abstracto, pena superior a 5 anos de prisão, desde que o agente não seja conhecido, ou sempre que sejam expressamente referidos ofendidos menores de 16 anos ou outros incapazes;\n\nc) Relativos ao tráfico e viciação de veículos furtados ou roubados;\n\nd) Escravidão, sequestro e rapto ou tomada de reféns;\n\ne) Tráfico de pessoas;\n\nf) Organizações terroristas e terrorismo;\n\ng) Captura ou atentado à segurança de transporte por ar, água, caminho-de-ferro ou rodovia a que corresponda, em abstracto, pena igual ou superior a 8 anos de prisão;\n\nh) Executados com bombas, granadas, matérias ou engenhos explosivos, armas de fogo e objectos armadilhados, armas nucleares, químicas ou radioactivas;\n\ni) Roubo em instituições de crédito, repartições da Fazenda Pública e correios;\n\nj) Associações criminosas;\n\nl) Relativos ao tráfico de estupefacientes e de substâncias psicotrópicas;\n\nm) Branqueamento de capitais, outros bens ou produtos;\n\nn) Corrupção, peculato e participação económica em negócio e tráfico de influências;\n\no) Fraude na obtenção ou desvio de subsídio ou subvenção;\n\np) Infracções económico-financeiras cometidas de forma organizada ou com recurso à tecnologia informática;\n\nq) Infracções económico-financeiras de dimensão internacional ou transnacional;\n\nr) Contrafacção de moeda, títulos de créditos, valores selados, selos e outros valores equiparados ou a respectiva passagem;\n\ns) Relativos ao mercado de valores mobiliários.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28"
+  },
+  "67577356": {
+   "fragment_id": "67579546",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 17 de Julho de 2001.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 11 de Agosto de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 16 de Agosto de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "67577363": {
+   "fragment_id": "67579540",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2015-06-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 61/2015 - Diário da República n.º 121/2015, Série I de 2015-06-24](https://diariodarepublica.pt/dr/detalhe/lei/61-2015-67579528), em vigor a partir de 2015-06-25",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nAs acções encobertas são admissíveis no âmbito da prevenção e repressão dos seguintes crimes:\n\na) Homicídio voluntário, desde que o agente não seja conhecido;\n\nb) Contra a liberdade e contra a autodeterminação sexual a que corresponda, em abstracto, pena superior a 5 anos de prisão, desde que o agente não seja conhecido, ou sempre que sejam expressamente referidos ofendidos menores de 16 anos ou outros incapazes;\n\nc) Relativos ao tráfico e viciação de veículos furtados ou roubados;\n\nd) Escravidão, sequestro e rapto ou tomada de reféns;\n\ne) Tráfico de pessoas;\n\nf) Organizações terroristas, terrorismo, terrorismo internacional e financiamento do terrorismo;\n\ng) Captura ou atentado à segurança de transporte por ar, água, caminho-de-ferro ou rodovia a que corresponda, em abstracto, pena igual ou superior a 8 anos de prisão;\n\nh) Executados com bombas, granadas, matérias ou engenhos explosivos, armas de fogo e objectos armadilhados, armas nucleares, químicas ou radioactivas;\n\ni) Roubo em instituições de crédito, repartições da Fazenda Pública e correios;\n\nj) Associações criminosas;\n\nl) Relativos ao tráfico de estupefacientes e de substâncias psicotrópicas;\n\nm) Branqueamento de capitais, outros bens ou produtos;\n\nn) Corrupção, peculato e participação económica em negócio e tráfico de influências;\n\no) Fraude na obtenção ou desvio de subsídio ou subvenção;\n\np) Infracções económico-financeiras cometidas de forma organizada ou com recurso à tecnologia informática;\n\nq) Infracções económico-financeiras de dimensão internacional ou transnacional;\n\nr) Contrafacção de moeda, títulos de créditos, valores selados, selos e outros valores equiparados ou a respectiva passagem;\n\ns) Relativos ao mercado de valores mobiliários.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 61/2015 - Diário da República n.º 121/2015, Série I de 2015-06-24](https://diariodarepublica.pt/dr/detalhe/lei/61-2015-67579528), em vigor a partir de 2015-06-25\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28"
+  },
+  "206157464": {
+   "fragment_id": "67579540",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2023-02-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 2/2023 - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/lei/2-2023-206158533), em vigor a partir de 2023-02-15",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 61/2015 - Diário da República n.º 121/2015, Série I de 2015-06-24](https://diariodarepublica.pt/dr/detalhe/lei/61-2015-67579528), em vigor a partir de 2015-06-25",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nAs acções encobertas são admissíveis no âmbito da prevenção e repressão dos seguintes crimes:\n\na) Homicídio voluntário, desde que o agente não seja conhecido;\n\nb) Contra a liberdade e contra a autodeterminação sexual a que corresponda, em abstracto, pena superior a 5 anos de prisão, desde que o agente não seja conhecido, ou sempre que sejam expressamente referidos ofendidos menores de 16 anos ou outros incapazes;\n\nc) Relativos ao tráfico e viciação de veículos furtados ou roubados;\n\nd) Escravidão, sequestro e rapto ou tomada de reféns;\n\ne) Tráfico de pessoas;\n\nf) Infrações terroristas, infrações relacionadas com um grupo terrorista, infrações relacionadas com atividades terroristas e financiamento do terrorismo;\n\ng) Captura ou atentado à segurança de transporte por ar, água, caminho-de-ferro ou rodovia a que corresponda, em abstracto, pena igual ou superior a 8 anos de prisão;\n\nh) Executados com bombas, granadas, matérias ou engenhos explosivos, armas de fogo e objectos armadilhados, armas nucleares, químicas ou radioactivas;\n\ni) Roubo em instituições de crédito, repartições da Fazenda Pública e correios;\n\nj) Associações criminosas;\n\nl) Relativos ao tráfico de estupefacientes e de substâncias psicotrópicas;\n\nm) Branqueamento de capitais, outros bens ou produtos;\n\nn) Corrupção, peculato e participação económica em negócio e tráfico de influências;\n\no) Fraude na obtenção ou desvio de subsídio ou subvenção;\n\np) Infracções económico-financeiras cometidas de forma organizada ou com recurso à tecnologia informática;\n\nq) Infracções económico-financeiras de dimensão internacional ou transnacional;\n\nr) Contrafacção de moeda, títulos de créditos, valores selados, selos e outros valores equiparados ou a respectiva passagem;\n\ns) Relativos ao mercado de valores mobiliários.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 2/2023 - Diário da República n.º 11/2023, Série I de 2023-01-16](https://diariodarepublica.pt/dr/detalhe/lei/2-2023-206158533), em vigor a partir de 2023-02-15\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 61/2015 - Diário da República n.º 121/2015, Série I de 2015-06-24](https://diariodarepublica.pt/dr/detalhe/lei/61-2015-67579528), em vigor a partir de 2015-06-25\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28"
+  }
+ }
+}

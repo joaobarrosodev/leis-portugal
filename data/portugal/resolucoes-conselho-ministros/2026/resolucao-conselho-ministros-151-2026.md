@@ -1,0 +1,188 @@
+---
+schema_version: '1.0'
+id: pt:dre:1151256047:por
+title: Resolução do Conselho de Ministros n.º 151/2026
+short_title: null
+summary: Autoriza a Metro do Porto, S. A., a realizar as despesas relativas aos encargos plurianuais referentes à subconcessão
+  da operação e da manutenção do Sistema de Metro Ligeiro da Área Metropolitana do Porto.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 151/2026
+official_date: null
+publication_date: '2026-07-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 141/2026, Série I de 2026-07-23
+  number: '141'
+  series: I
+  supplement: null
+  pages: 8 - 9
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/07/14100/0000800009.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/151/2026/07/23/p/dre/pt/html
+  oj: null
+  dre: '1151256047'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/151-2026-1151256047
+  internal: pt:dre:1151256047:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/151-2026-1151256047
+  metadata_url: https://data.dre.pt/eli/resolconsmin/151/2026/07/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/151-2026-1151256047
+  consolidated_url: null
+  retrieved_at: '2026-10-22T18:47:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c29cffb5eaf3a31f1b45866f616e9a77e21fffebcce8337eb06c836fcbc2bbea
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:47:33Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- ÁREA Metropolitana
+- Autorização de Despesas
+- Despesas Públicas
+- Inflação
+- Metro do Porto
+- Metropolitano
+- Parceria Público-Privada
+- Porto
+- Taxa
+- TAXA de Desconto
+relationships:
+- type: cites
+  target: pt:dre:1134399058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177863:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/111/2012/05/23/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: pt:dre:3201635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324333:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/394-a/1998/12/15/p/dre
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:891145411:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T18:47:33Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 151/2026
+
+De acordo com o disposto no n.º 2 da base XXI e no n.º 1 da base XXII da concessão do Sistema de Metro Ligeiro da Área Metropolitana do Porto, publicadas através do [Decreto-Lei n.º 394-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-a-1998-324333), de 15 de dezembro, na sua redação atual, a Concessionária Metro do Porto, S. A., deve subconcessionar a exploração e manutenção do Sistema, sendo que a escolha da Subconcessionária deve ser efetuada mediante procedimento de contratação a lançar pela Concessionária, seguindo a tramitação estabelecida na legislação aplicável.
+
+Nessa conformidade, cessando a vigência do atual contrato de subconcessão até à data de 31 de março de 2027, é necessário que a Metro do Porto, S. A., proceda ao lançamento de um procedimento de contratação pública para a nova subconcessão do Sistema de Metro Ligeiro da Área Metropolitana do Porto.
+
+Neste contexto, a Metro do Porto apresentou, em julho de 2024, à Secretária de Estado da Mobilidade uma proposta fundamentada, nos termos do disposto no n.º 1 do artigo 9.º do [Decreto-Lei n.º 111/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), de 23 de maio, solicitando que fosse dado início ao estudo e preparação de uma parceria público-privada para a nova subconcessão, a qual foi objeto do despacho de concordância da Secretária de Estado da Mobilidade.
+
+Posteriormente, através do Despacho n.º 595/2024-SETF, de 10 de outubro de 2024, o Secretário de Estado do Tesouro e das Finanças determinou à Unidade Técnica de Acompanhamento de Projetos (UTAP) a constituição da equipa de projeto em proposta. Nestes termos, através do [Despacho n.º 12182/2024](https://diariodarepublica.pt/dr/detalhe/despacho/12182-2024-891145411), de 10 de outubro, a Coordenadora da UTAP procedeu à constituição da equipa de projeto para dar início ao estudo e à preparação de uma parceria público-privada para a subconcessão da operação e manutenção do Sistema de Metro Ligeiro na Área Metropolitana do Porto.
+
+Neste âmbito, a equipa de projeto constituída, em cumprimento do exigido pelo artigo 14.º do [Decreto-Lei n.º 111/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), de 23 de maio, submeteu, em fevereiro de 2026, à consideração dos membros do Governo responsáveis pelas áreas das finanças e da mobilidade, um relatório fundamentado, propondo a aprovação do lançamento de uma parceria público-privada para a nova subconcessão suprarreferida e do respetivo procedimento de concurso público com publicidade internacional.
+
+Durante o procedimento de parecer prévio da Autoridade da Mobilidade e dos Transportes (AMT), a equipa de projeto elaborou dois aditamentos ao relatório suprarreferido, cuja apreciação pela AMT resultou na emissão do parecer positivo sobre as peças do concurso propostas pela equipa.
+
+Assim, nos termos e para os efeitos previstos nos n.os3 e 4 do artigo 14.º do [Decreto-Lei n.º 111/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), de 23 de maio, através do [Despacho n.º 7753/2026](https://diariodarepublica.pt/dr/detalhe/despacho/7753-2026-1134399058), publicado no Diário da República, 2.ª série, n.º 118, de 22 de junho de 2026, dos membros do Governo responsáveis pelas áreas das finanças e da mobilidade foi aprovado, em 16 de junho de 2026, o lançamento da parceria público-privada relativa à nova subconcessão da operação e da manutenção do Sistema de Metro Ligeiro da Área Metropolitana do Porto, os termos previstos no relatório fundamentado da equipa de projeto (complementado pelos aditamentos acima referidos), lançamento este cuja efetivação fica sujeita à prévia autorização da despesa inerente.
+
+No presente caso, compete à Metro do Porto, S. A., na qualidade de órgão competente para a decisão de contratar, a adoção de todos os atos que, nos termos da lei, se demonstrem necessários ao lançamento do procedimento de concurso público tendente à celebração do novo contrato de subconcessão, em regime de parceria público-privada, da operação e da manutenção do Sistema de Metro Ligeiro da Área Metropolitana do Porto, sem prejuízo da prévia autorização da despesa inerente a esse contrato.
+
+Neste contexto, importa salientar que, não obstante a estimativa de encargos plurianuais inerente ao novo contrato de subconcessão prever um aumento da despesa para os anos de 2027 e seguintes, tal resulta, em grande medida, da entrada em exploração das novas Linhas Rosa e Rubi, e das Linhas de Gondomar e da Trofa (estas últimas com previsão de início de exploração para o ano de 2031).
+
+Com efeito, a expansão da rede do Sistema de Metro Ligeiro da Área Metropolitana do Porto, cujos investimentos em infraestruturas beneficiaram de financiamento através do Plano de Recuperação e Resiliência, potenciará um aumento substancial da procura e, consequentemente, um incremento expressivo das receitas próprias geradas pela operação, mitigando o impacto orçamental nas contas públicas e garantindo a sustentabilidade económico-financeira da nova subconcessão.
+
+De acordo com o previsto na alínea e) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, considerando o valor dos encargos máximos estimados associados ao contrato a celebrar na sequência do referido procedimento pré-contratual, entende-se que o órgão competente para autorizar a despesa relativa a esse contrato é o Conselho de Ministros.
+
+Assim:
+
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, e do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Autorizar a Metro do Porto, S. A., a realizar as despesas relativas aos encargos plurianuais referentes à subconcessão da operação e da manutenção do Sistema de Metro Ligeiro da Área Metropolitana do Porto, no montante máximo de 465 320 252,12 €, valor ao qual acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor, expresso em valor atual líquido, por referência a dezembro de 2024 e considerando a taxa de desconto estabelecida no [Despacho n.º 13208/2003](https://diariodarepublica.pt/dr/detalhe/despacho/13208-2003-3201635), publicado no Diário da República, 2.ª série, n.º 154, de 7 de julho de 2003, com início previsto para abril de 2027 e repartido por um prazo de 8 anos (96 meses), ao qual corresponde um montante estimado de 689 625 712,14 €, expresso a preços correntes, conforme detalhado no número seguinte, montante ao qual acresce IVA à taxa legal em vigor.
+
+2 - Determinar que os encargos financeiros referidos no número anterior, aos quais acresce o IVA à taxa legal em vigor, são repartidos da seguinte forma:
+
+a) 2027: 52 797 321,27 €;
+
+b) 2028: 73 125 948,17 €;
+
+c) 2029: 79 566 713,68 €;
+
+d) 2030: 81 608 428,88 €;
+
+e) 2031: 87 181 671,81 €;
+
+f) 2032: 93 472 775,69 €;
+
+g) 2033: 96 455 852,84 €;
+
+h) 2034: 99 567 563,33 €;
+
+i) 2035: 25 849 436,47 €.
+
+3 - Determinar que os encargos financeiros decorrentes da presente resolução são financiados no montante de 672 200 000,00 € por receitas próprias (FF 513) da Metro do Porto, S. A., e 17 500 000,00 € por receitas de impostos (FF 318).
+
+4 - Estabelecer que a assunção dos encargos financeiros plurianuais decorrentes da presente resolução não constitui fundamento para a atribuição de plafond adicional referente aos anos de 2027 a 2035.
+
+5 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+
+Presidência do Conselho de Ministros, 17 de julho de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119949131

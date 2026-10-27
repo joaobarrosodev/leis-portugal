@@ -1,0 +1,449 @@
+---
+schema_version: '1.0'
+id: pt:dre:909466295:por
+title: Declaração de Retificação n.º 15-A/2025/1
+short_title: null
+summary: Retifica o Decreto-Lei n.º 118/2024, de 31 de dezembro, que transpõe as Diretivas (UE) 2020/739 e (UE) 2019/1833,
+  procedendo ao aditamento da lista de agentes biológicos reconhecidamente infeciosos para os seres humanos prevista no Decreto-Lei
+  n.º 84/97, de 16 de abril, publicado no Diário da República, 1.ª série, n.º 253, de 31 de dezembro de 2024.
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Presidência do Conselho de Ministros - Secretaria-Geral do Governo
+proposing_entity: null
+official_number: 15-A/2025/1
+official_date: null
+publication_date: '2025-02-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 42/2025, Suplemento, Série I de 2025-02-28
+  number: '42'
+  series: I
+  supplement: null
+  pages: 2 - 10
+  pdf_url: https://files.diariodarepublica.pt/1s/2025/02/04203/0000200010.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declretif/15-a/2025/02/28/p/dre/pt/html
+  oj: null
+  dre: '909466295'
+  dre_path: /dr/detalhe/declaracao-retificacao/15-a-2025-909466295
+  internal: pt:dre:909466295:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/15-a-2025-909466295
+  metadata_url: https://data.dre.pt/eli/declretif/15-a/2025/02/28/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/15-a-2025-909466295
+  consolidated_url: null
+  retrieved_at: '2026-10-22T19:15:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 31ce3db548d84098321ffb76a58c3df1a919b851e6f0dd61921893c66784e089
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:15:46Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autoridade para as Condições do Trabalho
+- Condições de Higiene e Segurança no Trabalho
+- Direção Geral da Saúde
+- Doença Infecciosa
+- Doença Profissional
+- Material Biológico
+- Prevenção de Riscos Profissionais
+- Saúde no Trabalho
+- Segurança no Trabalho
+relationships:
+- type: cites
+  target: celex:32019L1833
+  label: null
+  source: http://data.europa.eu/eli/dir/2019/1833/oj
+- type: cites
+  target: celex:32020L0739
+  label: null
+  source: http://data.europa.eu/eli/dir/2020/739/oj
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: http://data.dre.pt/eli/lei/43/2014/07/11/p/dre
+- type: cites
+  target: pt:dre:468635:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/84/1997/04/16/p/dre
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/43-b/2024/07/02/p/dre
+- type: cites
+  target: pt:dre:901661917:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/118/2024/12/31/p/dre
+- type: corrects
+  target: pt:numero:decreto-lei:118/2024
+  label: Retifica a tabela designada «Vírus» do anexo v referido no artigo 2.º (Alteração ao anexo v do Decreto-Lei n.º 84/97,
+    de 16 de abril) do Decreto-Lei n.º 118/2024, de 31 de dezembro, Diário da República n.º 253/2024, Série I
+  source: null
+  date: '2024-12-31'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T19:15:46Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 15-A/2025/1
+
+Ao abrigo do disposto na alínea f) do n.º 3 do artigo 5.º do anexo i do [Decreto-Lei n.º 43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), de 2 de julho, conjugado com o disposto no n.º 1 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, e no artigo 5.º da [Lei n.º 74/98](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), de 11 de novembro, alterada e republicada pela [Lei n.º 43/2014](https://diariodarepublica.pt/dr/detalhe/lei/43-2014-25345900), de 11 de julho, declara-se que o [Decreto-Lei n.º 118/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2024-901661917), de 31 de dezembro, publicado no Diário da República, 1.ª série, n.º 253, de 31 de dezembro de 2024, saiu com as seguintes inexatidões, que, mediante declaração da entidade emitente, assim se retificam:
+
+1 - A descrição constante da 8.ª linha da tabela designada «Vírus», do anexo v do [Decreto-Lei n.º 84/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1997-468635), de 16 de abril, na redação dada pelo [Decreto-Lei n.º 118/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2024-901661917), de 31 de dezembro, corresponde a dois vírus distintos, que devem ser descritos em linhas autónomas, pelo que, onde se lê:
+
+| « | Ortohantavírus Choclo 3 Ortohantavírus Dobrava-Belgrado (espécie de hantavírus que causa febre hemorrágica com síndrome renal [HFRS]) | 3 | » |
+| --- | --- | --- | --- |
+
+deve ler-se:
+
+| « | Ortohantavírus Choclo | 3 |  |
+| --- | --- | --- | --- |
+|  | Ortohantavírus Dobrava-Belgrado (espécie de hantavírus que causa febre hemorrágica com síndrome renal [HFRS]) | 3 | » |
+
+2 - A descrição constante das 92.ª e 93.ª linhas da tabela designada «Vírus», do anexo v do Decreto-Lei n.º 84/97, de 16 de abril, na redação dada pelo Decreto-Lei n.º 118/2024, de 31 de dezembro, corresponde a um único vírus, pelo que, onde se lê:
+
+| « | Vírus da estomatite vesicular, vesiculovírus | 2 |  |
+| --- | --- | --- | --- |
+|  | New Jersey | 2 | » |
+
+deve ler-se:
+
+| « | Vírus da estomatite vesicular, vesiculovírus New Jersey | 2 | » |
+| --- | --- | --- | --- |
+
+3 - Em consequência das retificações acima descritas, a tabela designada «Vírus», do anexo v do Decreto-Lei n.º 84/97, de 16 de abril, na redação dada pelo Decreto-Lei n.º 118/2024, de 31 de dezembro, passará a ter a seguinte redação:
+
+«Vírus
+
+Nota. - Os vírus foram listados em função da sua ordem (O), da sua família (F) e do seu género (G). Ver notas introdutórias n.os7 e 11.
+
+| Agente biológico (espécie de vírus ou ordem da taxonomia indicada) | Classificação | Notas |
+| --- | --- | --- |
+| Bunyavirales (O) |  |  |
+| Hantaviridae (F) |  |  |
+| Ortohantavírus (G) |  |  |
+| Ortohantavírus dos Andes (espécie de hantavírus que causa síndrome pulmonar por hantavírus [HPS]) | 3 |  |
+| Ortohantavírus Bayou | 3 |  |
+| Ortohantavírus Black Creek Canal | 3 |  |
+| Ortohantavírus Cano Delgadito | 3 |  |
+| Ortohantavírus Choclo | 3 |  |
+| Ortohantavírus Dobrava-Belgrado (espécie de hantavírus que causa febre hemorrágica com síndrome renal [HFRS]) | 3 |  |
+| Ortohantavírus El Moro Canyon | 3 |  |
+| Ortohantavírus Hantaan (espécie de hantavírus que causa febre hemorrágica com síndrome renal [HFRS]) | 3 |  |
+| Ortohantavírus Laguna Negra | 3 |  |
+| Ortohantavírus Prospect Hill | 2 |  |
+| Ortohantavírus Puumala (espécie de hantavírus que causa nefropatia epidémica [NE]) | 2 |  |
+| Ortohantavírus Seul (espécie de hantavírus que causa febre hemorrágica com síndrome renal [HFRS]) | 3 |  |
+| Ortohantavírus Sin Nombre (espécie de hantavírus que causa síndrome pulmonar por hantavírus [HPS]) | 3 |  |
+| Outros hantavírus reconhecidamente patogénicos | 2 |  |
+| Nairoviridae (F) |  |  |
+| Ortonairovírus (G) |  |  |
+| Ortonairovírus da febre hemorrágica da Crimeia/Congo | 4 |  |
+| Ortonairovírus Dugbe | 2 |  |
+| Ortonairovírus Hazara | 2 |  |
+| Ortonairovírus da doença dos ovinos de Nairóbi | 2 |  |
+| Outros nairovírus reconhecidamente patogénicos | 2 |  |
+| Peribunyaviridae (F) |  |  |
+| Ortobuniavírus (G) |  |  |
+| Ortobuniavírus Bunyamwera (vírus Germiston) | 2 |  |
+| Ortobuniavírus da encefalite da Califórnia | 2 |  |
+| Ortobuniavírus Oropouche | 3 |  |
+| Outros ortobuniavírus reconhecidamente patogénicos | 2 |  |
+| Phenuiviridae (F) |  |  |
+| Flebovírus (G) |  |  |
+| Flebovírus Bhanja | 2 |  |
+| Flebovírus Punta Toro | 2 |  |
+| Flebovírus da febre do vale do Rift | 3 |  |
+| Flebovírus Nápoles da febre papatasi (vírus Toscana) | 2 |  |
+| Flebovírus SFTS (vírus da síndrome de febre grave com trombocitopenia) | 3 |  |
+| Outros flebovírus reconhecidamente patogénicos | 2 |  |
+| Herpesvirales (O) |  |  |
+| Herpesviridae (F) |  |  |
+| Citomegalovírus (G) |  |  |
+| Betaherpesvírus humano 5 (Citomegalovírus) | 2 |  |
+| Linfocriptovírus (G) |  |  |
+| Gamaherpesvírus humano 4 (vírus de Epstein-Barr) | 2 |  |
+| Radinovírus (G) |  |  |
+| Gamaherpesvírus humano 8 | 2 | D |
+| Roseolovírus (G) |  |  |
+| Betaherpesvírus humano 6A (vírus linfotrópico humano B) | 2 |  |
+| Betaherpesvírus humano 6B | 2 |  |
+| Betaherpesvírus humano 7 | 2 |  |
+| Simplexvírus (G) |  |  |
+| Alfaherpesvírus Macacine 1 (herpesvírus simiae, vírus herpes B) | 3 |  |
+| Alfaherpesvírus humano 1 (herpesvírus humano 1, vírus herpes simplex tipo 1) | 2 |  |
+| Alfaherpesvírus humano 2 (herpesvírus humano 2, vírus herpes simplex tipo 2) | 2 |  |
+| Varicelovírus (G) |  |  |
+| Alfaherpesvírus humano 3 (herpesvírus varicela-zóster) | 2 | V |
+| Mononegavirales (O) |  |  |
+| Filoviridae (F) |  |  |
+| Vírus Ébola (G) | 4 |  |
+| Vírus Marburgo (G) |  |  |
+| Vírus Marburgo | 4 |  |
+| Paramyxoviridae (F) |  |  |
+| Avulavírus (G) |  |  |
+| Vírus da doença de Newcastle | 2 |  |
+| Henipavírus (G) |  |  |
+| Henipavírus Hendra | 4 |  |
+| Henipavírus Nipah | 4 |  |
+| Morbilivírus (G) |  |  |
+| Morbilivírus do sarampo | 2 | V |
+| Respirovírus (G) |  |  |
+| Respirovírus humano 1 (vírus da parainfluenza tipo 1) | 2 |  |
+| Respirovírus humano 3 (vírus da parainfluenza tipo 3) | 2 |  |
+| Rubulavírus (G) |  |  |
+| Rubulavírus da papeira | 2 | V |
+| Rubulavírus humano 2 (vírus da parainfluenza tipo 2) | 2 |  |
+| Rubulavírus humano 4 (vírus da parainfluenza tipo 4) | 2 |  |
+| Pneumoviridae (F) |  |  |
+| Metapneumovírus (G) |  |  |
+| Ortopneumovírus (G) |  |  |
+| Ortopneumovírus humano (vírus sincicial respiratório) | 2 |  |
+| Rhabdoviridae (F) |  |  |
+| Lissavírus (G) |  |  |
+| Lissavírus do morcego australiano | 3 (**) | V |
+| Lissavírus Duvenhage | 3 (**) | V |
+| Lissavírus do morcego europeu 1 | 3 (**) | V |
+| Lissavírus do morcego europeu 2 | 3 (**) | V |
+| Lissavírus do morcego de Lagos | 3 (**) |  |
+| Lissavírus Mokola | 3 |  |
+| Lissavírus da raiva | 3 (**) | V |
+| Vesiculovírus (G) |  |  |
+| Vírus da estomatite vesicular, vesiculovírus Alagoas | 2 |  |
+| Vírus da estomatite vesicular, vesiculovírus Indiana | 2 |  |
+| Vírus da estomatite vesicular, vesiculovírus New Jersey | 2 |  |
+| Lissavírus Piry (vírus Piry) | 2 |  |
+| Nidovirales (O) |  |  |
+| Coronaviridae (F) |  |  |
+| Betacoronavírus (G) |  |  |
+| Coronavírus relacionado com a síndrome respiratória aguda grave (vírus SRAG) | 3 |  |
+| Coronavírus da síndrome respiratória aguda grave 2 (SARS-CoV-2) (1)(2) | 3 |  |
+| Coronavírus da síndrome respiratória do Médio Oriente (vírus MERS) | 3 |  |
+| Outros Coronaviridae reconhecidamente patogénicos | 2 |  |
+| Picornavirales (O) |  |  |
+| Picornaviridae (F) |  |  |
+| Cardiovírus (G) |  |  |
+| Vírus Saffold | 2 |  |
+| Cosavírus (G) |  |  |
+| Cosavírus A | 2 |  |
+| Enterovírus (G) |  |  |
+| Enterovírus A | 2 |  |
+| Enterovírus B | 2 |  |
+| Enterovírus C | 2 |  |
+| Enterovírus D, enterovírus humano tipo 70 (vírus da conjuntivite hemorrágica aguda) | 2 |  |
+| Rinovírus | 2 |  |
+| Poliovírus, tipos 1 e 3 | 2 | V |
+| Poliovírus, tipo 2 (3) | 3 | V |
+| Hepatovírus (G) |  |  |
+| Hepatovírus A (vírus da hepatite A, enterovírus humano tipo 72) | 2 | V |
+| Kobuvírus (G) |  |  |
+| Aichivírus A (aichivírus 1) | 2 |  |
+| Parechovírus (G) |  |  |
+| Parechovírus A | 2 |  |
+| Parechovírus B (vírus Ljungan) | 2 |  |
+| Outros Picornaviridae reconhecidamente patogénicos | 2 |  |
+| Não atribuída (O) |  |  |
+| Adenoviridae (F) | 2 |  |
+| Astroviridae (F) | 2 |  |
+| Arenaviridae (F) |  |  |
+| Mamarenavírus (G) |  |  |
+| Mamarenavírus brasileiro | 4 |  |
+| Mamarenavírus Chapare | 4 |  |
+| Mamarenavírus Flexal | 3 |  |
+| Mamarenavírus Guanarito | 4 |  |
+| Mamarenavírus Junín | 4 |  |
+| Mamarenavírus Lassa | 4 |  |
+| Mamarenavírus Lujo | 4 |  |
+| Mamarenavírus da coriomeningite linfocitária, estirpes neurotrópicas | 2 |  |
+| Mamarenavírus da coriomeningite linfocitária, outras estirpes | 2 |  |
+| Mamarenavírus Machupo | 4 |  |
+| Mamarenavírus Mobala | 2 |  |
+| Mamarenavírus Mopeia | 2 |  |
+| Mamarenavírus Tacaribe | 2 |  |
+| Mamarenavírus Whitewater Arroyo | 3 |  |
+| Caliciviridae (F) |  |  |
+| Norovírus (G) |  |  |
+| Norovírus (vírus de Norwalk) | 2 |  |
+| Outros Caliciviridae reconhecidamente patogénicos | 2 |  |
+| Hepadnaviridae (F) |  |  |
+| Ortohepadnavírus (G) |  |  |
+| Vírus da hepatite B | 3 (**) | V, D |
+| Hepeviridae (F) |  |  |
+| Ortohepevírus (G) |  |  |
+| Ortohepevírus A (vírus da hepatite E) | 2 |  |
+| Flaviviridae (F) |  |  |
+| Flavivírus (G) |  |  |
+| Vírus Dengue | 3 |  |
+| Vírus da encefalite japonesa | 3 | V |
+| Vírus da doença da floresta de Kyasanur | 3 | V |
+| Vírus da encefalomielite ovina (louping ill) | 3 (**) |  |
+| Vírus da encefalite Murray Valley (vírus da encefalite da Austrália) | 3 |  |
+| Vírus da febre hemorrágica de Omsk | 3 |  |
+| Vírus Powassan | 3 |  |
+| Vírus Rocio | 3 |  |
+| Vírus da encefalite St. Louis | 3 |  |
+| Vírus da encefalite transmitida por carraças |  |  |
+| Vírus Absettarov | 3 |  |
+| Vírus Hanzalova | 3 |  |
+| Vírus Hypr | 3 |  |
+| Vírus Kumlinge | 3 |  |
+| Vírus Negishi | 3 |  |
+| Vírus da encefalite verno-estival da Rússia (ª) | 3 | V |
+| Vírus da encefalite transmitida por carraças (subtipo da Europa Central) | 3 (**) | V |
+| Vírus da encefalite transmitida por carraças (subtipo do Extremo Oriente) | 3 |  |
+| Vírus da encefalite transmitida por carraças (subtipo da Sibéria) | 3 | V |
+| Vírus Wesselsbron | 3 (**) |  |
+| Vírus do Vale do Nilo | 3 |  |
+| Vírus da febre amarela | 3 | V |
+| Vírus Zika | 2 |  |
+| Outros flavivírus reconhecidamente patogénicos | 2 |  |
+| Hepacivírus (G) |  |  |
+| Hepacivírus C (vírus da hepatite C) | 3 (**) | D |
+| Orthomyxoviridae (F) |  |  |
+| Gamainfluenzavírus (G) |  |  |
+| Vírus da gripe C | 2 | V (c) |
+| Vírus da gripe A (G) |  |  |
+| Vírus da gripe aviária de alta patogenicidade HPAIV (H5), p. ex. H5N1 | 3 |  |
+| Vírus da gripe aviária de alta patogenicidade HPAIV (H7), p. ex. H7N7 e H7N9 | 3 |  |
+| Vírus da gripe A | 2 | V (c) |
+| Vírus A da gripe A/Nova Iorque/1/18 (H1N1) (gripe espanhola 1918) | 3 |  |
+| Vírus A da gripe A/Singapura/1/57 (H2N2) | 3 |  |
+| Vírus da gripe aviária de baixa patogenicidade (GABP) H7N9 | 3 |  |
+| Vírus da gripe B (G) |  |  |
+| Vírus da gripe B | 2 | V (c) |
+| Vírus Thogoto (G) |  |  |
+| Vírus Dhori (orthomyxoviridae transmitido por carraças: Dhori) | 2 |  |
+| Vírus Thogoto (orthomyxoviridae transmitido por carraças: Thogoto) | 2 |  |
+| Papillomaviridae (F) | 2 | D (d) |
+| Parvoviridae (F) |  |  |
+| Eritroparvovírus (G) |  |  |
+| Eritroparvovírus de primatas 1 (parvovírus humano, vírus B 19) | 2 |  |
+| Polyomaviridae (F) |  |  |
+| Betapoliomavírus (G) |  |  |
+| Betapoliomavírus humano 1 (vírus BK) | 2 | D (d) |
+| Poliomavírus humano 2 (vírus JC) | 2 | D (d) |
+| Poxviridae (F) |  |  |
+| Moluscipoxvírus (G) |  |  |
+| Vírus do molusco contagioso | 2 |  |
+| Ortopoxvírus (G) |  |  |
+| Vírus da varíola bovina | 2 |  |
+| Vírus da varíola do macaco | 3 | V |
+| Vírus Vaccinia [incluindo vírus da varíola do búfalo (e), vírus da varíola do elefante (f), vírus da varíola do coelho (g)] | 2 |  |
+| Vírus da varíola (major & minor) | 4 | V |
+| Parapoxvírus (G) |  |  |
+| Vírus Orf | 2 |  |
+| Vírus da pseudovaríola bovina (vírus dos nódulos dos tratadores de vacas, parapoxvírus bovis) | 2 |  |
+| Yatapoxvírus (G) |  |  |
+| Vírus Tanapox | 2 |  |
+| Vírus do tumor do macaco de Yaba | 2 |  |
+| Reoviridae (F) |  |  |
+| Seadornavírus (G) |  |  |
+| Vírus Banna | 2 |  |
+| Coltivírus (G) | 2 |  |
+| Rotavírus (G) | 2 |  |
+| Orbivírus (G) | 2 |  |
+| Retroviridae (F) |  |  |
+| Deltaretrovírus (G) |  |  |
+| Vírus linfotrópico-T de primatas 1 (vírus linfotrópico de células T humanas, tipo 1) | 3 (**) | D |
+| Vírus linfotrópico-T de primatas 2 (vírus linfotrópico de células T humanas, tipo 2) | 3 (**) | D |
+| Lentivírus (G) |  |  |
+| Vírus da imunodeficiência humana tipo 1 | 3 (**) | D |
+| Vírus da imunodeficiência humana tipo 2 | 3 (**) | D |
+| Vírus da imunodeficiência símia (SIV) (h) | 2 |  |
+| Togaviridae (F) |  |  |
+| Alfavírus (G) |  |  |
+| Cabassouvírus | 3 |  |
+| Vírus da encefalomielite equina do Leste | 3 | V |
+| Vírus Bebaru | 2 |  |
+| Vírus Chikungunya | 3 (**) |  |
+| Vírus Everglades | 3 (**) |  |
+| Vírus Mayaro | 3 |  |
+| Vírus Mucambo | 3 (**) |  |
+| Vírus Ndumu | 3 (**) |  |
+| Vírus O’nyong-nyong | 2 |  |
+| Vírus Ross River | 2 |  |
+| Vírus da floresta de Semliki | 2 |  |
+| Vírus Sindbis | 2 |  |
+| Vírus Tonate | 3 (**) |  |
+| Vírus da encefalomielite equina da Venezuela | 3 | V |
+| Vírus da encefalomielite equina do Oeste | 3 | V |
+| Outros alfavírus reconhecidamente patogénicos | 2 |  |
+| Rubivírus (G) |  |  |
+| Vírus da rubéola | 2 | V |
+| Não atribuída (F) |  |  |
+| Deltavírus (G) |  |  |
+| Vírus da hepatite delta (b) | 2 | V, D |
+
+(*) Ver nota introdutória n.º 7.
+
+(**) Ver nota introdutória n.º 8.
+
+(1) O trabalho não propagativo dos laboratórios de diagnóstico que envolva o SARS-CoV-2 deve ser realizado numa instalação que utilize procedimentos equivalentes, no mínimo, ao nível de confinamento 2.
+
+(2) O trabalho propagativo que envolva o SARS-CoV-2 deve ser realizado num laboratório com um nível de confinamento 3, com pressão negativa em relação à atmosfera.
+
+(3) Classificação de acordo com o Plano de Ação Mundial da OMS para minimizar os riscos de poliovírus associados à instalação, após erradicação de tipos específicos de poliovírus selvagens e cessação sequencial da utilização da vacina oral contra a poliomielite.
+
+(ª) Encefalite transmitida por carraças.
+
+(b) O vírus da hepatite delta só é patogénico para os trabalhadores na presença de uma infeção simultânea ou secundária provocada pelo vírus da hepatite B. A vacinação contra o vírus da hepatite B protegerá, por conseguinte, os trabalhadores não afetados pelo vírus da hepatite B contra os vírus da hepatite delta.
+
+(c) Unicamente no que respeita aos tipos A e B.
+
+(d) Para os trabalhos que impliquem um contacto direto com estes agentes.
+
+(e) Nesta rubrica podem ser identificados dois vírus: um tipo de vírus da varíola de búfalo e uma variante do vírus Vaccinia.
+
+(f) Variante do vírus da varíola bovina.
+
+(g) Variante de Vaccinia.
+
+(h) Não existe atualmente nenhuma prova de doença em seres humanos provocada por outros retrovírus de origem símia. Como precaução, recomenda-se um confinamento de nível 3 para os trabalhos com tais retrovírus.»
+
+Secretaria-Geral do Governo, 27 de fevereiro de 2025. - A Secretária-Geral Adjunta, Fátima Costa Ferreira.
+
+118752038

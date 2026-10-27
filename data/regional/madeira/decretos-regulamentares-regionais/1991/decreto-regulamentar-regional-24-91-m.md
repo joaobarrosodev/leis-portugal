@@ -1,0 +1,327 @@
+---
+schema_version: '1.0'
+id: pt:dre:292076:por
+title: Decreto Regulamentar Regional n.º 24/91/M
+short_title: null
+summary: Estabelece o regime das carreiras de monitor de formação profissional, de técnico de emprego e de técnico de diagnóstico
+  e terapêutica existentes no âmbito da Secretaria Regional da Educação, Juventude e Emprego
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Governo Regional
+proposing_entity: null
+official_number: 24/91/M
+official_date: null
+publication_date: '1991-09-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 221/1991, Série I-B de 1991-09-25
+  number: '221'
+  series: I
+  supplement: null
+  pages: 5043 - 5047
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/09/221b00/50435047.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/24/1991/09/25/m/dre/pt/html
+  oj: null
+  dre: '292076'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/24-1991-292076
+  internal: pt:dre:292076:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1991-292076
+  metadata_url: https://data.dre.pt/eli/decregulreg/24/1991/09/25/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1991-292076
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:45:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1c9b9a0ed338c0b9901170d0f63d54c6d31498a428aae1a684ed419bdba74032
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:22Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carreira Profissional
+- Madeira.região Autónoma
+- Monitor
+- Pessoal Técnico de Diagnóstico e Terapêutica
+- Pessoal Técnico Profissional
+- Política Salarial
+- Remuneração
+- Secretaria Regional da Educação Juventude e Emprego
+relationships:
+- type: amended_by
+  target: pt:dre:320088:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:168598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616430:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/17/1991/04/11/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: corrected_by
+  target: pt:dre:402556:por
+  label: "Retificado, no que se refere ao quadro de pessoal da Direcção Regional da Educação Especial, pela DECL-RECT.267/91.31.12.1991.PCM,\
+    \ DR.IS-B [301]5ºSupl de 31.12.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/267-1991-402556
+  date: '1991-12-31'
+- type: repealed_by
+  target: pt:dre:320088:por
+  label: "Revogados os arts. 3º a 6º pelo DLR.16/2000/M.2000.06.29.ALR-RAM,DR.IS-A [162] de 15/Jul/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/16-2000-320088
+  date: '2000-06-29'
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:45:22Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 24/91/M
+
+Regime jurídico das carreiras de monitor de formação profissional, de técnico de emprego e de técnico de diagnóstico e terapêutica
+
+Considerando que a orgânica da Secretaria Regional da Educação, Juventude e Emprego, consubstanciada no [Decreto Regulamentar Regional n.º 26/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-1989-262123), de 30 de Dezembro, prevê nalgumas das suas direcções regionais carreiras de regime especial e de corpos especiais não integradas, até à presente data, em índices remuneratórios, atendendo a que o [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, reservou para posterior publicação;
+
+Considerando que tais carreiras, monitor de formação profissional, técnico de emprego, técnico de diagnóstico e terapêutica, foram já integradas nos novos escalões salariais pelo [Decreto-Lei n.º 203/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1990-575159), de 20 de Junho, e pelo [Decreto Regulamentar n.º 17/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-1991-616430), de 11 de Abril;
+
+Considerando que urge proceder à integração dessas carreiras nos respectivos índices remuneratórios no contexto da nova reestruturação salarial na orgânica da Secretaria Regional da Educação, Juventude e Emprego, de harmonia com o estabelecido a nível nacional como garante da intercomunicabilidade:
+
+Assim, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição da República Portuguesa, conjugada com a alínea d) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, o Governo Regional da Madeira decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma estabelece o regime das carreiras de monitor de formação profissional, de técnico de emprego e de técnico de diagnóstico e terapêutica existentes no âmbito da Secretaria Regional da Educação, Juventude e Emprego.
+
+###### Artigo 2.º — Quadros
+
+Os quadros da estrutura remuneratória e os respectivos conteúdos funcionais das carreiras de monitor de formação profissional, de técnico de emprego e de técnico de diagnóstico e terapêutica são os constantes dos anexos I e II do presente diploma, de que fazem parte integrante.
+
+###### Artigo 3.º — Carreira de monitor de formação profissional
+
+1 - O recrutamento para a carreira de monitor de formação profissional, integrada no grupo de pessoal técnico-profissional, nível 4, obedece às seguintes regras:
+
+a) Monitor de formação profissional especialista, de entre monitores de formação profissional principais com pelo menos três anos na respectiva categoria classificados de Muito bom ou cinco anos classificados, no mínimo, de Bom;
+
+b) Monitor de formação profissional principal e de 1.ª classe, de entre, respectivamente, monitores de formação profissional de 1.ª classe e de 2.ª classe com um mínimo de três anos na respectiva categoria classificados de Bom;
+
+c) Monitor de formação profissional de 2.ª classe, de entre indivíduos diplomados com um curso técnico-profissional adequado com duração não inferior a três anos, para além de nove anos de escolaridade.
+
+2 - Enquanto não forem criados oficialmente os cursos técnico-profissionais necessários, o recrutamento far-se-á de entre indivíduos com experiência profissional comprovada e habilitados com o curso complementar do ensino secundário ou equivalente, acrescido de um curso de formação adequado.
+
+###### Artigo 4.º — Carreira de técnico de emprego
+
+O recrutamento para as categorias da carreira de técnico de emprego, integrada no grupo de pessoal técnico-profissional, nível 4, obedece às seguintes regras:
+
+a) Técnico de emprego especialista, de entre técnicos de emprego principais com pelo menos três anos na categoria classificados de Muito Bom ou cinco anos classificados, no mínimo, de Bom;
+
+b) Técnico de emprego principal, técnico de emprego especial e técnico de emprego de 1.ª classe, de entre, respectivamente, técnicos de emprego especiais, técnicos de emprego de 1.ª classe e de 2.ª classe com um mínimo, de três anos na respectiva categoria classificados de Bom;
+
+c) Técnico de emprego de 2.ª classe, de entre indivíduos diplomados com um curso técnico-profissional adequado com duração não inferior a três anos, para além de nove anos de escolaridade, ou de entre indivíduos habilitados com o curso complementar do ensino liceal ou equivalente e, em qualquer dos casos, com um curso de formação adequado.
+
+###### Artigo 5.º — Regime dos estágios
+
+1 - O ingresso nas carreiras de monitor de formação profissional e de técnico de emprego é precedido de um estágio nos termos estabelecidos no artigo 5.º do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho, conjugado com a alínea c) do n.º 2 do artigo 15.º e com o artigo 24.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro, com as alterações introduzidas pelo [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, diplomas estes adaptados à Região Autónoma da Madeira respectivamente pelo [Decreto Legislativo Regional n.º 4/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-611346), de 15 de Fevereiro, e [Decreto Regulamentar Regional n.º 2/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1990-332408), de 2 de Março.
+
+2 - O estágio integra um curso de formação conforme previsto no n.º 2 do artigo 3.º e na alínea c) do artigo 4.º do presente diploma, cujos programas serão aprovados por despacho conjunto dos Secretários Regionais da Administração Pública e da Educação, Juventude e Emprego.
+
+3 - Os monitores de formação profissional estagiários e os técnicos de emprego estagiários são remunerados de acordo com o sistema retributivo constante no anexo I do presente diploma, sem prejuízo do direito de opção pelo vencimento do lugar de origem, no caso de se tratar de pessoal já vinculado à função pública.
+
+4 - Os estagiários, independentemente da carreira a que se destinam, quando funcionários, são nomeados em comissão de serviço extraordinário durante o período de estágio.
+
+###### Artigo 6.º — Recrutamento e selecção
+
+O ingresso e o acesso das carreiras de monitor de formação profissional e de técnico de emprego obedecem ao regime geral de recrutamento e selecção de pessoal aplicável à função pública e às normas pelo presente estabelecidas.
+
+###### Artigo 7.º — Carreira de técnico de diagnóstico e terapêutica
+
+1 - O recrutamento para a categoria de técnico de diagnóstico e terapêutica, integrada no grupo de pessoal técnico, conforme anexo I, obedece às seguintes regras:
+
+a) O técnico director de diagnóstico e terapêutica, por área profissional, é nomeado em comissão de serviço de entre os técnicos especialistas de 1.ª classe ou, excepcionalmente, entre os técnicos especialistas detentores do curso complementar de Ensino e Administração, quando não existam técnicos especialistas de 1.ª classe no serviço. A nomeação é feita sob proposta do órgão máximo do serviço e parecer do Secretário Regional da Educação, Juventude e Emprego. A comissão de serviço tem a duração de três anos, podendo ser renovada por iguais períodos, em termos idênticos ao previsto para os cargos dirigentes. A nomeação referida deverá ser precedida de publicitação de vagas no Jornal Oficial, devendo os interessados enviar ao serviço o seu currículo profissional.
+
+2 - O acesso à categoria de técnico especialista de 1.ª classe é feito de entre técnicos especialistas com pelo menos três anos de bom e efectivo serviço, mediante concurso de provas públicas, que incluirá avaliação curricular complementada pela apresentação e discussão de uma monografia elaborada para o efeito.
+
+3 - O acesso à categoria de técnico especialista é feito de entre técnicos principais habilitados com o curso complementar de Ensino e Administração, com a duração de um ano, ministrado pelas escolas referidas no artigo 6.º do [Decreto-Lei n.º 384-B/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-b-1985-168598), de 30 de Setembro, e com pelo menos três anos de bom e efectivo serviço mediante concurso de provas públicas nos termos idênticos ao número anterior.
+
+4 - O acesso à categoria de técnico principal é efectuado de entre técnicos de 1.ª classe com pelo menos três anos de bom e efectivo serviço mediante concurso de provas de conhecimentos e avaliação curricular. O programa das provas encontra-se regulamentado por despacho conjunto publicado na 2.ª série do Jornal Oficial, de 30 de Abril de 1987.
+
+5 - O acesso à categoria de técnico de 1.ª classe efectua-se mediante concurso de avaliação curricular de entre os técnicos de 2.ª classe com pelo menos três anos de bom e efectivo serviço na categoria.
+
+6 - O ingresso na carreira de técnico de diagnóstico e terapêutica faz-se pela categoria de 2.ª classe mediante concurso de avaliação curricular, a que poderão concorrer os indivíduos diplomados com o curso de formação profissional, ministrado nas escolas referidas no [Decreto-Lei n.º 371/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1982-375620), de 10 de Setembro, ou habilitações profissionais equivalentes reconhecidas nos termos do n.º 2 do artigo 6.º do [Decreto-Lei n.º 384-B/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-b-1985-168598), de 30 de Setembro.
+
+###### Artigo 8.º — Recrutamento e selecção
+
+O regime de recrutamento e selecção da carreira de técnico de diagnóstico e terapêutica rege-se pelo disposto no [Decreto-Lei n.º 235/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-1990-575764), de 17 de Julho.
+
+###### Artigo 9.º — Escalão de promoção na carreira de técnico de diagnóstico e terapêutica
+
+1 - A promoção para a categoria superior faz-se da seguinte forma:
+
+a) Para o escalão 1 da categoria para a qual se faz a promoção;
+
+b) Para os escalões a que na estrutura remuneratória da categoria para a qual se faz a promoção corresponda o índice superior mais aproximado, se o interessado vier já auferindo remuneração igual ou superior à do escalão 1, ou para o escalão seguinte, sempre que a remuneração que caberia em caso de progressão na categoria fosse superior.
+
+2 - Sempre que do disposto no número anterior resultar um impulso salarial inferior a cinco pontos, a integração na nova categoria faz-se no escalão seguinte da estrutura da categoria.
+
+###### Artigo 10.º — Escala salarial
+
+1 - O índice 100 da escala salarial da carreira de técnico de diagnóstico e terapêutica foi fixado pela [Portaria n.º 471/90](https://diariodarepublica.pt/dr/detalhe/portaria/471-1990-575302), de 26 de Junho, estando, porém, sujeito à actualização anual mediante portaria.
+
+2 - A remuneração base mensal do cargo de técnico-director corresponde aos índices 220 ou 255, conforme o designado seja titular da categoria com índice inferior ou superior a 200, respectivamente.
+
+###### Artigo 11.º — Duração do trabalho
+
+1 - O regime normal de trabalho da carreira de técnico de diagnóstico e terapêutica é de trinta e cinco horas semanais.
+
+2 - A adaptação de outro regime de trabalho obedece ao preceituado no artigo 4.º do [Decreto-Lei n.º 203/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1990-575159), de 20 de Julho.
+
+###### Artigo 12.º — Legislação subsidiária
+
+Em tudo o que não esteja expressamente previsto no presente diploma é aplicável o disposto no [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, e demais legislação.
+
+###### Artigo 13.º — Legislação revogada
+
+São revogados os n.os 11, 12 e 13 do artigo 106.º, o artigo 107.º e o n.º 2 do artigo 109.º do [Decreto Regulamentar Regional n.º 26/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-1989-262123), de 30 de Dezembro, e os quadros relativos às carreiras de monitor de formação profissional, de técnico de emprego e de técnico de diagnóstico e terapêutica do Centro Regional de Formação Profissional e das Direcções Regionais do Emprego e Educação Especial.
+
+###### Artigo 14.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos, no que respeita à nova estrutura salarial, desde 1 de Outubro de 1989.
+
+Aprovado em Conselho do Governo Regional em 1 de Agosto de 1991.
+
+Pelo Presidente do Governo Regional, Miguel José Luís de Sousa, Vice-Presidente do Governo Regional e Coordenação Económica.
+
+Assinado em 21 de Agosto de 1991.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
+
+## ANEXO I — Centro Regional de Formação Profissional
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/221b00/50435047.pdf)
+
+## ANEXO II — Pessoal técnico-profissional, nível 4
+
+Monitor de formação profissional. - Exerce diversas funções nos domínios da reabilitação e formação profissional, ministrando cursos e ou ensinando uma profissão específica com base no conhecimento ou adaptação de métodos e processos de índole técnica e pedagógica. Executa predominantemente as seguintes tarefas: prepara os meios pedagógicos, de acordo com os objectivos e especificações dos programas de formação; organiza e mantém o local de formação, bem como os recursos materiais e pedagógicos necessários ao funcionamento dos cursos; ensina uma profissão ou ministra cursos de formação profissional; avalia pedagogicamente os resultados da formação; colabora na elaboração de material didáctico e de outros meios pedagógicos e materiais necessários à formação; colabora na identificação de necessidades de formação e no lançamento de acções de formação profissional; presta apoio técnico e pedagógico às acções externas de formação profissional.
+
+Técnico de emprego. - Exerce, sob a orientação de superiores hierárquicos, diversas funções no âmbito do emprego, da reabilitação e da formação profissional. Exerce, entre outras, as seguintes tarefas: recolhe, analisa e gere as ofertas e pedidos de emprego com vista à satisfação das necessidades de mão-de-obra por parte dos empregadores e da integração dos trabalhadores no mercado de emprego em postos de trabalho adequados, devidamente remunerados e livremente escolhidos; promove a mobilidade profissional e geográfica dos trabalhadores, quando necessárias à consecução do equilíbrio entre a oferta e a procura de emprego; avalia as características e qualificação profissionais dos candidatos a emprego, informa-os sobre os meios de formação disponíveis e encaminha-os, em caso de interesse, para os serviços competentes; desenvolve as acções necessárias à implementação de programas especiais de emprego; apoia iniciativas geradoras de emprego, visitando empresas para detecção das necessidades de mão-de-obra e recolha das correspondentes ofertas de emprego; propõe medidas adequadas de formação e reconversão profissional; verifica e controla as condições de acesso e de manutenção do direito dos trabalhadores ao subsídio de desemprego ou ao subsídio social de desemprego; acompanha a integração e a adaptação dos trabalhadores nos postos de trabalho em que foram colocados; analisa os dados sobre a evolução do mercado de emprego, tendo em vista a elaboração de estatísticas regionais e locais; promove, apoia e acompanha na respectiva área geográfica a divulgação e a execução dos programas operacionais de emprego, formação profissional e reabilitação profissional.
+
+Pessoal técnico
+
+Carreira de técnico de diagnóstico e terapêutica
+
+1 - Compete ao técnico de diagnóstico e terapêutica, em princípio, a consecução dos objectivos definidos no artigo 4.º do [Decreto-Lei n.º 384-B/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-b-1985-168598), de 30 de Setembro.
+
+2 - Compete ao técnico de 2.ª classe a consecução dos objectivos enunciados nos n.os 1, 2 e 4 do artigo 4.º do Decreto-lei n.º 384-B/85, de 30 de Setembro.
+
+3 - Compete ao técnico de 1.ª classe e ao técnico principal, além do referido nos números anteriores:
+
+a) Enquadrar e coordenar o pessoal da sua profissão no estabelecimento ou organismo a que pertença, na ausência ou falta de técnicos com categoria superior;
+
+b) Avaliar as necessidades dos serviços ou organismos a que pertença em matéria conexa com a profissão e o nível dos meios já existentes, propondo as medidas necessárias à sua maior rentabilidade e eficiência;
+
+c) Colaborar, como monitor, nos cursos de formação, promoção e aperfeiçoamento profissional ministrados nas escolas referidas no [Decreto-Lei n.º 371/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1982-375620), de 10 de Setembro;
+
+d) Participar em grupos de trabalho incumbidos de estudos visando o aperfeiçoamento de técnicas relacionadas com os meios de diagnóstico e terapêutica.
+
+4 - Compete ao técnico especialista, além do referido nos números antecedentes, dinamizar e colaborar em acções de investigação da respectiva profissão.
+
+5 - Compete ao técnico especialista de 1.ª classe, além do referido nos números antecedentes, orientar e coordenar, no âmbito da sua profissão, a acção dos técnicos de diagnóstico e terapêutica dos serviços que lhe estiverem confiados.
+
+6 - Compete, em particular, ao técnico especialista de 1.ª classe, quando no exercício de funções de técnico director:
+
+a) Participar na definição da política de saúde dos serviços onde exerça funções;
+
+b) Emitir pareceres técnicos e prestar informações e esclarecimentos a solicitação dos dirigentes dos serviços;
+
+c) Participar, dentro da sua área de actividades, na elaboração do plano e do relatório de exercício dos respectivos serviços.
+
+7 - No caso de não haver técnicos em todas as categorias, compete ao técnico com a categoria superior o desempenho das funções de todas as categorias, salvo aquelas que, pela sua natureza, não possam por eles ser exercidas.
+
+Os conteúdos funcionais das áreas profissionais da carreira de técnico de diagnóstico e terapêutica existentes na Direcção Regional de Educação Especial são os abaixo descritos:
+
+O fisioterapeuta colabora na recuperação, aumento ou manutenção das capacidades físicas dos deficientes, bem como na prevenção da incapacidade, para o que utiliza técnicas específicas da profissão. Colabora no diagnóstico mediante a avaliação das deficiências, identificando as áreas lesadas; elabora programas adequados de tratamento com o fim de ajudar os deficientes a reconquistarem ou aumentarem as suas capacidades físicas, utilizando diferentes técnicas, tais como terapia pelo movimento, técnicas manipulativas, electroterapia, incluindo o frio e o calor, e ainda outras técnicas mais evoluídas de facilitação e inibição neuromuscular. Ensina aos deficientes o modo de proceder mais adequado, conforme o seu estado. Trata doentes de diferentes patologias, tais como ortopédica, respiratória e cárdio-respiratória, neurológica e rematológica, individualmente ou em grupo. Elabora relatórios dos resultados obtidos.
+
+O terapeuta da fala avalia e trata as deficiências da fala a partir de observações directas e dos antecedentes clínicos. Reeduca alterações da linguagem, nomeadamente perturbações da fala (articulação, voz, ritmo, fluência, etc.), atrasos no desenvolvimento da linguagem e perda da capacidade linguística (afasia), utilizando os métodos e técnicas mais apropriados, consoante os casos. Elabora o diagnóstico e plano terapêutico da fala. Orienta os familiares e professores tendo em vista complementar a acção terapêutica. Por vezes faz parte de uma equipa de reabilitação e ou reeducação, juntamente com outros técnicos, aplicando os conhecimentos específicos da profissão. Elabora relatórios dos exames efectuados.
+
+O terapeuta ocupacional avalia e procede ao tratamento dos deficientes físicos, mentais ou outros, através do uso específico de actividades escolhidas, tais como manuais, artesanais, oficinais, artísticas e sócio-recreativas, elaborando um programa, a fim de obter o máximo de funcionalidade e independência no trabalho, na vida social e nas tarefas domésticas. Colabora no diagnóstico através da avaliação dos deficientes, identificando as áreas lesadas; identifica as áreas subjacentes da disfunção neurológica e de maturação; analisa as actividades mais apropriadas para cada caso, a fim de as converter em exercício terapêutico; estuda e projecta dispositivos tendo em vista compensar funções deficientes, a fim de facilitar ou possibilitar a execução das tarefas necessárias à vida do indivíduo; treina amputados do membro superior na adaptação da prótese e colabora na respectiva escolha mediante a avaliação funcional. Elabora relatórios dos resultados obtidos.

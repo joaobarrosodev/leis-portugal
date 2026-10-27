@@ -1,0 +1,505 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:124346824:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2019-124376575",
+ "dre_path": "/dr/detalhe/lei/73-2019-124346824",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-09-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "853915100",
+    "124376676",
+    "124376677",
+    "124376678",
+    "124376679",
+    "124376680",
+    "124376681",
+    "124376682",
+    "124376683",
+    "124376684",
+    "124376686",
+    "124376687",
+    "124376688",
+    "124376689",
+    "124376690",
+    "124376691",
+    "124376692",
+    "124376693",
+    "124376694",
+    "124376695",
+    "124376696",
+    "124376697",
+    "124376698",
+    "124376699",
+    "124376700",
+    "124376701",
+    "124376702",
+    "124376703",
+    "124376704",
+    "124376705",
+    "124376706",
+    "124376707",
+    "124376708",
+    "124376709",
+    "124376710",
+    "124376711",
+    "124376712",
+    "124376713",
+    "124376714",
+    "124376715",
+    "124376716",
+    "124376717",
+    "124376718",
+    "124376719",
+    "124376720",
+    "124376721",
+    "124376722",
+    "124376723",
+    "124376724",
+    "124376725",
+    "124376726",
+    "124376727",
+    "124376728",
+    "124376729"
+   ]
+  }
+ ],
+ "fragments": {
+  "853915100": {
+   "fragment_id": "124376576",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 73/2019\n\nde 2 de setembro\n\nSumário: Reinstitucionaliza a Casa do Douro enquanto associação pública e aprova os seus estatutos.\n\nReinstitucionaliza a Casa do Douro enquanto associação pública e aprova os seus estatutos\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:\n\n> Nota: [III - Decisão, Acórdão do Tribunal Constitucional n.º 522/2021 - Diário da República n.º 193/2021, Série I de 2021-10-04](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/522-2021-172266453) Declarada, com força obrigatória geral, a inconstitucionalidade da presente Lei, por violação do n.º 4 do artigo 267.º e do n.º 3 do artigo 46.º da Constituição, com efeitos a partir da data da publicação do Acordão (2021-10-04)."
+  },
+  "124376676": {
+   "fragment_id": "124376577",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei procede à reinstitucionalização da Casa do Douro enquanto associação pública de inscrição obrigatória, procede à aprovação dos estatutos da Casa do Douro e determina a entrega a esta entidade do imóvel que é a sua sede e propriedade conjunta de todos os viticultores da Região Demarcada do Douro, sito na Rua dos Camilos, Peso da Régua."
+  },
+  "124376677": {
+   "fragment_id": "124376578",
+   "type": 11,
+   "heading": "Artigo 2.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sede\n\n1 - A aprovação da presente lei anula a inscrição do edifício sede da Casa do Douro a favor de qualquer outra entidade que não a Casa do Douro agora reinstitucionalizada.\n\n2 - A presente lei serve de título bastante para inscrição no Registo Predial, a favor da Casa do Douro agora reinstitucionalizada, do seu edifício sede e para o cancelamento da anterior inscrição.\n\n3 - O Governo, por portaria do membro do Governo com a tutela das finanças, determina, até à data da marcação das eleições previstas no presente diploma, a forma de ressarcir, se a isso houver lugar, a entidade que à data da entrada em vigor da presente lei usa o nome de Casa do Douro, a qual perde esse direito, ficando a Casa do Douro agora reinstitucionalizada com o direito exclusivo à utilização da referida denominação."
+  },
+  "124376678": {
+   "fragment_id": "124376579",
+   "type": 11,
+   "heading": "Artigo 3.º — Regulamento eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regulamento eleitoral\n\n1 - O regulamento eleitoral é aprovado por portaria do membro do Governo com a tutela da agricultura até 60 dias após a entrada em vigor da presente lei.\n\n2 - Na mesma portaria é determinada a constituição da comissão eleitoral e marcadas as datas relativas ao processo eleitoral a decorrer até 150 dias após a entrada em vigor da presente lei."
+  },
+  "124376679": {
+   "fragment_id": "124376580",
+   "type": 11,
+   "heading": "Artigo 4.º — Processo de regularização das dívidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Processo de regularização das dívidas\n\n1 - O processo relativo ao saneamento financeiro aplicável ao património da Casa do Douro e que incide sobre as dívidas verificadas até junho de 2016, previsto na Lei n.º 19/2016, de 24 de junho, alterada pelo Decreto-Lei n.º 18/2019, de 25 de janeiro, mantém-se autónomo e na dependência dos membros do Governo com as tutelas das finanças e da agricultura.\n\n2 - Os órgãos da Casa do Douro agora reinstitucionalizada estão impedidos de intervir, em qualquer circunstância, no processo referido no número anterior.\n\n3 - Os órgãos da Casa do Douro que resultam da presente lei não podem reclamar, até ao termo do processo referido no n.º 1 do presente artigo, qualquer direito sobre o património da Casa do Douro existente até 24 de junho de 2016, salvo o que for previsto nos estatutos em anexo."
+  },
+  "124376680": {
+   "fragment_id": "124376581",
+   "type": 11,
+   "heading": "Artigo 5.º — Dever de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Dever de colaboração\n\nPara todos os fins que venham a mostrar-se necessários, o Instituto do Vinho e da Vinha, I. P., e o Instituto dos Vinhos do Douro e Porto, I. P., bem como as demais instituições do Estado, têm o dever de colaboração com a Casa do Douro."
+  },
+  "124376681": {
+   "fragment_id": "124376582",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regime fiscal\n\n1 - A Casa do Douro está isenta do pagamento de custas nos processos judiciais tramitados em primeira instância e ainda de imposto de selo e emolumentos em contratos e atos notariais e de registo predial e comercial ou outros em que intervenha.\n\n2 - Os municípios onde se encontre o património imobiliário da Casa do Douro determinam a incidência do Imposto Municipal sobre Imóveis (IMI) a aplicar."
+  },
+  "124376682": {
+   "fragment_id": "124376583",
+   "type": 11,
+   "heading": "Artigo 7.º — Estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Estatutos\n\nSão aprovados os Estatutos da Casa do Douro, em anexo à presente lei e que dela fazem parte integrante."
+  },
+  "124376683": {
+   "fragment_id": "124376584",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Norma revogatória\n\nSão revogados os seguintes diplomas:\n\na) O Decreto-Lei n.º 152/2014, de 15 de outubro;\n\nb) O Decreto-Lei n.º 182/2015, de 31 de agosto;\n\nc) A Portaria n.º 268/2014, de 19 de dezembro."
+  },
+  "124376684": {
+   "fragment_id": "124376585",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nA presente lei entra em vigor no dia 1 de janeiro de 2020."
+  },
+  "124376686": {
+   "fragment_id": "124376587",
+   "type": 14,
+   "heading": "Anexo — Estatutos da Casa do Douro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Estatutos da Casa do Douro\n\n(a que se refere o artigo 7.º da presente lei)\n\n> Nota: [III - Decisão, Acórdão do Tribunal Constitucional n.º 522/2021 - Diário da República n.º 193/2021, Série I de 2021-10-04](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/522-2021-172266453) Declarada, com força obrigatória geral, a inconstitucionalidade dos presentes Estatutos, por violação do n.º 4 do artigo 267.º e do n.º 3 do artigo 46.º da Constituição, com efeitos a partir da data da publicação do Acordão (2021-10-04)."
+  },
+  "124376687": {
+   "fragment_id": "124376588",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, fins e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, fins e atribuições"
+  },
+  "124376688": {
+   "fragment_id": "124376589",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza, fins e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza, fins e sede\n\n1 - A Casa do Douro é uma associação pública.\n\n2 - A Casa do Douro tem por objeto a representação e a prossecução dos interesses de todos os viticultores da Região Demarcada do Douro, através do exercício das atribuições e competências previstas nos presentes Estatutos e outras que o Estado, em articulação com os órgãos próprios da Casa do Douro, decida atribuir-lhe.\n\n3 - A Casa do Douro tem a sua sede em Peso da Régua."
+  },
+  "124376689": {
+   "fragment_id": "124376590",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime\n\n1 - A Casa do Douro rege-se pelos presentes Estatutos.\n\n2 - A Casa do Douro está sujeita às normas de direito privado nas suas relações contratuais com terceiros.\n\n3 - A Casa do Douro organiza e prossegue a sua atividade no respeito pelos princípios da liberdade, democraticidade e representatividade.\n\n4 - O processo eleitoral para os órgãos da Casa do Douro rege-se por regulamento eleitoral próprio aprovado por portaria do membro do Governo com a tutela da agricultura."
+  },
+  "124376690": {
+   "fragment_id": "124376591",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuições específicas\n\nNa Região Demarcada do Douro, cabem à Casa do Douro, nomeadamente, as seguintes atribuições:\n\na) Representar os viticultores junto de entidades públicas e privadas, com especial incidência perante o Ministério da Agricultura e os seus serviços, associações interprofissionais, profissionais, económicas e sindicais, assegurando a representação coordenada dos representantes da produção nos organismos interprofissionais;\n\nb) Indicar os representantes da produção nos organismos e entidades públicas e privadas em que lhe seja reconhecido o direito de participação, designadamente no Conselho Interprofissional do Instituto dos Vinhos do Douro e Porto, I. P.;\n\nc) Defender as denominações de origem e indicações geográficas da região, designadamente participando as infrações às autoridades competentes;\n\nd) Promover a agregação dos viticultores junto de instrumentos de garantia e de seguros que visem aumentar o valor e a qualidade dos vinhos produzidos na Região Demarcada do Douro;\n\ne) Participar na criação e gestão de instituições de carácter mutualista;\n\nf) Apoiar e incentivar a produção vitícola e vitivinícola, em ligação com os serviços competentes e prestar assistência técnica aos viticultores designadamente nos âmbitos da proteção integrada ou biológica, fitossanitário ou ambiental;\n\ng) Promover serviços técnicos aos seus associados, designadamente ao nível da contabilidade e da procura de crédito disponíveis a nível nacional ou internacional;\n\nh) Desenvolver, por si ou por interposta pessoa, planos e ações de formação profissional;\n\ni) Desenvolver atividade comercial no domínio dos fatores de produção ligados à agricultura;\n\nj) Prestar ao organismo interprofissional toda a colaboração no tratamento de assuntos que constituam objeto de interesse para os seus associados, como sejam, receber o manifesto da produção e as declarações de existência e outras que decorram de protocolos de colaboração aceites pelas partes;\n\nk) Promover e colaborar na investigação e experimentação tendentes ao aperfeiçoamento da vinicultura e da viticultura durienses;\n\nl) Participar nas políticas de procura de novos mercados e de promoção dos produtos da região tanto a nível nacional como internacional;\n\nm) Promover a auscultação regular dos agentes económicos, entidades, instituições e autarquias, sobre os problemas da vinicultura e viticultura da região e sobre as linhas estratégicas a adotar;\n\nn) Manter um stock histórico mínimo de vinhos a determinar por portaria do membro do Governo com a tutela da agricultura;\n\no) Exercer quaisquer outras funções públicas que, de harmonia com a lei e a sua natureza, lhe caibam."
+  },
+  "124376691": {
+   "fragment_id": "124376592",
+   "type": 1,
+   "heading": "Capítulo II — Dos associados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Dos associados"
+  },
+  "124376692": {
+   "fragment_id": "124376593",
+   "type": 11,
+   "heading": "Artigo 4.º — Qualidade de associado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Qualidade de associado\n\n1 - São associados singulares da Casa do Douro todos os viticultores legalmente reconhecidos pelo Estado através do Instituto dos Vinhos do Douro e Porto, I. P.\n\n2 - O reconhecimento referido no número anterior abrange todos os inscritos na qualidade de proprietários, usufrutuários, arrendatários, subarrendatários, parceiros, depositários, consignatários, comodatários ou usuários, que cultivem vinha na região, sem dependência de quaisquer outros requisitos.\n\n3 - Os associados singulares são distribuídos por cadernos organizados por freguesia.\n\n4 - São associados coletivos da Casa do Douro todas as adegas cooperativas e cooperativas vitivinícolas, bem como todas as associações agrícolas existentes na região cuja representatividade no setor vitícola esteja assegurada nos termos do artigo 14.º\n\n5 - São associados de mérito as pessoas singulares que contribuam para o desenvolvimento dos objetivos que a Casa do Douro prossegue e que sejam reconhecidos pelo conselho regional sob proposta da direção.\n\n6 - São associados honorários as pessoas coletivas julgadas merecedoras desta distinção e que sejam reconhecidos pelo conselho geral sob proposta da direção."
+  },
+  "124376693": {
+   "fragment_id": "124376594",
+   "type": 11,
+   "heading": "Artigo 5.º — Do registo automático",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Do registo automático\n\n1 - O registo existente no Instituto dos Vinhos do Douro e Porto, I. P., é assumido, para o cumprimento do artigo anterior, pelos órgãos próprios da Casa do Douro e nos termos de portaria a aprovar pelo membro do Governo com a tutela da agricultura, ouvida a Comissão Nacional de Proteção de Dados.\n\n2 - A Casa do Douro está impedida de usar o registo previsto no número anterior para qualquer outra função ou atividade que não a prevista nos presentes Estatutos."
+  },
+  "124376694": {
+   "fragment_id": "124376595",
+   "type": 11,
+   "heading": "Artigo 6.º — Registo dos associados coletivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Registo dos associados coletivos\n\n1 - A Casa do Douro promove o registo dos associados coletivos referidos no n.º 4 do artigo 4.º\n\n2 - Os associados coletivos que forem simultaneamente produtores, nos termos do n.º 1 do artigo 11.º do Estatuto das denominações de origem e indicação geográfica da Região Demarcada do Douro, aprovado pelo Decreto-Lei n.º 173/2009, de 3 agosto, são obrigatoriamente expurgados do registo de associados individuais.\n\n3 - Todos os registos devem ser efetuados através de sistema informático para o qual deve ser aprovado, pelo conselho geral, um regulamento.\n\n4 - O registo informático previsto no número anterior está sujeito à aprovação da Comissão Nacional de Proteção de Dados e ao parecer do Instituto dos Vinhos do Douro e Porto, I. P."
+  },
+  "124376695": {
+   "fragment_id": "124376596",
+   "type": 11,
+   "heading": "Artigo 7.º — Direitos dos associados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direitos dos associados\n\n1 - São direitos dos associados singulares, nomeadamente:\n\na) Eleger e ser eleito para os órgãos da Casa do Douro, nos termos do regulamento eleitoral;\n\nb) Apresentar aos órgãos da Casa do Douro exposições, petições, reclamações ou queixas sobre assuntos que interessem à vinicultura e viticultura durienses;\n\nc) Beneficiar, nos termos dos respetivos regulamentos, dos serviços prestados pela Casa do Douro;\n\nd) Ser informado do funcionamento da Casa do Douro e desde que o pedido seja considerado fundamentado;\n\ne) Usufruir das vantagens inerentes ao regular cumprimento pela Casa do Douro das respetivas atribuições.\n\n2 - São direitos dos associados coletivos os constantes nas alíneas b), c), d) e e) do número anterior.\n\n3 - Aos associados de mérito e honorários é concedido diploma e medalha atribuídos por regulamento a aprovar pelo conselho geral."
+  },
+  "124376696": {
+   "fragment_id": "124376597",
+   "type": 11,
+   "heading": "Artigo 8.º — Deveres dos associados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Deveres dos associados\n\n1 - Constituem, em especial, deveres dos associados singulares:\n\na) Exercer os cargos para que forem eleitos ou designados;\n\nb) Acatar e cumprir as deliberações dos órgãos da Casa do Douro;\n\nc) Prestar aos serviços da Casa do Douro as informações relativas à atividade vinícola e vitícola que estes legitimamente lhes solicitarem;\n\nd) Cumprir as obrigações impostas legalmente sobre a produção e comércio dos produtos vitivinícolas da região.\n\n2 - São deveres dos associados coletivos os previstos nas alíneas b), c) e d) do número anterior.\n\n3 - O conselho geral aprova em regulamento interno o regime de exclusão e de sanções a aplicar pelo incumprimento do previsto no presente artigo."
+  },
+  "124376697": {
+   "fragment_id": "124376598",
+   "type": 11,
+   "heading": "Artigo 9.º — Quotas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Quotas\n\n1 - Compete ao conselho geral a determinação da existência de quotas a pagar pelos associados, bem como o seu valor.\n\n2 - A liquidação de qualquer quota é automática e advém diretamente dos licenciamentos e das taxas pagas pelos viticultores ao Instituto dos Vinhos do Douro e Porto, I. P., nos termos a definir por portaria do membro do Governo com a tutela da agricultura.\n\n3 - O Instituto dos Vinhos do Douro e do Porto, I. P., deve promover as transferências decorrentes do número anterior nos termos de protocolo a subscrever com a direção da Casa do Douro e homologado pelo membro do Governo com a tutela da agricultura."
+  },
+  "124376698": {
+   "fragment_id": "124376599",
+   "type": 1,
+   "heading": "Capítulo III — Dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Dos órgãos\n\nArtigo 10.º\n\nÓrgãos\n\n1 - São órgãos da Casa do Douro:\n\na) O conselho geral;\n\nb) A direção;\n\nc) O conselho de direção;\n\nd) O fiscal único.\n\n2 - O mandato dos órgãos da Casa do Douro é de três anos.\n\nArtigo 11.º\n\nIncompatibilidades\n\n1 - O exercício de funções nos órgãos da Casa do Douro é incompatível com a existência de relação de emprego, prestação de serviços ou de fornecimentos com esta entidade.\n\n2 - A qualidade de membro da direção é incompatível com a de membro do conselho geral.\n\nArtigo 12.º\n\nConflito de interesses\n\nOs membros dos órgãos da Casa do Douro que comprovadamente sejam comerciantes, gerentes, comissários ou corretores em empresas que se dediquem ao comércio de aguardentes, vinhos e seus derivados devem registar, no início do mandato, essa circunstância junto da mesa do conselho geral.\n\nArtigo 13.º\n\nLimitação de mandatos\n\n1 - Os mandatos da direção, do conselho de direção e do fiscal único só podem ser renovados por duas vezes.\n\n2 - Nenhum dirigente, que integre os órgãos referidos no número anterior, pode voltar a candidatar-se, ao mesmo órgão, nos seis anos seguintes ao termo do seu último mandato."
+  },
+  "124376699": {
+   "fragment_id": "124376600",
+   "type": 8,
+   "heading": "Secção I — Do conselho geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Do conselho geral"
+  },
+  "124376700": {
+   "fragment_id": "124376601",
+   "type": 11,
+   "heading": "Artigo 14.º — Composição e duração do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Composição e duração do mandato\n\n1 - O conselho geral é composto por:\n\na) 51 membros eleitos por sufrágio direto dos associados singulares e que se designam por delegados municipais;\n\nb) Um membro em representação de cada uma das adegas cooperativas e cooperativas agrícolas do setor vitícola ou com secção vitícola existentes na região e que se designam por delegados cooperativos;\n\nc) Um membro em representação de cada uma das associações agrícolas regularmente constituídas e que se designam delegados associativos.\n\n2 - Caso o número total de membros seja par, deve a eleição prevista na alínea a) do n.º 1 do presente artigo ser acrescida de um mandato.\n\n3 - As associações agrícolas referidas na alínea c) do n.º 1 do presente artigo devem fazer prova da sua representação do setor vitícola que nunca deve ser inferior a 1.000 associados singulares da Casa do Douro.\n\n4 - Só têm legitimidade para designar representantes no conselho geral as associações que tenham sido constituídas pelo menos dois anos antes da data da convocação das eleições para o referido conselho."
+  },
+  "124376701": {
+   "fragment_id": "124376602",
+   "type": 11,
+   "heading": "Artigo 15.º — Sistema eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Sistema eleitoral\n\n1 - Os membros do conselho geral referidos na alínea a) do n.º 1 do artigo anterior, são eleitos por círculos, segundo o sistema da representação proporcional e o método da média mais alta de Hondt.\n\n2 - Os círculos eleitorais a que se refere o número anterior são os seguintes: Alijó, Armamar, Carrazeda de Ansiães, Freixo de Espada à Cinta, Lamego (que para este efeito inclui a freguesia de Barrô, do concelho de Resende), Meda, Mesão Frio, Moncorvo, Murça, Peso da Régua, São João da Pesqueira, Sabrosa, Santa Marta de Penaguião, Tabuaço, Vila Flor (que inclui para este efeito as freguesias dos concelhos de Alfândega da Fé e Mirandela), Vila Nova de Foz Côa (que inclui para este efeito a freguesia de Escalhão, do concelho de Figueira de Castelo Rodrigo) e Vila Real.\n\n3 - O número de membros a eleger por cada círculo eleitoral é fixado pelo regulamento eleitoral, aprovado pelo membro do Governo com a tutela da agricultura, tendo em conta o número de inscritos por cada círculo.\n\n4 - Cada inscrito só pode estar inserido no caderno eleitoral do círculo da área de produção e só naquele onde se verificar a maior quota da sua produção."
+  },
+  "124376702": {
+   "fragment_id": "124376603",
+   "type": 11,
+   "heading": "Artigo 16.º — Renúncia, perda e suspensão do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Renúncia, perda e suspensão do mandato\n\n1 - Os membros do conselho geral eleitos pelos associados singulares podem renunciar ao mandato mediante declaração escrita dirigida à respetiva mesa.\n\n2 - Perdem o mandato os membros eleitos nos termos do número anterior que:\n\na) Após a eleição sejam colocados em situação que os torne inelegíveis, de acordo com os presentes Estatutos ou do regulamento eleitoral;\n\nb) Faltarem, sem justificação, às sessões pelo número de vezes definido no respetivo regimento.\n\n3 - Em caso de vacatura ou de suspensão do mandato, o membro eleito pelos associados singulares é substituído pelo primeiro candidato não eleito, na respetiva ordem de precedência, da mesma lista, procedendo-se a novas eleições no círculo eleitoral a que corresponde a vaga, se tal possibilidade se encontrar esgotada.\n\n4 - Os membros a que se refere o número anterior apenas completam o período do mandato dos membros por eles substituídos.\n\n5 - A representação dos associados coletivos é feita pelo presidente do órgão de direção de cada entidade, podendo fazer-se substituir."
+  },
+  "124376703": {
+   "fragment_id": "124376604",
+   "type": 11,
+   "heading": "Artigo 17.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competência\n\nCompete ao conselho geral:\n\na) Elaborar e aprovar o seu regimento;\n\nb) Eleger por voto secreto, e na sequência dos critérios propostos pela direção e aprovados por maioria absoluta dos membros do conselho geral em funções, os representantes da produção em todas as instituições públicas ou privadas que o exijam, nomeadamente, nos órgãos do Instituto dos Vinhos do Douro e Porto, I. P.;\n\nc) Debater, alterar e aprovar o plano plurianual de atividade, o plano anual de atividades e o orçamento, bem como as alterações propostas pela direção;\n\nd) Aprovar anualmente o relatório, balanço e as contas apresentados pela direção;\n\ne) Deliberar sobre os empréstimos a contrair;\n\nf) Autorizar a alienação de bens imóveis;\n\ng) Aprovar, mediante proposta da direção, o mapa de pessoal e o regulamento interno da Casa do Douro;\n\nh) Solicitar à direção, através da mesa, informações sobre assuntos de interesse para a Casa do Douro;\n\ni) Pronunciar-se sobre os assuntos que lhe sejam submetidos pela direção;\n\nj) Deliberar sobre o valor dos vencimentos e das senhas de presença e o limite das despesas complementares relativos ao exercício das funções dos membros do conselho geral, do conselho de direção e da direção;\n\nk) Aprovar as quotas dos associados singulares e as contribuições dos associados coletivos quando tal se mostre essencial à sustentabilidade financeira da Casa do Douro;\n\nl) Deliberar sobre propostas de alteração dos presentes estatutos, a submeter à Assembleia da República, mediante proposta da direção;\n\nm) Exercer poderes que lhe possam ser conferidos pela lei."
+  },
+  "124376704": {
+   "fragment_id": "124376605",
+   "type": 11,
+   "heading": "Artigo 18.º — Organização e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Organização e funcionamento\n\n1 - O conselho geral é dirigido por uma mesa constituída por um presidente, um vice-presidente e um secretário, eleita, por maioria absoluta dos presentes, na primeira reunião subsequente à instalação do órgão.\n\n2 - Compete ao presidente convocar as reuniões do conselho geral com a antecedência de, pelo menos, 10 dias, com indicação dos temas a tratar, dirigir os trabalhos e apurar as deliberações tomadas.\n\n3 - O conselho geral funciona em plenário.\n\n4 - As deliberações do conselho geral são tomadas por maioria dos seus membros presentes, salvo as referentes às matérias constantes das alíneas b) e g) do artigo 17.º, que devem ser tomadas por maioria absoluta dos membros em exercício, e as constantes das alíneas e) e f) do mesmo artigo, que devem ser tomadas por maioria qualificada dos membros em exercício.\n\n5 - O conselho geral pode constituir, nos termos do respetivo regimento, comissões especializadas para acompanhar e coadjuvar a atividade dos demais órgãos da Casa do Douro."
+  },
+  "124376705": {
+   "fragment_id": "124376606",
+   "type": 8,
+   "heading": "Secção II — Da direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Da direção"
+  },
+  "124376706": {
+   "fragment_id": "124376607",
+   "type": 11,
+   "heading": "Artigo 19.º — Composição e mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Composição e mandato\n\n1 - A direção da Casa do Douro é composta por um presidente e dois vogais, diretamente eleitos pelos associados singulares.\n\n2 - Um dos vogais pode, por delegação do presidente, exercer as funções de vice-presidente e seu substituto legal.\n\n3 - Considera-se eleita a direção que obtenha a maioria absoluta dos votos expressos."
+  },
+  "124376707": {
+   "fragment_id": "124376608",
+   "type": 11,
+   "heading": "Artigo 20.º — Sistema eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Sistema eleitoral\n\n1 - A direção da Casa do Douro é eleita em lista completa pelo universo dos associados singulares e pelo sistema de maioria de votos a duas voltas.\n\n2 - As listas apresentadas a sufrágio devem especificar os cargos a que concorre cada um dos elementos que as integram.\n\n3 - As listas devem apresentar, no mínimo, dois candidatos suplentes para preenchimento de qualquer cargo em caso de vacatura.\n\n4 - Os membros da direção tomam posse perante o conselho geral."
+  },
+  "124376708": {
+   "fragment_id": "124376609",
+   "type": 11,
+   "heading": "Artigo 21.º — Renúncia ou impedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Renúncia ou impedimento\n\n1 - Os membros da direção podem renunciar ao mandato mediante declaração escrita dirigida ao presidente da direção.\n\n2 - Os membros da direção que renunciarem aos seus cargos são substituídos pelo membro suplente melhor posicionado.\n\n3 - Em caso de renúncia do presidente da direção o lugar deixado vago passa a ser exercido pelo vogal melhor posicionado na lista.\n\n4 - Os titulares eleitos nos termos do n.º 2 completam o mandato dos titulares da direção anterior."
+  },
+  "124376709": {
+   "fragment_id": "124376610",
+   "type": 11,
+   "heading": "Artigo 22.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Competências\n\nCompete à direção da Casa do Douro:\n\na) Executar as deliberações do conselho geral, assistir às reuniões deste e prestar os esclarecimentos que o mesmo lhe solicitar;\n\nb) Elaborar o plano plurianual de atividades, o plano de atividades e o orçamento de cada ano e propô-lo à aprovação do conselho geral até 15 de novembro do ano anterior a que reporta, bem como proceder à respetiva execução;\n\nc) Elaborar o relatório de atividades, balanço e contas da Casa do Douro do ano findo e propô-lo à aprovação do conselho geral até 31 de março;\n\nd) Elaborar o regulamento interno e o mapa de pessoal da Casa do Douro e submetê-los à aprovação do conselho geral;\n\ne) Representar a Casa do Douro em juízo e fora dele, ativa e passivamente, podendo confessar, desistir ou transigir em quaisquer pleitos e, bem assim, celebrar convenções de arbitragem;\n\nf) Organizar os serviços, gerir o pessoal e administrar o património da Casa do Douro;\n\ng) Efetuar contratos de seguro;\n\nh) Autorizar o pagamento das despesas orçamentadas e contrair empréstimos de curto prazo dentro dos limites fixados pelo conselho geral;\n\ni) Exercer os poderes não incluídos na competência de qualquer outro órgão da Casa do Douro, decorrentes das leis e necessários à concretização das atribuições a que se refere o artigo 3.º;\n\nj) Nomear o diretor executivo."
+  },
+  "124376710": {
+   "fragment_id": "124376611",
+   "type": 11,
+   "heading": "Artigo 23.º — Organização e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Organização e funcionamento\n\n1 - A direção funciona colegialmente, deliberando por maioria de votos.\n\n2 - A direção, por deliberação registada em ata, pode organizar as suas competências por pelouros e proceder à respetiva distribuição."
+  },
+  "124376711": {
+   "fragment_id": "124376612",
+   "type": 11,
+   "heading": "Artigo 24.º — Competência própria do presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Competência própria do presidente\n\nÉ competência própria do presidente da direção:\n\na) Dirigir as reuniões e assegurar o respetivo expediente;\n\nb) Assinar os regulamentos e diretivas da Casa do Douro;\n\nc) Chefiar as representações da Casa do Douro;\n\nd) Delegar qualquer dos poderes referidos nas alíneas anteriores nos vogais da direção ou no diretor executivo."
+  },
+  "124376712": {
+   "fragment_id": "124376613",
+   "type": 11,
+   "heading": "Artigo 25.º — Vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Vinculação\n\n1 - A Casa do Douro obriga-se:\n\na) Pela assinatura de dois membros da direção, sendo ainda obrigatória a assinatura solidária do tesoureiro da Casa do Douro em matéria financeira;\n\nb) Pela assinatura de um membro da direção quando haja delegação expressa para a prática de determinado ato;\n\nc) Pela assinatura do mandatário constituído, no âmbito do correspondente mandato.\n\n2 - Em assuntos de mero expediente basta a assinatura de um membro da direção."
+  },
+  "124376713": {
+   "fragment_id": "124376614",
+   "type": 11,
+   "heading": "Artigo 26.º — Diretor executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Diretor executivo\n\n1 - A direção pode nomear um diretor executivo responsável pela atividade diária da Casa do Douro.\n\n2 - O diretor executivo não integra qualquer dos órgãos previstos no presente diploma.\n\n3 - O estatuto e remuneração do diretor executivo são aprovados pelo conselho geral mediante proposta da direção.\n\n4 - O mandato do diretor executivo cessa no momento em que cessar o mandato da direção que o nomeou."
+  },
+  "124376714": {
+   "fragment_id": "124376615",
+   "type": 11,
+   "heading": "Artigo 27.º — Demissão da direção e realização de eleições antecipadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Demissão da direção e realização de eleições antecipadas\n\n1 - Se o conselho geral recusar o orçamento e plano de atividades para o ano seguinte ou se não aprovar o relatório de atividades, balanço e contas do ano anterior apresentados pela direção, o presidente convoca imediatamente o conselho para uma segunda reunião a realizar entre o quinto e o oitavo dias seguintes, podendo haver ainda uma terceira reunião entre os décimo quinto e o vigésimo dias seguintes, nas quais é unicamente apreciada e votada de novo a proposta em causa, com as eventuais alterações que, entretanto, a direção lhe introduzir.\n\n2 - Nas segunda e terceira reuniões previstas no número anterior do presente artigo a rejeição só se verifica pelo voto negativo da maioria dos membros do conselho geral em exercício.\n\n3 - A não aprovação do orçamento e do plano de atividades, bem como do relatório, balanço e contas, nas reuniões a que se referem os n.os 1 e 2 do presente artigo, determina a demissão da direção.\n\n4 - A direção é ainda demitida pela aprovação de uma moção de censura, proposta por um mínimo de 25 % dos membros do conselho geral, a qual só pode ser votada em sessão expressamente convocada para o efeito e por maioria absoluta dos membros em exercício.\n\n5 - Nos 10 dias seguintes à demissão da direção, a mesa do conselho geral propõe ao membro do Governo com a tutela da agricultura a marcação de eleições para a direção da Casa do Douro.\n\n6 - A realização de novas eleições para o conselho geral obriga à eleição de nova direção."
+  },
+  "124376715": {
+   "fragment_id": "124376616",
+   "type": 8,
+   "heading": "Secção III — Do conselho de direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Do conselho de direção"
+  },
+  "124376716": {
+   "fragment_id": "124376617",
+   "type": 11,
+   "heading": "Artigo 28.º — Composição e mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Composição e mandato\n\n1 - O conselho de direção é o órgão de articulação da Casa do Douro com o Instituto dos Vinhos do Douro e do Porto, I. P.\n\n2 - Integram este órgão a direção da Casa do Douro, o presidente do conselho geral ou seu substituto e os representantes dos produtores nos organismos interprofissionais que determinam os mercados Porto e Douro eleitos nos termos da alínea b) do artigo 17.º"
+  },
+  "124376717": {
+   "fragment_id": "124376618",
+   "type": 11,
+   "heading": "Artigo 29.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Competências\n\nCompete ao conselho de direção:\n\na) Articular as posições da produção nos organismos interprofissionais;\n\nb) Dar parecer sobre as políticas de promoção e marketing realizadas por entidades públicas ou associativas onde a Casa do Douro se integre;\n\nc) Pronunciar-se sobre as consultas públicas realizadas pelo Instituto do Vinho e da Vinha, I. P., e pelo Instituto dos Vinhos do Douro e Porto, I. P., nos termos das suas competências;\n\nd) Discutir as normas a integrar no comunicado de vindima sobre os quantitativos de autorização de produção de mosto generoso e os seus critérios de distribuição, os ajustamentos anuais ao rendimento por hectare determinando a quantidade de mosto a produzir, as normas e prazos para efeito de obtenção de capacidade de vendas e o quantitativo bem como o regime de utilização das aguardentes na autorização de produção de mostos aptos à atribuição da denominação de origem Porto."
+  },
+  "124376718": {
+   "fragment_id": "124376619",
+   "type": 8,
+   "heading": "Secção IV — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Fiscal único"
+  },
+  "124376719": {
+   "fragment_id": "124376620",
+   "type": 11,
+   "heading": "Artigo 30.º — Nomeação e remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Nomeação e remuneração\n\n1 - O fiscal único é designado por despacho conjunto dos membros do Governo com a tutela das finanças e da agricultura.\n\n2 - A remuneração e outros abonos do fiscal único são fixados no despacho referido no número anterior."
+  },
+  "124376720": {
+   "fragment_id": "124376621",
+   "type": 11,
+   "heading": "Artigo 31.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Competência\n\nCompete ao fiscal único:\n\na) Examinar periodicamente a situação financeira e económica da Casa do Douro e proceder à verificação dos valores patrimoniais;\n\nb) Verificar a execução das deliberações da direção;\n\nc) Emitir parecer sobre o orçamento, relatório e contas da Casa do Douro;\n\nd) Emitir parecer sobre a aquisição, oneração ou alienação dos bens da Casa do Douro;\n\ne) Emitir parecer sobre a contratação de empréstimos;\n\nf) Emitir parecer sobre qualquer outro assunto que lhe seja submetido pelos outros órgãos da Casa do Douro;\n\ng) Participar às entidades competentes as irregularidades que detete."
+  },
+  "124376721": {
+   "fragment_id": "124376622",
+   "type": 1,
+   "heading": "Capítulo IV — Das finanças, património e do regime fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Das finanças, património e do regime fiscal"
+  },
+  "124376722": {
+   "fragment_id": "124376623",
+   "type": 11,
+   "heading": "Artigo 32.º — Receitas e despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Receitas e despesas\n\n1 - As receitas da Casa do Douro compreendem:\n\na) O valor das quotas que for determinado nos termos do artigo 9.º;\n\nb) O valor das contribuições dos associados coletivos;\n\nc) O produto da gestão do respetivo património;\n\nd) Os rendimentos de aplicações financeiras ou participações sociais;\n\ne) O resultado da sua atividade comercial e da prestação de serviços;\n\nf) Os subsídios atribuídos por entidades públicas e privadas;\n\ng) Os legados, donativos e patrocínios;\n\nh) Contribuições atribuídas pelo Governo no âmbito de contratos de desenvolvimento;\n\ni) As rendas ou benefícios que os bens próprios possam produzir;\n\nj) Outros benefícios que possam ser recebidos nos termos da lei.\n\n2 - Constituem despesas da Casa do Douro todos os custos financeiros inerentes à realização das respetivas atribuições, incluindo as remunerações do pessoal, bem como outros decorrentes da gestão e conservação do seu património.\n\n3 - A gestão da Casa do Douro deve ser orientada constantemente pelo princípio da sua autossuficiência financeira.\n\n4 - Os orçamentos, os documentos de prestação de contas, os quadros de pessoal e as remunerações dos órgãos e do pessoal, bem como o inventário dos bens e obrigações da Casa do Douro são públicos e devem ser disponibilizados no seu sítio eletrónico."
+  },
+  "124376723": {
+   "fragment_id": "124376624",
+   "type": 11,
+   "heading": "Artigo 33.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Património\n\n1 - O património da Casa do Douro é o que resulta de inventário completo dos seus bens patrimoniais, bem como os direitos e obrigações por ela adquiridos.\n\n2 - Integra também o património o remanescente do processo de liquidação promovido nos termos da Lei n.º 19/2016, de 24 de junho, alterada pelo Decreto-Lei n.º 18/2019, de 25 de janeiro, se vier a existir, nos termos previstos por despacho conjunto dos membros do Governo com a tutela das finanças e da agricultura.\n\n3 - A Casa do Douro deve zelar pela constante atualização do património.\n\n4 - O edifício sede da Casa do Douro, em Peso da Régua, registado em nome da Casa do Douro, não pode ser objeto de negócios jurídicos transmissivos ou constitutivos de direitos reais, nem objeto de arresto, penhora ou hipotecas judiciais, sem prejuízo da penhora e alienação em execução fiscal para cobrança de dívida de Imposto Municipal sobre Imóveis (IMI).\n\n5 - O registo da sede da Casa do Douro, em resultado da aprovação dos presentes estatutos, está isento de imposto de selo, taxas ou emolumentos.\n\n6 - O passivo da Casa do Douro não pode exceder a média dos seus proveitos não extraordinários verificados nos três anos anteriores.\n\n7 - O não cumprimento do previsto no número anterior implica a demissão da direção da Casa do Douro e a responsabilidade pessoal e solidária dos seus membros."
+  },
+  "124376724": {
+   "fragment_id": "124376625",
+   "type": 1,
+   "heading": "Capítulo V — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Do pessoal"
+  },
+  "124376725": {
+   "fragment_id": "124376626",
+   "type": 11,
+   "heading": "Artigo 34.º — Despesa e regime de cedência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Despesa e regime de cedência\n\n1 - As despesas com pessoal, em cada exercício anual, não podem exceder 50 % do montante das receitas da Casa do Douro.\n\n2 - A Casa do Douro e os organismos interprofissionais existentes ou que venham a existir, podem fazer transitar temporariamente, com o acordo prévio dos mesmos, trabalhadores que integram os quadros das mesmas instituições."
+  },
+  "124376726": {
+   "fragment_id": "124376627",
+   "type": 1,
+   "heading": "Capítulo VI — Extinção e liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Extinção e liquidação"
+  },
+  "124376727": {
+   "fragment_id": "124376628",
+   "type": 11,
+   "heading": "Artigo 35.º — Procedimentos de extinção e liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Procedimentos de extinção e liquidação\n\n1 - A Casa do Douro só pode ser dissolvida por lei da Assembleia da República ou por motivos graves e insuperáveis determinados pelos tribunais e que tornem impossível a realização dos seus fins.\n\n2 - Os poderes de liquidação são assumidos nos termos de portaria a publicar pelo membro do Governo com a tutela da agricultura."
+  },
+  "124376728": {
+   "fragment_id": "124376629",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais"
+  },
+  "124376729": {
+   "fragment_id": "124376630",
+   "type": 11,
+   "heading": "Artigo 36.º — Processo de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Processo de transição\n\n1 - Até à realização de eleições e início de funções dos novos órgãos, que resultam da presente lei, a gestão corrente da entidade mantém-se a cargo da Federação Renovação do Douro.\n\n2 - A gestão corrente referida no número anterior impede a assunção de qualquer ónus ou responsabilidade que implique o património e a sustentabilidade da Casa do Douro.\n\n3 - Os procedimentos que decorrem da Lei n.º 19/2016, de 24 de junho, continuam vedados à intervenção da Casa do Douro.\n\n112493281"
+  }
+ }
+}

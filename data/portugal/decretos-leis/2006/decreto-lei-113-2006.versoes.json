@@ -1,0 +1,329 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:346743:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-157237016",
+ "dre_path": "/dr/detalhe/decreto-lei/113-2006-346743",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-06-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "157238714",
+    "157238715",
+    "157238716",
+    "157238717",
+    "157238718",
+    "157238719",
+    "157238720",
+    "157238721",
+    "157238722",
+    "157238723",
+    "157238724",
+    "157238725",
+    "157238726",
+    "157238727",
+    "157238728",
+    "157238729",
+    "157238730"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:538471:por",
+     "title": "Declaração de Rectificação n.º 49/2006",
+     "published": "2006-08-11",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/49-2006-538471",
+     "date": "2006-06-13"
+    }
+   ]
+  },
+  {
+   "date": "2008-11-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:439843:por",
+     "title": "Decreto-Lei n.º 223/2008",
+     "published": "2008-11-18",
+     "dre_path": "/dr/detalhe/decreto-lei/223-2008-439843"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 11.º-A",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "157238714",
+    "157238715",
+    "157238716",
+    "157238717",
+    "157238718",
+    "158208953",
+    "157238720",
+    "157238721",
+    "157238722",
+    "157238723",
+    "157238724",
+    "157238725",
+    "158208945",
+    "157238727",
+    "157238728",
+    "158208954",
+    "158208955",
+    "158208956",
+    "157238731"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "157238714",
+    "157238715",
+    "157238716",
+    "157238717",
+    "157238718",
+    "158208953",
+    "157238720",
+    "157238721",
+    "187351580",
+    "157238723",
+    "157238724",
+    "187351581",
+    "158208945",
+    "157238727",
+    "157238728",
+    "158208954",
+    "158208955",
+    "158208956",
+    "157238731"
+   ]
+  }
+ ],
+ "fragments": {
+  "157238714": {
+   "fragment_id": "157237017",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 113/2006\n\nde 12 de Junho\n\nO Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0852\" title=\"Link para Regulamento da Comunidade Europeia\">852/2004</a>, do Parlamento Europeu e do Conselho, de 29 de Abril, estabelece as regras relativas à higiene dos géneros alimentícios, revogando, a partir de 1 de Janeiro de 2006, a Directiva n.º <a href=\"eurlex.asp?ano=1993&id=393L0043\" title=\"Link para Directiva da Comunidade Europeia\">93/43/CE</a>, transposta para a ordem jurídica nacional pelo Decreto-Lei n.º 67/98, de 18 de Março.\n\nPara além das regras gerais de higiene aplicáveis aos géneros alimentícios, encontram-se igualmente fixadas, no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>, do Parlamento Europeu e do Conselho, de 29 de Abril, as regras específicas de higiene aplicáveis aos géneros alimentícios de origem animal.\n\nNão obstante a obrigatoriedade da aplicabilidade directa dos Regulamentos (CE) n.os <a href=\"eurlex.asp?ano=2004&id=304R0852\" title=\"Link para Regulamento da Comunidade Europeia\">852/2004</a> e <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a> em todos os Estados membros, torna-se necessário tipificar as infracções e respectivas sanções, que devem ser efectivas, proporcionadas e dissuasivas, em caso de violação das normas dos referidos regulamentos comunitários.\n\nTendo em vista esse objectivo, há que definir quais as entidades responsáveis pelo controlo da aplicação das normas dos regulamentos supracitados, bem como as constantes do presente decreto-lei, atribuindo-se ainda poderes de fiscalização à Autoridade de Segurança Alimentar e Económica (ASAE) e à Direcção-Geral de Veterinária (DGV).\n\nIgualmente se define o processo de aprovação dos códigos nacionais de boas práticas.\n\nEntendeu-se ainda ser este decreto-lei a sede adequada para fixar o procedimento de recurso em caso de não aprovação ou rejeição de produtos frescos de origem animal aquando da sua inspecção sanitária nos centros de abate e nas salas de desmancha, uma vez que aquele, antes regulado pelo Decreto-Lei n.º 167/96, de 7 de Setembro, foi revogado pelo Decreto-Lei n.º 111/2006, de 9 de Junho, que transpõe a Directiva n.º <a href=\"eurlex.asp?ano=2004&id=304L0041\" title=\"Link para Directiva da Comunidade Europeia\">2004/41/CE</a>, do Parlamento Europeu e do Conselho, de 21 de Abril.\n\nPrevê-se, ainda, neste decreto-lei, a publicação de normas técnicas que complementem alguns aspectos do regime instituído pelos citados regulamentos.\n\nNestes termos, o presente decreto-lei estabelece o regime sancionatório aplicável às infracções às normas dos Regulamentos (CE) n.os <a href=\"eurlex.asp?ano=2004&id=304R0852\" title=\"Link para Regulamento da Comunidade Europeia\">852/2004</a> e <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>, ambos do Parlamento Europeu e do Conselho, de 29 de Abril, bem como as respectivas normas complementares, e define o processo aplicável à aprovação dos códigos nacionais de boas práticas e ainda o procedimento de recurso em caso de não aprovação ou rejeição de produtos frescos de origem animal aquando da sua inspecção sanitária.\n\nFoi ouvido, a título facultativo, o Instituto do Consumidor.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "157238715": {
+   "fragment_id": "157237018",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "157238716": {
+   "fragment_id": "157237019",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei visa assegurar a execução e garantir o cumprimento, no ordenamento jurídico nacional, das obrigações decorrentes dos Regulamentos (CE) n.os <a href=\"eurlex.asp?ano=2004&id=304R0852\" title=\"Link para Regulamento da Comunidade Europeia\">852/2004</a> e <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>, ambos do Parlamento Europeu e do Conselho, de 29 de Abril, relativos à higiene dos géneros alimentícios e às regras específicas de higiene aplicáveis aos géneros alimentícios de origem animal, respectivamente, a seguir designados por regulamentos."
+  },
+  "157238717": {
+   "fragment_id": "157237020",
+   "type": 11,
+   "heading": "Artigo 2.º — Autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Autoridades competentes\n\nSem prejuízo das competências especialmente atribuídas por lei a outras entidades, para efeitos do presente decreto-lei são autoridades competentes a Autoridade de Segurança Alimentar e Económica (ASAE), a Direcção-Geral de Veterinária (DGV), a Direcção-Geral das Pescas e Aquicultura (DGPA), o Instituto da Vinha e do Vinho (IVV), a Direcção-Geral de Protecção das Culturas (DGPC), a Direcção-Geral da Saúde (DGS) e o Instituto Nacional de Investigação Agrária e das Pescas (INIAP), no âmbito das respectivas competências."
+  },
+  "157238718": {
+   "fragment_id": "157237021",
+   "type": 11,
+   "heading": "Artigo 3.º — Códigos nacionais de boas práticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Códigos nacionais de boas práticas\n\n1 - As autoridades competentes devem promover e apoiar a elaboração de códigos nacionais de boas práticas de higiene, adiante designados por códigos, destinados a utilização voluntária pelas empresas e associações do sector alimentar como orientação para a observância dos requisitos de higiene.\n\n2 - Os projectos de códigos são enviados à autoridade com competência em razão da matéria, para efeitos de avaliação.\n\n3 - Os organismos que procedam à avaliação dos códigos devem solicitar o parecer de outras entidades com intervenção na matéria em causa, designadamente a Direcção-Geral da Saúde e o Instituto do Consumidor.\n\n4 - As entidades a quem seja pedido o respectivo parecer, caso não o pretendam emitir, devem informar a autoridade solicitante desse facto, no prazo de 15 dias a contar da data da recepção do pedido.\n\n5 - Os pareceres referidos no número anterior devem ser proferidos no prazo de 60 dias a contar da data da recepção do pedido, excepto nos casos devidamente fundamentados pela entidade consultada, em que o prazo pode ser prorrogado até ao máximo de 30 dias.\n\n6 - A não recepção do parecer das entidades consultadas dentro do prazo fixado é considerada como parecer favorável.\n\n7 - A avaliação dos códigos deve estar concluída no prazo de 30 dias após a recepção dos pareceres ou decorrido o prazo previsto nos n.os 4 ou 5.\n\n8 - Os prazos referidos no presente artigo suspendem-se sempre que sejam solicitados esclarecimentos ou informações complementares.\n\n9 - Os códigos nacionais de boas práticas aprovados são divulgados através do portal do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo de outras formas de divulgação."
+  },
+  "157238719": {
+   "fragment_id": "157237022",
+   "type": 11,
+   "heading": "Artigo 4.º — Recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Recurso\n\n1 - A rejeição ou a não aprovação para consumo humano de produtos frescos de origem animal, aquando da sua inspecção sanitária nos centros de abate e nas salas de desmancha, é susceptível de recurso por parte dos proprietários ou dos seus legítimos representantes.\n\n2 - A intenção de interpor recurso deve ser comunicada imediatamente após a rejeição ou a não aprovação dos géneros alimentícios a quem procedeu à inspecção ou verificação, que notifica o proprietário ou o seu legítimo representante, logo após o acto, indicando-lhe os respectivos fundamentos.\n\n3 - O recurso deve ser apresentado mediante requerimento em duplicado, dirigido à autoridade competente e entregue a quem procedeu à inspecção ou verificação, no prazo de quatro horas após a não aprovação.\n\n4 - Do requerimento deve constar:\n\na) O nome e a morada do recorrente;\n\nb) O objecto do recurso;\n\nc) A indicação do seu representante na junta de recurso.\n\n5 - Recebido o requerimento de recurso, o técnico que procede à inspecção ou verificação apõe a data do recebimento e a sua assinatura, sendo o duplicado devolvido ao recorrente.\n\n6 - O recurso é apreciado por uma junta constituída por três peritos, sendo dois indicados de entre técnicos da autoridade competente, um dos quais presidirá, e o terceiro pelo recorrente.\n\n7 - Se o recorrente não indicar um perito seu representante, deve a autoridade competente designar outro perito para desempenhar essa função.\n\n8 - A junta de recurso reúne no prazo máximo de vinte e quatro horas após a recepção do requerimento, podendo este prazo ser dilatado para o 1.º dia útil seguinte ao da não aprovação, se houver condições de conservação dos géneros alimentícios em causa.\n\n9 - Compete a quem procedeu à inspecção ou verificação providenciar para a boa conservação dos géneros alimentícios que deram origem ao recurso até à reunião da junta, assistindo à mesma para eventuais esclarecimentos, mas sem direito a voto.\n\n10 - Da reunião da junta de recurso é lavrada uma acta de que conste a decisão final, da qual não há recurso.\n\n11 - Se for confirmada a rejeição ou a não aprovação, a junta de recurso decide o destino a dar aos géneros alimentícios em causa, não cabendo recurso desta decisão.\n\n12 - A interposição do recurso obriga ao pagamento dos montantes previstos na tabela de emolumentos aprovada anualmente por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.\n\n13 - As quantias a que se refere o número anterior constituem receita do Estado."
+  },
+  "157238720": {
+   "fragment_id": "157237023",
+   "type": 1,
+   "heading": "Capítulo II — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Regime sancionatório"
+  },
+  "157238721": {
+   "fragment_id": "157237024",
+   "type": 11,
+   "heading": "Artigo 5.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fiscalização\n\nSem prejuízo da competência atribuída por lei a outras entidades, a fiscalização do cumprimento das normas do presente decreto-lei e das dos Regulamentos referidos no artigo 1.º compete à ASAE, à DGV, às direcções regionais de agricultura e à Inspecção-Geral do Ambiente e do Ordenamento do Território, no âmbito das respectivas competências."
+  },
+  "157238722": {
+   "fragment_id": "157237025",
+   "type": 11,
+   "heading": "Artigo 6.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima no montante mínimo de (euro) 500 e máximo de (euro) 3740 ou (euro) 44890, consoante o agente seja pessoa singular ou colectiva, a violação das normas dos Regulamentos (CE) n.os <a href=\"eurlex.asp?ano=2004&id=304R0852\" title=\"Link para Regulamento da Comunidade Europeia\">852/2004</a> e <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a> e das disposições regulamentares publicadas ao abrigo do artigo 11.º do presente decreto-lei, designadamente:\n\na) O não cumprimento dos requisitos gerais e específicos de higiene a que se referem os artigos 3.º e 4.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0852\" title=\"Link para Regulamento da Comunidade Europeia\">852/2004</a>;\n\nb) A criação, aplicação ou manutenção de um processo ou processos baseados nos princípios do HACCP que não cumpra os requisitos do artigo 5.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0852\" title=\"Link para Regulamento da Comunidade Europeia\">852/2004</a>;\n\nc) O não fornecimento à autoridade competente das provas em como mantêm e aplicam um processo ou processos baseados nos princípios do HACCP, conforme previsto no artigo 5.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0852\" title=\"Link para Regulamento da Comunidade Europeia\">852/2004</a>;\n\nd) A não actualização dos documentos que descrevem o processo ou processos baseados nos princípios do HACCP, conforme previsto no artigo 5.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0852\" title=\"Link para Regulamento da Comunidade Europeia\">852/2004</a>;\n\ne) A não conservação dos documentos referidos na alínea anterior ou de outros documentos ou registos durante o prazo que for legalmente considerado adequado;\n\nf) O impedimento ou criação de obstáculos aos controlos oficiais, designadamente pela não permissão de acesso a edifícios, locais, instalações e demais infra-estruturas ou qualquer documentação e registos considerados necessários pela autoridade competente para a avaliação da situação;\n\ng) A colocação no mercado de produtos provenientes de importações e os produtos destinados à exportação que não cumpram o disposto nos artigos 10.º e 11.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0852\" title=\"Link para Regulamento da Comunidade Europeia\">852/2004</a>, respectivamente;\n\nh) A não aposição nos produtos de origem animal de uma marca de identificação nos termos do anexo II do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a> ou que não cumpra os requisitos ali estabelecidos;\n\ni) O desrespeito pelos operadores das empresas do sector alimentar responsáveis por matadouros das obrigações impostas pela secção III do anexo II do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a> relativamente a todos os animais, que não sejam de caça selvagem, enviados ou destinados ao matadouro;\n\nj) O transporte de animais vivos para os matadouros sem que sejam cumpridos os requisitos estabelecidos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nl) O funcionamento de estabelecimentos de abate, e respectivas salas de desmancha, que não cumpram os requisitos estabelecidos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>, designadamente em matéria de construção, concepção e equipamento do estabelecimento e normas de higiene a observar no abate, desmancha e desossa;\n\nm) O abate de emergência fora do matadouro em circunstâncias diferentes das permitidas no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a> ou sem observância das condições ali impostas para o mesmo;\n\nn) A armazenagem e o transporte de carne pelos operadores das empresas do sector alimentar sem observância das condições impostas pelo anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\no) O abate na exploração de aves de capoeira em circunstâncias diferentes das permitidas no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a> ou sem observância das condições ali impostas para o mesmo;\n\np) A caça de animais selvagens com vista à sua colocação no mercado para consumo humano por pessoas que não possuam a formação imposta pelo anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nq) A colocação no mercado de carne de caça de criação e de caça selvagem que não tenha sido submetida às operações impostas pelo anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nr) O funcionamento de estabelecimentos que produzam carne picada, preparados de carne, carne separada mecanicamente e produtos à base de carne que não cumpram os requisitos estabelecidos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\ns) A utilização em estabelecimentos que produzam carne picada, preparados de carne, carne separada mecanicamente e produtos à base de carne de matérias-primas que não cumpram os requisitos estabelecidos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nt) O não cumprimento dos requisitos de higiene estabelecidos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a> para a produção de carne picada, preparados de carne, carne separada mecanicamente e produtos à base de carne que não cumpram os requisitos estabelecidos;\n\nu) O desrespeito pelas regras de rotulagem estabelecidas no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nv) A colocação no mercado de moluscos bivalves vivos, equinodermes, tunicados e gastrópodes marinhos vivos sem que sejam cumpridas as condições estabelecidas para o efeito no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0852\" title=\"Link para Regulamento da Comunidade Europeia\">852/2004</a> e no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>, designadamente no que respeita às regras sanitárias a que os mesmos estão sujeitos de manuseamento, acondicionamento e embalagem, margens de tolerância fixadas relativamente às mesmas, marca de identificação e rotulagem, armazenagem, transporte e documentos de acompanhamento;\n\nx) O não cumprimento dos requisitos aplicáveis à produção de moluscos bivalves vivos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a> e no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0854\" title=\"Link para Regulamento da Comunidade Europeia\">854/2004</a>;\n\nz) O não cumprimento das regras para o manuseamento de moluscos bivalves vivos estabelecidas no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\naa) O não cumprimento das regras para a afinação de moluscos bivalves vivos estabelecidas no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nbb) O funcionamento de centros de depuração e de expedição que não cumpram os requisitos estabelecidos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>, designadamente em matéria de construção, concepção e equipamento dos centros e normas de higiene a observar nas operações que realizam;\n\ncc) O não cumprimento dos requisitos específicos estabelecidos para os pectinídeos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\ndd) A colocação no mercado de produtos da pesca que não os moluscos bivalves vivos, equinodermes, tunicados e gastrópodes marinhos vivos sem que sejam cumpridas as condições estabelecidas para o efeito no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0852\" title=\"Link para Regulamento da Comunidade Europeia\">852/2004</a> e no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nee) A utilização de navios na colheita de produtos da pesca do seu ambiente natural, ou no seu manuseamento ou transformação após a colheita, que não cumpram os requisitos estruturais e em matéria de equipamento estabelecidos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nff) O não cumprimento nos navios utilizados na colheita de produtos da pesca do seu ambiente natural, ou no seu manuseamento ou transformação após a colheita, dos requisitos de higiene estabelecidos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>, designadamente durante e após o desembarque;\n\ngg) O não cumprimento pelos estabelecimentos, incluindo navios, que manuseiem produtos da pesca, incluindo congelados, separados mecanicamente e transformados, das regras estabelecidas para o efeito no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nhh) O acondicionamento, embalagem, rotulagem, armazenagem ou transporte de produtos da pesca sem observância das condições impostas pelo anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nii) A colocação no mercado de produtos da pesca que contenham toxinas prejudiciais à saúde humana;\n\njj) O não cumprimento das regras estabelecidas no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a> para a produção, recolha e colocação no mercado de leite cru;\n\nll) O não cumprimento das regras estabelecidas no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a> para a produção e colocação no mercado de produtos lácteos;\n\nmm) O não cumprimento das regras estabelecidas no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a> para o fabrico, manuseamento, armazenagem, rotulagem e marcação de identificação de ovoprodutos;\n\nnn) A preparação de coxas de rã e caracóis para consumo humano sem cumprimento dos requisitos para o efeito estabelecidos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\noo) O não cumprimento pelos estabelecimentos que procedem à recolha ou à transformação das matérias-primas para produção de gorduras animais fundidas e torresmos dos requisitos estabelecidos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\npp) O não cumprimento pelos estabelecimentos que tratem estômagos, bexigas e intestinos dos requisitos estabelecidos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nqq) O não cumprimento pelos estabelecimentos que fabriquem gelatina dos requisitos estabelecidos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nrr) O não cumprimento pelos estabelecimentos que fabriquem colagénio dos requisitos estabelecidos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nss) A utilização de substância não autorizada para remover qualquer eventual contaminação da superfície dos produtos de origem animal em desrespeito pelo disposto no n.º 2 do artigo 3.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\ntt) A colocação no mercado de produtos de origem animal fabricados na Comunidade por estabelecimentos não registados ou não aprovados ou que não cumpram as disposições do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0852\" title=\"Link para Regulamento da Comunidade Europeia\">852/2004</a>, dos anexos II e III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a> ou em legislação específica relativa aos géneros alimentícios, em desrespeito pelo n.º 1 do artigo 4.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nuu) A não cooperação com as autoridades competentes, em desrespeito pelo n.º 4 do artigo 4.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nvv) A continuidade de laboração de estabelecimento ao qual seja retirada a autorização, ou, em caso de autorização condicional, não seja prorrogada ou concedida a autorização definitiva, em conformidade com o disposto no n.º 4 do artigo 4.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nxx) A colocação no mercado de produtos de origem animal sem marca de salubridade ou de identificação, a aplicação de marcas de salubridade ou identificação em produtos fabricados em estabelecimentos que não cumpram as regras aplicáveis do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a> ou a remoção das marcas de salubridade em desrespeito pelo disposto no artigo 5.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nzz) A importação de produtos de origem animal de países terceiros ou de estabelecimentos não constantes de lista de países terceiros ou estabelecimentos constantes em lista comunitária, os produtos importados desconforme as regras do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>, designadamente a não existência de marca de salubridade ou identificação, a não certificação, em desrespeito ao artigo 6.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\naaa) A não observância das garantias especiais para os trânsitos previstos no artigo 6.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nbbb) O não acompanhamento de remessas de produtos de origem animal por certificados ou outros documentos exigidos nos termos do artigo 7.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>.\n\n2 - Em caso de tentativa e negligência os montantes máximos e mínimos previstos no número anterior são reduzidos a metade."
+  },
+  "157238723": {
+   "fragment_id": "157237026",
+   "type": 11,
+   "heading": "Artigo 7.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Sanções acessórias\n\n1 - Consoante a gravidade da contra-ordenação e a culpa do agente, podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:\n\na) Perda de objectos pertencentes ao agente;\n\nb) Interdição do exercício de profissões ou actividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participar em feiras ou mercados;\n\ne) Privação do direito de participar em arrematações ou concursos públicos que tenham por objecto o fornecimento de bens e serviços, a concessão de serviços públicos e a atribuição de licenças ou alvarás;\n\nf) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\ng) Suspensão de autorizações, licenças e alvarás.\n\n2 - As sanções referidas nas alíneas b) e seguintes do número anterior têm a duração máxima de dois anos contados a partir do trânsito em julgado da decisão condenatória."
+  },
+  "157238724": {
+   "fragment_id": "157237027",
+   "type": 11,
+   "heading": "Artigo 8.º — Processos de contra-ordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Processos de contra-ordenação\n\n1 - Compete à ASAE, às direcções regionais de agricultura ou ao serviço da DGV da área da prática da infracção a instrução dos processos de contra-ordenação relativos às matérias do âmbito das respectivas competências.\n\n2 - Compete à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CACMEP), ao director-geral de Veterinária e ao director-geral de Protecção das Culturas a aplicação das coimas e sanções acessórias relativas às matérias do âmbito das respectivas competências."
+  },
+  "157238725": {
+   "fragment_id": "157237028",
+   "type": 11,
+   "heading": "Artigo 9.º — Afectação do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Afectação do produto das coimas\n\n1 - O produto das coimas aplicadas nos processos de contra-ordenação cuja competência para a instrução e decisão seja, nos termos dos n.os 1 e 2 do artigo anterior, da ASAE e da CACMEP, respectivamente, é distribuído da seguinte forma:\n\na) 10% para a entidade que levantou o auto;\n\nb) 30% para a entidade que procedeu à instrução do processo;\n\nc) 60% para o Estado.\n\n2 - Nos restantes processos de contra-ordenação, o produto das coimas é distribuído da seguinte forma:\n\na) 10% para a entidade que levantou o auto;\n\nb) 10% para a entidade que procedeu à instrução do processo;\n\nc) 20% para a entidade que aplicou a coima;\n\nd) 60% para o Estado."
+  },
+  "157238726": {
+   "fragment_id": "157237029",
+   "type": 11,
+   "heading": "Artigo 10.º — Regime especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regime especial\n\nÀs infracções ao presente decreto-lei que digam respeito ao sector vitivinícola aplica-se o disposto no Decreto-Lei n.º 213/2004, de 23 de Agosto."
+  },
+  "157238727": {
+   "fragment_id": "157237030",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais"
+  },
+  "157238728": {
+   "fragment_id": "157237031",
+   "type": 11,
+   "heading": "Artigo 11.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regulamentação\n\nSão objecto de portaria conjunta dos Ministros da Economia e da Inovação e da Agricultura, do Desenvolvimento Rural e das Pescas as matérias que os Regulamentos (CE) n.os <a href=\"eurlex.asp?ano=2004&id=304R0852\" title=\"Link para Regulamento da Comunidade Europeia\">852/2004</a> e <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a> prevêem que sejam reguladas por normas nacionais."
+  },
+  "157238729": {
+   "fragment_id": "157237032",
+   "type": 11,
+   "heading": "Artigo 12.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 67/98, de 18 de Março."
+  },
+  "157238730": {
+   "fragment_id": "157237033",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "158208953": {
+   "fragment_id": "157237022",
+   "type": 11,
+   "heading": "Artigo 4.º — Recurso",
+   "in_force_from": "2008-11-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 223/2008 - Diário da República n.º 224/2008, Série I de 2008-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-2008-439843), em vigor a partir de 2008-11-19"
+   ],
+   "markdown": "###### Artigo 4.º — Recurso\n\n1 - A rejeição para consumo humano de géneros alimentícios de origem animal, aquando da sua inspecção sanitária, é susceptível de recurso por parte dos proprietários ou dos seus legítimos representantes.\n\n2 - A intenção de interpor recurso deve ser comunicada imediatamente após a rejeição dos géneros alimentícios a quem procedeu à inspecção ou verificação, que notifica o proprietário ou o seu legítimo representante, logo após o acto, indicando-lhe os respectivos fundamentos.\n\n3 - O recurso deve ser apresentado em requerimento dirigido à autoridade competente e entregue a quem procedeu à inspecção ou verificação, no prazo de quatro horas após a rejeição.\n\n4 - Do requerimento deve constar:\n\na) O nome e a morada do recorrente;\n\nb) O objecto do recurso;\n\nc) A indicação do seu representante na junta de recurso.\n\n5 - Recebido o requerimento de recurso, o técnico que procede à inspecção ou verificação apõe a data do recebimento e a sua assinatura, sendo disponibilizada uma cópia ao recorrente.\n\n6 - O recurso é apreciado por uma junta de recurso constituída pelos seguintes peritos:\n\na) Dois peritos indicados pela autoridade competente, um dos quais presidirá, tendo voto de qualidade em caso de empate, sendo que nenhum deles poderá ser aquele que procedeu à inspecção;\n\nb) Um médico veterinário designado pelo recorrente.\n\n7 - Se o recorrente não indicar um perito seu representante, deve a autoridade competente designar outro perito para desempenhar essa função.\n\n8 - A junta de recurso reúne no prazo máximo de vinte e quatro horas após a recepção do requerimento, podendo este prazo ser dilatado para o 1.º dia útil seguinte ao da rejeição se houver condições de conservação dos géneros alimentícios em causa.\n\n9 - Compete ao proprietário ou legítimo representante do género alimentício reprovado e ao operador responsável pelo estabelecimento no qual aquele se encontra, sob a coordenação do médico veterinário que procedeu à inspecção, assegurar a boa conservação do género alimentício, até à reunião da junta de recurso, assistindo à mesma para eventuais esclarecimentos, mas sem direito a voto.\n\n10 - Da reunião da junta de recurso é lavrada acta de que conste a decisão final, da qual não cabe recurso administrativo.\n\n11 - Em caso de confirmação da rejeição do género alimentício, a junta de recurso decide o destino a dar àquele, não cabendo recurso administrativo desta decisão.\n\n12 - A interposição do recurso obriga ao pagamento dos montantes previstos na tabela de emolumentos aprovada anualmente por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.\n\n13 - As quantias a que se refere o número anterior constituem receita do Estado.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 223/2008 - Diário da República n.º 224/2008, Série I de 2008-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-2008-439843), em vigor a partir de 2008-11-19"
+  },
+  "158208945": {
+   "fragment_id": "157237029",
+   "type": 11,
+   "heading": "Artigo 10.º — Regime especial",
+   "in_force_from": "2006-06-13",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 49/2006 - Diário da República n.º 155/2006, Série I de 2006-08-11](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/49-2006-538471), em vigor a partir de 2006-06-13"
+   ],
+   "markdown": "###### Artigo 10.º — Regime especial\n\nÀs infracções ao presente decreto-lei que digam respeito ao sector vitivinícola aplica-se o processo de contra-ordenação previsto nos artigos 20.º a 22.º do Decreto-Lei n.º 213/2004, de 23 de Agosto.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 49/2006 - Diário da República n.º 155/2006, Série I de 2006-08-11](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/49-2006-538471), em vigor a partir de 2006-06-13"
+  },
+  "158208954": {
+   "fragment_id": "158210748",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Regiões Autónomas",
+   "in_force_from": "2008-11-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 223/2008 - Diário da República n.º 224/2008, Série I de 2008-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-2008-439843), em vigor a partir de 2008-11-19"
+   ],
+   "markdown": "###### Artigo 11.º-A — Regiões Autónomas\n\nO disposto no presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo de as competências cometidas a serviços ou organismos da administração do Estado serem exercidas pelos correspondentes serviços e organismos das administrações regionais com idênticas atribuições e competências.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 223/2008 - Diário da República n.º 224/2008, Série I de 2008-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-2008-439843), em vigor a partir de 2008-11-19"
+  },
+  "158208955": {
+   "fragment_id": "157237032",
+   "type": 11,
+   "heading": "Artigo 12.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 67/98, de 18 de Março."
+  },
+  "158208956": {
+   "fragment_id": "157237033",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "157238731": {
+   "fragment_id": "157237034",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 30 de Março de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Manuel Mendonça de Oliveira Neves - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - António Fernando Correia de Campos.\n\nPromulgado em 23 de Maio de 2006.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 1 de Junho de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "187351580": {
+   "fragment_id": "157237025",
+   "type": 11,
+   "heading": "Artigo 6.º — Contra-ordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 6.º — Contra-ordenações\n\n1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), a violação das normas dos Regulamentos (CE) n.os 852/2004 e 853/2004 e das disposições regulamentares publicadas ao abrigo do artigo 11.º do presente decreto-lei, designadamente:\n\na) O não cumprimento dos requisitos gerais e específicos de higiene a que se referem os artigos 3.º e 4.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0852\" title=\"Link para Regulamento da Comunidade Europeia\">852/2004</a>;\n\nb) A criação, aplicação ou manutenção de um processo ou processos baseados nos princípios do HACCP que não cumpra os requisitos do artigo 5.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0852\" title=\"Link para Regulamento da Comunidade Europeia\">852/2004</a>;\n\nc) O não fornecimento à autoridade competente das provas em como mantêm e aplicam um processo ou processos baseados nos princípios do HACCP, conforme previsto no artigo 5.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0852\" title=\"Link para Regulamento da Comunidade Europeia\">852/2004</a>;\n\nd) A não actualização dos documentos que descrevem o processo ou processos baseados nos princípios do HACCP, conforme previsto no artigo 5.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0852\" title=\"Link para Regulamento da Comunidade Europeia\">852/2004</a>;\n\ne) A não conservação dos documentos referidos na alínea anterior ou de outros documentos ou registos durante o prazo que for legalmente considerado adequado;\n\nf) O impedimento ou criação de obstáculos aos controlos oficiais, designadamente pela não permissão de acesso a edifícios, locais, instalações e demais infra-estruturas ou qualquer documentação e registos considerados necessários pela autoridade competente para a avaliação da situação;\n\ng) A colocação no mercado de produtos provenientes de importações e os produtos destinados à exportação que não cumpram o disposto nos artigos 10.º e 11.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0852\" title=\"Link para Regulamento da Comunidade Europeia\">852/2004</a>, respectivamente;\n\nh) A não aposição nos produtos de origem animal de uma marca de identificação nos termos do anexo II do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a> ou que não cumpra os requisitos ali estabelecidos;\n\ni) O desrespeito pelos operadores das empresas do sector alimentar responsáveis por matadouros das obrigações impostas pela secção III do anexo II do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a> relativamente a todos os animais, que não sejam de caça selvagem, enviados ou destinados ao matadouro;\n\nj) O transporte de animais vivos para os matadouros sem que sejam cumpridos os requisitos estabelecidos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nl) O funcionamento de estabelecimentos de abate, e respectivas salas de desmancha, que não cumpram os requisitos estabelecidos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>, designadamente em matéria de construção, concepção e equipamento do estabelecimento e normas de higiene a observar no abate, desmancha e desossa;\n\nm) O abate de emergência fora do matadouro em circunstâncias diferentes das permitidas no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a> ou sem observância das condições ali impostas para o mesmo;\n\nn) A armazenagem e o transporte de carne pelos operadores das empresas do sector alimentar sem observância das condições impostas pelo anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\no) O abate na exploração de aves de capoeira em circunstâncias diferentes das permitidas no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a> ou sem observância das condições ali impostas para o mesmo;\n\np) A caça de animais selvagens com vista à sua colocação no mercado para consumo humano por pessoas que não possuam a formação imposta pelo anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nq) A colocação no mercado de carne de caça de criação e de caça selvagem que não tenha sido submetida às operações impostas pelo anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nr) O funcionamento de estabelecimentos que produzam carne picada, preparados de carne, carne separada mecanicamente e produtos à base de carne que não cumpram os requisitos estabelecidos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\ns) A utilização em estabelecimentos que produzam carne picada, preparados de carne, carne separada mecanicamente e produtos à base de carne de matérias-primas que não cumpram os requisitos estabelecidos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nt) O não cumprimento dos requisitos de higiene estabelecidos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a> para a produção de carne picada, preparados de carne, carne separada mecanicamente e produtos à base de carne que não cumpram os requisitos estabelecidos;\n\nu) O desrespeito pelas regras de rotulagem estabelecidas no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nv) A colocação no mercado de moluscos bivalves vivos, equinodermes, tunicados e gastrópodes marinhos vivos sem que sejam cumpridas as condições estabelecidas para o efeito no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0852\" title=\"Link para Regulamento da Comunidade Europeia\">852/2004</a> e no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>, designadamente no que respeita às regras sanitárias a que os mesmos estão sujeitos de manuseamento, acondicionamento e embalagem, margens de tolerância fixadas relativamente às mesmas, marca de identificação e rotulagem, armazenagem, transporte e documentos de acompanhamento;\n\nx) O não cumprimento dos requisitos aplicáveis à produção de moluscos bivalves vivos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a> e no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0854\" title=\"Link para Regulamento da Comunidade Europeia\">854/2004</a>;\n\nz) O não cumprimento das regras para o manuseamento de moluscos bivalves vivos estabelecidas no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\naa) O não cumprimento das regras para a afinação de moluscos bivalves vivos estabelecidas no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nbb) O funcionamento de centros de depuração e de expedição que não cumpram os requisitos estabelecidos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>, designadamente em matéria de construção, concepção e equipamento dos centros e normas de higiene a observar nas operações que realizam;\n\ncc) O não cumprimento dos requisitos específicos estabelecidos para os pectinídeos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\ndd) A colocação no mercado de produtos da pesca que não os moluscos bivalves vivos, equinodermes, tunicados e gastrópodes marinhos vivos sem que sejam cumpridas as condições estabelecidas para o efeito no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0852\" title=\"Link para Regulamento da Comunidade Europeia\">852/2004</a> e no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nee) A utilização de navios na colheita de produtos da pesca do seu ambiente natural, ou no seu manuseamento ou transformação após a colheita, que não cumpram os requisitos estruturais e em matéria de equipamento estabelecidos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nff) O não cumprimento nos navios utilizados na colheita de produtos da pesca do seu ambiente natural, ou no seu manuseamento ou transformação após a colheita, dos requisitos de higiene estabelecidos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>, designadamente durante e após o desembarque;\n\ngg) O não cumprimento pelos estabelecimentos, incluindo navios, que manuseiem produtos da pesca, incluindo congelados, separados mecanicamente e transformados, das regras estabelecidas para o efeito no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nhh) O acondicionamento, embalagem, rotulagem, armazenagem ou transporte de produtos da pesca sem observância das condições impostas pelo anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nii) A colocação no mercado de produtos da pesca que contenham toxinas prejudiciais à saúde humana;\n\njj) O não cumprimento das regras estabelecidas no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a> para a produção, recolha e colocação no mercado de leite cru;\n\nll) O não cumprimento das regras estabelecidas no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a> para a produção e colocação no mercado de produtos lácteos;\n\nmm) O não cumprimento das regras estabelecidas no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a> para o fabrico, manuseamento, armazenagem, rotulagem e marcação de identificação de ovoprodutos;\n\nnn) A preparação de coxas de rã e caracóis para consumo humano sem cumprimento dos requisitos para o efeito estabelecidos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\noo) O não cumprimento pelos estabelecimentos que procedem à recolha ou à transformação das matérias-primas para produção de gorduras animais fundidas e torresmos dos requisitos estabelecidos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\npp) O não cumprimento pelos estabelecimentos que tratem estômagos, bexigas e intestinos dos requisitos estabelecidos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nqq) O não cumprimento pelos estabelecimentos que fabriquem gelatina dos requisitos estabelecidos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nrr) O não cumprimento pelos estabelecimentos que fabriquem colagénio dos requisitos estabelecidos no anexo III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nss) A utilização de substância não autorizada para remover qualquer eventual contaminação da superfície dos produtos de origem animal em desrespeito pelo disposto no n.º 2 do artigo 3.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\ntt) A colocação no mercado de produtos de origem animal fabricados na Comunidade por estabelecimentos não registados ou não aprovados ou que não cumpram as disposições do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0852\" title=\"Link para Regulamento da Comunidade Europeia\">852/2004</a>, dos anexos II e III do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a> ou em legislação específica relativa aos géneros alimentícios, em desrespeito pelo n.º 1 do artigo 4.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nuu) A não cooperação com as autoridades competentes, em desrespeito pelo n.º 4 do artigo 4.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nvv) A continuidade de laboração de estabelecimento ao qual seja retirada a autorização, ou, em caso de autorização condicional, não seja prorrogada ou concedida a autorização definitiva, em conformidade com o disposto no n.º 4 do artigo 4.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nxx) A colocação no mercado de produtos de origem animal sem marca de salubridade ou de identificação, a aplicação de marcas de salubridade ou identificação em produtos fabricados em estabelecimentos que não cumpram as regras aplicáveis do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a> ou a remoção das marcas de salubridade em desrespeito pelo disposto no artigo 5.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nzz) A importação de produtos de origem animal de países terceiros ou de estabelecimentos não constantes de lista de países terceiros ou estabelecimentos constantes em lista comunitária, os produtos importados desconforme as regras do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>, designadamente a não existência de marca de salubridade ou identificação, a não certificação, em desrespeito ao artigo 6.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\naaa) A não observância das garantias especiais para os trânsitos previstos no artigo 6.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>;\n\nbbb) O não acompanhamento de remessas de produtos de origem animal por certificados ou outros documentos exigidos nos termos do artigo 7.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>.\n\n2 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "187351581": {
+   "fragment_id": "157237028",
+   "type": 11,
+   "heading": "Artigo 9.º — Afectação do produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 9.º — Afectação do produto das coimas\n\n1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  }
+ }
+}

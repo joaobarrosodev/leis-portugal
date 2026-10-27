@@ -1,0 +1,418 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:675228:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1993-886139692",
+ "dre_path": "/dr/detalhe/decreto-lei/390-1993-675228",
+ "source_lastmod": "2024-08-28",
+ "versions": [
+  {
+   "date": "1993-11-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "886175775",
+    "886138858",
+    "886138859",
+    "886138860",
+    "886138861",
+    "886138862",
+    "886138863",
+    "886138864",
+    "886138865",
+    "886138866",
+    "886138867",
+    "886138868",
+    "886138869",
+    "886138870",
+    "886138871",
+    "886138872"
+   ]
+  },
+  {
+   "date": "1999-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:345124:por",
+     "title": "Lei n.º 113/99",
+     "published": "1999-08-03",
+     "dre_path": "/dr/detalhe/lei/113-1999-345124"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "886138857",
+    "886138858",
+    "886138859",
+    "886138860",
+    "886138861",
+    "886138862",
+    "886138863",
+    "886138864",
+    "886138865",
+    "886138866",
+    "886138867",
+    "886138868",
+    "886138869",
+    "886138870",
+    "886138871",
+    "886138874",
+    "886138873"
+   ]
+  },
+  {
+   "date": "2000-11-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:616576:por",
+     "title": "Decreto-Lei n.º 301/2000",
+     "published": "2000-11-18",
+     "dre_path": "/dr/detalhe/decreto-lei/301-2000-616576"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "886175775",
+    "886175776",
+    "886175777",
+    "886175778",
+    "886175779",
+    "886175780",
+    "886175781",
+    "886175782",
+    "886175783",
+    "886175784",
+    "886175785",
+    "886175786",
+    "886175787",
+    "886175788",
+    "886175789",
+    "886175790",
+    "886175791"
+   ]
+  }
+ ],
+ "fragments": {
+  "886175775": {
+   "fragment_id": "886139693",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2000-11-23",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 390/93\n\nde 20 de Novembro\n\nO Decreto-Lei n.º 441/91, de 14 de Novembro, estabelece o regime jurídico do enquadramento da segurança, higiene e saúde no trabalho, referindo-se expressamente, no n.º 2 do seu artigo 23.º, à regulamentação derivada da transposição para o direito interno das directivas comunitárias.\n\nNestes termos, o presente diploma visa transpor para o direito interno a Directiva n.º 90/394/CEE, do Conselho, de 28 de Junho, relativa à protecção dos trabalhadores contra riscos ligados à exposição de agentes cancerígenos no trabalho, que constitui a 6.ª Directiva especial, na acepção do n.º 1 do artigo 16.º da Directiva n.º 89/391/CEE, do Conselho, de 12 de Junho.\n\nPretende-se, assim, responder à exigência de fixação de prescrições mínimas de segurança e de saúde, no quadro da dimensão social do mercado interno, cuja observância levará à melhoria do nível de prevenção e de protecção dos trabalhadores expostos àqueles agentes.\n\nO presente diploma foi apreciado pelo Conselho Nacional de Segurança, Higiene e Saúde no Trabalho, reflectindo os consensos ali alcançados.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "886138858": {
+   "fragment_id": "886139694",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma transpõe para a ordem jurídica interna a Directiva n.º 90/394/CEE, do Conselho, de 28 de Junho, que estabelece as prescrições mínimas de segurança e saúde relativas à protecção dos trabalhadores expostos a agentes cancerígenos."
+  },
+  "886138859": {
+   "fragment_id": "886139695",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente diploma tem o âmbito de aplicação estabelecido no artigo 2.º do Decreto-Lei n.º 441/91, de 14 de Novembro.\n\n2 - O presente diploma não se aplica aos trabalhadores expostos unicamente às radiações a que alude o Tratado que institui a Comunidade Europeia de Energia Atómica."
+  },
+  "886138860": {
+   "fragment_id": "886139696",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\n1 - Para efeitos do presente diploma, entendem-se por agentes cancerígenos:\n\na) As substâncias a que foi atribuída, nos termos do Decreto-Lei n.º 280-A/87, de 17 de Julho, e legislação complementar, a menção de precaução «R 45 - pode causar cancro»;\n\nb) As preparações que contenham uma substância que deva ser rotulada com a menção de precaução «R 45 - pode causar cancro», nos termos da legislação específica referida no artigo 5.º do Decreto-Lei n.º 120/92, de 30 de Junho.\n\n2 - São ainda considerados como agentes cancerígenos as seguintes substâncias, preparações e processos:\n\na) Fabrico de auramina;\n\nb) Trabalhos susceptíveis de provocar a exposição aos hidrocarbonetos policíclicos aromáticos presentes na fuligem, no alcatrão, no pez, nos fumos ou nas poeiras da hulha;\n\nc) Trabalhos susceptíveis de provocar a exposição às poeiras, fumos ou névoas produzidos durante a calcinação e a electrorrefinação de mates de níquel;\n\nd) Processo de ácido forte durante o fabrico do álcool isopropílico;\n\ne) As substâncias ou as preparações que se libertem nos procesos referidos na alínea anterior."
+  },
+  "886138861": {
+   "fragment_id": "886139697",
+   "type": 11,
+   "heading": "Artigo 4.º — Avaliação do risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Avaliação do risco\n\n1 - O empregador deve proceder à avaliação do risco de exposição a agentes cancerígenos, determinando a sua identificação, o grau e o tempo de exposição.\n\n2 - A avaliação deve ser feita regularmente e sempre que se verifique alteração das condições de trabalho.\n\n3 - Quando a avaliação revelar risco para a segurança e saúde dos trabalhadores, o empregador deve tomar as medidas correctivas apropriadas e proceder a nova avaliação, a fim de verificar a eficácia das mesmas.\n\n4 - Na avaliação do risco devem ser tomadas em conta todas as exposições importantes, tais como as que têm efeitos nocivos sobre a pele.\n\n5 - Na avaliação referida no n.º 1, o empregador deve prestar especial atenção aos trabalhadores particularmente sensíveis e afastá-los das zonas em que possam estar em contacto com os agentes cancerígenos."
+  },
+  "886138862": {
+   "fragment_id": "886139698",
+   "type": 11,
+   "heading": "Artigo 5.º — Disposições para evitar ou reduzir a exposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disposições para evitar ou reduzir a exposição\n\n1 - O empregador deve evitar ou reduzir a utilização de agentes cancerígenos, substituindo-os por outros que não sejam perigosos ou que impliquem menor risco para a segurança e saúde dos trabalhadores.\n\n2 - Quando isso não for tecnicamente possível, o empregador deve garantir que a produção ou utilização do agente cancerígeno se efectue em sistema fechado.\n\n3 - Se a utilização de um sistema fechado não for possível, o empregador deve garantir que o nível de exposição dos trabalhadores seja reduzido a um valor tão baixo quanto possível.\n\n4 - Sempre que seja utilizado um agente cancerígeno, o empregador deve aplicar as seguintes medidas:\n\na) Limitação das quantidades do agente cancerígeno no local de trabalho;\n\nb) Redução, ao mínimo possível, do número de trabalhadores expostos ou susceptíveis de o serem;\n\nc) Concepção de processos de trabalho e de medidas técnicas com o fim de eliminar ou minimizar a libertação de agentes cancerígenos no local de trabalho;\n\nd) Evacuação dos agentes cancerígenos na fonte, por aspiração localizada ou ventilação geral adequadas e compatíveis com a necessidade de protecção da saúde e do ambiente;\n\ne) Utilização de métodos apropriados de medição de agentes cancerígenos, em particular para a detecção precoce de exposições anormais resultantes de acontecimento imprevisível ou de acidente;\n\nf) Aplicação de processos e métodos de trabalho adequados;\n\ng) Medidas de protecção colectiva adequadas ou, quando a exposição não possa ser evitada por outros meios, medidas de protecção individual;\n\nh) Medidas de higiene, nomeadamente de limpeza periódica dos pavimentos, paredes e outras superfícies;\n\ni) Delimitação das zonas de risco e utilização de adequada sinalização de aviso e de segurança, incluindo sinais de proibição de fumar em zonas onde os trabalhadores estejam ou possam vir a estar expostos a agentes cancerígenos;\n\nj) Instalação de dispositivos para situações de emergência susceptíveis de originar exposições anormalmente elevadas;\n\nl) Meios que permitam a armazenagem, o manuseamento e o transporte sem risco, nomeadamente pela utilização de recipientes herméticos e rotulados de forma correcta e visível;\n\nm) Meios seguros de recolha, armazenagem e evacuação dos resíduos pelos trabalhadores, incluindo a utilização de recipientes herméticos e rotulados de forma correcta, de modo a não constituírem fonte de contaminação dos locais de trabalho e dos trabalhadores, e dando cumprimento às disposições legais sobre resíduos e protecção do ambiente."
+  },
+  "886138863": {
+   "fragment_id": "886139699",
+   "type": 11,
+   "heading": "Artigo 6.º — Informação das autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Informação das autoridades competentes\n\nSempre que uma actividade seja susceptível de envolver risco de exposição a agentes cancerígenos, o empregador deve, a pedido da autoridade competente, pôr à sua disposição informações adequadas sobre:\n\na) As actividades e os processos industriais em causa, indicando as razões por que neles são utilizados agentes cancerígenos, assim como eventuais casos de substituição;\n\nb) As quantidades de substâncias ou de preparações fabricadas ou utilizadas que contenham agentes cancerígenos;\n\nc) O número de trabalhadores expostos, bem como a natureza, o grau e o tempo de exposição e todos os elementos resultantes da avaliação de risco;\n\nd) As medidas de prevenção tomadas, colectivas e individuais."
+  },
+  "886138864": {
+   "fragment_id": "886139700",
+   "type": 11,
+   "heading": "Artigo 7.º — Exposição imprevisível",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Exposição imprevisível\n\n1 - Em caso de acontecimentos imprevisíveis ou de acidentes susceptíveis de provocar uma exposição anormal dos trabalhadores, o empregador deve informá-los desses factos.\n\n2 - Até à normalização da situação, e enquanto não se eliminarem as causas da exposição anormal, deverá ser observado o seguinte:\n\na) Apenas serão autorizados a trabalhar na zona afectada os trabalhadores indispensáveis à execução das reparações e outros trabalhos necessários;\n\nb) Será posto à disposição dos trabalhadores em causa, e deve ser por eles utilizado, vestuário de protecção e equipamento individual de protecção respiratória, devendo a exposição ser limitada ao estritamente necessário para cada trabalhador e não ter carácter permanente;\n\nc) Os trabalhadores não protegidos não serão autorizados a trabalhar na área afectada."
+  },
+  "886138865": {
+   "fragment_id": "886139701",
+   "type": 11,
+   "heading": "Artigo 8.º — Exposição previsível",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Exposição previsível\n\n1 - Em relação a certas actividades, tais como a manutenção, para as quais seja de prever a possibilidade de um aumento significativo da exposição e em relação às quais se encontrem já esgotadas todas as possibilidades de tomar medidas técnicas preventivas suplementares para limitar essa exposição, o empregador determinará, após consulta dos trabalhadores ou dos seus representantes na empresa ou no estabelecimento, as medidas necessárias para reduzir o mais possível a duração da exposição dos trabalhadores e para assegurar a sua protecção durante a realização dessas actividades.\n\n2 - Para efeitos do número anterior, deve ser posto à disposição dos trabalhadores em causa vestuário de protecção e equipamento individual de protecção respiratória, para serem usados durante a exposição anormal, devendo esta ser limitada ao estritamente necessário para cada trabalhador e não ter carácter permanente.\n\n3 - Devem ser tomadas as medidas adequadas para que as zonas onde decorrem as actividades referidas no n.º 1 se encontrem claramente delimitadas e assinaladas e se impeça o acesso de pessoas não autorizadas a esses locais."
+  },
+  "886138866": {
+   "fragment_id": "886139702",
+   "type": 11,
+   "heading": "Artigo 9.º — Acesso às zonas de risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Acesso às zonas de risco\n\nAs entidades empregadoras devem tomar as medidas adequadas para garantir que as zonas onde decorrem actividades em relação às quais os resultados da avaliação referida no artigo 4.º revelem um risco para a segurança ou para a saúde dos trabalhadores apenas sejam acessíveis aos trabalhadores que nelas tenham de penetrar, por força das suas funções."
+  },
+  "886138867": {
+   "fragment_id": "886139703",
+   "type": 11,
+   "heading": "Artigo 10.º — Medidas gerais de higiene e protecção individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Medidas gerais de higiene e protecção individual\n\nSem prejuízo do disposto nos artigos 8.º e 9.º do Decreto-Lei n.º 441/91, o empregador é obrigado a:\n\na) Fornecer aos trabalhadores vestuário de protecção, proceder à sua limpeza após cada utilização e disponibilizar locais distintos para o vestuário de trabalho e o vestuário de uso pessoal;\n\nb) Arrumar correctamente os equipamentos de protecção individual em local determinado, garantir o bom funcionamento dos mesmos, procedendo à sua limpeza após cada utilização e à sua manutenção, e promovendo as reparações e substituições necessárias;\n\nc) Providenciar a existência de instalações sanitárias e de higiene apropriadas;\n\nd) Impedir que os trabalhadores comam, bebam e fumem em zonas de trabalho onde se verifique risco de contaminação por agentes cancerígenos."
+  },
+  "886138868": {
+   "fragment_id": "886139704",
+   "type": 11,
+   "heading": "Artigo 11.º — Informação e formação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Informação e formação dos trabalhadores\n\n1 - Os trabalhadores, assim como os seus representantes, devem ser informados sobre todas as medidas tomadas que digam respeito:\n\na) Aos riscos potenciais para a segurança e a saúde, incluindo os riscos adicionais resultantes do consumo de tabaco;\n\nb) Às medidas de prevenção a tomar para ser evitada a exposição e às normas em matéria de higiene individual e colectiva;\n\nc) À selecção, ao emprego e à utilização dos equipamentos e do vestuário de protecção;\n\nd) Às regras de prevenção de acidentes e às medidas a tomar pelos trabalhadores, nomeadamente pelo pessoal de intervenção.\n\n2 - O empregador deve, também, informar os trabalhadores sobre as instalações e os recipientes que contenham agentes cancerígenos, assegurar que todos os recipientes e embalagens sejam rotulados de forma clara e legível e afixar, nas instalações, sinais de perigo bem visíveis.\n\n3 - O empregador deve, ainda, providenciar no sentido de os trabalhadores receberem formação inicial e periódica adequada e que tenha em conta a evolução dos riscos e o aparecimento de novos riscos.\n\n4 - O empregador é responsável pela elaboração e actualização de um registo do qual conste a identificação de todos os trabalhadores expostos a agentes cancerígenos, com indicação do grau, tempo e natureza da exposição de cada um.\n\n5 - O registo deve ser mantido durante, pelo menos, 40 anos após a cessação da exposição.\n\n6 - Da informação contida neste registo deve ser dado conhecimento aos trabalhadores interessados e às autoridades responsáveis em matéria de segurança e saúde no local de trabalho."
+  },
+  "886138869": {
+   "fragment_id": "886139705",
+   "type": 11,
+   "heading": "Artigo 12.º — Consulta e participação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Consulta e participação dos trabalhadores\n\nOs trabalhadores e os seus representantes devem ser ouvidos e participar na aplicação das medidas previstas no presente diploma, nos termos estabelecidos no n.º 3 do artigo 9.º do Decreto-Lei n.º 441/91, de 14 de Novembro."
+  },
+  "886138870": {
+   "fragment_id": "886139706",
+   "type": 11,
+   "heading": "Artigo 13.º — Vigilância médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Vigilância médica\n\n1 - O empregador deve garantir vigilância médica adequada a todos os trabalhadores expostos, a qual compreenderá exames médicos de pré-colocação, periódicos e ocasionais.\n\n2 - A vigilância médica deve incluir, no mínimo, as seguintes medidas:\n\na) A história clínica detalhada e os antecedentes profissionais de cada trabalhador;\n\nb) O rastreio de efeitos precoces e reversíveis;\n\nc) A vigilância biológica, quando necessária.\n\n3 - Os exames médicos periódicos devem ser realizados anualmente e os ocasionais sempre que se verifique uma das seguintes situações:\n\na) Os resultados da avaliação referidos no n.º 1 do artigo 4.º revelem risco para a segurança ou saúde do trabalhador;\n\nb) A solicitação do trabalhador exposto;\n\nc) Quando o médico responsável os considere convenientes.\n\n4 - Se um trabalhador revelar afecção que possa ter sido provocada pela exposição a agentes cancerígenos, o responsável pela vigilância médica pode exigir que todos os outros trabalhadores que tenham sofrido exposição análoga sejam submetidos a exame médico.\n\n5 - Os exames médicos são efectuados dentro do horário de trabalho, sem perda de retribuição e sem quaisquer encargos para o trabalhador.\n\n6 - O médico responsável deve ter acesso a todos os dados informativos necessários para a avaliação da exposição dos trabalhadores aos agentes cancerígenos, nomeadamente:\n\na) À lista actualizada dos trabalhadores afectos a actividades em relação às quais a avaliação revele risco para a segurança e saúde dos trabalhadores, com a indicação, sempre que possível, do nível de exposição a que estiveram sujeitos, incluindo os resultados do controlo de risco da exposição;\n\nb) Às informações sobre exposições anormais provocadas por acontecimentos imprevisíveis ou por acidentes.\n\n7 - Os dados dos exames médicos serão registados em ficha individual de saúde, que será conservada pelo menos durante 40 anos após a cessação da exposição.\n\n8 - Os trabalhadores têm acesso aos resultados da vigilância médica que lhes digam respeito, podendo, tal como o empregador, solicitar a revisão desses resultados.\n\n9 - O médico notificará a autoridade responsável de todos os casos de cancro identificados como resultantes da exposição a um agente cancerígeno durante o trabalho."
+  },
+  "886138871": {
+   "fragment_id": "886139707",
+   "type": 11,
+   "heading": "Artigo 14.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Fiscalização\n\nA fiscalização do cumprimento das disposições do presente diploma, bem como a aplicação das correspondentes sanções, compete ao Instituto de Desenvolvimento e Inspecção das Condições de Trabalho, sem prejuízo da competência fiscalizadora específica atribuída a outras entidades, conforme o disposto no artigo 21.º do Decreto-Lei n.º 441/91, de 14 de Novembro."
+  },
+  "886138872": {
+   "fragment_id": "886139708",
+   "type": 11,
+   "heading": "Artigo 15.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Contra-ordenações\n\n1 - Constitui contra-ordenação, punível com coima:\n\na) De 80000$00 a 250000$00, a violação do disposto nos artigos 4.º a 6.º;\n\nb) De 50000$00 a 100000$00, por cada trabalhador abrangido, a violação do disposto no artigo 10.º;\n\nc) De 50000$00 a 200000$00, a violação do disposto nos artigos 11.º e 12.º;\n\nd) De 50000$00 a 100000$00, por cada trabalhador em relação ao qual se verifique a violação do disposto no artigo 13.º\n\n2 - Metade do produto das coimas reverte para o Fundo de Garantia e Actualização de Pensões, destinando-se a outra metade à entidade que as aplica, em conformidade com o disposto no artigo 4.º do Decreto-Lei n.º 491/85, de 26 de Novembro, na redacção dada pelo Decreto-Lei n.º 255/89, de 10 de Agosto."
+  },
+  "886138857": {
+   "fragment_id": "886139693",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 390/93\n\nde 20 de Novembro\n\nO Decreto-Lei n.º 441/91, de 14 de Novembro, estabelece o regime jurídico do enquadramento da segurança, higiene e saúde no trabalho, referindo-se expressamente, no n.º 2 do seu artigo 23.º, à regulamentação derivada da transposição para o direito interno das directivas comunitárias.\n\nNestes termos, o presente diploma visa transpor para o direito interno a Directiva n.º 90/394/CEE, do Conselho, de 28 de Junho, relativa à protecção dos trabalhadores contra riscos ligados à exposição de agentes cancerígenos no trabalho, que constitui a 6.ª Directiva especial, na acepção do n.º 1 do artigo 16.º da Directiva n.º 89/391/CEE, do Conselho, de 12 de Junho.\n\nPretende-se, assim, responder à exigência de fixação de prescrições mínimas de segurança e de saúde, no quadro da dimensão social do mercado interno, cuja observância levará à melhoria do nível de prevenção e de protecção dos trabalhadores expostos àqueles agentes.\n\nO presente diploma foi apreciado pelo Conselho Nacional de Segurança, Higiene e Saúde no Trabalho, reflectindo os consensos ali alcançados.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "886138874": {
+   "fragment_id": "886139708",
+   "type": 11,
+   "heading": "Artigo 15.º — Contra-ordenações",
+   "in_force_from": "1999-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Lei n.º 113/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124), em vigor a partir de 1999-12-01"
+   ],
+   "markdown": "###### Artigo 15.º — Contra-ordenações\n\n1 - Constitui contra-ordenação muito grave a violação do artigo 4.º, dos n.os 1, 2 e 3 e das alíneas a) a e), g) e i) a m) do n.º 4 do artigo 5.º e dos n.os 2 e 3 do artigo 11.º\n\n2 - Constitui contra-ordenação grave a violação das alíneas f) e h) do n.º 4 do artigo 5.º, dos artigos 6.º, 7.º, 8.º, 9.º e 10.º, dos n.os 1, 4 e 5 do artigo 11.º e dos artigos 12.º e 13.º\n\n3 - Constitui contra-ordenação leve a violação do n.º 6 do artigo 11.º\n\n> Alterado pelo/a Artigo 11.º do/a [Lei n.º 113/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124), em vigor a partir de 1999-12-01"
+  },
+  "886138873": {
+   "fragment_id": "886139709",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de Setembro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Filipe da Conceição Pereira - Arlindo Gomes de Carvalho - José Albino da Silva Peneda.\n\nPromulgado em 3 de Novembro de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 4 de Novembro de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "886175776": {
+   "fragment_id": "886139694",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2000-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma transpõe para a ordem jurídica interna a Directiva n.º 90/394/CEE, do Conselho, de 28 de Junho, que estabelece as prescrições mínimas de segurança e saúde relativas à protecção dos trabalhadores expostos a agentes cancerígenos.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+  },
+  "886175777": {
+   "fragment_id": "886139695",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2000-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente diploma tem o âmbito de aplicação estabelecido no artigo 2.º do Decreto-Lei n.º 441/91, de 14 de Novembro.\n\n2 - O presente diploma não se aplica aos trabalhadores expostos unicamente às radiações a que alude o Tratado que institui a Comunidade Europeia de Energia Atómica.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+  },
+  "886175778": {
+   "fragment_id": "886139696",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2000-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\n1 - Para efeitos do presente diploma, entendem-se por agentes cancerígenos:\n\na) As substâncias a que foi atribuída, nos termos do Decreto-Lei n.º 280-A/87, de 17 de Julho, e legislação complementar, a menção de precaução «R 45 - pode causar cancro»;\n\nb) As preparações que contenham uma substância que deva ser rotulada com a menção de precaução «R 45 - pode causar cancro», nos termos da legislação específica referida no artigo 5.º do Decreto-Lei n.º 120/92, de 30 de Junho.\n\n2 - São ainda considerados como agentes cancerígenos as seguintes substâncias, preparações e processos:\n\na) Fabrico de auramina;\n\nb) Trabalhos susceptíveis de provocar a exposição aos hidrocarbonetos policíclicos aromáticos presentes na fuligem, no alcatrão, no pez, nos fumos ou nas poeiras da hulha;\n\nc) Trabalhos susceptíveis de provocar a exposição às poeiras, fumos ou névoas produzidos durante a calcinação e a electrorrefinação de mates de níquel;\n\nd) Processo de ácido forte durante o fabrico do álcool isopropílico;\n\ne) As substâncias ou as preparações que se libertem nos procesos referidos na alínea anterior.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+  },
+  "886175779": {
+   "fragment_id": "886139697",
+   "type": 11,
+   "heading": "Artigo 4.º — Avaliação do risco",
+   "in_force_from": "2000-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+   ],
+   "markdown": "###### Artigo 4.º — Avaliação do risco\n\n1 - O empregador deve proceder à avaliação do risco de exposição a agentes cancerígenos, determinando a sua identificação, o grau e o tempo de exposição.\n\n2 - A avaliação deve ser feita regularmente e sempre que se verifique alteração das condições de trabalho.\n\n3 - Quando a avaliação revelar risco para a segurança e saúde dos trabalhadores, o empregador deve tomar as medidas correctivas apropriadas e proceder a nova avaliação, a fim de verificar a eficácia das mesmas.\n\n4 - Na avaliação do risco devem ser tomadas em conta todas as exposições importantes, tais como as que têm efeitos nocivos sobre a pele.\n\n5 - Na avaliação referida no n.º 1, o empregador deve prestar especial atenção aos trabalhadores particularmente sensíveis e afastá-los das zonas em que possam estar em contacto com os agentes cancerígenos.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+  },
+  "886175780": {
+   "fragment_id": "886139698",
+   "type": 11,
+   "heading": "Artigo 5.º — Disposições para evitar ou reduzir a exposição",
+   "in_force_from": "2000-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+   ],
+   "markdown": "###### Artigo 5.º — Disposições para evitar ou reduzir a exposição\n\n1 - O empregador deve evitar ou reduzir a utilização de agentes cancerígenos, substituindo-os por outros que não sejam perigosos ou que impliquem menor risco para a segurança e saúde dos trabalhadores.\n\n2 - Quando isso não for tecnicamente possível, o empregador deve garantir que a produção ou utilização do agente cancerígeno se efectue em sistema fechado.\n\n3 - Se a utilização de um sistema fechado não for possível, o empregador deve garantir que o nível de exposição dos trabalhadores seja reduzido a um valor tão baixo quanto possível.\n\n4 - Sempre que seja utilizado um agente cancerígeno, o empregador deve aplicar as seguintes medidas:\n\na) Limitação das quantidades do agente cancerígeno no local de trabalho;\n\nb) Redução, ao mínimo possível, do número de trabalhadores expostos ou susceptíveis de o serem;\n\nc) Concepção de processos de trabalho e de medidas técnicas com o fim de eliminar ou minimizar a libertação de agentes cancerígenos no local de trabalho;\n\nd) Evacuação dos agentes cancerígenos na fonte, por aspiração localizada ou ventilação geral adequadas e compatíveis com a necessidade de protecção da saúde e do ambiente;\n\ne) Utilização de métodos apropriados de medição de agentes cancerígenos, em particular para a detecção precoce de exposições anormais resultantes de acontecimento imprevisível ou de acidente;\n\nf) Aplicação de processos e métodos de trabalho adequados;\n\ng) Medidas de protecção colectiva adequadas ou, quando a exposição não possa ser evitada por outros meios, medidas de protecção individual;\n\nh) Medidas de higiene, nomeadamente de limpeza periódica dos pavimentos, paredes e outras superfícies;\n\ni) Delimitação das zonas de risco e utilização de adequada sinalização de aviso e de segurança, incluindo sinais de proibição de fumar em zonas onde os trabalhadores estejam ou possam vir a estar expostos a agentes cancerígenos;\n\nj) Instalação de dispositivos para situações de emergência susceptíveis de originar exposições anormalmente elevadas;\n\nl) Meios que permitam a armazenagem, o manuseamento e o transporte sem risco, nomeadamente pela utilização de recipientes herméticos e rotulados de forma correcta e visível;\n\nm) Meios seguros de recolha, armazenagem e evacuação dos resíduos pelos trabalhadores, incluindo a utilização de recipientes herméticos e rotulados de forma correcta, de modo a não constituírem fonte de contaminação dos locais de trabalho e dos trabalhadores, e dando cumprimento às disposições legais sobre resíduos e protecção do ambiente.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+  },
+  "886175781": {
+   "fragment_id": "886139699",
+   "type": 11,
+   "heading": "Artigo 6.º — Informação das autoridades competentes",
+   "in_force_from": "2000-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+   ],
+   "markdown": "###### Artigo 6.º — Informação das autoridades competentes\n\nSempre que uma actividade seja susceptível de envolver risco de exposição a agentes cancerígenos, o empregador deve, a pedido da autoridade competente, pôr à sua disposição informações adequadas sobre:\n\na) As actividades e os processos industriais em causa, indicando as razões por que neles são utilizados agentes cancerígenos, assim como eventuais casos de substituição;\n\nb) As quantidades de substâncias ou de preparações fabricadas ou utilizadas que contenham agentes cancerígenos;\n\nc) O número de trabalhadores expostos, bem como a natureza, o grau e o tempo de exposição e todos os elementos resultantes da avaliação de risco;\n\nd) As medidas de prevenção tomadas, colectivas e individuais.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+  },
+  "886175782": {
+   "fragment_id": "886139700",
+   "type": 11,
+   "heading": "Artigo 7.º — Exposição imprevisível",
+   "in_force_from": "2000-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+   ],
+   "markdown": "###### Artigo 7.º — Exposição imprevisível\n\n1 - Em caso de acontecimentos imprevisíveis ou de acidentes susceptíveis de provocar uma exposição anormal dos trabalhadores, o empregador deve informá-los desses factos.\n\n2 - Até à normalização da situação, e enquanto não se eliminarem as causas da exposição anormal, deverá ser observado o seguinte:\n\na) Apenas serão autorizados a trabalhar na zona afectada os trabalhadores indispensáveis à execução das reparações e outros trabalhos necessários;\n\nb) Será posto à disposição dos trabalhadores em causa, e deve ser por eles utilizado, vestuário de protecção e equipamento individual de protecção respiratória, devendo a exposição ser limitada ao estritamente necessário para cada trabalhador e não ter carácter permanente;\n\nc) Os trabalhadores não protegidos não serão autorizados a trabalhar na área afectada.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+  },
+  "886175783": {
+   "fragment_id": "886139701",
+   "type": 11,
+   "heading": "Artigo 8.º — Exposição previsível",
+   "in_force_from": "2000-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+   ],
+   "markdown": "###### Artigo 8.º — Exposição previsível\n\n1 - Em relação a certas actividades, tais como a manutenção, para as quais seja de prever a possibilidade de um aumento significativo da exposição e em relação às quais se encontrem já esgotadas todas as possibilidades de tomar medidas técnicas preventivas suplementares para limitar essa exposição, o empregador determinará, após consulta dos trabalhadores ou dos seus representantes na empresa ou no estabelecimento, as medidas necessárias para reduzir o mais possível a duração da exposição dos trabalhadores e para assegurar a sua protecção durante a realização dessas actividades.\n\n2 - Para efeitos do número anterior, deve ser posto à disposição dos trabalhadores em causa vestuário de protecção e equipamento individual de protecção respiratória, para serem usados durante a exposição anormal, devendo esta ser limitada ao estritamente necessário para cada trabalhador e não ter carácter permanente.\n\n3 - Devem ser tomadas as medidas adequadas para que as zonas onde decorrem as actividades referidas no n.º 1 se encontrem claramente delimitadas e assinaladas e se impeça o acesso de pessoas não autorizadas a esses locais.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+  },
+  "886175784": {
+   "fragment_id": "886139702",
+   "type": 11,
+   "heading": "Artigo 9.º — Acesso às zonas de risco",
+   "in_force_from": "2000-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+   ],
+   "markdown": "###### Artigo 9.º — Acesso às zonas de risco\n\nAs entidades empregadoras devem tomar as medidas adequadas para garantir que as zonas onde decorrem actividades em relação às quais os resultados da avaliação referida no artigo 4.º revelem um risco para a segurança ou para a saúde dos trabalhadores apenas sejam acessíveis aos trabalhadores que nelas tenham de penetrar, por força das suas funções.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+  },
+  "886175785": {
+   "fragment_id": "886139703",
+   "type": 11,
+   "heading": "Artigo 10.º — Medidas gerais de higiene e protecção individual",
+   "in_force_from": "2000-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+   ],
+   "markdown": "###### Artigo 10.º — Medidas gerais de higiene e protecção individual\n\nSem prejuízo do disposto nos artigos 8.º e 9.º do Decreto-Lei n.º 441/91, o empregador é obrigado a:\n\na) Fornecer aos trabalhadores vestuário de protecção, proceder à sua limpeza após cada utilização e disponibilizar locais distintos para o vestuário de trabalho e o vestuário de uso pessoal;\n\nb) Arrumar correctamente os equipamentos de protecção individual em local determinado, garantir o bom funcionamento dos mesmos, procedendo à sua limpeza após cada utilização e à sua manutenção, e promovendo as reparações e substituições necessárias;\n\nc) Providenciar a existência de instalações sanitárias e de higiene apropriadas;\n\nd) Impedir que os trabalhadores comam, bebam e fumem em zonas de trabalho onde se verifique risco de contaminação por agentes cancerígenos.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+  },
+  "886175786": {
+   "fragment_id": "886139704",
+   "type": 11,
+   "heading": "Artigo 11.º — Informação e formação dos trabalhadores",
+   "in_force_from": "2000-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+   ],
+   "markdown": "###### Artigo 11.º — Informação e formação dos trabalhadores\n\n1 - Os trabalhadores, assim como os seus representantes, devem ser informados sobre todas as medidas tomadas que digam respeito:\n\na) Aos riscos potenciais para a segurança e a saúde, incluindo os riscos adicionais resultantes do consumo de tabaco;\n\nb) Às medidas de prevenção a tomar para ser evitada a exposição e às normas em matéria de higiene individual e colectiva;\n\nc) À selecção, ao emprego e à utilização dos equipamentos e do vestuário de protecção;\n\nd) Às regras de prevenção de acidentes e às medidas a tomar pelos trabalhadores, nomeadamente pelo pessoal de intervenção.\n\n2 - O empregador deve, também, informar os trabalhadores sobre as instalações e os recipientes que contenham agentes cancerígenos, assegurar que todos os recipientes e embalagens sejam rotulados de forma clara e legível e afixar, nas instalações, sinais de perigo bem visíveis.\n\n3 - O empregador deve, ainda, providenciar no sentido de os trabalhadores receberem formação inicial e periódica adequada e que tenha em conta a evolução dos riscos e o aparecimento de novos riscos.\n\n4 - O empregador é responsável pela elaboração e actualização de um registo do qual conste a identificação de todos os trabalhadores expostos a agentes cancerígenos, com indicação do grau, tempo e natureza da exposição de cada um.\n\n5 - O registo deve ser mantido durante, pelo menos, 40 anos após a cessação da exposição.\n\n6 - Da informação contida neste registo deve ser dado conhecimento aos trabalhadores interessados e às autoridades responsáveis em matéria de segurança e saúde no local de trabalho.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+  },
+  "886175787": {
+   "fragment_id": "886139705",
+   "type": 11,
+   "heading": "Artigo 12.º — Consulta e participação dos trabalhadores",
+   "in_force_from": "2000-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+   ],
+   "markdown": "###### Artigo 12.º — Consulta e participação dos trabalhadores\n\nOs trabalhadores e os seus representantes devem ser ouvidos e participar na aplicação das medidas previstas no presente diploma, nos termos estabelecidos no n.º 3 do artigo 9.º do Decreto-Lei n.º 441/91, de 14 de Novembro.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+  },
+  "886175788": {
+   "fragment_id": "886139706",
+   "type": 11,
+   "heading": "Artigo 13.º — Vigilância médica",
+   "in_force_from": "2000-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+   ],
+   "markdown": "###### Artigo 13.º — Vigilância médica\n\n1 - O empregador deve garantir vigilância médica adequada a todos os trabalhadores expostos, a qual compreenderá exames médicos de pré-colocação, periódicos e ocasionais.\n\n2 - A vigilância médica deve incluir, no mínimo, as seguintes medidas:\n\na) A história clínica detalhada e os antecedentes profissionais de cada trabalhador;\n\nb) O rastreio de efeitos precoces e reversíveis;\n\nc) A vigilância biológica, quando necessária.\n\n3 - Os exames médicos periódicos devem ser realizados anualmente e os ocasionais sempre que se verifique uma das seguintes situações:\n\na) Os resultados da avaliação referidos no n.º 1 do artigo 4.º revelem risco para a segurança ou saúde do trabalhador;\n\nb) A solicitação do trabalhador exposto;\n\nc) Quando o médico responsável os considere convenientes.\n\n4 - Se um trabalhador revelar afecção que possa ter sido provocada pela exposição a agentes cancerígenos, o responsável pela vigilância médica pode exigir que todos os outros trabalhadores que tenham sofrido exposição análoga sejam submetidos a exame médico.\n\n5 - Os exames médicos são efectuados dentro do horário de trabalho, sem perda de retribuição e sem quaisquer encargos para o trabalhador.\n\n6 - O médico responsável deve ter acesso a todos os dados informativos necessários para a avaliação da exposição dos trabalhadores aos agentes cancerígenos, nomeadamente:\n\na) À lista actualizada dos trabalhadores afectos a actividades em relação às quais a avaliação revele risco para a segurança e saúde dos trabalhadores, com a indicação, sempre que possível, do nível de exposição a que estiveram sujeitos, incluindo os resultados do controlo de risco da exposição;\n\nb) Às informações sobre exposições anormais provocadas por acontecimentos imprevisíveis ou por acidentes.\n\n7 - Os dados dos exames médicos serão registados em ficha individual de saúde, que será conservada pelo menos durante 40 anos após a cessação da exposição.\n\n8 - Os trabalhadores têm acesso aos resultados da vigilância médica que lhes digam respeito, podendo, tal como o empregador, solicitar a revisão desses resultados.\n\n9 - O médico notificará a autoridade responsável de todos os casos de cancro identificados como resultantes da exposição a um agente cancerígeno durante o trabalho.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+  },
+  "886175789": {
+   "fragment_id": "886139707",
+   "type": 11,
+   "heading": "Artigo 14.º — Fiscalização",
+   "in_force_from": "2000-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+   ],
+   "markdown": "###### Artigo 14.º — Fiscalização\n\nA fiscalização do cumprimento das disposições do presente diploma, bem como a aplicação das correspondentes sanções, compete ao Instituto de Desenvolvimento e Inspecção das Condições de Trabalho, sem prejuízo da competência fiscalizadora específica atribuída a outras entidades, conforme o disposto no artigo 21.º do Decreto-Lei n.º 441/91, de 14 de Novembro.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+  },
+  "886175790": {
+   "fragment_id": "886139708",
+   "type": 11,
+   "heading": "Artigo 15.º — Contra-ordenações",
+   "in_force_from": "2000-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23",
+    "Alterado pelo/a Artigo 11.º do/a [Lei n.º 113/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124), em vigor a partir de 1999-12-01"
+   ],
+   "markdown": "###### Artigo 15.º — Contra-ordenações\n\n1 - Constitui contra-ordenação muito grave a violação do artigo 4.º, dos n.os 1, 2 e 3 e das alíneas a) a e), g) e i) a m) do n.º 4 do artigo 5.º e dos n.os 2 e 3 do artigo 11.º\n\n2 - Constitui contra-ordenação grave a violação das alíneas f) e h) do n.º 4 do artigo 5.º, dos artigos 6.º, 7.º, 8.º, 9.º e 10.º, dos n.os 1, 4 e 5 do artigo 11.º e dos artigos 12.º e 13.º\n\n3 - Constitui contra-ordenação leve a violação do n.º 6 do artigo 11.º\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23\n\n> Alterado pelo/a Artigo 11.º do/a [Lei n.º 113/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124), em vigor a partir de 1999-12-01"
+  },
+  "886175791": {
+   "fragment_id": "886139709",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2000-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de Setembro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Filipe da Conceição Pereira - Arlindo Gomes de Carvalho - José Albino da Silva Peneda.\n\nPromulgado em 3 de Novembro de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 4 de Novembro de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 301/2000 - Diário da República n.º 267/2000, Série I-A de 2000-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), em vigor a partir de 2000-11-23"
+  }
+ }
+}

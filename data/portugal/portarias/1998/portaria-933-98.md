@@ -1,0 +1,339 @@
+---
+schema_version: '1.0'
+id: pt:dre:239801:por
+title: Portaria n.º 933/98
+short_title: null
+summary: Altera o Regulamento para Atribuição de Bolsas de Criação Literária, aprovado pela Portaria n.º 517/96, de 26 de
+  Setembro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Cultura
+proposing_entity: null
+official_number: 933/98
+official_date: null
+publication_date: '1998-10-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 249/1998, Série I-B de 1998-10-28
+  number: '249'
+  series: I
+  supplement: null
+  pages: 5618 - 5621
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/10/249b00/56185621.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/933/1998/10/28/p/dre/pt/html
+  oj: null
+  dre: '239801'
+  dre_path: /dr/detalhe/portaria/933-1998-239801
+  internal: pt:dre:239801:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/933-1998-239801
+  metadata_url: https://data.dre.pt/eli/port/933/1998/10/28/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/933-1998-239801
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:12:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1df2a374d428cc71d872a1ecad3b71978056813335e4c352995e867c0d43c9d5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:01Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Bolsa de Criação Literária
+- Bolsa de Estudos
+- Concurso
+- Cultura Portuguesa
+- Financiamento
+- Instituto Português do Livro e das Bibliotecas
+- Literatura
+- Ministro da Cultura
+- Política Cultural
+- Profissão Artística
+- Regulamento
+- Regulamento para Atribuição de Bolsas de Criação Literária
+- Subsídio
+relationships:
+- type: amended_by
+  target: pt:dre:564230:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:214539:por
+  label: null
+  source: http://data.dre.pt/eli/port/517/1996/09/26/p/dre
+- type: cites
+  target: pt:dre:406114:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:564230:por
+  label: "Revogada a Port 517/96, de 26-Set, na redacção do presente diploma, pela PORT.361/2005.01.04.2005.MC, DR.IS-B [64]\
+    \ de 01.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/361-2005-564230
+  date: '2005-04-01'
+article_structure:
+  article_count: 18
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:12:01Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 933/98
+
+de 28 de Outubro
+
+No âmbito do [Decreto-Lei n.º 391/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1987-406114), de 31 de Dezembro, que criou a possibilidade de concessão de bolsas no País para a realização de trabalhos de criação artística, foi regulamentada pela Portara n.º 517/96, de 26 de Setembro, a concessão de bolsas de criação literária.
+
+Face à experiência decorrente de dois anos de atribuição das mesmas, constatou-se a necessidade de se proceder à revisão do respectivo regulamento no sentido de clarificar o regime de concessão das bolsas, introduzindo algumas alterações e corrigindo omissões.
+
+A presente portaria pretende, assim, clarificar as condições de acesso e introduzir condições equitativas relativas aos diferentes regimes de trabalho, proporcionando condições mais favoráveis à criação de obras literárias de mérito cultural, o que, em primeira instância, se pretende fomentar.
+
+Por último, dada a natureza da legislação que ora se altera, entende-se dever publicar em anexo a versão integral do Regulamento para Atribuição de Bolsas de Criação Literária, para reunir num só texto as normas em vigor.
+
+Assim:
+
+Nos termos do artigo 1.º do [Decreto-Lei n.º 391/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1987-406114), de 31 de Dezembro:
+
+Manda o Governo, pelo Ministro da Cultura, o seguinte:
+
+1.º Os artigos 6.º, 8.º, 10.º, 13.º, 14.º, 15.º, 16.º e 17.º do Regulamento para Atribuição de Bolsas de Criação Literária, aprovado pela [Portaria n.º 517/96](https://diariodarepublica.pt/dr/detalhe/portaria/517-1996-214539), de 26 de Setembro, passam a ter a seguinte redacção:
+
+«Artigo 6.º
+
+1 - (Anterior parágrafo único.)
+
+2 - A concessão da bolsa implica, para os trabalhadores por conta própria, a suspensão da sua actividade durante o período correspondente à duração da bolsa.
+
+3 - Excepcionalmente, poderá ser ponderada a impossibilidade de desvinculação ou suspensão de actividade, mediante requerimento devidamente fundamentado a apresentar ao Instituto Português do Livro e das Bibliotecas, cuja proposta de decisão deverá ser homologada por despacho do Ministro da Cultura.
+
+Artigo 8.º
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) Declaração, passada pela entidade patronal, donde conste a garantia da disponibilidade do candidato durante o período de tempo da bolsa ou, em caso de o candidato exercer actividade por conta própria, declaração de suspensão de actividade;
+
+g) Declaração onde se especifique a existência de outras ajudas, subvenções ou quaisquer apoios obtidos ou solicitados pelo candidato junto de outras instituições, públicas ou privadas, nacionais ou estrangeiras, para a realização do mesmo trabalho;
+
+h) Quaisquer outros elementos que o candidato considere relevantes para uma melhor apreciação da candidatura.
+
+2 - ...
+
+3 - Em caso de atribuição da bolsa, o bolseiro deverá de imediato apresentar ao Instituto Português do Livro e das Bibliotecas os seguintes documentos, sem os quais a concessão da bolsa não está efectivamente regularizada:
+
+a) Declaração, emitida pela competente repartição de finanças, comprovativa de que se encontram pagos os impostos dos anos anteriores ao ano do curso;
+
+b) Declaração da segurança social comprovativa da inexistência de dívidas às instituições de segurança social da responsabilidade do candidato.
+
+Artigo 10.º
+
+1 - A selecção dos candidatos é da competência de um júri, constituído por cinco elementos, nomeados por despacho do Ministro da Cultura de entre personalidades de reconhecido mérito no domínio literário, um dos quais será o presidente.
+
+2 - Excepcionalmente, a composição do júri poderá ser alargada, sob proposta do Instituto Português do Livro e das Bibliotecas, nos casos em que se verifique a situação prevista no artigo 2.º do presente Regulamento.
+
+3 - (Anterior n.º 2.º)
+
+4 - (Anterior n.º 3.º)
+
+Artigo 13.º
+
+1 - A duração da bolsa coincide com o início e o termo do ano civil.
+
+2 - Excepcionalmente, em face de determinadas situações específicas, devidamente fundamentadas, o período de vigência da bolsa de criação literária poderá não coincidir com o previsto no número anterior.
+
+Artigo 14.º
+
+Finda a duração da bolsa, o bolseiro fará entrega no Instituto Português do Livro e das Bibliotecas de um exemplar da sua obra.
+
+Artigo 15.º
+
+(Anterior artigo 14.º)
+
+Artigo 16.º
+
+(Anterior artigo 15.º)
+
+Artigo 17.º
+
+(Anterior artigo 16.º)»
+
+2.º Ao Regulamento para Atribuição de Bolsas de Criação Literária é adicionado o artigo 18.º, com a seguinte redacção:
+
+«Artigo 18.º
+
+(Anterior artigo 17.º)»
+
+3.º A título excepcional, para o ano de 1998, a abertura do concurso a que se refere o artigo 7.º efectua-se até 30 de Novembro, e a homologação pelo Ministro da Cultura da acta do júri, prevista no n.º 3 do artigo 10.º do Regulamento, terá lugar até 28 de Fevereiro de 1999.
+
+4.º O Regulamento para Atribuição de Bolsas de Criação Literária, aprovado pela [Portaria n.º 517/96](https://diariodarepublica.pt/dr/detalhe/portaria/517-1996-214539), de 26 de Setembro, com as alterações decorrentes do presente diploma, é republicado em anexo.
+
+5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Ministério da Cultura.
+
+Assinada em 6 de Outubro de 1998.
+
+O Ministro da Cultura, Manuel Maria Ferreira Carrilho.
+
+REGULAMENTO PARA ATRIBUIÇÃO DE BOLSAS DE CRIAÇÃO LITERÁRIA
+
+###### Artigo 1.º
+
+O presente Regulamento define as condições, critérios e âmbitos de atribuição das bolsas de criação literária, destinadas a fomentar a produção de obras literárias de mérito cultural.
+
+###### Artigo 2.º
+
+As bolsas de criação literária, adiante designadas por bolsas, poderão ser atribuídas nas modalidades de poesia, narrativa, dramaturgia ou, a título excepcional, noutros domínios, se tal for fixado pelo Instituto Português do Livro e das Bibliotecas.
+
+###### Artigo 3.º
+
+Podem beneficiar do disposto no artigo anterior os indivíduos de nacionalidade portuguesa.
+
+###### Artigo 4.º
+
+1 - As bolsas, a conceder através do pagamento de subsídio mensal ao beneficiário, têm a duração máxima de um ano, podendo, excepcionalmente, ser prorrogáveis uma única vez e até igual período de tempo.
+
+2 - O beneficiário de uma bolsa fica impedido de se candidatar a um novo concurso nos três anos subsequentes à atribuição da mesma.
+
+###### Artigo 5.º
+
+O montante pecuniário da bolsa será fixado anualmente por despacho do Ministro da Cultura.
+
+###### Artigo 6.º
+
+1 - Durante o período de tempo de concessão da bolsa não é permitido ao seu titular beneficiar, em regime de contrato de trabalho subordinado, de qualquer vencimento concedido por entidade pública ou privada.
+
+2 - A concessão da bolsa implica para os trabalhadores por conta própria a suspensão da sua actividade durante o período correspondente à duração da bolsa.
+
+3 - Excepcionalmente, poderá ser ponderada a impossibilidade de desvinculação ou de suspensão de actividade, mediante requerimento devidamente fundamentado a apresentar ao Instituto Português do Livro e das Bibliotecas, cuja proposta de decisão deverá ser homologada por despacho do Ministro da Cultura.
+
+###### Artigo 7.º
+
+A concessão, em cada ano, das bolsas é feita mediante a realização de concursos abertos anualmente até 30 de Setembro, anunciados por editais publicados no Diário da República e na imprensa diária, podendo também ser divulgados na rádio, televisão ou noutros meios de comunicação social, dos quais constam, para além de outros elementos considerados necessários, o local e o prazo de entrega das candidaturas e a menção do presente Regulamento.
+
+###### Artigo 8.º
+
+1 - É admitido ao concurso para a concessão de bolsas o candidato que, reunindo as condições indicadas no edital do concurso, apresente os seguintes elementos:
+
+a) Requerimento, dirigido ao Ministro da Cultura, donde constem o nome completo, filiação, estado civil, profissão, residência e número de contribuinte fiscal;
+
+b) Curriculum vitae detalhado;
+
+c) Plano ou projecto que permita definir as orientações do trabalho a realizar, o qual será um original inédito, e indique o período de tempo necessário à sua concretização;
+
+d) Documentação que comprove os trabalhos já realizados, bem como dossier de imprensa respeitante à recepção pública das obras, em caso de existência, ou, no caso de não haver obra publicada, um corpo de textos da sua autoria;
+
+e) Descrição da situação económica do candidato, com discriminação das suas fontes de rendimento e dos seus encargos permanentes;
+
+f) Declaração, passada pela entidade patronal, donde conste a garantia da disponibilidade do candidato durante o período de tempo da bolsa ou, em caso de o candidato exercer actividade por conta própria, declaração de suspensão de actividade;
+
+g) Declaração onde se especifique a existência de outras ajudas, subvenções ou quaisquer apoios obtidos ou solicitados pelo candidato junto de outras instituições, públicas ou privadas, nacionais ou estrangeiras, para a realização do mesmo trabalho;
+
+h) Quaisquer outros elementos que o candidato considere relevantes para uma melhor apreciação da candidatura.
+
+2 - Em casos excepcionais, devidamente fundamentados, pode o Ministro da Cultura dispensar a apresentação de alguns dos documentos referidos no número anterior.
+
+3 - Em caso de atribuição da bolsa, o bolseiro deverá de imediato apresentar ao Instituto Português do Livro e das Bibliotecas os seguintes documentos, sem os quais a concessão da bolsa não está efectivamente regularizada:
+
+a) Declaração, emitida pela competente repartição de finanças, comprovativa de que se encontram pagos os impostos dos anos anteriores ao ano do curso;
+
+b) Declaração da segurança social comprovativa da inexistência de dívidas às instituições de segurança social da responsabilidade do candidato.
+
+###### Artigo 9.º
+
+Constitui fundamento de rejeição liminar da candidatura:
+
+a) A falta de apresentação dos documentos exigidos no artigo anterior, quando os candidatos não tenham sido dispensados de os apresentar;
+
+b) A apresentação de candidaturas depois de expirado o prazo do respectivo edital.
+
+###### Artigo 10.º
+
+1 - A selecção dos candidatos é da competência de um júri, constituído por cinco elementos, nomeados por despacho do Ministro da Cultura de entre personalidades de reconhecido mérito no domínio literário, um dos quais será o presidente.
+
+2 - Excepcionalmente, a composição do júri poderá ser alargada, sob proposta do Instituto Português do Livro e das Bibliotecas, nos casos em que se verifique a situação prevista no artigo 2.º do presente Regulamento.
+
+3 - A deliberação do júri, resultante da apreciação literária das candidaturas, consta de acta devidamente fundamentada, homologada pelo Ministro da Cultura até 30 de Novembro de cada ano.
+
+4 - O Instituto Português do Livro e das Bibliotecas torna pública a lista das bolsas concedidas mediante aviso comunicado aos candidatos e afixado na sua sede.
+
+###### Artigo 11.º
+
+A atribuição da bolsa fica dependente da assinatura de um termo em que o beneficiário se compromete a cumprir as obrigações constantes do presente Regulamento e do edital do concurso e a gozar os direitos que lhe forem igualmente fixados.
+
+###### Artigo 12.º
+
+1 - Não é permitido ao bolseiro alterar o projecto definido por si e aprovado em concurso, sob pena de cancelamento da bolsa.
+
+2 - Excepcionalmente, pode o Ministro da Cultura, sob proposta fundamentada do Instituto Português do Livro e das Bibliotecas, autorizar a alteração do projecto, se se comprovar que do facto não advirão prejuízos para o interesse público prosseguido pelo Ministério da Cultura.
+
+###### Artigo 13.º
+
+1 - A duração da bolsa coincide com o início e o termo do ano civil.
+
+2 - Excepcionalmente, em face de determinadas situações específicas, devidamente fundamentadas, o período de vigência da bolsa de criação literária poderá não coincidir com o previsto no número anterior.
+
+###### Artigo 14.º
+
+Finda a duração da bolsa, o bolseiro fará entrega no Instituto Português do Livro e das Bibliotecas de um exemplar da sua obra.
+
+###### Artigo 15.º
+
+Os direitos de autor da obra literária pertencem ao bolseiro.
+
+###### Artigo 16.º
+
+O Ministério da Cultura, através do Instituto Português do Livro e das Bibliotecas, poderá apoiar, em condições a definir, a edição das obras que revelem especial mérito cultural.
+
+###### Artigo 17.º
+
+A falsidade das informações ou declarações prestadas para efeitos de concessão ou prorrogação da bolsa ou de qualquer outra documentação determina o cancelamento da bolsa, sem prejuízo da responsabilidade civil e penal que ao caso se aplique.
+
+###### Artigo 18.º
+
+1 - Quando haja indícios seguros de que o bolseiro está incurso na penalidade de cancelamento da bolsa, ser-lhe-á dado conhecimento da falta que a determina, bem como do conteúdo das informações ou pareceres sobre o caso, aplicando-se a este o princípio do contraditório.
+
+2 - Instruído o processo, será este submetido para decisão final do Ministro da Cultura.

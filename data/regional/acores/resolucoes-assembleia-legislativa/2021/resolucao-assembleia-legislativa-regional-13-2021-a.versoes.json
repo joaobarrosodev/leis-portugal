@@ -1,0 +1,73 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:159993993:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-assembleia-legislativa-regiao-autonoma-acores/2021-211499237",
+ "dre_path": "/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/13-2021-159993993",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-03-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "211526741",
+    "211526742",
+    "211526743",
+    "211526744",
+    "211526745",
+    "211526746"
+   ]
+  }
+ ],
+ "fragments": {
+  "211526741": {
+   "fragment_id": "211499238",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 13/2021/A\n\nSumário: Cria a Comissão Eventual para o Aprofundamento da Autonomia.\n\nCria a Comissão Eventual para o Aprofundamento da Autonomia\n\nConsiderando que as várias forças políticas representadas neste Parlamento, no âmbito de um processo comummente referido como reforma da autonomia, diagnosticaram, em tempo, um conjunto de situações, entre outras, jurídico-institucionais, atinentes ao concreto exercício da participação político-eleitoral, do sistema de governo, das relações interpoderes, no âmbito da organização política e territorial, bem como do aperfeiçoamento de competências e consolidações do adquirido autonómico;\n\nConsiderando que essas forças políticas partilharam a necessidade de um novo ímpeto reformista acerca da arquitetura jus-constitucional e estatutária da nossa autonomia, de sua natureza gradual e dinâmica, e inseriram nas suas propostas eleitorais objetivos concretos atinentes a esse desiderato, garantindo assim um acréscimo de legitimação democrática e a correlativa obrigação política de meios de tudo fazer para o efetivar;\n\nConsiderando que é a própria autonomia que, na sua dinâmica e interação com as novas realidades, impõe novas ambições e reclama redefinição de competências, nomeadamente em questões que se tornaram patentes no âmbito da atual pandemia, como sejam a alteração da lei que estabelece o regime do estado de sítio e do estado de emergência, atribuindo à Região competência para a sua execução no território regional, ou a aprovação de uma lei, no quadro da emergência sanitária, que clarifique as competências das autoridades de saúde regionais na prevenção e resposta à situação de pandemia;\n\nConsiderando que a primacial importância e ambição duma reforma autonómica a todos convoca e responsabiliza, numa postura de máximo sentido institucional, visão de regime e priorização autonómica, e que os objetivos a alcançar só serão possíveis mediante um complexo e elevado trabalho de consensualização, técnica e política, em que o consenso porventura alcançado será o melhor argumento e mais uma vez prova da nossa maturidade democrática e autonómica;\n\nConsiderando que esta magna tarefa deve ter como preocupação impostergável, ao nível procedimental, a facilitação e promoção da participação da sociedade civil ao nível das soluções a consensualizar nesta reforma autonómica.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores resolve, ao abrigo do disposto no n.º 1 do artigo 43.º do Regimento da Assembleia Legislativa da Região Autónoma dos Açores, no n.º 3 do artigo 44.º e no n.º 1 do artigo 73.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:"
+  },
+  "211526742": {
+   "fragment_id": "211499239",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nConstituir a Comissão Eventual para o Aprofundamento da Autonomia."
+  },
+  "211526743": {
+   "fragment_id": "211499240",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA Comissão tem por objeto:\n\na) O levantamento, diagnóstico, sistematização e consensualização, dum conjunto de medidas jurídico-normativas e político-institucionais, designadamente nos âmbitos da organização política/sistema de governo; do sistema eleitoral e da participação cívica e política; das competências das autoridades de saúde regionais na prevenção e resposta a conjunturas de crise sanitária; da organização territorial e das relações interpoderes e na consolidação e reforço do adquirido autonómico;\n\nb) A determinação e priorização das soluções possíveis, atento o disposto na alínea anterior;\n\nc) A apresentação de uma proposta a esta Assembleia Legislativa que, na sequência do estipulado na alínea anterior, identifique as principais matérias e normas que devam ser objeto de intervenção política."
+  },
+  "211526744": {
+   "fragment_id": "211499241",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nNa prossecução dos seus objetivos, a Comissão deve, entre outros:\n\na) Fomentar o debate público e a auscultação das entidades públicas e privadas que possam contribuir para a realização dos seus objetivos;\n\nb) Deliberar sobre o pedido de contributos técnicos a entidades públicas ou privadas de reconhecida idoneidade;\n\nc) Analisar e debater os contributos técnicos provenientes de entidades públicas ou privadas que possam colaborar na realização dos seus objetivos."
+  },
+  "211526745": {
+   "fragment_id": "211499242",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - A Comissão é composta por 13 deputados, sendo 4 do PS, 3 do PSD, 1 do CDS-PP, 1 do CH, 1 do BE, 1 do PPM, 1 do IL e 1 do PAN.\n\n2 - A Comissão pode funcionar em subcomissão, designadamente ao nível da prossecução de tarefas mais técnicas, ou quando deslocada da Região por motivo de serviço."
+  },
+  "211526746": {
+   "fragment_id": "211499243",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nNo prazo de um ano a contar da data da sua constituição, a Comissão apresenta ao plenário o respetivo relatório.\n\n> Nota: [Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 17/2023/A - Diário da República n.º 68/2023, Série I de 2023-04-05](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/17-2023-211443518) prorroga, por um ano, o prazo para apresentação do relatório da Comissão Eventual para o Aprofundamento da Autonomia.\n\n> Nota: [Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 17/2022/A - Diário da República n.º 75/2022, Série I de 2022-04-18](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/17-2022-182137198) prorroga, por um ano, o prazo para apresentação em Plenário do Relatório da Comissão Eventual para o Aprofundamento da Autonomia."
+  }
+ }
+}

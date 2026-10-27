@@ -1,0 +1,114 @@
+---
+schema_version: '1.0'
+id: pt:dre:683242:por
+title: Portaria n.º 55/73
+short_title: null
+summary: Abre um crédito especial destinado a reforçar verbas da tabela de despesa ordinária do orçamento geral da província
+  de Cabo Verde para 1972
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Fazenda
+proposing_entity: null
+official_number: 55/73
+official_date: null
+publication_date: '1973-01-29'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 24/1973, Série I de 1973-01-29
+  number: '24'
+  series: I
+  supplement: null
+  pages: 132 - 132
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/01/02400/01320132.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '683242'
+  dre_path: /dr/detalhe/portaria/55-1973-683242
+  internal: pt:dre:683242:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/55-1973-683242
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/55-1973-683242
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:09:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 80792445539001ab955efc4bc0e7480051f7da702a1d2104f50b658dc78974be
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:09:21Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:09:21Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 55/73
+
+de 29 de Janeiro
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do § único do artigo 7.º do [Decreto-Lei n.º 23367](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23367-1933-326747), de 18 de Dezembro de 1933, conjugado com o artigo 13.º do [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234), de 29 de Julho de 1946, e artigo 3.º do aludido [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234) e sua alínea e), com a nova redacção dada pelo artigo 4.º do [Decreto n.º 40712](https://diariodarepublica.pt/dr/detalhe/decreto/40712-1956-232510), de 1 de Agosto de 1956, abrir um crédito especial da importância de 550000$00 destinado a reforçar com as importâncias que se indicam as seguintes verbas da tabela de despesa ordinária do orçamento geral da província de Cabo Verde para o ano económico de 1972:
+
+### CAPÍTULO 10.º — Encargos gerais
+
+Artigo 314.º, n.º 2, alínea a) «Deslocações de pessoal - Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole» ... 250000$00
+
+Artigo 315.º, n.º 16, alínea a) «Diversas despesas - Despesas com assistência médica, tratamento e internamento de casos de tuberculose, câncer, alienação mental e lepra, em hospitais, manicómios, casas de saúde e sanatórios, de funcionários civis do activo, aposentados e operários do Estado e de colonos pobres das províncias ultramarinas - Na metrópole» ... 300000$00
+
+... 550000$00
+
+tomando como contrapartida o excesso de cobrança sobre a previsão da receita do capítulo 1.º, artigo 1.º «Impostos directos gerais - Contribuição industrial», do orçamento da receita ordinária para o mesmo ano económico.
+
+Ministério do Ultramar, 18 de Janeiro de 1973. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada no Boletim Oficial de Cabo Verde. - J. da Silva Cunha.

@@ -1,0 +1,633 @@
+---
+schema_version: '1.0'
+id: pt:dre:665341:por
+title: Decreto-Lei n.º 141/93
+short_title: null
+summary: Estabelece a orgânica das direcções regionais de educação
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 141/93
+official_date: null
+publication_date: '1993-04-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 97/1993, Série I-A de 1993-04-26
+  number: '97'
+  series: I
+  supplement: null
+  pages: 2041 - 2047
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/04/097a00/20412047.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/141/1993/04/26/p/dre/pt/html
+  oj: null
+  dre: '665341'
+  dre_path: /dr/detalhe/decreto-lei/141-1993-665341
+  internal: pt:dre:665341:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341
+  metadata_url: https://data.dre.pt/eli/dec-lei/141/1993/04/26/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:22:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 850a526304428b72c950cb0845b1e8cdcd59aeb51eca5a6644e7189bab54167c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:22:41Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Centro de Medicina Pedagógica
+- Delegação Escolar
+- Direcção Escolar
+- Direcção Regional de Educação
+- Direcção Regional de Educação de Lisboa
+- Direcção Regional de Educação do Alentejo
+- Direcção Regional de Educação do Algarve
+- Direcção Regional de Educação do Centro
+- Direcção Regional de Educação do Norte
+- Extinção de Serviços
+- Ministério da Educação
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Transferência de Competências
+- Transferência de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:432449:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:299451:por
+  label: "Alterado o quadro transitório constante do anexo II, pelo DN.520/94.19.07.1994.MF, DR.IS-B [165] de 19.07.1994\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/520-1994-299451
+  date: '1994-07-19'
+- type: amended_by
+  target: pt:dre:225444:por
+  label: "Alterado o quadro transitório constante do anexo II, pelo DN.601/94.12.08.1994.MF, DR.IS-B [186] de 12.08.1994\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/601-1994-225444
+  date: '1994-08-12'
+- type: amended_by
+  target: pt:dre:219374:por
+  label: "Alterado o art. 8º e substítuido o quadro do pessoal dirigente de cada DRE constante do anexo I ao presente diploma\
+    \ pelo DEC LEI.168/96.1996.09.18.ME, DR.IS-A [217]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/168-1996-219374
+  date: '1996-09-18'
+- type: amended_by
+  target: pt:dre:523595:por
+  label: "Alterado o nº 1 do art. 8º e substituído o quadro de pessoal constante do anexo ao presente diploma, com as alterações\
+    \ introduzidas pelo Dec Lei 168/96 de 18-Set, pelo DEC LEI.148/98.1998.05.23.ME DR.IS-A [119]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-1998-523595
+  date: '1998-05-23'
+- type: amended_by
+  target: pt:dre:377891:por
+  label: "Transferido o pessoal médico e de enfermagem oriundo dos ex-centros de medicina pedagógica, integrado no quadro\
+    \ de pessoal constante do anexo II deste diploma, pelo DEC LEI.210/2001.2001.07.28.MS DR.IS-A [174]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-2001-377891
+  date: '2001-07-28'
+- type: cites
+  target: pt:dre:227046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612219:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/172/1991/05/10/p/dre
+- type: cites
+  target: pt:dre:665342:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/133/1993/04/26/p/dre
+- type: corrected_by
+  target: pt:dre:616597:por
+  label: "Rectificada a alínea j) do artigo 3.º e n.º 3 do artigo 19.º pela DECL-RECT.140/93.31.07.1993.PCM, DR.IS-A [178]Supl\
+    \ de 31.07.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/140-1993-616597
+  date: '1993-07-31'
+- type: repealed_by
+  target: pt:dre:401911:por
+  label: "Revogada a al. h) do art. 6º pelo DEC LEI.143/96.1996.08.26.ME, DR.IS-A [197]\097]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/143-1996-401911
+  date: '1996-08-26'
+- type: repealed_by
+  target: pt:dre:432449:por
+  label: "Revogado, sem prejuízo do disposto no nº 2 do art. 35º, pelo DEC LEI.208/2002.2002.10.17.ME, DR.IS-A [240]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-2002-432449
+  date: '2002-10-17'
+article_structure:
+  article_count: 24
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:22:41Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 141/93
+
+de 26 de Abril
+
+No [Decreto-Lei n.º 133/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1993-665342), de 26 de Abril, as direcções regionais de educação, como serviços regionais do Ministério da Educação, têm como atribuição fundamental assegurar, a nível regional, a orientação, coordenação e apoio aos estabelecimentos de educação e ensino não superior.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+### CAPÍTULO I — Natureza, âmbito territorial e competências
+
+###### Artigo 1.º — Natureza
+
+As direcções regionais de educação, abreviadamente designadas por DRE, são serviços regionais do Ministério da Educação, dotados de autonomia administrativa, que, a nível regional, asseguram a orientação, coordenação e apoio aos estabelecimentos de educação e ensino não superior.
+
+###### Artigo 2.º — Âmbito territorial das DRE
+
+1 - O Ministério da Educação dispõe das seguintes DRE, cujo âmbito territorial corresponde ao das actuais comissões de coordenação regional:
+
+a) Do Norte, com sede no Porto;
+
+b) Do Centro, com sede em Coimbra;
+
+c) De Lisboa, com sede em Lisboa;
+
+d) Do Alentejo, com sede em Évora;
+
+e) Do Algarve, com sede em Faro.
+
+2 - No âmbito de cada DRE, a nível municipal ou intermunicipal, são criados, por portaria conjunta dos Ministros das Finanças e da Educação, centros de área educativa.
+
+3 - Aos centros de área educativa compete, no âmbito territorial respectivo, assegurar a coordenação, orientação e apoio aos estabelecimentos de educação e de ensino não superior.
+
+4 - Os centros de área educativa são dirigidos por um coordenador, cuja remuneração corresponde à de director de serviços ou de chefe de divisão, consoante o número de escolas e a extensão de cada área.
+
+5 - Os coordenadores de área educativa podem ser de imediato nomeados por despacho conjunto dos Ministros das Finanças e da Educação.
+
+###### Artigo 3.º — Competências
+
+São competências das DRE, no âmbito territorial respectivo:
+
+a) Integrar as várias áreas funcionais da educação e dos ensinos básico e secundário no quadro da política educativa;
+
+b) Coordenar, acompanhar e apoiar a organização e funcionamento dos estabelecimentos de educação e ensino não superior e a gestão dos respectivos recursos humanos e materiais;
+
+c) Apoiar e acompanhar os estabelecimentos de educação e ensino nos âmbitos técnico-pedagógico, de acção social escolar e de desporto escolar;
+
+d) Assegurar a coordenação e articulação dos vários níveis de ensino não superior, de acordo com as orientações definidas a nível central, promovendo a execução da respectiva política educativa;
+
+e) Promover o levantamento das necessidades do sector educativo;
+
+f) Dinamizar e coordenar a recolha de informações necessárias aos serviços centrais do Ministério, com vista ao acompanhamento da política educativa nacional e à avaliação sistemática dos seus resultados;
+
+g) Assegurar a divulgação de orientações dos serviços centrais e de informação técnica aos estabelecimentos de educação e ensino e aos utentes em geral;
+
+h) Cooperar com outros serviços, organismos e entidades, tendo em vista a realização de acções conjuntas em matéria de educação e formação profissional;
+
+i) Desenvolver as acções necessárias à condução do processo de ingresso no ensino superior, em articulação com o Departamento do Ensino Superior;
+
+j) Apoiar o ensino superior particular e cooperativo, nos termos superiormente estabelecidos.
+
+###### Artigo 4.º — Área de recursos humanos
+
+Na área de recursos humanos cabe às DRE, em especial:
+
+a) Gerir o pessoal docente e não docente dos estabelecimentos de ensino não superior, sem prejuízo da sua autonomia;
+
+b) Assegurar, em articulação com a Secretaria-Geral, a afectação de funcionários e a concretização da política de mobilidade profissional e territorial;
+
+c) Organizar e manter actualizado um banco de dados do pessoal docente e não docente dos estabelecimentos de ensino da respectiva região;
+
+d) Apoiar acções de formação do pessoal docente e de outros agentes educativos, de acordo com as prioridades definidas pelo Conselho Coordenador da Formação Contínua.
+
+###### Artigo 5.º — Área de recursos materiais
+
+Na área dos recursos materiais, cabe às DRE, em especial:
+
+a) Elaborar e executar, em articulação com os serviços centrais competentes, os planos anuais e plurianuais de aquisição e construção de instalações escolares e de aquisições de equipamentos educativos;
+
+b) Acompanhar, fiscalizar e avaliar a construção, conservação, remodelação e ampliação das instalações escolares;
+
+c) Colaborar no planeamento da rede escolar e seu movimento anual;
+
+d) Coordenar a gestão dos equipamentos educativos com vista à optimização dos recursos disponíveis, designadamente, reafectando-os pelos vários estabelecimentos de ensino e fomentando programas de assistência técnica, manutenção e recuperação dos mesmos.
+
+###### Artigo 6.º — Área técnico-pedagógica de acção social e desporto escolar
+
+Na área técnico-pedagógica de acção social e desporto escolar, cabe às DRE, em especial:
+
+a) Promover e coordenar as acções educativas e pedagógicas no âmbito das diversas modalidades de educação escolar, bem como projectos de experiências pedagógicas;
+
+b) Assegurar o recrutamento de orientadores pedagógicos ou de estágio, assim como apoiar logisticamente a formação inicial;
+
+c) Prestar apoio técnico e pedagógico ao pessoal docente e não docente, aos órgãos dos estabelecimentos de educação e ensino e a outras entidades que desenvolvam actividades no âmbito da educação e do ensino;
+
+d) Organizar e assegurar a coordenação das equipas de educação especial integradas, bem como aprovar os seus planos de actividades;
+
+e) Assegurar a maior rentabilização dos meios disponíveis em matéria de educação especial;
+
+f) Assegurar e acompanhar o apoio social escolar, nas suas várias vertentes;
+
+g) Assegurar e acompanhar as actividades de educação física e desporto escolar;
+
+h) Apoiar, gerir e assegurar o funcionamento dos centros infantis, infantários e jardins-de-infância destinados a filhos do pessoal dos serviços centrais, regionais e locais do Ministério da Educação e do pessoal docente e não docente ao serviço dos estabelecimentos de educação ou ensinos públicos;
+
+i) Acompanhar a gestão das residências para estudantes dos ensinos básico e secundário que lhes sejam afectas.
+
+### CAPÍTULO II — Órgãos e serviços
+
+###### Artigo 7.º — Órgãos
+
+São órgãos das DRE:
+
+a) O director regional;
+
+b) O conselho administrativo.
+
+###### Artigo 8.º — Director regional
+
+1 - As DRE são dirigidas por um director regional, coadjuvado por dois directores regionais-adjuntos.
+
+2 - Na DRE do Algarve e na DRE do Alentejo existe, apenas, um director regional-adjunto.
+
+3 - Os directores regionais e os directores regionais-adjuntos são equiparados, para todos os efeitos legais, a director-geral e a subdirector-geral, respectivamente.
+
+4 - O director regional é substituído nos seus impedimentos e faltas pelo director regional-adjunto que, para o efeito, por ele for designado.
+
+###### Artigo 9.º — Competências do director regional
+
+1 - Ao director regional compete, em especial:
+
+a) Representar a DRE e estabelecer as ligações desta com os serviços centrais do Ministério e outras entidades;
+
+b) Transmitir aos serviços centrais competentes os dados e informações de natureza estatística e técnica;
+
+c) Autorizar a alteração de horários dos professores do 1.º ciclo do ensino básico;
+
+d) Homologar os horários dos professores que prestam serviço nas equipas de educação especial e dos que prestam serviço nos cursos de educação básica que funcionam em instituições dependentes da Direcção-Geral dos Serviços Tutelares de Menores, do Ministério da Justiça, e da Direcção-Geral de Acção Social, do Ministério do Emprego e da Segurança Social;
+
+e) Nomear os orientadores de estágio dos ramos educacionais e das licenciaturas em ensino, de acordo, com as regras definidas pelos serviços centrais competentes;
+
+f) Autorizar o funcionamento de cursos em estabelecimentos hospitalares e prisionais e em instituições que tenham a seu cargo a educação de menores impossibilitados de frequentar estabelecimentos oficiais de ensino, superintender pedagogicamente nos referidos cursos e autorizar a deslocação de júris de exame, nos casos em que se verifique necessário;
+
+g) Decidir sobre a redução e a suspensão curriculares em casos excepcionais e sobre permutas de frequência de língua estrangeira, nas condições superiormente fixadas;
+
+h) Autorizar transferências para escolas do ensino oficial de alunos provenientes de escolas particulares, com planos de estudos próprios e do ensino individual e doméstico;
+
+i) Decidir sobre pedidos de empréstimo de equipamento e documentação áudio-visual para apoio a acções de educação de adultos;
+
+j) Autorizar transferências de mobiliário e material didáctico entre estabelecimentos de educação e ensino não superior, dentro da região ou inter-regiões.
+
+2 - No âmbito do ensino particular e cooperativo, compete ao director regional propor ao membro do Governo competente a celebração de contratos, nas modalidades previstas na legislação aplicável, e atribuir os apoios legalmente fixados para os respectivos estabelecimentos de ensino.
+
+3 - O director regional pode delegar nos directores regionais-adjuntos as competências fixadas no n.º 1.
+
+###### Artigo 10.º — Conselho administrativo
+
+1 - O conselho administrativo é órgão deliberativo em matéria de gestão financeira e patrimonial das DRE.
+
+2 - O conselho administrativo tem a seguinte composição:
+
+a) O director regional, que preside;
+
+b) Um director regional-adjunto, designado pelo director regional;
+
+c) O chefe da repartição de administração geral.
+
+3 - O conselho administrativo é secretariado por um funcionário da DRE, designado pelo director regional e sem direito a voto.
+
+###### Artigo 11.º — Competências e funcionamento do conselho administrativo
+
+1 - Ao conselho administrativo compete:
+
+a) Superintender na gestão financeira e patrimonial da DRE;
+
+b) Promover a elaboração dos orçamentos da DRE e acompanhar a sua execução;
+
+c) Promover a elaboração de planos financeiros adquados aos programas anuais e plurianuais de actividade da DRE;
+
+d) Verificar a legalidade e eficiência das despesas da DRE e autorizar a sua realização e pagamento;
+
+e) Superintender na organização anual da conta de gerência e submetê-la à aprovação do Tribunal de Contas;
+
+f) Promover a organização da contabilidade e zelar pela sua execução;
+
+g) Autorizar a venda de publicações e de materiais didácticos, bem como de material considerado inútil ou dispensável;
+
+h) Zelar pela cobrança das receitas e promover o seu depósito na Caixa Geral de Depósitos;
+
+i) Deliberar sobre a constituição de fundos permanentes;
+
+j) Proceder à verificação regular dos fundos em cofre e em depósito;
+
+l) Pronunciar-se sobre qualquer assunto que, no âmbito das suas competências, lhe seja submetido pelo presidente.
+
+2 - O conselho administrativo pode delegar no presidente as suas competências.
+
+3 - O conselho administrativo reunirá ordinariamente uma vez por mês e extraordinariamente sempre que for convocado pelo presidente, por sua iniciativa ou a solicitação de qualquer dos seus membros.
+
+###### Artigo 12.º — Serviços
+
+As DRE integram os seguintes serviços:
+
+a) Direcção de Serviços de Recursos Humanos;
+
+b) Direcção de Serviços de Recursos Materiais;
+
+c) Direcção de Serviços de Assuntos Técnico-Pedagógicos, Acção Social e Desporto Escolar;
+
+d) Repartição de Administração Geral.
+
+###### Artigo 13.º — Direcção de Serviços de Recursos Humanos
+
+1 - À Direcção de Serviços de Recursos Humanos, abreviadamente designada por DSRH, cabe exercer as competências fixadas no artigo 4.º
+
+2 - A DSRH compreende uma Divisão de Pessoal, à qual compete, em especial:
+
+a) Promover e assegurar a abertura e organização de concursos, em coordenação com o serviço central competente e com os estabelecimentos de educação e ensino;
+
+b) Recolher os elementos estatísticos do pessoal docente e não docente da respectiva região afecto aos diferentes graus de ensino e organizar e manter actualizado o respectivo cadastro, fornecendo aos serviços centrais competentes os elementos necessários ao tratamento sistemático da informação;
+
+c) Promover o levantamento das situações de carência de docentes nos diversos níveis de ensino.
+
+###### Artigo 14.º — Direcção de Serviços de Recursos Materiais
+
+1 - À Direcção de Serviços de Recursos Materiais, abreviadamente designada por DSRM, cabe exercer as competências fixadas no artigo 5.º
+
+2 - A DSRM compreende a Divisão de Instalações Escolares, a Divisão de Equipamentos Educativos e a Secção de Apoio Técnico.
+
+3 - À Divisão de Instalações Escolares compete, em especial:
+
+a) Colaborar com o serviço central competente, com os municípios e com os estabelecimentos de educação e ensino na elaboração da proposta de rede escolar;
+
+b) Participar na realização de estudos e elaboração de normas de caracterização de terrenos destinados à localização das instalações escolares;
+
+c) Organizar os processos necessários à adjudicação de empreitadas, acompanhar e fiscalizar a sua execução;
+
+d) Dar parecer sobre pedidos de concessão de alvará ou de autorização provisória para o funcionamento de estabelecimentos de educação e ensino particular;
+
+e) Assegurar a realização de obras de instalações escolares provisórias;
+
+f) Proceder, após a respectiva recepção, à entrega das instalações escolares aos órgãos responsáveis pela respectiva utilização;
+
+g) Assegurar a manutenção e recuperação das instalações escolares;
+
+h) Coordenar e acompanhar, a nível regional, a execução financeira e material do Plano de Investimentos e Desenvolvimento da Administração Central.
+
+4 - À Divisão de Equipamentos Educativos compete, em especial:
+
+a) Proceder ao levantamento e à análise das necessidades em matéria de equipamentos educativos, colaborar na elaboração de programas de aquisições e acompanhar a sua execução;
+
+b) Organizar os processos necessários ao fornecimento de bens e serviços e proceder à sua fiscalização e controlo;
+
+c) Assegurar o apetrechamento de instalações;
+
+d) Organizar e manter actualizado um banco de dados regional sobre os equipamentos disponíveis nos estabelecimentos dos vários níveis de ensino não superior.
+
+5 - À Secção de Apoio Técnico compete, em especial:
+
+a) Promover a realização de consultas e de concursos de fornecimentos e de empreitadas de obras públicas em todos os aspectos administrativos;
+
+b) Elaborar propostas de despesas, quer de concursos ou consultas, quer de aquisição de serviços ou locação de imóveis;
+
+c) Promover a elaboração de contratos de fornecimento de empreitadas de obras públicas procedendo aos contactos necessários com os adjudicatários e com o Tribunal de Contas até à obtenção do respectivo visto.
+
+###### Artigo 15.º — Direcção de Serviços de Assuntos Técnico-Pedagógicos, Acção Social e Desporto Escolar
+
+1 - À Direcção de Serviços de Assuntos Técnico-Pedagógicos, Acção Social e Desporto Escolar, abreviadamente designada por DSTP, compete exercer as competências fixadas no artigo 6.º
+
+2 - A DSTP compreende a Divisão Técnico-Pedagógica e a Divisão de Acção Social e Desporto Escolar.
+
+3 - À Divisão Técnico-Pedagógica compete, em especial:
+
+a) Propor e apoiar acções com carácter experimental e medidas que possibilitem uma melhor adequação da política educativa às características sociais e culturais da região;
+
+b) Proceder ao levantamento das formas e factores de insucesso escolar e promover e coordenar medidas que contribuam para a melhoria do rendimento escolar dos alunos;
+
+c) Coordenar acções de avaliação escolar dos alunos, designadamente no que respeita a exames, desenvolvidas a nível da respectiva região;
+
+d) Promover a informação e orientação escolar dos alunos dos estabelecimentos oficiais e particulares de ensino;
+
+e) Prestar apoio técnico e pedagógico aos professores e aos órgãos de administração e gestão dos estabelecimentos de ensino não superior, de modo a melhorar a qualidade do ensino ministrado e o funcionamento e organização pedagógica dos referidos estabelecimentos;
+
+f) Assegurar a distribuição de documentação pedagógica e de material áudio-visual de apoio;
+
+g) Definir, em articulação com as instituições de ensino superior, a rede de núcleos de estágios do ramo educacional e das licenciaturas em Ensino;
+
+h) Apoiar logisticamente o sistema de profissionalização em serviço e o de formação, ligado ao ramo educacional e às licenciaturas em Ensino;
+
+i) Realizar os concursos para atribuição de bolsas de estudo no âmbito das acções da extensão educativa;
+
+j) Assegurar a emissão de certificados respeitantes à extensão educativa e analisar os pedidos de avaliação final do 1.º e 2.º ciclos fora da época normal e de dispensa de habilitações literárias para efeitos de promoção de emprego;
+
+l) Assegurar a apreciação das queixas apresentadas por alunos ou encarregados de educação e analisar os recursos apresentados na sequência do exercício da acção disciplinar respeitante a alunos, fazendo-os transitar para a respectiva delegação regional da Inspecção-Geral da Educação, sempre que for caso disso;
+
+m) Desenvolver as acções necessárias ao ingresso no ensino superior, procedendo, nomeadamente, à inscrição de candidaturas e afixação de resultados.
+
+4 - À Divisão de Acção Social e Desporto Escolar compete, em especial:
+
+a) Proceder à análise e diagnóstico da situação sócio-económica dos destinatários do apoio social escolar, de forma a possibilitar a determinação de respostas adequadas às carências verificadas;
+
+b) Colaborar no planeamento das acções que visem melhorar as condições de acesso à escola e o rendimento escolar dos alunos, com relevância para o período de escolaridade obrigatória;
+
+c) Assegurar e acompanhar o apoio social escolar nas suas várias vertentes, em especial no que se refere à alimentação e alojamento dos alunos, de saúde escolar e nos demais complementos educativos previstos na lei;
+
+d) Assegurar e acompanhar as actividades de educação física e desporto escolar, colaborando com os serviços centrais competentes na definição de prioridades neste domínio.
+
+###### Artigo 16.º — Repartição de Administração Geral
+
+1 - A Repartição de Administração Geral, abreviadamente designada por RAG, exerce as suas competências nas áreas da gestão e controlo orçamental, da gestão patrimonial, da administração do pessoal, do arquivo e do expediente.
+
+2 - A RAG compreende as seguintes secções:
+
+a) Secção de Administração Financeira e Patrimonial;
+
+b) Secção de Pessoal, Expediente e Arquivo.
+
+3 - As secções da RAG exercem as suas competências em articulação com a Secretaria-Geral do Ministério.
+
+###### Artigo 17.º
+
+#### Secção de Administração Financeira e Patrimonial
+
+À Secção de Administração Financeira e Patrimonial compete:
+
+a) Assegurar a elaboração do orçamento anual e dos orçamentos suplementares da DRE;
+
+b) Processar as requisições mensais de fundos por conta das dotações consignadas à DRE no Orçamento do Estado;
+
+c) Organizar a conta anual de gerência e preparar os elementos indispensáveis à elaboração do relatório financeiro;
+
+d) Elaborar indicadores de gestão que permitam acompanhar a evolução da situação financeira;
+
+e) Assegurar a gestão de recursos financeiros, contabilizar o seu movimento e promover os pagamentos autorizados;
+
+f) Verificar e processar todos os documentos de despesa remetidos pelos diversos serviços e organizar os respectivos processos;
+
+g) Informar os processos de pessoal e de material, no que respeita à sua legalidade e cabimentação;
+
+h) Controlar o movimento de tesouraria, efectuando mensalmente o seu balanço;
+
+i) Assegurar a inventariação do património afecto à DRE;
+
+j) Assegurar a gestão de viaturas automóveis afectas à DRE;
+
+l) Organizar os concursos públicos e a celebração de contratos para aquisição de bens e serviços;
+
+m) Assegurar a gestão dos serviços de economato, procedendo ao apetrechamento dos serviços.
+
+###### Artigo 18.º
+
+#### Secção de Pessoal, Expediente e Arquivo
+
+À Secção de Pessoal, Expediente e Arquivo compete:
+
+a) Assegurar a gestão do pessoal da DRE, nomeadamente, no que se refere à mobilidade profissional, organização e actualização do respectivo cadastro;
+
+b) Superintender no pessoal auxiliar e coordenar a organização do respectivo trabalho;
+
+c) Executar as tarefas inerentes à recepção, classificação, expedição e arquivo de todo o expediente da DRE;
+
+d) Assegurar o funcionamento do arquivo geral e a sua articulação com os arquivos dos vários serviços.
+
+###### Artigo 19.º — Juntas médicas regionais
+
+1 - Junto de cada DRE funciona uma junta médica regional.
+
+2 - As juntas médicas regionais integram três médicos, dois designados pela DRE e um designado pela correspondente administração regional de saúde.
+
+3 - As juntas médicas regionais são competentes para apreciar processos relativos a pessoal docente dos estabelecimentos de ensino não superior.
+
+### CAPÍTULO III — Pessoal
+
+###### Artigo 20.º — Quadros de pessoal dirigente e de afectação
+
+1 - O quadro do pessoal dirigente de cada DRE é o constante do anexo I ao presente diploma, que dele faz parte integrante.
+
+2 - O restante pessoal de cada DRE consta de um quadro de afectação, integrado por pessoal do quadro único do Ministério da Educação e fixado por despacho do Ministro da Educação.
+
+3 - A afectação às DRE do pessoal do quadro único é feita, sob proposta do director regional, por despacho do secretário-geral do Ministério da Educação.
+
+4 - A distribuição do pessoal pelos serviços e sectores de cada DRE é da competência do respectivo director regional.
+
+###### Artigo 21.º — Incentivos à fixação na periferia
+
+Para assegurar uma racional distribuição de efectivos, serão aplicados os mecanismos de fixação na periferia legalmente previstos.
+
+### CAPÍTULO IV — Disposições finais e transitórias
+
+###### Artigo 22.º — Direcções e delegações escolares
+
+1 - São extintas as direcções escolares actualmente integradas nas DRE.
+
+2 - O pessoal que exerça funções nas direcções escolares é integrado no quadro único do Ministério.
+
+3 - As delegações escolares serão extintas à medida que forem sendo criadas as áreas escolares previstas no regime de direcção, administração e gestão, aprovado pelo [Decreto-Lei n.º 172/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1991-612219), de 10 de Maio.
+
+###### Artigo 23.º — Medicina pedagógica
+
+1 - No final do corrente ano lectivo serão extintos os centros de medicina pedagógica.
+
+2 - As competências, no âmbito da saúde escolar, actualmente desempenhadas pelos centros referidos no número anterior, são transferidas para a Direcção de Serviços de Assuntos Técnico-Pedagógicos, Acção Social e Desporto Escolar, que, para o efeito, poderá celebrar protocolos com instituições de saúde ou contratos de prestação de serviços.
+
+3 - É criado o quadro transitório constante do anexo II ao presente diploma e que dele faz parte integrante, para o qual transita o seguinte pessoal que presta serviço nos centros de medicina pedagógica:
+
+a) Pessoal da carreira de médico escolar;
+
+b) Pessoal da carreira técnica superior de serviço social;
+
+c) Pessoal da carreira técnica de enfermagem;
+
+d) Pessoal da carreira técnica de diagnóstico e terapêutica;
+
+e) Pessoal da carreira técnico-profissional;
+
+f) Pessoal da categoria de visitador escolar.
+
+4 - O pessoal do quadro transitório previsto no número anterior é gerido pela Secretaria-Geral do Ministério.
+
+5 - Os lugares criados nos termos do número anterior são extintos à medida que vagarem.
+
+###### Artigo 24.º — Norma revogatória
+
+1 - São revogados:
+
+a) O [Decreto-Lei n.º 211/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1981-580164), de 13 de Julho, excepto os seus artigos 5.º, 6.º, 7.º e 29.º e o seu capítulo III, com as alterações introduzidas pelo artigo 1.º do [Decreto-Lei n.º 126/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1983-309932), de 9 de Março, e os restantes artigos deste último diploma;
+
+b) O [Decreto-Lei n.º 256/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1984-381677), de 27 de Julho;
+
+c) O [Decreto-Lei n.º 107/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1986-227046), de 21 de Maio;
+
+d) O [Decreto-Lei n.º 361/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1989-549390), de 18 de Outubro;
+
+e) O [Decreto-Lei n.º 386/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1990-565387), de 10 de Dezembro;
+
+2 - A eficácia da revogação prevista na alínea c) do número anterior reporta-se à data da aplicação dos mecanismos estabelecidos no n.º 2 do artigo anterior.
+
+Visto e aprovado em Conselho de Ministros de 28 de Janeiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - António Fernando Couto dos Santos - Arlindo Gomes de Carvalho.
+
+Promulgado em 2 de Abril de 1993.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 6 de Abril de 1993.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/097a00/20412047.pdf)
+
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/097a00/20412047.pdf)

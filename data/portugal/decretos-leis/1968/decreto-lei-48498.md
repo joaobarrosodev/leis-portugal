@@ -1,0 +1,616 @@
+---
+schema_version: '1.0'
+id: pt:dre:273612:por
+title: Decreto-Lei n.º 48498
+short_title: null
+summary: Introduz modificações nos quadros do pessoal e na orgânica dos serviços do Ministério
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas - Gabinete do Ministro
+proposing_entity: null
+official_number: '48498'
+official_date: null
+publication_date: '1968-07-24'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 174/1968, Série I de 1968-07-24
+  number: '174'
+  series: I
+  supplement: null
+  pages: 1072 - 1080
+  pdf_url: https://files.diariodarepublica.pt/1s/1968/07/17400/10721080.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '273612'
+  dre_path: /dr/detalhe/decreto-lei/48498-1968-273612
+  internal: pt:dre:273612:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48498-1968-273612
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48498-1968-273612
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:06:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d6bb5835419439d30cabd8fd1d2b344c398e273fce03b3a958ed80602547c47a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:06:09Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho Superior de Obras Públicas
+- Direcção Geral dos Edifícios e Monumentos Nacionais
+- Direcção Geral dos Serviços de Urbanização
+- Direcção Geral dos Serviços Hidráulicos
+- Junta Autónoma das Estradas
+- Ministério das Obras Públicas
+- Promoção Profissional
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:472337:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:526036:por
+  label: "Alterado o art. 13º pelo DEC LEI.48943.28.03.1969.MOP, DG.IS [74] de 28.03.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48943-1969-526036
+  date: '1969-03-28'
+- type: amended_by
+  target: pt:dre:216112:por
+  label: "Alterado o art. 1º e o nº 1 do art. 35º, pelo DEC LEI.49283.1969.10.04.MOP, DG.IS [233]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49283-1969-216112
+  date: '1969-10-04'
+- type: amended_by
+  target: pt:dre:139239:por
+  label: "Alterada a al i) do art. 3º e o art. 29º, pelo DEC LEI.372/70.1970.08.11.MOP, DG.IS [185]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/372-1970-139239
+  date: '1970-08-11'
+- type: amended_by
+  target: pt:dre:676440:por
+  label: "Alterado, no referente ao pessoal dirigente, o quadro de pessoal da Junta Autónoma das Estradas constante do mapa\
+    \ VI anexo pelo DEC LEI.313/72.17.08.1972.MOP, DG.IS [191] de 17.08.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/313-1972-676440
+  date: '1972-08-17'
+- type: amended_by
+  target: pt:dre:160276:por
+  label: "Alterado o art. 3º ( na redacção do Dec Lei 372/70, de 11-Ago) do presente diploma, pelo DEC LEI.85/75.25.02.1975.MESA,\
+    \ DG.IS [47] de 25.02.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-1975-160276
+  date: '1975-02-25'
+- type: amended_by
+  target: pt:dre:314915:por
+  label: "Alterado o quadro de pessoal da Direcção de Obras Públicas da Horta pelo DEC LEI.458/75.1975.08.22.MESA, DR.IS [193]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/458-1975-314915
+  date: '1975-08-22'
+- type: amended_by
+  target: pt:dre:312060:por
+  label: "Alterada a al. n) do art. 3º pelo DEC LEI.535/75.26.09.1975.MESA, DG.IS [223] de 26.09.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/535-1975-312060
+  date: '1975-09-26'
+- type: amended_by
+  target: pt:dre:141377:por
+  label: Alterada a al. m) do art. 3.º pelo(a) Decreto n.º 14/77 - Diário da República n.º 36/1977, Série I de 1977-02-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/14-1977-141377
+  date: '1977-02-12'
+- type: cites
+  target: pt:dre:185752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690220:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:276057:por
+  label: "Rectificado o mapa I anexo pela RECT.DD509.12.08.1968.PC, DG.IS [190] de 12.08.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1968-276057
+  date: '1968-08-12'
+- type: repealed_by
+  target: pt:dre:474753:por
+  label: "Revogado o artigo 2.º, o artigo 3.º (na redacção dos Decretos-Leis n.ºs 372/76, de de 11 de Agosto, 85/75, de 25\
+    \ de Fevereiro, 535/75, de 26 de Setembro, e do Decreto 14/77), os artigos 4.º a 10.º, o artigo 13.º (na redacção do Decreto-Lei\
+    \ n.º 48943, de 28 de Março de 1969) e o artigo 14.º pelo DEC LEI.183/80.04.06.1980.MHOP, DR.IS [129] de 04.06.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-1980-474753
+  date: '1980-06-04'
+article_structure:
+  article_count: 0
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:06:09Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 48498
+
+Considerando que o desenvolvimento de trabalhos e do campo de acção dos serviços do Ministério das Obras Públicas e a crescente dificuldade de recrutamento de técnicos impõem a necessidade de introduzir algumas modificações nos quadros do pessoal - fixados há uma vintena de anos - e de neles integrar técnicos que há muito se mantêm ao serviço do Estado na situação de contratados;
+
+Considerando a conveniência de proceder a pequenos ajustamentos na orgânica dos serviços e de reunir disposições dispersas sobre o seu funcionamento;
+
+Considerando que umas e outras destas medidas não prejudicam, nem dispensam, a reorganização a fazer no quadro geral da reforma administrativa:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+I) Pessoal
+
+Artigo 1.º São aprovados os quadros do pessoal constantes dos mapas anexos a este diploma e que dele fazem parte integrante.
+
+§ único. Considerar-se-ão extintos logo que vagarem: um dos lugares de chefe de secção de cada um dos mapas IV e V; quinze lugares de chefe de conservação de 1.ª classe do mapa VI.
+
+Art. 2.º O Ministro das Obras Públicas fixará, por despacho, a distribuição dos adjuntos técnicos de cada quadro, por especialidades, segundo as necessidades dos serviços.
+
+Art. 3.º São providos por escolha do Ministro os seguintes lugares:
+
+a) Presidente do Conselho Superior de Obras Públicas - entre os directores-gerais, presidente da Junta Autónoma de Estradas, engenheiros inspectores-gerais de obras públicas e engenheiros inspectores superiores de obras públicas;
+
+b) Directores-gerais e presidente da Junta Autónoma de Estradas - em comissão de serviço, entre engenheiros inspectores-gerais de obras públicas, engenheiros inspectores superiores de obras públicas, engenheiros directores de serviços dos quadros do Ministério ou engenheiros de reconhecida competência estranhos aos quadros;
+
+c) Engenheiros inspectores-gerais de obras públicas - entre engenheiros inspectores superiores de obras públicas, por nomeação vitalícia para a presidência das secções do Conselho Superior de Obras Públicas. Se a não tiverem já, adquirem também, a título vitalício, a categoria de inspectores-gerais de obras públicas os engenheiros nomeados para exercer os cargos de directores-gerais e de presidente da Junta Autónoma de Estradas;
+
+d) Engenheiros inspectores superiores de obras públicas - entre engenheiros civis com as categorias de director de serviços, chefe de divisão ou chefe de repartição e engenheiros civis-chefes ou de 1.ª classe dos quadros dos Ministérios das Obras Públicas e das Comunicações;
+
+e) Engenheiro inspector superior electrotécnico - entre engenheiros electrotécnicos com as categorias de director de serviços, chefe de divisão ou chefe de repartição e engenheiros electrotécnicos-chefes ou de 1.ª classe dos quadros dos mesmos Ministérios;
+
+f) Arquitectos inspectores superiores de obras públicas - entre arquitectos com as categorias de director de serviços, chefe de divisão ou chefe de repartição e arquitectos-chefes ou de 1.ª classe dos quadros dos referidos Ministérios;
+
+g) Engenheiros directores de serviços - entre engenheiros civis chefes de divisão e engenheiros civis-chefes ou de 1.ª classe dos respectivos quadros ou entre engenheiros civis de reconhecida competência estranhos aos quadros;
+
+h) Director dos Serviços de Monumentos Nacionais - entre o arquitecto chefe da respectiva divisão técnica e os arquitectos-chefes ou de 1.ª classe do quadro da Direcção-Geral dos Edifícios e Monumentos Nacionais ou entre arquitectos de reconhecida competência estranhos ao quadro;
+
+i) Engenheiros e arquitectos chefes de divisões técnicas - entre engenheiros ou arquitectos-chefes ou de 1.ª classe dos respectivos quadros ou entre engenheiros ou arquitectos de reconhecida competência estranhos aos quadros;
+
+j) Agrónomo chefe da Divisão de Estudos Agronómicos e Económico-Sociais - entre agrónomos-chefes ou de 1.ª classe do quadro da Direcção-Geral dos Serviços Hidráulicos ou entre agrónomos de reconhecida competência estranhos ao quadro:
+
+k) Director do Gabinete de Estudos e Organização da Junta Autónoma de Estradas - entre engenheiros civis-chefes ou de 1.ª classe do quadro da Junta ou entre engenheiros civis de reconhecida competência estranhos aos quadros;
+
+l) Secretário do Conselho Superior de Obras Públicas - entre engenheiros civis-chefes ou de 1.ª classe dos quadros do Ministério;
+
+m) Chefes de repartição dos serviços administrativos - entre chefes de secção dos respectivos quadros com a licenciatura em Direito, Ciências Económicas e Financeiras, Economia ou Finanças e com mais de três anos de serviço no cargo, que tenham revelado boas qualidades de zelo e assiduidade e de direcção, ou entre indivíduos estranhos aos quadros habilitados com aquelas licenciaturas;
+
+n) Directores dos serviços externos e chefes de brigadas de estudos - em comissão de serviço, entre engenheiros ou arquitectos-chefes ou de 1.ª classe e, ainda, quando as conveniências do serviço o exigirem, entre engenheiros ou arquitectos de 2.ª classe dos respectivos quadros;
+
+o) Telefonistas- entre telefonistas de aptidão comprovada;
+
+p) Correio - entre os contínuos de 1.ª classe dos diversos serviços do Ministério habilitados com a carta de condução de veículos ligeiros;
+
+q) Guarda-portões - entre os contínuos de 1.ª ou classe dos diversos serviços do Ministério.
+
+Art. 4.º As funções de director-geral e de presidente da Junta Autónoma de Estradas serão exercidas em comissão, pelo período de três anos, sucessivamente renovável, podendo o Ministro livremente dar a comissão por finda a todo o tempo.
+
+Art. 5.º A escolha dos engenheiros e arquitectos inspectores superiores far-se-á entre os candidatos aprovados em concurso documental aberto obrigatòriamente entre os funcionários que tenham mais de seis anos de bom e efectivo serviço no exercício de funções nas categorias referidas nas alíneas d), e) e f) do artigo 3.º
+
+A escolha de engenheiros e arquitectos dos quadros do Ministério das Comunicações carece de aprovação do respectivo Ministro.
+
+Art. 6.º As nomeações para os cargos referidos nas alíneas g), h), i), j), k), l) e m) do artigo 3.º só poderão tornar-se definitivas depois de um ano de bom e efectivo serviço.
+
+Art. 7.º Para a admissão aos lugares abaixo designados serão exigíveis as seguintes habilitações mínimas ou outras equivalentes ou que vierem a corresponder-lhes:
+
+Adjuntos técnicos: cursos de Construção Civil e Minas, de Electrotecnia e Máquinas e de Química Laboratorial e Industrial dos institutos industriais e do Instituto Técnico Militar dos Pupilos do Exército; curso das escolas de regentes agrícolas.
+
+Topógrafos, desenhadores e hidrometristas: curso completo das escolas industriais ou o 2.º ciclo do actual curso liceal.
+
+Terceiro-oficial e pagador de 3.ª classe: curso completo das escolas comerciais ou o 2.º ciclo do actual curso liceal.
+
+Chefe de conservação e chefe de lanço: ciclo preparatório do ensino secundário.
+
+Auxiliares de campo: curso das escolas práticas de agricultura.
+
+Escriturários de 1.ª classe: ciclo preparatório do ensino secundário.
+
+Fiéis, telefonistas, dactilógrafos, contínuos e serventes: 4.ª classe da instrução primária.
+
+Motoristas: carta de condução de veículos ligeiros e 4.ª classe da instrução primária.
+
+Art. 8.º Nos lugares a que correspondam alternativamente duas classes, os funcionários respectivos poderão ser promovidos mediante concurso, depois de três anos de bom e efectivo serviço na categoria e na classe de admissão.
+
+Art. 9.º O secretário do Conselho Superior de Obras Públicas, quando for engenheiro de 1.ª classe, poderá ser promovido a engenheiro-chefe mediante concurso, depois de três anos de bom e efectivo serviço na categoria e naquela classe.
+
+Art. 10.º O lugar de tesoureiro da Junta Autónoma de Estradas será provido por escolha entre os oficiais de secretaria do quadro daquele organismo.
+
+§ único. O tesoureiro terá direito ao abono mensal de 400$00 para falhas.
+
+Art. 11.º O primeiro provimento das vagas resultantes da alteração dos quadros aprovados por este diploma, incluindo o preenchimento dos lugares de direcção e chefia, será feito segundo normas a aprovar pelo Ministro das Obras Públicas, sem prejuízo do disposto na legislação em vigor em matéria de habilitações, e nos seguintes termos:
+
+a) De entre os funcionários vitalícios e contratados dos actuais quadros de cada um dos serviços, consoante a sua especialização, categorias e antiguidades;
+
+b) Por ingresso nos quadros, consoante as habilitações que possuírem e a respectiva antiguidade, em lugares da mesma categoria ou equivalente e, tanto quanto possível, em classe correspondente àquela a que se encontrem equiparados, com dispensa de concurso e do limite de idade máximo, para admissão em lugares de acesso dos servidores do Ministério das Obras Públicas que à data da entrada em vigor deste diploma, e há mais de três anos, se encontrem a desempenhar, com boas informações, funções fora dos quadros permanentes em regime de contrato
+
+ou sob qualquer outro título e, bem assim, os que na mesma data exerçam o cargo em regime de interinidade ou sejam abonados por subsídios ou comparticipações do Fundo de Desemprego.
+
+Art. 12.º O Ministro das Obras Públicas fará publicar, no prazo de 60 dias, a contar da data da publicação deste diploma, as relações do pessoal com a indicação dos lugares que fica ocupando em conformidade com o disposto no artigo anterior, considerando-se os funcionários neles definitivamente providos a partir do dia 1 do mês seguinte, com dispensa das formalidades legais, incluindo o visto do Tribunal de Contas e posse.
+
+Art. 13.º Para preenchimento dos lugares vagos dos quadros que não sejam preenchidos ao abrigo do artigo anterior poderá o Ministro das Obras Públicas autorizar que sejam opositores facultativos nos respectivos concursos de promoção funcionários sem o tempo mínimo de serviço fixado no artigo 2.º do [Decreto n.º 27236](https://diariodarepublica.pt/dr/detalhe/decreto/27236-1936-322962), de 23 de Novembro de 1936.
+
+Art. 14.º Aos concursos de promoção a topógrafos-chefes serão admitidos topógrafos de 1.ª classe com mais de três anos de bom e efectivo serviço nesta classe.
+
+Art. 15.º É tornado extensivo aos chefes de brigadas de estudos da Junta Autónoma de Estradas o disposto no artigo 40.º do [Decreto-Lei n.º 26117](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26117-1935-636887), de 23 de Novembro de 1935, para os directores dos serviços externos.
+
+Art. 16.º O limite de idade mínimo para o ingresso, em primeira nomeação, no quadro de pagadores de obras públicas é fixado em 21 anos.
+
+Art. 17.º Quando a peculiar natureza do serviço o impuser, poderá, mediante autorização do Ministro das Obras Públicas, ser restrita a candidatos do sexo masculino a apresentação aos concursos de admissão ou limitado o número de candidatos do sexo feminino a admitir.
+
+Art. 18.º Os funcionários dos quadros do Ministério das Obras Públicas, ou que neles ingressem por força do disposto no presente diploma, já inscritos ou a inscrever na Caixa Geral de Aposentações poderão ter a sua inscrição reportada à data em que foram admitidos ao serviço do Estado, mediante o pagamento da quota legal e da indemnização devida, nos termos do disposto no artigo 12.º e seus § 1.º e 2.º do [Decreto-Lei n.º 26503](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26503-1936-690220), de 6 de Abril de 1936, e no artigo 11.º e seu § único do [Decreto-Lei n.º 41387](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41387-1957-251643), de 22 de Novembro de 1957.
+
+§ único. É concedido o prazo de 180 dias, contado a partir da data do presente decreto-lei, a todo o pessoal abrangido pelo disposto no corpo deste artigo para requerer, querendo, a contagem de todo o tempo de serviço já prestado ao Estado em qualquer situação, inclusive a de assalariamento, ainda que remunerado através de verbas globais.
+
+Art. 19.º Os actuais directores-gerais do Ministério, o presidente da Junta Autónoma de Estradas e o engenheiro inspector superior de obras públicas que actualmente desempenha, interinamente, o cargo de director-geral dos Serviços Hidráulicos são colocados, a título vitalício e com dispensa de todas as formalidades legais, incluindo o visto do Tribunal de Contas e posse, no quadro do Conselho Superior de Obras Públicas, na categoria de engenheiros inspectores gerais de obras públicas, passando a exercer aqueles primeiros cargos em comissão de serviço nos termos do artigo 4.º
+
+II) Serviços
+
+1) Conselho Superior de Obras Públicas
+
+Art. 20.º O Conselho Superior de Obras Públicas terá a seguinte composição:
+
+a) Um presidente;
+
+b) Os engenheiros inspectores gerais de obras públicas em serviço no Conselho;
+
+c) Onze engenheiros inspectores superiores de obras públicas ;
+
+d) Um engenheiro inspector superior electrotécnico;
+
+e) Dois arquitectos inspectores superiores de obras públicas;
+
+f) Os directores-gerais e funcionários de categoria equivalente dos Ministérios das Obras Públicas e das Comunicações, os directores de serviços técnicos dos mesmos Ministérios e o presidente do Conselho Superior dos Transportes Terrestres;
+
+g) O director do Instituto Hidrográfico e os chefes dos serviços de hidrografia e de oceanografia do mesmo Instituto;
+
+h) Um ajudante do procurador-geral da República;
+
+i) Um oficial superior do Estado-Maior do Exército;
+
+j) Os professores de Estradas e Aeródromos, de Caminhos de Ferro, de Pontes e Estruturas Especiais, de Estabilidade das Estruturas, de Trabalhos Fluviais e Marítimos, de Hidráulica Aplicada, de Construções Civis, de Urbanização, de Aplicações de Electricidade e de Turbomáquinas do Instituto Superior Técnico ou da Faculdade de Engenharia da Universidade do Porto;
+
+k) Um representante do director-geral de Saúde e um representante do director-geral dos Hospitais;
+
+l) O director-geral dos Serviços Eléctricos, o director-geral dos Serviços Florestais e Aquícolas, o presidente da Junta de Colonização Interna e um dos engenheiros inspectores superiores electrotécnicos da Direcção-Geral dos Serviços Eléctricos;
+
+m) Um engenheiro civil e um arquitecto especializados em urbanização, um engenheiro civil especializado em aproveitamentos hidroeléctricos, dois engenheiros civis especializados em estruturas, um engenheiro civil especializado em hidráulica marítima, um engenheiro agrónomo especializado em economia agrícola e um geólogo com prática de fundações, da livre escolha do Ministro das Obras Públicas, de entre técnicos de reconhecida competência e com larga prática de trabalhos da sua especialidade;
+
+n) Um secretário, sem voto.
+
+§ único. No caso de não haver professor de qualquer das cadeiras a que se refere a alínea j), numa ou noutra das escolas, a nomeação poderá recair sobre o assistente que exerça a respectiva função docente, enquanto nesta função se mantiver.
+
+Art. 21.º Cabe aos Ministros da Justiça, do Exército, da Educação Nacional e da Saúde e Assistência e ao Secretário de Estado da Indústria designar, respectivamente, os vogais a que Se referem as alíneas h), i), j) e k) do artigo anterior e o engenheiro inspector superior electrotécnico a que se refere a alínea l) do mesmo artigo.
+
+Art. 22.º Os vogais referidos nas alíneas f), g) e l) do artigo 20.º, exceptuando o engenheiro inspector superior electrotécnico da Direcção-Geral dos Serviços Eléctricos, exercem as suas atribuições como função inerente aos respectivos cargos; os vogais a que se referem as alíneas i) e j) exercem-nas por períodos não superiores a três anos seguidos; os vogais a que se referem as alíneas h) e k) e bem assim o inspector superior electrotécnico referido na alínea l), exercem as suas atribuições pelo tempo que lhes for determinado; os vogais referidos na alínea m) exercem-nas em comissão, de duração não superior a seis anos seguidos.
+
+Art. 23.º O Conselho Superior de Obras Públicas divide-se nas seguintes secções:
+
+#### Secção Permanente.
+
+1.ª Secção (Estradas e Caminhos de Ferro).
+
+2.ª Secção (Hidráulica).
+
+3.ª Secção (Urbanização e Edifícios), com duas subsecções:
+
+1.ª Subsecção (Urbanização).
+
+2.ª Subsecção (Edifícios).
+
+§ 1.º A Secção Permanente funcionará como órgão de coordenação das actividades do Ministério das Obras Públicas e incumbe-lhe dar os pareceres que forem especialmente determinados pelo Ministro.
+
+§ 2.º A apreciação de assunto cujo estudo se não enquadre em qualquer das secções será confiada a um grupo de trabalho eventual, para o efeito constituído pelo Ministro das Obras Públicas, sob proposta do presidente do Conselho Superior de Obras Públicas.
+
+Art. 24.º A Secção Permanente do Conselho Superior de Obras Públicas será constituída pelo presidente, directores-gerais do Ministério, presidente da Junta Autónoma de Estradas e director do Laboratório Nacional de Engenharia Civil.
+
+Art. 25.º Por despacho ministerial, sob proposta do presidente do Conselho Superior de Obras Públicas, baseada tanto quanto possível na respectiva especialização, serão os vogais referidos nas alíneas b), c) , d) e e) do artigo 20.º distribuídos como segue, podendo cada um fazer parte de mais de uma das seguintes secções:
+
+1.ª Secção: cinco engenheiros inspectores-gerais e engenheiros inspectores superiores de obras públicas, o engenheiro inspector superior electrotécnico e um arquitecto inspector superior de obras públicas.
+
+2.ª Secção: cinco engenheiros inspectores-gerais e engenheiros inspectores superiores de obras públicas, o engenheiro inspector superior electrotécnico e um arquitecto inspector superior de obras públicas.
+
+3.ª Secção: nove engenheiros inspectores-gerais e engenheiros inspectores superiores de obras públicas, o engenheiro inspector superior electrotécnico e os arquitectos inspectores superiores de obras públicas.
+
+Os vogais referidos nas alíneas f) a m) do artigo 20.º serão distribuídos pelas três secções pelo presidente do Conselho Superior de Obras Públicas.
+
+§ único. Ao presidente da 3.ª Secção compete distribuir os respectivos vogais pelas Subsecções de Urbanização e Edifícios, de harmonia com as conveniências do serviço.
+
+Art. 26.º A Secção Permanente será presidida pelo presidente do Conselho Superior de Obras Públicas e as restantes secções por engenheiros inspectores-gerais de obras públicas, nomeados nos termos da alínea c) do artigo 3.º
+
+Art. 27.º Por cada sessão a que assistirem os vogais referidos nas alíneas f) a m) do artigo 20.º, com excepção daqueles que pertençam à Secção Permanente, têm direito ao abono de 150$00.
+
+O presidente e vogais da Secção Permanente têm direito a uma gratificação mensal a fixar pelo Ministro das Obras Públicas, com o acordo do Ministro das Finanças, acumulável com quaisquer vencimentos e gratificações, mesmo que ultrapassem o limite legal
+
+Art. 28.º Os engenheiros inspectores-gerais de obras públicas ficam abrangidos pelo disposto no § 1.º do artigo 18.º e no artigo 20.º do [Decreto-Lei n.º 37015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37015-1948-384219), de 16 de Agosto de 1948.
+
+2) Direcção-Geral dos Edifícios e Monumentos Nacionais
+
+Art. 29.º A Direcção-Geral dos Edifícios e Monumentos Nacionais disporá dos seguintes serviços técnicos e administrativos :
+
+1) Direcção dos Serviços de Construção, compreendendo uma Divisão de Construção de Edifícios e uma Secção de Expediente Técnico;
+
+2) Direcção dos Serviços de Conservação, compreendendo uma Divisão de Conservação de Edifícios e uma Secção de Expediente Técnico;
+
+3) Direcção dos Serviços dos Monumentos Nacionais, compreendendo uma Divisão Técnica e uma Secção de Expediente Técnico;
+
+4) Divisão de Electrotecnia e Mecânica;
+
+5) Repartição dos Serviços Administrativos, compreendendo:
+
+a) Secção de Contabilidade;
+
+b) Secção de Expediente Geral e Pessoal;
+
+c) Secção de Estatística e Armazéns (transitòriamente);
+
+6) Direcções externas do Norte, do Centro, de Lisboa e do Sul, com sedes, respectivamente, no Porto, em Coimbra, em Lisboa e em Évora.
+
+Art. 30.º O conselho consultivo, que funciona junto da Direcção-Geral dos Edifícios e Monumentos Nacionais, nos termos do artigo 11.º do [Decreto-Lei n.º 36314](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36314-1947-185752), de 31 de Maio de 1947, passa a ter a seguinte constituição:
+
+1) O director-geral, que servirá de presidente;
+
+2) Os directores dos serviços;
+
+3) Dois vogais da livre escolha do Ministro das Obras Públicas;
+
+4) Um representante do Secretariado Nacional da Informação, Cultura Popular e Turismo;
+
+5) Um representante da Direcção-Geral dos Serviços de Urbanização;
+
+6) Um representante da 2.ª secção da Junta Nacional da Educação;
+
+7) Um representante da Direcção-Geral da Previdência e Habitações Económicas;
+
+8) Um representante do Sindicato Nacional dos Arquitectos;
+
+9) O chefe da Repartição dos Serviços Administrativos, que servirá de secretário, sem voto.
+
+§ 1.º Cada um dos vogais das alíneas 4) a 7) terá um suplente, que o substituirá na sua falta ou impedimento.
+
+§ 2.º Os vogais do conselho consultivo não funcionários do Estado terão direito à gratificação mensal de 500$00, isenta de quaisquer descontos e imposições legais, com excepção do imposto do selo.
+
+3) Direcção-Geral dos Serviços Hidráulicos
+
+Art. 31.º A Direcção-Geral dos Serviços Hidráulicos disporá dos seguintes serviços técnicos e administrativos:
+
+1) Direcção dos Serviços Marítimos, compreendendo:
+
+a) Divisão de Estudos e Projectos;
+
+b) Divisão de Obras;
+
+c) Divisão de Dragagens;
+
+d) Secção de Expediente Técnico.
+
+2) Direcção dos Serviços Fluviais, compreendendo:
+
+a) Divisão de Construção;
+
+b) Divisão de Conservação;
+
+c) Direcções externas do Douro, do Mondego, do Tejo e do Guadiana, com sedes, respectivamente, no Porto, em Coimbra, em Lisboa e em Faro;
+
+d) Secção de Expediente Técnico.
+
+3) Direcção dos Serviços de Aproveitamentos Hidráulicos, compreendendo:
+
+a) Divisão de Estudos Agronómicos e Económico-Sociais;
+
+b) Divisão de Estudos e Projectos;
+
+c) Divisão de Obras;
+
+d) Divisão de Concessões;
+
+e) Secção de Expediente Técnico.
+
+4) Repartição dos Serviços Administrativos, compreendendo:
+
+a) Secção de Contabilidade;
+
+b) Secção de Expediente Geral e Pessoal;
+
+c) Secção de Estatística e Armazéns (transitòriamente).
+
+Art. 32.º O conselho consultivo, que funciona junto da Direcção-Geral dos Serviços Hidráulicos, nos termos do artigo 10.º do [Decreto-Lei n.º 37707](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37707-1949-268384), de 30 de Dezembro de 1949, passa a ter a seguinte constituição:
+
+1) O director-geral, que servirá de presidente;
+
+2) O vice-presidente;
+
+3) Um ajudante do procurador-geral da República;
+
+4) Os directores dos serviços;
+
+5) O professor da Hidráulica Aplicada do Instituto Superior Técnico ou da Faculdade de Engenharia da Universidade do Porto;
+
+6) O professor de Hidráulica Geral e Agrícola do Instituto Superior de Agronomia;
+
+7) Um representante da Direcção-Geral dos Serviços Eléctricos;
+
+8) Um representante da Direcção-Geral dos Serviços Agrícolas;
+
+9) Um representante da Direcção-Geral dos Serviços Florestais e Aquícolas;
+
+10) Um representante da Junta de Colonização Interna;
+
+11) Um representante da Direcção-Geral de Minas e Serviços Geológicos;
+
+12) Um representante da Direcção-Geral de Saúde;
+
+13) Um representante da Comissão de Fiscalização das Obras dos Grandes Aproveitamentos Hidroeléctricos;
+
+14) Dois representantes da lavoura;
+
+15) O chefe da Repartição dos Serviços Administrativos, que servirá de secretário, sem voto.
+
+§ 1.º Cabe ao Ministro da Justiça designar o vogal a que se refere a alínea 3); os vogais das alíneas 5) e 6) serão indicados pelo Ministro das Educação Nacional, sendo de observar também aqui o disposto no § único do artigo 20.º do presente diploma; os vogais da alínea 14) serão indicados pela Corporação da Lavoura.
+
+§ 2.º Os vogais das alíneas 5) e 14) serão designados por períodos não superiores a três anos seguidos.
+
+§ 3.º Cada um dos vogais das alíneas 7) a 13) terá um suplente, que o substituirá na sua falta ou impedimento.
+
+§ 4.º Os directores de serviços da Direcção-Geral dos Serviços Hidráulicos participarão nas sessões do conselho consultivo em que sejam tratados assuntos das respectivas direcções de serviços.
+
+§ 5.º Os vogais do conselho consultivo não funcionários do Estado terão direito à gratificação mensal de 500$00, isenta de quaisquer descontos e imposições legais, com excepção do imposto do selo.
+
+§ 6.º O vogal da alínea 5), quando for o professor de Hidráulica Aplicada da Faculdade de Engenharia do Porto, sempre que tenha de comparecer a sessões do conselho consultivo terá direito ao abono, além da requisição de transporte em caminho de ferro para a vinda a Lisboa e regresso, da ajuda de custo ordinária correspondente à sua categoria.
+
+Art. 33.º O vice-presidente do conselho consultivo será nomeado por livre escolha do Ministro das Obras Públicas, de entre os directores de serviços, os engenheiros e o agrónomo chefes de divisão e os engenheiros e os agrónomos-chefes do quadro da Direcção-Geral dos Serviços Hidráulicos.
+
+Art. 34.º O funcionário a que se refere o artigo anterior exercerá as funções de adjunto do director-geral, competindo-lhe ocupar-se de todos os assuntos que por ele lhe sejam cometidos, coordenar os que forem submetidos ao conselho consultivo e substituir o respectivo presidente na sua falta ou impedimento.
+
+4) Junta Autónoma de Estradas
+
+Art. 35.º A Junta Autónoma de Estradas disporá dos seguintes serviços técnicos e administrativos, directamente subordinados ao presidente:
+
+1) Gabinete de Estudos e Organização, compreendendo uma Secção de Estatística e, como serviços externos, três brigadas de estudos, com sedes no Porto, em Coimbra e em Lisboa;
+
+2) Direcção de Serviços de Construção, compreendendo uma Divisão Técnica e uma Secção de Expediente Técnico;
+
+3) Direcção dos Serviços de Conservação, compreendendo:
+
+a) Divisão Técnica;
+
+b) Direcções distritais de estradas;
+
+c) Secção de Expediente Técnico.
+
+4) Direcção dos Serviços de Pontes, compreendendo uma Divisão Técnica e uma Secção de Expediente Técnico;
+
+5) Repartição dos Serviços Administrativos, compreendendo:
+
+a) Secção de Contabilidade e Tesouraria;
+
+b) Secção de Expediente Geral e Pessoal;
+
+c) Secção de Armazéns.
+
+Art. 36.º Constituem a Junta Autónoma de Estradas:
+
+1) O presidente;
+
+2) Um ajudante do procurador-geral da República;
+
+3) Os directores dos serviços;
+
+4) Um representante do Secretariado Nacional da Informação, Cultura Popular e Turismo;
+
+5) Um representante do Estado-Maior do Exército;
+
+6) Um representante da Direcção-Geral dos Serviços de Urbanização;
+
+7) Um representante da Direcção-Geral de Transportes Terrestres;
+
+8) Um representante do Gabinete de Estudos e Planeamento de Transportes Terrestres;
+
+9) Um delegado do Automóvel Clube de Portugal;
+
+10) Quatro representantes das actividades agrícolas, comerciais e industriais;
+
+11) O chefe da Repartição dos Serviços Administrativos, que servirá de secretário, sem voto.
+
+§ 1.º Cada um dos vogais das alíneas 4) a 8) terá um suplente, que o substituirá na sua falta ou impedimento.
+
+§ 2.º Cabe ao Ministro da Justiça designar o vogal a que se refere a alínea 2).
+
+Os vogais da alínea 10) serão indicados pelas Corporações da Lavoura, do Comércio, da Indústria e dos Transportes e Turismo e nomeados por períodos não superiores a três anos seguidos.
+
+§ 3.º Às sessões da Junta assistirá um delegado do Tribunal de Contas, escolhido por este organismo.
+
+§ 4.º Os membros da Junta não funcionários do Estado, com a excepção daquele a que se refere o § 2.º do artigo 15.º do [Decreto-Lei n.º 35434](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35434-1945-462458), terão direito à gratificação mensal de 500$00, isenta de quaisquer descontos e imposições legais, com excepção do imposto do selo.
+
+5) Direcção-Geral dos Servidos de Urbanização
+
+Art. 37.º A Direcção-Geral dos Serviços de Urbanização disporá dos seguintes serviços técnicos e administrativos:
+
+1) Direcção dos Serviços de Planeamento Urbanístico, compreendendo:
+
+a) Divisão de Planeamento;
+
+b) Divisão de Estudos;
+
+c) Secção de Expediente Técnico.
+
+2) Direcção dos Serviços de Melhoramentos Urbanos, compreendendo uma divisão de melhoramentos urbanos e uma secção de expediente técnico;
+
+3) Direcção dos Serviços de Salubridade, compreendendo:
+
+a) Divisão de Abastecimento de Água;
+
+b) Divisão de Saneamento;
+
+c) Secção de Expediente Técnico.
+
+4) Direcção dos Serviços de Melhoramentos Rurais, compreendendo uma Divisão de Melhoramentos Rurais e uma Secção de Expediente Técnico.
+
+5) Repartição dos Serviços Administrativos compreendendo a Secção de Contabilidade e a Secção de Expediente Geral e Pessoal;
+
+6) Vinte direcções externas: uma em cada distrito do continente, uma no distrito do Funchal e uma nos Açores.
+
+III) Disposições diversas
+
+Art. 38.º Os encargos resultantes do presente diploma que não tenham cabimento nas respectivas dotações do Orçamento Geral do Estado serão suportados pelo Fundo de Desemprego.
+
+Art. 39.º A organização dos serviços e a composição dos quadros de pessoal aprovados por este diploma poderão ser modificadas por decreto dos Ministros das Finanças e das Obras Públicas, desde que daí não resulte aumento de despesa.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 24 de Julho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Do MAPA I ao MAPA VIII
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/07/17400/10721080.pdf)
+
+Ministério das Obras Públicas, 24 de Julho de 1968. - O Ministro das Obras Públicas, José Albino Machado Vaz.

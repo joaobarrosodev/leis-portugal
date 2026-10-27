@@ -1,0 +1,168 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:188163:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2000-124194081",
+ "dre_path": "/dr/detalhe/portaria/1226-du-2000-188163",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2000-12-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "124194179"
+   ]
+  },
+  {
+   "date": "2019-08-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124171095:por",
+     "title": "Portaria n.º 261/2019",
+     "published": "2019-08-23",
+     "dre_path": "/dr/detalhe/portaria/261-2019-124171095"
+    }
+   ],
+   "changes": [
+    "Altera 2.º",
+    "Altera 4.º"
+   ],
+   "fragments": [
+    "124194179",
+    "896440501",
+    "896440513",
+    "896440503",
+    "896440514",
+    "896440505",
+    "896440506",
+    "896440507",
+    "896440508",
+    "896440509",
+    "896440510",
+    "896440511",
+    "896440512",
+    "124194180"
+   ]
+  }
+ ],
+ "fragments": {
+  "124194179": {
+   "fragment_id": "124194082",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1226-DU/2000\n\nde 30 de Dezembro\n\nA Lei n.º 147/99, de 1 de Setembro, designada lei de protecção de crianças e jovens em perigo, regula a criação, a competência e o funcionamento das comissões de protecção de crianças e jovens em todos os concelhos do País, determinando que a respectiva instalação seja declarada por portaria conjunta dos Ministros da Justiça e do Trabalho e da Solidariedade.\n\nAcções de informação e articulação entre todas as entidades públicas e particulares intervenientes foram já desenvolvidas no concelho de Oeiras, com vista à reorganização da respectiva comissão de protecção, dando assim cumprimento ao preceituado na lei de protecção.\n\nAssim, ao abrigo do n.º 3 do artigo 3.º da lei preambular e do n.º 3 do artigo 12.º da lei de protecção, manda o Governo, pelos Ministros do Trabalho e da Solidariedade e da Justiça, o seguinte:"
+  },
+  "896440501": {
+   "fragment_id": "896349669",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\n1.º É reorganizada a Comissão de Protecção de Menores do Concelho de Oeiras em Comissão de Protecção de Crianças e Jovens, que fica instalada em edifício da Câmara Municipal."
+  },
+  "896440513": {
+   "fragment_id": "896349670",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": "2019-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 261/2019 - Diário da República n.º 161/2019, Série I de 2019-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/261-2019-124171095), em vigor a partir de 2019-08-24, produz efeitos a partir de 2019-09-01"
+   ],
+   "markdown": "###### 2.º\n\nA comissão alargada, prevista no artigo 17.º da Lei n.º 147/99, de 1 de setembro, que aprova a Lei de Proteção de Crianças e Jovens em Perigo, na sua redação atual, é constituída pelos seguintes elementos:\n\na) Um representante do município;\n\nb) Em representação da segurança social, um elemento designado pela Santa Casa da Misericórdia de Lisboa;\n\nc) Um representante dos serviços locais do Ministério da Educação;\n\nd) Um médico, em representação dos serviços de saúde;\n\ne) Um representante das instituições particulares de solidariedade social (ou de organizações não governamentais) que desenvolvam actividades de carácter não institucional;\n\nf) Um representante das instituições particulares de solidariedade social (ou de organizações não governamentais) que desenvolvam actividades de carácter institucional;\n\ng) Um representante das associações de pais;\n\nh) Um representante de associações (ou organizações privadas) que desenvolvam actividades desportivas, culturais ou recreativas destinadas a crianças e jovens;\n\ni) Um representante das associações de jovens (ou um representante dos serviços de juventude);\n\nj) Um representante das forças de segurança, GNR;\n\nl) Quatro pessoas designadas pela Assembleia Municipal (ou pela assembleia de freguesia);\n\nm) Os técnicos que venham a ser cooptados pela Comissão.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 261/2019 - Diário da República n.º 161/2019, Série I de 2019-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/261-2019-124171095), em vigor a partir de 2019-08-24, produz efeitos a partir de 2019-09-01"
+  },
+  "896440503": {
+   "fragment_id": "896349671",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nO presidente da Comissão de Protecção é eleito pela comissão alargada, de entre todos os seus membros, na primeira reunião plenária, por um período de dois anos, renovável por duas vezes. As funções de secretário são desempenhadas por um membro da comissão, designado pelo presidente."
+  },
+  "896440514": {
+   "fragment_id": "896349672",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": "2019-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 261/2019 - Diário da República n.º 161/2019, Série I de 2019-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/261-2019-124171095), em vigor a partir de 2019-08-24, produz efeitos a partir de 2019-09-01"
+   ],
+   "markdown": "###### 4.º\n\nA comissão, a funcionar em modalidade restrita, é composta, nos termos do artigo 20.º da lei de proteção, sempre por um número ímpar, nunca inferior a cinco, de entre os membros que integram a comissão alargada, designados para o efeito em reunião plenária após a instalação, sendo membros por inerência o presidente da Comissão de Proteção e os representantes do município e da segurança social, designado este último pela Santa Casa da Misericórdia de Lisboa..\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 261/2019 - Diário da República n.º 161/2019, Série I de 2019-08-23](https://diariodarepublica.pt/dr/detalhe/portaria/261-2019-124171095), em vigor a partir de 2019-08-24, produz efeitos a partir de 2019-09-01"
+  },
+  "896440505": {
+   "fragment_id": "896349673",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\nOs membros da comissão restrita exercem funções em regime de tempo parcial ou de tempo completo, nos termos do n.º 3 do artigo 22.º da lei de protecção, durante o período de um ano, tempo findo o qual é obrigatoriamente reavaliado."
+  },
+  "896440506": {
+   "fragment_id": "896349674",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º\n\nNos 30 dias seguintes à publicação da presente portaria, as entidades que integram a Comissão de Protecção indicam os seus membros nominalmente, bem como o presidente e o secretário da Comissão de Protecção, ao presidente da Comissão Nacional de Protecção de Crianças e Jovens em Risco."
+  },
+  "896440507": {
+   "fragment_id": "896448675",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º\n\nO apoio logístico necessário ao funcionamento da Comissão de Protecção é assegurado pelo município nos termos previstos pelo artigo 14.º da lei de protecção, podendo vir a ser celebrados protocolos de cooperação com os serviços do Estado representados na Comissão Nacional de Protecção de Crianças e Jovens em Risco para efeitos do suporte com os encargos financeiros resultantes deste apoio."
+  },
+  "896440508": {
+   "fragment_id": "896448676",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º\n\nO fundo de maneio, previsto pelo artigo 14.º da lei de protecção, é assegurado transitoriamente pela segurança social, tendo como conteúdo, montante e forma de gestão o previsto no diploma regulamentar aprovado em 21 de Dezembro de 2000."
+  },
+  "896440509": {
+   "fragment_id": "896448677",
+   "type": 11,
+   "heading": "9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 9.º\n\nQuando à data do início do exercício de funções da Comissão de Protecção não esteja designada a totalidade dos membros que por lei a integram, mantêm-se em actividade até à nomeação desses membros, salvo no caso de impossibilidade legal, os representantes das entidades cujos novos membros ainda não se encontrem designados."
+  },
+  "896440510": {
+   "fragment_id": "896448678",
+   "type": 11,
+   "heading": "10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 10.º\n\nNo caso previsto no número anterior, o presidente da Comissão de Protecção mantém-se em exercício de funções, salvo no caso de impossibilidade legal, situação em que a presidência é assegurada pela entidade que se encontra a seguir na ordem prevista no Decreto-Lei n.º 189/91."
+  },
+  "896440511": {
+   "fragment_id": "896448679",
+   "type": 11,
+   "heading": "11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 11.º\n\nEnquanto não forem designados os membros para funcionar na modalidade restrita, as respectivas competências são da responsabilidade do presidente e dos membros em exercício de funções na Comissão de Protecção."
+  },
+  "896440512": {
+   "fragment_id": "896448680",
+   "type": 11,
+   "heading": "12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 12.º\n\nA presente portaria entra em vigor no dia 1 de Janeiro de 2001 e a Comissão de Protecção de Crianças e Jovens inicia funções de imediato."
+  },
+  "124194180": {
+   "fragment_id": "124194083",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 29 de Dezembro de 2000.\n\nO Ministro do Trabalho e da Solidariedade, Eduardo Luís Barreto Ferro Rodrigues. - Pelo Ministro da Justiça, Eduardo Arménio do Nascimento Cabrita, Secretário de Estado Adjunto do Ministro da Justiça."
+  }
+ }
+}

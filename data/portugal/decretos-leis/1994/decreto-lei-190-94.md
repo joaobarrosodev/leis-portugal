@@ -1,0 +1,243 @@
+---
+schema_version: '1.0'
+id: pt:dre:298975:por
+title: Decreto-Lei n.º 190/94
+short_title: null
+summary: Regulamenta o Código da Estrada
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 190/94
+official_date: null
+publication_date: '1994-07-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 164/1994, Série I-A de 1994-07-18
+  number: '164'
+  series: I
+  supplement: null
+  pages: 3881 - 3883
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/07/164a00/38813883.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/190/1994/07/18/p/dre/pt/html
+  oj: null
+  dre: '298975'
+  dre_path: /dr/detalhe/decreto-lei/190-1994-298975
+  internal: pt:dre:298975:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1994-298975
+  metadata_url: https://data.dre.pt/eli/dec-lei/190/1994/07/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1994-298975
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:32:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 362eda686958ae8cbeaf3948c1614f84cd4542b08bbd1be95f78b87cd0bb4817
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:32:06Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Centro de Exame
+- Definição de Competências
+- Direcção Geral de Viação
+- Escola de Condução
+- Exame de Condução
+- Inspecção de Veículos
+- Junta Autónoma das Estradas
+- Sinalização
+relationships:
+- type: amended_by
+  target: pt:dre:209017:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
+- type: repealed_by
+  target: pt:dre:223835:por
+  label: "Revogado, com excepção dos nºs 1 a 3 do art. 6º, pelo DEC LEI.2/98.1998.01.03.MAI DR.IS-A [2]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-1998-223835
+  date: '1998-01-03'
+- type: repealed_by
+  target: pt:dre:209017:por
+  label: "Revogado o art. 6º pelo DEC LEI.86/98.1998.04.03.MAI, DR.IS-A [79]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-1998-209017
+  date: '1998-04-03'
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:32:06Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 190/94
+
+de 18 de Julho
+
+Tendo-se optado por incluir no Código da Estrada apenas as normas jurídicas fundamentais, que, devido ao seu carácter geral, oferecem maiores garantias de estabilidade, torna-se necessário complementá-las com disposições definidoras de atribuições e competências que se caracterizam por uma mutabilidade que as torna passíveis de mais rápida evolução e consequente necessidade de alteração legislativa.
+
+Urge, assim, estabelecer um enquadramento jurídico adequado a questões como a sinalização, o ordenamento e a fiscalização do trânsito, a habilitação para conduzir e a homologação de veículos.
+
+Assinalem-se, finalmente, as novidades na definição dos limites de velocidade em vias urbanas reservadas a automóveis, dos estatutos das escolas de condução, dos centros de exames e dos centros de inspecção.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pelo [Decreto-Lei n.º 114/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1994-250659), de 3 de Maio, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma estabelece as competências para a execução do Código da Estrada, aprovado pelo [Decreto-Lei n.º 114/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1994-250659), de 3 de Maio, para a sinalização das vias e para o ordenamento e fiscalização do trânsito.
+
+###### Artigo 2.º — Fiscalização
+
+1 - A fiscalização do cumprimento das disposições do Código da Estrada e demais legislação sobre trânsito incumbe:
+
+a) À Direcção-Geral de Viação, por intermédio da Brigada de Trânsito da Guarda Nacional Republicana e do pessoal técnico designado para o efeito;
+
+b) À Polícia de Segurança Pública e às polícias municipais;
+
+c) À Guarda Nacional Republicana;
+
+d) Ao pessoal de fiscalização da Junta Autónoma de Estradas, nas estradas nacionais, e ao pessoal de fiscalização dos municípios, nas estradas, ruas e caminhos municipais.
+
+2 - Cabe à Direcção-Geral de Viação promover a uniformização dos modos e critérios de exercício desta competência pelas entidades acima referidas, produzindo, para o efeito, as necessárias instruções.
+
+###### Artigo 3.º — Ordenamento do trânsito
+
+1 - O ordenamento do trânsito compete:
+
+a) À Direcção-Geral de Viação, em todas as estradas nacionais;
+
+b) Às câmaras municipais, nas estradas, ruas e caminhos municipais, salvo o disposto no número seguinte.
+
+2 - Cabe, ainda, à Direcção-Geral de Viação o ordenamento do trânsito nas estradas, ruas e caminhos municipais em caso de festividades, manifestações públicas, provas desportivas ou outros acontecimentos que obriguem a adoptar providências excepcionais.
+
+3 - A verificação das circunstâncias a que se refere o número anterior é feita por despacho fundamentado do director-geral de Viação, cumprindo à Polícia de Segurança Pública e à Guarda Nacional Republicana participar na execução das providências aí previstas, sempre que a sua colaboração for solicitada.
+
+4 - A fixação dos limites de velocidade a que se refere o n.º 1 do artigo 28.º do Código da Estrada é realizada por despacho do director-geral de Viação, sob proposta da Junta Autónoma de Estradas, no que respeita às estradas nacionais, ou das câmaras municipais, nas estradas sob a sua jurisdição.
+
+###### Artigo 4.º — Licenciamento da utilização das vias públicas para fins especiais
+
+1 - Sem prejuízo do direito de reunião e manifestação, a utilização das vias públicas para a realização de festas, cortejos, provas ou manifestações desportivas e, bem assim, de quaisquer outras actividades que possam afectar o trânsito normal só é permitida mediante autorização.
+
+2 - A autorização referida no número anterior será concedida pelas entidades competentes, com base em regulamento aprovado por portaria do Ministro da Administração Interna.
+
+3 - Os regulamentos previstos nos artigos 67.º e 73.º do Código da Estrada serão aprovados pela Direcção-Geral de Viação, sob proposta da Junta Autónoma de Estradas, no que respeita às estradas nacionais, ou das câmaras municipais, nas estradas sob a sua jurisdição.
+
+###### Artigo 5.º — Autorização especial de circulação
+
+1 - Cabe à Direcção-Geral de Viação conceder a autorização prevista no artigo 58.º do Código da Estrada.
+
+2 - A Direcção-Geral de Viação pode condicionar a emissão da autorização a parecer favorável da Junta Autónoma de Estradas ou das câmaras municipais, consoante os casos, relativo à natureza do pavimento, à resistência das obras de arte dos percursos autorizados ou às características técnicas das vias públicas, e restringir a utilização dos veículos às vias públicas cujas características técnicas o permitam.
+
+3 - A Direcção-Geral de Viação poderá exigir a apresentação de uma garantia, destinada a tornar efectiva a responsabilização dos proprietários dos veículos por prejuízos que os mesmos venham a causar, podendo, ainda, determinar outros procedimentos que se mostrem indispensáveis para garantir a segurança do trânsito.
+
+###### Artigo 6.º — Ensino da condução
+
+1 - O ensino teórico, técnico e prático da condução de veículos automóveis é considerado de interesse público e apenas pode ser ministrado em escola de condução, sob regime de licença.
+
+2 - A licença a que se refere o número anterior é concedida por despacho do Ministro da Administração Interna.
+
+3 - A actividade de cada escola de condução é exercida em território do distrito em que se localiza a sua sede e é limitada ao número de veículos de instrução licenciados.
+
+4 - Anualmente, serão abertos, por despacho do Ministro da Administração Interna, sob proposta da Direcção-Geral de Viação, os concursos públicos de candidatura à abertura de novas escolas.
+
+5 - O concurso previsto no número anterior obedece às regras constantes de regulamento aprovado por portaria do Ministro da Administração Interna.
+
+###### Artigo 7.º — Emissão de cartas de condução
+
+A emissão das cartas de condução, nos termos dispostos no artigo 125.º do Código da Estrada, compete à Direcção-Geral de Viação, cabendo-lhe comprovar previamente a observância dos requisitos estabelecidos no artigo 126.º do mesmo Código.
+
+###### Artigo 8.º — Exames de condução
+
+1 - A realização dos exames de condução compete à Direcção-Geral de Viação, que poderá recorrer, para o efeito, a centros de exame que funcionem sob a responsabilidade directa de associações de direito privado sem fins lucrativos.
+
+2 - A abertura dos centros de exame mencionados no número anterior será objecto de concurso público, aberto por despacho do Ministro da Administração Interna, sob proposta do director-geral de Viação.
+
+3 - A realização do exame de condução depende de requerimento do candidato, cabendo a respectiva marcação à Direcção-Geral de Viação, que atenderá, para o efeito, ao interesse eventualmente manifestado pelo candidato e às capacidades disponíveis para a realização de exames.
+
+4 - A marcação do exame só pode ter lugar mediante a certificação, por uma escola de condução, de que o candidato preenche os requisitos estabelecidos na legislação aplicável ao ensino da condução automóvel.
+
+5 - A realização do concurso previsto no n.º 2 é feito nos termos constantes de regulamento aprovado por portaria do Ministro da Administração Interna.
+
+###### Artigo 9.º — Concessão de licenças de condução
+
+As licenças de condução previstas no n.º 2 do artigo 130.º e no artigo 132.º do Código da Estrada são concedidas pela Direcção-Geral de Viação ou pelas câmaras municipais, de acordo com as normas estabelecidas no respectivo diploma regulamentar.
+
+###### Artigo 10.º — Homologação
+
+1 - A aprovação de marcas, modelos, componentes e acessórios de veículos automóveis, prevista no artigo 118.º do Código da Estrada, bem como das transformações, ao abrigo do seu artigo 119.º, é efectuada por despacho do director-geral de Viação.
+
+2 - A descrição das características técnicas dos veículos, feita nos termos das disposições estabelecidas no regulamento a que se refere o n.º 3 do artigo 118.º do Código da Estrada, incluirá a indicação da sua categoria, de acordo com o critério de atribuição de categorias e modelos de veículos aprovado por portaria do Ministro da Administração Interna.
+
+###### Artigo 11.º — Matrícula
+
+1 - A matrícula dos veículos automóveis será feita, a requerimento dos respectivos proprietários, e nos termos dispostos no artigo 121.º do Código da Estrada, na Direcção-Geral de Viação, que a certificará, por emissão do livrete a que se refere o artigo 122.º daquele Código.
+
+2 - A Direcção-Geral de Viação é competente para o cancelamento da matrícula previsto no artigo 123.º do Código da Estrada.
+
+3 - A matrícula dos ciclomotores será feita nas câmaras municipais.
+
+###### Artigo 12.º — Inspecção
+
+1 - A realização das inspecções previstas no artigo 120.º do Código da Estrada compete à Direcção-Geral de Viação, que pode recorrer à actividade dos centros de inspecção pertencentes e sob responsabilidade directa de entidades autorizadas para o efeito, nos termos de diploma próprio.
+
+2 - As aberturas dos centros de inspecções serão objecto de concurso público, aberto por despacho do Ministro da Administração Interna, sob proposta do director-geral de Viação.
+
+3 - As normas do concurso previsto no número anterior constam de regulamento aprovado por portaria do Ministro da Administração Interna.
+
+###### Artigo 13.º — Sinalização
+
+A sinalização de carácter permanente a que se refere o n.º 1 do artigo 5.º do Código da Estrada compete à Junta Autónoma de Estradas, nas estradas nacionais, e às câmaras municipais, nas estradas, ruas e caminhos municipais, por iniciativa própria ou a solicitação da Direcção-Geral de Viação.
+
+###### Artigo 14.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor em 1 de Outubro de 1994.
+
+Visto e aprovado em Conselho de Ministros de 24 de Março de 1994. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Maria Teresa Pinto Basto Gouveia.
+
+Promulgado em 8 de Junho de 1994.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 20 de Junho de 1994.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

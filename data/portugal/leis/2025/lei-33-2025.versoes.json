@@ -1,0 +1,225 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:913048477:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2025-913048568",
+ "dre_path": "/dr/detalhe/lei/33-2025-913048477",
+ "source_lastmod": "2026-09-02",
+ "versions": [
+  {
+   "date": "2026-08-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1161149390:por",
+     "title": "Lei n.º 57/2026",
+     "published": "2026-08-24",
+     "dre_path": "/dr/detalhe/lei/57-2026-1161149390"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-A",
+    "Adita Artigo 9.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "913195985",
+    "1161672575",
+    "1161672775",
+    "1161674675",
+    "1161674875",
+    "1161674975",
+    "1161675075",
+    "1161675175",
+    "1161675275",
+    "1161675375",
+    "1161675475",
+    "1161676275",
+    "1161676475",
+    "1161676575",
+    "1161676675",
+    "1161676775",
+    "1161676875",
+    "1161676975"
+   ]
+  }
+ ],
+ "fragments": {
+  "913195985": {
+   "fragment_id": "913048569",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Promove os direitos na gravidez e no parto e altera a Lei n.º 15/2014, de 21 de março\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "1161672575": {
+   "fragment_id": "913048570",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 57/2026 - Diário da República n.º 163/2026, Série I de 2026-08-24](https://diariodarepublica.pt/dr/detalhe/lei/57-2026-1161149390), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei visa promover os direitos na gravidez, parto e puerpério, através de medidas de informação, prevenção, monitorização e proteção dos direitos das mulheres contra práticas inadequadas, desrespeitosas ou não consentidas e altera a Lei n.º 15/2014, de 21 de março, que consolida a legislação em matéria de direitos e deveres do utente dos serviços de saúde.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 57/2026 - Diário da República n.º 163/2026, Série I de 2026-08-24](https://diariodarepublica.pt/dr/detalhe/lei/57-2026-1161149390), em vigor a partir de 2026-08-25."
+  },
+  "1161672775": {
+   "fragment_id": "913048571",
+   "type": 11,
+   "heading": "Artigo 2.º — Práticas inadequadas, desrespeitosas ou não consentidas",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 57/2026 - Diário da República n.º 163/2026, Série I de 2026-08-24](https://diariodarepublica.pt/dr/detalhe/lei/57-2026-1161149390), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 2.º — Práticas inadequadas, desrespeitosas ou não consentidas\n\n1 - Constituem práticas inadequadas, desrespeitosas ou não consentidas quaisquer atos, omissões, procedimentos clínicos ou organizacionais que, durante a gravidez, parto ou puerpério:\n\na) Sejam realizados sem indicação clínica fundamentada e necessária, sem benefício comprovado para a saúde da mulher ou do recém-nascido, de forma desproporcionada às circunstâncias concretas, ou em desconformidade com a melhor evidência científica disponível, as orientações e normas técnicas aplicáveis e os princípios da necessidade, adequação e proporcionalidade dos cuidados de saúde;\n\nb) Desrespeitem a dignidade, autonomia, privacidade ou integridade física e emocional da mulher, incluindo a limitação injustificada da sua participação nas decisões relativas aos seus cuidados;\n\nc) Sejam realizados sem informação adequada ou sem consentimento livre e esclarecido, salvo nas emergências clínicas em que este seja impossível;\n\nd) Sejam suscetíveis de comprometer a autonomia, bem-estar, dignidade, integridade física e emocional da mulher ou perceção relativamente aos cuidados que lhe são prestados;\n\ne) Sejam praticados exclusivamente por conveniência institucional ou profissional.\n\n2 - O disposto no número anterior não impede a realização de intervenções clínicas que sejam necessárias e proporcionais, desde que efetuadas em conformidade com as boas práticas clínicas e com a evidência científica disponível, com vista à proteção da vida ou da saúde da mulher e do recém-nascido.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 57/2026 - Diário da República n.º 163/2026, Série I de 2026-08-24](https://diariodarepublica.pt/dr/detalhe/lei/57-2026-1161149390), em vigor a partir de 2026-08-25."
+  },
+  "1161674675": {
+   "fragment_id": "1161674575",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Direito ao acompanhamento em saúde mental",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 57/2026 - Diário da República n.º 163/2026, Série I de 2026-08-24](https://diariodarepublica.pt/dr/detalhe/lei/57-2026-1161149390), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 2.º-A — Direito ao acompanhamento em saúde mental\n\nAs mulheres que reportem experiências negativas na gravidez, parto ou puerpério devem receber apoio e aconselhamento nas estruturas de saúde materna, com orientação, sempre que necessário, pelos serviços de saúde mental no Serviço Nacional de Saúde (SNS).\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 57/2026 - Diário da República n.º 163/2026, Série I de 2026-08-24](https://diariodarepublica.pt/dr/detalhe/lei/57-2026-1161149390), em vigor a partir de 2026-08-25."
+  },
+  "1161674875": {
+   "fragment_id": "913048572",
+   "type": 11,
+   "heading": "Artigo 3.º — Educação sexual",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 57/2026 - Diário da República n.º 163/2026, Série I de 2026-08-24](https://diariodarepublica.pt/dr/detalhe/lei/57-2026-1161149390), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 3.º — Educação sexual\n\nO Governo, através do Ministério da Educação, em coordenação com o Ministério da Saúde, é responsável por incluir informação sobre direitos na gravidez, parto e puerpério e sobre práticas inadequadas, desrespeitosas ou não consentidas nos conteúdos da educação sexual, promovendo a igualdade e o respeito pela autonomia sexual e reprodutiva, de forma adequada aos diferentes níveis de ensino, nos termos da Lei n.º 60/2009, de 6 de agosto.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 57/2026 - Diário da República n.º 163/2026, Série I de 2026-08-24](https://diariodarepublica.pt/dr/detalhe/lei/57-2026-1161149390), em vigor a partir de 2026-08-25."
+  },
+  "1161674975": {
+   "fragment_id": "913048573",
+   "type": 11,
+   "heading": "Artigo 4.º — Formação de profissionais de saúde",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 57/2026 - Diário da República n.º 163/2026, Série I de 2026-08-24](https://diariodarepublica.pt/dr/detalhe/lei/57-2026-1161149390), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 4.º — Formação de profissionais de saúde\n\n1 - As instituições de ensino superior e as entidades formadoras nas áreas da saúde e das políticas sociais devem incluir nos respetivos programas conteúdos curriculares e formativos sobre direitos humanos e ética clínica, que promovam o respeito pela autonomia sexual e reprodutiva e a sensibilização para os direitos na gravidez, parto e puerpério, para o consentimento informado, as boas práticas de cuidados maternoinfantis e a prevenção de práticas inadequadas, desrespeitosas ou não consentidas.\n\n2 - Na formação de profissionais de saúde, os aspetos referidos no número anterior devem ser complementados por conteúdos de enriquecimento curricular que promovam uma prática clínica conforme às leges artis, aos princípios bioéticos e à melhor evidência científica disponível, orientada para a prestação de cuidados maternos e neonatais respeitosos, seguros, humanizados e não discriminatórios e tendente a favorecer a melhoria da relação terapêutica entre profissionais de saúde, mulheres e famílias.\n\n3 - Os estabelecimentos de saúde devem promover formação e ações de sensibilização dirigidas aos seus trabalhadores, em especial aos que tenham contacto direto com utentes, prevenindo atos ou comportamentos que se traduzam em práticas inadequadas, desrespeitosas ou não consentidas na gravidez, parto e puerpério.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 57/2026 - Diário da República n.º 163/2026, Série I de 2026-08-24](https://diariodarepublica.pt/dr/detalhe/lei/57-2026-1161149390), em vigor a partir de 2026-08-25."
+  },
+  "1161675075": {
+   "fragment_id": "913048574",
+   "type": 11,
+   "heading": "Artigo 5.º — Alteração à Lei n.º 15/2014, de 21 de março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alteração à Lei n.º 15/2014, de 21 de março\n\nO artigo 15.º-E da Lei n.º 15/2014, de 21 de março, passa a ter a seguinte redação:\n\n«Artigo 15.º-E\n\nPrestação de cuidados para a elaboração e implementação do plano de nascimento\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]\n\n8 - Os desvios em relação ao plano de nascimento são obrigatoriamente registados e justificados pelos profissionais de saúde.»"
+  },
+  "1161675175": {
+   "fragment_id": "913220675",
+   "type": 11,
+   "heading": "Artigo 6.º — Aditamento à Lei n.º 15/2014, de 21 de março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Aditamento à Lei n.º 15/2014, de 21 de março\n\nÉ aditado à Lei n.º 15/2014, de 21 de março, o artigo 18.º-A, com a seguinte redação:\n\n«Artigo 18.º-A\n\nInformação sobre direitos e prevenção da violência obstétrica\n\n1 - Todos os estabelecimentos de saúde que prestam atendimento ao parto e nascimento têm obrigatoriamente de afixar cartazes com informações sobre o regime de proteção na preconceção, na procriação medicamente assistida, na gravidez, no parto, no nascimento e no puerpério.\n\n2 - Os cartazes previstos no número anterior incluem informação relativa às entidades às quais devem ser denunciadas situações de violência obstétrica.»"
+  },
+  "1161675275": {
+   "fragment_id": "913220676",
+   "type": 11,
+   "heading": "Artigo 7.º — Registo de procedimentos",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 57/2026 - Diário da República n.º 163/2026, Série I de 2026-08-24](https://diariodarepublica.pt/dr/detalhe/lei/57-2026-1161149390), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 7.º — Registo de procedimentos\n\n1 - Todos os atos médicos ou de enfermagem realizados durante o parto são obrigatoriamente registados, com indicação da respetiva fundamentação clínica, nos termos das orientações e normas técnicas da Direção-Geral da Saúde.\n\n2 - O registo referido no número anterior deve incluir, quando aplicável, a informação prestada à mulher, o consentimento informado obtido ou a respetiva recusa, bem como a fundamentação clínica das situações de urgência.\n\n3 - Após o parto e em momento clinicamente adequado, é assegurado à mulher o direito a receber informação clara e compreensível sobre os procedimentos realizados e respetiva fundamentação clínica.\n\n4 - O acesso à informação registada é um direito da mulher e deve ser assegurado pelas instituições de prestação de cuidados.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 57/2026 - Diário da República n.º 163/2026, Série I de 2026-08-24](https://diariodarepublica.pt/dr/detalhe/lei/57-2026-1161149390), em vigor a partir de 2026-08-25."
+  },
+  "1161675375": {
+   "fragment_id": "913220677",
+   "type": 11,
+   "heading": "Artigo 8.º — Eliminação de práticas inadequadas, desrespeitosas ou não consentidas",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 57/2026 - Diário da República n.º 163/2026, Série I de 2026-08-24](https://diariodarepublica.pt/dr/detalhe/lei/57-2026-1161149390), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 8.º — Eliminação de práticas inadequadas, desrespeitosas ou não consentidas\n\n1 - A realização de procedimentos obstétricos deve obedecer sempre a critérios clínicos adequados, às orientações e normas técnicas da Direção-Geral da Saúde e à melhor evidência científica, e depende do consentimento informado, nos termos da lei.\n\n2 - Sempre que existam indícios de incumprimento reiterado das normas clínicas ou legais em vigor pode ser determinada a realização de uma auditoria clínica.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 57/2026 - Diário da República n.º 163/2026, Série I de 2026-08-24](https://diariodarepublica.pt/dr/detalhe/lei/57-2026-1161149390), em vigor a partir de 2026-08-25."
+  },
+  "1161675475": {
+   "fragment_id": "913220678",
+   "type": 11,
+   "heading": "Artigo 9.º — Informação e sensibilização",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 57/2026 - Diário da República n.º 163/2026, Série I de 2026-08-24](https://diariodarepublica.pt/dr/detalhe/lei/57-2026-1161149390), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 9.º — Informação e sensibilização\n\n1 - O Ministério da Saúde é responsável por garantir os meios necessários à elaboração de um relatório anual com dados oficiais sobre satisfação relativamente aos cuidados de saúde prestados na gravidez, parto e puerpério e ao cumprimento dos planos de nascimento, previstos nos artigos 9.º-A e 15.º-E da Lei n.º 15/2014, de 21 de março, e sobre o registo de procedimentos previsto no artigo 7.º da presente lei.\n\n2 - O relatório previsto no número anterior e a realização de campanhas de promoção dos direitos na gravidez, parto e puerpério, e de sensibilização contra práticas inadequadas, desrespeitosas ou não consentidas ficam a cargo do Conselho Nacional pela Proteção da Gravidez e dos Cuidados Perinatais.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 57/2026 - Diário da República n.º 163/2026, Série I de 2026-08-24](https://diariodarepublica.pt/dr/detalhe/lei/57-2026-1161149390), em vigor a partir de 2026-08-25."
+  },
+  "1161676275": {
+   "fragment_id": "1161676175",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Questionário de satisfação",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 57/2026 - Diário da República n.º 163/2026, Série I de 2026-08-24](https://diariodarepublica.pt/dr/detalhe/lei/57-2026-1161149390), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 9.º-A — Questionário de satisfação\n\n1 - Os estabelecimentos de saúde que prestem cuidados na gravidez, parto e puerpério devem disponibilizar, de forma voluntária, confidencial e acessível, um questionário de satisfação com a experiência.\n\n2 - O questionário previsto no número anterior deve avaliar, designadamente, a informação prestada, o respeito pela autonomia e privacidade, a perceção de segurança, o consentimento informado, o cumprimento do plano de nascimento, a comunicação com os profissionais, o apoio no puerpério e a identificação de experiências negativas.\n\n3 - Os resultados são tratados de forma agregada e integram o relatório anual previsto na presente lei.\n\n4 - A Direção-Geral da Saúde define o modelo de questionário, ouvido o Conselho Nacional pela Proteção da Gravidez e dos Cuidados Perinatais.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 57/2026 - Diário da República n.º 163/2026, Série I de 2026-08-24](https://diariodarepublica.pt/dr/detalhe/lei/57-2026-1161149390), em vigor a partir de 2026-08-25."
+  },
+  "1161676475": {
+   "fragment_id": "913220679",
+   "type": 11,
+   "heading": "Artigo 10.º — Conselho Nacional pela Proteção da Gravidez e dos Cuidados Perinatais",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 57/2026 - Diário da República n.º 163/2026, Série I de 2026-08-24](https://diariodarepublica.pt/dr/detalhe/lei/57-2026-1161149390), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 10.º — Conselho Nacional pela Proteção da Gravidez e dos Cuidados Perinatais\n\nÉ criado o Conselho Nacional pela Proteção da Gravidez e dos Cuidados Perinatais, doravante designado Conselho, com as seguintes competências:\n\na) Promover campanhas de informação sobre os direitos na preconceção, na procriação medicamente assistida, na gravidez, no parto, no nascimento e no puerpério;\n\nb) Promover campanhas de informação e sensibilização pelo respeito dos direitos na gravidez, parto e puerpério e pela sua humanização, de modo a pôr fim a práticas inadequadas, desrespeitosas ou não consentidas;\n\nc) Elaborar um relatório anual com dados oficiais relativamente aos cuidados de saúde prestados na gravidez, parto e puerpério e ao cumprimento dos planos de nascimento, previstos nos artigos 9.º-A e 15.º-E da Lei n.º 15/2014, de 21 de março, e sobre o registo de procedimentos previsto no artigo 7.º da presente lei;\n\nd) Definir um conjunto mínimo de indicadores nacionais para monitorização do cumprimento dos direitos na gravidez, parto e puerpério, que devem incluir, designadamente:\n\ni) Cumprimento e discussão prévia do plano de nascimento;\n\nii) Registo de consentimento informado relativamente a intervenções clinicamente relevantes;\n\niii) Taxas de episiotomia, cesarianas, partos instrumentais e outras intervenções obstétricas;\n\niv) Cumprimento das normas e orientações técnicas da Direção-Geral da Saúde;\n\nv) Satisfação com a experiência nos cuidados de saúde;\n\nvi) Reclamações, eventos adversos e auditorias realizadas;\n\nvii) Acesso a preparação para o parto e acompanhamento no puerpério;\n\nviii) Formação dos trabalhadores dos estabelecimentos de saúde em comunicação, consentimento informado, ética, direitos humanos e segurança do doente;\n\ne) Desenvolver estratégias para a identificação, monitorização e melhoria dos indicadores de saúde no contexto de gravidez, parto e puerpério;\n\nf) Publicar, anualmente, os indicadores previstos na alínea d), de forma agregada e por instituição, salvaguardando o cumprimento da legislação relativa à proteção de dados pessoais;\n\ng) Elaborar recomendações e propor intervenções concretas e imediatas aos serviços, à Direção Executiva do SNS e ao Ministério da Saúde, tendo em vista a melhoria dos indicadores de saúde no contexto da gravidez, parto e puerpério;\n\nh) Apreciar os relatórios realizados pela Inspeção-Geral das Atividades em Saúde, monitorizando os seus resultados quando identifiquem situações de desrespeito pelos direitos previstos na presente lei ou experiências negativas associadas aos cuidados prestados.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 57/2026 - Diário da República n.º 163/2026, Série I de 2026-08-24](https://diariodarepublica.pt/dr/detalhe/lei/57-2026-1161149390), em vigor a partir de 2026-08-25."
+  },
+  "1161676575": {
+   "fragment_id": "913220680",
+   "type": 11,
+   "heading": "Artigo 11.º — Composição do Conselho",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 57/2026 - Diário da República n.º 163/2026, Série I de 2026-08-24](https://diariodarepublica.pt/dr/detalhe/lei/57-2026-1161149390), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 11.º — Composição do Conselho\n\nO Conselho é composto por nove membros:\n\na) Um presidente designado por resolução do Conselho de Ministros, sob proposta do membro do Governo responsável pela área da saúde;\n\nb) Cinco representantes dos utentes, incluindo representantes das associações de defesa dos direitos na gravidez e no parto, eleitos pela Assembleia da República, por maioria absoluta dos deputados em efetividade de funções;\n\nc) Um profissional da área da saúde maternoinfantil ou da ginecologia e obstetrícia designado pela Direção-Geral da Saúde;\n\nd) Dois peritos designados, respetivamente, pela Ordem dos Médicos e pela Ordem dos Enfermeiros.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 57/2026 - Diário da República n.º 163/2026, Série I de 2026-08-24](https://diariodarepublica.pt/dr/detalhe/lei/57-2026-1161149390), em vigor a partir de 2026-08-25."
+  },
+  "1161676675": {
+   "fragment_id": "913220681",
+   "type": 11,
+   "heading": "Artigo 12.º — Recursos e funcionamento do Conselho",
+   "in_force_from": "2026-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 57/2026 - Diário da República n.º 163/2026, Série I de 2026-08-24](https://diariodarepublica.pt/dr/detalhe/lei/57-2026-1161149390), em vigor a partir de 2026-08-25."
+   ],
+   "markdown": "###### Artigo 12.º — Recursos e funcionamento do Conselho\n\nO Conselho funciona junto do Ministério da Saúde, que deve garantir os meios necessários ao seu funcionamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 57/2026 - Diário da República n.º 163/2026, Série I de 2026-08-24](https://diariodarepublica.pt/dr/detalhe/lei/57-2026-1161149390), em vigor a partir de 2026-08-25."
+  },
+  "1161676775": {
+   "fragment_id": "913220682",
+   "type": 11,
+   "heading": "Artigo 13.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regulamentação\n\nO Governo procede à regulamentação da presente lei no prazo de 60 dias."
+  },
+  "1161676875": {
+   "fragment_id": "913220683",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação e produz efeitos com a entrada em vigor do Orçamento do Estado subsequente à sua publicação."
+  },
+  "1161676975": {
+   "fragment_id": "913220684",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 14 de março de 2025.\n\nO Presidente da Assembleia da República, José Pedro Aguiar Branco.\n\nPromulgada em 21 de março de 2025.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 24 de março de 2025.\n\nO Primeiro-Ministro, Luís Montenegro.\n\n118871643"
+  }
+ }
+}

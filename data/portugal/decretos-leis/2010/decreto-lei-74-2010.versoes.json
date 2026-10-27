@@ -1,0 +1,237 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:335468:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-156691770",
+ "dre_path": "/dr/detalhe/decreto-lei/74-2010-335468",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2010-06-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "156695207",
+    "156695208",
+    "156695209",
+    "156695210",
+    "156695211",
+    "156695212",
+    "156695213",
+    "156695214",
+    "156695215",
+    "156695216",
+    "156695217",
+    "156695218",
+    "156695219",
+    "156695220",
+    "156695221",
+    "156695222"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "156695207",
+    "156695208",
+    "156695209",
+    "156695210",
+    "156695211",
+    "156695212",
+    "156695213",
+    "156695214",
+    "156695215",
+    "156695224",
+    "156695217",
+    "156695225",
+    "156695226",
+    "156695220",
+    "156695221",
+    "156695222",
+    "156695223"
+   ]
+  }
+ ],
+ "fragments": {
+  "156695207": {
+   "fragment_id": "156691771",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 74/2010\n\nde 21 de Junho\n\nOs géneros alimentícios destinados a uma alimentação especial são aqueles que, devido à sua composição especial ou a processos especiais de fabrico, se distinguem claramente dos alimentos de consumo corrente, mostrando-se adequados às necessidades nutricionais especiais de determinadas categorias de pessoas.\n\nO presente decreto-lei estabelece o regime geral aplicável aos géneros alimentícios destinados a uma alimentação especial, adoptando regras relativas à respectiva natureza ou composição e introduzindo exigências específicas, designadamente em matéria de rotulagem, apresentação e publicidade.\n\nEste novo regime resulta da transposição da Directiva n.º <a href=\"eurlex.asp?ano=2009&id=309L0039\" title=\"Link para Directiva da Comunidade Europeia\">2009/39/CE</a>, do Parlamento Europeu e do Conselho, de 6 de Maio, que é actualmente a directiva de referência relativa aos géneros alimentícios destinados a uma alimentação especial, procedendo-se, em consequência, à revogação dos Decretos-Leis n.os 227/99, de 22 de Junho, e 285/2000, de 10 de Novembro.\n\nCom efeito, a criação de condições para a livre circulação de géneros alimentícios seguros e a protecção dos consumidores implicam o estabelecimento de regras, impondo-se com maior acuidade relativamente aos géneros alimentícios cuja composição e elaboração devem ser especialmente estudadas para satisfazer necessidades nutricionais especiais das pessoas a quem se destinam.\n\nDo mesmo passo, dá-se cumprimento às orientações definidas pelo Programa de Reestruturação da Administração Central do Estado (PRACE), designando o Gabinete de Planeamento e Políticas como o organismo responsável pelas medidas de política relativas à qualidade e segurança destes géneros alimentícios.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "156695208": {
+   "fragment_id": "156691772",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei transpõe para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=2009&id=309L0039\" title=\"Link para Directiva da Comunidade Europeia\">2009/39/CE</a>, do Parlamento Europeu e do Conselho, de 6 de Maio, relativa aos géneros alimentícios destinados a uma alimentação especial, e estabelece o regime geral aplicável a estes produtos."
+  },
+  "156695209": {
+   "fragment_id": "156691773",
+   "type": 11,
+   "heading": "Artigo 2.º — Alimentação especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alimentação especial\n\n1 - Para efeitos do presente decreto-lei, consideram-se géneros alimentícios destinados a uma alimentação especial os géneros alimentícios que, devido à sua composição especial ou a processos especiais de fabrico, se distinguem claramente dos alimentos de consumo corrente, são adequados ao objectivo nutricional pretendido e comercializados com a indicação de que correspondem a esse objectivo.\n\n2 - A alimentação especial corresponde às necessidades nutricionais especiais das seguintes categorias de pessoas:\n\na) Pessoas cujo processo de assimilação ou cujo metabolismo se encontrem perturbados;\n\nb) Pessoas que se encontram em condições fisiológicas especiais e que, por esse facto, podem retirar benefícios especiais de uma ingestão controlada de determinadas substâncias contidas nos alimentos;\n\nc) Lactentes ou crianças de pouca idade em bom estado de saúde."
+  },
+  "156695210": {
+   "fragment_id": "156691774",
+   "type": 11,
+   "heading": "Artigo 3.º — Autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Autoridade competente\n\n1 - O Gabinete de Planeamento e Políticas é o organismo responsável pelas medidas de política relativas à qualidade e segurança dos produtos abrangidos pelo presente decreto-lei, adiante designado autoridade competente, competindo-lhe, designadamente:\n\na) Seleccionar e aplicar as opções apropriadas de prevenção e controlo no âmbito do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2002&id=302R0178\" title=\"Link para Regulamento da Comunidade Europeia\">178/2002</a>, do Parlamento Europeu e do Conselho, de 28 de Janeiro;\n\nb) Recolher as informações e documentos necessários para efeitos de comercialização e notificação e exigir, se necessário, esclarecimentos suplementares aos fabricantes ou importadores;\n\nc) Comunicar às instâncias comunitárias e aos restantes Estados membros da Comissão Europeia as decisões relativas à suspensão ou restrição provisória da comercialização dos produtos abrangidos pelo presente decreto-lei;\n\nd) Elaborar e coordenar a execução do plano de controlo oficial para verificação do cumprimento das normas previstas no presente decreto-lei.\n\n2 - Os serviços competentes nas Regiões Autónomas e as direcções regionais de agricultura e pescas executam o plano de controlo oficial previsto na alínea d) do número anterior."
+  },
+  "156695211": {
+   "fragment_id": "156691975",
+   "type": 11,
+   "heading": "Artigo 4.º — Géneros alimentícios destinados a uma alimentação especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Géneros alimentícios destinados a uma alimentação especial\n\n1 - Os produtos abrangidos pelo presente decreto-lei devem:\n\na) Ter natureza ou composição adequadas ao objectivo nutricional específico a que se destinam;\n\nb) Obedecer às disposições obrigatórias aplicáveis aos géneros alimentícios de consumo corrente, salvo quanto às alterações introduzidas nesses produtos para os tornar conformes com o disposto no artigo 2.º\n\n2 - As vitaminas, sais minerais, aminoácidos e outras substâncias que podem ser adicionados aos géneros alimentícios destinados a uma alimentação especial, com objectivo nutricional específico, bem como os seus critérios de pureza e condições de utilização, são os previstos na legislação geral em vigor sobre estas matérias."
+  },
+  "156695212": {
+   "fragment_id": "156691976",
+   "type": 11,
+   "heading": "Artigo 5.º — Rotulagem, apresentação e publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Rotulagem, apresentação e publicidade\n\n1 - A rotulagem, apresentação e publicidade dos produtos abrangidos pelo presente decreto-lei regem-se pela legislação geral em vigor sobre estas matérias e pelas normas estabelecidas nos números seguintes.\n\n2 - A rotulagem e métodos de rotulagem de géneros alimentícios destinados a uma alimentação especial, bem como a sua apresentação e publicidade, não devem atribuir expressa ou implicitamente a esses produtos propriedades de prevenção, tratamento e cura de doenças humanas.\n\n3 - Salvo disposição específica, a rotulagem deve ainda incluir:\n\na) Os elementos especiais da composição qualitativa e quantitativa ou o processo especial de fabrico que conferem ao produto características nutricionais especiais;\n\nb) O valor energético disponível, expresso em quilojoule (kJ) e quilocaloria (kcal), bem como o teor de hidratos de carbono, proteína e lípidos por 100 g ou 100 ml do produto comercializado e, se aplicável, por quantidade especificada do produto pronto a ser consumido;\n\nc) Se o valor energético referido na alínea anterior for inferior a 50 kJ (12 kcal) por 100 g ou 100 ml de produto comercializado, essa indicação pode ser substituída, quer pela menção «valor energético inferior a 50 kJ (12 kcal) por 100 g», quer pela menção «valor energético inferior a 50 kJ (12 kcal) por 100 ml».\n\n4 - Os produtos dirigidos às necessidades nutricionais especiais das categorias de pessoas a que se referem as alíneas a) e b) do n.º 2 do artigo 2.º podem ser caracterizados pelos qualificativos «dietético» ou «de regime».\n\n5 - Salvo disposição em contrário, na rotulagem, apresentação e publicidade dos géneros alimentícios de consumo corrente é proibido:\n\na) A utilização dos qualificativos referidos no número anterior, isolados ou em combinação com outros termos, para designar esses géneros alimentícios;\n\nb) Quaisquer outras indicações ou formas de apresentação susceptíveis de fazer crer que se trata de um género alimentício destinado a uma alimentação especial, nos termos do artigo 2.º"
+  },
+  "156695213": {
+   "fragment_id": "156691977",
+   "type": 11,
+   "heading": "Artigo 6.º — Denominação de venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Denominação de venda\n\nA denominação de venda dos géneros alimentícios destinados a uma alimentação especial deve ser acompanhada pela indicação das suas características nutricionais especiais, salvo no caso dos produtos destinados a lactentes ou crianças de pouca idade em bom estado de saúde, em que tal indicação deve ser substituída por uma referência ao fim a que se destinam."
+  },
+  "156695214": {
+   "fragment_id": "156691978",
+   "type": 11,
+   "heading": "Artigo 7.º — Embalagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Embalagem\n\nOs produtos abrangidos pelo presente decreto-lei só podem ser colocados no mercado retalhista sob a forma pré-embalada e de tal modo que a embalagem os envolva inteiramente."
+  },
+  "156695215": {
+   "fragment_id": "156691979",
+   "type": 11,
+   "heading": "Artigo 8.º — Comercialização e notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Comercialização e notificação\n\n1 - É proibida a comercialização de géneros alimentícios destinados a uma alimentação especial que não cumpram o disposto no presente decreto-lei.\n\n2 - A autoridade competente pode exigir, a todo o tempo, ao fabricante ou ao importador a apresentação de trabalhos científicos e dados que comprovem a conformidade do produto com as regras estabelecidas neste decreto-lei.\n\n3 - Quando se tratar da primeira comercialização de géneros alimentícios destinados a uma alimentação especial na União Europeia, o fabricante, se o produto tiver origem num dos Estados membros, ou o importador, se o produto tiver origem em país terceiro, notifica a autoridade competente do Estado membro do modelo da respectiva rotulagem.\n\n4 - Se o produto já tiver sido comercializado na União Europeia, o fabricante ou o importador, para além do modelo da rotulagem do produto, notifica a autoridade competente da identidade da autoridade destinatária da primeira notificação de comercialização."
+  },
+  "156695216": {
+   "fragment_id": "156691980",
+   "type": 11,
+   "heading": "Artigo 9.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima mínima de (euro) 100 a (euro) 3740 ou de (euro) 250 a (euro) 44 890, consoante se trate de pessoa singular ou colectiva:\n\na) O fabrico ou a comercialização de géneros alimentícios destinados a uma alimentação especial cuja natureza ou composição não obedeçam ao disposto no artigo 4.º;\n\nb) A comercialização de géneros alimentícios destinados a uma alimentação especial cuja rotulagem não cumpra o disposto nos artigos 5.º e 6.º;\n\nc) A comercialização de géneros alimentícios destinados a uma alimentação especial não pré-embalados, nos termos do disposto no artigo 7.º;\n\nd) A falta de apresentação dos meios de prova suplementares ou dos trabalhos científicos que comprovem a conformidade do produto com as regras constantes do presente decreto-lei;\n\ne) As faltas de notificação, nos termos dos n.os 3 e 4 do artigo 8.º\n\n2 - A negligência é punível, sendo os limites máximos e mínimos das coimas reduzidos para metade."
+  },
+  "156695217": {
+   "fragment_id": "156691981",
+   "type": 11,
+   "heading": "Artigo 10.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Sanções acessórias\n\nConsoante a gravidade da contra-ordenação e a culpa do agente, podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:\n\na) Perda de objectos pertencentes ao agente;\n\nb) Interdição do exercício de profissões ou actividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participar em feiras e mercados;\n\ne) Privação do direito de participar em arrematações ou concursos públicos que tenham por objecto o fornecimento de bens e serviços, a concessão de serviços públicos e a atribuição de licenças ou alvarás;\n\nf) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\ng) Suspensão de autorizações de licenças e alvarás."
+  },
+  "156695218": {
+   "fragment_id": "156691982",
+   "type": 11,
+   "heading": "Artigo 11.º — Fiscalização, instrução e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Fiscalização, instrução e decisão\n\n1 - Sem prejuízo das competências atribuídas por lei às autoridades policiais e fiscalizadoras, a fiscalização e a instrução dos processos por infracção ao disposto no presente decreto-lei competem à Autoridade de Segurança Alimentar e Económica e aos serviços competentes nas Regiões Autónomas.\n\n2 - Finda a instrução, os processos são remetidos à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CACMEP) para aplicação das coimas respectivas."
+  },
+  "156695219": {
+   "fragment_id": "156691983",
+   "type": 11,
+   "heading": "Artigo 12.º — Afectação do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Afectação do produto das coimas\n\nO produto da aplicação das coimas reverte a favor das seguintes entidades:\n\na) 60 % para os cofres do Estado;\n\nb) 10 % para a entidade que levantou o auto;\n\nc) 20 % para a entidade que instruiu o processo;\n\nd) 10 % para a CACMEP."
+  },
+  "156695220": {
+   "fragment_id": "156691984",
+   "type": 11,
+   "heading": "Artigo 13.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Taxas\n\n1 - Pelas acções desenvolvidas pela autoridade competente no âmbito do presente decreto-lei, designadamente de controlo e de prevenção, de apreciação dos documentos e informações e ainda de controlo da rotulagem dos produtos são cobradas taxas a fixar por portaria do membro do Governo responsável pela área da agricultura.\n\n2 - As receitas previstas no número anterior constituem receita própria da autoridade competente."
+  },
+  "156695221": {
+   "fragment_id": "156691985",
+   "type": 11,
+   "heading": "Artigo 14.º — Aplicação às Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Aplicação às Regiões Autónomas\n\nOs actos e os procedimentos necessários à execução do presente decreto-lei nas Regiões Autónomas dos Açores e da Madeira competem às entidades das respectivas administrações regionais com atribuições e competências nas matérias em causa."
+  },
+  "156695222": {
+   "fragment_id": "156691986",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Norma revogatória\n\n1 - São revogados os Decretos-Leis n.os 227/99, de 22 de Junho, 285/2000, de 10 de Novembro, 241/2002, de 5 de Novembro, 137/2005, de 17 de Agosto, e 251/2007, de 4 de Julho.\n\n2 - A Portaria n.º 298/2000, de 26 de Maio, mantém-se em vigor enquanto não for publicada a portaria prevista no artigo 13.º"
+  },
+  "156695224": {
+   "fragment_id": "156691980",
+   "type": 11,
+   "heading": "Artigo 9.º — Contra-ordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 110.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 9.º — Contra-ordenações\n\n1 - Constitui contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):\n\na) O fabrico ou a comercialização de géneros alimentícios destinados a uma alimentação especial cuja natureza ou composição não obedeçam ao disposto no artigo 4.º;\n\nb) A comercialização de géneros alimentícios destinados a uma alimentação especial cuja rotulagem não cumpra o disposto nos artigos 5.º e 6.º;\n\nc) A comercialização de géneros alimentícios destinados a uma alimentação especial não pré-embalados, nos termos do disposto no artigo 7.º;\n\nd) A falta de apresentação dos meios de prova suplementares ou dos trabalhos científicos que comprovem a conformidade do produto com as regras constantes do presente decreto-lei;\n\ne) As faltas de notificação, nos termos dos n.os 3 e 4 do artigo 8.º\n\n2 - A negligência é punível nos termos do RJCE.\n\n> Alterado pelo/a Artigo 110.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156695225": {
+   "fragment_id": "156691982",
+   "type": 11,
+   "heading": "Artigo 11.º — Fiscalização, instrução e decisão",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 110.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 11.º — Fiscalização, instrução e decisão\n\n1 - Sem prejuízo das competências atribuídas por lei às autoridades policiais e fiscalizadoras, a fiscalização e a instrução dos processos por infração ao disposto no presente decreto-lei competem à Autoridade de Segurança Alimentar e Económica (ASAE) e aos serviços competentes nas Regiões Autónomas.\n\n2 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.\n\n> Alterado pelo/a Artigo 110.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156695226": {
+   "fragment_id": "156691983",
+   "type": 11,
+   "heading": "Artigo 12.º — Afectação do produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 110.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 12.º — Afectação do produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE\n\n> Alterado pelo/a Artigo 110.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156695223": {
+   "fragment_id": "156691987",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de Abril de 2010. - José Sócrates Carvalho Pinto de Sousa - Pedro Manuel Carqueijeiro Lourtie - José António Fonseca Vieira da Silva - António Manuel Soares Serrano - Ana Maria Teodoro Jorge.\n\nPromulgado em 7 de Junho de 2010.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 9 de Junho de 2010.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

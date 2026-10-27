@@ -1,0 +1,154 @@
+---
+schema_version: '1.0'
+id: pt:dre:2110016:por
+title: Portaria n.º 29/2009
+short_title: null
+summary: Procedimento de ajuste directo
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Administração Pública e das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 29/2009
+official_date: null
+publication_date: '2009-01-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 6/2009, Série II de 2009-01-09
+  number: '6'
+  series: II
+  supplement: null
+  pages: 830 - 830
+  pdf_url: https://files.diariodarepublica.pt/2s/2009/01/006000000/0083000830.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2110016'
+  dre_path: /dr/detalhe/portaria/29-2009-2110016
+  internal: pt:dre:2110016:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/29-2009-2110016
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/29-2009-2110016
+  consolidated_url: null
+  retrieved_at: '2026-10-23T17:19:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e61c32d65ff70ece35d3c12cd69235c6fdd1633f767e4d59c0e27bcc2496ea02
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:19:24Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Bens e Serviços
+- Comunicações
+- Conselho Diretivo
+- CTT
+- Serviço Postal
+relationships:
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529450:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T17:19:24Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 29/2009
+
+O regime sancionatório aplicável às transgressões em matéria de infra-estruturas rodoviárias, onde seja devido o pagamento de portagem, encontra-se previsto na [Lei n.º 25/2006](https://diariodarepublica.pt/dr/detalhe/lei/25-2006-357348), de 30 de Junho.
+
+A instauração e instrução destes processos de contra-ordenação passou, a partir de 1 de Novembro de 2007, para a esfera de competências do Instituto de Infra-Estruturas Rodoviárias (InIR), I. P., nos termos das atribuições que lhe foram cometidas pela Lei Orgânica aprovada pelo [Decreto-Lei n.º 148/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2007-521020), de 27 de Abril, e pela Portaria n.º 546/2007, de 30 de Abril.
+
+No cumprimento das suas atribuições, o InIR, I. P., encontra-se a utilizar a plataforma tecnológica do Sistema Informático de Gestão de Autos (SIGA), que suporta um módulo aplicacional - Sistema de Gestão de Autos de Contra-Ordenações (SGACO). Este sistema consiste numa aplicação informática que garante a instrução e tramitação automática dos processos de contra-ordenação, adequando-se à [Lei n.º 25/2006](https://diariodarepublica.pt/dr/detalhe/lei/25-2006-357348), de 30 de Junho, tendo em conta os prazos, vicissitudes e demais aspectos processuais formais específicos em matéria de transgressões no âmbito das infra-estruturas rodoviárias onde seja devido o pagamento de portagem.
+
+A referida aplicação SGACO já contempla a prestação de serviços postais e outros conexos, consistentes, entre outros, na criação do apartado, preparação e expedição de cartas simples e registadas com aviso de recepção, vales postais e de cobrança de títulos e tratamento posterior destes elementos, por forma a dar cumprimento ao disposto em matéria processual na [Lei n.º 25/2006](https://diariodarepublica.pt/dr/detalhe/lei/25-2006-357348), de 30 de Junho.
+
+A concessão do serviço postal universal em Portugal foi atribuída aos CTT - Correios de Portugal, S. A. (CTT, S. A.), mediante contrato de concessão assinado em 1 de Setembro de 2000, por um período de 30 anos a contar daquela data.
+
+Os serviços de notificação postal, no âmbito dos referidos processos de contra-ordenação, irão traduzir-se na expedição de um número elevado de objectos postais, os quais, a par dos outros serviços conexos, irão trazer custos significativos.
+
+Neste enquadramento, os serviços acima identificados, designadamente os referentes à criação de apartados, recepção e expedição de cartas simples e registadas com aviso de recepção e serviços interligados, estão a ser alvo de desenvolvimentos informáticos e definições de interface de comunicações pelos CTT, S. A., de forma a assegurar de modo uniforme e eficaz as comunicações com a aplicação.
+
+Para além dos serviços de aceitação, tratamento e distribuição de objectos postais, interessa que se institua, ainda, um serviço de recolha periódica para evitar deslocações constantes dos funcionários, o que acarreta necessariamente perdas de operacionalidade e produtividade.
+
+Assim, verifica-se que grande parte dos serviços postais necessários ao efectivo cumprimento da legislação processual prevista na [Lei n.º 25/2006](https://diariodarepublica.pt/dr/detalhe/lei/25-2006-357348), de 30 de Junho, se encontra reservada aos CTT, S. A. Ora, para uma eficaz gestão financeira dos recursos disponíveis revela-se essencial que todos os serviços postais se encontrem centralizados num único prestador, sendo que no mercado não existe qualquer outro fornecedor que possa executar na sua globalidade todos os referidos serviços.
+
+Acresce que a contratação dos serviços postais aos CTT, S. A., é indispensável à operacionalidade do SGACO, devidamente adaptado, cuja efectiva implementação é absolutamente necessária e urgente, dado que os procedimentos por contra-ordenação no âmbito da [Lei n.º 25/2006](https://diariodarepublica.pt/dr/detalhe/lei/25-2006-357348), de 30 de Junho, anteriormente à sua alteração pela [Lei n.º 67-A/2007](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), de 31 de Dezembro, prescrevem decorrido que seja um ano sobre a prática da transgressão.
+
+Se assim não for, prescreverão inúmeros processos de contra-ordenação, o que terá como consequência necessária um efeito perverso de descredibilização da acção punitiva, motivado pelo crescimento do número de prescrições e medido pelo aumento do número de infracções praticadas, comprometendo o cumprimento dos objectivos estabelecidos para o InIR, I. P., no exercício das competências que lhe foram atribuídas, o que, consequentemente, traria graves inconvenientes para o interesse público.
+
+Assim, dão-se por verificados os requisitos de aptidão técnica e os relativos à protecção dos direitos exclusivos e de autor, que determinam que os serviços sejam prestados pela empresa CTT, S. A., que os vem realizando, exigidos para a aplicação do fundamento material para a escolha do procedimento por ajuste directo, independentemente do valor, nos termos da alínea e) do n.º 1 do artigo 24.º do Código dos Contratos Públicos, aprovado pelo [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de Janeiro.
+
+Da mesma forma, reconhece-se verificado o requisito exigido pela alínea c) do n.º 1 do artigo 24.º do Código dos Contratos Públicos, sendo certo que os serviços a contratar revestem carácter urgente e que, por motivos imprevisíveis não imputáveis à entidade adjudicante, não podem ser cumpridos os prazos ou formalidades previstos para os restantes procedimentos.
+
+Considerando que se verificam os fundamentos materiais para a escolha de procedimento por ajuste directo constantes das alíneas c) e e) do n.º 1 do artigo 24.º do Código dos Contratos Públicos, pretende-se realizar um procedimento desta natureza tendente à contratação dos serviços postais e conexos pelo prazo de um ano;
+
+Considerando que a referida aquisição dará origem a encargos orçamentais em mais de um ano económico;
+
+Considerando que, nos termos do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, a abertura de procedimento que dê origem a encargo orçamental em mais de um ano económico ou em ano que não seja o da sua realização carece de prévia autorização, conferida em portaria conjunta do Ministro das Finanças e do respectivo ministro:
+
+Manda o Governo, pelos Ministros de Estado e das Finanças e das Obras Públicas, Transportes e Comunicações, o seguinte:
+
+1.º Fica autorizado o conselho directivo do Instituto de Infra-Estruturas Rodoviárias, I. P., a iniciar um procedimento de ajuste directo, nos termos do disposto nas alíneas c) e e) do n.º 1 do artigo 24.º do Código dos Contratos Públicos, aprovado pelo [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de Janeiro, para a aquisição, aos CTT, S. A., de serviços postais e conexos, até ao montante de (euro) 1 100 000, a que acresce o IVA à taxa em vigor, o qual envolve encargos em anos económicos diferentes, de acordo com o seguinte escalonamento:
+
+Ano de 2008 - até ao limite de (euro) 200 000;
+
+Ano de 2009 - até ao limite de (euro) 900 000.
+
+2.º Os encargos decorrentes da presente portaria são suportados por verbas adequadas do orçamento de funcionamento do Instituto de Infra-Estruturas Rodoviárias, I. P.
+
+3.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+17 de Dezembro de 2008. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia.

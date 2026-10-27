@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:920796195:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-assembleia-republica/2025-920958941",
+ "dre_path": "/dr/detalhe/resolucao-assembleia-republica/130-2025-920796195",
+ "source_lastmod": "2025-06-20",
+ "versions": [
+  {
+   "date": "2025-06-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "921945070"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:921942046:por",
+     "title": "Declaração de Retificação n.º 29/2025/1",
+     "published": "2025-06-20",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/29-2025-921942046",
+     "date": "2025-06-11"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "921945070": {
+   "fragment_id": "920958942",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2025-06-11",
+   "changed_by": [],
+   "markdown": "Resolução da Assembleia da República n.º 130/2025\n\nConstituição de uma comissão eventual de verificação de poderes dos Deputados eleitos\n\nA Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, constituir uma comissão eventual de verificação de poderes dos Deputados eleitos conforme relação constante da ata de apuramento geral, da Comissão Nacional de Eleições, a qual se mantém em funcionamento até que se constitua a comissão competente em razão desta matéria, composta pelos seguintes Deputados:\n\nSete membros designados pelo Partido Social Democrata:\n\nEmídio Guerreiro;\n\nHugo Carneiro;\n\nHugo Oliveira;\n\nMarco Claudino;\n\nJoaquim Barbosa;\n\nSandra Pereira;\n\nNuno Gonçalves.\n\nCinco membros designados pelo Chega:\n\nBruno Nunes;\n\nBernardo Pessanha;\n\nJoão Aleixo;\n\nPatrícia Almeida;\n\nSónia Monteiro.\n\nCinco membros designados pelo Partido Socialista:\n\nFilipe Neto Brandão;\n\nIsabel Moreira;\n\nMarina Gonçalves;\n\nPedro Delgado Alves;\n\nPedro Vaz.\n\nUm membro designado pela Iniciativa Liberal:\n\nJoana Cordeiro.\n\nUm membro designado pelo Livre:\n\nPaulo Muacho.\n\nUm membro designado pelo Partido Comunista Português:\n\nPaula Santos.\n\nUm membro designado pelo CDS - Partido Popular:\n\nJoão Pinho de Almeida."
+  }
+ }
+}

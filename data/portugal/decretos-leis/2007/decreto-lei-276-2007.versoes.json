@@ -1,0 +1,535 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:636396:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-107687493",
+ "dre_path": "/dr/detalhe/decreto-lei/276-2007-636396",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-07-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107687401",
+    "107687402",
+    "107687403",
+    "107687404",
+    "107687405",
+    "107687406",
+    "107687407",
+    "107687408",
+    "107687409",
+    "107687410",
+    "107687411",
+    "107687412",
+    "107687413",
+    "107687414",
+    "107687415",
+    "107687416",
+    "107687417",
+    "107687418",
+    "107687419",
+    "107687420",
+    "107687421",
+    "107687422",
+    "107687423",
+    "107687424",
+    "107687425",
+    "107687426",
+    "107687427",
+    "107687428",
+    "107687429",
+    "107687430",
+    "107687431",
+    "107687432",
+    "107687433",
+    "107687434",
+    "107687435"
+   ]
+  },
+  {
+   "date": "2012-02-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:543049:por",
+     "title": "Decreto-Lei n.º 32/2012",
+     "published": "2012-02-13",
+     "dre_path": "/dr/detalhe/decreto-lei/32-2012-543049"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 15.º-A"
+   ],
+   "fragments": [
+    "107687401",
+    "107687402",
+    "107687403",
+    "107687404",
+    "107687405",
+    "107687406",
+    "107687407",
+    "107687408",
+    "107687409",
+    "107687410",
+    "107687411",
+    "107687412",
+    "107687413",
+    "107687414",
+    "107687415",
+    "107687416",
+    "107687417",
+    "107687418",
+    "107687419",
+    "107687420",
+    "107687437",
+    "107687421",
+    "107687422",
+    "107687423",
+    "107687424",
+    "107687425",
+    "107687426",
+    "107687427",
+    "107687428",
+    "107687429",
+    "107687430",
+    "107687431",
+    "107687432",
+    "107687433",
+    "107687434",
+    "107687435",
+    "107687436"
+   ]
+  },
+  {
+   "date": "2018-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114425586:por",
+     "title": "Lei n.º 114/2017",
+     "published": "2017-12-29",
+     "dre_path": "/dr/detalhe/lei/114-2017-114425586"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "107687401",
+    "107687402",
+    "107687403",
+    "107687404",
+    "107687405",
+    "107687406",
+    "107687407",
+    "107687408",
+    "114434277",
+    "107687410",
+    "107687411",
+    "107687412",
+    "107687413",
+    "107687414",
+    "107687415",
+    "107687416",
+    "107687417",
+    "107687418",
+    "107687419",
+    "107687420",
+    "107687437",
+    "107687421",
+    "107687422",
+    "107687423",
+    "107687424",
+    "107687425",
+    "107687426",
+    "107687427",
+    "107687428",
+    "107687429",
+    "107687430",
+    "107687431",
+    "107687432",
+    "107687433",
+    "107687434",
+    "107687435",
+    "107687436"
+   ]
+  },
+  {
+   "date": "2022-06-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175659840:por",
+     "title": "Decreto-Lei n.º 109-E/2021",
+     "published": "2021-12-09",
+     "dre_path": "/dr/detalhe/decreto-lei/109-e-2021-175659840"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "107687401",
+    "107687402",
+    "107687403",
+    "107687404",
+    "107687405",
+    "107687406",
+    "107687407",
+    "107687408",
+    "175744426",
+    "107687410",
+    "107687411",
+    "107687412",
+    "107687413",
+    "107687414",
+    "107687415",
+    "107687416",
+    "107687417",
+    "107687418",
+    "107687419",
+    "107687420",
+    "107687437",
+    "107687421",
+    "107687422",
+    "107687423",
+    "107687424",
+    "107687425",
+    "107687426",
+    "107687427",
+    "107687428",
+    "107687429",
+    "107687430",
+    "107687431",
+    "107687432",
+    "107687433",
+    "107687434",
+    "107687435",
+    "107687436"
+   ]
+  }
+ ],
+ "fragments": {
+  "107687401": {
+   "fragment_id": "107687494",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 276/2007\n\nde 31 de Julho\n\nNo quadro das orientações definidas pelo Programa de Reestruturação da Administração Central do Estado (PRACE) e dos objectivos do Programa do Governo no tocante à modernização administrativa e à melhoria da qualidade dos serviços públicos com ganhos de eficiência, importa concretizar o esforço de racionalização estrutural consagrado nas novas leis orgânicas dos ministérios em relação aos diversos serviços da administração directa e indirecta do Estado com competências em matéria inspectiva. Uma das vertentes do PRACE consistiu no reforço das funções de apoio à governação e das correspondentes soluções orgânicas. De entre essas funções ressaltam as de inspecção. Estabilizadas as soluções organizativas, identificou-se a necessidade de aprovar um regime jurídico comum a toda a actividade de inspecção que, sem prejuízo da necessidade de acautelar regimes específicos, decorrentes das exigências próprias de cada sector de actividade objecto de acções de inspecção, permita racionalizar e uniformizar um acervo de regras comuns a toda a actividade, designadamente em matérias relacionadas com os deveres de cooperação e colaboração com outras entidades, os procedimentos de inspecção, as garantias da actividade de inspecção, o regime de incompatibilidades e impedimentos do pessoal que exerce funções de inspecção e com a organização interna dos serviços de inspecção.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte"
+  },
+  "107687402": {
+   "fragment_id": "107687495",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "107687403": {
+   "fragment_id": "107687496",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei estabelece o regime jurídico da actividade de inspecção, auditoria e fiscalização dos serviços da administração directa e indirecta do Estado aos quais tenha sido cometida a missão de assegurar o exercício de funções de controlo, interno ou externo."
+  },
+  "107687404": {
+   "fragment_id": "107687497",
+   "type": 11,
+   "heading": "Artigo 2.º — Designações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Designações\n\nPara efeitos do presente decreto-lei, são adoptadas as seguintes designações:\n\na) «Actividade de inspecção», para designar a actividade de inspecção, auditoria e fiscalização desenvolvida pelos serviços da administração directa e indirecta do Estado aos quais tenha sido cometida a missão de assegurar o exercício de funções de controlo, interno ou externo;\n\nb) «Serviço de inspecção», para designar os serviços da administração directa e indirecta do Estado aos quais tenha sido cometida a missão de assegurar o exercício de funções de controlo, interno ou externo;\n\nc) «Pessoal de inspecção», para designar o pessoal dos serviços referidos na alínea anterior que exerça funções de inspecção, auditoria e fiscalização."
+  },
+  "107687405": {
+   "fragment_id": "107687498",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito\n\n1 - O presente decreto-lei aplica-se aos seguintes serviços de inspecção:\n\na) À Inspecção-Geral de Finanças;\n\nb) À Inspecção-Geral da Administração Interna;\n\nc) À Inspecção-Geral da Administração Local;\n\nd) À Inspecção-Geral Diplomática e Consular;\n\ne) À Inspecção-Geral da Defesa Nacional;\n\nf) À Inspecção-Geral dos Serviços de Justiça;\n\ng) À Inspecção-Geral do Ambiente e do Ordenamento do Território;\n\nh) À Autoridade de Segurança Alimentar e Económica;\n\ni) À Inspecção-Geral de Agricultura e Pescas;\n\nj) À Inspecção-Geral das Obras Públicas, Transportes e Comunicações;\n\nl) À Inspecção-Geral do Ministério do Trabalho e da Solidariedade Social;\n\nm) À Autoridade para as Condições de Trabalho;\n\nn) À Inspecção-Geral das Actividades em Saúde;\n\no) À Inspecção-Geral da Educação;\n\np) À Inspecção-Geral do Ministério da Ciência, Tecnologia e do Ensino Superior;\n\nq) À Inspecção-Geral das Actividades Culturais.\n\n2 - O presente decreto-lei aplica-se ainda:\n\na) Às unidades orgânicas da Secretaria-Geral da Presidência do Conselho de Ministros e da Secretaria-Geral do Ministério da Economia e da Inovação às quais sejam cometidas essas funções pelos respectivos diplomas orgânicos;\n\nb) Ao Turismo de Portugal, I. P., no que respeita exclusivamente ao exercício das competências do respectivo Serviço de Inspecção de Jogos."
+  },
+  "107687406": {
+   "fragment_id": "107687499",
+   "type": 1,
+   "heading": "Capítulo II — Actividade de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Actividade de inspecção"
+  },
+  "107687407": {
+   "fragment_id": "107687500",
+   "type": 8,
+   "heading": "Secção I — Cooperação e colaboração com outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Cooperação e colaboração com outras entidades"
+  },
+  "107687408": {
+   "fragment_id": "107687501",
+   "type": 11,
+   "heading": "Artigo 4.º — Deveres de informação e cooperação pelas entidades inspeccionadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Deveres de informação e cooperação pelas entidades inspeccionadas\n\n1 - Os serviços da administração directa, indirecta e autónoma do Estado, bem como as pessoas singulares e colectivas de direito público e privado objecto de acção inspectiva, encontram-se vinculados aos deveres de informação e cooperação, designadamente fornecendo os elementos de informação necessários ao desenvolvimento da actividade de inspecção, nos moldes, suportes e com a periodicidade e urgência requeridos.\n\n2 - Os dirigentes e trabalhadores das entidades inspeccionadas têm o dever de prestar, no prazo fixado para o efeito, todos os esclarecimentos, pareceres, informações e colaboração que lhes sejam solicitados pelos serviços de inspecção.\n\n3 - As entidades inspeccionadas devem dar conhecimento aos serviços de inspecção das medidas adoptadas na sequência das acções de inspecção, designadamente do resultado dos processos disciplinares instaurados em resultado delas.\n\n4 - Para o cumprimento das suas atribuições é conferida aos serviços de inspecção a faculdade de solicitar aos serviços da administração directa e indirecta do Estado a afectação de pessoal técnico especializado para acompanhamento das acções de inspecção.\n\n5 - A violação dos deveres de informação e de cooperação para com os serviços de inspecção faz incorrer o infractor em responsabilidade disciplinar e criminal, nos termos da legislação aplicável."
+  },
+  "107687409": {
+   "fragment_id": "107687502",
+   "type": 11,
+   "heading": "Artigo 5.º — Dever de colaboração e pedidos de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Dever de colaboração e pedidos de informação\n\n1 - As pessoas colectivas públicas devem prestar aos serviços de inspecção toda a colaboração por estes solicitada.\n\n2 - Os serviços de inspecção podem solicitar informações a qualquer pessoa colectiva de direito privado ou pessoa singular, sempre que o repute necessário para o apuramento dos factos."
+  },
+  "107687410": {
+   "fragment_id": "107687503",
+   "type": 11,
+   "heading": "Artigo 6.º — Colaboração entre serviços de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Colaboração entre serviços de inspecção\n\nOs serviços de inspecção têm o dever de colaborar entre si, de acordo com as respectivas atribuições e competências legais, utilizando para tal os mecanismos que se mostrem mais adequados."
+  },
+  "107687411": {
+   "fragment_id": "107687504",
+   "type": 11,
+   "heading": "Artigo 7.º — Colaboração com serviços congéneres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Colaboração com serviços congéneres\n\nOs serviços de inspecção podem prestar colaboração aos serviços congéneres das regiões autónomas no âmbito material das suas atribuições."
+  },
+  "107687412": {
+   "fragment_id": "107687505",
+   "type": 8,
+   "heading": "Secção II — Procedimentos de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Procedimentos de inspecção"
+  },
+  "107687413": {
+   "fragment_id": "107687506",
+   "type": 11,
+   "heading": "Artigo 8.º — Forma e planeamento das acções inspectivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Forma e planeamento das acções inspectivas\n\n1 - As acções de inspecção são ordinárias ou extraordinárias, podendo assumir as formas de auditoria, inspecção, inquérito, sindicância e averiguações.\n\n2 - O disposto no número anterior não prejudica a realização de outras formas de intervenção consagradas em legislação específica.\n\n3 - Consideram-se ordinárias as acções de inspecção que constam de planos anuais elaborados pelo dirigente máximo do serviço inspectivo até 30 de Novembro do ano anterior àquele a que respeitam e aprovados pelo membro do Governo responsável pelo serviço.\n\n4 - Consideram-se extraordinárias as acções de inspecção determinadas por despacho do membro do Governo responsável pelo serviço de inspecção ou pelo respectivo dirigente máximo."
+  },
+  "107687414": {
+   "fragment_id": "107687507",
+   "type": 11,
+   "heading": "Artigo 9.º — Regulamentos do procedimento de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regulamentos do procedimento de inspecção\n\nOs regulamentos do procedimento de inspecção são aprovados por despacho do membro do Governo responsável pelo serviço de inspecção, mediante proposta do inspector-geral ou do dirigente máximo deste serviço."
+  },
+  "107687415": {
+   "fragment_id": "107687508",
+   "type": 11,
+   "heading": "Artigo 10.º — Autonomia técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Autonomia técnica\n\nOs dirigentes dos serviços de inspecção e o pessoal de inspecção gozam de autonomia técnica no exercício das tarefas de inspecção que lhes sejam confiadas."
+  },
+  "107687416": {
+   "fragment_id": "107687509",
+   "type": 11,
+   "heading": "Artigo 11.º — Princípio da proporcionalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Princípio da proporcionalidade\n\nNo exercício das suas funções, os dirigentes dos serviços de inspecção e o pessoal de inspecção deve pautar a sua conduta pela adequação dos seus procedimentos aos objectivos da acção."
+  },
+  "107687417": {
+   "fragment_id": "107687510",
+   "type": 11,
+   "heading": "Artigo 12.º — Princípio do contraditório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Princípio do contraditório\n\n1 - Os serviços de inspecção devem conduzir as suas intervenções com observância do princípio do contraditório, salvo nos casos previstos na lei.\n\n2 - Os serviços de inspecção devem fornecer às entidades objecto da sua intervenção as informações e outros esclarecimentos de interesse justificado que lhe sejam solicitados, sem prejuízo das regras aplicáveis aos deveres de sigilo."
+  },
+  "107687418": {
+   "fragment_id": "107687511",
+   "type": 11,
+   "heading": "Artigo 13.º — Notificação e requisição de testemunhas ou declarantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Notificação e requisição de testemunhas ou declarantes\n\n1 - Os titulares dos órgãos e serviços da administração directa e indirecta do Estado, bem como das empresas e estabelecimentos objecto de acção de inspecção podem ser notificados pelo inspector responsável pela acção de inspecção, para a prestação de declarações ou depoimentos que se julguem necessários.\n\n2 - A comparência, para prestação de declarações ou depoimentos em acções de inspecção ou procedimentos disciplinares, de trabalhadores da administração directa e indirecta do Estado, bem como de outros trabalhadores do sector público, deve ser requisitada à entidade na qual exerçam funções.\n\n3 - A notificação para comparência de quaisquer outras pessoas para os efeitos referidos no número anterior pode ser solicitada às autoridades policiais, observadas as disposições aplicáveis do Código de Processo Penal.\n\n4 - Os serviços de inspecção devem fazer constar no seu relatório anual de actividades quaisquer obstáculos colocados ao normal exercício da sua actuação."
+  },
+  "107687419": {
+   "fragment_id": "107687512",
+   "type": 11,
+   "heading": "Artigo 14.º — Medidas preventivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Medidas preventivas\n\n1 - Quando seja detectada uma situação de grave lesão para o interesse público, o dirigente máximo do serviço de inspecção pode determinar as providências previstas na legislação sectorial aplicável e que, em cada caso, se justifiquem adequadas para prevenir ou eliminar tal situação.\n\n2 - A competência prevista no número anterior pode ser delegada nos dirigentes do serviço de inspecção, sem faculdade de subdelegação."
+  },
+  "107687420": {
+   "fragment_id": "107687513",
+   "type": 11,
+   "heading": "Artigo 15.º — Conclusão do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Conclusão do procedimento\n\n1 - No final de cada acção de inspecção, o inspector responsável pelo procedimento elabora um relatório final e submete-o à decisão do dirigente máximo do serviço de inspecção, que o deve reencaminhar, para homologação, ao ministro da tutela.\n\n2 - O ministro da tutela pode delegar no dirigente máximo do serviço a competência para homologação dos relatórios finais das inspecções, sendo obrigatória a informação dos relatórios à tutela.\n\n3 - Nos casos em que o ministro da tutela delegue a competência para homologação dos relatórios finais, a decisão do dirigente máximo prevista no n.º 1 adquire imediatamente eficácia externa.\n\n4 - No relatório final relativo a cada acção de inspecção, os serviços de inspecção podem emitir recomendações dirigidas à melhoria da adequação das actividades das entidades objecto de inspecção à legislação que lhes seja aplicável e aos fins que prosseguem.\n\n5 - Na sequência da homologação ministerial sobre os seus relatórios, os serviços de inspecção asseguram o respectivo encaminhamento para os membros do Governo com responsabilidades de superintendência ou tutela sobre as entidades inspeccionadas, bem como para o dirigente máximo da entidade objecto de inspecção.\n\n6 - Sem prejuízo do dever de o serviço de inspecção proceder ao acompanhamento do resultado das recomendações e propostas formuladas, as entidades públicas visadas devem fornecer-lhe, no prazo de 60 dias contados a partir da data de recepção do relatório, informações sobre as medidas e decisões entretanto adoptadas na sequência da sua intervenção, podendo ainda pronunciar-se sobre o efeito da acção.\n\n7 - Os serviços de inspecção participam às entidades competentes, nomeadamente ao Ministério Público, os factos com relevância para o exercício da acção penal e contra-ordenacional, quando existam e na sequência da homologação do relatório pelo ministro da tutela.\n\n8 - Os serviços de inspecção devem ainda, por decisão do ministro, e nos termos da Lei n.º 98/97, de 26 de Agosto, enviar ao Tribunal de Contas os relatórios finais das suas acções de inspecção que contenham matéria de interesse para a acção daquele Tribunal.\n\n9 - O disposto no presente artigo não prejudica a aplicação da legislação sectorial e de outros procedimentos determinados pelas necessidades de actuação directa dos serviços de inspecção."
+  },
+  "107687421": {
+   "fragment_id": "107687514",
+   "type": 1,
+   "heading": "Capítulo III — Garantias do exercício da actividade de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Garantias do exercício da actividade de inspecção"
+  },
+  "107687422": {
+   "fragment_id": "107687515",
+   "type": 11,
+   "heading": "Artigo 16.º — Garantias do exercício da actividade de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Garantias do exercício da actividade de inspecção\n\nNo exercício das suas funções, os dirigentes dos serviços de inspecção e o pessoal de inspecção gozam das seguintes prerrogativas:\n\na) Direito de acesso e livre-trânsito, nos termos da lei, pelo tempo e no horário necessários ao desempenho das suas funções, em todos os serviços e instalações das entidades públicas e privadas sujeitas ao exercício das suas atribuições;\n\nb) Requisitar para exame, consulta e junção aos autos, livros, documentos, registos, arquivos e outros elementos pertinentes em poder das entidades cuja actividade seja objecto da acção de inspecção;\n\nc) Recolher informações sobre as actividades inspeccionadas, proceder a exames a quaisquer vestígios de infracções, bem como a perícias, medições e colheitas de amostras para exame laboratorial;\n\nd) Realizar inspecções, com vista à obtenção de elementos probatórios, aos locais onde se desenvolvam actividades sujeitas ao seu âmbito de actuação e passíveis de consubstanciar actividades ilícitas, sem dependência de prévia notificação;\n\ne) Promover, nos termos legais aplicáveis, a selagem de quaisquer instalações, bem como a apreensão de documentos e objectos de prova em poder das entidades inspeccionadas ou do seu pessoal, quando isso se mostre indispensável à realização da acção, para o que deve ser levantado o competente auto;\n\nf) Solicitar a colaboração das autoridades policiais, nos casos de recusa de acesso ou obstrução ao exercício da acção de inspecção por parte dos destinatários, para remover tal obstrução e garantir a realização e a segurança dos actos inspectivos;\n\ng) Solicitar a adopção de medidas cautelares necessárias e urgentes para assegurar os meios de prova, quando tal resulte necessário, nos termos do Código de Processo Penal;\n\nh) Obter, para auxílio nas acções em curso nos mesmos serviços, a cedência de material e equipamento próprio, bem como a colaboração de pessoal que se mostrem indispensáveis, designadamente para o efeito de se executarem ou complementarem serviços em atraso de execução, cuja falta impossibilite ou dificulte aquelas acções;\n\ni) Utilizar nos locais inspeccionados, por cedência das respectivas entidades inspeccionadas, instalações em condições de dignidade e de eficácia para o desempenho das suas funções;\n\nj) Trocar correspondência, em serviço, com todas as entidades públicas ou privadas sobre assuntos de serviço da sua competência;\n\nl) Proceder, por si ou com recurso a autoridade policial ou administrativa, e cumpridas as formalidades legais, às notificações necessárias ao desenvolvimento da acção de inspecção;\n\nm) Ser considerado como autoridade pública para os efeitos de protecção criminal."
+  },
+  "107687423": {
+   "fragment_id": "107687516",
+   "type": 11,
+   "heading": "Artigo 17.º — Meios de identificação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Meios de identificação profissional\n\n1 - Os dirigentes dos serviços de inspecção e o pessoal de inspecção têm direito a cartão de identificação profissional e de livre-trânsito próprio, de modelo a aprovar por portaria do ministro responsável pelo serviço de inspecção respectivo, que devem exibir no exercício das suas funções.\n\n2 - O restante pessoal dos serviços de inspecção dispõe de cartão de identificação de modelo a aprovar por portaria do ministro responsável pelo serviço ou organismo inspectivo respectivo.\n\n3 - A identificação dos dirigentes dos serviços de inspecção e do pessoal de inspecção pode ainda ser feita mediante exibição de crachá, cujo modelo é aprovado por portaria do ministro responsável pelo serviço de inspecção respectivo."
+  },
+  "107687424": {
+   "fragment_id": "107687517",
+   "type": 11,
+   "heading": "Artigo 18.º — Porte de arma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Porte de arma\n\nO pessoal de inspecção e os dirigentes dos serviços de inspecção cujo âmbito de actuação é externo à Administração Pública podem ainda ter direito a possuir e usar arma de defesa, com dispensa da respectiva licença de uso e porte de arma, valendo como tal o respectivo cartão de identificação profissional, quando previsto no respectivo diploma orgânico."
+  },
+  "107687425": {
+   "fragment_id": "107687518",
+   "type": 11,
+   "heading": "Artigo 19.º — Apoio em processos judiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Apoio em processos judiciais\n\n1 - Os dirigentes dos serviços de inspecção e o pessoal de inspecção que sejam arguidos ou parte em processo contra-ordenacional, disciplinar ou judicial, por actos cometidos ou ocorridos no exercício e por causa das suas funções, têm direito a ser assistidos por advogado, indicado, nos termos da lei, pelo dirigente máximo do serviço de inspecção, ouvido o interessado, retribuído a expensas do organismo correspondente.\n\n2 - O pessoal referido no número anterior tem ainda direito ao pagamento das custas judiciais, bem como a transportes e ajudas de custo quando a localização do tribunal ou das entidades judiciais o justifique.\n\n3 - As importâncias eventualmente dispendidas ao abrigo do disposto nos números anteriores devem ser reembolsadas pelo funcionário ou agente que lhes deu causa, no caso de condenação em qualquer dos processos referidos no n.º 1."
+  },
+  "107687426": {
+   "fragment_id": "107687519",
+   "type": 1,
+   "heading": "Capítulo IV — Regime de incompatibilidades e impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regime de incompatibilidades e impedimentos"
+  },
+  "107687427": {
+   "fragment_id": "107687520",
+   "type": 11,
+   "heading": "Artigo 20.º — Incompatibilidades e impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Incompatibilidades e impedimentos\n\n1 - O pessoal dos serviços de inspecção está sujeito ao regime geral de incompatibilidades e impedimentos vigente na Administração Pública.\n\n2 - Encontra-se ainda vedado ao pessoal de inspecção:\n\na) Efectuar quaisquer acções de natureza inspectiva ou disciplinar em serviços, organismos e empresas onde exerçam funções ou prestem serviços parentes seus ou afins em qualquer grau da linha recta ou até ao 3.º grau da linha colateral;\n\nb) Efectuar quaisquer acções de natureza inspectiva ou disciplinar em serviços, organismos e empresas onde tenham exercido funções há menos de três anos ou onde as exerçam em regime de acumulação;\n\nc) Aceitar hospedagem, onerosa ou gratuita, em estabelecimento que seja propriedade de titulares dos órgãos ou dirigentes das entidades inspeccionadas quando estas sejam objecto de qualquer acção de natureza inspectiva.\n\n3 - Na decisão dos pedidos de acumulação de funções de inspecção com qualquer função, remunerada ou não, os dirigentes dos serviços de inspecção devem ponderar os riscos para a imparcialidade do pessoal de inspecção decorrentes do exercício de funções em entidades integradas no âmbito de intervenção do respectivo serviço de inspecção."
+  },
+  "107687428": {
+   "fragment_id": "107687521",
+   "type": 11,
+   "heading": "Artigo 21.º — Sigilo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Sigilo profissional\n\n1 - Para além da sujeição aos demais deveres inerentes ao exercício das suas funções, os dirigentes, o pessoal de inspecção e todos aqueles que com eles colaborem são obrigados a guardar sigilo sobre as matérias de que tiverem conhecimento no exercício das suas funções ou por causa delas, não podendo divulgar ou utilizar em proveito próprio ou alheio, directamente ou por interposta pessoa, o conhecimento assim adquirido.\n\n2 - A violação do sigilo profissional pode implicar a aplicação de sanções disciplinares, determináveis em função da sua gravidade, sem prejuízo da responsabilidade civil ou criminal que dela possa resultar.\n\n3 - O dever de sigilo profissional mantém-se após a cessação das funções."
+  },
+  "107687429": {
+   "fragment_id": "107687522",
+   "type": 1,
+   "heading": "Capítulo V — Organização interna dos serviços de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Organização interna dos serviços de inspecção"
+  },
+  "107687430": {
+   "fragment_id": "107687523",
+   "type": 11,
+   "heading": "Artigo 22.º — Áreas territoriais de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Áreas territoriais de inspecção\n\n1 - O dirigente máximo pode definir áreas territoriais de inspecção, com o objectivo de agilizar e diversificar a intervenção dos inspectores, assegurando uma melhor distribuição, coordenação e qualidade de trabalho.\n\n2 - No despacho que defina as áreas territoriais de inspecção, o dirigente máximo pode ainda fixar, obtido o acordo do funcionário ou agente, um domicílio profissional distinto do da respectiva sede."
+  },
+  "107687431": {
+   "fragment_id": "107687524",
+   "type": 11,
+   "heading": "Artigo 23.º — Tipo de organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Tipo de organização interna\n\n1 - Na organização interna dos serviços de inspecção pode ser adoptada a estrutura matricial, nos termos previstos na Lei n.º 4/2004, de 15 de Janeiro.\n\n2 - Aos chefes das equipas multidisciplinares de inspecção pode ser atribuído um estatuto remuneratório definido através de um acréscimo remuneratório em pontos indiciários da escala salarial geral e a designação de chefes de equipa ou coordenadores, nos diplomas orgânicos dos respectivos serviços de inspecção.\n\n3 - O disposto no número anterior não prejudica os regimes especiais de chefias integradas em carreiras inspectivas próprias."
+  },
+  "107687432": {
+   "fragment_id": "107687525",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais e transitórias"
+  },
+  "107687433": {
+   "fragment_id": "107687526",
+   "type": 11,
+   "heading": "Artigo 24.º — Salvaguarda de regimes especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Salvaguarda de regimes especiais\n\nO disposto no presente decreto-lei não prejudica a consagração nos diplomas orgânicos dos serviços identificados no artigo 3.º ou noutros diplomas específicos referentes àqueles serviços de outros procedimentos e prerrogativas específicos aplicáveis a esses serviços e a algumas das suas áreas de actividade de inspecção, designadamente as do âmbito do Sistema de Controlo Interno da Administração Financeira do Estado (SCI), instituído através do Decreto-Lei n.º 166/98, de 25 de Junho."
+  },
+  "107687434": {
+   "fragment_id": "107687527",
+   "type": 11,
+   "heading": "Artigo 25.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Norma revogatória\n\nSão revogados os artigos 12.º a 19.º e 28.º do Decreto-Lei n.º 249/98, de 11 de Agosto."
+  },
+  "107687435": {
+   "fragment_id": "107687528",
+   "type": 11,
+   "heading": "Artigo 26.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "107687437": {
+   "fragment_id": "107687530",
+   "type": 11,
+   "heading": "Artigo 15.º-A — Acompanhamento no âmbito do Sistema de Controlo Interno da Administração Financeira do Estado",
+   "in_force_from": "2012-02-14",
+   "changed_by": [
+    "Aditado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 32/2012 - Diário da República n.º 31/2012, Série I de 2012-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), em vigor a partir de 2012-02-14"
+   ],
+   "markdown": "###### Artigo 15.º-A — Acompanhamento no âmbito do Sistema de Controlo Interno da Administração Financeira do Estado\n\nQuando se trate de ações relativas à gestão, organização, funcionamento ou avaliação das entidades objeto da sua intervenção, os serviços de inspeção devem enviar os relatórios finais das suas ações de inspeção, incluindo as recomendações, aos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública, nos termos a definir por despacho dos mesmos membros do Governo.\n\n> Aditado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 32/2012 - Diário da República n.º 31/2012, Série I de 2012-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), em vigor a partir de 2012-02-14"
+  },
+  "107687436": {
+   "fragment_id": "107687529",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de Maio de 2007. - José Sócrates Carvalho Pinto de Sousa - Eduar do Arménio do Nascimento Cabrita - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Henrique Nuno Pires Severiano Teixeira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - Maria Isabel da Silva Pires de Lima.\n\nPromulgado em 29 de Junho de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 3 de Julho de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "114434277": {
+   "fragment_id": "107687502",
+   "type": 11,
+   "heading": "Artigo 5.º — Dever de colaboração e pedidos de informação",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 308.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Dever de colaboração e pedidos de informação\n\n1 - As pessoas colectivas públicas devem prestar aos serviços de inspecção toda a colaboração por estes solicitada.\n\n2 - Os serviços de inspecção podem solicitar informações a qualquer pessoa colectiva de direito privado ou pessoa singular, sempre que o repute necessário para o apuramento dos factos.\n\n3 - É facultado, de forma recíproca, o acesso à informação relevante entre:\n\na) Os serviços de inspeção;\n\nb) Os serviços de inspeção e a Autoridade Tributária e Aduaneira;\n\nc) Os serviços de inspeção e os órgãos de polícia criminal;\n\nd) Os serviços de inspeção e quaisquer outras pessoas coletivas públicas.\n\n4 - O acesso à informação relevante para o exercício das respetivas atribuições, as categorias dos titulares e dos dados a analisar, a forma de comunicação e o respetivo tratamento, no âmbito da troca de informações a que se refere o número anterior, é definido mediante protocolos a celebrar entre as respetivas entidades, sujeitos a autorização da Comissão Nacional de Proteção de Dados.\n\n> Alterado pelo/a Artigo 308.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+  },
+  "175744426": {
+   "fragment_id": "107687502",
+   "type": 11,
+   "heading": "Artigo 5.º — Dever de colaboração e pedidos de informação",
+   "in_force_from": "2022-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 109-E/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-e-2021-175659840), em vigor a partir de 2022-06-07",
+    "Alterado pelo/a Artigo 308.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Dever de colaboração e pedidos de informação\n\n1 - As pessoas colectivas públicas devem prestar aos serviços de inspecção toda a colaboração por estes solicitada.\n\n2 - Os serviços de inspecção podem solicitar informações a qualquer pessoa colectiva de direito privado ou pessoa singular, sempre que o repute necessário para o apuramento dos factos.\n\n3 - É facultado, de forma recíproca, o acesso à informação relevante entre:\n\na) Os serviços de inspeção;\n\nb) Os serviços de inspeção e a Autoridade Tributária e Aduaneira;\n\nc) Os serviços de inspeção e os órgãos de polícia criminal;\n\nd) Os serviços de inspeção e quaisquer outras pessoas coletivas públicas.\n\n4 - No âmbito do exercício das respetivas atribuições, os serviços de inspeção podem, nos termos do estabelecido nos protocolos a que se refere o número seguinte, aceder a informação constante das bases de dados das pessoas coletivas públicas, preferencialmente de forma direta e remota.\n\n5 - As condições de acesso e tratamento da informação prevista nos n.os 3 e 4, nomeadamente as categorias dos funcionários autorizados a aceder à informação, a forma de comunicação ou de acesso, a natureza e categoria dos dados consultáveis e os termos da conservação da informação obtida são definidas mediante protocolos a celebrar entre as respetivas entidades, sujeitos a autorização da Comissão Nacional de Proteção de Dados.\n\n> Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 109-E/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-e-2021-175659840), em vigor a partir de 2022-06-07\n\n> Alterado pelo/a Artigo 308.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+  }
+ }
+}

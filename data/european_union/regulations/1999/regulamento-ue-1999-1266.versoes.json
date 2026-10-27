@@ -1,0 +1,164 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31999R1266:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999R1266-20070101",
+ "dre_path": null,
+ "source_lastmod": "2007-01-01",
+ "versions": [
+  {
+   "date": "1999-06-26",
+   "future": false,
+   "celex": "31999R1266",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5e33a5872d21d3af",
+    "ebc327ef0f906902",
+    "dc3ecacea80f2d5b",
+    "15cde71f674e3b22",
+    "0463ed7a9c3ca9ef",
+    "a48a87ee56ea777d",
+    "c730c241bfa3f3d8",
+    "aef81f4213071937",
+    "2912c6b107414f25",
+    "89d116b7df5f27bc",
+    "88932584f1f129a0",
+    "ea3ad2702e9e24a3",
+    "2e6587fc4b41e7dd",
+    "f7e93b34a2d5fc81",
+    "293ed84400750d07",
+    "4a28f2a92f00fa20"
+   ]
+  }
+ ],
+ "fragments": {
+  "5e33a5872d21d3af": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n° 1266/1999 do Conselho de 21 de Junho de 1999 relativo à coordenação da assistência aos países candidatos no âmbito da estratégia de pré-adesão e que altera o Regulamento (CEE) n° 3906/89** *Jornal Oficial nº L 161 de 26/06/1999 p. 0068 - 0072*\n\nREGULAMENTO (CE) N.o 1266/1999 DO CONSELHO\n\nde 21 de Junho de 1999\n\nrelativo à coordenação da assistência aos países candidatos no âmbito da estratégia de pré-adesão e que altera o Regulamento (CEE) n.o 3906/89\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 308.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Parlamento Europeu(2),\n\n(1) Considerando que o Conselho Europeu do Luxemburgo se pronunciou a favor de um aumento considerável da ajuda de pré-adesão, que incluirá, para além do programa PHARE, auxílios à agricultura e em matéria de intervenções estruturais;\n\n(2) Considerando que o Regulamento (CE) n.o 622/98 do Conselho, de 16 de Março de 1998, relativo à assistência aos Estados candidatos à adesão à União Europeia no contexto de uma estratégia de pré-adesão e, em particular, à instituição de parcerias de adesão(3), prevê que aquelas parcerias devem compreender um quadro único para os domínios prioritários e todos os recursos disponíveis para uma assitência de pré-adesão;\n\n(3) Considerando que o Regulamento (CE) n.o 1268/1999(4) instituiu um instrumento agrícola a aplicar, nomeadamente, à modernização das estruturas das explorações agrícolas, à melhoria das estruturas de transformação e de distribuição, ao desenvolvimento de actividades de controlo e ao desenvolvimento rural;\n\n(4) Considerando que o instrumento estrutural instituído pelo Regulamento (CE) n.o 1267/1999(5) se destina ao financiamento das infra-estruturas nos sectores dos transportes e do ambiente;\n\n(5) Considerando que o programa PHARE, instituído pelo Regulamento (CEE) n.o 3906/89(6), passa a centrar as suas intervenções nas prioridades essenciais relacionadas com a transposição do acervo comunitário, nomeadamente, o reforço das capacidades administrativas e institucionais dos países candidatos à adesão e o financiamento dos investimento, a fim de ajudar estes países a cumprir o mais rapidamente possível o disposto na legislação comunitária;\n\n(6) Considerando a necessidade de optimizar o impacto económico das intervenções comunitárias efectuadas no âmbito dos três instrumentos de pré-adesão acima referidos;\n\n(7) Considerando que o ponto 17 das conclusões do Conselho Europeu do Luxemburgo, de 12 e 13 de Dezembro de 1997, prevê que, em relação à repartição da ajuda, o apoio financeiro aos países implicados no processo de alargamento se deverá basear no princípio da igualdade de tratamento, independentemente da data da adesão, dando-se especial atenção aos Estados com maiores necessidades;\n\n(8) Considerando que, embora respeitando a especificidade de cada um desses instrumentos, é necessário assegurar a coordenação das suas intervenções e destas com as do Banco Europeu de Investimento, do Banco Europeu de Reconstrução e Desenvolvimento, dos outros instrumentos financeiros comunitários e das outras instituições financeiras internacionais;\n\n(9) Considerando que, a fim de assegurar uma protecção eficaz dos interesses financeiros da Comunidade e combater a fraude e outras irregularidades, é necessário prever o intercâmbio de informações e a cooperação entre a Comissão e os países candidatos no que respeita aos controlos e verificações a efectuar no local;\n\n(10) Considerando que, a fim de associar mais estreitamente os países candidatos à gestão da assistência de pré-adesão de que são beneficiários, é conveniente instituir progressivamente uma gestão descentralizada por esses países, tendo em conta as respectivas capacidades de gestão e de controlo financeiro;\n\n(11) Considerando que a Comissão deve apresentar regularmente relatórios sobre a ajuda de pré-adesão concedida aos países candidatos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "ebc327ef0f906902": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA coordenação e a coerência entre a assistência prestada no âmbito da estratégia de pré-adesão pelo instrumento agrícola e de desenvolvimento rural (a seguir designado \"instrumento agrícola\"), pelo instrumento estrutural e pelo programa PHARE, serão asseguradas nos termos do presente regulamento."
+  },
+  "dc3ecacea80f2d5b": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs medidas de apoio ao desenvolvimento agrícola e rural, definidas no artigo 2.o do instrumento agrícola instituído pelo Regulamento n.o 1268/1999, serão financiadas nos termos do disposto nesse regulamento."
+  },
+  "15cde71f674e3b22": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs projectos de investimentos nos domínios abaixo indicados serão financiados pelo instrumento estrutural de pré-adesão criado pelo Regulamento (CE) n.o 1267/1999, nas condições nele previstas:\n\n- medidas no domínio do ambiente que permitam aos países beneficiários cumprir as disposições da legislação comunitária de ambiente e os objectivos das parcerias de adesão,\n\n- medidas no domínio das infra-estruturas de transporte, que promovam uma mobilidade sustentável e, nomeadamente, as que constituam projectos de interesse comum, com base nos critérios da Decisão n.o 1692/96/CE(7), e as que permitam aos países beneficiários cumprir os objectivos das parcerias de adesão; essas medidas incluem, nomeadamente, a interconexão e a interoperabilidade das redes nacionais entre si e com as redes transeuropeias, assim como o acesso a estas redes."
+  },
+  "0463ed7a9c3ca9ef": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os financiamentos ao abrigo do programa PHARE serão efectuados nos termos do Regulamento (CEE) n.o 3906/89.\n\n2. O Regulamento (CEE) n.o 3906/89 é alterado pelo aditamento de um novo n.o 3 ao artigo 3.o, com a seguinte redacção:\n\n\"3. No que se refere aos países candidatos com parcerias de adesão com a União Europeia, os financiamentos ao abrigo do programa PHARE concentram-se nas prioridades essenciais relativas à transposição do acervo comunitário, nomeadamente, o reforço das capacidades administrativas e institucionais dos países candidatos à adesão e os investimentos, com excepção dos investimentos financiados ao abrigo dos Regulamentos (CE) n.o 1267/1999(8) e (CE) n.o 1268/1999(9). O programa PHARE pode também financiar as medidas em matéria de ambiente, de transportes e de desenvolvimento agrícola e rural, que sejam uma parte incidental mas indispensável dos programas integrados de reestruturação industrial ou de desenvolvimento regional.\"."
+  },
+  "a48a87ee56ea777d": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs apoios concedidos às acções ou medidas financiadas a título da assistência de pré-adesão devem provir de um só dos instrumentos previstos no presente regulamento."
+  },
+  "c730c241bfa3f3d8": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO financiamento das acções ou medidas previstas no presente regulamento depende do cumprimento dos compromissos assumidos nos Acordos Europeus, tal como se refere no Regulamento (CE) n.o 622/98, e das condições previstas nas parcerias de adesão, assim como das disposições aplicáveis dos Regulamento (CEE) n.o 3906/89, (CE) n.o 1267/1999 e (CE) n.o 1268/1999 e do presente regulamento."
+  },
+  "aef81f4213071937": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados beneficiários participarão no financiamento dos investimentos."
+  },
+  "2912c6b107414f25": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAs acções ou medidas financiadas ao abrigo dos três instrumentos referidos nos artigos 2.o, 3.o e 4.o serão decididas nos termos de cada um dos regulamentos relativos a esses instrumentos."
+  },
+  "89d116b7df5f27bc": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. A Comissão é responsável pela coordenação das intervenções ao abrigo dos três instrumentos referidos e, em especial, pela elaboração das orientações da assistência de pré-adesão, para cada país. Para o efeito, a Comissão será assistida pelo comité previsto no artigo 9.o do Regulamento (CEE) n.o 3906/89.\n\n2. A Comissão informará o comité referido no n.o 1 acerca das dotações financeiras indicativas, para cada país e por instrumento de pré-adesão, assim como acerca das acções desenvolvidas ao abrigo do artigo 10.o e das decisões adaptadas ao abrigo do artigo 12.o Essas decisões serão comunicadas ao Tribunal de Contas."
+  },
+  "88932584f1f129a0": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA Comissão assegura a coordenação e a coerência das intervenções efectuadas no âmbito do presente regulamento ao abrigo do orçamento comunitário, bem como das intervenções financiadas pelo Banco Europeu de Investimento, por outros instrumentos financeiros comunitários e por instituições financeiras internacionais."
+  },
+  "ea3ad2702e9e24a3": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. A Comissão prestará a assistência comunitária, segundo regras de transparência e o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias e, nomeadamente, o seu artigo 114.o\n\n2. A assistência de pré-adesão abrangerá igualmente as despesas relativas ao acompanhamento, controlo e avaliação das intervenções efectuadas.\n\n3. As decisões de financiamento, bem como todos os contratos ou instrumentos de execução delas decorrentes, preverão expressamente eventuais controlos in loco da Comissão e do Tribunal de Contas."
+  },
+  "2e6587fc4b41e7dd": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. A selecção dos projectos e os respectivos concursos e adjudicações pelos países candidatos serão sujeitos à aprovação prévia da Comissão.\n\n2. Contudo, a Comissão pode, através de uma análise caso a caso da capacidade de gestão nacional e sectorial dos programas/projectos, dos processos de controlo financeiro e das estruturas no que se refere às finanças públicas, decidir estabelecer derrogações da exigência de aprovação prévia prevista no n.o 1 e conceder a gestão descentralizada da ajuda a agências de execução dos países candidatos. Essa derrogação estará condicionada a:\n\n- critérios mínimos para determinar a capacidade das agências de execução dos países candidatos para gerirem a ajuda e a condições mínimas aplicáveis a essas agências, definidas no anexo do presente regulamento,\n\n- e disposições específicas relativas, nomeadamente, a anúncios de concursos, análise e avaliação de concursos, adjudicações e execução de directivas comunitárias em matéria de contratos públicos, que serão acordadas nas convenções de financiamento concluídas com cada país beneficiário.\n\n3. As regras de controlo e de avaliação serão adoptadas pela Comissão."
+  },
+  "f7e93b34a2d5fc81": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nA Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório anual para cada país relativo ao conjunto da assistência de pré-adesão."
+  },
+  "293ed84400750d07": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nO presente regulamento entra em vigor três dias após a sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito no Luxemburgo, em 21 de Junho de 1999.\n\nPelo Conselho\n\nO Presidente\n\nG. VERHEUGEN\n\n(1) JO C 140 de 5.5.1998, p. 26 e\n\nJO C 329 de 27.10.1998, p. 13.\n\n(2) Parecer emitido em 6 de Maio de 1999 (ainda não publicado no Jornal Oficial).\n\n(3) JO L 85 de 20.3.1998, p. 1.\n\n(4) Ver a página 87 do presente Jornal Oficial.\n\n(5) Ver a página 73 do presente Jornal Oficial.\n\n(6) JO L 375 de 23.12.1989, p. 11. Regulamento com a última readacção que lhe foi dada pelo Regulamento (CE) n.o 753/96 (JO L 103 de 26.4.1996, p. 5.)\n\n(7) JO L 228 de 9.9.1996, p. 1.\n\n(8) JO L 160 de 26.6.1999, p. 73.\n\n(9) JO L 160 de 26.6.1999, p. 87."
+  },
+  "4a28f2a92f00fa20": {
+   "fragment_id": "ANEXO — CRITÉRIOS E CONDIÇÕES MÍNIMOS PARA A DESCENTRALIZAÇÃO DA GESTÃO A FAVOR DE AGÊNCIAS DE EXECUÇÃO NOS PAÍSES CANDIDATOS (ARTIGO 12.o)",
+   "type": "divisao",
+   "heading": "ANEXO — CRITÉRIOS E CONDIÇÕES MÍNIMOS PARA A DESCENTRALIZAÇÃO DA GESTÃO A FAVOR DE AGÊNCIAS DE EXECUÇÃO NOS PAÍSES CANDIDATOS (ARTIGO 12.o)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — CRITÉRIOS E CONDIÇÕES MÍNIMOS PARA A DESCENTRALIZAÇÃO DA GESTÃO A FAVOR DE AGÊNCIAS DE EXECUÇÃO NOS PAÍSES CANDIDATOS (ARTIGO 12.o)\n\n1. Critérios mínimos de avaliação da capacidade das agências de execução dos países candidatos para gerirem a ajuda:\n\nA Comissão aplicará os seguintes critérios para determinar as agências de execução dos países parceiros com capacidade para gerir a ajuda numa base descentralizada:\n\ni) Deve existir um sistema de gestão dos fundos bem definido, com um regulamento interno completo e responsabilidades claras, tanto a nível institucional como pessoal;\n\nii) Deve ser respeitado o princípio da separação dos poderes, de modo a não existir um risco de conflito de interesses em matéria de aquisições e de pagamentos;\n\niii) O pessoal adequado deve estar disponível e ser afectado a essas funções. Esse pessoal deve possuir a competência necessárias em matéria de fiscalização de contas, competência linguística e estar plenamente formado na execução de programas comunitários.\n\n2. Condições mínimas para a descentralização da gestão a favor de agências de execução dos países candidatos\n\nPode-se considerar a atribuição de gestão descentralizada, com controlo subsequente pela Comissão, a agências de execução que satisfaçam as seguintes condições:\n\ni) Prova de controlos internos eficazes, incluindo uma função de fiscalização de contas independente e um sistema eficaz de relatórios contabilísticos e financeiros, segundo normas contabilísticas internacionais;\n\nii) Auditoria financeira e operacional recente demonstrando uma gestão eficaz e atempada da assistência comunitária ou de medidas nacionais de natureza equivalente;\n\niii) Sistema de controlo financeiro nacional fiável sobre a agência de execução;\n\niv) Normas sobre contratos públicos que a Comissão considere preencherem os requisitos do título IX do Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias;\n\nv) Compromisso do gestor orçamental nacional, de assumir plenamente a responsabilidade, nomeadamente financeira, sobre os fundos.\n\nEsta abordagem não invalida o direito da Comissão e do Tribunal de Contas de verificarem as despesas."
+  }
+ }
+}

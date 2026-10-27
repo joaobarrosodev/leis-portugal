@@ -1,0 +1,827 @@
+---
+schema_version: '1.0'
+id: pt:dre:517859:por
+title: Decreto-Lei n.º 41/2007
+short_title: null
+summary: Cria a Parque Escolar, E. P. E., e aprova os respectivos estatutos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 41/2007
+official_date: null
+publication_date: '2007-02-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 37/2007, Série I de 2007-02-21
+  number: '37'
+  series: I
+  supplement: null
+  pages: 1287 - 1294
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/02/03700/12871294.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-06-06'
+version_history:
+  file: decreto-lei-41-2007.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2007-02-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-04-03'
+    amending: pt:dre:603244:por
+    amending_title: Decreto-Lei n.º 83/2009
+    changes:
+    - Adita Artigo 5.º-A
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 12.º
+    - Altera Anexo II
+  - date: '2020-09-26'
+    amending: pt:dre:143741480:por
+    amending_title: Decreto-Lei n.º 75/2020
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 10.º
+    - Altera Secção II
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+  - date: '2023-06-06'
+    amending: pt:dre:213918209:por
+    amending_title: Decreto-Lei n.º 42/2023
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 5.º-A
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 2.º
+    - Altera Artigo 8.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/41/2007/p/cons/20230605/pt/html
+  oj: null
+  dre: '517859'
+  dre_path: /dr/detalhe/decreto-lei/41-2007-517859
+  internal: pt:dre:517859:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2007-517859
+  metadata_url: https://data.dre.pt/eli/dec-lei/41/2007/p/cons/20230605/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-143741286
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-143741286
+  retrieved_at: '2026-10-22T12:34:51Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 3fb9f4451199e591f3853e35cc84b5ce79bf9fbe55d33bd97a8769d448570a9c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:34:51Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-41-2007.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Bens e Serviços
+- Capital Social
+- REDE Escolar
+- Gestão Financeira
+- Empresa Pública
+- Gestão Administrativa
+- Estatuto
+- Gestão Escolar
+- Parque Escolar
+- Estabelecimento de Ensino
+relationships:
+- type: amended_by
+  target: pt:dre:603244:por
+  label: Adita Artigo 5.º-A; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 12.º; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2009-603244
+  date: '2009-04-02'
+- type: amended_by
+  target: pt:dre:143741480:por
+  label: Altera Artigo 6.º; Altera Artigo 10.º; Altera Secção II; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 19.º;
+    Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2020-143741480
+  date: '2020-09-25'
+- type: amended_by
+  target: pt:dre:213918209:por
+  label: Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 5.º-A; Altera Artigo 7.º;
+    Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 2.º; Altera Artigo 8.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera
+    Artigo 15.º; Altera Artigo 16.º; Altera Artigo 18.º; Altera Artigo 22.º; Altera Artigo 23.º; Revoga Artigo 11.º; Revoga
+    Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209
+  date: '2023-06-05'
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/1/2007/01/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/1/2007/01/03/p/dre
+- type: cites
+  target: pt:dre:480709:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/199/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/558/1999/12/17/p/dre
+article_structure:
+  article_count: 38
+  section_count: 8
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:34:51Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 41/2007
+
+Decreto-Lei n.º 41/2007
+
+de 21 de Fevereiro
+
+A Resolução do Conselho de Ministros n.º 1/2007, de 3 de Janeiro, aprovou o Programa de Modernização do Parque Escolar Destinado ao Ensino Secundário.
+
+De acordo com o respectivo texto preambular, constitui objectivo programático do XVII Governo Constitucional a superação do atraso educativo português face aos padrões europeus enquanto desafio nacional que passa, designadamente, pela integração de todas as crianças e jovens na escola, proporcionando-lhes um ambiente de aprendizagem motivador, exigente e gratificante.
+
+Neste contexto, assumirá importância fundamental a oferta aos alunos, docentes e demais agentes do sistema educativo de instalações escolares com condições de funcionalidade, conforto, segurança, salubridade e aptas à sua integração e adaptação ao processo dinâmico de introdução de novas tecnologias.
+
+Para além da manifesta degradação que ao longo das últimas décadas tem vindo a observar-se no estado de conservação das instalações escolares destinadas ao ensino secundário, decorrendo essencialmente da idade das mesmas e da ausência de uma correcta e contínua política de conservação e manutenção, acrescem ainda problemas de obsolescência funcional, resultado da alteração das condições iniciais de uso e da própria evolução dos curricula e didácticas aplicadas.
+
+Na verdade, as intervenções de conservação, manutenção e adaptação a novas exigências têm sido realizadas de uma forma casuística, sempre de forma pontual e consubstanciando formas de abordagem superficiais e apenas para fazer face a necessidades concretas sentidas nos respectivos estabelecimentos escolares.
+
+Mostra-se necessário, pois, e de forma inovadora, desenvolver um modelo de gestão do processo de modernização das instalações escolares destinadas ao ensino secundário que, de modo geral, abrangente, sistemático e duradouro, permita inverter o curso do processo de degradação e obsolescência funcional a que têm estado sujeitas, criando condições para:
+
+Concretizar uma efectiva reabilitação das instalações escolares, promovendo a sua modernização por referência às exigências que os novos padrões e modelos pedagógicos impõem, designadamente na concepção e arranjo dos espaços e equipamentos;
+
+Assegurar que a reabilitação seja concretizada através de processos eficazes, obedecendo a uma rigorosa programação, em virtude de consubstanciarem intervenções profundas que se desenvolverão, na maioria dos casos, com as escolas em funcionamento;
+
+Implementar, após as intervenções de modernização, um modelo de gestão das instalações escolares que responda eficazmente e com custos controlados às solicitações normais de conservação e manutenção, evitando a rápida degradação dos mesmos e, no limite, conduzam ao desvirtuar dos princípios orientadores do processo de modernização;
+
+Garantir um efectivo controlo de custos nas várias fases definidas;
+
+Assegurar as fontes e modelos de financiamento, paralelos ao PIDDAC e aos fundos comunitários, que permitam a mais rápida e eficaz concretização do programa de modernização e às fases subsequentes de conservação e manutenção, atendendo ao quadro vigente de restrições orçamentais;
+
+Garantir que o desenvolvimento, aprofundamento e materialização dos princípios orientadores do programa de modernização das instalações escolares destinadas ao ensino secundário seja estendido a outras escolas da rede do Ministério da Educação, bem como à concepção e construção de novas escolas.
+
+Para tanto e nos termos da referida resolução do conselho de Ministros, entendeu o Governo determinar a criação de uma entidade pública empresarial (E. P. E.) que tenha por objecto principal, em moldes empresariais, o planeamento, a gestão, o desenvolvimento e a execução da política de modernização e manutenção da rede pública de escolas secundárias.
+
+A E. P. E. assegurará a execução de um programa plurianual de modernização de infra-estruturas escolares nos termos e condições constantes de contrato a estabelecer com o Estado, no qual serão igualmente previstas as respectivas contrapartidas pelo serviço prestado.
+
+Deste modo, a criação de uma entidade de direito público de natureza empresarial, dotada de autonomia administrativa, financeira e patrimonial, é a solução que melhor pode corresponder à concretização dos objectivos definidos.
+
+Contudo, e por forma a dar resposta, em moldes adequados e necessariamente eficazes, ao propósito que levou à sua criação, torna-se absolutamente indispensável que a entidade a criar seja dotada de mecanismos céleres de actuação no que respeita à contratação de empreitadas de obras públicas e à aquisição ou locação de bens e serviços, o que se traduzirá, sem prejuízo da garantia dos interesses do Estado e da rigorosa transparência, na assumpção dos encargos, pelo recurso aos procedimentos por negociação, consulta prévia ou ajuste directo, ainda que na observância dos limiares máximos estabelecidos pela regulamentação comunitária na matéria em apreço.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Criação e regime jurídico
+
+1 - É criada a Parque Escolar, E. P. E.
+
+2 - São aprovados os estatutos da Parque Escolar, E. P. E., constantes do anexo I do presente decreto-lei e que dele faz parte integrante.
+
+3 - A Construção Pública, E. P. E., rege-se pelo regime jurídico do setor público empresarial, aprovado pelo Decreto-Lei n.º 133/2013, de 3 de outubro, na sua redação atual, com as especificidades previstas neste diploma e nos seus estatutos, bem como no respetivo regulamento interno.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42/2023 - Diário da República n.º 108/2023, Série I de 2023-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209), em vigor a partir de 2023-06-06
+
+###### Artigo 2.º — Registos
+
+O presente decreto-lei constitui título bastante, para todos os efeitos legais, incluindo os de registo comercial.
+
+###### Artigo 3.º — Natureza e tutela
+
+A Construção Pública, E. P. E., tem a natureza de pessoa coletiva de direito público de natureza empresarial, dotada de personalidade jurídica, autonomia administrativa e financeira e de património próprio, nos termos do regime jurídico do setor público empresarial, estando sujeita à tutela dos membros do Governo responsáveis pelas áreas das finanças e, em função da matéria, da educação ou da habitação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42/2023 - Diário da República n.º 108/2023, Série I de 2023-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209), em vigor a partir de 2023-06-06
+
+###### Artigo 4.º — Objecto
+
+A Construção Pública, E. P. E., tem por objeto o planeamento, gestão, desenvolvimento e execução de programas e projetos de construção, reconstrução, reabilitação, requalificação, modernização, adaptação, manutenção e conservação de edifícios, equipamentos e outro património imobiliário próprio ou alheio, designadamente nos domínios da educação e da habitação, bem como a prestação de serviços de consultoria, assessoria e gestão de contratos públicos, naqueles âmbitos, relativos a património público alheio.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42/2023 - Diário da República n.º 108/2023, Série I de 2023-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209), em vigor a partir de 2023-06-06
+
+###### Artigo 5.º — Património
+
+Integram o património próprio da Parque Escolar, E. P. E.:
+
+a) A universalidade dos bens e direitos conforme lista constante do anexo II do presente decreto-lei e que dele faz parte integrante;
+
+b) Os bens e direitos que ulteriormente vierem a ser transmitidos do domínio privado do Estado mediante lista aprovada por despacho dos membros do Governo responsáveis pelas áreas das finanças e da educação;
+
+c) Os bens e direitos adquiridos no âmbito da sua actividade.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 42/2023 - Diário da República n.º 108/2023, Série I de 2023-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209), em vigor a partir de 2023-06-06
+
+###### Artigo 5.º-A — Identificação dos imóveis a transmitir
+
+1 - Previamente à emissão do despacho previsto na alínea b) do artigo anterior, a Parque Escolar, E. P. E., deve diligenciar no sentido de obter todos os elementos de identificação necessários à regularização matricial e registral dos imóveis a transmitir.
+
+2 - O despacho previsto na alínea b) do artigo anterior deve conter, relativamente a cada imóvel a transmitir, todos os elementos de identificação obtidos nos termos do número anterior.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 42/2023 - Diário da República n.º 108/2023, Série I de 2023-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209), em vigor a partir de 2023-06-06
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 83/2009 - Diário da República n.º 65/2009, Série I de 2009-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2009-603244), em vigor a partir de 2009-04-03
+
+###### Artigo 6.º — Regime das transferências
+
+As transferências previstas na alínea a) do artigo 5.º operam-se, em conformidade com o Decreto-Lei n.º 199/2004, de 18 de Agosto, por efeito do presente decreto-lei, o qual constitui título bastante para todos os efeitos legais, incluindo os de registo, e ficam isentas de quaisquer taxas e emolumentos.
+
+###### Artigo 7.º — Regime especial de reavaliação
+
+1 - A Parque Escolar, E. P. E., procederá no prazo de 18 meses, após a efectivação de cada uma das transferências de património referidas no artigo anterior, à reavaliação, na parte correspondente, do activo imobilizado corpóreo próprio ou dos bens afectos à sua actividade, usando como base o valor resultante de avaliações elaboradas por entidade independente, seleccionada de acordo com normas aprovadas por despacho dos membros do Governo responsáveis pelas áreas das finanças e da educação.
+
+2 - As reavaliações a que a Parque Escolar, E. P. E., entenda proceder nos termos do número anterior, devem reportar-se à data em que sejam efectuadas e constar do balanço referente ao ano em que se realizam.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 42/2023 - Diário da República n.º 108/2023, Série I de 2023-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209), em vigor a partir de 2023-06-06
+
+###### Artigo 8.º — Poderes de autoridade
+
+Para o exercício das suas atribuições, a Parque Escolar, E. P. E., detém poderes, prerrogativas e obrigações conferidas ao Estado pelas disposições legais e regulamentares aplicáveis quanto:
+
+a) A processos de expropriação, nos termos previstos no respectivo Código;
+
+b) Ao embargo administrativo e demolição de construções efectuadas em zonas non aedificandi e zonas de protecção estabelecidas por lei;
+
+c) À liquidação e cobrança, voluntária ou coerciva, de taxas e rendimentos provenientes das suas actividades;
+
+d) À execução coerciva das demais decisões de autoridade;
+
+e) À protecção das suas instalações e do seu pessoal;
+
+f) À regulamentação e fiscalização dos serviços prestados no âmbito das suas actividades e à aplicação das correspondentes sanções, nos termos da lei;
+
+g) À responsabilidade civil extracontratual, no domínio de actos de gestão pública.
+
+###### Artigo 9.º — Regime do pessoal
+
+1 - Os trabalhadores da Parque Escolar, E. P. E., estão sujeitos ao regime do contrato individual de trabalho, de acordo com o Código do Trabalho e demais legislação laboral.
+
+2 - A Construção Pública, E. P. E., promove a definição de um estatuto do pessoal, mediante regulamento interno sujeito a homologação dos membros do Governo responsáveis pelas áreas das finanças, educação e habitação, bem como a sua publicação nos termos da lei, sem prejuízo do disposto na subalínea xii) da alínea d) do artigo 10.º
+
+3 - O regime de protecção social do pessoal da Parque Escolar, E. P. E., é o regime geral da segurança social.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42/2023 - Diário da República n.º 108/2023, Série I de 2023-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209), em vigor a partir de 2023-06-06
+
+###### Artigo 10.º — Tutela económica e financeira
+
+A tutela económica e financeira da Construção Pública, E. P. E., é exercida pelos membros do Governo responsáveis pelas áreas das finanças e, em função da matéria, da educação e da habitação, sem prejuízo do regime jurídico do setor público empresarial, e compreende:
+
+a) A definição dos objectivos básicos da empresa, particularmente para efeitos de preparação dos planos de investimentos, financiamentos e dos orçamentos;
+
+b) O poder de exigir todas as informações e documentos julgados úteis para acompanhar a actividade da empresa;
+
+c) O poder de determinar inspecções ou inquéritos ao funcionamento da empresa ou a certos aspectos deste, independentemente da existência de indícios de prática de irregularidades;
+
+d) O poder de autorizar ou aprovar:
+
+i) Os planos de actividades e investimentos e respectivos planos de financiamento;
+
+ii) Os orçamentos anuais de exploração, de investimento e financeiros, bem como as respectivas actualizações que impliquem redução de resultados previsionais, acréscimo de despesas de investimento ou de necessidades de financiamento;
+
+iii) Os documentos relativos à prestação de contas, aplicação de resultados e utilização de reservas;
+
+iv) As dotações para capital e outras verbas a conceder pelo Orçamento do Estado e fundos autónomos;
+
+v) A realização de aumentos e reduções do capital estatutário;
+
+vi) A realização de investimentos ou contratação de empreitadas, quando as verbas globais correspondentes não estejam previstas nos orçamentos aprovados e sejam de valor superior a 10% do capital estatutário, mediante parecer do fiscal único;
+
+vii) Contracção de empréstimos de valor, individual ou acumulado, superior a 30% do capital estatutário;
+
+viii) A aquisição, oneração e venda de bens imóveis, quando os respectivos planos de aquisição, oneração ou alienação não estejam previstos nos orçamentos aprovados;
+
+ix) Constituição ou participação da Parque Escolar, E. P. E., no capital de outras sociedades para a prossecução dos pertinentes objectivos estratégicos;
+
+x) (Revogada.)
+
+xi) Os contratos-programa e os contratos de gestão;
+
+xii) O estatuto do pessoal, incluindo o regulamento de carreiras e o regime retributivo;
+
+xiii) Os demais actos que, nos termos da legislação aplicável, necessitem de autorização tutelar.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42/2023 - Diário da República n.º 108/2023, Série I de 2023-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209), em vigor a partir de 2023-06-06
+
+###### Artigo 11.º — Aquisição de bens e serviços
+
+1 - A contratação de empreitadas de obras públicas e a aquisição ou locação de bens e serviços, sob qualquer regime, cuja estimativa de custo global do contrato, não considerando o IVA, seja inferior aos limites previstos para aplicação das directivas comunitárias sobre contratação pública, podem realizar-se, até 31 de Dezembro de 2007, com recurso aos procedimentos por negociação, consulta prévia ou ajuste directo.
+
+2 - Devem os regulamentos internos da Parque Escolar, E. P. E., garantir o disposto no número anterior, bem como, em qualquer caso, o cumprimento dos princípios gerais da livre concorrência, transparência e boa gestão, designadamente a fundamentação das decisões tomadas.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 42/2023 - Diário da República n.º 108/2023, Série I de 2023-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209), em vigor a partir de 2023-06-06
+
+###### Artigo 12.º — Disposição final
+
+O regulamento interno a que se refere o n.º 3 do artigo 1.º deve ser elaborado e submetido a homologação do membro do Governo responsável pela educação no prazo de 90 dias a contar da entrada em funcionamento da Parque Escolar, E. P. E.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 42/2023 - Diário da República n.º 108/2023, Série I de 2023-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209), em vigor a partir de 2023-06-06
+
+###### Artigo 13.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria de Lurdes Reis Rodrigues.
+
+Promulgado em 9 de Fevereiro de 2007.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 12 de Fevereiro de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## Anexo I — Estatutos da Parque Escolar, E. P. E.
+
+(a que se refere o n.º 2 do artigo 1.º)
+
+### Capítulo I — Natureza, regime aplicável, objecto e património
+
+###### Artigo 1.º — Natureza, sede e duração
+
+1 - A Construção Pública, E. P. E., é uma pessoa coletiva de direito público de natureza empresarial, dotada de personalidade jurídica, autonomia administrativa, financeira e patrimonial, nos termos do disposto no regime jurídico do setor público empresarial, e da legislação aplicável às pessoas coletivas públicas de natureza empresarial, sujeita à tutela e superintendência dos membros do Governo responsáveis pelas áreas das finanças e, em função da matéria, da educação ou da habitação.
+
+2 - A Parque Escolar, E. P. E., tem a sua sede em Lisboa, podendo o conselho de administração deliberar a sua deslocação para qualquer outro ponto do mesmo concelho.
+
+3 - A Parque Escolar, E. P. E., pode instalar delegações ou serviços em qualquer ponto do território nacional.
+
+4 - A Parque Escolar, E. P. E., é constituída por tempo indeterminado.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 42/2023 - Diário da República n.º 108/2023, Série I de 2023-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209), em vigor a partir de 2023-06-06
+
+###### Artigo 2.º — Objecto
+
+1 - A Construção Pública, E. P. E., tem por objeto o planeamento, gestão, desenvolvimento e execução de programas e projetos de construção, reconstrução, adaptação, reabilitação, requalificação, modernização, valorização, manutenção e conservação de edifícios, equipamentos e outro património imobiliário próprio ou alheio, designadamente nos domínios da educação e da habitação, bem como a prestação de serviços de consultoria, assessoria e gestão de contratos públicos, naqueles âmbitos, relativos a património público alheio.
+
+2 - No domínio da educação, o objeto da Construção Pública, E. P. E., inclui designadamente:
+
+a) O planeamento, gestão, desenvolvimento e execução do programa de modernização e manutenção da rede pública de escolas secundárias e outras afetas ao Ministério da Educação;
+
+b) A criação, nas escolas que lhe estão afetas, ou outro património público, de infraestruturas de apoio à comunidade escolar;
+
+c) O desenvolvimento das atividades de observação do desempenho do parque escolar necessárias à correta concretização do objeto da empresa, estimulando a relação com a comunidade científica e com os projetos e estudos de referência internacional, nomeadamente nas áreas de arquitetura, engenharia, desenvolvimento de produto, psicologia, ciências sociais e políticas públicas, de forma a promover competências transdisciplinares que permitam uma resposta adequada às estratégias educativas adotadas e a adotar;
+
+d) A manutenção atualizada do cadastro, bem como o registo e diagnóstico do estado de conservação das escolas e demais património que lhe seja afeto;
+
+e) A conceção, desenvolvimento e gestão de unidades de negócio destinadas a valorizar o património afeto ao Ministério da Educação;
+
+f) A conceção, desenvolvimento e implementação de projetos nacionais e internacionais na área da educação ou a prestação de assessoria e consultoria para concretização dos mesmos.
+
+3 - No domínio da habitação, o objeto da Construção Pública, E. P. E., inclui a conceção, desenvolvimento e implementação de projetos habitacionais, em articulação com as entidades públicas com atribuições neste domínio, designadamente com o Instituto da Habitação e da Reabilitação Urbana, I. P.
+
+4 - Inclui-se ainda no objeto da Construção Pública, E. P. E., a elaboração dos projetos, a construção, bem como a fiscalização, o acompanhamento e a assistência técnica nas diversas fases de concretização do objeto previsto no presente artigo, assegurando padrões elevados de qualidade técnica e controlo económico.
+
+5 - A Construção Pública, E. P. E., no âmbito das suas competências, assegura a participação e colaboração com outras instituições nacionais e internacionais.
+
+6 - A Construção Pública, E. P. E., pode, acessoriamente, exercer atividades complementares ou subsidiárias do seu objeto previsto nos números anteriores, bem como explorar outros ramos de atividade comercial ou industrial dele acessórios que não prejudiquem a prossecução do mesmo.
+
+7 - Para a realização do seu objeto, a Construção Pública, E. P. E., pode ainda constituir ou participar noutras empresas ou sociedades, observados os requisitos previstos na lei aplicável e mediante autorização conjunta dos membros do Governo responsáveis pelas áreas das finanças e da educação ou da habitação, em razão das matérias relacionadas com as respetivas áreas.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 42/2023 - Diário da República n.º 108/2023, Série I de 2023-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209), em vigor a partir de 2023-06-06
+
+###### Artigo 3.º — Programa de Modernização do Parque Escolar Destinado ao Ensino Secundário
+
+A Construção Pública, E. P. E., prossegue as atividades compreendidas no programa de modernização e manutenção da rede pública de escolas secundárias, previsto na alínea a) do n.º 2 do artigo anterior, com base em programa plurianual e nos termos e condições constantes de contrato com o Estado, no qual se prevê a respetiva contrapartida pelo serviço prestado.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 42/2023 - Diário da República n.º 108/2023, Série I de 2023-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209), em vigor a partir de 2023-06-06
+
+###### Artigo 4.º — Capital estatutário
+
+1 - A Parque Escolar, E. P. E., terá, inicialmente, um capital estatutário de (euro) 1400000, detido pelo Estado, realizado em numerário, destinado a responder às necessidades permanentes da empresa.
+
+2 - O capital estatutário será acrescido do valor dos bens do domínio privado do Estado, transmitidos aquando da sua criação, após a sua reavaliação.
+
+3 - O capital estatutário pode ser aumentado ou reduzido por despacho dos membros do Governo responsáveis pelas áreas das finanças, da educação e da habitação, por força de entradas patrimoniais ou mediante incorporação de reservas.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 42/2023 - Diário da República n.º 108/2023, Série I de 2023-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209), em vigor a partir de 2023-06-06
+
+###### Artigo 5.º — Património e bens dominiais
+
+1 - Constitui património da Parque Escolar, E. P. E., a universalidade dos bens e direitos:
+
+a) Transmitidos aquando da sua criação;
+
+b) Transitados do domínio privado do Estado, desde que destinados diretamente à realização do seu objeto, mediante lista aprovada por despacho dos membros do Governo responsáveis pelas áreas das finanças e, em função da matéria, da educação ou da habitação;
+
+c) Adquiridos no âmbito da sua actividade.
+
+2 - Constituem títulos de aquisição bastante dos bens integrados no património autónomo da Parque Escolar, E. P. E., para todos os efeitos legais, incluindo os de registo, o disposto no presente decreto-lei e a lista a que se refere a alínea b) do n.º 1.
+
+3 - A Parque Escolar, E. P. E., promove junto das conservatórias e serviços competentes o registo dos bens e direitos sujeitos a registo que constituam o seu património autónomo.
+
+4 - A Parque Escolar, E. P. E., mantém actualizados os registos referentes ao cadastro dos bens e direitos do seu património autónomo e dos bens do domínio público do Estado que lhe sejam afectos.
+
+5 - Ao património autónomo transmitido pelo Estado ou por instituto público para a Parque Escolar, E. P. E., é aplicável o regime previsto no Decreto-Lei n.º 199/2004, de 18 de Agosto, relativo à regularização da situação jurídica do património imobiliário do Estado e dos institutos públicos.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 42/2023 - Diário da República n.º 108/2023, Série I de 2023-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209), em vigor a partir de 2023-06-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 83/2009 - Diário da República n.º 65/2009, Série I de 2009-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2009-603244), em vigor a partir de 2009-04-03
+
+### Capítulo II — Órgãos sociais
+
+###### Artigo 6.º — Órgãos
+
+São órgãos da Parque Escolar, E. P. E.;
+
+a) O conselho de administração;
+
+b) O conselho fiscal;
+
+c) O revisor oficial de contas ou sociedade de revisores oficiais de contas.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 75/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2020-143741480), em vigor a partir de 2020-09-26
+
+#### Secção I — Conselho de administração
+
+###### Artigo 7.º — Composição e mandato
+
+1 - O conselho de administração é composto pelo presidente e por dois a quatro vogais.
+
+2 - Os membros do conselho de administração são nomeados por resolução do Conselho de Ministros, sob proposta dos membros do Governo responsáveis pelas áreas das finanças, da educação e da habitação.
+
+3 - O mandato dos membros do conselho de administração tem a duração de três anos, sendo renovável por iguais períodos, permanecendo aqueles no exercício das suas funções até efectiva substituição.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 42/2023 - Diário da República n.º 108/2023, Série I de 2023-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209), em vigor a partir de 2023-06-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 83/2009 - Diário da República n.º 65/2009, Série I de 2009-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2009-603244), em vigor a partir de 2009-04-03
+
+###### Artigo 8.º — Competências do conselho de administração
+
+1 - Para além do exercício dos poderes que não estejam reservados a outros órgãos, ao conselho de administração compete, em geral, o exercício de todos os poderes necessários para assegurar a gestão e o desenvolvimento da atividade da Construção Pública, E. P. E., e a administração dos bens afetos à atividade da mesma, e, em especial:
+
+a) Propor os planos de acção anuais e plurianuais e respectivos orçamentos, bem como os demais instrumentos de gestão previsional legalmente previstos, e assegurar a respectiva execução;
+
+b) Promover a celebração de contratos-programa e outros instrumentos jurídicos que se revelem adequados;
+
+c) Definir a estrutura e organização interna da empresa e o seu funcionamento;
+
+d) Definir as políticas referentes a recursos humanos, incluindo as remunerações dos trabalhadores e dos titulares dos cargos de direcção e chefia;
+
+e) Autorizar a realização de trabalho extraordinário, bem como autorizar o respectivo pagamento;
+
+f) Designar o pessoal para cargos dirigentes;
+
+g) Aprovar o regulamento disciplinar do pessoal e as condições de prestação e disciplina do trabalho;
+
+h) Elaborar o balanço social;
+
+i) Apresentar os documentos de prestação de contas, nos termos definidos na lei;
+
+j) Aprovar e submeter a homologação dos membros do Governo responsáveis pelas áreas das finanças, da educação e da habitação o regulamento interno e fazer cumprir as disposições legais e regulamentares aplicáveis;
+
+l) Acompanhar e avaliar sistematicamente a actividade desenvolvida pela Parque Escolar, E. P. E.;
+
+m) Tomar conhecimento e determinar as medidas adequadas, se for caso disso, sobre as queixas e reclamações apresentadas pelos utentes;
+
+n) Decidir sobre a admissão e gestão do pessoal;
+
+o) Autorizar a aplicação de todas as modalidades do contrato individual de trabalho;
+
+p) Exercer a competência em matéria disciplinar prevista na lei;
+
+q) Acompanhar a execução do orçamento, aplicando as medidas destinadas a corrigir os desvios em relação às previsões realizadas;
+
+r) Assegurar a regularidade da cobrança das dívidas e autorizar a realização e o pagamento da despesa da Parque Escolar, E. P. E.;
+
+s) Tomar as providências necessárias à conservação do património afecto ao desenvolvimento da sua actividade e autorizar as despesas inerentes, tal como previstas no plano de investimentos;
+
+t) Deliberar sobre a realização de empréstimos ou outras operações financeiras, mediante aprovação dos membros do Governo responsáveis pelas áreas das finanças, da educação e da habitação;
+
+u) Deliberar sobre a aquisição, alienação ou oneração de bens do seu património autónomo e estabelecer os respectivos termos e condições;
+
+v) Aceitar doações, heranças ou legados;
+
+w) Constituir mandatários, em juízo e fora dele, incluindo o poder de substabelecer;
+
+x) Exercer os demais poderes e praticar os actos conferidos ou previstos na lei.
+
+y) Negociar convenções coletivas de trabalho.
+
+2 - O conselho de administração pode delegar as suas competências nos seus membros ou demais pessoal dirigente, com excepção das previstas nas alíneas a) a j), n), q), t) e u) do n.º 1, definindo em acta os limites e condições do seu exercício.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 42/2023 - Diário da República n.º 108/2023, Série I de 2023-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209), em vigor a partir de 2023-06-06
+
+###### Artigo 9.º — Presidente do conselho de administração
+
+1 - O presidente assegura a representação institucional da empresa e, para além dos poderes que lhe cabem como membro deste órgão, exerce as seguintes competências próprias:
+
+a) Coordenar a actividade do conselho de administração e dirigir as respectivas reuniões;
+
+b) Garantir a correcta execução das deliberações do conselho de administração;
+
+c) Submeter a aprovação ou a autorização dos membros do Governo competentes todos os actos que delas careçam;
+
+d) Assegurar o regular funcionamento de todos os serviços;
+
+e) Representar a Parque Escolar, E. P. E., em juízo e fora dele e em convenção arbitral, podendo designar mandatários para o efeito constituídos;
+
+f) Aprovar, de acordo com as deliberações do conselho de administração, as minutas de contratos e outorgar os contratos relativos a pessoal, estudos, obras e fornecimento de materiais, bens ou serviços;
+
+g) Assegurar as relações com os órgãos de tutela e com os demais organismos públicos;
+
+h) Requerer, nos termos do Código das Expropriações, às autoridades competentes, providências de expropriação por utilidade pública;
+
+i) Exercer as competências que lhe sejam delegadas.
+
+2 - O presidente do conselho de administração é substituído nas suas ausências e impedimentos pelo vogal por si designado ou, na falta de designação, pelo vogal mais antigo e, em caso de igualdade, pelo que tenha mais anos de experiência como gestor público.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 42/2023 - Diário da República n.º 108/2023, Série I de 2023-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209), em vigor a partir de 2023-06-06
+
+###### Artigo 10.º — Funcionamento do conselho de administração
+
+1 - O conselho de administração reúne, pelo menos, mensalmente e, ainda, sempre que convocado pelo presidente ou por solicitação dos dois vogais ou do conselho fiscal, sem prejuízo de fixação, pelo próprio conselho, de calendário de reuniões com maior frequência.
+
+2 - As regras de funcionamento do conselho de administração são fixadas pelo próprio conselho na sua primeira reunião e constam do regulamento interno.
+
+3 - As deliberações só são válidas quando se encontrar presente na reunião a maioria dos membros do conselho em exercício, sendo proibido o voto por correspondência ou por procuração.
+
+4 - O presidente do conselho de administração, ou quem o substitua, tem voto de qualidade.
+
+5 - Das reuniões do conselho de administração devem ser lavradas actas, em livro próprio, assinadas por todos os membros do conselho presentes, a aprovar na reunião seguinte.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 75/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2020-143741480), em vigor a partir de 2020-09-26
+
+###### Artigo 11.º — Delegação de poderes
+
+1 - O conselho de administração pode delegar competências, com poderes de subdelegação, no presidente ou em qualquer dos seus vogais.
+
+2 - Pode haver atribuição de pelouros especiais aos membros do conselho de administração correspondentes à gestão de um ou mais serviços ou unidades orgânicas da empresa.
+
+###### Artigo 12.º — Vinculação
+
+1 - A Parque Escolar, E. P. E., obriga-se:
+
+a) Pela assinatura, com indicação da qualidade, de dois membros do conselho de administração, ou de quem esteja legitimado para o efeito, nos termos do n.º 2 do artigo 8.º;
+
+b) Pela assinatura de um membro do conselho de administração, no âmbito de delegação de poderes;
+
+c) Pela assinatura de mandatários, no âmbito dos poderes que lhes tenham sido conferidos e nos limites das respectivas procurações.
+
+2 - Tratando-se de documentos emitidos em massa, as assinaturas podem ser de chancela.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 83/2009 - Diário da República n.º 65/2009, Série I de 2009-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2009-603244), em vigor a partir de 2009-04-03
+
+###### Artigo 13.º — Estatuto dos membros do conselho de administração
+
+1 - Aos membros do conselho de administração aplica-se o Estatuto do Gestor Público.
+
+2 - A remuneração dos membros do conselho de administração da Construção Pública, E. P. E., é fixada nos termos do Estatuto do Gestor Público.
+
+3 - É aplicável aos membros do conselho de administração o regime geral da segurança social, salvo quando pertencerem aos quadros da função pública, caso em que lhes será aplicável o regime próprio do seu lugar de origem.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 42/2023 - Diário da República n.º 108/2023, Série I de 2023-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209), em vigor a partir de 2023-06-06
+
+###### Artigo 14.º — Dissolução do conselho de administração
+
+1 - Sem prejuízo do disposto no Estatuto do Gestor Público, os membros do Governo responsáveis pelas áreas das finanças, da educação e da habitação podem dissolver o conselho de administração nos seguintes casos:
+
+a) Desvio substancial entre os orçamentos e a respectiva execução;
+
+b) Deterioração dos resultados da actividade, incluindo a qualidade dos serviços prestados.
+
+2 - Não há lugar a dissolução nos casos em que o conselho de administração tenha tomado todas as medidas adequadas para evitar a verificação dos factos referidos no número anterior.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 42/2023 - Diário da República n.º 108/2023, Série I de 2023-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209), em vigor a partir de 2023-06-06
+
+#### Secção II — Fiscalização
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 75/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2020-143741480), em vigor a partir de 2020-09-26
+
+###### Artigo 15.º — Conselho fiscal e revisor oficial de contas
+
+1 - A fiscalização e o controlo da legalidade da gestão financeira e patrimonial da Parque Escolar, E. P. E., compete a um conselho fiscal e a um revisor oficial de contas ou uma sociedade de revisores oficiais de contas que não seja membro daquele órgão, a designar obrigatoriamente de entre os auditores registados na Comissão do Mercado de Valores Mobiliários.
+
+2 - O conselho fiscal é constituído por três membros efetivos, sendo um deles o presidente do órgão, e por um suplente.
+
+3 - Os membros do conselho fiscal são nomeados por despacho dos membros do Governo responsáveis pelas áreas das finanças, da educação e da habitação, que fixa a respetiva remuneração, por um período de três anos, renovável nos termos da lei.
+
+4 - O revisor oficial de contas é nomeado por despacho dos membros do Governo responsáveis pelas áreas das finanças, da educação e da habitação, sob proposta fundamentada do conselho fiscal, que fixa a respetiva remuneração, tendo o mandato a duração de três anos, renovável nos termos da lei.
+
+5 - Cessando o mandato do conselho fiscal e do revisor oficial de contas, mantêm-se os titulares em exercício de funções até à designação dos respetivos substitutos.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 42/2023 - Diário da República n.º 108/2023, Série I de 2023-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209), em vigor a partir de 2023-06-06
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 75/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2020-143741480), em vigor a partir de 2020-09-26
+
+###### Artigo 16.º — Competências
+
+1 - O conselho fiscal tem as competências, os poderes e os deveres estabelecidos na lei e nos presentes estatutos.
+
+2 - Ao conselho fiscal compete, especialmente, sem prejuízo das demais competências que lhe sejam atribuídas por lei:
+
+a) Fiscalizar a gestão e o cumprimento das normas reguladoras da atividade da empresa, tendo em vista, nomeadamente, a realização dos objetivos fixados nos orçamentos anuais;
+
+b) Apreciar e emitir parecer sobre o relatório anual de gestão e de controlo orçamental, as contas do exercício e os demais instrumentos de prestação de contas;
+
+c) Acompanhar com regularidade a gestão através de balancetes e mapas demonstrativos da execução orçamental;
+
+d) Manter o conselho de administração informado sobre os resultados das verificações e dos exames a que proceda;
+
+e) Propor a realização de auditorias externas, quando tal se mostre necessário ou conveniente;
+
+f) Pronunciar-se sobre qualquer outro assunto em matéria de gestão económica e financeira que seja submetido à sua consideração pelo conselho de administração;
+
+g) Dar parecer sobre a aquisição, arrendamento, alienação e oneração de bens imóveis;
+
+h) Dar parecer sobre os planos de negócio e os planos de atividades e orçamentos da empresa;
+
+i) Dar parecer prévio à realização de operações de financiamento ou celebração de atos ou negócios jurídicos dos quais resultem obrigações para a Parque Escolar, E. P. E., superiores a 5 % do ativo líquido, salvo nos casos em que os mesmos tenham sido aprovados no plano de atividades e orçamento;
+
+j) Pronunciar-se sobre assuntos que lhe sejam submetidos pelo conselho de administração.
+
+l) (Revogada.)
+
+3 - Compete ao revisor oficial de contas o dever de proceder a todos os exames e verificações necessários à revisão e certificação legais das contas, bem como exercer as seguintes funções:
+
+a) Verificar da regularidade dos livros, registos contabilísticos e documentos que lhe servem de suporte;
+
+b) Verificar, quando o julgue conveniente e pela forma que entenda adequada, a extensão da caixa e as existências de qualquer espécie de bens ou valores pertencentes à empresa ou por ela recebidos em garantia, depósito ou outro título;
+
+c) Verificar a exatidão dos documentos de prestação de contas;
+
+d) Verificar se os critérios valorimétricos adoptados pela Parque Escolar, E. P. E., conduzem a uma correcta avaliação do património e dos resultados.
+
+e) Elaborar, a pedido do conselho fiscal, revisão limitada das demonstrações financeiras integradas nos relatórios trimestrais e no Plano de Atividades e Orçamento, elaborados e apresentados pelo conselho de administração.
+
+4 - Com base nos relatórios trimestrais elaborados pelo conselho de administração, o conselho fiscal deve emitir um relatório sucinto que reflita os controlos efetuados e as eventuais anomalias detetadas, bem como os eventuais desvios verificados em relação aos orçamentos e a identificação das respetivas causas, o qual deve ser enviado aos membros do Governo responsáveis pelas áreas das finanças, da educação e da habitação.
+
+5 - Com base na proposta de plano de atividades e orçamento apresentada pelo conselho de administração, o conselho fiscal deve emitir um relatório e parecer ao mesmo, o qual deve ser enviado aos membros do Governo responsáveis pelas áreas das finanças, da educação e da habitação.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 42/2023 - Diário da República n.º 108/2023, Série I de 2023-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209), em vigor a partir de 2023-06-06
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 75/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2020-143741480), em vigor a partir de 2020-09-26
+
+### Capítulo III — Gestão patrimonial e financeira
+
+###### Artigo 17.º — Instrumentos de gestão previsional
+
+A gestão financeira e patrimonial da Parque Escolar, E. P. E., rege-se, designadamente, pelos seguintes instrumentos de gestão previsional:
+
+a) Planos plurianuais e anuais de actividades, de investimento e financeiros, com um horizonte de três anos;
+
+b) Orçamento anual de investimento e respectivas fontes de financiamento;
+
+c) Orçamento anual de exploração, desdobrado em orçamento de proveitos e orçamento de custos;
+
+d) Orçamento anual de tesouraria;
+
+e) Balanço previsional;
+
+f) Contratos-programa externos.
+
+###### Artigo 18.º — Reservas e fundos
+
+1 - A Construção Pública, E. P. E., deve fazer as reservas julgadas necessárias, sem prejuízo da obrigação relativa à existência de reserva legal.
+
+2 - Uma percentagem não inferior a 20% dos resultados de cada exercício apurado de acordo com as normas contabilísticas vigentes é destinada à constituição da reserva legal.
+
+3 - A reserva legal pode ser utilizada para cobrir eventuais prejuízos de exercício.
+
+4 - (Revogado.)
+
+5 - Sem prejuízo da constituição das reservas referidas no n.º 1, os resultados de cada exercício têm o destino que venha a ser determinado por despacho dos membros do Governo responsáveis pelas áreas das finanças, da educação e da habitação.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 42/2023 - Diário da República n.º 108/2023, Série I de 2023-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209), em vigor a partir de 2023-06-06
+
+###### Artigo 19.º — Contabilidade
+
+1 - A contabilidade da Parque Escolar, E. P. E., deve corresponder às necessidades da gestão empresarial corrente e permitir um controlo orçamental permanente, bem como a fácil correspondência entre os valores patrimoniais e contabilísticos.
+
+2 - Na organização da sua contabilidade, a Parque Escolar, E. P. E., fica sujeita às normas do Sistema de Normalização Contabilística para Administrações Públicas.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 75/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2020-143741480), em vigor a partir de 2020-09-26
+
+###### Artigo 20.º — Documentos de prestação de contas
+
+Os instrumentos de prestação de contas da Parque Escolar, E. P. E., a elaborar anualmente com referência a 31 de Dezembro de cada ano, são, designadamente, os seguintes:
+
+a) Relatório do conselho de administração dando conta da forma como foram atingidos os objectivos da empresa e analisando a eficiência desta nos vários domínios da sua actuação;
+
+b) Proposta de aplicação dos resultados;
+
+c) Relatório sobre a execução anual do plano plurianual de investimentos;
+
+d) Balanço e demonstração de resultados;
+
+e) Demonstração de fluxos de caixa;
+
+f) Relação dos empréstimos contraídos a médio e longo prazo;
+
+g) Certificação legal de contas;
+
+h) Relatório e parecer do conselho fiscal.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 75/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2020-143741480), em vigor a partir de 2020-09-26
+
+###### Artigo 21.º — Receitas
+
+Constituem receitas da Parque Escolar, E. P. E.:
+
+a) Os proveitos resultantes do exercício da sua actividade;
+
+b) Os rendimentos de bens próprios;
+
+c) As comparticipações, dotações, subsídios e compensações financeiras do Estado ou de outras entidades públicas;
+
+d) O produto da alienação de bens próprios e da constituição de direitos sobre eles;
+
+e) O produto de doações, heranças ou legados que lhe sejam destinados;
+
+f) Quaisquer outros rendimentos ou valores que provenham da sua actividade ou que, por lei ou contrato, devam pertencer-lhe.
+
+###### Artigo 22.º — Empréstimos
+
+1 - A Construção Pública, E. P. E., pode contrair financiamentos, internos ou externos, a curto, médio ou longo prazo, em moeda nacional ou estrangeira, bem como emitir obrigações e papel comercial até ao limite de 30 % do capital estatutário.
+
+2 - Para financiamentos superiores ao limite previsto no número anterior, é necessária a autorização prévia conjunta dos membros do Governo responsáveis pelas áreas das finanças, da educação e da habitação.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 42/2023 - Diário da República n.º 108/2023, Série I de 2023-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209), em vigor a partir de 2023-06-06
+
+### Capítulo IV — Do pessoal
+
+###### Artigo 23.º — Regime jurídico do pessoal
+
+1 - O pessoal da Parque Escolar, E. P. E., está sujeito ao regime jurídico do contrato individual de trabalho.
+
+2 - As condições de prestação e disciplina de trabalho são definidas em regulamento interno da Construção Pública, E. P. E., devendo abranger todo o pessoal que desempenhe funções próprias, de natureza transitória ou permanente.
+
+3 - O estatuto de carreiras e retributivo do pessoal consta de regulamento interno e é aplicável a todo o pessoal que desempenhe funções próprias da Construção Pública, E. P. E.
+
+4 - A Construção Pública, E. P. E., mantém uma política de igualdade, justiça e transparência no acesso e no exercício de funções no seu quadro.
+
+5 - A Construção Pública, E. P. E., deve desenvolver políticas de inovação permanente na qualidade dos seus serviços e na motivação pessoal e profissional dos seus quadros, através da definição e implementação de mecanismos rigorosos de controlo, auditoria e avaliação de desempenho e da concretização de planos de formação permanente para os seus trabalhadores.
+
+6 - A matéria relativa à contratação coletiva rege-se pela lei geral.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 42/2023 - Diário da República n.º 108/2023, Série I de 2023-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209), em vigor a partir de 2023-06-06
+
+###### Artigo 24.º — Responsabilidade civil, penal e disciplinar
+
+1 - A empresa responde civilmente perante terceiros pelos actos ou omissões dos seus administradores, nos mesmos termos em que os comitentes respondem pelos actos ou omissões dos comissários, de acordo com a lei geral.
+
+2 - Os titulares de quaisquer órgãos da empresa respondem civilmente perante esta pelos prejuízos causados pelo incumprimento dos seus deveres legais ou estatutários, em qualquer caso, sem prejuízo da eventual responsabilidade penal ou disciplinar em que eventualmente incorram.
+
+3 - Os trabalhadores e quaisquer titulares da Parque Escolar, E. P. E., quando demandados pessoalmente por terceiros em virtude do exercício das suas funções estão dispensados do pagamento de custas e têm direito a patrocínio judiciário, assegurado pelos serviços jurídicos da empresa ou por advogado contratado especificamente para o exercício daquele patrocínio.
+
+## Anexo II — Lista do património cujo direito de propriedade é transferido para a Parque Escolar, E. P. E.
+
+[a que se refere a alínea a) do artigo 5.º]
+
+1 - Escola Secundária D. Dinis. - A Escola Secundária D. Dinis, inicialmente designada Liceu Nacional de D. Dinis, localizada na Rua de Manuel Teixeira Gomes, freguesia de Marvila, concelho de Lisboa, é constituída, entre outros, por cinco pavilhões articulados entre si por galerias exteriores e um bloco gimnodesportivo, com a área bruta de construção aproximada de 9700 m2, implantada num lote com cerca de 23050 m2.
+
+2 - Escola Secundária D. João de Castro. - Escola D. João de Castro, inicialmente designada Liceu D. João de Castro, localizada na Rua Jau, Alto de Santo Amaro, freguesia de Alcântara, concelho de Lisboa, constituída, entre outros, por um edifício único de três pisos, composto por cinco corpos associados formando uma configuração em U e por um pavilhão gimnodesportivo, com a área bruta de construção aproximada de 11950 m2, implantada num lote com cerca de 25700 m2.
+
+3 - Escola Secundária Pedro Nunes. - Escola Secundária Pedro Nunes, inicialmente designada por Liceu Pedro Nunes, localizada na Avenida de Álvares Cabral, freguesia de Santa Isabel, concelho de Lisboa, constituído, entre outros, por um edifício de três/quatro pisos, composto por três corpos associados formando uma configuração em U, e por um pavilhão, com a área bruta de construção aproximada de 10850 m2, implantada num lote com cerca de 20000 m2.
+
+4 - Escola Secundária Machado de Castro. - Escola Secundária Machado de Castro, inicialmente designada por Escola do Príncipe Real, localizada na Rua de Saraiva de Carvalho, freguesia de Santa Isabel, concelho de Lisboa, constituída, entre outros, por um edifício de quatro pisos, com a área bruta de construção aproximada de 9000 m2, implantada num lote com cerca de 5950 m2.
+
+5 - Escola Secundária Passos Manuel. - Escola Secundária Passos Manuel, inicialmente designada por Liceu de Passos Manuel, localizada na Travessa do Convento de Jesus, freguesia das Mercês, concelho de Lisboa, constituída, entre outros, por um edifício com dois pátios encerrados, com a área bruta de construção aproximada de 11700 m2, implantada num lote com cerca de 22100 m2.
+
+6 - Escola Secundária Oliveira Martins. - Escola Secundária Oliveira Martins, inicialmente designada Escola Comercial Oliveira Martins, localizada na Rua do Major David Magno, freguesia do Bonfim, concelho do Porto, constituída, entre outros, por dois pavilhões articulados entre si por uma galeria coberta formando um pátio, com a área bruta de construção aproximada de 6500 m2, implantada num lote com cerca de 14800 m2.
+
+7 - Escola Secundária Rodrigues de Freitas. - Escola Secundária Rodrigues de Freitas, inicialmente designada por Liceu de Rodrigues de Freitas, localizada na Praça de Pedro Nunes, freguesia da Cedofeita, concelho do Porto, constituída, entre outros, por um edifício de configuração em U, com a área bruta de construção aproximada de 16700 m2, implantada num lote com cerca de 27500 m2.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83/2009 - Diário da República n.º 65/2009, Série I de 2009-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2009-603244), em vigor a partir de 2009-04-03

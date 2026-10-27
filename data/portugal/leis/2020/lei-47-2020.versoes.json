@@ -1,0 +1,1086 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:140950562:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2020-140817324",
+ "dre_path": "/dr/detalhe/lei/47-2020-140950562",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-08-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "140929576",
+    "140929577",
+    "140929578",
+    "140929579",
+    "140929580",
+    "140929581",
+    "140929582",
+    "140929583",
+    "140929584",
+    "140929585",
+    "140929586",
+    "140929588",
+    "140929589",
+    "140929590",
+    "140929591",
+    "140929592",
+    "140929593",
+    "140929594",
+    "140929595",
+    "140929596",
+    "140929597",
+    "140929598",
+    "140929599",
+    "140929600",
+    "140929601",
+    "140929602",
+    "140929603",
+    "140929604",
+    "140929605",
+    "140929606",
+    "140929607",
+    "140929608",
+    "140929609",
+    "140929610",
+    "140929611",
+    "140929612",
+    "140929613",
+    "140929614",
+    "140929615",
+    "140929616",
+    "140929617",
+    "140929618",
+    "140929619",
+    "140929620",
+    "140929621",
+    "140929622",
+    "140929623",
+    "140929624",
+    "140929625",
+    "140929626",
+    "140929627",
+    "140929628",
+    "140929629",
+    "140929630",
+    "140929631",
+    "140929632",
+    "140929633",
+    "140929634",
+    "140929635",
+    "140929636",
+    "140929637",
+    "140929638",
+    "140929639",
+    "140929640",
+    "140929641",
+    "140929642",
+    "140929643",
+    "140929644",
+    "140929645",
+    "140929646",
+    "140929647",
+    "140929648",
+    "140929649",
+    "140929650",
+    "140929651",
+    "140929652",
+    "140929653",
+    "140929654",
+    "140929655",
+    "140929656",
+    "140929657",
+    "140929658",
+    "140929659",
+    "140929660",
+    "140929661",
+    "140929662",
+    "140929663",
+    "140929664",
+    "140929665",
+    "140929666",
+    "140929667",
+    "140929668",
+    "140929669",
+    "140929670",
+    "140929671",
+    "140929672",
+    "140929673",
+    "140929674",
+    "141076875",
+    "141076876",
+    "141076877",
+    "141076878"
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:152639825:por",
+     "title": "Lei n.º 75-B/2020",
+     "published": "2020-12-31",
+     "dre_path": "/dr/detalhe/lei/75-b-2020-152639825"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "140929576",
+    "140929577",
+    "140929578",
+    "140929579",
+    "140929580",
+    "140929581",
+    "140929582",
+    "152810592",
+    "140929584",
+    "140929585",
+    "152810593",
+    "140929587",
+    "140929588",
+    "140929589",
+    "140929590",
+    "140929591",
+    "140929592",
+    "140929593",
+    "140929594",
+    "140929595",
+    "140929596",
+    "140929597",
+    "140929598",
+    "140929599",
+    "140929600",
+    "140929601",
+    "140929602",
+    "140929603",
+    "140929604",
+    "140929605",
+    "140929606",
+    "140929607",
+    "140929608",
+    "140929609",
+    "140929610",
+    "140929611",
+    "140929612",
+    "140929613",
+    "140929614",
+    "140929615",
+    "140929616",
+    "140929617",
+    "140929618",
+    "140929619",
+    "140929620",
+    "140929621",
+    "140929622",
+    "140929623",
+    "140929624",
+    "140929625",
+    "140929626",
+    "140929627",
+    "140929628",
+    "140929629",
+    "140929630",
+    "140929631",
+    "140929632",
+    "140929633",
+    "140929634",
+    "140929635",
+    "140929636",
+    "140929637",
+    "140929638",
+    "140929639",
+    "140929640",
+    "140929641",
+    "140929642",
+    "140929643",
+    "140929644",
+    "140929645",
+    "140929646",
+    "140929647",
+    "140929648",
+    "140929649",
+    "140929650",
+    "140929651",
+    "140929652",
+    "140929653",
+    "140929654",
+    "140929655",
+    "140929656",
+    "140929657",
+    "140929658",
+    "140929659",
+    "140929660",
+    "140929661",
+    "140929662",
+    "140929663",
+    "140929664",
+    "140929665",
+    "140929666",
+    "140929667",
+    "140929668",
+    "140929669",
+    "140929670",
+    "140929671",
+    "140929672",
+    "140929673",
+    "140929674",
+    "141076875",
+    "141076876",
+    "141076877",
+    "141076878"
+   ]
+  }
+ ],
+ "fragments": {
+  "140929576": {
+   "fragment_id": "140817325",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 47/2020\n\nde 24 de agosto\n\nSumário: Transpõe os artigos 2.º e 3.º da Diretiva (UE) 2017/2455 do Conselho, de 5 de dezembro de 2017, e a Diretiva (UE) 2019/1995 do Conselho, de 21 de novembro de 2019, alterando o Código do IVA, o Regime do IVA nas Transações Intracomunitárias e legislação complementar relativa a este imposto, no âmbito do tratamento do comércio eletrónico.\n\nTranspõe os artigos 2.º e 3.º da Diretiva (UE) 2017/2455 do Conselho, de 5 de dezembro de 2017, e a Diretiva (UE) 2019/1995 do Conselho, de 21 de novembro de 2019, alterando o Código do IVA, o Regime do IVA nas Transações Intracomunitárias e legislação complementar relativa a este imposto, no âmbito do tratamento do comércio eletrónico.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "140929577": {
+   "fragment_id": "140817326",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei procede à transposição para a ordem jurídica interna:\n\na) Dos artigos 2.º e 3.º da Diretiva (UE) 2017/2455 do Conselho, de 5 de dezembro de 2017, que altera a Diretiva 2006/112/CE do Conselho, de 28 de novembro de 2006 e a Diretiva 2009/132/CE do Conselho, de 19 de outubro de 2009, no que diz respeito a determinadas obrigações relativas ao imposto sobre o valor acrescentado para as prestações de serviços e as vendas à distância de bens;\n\nb) A Diretiva (UE) 2019/1995 do Conselho, de 21 de novembro de 2019, que altera a Diretiva 2006/112/CE, de 28 de novembro de 2006, no que respeita às disposições relativas às vendas à distância de bens e a determinadas entregas internas de bens.\n\n2 - A presente lei procede ainda à:\n\na) Alteração ao Código do Imposto sobre o Valor Acrescentado (Código do IVA), aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de dezembro;\n\nb) Alteração ao Regime do Imposto sobre o Valor Acrescentado nas Transações Intracomunitárias (RITI), aprovado em anexo ao Decreto-Lei n.º 290/92, de 28 de dezembro;\n\nc) Alteração à lei geral tributária (LGT), aprovada em anexo ao Decreto-Lei n.º 398/98, de 17 de dezembro;\n\nd) Alteração do Decreto-Lei n.º 31/89, de 25 de janeiro, que isenta de imposto sobre o valor acrescentado as importações de determinados bens;\n\ne) Aprovação dos regimes especiais aplicáveis aos sujeitos passivos que prestem serviços a pessoas que não sejam sujeitos passivos, efetuem vendas à distância e determinadas transmissões internas de bens."
+  },
+  "140929578": {
+   "fragment_id": "140817327",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Código do Imposto sobre o Valor Acrescentado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Código do Imposto sobre o Valor Acrescentado\n\nOs artigos 1.º, 3.º, 6.º-A, 7.º, 13.º, 14.º, 18.º, 28.º, 35.º-A e 94.º do Código do IVA, passam a ter a seguinte redação:\n\n«Artigo 1.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nl) ...\n\nm) ...\n\nn) ...\n\no) 'Interface eletrónica', um mercado, uma plataforma, um portal ou outro meio similar;\n\np) 'Vendas à distância de bens importados', as transmissões de bens expedidos ou transportados pelo fornecedor ou por conta deste, inclusive quando o fornecedor intervenha indiretamente no transporte ou na expedição dos bens, a partir de um país terceiro ou de um território terceiro, com destino a um adquirente num Estado-Membro, quando se verifiquem, simultaneamente, as seguintes condições:\n\ni) O adquirente não se encontre abrangido por um regime de tributação das aquisições intracomunitárias no Estado-Membro de chegada da expedição ou transporte dos bens, ou seja um particular;\n\nii) Os bens não sejam meios de transporte novos nem bens a instalar ou montar;\n\nq) 'Vendas à distância intracomunitárias de bens', as transmissões de bens expedidos ou transportados pelo fornecedor ou por conta deste, inclusive quando o fornecedor intervenha indiretamente no transporte ou na expedição dos bens, a partir de um Estado-Membro que não seja o Estado-Membro de chegada da expedição ou transporte com destino ao adquirente, quando se verifiquem, simultaneamente, as seguintes condições:\n\ni) O adquirente não se encontre abrangido por um regime de tributação das aquisições intracomunitárias no Estado-Membro de chegada da expedição ou transporte dos bens, ou seja um particular;\n\nii) Os bens não sejam meios de transporte novos nem bens a instalar ou montar.\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\nArtigo 3.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - Quando um sujeito passivo facilitar, mediante a utilização de uma interface eletrónica, a realização de vendas à distância de bens importados em remessas de valor intrínseco não superior a 150 (euro), considera-se que adquiriu e transmitiu pessoalmente esses bens.\n\n10 - Quando um sujeito passivo facilitar, mediante a utilização de uma interface eletrónica, a realização de transmissões de bens dentro da União Europeia por um sujeito passivo não estabelecido na União Europeia a uma pessoa que não seja sujeito passivo, considera-se que o sujeito passivo que facilita a transmissão adquiriu e transmitiu pessoalmente esses bens.\n\n11 - Quando um sujeito passivo adquiriu e transmitiu bens nos termos dos n.os 9 e 10, a expedição ou transporte dos bens é atribuída à transmissão de bens efetuada por este sujeito passivo.\n\nArtigo 6.º-A\n\nDerrogação a regras de localização no Estado-Membro de destino\n\n1 - Não obstante o disposto na alínea h) do n.º 9 e na alínea h) do n.º 10 do artigo anterior e na alínea a) do artigo 10.º do Regime do IVA nas Transações Intracomunitárias, as prestações de serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica, nomeadamente os descritos no anexo D, efetuadas a uma pessoa que não seja sujeito passivo, e as vendas à distância intracomunitárias de bens aí referidas, são tributáveis, respetivamente, nos termos da alínea b) do n.º 6 ou do n.º 1, ambos do artigo anterior, quando estejam reunidas as seguintes condições:\n\na) O prestador ou transmitente tenha sede, estabelecimento estável ou, na sua falta, o domicílio em território nacional e não esteja sediado, estabelecido ou domiciliado noutro Estado-Membro;\n\nb) As prestações de serviços sejam efetuadas a destinatários estabelecidos ou domiciliados em outros Estados-Membros ou os bens sejam expedidos ou transportados para outros Estados-Membros; e\n\nc) O valor total, líquido do IVA, das operações referidas na alínea anterior não seja superior, no ano civil anterior ou no ano civil em curso, a 10 000 (euro).\n\n2 - Não obstante o disposto na alínea h) do n.º 9 e na alínea h) do n.º 10 do artigo anterior e na alínea a) do artigo 11.º do Regime do IVA nas Transações Intracomunitárias, as prestações de serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica, nomeadamente os descritos no anexo D, efetuadas a uma pessoa que não seja sujeito passivo, e as vendas à distância intracomunitárias de bens aí referidas, não são tributáveis em território nacional quando estejam reunidas as seguintes condições:\n\na) O prestador ou transmitente tenha sede, estabelecimento estável ou, na sua falta, o domicílio apenas no território de um outro Estado-Membro;\n\nb) As prestações de serviços sejam efetuadas a destinatários estabelecidos ou domiciliados em Estados-Membros que não o referido na alínea anterior ou os bens sejam expedidos ou transportados para Estados-Membros que não o referido na alínea anterior; e\n\nc) O valor total, líquido do IVA, das operações referidas na alínea anterior não seja superior, no ano civil anterior ou no ano civil em curso, a 10 000 (euro).\n\n3 - ...\n\n4 - Os sujeitos passivos abrangidos pelo disposto no n.º 1, cujas operações não tenham excedido o montante mencionado na alínea c) desse número, podem optar pela sujeição a tributação desses serviços ou vendas à distância intracomunitárias de bens, respetivamente, no Estado-Membro em que o adquirente estiver estabelecido ou domiciliado ou no Estado-Membro de chegada da expedição ou transporte dos bens, devendo manter esse regime por um período mínimo de dois anos civis.\n\n5 - O disposto na alínea h) do n.º 10 do artigo anterior e na alínea a) do artigo 11.º do Regime do IVA nas Transações Intracomunitárias é aplicável quando os sujeitos passivos abrangidos pelo disposto no n.º 2 tenham exercido a opção de sujeitar esses serviços e vendas à distância intracomunitárias de bens a tributação, respetivamente, no Estado-Membro em que o adquirente estiver estabelecido ou domiciliado ou no Estado-Membro de chegada da expedição ou transporte dos bens.\n\nArtigo 7.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\n10 - ...\n\n11 - ...\n\n12 - ...\n\n13 - ...\n\n14 - ...\n\n15 - ...\n\n16 - Nas transmissões de bens efetuadas a um sujeito passivo nas condições previstas nos n.os 9 e 10 do artigo 3.º e nas transmissões de bens por este efetuadas nas mesmas condições, o imposto é devido e torna-se exigível na data em que o pagamento tenha sido aceite.\n\nArtigo 13.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nl) As importações de bens, quando o IVA for declarado ao abrigo do regime especial aplicável às vendas à distância de bens importados e, no momento do desalfandegamento, for indicado na declaração aduaneira de importação o número individual de identificação do fornecedor, atribuído para efeito da aplicação daquele regime.\n\n2 - ...\n\n3 - ...\n\nArtigo 14.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nl) ...\n\nm) ...\n\nn) ...\n\no) ...\n\np) ...\n\nq) ...\n\nr) ...\n\ns) ...\n\nt) ...\n\nu) ...\n\nv) ...\n\nx) As transmissões de bens efetuadas ao sujeito passivo que facilitar a sua transmissão dentro da União Europeia nas situações abrangidas pelo n.º 10 do artigo 3.º\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\nArtigo 18.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - Às importações de bens a que seja aplicável o regime de declaração e pagamento do IVA referido nos n.os 10 e 11 do artigo 28.º, bem como, quando não isentas ao abrigo do artigo 13.º ou de outros diplomas, às importações de mercadorias que sejam objeto de pequenas remessas enviadas a particulares ou que sejam contidas nas bagagens pessoais dos viajantes, sujeitas ao direito aduaneiro forfetário previsto nas disposições preliminares da Pauta Aduaneira Comum, aplica-se a taxa referida na alínea c) do n.º 1, independentemente da sua natureza.\n\n9 - ...\n\nArtigo 28.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\n10 - Na importação de bens, com exceção de produtos sujeitos a impostos especiais de consumo, o destinatário dos bens é o responsável pelo pagamento do IVA quando, cumulativamente:\n\na) Não seja utilizado o regime especial aplicável às vendas à distância de bens importados;\n\nb) Se tratar de remessas de valor intrínseco não superior a 150 (euro);\n\nc) A declaração aduaneira seja entregue, por conta do destinatário dos bens, pela pessoa que apresenta as mercadorias à alfândega.\n\n11 - Para efeitos do regime de declaração e pagamento do IVA na importação previsto no número anterior, a pessoa que apresenta os bens à alfândega deve:\n\na) Enviar por transmissão eletrónica de dados, até ao dia 10 do mês seguinte ao da importação, uma declaração com o montante global do IVA cobrado aos destinatários dos bens durante o mês civil anterior;\n\nb) Proceder ao pagamento do imposto aí referido nos termos previstos na legislação aplicável ao diferimento do pagamento dos direitos aduaneiros, sem prestação de garantia;\n\nc) Conservar, pelo prazo de cinco anos a contar do final do ano em que ocorreu a importação, registos detalhados das operações abrangidas pelo regime e, quando sejam solicitados, disponibilizá-los por via eletrónica à Autoridade Tributária e Aduaneira.\n\n12 - Sem prejuízo do disposto nos n.os 10 e 11, a pessoa que apresenta os bens à alfândega é solidariamente responsável pelo pagamento do imposto com o destinatário dos bens, salvo nos casos em que os bens tenham sido reexportados, abandonados a favor do Estado ou relativamente aos mesmos tenham sido adotadas as medidas necessárias à cessão das mercadorias nos termos e prazos previstos na legislação aduaneira.\n\nArtigo 35.º-A\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - Não obstante o disposto no n.º 1, a emissão de fatura pelas operações efetuadas por sujeitos passivos que utilizem Portugal como Estado-Membro de identificação para efeitos dos regimes especiais do IVA, aprovados pela Lei n.º 47/2020, de 24 de agosto, está sujeita às regras estabelecidas no presente Código.\n\nArtigo 94.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - A Autoridade Tributária e Aduaneira não procede à cobrança, ainda que em resultado de liquidação adicional, quando o seu quantitativo for inferior a 25 (euro), devendo o mesmo limite ser observado na extração das certidões de dívida previstas no n.º 6 do artigo 27.º, no n.º 2 do artigo 28.º e nos n.os 3 e 6 do artigo 88.º, com exceção das liquidações que resultem de importações de pequenas remessas de valor intrínseco não superior a 150 (euro).\n\n6 - ...»"
+  },
+  "140929579": {
+   "fragment_id": "140817328",
+   "type": 11,
+   "heading": "Artigo 3.º — Aditamento ao Código do Imposto sobre o Valor Acrescentado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aditamento ao Código do Imposto sobre o Valor Acrescentado\n\nSão aditados ao Código do IVA os artigos 51.º-A, 80.º-A e 80.º-B, com a seguinte redação:\n\n«Artigo 51.º-A\n\nObrigação de conservação de registos pelas interfaces eletrónicas\n\n1 - O sujeito passivo que facilitar, mediante a utilização de uma interface eletrónica, a realização de transmissões de bens ou de prestações de serviços a pessoas que não sejam sujeitos passivos na União Europeia, que não esteja abrangido pelo disposto nos n.os 9 e 10 do artigo 3.º ou pelo n.º 4 do artigo 4.º, deve conservar registos detalhados dessas operações de modo a permitir o controlo do imposto devido pelos transmitentes dos bens e prestadores de serviços que utilizam os seus serviços.\n\n2 - Esses registos devem, quando solicitados, ser disponibilizados por via eletrónica à Autoridade Tributária e Aduaneira.\n\n3 - Os registos devem ser mantidos pelo prazo de 10 anos a contar do final do ano em que a operação tenha sido efetuada.\n\nArtigo 80.º-A\n\nResponsabilidade solidária das interfaces eletrónicas\n\n1 - O sujeito passivo, qualquer que seja o seu local de estabelecimento, que disponibilize uma interface eletrónica, para permitir a terceiros colocarem bens à venda ou disponibilizarem serviços, e não esteja abrangido pelo disposto nos n.os 9 e 10 do artigo 3.º ou pelo n.º 4 do artigo 4.º, é solidariamente responsável pelo pagamento do imposto com o transmitente dos bens ou o prestador dos serviços relativamente às operações efetuadas através da interface, quando tenha ou deva ter conhecimento de que o transmitente dos bens ou o prestador dos serviços não entrega o imposto correspondente nos cofres do Estado.\n\n2 - A responsabilidade solidária é acionada, relativamente às operações realizadas pelo transmitente dos bens ou prestador dos serviços em situação de incumprimento, a partir da data em que o sujeito passivo que disponibiliza a interface eletrónica seja notificado pela Autoridade Tributária e Aduaneira da situação de incumprimento detetada.\n\n3 - A responsabilidade solidária prevista nos números anteriores não é aplicável quando o sujeito passivo, após ser notificado para o efeito pela Autoridade Tributária e Aduaneira e no prazo de 30 dias, efetuar diligências no sentido de assegurar que o fornecedor dos bens ou o prestador dos serviços deixa de transmitir bens ou prestar serviços por intermédio da interface eletrónica ou regulariza a sua situação tributária em sede do IVA em território nacional.\n\n4 - Sem prejuízo do disposto nos números anteriores, o sujeito passivo referido no artigo 51.º-A é solidariamente responsável pelo pagamento do imposto com os transmitentes dos bens ou os prestadores dos serviços em caso de incumprimento da obrigação prevista no n.º 2 desse artigo.\n\nArtigo 80.º-B\n\nDevedor do imposto\n\nQuando, nas situações abrangidas pelo disposto nos n.os 9 e 10 do artigo 3.º, se verificarem as circunstâncias previstas no artigo 5.º-C do Regulamento de Execução (UE) n.º 282/2011 do Conselho, de 15 de março de 2011, o imposto liquidado adicionalmente é devido pelos sujeitos passivos a quem a interface eletrónica adquiriu os bens.»"
+  },
+  "140929580": {
+   "fragment_id": "140817329",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração ao Regime do Imposto sobre o Valor Acrescentado nas Transações Intracomunitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração ao Regime do Imposto sobre o Valor Acrescentado nas Transações Intracomunitárias\n\nOs artigos 1.º, 7.º, 10.º, 11.º, 14.º, 26.º e 31.º do RITI, aprovado em anexo ao Decreto-Lei n.º 290/92, de 28 de dezembro, passam a ter a seguinte redação:\n\n«Artigo 1.º\n\n[...]\n\n...\n\na) As aquisições intracomunitárias de bens efetuadas no território nacional, a título oneroso, por um sujeito passivo dos referidos no n.º 1 do artigo seguinte, agindo como tal, quando o vendedor for um sujeito passivo, agindo como tal, registado para efeitos do IVA noutro Estado-Membro que não esteja aí abrangido por um qualquer regime particular de isenção de pequenas empresas, não efetue no território nacional a instalação ou montagem dos bens nos termos do n.º 2 do artigo 9.º nem os transmita nas condições previstas no artigo 11.º;\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nArtigo 7.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\na) Transferência de bens para serem objeto de instalação ou montagem noutro Estado-Membro nos termos do n.º 1 do artigo 9.º ou de bens cuja transmissão não é tributável no território nacional nos termos do artigo 10.º;\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\n3 - ...\n\n4 - ...\n\nArtigo 10.º\n\n[...]\n\nNão obstante o disposto nos n.os 1 e 2 do artigo 6.º do Código do IVA, não são tributáveis:\n\na) As vendas à distância intracomunitárias de bens quando o lugar de chegada da expedição ou transporte dos bens com destino ao adquirente se situe fora do território nacional;\n\nb) As vendas à distância de bens importados em território nacional quando o lugar de chegada da expedição ou transporte dos bens com destino ao adquirente se situe fora do território nacional.\n\nArtigo 11.º\n\n[...]\n\nSão tributáveis:\n\na) As vendas à distância intracomunitárias de bens quando o lugar de chegada da expedição ou transporte dos bens com destino ao adquirente se situe em território nacional;\n\nb) As vendas à distância de bens importados em outro Estado-Membro quando o lugar de chegada da expedição ou transporte dos bens com destino ao adquirente se situe em território nacional;\n\nc) As vendas à distância de bens importados em território nacional quando o lugar de chegada da expedição ou transporte dos bens com destino ao adquirente se situe neste território, se o IVA devido por essas vendas for declarado ao abrigo do regime especial aplicável às vendas à distância de bens importados.\n\nArtigo 14.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - O disposto nos n.os 3 a 5 não é aplicável nas situações previstas nos n.os 9 e 10 do artigo 3.º do Código do IVA.\n\nArtigo 26.º\n\n[...]\n\n1 - As pessoas singulares ou coletivas que efetuem transmissões de bens nas condições previstas no artigo 11.º devem entregar a declaração a que se refere o artigo 31.º do Código do IVA.\n\n2 - A declaração a que se refere o número anterior deve ser apresentada até ao fim do mês seguinte àquele em que tenha sido excedido o montante previsto na alínea c) do n.º 2 do artigo 6.º-A do Código do IVA, a qual produz efeitos desde a data, inclusive, da operação em que aquele montante tenha sido excedido.\n\n3 - As pessoas singulares ou coletivas que tenham exercido a opção a que se refere o n.º 5 do artigo 6.º-A do Código do IVA devem entregar a declaração referida no artigo 31.º do mesmo Código.\n\n4 - ...\n\n5 - Os sujeitos passivos a que se refere o n.º 1 cujas operações não excedam, durante um ano civil, o montante referido na alínea c) do n.º 2 do artigo 6.º-A do Código do IVA podem proceder à entrega da declaração prevista no artigo 33.º do mesmo Código.\n\n6 - Os sujeitos passivos que exerceram a opção referida no n.º 5 do artigo 6.º-A do Código do IVA podem proceder à entrega da declaração prevista no artigo 33.º do mesmo Código caso, decorrido o prazo de dois anos, não se encontrem abrangidos pelo disposto na alínea a) do artigo 11.º\n\n7 - ...\n\n8 - As pessoas singulares ou coletivas que pretendam exercer a opção a que se refere o n.º 4 do artigo 6.º-A do Código do IVA devem apresentar a declaração prevista no artigo 32.º do mesmo Código, devendo igualmente apresentar a referida declaração caso pretendam renunciar ao regime por que optaram.\n\n9 - ...\n\nArtigo 31.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\na) ...\n\nb) O valor das transmissões de bens efetuadas noutro Estado-Membro nos termos do n.º 1 do artigo 9.º e do artigo 10.º;\n\nc) O valor das transmissões de bens efetuadas no território nacional nos termos do n.º 2 do artigo 9.º e do artigo 11.º, líquidas de imposto, segundo a taxa aplicável e o valor do imposto liquidado, igualmente segundo a taxa aplicável.\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...»"
+  },
+  "140929581": {
+   "fragment_id": "140817330",
+   "type": 11,
+   "heading": "Artigo 5.º — Alteração à lei geral tributária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alteração à lei geral tributária\n\nO artigo 64.º da lei geral tributária, aprovada em anexo ao Decreto-Lei n.º 398/98, de 17 de dezembro, passa a ter a seguinte redação:\n\n«Artigo 64.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\na) ...\n\nb) ...\n\nc) A notificação, pela administração tributária, de sujeito passivo que disponibilize uma interface eletrónica para efeitos de acionar a responsabilidade solidária deste.\n\n6 - ...\n\n7 - ...\n\n8 - ...»"
+  },
+  "140929582": {
+   "fragment_id": "140817331",
+   "type": 11,
+   "heading": "Artigo 6.º — Aprovação de regimes especiais a que se refere a alínea e) do n.º 2 do artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Aprovação de regimes especiais a que se refere a alínea e) do n.º 2 do artigo 1.º\n\nSão aprovados, no anexo i da presente lei e que dela faz parte integrante, os regimes especiais do IVA aplicáveis aos sujeitos passivos que prestem serviços a pessoas que não sejam sujeitos passivos, efetuem vendas à distância e determinadas transmissões internas de bens."
+  },
+  "140929583": {
+   "fragment_id": "140817332",
+   "type": 11,
+   "heading": "Artigo 7.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Norma transitória\n\n1 - Os sujeitos passivos que pretendam aplicar os regimes especiais a que se refere o artigo anterior, a partir de 1 de janeiro de 2021, podem, entre 1 de outubro e 31 de dezembro de 2020, efetuar, por via eletrónica, junto da Autoridade Tributária e Aduaneira, o registo para efeitos da sua aplicação.\n\n2 - Os sujeitos passivos que, em 31 de dezembro de 2020, se encontrem abrangidos pelo regime especial referido na alínea c) do artigo seguinte transitam diretamente para o respetivo regime especial, a que o artigo anterior se refere."
+  },
+  "140929584": {
+   "fragment_id": "140817333",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Norma revogatória\n\nSão revogados:\n\na) Os n.os 2 a 4 do artigo 10.º e os n.os 2 a 4 do artigo 11.º, ambos do RITI;\n\nb) O título iii do Decreto-Lei n.º 31/89, de 25 de janeiro;\n\nc) O regime especial do imposto sobre o valor acrescentado para sujeitos passivos não estabelecidos no Estado-Membro de consumo ou não estabelecidos na União Europeia que prestem serviços de telecomunicações, de radiodifusão ou televisão e serviços por via eletrónica a pessoas que não sejam sujeitos passivos, estabelecidas ou domiciliadas na União Europeia, publicado em anexo ao Decreto-Lei n.º 158/2014, de 24 de outubro, alterado pela Lei n.º 71/2018, de 31 de dezembro."
+  },
+  "140929585": {
+   "fragment_id": "140817334",
+   "type": 11,
+   "heading": "Artigo 9.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Republicação\n\n1 - É republicado, no anexo ii da presente lei e que dela faz parte integrante, o RITI, aprovado em anexo ao Decreto-Lei n.º 290/92, de 28 de dezembro, com a redação conferida pela presente lei.\n\n2 - Para efeitos de republicação, todas as referências legais a «Comunidade», a «Estado membro», a «Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo» e a «diretor-geral dos Impostos» consideram-se feitas, respetivamente, a «União Europeia», a «Estado-Membro», a «Autoridade Tributária e Aduaneira» e a «diretor-geral da Autoridade Tributária e Aduaneira»."
+  },
+  "140929586": {
+   "fragment_id": "140817335",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nA presente lei entra em vigor a 1 de janeiro de 2021."
+  },
+  "140929588": {
+   "fragment_id": "140817337",
+   "type": 14,
+   "heading": "Anexo I — Regimes especiais do imposto sobre o valor acrescentado aplicáveis aos sujeitos passivos que prestem serviços a pessoas que não sejam sujeitos passivos, efetuem vendas à distância e determinadas transmissões internas de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Regimes especiais do imposto sobre o valor acrescentado aplicáveis aos sujeitos passivos que prestem serviços a pessoas que não sejam sujeitos passivos, efetuem vendas à distância e determinadas transmissões internas de bens\n\n(a que se refere o artigo 6.º)"
+  },
+  "140929589": {
+   "fragment_id": "140817338",
+   "type": 1,
+   "heading": "Capítulo I — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições comuns"
+  },
+  "140929590": {
+   "fragment_id": "140817339",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nOs presentes regimes especiais do imposto sobre o valor acrescentado (IVA) são aplicáveis aos sujeitos passivos que prestem serviços a pessoas que não sejam sujeitos passivos, efetuem vendas à distância e determinadas transmissões internas de bens."
+  },
+  "140929591": {
+   "fragment_id": "140817340",
+   "type": 11,
+   "heading": "Artigo 2.º — Opção pelos regimes especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Opção pelos regimes especiais\n\n1 - Os sujeitos passivos referidos no artigo anterior, desde que reúnam as condições previstas nos capítulos seguintes, podem optar pela aplicação dos regimes especiais, devendo, para esse efeito, efetuar eletronicamente o respetivo registo junto da Autoridade Tributária e Aduaneira.\n\n2 - Quando exerçam a opção referida no número anterior, os sujeitos passivos ficam obrigados ao cumprimento, por via eletrónica, junto da Autoridade Tributária e Aduaneira, de todas as obrigações previstas no respetivo regime especial."
+  },
+  "140929592": {
+   "fragment_id": "140817341",
+   "type": 11,
+   "heading": "Artigo 3.º — Exclusão dos regimes especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Exclusão dos regimes especiais\n\nA Autoridade Tributária e Aduaneira procede à exclusão dos sujeitos passivos e ao cancelamento do respetivo registo nos regimes especiais quando:\n\na) Tenham deixado de preencher os requisitos necessários para integrar o regime especial;\n\nb) Tenham informado que deixaram de efetuar as operações abrangidas pelo regime especial;\n\nc) Existam indícios de que as suas atividades tributáveis cessaram;\n\nd) Não cumprirem reiteradamente as regras relativas ao regime especial."
+  },
+  "140929593": {
+   "fragment_id": "140817342",
+   "type": 11,
+   "heading": "Artigo 4.º — Direito à dedução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Direito à dedução\n\n1 - Os sujeitos passivos estabelecidos em território nacional que optem pela aplicação de qualquer dos regimes especiais exercem o direito à dedução do imposto suportado em território nacional para a realização das operações por ele abrangidas na declaração periódica a que se refere o artigo 41.º do Código do IVA.\n\n2 - Os sujeitos passivos não estabelecidos em território nacional que optem pela aplicação de qualquer dos regimes especiais, e se encontrem registados em território nacional pelo exercício de outras atividades, exercem o direito à dedução do imposto suportado em território nacional para a realização das operações por ele abrangidas na declaração periódica a que se refere o artigo 41.º do Código do IVA."
+  },
+  "140929594": {
+   "fragment_id": "140817343",
+   "type": 11,
+   "heading": "Artigo 5.º — Direito ao reembolso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direito ao reembolso\n\n1 - Os sujeitos passivos não estabelecidos que optem pela aplicação de um regime especial, e que não se encontrem registados em território nacional pelo exercício de outras atividades, estão excluídos do direito à dedução previsto nos artigos 19.º e seguintes do Código do IVA, podendo solicitar o reembolso do imposto suportado em território nacional, de acordo com o disposto no regime de reembolso do IVA a sujeitos passivos não estabelecidos no Estado-Membro de reembolso, aprovado em anexo ao Decreto-Lei n.º 186/2009, de 12 de agosto.\n\n2 - Os sujeitos passivos referidos no artigo anterior podem solicitar o reembolso do imposto suportado noutros Estados-Membros para a realização das operações abrangidas pelo regime especial, nos termos do regime de reembolso do IVA a sujeitos passivos não estabelecidos no Estado-Membro de reembolso.\n\n3 - O disposto no número anterior não é aplicável se os sujeitos passivos estiverem registados para efeitos do IVA no território dos Estados-Membros de consumo.\n\n4 - Os sujeitos passivos que exerçam em outros Estados-Membros a opção pela aplicação do regime para declarar as transmissões de bens e as prestações de serviços efetuadas para o território nacional estão excluídos do direito à dedução previsto nos artigos 19.º e seguintes do Código do IVA, podendo solicitar o reembolso do imposto suportado em território nacional, nos termos do regime de reembolso do IVA a sujeitos passivos não estabelecidos no Estado-Membro de reembolso.\n\n5 - O disposto no número anterior não é aplicável se os sujeitos passivos estiverem registados para efeitos do IVA em território nacional.\n\n6 - O direito ao reembolso previsto nos n.os 1 e 4 não está, consoante o caso, subordinado ao disposto no n.º 1 do artigo 5.º do Regime de Reembolso do IVA a Sujeitos Passivos Não Estabelecidos no Estado-Membro de Reembolso ou à aplicação das regras de reciprocidade e de nomeação do representante fiscal, previstas no artigo 18.º daquele Regime."
+  },
+  "140929595": {
+   "fragment_id": "140817344",
+   "type": 11,
+   "heading": "Artigo 6.º — Pagamento do imposto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Pagamento do imposto\n\n1 - Os sujeitos passivos, ou os intermediários agindo por sua conta, que efetuem o registo em território nacional, devem proceder ao pagamento do imposto devido no âmbito do respetivo regime especial, relativamente a cada declaração entregue, até ao termo do prazo para a sua apresentação.\n\n2 - O pagamento deve remeter para o número de referência da declaração a que respeita e ser efetuado mediante transferência para uma conta bancária, em euros, indicada pela Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E.\n\n3 - Quando a contraprestação pelos bens transmitidos ou pelos serviços prestados não for expressa em euros, deve ser aplicada a taxa de câmbio em vigor no último dia do período abrangido pela declaração.\n\n4 - As taxas de câmbio a utilizar são as taxas de câmbio do dia referido no número anterior, publicadas pelo Banco Central Europeu ou, quando não haja publicação nesse dia, do dia de publicação seguinte."
+  },
+  "140929596": {
+   "fragment_id": "140817345",
+   "type": 11,
+   "heading": "Artigo 7.º — Obrigações declarativas e de conservação de registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Obrigações declarativas e de conservação de registos\n\n1 - Além da obrigação de pagamento do imposto, os sujeitos passivos ou os intermediários agindo por sua conta que tenham optado pelo registo nos termos do artigo 2.º são ainda obrigados a:\n\na) Declarar, por via eletrónica, o registo, a alteração e a cessação da sua atividade abrangida pelo respetivo regime especial;\n\nb) Submeter, por via eletrónica, uma declaração do IVA, contendo as informações necessárias para determinar o montante do IVA devido em cada Estado-Membro;\n\nc) Conservar registos das operações abrangidas pelo respetivo regime especial, de forma adequada ao apuramento e fiscalização do imposto.\n\n2 - A obrigação referida na alínea b) do número anterior subsiste ainda que, para o período em causa, não tenham sido efetuadas operações abrangidas pelo respetivo regime especial em qualquer Estado-Membro.\n\n3 - As declarações referidas nas alíneas a) e b) do n.º 1 obedecem aos modelos aprovados por regulamento de execução da Comissão.\n\n4 - Os sujeitos passivos não estabelecidos na União Europeia que tenham exercido a opção prevista no artigo 2.º, bem como os sujeitos passivos que se encontrem abrangidos por um regime especial equivalente noutro Estado-Membro, estão dispensados do cumprimento das obrigações previstas no Código do IVA e no Regime do Imposto sobre o Valor Acrescentado nas Transações Intracomunitárias (RITI), aprovado em anexo ao Decreto-Lei n.º 290/92, de 28 de dezembro, relativamente às operações abrangidas pelo respetivo regime especial."
+  },
+  "140929597": {
+   "fragment_id": "140817346",
+   "type": 11,
+   "heading": "Artigo 8.º — Declaração de imposto sobre o valor acrescentado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Declaração de imposto sobre o valor acrescentado\n\n1 - A declaração do IVA deve ser expressa em euros, mencionar o número de identificação do sujeito passivo para efeitos da aplicação do respetivo regime especial e, por cada Estado-Membro de consumo em que o imposto é devido, mencionar o valor total, líquido de imposto, das operações realizadas durante o período de tributação, o montante de imposto correspondente discriminado por taxas, bem como a taxa ou taxas aplicáveis, e o montante total do imposto devido.\n\n2 - Quando se verifiquem alterações aos elementos constantes de declaração do IVA já entregue, essas alterações devem ser incluídas numa declaração posterior, no prazo de três anos a contar do termo do prazo previsto para a entrega da declaração a alterar.\n\n3 - A declaração entregue nos termos do número anterior deve identificar o Estado-Membro de consumo relevante, o período de tributação e o montante do IVA a alterar.\n\n4 - Para efeitos do disposto nos números anteriores, as taxas do imposto aplicáveis são as que vigoram em cada Estado-Membro de consumo."
+  },
+  "140929598": {
+   "fragment_id": "140817347",
+   "type": 11,
+   "heading": "Artigo 9.º — Registo contabilístico das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Registo contabilístico das operações\n\n1 - O registo contabilístico das operações deve ser organizado de forma a possibilitar o conhecimento dos elementos necessários ao cálculo do imposto e permitir o seu controlo.\n\n2 - Os intermediários que ajam por conta do sujeito passivo devem conservar um registo para cada sujeito passivo que representem.\n\n3 - Os registos devem ser conservados por um prazo de 10 anos, a contar de 31 de dezembro do ano em que a operação tiver sido efetuada.\n\n4 - Os registos devem ser disponibilizados eletronicamente a pedido da Autoridade Tributária e Aduaneira ou de qualquer Estado-Membro de consumo.\n\n5 - Os sujeitos passivos não estabelecidos em território nacional que se encontrem abrangidos por regimes especiais equivalentes noutros Estados-Membros e que realizem operações localizadas em território nacional devem disponibilizar eletronicamente, a pedido da Autoridade Tributária e Aduaneira, os registos dessas operações."
+  },
+  "140929599": {
+   "fragment_id": "140817348",
+   "type": 1,
+   "heading": "Capítulo II — Regime especial aplicável às vendas à distância intracomunitárias de bens, às transmissões de bens num Estado-Membro efetuadas por interfaces eletrónicas e aos serviços prestados por sujeitos passivos estabelecidos na União Europeia, mas não no Estado-Membro de consumo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Regime especial aplicável às vendas à distância intracomunitárias de bens, às transmissões de bens num Estado-Membro efetuadas por interfaces eletrónicas e aos serviços prestados por sujeitos passivos estabelecidos na União Europeia, mas não no Estado-Membro de consumo"
+  },
+  "140929600": {
+   "fragment_id": "140817349",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "140929601": {
+   "fragment_id": "140817350",
+   "type": 11,
+   "heading": "Artigo 10.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Conceitos\n\nPara efeitos do regime especial constante do presente capítulo, entende-se por:\n\na) «Estado-Membro de consumo»:\n\ni) No caso de prestação de serviços, o Estado-Membro no qual se considera efetuada a prestação de serviços;\n\nii) No caso das vendas à distância intracomunitárias de bens, o Estado-Membro onde termina a expedição ou o transporte dos bens para o adquirente;\n\niii) No caso de transmissões de bens efetuadas por um sujeito passivo que facilite essas transmissões nos termos do n.º 10 do artigo 3.º do Código do IVA, o Estado-Membro onde a expedição ou o transporte dos bens transmitidos se iniciar e terminar;\n\nb) «Estado-Membro de identificação»:\n\ni) O Estado-Membro no qual o sujeito passivo estabelecido na União Europeia tem a sede, estabelecimento estável, ou, na sua falta, um domicílio;\n\nii) No caso de sujeito passivo sem sede na União Europeia, mas que disponha de estabelecimento estável em mais do que um Estado-Membro, aquele entre esses por ele escolhido;\n\niii) No caso de sujeito passivo sem sede ou estabelecimento estável na União Europeia, o Estado-Membro onde se iniciar a expedição ou transporte dos bens;\n\niv) Nas situações referidas na subalínea anterior, quando exista mais do que um Estado-Membro de início da expedição ou transporte dos bens, aquele que entre esses seja escolhido pelo sujeito passivo;\n\nc) «Sujeito passivo não estabelecido no Estado-Membro de consumo» as pessoas singulares ou coletivas com sede, estabelecimento estável ou domicílio na União Europeia que não disponham de sede, estabelecimento estável ou domicílio no território do Estado-Membro de consumo."
+  },
+  "140929602": {
+   "fragment_id": "140817351",
+   "type": 8,
+   "heading": "Secção II — Âmbito de aplicação do regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Âmbito de aplicação do regime"
+  },
+  "140929603": {
+   "fragment_id": "140817352",
+   "type": 11,
+   "heading": "Artigo 11.º — Opção pelo regime especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Opção pelo regime especial\n\n1 - Podem optar pelo registo no regime especial em território nacional, para efeitos do cumprimento de todas as obrigações decorrentes das prestações de serviços e transmissões de bens abrangidas pelo presente regime:\n\na) Os sujeitos passivos que efetuem vendas à distância intracomunitárias de bens;\n\nb) Os sujeitos passivos que facilitem a transmissão de bens, nos termos do n.º 10 do artigo 3.º do Código do IVA, se a expedição ou transporte dos bens transmitidos se iniciar e terminar em território nacional;\n\nc) Os sujeitos passivos com sede, estabelecimento estável ou, na sua falta, domicílio em território nacional, não estabelecidos no Estado-Membro de consumo, que prestem serviços a pessoas que não sejam sujeitos passivos, estabelecidas ou domiciliadas em qualquer outro Estado-Membro da União Europeia.\n\n2 - Tendo exercido a opção prevista no número anterior, o regime especial aplica-se a todos os serviços assim prestados e transmissões de bens assim efetuadas na União Europeia pelo sujeito passivo em causa.\n\n3 - Um sujeito passivo que não disponha de sede na União Europeia mas disponha de um estabelecimento estável em território nacional e estabelecimentos estáveis em outros Estados-Membros, e que tenha exercido a opção a que se refere o n.º 1, é obrigado a manter o território nacional como Estado-Membro de identificação durante o ano civil em que exerceu a opção e nos dois anos civis subsequentes.\n\n4 - Um sujeito passivo que tenha efetuado transmissões de bens cuja expedição ou transporte se iniciar no território nacional e noutros Estados-Membros, e que tenha exercido a opção a que se refere o n.º 1, é obrigado a manter o território nacional como Estado-Membro de identificação durante o ano civil em que exerceu a opção e nos dois anos civis subsequentes."
+  },
+  "140929604": {
+   "fragment_id": "140817353",
+   "type": 11,
+   "heading": "Artigo 12.º — Número de identificação fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Número de identificação fiscal\n\nPara efeitos do disposto no artigo anterior, os sujeitos passivos utilizam o número de identificação fiscal que lhes foi atribuído em território nacional."
+  },
+  "140929605": {
+   "fragment_id": "140817354",
+   "type": 8,
+   "heading": "Secção III — Obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Obrigações"
+  },
+  "140929606": {
+   "fragment_id": "140817355",
+   "type": 11,
+   "heading": "Artigo 13.º — Declaração do imposto sobre o valor acrescentado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Declaração do imposto sobre o valor acrescentado\n\n1 - A declaração do IVA a que se refere a alínea b) do n.º 1 do artigo 7.º deve ser submetida até ao fim do mês seguinte a cada trimestre do ano civil a que respeitam as operações e cumprir o disposto no artigo 8.º\n\n2 - Quando num período de tributação se realizarem transmissões de bens que sejam expedidos ou transportados a partir de outro Estado-Membro, a declaração do IVA deve ainda conter o valor total, líquido do IVA, a taxa ou taxas aplicáveis, o montante total por taxa e o valor total do IVA devido, discriminado por cada Estado-Membro a partir do qual os bens são expedidos ou transportados, relativamente às seguintes operações abrangidas pelo regime:\n\na) As vendas à distância intracomunitárias de bens e as transmissões de bens, se a expedição ou transporte desses bens tiver início e terminar no mesmo Estado-Membro, efetuadas nos termos do n.º 10 do artigo 3.º do Código do IVA, indicando o número de identificação para efeitos do IVA ou o número de identificação fiscal atribuído por cada um desses Estados-Membros, se disponível;\n\nb) As vendas à distância intracomunitárias de bens que não foram efetuadas nos termos do n.º 10 do artigo 3.º do Código do IVA, indicando o número de identificação para efeitos do IVA ou o número de identificação fiscal atribuído por cada um desses Estados-Membros.\n\n3 - Quando os sujeitos passivos efetuem prestações de serviços abrangidas pelo regime especial constante do presente capítulo e nele se encontrem registados em território nacional, e disponham de um ou mais estabelecimentos estáveis noutros Estados-Membros a partir dos quais os serviços são prestados, a declaração do IVA deve ainda incluir, relativamente a cada Estado-Membro onde disponha de um estabelecimento:\n\na) O valor total, líquido do IVA, e a taxa ou taxas aplicáveis;\n\nb) O montante total do IVA, discriminado por taxas, e o IVA total devido pelas prestações de serviços;\n\nc) O número de identificação para efeitos do IVA ou o número de identificação fiscal desse estabelecimento.\n\n4 - A informação referida nos números anteriores deve ser discriminada por Estado-Membro de consumo."
+  },
+  "140929607": {
+   "fragment_id": "140817356",
+   "type": 1,
+   "heading": "Capítulo III — Regime especial aplicável a serviços prestados por sujeitos passivos não estabelecidos na União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Regime especial aplicável a serviços prestados por sujeitos passivos não estabelecidos na União Europeia"
+  },
+  "140929608": {
+   "fragment_id": "140817357",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "140929609": {
+   "fragment_id": "140817358",
+   "type": 11,
+   "heading": "Artigo 14.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Conceitos\n\nPara efeitos do regime especial constante do presente capítulo, entende-se por:\n\na) «Estado-Membro de consumo» o Estado-Membro no qual se considera efetuada a prestação de serviços;\n\nb) «Estado-Membro de identificação» o Estado-Membro escolhido pelo sujeito passivo não estabelecido na União Europeia para declarar o início da sua atividade na qualidade de sujeito passivo no território da União Europeia;\n\nc) «Sujeito passivo não estabelecido na União Europeia» as pessoas singulares ou coletivas que não disponham de sede, estabelecimento estável ou, na sua falta, domicílio no território da União Europeia."
+  },
+  "140929610": {
+   "fragment_id": "140817359",
+   "type": 8,
+   "heading": "Secção II — Âmbito de aplicação do regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Âmbito de aplicação do regime"
+  },
+  "140929611": {
+   "fragment_id": "140817360",
+   "type": 11,
+   "heading": "Artigo 15.º — Opção pelo regime especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Opção pelo regime especial\n\n1 - Os sujeitos passivos que não disponham de sede, estabelecimento estável ou, na sua falta, domicílio na União Europeia, que prestem serviços a pessoas que não sejam sujeitos passivos, estabelecidas ou domiciliadas na União Europeia, podem optar pelo registo em território nacional, para efeitos do cumprimento de todas as obrigações decorrentes da prestação dos serviços.\n\n2 - Tendo exercido a opção referida no número anterior, o regime especial aplica-se a todos os serviços assim prestados na União Europeia, independentemente do Estado-Membro da tributação."
+  },
+  "140929612": {
+   "fragment_id": "140817361",
+   "type": 11,
+   "heading": "Artigo 16.º — Número de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Número de identificação\n\n1 - Para efeitos do disposto no artigo anterior, a Autoridade Tributária e Aduaneira atribui aos sujeitos passivos não estabelecidos na União Europeia um número de identificação para efeitos do IVA, que lhes é comunicado por via eletrónica.\n\n2 - No cumprimento das obrigações decorrentes da prestação dos serviços, os sujeitos passivos devem utilizar esse número de identificação."
+  },
+  "140929613": {
+   "fragment_id": "140817362",
+   "type": 8,
+   "heading": "Secção III — Obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Obrigações"
+  },
+  "140929614": {
+   "fragment_id": "140817363",
+   "type": 11,
+   "heading": "Artigo 17.º — Declaração de registo no regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Declaração de registo no regime\n\n1 - Na declaração de registo no regime constante do presente capítulo, a entregar nos termos da alínea a) do n.º 1 do artigo 7.º, o sujeito passivo não estabelecido na União Europeia deve indicar, como elementos de identificação, o nome, endereço postal, os endereços eletrónicos, incluindo os sítios na Internet, o número de identificação fiscal no respetivo país, se o tiver, e declarar que não tem a sede, estabelecimento estável ou, na sua falta, domicílio na União Europeia.\n\n2 - O sujeito passivo não estabelecido na União Europeia deve comunicar quaisquer alterações das informações apresentadas, no prazo de 15 dias a contar da data da alteração."
+  },
+  "140929615": {
+   "fragment_id": "140817364",
+   "type": 11,
+   "heading": "Artigo 18.º — Declaração do imposto sobre o valor acrescentado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Declaração do imposto sobre o valor acrescentado\n\nA declaração do IVA a que se refere a alínea b) do n.º 1 do artigo 7.º deve ser submetida até ao fim do mês seguinte a cada trimestre do ano civil a que respeitam as prestações de serviços e cumprir o disposto no artigo 8.º"
+  },
+  "140929616": {
+   "fragment_id": "140817365",
+   "type": 1,
+   "heading": "Capítulo IV — Regime especial aplicável às vendas à distância de bens importados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regime especial aplicável às vendas à distância de bens importados"
+  },
+  "140929617": {
+   "fragment_id": "140817366",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "140929618": {
+   "fragment_id": "140817367",
+   "type": 11,
+   "heading": "Artigo 19.º — Âmbito do regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Âmbito do regime\n\nO regime especial constante do presente capítulo aplica-se às vendas à distância de bens importados que não sejam produtos sujeitos a impostos especiais de consumo, de valor intrínseco não superior a 150 (euro)."
+  },
+  "140929619": {
+   "fragment_id": "140817368",
+   "type": 11,
+   "heading": "Artigo 20.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Conceitos\n\nPara efeitos do regime especial constante do presente capítulo, entende-se por:\n\na) «Estado-Membro de consumo» o Estado-Membro onde termina a expedição ou transporte dos bens para o adquirente;\n\nb) «Estado-Membro de identificação»:\n\ni) Quando o sujeito passivo tiver a sede da sua atividade económica num Estado-Membro, esse Estado-Membro;\n\nii) Quando o sujeito passivo tiver a sede da sua atividade económica fora da União Europeia, mas tiver um ou mais estabelecimentos estáveis na União Europeia, o Estado-Membro no qual disponha de um estabelecimento estável e onde indique que pretende utilizar o regime;\n\niii) Quando o sujeito passivo não estiver estabelecido na União Europeia, o Estado-Membro no qual decida registar-se;\n\niv) Quando o intermediário tiver a sede da sua atividade económica num Estado-Membro, esse Estado-Membro;\n\nv) Quando o intermediário tiver a sede da sua atividade económica fora da União Europeia, mas tiver um ou mais estabelecimentos estáveis na União Europeia, o Estado-Membro no qual o intermediário disponha de um estabelecimento estável e onde indique que pretende utilizar o regime;\n\nc) «Intermediário» as pessoas singulares ou coletivas que disponham de sede, estabelecimento estável ou, na sua falta, domicílio no território da União Europeia, que sejam designadas pelo sujeito passivo que efetua vendas à distância de bens importados como devedor do imposto e responsável pelo cumprimento das obrigações previstas no regime especial constante do presente capítulo em nome e por conta do sujeito passivo;\n\nd) «Sujeito passivo não estabelecido na União Europeia», as pessoas singulares ou coletivas que não disponham de sede, estabelecimento estável ou, na sua falta, domicílio no território da União Europeia."
+  },
+  "140929620": {
+   "fragment_id": "140817369",
+   "type": 8,
+   "heading": "Secção II — Âmbito de aplicação do regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Âmbito de aplicação do regime"
+  },
+  "140929621": {
+   "fragment_id": "140817370",
+   "type": 11,
+   "heading": "Artigo 21.º — Opção pelo regime especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Opção pelo regime especial\n\n1 - Podem optar pelo registo no regime especial constante do presente capítulo em território nacional, para efeitos do cumprimento de todas as obrigações decorrentes das vendas à distância de bens importados abrangidas pelo referido regime:\n\na) Os sujeitos passivos com sede, estabelecimento estável ou, na sua falta, domicílio em território nacional;\n\nb) Os sujeitos passivos, independentemente de estarem ou não estabelecidos na União Europeia, que sejam representados por um intermediário com sede, estabelecimento estável ou, na sua falta, domicílio em território nacional;\n\nc) Os sujeitos passivos estabelecidos num país terceiro com o qual a União Europeia tenha celebrado um acordo de assistência mútua de alcance análogo ao da Diretiva 2010/24/UE do Conselho, de 16 de março de 2010, e do Regulamento (UE) n.º 904/2010 do Conselho, de 7 de outubro de 2010, e que efetuem vendas à distância de bens provenientes desse país terceiro.\n\n2 - Tendo exercido a opção referida no número anterior, o regime especial aplica-se a todas as vendas à distância de bens importados.\n\n3 - Para efeitos da alínea b) do n.º 1, os sujeitos passivos não podem designar mais do que um intermediário de cada vez.\n\n4 - O sujeito passivo ou o intermediário que não disponha de sede na União Europeia mas disponha de um estabelecimento estável em território nacional e estabelecimentos estáveis em outros Estados-Membros, e que tenha exercido a opção a que se refere o n.º 1, é obrigado a manter o território nacional como Estado-Membro de identificação durante o ano civil em que exerceu a opção e nos dois anos civis subsequentes."
+  },
+  "140929622": {
+   "fragment_id": "140817371",
+   "type": 11,
+   "heading": "Artigo 22.º — Facto gerador e exigibilidade do imposto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Facto gerador e exigibilidade do imposto\n\nPara efeitos do regime especial constante do presente capítulo, o imposto é devido e torna-se exigível na data da transmissão dos bens, considerando-se que esta ocorre no momento em que o pagamento é aceite."
+  },
+  "140929623": {
+   "fragment_id": "140817372",
+   "type": 11,
+   "heading": "Artigo 23.º — Número individual de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Número individual de identificação\n\n1 - A Autoridade Tributária e Aduaneira atribui aos sujeitos passivos e aos intermediários um número individual de identificação para efeitos da aplicação do presente regime especial, que lhes é comunicado por via eletrónica.\n\n2 - O intermediário obtém, junto da Autoridade Tributária e Aduaneira, para cada sujeito passivo pelo qual tenha sido designado, um número individual de identificação para efeitos da aplicação do presente regime especial.\n\n3 - O número individual de identificação atribuído nos termos do presente artigo é exclusivamente utilizado para efeitos do regime especial constante do presente capítulo."
+  },
+  "140929624": {
+   "fragment_id": "140817373",
+   "type": 11,
+   "heading": "Artigo 24.º — Responsabilidade solidária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Responsabilidade solidária\n\nO sujeito passivo é solidariamente responsável com o intermediário pelo pagamento do imposto."
+  },
+  "140929625": {
+   "fragment_id": "140817374",
+   "type": 8,
+   "heading": "Secção III — Obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Obrigações"
+  },
+  "140929626": {
+   "fragment_id": "141076775",
+   "type": 11,
+   "heading": "Artigo 25.º — Declaração de registo no regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Declaração de registo no regime\n\n1 - Na declaração de registo no regime, a entregar nos termos da alínea a) do n.º 1 do artigo 7.º, o sujeito passivo que não designe um intermediário deve indicar, como elementos de identificação, o nome, o endereço postal, o endereço eletrónico, incluindo os sítios na Internet, e o número de identificação para efeitos do IVA em território nacional ou, no caso dos sujeitos passivos referidos na alínea c) do n.º 1 do artigo 21.º, o número de identificação fiscal no país de estabelecimento.\n\n2 - O intermediário, antes de começar a utilizar o regime especial por conta de um sujeito passivo, deve proceder à entrega de uma declaração de registo no regime, indicando, como elementos de identificação, o nome, o endereço postal, o endereço eletrónico e o número de identificação para efeitos do IVA.\n\n3 - O intermediário deve ainda indicar na declaração de registo no regime, por cada sujeito passivo que represente e antes de este começar a utilizar o regime especial, como elementos de identificação, o nome, o endereço postal, o endereço eletrónico e sítios na Internet, o número de identificação para efeitos do IVA e o número individual de identificação para efeitos da aplicação do presente regime especial a que se refere o n.º 2 do artigo 23.º"
+  },
+  "140929627": {
+   "fragment_id": "141076776",
+   "type": 11,
+   "heading": "Artigo 26.º — Cancelamento do registo do intermediário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Cancelamento do registo do intermediário\n\n1 - A Autoridade Tributária e Aduaneira procede ao cancelamento do registo do intermediário quando este:\n\na) Durante dois trimestres civis consecutivos não tiver agido na qualidade de intermediário por conta de um sujeito passivo que utilize este regime especial;\n\nb) Deixar de satisfazer as condições necessárias para poder agir na qualidade de intermediário;\n\nc) Reiteradamente não cumprir as regras relativas ao regime especial.\n\n2 - Sem prejuízo do disposto no artigo 3.º, a Autoridade Tributária e Aduaneira procede ainda ao cancelamento do registo do sujeito passivo representado por um intermediário nos seguintes casos:\n\na) Se o intermediário comunicar que o sujeito passivo deixou de efetuar vendas à distância de bens importados;\n\nb) Se o intermediário comunicar que deixou de representar o sujeito passivo."
+  },
+  "140929628": {
+   "fragment_id": "141076777",
+   "type": 11,
+   "heading": "Artigo 27.º — Declaração do imposto sobre o valor acrescentado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Declaração do imposto sobre o valor acrescentado\n\n1 - A declaração do IVA a que se refere a alínea b) do n.º 1 do artigo 7.º deve ser submetida até ao fim do mês seguinte a cada mês do ano civil a que respeitam as vendas à distância de bens importados e cumprir o disposto no artigo 8.º\n\n2 - Quando seja submetida por um intermediário, a declaração deve conter, além do número individual de identificação do sujeito passivo, o número individual de identificação do intermediário, atribuídos nos termos do artigo 23.º"
+  },
+  "140929629": {
+   "fragment_id": "141076778",
+   "type": 1,
+   "heading": "Capítulo V — Garantias dos sujeitos passivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Garantias dos sujeitos passivos"
+  },
+  "140929630": {
+   "fragment_id": "141076779",
+   "type": 11,
+   "heading": "Artigo 28.º — Notificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Notificações\n\n1 - Para efeitos dos regimes especiais constantes dos capítulos anteriores, as notificações dirigidas a sujeitos passivos não estabelecidos em território nacional são efetuadas por via eletrónica e autenticadas com assinatura eletrónica avançada nos termos previstos pelo Sistema de Certificação Eletrónica do Estado - Infraestrutura de Chaves Públicas.\n\n2 - As notificações efetuadas nos termos do número anterior presumem-se feitas na data do envio, servindo de prova a cópia da mensagem de onde conste que esta foi enviada com sucesso."
+  },
+  "140929631": {
+   "fragment_id": "141076780",
+   "type": 11,
+   "heading": "Artigo 29.º — Meios de defesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Meios de defesa\n\nDa recusa do registo ou decisão de exclusão do regime especial cabe recurso hierárquico, a submeter por via eletrónica, nos termos do Código de Procedimento e de Processo Tributário, ou impugnação de atos administrativos, nos termos do Código de Processo nos Tribunais Administrativos."
+  },
+  "140929632": {
+   "fragment_id": "141076781",
+   "type": 1,
+   "heading": "Capítulo VI — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposição final"
+  },
+  "140929633": {
+   "fragment_id": "141076782",
+   "type": 11,
+   "heading": "Artigo 30.º — Direito aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Direito aplicável\n\nA disciplina geral do Código do IVA e respetiva legislação complementar é aplicável, em tudo o que não se revelar contrário ao disposto nos regimes especiais constantes dos capítulos anteriores e nos regulamentos europeus aplicáveis, nomeadamente no Regulamento de Execução (UE) n.º 282/2011 do Conselho, de 15 de março de 2011."
+  },
+  "140929634": {
+   "fragment_id": "141076783",
+   "type": 14,
+   "heading": "Anexo II — Republicação do Regime do IVA nas Transações Intracomunitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Republicação do Regime do IVA nas Transações Intracomunitárias\n\n(a que se refere o artigo 9.º)"
+  },
+  "140929635": {
+   "fragment_id": "141076784",
+   "type": 1,
+   "heading": "Capítulo I — Incidência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Incidência"
+  },
+  "140929636": {
+   "fragment_id": "141076785",
+   "type": 11,
+   "heading": "Artigo 1.º — Incidência objetiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Incidência objetiva\n\nEstão sujeitas a imposto sobre o valor acrescentado (IVA):\n\na) As aquisições intracomunitárias de bens efetuadas no território nacional, a título oneroso, por um sujeito passivo dos referidos no n.º 1 do artigo seguinte, agindo como tal, quando o vendedor for um sujeito passivo, agindo como tal, registado para efeitos do IVA noutro Estado-Membro que não esteja aí abrangido por um qualquer regime particular de isenção de pequenas empresas, não efetue no território nacional a instalação ou montagem dos bens nos termos do n.º 2 do artigo 9.º nem os transmita nas condições previstas no artigo 11.º;\n\nb) As aquisições intracomunitárias de meios de transporte novos efetuadas no território nacional, a título oneroso, por um sujeito passivo, ainda que se encontre abrangido pelo disposto no n.º 1 do artigo 5.º, ou por um particular;\n\nc) As aquisições intracomunitárias de bens sujeitos a impostos especiais de consumo, exigíveis em conformidade com o disposto no Código dos Impostos Especiais sobre o Consumo, efetuadas no território nacional, a título oneroso, por um sujeito passivo que se encontre abrangido pelo disposto no n.º 1 do artigo 5.º;\n\nd) As operações assimiladas a aquisições intracomunitárias de bens previstas no n.º 1 do artigo 4.º;\n\ne) As transmissões de meios de transporte novos efetuadas a título oneroso, por qualquer pessoa, expedidos ou transportados pelo vendedor, pelo adquirente ou por conta destes, a partir do território nacional, com destino a um adquirente estabelecido ou domiciliado noutro Estado-Membro."
+  },
+  "140929637": {
+   "fragment_id": "141076786",
+   "type": 11,
+   "heading": "Artigo 2.º — Incidência subjetiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Incidência subjetiva\n\n1 - São considerados sujeitos passivos do imposto pela aquisição intracomunitária de bens:\n\na) As pessoas singulares ou coletivas mencionadas na alínea a) do n.º 1 do artigo 2.º do Código do IVA que realizem transmissões de bens ou prestações de serviços que conferem direito à dedução total ou parcial do imposto;\n\nb) As pessoas singulares ou coletivas mencionadas na alínea a) do n.º 1 do artigo 2.º do Código do IVA que realizem exclusivamente transmissões de bens ou prestações de serviços que não conferem qualquer direito à dedução;\n\nc) O Estado e as demais pessoas coletivas de direito público abrangidas pelo disposto no n.º 2 do artigo 2.º do Código do IVA ou qualquer outra pessoa coletiva não compreendida nas alíneas anteriores.\n\n2 - São ainda considerados sujeitos passivos do imposto:\n\na) Os particulares que efetuem aquisições intracomunitárias de meios de transporte novos;\n\nb) As pessoas singulares ou coletivas que ocasionalmente efetuem transmissões de meios de transporte novos, expedidos ou transportados a partir do território nacional, com destino a um adquirente estabelecido ou domiciliado noutro Estado-Membro."
+  },
+  "140929638": {
+   "fragment_id": "141076787",
+   "type": 11,
+   "heading": "Artigo 3.º — Conceito de aquisição intracomunitária de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conceito de aquisição intracomunitária de bens\n\nConsidera-se, em geral, aquisição intracomunitária a obtenção do poder de dispor, por forma correspondente ao exercício do direito de propriedade, de um bem móvel corpóreo cuja expedição ou transporte para território nacional, pelo vendedor, pelo adquirente ou por conta destes, com destino ao adquirente, tenha tido início noutro Estado-Membro."
+  },
+  "140929639": {
+   "fragment_id": "141076788",
+   "type": 11,
+   "heading": "Artigo 4.º — Operações assimiladas a aquisições intracomunitárias de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Operações assimiladas a aquisições intracomunitárias de bens\n\n1 - Consideram-se assimiladas a aquisições intracomunitárias de bens, efetuadas a título oneroso, as seguintes operações:\n\na) A afetação por um sujeito passivo às necessidades da sua empresa, no território nacional, de um bem expedido ou transportado, por si ou por sua conta, a partir de outro Estado-Membro no qual o bem tenha sido produzido, extraído, transformado, adquirido ou importado pelo sujeito passivo, no âmbito da sua atividade;\n\nb) A aquisição de bens expedidos ou transportados a partir de um país terceiro e importados noutro Estado-Membro, quando ambas as operações forem efetuadas por uma pessoa coletiva das referidas na alínea c) do n.º 1 do artigo 2.º\n\n2 - Sem prejuízo do disposto na presente lei, são consideradas como aquisições intracomunitárias as operações que, se efetuadas no território nacional por um sujeito passivo agindo como tal, seriam consideradas transmissões, nos termos do artigo 3.º do Código do IVA.\n\n3 - Não é considerada aquisição intracomunitária a afetação de bens a que se refere a alínea a) do n.º 1 quando a transferência desses bens tiver por objeto a realização, no território nacional, de operações mencionadas no n.º 2 do artigo 7.º\n\n4 - Não é considerada aquisição intracomunitária a afetação de bens a que se refere a alínea a) do n.º 1 nas situações previstas nos n.os 1 a 3 do artigo 7.º-A, salvo quando se verifique qualquer das condições referidas no n.º 4 do artigo 7.º"
+  },
+  "140929640": {
+   "fragment_id": "141076789",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime de derrogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regime de derrogação\n\n1 - Não obstante o disposto nas alíneas a) e d) do artigo 1.º, não estão sujeitas a imposto as aquisições intracomunitárias de bens quando se verifiquem, simultaneamente, as seguintes condições:\n\na) Sejam efetuadas por um sujeito passivo dos referidos nas alíneas b) e c) do n.º 1 do artigo 2.º;\n\nb) Os bens não sejam meios de transporte novos nem bens sujeitos a impostos especiais de consumo;\n\nc) O valor global das aquisições, líquido do IVA, devido ou pago nos Estados-Membros onde se inicia a expedição ou transporte dos bens, não tenha excedido no ano civil anterior ou no ano civil em curso o montante de 10 000 (euro) ou, tratando-se de uma única aquisição, não exceda esse montante.\n\n2 - Para efeitos do disposto na alínea c) do número anterior, o valor global das aquisições é determinado com exclusão do valor das aquisições de meios de transporte novos e de bens sujeitos a impostos especiais de consumo.\n\n3 - Os sujeitos passivos abrangidos pelo disposto no n.º 1 podem optar pela aplicação do regime de tributação previsto no artigo 1.º, devendo permanecer no regime de sujeição durante um período de dois anos.\n\n4 - Não obstante o disposto no artigo 1.º, não estão sujeitas a imposto as aquisições intracomunitárias de bens cuja transmissão no território nacional seja isenta de imposto nos termos das alíneas d) a m) e v) do n.º 1 do artigo 14.º do Código do IVA."
+  },
+  "140929641": {
+   "fragment_id": "141076790",
+   "type": 11,
+   "heading": "Artigo 6.º — Conceito de impostos especiais de consumo e de meios de transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conceito de impostos especiais de consumo e de meios de transporte\n\n1 - Para efeitos deste diploma, entende-se por:\n\na) «Bens sujeitos a impostos especiais de consumo» o álcool e as bebidas alcoólicas, o tabaco e os produtos petrolíferos e energéticos, com exceção do gás fornecido através de uma rede de gás natural ou de qualquer rede a ela ligada e da eletricidade;\n\nb) «Meios de transporte» as embarcações com comprimento superior a 7,5 m, as aeronaves com peso total na descolagem superior a 1550 kg e os veículos terrestres a motor com cilindrada superior a 48 cc ou potência superior a 7,2 kW, destinados ao transporte de pessoas ou de mercadorias, que sejam sujeitos a registo, licença ou matrícula no território nacional, com exceção das embarcações e aeronaves mencionados nas alíneas d), e) e g) do n.º 1 do artigo 14.º do Código do IVA.\n\n2 - Não são considerados novos os meios de transporte mencionados na alínea b) do número anterior desde que se verifiquem simultaneamente as seguintes condições:\n\na) A transmissão seja efetuada mais de três ou seis meses após a data da primeira utilização, tratando-se, respetivamente, de embarcações e aeronaves ou de veículos terrestres;\n\nb) O meio de transporte tenha percorrido mais de 6000 km, tratando-se de um veículo terrestre, navegado mais de 100 horas, tratando-se de uma embarcação, ou voado mais de 40 horas, tratando-se de uma aeronave.\n\n3 - Para efeitos do disposto na alínea a) do número anterior, a data da primeira utilização é a constante do título de registo de propriedade ou documento equivalente quando se trate de bens sujeitos a registo, licença ou matrícula, ou, na sua falta, a da fatura emitida aquando da aquisição pelo primeiro proprietário."
+  },
+  "140929642": {
+   "fragment_id": "141076791",
+   "type": 11,
+   "heading": "Artigo 7.º — Operações assimiladas a transmissão de bens a título oneroso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Operações assimiladas a transmissão de bens a título oneroso\n\n1 - Considera-se transmissão de bens efetuada a título oneroso, para além das previstas no artigo 3.º do Código do IVA, a transferência de bens móveis corpóreos expedidos ou transportados pelo sujeito passivo ou por sua conta, com destino a outro Estado-Membro, para as necessidades da sua empresa.\n\n2 - Não são, no entanto, consideradas transmissões de bens, nos termos do número anterior, as seguintes operações:\n\na) Transferência de bens para serem objeto de instalação ou montagem noutro Estado-Membro nos termos do n.º 1 do artigo 9.º ou de bens cuja transmissão não é tributável no território nacional nos termos do artigo 10.º;\n\nb) Transferência de bens para serem objeto de transmissão a bordo de um navio, de um avião ou de um comboio, durante um transporte em que os lugares de partida e de chegada se situem na União Europeia;\n\nc) Transferência de bens que consista em operações de exportação e operações assimiladas previstas no artigo 14.º do Código do IVA ou em transmissões isentas nos termos do artigo 14.º;\n\nd) Transferência de gás, através de uma rede de gás natural ou de qualquer rede a ela ligada, e transferência de eletricidade, de calor ou de frio através de redes de aquecimento ou arrefecimento;\n\ne) Transferência de bens para serem objeto de peritagens ou quaisquer trabalhos que consistam em prestações de serviços a efetuar ao sujeito passivo, materialmente executadas no Estado-Membro de chegada da expedição ou transporte dos bens, desde que, após a execução dos referidos trabalhos, os bens sejam reexpedidos para o território nacional com destino ao sujeito passivo;\n\nf) Transferência de bens para serem temporariamente utilizados em prestações de serviços a efetuar pelo sujeito passivo no Estado-Membro de chegada da expedição ou transporte dos bens;\n\ng) Transferência de bens para serem temporariamente utilizados pelo sujeito passivo, por um período que não exceda 24 meses, no território de outro Estado-Membro no interior do qual a importação do mesmo bem proveniente de um país terceiro, com vista a uma utilização temporária, beneficiaria do regime de importação temporária com isenção total de direitos.\n\n3 - Sempre que se deixe de verificar alguma das condições necessárias para poder beneficiar do disposto no número anterior, considera-se que os bens são transferidos para outro Estado-Membro nos termos do n.º 1 no momento em que a condição deixar de ser preenchida.\n\n4 - Não obstante o disposto no artigo 7.º-A, considera-se que os bens são transferidos para outro Estado-Membro, nos termos do n.º 1, quando se verifique qualquer das seguintes condições:\n\na) O termo do prazo de um ano após a chegada dos bens ao Estado-Membro de destino sem que os bens tenham sido transmitidos para o sujeito passivo referido na alínea c) do n.º 2 ou na alínea a) do n.º 3 do artigo 7.º-A;\n\nb) Quando, dentro do prazo referido na alínea anterior:\n\ni) Os bens forem transmitidos a uma pessoa que não seja o sujeito passivo referido na alínea c) do n.º 2 ou na alínea a) do n.º 3 do artigo 7.º-A, no momento dessa transmissão;\n\nii) Os bens forem expedidos ou transportados para fora da União Europeia ou para um Estado-Membro diferente do Estado-Membro a partir do qual foram inicialmente transferidos, antes do início dessa expedição ou transporte;\n\niii) Ocorra destruição, perda, furto ou roubo dos bens, se devidamente comprovados, na data em que tal facto se verificar ou for detetado pelo sujeito passivo;\n\niv) Se deixe de verificar qualquer das demais condições previstas nos n.os 1 a 3 do artigo 7.º-A, no momento em que a condição deixar de estar preenchida."
+  },
+  "140929643": {
+   "fragment_id": "141076792",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Regime de vendas à consignação em transferências intracomunitárias de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º-A — Regime de vendas à consignação em transferências intracomunitárias de bens\n\n1 - O disposto no n.º 1 do artigo anterior não tem aplicação em relação aos bens submetidos ao regime de vendas à consignação em transferências intracomunitárias de bens previsto no presente artigo.\n\n2 - O regime estabelecido pelo presente artigo aplica-se, independentemente da designação atribuída ao contrato, quando se verifiquem, cumulativamente, as seguintes condições:\n\na) Os bens sejam expedidos ou transportados para outro Estado-Membro tendo em vista a sua posterior transmissão, no prazo máximo de um ano, a outro sujeito passivo que se tenha comprometido a adquirir a propriedade desses bens nos termos de um acordo existente entre ambos os sujeitos passivos;\n\nb) O sujeito passivo que procede à expedição ou transporte não disponha de sede nem estabelecimento estável no Estado-Membro de chegada dos bens;\n\nc) O sujeito passivo destinatário da transmissão de bens esteja registado para efeitos do imposto sobre o valor acrescentado no Estado-Membro de chegada dos bens e a sua identidade e respetivo número de identificação sejam conhecidos do sujeito passivo referido na alínea anterior, no momento em que se inicia a expedição ou transporte;\n\nd) O sujeito passivo referido na alínea b) proceda ao registo dessa transferência nos termos do artigo 31.º e inclua os respetivos dados na declaração recapitulativa a que se refere a alínea c) do n.º 1 do artigo 23.º\n\n3 - O disposto no número anterior aplica-se ainda em qualquer das seguintes situações:\n\na) Quando o sujeito passivo referido na alínea c) do número anterior for substituído por outro sujeito passivo, desde que estejam reunidas as demais condições previstas nesse número e a substituição seja inscrita no registo previsto no artigo 31.º;\n\nb) Quando não venha a verificar-se a transferência do poder de dispor dos bens como proprietário, desde que os bens sejam reexpedidos para o território nacional dentro do prazo de um ano após a chegada dos bens ao Estado-Membro de destino e o sujeito passivo referido na alínea b) do número anterior proceda ao registo da respetiva reexpedição para território nacional nos termos do artigo 31.º\n\n4 - Quando estejam reunidas as condições previstas no n.º 2 e a transferência do poder de dispor dos bens como proprietário para o sujeito passivo referido na alínea c) desse número ou na alínea a) do número anterior ocorra dentro do prazo de um ano, no momento dessa transferência considera-se que:\n\na) É efetuada uma transmissão de bens nos termos do n.º 1 do artigo 14.º pelo sujeito passivo que procedeu à expedição ou transporte dos bens por si ou por intermédio de terceiro;\n\nb) É efetuada uma aquisição intracomunitária de bens pelo sujeito passivo a quem os bens são transmitidos no Estado-Membro para onde os bens foram expedidos ou transportados."
+  },
+  "140929644": {
+   "fragment_id": "141076793",
+   "type": 11,
+   "heading": "Artigo 8.º — Localização das aquisições intracomunitárias de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Localização das aquisições intracomunitárias de bens\n\n1 - São tributáveis as aquisições intracomunitárias de bens quando o lugar de chegada da expedição ou transporte com destino ao adquirente se situe no território nacional.\n\n2 - Não obstante o disposto no número anterior, são tributáveis as aquisições intracomunitárias de bens cujo lugar de chegada da expedição ou transporte se situe noutro Estado-Membro, desde que o adquirente seja um sujeito passivo dos referidos no n.º 1 do artigo 2.º, agindo como tal, que tenha utilizado o respetivo número de identificação para efetuar a aquisição e não prove que esta foi sujeita a imposto nesse outro Estado-Membro.\n\n3 - Para efeitos do disposto no número anterior, considera-se que a aquisição intracomunitária foi sujeita a imposto no Estado-Membro de chegada da expedição ou transporte dos bens desde que se verifiquem, simultaneamente, as seguintes condições:\n\na) O sujeito passivo tenha adquirido os bens para proceder à sua transmissão subsequente nesse Estado-Membro e inclua essa operação na declaração recapitulativa a que se refere o n.º 1 do artigo 30.º;\n\nb) O adquirente dos bens transmitidos nesse Estado-Membro seja um sujeito passivo aí registado para efeitos do imposto sobre o valor acrescentado;\n\nc) O adquirente seja expressamente designado, na fatura emitida pelo sujeito passivo, como devedor do imposto pela transmissão dos bens efetuada nesse Estado-Membro.\n\n4 - São tributáveis as aquisições intracomunitárias de meios de transporte novos sujeitos a registo, licença ou matrícula no território nacional."
+  },
+  "140929645": {
+   "fragment_id": "141076794",
+   "type": 11,
+   "heading": "Artigo 9.º — Localização das transmissões de bens com instalação ou montagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Localização das transmissões de bens com instalação ou montagem\n\n1 - O disposto no n.º 1 do artigo 6.º do Código do IVA não tem aplicação relativamente às transmissões de bens expedidos ou transportados pelo sujeito passivo ou por sua conta para fora do território nacional quando os bens sejam instalados ou montados no território de outro Estado-Membro.\n\n2 - São, no entanto, tributáveis as transmissões de bens expedidos ou transportados a partir de outro Estado-Membro quando os bens sejam instalados ou montados em território nacional, pelo fornecedor, sujeito passivo nesse outro Estado-Membro, ou por sua conta."
+  },
+  "140929646": {
+   "fragment_id": "141076795",
+   "type": 11,
+   "heading": "Artigo 10.º — Vendas à distância localizadas fora do território nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Vendas à distância localizadas fora do território nacional\n\nNão obstante o disposto nos n.os 1 e 2 do artigo 6.º do Código do IVA, não são tributáveis:\n\na) As vendas à distância intracomunitárias de bens quando o lugar de chegada da expedição ou transporte dos bens com destino ao adquirente se situe fora do território nacional;\n\nb) As vendas à distância de bens importados em território nacional quando o lugar de chegada da expedição ou transporte dos bens com destino ao adquirente se situe fora do território nacional."
+  },
+  "140929647": {
+   "fragment_id": "141076796",
+   "type": 11,
+   "heading": "Artigo 11.º — Vendas à distância localizadas no território nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Vendas à distância localizadas no território nacional\n\nSão tributáveis:\n\na) As vendas à distância intracomunitárias de bens quando o lugar de chegada da expedição ou transporte dos bens com destino ao adquirente se situe em território nacional;\n\nb) As vendas à distância de bens importados em outro Estado-Membro quando o lugar de chegada da expedição ou transporte dos bens com destino ao adquirente se situe em território nacional;\n\nc) As vendas à distância de bens importados em território nacional quando o lugar de chegada da expedição ou transporte dos bens com destino ao adquirente se situe neste território, se o IVA devido por essas vendas for declarado ao abrigo do regime especial aplicável às vendas à distância de bens importados."
+  },
+  "140929648": {
+   "fragment_id": "141076797",
+   "type": 11,
+   "heading": "Artigo 12.º — Facto gerador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Facto gerador\n\n1 - Nas aquisições intracomunitárias de bens, o imposto é devido no momento em que os bens são colocados à disposição do adquirente, sendo aplicável, em idênticas condições, o previsto no artigo 7.º do Código do IVA para as transmissões de bens.\n\n2 - Relativamente à afetação de bens que tiver por objeto a realização no território nacional de operações mencionadas no n.º 2 do artigo 7.º, quando deixe de se verificar alguma das condições necessárias para poder beneficiar do disposto no n.º 3 do artigo 4.º, o imposto é devido no momento em que a condição deixar de ser preenchida.\n\n3 - Nas situações abrangidas pelo disposto no n.º 4 do artigo 4.º, o imposto é devido nos momentos referidos no n.º 4 do artigo 7.º"
+  },
+  "140929649": {
+   "fragment_id": "141076798",
+   "type": 11,
+   "heading": "Artigo 13.º — Exigibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Exigibilidade\n\n1 - Nas aquisições intracomunitárias de bens, o imposto torna-se exigível:\n\na) No 15.º dia do mês seguinte àquele em que o imposto é devido;\n\nb) Na data da emissão da fatura ou documento equivalente, se tiver sido emitida antes do prazo previsto na alínea a).\n\n2 - O disposto na alínea b) do número anterior não é aplicável quando a fatura ou documento equivalente respeitarem a pagamentos parciais que precedam o momento em que os bens são colocados à disposição do adquirente."
+  },
+  "140929650": {
+   "fragment_id": "141076799",
+   "type": 1,
+   "heading": "Capítulo II — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Isenções"
+  },
+  "140929651": {
+   "fragment_id": "141076800",
+   "type": 11,
+   "heading": "Artigo 14.º — Isenções nas transmissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Isenções nas transmissões\n\n1 - Estão isentas do imposto:\n\na) As transmissões de bens, efetuadas por um dos sujeitos passivos referidos na alínea a) do n.º 1 do artigo 2.º, expedidos ou transportados pelo vendedor, pelo adquirente ou por conta destes, a partir do território nacional para outro Estado-Membro com destino ao adquirente, quando este seja uma pessoa singular ou coletiva registada, para efeitos do imposto sobre o valor acrescentado, em outro Estado-Membro, que tenha utilizado e comunicado ao vendedor o respetivo número de identificação para efetuar a aquisição e aí se encontre abrangido por um regime de tributação das aquisições intracomunitárias de bens;\n\nb) As transmissões de meios de transporte novos previstas na alínea e) do artigo 1.º;\n\nc) As transmissões de bens referidas no n.º 1 do artigo 7.º que beneficiariam da isenção prevista na alínea a) deste artigo se fossem efetuadas para outro sujeito passivo;\n\nd) As transmissões de bens sujeitos a impostos especiais de consumo, efetuadas por um sujeito passivo dos referidos na alínea a) do n.º 1 do artigo 2.º, expedidos ou transportados pelo vendedor, pelo adquirente ou por conta destes a partir do território nacional para outro Estado-Membro, com destino ao adquirente, quando este seja um sujeito passivo isento ou uma pessoa coletiva estabelecida ou domiciliada em outro Estado-Membro que não se encontre registada para efeitos do IVA, quando a expedição ou transporte dos bens seja efetuado em conformidade com o disposto no Código dos Impostos Especiais sobre o Consumo.\n\n2 - A isenção prevista na alínea a) do número anterior não tem aplicação quando o sujeito passivo transmitente não cumprir a obrigação prevista na alínea c) do n.º 1 do artigo 23.º, salvo se o sujeito passivo, em casos devidamente justificados, corrigir a falta detetada, sem prejuízo da penalidade aplicável ao caso.\n\n3 - Quando os mesmos bens sejam objeto de transmissões sucessivas e sejam expedidos ou transportados a partir do território nacional para outro Estado-Membro, diretamente do primeiro fornecedor para o último destinatário na operação em cadeia, a expedição ou transporte são imputados à transmissão de bens efetuada ao sujeito passivo intermédio.\n\n4 - Não obstante o disposto no número anterior, quando o sujeito passivo intermédio comunique ao fornecedor o respetivo número de identificação para efeitos de imposto sobre o valor acrescentado, emitido em território nacional, a expedição ou transporte são exclusivamente imputados à transmissão de bens efetuada pelo sujeito passivo intermédio.\n\n5 - Para efeitos dos n.os 3 e 4, entende-se por «sujeito passivo intermédio» um sujeito passivo que não seja o primeiro fornecedor na operação em cadeia e que proceda à expedição ou transporte dos bens por si próprio ou por intermédio de terceiro.\n\n6 - O disposto nos n.os 3 a 5 não é aplicável nas situações previstas nos n.os 9 e 10 do artigo 3.º do Código do IVA."
+  },
+  "140929652": {
+   "fragment_id": "141076801",
+   "type": 11,
+   "heading": "Artigo 15.º — Isenções nas aquisições intracomunitárias de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Isenções nas aquisições intracomunitárias de bens\n\n1 - Estão isentas do imposto:\n\na) As aquisições intracomunitárias de bens cuja transmissão no território nacional seja isenta do imposto;\n\nb) As aquisições intracomunitárias de bens cuja importação seja isenta do imposto nos termos do artigo 13.º do Código do IVA;\n\nc) As aquisições intracomunitárias de bens efetuadas por um sujeito passivo que se encontre em condições de beneficiar do reembolso de imposto previsto no regime do reembolso do IVA a sujeitos passivos não estabelecidos no Estado-Membro de reembolso, em aplicação do disposto na alínea b) do n.º 1 do artigo 20.º do Código do IVA e no n.º 2 do artigo 19.º\n\n2 - Estão ainda isentas do imposto as aquisições intracomunitárias de bens cujo lugar de chegada da expedição ou transporte se situe no território nacional, quando se verifiquem, simultaneamente, as seguintes condições:\n\na) Sejam efetuadas por um sujeito passivo não residente, sem estabelecimento estável no território nacional e que não se encontre registado para efeitos do imposto sobre o valor acrescentado em Portugal;\n\nb) Os bens tenham sido diretamente expedidos ou transportados a partir de um Estado-Membro diferente daquele que emitiu o número de identificação fiscal ao abrigo do qual o sujeito passivo efetuou a aquisição intracomunitária de bens;\n\nc) Os bens tenham sido adquiridos para serem objeto de uma transmissão subsequente a efetuar no território nacional, por esse sujeito passivo;\n\nd) A transmissão dos bens seja efetuada para um sujeito passivo registado para efeitos do imposto sobre o valor acrescentado no território nacional;\n\ne) O sujeito passivo adquirente seja expressamente designado, na fatura emitida pelo vendedor, como devedor do imposto pela transmissão de bens efetuada no território nacional."
+  },
+  "140929653": {
+   "fragment_id": "141076802",
+   "type": 11,
+   "heading": "Artigo 16.º — Isenções nas importações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Isenções nas importações\n\n1 - Estão isentas do imposto as importações de bens efetuadas por um sujeito passivo, agindo como tal, quando esses bens tenham como destino um outro Estado-Membro e a respetiva transmissão, efetuada pelo importador, seja isenta do imposto nos termos do artigo 14.º\n\n2 - A isenção prevista no número anterior só é aplicável se a expedição ou transporte dos bens para um adquirente situado noutro Estado-Membro for consecutiva à importação e o sujeito passivo:\n\na) Indicar o seu número de identificação para efeitos do IVA, ou o do seu representante fiscal na aceção do artigo 30.º do Código do IVA, emitido em território nacional;\n\nb) Indicar o número de identificação para efeitos do IVA do adquirente atribuído noutro Estado-Membro ou, no caso de os bens serem objeto de transmissão nos termos da alínea c) do n.º 1 do artigo 14.º, o seu próprio número de identificação para efeitos do IVA no Estado-Membro de chegada da expedição ou transporte dos bens;\n\nc) Fizer prova de que os bens importados se destinam a ser transportados ou expedidos com destino a outro Estado-Membro.\n\n3 - Os sujeitos passivos não residentes, sem estabelecimento estável em território nacional, que aqui não se encontrem registados para efeitos do IVA mas que disponham de um registo para efeitos desse imposto noutro Estado-Membro e utilizem o respetivo número de identificação para efetuar a importação podem também beneficiar da isenção prevista no n.º 1 desde que a importação seja efetuada através de um representante indireto devidamente habilitado para apresentar declarações aduaneiras, nos termos da legislação aplicável, que seja um sujeito passivo dos referidos na alínea a) do n.º 1 do artigo 2.º do Código do IVA, com sede, estabelecimento principal ou domicílio em território nacional.\n\n4 - Para efeitos do número anterior, o representante indireto devidamente habilitado para apresentar declarações aduaneiras é devedor do imposto que se mostre devido e fica obrigado a comprovar os requisitos referidos no n.º 2, bem como a incluir, na respetiva declaração periódica de imposto e na declaração recapitulativa a que se refere a alínea c) do n.º 1 do artigo 23.º, a subsequente transmissão isenta nos termos do artigo 14.º\n\n5 - Sempre que não sejam prestadas as informações ou efetuada a prova referidas no n.º 2, a Autoridade Tributária e Aduaneira exige uma garantia, que é mantida pelo prazo máximo de 30 dias.\n\n6 - Se até ao final do prazo referido no número anterior não forem prestadas as informações ou feita a prova aí mencionada, é exigido imposto pela importação."
+  },
+  "140929654": {
+   "fragment_id": "141076803",
+   "type": 1,
+   "heading": "Capítulo III — Valor tributável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Valor tributável"
+  },
+  "140929655": {
+   "fragment_id": "141076804",
+   "type": 11,
+   "heading": "Artigo 17.º — Determinação do valor tributável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Determinação do valor tributável\n\n1 - Na determinação do valor tributável das aquisições intracomunitárias de bens é aplicável, em idênticas condições, o previsto no artigo 16.º do Código do IVA para as transmissões de bens.\n\n2 - Nas transmissões referidas na alínea c) do n.º 1 do artigo 14.º e nas aquisições intracomunitárias de bens mencionadas na alínea a) do n.º 1 do artigo 4.º, o valor tributável é determinado nos termos da alínea b) do n.º 2 e do n.º 5 do artigo 16.º do Código do IVA.\n\n3 - Nas aquisições intracomunitárias de bens sujeitos a impostos especiais de consumo ou a imposto sobre veículos, o valor tributável é determinado com inclusão destes impostos, ainda que não liquidados simultaneamente.\n\n4 - Sempre que o adquirente dos bens a que se refere o número anterior obtiver o reembolso dos impostos especiais de consumo pagos no Estado-Membro de início da expedição ou transporte, o valor tributável é regularizado nos termos do artigo 78.º do Código do IVA, até ao limite do montante que tiver sido reembolsado."
+  },
+  "140929656": {
+   "fragment_id": "141076805",
+   "type": 1,
+   "heading": "Capítulo IV — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Taxas"
+  },
+  "140929657": {
+   "fragment_id": "141076806",
+   "type": 11,
+   "heading": "Artigo 18.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Taxas\n\n1 - As taxas do imposto aplicáveis às aquisições intracomunitárias de bens são as previstas no artigo 18.º do Código do IVA para as transmissões dos mesmos bens.\n\n2 - As taxas aplicáveis são as que vigoram para as transmissões desses bens no momento em que o imposto se torne exigível, de acordo com o estabelecido no artigo 13.º"
+  },
+  "140929658": {
+   "fragment_id": "141076807",
+   "type": 1,
+   "heading": "Capítulo V — Liquidação e pagamento do imposto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Liquidação e pagamento do imposto"
+  },
+  "140929659": {
+   "fragment_id": "141076808",
+   "type": 8,
+   "heading": "Secção I — Deduções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Deduções"
+  },
+  "140929660": {
+   "fragment_id": "141076809",
+   "type": 11,
+   "heading": "Artigo 19.º — Direito à dedução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Direito à dedução\n\n1 - Para efeitos da aplicação do disposto no artigo 19.º do Código do IVA, pode deduzir-se ao imposto incidente sobre as operações tributáveis o imposto pago nas aquisições intracomunitárias de bens.\n\n2 - Pode igualmente deduzir-se, para efeitos do disposto na alínea b) do n.º 1 do artigo 20.º do Código do IVA, o imposto que tenha incidido sobre os bens ou serviços adquiridos, importados ou utilizados pelo sujeito passivo para a realização de transmissões de bens isentas nos termos do artigo 14.º\n\n3 - Quando não se verifiquem as condições previstas no n.º 3 do artigo 8.º, o imposto liquidado em aplicação do disposto no n.º 2 do mesmo artigo só pode ser deduzido por anulação da operação, nos termos do n.º 2 do artigo 78.º do Código do IVA, devendo para esse efeito o sujeito passivo provar que os bens foram sujeitos a imposto no Estado-Membro de chegada da expedição ou transporte."
+  },
+  "140929661": {
+   "fragment_id": "141076810",
+   "type": 11,
+   "heading": "Artigo 20.º — Exercício do direito à dedução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Exercício do direito à dedução\n\n1 - O direito à dedução do imposto devido pelas aquisições intracomunitárias de bens nasce no momento em que o mesmo se torne exigível, de acordo com o estabelecido no artigo 13.º\n\n2 - A dedução pode ser efetuada na declaração do período em que o imposto exigível seja considerado a favor do Estado, ainda que não tenha sido emitida a respetiva fatura pelo vendedor.\n\n3 - Nas transmissões de meios de transporte novos para outros Estados-Membros, efetuadas por um sujeito passivo dos referidos nas alíneas b) e c) do n.º 1 do artigo 2.º ou por um particular, o direito à dedução do imposto suportado na respetiva aquisição nasce apenas no momento em que o meio de transporte for colocado à disposição do adquirente.\n\n4 - A dedução a que se refere o número anterior não pode exceder o montante do imposto que seria devido e exigível, nos termos da alínea a) do n.º 1 do artigo 7.º do Código do IVA, se a transmissão não estivesse isenta."
+  },
+  "140929662": {
+   "fragment_id": "141076811",
+   "type": 8,
+   "heading": "Secção II — Reembolsos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Reembolsos"
+  },
+  "140929663": {
+   "fragment_id": "141076812",
+   "type": 11,
+   "heading": "Artigo 21.º — Reembolso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Reembolso\n\n1 - O imposto dedutível nos termos dos n.os 3 e 4 do artigo anterior é reembolsado ao sujeito passivo mediante requerimento, dirigido ao diretor-geral da Autoridade Tributária e Aduaneira, que deve ser acompanhado de todos os elementos indispensáveis à respetiva apreciação.\n\n2 - O imposto pago numa importação de bens tributada nos termos do artigo 5.º do Código do IVA é reembolsado quando o importador seja uma pessoa coletiva de outro Estado-Membro que não seja aí sujeito passivo e prove que os bens foram expedidos ou transportados para esse outro Estado-Membro e aí sujeitos a imposto.\n\n3 - O reembolso do imposto a que se refere o número anterior é efetuado nas condições previstas no regime de reembolso do IVA a sujeitos passivos não estabelecidos no Estado-Membro de reembolso."
+  },
+  "140929664": {
+   "fragment_id": "141076813",
+   "type": 8,
+   "heading": "Secção III — Pagamento do imposto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Pagamento do imposto"
+  },
+  "140929665": {
+   "fragment_id": "141076814",
+   "type": 11,
+   "heading": "Artigo 22.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Pagamento\n\n1 - Sem prejuízo do disposto nos números seguintes, o montante do imposto exigível, a entregar nos termos do n.º 1 do artigo 27.º do Código do IVA, deve ser apurado tendo igualmente em consideração o disposto no artigo 19.º e nos n.os 1 e 2 do artigo 20.º\n\n2 - Os sujeitos passivos mencionados nas alíneas b) e c) do n.º 1 do artigo 2.º devem pagar nos locais de cobrança legalmente autorizados o imposto que se mostre devido pelas aquisições intracomunitárias de bens que não sejam meios de transporte novos nem bens sujeitos a impostos especiais de consumo até ao final do mês seguinte àquele em que o imposto se torne exigível.\n\n3 - Os particulares e os sujeitos passivos referidos nas alíneas a), b) e c) do n.º 1 do artigo 2.º que não possuam o estatuto de operador registado ou de operador reconhecido, de acordo com o Código do Imposto sobre Veículos, devem pagar o imposto devido pelas aquisições intracomunitárias de meios de transporte novos sujeitos a imposto sobre os veículos junto das entidades competentes para a cobrança deste imposto.\n\n4 - O disposto no número anterior é igualmente aplicável aos sujeitos passivos referidos nas alíneas b) e c) do n.º 1 do artigo 2.º e aos particulares que efetuem aquisições intracomunitárias de meios de transporte novos, não sujeitos a imposto sobre veículos.\n\n5 - Os sujeitos passivos abrangidos pelo disposto no n.º 1 do artigo 5.º que efetuem aquisições intracomunitárias de bens sujeitos a impostos especiais de consumo devem pagar o imposto devido junto das entidades competentes para a cobrança daqueles impostos.\n\n6 - O pagamento do imposto devido pelas aquisições intracomunitárias referidas nos n.os 3 a 5 é efetuado:\n\na) Em simultâneo com o imposto sobre veículos ou com os impostos especiais de consumo, quando sejam devidos;\n\nb) Antes do registo, da concessão de licença ou da atribuição de matrícula aos meios de transporte novos, nos restantes casos."
+  },
+  "140929666": {
+   "fragment_id": "141076815",
+   "type": 1,
+   "heading": "Capítulo VI — Outras obrigações dos sujeitos passivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Outras obrigações dos sujeitos passivos"
+  },
+  "140929667": {
+   "fragment_id": "141076816",
+   "type": 11,
+   "heading": "Artigo 23.º — Obrigações gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Obrigações gerais\n\n1 - Sem prejuízo do disposto no n.º 1 do artigo 29.º do Código do IVA, os sujeitos passivos referidos no artigo 2.º devem:\n\na) Proceder à liquidação do imposto que se mostre devido pelas aquisições intracomunitárias de bens;\n\nb) Emitir obrigatoriamente uma fatura por cada transmissão de bens efetuada nas condições previstas no artigo 7.º, bem como pela transmissão ocasional de um meio de transporte novo isenta nos termos do artigo 14.º;\n\nc) Enviar uma declaração recapitulativa das transmissões de bens isentas nos termos do artigo 14.º, das operações a que se refere a alínea a) do n.º 3 do artigo 8.º e das transferências de bens abrangidas pelos n.os 1 a 3 do artigo 7.º-A.\n\n2 - (Revogado.)"
+  },
+  "140929668": {
+   "fragment_id": "141076817",
+   "type": 11,
+   "heading": "Artigo 24.º — Representante fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Representante fiscal\n\n1 - Relativamente às aquisições intracomunitárias de bens e às transmissões referidas no artigo 11.º, efetuadas por sujeitos passivos não residentes, sem estabelecimento estável em Portugal, e que disponham de sede, estabelecimento estável ou domicílio noutro Estado-Membro, as obrigações derivadas da aplicação do presente diploma podem ser cumpridas por um representante, sujeito passivo do imposto sobre o valor acrescentado no território nacional, munido de procuração com poderes bastantes.\n\n2 - Os sujeitos passivos não residentes, sem estabelecimento estável em território nacional, e que não disponham de sede, estabelecimento estável ou domicílio noutro Estado-Membro estão obrigados à nomeação de representante, sujeito passivo do imposto sobre o valor acrescentado no território nacional, munido de procuração com poderes bastantes.\n\n3 - O representante a que se referem os números anteriores deve cumprir todas as obrigações decorrentes da aplicação do presente diploma, incluindo a do registo, e é devedor do imposto que se mostre devido pelas operações realizadas pelo representado.\n\n4 - O sujeito passivo não estabelecido em território nacional é solidariamente responsável com o representante pelo pagamento do imposto.\n\n5 - As obrigações decorrentes da sujeição a imposto das transmissões de bens subsequentes à aquisição intracomunitária isenta nas condições previstas no n.º 2 do artigo 15.º devem ser cumpridas pelo adquirente dos bens, sujeito passivo registado no território nacional para efeitos de imposto sobre o valor acrescentado."
+  },
+  "140929669": {
+   "fragment_id": "141076818",
+   "type": 11,
+   "heading": "Artigo 25.º — Entrega de declarações no regime de derrogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Entrega de declarações no regime de derrogação\n\n1 - Os sujeitos passivos mencionados nas alíneas b) e c) do n.º 1 do artigo 2.º devem entregar a declaração a que se refere o artigo 31.º do Código do IVA ou, caso se encontrem registados, a declaração prevista no artigo 32.º do mesmo Código:\n\na) Até ao fim do mês seguinte àquele em que tenham excedido o valor global das aquisições previsto na alínea c) do n.º 1 do artigo 5.º;\n\nb) Antes de efetuarem uma aquisição intracomunitária de bens que exceda o montante previsto na alínea c) do n.º 1 do artigo 5.º;\n\nc) Antes de efetuarem aquisições intracomunitárias de bens, no caso de exercerem a opção a que se refere o n.º 3 do artigo 5.º\n\n2 - As declarações a que se refere o número anterior produzem efeitos a partir da data da sua apresentação.\n\n3 - Os sujeitos passivos abrangidos pelo disposto no n.º 1 do artigo 5.º que apenas efetuem aquisições intracomunitárias de bens mencionados na alínea c) do artigo 1.º estão dispensados da entrega das declarações referidas no n.º 1.\n\n4 - Os sujeitos passivos a que se refere o n.º 1 cujas aquisições intracomunitárias de bens não excedam durante um ano civil o montante de 10 000 (euro) podem voltar a beneficiar do disposto no n.º 1 do artigo 5.º, devendo para esse efeito entregar a declaração a que se refere o artigo 32.º do Código do IVA.\n\n5 - Os sujeitos passivos que exerceram a opção mencionada no n.º 3 do artigo 5.º e que, decorrido o prazo de dois anos, pretendam voltar a beneficiar do disposto do n.º 1 do mesmo artigo, caso se verifiquem os condicionalismos nele previstos, devem entregar a declaração a que se refere o artigo 32.º do Código do IVA.\n\n6 - A declaração referida nos n.os 4 e 5 deve ser apresentada durante o mês de janeiro de um dos anos seguintes àquele em que se tiver completado o prazo aí mencionado, produzindo efeitos a partir de 1 de janeiro do ano da sua apresentação.\n\n7 - As declarações referidas no presente artigo são apresentadas nos termos do artigo 35.º do Código do IVA."
+  },
+  "140929670": {
+   "fragment_id": "141076819",
+   "type": 11,
+   "heading": "Artigo 26.º — Entrega de declarações por sujeitos passivos que efetuem vendas à distância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Entrega de declarações por sujeitos passivos que efetuem vendas à distância\n\n1 - As pessoas singulares ou coletivas que efetuem transmissões de bens nas condições previstas no artigo 11.º devem entregar a declaração a que se refere o artigo 31.º do Código do IVA.\n\n2 - A declaração a que se refere o número anterior deve ser apresentada até ao fim do mês seguinte àquele em que tenha sido excedido o montante previsto na alínea c) do n.º 2 do artigo 6.º-A do Código do IVA, a qual produz efeitos desde a data, inclusive, da operação em que aquele montante tenha sido excedido.\n\n3 - As pessoas singulares ou coletivas que tenham exercido a opção a que se refere o n.º 5 do artigo 6.º-A do Código do IVA devem entregar a declaração referida no artigo 31.º do mesmo Código.\n\n4 - A declaração a que se refere o número anterior deve ser apresentada antes de efetuadas as transmissões, produzindo efeitos a partir da data da sua apresentação.\n\n5 - Os sujeitos passivos a que se refere o n.º 1 cujas operações não excedam, durante um ano civil, o montante referido na alínea c) do n.º 2 do artigo 6.º-A do Código do IVA podem proceder à entrega da declaração prevista no artigo 33.º do mesmo Código.\n\n6 - Os sujeitos passivos que exerceram a opção referida no n.º 5 do artigo 6.º-A do Código do IVA podem proceder à entrega da declaração prevista no artigo 33.º do mesmo Código caso, decorrido o prazo de dois anos, não se encontrem abrangidos pelo disposto na alínea a) do artigo 11.º\n\n7 - A declaração referida nos n.os 5 e 6 deve ser apresentada durante o mês de janeiro de um dos anos seguintes àquele em que se tiver completado o prazo aí mencionado, produzindo efeitos a partir de 1 de janeiro do ano da sua apresentação.\n\n8 - As pessoas singulares ou coletivas que pretendam exercer a opção a que se refere o n.º 4 do artigo 6.º-A do Código do IVA devem apresentar a declaração prevista no artigo 32.º do mesmo Código, devendo igualmente apresentar a referida declaração caso pretendam renunciar ao regime por que optaram.\n\n9 - As declarações referidas no presente artigo são apresentadas nos termos do artigo 35.º do Código do IVA."
+  },
+  "140929671": {
+   "fragment_id": "141076820",
+   "type": 11,
+   "heading": "Artigo 27.º — Obrigação de faturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Obrigação de faturação\n\n1 - O imposto devido pelas aquisições intracomunitárias de bens deve ser liquidado pelo sujeito passivo na fatura emitida pelo vendedor ou em documento interno emitido pelo próprio sujeito passivo.\n\n2 - As faturas relativas às transmissões de bens isentas nos termos do artigo 14.º devem ser emitidas o mais tardar até ao 15.º dia do mês seguinte àquele em que os bens foram colocados à disposição do adquirente.\n\n3 - As faturas a que se refere o número anterior devem ser emitidas pelo valor total das transmissões de bens, ainda que tenham sido efetuados pagamentos ao sujeito passivo anteriormente à data da transmissão dos bens.\n\n4 - A obrigação de emitir fatura, a que se refere a alínea b) do n.º 1 do artigo 29.º do Código do IVA, não é aplicável aos pagamentos efetuados ao sujeito passivo anteriormente à data das transmissões de bens isentas nos termos do artigo 14.º\n\n5 - Sem prejuízo do disposto no n.º 5 do artigo 36.º do Código do IVA, as faturas referidas nos números anteriores devem ainda conter o número de identificação fiscal do sujeito passivo do imposto, precedido do prefixo «PT» e o número de identificação para efeitos do imposto sobre o valor acrescentado do destinatário ou adquirente, que deve incluir o prefixo do Estado-Membro que o atribuiu, conforme a norma internacional código ISO-3166 alfa 2, bem como o local de destino dos bens.\n\n6 - (Revogado.)"
+  },
+  "140929672": {
+   "fragment_id": "141076821",
+   "type": 11,
+   "heading": "Artigo 28.º — Faturação de meios de transporte novos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Faturação de meios de transporte novos\n\n1 - As pessoas singulares ou coletivas que efetuem aquisições intracomunitárias de meios de transporte novos devem exigir que a fatura emitida pelo vendedor contenha os seguintes elementos:\n\na) Os nomes, firmas ou denominações sociais e a sede ou domicílio do vendedor e do adquirente, bem como os correspondentes números de identificação fiscal, precedidos do prefixo que permite identificar o Estado-Membro que os atribuiu, se for caso disso;\n\nb) A data em que ocorreu a transmissão;\n\nc) O preço de venda;\n\nd) A identificação do meio de transporte, nomeadamente a matrícula ou número de registo e a especificação das respetivas características;\n\ne) A indicação dos quilómetros percorridos, se se tratar de um veículo terrestre, das horas de navegação, se se tratar de uma embarcação, ou das horas de voo, se se tratar de uma aeronave, reportados à data em que ocorreu a transmissão.\n\n2 - As pessoas singulares ou coletivas que efetuem transmissões de meios de transporte novos para outros Estados-Membros são obrigadas a emitir uma fatura, que deve conter todos os elementos referidos no número anterior."
+  },
+  "140929673": {
+   "fragment_id": "141076822",
+   "type": 11,
+   "heading": "Artigo 29.º — Entrega da declaração periódica no regime de derrogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Entrega da declaração periódica no regime de derrogação\n\n1 - Os sujeitos passivos mencionados nas alíneas b) e c) do n.º 1 do artigo 2.º que efetuem aquisições intracomunitárias de bens sujeitas a imposto devem enviar a declaração por transmissão eletrónica de dados até ao final do mês seguinte àquele em que o imposto se torne exigível.\n\n2 - A obrigação a que se refere o número anterior só se verifica relativamente aos períodos em que haja operações tributáveis."
+  },
+  "140929674": {
+   "fragment_id": "141076823",
+   "type": 11,
+   "heading": "Artigo 30.º — Declaração recapitulativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Declaração recapitulativa\n\n1 - A declaração recapitulativa referida na alínea c) do n.º 1 do artigo 23.º deve ser enviada, por transmissão eletrónica de dados, nos seguintes prazos:\n\na) Até ao dia 20 do mês seguinte àquele a que respeitam as operações, no caso dos sujeitos passivos abrangidos pela alínea a) do n.º 1 do artigo 41.º do Código do IVA;\n\nb) Até ao dia 20 do mês seguinte ao final do trimestre civil a que respeitam as operações, no caso dos sujeitos passivos abrangidos pela alínea b) do n.º 1 do artigo 41.º do Código do IVA.\n\n2 - Não obstante o disposto na alínea b) do n.º 1, os sujeitos passivos aí referidos devem enviar a declaração recapitulativa até ao dia 20 do mês seguinte àquele a que respeitam as operações, quando o montante total das operações referidas na alínea c) do n.º 1 do artigo 23.º, durante o trimestre civil em curso ou em qualquer dos quatro trimestres civis anteriores, seja superior a 50 000 (euro).\n\n3 - As transmissões de bens isentas de imposto nos termos das alíneas d) a m) e v) do n.º 1 do artigo 14.º do Código do IVA não devem constar da declaração recapitulativa a que se refere o n.º 1, quando o adquirente dos bens seja um sujeito passivo registado para efeitos do IVA em outro Estado-Membro, que tenha utilizado o respetivo número de identificação para efetuar a aquisição, ainda que os bens sejam expedidos ou transportados para outro Estado-Membro.\n\n4 - A obrigação declarativa a que se refere o n.º 1 só se verifica relativamente aos períodos em que ocorram as operações referidas na alínea c) do n.º 1 do artigo 23.º ou alterações das informações prestadas relativamente às transferências de bens abrangidas pelos n.os 1 a 3 do artigo 7.º-A."
+  },
+  "141076875": {
+   "fragment_id": "141076824",
+   "type": 11,
+   "heading": "Artigo 31.º — Obrigações de registo contabilístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Obrigações de registo contabilístico\n\n1 - Para cumprimento do disposto no n.º 1 do artigo 44.º do Código do IVA, devem ainda ser objeto de registo:\n\na) As aquisições intracomunitárias de bens efetuadas pelo sujeito passivo;\n\nb) As transferências de bens expedidos ou transportados pelo sujeito passivo ou por sua conta, a partir do território nacional com destino a outro Estado-Membro, para a realização das operações referidas nas alíneas e), f) e g) do n.º 2 do artigo 7.º;\n\nc) A afetação dos bens que não se consideram aquisições intracomunitárias nos termos do n.º 3 do artigo 4.º;\n\nd) Os bens recebidos pelo sujeito passivo que tenham sido expedidos ou transportados, a partir de outro Estado-Membro para o território nacional, por sujeitos passivos registados para efeitos do IVA em outro Estado-Membro, ou por sua conta, para que sobre os mesmos sejam executadas peritagens ou quaisquer trabalhos que consistam em prestações de serviços;\n\ne) Os bens enviados pelo sujeito passivo ou por sua conta, a partir do território nacional, com destino a outro Estado-Membro, para que sobre os mesmos sejam executadas peritagens ou quaisquer trabalhos que consistam em prestações de serviços;\n\nf) As transferências de bens expedidos ou transportados pelo sujeito passivo ou por sua conta, a partir do território nacional com destino a outro Estado-Membro, ao abrigo do disposto nos n.os 1 a 3 do artigo 7.º-A;\n\ng) Os bens recebidos pelo sujeito passivo que tenham sido expedidos ou transportados, a partir de outro Estado-Membro para o território nacional, por sujeitos passivos registados para efeitos do IVA em outro Estado-Membro, ou por sua conta, ao abrigo de um regime de vendas à consignação em transferências intracomunitárias de bens vigente nesse Estado-Membro idêntico ao previsto no artigo 7.º-A.\n\n2 - Para efeitos do disposto na alínea a) do n.º 2 do artigo 44.º do Código do IVA, os sujeitos passivos devem proceder ao registo das operações de forma a evidenciar:\n\na) O valor das transmissões de bens isentas nos termos do artigo 14.º;\n\nb) O valor das transmissões de bens efetuadas noutro Estado-Membro nos termos do n.º 1 do artigo 9.º e do artigo 10.º;\n\nc) O valor das transmissões de bens efetuadas no território nacional nos termos do n.º 2 do artigo 9.º e do artigo 11.º, líquidas de imposto, segundo a taxa aplicável e o valor do imposto liquidado, igualmente segundo a taxa aplicável.\n\n3 - O disposto no n.º 4 do artigo 44.º do Código do IVA aplica-se igualmente às aquisições intracomunitárias de bens.\n\n4 - Para efeitos do disposto no artigo 48.º do Código do IVA, o registo das operações a que se refere o número anterior deve ser efetuado após a receção das correspondentes faturas ou a emissão do documento interno a que se refere o n.º 1 do artigo 27.º\n\n5 - Para cumprimento das obrigações a que se refere o n.º 5 do artigo 24.º, o sujeito passivo adquirente dos bens deve proceder ao registo da operação como se se tratasse de uma aquisição intracomunitária de bens.\n\n6 - Os sujeitos passivos referidos no n.º 4 do artigo 16.º devem proceder ao registo, em contas de terceiros apropriadas, das importações de bens efetuadas por conta de sujeitos passivos não residentes, sem estabelecimento estável em território nacional, que beneficiem de isenção nos termos do n.º 3 do mesmo artigo, bem como das subsequentes transmissões com destino a outros Estados-Membros."
+  },
+  "141076876": {
+   "fragment_id": "141076825",
+   "type": 11,
+   "heading": "Artigo 32.º — Comprovação do pagamento do imposto de meios de transporte novos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Comprovação do pagamento do imposto de meios de transporte novos\n\nAs pessoas singulares ou coletivas referidas nos n.os 3 e 4 do artigo 22.º devem comprovar, junto das entidades competentes para efetuar o registo, conceder a licença ou atribuir a matrícula aos meios de transporte novos, que procederam ao pagamento do imposto devido pela aquisição intracomunitária desses bens."
+  },
+  "141076877": {
+   "fragment_id": "141076826",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais"
+  },
+  "141076878": {
+   "fragment_id": "141076827",
+   "type": 11,
+   "heading": "Artigo 33.º — Legislação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Legislação subsidiária\n\nEm tudo o que não se revelar contrário ao disposto no presente diploma, aplica-se a disciplina geral do Código do IVA.\n\n113492002"
+  },
+  "152810592": {
+   "fragment_id": "140817332",
+   "type": 11,
+   "heading": "Artigo 7.º — Norma transitória",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 442.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Norma transitória\n\n1 - Os sujeitos passivos que pretendam aplicar os regimes especiais a que se refere o artigo anterior, a partir de 1 de julho de 2021, podem, entre 1 de abril e 30 de junho de 2021, efetuar, por via eletrónica, junto da Autoridade Tributária e Aduaneira, o registo para efeitos da sua aplicação.\n\n2 - Os sujeitos passivos que, em 30 de junho de 2021, se encontrem abrangidos pelo regime especial referido na alínea c) do artigo seguinte transitam diretamente para o respetivo regime especial a que o artigo anterior se refere.\n\n> Alterado pelo/a Artigo 442.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01"
+  },
+  "152810593": {
+   "fragment_id": "140817335",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 442.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nA presente lei entra em vigor a 1 de julho de 2021.\n\n> Alterado pelo/a Artigo 442.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01"
+  },
+  "140929587": {
+   "fragment_id": "140817336",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 23 de julho de 2020.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 10 de agosto de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 12 de agosto de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  }
+ }
+}

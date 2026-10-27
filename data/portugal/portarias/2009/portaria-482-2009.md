@@ -1,0 +1,442 @@
+---
+schema_version: '1.0'
+id: pt:dre:608067:por
+title: Portaria n.º 482/2009
+short_title: null
+summary: Aprova o Regulamento de Aplicação da Acção n.º 1.1.2, «Investimentos de Pequena Dimensão», no âmbito da medida n.º
+  1.1, «Inovação e desenvolvimento empresarial», integrada no subprograma n.º 1, «Programa de competitividade», do Programa
+  de Desenvolvimento Rural do Continente - PRODER
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 482/2009
+official_date: null
+publication_date: '2009-05-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 87/2009, Série I de 2009-05-06
+  number: '87'
+  series: I
+  supplement: null
+  pages: 2623 - 2627
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/05/08700/0262302627.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/482/2009/05/06/p/dre/pt/html
+  oj: null
+  dre: '608067'
+  dre_path: /dr/detalhe/portaria/482-2009-608067
+  internal: pt:dre:608067:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/482-2009-608067
+  metadata_url: https://data.dre.pt/eli/port/482/2009/05/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/482-2009-608067
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:40:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 45d7c4d4b0ba1515949c0481b2c3ba06bea4b2b1c73992e9caeccc033c900f80
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:31Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agricultor
+- Agricultura
+- Ajuda Comunitária
+- Aproximação das Legislações
+- Beneficiário
+- Direcção Regional de Agricultura e Pescas
+- Exploração Agrícola
+- Financiamento
+- Fiscalização
+- IFAP
+- Investimento
+- Pagamento
+- Política Agrícola Comum
+- Proder
+- Região Agrária
+- Região Desfavorecida
+- Regulamento de Aplicação da Acção Nº 1.1.2-investimentos de Pequena Dimensão
+relationships:
+- type: amended_by
+  target: pt:dre:670056:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:343948:por
+  label: "Alterados os arts. 7º, 9º, 10º, 11º, 12º, 13º e 15º e o anexo I e revogadas as als. c) e e) do art. 6º, a al. d)\
+    \ do nº1 do art. 7º, a al. b) do nº2 do art. 10º, o art. 23º e a al. b) do nº3 do anexo I do Regulamento, aprovado pelo\
+    \ presente diploma, pela PORT.814/2010.27.08.2010.MADRP, DR.IS [167] de 27.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: amended_by
+  target: pt:dre:670056:por
+  label: "Alterados os arts. 7.º ( na redacção da Port. 814/2010, de 27-Ago ), 19.º, 21.º e 22.º do Regulamento de Aplicação\
+    \ da Acção n.º 1.1.2, «Investimentos de Pequena Dimensão», aprovado pela presente portaria, pela PORT.228/2011.09.06.2011.MADRP,\
+    \ DR.IS [112] de 09.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2011-670056
+  date: '2011-06-09'
+- type: cites
+  target: celex:31975L0268
+  label: null
+  source: http://data.europa.eu/eli/dir/1975/268/oj
+- type: cites
+  target: celex:32005R1698
+  label: null
+  source: http://data.europa.eu/eli/reg/2005/1698/oj
+- type: cites
+  target: celex:32006R1975
+  label: null
+  source: http://data.europa.eu/eli/reg/2006/1975/oj
+- type: corrected_by
+  target: pt:dre:491905:por
+  label: "Rectificada a alínea b) do n.º 2 do artigo 10.º do Regulamento, pela DECL-RECT.46/2009.03.07.2009.PCM, DR.IS [127]\
+    \ de 03.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/46-2009-491905
+  date: '2009-07-03'
+article_structure:
+  article_count: 25
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:40:31Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 482/2009
+
+de 6 de Maio
+
+O Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro, relativo ao apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER), estabelece como objectivos o aumento da competitividade da agricultura e da silvicultura, a melhoria do ambiente e da paisagem rural, bem como a promoção da qualidade de vida nas zonas rurais e a diversificação das actividades económicas.
+
+Inserida no objectivo inovação e desenvolvimento empresarial dos sectores agrícola e florestal atrás referido, a medida n.º 1.1, «Inovação e desenvolvimento empresarial», do Programa de Desenvolvimento Rural do Continente, designado por PRODER, visa contribuir para a modernização e desenvolvimento da competitividade dos diferentes sectores, a renovação do tecido empresarial agrícola e a melhoria das condições de vida e de trabalho.
+
+Na acção n.º 1.1.1, «Modernização e capacitação das empresas», optou-se por um procedimento que visa o pagamento de subsídios não reembolsáveis ou a bonificação de juros, com o objectivo de apoiar os custos com investimentos em explorações agrícolas para a produção primária de produtos agrícolas e a respectiva transformação e comercialização.
+
+Teve-se em vista a promoção do processo de modernização, capacitação e redimensionamento das empresas do sector agro-alimentar, o desenvolvimento da competitividade das fileiras, privilegiando as fileiras estratégicas, e a compatibilidade dos investimentos com as normas ambientais e de higiene e segurança no trabalho.
+
+Assim, importa proceder agora à regulamentação da concessão de apoios no âmbito da acção n.º 1.1.2, «Investimentos de pequena dimensão», esperando-se, através da melhoria das condições de trabalho e de produção, um melhor desempenho das explorações agrícolas. A presente acção vem tornar acessível a qualquer tipo de agricultor, por intermédio de subsídios não reembolsáveis, e um processo de candidatura simplificado, investimentos de montante igual ou superior a (euro) 5000 e inferior a (euro) 25 000 em equipamentos para melhoramento ambiental e da eficiência energética das explorações, equipamento e máquinas agrícolas, pequenas construções e, ainda, pequenas plantações plurianuais.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do disposto no artigo 4.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, o seguinte:
+
+###### Artigo 1.º
+
+É aprovado, em anexo à presente portaria, dela fazendo parte integrante, o Regulamento de Aplicação da Acção n.º 1.1.2, «Investimentos de Pequena Dimensão», no âmbito da medida n.º 1.1, «Inovação e desenvolvimento empresarial», integrada no subprograma n.º 1, «Promoção da competitividade», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PRODER.
+
+###### Artigo 2.º
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 29 de Abril de 2009.
+
+## ANEXO
+
+REGULAMENTO DE APLICAÇÃO DA ACÇÃO n.º 1.1.2, «INVESTIMENTOS DE PEQUENA DIMENSÃO»
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente Regulamento estabelece o regime de aplicação da acção n.º 1.1.2, «Investimentos de pequena dimensão», da medida n.º 1.1, «Inovação e desenvolvimento empresarial», integrada no subprograma n.º 1, «Promoção da competitividade», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PRODER.
+
+###### Artigo 2.º — Objectivos
+
+Os apoios previstos no âmbito do presente Regulamento prosseguem os seguintes objectivos:
+
+a) Melhorar as condições de vida, de trabalho e de produção dos agricultores;
+
+b) Contribuir para o processo de modernização e capacitação das empresas do sector agrícola.
+
+###### Artigo 3.º — Área geográfica de aplicação
+
+O presente Regulamento tem aplicação em todo o território do continente, sendo as regiões definidas nos avisos de abertura dos concursos para apresentação dos pedidos de apoio.
+
+###### Artigo 4.º — Definições
+
+Para efeitos de aplicação do presente Regulamento, e para além das definições constantes do Decreto-Lei n.º 37-A/2008, de 5 de Maio, entende-se por:
+
+a) «Exploração agrícola» o conjunto de unidades de produção submetidas a uma gestão única;
+
+b) «Titular de uma exploração agrícola» o gestor do aparelho produtivo e detentor a qualquer título legítimo do património fundiário necessário à produção de um ou vários produtos agrícolas;
+
+c) «Unidade de produção» o conjunto de parcelas agrícolas, agro-florestais ou florestais, contíguas ou não, que constituem uma unidade técnico-económica caracterizada pela utilização em comum da mão-de-obra e dos meios de produção, submetida a uma gestão única, independentemente do título de posse, do regime jurídico e da área ou localização;
+
+d) «Zonas desfavorecidas» as definidas na Portaria n.º 377/88, de 11 de Junho, e demais legislação complementar, na acepção da Directiva n.º [75/268/CEE](http://data.europa.eu/eli/dir/1975/268/oj?locale=pt), do Conselho, de 28 de Abril.
+
+###### Artigo 5.º — Beneficiários
+
+Podem beneficiar dos apoios previstos no presente Regulamento as pessoas singulares ou colectivas que exerçam a actividade agrícola.
+
+###### Artigo 6.º — Critérios de elegibilidade dos beneficiários
+
+Os candidatos aos apoios previstos no presente Regulamento devem reunir as seguintes condições:
+
+a) Encontrarem-se legalmente constituídos, quando se trate de pessoas colectivas;
+
+b) Cumprirem as condições legais necessárias ao exercício da respectiva actividade;
+
+c) Possuírem a situação regularizada face à administração fiscal e à segurança social;
+
+d) Terem a titularidade da exploração agrícola;
+
+e) Terem um sistema de contabilidade organizada, ou um sistema de contabilidade simplificada, nos termos das normas RICA, ou outros equiparados e reconhecidos para o efeito;
+
+f) Não estarem abrangidos por quaisquer disposições de exclusão resultantes do incumprimento de obrigações decorrentes de operações co-financiadas, realizadas desde 2000;
+
+g) Não estarem a receber ajudas cujos compromissos ou obrigações sejam incompatíveis com os investimentos propostos, nas parcelas onde estes vão ser realizados.
+
+###### Artigo 7.º — Critérios de elegibilidade das operações
+
+1 - Podem beneficiar dos apoios previstos no presente Regulamento os investimentos que se enquadrem num dos objectivos previstos no artigo 2.º e reúnam as seguintes condições:
+
+a) Apresentem um custo total elegível dos investimentos propostos e apurados na análise da respectiva candidatura, igual ou superior a (euro) 5000 e inferior a (euro) 25 000;
+
+b) Apresentem coerência técnica, económica e financeira;
+
+c) Não conflituem com outras medidas que se enquadrem no âmbito de regimes de apoio ao abrigo da Organização Comum dos Mercados Agrícolas («OCM única») e respeitem quaisquer restrições à produção ou outras condicionantes do apoio exigidas a título da mesma;
+
+d) Tenham início após a data de apresentação do pedido de apoio, sem prejuízo do disposto no artigo 23.º
+
+2 - No caso de pedidos apresentados por organizações de produtores que tenham programas operacionais aprovados, as operações não podem contemplar despesas que correspondam a acções previstas no anexo i da Portaria n.º 1325/2008, de 18 de Novembro.
+
+3 - No caso de pedidos apresentados por produtores associados de organizações de produtores reconhecidas cujas explorações beneficiem de acções nos termos do artigo 7.º da Portaria n.º 1325/2008, de 18 de Novembro, as operações não podem contemplar despesas que correspondam a essas acções.
+
+###### Artigo 8.º — Despesas elegíveis e não elegíveis
+
+As despesas elegíveis e não elegíveis são, designadamente, as constantes do anexo i ao presente Regulamento, do qual faz parte integrante.
+
+###### Artigo 9.º — Obrigações dos beneficiários
+
+1 - Os beneficiários dos apoios previstos no presente Regulamento devem cumprir, além das obrigações enunciadas no Decreto-Lei n.º 37-A/2008, de 5 de Março, as seguintes:
+
+a) Executar a operação nos termos e prazos fixados no contrato de financiamento;
+
+b) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações, quando aplicável;
+
+c) Proceder à publicitação dos apoios que lhes forem atribuídos, nos termos da legislação comunitária aplicável e das orientações técnicas do PRODER;
+
+d) Cumprir as obrigações legais, designadamente as fiscais e para com a segurança social;
+
+e) Cumprir as normas legais aplicáveis em matéria de segurança e higiene no trabalho;
+
+f) Manter um sistema de contabilidade nos termos previstos no artigo 6.º;
+
+g) Manter a actividade e as condições legais necessárias ao exercício da mesma durante o período de cinco anos a contar da data de celebração do contrato;
+
+h) Não locar, alienar ou por qualquer forma onerar as máquinas e os equipamentos co-financiados, durante o período de cinco anos a contar da data de celebração do contrato, sem prévia autorização do gestor;
+
+i) Garantir que todos os pagamentos e recebimentos referentes à operação são efectuados através de conta bancária específica para o efeito.
+
+2 - Os beneficiários dos apoios devem possuir o registo da exploração no sistema de identificação parcelar (SIP).
+
+###### Artigo 10.º — Forma e nível dos apoios
+
+1 - Os apoios são concedidos sob a forma de subsídios não reembolsáveis.
+
+2 - O nível dos apoios é calculado sobre o valor do investimento elegível, da seguinte forma:
+
+a) 50 % no caso da aquisição de equipamentos para melhoramento ambiental e de eficiência energética, quando a exploração se situe em zona desfavorecida;
+
+b) 45 % no caso da aquisição de equipamentos e máquinas agrícolas, pequenas construções e pequenas plantações anuais, quando a exploração se situe em zona desfavorecida;
+
+c) 40 % no caso de a exploração se situar em zona não desfavorecida.
+
+###### Artigo 11.º — Critérios de selecção dos pedidos de apoio
+
+1 - Os pedidos que cumpram os critérios de elegibilidade são, em caso de insuficiência orçamental, hierarquizados por ordem decrescente das seguintes tipologias de investimentos:
+
+a) Aquisição de equipamentos para melhoramento ambiental e de eficiência energética da exploração;
+
+b) Aquisição de equipamentos e máquinas agrícolas;
+
+c) Pequenas construções;
+
+d) Pequenas plantações plurianuais.
+
+2 - Para efeitos de aplicação do disposto no número anterior, os pedidos de apoio incluídos numa determinada tipologia são, ainda, hierarquizados pela seguinte ordem:
+
+a) Pedidos apresentados por jovens agricultores, definidos nos termos da Portaria n.º 357-A/2008, de 9 de Maio;
+
+b) Pedidos relativos a explorações situadas em zonas desfavorecidas;
+
+c) Pedidos enquadrados na produção de produtos de fileira estratégica.
+
+### CAPÍTULO II — Procedimentos
+
+###### Artigo 12.º — Apresentação dos pedidos de apoio
+
+1 - Os pedidos de apoio são submetidos por concurso, ao abrigo do disposto na alínea b) do n.º 2 do artigo 6.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, divulgado pela autoridade de gestão com a antecedência de 10 dias seguidos relativamente à data de publicidade do respectivo aviso de abertura.
+
+2 - A apresentação dos pedidos de apoio efectua-se através de formulário electrónico disponível no sítio da Internet do PRODER, em www.proder.pt, os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de apoio.
+
+###### Artigo 13.º — Avisos de abertura
+
+1 - Os avisos de abertura são aprovados pelo gestor, após audição da comissão de gestão, e homologados pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas e indicam, nomeadamente, o seguinte:
+
+a) Os objectivos e as prioridades visadas;
+
+b) A tipologia dos investimentos a apoiar;
+
+c) A área geográfica elegível;
+
+d) O prazo para apresentação dos pedidos de apoio;
+
+e) A dotação orçamental a atribuir;
+
+f) O número máximo de pedidos de apoio admitidos por beneficiário;
+
+g) Os critérios de selecção, em função dos objectivos e prioridades fixados para cada concurso.
+
+2 - Os avisos de abertura dos concursos são divulgados em www.proder.pt e publicados em dois jornais de grande circulação e, quando se justifique, num jornal regional relevante na área geográfica do respectivo concurso.
+
+###### Artigo 14.º — Análise e decisão dos pedidos de apoio
+
+1 - As direcções regionais de agricultura e pescas (DRAP) analisam e emitem parecer sobre os pedidos de apoio, do qual consta a apreciação do cumprimento dos critérios de elegibilidade da operação e do beneficiário, a aplicação dos critérios referidos no artigo 11.º, bem como o apuramento do montante do custo total elegível, e procedem à respectiva hierarquização.
+
+2 - São solicitados aos candidatos, quando se justifique, pelas DRAP, os documentos exigidos no formulário do pedido ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta, fundamento para a não aprovação do pedido.
+
+3 - O parecer referido no n.º 1 é emitido no prazo máximo de 30 dias úteis a contar do termo de apresentação dos pedidos de apoio e remetido com a correspondente hierarquização à autoridade de gestão.
+
+4 - Os pedidos de apoio são objecto de decisão pelo gestor, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pelas DRAP, no prazo máximo de 15 dias úteis a contar da data de recepção do parecer, prevista no n.º 3.
+
+###### Artigo 15.º — Transição de pedidos
+
+Os pedidos de apoio que tenham sido objecto de parecer favorável e que não tenham sido aprovados por insuficiência orçamental transitam automaticamente para o concurso subsequente, sendo definitivamente recusados caso não obtenham aprovação nesse concurso.
+
+###### Artigo 16.º — Contrato de financiamento
+
+1 - A concessão do apoio é formalizada em contrato escrito, a celebrar entre o beneficiário e o Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.).
+
+2 - O IFAP, I. P., envia o contrato de financiamento ao beneficiário, no prazo de 10 dias úteis a contar da data de recepção da decisão do gestor, o qual dispõe de 20 dias úteis para devolução do mesmo devidamente firmado, sob pena de caducidade do direito à celebração do contrato, nos termos do disposto no n.º 6 do artigo 10.º do Decreto-Lei n.º 37-A/2008, de 5 de Março.
+
+###### Artigo 17.º — Execução das operações
+
+1 - Os prazos máximos para os beneficiários iniciarem e concluírem a execução física das operações são, respectivamente, de 6 e 24 meses, contados a partir da data da assinatura do contrato de financiamento.
+
+2 - Em casos excepcionais e devidamente justificados, o gestor pode autorizar a prorrogação dos prazos estabelecidos no número anterior.
+
+###### Artigo 18.º — Apresentação dos pedidos de pagamento
+
+1 - A apresentação dos pedidos de pagamento efectua-se através de formulário electrónico disponível no sítio da Internet do IFAP, I. P., em www.ifap.pt, os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.
+
+2 - O pedido de pagamento reporta-se às despesas efectivamente realizadas e pagas, devendo os comprovativos das mesmas ser entregues nas DRAP, no prazo de cinco dias úteis a contar da data de apresentação do pedido.
+
+3 - Apenas são aceites os pedidos de pagamentos relativos a despesas efectuadas por transferência bancária, débito em conta ou cheque, comprovados pelo respectivo extracto bancário demonstrativo do pagamento, nos termos previstos nas cláusulas contratuais e nos números seguintes.
+
+4 - Quando previsto no contrato de financiamento, pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor do investimento mediante a constituição de caução correspondente a 110 % do montante do adiantamento.
+
+5 - O pagamento é proporcional à realização do investimento elegível, nos termos das condições contratuais, devendo o montante da última prestação representar, pelo menos, 20 % da despesa total elegível da operação.
+
+6 - Podem ser apresentados até quatro pedidos de pagamento por operação.
+
+###### Artigo 19.º — Análise dos pedidos de pagamento
+
+1 - As DRAP analisam os pedidos de pagamento e emitem o relatório de análise, no prazo máximo de 30 dias úteis a contar da data da apresentação dos pedidos.
+
+2 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.
+
+3 - Do relatório de análise referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário, e a validação da despesa constante do respectivo pedido de pagamento.
+
+4 - São realizadas visitas aos locais da operação pelo menos uma vez durante o seu período de execução e, preferencialmente, aquando da análise do último pedido de pagamento.
+
+5 - Para efeitos de pagamento ao beneficiário, as DRAP comunicam a validação da despesa ao IFAP, I. P.
+
+###### Artigo 20.º — Pagamentos
+
+Os pagamentos dos apoios são efectuados pelo IFAP, I. P., por transferência bancária, para a conta referida na alínea h) do n.º 1 do artigo 9.º, nos termos das cláusulas contratuais, no prazo máximo de 10 dias úteis após a emissão da autorização de despesa.
+
+###### Artigo 21.º — Controlo
+
+1 - A operação está sujeita a acções de controlo a partir da data da celebração de contrato de financiamento, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
+
+2 - Para além do disposto no número anterior, a operação está sujeita a controlo até 24 meses após o pagamento final.
+
+3 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
+
+###### Artigo 22.º — Reduções e exclusões
+
+Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e exclusões previstas no Regulamento (CE) n.º [1975/2006](http://data.europa.eu/eli/reg/2006/1975/oj?locale=pt), da Comissão, de 7 de Dezembro.
+
+###### Artigo 23.º — Disposições transitórias
+
+1 - As despesas efectuadas após 1 de Janeiro de 2007 são consideradas elegíveis quando sejam satisfeitas cumulativamente as seguintes condições:
+
+a) Os candidatos apresentem os pedidos de apoio ao primeiro concurso em que se enquadrem;
+
+b) As respectivas operações não estejam concluídas antes da data da aprovação do pedido de apoio.
+
+2 - Às despesas referidas no n.º 1 não é aplicável o disposto na alínea i) do artigo 9.º
+
+## ANEXO I — Despesas elegíveis e não elegíveis
+
+(a que se refere o artigo 8.º)
+
+1 - Despesas elegíveis. - São elegíveis, atendendo ao respectivo valor de mercado, as despesas com a aquisição de equipamentos para melhoramento ambiental e da eficiência energética das explorações, outros equipamentos e máquinas, com exclusão de tractores e viaturas, pequenas construções e pequenas plantações plurianuais.
+
+2 - Para todas as operações de investimento são ainda elegíveis as despesas com o IVA, nas seguintes situações, a demonstrar por certidão da repartição de finanças:
+
+a) Regime de isenção: o IVA é totalmente elegível, com excepção dos isentos ao abrigo do artigo 53.º do CIVA, cujo IVA não é considerado elegível;
+
+b) Regimes mistos:
+
+i) Afectação real: o IVA é elegível no caso de a actividade em causa constituir a parte isenta da actividade do beneficiário;
+
+ii) Pro rata: o IVA é elegível na percentagem em que não for dedutível.
+
+3 - Despesas não elegíveis. - Não são elegíveis as seguintes despesas:
+
+a) Bens de equipamento em estado de uso ou de simples substituição;
+
+b) Captação de águas subterrâneas através de furos;
+
+c) Instalações e equipamentos financiados através de contratos de locação financeira ou de aluguer de longa duração;
+
+d) Juros das dívidas;
+
+e) Constituição de garantias;
+
+f) O IVA, nas seguintes situações:
+
+i) Regime de isenção ao abrigo do artigo 53.º do CIVA;
+
+ii) Regimes mistos:
+
+a) Afectação real: o IVA não é elegível no caso de a actividade em causa constituir a parte não isenta da actividade do beneficiário;
+
+b) Pro rata: o IVA não é elegível na percentagem em que for dedutível;
+
+iii) Regime normal: o IVA não é elegível.

@@ -1,0 +1,1746 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:310825:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/1999-175504239",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/8-1999-310825",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-06-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "175504297",
+    "175504298",
+    "175504299",
+    "175504300",
+    "175504301",
+    "175504302",
+    "175504303",
+    "175504304",
+    "175504305",
+    "175504306",
+    "175504307",
+    "175504308",
+    "175504309",
+    "175504310",
+    "175504311",
+    "175504312",
+    "175504313",
+    "175504314",
+    "175504315",
+    "175504316",
+    "175504317",
+    "175504318",
+    "175504319",
+    "175504320",
+    "175504321",
+    "175504322",
+    "175504323",
+    "175504324",
+    "175504325",
+    "175504326",
+    "175504327",
+    "175504328",
+    "175504329",
+    "175504330",
+    "175504331",
+    "175504332",
+    "175504333",
+    "175504334",
+    "175504335",
+    "175504336",
+    "175504337",
+    "175504338",
+    "175504339",
+    "175504340",
+    "175504341",
+    "175504342",
+    "175504343",
+    "175504344",
+    "175504345"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:167062:por",
+     "title": "Declaração de Rectificação n.º 10-BC/99",
+     "published": "1999-06-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/10-bc-1999-167062",
+     "date": "1999-06-14"
+    }
+   ]
+  },
+  {
+   "date": "2008-03-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:247441:por",
+     "title": "Decreto Regulamentar n.º 7/2008",
+     "published": "2008-02-27",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/7-2008-247441"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 5.º-A",
+    "Altera Artigo 18.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 34.º"
+   ],
+   "fragments": [
+    "175504297",
+    "175504298",
+    "175504299",
+    "175504300",
+    "175504301",
+    "175504302",
+    "175504303",
+    "175506549",
+    "175506550",
+    "175506551",
+    "175506552",
+    "175506553",
+    "175506554",
+    "175506555",
+    "175504310",
+    "175504311",
+    "175504312",
+    "175504313",
+    "175504314",
+    "175504315",
+    "175504316",
+    "175506545",
+    "175504318",
+    "175504319",
+    "175504320",
+    "175504321",
+    "175504322",
+    "175504323",
+    "175504324",
+    "175506546",
+    "175504326",
+    "175504327",
+    "175504328",
+    "175504329",
+    "175506547",
+    "175504331",
+    "175504332",
+    "175504333",
+    "175504334",
+    "175504335",
+    "175506548",
+    "175504337",
+    "175504338",
+    "175504339",
+    "175504340",
+    "175504341",
+    "175504342",
+    "175504343",
+    "175504344",
+    "175504345",
+    "175504346"
+   ]
+  },
+  {
+   "date": "2009-02-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:602996:por",
+     "title": "Decreto Regulamentar n.º 2/2009",
+     "published": "2009-01-27",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/2-2009-602996"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 27.º-A",
+    "Adita Capítulo V-A",
+    "Adita Artigo 36.º-B",
+    "Adita Artigo 36.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 5.º-A",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 32.º",
+    "Altera Artigo 33.º",
+    "Altera Artigo 37.º",
+    "Altera Artigo 39.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 31.º",
+    "Revoga Artigo 34.º",
+    "Revoga Artigo 35.º",
+    "Revoga Artigo 36.º",
+    "Revoga Artigo 38.º"
+   ],
+   "fragments": [
+    "175504297",
+    "175531106",
+    "175506563",
+    "175506564",
+    "175504301",
+    "175504302",
+    "175506565",
+    "175506566",
+    "175506567",
+    "175506551",
+    "175506568",
+    "175506569",
+    "175506570",
+    "175506555",
+    "175531107",
+    "175506571",
+    "175504312",
+    "175504313",
+    "175504314",
+    "175504315",
+    "175506572",
+    "175506573",
+    "175504318",
+    "175504319",
+    "175506574",
+    "175506888",
+    "175506875",
+    "175531108",
+    "175506876",
+    "175506877",
+    "175504326",
+    "175506878",
+    "175506887",
+    "175531109",
+    "175506879",
+    "175506880",
+    "175506881",
+    "175506889",
+    "175506882",
+    "175531110",
+    "175506883",
+    "175506890",
+    "175506891",
+    "175506892",
+    "175531103",
+    "175531111",
+    "175531115",
+    "175531116",
+    "175506884",
+    "175506893",
+    "175506885",
+    "175531104",
+    "175504344",
+    "175504345",
+    "175531105"
+   ]
+  },
+  {
+   "date": "2022-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175397117:por",
+     "title": "Decreto Regulamentar n.º 7/2021",
+     "published": "2021-12-06",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/7-2021-175397117"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 11.º-A",
+    "Adita Artigo 23.º-A",
+    "Adita Capítulo V-B",
+    "Adita Artigo 36.º-C",
+    "Adita Artigo 36.º-D",
+    "Adita Artigo 36.º-E",
+    "Adita Artigo 36.º-F",
+    "Adita Capítulo V-C",
+    "Adita Artigo 36.º-G",
+    "Adita Artigo 36.º-H",
+    "Adita Artigo 36.º-I",
+    "Adita Capítulo V-D",
+    "Adita Artigo 36.º-J",
+    "Adita Artigo 36.º-L",
+    "Adita Artigo 36.º-M",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 5.º-A",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º-A",
+    "Altera Artigo 28.º",
+    "Altera Artigo 33.º",
+    "Altera Artigo 36.º-A",
+    "Altera Artigo 37.º"
+   ],
+   "fragments": [
+    "175504297",
+    "175531089",
+    "175506945",
+    "175506946",
+    "175504301",
+    "175504302",
+    "175506974",
+    "175506947",
+    "175506948",
+    "175506949",
+    "175506568",
+    "175506950",
+    "175506951",
+    "175506952",
+    "175506943",
+    "175531090",
+    "175506953",
+    "175504312",
+    "175504313",
+    "175504314",
+    "175504315",
+    "175506954",
+    "175506955",
+    "175506956",
+    "175504319",
+    "175506957",
+    "175506888",
+    "175506958",
+    "175506944",
+    "175531091",
+    "175506959",
+    "175531075",
+    "175506960",
+    "175506878",
+    "175506961",
+    "175531092",
+    "175506962",
+    "175506880",
+    "175506881",
+    "175506889",
+    "175506882",
+    "175531093",
+    "175506963",
+    "175506890",
+    "175506891",
+    "175506892",
+    "175531111",
+    "175531118",
+    "175531116",
+    "175531094",
+    "175506939",
+    "175506940",
+    "175506941",
+    "175506942",
+    "175531095",
+    "175506936",
+    "175506937",
+    "175506938",
+    "175531096",
+    "175506933",
+    "175506934",
+    "175506935",
+    "175506930",
+    "175506965",
+    "175506893",
+    "175506885",
+    "175506931",
+    "175504344",
+    "175504345",
+    "175506932"
+   ]
+  }
+ ],
+ "fragments": {
+  "175504297": {
+   "fragment_id": "175504240",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 8/99\n\nde 9 de Junho\n\nAs recentes alterações legislativas no domínio da comunicação social vieram determinar a revisão do respectivo quadro regulamentar, no qual se insere a matéria dos registos que o presente diploma desenvolve.\n\nSe, por um lado, é alargado o âmbito de aplicação do registo à rádio e imprensa não convencional (publicações electrónicas), o mesmo circunscreve-se agora, por outro, aos órgãos de comunicação social nacionais ou sujeitos à jurisdição do Estado Português, nos termos da legislação internacional aplicável.\n\nEntre as finalidades do registo passa inequivocamente a figurar a garantia de transparência da propriedade dos órgãos de comunicação social, assim reforçando, também por esta via, um importante desiderato constitucional como a garantia do direito à informação.\n\nAdequando o sistema dos registos à necessidade de celeridade e eficiência no acesso à informação, introduzem-se normas que visam alcançar uma maior simplificação burocrática de procedimentos, bem como permitir a informatização dos dados a registar.\n\nAlteração importante é ainda a que deriva da necessidade de manter actualizada a situação registal dos órgãos de comunicação social, para o que foram previstas as seguintes medidas:\n\na) Registo obrigatório apenas para as empresas jornalísticas e não para qualquer entidade que edite alguma publicação;\n\nb) Exclusão do registo das publicações que não sejam postas à disposição do público em geral;\n\nc) Prova anual da regularidade das publicações, sob pena de cancelamento;\n\nd) Caducidade da inscrição provisória caso a publicação não inicie a sua edição ou não observe manifestamente, no seu primeiro número, a sinopse do projecto editorial (temática da publicação, número de páginas, área de distribuição, tiragem prevista, estatuto editorial);\n\ne) Coimas para a não observância da periodicidade anunciada pela publicação e para a sua suspensão, para além de determinados limites temporais, bem como pela não comunicação dessa suspensão ou do reinício da edição.\n\nPretende-se deste modo eliminar os falsos registos, sem invalidar a protecção dos títulos de imprensa nos termos do Código do Direito de Autor.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido no artigo 5.º, n.º 3, da Lei n.º 2/99, de 13 de Janeiro, e nos termos do artigo 199.º, alínea c), da Constituição, o Governo decreta o seguinte:"
+  },
+  "175504298": {
+   "fragment_id": "175504241",
+   "type": 1,
+   "heading": "Capítulo I — Registos em geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Registos em geral"
+  },
+  "175504299": {
+   "fragment_id": "175504242",
+   "type": 11,
+   "heading": "Artigo 1.º — Registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Registos\n\n1 - Compete ao Instituto da Comunicação Social (ICS), através da Divisão de Registos, assegurar a existência de um registo específico dos órgãos de comunicação social nacionais ou sujeitos à jurisdição do Estado Português nos termos do direito internacional aplicável.\n\n2 - O registo tem por finalidades comprovar a situação jurídica dos orgãos de comunicação social, garantir a transparência da sua propriedade e assegurar a protecção legal dos títulos de publicações periódicas e da denominação das estações emissoras de rádio e de televisão."
+  },
+  "175504300": {
+   "fragment_id": "175504243",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto do registo\n\nEstão sujeitos a registo:\n\na) As publicações periódicas;\n\nb) As empresas jornalísticas;\n\nc) As empresas noticiosas;\n\nd) Os operadores radiofónicos e respectivos canais ou serviços de programas;\n\ne) Os operadores televisivos e respectivos canais ou serviços de programas."
+  },
+  "175504301": {
+   "fragment_id": "175504244",
+   "type": 11,
+   "heading": "Artigo 3.º — Actos do registo em geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Actos do registo em geral\n\n1 - Os registos são lavrados em suporte próprio, com base nos elementos constantes da documentação apresentada.\n\n2 - Os documentos escritos em língua estrangeira são sempre acompanhados da tradução realizada nos termos prescritos na lei.\n\n3 - Cada inscrição contém:\n\na) A assinatura do responsável pelos serviços;\n\nb) O número de ordem e a data da apresentação no livro diário;\n\nc) O número de ordem privativo das inscrições da respectiva espécie;\n\nd) A menção do livro e folhas onde foi lavrada.\n\n4 - O cancelamento dos registos é feito por averbamento."
+  },
+  "175504302": {
+   "fragment_id": "175504245",
+   "type": 11,
+   "heading": "Artigo 4.º — Ordem e prazo para os registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Ordem e prazo para os registos\n\n1 - Os actos de registo não podem ser lavrados sem que se mostrem apresentados os documentos que lhe hão-de servir de base.\n\n2 - As inscrições são efectuadas segundo a data e a ordem de apresentação do livro diário.\n\n3 - Os registos são efectuados nos 20 dias seguintes à apresentação de todos os documentos necessários à instrução do processo.\n\n4 - Os pedidos de registo não estão sujeitos a deferimento tácito."
+  },
+  "175504303": {
+   "fragment_id": "175504246",
+   "type": 11,
+   "heading": "Artigo 5.º — Princípio da instância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Princípio da instância\n\nOs actos de registo dependem de requerimento do interessado, salvo nos casos previstos no presente diploma."
+  },
+  "175504304": {
+   "fragment_id": "175504247",
+   "type": 11,
+   "heading": "Artigo 6.º — Legitimidade para o registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Legitimidade para o registo\n\n1 - As inscrições iniciais e os averbamentos são requeridos pela entidade que pretenda promover a edição de publicações periódicas, assim como pelos operadores radiofónicos ou televisivos.\n\n2 - As autoridades administrativas ou judiciais que apliquem sanções de suspensão ou cessação da actividade radiofónica ou televisiva devem comunicar esse facto à Divisão de Registos."
+  },
+  "175504305": {
+   "fragment_id": "175504248",
+   "type": 11,
+   "heading": "Artigo 7.º — Renovação do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Renovação do pedido\n\nSe o registo for recusado por deficiência de instrução, os interessados podem renovar o pedido a todo o tempo, desde que as deficiências verificadas sejam supridas."
+  },
+  "175504306": {
+   "fragment_id": "175504249",
+   "type": 11,
+   "heading": "Artigo 8.º — Alterações supervenientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Alterações supervenientes\n\nO averbamento das alterações que sobrevenham aos elementos constantes do registo deve ser requerido no prazo de 30 dias contados a partir da data da sua verificação."
+  },
+  "175504307": {
+   "fragment_id": "175504250",
+   "type": 11,
+   "heading": "Artigo 9.º — Livros de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Livros de registo\n\n1 - Na Divisão de Registos existem os seguintes livros:\n\na) Livro diário;\n\nb) Livro de registo de publicações periódicas;\n\nc) Livro de registo de empresas jornalísticas;\n\nd) Livro de registo de empresas noticiosas;\n\ne) Livro de registo dos operadores radiofónicos;\n\nf) Livro de registo dos operadores televisivos.\n\n2 - O livro diário destina-se à anotação especificada e sequencial dos actos de registo requeridos, bem como à menção do despacho que sobre eles recaiu."
+  },
+  "175504308": {
+   "fragment_id": "175504251",
+   "type": 11,
+   "heading": "Artigo 10.º — Informatização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Informatização\n\n1 - O livro diário pode ser substituído pela listagem diária das anotações de apresentação dos pedidos de registo, obtida por meios informáticos e confirmada pelo responsável da Divisão de Registos.\n\n2 - Os actos de registo podem ser lavrados e assinados em suporte informático."
+  },
+  "175504309": {
+   "fragment_id": "175504252",
+   "type": 11,
+   "heading": "Artigo 11.º — Emolumentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Emolumentos\n\nPelos actos de registo previstos no presente diploma são devidos emolumentos de acordo com a tabela anexa, salvo nos casos de gratuitidade ou isenção previstos na lei."
+  },
+  "175504310": {
+   "fragment_id": "175504253",
+   "type": 1,
+   "heading": "Capítulo II — Registo das publicações periódicas e das empresas jornalísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Registo das publicações periódicas e das empresas jornalísticas"
+  },
+  "175504311": {
+   "fragment_id": "175504254",
+   "type": 11,
+   "heading": "Artigo 12.º — Publicações periódicas excluídas do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Publicações periódicas excluídas do registo\n\n1 - Estão excluídas do registo as seguintes publicações periódicas:\n\na) As que não sejam postas à disposição do público em geral;\n\nb) As que pertençam ou sejam editadas, directa ou indirectamente, pela administração central, regional ou local, bem como por quaisquer serviços ou departamentos delas dependentes;\n\nc) As diferentes séries do Diário da República e o Jornal Oficial da Comunidade Europeia;\n\nd) As que constituem suplementos de periódicos, desde que publicados e distribuídos juntamente com estes;\n\ne) As que pertençam ou sejam editadas por representações diplomáticas, culturais e comerciais estrangeiras.\n\n2 - As publicações constantes das alíneas b), c) e e) do número anterior são objecto de anotação, por iniciativa do respectivo editor, quanto ao título, entidade proprietária, periodicidade, director e sede da redacção."
+  },
+  "175504312": {
+   "fragment_id": "175504255",
+   "type": 11,
+   "heading": "Artigo 13.º — Início de actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Início de actividade\n\nAs entidades proprietárias de publicações periódicas não podem iniciar a sua edição, mesmo electrónica, antes de efectuado o registo."
+  },
+  "175504313": {
+   "fragment_id": "175504256",
+   "type": 11,
+   "heading": "Artigo 14.º — Presunção derivada do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Presunção derivada do registo\n\nO direito ao uso do título presume-se pertencer àquele em cujo nome se encontra inscrito."
+  },
+  "175504314": {
+   "fragment_id": "175504257",
+   "type": 11,
+   "heading": "Artigo 15.º — Inscrições provisórias e definitivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Inscrições provisórias e definitivas\n\n1 - As inscrições são provisórias ou definitivas.\n\n2 - A inscrição é provisória por natureza, convertendo-se em definitiva com a apresentação, junto da Divisão de Registos, do primeiro exemplar publicado, em prazo não superior a 90 dias contados da data da notificação do despacho de deferimento do pedido inicial.\n\n3 - A inscrição da publicação não se converte em definitiva se a publicação a que se refere o número anterior desrespeitar, manifestamente, a sinopse do projecto referida no artigo 18.º, n.º 1, alínea a).\n\n4 - A inscrição provisória caduca se não for convertida em definitiva."
+  },
+  "175504315": {
+   "fragment_id": "175504258",
+   "type": 11,
+   "heading": "Artigo 16.º — Inscrições sob reserva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Inscrições sob reserva\n\n1 - Os títulos de publicações periódicas cujos requerimentos de inscrição contenham deficiências supríveis nos termos do Código do Procedimento Administrativo consideram-se sob reserva.\n\n2 - Enquanto durar a situação de reserva, o requerente goza da protecção do título nos termos do artigo 19.º, n.º 2, do presente diploma."
+  },
+  "175504316": {
+   "fragment_id": "175504259",
+   "type": 11,
+   "heading": "Artigo 17.º — Elementos do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Elementos do registo\n\n1 - São elementos do registo de publicações periódicas:\n\na) Título, periodicidade e sede de redacção;\n\nb) Nome do director designado e do director-adjunto ou subdirector, se existirem;\n\nc) Nome ou designação da entidade proprietária e forma jurídica que revista;\n\nd) Domicílio ou sede do requerente;\n\ne) Nome, nacionalidade e sede do editor assim como, se for esse o caso, indicação da sua representação permanente em Portugal.\n\n2 - São elementos do registo das empresas jornalísticas:\n\na) Designação da empresa e forma jurídica que revista;\n\nb) Sede."
+  },
+  "175504317": {
+   "fragment_id": "175504260",
+   "type": 11,
+   "heading": "Artigo 18.º — Requisitos do requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Requisitos do requerimento\n\n1 - O requerimento para inscrição de publicações periódicas deve conter todos os elementos enunciados no n.º 1 do artigo anterior, acompanhado dos seguintes documentos:\n\na) Sinopse do projecto editorial pretendido, contendo a temática da publicação, a previsão do número de páginas, a respectiva área de distribuição, a tiragem prevista e, tratando-se de publicações periódicas informativas, o projecto de estatuto editorial;\n\nb) Dois exemplares, em tamanho natural, do logótipo do título da publicação, entendido aquele como o conjunto formado pela imagem figurativa e gráfica, incluindo o tipo de letra utilizado, e pela cor ou combinação de cores escolhidas;\n\nc) Declaração de aceitação do cargo por parte do director e fotocópia do seu bilhete de identidade;\n\nd) Declaração, passada pelo Instituto Nacional da Propriedade Industrial (INPI), comprovativa de que o título pretendido não se encontra aí registado, na classe correspondente, a favor de terceiros.\n\n2 - O requerimento para inscrição de empresas jornalísticas deve conter os elementos enunciados no n.º 2 do artigo anterior, acompanhado dos seguintes documentos:\n\na) Instrumento de constituição e certidão de registo comercial actualizada ou estatutos da requerente, consoante se trate de sociedade comercial ou pessoa colectiva sem fins lucrativos;\n\nb) Relação nominativa dos accionistas e número de acções que possuem, quando se trate de sociedade anónima."
+  },
+  "175504318": {
+   "fragment_id": "175504261",
+   "type": 11,
+   "heading": "Artigo 19.º — Recusa de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Recusa de registo\n\n1 - O registo deve ser recusado sempre que:\n\na) O facto requerido se encontre inscrito ou não esteja sujeito a registo;\n\nb) O título de publicação periódica pretendido já se encontre registado, nessa qualidade, a favor de terceiro no INPI;\n\nc) O título da publicação periódica contenha referência que não corresponda à periodicidade que se proponha observar;\n\nd) Falte legitimidade ao requerente;\n\ne) Seja notória a nulidade do facto.\n\n2 - Será igualmente recusado o registo de publicação periódica cujo título, pela sua semelhança gráfica, figurativa, fonética ou vocabular, seja susceptível de se confundir com outro, já registado ou que já tenha sido requerido."
+  },
+  "175504319": {
+   "fragment_id": "175504262",
+   "type": 11,
+   "heading": "Artigo 20.º — Associação de títulos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Associação de títulos\n\n1 - As entidades proprietárias de publicações periódicas interessadas em associar o logótipo de uma publicação já registada ao título de uma publicação a registar devem apresentar o respectivo requerimento, juntando:\n\na) Autorização do titular do registo se não for ele o requerente;\n\nb) Modelo gráfico que corresponda ao pedido de associação de títulos.\n\n2 - Não é permitida a associação de títulos quando ela seja susceptível de induzir o consumidor em erro sobre a identidade e a especificidade das publicações em causa."
+  },
+  "175504320": {
+   "fragment_id": "175504263",
+   "type": 11,
+   "heading": "Artigo 21.º — Edição e suspensão de publicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Edição e suspensão de publicação\n\n1 - As publicações periódicas devem observar a periodicidade que constar do seu registo.\n\n2 - A suspensão da edição das publicações periódicas não pode exceder os seguintes períodos de tempo:\n\na) Publicações diárias - até dois meses por ano;\n\nb) Publicações com periodicidade até mensal - até quatro meses por ano;\n\nc) Publicações com periodicidade até trimestral - até seis meses por ano;\n\nd) Publicações com periodicidade até semestral - até um ano;\n\ne) Publicações com periodicidade até anual - até dois anos.\n\n3 - A suspensão e o reinício da edição das publicações periódicas devem ser comunicados à Divisão de Registos."
+  },
+  "175504321": {
+   "fragment_id": "175504264",
+   "type": 11,
+   "heading": "Artigo 22.º — Prova de regularidade da publicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Prova de regularidade da publicação\n\nAs entidades proprietárias de publicações periódicas devem fazer prova da sua publicação, através do envio à Divisão de Registos, durante o mês de Março de cada ano, do último exemplar publicado no ano anterior, sob pena de cancelamento do registo nos termos do artigo 38.º do presente diploma."
+  },
+  "175504322": {
+   "fragment_id": "175504265",
+   "type": 11,
+   "heading": "Artigo 23.º — Cancelamento oficioso da inscrição das empresas jornalísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Cancelamento oficioso da inscrição das empresas jornalísticas\n\nA inscrição das empresas jornalísticas é cancelada oficiosamente quando deixem de titular registos de publicações periódicas."
+  },
+  "175504323": {
+   "fragment_id": "175504266",
+   "type": 1,
+   "heading": "Capítulo III — Registo das empresas noticiosas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Registo das empresas noticiosas"
+  },
+  "175504324": {
+   "fragment_id": "175504267",
+   "type": 11,
+   "heading": "Artigo 24.º — Elementos do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Elementos do registo\n\nSão elementos do registo das empresas noticiosas:\n\na) Nome ou denominação da entidade proprietária e forma jurídica que revista;\n\nb) Sigla utilizada;\n\nc) Domicílio ou sede da entidade proprietária;\n\nd) Identificação dos titulares do capital social e corpos gerentes;\n\ne) Nome do director de informação."
+  },
+  "175504325": {
+   "fragment_id": "175504268",
+   "type": 11,
+   "heading": "Artigo 25.º — Requisitos do requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Requisitos do requerimento\n\nO requerimento para inscrição das empresas noticiosas deve conter os elementos enunciados no artigo anterior, acompanhado dos seguintes documentos:\n\na) Fotocópia do bilhete de identidade do requerente;\n\nb) Escritura de constituição e certidão do registo comercial;\n\nc) Relação nominativa dos accionistas, quando se trate de sociedade anónima, com indicação do número de acções que possuem;\n\nd) Declaração, passada pelo INPI, comprovativa de que a sigla pretendida não se encontra aí registada, nessa qualidade, a favor de terceiros."
+  },
+  "175504326": {
+   "fragment_id": "175504269",
+   "type": 11,
+   "heading": "Artigo 26.º — Recusa de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Recusa de registo\n\n1 - O registo deve ser recusado sempre que:\n\na) O facto requerido se encontre inscrito ou não esteja sujeito a registo;\n\nb) Falte legitimidade ao requerente;\n\nc) Seja notória a nulidade do facto;\n\nd) A sigla pretendida já se encontre registada, nessa qualidade, a favor de terceiro, no INPI.\n\n2 - Será igualmente recusado o registo das empresas noticiosas cuja sigla seja susceptível de se confundir com outra já registada ou que já tenha sido requerida."
+  },
+  "175504327": {
+   "fragment_id": "175504270",
+   "type": 11,
+   "heading": "Artigo 27.º — Início de actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Início de actividade\n\nAs empresas noticiosas não podem iniciar o exercício da sua actividade sem previamente procederem ao respectivo registo, devendo, nos seis meses seguintes à sua inscrição, comunicar aquele facto à Divisão de Registos, sob pena de cancelamento do registo nos termos do artigo 38.º do presente diploma."
+  },
+  "175504328": {
+   "fragment_id": "175504271",
+   "type": 1,
+   "heading": "Capítulo IV — Registo dos operadores radiofónicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Registo dos operadores radiofónicos"
+  },
+  "175504329": {
+   "fragment_id": "175504272",
+   "type": 11,
+   "heading": "Artigo 28.º — Elementos do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Elementos do registo\n\nSão elementos do registo dos operadores radiofónicos:\n\na) Identificação e sede do operador;\n\nb) Denominação da rádio;\n\nc) Capital social e relação discriminada dos seus titulares, quando os operadores revistam forma societária;\n\nd) Titulares dos órgãos sociais;\n\ne) Identificação dos responsáveis pelas áreas de programação e informação;\n\nf) Denominação das estações emissoras exploradas, com localização das respectivas instalações;\n\ng) Nome de canal de programa (PS);\n\nh) Período de funcionamento;\n\ni) Classificação da rádio como temática ou generalista;\n\nj) Data da emissão, número e prazo do alvará."
+  },
+  "175504330": {
+   "fragment_id": "175504273",
+   "type": 11,
+   "heading": "Artigo 29.º — Requisitos do requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Requisitos do requerimento\n\nO requerimento para inscrição dos operadores radiofónicos deve conter os elementos enunciados no artigo anterior, acompanhado dos seguintes documentos:\n\na) Estatuto editorial do operador;\n\nb) Cópia actualizada do alvará;\n\nc) Escritura de constituição, certidão do registo comercial actualizada ou estatutos da requerente;\n\nd) Declaração, passada pelo INPI, comprovativa de que a denominação do operador ou do serviço de programa não se encontra aí registada, nessa qualidade, a favor de terceiros."
+  },
+  "175504331": {
+   "fragment_id": "175504274",
+   "type": 11,
+   "heading": "Artigo 30.º — Recusa do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Recusa do registo\n\n1 - O registo deve ser recusado sempre que:\n\na) O facto requerido se encontre inscrito ou não esteja sujeito a registo;\n\nb) A denominação do operador ou do serviço de programa já se encontre registada, nessa qualidade, a favor de terceiro no INPI;\n\nc) Falte legitimidade ao requerente;\n\nd) Seja notória a nulidade do facto;\n\n2 - Será igualmente recusado o registo de operador radiofónico cuja denominação seja idêntica a outra já registada ou que já tenha sido requerida."
+  },
+  "175504332": {
+   "fragment_id": "175506375",
+   "type": 11,
+   "heading": "Artigo 31.º — Comunicação obrigatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Comunicação obrigatória\n\nOs operadores radiofónicos que iniciem a sua actividade devem comunicar tal facto, no prazo de 30 dias, à Divisão de Registos, procedendo simultaneamente à respectiva inscrição."
+  },
+  "175504333": {
+   "fragment_id": "175506376",
+   "type": 11,
+   "heading": "Artigo 32.º — Cancelamento oficioso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Cancelamento oficioso\n\nO registo é cancelado oficiosamente em caso de cessação da validade do alvará."
+  },
+  "175504334": {
+   "fragment_id": "175506377",
+   "type": 1,
+   "heading": "Capítulo V — Registo dos operadores televisivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Registo dos operadores televisivos"
+  },
+  "175504335": {
+   "fragment_id": "175506378",
+   "type": 11,
+   "heading": "Artigo 33.º — Elementos do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Elementos do registo\n\nSão elementos do registo dos operadores televisivos:\n\na) Identificação e sede do operador;\n\nb) Designação do canal ou serviço de programa de televisão;\n\nc) Capital social e relação discriminada dos seus titulares;\n\nd) Titulares dos órgãos sociais;\n\ne) Identificação dos responsáveis pela programação e informação;\n\nf) Discriminação das participações de capital em outras empresas de comunicação social."
+  },
+  "175504336": {
+   "fragment_id": "175506379",
+   "type": 11,
+   "heading": "Artigo 34.º — Requisitos do requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Requisitos do requerimento\n\n1 - O requerimento para inscrição dos operadores televisivos deve conter os elementos enunciados no artigo anterior, acompanhado dos seguintes documentos:\n\na) Pacto social;\n\nb) Certidão do registo comercial actualizada;\n\nc) Estatuto editorial do operador;\n\nd) Relação nominativa dos accionistas, quando se trate de sociedade anónima, com indicação do número de acções que possuem;\n\ne) Cópia actualizada do título da licença ou autorização emitida pela Alta Autoridade para a Comunicação Social;\n\nf) Declaração, passada pelo INPI, comprovativa de que a designação do operador ou serviço de programa não se encontra aí registada, nessa qualidade, a favor de terceiros.\n\n2 - Sempre que no capital social dos operadores participem, por via directa, empresas do sector televisivo constituídas sob a forma de sociedade anónima, deve juntar-se igualmente, quanto a estas, relação discriminada dos titulares das respectivas participações sociais."
+  },
+  "175504337": {
+   "fragment_id": "175506380",
+   "type": 11,
+   "heading": "Artigo 35.º — Recusa do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Recusa do registo\n\n1 - O registo deve ser recusado sempre que:\n\na) O facto requerido se encontre inscrito ou não esteja sujeito a registo;\n\nb) Falte legitimidade ao requerente;\n\nc) Seja notória a nulidade do facto;\n\nd) A designação do operador ou do serviço de programa já se encontre registada, nessa qualidade, a favor de terceiro no INPI.\n\n2 - Será igualmente recusado o registo de operador televisivo cuja designação seja idêntica a outra já registada ou que tenha sido requerida."
+  },
+  "175504338": {
+   "fragment_id": "175506381",
+   "type": 11,
+   "heading": "Artigo 36.º — Comunicação obrigatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Comunicação obrigatória\n\nOs operadores televisivos que iniciem a sua actividade estão obrigados a comunicar à Divisão de Registos, durante o 1.º trimestre do ano subsequente, os elementos referidos no artigo 33.º do presente diploma."
+  },
+  "175504339": {
+   "fragment_id": "175506382",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições sancionatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições sancionatórias"
+  },
+  "175504340": {
+   "fragment_id": "175506383",
+   "type": 11,
+   "heading": "Artigo 37.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Contra-ordenações\n\n1 - Constitui contra-ordenação, punível com coima:\n\na) De 50000$00 a 100000$00, a inobservância do disposto nos artigos 8.º e 21.º, n.º 3;\n\nb) De 100000$00 a 500000$00, a inobservância do disposto no artigo 21.º, n.os 1 e 2;\n\nc) De 200000$00 a 1000000$00, a inobservância do disposto nos artigos 13.º, 31.º e 36.º\n\n2 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade."
+  },
+  "175504341": {
+   "fragment_id": "175506384",
+   "type": 11,
+   "heading": "Artigo 38.º — Cancelamento oficioso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Cancelamento oficioso\n\nA inobservância do disposto nos artigos 22.º e 27.º dá lugar ao cancelamento oficioso dos respectivos registos."
+  },
+  "175504342": {
+   "fragment_id": "175506385",
+   "type": 11,
+   "heading": "Artigo 39.º — Fiscalização e competência em matéria de contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Fiscalização e competência em matéria de contra-ordenações\n\n1 - Incumbe ao Instituto da Comunicação Social a fiscalização do cumprimento das normas do presente diploma.\n\n2 - A aplicação das coimas e sanções previstas no presente diploma é da competência do presidente do Instituto da Comunicação Social.\n\n3 - A receita das coimas reverte em 60% para o Estado e 40% para o Instituto da Comunicação Social."
+  },
+  "175504343": {
+   "fragment_id": "175506386",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais e transitórias"
+  },
+  "175504344": {
+   "fragment_id": "175506387",
+   "type": 11,
+   "heading": "Artigo 40.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Disposição transitória\n\n1 - As inscrições constantes do registo das empresas jornalísticas feitas em nome das entidades cuja actividade principal não seja a de edição de publicações periódicas caducam com a entrada em vigor do presente diploma.\n\n2 - O disposto no número anterior não prejudica a subsistência do registo das publicações periódicas que integrem o conceito de imprensa definido no artigo 9.º da Lei n.º 2/99, de 13 de Janeiro.\n\n3 - O disposto no artigo 19.º, alíneas b) e c), aplica-se apenas às inscrições efectuadas após a entrada em vigor do presente diploma."
+  },
+  "175504345": {
+   "fragment_id": "175506388",
+   "type": 11,
+   "heading": "Artigo 41.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Norma revogatória\n\nÉ revogada a Portaria n.º 640/76, de 26 de Outubro."
+  },
+  "175506549": {
+   "fragment_id": "175506587",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Verificação oficiosa",
+   "in_force_from": "2008-03-13",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441), em vigor a partir de 2008-03-13"
+   ],
+   "markdown": "###### Artigo 5.º-A — Verificação oficiosa\n\n1 - Para aferir dos motivos de recusa previstos na alínea b) do n.º 1 do artigo 19.º, na alínea d) do n.º 1 do artigo 26.º, na alínea b) do n.º 1 do artigo 30.º e na alínea d) do n.º 1 do artigo 35.º, a Entidade Reguladora para a Comunicação Social solicita ao Instituto Nacional da Propriedade Industrial a informação comprovativa de que não se encontram aí registados direitos anteriores que possam obstar ao registo dos órgãos de comunicação social a que se refere o presente decreto regulamentar.\n\n2 - A informação deve ser prestada pelo Instituto Nacional da Propriedade Industrial no prazo de dois dias úteis a contar da recepção do pedido efectuado pela Entidade Reguladora para a Comunicação Social.\n\n3 - As comunicações entre a Entidade Reguladora para a Comunicação Social e o Instituto Nacional da Propriedade Industrial previstas nos números anteriores são exclusivamente efectuadas através de meios electrónicos.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441), em vigor a partir de 2008-03-13"
+  },
+  "175506550": {
+   "fragment_id": "175504247",
+   "type": 11,
+   "heading": "Artigo 6.º — Legitimidade para o registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Legitimidade para o registo\n\n1 - As inscrições iniciais e os averbamentos são requeridos pela entidade que pretenda promover a edição de publicações periódicas, assim como pelos operadores radiofónicos ou televisivos.\n\n2 - As autoridades administrativas ou judiciais que apliquem sanções de suspensão ou cessação da actividade radiofónica ou televisiva devem comunicar esse facto à Divisão de Registos."
+  },
+  "175506551": {
+   "fragment_id": "175504248",
+   "type": 11,
+   "heading": "Artigo 7.º — Renovação do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Renovação do pedido\n\nSe o registo for recusado por deficiência de instrução, os interessados podem renovar o pedido a todo o tempo, desde que as deficiências verificadas sejam supridas."
+  },
+  "175506552": {
+   "fragment_id": "175504249",
+   "type": 11,
+   "heading": "Artigo 8.º — Alterações supervenientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Alterações supervenientes\n\nO averbamento das alterações que sobrevenham aos elementos constantes do registo deve ser requerido no prazo de 30 dias contados a partir da data da sua verificação."
+  },
+  "175506553": {
+   "fragment_id": "175504250",
+   "type": 11,
+   "heading": "Artigo 9.º — Livros de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Livros de registo\n\n1 - Na Divisão de Registos existem os seguintes livros:\n\na) Livro diário;\n\nb) Livro de registo de publicações periódicas;\n\nc) Livro de registo de empresas jornalísticas;\n\nd) Livro de registo de empresas noticiosas;\n\ne) Livro de registo dos operadores radiofónicos;\n\nf) Livro de registo dos operadores televisivos.\n\n2 - O livro diário destina-se à anotação especificada e sequencial dos actos de registo requeridos, bem como à menção do despacho que sobre eles recaiu."
+  },
+  "175506554": {
+   "fragment_id": "175504251",
+   "type": 11,
+   "heading": "Artigo 10.º — Informatização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Informatização\n\n1 - O livro diário pode ser substituído pela listagem diária das anotações de apresentação dos pedidos de registo, obtida por meios informáticos e confirmada pelo responsável da Divisão de Registos.\n\n2 - Os actos de registo podem ser lavrados e assinados em suporte informático."
+  },
+  "175506555": {
+   "fragment_id": "175504252",
+   "type": 11,
+   "heading": "Artigo 11.º — Emolumentos",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 10-BC/99 - Diário da República n.º 150/1999, 3º Suplemento, Série I-B de 1999-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-bc-1999-167062), em vigor a partir de 1999-06-14"
+   ],
+   "markdown": "###### Artigo 11.º — Emolumentos\n\nPelos actos de registo previstos no presente diploma são devidos os emolumentos constantes de tabela a publicar em portaria do membro do Governo responsável pela área da comunicação social.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 10-BC/99 - Diário da República n.º 150/1999, 3º Suplemento, Série I-B de 1999-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-bc-1999-167062), em vigor a partir de 1999-06-14"
+  },
+  "175506545": {
+   "fragment_id": "175504260",
+   "type": 11,
+   "heading": "Artigo 18.º — Requisitos do requerimento",
+   "in_force_from": "2008-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441), em vigor a partir de 2008-03-13"
+   ],
+   "markdown": "###### Artigo 18.º — Requisitos do requerimento\n\n1 - O requerimento para inscrição de publicações periódicas deve conter todos os elementos enunciados no n.º 1 do artigo anterior, acompanhado dos seguintes documentos:\n\na) Sinopse do projecto editorial pretendido, contendo a temática da publicação, a previsão do número de páginas, a respectiva área de distribuição, a tiragem prevista e, tratando-se de publicações periódicas informativas, o projecto de estatuto editorial;\n\nb) Dois exemplares, em tamanho natural, do logótipo do título da publicação, entendido aquele como o conjunto formado pela imagem figurativa e gráfica, incluindo o tipo de letra utilizado, e pela cor ou combinação de cores escolhidas;\n\nc) Declaração de aceitação do cargo por parte do director e fotocópia do seu bilhete de identidade;\n\nd) Revogada;\n\n2 - O requerimento para inscrição de empresas jornalísticas deve conter os elementos enunciados no n.º 2 do artigo anterior, acompanhado dos seguintes documentos:\n\na) Instrumento de constituição e certidão de registo comercial actualizada ou estatutos da requerente, consoante se trate de sociedade comercial ou pessoa colectiva sem fins lucrativos;\n\nb) Relação nominativa dos accionistas e número de acções que possuem, quando se trate de sociedade anónima.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441), em vigor a partir de 2008-03-13"
+  },
+  "175506546": {
+   "fragment_id": "175504268",
+   "type": 11,
+   "heading": "Artigo 25.º — Requisitos do requerimento",
+   "in_force_from": "2008-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441), em vigor a partir de 2008-03-13",
+    "Retificado pelo/a [Declaração de Rectificação n.º 10-BC/99 - Diário da República n.º 150/1999, 3º Suplemento, Série I-B de 1999-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-bc-1999-167062), em vigor a partir de 1999-06-14"
+   ],
+   "markdown": "###### Artigo 25.º — Requisitos do requerimento\n\nO requerimento para inscrição das empresas noticiosas deve conter os elementos enunciados no artigo anterior, acompanhado dos seguintes documentos:\n\na) Fotocópia de documento de identificação do requerente;\n\nb) Escritura de constituição e certidão do registo comercial;\n\nc) Relação nominativa dos accionistas, quando se trate de sociedade anónima, com indicação do número de acções que possuem;\n\nd) Revogada.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441), em vigor a partir de 2008-03-13\n\n> Retificado pelo/a [Declaração de Rectificação n.º 10-BC/99 - Diário da República n.º 150/1999, 3º Suplemento, Série I-B de 1999-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-bc-1999-167062), em vigor a partir de 1999-06-14"
+  },
+  "175506547": {
+   "fragment_id": "175504273",
+   "type": 11,
+   "heading": "Artigo 29.º — Requisitos do requerimento",
+   "in_force_from": "2008-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441), em vigor a partir de 2008-03-13"
+   ],
+   "markdown": "###### Artigo 29.º — Requisitos do requerimento\n\nO requerimento para inscrição dos operadores radiofónicos deve conter os elementos enunciados no artigo anterior, acompanhado dos seguintes documentos:\n\na) Estatuto editorial do operador;\n\nb) Cópia actualizada do alvará;\n\nc) Escritura de constituição, certidão do registo comercial actualizada ou estatutos da requerente;\n\nd) Revogada.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441), em vigor a partir de 2008-03-13"
+  },
+  "175506548": {
+   "fragment_id": "175506379",
+   "type": 11,
+   "heading": "Artigo 34.º — Requisitos do requerimento",
+   "in_force_from": "2008-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441), em vigor a partir de 2008-03-13"
+   ],
+   "markdown": "###### Artigo 34.º — Requisitos do requerimento\n\n1 - O requerimento para inscrição dos operadores televisivos deve conter os elementos enunciados no artigo anterior, acompanhado dos seguintes documentos:\n\na) Pacto social;\n\nb) Certidão do registo comercial actualizada;\n\nc) Estatuto editorial do operador;\n\nd) Relação nominativa dos accionistas, quando se trate de sociedade anónima, com indicação do número de acções que possuem;\n\ne) Cópia actualizada do título da licença ou autorização emitida pela Alta Autoridade para a Comunicação Social;\n\nf) Revogada.\n\n2 - Sempre que no capital social dos operadores participem, por via directa, empresas do sector televisivo constituídas sob a forma de sociedade anónima, deve juntar-se igualmente, quanto a estas, relação discriminada dos titulares das respectivas participações sociais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441), em vigor a partir de 2008-03-13"
+  },
+  "175504346": {
+   "fragment_id": "175506389",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de Abril de 1999. - António Manuel de Oliveira - Guterres - José Manuel de Matos - Fernandes - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 21 de Maio de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 27 de Maio de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\nANEXO\n\nTabela de emolumentos\n\nArtigo 1.º\n\nPublicações periódicas\n\nPor cada pedido de inscrição - 30000$00.\n\nPor cada inscrição definitiva - 20000$00.\n\nArtigo 2.º\n\nAverbamentos\n\nPor cada pedido de averbamento de alteração do capital social e dos seus detentores - 15000$00.\n\nPor qualquer outro pedido de averbamento - 10000$00.\n\nPor cada cancelamento de registo - 10000$00.\n\nArtigo 3.º\n\nEmpresas noticiosas e operadores de rádio e de televisão\n\nPor cada inscrição - 50000$00.\n\nArtigo 4.º\n\nCertidões\n\nPor cada certidão, até cinco páginas - 1000$00.\n\nPor cada página adicional - 200$00.\n\nArtigo 5.º\n\nRecusa ou desistência\n\nEm caso de recusa do registo ou desistência do acto requerido, proceder-se-á à devolução de 50% do valor do preparo efectuado.\n\nArtigo 6.º\n\nEmolumentos a cobrar\n\nEm caso de dúvida sobre se é devido um ou outro emolumento cobrar-se-á sempre o menor.\n\nArtigo 7.º\n\nReceita\n\nConstituem receita própria do Instituto da Comunicação Social as verbas cobradas ao abrigo da presente tabela."
+  },
+  "175531106": {
+   "fragment_id": "175504241",
+   "type": 1,
+   "heading": "Capítulo I — Registos em geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Registos em geral"
+  },
+  "175506563": {
+   "fragment_id": "175504242",
+   "type": 11,
+   "heading": "Artigo 1.º — Registos",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 1.º — Registos\n\n1 - Compete ao Instituto da Comunicação Social (ICS), através da Divisão de Registos, assegurar a existência de um registo específico dos órgãos de comunicação social nacionais ou sujeitos à jurisdição do Estado Português nos termos do direito internacional aplicável.\n\n2 - O registo tem por finalidades comprovar a situação jurídica dos órgãos de comunicação social, garantir a transparência da sua propriedade e assegurar a protecção legal dos títulos de publicações periódicas e da denominação dos operadores de rádio e de televisão e dos serviços de programas radiofónicos e televisivos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506564": {
+   "fragment_id": "175504243",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto do registo",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 2.º — Objecto do registo\n\nEstão sujeitos a registo:\n\na) As publicações periódicas;\n\nb) As empresas jornalísticas;\n\nc) As empresas noticiosas;\n\nd) Os operadores de rádio e serviços de programas radiofónicos;\n\ne) Os operadores de televisão e serviços de programas televisivos;\n\nf) Os operadores de distribuição, na acepção prevista na Lei n.º 27/2007, de 30 de Julho.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506565": {
+   "fragment_id": "175504246",
+   "type": 11,
+   "heading": "Artigo 5.º — Iniciativa do registo",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 5.º — Iniciativa do registo\n\n1 - Os actos de registo dependem de requerimento do interessado, salvo nos casos previstos no presente diploma.\n\n2 - São efectuados oficiosamente pela Entidade Reguladora para a Comunicação Social os actos de registo relativos aos operadores de rádio, aos operadores de televisão e aos respectivos serviços de programas, bem como aos operadores de distribuição, licenciados ao abrigo da Lei n.º 27/2007, de 30 de Julho, sem prejuízo do disposto no número seguinte e no artigo 8.º\n\n3 - Os actos de registo respeitantes aos serviços de programas difundidos exclusivamente através da Internet dependem de requerimento do interessado, sendo aplicável, com as necessárias adaptações, o disposto no presente decreto regulamentar, nomeadamente nos capítulos iv e v.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506566": {
+   "fragment_id": "175506587",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Verificação oficiosa",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01",
+    "Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441), em vigor a partir de 2008-03-13"
+   ],
+   "markdown": "###### Artigo 5.º-A — Verificação oficiosa\n\n1 - Para aferir dos motivos de recusa previstos na alínea b) do n.º 1 do artigo 19.º e na alínea d) do n.º 1 do artigo 26.º e para aplicação do disposto no artigo 30.º, a Entidade Reguladora para a Comunicação Social solicita ao Instituto Nacional da Propriedade Industrial, I. P. (INPI, I. P.), a informação comprovativa de que não se encontram aí registados direitos anteriores que possam obstar ao registo dos órgãos de comunicação social a que se refere o presente decreto regulamentar.\n\n2 - A informação deve ser prestada pelo INPI, I. P., no prazo de dois dias úteis a contar da recepção do pedido efectuado pela Entidade Reguladora para a Comunicação Social.\n\n3 - As comunicações entre a Entidade Reguladora para a Comunicação Social e o INPI, I. P., previstas nos números anteriores são exclusivamente efectuadas através de meios electrónicos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441), em vigor a partir de 2008-03-13"
+  },
+  "175506567": {
+   "fragment_id": "175504247",
+   "type": 11,
+   "heading": "Artigo 6.º — Legitimidade para o registo",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 6.º — Legitimidade para o registo\n\n1 - As inscrições iniciais e os averbamentos são requeridos pela entidade que pretenda promover a edição de publicações periódicas, pela entidade que pretenda desenvolver a actividade de empresa noticiosa, pela entidade que pretenda difundir serviços de programas exclusivamente através da Internet e, quando aplicável, pelos operadores de rádio, pelos operadores de televisão e pelos operadores de distribuição.\n\n2 - As autoridades administrativas ou judiciais que apliquem sanções de suspensão ou cessação da actividade radiofónica ou televisiva devem comunicar esse facto à Divisão de Registos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506568": {
+   "fragment_id": "175504249",
+   "type": 11,
+   "heading": "Artigo 8.º — Alterações supervenientes",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 8.º — Alterações supervenientes\n\nO averbamento das alterações que sobrevenham aos elementos constantes do registo deve ser requerido no prazo de 30 dias contados a partir da data da sua verificação, com excepção dos averbamentos das alterações respeitantes aos operadores e aos respectivos serviços de programas referidos no n.º 2 do artigo 5.º que sejam objecto de apreciação prévia da Entidade Reguladora para a Comunicação Social, caso em que são oficiosamente efectuados por esta entidade.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506569": {
+   "fragment_id": "175504250",
+   "type": 11,
+   "heading": "Artigo 9.º — Livros de registo",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 9.º — Livros de registo\n\n1 - Na Entidade Reguladora para a Comunicação Social existem os seguintes livros:\n\na) Livro diário;\n\nb) Livro de registo de publicações periódicas;\n\nc) Livro de registo de empresas jornalísticas;\n\nd) Livro de registo de empresas noticiosas;\n\ne) Livro de registo dos operadores de rádio e respectivos serviços de programas;\n\nf) Livro de registo dos operadores de televisão e respectivos serviços de programas;\n\ng) Livro de registo dos operadores de distribuição;\n\nh) Livro de registo dos serviços de programas difundidos exclusivamente através da Internet.\n\n2 - O livro diário destina-se à anotação especificada e sequencial dos actos de registo requeridos, bem como à menção do despacho que sobre eles recaiu.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506570": {
+   "fragment_id": "175504251",
+   "type": 11,
+   "heading": "Artigo 10.º — Informatização",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 10.º — Informatização\n\n1 - O livro diário pode ser substituído pela listagem diária das anotações de apresentação dos pedidos de registo, obtida por meios informáticos e confirmada pelo responsável da Divisão de Registos.\n\n2 - Os actos de registo podem ser lavrados e assinados em suporte informático.\n\n3 - Os requerimentos de registo e outras comunicações dos interessados podem ser apresentados através de procedimentos electrónicos, os quais são definidos pela Entidade Reguladora para a Comunicação Social.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175531107": {
+   "fragment_id": "175504253",
+   "type": 1,
+   "heading": "Capítulo II — Registo das publicações periódicas e das empresas jornalísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Registo das publicações periódicas e das empresas jornalísticas"
+  },
+  "175506571": {
+   "fragment_id": "175504254",
+   "type": 11,
+   "heading": "Artigo 12.º — Publicações periódicas excluídas do registo",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 12.º — Publicações periódicas excluídas do registo\n\n1 - Estão excluídas do registo as seguintes publicações periódicas:\n\na) As que não sejam postas à disposição do público em geral;\n\nb) As que pertençam ou sejam editadas, directa ou indirectamente, pela administração central, regional ou local, bem como por quaisquer serviços ou departamentos delas dependentes;\n\nc) As diferentes séries do Diário da República e o Jornal Oficial da União Europeia;\n\nd) As que constituem suplementos de periódicos, desde que publicados e distribuídos juntamente com estes;\n\ne) As que pertençam ou sejam editadas por representações diplomáticas, culturais e comerciais estrangeiras.\n\n2 - As publicações constantes das alíneas b), c) e e) do número anterior são objecto de anotação, por iniciativa do respectivo editor, quanto ao título, entidade proprietária, periodicidade, director e sede da redacção.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506572": {
+   "fragment_id": "175504259",
+   "type": 11,
+   "heading": "Artigo 17.º — Elementos do registo",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 17.º — Elementos do registo\n\n1 - São elementos do registo de publicações periódicas:\n\na) Título, periodicidade e sede de redacção;\n\nb) Nome do director designado e do director-adjunto ou subdirector, se existirem;\n\nc) Nome ou denominação da entidade proprietária e forma jurídica que revista;\n\nd) Domicílio ou sede do requerente;\n\ne) Nome, nacionalidade e sede do editor assim como, se for esse o caso, indicação da sua representação permanente em Portugal.\n\n2 - São elementos do registo das empresas jornalísticas:\n\na) Denominação da empresa e forma jurídica que revista;\n\nb) Sede.\n\nc) Capital social e relação discriminada dos seus titulares;\n\nd) Identificação dos titulares dos órgãos sociais.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506573": {
+   "fragment_id": "175504260",
+   "type": 11,
+   "heading": "Artigo 18.º — Requisitos do requerimento",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441), em vigor a partir de 2008-03-13"
+   ],
+   "markdown": "###### Artigo 18.º — Requisitos do requerimento\n\n1 - O requerimento para inscrição de publicações periódicas deve conter todos os elementos enunciados no n.º 1 do artigo anterior, acompanhado dos seguintes documentos:\n\na) Sinopse do projecto editorial pretendido, contendo a temática da publicação, a previsão do número de páginas, a respectiva área de distribuição, a tiragem prevista e, tratando-se de publicações periódicas informativas, o projecto de estatuto editorial;\n\nb) Um exemplar, em tamanho natural, do logótipo da publicação periódica, entendido aquela como o conjunto formado pela imagem figurativa e gráfica, incluindo o tipo de letra utilizado, e pela cor e combinação de cores escolhidas;\n\nc) Declaração de aceitação do cargo por parte do director;\n\nc) Declaração de aceitação do cargo por parte do director e fotocópia do seu bilhete de identidade;\n\nd) Revogada;\n\n2 - O requerimento para inscrição de empresas jornalísticas deve conter os elementos enunciados no n.º 2 do artigo anterior, acompanhado dos seguintes documentos:\n\na) Instrumento de constituição e código de acesso à certidão permanente ou certidão de registo comercial actualizada, ou estatutos da requerente, consoante se trate de sociedade comercial ou pessoa colectiva sem fins lucrativos;\n\nb) Relação nominativa dos accionistas e número de acções que possuem, quando se trate de sociedade anónima.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441), em vigor a partir de 2008-03-13"
+  },
+  "175506574": {
+   "fragment_id": "175504263",
+   "type": 11,
+   "heading": "Artigo 21.º — Edição e suspensão de publicação",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 21.º — Edição e suspensão de publicação\n\n1 - As publicações periódicas devem observar a periodicidade que constar do seu registo.\n\n2 - A suspensão da edição das publicações periódicas não pode exceder os seguintes períodos de tempo:\n\na) Publicações diárias - até dois meses por ano;\n\nb) Publicações com periodicidade até mensal - até quatro meses por ano;\n\nc) Publicações com periodicidade até trimestral - até seis meses por ano;\n\nd) Publicações com periodicidade até semestral - até um ano;\n\ne) Publicações com periodicidade até anual - até dois anos.\n\n3 - A suspensão e o reinício da edição das publicações periódicas são comunicados à Entidade Reguladora para a Comunicação Social e são objecto de averbamento.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506888": {
+   "fragment_id": "175504264",
+   "type": 11,
+   "heading": "Artigo 22.º — Prova de regularidade da publicação",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 22.º — Prova de regularidade da publicação\n\nAs entidades proprietárias de publicações periódicas devem fazer prova da sua publicação, através do envio à Divisão de Registos, durante o mês de Março de cada ano, do último exemplar publicado no ano anterior, sob pena de cancelamento do registo nos termos do artigo 38.º do presente diploma.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506875": {
+   "fragment_id": "175504265",
+   "type": 11,
+   "heading": "Artigo 23.º — Cancelamento oficioso do registo das publicações periódicas e das empresas jornalísticas",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 23.º — Cancelamento oficioso do registo das publicações periódicas e das empresas jornalísticas\n\n1 - O registo das publicações periódicas é cancelado oficiosamente pela Entidade Reguladora para a Comunicação Social em caso de inobservância do disposto no n.º 1 do artigo 21.º\n\n2 - A inscrição das empresas jornalísticas é cancelada oficiosamente quando deixem de titular registos de publicações periódicas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175531108": {
+   "fragment_id": "175504266",
+   "type": 1,
+   "heading": "Capítulo III — Registo das empresas noticiosas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Registo das empresas noticiosas"
+  },
+  "175506876": {
+   "fragment_id": "175504267",
+   "type": 11,
+   "heading": "Artigo 24.º — Elementos do registo",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 24.º — Elementos do registo\n\nSão elementos do registo das empresas noticiosas:\n\na) Nome ou denominação da entidade proprietária e forma jurídica que revista;\n\nb) Sigla utilizada;\n\nc) Domicílio ou sede da entidade proprietária;\n\nd) Identificação dos titulares do capital social e corpos gerentes;\n\nd) Capital social e relação discriminada dos seus titulares;\n\ne) Identificação dos titulares dos órgãos sociais;\n\nf) Nome do director de informação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506877": {
+   "fragment_id": "175504268",
+   "type": 11,
+   "heading": "Artigo 25.º — Requisitos do requerimento",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441), em vigor a partir de 2008-03-13",
+    "Retificado pelo/a [Declaração de Rectificação n.º 10-BC/99 - Diário da República n.º 150/1999, 3º Suplemento, Série I-B de 1999-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-bc-1999-167062), em vigor a partir de 1999-06-14"
+   ],
+   "markdown": "###### Artigo 25.º — Requisitos do requerimento\n\nO requerimento para inscrição das empresas noticiosas deve conter os elementos enunciados no artigo anterior, acompanhado dos seguintes documentos:\n\na) Fotocópia de documento de identificação do requerente;\n\nb) Instrumento de constituição e código de acesso electrónico à certidão permanente ou certidão do registo comercial actualizada;\n\nc) Relação nominativa dos accionistas, quando se trate de sociedade anónima, com indicação do número de acções que possuem;\n\nd) Revogada.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441), em vigor a partir de 2008-03-13\n\n> Retificado pelo/a [Declaração de Rectificação n.º 10-BC/99 - Diário da República n.º 150/1999, 3º Suplemento, Série I-B de 1999-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-bc-1999-167062), em vigor a partir de 1999-06-14"
+  },
+  "175506878": {
+   "fragment_id": "175504270",
+   "type": 11,
+   "heading": "Artigo 27.º — Início de actividade",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 27.º — Início de actividade\n\nAs empresas noticiosas não podem iniciar o exercício da sua actividade sem previamente procederem ao respectivo registo, devendo, nos seis meses seguintes à sua inscrição, comunicar aquele facto à Entidade Reguladora para a Comunicação Social, sob pena de cancelamento do registo nos termos do artigo seguinte.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506887": {
+   "fragment_id": "175506590",
+   "type": 11,
+   "heading": "Artigo 27.º-A — Cancelamento oficioso do registo das empresas noticiosas",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 27.º-A — Cancelamento oficioso do registo das empresas noticiosas\n\nO registo das empresas noticiosas é cancelado oficiosamente pela Entidade Reguladora para a Comunicação social quando não for cumprida a obrigação de comunicação prevista no artigo anterior.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175531109": {
+   "fragment_id": "175504271",
+   "type": 1,
+   "heading": "Capítulo IV — Registo dos operadores radiofónicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Registo dos operadores radiofónicos"
+  },
+  "175506879": {
+   "fragment_id": "175504272",
+   "type": 11,
+   "heading": "Artigo 28.º — Elementos do registo",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 28.º — Elementos do registo\n\nSão elementos do registo dos operadores de rádio e dos respectivos serviços de programas:\n\na) Identificação e sede do operador;\n\nb) Denominação ou designação dos serviços de programas;\n\nc) Capital social e relação discriminada dos seus titulares;\n\nd) Identificação dos titulares dos órgãos sociais;\n\ne) Identificação dos responsáveis pelas áreas de programação e informação;\n\nf) Localização das instalações das estações emissoras;\n\ng) Nome de canal de programa (PS);\n\nh) (Revogada.)\n\ni) Classificação dos serviços de programas quanto ao âmbito de cobertura e quanto ao conteúdo da sua programação;\n\nj) Data da emissão e prazo da licença ou da autorização, bem como a data das respectivas renovações;\n\nl) Identificação do estabelecimento a partir do qual é difundida a emissão.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506880": {
+   "fragment_id": "175504273",
+   "type": 11,
+   "heading": "Artigo 29.º — Procedimento do registo",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441), em vigor a partir de 2008-03-13"
+   ],
+   "markdown": "###### Artigo 29.º — Procedimento do registo\n\n1 - A Entidade Reguladora para a Comunicação Social procede ao registo dos operadores de rádio e respectivos serviços de programas após a atribuição do correspondente título habilitante com base nos documentos por estes entregues no âmbito do processo de licenciamento ou de autorização.\n\n2 - Sem prejuízo do disposto no número anterior, a Entidade Reguladora para a Comunicação Social pode solicitar ao operador de rádio, de uma só vez, outros documentos necessários para a obtenção de todos os elementos do registo, ficando, nesse caso, o operador obrigado a entregá-los no prazo máximo de 10 dias úteis.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441), em vigor a partir de 2008-03-13"
+  },
+  "175506881": {
+   "fragment_id": "175504274",
+   "type": 11,
+   "heading": "Artigo 30.º — Impedimentos do registo",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 30.º — Impedimentos do registo\n\nO registo do operador de rádio não é efectuado pela Entidade Reguladora para a Comunicação Social quando a denominação do operador ou do serviço de programas seja idêntica ou confundível com outra que já se encontre registada a favor de terceiro nesta entidade ou, nessa qualidade, a favor de terceiro no INPI, I. P.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506889": {
+   "fragment_id": "175506375",
+   "type": 11,
+   "heading": "Artigo 31.º — Comunicação obrigatória",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 31.º — Comunicação obrigatória\n\nOs operadores radiofónicos que iniciem a sua actividade devem comunicar tal facto, no prazo de 30 dias, à Divisão de Registos, procedendo simultaneamente à respectiva inscrição.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506882": {
+   "fragment_id": "175506376",
+   "type": 11,
+   "heading": "Artigo 32.º — Cancelamento oficioso",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 32.º — Cancelamento oficioso\n\nO registo é cancelado oficiosamente em caso de cessação da validade da licença ou da autorização.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175531110": {
+   "fragment_id": "175506377",
+   "type": 1,
+   "heading": "Capítulo V — Registo dos operadores televisivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Registo dos operadores televisivos"
+  },
+  "175506883": {
+   "fragment_id": "175506378",
+   "type": 11,
+   "heading": "Artigo 33.º — Elementos do registo",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 33.º — Elementos do registo\n\nSão elementos do registo dos operadores de televisão e dos respectivos serviços de programas:\n\na) Identificação e sede do operador;\n\nb) Denominação ou designação dos serviços de programas;\n\nc) Capital social e relação discriminada dos seus titulares;\n\nd) Identificação dos titulares dos órgãos sociais;\n\ne) Identificação dos responsáveis pela programação e informação;\n\nf) (Revogada.)\n\ng) Classificação dos serviços de programas quanto ao âmbito de cobertura e quanto ao conteúdo da sua programação;\n\nh) Data da emissão e prazo da licença ou da autorização, bem como data das respectivas renovações.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506890": {
+   "fragment_id": "175506379",
+   "type": 11,
+   "heading": "Artigo 34.º — Requisitos do requerimento",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441), em vigor a partir de 2008-03-13"
+   ],
+   "markdown": "###### Artigo 34.º — Requisitos do requerimento\n\n1 - O requerimento para inscrição dos operadores televisivos deve conter os elementos enunciados no artigo anterior, acompanhado dos seguintes documentos:\n\na) Pacto social;\n\nb) Certidão do registo comercial actualizada;\n\nc) Estatuto editorial do operador;\n\nd) Relação nominativa dos accionistas, quando se trate de sociedade anónima, com indicação do número de acções que possuem;\n\ne) Cópia actualizada do título da licença ou autorização emitida pela Alta Autoridade para a Comunicação Social;\n\nf) Revogada.\n\n2 - Sempre que no capital social dos operadores participem, por via directa, empresas do sector televisivo constituídas sob a forma de sociedade anónima, deve juntar-se igualmente, quanto a estas, relação discriminada dos titulares das respectivas participações sociais.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441), em vigor a partir de 2008-03-13"
+  },
+  "175506891": {
+   "fragment_id": "175506380",
+   "type": 11,
+   "heading": "Artigo 35.º — Recusa do registo",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 35.º — Recusa do registo\n\n1 - O registo deve ser recusado sempre que:\n\na) O facto requerido se encontre inscrito ou não esteja sujeito a registo;\n\nb) Falte legitimidade ao requerente;\n\nc) Seja notória a nulidade do facto;\n\nd) A designação do operador ou do serviço de programa já se encontre registada, nessa qualidade, a favor de terceiro no INPI.\n\n2 - Será igualmente recusado o registo de operador televisivo cuja designação seja idêntica a outra já registada ou que tenha sido requerida.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506892": {
+   "fragment_id": "175506381",
+   "type": 11,
+   "heading": "Artigo 36.º — Comunicação obrigatória",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 36.º — Comunicação obrigatória\n\nOs operadores televisivos que iniciem a sua actividade estão obrigados a comunicar à Divisão de Registos, durante o 1.º trimestre do ano subsequente, os elementos referidos no artigo 33.º do presente diploma.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175531103": {
+   "fragment_id": "175506382",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições sancionatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições sancionatórias"
+  },
+  "175531111": {
+   "fragment_id": "175506635",
+   "type": 1,
+   "heading": "Capítulo V-A — Registo dos operadores de distribuição",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "### Capítulo V-A — Registo dos operadores de distribuição\n\n> Aditado pelo/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175531115": {
+   "fragment_id": "175506591",
+   "type": 11,
+   "heading": "Artigo 36.º-A — Elementos do registo",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 36.º-A — Elementos do registo\n\nSão elementos do registo dos operadores de distribuição:\n\na) Identificação e sede do operador;\n\nb) Capital social e relação discriminada dos seus titulares;\n\nc) Identificação dos titulares dos órgãos sociais;\n\nd) Serviços de programas que compõem a sua oferta e respectiva ordenação;\n\ne) Data da emissão e prazo da licença, bem como a data das respectivas renovações, quando aplicáveis.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175531116": {
+   "fragment_id": "175506592",
+   "type": 11,
+   "heading": "Artigo 36.º-B — Normas aplicáveis",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 36.º-B — Normas aplicáveis\n\nÉ aplicável, com as necessárias adaptações, ao registo dos operadores de distribuição, referidos no n.º 2 do artigo 5.º, o disposto nos artigos 29.º, 30.º e 32.º e, aos demais, o disposto nos artigos 25.º a 27.º-A.»\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506884": {
+   "fragment_id": "175506383",
+   "type": 11,
+   "heading": "Artigo 37.º — Contra-ordenações",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 37.º — Contra-ordenações\n\n1 - Constitui contra-ordenação, punível com coima:\n\na) De (euro) 249,39 a (euro) 498,79, a inobservância do disposto nos artigos 8.º e 21.º, n.º 3;\n\nb) De (euro) 498,79 a (euro) 2493,98, a inobservância do disposto no artigo 21.º, n.os 1 e 2;\n\nc) De (euro) 2493,98 a (euro) 4987,97, a inobservância do disposto no n.º 3 do artigo 5.º e nos artigos 13.º e 27.º\n\n2 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506893": {
+   "fragment_id": "175506384",
+   "type": 11,
+   "heading": "Artigo 38.º — Cancelamento oficioso",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 38.º — Cancelamento oficioso\n\nA inobservância do disposto nos artigos 22.º e 27.º dá lugar ao cancelamento oficioso dos respectivos registos.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506885": {
+   "fragment_id": "175506385",
+   "type": 11,
+   "heading": "Artigo 39.º — Fiscalização e competência em matéria de contra-ordenações",
+   "in_force_from": "2009-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 39.º — Fiscalização e competência em matéria de contra-ordenações\n\n1 - Incumbe ao Instituto da Comunicação Social a fiscalização do cumprimento das normas do presente diploma.\n\n2 - A aplicação das coimas e sanções previstas no presente diploma é da competência do conselho regulador da Entidade Reguladora para a Comunicação Social.\n\n3 - A receita das coimas reverte em 60% para o Estado e 40% para o Instituto da Comunicação Social.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175531104": {
+   "fragment_id": "175506386",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais e transitórias"
+  },
+  "175531105": {
+   "fragment_id": "175506389",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de Abril de 1999. - António Manuel de Oliveira - Guterres - José Manuel de Matos - Fernandes - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 21 de Maio de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 27 de Maio de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\nANEXO\n\nTabela de emolumentos\n\nArtigo 1.º\n\nPublicações periódicas\n\nPor cada pedido de inscrição - 30000$00.\n\nPor cada inscrição definitiva - 20000$00.\n\nArtigo 2.º\n\nAverbamentos\n\nPor cada pedido de averbamento de alteração do capital social e dos seus detentores - 15000$00.\n\nPor qualquer outro pedido de averbamento - 10000$00.\n\nPor cada cancelamento de registo - 10000$00.\n\nArtigo 3.º\n\nEmpresas noticiosas e operadores de rádio e de televisão\n\nPor cada inscrição - 50000$00.\n\nArtigo 4.º\n\nCertidões\n\nPor cada certidão, até cinco páginas - 1000$00.\n\nPor cada página adicional - 200$00.\n\nArtigo 5.º\n\nRecusa ou desistência\n\nEm caso de recusa do registo ou desistência do acto requerido, proceder-se-á à devolução de 50% do valor do preparo efectuado.\n\nArtigo 6.º\n\nEmolumentos a cobrar\n\nEm caso de dúvida sobre se é devido um ou outro emolumento cobrar-se-á sempre o menor.\n\nArtigo 7.º\n\nReceita\n\nConstituem receita própria do Instituto da Comunicação Social as verbas cobradas ao abrigo da presente tabela."
+  },
+  "175531089": {
+   "fragment_id": "175504241",
+   "type": 1,
+   "heading": "Capítulo I — Registos em geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Registos em geral"
+  },
+  "175506945": {
+   "fragment_id": "175504242",
+   "type": 11,
+   "heading": "Artigo 1.º — Registos",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 1.º — Registos\n\n1 - Compete à Entidade Reguladora para a Comunicação Social (ERC) assegurar a existência de um registo específico dos órgãos de comunicação social, dos serviços audiovisuais a pedido e das plataformas de partilha de vídeos, bem como dos respetivos operadores e fornecedores, nacionais ou sujeitos à jurisdição do Estado Português nos termos do direito internacional aplicável.\n\n2 - O registo tem por finalidades comprovar a situação jurídica dos órgãos de comunicação social, publicitar a sua propriedade, a sua organização, o seu funcionamento e as suas obrigações, bem como assegurar a proteção legal dos títulos de imprensa, da denominação dos operadores de rádio e serviços de programas radiofónicos, dos operadores de televisão e serviços de programas televisivos, dos serviços de programas de rádio e de televisão difundidos exclusivamente através da Internet, dos operadores de serviços audiovisuais a pedido e serviços audiovisuais a pedido e dos fornecedores de plataformas de partilha de vídeos e as plataformas de partilha de vídeos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506946": {
+   "fragment_id": "175504243",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto do registo",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 2.º — Objecto do registo\n\nEstão sujeitos a registo:\n\na) As publicações periódicas;\n\nb) As empresas jornalísticas;\n\nc) As empresas noticiosas;\n\nd) Os operadores de rádio e serviços de programas radiofónicos;\n\ne) Os operadores de televisão e serviços de programas televisivos;\n\nf) Os operadores de distribuição, na acepção prevista na Lei n.º 27/2007, de 30 de Julho.\n\ng) Os serviços de programas de rádio e de televisão difundidos exclusivamente através da Internet;\n\nh) Os operadores de serviços audiovisuais a pedido e os serviços audiovisuais a pedido;\n\ni) Os fornecedores de plataformas de partilha de vídeos e as plataformas de partilha de vídeos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506974": {
+   "fragment_id": "175504246",
+   "type": 11,
+   "heading": "Artigo 5.º — Iniciativa do registo",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 5.º — Iniciativa do registo\n\n1 - Os actos de registo dependem de requerimento do interessado, salvo nos casos previstos no presente diploma.\n\n2 - São efectuados oficiosamente pela Entidade Reguladora para a Comunicação Social os actos de registo relativos aos operadores de rádio, aos operadores de televisão e aos respectivos serviços de programas, bem como aos operadores de distribuição, licenciados ao abrigo da Lei n.º 27/2007, de 30 de Julho, sem prejuízo do disposto no número seguinte e no artigo 8.º\n\n3 - Revogado.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506947": {
+   "fragment_id": "175506587",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Verificação oficiosa",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01",
+    "Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441), em vigor a partir de 2008-03-13"
+   ],
+   "markdown": "###### Artigo 5.º-A — Verificação oficiosa\n\n1 - Para aferir dos motivos de recusa previstos na alínea b) do n.º 1 do artigo 19.º e na alínea d) do n.º 1 do artigo 26.º, bem como para aplicação do disposto no artigo 30.º, no artigo 36.º-E e nos artigos 36.º-I e 36.º-M, a ERC solicita ao Instituto Nacional da Propriedade Industrial, I. P. (INPI, I. P.), a informação comprovativa de que não se encontram aí registados direitos anteriores que possam obstar ao registo dos órgãos de comunicação social, dos serviços audiovisuais a pedido ou das plataformas de partilha de vídeo a que se refere o presente decreto regulamentar.\n\n2 - A informação deve ser prestada pelo INPI, I. P., no prazo de dois dias úteis a contar da recepção do pedido efectuado pela Entidade Reguladora para a Comunicação Social.\n\n3 - As comunicações entre a Entidade Reguladora para a Comunicação Social e o INPI, I. P., previstas nos números anteriores são exclusivamente efectuadas através de meios electrónicos.\n\n4 - A partilha de dados e ou documentos necessários à realização de atos de registo, desde que assegurado o cumprimento das regras relativas à proteção de dados pessoais, pode ser realizada através da Plataforma de Interoperabilidade da Administração Pública (iAP).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 7/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441), em vigor a partir de 2008-03-13"
+  },
+  "175506948": {
+   "fragment_id": "175504247",
+   "type": 11,
+   "heading": "Artigo 6.º — Legitimidade para o registo",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 6.º — Legitimidade para o registo\n\n1 - As inscrições iniciais e os averbamentos são requeridos pela entidade que pretenda promover a edição de publicações periódicas, pela entidade que pretenda desenvolver a atividade de empresa noticiosa, pela entidade que pretenda difundir serviços de programas exclusivamente através da Internet, pela entidade que pretenda prestar serviços audiovisuais a pedido e pela entidade que pretenda fornecer plataformas de partilha de vídeos e, quando aplicável, pelos operadores de rádio, pelos operadores de televisão e pelos operadores de distribuição.\n\n2 - As autoridades administrativas ou judiciais que apliquem sanções de suspensão ou cessação da actividade radiofónica ou televisiva devem comunicar esse facto à Divisão de Registos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506949": {
+   "fragment_id": "175504248",
+   "type": 11,
+   "heading": "Artigo 7.º — Convite ao aperfeiçoamento e renovação do pedido",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Convite ao aperfeiçoamento e renovação do pedido\n\n1 - Se o requerimento de registo padecer de deficiência de instrução, os interessados são convidados a supri-la no prazo de 10 dias úteis, sob pena de recusa do registo.\n\n2 - O prazo previsto no número anterior pode ser prorrogado a pedido dos interessados.\n\n3 - O requerimento do registo recusado nos termos do n.º 1 pode ser renovado a todo o tempo a pedido dos interessados, desde que as deficiências verificadas sejam supridas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+  },
+  "175506950": {
+   "fragment_id": "175504250",
+   "type": 11,
+   "heading": "Artigo 9.º — Livros de registo",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 9.º — Livros de registo\n\n1 - Na Entidade Reguladora para a Comunicação Social existem os seguintes livros:\n\na) Livro diário;\n\nb) Livro de registo de publicações periódicas;\n\nc) Livro de registo de empresas jornalísticas;\n\nd) Livro de registo de empresas noticiosas;\n\ne) Livro de registo dos operadores de rádio e respectivos serviços de programas;\n\nf) Livro de registo dos operadores de televisão e respectivos serviços de programas;\n\ng) Livro de registo dos operadores de distribuição;\n\nh) Livro de registo dos serviços de programas difundidos exclusivamente através da Internet.\n\ni) Livro de registo dos operadores de serviços audiovisuais a pedido e respetivos serviços audiovisuais a pedido;\n\nj) Livro de registo dos fornecedores de plataformas de partilha de vídeos e respetivas plataformas de partilha de vídeos.\n\n2 - O livro diário destina-se à anotação especificada e sequencial dos actos de registo requeridos, bem como à menção do despacho que sobre eles recaiu.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506951": {
+   "fragment_id": "175504251",
+   "type": 11,
+   "heading": "Artigo 10.º — Informatização",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 10.º — Informatização\n\n1 - O livro diário pode ser substituído pela listagem diária das anotações de apresentação dos pedidos de registo, obtida por meios informáticos e confirmada pelo responsável da Divisão de Registos.\n\n2 - Os atos de registo são lavrados e assinados em suporte informático.\n\n3 - Os requerimentos de registo e outras comunicações dos interessados podem ser apresentados através de procedimentos eletrónicos, os quais são definidos pela ERC e podem ser acessíveis através do portal ePortugal.\n\n4 - Para acesso aos procedimentos eletrónicos devem ser utilizados mecanismos de autenticação segura, incluindo os do Cartão de Cidadão e Chave Móvel Digital, com recurso ao Sistema de Certificação de Atributos Profissionais (SCAP), bem como os meios de identificação eletrónica emitidos noutros Estados-Membros reconhecidos para o efeito nos termos do artigo 6.º do Regulamento (UE) n.º 910/2014 do Parlamento Europeu e do Conselho, de 23 de julho de 2014.\n\n5 - Os documentos submetidos pelas entidades requerentes através de procedimentos eletrónicos devem ser assinados com recurso a assinaturas eletrónicas qualificadas, incluindo as do Cartão de Cidadão e Chave Móvel Digital, com possibilidade de recurso ao SCAP, ou outras que constem da Lista Europeia de Serviços de Confiança, sem prejuízo do disposto no artigo 4.º da Lei n.º 37/2014, de 26 de junho, na sua redação atual.\n\n6 - As entidades requerentes são dispensadas da apresentação de documentos que já se encontrem na posse de serviços e entidades da Administração Pública quando derem o seu consentimento para que se proceda à sua obtenção, utilizando a iAP ou recorrendo ao mecanismo de portabilidade de dados previsto no n.º 2 do artigo 4.º-A da Lei n.º 37/2014, de 26 de junho, na sua redação atual.\n\n7 - As notificações aos interessados, incluindo nos processos de contraordenação, podem ser feitas através do Serviço Público de Notificações Eletrónicas sempre que o notificando a ele tenha aderido, nos termos do Decreto-Lei n.º 93/2017, de 1 de agosto.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506952": {
+   "fragment_id": "175504252",
+   "type": 11,
+   "heading": "Artigo 11.º — Emolumentos",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 10-BC/99 - Diário da República n.º 150/1999, 3º Suplemento, Série I-B de 1999-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-bc-1999-167062), em vigor a partir de 1999-06-14"
+   ],
+   "markdown": "###### Artigo 11.º — Emolumentos\n\n1 - Pelos atos de registo previstos no presente decreto regulamentar são devidos os emolumentos constantes de tabela a publicar em portaria do membro do Governo responsável pela área da comunicação social.\n\n2 - O pagamento dos emolumentos deve ser prévio aos atos de registo requeridos.\n\n3 - Os pagamentos realizados por meios eletrónicos podem ser efetuados através da Plataforma de Pagamentos da Administração Pública.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 10-BC/99 - Diário da República n.º 150/1999, 3º Suplemento, Série I-B de 1999-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-bc-1999-167062), em vigor a partir de 1999-06-14"
+  },
+  "175506943": {
+   "fragment_id": "175506632",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Divulgação em dados abertos",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 11.º-A — Divulgação em dados abertos\n\nA publicação, divulgação e disponibilização, para consulta ou outro fim, de informações, documentos e outros conteúdos que, pela sua natureza e nos termos do presente decreto regulamentar, possam ou devam ser disponibilizados ao público, sem prejuízo do uso simultâneo de outros meios, deve estar disponível em formatos abertos, que permitam a leitura por máquina, para ser colocada ou indexada no Portal de Dados Abertos da Administração Pública, em www.dados.gov.pt.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+  },
+  "175531090": {
+   "fragment_id": "175504253",
+   "type": 1,
+   "heading": "Capítulo II — Registo das publicações periódicas e das empresas jornalísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Registo das publicações periódicas e das empresas jornalísticas"
+  },
+  "175506953": {
+   "fragment_id": "175504254",
+   "type": 11,
+   "heading": "Artigo 12.º — Publicações periódicas excluídas do registo",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 12.º — Publicações periódicas excluídas do registo\n\n1 - Estão excluídas do registo as seguintes publicações periódicas:\n\na) As que não sejam postas à disposição do público em geral;\n\nb) As que pertençam ou sejam editadas, directa ou indirectamente, pela administração central, regional ou local, bem como por quaisquer serviços ou departamentos delas dependentes;\n\nc) As diferentes séries do Diário da República e o Jornal Oficial da União Europeia;\n\nd) As que constituem suplementos de periódicos, desde que façam parte integrante destes e sejam publicados e distribuídos conjuntamente;\n\ne) As que pertençam ou sejam editadas por representações diplomáticas, culturais e comerciais estrangeiras.\n\nf) As que não integrem o conceito de imprensa na aceção prevista na Lei n.º 2/99, de 13 de janeiro, na sua redação atual.\n\n2 - O registo das publicações previstas nas alíneas b) e e) do número anterior é opcional e da iniciativa do interessado, aplicando-se o regime previsto para as demais publicações periódicas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506954": {
+   "fragment_id": "175504259",
+   "type": 11,
+   "heading": "Artigo 17.º — Elementos do registo",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 17.º — Elementos do registo\n\n1 - São elementos do registo de publicações periódicas:\n\na) Título, periodicidade e sede de redacção;\n\nb) Nome do director designado e do director-adjunto ou subdirector, se existirem;\n\nc) Nome ou denominação da entidade proprietária, domicílio ou sede, e forma jurídica que revista;\n\nd) Domicílio ou sede do requerente;\n\ne) Nome, nacionalidade e sede do editor assim como, se for esse o caso, indicação da sua representação permanente em Portugal.\n\nf) Endereço de correio eletrónico.\n\n2 - São elementos do registo das empresas jornalísticas:\n\na) Denominação da empresa e forma jurídica que revista;\n\nb) Sede.\n\nc) (Revogada.)\n\nd) (Revogada.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506955": {
+   "fragment_id": "175504260",
+   "type": 11,
+   "heading": "Artigo 18.º — Requisitos do requerimento",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441), em vigor a partir de 2008-03-13"
+   ],
+   "markdown": "###### Artigo 18.º — Requisitos do requerimento\n\n1 - O requerimento para inscrição de publicações periódicas deve conter todos os elementos enunciados no n.º 1 do artigo anterior, acompanhado dos seguintes documentos:\n\na) Sinopse do projecto editorial pretendido, contendo a temática da publicação, a previsão do número de páginas, a respectiva área de distribuição, a tiragem prevista e, tratando-se de publicações periódicas informativas, o projecto de estatuto editorial;\n\nb) Um exemplar, em tamanho natural, do logótipo da publicação periódica, entendido aquela como o conjunto formado pela imagem figurativa e gráfica, incluindo o tipo de letra utilizado, e pela cor e combinação de cores escolhidas;\n\nc) Declaração de aceitação do cargo por parte do director;\n\nc) Declaração de aceitação do cargo por parte do director e fotocópia do seu bilhete de identidade;\n\nd) Revogada;\n\ne) Declaração simples que ateste a relação contratual e os tipos de serviços prestados pelo editor, sempre que o mesmo se tratar de pessoa coletiva distinta do proprietário.\n\n2 - O requerimento para inscrição de empresas jornalísticas deve conter os elementos enunciados no n.º 2 do artigo anterior, acompanhado de instrumento de constituição e código de acesso à certidão permanente ou certidão do registo comercial atualizada, ou estatutos da requerente, consoante se trate de sociedade comercial ou pessoa coletiva sem fins lucrativos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441), em vigor a partir de 2008-03-13"
+  },
+  "175506956": {
+   "fragment_id": "175504261",
+   "type": 11,
+   "heading": "Artigo 19.º — Recusa de registo",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 19.º — Recusa de registo\n\n1 - O registo deve ser recusado sempre que:\n\na) O facto requerido se encontre inscrito ou não esteja sujeito a registo;\n\nb) O título de publicação periódica pretendido já se encontre registado, nessa qualidade, a favor de terceiro no INPI;\n\nc) O título da publicação periódica contenha referência que não corresponda à periodicidade que se proponha observar;\n\nd) Falte legitimidade ao requerente;\n\ne) Seja notória a nulidade do facto.\n\nf) Por deficiência de instrução, sem prejuízo do disposto no artigo 7.º\n\n2 - É igualmente recusado o registo de publicação periódica cujo título, pela sua semelhança gráfica, figurativa, fonética ou vocabular, seja suscetível de se confundir com outro, já registado ou que já tenha sido requerido.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+  },
+  "175506957": {
+   "fragment_id": "175504263",
+   "type": 11,
+   "heading": "Artigo 21.º — Edição e suspensão de publicação",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 21.º — Edição e suspensão de publicação\n\n1 - As publicações periódicas devem observar a periodicidade que constar do seu registo.\n\n2 - A suspensão da edição das publicações periódicas não pode exceder os seguintes períodos de tempo:\n\na) Publicações diárias - até dois meses por ano;\n\nb) Publicações com periodicidade até mensal - até quatro meses por ano;\n\nc) Publicações com periodicidade até trimestral - até seis meses por ano;\n\nd) Publicações com periodicidade até semestral - até um ano;\n\ne) Publicações com periodicidade até anual - até dois anos.\n\n3 - A suspensão e o reinício da edição das publicações periódicas são comunicados à Entidade Reguladora para a Comunicação Social e são objecto de averbamento.\n\n4 - As publicações previstas nas alíneas a), b) e c) do n.º 2 devem observar o prazo de um ano entre o reinício da edição e o novo pedido de suspensão.\n\n5 - As publicações previstas nas alíneas d) e e) do n.º 2 devem observar o prazo de três anos entre o reinício da edição e o novo pedido de suspensão.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506958": {
+   "fragment_id": "175504265",
+   "type": 11,
+   "heading": "Artigo 23.º — Cancelamento oficioso do registo das publicações periódicas",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 23.º — Cancelamento oficioso do registo das publicações periódicas\n\n1 - O registo das publicações periódicas é cancelado oficiosamente sempre que se verifique a inobservância do disposto no n.º 1 do artigo 21.º\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506944": {
+   "fragment_id": "175506633",
+   "type": 11,
+   "heading": "Artigo 23.º-A — Cancelamento oficioso do registo das empresas jornalísticas",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 23.º-A — Cancelamento oficioso do registo das empresas jornalísticas\n\nA inscrição das empresas jornalísticas é cancelada oficiosamente sempre que as mesmas:\n\na) Deixem de titular registos de publicações periódicas;\n\nb) Deixem de ter como atividade principal a edição de publicações periódicas.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+  },
+  "175531091": {
+   "fragment_id": "175504266",
+   "type": 1,
+   "heading": "Capítulo III — Registo das empresas noticiosas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Registo das empresas noticiosas"
+  },
+  "175506959": {
+   "fragment_id": "175504267",
+   "type": 11,
+   "heading": "Artigo 24.º — Elementos do registo",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 24.º — Elementos do registo\n\nSão elementos do registo das empresas noticiosas:\n\na) Nome ou denominação da entidade proprietária e forma jurídica que revista;\n\nb) Sigla utilizada;\n\nc) Domicílio ou sede da entidade proprietária;\n\nd) (Revogada.)\n\ne) (Revogada.)\n\nf) Nome do director de informação.\n\ng) Endereço de correio eletrónico.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175531075": {
+   "fragment_id": "175504268",
+   "type": 11,
+   "heading": "Artigo 25.º — Requisitos do requerimento",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441), em vigor a partir de 2008-03-13",
+    "Retificado pelo/a [Declaração de Rectificação n.º 10-BC/99 - Diário da República n.º 150/1999, 3º Suplemento, Série I-B de 1999-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-bc-1999-167062), em vigor a partir de 1999-06-14"
+   ],
+   "markdown": "###### Artigo 25.º — Requisitos do requerimento\n\nO requerimento para inscrição das empresas noticiosas deve conter os elementos enunciados no artigo anterior, acompanhado dos seguintes documentos:\n\na) Fotocópia de documento de identificação do requerente;\n\nb) Instrumento de constituição e código de acesso electrónico à certidão permanente ou certidão do registo comercial actualizada;\n\nc) Revogada;\n\nd) Revogada.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2008 - Diário da República n.º 41/2008, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441), em vigor a partir de 2008-03-13\n\n> Retificado pelo/a [Declaração de Rectificação n.º 10-BC/99 - Diário da República n.º 150/1999, 3º Suplemento, Série I-B de 1999-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-bc-1999-167062), em vigor a partir de 1999-06-14"
+  },
+  "175506960": {
+   "fragment_id": "175504269",
+   "type": 11,
+   "heading": "Artigo 26.º — Recusa de registo",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 26.º — Recusa de registo\n\n1 - O registo deve ser recusado sempre que:\n\na) O facto requerido se encontre inscrito ou não esteja sujeito a registo;\n\nb) Falte legitimidade ao requerente;\n\nc) Seja notória a nulidade do facto;\n\nd) A sigla pretendida já se encontre registada, nessa qualidade, a favor de terceiro, no INPI.\n\ne) Por deficiência de instrução, sem prejuízo do disposto no artigo 7.º\n\n2 - É igualmente recusado o registo das empresas noticiosas cuja sigla seja suscetível de se confundir com outra já registada ou que já tenha sido requerida.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+  },
+  "175506961": {
+   "fragment_id": "175506590",
+   "type": 11,
+   "heading": "Artigo 27.º-A — Cancelamento oficioso do registo das empresas noticiosas",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 27.º-A — Cancelamento oficioso do registo das empresas noticiosas\n\nO registo das empresas noticiosas é cancelado oficiosamente pela ERC quando:\n\na) Não seja cumprida a obrigação de comunicação prevista no artigo anterior;\n\nb) Cesse o exercício da sua atividade.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175531092": {
+   "fragment_id": "175504271",
+   "type": 1,
+   "heading": "Capítulo IV — Registo dos operadores radiofónicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Registo dos operadores radiofónicos"
+  },
+  "175506962": {
+   "fragment_id": "175504272",
+   "type": 11,
+   "heading": "Artigo 28.º — Elementos do registo",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 28.º — Elementos do registo\n\nSão elementos do registo dos operadores de rádio e dos respectivos serviços de programas:\n\na) Identificação e sede do operador;\n\nb) Denominação ou designação dos serviços de programas;\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) Identificação dos responsáveis pelas áreas de programação e informação;\n\nf) Localização das instalações das estações emissoras;\n\ng) Nome de canal de programa (PS);\n\nh) (Revogada.)\n\ni) Classificação dos serviços de programas quanto ao âmbito de cobertura e quanto ao conteúdo da sua programação;\n\nj) Data da emissão e prazo da licença ou da autorização, bem como a data das respectivas renovações;\n\nl) Identificação do estabelecimento a partir do qual é difundida a emissão.\n\nm) Cópia da carteira de jornalista ou cartão de equiparado do responsável de informação;\n\nn) Endereço de correio eletrónico.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175531093": {
+   "fragment_id": "175506377",
+   "type": 1,
+   "heading": "Capítulo V — Registo dos operadores televisivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Registo dos operadores televisivos"
+  },
+  "175506963": {
+   "fragment_id": "175506378",
+   "type": 11,
+   "heading": "Artigo 33.º — Elementos do registo",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 33.º — Elementos do registo\n\nSão elementos do registo dos operadores de televisão e dos respectivos serviços de programas:\n\na) Identificação e sede do operador;\n\nb) Denominação ou designação dos serviços de programas;\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) Identificação dos responsáveis pela programação e informação;\n\nf) (Revogada.)\n\ng) Classificação dos serviços de programas quanto ao âmbito de cobertura e quanto ao conteúdo da sua programação;\n\nh) Data da emissão e prazo da licença ou da autorização, bem como data das respectivas renovações.\n\ni) Cópia da carteira de jornalista ou cartão de equiparado do responsável de informação;\n\nj) Endereço de correio eletrónico.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175531118": {
+   "fragment_id": "175506591",
+   "type": 11,
+   "heading": "Artigo 36.º-A — Elementos do registo",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 36.º-A — Elementos do registo\n\nSão elementos do registo dos operadores de distribuição:\n\na) Identificação e sede do operador;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) Serviços de programas que compõem a sua oferta e respectiva ordenação;\n\ne) Data da emissão e prazo da licença, bem como a data das respectivas renovações, quando aplicáveis.\n\nf) Endereço de correio eletrónico.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175531094": {
+   "fragment_id": "175506618",
+   "type": 1,
+   "heading": "Capítulo V-B — Registo dos serviço de programas difundidos exclusivamente através da Internet",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "### Capítulo V-B — Registo dos serviço de programas difundidos exclusivamente através da Internet\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+  },
+  "175506939": {
+   "fragment_id": "175506628",
+   "type": 11,
+   "heading": "Artigo 36.º-C — Elementos do registo",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 36.º-C — Elementos do registo\n\nSão elementos do registo de serviço de programas, de rádio ou televisão, difundidos exclusivamente pela Internet:\n\na) Identificação e domicílio ou sede da pessoa singular ou coletiva, respetivamente;\n\nb) Denominação ou designação do serviço de programas;\n\nc) Identificação dos responsáveis pelas áreas de programação e informação;\n\nd) Cópia da carteira de jornalista ou cartão de equiparado do responsável de informação;\n\ne) Sítio na Internet;\n\nf) Endereço de correio eletrónico.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+  },
+  "175506940": {
+   "fragment_id": "175506629",
+   "type": 11,
+   "heading": "Artigo 36.º-D — Início de emissão",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 36.º-D — Início de emissão\n\nOs titulares de serviço de programas, de rádio ou televisão, difundidos exclusivamente pela Internet devem proceder ao registo na ERC nos 60 dias após o início da sua emissão.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+  },
+  "175506941": {
+   "fragment_id": "175506630",
+   "type": 11,
+   "heading": "Artigo 36.º-E — Impedimento do registo",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 36.º-E — Impedimento do registo\n\nO serviço de programas, de rádio ou televisão, difundidos exclusivamente através da Internet não é registado pela ERC quando a denominação do mesmo seja idêntica ou confundível com outra que já se encontre registada a favor de terceiro nesta entidade ou, nessa qualidade, a favor de terceiro no INPI, I. P.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+  },
+  "175506942": {
+   "fragment_id": "175506631",
+   "type": 11,
+   "heading": "Artigo 36.º-F — Cancelamento oficioso",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 36.º-F — Cancelamento oficioso\n\nO registo de serviço de programas, de rádio ou televisão, difundidos exclusivamente através da Internet é cancelado oficiosamente pela ERC quando o mesmo cessar a sua emissão.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+  },
+  "175531095": {
+   "fragment_id": "175506619",
+   "type": 1,
+   "heading": "Capítulo V-C — Registo dos operadores de serviços audiovisuais a pedido",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "### Capítulo V-C — Registo dos operadores de serviços audiovisuais a pedido\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+  },
+  "175506936": {
+   "fragment_id": "175506625",
+   "type": 11,
+   "heading": "Artigo 36.º-G — Elementos do registo",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 36.º-G — Elementos do registo\n\nSão elementos do registo dos operadores de serviços audiovisuais a pedido e respetivos serviços de programas:\n\na) Identificação e sede do operador;\n\nb) Designação dos serviços audiovisuais a pedido;\n\nc) O endereço geográfico onde se encontram estabelecidos;\n\nd) Sítio na Internet, quando aplicável;\n\ne) Identificação do responsável pela seleção e organização do catálogo de programas de cada serviço;\n\nf) Endereço de correio eletrónico.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+  },
+  "175506937": {
+   "fragment_id": "175506626",
+   "type": 11,
+   "heading": "Artigo 36.º-H — Início de atividade",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 36.º-H — Início de atividade\n\n1 - As entidades proprietárias de serviços audiovisuais a pedido não podem iniciar a atividade antes de efetuar o registo.\n\n2 - As entidades previstas no número anterior dispõem de um prazo de três meses após a entrada em vigor do presente decreto regulamentar para efetuar o registo.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+  },
+  "175506938": {
+   "fragment_id": "175506627",
+   "type": 11,
+   "heading": "Artigo 36.º-I — Normas aplicáveis",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 36.º-I — Normas aplicáveis\n\nAo registo dos operadores de serviços audiovisuais a pedido e aos respetivos serviços de programas é aplicável, com as necessárias adaptações, o disposto nos artigos 36.º-E e 36.º-F.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+  },
+  "175531096": {
+   "fragment_id": "175506620",
+   "type": 1,
+   "heading": "Capítulo V-D — Registo dos fornecedores de plataformas de partilha de vídeos",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "### Capítulo V-D — Registo dos fornecedores de plataformas de partilha de vídeos\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+  },
+  "175506933": {
+   "fragment_id": "175506622",
+   "type": 11,
+   "heading": "Artigo 36.º-J — Elementos do registo",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 36.º-J — Elementos do registo\n\nSão elementos do registo dos fornecedores de plataformas de partilha de vídeos:\n\na) Identificação e sede do fornecedor;\n\nb) Designação das plataformas de partilha de vídeos fornecidas;\n\nc) Identificação dos responsáveis por cada plataforma de partilha de vídeos;\n\nd) Endereço geográfico onde se encontra estabelecidos;\n\ne) Sítio na Internet, quando aplicável;\n\nf) Endereço de correio eletrónico.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+  },
+  "175506934": {
+   "fragment_id": "175506623",
+   "type": 11,
+   "heading": "Artigo 36.º-L — Início de atividade",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 36.º-L — Início de atividade\n\n1 - Os fornecedores de plataformas de partilha de vídeos não podem iniciar a atividade antes de efetuar o registo.\n\n2 - As entidades previstas no número anterior dispõem de um prazo de três meses após a entrada em vigor do presente decreto regulamentar para efetuar o registo.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+  },
+  "175506935": {
+   "fragment_id": "175506624",
+   "type": 11,
+   "heading": "Artigo 36.º-M — Normas aplicáveis",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 36.º-M — Normas aplicáveis\n\nAo registo dos fornecedores de plataformas de partilha de vídeos e plataformas fornecidas é aplicável, com as necessárias adaptações, o disposto nos artigos 36.º-E e 36.º-F.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01"
+  },
+  "175506930": {
+   "fragment_id": "175506382",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições sancionatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições sancionatórias"
+  },
+  "175506965": {
+   "fragment_id": "175506383",
+   "type": 11,
+   "heading": "Artigo 37.º — Contra-ordenações",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+   ],
+   "markdown": "###### Artigo 37.º — Contra-ordenações\n\n1 - Constitui contra-ordenação, punível com coima:\n\na) De (euro) 249,39 a (euro) 498,79, a inobservância do disposto nos artigos 8.º e 21.º, n.º 3;\n\nb) De (euro) 498,79 a (euro) 2493,99, a inobservância do disposto nos n.os 1 e 2 do artigo 21.º;\n\nc) De (euro) 2493,99 a (euro) 4987,97, a inobservância do disposto nos artigos 13.º, 27.º, 36.º-D, bem como nos n.os 1 e 2 dos artigos 36.º-H e 36-º-L.\n\n2 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2009 - Diário da República n.º 18/2009, Série I de 2009-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), em vigor a partir de 2009-02-01"
+  },
+  "175506931": {
+   "fragment_id": "175506386",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais e transitórias"
+  },
+  "175506932": {
+   "fragment_id": "175506389",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de Abril de 1999. - António Manuel de Oliveira - Guterres - José Manuel de Matos - Fernandes - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 21 de Maio de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 27 de Maio de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\nANEXO\n\nTabela de emolumentos\n\nArtigo 1.º\n\nPublicações periódicas\n\nPor cada pedido de inscrição - 30000$00.\n\nPor cada inscrição definitiva - 20000$00.\n\nArtigo 2.º\n\nAverbamentos\n\nPor cada pedido de averbamento de alteração do capital social e dos seus detentores - 15000$00.\n\nPor qualquer outro pedido de averbamento - 10000$00.\n\nPor cada cancelamento de registo - 10000$00.\n\nArtigo 3.º\n\nEmpresas noticiosas e operadores de rádio e de televisão\n\nPor cada inscrição - 50000$00.\n\nArtigo 4.º\n\nCertidões\n\nPor cada certidão, até cinco páginas - 1000$00.\n\nPor cada página adicional - 200$00.\n\nArtigo 5.º\n\nRecusa ou desistência\n\nEm caso de recusa do registo ou desistência do acto requerido, proceder-se-á à devolução de 50% do valor do preparo efectuado.\n\nArtigo 6.º\n\nEmolumentos a cobrar\n\nEm caso de dúvida sobre se é devido um ou outro emolumento cobrar-se-á sempre o menor.\n\nArtigo 7.º\n\nReceita\n\nConstituem receita própria do Instituto da Comunicação Social as verbas cobradas ao abrigo da presente tabela."
+  }
+ }
+}

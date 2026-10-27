@@ -1,0 +1,1107 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32008R1205:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R1205-20081224",
+ "dre_path": null,
+ "source_lastmod": "2008-12-24",
+ "versions": [
+  {
+   "date": "2008-12-04",
+   "future": false,
+   "celex": "32008R1205",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "79e902eaa6c54619",
+    "06d1994946f102c4",
+    "7abfa7f73f974207",
+    "ff000438950a0614",
+    "1587766017dc9789",
+    "2b4fe743b67169fe"
+   ]
+  },
+  {
+   "date": "2008-12-24",
+   "future": false,
+   "celex": "02008R1205-20081224",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita ANEXO",
+    "Adita DISPOSIÇÕES DE EXECUÇÃO DE METADADOS",
+    "Adita PARTE A",
+    "Adita Interpretação",
+    "Adita PARTE B",
+    "Adita Elementos de metadados",
+    "Adita 1. IDENTIFICAÇÃO",
+    "Adita 1.1. Título do recurso",
+    "Adita 1.2. Resumo do recurso",
+    "Adita 1.3. Tipo do recurso",
+    "Adita 1.4. Localizador do recurso",
+    "Adita 1.5. Identificador único do recurso",
+    "Adita 1.6. Recurso associado",
+    "Adita 1.7. Idioma do recurso",
+    "Adita 2. CLASSIFICAÇÃO DOS DADOS E SERVIÇOS GEOGRÁFICOS",
+    "Adita 2.1. Categoria temática",
+    "Adita 2.2. Tipo de serviço de dados geográficos",
+    "Adita 3. PALAVRA-CHAVE",
+    "Adita 3.1. Valor da palavra-chave",
+    "Adita 3.2. Léxico controlado de origem",
+    "Adita 4. Localização Geográfica",
+    "Adita 4.1. Rectângulo envolvente",
+    "Adita 5. REFERÊNCIA TEMPORAL",
+    "Adita 5.1. Extensão temporal",
+    "Adita 5.2. Data de publicação",
+    "Adita 5.3. Data da última revisão",
+    "Adita 5.4. Data da criação",
+    "Adita 6. QUALIDADE E VALIDADE",
+    "Adita 6.1. Histórico",
+    "Adita 6.2. Resolução espacial",
+    "Adita 7. CONFORMIDADE",
+    "Adita 7.1. Especificação",
+    "Adita 7.2. Grau",
+    "Adita 8. RESTRIÇÕES RELACIONADAS COM O ACESSO E UTILIZAÇÃO",
+    "Adita 8.1. Condições aplicáveis ao acesso e utilização",
+    "Adita 8.2. Restrições ao acesso do público",
+    "Adita 9. ORGANIZAÇÕES RESPONSÁVEIS PELO ESTABELECIMENTO, GESTÃO, MANUTENÇÃO E DISTRIBUIÇÃO DE CONJUNTOS E SERVIÇOS DE DADOS GEOGRÁFICOS",
+    "Adita 9.1. Entidade responsável",
+    "Adita 9.2. Função da entidade responsável",
+    "Adita 10. METAMETADADOS",
+    "Adita 10.1. Contacto do responsável pelos metadados",
+    "Adita 10.2. Data dos metadados",
+    "Adita 10.3. Idioma dos metadados",
+    "Adita PARTE C",
+    "Adita Instruções sobre multiplicidade e condições dos elementos de metadados",
+    "Adita PARTE D",
+    "Adita Domínios de valores",
+    "Adita 1. TIPO DO RECURSO",
+    "Adita 2. CATEGORIAS TEMÁTICAS EM CONFORMIDADE COM A NORMA EN ISO 19115",
+    "Adita 2.1. Agricultura (farming)",
+    "Adita 2.2. Biótopos (biota)",
+    "Adita 2.3. Limites administrativos (boundaries)",
+    "Adita 2.4. Climatologia/Meteorologia/Atmosfera (climatologyMeteorologyAtmosphere)",
+    "Adita 2.5. Economia (economy)",
+    "Adita 2.6. Altimetria (elevation)",
+    "Adita 2.7. Ambiente (environment)",
+    "Adita 2.8. Informação geocientífica (geoscientificInformation)",
+    "Adita 2.9. Saúde (health)",
+    "Adita 2.10. Imagens / Cartografia de base / Coberturas de áreas (imageryBaseMapsEarthCover)",
+    "Adita 2.11. Informação / Militar (intelligenceMilitary)",
+    "Adita 2.12. Águas interiores (inlandWaters)",
+    "Adita 2.13. Localização (location)",
+    "Adita 2.14. Oceanos (oceans)",
+    "Adita 2.15. Planeamento/Cadastro (planningCadastre)",
+    "Adita 2.16. Sociedade (society)",
+    "Adita 2.17. Património edificado (structure)",
+    "Adita 2.18. Transportes (transportation)",
+    "Adita 2.19. Serviços de utilidade pública/Comunicações (utilitiesCommunication)",
+    "Adita 3. TIPO DE SERVIÇO DE DADOS GEOGRÁFICOS",
+    "Adita 3.1. Serviço de pesquisa (discovery)",
+    "Adita 3.2. Serviço de visualização (view)",
+    "Adita 3.3. Serviço de descarregamento (download)",
+    "Adita 3.4. Serviço de transformação (transformation)",
+    "Adita 3.5. Serviço de invocação de dados geográficos (invoke)",
+    "Adita 4. CLASSIFICAÇÃO DOS SERVIÇOS DE DADOS GEOGRÁFICOS",
+    "Adita 100 Serviços geográficos com interacção humana (humanInteractionService)",
+    "Adita 200 Serviço de gestão de informação/modelos geográficos (infoManagementService)",
+    "Adita 300 Serviços de gestão do fluxo de trabalho/tarefas geográficas (taskManagementService)",
+    "Adita 400 Serviços de processamento geográfico — elementos espaciais (spatialProcessingService)",
+    "Adita 500 Serviços de processamento geográfico — elementos temáticos (thematicProcessingService)",
+    "Adita 600 Serviços de processamento geográfico — elementos temporais (temporalProcessingService)",
+    "Adita 700 Serviços de processamento geográfico – metadados (metadataProcessingService)",
+    "Adita 800 Serviços de comunicação geográfica (comService)",
+    "Adita 5. GRAU DE CONFORMIDADE",
+    "Adita 5.1. Conforme (conformant)",
+    "Adita 5.2. Não conforme (notConformant)",
+    "Adita 5.3. Não avaliado (notEvaluated)",
+    "Adita 6. FUNÇÃO DA ENTIDADE RESPONSÁVEL",
+    "Adita 6.1. Fornecedor do recurso (resourceProvider)",
+    "Adita 6.2. Tutor (custodian)",
+    "Adita 6.3. Detentor (owner)",
+    "Adita 6.4. Utilizador (user)",
+    "Adita 6.5. Distribuidor (distributor)",
+    "Adita 6.6. Produtor (originator)",
+    "Adita 6.7. Contacto (pointOfContact)",
+    "Adita 6.8. Investigador principal (principalInvestigator)",
+    "Adita 6.9. Contacto do processo (processor)",
+    "Adita 6.10. Editor (publisher)",
+    "Adita 6.11. Autor (author)"
+   ],
+   "fragments": [
+    "e789296e5f420945",
+    "06d1994946f102c4",
+    "7abfa7f73f974207",
+    "ff000438950a0614",
+    "22ccdcaf8fc79bcc",
+    "10220b9774fa9034",
+    "d404bb3eea32c957",
+    "c7d0279d82ad71c6",
+    "8e9837a92f0778e9",
+    "b8e186e213931897",
+    "3221845699d5ac1d",
+    "c09a7d0d6d2d2035",
+    "fc9e6d31efe17683",
+    "ab57d5944610aa44",
+    "0fccdc703d51da4d",
+    "192a1de978913308",
+    "bf52990619cba63b",
+    "2f5e2c1c39f6354e",
+    "be765e2f5455e4de",
+    "16ef88fb5c40244f",
+    "4bfbf73954dc3786",
+    "174ced03fe6034fc",
+    "f7940331d3c12578",
+    "d9cc1a2967b5ff35",
+    "0ec5be79eebdf08a",
+    "8581b67c419e0c41",
+    "700d798851233904",
+    "ffd66df63cc6c7e5",
+    "f045b0caf14e0ed9",
+    "e3ded41cba582421",
+    "c6cca7c6ce98b38d",
+    "adfe5780ef0f984d",
+    "5dcce83ccc00d533",
+    "4e39e6c2afe9e4de",
+    "251871228bfce0a5",
+    "8923b0da62fd7918",
+    "f6ec7d65e2445353",
+    "916c8da596fc1cfe",
+    "7045a641d25a0b3e",
+    "2252f0dea23827aa",
+    "dc2e389fa72e7c27",
+    "ce02688f9885d8c0",
+    "013c2cb6084a4503",
+    "5adb71c2be919440",
+    "a993765e9b364e32",
+    "a7f20b97a3b60a15",
+    "ad3e1e71909aca75",
+    "547538172346bc75",
+    "91225de3a1c3c9e6",
+    "e06acb446245b94b",
+    "b2e2c2d3066e4f19",
+    "29fca3bd502a9325",
+    "c35a777b75e79051",
+    "45ef22ee5503b56e",
+    "976fc8a0f91a3280",
+    "38f3b6a5221bb054",
+    "dc040b560c99e814",
+    "ff045af88269a0e2",
+    "88aa0338c45e3fe3",
+    "9a6d166cb4cf8ed1",
+    "f0027f428908a3f1",
+    "0bc6d38bfe7793ad",
+    "d0e0e66a0fdb00a8",
+    "26b9cd035658f9b3",
+    "3017ebd9cd2c7023",
+    "e20325b0ba2f214b",
+    "8a2b3b20ca4785c3",
+    "c800f6b02f036b4c",
+    "7e8efd5ed6f7180d",
+    "9aa118a5472e5f47",
+    "e05e974cc4c3b714",
+    "265531ce8e6aecd6",
+    "3392001f79f7efce",
+    "00e6737736a4b160",
+    "88f771a6c8d8d0bd",
+    "c221dc8ac68ca603",
+    "5699cec4a33b5b7a",
+    "0c2e6126f298aa0d",
+    "9f7f570bd01816e7",
+    "5e58fcfe0e90d193",
+    "1d8972556a3e097c",
+    "dbd7b3a29fff1892",
+    "155cf885b299da4a",
+    "f8c93e7de17cb692",
+    "3029da95ad85eb0c",
+    "9d04b2d09a411fa7",
+    "0a58091e6de616b4",
+    "8d5c84f83e441204",
+    "5b1331f9dede951a",
+    "4c14513a292f376d",
+    "6832347375304201",
+    "b9541ff246aedea5",
+    "50a3a988b56c0d6a",
+    "fa9fc602e4b0f592",
+    "90d10a4c3d0d0bd5",
+    "117b6bfe5fb0b7c1",
+    "4e401a05ea0b16cb",
+    "b3d98c9a583e25f7",
+    "b1331c20e636eca1",
+    "81aa27192a569a90",
+    "596b2dd463aef97a",
+    "dd5047cd8e3c096d",
+    "01ad08f5c94bcb80",
+    "47a32596bd1a546d",
+    "91bad99371d07461"
+   ]
+  }
+ ],
+ "fragments": {
+  "79e902eaa6c54619": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Dezembro de 2008\n\nque estabelece as modalidades de aplicação da Directiva 2007/2/CE do Parlamento Europeu e do Conselho em matéria de metadados\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2007/2/CE do Parlamento Europeu e do Conselho, de 14 de Março de 2007, que estabelece uma infra-estrutura de informação geográfica na Comunidade Europeia (INSPIRE) [([^1])](http://publications.europa.eu/resource/cellar/33641cfc-da0e-4d57-8108-a88b7a89862d.0018.03/DOC_1#ntr1-L_2008326PT.01001201-E0001), nomeadamente o n.º 4 do artigo 5.º,\n\nConsiderando o seguinte:\n\n(1) A Directiva 2007/2/CE estabelece regras gerais para a criação da Infra-Estrutura de Informação Geográfica na Comunidade Europeia. Dado que, para o bom funcionamento dessa infra-estrutura, é necessário que o utilizador possa encontrar conjuntos e serviços de dados geográficos e determinar se, e para que fins, estes podem ser utilizados, os Estados-Membros devem apresentar descrições desses conjuntos e serviços de dados geográficos sob a forma de metadados. Uma vez que esses metadados devem ser compatíveis e utilizáveis num contexto comunitário e transfronteiriço, é necessário estabelecer regras aplicáveis aos metadados utilizados para descrever os conjuntos e serviços de dados geográficos correspondentes aos temas enumerados nos anexos I, II e III da Directiva 2007/2/CE.\n\n(2) É necessária a definição de um conjunto de elementos de metadados a fim de permitir a identificação do recurso de informação para o qual os metadados são criados, da sua classificação e da sua localização geográfica e referência temporal, da sua qualidade e validade, da sua conformidade com as disposições de execução relativas à interoperabilidade dos conjuntos e serviços de dados geográficos, dos condicionalismos relacionados com o acesso e utilização e da organização responsável por esse recurso. São também necessários elementos de metadados para o próprio registo de metadados, a fim de verificar se os metadados criados são mantidos actualizados e de identificar a organização responsável pela criação e manutenção dos metadados. Este é o conjunto mínimo de elementos de metadados necessário para dar cumprimento à Directiva 2007/2/CE e não exclui a possibilidade de as organizações documentarem os recursos de informação mais amplamente com elementos adicionais derivados de normas internacionais ou de práticas de trabalho seguidas na sua comunidade de interesse. Também não exclui a possibilidade de adoptar orientações estabelecidas e mantidas actualizadas pela Comissão, em particular quando é necessário assegurar a interoperabilidade dos metadados.\n\n(3) São necessárias instruções para a validação dos metadados de acordo com a Directiva 2007/2/CE no que se refere às condições e à multiplicidade prevista para cada elemento de metadados, ou seja, para decidir se os valores de cada elemento devem sempre figurar no registo de metadados e se podem ocorrer apenas uma vez ou mais de uma vez.\n\n(4) É necessário definir o domínio de valores de cada elemento de metadados para assegurar a interoperabilidade dos metadados num contexto multilingue e esse domínio de valores deve poder assumir a forma de texto livre, datas, códigos derivados de normas internacionais, como códigos de idiomas, palavras-chave derivadas de *thesaurus* ou listas controladas, ou outras cadeias de caracteres.\n\n(5) As medidas previstas no presente regulamento estão em conformidade com o parecer do comité instituído pelo artigo 22.º da Directiva 2007/2/CE,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "06d1994946f102c4": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente regulamento estabelece os requisitos aplicáveis à criação e manutenção de metadados para conjuntos de dados geográficos, séries de conjuntos de dados geográficos e serviços de dados geográficos correspondentes aos temas enumerados nos anexos I, II e III da Directiva 2007/2/CE."
+  },
+  "7abfa7f73f974207": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento são aplicáveis, para além das definições constantes do artigo 3.º da Directiva 2007/2/CE, as definições estabelecidas na parte A do anexo."
+  },
+  "ff000438950a0614": {
+   "fragment_id": "Artigo 3.º — Criação e manutenção de metadados",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Criação e manutenção de metadados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Criação e manutenção de metadados\n\nOs metadados que descrevem um conjunto de dados geográficos, uma série de conjuntos de dados geográficos ou um serviço de dados geográficos devem incluir os elementos de metadados ou grupos de elementos de metadados estabelecidos na parte B do anexo e serão criados e mantidos em conformidade com as regras estabelecidas nas partes C e D."
+  },
+  "1587766017dc9789": {
+   "fragment_id": "Artigo 4.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 3 de Dezembro de 2008.\n\n***Pela Comissão***\n\n**Stavros DIMAS**\n\n***Membro da Comissão***\n\n---"
+  },
+  "2b4fe743b67169fe": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/33641cfc-da0e-4d57-8108-a88b7a89862d.0018.03/DOC_1#ntc1-L_2008326PT.01001201-E0001) [JO L 108 de 25.4.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_108_R_TOC)."
+  },
+  "e789296e5f420945": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Dezembro de 2008\n\nque estabelece as modalidades de aplicação da Directiva 2007/2/CE do Parlamento Europeu e do Conselho em matéria de metadados\n\n[**►C1**](http://publications.europa.eu/resource/celex/32008R1205R%2802%29) —————**◄**\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2007/2/CE do Parlamento Europeu e do Conselho, de 14 de Março de 2007, que estabelece uma infra-estrutura de informação geográfica na Comunidade Europeia (INSPIRE) ([^1^](http://publications.europa.eu/resource/cellar/547976e9-073d-4a2a-b834-a435cd0fb5e0.0018.03/DOC_1#E0001)), nomeadamente o n.º 4 do artigo 5.º,\n\n(1) A Directiva 2007/2/CE estabelece regras gerais para a criação da Infra-Estrutura de Informação Geográfica na Comunidade Europeia. Dado que, para o bom funcionamento dessa infra-estrutura, é necessário que o utilizador possa encontrar conjuntos e serviços de dados geográficos e determinar se, e para que fins, estes podem ser utilizados, os Estados-Membros devem apresentar descrições desses conjuntos e serviços de dados geográficos sob a forma de metadados. Uma vez que esses metadados devem ser compatíveis e utilizáveis num contexto comunitário e transfronteiriço, é necessário estabelecer regras aplicáveis aos metadados utilizados para descrever os conjuntos e serviços de dados geográficos correspondentes aos temas enumerados nos anexos I, II e III da Directiva 2007/2/CE.\n\n(2) É necessária a definição de um conjunto de elementos de metadados a fim de permitir a identificação do recurso de informação para o qual os metadados são criados, da sua classificação e da sua localização geográfica e referência temporal, da sua qualidade e validade, da sua conformidade com as disposições de execução relativas à interoperabilidade dos conjuntos e serviços de dados geográficos, dos condicionalismos relacionados com o acesso e utilização e da organização responsável por esse recurso. São também necessários elementos de metadados para o próprio registo de metadados, a fim de verificar se os metadados criados são mantidos actualizados e de identificar a organização responsável pela criação e manutenção dos metadados. Este é o conjunto mínimo de elementos de metadados necessário para dar cumprimento à Directiva 2007/2/CE e não exclui a possibilidade de as organizações documentarem os recursos de informação mais amplamente com elementos adicionais derivados de normas internacionais ou de práticas de trabalho seguidas na sua comunidade de interesse. Também não exclui a possibilidade de adoptar orientações estabelecidas e mantidas actualizadas pela Comissão, em particular quando é necessário assegurar a interoperabilidade dos metadados.\n\n(3) São necessárias instruções para a validação dos metadados de acordo com a Directiva 2007/2/CE no que se refere às condições e à multiplicidade prevista para cada elemento de metadados, ou seja, para decidir se os valores de cada elemento devem sempre figurar no registo de metadados e se podem ocorrer apenas uma vez ou mais de uma vez.\n\n(4) É necessário definir o domínio de valores de cada elemento de metadados para assegurar a interoperabilidade dos metadados num contexto multilingue e esse domínio de valores deve poder assumir a forma de texto livre, datas, códigos derivados de normas internacionais, como códigos de idiomas, palavras-chave derivadas de *thesaurus* ou listas controladas, ou outras cadeias de caracteres.\n\n(5) As medidas previstas no presente regulamento estão em conformidade com o parecer do comité instituído pelo artigo 22.º da Directiva 2007/2/CE,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "22ccdcaf8fc79bcc": {
+   "fragment_id": "Artigo 4.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "d404bb3eea32c957": {
+   "fragment_id": "DISPOSIÇÕES DE EXECUÇÃO DE METADADOS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES DE EXECUÇÃO DE METADADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES DE EXECUÇÃO DE METADADOS"
+  },
+  "c7d0279d82ad71c6": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PARTE A"
+  },
+  "8e9837a92f0778e9": {
+   "fragment_id": "Interpretação",
+   "type": "divisao",
+   "heading": "Interpretação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Interpretação\n\n1. São aplicáveis as seguintes definições: — «Cadeia de caracteres»: o domínio de valores dos elementos de metadados expresso como um conjunto de caracteres tratados como uma unidade; — «Texto livre»: o domínio de valores dos elementos de metadados expresso numa ou mais linguagens naturais; — «Histórico»: o historial de um conjunto de dados e o ciclo de vida desde a recolha e aquisição, passando pela compilação e derivação, até à sua forma actual, de acordo com o estabelecido na norma EN ISO 19101; — «Elemento de metadados»: uma unidade discreta de metadados, de acordo com o estabelecido na norma EN ISO 19115; — «Espaço de nomes»: um conjunto de nomes, identificados por uma referência de identificador uniforme de recursos (*Uniform Resource Identifier* - URI), utilizados em documentos em linguagem de marcação extensível (*Extensible Markup Language* - XML), como nomes de elementos e nomes de atributos; — «Qualidade»: a totalidade das características de um produto que dizem respeito à sua capacidade para satisfazer necessidades explícitas e implícitas, de acordo com o estabelecido na norma EN ISO 19101; — «Recurso»: um recurso de informação que faz directa ou indirectamente referência a uma localização ou zona geográfica específica; — «Série de conjuntos de dados geográficos»: uma colecção de conjuntos de dados geográficos que partilham a mesma especificação de produto.\n\n2. As referências à validade de conjuntos de dados geográficos devem ser entendidas como relacionadas com um dos seguintes aspectos: — Extensão geográfica e temporal que seja pertinente para os dados em causa; — Verificação ou não dos dados em função de uma norma de medição ou de desempenho; — Medida em que os dados estão adequados à finalidade; — Quando adequado, validade jurídica do conjunto de dados geográficos."
+  },
+  "b8e186e213931897": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PARTE B"
+  },
+  "3221845699d5ac1d": {
+   "fragment_id": "Elementos de metadados",
+   "type": "divisao",
+   "heading": "Elementos de metadados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Elementos de metadados"
+  },
+  "c09a7d0d6d2d2035": {
+   "fragment_id": "1. IDENTIFICAÇÃO",
+   "type": "divisao",
+   "heading": "1. IDENTIFICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. IDENTIFICAÇÃO\n\nDevem ser fornecidos os seguintes elementos de metadados:"
+  },
+  "fc9e6d31efe17683": {
+   "fragment_id": "1.1. Título do recurso",
+   "type": "divisao",
+   "heading": "1.1. Título do recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.1. Título do recurso\n\nEste é o nome característico, e frequentemente único, pelo qual é conhecido o recurso.\n\nO domínio de valores deste elemento de metadados é texto livre."
+  },
+  "ab57d5944610aa44": {
+   "fragment_id": "1.2. Resumo do recurso",
+   "type": "divisao",
+   "heading": "1.2. Resumo do recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.2. Resumo do recurso\n\nBreve resumo descritivo do conteúdo do recurso.\n\nO domínio de valores deste elemento de metadados é texto livre."
+  },
+  "0fccdc703d51da4d": {
+   "fragment_id": "1.3. Tipo do recurso",
+   "type": "divisao",
+   "heading": "1.3. Tipo do recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.3. Tipo do recurso\n\nÉ o tipo de recurso que é descrito pelos metadados.\n\nO domínio de valores deste elemento de metadados está definido na parte D.1."
+  },
+  "192a1de978913308": {
+   "fragment_id": "1.4. Localizador do recurso",
+   "type": "divisao",
+   "heading": "1.4. Localizador do recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.4. Localizador do recurso\n\nO localizador do recurso define a(s) ligação(ões) ao recurso e/ou a ligação a informação adicional sobre o recurso.\n\nO domínio de valores deste elemento de metadados é uma cadeia de caracteres, expressa geralmente como um localizador uniforme de recursos (*Uniform Resource Locator* — URL)."
+  },
+  "bf52990619cba63b": {
+   "fragment_id": "1.5. Identificador único do recurso",
+   "type": "divisao",
+   "heading": "1.5. Identificador único do recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.5. Identificador único do recurso\n\nUm valor que identifica o recurso de forma única.\n\nO domínio de valores deste elemento de metadados é um código de preenchimento obrigatório sob a forma de uma cadeia de caracteres, geralmente atribuído pelo detentor dos dados, e um espaço de nomes sob a forma de cadeia de caracteres que identifica, de forma única, o contexto do código do identificador (por exemplo, o detentor dos dados)."
+  },
+  "2f5e2c1c39f6354e": {
+   "fragment_id": "1.6. Recurso associado",
+   "type": "divisao",
+   "heading": "1.6. Recurso associado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.6. Recurso associado\n\nSe o recurso é um serviço de dados geográficos, este elemento de metadados identifica, quando relevante, o(s) respectivo(s) conjunto(s) de dados geográficos do serviço através dos seus identificadores únicos de recursos (URI).\n\nO domínio de valores deste elemento de metadados é um código obrigatório sob a forma de uma cadeia de caracteres, geralmente atribuído pelo detentor dos dados, e um espaço de nomes sob a forma de cadeia de caracteres que identifica, de forma única, o contexto do código do identificador (por exemplo, o detentor dos dados)."
+  },
+  "be765e2f5455e4de": {
+   "fragment_id": "1.7. Idioma do recurso",
+   "type": "divisao",
+   "heading": "1.7. Idioma do recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.7. Idioma do recurso\n\nO(s) idioma(s) utilizado(s) no âmbito do recurso.\n\nO domínio de valores deste elemento de metadados está limitado aos idiomas definidos na norma ISO 639-2."
+  },
+  "16ef88fb5c40244f": {
+   "fragment_id": "2. CLASSIFICAÇÃO DOS DADOS E SERVIÇOS GEOGRÁFICOS",
+   "type": "divisao",
+   "heading": "2. CLASSIFICAÇÃO DOS DADOS E SERVIÇOS GEOGRÁFICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. CLASSIFICAÇÃO DOS DADOS E SERVIÇOS GEOGRÁFICOS"
+  },
+  "4bfbf73954dc3786": {
+   "fragment_id": "2.1. Categoria temática",
+   "type": "divisao",
+   "heading": "2.1. Categoria temática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.1. Categoria temática\n\nA categoria temática é um sistema de classificação de alto nível que visa apoiar o agrupamento e a pesquisa por temas dos recursos de dados geográficos disponíveis.\n\nO domínio de valores deste elemento de metadados está definido na parte D.2."
+  },
+  "174ced03fe6034fc": {
+   "fragment_id": "2.2. Tipo de serviço de dados geográficos",
+   "type": "divisao",
+   "heading": "2.2. Tipo de serviço de dados geográficos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2. Tipo de serviço de dados geográficos\n\nÉ uma classificação que visa apoiar a pesquisa dos serviços de dados geográficos disponíveis. Um serviço específico será classificado apenas numa categoria.\n\nO domínio de valores deste elemento de metadados está definido na parte D.3."
+  },
+  "f7940331d3c12578": {
+   "fragment_id": "3. PALAVRA-CHAVE",
+   "type": "divisao",
+   "heading": "3. PALAVRA-CHAVE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. PALAVRA-CHAVE\n\nSe o recurso é um serviço de dados geográficos, deve ser fornecida, pelo menos, uma palavra-chave da lista constante da parte D.4.\n\nSe o recurso for um conjunto de dados geográficos ou uma série de conjuntos de dados geográficos, será fornecida, pelo menos, uma palavra-chave do Thesaurus Geral Multilingue sobre Recursos Ambientais (GEMET) que descreva o tema de dados geográficos relevante, conforme definido nos anexos I, II ou III da Directiva 2007/2/CE.\n\nPara cada palavra-chave devem ser fornecidos os seguintes elementos de metadados:"
+  },
+  "d9cc1a2967b5ff35": {
+   "fragment_id": "3.1. Valor da palavra-chave",
+   "type": "divisao",
+   "heading": "3.1. Valor da palavra-chave",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1. Valor da palavra-chave\n\nO valor da palavra-chave é geralmente uma palavra de uso comum ou uma palavra ou designação formalizada utilizada para descrever o assunto. A categoria temática é demasiado geral para pesquisas pormenorizadas, pelo que as palavras-chave ajudam a limitar uma pesquisa de texto completo e permitem uma pesquisa estruturada de palavras-chave.\n\nO domínio de valores deste elemento de metadados é texto livre."
+  },
+  "0ec5be79eebdf08a": {
+   "fragment_id": "3.2. Léxico controlado de origem",
+   "type": "divisao",
+   "heading": "3.2. Léxico controlado de origem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2. Léxico controlado de origem\n\nSe o valor da palavra-chave tiver origem num léxico controlado (*thesaurus*, ontologia), por exemplo o GEMET, deve ser feita referência ao léxico controlado de origem.\n\nEssa referência inclui, pelo menos, o título e uma data de referência (data de publicação, data da última revisão ou data de criação) do léxico controlado de origem."
+  },
+  "8581b67c419e0c41": {
+   "fragment_id": "4. Localização Geográfica",
+   "type": "divisao",
+   "heading": "4. Localização Geográfica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Localização Geográfica\n\nO requisito de localização geográfica referido no n.º 2, alínea e), do artigo 11.º da Directiva 2007/2/CE deve ser expresso com o elemento de metadados «rectângulo envolvente» de delimitação geográfica."
+  },
+  "700d798851233904": {
+   "fragment_id": "4.1. Rectângulo envolvente",
+   "type": "divisao",
+   "heading": "4.1. Rectângulo envolvente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.1. Rectângulo envolvente\n\nIndica a extensão do recurso no espaço geográfico, apresentada como um rectângulo envolvente.\n\nO rectângulo envolvente é expresso nas longitudes limítrofes oeste e este e nas latitudes limítrofes norte e sul em graus decimais, com uma precisão de pelo menos 2 casas decimais."
+  },
+  "ffd66df63cc6c7e5": {
+   "fragment_id": "5. REFERÊNCIA TEMPORAL",
+   "type": "divisao",
+   "heading": "5. REFERÊNCIA TEMPORAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. REFERÊNCIA TEMPORAL\n\nEste elemento de metadados satisfaz o requisito de acesso a informação sobre a dimensão temporal dos dados, conforme referido no n.º 2, alínea d), do artigo 8.º da Directiva 2007/2/CE. Deve ser apresentado, no mínimo, um dos elementos de metadados referidos nos pontos 5.1 a 5.4.\n\nO domínio de valores dos elementos de metadados referidos nos pontos 5.1 a 5.4 é um conjunto de datas. Cada data diz respeito a um sistema de referência temporal e deverá ser expressa de forma compatível com esse sistema. O sistema de referência por omissão é o calendário gregoriano, com as datas expressas em conformidade com a norma ISO 8601."
+  },
+  "f045b0caf14e0ed9": {
+   "fragment_id": "5.1. Extensão temporal",
+   "type": "divisao",
+   "heading": "5.1. Extensão temporal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5.1. Extensão temporal\n\nA extensão temporal define o período de tempo em que é válido o conteúdo do recurso. Este período de tempo pode ser expresso numa das seguintes formas:\n\n— uma data individual,\n\n— um intervalo de datas definido por uma data de início e uma data de termo do intervalo,\n\n— uma combinação de datas individuais e de intervalos de datas."
+  },
+  "e3ded41cba582421": {
+   "fragment_id": "5.2. Data de publicação",
+   "type": "divisao",
+   "heading": "5.2. Data de publicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5.2. Data de publicação\n\nTrata-se da data de publicação do recurso quando disponível ou da data de início de validade. Pode haver mais de uma data de publicação."
+  },
+  "c6cca7c6ce98b38d": {
+   "fragment_id": "5.3. Data da última revisão",
+   "type": "divisao",
+   "heading": "5.3. Data da última revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5.3. Data da última revisão\n\nTrata-se da data da última revisão do recurso, caso este tenha sido revisto. Não pode haver mais de uma data de última revisão."
+  },
+  "adfe5780ef0f984d": {
+   "fragment_id": "5.4. Data da criação",
+   "type": "divisao",
+   "heading": "5.4. Data da criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5.4. Data da criação\n\nTrata-se da data de criação do recurso. Não pode haver mais de uma data de criação."
+  },
+  "5dcce83ccc00d533": {
+   "fragment_id": "6. QUALIDADE E VALIDADE",
+   "type": "divisao",
+   "heading": "6. QUALIDADE E VALIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6. QUALIDADE E VALIDADE\n\nOs requisitos referidos no n.º 2 do artigo 5.º e no n.º 2 do artigo 11.º da Directiva 2007/2/CE referentes à qualidade e validade dos dados geográficos serão satisfeitos pelos seguintes elementos de metadados:"
+  },
+  "4e39e6c2afe9e4de": {
+   "fragment_id": "6.1. Histórico",
+   "type": "divisao",
+   "heading": "6.1. Histórico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6.1. Histórico\n\nO histórico é uma declaração do historial dos processos e/ou da qualidade global do conjunto de dados geográficos. Quando adequado, pode incluir uma declaração indicando se o conjunto dos dados foi validado ou se a qualidade foi assegurada, se é a versão oficial (caso existam várias versões) e se tem validade legal.\n\nO domínio de valores deste elemento de metadados é texto livre."
+  },
+  "251871228bfce0a5": {
+   "fragment_id": "6.2. Resolução espacial",
+   "type": "divisao",
+   "heading": "6.2. Resolução espacial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6.2. Resolução espacial\n\nA resolução espacial diz respeito ao nível de detalhe do conjunto de dados. É expressa como um conjunto de valores que vão do zero a muitos valores de distâncias (normalmente no que diz respeito a dados matriciais e produtos derivados de imagens) ou em escalas equivalentes (normalmente no que diz respeito a mapas ou produtos derivados de mapas).\n\nUma escala equivalente é geralmente expressa como um valor inteiro que representa o denominador da escala.\n\nUma distância de resolução deve ser expressa como um valor numérico associado a uma unidade de comprimento."
+  },
+  "8923b0da62fd7918": {
+   "fragment_id": "7. CONFORMIDADE",
+   "type": "divisao",
+   "heading": "7. CONFORMIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7. CONFORMIDADE\n\nOs requisitos referidos no n.º 2, alínea a), do artigo 5.º e no n.º 2, alínea d), do artigo 11.º da Directiva 2007/2/CE referentes à conformidade, e ao grau de conformidade, com as disposições de execução adoptadas ao abrigo do n.º 1 do artigo 7.º da Directiva 2007/2/CE serão satisfeitos pelos seguintes elementos de metadados:"
+  },
+  "f6ec7d65e2445353": {
+   "fragment_id": "7.1. Especificação",
+   "type": "divisao",
+   "heading": "7.1. Especificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7.1. Especificação\n\nÉ uma referência às disposições de execução adoptadas ao abrigo do n.º 1 do artigo 7.º da Directiva 2007/2/CE ou de outra especificação com a qual um determinado recurso esteja em conformidade.\n\nUm recurso pode estar em conformidade com mais de uma das disposições de execução adoptadas ao abrigo do n.º 1 do artigo 7.º da Directiva 2007/2/CE ou de outra especificação.\n\nEsta referência deve incluir, pelo menos, o título e uma data de referência (data de publicação, data da última revisão ou data de criação) das disposições de execução adoptadas ao abrigo do n.º 1 do artigo 7.º da Directiva 2007/2/CE ou da especificação."
+  },
+  "916c8da596fc1cfe": {
+   "fragment_id": "7.2. Grau",
+   "type": "divisao",
+   "heading": "7.2. Grau",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7.2. Grau\n\nTrata-se do grau de conformidade do recurso com as disposições de execução adoptadas ao abrigo do n.º 1 do artigo 7.º da Directiva 2007/2/CE ou de outra especificação.\n\nO domínio de valores deste elemento de metadados está definido na parte D.5."
+  },
+  "7045a641d25a0b3e": {
+   "fragment_id": "8. RESTRIÇÕES RELACIONADAS COM O ACESSO E UTILIZAÇÃO",
+   "type": "divisao",
+   "heading": "8. RESTRIÇÕES RELACIONADAS COM O ACESSO E UTILIZAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8. RESTRIÇÕES RELACIONADAS COM O ACESSO E UTILIZAÇÃO\n\nUma restrição relacionada com o acesso e utilização é uma das seguintes ou ambas:\n\n— um conjunto de condições aplicáveis ao acesso e utilização (8.1),\n\n— um conjunto de restrições ao acesso do público (8.2)."
+  },
+  "2252f0dea23827aa": {
+   "fragment_id": "8.1. Condições aplicáveis ao acesso e utilização",
+   "type": "divisao",
+   "heading": "8.1. Condições aplicáveis ao acesso e utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8.1. Condições aplicáveis ao acesso e utilização\n\nEste elemento de metadados define as condições do acesso e utilização dos conjuntos e serviços de dados geográficos e, quando aplicável, as taxas correspondentes de acordo com o estabelecido no n.º 2, alínea b), do artigo 5.º e no n.º 2, alínea f), do artigo 11.º da Directiva 2007/2/CE.\n\nO domínio de valores deste elemento de metadados é texto livre.\n\nO elemento deve conter valores. Se não forem aplicáveis condições ao acesso e utilização do recurso, deve indicar-se «sem restrições». Se as condições forem desconhecidas, deve indicar-se «condições desconhecidas».\n\nEste elemento deve apresentar também informações sobre as taxas relativas ao acesso e utilização do recurso, se aplicável, ou referir um localizador uniforme de recursos (URL) onde esteja disponível a informação sobre taxas."
+  },
+  "dc2e389fa72e7c27": {
+   "fragment_id": "8.2. Restrições ao acesso do público",
+   "type": "divisao",
+   "heading": "8.2. Restrições ao acesso do público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8.2. Restrições ao acesso do público\n\nQuando os Estados-Membros limitam o acesso do público a conjuntos de dados geográficos e a serviços de dados geográficos ao abrigo do artigo 13.º da Directiva 2007/2/CE, este elemento de metadados deve fornecer informação sobre as restrições e a respectiva justificação.\n\nNa ausência de restrições ao acesso do público, este elemento de metadados deve indicar esse facto.\n\nO domínio de valores deste elemento de metadados é texto livre."
+  },
+  "ce02688f9885d8c0": {
+   "fragment_id": "9. ORGANIZAÇÕES RESPONSÁVEIS PELO ESTABELECIMENTO, GESTÃO, MANUTENÇÃO E DISTRIBUIÇÃO DE CONJUNTOS E SERVIÇOS DE DADOS GEOGRÁFICOS",
+   "type": "divisao",
+   "heading": "9. ORGANIZAÇÕES RESPONSÁVEIS PELO ESTABELECIMENTO, GESTÃO, MANUTENÇÃO E DISTRIBUIÇÃO DE CONJUNTOS E SERVIÇOS DE DADOS GEOGRÁFICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 9. ORGANIZAÇÕES RESPONSÁVEIS PELO ESTABELECIMENTO, GESTÃO, MANUTENÇÃO E DISTRIBUIÇÃO DE CONJUNTOS E SERVIÇOS DE DADOS GEOGRÁFICOS\n\nPara efeitos do n.º 2, alínea d), do artigo 5.º e do n.º 2, alínea g), do artigo 11.º da Directiva 2007/2/CE, devem ser apresentados os seguintes dois elementos de metadados:"
+  },
+  "013c2cb6084a4503": {
+   "fragment_id": "9.1. Entidade responsável",
+   "type": "divisao",
+   "heading": "9.1. Entidade responsável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 9.1. Entidade responsável\n\nTrata-se da descrição da organização responsável pelo estabelecimento, gestão, manutenção e distribuição do recurso.\n\nEsta descrição deve incluir:\n\n— o nome da organização em texto livre,\n\n— um endereço de correio electrónico de contacto sob a forma de uma cadeia de caracteres."
+  },
+  "5adb71c2be919440": {
+   "fragment_id": "9.2. Função da entidade responsável",
+   "type": "divisao",
+   "heading": "9.2. Função da entidade responsável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 9.2. Função da entidade responsável\n\nTrata-se da função desempenhada pela organização responsável.\n\nO domínio de valores deste elemento de metadados está definido na parte D.6."
+  },
+  "a993765e9b364e32": {
+   "fragment_id": "10. METAMETADADOS",
+   "type": "divisao",
+   "heading": "10. METAMETADADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 10. METAMETADADOS\n\nPara efeitos do n.º 1 do artigo 5.º da Directiva 2007/2/CE, devem ser fornecidos os seguintes elementos de metadados:"
+  },
+  "a7f20b97a3b60a15": {
+   "fragment_id": "10.1. Contacto do responsável pelos metadados",
+   "type": "divisao",
+   "heading": "10.1. Contacto do responsável pelos metadados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 10.1. Contacto do responsável pelos metadados\n\nÉ a descrição da organização responsável pela criação e manutenção dos metadados.\n\nEsta descrição deve incluir:\n\n— o nome da organização em texto livre,\n\n— um endereço de correio electrónico de contacto sob a forma de uma cadeia de caracteres."
+  },
+  "ad3e1e71909aca75": {
+   "fragment_id": "10.2. Data dos metadados",
+   "type": "divisao",
+   "heading": "10.2. Data dos metadados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 10.2. Data dos metadados\n\nA data que indica quando o registo de metadados foi criado ou actualizado.\n\nEssa data é expressa em conformidade com a norma ISO 8601."
+  },
+  "547538172346bc75": {
+   "fragment_id": "10.3. Idioma dos metadados",
+   "type": "divisao",
+   "heading": "10.3. Idioma dos metadados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 10.3. Idioma dos metadados\n\nÉ o idioma em que os elementos de metadados são expressos.\n\nO domínio de valores deste elemento de metadados está limitado às línguas oficiais da Comunidade expressas em conformidade com a norma ISO 639-2."
+  },
+  "91225de3a1c3c9e6": {
+   "fragment_id": "PARTE C",
+   "type": "divisao",
+   "heading": "PARTE C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PARTE C"
+  },
+  "e06acb446245b94b": {
+   "fragment_id": "Instruções sobre multiplicidade e condições dos elementos de metadados",
+   "type": "divisao",
+   "heading": "Instruções sobre multiplicidade e condições dos elementos de metadados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Instruções sobre multiplicidade e condições dos elementos de metadados\n\nOs metadados que descrevem um recurso devem incluir, no que diz respeito a um conjunto de dados geográficos ou a uma série de conjuntos de dados geográficos, os elementos de metadados ou grupos de elementos de metadados enumerados no quadro 1 e, no que diz respeito a um serviço de conjunto de dados geográficos, os elementos de metadados ou grupos de elementos de metadados enumerados no quadro 2.\n\nEsses elementos de metadados ou grupos de elementos de metadados devem estar em conformidade com a multiplicidade prevista e as respectivas condições enumeradas nos quadros 1 e 2.\n\nQuando não são indicadas condições para um determinado elemento de metadados, esse elemento é obrigatório.\n\nOs quadros apresentam a seguinte informação:\n\n— A primeira coluna indica a referência ao parágrafo da parte B do anexo que define o elemento de metadados ou o grupo de elementos de metadados;\n\n— A segunda coluna indica o nome do elemento de metadados ou do grupo de elementos de metadados;\n\n— A terceira coluna indica a multiplicidade de um elemento de metadados. A expressão da multiplicidade segue a notação de multiplicidade da linguagem de modelação unificada (*Unified Modelling Language* — UML), na qual:\n\n— 1 significa que só poderá haver uma ocorrência deste elemento de metadados num conjunto de resultados,\n\n— 1..* significa que deve haver, pelo menos, uma ocorrência deste elemento de metadados num conjunto de resultados,\n\n— 0..1 indica que a presença do elemento de metadados num grupo de resultados é condicional, mas pode ocorrer apenas uma vez,\n\n— 0..* indica que a presença do elemento de metadados num conjunto de resultados é condicional, mas que pode haver uma ou mais ocorrências desse elemento,\n\n— quando a multiplicidade é 0..1 ou 0..*, a condição define quando os elementos de metadados são obrigatórios,\n\n— A quarta coluna contém uma declaração condicional se a multiplicidade do elemento não se aplicar a todos os tipos de recursos. Todos os elementos são obrigatórios noutras circunstâncias.\n\n| Referência | Elementos de metadados | Multiplicidade | Condição |\n| --- | --- | --- | --- |\n| 1.1 | Título do recurso | 1 |  |\n| 1.2 | Resumo do recurso | 1 |  |\n| 1.3 | Tipo do recurso | 1 |  |\n| 1.4 | Localizador do recurso | 0..* | Obrigatório se estiver disponível um URL para obtenção de mais informações sobre o recurso, e/ou serviços de acesso. |\n| 1.5 | Identificador único do recurso | 1..* |  |\n| 1.7 | Idioma do recurso | 0..* | Obrigatório se o recurso incluir informação textual. |\n| 2.1 | Categoria temática | 1..* |  |\n| 3 | Palavra-chave | 1..* |  |\n| 4.1 | Rectângulo envolvente | 1..* |  |\n| 5 | Referência temporal | 1..* |  |\n| 6.1 | Histórico | 1 |  |\n| 6.2 | Resolução espacial | 0..* | Obrigatório para conjuntos de dados e séries de conjuntos de dados se puder ser especificada uma escala equivalente ou uma resolução. |\n| 7 | Conformidade | 1..* |  |\n| 8.1 | Condições de acesso e utilização | 1..* |  |\n| 8.2 | Restrições ao acesso do público | 1..* |  |\n| 9 | Organização responsável | 1..* |  |\n| 10.1 | Contacto do responsável pelos metadados | 1..* |  |\n| 10.2 | Data dos metadados | 1 |  |\n| 10.3 | Idioma dos metadados | 1 |  |\n\n| Referência | Elementos de metadados | Multiplicidade | Condição |\n| --- | --- | --- | --- |\n| 1.1 | Título do recurso | 1 |  |\n| 1.2 | Resumo do recurso | 1 |  |\n| 1.3 | Tipo do recurso | 1 |  |\n| 1.4 | Localizador do recurso | 0..* | Obrigatório se estiver disponível uma ligação ao serviço. |\n| 1.6 | Recurso associado | 0..* | Obrigatório se estiver disponível uma ligação a conjuntos de dados com os quais o serviço funciona. |\n| 2.2 | Tipo de serviço de dados geográficos | 1 |  |\n| 3 | Palavra-chave | 1..* |  |\n| 4.1 | Rectângulo envolvente | 0…* | Obrigatório para serviços com uma extensão geográfica explícita. |\n| 5 | Referência temporal | 1..* |  |\n| 6.2 | Resolução espacial | 0..* | Obrigatório quando existe uma restrição à resolução espacial neste serviço. |\n| 7 | Conformidade | 1..* |  |\n| 8.1 | Condições de acesso e utilização | 1..* |  |\n| 8.2 | Restrições ao acesso do público | 1..* |  |\n| 9 | Organização responsável | 1..* |  |\n| 10.1 | Contacto do responsável pelos metadados | 1..* |  |\n| 10.2 | Data dos metadados | 1 |  |\n| 10.3 | Idioma dos metadados | 1 |  |"
+  },
+  "b2e2c2d3066e4f19": {
+   "fragment_id": "PARTE D",
+   "type": "divisao",
+   "heading": "PARTE D",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PARTE D"
+  },
+  "29fca3bd502a9325": {
+   "fragment_id": "Domínios de valores",
+   "type": "divisao",
+   "heading": "Domínios de valores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Domínios de valores\n\nQuando indicado na descrição dos elementos de metadados constantes da parte B, os domínios de valores descritos nas partes D.1 a D.6 serão utilizados com a multiplicidade definida nos quadros 1 e 2 da parte C.\n\nEm relação a um determinado domínio, cada valor é definido por:\n\n— um identificador numérico,\n\n— um nome textual para os utilizadores humanos, que pode ser traduzido nas diferentes línguas comunitárias,\n\n— um nome linguisticamente neutro para computadores (valor expresso entre parêntesis),\n\n— uma descrição ou definição opcional."
+  },
+  "c35a777b75e79051": {
+   "fragment_id": "1. TIPO DO RECURSO",
+   "type": "divisao",
+   "heading": "1. TIPO DO RECURSO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. TIPO DO RECURSO\n\n1.1. Série de conjuntos de dados geográficos (séries)\n\n1.2. Conjunto de dados geográficos (dataset)\n\n1.3. [**►C1**](http://publications.europa.eu/resource/celex/32008R1205R%2802%29) Serviços de dados geográficos (service) **◄**"
+  },
+  "45ef22ee5503b56e": {
+   "fragment_id": "2. CATEGORIAS TEMÁTICAS EM CONFORMIDADE COM A NORMA EN ISO 19115",
+   "type": "divisao",
+   "heading": "2. CATEGORIAS TEMÁTICAS EM CONFORMIDADE COM A NORMA EN ISO 19115",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. CATEGORIAS TEMÁTICAS EM CONFORMIDADE COM A NORMA EN ISO 19115"
+  },
+  "976fc8a0f91a3280": {
+   "fragment_id": "2.1. Agricultura (farming)",
+   "type": "divisao",
+   "heading": "2.1. Agricultura (farming)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.1. Agricultura (farming)\n\nCriação de animais e/ou cultivo de espécies vegetais.\n\nEsta categoria é aplicável à categoria temática de dados geográficos «Instalações agrícolas e aquícolas» constante do ponto 9 do anexo III da Directiva 2007/2/CE."
+  },
+  "38f3b6a5221bb054": {
+   "fragment_id": "2.2. Biótopos (biota)",
+   "type": "divisao",
+   "heading": "2.2. Biótopos (biota)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2. Biótopos (biota)\n\nFlora e/ou fauna em habitat natural.\n\nEsta categoria é aplicável às seguintes categorias temáticas de dados geográficos da Directiva 2007/2/CE: ponto 17 do anexo III «Regiões biogeográficas», ponto 18 do anexo III «Habitats e biótopos» e ponto 19 do anexo III «Distribuição das espécies»."
+  },
+  "dc040b560c99e814": {
+   "fragment_id": "2.3. Limites administrativos (boundaries)",
+   "type": "divisao",
+   "heading": "2.3. Limites administrativos (boundaries)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.3. Limites administrativos (boundaries)\n\nLimites legais do território.\n\nEsta categoria é aplicável às seguintes categorias temáticas de dados geográficos da Directiva 2007/2/CE: ponto 4 do anexo I «Unidades administrativas», ponto 1 do anexo III «Unidades estatísticas»."
+  },
+  "ff045af88269a0e2": {
+   "fragment_id": "2.4. Climatologia/Meteorologia/Atmosfera (climatologyMeteorologyAtmosphere)",
+   "type": "divisao",
+   "heading": "2.4. Climatologia/Meteorologia/Atmosfera (climatologyMeteorologyAtmosphere)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.4. Climatologia/Meteorologia/Atmosfera (climatologyMeteorologyAtmosphere)\n\nProcessos e fenómenos atmosféricos.\n\nEsta categoria é aplicável às seguintes categorias temáticas de dados geográficos da Directiva 2007/2/CE: ponto 13 do anexo III «Condições atmosféricas» e ponto 14 do anexo III «Características geometeorológicas»."
+  },
+  "88aa0338c45e3fe3": {
+   "fragment_id": "2.5. Economia (economy)",
+   "type": "divisao",
+   "heading": "2.5. Economia (economy)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.5. Economia (economy)\n\nActividades e condições económicas e emprego.\n\nEsta categoria é aplicável às seguintes categorias temáticas de dados geográficos da Directiva 2007/2/CE: ponto 20 do anexo III «Recursos energéticos», ponto 21 do anexo III «Recursos minerais»."
+  },
+  "9a6d166cb4cf8ed1": {
+   "fragment_id": "2.6. Altimetria (elevation)",
+   "type": "divisao",
+   "heading": "2.6. Altimetria (elevation)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.6. Altimetria (elevation)\n\nElevação acima ou abaixo do nível do mar.\n\nEsta categoria é aplicável à seguinte categoria temática de dados geográficos da Directiva 2007/2/CE: ponto 1 do anexo II «Altitude»."
+  },
+  "f0027f428908a3f1": {
+   "fragment_id": "2.7. Ambiente (environment)",
+   "type": "divisao",
+   "heading": "2.7. Ambiente (environment)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.7. Ambiente (environment)\n\nRecursos ambientais, protecção e conservação da natureza.\n\nEsta categoria é aplicável à seguinte categoria temática de dados geográficos da Directiva 2007/2/CE: ponto 9 do anexo I «Sítios protegidos»."
+  },
+  "0bc6d38bfe7793ad": {
+   "fragment_id": "2.8. Informação geocientífica (geoscientificInformation)",
+   "type": "divisao",
+   "heading": "2.8. Informação geocientífica (geoscientificInformation)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.8. Informação geocientífica (geoscientificInformation)\n\nInformação relativa às ciências da terra.\n\nEsta categoria é aplicável às seguintes categorias temáticas de dados geográficos da Directiva 2007/2/CE: ponto 3 do anexo III «Solo», ponto 4 do anexo II «Geologia» e ponto 12 do anexo III «Zonas de risco natural»."
+  },
+  "d0e0e66a0fdb00a8": {
+   "fragment_id": "2.9. Saúde (health)",
+   "type": "divisao",
+   "heading": "2.9. Saúde (health)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.9. Saúde (health)\n\nSaúde, serviços de saúde, ecologia humana e segurança.\n\nEsta categoria é aplicável à seguinte categoria temática de dados geográficos da Directiva 2007/2/CE: ponto 5 do anexo III «Saúde humana e segurança»."
+  },
+  "26b9cd035658f9b3": {
+   "fragment_id": "2.10. Imagens / Cartografia de base / Coberturas de áreas (imageryBaseMapsEarthCover)",
+   "type": "divisao",
+   "heading": "2.10. Imagens / Cartografia de base / Coberturas de áreas (imageryBaseMapsEarthCover)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.10. Imagens / Cartografia de base / Coberturas de áreas (imageryBaseMapsEarthCover)\n\nCartografia de base.\n\nEsta categoria é aplicável às seguintes categorias temáticas de dados geográficos da Directiva 2007/2/CE: ponto 3 do anexo II «Ortoimagens» e ponto 2 do anexo II «Ocupação do solo»."
+  },
+  "3017ebd9cd2c7023": {
+   "fragment_id": "2.11. Informação / Militar (intelligenceMilitary)",
+   "type": "divisao",
+   "heading": "2.11. Informação / Militar (intelligenceMilitary)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.11. Informação / Militar (intelligenceMilitary)\n\nBases, estruturas e actividades militares.\n\nEsta categoria não é especificamente aplicável a nenhuma categoria temática de dados geográficos da Directiva 2007/2/CE."
+  },
+  "e20325b0ba2f214b": {
+   "fragment_id": "2.12. Águas interiores (inlandWaters)",
+   "type": "divisao",
+   "heading": "2.12. Águas interiores (inlandWaters)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.12. Águas interiores (inlandWaters)\n\nEntidades relativas a águas interiores, sistemas de drenagem e suas características.\n\nEsta categoria é aplicável à seguinte categoria temática de dados geográficos da Directiva 2007/2/CE: ponto 8 do anexo I «Hidrografia»."
+  },
+  "8a2b3b20ca4785c3": {
+   "fragment_id": "2.13. Localização (location)",
+   "type": "divisao",
+   "heading": "2.13. Localização (location)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.13. Localização (location)\n\nInformação e serviços de localização.\n\nEsta categoria é aplicável às seguintes categorias temáticas de dados geográficos da Directiva 2007/2/CE: ponto 3 do anexo I «Toponímia» e ponto 5 do anexo I «Endereços»."
+  },
+  "c800f6b02f036b4c": {
+   "fragment_id": "2.14. Oceanos (oceans)",
+   "type": "divisao",
+   "heading": "2.14. Oceanos (oceans)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.14. Oceanos (oceans)\n\nEntidades e características dos corpos de água salgada (excluindo águas interiores).\n\nEsta categoria é aplicável às seguintes categorias temáticas de dados geográficos da Directiva 2007/2/CE: ponto 16 do anexo III «Regiões marinhas» e ponto 15 do anexo III «Características oceanográficas»."
+  },
+  "7e8efd5ed6f7180d": {
+   "fragment_id": "2.15. Planeamento/Cadastro (planningCadastre)",
+   "type": "divisao",
+   "heading": "2.15. Planeamento/Cadastro (planningCadastre)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.15. Planeamento/Cadastro (planningCadastre)\n\nInformação destinada ao planeamento do uso do território.\n\nEsta categoria é aplicável às seguintes categorias temáticas de dados geográficos da Directiva 2007/2/CE: ponto 6 do anexo I «Parcelas cadastrais», ponto 4 do anexo III «Uso do solo» e ponto 11 do anexo III «Zonas de gestão/restrição/regulamentação e unidades de referência»."
+  },
+  "9aa118a5472e5f47": {
+   "fragment_id": "2.16. Sociedade (society)",
+   "type": "divisao",
+   "heading": "2.16. Sociedade (society)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.16. Sociedade (society)\n\nCaracterísticas sociais e culturais.\n\nEsta categoria é aplicável às seguintes categorias temáticas de dados geográficos da Directiva 2007/2/CE: ponto 10 do anexo III «Distribuição da população — demografia»."
+  },
+  "e05e974cc4c3b714": {
+   "fragment_id": "2.17. Património edificado (structure)",
+   "type": "divisao",
+   "heading": "2.17. Património edificado (structure)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.17. Património edificado (structure)\n\nConstrução desenvolvida pelo homem.\n\nEsta categoria é aplicável às seguintes categorias temáticas de dados geográficos da Directiva 2007/2/CE: ponto 2 do anexo III «Edifícios», ponto 8 do anexo III «Instalações industriais e de produção» e ponto 7 do anexo III «Instalações de monitorização do ambiente»."
+  },
+  "265531ce8e6aecd6": {
+   "fragment_id": "2.18. Transportes (transportation)",
+   "type": "divisao",
+   "heading": "2.18. Transportes (transportation)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.18. Transportes (transportation)\n\nMeios e formas de deslocação de pessoas e/ou mercadorias.\n\nEsta categoria é aplicável à seguinte categoria temática de dados geográficos da Directiva 2007/2/CE: ponto 7 do anexo I «Redes de transporte»."
+  },
+  "3392001f79f7efce": {
+   "fragment_id": "2.19. Serviços de utilidade pública/Comunicações (utilitiesCommunication)",
+   "type": "divisao",
+   "heading": "2.19. Serviços de utilidade pública/Comunicações (utilitiesCommunication)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.19. Serviços de utilidade pública/Comunicações (utilitiesCommunication)\n\nSistemas de distribuição de energia e água e de tratamento de resíduos e infra-estruturas e serviços de comunicações.\n\nEsta categoria é aplicável à seguinte categoria temática de dados geográficos da Directiva 2007/2/CE: ponto 6 do anexo III «Serviços de utilidade pública e do Estado»."
+  },
+  "00e6737736a4b160": {
+   "fragment_id": "3. TIPO DE SERVIÇO DE DADOS GEOGRÁFICOS",
+   "type": "divisao",
+   "heading": "3. TIPO DE SERVIÇO DE DADOS GEOGRÁFICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. TIPO DE SERVIÇO DE DADOS GEOGRÁFICOS"
+  },
+  "88f771a6c8d8d0bd": {
+   "fragment_id": "3.1. Serviço de pesquisa (discovery)",
+   "type": "divisao",
+   "heading": "3.1. Serviço de pesquisa (discovery)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1. Serviço de pesquisa (discovery)\n\nServiços que permitem a pesquisa de conjuntos e serviços de dados geográficos com base no conteúdo dos metadados correspondentes, bem como a visualização do conteúdo dos metadados."
+  },
+  "c221dc8ac68ca603": {
+   "fragment_id": "3.2. Serviço de visualização (view)",
+   "type": "divisao",
+   "heading": "3.2. Serviço de visualização (view)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2. Serviço de visualização (view)\n\nServiço que permite, no mínimo, visualizar, navegar, aumentar e reduzir a escala de visualização, deslocar ou sobrepor conjuntos visualizáveis de dados geográficos e visualizar informação contida em legendas e qualquer conteúdo relevante dos metadados."
+  },
+  "5699cec4a33b5b7a": {
+   "fragment_id": "3.3. Serviço de descarregamento (download)",
+   "type": "divisao",
+   "heading": "3.3. Serviço de descarregamento (download)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.3. Serviço de descarregamento (download)\n\nServiço que permite descarregar e, se exequível, aceder directamente a cópias integrais ou parciais de conjuntos de dados geográficos."
+  },
+  "0c2e6126f298aa0d": {
+   "fragment_id": "3.4. Serviço de transformação (transformation)",
+   "type": "divisao",
+   "heading": "3.4. Serviço de transformação (transformation)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.4. Serviço de transformação (transformation)\n\nServiço que permite transformar conjuntos de dados geográficos para fins de interoperabilidade."
+  },
+  "9f7f570bd01816e7": {
+   "fragment_id": "3.5. Serviço de invocação de dados geográficos (invoke)",
+   "type": "divisao",
+   "heading": "3.5. Serviço de invocação de dados geográficos (invoke)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.5. Serviço de invocação de dados geográficos (invoke)\n\nServiço que permite definir tanto a entrada como a saída de dados previstos pelo serviço de dados geográficos e o fluxo de trabalho ou cadeia de serviços que combina múltiplos serviços. Permite também definir a interface externa do serviço *web* para o fluxo de trabalho ou a cadeia de serviços.\n\n3.6. Outro serviço (other)"
+  },
+  "5e58fcfe0e90d193": {
+   "fragment_id": "4. CLASSIFICAÇÃO DOS SERVIÇOS DE DADOS GEOGRÁFICOS",
+   "type": "divisao",
+   "heading": "4. CLASSIFICAÇÃO DOS SERVIÇOS DE DADOS GEOGRÁFICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. CLASSIFICAÇÃO DOS SERVIÇOS DE DADOS GEOGRÁFICOS\n\nAs palavras-chave têm por base a taxonomia de serviços geográficos da norma EN ISO 19119. Esta taxonomia está organizada em categorias, com as subcategorias a definir o domínio de valores da classificação de serviços de dados geográficos."
+  },
+  "1d8972556a3e097c": {
+   "fragment_id": "100 Serviços geográficos com interacção humana (humanInteractionService)",
+   "type": "divisao",
+   "heading": "100 Serviços geográficos com interacção humana (humanInteractionService)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 100 Serviços geográficos com interacção humana (humanInteractionService)\n\nEsta categoria inclui as seguintes subcategorias:\n\n101. Visualizador de catálogo (humanCatalogueViewer)\n\n102. Visualizador geográfico (humanGeographicViewer)\n\n103. Visualização de folhas de cálculo geográficas (humanGeographicSpreadsheetViewer)\n\n104. Editor do serviço (humanServiceEditor)\n\n105. Editor da definição de cadeias (humanChainDefinitionEditor)\n\n106. Gestor do fluxo de trabalho (humanWorkflowEnactmentManager)\n\n107. Editor de elementos geográficos (humanGeographicFeatureEditor)\n\n108. Editor de símbolos geográficos (humanGeographicSymbolEditor)\n\n109. Editor de generalização de elementos geográficos (humanFeatureGeneralizationEditor)\n\n110. Visualizador da estrutura dos dados geográficos (humanGeographicDataStructureViewer)"
+  },
+  "dbd7b3a29fff1892": {
+   "fragment_id": "200 Serviço de gestão de informação/modelos geográficos (infoManagementService)",
+   "type": "divisao",
+   "heading": "200 Serviço de gestão de informação/modelos geográficos (infoManagementService)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 200 Serviço de gestão de informação/modelos geográficos (infoManagementService)\n\nEsta categoria inclui as seguintes subcategorias:\n\n201. Serviço de acesso a elementos geográficos (infoFeatureAccessService)\n\n202. Serviço de acesso a mapas (infoMapAccessService)\n\n203. Serviço de acesso a coberturas (infoCoverageAccessService)\n\n204. Serviço de descrição de sensores (infoSensorDescriptionService)\n\n205. Serviço de acesso a produtos (infoProductAccessService)\n\n206. Serviço de tipos de elementos geográficos (infoFeatureTypeService)\n\n207. Serviço de catálogo (infoCatalogueService)\n\n208. Serviço de registo (infoRegistryService)\n\n209. Serviço de repertório (infoGazetteerService)\n\n210. Serviço de gestão de encomendas (infoOrderHandlingService)\n\n211. Serviço de encomendas pendentes (infoStandingOrderService)"
+  },
+  "155cf885b299da4a": {
+   "fragment_id": "300 Serviços de gestão do fluxo de trabalho/tarefas geográficas (taskManagementService)",
+   "type": "divisao",
+   "heading": "300 Serviços de gestão do fluxo de trabalho/tarefas geográficas (taskManagementService)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 300 Serviços de gestão do fluxo de trabalho/tarefas geográficas (taskManagementService)\n\nEsta categoria inclui as seguintes subcategorias:\n\n301. Serviço de definição de cadeia (chainDefinitionService)\n\n302. Serviço de fluxo de trabalho (workflowEnactmentService)\n\n303. Serviço de assinatura (subscriptionService)"
+  },
+  "f8c93e7de17cb692": {
+   "fragment_id": "400 Serviços de processamento geográfico — elementos espaciais (spatialProcessingService)",
+   "type": "divisao",
+   "heading": "400 Serviços de processamento geográfico — elementos espaciais (spatialProcessingService)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 400 Serviços de processamento geográfico — elementos espaciais (spatialProcessingService)\n\nEsta categoria inclui as seguintes subcategorias:\n\n401. Serviço de conversão de coordenadas (spatialCoordinateConversionService)\n\n402. Serviço de transformação de coordenadas (spatialCoordinateTransformationService)\n\n403. Serviço de conversão cobertura/vector (spatialCoverageVectorConversionService)\n\n404. Serviço de conversão de coordenadas de imagens (spatialImageCoordinateConversionService)\n\n405. Serviço de rectificação (spatialRectificationService)\n\n406. Serviço de ortorrectificação (spatialOrthorectificationService)\n\n407. Serviço de ajustamento do modelo geométrico dos sensores (spatialSensorGeometryModelAdjustmentService)\n\n408. Serviço de conversão de modelos geométricos das imagens (spatialImageGeometryModelConversionService)\n\n409. Serviço de definição de subconjuntos (spatialSubsettingService)\n\n410. Serviço de amostragem (spatialSamplingService)\n\n411. Serviço de modificação do seccionamento (spatialTilingChangeService)\n\n412. Serviço de medição das dimensões (spatialDimensionMeasurementService)\n\n413. Serviços de manipulação de elementos geográficos (spatialFeatureManipulationService)\n\n414. Serviço de correspondência de elementos geográficos (spatialFeatureMatchingService)\n\n415. Serviço de generalização de elementos geográficos (spatialFeatureGeneralizationService)\n\n416. Serviço de determinação do itinerário (spatialRouteDeterminationService)\n\n417. Serviço de localização (spatialPositioningService)\n\n418. Serviço de análise de proximidade (spatialProximityAnalysisService)"
+  },
+  "3029da95ad85eb0c": {
+   "fragment_id": "500 Serviços de processamento geográfico — elementos temáticos (thematicProcessingService)",
+   "type": "divisao",
+   "heading": "500 Serviços de processamento geográfico — elementos temáticos (thematicProcessingService)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 500 Serviços de processamento geográfico — elementos temáticos (thematicProcessingService)\n\nEsta categoria inclui as seguintes subcategorias:\n\n501. Serviço de cálculo de geoparâmetros (thematicGoparameterCalculationService)\n\n502. Serviço de classificação temática (thematicClassificationService)\n\n503. Serviço de generalização de elementos geográficos (thematicFeatureGeneralizationService)\n\n504. Serviço de definição de subconjuntos (thematicSubsettingService)\n\n505. Serviço de contagem geográfica (thematicSpatialCountingService)\n\n506. Serviço de detecção de alterações (thematicChangeDetectionService)\n\n507. Serviços de extracção de informação geográfica (thematicGeographicInformationExtractionService)\n\n508. Serviço de processamento de imagens (thematicImageProcessingService)\n\n509. Serviço de redução de resolução (thematicReducedResolutionGenerationService)\n\n510. Serviços de manipulação de imagens (thematicImageManipulationService)\n\n511. Serviços de compreensão de imagens (thematicImageUnderstandingService)\n\n512. Serviços de síntese de imagens (thematicImageSynthesisService)\n\n513. Serviços de manipulação de imagens multibandas (thematicMultibandImageManipulationService)\n\n514. Serviço de detecção de objectos (thematicObjectDetectionService)\n\n515. Serviço de geoidentificação (thematicGeoparsingService)\n\n516. Serviço de geocodificação (thematicGeocodingService)"
+  },
+  "9d04b2d09a411fa7": {
+   "fragment_id": "600 Serviços de processamento geográfico — elementos temporais (temporalProcessingService)",
+   "type": "divisao",
+   "heading": "600 Serviços de processamento geográfico — elementos temporais (temporalProcessingService)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 600 Serviços de processamento geográfico — elementos temporais (temporalProcessingService)\n\nEsta categoria inclui as seguintes subcategorias:\n\n601. Serviço de transformação do sistema de referência temporal (temporalReferenceSystemTransformationService)\n\n602. Serviço de definição de subconjuntos (temporalSubsettingService)\n\n603. Serviço de amostragem (temporalSamplingService)\n\n604. Serviço de análise de proximidade temporal (temporalProximityAnalysisService)"
+  },
+  "0a58091e6de616b4": {
+   "fragment_id": "700 Serviços de processamento geográfico – metadados (metadataProcessingService)",
+   "type": "divisao",
+   "heading": "700 Serviços de processamento geográfico – metadados (metadataProcessingService)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 700 Serviços de processamento geográfico – metadados (metadataProcessingService)\n\nEsta categoria inclui as seguintes subcategorias:\n\n701. Serviço de cálculo estatístico (metadataStatisticalCalculationService)\n\n702. Serviços de anotação geográfica (metadataGeographicAnnotationService)"
+  },
+  "8d5c84f83e441204": {
+   "fragment_id": "800 Serviços de comunicação geográfica (comService)",
+   "type": "divisao",
+   "heading": "800 Serviços de comunicação geográfica (comService)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 800 Serviços de comunicação geográfica (comService)\n\nEsta categoria inclui as seguintes subcategorias:\n\n801. Serviço de codificação (comEncodingService)\n\n802. Serviço de transferência (comTransferService)\n\n803. Serviço de compressão geográfica (comGeographicCompressionService)\n\n804. Serviço de conversão de formato geográfico (comGeographicFormatConversionService)\n\n805. Serviço de transmissão de mensagens (comMessagingService)\n\n806. Gestão remota de ficheiros e de executáveis (comRemoteFileAndExecutableManagement)"
+  },
+  "5b1331f9dede951a": {
+   "fragment_id": "5. GRAU DE CONFORMIDADE",
+   "type": "divisao",
+   "heading": "5. GRAU DE CONFORMIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. GRAU DE CONFORMIDADE"
+  },
+  "4c14513a292f376d": {
+   "fragment_id": "5.1. Conforme (conformant)",
+   "type": "divisao",
+   "heading": "5.1. Conforme (conformant)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5.1. Conforme (conformant)\n\nO recurso está plenamente em conformidade com a especificação indicada."
+  },
+  "6832347375304201": {
+   "fragment_id": "5.2. Não conforme (notConformant)",
+   "type": "divisao",
+   "heading": "5.2. Não conforme (notConformant)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5.2. Não conforme (notConformant)\n\nO recurso não está em conformidade com a especificação citada."
+  },
+  "b9541ff246aedea5": {
+   "fragment_id": "5.3. Não avaliado (notEvaluated)",
+   "type": "divisao",
+   "heading": "5.3. Não avaliado (notEvaluated)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5.3. Não avaliado (notEvaluated)\n\nA conformidade não foi avaliada."
+  },
+  "50a3a988b56c0d6a": {
+   "fragment_id": "6. FUNÇÃO DA ENTIDADE RESPONSÁVEL",
+   "type": "divisao",
+   "heading": "6. FUNÇÃO DA ENTIDADE RESPONSÁVEL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6. FUNÇÃO DA ENTIDADE RESPONSÁVEL"
+  },
+  "fa9fc602e4b0f592": {
+   "fragment_id": "6.1. Fornecedor do recurso (resourceProvider)",
+   "type": "divisao",
+   "heading": "6.1. Fornecedor do recurso (resourceProvider)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6.1. Fornecedor do recurso (resourceProvider)\n\nEntidade que fornece o recurso."
+  },
+  "90d10a4c3d0d0bd5": {
+   "fragment_id": "6.2. Tutor (custodian)",
+   "type": "divisao",
+   "heading": "6.2. Tutor (custodian)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6.2. Tutor (custodian)\n\nEntidade que aceita assumir a responsabilidade pelos dados e que assegura uma manutenção adequada do recurso."
+  },
+  "117b6bfe5fb0b7c1": {
+   "fragment_id": "6.3. Detentor (owner)",
+   "type": "divisao",
+   "heading": "6.3. Detentor (owner)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6.3. Detentor (owner)\n\nEntidade detentora dos direitos de propriedade sobre o recurso."
+  },
+  "4e401a05ea0b16cb": {
+   "fragment_id": "6.4. Utilizador (user)",
+   "type": "divisao",
+   "heading": "6.4. Utilizador (user)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6.4. Utilizador (user)\n\nEntidade que utiliza o recurso."
+  },
+  "b3d98c9a583e25f7": {
+   "fragment_id": "6.5. Distribuidor (distributor)",
+   "type": "divisao",
+   "heading": "6.5. Distribuidor (distributor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6.5. Distribuidor (distributor)\n\nEntidade que distribui o recurso."
+  },
+  "b1331c20e636eca1": {
+   "fragment_id": "6.6. Produtor (originator)",
+   "type": "divisao",
+   "heading": "6.6. Produtor (originator)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6.6. Produtor (originator)\n\nEntidade que criou o recurso."
+  },
+  "81aa27192a569a90": {
+   "fragment_id": "6.7. Contacto (pointOfContact)",
+   "type": "divisao",
+   "heading": "6.7. Contacto (pointOfContact)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6.7. Contacto (pointOfContact)\n\nEntidade que pode ser contactada para obtenção do recurso ou de informação sobre o recurso."
+  },
+  "596b2dd463aef97a": {
+   "fragment_id": "6.8. Investigador principal (principalInvestigator)",
+   "type": "divisao",
+   "heading": "6.8. Investigador principal (principalInvestigator)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6.8. Investigador principal (principalInvestigator)\n\nEntidade que é o principal responsável pela recolha da informação e orientação da investigação."
+  },
+  "dd5047cd8e3c096d": {
+   "fragment_id": "6.9. Contacto do processo (processor)",
+   "type": "divisao",
+   "heading": "6.9. Contacto do processo (processor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6.9. Contacto do processo (processor)\n\nEntidade que efectuou um processamento dos dados conducente à modificação do recurso."
+  },
+  "01ad08f5c94bcb80": {
+   "fragment_id": "6.10. Editor (publisher)",
+   "type": "divisao",
+   "heading": "6.10. Editor (publisher)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6.10. Editor (publisher)\n\nEntidade que publicou o recurso."
+  },
+  "47a32596bd1a546d": {
+   "fragment_id": "6.11. Autor (author)",
+   "type": "divisao",
+   "heading": "6.11. Autor (author)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6.11. Autor (author)\n\nEntidade que é autora do recurso.\n\n---"
+  },
+  "91bad99371d07461": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/547976e9-073d-4a2a-b834-a435cd0fb5e0.0018.03/DOC_1#src.E0001)) JO L 108 de 25.4.2007, p. 1."
+  }
+ }
+}

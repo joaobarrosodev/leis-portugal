@@ -1,0 +1,107 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:371976:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-126479126",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/4-2001-371976",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2001-03-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "126518177",
+    "126518178",
+    "126518179",
+    "126518180",
+    "126518181"
+   ]
+  },
+  {
+   "date": "2019-11-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:126467885:por",
+     "title": "Decreto Legislativo Regional n.º 27/2019/A",
+     "published": "2019-11-22",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/27-2019-126467885"
+    }
+   ],
+   "changes": [
+    "Altera Assinatura"
+   ],
+   "fragments": [
+    "126518177",
+    "126518178",
+    "126518179",
+    "126518180",
+    "126518188",
+    "126518189"
+   ]
+  }
+ ],
+ "fragments": {
+  "126518177": {
+   "fragment_id": "126479127",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 4/2001/A\n\nDesafectação do regime florestal de uma parcela de terreno baldio no núcleo florestal da Achada, no perímetro florestal da ilha Terceira.\n\nConsiderando que, por decreto publicado no Diário do Governo, 2.ª série, n.º 89, de 14 de Abril de 1961, foi decretada a submissão ao regime florestal, por utilidade pública, dos terrenos baldios situados nas diferentes freguesias da ilha Terceira, tendo, deste modo, ficado constituído o perímetro florestal da Terceira;\n\nConsiderando a intenção da Câmara Municipal de Angra do Heroísmo de instalar, numa parcela de terreno do Núcleo Florestal da Achada com 135 ha, o aterro sanitário municipal e o parque industrial;\n\nConsiderando a viabilidade da pretensão da referida Câmara Municipal, uma vez que o terreno em causa não apresenta, actualmente, qualquer rendimento que possa ser afectado pelas infra-estruturas que se pretendem instalar e ainda porque, para aquela parcela de terreno, não estão previstas quaisquer acções de florestação ou de instalação de pastagens baldias economicamente rentáveis;\n\nConsiderando o interesse público de que se reveste o pretendido empreendimento, não só para a autarquia angrense, como também para toda a população do concelho e da ilha, na salvaguarda das regras de higiene e saúde pública;\n\nAssim, a Assembleia Legislativa Regional dos Açores, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 31.º da Lei n.º 61/98, de 27 de Agosto (Estatuto Político-Administrativo da Região Autónoma dos Açores), decreta o seguinte:"
+  },
+  "126518178": {
+   "fragment_id": "126479128",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - É desafectada do regime florestal parcial a que foi sujeita por decreto publicado no Diário do Governo, 2.ª série, n.º 89, de 14 de Abril de 1961, uma parcela de terreno, com a área de 135 ha, do Núcleo Florestal da Achada, nas freguesias de São Bento, Porto Judeu e Ribeirinha, do concelho de Angra do Heroísmo, conforme demarcação que consta da planta anexa ao presente diploma, do qual faz parte integrante, com as seguintes confrontações:\n\na) A norte: via rápida Angra do Heroísmo-Praia da Vitória e terrenos afectos ao Serviço Regional de Protecção Civil e Bombeiros dos Açores;\n\nb) A sul e a este: terrenos baldios sujeitos ao regime florestal;\n\nc) A oeste: João Nunes Toste Gomes, António Pedro de Meneses Simões, Maria Esperança Toste do Couto, José Luís da Costa e Francisco Lourenço Homem Jr.\n\n2 - A desafectação da parcela de terreno referida no número anterior tem carácter definitivo e destina-se à instalação do aterro sanitário municipal e do parque industrial, da responsabilidade da Câmara Municipal de Angra do Heroísmo.\n\n3 - Caso não venha a verificar-se o uso referido no número anterior, a parcela de terreno em causa será novamente integrada no Núcleo Florestal da Achada, perímetro florestal da ilha Terceira."
+  },
+  "126518179": {
+   "fragment_id": "126479129",
+   "type": 11,
+   "heading": "Artigo 2.º — Demarcação e entrega",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Demarcação e entrega\n\n1 - A Câmara Municipal de Angra do Heroísmo, sob a orientação da Direcção Regional dos Recursos Florestais, deverá proceder à demarcação da referida parcela de terreno.\n\n2 - A entrega da parcela de terreno identificada no n.º 1 do artigo 1.º só será efectivada após a demarcação referida no número anterior."
+  },
+  "126518180": {
+   "fragment_id": "126479130",
+   "type": 11,
+   "heading": "Artigo 3.º — Trabalhos complementares e receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Trabalhos complementares e receitas\n\nO corte do arvoredo, se necessário, bem como a eventual venda dos produtos dele resultantes serão efectuados sob orientação da Direcção Regional dos Recursos Florestais e a sua receita será distribuída nos termos da legislação e regulamentação em vigor."
+  },
+  "126518181": {
+   "fragment_id": "126479131",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "126518188": {
+   "fragment_id": "126479131",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 27/2019/A - Diário da República n.º 225/2019, Série I de 2019-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2019-126467885)"
+   ],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 27/2019/A - Diário da República n.º 225/2019, Série I de 2019-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2019-126467885)"
+  },
+  "126518189": {
+   "fragment_id": "126479132",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-11-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 27/2019/A - Diário da República n.º 225/2019, Série I de 2019-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2019-126467885), em vigor a partir de 2019-11-23, produz efeitos a partir de 2001-03-07"
+   ],
+   "markdown": "Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 24 de Janeiro de 2001.\n\nO Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.\n\nAssinado em Angra do Heroísmo em 12 de Fevereiro de 2001.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.\n\n(ver planta no documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 27/2019/A - Diário da República n.º 225/2019, Série I de 2019-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2019-126467885), em vigor a partir de 2019-11-23, produz efeitos a partir de 2001-03-07"
+  }
+ }
+}

@@ -1,0 +1,418 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:514658:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-853385890",
+ "dre_path": "/dr/detalhe/decreto-lei/41-2000-514658",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2000-03-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "853385520",
+    "853385503",
+    "853385504",
+    "853385505",
+    "853385506",
+    "853385507",
+    "853385508",
+    "853385509",
+    "853385510",
+    "853385511",
+    "853385512",
+    "853385513",
+    "853385514",
+    "853385515",
+    "853385516",
+    "853385517"
+   ]
+  },
+  {
+   "date": "2007-03-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:522624:por",
+     "title": "Decreto-Lei n.º 18/2007",
+     "published": "2007-01-22",
+     "dre_path": "/dr/detalhe/decreto-lei/18-2007-522624"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "853385502",
+    "853385503",
+    "853385504",
+    "853385505",
+    "853385506",
+    "853385519",
+    "853385508",
+    "853385509",
+    "853385510",
+    "853385511",
+    "853385512",
+    "853385513",
+    "853385514",
+    "853385515",
+    "853385516",
+    "853385517",
+    "853385518"
+   ]
+  },
+  {
+   "date": "2009-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:483411:por",
+     "title": "Decreto-Lei n.º 317/2009",
+     "published": "2009-10-30",
+     "dre_path": "/dr/detalhe/decreto-lei/317-2009-483411"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "853385520",
+    "853385521",
+    "853385522",
+    "853385523",
+    "853385524",
+    "853385525",
+    "853385526",
+    "853385527",
+    "853385528",
+    "853385529",
+    "853385530",
+    "853385531",
+    "853385532",
+    "853385533",
+    "853385534",
+    "853385535",
+    "853385536"
+   ]
+  }
+ ],
+ "fragments": {
+  "853385520": {
+   "fragment_id": "853385891",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2009-11-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 41/2000\n\nde 17 de Março\n\nO presente diploma estabelece o regime jurídico relativo às transferências internas e transfronteiras realizadas nas moedas dos Estados integrantes do Espaço Económico Europeu e transpõe para a ordem jurídica interna a Directiva n.º 97/5/CE, do Parlamento Europeu e do Conselho, de 27 de Janeiro de 1997, relativa às transferências transfronteiras.\n\nO objectivo do presente decreto-lei é, pois, assegurar que os particulares e as empresas, nomeadamente as pequenas e médias empresas, possam efectuar transferências de forma expedita, fiável e pouco onerosa entre as diferentes zonas da Comunidade, estabelecendo-se para tal, na esteira do normativo comunitário referido, um conjunto de regras em matéria de transparência e de execução dos pagamentos transfronteiras.\n\nAssim, e porque se visa a protecção dos particulares e das pequenas e médias empresas, limita-se o âmbito de aplicação do diploma às transferências inferiores ao valor de 50000 euros.\n\nPor outro lado, a aplicação do presente diploma cobre, também, as transferências internas, estabelecendo-se, no entanto, para estas um prazo de execução sensivelmente mais curto.\n\nA transparência na execução das transferências visando a tutela dos interesses dos consumidores é assegurada através da consagração legal de um conjunto de obrigações de informação, tanto prévias como posteriores à realização de uma transferência, incluindo a obrigação de execução das transferências de acordo com as instruções dos clientes.\n\nConsagram-se, também, normas simplificadas sobre obrigações de indemnização e sobre reembolso de despesas ilicitamente cobradas.\n\nEstabelece-se ainda uma obrigação de reembolso, limitada a 12500 euros, quanto a transferências que não se efectuem em determinado prazo. Esta «garantia de reembolso» apenas não é exigível em casos de força maior.\n\nPor último, sendo um dos propósitos do XIV Governo Constitucional, na área da justiça, estimular modos de composição de conflitos exteriores aos tribunais, consagra-se a possibilidade de recurso à arbitragem, nos termos gerais da lei nacional.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "853385503": {
+   "fragment_id": "853385892",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - O presente diploma aplica-se às transferências efectuadas em euros, nas respectivas subdivisões nacionais ou nas divisas dos Estados integrantes do Espaço Económico Europeu, de montante inferior a 50000 euros, ordenadas por pessoas que não as referidas no n.º 2 do presente artigo e executadas por instituições habilitadas a efectuar este tipo de operações.\n\n2 - Excluem-se do âmbito de aplicação deste diploma as transferências ordenadas por instituições de crédito, sociedades financeiras ou qualquer pessoa singular ou colectiva que, no âmbito da respectiva actividade profissional, execute transferências transfronteiras."
+  },
+  "853385504": {
+   "fragment_id": "853385893",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) Transferência: uma operação efectuada por iniciativa de um ordenante, operada através de uma instituição e destinada a colocar quantias em dinheiro à disposição de um beneficiário noutra instituição, podendo a mesma pessoa reunir as qualidades de ordenante e beneficiário;\n\nb) Transferência transfronteiras: aquela em que a instituição do ordenante e a do beneficiário se situam em Estados diferentes, dentro do Espaço Económico Europeu;\n\nc) Transferência interna: aquela em que a instituição do ordenante e a do beneficiário se situam em território nacional;\n\nd) Ordenante: qualquer pessoa singular ou colectiva que ordene a execução de uma transferência a favor de um beneficiário, com as excepções previstas no n.º 2 do artigo 1.º;\n\ne) Beneficiário: o destinatário final de uma transferência, cujas quantias em dinheiro são postas à sua disposição;\n\nf) Instituição intermediária: uma instituição que não seja a do ordenante nem a do beneficiário e que participe na execução de uma transferência;\n\ng) Taxa legal de juro: a fixada de acordo com o artigo 559.º do Código Civil;\n\nh) Dia útil: período do dia em que a instituição se encontra aberta ao público em horário normal de funcionamento."
+  },
+  "853385505": {
+   "fragment_id": "853385894",
+   "type": 11,
+   "heading": "Artigo 3.º — Obrigações prévias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Obrigações prévias\n\n1 - As instituições são obrigadas a disponibilizar ao público informações por escrito, incluindo a via electrónica, apresentadas de forma facilmente compreensível, sobre as condições aplicáveis às transferências, incluindo:\n\na) A indicação do prazo necessário para que a conta da instituição do beneficiário seja creditada, especificando o dia em que este começa a contar;\n\nb) A indicação do prazo necessário, em caso de recepção de uma transferência, para que as quantias em dinheiro sejam creditadas na conta do beneficiário, ou por outra forma colocadas à sua disposição;\n\nc) A data a partir da qual a transferência se torna efectiva e se inicia a eventual contagem de juros (data-valor);\n\nd) As regras de cálculo de todas as comissões e as despesas a pagar pelo cliente à instituição, incluindo eventuais taxas;\n\ne) A indicação dos procedimentos de reclamação e de recurso de que o cliente dispõe e das respectivas regras de acesso;\n\nf) A indicação da taxa de câmbio de referência utilizada.\n\n2 - A instituição deve, relativamente a cada transferência, comprometer-se quanto ao prazo para a respectiva execução e quanto às comissões e despesas a ela inerentes, com excepção das relacionadas com a taxa de câmbio a aplicar efectivamente, que varia em função do mercado."
+  },
+  "853385506": {
+   "fragment_id": "853385895",
+   "type": 11,
+   "heading": "Artigo 4.º — Obrigações posteriores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Obrigações posteriores\n\n1 - Posteriormente à execução ou à recepção de uma transferência, as instituições devem prestar aos clientes, por escrito ou por meios electrónicos, salvo se estes a tal renunciarem expressamente, informações facilmente compreensíveis, incluindo, pelo menos:\n\na) Uma referência que permita ao cliente identificar a transferência;\n\nb) O montante inicial da transferência;\n\nc) O montante de todas as despesas e comissões a cargo do cliente;\n\nd) A data a partir da qual a transferência se torna efectiva e se inicia a eventual contagem de juros (data-valor);\n\ne) A taxa de câmbio aplicada;\n\nf) As despesas pagas pelo beneficiário.\n\n2 - No caso da alínea e), apenas a instituição que aplica a taxa de câmbio é obrigada a informar, impendendo, no caso da alínea f), a obrigação sobre a instituição do beneficiário."
+  },
+  "853385507": {
+   "fragment_id": "853385896",
+   "type": 11,
+   "heading": "Artigo 5.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Prazos\n\n1 - As transferências devem ser efectuadas no prazo acordado.\n\n2 - Nas transferências internas e na ausência de estipulação em contrário, as quantias em dinheiro devem ser creditadas na conta da instituição do beneficiário dentro do prazo de um dia útil.\n\n3 - Nas transferências transfronteiras e na ausência de estipulação em contrário, as quantias em dinheiro devem ser creditadas na conta da instituição do beneficiário dentro do prazo de cinco dias úteis.\n\n4 - Em ambos os casos a instituição do beneficiário deve, na falta de motivo impeditivo, creditar ou entregar as quantias em dinheiro ao beneficiário no prazo máximo de um dia útil a contar daquele em que recebeu a ordem de transferência, sendo a data-valor, o mais tardar, a do momento do crédito."
+  },
+  "853385508": {
+   "fragment_id": "853385897",
+   "type": 11,
+   "heading": "Artigo 6.º — Indemnização pela instituição do ordenante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Indemnização pela instituição do ordenante\n\n1 - Se a transferência não for efectuada dentro do prazo previsto no artigo anterior, a instituição do ordenante deve indemnizar este último.\n\n2 - A indemnização consiste, sem prejuízo de qualquer outra, no pagamento de juro, à taxa legal, sobre o montante da transferência, calculado entre o termo do prazo para efectuar a transferência e a data em que as quantias em dinheiro são creditadas na conta da instituição do beneficiário."
+  },
+  "853385509": {
+   "fragment_id": "853385898",
+   "type": 11,
+   "heading": "Artigo 7.º — Indemnização pela instituição intermediária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Indemnização pela instituição intermediária\n\nQuando a não execução da transferência dentro do prazo for imputável a uma instituição intermediária, esta é obrigada a indemnizar a instituição do ordenante."
+  },
+  "853385510": {
+   "fragment_id": "853385899",
+   "type": 11,
+   "heading": "Artigo 8.º — Indemnização pela instituição do beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Indemnização pela instituição do beneficiário\n\n1 - Se a instituição do beneficiário não cumprir o prazo para colocar as quantias em dinheiro à disposição deste, deve indemnizá-lo.\n\n2 - A indemnização consiste, sem prejuízo de qualquer outra, no pagamento de juro, à taxa legal, sobre o montante da transferência, calculado entre o termo do prazo e a data em que as quantias em dinheiro são creditadas na conta do beneficiário, ou por outra forma colocadas à sua disposição."
+  },
+  "853385511": {
+   "fragment_id": "853385900",
+   "type": 11,
+   "heading": "Artigo 9.º — Despesas relativas à transferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Despesas relativas à transferência\n\n1 - Qualquer instituição responsável por efectuar uma transferência é obrigada a efectuá-la pelo seu montante integral, excepto se o ordenante especificar que as despesas relativas à transferência devem ser suportadas na totalidade ou em parte pelo beneficiário.\n\n2 - O número anterior não afasta a possibilidade de a instituição de crédito do beneficiário, segundo as regras aplicáveis, debitar a este as despesas relativas à gestão da sua conta, afectando indirectamente o montante da transferência."
+  },
+  "853385512": {
+   "fragment_id": "853385901",
+   "type": 11,
+   "heading": "Artigo 10.º — Despesas ilicitamente debitadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Despesas ilicitamente debitadas\n\n1 - Sem prejuízo de qualquer outra indemnização, quando a instituição do ordenante ou uma instituição intermediária tiver procedido a uma dedução sobre o montante da transferência em violação do disposto no artigo anterior, a instituição do ordenante é obrigada, a pedido deste, a transferir, sem qualquer dedução e à sua custa, o montante deduzido ao beneficiário, excepto se o ordenante pedir que esse montante lhe seja creditado.\n\n2 - As instituições intermediárias que procedam a uma dedução ilícita são obrigadas a devolver, sem prejuízo de qualquer outra indemnização, o montante deduzido, na íntegra e à sua custa, para a instituição do ordenante ou, se a instituição do ordenante assim o solicitar, a transferi-lo para o beneficiário da transferência.\n\n3 - No caso de a instituição do beneficiário proceder a deduções ilícitas, sem prejuízo de qualquer outra indemnização, está obrigada a creditar ou entregar ao beneficiário esses montantes."
+  },
+  "853385513": {
+   "fragment_id": "853385902",
+   "type": 11,
+   "heading": "Artigo 11.º — Garantia de reembolso a cargo da instituição do ordenante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Garantia de reembolso a cargo da instituição do ordenante\n\n1 - Quando o montante da transferência não for creditado na conta da instituição do beneficiário, e sem prejuízo de qualquer outra indemnização, a instituição do ordenante é obrigada a creditar a este, no prazo de 14 dias úteis a contar do pedido de transferência, o montante da transferência, até ao limite de 12500 euros.\n\n2 - Para além do montante referido na alínea anterior, a instituição do ordenante é ainda obrigada a creditar:\n\na) Um juro, à taxa legal, calculado sobre o montante da transferência, entre a data da ordem de transferência e a do crédito;\n\nb) O montante das despesas pagas pelo ordenante, relativas à transferência.\n\n3 - O ordenante apenas pode exercer os direitos previstos nos números anteriores decorrido o prazo previsto no artigo 5.º, a não ser que, antes desse prazo, se torne inequívoco que a transferência não vai ser cumprida.\n\n4 - Quando a transferência não for efectuada devido a erro ou omissão nas instruções dadas pelo ordenante à sua instituição, ou devido à não execução da ordem de transferência por uma instituição intermediária expressamente escolhida pelo ordenante, a instituição do ordenante deve esforçar-se, na medida do possível, por reembolsar o montante da transferência.\n\n5 - Na situação prevista no número anterior, a instituição do ordenante, caso recupere o montante da transferência, é obrigada a creditá-lo ao ordenante, não sendo obrigada a reembolsar as despesas efectuadas e os juros vencidos, podendo deduzir as despesas provocadas pela recuperação, na medida em que sejam especificadas."
+  },
+  "853385514": {
+   "fragment_id": "853385903",
+   "type": 11,
+   "heading": "Artigo 12.º — Garantia de reembolso a cargo da instituição intermediária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Garantia de reembolso a cargo da instituição intermediária\n\n1 - Sobre as instituições intermediárias impendem as obrigações estabelecidas no artigo anterior, em favor da instituição que lhes dirigiu as ordens.\n\n2 - Se a transferência não for executada devido a erro ou omissão nas instruções recebidas, a instituição intermediária deve esforçar-se, na medida do possível, por reembolsar o montante da transferência."
+  },
+  "853385515": {
+   "fragment_id": "853385904",
+   "type": 11,
+   "heading": "Artigo 13.º — Garantia de reembolso a cargo da instituição do beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Garantia de reembolso a cargo da instituição do beneficiário\n\nQuando a inexecução da transferência for causada por uma instituição intermediária escolhida pela instituição do beneficiário, as obrigações previstas no artigo 11.º impendem sobre esta última, em favor do beneficiário."
+  },
+  "853385516": {
+   "fragment_id": "853385905",
+   "type": 11,
+   "heading": "Artigo 14.º — Exclusão de responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Exclusão de responsabilidade\n\n1 - Sem prejuízo das disposições relativas à prevenção da utilização do sistema financeiro para efeitos de branqueamento de capitais, que impedem ou limitam a execução de transferências, as instituições serão liberadas das obrigações previstas no presente decreto-lei, por motivo de força maior, nomeadamente circunstâncias alheias à sua vontade, anormais e imprevisíveis, cujas consequências não tenham podido evitar apesar de todos os esforços desenvolvidos.\n\n2 - Não é considerado motivo de força maior qualquer procedimento de insolvência ou falência, segundo o qual, através de uma medida colectiva de reestruturação ou liquidação da entidade que dela é objecto, se limite, suspenda ou faça cessar o cumprimento de obrigações."
+  },
+  "853385517": {
+   "fragment_id": "853385906",
+   "type": 11,
+   "heading": "Artigo 15.º — Recurso arbitragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Recurso arbitragem\n\nOs conflitos emergentes da interpretação e aplicação do presente diploma podem ser resolvidos por recurso aos meios de arbitragem previstos na Lei n.º 31/86, de 29 de Agosto."
+  },
+  "853385502": {
+   "fragment_id": "853385891",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 41/2000\n\nde 17 de Março\n\nO presente diploma estabelece o regime jurídico relativo às transferências internas e transfronteiras realizadas nas moedas dos Estados integrantes do Espaço Económico Europeu e transpõe para a ordem jurídica interna a Directiva n.º 97/5/CE, do Parlamento Europeu e do Conselho, de 27 de Janeiro de 1997, relativa às transferências transfronteiras.\n\nO objectivo do presente decreto-lei é, pois, assegurar que os particulares e as empresas, nomeadamente as pequenas e médias empresas, possam efectuar transferências de forma expedita, fiável e pouco onerosa entre as diferentes zonas da Comunidade, estabelecendo-se para tal, na esteira do normativo comunitário referido, um conjunto de regras em matéria de transparência e de execução dos pagamentos transfronteiras.\n\nAssim, e porque se visa a protecção dos particulares e das pequenas e médias empresas, limita-se o âmbito de aplicação do diploma às transferências inferiores ao valor de 50000 euros.\n\nPor outro lado, a aplicação do presente diploma cobre, também, as transferências internas, estabelecendo-se, no entanto, para estas um prazo de execução sensivelmente mais curto.\n\nA transparência na execução das transferências visando a tutela dos interesses dos consumidores é assegurada através da consagração legal de um conjunto de obrigações de informação, tanto prévias como posteriores à realização de uma transferência, incluindo a obrigação de execução das transferências de acordo com as instruções dos clientes.\n\nConsagram-se, também, normas simplificadas sobre obrigações de indemnização e sobre reembolso de despesas ilicitamente cobradas.\n\nEstabelece-se ainda uma obrigação de reembolso, limitada a 12500 euros, quanto a transferências que não se efectuem em determinado prazo. Esta «garantia de reembolso» apenas não é exigível em casos de força maior.\n\nPor último, sendo um dos propósitos do XIV Governo Constitucional, na área da justiça, estimular modos de composição de conflitos exteriores aos tribunais, consagra-se a possibilidade de recurso à arbitragem, nos termos gerais da lei nacional.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "853385519": {
+   "fragment_id": "853385896",
+   "type": 11,
+   "heading": "Artigo 5.º — Prazos",
+   "in_force_from": "2007-03-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 18/2007 - Diário da República n.º 15/2007, Série I de 2007-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2007-522624), em vigor a partir de 2007-03-15"
+   ],
+   "markdown": "###### Artigo 5.º — Prazos\n\n1 - As transferências devem ser efectuadas no prazo acordado.\n\n2 - Nas transferências internas e na ausência de estipulação em contrário pelo cliente, as quantias em dinheiro devem ser creditadas na conta do beneficiário no próprio dia, se a transferência se efectuar entre contas sediadas na mesma instituição, e o mais tardar no dia útil seguinte, se a transferência for interbancária, sendo a data valor e a data de disponibilização a do momento do crédito.\n\n3 - Nas transferências transfronteiras e na ausência de estipulação em contrário, as quantias em dinheiro devem ser creditadas na conta da instituição do beneficiário dentro do prazo de cinco dias úteis.\n\n4 - Em ambos os casos, a instituição do beneficiário deve creditar na conta deste e disponibilizar o respectivo saldo credor no mesmo dia em que, nos termos do n.º 2, a quantia é creditada na conta da instituição ou, tratando-se de transferências transfronteiras, no dia útil seguinte, sendo nos dois casos atribuída a data valor do momento do crédito.\n\n5 - É proibido o débito de juros, ou de qualquer despesa correspondente, pela movimentação a débito dos fundos disponibilizados nos termos dos artigos anteriores.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 18/2007 - Diário da República n.º 15/2007, Série I de 2007-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2007-522624), em vigor a partir de 2007-03-15"
+  },
+  "853385518": {
+   "fragment_id": "853385907",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 10 de Fevereiro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa.\n\nPromulgado em 6 de Março de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Março de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "853385521": {
+   "fragment_id": "853385892",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - O presente diploma aplica-se às transferências efectuadas em euros, nas respectivas subdivisões nacionais ou nas divisas dos Estados integrantes do Espaço Económico Europeu, de montante inferior a 50000 euros, ordenadas por pessoas que não as referidas no n.º 2 do presente artigo e executadas por instituições habilitadas a efectuar este tipo de operações.\n\n2 - Excluem-se do âmbito de aplicação deste diploma as transferências ordenadas por instituições de crédito, sociedades financeiras ou qualquer pessoa singular ou colectiva que, no âmbito da respectiva actividade profissional, execute transferências transfronteiras.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+  },
+  "853385522": {
+   "fragment_id": "853385893",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) Transferência: uma operação efectuada por iniciativa de um ordenante, operada através de uma instituição e destinada a colocar quantias em dinheiro à disposição de um beneficiário noutra instituição, podendo a mesma pessoa reunir as qualidades de ordenante e beneficiário;\n\nb) Transferência transfronteiras: aquela em que a instituição do ordenante e a do beneficiário se situam em Estados diferentes, dentro do Espaço Económico Europeu;\n\nc) Transferência interna: aquela em que a instituição do ordenante e a do beneficiário se situam em território nacional;\n\nd) Ordenante: qualquer pessoa singular ou colectiva que ordene a execução de uma transferência a favor de um beneficiário, com as excepções previstas no n.º 2 do artigo 1.º;\n\ne) Beneficiário: o destinatário final de uma transferência, cujas quantias em dinheiro são postas à sua disposição;\n\nf) Instituição intermediária: uma instituição que não seja a do ordenante nem a do beneficiário e que participe na execução de uma transferência;\n\ng) Taxa legal de juro: a fixada de acordo com o artigo 559.º do Código Civil;\n\nh) Dia útil: período do dia em que a instituição se encontra aberta ao público em horário normal de funcionamento.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+  },
+  "853385523": {
+   "fragment_id": "853385894",
+   "type": 11,
+   "heading": "Artigo 3.º — Obrigações prévias",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 3.º — Obrigações prévias\n\n1 - As instituições são obrigadas a disponibilizar ao público informações por escrito, incluindo a via electrónica, apresentadas de forma facilmente compreensível, sobre as condições aplicáveis às transferências, incluindo:\n\na) A indicação do prazo necessário para que a conta da instituição do beneficiário seja creditada, especificando o dia em que este começa a contar;\n\nb) A indicação do prazo necessário, em caso de recepção de uma transferência, para que as quantias em dinheiro sejam creditadas na conta do beneficiário, ou por outra forma colocadas à sua disposição;\n\nc) A data a partir da qual a transferência se torna efectiva e se inicia a eventual contagem de juros (data-valor);\n\nd) As regras de cálculo de todas as comissões e as despesas a pagar pelo cliente à instituição, incluindo eventuais taxas;\n\ne) A indicação dos procedimentos de reclamação e de recurso de que o cliente dispõe e das respectivas regras de acesso;\n\nf) A indicação da taxa de câmbio de referência utilizada.\n\n2 - A instituição deve, relativamente a cada transferência, comprometer-se quanto ao prazo para a respectiva execução e quanto às comissões e despesas a ela inerentes, com excepção das relacionadas com a taxa de câmbio a aplicar efectivamente, que varia em função do mercado.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+  },
+  "853385524": {
+   "fragment_id": "853385895",
+   "type": 11,
+   "heading": "Artigo 4.º — Obrigações posteriores",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 4.º — Obrigações posteriores\n\n1 - Posteriormente à execução ou à recepção de uma transferência, as instituições devem prestar aos clientes, por escrito ou por meios electrónicos, salvo se estes a tal renunciarem expressamente, informações facilmente compreensíveis, incluindo, pelo menos:\n\na) Uma referência que permita ao cliente identificar a transferência;\n\nb) O montante inicial da transferência;\n\nc) O montante de todas as despesas e comissões a cargo do cliente;\n\nd) A data a partir da qual a transferência se torna efectiva e se inicia a eventual contagem de juros (data-valor);\n\ne) A taxa de câmbio aplicada;\n\nf) As despesas pagas pelo beneficiário.\n\n2 - No caso da alínea e), apenas a instituição que aplica a taxa de câmbio é obrigada a informar, impendendo, no caso da alínea f), a obrigação sobre a instituição do beneficiário.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+  },
+  "853385525": {
+   "fragment_id": "853385896",
+   "type": 11,
+   "heading": "Artigo 5.º — Prazos",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01",
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 18/2007 - Diário da República n.º 15/2007, Série I de 2007-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2007-522624), em vigor a partir de 2007-03-15"
+   ],
+   "markdown": "###### Artigo 5.º — Prazos\n\n1 - As transferências devem ser efectuadas no prazo acordado.\n\n2 - Nas transferências internas e na ausência de estipulação em contrário pelo cliente, as quantias em dinheiro devem ser creditadas na conta do beneficiário no próprio dia, se a transferência se efectuar entre contas sediadas na mesma instituição, e o mais tardar no dia útil seguinte, se a transferência for interbancária, sendo a data valor e a data de disponibilização a do momento do crédito.\n\n3 - Nas transferências transfronteiras e na ausência de estipulação em contrário, as quantias em dinheiro devem ser creditadas na conta da instituição do beneficiário dentro do prazo de cinco dias úteis.\n\n4 - Em ambos os casos, a instituição do beneficiário deve creditar na conta deste e disponibilizar o respectivo saldo credor no mesmo dia em que, nos termos do n.º 2, a quantia é creditada na conta da instituição ou, tratando-se de transferências transfronteiras, no dia útil seguinte, sendo nos dois casos atribuída a data valor do momento do crédito.\n\n5 - É proibido o débito de juros, ou de qualquer despesa correspondente, pela movimentação a débito dos fundos disponibilizados nos termos dos artigos anteriores.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 18/2007 - Diário da República n.º 15/2007, Série I de 2007-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2007-522624), em vigor a partir de 2007-03-15"
+  },
+  "853385526": {
+   "fragment_id": "853385897",
+   "type": 11,
+   "heading": "Artigo 6.º — Indemnização pela instituição do ordenante",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 6.º — Indemnização pela instituição do ordenante\n\n1 - Se a transferência não for efectuada dentro do prazo previsto no artigo anterior, a instituição do ordenante deve indemnizar este último.\n\n2 - A indemnização consiste, sem prejuízo de qualquer outra, no pagamento de juro, à taxa legal, sobre o montante da transferência, calculado entre o termo do prazo para efectuar a transferência e a data em que as quantias em dinheiro são creditadas na conta da instituição do beneficiário.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+  },
+  "853385527": {
+   "fragment_id": "853385898",
+   "type": 11,
+   "heading": "Artigo 7.º — Indemnização pela instituição intermediária",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 7.º — Indemnização pela instituição intermediária\n\nQuando a não execução da transferência dentro do prazo for imputável a uma instituição intermediária, esta é obrigada a indemnizar a instituição do ordenante.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+  },
+  "853385528": {
+   "fragment_id": "853385899",
+   "type": 11,
+   "heading": "Artigo 8.º — Indemnização pela instituição do beneficiário",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 8.º — Indemnização pela instituição do beneficiário\n\n1 - Se a instituição do beneficiário não cumprir o prazo para colocar as quantias em dinheiro à disposição deste, deve indemnizá-lo.\n\n2 - A indemnização consiste, sem prejuízo de qualquer outra, no pagamento de juro, à taxa legal, sobre o montante da transferência, calculado entre o termo do prazo e a data em que as quantias em dinheiro são creditadas na conta do beneficiário, ou por outra forma colocadas à sua disposição.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+  },
+  "853385529": {
+   "fragment_id": "853385900",
+   "type": 11,
+   "heading": "Artigo 9.º — Despesas relativas à transferência",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 9.º — Despesas relativas à transferência\n\n1 - Qualquer instituição responsável por efectuar uma transferência é obrigada a efectuá-la pelo seu montante integral, excepto se o ordenante especificar que as despesas relativas à transferência devem ser suportadas na totalidade ou em parte pelo beneficiário.\n\n2 - O número anterior não afasta a possibilidade de a instituição de crédito do beneficiário, segundo as regras aplicáveis, debitar a este as despesas relativas à gestão da sua conta, afectando indirectamente o montante da transferência.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+  },
+  "853385530": {
+   "fragment_id": "853385901",
+   "type": 11,
+   "heading": "Artigo 10.º — Despesas ilicitamente debitadas",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 10.º — Despesas ilicitamente debitadas\n\n1 - Sem prejuízo de qualquer outra indemnização, quando a instituição do ordenante ou uma instituição intermediária tiver procedido a uma dedução sobre o montante da transferência em violação do disposto no artigo anterior, a instituição do ordenante é obrigada, a pedido deste, a transferir, sem qualquer dedução e à sua custa, o montante deduzido ao beneficiário, excepto se o ordenante pedir que esse montante lhe seja creditado.\n\n2 - As instituições intermediárias que procedam a uma dedução ilícita são obrigadas a devolver, sem prejuízo de qualquer outra indemnização, o montante deduzido, na íntegra e à sua custa, para a instituição do ordenante ou, se a instituição do ordenante assim o solicitar, a transferi-lo para o beneficiário da transferência.\n\n3 - No caso de a instituição do beneficiário proceder a deduções ilícitas, sem prejuízo de qualquer outra indemnização, está obrigada a creditar ou entregar ao beneficiário esses montantes.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+  },
+  "853385531": {
+   "fragment_id": "853385902",
+   "type": 11,
+   "heading": "Artigo 11.º — Garantia de reembolso a cargo da instituição do ordenante",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 11.º — Garantia de reembolso a cargo da instituição do ordenante\n\n1 - Quando o montante da transferência não for creditado na conta da instituição do beneficiário, e sem prejuízo de qualquer outra indemnização, a instituição do ordenante é obrigada a creditar a este, no prazo de 14 dias úteis a contar do pedido de transferência, o montante da transferência, até ao limite de 12500 euros.\n\n2 - Para além do montante referido na alínea anterior, a instituição do ordenante é ainda obrigada a creditar:\n\na) Um juro, à taxa legal, calculado sobre o montante da transferência, entre a data da ordem de transferência e a do crédito;\n\nb) O montante das despesas pagas pelo ordenante, relativas à transferência.\n\n3 - O ordenante apenas pode exercer os direitos previstos nos números anteriores decorrido o prazo previsto no artigo 5.º, a não ser que, antes desse prazo, se torne inequívoco que a transferência não vai ser cumprida.\n\n4 - Quando a transferência não for efectuada devido a erro ou omissão nas instruções dadas pelo ordenante à sua instituição, ou devido à não execução da ordem de transferência por uma instituição intermediária expressamente escolhida pelo ordenante, a instituição do ordenante deve esforçar-se, na medida do possível, por reembolsar o montante da transferência.\n\n5 - Na situação prevista no número anterior, a instituição do ordenante, caso recupere o montante da transferência, é obrigada a creditá-lo ao ordenante, não sendo obrigada a reembolsar as despesas efectuadas e os juros vencidos, podendo deduzir as despesas provocadas pela recuperação, na medida em que sejam especificadas.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+  },
+  "853385532": {
+   "fragment_id": "853385903",
+   "type": 11,
+   "heading": "Artigo 12.º — Garantia de reembolso a cargo da instituição intermediária",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 12.º — Garantia de reembolso a cargo da instituição intermediária\n\n1 - Sobre as instituições intermediárias impendem as obrigações estabelecidas no artigo anterior, em favor da instituição que lhes dirigiu as ordens.\n\n2 - Se a transferência não for executada devido a erro ou omissão nas instruções recebidas, a instituição intermediária deve esforçar-se, na medida do possível, por reembolsar o montante da transferência.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+  },
+  "853385533": {
+   "fragment_id": "853385904",
+   "type": 11,
+   "heading": "Artigo 13.º — Garantia de reembolso a cargo da instituição do beneficiário",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 13.º — Garantia de reembolso a cargo da instituição do beneficiário\n\nQuando a inexecução da transferência for causada por uma instituição intermediária escolhida pela instituição do beneficiário, as obrigações previstas no artigo 11.º impendem sobre esta última, em favor do beneficiário.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+  },
+  "853385534": {
+   "fragment_id": "853385905",
+   "type": 11,
+   "heading": "Artigo 14.º — Exclusão de responsabilidade",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 14.º — Exclusão de responsabilidade\n\n1 - Sem prejuízo das disposições relativas à prevenção da utilização do sistema financeiro para efeitos de branqueamento de capitais, que impedem ou limitam a execução de transferências, as instituições serão liberadas das obrigações previstas no presente decreto-lei, por motivo de força maior, nomeadamente circunstâncias alheias à sua vontade, anormais e imprevisíveis, cujas consequências não tenham podido evitar apesar de todos os esforços desenvolvidos.\n\n2 - Não é considerado motivo de força maior qualquer procedimento de insolvência ou falência, segundo o qual, através de uma medida colectiva de reestruturação ou liquidação da entidade que dela é objecto, se limite, suspenda ou faça cessar o cumprimento de obrigações.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+  },
+  "853385535": {
+   "fragment_id": "853385906",
+   "type": 11,
+   "heading": "Artigo 15.º — Recurso arbitragem",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 15.º — Recurso arbitragem\n\nOs conflitos emergentes da interpretação e aplicação do presente diploma podem ser resolvidos por recurso aos meios de arbitragem previstos na Lei n.º 31/86, de 29 de Agosto.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+  },
+  "853385536": {
+   "fragment_id": "853385907",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 10 de Fevereiro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa.\n\nPromulgado em 6 de Março de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Março de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+  }
+ }
+}

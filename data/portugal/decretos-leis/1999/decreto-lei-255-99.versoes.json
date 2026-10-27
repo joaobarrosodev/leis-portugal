@@ -1,0 +1,452 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:374619:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-885926449",
+ "dre_path": "/dr/detalhe/decreto-lei/255-1999-374619",
+ "source_lastmod": "2024-08-28",
+ "versions": [
+  {
+   "date": "1999-07-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "885804845",
+    "885804846",
+    "885804847",
+    "885804848",
+    "885804849",
+    "885804850",
+    "885804851",
+    "885804852",
+    "885804853",
+    "885804854",
+    "885804855",
+    "885804856",
+    "885804857",
+    "885804858",
+    "885804859",
+    "885804860",
+    "885804861",
+    "885804862",
+    "885804863",
+    "885804864",
+    "885804865",
+    "885804866",
+    "885804867",
+    "885804868",
+    "885804869",
+    "885804870",
+    "885804871",
+    "885804872",
+    "885804873",
+    "885804874",
+    "886100475",
+    "886100476"
+   ]
+  },
+  {
+   "date": "2013-01-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:257175:por",
+     "title": "Lei n.º 5/2013",
+     "published": "2013-01-22",
+     "dre_path": "/dr/detalhe/lei/5-2013-257175"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 25.º"
+   ],
+   "fragments": [
+    "885804845",
+    "885804846",
+    "885804847",
+    "885804848",
+    "885804849",
+    "886100478",
+    "886100483",
+    "886100484",
+    "885804853",
+    "885804854",
+    "886100481",
+    "886100479",
+    "886100482",
+    "886100480",
+    "885804859",
+    "885804860",
+    "885804861",
+    "885804862",
+    "885804863",
+    "885804864",
+    "885804865",
+    "885804866",
+    "885804867",
+    "885804868",
+    "885804869",
+    "885804870",
+    "885804871",
+    "885804872",
+    "885804873",
+    "885804874",
+    "886100485",
+    "886100476",
+    "886100477"
+   ]
+  }
+ ],
+ "fragments": {
+  "885804845": {
+   "fragment_id": "885926450",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 255/99\n\nde 7 de Julho\n\nA experiência colhida em mais de uma década de aplicação do regime jurídico da actividade transitária, criado pelo Decreto-Lei n.º 43/83, de 25 de Janeiro, veio demonstrar a necessidade da sua revisão, sobretudo na óptica das condições de acesso à actividade.\n\nNeste sentido, são adoptadas regras de maior exigência para o cargo de director técnico, designadamente instituindo um regime de avaliação por exame dos conhecimentos necessários ao adequado desempenho das funções, em alternativa com aferição por comprovação curricular em caso de experiência prática preexistente.\n\nPor outro lado, tendo em vista adequar o regime sancionatório ao actual sistema contra-ordenacional, tipificam-se os ilícitos e graduam-se as respectivas coimas em função dos interesses a acautelar, por forma a tornar esse regime mais eficaz.\n\nAo mesmo tempo, implementa-se um mecanismo de fiscalização mais operante, procurando-se que estes instrumentos contribuam para uma melhoria das condições de desempenho das empresas.\n\nFoi ouvida a associação representativa do sector, APAT - Associação dos Transitários de Portugal.\n\nAssim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "885804846": {
+   "fragment_id": "885926451",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "885804847": {
+   "fragment_id": "885926452",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - O presente diploma aplica-se ao acesso e exercício da actividade transitária.\n\n2 - A actividade transitária consiste na prestação de serviços de natureza logística e operacional que inclui o planeamento, o controlo, a coordenação e a direcção das operações relacionadas com a expedição, recepção, armazenamento e circulação de bens ou mercadorias, desenvolvendo-se nos seguintes domínios de intervenção:\n\na) Gestão dos fluxos de bens ou mercadorias;\n\nb) Mediação entre expedidores e destinatários, nomeadamente através de transportadores com quem celebre os respectivos contratos de transporte;\n\nc) Execução dos trâmites ou formalidades legalmente exigidos, inclusive no que se refere à emissão do documento de transporte unimodal ou multimodal."
+  },
+  "885804848": {
+   "fragment_id": "885926453",
+   "type": 1,
+   "heading": "Capítulo II — Acesso à actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Acesso à actividade"
+  },
+  "885804849": {
+   "fragment_id": "885926454",
+   "type": 11,
+   "heading": "Artigo 2.º — Licenciamento da actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Licenciamento da actividade\n\n1 - A actividade transitária só pode ser exercida por empresas titulares de alvará emitido pela Direcção-Geral de Transportes Terrestres (DGTT).\n\n2 - Os alvarás são intransmissíveis e emitidos por prazo não superior a cinco anos, renovável mediante comprovação de que se mantêm os requisitos de acesso à actividade.\n\n3 - A DGTT procederá ao registo de todas as empresas licenciadas para o exercício desta actividade, nos termos da lei em vigor."
+  },
+  "885804850": {
+   "fragment_id": "885926455",
+   "type": 11,
+   "heading": "Artigo 3.º — Requisitos de acesso à actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisitos de acesso à actividade\n\nPodem ter acesso à actividade transitária as sociedades comerciais que reúnam os requisitos de idoneidade, capacidade técnica e profissional e de capacidade financeira."
+  },
+  "885804851": {
+   "fragment_id": "885926456",
+   "type": 11,
+   "heading": "Artigo 4.º — Idoneidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Idoneidade\n\n1 - A idoneidade é aferida pela inexistência de impedimentos legais, nomeadamente a condenação pelos ilícitos praticados pelos administradores, gerentes ou pelo director técnico da empresa, a seguir discriminados:\n\na) Proibição legal para o exercício do comércio;\n\nb) Condenação, com trânsito em julgado, por crimes de falência fraudulenta, falência intencional, favorecimento de credores, apropriação ilegítima e administração danosa;\n\nc) Condenação, com trânsito em julgado, pela prática de concorrência ilícita ou desleal;\n\nd) Condenação, com trânsito em julgado, em pena não inferior a seis meses de prisão, por crime contra a saúde pública ou economia nacional;\n\ne) Condenação, com pena não suspensa, com trânsito em julgado, por crime doloso contra a propriedade, por tráfico de estupefacientes, por branqueamento de capitais e por fraude fiscal ou aduaneira, em pena de prisão não inferior a dois anos;\n\nf) Condenação, em pena não suspensa, com trânsito em julgado, por crime de danos contra a natureza ou poluição e poluição com perigo comum, em pena de prisão não inferior a um ano;\n\ng) Condenação, com trânsito em julgado, por crime de corrupção e tráfico de influência;\n\nh) Condenação, com trânsito em julgado, por infracção à legislação de segurança, higiene e saúde no trabalho, da qual resulte morte ou incapacidade física, total e permanente de trabalhador ou de terceiro.\n\n2 - Deixam de preencher o requisito da idoneidade as sociedades comerciais cujos administradores, gerentes ou directores técnicos venham a encontrar-se em qualquer das situações indicadas no número anterior."
+  },
+  "885804852": {
+   "fragment_id": "885926457",
+   "type": 11,
+   "heading": "Artigo 5.º — Capacidade técnica e profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Capacidade técnica e profissional\n\n1 - A capacidade técnica e profissional consiste na posse dos conhecimentos necessários para o exercício da actividade transitária, os quais são aferidos por exame ou avaliação curricular, em condições a definir por portaria do Ministro do Equipamento, do Planeamento e da Administração do Território.\n\n2 - O requisito de capacidade técnica e profissional deve ser preenchido por um director técnico que assegure a gestão corrente da empresa e exerça o cargo em regime de exclusividade.\n\n3 - O director técnico deve integrar a gerência ou administração da empresa ou estar mandatado com poderes gerais para, isolada ou conjuntamente, a representar.\n\n4 - Será emitido pela DGTT um certificado de capacidade profissional às pessoas que tiverem obtido aproveitamento no exame referido no n.º 1 e às que, tendo experiência de pelo menos cinco anos na direcção de uma empresa transitária, a comprovem nos termos que vierem a ser definidos por portaria do Ministro do Equipamento, do Planeamento e da Administração do Território."
+  },
+  "885804853": {
+   "fragment_id": "885926458",
+   "type": 11,
+   "heading": "Artigo 6.º — Capacidade financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Capacidade financeira\n\n1 - A capacidade financeira consiste na posse dos recursos financeiros necessários para garantir a boa gestão da empresa, em termos a definir por portaria do Ministro do Equipamento, do Planeamento e da Administração do Território.\n\n2 - Para efeitos do disposto no número anterior, a empresa deverá dispor, no início da sua actividade, de um capital social não inferior a 10 milhões de escudos."
+  },
+  "885804854": {
+   "fragment_id": "885926459",
+   "type": 11,
+   "heading": "Artigo 7.º — Seguro obrigatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Seguro obrigatório\n\nAs empresas transitárias devem possuir um seguro destinado a garantir a responsabilidade civil por danos causados no exercício da actividade a clientes ou a terceiros, cujo montante não pode ser inferior a 20 milhões de escudos."
+  },
+  "885804855": {
+   "fragment_id": "885926460",
+   "type": 11,
+   "heading": "Artigo 8.º — Pedidos de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Pedidos de licenciamento\n\n1 - Os pedidos de licenciamento da actividade a que se refere o artigo 2.º deverão ser dirigidos ao director-geral dos Transportes Terrestres e deles deverá constar:\n\na) Identificação da sociedade requerente;\n\nb) Identificação dos administradores, directores ou gerentes da sociedade;\n\nc) Identificação do director técnico;\n\nd) Capital social e sua realização.\n\n2 - Os pedidos deverão ser instruídos com os seguintes documentos:\n\na) Certidão da escritura de constituição da sociedade;\n\nb) Certidão de matrícula da sociedade na conservatória do registo comercial;\n\nc) Certidão da apólice do seguro de responsabilidade civil.\n\n3 - Os pedidos deverão também conter, relativamente aos administradores, directores ou gerentes, certificados de registo criminal."
+  },
+  "885804856": {
+   "fragment_id": "885926461",
+   "type": 11,
+   "heading": "Artigo 9.º — Dever de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Dever de informação\n\n1 - Os requisitos de acesso à actividade são de verificação permanente, devendo as empresas comprovar o seu preenchimento sempre que lhes for solicitado.\n\n2 - As empresas têm o dever de comunicar à DGTT as alterações ao pacto social, designadamente modificações na administração, direcção ou gerência, mudanças de sede, bem como a substituição do director técnico, no prazo de 30 dias a contar da data da sua ocorrência."
+  },
+  "885804857": {
+   "fragment_id": "885926462",
+   "type": 11,
+   "heading": "Artigo 10.º — Supressão da falta de requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Supressão da falta de requisitos\n\n1 - A falta superveniente dos requisitos de acesso à actividade deve ser suprida no prazo de um ano a contar da data da sua ocorrência.\n\n2 - A falta superveniente do requisito da idoneidade pode ser suprido se a condenação pelos ilícitos a que se refere o artigo 4.º incidir apenas nos administradores, gerentes ou director técnico da empresa, através da substituição destes.\n\n3 - Decorrido o prazo previsto no n.º 1 sem que a falta seja suprida, caduca a respectiva licença para o exercício da actividade."
+  },
+  "885804858": {
+   "fragment_id": "885926463",
+   "type": 11,
+   "heading": "Artigo 11.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Taxas\n\n1 - São devidas taxas pela emissão de alvarás e de certificados e pela inscrição em exame ou avaliação curricular, nas situações previstas no presente diploma.\n\n2 - Os montantes das taxas serão fixados e actualizados por portaria dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território."
+  },
+  "885804859": {
+   "fragment_id": "885926464",
+   "type": 1,
+   "heading": "Capítulo III — Organização do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Organização do mercado"
+  },
+  "885804860": {
+   "fragment_id": "885926465",
+   "type": 11,
+   "heading": "Artigo 12.º — Obrigação de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Obrigação de identificação\n\nAs empresas transitárias são obrigadas, na sua identificação, a mencionar o número do alvará a que se refere o artigo 2.º, designadamente nas suas instalações, na publicidade que desenvolvam, nos actos formais em que intervenham e em toda a documentação respeitante à sua actividade externa."
+  },
+  "885804861": {
+   "fragment_id": "885926466",
+   "type": 11,
+   "heading": "Artigo 13.º — Intervenção no comércio jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Intervenção no comércio jurídico\n\n1 - As empresas transitárias podem praticar todos os actos necessários ou convenientes à prestação de serviços, bem como assumir em nome próprio ou em nome do cliente ou do destinatário dos bens, toda e qualquer forma legítima de defesa dos interesses correspondentes.\n\n2 - De acordo com o disposto no número anterior, podem ainda celebrar contratos com terceiros em nome próprio, por conta do expedidor ou do dono da mercadoria, bem como receber em nome próprio ou por conta do seu cliente, as mercadorias que lhe são entregues pelo transportador e actuar como gestor de negócios.\n\n3 - A legitimidade da intervenção do transitário perante terceiros, entidades públicas ou privadas, aferir-se-á pelo título ou declaração que exiba.\n\n4 - Quando intervenha como gestor de negócios a empresa transitária será havida como dona dos bens ou mercadorias e responderá como tal perante terceiros."
+  },
+  "885804862": {
+   "fragment_id": "885926467",
+   "type": 11,
+   "heading": "Artigo 14.º — Direito de retenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direito de retenção\n\nAs empresas transitárias podem exercer o direito de retenção sobre mercadorias que lhes tenham sido confiadas em consequência dos respectivos contratos, pelos créditos deles resultantes, salvo estipulação expressa em contrário."
+  },
+  "885804863": {
+   "fragment_id": "885926468",
+   "type": 11,
+   "heading": "Artigo 15.º — Responsabilidade das empresas transitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Responsabilidade das empresas transitárias\n\n1 - As empresas transitárias respondem perante o seu cliente pelo incumprimento das suas obrigações, bem como pelas obrigações contraídas por terceiros com quem hajam contratado, sem prejuízo do direito de regresso.\n\n2 - À responsabilidade emergente dos contratos celebrados no âmbito deste diploma aplicam-se os limites estabelecidos, por lei ou convenção, para o transportador a quem seja confiada a execução material do transporte, salvo se outro limite for convencionado pelas partes."
+  },
+  "885804864": {
+   "fragment_id": "885926469",
+   "type": 11,
+   "heading": "Artigo 16.º — Prescrição do direito de indemnização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Prescrição do direito de indemnização\n\nO direito de indemnização resultante da responsabilidade do transitário prescreve no prazo de 10 meses a contar da data da conclusão da prestação de serviço contratada."
+  },
+  "885804865": {
+   "fragment_id": "885926470",
+   "type": 11,
+   "heading": "Artigo 17.º — Cláusulas contratuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Cláusulas contratuais\n\nAs empresas transitárias e a parte ou partes a que respeita a relação jurídica de prestação de serviços podem contratar por instrumento negocial específico ou por adesão às condições gerais de prestação de serviços das empresas transitárias, sem prejuízo do estabelecido na legislação que regulamenta a validade e eficácia das cláusulas contratuais gerais."
+  },
+  "885804866": {
+   "fragment_id": "885926471",
+   "type": 1,
+   "heading": "Capítulo IV — Fiscalização e regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Fiscalização e regime sancionatório"
+  },
+  "885804867": {
+   "fragment_id": "885926472",
+   "type": 11,
+   "heading": "Artigo 18.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Fiscalização\n\n1 - A fiscalização do cumprimento do disposto no presente diploma compete à DGTT.\n\n2 - Os funcionários da DGTT com competência na área da fiscalização e no exercício dessas funções, desde que devidamente credenciados, têm livre acesso a todos os locais onde se realizam operações relacionadas com o exercício da actividade transitária.\n\n3 - A DGTT pode proceder no âmbito das respectivas competências a todas as investigações e verificações necessárias ao exercício das suas funções de fiscalização."
+  },
+  "885804868": {
+   "fragment_id": "885926473",
+   "type": 11,
+   "heading": "Artigo 19.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Contra-ordenações\n\n1 - As infracções ao disposto no presente diploma constituem contra-ordenações, nos termos seguintes:\n\na) O exercício da actividade transitária por entidade não licenciada é punido com coima de 250000$00 a 750000$00, no caso de pessoas singulares, e de 1000000$00 a 3000000$00, no caso de pessoas colectivas;\n\nb) A falta do seguro obrigatório nos termos do artigo 7.º é punível com coima de 750000$00 a 2500000$00;\n\nc) O não cumprimento do dever de comunicação previsto no n.º 2 do artigo 9.º é punível com coima de 50000$00 a 150000$00;\n\nd) A falta de identificação nos termos definidos no artigo 12.º é punível com coima de 50000$00 a 150000$00.\n\n2 - A tentativa e a negligência são puníveis."
+  },
+  "885804869": {
+   "fragment_id": "885926474",
+   "type": 11,
+   "heading": "Artigo 20.º — Processamento das contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Processamento das contra-ordenações\n\n1 - O processamento das contra-ordenações previstas neste diploma compete à DGTT.\n\n2 - A aplicação das coimas é da competência do director-geral de Transportes Terrestres.\n\n3 - A DGTT organizará o registo das sanções aplicadas nos termos da legislação em vigor."
+  },
+  "885804870": {
+   "fragment_id": "886100375",
+   "type": 11,
+   "heading": "Artigo 21.º — Sanção acessória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Sanção acessória\n\n1 - Com a aplicação da coima pode ser decretada a sanção acessória de interdição de exercício da actividade, se a empresa tiver praticado três infracções às normas do presente diploma durante o prazo de um ano, a contar da data da primeira decisão condenatória, quando definitiva e exequível, ou do pagamento voluntário da coima.\n\n2 - A interdição do exercício da actividade referida no número anterior terá a duração máxima de dois anos.\n\n3 - A aplicação da sanção acessória implica o depósito da licença na DGTT."
+  },
+  "885804871": {
+   "fragment_id": "886100376",
+   "type": 11,
+   "heading": "Artigo 22.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Produto das coimas\n\nO produto das coimas é distribuído da seguinte forma:\n\na) 40% para a DGTT, constituindo receita própria;\n\nb) 60% para o Estado."
+  },
+  "885804872": {
+   "fragment_id": "886100377",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "885804873": {
+   "fragment_id": "886100378",
+   "type": 11,
+   "heading": "Artigo 23.º — Afectação de receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Afectação de receitas\n\nOs montantes das taxas previstas no artigo 11.º constituem receita própria da DGTT."
+  },
+  "885804874": {
+   "fragment_id": "886100379",
+   "type": 11,
+   "heading": "Artigo 24.º — Caducidade das licenças emitidas ao abrigo da legislação revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Caducidade das licenças emitidas ao abrigo da legislação revogada\n\nAs licenças emitidas ao abrigo do Decreto-Lei n.º 43/83, de 25 de Janeiro, caducarão ao fim do prazo de um ano a contar da data da entrada em vigor do presente diploma, sendo emitido um novo título àquelas empresas que, entretanto, façam prova, perante a DGTT, do preenchimento dos requisitos de acesso à actividade, bem como da posse do seguro obrigatório."
+  },
+  "886100475": {
+   "fragment_id": "886100380",
+   "type": 11,
+   "heading": "Artigo 25.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Regime transitório\n\n1 - Será emitido certificado de capacidade profissional aos directores técnicos que estejam em exercício de funções à data da entrada em vigor do presente diploma, ou que as tenham cessado há menos de um ano.\n\n2 - Até à publicação da portaria a que se refere o n.º 4 do artigo 5.º serão emitidos certificados de capacidade profissional às pessoas que, tendo experiência prática de, pelo menos, cinco anos na direcção de uma empresa transitária, a comprovem por meio de currículo devidamente documentado."
+  },
+  "886100476": {
+   "fragment_id": "886100381",
+   "type": 11,
+   "heading": "Artigo 26.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Revogação\n\nSão revogados os seguintes diplomas:\n\na) Decreto-Lei n.º 43/83, de 25 de Janeiro;\n\nb) Portaria n.º 561/83, de 11 de Maio;\n\nc) Portaria n.º 161/87, de 7 de Março."
+  },
+  "886100478": {
+   "fragment_id": "885926455",
+   "type": 11,
+   "heading": "Artigo 3.º — Requisito de acesso à atividade",
+   "in_force_from": "2013-01-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 5/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/5-2013-257175), em vigor a partir de 2013-01-27"
+   ],
+   "markdown": "###### Artigo 3.º — Requisito de acesso à atividade\n\nPodem ter acesso à atividade transitária as sociedades comerciais que tenham capacidade financeira.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 5/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/5-2013-257175), em vigor a partir de 2013-01-27"
+  },
+  "886100483": {
+   "fragment_id": "885926456",
+   "type": 11,
+   "heading": "Artigo 4.º — Idoneidade",
+   "in_force_from": "2013-01-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 5/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/5-2013-257175), em vigor a partir de 2013-01-27"
+   ],
+   "markdown": "###### Artigo 4.º — Idoneidade\n\n1 - A idoneidade é aferida pela inexistência de impedimentos legais, nomeadamente a condenação pelos ilícitos praticados pelos administradores, gerentes ou pelo director técnico da empresa, a seguir discriminados:\n\na) Proibição legal para o exercício do comércio;\n\nb) Condenação, com trânsito em julgado, por crimes de falência fraudulenta, falência intencional, favorecimento de credores, apropriação ilegítima e administração danosa;\n\nc) Condenação, com trânsito em julgado, pela prática de concorrência ilícita ou desleal;\n\nd) Condenação, com trânsito em julgado, em pena não inferior a seis meses de prisão, por crime contra a saúde pública ou economia nacional;\n\ne) Condenação, com pena não suspensa, com trânsito em julgado, por crime doloso contra a propriedade, por tráfico de estupefacientes, por branqueamento de capitais e por fraude fiscal ou aduaneira, em pena de prisão não inferior a dois anos;\n\nf) Condenação, em pena não suspensa, com trânsito em julgado, por crime de danos contra a natureza ou poluição e poluição com perigo comum, em pena de prisão não inferior a um ano;\n\ng) Condenação, com trânsito em julgado, por crime de corrupção e tráfico de influência;\n\nh) Condenação, com trânsito em julgado, por infracção à legislação de segurança, higiene e saúde no trabalho, da qual resulte morte ou incapacidade física, total e permanente de trabalhador ou de terceiro.\n\n2 - Deixam de preencher o requisito da idoneidade as sociedades comerciais cujos administradores, gerentes ou directores técnicos venham a encontrar-se em qualquer das situações indicadas no número anterior.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 5/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/5-2013-257175), em vigor a partir de 2013-01-27"
+  },
+  "886100484": {
+   "fragment_id": "885926457",
+   "type": 11,
+   "heading": "Artigo 5.º — Capacidade técnica e profissional",
+   "in_force_from": "2013-01-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 5/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/5-2013-257175), em vigor a partir de 2013-01-27"
+   ],
+   "markdown": "###### Artigo 5.º — Capacidade técnica e profissional\n\n1 - A capacidade técnica e profissional consiste na posse dos conhecimentos necessários para o exercício da actividade transitária, os quais são aferidos por exame ou avaliação curricular, em condições a definir por portaria do Ministro do Equipamento, do Planeamento e da Administração do Território.\n\n2 - O requisito de capacidade técnica e profissional deve ser preenchido por um director técnico que assegure a gestão corrente da empresa e exerça o cargo em regime de exclusividade.\n\n3 - O director técnico deve integrar a gerência ou administração da empresa ou estar mandatado com poderes gerais para, isolada ou conjuntamente, a representar.\n\n4 - Será emitido pela DGTT um certificado de capacidade profissional às pessoas que tiverem obtido aproveitamento no exame referido no n.º 1 e às que, tendo experiência de pelo menos cinco anos na direcção de uma empresa transitária, a comprovem nos termos que vierem a ser definidos por portaria do Ministro do Equipamento, do Planeamento e da Administração do Território.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 5/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/5-2013-257175), em vigor a partir de 2013-01-27"
+  },
+  "886100481": {
+   "fragment_id": "885926460",
+   "type": 11,
+   "heading": "Artigo 8.º — Pedidos de licenciamento",
+   "in_force_from": "2013-01-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 5/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/5-2013-257175), em vigor a partir de 2013-01-27"
+   ],
+   "markdown": "###### Artigo 8.º — Pedidos de licenciamento\n\n1 - Os pedidos de licenciamento da actividade a que se refere o artigo 2.º deverão ser dirigidos ao director-geral dos Transportes Terrestres e deles deverá constar:\n\na) Identificação da sociedade requerente;\n\nb) Identificação dos administradores, directores ou gerentes da sociedade;\n\nc) [Revogada];\n\nd) Capital social e sua realização.\n\n2 - Os pedidos deverão ser instruídos com os seguintes documentos:\n\na) Certidão da escritura de constituição da sociedade;\n\nb) Certidão de matrícula da sociedade na conservatória do registo comercial;\n\nc) Certidão da apólice do seguro de responsabilidade civil.\n\n3 - (Revogado).\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 5/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/5-2013-257175), em vigor a partir de 2013-01-27"
+  },
+  "886100479": {
+   "fragment_id": "885926461",
+   "type": 11,
+   "heading": "Artigo 9.º — Dever de informação",
+   "in_force_from": "2013-01-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 5/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/5-2013-257175), em vigor a partir de 2013-01-27"
+   ],
+   "markdown": "###### Artigo 9.º — Dever de informação\n\n1 - O requisito de acesso à atividade é de verificação permanente, devendo as empresas comprovar o seu preenchimento sempre que lhes for solicitado.\n\n2 - As empresas têm o dever de comunicar ao Instituto da Mobilidade e dos Transportes, I. P., as alterações ao pacto social, designadamente modificações na administração, direção ou gerência e mudanças de sede, no prazo de 30 dias a contar da data da sua ocorrência.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 5/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/5-2013-257175), em vigor a partir de 2013-01-27"
+  },
+  "886100482": {
+   "fragment_id": "885926462",
+   "type": 11,
+   "heading": "Artigo 10.º — Supressão da falta de requisitos",
+   "in_force_from": "2013-01-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 5/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/5-2013-257175), em vigor a partir de 2013-01-27"
+   ],
+   "markdown": "###### Artigo 10.º — Supressão da falta de requisitos\n\n1 - A falta superveniente dos requisitos de acesso à actividade deve ser suprida no prazo de um ano a contar da data da sua ocorrência.\n\n2 - (Revogado).\n\n3 - Decorrido o prazo previsto no n.º 1 sem que a falta seja suprida, caduca a respectiva licença para o exercício da actividade.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 5/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/5-2013-257175), em vigor a partir de 2013-01-27"
+  },
+  "886100480": {
+   "fragment_id": "885926463",
+   "type": 11,
+   "heading": "Artigo 11.º — Taxas",
+   "in_force_from": "2013-01-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 5/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/5-2013-257175), em vigor a partir de 2013-01-27"
+   ],
+   "markdown": "###### Artigo 11.º — Taxas\n\n1 - São devidas taxas pela emissão de alvarás nas situações previstas no presente diploma.\n\n2 - Os montantes das taxas são fixados e atualizados pelos membros do Governo responsáveis pelas áreas das finanças e dos transportes.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 5/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/5-2013-257175), em vigor a partir de 2013-01-27"
+  },
+  "886100485": {
+   "fragment_id": "886100380",
+   "type": 11,
+   "heading": "Artigo 25.º — Regime transitório",
+   "in_force_from": "2013-01-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 5/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/5-2013-257175), em vigor a partir de 2013-01-27"
+   ],
+   "markdown": "###### Artigo 25.º — Regime transitório\n\n1 - Será emitido certificado de capacidade profissional aos directores técnicos que estejam em exercício de funções à data da entrada em vigor do presente diploma, ou que as tenham cessado há menos de um ano.\n\n2 - Até à publicação da portaria a que se refere o n.º 4 do artigo 5.º serão emitidos certificados de capacidade profissional às pessoas que, tendo experiência prática de, pelo menos, cinco anos na direcção de uma empresa transitária, a comprovem por meio de currículo devidamente documentado.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 5/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/5-2013-257175), em vigor a partir de 2013-01-27"
+  },
+  "886100477": {
+   "fragment_id": "886100382",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de Maio de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim.\n\nPromulgado em 18 de Junho de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 24 de Junho de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

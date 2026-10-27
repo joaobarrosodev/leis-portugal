@@ -1,0 +1,476 @@
+---
+schema_version: '1.0'
+id: pt:dre:160149401:por
+title: Decreto-Lei n.º 23-A/2021
+short_title: null
+summary: Estabelece medidas de apoio aos trabalhadores e empresas, no âmbito da pandemia da doença COVID-19
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Trabalho, Solidariedade e Segurança Social
+official_number: 23-A/2021
+official_date: null
+publication_date: '2021-03-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 58/2021, 1º Suplemento, Série I de 2021-03-24
+  number: '58'
+  series: I
+  supplement: 1º Suplemento
+  pages: 48-(2) a 48-(8)
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/03/05801/0000200008.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-10-01'
+version_history:
+  file: decreto-lei-23-a-2021.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2021-03-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-07-07'
+    amending: pt:dre:166579339:por
+    amending_title: Decreto-Lei n.º 56-A/2021
+    changes:
+    - Altera Artigo 6.º
+  - date: '2021-08-14'
+    amending: pt:dre:169529634:por
+    amending_title: Decreto-Lei n.º 71-A/2021
+    changes:
+    - Revoga Artigo 7.º
+  - date: '2022-10-01'
+    amending: pt:dre:201773286:por
+    amending_title: Decreto-Lei n.º 66-A/2022
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/23-a/2021/p/cons/20210813/pt/html
+  oj: null
+  dre: '160149401'
+  dre_path: /dr/detalhe/decreto-lei/23-a-2021-160149401
+  internal: pt:dre:160149401:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-a-2021-160149401
+  metadata_url: https://data.dre.pt/eli/dec-lei/23-a/2021/p/cons/20210813/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2021-160096761
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2021-160096761
+  retrieved_at: '2026-10-22T12:40:25Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 4f8a0f41c237ebe6253e7f81845682f060f010afd1ec50cd01843437ec15fd5c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:40:25Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-23-a-2021.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Proteção Civil
+- Financiamento
+- Empresa
+- Bolsa de Formação Profissional
+- CAE
+- Turismo
+- Instituto do Emprego e Formação Profissional
+- Formação Profissional
+- Compensação Remuneratória
+- Contribuições da Segurança Social
+- Plano de Estudos
+- Dívidas à Segurança Social
+- Controlo Sanitário
+- Entidade Patronal
+- Saúde Pública
+- Estado de Emergência
+- Apoio ao Investimento
+- Gestão Orçamental
+- Pagamento
+- Isolamento Profiláctico
+- LAY OFF
+- Órgãos Sociais
+- Doença Infecciosa
+- Política Económica
+- Cultura
+- Emprego
+- Política de Emprego
+- Receita Pública
+- Reembolso
+- Pequenas e Médias Empresas
+- PME
+- Remuneração
+- Segurança Social
+- Trabalhador Independente
+- Trabalhador por Conta de Outrem
+- Situação de Calamidade
+- Apoio Extraordinário ao Rendimento dos Trabalhadores
+relationships:
+- type: amended_by
+  target: pt:dre:166579339:por
+  label: Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-a-2021-166579339
+  date: '2021-07-06'
+- type: amended_by
+  target: pt:dre:169529634:por
+  label: Revoga Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-a-2021-169529634
+  date: '2021-08-13'
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
+- type: cites
+  target: pt:dre:130779506:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/10-g/2020/03/26/p/dre
+- type: cites
+  target: pt:dre:139209038:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/46-a/2020/07/30/p/dre
+- type: cites
+  target: pt:dre:145714398:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/90/2020/10/19/p/dre
+- type: cites
+  target: pt:dre:148853501:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/98/2020/11/18/p/dre
+- type: cites
+  target: pt:dre:149971740:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/101-a/2020/11/27/p/dre
+- type: cites
+  target: pt:dre:154202310:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/6-c/2021/01/15/p/dre
+- type: cites
+  target: pt:dre:154361179:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/6-e/2021/01/15/p/dre
+- type: cites
+  target: pt:dre:154946852:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/8-b/2021/01/22/p/dre
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:40:25Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 23-A/2021
+
+Decreto-Lei n.º 23-A/2021
+
+de 24 de março
+
+Sumário: Estabelece medidas de apoio aos trabalhadores e empresas, no âmbito da pandemia da doença COVID-19.
+
+Face à situação atual da pandemia da doença COVID-19, o Governo entende manter o esforço de compromisso e de diálogo com vista a alcançar as melhores respostas sociais, de modo a abranger quem mais precisa, respondendo ao presente e antecipando o futuro, apoiando os trabalhadores e os seus rendimentos, o emprego, bem como aqueles que ficam em situação de desemprego, e protegendo os mais vulneráveis.
+
+Neste contexto, são aprovadas normas que alargam o âmbito de resposta do apoio extraordinário à redução da atividade económica de trabalhador, do apoio extraordinário à manutenção de contrato de trabalho em situação de crise empresarial e do apoio extraordinário à retoma progressiva.
+
+No que diz respeito ao apoio extraordinário à redução da atividade económica de trabalhador, que já deu resposta a centenas de milhares de trabalhadores independentes, empresários em nome individual, gerentes e membros de órgãos estatutários com funções de direção, o mesmo é reativado relativamente aos trabalhadores do turismo, cultura, eventos e espetáculos, cuja atividade, não estando suspensa ou encerrada, está ainda assim em situação de comprovada paragem.
+
+Por outro lado, no quadro do apoio extraordinário à manutenção de contrato de trabalho em situação de crise empresarial, conhecido como «lay-off simplificado», é recuperada a possibilidade de acesso às empresas cuja atividade, não estando suspensa ou encerrada, foi significativamente afetada pela interrupção das cadeias de abastecimento globais, ou da suspensão ou cancelamento de encomendas. Também no âmbito deste apoio, é concretizado um alargamento adicional consubstanciado na possibilidade de apoio financeiro das remunerações dos sócios-gerentes.
+
+Além disso, prolonga-se a vigência, até 30 de setembro de 2021, do apoio extraordinário à retoma progressiva, e são estabelecidas, neste mesmo apoio, novas isenções contributivas, bem como dispensas parciais, especialmente vocacionadas para os setores do turismo e da cultura, especialmente afetados pela presente crise sanitária.
+
+Por outro lado, garante-se a aplicação do apoio simplificado direcionado às microempresas durante o terceiro trimestre de 2021, atribuindo-se neste período um apoio adicional no montante equivalente a uma remuneração mínima mensal garantida (RMMG).
+
+No contexto pandémico extraordinário e com base na agilidade passada deste instrumento, é ainda criado um novo incentivo extraordinário à normalização da atividade empresarial de montante equivalente até duas RMMG por trabalhador que tenha sido abrangido no primeiro trimestre de 2021 pelo apoio extraordinário à manutenção de contrato de trabalho ou pelo apoio extraordinário à retoma progressiva de atividade. A este incentivo acresce o direito à dispensa parcial de 50 % do pagamento de contribuições para a segurança social a cargo da entidade empregadora, com referência aos trabalhadores abrangidos, durante os primeiros dois meses do apoio.
+
+No âmbito da formação profissional cumulável com o apoio extraordinário à retoma progressiva de atividade, estabelece-se um prazo extraordinário para o início de planos de formação já aprovados pelo Instituto do Emprego e Formação Profissional, I. P., mas que não iniciaram na prática em virtude da suspensão das atividades formativas presenciais por determinação legislativa ou administrativa de fonte governamental. Pretende-se garantir que aqueles planos de formação possam ter início cinco dias úteis após o termo da suspensão das atividades formativas, mesmo que as empresas já não se encontrem abrangidas pelo apoio extraordinário, garantindo-se que continuam a ser apoiadas e evitando, assim, um tratamento desigual entre empresas que têm possibilidade de implementar a formação à distância e conseguem iniciar os planos no imediato e as restantes que estão impossibilitadas de o fazer.
+
+Por fim, mantém-se o financiamento do Orçamento do Estado para a despesa adicional que resulta destes apoios e para a perda de receita resultante das dispensas e isenções contributivas concedidas, promovendo, em particular, a sustentabilidade da segurança social.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede:
+
+a) À sexta alteração ao Decreto-Lei n.º 46-A/2020, de 30 de julho, alterado pelos Decretos-Leis n.os 90/2020, de 19 de outubro, 98/2020, de 18 de novembro, 101-A/2020, de 27 de novembro, 6-C/2021, de 15 de janeiro, e 8-B/2021, de 22 de janeiro, que cria o apoio extraordinário à retoma progressiva de atividade em empresas em situação de crise empresarial com redução temporária do período normal de trabalho;
+
+b) À primeira alteração ao Decreto-Lei n.º 6-E/2021, de 15 de janeiro, que estabelece mecanismos de apoio no âmbito do estado de emergência; e
+
+c) À criação de medidas extraordinárias de apoio a trabalhadores e à atividade económica no contexto do estado de emergência.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+###### Artigo 2.º — Alteração ao Decreto-Lei n.º 46-A/2020, de 30 de julho
+
+Os artigos 4.º, 6.º, 9.º e 14.º-A do Decreto-Lei n.º 46-A/2020, de 30 de julho, na sua redação atual, passam a ter a seguinte redação:
+
+«Artigo 4.º
+
+[...]
+
+1 - [...].
+
+2 - [...].
+
+3 - [...].
+
+4 - [...].
+
+5 - [...].
+
+6 - [...].
+
+7 - [...].
+
+8 - [...].
+
+9 - [...].
+
+10 - Independentemente da data de apresentação do pedido de apoio previsto no presente artigo, o empregador só pode beneficiar desse apoio até 30 de setembro de 2021.
+
+Artigo 6.º
+
+[...]
+
+1 - [...].
+
+2 - Durante aquele período, o trabalhador tem ainda direito a uma compensação retributiva mensal correspondente às horas não trabalhadas, paga pelo empregador, no valor de quatro quintos da sua retribuição normal ilíquida, até ao triplo da retribuição mínima mensal garantida (RMMG).
+
+3 - [...].
+
+4 - [...].
+
+5 - [...].
+
+6 - [...].
+
+7 - [...].
+
+8 - [...].
+
+9 - [...].
+
+10 - [...]
+
+Artigo 9.º
+
+Dispensa parcial e isenção do pagamento de contribuições para a segurança social
+
+1 - [...].
+
+2 - [...].
+
+3 - [...].
+
+4 - Nos meses de março, abril e maio de 2021, o empregador dos setores do turismo e da cultura, com quebra de faturação:
+
+a) Inferior a 75 %, e que, por isso, suporte parte da compensação retributiva correspondente aos custos salariais com as horas não trabalhadas, tem direito à isenção do pagamento de contribuições a seu cargo relativas aos trabalhadores abrangidos, calculadas sobre o valor da compensação retributiva a que se refere o n.º 2 do artigo 6.º;
+
+b) Igual ou superior a 75 %, tem direito à dispensa parcial de 50 % do pagamento de contribuições a seu cargo relativas aos trabalhadores abrangidos, calculadas sobre o valor da compensação retributiva a que se refere o n.º 2 do artigo 6.º, sem prejuízo do direito ao apoio correspondente a 100 % da compensação retributiva nos termos do n.º 3 do artigo 7.º;
+
+5 - A isenção total ou a dispensa parcial do pagamento de contribuições prevista no presente artigo é reconhecida oficiosamente.
+
+6 - (Anterior n.º 5.)
+
+7 - (Anterior n.º 6.)
+
+8 - A Classificação Portuguesa das Atividades Económicas das empresas abrangidas pelo n.º 4 é definida por portaria dos membros do Governo responsáveis pelas áreas da economia, das finanças, da cultura e da segurança social.
+
+Artigo 14.º-A
+
+[...]
+
+1 - [...].
+
+2 - Para efeitos do disposto no número anterior, o número de trabalhadores da empresa é aferido por referência ao mês anterior à apresentação do requerimento previsto no número seguinte, tendo como limite o número de trabalhadores abrangidos pelos apoios referidos no número anterior no último mês da sua aplicação.
+
+3 - [...].
+
+4 - [...]:
+
+a) [...];
+
+b) [...];
+
+c) Manter, durante o período de concessão do apoio, bem como nos 90 dias seguintes, o nível de emprego observado no mês anterior ao da candidatura.
+
+5 - [...].
+
+6 - [...].
+
+7 - [...].
+
+8 - [...].
+
+9 - Sem prejuízo do disposto no n.º 1, o empregador que, durante o primeiro semestre de 2021, tenha beneficiado do apoio a que refere o n.º 1, que, no mês de junho de 2021, se mantenha em situação de crise empresarial, nos termos do artigo 3.º, e ainda que, em 2021, não tenha beneficiado do apoio extraordinário à manutenção de contrato de trabalho, nos termos do artigo 2.º do Decreto-Lei n.º 6-E/2021, de 15 de janeiro, na sua redação atual, ou do apoio extraordinário à retoma progressiva de atividade previsto no artigo 4.º do Decreto-Lei n.º 46-A/2020, de 30 de julho, na sua redação atual, tem direito a requerer uma RMMG adicional entre julho e setembro de 2021.
+
+10 - Só pode beneficiar do apoio previsto no presente artigo o empregador que, no primeiro trimestre de 2021, não tenha beneficiado do apoio extraordinário à manutenção de contrato de trabalho, nos termos do artigo 2.º do Decreto-Lei n.º 6-E/2021, de 15 de janeiro, na sua redação atual, ou do apoio extraordinário à retoma progressiva de atividade previsto no artigo 4.º do presente decreto-lei.
+
+11 - (Anterior n.º 9.)»
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+###### Artigo 3.º — Alteração ao Decreto-Lei n.º 6-E/2021, de 15 de janeiro
+
+Os artigos 2.º e 3.º do Decreto-Lei n.º 6-E/2021, de 15 de janeiro, passam a ter a seguinte redação:
+
+«Artigo 2.º
+
+[...]
+
+1 - (Anterior corpo do artigo.)
+
+2 - Pode ainda aceder ao apoio extraordinário à manutenção do contrato de trabalho em situação de crise empresarial, nos termos da subalínea i) da alínea b) do n.º 1 do artigo 3.º do Decreto-Lei n.º 10-G/2020, de 26 de março, na sua redação atual, o empregador que se encontre em paragem total ou parcial da atividade da empresa ou estabelecimento superior a 40 %, no mês anterior ao do requerimento a efetuar no mês de março e abril de 2021, e que resulte da interrupção das cadeias de abastecimento globais, ou da suspensão ou cancelamento de encomendas, nas situações em que mais de metade da faturação no ano anterior tenha sido efetuada a atividades ou setores que estejam atualmente suspensos ou encerrados por determinação legislativa ou administrativa de fonte governamental.
+
+3 - Nas situações referidas nos n.os 1 e 2, é conferido aos membros de órgãos estatutários que exerçam funções de gerência, com declarações de remunerações e registo de contribuições na segurança social e com trabalhadores a seu cargo, o direito a recorrer ao apoio extraordinário à manutenção do contrato de trabalho em situação de crise empresarial, nos termos dos artigos 5.º e 6.º do Decreto-Lei n.º 10-G/2020, de 26 de março, na sua redação atual.
+
+Artigo 3.º
+
+[...]
+
+1 - [...].
+
+2 - [...].
+
+3 - [...].
+
+4 - Sem prejuízo do disposto no n.º 1, até 30 de junho de 2021, é conferido aos trabalhadores independentes, aos empresários em nome individual, aos gerentes e aos membros de órgãos estatutários com funções de direção, cuja atividade se enquadre, nos termos do número seguinte, nos setores do turismo, cultura, eventos e espetáculos, e que estejam em situação de comprovada paragem total da sua atividade ou da atividade do respetivo setor, em consequência da pandemia da doença COVID-19, o direito a recorrer ao apoio extraordinário à redução da atividade económica pelo período correspondente, nos termos previstos no artigo 26.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, o qual é repristinado para o presente efeito.
+
+5 - A Classificação Portuguesa das Atividades Económicas das empresas abrangidas pelo número anterior é definida por portaria dos membros do Governo responsáveis pelas áreas da economia, das finanças, da cultura e da segurança social.»
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+###### Artigo 4.º — Aditamento ao Decreto-Lei n.º 46-A/2020, de 30 de julho
+
+É aditado ao Decreto-Lei n.º 46-A/2020, de 30 de julho, na sua redação atual, o artigo 10.º-A, com a seguinte redação:
+
+«Artigo 10.º-A
+
+Adiamento excecional do início de planos de formação
+
+1 - Sem prejuízo do disposto no artigo anterior, o plano de formação aprovado pelo IEFP, I. P., que não tenha tido início no período previsto na alínea e) do n.º 2 do artigo anterior por força da suspensão das atividades formativas presenciais por determinação legislativa ou administrativa de fonte governamental, tem início no prazo máximo de cinco dias úteis após o termo daquela suspensão, ainda que o empregador já não se encontre a beneficiar do apoio extraordinário à retoma progressiva de atividade.
+
+2 - Na situação referida no número anterior, após apresentação do comprovativo de deferimento do apoio extraordinário à retoma progressiva por parte da segurança social, o empregador tem direito ao pagamento adiantado de 85 % do valor da bolsa de formação aprovada em candidatura antes do início da formação.
+
+3 - O incumprimento do disposto no n.º 1 implica a imediata cessação do pagamento da bolsa por trabalhador abrangido e a restituição dos montantes já recebidos a título de adiantamento.»
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+###### Artigo 5.º — Novo incentivo à normalização da atividade empresarial
+
+1 - O empregador que, no primeiro trimestre de 2021, tenha beneficiado do apoio extraordinário à manutenção de contrato de trabalho, nos termos do artigo 2.º do Decreto-Lei n.º 6-E/2021, de 15 de janeiro, na sua redação atual, ou do apoio extraordinário à retoma progressiva de atividade previsto no artigo 4.º do Decreto-Lei n.º 46-A/2020, de 30 de julho, na sua redação atual, tem direito a um incentivo extraordinário à normalização da atividade empresarial.
+
+2 - O incentivo referido no número anterior é concedido, por trabalhador abrangido pelos apoios, de acordo com os seguintes critérios:
+
+a) Quando requerido até 31 de maio de 2021, tem o valor de duas vezes a remuneração mínima mensal garantida (RMMG) e é pago de forma faseada ao longo de seis meses,
+
+b) Quando requerido em data posterior à referida na alínea anterior e até 31 de agosto de 2021, tem o valor de uma RMMG, pago de uma só vez, correspondente ao período de três meses.
+
+3 - Para efeitos do disposto no número anterior, o número de trabalhadores da empresa é aferido por referência ao mês anterior à apresentação do requerimento, tendo como limite o número de trabalhadores abrangidos pelos apoios referidos no n.º 1 no último mês da sua aplicação.
+
+4 - Ao incentivo previsto na alínea a) do n.º 2 acresce o direito à dispensa parcial de 50 % do pagamento de contribuições para a segurança social a cargo da entidade empregadora, com referência aos trabalhadores abrangidos, durante os primeiros dois meses do incentivo.
+
+5 - O empregador que beneficie do presente incentivo deve cumprir os seguintes deveres:
+
+a) Manter, comprovadamente, as situações contributiva e tributária regularizadas perante a segurança social e a Autoridade Tributária e Aduaneira;
+
+b) Não fazer cessar, durante o período de concessão do apoio, bem como nos 90 dias seguintes, contratos de trabalho por despedimento coletivo, despedimento por extinção do posto de trabalho e despedimento por inadaptação, previstos nos artigos 359.º, 367.º e 373.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual, nem iniciar os respetivos procedimentos;
+
+c) Manter, durante o período de concessão do apoio, bem como nos 90 dias seguintes, o nível de emprego observado no mês anterior ao da apresentação do requerimento.
+
+6 - Para efeitos da verificação do nível de emprego, não são contabilizados os contratos de trabalho que cessem, mediante comprovação pelo empregador:
+
+a) Por caducidade, nas situações previstas no artigo 343.º do Código do Trabalho;
+
+b) Por denúncia pelo trabalhador;
+
+c) Na sequência de despedimento com justa causa promovido pelo empregador.
+
+7 - O incentivo previsto no n.º 1 não é cumulável, em simultâneo, com os apoios previstos nos Decretos-Leis n.os 46-A/2020, de 30 de julho, na sua redação atual, e 10-G/2020, 26 de março, na sua redação atual, nem com as medidas de redução ou suspensão previstas nos artigos 298.º e seguintes do Código do Trabalho.
+
+8 - O empregador que requeira o incentivo tem, ao final de três meses, o direito a desistir do mesmo e a requerer subsequentemente o apoio à retoma progressiva previsto no Decreto-Lei n.º 46-A/2020, de 30 de julho, na sua redação atual, sem necessidade de devolução dos montantes já recebidos, mas tendo apenas direito ao incentivo no valor máximo de uma RMMG, por trabalhador abrangido, e à dispensa parcial de 50 % do pagamento de contribuições para a segurança social a cargo da entidade empregadora, durante os primeiros dois meses do incentivo.
+
+9 - O incentivo financeiro previsto no presente artigo é regulamentado por portaria do membro do Governo responsável pela área do trabalho, designadamente no que respeita aos procedimentos, condições e termos de acesso.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+###### Artigo 6.º — Financiamento
+
+1 - Os valores pagos pela segurança social ao abrigo do presente decreto-lei são financiados pelo Orçamento do Estado.
+
+2 - Os valores pagos pelo Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.), no âmbito da medida prevista no artigo anterior, são financiados pelo Orçamento do Estado, podendo também ser financiados através de transferências do orçamento da segurança social para o IEFP, I. P., tendo por base financiamento do Orçamento do Estado, sendo aplicáveis, sem prejuízo da aplicação de saldos de gerência, as regras estabelecidas no artigo 144.º da Lei n.º 75-B/2020, de 31 de dezembro.
+
+3 - A perda de receita resultante das dispensas e isenções contributivas concedidas ao abrigo do presente decreto-lei é integralmente financiada por transferências do Orçamento do Estado.
+
+4 - Os apoios previstos no presente decreto-lei são passíveis de financiamento comunitário, nos termos das disposições do direito comunitário e nacional.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 56-A/2021 - Diário da República n.º 129/2021, 1º Suplemento, Série I de 2021-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-a-2021-166579339), em vigor a partir de 2021-07-07
+
+###### Artigo 7.º — Prorrogação da vigência do Decreto-Lei n.º 46-A/2020, de 30 de julho
+
+É prorrogada até 30 de setembro de 2021 a vigência do Decreto-Lei n.º 46-A/2020, de 30 de julho, na sua redação atual.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 71-A/2021 - Diário da República n.º 157/2021, 1º Suplemento, Série I de 2021-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-a-2021-169529634), em vigor a partir de 2021-08-14
+
+###### Artigo 8.º — Entrada em vigor e produção de efeitos
+
+1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+2 - A alteração ao artigo 6.º do Decreto-Lei n.º 46-A/2020, de 30 de julho, na sua redação atual, produz efeitos a 1 de janeiro de 2021.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+Visto e aprovado em Conselho de Ministros de 11 de março de 2021. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - João Rodrigo Reis Carvalho Leão - Graça Maria da Fonseca Caetano Gonçalves - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
+
+Promulgado em 23 de março de 2021.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 23 de março de 2021.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114097949
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01

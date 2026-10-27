@@ -1,0 +1,337 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:249978:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2008-34457975",
+ "dre_path": "/dr/detalhe/lei/20-2008-249978",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-04-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "47594675",
+    "47594775",
+    "47594875",
+    "47594975",
+    "47595075",
+    "47595175",
+    "47595275",
+    "47595375",
+    "47595475",
+    "47595575",
+    "47595675",
+    "47595775",
+    "47595875",
+    "47595975",
+    "47596075"
+   ]
+  },
+  {
+   "date": "2015-04-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67051302:por",
+     "title": "Lei n.º 30/2015",
+     "published": "2015-04-22",
+     "dre_path": "/dr/detalhe/lei/30-2015-67051302"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "47594675",
+    "47594775",
+    "47594875",
+    "67019366",
+    "47595075",
+    "47595175",
+    "67019368",
+    "47595375",
+    "47595475",
+    "47595575",
+    "67056490",
+    "67056492",
+    "47595875",
+    "47595975",
+    "47596075",
+    "47596175"
+   ]
+  },
+  {
+   "date": "2020-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:141382321:por",
+     "title": "Lei n.º 58/2020",
+     "published": "2020-08-31",
+     "dre_path": "/dr/detalhe/lei/58-2020-141382321"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "47594675",
+    "47594775",
+    "47594875",
+    "67019366",
+    "47595075",
+    "47595175",
+    "67019368",
+    "47595375",
+    "47595475",
+    "47595575",
+    "67056490",
+    "67056492",
+    "47595875",
+    "141589191",
+    "47596075",
+    "47596175"
+   ]
+  },
+  {
+   "date": "2022-03-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176235804:por",
+     "title": "Lei n.º 94/2021",
+     "published": "2021-12-21",
+     "dre_path": "/dr/detalhe/lei/94-2021-176235804"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "47594675",
+    "47594775",
+    "47594875",
+    "67019366",
+    "47595075",
+    "47595175",
+    "176314963",
+    "47595375",
+    "47595475",
+    "47595575",
+    "67056490",
+    "67056492",
+    "47595875",
+    "176314964",
+    "47596075",
+    "47596175"
+   ]
+  }
+ ],
+ "fragments": {
+  "47594675": {
+   "fragment_id": "35077775",
+   "type": 15,
+   "heading": "Diploma — Cria o novo regime penal de corrupção no comércio internacional e no sector privado, dando cumprimento à Decisão Quadro n.º 2003/568/JAI, do Conselho, de 22 de Julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "47594775": {
+   "fragment_id": "35615375",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "47594875": {
+   "fragment_id": "37016575",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei estabelece o regime de responsabilidade penal por crimes de corrupção cometidos no comércio internacional e na actividade privada."
+  },
+  "47594975": {
+   "fragment_id": "37016675",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara os efeitos da presente lei, considera-se:\n\na) «Funcionário estrangeiro» a pessoa que, ao serviço de um país estrangeiro, como funcionário, agente ou a qualquer outro título, mesmo que provisória ou temporariamente, mediante remuneração ou a título gratuito, voluntária ou obrigatoriamente, tenha sido chamada a desempenhar ou a participar no desempenho de uma actividade compreendida na função pública administrativa ou jurisdicional ou, nas mesmas circunstâncias, desempenhar funções em organismos de utilidade pública ou nelas participar ou que exerce funções de gestor, titular dos órgãos de fiscalização ou trabalhador de empresa pública, nacionalizada, de capitais públicos ou com participação maioritária de capital público e ainda de empresa concessionária de serviços públicos;\n\nb) «Funcionário de organização internacional» a pessoa que, ao serviço de uma organização internacional de direito público, como funcionário, agente ou a qualquer outro título, mesmo que provisória ou temporariamente, mediante remuneração ou a título gratuito, voluntária ou obrigatoriamente, tenha sido chamada a desempenhar ou a participar no desempenho de uma actividade;\n\nc) «Titular de cargo político estrangeiro» a pessoa que, ao serviço de um país estrangeiro, exerce um cargo no âmbito da função legislativa, judicial ou executiva, ao nível nacional, regional ou local, para o qual tenha sido nomeada ou eleita;\n\nd) «Trabalhador do sector privado» a pessoa que exerce funções, incluindo as de direcção ou fiscalização, em regime de contrato individual de trabalho, de prestação de serviços ou a qualquer outro título, mesmo que provisória ou temporariamente, mediante remuneração ou a título gratuito, ao serviço de uma entidade do sector privado;\n\ne) «Entidade do sector privado» a pessoa colectiva de direito privado, a sociedade civil e a associação de facto."
+  },
+  "47595075": {
+   "fragment_id": "37016775",
+   "type": 11,
+   "heading": "Artigo 3.º — Aplicação no espaço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aplicação no espaço\n\nSem prejuízo do regime geral de aplicação da lei penal no espaço e do estabelecido em matéria de cooperação judiciária internacional, a presente lei é aplicável ainda:\n\na) No caso da incriminação prevista no artigo 7.º, a factos praticados por portugueses ou por estrangeiros que sejam encontrados em Portugal, independentemente do local onde tenham sido praticados;\n\nb) No caso das incriminações previstas nos artigos 8.º e 9.º, independentemente do local onde os factos tenham sido praticados, quando quem der, prometer, solicitar ou aceitar a vantagem ou a promessa seja funcionário nacional ou titular de cargo político nacional ou, sendo de nacionalidade portuguesa, seja funcionário de organização internacional."
+  },
+  "47595175": {
+   "fragment_id": "37016875",
+   "type": 11,
+   "heading": "Artigo 4.º — Responsabilidade penal das pessoas colectivas e equiparadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Responsabilidade penal das pessoas colectivas e equiparadas\n\nAs pessoas colectivas e entidades equiparadas são responsáveis, nos termos gerais, pelos crimes previstos na presente lei."
+  },
+  "47595275": {
+   "fragment_id": "37016975",
+   "type": 11,
+   "heading": "Artigo 5.º — Atenuação especial e dispensa de pena",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Atenuação especial e dispensa de pena\n\nNos crimes previstos na presente lei:\n\na) A pena é especialmente atenuada se o agente auxiliar concretamente na recolha das provas decisivas para a identificação ou a captura de outros responsáveis ou de algum modo contribuir decisivamente para a descoberta da verdade;\n\nb) O agente é dispensado de pena se, voluntariamente, antes da prática do facto, repudiar o oferecimento ou a promessa que aceitara, restituir a vantagem ou, tratando-se de coisa fungível, o seu valor, retirar a promessa feita ou solicitar a restituição da vantagem dada."
+  },
+  "47595375": {
+   "fragment_id": "37017075",
+   "type": 11,
+   "heading": "Artigo 6.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direito subsidiário\n\n1 - As penas previstas na presente lei só são aplicáveis se ao facto não couber pena mais grave por força de outra disposição legal.\n\n2 - Aos crimes previstos na presente lei são subsidiariamente aplicáveis as disposições do Código Penal."
+  },
+  "47595475": {
+   "fragment_id": "35615475",
+   "type": 1,
+   "heading": "Capítulo II — Crimes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Crimes"
+  },
+  "47595575": {
+   "fragment_id": "37017175",
+   "type": 11,
+   "heading": "Artigo 7.º — Corrupção activa com prejuízo do comércio internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Corrupção activa com prejuízo do comércio internacional\n\nQuem por si ou, mediante o seu consentimento ou ratificação, por interposta pessoa der ou prometer a funcionário, nacional, estrangeiro ou de organização internacional, ou a titular de cargo político, nacional ou estrangeiro, ou a terceiro com conhecimento daqueles, vantagem patrimonial ou não patrimonial, que lhe não seja devida, para obter ou conservar um negócio, um contrato ou outra vantagem indevida no comércio internacional, é punido com pena de prisão de um a oito anos."
+  },
+  "47595675": {
+   "fragment_id": "37017275",
+   "type": 11,
+   "heading": "Artigo 8.º — Corrupção passiva no sector privado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Corrupção passiva no sector privado\n\n1 - O trabalhador do sector privado que, por si ou, mediante o seu consentimento ou ratificação, por interposta pessoa, solicitar ou aceitar, para si ou para terceiro, sem que lhe seja devida, vantagem patrimonial ou não patrimonial, ou a sua promessa, para um qualquer acto ou omissão que constitua uma violação dos seus deveres funcionais é punido com pena de prisão até dois anos ou com pena de multa.\n\n2 - Se o acto ou omissão previsto no número anterior for idóneo a causar uma distorção da concorrência ou um prejuízo patrimonial para terceiros, o agente é punido com pena de prisão até cinco anos ou com pena de multa até 600 dias."
+  },
+  "47595775": {
+   "fragment_id": "37017375",
+   "type": 11,
+   "heading": "Artigo 9.º — Corrupção activa no sector privado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Corrupção activa no sector privado\n\n1 - Quem por si ou, mediante o seu consentimento ou ratificação, por interposta pessoa der ou prometer a pessoa prevista no artigo anterior, ou a terceiro com conhecimento daquela, vantagem patrimonial ou não patrimonial, que lhe não seja devida, para prosseguir o fim aí indicado é punido com pena de prisão até um ano ou com pena de multa.\n\n2 - Se a conduta prevista no número anterior visar obter ou for idónea a causar uma distorção da concorrência ou um prejuízo patrimonial para terceiros, o agente é punido com pena de prisão até três anos ou com pena de multa."
+  },
+  "47595875": {
+   "fragment_id": "35615575",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais"
+  },
+  "47595975": {
+   "fragment_id": "37017475",
+   "type": 11,
+   "heading": "Artigo 10.º — Branqueamento e combate à corrupção e criminalidade económico-financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Branqueamento e combate à corrupção e criminalidade económico-financeira\n\nO comportamento descrito no artigo 7.º considera-se crime de corrupção para efeitos do disposto no artigo 368.º-A do Código Penal e na alínea a) do n.º 1 do artigo 1.º da Lei n.º 36/94, de 29 de Setembro (medidas de combate à corrupção e criminalidade económica e financeira)."
+  },
+  "47596075": {
+   "fragment_id": "37017575",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\nSão revogados os artigos 41.º-A, 41.º-B e 41.º-C do Decreto-Lei n.º 28/84, de 20 de Janeiro, e a Lei n.º 13/2001, de 4 de Junho."
+  },
+  "67019366": {
+   "fragment_id": "37016675",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2015-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 30/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22](https://diariodarepublica.pt/dr/detalhe/lei/30-2015-67051302), em vigor a partir de 2015-04-27"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara os efeitos da presente lei, considera-se:\n\na) 'Funcionário estrangeiro' a pessoa que, ao serviço de um país estrangeiro, como funcionário, agente ou a qualquer outro título, mesmo que provisória ou temporariamente, mediante remuneração ou a título gratuito, voluntária ou obrigatoriamente, tenha sido chamada a desempenhar ou a participar no desempenho de uma atividade compreendida na função pública administrativa ou jurisdicional ou, nas mesmas circunstâncias, desempenhar funções em organismos de utilidade pública ou nelas participar ou que exerce funções de gestor, titular dos órgãos de fiscalização ou trabalhador de empresa pública, nacionalizada, de capitais públicos ou com participação maioritária de capital público e ainda de empresa concessionária de serviços públicos, assim como qualquer pessoa que assuma e exerça uma função de serviço público em empresa privada no âmbito de contrato público;\n\nb) «Funcionário de organização internacional» a pessoa que, ao serviço de uma organização internacional de direito público, como funcionário, agente ou a qualquer outro título, mesmo que provisória ou temporariamente, mediante remuneração ou a título gratuito, voluntária ou obrigatoriamente, tenha sido chamada a desempenhar ou a participar no desempenho de uma actividade;\n\nc) «Titular de cargo político estrangeiro» a pessoa que, ao serviço de um país estrangeiro, exerce um cargo no âmbito da função legislativa, judicial ou executiva, ao nível nacional, regional ou local, para o qual tenha sido nomeada ou eleita;\n\nd) «Trabalhador do sector privado» a pessoa que exerce funções, incluindo as de direcção ou fiscalização, em regime de contrato individual de trabalho, de prestação de serviços ou a qualquer outro título, mesmo que provisória ou temporariamente, mediante remuneração ou a título gratuito, ao serviço de uma entidade do sector privado;\n\ne) «Entidade do sector privado» a pessoa colectiva de direito privado, a sociedade civil e a associação de facto.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 30/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22](https://diariodarepublica.pt/dr/detalhe/lei/30-2015-67051302), em vigor a partir de 2015-04-27"
+  },
+  "67019368": {
+   "fragment_id": "37016975",
+   "type": 11,
+   "heading": "Artigo 5.º — Atenuação especial e dispensa de pena",
+   "in_force_from": "2015-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 30/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22](https://diariodarepublica.pt/dr/detalhe/lei/30-2015-67051302), em vigor a partir de 2015-04-27"
+   ],
+   "markdown": "###### Artigo 5.º — Atenuação especial e dispensa de pena\n\nNos crimes previstos na presente lei:\n\na) A pena pode ser especialmente atenuada se o agente auxiliar concretamente na recolha das provas decisivas para a identificação ou a captura de outros responsáveis ou de algum modo contribuir decisivamente para a descoberta da verdade;\n\nb) O agente pode ser dispensado de pena se, voluntariamente, antes da prática do facto, repudiar o oferecimento ou a promessa que aceitara, restituir a vantagem ou, tratando-se de coisa fungível, o seu valor.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 30/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22](https://diariodarepublica.pt/dr/detalhe/lei/30-2015-67051302), em vigor a partir de 2015-04-27"
+  },
+  "67056490": {
+   "fragment_id": "37017275",
+   "type": 11,
+   "heading": "Artigo 8.º — Corrupção passiva no sector privado",
+   "in_force_from": "2015-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 30/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22](https://diariodarepublica.pt/dr/detalhe/lei/30-2015-67051302), em vigor a partir de 2015-04-27"
+   ],
+   "markdown": "###### Artigo 8.º — Corrupção passiva no sector privado\n\n1 - O trabalhador do sector privado que, por si ou, mediante o seu consentimento ou ratificação, por interposta pessoa, solicitar ou aceitar, para si ou para terceiro, sem que lhe seja devida, vantagem patrimonial ou não patrimonial, ou a sua promessa, para um qualquer ato ou omissão que constitua uma violação dos seus deveres funcionais é punido com pena de prisão até cinco anos ou com pena de multa até 600 dias.\n\n2 - Se o ato ou omissão previsto no número anterior for idóneo a causar uma distorção da concorrência ou um prejuízo patrimonial para terceiros, o agente é punido com pena de prisão de um a oito anos.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 30/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22](https://diariodarepublica.pt/dr/detalhe/lei/30-2015-67051302), em vigor a partir de 2015-04-27"
+  },
+  "67056492": {
+   "fragment_id": "37017375",
+   "type": 11,
+   "heading": "Artigo 9.º — Corrupção activa no sector privado",
+   "in_force_from": "2015-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 30/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22](https://diariodarepublica.pt/dr/detalhe/lei/30-2015-67051302), em vigor a partir de 2015-04-27"
+   ],
+   "markdown": "###### Artigo 9.º — Corrupção activa no sector privado\n\n1 - Quem por si ou, mediante o seu consentimento ou ratificação, por interposta pessoa der ou prometer a pessoa prevista no artigo anterior, ou a terceiro com conhecimento daquela, vantagem patrimonial ou não patrimonial, que lhe não seja devida, para prosseguir o fim aí indicado é punido com pena de prisão até três anos ou com pena de multa.\n\n2 - Se a conduta prevista no número anterior visar obter ou for idónea a causar uma distorção da concorrência ou um prejuízo patrimonial para terceiros, o agente é punido com pena de prisão até cinco anos ou com pena de multa até 600 dias.\n\n3 - A tentativa é punível.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 30/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22](https://diariodarepublica.pt/dr/detalhe/lei/30-2015-67051302), em vigor a partir de 2015-04-27"
+  },
+  "47596175": {
+   "fragment_id": "35615675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 22 de Fevereiro de 2008.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 1 de Abril de 2008.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 2 de Abril de 2008.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "141589191": {
+   "fragment_id": "37017475",
+   "type": 11,
+   "heading": "Artigo 10.º — Branqueamento e combate à corrupção e criminalidade económico-financeira",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 58/2020 - Diário da República n.º 169/2020, Série I de 2020-08-31](https://diariodarepublica.pt/dr/detalhe/lei/58-2020-141382321), em vigor a partir de 2020-09-01"
+   ],
+   "markdown": "###### Artigo 10.º — Branqueamento e combate à corrupção e criminalidade económico-financeira\n\nO comportamento descrito no artigo 7.º considera-se crime de corrupção para efeitos do disposto na alínea a) do n.º 1 do artigo 1.º da Lei n.º 36/94, de 29 de setembro, que estabelece medidas de combate à corrupção e criminalidade económica e financeira.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 58/2020 - Diário da República n.º 169/2020, Série I de 2020-08-31](https://diariodarepublica.pt/dr/detalhe/lei/58-2020-141382321), em vigor a partir de 2020-09-01"
+  },
+  "176314963": {
+   "fragment_id": "37016975",
+   "type": 11,
+   "heading": "Artigo 5.º — Atenuação especial e dispensa de pena",
+   "in_force_from": "2022-03-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 94/2021 - Diário da República n.º 245/2021, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/lei/94-2021-176235804), em vigor a partir de 2022-03-21",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 30/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22](https://diariodarepublica.pt/dr/detalhe/lei/30-2015-67051302), em vigor a partir de 2015-04-27"
+   ],
+   "markdown": "###### Artigo 5.º — Atenuação especial e dispensa de pena\n\n1 - O agente é dispensado de pena sempre que tiver denunciado o crime antes da instauração de procedimento criminal e, nas situações previstas:\n\na) No artigo 7.º, tenha retirado a promessa de vantagem ou solicitado a sua restituição ou repúdio ao funcionário ou titular de cargo político;\n\nb) No artigo 8.º, não tenha praticado o ato ou omissão contrário aos seus deveres funcionais para o qual solicitou ou aceitou a vantagem e restitua ou repudie voluntariamente a vantagem ou, tratando-se de coisa ou animal fungíveis, restitua o seu valor;\n\nc) No artigo 9.º, tenha retirado a promessa de vantagem ou solicitado a sua restituição ou repúdio ao trabalhador do setor privado, antes da prática do ato ou da omissão contrários aos seus deveres funcionais.\n\n2 - O agente pode ser dispensado de pena sempre que, durante o inquérito ou a instrução, e verificando-se o disposto nas alíneas do n.º 1, conforme aplicável, tiver contribuído decisivamente para a descoberta da verdade.\n\n3 - A dispensa de pena abrange os crimes que sejam efeito dos crimes previstos nos artigos 7.º a 9.º, ou que se hajam destinado a continuar ou a ocultar estes crimes ou as vantagens dos mesmos provenientes, desde que o agente os tenha denunciado ou tenha contribuído decisivamente para a sua descoberta.\n\n4 - Ressalva-se do disposto no número anterior os crimes praticados contra bens eminentemente pessoais.\n\n5 - A pena é especialmente atenuada se, até ao encerramento da audiência de julgamento em primeira instância, o agente colaborar ativamente na descoberta da verdade, contribuindo de forma relevante para a prova dos factos.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 94/2021 - Diário da República n.º 245/2021, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/lei/94-2021-176235804), em vigor a partir de 2022-03-21\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 30/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22](https://diariodarepublica.pt/dr/detalhe/lei/30-2015-67051302), em vigor a partir de 2015-04-27"
+  },
+  "176314964": {
+   "fragment_id": "37017475",
+   "type": 11,
+   "heading": "Artigo 10.º — Combate à corrupção e criminalidade económico-financeira",
+   "in_force_from": "2022-03-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 94/2021 - Diário da República n.º 245/2021, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/lei/94-2021-176235804), em vigor a partir de 2022-03-21",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 58/2020 - Diário da República n.º 169/2020, Série I de 2020-08-31](https://diariodarepublica.pt/dr/detalhe/lei/58-2020-141382321), em vigor a partir de 2020-09-01"
+   ],
+   "markdown": "###### Artigo 10.º — Combate à corrupção e criminalidade económico-financeira\n\nO comportamento descrito no artigo 7.º considera-se crime de corrupção para efeitos do disposto na alínea a) do n.º 1 do artigo 1.º da Lei n.º 36/94, de 29 de setembro, que estabelece medidas de combate à corrupção e criminalidade económica e financeira.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 94/2021 - Diário da República n.º 245/2021, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/lei/94-2021-176235804), em vigor a partir de 2022-03-21\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 58/2020 - Diário da República n.º 169/2020, Série I de 2020-08-31](https://diariodarepublica.pt/dr/detalhe/lei/58-2020-141382321), em vigor a partir de 2020-09-01"
+  }
+ }
+}

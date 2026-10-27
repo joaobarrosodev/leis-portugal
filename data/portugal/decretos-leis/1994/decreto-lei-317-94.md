@@ -1,0 +1,581 @@
+---
+schema_version: '1.0'
+id: pt:dre:575295:por
+title: Decreto-Lei n.º 317/94
+short_title: null
+summary: Organiza o registo individual do condutor
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 317/94
+official_date: null
+publication_date: '1994-12-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 296/1994, Série I-A de 1994-12-24
+  number: '296'
+  series: I
+  supplement: null
+  pages: 7345 - 7348
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/12/296a00/73457348.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-01-08'
+version_history:
+  file: decreto-lei-317-94.versoes.json
+  count: 7
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1994-12-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-06-12'
+    amending: pt:dre:345542:por
+    amending_title: Decreto-Lei n.º 105/2006
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Revoga Artigo 12.º
+  - date: '2009-06-06'
+    amending: pt:dre:494197:por
+    amending_title: Decreto-Lei n.º 130/2009
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+  - date: '2011-12-01'
+    amending: pt:dre:146221:por
+    amending_title: Decreto-Lei n.º 114/2011
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+  - date: '2015-05-14'
+    amending: pt:dre:66970760:por
+    amending_title: Lei n.º 27/2015
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+  - date: '2016-12-28'
+    amending: pt:dre:105263933:por
+    amending_title: Decreto-Lei n.º 80/2016
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+  - date: '2021-01-08'
+    amending: pt:dre:150757538:por
+    amending_title: Decreto-Lei n.º 102-B/2020
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 11.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/317/1994/p/cons/20201209/pt/html
+  oj: null
+  dre: '575295'
+  dre_path: /dr/detalhe/decreto-lei/317-1994-575295
+  internal: pt:dre:575295:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-1994-575295
+  metadata_url: https://data.dre.pt/eli/dec-lei/317/1994/p/cons/20201209/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1994-66984592
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1994-66984592
+  retrieved_at: '2026-10-22T11:58:40Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 932c0ab333919671f23a9e5507da19e0810daf31fddc48a53d7e84e8d3b207dc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:58:40Z'
+  notes: 7 versão(ões); histórico completo em decreto-lei-317-94.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- Registo Individual do Condutor
+- Carta de Condução
+- Código da Estrada
+- Contra-ordenação
+- Direcção Geral de Viação
+- Informática
+- Base de Dados
+- Segurança da Informação
+- Direito à Informação
+- Sistema de Informação
+- Segredo Profissional
+- Dados Pessoais
+relationships:
+- type: amended_by
+  target: pt:dre:345542:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 10.º;
+    Altera Artigo 11.º; Revoga Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542
+  date: '2006-06-07'
+- type: amended_by
+  target: pt:dre:494197:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º;
+    Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197
+  date: '2009-06-01'
+- type: amended_by
+  target: pt:dre:146221:por
+  label: Altera Artigo 7.º; Altera Artigo 11.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221
+  date: '2011-11-30'
+- type: amended_by
+  target: pt:dre:66970760:por
+  label: Altera Artigo 1.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/27-2015-66970760
+  date: '2015-04-14'
+- type: amended_by
+  target: pt:dre:105263933:por
+  label: Altera Artigo 1.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º;
+    Altera Artigo 11.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933
+  date: '2016-11-28'
+- type: amended_by
+  target: pt:dre:150757538:por
+  label: Altera Artigo 4.º; Altera Artigo 7.º; Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-b-2020-150757538
+  date: '2020-12-09'
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
+- type: cites
+  target: pt:dre:599769:por
+  label: null
+  source: http://data.dre.pt/eli/lei/10/1991/04/29/p/dre
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:58:40Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 317/94
+
+Decreto-Lei n.º 317/94
+
+de 24 de Dezembro
+
+O artigo 147.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio, determina que cada condutor tem um registo individual, organizado nos termos a estabelecer em diploma próprio.
+
+É esse diploma que agora se aprova, determinando-se assim o conteúdo da base de dados do registo individual de condutores, base esta essencial para a aplicação eficaz do Código da Estrada.
+
+Foi ouvida a Comissão Nacional de Protecção de Dados Pessoais Informatizados, bem como os órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Registo de infracções do condutor
+
+1 - A Autoridade Nacional de Segurança Rodoviária (ANSR) dispõe de uma base de dados, designada Registo Individual do Condutor (RIC), que contém o registo de infrações e a pontuação associados ao título de condução do condutor, a qual consta de ficheiro central informatizado.
+
+2 - A base de dados RIC visa:
+
+a) Organizar e manter atualizada a informação necessária ao exercício das competências da ANSR e dos serviços competentes das Regiões Autónomas, em especial nos processos de contraordenação e de cassação do título de condução resultantes da aplicação do Código da Estrada e legislação complementar;
+
+b) Permitir o acesso à informação sobre o registo de infrações dos condutores e a emissão automática de certidões de registo de infrações e da pontuação dos títulos de condução dos condutores;
+
+c) Permitir a fiscalização da injunção de proibição de conduzir veículos a motor aplicada em sede de suspensão provisória do processo penal.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 27/2015 - Diário da República n.º 72/2015, Série I de 2015-04-14](https://diariodarepublica.pt/dr/detalhe/lei/27-2015-66970760), em vigor a partir de 2015-05-14
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12
+
+###### Artigo 2.º — Responsável da base de dados
+
+1 - É responsável pela base de dados do RIC, nos termos e para os efeitos do disposto na alínea d) do artigo 3.º da Lei n.º 67/98, de 26 de Outubro, o presidente da ANSR.
+
+2 - Cabe, em especial, ao presidente da ANSR assegurar o direito de informação e de acesso aos dados pelos respectivos titulares e a correcção de inexactidões, bem como velar para que a consulta ou a comunicação da informação respeitem as condições previstas na lei.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12
+
+###### Artigo 3.º — Dados recolhidos
+
+A recolha de dados para tratamento automatizado, no âmbito das competências da ANSR, deve limitar-se ao que seja necessário para a prossecução dos objectivos legalmente definidos para a respectiva base de dados.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06
+
+###### Artigo 4.º — Registo de infrações e da pontuação dos condutores
+
+1 - O RIC é um ficheiro constituído por dados relativos:
+
+a) À identificação do condutor;
+
+b) A cada infracção punida com inibição ou proibição de condução em território nacional;
+
+c) À existência de inibição ou proibição de condução aplicada por organismos estrangeiros;
+
+d) À existência de decisões em medida de segurança que impliquem cassação dos títulos de condução;
+
+e) À aplicação, alteração ou extinção da proibição de conduzir veículos a motor em sede de suspensão provisória do processo penal;
+
+f) Ao número de pontos detidos por cada condutor.
+
+2 - São dados de identificação do condutor:
+
+a) Os tipos dos títulos de condução de que é titular;
+
+b) Os números dos títulos de condução;
+
+c) O número do bilhete de identidade ou do cartão de cidadão;
+
+d) A residência;
+
+e) O nome.
+
+3 - Relativamente a cada infração punida com inibição ou proibição de condução em território nacional, bem como em relação à aplicação da proibição de conduzir veículos a motor em sede de suspensão provisória do processo penal, e para efeitos do disposto no n.º 7 do artigo 148.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de maio, na sua redação atual, são recolhidos os seguintes dados:
+
+a) Número do auto;
+
+b) Entidade autuante;
+
+c) Data da infracção;
+
+d) Código da infracção;
+
+e) Data da decisão condenatória ou do despacho que determinou a suspensão provisória do processo penal;
+
+f) Número de processo;
+
+g) Entidade decisória;
+
+h) Período de inibição ou proibição;
+
+i) Data de início do período de inibição ou proibição;
+
+j) Data do fim do período de inibição ou proibição;
+
+l) Suspensão de execução de sanção acessória;
+
+m) Data do início do período de suspensão;
+
+n) Data do fim do período de suspensão;
+
+o) Substituição por caução;
+
+p) Período de caução;
+
+q) Valor da caução;
+
+r) Data da prestação da caução;
+
+s) Data da devolução da caução;
+
+t) Substituição por frequência de acção de formação;
+
+u) Período da acção de formação;
+
+v) Data do início da frequência de acção de formação;
+
+x) Data do fim da frequência de acção de formação;
+
+z) Acidente de viação;
+
+aa) Número de pontos subtraídos;
+
+bb) Data da notificação de que o condutor tem cinco ou menos pontos;
+
+cc) Frequência voluntária de ação de formação de segurança rodoviária, para efeitos de atribuição de um ponto no momento da revalidação da carta de condução;
+
+dd) Datas de início e de fim do período em que frequentou a ação de formação de segurança rodoviária;
+
+ee) Data da notificação de que o condutor tem três ou menos pontos;
+
+ff) Data de realização da prova teórica do exame de condução;
+
+gg) Indicação de falta injustificada à ação de formação ou à prova teórica do exame de condução;
+
+hh) Indicação da reprovação na prova teórica do exame de condução.
+
+4 - Relativamente à existência de uma inibição ou proibição de condução comunicada por organismo estrangeiros, são recolhidos os seguintes dados:
+
+a) País;
+
+c) Período de inibição ou proibição;
+
+d) Data de início do período de inibição ou proibição;
+
+e) Data do fim do período de inibição ou proibição;
+
+f) Tipo de infracção.
+
+5 - Relativamente às decisões que impliquem cassação da licença de condução são recolhidos os seguintes dados:
+
+a) Data da cassação;
+
+b) Entidade responsável;
+
+c) Fundamento;
+
+d) Período durante o qual não pode ser concedido novo título de condução.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 102-B/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-b-2020-150757538), em vigor a partir de 2021-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 27/2015 - Diário da República n.º 72/2015, Série I de 2015-04-14](https://diariodarepublica.pt/dr/detalhe/lei/27-2015-66970760), em vigor a partir de 2015-05-14
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12
+
+###### Artigo 5.º — Registo de infractores habilitados com título de condução estrangeiro
+
+1 - O registo de infratores habilitados com título de condução estrangeiro é constituído pelos dados de identificação do condutor, pelas condenações por infração com inibição ou proibição de condução em território nacional, pelas condenações em medida de segurança que impliquem cassação da licença de condução e pela aplicação da proibição de conduzir veículos a motor em sede de suspensão provisória do processo penal.
+
+2 - São dados de identificação do condutor:
+
+a) Os tipos de títulos de condução de que é titular;
+
+b) Os números dos títulos de condução;
+
+c) A identificação da entidade emissora;
+
+d) O número do bilhete de identidade, ou do cartão do cidadão, ou do passaporte;
+
+e) A residência;
+
+f) O nome.
+
+3 - Relativamente às infrações punidas com inibição ou proibição de condução em território nacional, à aplicação de medidas de segurança que impliquem cassação dos títulos de condução e à aplicação da proibição de conduzir veículos a motor em sede de suspensão provisória do processo penal são recolhidos os dados referidos nos n.os 3 e 5 do artigo anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 27/2015 - Diário da República n.º 72/2015, Série I de 2015-04-14](https://diariodarepublica.pt/dr/detalhe/lei/27-2015-66970760), em vigor a partir de 2015-05-14
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06
+
+###### Artigo 6.º — Recolha e actualização
+
+1 - Os dados devem ser exatos e pertinentes, não podendo a sua recolha exceder os limites definidos no artigo 3.º.
+
+2 - Os dados relativos às infrações praticadas apenas podem ser recolhidos após a decisão condenatória proferida no processo de contraordenação se ter tornado definitiva ou, quando se trate de decisão judicial, a mesma tiver transitado em julgado.
+
+3 - Os dados pessoais constantes da base de dados RIC são recolhidos a partir de requerimentos ou formulários online preenchidos pelos seus titulares ou pelos seus mandatários com poderes especiais para o efeito.
+
+4 - Os dados pessoais constantes da base de dados RIC podem ainda ser recolhidos a partir das informações obtidas pela ANSR, no exercício da sua missão, e pelos serviços competentes das administrações regionais nas Regiões Autónomas, bem como recebidas de forças de segurança ou de serviços públicos quando tal se mostre necessário para o exercício das competências da ANSR.
+
+5 - Os serviços competentes das entidades às quais cabe a aplicação das sanções previstas no Código da Estrada ou na legislação complementar devem remeter à ANSR, preferencialmente por meio eletrónico, para permanente atualização da base de dados RIC, os extratos das decisões condenatórias a que se referem as alíneas c) e d) do n.º 1 e os n.os 3 e 5 do artigo 4.º do presente decreto-lei.
+
+6 - O extrato da decisão condenatória ou da decisão que determinou a suspensão provisória do processo penal deve conter a indicação:
+
+a) Do tribunal e juízo que proferiu a decisão condenatória, ou do serviço ou departamento do Ministério Público que proferiu a decisão de suspensão provisória do processo penal, número e forma do processo;
+
+b) Da identificação civil do arguido: nome, naturalidade, nacionalidade, data de nascimento, número do bilhete de identidade ou cartão de cidadão ou, na sua falta, do passaporte ou de outro documento de identificação idóneo, número do título de condução e residência;
+
+c) Da designação e data da prática da infração ou do crime;
+
+d) Da data da decisão condenatória e respetivo trânsito em julgado, ou da decisão que determinou a suspensão provisória do processo penal;
+
+e) Dos preceitos violados e das penas principais, de substituição e acessórias, ou das medidas de segurança aplicadas na decisão condenatória, ou da injunção aplicada em sede de suspensão provisória do processo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 27/2015 - Diário da República n.º 72/2015, Série I de 2015-04-14](https://diariodarepublica.pt/dr/detalhe/lei/27-2015-66970760), em vigor a partir de 2015-05-14
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12
+
+###### Artigo 7.º — Acesso aos dados
+
+1 - A ANSR e, nas Regiões Autónomas, os serviços competentes, acedem aos dados contidos na base de dados a que se refere o artigo 1.º através de uma linha de transmissão de dados.
+
+2 - Podem ainda aceder à informação contida na base de dados a que se refere o artigo 1.º:
+
+a) Os magistrados judiciais e do Ministério Público para fins de investigação criminal, de instrução de processos criminais ou no âmbito de recursos de decisões proferidas pela ANSR;
+
+b) As entidades que, no âmbito da lei processual, recebam delegação de competências para a prática de actos de inquérito ou de instrução;
+
+c) O Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), para efeitos de revalidação, troca, substituição e emissão de 2.ª via de título de condução, emissão de títulos de certificação profissional, quando lei especial o imponha, e análise dos processos administrativos para efeitos do disposto no artigo 129.º do Código da Estrada;
+
+d) (Revogada).
+
+e) A Guarda Nacional Republicana e a Polícia de Segurança Pública, no âmbito de ações de fiscalização do trânsito, bem como quando exista obrigação ou autorização legal nesse sentido e, ainda, quando os dados sejam indispensáveis ao destinatário para o cumprimento das suas competências próprias e desde que a finalidade da recolha ou do tratamento dos dados pelo destinatário não seja incompatível com a finalidade determinante da recolha na origem ou com obrigações legais da ANSR.
+
+3 - [Revogado.]
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 102-B/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-b-2020-150757538), em vigor a partir de 2021-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12
+
+###### Artigo 8.º — Comunicação de dados
+
+Os dados previstos nos artigos 4.º e 5.º podem ser comunicados às entidades competentes de outro Estado no âmbito de instrumento de direito internacional convencional a que o Estado Português se encontre vinculado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06
+
+###### Artigo 9.º — Informação para fins de estatística
+
+Para além dos casos previstos no artigo 7.º, a informação pode ser divulgada para fins estatísticos, mediante autorização do responsável das bases de dados e desde que não possam ser identificáveis as pessoas a que respeita, observadas as disposições legais aplicáveis.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06
+
+###### Artigo 10.º — Conservação dos dados
+
+Os dados inseridos no RIC são conservados pelo prazo dos cinco anos subsequentes à decisão se tornar definitiva ou ao trânsito em julgado da sentença, findo o qual são eliminados de imediato.»
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12
+
+###### Artigo 11.º — Direito à informação e acesso aos dados
+
+1 - Qualquer pessoa, desde que devidamente identificada, tem o direito de conhecer o conteúdo dos registos, constantes das bases de dados, que lhe respeitem.
+
+2 - Para efeitos do disposto no número anterior, o titular dos dados pode consultar, por via eletrónica, os registos das infrações e da pontuação associados ao seu título de condução e, pela mesma via, obter a reprodução do registo informático, a qual não substitui a certidão do RIC.
+
+3 - O acesso à informação contida na base de dados é da responsabilidade da ANSR.
+
+4 - As entidades autorizadas a aceder a essa informação são obrigadas a garantir que a informação não possa ser obtida indevidamente nem usada para fim diferente do permitido.
+
+5 - O acesso à base de dados pelo IMT, I. P., permite obter informação relativa a determinado condutor sobre a existência de sanções por cumprir, que estejam a ser cumpridas ou já concluídas.
+
+6 - (Revogado).
+
+7 - (Revogado).
+
+8 - As condições de acesso à base de dados são definidas por despacho do presidente da ANSR, que é sujeito a parecer da Comissão Nacional de Proteção de Dados (CNPD).
+
+9 - Todas as operações relacionadas com o acesso por parte das entidades autorizadas dependem de utilização de palavra chave que identifique os postos de trabalho, a pessoa que acede à informação, a hora e o tempo de acesso.
+
+10 - O disposto no n.º 2 pode suceder através da Plataforma de Interoperabilidade da Administração Pública e mediante autenticação segura com recurso ao Cartão de Cidadão ou à Chave Móvel Digital.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 102-B/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-b-2020-150757538), em vigor a partir de 2021-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12
+
+###### Artigo 12.º — Certidão do registo de infrações do condutor e da pontuação dos títulos de condução
+
+1 - A certidão do registo de infrações do condutor e do número de pontos associados ao título de condução é emitida pela ANSR, preferencialmente por meio eletrónico, a requerimento do titular, podendo ser disponibilizada online mediante a introdução de um código de validação facultado para o efeito.
+
+2 - (Revogado).
+
+3 - O respectivo serviço emissor deve manter organizado o registo de todas as certidões emitidas nos três meses imediatamente anteriores, por forma a possibilitar a correcção ou rectificação de certidões emitidas ou a atender a reclamações por eventuais extravios.
+
+2 - (Revogado).
+
+5 - As certidões são devidamente autenticadas pela entidade onde se processa a emissão, não sendo válidas as que apresentem emendas, rasuras ou entrelinhas.
+
+6 - As certidões são válidas por três meses a contar da data da sua emissão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933), em vigor a partir de 2016-12-28
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 105/2006 - Diário da República n.º 110/2006, Série I-A de 2006-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542), em vigor a partir de 2006-06-12
+
+###### Artigo 13.º — Segurança da informação
+
+Tendo em vista a segurança da informação, cabe ao responsável pelas bases de dados a que se refere o presente diploma garantir a observação das seguintes regras:
+
+1 - Tendo em vista a segurança da informação, cabe ao responsável pela base de dados a que se refere o presente decreto-lei garantir a observação das seguintes regras:
+
+a) A entrada nas instalações utilizadas para tratamento de dados pessoais é objecto de controlo, a fim de impedir o acesso de qualquer pessoa não autorizada;
+
+b) Os suportes de dados são objecto de controlo a fim de impedir que possam ser lidos, copiados, alterados ou retirados por qualquer pessoa não autorizada;
+
+c) A inserção de dados é objecto de controlo para impedir a introdução, bem como qualquer tomada de conhecimento, alteração ou eliminação não autorizada de dados pessoais;
+
+d) Os sistemas de tratamento automatizado de dados são objecto de controlo para impedir que possam ser utilizados por pessoas não autorizadas, através de instalações de transmissão de dados;
+
+e) O acesso aos dados é objecto de controlo para que as pessoas autorizadas só possam ter acesso aos dados que interessem ao exercício das suas atribuições legais;
+
+f) A transmissão dos dados é objecto de controlo para garantir que a sua utilização seja limitada às entidades autorizadas;
+
+g) A introdução, consulta, alteração ou eliminação de dados pessoais nos sistemas de tratamento automatizado é objecto de controlo, de forma a verificar-se quais os dados introduzidos, consultados, alterados ou eliminados, quando e por quem, mantendo-se o registo dessas operações por um período de quatro anos;
+
+h) O transporte de suportes de dados é objecto de controlo para impedir que os dados possam ser lidos, copiados, alterados ou eliminados de forma não autorizada.
+
+2 - O uso indevido da informação disponível nas bases de dados do RIC é punido nos termos previstos na Lei n.º 67/98, de 26 de Outubro.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/2009 - Diário da República n.º 105/2009, Série I de 2009-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197), em vigor a partir de 2009-06-06
+
+Visto e aprovado em Conselho de Ministros de 6 de Outubro de 1994. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Manuel Dias Loureiro - Álvaro José Brilhante Laborinho Lúcio.
+
+Promulgado em 1 de Dezembro de 1994.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 5 de Dezembro de 1994.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

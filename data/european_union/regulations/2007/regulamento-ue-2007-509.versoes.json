@@ -1,0 +1,342 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32007R0509:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R0509-20110101",
+ "dre_path": null,
+ "source_lastmod": "2011-01-01",
+ "versions": [
+  {
+   "date": "2007-05-11",
+   "future": false,
+   "celex": "32007R0509",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0365801f33748967",
+    "226c39ffd0a88dad",
+    "95fd104f762bee8a",
+    "bd55dfc429daf25d",
+    "cdd0cdde175f23ba",
+    "f0f8c960bfdbce9b",
+    "31a08c7a79c0575b",
+    "7f01eb621d8fec8a",
+    "9ca67f8ea8092e24",
+    "1e7a0903d2eed348",
+    "817b587336d40f08",
+    "fc81f91e43f7c54c",
+    "1ecfc79da3f1ac7f",
+    "488b2de53d1f7555",
+    "9473788ce903d3d8",
+    "ffb074cee3f33e40",
+    "944c389ebd422af4",
+    "373df0b8dd8435b5",
+    "589c51618eee891f",
+    "40ed6b62e188ac6f",
+    "dde9cf53e9ae6c9a",
+    "74aa9852b25492ef",
+    "932ae647fa9ba8c3",
+    "a52f61cd5e043d16",
+    "3aa6735f9a4ca768",
+    "c48879b4649a8e2b"
+   ]
+  },
+  {
+   "date": "2011-01-01",
+   "future": false,
+   "celex": "02007R0509-20110101",
+   "acts": [
+    {
+     "id": "eu:celex:32009R1224:por",
+     "title": "REGULAMENTO (CE) N. o 1224/2009 do Conselho de 20 de Novembro de 2009",
+     "published": null,
+     "celex": "32009R1224"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 5.º — Limitação do esforço",
+    "Altera Artigo 13.º — Fundo Europeu das Pescas",
+    "Altera Artigo 14.º — Entrada em vigor",
+    "Altera Notas",
+    "Suprime CAPÍTULO IV",
+    "Suprime CONTROLO, INSPECÇÃO E VIGILÂNCIA",
+    "Suprime Artigo 6.º — Margem de tolerância",
+    "Suprime Artigo 7.º — Notificação prévia",
+    "Suprime Artigo 8.º — Estiva separada do linguado legítimo",
+    "Suprime Artigo 9.º — Transporte do linguado legítimo",
+    "Suprime Artigo 10.º — Programa de controlo específico"
+   ],
+   "fragments": [
+    "a8539c74e982ed82",
+    "226c39ffd0a88dad",
+    "95fd104f762bee8a",
+    "bd55dfc429daf25d",
+    "cdd0cdde175f23ba",
+    "f0f8c960bfdbce9b",
+    "31a08c7a79c0575b",
+    "7f01eb621d8fec8a",
+    "9ca67f8ea8092e24",
+    "1e7a0903d2eed348",
+    "817b587336d40f08",
+    "ca349fde23f0d047",
+    "40ed6b62e188ac6f",
+    "dde9cf53e9ae6c9a",
+    "74aa9852b25492ef",
+    "932ae647fa9ba8c3",
+    "9879a019b413c1e2",
+    "a5c9ebfea5ff4ef1",
+    "44e0c388a49fa96b"
+   ]
+  }
+ ],
+ "fragments": {
+  "0365801f33748967": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Maio de 2007\n\nque estabelece um plano plurianual para a exploração sustentável da população de linguado do canal da Mancha ocidental\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu [([^1])](http://publications.europa.eu/resource/cellar/98578ae6-e92e-4d5d-8d29-e64ff9403269.0018.02/DOC_1#ntr1-L_2007122PT.01000701-E0001),\n\nConsiderando o seguinte:\n\n(1) Um parecer científico recente, emitido pelo Conselho Internacional de Exploração do Mar (CIEM) indicou que os níveis de mortalidade por pesca das populações de linguado na divisão CIEM VIIe provocaram a erosão das quantidades de peixes adultos presentes no mar, a ponto de comprometer a reconstituição por reprodução das populações, que estão, por conseguinte, ameaçadas de ruptura.\n\n(2) É necessário adoptar medidas para estabelecer um plano plurianual para a gestão da população de linguado do canal da Mancha ocidental.\n\n(3) O objectivo do plano é garantir que a população de linguado do canal da Mancha ocidental seja explorada em condições sustentáveis a nível económico, ambiental e social.\n\n(4) O Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à utilização sustentável dos recursos haliêuticos no âmbito da política comum das pescas [([^2])](http://publications.europa.eu/resource/cellar/98578ae6-e92e-4d5d-8d29-e64ff9403269.0018.02/DOC_1#ntr2-L_2007122PT.01000701-E0002) prevê nomeadamente que, para alcançar esse objectivo, a Comunidade aplique a abordagem de precaução aquando da adopção de medidas destinadas a proteger e conservar as populações, a garantir a sua exploração sustentável e a minimizar o impacto das actividades de pesca nos ecossistemas marinhos. A Comunidade deve visar a aplicação progressiva de uma abordagem da gestão da pesca baseada nos ecossistemas e deve contribuir para a eficácia das actividades de pesca num sector de pescas economicamente viável e competitivo, que assegure um nível de vida adequado e atenda aos interesses dos consumidores.\n\n(5) Para atingir esse objectivo, é necessário que a população de linguado do canal da Mancha ocidental volte aos limites biológicos de segurança pela redução das taxas de mortalidade por pesca e seja gerida por forma a manter a capacidade reprodutora e proporcionar um rendimento elevado no longo prazo.\n\n(6) O Comité Científico, Técnico e Económico das Pescas emitiu um parecer segundo o qual a taxa de mortalidade por pesca de 0,27 é consentânea com um rendimento a longo prazo e um risco reduzido de empobrecimento das potencialidades reprodutoras da população.\n\n(7) O controlo das taxas de mortalidade por pesca pode ser obtido através de um método adequado de fixação do nível dos totais admissíveis de capturas (TAC) e de um sistema em cujo âmbito o esforço de pesca exercido relativamente a estas populações seja limitado a níveis que tornem improvável a superação dos TAC.\n\n(8) Para assegurar a observância das medidas estabelecidas no presente regulamento, são necessárias medidas de controlo suplementares às estabelecidas no Regulamento (CEE) n.º 2847/93 do Conselho, de 12 de Outubro de 1993, que institui um regime de controlo aplicável à política comum das pescas [([^3])](http://publications.europa.eu/resource/cellar/98578ae6-e92e-4d5d-8d29-e64ff9403269.0018.02/DOC_1#ntr3-L_2007122PT.01000701-E0003).\n\n(9) Durante a primeira fase, nos anos 2007, 2008 e 2009, o plano plurianual deve ser considerado um plano de recuperação e, subsequentemente, um plano de gestão, na acepção do artigos 5.º e 6.º do Regulamento (CE) n.º 2371/2002,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "95fd104f762bee8a": {
+   "fragment_id": "OBJECTO E OBJECTIVOS",
+   "type": "divisao",
+   "heading": "OBJECTO E OBJECTIVOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJECTO E OBJECTIVOS"
+  },
+  "bd55dfc429daf25d": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1. O presente regulamento estabelece um plano plurianual para a exploração sustentável da população de linguado que evolui no canal da Mancha ocidental (a seguir designado «linguado do canal da Mancha ocidental»).\n\n2. Para efeitos do presente regulamento, entende-se por «canal da Mancha ocidental» a zona do mar definida pelo Conselho Internacional de Exploração do Mar como divisão VIIe."
+  },
+  "cdd0cdde175f23ba": {
+   "fragment_id": "Artigo 2.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivo\n\n1. O plano plurianual assegura a exploração sustentável da população de linguado do canal da Mancha ocidental.\n\n2. Esse objectivo deve ser alcançado através da obtenção e manutenção da mortalidade por pesca a uma taxa de 0,27 em grupos de idade apropriados."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "31a08c7a79c0575b": {
+   "fragment_id": "TOTAIS ADMISSÍVEIS DE CAPTURAS",
+   "type": "divisao",
+   "heading": "TOTAIS ADMISSÍVEIS DE CAPTURAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TOTAIS ADMISSÍVEIS DE CAPTURAS"
+  },
+  "7f01eb621d8fec8a": {
+   "fragment_id": "Artigo 3.º — Processo de fixação dos totais admissíveis de capturas",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Processo de fixação dos totais admissíveis de capturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Processo de fixação dos totais admissíveis de capturas\n\n1. Para os anos de 2007, 2008 e 2009, o Conselho decide anualmente, por maioria qualificada, sob proposta da Comissão, os totais admissíveis de capturas (TAC) para o linguado do canal da Mancha ocidental a um nível de capturas que, de acordo com uma avaliação científica efectuada pelo Comité Científico, Técnico e Económico das Pescas (CCTEP), corresponda ao mais elevado dos seguintes:\n\na) O TAC de cuja aplicação resulte em 2007 uma redução de 20 % da taxa de mortalidade por pesca em relação à taxa média da mortalidade por pesca nos anos de 2003, 2004 e 2005 na estimativa mais recente da CCTEP;\n\nb) O TAC de cuja aplicação resulte a taxa de mortalidade por pesca especificada no n.º 2 do artigo 2.º\n\n2. Para os anos de 2010, 2011 e 2012, o Conselho decide anualmente, por maioria qualificada, sob proposta da Comissão, os TAC para o linguado do canal da Mancha ocidental a um nível de capturas que, de acordo com uma avaliação científica efectuada pelo CCTEP, corresponda ao mais elevado dos seguintes:\n\na) O TAC de cuja aplicação resulte uma redução de 15 % da taxa de mortalidade por pesca em 2010 em relação à média da mortalidade por pesca nos anos de 2007, 2008 e 2009 na estimativa mais recente da CCTEP;\n\nb) O TAC de cuja aplicação resulte a taxa de mortalidade por pesca especificada no n.º 2 do artigo 2.º\n\n3. Para 2013 e os anos seguintes, o Conselho decide anualmente, por maioria qualificada, sob proposta da Comissão, os TAC para o linguado do canal da Mancha ocidental a um nível de capturas que, de acordo com uma avaliação científica efectuada pelo CCTEP, resulte na taxa de mortalidade por pesca especificada no n.º 2 do artigo 2.º\n\n4. Não obstante o disposto no n.º 3, se o parecer do CCTEP for que a taxa de mortalidade por pesca especificada no n.º 2 do artigo 2.º não foi alcançada até 31 de Dezembro de 2012, é aplicável o n.º 2, *mutatis mutandis*, para 2013, 2014 e 2015, e é aplicável o n.º 3, *mutatis mutandis*, a partir de 2016."
+  },
+  "9ca67f8ea8092e24": {
+   "fragment_id": "Artigo 4.º — Limitações das variações dos TAC",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Limitações das variações dos TAC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Limitações das variações dos TAC\n\nA partir do primeiro ano de aplicação do presente regulamento, são aplicáveis as seguintes regras:\n\na) Sempre que da aplicação do artigo 3.º resulte um TAC superior em mais de 15 % ao do ano anterior, o Conselho adopta um TAC superior em não mais de 15 % ao TAC desse ano;\n\nb) Sempre que da aplicação do artigo 3.º resulte um TAC inferior em mais de 15 % ao TAC do ano anterior, o Conselho adopta um TAC inferior em não mais de 15 % ao TAC desse ano."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "817b587336d40f08": {
+   "fragment_id": "LIMITAÇÃO DO ESFORÇO DE PESCA",
+   "type": "divisao",
+   "heading": "LIMITAÇÃO DO ESFORÇO DE PESCA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LIMITAÇÃO DO ESFORÇO DE PESCA"
+  },
+  "fc81f91e43f7c54c": {
+   "fragment_id": "Artigo 5.º — Limitação do esforço",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Limitação do esforço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Limitação do esforço\n\n1. Aos TAC a que se refere o capítulo II é aplicado complementarmente um regime de limitação do esforço de pesca com base nas áreas geográficas e nos grupos de artes de pesca, assim como nas condições associadas para a utilização das possibilidades de pesca, especificados no anexo II-C do Regulamento (CE) n.º 41/2007 do Conselho, de 21 de Dezembro de 2006 que fixa, para 2007, em relação a determinadas populações de peixes ou grupos de populações de peixes, as possibilidades de pesca e as condições associadas aplicáveis nas águas comunitárias e, para os navios de pesca comunitários, nas águas em que são necessárias limitações das capturas [([^4])](http://publications.europa.eu/resource/cellar/98578ae6-e92e-4d5d-8d29-e64ff9403269.0018.02/DOC_1#ntr4-L_2007122PT.01000701-E0004).\n\n2. O Conselho decide por maioria qualificada, sob proposta da Comissão, o número máximo de dias no mar disponível para os navios presentes no canal da Mancha ocidental que calam redes de arrasto de vara de malhagem igual ou superior a 80 mm e para os navios presentes no canal da Mancha ocidental que calam redes fixas de malhagem igual ou superior a 220 mm.\n\n3. O número máximo de dias no mar a que se refere o n.º 2 é ajustado na mesma proporção que o ajustamento da mortalidade por pesca previsto no artigo 3.º\n\n4. Não obstante o disposto no n.º 3, o nível do esforço de pesca a fixar para cada um dos anos de 2008 e 2009 é mantido ao nível fixado para 2007."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "488b2de53d1f7555": {
+   "fragment_id": "CONTROLO, INSPECÇÃO E VIGILÂNCIA",
+   "type": "divisao",
+   "heading": "CONTROLO, INSPECÇÃO E VIGILÂNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONTROLO, INSPECÇÃO E VIGILÂNCIA"
+  },
+  "9473788ce903d3d8": {
+   "fragment_id": "Artigo 6.º — Margem de tolerância",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Margem de tolerância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Margem de tolerância\n\nEm derrogação do n.º 2 do artigo 5.º do Regulamento (CEE) n.º 2807/83 da Comissão, de 22 de Setembro de 1983, que define as regras especiais de registo das informações relativas à captura de peixes pelos Estados-Membros [([^5])](http://publications.europa.eu/resource/cellar/98578ae6-e92e-4d5d-8d29-e64ff9403269.0018.02/DOC_1#ntr5-L_2007122PT.01000701-E0005), a margem de tolerância autorizada no respeitante à estimativa das quantidades mantidas a bordo dos navios, expressas em quilogramas de peso vivo, de linguado do canal da Mancha ocidental, é de 8 % do valor inscrito no diário de bordo. Caso o direito comunitário não preveja qualquer factor de conversão, é aplicável o factor de conversão adoptado pelo Estado-Membro de pavilhão do navio."
+  },
+  "ffb074cee3f33e40": {
+   "fragment_id": "Artigo 7.º — Notificação prévia",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Notificação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Notificação prévia\n\nO capitão de um navio de pesca comunitário que tenha estado presente no canal da Mancha ocidental, ou o seu representante, que deseje transbordar qualquer quantidade de linguado mantido a bordo ou desembarcar qualquer quantidade de linguado num porto ou num local de desembarque de um país terceiro deve comunicar às autoridades competentes do Estado-Membro de pavilhão, pelo menos 24 horas antes do transbordo ou do desembarque no país terceiro, as seguintes informações:\n\na) O nome do porto ou local de desembarque;\n\nb) A hora prevista de chegada a esse porto ou local de desembarque;\n\nc) As quantidades, expressas em quilogramas de peso vivo, de cada espécie mantida a bordo em quantidades superiores a 50 kg."
+  },
+  "944c389ebd422af4": {
+   "fragment_id": "Artigo 8.º — Estiva separada do linguado legítimo",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Estiva separada do linguado legítimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Estiva separada do linguado legítimo\n\n1. É proibido manter a bordo de um navio de pesca comunitário, em qualquer contentor individual, qualquer quantidade de linguado legítimo misturada com quaisquer outras espécies de organismos marinhos.\n\n2. Os capitães dos navios de pesca comunitários devem prestar a assistência necessária aos inspectores dos Estados-Membros para permitir que as quantidades declaradas no diário de bordo e as capturas de linguado legítimo mantidas a bordo sejam objecto de controlos cruzados."
+  },
+  "373df0b8dd8435b5": {
+   "fragment_id": "Artigo 9.º — Transporte do linguado legítimo",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Transporte do linguado legítimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Transporte do linguado legítimo\n\n1. As autoridades competentes de um Estado-Membro podem exigir que qualquer quantidade de linguado legítimo superior a 300 kg capturada no canal da Mancha ocidental e desembarcada pela primeira vez nesse Estado-Membro seja pesada na presença de inspectores antes de ser transportada do porto de primeiro desembarque para outro local.\n\n2. Em derrogação do artigo 13.º do Regulamento (CEE) n.º 2847/93, as quantidades de linguado legítimo superiores a 300 kg que sejam transportadas para um local diferente do local do desembarque ou de importação devem ser acompanhadas de uma cópia de uma das declarações previstas no n.º 1 do artigo 8.º do Regulamento (CEE) n.º 2847/93 referente às quantidades de linguado transportadas. Não é aplicável a isenção prevista na alínea b) do n.º 4 do artigo 13.º do Regulamento (CEE) n.º 2847/93."
+  },
+  "589c51618eee891f": {
+   "fragment_id": "Artigo 10.º — Programa de controlo específico",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Programa de controlo específico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Programa de controlo específico\n\nEm derrogação do disposto no n.º 1 do artigo 34.º-C do Regulamento (CEE) n.º 2847/93, o programa de controlo específico para a população de linguado em causa pode durar mais de dois anos."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "74aa9852b25492ef": {
+   "fragment_id": "Artigo 11.º — Avaliação das medidas de gestão",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Avaliação das medidas de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Avaliação das medidas de gestão\n\nNo terceiro ano de aplicação do presente regulamento e seguidamente de três em três anos, a Comissão deve solicitar o parecer científico do CCTEP sobre o ritmo dos progressos registados tendo em vista a consecução dos objectivos do plano de gestão.\n\nSe for caso disso, a Comissão propõe as medidas pertinentes e o Conselho decide por maioria qualificada as medidas alternativas para a consecução do objectivo enunciado no artigo 2.º. Concretamente, o Conselho pode alterar a taxa de mortalidade por pesca especificada no n.º 2 do artigo 2.º por maioria qualificada, sob proposta da Comissão e após consulta do Parlamento Europeu."
+  },
+  "932ae647fa9ba8c3": {
+   "fragment_id": "Artigo 12.º — Circunstâncias especiais",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Circunstâncias especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Circunstâncias especiais\n\nCaso o CCTEP seja de opinião que a população reprodutora de linguado do canal da Mancha ocidental sofre de uma reduzida capacidade de reprodução, o Conselho decide por maioria qualificada, sob proposta da Comissão, fixar um TAC inferior ao previsto nos artigos 3.º e 4.º, e tomar medidas de controlo do esforço diferentes das previstas no artigo 5.º"
+  },
+  "a52f61cd5e043d16": {
+   "fragment_id": "Artigo 13.º — Fundo Europeu das Pescas",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Fundo Europeu das Pescas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Fundo Europeu das Pescas\n\nEm conformidade com o n.º 1 do artigo 3.º, o plano plurianual é considerado um plano de recuperação na acepção do artigo 5.º do Regulamento (CE) n.º 2371/2002 nos anos de 2007, 2008 e 2009 e para efeitos da subalínea i) da alínea a) do artigo 21.º do Regulamento (CE) n.º 1198/2006 do Conselho [([^6])](http://publications.europa.eu/resource/cellar/98578ae6-e92e-4d5d-8d29-e64ff9403269.0018.02/DOC_1#ntr6-L_2007122PT.01000701-E0006). Ulteriormente, o plano plurianual é considerado um plano de gestão na acepção do artigo 6.º do Regulamento (CE) n.º 2371/2002 e para efeitos da subalínea iv) da alínea a) do artigo 21.º do Regulamento (CE) n.º 1198/2006."
+  },
+  "3aa6735f9a4ca768": {
+   "fragment_id": "Artigo 14.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente regulamento entra em vigor vinte dias após a sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 7 de Maio de 2007.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**H. SEEHOFER**\n\n---"
+  },
+  "c48879b4649a8e2b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/98578ae6-e92e-4d5d-8d29-e64ff9403269.0018.02/DOC_1#ntc1-L_2007122PT.01000701-E0001) [JO C 33 E de 9.2.2006, p. 495](http://publications.europa.eu/resource/oj/JOC_2006_033_E_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/98578ae6-e92e-4d5d-8d29-e64ff9403269.0018.02/DOC_1#ntc2-L_2007122PT.01000701-E0002) [JO L 358 de 31.12.2002, p. 59](http://publications.europa.eu/resource/oj/JOL_2002_358_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/98578ae6-e92e-4d5d-8d29-e64ff9403269.0018.02/DOC_1#ntc3-L_2007122PT.01000701-E0003) [JO L 261 de 20.10.1993, p. 1](http://publications.europa.eu/resource/oj/JOL_1993_261_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1967/2006 ([JO L 409 de 30.12.2006, p. 11](http://publications.europa.eu/resource/oj/JOL_2006_409_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/98578ae6-e92e-4d5d-8d29-e64ff9403269.0018.02/DOC_1#ntc4-L_2007122PT.01000701-E0004) [JO L 15 de 20.1.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_015_R_TOC). Regulamento alterado pelo Regulamento (CE) n.º 444/2007 ([JO L 106 de 24.4.2007, p. 22](http://publications.europa.eu/resource/oj/JOL_2007_106_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/98578ae6-e92e-4d5d-8d29-e64ff9403269.0018.02/DOC_1#ntc5-L_2007122PT.01000701-E0005) [JO L 276 de 10.10.1983, p. 1](http://publications.europa.eu/resource/oj/JOL_1983_276_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1804/2005 ([JO L 290 de 4.11.2005, p. 10](http://publications.europa.eu/resource/oj/JOL_2005_290_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/98578ae6-e92e-4d5d-8d29-e64ff9403269.0018.02/DOC_1#ntc6-L_2007122PT.01000701-E0006) [JO L 223 de 15.8.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_223_R_TOC)."
+  },
+  "a8539c74e982ed82": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Maio de 2007\n\nque estabelece um plano plurianual para a exploração sustentável da população de linguado do canal da Mancha ocidental\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/d021cdcd-9f3b-47a7-89f4-c274b673721a.0018.03/DOC_1#E0001)),\n\n(1) Um parecer científico recente, emitido pelo Conselho Internacional de Exploração do Mar (CIEM) indicou que os níveis de mortalidade por pesca das populações de linguado na divisão CIEM VIIe provocaram a erosão das quantidades de peixes adultos presentes no mar, a ponto de comprometer a reconstituição por reprodução das populações, que estão, por conseguinte, ameaçadas de ruptura.\n\n(2) É necessário adoptar medidas para estabelecer um plano plurianual para a gestão da população de linguado do canal da Mancha ocidental.\n\n(3) O objectivo do plano é garantir que a população de linguado do canal da Mancha ocidental seja explorada em condições sustentáveis a nível económico, ambiental e social.\n\n(4) O Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à utilização sustentável dos recursos haliêuticos no âmbito da política comum das pescas ([^2^](http://publications.europa.eu/resource/cellar/d021cdcd-9f3b-47a7-89f4-c274b673721a.0018.03/DOC_1#E0002)) prevê nomeadamente que, para alcançar esse objectivo, a Comunidade aplique a abordagem de precaução aquando da adopção de medidas destinadas a proteger e conservar as populações, a garantir a sua exploração sustentável e a minimizar o impacto das actividades de pesca nos ecossistemas marinhos. A Comunidade deve visar a aplicação progressiva de uma abordagem da gestão da pesca baseada nos ecossistemas e deve contribuir para a eficácia das actividades de pesca num sector de pescas economicamente viável e competitivo, que assegure um nível de vida adequado e atenda aos interesses dos consumidores.\n\n(5) Para atingir esse objectivo, é necessário que a população de linguado do canal da Mancha ocidental volte aos limites biológicos de segurança pela redução das taxas de mortalidade por pesca e seja gerida por forma a manter a capacidade reprodutora e proporcionar um rendimento elevado no longo prazo.\n\n(6) O Comité Científico, Técnico e Económico das Pescas emitiu um parecer segundo o qual a taxa de mortalidade por pesca de 0,27 é consentânea com um rendimento a longo prazo e um risco reduzido de empobrecimento das potencialidades reprodutoras da população.\n\n(7) O controlo das taxas de mortalidade por pesca pode ser obtido através de um método adequado de fixação do nível dos totais admissíveis de capturas (TAC) e de um sistema em cujo âmbito o esforço de pesca exercido relativamente a estas populações seja limitado a níveis que tornem improvável a superação dos TAC.\n\n(8) Para assegurar a observância das medidas estabelecidas no presente regulamento, são necessárias medidas de controlo suplementares às estabelecidas no Regulamento (CEE) n.º 2847/93 do Conselho, de 12 de Outubro de 1993, que institui um regime de controlo aplicável à política comum das pescas ([^3^](http://publications.europa.eu/resource/cellar/d021cdcd-9f3b-47a7-89f4-c274b673721a.0018.03/DOC_1#E0003)).\n\n(9) Durante a primeira fase, nos anos 2007, 2008 e 2009, o plano plurianual deve ser considerado um plano de recuperação e, subsequentemente, um plano de gestão, na acepção do artigos 5.º e 6.º do Regulamento (CE) n.º 2371/2002,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "ca349fde23f0d047": {
+   "fragment_id": "Artigo 5.º — Limitação do esforço",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Limitação do esforço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Limitação do esforço\n\n1. Aos TAC a que se refere o capítulo II é aplicado complementarmente um regime de limitação do esforço de pesca com base nas áreas geográficas e nos grupos de artes de pesca, assim como nas condições associadas para a utilização das possibilidades de pesca, especificados no anexo II-C do Regulamento (CE) n.º 41/2007 do Conselho, de 21 de Dezembro de 2006 que fixa, para 2007, em relação a determinadas populações de peixes ou grupos de populações de peixes, as possibilidades de pesca e as condições associadas aplicáveis nas águas comunitárias e, para os navios de pesca comunitários, nas águas em que são necessárias limitações das capturas ([^4^](http://publications.europa.eu/resource/cellar/d021cdcd-9f3b-47a7-89f4-c274b673721a.0018.03/DOC_1#E0004)).\n\n2. O Conselho decide por maioria qualificada, sob proposta da Comissão, o número máximo de dias no mar disponível para os navios presentes no canal da Mancha ocidental que calam redes de arrasto de vara de malhagem igual ou superior a 80 mm e para os navios presentes no canal da Mancha ocidental que calam redes fixas de malhagem igual ou superior a 220 mm.\n\n3. O número máximo de dias no mar a que se refere o n.º 2 é ajustado na mesma proporção que o ajustamento da mortalidade por pesca previsto no artigo 3.º\n\n4. Não obstante o disposto no n.º 3, o nível do esforço de pesca a fixar para cada um dos anos de 2008 e 2009 é mantido ao nível fixado para 2007."
+  },
+  "9879a019b413c1e2": {
+   "fragment_id": "Artigo 13.º — Fundo Europeu das Pescas",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Fundo Europeu das Pescas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Fundo Europeu das Pescas\n\nEm conformidade com o n.º 1 do artigo 3.º, o plano plurianual é considerado um plano de recuperação na acepção do artigo 5.º do Regulamento (CE) n.º 2371/2002 nos anos de 2007, 2008 e 2009 e para efeitos da subalínea i) da alínea a) do artigo 21.º do Regulamento (CE) n.º 1198/2006 do Conselho ([^5^](http://publications.europa.eu/resource/cellar/d021cdcd-9f3b-47a7-89f4-c274b673721a.0018.03/DOC_1#E0006)). Ulteriormente, o plano plurianual é considerado um plano de gestão na acepção do artigo 6.º do Regulamento (CE) n.º 2371/2002 e para efeitos da subalínea iv) da alínea a) do artigo 21.º do Regulamento (CE) n.º 1198/2006."
+  },
+  "a5c9ebfea5ff4ef1": {
+   "fragment_id": "Artigo 14.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente regulamento entra em vigor vinte dias após a sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "44e0c388a49fa96b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/d021cdcd-9f3b-47a7-89f4-c274b673721a.0018.03/DOC_1#src.E0001)) JO C 33 E de 9.2.2006, p. 495.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/d021cdcd-9f3b-47a7-89f4-c274b673721a.0018.03/DOC_1#src.E0002)) JO L 358 de 31.12.2002, p. 59.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/d021cdcd-9f3b-47a7-89f4-c274b673721a.0018.03/DOC_1#src.E0003)) JO L 261 de 20.10.1993, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1967/2006 (JO L 409 de 30.12.2006, p. 11).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/d021cdcd-9f3b-47a7-89f4-c274b673721a.0018.03/DOC_1#src.E0004)) JO L 15 de 20.1.2007, p. 1. Regulamento alterado pelo Regulamento (CE) n.º 444/2007 (JO L 106 de 24.4.2007, p. 22).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/d021cdcd-9f3b-47a7-89f4-c274b673721a.0018.03/DOC_1#src.E0006)) JO L 223 de 15.8.2006, p. 1."
+  }
+ }
+}

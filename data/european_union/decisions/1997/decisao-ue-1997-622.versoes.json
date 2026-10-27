@@ -1,0 +1,225 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997D0622:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997D0622-20070307",
+ "dre_path": null,
+ "source_lastmod": "2007-03-07",
+ "versions": [
+  {
+   "date": "1997-09-19",
+   "future": false,
+   "celex": "31997D0622",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e25898fbd47c9d16",
+    "4900dbf0f049428c",
+    "800be1c61d9f4c3b",
+    "4184145a6db73dcd",
+    "78318a5ff40e05d6"
+   ]
+  },
+  {
+   "date": "2007-03-07",
+   "future": false,
+   "celex": "01997D0622-20070307",
+   "acts": [
+    {
+     "id": "eu:celex:32007D0151:por",
+     "title": "DECISÃO DA COMISSÃO de 6 de Março de 2007",
+     "published": null,
+     "celex": "32007D0151"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita ANEXO",
+    "Adita LISTA DOS QUESTIONÁRIOS",
+    "Adita QUESTIONÁRIO",
+    "Adita dirigido aos Estados-membros, sobre a transposição e aplicação da Directiva 91/689/CEE relativa aos resíduos perigosos, com a última redacção que lhe foi dada pela Directiva 94/31/CE",
+    "Adita I. TRANSPOSIÇÃO PARA O DIREITO NACIONAL",
+    "Adita II. APLICAÇÃO DA DIRECTIVA",
+    "Adita para o relatório a elaborar pelos Estados-membros sobre a transposição e aplicação da Directiva 94/62/EC relativa a embalagens e resíduos de embalagens",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime ANEXO — LISTA DOS QUESTIONÁRIOS"
+   ],
+   "fragments": [
+    "dfdc270dbd97d768",
+    "39b519d3cf218343",
+    "a6b121f3c56c1e9f",
+    "15c3de540891ecc3",
+    "10220b9774fa9034",
+    "4f538b2041b8913e",
+    "b332e70982af10b4",
+    "77d08bc343b9c874",
+    "47b0f52194ecb05b",
+    "59af4e814611059e",
+    "b332e70982af10b4",
+    "b7681cb9a9925f70",
+    "19c69ad802ea604a",
+    "15c2190b668a20ba",
+    "26861a229c2e3a4a"
+   ]
+  }
+ ],
+ "fragments": {
+  "e25898fbd47c9d16": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**97/622/CE: Decisão da Comissão de 27 de Maio de 1997 relativa aos questionários para os relatórios dos Estados-membros sobre a aplicação de determinadas directivas no sector dos resíduos (aplicação da Directiva 91/692/CEE do Conselho)** *Jornal Oficial nº L 256 de 19/09/1997 p. 0013 - 0019*\n\nDECISÃO DA COMISSÃO de 27 de Maio de 1997 relativa aos questionários para os relatórios dos Estados-membros sobre a aplicação de determinadas directivas no sector dos resíduos (aplicação da Directiva 91/692/CEE do Conselho) (97/622/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 91/692/CEE do Conselho, de 23 de Dezembro de 1991, relativa à normalização e à racionalização dos relatórios sobre a aplicação de determinadas directivas respeitantes ao ambiente (1), e, nomeadamente, os seus artigos 5º e 6º e o seu anexo VI,\n\nTendo em conta a Directiva 75/442/CEE do Conselho, de 15 de Julho de 1975, relativa aos resíduos (2), com a última redacção que lhe foi dada pela Decisão 96/350/CE da Comissão (3),\n\nTendo em conta a Directiva 91/689/CEE do Conselho, de 12 de Dezembro de 1991, relativa aos resíduos perigosos (4), com a última redacção que lhe foi dada pela Directiva 94/31/CE (5),\n\nTendo em conta a Directiva 94/62/CE do Parlamento Europeu e do Conselho, de 20 de Dezembro de 1994, relativa a embalagens e resíduos de embalagens (6),\n\nConsiderando que o nº 1 do artigo 8º da Directiva 91/689/CEE estabelece que os Estados-membros devem enviar à Comissão informações relativas à aplicação dessa directiva no quadro do relatório previsto no nº 1 do artigo 16º da Directiva 75/442/CEE;\n\nConsiderando que o artigo 17º da Directiva 94/62/CE estabelece que os Estados-membros devem transmitir à Comissão informações relativas à aplicação dessa directiva em conformidade com o artigo 5º da Directiva 91/692/CEE;\n\nConsiderando que o artigo 16º da Directiva 75/442/CEE foi substituído pelo artigo 5º da Directiva 91/692/CEE que estabelece que os Estados-membros devem transmitir à Comissão informações relativas à aplicação de determinadas directivas comunitárias sob a forma de um relatório sectorial;\n\nConsiderando que esse relatório deve ser estabelecido com base num questionário ou num esquema elaborado pela Comissão de acordo com o procedimento previsto no artigo 6º da Directiva 91/692/CEE;\n\nConsiderando que o primeiro relatório sectorial abrangerá o período de 1998 a 2000 inclusive;\n\nConsiderando que as medidas previstas na presente decisão estão em conformidade com o parecer do Comité instituído em conformidade com o artigo 6º da supramencionada directiva,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "4900dbf0f049428c": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nOs questionários em anexo à presente decisão, relativos à Directiva 91/689/CEE e à Directiva 94/62/CE, são adoptados."
+  },
+  "800be1c61d9f4c3b": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nOs Estados-membros utilizarão esses questionários como base para a elaboração dos relatórios sectoriais que são obrigados a enviar à comissão em aplicação do artigo 5º da Directiva 91/692/CEE e do artigo 17º da Directiva 94/62/CE."
+  },
+  "4184145a6db73dcd": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nOs Estados-membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 27 de Maio de 1997.\n\nPela Comissão\n\nRitt BJERREGAARD\n\nMembro da Comissão\n\n(1) JO L 377 de 31. 12. 1991, p. 48.\n\n(2) JO L 194 de 25. 7. 1975, p. 39.\n\n(3) JO L 135 de 6. 6. 1996, p. 32.\n\n(4) JO L 377 de 31. 12. 1991, p. 20.\n\n(5) JO L 168 de 2. 7. 1994, p. 28.\n\n(6) JO L 365 de 31. 12. 1994, p. 10."
+  },
+  "78318a5ff40e05d6": {
+   "fragment_id": "ANEXO — LISTA DOS QUESTIONÁRIOS",
+   "type": "divisao",
+   "heading": "ANEXO — LISTA DOS QUESTIONÁRIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — LISTA DOS QUESTIONÁRIOS\n\n1. Questionário relativo à Directiva 91/689/CEE do Conselho, de 12 de Dezembro de 1991, relativa aos resíduos perigosos (1), com a última redacção que lhe foi dada pela Directiva 94/31/CE (2).\n\n2. Questionário relativo à Directiva 94/62/CE do Parlamento Europeu e do Conselho, de 20 de Dezembro de 1994, relativa às embalagens e resíduos de embalagens (3).\n\nQUESTIONÁRIO\n\ndirigido aos Estados-membros, sobre a transposição e aplicação da Directiva 91/689/CEE relativa aos resíduos perigosos, com a última redacção que lhe foi dada pela Directiva 94/31/CE\n\n>INÍCIO DE GRÁFICO>\n\nNão é necessário repetir informações já fornecidas, devendo contudo, indicar-se claramente quando e por que via tal facto se verificou.\n\nI. TRANSPOSIÇÃO PARA O DIREITO NACIONAL\n\n1. a) Foram comunicadas à Comissão as disposições legislativas e regulamentares de direito nacional que transpõem a Directiva 91/689/CEE, com a última redacção que lhe foi dada?\n\n(Sim/Não)\n\nb) Em caso negativo, referir os motivos.\n\n2. a) Foram comunicadas à Comissão as disposições legislativas e regulamentares de direito nacional que aplicam a Decisão 94/904/CE do Conselho que estabelece uma lista de resíduos perigosos em aplicação do nº 4 do artigo 1º da Directiva 91/689/CEE?\n\n(Sim/Não)\n\nb) Em caso negativo, referir os motivos.\n\nII. APLICAÇÃO DA DIRECTIVA\n\n3. a) Foram atribuídas a alguns resíduos não abrangidos pela Decisão 94/904/CE propriedades do tipo referido no anexo III da Directiva 91/686/CEE?\n\n(Sim/Não)\n\nb) Em caso afirmativo, tal facto foi notificado à Comissão?\n\n(Sim/Não)\n\nc) Em caso negativo, referir os motivos.\n\n4. a) Foram adoptadas medidas tendo em vista a distinção entre resíduos domésticos perigosos e resíduos não domésticos perigosos?\n\n(Sim/Não)\n\nb) Em caso afirmativo, fornecer pormenores.\n\n5. a) Foram adoptadas as medidas necessárias, em conformidade com o nº 1 do artigo 2º?\n\n(Sim/Não)\n\nb) Em caso afirmativo, fornecer pormenores.\n\nc) Em caso negativo, referir os motivos.\n\n6. a) Foram adoptadas as medidas necessárias, em conformidade com os nºs2 a 4 do artigo 2º?\n\n(Sim/Não)\n\nb) Em caso afirmativo, fornecer pormenores.\n\nc) Em caso negativo, referir os motivos.\n\n7. a) Foram adoptadas regras gerais para a concessão de derrogações, em conformidade com o nº 2 do artigo 3º?\n\n(Sim/Não)\n\nb) Em caso afirmativo, fornecer pormenores.\n\nc) Em caso afirmativo, se as regras referidas no nº 2 do artigo 3º não tiverem sido comunicadas à Comissão, referir os motivos.\n\n8. a) As autoridades competentes efectuam inspecções periódicas aos produtores de resíduos perigosos, em conformidade com o nº 1 do artigo 4º?\n\n(Sim/Não)\n\nb) Em caso afirmativo, fornecer pormenores relativos à respectiva frequência.\n\n9. a) Os estabelecimentos e empresas produtores de resíduos perigosos referidos no nº 2 do artigo 4º são obrigados a manter registos em conformidade com o artigo 14º da Directiva 75/442/CEE?\n\n(Sim/Não)\n\nb) Em caso afirmativo, fornecer pormenores incluindo detalhes de qualquer formulário normalizado em uso.\n\n10. a) Foram adoptadas as medidas necessárias, em conformidade com o nº 1 do artigo 5º?\n\n(Sim/Não)\n\nb) Em caso afirmativo, fornecer pormenores.\n\nc) Em caso negativo, referir os motivos.\n\n11. a) Foram elaborados planos para a gestão dos resíduos, em conformidade com o artigo 6º?\n\n(Sim/Não)\n\nb) Em caso negativo, referir os motivos.\n\nc) Em caso afirmativo, indicar se os referidos planos foram elaborados separadamente ou no âmbito dos planos globais de gestão de resíduos referidos no artigo 7º da Directiva 75/442/CEE.\n\nd) Caso os planos de gestão dos resíduos tenham sido elaborados independentemente do plano global de gestão de resíduos referido no artigo 7º da Directiva 75/442/CEE, fornecer, sempre que possível, as seguintes informações, indicando se qualquer dos valores apresentados constitui uma estimativa:\n\n(toneladas/ano)\n\nResíduos perigosos\n\nResíduos totais produzidos, dos quais:\n\n- reciclados (1):\n\n- incinerados (1):\n\n- incinerados com recuperação de energia (1):\n\n- depositados em aterro (1):\n\n- outras formas de tratamento (especificar) (1):\n\n- reciclados (2):\n\n- incinerados (2):\n\n- incinerados com recuperação de energia (2):\n\n- depositados em aterro (2):\n\n- outras formas de tratamento (especificar) (2):\n\n(1) No Estado-membro em causa.\n\n(2) Noutro Estado-membro.\n\ne) Caso a resposta à questão a) supra tenha sido positiva, os planos de gestão dos resíduos foram tornados públicos?\n\n(Sim/Não)\n\nf) Caso a resposta à questão anterior tenha sido negativa, referir os motivos.\n\n12. a) Verificaram-se circunstâncias que tenham levado à adopção de medidas adequadas, nomeadamente derrogações temporárias ao disposto na Directiva 91/689/CEE, em conformidade com o artigo 7º?\n\n(Sim/Não)\n\nb) Em caso afirmativo, se a Comissão não tiver sido informada do facto, referir os motivos.\n\n>FIM DE GRÁFICO>\n\nQUESTIONÁRIO\n\npara o relatório a elaborar pelos Estados-membros sobre a transposição e aplicação da Directiva 94/62/EC relativa a embalagens e resíduos de embalagens\n\n>INÍCIO DE GRÁFICO>\n\nNão é necessário repetir informações já fornecidas, devendo contudo, indicar-se claramente quando e por que via tal facto se verificou.\n\nI. TRANSPOSIÇÃO PARA O DIREITO NACIONAL\n\n1. a) As disposições legislativas, regulamentares e administrativas adoptadas para dar cumprimento à directiva já foram notificadas à Comissão?\n\n(Sim/Não)\n\nb) Em caso negativo, indique as razões.\n\n2. a) Há intenção de tomar medidas para além das detalhadas no âmbito da presente directiva e que devam ser sujeitas a comunicação nos termos de artigo 16º?\n\n(Sim/Não)\n\nb) Em caso afirmativo, indique se essas medidas foram comunicadas à Comissão nos termos do artigo 16º\n\n(Sim/Não)\n\nc) Em caso negativo, indique as razões.\n\n3. a) No caso de terem sido adoptados programas cujos objectivos ultrapassam os objectivos fixados no nº 1, alíneas a) e b), do artigo 6º indique se esses objectivos foram comunicados à Comissão nos termos do nº 6 do artigo 6º?\n\n(Sim/Não)\n\nb) Em caso negativo, indique as razões.\n\nII. APLICAÇÃO DA DIRECTIVA\n\n1. a) Foram tomadas medidas para prevenir a formação de resíduos de embalagens nos termos do artigo 4º, para além daquelas tomadas em conformidade com o artigo 9º?\n\n(Sim/Não)\n\nb) Em caso negativo, indique as razões.\n\nc) Indique as medidas que foram tomadas em consulta com operadores económicos.\n\n2. a) Foram tomadas medidas de incentivo ao uso de sistemas de reutilização nos termos do artigo 5º?\n\n(Sim/Não)\n\nb) Em caso afirmativo, indique essas medidas.\n\n3 a) Foram tomadas, nos termos de artigo 7º, as medidas necessárias para assegurar a criação de sistemas de recuperação e/ou recolha das embalagens usadas e/ou dos resíduos de embalagens provenientes do consumidor, assim como de sistemas de reutilização ou valorização incluindo a reciclagem das embalagens e/ou dos resíduos de embalagens recolhidos?\n\n(Sim/Não)\n\nb) Em caso negativo, indique as razões.\n\nc) Especifique as medidas tomadas e os sistemas que foram implantados.\n\n4. Com vista ao cumprimento dos objectivos de valorização e reciclagem referidos no artigo 6º, anexe os questionários, adoptados nos termos do nº 3 do artigo 12º, devidamente preenchidos. Indique o método utilizado na obtenção dos dados.\n\n5. a) Nos termos do nº 2 do artigo 6º foi incentivado o uso de materiais provenientes de resíduos de embalagens reciclados para o fabrico de embalagens e outros produtos?\n\n(Sim/Não)\n\nb) Em caso afirmativo, especifique as acções tomadas.\n\n6. Nos termos do nº 4 do artigo 6º indique como foram publicadas as medidas e objectivos referidos no nº 1, alíneas a) e b) do artigo 6º Descreva a campanha de informação destinada ao grande público e aos operadores económicos.\n\n7. Que medidas foram tomadas para assegurar que todos os utilizadores de embalagens, em especial os consumidores, disponham das informações referidas no artigo 13º?\n\n8. a) Existem normas nacionais que assegurem o cumprimento dos requisitos essenciais e os níveis de concentrações de metais pesados nas embalagens nos termos dos artigos 9º e 11º, respectivamente?\n\n(Sim/Não)\n\nb) Em caso afirmativo, foi informada a Comissão?\n\n(Sim/Não)\n\nc) Em caso negativo em relação à alínea b), indique as razões.\n\n9. a) Os planos de gestão de resíduos exigidos no artigo 7º da Directiva 75/442/CEE incluem um capítulo específico sobre gestão de embalagens e resíduos de embalagens nos termos do artigo 14º da Directiva 94/62/CE?\n\n(Sim/Não)\n\nb) Em caso negativo, indique as razões.\n\n10. a) Nos termos do artigo 15º foram adoptados instrumentos económicos destinados a promover o cumprimento dos objectivos da presente directiva?\n\n(Sim/Não)\n\nb) Em caso afirmativo, especifique as medidas adoptadas.\n\n>FIM DE GRÁFICO>\n\n(1) JO L 377 de 31. 12. 1991, p. 20.\n\n(2) JO L 168 de 2. 7. 1994, p. 28.\n\n(3) JO L 365 de 31. 12. 1994, p. 10."
+  },
+  "dfdc270dbd97d768": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Maio de 1997\n\nrelativa aos questionários para os relatórios dos Estados-membros sobre a aplicação de determinadas directivas no sector dos resíduos (aplicação da Directiva 91/692/CEE do Conselho)\n\n(97/622/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 91/692/CEE do Conselho, de 23 de Dezembro de 1991, relativa à normalização e à racionalização dos relatórios sobre a aplicação de determinadas directivas respeitantes ao ambiente ([^1^](http://publications.europa.eu/resource/cellar/8a1f45b3-8a89-484c-88c1-20f8c38f4811.0018.03/DOC_1#E0001)), e, nomeadamente, os seus artigos 5.º e 6.º e o seu anexo VI,\n\nTendo em conta a Directiva 75/442/CEE do Conselho, de 15 de Julho de 1975, relativa aos resíduos ([^2^](http://publications.europa.eu/resource/cellar/8a1f45b3-8a89-484c-88c1-20f8c38f4811.0018.03/DOC_1#E0002)), com a última redacção que lhe foi dada pela Decisão 96/350/CE da Comissão ([^3^](http://publications.europa.eu/resource/cellar/8a1f45b3-8a89-484c-88c1-20f8c38f4811.0018.03/DOC_1#E0003)),\n\nTendo em conta a Directiva 91/689/CEE do Conselho, de 12 de Dezembro de 1991, relativa aos resíduos perigosos ([^4^](http://publications.europa.eu/resource/cellar/8a1f45b3-8a89-484c-88c1-20f8c38f4811.0018.03/DOC_1#E0004)), com a última redacção que lhe foi dada pela Directiva 94/31/CE ([^5^](http://publications.europa.eu/resource/cellar/8a1f45b3-8a89-484c-88c1-20f8c38f4811.0018.03/DOC_1#E0005)),\n\nTendo em conta a Directiva 94/62/CE do Parlamento Europeu e do Conselho, de 20 de Dezembro de 1994, relativa a embalagens e resíduos de embalagens ([^6^](http://publications.europa.eu/resource/cellar/8a1f45b3-8a89-484c-88c1-20f8c38f4811.0018.03/DOC_1#E0006)),\n\nConsiderando que o n.º 1 do artigo 8.º da Directiva 91/689/CEE estabelece que os Estados-membros devem enviar à Comissão informações relativas à aplicação dessa directiva no quadro do relatório previsto no n.º 1 do artigo 16.º da Directiva 75/442/CEE;\n\nConsiderando que o artigo 17.º da Directiva 94/62/CE estabelece que os Estados-membros devem transmitir à Comissão informações relativas à aplicação dessa directiva em conformidade com o artigo 5.º da Directiva 91/692/ /CEE;\n\nConsiderando que o artigo 16.º da Directiva 75/442/CEE foi substituído pelo artigo 5.º da Directiva 91/692/CEE que estabelece que os Estados-membros devem transmitir à Comissão informações relativas à aplicação de determinadas directivas comunitárias sob a forma de um relatório sectorial;\n\nConsiderando que esse relatório deve ser estabelecido com base num questionário ou num esquema elaborado pela Comissão de acordo com o procedimento previsto no artigo 6.º da Directiva 91/692/CEE;\n\nConsiderando que o primeiro relatório sectorial abrangerá o período de 1998 a 2000 inclusive;\n\nConsiderando que as medidas previstas na presente decisão estão em conformidade com o parecer do Comité instituído em conformidade com o artigo 6.º da supramencionada directiva,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "39b519d3cf218343": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs questionários em anexo à presente decisão, relativos à Directiva 91/689/CEE e à Directiva 94/62/CE, são adoptados."
+  },
+  "a6b121f3c56c1e9f": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-membros utilizarão esses questionários como base para a elaboração dos relatórios sectoriais que são obrigados a enviar à comissão em aplicação do artigo 5.º da Directiva 91/692/CEE e do artigo 17.º da Directiva 94/62/CE."
+  },
+  "15c3de540891ecc3": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-membros são os destinatários da presente decisão."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "4f538b2041b8913e": {
+   "fragment_id": "LISTA DOS QUESTIONÁRIOS",
+   "type": "divisao",
+   "heading": "LISTA DOS QUESTIONÁRIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LISTA DOS QUESTIONÁRIOS\n\n1. Questionário relativo à Directiva 91/689/CEE do Conselho, de 12 de Dezembro de 1991, relativa aos resíduos perigosos ([^7^](http://publications.europa.eu/resource/cellar/8a1f45b3-8a89-484c-88c1-20f8c38f4811.0018.03/DOC_1#E0007)), com a última redacção que lhe foi dada pela Directiva 94/31 /CE ([^8^](http://publications.europa.eu/resource/cellar/8a1f45b3-8a89-484c-88c1-20f8c38f4811.0018.03/DOC_1#E0008)).\n\n2. Questionário relativo à Directiva 94/62/CE do Parlamento Europeu e do Conselho, de 20 de Dezembro de 1994, relativa às embalagens e resíduos de embalagens ([^9^](http://publications.europa.eu/resource/cellar/8a1f45b3-8a89-484c-88c1-20f8c38f4811.0018.03/DOC_1#E0009))."
+  },
+  "b332e70982af10b4": {
+   "fragment_id": "QUESTIONÁRIO",
+   "type": "divisao",
+   "heading": "QUESTIONÁRIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### QUESTIONÁRIO"
+  },
+  "77d08bc343b9c874": {
+   "fragment_id": "dirigido aos Estados-membros, sobre a transposição e aplicação da Directiva 91/689/CEE relativa aos resíduos perigosos, com a última redacção que lhe foi dada pela Directiva 94/31/CE",
+   "type": "divisao",
+   "heading": "dirigido aos Estados-membros, sobre a transposição e aplicação da Directiva 91/689/CEE relativa aos resíduos perigosos, com a última redacção que lhe foi dada pela Directiva 94/31/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### dirigido aos Estados-membros, sobre a transposição e aplicação da Directiva 91/689/CEE relativa aos resíduos perigosos, com a última redacção que lhe foi dada pela Directiva 94/31/CE\n\n***Não é necessário repetir informações já fornecidas, devendo contudo, indicar-se claramente quando e por que via tal facto se verificou.***"
+  },
+  "47b0f52194ecb05b": {
+   "fragment_id": "I. TRANSPOSIÇÃO PARA O DIREITO NACIONAL",
+   "type": "divisao",
+   "heading": "I. TRANSPOSIÇÃO PARA O DIREITO NACIONAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. TRANSPOSIÇÃO PARA O DIREITO NACIONAL\n\na) Foram comunicadas à Comissão as disposições legislativas e regulamentares de direito nacional que transpõem a Directiva 91/689/CEE, com a última redacção que lhe foi dada?\n\nb) Em caso negativo, referir os motivos.\n\na) Foram comunicadas à Comissão as disposições legislativas e regulamentares de direito nacional que aplicam a Decisão 94/904/CE do Conselho que estabelece uma lista de resíduos perigosos em aplicação do n.º 4 do artigo 1.º da Directiva 91/689/CEE?\n\nb) Em caso negativo, referir os motivos."
+  },
+  "59af4e814611059e": {
+   "fragment_id": "II. APLICAÇÃO DA DIRECTIVA",
+   "type": "divisao",
+   "heading": "II. APLICAÇÃO DA DIRECTIVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. APLICAÇÃO DA DIRECTIVA\n\na) Foram atribuídas a alguns resíduos não abrangidos pela Decisão 94/904/CE propriedades do tipo referido no anexo III da Directiva 91/686/CEE?\n\nb) Em caso afirmativo, tal facto foi notificado à Comissão?\n\nc) Em caso negativo, referir os motivos.\n\na) Foram adoptadas medidas tendo em vista a distinção entre resíduos domésticos perigosos e resíduos não domésticos perigosos?\n\nb) Em caso afirmativo, fornecer pormenores.\n\na) Foram adoptadas as medidas necessárias, em conformidade com o n.º 1 do artigo 2.º?\n\nb) Em caso afirmativo, fornecer pormenores.\n\nc) Em caso negativo, referir os motivos.\n\na) Foram adoptadas as medidas necessárias, em conformidade com os n.^os^ 2 a 4 do artigo 2.º?\n\nb) Em caso afirmativo, fornecer pormenores.\n\nc) Em caso negativo, referir os motivos.\n\na) Foram adoptadas regras gerais para a concessão de derrogações, em conformidade com o n.º 2 do artigo 3.º?\n\nb) Em caso afirmativo, fornecer pormenores.\n\nc) Em caso afirmativo, se as regras referidas no n.º 2 do artigo 3.º não tiverem sido comunicadas à Comissão, referir os motivos.\n\na) As autoridades competentes efectuam inspecções periódicas aos produtores de resíduos perigosos, em conformidade com o n.º 1 do artigo 4.º?\n\nb) Em caso afirmativo, fornecer pormenores relativos à respectiva frequência.\n\na) Os estabelecimentos e empresas produtores de resíduos perigosos referidos no n.º 2 do artigo 4.º são obrigados a manter registos em conformidade com o artigo 14.º da Directiva 75/442/CEE?\n\nb) Em caso afirmativo, fornecer pormenores incluindo detalhes de qualquer formulário normalizado em uso.\n\na) Foram adoptadas as medidas necessárias, em conformidade com o n.º 1 do artigo 5.º?\n\nb) Em caso afirmativo, fornecer pormenores.\n\nc) Em caso negativo, referir os motivos.\n\na) Foram elaborados planos para a gestão dos resíduos, em conformidade com o artigo 6.º?\n\nb) Em caso negativo, referir os motivos.\n\nc) Em caso afirmativo, indicar se os referidos planos foram elaborados separadamente ou no âmbito dos planos globais de gestão de resíduos referidos no artigo 7.º da Directiva 75/442/CEE.\n\ne) Caso a resposta à questão a) *supra* tenha sido positiva, os planos de gestão dos resíduos foram tornados públicos?\n\nf) Caso a resposta à questão anterior tenha sido negativa, referir os motivos.\n\na) Verificaram-se circunstâncias que tenham levado à adopção de medidas adequadas, nomeadamente derrogações temporárias ao disposto na Directiva 91/689/CEE, em conformidade com o artigo 7.º?\n\nb) Em caso afirmativo, se a Comissão não tiver sido informada do facto, referir os motivos."
+  },
+  "b7681cb9a9925f70": {
+   "fragment_id": "para o relatório a elaborar pelos Estados-membros sobre a transposição e aplicação da Directiva 94/62/EC relativa a embalagens e resíduos de embalagens",
+   "type": "divisao",
+   "heading": "para o relatório a elaborar pelos Estados-membros sobre a transposição e aplicação da Directiva 94/62/EC relativa a embalagens e resíduos de embalagens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### para o relatório a elaborar pelos Estados-membros sobre a transposição e aplicação da Directiva 94/62/EC relativa a embalagens e resíduos de embalagens\n\n***Não é necessário repetir informações Já fornecidas, devendo contudo, indicar-se claramente quando e por que via tal facto se verificou.***"
+  },
+  "19c69ad802ea604a": {
+   "fragment_id": "I. TRANSPOSIÇÃO PARA O DIREITO NACIONAL",
+   "type": "divisao",
+   "heading": "I. TRANSPOSIÇÃO PARA O DIREITO NACIONAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. TRANSPOSIÇÃO PARA O DIREITO NACIONAL\n\na) As disposições legislativas, regulamentares e administrativas adoptadas para dar cumprimento à directiva já foram notificadas à Comissão?\n\nb) Em caso negativo, indique as razões.\n\na) Há intenção de tomar medidas para além das detalhadas no âmbito da presente directiva e que devam ser sujeitas a comunicação nos termos de artigo 16.º?\n\nb) Em caso afirmativo, indique se essas medidas foram comunicadas à Comissão nos termos do artigo 16.º\n\nc) Em caso negativo, indique as razões.\n\na) No caso de terem sido adoptados programas cujos objectivos ultrapassam os objectivos fixados no n.º 1, alíneas a) e b), do artigo 6.º indique se esses objectivos foram comunicados à Comissão nos termos do n.º 6 do artigo 6.º?\n\nb) Em caso negativo, indique as razões."
+  },
+  "15c2190b668a20ba": {
+   "fragment_id": "II. APLICAÇÃO DA DIRECTIVA",
+   "type": "divisao",
+   "heading": "II. APLICAÇÃO DA DIRECTIVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. APLICAÇÃO DA DIRECTIVA\n\na) Foram tomadas medidas para prevenir a formação de resíduos de embalagens nos termos do artigo 4.º, para além daquelas tomadas em conformidade com o artigo 9.º?\n\nb) Em caso negativo, indique as razões.\n\nc) Indique as medidas que foram tomadas em consulta com operadores económicos.\n\na) Foram tomadas medidas de incentivo ao uso de sistemas de reutilização nos termos do artigo 5.º?\n\nb) Em caso afirmativo, indique essas medidas.\n\na) Foram tomadas, nos termos de artigo 7.º, as medidas necessárias para assegurar a criação de sistemas de recuperação e/ou recolha das embalagens usadas e/ou dos resíduos de embalagens provenientes do consumidor, assim como de sistemas de reutilização ou valorização incluindo a reciclagem das embalagens e/ou dos resíduos de embalagens recolhidos?\n\nb) Em caso negativo, indique as razões.\n\nc) Especifique as medidas tomadas e os sistemas que foram implantados.\n\n4. Com vista ao cumprimento dos objectivos de valorização e reciclagem referidos no artigo 6.º, anexe os questionários, adoptados nos termos do n.º 3 do artigo 12.º, devidamente preenchidos. Indique o método utilizado na obtenção dos dados.\n\na) Nos termos do n.º 2 do artigo 6.º foi incentivado o uso de materiais provenientes de resíduos de embalagens reciclados para o fabrico de embalagens e outros produtos?\n\nb) Em caso afirmativo, especifique as acções tomadas.\n\n6. Nos termos do n.º 4 do artigo 6.º indique como foram publicadas as medidas e objectivos referidos no n.º 1, alíneas a) e b) do artigo 6.º Descreva a campanha de informação destinada ao grande público e aos operadores económicos.\n\n7. Que medidas foram tomadas para assegurar que todos os utilizadores de embalagens, em especial os consumidores, disponham das informações referidas no artigo 13.º?\n\na) Existem normas nacionais que assegurem o cumprimento dos requisitos essenciais e os níveis de concentra- ções de metais pesados nas embalagens nos termos dos artigos 9.º e 11.º, respectivamente?\n\nb) Em caso afirmativo, foi informada a Comissão?\n\nc) Em caso negativo em relação à alínea b), indique as razões.\n\na) Os planos de gestão de resíduos exigidos no artigo 7.º da Directiva 75/442/CEE incluem um capítulo especí- fico sobre gestão de embalagens e resíduos de embalagens nos termos do artigo 14.º da Directiva 94/62/CE?\n\nb) Em caso negativo, indique as razões.\n\na) Nos termos do artigo 15.º foram adoptados instrumentos económicos destinados a promover o cumprimento dos objectivos da presente directiva?\n\nb) Em caso afirmativo, especifique as medidas adoptadas.\n\n---"
+  },
+  "26861a229c2e3a4a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/8a1f45b3-8a89-484c-88c1-20f8c38f4811.0018.03/DOC_1#src.E0001)) JO L 377 de 31.12.1991, p. 48.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/8a1f45b3-8a89-484c-88c1-20f8c38f4811.0018.03/DOC_1#src.E0002)) JO L 194 de 25.7.1975, p. 39.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/8a1f45b3-8a89-484c-88c1-20f8c38f4811.0018.03/DOC_1#src.E0003)) JO L 135 de 6.6.1996, p. 32.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/8a1f45b3-8a89-484c-88c1-20f8c38f4811.0018.03/DOC_1#src.E0004)) JO L 377 de 31.12.1991, p. 20.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/8a1f45b3-8a89-484c-88c1-20f8c38f4811.0018.03/DOC_1#src.E0005)) JO L 168 de 2.7.1994, p. 28.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/8a1f45b3-8a89-484c-88c1-20f8c38f4811.0018.03/DOC_1#src.E0006)) JO L 365 de 31.12.1994, p. 10.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/8a1f45b3-8a89-484c-88c1-20f8c38f4811.0018.03/DOC_1#src.E0007)) JO L 377 de 31.12.1991, p. 20.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/8a1f45b3-8a89-484c-88c1-20f8c38f4811.0018.03/DOC_1#src.E0008)) JO L 168 de 2.7.1994, p. 28.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/8a1f45b3-8a89-484c-88c1-20f8c38f4811.0018.03/DOC_1#src.E0009)) JO L 365 de 31.12.1994, p. 10."
+  }
+ }
+}

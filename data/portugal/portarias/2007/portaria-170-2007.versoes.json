@@ -1,0 +1,286 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:518182:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-887094258",
+ "dre_path": "/dr/detalhe/portaria/170-2007-518182",
+ "source_lastmod": "2024-09-06",
+ "versions": [
+  {
+   "date": "2007-02-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "887091257",
+    "887091258",
+    "887091259",
+    "887091260",
+    "887091261",
+    "887091262",
+    "887091263",
+    "887091264",
+    "887091265",
+    "887091266",
+    "887091267",
+    "887091268",
+    "887091269",
+    "887091270",
+    "887091271",
+    "887091272",
+    "887091273"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:520210:por",
+     "title": "Declaração de Rectificação n.º 23/2007",
+     "published": "2007-04-02",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/23-2007-520210",
+     "date": "2007-02-11"
+    }
+   ]
+  },
+  {
+   "date": "2009-03-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:605533:por",
+     "title": "Portaria n.º 286/2009",
+     "published": "2009-03-20",
+     "dre_path": "/dr/detalhe/portaria/286-2009-605533"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 11.º"
+   ],
+   "fragments": [
+    "887091257",
+    "887091258",
+    "887178100",
+    "887178101",
+    "887091261",
+    "887091262",
+    "887178102",
+    "887091264",
+    "887091265",
+    "887423296",
+    "887091267",
+    "887423297",
+    "887091269",
+    "887091270",
+    "887091271",
+    "887091272",
+    "887423295",
+    "887091274"
+   ]
+  }
+ ],
+ "fragments": {
+  "887091257": {
+   "fragment_id": "887094259",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 170/2007\n\nde 6 de Fevereiro\n\nAtravés do Decreto-Lei n.º 20/2007, de 23 de Janeiro, no âmbito do Programa Simplex, foi transferido para as entidades públicas responsáveis por procedimentos administrativos para cuja instrução a lei exige um certificado do registo criminal o ónus, hoje incidente sobre o cidadão, da obtenção desse certificado. A execução desta alteração legislativa exige a regulamentação de alguns aspectos através de portaria do Ministro da Justiça.\n\nAssim:\n\nNos termos do disposto no artigo 3.º do Decreto-Lei n.º 20/2007, manda o Governo, pelo Ministro da Justiça, o seguinte:"
+  },
+  "887091258": {
+   "fragment_id": "887094260",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria estabelece os requisitos da apresentação de requerimentos de certificados do registo criminal e da respectiva transmissão, por via electrónica, aos serviços de identificação criminal da Direcção-Geral da Administração da Justiça, previstas no n.º 3 do artigo 12.º e no n.º 5 do artigo 14.º do Decreto-Lei n.º 381/98, de 27 de Novembro, na redacção dada pelo artigo 1.º do Decreto-Lei n.º 20/2007, de 23 de Janeiro."
+  },
+  "887091259": {
+   "fragment_id": "887094261",
+   "type": 11,
+   "heading": "Artigo 2.º — Apresentação de requerimentos de certificados do registo criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Apresentação de requerimentos de certificados do registo criminal\n\nQuando seja legalmente exigida a apresentação de certificado do registo criminal para a instrução de procedimentos administrativos dos quais dependa a concessão de emprego ou obtenção de licença, autorização ou registo de carácter público, as entidades públicas competentes para essa instrução que estejam autorizadas pelo director-geral da Administração da Justiça a receber certificados do registo criminal por via electrónica deverão receber o requerimento do certificado que se destine a esse fim, no respeito pelas disposições legais que regulam a apresentação de requerimentos de certificados do registo criminal e com observância dos procedimentos mencionados nos números seguintes."
+  },
+  "887091260": {
+   "fragment_id": "887094262",
+   "type": 11,
+   "heading": "Artigo 3.º — Apresentação de requerimento de certificado do registo criminal pelo titular da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Apresentação de requerimento de certificado do registo criminal pelo titular da informação\n\nO titular da informação que requeira certificado do registo criminal junto das entidades públicas competentes a que se refere o número anterior deve provar, perante estas, ser o próprio requerente e confirmar os seus dados de identificação civil através da apresentação do bilhete de identidade de cidadão nacional ou de outro documento de identificação válido e idóneo."
+  },
+  "887091261": {
+   "fragment_id": "887094263",
+   "type": 11,
+   "heading": "Artigo 4.º — Apresentação de requerimento de certificado do registo criminal por ascendente, tutor ou curador do titular da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Apresentação de requerimento de certificado do registo criminal por ascendente, tutor ou curador do titular da informação\n\n1 - Quando o requerimento for apresentado por ascendente, tutor ou curador do titular da informação, durante a incapacidade deste ou durante a sua ausência do País ou impossibilidade de requerer, deve ser comprovada documentalmente à entidade pública competente a qualidade em que o requerente se apresenta e declarada a situação que motiva que o pedido seja por este apresentado.\n\n2 - O requerente deve provar ser o próprio ascendente, tutor ou curador e comprovar os seus dados de identificação civil e os do titular da informação requerida através da apresentação dos bilhetes de identidade de cidadão nacional ou de outros documentos de identificação válidos e idóneos."
+  },
+  "887091262": {
+   "fragment_id": "887094264",
+   "type": 11,
+   "heading": "Artigo 5.º — Apresentação de requerimento de certificado do registo criminal por terceiro em nome e no interesse do titular da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Apresentação de requerimento de certificado do registo criminal por terceiro em nome e no interesse do titular da informação\n\n1 - Quando o requerimento for apresentado por um terceiro em nome e no interesse do titular da informação, ao abrigo do disposto no artigo 12.º do Decreto-Lei n.º 381/98, de 27 de Novembro, com as alterações introduzidas pelo artigo 1.º do Decreto-Lei n.º 20/2007, deve ser apresentada à entidade pública competente declaração do titular da informação comprovativa de que o pedido é feito em seu nome e no seu interesse e onde sejam especificados:\n\na) O fim a que se destina o certificado, correspondente à instrução do procedimento administrativo em que se integra o pedido;\n\nb) O nome completo e o número do bilhete de identidade da pessoa que o pode requerer, ou a referência a outro documento idóneo que possibilite a sua identificação.\n\n2 - O requerente deve provar ser a própria pessoa autorizada pelo titular da informação a apresentar o pedido e comprovar os seus dados de identificação civil e os do titular da informação requerida através da apresentação dos bilhetes de identidade de cidadão nacional ou de outros documentos de identificação válidos e idóneos."
+  },
+  "887091263": {
+   "fragment_id": "887094265",
+   "type": 11,
+   "heading": "Artigo 6.º — Transmissão do requerimento aos serviços de identificação criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Transmissão do requerimento aos serviços de identificação criminal\n\nO requerimento de emissão de certificado do registo criminal apresentado nos termos dos números anteriores é transmitido por via electrónica aos serviços de identificação criminal, mediante o preenchimento do formulário electrónico adequado, disponibilizado para o efeito por estes serviços."
+  },
+  "887091264": {
+   "fragment_id": "887094266",
+   "type": 11,
+   "heading": "Artigo 7.º — Emissão de certificado do registo criminal negativo por via electrónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Emissão de certificado do registo criminal negativo por via electrónica\n\nOcorrendo a emissão imediata de certificado do registo criminal negativo por via electrónica, este é válido por um período de três meses, apenas para instrução do procedimento administrativo que esteve na base da emissão."
+  },
+  "887091265": {
+   "fragment_id": "887094267",
+   "type": 11,
+   "heading": "Artigo 8.º — Impossibilidade de emissão de certificado do registo criminal negativo por via electrónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Impossibilidade de emissão de certificado do registo criminal negativo por via electrónica\n\n1 - Nos casos em que não seja possível a emissão imediata de certificado do registo criminal negativo por via electrónica, a entidade pública competente transmite aos serviços de identificação criminal os elementos adicionais necessários para que estes serviços se pronunciem sobre o requerimento, mediante o preenchimento de formulário electrónico.\n\n2 - Tratando-se de titular da informação que não possua bilhete de identidade de cidadão nacional válido, o formulário deve ser acompanhado da transmissão de cópia dos documentos apresentados pelo requerente para comprovação da sua legitimidade e dos dados de identificação relevantes para o efeito.\n\n3 - Não sendo possível a transmissão electrónica de cópias dos documentos, estas devem ser remetidas por fax, ou por via postal, ficando o formulário electrónico pendente nos serviços de identificação criminal até à respectiva recepção."
+  },
+  "887091266": {
+   "fragment_id": "887094268",
+   "type": 11,
+   "heading": "Artigo 9.º — Formulários electrónicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Formulários electrónicos\n\nOs formulários electrónicos referidos nos números anteriores substituem, para todos os efeitos legais, o impresso de requerimento de certificado do registo criminal de modelo exclusivo dos serviços de identificação criminal."
+  },
+  "887091267": {
+   "fragment_id": "887094269",
+   "type": 11,
+   "heading": "Artigo 10.º — Procedimentos dos serviços de identificação criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Procedimentos dos serviços de identificação criminal\n\nRecebido nos serviços de identificação criminal o formulário electrónico referido no artigo 8.º correctamente preenchido, estes:\n\na) Emitem o certificado do registo criminal requerido, remetendo-o, por via postal, à entidade pública que transmitiu o pedido;\n\nb) Solicitam, pela via mais adequada, elementos adicionais que se revelem indispensáveis à tomada de decisão sobre o requerimento de emissão;\n\nc) Indeferem o requerimento e transmitem a decisão, com os respectivos fundamentos, à entidade pública competente, a fim de que esta notifique o requerente do seu teor."
+  },
+  "887091268": {
+   "fragment_id": "887094270",
+   "type": 11,
+   "heading": "Artigo 11.º — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Pagamentos\n\n1 - Pela emissão imediata de certificado do registo criminal negativo por via electrónica ou pela remessa aos serviços de identificação criminal do formulário electrónico referido no artigo 8.º desta portaria é devido o pagamento das quantias legalmente fixadas, nos termos do disposto nos artigos 38.º e 40.º do Decreto-Lei n.º 381/98, de 27 de Novembro, para pagamento do pedido e da emissão de certificados do registo criminal.\n\n2 - As quantias referidas no número anterior são cobradas aos requerentes pelas entidades competentes e por estas depositadas à ordem dos serviços de identificação criminal, no prazo e de acordo com os procedimentos estabelecidos nas instruções a que se refere o artigo 16.º desta portaria.\n\n3 - As entidades públicas onde sejam apresentados requerimentos de certificados do registo criminal nos termos estabelecidos na presente portaria devem divulgar junto dos intervenientes nos procedimentos administrativos que são instruídos por este documento o preço devido pela respectiva emissão."
+  },
+  "887091269": {
+   "fragment_id": "887094271",
+   "type": 11,
+   "heading": "Artigo 12.º — Documento comprovativo da apresentação do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Documento comprovativo da apresentação do pedido\n\n1 - Deve constar do procedimento administrativo que estiver em causa um documento assinado pelo requerente do certificado do registo criminal, comprovativo da apresentação do pedido para os fins correspondentes à respectiva instrução.\n\n2 - No documento mencionado no número anterior devem ser referenciados os documentos de identificação exibidos e ser expressamente declarado que foi verificada a legitimidade do requerente para efectuar o pedido e confirmados os dados de identificação necessários para o efeito, declaração esta subscrita pelo funcionário que a haja realizado."
+  },
+  "887091270": {
+   "fragment_id": "887094272",
+   "type": 11,
+   "heading": "Artigo 13.º — Documento comprovativo da emissão do certificado do registo criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Documento comprovativo da emissão do certificado do registo criminal\n\nDeve, ainda, constar do procedimento administrativo em causa uma impressão do certificado do registo criminal transmitido electronicamente."
+  },
+  "887091271": {
+   "fragment_id": "887094273",
+   "type": 11,
+   "heading": "Artigo 14.º — Utilização de palavra de passe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Utilização de palavra de passe\n\nA transmissão, por via electrónica, do requerimento de certificado do registo criminal e a recepção do certificado do registo criminal negativo por via electrónica dependem da utilização de palavra de passe que identifique o posto de trabalho e a pessoa que acede."
+  },
+  "887091272": {
+   "fragment_id": "887094274",
+   "type": 11,
+   "heading": "Artigo 15.º — Responsabilidade dos serviços de identificação criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Responsabilidade dos serviços de identificação criminal\n\nOs serviços de identificação criminal responsabilizam-se integralmente pelo teor das informações por si certificadas, reportando-se, no caso do certificado do registo criminal negativo transmitido por via electrónica, sempre e exclusivamente à respectiva impressão junta ao procedimento administrativo."
+  },
+  "887091273": {
+   "fragment_id": "887177975",
+   "type": 11,
+   "heading": "Artigo 16.º — Instruções relativas à recepção de documentos e ao controlo de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Instruções relativas à recepção de documentos e ao controlo de dados\n\nOs serviços de identificação criminal emitirão as instruções necessárias à execução da presente portaria, designadamente no que respeita à recepção de documentos e ao controlo de dados, bem como ao depósito dos valores recebidos dos requerentes e à prestação de contas a eles respeitantes, nos termos do disposto na alínea b) do artigo 2.º do Decreto-Lei n.º 381/98, de 27 de Novembro, com a redacção dada pelo artigo 1.º do Decreto-Lei n.º 20/2007."
+  },
+  "887178100": {
+   "fragment_id": "887094261",
+   "type": 11,
+   "heading": "Artigo 2.º — Apresentação de requerimentos de certificados do registo criminal",
+   "in_force_from": "2007-02-11",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 23/2007 - Diário da República n.º 65/2007, Série I de 2007-04-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/23-2007-520210), em vigor a partir de 2007-02-11"
+   ],
+   "markdown": "###### Artigo 2.º — Apresentação de requerimentos de certificados do registo criminal\n\nQuando seja legalmente exigida a apresentação de certificado do registo criminal para a instrução de procedimentos administrativos dos quais dependa a concessão de emprego ou obtenção de licença, autorização ou registo de carácter público, as entidades públicas competentes para essa instrução que estejam autorizadas pelo director-geral da Administração da Justiça a receber certificados do registo criminal por via electrónica deverão receber o requerimento do certificado que se destine a esse fim, no respeito pelas disposições legais que regulam a apresentação de requerimentos de certificados do registo criminal e com observância dos procedimentos mencionados nos artigos seguintes.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 23/2007 - Diário da República n.º 65/2007, Série I de 2007-04-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/23-2007-520210), em vigor a partir de 2007-02-11"
+  },
+  "887178101": {
+   "fragment_id": "887094262",
+   "type": 11,
+   "heading": "Artigo 3.º — Apresentação de requerimento de certificado do registo criminal pelo titular da informação",
+   "in_force_from": "2007-02-11",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 23/2007 - Diário da República n.º 65/2007, Série I de 2007-04-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/23-2007-520210), em vigor a partir de 2007-02-11"
+   ],
+   "markdown": "###### Artigo 3.º — Apresentação de requerimento de certificado do registo criminal pelo titular da informação\n\nO titular da informação que requeira certificado do registo criminal junto das entidades públicas competentes a que se refere o artigo anterior deve provar, perante estas, ser o próprio requerente e confirmar os seus dados de identificação civil através da apresentação do bilhete de identidade de cidadão nacional ou de outro documento de identificação válido e idóneo.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 23/2007 - Diário da República n.º 65/2007, Série I de 2007-04-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/23-2007-520210), em vigor a partir de 2007-02-11"
+  },
+  "887178102": {
+   "fragment_id": "887094265",
+   "type": 11,
+   "heading": "Artigo 6.º — Transmissão do requerimento aos serviços de identificação criminal",
+   "in_force_from": "2007-02-11",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 23/2007 - Diário da República n.º 65/2007, Série I de 2007-04-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/23-2007-520210), em vigor a partir de 2007-02-11"
+   ],
+   "markdown": "###### Artigo 6.º — Transmissão do requerimento aos serviços de identificação criminal\n\nO requerimento de emissão de certificado do registo criminal apresentado nos termos dos artigos anteriores é transmitido por via electrónica aos serviços de identificação criminal, mediante o preenchimento do formulário electrónico adequado, disponibilizado para o efeito por estes serviços.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 23/2007 - Diário da República n.º 65/2007, Série I de 2007-04-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/23-2007-520210), em vigor a partir de 2007-02-11"
+  },
+  "887423296": {
+   "fragment_id": "887094268",
+   "type": 11,
+   "heading": "Artigo 9.º — Formulários electrónicos",
+   "in_force_from": "2009-03-21",
+   "changed_by": [
+    "Revogado pelo/a 3.º do/a [Portaria n.º 286/2009 - Diário da República n.º 56/2009, Série I de 2009-03-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2009-605533), em vigor a partir de 2009-03-21"
+   ],
+   "markdown": "###### Artigo 9.º — Formulários electrónicos\n\nOs formulários electrónicos referidos nos números anteriores substituem, para todos os efeitos legais, o impresso de requerimento de certificado do registo criminal de modelo exclusivo dos serviços de identificação criminal.\n\n> Revogado pelo/a 3.º do/a [Portaria n.º 286/2009 - Diário da República n.º 56/2009, Série I de 2009-03-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2009-605533), em vigor a partir de 2009-03-21"
+  },
+  "887423297": {
+   "fragment_id": "887094270",
+   "type": 11,
+   "heading": "Artigo 11.º — Pagamentos",
+   "in_force_from": "2009-03-21",
+   "changed_by": [
+    "Revogado pelo/a 3.º do/a [Portaria n.º 286/2009 - Diário da República n.º 56/2009, Série I de 2009-03-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2009-605533), em vigor a partir de 2009-03-21"
+   ],
+   "markdown": "###### Artigo 11.º — Pagamentos\n\n1 - Pela emissão imediata de certificado do registo criminal negativo por via electrónica ou pela remessa aos serviços de identificação criminal do formulário electrónico referido no artigo 8.º desta portaria é devido o pagamento das quantias legalmente fixadas, nos termos do disposto nos artigos 38.º e 40.º do Decreto-Lei n.º 381/98, de 27 de Novembro, para pagamento do pedido e da emissão de certificados do registo criminal.\n\n2 - As quantias referidas no número anterior são cobradas aos requerentes pelas entidades competentes e por estas depositadas à ordem dos serviços de identificação criminal, no prazo e de acordo com os procedimentos estabelecidos nas instruções a que se refere o artigo 16.º desta portaria.\n\n3 - As entidades públicas onde sejam apresentados requerimentos de certificados do registo criminal nos termos estabelecidos na presente portaria devem divulgar junto dos intervenientes nos procedimentos administrativos que são instruídos por este documento o preço devido pela respectiva emissão.\n\n> Revogado pelo/a 3.º do/a [Portaria n.º 286/2009 - Diário da República n.º 56/2009, Série I de 2009-03-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2009-605533), em vigor a partir de 2009-03-21"
+  },
+  "887423295": {
+   "fragment_id": "887177975",
+   "type": 11,
+   "heading": "Artigo 16.º — Instruções relativas à recepção de documentos e ao controlo de dados",
+   "in_force_from": "2009-03-21",
+   "changed_by": [
+    "Alterado pelo/a 2.º do/a [Portaria n.º 286/2009 - Diário da República n.º 56/2009, Série I de 2009-03-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2009-605533), em vigor a partir de 2009-03-21"
+   ],
+   "markdown": "###### Artigo 16.º — Instruções relativas à recepção de documentos e ao controlo de dados\n\nOs serviços de identificação criminal emitirão as instruções necessárias à execução da presente portaria, designadamente no que respeita à recepção de documentos e ao controlo de dados, nos termos do disposto na alínea b) do artigo 2.º do Decreto-Lei n.º 381/98, de 27 de Novembro, com a redacção dada pelo artigo 1.º do Decreto-Lei n.º 20/2007.\n\n> Alterado pelo/a 2.º do/a [Portaria n.º 286/2009 - Diário da República n.º 56/2009, Série I de 2009-03-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2009-605533), em vigor a partir de 2009-03-21"
+  },
+  "887091274": {
+   "fragment_id": "887177976",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Justiça, Alberto Bernardes Costa, em 24 de Janeiro de 2007."
+  }
+ }
+}

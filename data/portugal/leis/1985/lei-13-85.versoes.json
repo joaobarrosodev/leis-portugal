@@ -1,0 +1,694 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:182874:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1985-871759693",
+ "dre_path": "/dr/detalhe/lei/13-1985-182874",
+ "source_lastmod": "2024-07-11",
+ "versions": [
+  {
+   "date": "1985-07-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "871673931",
+    "871673932",
+    "871673933",
+    "871673934",
+    "871673935",
+    "871673936",
+    "871673937",
+    "871673938",
+    "871673939",
+    "871673940",
+    "871673941",
+    "871673942",
+    "871673943",
+    "871673944",
+    "871673945",
+    "871673946",
+    "871673947",
+    "871673948",
+    "871673949",
+    "871673950",
+    "871673951",
+    "871673952",
+    "871673953",
+    "871673954",
+    "871673955",
+    "871673956",
+    "871673957",
+    "871673958",
+    "871673959",
+    "871673960",
+    "871673961",
+    "871673962",
+    "871673963",
+    "871673964",
+    "871673965",
+    "871673966",
+    "871673967",
+    "871673968",
+    "871673969",
+    "871673970",
+    "871673971",
+    "871673972",
+    "871673973",
+    "871673974",
+    "871760175",
+    "871760176",
+    "871760177",
+    "871760178",
+    "871760179",
+    "871760180",
+    "871760181",
+    "871760182",
+    "871760183",
+    "871760184",
+    "871760185",
+    "871760186",
+    "871760187",
+    "871760188",
+    "871760189",
+    "871760190",
+    "871760191",
+    "871760192",
+    "871760193",
+    "871760194",
+    "871760195",
+    "871760196",
+    "871760197",
+    "871760198",
+    "871760199",
+    "871760200",
+    "871760201",
+    "871760202",
+    "871760203",
+    "871760204",
+    "871760205"
+   ]
+  }
+ ],
+ "fragments": {
+  "871673931": {
+   "fragment_id": "871759694",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 13/85\n\nde 6 de Julho\n\nPATRIMÓNIO CULTURAL PORTUGUÊS\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 2, da Constituição, o seguinte:\n\n> Nota: [Artigo 113.º, Lei n.º 107/2001 - Diário da República n.º 209/2001, Série I-A de 2001-09-08](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790) A presente Lei encontra-se revogada pela Lei n.º 107/2001, de 8 de setembro. Contudo, enquanto não for editada a legislação de desenvolvimento da presente lei, no território do continente considerar-se-ão em vigor as normas até agora aplicáveis do Decreto n.º 20985, de 7 de Março de 1932, com as sucessivas alterações, em tudo o que não contrarie princípios ou disposições fundamentais da presente lei.\n\n> Nota: [Acórdão n.º 403/89 - Diário da República n.º 171/1989, Série I de 1989-07-27](https://diariodarepublica.pt/dr/detalhe/acordao/403-1989-618923) Declara a inconstitucionalidade, com força obrigatória geral, por violação do artigo 231.º, n.º 2, da Constituição, das normas constantes do n.º 2 do artigo 7.º e n.º 1 do artigo 26.º, na medida em que prevêem a classificação de certos bens como de «valor regional» e, consequencialmente, dos n.ºs 3, 4 e 5 do artigo 21.º, na medida em que possam estar abrangidos bens de «valor regional»; dos n.ºs 1, 2 e 3 do artigo 3.º, n.º 1 do artigo 9.º, n.º 1 do artigo 45.º, na medida do que neles se contém quanto a incumbências das regiões autónomas; do artigo 58.º no que respeita aos funcionários das regiões autónomas; dos arts. 61.º, n.º 2, e 62.º, este na parte em que revoga a legislação regional e a legislação da República sobre matéria respeitante às regiões autónomas, da Lei n.º 13/85, de 6 de Julho, apenas na medida da sua aplicação à Região Autónoma dos Açores (Proc. n.º 162/85)."
+  },
+  "871673932": {
+   "fragment_id": "871759695",
+   "type": 13,
+   "heading": "Título I — Princípios fundamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título I — Princípios fundamentais"
+  },
+  "871673933": {
+   "fragment_id": "871759696",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO património cultural português é constituído por todos os bens materiais e imateriais que, pelo seu reconhecido valor próprio, devam ser considerados como de interesse relevante para a permanência e identidade da cultura portuguesa através do tempo."
+  },
+  "871673934": {
+   "fragment_id": "871759697",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - É direito e dever de todos os cidadãos preservar, defender e valorizar o património cultural.\n\n2 - Constitui obrigação do Estado e demais entidades públicas promover a salvaguarda e valorização do património cultural do povo português."
+  },
+  "871673935": {
+   "fragment_id": "871759698",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - O levantamento, estudo, protecção, valorização e divulgação do património cultural incumbem especialmente ao Estado, às regiões autónomas, às autarquias locais, aos proprietários possuidores ou detentores de quaisquer suas parcelas e, em geral, às instituições culturais, religiosas, militares ou de outro tipo, às associações para o efeito constituídas e ainda aos cidadãos.\n\n2 - O Estado, as regiões autónomas e as autarquias locais procurarão promover a sensibilização e participação dos cidadãos na salvaguarda do património cultural e assegurar as condições de fruição desse património.\n\n3 - Os proprietários, possuidores ou detentores de património cultural deverão ser chamados a colaborar com o Estado, regiões autónomas e autarquias locais no registo e inventário do referido património.\n\n4 - As populações deverão ser associadas às medidas de protecção e de conservação e solicitadas a colaborar na dignificação, defesa e fruição do património cultural."
+  },
+  "871673936": {
+   "fragment_id": "871759699",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Compete ao Governo, através do Ministério da Cultura, promover a protecção legal do património cultural.\n\n2 - O Estado promoverá, pelo Ministério da Cultura, designadamente através dos seus serviços regionais, em conjunto com outros departamentos do Estado, as medidas necessárias e indispensáveis a uma acção permanente e concertada de levantamento, estudo, protecção, conservação e valorização dos bens culturais.\n\n3 - Para os fins do disposto no n.º 1 do presente artigo, o Governo terá como instrumentos o levantamento, o registo e a classificação dos bens culturais.\n\n4 - Independentemente do tipo de propriedade, os bens culturais serão submetidos a regras especiais, que estabelecerão, designadamente, a sua função social, alienação e forma de intervenção."
+  },
+  "871673937": {
+   "fragment_id": "871759700",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - O Instituto Português do Património Cultural, adiante designado por «IPPC», é um instituto público dotado de personalidade jurídica e goza de autonomia administrativa e financeira.\n\n2 - A sua natureza bem como as suas atribuições e competências são as estabelecidas na respectiva lei orgânica."
+  },
+  "871673938": {
+   "fragment_id": "871759701",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - As associações de defesa do património, adiante designadas por «ADP», são as associações constituídas especificamente para promover a defesa e o conhecimento do património cultural.\n\n2 - As ADP têm direito a pronunciar-se junto do IPPC, dos órgãos da administração autárquica, bem como das entidades cuja acção se situe na defesa do património cultural, sobre tudo quanto a este respeite.\n\n3 - As ADP terão assento no conselho consultivo do IPPC, sendo o seu representante designado segundo os próprios critérios das associações e só por elas poderá ser removido ou substituído."
+  },
+  "871673939": {
+   "fragment_id": "871759702",
+   "type": 13,
+   "heading": "Título II — Das formas e regime de protecção do património cultural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título II — Das formas e regime de protecção do património cultural"
+  },
+  "871673940": {
+   "fragment_id": "871759703",
+   "type": 5,
+   "heading": "Subtítulo I — Dos bens materiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Subtítulo I — Dos bens materiais"
+  },
+  "871673941": {
+   "fragment_id": "871759704",
+   "type": 1,
+   "heading": "Capítulo I — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições comuns"
+  },
+  "871673942": {
+   "fragment_id": "871759705",
+   "type": 8,
+   "heading": "Secção I — Da classificação e seu processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Da classificação e seu processo"
+  },
+  "871673943": {
+   "fragment_id": "871759706",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - A protecção legal dos bens materiais que integram o património cultural assenta na classificação dos imóveis e dos móveis.\n\n2 - Os bens imóveis podem ser classificados como monumento, conjunto e sítio, eventualmente agrupáveis em categorias, nos termos que forem regulamentados, e os móveis, unitária ou conjuntamente, como de valor cultural, podendo ainda todos os bens ser classificados como de valor local, valor regional, valor nacional ou valor internacional.\n\n3 - O enquadramento orgânico, natural ou construído, dos bens culturais imóveis que afecte a percepção e leitura de elementos e conjuntos ou que com eles esteja directamente relacionado, por razões de integração espacial ou motivos sociais, económicos ou culturais, deve ser sempre definido de acordo com a importância arqueológica, histórica, etnológica, artística, arquitectónica, urbanística ou paisagística do lugar, por constituir parte indispensável na defesa desses mesmos bens."
+  },
+  "871673944": {
+   "fragment_id": "871759707",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - Por monumentos, conjuntos e sítios entende-se, respectivamente:\n\na) Monumentos: obras de arquitectura, composições importantes ou criações mais modestas, notáveis pelo seu interesse histórico, arqueológico, artístico, científico, técnico ou social, incluindo as instalações ou elementos decorativos que fazem parte integrante destas obras, bem como as obras de escultura ou de pintura monumental;\n\nb) Conjuntos: agrupamentos arquitectónicos urbanos ou rurais de suficiente coesão, de modo a poderem ser delimitados geograficamente, e notáveis, simultaneamente, pela sua unidade ou integração na paisagem e pelo seu interesse histórico, arqueológico, artístico, científico ou social;\n\nc) Sítios: obras do homem ou obras conjuntas do homem e da natureza, espaços suficientemente característicos e homogéneos, de maneira a poderem ser delimitados geograficamente, notáveis pelo seu interesse histórico, arqueológico, artístico, científico ou social.\n\n2 - Por bens culturais móveis entende-se:\n\na) Os bens de significado cultural que representem a expressão ou o testemunho da criação humana ou da evolução da natureza ou da técnica, neles incluindo os que se encontram no interior de imóveis ou que deles tenham sido retirados ou recuperados, bem como os que estão soterrados ou submersos ou forem encontrados em lugares de interesse arqueológico, histórico, etnológico ou noutros locais;\n\nb) As obras de pintura, escultura e desenho, os têxteis, as espécies organológicas, os utensílios ou os objectos de valor artístico, científico ou técnico;\n\nc) Os manuscritos valiosos, os livros raros, particularmente os incunábulos, documentos e publicações de interesse especial nos domínios científico, artístico ou técnico, incluindo as espécies fotográficas, cinematográficas, registos sonoros e outros;\n\nd) Todos os bens, do passado ou do presente, de natureza religiosa ou profana que forem considerados de valor nos domínios científico, artístico ou técnico."
+  },
+  "871673945": {
+   "fragment_id": "871759708",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - O processo de classificação pode ser desencadeado pelo Estado, pelas regiões autónomas, pelas autarquias locais ou por qualquer pessoa singular ou colectiva.\n\n2 - Cabe, em especial, às autarquias locais o dever de promover a classificação de bens culturais nas respectivas áreas.\n\n3 - Os processos de classificação deverão ser fundamentados e devidamente instruídos, em princípio, pelos seus promotores, cabendo ao Estado prestar o apoio técnico requerido."
+  },
+  "871673946": {
+   "fragment_id": "871759709",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - As classificações incidirão sobre bens que, pelo seu relevante valor cultural, devem merecer especial protecção.\n\n2 - As decisões de classificação serão devidamente fundamentadas segundo critérios de natureza cultural, nomeadamente de carácter artístico e histórico.\n\n3 - Os critérios genéricos para a selecção de imóveis a classificar serão estabelecidos pelo IPPC, no âmbito da competência fixada pelo Ministro da Cultura."
+  },
+  "871673947": {
+   "fragment_id": "871759710",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAs classificações de bens serão precedidas de notificação e audiência prévia do proprietário e, no caso dos imóveis, cumulativamente da câmara municipal respectiva, imediatamente após a determinação pelo IPPC da abertura do respectivo processo de instrução."
+  },
+  "871673948": {
+   "fragment_id": "871759711",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs bens culturais, salvo o disposto no artigo 26.º, são classificados por decreto do Ministro da Cultura, ouvidos, obrigatoriamente, os órgãos consultivos competentes, após processo próprio organizado pelos serviços competentes do IPPC."
+  },
+  "871673949": {
+   "fragment_id": "871759712",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nA um eventual processo de desclassificação aplicar-se-á, com as necessárias adaptações, o disposto nos artigos 9.º, 10.º, 11.º e 12.º da presente lei."
+  },
+  "871673950": {
+   "fragment_id": "871759713",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1 - Os imóveis classificados ou em vias de classificação pelo Ministério da Cultura não poderão ser demolidos, no todo ou em parte, nem ser objecto de obras de restauro, sem prévio parecer do IPPC.\n\n2 - Os estudos e projectos para os trabalhos de conservação, consolidação, modificação, reintegração e restauro em bens classificados ou em vias de classificação devem ser elaborados e subscritos por um técnico de qualificação legalmente reconhecida ou sob a sua responsabilidade directa.\n\n3 - Quando julgar ser esse o único modo de garantir os objectivos que lhe compete defender, o Ministério da Cultura poderá determinar que os trabalhos a efectuar referidos no número anterior sejam acompanhados por técnicos especializados por ele designados ou aceites."
+  },
+  "871673951": {
+   "fragment_id": "871759714",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1 - Os proprietários ou detentores de bens classificados ou em vias de classificação devem, tendo em vista a finalidade de limitar os riscos da degradação física do património arquitectural:\n\na) Ter em consideração os problemas específicos da conservação do património nas políticas de luta contra a poluição praticadas a nível nacional ou internacional;\n\nb) Apoiar a investigação científica no intuito de identificar e analisar os efeitos prejudiciais da poluição e definir os meios de reduzir ou eliminar as respectivas causas.\n\n2 - Os proprietários ou detentores de móveis ou imóveis classificados ou em vias de classificação responsáveis pela sua conservação executarão todas as obras que o Ministério da Cultura, ouvidos os órgãos consultivos competentes, considerar necessárias para assegurar a sua salvaguarda.\n\n3 - No caso de essas obras não terem sido iniciadas ou concluídas dentro do prazo fixado, poderá o Ministério da Cultura determinar que as mesmas sejam executadas pelo Estado, correndo o seu custeio por conta do proprietário ou detentor.\n\n4 - Quando o referido proprietário ou detentor comprovar não possuir meios para o pagamento integral daquelas obras ou as mesmas constituírem ónus desproporcionado para as suas possibilidades, será o custeio suportado, total ou parcialmente, pelo Estado, consoante o que for apurado em cada caso."
+  },
+  "871673952": {
+   "fragment_id": "871759715",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1 - Quando, por responsabilidade do respectivo proprietário, demonstrada por omissão ou acção grave do mesmo, se corra o risco de degradação dos bens culturais móveis ou imóveis classificados ou em vias de classificação, o Ministro da Cultura pode, ouvindo o respectivo proprietário e os órgãos consultivos competentes, promover a expropriação dos bens referidos.\n\n2 - As autarquias podem, em condições idênticas, promover a expropriação dos bens móveis ou imóveis classificados, desde que o IPPC dê parecer favorável.\n\n3 - Nos termos dos números anteriores, podem ser igualmente expropriados bens imóveis situados nas zonas de protecção dos bens classificados, desde que prejudiquem a boa conservação desses bens e ofendam ou desvirtuam as suas características ou enquadramento."
+  },
+  "871673953": {
+   "fragment_id": "871759716",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1 - A alienação de bens classificados deverá ser comunicada previamente ao Ministro da Cultura, considerando-se, no caso dos bens imóveis, tal notificação como requisito essencial para a inscrição de transmissão no registo predial.\n\n2 - O Estado, as autarquias e os proprietários de parte de bens classificados gozam, pela ordem indicada, do direito de preferência em caso de venda de bens classificados ou em vias de classificação, bem como dos imóveis situados em zonas de protecção.\n\n3 - Sendo a alienação feita em hasta pública, o Estado, através do Ministério da Cultura, e as autarquias poderão usar do direito de preferência, contanto que o efectivem dentro do prazo de 5 dias a contar da data da adjudicação.\n\n4 - A transmissão por herança ou legado de bens classificados deverá ser comunicada ao Ministério da Cultura para efeitos de registo."
+  },
+  "871673954": {
+   "fragment_id": "871759717",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1 - Consideram-se em via de classificação os bens em relação aos quais houver despacho do IPPC a determinar a abertura do respectivo processo de instrução.\n\n2 - Na fase de instrução do processo de classificação, os bens imóveis a ela sujeitos e os localizados na respectiva zona de protecção não poderão ser demolidos, alienados ou expropriados ou restaurados ou transformados sem autorização expressa da entidade competente para o efeito.\n\n3 - Os bens móveis não poderão, durante a pendência do seu processo de classificação, ser alienados, alterados, restaurados ou exportados sem autorização do Ministro da Cultura, ouvidos, obrigatoriamente, os órgãos consultivos competentes."
+  },
+  "871673955": {
+   "fragment_id": "871759718",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1 - Todos os bens culturais deverão fazer parte de um registo de inventário sistemático e exaustivo a elaborar pelo IPPC.\n\n2 - Os bens classificados serão inscritos em catálogo próprio.\n\n3 - A classificação ou eventual desclassificação dos bens imóveis será objecto de averbamento no registo predial.\n\n4 - Os bens móveis classificados, quer unitária, quer conjuntamente, serão objecto de um certificado de registo e acompanhados de uma cópia deste emitida pelo Ministério da Cultura."
+  },
+  "871673956": {
+   "fragment_id": "871759719",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nTodos os bens culturais classificados serão assinalados por processo adequado, com indicação do tipo de classificação, data, entidade classificadora e demais elementos considerados relevantes."
+  },
+  "871673957": {
+   "fragment_id": "871759720",
+   "type": 1,
+   "heading": "Capítulo II — Do regime específico dos bens imóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Do regime específico dos bens imóveis"
+  },
+  "871673958": {
+   "fragment_id": "871759721",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1 - A delimitação da área dos conjuntos e sítios será fixada pelo Ministério da Cultura, no caso de bens de valor nacional ou internacional, através dos serviços competentes, ouvidas as autarquias, com a colaboração, quando necessária, de outros serviços do Estado, excepto se já existirem planos directores aprovados dos quais constem delimitações entretanto operadas.\n\n2 - Para os bens de valor local é competente a assembleia municipal respectiva, que poderá recorrer à colaboração de outras entidades, sempre que julgada útil.\n\n3 - Cabe aos órgãos de governo próprio das regiões autónomas a delimitação relativa a conjuntos e sítios que se insiram no âmbito das suas competências, para o que disporão da colaboração, se for caso disso, de outros serviços estaduais.\n\n4 - A classificação como conjunto e sítio aplicam-se as normas dos números precedentes no que concerne às competências do Ministério da Cultura, das autarquias e das regiões autónomas.\n\n5 - No prazo de 180 dias, contados a partir da comunicação de determinação da classificação, prorrogável por iguais períodos, elaborar-se-ão planos de salvaguarda de responsabilidade central, regional ou local, consoante os casos e as regras de competência.\n\n6 - A prorrogação prevista no número anterior cabe ao Ministro da Cultura, sob proposta da entidade encarregue da elaboração do plano, e só poderá não ser atendida por razão de lei.\n\n7 - Na falta de proposta camarária, o IPPC poderá elaborar oficiosamente o plano especial de protecção a que se referem os números anteriores.\n\n8 - Todos os planos de ordenamento territorial, nomeadamente os de urbanização, deverão considerar e tratar de maneira especial o património cultural existente na sua área, quer se trate de imóveis classificados quer de imóveis em vias de classificação, propondo medidas de valorização em todos os casos."
+  },
+  "871673959": {
+   "fragment_id": "871759722",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1 - Os imóveis classificados pelo Ministério da Cultura dispõem sempre de uma zona especial de protecção.\n\n2 - Deverá ser fixada uma zona especial de protecção, em prazos a estabelecer pelo Ministério da Cultura, sob proposta do IPPC, com audição das autarquias, nela podendo incluir-se uma zona non aedificandi em todos os casos, salvo naqueles cujo enquadramento fique perfeitamente salvaguardado com a zona de protecção tipo.\n\n3 - Enquanto não for fixada uma zona especial de protecção, os imóveis classificados beneficiarão de uma zona de protecção de 50 m, contados a partir dos limites exteriores do imóvel."
+  },
+  "871673960": {
+   "fragment_id": "871759723",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1 - As zonas de protecção dos imóveis classificados nos termos do artigo anterior são servidões administrativas, nas quais não podem ser autorizadas pelas câmaras municipais ou por outras entidades alienações ou quaisquer obras de demolição, instalação, construção, reconstrução, criação ou transformação de zonas verdes, bem como qualquer movimento de terras ou dragagens, nem alteração ou diferente utilização contrária à traça originária, sem prévia autorização do Ministro da Cultura.\n\n2 - Todos os pedidos de licença de obras em bens classificados ou na área da respectiva zona de protecção devem ser elaborados e subscritos por técnicos especializados de qualificação reconhecida ou sob a sua directa responsabilidade.\n\n3 - Aos proprietários de imóveis abrangidos pelas zonas non aedificandi é assegurado o direito de requerer ao Estado a sua expropriação, nos termos das leis e regulamentos em vigor sobre a expropriação por utilidade pública."
+  },
+  "871673961": {
+   "fragment_id": "871759724",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nNenhum monumento classificado ou em vias de classificação poderá ser deslocado, em parte ou na totalidade, do lugar que lhe compete, excepto no caso de a salvaguarda material do mesmo o exigir imperativamente, devendo então a autoridade competente fornecer todas as garantias necessárias quanto à desmontagem, à remoção e à reerecção do monumento em lugar apropriado."
+  },
+  "871673962": {
+   "fragment_id": "871759725",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nOs bens culturais classificados pertencentes ao Estado só poderão ser alienados através de decretos especialmente elaborados para o efeito e assinados conjuntamente pelos Ministros de Estado, das Finanças e do Plano e da Cultura, ouvidos previamente os serviços competentes."
+  },
+  "871673963": {
+   "fragment_id": "871759726",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1 - As regiões autónomas e as assembleias municipais, por proposta da câmara, podem classificar ou desclassificar como de valor cultural, depois de ouvido o respectivo proprietário e em conclusão do processo adequado, os bens culturais imóveis que, não merecendo classificação de âmbito nacional, tenham, contudo, assinalável valor regional ou municipal.\n\n2 - A classificação de imóveis de valor local terá de ser fundamentada segundo critérios que estabeleçam de forma inequívoca a relevância cultural do imóvel em causa e de ser precedida de parecer dos serviços regionais do Ministério da Cultura.\n\n3 - As câmaras municipais são obrigadas a enviar ao Ministério da Cultura, para efeitos de registo e coordenação, cópia dos processos de classificação e desclassificação dos bens de interesse local e a dar conhecimento das decisões sobre eles tomadas.\n\n4 - Para efeitos de eventual recurso das decisões das câmaras municipais relativas às classificações ou desclassificações, bem como às intervenções nos bens de interesse local, podem os interessados solicitar o parecer dos serviços competentes do Ministério da Cultura sobre quaisquer aspectos genéricos ou pontuais da classificação ou intervenção em causa."
+  },
+  "871673964": {
+   "fragment_id": "871759727",
+   "type": 1,
+   "heading": "Capítulo III — Do regime específico dos bens móveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Do regime específico dos bens móveis"
+  },
+  "871673965": {
+   "fragment_id": "871759728",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1 - Sempre que os bens móveis classificados ou em vias de o serem corram perigo de manifesto extravio, perda ou deterioração, deverá o Ministério da Cultura determinar as providências cautelares ou as medidas técnicas de conservação indispensáveis adequadas a cada caso.\n\n2 - Se as medidas conservatórias importarem para o respectivo proprietário a obrigação de praticar determinados actos, deverão ser fixados os prazos e as condições da sua execução, nomeadamente a prestação de apoio financeiro por parte do Estado.\n\n3 - Sempre que quaisquer providências cautelares forem julgadas insuficientes ou as medidas conservatórias não forem acatadas ou executadas no prazo e condições impostos, poderá o Ministro da Cultura ordenar que os referidos móveis sejam transferidos, a título de depósito, para a guarda de bibliotecas, arquivos ou museus."
+  },
+  "871673966": {
+   "fragment_id": "871759729",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nOs bens culturais móveis classificados são insusceptíveis de aquisição por usucapião."
+  },
+  "871673967": {
+   "fragment_id": "871759730",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\n1 - As colecções de bens culturais são organizadas segundo critérios de homogeneidade, devendo manter-se, sempre que possível, a sua integridade.\n\n2 - Sempre que se prove o risco de dispersão das referidas colecções, o Ministério da Cultura tomará as medidas necessárias e adequadas à sua salvaguarda, devendo ouvir, para o efeito, os serviços competentes do IPPC."
+  },
+  "871673968": {
+   "fragment_id": "871759731",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\n1 - O Ministro da Cultura poderá autorizar, ouvidos os serviços competentes, a permuta ou transferência de bens culturais móveis classificados ou em vias de classificação entre museus, bibliotecas, arquivos ou outros serviços públicos.\n\n2 - O Governo poderá autorizar, ouvidos os serviços competentes, em condições excepcionais e em função de acordos bilaterais, a permuta, definitiva ou temporária, de bens culturais móveis pertencentes ao Estado por outros existentes noutros países e que se revistam de excepcional interesse para o património cultural português.\n\n3 - No caso de permuta definitiva com outros países de bens móveis classificados ou em vias de classificação, a autorização deverá revestir a forma de decreto."
+  },
+  "871673969": {
+   "fragment_id": "871759732",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\n1 - O Governo deverá promover a regulamentação da compra, venda e comércio de antiguidades e outros bens culturais móveis e fiscalizar o seu cumprimento.\n\n2 - São nulas e de nenhum efeito as transacções realizadas em território português sobre bens culturais móveis provenientes de países estrangeiros quando efectuadas com infracção das disposições da respectiva legislação interna reguladora da sua alienação ou exportação.\n\n3 - O disposto no número anterior será aplicável, relativamente a outros países, em termos de reciprocidade."
+  },
+  "871673970": {
+   "fragment_id": "871759733",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\n1 - Estarão isentas de encargos fiscais as importações de bens culturais que se destinem a museus, bibliotecas e arquivos do Estado e a outras pessoas colectivas de utilidade pública.\n\n2 - Os bens a que se refere o número anterior deverão ser reconhecidos pelo Ministério da Cultura como de comprovado interesse para o enriquecimento do património cultural.\n\n3 - Poderão igualmente beneficiar do disposto no n.º 1 os bens importados por particulares e que os serviços do Ministério da Cultura comprovem revestir-se de inegável interesse para o património cultural português e devam, por consequência, ser classificados."
+  },
+  "871673971": {
+   "fragment_id": "871759734",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\n1 - Poderão ser exportados, sem dependência de autorização e em regime de simples tomada de sinais, os bens culturais móveis importados temporariamente, desde que a sua permanência no País não exceda o prazo de 3 meses para além do período de tempo em que esses bens tenham estado a ser utilizados com fins culturais de interesse público.\n\n2 - O Ministério da Cultura poderá autorizar a exportação temporária, com isenção de encargos fiscais, de bens culturais destinados a exposições ou outros fins culturais, ouvidos os órgãos consultivos competentes, que proporão as convenientes medidas cautelares."
+  },
+  "871673972": {
+   "fragment_id": "871759735",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\n1 - Sem prejuízo do disposto nos artigos 30.º e 33.º, a exportação definitiva de bens móveis classificados ou em vias de classificação é rigorosamente interdita.\n\n2 - Os proprietários ou detentores de bens móveis classificados ou em vias de classificação são considerados depositários dos mesmos bens, nos termos da legislação civil.\n\n3 - Quando algum bem cultural móvel classificado ou em vias de classificação for indevidamente exportado, o respectivo proprietário ou detentor ficará sujeito às disposições do Código Penal."
+  },
+  "871673973": {
+   "fragment_id": "871759736",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\n1 - Os proprietários ou detentores das espécies a que alude o n.º 2 do artigo 5.º deste diploma, estejam ou não classificadas, não poderão fazê-las sair do País, seja a que título for, sem prévia autorização do Ministro da Cultura, ouvidos os serviços competentes do IPPC, que fixará as eventuais condições de autorização.\n\n2 - Estão isentas da autorização referida no n.º 1 deste artigo as espécies que à data da exportação representem fabrico ainda corrente, sendo elas próprias de fabrico actual.\n\n3 - Em caso de venda para exportação de quaisquer dos bens referidos no número anterior, poderá o Estado, através do Ministro da Cultura, usar do direito de preferência.\n\n4 - A exportação ilegal dos bens culturais implicará, sem embargo da aplicação das demais penalidades previstas na lei em relação aos infractores, a apreensão dos bens em causa e a sua incorporação nas colecções do Estado ou a devolução aos países de origem, quando for caso disso."
+  },
+  "871673974": {
+   "fragment_id": "871759737",
+   "type": 1,
+   "heading": "Capítulo IV — Do regime específico do património arqueológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Do regime específico do património arqueológico"
+  },
+  "871760175": {
+   "fragment_id": "871759738",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\nOs bens arqueológicos, imóveis ou móveis, são património nacional."
+  },
+  "871760176": {
+   "fragment_id": "871759739",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\n1 - Para os efeitos do presente diploma, entendem-se por trabalhos arqueológicos todas as investigações que tenham por finalidade a descoberta de bens de carácter arqueológico, no caso de estas investigações implicarem uma escavação do solo ou uma exploração sistemática da sua superfície, bem como no caso de se realizarem no leito ou no subsolo de águas interiores ou territoriais.\n\n2 - São abrangidos pelas disposições do presente diploma os testemunhos arqueológicos descobertos nas áreas submersas ou arrojados pelas águas."
+  },
+  "871760177": {
+   "fragment_id": "871759740",
+   "type": 11,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\n1 - A realização de trabalhos arqueológicos em monumentos, conjuntos e sítios classificados ou em vias de classificação nas respectivas zonas de protecção e ainda em imóveis não classificados mas de interesse arqueológico carece de autorização prévia do Ministro da Cultura, ouvidos, obrigatoriamente, os órgãos consultivos competentes.\n\n2 - O Ministério da Cultura poderá mandar inspeccionar os trabalhos arqueológicos e ordenar a sua suspensão quando os mesmos não obedeçam a critérios científicos ou não estejam a ser cumpridas as condições eventualmente fixadas."
+  },
+  "871760178": {
+   "fragment_id": "871759741",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\n1 - Quem tiver encontrado ou encontrar em terreno público ou particular, incluindo em meio submerso, quaisquer testemunhos arqueológicos fica obrigado a dar imediato conhecimento à autoridade local, que, por sua vez, informará de imediato o Ministério da Cultura, a fim de serem tomadas as providências convenientes.\n\n2 - A autoridade local assegurará a salvaguarda desses testemunhos, nomeadamente recorrendo a entidades científicas de reconhecida idoneidade que efectuem estudos na região, sem prejuízo da imediata comunicação ao Ministério da Cultura."
+  },
+  "871760179": {
+   "fragment_id": "871759742",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\n1 - Em qualquer lugar onde se presuma a existência de monumentos, conjuntos ou sítios arqueológicos poderá ser estabelecida, com carácter preventivo e temporário, pelo Ministério da Cultura uma reserva arqueológica de protecção, por forma a garantir-se a execução de trabalhos de emergência, com vista a determinar o seu interesse.\n\n2 - Dada a riqueza arqueológica do subsolo de muitas áreas urbanas, o Ministério da Cultura promoverá a publicação de legislação cautelar específica que contemple as diversas situações.\n\n3 - Qualquer particular que se prove ter sido directamente prejudicado por efeito do disposto no n.º 1 poderá requerer indemnização à entidade responsável pelo estabelecimento da reserva arqueológica."
+  },
+  "871760180": {
+   "fragment_id": "871759743",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\n1 - O Ministério da Cultura deverá determinar que a realização de trabalhos em qualquer zona onde se presuma a existência de monumentos ou sítios arqueológicos seja acompanhada por técnicos especializados.\n\n2 - No caso de grandes empreendimentos públicos ou privados que envolvam significativa transformação da topografia ou paisagem, bem como do leito ou subsolo de águas interiores ou territoriais, deverão obrigatoriamente prever-se os meios orçamentais necessários para a realização dos trabalhos de prospecção e eventuais salvamentos que, na sequência de projectos específicos aprovados pelos serviços competentes do Ministério da Cultura, se julguem necessários."
+  },
+  "871760181": {
+   "fragment_id": "871759744",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\n1 - O Ministério da Cultura organizará anualmente um plano de trabalhos arqueológicos, com preferência dos sítios, monumentos e estações de maior importância que corram perigo de destruição ou de cujo estudo se espere recolher mais elementos úteis à ciência arqueológica.\n\n2 - Na elaboração desse plano deverá ser fundamentalmente observado o seguinte:\n\na) Definição clara e precisa das obrigações do responsável científico pelos trabalhos;\n\nb) Conservação dos sítios, monumentos, estações e espólio recuperado;\n\nc) Publicação dos resultados;\n\nd) Limites da propriedade científica;\n\ne) Afectação dos espólios recuperados.\n\n3 - A concessão de autorizações a um mesmo responsável para continuação ou início de trabalhos arqueológicos deverá assentar nos seguintes critérios:\n\na) Anterior cumprimento das obrigações fixadas;\n\nb) Número e importância dos sítios, monumentos e estações em que o responsável já esteja autorizado a realizar trabalhos;\n\nc) Equilíbrio necessário entre a execução de novos trabalhos de campo e a publicação de resultados anteriores."
+  },
+  "871760182": {
+   "fragment_id": "871759745",
+   "type": 5,
+   "heading": "Subtítulo II — Dos bens imateriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Subtítulo II — Dos bens imateriais"
+  },
+  "871760183": {
+   "fragment_id": "871759746",
+   "type": 11,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\n1 - Com o objectivo de protecção do património imaterial, deverá o Estado:\n\na) Promover o respeito dos valores gerais da cultura e a defesa de identidade e memória colectiva portuguesa, protegendo, em particular, os valores da integridade, verdade e autoria das obras do engenho humano de todas as criações culturais, sejam quais forem as formas e meios por que se manifestem e corporizem;\n\nb) Prosseguir a protecção dos valores linguísticos nacionais, preservando a unidade, a autonomia e o rigor ortográfico da língua portuguesa;\n\nc) Assegurar a defesa dos valores culturais, etnológicos e etnográficos da língua portuguesa;\n\nd) Apoiar a revitalização e a conservação das tradições culturais populares em vias de desaparecimento;\n\ne) Promover a recolha, conservação e fruição popular do património fotográfico, fílmico, fonográfico, bem como de outros domínios do património imaterial.\n\n2 - As manifestações da tradição cultural portuguesa que não se encontrem materializadas serão objecto de registo gráfico e áudio-visual para efeitos de preservação e divulgação:\n\na) Para a sua conservação existirão arquivos regionais ou nacionais;\n\nb) Enquanto não forem criados novos arquivos, o Estado deverá encontrar soluções de aproveitamento local das estruturas adequadas."
+  },
+  "871760184": {
+   "fragment_id": "871759747",
+   "type": 13,
+   "heading": "Título III — Do fomento da conservação e valorização do património cultural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título III — Do fomento da conservação e valorização do património cultural"
+  },
+  "871760185": {
+   "fragment_id": "871759748",
+   "type": 11,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\n1 - A protecção, conservação, valorização e revitalização do património cultural deverão ser consideradas obrigatórias no ordenamento do território e na planificação a nível nacional, regional e local.\n\n2 - O Governo promoverá acções concertadas entre os serviços públicos, especialmente através dos serviços regionais, e privados com vista à implementação e aplicação de uma política activa de levantamento, estudo, conservação e integração do património cultural na vida colectiva.\n\n3 - Medidas de carácter preventivo e correctivo deverão ser completadas com outras que visem dar a cada um dos bens culturais uma função que os insira adequadamente na vida social, económica, científica e cultural compatível com o seu carácter específico.\n\n4 - As acções de levantamento, estudo, protecção, conservação, valorização e revitalização do património cultural deverão adequar-se ao progresso científico e técnico comprovado nas disciplinas implicadas.\n\n5 - O Governo promoverá acções de formação de técnicos, investigadores, artífices e outro pessoal especializado, procurando, sempre que possível, compatibilizar o progresso científico e técnico com as tecnologias tradicionais que fazem parte da herança cultural portuguesa."
+  },
+  "871760186": {
+   "fragment_id": "871759749",
+   "type": 11,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\n1 - Os órgãos da administração central, regional e local deverão consignar nos seus orçamentos uma percentagem de fundos proporcional à importância dos bens que integram o património cultural sob a sua responsabilidade e de acordo com os planos de actividade previamente estabelecidos, com o objectivo de ocorrer à protecção, conservação, estudo, valorização e revitalização desses bens, e participar financeiramente, quando for caso disso, nos trabalhos realizados nos mesmos pelos seus proprietários, quer sejam públicos ou privados.\n\n2 - As despesas respeitantes à salvaguarda de bens culturais postos em perigo pela execução de obras do sector público, incluindo trabalhos arqueológicos preliminares, serão suportadas pelas entidades promotoras do respectivo projecto, as quais deverão, para o efeito, considerar nos orçamentos a previsão desses encargos.\n\n3 - Tratando-se de obras de iniciativa privada, os encargos poderão ser suportados, em comparticipação, pelas entidades promotoras do projecto e pelas entidades directamente interessadas na salvaguarda desse património."
+  },
+  "871760187": {
+   "fragment_id": "871759750",
+   "type": 11,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\n1 - O Governo promoverá o estabelecimento de regimes fiscais apropriados à mais adequada salvaguarda e ao estímulo à defesa do património cultural nacional que se encontra na posse de particulares.\n\n2 - O regime fiscal especial dos bens classificados do património cultural compreenderá desde logo:\n\na) A isenção do imposto da sisa e da contribuição predial, exceptuando-se apenas os imóveis arrendados, pela parte correspondente a esse arrendamento;\n\nb) Dedução, para efeitos do imposto complementar, até 20% do rendimento global, das despesas de conservação, recuperação, restauro e valorização dos bens classificados e dos juros das dívidas contraídas para aquisição ou conservação de bens imóveis classificados;\n\nc) Redução a um terço do valor matricial dos imóveis classificados para fins de liquidação do imposto sobre as sucessões e doações e isenção do imposto sucessório em relação às transmissões mortis causa de bens classificados, desde que esses bens revertam para o Estado ou para a autarquia local à data da morte do primeiro herdeiro ou legatário;\n\nd) O abatimento à matéria colectável em imposto complementar do proprietário ou detentor do imóvel, considerando-se também para esse fim e como despesa os juros e as amortizações de empréstimos concedidos para os efeitos do n.º 1 do artigo 47.º\n\n3 - São considerados custos, para efeitos de contribuição industrial, ou abatidos à matéria colectável do imposto complementar, secções A e B, os gastos efectuados por empresas ou entidades privadas em qualquer dos sectores a seguir designados quando os respectivos bens estejam classificados pelo Estado e os seus titulares se submetam aos respectivos condicionalismos sobre formação, defesa e acesso:\n\na) Formação de museus e colecções de bens classificados pelo Estado;\n\nb) Obras de pesquisa, formação, restauro, conservação, defesa ou acesso de bens imóveis classificados pelo Estado ou museus, bem como doações ou donativos para o efeito;\n\nc) Juros e amortizações de empréstimos contraídos para a realização de despesas a seu cargo para a conservação, manutenção, defesa e acesso de bens imóveis classificados pelo Estado.\n\n4 - O Estado poderá aceitar, nos termos e dentro dos limites a fixar pela lei, a doação em pagamento de bens classificados para pagamento de dívidas de imposto sucessório ou outros impostos.\n\n5 - A violação dos condicionalismos estabelecidos pelo Ministério da Cultura, nos termos dos números anteriores, em vista de mais adequada defesa do património, implicará a sujeição aos impostos correspondentes no triplo das respectivas taxas ou volume de matéria tributária beneficiada."
+  },
+  "871760188": {
+   "fragment_id": "871759751",
+   "type": 11,
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\n1 - O Governo promoverá o apoio financeiro ou a possibilidade de recurso a formas especiais de crédito para obras e para aquisições, nos termos dos n.os 2 e 3 do artigo 15.º e 2 do artigo 17.º, em condições favoráveis, a proprietários privados, com a condição de estes procederem a trabalhos de protecção, conservação, valorização e revitalização dos seus bens imobiliários, de acordo com as normas estabelecidas sobre a matéria e orientação dos serviços competentes.\n\n2 - Os benefícios financeiros referidos no número anterior poderão ser subordinados a especiais condições e garantias de utilização pública, a que ficarão sujeitos os bens em causa, em termos a fixar, caso a caso, pelo Ministério da Cultura."
+  },
+  "871760189": {
+   "fragment_id": "871759752",
+   "type": 11,
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\nOs arrendamentos dos imóveis classificados serão sujeitos a regime especial, de modo a evitar a sua degradação e contribuir para a sua preservação."
+  },
+  "871760190": {
+   "fragment_id": "871759753",
+   "type": 11,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\n1 - O Governo empreenderá e apoiará acções educativas capazes de fomentar o interesse e respeito público pelo património cultural, como testemunho de uma memória colectiva definidora da identidade nacional.\n\n2 - Serão tomadas medidas adequadas à promoção e realce do valor cultural e educativo do património cultural, como motivação fundamental da sua protecção, conservação, revalorização e fruição, sem deixar de ter em conta o valor sócio-económico desse mesmo património, na sua qualidade de recurso activo numa dinâmica de desenvolvimento do País.\n\n3 - O Governo facilitará e estimulará a criação de organizações voluntárias destinadas a apoiar as autoridades nacionais e locais no exercício pleno dos seus poderes e objectivos de salvaguarda e vitalização em matéria de protecção do património cultural, sob formas a regulamentar posteriormente.\n\n4 - Serão asseguradas as modalidades de informação e de exposição destinadas a explicar e divulgar as acções projectadas, em curso ou realizadas no campo do estudo e da salvaguarda do património cultural, designadamente a promoção da publicação de inventários do património cultural."
+  },
+  "871760191": {
+   "fragment_id": "871759754",
+   "type": 11,
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\n1 - O Estado Português colaborará com outros Estados, com organizações internacionais e de outros países, intergovernamentais e não governamentais, no domínio da protecção, conservação, valorização, estudo e divulgação do património cultural.\n\n2 - A cooperação referida no número anterior concretizar-se-á, designadamente, através do intercâmbio de informações, publicações, meios humanos e técnicos, bem como através da assinatura de acordos culturais."
+  },
+  "871760192": {
+   "fragment_id": "871759755",
+   "type": 13,
+   "heading": "Título IV — Das garantias e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título IV — Das garantias e sanções"
+  },
+  "871760193": {
+   "fragment_id": "871759756",
+   "type": 11,
+   "heading": "Artigo 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º\n\nOs atentados contra o património cultural e as infracções ao disposto neste diploma serão sancionados de acordo com a lei geral, com o que for especialmente disposto na lei penal, com as penalidades ou demais consequências previstas nos artigos anteriores do presente diploma e ainda o disposto nos artigos seguintes."
+  },
+  "871760194": {
+   "fragment_id": "871759757",
+   "type": 11,
+   "heading": "Artigo 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º\n\nAs infracções ou falta de cumprimento das disposições deste diploma no que respeita a bens culturais classificados ou em vias de classificação serão julgadas pelos tribunais comuns e consideradas como prejuízos causados voluntariamente ao Estado, sendo o furto, o roubo e o dano de bens culturais especialmente qualificados nos termos do Código Penal."
+  },
+  "871760195": {
+   "fragment_id": "871759758",
+   "type": 11,
+   "heading": "Artigo 53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º\n\n1 - Além de outras penalidades porventura previstas, a infracção das obrigações de carácter administrativo, nomeadamente nos casos em que é necessária a obtenção de autorização do Ministério da Cultura, implicará a aplicação de uma multa, a determinar entre o mínimo de 30000$00 e o valor correspondente ao dobro do bem em causa, consoante o prejuízo que da infracção tenha resultado para o património cultural português.\n\n2 - Quando tiverem sido executadas obras ou demolições em imóveis classificados ou em vias de classificação sem prévia autorização do Ministério da Cultura, o promotor, o mestre-de-obras e o técnico director das mesmas serão solidariamente responsáveis com o respectivo proprietário pelas multas devidas."
+  },
+  "871760196": {
+   "fragment_id": "871759759",
+   "type": 11,
+   "heading": "Artigo 54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º\n\nSempre que o proprietário de um bem cultural se oponha à sua classificação, poderá determinar-se a expropriação desse bem, indemnizando o proprietário nos termos da lei geral."
+  },
+  "871760197": {
+   "fragment_id": "871759760",
+   "type": 11,
+   "heading": "Artigo 55.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º\n\nSão anuláveis, a solicitação do Ministro da Cultura, durante o prazo de um ano, as alienações de bens classificados ou em vias de classificação feitas sem a comunicação a que se refere o n.º 1 do artigo 17.º"
+  },
+  "871760198": {
+   "fragment_id": "871759761",
+   "type": 11,
+   "heading": "Artigo 56.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º\n\n1 - O não cumprimento do disposto no n.º 1 do artigo 39.º importará na apreensão dos bens móveis cujo achado não tenha sido declarado.\n\n2 - A realização de trabalhos arqueológicos não autorizados pelo Ministério da Cultura será imediatamente suspensa, sendo confiscado o espólio eventualmente recolhido, e, no caso de os responsáveis terem sido autorizados a realizar escavações noutros locais, as respectivas licenças serão anuladas."
+  },
+  "871760199": {
+   "fragment_id": "871759762",
+   "type": 11,
+   "heading": "Artigo 57.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º\n\nSempre que as câmaras municipais, devidamente alertadas, não procedam ao embargo administrativo de obras realizadas contra o disposto no presente diploma, o Ministro da Cultura pode, nomeadamente através dos serviços regionais, promover o seu embargo judicial."
+  },
+  "871760200": {
+   "fragment_id": "871759763",
+   "type": 11,
+   "heading": "Artigo 58.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º\n\nOs funcionários ou agentes públicos do Estado, das regiões autónomas e das autarquias serão responsabilizados civil, administrativa e criminalmente pelos prejuízos comprovadamente verificados em bens classificados decorrentes de acto ou omissão que lhes seja directamente imputável."
+  },
+  "871760201": {
+   "fragment_id": "871759764",
+   "type": 11,
+   "heading": "Artigo 59.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º\n\nQualquer cidadão no gozo dos seus direitos civis, bem como qualquer ADP legalmente constituída, tem, nos casos e nos termos definidos na lei, o direito de acção popular de defesa do património cultural."
+  },
+  "871760202": {
+   "fragment_id": "871759765",
+   "type": 13,
+   "heading": "Título V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título V — Disposições finais"
+  },
+  "871760203": {
+   "fragment_id": "871759766",
+   "type": 11,
+   "heading": "Artigo 60.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º\n\nMantêm-se em vigor todos os efeitos decorrentes de anteriores classificações de bens culturais imóveis, independentemente da revisão das classificações a que o Ministério da Cultura procederá nos termos do presente diploma."
+  },
+  "871760204": {
+   "fragment_id": "871759767",
+   "type": 11,
+   "heading": "Artigo 61.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º\n\nO Governo promoverá a publicação, no prazo de 180 dias, dos decretos-leis de desenvolvimento indispensáveis.\n\n2 - Os preceitos que respeitem às condições específicas das regiões autónomas serão elaborados pelas assembleias regionais respectivas."
+  },
+  "871760205": {
+   "fragment_id": "871759768",
+   "type": 11,
+   "heading": "Artigo 62.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º\n\nFica revogada toda a legislação que contrarie o disposto no presente diploma."
+  }
+ }
+}

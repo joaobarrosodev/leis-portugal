@@ -1,0 +1,1718 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009R1010:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R1010-20260110",
+ "dre_path": null,
+ "source_lastmod": "2026-01-10",
+ "versions": [
+  {
+   "date": "2009-10-27",
+   "future": false,
+   "celex": "32009R1010",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "820d9ed53432474b",
+    "ffc348f463b781ad",
+    "f23d5bd9ff04bfb5",
+    "226c39ffd0a88dad",
+    "0f1ef29e24bccf9a",
+    "6bffc409e0afc2a6",
+    "fe539caa80e958d7",
+    "a01b968ba930eeaf",
+    "f0f8c960bfdbce9b",
+    "d486833ca0c86a4d",
+    "b12e2a5913dda67d",
+    "e8905f988daa7736",
+    "4c8bdeab3d91ec7d",
+    "042a09b07010bfca",
+    "226c39ffd0a88dad",
+    "31d2521451d0d660",
+    "64eb5ff872f217fc",
+    "3557f26279c567d4",
+    "0cb2d621a7576236",
+    "f0f8c960bfdbce9b",
+    "7b10e6c2d353ff3b",
+    "3869c2effa545d25",
+    "5f01861d2f92f54e",
+    "6a080654f31b02b8",
+    "f6660f44f74917ac",
+    "fd0224cde7200b39",
+    "85132c0a3e79d276",
+    "416f81ef7d73d96f",
+    "18e5b2282eff7afa",
+    "f4e502154fd9afae",
+    "224ae03159dcafcc",
+    "ead0b5cdee4545d2",
+    "b426821733183e1b",
+    "654ccfaa88f87bb7",
+    "7bd3da0254e4f4e6",
+    "e91043d7146f7943",
+    "d3c47fa9a73f9222",
+    "ff02f646b315117d",
+    "b5d7193d82983e30",
+    "8097b6936a0aea6f",
+    "37d289a6ded484c2",
+    "744a62350cf0c0fd",
+    "4b6f17975a60d6b9",
+    "e1021d0fb76ca7f1",
+    "8fb53dc09ef4b323",
+    "d505aee09f0e45d2",
+    "641bcedb1f4c6477",
+    "6e0ee35c97f3db15",
+    "2dfd7fb95016cde8",
+    "65596921817a7239",
+    "6b50f1e0d1ff625f",
+    "3113c40917a10243",
+    "8aabd709904527f9",
+    "9122245fbb0f30ad",
+    "1d7ddaf6f30a2cfb",
+    "1e7a0903d2eed348",
+    "340ebce4237c46db",
+    "c8f3309d8b072457",
+    "65a8374019362198",
+    "1ecfc79da3f1ac7f",
+    "4eb82d49285165f3",
+    "a6a14215eea1c628",
+    "9db704600627e53c",
+    "302ce09bbcc3dd81",
+    "1b2cd7f47d2c58d6",
+    "662cf62f00c33127",
+    "d60fa07135ac2156",
+    "226c39ffd0a88dad",
+    "7fabed8a0a46afb5",
+    "bad7ba6f15eb7689",
+    "550bfcf1c71d4c74",
+    "63d5ff4974c656dd",
+    "52315be1cc6ddb8e",
+    "6cd0cad564a5eba7",
+    "68c8783774d4b8ab",
+    "f0f8c960bfdbce9b",
+    "72c9b5e16d938389",
+    "108bd38d71379c37",
+    "1e7a0903d2eed348",
+    "b1680ffe4a644c5b",
+    "7fa7edebc7fc9e98",
+    "28fd3b467f043a36",
+    "deddfad419306794",
+    "06b3f56cac6f233f",
+    "ae0ec2ea843a809b",
+    "8d9cc5fcfd4ee0d9",
+    "1288d8046619cda9",
+    "1ecfc79da3f1ac7f",
+    "9de9463d25d5cff1",
+    "de91dfa7595aa2ab",
+    "057c9206599bd039",
+    "40ed6b62e188ac6f",
+    "453608160528a627",
+    "36ebec5636d0e17d",
+    "b76d202a844f758e",
+    "804cfe2bc5a8770c",
+    "e4597a749189746e",
+    "4f8efffddfe96470",
+    "632819b1ca40e1b1",
+    "7c17e76713683573",
+    "fd1f6efdb97a73cb",
+    "dde9cf53e9ae6c9a",
+    "c5f2bd77c7b0e7ce",
+    "499205a49c4a614d"
+   ]
+  },
+  {
+   "date": "2026-01-10",
+   "future": false,
+   "celex": "02009R1010-20260110",
+   "acts": [
+    {
+     "id": "eu:celex:32010R0086:por",
+     "title": "M1",
+     "published": null,
+     "celex": "32010R0086"
+    },
+    {
+     "id": "eu:celex:32010R0395:por",
+     "title": "M2",
+     "published": null,
+     "celex": "32010R0395"
+    },
+    {
+     "id": "eu:celex:32011R0202:por",
+     "title": "REGULAMENTO (UE) N. o 202/2011 DA COMISSÃO de 1 de Março de 2011",
+     "published": null,
+     "celex": "32011R0202"
+    },
+    {
+     "id": "eu:celex:32011R1222:por",
+     "title": "M4",
+     "published": null,
+     "celex": "32011R1222"
+    },
+    {
+     "id": "eu:celex:32013R0336:por",
+     "title": "M5",
+     "published": null,
+     "celex": "32013R0336"
+    },
+    {
+     "id": "eu:celex:32013R0865:por",
+     "title": "M6",
+     "published": null,
+     "celex": "32013R0865"
+    },
+    {
+     "id": "eu:celex:32020R0423:por",
+     "title": "M7",
+     "published": null,
+     "celex": "32020R0423"
+    },
+    {
+     "id": "eu:celex:32025R1522:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2025/1522 DA COMISSÃO de 28 de julho de 2025",
+     "published": null,
+     "celex": "32025R1522"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Formulário de notificação prévia",
+    "Altera Artigo 7.º — Reconhecimento dos regimes de documentação das capturas das ORGP",
+    "Altera Artigo 9.º — Disposições gerais",
+    "Altera Artigo 12.º — Gestão dos registos",
+    "Altera Artigo 32.º — Obrigações de comunicação e de avaliação",
+    "Altera Artigo 40.º — Medidas de seguimento",
+    "Altera Artigo 41.º — Comunicação de informações sem pedido prévio",
+    "Altera Artigo 43.º — Exigências gerais",
+    "Altera Artigo 45.º — Pedidos de informações",
+    "Altera Artigo 46.º — Pedidos de medidas executórias",
+    "Altera Artigo 49.º — Comunicação entre os Estados-Membros e a Comissão",
+    "Altera Artigo 50.º — Coordenação pela Comissão",
+    "Altera Artigo 51.º — Intercâmbio de informações com países terceiros",
+    "Altera Artigo 54.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita Artigo 4.º — Indicadores para as inspeções portuárias",
+    "Adita Artigo 6.º-A — CAPTURAS",
+    "Adita Controlos e verificações",
+    "Adita Artigo 31.º — Critérios de verificação da União",
+    "Adita Artigo 36.º — Proteção e tratamento dos dados pessoais",
+    "Adita Artigo 37.º — Utilização das informações e proteção do sigilo profissional e comercial",
+    "Adita ANEXO I",
+    "Adita Período de notificação prévia para certos tipos de produtos da pesca, referidos no artigo 1.º",
+    "Adita Período de notificação prévia de 4 horas",
+    "Adita ANEXO II",
+    "Adita Formulário para a notificação prévia pelos navios de pesca de países terceiros, referido no artigo 2.º",
+    "Adita Identificação do navio:",
+    "Adita Porto de escala previsto:",
+    "Adita Autorização de pesca:",
+    "Adita Datas:",
+    "Adita Quantidades de cada espécie mantidas a bordo (ou, na ausência de capturas, comunicação “zero”)",
+    "Adita ANEXO III-A",
+    "Adita Formulário para a declaração a apresentar antes do desembarque, referido no artigo 3.º, n.º 1",
+    "Adita ANEXO III-B",
+    "Adita Formulário para a declaração a apresentar antes do transbordo, referido no artigo 3.º, n.º 2",
+    "Adita (exigido ao navio que transborda e ao navio que recebe o pescado)",
+    "Adita ANEXO IV",
+    "Adita CERTIFICADO DE CAPTURA DA COMUNIDADE EUROPEIA",
+    "Adita Formulário simplificado para os produtos da pesca que satisfazem as exigências do artigo 6.º do presente regulamento",
+    "Adita Apêndice",
+    "Adita Informações relativas ao transporte",
+    "Adita ANEXO V",
+    "Adita Regimes de documentação das capturas adotados por organizações regionais de gestão das pescas e reconhecidos como cumprindo as exigências do Regulamento (CE) n.º 1005/2008",
+    "Adita ANEXO VI",
+    "Adita Prazos de apresentação dos certificados de captura de remessas referidas no artigo 8.º",
+    "Adita Prazo de 4 horas antes da entrada na Comunidade para apresentação do certificado de captura",
+    "Adita Prazo de 2 horas antes da entrada na Comunidade para apresentação do certificado de captura",
+    "Adita ANEXO VII",
+    "Adita ANEXO VIII",
+    "Adita ANEXO X-A",
+    "Adita Formulário para a transmissão de informações relativas a navios de pesca avistados",
+    "Adita ANEXO X-B",
+    "Adita Instruções de preenchimento do formulário previsto no anexo X-A",
+    "Adita PREENCHER TANTAS INFORMAÇÕES QUANTO POSSÍVEL",
+    "Adita ANEXO XI",
+    "Adita Formulário-tipo para o intercâmbio de informações a pedido, em conformidade com o artigo 45.º",
+    "Adita ANEXO XII",
+    "Adita Formulário-tipo para um pedido de notificação administrativa em conformidade com o artigo 48.º",
+    "Suprime Artigo 4.º — Indicadores para as inspecções portuárias",
+    "Suprime Verificações relacionadas com os certificados de captura",
+    "Suprime Artigo 31.º — Critérios de verificação comunitários",
+    "Suprime Artigo 33.º — Cooperação administrativa com países terceiros em relação aos certificados de captura",
+    "Suprime Artigo 36.º — Protecção dos dados pessoais",
+    "Suprime Artigo 37.º — Utilização das informações e protecção do sigilo profissional e comercial"
+   ],
+   "fragments": [
+    "029dd6b67f10af96",
+    "ffc348f463b781ad",
+    "f23d5bd9ff04bfb5",
+    "226c39ffd0a88dad",
+    "0f1ef29e24bccf9a",
+    "6bffc409e0afc2a6",
+    "59212793c6699e88",
+    "b423ffc07ba761cc",
+    "f0f8c960bfdbce9b",
+    "d486833ca0c86a4d",
+    "e24fff159115cb45",
+    "e8905f988daa7736",
+    "4c8bdeab3d91ec7d",
+    "042a09b07010bfca",
+    "226c39ffd0a88dad",
+    "31d2521451d0d660",
+    "9ed9b77e84120191",
+    "e868d2ea0563af4a",
+    "c5b71c9f2f9bbccd",
+    "0cb2d621a7576236",
+    "f0f8c960bfdbce9b",
+    "7b10e6c2d353ff3b",
+    "3869c2effa545d25",
+    "5f01861d2f92f54e",
+    "3266d0899e039c24",
+    "f6660f44f74917ac",
+    "23a8022f1b96075a",
+    "57c318038464892b",
+    "416f81ef7d73d96f",
+    "18e5b2282eff7afa",
+    "f4e502154fd9afae",
+    "224ae03159dcafcc",
+    "ead0b5cdee4545d2",
+    "b426821733183e1b",
+    "654ccfaa88f87bb7",
+    "4e86ca61e5850140",
+    "e91043d7146f7943",
+    "d3c47fa9a73f9222",
+    "ff02f646b315117d",
+    "b5d7193d82983e30",
+    "8097b6936a0aea6f",
+    "37d289a6ded484c2",
+    "744a62350cf0c0fd",
+    "4b6f17975a60d6b9",
+    "aa662b76798f22a7",
+    "6972b1e547a6378b",
+    "d505aee09f0e45d2",
+    "641bcedb1f4c6477",
+    "6e0ee35c97f3db15",
+    "2dfd7fb95016cde8",
+    "dc304d0e0ff9ec32",
+    "6b50f1e0d1ff625f",
+    "3113c40917a10243",
+    "8aabd709904527f9",
+    "11cb901393cb82f8",
+    "1d7ddaf6f30a2cfb",
+    "1e7a0903d2eed348",
+    "d4a64fe1d9e80d4a",
+    "be71227627a52420",
+    "33739f76f4086a0a",
+    "1ecfc79da3f1ac7f",
+    "4eb82d49285165f3",
+    "9db704600627e53c",
+    "302ce09bbcc3dd81",
+    "1b2cd7f47d2c58d6",
+    "662cf62f00c33127",
+    "d60fa07135ac2156",
+    "226c39ffd0a88dad",
+    "7fabed8a0a46afb5",
+    "bad7ba6f15eb7689",
+    "f79fb945852f9b61",
+    "542432681e87c1dd",
+    "52315be1cc6ddb8e",
+    "6cd0cad564a5eba7",
+    "fc936d3ffec5e5f0",
+    "f0f8c960bfdbce9b",
+    "72c9b5e16d938389",
+    "0f0f9e274eadf8fa",
+    "1e7a0903d2eed348",
+    "b1680ffe4a644c5b",
+    "7fa7edebc7fc9e98",
+    "d4f2eedd40d6ae37",
+    "deddfad419306794",
+    "67624d09980ddbc9",
+    "9ba88475e39fe9a9",
+    "8d9cc5fcfd4ee0d9",
+    "1288d8046619cda9",
+    "1ecfc79da3f1ac7f",
+    "9de9463d25d5cff1",
+    "6e364e5973710e88",
+    "c23a388a30398a1e",
+    "40ed6b62e188ac6f",
+    "453608160528a627",
+    "cc564a620d5dab10",
+    "b76d202a844f758e",
+    "804cfe2bc5a8770c",
+    "e4597a749189746e",
+    "4f8efffddfe96470",
+    "632819b1ca40e1b1",
+    "7c17e76713683573",
+    "fd1f6efdb97a73cb",
+    "dde9cf53e9ae6c9a",
+    "a7a8229e250fe9e0",
+    "d664376e2a8dcecd",
+    "4c9d38de919fbb82",
+    "ba65d6c73db439fc",
+    "852174729551523b",
+    "39a0aa31e4668f62",
+    "c67ed466e4fc66ca",
+    "7900dafbf8fce6a2",
+    "65ef4eac74178778",
+    "b0845a0f3549dbb5",
+    "2da9f74390a15b39",
+    "65cdf3c6401dd218",
+    "a82f04932795d2c8",
+    "6397bed7e9b3ccc2",
+    "e28250db8d03471a",
+    "c164e5e239699f72",
+    "e03a0eb4d5b2eef3",
+    "69b5705e850f8cc8",
+    "8d83470a87b00d9a",
+    "ae333fc2d57e1e38",
+    "0a0b0d97632c3e23",
+    "64610ae29a6cb67c",
+    "189e678e5144bb1d",
+    "90c7d2baf4d44ee2",
+    "cccd60c330ea5f15",
+    "dc6ce4c0a598364b",
+    "d716b5d3576b93fb",
+    "13230cb8f4ba09bc",
+    "f3764f2ef308a116",
+    "2d501754dbac8b6d",
+    "f41483e4159646da",
+    "8670a0dea6064b08",
+    "c04e89ec0a9b4692",
+    "1f876995aed9db0f",
+    "68f3ab9d916a468e",
+    "347fa34d45987b5d",
+    "0798bb675b7dc627",
+    "39eb8fae8947a464",
+    "b29c51bdb54df137",
+    "58f360a0ce71eab8"
+   ]
+  }
+ ],
+ "fragments": {
+  "820d9ed53432474b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Outubro de 2009\n\nque determina as normas de execução do Regulamento (CE) n.º 1005/2008 do Conselho, que estabelece um regime comunitário para prevenir, impedir e eliminar a pesca ilegal, não declarada e não regulamentada\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1005/2008 do Conselho, de 29 de Setembro de 2008, que estabelece um regime comunitário para prevenir, impedir e eliminar a pesca ilegal, não declarada e não regulamentada [([^1])](http://publications.europa.eu/resource/cellar/d8563a9b-abcc-4b32-9856-4cfed444749c.0018.03/DOC_1#ntr1-L_2009280PT.01000501-E0001), nomeadamente o artigo 6.º, n.º 3, o artigo 8.º, n.º 3, o artigo 9.º, n.º 1, o artigo 12.º, n.^os^ 4 e 5, o artigo 13.º, n.º 1, o artigo 16.º, n.^os^ 1 e 3, o artigo 17.º, n.º 3, o artigo 20.º, n.º 4, o artigo 49.º, n.º 1, e o artigo 52.º,\n\nApós consulta da Autoridade Europeia para a Protecção de Dados,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.º 1005/2008 prevê a adopção de normas e medidas de execução das suas disposições.\n\n(2) Em conformidade com o artigo 6.º, n.º 3, e o artigo 16.º, n.º 1, do Regulamento (CE) n.º 1005/2008, o prazo estabelecido para a notificação prévia de desembarques ou transbordos no porto e para a apresentação dos certificados de captura, de pelo menos três dias úteis antes da hora prevista de chegada ao local de entrada no território da Comunidade, pode ser adaptado em função de determinados factores, nomeadamente: o tipo de produto da pesca, a distância entre os pesqueiros, os locais de desembarque e os portos em que os navios em causa estão registados ou recenseados, a distância ao local de entrada no território da Comunidade ou o meio de transporte utilizado. Para os produtos da pesca frescos ou as remessas encaminhadas por via aérea, rodoviária ou ferroviária, deverá ser previsto um prazo inferior a três dias úteis.\n\n(3) Deve ser garantida a coerência entre os documentos transmitidos para fins da notificação prévia de desembarque ou transbordo, as declarações de desembarque ou transbordo e os relatórios de avistamento. Por essa razão, devem ser estabelecidos modelos desses documentos, em conformidade com o artigo 6.º, n.º 1, o artigo 8.º, n.º 3, e o artigo 49.º, n.º 1, do Regulamento (CE) n.º 1005/2008.\n\n(4) Nos termos do artigo 9.º, n.º 1, e do artigo 17.º, n.º 3, do Regulamento (CE) n.º 1005/2008, os Estados-Membros devem inspeccionar nos seus portos pelo menos 5 % das operações de desembarque e transbordo efectuadas por navios de pesca de países terceiros e realizar todas as verificações que considerem necessárias para assegurar a correcta aplicação do disposto no regulamento, de acordo com indicadores determinados com base na gestão do risco e em critérios nacionais ou comunitários de gestão do risco. É conveniente estabelecer critérios comuns de gestão do risco para as actividades de controlo, inspecção e verificação, de modo a que se possa proceder oportunamente a análises de risco e avaliações globais das informações de controlo pertinentes. Os critérios comuns visam garantir uma abordagem harmonizada da inspecção e verificação em todos os Estados-Membros e a igualdade de condições para todos os operadores.\n\n(5) O artigo 52.º do Regulamento (CE) n.º 1005/2008 estabelece que as medidas necessárias à sua execução são aprovadas em conformidade com o procedimento de Comité. Atendendo a que a Comunidade deve ter em conta eventuais limitações de capacidade para a correcta execução do regime de certificação, é considerado necessário adaptar o regime em relação a certos produtos da pesca capturados por pequenas embarcações de pesca, introduzindo a possibilidade de um certificado de captura simplificado. Na ausência de uma definição geral da pequena pesca, devem ser estabelecidos determinados critérios específicos mediante os quais um exportador poderá solicitar a validação de um certificado de captura simplificado. Esses critérios devem tomar em consideração, em primeiro lugar, a capacidade limitada das embarcações de pesca em causa, perante a qual a obrigação de aplicar o regime normalizado de certificação das capturas constituiria um ónus desproporcionado.\n\n(6) O artigo 13.º, n.º 1, do Regulamento (CE) n.º 1005/2008 prevê o reconhecimento de regimes de documentação das capturas adoptados e em vigor no âmbito das organizações regionais de gestão das pescas (a seguir designadas por «ORGP»), desde que reconhecidos como satisfazendo as exigências enunciadas no regulamento. Alguns desses regimes podem ser reconhecidos como satisfazendo as exigências enunciadas no Regulamento (CE) n.º 1005/2008, enquanto outros devem ser sujeitos a exigências adicionais.\n\n(7) Os operadores económicos que reúnam as condições para obter o estatuto de operador económico aprovado deverão poder beneficiar de um procedimento simplificado para a importação de produtos da pesca para o território da Comunidade. É necessário estabelecer condições comuns em todos os Estados-Membros para a concessão, alteração ou retirada dos certificados de operador económico aprovado ou para a suspensão ou revogação do estatuto de operador económico aprovado, bem como regras para os pedidos e a emissão dos certificados de operador económico aprovado.\n\n(8) O artigo 12.º, n.º 4, do Regulamento (CE) n.º 1005/2008 prevê uma cooperação administrativa entre a Comissão e os países terceiros em domínios relativos à execução das disposições em matéria de certificação das capturas. No âmbito do artigo 20.º, n.º 4, do Regulamento (CE) n.º 1005/2008, e de acordo com os Estados de pavilhão, o certificado de captura pode ser estabelecido, validado ou apresentado por via electrónica ou substituído por sistemas electrónicos de rastreabilidade que assegurem o mesmo nível de controlo pelas autoridades. Esses mecanismos de cooperação administrativa com os Estados de pavilhão devem ser regularmente actualizados e os Estados-Membros e o público em geral devem ser oportunamente informados.\n\n(9) Nos termos do artigo 51.º, n.º 2, do Regulamento (CE) n.º 1005/2008, é estabelecido um sistema de assistência mútua entre os Estados-Membros, os países terceiros e a Comissão. Essa cooperação administrativa é essencial para assegurar que o regime comunitário de certificação das capturas possa ser correctamente aplicado e que a pesca INN seja correctamente investigada e sancionada. É, pois, conveniente prever regras que permitam um intercâmbio sistemático de informações, tanto a pedido de uma das partes quanto de forma espontânea, bem como a possibilidade de solicitar a outro Estado-Membro que aplique medidas executórias ou proceda a uma notificação administrativa. Há que definir procedimentos para o intercâmbio de informações e para os pedidos de assistência. Estas disposições não podem, contudo, afectar a aplicação, nos Estados-Membros, das regras relativas à cooperação judiciária em matéria penal.\n\n(10) A protecção das pessoas singulares no que respeita ao tratamento dos seus dados pessoais por parte dos Estados-Membros é regida pela Directiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de Outubro de 1995, relativa à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados [([^2])](http://publications.europa.eu/resource/cellar/d8563a9b-abcc-4b32-9856-4cfed444749c.0018.03/DOC_1#ntr2-L_2009280PT.01000501-E0002). A protecção das pessoas singulares no que diz respeito ao tratamento dos seus dados pessoais pela Comissão é regida pelo Regulamento (CE) n.º 45/2001 do Parlamento Europeu e do Conselho, de 18 de Dezembro de 2000, relativo à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e pelos órgãos comunitários e à livre circulação desses dados [([^3])](http://publications.europa.eu/resource/cellar/d8563a9b-abcc-4b32-9856-4cfed444749c.0018.03/DOC_1#ntr3-L_2009280PT.01000501-E0003), nomeadamente nos domínios dos requisitos de confidencialidade e segurança do tratamento, da comunicação à Comissão de dados pessoais contidos nos sistemas nacionais dos Estados-Membros, da legalidade do tratamento e dos direitos das pessoas em causa à informação, acesso e rectificação dos seus dados pessoais.\n\n(11) O anexo I do Regulamento (CE) n.º 1005/2008, que enumera os produtos excluídos da definição de «produtos da pesca», pode ser revisto anualmente em conformidade com o artigo 12.º, n.º 5, e com base nas informações coligidas ao abrigo dos capítulos II, III, IV, V, VIII, X e XII. Por conseguinte, com base nas informações coligidas nos termos da cooperação prevista no artigo 20.º, n.º 4, o anexo I deve ser alterado em conformidade.\n\n(12) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão das Pescas e da Aquicultura,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "ffc348f463b781ad": {
+   "fragment_id": "TÍTULO I",
+   "type": "divisao",
+   "heading": "TÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I"
+  },
+  "f23d5bd9ff04bfb5": {
+   "fragment_id": "INSPECÇÕES DE NAVIOS DE PESCA DE PAÍSES TERCEIROS NOS PORTOS DOS ESTADOS-MEMBROS",
+   "type": "divisao",
+   "heading": "INSPECÇÕES DE NAVIOS DE PESCA DE PAÍSES TERCEIROS NOS PORTOS DOS ESTADOS-MEMBROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INSPECÇÕES DE NAVIOS DE PESCA DE PAÍSES TERCEIROS NOS PORTOS DOS ESTADOS-MEMBROS"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "0f1ef29e24bccf9a": {
+   "fragment_id": "Condições de acesso ao porto por navios de pesca de países terceiros",
+   "type": "divisao",
+   "heading": "Condições de acesso ao porto por navios de pesca de países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Condições de acesso ao porto por navios de pesca de países terceiros"
+  },
+  "6bffc409e0afc2a6": {
+   "fragment_id": "Artigo 1.º — Notificação prévia",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Notificação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Notificação prévia\n\nEm derrogação do artigo 6.º, n.º 1, do Regulamento (CE) n.º 1005/2008, os navios que desembarcam os tipos de produtos da pesca que constam do anexo I do presente regulamento ficam sujeitos a um período de notificação prévia de 4 horas."
+  },
+  "fe539caa80e958d7": {
+   "fragment_id": "Artigo 2.º — Formulário de notificação prévia",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Formulário de notificação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Formulário de notificação prévia\n\n1. O formulário para a notificação prévia a que se refere o artigo 6.º, n.º 1, do Regulamento (CE) n º 1005/2008 consta do anexo II-A do presente regulamento.\n\n2. Sempre que todas as capturas sejam acompanhadas de um certificado de captura validado, pode ser utilizado o formulário de notificação prévia simplificado que consta do anexo II-B."
+  },
+  "a01b968ba930eeaf": {
+   "fragment_id": "Artigo 3.º — Procedimentos e formulários para as declarações a apresentar antes das operações de desembarque ou transbordo",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Procedimentos e formulários para as declarações a apresentar antes das operações de desembarque ou transbordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Procedimentos e formulários para as declarações a apresentar antes das operações de desembarque ou transbordo\n\n1. O formulário para as declarações a apresentar antes das operações de desembarque, a que se refere o artigo 8.º, n.º 1, do Regulamento (CE) n º 1005/2008, consta do anexo III-A do presente regulamento.\n\n2. O formulário para as declarações a apresentar antes das operações de transbordo, a que se refere o artigo 8.º, n.º 1, do Regulamento (CE) n º 1005/2008, consta do anexo III-B do presente regulamento.\n\n3. Os navios de pesca de países terceiros podem submeter a declaração a apresentar antes das operações de desembarque ou de transbordo em formato electrónico, se o Estado-Membro cujos portos designados de desembarque e instalações de desembarque ou de transbordo tenciona utilizar e o Estado de pavilhão do navio tiverem acordado no intercâmbio electrónico de dados.\n\n4. Salvo disposição em contrário no acordo referido no n.º 3, os navios de pesca de países terceiros submetem a declaração a apresentar antes das operações de desembarque ou de transbordo:\n\na) Na língua oficial do Estado-Membro de desembarque ou transbordo; ou\n\nb) Em língua inglesa, se o Estado-Membro de desembarque ou transbordo o aceitar.\n\n5. A declaração a apresentar antes das operações de desembarque ou de transbordo é submetida pelo menos 4 horas antes da hora prevista para o desembarque ou transbordo."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "d486833ca0c86a4d": {
+   "fragment_id": "Inspecções portuárias",
+   "type": "divisao",
+   "heading": "Inspecções portuárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Inspecções portuárias"
+  },
+  "b12e2a5913dda67d": {
+   "fragment_id": "Artigo 4.º — Indicadores para as inspecções portuárias",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Indicadores para as inspecções portuárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Indicadores para as inspecções portuárias\n\nOs indicadores para as inspecções portuárias, referidos no artigo 9.º, n.º 1, do Regulamento (CE) n.º 1005/2008, consistem nos seguintes critérios:\n\na) As espécies em causa são abrangidas por um plano de gestão ou de recuperação;\n\nb) Existem suspeitas de que o navio de pesca não aplica as disposições VMS pertinentes em conformidade com o capítulo IV do Regulamento (CE) n.º 2244/2003 da Comissão, de 18 de Dezembro de 2003, que estabelece normas de execução relativas aos sistemas de localização dos navios por satélite [([^4])](http://publications.europa.eu/resource/cellar/d8563a9b-abcc-4b32-9856-4cfed444749c.0018.03/DOC_1#ntr4-L_2009280PT.01000501-E0004);\n\nc) O navio de pesca não foi controlado num porto do Estado-Membro de porto nos últimos 3 meses;\n\nd) O navio de pesca não foi controlado pelo Estado-Membro de porto nos últimos 6 meses;\n\ne) O navio de pesca não consta da lista de estabelecimentos, prevista no artigo 12.º do Regulamento (CE) n.º 854/2004 do Parlamento Europeu e do Conselho [([^5])](http://publications.europa.eu/resource/cellar/d8563a9b-abcc-4b32-9856-4cfed444749c.0018.03/DOC_1#ntr5-L_2009280PT.01000501-E0005), a partir dos quais são autorizadas importações dos produtos especificados de origem animal;\n\nf) Importação, exportação ou comércio de produtos da pesca obtidos de espécies de elevado valor comercial;\n\ng) Introdução de novos tipos de produtos da pesca ou descoberta de novos padrões comerciais;\n\nh) Incoerências entre os padrões comerciais e as actividades de pesca conhecidas de um Estado de pavilhão, nomeadamente no que respeita às espécies, aos volumes ou às características da sua frota de pesca;\n\ni) Incoerências entre os padrões comerciais e as actividades conhecidas de um país terceiro no sector das pescas, nomeadamente no que respeita às características da sua indústria transformadora ou da sua comercialização de produtos da pesca;\n\nj) Padrões comerciais não justificados à luz de critérios económicos;\n\nk) Envolvimento de um operador recentemente estabelecido;\n\nl) Aumento significativo e súbito do volume de comércio de uma determinada espécie;\n\nm) Apresentação de cópias dos certificados de captura em acompanhamento das declarações de transformação, em conformidade com o anexo IV do Regulamento (CE) n.º 1005/2008, por exemplo em caso de fraccionamento das capturas durante a produção;\n\nn) Notificação prévia, exigida ao abrigo do artigo 6.º do Regulamento (CE) n.º 1005/2008, não enviada no momento devido ou informações incompletas;\n\no) Incoerências entre os dados de captura declarados pelo operador e outras informações de que disponha a autoridade competente;\n\np) Navio ou seu proprietário suspeitos de implicação actual ou passada em actividades de pesca INN;\n\nq) Navio objecto de mudança recente de nome, pavilhão ou número de registo;\n\nr) Estado de pavilhão não notificado em conformidade com o artigo 20.º do Regulamento (CE) n.º 1005/2008 ou existência de informações sobre eventuais irregularidades na validação dos certificados de captura por um determinado Estado de pavilhão (por exemplo, carimbos ou selos de validação de uma autoridade competente perdidos, roubados ou forjados);\n\ns) Presumíveis deficiências no sistema de controlo de um Estado de pavilhão;\n\nt) Operadores em causa já anteriormente implicados em actividades ilegais que constituem um potencial risco de pesca INN."
+  },
+  "e8905f988daa7736": {
+   "fragment_id": "Artigo 5.º — Comunicação sobre a aplicação dos indicadores",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Comunicação sobre a aplicação dos indicadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Comunicação sobre a aplicação dos indicadores\n\n1. No relatório que devem transmitir de dois em dois anos à Comissão nos termos do artigo 55.º, n.º 1, do Regulamento (CE) n.º 1005/2008, os Estados-Membros comunicam os dados relativos à aplicação dos indicadores referidos no artigo 4.º\n\n2. Com base nesses relatórios e nas suas próprias observações, a Comissão procede a uma avaliação e ao eventual ajustamento dos indicadores."
+  },
+  "4c8bdeab3d91ec7d": {
+   "fragment_id": "TÍTULO II",
+   "type": "divisao",
+   "heading": "TÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II"
+  },
+  "042a09b07010bfca": {
+   "fragment_id": "REGIME DE CERTIFICAÇÃO DAS CAPTURAS PARA A IMPORTAÇÃO E EXPORTAÇÃO DE PRODUTOS DA PESCA",
+   "type": "divisao",
+   "heading": "REGIME DE CERTIFICAÇÃO DAS CAPTURAS PARA A IMPORTAÇÃO E EXPORTAÇÃO DE PRODUTOS DA PESCA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REGIME DE CERTIFICAÇÃO DAS CAPTURAS PARA A IMPORTAÇÃO E EXPORTAÇÃO DE PRODUTOS DA PESCA"
+  },
+  "31d2521451d0d660": {
+   "fragment_id": "Certificados de captura",
+   "type": "divisao",
+   "heading": "Certificados de captura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Certificados de captura"
+  },
+  "64eb5ff872f217fc": {
+   "fragment_id": "Artigo 6.º — Certificado de captura simplificado",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Certificado de captura simplificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Certificado de captura simplificado\n\n1. O presente artigo é aplicável aos navios de pesca de países terceiros:\n\na) Com um comprimento de fora a fora inferior a 12 metros sem artes rebocadas; ou\n\nb) Com um comprimento de fora a fora inferior a 8 metros com artes rebocadas; ou\n\nc) Sem superstrutura; ou\n\nd) Com uma arqueação medida inferior a 20 GT.\n\n2. As capturas dos navios de pesca de países terceiros referidos no n.º 1 que só sejam desembarcadas no Estado de pavilhão desses navios e que, em conjunto, constituam uma única remessa podem ser acompanhadas por um certificado de captura simplificado, em vez do certificado de captura referido no artigo 12.º do Regulamento (CE) n.º 1005/2008. O certificado de captura simplificado inclui todas as informações especificados no modelo apresentado no anexo IV do presente regulamento e é validado por uma autoridade pública do Estado de pavilhão com os poderes necessários para atestar a exactidão das informações.\n\n3. A validação do certificado de captura simplificado é solicitada pelo exportador da remessa mediante apresentação à autoridade pública de todas as informações especificadas no modelo apresentado no anexo IV."
+  },
+  "3557f26279c567d4": {
+   "fragment_id": "Artigo 7.º — Reconhecimento dos regimes de documentação das capturas das ORGP",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Reconhecimento dos regimes de documentação das capturas das ORGP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Reconhecimento dos regimes de documentação das capturas das ORGP\n\n1. Os regimes de documentação das capturas adoptados por ORGP constantes do anexo V, parte I, do presente regulamento são reconhecidos, para efeitos do artigo 13.º, n.º 1, do Regulamento (CE) n.º 1005/2008, como satisfazendo as exigências desse regulamento, sem condições suplementares.\n\n2. Os regimes de documentação das capturas adoptados por uma ORGP constantes do anexo V, parte II, do presente regulamento são reconhecidos, para efeitos do artigo 13.º, n.º 1, do Regulamento (CE) n.º 1005/2008, como satisfazendo as exigências desse regulamento, sob reserva de condições suplementares."
+  },
+  "0cb2d621a7576236": {
+   "fragment_id": "Artigo 8.º — Prazo de apresentação dos certificados de captura",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Prazo de apresentação dos certificados de captura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Prazo de apresentação dos certificados de captura\n\nEm derrogação do artigo 16.º, n.º 1, do Regulamento (CE) n.º 1005/2008, a apresentação dos certificados de captura para a importação de uma remessa de produtos da pesca pelos meios de transporte referidos no anexo VI do presente regulamento fica sujeita aos prazos mais curtos previstos nesse anexo."
+  },
+  "7b10e6c2d353ff3b": {
+   "fragment_id": "Operadores económicos aprovados",
+   "type": "divisao",
+   "heading": "Operadores económicos aprovados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Operadores económicos aprovados"
+  },
+  "3869c2effa545d25": {
+   "fragment_id": "Secção 1",
+   "type": "divisao",
+   "heading": "Secção 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 1"
+  },
+  "5f01861d2f92f54e": {
+   "fragment_id": "Condições para a concessão do certificado de operador económico aprovado",
+   "type": "divisao",
+   "heading": "Condições para a concessão do certificado de operador económico aprovado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Condições para a concessão do certificado de operador económico aprovado"
+  },
+  "6a080654f31b02b8": {
+   "fragment_id": "Artigo 9.º — Disposições gerais",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições gerais\n\nOs operadores económicos só podem, mediante pedido, obter um certificado de operador económico aprovado (a seguir designado por «certificado APEO») para efeitos do artigo 16.º do Regulamento (CE) n.º 1005/2008 se:\n\na) Forem titulares de um certificado de operador económico autorizado (a seguir designado por «certificado AEO») em conformidade com o Regulamento (CEE) n.º 2454/93 da Comissão [([^6])](http://publications.europa.eu/resource/cellar/d8563a9b-abcc-4b32-9856-4cfed444749c.0018.03/DOC_1#ntr6-L_2009280PT.01000501-E0006) (a seguir designado por «disposições de aplicação do Código Aduaneiro Comunitário»); e\n\nb) Cumprirem os critérios definidos no artigo 16.º, n.º 3, alíneas a) a g), do Regulamento (CE) n.º 1005/2008 e especificados nos artigos 10.º a 13.º do presente regulamento."
+  },
+  "f6660f44f74917ac": {
+   "fragment_id": "Artigo 10.º — Importações suficientes",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Importações suficientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Importações suficientes\n\n1. O número e o volume suficiente de operações de importação referidos no artigo 16.º, n.º 3, alínea b), do Regulamento (CE) n.º 1005/2008 devem ter lugar no Estado-Membro de estabelecimento.\n\n2. Os Estados-Membros determinam o limite mínimo em termos de número e volume de operações de importação e comunicam esse limite à Comissão."
+  },
+  "fd0224cde7200b39": {
+   "fragment_id": "Artigo 11.º — Registo do cumprimento dos requisitos",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Registo do cumprimento dos requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Registo do cumprimento dos requisitos\n\n1. O registo do cumprimento dos requisitos das medidas de conservação e de gestão referido no artigo 16.º, n.º 3, alínea c), do Regulamento (CE) n.º 1005/2008 é considerado adequado se, nos três anos anteriores à apresentação do pedido, o requerente:\n\na) Não tiver cometido nenhuma infracção grave às regras da política comum das pescas;\n\nb) Não tiver cometido infracções repetidas às regras da política comum das pescas;\n\nc) Não tiver participado directa ou indirectamente nem dado apoio a actividades de navios ou de operadores implicados em actividades de pesca INN ou que estejam a ser investigados nesse contexto; e\n\nd) Não tiver participado directa ou indirectamente nem dado apoio a actividades de navios que constem das listas de navios INN adoptadas por uma ORGP.\n\n2. Sem prejuízo do n.º 1, o registo do cumprimento dos requisitos das medidas de conservação e de gestão pode ser considerado adequado se a autoridade competente do Estado-Membro entender que uma infracção cometida pelo requerente:\n\na) Não é grave; e\n\nb) Tem uma importância quantitativa negligenciável perante o número ou a dimensão das operações relacionadas com a importação levadas a cabo pelo requerente."
+  },
+  "85132c0a3e79d276": {
+   "fragment_id": "Artigo 12.º — Gestão dos registos",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Gestão dos registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Gestão dos registos\n\nO sistema de gestão dos certificados de captura e, se for caso disso, dos registos de transformação, referido no artigo 16.º, n.º 3, alínea d), do Regulamento (CE) n.º 1005/2008, é considerado satisfatório se garantir:\n\na) O tratamento dos certificados de captura ligados ao comércio de produtos da pesca;\n\nb) A arquivação dos registos e das informações relativas ao requerente; e\n\nc) Uma protecção contra a perda de informações."
+  },
+  "416f81ef7d73d96f": {
+   "fragment_id": "Artigo 13.º — Meios",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Meios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Meios\n\nOs meios à disposição do requerente, referidos no artigo 16.º, n.º 3, alínea e), do Regulamento (CE) n.º 1005/2008, são considerados adequados se:\n\na) Impedirem o acesso não autorizado às zonas de armazenagem, às zonas de expedição, aos cais de carga e às zonas de frete;\n\nb) Permitirem a manipulação de produtos da pesca, nomeadamente, a protecção contra a alteração das unidades de frete;\n\nc) Permitirem o tratamento das licenças de importação e/ou exportação pertinentes no contexto de determinadas proibições ou restrições e a diferenciação entre os produtos da pesca sujeitos e não sujeitos à apresentação de certificados de captura."
+  },
+  "18e5b2282eff7afa": {
+   "fragment_id": "Secção 2",
+   "type": "divisao",
+   "heading": "Secção 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 2"
+  },
+  "f4e502154fd9afae": {
+   "fragment_id": "Pedido de certificado APEO",
+   "type": "divisao",
+   "heading": "Pedido de certificado APEO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Pedido de certificado APEO"
+  },
+  "224ae03159dcafcc": {
+   "fragment_id": "Artigo 14.º — Apresentação do pedido",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Apresentação do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Apresentação do pedido\n\n1. O pedido de certificado APEO é apresentado, em conformidade com o modelo que consta do anexo VII, à autoridade competente do Estado-Membro em cujo território o importador se encontra estabelecido.\n\n2. O pedido inclui registos e documentação que permitam à autoridade competente do Estado-Membro verificar e fiscalizar o cumprimento dos critérios estabelecidos nos artigos 9.º a 13.º do presente regulamento, incluindo uma cópia do certificado AEO emitido em conformidade com as disposições de aplicação do Código Aduaneiro Comunitário. Os requerentes apresentam os dados necessários à autoridade competente do Estado-Membro.\n\n3. Se parte dos registos e documentação pertinentes for conservada noutro Estado-Membro, é aplicável o procedimento de consulta referido no artigo 17.º\n\n4. Se, após a recepção do pedido, a autoridade competente do Estado-Membro considerar que este não contém todos os dados exigidos, solicita, no prazo de 30 dias, ao requerente que fornaça as informações pertinentes.\n\n5. Quando tiver recebido todas as informações necessárias, a autoridade competente informa o requerente de que o seu pedido foi considerado completo, especificando a data a partir da qual corre o prazo estabelecido no artigo 18.º, n.º 2, do presente regulamento.\n\n6. Um operador a quem tenha sido concedido o estatuto de operador económico aprovado num Estado-Membro deve, quando solicitar o mesmo estatuto noutro Estado-Membro, anexar ao seu pedido uma cópia do certificado APEO concedido pelo primeiro Estado-Membro."
+  },
+  "ead0b5cdee4545d2": {
+   "fragment_id": "Artigo 15.º — Inadmissibilidade do pedido",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Inadmissibilidade do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Inadmissibilidade do pedido\n\nO pedido referido no artigo 14.º é inadmissível:\n\na) Se não satisfizer o disposto no artigo 14.º; ou\n\nb) Se for apresentado no prazo de três anos após a retirada de um certificado APEO nos termos do artigo 27.º, n.º 1, alíneas a), b) e d)."
+  },
+  "b426821733183e1b": {
+   "fragment_id": "Secção 3",
+   "type": "divisao",
+   "heading": "Secção 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 3"
+  },
+  "654ccfaa88f87bb7": {
+   "fragment_id": "Procedimento de emissão dos certificados APEO",
+   "type": "divisao",
+   "heading": "Procedimento de emissão dos certificados APEO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Procedimento de emissão dos certificados APEO"
+  },
+  "7bd3da0254e4f4e6": {
+   "fragment_id": "Artigo 16.º — Análise do pedido",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Análise do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Análise do pedido\n\n1. A autoridade emissora do Estado-Membro verifica se se encontram cumpridos os critérios estabelecidos nos artigos 9.º a 13.º. Essa verificação e os respectivos resultados são documentados pela autoridade competente do Estado-Membro.\n\n2. Caso o requerente seja titular de um certificado «AEO - Segurança e Protecção» ou de um certificado «AEO - Simplificações Aduaneiras/Segurança e Protecção», referidos no artigo 14.º-A das disposições de aplicação do Código Aduaneiro Comunitário, não é necessário verificar o cumprimento dos critérios estabelecidos no artigo 13.º\n\n3. Nos casos em que o estatuto de operador económico aprovado já tenha sido concedido anteriormente ao requerente noutro Estado-Membro, a autoridade emissora verifica se se encontram cumpridos:\n\na) Os critérios estabelecidos nos artigos 12.º e 13.º;\n\nb) A título facultativo, os critérios estabelecidos nos artigos 10.º e 11.º\n\n4. A autoridade emissora pode aceitar as conclusões apresentadas por um perito nos domínios pertinentes a que se referem os artigos 12.º e 13.º, no que respeita aos critérios estabelecidos nesses artigos. O perito não pode ter qualquer relação com o requerente."
+  },
+  "e91043d7146f7943": {
+   "fragment_id": "Artigo 17.º — Consulta dos outros Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Consulta dos outros Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Consulta dos outros Estados-Membros\n\n1. A autoridade emissora consulta as autoridades competentes dos outros Estados-Membros se não se encontrar em condições de analisar por si mesma o cumprimento de um ou mais dos critérios estabelecidos nos artigos 9.º a 13.º, seja por falta de informações, seja por impossibilidade de as verificar. As autoridades competentes dos Estados-Membros consultadas respondem no prazo de 60 dias a contar da data de comunicação do pedido pela autoridade emissora.\n\n2. Se a autoridade competente consultada não responder no prazo de 60 dias referido no n.º 1, a autoridade emissora pode considerar que o requerente preenche os critérios objecto da consulta."
+  },
+  "d3c47fa9a73f9222": {
+   "fragment_id": "Artigo 18.º — Emissão de um certificado APEO",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Emissão de um certificado APEO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Emissão de um certificado APEO\n\n1. A autoridade emissora emite o certificado APEO em conformidade com o modelo que consta do anexo VIII.\n\n2. O certificado APEO é emitido no prazo de 90 dias a contar da data de recepção de todas as informações necessárias em conformidade com o artigo 14.º\n\n3. O prazo de 90 dias previsto no n.º 2 pode ser prorrogado por um período adicional de 30 dias sempre que a autoridade competente não consiga cumpri-lo. Nesses casos, a autoridade competente do Estado-Membro, antes de terminar o período referido no n.º 2, informa o requerente dos motivos dessa prorrogação.\n\n4. O prazo previsto no n.º 2 pode também ser prorrogado se, no decurso da análise do cumprimento dos critérios estabelecidos nos artigos 9.º a 13.º, o requerente efectuar ajustamentos a fim de satisfazer os referidos critérios e os comunicar à autoridade competente."
+  },
+  "ff02f646b315117d": {
+   "fragment_id": "Artigo 19.º — Indeferimento de um pedido",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Indeferimento de um pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Indeferimento de um pedido\n\n1. Se o resultado da análise realizada em conformidade com os artigos 16.º e 17.º conduzir ao indeferimento do pedido, a autoridade emissora comunica-o ao requerente, concedendo-lhe um prazo de resposta de 30 dias antes de indeferir o pedido. O prazo previsto no n.º 2 é suspenso em conformidade.\n\n2. Se o pedido for indeferido, a autoridade competente informa o requerente dos motivos que fundamentam a decisão. A decisão de indeferimento de um pedido é notificada ao requerente nos prazos fixados no artigo 18.º, n.^os^ 2, 3 e 4, e no n.º 1 do presente artigo.\n\n3. A autoridade emissora informa a Comissão, logo que possível, do indeferimento de um pedido. A Comissão disponibiliza essa informação às autoridades competentes dos restantes Estados-Membros, por meios electrónicos."
+  },
+  "b5d7193d82983e30": {
+   "fragment_id": "Secção 4",
+   "type": "divisao",
+   "heading": "Secção 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 4"
+  },
+  "8097b6936a0aea6f": {
+   "fragment_id": "Estatuto de operador económico aprovado",
+   "type": "divisao",
+   "heading": "Estatuto de operador económico aprovado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Estatuto de operador económico aprovado"
+  },
+  "37d289a6ded484c2": {
+   "fragment_id": "Artigo 20.º — Verificações",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Verificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Verificações\n\n1. Sempre que o titular de um certificado APEO tenha informado a autoridade competente do Estado-Membro da chegada de produtos da pesca, essa autoridade pode, antes da chegada da remessa a esse Estado-Membro, notificar o operador económico aprovado nos casos em que, no seguimento de uma análise de risco em conformidade com o artigo 17.º do Regulamento (CE) n.º 1005/2008, a remessa tenha sido seleccionada para verificação suplementar. Essa notificação só terá lugar se não puser em causa a verificação a efectuar.\n\n2. O titular de um certificado APEO é sujeito a menos verificações físicas e documentais do que os outros importadores, salvo decisão em contrário da autoridade competente do Estado-Membro a fim de ter em conta um risco específico ou obrigações de controlo estabelecidas noutras normas da legislação comunitária.\n\n3. Sempre que, no seguimento de uma análise de risco, a autoridade competente do Estado-Membro seleccione para verificação suplementar uma remessa acompanhada de um certificado de captura apresentado por um operador económico aprovado, efectua as verificações necessárias com carácter prioritário. Se o operador económico aprovado o requerer, e sob reserva do acordo da autoridade competente do Estado-Membro em causa, essas verificações podem ser efectuadas num local diferente da sede da autoridade competente do Estado-Membro."
+  },
+  "744a62350cf0c0fd": {
+   "fragment_id": "Secção 5",
+   "type": "divisao",
+   "heading": "Secção 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 5"
+  },
+  "4b6f17975a60d6b9": {
+   "fragment_id": "Efeitos jurídicos dos certificados APEO",
+   "type": "divisao",
+   "heading": "Efeitos jurídicos dos certificados APEO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Efeitos jurídicos dos certificados APEO"
+  },
+  "e1021d0fb76ca7f1": {
+   "fragment_id": "Artigo 21.º — Disposições gerais",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Disposições gerais\n\n1. O certificado APEO produz efeitos no décimo dia útil seguinte à data da sua emissão. O seu período de validade não é limitado.\n\n2. O certificado APEO é válido apenas no Estado-Membro da autoridade emissora.\n\n3. As autoridades competentes controlam o cumprimento dos critérios estabelecidos nos artigos 9.º a 13.º\n\n4. No caso de um certificado APEO emitido a um requerente estabelecido há menos de três anos, deve proceder-se a um controlo próximo durante o primeiro ano após a emissão.\n\n5. A autoridade emissora procede a uma reavaliação do cumprimento dos critérios referidos nos artigos 9.º a 13.º nos seguintes casos:\n\na) Alterações importantes da legislação comunitária pertinente;\n\nb) Indicação razoável de que os critérios pertinentes deixaram de ser satisfeitos pelo operador económico aprovado.\n\n6. O artigo 16.º, n.º 4, é aplicável à reavaliação.\n\n7. A autoridade emissora informa a Comissão, o mais rapidamente possível, dos resultados da reavaliação. A Comissão disponibiliza essas informações às autoridades competentes de todos os Estados-Membros, por via electrónica."
+  },
+  "8fb53dc09ef4b323": {
+   "fragment_id": "Artigo 22.º — Suspensão do estatuto de operador económico aprovado",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Suspensão do estatuto de operador económico aprovado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Suspensão do estatuto de operador económico aprovado\n\n1. O estatuto de operador económico aprovado é suspenso pela autoridade emissora nos seguintes casos:\n\na) Sempre que seja detectado o incumprimento dos critérios estabelecidos nos artigos 9.º a 13.º;\n\nb) Sempre que as autoridades competentes do Estado-Membro tenham razões suficientes para acreditar que foi cometido pelo operador económico aprovado um acto passível de procedimento judicial e relacionado com uma infracção às regras da política comum das pescas ou do Regulamento (CE) n.º 1005/2008;\n\nc) Sempre que o estatuto de operador económico autorizado tenha sido suspenso em conformidade com as disposições de aplicação do Código Aduaneiro Comunitário;\n\nd) Sempre que a suspensão seja solicitada por um operador económico aprovado temporariamente incapaz de preencher um dos critérios estabelecidos nos artigos 9.º a 13.º\n\n2. Antes de tomarem uma decisão em conformidade com o n.º 1, alíneas a), b) e c), as autoridades competentes do Estado-Membro comunicam as suas conclusões ao operador económico em causa. Os operadores podem expressar o seu ponto de vista no prazo de 30 dias a contar da data de recepção dessa comunicação.\n\n3. Todavia, se a natureza ou o nível da ameaça às medidas de conservação respeitantes a uma ou mais unidades populacionais o exigirem, a suspensão tem efeito imediato. A autoridade que procede à suspensão informa imediatamente a Comissão, para que os outros Estados-Membros possam tomar as medidas adequadas.\n\n4. A suspensão referida no n.º 1 produz efeitos a partir do dia seguinte à sua notificação ao operador económico aprovado. No entanto, essa suspensão não afecta eventuais procedimentos de importação iniciados antes da data da suspensão e ainda não concluídos."
+  },
+  "d505aee09f0e45d2": {
+   "fragment_id": "Artigo 23.º — Suspensão em caso de incumprimento dos critérios pertinentes",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Suspensão em caso de incumprimento dos critérios pertinentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Suspensão em caso de incumprimento dos critérios pertinentes\n\n1. No caso referido no artigo 22.º, n.º 1, alínea a), se o operador económico aprovado não regularizar a situação no prazo referido no n.º 2 do mesmo artigo, o seu estatuto de operador económico aprovado é suspenso por um período de 30 dias. A autoridade competente do Estado-Membro notifica prontamente da suspensão o operador económico e as autoridades competentes dos outros Estados-Membros.\n\n2. Se o operador económico não tiver conseguido regularizar a situação durante o período de suspensão de 30 dias referido no n.º 1, mas puder apresentar prova de que as condições podem ser cumpridas se o período de suspensão for prolongado, a autoridade emissora suspende o estatuto de operador económico aprovado por um período suplementar de 30 dias. As autoridades competentes dos outros Estados-Membros são informadas desse prolongamento.\n\n3. Quando o operador económico tiver, dentro do prazo previsto nos n.^os^ 1 ou 2, tomado as medidas necessárias para dar cumprimento aos critérios estabelecidos nos artigos 9.º a 13.º, a autoridade emissora levanta a suspensão, informando o operador em causa e a Comissão. A suspensão pode ser levantada antes do termo do prazo estabelecido nos n.^os^ 1 ou 2."
+  },
+  "641bcedb1f4c6477": {
+   "fragment_id": "Artigo 24.º — Suspensão em caso de processo judicial",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Suspensão em caso de processo judicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Suspensão em caso de processo judicial\n\n1. No caso referido no artigo 22.º, n.º 1, alínea b), a autoridade emissora suspende o estatuto de operador económico aprovado durante a pendência do procedimento e notifica desse facto o operador económico aprovado. A notificação é também transmitida às autoridades competentes dos outros Estados-Membros.\n\n2. A autoridade competente do Estado-Membro pode, contudo, decidir não suspender o estatuto de operador económico aprovado se considerar que a infracção tem uma importância quantitativa negligenciável perante o número ou o volume das operações relacionadas com a importação levadas a cabo por esse."
+  },
+  "6e0ee35c97f3db15": {
+   "fragment_id": "Artigo 25.º — Suspensão relacionada com o estatuto de operador económico autorizado",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Suspensão relacionada com o estatuto de operador económico autorizado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Suspensão relacionada com o estatuto de operador económico autorizado\n\nNo caso referido no artigo 22.º, n.º 1, alínea c), a autoridade emissora suspende o estatuto do operador económico aprovado até ao levantamento da suspensão do estatuto de operador económico autorizado e notifica desse facto o operador económico aprovado e as autoridades competentes dos outros Estados-Membros."
+  },
+  "2dfd7fb95016cde8": {
+   "fragment_id": "Artigo 26.º — Suspensão a pedido",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Suspensão a pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Suspensão a pedido\n\n1. No caso referido no artigo 22.º, n.º 1, alínea d), o operador económico aprovado comunica à autoridade emissora a sua incapacidade temporária de preencher os critérios estabelecidos nos artigos 9.º a 13.º, especificando a data em que esses critérios voltarão a ser preenchidos. O operador económico aprovado comunica também à autoridade emissora quaisquer medidas planeadas e o respectivo calendário.\n\n2. A autoridade emissora transmite essa comunicação à Comissão e às autoridades competentes dos outros Estados-Membros.\n\n3. Se o operador económico aprovado não regularizar a situação no prazo indicado na sua comunicação, a autoridade emissora pode conceder uma prorrogação razoável desse prazo, desde que o operador económico aprovado tenha agido de boa-fé. A prorrogação é notificada à Comissão e às autoridades competentes dos outros Estados-Membros."
+  },
+  "65596921817a7239": {
+   "fragment_id": "Artigo 27.º — Retirada do certificado APEO",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Retirada do certificado APEO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Retirada do certificado APEO\n\n1. O certificado APEO é retirado nos seguintes casos:\n\na) Sempre que o operador económico aprovado não adopte as medidas necessárias para preencher os critérios estabelecidos nos artigos 9.º a 13.º em conformidade com o artigo 23.º, n.º 3;\n\nb) Sempre que tenha sido estabelecido que o operador económico aprovado cometeu uma infracção grave ou repetidas infracções às regras da política comum das pescas ou ao Regulamento (CE) n.º 1005/2008 e as vias de recurso tenham sido esgotadas;\n\nc) Sempre que o operador económico aprovado não adopte as medidas necessárias para preencher os critérios estabelecidos nos artigos 9.º a 13.º em conformidade com o artigo 26.º;\n\nd) Sempre que o estatuto de operador económico autorizado, concedido em conformidade com as disposições de aplicação do Código Aduaneiro Comunitário, tenha sido retirado;\n\ne) A pedido do operador económico aprovado.\n\n2. No caso referido no n.º 1, alínea b), a autoridade competente pode decidir não retirar o certificado do APEO se as infracções tiverem uma importância quantitativa negligenciável perante o número ou a dimensão das operações relacionadas com a importação levadas a cabo por esse operador.\n\n3. A retirada produz efeitos a partir do dia seguinte à sua notificação ao operador económico aprovado.\n\n4. A autoridade emissora informa imediatamente a Comissão da retirada de um certificado APEO."
+  },
+  "6b50f1e0d1ff625f": {
+   "fragment_id": "Secção 6",
+   "type": "divisao",
+   "heading": "Secção 6",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 6"
+  },
+  "3113c40917a10243": {
+   "fragment_id": "Intercâmbio de informações",
+   "type": "divisao",
+   "heading": "Intercâmbio de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Intercâmbio de informações"
+  },
+  "8aabd709904527f9": {
+   "fragment_id": "Artigo 28.º — Pedidos de informação",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Pedidos de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Pedidos de informação\n\n1. O operador económico aprovado informa a autoridade emissora de todos os factores surgidos após a concessão do certificado que possam influenciar a sua manutenção.\n\n2. Todas as informações pertinentes de que a autoridade emissora disponha sobre os operadores económicos por si aprovados são, *mediante pedido*, disponibilizadas à Comissão e às autoridades competentes dos outros Estados-Membros em que esses operadores económicos aprovados exerçam actividades relacionadas com a importação."
+  },
+  "9122245fbb0f30ad": {
+   "fragment_id": "Artigo 29.º — Partilha de informações sobre os operadores económicos aprovados",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Partilha de informações sobre os operadores económicos aprovados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Partilha de informações sobre os operadores económicos aprovados\n\n1. A Comissão e as autoridades competentes de todos os Estados-Membros conservam por um período de três ou mais anos, de acordo com as regras nacionais, e têm acesso às seguintes informações:\n\na) Dados dos pedidos transmitidos por via electrónica;\n\nb) Certificados APEO, e, se for caso disso, respectiva alteração ou retirada, ou suspensão do estatuto de operador económico aprovado.\n\n2. O sistema de informação sobre a pesca INN referido no artigo 51.º do Regulamento (CE) n.º 1005/2008 pode ser utilizado para o processo de informação e comunicação entre as autoridades competentes e para a comunicação de informações à Comissão e aos operadores económicos nos termos do presente capítulo.\n\n3. A Comissão pode divulgar ao público através da Internet a lista de operadores económicos aprovados, com o acordo prévio dos mesmos. Essa lista é mantida actualizada."
+  },
+  "1d7ddaf6f30a2cfb": {
+   "fragment_id": "Artigo 30.º — Obrigações de comunicação e de avaliação",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Obrigações de comunicação e de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Obrigações de comunicação e de avaliação\n\n1. No relatório que devem transmitir de dois em dois anos à Comissão nos termos do artigo 55.º, n.º 1, do Regulamento (CE) n.º 1005/2008, os Estados-Membros incluem informações sobre a aplicação do regime de operadores económicos aprovados em conformidade com o presente capítulo.\n\n2. Com base nesses relatórios e nas suas próprias observações, a Comissão procede a uma avaliação e ao eventual ajustamento desse regime."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "340ebce4237c46db": {
+   "fragment_id": "Verificações relacionadas com os certificados de captura",
+   "type": "divisao",
+   "heading": "Verificações relacionadas com os certificados de captura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Verificações relacionadas com os certificados de captura"
+  },
+  "c8f3309d8b072457": {
+   "fragment_id": "Artigo 31.º — Critérios de verificação comunitários",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Critérios de verificação comunitários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Critérios de verificação comunitários\n\nAs verificações destinadas a assegurar a correcta aplicação do Regulamento (CE) n.º 1005/2008, referidas no artigo 17.º desse regulamento, centram-se no risco identificado com base nos seguintes critérios comunitários:\n\na) Importação, exportação ou comércio de produtos da pesca obtidos de espécies de elevado valor comercial;\n\nb) Introdução de novos tipos de produtos da pesca ou descoberta de novos padrões comerciais;\n\nc) Incoerências entre os padrões comerciais e as actividades de pesca conhecidas de um Estado de pavilhão, nomeadamente no que respeita às espécies, aos volumes ou às características da sua frota de pesca;\n\nd) Incoerências entre os padrões comerciais e as actividades conhecidas de um país terceiro no sector das pescas, nomeadamente no que respeita às características da sua indústria transformadora ou da sua comercialização de produtos da pesca;\n\ne) Padrões comerciais não justificados à luz de critérios económicos;\n\nf) Envolvimento de um operador recentemente estabelecido;\n\ng) Aumento significativo e súbito do volume de comércio de uma determinada espécie;\n\nh) Apresentação de cópias dos certificados de captura em acompanhamento de declarações de transformação em conformidade com o anexo IV do Regulamento (CE) n.º 1005/2008, por exemplo em caso de fraccionamento das capturas;\n\ni) Notificação prévia, exigida ao abrigo do artigo 6.º do Regulamento (CE) n.º 1005/2008, não enviada no momento devido ou informações incompletas;\n\nj) Incoerências entre os dados de captura declarados pelo operador e outras informações de que disponha a autoridade competente;\n\nk) Navio ou seu proprietário suspeitos de implicação actual ou passada em actividades de pesca INN;\n\nl) Navio objecto de mudança recente de nome, pavilhão ou número de registo;\n\nm) Estado de pavilhão não notificado em conformidade com o artigo 20.º do Regulamento (CE) n.º 1005/2008 ou existência de informações sobre eventuais irregularidades na validação dos certificados de captura por um determinado Estado de pavilhão (por exemplo, carimbos ou selos de validação de uma autoridade competente perdidos, roubados ou forjados);\n\nn) Presumíveis deficiências no sistema de controlo de um Estado de pavilhão;\n\no) Operadores em causa já anteriormente implicados em actividades ilegais que constituem um potencial risco de pesca INN."
+  },
+  "65a8374019362198": {
+   "fragment_id": "Artigo 32.º — Obrigações de comunicação e de avaliação",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Obrigações de comunicação e de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Obrigações de comunicação e de avaliação\n\n1. No relatório que devem transmitir de dois em dois anos à Comissão nos termos do artigo 55.º, n.º 1, do Regulamento (CE) n.º 1005/2008, os Estados-Membros incluem informações sobre a aplicação dos critérios comunitários referidos no artigo 31.º\n\n2. Com base nesses relatórios e nas suas próprias observações, a Comissão procede a uma avaliação e ao eventual ajustamento dos critérios comunitários."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "4eb82d49285165f3": {
+   "fragment_id": "Cooperação com países terceiros",
+   "type": "divisao",
+   "heading": "Cooperação com países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Cooperação com países terceiros"
+  },
+  "a6a14215eea1c628": {
+   "fragment_id": "Artigo 33.º — Cooperação administrativa com países terceiros em relação aos certificados de captura",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Cooperação administrativa com países terceiros em relação aos certificados de captura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Cooperação administrativa com países terceiros em relação aos certificados de captura\n\n1. As disposições administrativas com base nas quais o certificado de captura é estabelecido, validado ou apresentado por via electrónica ou substituído por sistemas electrónicos de rastreabilidade que assegurem o mesmo nível de controlo pelas autoridades, determinadas no âmbito da cooperação administrativa prevista no artigo 20.º, n.º 4, do Regulamento (CE) n.º 1005/2008, são enumeradas no anexo IX do presente regulamento.\n\n2. No prazo de 15 dias úteis após o estabelecimento de uma nova disposição administrativa relacionada com a aplicação das disposições de certificação das capturas do Regulamento (CE) n.º 1005/2008, a Comissão informa desse facto as autoridades competentes dos Estados-Membros, coloca essas informações no seu sítio Web o mais rapidamente possível e actualiza o anexo IX do presente regulamento."
+  },
+  "9db704600627e53c": {
+   "fragment_id": "TÍTULO III",
+   "type": "divisao",
+   "heading": "TÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III"
+  },
+  "302ce09bbcc3dd81": {
+   "fragment_id": "AVISTAMENTOS",
+   "type": "divisao",
+   "heading": "AVISTAMENTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### AVISTAMENTOS"
+  },
+  "1b2cd7f47d2c58d6": {
+   "fragment_id": "Artigo 34.º — Formulário para a transmissão de informações relativas a navios de pesca avistados",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Formulário para a transmissão de informações relativas a navios de pesca avistados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Formulário para a transmissão de informações relativas a navios de pesca avistados\n\n1. O formulário para a transmissão de informações relativas a navios de pesca avistados a que se refere o artigo 49.º, n.º 1, do Regulamento (CE) n º 1005/2008 consta do anexo X-A do presente regulamento.\n\n2. As instruções de preenchimento do formulário referido no n.º 1 constam do anexo X-B do presente regulamento."
+  },
+  "662cf62f00c33127": {
+   "fragment_id": "TÍTULO IV",
+   "type": "divisao",
+   "heading": "TÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV"
+  },
+  "d60fa07135ac2156": {
+   "fragment_id": "ASSISTÊNCIA MÚTUA",
+   "type": "divisao",
+   "heading": "ASSISTÊNCIA MÚTUA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ASSISTÊNCIA MÚTUA"
+  },
+  "7fabed8a0a46afb5": {
+   "fragment_id": "Disposições gerais",
+   "type": "divisao",
+   "heading": "Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições gerais"
+  },
+  "bad7ba6f15eb7689": {
+   "fragment_id": "Artigo 35.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Âmbito de aplicação\n\n1. O presente título estabelece as condições em que os Estados-Membros cooperam administrativamente entre si, com países terceiros, com a Comissão e com o organismo por esta designado para garantir a efectiva aplicação do Regulamento (CE) n.º 1005/2008 e do presente regulamento.\n\n2. O presente título não obriga os Estados-Membros a prestar assistência mútua nos casos em que a mesma possa ser prejudicial à sua ordem jurídica nacional, ordem pública, segurança ou outros interesses fundamentais. Antes de recusar um pedido de assistência, o Estado-Membro requerido consulta o Estado-Membro requerente para determinar se a assistência pode ser prestada parcialmente, em termos e condições específicos. Quando não possa ser dada resposta a um pedido de assistência, o Estado-Membro requerente e a Comissão são prontamente notificados desse facto, bem como dos motivos da recusa.\n\n3. O presente regulamento não afecta a aplicação nos Estados-membros das regras relativas ao processo penal e à cooperação judiciária em matéria penal, incluindo as relativas ao segredo de justiça."
+  },
+  "550bfcf1c71d4c74": {
+   "fragment_id": "Artigo 36.º — Protecção dos dados pessoais",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Protecção dos dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Protecção dos dados pessoais\n\n1. O presente regulamento mantém intacto e em nada afecta o nível de protecção das pessoas singulares no que diz respeito ao tratamento dos seus dados pessoais garantido pelas disposições do direito comunitário e do direito nacional e, em especial, em nada altera as obrigações dos Estados-Membros no que diz respeito ao tratamento dos dados pessoais, em conformidade com a Directiva 95/46/CE, nem as obrigações que incumbem às instituições e órgãos comunitários nos termos do Regulamento (CE) n.º 45/2001 no que diz respeito ao tratamento dos dados pessoais, no exercício das suas competências. Os Estados-Membros e a Comissão asseguram a observância de todas as disposições aplicáveis estatuídas no Regulamento (CE) n.º 45/2001 e na Directiva 95/46/CE.\n\n2. Os direitos das pessoas exercem-se, no que diz respeito aos seus dados de registo tratados nos sistemas nacionais, em conformidade com a legislação do Estado-Membro que conserva os seus dados pessoais, nomeadamente com as disposições que transpõem a Directiva 95/46/CE, e, no que respeita aos seus dados de registo tratados nos sistemas comunitários, em conformidade com o Regulamento (CE) n.º 45/2001."
+  },
+  "63d5ff4974c656dd": {
+   "fragment_id": "Artigo 37.º — Utilização das informações e protecção do sigilo profissional e comercial",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Utilização das informações e protecção do sigilo profissional e comercial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Utilização das informações e protecção do sigilo profissional e comercial\n\n1. O Estado-Membro requerente utiliza as informações comunicadas de acordo com o presente título exclusivamente para efeitos da aplicação do Regulamento (CE) n.º 1005/2008 e sempre em conformidade com a Directiva 95/46/CE. A utilização de tais informações para outros fins está sujeita à autorização prévia, por escrito, do Estado-Membro requerido que facultou as informações. Tal utilização está, além disso, sujeita a quaisquer condições estabelecidas pelo Estado-Membro requerido no sentido da não-comunicação das informações em conformidade com a Directiva 95/46/CE. A utilização de dados pessoais para outros fins obedece às condições estabelecidas na Directiva 95/46/CE.\n\n2. O Estado-Membro requerente toma em consideração as exigências específicas relacionadas com a comunicação de informações, tais como a segurança e privacidade das pessoas identificadas ou identificáveis pelas informações.\n\n3. As informações beneficiam da mesma protecção que é concedida a dados semelhantes pela legislação nacional do Estado-Membro que as receba e, relativamente a uma instituição comunitária que as receba, pelas disposições correspondentes aplicáveis a essa instituição. Tais informações podem ser invocadas como meios de prova em processos administrativos ou criminais pelo Estado-Membro que as receba, em conformidade com a sua legislação nacional.\n\n4. As informações comunicadas sob qualquer forma a pessoas que trabalham para as autoridades públicas nacionais e para a Comissão são cobertas pelos deveres de confidencialidade e de sigilo profissional se a sua divulgação puder comprometer:\n\na) A protecção da vida privada e da integridade do indivíduo, em especial nos termos da legislação comunitária relativa à protecção dos dados pessoais;\n\nb) Os interesses comerciais de uma pessoa singular ou colectiva, incluindo a propriedade intelectual;\n\nc) Processos judiciais ou pareceres jurídicos; ou\n\nd) O objectivo das inspecções ou investigações.\n\n5. O n.º 4 não é aplicável quando a divulgação for necessária para pôr termo a actividades de pesca INN ou a infracções graves referidas no artigo 42.º, n.º 1, alíneas b) e c), do Regulamento (CE) n.º 1005/2008 e a autoridade que comunicou as informações consentir na sua divulgação."
+  },
+  "52315be1cc6ddb8e": {
+   "fragment_id": "Artigo 38.º — Custos",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Custos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Custos\n\nOs Estados-Membros suportam os seus próprios custos ligados à execução de um pedido de assistência, renunciando a qualquer reclamação de reembolso das despesas efectuadas em aplicação do presente título."
+  },
+  "6cd0cad564a5eba7": {
+   "fragment_id": "Artigo 39.º — Autoridade única",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Autoridade única",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Autoridade única\n\n1. Cada Estado-Membro designa um serviço de ligação único responsável pela aplicação do presente título.\n\n2. Cada Estado-Membro comunica à Comissão e aos restantes Estados-Membros a identidade do serviço de ligação único e mantém essa informação actualizada.\n\n3. A Comissão publica no *Jornal Oficial da União Europeia* a lista dos serviços de ligação únicos e mantém essa informação actualizada."
+  },
+  "68c8783774d4b8ab": {
+   "fragment_id": "Artigo 40.º — Medidas de seguimento",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Medidas de seguimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Medidas de seguimento\n\n1. Sempre que as autoridades nacionais decidam, em resposta a um pedido de assistência com base no presente título ou no seguimento de um intercâmbio de informações espontâneo, adoptar medidas que só possam ser aplicadas com a autorização ou a pedido de uma autoridade judicial, comunicam ao Estado-Membro em causa e à Comissão toda a informação sobre essas medidas que esteja relacionada com a pesca INN, com as infracções graves referidas no artigo 42.º, n.º 1, alíneas b) e c), do Regulamento (CE) n.º 1005/2008 ou com infracções ao presente regulamento.\n\n2. Essa comunicação está sujeita à prévia autorização da autoridade judicial, se tal autorização for exigida pela legislação nacional."
+  },
+  "72c9b5e16d938389": {
+   "fragment_id": "Comunicação de informações sem pedido prévio",
+   "type": "divisao",
+   "heading": "Comunicação de informações sem pedido prévio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Comunicação de informações sem pedido prévio"
+  },
+  "108bd38d71379c37": {
+   "fragment_id": "Artigo 41.º — Comunicação de informações sem pedido prévio",
+   "type": "artigo",
+   "heading": "Artigo 41.º — Comunicação de informações sem pedido prévio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Comunicação de informações sem pedido prévio\n\n1. Sempre que um Estado-Membro tenha conhecimento de qualquer actividade de pesca que possa configurar uma actividade de pesca INN ou uma das infracções graves referidas no artigo 42.º, n.º 1, alíneas b) e c), do Regulamento (CE) n.º 1005/2008, ou suspeite razoavelmente que tal actividade ou infracção possa ocorrer, notifica o mais rapidamente possível os outros Estados-Membros em causa e Comissão. Essa notificação fornece todas as informações necessárias e é feita através da autoridade única referida no artigo 39.º\n\n2. Sempre que um Estado-Membro adopte medidas executórias em relação a uma actividade de pesca INN ou a uma das infracções referidas no n.º 1, notifica os outros Estados-Membros em causa e a Comissão através da autoridade única referida no artigo 39.º\n\n3. Todas as notificações previstas no presente artigo são feitas por escrito."
+  },
+  "b1680ffe4a644c5b": {
+   "fragment_id": "Pedidos de assistência",
+   "type": "divisao",
+   "heading": "Pedidos de assistência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Pedidos de assistência"
+  },
+  "7fa7edebc7fc9e98": {
+   "fragment_id": "Artigo 42.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 42.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Definições\n\nPara efeitos do presente título, entende-se por «pedido de assistência» um pedido dirigido por um Estado-Membro a outro Estado-Membro em matéria de:\n\na) Informações;\n\nb) Medidas executórias; ou\n\nc) Notificação administrativa."
+  },
+  "28fd3b467f043a36": {
+   "fragment_id": "Artigo 43.º — Exigências gerais",
+   "type": "artigo",
+   "heading": "Artigo 43.º — Exigências gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Exigências gerais\n\n1. O Estado-Membro requerente assegura-se de que todos os pedidos de assistência contenham informações suficientes para permitir que o Estado-Membro requerido lhes dê seguimento, incluindo quaisquer provas necessárias que possam ser obtidas no território do Estado-Membro requerente.\n\n2. Os pedidos de assistência são limitados aos casos fundamentados em que existam motivos razoáveis para crer na ocorrência de actividades de pesca INN ou de uma das infracções graves referidas no artigo 42.º, n. 1, alíneas b) e c), do Regulamento (CE) n.º 1005/2008 e o Estado-Membro requerente não possa, pelos seus próprios meios, obter as informações pretendidas ou adoptar as medidas pretendidas."
+  },
+  "deddfad419306794": {
+   "fragment_id": "Artigo 44.º — Transmissão dos pedidos e das respostas",
+   "type": "artigo",
+   "heading": "Artigo 44.º — Transmissão dos pedidos e das respostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Transmissão dos pedidos e das respostas\n\n1. Os pedidos são exclusivamente enviados pela autoridade única do Estado-Membro requerente ou pela Comissão à autoridade única do Estado-Membro requerido. Todas as respostas a um pedido são comunicadas do mesmo modo.\n\n2. Os pedidos de assistência mútua e as respectivas respostas são feitos por escrito.\n\n3. As línguas a utilizar nos pedidos e na comunicação de informações são determinadas por acordo entre as autoridades únicas em causa, antes da transmissão dos pedidos. Se não for possível chegar a acordo, os pedidos são transmitidos na ou nas línguas oficiais do Estado-Membro requerente e as respostas na ou nas línguas oficiais do Estado-Membro requerido."
+  },
+  "06b3f56cac6f233f": {
+   "fragment_id": "Artigo 45.º — Pedidos de informações",
+   "type": "artigo",
+   "heading": "Artigo 45.º — Pedidos de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Pedidos de informações\n\n1. A pedido do Estado-Membro requerente ou da Comissão, o Estado-Membro requerido fornece todas as informações pertinentes para determinar se ocorreram ou se existem suspeitas justificadas de que possam ocorrer actividades de pesca INN ou infracções graves referidas no artigo 42.º, n.º 1, alíneas b) e c), do Regulamento (CE) n.º 1005/2008. Essas informações são fornecidas através da autoridade única referida no artigo 39.º\n\n2. A pedido do Estado-Membro requerente ou da Comissão, o Estado-Membro requerido procede aos inquéritos administrativos adequados em relação às operações que constituam, ou pareçam ao Estado-Membro requerente constituir, actividades de pesca INN ou infracções graves referidas no artigo 42.º, n.º 1, alíneas b) e c), do Regulamento (CE) n.º 1005/2008. O Estado-Membro requerido comunica os resultados desses inquéritos administrativos ao Estado-Membro requerente e à Comissão.\n\n3. A pedido do Estado-Membro requerente ou da Comissão, o Estado-Membro requerido pode permitir que um funcionário competente do Estado-Membro requerente acompanhe os seus funcionários ou os funcionários da Comissão durante os inquéritos administrativos referidos no n.º 2. Na medida em que as normas nacionais de processo penal reservem determinados actos a agentes especificamente designados pela legislação nacional, os funcionários do Estado-Membro requerente não participam em tais actos. Em circunstância alguma participam em buscas a instalações ou em interrogatórios formais de pessoas no âmbito do direito penal. Os funcionários do Estado-Membro requerente presentes no Estado-Membro requerido devem poder apresentar, em qualquer momento, um mandato escrito que precise a sua identidade e as suas funções oficiais.\n\n4. A pedido do Estado-Membro requerente, o Estado-Membro requerido fornece-lhe quaisquer documentos ou cópias autenticadas na sua posse relacionados com a pesca INN ou com infracções graves referidas no artigo 42.º, n.º 1, alíneas b) e c), do Regulamento (CE) n.º 1005/2008.\n\n5. O modelo do formulário para o intercâmbio de informações a pedido consta do anexo XI."
+  },
+  "ae0ec2ea843a809b": {
+   "fragment_id": "Artigo 46.º — Pedidos de medidas executórias",
+   "type": "artigo",
+   "heading": "Artigo 46.º — Pedidos de medidas executórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Pedidos de medidas executórias\n\n1. A pedido do Estado-Membro requerente ou da Comissão, o Estado-Membro requerido, com base nas provas referidas no artigo 43.º, adopta prontamente todas as medidas executórias necessárias para pôr termo, no seu território ou nas águas marinhas sob a sua soberania ou jurisdição, a qualquer actividade de pesca INN ou infracção grave referida no artigo 42.º, n.º 1, alíneas b) e c), do Regulamento (CE) n.º 1005/2008.\n\n2. O Estado-Membro requerido pode consultar o Estado-Membro requerente e a Comissão no decurso do processo de adopção das medidas executórias referidas no n.º 1.\n\n3. O Estado-Membro requerido comunica as medidas adoptadas e os respectivos efeitos ao Estado-Membro requerente, aos outros Estados-Membros em causa e à Comissão, através da autoridade única referida no artigo 39.º"
+  },
+  "8d9cc5fcfd4ee0d9": {
+   "fragment_id": "Artigo 47.º — Prazo de resposta aos pedidos de informação e de medidas executórias",
+   "type": "artigo",
+   "heading": "Artigo 47.º — Prazo de resposta aos pedidos de informação e de medidas executórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Prazo de resposta aos pedidos de informação e de medidas executórias\n\n1. O Estado-Membro requerido faculta as informações referidas nos artigos 45.º, n.º 1, e 46.º, n.º 3, o mais rapidamente possível, mas o mais tardar 4 semanas após a data de recepção do pedido. O Estado-Membro requerido, o Estado-Membro requerente e a Comissão podem acordar num prazo diferente.\n\n2. Sempre que o Estado-Membro requerido não consiga responder ao pedido no prazo previsto, informa o Estado-Membro requerente ou a Comissão, por escrito, dos motivos do incumprimento e de quando pensa poder dar resposta ao pedido."
+  },
+  "1288d8046619cda9": {
+   "fragment_id": "Artigo 48.º — Pedidos de notificação administrativa",
+   "type": "artigo",
+   "heading": "Artigo 48.º — Pedidos de notificação administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Pedidos de notificação administrativa\n\n1. A pedido do Estado-Membro requerente e em conformidade com as normas jurídicas nacionais em vigor para a notificação dos actos e decisões correspondentes, o Estado-Membro requerido notifica o destinatário de todos os actos e decisões adoptados nos domínios abrangidos pelo Regulamento (CE) n.º 1005/2008 que emanem das autoridades administrativas do Estado-Membro requerente e devam ser aplicados no território do Estado-Membro requerido.\n\n2. Os pedidos de notificação são feitos segundo o formulário-tipo que consta do anexo XII do presente regulamento.\n\n3. O Estado-Membro requerido transmite a sua resposta ao Estado-Membro requerente imediatamente após a notificação, através da autoridade única referida no artigo 39.º. As respostas aos pedidos de notificação são dadas segundo o formulário-tipo que consta do anexo XII do presente regulamento."
+  },
+  "9de9463d25d5cff1": {
+   "fragment_id": "Relações com a Comissão",
+   "type": "divisao",
+   "heading": "Relações com a Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Relações com a Comissão"
+  },
+  "de91dfa7595aa2ab": {
+   "fragment_id": "Artigo 49.º — Comunicação entre os Estados-Membros e a Comissão",
+   "type": "artigo",
+   "heading": "Artigo 49.º — Comunicação entre os Estados-Membros e a Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Comunicação entre os Estados-Membros e a Comissão\n\n1. Os Estados-Membros comunicam à Comissão, logo que delas disponham, quaisquer informações que considerem pertinentes em relação a métodos e práticas utilizados ou suspeitos de ser utilizados e às tendências reveladas no que respeita à pesca INN ou às infracções graves referidas no artigo 42.º, n.º 1, alíneas b) e c), do Regulamento (CE) n.º 1005/2008.\n\n2. A Comissão comunica aos Estados-Membros, logo que delas disponha, quaisquer informações susceptíveis de os ajudar a assegurar a aplicação do Regulamento (CE) n.º 1005/2008."
+  },
+  "057c9206599bd039": {
+   "fragment_id": "Artigo 50.º — Coordenação pela Comissão",
+   "type": "artigo",
+   "heading": "Artigo 50.º — Coordenação pela Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Coordenação pela Comissão\n\n1. Sempre que um Estado-Membro tenha conhecimento de operações que constituam, ou pareçam constituir, actividades de pesca INN ou infracções graves referidas no artigo 42.º, n.º 1, alíneas b) e c), do Regulamento (CE) n.º 1005/2008 e assumam especial relevância a nível comunitário, comunica o mais rapidamente possível à Comissão informações pertinentes necessárias para a determinação dos factos. A Comissão transmite essas informações aos outros Estados-Membros em causa.\n\n2. Para efeitos do n.º 1, as operações que constituem actividades de pesca INN ou infracções graves referidas no artigo 42.º, n.º1, alíneas b) e c), do Regulamento (CE) n.º 1005/2008 são consideradas de especial relevância a nível comunitário designadamente quando:\n\na) Tenham ou possam ter ramificações noutros Estados-Membros;\n\nb) O Estado-Membro considere provável que tenham ocorrido operações semelhantes noutros Estados-Membros.\n\n3. Sempre que a Comissão considere que operações de pesca que constituem actividades de pesca INN ou infracções graves referidas no artigo 42.º, n.º 1, alíneas b) e c), do Regulamento (CE) n.º 1005/2008 tiveram lugar num ou mais Estados-Membros, informa desse facto os Estados-Membros em causa, que procedem o mais rapidamente possível aos necessários inquéritos. Os Estados-Membros em causa comunicam à Comissão, o mais rapidamente possível, as conclusões de tais inquéritos."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "453608160528a627": {
+   "fragment_id": "Relações com países terceiros",
+   "type": "divisao",
+   "heading": "Relações com países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Relações com países terceiros"
+  },
+  "36ebec5636d0e17d": {
+   "fragment_id": "Artigo 51.º — Intercâmbio de informações com países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 51.º — Intercâmbio de informações com países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Intercâmbio de informações com países terceiros\n\n1. Sempre que um Estado-Membro receba de um país terceiro informações pertinentes para garantir a efectiva aplicação do Regulamento (CE) n.º 1005/2008 e do presente regulamento, comunica essas informações aos outros Estados-Membros em causa através da autoridade única, na medida em que tal lhe seja permitido pelos acordos de assistência bilateral com esse país terceiro.\n\n2. As informações recebidas ao abrigo do presente título podem ser comunicadas a um país terceiro por um Estado-Membro através da sua autoridade única, nos termos de um acordo de assistência bilateral com esse país terceiro. Essa comunicação tem lugar após consulta do Estado-Membro que comunicou originalmente as informações e em conformidade com a legislação comunitária e nacional relativa à protecção das pessoas singulares no que diz respeito ao tratamento dos dados pessoais.\n\n3. A Comissão pode, no âmbito dos acordos de pesca celebrados entre a Comunidade e países terceiros ou no quadro das organizações regionais de gestão das pescas ou de acordos semelhantes de que a Comunidade seja parte contratante ou parte não contratante cooperante, comunicar as informações pertinentes em relação à pesca INN ou a infracções graves referidas no artigo 42.º, n.º 1, alíneas b) e c), do Regulamento (CE) n.º 1005/2008 a outras partes nesses acordos, organizações ou acordos, sob reserva do consentimento do Estado-Membro que forneceu as informações."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "804cfe2bc5a8770c": {
+   "fragment_id": "Disposição transitória",
+   "type": "divisao",
+   "heading": "Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposição transitória"
+  },
+  "e4597a749189746e": {
+   "fragment_id": "Artigo 52.º — Estabelecimento de um sistema de informação sobre a pesca INN",
+   "type": "artigo",
+   "heading": "Artigo 52.º — Estabelecimento de um sistema de informação sobre a pesca INN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Estabelecimento de um sistema de informação sobre a pesca INN\n\nNa pendência do estabelecimento do «sistema de informação sobre a pesca INN», referido no artigo 51.º, n.º 2, do Regulamento (CE) n.º 1005/2008, as autoridades competentes dos Estados-Membros cooperam entre si e com a Comissão, ao abrigo deste título, através dos mecanismos existentes de intercâmbio de informações."
+  },
+  "4f8efffddfe96470": {
+   "fragment_id": "TÍTULO V",
+   "type": "divisao",
+   "heading": "TÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V"
+  },
+  "632819b1ca40e1b1": {
+   "fragment_id": "ALTERAÇÕES",
+   "type": "divisao",
+   "heading": "ALTERAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ALTERAÇÕES"
+  },
+  "7c17e76713683573": {
+   "fragment_id": "Artigo 53.º — Alteração do Regulamento (CE) n.º 1005/2008",
+   "type": "artigo",
+   "heading": "Artigo 53.º — Alteração do Regulamento (CE) n.º 1005/2008",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Alteração do Regulamento (CE) n.º 1005/2008\n\nO anexo I do Regulamento (CE) n.º 1005/2008, que contém a lista dos produtos excluídos da definição de «produtos da pesca» que consta do artigo 2.º, n.º 8, desse regulamento é alterado em conformidade com o anexo XIII do presente regulamento."
+  },
+  "fd1f6efdb97a73cb": {
+   "fragment_id": "TÍTULO VI",
+   "type": "divisao",
+   "heading": "TÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VI"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "c5f2bd77c7b0e7ce": {
+   "fragment_id": "Artigo 54.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 54.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Entrada em vigor\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 1 de Janeiro de 2010.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 22 de Outubro de 2009.\n\n***Pela Comissão***\n\n**Joe BORG**\n\n***Membro da Comissão***\n\n---"
+  },
+  "499205a49c4a614d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/d8563a9b-abcc-4b32-9856-4cfed444749c.0018.03/DOC_1#ntc1-L_2009280PT.01000501-E0001) [JO L 286 de 29.10.2008, p. 1](http://publications.europa.eu/resource/oj/JOL_2008_286_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/d8563a9b-abcc-4b32-9856-4cfed444749c.0018.03/DOC_1#ntc2-L_2009280PT.01000501-E0002) [JO L 281 de 23.11.1995, p. 31](http://publications.europa.eu/resource/oj/JOL_1995_281_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/d8563a9b-abcc-4b32-9856-4cfed444749c.0018.03/DOC_1#ntc3-L_2009280PT.01000501-E0003) [JO L 8 de 12.1.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_008_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/d8563a9b-abcc-4b32-9856-4cfed444749c.0018.03/DOC_1#ntc4-L_2009280PT.01000501-E0004) [JO L 333 de 20.12.2003, p. 17](http://publications.europa.eu/resource/oj/JOL_2003_333_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/d8563a9b-abcc-4b32-9856-4cfed444749c.0018.03/DOC_1#ntc5-L_2009280PT.01000501-E0005) [JO L 226 de 25.6.2004, p. 83](http://publications.europa.eu/resource/oj/JOL_2004_226_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/d8563a9b-abcc-4b32-9856-4cfed444749c.0018.03/DOC_1#ntc6-L_2009280PT.01000501-E0006) [JO L 253 de 11.10.1993, p. 1](http://publications.europa.eu/resource/oj/JOL_1993_253_R_TOC)."
+  },
+  "029dd6b67f10af96": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Outubro de 2009\n\nque determina as normas de execução do Regulamento (CE) n.º 1005/2008 do Conselho, que estabelece um regime comunitário para prevenir, impedir e eliminar a pesca ilegal, não declarada e não regulamentada"
+  },
+  "59212793c6699e88": {
+   "fragment_id": "Artigo 2.º — Formulário de notificação prévia",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Formulário de notificação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Formulário de notificação prévia\n\nO formulário para a notificação prévia a que se refere o artigo 6.º, n.º 1, do Regulamento (CE) n.º 1005/2008 consta do anexo II do presente regulamento."
+  },
+  "b423ffc07ba761cc": {
+   "fragment_id": "Artigo 3.º — Procedimentos e formulários para as declarações a apresentar antes das operações de desembarque ou transbordo",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Procedimentos e formulários para as declarações a apresentar antes das operações de desembarque ou transbordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Procedimentos e formulários para as declarações a apresentar antes das operações de desembarque ou transbordo\n\n1. O formulário para as declarações a apresentar antes das operações de desembarque, a que se refere o artigo 8.º, n.º 1, do Regulamento (CE) n º 1005/2008, consta do anexo III-A do presente regulamento.\n\n2. O formulário para as declarações a apresentar antes das operações de transbordo, a que se refere o artigo 8.º, n.º 1, do Regulamento (CE) n º 1005/2008, consta do anexo III-B do presente regulamento.\n\n3. Os navios de pesca de países terceiros podem submeter a declaração a apresentar antes das operações de desembarque ou de transbordo em formato electrónico, se o Estado-Membro cujos portos designados de desembarque e instalações de desembarque ou de transbordo tenciona utilizar e o Estado de pavilhão do navio tiverem acordado no intercâmbio electrónico de dados.\n\n4.\n\nSalvo disposição em contrário no acordo referido no n.º 3, os navios de pesca de países terceiros submetem a declaração a apresentar antes das operações de desembarque ou de transbordo:\n\na) Na língua oficial do Estado-Membro de desembarque ou transbordo; ou\n\nb) Em língua inglesa, se o Estado-Membro de desembarque ou transbordo o aceitar.\n\n5. A declaração a apresentar antes das operações de desembarque ou de transbordo é submetida pelo menos 4 horas antes da hora prevista para o desembarque ou transbordo."
+  },
+  "e24fff159115cb45": {
+   "fragment_id": "Artigo 4.º — Indicadores para as inspeções portuárias",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Indicadores para as inspeções portuárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Indicadores para as inspeções portuárias\n\n1.\n\nOs indicadores para as inspeções portuárias, referidos no artigo 9.º, n.º 1, do Regulamento (CE) n.º 1005/2008, consistem nos seguintes critérios:\n\na) As espécies em causa estão sujeitas a um regime de inspeção ou a quotas estabelecidos por organizações regionais de gestão das pescas;\n\nb) O navio de pesca não foi controlado num porto da UE nos últimos seis meses;\n\nc) As capturas são incoerentes com as atividades de pesca conhecidas de um Estado de pavilhão, nomeadamente no que respeita às espécies, aos volumes ou às características da sua frota de pesca;\n\nd) Não foi cumprido o disposto no artigo 6.º do Regulamento (CE) n.º 1005/2008 sobre a notificação prévia; Os dados de captura declarados pelo operador são incoerentes com outras informações de que disponha a autoridade competente;\n\ne) Há suspeitas de que o proprietário do navio ou o operador do navio está ou esteve implicado em atividades de pesca INN;\n\nf) O navio mudou recentemente de nome, pavilhão ou número de registo;\n\ng) O navio arvora ou arvorou nos últimos 5 anos pavilhão de um Estado notificado pela Comissão Europeia da possibilidade de ser identificado como país terceiro não cooperante em conformidade com o artigo 31.º do Regulamento (CE) n.º 1005/2008;\n\nh) O navio arvora pavilhão de um Estado que não foi notificado em conformidade com o artigo 20.º do Regulamento (CE) n.º 1005/2008;\n\ni) Há informações disponíveis sobre eventuais irregularidades na validação dos certificados de captura por um determinado Estado de pavilhão;\n\nj) Há presumíveis deficiências no sistema de controlo de um Estado de pavilhão;\n\nk) Os operadores em causa estiveram anteriormente implicados em atividades ilegais que constituem um potencial risco de pesca INN;\n\nl) Foi recusada ao navio de pesca a entrada ou a utilização de um porto em conformidade com a legislação internacional, regional e/ou nacional aplicável, incluindo os navios de pesca que acabaram por ser autorizados a entrar ou a aceder ao porto por motivos de força maior ou de emergência em conformidade com o artigo 4.º, n.º 2, do Regulamento (CE) n.º 1005/2008.\n\n2. A fim de assegurar a aplicação do primeiro parágrafo, alínea b), os Estados-Membros comunicam sem demora à Comissão e à Agência Europeia de Controlo das Pescas, após cada inspeção, o nome e o pavilhão do navio do país terceiro inspecionado e a data da inspeção. A Comissão ou a Agência Europeia de Controlo das Pescas disponibilizam estas informações aos outros Estados-Membros."
+  },
+  "9ed9b77e84120191": {
+   "fragment_id": "Artigo 6.º — Certificado de captura simplificado",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Certificado de captura simplificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Certificado de captura simplificado\n\n1.\n\nO presente artigo é aplicável aos navios de pesca de países terceiros:\n\na) Com um comprimento de fora a fora inferior a 12 metros sem artes rebocadas; ou\n\nb) Com um comprimento de fora a fora inferior a 8 metros com artes rebocadas; ou\n\nc) Sem superstrutura; ou\n\nd) Com uma arqueação medida inferior a 20 GT.\n\n2. As capturas dos navios de pesca de países terceiros referidos no n.º 1 que só sejam desembarcadas no Estado de pavilhão desses navios e que, em conjunto, constituam uma única remessa podem ser acompanhadas por um certificado de captura simplificado, em vez do certificado de captura referido no artigo 12.º do Regulamento (CE) n.º 1005/2008. O certificado de captura simplificado inclui todas as informações especificados no modelo apresentado no anexo IV do presente regulamento e é validado por uma autoridade pública do Estado de pavilhão com os poderes necessários para atestar a exactidão das informações.\n\n3. A validação do certificado de captura simplificado é solicitada pelo exportador da remessa mediante apresentação à autoridade pública de todas as informações especificadas no modelo apresentado no anexo IV."
+  },
+  "e868d2ea0563af4a": {
+   "fragment_id": "Artigo 6.º-A — CAPTURAS",
+   "type": "artigo",
+   "heading": "Artigo 6.º-A — CAPTURAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º-A — CAPTURAS\n\n1.\n\nEm conformidade com o artigo 12.º-A, n.º 2, do Regulamento (CE) n.º 1005/2008, o importador, o reexportador e, se for caso disso, o exportador apresentam através do sistema CATCH, consoante o caso, os seguintes documentos e as informações neles contidas à autoridade competente do Estado-Membro em que os produtos da pesca se destinam a ser introduzidos em livre prática, ou, em caso de reexportação, à autoridade competente do Estado-Membro a partir do qual devem ser reexportados, ou, no caso das exportações, à autoridade competente do Estado-Membro de pavilhão:\n\na) O certificado de captura em conformidade com o artigo 12.º do Regulamento (CE) n.º 1005/2008 e com o modelo estabelecido no anexo II do mesmo regulamento;\n\nb) O certificado de captura simplificado em conformidade com o artigo 6.º e com o modelo estabelecido no anexo IV do presente regulamento;\n\nc) O certificado de reexportação previsto no artigo 21.º do Regulamento (CE) n.º 1005/2008 e incluído no anexo II do Regulamento (CE) n.º 1005/2008 ou no anexo IV do presente regulamento;\n\nd) As informações relativas ao transporte previstas no apêndice do anexo II do Regulamento (CE) n.º 1005/2008;\n\ne) A declaração referida no artigo 14.º, n.º 2, do Regulamento (CE) n.º 1005/2008, estabelecida pela unidade de transformação de um país terceiro e aprovada pela autoridade competente desse país terceiro, segundo o formulário constante do anexo IV do Regulamento (CE) n.º 1005/2008;\n\nf) O documento de transporte único a que se refere o artigo 14.º, n.º 1, do Regulamento (CE) n.º 1005/2008 ou o documento de não manipulação segundo o modelo estabelecido no Regulamento Delegado (UE) 2025/453;\n\ng) Quaisquer documentos comprovativos ou informações pertinentes no âmbito do regime de certificação das capturas relacionados com os produtos da pesca.\n\n2. Os documentos e informações a que se refere o n.º 1 são redigidos em, pelo menos, uma das línguas oficiais da UE do Estado-Membro em que são apresentados.\n\n3. Em derrogação do n.º 2, o Estado-Membro em que a apresentação tem lugar pode autorizar, mediante pedido do operador interessado, a receção de documentos escritos noutra língua oficial da UE.\n\n4. Cada Estado-Membro designa um ou mais pontos de contacto para o sistema CATCH e comunica essa designação e os correspondentes contactos à Comissão. Os Estados-Membros atualizam os pontos de contacto para o sistema CATCH e informam imediatamente a Comissão de quaisquer alterações a este respeito. A Comissão mantém uma lista de pontos de contacto, que atualiza periodicamente, e disponibiliza-a a todos os Estados-Membros.\n\n5. A Comissão tem acesso a todos os dados, informações e documentos no sistema CATCH, a fim de monitorizar o intercâmbio de dados, informações e documentos aí inseridos ou elaborados para identificar atividades que não são, ou parecem não ser, conformes com as regras estabelecidas no Regulamento (CE) n.º 1005/2008. A Agência Europeia de Controlo das Pescas (AECP) tem os mesmos direitos de acesso que a Comissão, a fim de assistir a Comissão e os Estados-Membros na aplicação uniforme e eficaz das regras da política comum das pescas, tal como previsto no Regulamento (UE) 2019/473 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/5cd5a3d4-0c5e-11f1-8870-01aa75ed71a1.0019.02/DOC_1#E0001)), incluindo no que respeita à luta contra a pesca INN.\n\n6. No que respeita ao acesso de utilizadores que não a Comissão nem a Agência Europeia de Controlo das Pescas a dados, informações e documentos que se encontram no sistema CATCH, aplicam-se as regras gerais do TRACES estabelecidas no artigo 36.º do Regulamento de Execução (UE) 2019/1715.\n\n7.\n\nApós receção de um pedido, a Comissão pode conceder à autoridade competente e aos operadores de um país terceiro acesso parcial às funcionalidades do sistema CATCH e aos dados específicos pertinentes para esse país terceiro para a produção e validação dos certificados de captura e documentos conexos no referido sistema, desde que o requerente demonstre que cumpre os seguintes requisitos:\n\na) Tem a capacidade jurídica e operacional para prestar, sem demora injustificada, a assistência necessária para permitir o bom funcionamento do sistema CATCH; e\n\nb) Designou um ponto de contacto para esse efeito.\n\nO acesso parcial a que se refere o presente número não inclui o acesso aos dados pessoais tratados no sistema CATCH, exceto se o país terceiro requerente cumprir as condições para as transferências lícitas de dados pessoais estabelecidas nos Regulamentos (UE) 2016/679 e (UE) 2018/1725.\n\n8. Os intercâmbios de dados entre o sistema CATCH e outros sistemas eletrónicos, incluindo os sistemas nacionais dos Estados-Membros, devem ser síncronos, recíprocos e baseados nas normas UN/CEFACT. Os intercâmbios de dados entre o sistema CATCH e os sistemas nacionais dos Estados-Membros devem utilizar os dados de referência fornecidos no CATCH.\n\n9. Em caso de indisponibilidade do sistema CATCH, os utilizadores podem utilizar modelos impressos ou eletrónicos para registar e trocar informações. Estes modelos devem estar disponíveis ao público num sítio Web oficial da Comissão. Logo que o sistema esteja novamente disponível, o importador deve introduzir no sistema CATCH as informações registadas nos modelos impressos ou eletrónicos e anexá-los ao referido sistema como documentos comprovativos. Estes documentos devem ostentar a menção «produzido em período de contingência». A Comissão deve informar os utilizadores, através do sistema CATCH e com duas semanas de antecedência, de qualquer indisponibilidade planeada, da sua duração e de qual a razão.\n\n10. Para efeitos do cumprimento do artigo 22.º, n.º 4, do Regulamento (CE) n.º 1005/2008, os certificados de captura e os documentos conexos gerados por operadores de países terceiros e validados por via eletrónica pelas autoridades de países terceiros no sistema CATCH são armazenados por este sistema durante pelo menos 3 anos. Os dados pessoais dos certificados de captura e dos documentos conexos são armazenados pelo sistema CATCH durante um período não superior a 10 anos.\n\n11. No que respeita ao tratamento de dados pessoais no sistema CATCH, aplicam-se as regras gerais aplicáveis ao IMSOC estabelecidas nos artigos 10.º e 11.° do Regulamento de Execução (UE) 2019/1715."
+  },
+  "c5b71c9f2f9bbccd": {
+   "fragment_id": "Artigo 7.º — Reconhecimento dos regimes de documentação das capturas das ORGP",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Reconhecimento dos regimes de documentação das capturas das ORGP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Reconhecimento dos regimes de documentação das capturas das ORGP\n\nOs regimes de documentação das capturas adotados por ORGP constantes do anexo V do presente regulamento são reconhecidos, para efeitos do artigo 13.º, n.º 1, do Regulamento (CE) n.º 1005/2008, como cumprindo as exigências desse regulamento, sem condições suplementares."
+  },
+  "3266d0899e039c24": {
+   "fragment_id": "Artigo 9.º — Disposições gerais",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições gerais\n\nOs operadores económicos só podem, mediante pedido, obter um certificado de operador económico aprovado (a seguir designado por «certificado APEO») para efeitos do artigo 16.º do Regulamento (CE) n.º 1005/2008 se:\n\na) Forem titulares de um certificado de operador económico autorizado (a seguir designado por «certificado AEO») em conformidade com o Regulamento (CEE) n.º 2454/93 da Comissão ([^2^](http://publications.europa.eu/resource/cellar/5cd5a3d4-0c5e-11f1-8870-01aa75ed71a1.0019.02/DOC_1#E0002)) (a seguir designado por «disposições de aplicação do Código Aduaneiro Comunitário»); e\n\nb) Cumprirem os critérios definidos no artigo 16.º, n.º 3, alíneas a) a g), do Regulamento (CE) n.º 1005/2008 e especificados nos artigos 10.º a 13.º do presente regulamento."
+  },
+  "23a8022f1b96075a": {
+   "fragment_id": "Artigo 11.º — Registo do cumprimento dos requisitos",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Registo do cumprimento dos requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Registo do cumprimento dos requisitos\n\n1.\n\nO registo do cumprimento dos requisitos das medidas de conservação e de gestão referido no artigo 16.º, n.º 3, alínea c), do Regulamento (CE) n.º 1005/2008 é considerado adequado se, nos três anos anteriores à apresentação do pedido, o requerente:\n\na) Não tiver cometido nenhuma infracção grave às regras da política comum das pescas;\n\nb) Não tiver cometido infracções repetidas às regras da política comum das pescas;\n\nc) Não tiver participado directa ou indirectamente nem dado apoio a actividades de navios ou de operadores implicados em actividades de pesca INN ou que estejam a ser investigados nesse contexto; e\n\nd) Não tiver participado directa ou indirectamente nem dado apoio a actividades de navios que constem das listas de navios INN adoptadas por uma ORGP.\n\n2.\n\nSem prejuízo do n.º 1, o registo do cumprimento dos requisitos das medidas de conservação e de gestão pode ser considerado adequado se a autoridade competente do Estado-Membro entender que uma infracção cometida pelo requerente:\n\na) Não é grave; e\n\nb) Tem uma importância quantitativa negligenciável perante o número ou a dimensão das operações relacionadas com a importação levadas a cabo pelo requerente."
+  },
+  "57c318038464892b": {
+   "fragment_id": "Artigo 12.º — Gestão dos registos",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Gestão dos registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Gestão dos registos\n\nO sistema de gestão dos certificados de captura e, se for caso disso, dos registos de transformação, referido no artigo 16.º, n.º 3, alínea d), do Regulamento (CE) n.º 1005/2008, é considerado satisfatório se forem registadas no sistema CATCH as informações contidas nos certificados de captura e nos documentos conexos a que se refere o artigo 14.º do Regulamento (CE) n.º 1005/2008."
+  },
+  "4e86ca61e5850140": {
+   "fragment_id": "Artigo 16.º — Análise do pedido",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Análise do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Análise do pedido\n\n1. A autoridade emissora do Estado-Membro verifica se se encontram cumpridos os critérios estabelecidos nos artigos 9.º a 13.º. Essa verificação e os respectivos resultados são documentados pela autoridade competente do Estado-Membro.\n\n2. Caso o requerente seja titular de um certificado «AEO - Segurança e Protecção» ou de um certificado «AEO - Simplificações Aduaneiras/Segurança e Protecção», referidos no artigo 14.º-A das disposições de aplicação do Código Aduaneiro Comunitário, não é necessário verificar o cumprimento dos critérios estabelecidos no artigo 13.º\n\n3.\n\nNos casos em que o estatuto de operador económico aprovado já tenha sido concedido anteriormente ao requerente noutro Estado-Membro, a autoridade emissora verifica se se encontram cumpridos:\n\na) Os critérios estabelecidos nos artigos 12.º e 13.º;\n\nb) A título facultativo, os critérios estabelecidos nos artigos 10.º e 11.º\n\n4. A autoridade emissora pode aceitar as conclusões apresentadas por um perito nos domínios pertinentes a que se referem os artigos 12.º e 13.º, no que respeita aos critérios estabelecidos nesses artigos. O perito não pode ter qualquer relação com o requerente."
+  },
+  "aa662b76798f22a7": {
+   "fragment_id": "Artigo 21.º — Disposições gerais",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Disposições gerais\n\n1. O certificado APEO produz efeitos no décimo dia útil seguinte à data da sua emissão. O seu período de validade não é limitado.\n\n2. O certificado APEO é válido apenas no Estado-Membro da autoridade emissora.\n\n3. As autoridades competentes controlam o cumprimento dos critérios estabelecidos nos artigos 9.º a 13.º\n\n4. No caso de um certificado APEO emitido a um requerente estabelecido há menos de três anos, deve proceder-se a um controlo próximo durante o primeiro ano após a emissão.\n\n5.\n\nA autoridade emissora procede a uma reavaliação do cumprimento dos critérios referidos nos artigos 9.º a 13.º nos seguintes casos:\n\na) Alterações importantes da legislação comunitária pertinente;\n\nb) Indicação razoável de que os critérios pertinentes deixaram de ser satisfeitos pelo operador económico aprovado.\n\n6. O artigo 16.º, n.º 4, é aplicável à reavaliação.\n\n7. A autoridade emissora informa a Comissão, o mais rapidamente possível, dos resultados da reavaliação. A Comissão disponibiliza essas informações às autoridades competentes de todos os Estados-Membros, por via electrónica."
+  },
+  "6972b1e547a6378b": {
+   "fragment_id": "Artigo 22.º — Suspensão do estatuto de operador económico aprovado",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Suspensão do estatuto de operador económico aprovado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Suspensão do estatuto de operador económico aprovado\n\n1.\n\nO estatuto de operador económico aprovado é suspenso pela autoridade emissora nos seguintes casos:\n\na) Sempre que seja detectado o incumprimento dos critérios estabelecidos nos artigos 9.º a 13.º;\n\nb) Sempre que as autoridades competentes do Estado-Membro tenham razões suficientes para acreditar que foi cometido pelo operador económico aprovado um acto passível de procedimento judicial e relacionado com uma infracção às regras da política comum das pescas ou do Regulamento (CE) n.º 1005/2008;\n\nc) Sempre que o estatuto de operador económico autorizado tenha sido suspenso em conformidade com as disposições de aplicação do Código Aduaneiro Comunitário;\n\nd) Sempre que a suspensão seja solicitada por um operador económico aprovado temporariamente incapaz de preencher um dos critérios estabelecidos nos artigos 9.º a 13.º\n\n2. Antes de tomarem uma decisão em conformidade com o n.º 1, alíneas a), b) e c), as autoridades competentes do Estado-Membro comunicam as suas conclusões ao operador económico em causa. Os operadores podem expressar o seu ponto de vista no prazo de 30 dias a contar da data de recepção dessa comunicação.\n\n3. Todavia, se a natureza ou o nível da ameaça às medidas de conservação respeitantes a uma ou mais unidades populacionais o exigirem, a suspensão tem efeito imediato. A autoridade que procede à suspensão informa imediatamente a Comissão, para que os outros Estados-Membros possam tomar as medidas adequadas.\n\n4. A suspensão referida no n.º 1 produz efeitos a partir do dia seguinte à sua notificação ao operador económico aprovado. No entanto, essa suspensão não afecta eventuais procedimentos de importação iniciados antes da data da suspensão e ainda não concluídos."
+  },
+  "dc304d0e0ff9ec32": {
+   "fragment_id": "Artigo 27.º — Retirada do certificado APEO",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Retirada do certificado APEO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Retirada do certificado APEO\n\n1.\n\nO certificado APEO é retirado nos seguintes casos:\n\na) Sempre que o operador económico aprovado não adopte as medidas necessárias para preencher os critérios estabelecidos nos artigos 9.º a 13.º em conformidade com o artigo 23.º, n.º 3;\n\nb) Sempre que tenha sido estabelecido que o operador económico aprovado cometeu uma infracção grave ou repetidas infracções às regras da política comum das pescas ou ao Regulamento (CE) n.º 1005/2008 e as vias de recurso tenham sido esgotadas;\n\nc) Sempre que o operador económico aprovado não adopte as medidas necessárias para preencher os critérios estabelecidos nos artigos 9.º a 13.º em conformidade com o artigo 26.º;\n\nd) Sempre que o estatuto de operador económico autorizado, concedido em conformidade com as disposições de aplicação do Código Aduaneiro Comunitário, tenha sido retirado;\n\ne) A pedido do operador económico aprovado.\n\n2. No caso referido no n.º 1, alínea b), a autoridade competente pode decidir não retirar o certificado do APEO se as infracções tiverem uma importância quantitativa negligenciável perante o número ou a dimensão das operações relacionadas com a importação levadas a cabo por esse operador.\n\n3. A retirada produz efeitos a partir do dia seguinte à sua notificação ao operador económico aprovado.\n\n4. A autoridade emissora informa imediatamente a Comissão da retirada de um certificado APEO."
+  },
+  "11cb901393cb82f8": {
+   "fragment_id": "Artigo 29.º — Partilha de informações sobre os operadores económicos aprovados",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Partilha de informações sobre os operadores económicos aprovados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Partilha de informações sobre os operadores económicos aprovados\n\n1.\n\nA Comissão e as autoridades competentes de todos os Estados-Membros conservam por um período de três ou mais anos, de acordo com as regras nacionais, e têm acesso às seguintes informações:\n\na) Dados dos pedidos transmitidos por via electrónica;\n\nb) Certificados APEO, e, se for caso disso, respectiva alteração ou retirada, ou suspensão do estatuto de operador económico aprovado.\n\n2. O sistema de informação sobre a pesca INN referido no artigo 51.º do Regulamento (CE) n.º 1005/2008 pode ser utilizado para o processo de informação e comunicação entre as autoridades competentes e para a comunicação de informações à Comissão e aos operadores económicos nos termos do presente capítulo.\n\n3. A Comissão pode divulgar ao público através da Internet a lista de operadores económicos aprovados, com o acordo prévio dos mesmos. Essa lista é mantida actualizada."
+  },
+  "d4a64fe1d9e80d4a": {
+   "fragment_id": "Controlos e verificações",
+   "type": "divisao",
+   "heading": "Controlos e verificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Controlos e verificações"
+  },
+  "be71227627a52420": {
+   "fragment_id": "Artigo 31.º — Critérios de verificação da União",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Critérios de verificação da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Critérios de verificação da União\n\nEm conformidade com o artigo 17.º, n.º 3, do Regulamento (CE) n.º 1005/2008, os Estados-Membros centram as verificações nos riscos identificados com base nos seguintes critérios da União:\n\na) Alertas desencadeados no sistema CATCH;\n\nb) Informações partilhadas por mensagens de assistência mútua em conformidade com o artigo 51.º do Regulamento (CE) n.º 1005/2008 e com o título IV do presente regulamento;\n\nc) Produtos obtidos de espécies sujeitas a quota no âmbito de uma organização regional de gestão das pescas;\n\nd) País notificado da possibilidade de ser identificado como país terceiro não cooperante em conformidade com o artigo 32.º do Regulamento (CE) n.º 1005/2008;\n\ne) Suspeita de que o navio, o seu proprietário ou o seu operador está ou esteve implicado em atividades de pesca INN;\n\nf) Implicação do navio, do seu proprietário ou do seu operador em atividades ilegais que não a pesca INN, mas que constituam um risco potencial de pesca INN;\n\ng) O navio mudou recentemente de nome, pavilhão ou número de registo;\n\nh) Produtos da pesca obtidos de espécies de elevado valor comercial;\n\ni) Introdução de novos tipos de produtos da pesca, novas apresentações de produto ou novos padrões comerciais;\n\nj) Incoerências entre os padrões comerciais e as atividades de pesca conhecidas de um Estado de pavilhão, nomeadamente no que respeita às espécies, aos volumes ou às características da sua frota de pesca;\n\nk) Incoerências entre os padrões comerciais e as atividades conhecidas de um país terceiro no setor das pescas, nomeadamente no que respeita às características da sua indústria transformadora ou da sua comercialização de produtos da pesca;\n\nl) Padrões comerciais não justificados em termos de racionalidade ou lógica económica;\n\nm) Aumento significativo e súbito do volume de comércio de uma determinada espécie;\n\nn) Certificado de captura apresentado para várias remessas;\n\no) Geração, validação e apresentação de certificados de captura em papel ou aprovação de declarações de transformação em papel;\n\np) Incoerências entre os dados apresentados pelo operador no sistema CATCH e os dados contidos nos certificados de captura em papel, ou em quaisquer outros documentos conexos em papel, ou quaisquer outras informações pertinentes de que a autoridade competente disponha;\n\nq) Utilização da casa 6 do certificado de captura constante do anexo II do Regulamento (CE) n.º 1005/2008;\n\nr) Utilização da casa 7 do certificado de captura constante do anexo II do Regulamento (CE) n.º 1005/2008 em caso de transbordo;\n\ns) Apresentação de certificados de captura acompanhados de várias informações relativas ao transporte, como previsto no apêndice do anexo II do Regulamento (CE) n.º 1005/2008 e/ou de documentos previstos no artigo 14.º, n.º 1, do mesmo regulamento;\n\nt) Produto de um novo Estado de pavilhão ou de um novo Estado exportador;\n\nu) Operador recentemente estabelecido."
+  },
+  "33739f76f4086a0a": {
+   "fragment_id": "Artigo 32.º — Obrigações de comunicação e de avaliação",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Obrigações de comunicação e de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Obrigações de comunicação e de avaliação\n\n1. No relatório que devem transmitir de dois em dois anos à Comissão nos termos do artigo 55.º, n.º 1, do Regulamento (CE) n.º 1005/2008, os Estados-Membros incluem informações sobre a aplicação dos critérios referidos no artigo 31.º.\n\n2.\n\nNos seus relatórios, os Estados-Membros devem incluir as seguintes informações:\n\na) Controlos efetuados em conformidade com o artigo 16.º, n.º 1, do Regulamento (CE) n.º 1005/2008;\n\nb) Número e natureza dos indicadores de risco adicionais introduzidos pelos Estados-Membros no sistema CATCH ao nível nacional;\n\nc) Número de alertas desencadeados no sistema CATCH por indicador de risco;\n\nd) Riscos identificados com base na aplicação dos critérios da União referidos no artigo 31.º do presente regulamento e de critérios nacionais adicionais, se comunicados à Comissão em conformidade com o artigo 17.º, n.º 3, do Regulamento (CE) n.º 1005/2008;\n\ne) Resultados das atividades de verificação efetuadas para fazer face ao risco identificado em conformidade com o artigo 17.º, n.º 3, do Regulamento (CE) n.º 1005/2008;\n\nf) Verificações efetuadas em conformidade com o artigo 17.º, n.º 4, do Regulamento (CE) n.º 1005/2008;\n\ng) Verificações efetuadas aleatoriamente em conformidade com o artigo 17.º, n.º 5, do Regulamento (CE) n.º 1005/2008.\n\n3. Com base nesses relatórios e nas suas próprias observações, a Comissão procede a uma avaliação e ao eventual ajustamento dos critérios da União."
+  },
+  "f79fb945852f9b61": {
+   "fragment_id": "Artigo 36.º — Proteção e tratamento dos dados pessoais",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Proteção e tratamento dos dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Proteção e tratamento dos dados pessoais\n\n1. Os Regulamentos (UE) 2016/679 e (UE) 2018/1725, bem como as disposições nacionais de transposição da Diretiva (UE) 2016/680 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/5cd5a3d4-0c5e-11f1-8870-01aa75ed71a1.0019.02/DOC_1#E0003)), aplicam-se ao tratamento de dados pessoais efetuado nos termos do Regulamento (CE) n.º 1005/2008 pelos Estados-Membros, pela Comissão ou por um organismo por ela designado.\n\n2. Os direitos das pessoas são exercidos, no que respeita ao seus dados pessoais tratados nos sistemas nacionais, nos termos da legislação do Estado-Membro que armazenou os seus dados pessoais e, em particular, das disposições de execução do Regulamento (UE) 2016/679, e, no que respeita aos seus dados pessoais tratados em sistemas da União, são exercidos nos termos do Regulamento (UE) 2018/1725.\n\n3. A Comissão ou o organismo por ela designado e os Estados-Membros podem tratar os dados pessoais de pessoas singulares, a fim de dar cumprimento às suas obrigações decorrentes das regras da política comum das pescas, nomeadamente para a realização de verificações e inquéritos em conformidade com as disposições do Regulamento (UE) n.º 1005/2008, ou das regras constantes de acordos com países terceiros ou organizações internacionais.\n\n4.\n\nA Comissão pode limitar alguns dos direitos dos titulares dos dados no contexto do tratamento de dados pessoais que efetue no âmbito do regime da União para prevenir, impedir e eliminar a pesca ilegal, não declarada e não regulamentada, em conformidade com a Decisão (UE) 2019/1862 da Comissão de 6 de novembro de 2019."
+  },
+  "542432681e87c1dd": {
+   "fragment_id": "Artigo 37.º — Utilização das informações e proteção do sigilo profissional e comercial",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Utilização das informações e proteção do sigilo profissional e comercial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Utilização das informações e proteção do sigilo profissional e comercial\n\n1. Os Estados-Membros e a Comissão tomam todas as medidas necessárias para assegurar que os dados abrangidos pelo sigilo profissional e comercial recolhidos, recebidos e transmitidos no âmbito do presente regulamento sejam tratados em conformidade com as regras aplicáveis em matéria de sigilo profissional e comercial.\n\n2. Os dados referidos no n.º 1 trocados entre os Estados-Membros e a Comissão podem ser transmitidos a pessoas que não sejam dos Estados-Membros, da Comissão ou de um organismo por ela designado, desde que as respetivas funções exijam o acesso a esses dados e que o Estado-Membro ou a Comissão ou o organismo por ela designado que forneceu esses dados o tenham consentido. Em caso de recusa, o Estado-Membro, a Comissão ou o organismo por ela designado apresentam os motivos da recusa de transmissão dos dados. A ausência de resposta a um pedido de consentimento no prazo de um mês é considerada consentimento.\n\n3. Os dados referidos no n.º 1 não podem ser utilizados para fins que não os previstos no presente regulamento, exceto com o consentimento do Estado-Membro, da Comissão ou do organismo por ela designado que forneceu esses dados e desde que as disposições em vigor no Estado-Membro da autoridade que recebe os dados não proíbam tal utilização. Em caso de recusa, o Estado-Membro, a Comissão ou o organismo por ela designado apresentam os motivos da recusa."
+  },
+  "fc936d3ffec5e5f0": {
+   "fragment_id": "Artigo 40.º — Medidas de seguimento",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Medidas de seguimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Medidas de seguimento\n\n1. Sempre que as autoridades nacionais decidam, em resposta a um pedido de assistência com base no presente título ou no seguimento de um intercâmbio de informações espontâneo, adoptar medidas que só possam ser aplicadas com a autorização ou a pedido de uma autoridade judicial, comunicam ao Estado-Membro em causa e à Comissão toda a informação sobre essas medidas que esteja relacionada com a pesca INN, com as infracções graves referidas no [**►M8**](http://publications.europa.eu/resource/celex/32025R1522) artigo 42.º do Regulamento (CE) n.º 1005/2008**◄** ou com infracções ao presente regulamento.\n\n2. Essa comunicação está sujeita à prévia autorização da autoridade judicial, se tal autorização for exigida pela legislação nacional."
+  },
+  "0f0f9e274eadf8fa": {
+   "fragment_id": "Artigo 41.º — Comunicação de informações sem pedido prévio",
+   "type": "artigo",
+   "heading": "Artigo 41.º — Comunicação de informações sem pedido prévio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Comunicação de informações sem pedido prévio\n\n1. Sempre que um Estado-Membro tenha conhecimento de qualquer actividade de pesca que possa configurar uma actividade de pesca INN ou uma das infracções graves referidas no [**►M8**](http://publications.europa.eu/resource/celex/32025R1522) artigo 42.º do Regulamento (CE) n.º 1005/2008**◄**, ou suspeite razoavelmente que tal actividade ou infracção possa ocorrer, notifica o mais rapidamente possível os outros Estados-Membros em causa e Comissão. Essa notificação fornece todas as informações necessárias e é feita através da autoridade única referida no artigo 39.º\n\n2. Sempre que um Estado-Membro adopte medidas executórias em relação a uma actividade de pesca INN ou a uma das infracções referidas no n.º 1, notifica os outros Estados-Membros em causa e a Comissão através da autoridade única referida no artigo 39.º\n\n3. Todas as notificações previstas no presente artigo são feitas por escrito."
+  },
+  "d4f2eedd40d6ae37": {
+   "fragment_id": "Artigo 43.º — Exigências gerais",
+   "type": "artigo",
+   "heading": "Artigo 43.º — Exigências gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Exigências gerais\n\n1. O Estado-Membro requerente assegura-se de que todos os pedidos de assistência contenham informações suficientes para permitir que o Estado-Membro requerido lhes dê seguimento, incluindo quaisquer provas necessárias que possam ser obtidas no território do Estado-Membro requerente.\n\n2. Os pedidos de assistência são limitados aos casos fundamentados em que existam motivos razoáveis para crer na ocorrência de actividades de pesca INN ou de uma das infracções graves referidas no [**►M8**](http://publications.europa.eu/resource/celex/32025R1522) artigo 42.º do Regulamento (CE) n.º 1005/2008**◄** e o Estado-Membro requerente não possa, pelos seus próprios meios, obter as informações pretendidas ou adoptar as medidas pretendidas."
+  },
+  "67624d09980ddbc9": {
+   "fragment_id": "Artigo 45.º — Pedidos de informações",
+   "type": "artigo",
+   "heading": "Artigo 45.º — Pedidos de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Pedidos de informações\n\n1. A pedido do Estado-Membro requerente ou da Comissão, o Estado-Membro requerido fornece todas as informações pertinentes para determinar se ocorreram ou se existem suspeitas justificadas de que possam ocorrer actividades de pesca INN ou infracções graves referidas no [**►M8**](http://publications.europa.eu/resource/celex/32025R1522) artigo 42.º do Regulamento (CE) n.º 1005/2008**◄**. Essas informações são fornecidas através da autoridade única referida no artigo 39.º\n\n2. A pedido do Estado-Membro requerente ou da Comissão, o Estado-Membro requerido procede aos inquéritos administrativos adequados em relação às operações que constituam, ou pareçam ao Estado-Membro requerente constituir, actividades de pesca INN ou infracções graves referidas no [**►M8**](http://publications.europa.eu/resource/celex/32025R1522) artigo 42.º do Regulamento (CE) n.º 1005/2008**◄**. O Estado-Membro requerido comunica os resultados desses inquéritos administrativos ao Estado-Membro requerente e à Comissão.\n\n3. A pedido do Estado-Membro requerente ou da Comissão, o Estado-Membro requerido pode permitir que um funcionário competente do Estado-Membro requerente acompanhe os seus funcionários ou os funcionários da Comissão durante os inquéritos administrativos referidos no n.º 2. Na medida em que as normas nacionais de processo penal reservem determinados actos a agentes especificamente designados pela legislação nacional, os funcionários do Estado-Membro requerente não participam em tais actos. Em circunstância alguma participam em buscas a instalações ou em interrogatórios formais de pessoas no âmbito do direito penal. Os funcionários do Estado-Membro requerente presentes no Estado-Membro requerido devem poder apresentar, em qualquer momento, um mandato escrito que precise a sua identidade e as suas funções oficiais.\n\n4. A pedido do Estado-Membro requerente, o Estado-Membro requerido fornece-lhe quaisquer documentos ou cópias autenticadas na sua posse relacionados com a pesca INN ou com infracções graves referidas no [**►M8**](http://publications.europa.eu/resource/celex/32025R1522) artigo 42.º do Regulamento (CE) n.º 1005/2008**◄**.\n\n5. O modelo do formulário para o intercâmbio de informações a pedido consta do anexo XI."
+  },
+  "9ba88475e39fe9a9": {
+   "fragment_id": "Artigo 46.º — Pedidos de medidas executórias",
+   "type": "artigo",
+   "heading": "Artigo 46.º — Pedidos de medidas executórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Pedidos de medidas executórias\n\n1. A pedido do Estado-Membro requerente ou da Comissão, o Estado-Membro requerido, com base nas provas referidas no artigo 43.º, adopta prontamente todas as medidas executórias necessárias para pôr termo, no seu território ou nas águas marinhas sob a sua soberania ou jurisdição, a qualquer actividade de pesca INN ou infracção grave referida no [**►M8**](http://publications.europa.eu/resource/celex/32025R1522) artigo 42.º do Regulamento (CE) n.º 1005/2008**◄**.\n\n2. O Estado-Membro requerido pode consultar o Estado-Membro requerente e a Comissão no decurso do processo de adopção das medidas executórias referidas no n.º 1.\n\n3. O Estado-Membro requerido comunica as medidas adoptadas e os respectivos efeitos ao Estado-Membro requerente, aos outros Estados-Membros em causa e à Comissão, através da autoridade única referida no artigo 39.º"
+  },
+  "6e364e5973710e88": {
+   "fragment_id": "Artigo 49.º — Comunicação entre os Estados-Membros e a Comissão",
+   "type": "artigo",
+   "heading": "Artigo 49.º — Comunicação entre os Estados-Membros e a Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Comunicação entre os Estados-Membros e a Comissão\n\n1. Os Estados-Membros comunicam à Comissão, logo que delas disponham, quaisquer informações que considerem pertinentes em relação a métodos e práticas utilizados ou suspeitos de ser utilizados e às tendências reveladas no que respeita à pesca INN ou às infracções graves referidas no [**►M8**](http://publications.europa.eu/resource/celex/32025R1522) artigo 42.º do Regulamento (CE) n.º 1005/2008**◄**.\n\n2. A Comissão comunica aos Estados-Membros, logo que delas disponha, quaisquer informações susceptíveis de os ajudar a assegurar a aplicação do Regulamento (CE) n.º 1005/2008."
+  },
+  "c23a388a30398a1e": {
+   "fragment_id": "Artigo 50.º — Coordenação pela Comissão",
+   "type": "artigo",
+   "heading": "Artigo 50.º — Coordenação pela Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Coordenação pela Comissão\n\n1. Sempre que um Estado-Membro tenha conhecimento de operações que constituam, ou pareçam constituir, actividades de pesca INN ou infracções graves referidas no [**►M8**](http://publications.europa.eu/resource/celex/32025R1522) artigo 42.º do Regulamento (CE) n.º 1005/2008**◄** e assumam especial relevância a nível comunitário, comunica o mais rapidamente possível à Comissão informações pertinentes necessárias para a determinação dos factos. A Comissão transmite essas informações aos outros Estados-Membros em causa.\n\n2.\n\nPara efeitos do n.º 1, as operações que constituem actividades de pesca INN ou infracções graves referidas no [**►M8**](http://publications.europa.eu/resource/celex/32025R1522) artigo 42.º do Regulamento (CE) n.º 1005/2008**◄** são consideradas de especial relevância a nível comunitário designadamente quando:\n\na) Tenham ou possam ter ramificações noutros Estados-Membros;\n\nb) O Estado-Membro considere provável que tenham ocorrido operações semelhantes noutros Estados-Membros.\n\n3. Sempre que a Comissão considere que operações de pesca que constituem actividades de pesca INN ou infracções graves referidas no [**►M8**](http://publications.europa.eu/resource/celex/32025R1522) artigo 42.º do Regulamento (CE) n.º 1005/2008**◄** tiveram lugar num ou mais Estados-Membros, informa desse facto os Estados-Membros em causa, que procedem o mais rapidamente possível aos necessários inquéritos. Os Estados-Membros em causa comunicam à Comissão, o mais rapidamente possível, as conclusões de tais inquéritos."
+  },
+  "cc564a620d5dab10": {
+   "fragment_id": "Artigo 51.º — Intercâmbio de informações com países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 51.º — Intercâmbio de informações com países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Intercâmbio de informações com países terceiros\n\n1. Sempre que um Estado-Membro receba de um país terceiro informações pertinentes para garantir a efectiva aplicação do Regulamento (CE) n.º 1005/2008 e do presente regulamento, comunica essas informações aos outros Estados-Membros em causa através da autoridade única, na medida em que tal lhe seja permitido pelos acordos de assistência bilateral com esse país terceiro.\n\n2. As informações recebidas ao abrigo do presente título podem ser comunicadas a um país terceiro por um Estado-Membro através da sua autoridade única, nos termos de um acordo de assistência bilateral com esse país terceiro. Essa comunicação tem lugar após consulta do Estado-Membro que comunicou originalmente as informações e em conformidade com a legislação comunitária e nacional relativa à protecção das pessoas singulares no que diz respeito ao tratamento dos dados pessoais.\n\n3. A Comissão pode, no âmbito dos acordos de pesca celebrados entre a Comunidade e países terceiros ou no quadro das organizações regionais de gestão das pescas ou de acordos semelhantes de que a Comunidade seja parte contratante ou parte não contratante cooperante, comunicar as informações pertinentes em relação à pesca INN ou a infracções graves referidas no [**►M8**](http://publications.europa.eu/resource/celex/32025R1522) artigo 42.º do Regulamento (CE) n.º 1005/2008**◄** a outras partes nesses acordos, organizações ou acordos, sob reserva do consentimento do Estado-Membro que forneceu as informações."
+  },
+  "a7a8229e250fe9e0": {
+   "fragment_id": "Artigo 54.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 54.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Entrada em vigor\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 1 de Janeiro de 2010.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "4c9d38de919fbb82": {
+   "fragment_id": "Período de notificação prévia para certos tipos de produtos da pesca, referidos no artigo 1.º",
+   "type": "divisao",
+   "heading": "Período de notificação prévia para certos tipos de produtos da pesca, referidos no artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Período de notificação prévia para certos tipos de produtos da pesca, referidos no artigo 1.º"
+  },
+  "ba65d6c73db439fc": {
+   "fragment_id": "Período de notificação prévia de 4 horas",
+   "type": "divisao",
+   "heading": "Período de notificação prévia de 4 horas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Período de notificação prévia de 4 horas\n\nDesembarques de produtos da pesca frescos por navios de pesca em portos comunitários designados"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "39a0aa31e4668f62": {
+   "fragment_id": "Formulário para a notificação prévia pelos navios de pesca de países terceiros, referido no artigo 2.º",
+   "type": "divisao",
+   "heading": "Formulário para a notificação prévia pelos navios de pesca de países terceiros, referido no artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Formulário para a notificação prévia pelos navios de pesca de países terceiros, referido no artigo 2.º\n\nOs campos assinalados com um asterisco (^*^) não devem ser completados se tiver sido validado um certificado de captura para a totalidade das capturas a desembarcar ou transbordar na UE."
+  },
+  "c67ed466e4fc66ca": {
+   "fragment_id": "Identificação do navio:",
+   "type": "divisao",
+   "heading": "Identificação do navio:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Identificação do navio:\n\n1. Nome do navio:\n\n2. Tipo de navio (captura, transporte ou apoio):\n\n3. Pavilhão (país de registo):\n\n4. Número de registo nacional (marcação externa):\n\n5. Indicativo de chamada rádio internacional:\n\n6. Informação de contacto do navio:\n\n7. Número OMI, se aplicável:\n\n8. Outro identificador único do navio (se não for fornecido o número OMI):\n\n9. VMS [não / sim (nacional) não / sim (ORGP); se sim, tipo: ]\n\n10. Dimensões do navio — comprimento: boca: calado:"
+  },
+  "7900dafbf8fce6a2": {
+   "fragment_id": "Porto de escala previsto:",
+   "type": "divisao",
+   "heading": "Porto de escala previsto:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Porto de escala previsto:\n\n11. Nome do porto (código ISO alfa-2 do país + código de três letras do porto ^(1)^:\n\n12. Objetivo da escala (desembarque, transbordo ou acesso a serviços):\n\n13. Porto e data da última escala (código ISO alfa-2 do país + nome do porto/código de três letras do porto):"
+  },
+  "65ef4eac74178778": {
+   "fragment_id": "Autorização de pesca:",
+   "type": "divisao",
+   "heading": "Autorização de pesca:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Autorização de pesca:\n\n14. Número e período de validade da autorização de pesca (especificar igualmente a zona de pesca, as espécies e as artes) (^*^):\n\n15. Número da autorização, e respetiva validade, para dar apoio a operações de pesca ou para proceder ao transbordo de produtos da pesca:\n\n16. Autoridade emissora:\n\n17. Número de identificação ORGP, se aplicável:"
+  },
+  "b0845a0f3549dbb5": {
+   "fragment_id": "Datas:",
+   "type": "divisao",
+   "heading": "Datas:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Datas:\n\n18. Datas da saída de pesca (^*^):\n\n19. Data e hora previstas de chegada ao porto:"
+  },
+  "2da9f74390a15b39": {
+   "fragment_id": "Quantidades de cada espécie mantidas a bordo (ou, na ausência de capturas, comunicação “zero”)",
+   "type": "divisao",
+   "heading": "Quantidades de cada espécie mantidas a bordo (ou, na ausência de capturas, comunicação “zero”)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Quantidades de cada espécie mantidas a bordo (ou, na ausência de capturas, comunicação “zero”)\n\n| 20.- Números dos correspondentes certificados de captura (se disponíveis) | 21.- Data do transbordo (se tiver ocorrido num local diferente do porto de desembarque) (^*^) | 22.- Zona ou porto de transbordo [zona FAO (CIEM), subdivisão FAO (CIEM) e zona de esforço de pesca] (^*^) | 23. Data da autorização de transbordo (^*^) | 24.- Nome das espécies (código alfa-3 da FAO) (^*^) |\n| --- | --- | --- | --- | --- |\n| 25.- Zona de captura [zona FAO (CIEM), subdivisão FAO (CIEM) e zona de esforço de pesca] (^*^) | 26.- Peso vivo total estimado mantido a bordo (em kg) e/ou número de indivíduos, se exigido | 27.- Peso vivo total estimado de pescado a desembarcar/transbordar (em kg) e/ou número de indivíduos, se exigido (^*^) | 28.- Peso líquido, em kg, do pescado a desembarcar/transbordar (^*^) | 29.- Apresentação e estado de conservação do pescado (utilizar códigos [(^1^)](http://publications.europa.eu/resource/cellar/5cd5a3d4-0c5e-11f1-8870-01aa75ed71a1.0019.02/DOC_1#E0004)) (^*^) |\n| (^1^) Os códigos dos portos e do estado e apresentação do pescado estão disponíveis em: https://oceans-and-fisheries.ec.europa.eu/fisheries/rules/enforcing-rules_en. |  |  |  |  |\n\n30. Nome e endereço do proprietário do navio:\n\n31. Nome do capitão/representante do navio:\n\n32. Assinatura:\n\n33. Data:"
+  },
+  "65cdf3c6401dd218": {
+   "fragment_id": "ANEXO III-A",
+   "type": "divisao",
+   "heading": "ANEXO III-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III-A"
+  },
+  "a82f04932795d2c8": {
+   "fragment_id": "Formulário para a declaração a apresentar antes do desembarque, referido no artigo 3.º, n.º 1",
+   "type": "divisao",
+   "heading": "Formulário para a declaração a apresentar antes do desembarque, referido no artigo 3.º, n.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Formulário para a declaração a apresentar antes do desembarque, referido no artigo 3.º, n.º 1\n\nIdentificação do navio\n\n1. Nome do navio:\n\n2. Tipo de navio (captura ou transporte):\n\n3. Pavilhão (país de registo):\n\n4. Porto de armamento (código ISO alfa-2 do país + nome do porto):\n\n5. N.º de registo (identificação externa):\n\n6. Indicativo de chamada rádio internacional:\n\n7. N.º na OMI/Lloyd (se for caso disso):\n\nContacto\n\n8. Nome do capitão/representante:\n\n9. Endereço do capitão/representante:\n\nInformação sobre a partida\n\n10. Data e hora de partida:\n\n11. Porto de partida (código ISO alfa-2 do país + nome do porto):\n\nInformação sobre o desembarque\n\n12. Data e hora previstas do desembarque:\n\n13. INome do porto de desembarque [código ISO alfa-2 do país + código de três letras do porto (*)]:\n\n14. Enviado pelo capitão/representante:\n\nQuantidades de cada espécie mantidas a bordo\n\n15. Número(s) e data(s) do(s) certificado(s) de captura e Estado(s) de pavilhão\n\n16. Data do transbordo (se tiver ocorrido num local diferente do porto de desembarque) e nome do(s) navio(s) de captura\n\n17. Zona ou porto de transbordo [Zona, divisão, subdivisão FAO (CIEM) e, se for caso disso, rectângulo estatístico CIEM]\n\n18. Nome das espécies (código alfa-3 da FAO)\n\n19. Zona da captura [Zona, divisão, subdivisão FAO (CIEM)] e, se for caso disso, rectângulo estatístico CIEM e zona de esforço\n\n20. Peso vivo total estimado mantido a bordo (em kg) ou número de indivíduos, se exigido\n\n21. Peso vivo total estimado de pescado a desembarcar (em kg) ou número de indivíduos, se exigido\n\n22. Apresentação e estado de conservação do pescado [utilizar códigos alfabéticos (*)]\n\n23. Se for caso disso, factor de conversão aplicado ao produto da pesca pelo Estado de pavilhão\n\n24. Para os produtos da pesca transformados, tipo de embalagem (código de 3 letras CRT=caixa de cartão, BOX=caixas, BGS=sacos e BLC=blocos)\n\n25. Para os produtos da pesca transformados, número de embalagens (caixas de cartão, caixas, sacos, blocos, etc.)\n\n26. Para os produtos da pesca transformados, peso médio por embalagem (em kg)\n\n27. Nome e endereço do armador do navio:\n\n28. Nome do capitão do navio/representante:\n\n29. Assinatura:\n\n30. Data:\n\nPara os navios de captura, preencher os pontos 1-15 e 18-30.\n\nPara os navios de transporte, preencher todos os pontos.\n\n(*) Códigos alfabéticos do porto e do estado e apresentação do pescado: http://ec.europa.eu/fisheries/cfp/control_enforcement/ers_pt.htm"
+  },
+  "6397bed7e9b3ccc2": {
+   "fragment_id": "ANEXO III-B",
+   "type": "divisao",
+   "heading": "ANEXO III-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III-B"
+  },
+  "e28250db8d03471a": {
+   "fragment_id": "Formulário para a declaração a apresentar antes do transbordo, referido no artigo 3.º, n.º 2",
+   "type": "divisao",
+   "heading": "Formulário para a declaração a apresentar antes do transbordo, referido no artigo 3.º, n.º 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Formulário para a declaração a apresentar antes do transbordo, referido no artigo 3.º, n.º 2"
+  },
+  "c164e5e239699f72": {
+   "fragment_id": "(exigido ao navio que transborda e ao navio que recebe o pescado)",
+   "type": "divisao",
+   "heading": "(exigido ao navio que transborda e ao navio que recebe o pescado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (exigido ao navio que transborda e ao navio que recebe o pescado)\n\nIdentificação do navio\n\n1. Nome do navio:\n\n2. Tipo de navio (captura ou transporte):\n\n3. Pavilhão (país de registo):\n\n4. Porto de armamento (código ISO alfa-2 do país + nome do porto):\n\n5. N.º de registo (identificação externa):\n\n6. Indicativo de chamada rádio internacional:\n\n7. N.º na OMI/Lloyd (se for caso disso):\n\nContacto\n\n8. Nome do capitão/representante:\n\n9. Endereço do capitão/representante:\n\nInformação sobre a partida\n\n10. Data e hora de partida:\n\n11. Porto de partida (código ISO alfa-2 do país + nome do porto):\n\nInformações sobre o transbordo\n\n12. Data e hora previstas do transbordo:\n\n13. Porto de transbordo previsto [código ISO alfa-2 do país + código de três letras do porto(*)]:\n\n14. Enviado pelo capitão/representante:\n\nInformações sobre o outro navio envolvido na operação de transbordo:\n\n15. Indicativo de chamada rádio internacional:\n\n16. N.º de registo (identificação externa):\n\n17. Pavilhão (país de registo):\n\nQuantidades de cada espécie mantidas a bordo\n\n18. Número(s) e data(s) do(s) certificado(s) de captura e Estado(s) de pavilhão\n\n19. Data do transbordo (se tiver ocorrido num local diferente do porto de desembarque) e nome do navio de captura\n\n20. Zona ou porto de transbordo [Zona, divisão, subdivisão FAO (CIEM)] e, se for caso disso, rectângulo estatístico CIEM e zona de esforço de pesca\n\n21. Nome das espécies\n\n(código alfa-3 da FAO)\n\n22. Zona da captura [Zona, divisão, subdivisão FAO (CIEM)] e, se for caso disso, rectângulo estatístico CIEM e zona de esforço de pesca\n\n23. Peso vivo total estimado mantido a bordo (em kg) ou número de indivíduos, se exigido\n\n24. Peso vivo total estimado de pescado a transbordar (em kg) ou número de indivíduos, se exigido\n\n25. Apresentação e estado de conservação do pescado [utilizar códigos alfabéticos (*)]\n\n26. Se for caso disso, factor de conversão aplicado ao produto da pesca pelo Estado de pavilhão\n\n27. Para os produtos da pesca transformados, tipo de embalagem\n\n(código de 3 letras CRT=caixa de cartão, BOX=caixas, BGS=sacos e BLC=blocos)\n\n28. Para os produtos da pesca transformados, número de embalagens\n\n(caixas de cartão, caixas, sacos, blocos, etc.)\n\n29. Para os produtos da pesca transformados, peso médio por embalagem\n\n(em kg)\n\n30. Nome e endereço do armador do navio:\n\n31. Nome do capitão do navio/representante:\n\n32. Assinatura:\n\n33. Data:\n\nPara os navios de captura, preencher os pontos 1-18 e 21-33.\n\nPara os navios de transporte, preencher todos os pontos.\n\n(*) Códigos alfabéticos do porto e do estado e apresentação do pescado: http://ec.europa.eu/fisheries/cfp/control_enforcement/ers_pt.htm"
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "69b5705e850f8cc8": {
+   "fragment_id": "CERTIFICADO DE CAPTURA DA COMUNIDADE EUROPEIA",
+   "type": "divisao",
+   "heading": "CERTIFICADO DE CAPTURA DA COMUNIDADE EUROPEIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CERTIFICADO DE CAPTURA DA COMUNIDADE EUROPEIA"
+  },
+  "8d83470a87b00d9a": {
+   "fragment_id": "Formulário simplificado para os produtos da pesca que satisfazem as exigências do artigo 6.º do presente regulamento",
+   "type": "divisao",
+   "heading": "Formulário simplificado para os produtos da pesca que satisfazem as exigências do artigo 6.º do presente regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Formulário simplificado para os produtos da pesca que satisfazem as exigências do artigo 6.º do presente regulamento\n\ni) CERTIFICADO DE CAPTURA DA COMUNIDADE EUROPEIA - Formulário simplificado para os produtos da pesca que satisfazem as exigências do artigo 6.º do presente regulamento\n\nNúmero do documento\n\nAutoridade de validação (nome, endereço, telefone, fax)\n\n1. Descrição do produto\n\n2. Referências das medidas de conservação e de gestão aplicáveis\n\nEspécie\n\nCódigo do produto\n\nPeso desembarcado verificado (kg)\n\n3. Lista dos navios que efectuaram as capturas e quantidades por navio (anexar o nome, número de registo, etc.):\n\n4. Nome, endereço, telefone e fax do exportador\n\nAssinatura\n\nData\n\nSelo (carimbo)\n\n5. Validação pela autoridade do Estado de pavilhão:\n\nNome/cargo\n\nAssinatura\n\nData\n\nSelo (carimbo)\n\n6. Informações relativas ao transporte: (ver apêndice)\n\n7. Declaração do importador:\n\nNome e endereço do importador\n\nAssinatura\n\nData\n\nSelo (carimbo)\n\nCódigo NC do produto\n\n8. Controlo na importação: Autoridade\n\nLocal\n\nImportação autorizada (*)\n\nImportação suspensa (*)\n\nVerificação solicitada - data\n\nDeclaração aduaneira (se for caso disso)\n\nNúmero\n\nData\n\nLocal\n\n(*) Assinalar a casa apropriada.\n\nii) CERTIFICADO DE REEXPORTAÇÃO DA COMUNIDADE EUROPEIA\n\nNúmero do certificado\n\nDate\n\nEstado-Membro\n\n1. Descrição do produto reexportado:\n\nPeso (kg)\n\nEspécie\n\nCódigo do produto\n\nBalanço em relação à quantidade total declarada no certificado de captura\n\n2. Nome do reexportador\n\nEndereço\n\nAssinatura\n\nData\n\n3. Autoridade\n\nNome/cargo\n\nAssinatura\n\nData\n\nSelo/carimbo\n\n4. Controlo na reexportação\n\nLocal:\n\nReexportação autorizada (*)\n\nVerificação solicitada (*)\n\nNúmero e data da declaração de reexportação\n\n(*) Assinalar a casa apropriada."
+  },
+  "ae333fc2d57e1e38": {
+   "fragment_id": "Apêndice",
+   "type": "divisao",
+   "heading": "Apêndice",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Apêndice"
+  },
+  "0a0b0d97632c3e23": {
+   "fragment_id": "Informações relativas ao transporte",
+   "type": "divisao",
+   "heading": "Informações relativas ao transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Informações relativas ao transporte\n\n1. País de exportação\n\nPorto/aeroporto/outro local de partida\n\n2. Assinatura do exportador\n\nNome do navio e pavilhão\n\nNúmero do voo/Número da carta de porte aéreo\n\nNacionalidade e número de matrícula do camião\n\nNúmero da carta de porte ferroviário\n\nOutro documento de transporte\n\nNúmero(s) do(s) contentor(es):\n\nlista anexa\n\nNome\n\nEndereço\n\nAssinatura"
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "189e678e5144bb1d": {
+   "fragment_id": "Regimes de documentação das capturas adotados por organizações regionais de gestão das pescas e reconhecidos como cumprindo as exigências do Regulamento (CE) n.º 1005/2008",
+   "type": "divisao",
+   "heading": "Regimes de documentação das capturas adotados por organizações regionais de gestão das pescas e reconhecidos como cumprindo as exigências do Regulamento (CE) n.º 1005/2008",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Regimes de documentação das capturas adotados por organizações regionais de gestão das pescas e reconhecidos como cumprindo as exigências do Regulamento (CE) n.º 1005/2008\n\nRegimes de documentação de captura reconhecidos como cumprindo as exigências do Regulamento (CE) n.º 1005/2008:\n\nRegime de documentação de captura de *Dissostichus* spp. definido no Regulamento (CE) n.º 1035/2001 do Conselho ([^4^](http://publications.europa.eu/resource/cellar/5cd5a3d4-0c5e-11f1-8870-01aa75ed71a1.0019.02/DOC_1#E0005)).\n\nPrograma CICTA de documentação das capturas de atum-rabilho, conforme estabelecido no Regulamento (UE) 2023/2833 do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/5cd5a3d4-0c5e-11f1-8870-01aa75ed71a1.0019.02/DOC_1#E0006)))."
+  },
+  "90c7d2baf4d44ee2": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI"
+  },
+  "cccd60c330ea5f15": {
+   "fragment_id": "Prazos de apresentação dos certificados de captura de remessas referidas no artigo 8.º",
+   "type": "divisao",
+   "heading": "Prazos de apresentação dos certificados de captura de remessas referidas no artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Prazos de apresentação dos certificados de captura de remessas referidas no artigo 8.º"
+  },
+  "dc6ce4c0a598364b": {
+   "fragment_id": "Prazo de 4 horas antes da entrada na Comunidade para apresentação do certificado de captura",
+   "type": "divisao",
+   "heading": "Prazo de 4 horas antes da entrada na Comunidade para apresentação do certificado de captura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Prazo de 4 horas antes da entrada na Comunidade para apresentação do certificado de captura\n\nRemessas de produtos da pesca que entram na Comunidade por via aérea"
+  },
+  "d716b5d3576b93fb": {
+   "fragment_id": "Prazo de 2 horas antes da entrada na Comunidade para apresentação do certificado de captura",
+   "type": "divisao",
+   "heading": "Prazo de 2 horas antes da entrada na Comunidade para apresentação do certificado de captura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Prazo de 2 horas antes da entrada na Comunidade para apresentação do certificado de captura\n\nRemessas de produtos da pesca que entram na Comunidade por via rodoviária"
+  },
+  "13230cb8f4ba09bc": {
+   "fragment_id": "Prazo de 4 horas antes da entrada na Comunidade para apresentação do certificado de captura",
+   "type": "divisao",
+   "heading": "Prazo de 4 horas antes da entrada na Comunidade para apresentação do certificado de captura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Prazo de 4 horas antes da entrada na Comunidade para apresentação do certificado de captura\n\nRemessas de produtos da pesca que entram na Comunidade por via ferroviária."
+  },
+  "f3764f2ef308a116": {
+   "fragment_id": "ANEXO VII",
+   "type": "divisao",
+   "heading": "ANEXO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII\n\nCOMUNIDADE EUROPEIA\n\nMODELO\n\nPedido de certificado APEO\n\n(referido no artigo 14.º)\n\nNB: Consultar as instruções antes do preenchimento do formulário.\n\n1. Requerente\n\nReservado às autoridades\n\n2. Estatuto jurídico do requerente\n\n3. Data de constituição\n\n4. Local de constituição\n\n5. Localização dos principais locais de actividade do requerente\n\n6. Pessoa a contactar (nome, telefone, fax e endereço electrónico)\n\n7. Endereço para correspondência\n\n8. N.º de identificação fiscal para efeitos do IVA:\n\n9. N.º de identificação do operador/N.º EORI\n\n10. N.º de registo legal\n\n11. N.º do certificado AEO\n\n12. Estado-Membro onde se realizam as actividades de âmbito aduaneiro\n\n13. Número/volume médio mensal de operações de importação\n\n14. Serviço onde é conservada a documentação relacionada com os certificados de captura\n\n15. Serviço competente para fornecer toda a documentação relacionada com os certificados de captura\n\n16. Locais onde são mantidos os produtos importados\n\n17.\n\nAssinatura: …\n\nNome: …\n\nData: …\n\nNúmero de anexos: …\n\nInstruções de preenchimento:\n\nO pedido e os documentos conexos devem ser apresentados, por via electrónica ou em papel, de acordo com o prescrito pelo Estado-Membro a que o pedido é dirigido.\n\n1. Requerente\n\nIndicar o nome completo do operador económico que solicita a concessão do estatuto.\n\n2. Estatuto jurídico\n\nIndicar o estatuto jurídico, tal como consta do acto de constituição.\n\n3. Data de constituição\n\nIndicar – em algarismos – o dia, o mês e o ano de constituição.\n\n4. Local de constituição\n\nIndicar o endereço completo do local onde a entidade foi constituída, incluindo o país.\n\n5. Localização dos principais locais de actividade do requerente\n\nIndicar o endereço completo do local onde é exercida a actividade principal da empresa.\n\n6. Pessoa de contacto\n\nIndicar o nome completo, os números de telefone e de fax e o endereço electrónico da pessoa designada pelo requerente como ponto de contacto na empresa, a contactar pelas autoridades aquando da análise do pedido.\n\n7. Endereço para correspondência\n\nA preencher apenas se não for o mesmo do local de constituição.\n\n8, 9 e 10. N.º de IVA, n.º de identificação do operador e n.º de registo legal\n\nIndicar os números requeridos.\n\nO(s) número(s) de identificação do operador é(são) o(s) número(s) de identificação registado(s) pelas autoridades aduaneiras.\n\nO número de registo e de identificação do operador económico (EORI) é o número de identificação registado pelas autoridades aduaneiras.\n\nO número de registo legal é o número de registo dado pelo serviço de registo de empresas.\n\nSe estes números forem os mesmos, indicar apenas o n.º de identificação fiscal para efeitos de IVA.\n\n11. Número do certificado AEO\n\nIndicar o número requerido.\n\n12. Estado-Membro onde se realizam as actividades de âmbito aduaneiro\n\nIndicar o código ISO alfa-2 do país. Deve ser o mesmo Estado-Membro onde foi concedido o estatuto de operador económico autorizado.\n\n13. Número/volume médio mensal de operações de importação\n\nIndicar o número/volume médio mensal de operações de importação nos últimos 12 meses.\n\n14, 15 e 16. Serviços competentes para a documentação/locais dos produtos\n\nIndicar os endereços completos dos serviços/locais em causa. Se o endereço for o mesmo para todos estes serviços, preencher só a casa 14.\n\n17. Nome, data e assinatura do requerente\n\nAssinatura: O signatário deve indicar a qualidade em que actua. Deve ser sempre a pessoa que representa o requerente no seu conjunto.\n\nNome: Nome e carimbo do requerente.\n\nNúmero de anexos: O requerente deve fornecer as seguintes informações gerais:\n\n1. O pedido de estatuto de operador económico autorizado, com os respectivos anexos.\n\n2. O certificado AEO emitido pelas autoridades que concederam o estatuto de operador económico autorizado.\n\n3. A documentação comprovativa do número de operações de importação nos últimos 12 meses."
+  },
+  "2d501754dbac8b6d": {
+   "fragment_id": "ANEXO VIII",
+   "type": "divisao",
+   "heading": "ANEXO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII\n\nCOMUNIDADE EUROPEIA\n\nMODELO\n\nCertificado APEO\n\n(N.º do certificado)\n\n1. Titular do Certificado APEO\n\n2. Autoridade emissora\n\n3. Data em que o certificado produz efeito\n\nInstruções de preenchimento:\n\nN.º do certificado\n\nO número do certificado deve começar sempre pelo código ISO alfa-2 do Estado-Membro emissor, seguido do número de autorização nacional.\n\n1. Titular do Certificado APEO\n\nIndicar o nome completo do titular, tal como indicado na casa 1 do modelo do pedido que consta do anexo VII, bem como o(s) número(s) de identificação fiscal para efeitos de IVA, tal como indicado(s) na casa 8 do modelo do pedido, e o número AEO, tal como indicado na casa 11 do modelo do pedido.\n\n2. Autoridade emissora\n\nAssinatura, nome e selo da administração do Estado-Membro.\n\nO nome da administração do Estado-Membro a nível regional pode ser indicado, se a estrutura organizativa dessa administração assim o exigir.\n\n3. Data a partir da qual o certificado produz efeitos\n\nIndicar o dia, o mês e o ano, em conformidade com o artigo 21.º, n.º 1."
+  },
+  "f41483e4159646da": {
+   "fragment_id": "ANEXO X-A",
+   "type": "divisao",
+   "heading": "ANEXO X-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO X-A"
+  },
+  "8670a0dea6064b08": {
+   "fragment_id": "Formulário para a transmissão de informações relativas a navios de pesca avistados",
+   "type": "divisao",
+   "heading": "Formulário para a transmissão de informações relativas a navios de pesca avistados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Formulário para a transmissão de informações relativas a navios de pesca avistados\n\nNome do navio: Indicativo de chamada rádio internacional: Pavilhão:\n\nN.º de registo (e, se aplicável, n.º OMI/Lloyd):\n\nDescrição do navio (marcas distintivas):\n\nTipo de navio (p. ex., palangreiro, arrastão):\n\nPosição inicial: Latitude Longitude (Este/Oeste)\n\nZona, subzona, divisão de pesca:\n\nContacto/avistamento (assinalar a casa apropriada): Visual Radar Sinais de rádio\n\nContacto rádio com o navio: Sim Não\n\nDados da(s) pessoa(s) contactada(s) a bordo do navio avistado:\n\nResumo do contacto rádio:\n\nHora e actividade (p. ex., em pesca, em trânsito) do navio avistado:\n\nData: Hora:: Actividade: Rumo: Posição:\n\nData: Hora:: Actividade: Rumo: Posição:\n\nData: Hora:: Actividade: Rumo: Posição:\n\nData: Hora:: Actividade: Rumo: Posição:\n\nData: Hora:: Actividade: Rumo: Posição:\n\nRegisto de avistamentos (p. ex., fotografia ou vídeo):\n\nObservações:\n\nFotografia ou esboço do navio, indicando as respectivas estruturas distintivas, perfil, mastros e marcas:\n\nData da comunicação: Comunicado por (dados de contacto):"
+  },
+  "c04e89ec0a9b4692": {
+   "fragment_id": "ANEXO X-B",
+   "type": "divisao",
+   "heading": "ANEXO X-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO X-B"
+  },
+  "1f876995aed9db0f": {
+   "fragment_id": "Instruções de preenchimento do formulário previsto no anexo X-A",
+   "type": "divisao",
+   "heading": "Instruções de preenchimento do formulário previsto no anexo X-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Instruções de preenchimento do formulário previsto no anexo X-A"
+  },
+  "68f3ab9d916a468e": {
+   "fragment_id": "PREENCHER TANTAS INFORMAÇÕES QUANTO POSSÍVEL",
+   "type": "divisao",
+   "heading": "PREENCHER TANTAS INFORMAÇÕES QUANTO POSSÍVEL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PREENCHER TANTAS INFORMAÇÕES QUANTO POSSÍVEL\n\n1. O nome, indicativo de chamada rádio e pavilhão do navio e, se possível, registo e n.º OMI/Lloyd devem ser obtidos a partir do que se vê no navio ou do contacto rádio com o mesmo (deve ser indicada a fonte da informação).\n\n2. Marcas distintivas: indicar se o nome e o porto de armamento do navio eram visíveis ou não. Registar a cor do casco e da superstrutura, o número de mastros, a posição da ponte, a altura da chaminé, etc.\n\n3. Tipo de navio: descrever o tipo de navio e de artes avistados (p. ex., palangreiro, arrastão, navio-fábrica, navio de transporte).\n\n4. Posição: registar o avistamento inicial do navio, incluindo a zona/subzona/divisão de pesca.\n\n5. Actividade do navio avistado: registar a hora do avistamento, a actividade e o rumo (em graus) do navio na altura. Registar se o navio se encontrava em actividade em pesca, a lançar ou a alar a arte de pesca, a arrastar ou noutras actividades. Há espaço para um máximo de cinco avistamentos do mesmo navio; se for necessário mais espaço, preencher esses dados no verso do formulário ou numa folha de papel separada. Registar a presença/ausência de um cabo de galhardetes.\n\n6. Registo do avistamento: indicar se o avistamento do navio foi registado em vídeo ou por meio de fotografias (registar, na casa «Observações», onde foram depositados esses documentos).\n\n7. Observações: indicar o rumo do navio avistado em trânsito. Resumir qualquer contacto rádio que tenha tido lugar, indicando o nome, nacionalidade e posição fornecidos pela(s) pessoa(s) contactada(s) a bordo do navio avistado.\n\n8. Diagrama do navio: desenhar o perfil do navio, indicando quaisquer marcas distintivas que possam ser utilizadas para a sua identificação."
+  },
+  "347fa34d45987b5d": {
+   "fragment_id": "ANEXO XI",
+   "type": "divisao",
+   "heading": "ANEXO XI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XI"
+  },
+  "0798bb675b7dc627": {
+   "fragment_id": "Formulário-tipo para o intercâmbio de informações a pedido, em conformidade com o artigo 45.º",
+   "type": "divisao",
+   "heading": "Formulário-tipo para o intercâmbio de informações a pedido, em conformidade com o artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Formulário-tipo para o intercâmbio de informações a pedido, em conformidade com o artigo 45.º\n\nI. PEDIDO DE INFORMAÇÕES\n\nAutoridade requerente\n\nEstado-Membro\n\nnome\n\nendereço\n\ncontactos do funcionário responsável\n\nAutoridade requerida\n\nEstado-Membro\n\nnome\n\nendereço\n\ncontactos do funcionário responsável\n\nData de transmissão do pedido\n\nNúmero de referência da autoridade requerente\n\nN.º de anexos do presente pedido\n\nDados da pessoa singular ou colectiva e/ou navio de pesca objecto do pedido\n\nFacultar toda a informação disponível para a identificação dos navios de pesca em causa, dos seus capitães, dos titulares de licenças e/ou autorizações de pesca, do armador, etc.\n\nInformações solicitadas sobre\n\neventuais actividades de pesca INN, na acepção do artigo 2.º, n.º 1, do Regulamento (CE) n.º 1005/2008, ou infracções graves referidas no artigo 42.º, n.º 1, alíneas b) e c), do Regulamento (CE) n.º 1005/2008\n\nArtigo 45.º, n.º 1\n\nApresentar questões pormenorizadas, a informação de base necessária e a justificação do pedido\n\neventuais infracções ao Regulamento (CE) n.º 1005/2008\n\nArtigo 45.º, n.º 1\n\nApresentar questões pormenorizadas, a informação de base necessária e a justificação do pedido\n\nPedido de realização de inquéritos administrativos\n\nArtigo 45.º, n.º 2\n\nApresentar questões pormenorizadas, a informação de base necessária e a justificação do pedido\n\nPedido de fornecimento de documentos ou cópias autenticadas na posse da autoridade requerida\n\nArtigo 45.º, n.º 4\n\nApresentar questões pormenorizadas, a informação de base necessária e a justificação do pedido\n\nOutras informações ou questões de carácter geral\n\n[**►(^1^) M8**](http://publications.europa.eu/resource/celex/32025R1522)\n\nII. RESPOSTA\n\nAutoridade requerente\n\nEstado-Membro\n\nnome\n\nendereço\n\ncontactos do funcionário responsável\n\nAutoridade requerida\n\nEstado-Membro\n\nnome\n\nendereço\n\ncontactos do funcionário responsável\n\nData de transmissão do pedido\n\nNúmero de referência da autoridade requerente\n\nData de transmissão da resposta\n\nNúmero de referência da autoridade requerida\n\nN.º de anexos da presente resposta\n\nInformações solicitadas sobre\n\neventuais actividades de pesca INN, na acepção do artigo 2.º, n.º 1, do Regulamento (CE) n.º 1005/2008, ou infracções graves referidas no artigo 42.º, n.º 1, alíneas b) e c), do Regulamento (CE) n.º 1005/2008\n\nFacultar toda a informação pertinente disponível ou reunida no contexto do pedido\n\neventuais infracções ao Regulamento (CE) n.º 1005/2008\n\nFacultar toda a informação pertinente disponível ou reunida no contexto do pedido\n\nPedido de realização de inquéritos administrativos\n\nArtigo 45.º, n.º 2\n\nFacultar os dados e os resultados dos inquéritos administrativos realizados\n\nPedido de fornecimento de documentos ou cópias autenticadas na posse da autoridade requerida\n\nArtigo 45.º, n.º 4\n\nEnumerar os documentos fornecidos e anexados ao presente formulário de resposta\n\nOutras informações\n\n[**►(^1^) M8**](http://publications.europa.eu/resource/celex/32025R1522)"
+  },
+  "39eb8fae8947a464": {
+   "fragment_id": "ANEXO XII",
+   "type": "divisao",
+   "heading": "ANEXO XII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XII"
+  },
+  "b29c51bdb54df137": {
+   "fragment_id": "Formulário-tipo para um pedido de notificação administrativa em conformidade com o artigo 48.º",
+   "type": "divisao",
+   "heading": "Formulário-tipo para um pedido de notificação administrativa em conformidade com o artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Formulário-tipo para um pedido de notificação administrativa em conformidade com o artigo 48.º\n\nI. PEDIDO DE NOTIFICAÇÃO ADMINISTRATIVA\n\nAutoridade requerente\n\nEstado-Membro\n\nnome\n\nendereço\n\ncontactos do funcionário responsável\n\nAutoridade requerida\n\nEstado-Membro\n\nnome\n\nendereço\n\ncontactos do funcionário responsável\n\nData de transmissão do pedido\n\nNúmero de referência da autoridade requerente\n\nN.º de anexos do presente pedido\n\nDados da pessoa singular ou colectiva objecto do pedido\n\nFacultar toda a informação disponível para a identificação do destinatário da notificação administrativa\n\nInformações sobre o objecto do acto ou decisão a notificar\n\nFacultar todas as informações possíveis sobre o objecto do acto ou decisão a notificar\n\nII. RESPOSTA\n\nAutoridade requerente\n\nEstado-Membro\n\nnome\n\nendereço\n\ncontactos do funcionário responsável\n\nAutoridade requerida\n\nEstado-Membro\n\nnome\n\nendereço\n\ncontactos do funcionário responsável\n\nData de transmissão do pedido\n\nNúmero de referência da autoridade requerente\n\nData de transmissão da resposta\n\nNúmero de referência da autoridade requerida\n\nN.º de anexos da presente resposta\n\nNotificação solicitada\n\nInformações sobre a notificação solicitada:\n\nData de notificação ao destinatário\n\nIndicar a data, em caso de notificação efectuada\n\nAusência de notificação\n\nIndicar os motivos, em caso de ausência de notificação\n\nOutras informações\n\n---"
+  },
+  "58f360a0ce71eab8": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/5cd5a3d4-0c5e-11f1-8870-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (UE) 2019/473 do Parlamento Europeu e do Conselho, de 19 de março de 2019, sobre a Agência Europeia de Controlo das Pescas (JO L 83 de 25.3.2019, p. 18, ELI: [http://data.europa.eu/eli/reg/2019/473/oj](http://data.europa.eu/eli/reg/2019/473/oj)).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/5cd5a3d4-0c5e-11f1-8870-01aa75ed71a1.0019.02/DOC_1#src.E0002)) JO L 253 de 11.10.1993, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/5cd5a3d4-0c5e-11f1-8870-01aa75ed71a1.0019.02/DOC_1#src.E0003)) Diretiva (UE) 2016/680 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativa à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas autoridades competentes para efeitos de prevenção, investigação, deteção ou repressão de infrações penais ou execução de sanções penais, e à livre circulação desses dados, e que revoga a Decisão-Quadro 2008/977/JAI do Conselho (JO L 119 de 4.5.2016, p. 89, ELI: [http://data.europa.eu/eli/dir/2016/680/oj](http://data.europa.eu/eli/dir/2016/680/oj)).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/5cd5a3d4-0c5e-11f1-8870-01aa75ed71a1.0019.02/DOC_1#src.E0005)) Regulamento (CE) n.º 1035/2001 do Conselho, de 22 de maio de 2001, que estabelece um esquema de documentação das capturas de *Dissostichus* spp. (JO L 145 de 31.5.2001, p. 1, ELI: [http://data.europa.eu/eli/reg/2001/1035/oj](http://data.europa.eu/eli/reg/2001/1035/oj)).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/5cd5a3d4-0c5e-11f1-8870-01aa75ed71a1.0019.02/DOC_1#src.E0006)) Regulamento (UE) 2023/2833 do Parlamento Europeu e do Conselho, de 13 de dezembro de 2023, que estabelece um programa de documentação das capturas de atum-rabilho (*Thunnus thynnus*) e que revoga o Regulamento (UE) n.º 640/2010 (JO L, 2023/2833, 20.12.2023, p. 1, ELI: [http://data.europa.eu/eli/reg/2023/2833/oj](http://data.europa.eu/eli/reg/2023/2833/oj))."
+  }
+ }
+}

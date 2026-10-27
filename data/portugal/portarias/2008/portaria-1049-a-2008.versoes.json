@@ -1,0 +1,179 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:281852:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-66793822",
+ "dre_path": "/dr/detalhe/portaria/1049-a-2008-281852",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-09-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "173591514"
+   ]
+  },
+  {
+   "date": "2015-02-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66487457:por",
+     "title": "Portaria n.º 29/2015",
+     "published": "2015-02-12",
+     "dre_path": "/dr/detalhe/portaria/29-2015-66487457"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "66793726",
+    "66793727",
+    "66793728",
+    "173591512",
+    "173591513",
+    "66793731"
+   ]
+  },
+  {
+   "date": "2017-09-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108141749:por",
+     "title": "Portaria n.º 272-A/2017",
+     "published": "2017-09-13",
+     "dre_path": "/dr/detalhe/portaria/272-a-2017-108141749"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "173591514",
+    "173591515",
+    "173591516",
+    "173591517",
+    "173591518",
+    "173591519"
+   ]
+  }
+ ],
+ "fragments": {
+  "173591514": {
+   "fragment_id": "66793823",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2017-09-14",
+   "changed_by": [],
+   "markdown": "Portaria n.º 1049-A/2008\n\nde 16 de Setembro\n\nConsiderando os objectivos de satisfação das necessidades e da gestão eficiente dos recursos humanos não docentes dos agrupamentos de escolas e das escolas não agrupadas, estabelecem-se os critérios e a fórmula de cálculo da dotação máxima de referência dos auxiliares de acção educativa e dos assistentes de administração escolar. Esta dotação máxima serve igualmente de referência para efeitos da determinação do valor das transferências do orçamento do Ministério da Educação para os municípios para pagamento das remunerações do pessoal não docente, conforme previsto no artigo 4.º do Decreto-Lei n.º 144/2008, de 28 de Julho.\n\nNa determinação da dotação máxima de referência do pessoal não docente, identificam-se critérios claros que visam especificamente a criação de condições que viabilizem uma escola de qualidade, permitindo, desse modo, a racionalização de recursos e a sua adequada distribuição, terminando com os desequilíbrios porventura existentes.\n\nAssim:\n\nNos termos do n.º 3 do artigo 4.º do Decreto-Lei n.º 144/2008, de 28 de Julho, manda o Governo, pelos Secretários de Estado Adjunto e da Administração Local, da Administração Pública e da Educação, o seguinte:"
+  },
+  "66793726": {
+   "fragment_id": "66793823",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1049-A/2008\n\nde 16 de Setembro\n\nConsiderando os objectivos de satisfação das necessidades e da gestão eficiente dos recursos humanos não docentes dos agrupamentos de escolas e das escolas não agrupadas, estabelecem-se os critérios e a fórmula de cálculo da dotação máxima de referência dos auxiliares de acção educativa e dos assistentes de administração escolar. Esta dotação máxima serve igualmente de referência para efeitos da determinação do valor das transferências do orçamento do Ministério da Educação para os municípios para pagamento das remunerações do pessoal não docente, conforme previsto no artigo 4.º do Decreto-Lei n.º 144/2008, de 28 de Julho.\n\nNa determinação da dotação máxima de referência do pessoal não docente, identificam-se critérios claros que visam especificamente a criação de condições que viabilizem uma escola de qualidade, permitindo, desse modo, a racionalização de recursos e a sua adequada distribuição, terminando com os desequilíbrios porventura existentes.\n\nAssim:\n\nNos termos do n.º 3 do artigo 4.º do Decreto-Lei n.º 144/2008, de 28 de Julho, manda o Governo, pelos Secretários de Estado Adjunto e da Administração Local, da Administração Pública e da Educação, o seguinte:"
+  },
+  "66793727": {
+   "fragment_id": "66793824",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSão definidos os critérios e a respectiva fórmula de cálculo para a determinação da dotação máxima de referência do pessoal não docente, por agrupamento de escolas ou escola não agrupada."
+  },
+  "66793728": {
+   "fragment_id": "66793825",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA dotação máxima de referência dos auxiliares de acção educativa para os agrupamentos de escolas e escolas não agrupadas é fixada com base nos seguintes critérios:\n\na) A tipologia dos edifícios escolares;\n\nb) As instalações desportivas;\n\nc) O regime de funcionamento;\n\nd) A prática de contratação de empresas para prestação do serviço de limpeza;\n\ne) O número de alunos;\n\nf) A oferta educativa/formativa;\n\ng) A existência, nas escolas, de unidades de ensino estruturado (educação especial);\n\nh) A existência, nas escolas, de unidades de apoio especializado (educação especial)."
+  },
+  "173591512": {
+   "fragment_id": "66793826",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2015-02-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 29/2015 - Diário da República n.º 30/2015, Série I de 2015-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/29-2015-66487457), em vigor a partir de 2015-02-17"
+   ],
+   "markdown": "###### Artigo 3.º\n\n3.º A dotação máxima de referência dos assistentes técnicos para os agrupamentos de escolas e escolas não agrupadas é determinada pelo número de alunos do 2.º e 3.º ciclos dos ensinos básico e secundário do agrupamento ou escola não agrupada.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 29/2015 - Diário da República n.º 30/2015, Série I de 2015-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/29-2015-66487457), em vigor a partir de 2015-02-17"
+  },
+  "173591513": {
+   "fragment_id": "66793827",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2015-02-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 29/2015 - Diário da República n.º 30/2015, Série I de 2015-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/29-2015-66487457), em vigor a partir de 2015-02-17"
+   ],
+   "markdown": "###### Artigo 4.º\n\n4.º Estabelece-se, quanto à fórmula de cálculo da dotação máxima de referência dos auxiliares de acção educativa e dos assistentes de administração escolar, dos agrupamentos de escolas e escolas não agrupadas, o seguinte:\n\n1 - A fórmula de cálculo para os assistentes técnicos, que tem por base o número de alunos do 2.º e 3.º ciclos dos ensinos básico e secundário do agrupamento ou escola não agrupada, é a seguinte:\n\na) Cinco assistentes, incluindo o chefe de serviços, para um número de alunos menor ou igual a 300;\n\nb) Se o número de alunos for maior que 300 e menor ou igual a 1100, acresce mais um assistente por cada conjunto adicional de 1 a 200 alunos.\n\nc) Se o número de alunos for maior que 1100, acresce mais um assistente por cada conjunto adicional de 1 a 300 alunos.\n\nd) Os agrupamentos onde esteja sediado um Centro de Formação de Associação de Professores (CFAE) terão o acréscimo de um assistente técnico.\n\n2 - A fórmula de cálculo para os auxiliares de acção educativa é a seguinte:\n\n2.1 - Educação pré-escolar:\n\na) Para um número igual ou inferior a 40 crianças, um auxiliar;\n\nb) A este número acresce mais um auxiliar por cada conjunto adicional de 1 a 40 crianças;\n\n2.2 - 1.º ciclo do ensino básico:\n\na) Entre 21 e 48 alunos, um assistente operacional;\n\nb) Ao número referido na alínea a) acresce mais um auxiliar por cada conjunto adicional de 1 a 48 alunos;\n\nc) Ao número referido na alínea a) acrescem dois auxiliares no caso de escolas com uma unidade de ensino estruturado;\n\nd) Ao número referido na alínea a) acrescem dois auxiliares no caso de escolas com uma unidade de apoio especializado;\n\ne) Ao número referido na alínea a) acresce um auxiliar por cada sala adicional em qualquer das unidades referidas nas alíneas anteriores;\n\n2.3 - 2.º e 3.º ciclos do ensino básico e do ensino secundário - o número de auxiliares de acção educativa para as escolas dos 2.º e 3.º ciclos do ensino básico calcula-se de acordo com a seguinte fórmula:\n\nN = (AG + Pav + RAF) x (1 + RF + T + L + CP_CEF) + UEE + UAE\n\nsendo que:\n\nN corresponde ao número de auxiliares;\n\nAG corresponde ao pessoal para apoio geral (AG) - seis auxiliares;\n\nPav corresponde ao pavilhão gimnodesportivo - dois auxiliares;\n\nRAF corresponde ao rácio funcionário - se o número de alunos for menor ou igual a 600, um auxiliar por cada 100 alunos; se o número de alunos for maior que 600 e menor ou igual a 1000, um auxiliar por cada 120 alunos; se o número de alunos for maior que 1000, um auxiliar por cada 150 alunos;\n\nRF corresponde ao regime de funcionamento - desdobramento + 25 %; normal + noite + 25 %; desdobramento + noite + 50 %;\n\nT corresponde ao tipo de edifício - se o edifício for em blocos/misto + 25 %;\n\nL corresponde a limpeza - se for efectuada por empresa externa -25 %;\n\nCP_CEF corresponde a cursos profissionais e ou cursos de educação e formação - se esta oferta formativa for maior que 25 % da oferta da escola + 15 %;\n\nUEE corresponde a unidade de ensino estruturado - dois auxiliares se a escola tiver UEE e mais um auxiliar por cada sala UEE adicional;\n\nUAE corresponde a unidades de apoio especializado - dois auxiliares se a escola tiver UAE e mais um auxiliar por cada sala UAE adicional.\n\n3 - Os cálculos resultantes da aplicação das fórmulas acima referidas são arredondados por excesso.\n\n4 - A fórmula de cálculo do pessoal não docente e por escola é igual ao somatório do resultado das fórmulas de cálculo para os auxiliares de acção educativa e para os assistentes de administração escolar.\n\n5 - A fórmula de cálculo para pessoal não docente por agrupamento é igual ao somatório do resultado das fórmulas de cálculo do pessoal não docente para cada escola e jardim-de-infância que o integra.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 29/2015 - Diário da República n.º 30/2015, Série I de 2015-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/29-2015-66487457), em vigor a partir de 2015-02-17"
+  },
+  "66793731": {
+   "fragment_id": "66793828",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 12 de Setembro de 2008.\n\nO Secretário de Estado Adjunto e da Administração Local, Eduardo Arménio do Nascimento Cabrita. - O Secretário de Estado da Administração Pública, Gonçalo André Castilho dos Santos. - O Secretário de Estado da Educação, Valter Victorino Lemos."
+  },
+  "173591515": {
+   "fragment_id": "66793824",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2017-09-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 272-A/2017 - Diário da República n.º 177/2017, 1º Suplemento, Série I de 2017-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/272-a-2017-108141749), em vigor a partir de 2017-09-14"
+   ],
+   "markdown": "###### Artigo 1.º\n\nSão definidos os critérios e a respectiva fórmula de cálculo para a determinação da dotação máxima de referência do pessoal não docente, por agrupamento de escolas ou escola não agrupada.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 272-A/2017 - Diário da República n.º 177/2017, 1º Suplemento, Série I de 2017-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/272-a-2017-108141749), em vigor a partir de 2017-09-14"
+  },
+  "173591516": {
+   "fragment_id": "66793825",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2017-09-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 272-A/2017 - Diário da República n.º 177/2017, 1º Suplemento, Série I de 2017-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/272-a-2017-108141749), em vigor a partir de 2017-09-14"
+   ],
+   "markdown": "###### Artigo 2.º\n\nA dotação máxima de referência dos auxiliares de acção educativa para os agrupamentos de escolas e escolas não agrupadas é fixada com base nos seguintes critérios:\n\na) A tipologia dos edifícios escolares;\n\nb) As instalações desportivas;\n\nc) O regime de funcionamento;\n\nd) A prática de contratação de empresas para prestação do serviço de limpeza;\n\ne) O número de alunos;\n\nf) A oferta educativa/formativa;\n\ng) A existência, nas escolas, de unidades de ensino estruturado (educação especial);\n\nh) A existência, nas escolas, de unidades de apoio especializado (educação especial).\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 272-A/2017 - Diário da República n.º 177/2017, 1º Suplemento, Série I de 2017-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/272-a-2017-108141749), em vigor a partir de 2017-09-14"
+  },
+  "173591517": {
+   "fragment_id": "66793826",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2017-09-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 272-A/2017 - Diário da República n.º 177/2017, 1º Suplemento, Série I de 2017-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/272-a-2017-108141749), em vigor a partir de 2017-09-14",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 29/2015 - Diário da República n.º 30/2015, Série I de 2015-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/29-2015-66487457), em vigor a partir de 2015-02-17"
+   ],
+   "markdown": "###### Artigo 3.º\n\n3.º A dotação máxima de referência dos assistentes técnicos para os agrupamentos de escolas e escolas não agrupadas é determinada pelo número de alunos do 2.º e 3.º ciclos dos ensinos básico e secundário do agrupamento ou escola não agrupada.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 272-A/2017 - Diário da República n.º 177/2017, 1º Suplemento, Série I de 2017-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/272-a-2017-108141749), em vigor a partir de 2017-09-14\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 29/2015 - Diário da República n.º 30/2015, Série I de 2015-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/29-2015-66487457), em vigor a partir de 2015-02-17"
+  },
+  "173591518": {
+   "fragment_id": "66793827",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2017-09-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 272-A/2017 - Diário da República n.º 177/2017, 1º Suplemento, Série I de 2017-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/272-a-2017-108141749), em vigor a partir de 2017-09-14",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 29/2015 - Diário da República n.º 30/2015, Série I de 2015-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/29-2015-66487457), em vigor a partir de 2015-02-17"
+   ],
+   "markdown": "###### Artigo 4.º\n\n4.º Estabelece-se, quanto à fórmula de cálculo da dotação máxima de referência dos auxiliares de acção educativa e dos assistentes de administração escolar, dos agrupamentos de escolas e escolas não agrupadas, o seguinte:\n\n1 - A fórmula de cálculo para os assistentes técnicos, que tem por base o número de alunos do 2.º e 3.º ciclos dos ensinos básico e secundário do agrupamento ou escola não agrupada, é a seguinte:\n\na) Cinco assistentes, incluindo o chefe de serviços, para um número de alunos menor ou igual a 300;\n\nb) Se o número de alunos for maior que 300 e menor ou igual a 1100, acresce mais um assistente por cada conjunto adicional de 1 a 200 alunos.\n\nc) Se o número de alunos for maior que 1100, acresce mais um assistente por cada conjunto adicional de 1 a 300 alunos.\n\nd) Os agrupamentos onde esteja sediado um Centro de Formação de Associação de Professores (CFAE) terão o acréscimo de um assistente técnico.\n\n2 - A fórmula de cálculo para os auxiliares de acção educativa é a seguinte:\n\n2.1 - Educação pré-escolar:\n\na) Para um número igual ou inferior a 40 crianças, um auxiliar;\n\nb) A este número acresce mais um auxiliar por cada conjunto adicional de 1 a 40 crianças;\n\n2.2 - 1.º ciclo do ensino básico:\n\na) Entre 21 e 48 alunos, um assistente operacional;\n\nb) Ao número referido na alínea a) acresce mais um auxiliar por cada conjunto adicional de 1 a 48 alunos;\n\nc) Ao número referido na alínea a) acrescem dois auxiliares no caso de escolas com uma unidade de ensino estruturado;\n\nd) Ao número referido na alínea a) acrescem dois auxiliares no caso de escolas com uma unidade de apoio especializado;\n\ne) Ao número referido na alínea a) acresce um auxiliar por cada sala adicional em qualquer das unidades referidas nas alíneas anteriores;\n\n2.3 - 2.º e 3.º ciclos do ensino básico e do ensino secundário - o número de auxiliares de acção educativa para as escolas dos 2.º e 3.º ciclos do ensino básico calcula-se de acordo com a seguinte fórmula:\n\nN = (AG + Pav + RAF) x (1 + RF + T + L + CP_CEF) + UEE + UAE\n\nsendo que:\n\nN corresponde ao número de auxiliares;\n\nAG corresponde ao pessoal para apoio geral (AG) - seis auxiliares;\n\nPav corresponde ao pavilhão gimnodesportivo - dois auxiliares;\n\nRAF corresponde ao rácio funcionário - se o número de alunos for menor ou igual a 600, um auxiliar por cada 100 alunos; se o número de alunos for maior que 600 e menor ou igual a 1000, um auxiliar por cada 120 alunos; se o número de alunos for maior que 1000, um auxiliar por cada 150 alunos;\n\nRF corresponde ao regime de funcionamento - desdobramento + 25 %; normal + noite + 25 %; desdobramento + noite + 50 %;\n\nT corresponde ao tipo de edifício - se o edifício for em blocos/misto + 25 %;\n\nL corresponde a limpeza - se for efectuada por empresa externa -25 %;\n\nCP_CEF corresponde a cursos profissionais e ou cursos de educação e formação - se esta oferta formativa for maior que 25 % da oferta da escola + 15 %;\n\nUEE corresponde a unidade de ensino estruturado - dois auxiliares se a escola tiver UEE e mais um auxiliar por cada sala UEE adicional;\n\nUAE corresponde a unidades de apoio especializado - dois auxiliares se a escola tiver UAE e mais um auxiliar por cada sala UAE adicional.\n\n3 - Os cálculos resultantes da aplicação das fórmulas acima referidas são arredondados por excesso.\n\n4 - A fórmula de cálculo do pessoal não docente e por escola é igual ao somatório do resultado das fórmulas de cálculo para os auxiliares de acção educativa e para os assistentes de administração escolar.\n\n5 - A fórmula de cálculo para pessoal não docente por agrupamento é igual ao somatório do resultado das fórmulas de cálculo do pessoal não docente para cada escola e jardim-de-infância que o integra.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 272-A/2017 - Diário da República n.º 177/2017, 1º Suplemento, Série I de 2017-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/272-a-2017-108141749), em vigor a partir de 2017-09-14\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 29/2015 - Diário da República n.º 30/2015, Série I de 2015-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/29-2015-66487457), em vigor a partir de 2015-02-17"
+  },
+  "173591519": {
+   "fragment_id": "66793828",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2017-09-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 272-A/2017 - Diário da República n.º 177/2017, 1º Suplemento, Série I de 2017-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/272-a-2017-108141749), em vigor a partir de 2017-09-14"
+   ],
+   "markdown": "Em 12 de Setembro de 2008.\n\nO Secretário de Estado Adjunto e da Administração Local, Eduardo Arménio do Nascimento Cabrita. - O Secretário de Estado da Administração Pública, Gonçalo André Castilho dos Santos. - O Secretário de Estado da Educação, Valter Victorino Lemos.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 272-A/2017 - Diário da República n.º 177/2017, 1º Suplemento, Série I de 2017-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/272-a-2017-108141749), em vigor a partir de 2017-09-14"
+  }
+ }
+}

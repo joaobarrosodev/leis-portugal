@@ -1,0 +1,834 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:177363476:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2022-177444682",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/1-2022-177363476",
+ "source_lastmod": "2024-11-06",
+ "versions": [
+  {
+   "date": "2022-01-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "177444606",
+    "177444607",
+    "177444608",
+    "177444609",
+    "177444610",
+    "177444611",
+    "177444612",
+    "177444613",
+    "177444614",
+    "177444615",
+    "177444616",
+    "177444617",
+    "177444618",
+    "177444619",
+    "177444620",
+    "177444621",
+    "177444622",
+    "177444623",
+    "177444624",
+    "177444625",
+    "177444626",
+    "177444627",
+    "177444628",
+    "177444629",
+    "177444630",
+    "177444631",
+    "177444632",
+    "177444633",
+    "177444634",
+    "177444635",
+    "177444636",
+    "177444637",
+    "177444638",
+    "177444639",
+    "177444640",
+    "177444641",
+    "177444642",
+    "177444643",
+    "177444644",
+    "177444645",
+    "177444646",
+    "177444647",
+    "177444648",
+    "177444649",
+    "177444650",
+    "177444651",
+    "177444652",
+    "177444653",
+    "177444654",
+    "177444655",
+    "177444656",
+    "177444657",
+    "177444658",
+    "177444659",
+    "177444660",
+    "177444661",
+    "177444662"
+   ]
+  },
+  {
+   "date": "2024-11-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:895646292:por",
+     "title": "Decreto Regulamentar n.º 5/2024",
+     "published": "2024-11-06",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/5-2024-895646292"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 11.º-A",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "177444606",
+    "177444607",
+    "177444608",
+    "177444609",
+    "177444610",
+    "177444611",
+    "177444612",
+    "895688860",
+    "895688861",
+    "895688862",
+    "895688863",
+    "177444617",
+    "895688864",
+    "177444619",
+    "177444620",
+    "177444621",
+    "177444622",
+    "895688853",
+    "895688854",
+    "895688855",
+    "895688856",
+    "895688857",
+    "895688865",
+    "177444628",
+    "177444629",
+    "895688859",
+    "177444631",
+    "177444632",
+    "177444633",
+    "177444634",
+    "177444635",
+    "177444636",
+    "177444637",
+    "177444638",
+    "177444639",
+    "177444640",
+    "177444641",
+    "177444642",
+    "177444643",
+    "177444644",
+    "177444645",
+    "177444646",
+    "177444647",
+    "177444648",
+    "177444649",
+    "177444650",
+    "177444651",
+    "177444652",
+    "177444653",
+    "177444654",
+    "177444655",
+    "177444656",
+    "177444657",
+    "177444658",
+    "177444659",
+    "177444660",
+    "177444661",
+    "177444662",
+    "177444663"
+   ]
+  },
+  {
+   "date": "2026-01-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:992879808:por",
+     "title": "Decreto-Lei n.º 138/2025",
+     "published": "2025-12-29",
+     "dre_path": "/dr/detalhe/decreto-lei/138-2025-992879808"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "177444606",
+    "177444607",
+    "177444608",
+    "177444609",
+    "177444610",
+    "177444611",
+    "177444612",
+    "895688860",
+    "895688861",
+    "993022557",
+    "895688863",
+    "177444617",
+    "895688864",
+    "177444619",
+    "177444620",
+    "177444621",
+    "177444622",
+    "895688853",
+    "895688854",
+    "895688855",
+    "895688856",
+    "895688857",
+    "895688865",
+    "177444628",
+    "177444629",
+    "993022558",
+    "177444631",
+    "177444632",
+    "177444633",
+    "177444634",
+    "177444635",
+    "177444636",
+    "177444637",
+    "177444638",
+    "177444639",
+    "177444640",
+    "177444641",
+    "177444642",
+    "177444643",
+    "177444644",
+    "177444645",
+    "177444646",
+    "177444647",
+    "177444648",
+    "177444649",
+    "177444650",
+    "177444651",
+    "177444652",
+    "177444653",
+    "177444654",
+    "177444655",
+    "177444656",
+    "177444657",
+    "177444658",
+    "177444659",
+    "177444660",
+    "177444661",
+    "177444662",
+    "177444663"
+   ]
+  }
+ ],
+ "fragments": {
+  "177444606": {
+   "fragment_id": "177444683",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 1/2022\n\nde 10 de janeiro\n\nSumário: Estabelece os termos e as condições do reconhecimento do estatuto de cuidador informal bem como as medidas de apoio aos cuidadores informais e às pessoas cuidadas.\n\nO Estatuto do Cuidador Informal (ECI), que regula os direitos e os deveres do cuidador e da pessoa cuidada, foi aprovado em anexo à Lei n.º 100/2019, de 6 de setembro.\n\nA mesma lei prevê, por um lado, o desenvolvimento de projetos-piloto, destinados a pessoas que se enquadrem nas condições previstas no ECI, que apliquem de forma experimental, mediante um programa de enquadramento e acompanhamento, as medidas de apoio ao cuidador informal, e, por outro lado, que os direitos aí previstos são objeto de regulamentação específica após avaliação dos projetos-piloto.\n\nOs termos e condições de implementação dos referidos projetos-piloto foram, por sua vez, regulados pela Portaria n.º 64/2020, de 10 de março, tendo sido criado um programa de enquadramento e acompanhamento, bem como as medidas de apoio ao cuidador informal.\n\nPara acompanhamento, monitorização e avaliação dos projetos-piloto foi criada, nos termos previstos na referida portaria, a Comissão de Acompanhamento, Monitorização e Avaliação Intersetorial, que apresentou aos membros do Governo responsáveis pelas áreas do trabalho, solidariedade e segurança social e da saúde o relatório final de avaliação dos projetos-piloto com a identificação de recomendações à regulamentação do ECI.\n\nNa sequência da avaliação da implementação dos projetos-piloto, procede-se, através do presente diploma, à adoção das regras para aplicação dos termos dos projetos-piloto previstos na referida portaria a todo o território continental, introduzindo-se alterações para agilizar e alargar o sistema de reconhecimento e das medidas aplicáveis aos cuidadores informais como importante medida de política social dirigida às pessoas que cuidam de terceiros que, independentemente da idade, se encontram em situação de dependência, com deficiência ou incapacidade.\n\nDestaca-se a simplificação do processo de reconhecimento do estatuto de cuidador informal, do alargamento do reconhecimento dos cuidados prestados a mais do que um familiar e do descanso do cuidador informal à Rede Nacional de Cuidados Continuados Integrados de Saúde Mental.\n\nNo âmbito do subsídio de apoio ao cuidador informal, é majorado o subsídio relativo aos cuidadores informais inscritos no seguro social voluntário.\n\nAssim:\n\nNos termos da alínea c) do artigo 199.º da Constituição, e do n.º 2 do artigo 15.º da Lei n.º 100/2019, de 6 de setembro, o Governo decreta o seguinte:"
+  },
+  "177444607": {
+   "fragment_id": "177444684",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "177444608": {
+   "fragment_id": "177444685",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto regulamentar estabelece os termos e as condições do reconhecimento como cuidador informal, bem como das medidas de apoio aos cuidadores informais e às pessoas cuidadas, regulamentando o disposto na Lei n.º 100/2019, de 6 de setembro, que aprova o Estatuto do Cuidador Informal (ECI)."
+  },
+  "177444609": {
+   "fragment_id": "177444686",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente decreto regulamentar aplica-se aos cuidadores informais e às pessoas cuidadas, nos termos do disposto no ECI, que preencham os requisitos previstos no presente decreto regulamentar e a quem seja reconhecido o respetivo estatuto, bem como às entidades responsáveis pela gestão e acompanhamento das respetivas medidas de apoio."
+  },
+  "177444610": {
+   "fragment_id": "177444687",
+   "type": 11,
+   "heading": "Artigo 3.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objetivos\n\nSão objetivos do presente decreto regulamentar:\n\na) Reconhecer e valorizar a função social dos cuidadores informais;\n\nb) Regular o procedimento de reconhecimento do estatuto de cuidador informal;\n\nc) Definir as medidas de suporte, capacitação e apoio aos cuidadores informais e simplificar a ativação de recursos da comunidade;\n\nd) Disponibilizar aos cuidadores informais apoio técnico especializado, através dos profissionais de referência da saúde e da segurança social, nos termos a definir no Plano de Intervenção Específico (PIE);\n\ne) Incentivar os cuidados informais promovendo a manutenção das pessoas cuidadas no domicílio, com respeito à vontade da própria pessoa cuidada e da avaliação efetuada no PIE."
+  },
+  "177444611": {
+   "fragment_id": "177444688",
+   "type": 1,
+   "heading": "Capítulo II — Reconhecimento do estatuto de cuidador informal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Reconhecimento do estatuto de cuidador informal"
+  },
+  "177444612": {
+   "fragment_id": "177444689",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições do reconhecimento do estatuto de cuidador informal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições do reconhecimento do estatuto de cuidador informal\n\n1 - Para efeitos do ECI, o reconhecimento do estatuto de cuidador informal depende de:\n\na) O requerente preencher os requisitos genéricos previstos no artigo 5.º e, simultaneamente, no caso do estatuto de cuidador informal principal, os requisitos específicos previstos no artigo 6.º; e\n\nb) A pessoa cuidada preencher os requisitos previstos no artigo 7.º e prestar o seu consentimento, nos termos do disposto no artigo 8.º\n\n2 - O estatuto de cuidador informal só pode ser reconhecido a um requerente por domicílio.\n\n3 - Sem prejuízo do disposto no número anterior, podem ser reconhecidos até três cuidadores informais não principais por pessoa cuidada."
+  },
+  "177444613": {
+   "fragment_id": "177444690",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisitos genéricos do cuidador informal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos genéricos do cuidador informal\n\nO reconhecimento do estatuto de cuidador informal depende de o cuidador preencher, cumulativamente, os seguintes requisitos:\n\na) Ter residência legal em território nacional;\n\nb) Ter idade igual ou superior a 18 anos;\n\nc) Apresentar condições de saúde adequadas aos cuidados a prestar à pessoa cuidada e ter disponibilidade para a sua prestação;\n\nd) Ser cônjuge ou unido de facto, parente ou afim até ao 4.º grau da linha reta ou da linha colateral da pessoa cuidada;\n\ne) Não ser titular de pensão de invalidez absoluta, de pensão de invalidez do regime especial de proteção na invalidez e de prestações de dependência."
+  },
+  "177444614": {
+   "fragment_id": "177444691",
+   "type": 11,
+   "heading": "Artigo 6.º — Requisitos específicos do cuidador informal principal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Requisitos específicos do cuidador informal principal\n\nPara além do preenchimento dos requisitos previstos no artigo anterior, o estatuto de cuidador informal principal só pode ser reconhecido se o requerente preencher, cumulativamente, os seguintes requisitos:\n\na) Viver em comunhão de habitação com a pessoa cuidada;\n\nb) Prestar cuidados de forma permanente, ainda que a pessoa cuidada frequente estabelecimento de ensino, de ensino especial ou respostas sociais de natureza não residencial, nas situações em que o PIE determine a necessidade de complementar, por essa via, a prestação de cuidados pelo cuidador informal;\n\nc) Não exercer atividade profissional remunerada ou outro tipo de atividade incompatível com a prestação de cuidados permanentes à pessoa cuidada;\n\nd) Não ser titular de prestações de desemprego;\n\ne) Não auferir remuneração pelos cuidados que presta à pessoa cuidada."
+  },
+  "177444615": {
+   "fragment_id": "177444692",
+   "type": 11,
+   "heading": "Artigo 7.º — Requisitos referentes à pessoa cuidada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Requisitos referentes à pessoa cuidada\n\n1 - Para efeitos de reconhecimento do estatuto de cuidador informal, a pessoa cuidada deve preencher os seguintes requisitos:\n\na) Encontrar-se numa situação de dependência de terceiros e a necessitar de cuidados permanentes;\n\nb) Não se encontrar acolhida em resposta social ou de saúde, pública ou privada, em regime residencial;\n\nc) Ser titular de uma das prestações previstas nos n.os 1 e 2 do artigo 3.º do ECI.\n\n2 - A verificação da condição de a pessoa cuidada se encontrar transitoriamente acamada, ou a necessitar de cuidados permanentes, nos termos do n.º 2 do artigo 3.º do ECI, depende de avaliação específica do sistema de verificação de incapacidades permanente do Instituto da Segurança Social, I. P. (ISS, I. P.), que define o prazo de transitoriedade, findo o qual a situação de dependência da pessoa cuidada é reapreciada.\n\n3 - Sem prejuízo do fim do prazo definido nos termos do número anterior, o reconhecimento do estatuto de cuidador informal mantém-se até decisão de não verificação da situação de dependência.\n\n4 - No caso de a pessoa cuidada não ser titular de nenhuma das prestações a que alude a alínea c) do n.º 1, o requerimento para reconhecimento do estatuto de cuidador informal pode ser apresentado em simultâneo com o requerimento para a atribuição de tais prestações."
+  },
+  "177444616": {
+   "fragment_id": "177444693",
+   "type": 11,
+   "heading": "Artigo 8.º — Consentimento da pessoa cuidada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Consentimento da pessoa cuidada\n\n1 - O consentimento da pessoa cuidada consiste na manifestação de vontade inequívoca de que esta pretende que o requerente seja reconhecido como seu cuidador informal.\n\n2 - O consentimento previsto no número anterior é prestado junto dos serviços do ISS, I. P., mediante declaração assinada pela pessoa cuidada, sendo maior, acompanhada de declaração médica que ateste que se encontra no pleno uso das suas faculdades intelectuais, ou pelo seu representante legal.\n\n3 - Nas situações previstas no n.º 4 do artigo anterior, a declaração médica prevista no número anterior é emitida pelos serviços de verificação de incapacidade permanente do ISS, I. P.\n\n4 - No caso de a pessoa cuidada maior não se encontrar no pleno uso das suas faculdades, tem ainda legitimidade para manifestar consentimento provisório pela pessoa cuidada aquele que preste ou se disponha a prestar cuidados à pessoa cuidada, devendo para o efeito instruir o requerimento para reconhecimento do estatuto de cuidador informal com comprovativo do pedido efetuado junto do tribunal para intentar a ação de acompanhamento de maior relativamente à pessoa cuidada, nos termos previstos no Código Civil.\n\n5 - O cuidador deve comunicar ao ISS, I. P., a decisão proferida pelo tribunal no âmbito da ação prevista no número anterior, no prazo de 10 dias úteis a contar da data da notificação do tribunal.\n\n6 - Na situação em que o tribunal conclua pela improcedência da ação, o consentimento da pessoa cuidada é recolhido pelo profissional de referência da segurança social, no prazo de 20 dias úteis a contar da data do conhecimento da decisão judicial por parte do ISS, I. P."
+  },
+  "177444617": {
+   "fragment_id": "177444694",
+   "type": 1,
+   "heading": "Capítulo III — Reconhecimento e cessação do estatuto de cuidador informal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Reconhecimento e cessação do estatuto de cuidador informal"
+  },
+  "177444618": {
+   "fragment_id": "177444695",
+   "type": 11,
+   "heading": "Artigo 9.º — Procedimento de reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Procedimento de reconhecimento\n\n1 - O reconhecimento do estatuto de cuidador informal depende da apresentação de requerimento junto dos serviços do ISS, I. P., preferencialmente, através da segurança social direta.\n\n2 - O requerimento deve ser acompanhado dos documentos necessários para prova dos requisitos genéricos relativos ao cuidador informal, bem como dos elementos de prova relativos aos requisitos referentes à pessoa cuidada, designadamente:\n\na) Cartão de cidadão, bilhete de identidade ou passaporte;\n\nb) Documento comprovativo da residência legal em território nacional, quando aplicável;\n\nc) Declaração sob compromisso de honra de que o cuidador possui condições físicas e psicológicas adequadas aos cuidados a prestar;\n\nd) Declaração relativa ao consentimento da pessoa cuidada e declaração médica nos termos do n.º 2 do artigo anterior;\n\ne) Comprovativo do pedido efetuado ao Ministério Público ou ao tribunal no âmbito do regime do maior acompanhado, quando aplicável.\n\n3 - Nas situações em que o requerente do reconhecimento do estatuto de cuidador informal apresente, em simultâneo, requerimento de atribuição das prestações a que alude a alínea c) do n.º 1 do artigo 7.º relativo à pessoa cuidada, o processo fica pendente do reconhecimento do direito àquelas prestações.\n\n4 - Nas situações em que o requerimento do reconhecimento do estatuto de cuidador informal é acompanhado de pedido de certificação de que a pessoa cuidada é titular de complemento por dependência de 1.º grau e se encontra transitoriamente acamada, ou a necessitar de cuidados permanentes, o requerimento só se considera devidamente instruído a partir da data de certificação pelo serviço de verificação de incapacidades.\n\n5 - Na falta de algum dos documentos previstos no n.º 2, o ISS, I. P., notifica o interessado para apresentar, no prazo de 10 dias úteis, os documentos em falta, sob pena do indeferimento liminar do pedido de reconhecimento do estatuto de cuidador informal.\n\n6 - O prazo para decisão é de 20 dias, contados após a data da apresentação do requerimento para reconhecimento do estatuto ou do requerimento aperfeiçoado, se a este houver lugar nos termos do número anterior.\n\n7 - Com o reconhecimento do estatuto de cuidador informal é emitido um cartão de identificação pelo ISS, I. P., que o cuidador informal deve apresentar sempre que lhe seja solicitado.\n\n8 - O modelo de cartão de identificação de cuidador informal é aprovado por deliberação do conselho diretivo do ISS, I. P."
+  },
+  "177444619": {
+   "fragment_id": "177444696",
+   "type": 11,
+   "heading": "Artigo 10.º — Cessação do reconhecimento do estatuto de cuidador informal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cessação do reconhecimento do estatuto de cuidador informal\n\n1 - O reconhecimento do estatuto de cuidador informal cessa nas seguintes situações:\n\na) Cessação de residência habitual ou legal em território nacional do cuidador e ou da pessoa cuidada;\n\nb) Invalidez permanente e definitiva, ou dependência, do cuidador;\n\nc) Não observância dos deveres do cuidador informal, mediante informação fundamentada por profissionais da área da segurança social ou da área da saúde;\n\nd) Não entrega da declaração de consentimento em nome da pessoa cuidada pelo seu acompanhante no prazo de 30 dias após a comunicação da decisão da ação de maior acompanhado pelo tribunal, quando aplicável;\n\ne) Não preenchimento superveniente ou cessação da verificação dos requisitos para o reconhecimento do estatuto de cuidador informal previstos nos artigos 4.º, 5.º e 7.º;\n\nf) Desistência ou morte do cuidador e ou da pessoa cuidada.\n\n2 - O cuidador informal fica obrigado a comunicar ao ISS, I. P., no prazo de 10 dias úteis, qualquer alteração dos requisitos que determinaram o reconhecimento, nomeadamente as situações referidas no número anterior."
+  },
+  "177444620": {
+   "fragment_id": "177444697",
+   "type": 1,
+   "heading": "Capítulo IV — Medidas de apoio ao cuidador informal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Medidas de apoio ao cuidador informal"
+  },
+  "177444621": {
+   "fragment_id": "177444698",
+   "type": 8,
+   "heading": "Secção I — Medidas de apoio comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Medidas de apoio comuns"
+  },
+  "177444622": {
+   "fragment_id": "177444699",
+   "type": 11,
+   "heading": "Artigo 11.º — Profissionais de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Profissionais de referência\n\n1 - Os serviços competentes de saúde e da segurança social da área de residência da pessoa cuidada designam um profissional de referência, de acordo com as necessidades da pessoa cuidada, a quem compete o acompanhamento de proximidade e, em conjunto com a pessoa cuidada e o cuidador informal, a mobilização dos recursos disponíveis para assegurar, de forma integrada e sistémica, os apoios e serviços para responder às necessidades ao nível dos cuidados de saúde e de apoio social.\n\n2 - Ao profissional de referência da saúde compete, designadamente no contexto da equipa de saúde familiar, aconselhar, acompanhar, capacitar e formar o cuidador informal, tendo em vista o desenvolvimento de competências no âmbito da prestação de cuidados à pessoa cuidada.\n\n3 - Ao profissional de referência da segurança social compete igualmente prestar o apoio ao nível da informação sobre direitos e benefícios, sinalização e encaminhamento para redes sociais de suporte, consideradas como o conjunto de recursos humanos e serviços institucionais que representam a totalidade das relações que a pessoa cuidada e o cuidador informal podem dispor e que podem prestar apoio em contexto domiciliário e comunitário, promovendo o cuidado no domicílio.\n\n4 - Sempre que a pessoa cuidada resida no concelho de Lisboa, as competências do profissional de referência da segurança social previstas no presente decreto regulamentar são asseguradas por profissionais da Santa Casa da Misericórdia de Lisboa."
+  },
+  "177444623": {
+   "fragment_id": "177444700",
+   "type": 11,
+   "heading": "Artigo 12.º — Plano de Intervenção Específico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Plano de Intervenção Específico\n\n1 - O PIE é o documento-programa que resulta do diagnóstico e planeamento centrado na continuidade e proximidade de cuidados, no que respeita às necessidades identificadas no domínio da saúde e da segurança social.\n\n2 - O PIE é elaborado conjuntamente pelo profissional de referência da saúde e pelo profissional de referência da segurança social, com a participação ativa do cuidador informal e da pessoa cuidada, ou do seu acompanhante ou quem a representa, no prazo máximo de 30 dias após o deferimento do reconhecimento.\n\n3 - O PIE contém a avaliação das necessidades do cuidador informal, as estratégias de acompanhamento, aconselhamento, capacitação e formação que o cuidador deve prosseguir no sentido de suprir ou minimizar as necessidades decorrentes da situação da pessoa cuidada e os recursos a mobilizar para apoio e alívio na prestação de cuidados.\n\n4 - Para além da identificação do cuidador e da pessoa cuidada, do PIE deve constar, designadamente, a seguinte informação:\n\na) Resultado do diagnóstico das necessidades do cuidador informal, em consonância com os da pessoa cuidada;\n\nb) Identificação dos cuidados a prestar pelo cuidador informal, bem como a informação de suporte a esses cuidados;\n\nc) Período de descanso anual do cuidador informal, se aplicável;\n\nd) Declaração de consentimento da pessoa cuidada para acolhimento em resposta social ou unidade de internamento da Rede Nacional de Cuidados Continuados Integrados para descanso do cuidador informal, quando aplicável;\n\ne) Formação, capacitação contínua e informação que o cuidador informal deve frequentar ou consultar;\n\nf) Acesso a medidas de saúde e apoio social, promotoras da autonomia, da participação, da qualidade de vida e do bom trato da pessoa cuidada, nomeadamente que concorram para a melhoria da qualidade de vida da pessoa cuidada;\n\ng) Avaliação da qualidade de vida e sobrecarga do cuidador informal, quando adequado;\n\nh) Identificação dos recursos pertinentes existentes na comunidade para a situação em apreço;\n\ni) Identificação dos profissionais de referência da saúde e da segurança social, bem como forma de contacto célere com os mesmos;\n\nj) Identificação dos grupos de autoajuda disponíveis na área de residência do cuidador.\n\n5 - O PIE é obrigatoriamente objeto de avaliação e revisão sempre que necessário, no mínimo uma vez por semestre, em função das alterações das necessidades do cuidador informal, da pessoa cuidada, bem como dos recursos e serviços de apoio disponíveis.\n\n6 - Sem prejuízo do disposto no número anterior, o PIE é revisto a todo o tempo, sempre que se verifique a alteração das necessidades associadas à prestação de cuidados."
+  },
+  "177444624": {
+   "fragment_id": "177444701",
+   "type": 11,
+   "heading": "Artigo 13.º — Grupos de autoajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Grupos de autoajuda\n\n1 - O cuidador informal tem direito a participar em grupos de autoajuda, criados nos serviços de saúde responsáveis pelo seu acompanhamento, dinamizados por profissionais de saúde numa ótica de entreajuda e partilha de experiências, constituídos por pessoas que vivem ou vivenciaram situações e ou dificuldades similares, minimizando o seu eventual isolamento.\n\n2 - Os grupos de autoajuda visam:\n\na) Proporcionar informação, apoio e encorajamento;\n\nb) Promover a autoestima, confiança e estabilidade emocional;\n\nc) Fomentar a intercomunicação e o estabelecimento de relações de suporte positivas;\n\nd) Minimizar o isolamento fomentando a integração na comunidade.\n\n3 - Para viabilizar a participação do cuidador nos grupos de autoajuda, e caso seja necessário, o profissional de referência da segurança social deve prestar informação acerca das redes formais de suporte existentes e que sejam mais adequadas para colmatar a sua eventual ausência temporária."
+  },
+  "177444625": {
+   "fragment_id": "177444702",
+   "type": 11,
+   "heading": "Artigo 14.º — Formação e informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Formação e informação\n\n1 - Os serviços de saúde devem assegurar ao cuidador informal informação específica adequada às necessidades da pessoa cuidada e à melhor forma de lhe prestar os cuidados necessários, em colaboração com os serviços da segurança social, sempre que necessário.\n\n2 - Nas situações em que o cuidador informal resida em concelho diferente da pessoa cuidada, são os competentes serviços de saúde do local de residência da pessoa cuidada que asseguram a formação necessária e adequada à situação.\n\n3 - Compete aos serviços da área da saúde definir os conteúdos e as formas de organização da formação e informação específica de acordo com as atividades a desenvolver pelo cuidador informal, identificadas no PIE do cuidador, em colaboração com os serviços da segurança social, sempre que necessário."
+  },
+  "177444626": {
+   "fragment_id": "177444703",
+   "type": 11,
+   "heading": "Artigo 15.º — Apoio psicossocial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Apoio psicossocial\n\n1 - Os serviços da área da segurança social e da saúde, sem prejuízo da articulação com outros recursos de ação social da comunidade, asseguram o apoio psicossocial ao cuidador informal através de uma intervenção de natureza sistémica e articulada com o objetivo de:\n\na) Promover o desenvolvimento de competências pessoais e sociais;\n\nb) Promover as condições necessárias para a prestação de cuidados adequados ao bem-estar da pessoa cuidada;\n\nc) Prestar informação e assegurar o encaminhamento para respostas e serviços que permitam atenuar ou resolver situações complexas, nomeadamente ao nível da situação de dependência, incluindo de saúde mental, necessidade de descanso dos cuidadores informais entre outras;\n\nd) Promover a ativação de recursos e apoios sociais, cuja necessidade esteja expressa no diagnóstico previsto na alínea a) do n.º 4 do artigo 12.º\n\n2 - Na prestação do apoio psicossocial deve ser salvaguardado o princípio da intervenção mínima, no sentido de que a intervenção deve ser exercida exclusivamente pelas entidades cuja ação seja indispensável à efetiva promoção dos direitos e à proteção da pessoa cuidada."
+  },
+  "177444627": {
+   "fragment_id": "177444704",
+   "type": 11,
+   "heading": "Artigo 16.º — Descanso do cuidador informal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Descanso do cuidador informal\n\n1 - O cuidador informal pode beneficiar de um período de descanso, de acordo com a avaliação efetuada no PIE, resultado da avaliação técnica e/ou a pedido do próprio cuidador informal e/ou pessoa cuidada, com vista à diminuição da sua sobrecarga física e emocional.\n\n2 - Para efeitos do disposto no número anterior, a pessoa cuidada pode, em condições a definir através de portaria dos membros de Governo responsáveis pelas áreas das finanças, da saúde e da segurança social:\n\na) Ser referenciada, no âmbito da RNCCI para unidade de internamento de longa duração e manutenção, beneficiando de uma diferenciação positiva, nos termos do disposto no n.º 11 do artigo 7.º do ECI;\n\nb) Ser referenciada para unidades no âmbito da RNCCI de Saúde Mental, para unidade de internamento de residência de apoio máximo e residência de apoio moderado, beneficiando de uma diferenciação positiva;\n\nc) Ser, temporária e transitoriamente, encaminhada e acolhida em estabelecimento de apoio social, designadamente estrutura residencial para pessoas idosas, lar residencial ou em família de acolhimento para pessoas idosas e adultas com deficiência;\n\nd) Beneficiar de serviços de apoio domiciliário.\n\n3 - O internamento previsto nas alíneas a) e b) do número anterior decorre do diagnóstico efetuado no PIE, num período até 30 dias por ano, por necessidade de descanso do cuidador informal, em função da disponibilidade de vaga para descanso e sem prejuízo do disposto no Decreto-Lei n.º 101/2006, de 6 de junho, e no Decreto-Lei n.º 8/2010, de 28 de janeiro, sendo atribuído preferencialmente aos cuidadores que sejam identificados como tendo maiores necessidades.\n\n4 - O descanso do cuidador informal deve estar definido no PIE e deve ter em conta:\n\na) A vontade expressa do cuidador informal e da pessoa cuidada;\n\nb) As necessidades do cuidador informal e da pessoa cuidada;\n\nc) As exigências laborais do cuidador informal, quando aplicável;\n\nd) As limitações funcionais e níveis de exaustão do cuidador informal, nomeadamente através de avaliação de sobrecarga;\n\ne) As características da rede social de suporte;\n\nf) A proximidade da área do domicílio da pessoa cuidada.\n\n5 - A implementação das medidas de descanso previstas nas alíneas a) e b) do n.º 2 cabe ao profissional de referência da saúde e, no caso das previstas nas alíneas c) e d) do n.º 2, ao profissional de referência da segurança social."
+  },
+  "177444628": {
+   "fragment_id": "177444705",
+   "type": 8,
+   "heading": "Secção II — Medidas de apoio específicas ao cuidador informal principal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Medidas de apoio específicas ao cuidador informal principal"
+  },
+  "177444629": {
+   "fragment_id": "177444706",
+   "type": 3,
+   "heading": "Subsecção I — Subsídio de apoio ao cuidador informal principal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Subsídio de apoio ao cuidador informal principal"
+  },
+  "177444630": {
+   "fragment_id": "177444707",
+   "type": 11,
+   "heading": "Artigo 17.º — Atribuição e manutenção do subsídio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Atribuição e manutenção do subsídio\n\n1 - Pode ser atribuído um subsídio de apoio ao cuidador informal principal que preencha cumulativamente os seguintes requisitos:\n\na) Seja reconhecido com o estatuto de cuidador informal principal, nos termos dos artigos 5.º e 6.º;\n\nb) Cumpra a condição de recursos prevista no artigo 19.º;\n\nc) Não seja beneficiário de prestações, nos termos do artigo 30.º;\n\nd) Ter idade igual ou inferior à idade legal de acesso à pensão de velhice nas situações em que seja beneficiário de pensão antecipada, de pensão por invalidez relativa ou nas situações em que não reúna condições para ser beneficiário de pensão por velhice.\n\n2 - O subsídio de apoio ao cuidador informal principal, adiante designado por subsídio, consiste numa prestação pecuniária do subsistema de solidariedade."
+  },
+  "177444631": {
+   "fragment_id": "177444708",
+   "type": 11,
+   "heading": "Artigo 18.º — Rendimentos a considerar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Rendimentos a considerar\n\nPara efeitos da atribuição e cálculo do valor do subsídio são considerados, sequencialmente:\n\na) Os rendimentos do agregado familiar do cuidador informal, nos termos do artigo 20.º, enquanto condição de acesso ao subsídio;\n\nb) Os rendimentos próprios do cuidador, bem como as prestações de dependência da pessoa cuidada, nos termos do artigo 22.º, para efeitos de determinação do montante do subsídio."
+  },
+  "177444632": {
+   "fragment_id": "177444709",
+   "type": 11,
+   "heading": "Artigo 19.º — Condição de recursos do agregado familiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Condição de recursos do agregado familiar\n\nA condição de recursos do agregado familiar enquanto condição de acesso ao subsídio verifica-se sempre que o rendimento de referência do agregado familiar do cuidador seja inferior ao montante definido por portaria dos membros do Governo responsáveis pelas áreas das finanças e do trabalho, solidariedade e segurança social."
+  },
+  "177444633": {
+   "fragment_id": "177444710",
+   "type": 11,
+   "heading": "Artigo 20.º — Rendimento de referência do agregado familiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Rendimento de referência do agregado familiar\n\n1 - O agregado familiar do requerente para efeitos da determinação do rendimento de referência obedece ao previsto no artigo 4.º do Decreto-Lei n.º 70/2010, de 16 de junho, incluindo a pessoa cuidada, com exceção do disposto na alínea b) do n.º 1 do referido artigo, em que são considerados os parentes e afins maiores, em linha reta e em linha colateral até ao 4.º grau.\n\n2 - O rendimento de referência a considerar para a verificação da condição de recursos é o que resulta da soma dos rendimentos das pessoas que integram o agregado familiar do cuidador informal, relativos às categorias de rendimentos previstas no artigo 3.º do Decreto-Lei n.º 70/2010, de 16 de junho.\n\n3 - Para efeitos do disposto no número anterior, são aplicáveis as normas do Decreto-Lei n.º 70/2010, de 16 de junho, apenas referentes aos rendimentos a considerar e à sua caracterização.\n\n4 - Para a determinação do rendimento de referência a considerar na verificação da condição de recursos, relevam as categorias de rendimentos e os critérios previstos no Decreto-Lei n.º 70/2010, de 16 de junho, sem prejuízo do disposto no número anterior.\n\n5 - Os rendimentos de trabalho dependente reportam-se ao segundo mês anterior ao da data da apresentação do requerimento, não sendo considerados os rendimentos registados por equivalência à entrada de contribuições em resultado da atribuição de prestações substitutivas da perda de rendimento de trabalho.\n\n6 - Os montantes das remunerações auferidas no segundo mês anterior ao da apresentação do requerimento, que se reportem a atividades exercidas em período anterior, não são considerados no cálculo da prestação.\n\n7 - No caso de os rendimentos de trabalho dependente mais recentes serem variáveis, considera-se a média dos últimos três meses.\n\n8 - Na determinação dos rendimentos de trabalho dependente e de pensões são considerados os duodécimos do subsídio de férias e de Natal.\n\n9 - Os rendimentos de pensões e de prestações sociais reportam-se ao segundo mês anterior ao da data da apresentação do requerimento, não sendo considerados os montantes correspondentes a retroativos relativos a meses anteriores.\n\n10 - Sempre que o ISS, I. P., disponha de informação mais atualizada sobre rendimentos de trabalho dependente, rendimentos empresariais e profissionais, de pensões e de prestações sociais, podem ser estes os rendimentos a ter em conta."
+  },
+  "177444634": {
+   "fragment_id": "177444711",
+   "type": 11,
+   "heading": "Artigo 21.º — Capitação do rendimento de referência do agregado familiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Capitação do rendimento de referência do agregado familiar\n\nNo apuramento da capitação do rendimento do agregado familiar do cuidador principal, a ponderação de cada elemento é efetuada de acordo com a escala de equivalência prevista no Decreto-Lei n.º 70/2010, de 16 de junho."
+  },
+  "177444635": {
+   "fragment_id": "177444712",
+   "type": 11,
+   "heading": "Artigo 22.º — Determinação do rendimento do cuidador informal principal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Determinação do rendimento do cuidador informal principal\n\n1 - Na determinação do rendimento do cuidador informal principal são tidos em consideração:\n\na) Os rendimentos próprios do cuidador informal principal previstos no artigo 3.º do Decreto-Lei n.º 70/2010, de 16 de junho, com exceção do rendimento social de inserção, do complemento da prestação social para a inclusão e do complemento solidário para idosos;\n\nb) O complemento por dependência de 1.º grau da pessoa cuidada;\n\nc) O complemento por dependência de 2.º grau da pessoa cuidada.\n\nd) O subsídio por assistência de terceira pessoa da pessoa cuidada.\n\n2 - Existindo mais do que uma pessoa cuidada no domicílio, é considerada a prestação por dependência de menor valor."
+  },
+  "177444636": {
+   "fragment_id": "177444713",
+   "type": 11,
+   "heading": "Artigo 23.º — Montante do subsídio de apoio ao cuidador informal principal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Montante do subsídio de apoio ao cuidador informal principal\n\n1 - O montante do subsídio corresponde à diferença entre o montante dos rendimentos do cuidador, determinado nos termos do artigo anterior, e o valor de referência do subsídio, nos termos previstos no número seguinte.\n\n2 - O montante de referência do subsídio corresponde à percentagem do indexante dos apoios sociais fixada por portaria dos membros do Governo responsáveis pelas áreas das finanças e do trabalho, solidariedade e segurança social."
+  },
+  "177444637": {
+   "fragment_id": "177444714",
+   "type": 11,
+   "heading": "Artigo 24.º — Início do subsídio de apoio ao cuidador informal principal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Início do subsídio de apoio ao cuidador informal principal\n\nO subsídio é devido a partir do início do mês em que é apresentado o requerimento, devidamente instruído, sendo o respetivo pagamento efetuado mensalmente ao cuidador informal principal, preferencialmente por transferência bancária."
+  },
+  "177444638": {
+   "fragment_id": "177444715",
+   "type": 11,
+   "heading": "Artigo 25.º — Período de atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Período de atribuição\n\nO subsídio é atribuído enquanto se mantiverem as condições que deram origem à sua atribuição, sem prejuízo do disposto nos artigos seguintes."
+  },
+  "177444639": {
+   "fragment_id": "177444716",
+   "type": 11,
+   "heading": "Artigo 26.º — Reavaliação do subsídio de apoio ao cuidador informal principal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Reavaliação do subsídio de apoio ao cuidador informal principal\n\n1 - O subsídio é reavaliado, oficiosamente, após 12 meses da data do seu início ou da data da reavaliação, sem prejuízo dos números seguintes.\n\n2 - O subsídio é ainda reavaliado sempre que o cuidador informal comunique ao ISS, I. P., a alteração:\n\na) Da composição do agregado familiar;\n\nb) Dos rendimentos do agregado familiar;\n\n3 - O subsídio é igualmente reavaliado sempre que se verifique alteração da condição de recursos."
+  },
+  "177444640": {
+   "fragment_id": "177444717",
+   "type": 11,
+   "heading": "Artigo 27.º — Efeitos da reavaliação do subsídio de apoio ao cuidador informal principal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Efeitos da reavaliação do subsídio de apoio ao cuidador informal principal\n\n1 - Da reavaliação do subsídio pode resultar a alteração do seu montante, bem como a sua suspensão ou cessação, nos termos dos artigos seguintes.\n\n2 - Os efeitos previstos no número anterior ocorrem no mês seguinte àquele em que se verifiquem as circunstâncias determinantes daquelas situações, salvo o disposto nos números seguintes.\n\n3 - Quando a alteração das circunstâncias não seja comunicada no prazo previsto no artigo 33.º, os respetivos efeitos só se verificam no mês seguinte ao da comunicação, nos casos em que a reavaliação do subsídio determine um aumento do respetivo montante.\n\n4 - A reavaliação do subsídio, determinada pela alteração da condição de recursos, produz efeitos no mês da entrada em vigor desta alteração."
+  },
+  "177444641": {
+   "fragment_id": "177444718",
+   "type": 11,
+   "heading": "Artigo 28.º — Suspensão e retoma do subsídio de apoio ao cuidador informal principal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Suspensão e retoma do subsídio de apoio ao cuidador informal principal\n\n1 - O subsídio é suspenso nas seguintes situações:\n\na) Interrupção ou cessação da prestação de cuidados permanentes pelo cuidador informal à pessoa cuidada, por período superior a 30 dias seguidos;\n\nb) Institucionalização da pessoa cuidada, em resposta social ou unidade da RNCCI, ou internamento em unidade hospitalar, por período superior a 30 dias seguidos.\n\n2 - Excetuam-se do disposto na alínea b) do número anterior as situações em que a pessoa cuidada seja menor, desde que o cuidador informal principal mantenha o acompanhamento permanente daquela.\n\n3 - A atribuição do subsídio suspende-se sempre que deixe de se verificar uma das condições previstas no n.º 1 do artigo 17.º\n\n4 - Quando deixe de se verificar a situação que determinou a suspensão do subsídio, é retomado o seu pagamento no mês seguinte àquele em que o ISS, I. P., tenha conhecimento dos factos determinantes da retoma."
+  },
+  "177444642": {
+   "fragment_id": "177444719",
+   "type": 11,
+   "heading": "Artigo 29.º — Cessação do subsídio de apoio ao cuidador informal principal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Cessação do subsídio de apoio ao cuidador informal principal\n\n1 - O direito ao subsídio cessa nas seguintes situações:\n\na) Cessação de residência em território nacional da pessoa cuidada ou do cuidador, ou de ambos;\n\nb) Cessação da vivência em comunhão de habitação entre a pessoa cuidada e o cuidador;\n\nc) Invalidez permanente e definitiva, ou dependência, do cuidador;\n\nd) Desistência ou morte da pessoa cuidada ou do cuidador;\n\ne) Não observância dos deveres previstos no artigo 6.º do ECI, mediante informação fundamentada por profissionais da área da segurança social ou da área da saúde;\n\nf) Cessação da verificação das condições que determinaram o reconhecimento;\n\ng) O cuidador informal passar a receber uma prestação não acumulável com o subsídio, nos termos previstos do n.º 1 do artigo 30.º;\n\nh) Suspensão, nos termos do artigo anterior, por período superior a 6 meses.\n\n2 - A cessação do subsídio implica a cessação automática do reconhecimento previsto no artigo 5.º, sem prejuízo do previsto no número seguinte.\n\n3 - Quando o subsídio cesse por alteração da condição de recursos ou por atribuição da pensão de velhice, é efetuada a reavaliação das condições que determinaram o reconhecimento do estatuto de cuidador informal que, caso se mantenham, determinam a sua manutenção.\n\n4 - A reavaliação referida no número anterior é oficiosa, dispensando a apresentação de novo requerimento."
+  },
+  "177444643": {
+   "fragment_id": "177444720",
+   "type": 11,
+   "heading": "Artigo 30.º — Acumulação com outras prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Acumulação com outras prestações\n\n1 - O subsídio não é cumulável com as seguintes prestações que sejam atribuídas:\n\na) Prestações de desemprego;\n\nb) Prestações por dependência;\n\nc) Pensão de invalidez absoluta ou pensão de invalidez do regime especial de proteção na invalidez;\n\nd) Pensão de velhice, salvo pensões antecipadas;\n\ne) Pensões por doenças profissionais associadas à incapacidade permanente absoluta para todo e qualquer trabalho.\n\n2 - A possibilidade de acumulação do subsídio de apoio com pensões antecipadas exige, cumulativamente, a observância das seguintes condições:\n\na) A demonstração que, à data do requerimento da pensão ou até 12 meses após essa data, o pensionista integrava um agregado familiar com pessoa titular de complemento por dependência de 2.º grau ou de subsídio por assistência de terceira pessoa, ou ainda, nas situações referidas no n.º 2 do artigo 3.º do ECI, de complemento por dependência de 1.º grau;\n\nb) A redução superior a 20 % do valor da pensão, por efeito da aplicação do fator de sustentabilidade ou do fator de redução."
+  },
+  "177444644": {
+   "fragment_id": "177444721",
+   "type": 11,
+   "heading": "Artigo 31.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Requerimento\n\n1 - A atribuição do subsídio depende da apresentação de requerimento em modelo próprio, junto dos serviços do ISS, I. P., preferencialmente através da segurança social direta.\n\n2 - O requerimento previsto no número anterior pode ser apresentado simultaneamente com o pedido de reconhecimento do estatuto de cuidador informal.\n\n3 - O requerimento considera-se devidamente instruído a partir da data em que é apresentado o último documento comprovativo das condições de atribuição do subsídio.\n\n4 - Nos casos previstos no n.º 4 do artigo 3.º do ECI, o requerimento para a atribuição do subsídio só é considerado devidamente instruído a partir da data de reconhecimento do direito àquelas prestações à pessoa cuidada.\n\n5 - Na situação em que o requerimento do subsídio é acompanhado de pedido de certificação de que a pessoa cuidada é titular de complemento por dependência de 1.º grau e se encontra transitoriamente acamada, ou a necessitar de cuidados permanentes, o requerimento do subsídio só se considera devidamente instruído a partir da data de certificação pelo serviço de verificação de incapacidades do ISS, I. P."
+  },
+  "177444645": {
+   "fragment_id": "177444722",
+   "type": 11,
+   "heading": "Artigo 32.º — Meios de prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Meios de prova\n\n1 - A prova dos requisitos para atribuição do subsídio de apoio ao cuidador informal principal é feita através dos seguintes meios:\n\na) Verificação oficiosa da titularidade do estatuto de cuidador informal do requerente;\n\nb) Declaração comprovativa do agregado familiar e dos respetivos rendimentos para efeitos de verificação da condição de recursos;\n\nc) Verificação oficiosa do recebimento de prestação cuja acumulação com o subsídio de apoio ao cuidador não seja permitida, nos termos do presente decreto regulamentar.\n\n2 - Na falta de algum dos documentos a que alude o número anterior, os serviços competentes da segurança social notificam o cuidador informal principal para apresentar, no prazo de 10 dias úteis, os documentos em falta, sob pena de indeferimento do pedido."
+  },
+  "177444646": {
+   "fragment_id": "177444723",
+   "type": 11,
+   "heading": "Artigo 33.º — Dever de comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Dever de comunicação\n\nO cuidador informal principal deve declarar aos serviços do ISS, I. P., no prazo de 10 dias úteis, a contar da data da respetiva ocorrência, as situações determinantes de suspensão ou cessação do subsídio, designadamente:\n\na) Alteração da residência;\n\nb) Alteração da composição do agregado familiar;\n\nc) Alteração dos rendimentos;\n\nd) Início de atividade profissional;\n\ne) Impossibilidade de continuar a prestar cuidados à pessoa cuidada;\n\nf) Acolhimento em resposta social ou de saúde de natureza pública ou privada;\n\ng) Desistência ou morte da pessoa cuidada."
+  },
+  "177444647": {
+   "fragment_id": "177444724",
+   "type": 11,
+   "heading": "Artigo 34.º — Prazo de prescrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Prazo de prescrição\n\n1 - O prazo de prescrição do direito às prestações do subsídio vencidas é de cinco anos, findo o qual aquelas revertem a favor do ISS, I. P.\n\n2 - Para efeito do disposto no número anterior, o prazo de prescrição inicia-se no dia seguinte àquele em que as prestações foram colocadas a pagamento, com conhecimento do credor.\n\n3 - São equiparadas a prestações do subsídio colocadas a pagamento as que se encontrem legalmente suspensas por incumprimento de obrigações imputável ao titular do direito."
+  },
+  "177444648": {
+   "fragment_id": "177444725",
+   "type": 11,
+   "heading": "Artigo 35.º — Compensação do subsídio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Compensação do subsídio\n\n1 - O subsídio não é compensável com outras prestações, sem prejuízo do disposto no número seguinte.\n\n2 - Nas situações de pagamento indevido do subsídio pode haver lugar a compensação com outras prestações ou com o próprio subsídio, nos termos do regime jurídico da responsabilidade emergente do recebimento de prestações indevidas."
+  },
+  "177444649": {
+   "fragment_id": "177444726",
+   "type": 11,
+   "heading": "Artigo 36.º — Majoração do subsídio no âmbito do seguro social voluntário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Majoração do subsídio no âmbito do seguro social voluntário\n\n1 - O subsídio de apoio ao cuidador informal principal é majorado nas situações em que o cuidador informal principal esteja inscrito no regime do seguro social voluntário e durante o tempo que efetuar o pagamento regular das respetivas contribuições.\n\n2 - A majoração do subsídio corresponde a 50 % do valor das contribuições que incidem sobre o primeiro dos escalões previstos no artigo 180.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, devidas pelo cuidador informal principal."
+  },
+  "177444650": {
+   "fragment_id": "177444727",
+   "type": 3,
+   "heading": "Subsecção II — Promoção na integração no mercado de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Promoção na integração no mercado de trabalho"
+  },
+  "177444651": {
+   "fragment_id": "177444728",
+   "type": 11,
+   "heading": "Artigo 37.º — Promoção da integração do cuidador informal no mercado de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Promoção da integração do cuidador informal no mercado de trabalho\n\n1 - O cuidador informal principal tem direito a apoios e intervenções técnicas promovidas pelo Instituto do Emprego e da Formação Profissional, I. P., visando a sua inserção socioprofissional e regresso ao mercado de trabalho, nos seguintes termos:\n\na) Apresentação a ofertas de emprego imediatamente disponíveis e que correspondam ao perfil do candidato a emprego;\n\nb) Orientação profissional de apoio à gestão da sua carreira profissional, designadamente, aos que pretendem reequacionar o seu projeto profissional, aos interessados em criar um projeto empresarial ou aos que têm de efetuar escolhas educativas e formativas;\n\nc) Apoios à mobilidade geográfica, destinada a candidatos que celebrem contratos de trabalho ou criem o seu próprio emprego e cujo local de trabalho implique a sua mobilidade geográfica, nos termos previstos na legislação aplicável;\n\nd) Apoios à integração, no âmbito de estágios profissionais, adequados à qualificação académica ou profissional de base destes candidatos, para desenvolvimento de competências e melhoria do perfil de empregabilidade, nos termos previstos na legislação aplicável;\n\ne) Apoios à contratação, no âmbito de medidas que estejam disponíveis, visando estimular a contratação destes candidatos e facilitando a sua integração no mercado de trabalho, nos termos previstos na legislação aplicável;\n\nf) Apoios ao empreendedorismo, no âmbito das medidas que estejam disponíveis, visando apoiar a criação de projetos empresariais de pequena dimensão e a criação de novos empregos, nos termos previstos na legislação aplicável;\n\ng) Apoios à integração através do desenvolvimento de atividades socialmente úteis que satisfaçam necessidades sociais ou coletivas temporárias dos promotores, nos termos da legislação aplicável, visando a promoção da empregabilidade e a melhoria das competências socioprofissionais destes candidatos, através do contacto com o mercado de trabalho, evitando riscos de isolamento, desmotivação ou marginalização.\n\n2 - O acesso às medidas referidas nas alíneas a) a c) e f) a g) do número anterior não carece de cumprimento de requisitos específicos de acesso, para além do reconhecimento do estatuto de cuidador informal.\n\n3 - O acesso às medidas referidas nas alíneas d) e e) do n.º 1 é definido em portaria do membro do Governo responsável pela área do emprego, nos termos do Decreto-Lei n.º 13/2015, de 26 de janeiro.\n\n4 - Para efeitos do disposto no presente artigo, é obrigatória a inscrição no centro de emprego após a cessação das condições que determinaram o reconhecimento do estatuto de cuidador informal."
+  },
+  "177444652": {
+   "fragment_id": "177444729",
+   "type": 11,
+   "heading": "Artigo 38.º — Reconhecimento, Validação e Certificação de Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Reconhecimento, Validação e Certificação de Competências\n\n1 - Após a cessação da prestação de cuidados, o cuidador informal, que tenha sido reconhecido e que pretenda desenvolver atividade profissional, pode ser encaminhado para um Centro Qualifica para efeitos de diagnóstico e encaminhamento para um percurso de qualificação, nomeadamente no âmbito do Reconhecimento, Validação e Certificação de Competências (RVCC) escolar e profissional.\n\n2 - No âmbito dos RVCC escolar e profissional são consideradas todas as formações desenvolvidas, bem como as competências adquiridas através da experiência na prestação informal de cuidados.\n\n3 - Os processos de RVCC referidos nos números anteriores permitem reconhecer a experiência acumulada destes cuidadores no exercício informal das funções e atribuir-lhes a respetiva certificação, no âmbito de uma qualificação constante do Catálogo Nacional de Qualificações."
+  },
+  "177444653": {
+   "fragment_id": "177444730",
+   "type": 1,
+   "heading": "Capítulo V — Disposições complementares, transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições complementares, transitórias e finais"
+  },
+  "177444654": {
+   "fragment_id": "177444731",
+   "type": 11,
+   "heading": "Artigo 39.º — Articulação interinstitucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Articulação interinstitucional\n\nPara a implementação das medidas de apoio ao cuidador informal, as redes sociais locais devem colaborar com a segurança social e a saúde e estabelecer entre si formas de articulação que garantam a operacionalização do PIE."
+  },
+  "177444655": {
+   "fragment_id": "177444732",
+   "type": 11,
+   "heading": "Artigo 40.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Confidencialidade\n\nSem prejuízo do regime de proteção dos dados de saúde, as entidades envolvidas na implementação, desenvolvimento e acompanhamento das medidas de apoio previstas no presente decreto regulamentar devem assegurar a confidencialidade dos dados pessoais dos requerentes, titulares e beneficiários abrangidos e limitar a sua utilização aos fins a que se destinam."
+  },
+  "177444656": {
+   "fragment_id": "177444733",
+   "type": 11,
+   "heading": "Artigo 41.º — Acompanhamento, monitorização e avaliação do Estatuto do Cuidador Informal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Acompanhamento, monitorização e avaliação do Estatuto do Cuidador Informal\n\n1 - A monitorização e avaliação da implementação da regulamentação do ECI compete ao ISS, I. P., e à Administração Central do Sistema de Saúde, I. P., nas respetivas áreas de intervenção.\n\n2 - Para efeitos de acompanhamento da medida é criada a Comissão de Acompanhamento do ECI, cuja composição e funcionamento serão determinados por portaria dos membros do Governo responsáveis pelas áreas do trabalho, solidariedade e segurança social e da saúde.\n\n3 - Os dados estatísticos de monitorização da regulamentação do ECI são publicitados trimestralmente no sítio na Internet da segurança social."
+  },
+  "177444657": {
+   "fragment_id": "177444734",
+   "type": 11,
+   "heading": "Artigo 42.º — Estatuto do trabalhador-estudante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Estatuto do trabalhador-estudante\n\nAo cuidador informal que não exerça atividade profissional e que frequente oferta de educação ou de formação profissional é reconhecido, com as necessárias adaptações, o estatuto de trabalhador-estudante nos termos da legislação aplicável."
+  },
+  "177444658": {
+   "fragment_id": "177444735",
+   "type": 11,
+   "heading": "Artigo 43.º — Conciliação entre a atividade profissional e a prestação de cuidados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Conciliação entre a atividade profissional e a prestação de cuidados\n\n1 - Para efeitos do disposto no artigo 14.º da Lei n.º 100/2019, de 6 de setembro, o reforço da proteção laboral do cuidador informal não principal inclui, nomeadamente, um regime de faltas, licença e organização dos tempos de trabalho, nos termos a definir em legislação específica.\n\n2 - O cuidador informal não principal pode ainda beneficiar de medidas que promovam a conciliação entre a atividade profissional e a prestação de cuidados, mediante acordo com a entidade empregadora ou nos termos do disposto no instrumento de regulamentação coletiva de trabalho aplicável."
+  },
+  "177444659": {
+   "fragment_id": "177444736",
+   "type": 11,
+   "heading": "Artigo 44.º — Salvaguarda de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Salvaguarda de direitos\n\nAs medidas de apoio específicas ao cuidador informal e à pessoa cuidada, bem como os subsídios de apoio ao cuidador informal principal, que se encontrem a ser aplicados e/ou pagos na data de entrada em vigor do presente decreto regulamentar, mantêm-se em vigor após o início da produção de efeitos do mesmo, sendo revistos nos termos neste previstos."
+  },
+  "177444660": {
+   "fragment_id": "177444737",
+   "type": 11,
+   "heading": "Artigo 45.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Norma transitória\n\n1 - O presente decreto regulamentar aplica-se aos pedidos de reconhecimento do estatuto de cuidador informal pendentes de decisão à data da sua entrada em vigor, sem prejuízo do disposto no número seguinte.\n\n2 - Os requerentes do estatuto de cuidador informal podem entregar, até 31 de março de 2022, a declaração médica e o comprovativo do pedido para intentar a ação de acompanhamento de maior, previstos, respetivamente, nos n.os 2 e 4 do artigo 8.º"
+  },
+  "177444661": {
+   "fragment_id": "177444738",
+   "type": 11,
+   "heading": "Artigo 46.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Norma revogatória\n\nSão revogadas as:\n\na) Portaria n.º 2/2020, de 10 de janeiro;\n\nb) Portaria n.º 64/2020, de 10 de março;\n\nc) Portaria n.º 256/2020, de 28 de outubro;\n\nd) Portaria n.º 37/2021, de 15 de fevereiro;\n\ne) Portaria n.º 202/2021, de 27 de setembro;\n\nf) Portaria n.º 286/2021, de 7 de dezembro."
+  },
+  "177444662": {
+   "fragment_id": "177444739",
+   "type": 11,
+   "heading": "Artigo 47.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Entrada em vigor\n\nO presente decreto regulamentar entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "895688860": {
+   "fragment_id": "177444690",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisitos genéricos do cuidador informal",
+   "in_force_from": "2024-11-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2024 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2024-895646292), em vigor a partir de 2024-11-11"
+   ],
+   "markdown": "###### Artigo 5.º — Requisitos genéricos do cuidador informal\n\nO reconhecimento do estatuto de cuidador informal depende de o cuidador preencher, cumulativamente, os seguintes requisitos:\n\na) Ter residência legal em território nacional;\n\nb) Ter idade igual ou superior a 18 anos;\n\nc) Apresentar condições de saúde adequadas aos cuidados a prestar à pessoa cuidada e ter disponibilidade para a sua prestação;\n\nd) Ser cônjuge ou unido de facto, parente ou afim até ao 4.º grau da linha reta ou da linha colateral da pessoa cuidada, ou, não tendo laços familiares, viver em comunhão de habitação com a pessoa cuidada, nas situações de cuidador informal principal;\n\ne) Não ser titular de pensão de invalidez absoluta, de pensão de invalidez do regime especial de proteção na invalidez e de prestações de dependência.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2024 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2024-895646292), em vigor a partir de 2024-11-11"
+  },
+  "895688861": {
+   "fragment_id": "177444691",
+   "type": 11,
+   "heading": "Artigo 6.º — Requisitos específicos do cuidador informal principal",
+   "in_force_from": "2024-11-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2024 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2024-895646292), em vigor a partir de 2024-11-11"
+   ],
+   "markdown": "###### Artigo 6.º — Requisitos específicos do cuidador informal principal\n\nPara além do preenchimento dos requisitos previstos no artigo anterior, o estatuto de cuidador informal principal só pode ser reconhecido se o requerente preencher, cumulativamente, os seguintes requisitos:\n\na) Viver nas situações previstas nas alíneas a) e b) do n.º 2 do artigo 2.º do ECI;\n\nb) Prestar cuidados de forma permanente, ainda que a pessoa cuidada frequente estabelecimento de ensino, de ensino especial ou respostas sociais de natureza não residencial, nas situações em que o PIE determine a necessidade de complementar, por essa via, a prestação de cuidados pelo cuidador informal;\n\nc) Não exercer atividade profissional remunerada ou outro tipo de atividade incompatível com a prestação de cuidados permanentes à pessoa cuidada;\n\nd) Não ser titular de prestações de desemprego;\n\ne) Não auferir remuneração pelos cuidados que presta à pessoa cuidada.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2024 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2024-895646292), em vigor a partir de 2024-11-11"
+  },
+  "895688862": {
+   "fragment_id": "177444692",
+   "type": 11,
+   "heading": "Artigo 7.º — Requisitos referentes à pessoa cuidada",
+   "in_force_from": "2024-11-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2024 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2024-895646292), em vigor a partir de 2024-11-11"
+   ],
+   "markdown": "###### Artigo 7.º — Requisitos referentes à pessoa cuidada\n\n1 - Para efeitos de reconhecimento do estatuto de cuidador informal, a pessoa cuidada deve preencher os seguintes requisitos:\n\na) Encontrar-se numa situação de dependência de terceiros e a necessitar de cuidados permanentes;\n\nb) Não se encontrar acolhida em resposta social ou de saúde, pública ou privada, em regime residencial;\n\nc) Ser titular de uma das prestações previstas nos n.os 1 e 2 do artigo 3.º do ECI.\n\n2 - A verificação da condição de a pessoa cuidada se encontrar transitoriamente acamada ou a necessitar de cuidados permanentes, nos termos do n.º 2 do artigo 3.º do ECI, depende da declaração de médico de família ou do médico assistente do utente, que defina o prazo de transitoriedade, findo o qual a situação de dependência da pessoa cuidada é reapreciada.\n\n3 - Nas situações em que se verifique a necessidade dos cuidados referidos no n.º 2, e a pessoa cuidada não seja titular do complemento por dependência de 1.º grau, a avaliação é efetuada com caráter de urgência pelos serviços de verificação de incapacidades do ISS, I. P., mediante apresentação da declaração do médico de família ou do médico assistente do utente, que definem o prazo de transitoriedade, findo o qual a situação de dependência da pessoa cuidada é reapreciada.\n\n4 - Sem prejuízo do fim do prazo definido nos termos do número anterior, o reconhecimento do estatuto de cuidador informal mantém-se até decisão de não verificação da situação de dependência.\n\n5 - No caso de a pessoa cuidada não ser titular de nenhuma das prestações a que alude a alínea c) do n.º 1, o requerimento para reconhecimento do estatuto de cuidador informal pode ser apresentado em simultâneo com o requerimento para a atribuição de tais prestações.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2024 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2024-895646292), em vigor a partir de 2024-11-11"
+  },
+  "895688863": {
+   "fragment_id": "177444693",
+   "type": 11,
+   "heading": "Artigo 8.º — Consentimento da pessoa cuidada",
+   "in_force_from": "2024-11-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2024 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2024-895646292), em vigor a partir de 2024-11-11"
+   ],
+   "markdown": "###### Artigo 8.º — Consentimento da pessoa cuidada\n\n1 - O consentimento da pessoa cuidada consiste na manifestação de vontade inequívoca de que esta pretende que o requerente seja reconhecido como seu cuidador informal.\n\n2 - O consentimento previsto no número anterior é prestado junto dos serviços do ISS, I. P., mediante declaração assinada pela pessoa cuidada, sendo maior, acompanhada de declaração médica que ateste que se encontra no pleno uso das suas faculdades intelectuais, ou pelo seu representante legal.\n\n3 - Nas situações previstas no n.º 4 do artigo anterior, a declaração médica prevista no número anterior é emitida pelos serviços de verificação de incapacidade permanente do ISS, I. P.\n\n4 - Quando a pessoa cuidada não se encontrar no pleno uso das suas faculdades, têm legitimidade para manifestar consentimento provisório o cônjuge ou unido de facto, parente ou afim até ao 4.º grau da linha reta ou da linha colateral.\n\n5 - Para efeitos do número anterior deve o requerimento para reconhecimento do estatuto de cuidador informal ser instruído com o comprovativo do pedido efetuado junto do tribunal para intentar ação judicial de suprimento de consentimento, nos termos do disposto no artigo 1001.º do Código de Processo Civil pela Lei n.º 41/2013, de 26 de junho, na sua redação atual.\n\n6 - Nas situações em que a pessoa cuidada não se encontrar no pleno uso das suas faculdades têm legitimidade para prestar a declaração de comunhão de habitação, quando exigível, o cônjuge ou unido de facto, parente ou afim até ao 4.º grau da linha reta ou da linha colateral.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2024 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2024-895646292), em vigor a partir de 2024-11-11"
+  },
+  "895688864": {
+   "fragment_id": "177444695",
+   "type": 11,
+   "heading": "Artigo 9.º — Procedimento de reconhecimento",
+   "in_force_from": "2024-11-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2024 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2024-895646292), em vigor a partir de 2024-11-11"
+   ],
+   "markdown": "###### Artigo 9.º — Procedimento de reconhecimento\n\n1 - O reconhecimento do estatuto de cuidador informal depende da apresentação de requerimento junto dos serviços do ISS, I. P., preferencialmente, através da segurança social direta.\n\n2 - O requerimento deve ser acompanhado dos documentos necessários para prova dos requisitos genéricos relativos ao cuidador informal, bem como dos elementos de prova relativos aos requisitos referentes à pessoa cuidada, designadamente:\n\na) Cartão de cidadão, bilhete de identidade ou passaporte;\n\nb) Documento comprovativo da residência legal em território nacional, quando aplicável;\n\nc) Declaração sob compromisso de honra de que o cuidador possui condições físicas e psicológicas adequadas aos cuidados a prestar;\n\nd) Declaração relativa ao consentimento da pessoa cuidada e declaração médica nos termos do n.º 2 do artigo anterior;\n\ne) Comprovativo do pedido efetuado ao Ministério Público ou ao tribunal no âmbito do regime do maior acompanhado, quando aplicável.\n\nf) Declaração da pessoa cuidada relativa à vivência de entreajuda e partilha de recursos, nas situações previstas na alínea a) do n.º 2 do artigo 2.º do ECI;\n\ng) Declaração da pessoa cuidada relativa à comunhão de habitação, nas situações previstas na alínea b) do n.º 2 do artigo 2.º do ECI.\n\n3 - Nas situações em que o requerente do reconhecimento do estatuto de cuidador informal apresente, em simultâneo, requerimento de atribuição das prestações a que alude a alínea c) do n.º 1 do artigo 7.º relativo à pessoa cuidada, o processo fica pendente do reconhecimento do direito àquelas prestações.\n\n4 - Nas situações em que o requerimento do reconhecimento do estatuto de cuidador informal é acompanhado de pedido de certificação de que a pessoa cuidada é titular de complemento por dependência de 1.º grau e se encontra transitoriamente acamada ou a necessitar de cuidados permanentes, o requerimento só se considera devidamente instruído na data da entrega da declaração do médico ou dos serviços de acompanhamento.\n\n5 - Nas situações em que se verifique a necessidade dos cuidados previstos no número anterior e a pessoa cuidada não seja titular do complemento por dependência de 1.º grau, o requerimento só se considera devidamente instruído a partir da data de certificação da situação de dependência e necessidade de cuidados emitida pelo serviço de verificação de incapacidades.\n\n6 - Na falta de algum dos documentos previstos no n.º 2, o ISS, I. P., notifica o interessado para apresentar, no prazo de 10 dias úteis, os documentos em falta, sob pena do indeferimento liminar do pedido de reconhecimento do estatuto de cuidador informal.\n\n7 - O prazo para decisão é de 20 dias, contados após a data da apresentação do requerimento para reconhecimento do estatuto ou do requerimento aperfeiçoado, se a este houver lugar nos termos do número anterior.\n\n8 - Com o reconhecimento do estatuto de cuidador informal é emitido um cartão de identificação pelo ISS, I. P., que o cuidador informal deve apresentar sempre que lhe seja solicitado.\n\n9 - O reconhecimento provisório do estatuto de cuidador informal ocorre com a apresentação do requerimento, instruído com os documentos referidos nas alíneas a), b) e c) do n.º 2, desde que o requerente declare, na data da entrega do requerimento, que preenche os requisitos para o reconhecimento do estatuto, comprometendo-se a entregar os documentos referidos nas alíneas d), e) e f), quando aplicável, no prazo de 90 dias.\n\n10 - Na falta de apresentação de algum dos documentos no prazo referido no número anterior é liminarmente indeferido o pedido de reconhecimento do estatuto de cuidador informal.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2024 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2024-895646292), em vigor a partir de 2024-11-11"
+  },
+  "895688853": {
+   "fragment_id": "895806982",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Acompanhamento dos profissionais de referência durante a decisão provisória de reconhecimento do estatuto de cuidador informal",
+   "in_force_from": "2024-11-11",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 5/2024 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2024-895646292), em vigor a partir de 2024-11-11"
+   ],
+   "markdown": "###### Artigo 11.º-A — Acompanhamento dos profissionais de referência durante a decisão provisória de reconhecimento do estatuto de cuidador informal\n\n1 - O acompanhamento dos profissionais de referência da saúde e da segurança social, nos termos previstos no artigo anterior, inicia-se com a decisão provisória de reconhecimento do Estatuto de Cuidador Informal, sem prejuízo do referido no número seguinte.\n\n2 - Nas situações previstas no n.º 9 do artigo 9.º, o profissional de referência da segurança social informa, orienta e apoia o cuidador informal para obtenção dos documentos transitoriamente dispensados, para a devida instrução do processo.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 5/2024 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2024-895646292), em vigor a partir de 2024-11-11"
+  },
+  "895688854": {
+   "fragment_id": "177444700",
+   "type": 11,
+   "heading": "Artigo 12.º — Plano de Intervenção Específico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Plano de Intervenção Específico\n\n1 - O PIE é o documento-programa que resulta do diagnóstico e planeamento centrado na continuidade e proximidade de cuidados, no que respeita às necessidades identificadas no domínio da saúde e da segurança social.\n\n2 - O PIE é elaborado conjuntamente pelo profissional de referência da saúde e pelo profissional de referência da segurança social, com a participação ativa do cuidador informal e da pessoa cuidada, ou do seu acompanhante ou quem a representa, no prazo máximo de 30 dias após o deferimento do reconhecimento.\n\n3 - O PIE contém a avaliação das necessidades do cuidador informal, as estratégias de acompanhamento, aconselhamento, capacitação e formação que o cuidador deve prosseguir no sentido de suprir ou minimizar as necessidades decorrentes da situação da pessoa cuidada e os recursos a mobilizar para apoio e alívio na prestação de cuidados.\n\n4 - Para além da identificação do cuidador e da pessoa cuidada, do PIE deve constar, designadamente, a seguinte informação:\n\na) Resultado do diagnóstico das necessidades do cuidador informal, em consonância com os da pessoa cuidada;\n\nb) Identificação dos cuidados a prestar pelo cuidador informal, bem como a informação de suporte a esses cuidados;\n\nc) Período de descanso anual do cuidador informal, se aplicável;\n\nd) Declaração de consentimento da pessoa cuidada para acolhimento em resposta social ou unidade de internamento da Rede Nacional de Cuidados Continuados Integrados para descanso do cuidador informal, quando aplicável;\n\ne) Formação, capacitação contínua e informação que o cuidador informal deve frequentar ou consultar;\n\nf) Acesso a medidas de saúde e apoio social, promotoras da autonomia, da participação, da qualidade de vida e do bom trato da pessoa cuidada, nomeadamente que concorram para a melhoria da qualidade de vida da pessoa cuidada;\n\ng) Avaliação da qualidade de vida e sobrecarga do cuidador informal, quando adequado;\n\nh) Identificação dos recursos pertinentes existentes na comunidade para a situação em apreço;\n\ni) Identificação dos profissionais de referência da saúde e da segurança social, bem como forma de contacto célere com os mesmos;\n\nj) Identificação dos grupos de autoajuda disponíveis na área de residência do cuidador.\n\n5 - O PIE é obrigatoriamente objeto de avaliação e revisão sempre que necessário, no mínimo uma vez por semestre, em função das alterações das necessidades do cuidador informal, da pessoa cuidada, bem como dos recursos e serviços de apoio disponíveis.\n\n6 - Sem prejuízo do disposto no número anterior, o PIE é revisto a todo o tempo, sempre que se verifique a alteração das necessidades associadas à prestação de cuidados."
+  },
+  "895688855": {
+   "fragment_id": "177444701",
+   "type": 11,
+   "heading": "Artigo 13.º — Grupos de autoajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Grupos de autoajuda\n\n1 - O cuidador informal tem direito a participar em grupos de autoajuda, criados nos serviços de saúde responsáveis pelo seu acompanhamento, dinamizados por profissionais de saúde numa ótica de entreajuda e partilha de experiências, constituídos por pessoas que vivem ou vivenciaram situações e ou dificuldades similares, minimizando o seu eventual isolamento.\n\n2 - Os grupos de autoajuda visam:\n\na) Proporcionar informação, apoio e encorajamento;\n\nb) Promover a autoestima, confiança e estabilidade emocional;\n\nc) Fomentar a intercomunicação e o estabelecimento de relações de suporte positivas;\n\nd) Minimizar o isolamento fomentando a integração na comunidade.\n\n3 - Para viabilizar a participação do cuidador nos grupos de autoajuda, e caso seja necessário, o profissional de referência da segurança social deve prestar informação acerca das redes formais de suporte existentes e que sejam mais adequadas para colmatar a sua eventual ausência temporária."
+  },
+  "895688856": {
+   "fragment_id": "177444702",
+   "type": 11,
+   "heading": "Artigo 14.º — Formação e informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Formação e informação\n\n1 - Os serviços de saúde devem assegurar ao cuidador informal informação específica adequada às necessidades da pessoa cuidada e à melhor forma de lhe prestar os cuidados necessários, em colaboração com os serviços da segurança social, sempre que necessário.\n\n2 - Nas situações em que o cuidador informal resida em concelho diferente da pessoa cuidada, são os competentes serviços de saúde do local de residência da pessoa cuidada que asseguram a formação necessária e adequada à situação.\n\n3 - Compete aos serviços da área da saúde definir os conteúdos e as formas de organização da formação e informação específica de acordo com as atividades a desenvolver pelo cuidador informal, identificadas no PIE do cuidador, em colaboração com os serviços da segurança social, sempre que necessário."
+  },
+  "895688857": {
+   "fragment_id": "177444703",
+   "type": 11,
+   "heading": "Artigo 15.º — Apoio psicossocial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Apoio psicossocial\n\n1 - Os serviços da área da segurança social e da saúde, sem prejuízo da articulação com outros recursos de ação social da comunidade, asseguram o apoio psicossocial ao cuidador informal através de uma intervenção de natureza sistémica e articulada com o objetivo de:\n\na) Promover o desenvolvimento de competências pessoais e sociais;\n\nb) Promover as condições necessárias para a prestação de cuidados adequados ao bem-estar da pessoa cuidada;\n\nc) Prestar informação e assegurar o encaminhamento para respostas e serviços que permitam atenuar ou resolver situações complexas, nomeadamente ao nível da situação de dependência, incluindo de saúde mental, necessidade de descanso dos cuidadores informais entre outras;\n\nd) Promover a ativação de recursos e apoios sociais, cuja necessidade esteja expressa no diagnóstico previsto na alínea a) do n.º 4 do artigo 12.º\n\n2 - Na prestação do apoio psicossocial deve ser salvaguardado o princípio da intervenção mínima, no sentido de que a intervenção deve ser exercida exclusivamente pelas entidades cuja ação seja indispensável à efetiva promoção dos direitos e à proteção da pessoa cuidada."
+  },
+  "895688865": {
+   "fragment_id": "177444704",
+   "type": 11,
+   "heading": "Artigo 16.º — Descanso do cuidador informal",
+   "in_force_from": "2024-11-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2024 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2024-895646292), em vigor a partir de 2024-11-11"
+   ],
+   "markdown": "###### Artigo 16.º — Descanso do cuidador informal\n\n1 - O cuidador informal tem direito a beneficiar de períodos de descanso.\n\n2 - Para os efeitos previstos no número anterior pode haver lugar à interrupção temporária dos cuidados, mediante o acesso a serviços de apoio social ou através do acolhimento temporário da pessoa cuidada.\n\n3 - Para efeitos do presente artigo, a pessoa cuidada pode, de acordo com portaria que define e estabelece os termos e as condições para o descanso do cuidador informal:\n\na) Ser referenciada, no âmbito da Rede Nacional de Cuidados Continuados Integrados (RNCCI), para unidade de internamento de longa duração e manutenção, beneficiando de uma diferenciação positiva, nos termos do disposto no n.º 11 do artigo 7.º do ECI;\n\nb) Ser referenciada para unidades no âmbito da RNCCI de Saúde Mental, para unidade de internamento de residência de apoio máximo e residência de apoio moderado, beneficiando de uma diferenciação positiva;\n\nc) Ser, temporária e transitoriamente, encaminhada e acolhida em estabelecimento de apoio social, designadamente estrutura residencial para pessoas idosas, lar residencial ou em família de acolhimento para pessoas idosas e adultas com deficiência;\n\nd) Beneficiar de serviços de apoio domiciliário.\n\ne) Beneficiar da bolsa de cuidadores.\n\n4 - O internamento previsto nas alíneas a) e b) do número anterior depende da existência de vaga para descanso, sem prejuízo do disposto no Decreto-Lei n.º 101/2006, de 6 de junho, na sua redação atual, e no Decreto-Lei n.º 8/2010, de 28 de janeiro, na sua redação atual.\n\n5 - A distribuição das vagas para descanso é feita de acordo com os critérios definidos na portaria que define e estabelece os termos e as condições para o descanso do cuidador informal.\n\n6 - A implementação das medidas de descanso previstas nas alíneas a) e b) do n.º 3 cabe ao profissional de referência da saúde e, no caso das previstas nas alíneas c), d) e e) do n.º 3, cabe ao profissional de referência da segurança social.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2024 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2024-895646292), em vigor a partir de 2024-11-11"
+  },
+  "895688859": {
+   "fragment_id": "177444707",
+   "type": 11,
+   "heading": "Artigo 17.º — Atribuição e manutenção do subsídio",
+   "in_force_from": "2024-11-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 5/2024 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2024-895646292), em vigor a partir de 2024-11-11"
+   ],
+   "markdown": "###### Artigo 17.º — Atribuição e manutenção do subsídio\n\n1 - Pode ser atribuído um subsídio de apoio ao cuidador informal principal que preencha cumulativamente os seguintes requisitos:\n\na) Seja reconhecido com o estatuto de cuidador informal principal, nos termos dos artigos 5.º e 6.º;\n\nb) Cumpra a condição de recursos prevista no artigo 19.º;\n\nc) Não seja beneficiário de prestações, nos termos do artigo 30.º;\n\nd) (Revogado).\n\n2 - O subsídio de apoio ao cuidador informal principal, adiante designado por subsídio, consiste numa prestação pecuniária do subsistema de solidariedade.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 5/2024 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2024-895646292), em vigor a partir de 2024-11-11"
+  },
+  "177444663": {
+   "fragment_id": "177444740",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de dezembro de 2021. - Pedro Gramaxo de Carvalho Siza Vieira - João Rodrigo Reis Carvalho Leão - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Marta Alexandra Fartura Braga Temido de Almeida Simões.\n\nPromulgado em 3 de janeiro de 2022.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 4 de janeiro de 2022.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n114874341"
+  },
+  "993022557": {
+   "fragment_id": "177444692",
+   "type": 11,
+   "heading": "Artigo 7.º — Requisitos referentes à pessoa cuidada",
+   "in_force_from": "2026-01-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 138/2025 - Diário da República n.º 249/2025, Série I de 2025-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2025-992879808), em vigor a partir de 2026-01-03, produz efeitos a partir de 2026-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2024 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2024-895646292), em vigor a partir de 2024-11-11"
+   ],
+   "markdown": "###### Artigo 7.º — Requisitos referentes à pessoa cuidada\n\n1 - Para efeitos de reconhecimento do estatuto de cuidador informal, a pessoa cuidada deve preencher os seguintes requisitos:\n\na) Encontrar-se numa situação de dependência de terceiros e a necessitar de cuidados permanentes;\n\nb) Não se encontrar acolhida em resposta social ou de saúde, pública ou privada, em regime residencial;\n\nc) Ser titular de uma das prestações previstas nos n.os 1 e 3 do artigo 3.º do ECI.\n\n2 - A verificação da condição de a pessoa cuidada se encontrar transitoriamente acamada ou a necessitar de cuidados permanentes, nos termos do n.º 2 do artigo 3.º do ECI, depende da declaração de médico de família ou do médico assistente do utente, que defina o prazo de transitoriedade, findo o qual a situação de dependência da pessoa cuidada é reapreciada.\n\n3 - Nas situações em que se verifique a necessidade dos cuidados referidos no n.º 2, e a pessoa cuidada não seja titular do complemento por dependência de 1.º grau, a avaliação é efetuada com caráter de urgência pelos serviços de verificação de incapacidades do ISS, I. P., mediante apresentação da declaração do médico de família ou do médico assistente do utente, que definem o prazo de transitoriedade, findo o qual a situação de dependência da pessoa cuidada é reapreciada.\n\n4 - Sem prejuízo do fim do prazo definido nos termos do número anterior, o reconhecimento do estatuto de cuidador informal mantém-se até decisão de não verificação da situação de dependência.\n\n5 - No caso de a pessoa cuidada não ser titular de nenhuma das prestações a que alude a alínea c) do n.º 1, o requerimento para reconhecimento do estatuto de cuidador informal pode ser apresentado em simultâneo com o requerimento para a atribuição de tais prestações.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 138/2025 - Diário da República n.º 249/2025, Série I de 2025-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2025-992879808), em vigor a partir de 2026-01-03, produz efeitos a partir de 2026-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2024 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2024-895646292), em vigor a partir de 2024-11-11"
+  },
+  "993022558": {
+   "fragment_id": "177444707",
+   "type": 11,
+   "heading": "Artigo 17.º — Atribuição e manutenção do subsídio",
+   "in_force_from": "2026-01-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 138/2025 - Diário da República n.º 249/2025, Série I de 2025-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2025-992879808), em vigor a partir de 2026-01-03, produz efeitos a partir de 2026-01-01",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 5/2024 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2024-895646292), em vigor a partir de 2024-11-11"
+   ],
+   "markdown": "###### Artigo 17.º — Atribuição e manutenção do subsídio\n\n1 - Pode ser atribuído um subsídio de apoio ao cuidador informal principal que preencha cumulativamente os seguintes requisitos:\n\na) Seja reconhecido com o estatuto de cuidador informal principal, nos termos dos artigos 5.º e 6.º;\n\nb) Cumpra a condição de recursos prevista no artigo 19.º;\n\nc) Não seja beneficiário de prestações, nos termos do artigo 30.º;\n\nd) (Revogado).\n\n2 - O subsídio de apoio ao cuidador informal principal, adiante designado por subsídio, consiste numa prestação pecuniária do subsistema de proteção familiar no âmbito da eventualidade de encargos no domínio da dependência.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 138/2025 - Diário da República n.º 249/2025, Série I de 2025-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2025-992879808), em vigor a partir de 2026-01-03, produz efeitos a partir de 2026-01-01\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 5/2024 - Diário da República n.º 215/2024, Série I de 2024-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2024-895646292), em vigor a partir de 2024-11-11"
+  }
+ }
+}

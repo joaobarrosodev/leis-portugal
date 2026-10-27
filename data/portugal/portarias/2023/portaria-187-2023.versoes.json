@@ -1,0 +1,610 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:215086004:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-224684657",
+ "dre_path": "/dr/detalhe/portaria/187-2023-215086004",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2023-07-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "890051098",
+    "224574242",
+    "224574243",
+    "224574244",
+    "224574245",
+    "224574246",
+    "224574247",
+    "224574248",
+    "224574249",
+    "224574250",
+    "224574251",
+    "224574252",
+    "224574253",
+    "224574254",
+    "224574255",
+    "224574256",
+    "224574257",
+    "224574258",
+    "224574259",
+    "224574260",
+    "224574261",
+    "224574262",
+    "224574263",
+    "224574264"
+   ]
+  },
+  {
+   "date": "2024-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:224661315:por",
+     "title": "Portaria n.º 390/2023",
+     "published": "2023-11-23",
+     "dre_path": "/dr/detalhe/portaria/390-2023-224661315"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "224574241",
+    "224574266",
+    "224574243",
+    "224574244",
+    "224574245",
+    "224574246",
+    "224574247",
+    "224574267",
+    "224574249",
+    "224574250",
+    "224574251",
+    "224574268",
+    "224574253",
+    "224574254",
+    "224574255",
+    "224574256",
+    "224574257",
+    "224574258",
+    "224574259",
+    "224574260",
+    "224574261",
+    "224574262",
+    "224574263",
+    "224574264",
+    "224574265"
+   ]
+  },
+  {
+   "date": "2024-09-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:888585891:por",
+     "title": "Portaria n.º 221/2024/1",
+     "published": "2024-09-23",
+     "dre_path": "/dr/detalhe/portaria/221-2024-888585891"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "890051098",
+    "890051099",
+    "890051100",
+    "890051101",
+    "890051102",
+    "890051103",
+    "890051104",
+    "890051105",
+    "890051106",
+    "890051107",
+    "890051108",
+    "890051109",
+    "890051110",
+    "890051111",
+    "890051112",
+    "890051113",
+    "890051114",
+    "890051115",
+    "890051116",
+    "890051117",
+    "890051118",
+    "890051119",
+    "890051120",
+    "890051121",
+    "890051122"
+   ]
+  }
+ ],
+ "fragments": {
+  "890051098": {
+   "fragment_id": "224684658",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2024-09-24",
+   "changed_by": [],
+   "markdown": "Portaria n.º 187/2023\n\nde 3 de julho\n\nSumário: Cria e regula o programa AVANÇAR.\n\nOs desafios que os jovens encontram para os seus projetos de vida requerem uma ação transversal, entendendo-se como fundamental a implementação de medidas específicas para este segmento da população ativa, não apenas no sentido de valorizar o investimento feito nas suas qualificações, mas também no que diz respeito a criar condições para que esta nova geração encontre um mercado de trabalho favorável para que possam construir em Portugal os seus projetos de vida.\n\nEm linha com os princípios estabelecidos no Pilar Europeu dos Direitos Sociais é aqui reafirmada a importância de promover o incentivo à criação de emprego permanente e de reduzir a excessiva segmentação do mercado de trabalho.\n\nNeste contexto, a prioridade ao emprego e à redução da segmentação laboral é feita através da promoção de um tecido produtivo dinâmico e competitivo e da valorização das competências e qualificações dos jovens, pretendendo-se promover a negociação coletiva, a valorização da formação e da qualificação e a defesa de salários adequados e de rendimentos dignos.\n\nO AVANÇAR consiste num incentivo à contratação sem termo de jovens qualificados, assentando na combinação de um apoio financeiro à contratação e de um apoio financeiro ao pagamento de contribuições para a segurança social, apoios que podem ser acumulados com medidas de incentivo ao emprego de natureza fiscal ou parafiscal.\n\nAlém do reforço dos incentivos à criação de emprego permanente, o programa prevê ainda um conjunto de majorações do apoio financeiro à contratação a aplicar sempre que esteja em causa a contratação de jovem com deficiência e incapacidade, posto de trabalho localizado em território do interior, quando a entidade empregadora seja parte de instrumento de regulamentação coletiva de trabalho, quando esteja em causa a contratação de jovem qualificado que esteja em situação de desemprego de longa duração e, ainda, a contratação de jovens qualificados do sexo sub-representado na profissão.\n\nA melhoria, por um lado, dos rendimentos e dos salários dos trabalhadores e, por outro, da produtividade e da competitividade das empresas e da economia, é fundamental para assegurar uma trajetória de crescimento sustentado e partilhado e fazer face aos desafios que enfrentamos.\n\nÉ fundamental a valorização do rendimento dos mais jovens, num esforço partilhado entre empresas e Estado.\n\nO Programa AVANÇAR visa uma valorização dos jovens e das suas competências e qualificações no mercado de trabalho, concedendo ainda diretamente ao jovem contratado um apoio financeiro à sua autonomização, a pagar mensalmente durante o primeiro ano da vigência do contrato de trabalho apoiado.\n\nO programa concretiza diversos objetivos da política pública, desde logo no que se reporta:\n\ni) A atrair e reter o talento dos jovens qualificados;\n\nii) Apoiar a autonomização dos jovens qualificados;\n\niii) Promover a melhoria da qualidade do emprego, incentivando vínculos laborais mais estáveis e promovendo a fixação de salários adequados às qualificações dos jovens;\n\niv) Promover a igualdade de género no acesso e condições do mercado de trabalho;\n\nv) Prevenir e combater o desemprego jovem e estimular a contratação de jovens qualificados; e\n\nvi) Fomentar e apoiar a criação líquida de postos de trabalho de jovens qualificados.\n\nÉ uma medida que valoriza os jovens, enquanto promotora da sua integração profissional sustentável e de acesso ao emprego de maior qualidade. Ao mesmo tempo, esta medida constitui uma oportunidade privilegiada para as entidades empregadoras que contratem estes jovens de beneficiarem das suas qualificações, conhecimento e competências, com todo o potencial de inovação associado. Assume-se assim, igualmente, como uma medida promotora de competitividade, dimensão fundamental para a evolução do tecido económico.\n\nForam ouvidos os parceiros sociais com assento na Comissão Permanente de Concertação Social.\n\nAssim, ao abrigo do disposto no artigo 9.º do Decreto-Lei n.º 13/2015, de 26 de janeiro, manda o Governo, pelo Secretário de Estado do Trabalho, no uso da competência delegada pelo Despacho n.º 7910/2022, de 21 de junho, publicado no Diário da República, 2.ª série, n.º 113, de 28 de junho de 2022, o seguinte:\n\n> Nota: [Artigo 34.º, Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891) As candidaturas apresentadas ao abrigo da presente Portaria, regem-se pelo seu quadro legal e regulamentar até ao final dos respetivos processos."
+  },
+  "224574242": {
+   "fragment_id": "224684659",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria cria e regula o programa AVANÇAR, adiante designado por programa, que consiste na concessão, à entidade empregadora, de apoios financeiros à celebração de contrato de trabalho sem termo com jovens desempregados com idade igual ou inferior a 35 anos e com qualificação de nível superior, inscritos no Instituto do Emprego e da Formação Profissional, I. P., adiante designado por IEFP, I. P., e cuja retribuição estabelecida no contrato seja igual ou superior a 1330 euros, bem como na concessão diretamente ao jovem de um apoio financeiro à sua autonomização.\n\n2 - Ao abrigo do presente programa, são concedidos os seguintes apoios financeiros:\n\na) Um apoio financeiro à contratação, nos termos estabelecidos no artigo 11.º;\n\nb) Um apoio financeiro ao pagamento de contribuições para a segurança social, nos termos estabelecidos no artigo 12.º; e\n\nc) Um apoio financeiro à autonomização dos jovens, nos termos estabelecidos no artigo 18.º"
+  },
+  "224574243": {
+   "fragment_id": "224684660",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nO programa concretiza os objetivos da política de emprego, relativos ao apoio à contratação, nomeadamente os definidos nos artigos 3.º e 9.º do Decreto-Lei n.º 13/2015, de 26 de janeiro, e visa o seguinte:\n\na) Atrair e reter o talento dos jovens qualificados;\n\nb) Apoiar a autonomização dos jovens qualificados;\n\nc) Promover a melhoria da qualidade do emprego, incentivando vínculos laborais mais estáveis e promovendo a fixação de salários adequados às qualificações dos jovens;\n\nd) Promover a igualdade de género no acesso e condições do mercado de trabalho;\n\ne) Prevenir e combater o desemprego jovem e estimular a contratação de jovens qualificados;\n\nf) Fomentar e apoiar a criação líquida de postos de trabalho de jovens qualificados."
+  },
+  "224574244": {
+   "fragment_id": "224684661",
+   "type": 11,
+   "heading": "Artigo 3.º — Requisitos da entidade empregadora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisitos da entidade empregadora\n\n1 - Podem candidatar-se ao programa as pessoas singulares ou coletivas de natureza jurídica privada, com ou sem fins lucrativos, que preencham os requisitos previstos na presente portaria.\n\n2 - Podem ainda candidatar-se ao programa as entidades que tenham iniciado:\n\na) Processo especial de revitalização previsto no Código da Insolvência e da Recuperação de Empresas (CIRE), aprovado pelo Decreto-Lei n.º 53/2004, de 18 de março, na sua atual redação, devendo entregar ao IEFP, I. P., prova bastante da decisão a que se refere o n.º 5 do artigo 17.º-C do CIRE;\n\nb) Regime Extrajudicial de Recuperação de Empresas (RERE), aprovado pela Lei n.º 8/2018, de 2 de março, ou processo no Sistema de Recuperação de Empresas por Via Extrajudicial, criado pelo Decreto-Lei n.º 178/2012, de 3 de agosto, alterado pelo Decreto-Lei n.º 26/2015, de 6 de fevereiro, em curso antes da entrada em vigor do RERE, devendo entregar ao IEFP, I. P., respetivamente:\n\ni) Certidão do registo comercial comprovativa de depósito do protocolo de negociação na Conservatória do Registo Comercial, previsto no n.º 1 do artigo 6.º do RERE; ou\n\nii) Prova bastante do despacho a que se refere a alínea c) do n.º 1 do artigo 6.º do Decreto-Lei n.º 178/2012, de 3 de agosto, alterado pelo Decreto-Lei n.º 26/2015, de 6 de fevereiro.\n\n3 - A entidade empregadora deve reunir os seguintes requisitos:\n\na) Estar regularmente constituída e registada;\n\nb) Preencher os requisitos legais exigidos para o exercício da atividade ou apresentar comprovativo de ter iniciado o processo aplicável;\n\nc) Ter a situação tributária e contributiva regularizada perante, respetivamente, a administração fiscal e a segurança social;\n\nd) Não se encontrar em situação de incumprimento no que respeita a apoios financeiros concedidos pelo IEFP, I. P.;\n\ne) Ter a situação regularizada em matéria de restituições no âmbito dos financiamentos dos Fundos Europeus Estruturais e de Investimento;\n\nf) Dispor de contabilidade organizada de acordo com o previsto na lei;\n\ng) Não ter pagamentos de salários em atraso, com exceção das situações previstas no n.º 2 do presente artigo;\n\nh) Não ter sido condenada em processo-crime ou contraordenacional grave ou muito grave por violação de legislação de trabalho, nomeadamente sobre discriminação no trabalho e no acesso ao emprego, nos últimos três anos, salvo se da sanção aplicada no âmbito desse processo resultar prazo superior, caso em que se aplica este último.\n\n4 - A observância dos requisitos previstos no número anterior é exigida a partir da data da aprovação da candidatura ou, no caso das alíneas a), b) e f) a h), da celebração do contrato de trabalho apoiado, quando esta ocorrer antes daquela data, e durante o período de duração das obrigações decorrentes da concessão do apoio financeiro."
+  },
+  "224574245": {
+   "fragment_id": "224684662",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de concessão dos apoios financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos de concessão dos apoios financeiros\n\n1 - São requisitos para a concessão dos apoios financeiros às entidades empregadoras os seguintes:\n\na) A publicitação e registo de oferta de emprego, no portal https://iefponline.iefp.pt/, sinalizada com a intenção de candidatura ao programa;\n\nb) A celebração de contrato de trabalho com jovem desempregado inscrito no IEFP, I. P.;\n\nc) A criação líquida de emprego e a manutenção do nível de emprego atingido por via do apoio;\n\nd) A provisão de formação profissional durante o período de duração do apoio;\n\ne) A observância do previsto no respetivo instrumento de regulamentação coletiva de trabalho, nomeadamente na determinação da retribuição oferecida no contrato, quando aplicável, e sem prejuízo do disposto no n.º 1 do artigo 7.º\n\n2 - Para efeitos do disposto na alínea b) do número anterior, o contrato de trabalho pode ser celebrado antes da apresentação da candidatura, desde que em data posterior ao registo da oferta de emprego prevista na alínea a) do número anterior."
+  },
+  "224574246": {
+   "fragment_id": "224684663",
+   "type": 11,
+   "heading": "Artigo 5.º — Critérios de análise",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Critérios de análise\n\n1 - Sem prejuízo do disposto no artigo 3.º e no n.º 1 do artigo anterior, a concessão dos apoios financeiros às entidades empregadores depende da aplicação de critérios de análise definidos pelo IEFP, I. P., e da dotação orçamental a fixar nos termos do disposto no artigo 13.º\n\n2 - Para efeitos do disposto no número anterior, constituem critérios de análise, designadamente, a contratação de desempregados com maior dificuldade de integração no mercado de trabalho, nomeadamente pessoas com deficiência e incapacidade.\n\n3 - Os critérios de análise, que podem ser de âmbito nacional e regional, constam da matriz definida no aviso de abertura de candidaturas previsto no n.º 2 do artigo 20.º"
+  },
+  "224574247": {
+   "fragment_id": "224684664",
+   "type": 11,
+   "heading": "Artigo 6.º — Destinatários elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Destinatários elegíveis\n\n1 - Para efeitos do presente programa são elegíveis os contratos de trabalho celebrados com jovens com idade igual ou inferior a 35 anos, que tenham uma qualificação de nível 5, 6, 7 ou 8 do Quadro Nacional de Qualificações, nos termos da Portaria n.º 782/2009, de 23 de julho, inscritos no IEFP, I. P., como desempregados.\n\n2 - Sem prejuízo do disposto no número anterior, é equiparada a desempregado a pessoa inscrita no IEFP, I. P., na qualidade de trabalhador com contrato de trabalho suspenso com fundamento no não pagamento pontual da retribuição."
+  },
+  "224574248": {
+   "fragment_id": "224684665",
+   "type": 11,
+   "heading": "Artigo 7.º — Requisitos dos contratos de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Requisitos dos contratos de trabalho\n\n1 - Para efeitos do disposto na alínea b) do n.º 1 do artigo 4.º e no artigo anterior, são elegíveis os contratos de trabalho celebrados sem termo, a tempo completo, e cuja retribuição base estabelecida seja igual ou superior a 1330 euros.\n\n2 - Não são elegíveis os contratos de trabalho celebrados entre entidade empregadora ou entidade pertencente ao mesmo grupo empresarial e jovem desempregado que a esta esteve vinculado por contrato de trabalho imediatamente antes de ser colocado na situação de desemprego, exceto quando a situação de desemprego tenha ocorrido há mais de 12 meses ou quando o contrato de trabalho tenha sido celebrado ao abrigo do regime para jovens em férias escolares, previsto no Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social."
+  },
+  "224574249": {
+   "fragment_id": "224684666",
+   "type": 11,
+   "heading": "Artigo 8.º — Criação líquida de emprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Criação líquida de emprego\n\nPara efeitos do disposto na alínea c) do n.º 1 do artigo 4.º, considera-se existir criação líquida de emprego quando a entidade empregadora alcançar, por via do contrato de trabalho apoiado, um número total de trabalhadores superior à média dos trabalhadores registados nos 12 meses que precedem o mês de registo da oferta."
+  },
+  "224574250": {
+   "fragment_id": "224684667",
+   "type": 11,
+   "heading": "Artigo 9.º — Manutenção do contrato e do nível de emprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Manutenção do contrato e do nível de emprego\n\n1 - A concessão do apoio financeiro à entidade empregadora previsto na presente portaria determina a obrigação de manter o contrato de trabalho apoiado e o nível de emprego alcançado por via do apoio financeiro durante, pelo menos, 24 meses a contar do 1.º mês de vigência do contrato apoiado.\n\n2 - Considera-se existir manutenção do nível de emprego quando a entidade empregadora tiver ao seu serviço, no período previsto no número anterior, um número de trabalhadores igual ou superior à média dos trabalhadores registados nos 12 meses que precedem o mês de registo da oferta, incluindo o trabalhador apoiado.\n\n3 - Para efeitos do disposto nos números anteriores, não são contabilizados os trabalhadores que tenham cessado os respetivos contratos de trabalho por sua própria iniciativa, por motivo de invalidez, de falecimento, de reforma por velhice, de despedimento com justa causa promovido pela entidade empregadora, ou de caducidade de contratos a termo celebrados nos termos das alíneas a) a d) do n.º 2 do artigo 140.º do Código do Trabalho, a comprovar pela entidade empregadora, sempre que solicitado pelo IEFP, I. P.\n\n4 - A manutenção do nível de emprego é verificada, até ao final do prazo estabelecido no n.º 1.\n\n5 - Caso se verifique a descida do nível de emprego aprovado durante o prazo estabelecido no n.º 1, o mesmo deve ser reposto no mês seguinte àquele em que tenha ocorrido a descida.\n\n6 - A entidade empregadora deve comunicar ao IEFP, I. P., no prazo de cinco dias úteis, os seguintes factos:\n\na) A cessação do contrato apoiado, informando se pretende a substituição do trabalhador, nos casos previstos no n.º 3 e na subalínea iii) da alínea a) do n.º 5 do artigo 16.º;\n\nb) A descida do nível de emprego, quando não ocorra a reposição no prazo previsto no número anterior e sem prejuízo do disposto no n.º 3."
+  },
+  "224574251": {
+   "fragment_id": "224684668",
+   "type": 11,
+   "heading": "Artigo 10.º — Formação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Formação profissional\n\n1 - Para efeitos do disposto na alínea d) do n.º 1 do artigo 4.º, a entidade empregadora obriga-se a proporcionar formação profissional ao trabalhador contratado, numa das seguintes modalidades:\n\na) Formação em contexto de trabalho ajustada às competências necessárias ao desempenho das funções exercidas no posto de trabalho, pelo período mínimo de 12 meses, mediante acompanhamento de um tutor designado pela entidade empregadora;\n\nb) Formação ajustada às competências necessárias ao desempenho das funções exercidas no posto de trabalho, em entidade formadora certificada, com uma carga horária mínima de 50 horas, realizada, sempre que possível, durante o período normal de trabalho.\n\n2 - O trabalhador tem direito a uma redução equivalente no período de trabalho quando a formação prevista na alínea b) do número anterior é realizada, total ou parcialmente, fora do período normal de trabalho.\n\n3 - Após o período de formação previsto no n.º 1, a entidade empregadora deve entregar ao IEFP, I. P., o relatório de formação elaborado pelo tutor, em conformidade com o modelo definido no aviso de abertura de candidaturas, ou a cópia do certificado de formação emitido pela entidade formadora certificada."
+  },
+  "224574252": {
+   "fragment_id": "224684669",
+   "type": 11,
+   "heading": "Artigo 11.º — Apoio financeiro à contratação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apoio financeiro à contratação\n\n1 - No âmbito do presente programa, a entidade empregadora tem direito a um apoio financeiro à contratação, nos seguintes termos:\n\na) 18 vezes o valor do indexante dos apoios sociais, adiante designado por IAS, para as candidaturas apresentadas durante os anos de 2023 e 2024;\n\nb) 12 vezes o valor do IAS, para as candidaturas apresentadas durante o ano de 2025;\n\nc) 10 vezes o valor do IAS, para as candidaturas apresentadas durante o ano de 2026.\n\n2 - O apoio financeiro previsto no número anterior pode ser majorado nos seguintes termos:\n\na) Em 4,2 vezes o valor do IAS, quando esteja em causa a contratação de jovem desempregado com deficiência e incapacidade;\n\nb) Em 3 vezes o valor do IAS, quando esteja em causa posto de trabalho localizado em território do interior, nos termos definidos pela Portaria n.º 208/2017, de 13 de julho, na sua redação atual;\n\nc) Em 3 vezes o valor do IAS, quando a entidade empregadora seja parte de instrumento de regulamentação coletiva de trabalho (IRCT), nos termos do artigo 2.º do Código do Trabalho;\n\nd) Em 3 vezes o valor do IAS, quando esteja em causa a contratação de jovem que esteja em situação de desemprego de longa duração.\n\n3 - As majorações previstas no número anterior não são cumuláveis entre si.\n\n4 - O apoio financeiro previsto no n.º 1 é ainda majorado em 3,6 vezes o valor do IAS quando esteja em causa a contratação de jovem desempregado do sexo sub-representado em determinada profissão.\n\n5 - Para efeitos do disposto no número anterior, considera-se existir sub-representação de sexo quando não se verifica uma representatividade de 33,3 % em relação a um dos sexos em determinada profissão, conforme lista atualizada pelo IEFP, I. P., com base na informação prestada pelas empresas no Relatório Único.\n\n6 - Nos casos em que ocorra suspensão do contrato de trabalho apoiado, nomeadamente por motivo de doença ou por situação de crise empresarial ou ainda no caso de gozo de licença parental, cuja ausência se verifique por período superior a 1 mês, a entidade empregadora tem direito ao apoio financeiro calculado de forma proporcional ao trabalho prestado e remunerado sempre que no 36.º mês após a data de início do contrato sem termo não se verifiquem 24 meses completos de prestação de trabalho pelo trabalhador apoiado.\n\n7 - O disposto no número anterior não é aplicável no caso em que a entidade empregadora substitua temporariamente o trabalhador ausente por outro jovem desempregado elegível, nos termos do artigo 6.º, no prazo de 30 dias a contar da data em que ocorra o motivo previsto no número anterior."
+  },
+  "224574253": {
+   "fragment_id": "224684670",
+   "type": 11,
+   "heading": "Artigo 12.º — Apoio financeiro ao pagamento de contribuições para a segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Apoio financeiro ao pagamento de contribuições para a segurança social\n\n1 - No âmbito do presente programa, a entidade empregadora tem direito a um apoio financeiro correspondente a metade do valor da contribuição para a segurança social a seu cargo, relativamente aos contratos de trabalho apoiados, durante o primeiro ano da sua vigência, sem prejuízo do disposto no n.º 4.\n\n2 - O montante do apoio financeiro previsto no número anterior é apurado tendo em conta a retribuição base estabelecida nos contratos a apoiar e com referência a um período de 14 meses.\n\n3 - O apoio financeiro previsto nos números anteriores não pode ultrapassar o limite de 7 vezes o valor do IAS.\n\n4 - Sempre que no primeiro ano de vigência do contrato ocorra uma das situações previstas no n.º 6 do artigo 11.º, a entidade tem direito ao apoio financeiro calculado de forma proporcional ao trabalho prestado e remunerado, quando, no 36.º mês após a data de início do contrato sem termo, não se verifiquem 12 meses completos de prestação de trabalho pelo trabalhador apoiado.\n\n5 - O disposto no número anterior não é aplicável no caso em que a entidade empregadora substitua temporariamente o trabalhador ausente por outro jovem desempregado elegível, nos termos do artigo 6.º, no prazo de 30 dias a contar da data em que ocorra uma das situações previstas no n.º 6 do artigo 11.º\n\n6 - Sempre que, após o primeiro ano de vigência do contrato, ocorra uma das situações previstas no n.º 6 do artigo 11.º, a entidade tem direito a receber a totalidade do apoio financeiro."
+  },
+  "224574254": {
+   "fragment_id": "224684671",
+   "type": 11,
+   "heading": "Artigo 13.º — Regime de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regime de candidatura\n\n1 - Os períodos de abertura e encerramento de candidaturas ao presente programa são definidos por deliberação do conselho diretivo do IEFP, I. P., e divulgados no sítio eletrónico www.iefp.pt.\n\n2 - O aviso de abertura de candidaturas divulga, nomeadamente, a data de abertura e de encerramento, a respetiva dotação orçamental, a qual pode ser fixada por região, sendo aprovadas candidaturas até ao limite da dotação orçamental fixada.\n\n3 - As candidaturas são avaliadas com base em critérios de análise, nos termos do artigo 5.º\n\n4 - Para efeitos de aprovação das candidaturas, é estabelecida uma pontuação mínima."
+  },
+  "224574255": {
+   "fragment_id": "224684672",
+   "type": 11,
+   "heading": "Artigo 14.º — Procedimento de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Procedimento de candidatura\n\n1 - A candidatura é efetuada através do portal https://iefponline.iefp.pt/, em formulário próprio, através da sinalização de oferta de emprego que reúna os requisitos para concessão do apoio financeiro e na qual conste manifestação expressa de submeter uma candidatura ao presente programa.\n\n2 - No formulário de candidatura, a entidade empregadora pode apresentar o candidato para a oferta de emprego, que seja elegível nos termos do disposto no artigo 6.º, ou solicitar ao IEFP, I. P., que indique os candidatos.\n\n3 - O tratamento das ofertas de emprego, bem como a seleção dos candidatos, de acordo com as regras dispostas nos artigos 6.º e 7.º, são definidos no aviso de abertura de candidaturas previsto no n.º 2 do artigo 20.º\n\n4 - A entidade empregadora que celebre contrato de trabalho em data anterior à decisão de concessão do apoio financeiro, nos termos do disposto no n.º 2 do artigo 4.º, assume os efeitos decorrentes do eventual indeferimento da candidatura.\n\n5 - O IEFP, I. P., decide a candidatura no prazo máximo de 30 dias úteis, contados a partir da data da sua apresentação, após verificação dos requisitos de concessão do apoio e aplicação da matriz referida no n.º 3 do artigo 5.º e dentro da dotação orçamental existente.\n\n6 - Após a notificação da decisão de concessão do apoio financeiro, a entidade empregadora deve apresentar ao IEFP, I. P.:\n\na) O termo de aceitação da decisão de aprovação, no prazo de 10 dias úteis;\n\nb) A cópia de, pelo menos, um dos contratos apoiados, no prazo de 20 dias úteis;\n\nc) A cópia dos restantes contratos apoiados, no prazo de 30 dias úteis.\n\n7 - O não cumprimento pela entidade empregadora do previsto nas alíneas a) e b) do número anterior pode determinar a caducidade da decisão de aprovação.\n\n8 - No caso de a entidade empregadora ter mais do que um contrato apoiado, o não cumprimento do previsto na alínea c) do n.º 6 pode determinar a redução proporcional do apoio financeiro aprovado.\n\n9 - Para efeitos do disposto no n.º 1, cada oferta de emprego é sinalizada apenas para uma candidatura, mediante manifestação expressa da entidade empregadora."
+  },
+  "224574256": {
+   "fragment_id": "224684673",
+   "type": 11,
+   "heading": "Artigo 15.º — Pagamento dos apoios financeiros às entidades empregadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Pagamento dos apoios financeiros às entidades empregadoras\n\n1 - O pagamento dos apoios financeiros previstos nos artigos 11.º e 12.º é efetuado após a apresentação do termo de aceitação ao IEFP, I. P., e em três prestações, nos seguintes termos:\n\na) 60 % do valor dos apoios financeiros é pago após o início de vigência de todos os contratos de trabalho apoiados, no prazo máximo de 20 dias úteis após a apresentação dos mesmos ao IEFP, I. P.;\n\nb) 20 % do valor dos apoios financeiros é pago no 13.º mês de vigência do último contrato iniciado;\n\nc) 20 % do valor dos apoios financeiros é pago no 25.º mês de vigência do último contrato iniciado.\n\n2 - Nos casos em que ocorra a suspensão do contrato de trabalho apoiado, a 3.ª prestação é paga no mês subsequente ao mês civil em que se completa o 24.º mês de prestação de trabalho ou realizado o acerto de contas, no 36.º mês de vigência do contrato, nos termos do disposto no n.º 6 do artigo 11.º e no n.º 4 do artigo 12.º\n\n3 - Os pagamentos previstos nos números anteriores ficam sujeitos à verificação da manutenção dos requisitos necessários à concessão do apoio financeiro, definidos no n.º 3 do artigo 3.º e na alínea c) do n.º 1 do artigo 4.º, relativamente ao período já decorrido.\n\n4 - O pagamento da última prestação do apoio financeiro, prevista na alínea c) do n.º 1, fica sujeito à entrega, por parte da entidade empregadora, do relatório de formação ou da cópia do certificado de formação previstos no n.º 3 do artigo 10.º"
+  },
+  "224574257": {
+   "fragment_id": "224684674",
+   "type": 11,
+   "heading": "Artigo 16.º — Incumprimento e restituição dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Incumprimento e restituição dos apoios\n\n1 - O incumprimento por parte da entidade empregadora das obrigações relativas aos apoios financeiros concedidos no âmbito da presente portaria implica a imediata cessação dos mesmos, nos termos dos números seguintes, e a restituição, total ou proporcional, tendo em conta a data de ocorrência do facto, dos montantes já recebidos, relativamente a cada contrato apoiado, sem prejuízo do exercício do direito de queixa por eventuais indícios da prática de crime.\n\n2 - A entidade empregadora deve restituir proporcionalmente os apoios financeiros recebidos quando se verifique, nomeadamente, uma das seguintes situações:\n\na) Denúncia do contrato de trabalho promovida pelo trabalhador abrangido pelo programa;\n\nb) Caducidade do contrato de trabalho por impossibilidade superveniente, absoluta e definitiva, de o trabalhador prestar o seu trabalho, ou por reforma do trabalhador, por invalidez;\n\nc) Cessação do contrato de trabalho por acordo;\n\nd) Despedimento por facto imputável ao trabalhador;\n\ne) Incumprimento da obrigação de manter o nível de emprego, prevista no artigo 9.º;\n\nf) Incumprimento superveniente das obrigações previstas no âmbito da presente portaria.\n\n3 - O disposto no número anterior não é aplicável no caso em que a entidade empregadora proceda à substituição do trabalhador apoiado que cessou o contrato por um dos motivos previstos nas alíneas a) a d) do número anterior, por outro jovem desempregado que se encontre nas mesmas condições, no prazo de 30 dias, a contar da data em que se verificou o motivo que fundamenta a substituição.\n\n4 - Caso não seja possível a substituição por jovem desempregado que se encontre nas mesmas condições do que o trabalhador a substituir, a mesma pode efetuar-se com recurso a outro jovem desempregado elegível, nos termos do artigo 6.º, desde que não se ponha em causa as condições de aprovação da candidatura e ajustando-se o apoio financeiro, caso seja necessário.\n\n5 - A entidade empregadora fica obrigada a restituir a totalidade dos apoios financeiros quando se verifique, nomeadamente, uma das seguintes situações:\n\na) Cessação do contrato de trabalho apoiado durante o período de concessão do apoio devido a:\n\ni) Despedimento coletivo, despedimento por extinção de posto de trabalho ou despedimento por inadaptação;\n\nii) A declaração de ilicitude de despedimento por facto imputável ao trabalhador, salvo se este for reintegrado no mesmo estabelecimento da empresa, sem prejuízo da sua categoria e antiguidade, nos termos estabelecidos no artigo 389.º do Código do Trabalho;\n\niii) Cessação do contrato de trabalho durante o período experimental por iniciativa da entidade empregadora, salvo se a entidade empregadora proceder à substituição do trabalhador apoiado que cessou o contrato por outro jovem desempregado elegível, nos termos do artigo 6.º, no prazo de 30 dias;\n\niv) Resolução do contrato de trabalho com justa causa pelo trabalhador, nos casos previstos no n.º 2 e na alínea c) do n.º 3 do artigo 394.º do Código do Trabalho;\n\nb) Incumprimento do previsto na alínea e) do n.º 1 do artigo 4.º;\n\nc) Incumprimento da obrigação de proporcionar formação profissional, prevista no artigo 10.º\n\n6 - O disposto nos n.os 2 e 4 determina a restituição dos apoios financeiros quando os factos ocorram durante o período de vigência da obrigação de manter o contrato apoiado e o nível de emprego.\n\n7 - Para efeitos dos n.os 2 e 4, sempre que os apoios financeiros concedidos abranjam mais do que um contrato de trabalho, deve observar-se o seguinte:\n\na) Nos casos previstos nas alíneas a) a d) do n.º 2, mantêm-se os apoios financeiros relativamente aos contratos em que não se verifique incumprimento;\n\nb) Nos casos previstos no n.º 4, os apoios financeiros cessam na totalidade, efetuando-se o acerto de contas com base na regra da proporcionalidade, relativamente aos contratos em que não se verifique incumprimento.\n\n8 - O IEFP, I. P., deve notificar a entidade empregadora da decisão fundamentada que põe termo à concessão dos apoios financeiros e do montante que deve ser restituído.\n\n9 - A restituição dos apoios financeiros é efetuada no prazo de 60 dias a contar da data da notificação referida no número anterior, sob pena de pagamento de juros de mora à taxa legal em vigor.\n\n10 - A entidade empregadora fica impedida, durante dois anos a contar da notificação referida no n.º 7, de beneficiar de qualquer apoio ou comparticipação do Estado com a mesma natureza e finalidade, exceto quando se verifique uma das situações previstas nas alíneas a), b) e d) do n.º 2.\n\n11 - Não é devido qualquer apoio à entidade empregadora quando o contrato de trabalho apoiado cesse antes de decorrido um mês completo de vigência, independentemente da causa, salvo se ocorrer a substituição do trabalhador apoiado, nos casos previstos no n.º 3 e na subalínea iii) da alínea a) do n.º 5."
+  },
+  "224574258": {
+   "fragment_id": "224723175",
+   "type": 11,
+   "heading": "Artigo 17.º — Cumulação de apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Cumulação de apoios\n\n1 - Sem prejuízo do previsto em legislação específica e do disposto no número seguinte, os apoios previstos nos artigos 11.º e 12.º do presente programa não são cumuláveis com outros apoios diretos ao emprego aplicáveis ao mesmo posto de trabalho.\n\n2 - Os apoios previstos no presente programa são cumuláveis com medidas de incentivo ao emprego de natureza fiscal ou parafiscal.\n\n3 - Para efeitos do disposto no número anterior, nas situações em que a entidade empregadora beneficie cumulativamente do presente programa e das medidas referidas no número anterior, na modalidade de isenção do total do pagamento de contribuições para o regime geral da segurança social, não há lugar à concessão do apoio previsto no artigo 12.º\n\n4 - Para efeitos do disposto no número anterior, o IEFP, I. P., mediante troca oficiosa de informação com o Instituto da Segurança Social, I. P., reserva-se o direito de notificar a entidade empregadora para efeitos de eventual restituição do montante que esta tenha recebido indevidamente ao abrigo do disposto no artigo 12.º"
+  },
+  "224574259": {
+   "fragment_id": "224723176",
+   "type": 11,
+   "heading": "Artigo 18.º — Apoio financeiro à autonomização dos jovens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Apoio financeiro à autonomização dos jovens\n\n1 - No âmbito do presente programa, os destinatários elegíveis, nos termos do artigo 6.º, têm direito a um apoio financeiro correspondente a 150 euros, durante o primeiro ano da vigência do contrato de trabalho apoiado, a pagar mensalmente e mediante transferência bancária pelo IEFP, I. P.\n\n2 - O apoio previsto no número anterior é concedido aos destinatários cuja retribuição base estabelecida no contrato de trabalho não exceda 4 vezes a retribuição mínima mensal garantida (RMMG).\n\n3 - Para acesso ao apoio previsto no presente artigo o destinatário deve reunir os seguintes requisitos:\n\na) Estar registado no portal iefponline em https://iefponline.iefp.pt/ e ter subscrito o serviço de notificações eletrónicas do IEFP, I. P. no mesmo portal;\n\nb) Ter conta bancária em nome próprio;\n\nc) Não se encontrar em situação de incumprimento no que respeita a apoios financeiros concedidos pelo IEFP, I. P.\n\n4 - O pagamento do apoio depende da manutenção do contrato de trabalho e dos requisitos previstos no número anterior.\n\n5 - A suspensão do contrato de trabalho apoiado por motivo de doença ou por situação de crise empresarial, ou ainda no caso de gozo de licença parental, cuja ausência se verifique por período superior a um mês, não suspende o direito ao pagamento do apoio.\n\n6 - No âmbito da análise do primeiro pagamento do apoio à entidade empregadora, previsto na alínea a) do n.º 1 do artigo 15.º, o IEFP, I. P., notifica o destinatário para devolver um termo de aceitação, com indicação do seu IBAN, no prazo de 10 dias úteis.\n\n7 - A falta de envio dos documentos previstos no número anterior, bem como o seu envio fora de prazo, determina a caducidade da decisão de aprovação, salvo apresentação de motivo justificativo que seja aceite.\n\n8 - Caso ocorra a cessação do contrato de trabalho apoiado ou a falta de manutenção dos requisitos previstos no n.º 3 durante o primeiro ano de vigência, cessa o direito ao presente apoio, com obrigação de restituição dos montantes recebidos indevidamente, nos casos aplicáveis, sem prejuízo do disposto no número seguinte.\n\n9 - Determinam a restituição total do apoio as seguintes situações:\n\na) O despedimento por facto imputável ao trabalhador, salvo se o mesmo demonstrar a propositura de ação judicial contra o empregador, situação em que o prazo para a restituição do apoio é suspenso até a ação transitar em julgado;\n\nb) Qualquer forma de simulação para acesso ao apoio, sem prejuízo do exercício do direito de queixa por eventuais indícios da prática de crime.\n\n10 - O trabalhador deve comunicar ao IEFP, I. P., a cessação do contrato apoiado, no prazo de cinco dias úteis.\n\n11 - Caso a entidade empregadora entre em incumprimento perante o IEFP, I. P., mas o contrato de trabalho apoiado se mantenha, o apoio previsto no presente artigo mantém-se até final do respetivo período de concessão.\n\n12 - Não é devido qualquer apoio quando o contrato de trabalho apoiado cesse antes de decorrido um mês completo de vigência.\n\n13 - O presente apoio apenas pode ser atribuído uma vez por cada destinatário elegível, pelo período máximo de 12 meses, independentemente do número de contratos de trabalho que venha a celebrar e que sejam apoiados pela presente da medida."
+  },
+  "224574260": {
+   "fragment_id": "224723177",
+   "type": 11,
+   "heading": "Artigo 19.º — Financiamento comunitário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Financiamento comunitário\n\nO presente programa é passível de financiamento comunitário, sendo-lhe aplicáveis as respetivas disposições do direito comunitário e nacional."
+  },
+  "224574261": {
+   "fragment_id": "224723178",
+   "type": 11,
+   "heading": "Artigo 20.º — Execução, regulamentação e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Execução, regulamentação e avaliação\n\n1 - O IEFP, I. P., é responsável pela execução do programa em articulação com o Instituto de Informática, I. P., e o Instituto da Segurança Social, I. P., procedendo à troca de informação relevante para efeitos de concessão, pagamento e controlo dos apoios previstos na presente portaria.\n\n2 - O IEFP, I. P., elabora o aviso de abertura de candidaturas aplicável ao programa, no prazo de cinco dias úteis, a contar da data da entrada em vigor da presente portaria, definindo, nomeadamente, critérios de análise para apreciação das candidaturas, constantes da matriz prevista no n.º 3 do artigo 5.º\n\n3 - O presente programa é objeto de avaliação em sede da Comissão Permanente de Concertação Social, no prazo de três anos após a data de entrada em vigor da presente portaria."
+  },
+  "224574262": {
+   "fragment_id": "224723179",
+   "type": 11,
+   "heading": "Artigo 21.º — Acompanhamento, verificação e auditoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Acompanhamento, verificação e auditoria\n\n1 - Para efeitos de cumprimento do disposto na presente portaria e demais regulamentação aplicável, podem ser realizadas ações de acompanhamento, de verificação, de auditoria ou de inspeção por parte dos serviços do IEFP, I. P., bem como por outras entidades com competências para o efeito.\n\n2 - No aviso de abertura de candidaturas é definido um sistema de monitorização e acompanhamento da execução do programa que inclui, nomeadamente, mecanismos de verificação no local onde se situa o posto de trabalho apoiado."
+  },
+  "224574263": {
+   "fragment_id": "224723180",
+   "type": 11,
+   "heading": "Artigo 22.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Disposição transitória\n\nPara efeitos do primeiro período de candidatura ao presente programa, são admissíveis ofertas de emprego publicitadas no portal https://iefponline.iefp.pt/."
+  },
+  "224574264": {
+   "fragment_id": "224723181",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "224574241": {
+   "fragment_id": "224684658",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 187/2023\n\nde 3 de julho\n\nSumário: Cria e regula o programa AVANÇAR.\n\nOs desafios que os jovens encontram para os seus projetos de vida requerem uma ação transversal, entendendo-se como fundamental a implementação de medidas específicas para este segmento da população ativa, não apenas no sentido de valorizar o investimento feito nas suas qualificações, mas também no que diz respeito a criar condições para que esta nova geração encontre um mercado de trabalho favorável para que possam construir em Portugal os seus projetos de vida.\n\nEm linha com os princípios estabelecidos no Pilar Europeu dos Direitos Sociais é aqui reafirmada a importância de promover o incentivo à criação de emprego permanente e de reduzir a excessiva segmentação do mercado de trabalho.\n\nNeste contexto, a prioridade ao emprego e à redução da segmentação laboral é feita através da promoção de um tecido produtivo dinâmico e competitivo e da valorização das competências e qualificações dos jovens, pretendendo-se promover a negociação coletiva, a valorização da formação e da qualificação e a defesa de salários adequados e de rendimentos dignos.\n\nO AVANÇAR consiste num incentivo à contratação sem termo de jovens qualificados, assentando na combinação de um apoio financeiro à contratação e de um apoio financeiro ao pagamento de contribuições para a segurança social, apoios que podem ser acumulados com medidas de incentivo ao emprego de natureza fiscal ou parafiscal.\n\nAlém do reforço dos incentivos à criação de emprego permanente, o programa prevê ainda um conjunto de majorações do apoio financeiro à contratação a aplicar sempre que esteja em causa a contratação de jovem com deficiência e incapacidade, posto de trabalho localizado em território do interior, quando a entidade empregadora seja parte de instrumento de regulamentação coletiva de trabalho, quando esteja em causa a contratação de jovem qualificado que esteja em situação de desemprego de longa duração e, ainda, a contratação de jovens qualificados do sexo sub-representado na profissão.\n\nA melhoria, por um lado, dos rendimentos e dos salários dos trabalhadores e, por outro, da produtividade e da competitividade das empresas e da economia, é fundamental para assegurar uma trajetória de crescimento sustentado e partilhado e fazer face aos desafios que enfrentamos.\n\nÉ fundamental a valorização do rendimento dos mais jovens, num esforço partilhado entre empresas e Estado.\n\nO Programa AVANÇAR visa uma valorização dos jovens e das suas competências e qualificações no mercado de trabalho, concedendo ainda diretamente ao jovem contratado um apoio financeiro à sua autonomização, a pagar mensalmente durante o primeiro ano da vigência do contrato de trabalho apoiado.\n\nO programa concretiza diversos objetivos da política pública, desde logo no que se reporta:\n\ni) A atrair e reter o talento dos jovens qualificados;\n\nii) Apoiar a autonomização dos jovens qualificados;\n\niii) Promover a melhoria da qualidade do emprego, incentivando vínculos laborais mais estáveis e promovendo a fixação de salários adequados às qualificações dos jovens;\n\niv) Promover a igualdade de género no acesso e condições do mercado de trabalho;\n\nv) Prevenir e combater o desemprego jovem e estimular a contratação de jovens qualificados; e\n\nvi) Fomentar e apoiar a criação líquida de postos de trabalho de jovens qualificados.\n\nÉ uma medida que valoriza os jovens, enquanto promotora da sua integração profissional sustentável e de acesso ao emprego de maior qualidade. Ao mesmo tempo, esta medida constitui uma oportunidade privilegiada para as entidades empregadoras que contratem estes jovens de beneficiarem das suas qualificações, conhecimento e competências, com todo o potencial de inovação associado. Assume-se assim, igualmente, como uma medida promotora de competitividade, dimensão fundamental para a evolução do tecido económico.\n\nForam ouvidos os parceiros sociais com assento na Comissão Permanente de Concertação Social.\n\nAssim, ao abrigo do disposto no artigo 9.º do Decreto-Lei n.º 13/2015, de 26 de janeiro, manda o Governo, pelo Secretário de Estado do Trabalho, no uso da competência delegada pelo Despacho n.º 7910/2022, de 21 de junho, publicado no Diário da República, 2.ª série, n.º 113, de 28 de junho de 2022, o seguinte:"
+  },
+  "224574266": {
+   "fragment_id": "224684659",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 390/2023 - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/portaria/390-2023-224661315), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria cria e regula o programa AVANÇAR, adiante designado por programa, que consiste na concessão, à entidade empregadora, de apoios financeiros à celebração de contrato de trabalho sem termo com jovens desempregados com idade igual ou inferior a 35 anos e com qualificação de nível superior, inscritos no Instituto do Emprego e da Formação Profissional, I. P., adiante designado por IEFP, I. P., e cuja retribuição estabelecida no contrato seja igual ou superior ao nível remuneratório de entrada de um licenciado na carreira geral de técnico superior na Administração Pública, bem como na concessão diretamente ao jovem de um apoio financeiro à sua autonomização.\n\n2 - Ao abrigo do presente programa, são concedidos os seguintes apoios financeiros:\n\na) Um apoio financeiro à contratação, nos termos estabelecidos no artigo 11.º;\n\nb) Um apoio financeiro ao pagamento de contribuições para a segurança social, nos termos estabelecidos no artigo 12.º; e\n\nc) Um apoio financeiro à autonomização dos jovens, nos termos estabelecidos no artigo 18.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 390/2023 - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/portaria/390-2023-224661315), em vigor a partir de 2024-01-01"
+  },
+  "224574267": {
+   "fragment_id": "224684665",
+   "type": 11,
+   "heading": "Artigo 7.º — Requisitos dos contratos de trabalho",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 390/2023 - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/portaria/390-2023-224661315), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Requisitos dos contratos de trabalho\n\n1 - Para efeitos do disposto na alínea b) do n.º 1 do artigo 4.º e no artigo anterior, são elegíveis os contratos de trabalho celebrados sem termo, a tempo completo, e cuja retribuição base estabelecida seja igual ou superior ao nível remuneratório de entrada de um licenciado na carreira geral de técnico superior na Administração Pública.\n\n2 - Não são elegíveis os contratos de trabalho celebrados entre entidade empregadora ou entidade pertencente ao mesmo grupo empresarial e jovem desempregado que a esta esteve vinculado por contrato de trabalho imediatamente antes de ser colocado na situação de desemprego, exceto quando a situação de desemprego tenha ocorrido há mais de 12 meses ou quando o contrato de trabalho tenha sido celebrado ao abrigo do regime para jovens em férias escolares, previsto no Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 390/2023 - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/portaria/390-2023-224661315), em vigor a partir de 2024-01-01"
+  },
+  "224574268": {
+   "fragment_id": "224684669",
+   "type": 11,
+   "heading": "Artigo 11.º — Apoio financeiro à contratação",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 390/2023 - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/portaria/390-2023-224661315), em vigor a partir de 2024-01-01, produz efeitos a partir de 2023-11-24"
+   ],
+   "markdown": "###### Artigo 11.º — Apoio financeiro à contratação\n\n1 - No âmbito do presente programa, a entidade empregadora tem direito a um apoio financeiro à contratação, nos seguintes termos:\n\na) 18 vezes o valor do indexante dos apoios sociais, adiante designado por IAS, para as candidaturas apresentadas durante os anos de 2023 e 2024;\n\nb) 12 vezes o valor do IAS, para as candidaturas apresentadas durante o ano de 2025;\n\nc) 10 vezes o valor do IAS, para as candidaturas apresentadas durante o ano de 2026.\n\n2 - O apoio financeiro previsto no número anterior pode ser majorado nos seguintes termos:\n\na) Em 4,2 vezes o valor do IAS, quando esteja em causa a contratação de jovem desempregado com deficiência e incapacidade;\n\nb) Em 3 vezes o valor do IAS, quando esteja em causa posto de trabalho localizado em território do interior, nos termos definidos pela Portaria n.º 208/2017, de 13 de julho, na sua redação atual;\n\nc) Em 3 vezes o valor do IAS, quando a entidade empregadora seja parte de instrumento de regulamentação coletiva de trabalho (IRCT), nos termos do artigo 2.º do Código do Trabalho;\n\nd) Em 3 vezes o valor do IAS, quando esteja em causa a contratação de jovem que esteja em situação de desemprego de longa duração.\n\ne) Em 3 vezes o valor do IAS, quando esteja em causa posto de trabalho numa empresa startup ou scaleup, reconhecida nos termos definidos pela Lei n.º 21/2023, de 25 de maio, na sua redação atual.\n\n3 - As majorações previstas no número anterior não são cumuláveis entre si.\n\n4 - O apoio financeiro previsto no n.º 1 é ainda majorado em 3,6 vezes o valor do IAS quando esteja em causa a contratação de jovem desempregado do sexo sub-representado em determinada profissão.\n\n5 - Para efeitos do disposto no número anterior, considera-se existir sub-representação de sexo quando não se verifica uma representatividade de 33,3 % em relação a um dos sexos em determinada profissão, conforme lista atualizada pelo IEFP, I. P., com base na informação prestada pelas empresas no Relatório Único.\n\n6 - Nos casos em que ocorra suspensão do contrato de trabalho apoiado, nomeadamente por motivo de doença ou por situação de crise empresarial ou ainda no caso de gozo de licença parental, cuja ausência se verifique por período superior a 1 mês, a entidade empregadora tem direito ao apoio financeiro calculado de forma proporcional ao trabalho prestado e remunerado sempre que no 36.º mês após a data de início do contrato sem termo não se verifiquem 24 meses completos de prestação de trabalho pelo trabalhador apoiado.\n\n7 - O disposto no número anterior não é aplicável no caso em que a entidade empregadora substitua temporariamente o trabalhador ausente por outro jovem desempregado elegível, nos termos do artigo 6.º, no prazo de 30 dias a contar da data em que ocorra o motivo previsto no número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 390/2023 - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/portaria/390-2023-224661315), em vigor a partir de 2024-01-01, produz efeitos a partir de 2023-11-24"
+  },
+  "224574265": {
+   "fragment_id": "224723182",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 28 de junho de 2023.\n\n116620806"
+  },
+  "890051099": {
+   "fragment_id": "224684659",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2024-09-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 390/2023 - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/portaria/390-2023-224661315), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria cria e regula o programa AVANÇAR, adiante designado por programa, que consiste na concessão, à entidade empregadora, de apoios financeiros à celebração de contrato de trabalho sem termo com jovens desempregados com idade igual ou inferior a 35 anos e com qualificação de nível superior, inscritos no Instituto do Emprego e da Formação Profissional, I. P., adiante designado por IEFP, I. P., e cuja retribuição estabelecida no contrato seja igual ou superior ao nível remuneratório de entrada de um licenciado na carreira geral de técnico superior na Administração Pública, bem como na concessão diretamente ao jovem de um apoio financeiro à sua autonomização.\n\n2 - Ao abrigo do presente programa, são concedidos os seguintes apoios financeiros:\n\na) Um apoio financeiro à contratação, nos termos estabelecidos no artigo 11.º;\n\nb) Um apoio financeiro ao pagamento de contribuições para a segurança social, nos termos estabelecidos no artigo 12.º; e\n\nc) Um apoio financeiro à autonomização dos jovens, nos termos estabelecidos no artigo 18.º\n\n> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 390/2023 - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/portaria/390-2023-224661315), em vigor a partir de 2024-01-01"
+  },
+  "890051100": {
+   "fragment_id": "224684660",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": "2024-09-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+   ],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nO programa concretiza os objetivos da política de emprego, relativos ao apoio à contratação, nomeadamente os definidos nos artigos 3.º e 9.º do Decreto-Lei n.º 13/2015, de 26 de janeiro, e visa o seguinte:\n\na) Atrair e reter o talento dos jovens qualificados;\n\nb) Apoiar a autonomização dos jovens qualificados;\n\nc) Promover a melhoria da qualidade do emprego, incentivando vínculos laborais mais estáveis e promovendo a fixação de salários adequados às qualificações dos jovens;\n\nd) Promover a igualdade de género no acesso e condições do mercado de trabalho;\n\ne) Prevenir e combater o desemprego jovem e estimular a contratação de jovens qualificados;\n\nf) Fomentar e apoiar a criação líquida de postos de trabalho de jovens qualificados.\n\n> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+  },
+  "890051101": {
+   "fragment_id": "224684661",
+   "type": 11,
+   "heading": "Artigo 3.º — Requisitos da entidade empregadora",
+   "in_force_from": "2024-09-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+   ],
+   "markdown": "###### Artigo 3.º — Requisitos da entidade empregadora\n\n1 - Podem candidatar-se ao programa as pessoas singulares ou coletivas de natureza jurídica privada, com ou sem fins lucrativos, que preencham os requisitos previstos na presente portaria.\n\n2 - Podem ainda candidatar-se ao programa as entidades que tenham iniciado:\n\na) Processo especial de revitalização previsto no Código da Insolvência e da Recuperação de Empresas (CIRE), aprovado pelo Decreto-Lei n.º 53/2004, de 18 de março, na sua atual redação, devendo entregar ao IEFP, I. P., prova bastante da decisão a que se refere o n.º 5 do artigo 17.º-C do CIRE;\n\nb) Regime Extrajudicial de Recuperação de Empresas (RERE), aprovado pela Lei n.º 8/2018, de 2 de março, ou processo no Sistema de Recuperação de Empresas por Via Extrajudicial, criado pelo Decreto-Lei n.º 178/2012, de 3 de agosto, alterado pelo Decreto-Lei n.º 26/2015, de 6 de fevereiro, em curso antes da entrada em vigor do RERE, devendo entregar ao IEFP, I. P., respetivamente:\n\ni) Certidão do registo comercial comprovativa de depósito do protocolo de negociação na Conservatória do Registo Comercial, previsto no n.º 1 do artigo 6.º do RERE; ou\n\nii) Prova bastante do despacho a que se refere a alínea c) do n.º 1 do artigo 6.º do Decreto-Lei n.º 178/2012, de 3 de agosto, alterado pelo Decreto-Lei n.º 26/2015, de 6 de fevereiro.\n\n3 - A entidade empregadora deve reunir os seguintes requisitos:\n\na) Estar regularmente constituída e registada;\n\nb) Preencher os requisitos legais exigidos para o exercício da atividade ou apresentar comprovativo de ter iniciado o processo aplicável;\n\nc) Ter a situação tributária e contributiva regularizada perante, respetivamente, a administração fiscal e a segurança social;\n\nd) Não se encontrar em situação de incumprimento no que respeita a apoios financeiros concedidos pelo IEFP, I. P.;\n\ne) Ter a situação regularizada em matéria de restituições no âmbito dos financiamentos dos Fundos Europeus Estruturais e de Investimento;\n\nf) Dispor de contabilidade organizada de acordo com o previsto na lei;\n\ng) Não ter pagamentos de salários em atraso, com exceção das situações previstas no n.º 2 do presente artigo;\n\nh) Não ter sido condenada em processo-crime ou contraordenacional grave ou muito grave por violação de legislação de trabalho, nomeadamente sobre discriminação no trabalho e no acesso ao emprego, nos últimos três anos, salvo se da sanção aplicada no âmbito desse processo resultar prazo superior, caso em que se aplica este último.\n\n4 - A observância dos requisitos previstos no número anterior é exigida a partir da data da aprovação da candidatura ou, no caso das alíneas a), b) e f) a h), da celebração do contrato de trabalho apoiado, quando esta ocorrer antes daquela data, e durante o período de duração das obrigações decorrentes da concessão do apoio financeiro.\n\n> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+  },
+  "890051102": {
+   "fragment_id": "224684662",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de concessão dos apoios financeiros",
+   "in_force_from": "2024-09-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+   ],
+   "markdown": "###### Artigo 4.º — Requisitos de concessão dos apoios financeiros\n\n1 - São requisitos para a concessão dos apoios financeiros às entidades empregadoras os seguintes:\n\na) A publicitação e registo de oferta de emprego, no portal https://iefponline.iefp.pt/, sinalizada com a intenção de candidatura ao programa;\n\nb) A celebração de contrato de trabalho com jovem desempregado inscrito no IEFP, I. P.;\n\nc) A criação líquida de emprego e a manutenção do nível de emprego atingido por via do apoio;\n\nd) A provisão de formação profissional durante o período de duração do apoio;\n\ne) A observância do previsto no respetivo instrumento de regulamentação coletiva de trabalho, nomeadamente na determinação da retribuição oferecida no contrato, quando aplicável, e sem prejuízo do disposto no n.º 1 do artigo 7.º\n\n2 - Para efeitos do disposto na alínea b) do número anterior, o contrato de trabalho pode ser celebrado antes da apresentação da candidatura, desde que em data posterior ao registo da oferta de emprego prevista na alínea a) do número anterior.\n\n> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+  },
+  "890051103": {
+   "fragment_id": "224684663",
+   "type": 11,
+   "heading": "Artigo 5.º — Critérios de análise",
+   "in_force_from": "2024-09-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+   ],
+   "markdown": "###### Artigo 5.º — Critérios de análise\n\n1 - Sem prejuízo do disposto no artigo 3.º e no n.º 1 do artigo anterior, a concessão dos apoios financeiros às entidades empregadores depende da aplicação de critérios de análise definidos pelo IEFP, I. P., e da dotação orçamental a fixar nos termos do disposto no artigo 13.º\n\n2 - Para efeitos do disposto no número anterior, constituem critérios de análise, designadamente, a contratação de desempregados com maior dificuldade de integração no mercado de trabalho, nomeadamente pessoas com deficiência e incapacidade.\n\n3 - Os critérios de análise, que podem ser de âmbito nacional e regional, constam da matriz definida no aviso de abertura de candidaturas previsto no n.º 2 do artigo 20.º\n\n> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+  },
+  "890051104": {
+   "fragment_id": "224684664",
+   "type": 11,
+   "heading": "Artigo 6.º — Destinatários elegíveis",
+   "in_force_from": "2024-09-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+   ],
+   "markdown": "###### Artigo 6.º — Destinatários elegíveis\n\n1 - Para efeitos do presente programa são elegíveis os contratos de trabalho celebrados com jovens com idade igual ou inferior a 35 anos, que tenham uma qualificação de nível 5, 6, 7 ou 8 do Quadro Nacional de Qualificações, nos termos da Portaria n.º 782/2009, de 23 de julho, inscritos no IEFP, I. P., como desempregados.\n\n2 - Sem prejuízo do disposto no número anterior, é equiparada a desempregado a pessoa inscrita no IEFP, I. P., na qualidade de trabalhador com contrato de trabalho suspenso com fundamento no não pagamento pontual da retribuição.\n\n> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+  },
+  "890051105": {
+   "fragment_id": "224684665",
+   "type": 11,
+   "heading": "Artigo 7.º — Requisitos dos contratos de trabalho",
+   "in_force_from": "2024-09-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 390/2023 - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/portaria/390-2023-224661315), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Requisitos dos contratos de trabalho\n\n1 - Para efeitos do disposto na alínea b) do n.º 1 do artigo 4.º e no artigo anterior, são elegíveis os contratos de trabalho celebrados sem termo, a tempo completo, e cuja retribuição base estabelecida seja igual ou superior ao nível remuneratório de entrada de um licenciado na carreira geral de técnico superior na Administração Pública.\n\n2 - Não são elegíveis os contratos de trabalho celebrados entre entidade empregadora ou entidade pertencente ao mesmo grupo empresarial e jovem desempregado que a esta esteve vinculado por contrato de trabalho imediatamente antes de ser colocado na situação de desemprego, exceto quando a situação de desemprego tenha ocorrido há mais de 12 meses ou quando o contrato de trabalho tenha sido celebrado ao abrigo do regime para jovens em férias escolares, previsto no Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social.\n\n> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 390/2023 - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/portaria/390-2023-224661315), em vigor a partir de 2024-01-01"
+  },
+  "890051106": {
+   "fragment_id": "224684666",
+   "type": 11,
+   "heading": "Artigo 8.º — Criação líquida de emprego",
+   "in_force_from": "2024-09-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+   ],
+   "markdown": "###### Artigo 8.º — Criação líquida de emprego\n\nPara efeitos do disposto na alínea c) do n.º 1 do artigo 4.º, considera-se existir criação líquida de emprego quando a entidade empregadora alcançar, por via do contrato de trabalho apoiado, um número total de trabalhadores superior à média dos trabalhadores registados nos 12 meses que precedem o mês de registo da oferta.\n\n> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+  },
+  "890051107": {
+   "fragment_id": "224684667",
+   "type": 11,
+   "heading": "Artigo 9.º — Manutenção do contrato e do nível de emprego",
+   "in_force_from": "2024-09-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+   ],
+   "markdown": "###### Artigo 9.º — Manutenção do contrato e do nível de emprego\n\n1 - A concessão do apoio financeiro à entidade empregadora previsto na presente portaria determina a obrigação de manter o contrato de trabalho apoiado e o nível de emprego alcançado por via do apoio financeiro durante, pelo menos, 24 meses a contar do 1.º mês de vigência do contrato apoiado.\n\n2 - Considera-se existir manutenção do nível de emprego quando a entidade empregadora tiver ao seu serviço, no período previsto no número anterior, um número de trabalhadores igual ou superior à média dos trabalhadores registados nos 12 meses que precedem o mês de registo da oferta, incluindo o trabalhador apoiado.\n\n3 - Para efeitos do disposto nos números anteriores, não são contabilizados os trabalhadores que tenham cessado os respetivos contratos de trabalho por sua própria iniciativa, por motivo de invalidez, de falecimento, de reforma por velhice, de despedimento com justa causa promovido pela entidade empregadora, ou de caducidade de contratos a termo celebrados nos termos das alíneas a) a d) do n.º 2 do artigo 140.º do Código do Trabalho, a comprovar pela entidade empregadora, sempre que solicitado pelo IEFP, I. P.\n\n4 - A manutenção do nível de emprego é verificada, até ao final do prazo estabelecido no n.º 1.\n\n5 - Caso se verifique a descida do nível de emprego aprovado durante o prazo estabelecido no n.º 1, o mesmo deve ser reposto no mês seguinte àquele em que tenha ocorrido a descida.\n\n6 - A entidade empregadora deve comunicar ao IEFP, I. P., no prazo de cinco dias úteis, os seguintes factos:\n\na) A cessação do contrato apoiado, informando se pretende a substituição do trabalhador, nos casos previstos no n.º 3 e na subalínea iii) da alínea a) do n.º 5 do artigo 16.º;\n\nb) A descida do nível de emprego, quando não ocorra a reposição no prazo previsto no número anterior e sem prejuízo do disposto no n.º 3.\n\n> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+  },
+  "890051108": {
+   "fragment_id": "224684668",
+   "type": 11,
+   "heading": "Artigo 10.º — Formação profissional",
+   "in_force_from": "2024-09-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+   ],
+   "markdown": "###### Artigo 10.º — Formação profissional\n\n1 - Para efeitos do disposto na alínea d) do n.º 1 do artigo 4.º, a entidade empregadora obriga-se a proporcionar formação profissional ao trabalhador contratado, numa das seguintes modalidades:\n\na) Formação em contexto de trabalho ajustada às competências necessárias ao desempenho das funções exercidas no posto de trabalho, pelo período mínimo de 12 meses, mediante acompanhamento de um tutor designado pela entidade empregadora;\n\nb) Formação ajustada às competências necessárias ao desempenho das funções exercidas no posto de trabalho, em entidade formadora certificada, com uma carga horária mínima de 50 horas, realizada, sempre que possível, durante o período normal de trabalho.\n\n2 - O trabalhador tem direito a uma redução equivalente no período de trabalho quando a formação prevista na alínea b) do número anterior é realizada, total ou parcialmente, fora do período normal de trabalho.\n\n3 - Após o período de formação previsto no n.º 1, a entidade empregadora deve entregar ao IEFP, I. P., o relatório de formação elaborado pelo tutor, em conformidade com o modelo definido no aviso de abertura de candidaturas, ou a cópia do certificado de formação emitido pela entidade formadora certificada.\n\n> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+  },
+  "890051109": {
+   "fragment_id": "224684669",
+   "type": 11,
+   "heading": "Artigo 11.º — Apoio financeiro à contratação",
+   "in_force_from": "2024-09-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 390/2023 - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/portaria/390-2023-224661315), em vigor a partir de 2024-01-01, produz efeitos a partir de 2023-11-24"
+   ],
+   "markdown": "###### Artigo 11.º — Apoio financeiro à contratação\n\n1 - No âmbito do presente programa, a entidade empregadora tem direito a um apoio financeiro à contratação, nos seguintes termos:\n\na) 18 vezes o valor do indexante dos apoios sociais, adiante designado por IAS, para as candidaturas apresentadas durante os anos de 2023 e 2024;\n\nb) 12 vezes o valor do IAS, para as candidaturas apresentadas durante o ano de 2025;\n\nc) 10 vezes o valor do IAS, para as candidaturas apresentadas durante o ano de 2026.\n\n2 - O apoio financeiro previsto no número anterior pode ser majorado nos seguintes termos:\n\na) Em 4,2 vezes o valor do IAS, quando esteja em causa a contratação de jovem desempregado com deficiência e incapacidade;\n\nb) Em 3 vezes o valor do IAS, quando esteja em causa posto de trabalho localizado em território do interior, nos termos definidos pela Portaria n.º 208/2017, de 13 de julho, na sua redação atual;\n\nc) Em 3 vezes o valor do IAS, quando a entidade empregadora seja parte de instrumento de regulamentação coletiva de trabalho (IRCT), nos termos do artigo 2.º do Código do Trabalho;\n\nd) Em 3 vezes o valor do IAS, quando esteja em causa a contratação de jovem que esteja em situação de desemprego de longa duração.\n\ne) Em 3 vezes o valor do IAS, quando esteja em causa posto de trabalho numa empresa startup ou scaleup, reconhecida nos termos definidos pela Lei n.º 21/2023, de 25 de maio, na sua redação atual.\n\n3 - As majorações previstas no número anterior não são cumuláveis entre si.\n\n4 - O apoio financeiro previsto no n.º 1 é ainda majorado em 3,6 vezes o valor do IAS quando esteja em causa a contratação de jovem desempregado do sexo sub-representado em determinada profissão.\n\n5 - Para efeitos do disposto no número anterior, considera-se existir sub-representação de sexo quando não se verifica uma representatividade de 33,3 % em relação a um dos sexos em determinada profissão, conforme lista atualizada pelo IEFP, I. P., com base na informação prestada pelas empresas no Relatório Único.\n\n6 - Nos casos em que ocorra suspensão do contrato de trabalho apoiado, nomeadamente por motivo de doença ou por situação de crise empresarial ou ainda no caso de gozo de licença parental, cuja ausência se verifique por período superior a 1 mês, a entidade empregadora tem direito ao apoio financeiro calculado de forma proporcional ao trabalho prestado e remunerado sempre que no 36.º mês após a data de início do contrato sem termo não se verifiquem 24 meses completos de prestação de trabalho pelo trabalhador apoiado.\n\n7 - O disposto no número anterior não é aplicável no caso em que a entidade empregadora substitua temporariamente o trabalhador ausente por outro jovem desempregado elegível, nos termos do artigo 6.º, no prazo de 30 dias a contar da data em que ocorra o motivo previsto no número anterior.\n\n> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 390/2023 - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/portaria/390-2023-224661315), em vigor a partir de 2024-01-01, produz efeitos a partir de 2023-11-24"
+  },
+  "890051110": {
+   "fragment_id": "224684670",
+   "type": 11,
+   "heading": "Artigo 12.º — Apoio financeiro ao pagamento de contribuições para a segurança social",
+   "in_force_from": "2024-09-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+   ],
+   "markdown": "###### Artigo 12.º — Apoio financeiro ao pagamento de contribuições para a segurança social\n\n1 - No âmbito do presente programa, a entidade empregadora tem direito a um apoio financeiro correspondente a metade do valor da contribuição para a segurança social a seu cargo, relativamente aos contratos de trabalho apoiados, durante o primeiro ano da sua vigência, sem prejuízo do disposto no n.º 4.\n\n2 - O montante do apoio financeiro previsto no número anterior é apurado tendo em conta a retribuição base estabelecida nos contratos a apoiar e com referência a um período de 14 meses.\n\n3 - O apoio financeiro previsto nos números anteriores não pode ultrapassar o limite de 7 vezes o valor do IAS.\n\n4 - Sempre que no primeiro ano de vigência do contrato ocorra uma das situações previstas no n.º 6 do artigo 11.º, a entidade tem direito ao apoio financeiro calculado de forma proporcional ao trabalho prestado e remunerado, quando, no 36.º mês após a data de início do contrato sem termo, não se verifiquem 12 meses completos de prestação de trabalho pelo trabalhador apoiado.\n\n5 - O disposto no número anterior não é aplicável no caso em que a entidade empregadora substitua temporariamente o trabalhador ausente por outro jovem desempregado elegível, nos termos do artigo 6.º, no prazo de 30 dias a contar da data em que ocorra uma das situações previstas no n.º 6 do artigo 11.º\n\n6 - Sempre que, após o primeiro ano de vigência do contrato, ocorra uma das situações previstas no n.º 6 do artigo 11.º, a entidade tem direito a receber a totalidade do apoio financeiro.\n\n> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+  },
+  "890051111": {
+   "fragment_id": "224684671",
+   "type": 11,
+   "heading": "Artigo 13.º — Regime de candidatura",
+   "in_force_from": "2024-09-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+   ],
+   "markdown": "###### Artigo 13.º — Regime de candidatura\n\n1 - Os períodos de abertura e encerramento de candidaturas ao presente programa são definidos por deliberação do conselho diretivo do IEFP, I. P., e divulgados no sítio eletrónico www.iefp.pt.\n\n2 - O aviso de abertura de candidaturas divulga, nomeadamente, a data de abertura e de encerramento, a respetiva dotação orçamental, a qual pode ser fixada por região, sendo aprovadas candidaturas até ao limite da dotação orçamental fixada.\n\n3 - As candidaturas são avaliadas com base em critérios de análise, nos termos do artigo 5.º\n\n4 - Para efeitos de aprovação das candidaturas, é estabelecida uma pontuação mínima.\n\n> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+  },
+  "890051112": {
+   "fragment_id": "224684672",
+   "type": 11,
+   "heading": "Artigo 14.º — Procedimento de candidatura",
+   "in_force_from": "2024-09-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+   ],
+   "markdown": "###### Artigo 14.º — Procedimento de candidatura\n\n1 - A candidatura é efetuada através do portal https://iefponline.iefp.pt/, em formulário próprio, através da sinalização de oferta de emprego que reúna os requisitos para concessão do apoio financeiro e na qual conste manifestação expressa de submeter uma candidatura ao presente programa.\n\n2 - No formulário de candidatura, a entidade empregadora pode apresentar o candidato para a oferta de emprego, que seja elegível nos termos do disposto no artigo 6.º, ou solicitar ao IEFP, I. P., que indique os candidatos.\n\n3 - O tratamento das ofertas de emprego, bem como a seleção dos candidatos, de acordo com as regras dispostas nos artigos 6.º e 7.º, são definidos no aviso de abertura de candidaturas previsto no n.º 2 do artigo 20.º\n\n4 - A entidade empregadora que celebre contrato de trabalho em data anterior à decisão de concessão do apoio financeiro, nos termos do disposto no n.º 2 do artigo 4.º, assume os efeitos decorrentes do eventual indeferimento da candidatura.\n\n5 - O IEFP, I. P., decide a candidatura no prazo máximo de 30 dias úteis, contados a partir da data da sua apresentação, após verificação dos requisitos de concessão do apoio e aplicação da matriz referida no n.º 3 do artigo 5.º e dentro da dotação orçamental existente.\n\n6 - Após a notificação da decisão de concessão do apoio financeiro, a entidade empregadora deve apresentar ao IEFP, I. P.:\n\na) O termo de aceitação da decisão de aprovação, no prazo de 10 dias úteis;\n\nb) A cópia de, pelo menos, um dos contratos apoiados, no prazo de 20 dias úteis;\n\nc) A cópia dos restantes contratos apoiados, no prazo de 30 dias úteis.\n\n7 - O não cumprimento pela entidade empregadora do previsto nas alíneas a) e b) do número anterior pode determinar a caducidade da decisão de aprovação.\n\n8 - No caso de a entidade empregadora ter mais do que um contrato apoiado, o não cumprimento do previsto na alínea c) do n.º 6 pode determinar a redução proporcional do apoio financeiro aprovado.\n\n9 - Para efeitos do disposto no n.º 1, cada oferta de emprego é sinalizada apenas para uma candidatura, mediante manifestação expressa da entidade empregadora.\n\n> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+  },
+  "890051113": {
+   "fragment_id": "224684673",
+   "type": 11,
+   "heading": "Artigo 15.º — Pagamento dos apoios financeiros às entidades empregadoras",
+   "in_force_from": "2024-09-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+   ],
+   "markdown": "###### Artigo 15.º — Pagamento dos apoios financeiros às entidades empregadoras\n\n1 - O pagamento dos apoios financeiros previstos nos artigos 11.º e 12.º é efetuado após a apresentação do termo de aceitação ao IEFP, I. P., e em três prestações, nos seguintes termos:\n\na) 60 % do valor dos apoios financeiros é pago após o início de vigência de todos os contratos de trabalho apoiados, no prazo máximo de 20 dias úteis após a apresentação dos mesmos ao IEFP, I. P.;\n\nb) 20 % do valor dos apoios financeiros é pago no 13.º mês de vigência do último contrato iniciado;\n\nc) 20 % do valor dos apoios financeiros é pago no 25.º mês de vigência do último contrato iniciado.\n\n2 - Nos casos em que ocorra a suspensão do contrato de trabalho apoiado, a 3.ª prestação é paga no mês subsequente ao mês civil em que se completa o 24.º mês de prestação de trabalho ou realizado o acerto de contas, no 36.º mês de vigência do contrato, nos termos do disposto no n.º 6 do artigo 11.º e no n.º 4 do artigo 12.º\n\n3 - Os pagamentos previstos nos números anteriores ficam sujeitos à verificação da manutenção dos requisitos necessários à concessão do apoio financeiro, definidos no n.º 3 do artigo 3.º e na alínea c) do n.º 1 do artigo 4.º, relativamente ao período já decorrido.\n\n4 - O pagamento da última prestação do apoio financeiro, prevista na alínea c) do n.º 1, fica sujeito à entrega, por parte da entidade empregadora, do relatório de formação ou da cópia do certificado de formação previstos no n.º 3 do artigo 10.º\n\n> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+  },
+  "890051114": {
+   "fragment_id": "224684674",
+   "type": 11,
+   "heading": "Artigo 16.º — Incumprimento e restituição dos apoios",
+   "in_force_from": "2024-09-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+   ],
+   "markdown": "###### Artigo 16.º — Incumprimento e restituição dos apoios\n\n1 - O incumprimento por parte da entidade empregadora das obrigações relativas aos apoios financeiros concedidos no âmbito da presente portaria implica a imediata cessação dos mesmos, nos termos dos números seguintes, e a restituição, total ou proporcional, tendo em conta a data de ocorrência do facto, dos montantes já recebidos, relativamente a cada contrato apoiado, sem prejuízo do exercício do direito de queixa por eventuais indícios da prática de crime.\n\n2 - A entidade empregadora deve restituir proporcionalmente os apoios financeiros recebidos quando se verifique, nomeadamente, uma das seguintes situações:\n\na) Denúncia do contrato de trabalho promovida pelo trabalhador abrangido pelo programa;\n\nb) Caducidade do contrato de trabalho por impossibilidade superveniente, absoluta e definitiva, de o trabalhador prestar o seu trabalho, ou por reforma do trabalhador, por invalidez;\n\nc) Cessação do contrato de trabalho por acordo;\n\nd) Despedimento por facto imputável ao trabalhador;\n\ne) Incumprimento da obrigação de manter o nível de emprego, prevista no artigo 9.º;\n\nf) Incumprimento superveniente das obrigações previstas no âmbito da presente portaria.\n\n3 - O disposto no número anterior não é aplicável no caso em que a entidade empregadora proceda à substituição do trabalhador apoiado que cessou o contrato por um dos motivos previstos nas alíneas a) a d) do número anterior, por outro jovem desempregado que se encontre nas mesmas condições, no prazo de 30 dias, a contar da data em que se verificou o motivo que fundamenta a substituição.\n\n4 - Caso não seja possível a substituição por jovem desempregado que se encontre nas mesmas condições do que o trabalhador a substituir, a mesma pode efetuar-se com recurso a outro jovem desempregado elegível, nos termos do artigo 6.º, desde que não se ponha em causa as condições de aprovação da candidatura e ajustando-se o apoio financeiro, caso seja necessário.\n\n5 - A entidade empregadora fica obrigada a restituir a totalidade dos apoios financeiros quando se verifique, nomeadamente, uma das seguintes situações:\n\na) Cessação do contrato de trabalho apoiado durante o período de concessão do apoio devido a:\n\ni) Despedimento coletivo, despedimento por extinção de posto de trabalho ou despedimento por inadaptação;\n\nii) A declaração de ilicitude de despedimento por facto imputável ao trabalhador, salvo se este for reintegrado no mesmo estabelecimento da empresa, sem prejuízo da sua categoria e antiguidade, nos termos estabelecidos no artigo 389.º do Código do Trabalho;\n\niii) Cessação do contrato de trabalho durante o período experimental por iniciativa da entidade empregadora, salvo se a entidade empregadora proceder à substituição do trabalhador apoiado que cessou o contrato por outro jovem desempregado elegível, nos termos do artigo 6.º, no prazo de 30 dias;\n\niv) Resolução do contrato de trabalho com justa causa pelo trabalhador, nos casos previstos no n.º 2 e na alínea c) do n.º 3 do artigo 394.º do Código do Trabalho;\n\nb) Incumprimento do previsto na alínea e) do n.º 1 do artigo 4.º;\n\nc) Incumprimento da obrigação de proporcionar formação profissional, prevista no artigo 10.º\n\n6 - O disposto nos n.os 2 e 4 determina a restituição dos apoios financeiros quando os factos ocorram durante o período de vigência da obrigação de manter o contrato apoiado e o nível de emprego.\n\n7 - Para efeitos dos n.os 2 e 4, sempre que os apoios financeiros concedidos abranjam mais do que um contrato de trabalho, deve observar-se o seguinte:\n\na) Nos casos previstos nas alíneas a) a d) do n.º 2, mantêm-se os apoios financeiros relativamente aos contratos em que não se verifique incumprimento;\n\nb) Nos casos previstos no n.º 4, os apoios financeiros cessam na totalidade, efetuando-se o acerto de contas com base na regra da proporcionalidade, relativamente aos contratos em que não se verifique incumprimento.\n\n8 - O IEFP, I. P., deve notificar a entidade empregadora da decisão fundamentada que põe termo à concessão dos apoios financeiros e do montante que deve ser restituído.\n\n9 - A restituição dos apoios financeiros é efetuada no prazo de 60 dias a contar da data da notificação referida no número anterior, sob pena de pagamento de juros de mora à taxa legal em vigor.\n\n10 - A entidade empregadora fica impedida, durante dois anos a contar da notificação referida no n.º 7, de beneficiar de qualquer apoio ou comparticipação do Estado com a mesma natureza e finalidade, exceto quando se verifique uma das situações previstas nas alíneas a), b) e d) do n.º 2.\n\n11 - Não é devido qualquer apoio à entidade empregadora quando o contrato de trabalho apoiado cesse antes de decorrido um mês completo de vigência, independentemente da causa, salvo se ocorrer a substituição do trabalhador apoiado, nos casos previstos no n.º 3 e na subalínea iii) da alínea a) do n.º 5.\n\n> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+  },
+  "890051115": {
+   "fragment_id": "224723175",
+   "type": 11,
+   "heading": "Artigo 17.º — Cumulação de apoios",
+   "in_force_from": "2024-09-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+   ],
+   "markdown": "###### Artigo 17.º — Cumulação de apoios\n\n1 - Sem prejuízo do previsto em legislação específica e do disposto no número seguinte, os apoios previstos nos artigos 11.º e 12.º do presente programa não são cumuláveis com outros apoios diretos ao emprego aplicáveis ao mesmo posto de trabalho.\n\n2 - Os apoios previstos no presente programa são cumuláveis com medidas de incentivo ao emprego de natureza fiscal ou parafiscal.\n\n3 - Para efeitos do disposto no número anterior, nas situações em que a entidade empregadora beneficie cumulativamente do presente programa e das medidas referidas no número anterior, na modalidade de isenção do total do pagamento de contribuições para o regime geral da segurança social, não há lugar à concessão do apoio previsto no artigo 12.º\n\n4 - Para efeitos do disposto no número anterior, o IEFP, I. P., mediante troca oficiosa de informação com o Instituto da Segurança Social, I. P., reserva-se o direito de notificar a entidade empregadora para efeitos de eventual restituição do montante que esta tenha recebido indevidamente ao abrigo do disposto no artigo 12.º\n\n> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+  },
+  "890051116": {
+   "fragment_id": "224723176",
+   "type": 11,
+   "heading": "Artigo 18.º — Apoio financeiro à autonomização dos jovens",
+   "in_force_from": "2024-09-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+   ],
+   "markdown": "###### Artigo 18.º — Apoio financeiro à autonomização dos jovens\n\n1 - No âmbito do presente programa, os destinatários elegíveis, nos termos do artigo 6.º, têm direito a um apoio financeiro correspondente a 150 euros, durante o primeiro ano da vigência do contrato de trabalho apoiado, a pagar mensalmente e mediante transferência bancária pelo IEFP, I. P.\n\n2 - O apoio previsto no número anterior é concedido aos destinatários cuja retribuição base estabelecida no contrato de trabalho não exceda 4 vezes a retribuição mínima mensal garantida (RMMG).\n\n3 - Para acesso ao apoio previsto no presente artigo o destinatário deve reunir os seguintes requisitos:\n\na) Estar registado no portal iefponline em https://iefponline.iefp.pt/ e ter subscrito o serviço de notificações eletrónicas do IEFP, I. P. no mesmo portal;\n\nb) Ter conta bancária em nome próprio;\n\nc) Não se encontrar em situação de incumprimento no que respeita a apoios financeiros concedidos pelo IEFP, I. P.\n\n4 - O pagamento do apoio depende da manutenção do contrato de trabalho e dos requisitos previstos no número anterior.\n\n5 - A suspensão do contrato de trabalho apoiado por motivo de doença ou por situação de crise empresarial, ou ainda no caso de gozo de licença parental, cuja ausência se verifique por período superior a um mês, não suspende o direito ao pagamento do apoio.\n\n6 - No âmbito da análise do primeiro pagamento do apoio à entidade empregadora, previsto na alínea a) do n.º 1 do artigo 15.º, o IEFP, I. P., notifica o destinatário para devolver um termo de aceitação, com indicação do seu IBAN, no prazo de 10 dias úteis.\n\n7 - A falta de envio dos documentos previstos no número anterior, bem como o seu envio fora de prazo, determina a caducidade da decisão de aprovação, salvo apresentação de motivo justificativo que seja aceite.\n\n8 - Caso ocorra a cessação do contrato de trabalho apoiado ou a falta de manutenção dos requisitos previstos no n.º 3 durante o primeiro ano de vigência, cessa o direito ao presente apoio, com obrigação de restituição dos montantes recebidos indevidamente, nos casos aplicáveis, sem prejuízo do disposto no número seguinte.\n\n9 - Determinam a restituição total do apoio as seguintes situações:\n\na) O despedimento por facto imputável ao trabalhador, salvo se o mesmo demonstrar a propositura de ação judicial contra o empregador, situação em que o prazo para a restituição do apoio é suspenso até a ação transitar em julgado;\n\nb) Qualquer forma de simulação para acesso ao apoio, sem prejuízo do exercício do direito de queixa por eventuais indícios da prática de crime.\n\n10 - O trabalhador deve comunicar ao IEFP, I. P., a cessação do contrato apoiado, no prazo de cinco dias úteis.\n\n11 - Caso a entidade empregadora entre em incumprimento perante o IEFP, I. P., mas o contrato de trabalho apoiado se mantenha, o apoio previsto no presente artigo mantém-se até final do respetivo período de concessão.\n\n12 - Não é devido qualquer apoio quando o contrato de trabalho apoiado cesse antes de decorrido um mês completo de vigência.\n\n13 - O presente apoio apenas pode ser atribuído uma vez por cada destinatário elegível, pelo período máximo de 12 meses, independentemente do número de contratos de trabalho que venha a celebrar e que sejam apoiados pela presente da medida.\n\n> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+  },
+  "890051117": {
+   "fragment_id": "224723177",
+   "type": 11,
+   "heading": "Artigo 19.º — Financiamento comunitário",
+   "in_force_from": "2024-09-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+   ],
+   "markdown": "###### Artigo 19.º — Financiamento comunitário\n\nO presente programa é passível de financiamento comunitário, sendo-lhe aplicáveis as respetivas disposições do direito comunitário e nacional.\n\n> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+  },
+  "890051118": {
+   "fragment_id": "224723178",
+   "type": 11,
+   "heading": "Artigo 20.º — Execução, regulamentação e avaliação",
+   "in_force_from": "2024-09-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+   ],
+   "markdown": "###### Artigo 20.º — Execução, regulamentação e avaliação\n\n1 - O IEFP, I. P., é responsável pela execução do programa em articulação com o Instituto de Informática, I. P., e o Instituto da Segurança Social, I. P., procedendo à troca de informação relevante para efeitos de concessão, pagamento e controlo dos apoios previstos na presente portaria.\n\n2 - O IEFP, I. P., elabora o aviso de abertura de candidaturas aplicável ao programa, no prazo de cinco dias úteis, a contar da data da entrada em vigor da presente portaria, definindo, nomeadamente, critérios de análise para apreciação das candidaturas, constantes da matriz prevista no n.º 3 do artigo 5.º\n\n3 - O presente programa é objeto de avaliação em sede da Comissão Permanente de Concertação Social, no prazo de três anos após a data de entrada em vigor da presente portaria.\n\n> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+  },
+  "890051119": {
+   "fragment_id": "224723179",
+   "type": 11,
+   "heading": "Artigo 21.º — Acompanhamento, verificação e auditoria",
+   "in_force_from": "2024-09-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+   ],
+   "markdown": "###### Artigo 21.º — Acompanhamento, verificação e auditoria\n\n1 - Para efeitos de cumprimento do disposto na presente portaria e demais regulamentação aplicável, podem ser realizadas ações de acompanhamento, de verificação, de auditoria ou de inspeção por parte dos serviços do IEFP, I. P., bem como por outras entidades com competências para o efeito.\n\n2 - No aviso de abertura de candidaturas é definido um sistema de monitorização e acompanhamento da execução do programa que inclui, nomeadamente, mecanismos de verificação no local onde se situa o posto de trabalho apoiado.\n\n> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+  },
+  "890051120": {
+   "fragment_id": "224723180",
+   "type": 11,
+   "heading": "Artigo 22.º — Disposição transitória",
+   "in_force_from": "2024-09-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+   ],
+   "markdown": "###### Artigo 22.º — Disposição transitória\n\nPara efeitos do primeiro período de candidatura ao presente programa, são admissíveis ofertas de emprego publicitadas no portal https://iefponline.iefp.pt/.\n\n> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+  },
+  "890051121": {
+   "fragment_id": "224723181",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": "2024-09-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+   ],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+  },
+  "890051122": {
+   "fragment_id": "224723182",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2024-09-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+   ],
+   "markdown": "O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 28 de junho de 2023.\n\n116620806\n\n> Revogado pelo/a Artigo 33.º do/a [Portaria n.º 221/2024/1 - Diário da República n.º 184/2024, Série I de 2024-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), em vigor a partir de 2024-09-24"
+  }
+ }
+}

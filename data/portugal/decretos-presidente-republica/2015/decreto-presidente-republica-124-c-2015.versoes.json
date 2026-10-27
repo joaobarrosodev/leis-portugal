@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70881135:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-presidente-republica/2015-903114153",
+ "dre_path": "/dr/detalhe/decreto-presidente-republica/124-c-2015-70881135",
+ "source_lastmod": "2025-01-10",
+ "versions": [
+  {
+   "date": "2015-10-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "903110751"
+   ]
+  }
+ ],
+ "fragments": {
+  "903110751": {
+   "fragment_id": "903114154",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto do Presidente da República n.º 124-C/2015\n\nde 30 de outubro\n\nO Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:\n\nSão nomeados, sob proposta do Primeiro-Ministro:\n\nO Dr. Paulo de Sacadura Cabral Portas Vice-Primeiro-Ministro;\n\nA Mestre Maria Luís Casanova Morgado Dias de Albuquerque Ministra de Estado e das Finanças;\n\nO Dr. Rui Manuel Parente Chancerelle de Machete Ministro de Estado e dos Negócios Estrangeiros;\n\nO Dr. José Pedro Correia de Aguiar-Branco Ministro da Defesa Nacional;\n\nO Dr. Luís Maria de Barros Serra Marques Guedes Ministro da Presidência e do Desenvolvimento Regional;\n\nO Prof. Doutor João Calvão da Silva Ministro da Administração Interna;\n\nO Dr. Fernando Mimoso Negrão Ministro da Justiça;\n\nO Eng.º Jorge Manuel Lopes Moreira da Silva Ministro do Ambiente, Ordenamento do Território e Energia;\n\nA Prof.ª Doutora Maria de Assunção de Oliveira Cristas Machado da Graça Ministra da Agricultura e do Mar;\n\nO Dr. Luís Pedro Russo da Mota Soares Ministro da Solidariedade, Emprego e Segurança Social;\n\nO Dr. Luís Miguel Gubert Morais Leitão Ministro da Economia;\n\nO Dr. Fernando Serra Leal da Costa Ministro da Saúde;\n\nA Prof.ª Doutora Margarida Isabel Mano Tavares Simões Lopes Ministra da Educação e Ciência;\n\nO Prof. Doutor Rui Pedro Costa Melo Medeiros Ministro da Modernização Administrativa;\n\nA Mestre Maria Teresa da Silva Morais Ministra da Cultura, Igualdade e Cidadania;\n\nO Dr. Carlos Henrique da Costa Neves Ministro dos Assuntos Parlamentares."
+  }
+ }
+}

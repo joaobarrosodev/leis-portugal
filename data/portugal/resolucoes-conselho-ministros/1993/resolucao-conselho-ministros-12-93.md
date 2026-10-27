@@ -1,0 +1,134 @@
+---
+schema_version: '1.0'
+id: pt:dre:657256:por
+title: Resolução do Conselho de Ministros n.º 12/93
+short_title: null
+summary: Estabelece medidas tendentes à constituição de uma empresa que promova a construção de uma fábrica para produção
+  de acúçar branco de beterraba
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 12/93
+official_date: null
+publication_date: '1993-02-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 45/1993, Série I-B de 1993-02-23
+  number: '45'
+  series: I
+  supplement: null
+  pages: 759 - 759
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/02/045b00/07590759.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/12/1993/02/23/p/dre/pt/html
+  oj: null
+  dre: '657256'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/12-1993-657256
+  internal: pt:dre:657256:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/12-1993-657256
+  metadata_url: https://data.dre.pt/eli/resolconsmin/12/1993/02/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/12-1993-657256
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:32:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c0d2d7204b2f9df3e7efc3df8ed4ddb4e24a8cff7eaed422e19851135da636de
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:32:31Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açúcar
+- Capital Social
+- Federação Nacional das Caixas de Crédito Agrícola Mútuo
+- IPE
+- Sociedade Anónima
+- Sucral-Sociedade Industrial de Açúcar
+relationships:
+- type: cites
+  target: pt:dre:222221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355954:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:32:31Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 12/93
+
+Na [Resolução do Conselho de Ministros n.º 75/86](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/75-1986-222221), de 25 de Outubro, foi deliberado garantir à SUCRAL - Sociedade Industrial de Açúcar, S. A., a quota de 60000 t/ano de açúcar branco atribuída a Portugal, para o continente, nas negociações de adesão à Comunidade Europeia, na convicção de que os resultados das campanhas experimentais de beterraba sacarina que esta sociedade se obrigava a promover levariam à instalação de uma fábrica de açúcar, objectivo último daquela resolução, nos prazos aí estipulados.
+
+Verifica o Governo, porém, que, apesar de se terem desenvolvido as campanhas experimentais de produção de beterraba sacarina, confirmando o impacte positivo que a concretização deste projecto teria para a agricultura portuguesa, não se registou, até à data, o arranque da laboração nem sequer o início da construção da fábrica, havendo, por isso, incumprimento das condições e prazos estabelecidos na [Resolução do Conselho de Ministros n.º 75/86](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/75-1986-222221).
+
+Constata-se assim, que, sem a entrada de parceiros com comprovada experiência no sector beterrabeiro e sólida capacidade financeira, contribuindo para o alargamento da base de apoio e sucesso do projecto, não se conseguirá garantir a realização daquele objectivo em tempo útil e com a economia indispensável de recursos.
+
+Por outro lado, dado o elevado interesse que o projecto apresenta para a agricultura e economia agrícola portuguesa e ainda a sua forte componente sócio-regional, o Governo prevê disponibilizar, à semelhança do que já foi feito pelos outros Estados membros da Comunidade Europeia, ajudas públicas de montante escepcional no apoio ao investimento de transformação industrial da cultura da beterraba, pelo que se torna premente criar condições para a concretização rápida do projecto, que passa, nomeadamente, pela constituição de uma nova sociedade, à qual, sob determinadas condições, será garantida a quota de 60000 t de açúcar branco de beterraba atribuída a Portugal.
+
+Assim:
+
+Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+
+1 - Revogar as Resoluções do Conselho de Ministros n.os [75/86](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/75-1986-222221), de 25 de Outubro, e [39/88](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/39-1988-355954), de 1 de Setembro.
+
+2 - Recomendar ao IPE que, em estreita articulação com a FENACAM, encontre um parceiro com reconhecida experiência no sector beterrabeiro, com a necessária capacidade financeira, interessado em participar na sociedade a constituir.
+
+3 - A sociedade atrás referida deverá estar constituída até 30 de Junho de 1993, sendo-lhe garantida a quota de 60000 t de açúcar de beterraba, desde que preenchidas as seguintes condições:
+
+3.1 - O IPE, a FENACAM e o parceiro escolhido nos termos do n.º 1 deverão deter um mínimo de 75% do capital social da sociedade a constituir, até à atribuição definitiva da quota;
+
+3.2 - A sociedade compromete-se à instalação da fábrica de açúcar de beterraba até 30 de Junho de 1995 por forma que o seu arranque tenha como limite o final desse ano;
+
+3.3 - A sociedade obriga-se a que na data do arranque da fábrica o capital social realizado represente, no mínimo, 40% do investimento total;
+
+3.4 - A sociedade assegurará que no prazo de cinco anos contados desde o arranque de laboração da fábrica um mínimo de 15% do capital representado por acções será alienado a cooperativas agrícolas e de crédito agrícola, a outras associações de agricultores e a empresas agrícolas e agricultores individuais, por esta ordem de preferência;
+
+3.5 - A sociedade obriga-se a convidar a SUCRAL a participar no seu capital social até a um máximo de 10%, valorizando assim os esforços e investimentos por esta já efectuados;
+
+3.6 - A quota, uma vez atribuída, será intransmissível, salvo se o Governo expressamente o autorizar ou o determinar por incumprimento das condições constantes da presente resolução ou, sem justificação considerada aceitável, dos calendários previstos na presente resolução.
+
+4 - Nos 60 dias subsequentes à constituição da sociedade referida no n.º 3 desta resolução, deverá a mesma manifestar perante o Ministério da Agricultura a aceitação expressa dos termos e condições constantes da presente resolução, bem como apresentar um plano calendarizado de execução dos investimentos previstos até ao efectivo arranque da laboração da fábrica.
+
+5 - Autorizar os accionistas da SUCRAL que estavam vinculados a manter determinados níveis de participação no seu capital social a ceder parte ou a totalidade das acções de que são titulares naquela sociedade.
+
+Presidência do Conselho de Ministros, 21 de Janeiro de 1993. - O Primeiro-Ministro, Aníbal António Cavaco Silva.

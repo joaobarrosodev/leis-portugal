@@ -1,0 +1,181 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:224853:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1998-886671693",
+ "dre_path": "/dr/detalhe/lei/2-1998-224853",
+ "source_lastmod": "2024-09-03",
+ "versions": [
+  {
+   "date": "1998-01-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "886673176",
+    "886673177",
+    "886673178",
+    "886673179",
+    "886673180",
+    "886673181",
+    "886673182",
+    "886673183",
+    "886673184",
+    "886673185",
+    "886673186",
+    "886673187",
+    "886673188",
+    "886673189",
+    "886673190",
+    "886673191",
+    "886673192",
+    "886673193"
+   ]
+  }
+ ],
+ "fragments": {
+  "886673176": {
+   "fragment_id": "886671694",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 2/98\n\nde 8 de Janeiro\n\nEstende aos magistrados do Ministério Público junto do Supremo Tribunal de Justiça a coadjuvação por assessores e institui a assessoria a ambas as magistraturas nos tribunais de Relação e em certos tribunais de 1.ª instância.\n\nA Assembleia da República decreta, nos termos dos artigos 161.º, alínea c), 165.º, n.º 1, alínea p), e 166.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "886673177": {
+   "fragment_id": "886671695",
+   "type": 11,
+   "heading": "Artigo 1.º — Assessores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Assessores\n\n1 - O Supremo Tribunal de Justiça e os tribunais de Relação dispõem de assessores que coadjuvam os magistrados judiciais e os magistrados do Ministério Público.\n\n2 - Haverá também assessores nos tribunais judiciais de 1.ª instância quando a complexidade e o volume de serviço o justifiquem."
+  },
+  "886673178": {
+   "fragment_id": "886671696",
+   "type": 11,
+   "heading": "Artigo 2.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competência\n\n1 - Compete, designadamente, aos assessores:\n\na) Proferir despachos de mero expediente;\n\nb) Preparar a agenda dos serviços a efectuar;\n\nc) Elaborar projectos de peças processuais;\n\nd) Proceder à pesquisa da legislação, jurisprudência e doutrina necessárias à preparação das decisões e das promoções nos processos;\n\ne) Sumariar as decisões e as promoções, a legislação, a jurisprudência e a doutrina de maior interesse científico e integrá-las em ficheiros ou em base de dados;\n\nf) Colaborar na organização e actualização da biblioteca do tribunal.\n\n2 - Dependem de delegação do respectivo magistrado os actos a que se referem as alíneas a) a c) do número anterior, devendo a delegação ser específica no que respeita aos da alínea c)."
+  },
+  "886673179": {
+   "fragment_id": "886671697",
+   "type": 11,
+   "heading": "Artigo 3.º — Número de assessores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Número de assessores\n\n1 - O número de assessores é fixado por portaria conjunta do Ministro da Justiça, do Ministro das Finanças e do membro do Governo responsável pela Administração Pública, sob proposta do Conselho Superior da Magistratura e da Procuradoria-Geral da República, respectivamente.\n\n2 - A indicação dos tribunais judiciais de 1.ª instância a que se refere o n.º 2 do artigo 1.º efectua-se nos termos do número anterior e constará da mencionada portaria.\n\n3 - Na mesma portaria declarar-se-á aberto o concurso de provimento."
+  },
+  "886673180": {
+   "fragment_id": "886671698",
+   "type": 11,
+   "heading": "Artigo 4.º — Supremo Tribunal de Justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Supremo Tribunal de Justiça\n\nOs assessores do Supremo Tribunal de Justiça são nomeados, respectivamente, pelo Conselho Superior da Magistratura e pelo Conselho Superior do Ministério Público, em comissão de serviço, por três anos, não renovável, de entre juízes de 1.ª instância e procuradores ou delegados do procurador da República com classificação não inferior a Bom com distinção e antiguidade não inferior a 5 e não superior a 15 anos."
+  },
+  "886673181": {
+   "fragment_id": "886671699",
+   "type": 11,
+   "heading": "Artigo 5.º — Recrutamento dos assessores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Recrutamento dos assessores\n\nOs assessores dos tribunais de Relação e dos tribunais judiciais de 1.ª instância são recrutados:\n\na) De entre candidatos ao ingresso no Centro de Estudos Judiciários, classificados de Aptos, que tenham excedido o número de vagas disponíveis de auditores de justiça;\n\nb) De entre oficiais de justiça habilitados com licenciatura em Direito que tenham, pelo menos, cinco anos de serviço e classificação não inferior a Bom."
+  },
+  "886673182": {
+   "fragment_id": "886671700",
+   "type": 11,
+   "heading": "Artigo 6.º — Admissão ao curso de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Admissão ao curso de formação\n\n1 - Os assessores são providos após frequência, com aproveitamento, de curso de formação a realizar no Centro de Estudos Judiciários.\n\n2 - Os candidatos ao curso de formação não podem exceder o dobro do contingente fixado nos termos do n.º 1 do artigo 3.º\n\n3 - Ao curso de formação são admitidos os candidatos a que se refere o artigo anterior, na proporção de metade para cada um dos conjuntos.\n\n4 - Havendo excesso de candidatos, efectua-se rateio nos seguintes termos:\n\na) Quanto aos candidatos mencionados na alínea a) do artigo anterior, atende-se à classificação ali referida, preferindo os mais velhos em caso de igualdade;\n\nb) Quanto aos candidatos mencionados na alínea b) do artigo anterior, atende-se, sucessivamente, à categoria mais elevada e, dentro de cada categoria, à melhor classificação de serviço, preferindo os mais antigos.\n\n5 - As vagas não preenchidas por um dos conjuntos referidos no artigo anterior acrescem ao outro conjunto de candidatos."
+  },
+  "886673183": {
+   "fragment_id": "886671701",
+   "type": 11,
+   "heading": "Artigo 7.º — Formação e graduação dos assessores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Formação e graduação dos assessores\n\n1 - O curso a que se refere o n.º 1 do artigo anterior tem a duração de três meses e obedece a regulamento aprovado por despacho do Ministro da Justiça, sob proposta do conselho pedagógico do Centro de Estudos Judiciários.\n\n2 - Os candidatos que obtiverem aproveitamento são graduados por ordem decrescente de mérito dentro de cada um dos conjuntos que se refere o artigo 5.º, observando-se, em caso de igualdade, o disposto no n.º 4 do artigo anterior, respectivamente.\n\n3 - A validade do curso a que se refere o n.º 1 mantém-se enquanto não for declarado aberto novo concurso, nos termos do n.º 3 do artigo 3.º"
+  },
+  "886673184": {
+   "fragment_id": "886671702",
+   "type": 11,
+   "heading": "Artigo 8.º — Forma e duração do provimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Forma e duração do provimento\n\n1 - Os candidatos a que se refere o n.º 2 do artigo anterior são admitidos como assessores em comissão de serviço, por três anos.\n\n2 - O provimento dos assessores efectua-se, sempre que possível, alternadamente de entre candidatos de cada um dos conjuntos a que se refere o n.º 2 do artigo anterior, começando-se pelo conjunto com maior número de elementos ou, em caso de igualdade, pelo conjunto a que pertencer o mais velho dos candidatos.\n\n3 - A comissão de serviço pode ser prorrogada por duas vezes, por períodos de um ano.\n\n4 - A comissão de serviço pode ser dada por finda, a todo o tempo, pelo Ministro da Justiça, sob proposta do Conselho Superior da Magistratura ou da Procuradoria-Geral da República, conforme os casos, precedendo a audição dos magistrados assessorados, com fundamento em que o assessor não revela aptidões técnicas, zelo ou adequação para o exercício do cargo."
+  },
+  "886673185": {
+   "fragment_id": "886671703",
+   "type": 11,
+   "heading": "Artigo 9.º — Colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Colocação\n\n1 - No Supremo Tribunal de Justiça os assessores são distribuídos pelo respectivo presidente e pelo Procurador-Geral da República.\n\n2 - Nos restantes tribunais, os assessores são colocados pelo Conselho Superior da Magistratura e pelos procuradores-gerais-adjuntos distritais, respectivamente.\n\n3 - A colocação a que se referem os números anteriores é precedida de audição dos respectivos magistrados.\n\n4 - Decorrido, pelo menos, um ano, os assessores podem requerer ao Ministro da Justiça a sua transferência dos serviços da magistratura judicial para os do Ministério Público, ou vice-versa, com preferência sobre os candidatos à primeira nomeação."
+  },
+  "886673186": {
+   "fragment_id": "886671704",
+   "type": 11,
+   "heading": "Artigo 10.º — Dependência hierárquica e funcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Dependência hierárquica e funcional\n\n1 - Os assessores dependem, hierárquica e funcionalmente, do magistrado que coadjuvam.\n\n2 - No caso de coadjuvarem mais de um magistrado, os assessores dependem, para efeitos do número anterior, do magistrado que for designado pela entidade competente para a sua colocação."
+  },
+  "886673187": {
+   "fragment_id": "886671705",
+   "type": 11,
+   "heading": "Artigo 11.º — Direitos dos assessores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direitos dos assessores\n\n1 - É aplicável aos assessores, com as necessárias adaptações, o disposto na alínea d) do n.º 1 do artigo 17.º da Lei n.º 21/85, de 30 de Julho, e na alínea e) do n.º 1 do artigo 85.º da Lei n.º 47/86, de 15 de Outubro.\n\n2 - Os assessores podem inscrever-se nos Serviços Sociais do Ministério da Justiça."
+  },
+  "886673188": {
+   "fragment_id": "886671706",
+   "type": 11,
+   "heading": "Artigo 12.º — Remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Remunerações\n\n1 - Durante a frequência do curso a que se refere o n.º 1 do artigo 6.º, os candidatos a assessores têm direito a uma bolsa de estudos equivalente a dois terços da estabelecida para os auditores de justiça no período de actividades teórico-práticas.\n\n2 - Os assessores têm direito a vencimento de montante igual ao da bolsa de estudos estabelecida para os auditores de justiça no período de actividades teórico-práticas, acrescido de subsídio de fixação de quantitativo igual ao que se refere no n.º 2 do artigo 29.º da Lei n.º 21/85, de 30 de Julho, e no n.º 2 do artigo 80.º da Lei n.º 47/86, de 15 de Outubro.\n\n3 - As despesas decorrentes do disposto na presente lei são asseguradas pelo Gabinete de Gestão Financeira do Ministério da Justiça."
+  },
+  "886673189": {
+   "fragment_id": "886671707",
+   "type": 11,
+   "heading": "Artigo 13.º — Deveres e incompatibilidades dos assessores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Deveres e incompatibilidades dos assessores\n\n1 - Os assessores estão sujeitos aos deveres e incompatibilidades dos magistrados.\n\n2 - É aplicável subsidiariamente aos assessores o regime da função pública."
+  },
+  "886673190": {
+   "fragment_id": "886671708",
+   "type": 11,
+   "heading": "Artigo 14.º — Funcionários e agentes do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Funcionários e agentes do Estado\n\nOs candidatos, durante a frequência do curso a que se refere o artigo 7.º, e os assessores que sejam funcionários ou agentes do Estado, de institutos públicos ou de empresas públicas têm direito a frequentar o curso e a exercer o cargo em regime de requisição e a optar, neste caso, pelas remunerações base relativas à categoria de origem."
+  },
+  "886673191": {
+   "fragment_id": "886671709",
+   "type": 11,
+   "heading": "Artigo 15.º — Acesso ao Centro de Estudos Judiciários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Acesso ao Centro de Estudos Judiciários\n\nOs assessores com três anos de exercício efectivo de funções com boa informação de serviço têm acesso ao Centro de Estudos Judiciários mediante quota a reservar na lei que regula o seu funcionamento e aprovação em exame nos termos igualmente a regulamentar na lei."
+  },
+  "886673192": {
+   "fragment_id": "886671710",
+   "type": 11,
+   "heading": "Artigo 16.º — Assessores dos tribunais de Relação e dos tribunais judiciais de 1.ª instância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Assessores dos tribunais de Relação e dos tribunais judiciais de 1.ª instância\n\nCom excepção do que se preceitua nos n.os 1 e 3 do artigo 9.º e no artigo 10.º, as disposições dos artigos 5.º e seguintes são apenas aplicáveis aos assessores dos tribunais de Relação e dos tribunais judiciais de 1.ª instância."
+  },
+  "886673193": {
+   "fragment_id": "886671711",
+   "type": 11,
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\n1 - A presente lei entra em vigor no dia 1 de Janeiro de 1998.\n\n2 - Mantém-se em vigor até essa data o disposto no artigo 36.º da Lei n.º 38/87, de 23 de Dezembro, e o disposto no artigo 3.º do Decreto-Lei n.º 214/88, de 17 de Junho."
+  }
+ }
+}

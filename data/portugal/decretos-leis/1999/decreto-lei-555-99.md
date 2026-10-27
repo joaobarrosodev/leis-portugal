@@ -1,0 +1,4458 @@
+---
+schema_version: '1.0'
+id: pt:dre:655682:por
+title: Decreto-Lei n.º 555/99
+short_title: null
+summary: Estabelece o regime jurídico da urbanização e edificação
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Equipamento, do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 555/99
+official_date: null
+publication_date: '1999-12-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 291/1999, Série I-A de 1999-12-16
+  number: '291'
+  series: I
+  supplement: null
+  pages: 8912 - 8942
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/12/291a00/89128942.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes:
+- Por força da alteração introduzida pelo Decreto-Lei n.º 155-B/2026, de 31 de julho, ao n.º 1 do artigo 13.º do Decreto-Lei
+  n.º 108/2026, de 29 de maio, as alterações, os aditamentos e as revogações introduzidos por este último diploma, entram
+  em vigor no dia 1 de outubro de 2026.
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-09-07'
+version_history:
+  file: decreto-lei-555-99.versoes.json
+  count: 18
+  source_lastmod: '2026-08-06'
+  versions:
+  - date: '1999-12-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-10-02'
+    amending: pt:dre:331257:por
+    amending_title: Decreto-Lei n.º 177/2001
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 27.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 33.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 41.º
+    - Altera Artigo 42.º
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
+    - Altera Artigo 48.º
+    - Altera Artigo 51.º
+    - Altera Artigo 57.º
+    - Altera Artigo 58.º
+    - Altera Artigo 62.º
+    - Altera Artigo 64.º
+    - Altera Artigo 65.º
+    - Altera Artigo 68.º
+    - Altera Artigo 76.º
+    - Altera Artigo 77.º
+    - Altera Artigo 78.º
+  - date: '2003-02-20'
+    amending: pt:dre:476347:por
+    amending_title: Lei n.º 4-A/2003
+    changes:
+    - Altera Artigo 112.º
+  - date: '2006-09-07'
+    amending: pt:dre:538614:por
+    amending_title: Decreto-Lei n.º 157/2006
+    changes:
+    - Altera Artigo 92.º
+  - date: '2008-03-02'
+    amending: pt:dre:640138:por
+    amending_title: Lei n.º 60/2007
+    changes:
+    - Adita Artigo 6.º-A
+    - Adita Artigo 8.º-A
+    - Adita Artigo 12.º-A
+    - Adita Artigo 13.º-A
+    - Adita Artigo 13.º-B
+    - Adita Artigo 36.º-A
+    - Adita Artigo 48.º-A
+    - Adita Artigo 80.º-A
+    - Adita Artigo 89.º-A
+    - Adita Artigo 101.º-A
+    - Adita Artigo 108.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 27.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 39.º
+    - Altera Secção III
+  - date: '2008-07-30'
+    amending: pt:dre:248178:por
+    amending_title: Decreto-Lei n.º 18/2008
+    changes:
+    - Altera Artigo 107.º
+  - date: '2010-06-28'
+    amending: pt:dre:612626:por
+    amending_title: Decreto-Lei n.º 26/2010
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 6.º-A
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º-A
+    - Altera Artigo 13.º
+    - Altera Artigo 13.º-A
+    - Altera Artigo 15.º
+    - Altera Artigo 20.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 44.º
+    - Altera Artigo 48.º
+    - Altera Artigo 57.º
+    - Altera Artigo 58.º
+    - Altera Artigo 59.º
+    - Altera Artigo 61.º
+    - Altera Artigo 62.º
+    - Altera Artigo 63.º
+    - Altera Artigo 64.º
+    - Altera Artigo 68.º
+    - Altera Artigo 71.º
+    - Altera Artigo 75.º
+    - Altera Artigo 76.º
+    - Altera Artigo 77.º
+    - Altera Artigo 79.º
+    - Altera Artigo 80.º
+    - Altera Artigo 82.º
+    - Altera Artigo 83.º
+    - Altera Artigo 98.º
+    - Altera Artigo 112.º
+    - Altera Artigo 116.º
+    - Altera Artigo 119.º
+  - date: '2013-01-01'
+    amending: pt:dre:632428:por
+    amending_title: Decreto-Lei n.º 266-B/2012
+    changes:
+    - Altera Artigo 90.º
+  - date: '2015-01-07'
+    amending: pt:dre:58815340:por
+    amending_title: Declaração de Retificação n.º 46-A/2014; Decreto-Lei n.º 136/2014
+    changes:
+    - Retifica Artigo 13.º-A
+    - Retifica Artigo 48.º-A
+    - Retifica Artigo 71.º
+    - Adita Artigo 100.º-A
+    - Adita Artigo 102.º-A
+    - Adita Artigo 102.º-B
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 8.º-A
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º-A
+    - Altera Artigo 13.º
+    - Altera Artigo 13.º-A
+    - Altera Artigo 13.º-B
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 24.º
+    - Altera Artigo 27.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 39.º
+    - Altera Artigo 41.º
+    - Altera Artigo 42.º
+    - Altera Artigo 43.º
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
+    - Altera Artigo 48.º
+    - Altera Artigo 48.º-A
+    - Altera Artigo 49.º
+  - date: '2015-12-01'
+    amending: pt:dre:70423756:por
+    amending_title: Decreto-Lei n.º 214-G/2015
+    changes:
+    - Altera Artigo 85.º
+    - Altera Artigo 95.º
+    - Altera Artigo 112.º
+  - date: '2017-08-19'
+    amending: pt:dre:108016474:por
+    amending_title: Lei n.º 79/2017
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 24.º
+  - date: '2018-12-29'
+    amending: pt:dre:117514512:por
+    amending_title: Decreto-Lei n.º 121/2018
+    changes:
+    - Altera Artigo 95.º
+  - date: '2019-06-20'
+    amending: pt:dre:122349220:por
+    amending_title: Decreto-Lei n.º 66/2019
+    changes:
+    - Adita Artigo 90.º-A
+    - Adita Artigo 108.º-B
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 89.º
+    - Altera Artigo 90.º
+    - Altera Artigo 91.º
+    - Altera Artigo 107.º
+    - Altera Artigo 108.º
+  - date: '2019-11-16'
+    amending: pt:dre:124750731:por
+    amending_title: Lei n.º 118/2019
+    changes:
+    - Altera Artigo 69.º
+    - Altera Artigo 98.º
+  - date: '2023-10-07'
+    amending: pt:dre:222477692:por
+    amending_title: Lei n.º 56/2023
+    changes:
+    - Adita Artigo 88.º-A
+    - Adita Artigo 108.º-C
+  - date: '2024-03-04'
+    amending: pt:dre:836222484:por
+    amending_title: Decreto-Lei n.º 10/2024
+    changes:
+    - Adita Artigo 1.º-A
+    - Adita Artigo 4.º-A
+    - Adita Artigo 8.º-B
+    - Adita Artigo 13.º-C
+    - Adita Artigo 62.º-A
+    - Adita Artigo 62.º-B
+    - Adita Artigo 62.º-C
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º-A
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 13.º-A
+    - Altera Artigo 17.º
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 35.º
+    - Altera Artigo 43.º
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+    - Altera Artigo 48.º
+    - Altera Artigo 49.º
+    - Altera Artigo 54.º
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 58.º
+    - Altera Artigo 59.º
+    - Altera Artigo 63.º
+    - Altera Artigo 64.º
+    - Altera Artigo 65.º
+    - Altera Artigo 66.º
+    - Altera Artigo 67.º
+  - date: '2024-07-03'
+    amending: pt:dre:870515825:por
+    amending_title: Decreto-Lei n.º 43/2024
+    changes:
+    - Revoga Artigo 108.º-C
+  - date: '2026-09-07'
+    amending: pt:dre:344261:por
+    amending_title: Lei n.º 28/2010
+    changes:
+    - Altera Artigo 13.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/555/1999/p/cons/20260727/pt/html
+  oj: null
+  dre: '655682'
+  dre_path: /dr/detalhe/decreto-lei/555-1999-655682
+  internal: pt:dre:655682:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682
+  metadata_url: https://data.dre.pt/eli/dec-lei/555/1999/p/cons/20260727/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-34567875
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-34567875
+  retrieved_at: '2026-10-22T13:48:25Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-08-06T00:00:00Z'
+integrity:
+  source_sha256: 50d48e3729472db85090c2bdc8db09dcdef6456af26b20652b5196475631a6b9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:48:25Z'
+  notes: 18 versão(ões); histórico completo em decreto-lei-555-99.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alvará
+- Garantia
+- Construção Civil
+- Obras Particulares
+- Urbanização
+- Propriedade Horizontal
+- Contra-ordenação
+- Contrato de Concessão
+- Definição de Competências
+- Embargo
+- Fiscalização
+- Direito à Informação
+- Licenciamento
+- Licença de Construção
+- Licença de Loteamento
+- Loteamento Urbano
+- Obras Municipais
+- Urbanismo
+- Prazo
+- Prédio Rústico
+- Madeira.região Autónoma
+- Câmara Municipal
+- Regime Jurídico
+- Responsabilidade Civil
+- Responsabilidade Criminal
+- Sanção
+- Açores
+- Taxa
+- Infraestrutura Turística
+- Vistoria
+relationships:
+- type: amended_by
+  target: pt:dre:331257:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 9.º;
+    Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 16.º; Altera Artigo 17.º;
+    Altera Artigo 19.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo 24.º;
+    Altera Artigo 27.º; Altera Artigo 29.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257
+  date: '2001-06-04'
+- type: amended_by
+  target: pt:dre:572075:por
+  label: Revoga Artigo 108.º-C
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-t-2001-572075
+  date: '2001-06-30'
+- type: amended_by
+  target: pt:dre:280920:por
+  label: Altera Artigo 112.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920
+  date: '2002-02-22'
+- type: amended_by
+  target: pt:dre:476347:por
+  label: Altera Artigo 112.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/4-a-2003-476347
+  date: '2003-02-19'
+- type: amended_by
+  target: pt:dre:538614:por
+  label: Altera Artigo 92.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2006-538614
+  date: '2006-08-08'
+- type: amended_by
+  target: pt:dre:640138:por
+  label: Adita Artigo 6.º-A; Adita Artigo 8.º-A; Adita Artigo 12.º-A; Adita Artigo 13.º-A; Adita Artigo 13.º-B; Adita Artigo
+    36.º-A; Adita Artigo 48.º-A; Adita Artigo 80.º-A; Adita Artigo 89.º-A; Adita Artigo 101.º-A; Adita Artigo 108.º-A; Altera
+    Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo
+    8.º; Altera Artigo 9.º; Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138
+  date: '2007-09-04'
+- type: amended_by
+  target: pt:dre:248178:por
+  label: Altera Artigo 107.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178
+  date: '2008-01-29'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: Altera Artigo 107.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: amended_by
+  target: pt:dre:612626:por
+  label: Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 6.º-A; Altera Artigo 7.º;
+    Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 12.º-A; Altera Artigo 13.º; Altera Artigo 13.º-A; Altera Artigo 15.º;
+    Altera Artigo 20.º; Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo 34.º; Altera Artigo 35.º; Altera Artigo 36.º;
+    Altera Artigo 44.º; Altera Artigo 48.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626
+  date: '2010-03-30'
+- type: amended_by
+  target: pt:dre:344261:por
+  label: Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/28-2010-344261
+  date: '2010-09-02'
+- type: amended_by
+  target: pt:dre:632428:por
+  label: Altera Artigo 90.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-b-2012-632428
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:56501680:por
+  label: Retifica Artigo 13.º-A; Retifica Artigo 48.º-A; Retifica Artigo 71.º; Adita Artigo 100.º-A; Adita Artigo 102.º-A;
+    Adita Artigo 102.º-B; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera
+    Artigo 7.º; Altera Artigo 8.º; Altera Artigo 8.º-A; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera
+    Artigo 12.º-A; Altera Artigo 13.º; Altera Artigo 13.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680
+  date: '2014-09-09'
+- type: amended_by
+  target: pt:dre:58815340:por
+  label: Retifica Artigo 13.º-A; Retifica Artigo 48.º-A; Retifica Artigo 71.º; Adita Artigo 100.º-A; Adita Artigo 102.º-A;
+    Adita Artigo 102.º-B; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera
+    Artigo 7.º; Altera Artigo 8.º; Altera Artigo 8.º-A; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera
+    Artigo 12.º-A; Altera Artigo 13.º; Altera Artigo 13.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/46-a-2014-58815340
+  date: '2014-11-10'
+- type: amended_by
+  target: pt:dre:70423756:por
+  label: Altera Artigo 85.º; Altera Artigo 95.º; Altera Artigo 112.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-g-2015-70423756
+  date: '2015-10-02'
+- type: amended_by
+  target: pt:dre:107987278:por
+  label: Altera Artigo 6.º; Altera Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2017-107987278
+  date: '2017-08-10'
+- type: amended_by
+  target: pt:dre:108016474:por
+  label: Altera Artigo 6.º; Altera Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/79-2017-108016474
+  date: '2017-08-18'
+- type: amended_by
+  target: pt:dre:117514512:por
+  label: Altera Artigo 95.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2018-117514512
+  date: '2018-12-28'
+- type: amended_by
+  target: pt:dre:122349220:por
+  label: Adita Artigo 90.º-A; Adita Artigo 108.º-B; Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 89.º; Altera Artigo
+    90.º; Altera Artigo 91.º; Altera Artigo 107.º; Altera Artigo 108.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2019-122349220
+  date: '2019-05-21'
+- type: amended_by
+  target: pt:dre:124750731:por
+  label: Altera Artigo 69.º; Altera Artigo 98.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731
+  date: '2019-09-17'
+- type: amended_by
+  target: pt:dre:222477692:por
+  label: Adita Artigo 88.º-A; Adita Artigo 108.º-C
+  source: https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692
+  date: '2023-10-06'
+- type: amended_by
+  target: pt:dre:836222484:por
+  label: Adita Artigo 88.º-A; Adita Artigo 108.º-C
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484
+  date: '2024-01-08'
+- type: amended_by
+  target: pt:dre:870515825:por
+  label: Revoga Artigo 108.º-C
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2024-870515825
+  date: '2024-07-02'
+- type: amended_by
+  target: pt:dre:1128002421:por
+  label: Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421
+  date: '2026-05-29'
+- type: cites
+  target: pt:dre:274032:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/83/1994/03/14/p/dre
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/448/1991/11/29/p/dre
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
+- type: cites
+  target: pt:dre:345116:por
+  label: null
+  source: http://data.dre.pt/eli/lei/110/1999/08/03/p/dre
+- type: cites
+  target: pt:dre:353354:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/281/1999/07/26/p/dre
+- type: cites
+  target: pt:dre:435422:por
+  label: null
+  source: http://data.dre.pt/eli/lei/42/1998/08/06/p/dre
+- type: cites
+  target: pt:dre:513870:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/92/1995/05/09/p/dre
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/19/1993/01/23/p/dre
+article_structure:
+  article_count: 158
+  section_count: 31
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:48:25Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 555/99
+
+A revisão dos regimes jurídicos do licenciamento municipal de loteamentos urbanos e obras de urbanização e de obras particulares constitui uma necessidade porque, embora recente, a legislação actualmente em vigor não tem conseguido compatibilizar as exigências de salvaguarda do interesse público com a eficiência administrativa a que legitimamente aspiram os cidadãos.
+
+Os regimes jurídicos que regem a realização destas operações urbanísticas encontram-se actualmente estabelecidos em dois diplomas legais, nem sempre coerentes entre si, e o procedimento administrativo neles desenhado é excessivamente complexo, determinando tempos de espera na obtenção de uma licença de loteamento ou de construção que ultrapassam largamente os limites do razoável.
+
+Neste domínio, a Administração move-se num tempo que não tem correspondência na vida real, impondo um sacrifício desproporcional aos direitos e interesses dos particulares.
+
+Mas, porque a revisão daqueles regimes jurídicos comporta também alguns riscos, uma nova lei só é justificável se representar um esforço sério de simplificação do sistema sem, contudo, pôr em causa um nível adequado de controlo público, que garanta o respeito intransigente dos interesses públicos urbanísticos e ambientais.
+
+Se é certo que, por via de um aumento da responsabilidade dos particulares, é possível diminuir a intensidade do controlo administrativo a que actualmente se sujeita a realização de certas operações urbanísticas, designadamente no que respeita ao respectivo controlo prévio, isso não pode nem deve significar menor responsabilidade da Administração.
+
+A Administração tem de conservar os poderes necessários para fiscalizar a actividade dos particulares e garantir que esta se desenvolve no estrito cumprimento das disposições legais e regulamentares aplicáveis.
+
+O regime que agora se institui obedece, desde logo, a um propósito de simplificação legislativa.
+
+Na impossibilidade de avançar, desde já, para uma codificação integral do direito do urbanismo, a reunião num só diploma destes dois regimes jurídicos, a par da adopção de um único diploma para regular a elaboração, aprovação, execução e avaliação dos instrumentos de gestão territorial, constitui um passo decisivo nesse sentido.
+
+Pretende-se, com isso, ganhar em clareza e coerência dos respectivos regimes jurídicos, evitando-se a dispersão e a duplicação desnecessárias de normas legais.
+
+Numa época em que a generalidade do território nacional já se encontra coberto por planos municipais, e em que se renova a consciência das responsabilidades públicas na sua execução, o loteamento urbano tem de deixar de ser visto como um mecanismo de substituição da Administração pelos particulares no exercício de funções de planeamento e gestão urbanística.
+
+As operações de loteamento urbano e obras de urbanização, tal como as obras particulares, concretizam e materializam as opções contidas nos instrumentos de gestão territorial, não se distinguindo tanto pela sua natureza quanto pelos seus fins. Justifica-se, assim, que a lei regule num único diploma o conjunto daquelas operações urbanísticas, tanto mais que, em regra, ambas são de iniciativa privada e a sua realização está sujeita a idênticos procedimentos de controlo administrativo.
+
+A designação adoptada para o diploma - regime jurídico da urbanização e edificação - foge à terminologia tradicional no intuito de traduzir a maior amplitude do seu objecto.
+
+Desde logo, porque, não obstante a particular atenção conferida às normas de procedimento administrativo, o mesmo não se esgota no regime de prévio licenciamento ou autorização das operações de loteamento urbano, obras de urbanização e obras particulares.
+
+Para além de conter algumas normas do regime substantivo daquelas operações urbanísticas, o diploma abrange a actividade desenvolvida por entidades públicas ou privadas em todas as fases do processo urbano, desde a efectiva afectação dos solos à construção urbana até à utilização das edificações nele implantadas.
+
+É no âmbito da regulamentação do controlo prévio que se faz sentir mais intensamente o propósito de simplificação de procedimentos que este anteprojecto visa prosseguir.
+
+O sistema proposto diverge essencialmente daquele que vigora actualmente, ao fazer assentar a distinção das diferentes formas de procedimento não apenas na densidade de planeamento vigente na área de realização da operação urbanística mas também no tipo de operação a realizar.
+
+Na base destes dois critérios está a consideração de que a intensidade do controlo que a administração municipal realiza preventivamente pode e deve variar em função do grau de concretização da posição subjectiva do particular perante determinada pretensão.
+
+Assim, quando os parâmetros urbanísticos de uma pretensão já se encontram definidos em plano ou anterior acto da Administração, ou quando a mesma tenha escassa ou nenhuma relevância urbanística, o tradicional procedimento de licenciamento é substituído por um procedimento simplificado de autorização ou por um procedimento de mera comunicação prévia.
+
+O procedimento de licença não se distingue, no essencial, do modelo consagrado na legislação em vigor.
+
+Como inovações mais significativas são de salientar o princípio da sujeição a prévia discussão pública dos procedimentos de licenciamento de operações de loteamento urbano e a possibilidade de ser concedida uma licença parcial para a construção da estrutura de um edifício, mesmo antes da aprovação final do projecto da obra.
+
+No primeiro caso, por se entender que o impacte urbanístico causado por uma operação de loteamento urbano em área não abrangida por plano de pormenor tem implicações no ambiente urbano que justificam a participação das populações locais no respectivo processo de decisão, não obstante poder existir um plano director municipal ou plano de urbanização, sujeitos, eles próprios, a prévia discussão pública.
+
+No segundo caso, por existir a convicção de que, ultrapassada a fase de apreciação urbanística do projecto da obra, é razoavelmente seguro permitir o início da execução da mesma enquanto decorre a fase de apreciação dos respectivos projectos de especialidade, reduzindo-se assim, em termos úteis, o tempo de espera necessário para a concretização de um projecto imobiliário.
+
+O procedimento de autorização caracteriza-se pela dispensa de consultas a entidades estranhas ao município, bem como de apreciação dos projectos de arquitectura e das especialidades, os quais são apresentados em simultâneo juntamente com o requerimento inicial.
+
+Ao diminuir substancialmente a intensidade do controlo realizado preventivamente pela Administração, o procedimento de autorização envolve necessariamente uma maior responsabilização do requerente e dos autores dos respectivos projectos, pelo que tem como «contrapartida» um regime mais apertado de fiscalização.
+
+Deste modo, nenhuma obra sujeita a autorização pode ser utilizada sem que tenha, pelo menos uma vez, sido objecto de uma inspecção ou vistoria pelos fiscais municipais de obras, seja no decurso da sua execução, seja após a sua conclusão e como condição prévia da emissão da respectiva autorização de utilização.
+
+Também nos casos em que a realização de uma obra depende de mera comunicação prévia, a câmara municipal pode, através do seu presidente, determinar se a mesma se subsume ou não à previsão normativa que define a respectiva forma de procedimento, sujeitando-a, se for caso disso, a licenciamento ou autorização.
+
+Do mesmo modo, a dispensa de licença ou autorização não envolve diminuição dos poderes de fiscalização, podendo a obra ser objecto de qualquer das medidas de tutela da legalidade urbanística previstas no diploma, para além da aplicação das sanções que ao caso couberem.
+
+Para além do seu tronco comum, os procedimentos de licenciamento ou autorização sujeitam-se ainda às especialidades resultantes do tipo de operação urbanística a realizar.
+
+Em matéria de operações de loteamento urbano, e no que se refere a cedências gratuitas ao município de parcelas para implantação de espaços verdes públicos, equipamentos de utilização colectiva e infra-estruturas urbanísticas, estabelece-se, para além do direito de reversão sobre as parcelas cedidas quando as mesmas não sejam afectas pelo município aos fins para as quais hajam sido cedidas, que o cedente tem a possibilidade de, em alternativa, exigir o pagamento de uma indemnização, nos termos estabelecidos para a expropriação por utilidade pública.
+
+Consagra-se ainda expressamente o princípio da protecção do existente em matéria de obras de edificação, retomando assim um princípio já aflorado nas disposições do Regulamento Geral das Edificações Urbanas mas esquecido nas sucessivas revisões do regime do licenciamento municipal de obras particulares.
+
+Assim, à realização de obras em construções já existentes não se aplicam as disposições legais e regulamentares que lhe sejam supervenientes, desde que tais obras não se configurem como obras de ampliação e não agravem a desconformidade com as normas em vigor.
+
+Por esta via se dá um passo importante na recuperação do património construído, já que, sem impor um sacrifício desproporcional aos proprietários, o regime proposto permite a realização de um conjunto de obras susceptíveis de melhorar as condições de segurança e salubridade das construções existentes.
+
+A realização de uma vistoria prévia à utilização das edificações volta a constituir a regra geral nos casos de obras sujeitas a mera autorização, em virtude da menor intensidade do controlo prévio a que as mesmas foram sujeitas.
+
+Porém, mesmo nesses casos é possível dispensar a realização daquela vistoria prévia, desde que no decurso da sua execução a obra tenha sido inspeccionada ou vistoriada pelo menos uma vez.
+
+Manifesta-se, aqui, uma clara opção pelo reforço da fiscalização em detrimento do controlo prévio, na expectativa de que este regime constitua um incentivo à reestruturação e modernização dos serviços municipais de fiscalização de obras.
+
+Para além da definição das condições legais do início dos trabalhos, em conjugação com o novo regime de garantias dos particulares, estabelece-se um conjunto de regras que acompanham todas as fases da execução de uma operação urbanística.
+
+No que respeita à utilização e conservação do edificado, foram recuperadas e actualizadas disposições dispersas por diversos diplomas legais, designadamente o Regulamento Geral das Edificações Urbanas e a Lei das Autarquias Locais, obtendo-se assim um ganho de sistematização e de articulação das normas respeitantes às tradicionais atribuições municipais de polícia das edificações com as relativas aos seus poderes de tutela da legalidade urbanística.
+
+No domínio da fiscalização da execução das operações urbanísticas estabelece-se uma distinção clara entre as acções de verificação do cumprimento das disposições legais e regulamentares aplicáveis e de repressão das infracções cometidas, distinguindo neste último caso as sanções propriamente ditas das medidas de tutela da legalidade urbanística.
+
+Quanto a estas medidas, e porque a sua função é única e exclusivamente a de reintegrar a legalidade urbanística violada, estabelece-se um regime que, sem diminuir a intensidade dos poderes atribuídos às entidades fiscalizadoras, submete o seu exercício ao cumprimento estrito do princípio da proporcionalidade.
+
+Merece especial destaque a este propósito o reconhecimento da natureza provisória do embargo de obras, cuja função é a de acautelar a utilidade das medidas que, a título definitivo, reintegrem a legalidade urbanística violada, incluindo nestas o licenciamento ou autorização da obra.
+
+Procura-se assim evitar o prolongamento indefinido da vigência de ordens de embargo que, a pretexto da prossecução do interesse público, consolidam situações de facto que se revelam ainda mais prejudiciais ao ambiente e à qualidade de vida dos cidadãos do que aquelas que o próprio embargo procurava evitar.
+
+Em matéria de garantias, procede-se à alteração da função do deferimento tácito nas operações urbanísticas sujeitas a licenciamento, sem que daí advenha qualquer prejuízo para os direitos dos particulares.
+
+Com efeito, na sequência da revisão do artigo 268.º da CRP propõe-se a substituição da intimação judicial para a emissão do alvará pela intimação judicial para a prática de acto legalmente devido como instrumento privilegiado de protecção jurisdicional.
+
+Significa isto que deixa de ser necessário ficcionar a existência de um acto tácito de deferimento do projecto para permitir o recurso do requerente aos tribunais para a obtenção de uma intimação judicial para a emissão do alvará.
+
+O particular pode agora recorrer aos tribunais no primeiro momento em que se verificar o silêncio da Administração, já não lhe sendo exigível que percorra todas as fases do procedimento com base em sucessivos actos de deferimento tácito, com os riscos daí inerentes.
+
+E, se o silêncio da Administração só se verificar no momento da emissão do alvará, o particular dispõe do mesmo mecanismo para obter uma intimação para a sua emissão.
+
+O deferimento tácito tem, assim, a sua função restrita às operações sujeitas a mera autorização, o que também é reflexo da maior concretização da posição jurídica do particular e da consequente menor intensidade do controlo prévio da sua actividade.
+
+Diferentemente do que acontece hoje, porém, nestes casos o particular fica dispensado de recorrer aos tribunais, podendo dar início à execução da sua operação urbanística sem a prévia emissão do respectivo alvará desde que se mostrem pagas as taxas urbanísticas devidas.
+
+Propõe-se igualmente um novo regime das taxas urbanísticas devidas pela realização de operações urbanísticas, no sentido de terminar com a polémica sobre se no licenciamento de obras particulares pode ou não ser cobrada a taxa pela realização, manutenção e reforço das infra-estruturas urbanísticas actualmente prevista no artigo 19.º, alínea a), da Lei das Finanças Locais, clarificando-se que a realização daquelas obras está sujeita ao pagamento da aludida taxa, sempre que pela sua natureza impliquem um acréscimo dos encargos públicos de realização, manutenção e reforço das infra-estruturas e serviços gerais do município equivalente ou até mesmo superior ao que resulta do licenciamento de uma operação de loteamento urbano.
+
+Sujeita-se, assim, a realização de obras de construção e de ampliação ao pagamento daquela taxa, excepto se as mesmas se situarem no âmbito de uma operação de loteamento urbano onde aquelas taxas já tenham sido pagas.
+
+Desta forma se alcança uma solução que, sem implicar com o equilíbrio precário das finanças municipais, distingue de forma equitativa o regime tributário da realização de obras de construção em função da sua natureza e finalidade.
+
+Pelas mesmas razões, se prevê que os regulamentos municipais de taxas possam e devam distinguir o montante das taxas devidas, não apenas em função das necessidades concretas de infra-estruturas e serviços gerais do município, justificadas no respectivo programa plurianual de investimentos, como também em função dos usos e tipologias das edificações e, eventualmente, da respectiva localização.
+
+Tendo sido ouvida a Associação Nacional de Municípios Portugueses, foram ouvidos os órgãos de Governo próprio dos Regiões Autónomas.
+
+Assim, no uso da autorização legislativa concedida pelo artigo 1.º da Lei n.º 110/99, de 3 de Agosto, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Artigo 4.º, Lei n.º 30-A/2000 - Diário da República n.º 292/2000, 2º Suplemento, Série I-A de 2000-12-20](https://diariodarepublica.pt/dr/detalhe/lei/30-a-2000-315499) A suspensão da vigência do Decreto-Lei n.º 555/99, de 16 de Dezembro, prevista no n.º 1 do artigo 1.º da Lei n.º 13/2000, de 20 de Julho, é prorrogada até à entrada em vigor do decreto-lei a emitir ao abrigo da presente autorização legislativa.
+
+> Nota: [Lei n.º 13/2000 - Diário da República n.º 166/2000, Série I-A de 2000-07-20](https://diariodarepublica.pt/dr/detalhe/lei/13-2000-321281) É suspensa a vigência do Decreto-Lei n.º 555/99, de 16 de dezembro, até ao dia 31 de dezembro de 2000.
+
+### Capítulo I — Disposições preliminares
+
+###### Artigo 1.º — Objecto
+
+O presente diploma estabelece o regime jurídico da urbanização e da edificação.
+
+###### Artigo 1.º-A — Construção modular
+
+O presente diploma é ainda aplicável à construção modular de carácter permanente, que é caracterizada por utilizar elementos ou sistemas construtivos modulares, estruturais ou não estruturais, parcial ou totalmente produzidos em fábrica, previamente ligados entre si ou no local de implantação, independentemente da sua natureza amovível ou transportável.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente diploma, entende-se por:
+
+a) «Edificação», a atividade ou o resultado da construção, reconstrução, ampliação, alteração ou conservação de um imóvel destinado a utilização humana, bem como de qualquer outra construção que se incorpore no território com carácter de permanência, independentemente do sistema construtivo;
+
+b) «Obras de construção» as obras de criação de novas edificações;
+
+c) «Obras de reconstrução», as obras de construção subsequentes à demolição, total ou parcial, de uma edificação existente, de acordo com o seu último antecedente válido, das quais resulte a reconstituição da composição formal de todas as fachadas no que diz respeito às suas dimensões e às relações entre vãos, à manutenção dos corpos balançados e recuados, e da cobertura, sem prejuízo de alterações dos materiais da estrutura e de modificações que decorram de correções construtivas que se revelem estritamente necessárias para a melhoria da segurança e salubridade do edifício;
+
+d) «Obras de alteração», as obras de que resulte a modificação das características físicas ou estéticas de uma edificação existente, ou sua fração, designadamente a respetiva estrutura resistente, o número de fogos ou divisões interiores, ou a natureza e cor dos materiais de revestimento exterior, nos quais se incluem as portas e janelas, sem aumento da área total de construção, da área de implantação, da altura da fachada, ou da altura ou volume de uma edificação existente;
+
+e) «Obras de ampliação», as obras de que resulte o aumento da área de implantação, da área total de construção, da altura da fachada ou da altura ou volume de uma edificação existente;
+
+f) «Obras de conservação» as obras destinadas a manter uma edificação nas condições existentes à data da sua construção, reconstrução, ampliação ou alteração, designadamente as obras de restauro, reparação ou limpeza;
+
+g) «Obras de demolição» as obras de destruição, total ou parcial, de uma edificação existente;
+
+h) «Obras de urbanização» as obras de criação e remodelação de infra-estruturas destinadas a servir directamente os espaços urbanos ou as edificações, designadamente arruamentos viários e pedonais, redes de esgotos e de abastecimento de água, electricidade, gás e telecomunicações, e ainda espaços verdes e outros espaços de utilização colectiva;
+
+i) «Operações de loteamento» as acções que tenham por objecto ou por efeito a constituição de um ou mais lotes destinados, imediata ou subsequentemente, à edificação urbana e que resulte da divisão de um ou vários prédios ou do seu reparcelamento;
+
+j) «Operações urbanísticas», as operações materiais mencionadas nas alíneas anteriores, bem como as operações de loteamento e a utilização dos edifícios, das frações ou do solo desde que, neste último caso, para fins não exclusivamente agrícolas, pecuários, florestais, mineiros ou de abastecimento público de água;
+
+l) «Obras de escassa relevância urbanística», as obras ou instalações técnicas que, pela sua natureza, dimensão ou localização tenham escasso impacte urbanístico;
+
+m) «Trabalhos de remodelação dos terrenos» as operações urbanísticas não compreendidas nas alíneas anteriores que impliquem a destruição do revestimento vegetal, a alteração do relevo natural e das camadas de solo arável ou o derrube de árvores de alto porte ou em maciço para fins não exclusivamente agrícolas, pecuários, florestais ou mineiros;
+
+n) (Revogada.)
+
+o) «Zona urbana consolidada» a zona caracterizada por uma densidade de ocupação que permite identificar uma malha ou estrutura urbana já definida, onde existem as infra-estruturas essenciais e onde se encontram definidos os alinhamentos dos planos marginais por edificações em continuidade;
+
+p) «Arrendamento forçado», o arrendamento de edifícios ou frações autónomas, assumido por uma entidade administrativa, pelo prazo estritamente necessário para o efeito, com o objetivo de garantir o ressarcimento das despesas incorridas com a realização de obras coercivas, através do recebimento das rendas relativas a contrato previamente existente à intervenção que se mantenha em vigor ou, quando este não exista ou tenha cessado a sua vigência, pela celebração de novo contrato.
+
+q) «Encargos devidos», as cauções, as compensações e demais pagamentos devidos para além das taxas, consoante a operação urbanística a realizar, nos termos das disposições legais e regulamentares aplicáveis;
+
+r) «Último antecedente válido», a última operação urbanística válida e eficaz ou a operação urbanística que, à data da sua execução, não carecia de título para o efeito nos termos da legislação em vigor.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2019 - Diário da República n.º 97/2019, Série I de 2019-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2019-122349220), em vigor a partir de 2019-06-20.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 3.º — Regulamentos municipais
+
+1 - No exercício do seu poder regulamentar próprio, os municípios aprovam regulamentos municipais de urbanização e ou de edificação, bem como regulamentos relativos ao lançamento e liquidação das taxas e prestação de caução que, nos termos da lei, sejam devidas pela realização de operações urbanísticas.
+
+2 - Sem prejuízo do disposto no número anterior, os regulamentos previstos no presente artigo devem ainda assegurar a concretização do presente diploma nas seguintes matérias:
+
+a) Concretizar quais as obras de escassa relevância urbanística para efeitos de delimitação das situações isentas de controlo prévio;
+
+b) Pormenorizar e concretizar, sempre que possível, os aspetos que envolvam a formulação de valorações próprias do exercício da função administrativa previstos em lei ou plano territorial, em especial os morfológicos e estéticos a que devem obedecer as operações urbanísticas;
+
+c) Disciplinar os aspetos relativos ao projeto, execução, receção e conservação das obras e serviços de urbanização e fixar critérios morfológicos e estéticos a que os projetos devam conformar-se;
+
+d) Disciplinar os aspetos relativos à segurança, funcionalidade, economia, harmonia e equilíbrio socioambiental, estética, qualidade, conservação e utilização dos edifícios, suas frações e demais construções e instalações;
+
+e) Fixar os critérios e trâmites do reconhecimento de que as edificações construídas se conformam com as regras em vigor à data da sua construção, assim como do licenciamento ou comunicação prévia de obras que sobre elas incidiram para efeitos da aplicação do regime da garantia das edificações existentes;
+
+f) Fixar os montantes das taxas a cobrar, bem como o valor ou fórmula de cálculo da caução para garantia da obra e das compensações urbanísticas;
+
+g) Indicar a instituição e o número de identificação da conta bancária do município onde é possível efetuar o depósito dos montantes das taxas, cauções e compensações urbanísticas devidas e identificar o órgão à ordem do qual deve ser efetuado o pagamento, sem prejuízo da possibilidade de pagamento por documento único de cobrança, com recurso à Plataforma de Pagamentos da Administração Pública (PPAP);
+
+h) [Revogada.]
+
+i) Determinar quais os atos e operações que devem estar submetidos a discussão pública, designadamente, concretizar as operações de loteamento com significativa relevância urbanística e definir os termos do procedimento da sua discussão;
+
+j) Regular outros aspetos relativos à urbanização e edificação cuja disciplina não esteja reservada por lei a instrumentos de gestão territorial, desde que não sejam de natureza procedimental ou instrutória, podendo dispensar o envio de elementos instrutórios;
+
+k) Definir as condições e os prazos máximos a observar na execução de operações urbanísticas;
+
+l) Concretizar as características das operações urbanísticas de impacte relevante ou semelhante a loteamento;
+
+m) Definir os procedimentos aplicáveis à legalização de operações urbanísticas.
+
+3 - Os regulamentos previstos no presente artigo não podem:
+
+a) Estabelecer regras de natureza procedimental, exceto nas situações em que a lei remeta a concretização dos respetivos procedimentos para regulamento municipal;
+
+b) Estabelecer regras de carácter instrutório, para além das legalmente previstas, designadamente em matéria de reconhecimento, autenticação ou certificação dos representantes dos requerentes;
+
+c) Determinar a entrega de elementos ou documentos não previstos em portaria dos membros do Governo responsáveis pelas áreas das autarquias locais e ordenamento do território, da reforma do Estado e da construção, ou na legislação aplicável;
+
+d) Determinar a entrega de elementos, como seja o envio de telas finais ou quaisquer outros documentos, quando tal não se encontre legalmente previsto;
+
+e) Prever poderes de cognição para a câmara municipal para além dos previstos nos artigos 20.º e 21.º;
+
+f) [Revogada.]
+
+4 - Os projetos dos regulamentos referidos no presente artigo são submetidos a discussão pública, por prazo não inferior a 30 dias, antes da sua aprovação pelos órgãos municipais.
+
+5 - Os regulamentos referidos no presente artigo são objeto de publicação na 2.ª série do Diário da República, sem prejuízo das demais formas de publicidade previstas na lei.
+
+6 - São nulas as normas dos regulamentos previstos no presente artigo, na parte em que disponham sobre matérias referidas no n.º 3.
+
+7 - O Diário da República, através do seu portal ou, quando exista, através de sistema de informação de legislação temática, disponibiliza, de forma sistematizada e por município, os regulamentos urbanísticos aprovados ao abrigo do presente artigo.
+
+> Retificado pelo/a [Declaração de Retificação n.º 29-A/2026/1 - Diário da República n.º 143/2026, Suplemento, Série I de 2026-07-27](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/29-a-2026-1152696606), com efeitos a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+### Capítulo II — Licenciamento e comunicação prévia de operações urbanísticas
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+#### Secção I — Âmbito e competência
+
+###### Artigo 4.º — Licença, comunicação prévia e comunicação prévia com prazo
+
+1 - A realização de operações urbanísticas depende, nos termos e com as exceções constantes da presente secção, de:
+
+a) Licença;
+
+b) Mera comunicação prévia, doravante designada por comunicação prévia ou comunicação;
+
+c) Comunicação prévia com prazo.
+
+2 - Estão sujeitas a licença:
+
+a) As operações de loteamento que não se encontrem sujeitas a comunicação prévia, nos termos da alínea b) do n.º 4;
+
+b) As obras de urbanização e os trabalhos de remodelação de terrenos que não se encontrem sujeitos a comunicação prévia, nos termos da alínea c) do n.º 4;
+
+c) As obras de construção, de alteração ou de ampliação que não se encontrem sujeitas a comunicação prévia, nos termos da alínea d) do n.º 4;
+
+d) As obras de conservação, reconstrução, ampliação, alteração ou demolição de imóveis classificados ou em vias de classificação, bem como de imóveis integrados em conjuntos ou sítios classificados ou em vias de classificação, e as obras de construção, ampliação, alteração exterior ou demolição de imóveis situados em zonas de proteção de imóveis classificados ou em vias de classificação, salvo nos casos previstos na alínea l) do n.º 4;
+
+e) [Revogada.]
+
+f) As obras de demolição de edificações que não se encontrem integradas em obra de reconstrução;
+
+g) [Revogada.]
+
+h) As obras de construção, alteração, ampliação ou demolição de imóveis em áreas sujeitas a servidão administrativa ou restrição de utilidade pública, caso essas condicionantes não se encontrem previstas em plano de pormenor, operação de loteamento ou unidade de execução, sem prejuízo do disposto em legislação especial;
+
+i) Operações urbanísticas das quais resulte a remoção de azulejos de fachada, independentemente da sua confrontação com a via pública ou logradouros;
+
+j) [Revogada.]
+
+3 - (Revogado.)
+
+4 - Estão sujeitas a comunicação prévia as seguintes operações urbanísticas:
+
+a) [Revogada.]
+
+b) As operações de loteamento em área abrangida por:
+
+i) Plano de pormenor que defina o desenho urbano e as parcelas ou lotes, os alinhamentos, o polígono de base para a implantação de edificações, a altura total das edificações ou a altura das fachadas, o número de pisos e o número máximo de fogos, a área de construção e respetivos usos, a demolição e manutenção ou reabilitação das edificações existentes bem como a especificação das parcelas a ceder para o domínio municipal e a respetiva finalidade; ou
+
+ii) Unidade de execução que defina o desenho urbano e as parcelas ou lotes, os alinhamentos, o polígono de base para a implantação de edificações, a área de construção e respetivos usos, o número máximo de fogos e a programação das obras de urbanização.
+
+c) As obras de urbanização e os trabalhos de remodelação de terrenos em área abrangida por:
+
+i) Operação de loteamento que defina a implantação das obras de urbanização; ou
+
+ii) Plano de pormenor ou unidade de execução que definam a implantação e programação de obras de urbanização.
+
+d) As obras de construção, de alteração, de ampliação ou de demolição em área abrangida por:
+
+i) Plano de pormenor, que defina os alinhamentos e o polígono de base para a implantação de edificações, a altura total das edificações ou a altura das fachadas, o número de pisos e o número máximo de fogos, a área de construção e respetivos usos, e a demolição e manutenção ou reabilitação das edificações existentes; ou
+
+ii) Unidade de execução que defina os alinhamentos e o polígono de base para a implantação de edificações, a altura total das edificações ou a altura das fachadas, o número de pisos e o número máximo de fogos, a área de construção e respetivos usos; ou
+
+iii) Operação de loteamento que defina os alinhamentos e o polígono de base para a implantação de edificações, a altura total das edificações ou a altura das fachadas, o número de pisos e o número máximo de fogos, a área de construção e respetivos usos.
+
+e) As obras de construção, de alteração ou de ampliação em zona urbana consolidada que respeitem os planos municipais ou intermunicipais e das quais não resulte edificação com altura superior à altura mais frequente das fachadas da frente edificada do lado do arruamento onde se integra a nova edificação, no troço de rua compreendido entre as duas transversais mais próximas, para um lado e para o outro e que não sejam sujeitas a cedências;
+
+f) [Revogada.]
+
+g) [Revogada.]
+
+h) [Revogada.]
+
+i) [Revogada.]
+
+j) A edificação de piscinas associadas a edificação principal;
+
+k) A utilização ou alteração de uso de edifício ou fração após a realização de obra submetida a procedimento de licenciamento, comunicação prévia ou informação prévia favorável que contemple todos os elementos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º, nos termos do disposto no artigo 62.º-A;
+
+l) As operações urbanísticas previstas na alínea d) do n.º 2, quando precedidas de informação prévia favorável válida e eficaz emitida nos termos do n.º 2 do artigo 14.º, que contemple todos os elementos previstos nas respetivas alíneas a) a f) que sejam aplicáveis à operação pretendida;
+
+5 - Estão sujeitas a comunicação prévia com prazo a utilização e a alteração de uso de edifícios ou suas frações que não sejam precedidas de obras sujeitas a licença, comunicação prévia ou informação prévia favorável que contemple todos os elementos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º, nos termos do disposto no artigo 62.º-B.
+
+6 - Nas operações urbanísticas sujeitas a comunicação prévia o interessado não pode optar pelo licenciamento.
+
+7 - Nas operações urbanísticas sujeitas a licença, o pedido de ocupação da via pública pode ser integrado no mesmo requerimento, desde que este se encontre devidamente instruído com todos os elementos necessários à luz dos regulamentos municipais aplicáveis, o qual fica sujeito aos prazos de deferimento tácito da operação urbanística, para o efeito do disposto no artigo 26.º
+
+8 - Nos casos previstos no número anterior, a permissão para a ocupação da via pública é integrada na licença aplicável à operação urbanística, sendo as taxas pagas nesta sede.
+
+9 - Para efeitos do disposto na alínea c) do n.º 4, considera-se que o plano de pormenor ou a unidade de execução dispõem de programação das obras de urbanização quando a sua delimitação contemple:
+
+a) Obras de urbanização a executar, incluindo a ligação às infraestruturas gerais, e respetivos prazos de execução; e
+
+b) Áreas de cedência destinadas à implantação de espaços verdes, equipamentos de utilização coletiva e infraestruturas viárias; e
+
+c) Estimativa dos custos com as obras de urbanização;
+
+d) Calendarização das obras de urbanização e das obras de edificação.
+
+10 - Nos empreendimentos turísticos regidos pelo Decreto-Lei n.º 39/2008, de 7 de março, consideram-se abrangidas pela licença ou comunicação prévia de construção as obras de criação e remodelação de infraestruturas destinadas a servir as edificações, não carecendo, para o efeito, de licença ou comunicação prévia relativa a obras de urbanização.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2019 - Diário da República n.º 97/2019, Série I de 2019-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2019-122349220), em vigor a partir de 2019-06-20.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02.
+
+###### Artigo 4.º-A — Títulos urbanísticos
+
+1 - São aprovados, por portaria dos membros do Governo responsáveis pelas áreas da reforma do Estado e da construção, os modelos de requerimento de emissão de licença e de informação prévia, os modelos de comunicação prévia e de comunicação prévia com prazo a preencher pelos interessados, os quais integram a síntese da operação urbanística e são de utilização obrigatória ao abrigo do presente diploma.
+
+2 - A licença é titulada, para todos os efeitos legais, pelo comprovativo do pagamento das taxas e demais encargos devidos, pelo último requerimento entregue, devidamente preenchido, que contém a síntese da operação urbanística, e:
+
+a) Pela notificação do seu deferimento, caso este seja expresso;
+
+b) Pelo comprovativo da submissão, em caso de deferimento tácito.
+
+3 - Qualquer requerimento apresentado pelo interessado no âmbito do procedimento de licenciamento implica a atualização da síntese da operação urbanística.
+
+4 - A comunicação prévia e a comunicação prévia com prazo são tituladas, para todos os efeitos legais, pelo comprovativo do pagamento das taxas e demais encargos devidos, e por:
+
+a) Modelo da comunicação prévia devidamente preenchido e comprovativo da sua submissão; ou
+
+b) Modelo da comunicação prévia com prazo, devidamente preenchido e comprovativo da sua submissão, nos casos em que não tenha havido pronúncia por parte da câmara municipal ou não se tenha realizado a vistoria; ou
+
+c) Modelo da comunicação prévia com prazo devidamente preenchido e comprovativo da sua submissão, acompanhado da declaração de conformidade.
+
+5 - No caso das operações urbanísticas sujeitas a cedências, o título da licença, da comunicação prévia e da comunicação prévia com prazo previstas nos n.ºs 2 e 4 inclui ainda o comprovativo das cedências efetuadas, quando haja lugar à sua realização, nos termos do n.º 3 do artigo 44.º
+
+6 - É da responsabilidade do interessado o correto preenchimento e instrução dos requerimentos e comunicações submetidas, nos termos do disposto nas portarias previstas no n.º 1 do presente artigo e no n.º 4 do artigo 9.º
+
+7 - As operações urbanísticas que disponham de licença ou comunicação prévia eficazes devem ser objeto de publicitação pelo proprietário ou o diretor de obra, no prazo de 10 dias a contar do pagamento das taxas e demais encargos devidos, mediante a atualização do aviso previsto no artigo 12.º com a inclusão do prazo de execução da obra.
+
+8 - Os títulos relativos a operação de loteamento ou a obra de edificação com impacte urbanístico relevante ou similar a loteamento devem ainda ser publicitados pela câmara municipal, no prazo estabelecido no número anterior, através da página da Internet do município e de aviso em boletim municipal ou, quando este não exista, através de edital a afixar nos paços do concelho e nas sedes das juntas de freguesia abrangidas.
+
+9 - A operação de loteamento define os parâmetros urbanísticos a observar pelas demais operações a realizar na respetiva área e é objeto de inscrição obrigatória no registo predial dos prédios abrangidos, nos termos previstos no Código do Registo Predial, aprovado pelo Decreto-Lei n.º 224/84, de 6 de julho.
+
+10 - A câmara municipal comunica à conservatória do registo predial, para efeitos de anotação à descrição ou de cancelamento oficioso do registo, os atos que:
+
+a) Declarem a invalidade, a caducidade ou a revogação da licença ou da informação prévia favorável, que contemple todos os elementos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º referentes a operações de loteamento;
+
+b) Declarem a ineptidão ou a caducidade da comunicação prévia referente a operações de loteamento e inviabilizem a realização das mesmas.
+
+11 - A comunicação referida no número anterior deve especificar, no caso de caducidade da licença, da comunicação prévia ou da informação prévia favorável que contemple todos os elementos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º, os lotes e parcelas que se encontrem nas condições referidas nas alíneas a) e b) do n.º 7 do artigo 71.º
+
+12 - Em caso de substituição do titular, o substituto deve disso fazer prova junto do presidente da câmara municipal para que este proceda ao respetivo averbamento no prazo de 15 dias a contar da data da substituição.
+
+13 - O título de utilização de edifícios ou frações autónomas é transmitido automaticamente com a propriedade a que respeita.
+
+14 - Na realização de negócios jurídicos que envolvam a transmissão de terrenos para construção urbana, de edificações já construídas ou em construção, ou das suas frações autónomas, deve o conservador, o notário, o advogado, o solicitador ou outra entidade legalmente competente, sob pena de anulabilidade do negócio jurídico, fazer menção no documento que o titula:
+
+a) À existência do título urbanístico correspondente, quando lhe seja apresentado;
+
+b) À declaração do transmitente de que dispõe do título urbanístico correspondente, quando este não lhe seja apresentado;
+
+c) À declaração do transmitente de que não dispõe de título urbanístico.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+###### Artigo 5.º — Competência
+
+1 - A concessão da licença prevista no n.º 2 do artigo 4.º é da competência da câmara municipal, com faculdade de delegação no presidente e de subdelegação nos vereadores e nos dirigentes dos serviços municipais.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - A aprovação da informação prévia regulada no presente diploma é da competência da câmara municipal, podendo ser delegada no seu presidente, com faculdade de subdelegação nos vereadores e nos dirigentes dos serviços municipais.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 6.º — Isenção de licença e comunicação prévia
+
+1 - Sem prejuízo do disposto na alínea d) do n.º 2 do artigo 4.º e do previsto em legislação especial, estão isentas de licença e de comunicação prévia:
+
+a) As obras de conservação;
+
+b) As obras de alteração no interior de edifícios ou frações que:
+
+i) Não impliquem modificações exteriores com impacto nas características físicas ou estéticas da edificação, designadamente das alturas, fachadas, telhados ou coberturas; e
+
+ii) Não afetem a estabilidade do edifício ou, quando impliquem uma intervenção na estabilidade do edifício, sejam acompanhadas de projeto de estabilidade e termo de responsabilidade elaborado por técnico habilitado, de acordo com a legislação em vigor, no qual deve declarar que as obras, consideradas na sua globalidade, melhoram ou não prejudicam a estrutura de estabilidade face à situação em que o imóvel se encontra antes das obras, bem como projeto de reforço sísmico, quando exigível nos termos da lei, a entregar, para efeitos de mero depósito, em conjunto com a informação sobre o início dos trabalhos, prevista no artigo 80.º-A;
+
+c) As obras de escassa relevância urbanística;
+
+d) Os destaques referidos nos n.ºs 4 e 5 do presente artigo;
+
+e) As obras de reconstrução de edifícios ou frações;
+
+f) [Revogada.]
+
+g) As obras necessárias para cumprimento da determinação prevista nos n.ºs 2 e 3 do artigo 89.º, limitando-se àquelas que forem especificadas na intimação emitida;
+
+h) As operações urbanísticas precedidas de informação prévia favorável que contemple todos os elementos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º que sejam aplicáveis à operação pretendida, com exceção da utilização ou da alteração de uso;
+
+i) As obras de demolição quando as edificações sejam ilegais;
+
+j) [Revogada.]
+
+k) As obras de conservação de imóveis classificados ou em vias de classificação, bem como de imóveis integrados em conjuntos ou sítios classificados ou em vias de classificação, quando tenham sido objeto de parecer favorável da entidade competente ao abrigo da legislação do património cultural, o qual é entregue com a informação sobre o início de trabalhos, prevista no artigo 80.º-A.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - Os atos que tenham por efeito o destaque de uma única parcela de prédio com descrição predial que se situe em perímetro urbano ou em aglomerado rural delimitado em plano municipal de ordenamento do território estão isentos de licença ou comunicação prévia desde que as duas parcelas resultantes do destaque confrontem com arruamentos públicos.
+
+5 - Nas áreas situadas fora dos perímetros urbanos e dos aglomerados rurais delimitados em plano municipal de ordenamento do território, os atos a que se refere o número anterior estão isentos de licença ou comunicação prévia quando, cumulativamente, se mostrem cumpridas as seguintes condições:
+
+a) Na parcela destacada só seja construído edifício que se destine exclusivamente a fins habitacionais e que não tenha mais de dois fogos;
+
+b) Na parcela restante se respeite a área mínima fixada no projecto de intervenção em espaço rural em vigor ou, quando aquele não exista, a área de unidade de cultura fixada nos termos da lei geral para a região respectiva.
+
+6 - Nos casos referidos nos n.ºs 4 e 5 não é permitido efectuar na área correspondente ao prédio originário novo destaque nos termos aí referidos por um prazo de 10 anos contados da data do destaque anterior.
+
+7 - O condicionamento da construção bem como o ónus do não fraccionamento previstos nos n.ºs 5 e 6 devem ser inscritos no registo predial sobre as parcelas resultantes do destaque, sem o que não pode ser licenciada ou comunicada qualquer obra de construção nessas parcelas.
+
+8 - O disposto no presente artigo não isenta a realização das operações urbanísticas nele previstas da observância das normas legais e regulamentares aplicáveis, designadamente as constantes de planos municipais ou intermunicipais, de servidões ou restrições de utilidade pública, as normas técnicas de construção e as de proteção do património cultural imóvel, podendo sempre ser objeto de fiscalização nos termos previstos nos artigos 93.º e seguintes.
+
+9 - A certidão emitida pela câmara municipal, comprovativa da verificação dos requisitos do destaque, constitui documento bastante para efeitos de registo predial da parcela destacada.
+
+10 - Os actos que tenham por efeito o destaque de parcela com descrição predial que se situe em perímetro urbano e fora deste devem observar o disposto nos n.ºs 4 ou 5, consoante a localização da parcela a destacar, ou, se também ela se situar em perímetro urbano e fora deste, consoante a localização da área maior.
+
+11 - (Revogado.)
+
+12 - As operações urbanísticas previstas no presente artigo estão sujeitas à informação sobre o início dos trabalhos, nos termos do artigo 80.º-A.
+
+13 - As operações urbanísticas previstas no presente artigo podem estar sujeitas à realização de cedências, a formalizar nos termos do n.º 3 do artigo 44.º, quando sejam de loteamento ou de impacte relevante ou semelhante a loteamento nos termos previstos nos regulamentos municipais, e ainda à prestação da caução prevista no artigo 54.º e ao pagamento das taxas e demais encargos devidos, antes da informação sobre o início dos trabalhos, nos termos do artigo 80.º-A, ou do registo predial da operação, se for caso disso.
+
+14 - Nas operações urbanísticas que incluam, simultaneamente, obras sujeitas a licença ou comunicação prévia e obras isentas, o cumprimento das formalidades aplicáveis às primeiras não prejudica nem impede a realização das obras isentas, desde que estas respeitem integralmente as normas legais e regulamentares aplicáveis.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-01-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 79/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/79-2017-108016474), em vigor a partir de 2017-08-19.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02.
+
+###### Artigo 6.º-A — Obras de escassa relevância urbanística
+
+1 - São obras de escassa relevância urbanística:
+
+a) As edificações, contíguas ou não, ao edifício principal com altura não superior a 2,2 m ou, em alternativa, à cércea do rés-do-chão do edifício principal com área igual ou inferior a 10 m2 e que não confinem com a via pública;
+
+b) A edificação de muros de vedação até 1,8 m de altura que não confinem com a via pública e de muros de suporte de terras até uma altura de 2 m ou que não alterem significativamente a topografia dos terrenos existentes;
+
+c) A edificação de estufas de jardim com altura inferior a 3 m e área igual ou inferior a 20 m2;
+
+d) As pequenas obras de arranjo e melhoramento da área envolvente das edificações que não afectem área do domínio público;
+
+e) A edificação de equipamento lúdico ou de lazer associado a edificação principal com área inferior à desta última;
+
+f) A demolição das edificações referidas nas alíneas anteriores;
+
+g) A instalação de painéis solares fotovoltaicos ou geradores eólicos associada a edificação principal, para produção de energias renováveis, incluindo de microprodução, que não excedam, no primeiro caso, a área de cobertura da edificação e a altura desta em 1 m, e, no segundo, a altura da mesma em 4 m e que o equipamento gerador não tenha raio superior a 1,5 m, bem como de unidades de armazenamento de energia e coletores solares térmicos para aquecimento de águas sanitárias que não excedam os limites previstos para os painéis solares fotovoltaicos, e desde que o depósito ou unidade de armazenamento de água e energia seja ocultado;
+
+h) A substituição dos materiais de revestimento exterior ou de cobertura ou telhado por outros que, conferindo acabamento exterior idêntico ao original, promovam a eficiência energética;
+
+i) Outras obras, como tal qualificadas em regulamento municipal;
+
+j) A substituição dos caixilhos dos vãos por outros que promovam a eficiência energética, desde que mantida a geometria e a relação volumétrica dos diferentes componentes da caixilharia, conferindo acabamento exterior idêntico ao original, incluindo nos imóveis situados em zonas de proteção de imóveis classificados ou em vias de classificação.
+
+2 - Exceptuam-se do disposto no número anterior as obras e instalações em:
+
+a) Imóveis classificados ou em vias de classificação, de interesse nacional, de interesse público ou de interesse municipal;
+
+b) Imóveis situados em zonas de proteção de imóveis classificados ou em vias de classificação, sem prejuízo do disposto na alínea j) do n.º 1;
+
+c) Imóveis integrados em conjuntos ou sítios classificados ou em vias de classificação.
+
+3 - O regulamento municipal a que se refere a alínea i) do n.º 1 pode estabelecer limites além dos previstos nas alíneas a) a c) do mesmo número.
+
+4 - A descrição predial pode ser actualizada mediante declaração de realização de obras de escassa relevância urbanística nos termos do presente diploma.
+
+5 - A instalação de geradores eólicos referida na alínea g) do n.º 1 é precedida de notificação à câmara municipal.
+
+6 - A notificação prevista no número anterior destina-se a dar conhecimento à câmara municipal da instalação do equipamento e deve ser instruída com:
+
+a) A localização do equipamento;
+
+b) A cércea e raio do equipamento;
+
+c) O nível de ruído produzido pelo equipamento;
+
+d) Termo de responsabilidade onde o apresentante da notificação declare conhecer e cumprir as normas legais e regulamentares aplicáveis à instalação de geradores eólicos.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-01-01.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 7.º — Operações urbanísticas promovidas pela Administração Pública ou para fins de interesse público
+
+1 - Estão igualmente isentas de licença, comunicação prévia ou comunicação prévia com prazo:
+
+a) As operações urbanísticas promovidas pelas autarquias locais, suas associações e pelas empresas municipais ou intermunicipais, em área abrangida por plano municipal ou intermunicipal de ordenamento do território;
+
+b) As operações urbanísticas promovidas pelo Estado, pelos institutos públicos, incluindo fundos de investimento imobiliário públicos, universidades e politécnicos e pelas empresas públicas do setor empresarial do Estado e regional, destinadas a:
+
+i) Instalação de serviços públicos;
+
+ii) Uso direto e imediato do público, sem prejuízo do disposto no n.º 4;
+
+iii) Áreas portuárias ou do domínio público ferroviário, aeroportuário ou hídrico na respetiva área de jurisdição e na prossecução das suas atribuições;
+
+iv) Habitação, incluindo alojamento urgente ou temporário, e equipamentos residenciais, bem como os respetivos usos complementares e os equipamentos públicos e infraestruturas associados;
+
+v) Parques industriais, empresariais ou de logística, e similares, nomeadamente zonas empresariais responsáveis (ZER), zonas industriais e de logística;
+
+vi) Instalação de equipamentos ou infraestruturas técnicas para salvaguarda do património cultural classificado;
+
+vii) (Revogada.)
+
+c) (Revogada.)
+
+d) (Revogada.)
+
+e) As operações urbanísticas promovidas por entidades concessionárias de obras ou serviços públicos, quando se reconduzam à prossecução do objeto da concessão;
+
+f) (Revogada.)
+
+g) As operações de loteamento, obras de urbanização ou edificação e os trabalhos de remodelação de terrenos promovidos por cooperativas de habitação e outras entidades privadas para fins de habitação e usos complementares, cujos parâmetros urbanísticos admissíveis devem fazer parte integrante do contrato de concessão ou de cedência de terreno celebrado com as entidades previstas nas alíneas a) ou b) na sequência de procedimento concursal;
+
+h) As obras de edificação e reabilitação respeitantes a estruturas residenciais para pessoas idosas, creches e no âmbito da Bolsa Nacional de Alojamento Urgente e Temporário quando tais obras tenham financiamento público e tenham obtido parecer favorável da entidade responsável pela regulação do exercício da respetiva atividade.
+
+2 - A execução das operações urbanísticas previstas no número anterior, com exceção das promovidas pelos municípios, fica sujeita a parecer prévio não vinculativo da câmara municipal, o qual deve ser emitido no prazo de 20 dias a contar da data da receção do respetivo pedido, sem prejuízo de poderem, em alternativa, ser objeto de pedido de informação prévia nos termos dos artigos 14.º e seguintes.
+
+3 - As operações de loteamento e as obras de urbanização promovidas pelas autarquias locais e suas associações em área não abrangida por plano municipal ou intermunicipal de ordenamento do território em vigor devem ser previamente autorizadas pela assembleia municipal, depois de submetidas a parecer prévio não vinculativo da Comissão de Coordenação e Desenvolvimento Regional (CCDR), a qual deve pronunciar-se no prazo de 20 dias a contar da receção do respetivo pedido.
+
+4 - As operações de loteamento e as obras de urbanização promovidas pelo Estado devem ser previamente autorizadas pelo ministro da tutela e pelo ministro responsável pelo ordenamento do território, depois de ouvida a câmara municipal, a qual se deve pronunciar no prazo de 20 dias após a recepção do respectivo pedido.
+
+5 - As operações de loteamento e as obras de urbanização isentas de licença ou comunicação prévia nos termos do presente artigo, promovidas em área não abrangida por plano de urbanização ou plano de pormenor, são submetidas a discussão pública, nos termos estabelecidos no artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, com as necessárias adaptações, exceto no que se refere aos períodos de anúncio e duração da discussão pública que são, respetivamente, de 8 e de 15 dias, suspendendo-se o prazo para emissão do parecer previsto no n.º 2 até ao termo da discussão pública.
+
+6 - A realização das operações urbanísticas previstas neste artigo deve observar as normas legais e regulamentares que lhes forem aplicáveis, designadamente as constantes de instrumento de gestão territorial, do regime jurídico de protecção do património cultural, do regime jurídico aplicável à gestão de resíduos de construção e demolição, e as normas técnicas de construção.
+
+7 - À realização das operações urbanísticas previstas no presente artigo aplica-se o disposto no presente diploma no que se refere ao termo de responsabilidade, à publicitação do início e do fim das operações urbanísticas, à informação sobre o início dos trabalhos, nos termos do artigo 80.º-A e, quando aplicável, às cedências e ao pagamento de taxas e demais encargos devidos, nos termos previstos nos regulamentos municipais referidos no artigo 3.º, que devem ser realizados antes da informação sobre o início dos trabalhos, ou do registo predial da operação, se for caso disso.
+
+8 - As operações urbanísticas previstas no presente artigo só podem iniciar-se depois de emitidos os pareceres ou autorizações referidas, ou após o decurso dos prazos fixados para a respetiva emissão, nos termos do disposto no n.º 3 do artigo 80.º
+
+9 - O pedido de parecer referido no n.º 2 deve ser acompanhado das peças escritas e desenhadas do projeto necessárias ao conhecimento da operação.
+
+> Nota: [Artigo 127.º, Lei n.º 5/2004 - Diário da República n.º 34/2004, Série I-A de 2004-02-10](https://diariodarepublica.pt/dr/detalhe/lei/5-2004-581061) A concessionária do serviço público de telecomunicações é excluída do âmbito de aplicação da alínea e) do n.º 1 do presente artigo.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-01-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+#### Secção II — Formas de procedimento
+
+##### Subsecção I — Disposições gerais
+
+###### Artigo 8.º — Procedimento
+
+1 - O licenciamento, a comunicação prévia, a comunicação prévia com prazo e a informação prévia das operações urbanísticas obedecem às formas de procedimento previstas na presente secção, devendo ainda ser observadas as condições especiais previstas na secção III do presente capítulo.
+
+2 - Sem prejuízo das competências do gestor de procedimento, a direcção da instrução do procedimento compete ao presidente da câmara municipal, podendo ser delegada nos vereadores, com faculdade de subdelegação nos dirigentes dos serviços municipais.
+
+3 - Cada procedimento é acompanhado por gestor de procedimento, a quem compete assegurar o normal desenvolvimento da tramitação processual, acompanhando, nomeadamente, a instrução, o cumprimento de prazos, a prestação de informação e os esclarecimentos aos interessados.
+
+4 - O comprovativo eletrónico de apresentação do requerimento de licença, pedido de informação prévia, comunicação prévia ou comunicação prévia com prazo contém a identificação do gestor do procedimento, bem como a indicação do local, do horário e da forma pelo qual o respetivo processo pode ser consultado.
+
+5 - Em caso de substituição do gestor de procedimento, é notificada ao interessado a identidade do novo gestor, bem como os elementos referidos no número anterior.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 8.º-A — Plataforma Eletrónica de Licenciamentos Urbanísticos
+
+1 - A tramitação dos procedimentos previstos no presente diploma é realizada obrigatoriamente de forma desmaterializada, através de plataforma eletrónica de licenciamentos urbanísticos, a partir da sua disponibilização e nos termos a regulamentar em portaria dos membros do Governo responsáveis pelas áreas da reforma do Estado, da construção, das autarquias locais e do ordenamento do território.
+
+2 - A plataforma eletrónica de licenciamentos urbanísticos deve garantir a interoperabilidade com os sistemas de informação dos municípios, podendo estes manter a utilização das suas plataformas, mas não acrescentar fases ou etapas procedimentais, formalidades ou documentos relativamente ao que estiver definido no presente diploma e nas portarias previstas nos artigos 4.º-A e 9.º
+
+3 - No caso de instalação ou alteração de estabelecimentos abrangidos pelo Decreto-Lei n.º 48/2011, de 1 de abril, alterado pelo Decreto-Lei n.º 141/2012, de 11 de julho, ou pelo Decreto-Lei n.º 169/2012, de 1 de agosto, que envolvam operações urbanísticas sujeitas aos procedimentos previstos no artigo 4.º do presente decreto-lei, tais procedimentos, bem como os documentos necessários à sua instrução, podem ser iniciados através do balcão eletrónico previsto nos referidos diplomas, adiante designado por «Balcão do Empreendedor».
+
+4 - A integração da plataforma eletrónica referida no n.º 1 com o balcão único eletrónico dos serviços a que se referem os artigos 5.º e 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, com o «Balcão do Empreendedor» e com todas as entidades externas com competências para intervir e se pronunciar no âmbito dos procedimentos regulados pelo presente diploma é regulada por portaria dos membros do Governo responsáveis pelas áreas da economia, da administração local, da modernização administrativa e do ordenamento do território, tendo em conta, na interoperabilidade com sistemas externos às integrações já presentes no SIRJUE, as plataformas já existentes na Administração Pública, nomeadamente a plataforma de interoperabilidade da administração pública e o previsto no regulamento nacional da interoperabilidade digital.
+
+5 - [Revogado.]
+
+6 - Nas situações de inexistência ou indisponibilidade do sistema informático, os procedimentos podem decorrer com recurso a outros suportes digitais, ou com recurso ao papel.
+
+7 - Nos casos previstos no número anterior, o processo administrativo ou os seus elementos entregues através de outros suportes digitais ou em papel são obrigatoriamente integrados no sistema informático pelos serviços requeridos, após a cessação da situação de inexistência ou indisponibilidade do sistema informático.
+
+8 - [Revogado.]
+
+9 - Nos casos previstos no n.º 2, sempre que os municípios optem pela utilização de plataformas próprias, devem assegurar que as mesmas são interoperáveis com outras plataformas de licenciamento do Estado, incluindo plataformas agregadoras.
+
+> Nota: [Artigo 26.º, Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484) A apresentação obrigatória do projeto de arquitetura de acordo com a metodologia BIM entra em vigor a 1 de janeiro de 2030.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 8.º-B — Realização de passos e formalidades procedimentais em simultâneo
+
+Sempre que tal contribua para a eficiência, economicidade ou celeridade do procedimento, o responsável pela direção do mesmo deve promover a realização em simultâneo de passos e fases do procedimento, evitando a realização sucessiva das mesmas.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+###### Artigo 9.º — Requerimento e instrução
+
+1 - Salvo disposição em contrário, os procedimentos previstos no presente diploma iniciam-se através de requerimento, comunicação prévia ou comunicação prévia com prazo, de acordo com os modelos previstos na portaria referida no artigo 4.º-A, apresentados com recurso a meios eletrónicos e através do sistema previsto no artigo 8.º-A.
+
+2 - [Revogado.]
+
+3 - Quando o pedido respeite a mais de um dos tipos de operações urbanísticas referidos no artigo 2.º diretamente relacionadas, o requerimento deve identificar todas as operações nele abrangidas, aplicando-se neste caso a forma de procedimento correspondente ao tipo de operação mais complexa.
+
+4 - O requerimento ou comunicação são acompanhados dos elementos instrutórios previstos em portaria dos membros do Governo responsáveis pelas áreas da reforma do Estado, da construção, das autarquias locais e do ordenamento do território.
+
+5 - [Revogado.]
+
+6 - Com a apresentação de requerimento ou comunicação, é emitido comprovativo.
+
+7 - No requerimento inicial ou por requerimento autónomo, pode o interessado solicitar a indicação das entidades que, nos termos da lei, devam emitir parecer, autorização ou aprovação relativamente à operação urbanística a realizar, sendo-lhe prestada tal informação no prazo de 15 dias, através do sistema informático a que se refere o artigo 8.º-A, sem prejuízo do disposto no artigo 121.º
+
+8 - O disposto no número anterior não se aplica nos casos de rejeição liminar do pedido, nos termos do disposto no artigo 11.º
+
+9 - O gestor do procedimento regista no processo a junção subsequente de quaisquer novos documentos e a data das consultas a entidades exteriores ao município e da recepção das respectivas respostas, quando for caso disso, bem como a data e o teor das decisões dos órgãos municipais.
+
+10 - A substituição do requerente ou comunicante, do titular do alvará, certificado de empreiteiro ou do título de registo emitidos pelo Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P. (IMPIC, I. P.), do autor do projeto, do coordenador de projeto, do diretor de obra ou do diretor de fiscalização de obra deve ser requerida ao presidente da câmara municipal, no prazo de 15 dias a contar da data da substituição, para que este proceda ao respetivo averbamento.
+
+11 - Cabe ao gestor do procedimento verificar a adequação das habilitações do titular do alvará, certificado de empreiteiro ou do título de registo emitidos pelo IMPIC, I. P., à natureza e à estimativa de custo da operação urbanística.
+
+12 - A portaria prevista no n.º 4 não pode prever como elementos instrutórios que devam acompanhar o pedido ou comunicação nem os municípios podem determinar a apresentação de:
+
+a) Formas de autenticação, de reconhecimento ou de certificação das assinaturas de qualquer documento;
+
+b) Cópias de documentos na posse da câmara como, designadamente títulos de operações ou registos;
+
+c) A caderneta predial;
+
+d) Cópias de certidões permanentes, bastando, neste caso, a indicação do número da certidão permanente;
+
+e) Reenvio ou envio de certidão permanente ou do seu código por o seu prazo de validade ter expirado, quando o mesmo era válido no momento da apresentação do pedido;
+
+f) Reenvio ou envio de qualquer certidão, documento ou certificado por a validade do mesmo ter expirado, quando o mesmo seja válido no momento da apresentação do pedido;
+
+g) O plano de segurança e saúde, podendo ser solicitada a exibição do mesmo em sede de fiscalização, quando aplicável;
+
+h) O relatório de segurança;
+
+i) O livro de obra digitalizado;
+
+j) Cópias de cartão do cidadão, bilhete de identidade ou cédulas profissionais;
+
+k) [Revogada.]
+
+l) Termo de responsabilidade de técnico responsável que ateste que a execução da operação se conforma com o Regulamento Geral do Ruído.
+
+> Retificado pelo/a [Declaração de Retificação n.º 29-A/2026/1 - Diário da República n.º 143/2026, Suplemento, Série I de 2026-07-27](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/29-a-2026-1152696606), com efeitos a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 10.º — Termo de responsabilidade
+
+1 - O requerimento ou comunicação é sempre instruído com declaração dos autores dos projectos, da qual conste que foram observadas na elaboração dos mesmos as normas legais e regulamentares aplicáveis, designadamente as normas técnicas de construção em vigor, e do coordenador dos projectos, que ateste a compatibilidade entre os mesmos.
+
+2 - Das declarações mencionadas no número anterior deve, ainda, constar referência à conformidade do projeto com os planos municipais ou intermunicipais de ordenamento do território aplicáveis à pretensão, bem como com a operação de loteamento ou informação prévia favorável, quando existam.
+
+3 - Sem prejuízo do disposto no número seguinte e em legislação especial, só podem subscrever projectos os técnicos legalmente habilitados que se encontrem inscritos em associação pública de natureza profissional e que façam prova da validade da sua inscrição aquando da apresentação do requerimento inicial.
+
+4 - Os técnicos cuja actividade não esteja abrangida por associação pública podem subscrever os projectos para os quais possuam habilitação adequada, nos termos do disposto no regime da qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projectos ou em legislação especial relativa a organismo público legalmente reconhecido.
+
+5 - Os autores e coordenador dos projectos devem declarar, nomeadamente nas situações previstas no artigo 60.º, quais as normas técnicas ou regulamentares em vigor que não foram observadas na elaboração dos mesmos, fundamentando as razões da sua não observância.
+
+6 - Sempre que forem detetadas irregularidades nos termos de responsabilidade, no que respeita às normas legais e regulamentares aplicáveis e à conformidade do projeto com os planos municipais ou intermunicipais de ordenamento do território ou operação de loteamento, quando exista, devem as mesmas ser comunicadas à associação pública de natureza profissional onde o técnico está inscrito ou ao organismo público legalmente reconhecido no caso dos técnicos cuja atividade não esteja abrangida por associação pública.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 11.º — Saneamento e apreciação liminar
+
+1 - Compete ao presidente da câmara municipal, por sua iniciativa ou por indicação do gestor do procedimento, decidir as questões de ordem formal e processual que possam obstar ao conhecimento de qualquer pedido de informação prévia ou de licença apresentados no âmbito do presente diploma.
+
+2 - No prazo de 20 dias contados da data de apresentação do requerimento, o presidente da câmara municipal pode proferir despacho:
+
+a) De aperfeiçoamento do pedido, sob pena de rejeição liminar, sempre que o requerimento não contenha a identificação do requerente, do pedido ou da localização da operação urbanística a realizar, bem como no caso de faltar documento instrutório ou informação exigíveis que sejam indispensáveis ao conhecimento da pretensão e cuja falta não possa ser oficiosamente suprida;
+
+b) De rejeição liminar, oficiosamente ou por indicação do gestor do procedimento, quando da análise dos elementos instrutórios resultar que o pedido é manifestamente contrário às normas legais ou regulamentares aplicáveis;
+
+c) De extinção do procedimento de licenciamento, nos casos em que a operação urbanística em causa esteja sujeita a comunicação prévia, comunicação prévia com prazo ou isenta de licença ou comunicação prévia;
+
+d) De prorrogação do prazo de apreciação, por igual período, com fundamento na especial complexidade da operação, nos termos do disposto no n.º 7 do artigo 16.º, no n.º 9 do artigo 20.º, ou no n.º 8 do artigo 23.º;
+
+3 - No caso previsto na alínea a) do número anterior, o requerente é notificado, para, no prazo de 10 dias, corrigir ou completar o pedido, suspendendo-se o prazo do saneamento até à apresentação dos elementos ou ao termo do prazo concedido, sob pena de rejeição liminar.
+
+4 - [Revogado.]
+
+5 - Não ocorrendo rejeição liminar, extinção do procedimento ou convite para corrigir ou completar o pedido, nem notificação da prorrogação do prazo de apreciação, nos termos e no prazo do n.º 2, considera-se que o requerimento se encontra corretamente instruído, não podendo ser determinada qualquer extensão do prazo decisório.
+
+6 - Sem prejuízo do disposto nos números anteriores, o gestor do procedimento deve dar a conhecer ao presidente da câmara municipal, até à decisão final, qualquer questão que prejudique o desenvolvimento normal do procedimento ou impeça a tomada de decisão sobre o objecto do pedido, nomeadamente a ilegitimidade do requerente e a caducidade do direito que se pretende exercer.
+
+7 - Salvo no que respeita às consultas a que se refere o artigo 13.º, se a decisão final depender da decisão de uma questão que seja da competência de outro órgão administrativo ou dos tribunais, deve o presidente da câmara municipal suspender o procedimento até que o órgão ou o tribunal competente se pronunciem, notificando o requerente desse acto, sem prejuízo do disposto no n.º 2 do artigo 31.º do Código do Procedimento Administrativo.
+
+8 - Sem prejuízo do disposto no número anterior, o interessado pode requerer a continuação do procedimento em alternativa à suspensão, ficando a decisão final condicionada, na sua execução, à decisão que vier a ser proferida pelo órgão administrativo ou tribunal competente.
+
+9 - Havendo rejeição do pedido nos termos do presente artigo, o interessado que apresente novo pedido para o mesmo fim está dispensado de juntar os documentos utilizados anteriormente que se mantenham válidos e adequados.
+
+10 - O presidente da câmara municipal pode delegar nos vereadores, com faculdade de subdelegação, ou nos dirigentes dos serviços municipais, as competências referidas nos n.ºs 1, 2 e 7.
+
+11 - [Revogado.]
+
+> Retificado pelo/a [Declaração de Retificação n.º 29-A/2026/1 - Diário da República n.º 143/2026, Suplemento, Série I de 2026-07-27](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/29-a-2026-1152696606), com efeitos a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 12.º — Publicidade do pedido
+
+O pedido de licenciamento ou a comunicação prévia de operação urbanística devem ser publicitados sob forma de aviso, segundo o modelo aprovado por portaria do membro do Governo responsável pelo ordenamento do território, a colocar no local de execução da operação de forma visível da via pública, no prazo de 10 dias a contar da apresentação do requerimento inicial ou comunicação.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 12.º-A — Suspensão do procedimento
+
+Nas áreas a abranger por novas regras urbanísticas constantes de instrumento de gestão territorial diretamente vinculativo dos particulares ou sua revisão, aplica-se o disposto no regime jurídico dos instrumentos de gestão territorial em matéria de suspensão de procedimentos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 13.º — Disposições gerais sobre a consulta a entidades externas
+
+1 - [Revogado.]
+
+2 - É dispensada a consulta a entidades externas em procedimentos relativos a operações urbanísticas que já tenham sido objeto de apreciação favorável no âmbito do procedimento de informação prévia, de aprovação de operações de loteamento urbano, de aprovação de unidades de execução ou de aprovação de planos de pormenor, com exceção dos planos de salvaguarda que estabeleçam a necessidade dessa consulta.
+
+3 - [Revogado.]
+
+4 - As entidades externas ao município pronunciam-se exclusivamente no âmbito das suas atribuições e competências.
+
+5 - As entidades consultadas devem pronunciar-se no prazo de 20 dias a contar da data em que lhes é disponibilizado o processo, podendo, no prazo de 5 dias a contar da mesma, solicitar a entrega, por uma única vez e no prazo de 10 dias, de elementos complementares indispensáveis à sua pronúncia, suspendendo-se o prazo de pronúncia até à apresentação dos elementos ou ao termo do prazo concedido.
+
+6 - Considera-se haver concordância daquelas entidades com a pretensão formulada se os respectivos pareceres, autorizações ou aprovações não forem recebidos dentro do prazo fixado no número anterior.
+
+7 - Os pareceres das entidades exteriores ao município só têm caráter vinculativo quando tal resulte da lei, desde que se fundamentem em condicionamentos legais ou regulamentares e sejam recebidos dentro do prazo previsto no n.º 5.
+
+8 - Constam de diploma próprio os projetos, estudos e certificações técnicas que carecem de consulta, de aprovação ou de parecer, interno ou externo, bem como as condições a que deve obedecer a sua elaboração.
+
+9 - Os projetos de especialidades, bem como as comunicações prévias para a utilização dos edifícios ou frações, quando acompanhados por termo de responsabilidade subscrito por técnico autor de projeto legalmente habilitado nos termos da lei da qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projetos, fiscalização de obra e direção de obra que ateste o cumprimento das normas legais e regulamentares aplicáveis, incluindo a menção a plano municipal ou intermunicipal de ordenamento do território em vigor ou operação de loteamento, ficam dispensados da apresentação na câmara municipal de consultas, certificações, aprovações ou pareceres externos, sem prejuízo da necessidade da sua obtenção quando legalmente prevista.
+
+10 - A realização de vistoria, certificação, aprovação ou parecer, pelo município ou por entidade externa, sobre a conformidade da execução dos projetos das especialidades e outros estudos com o projeto aprovado ou apresentado é dispensada mediante emissão de termo de responsabilidade por técnico legalmente habilitado para esse efeito, de acordo com o respetivo regime legal, que ateste essa conformidade.
+
+11 - [Revogado.]
+
+12 - No termo do prazo fixado para a promoção das consultas no âmbito do artigo 13.º-A, o interessado pode solicitar a passagem de certidão dessa promoção, a qual é emitida pela câmara municipal no prazo de oito dias e, se esta for negativa, promover diretamente as consultas que não hajam sido realizadas, disso dando conhecimento à câmara municipal, ou pedir ao tribunal administrativo que intime a câmara municipal para esse efeito.
+
+13 - [Revogado.]
+
+14 - Quando as consultas, pareceres ou autorizações tiverem lugar, o procedimento administrativo deve continuar durante o lapso temporal que medeia entre o pedido de parecer, autorização ou consulta e a sua emissão ou o decurso do respetivo prazo.
+
+15 - [Revogado.]
+
+16 - O disposto no presente artigo aplica-se à emissão dos pareceres mencionados nos artigos 13.º-A e 13.º-B.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 97/2017 - Diário da República n.º 154/2017, Série I de 2017-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2017-107987278), em vigor a partir de 2018-01-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a [Lei n.º 28/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02](https://diariodarepublica.pt/dr/detalhe/lei/28-2010-344261), em vigor a partir de 2026-09-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 13.º-A — Parecer, aprovação ou autorização em razão da localização
+
+1 - A consulta de entidades da administração central, direta ou indireta, do setor empresarial do Estado, bem como de entidades concessionárias que exerçam poderes de autoridade, que se devam pronunciar sobre a operação urbanística em razão da localização, deve ser promovida pelo gestor do procedimento, que deve comunicar o pedido à CCDR territorialmente competente, com a identificação das entidades a consultar, logo que se conclua pela correta instrução do pedido na fase de saneamento e apreciação liminar e, em qualquer caso, até ao termo do prazo de 20 dias mencionado no n.º 2 do artigo 11.º
+
+2 - A CCDR identifica, no prazo de cinco dias a contar da recepção dos elementos através do sistema previsto no artigo 8.º-A, as entidades que nos termos da lei devam emitir parecer, aprovação ou autorização de localização, promovendo dentro daquele prazo a respectiva consulta, a efectivar em simultâneo e com recurso ao referido sistema informático.
+
+3 - [Revogado.]
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - Caso não existam posições divergentes entre as entidades consultadas, a CCDR toma uma decisão final global e vinculativa de toda a administração no prazo de cinco dias a contar do fim do prazo previsto no n.º 5 do artigo anterior.
+
+7 - Caso existam posições divergentes das entidades consultadas, a CCDR promove uma reunião com todas as entidades e com o requerente, preferencialmente por videoconferência, a realizar no prazo de 10 dias a contar do último parecer recebido dentro do prazo previsto no n.º 5 do artigo anterior, tendo em vista obter uma solução concertada que permita ultrapassar as objeções formuladas, e toma a decisão final vinculativa mencionada no número anterior no prazo de 5 dias a contar da data da realização da referida reunião.
+
+8 - Para efeitos da realização da conferência decisória referida no número anterior, a designação dos representantes das entidades participantes incorpora a delegação ou subdelegação dos poderes necessários à vinculação das mesmas.
+
+9 - Não sendo possível obter a posição de todas as entidades, por motivo de falta de comparência de algum representante ou por ter sido submetida a apreciação alguma questão nova, os trabalhos da conferência podem ser suspensos por um período máximo de cinco dias.
+
+10 - [Revogado.]
+
+11 - Quando a decisão seja proferida em conferência decisória, os pareceres emitidos têm natureza não vinculativa, independentemente da sua classificação em legislação especial.
+
+12 - O procedimento de decisão da administração central previsto nos números anteriores é objecto de portaria dos membros do Governo responsáveis pelo ordenamento do território e pela administração local.
+
+13 - A CCDR comunica ao município a decisão da conferência decisória no prazo de cinco dias após a sua realização.
+
+14 - Caso a CCDR não cumpra o prazo previsto no número anterior, considera-se que as consultas tiveram um sentido favorável.
+
+15 - Nos casos de comunicação prévia, os pareceres, autorizações ou aprovações que devam ser emitidos, em razão da localização, devem ser apresentados com a mesma, salvo se a entidade consultada não se pronunciar no prazo previsto para o efeito, caso em que a comunicação prévia deve ser instruída com prova da solicitação das consultas e declaração do comunicante de que os mesmos não foram emitidos dentro daquele prazo.
+
+16 - Sem prejuízo do disposto no n.º 1, nos casos de procedimentos de licenciamento e de informação prévia, pode ainda o interessado entregar junto do requerimento inicial, facultativamente, os pareceres, autorizações ou aprovações que devam ser emitidos em função da localização da operação urbanística, mediante solicitação prévia e direta junto das entidades competentes, caso em que não há lugar a nova consulta, desde que na data de entrega não haja decorrido mais de dois anos desde a sua emissão ou desde que, caso tenha sido esgotado esse prazo, não se tenham verificado alterações dos pressupostos de facto ou de direito em que os mesmos se basearam.
+
+> Nota: [Artigo 8.º, Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626) A alteração introduzida ao n.º 1 do presente artigo entra em vigor a 27 de junho de 2011.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Retificado pelo/a [Declaração de Retificação n.º 46-A/2014 - Diário da República n.º 217/2014, 1º Suplemento, Série I de 2014-11-10](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/46-a-2014-58815340), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 13.º-B — Parecer, aprovação ou autorização que não respeite a aspetos relacionados com a localização
+
+1 - Os pareceres, autorizações ou aprovações a emitir por entidades externas ao município que não respeitem a aspetos relacionados com a localização devem ser solicitados previamente pelo interessado.
+
+2 - Para efeitos do disposto no número anterior, os pareceres nele mencionados devem ser obrigatoriamente entregues com o requerimento inicial ou com a comunicação prévia, consoante o caso.
+
+3 - Na falta de pronúncia da entidade consultada nos termos previstos no n.º 1, o requerente ou comunicante devem apresentar prova da solicitação das consultas e declaração de que os pareceres não foram emitidos dentro do prazo legalmente previsto.
+
+4 - Os pareceres, autorizações ou aprovações que sejam juntos ao processo pelo interessado devem ser acompanhados de uma cópia dos elementos entregues à entidade consultada.
+
+5 - A utilização da plataforma eletrónica referida no n.º 1 do artigo 8.º-A pelo interessado para os efeitos previstos no n.º 1 faz-se em termos a regulamentar na portaria a que se refere o mesmo número.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 13.º-C — Audiência prévia dos interessados
+
+São admitidas alterações ao projeto, na sequência da audiência prévia dos interessados quando as mesmas visem a correção das desconformidades detetadas ou se encontrem com estas conexas.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+##### Subsecção II — Informação prévia
+
+###### Artigo 14.º — Pedido de informação prévia
+
+1 - Qualquer interessado pode pedir à câmara municipal, a título prévio, informação sobre a viabilidade de realizar determinada operação urbanística ou conjunto de operações urbanísticas directamente relacionadas, bem como sobre os respectivos condicionamentos legais ou regulamentares, nomeadamente relativos a infra-estruturas, servidões administrativas e restrições de utilidade pública, índices urbanísticos, cérceas, afastamentos e demais condicionantes aplicáveis à pretensão.
+
+2 - O interessado pode requerer que a informação prévia contemple especificamente os seguintes aspetos, em função da informação pretendida e dos elementos apresentados:
+
+a) A volumetria, alinhamento, cércea e implantação da edificação e dos muros de vedação;
+
+b) Projeto de arquitetura e memória descritiva;
+
+c) Programa de utilização das edificações, incluindo a área total de construção a afetar aos diversos usos e o número de fogos e outras unidades de utilização, com identificação das áreas acessórias, técnicas e de serviço;
+
+d) Infra-estruturas locais e ligação às infra-estruturas gerais;
+
+e) Estimativa de encargos urbanísticos devidos;
+
+f) Áreas de cedência destinadas à implantação de espaços verdes, equipamentos de utilização coletiva, infraestruturas viárias e habitação pública, de custos controlados ou para arrendamento acessível.
+
+3 - Quando o interessado não seja o proprietário do prédio, o pedido de informação prévia inclui a identificação daquele bem como dos titulares de qualquer outro direito real sobre o prédio, através de certidão emitida pela conservatória do registo predial.
+
+4 - No caso previsto no número anterior, a câmara municipal deve notificar o proprietário e os demais titulares de qualquer outro direito real sobre o prédio da abertura do procedimento.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 15.º — Consultas e apreciação no âmbito do procedimento de informação prévia
+
+1 - No âmbito do procedimento de informação prévia há lugar a consultas externas, nos termos dos artigos 13.º a 13.º-B, às entidades cujos pareceres, autorizações ou aprovações condicionem, nos termos da lei, a informação a prestar, sempre que tal consulta seja exigível.
+
+2 - A pronúncia das entidades referidas no número anterior não incide sobre avaliação de impacte ambiental.
+
+3 - À apreciação do pedido de informação prévia é aplicável o disposto nos n.os 1 e 2 do artigo 20.º e no artigo 21.º
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 16.º — Deliberação
+
+1 - A câmara municipal delibera sobre o pedido de informação prévia nos seguintes prazos máximos:
+
+a) 15 dias a contar do termo do prazo do saneamento e apreciação liminar, caso seja formulado ao abrigo do n.º 1 do artigo 14.º;
+
+b) 45 dias quando se reporte a operações de loteamento e 30 dias no caso das demais operações urbanísticas, caso seja formulado ao abrigo do n.º 2 do artigo 14.º, contados a partir do termo do prazo do saneamento e apreciação liminar;
+
+c) [Revogada.]
+
+2 - Quando haja lugar a consultas, os prazos previstos no número anterior contam-se a partir da data da receção do último dos pareceres, autorizações ou aprovações emitidas pelas entidades externas ao município ou do termo do prazo para a sua emissão, consoante o que ocorra em primeiro lugar.
+
+3 - Os pareceres, autorizações ou aprovações emitidos pelas entidades exteriores ao município são obrigatoriamente notificados ao requerente juntamente com a informação prévia aprovada pela câmara municipal, dela fazendo parte integrante.
+
+4 - A câmara municipal indica sempre, na informação favorável, o procedimento a que se encontra sujeita a realização da operação urbanística projetada, de acordo com o disposto na secção i do capítulo ii do presente diploma.
+
+5 - No caso de a informação ser desfavorável, dela deve constar obrigatoriamente a indicação dos termos em que a operação urbanística, se viável, pode ser revista em sede de procedimento subsequente, por forma a serem cumpridas as prescrições urbanísticas aplicáveis, designadamente as constantes de plano municipal ou intermunicipal de ordenamento do território ou de operação de loteamento.
+
+6 - Decorrido o prazo aplicável nos termos do n.º 1, considera-se tacitamente deferido o pedido de informação prévia.
+
+7 - Caso o pedido de informação prévia seja formulado ao abrigo do n.º 2 do artigo 14.º, os prazos previstos no n.º 1 podem ser excecionalmente prorrogados por uma única vez e por igual período, por decisão do presidente da câmara municipal, suscetível de delegação nos vereadores com faculdade de subdelegação nos dirigentes dos serviços municipais, e mediante notificação do interessado até ao termo do prazo do saneamento liminar, com fundamento na especial complexidade da operação, designadamente no caso de operações de loteamento que envolvam obras de urbanização ou operações urbanísticas com impacte relevante ou semelhante a loteamento.
+
+8 - A informação prévia favorável é titulada, para todos os efeitos legais, pelo comprovativo do pagamento das taxas e demais encargos devidos, quando aplicáveis, e pelo requerimento de informação prévia devidamente preenchido, que contém a síntese da operação urbanística, e:
+
+a) Pela notificação da emissão da informação prévia favorável, caso esta seja expressa;
+
+b) Pelo comprovativo da submissão do pedido de informação prévia, em caso de deferimento tácito da pretensão.
+
+9 - O título da informação prévia favorável prevista no n.º 2 do artigo seguinte, que tenha por objeto operações urbanísticas sujeitas a cedências ao abrigo do n.º 13 do artigo 6.º, inclui ainda o comprovativo das cedências efetuadas, nos termos do n.º 3 do artigo 44.º
+
+10 - Em caso de substituição do titular, o substituto deve disso fazer prova junto do presidente da câmara municipal para que este proceda ao respetivo averbamento no prazo de 15 dias a contar da data da substituição.
+
+11 - As informações prévias favoráveis relativas a operação de loteamento ou a obra de edificação com impacte urbanístico relevante ou similar a loteamento devem ser publicitadas pela câmara municipal, no prazo de 10 dias a contar da sua emissão, através da página da Internet do município e de aviso em boletim municipal ou, quando este não exista, através de edital a afixar nos paços do concelho e nas sedes das juntas de freguesia abrangidas.
+
+> Retificado pelo/a [Declaração de Retificação n.º 29-A/2026/1 - Diário da República n.º 143/2026, Suplemento, Série I de 2026-07-27](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/29-a-2026-1152696606), com efeitos a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 17.º — Efeitos
+
+1 - A informação prévia favorável emitida nos termos do n.º 1 do artigo 14.º vincula as entidades competentes na decisão sobre um eventual pedido de licenciamento e no controlo sucessivo de operações urbanísticas sujeitas a comunicação prévia.
+
+2 - Quando seja proferida nos termos do n.º 2 do artigo 14.º e contenha todos os elementos referidos nas respetivas alíneas a) a f) que sejam aplicáveis à operação pretendida, para além de ser vinculativa para as entidades competentes, a informação prévia favorável tem ainda por efeito a isenção de licença ou de comunicação da operação urbanística em causa, a efetuar nos exatos termos em que foi apreciada, e dispensa a realização de novas consultas externas.
+
+3 - [Revogado.]
+
+4 - [Revogado.]
+
+5 - O pedido de licenciamento ou a apresentação da comunicação subsequentes à informação prévia prevista no n.º 1 do artigo 14.º, bem como o início das operações urbanísticas subsequentes à informação prévia prevista no n.º 2 do artigo 14.º, devem ser efetuados no prazo de dois anos após a notificação de decisão favorável do pedido de informação prévia ou da formação do deferimento tácito.
+
+6 - Decorrido o prazo fixado no número anterior, o particular pode requerer, por uma única vez, ao presidente da câmara a declaração de que se mantêm os pressupostos de facto e de direito que levaram à anterior decisão favorável, devendo o mesmo decidir no prazo de 20 dias.
+
+7 - Se da declaração requerida nos termos do número anterior resultar que os pressupostos se mantêm ou se o presidente da câmara municipal não tiver respondido no prazo legalmente previsto, deve o requerente, no prazo de 1 ano, apresentar o pedido de licenciamento ou a comunicação prévia ou, no caso da informação prévia proferida nos termos do n.º 2 do artigo 14.º que contenha todos os elementos referidos nas respetivas alíneas a) a f) que sejam aplicáveis à operação pretendida, iniciar a operação urbanística.
+
+8 - Não se suspendem os procedimentos de licenciamento ou comunicação prévia requeridos ou apresentados com suporte em informação prévia nas áreas a abranger por novas regras urbanísticas, constantes de plano municipal, intermunicipal ou especial de ordenamento do território ou sua revisão, a partir da data fixada para o início da discussão pública e até à data da entrada em vigor daquele instrumento.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+##### Subsecção III — Licença
+
+###### Artigo 18.º — Âmbito
+
+1 - Obedece ao procedimento regulado na presente subsecção a apreciação dos pedidos relativos às operações urbanísticas previstas no n.º 2 do artigo 4.º
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 19.º — Consultas a entidades exteriores ao município
+
+1 - Compete ao presidente da câmara municipal promover a consulta às entidades que, nos termos da lei, devam emitir parecer, autorização ou aprovação relativamente às operações urbanísticas sujeitas a licenciamento.
+
+2 - O interessado pode solicitar previamente os pareceres, autorizações ou aprovações legalmente exigidos junto das entidades competentes, entregando-os com o requerimento inicial do pedido de licenciamento, caso em que não há lugar a nova consulta desde que, até à data da apresentação de tal pedido na câmara municipal, não haja decorrido mais de um ano desde a emissão dos pareceres, autorizações ou aprovações emitidos e não se tenha verificado alteração dos pressupostos de facto ou de direito em que os mesmos se basearam.
+
+3 - Para os efeitos do número anterior, caso qualquer das entidades consultadas não se haja pronunciado dentro do prazo referido no n.º 8, o requerimento inicial pode ser instruído com prova da solicitação das consultas e declaração do requerente de que os mesmos não foram emitidos dentro daquele prazo.
+
+4 - O presidente da câmara municipal promove as consultas a que haja lugar em simultâneo, no prazo de 10 dias a contar da data do requerimento inicial ou da data da entrega dos elementos solicitados nos termos do n.º 4 do artigo 11.º
+
+5 - No prazo máximo de 10 dias a contar da data de recepção do processo, as entidades consultadas podem solicitar, por uma única vez, a apresentação de outros elementos que considerem indispensáveis à apreciação do pedido, dando desse facto conhecimento à câmara municipal.
+
+6 - No termo do prazo fixado no n.º 4, o interessado pode solicitar a passagem de certidão da promoção das consultas devidas, a qual será emitida pela câmara municipal no prazo de oito dias.
+
+7 - Se a certidão for negativa, o interessado pode promover directamente as consultas que não hajam sido realizadas ou pedir ao tribunal administrativo que intime a câmara municipal a fazê-lo, nos termos do artigo 112.º do presente diploma.
+
+8 - O parecer, autorização ou aprovação das entidades consultadas deve ser recebido pelo presidente da câmara municipal ou pelo requerente, consoante quem houver promovido a consulta, no prazo de 20 dias ou do estabelecido na legislação aplicável a contar da data da recepção do processo ou dos elementos a que se refere o n.º 5.
+
+9 - Considera-se haver concordância daquelas entidades com a pretensão formulada se os respectivos pareceres, autorizações ou aprovações não forem recebidos dentro do prazo fixado no número anterior, sem prejuízo do disposto em legislação específica.
+
+10 - As entidades exteriores ao município devem pronunciar-se exclusivamente no âmbito das suas atribuições e competências.
+
+11 - Os pareceres das entidades exteriores ao município só têm carácter vinculativo quando tal resulte da lei, desde que se fundamentem em condicionalismos legais ou regulamentares e sejam recebidos dentro do prazo fixado no n.º 8, sem prejuízo do disposto em legislação específica.
+
+12 - O presidente da câmara municipal pode delegar nos vereadores ou nos dirigentes dos serviços municipais as competências previstas nos n.os 1 e 4.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 20.º — Apreciação dos projectos de obras de edificação
+
+1 - A apreciação do projeto de arquitetura, no caso de pedido de licenciamento relativo a obras previstas nas alíneas c), d), f), h) e i) do n.º 2 do artigo 4.º, incide exclusivamente sobre a sua conformidade com:
+
+a) Planos municipais ou intermunicipais de ordenamento no território;
+
+b) Medidas preventivas e normas provisórias;
+
+c) [Revogada.]
+
+d) [Revogada.]
+
+e) Servidões administrativas;
+
+f) Restrições de utilidade pública;
+
+g) O uso proposto;
+
+h) As normas legais e regulamentares relativas ao aspeto exterior e à inserção urbana e paisagística das edificações, desde que os planos ou regulamentos municipais densifiquem tais aspetos;
+
+i) A adequação e capacidade das infraestruturas;
+
+j) A conformidade com a operação de loteamento, no caso de operações urbanísticas abrangidas pela mesma.
+
+2 - Para os efeitos do número anterior, a apreciação da inserção urbana das edificações é efectuada na perspectiva formal e funcional, tendo em atenção o edificado existente, bem como o espaço público envolvente e as infra-estruturas existentes e previstas.
+
+3 - A câmara municipal delibera sobre o projeto de arquitetura nos seguintes prazos máximos:
+
+a) 30 dias a contar do termo do prazo do saneamento e apreciação liminar; ou
+
+b) 30 dias a contar da data da receção dos elementos admitidos ao abrigo do artigo 24.º-A, quando aplicável; ou
+
+c) 30 dias a contar da data da receção do último dos pareceres, autorizações ou aprovações emitidas pelas entidades externas ao município, ou do termo do prazo para a sua emissão, quando aplicável.
+
+4 - O interessado deve apresentar os projetos das especialidades e outros estudos necessários à execução da obra no prazo de seis meses a contar da notificação do ato que aprovou o projeto de arquitetura caso não tenha apresentado tais projetos com o requerimento inicial, com recurso ao modelo constante da portaria prevista no artigo 4.º-A, acompanhado dos elementos constantes da portaria prevista no n.º 4 do artigo 9.º
+
+5 - O presidente da câmara pode prorrogar o prazo referido no número anterior por uma só vez e por período não superior a três meses, mediante requerimento fundamentado apresentado antes do respectivo termo.
+
+6 - A falta de apresentação dos projectos das especialidades e outros estudos no prazo estabelecido no n.º 4 ou naquele que resultar da prorrogação concedida nos termos do número anterior implica a suspensão do processo de licenciamento pelo período máximo de seis meses, findo o qual é declarada a caducidade após audiência prévia do interessado.
+
+7 - (Revogado.)
+
+8 - As declarações de responsabilidade dos autores dos projetos de arquitetura, no que respeita aos aspetos interiores das edificações, bem como dos autores dos projetos das especialidades e de outros estudos nos termos do n.º 4 do artigo 10.º, constituem garantia bastante do cumprimento das normas legais e regulamentares aplicáveis, excluindo a sua apreciação prévia, salvo quando as declarações sejam formuladas nos termos do n.º 5 do artigo 10.º
+
+9 - O prazo previsto no n.º 3 pode ser excecionalmente prorrogado por uma única vez e por igual período, por decisão do presidente da câmara municipal, suscetível de delegação nos vereadores com faculdade de subdelegação nos dirigentes dos serviços municipais mediante notificação do interessado até ao termo do prazo do saneamento liminar, com fundamento na especial complexidade da operação.
+
+10 - São nulas as normas de planos intermunicipais e municipais de ordenamento do território, bem como de regulamento municipal ou de deliberações de órgãos das entidades licenciadoras, que confiram poderes de apreciação ao município que não estejam previstos no n.º 1.
+
+11 - A decisão sobre o projeto de arquitetura deve ser completa e abranger todos os elementos do projeto objeto de apreciação nos termos do n.º 1, sendo notificada ao particular.
+
+12 - Considera-se tacitamente aprovado o projeto de arquitetura na falta de decisão expressa no prazo previsto no n.º 3.
+
+> Nota: [Artigo 20.º, Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484) São nulos os regulamentos administrativos vigentes a 4 de março de 2024 que contrariem o disposto no n.º 10 do presente artigo, na redação dada pelo Decreto-Lei n.º 10/2024, de 8 de janeiro.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02.
+
+###### Artigo 21.º — Apreciação dos projectos de loteamento, obras de urbanização e trabalhos de remodelação de terrenos
+
+1 - A apreciação dos projetos de loteamento, obras de urbanização e dos trabalhos de remodelação de terrenos pela câmara municipal incide sobre a sua conformidade com planos municipais ou intermunicipais de ordenamento do território, medidas preventivas, normas provisórias, servidões administrativas, restrições de utilidade pública e quaisquer outras normas legais e regulamentares aplicáveis, bem como sobre o uso e a integração urbana e paisagística.
+
+2 - A apreciação dos projetos de obras de urbanização e de trabalhos de remodelação de terrenos abrangidos por operação de loteamento está, ainda, sujeita à conformidade com essa operação de loteamento.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 22.º — Consulta pública
+
+1 - Os municípios podem determinar, através de regulamento municipal e de acordo com o procedimento neste previsto, a prévia sujeição a discussão pública do licenciamento e da informação prévia que contemple todos os elementos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º que sejam aplicáveis à operação pretendida, de operações de loteamento ou de outras operações urbanísticas com impacto relevante ou semelhante a operação de loteamento.
+
+2 - A consulta prevista no número anterior tem sempre lugar quando a operação de loteamento exceda algum dos seguintes limites:
+
+a) 4 ha;
+
+b) 100 fogos;
+
+c) 10 % da população do aglomerado urbano em que se insere a pretensão.
+
+3 - A consulta pública prevista no presente artigo não tem lugar, desde que:
+
+a) Tenha existido avaliação ambiental do projeto, com sujeição a consulta pública nos termos do Regime Jurídico de Avaliação de Impacte Ambiental, aprovado pelo Decreto-Lei n.º 151-B/2013, de 31 de outubro, quando aplicável; ou
+
+b) A operação seja abrangida por plano de pormenor ou unidade de execução.
+
+4 - A consulta pública suspende os prazos previstos no n.º 1 do artigo 16.º no caso dos pedidos de informação prévia, e no n.º 1 do artigo 23.º no caso dos licenciamentos.
+
+5 - No caso das operações urbanísticas com impacte relevante ou semelhante a loteamento, a consulta pública suspende o prazo de apreciação previsto no n.º 3 do artigo 20.º
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 23.º — Deliberação final, prazos e deferimento tácito
+
+1 - A câmara municipal delibera sobre o pedido de licenciamento nos seguintes prazos máximos, sob pena de deferimento tácito:
+
+a) 20 dias, no caso das obras de edificação e de demolição previstas nas alíneas c), d), f), h) e i) do n.º 2 do artigo 4.º;
+
+b) 45 dias, no caso de operações de loteamento;
+
+c) 30 dias, no caso de obras de urbanização e trabalhos de remodelação de terrenos;
+
+d) [Revogada.]
+
+2 - O prazo previsto na alínea a) do número anterior conta-se:
+
+a) Da data da apresentação dos projetos das especialidades e outros estudos; ou
+
+b) Da data da aprovação do projeto de arquitetura se o interessado tiver apresentado os projetos de especialidades juntamente com o requerimento inicial; ou
+
+c) Da data da receção dos elementos admitidos ao abrigo do n.º 2 do artigo 24.º-A.
+
+3 - Os prazos previstos nas alíneas b) e c) do n.º 1 contam-se:
+
+a) Do termo do prazo do saneamento e apreciação liminar; ou
+
+b) Da data da receção dos elementos admitidos ao abrigo do n.º 1 do artigo 24.º-A; ou
+
+c) Da data da receção do último dos pareceres, autorizações ou aprovações emitidas pelas entidades exteriores ao município quando haja lugar a consultas, ou do termo do prazo para a sua emissão, consoante o que ocorra em primeiro lugar.
+
+4 - [Revogado.]
+
+5 - Quando o pedido de licenciamento de obras de urbanização seja apresentado em simultâneo com o pedido de licenciamento de operação de loteamento, o prazo previsto na alínea c) do n.º 1 conta-se a partir da deliberação que aprove o pedido de loteamento.
+
+6 - No caso das obras previstas nas alíneas c), d) e h) do n.º 2 do artigo 4.º, a câmara municipal pode, a requerimento do interessado, aprovar uma licença parcial para construção da estrutura após a aprovação do projeto de arquitetura, mediante a entrega de projeto de estabilidade e contenção periférica, e da prestação de caução para demolição da estrutura até ao piso de menor cota em caso de indeferimento ou caducidade.
+
+7 - [Revogado.]
+
+8 - Os prazos previstos nas alíneas b) e c) do n.º 1 podem ser excecionalmente prorrogados por uma única vez e por igual período, por decisão do presidente da câmara municipal, suscetível de delegação nos vereadores com faculdade de subdelegação nos dirigentes dos serviços municipais, e mediante notificação do interessado até ao termo do prazo do saneamento liminar, com fundamento na especial complexidade da operação, designadamente no caso de operações de loteamento que envolvam obras de urbanização.
+
+> Retificado pelo/a [Declaração de Retificação n.º 29-A/2026/1 - Diário da República n.º 143/2026, Suplemento, Série I de 2026-07-27](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/29-a-2026-1152696606), com efeitos a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 24.º — Indeferimento do pedido de licenciamento
+
+1 - O pedido de licenciamento é indeferido quando:
+
+a) Violar plano municipal e intermunicipal de ordenamento do território, medidas preventivas, normas provisórias, servidão administrativa, restrição de utilidade pública ou operação de loteamento, no caso de operações urbanísticas abrangidas pela mesma;
+
+b) Violar norma legal ou regulamentar relativa aos aspetos referidos no n.º 1 do artigo 20.º que disponha sobre matéria que possa ser objeto de regulamento municipal à luz do artigo 3.º;
+
+c) Existir declaração de utilidade pública para efeitos de expropriação que abranja o prédio objecto do pedido de licenciamento, salvo se tal declaração tiver por fim a realização da própria operação urbanística;
+
+d) Tenha sido objeto de parecer negativo, ou recusa de aprovação ou autorização de qualquer entidade consultada nos termos do presente diploma cuja decisão seja vinculativa para os órgãos municipais, ou quando estiver em desconformidade com o parecer, aprovação ou autorização referidos.
+
+2 - Quando o pedido de licenciamento tiver por objeto a realização das operações urbanísticas referidas nas alíneas a) a d), h) e i) do n.º 2 do artigo 4.º, o indeferimento pode ainda ter lugar com fundamento em:
+
+a) A operação urbanística afectar negativamente o património arqueológico, histórico, cultural ou paisagístico, natural ou edificado;
+
+b) A operação urbanística constituir, comprovadamente, uma sobrecarga incomportável para as infra-estruturas ou serviços gerais existentes ou implicar, para o município, a construção ou manutenção de equipamentos, a realização de trabalhos ou a prestação de serviços por este não previstos, designadamente quanto a arruamentos e redes de abastecimento de água, de energia eléctrica ou de saneamento.
+
+c) A operação urbanística implicar a demolição de fachadas revestidas a azulejos, a remoção de azulejos de fachada, independentemente da sua confrontação com a via pública ou logradouros, salvo em casos devidamente justificados, autorizados pela Câmara Municipal em razão da ausência ou diminuto valor patrimonial relevante destes.
+
+3 - (Revogado.)
+
+4 - Quando o pedido de licenciamento tiver por objeto a realização das obras referidas nas alíneas c), d), h) e i) do n.º 2 do artigo 4.º, pode ainda ser indeferido quando a obra seja suscetível de manifestamente afetar o acesso e a utilização de imóveis classificados de interesse nacional, interesse público ou interesse municipal, a estética das povoações, a sua adequada inserção no ambiente urbano ou a beleza das paisagens, designadamente em resultado da desconformidade com as alturas dominantes e a volumetria das edificações.
+
+5 - O pedido de licenciamento das obras referidas nas alíneas c), d) e h) do n.º 2 do artigo 4.º deve ser indeferido na ausência de arruamentos ou de infraestruturas de abastecimento de água e saneamento ou se a obra projetada constituir, comprovadamente, uma sobrecarga incomportável para as infraestruturas existentes.
+
+6 - (Revogado.)
+
+7 - Para efeitos da alínea a) do n.º 2, quando se trate de pedido de licenciamento de imóvel classificado como de interesse nacional ou interesse público ou de imóvel situado na respetiva zona de proteção e for solicitado parecer do Património Cultural, I. P., ou às CCDR, I. P., ficam as câmaras municipais impedidas de solicitar outros pareceres sobre a mesma matéria.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 79/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/79-2017-108016474), em vigor a partir de 2017-08-19.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 24.º-A — Audiência prévia dos interessados
+
+1 - Sem prejuízo do disposto no número seguinte, na sequência da audiência prévia dos interessados, é admitida uma única entrega de elementos de alteração ao projeto, quando a mesma vise a correção das desconformidades detetadas ou se encontre com estas conexas.
+
+2 - Na audiência prévia realizada no âmbito da alínea a) do n.º 1 do artigo 23.º, apenas pode haver lugar à junção de elementos em falta, sem possibilidade de serem efetuadas alterações ao projeto.
+
+3 - O prazo concedido para a pronúncia em sede de audiência prévia pode ser prorrogado, por uma única vez, mediante requerimento fundamentado do interessado.
+
+4 - Caso seja necessário, na sequência de audiência prévia, pode proceder-se a nova consulta de entidades externas por força das alterações ao projeto, nos termos dos artigos 13.º e seguintes, a qual deve ser promovida no prazo máximo de 5 dias a contar da entrega dos elementos previstos no n.º 1.
+
+5 - Para efeitos do disposto no número anterior, o prazo para pronúncia das entidades consultadas previsto no n.º 5 do artigo 13.º é reduzido para 10 dias.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+###### Artigo 25.º — Reapreciação do pedido
+
+1 - Quando exista projeto de decisão de indeferimento com os fundamentos referidos na alínea b) do n.º 2 e no n.º 5 do artigo 24.º, pode haver deferimento do pedido desde que o requerente, na audiência prévia, se comprometa a realizar os trabalhos necessários ou a assumir os encargos inerentes à sua execução, bem como a garantir os encargos inerentes às condições de funcionamento das infraestruturas por um período mínimo de 10 anos.
+
+2 - [Revogado.]
+
+3 - Em caso de deferimento nos termos do n.º 1, o requerente deve, antes do pagamento das taxas, celebrar com a câmara municipal contrato relativo ao cumprimento das obrigações assumidas e prestar caução adequada, beneficiando de redução proporcional ou isenção das taxas por realização de infraestruturas urbanísticas, nos termos a fixar em regulamento municipal.
+
+4 - A prestação da caução referida no número anterior, bem como a execução ou manutenção das obras de urbanização que o interessado se compromete a realizar ou a câmara municipal entenda indispensáveis, devem ser mencionadas expressamente como condição do deferimento do pedido.
+
+5 - À prestação da caução referida no n.º 3 aplica-se, com as necessárias adaptações, o disposto no artigo 54.º
+
+6 - Os encargos a suportar pelo requerente ao abrigo do contrato referido no n.º 3 devem ser proporcionais à sobrecarga para as infra-estruturas existentes resultante da operação urbanística.
+
+> Retificado pelo/a [Declaração de Retificação n.º 29-A/2026/1 - Diário da República n.º 143/2026, Suplemento, Série I de 2026-07-27](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/29-a-2026-1152696606), com efeitos a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 26.º — Licença
+
+A deliberação final de deferimento do pedido de licenciamento ou a formação de deferimento tácito consubstancia o ato permissivo para a realização da operação urbanística, a qual integra, quando solicitado pelo interessado, a licença para ocupação da via pública.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+###### Artigo 27.º — Alterações à licença
+
+1 - A requerimento do interessado, podem ser alterados os termos e condições da licença.
+
+2 - A alteração da licença de operação de loteamento é precedida de consulta pública quando a mesma esteja prevista em regulamento municipal ou quando sejam ultrapassados alguns dos limites previstos no n.º 2 do artigo 22.º.
+
+3 - Sem prejuízo do disposto no artigo 48.º, a alteração da licença de operação de loteamento não pode ser aprovada se ocorrer oposição escrita dos titulares da maioria da área dos lotes constantes da licença, devendo, para o efeito, o gestor de procedimento proceder à sua notificação para pronúncia no prazo de 10 dias.
+
+4 - A alteração à licença obedece ao procedimento estabelecido na presente subsecção e na subsecção I da secção II do presente capítulo, com as especialidades constantes dos números seguintes.
+
+5 - É dispensada a consulta às entidades exteriores ao município desde que o pedido de alteração se conforme com os pressupostos de facto e de direito dos pareceres, autorizações ou aprovações que hajam sido emitidos no procedimento.
+
+6 - No procedimento de alteração são utilizados os documentos constantes do processo que se mantenham válidos e adequados, promovendo a câmara municipal, quando necessário, a actualização dos mesmos.
+
+7 - A alteração da licença dá lugar à alteração do respetivo título, devendo, no caso de operação de loteamento, ser objeto de registo pelo interessado junto da conservatória competente para efeitos de averbamento, nos termos do Código do Registo Predial.
+
+8 - As alterações à licença de loteamento, com ou sem variação do número de lotes, que se traduzam na variação das áreas de implantação, de construção ou variação do número de fogos até 3 %, desde que observem os parâmetros urbanísticos ou utilizações constantes de plano municipal ou intermunicipal de ordenamento do território, são aprovadas por simples deliberação da câmara municipal, com dispensa de quaisquer outras formalidades, sem prejuízo das demais disposições legais e regulamentares aplicáveis.
+
+9 - Quando sejam destinadas a habitação de custos controlados, as alterações à licença de loteamento que se traduzam no aumento do número de fogos, até 10 % por cada lote, são aprovadas por simples deliberação da câmara municipal, com dispensa de quaisquer outras formalidades, desde que não alterem a área bruta de construção, a volumetria ou a área de implantação, e desde que seja assegurada a compatibilização com as infraestruturas existentes e o cumprimento dos planos municipais e intermunicipais e as demais disposições legais e regulamentares aplicáveis.
+
+10 - Sem prejuízo do disposto na alínea a) do n.º 2 do artigo 11.º, a deliberação prevista nos n.ºs 8 e 9 é adotada no prazo de 30 dias, sob pena de deferimento tácito, devendo a alteração ser comunicada pelo interessado à conservatória do registo predial, para efeitos de averbamento, com especificação dos elementos alterados.
+
+11 - Exceptuam-se do disposto nos n.ºs 3 a 6 as alterações às condições da licença que se refiram ao prazo de conclusão das operações urbanísticas licenciadas ou ao montante da caução para garantia das obras de urbanização, que se regem pelos artigos 53.º, 54.º e 58.º
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+##### Subsecção IV — Autorização
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 28.º — Âmbito
+
+1 - Obedece ao procedimento regulado na presente subsecção a apreciação dos pedidos relativos às operações urbanísticas previstas no n.º 3 do artigo 4.º, bem como àquelas que o regulamento referido no n.º 2 do artigo 6.º determine.
+
+2 - Sem prejuízo do disposto nos artigos 37.º e seguintes, no âmbito do procedimento de autorização não há lugar a consultas a entidades exteriores ao município.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 29.º — Apreciação liminar
+
+1 - Sem prejuízo do disposto nos n.os 2 e 3 do artigo 11.º, o pedido de autorização é liminarmente rejeitado quando se verifique que a operação urbanística a que respeita não se integra na previsão do n.º 3 do artigo 4.º, nem se encontra sujeita ao regime de autorização nos termos do regulamento municipal a que se refere o n.º 2 do artigo 6.º
+
+2 - Aplica-se igualmente o disposto no número anterior quando seja manifesto que:
+
+a) O pedido de autorização das operações urbanísticas referidas na alínea a) do n.º 3 do artigo 4.º viola plano de pormenor;
+
+b) Os pedidos de autorização das operações urbanísticas referidas nas alíneas b) e c) do n.º 3 do artigo 4.º violam licença de loteamento ou plano de pormenor.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 30.º — Decisão final
+
+1 - O presidente da câmara municipal decide sobre o pedido de autorização:
+
+a) No prazo de 30 dias, no caso de operação de loteamento;
+
+b) No prazo de 20 dias, no caso das demais operações urbanísticas previstas no n.º 3 do artigo 4.º
+
+2 - Sem prejuízo do disposto no n.º 3 do artigo 37.º, os prazos previstos no número anterior contam-se a partir da recepção do pedido ou dos elementos solicitados nos termos do n.º 4 do artigo 11.º, com excepção do disposto nos números seguintes.
+
+3 - No caso de pedido de autorização para a utilização de edifício ou de sua fracção, bem como para alteração à utilização nos termos previstos na alínea f) do n.º 3 do artigo 4.º, o prazo para a decisão do presidente da câmara municipal conta-se a partir:
+
+a) Da data da recepção do pedido ou da recepção dos elementos solicitados, nos termos do n.º 4 do artigo 11.º; ou
+
+b) Da data da realização da vistoria, quando a ela houver lugar, nos termos do disposto no artigo 64.º
+
+4 - Quando o pedido de autorização de obras de urbanização seja apresentado em simultâneo com o pedido de autorização de operação de loteamento, o prazo previsto na alínea b) do n.º 1 conta-se a partir da deliberação que aprove o pedido de loteamento.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 13-T/2001 - Diário da República n.º 150/2001, 2º Suplemento, Série I-A de 2001-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-t-2001-572075), em vigor a partir de 2001-10-02
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02.
+
+###### Artigo 31.º — Indeferimento do pedido de autorização
+
+1 - O pedido de autorização é indeferido nos casos previstos nas alíneas a) e b) do n.º 1 do artigo 24.º, bem como quando se verifique a recusa das aprovações previstas no artigo 37.º
+
+2 - Quando o pedido de autorização tiver por objecto a realização das operações urbanísticas referidas nas alíneas a), b), c) ou d) do n.º 3 do artigo 4.º, o indeferimento pode ainda ter lugar com fundamento no disposto na alínea b) do n.º 2 do artigo 24.º
+
+3 - Quando o pedido de autorização tiver por objecto a realização das obras referidas nas alíneas c) e d) do n.º 3 do artigo 4.º, pode ainda ser indeferido nos seguintes casos:
+
+a) A obra seja manifestamente susceptível de afectar a estética das povoações, a sua adequada inserção no ambiente urbano ou a beleza das paisagens;
+
+b) Quando se verifique a ausência de arruamentos ou de infra-estruturas de abastecimento de água e saneamento.
+
+4 - O disposto nos números anteriores é aplicável às operações previstas na alínea g) do n.º 3 do artigo 4.º, com as necessárias adaptações.
+
+5 - Quando o pedido de autorização se referir às operações urbanísticas referidas na alínea b) do n.º 3 do artigo 4.º, o indeferimento pode ainda ter lugar com fundamento na desconformidade com as condições impostas no licenciamento ou autorização da operação de loteamento nos casos em que esta tenha precedido ou acompanhado o pedido de autorização das obras de urbanização.
+
+6 - O pedido de autorização das operações referidas na alínea f) do n.º 3 do artigo 4.º pode ainda ser objecto de indeferimento quando:
+
+a) Não respeite as condições constantes dos n.os 2 e 3 do artigo 62.º, consoante o caso;
+
+b) Constitua, comprovadamente, uma sobrecarga incomportável para as infra-estruturas existentes.
+
+7 - Quando exista projecto de indeferimento com os fundamentos constantes do n.º 2 e da alínea b) do n.º 6 do presente artigo, é aplicável o disposto no artigo 25.º, com as necessárias adaptações.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 32.º — Autorização
+
+O acto de deferimento do pedido consubstancia a autorização para a realização da operação urbanística.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 33.º — Alterações à autorização
+
+1 - A requerimento do interessado, podem ser alterados os termos e condições da autorização antes do início das obras ou trabalhos a que a mesma se refere.
+
+2 - A alteração da autorização da operação de loteamento é precedida de discussão pública, a efectuar nos termos estabelecidos no n.º 3 do artigo 22.º, com as necessárias adaptações, salvo se houver consentimento escrito dos proprietários de todos os lotes constantes do alvará, sem prejuízo do disposto no artigo 48.º
+
+3 - A alteração da autorização de loteamento não pode ser licenciada se ocorrer oposição escrita dos proprietários da maioria dos lotes constantes do alvará, desde que nela se inclua a maioria dos proprietários abrangidos pela alteração.
+
+4 - A alteração à autorização obedece ao procedimento estabelecido na presente subsecção, aplicando-se, com as necessárias adaptações, o que se dispõe no artigo 27.º
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+##### Subsecção V — Comunicação prévia
+
+###### Artigo 34.º — Âmbito
+
+1 - Obedece ao procedimento regulado na presente subsecção a realização das operações urbanísticas referidas no n.º 4 do artigo 4.º
+
+2 - A comunicação prévia consiste numa declaração que, desde que corretamente instruída com todos os elementos aplicáveis à operação urbanística, permite ao interessado proceder à sua realização após o pagamento das taxas e demais encargos devidos, e a comunicação do início dos trabalhos prevista no artigo 80.º-A, dispensando a prática de quaisquer atos permissivos.
+
+3 - O pagamento das taxas e demais encargos devidos pode ser efetuado por autoliquidação nos termos do disposto no artigo 117.º e nos regulamentos municipais previstos no artigo 3.º, não podendo o prazo limite de pagamento ser inferior a 60 dias, contados da submissão da comunicação prévia.
+
+4 - As operações urbanísticas realizadas ao abrigo de comunicação prévia observam as normas legais e regulamentares aplicáveis, designadamente as relativas às normas técnicas de construção e o disposto nos instrumentos de gestão territorial.
+
+5 - Sempre que seja obrigatória a realização de consultas externas nos termos previstos na lei, a comunicação prévia pode ter lugar quando tais consultas já tenham sido efetuadas no âmbito de pedido de informação prévia, de aprovação de planos de pormenor ou de operações de loteamento urbano, ou se o interessado instruir a comunicação prévia com as consultas por ele promovidas nos termos do artigo 13.º-B.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+###### Artigo 35.º — Regime da comunicação prévia
+
+1 - A comunicação prévia é dirigida ao presidente da câmara municipal e efetuada através da plataforma eletrónica referida no n.º 1 do artigo 8.º-A nos termos a regulamentar na portaria a que se refere o mesmo número.
+
+2 - Na comunicação prévia o interessado indica o prazo de execução das obras, sem prejuízo do disposto nos artigos 71.º e 72.º
+
+3 - [Revogado.]
+
+4 - Os elementos instrutórios da comunicação prévia constam de portaria dos membros do Governo responsáveis pelas áreas da reforma do Estado, das autarquias locais e do ordenamento do território e da construção.
+
+5 - As operações urbanísticas objeto de comunicação prévia são disponibilizadas diariamente através da plataforma eletrónica referida no n.º 1 do artigo 8.º-A que emite o comprovativo eletrónico da sua apresentação.
+
+6 - O comunicante pode solicitar aos serviços municipais que seja emitida, sem dependência de qualquer despacho, certidão na qual conste a identificação da operação urbanística objeto de comunicação prévia bem como a data da sua apresentação.
+
+7 - [Revogado.]
+
+8 - A câmara municipal deve, em sede de controlo sucessivo, notificar o interessado da ineptidão da comunicação prévia e, consequentemente, inviabilizar a execução das operações urbanísticas objeto de comunicação prévia e promover as medidas necessárias à reposição da legalidade urbanística, quando verifique que não foram cumpridas as normas e condicionantes legais e regulamentares, ou que estas não tenham sido precedidas de pronúncia, obrigatória nos termos da lei, das entidades externas competentes, ou que com ela não se conformem.
+
+9 - Em sede de controlo sucessivo pode o interessado ser notificado, por uma única vez, para, no prazo de 10 dias, suprir a falta de algum dos projetos ou demais elementos que devem instruir a comunicação prévia, ou de alguma informação exigível para o conhecimento da operação urbanística, sob pena de a mesma ser considerada inepta, com as consequências previstas no número anterior.
+
+10 - O controlo sucessivo da conformidade legal e regulamentar dos projetos e demais elementos instrutórios da comunicação prévia caduca no prazo de um ano a contar da data de pagamento das taxas e demais encargos devidos pela respetiva operação urbanística nos termos do n.º 2 do artigo 34.º, ou na data do início da utilização do edifício ou fração, nos termos do disposto no artigo 62.º-A, se esta for posterior.
+
+11 - O decurso do prazo previsto no número anterior não prejudica o exercício, a todo o tempo, da fiscalização administrativa, destinada a verificar a conformidade da obra com os projetos e demais elementos instrutórios submetidos com a comunicação prévia.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 36.º — Rejeição da comunicação prévia
+
+1 - Sem prejuízo do disposto no artigo 11.º, no prazo de 20 dias a contar da entrega da comunicação e demais elementos a que se refere o artigo anterior, o presidente da câmara municipal, com faculdade de delegação nos vereadores e de subdelegação nos dirigentes dos serviços municipais, deve rejeitar a comunicação quando verifique que a obra viola as normas legais e regulamentares aplicáveis, designadamente as constantes de plano municipal de ordenamento do território, de alvará de loteamento, as normas técnicas de construção em vigor, ou os termos de informação prévia existente.
+
+2 - O prazo previsto no número anterior é de 60 dias quando haja lugar a consulta a entidades externas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 36.º-A — Acto administrativo
+
+1 - Decorrido o prazo previsto no artigo anterior sem que a comunicação prévia tenha sido rejeitada, é disponibilizada no sistema informático previsto no artigo 8.º-A a informação de que a comunicação não foi rejeitada, o que equivale à sua admissão.
+
+2 - Na falta de rejeição da comunicação prévia, o interessado pode dar início às obras, efectuando previamente o pagamento das taxas devidas através de autoliquidação.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+##### Subsecção VI — Procedimentos especiais
+
+###### Artigo 37.º — Operações urbanísticas cujo projecto carece de aprovação da administração central
+
+1 - As operações urbanísticas referidas nos artigos 4.º e 6.º cujo projecto, nos termos da legislação especial aplicável, careça de aprovação da administração central, nomeadamente as relativas a empreendimentos industriais, estabelecimentos comerciais, recintos de espectáculos e divertimentos públicos e as que tenham lugar em imóveis classificados ou em vias de classificação e respectivas zonas de protecção estão também sujeitas a licença ou comunicação prévia, nos termos do disposto no presente diploma.
+
+2 - Salvo o disposto em lei especial, os órgãos municipais não podem aprovar informação prévia favorável nem deferir pedidos de licença ou comunicações prévias relativos a operações urbanísticas previstas no n.º 1 sem que o requerente apresente documento comprovativo da aprovação da administração central.
+
+3 - Os prazos para a câmara municipal decidir sobre os pedidos de informação prévia, de licença ou comunicação prévia a operações urbanísticas previstas no n.º 1 contam-se a partir da data da entrega pelo requerente do documento referido no número anterior.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 38.º — Empreendimentos turísticos
+
+1 - Os empreendimentos turísticos estão sujeitos ao regime jurídico das operações de loteamento nos casos em que se pretenda efectuar a divisão jurídica do terreno em lotes.
+
+2 - Nas situações referidas no número anterior não é aplicável o disposto no artigo 41.º, podendo a operação de loteamento realizar-se em áreas em que o uso turístico seja compatível com o disposto nos instrumentos de gestão territorial válidos e eficazes.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 39.º — Dispensa de autorização prévia de localização
+
+Sempre que as obras se situem em área que nos termos de plano de urbanização, plano de pormenor, unidade de execução, ou licença ou comunicação prévia de loteamento em vigor esteja expressamente afeta ao uso proposto, é dispensada a autorização prévia de localização que, nos termos da lei, devesse ser emitida por parte de órgãos da administração central, sem prejuízo das demais autorizações ou aprovações exigidas por lei relativas a servidões administrativas ou restrições de utilidade pública.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 40.º — Licença ou autorização de funcionamento
+
+1 - A vistoria necessária à concessão da licença de funcionamento deve ser sempre efectuada em conjunto com a vistoria referida no artigo 64.º, quando a ela haja lugar.
+
+2 - A câmara municipal dá conhecimento da data da vistoria às entidades da administração central que tenham competência para licenciar o funcionamento do estabelecimento.
+
+3 - Salvo o disposto em lei especial, a licença de funcionamento de qualquer estabelecimento só pode ser concedida mediante a exibição do alvará de licença ou de autorização de utilização.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 40.º-A — Acompanhamento policial
+
+1 - Sem prejuízo do disposto em legislação especial, apenas pode ser exigido acompanhamento policial para a realização de operações urbanísticas quando tal seja considerado indispensável para a gestão do tráfego ou para a segurança de pessoas e bens, em situações de corte da via pública.
+
+2 - O corte da via pública deve ser comunicado ao município com a antecedência mínima de 10 dias, devendo o serviço municipal competente, no prazo de 5 dias, informar sobre a necessidade de acompanhamento policial.
+
+3 - O disposto no número anterior não prejudica a aplicação de prazos diferentes que possam ser previstos em legislação especial.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-01-01.
+
+#### Secção III — Condições especiais de licenciamento ou comunicação prévia
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+##### Subsecção I — Operações de loteamento
+
+###### Artigo 41.º — Localização
+
+As operações de loteamento só podem realizar-se em áreas situadas dentro do perímetro urbano e em terrenos já urbanizados ou cuja urbanização se encontre programada em plano municipal ou intermunicipal de ordenamento do território.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 42.º — Parecer da CCDR
+
+1 - O licenciamento de operação de loteamento que se realize em área não abrangida por qualquer plano municipal ou intermunicipal de ordenamento do território está sujeito a parecer prévio favorável da CCDR ao qual se aplica, com as necessárias adaptações, o disposto nos n.os 5 e 6 do artigo 13.º
+
+2 - O parecer da CCDR destina-se a avaliar a operação de loteamento do ponto de vista do ordenamento do território e a verificar a sua articulação com os instrumentos de desenvolvimento territorial previstos na lei.
+
+3 - O parecer da CCDR caduca no prazo de dois anos, salvo se, dentro desse prazo, for licenciada a operação de loteamento, ou, uma vez esgotado, não existirem alterações nos pressupostos de facto e de direito em que se fundamentou o parecer.
+
+4 - A apresentação de requerimento nos termos referidos no artigo 112.º suspende a contagem do prazo referido no número anterior.
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 43.º — Áreas para espaços verdes e de utilização coletiva, infraestruturas, equipamentos e habitação
+
+1 - Os projetos de loteamento devem prever áreas destinadas à implantação de espaços verdes e de utilização coletiva, infraestruturas viárias, equipamentos e habitação pública, de custos controlados ou para arrendamento acessível.
+
+2 - Os parâmetros para o dimensionamento das áreas referidas no número anterior são os que estiverem definidos em plano municipal ou intermunicipal de ordenamento do território.
+
+3 - Para aferir se o projecto de loteamento respeita os parâmetros a que alude o número anterior consideram-se quer as parcelas de natureza privada a afectar àqueles fins quer as parcelas a ceder à câmara municipal nos termos do artigo seguinte.
+
+4 - Os espaços verdes e de utilização colectiva, infra-estruturas viárias e equipamentos de natureza privada constituem partes comuns dos lotes resultantes da operação de loteamento e dos edifícios que neles venham a ser construídos e regem-se pelo disposto nos artigos 1420.º a 1438.º-A do Código Civil.
+
+5 - Para os efeitos previstos no n.º 3, considera-se destinada a habitação de custos controlados ou arrendamento acessível a área dos lotes ou parcelas em que pelo menos 700/1000 da área de construção sejam afetos a esses fins, nos termos dos respetivos regimes jurídicos, não sendo aplicável o disposto no n.º 5 do artigo 44.º caso seja cumprido o respetivo parâmetro de dimensionamento.
+
+> Retificado pelo/a [Declaração de Retificação n.º 29-A/2026/1 - Diário da República n.º 143/2026, Suplemento, Série I de 2026-07-27](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/29-a-2026-1152696606), com efeitos a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 44.º — Cedências
+
+1 - O proprietário e os demais titulares de direitos reais sobre o prédio a lotear cedem gratuitamente ao município as parcelas para implantação de espaços verdes públicos, habitação pública, a custos controlados ou para arrendamento acessível e equipamentos de utilização coletiva e as infraestruturas que, de acordo com a lei e com o disposto no artigo anterior, devam integrar o domínio municipal.
+
+2 - Para os efeitos dos n.ºs 1 e 6, o requerente deve assinalar as áreas de cedência ao município em planta a entregar com o pedido de licenciamento ou de informação prévia, com a comunicação prévia, com a comunicação prévia com prazo prevista no artigo 62.º-B, com o pedido de parecer prévio previsto no n.º 2 do artigo 7.º ou, nos casos previstos no artigo 6.º, com a informação sobre o início dos trabalhos.
+
+3 - As parcelas de terreno cedidas ao município integram-se no domínio municipal com o pagamento das taxas e demais encargos devidos na sequência do deferimento expresso da licença ou, nas situações previstas nos artigos 6.º, 7.º, 34.º e 62.º-B, através de escritura pública, documento particular autenticado ou do procedimento especial de transmissão, oneração e registo imediato de prédio urbano em atendimento presencial único, aprovado pelo Decreto-Lei n.º 263-A/2007, de 23 de julho, quando aplicável, a realizar no prazo de 20 dias após o deferimento tácito da licença, a receção da comunicação prévia, o termo do prazo previsto no artigo 64.º ou, no caso de isenção, antes da informação sobre o início dos trabalhos, nos termos do artigo 80.º-A, ou do registo predial da operação, se for caso disso, devendo a câmara municipal ali definir as parcelas afetas aos domínios público e privado do município.
+
+4 - As parcelas a ceder para habitação pública, de custos controlados ou para arrendamento acessível, quando tal seja aplicável, são afetas ao domínio privado do município, podendo este, por regulamento municipal, estabelecer requisitos de admissibilidade das parcelas a ceder para esses fins, designadamente em função da sua dimensão, capacidade edificatória ou localização, sem prejuízo da compensação por ausência de cedências nos termos do número seguinte.
+
+5 - Se o prédio a lotear já estiver servido pelas infraestruturas a que se refere a alínea h) do artigo 2.º, não se justificar a localização de equipamento ou espaço verde públicos no referido prédio, se não houver parcelas a ceder para habitação pública, de custos controlados ou para arrendamento acessível que cumpram os requisitos de admissibilidade previstos no número anterior, ou ainda nos casos referidos no n.º 4 do artigo anterior, não há lugar a cedência para esses fins, ficando, no entanto, o proprietário obrigado ao pagamento de uma compensação ao município, em numerário ou em espécie, nos termos definidos em regulamento municipal.
+
+6 - O proprietário e demais titulares de direitos reais sobre prédio a sujeitar a qualquer operação urbanística que nos termos de regulamento municipal seja considerada como de impacte relevante ficam também sujeitos às cedências e compensações previstas para as operações de loteamento.
+
+7 - [Revogado.]
+
+8 - Salvo disposição expressa em contrário constante de plano municipal ou intermunicipal de ordenamento do território, a edificabilidade nas parcelas objeto de cedência para habitação pública, de custos controlados ou para arrendamento acessível não prejudica a edificabilidade da operação urbanística que originou a cedência.
+
+9 - Nas parcelas objeto de cedência para habitação pública, custos controlados ou para arrendamento acessível, é da responsabilidade do município o dimensionamento e a execução das áreas afetas a espaços verdes de utilização coletiva, equipamentos de utilização coletiva e infraestruturas, podendo tal ser objeto de contrato de urbanização.
+
+10 - A execução das obras de edificação nas parcelas cedidas é da responsabilidade do município, podendo tal ser objeto de contrato de urbanização.
+
+> Retificado pelo/a [Declaração de Retificação n.º 29-A/2026/1 - Diário da República n.º 143/2026, Suplemento, Série I de 2026-07-27](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/29-a-2026-1152696606), com efeitos a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 45.º — Reversão
+
+1 - O cedente tem o direito de reversão sobre as parcelas cedidas nos termos do artigo anterior sempre que estas sejam afectas a fins diversos daqueles para que hajam sido cedidas.
+
+2 - Para os efeitos previstos no número anterior, considera-se que não existe alteração de afetação sempre que as parcelas cedidas sejam afetas a um dos fins previstos no n.º 1 do artigo anterior, independentemente das especificações eventualmente constantes do documento que titula a transmissão.
+
+3 - Ao exercício do direito de reversão previsto no número anterior aplica-se, com as necessárias adaptações, o disposto no Código das Expropriações.
+
+4 - Em alternativa ao exercício do direito referido no n.º 1 ou no caso do n.º 10, o cedente pode exigir ao município uma indemnização, a determinar nos termos estabelecidos no Código das Expropriações com referência ao fim a que se encontre afeta a parcela, calculada à data em que pudesse haver lugar à reversão.
+
+5 - As parcelas que, nos termos do n.º 1, tenham revertido para o cedente ficam sujeitas às mesmas finalidades a que deveriam estar afetas aquando da cedência, salvo quando se trate de parcela a afetar a equipamento de utilização coletiva, devendo nesse caso ser afeta a espaço verde, procedendo-se ainda ao averbamento desse facto no título da licença, da informação prévia que contemple todos os elementos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º que sejam aplicáveis à operação pretendida, da comunicação prévia ou da comunicação prévia com prazo.
+
+6 - Os direitos previstos nos n.ºs 1, 3 e 4 podem ser exercidos pelos proprietários de, pelo menos, um terço dos lotes constituídos em consequência da operação de loteamento.
+
+7 - Havendo imóveis construídos na parcela revertida, o tribunal pode ordenar a sua demolição, a requerimento do cedente, nos termos estabelecidos nos artigos 37.º e seguintes da Lei n.º 15/2002, de 22 de Fevereiro.
+
+8 - O município é responsável pelos prejuízos causados aos proprietários dos imóveis referidos no número anterior, nos termos estabelecidos na Lei n.º 67/2007, de 31 de dezembro, alterada pela Lei n.º 31/2008, de 17 de julho, em matéria de atos ilícitos.
+
+9 - A demolição prevista no n.º 7 não prejudica os direitos legalmente estabelecidos de realojamento dos ocupantes.
+
+10 - O direito de reversão previsto no n.º 1 não pode ser exercido quando os fins das parcelas cedidas sejam alterados ao abrigo do disposto no n.º 1 do artigo 48.º
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 46.º — Gestão das infra-estruturas e dos espaços verdes e de utilização colectiva
+
+1 - A gestão das infraestruturas e dos espaços verdes e de utilização coletiva pode ser confiada a moradores, a grupos de moradores das zonas loteadas e urbanizadas ou a entidades previstas no artigo 7.º, mediante a celebração com o município de acordos de cooperação ou de contratos de concessão do domínio municipal.
+
+2 - Os acordos de cooperação podem incidir, nomeadamente, sobre os seguintes aspectos:
+
+a) Limpeza e higiene;
+
+b) Conservação de espaços verdes existentes;
+
+c) Manutenção dos equipamentos de recreio e lazer;
+
+d) Vigilância da área, por forma a evitar a sua degradação.
+
+3 - Os contratos de concessão devem ser celebrados sempre que se pretenda realizar investimentos em equipamentos de utilização colectiva ou em instalações fixas e não desmontáveis em espaços verdes, ou a manutenção de infra-estruturas.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+###### Artigo 47.º — Contrato de concessão
+
+1 - Os princípios a que devem subordinar-se os contratos administrativos de concessão do domínio municipal a que se refere o artigo anterior são estabelecidos em diploma próprio, no qual se fixam as regras a observar em matéria de prazo de vigência, conteúdo do direito de uso privativo, obrigações do concessionário e do município em matéria de realização de obras, prestação de serviços e manutenção de infra-estruturas, garantias a prestar e modos e termos do sequestro e rescisão.
+
+2 - A utilização das áreas concedidas nos termos do número anterior e a execução dos contratos respectivos estão sujeitas a fiscalização da câmara municipal, nos termos a estabelecer no diploma aí referido.
+
+3 - Os contratos referidos no número anterior não podem, sob pena de nulidade das cláusulas respectivas, proibir o acesso e utilização do espaço concessionado por parte do público, sem prejuízo das limitações a tais acesso e utilização que sejam admitidas no diploma referido no n.º 1.
+
+4 - As entidades previstas no artigo 7.º podem celebrar contratos de concessão de gestão do domínio municipal independentemente do disposto em diploma próprio, desde que os mesmos prevejam:
+
+a) Prazo de vigência;
+
+b) Conteúdo do direito de uso privativo; e
+
+c) As obrigações do concessionário e do município em matéria de realização de obras, de prestação de serviços, manutenção de infraestruturas, garantias a prestar e os modos e termos do sequestro, resgate e rescisão.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 5-B/2000 - Diário da República n.º 50/2000, 2º Suplemento, Série I-A de 2000-02-29](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-b-2000-462382), com efeitos a partir de 2000-04-14.
+
+###### Artigo 48.º — Execução de instrumentos de gestão territorial e outros instrumentos urbanísticos
+
+1 - As operações de loteamento com as condições definidas na licença, na informação prévia que contenha todos os elementos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º que sejam aplicáveis à operação pretendida, ou na comunicação prévia podem ser alteradas por iniciativa da câmara municipal desde que tal alteração se mostre necessária à execução de plano municipal ou intermunicipal de ordenamento do território ou área de reabilitação urbana.
+
+2 - A deliberação da câmara municipal que determine as alterações referidas no número anterior é devidamente fundamentada e implica o averbamento desse facto no título da licença, da informação prévia que contenha todos os elementos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º que sejam aplicáveis à operação pretendida e da comunicação prévia, bem como a publicação e o registo deste, a expensas do município.
+
+3 - A deliberação referida no número anterior é precedida da audiência prévia do titular da licença, da comunicação prévia, da informação prévia e demais interessados, que dispõem do prazo de 30 dias para se pronunciarem sobre o projeto de decisão.
+
+4 - A pessoa coletiva que aprovar os instrumentos referidos no n.º 1 que determinem direta ou indiretamente os danos causados ao titular da licença, da comunicação prévia e da informação prévia e demais interessados, em virtude do exercício da faculdade prevista no n.º 1, é responsável pelos mesmos nos termos do regime geral aplicável às situações de indemnização pelo sacrifício.
+
+5 - Sem prejuízo do disposto no número anterior, nas situações de afetação das condições da licença, da informação prévia que contenha todos os elementos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º que sejam aplicáveis à operação pretendida ou da comunicação prévia que, pela sua gravidade ou intensidade, eliminem ou restrinjam o seu conteúdo económico, o respetivo titular e demais interessados têm direito a uma indemnização correspondente ao valor económico do direito eliminado ou da parte do direito que tiver sido restringido.
+
+6 - Enquanto não forem alteradas as condições das operações de loteamento nos termos previstos no n.º 1, as obras de construção, de alteração ou de ampliação, na área abrangida por aquelas operações de loteamento, não têm que se conformar com planos municipais ou intermunicipais de ordenamento do território ou áreas de reabilitação urbana posteriores à licença, à comunicação prévia ou à informação prévia da operação de loteamento que contenha todos os elementos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º
+
+> Retificado pelo/a [Declaração de Retificação n.º 29-A/2026/1 - Diário da República n.º 143/2026, Suplemento, Série I de 2026-07-27](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/29-a-2026-1152696606), com efeitos a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 48.º-A — Alterações à operação de loteamento objecto de comunicação prévia
+
+Sem prejuízo do disposto no artigo anterior, a alteração de operação de loteamento objeto de comunicação prévia só pode ser apresentada se for demonstrada pelo interessado a não oposição dos titulares da maioria da área dos lotes constantes da operação.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Retificado pelo/a [Declaração de Retificação n.º 46-A/2014 - Diário da República n.º 217/2014, 1º Suplemento, Série I de 2014-11-10](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/46-a-2014-58815340), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 49.º — Negócios jurídicos
+
+1 - Nos títulos de arrematação ou outros documentos judiciais, bem como nos instrumentos relativos a atos ou negócios jurídicos de que resulte, direta ou indiretamente, a constituição de lotes nos termos da alínea i) do artigo 2.º, sem prejuízo do disposto nos artigos 6.º e 7.º, ou a transmissão de lotes legalmente constituídos, devem constar o número da licença, da informação prévia favorável que contemple todos os elementos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º que sejam aplicáveis à operação pretendida ou da comunicação prévia, a data de emissão do título, a data de caducidade e a certidão do registo predial.
+
+2 - Não podem ser realizados actos de primeira transmissão de imóveis construídos nos lotes ou de fracções autónomas desses imóveis sem que seja exibida, perante a entidade que celebre a escritura pública ou autentique o documento particular, certidão emitida pela câmara municipal, comprovativa da recepção provisória das obras de urbanização ou certidão, emitida pela câmara municipal, comprovativa de que a caução a que se refere o artigo 54.º é suficiente para garantir a boa execução das obras de urbanização.
+
+3 - Caso as obras de urbanização sejam realizadas nos termos dos artigos 84.º e 85.º, os actos referidos no número anterior podem ser efectuados mediante a exibição de certidão, emitida pela câmara municipal, comprovativa da conclusão de tais obras, devidamente executadas em conformidade com os projectos aprovados.
+
+4 - A exibição das certidões referidas nos n.os 2 e 3 é dispensada sempre que o loteamento seja titulado por alvará emitido ao abrigo dos Decretos-Leis n.os 289/73, de 6 de junho, e 400/84, de 31 de dezembro.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 116/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), em vigor a partir de 2009-01-01.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 5-B/2000 - Diário da República n.º 50/2000, 2º Suplemento, Série I-A de 2000-02-29](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-b-2000-462382), com efeitos a partir de 2000-04-14.
+
+###### Artigo 50.º — Fraccionamento de prédios rústicos
+
+1 - Ao fraccionamento de prédios rústicos aplica-se o disposto nos Decretos-Leis n.os 384/88, de 25 de Outubro, e 103/90, de 22 de Março.
+
+2 - Os negócios jurídicos de que resulte o fraccionamento ou divisão de prédios rústicos são comunicados pelas partes intervenientes à câmara municipal do local da situação dos prédios, a qual promove a comunicação dos mesmos ao Instituto Geográfico Português.
+
+3 - A comunicação a que se refere o número anterior é efectuada no prazo de 20 dias a contar da celebração do negócio.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 5-B/2000 - Diário da República n.º 50/2000, 2º Suplemento, Série I-A de 2000-02-29](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-b-2000-462382), com efeitos a partir de 2000-04-14.
+
+###### Artigo 51.º — Informação registral
+
+1 - O conservador do registo predial remete mensalmente à CCDR, até ao dia 15 de cada mês, cópia dos elementos respeitantes a operações de loteamento e respectivos anexos cujos registos tenham sido requeridos no mês anterior.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 52.º — Publicidade à alienação
+
+Na publicidade à alienação de lotes de terreno, de edifícios ou frações autónomas neles construídos, em construção ou a construir, é obrigatório mencionar o número do título da licença de loteamento, da informação prévia emitida com todos os elementos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º que sejam aplicáveis à operação pretendida ou da comunicação prévia e a data da sua emissão ou receção pela câmara municipal, bem como o respetivo prazo de validade.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 5-B/2000 - Diário da República n.º 50/2000, 2º Suplemento, Série I-A de 2000-02-29](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-b-2000-462382), com efeitos a partir de 2000-04-14.
+
+##### Subsecção II — Obras de urbanização
+
+###### Artigo 53.º — Condições e prazo de execução
+
+1 - Com as deliberações previstas nos artigos 16.º e 26.º ou através de regulamento municipal nas situações de deferimento tácito, comunicação prévia ou isenção, o município estabelece, para as obras de urbanização:
+
+a) As condições a observar na execução das mesmas, onde se inclui o cumprimento do disposto no regime da gestão de resíduos de construção e demolição nelas produzidos, e o prazo para a sua conclusão;
+
+b) O montante da caução destinada a assegurar a boa e regular execução das obras;
+
+c) As condições gerais do contrato de urbanização a que se refere o artigo 55.º, se for caso disso.
+
+2 - Nas situações de deferimento tácito, comunicação prévia ou isenção, o prazo de execução é o definido pelo interessado, não podendo, no entanto, ultrapassar os limites fixados mediante regulamento municipal.
+
+3 - O prazo estabelecido nos termos da alínea a) do n.º 1 e do n.º 2 pode ser prorrogado a requerimento fundamentado do interessado, quando não seja possível concluir as obras dentro do prazo para o efeito estabelecido.
+
+4 - Quando a obra se encontre em fase de acabamentos, pode ainda o presidente da câmara municipal, a requerimento fundamentado do interessado, conceder nova prorrogação, mediante o pagamento de um adicional à taxa referida no n.º 4 do artigo 116.º, de montante a fixar em regulamento municipal.
+
+5 - O prazo referido na alínea a) do n.º 1 e no n.º 2 pode ainda ser prorrogado em consequência de alteração da licença, da comunicação prévia ou da informação prévia que contenha todos os elementos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º que sejam aplicáveis à operação pretendida.
+
+6 - A prorrogação do prazo nos termos referidos nos números anteriores não dá lugar a novo título da licença, da comunicação ou da informação prévia que contenha todos os elementos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º, devendo ser averbada nos documentos comprovativos existentes.
+
+7 - As obras de urbanização com as condições definidas na licença, na comunicação prévia ou na informação prévia que contenha todos os elementos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º, podem ser alteradas por iniciativa da câmara municipal, nos termos e com os fundamentos estabelecidos no artigo 48.º
+
+8 - O prazo de execução das obras referidas nos números anteriores começa a contar da data do pagamento das taxas e demais encargos devidos.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 54.º — Caução
+
+1 - O requerente ou comunicante presta caução destinada a garantir a boa e regular execução das obras de urbanização.
+
+2 - A caução referida no número anterior é prestada a favor da câmara municipal, mediante garantia bancária autónoma à primeira solicitação, hipoteca sobre bens imóveis propriedade do requerente ou comunicante, depósito em dinheiro ou seguro-caução, estando sujeita a atualização nos termos do n.º 4 e mantendo-se válida até à receção definitiva das obras de urbanização.
+
+3 - O montante da caução é igual ao valor constante dos orçamentos para execução dos projetos das obras a executar, eventualmente corrigido pela câmara municipal com a emissão da licença ou da informação prévia, a que pode ser acrescido um montante, não superior a 5 % daquele valor, destinado a remunerar encargos de administração caso se mostre necessário aplicar o disposto nos artigos 84.º e 85.º
+
+4 - O montante da caução deve ser:
+
+a) Reforçado, precedendo deliberação fundamentada da câmara municipal, tendo em atenção a correcção do valor dos trabalhos por aplicação das regras legais e regulamentares relativas a revisões de preços dos contratos de empreitada de obras públicas, quando se mostre insuficiente para garantir a conclusão dos trabalhos, em caso de prorrogação do prazo de conclusão ou em consequência de acentuada subida no custo dos materiais ou de salários;
+
+b) Reduzido, nos mesmos termos, em conformidade com o andamento dos trabalhos a requerimento do interessado, que deve ser decidido no prazo de 15 dias.
+
+5 - O conjunto das reduções efectuadas ao abrigo do disposto na alínea b) do número anterior não pode ultrapassar 90% do montante inicial da caução, sendo o remanescente libertado com a recepção definitiva das obras de urbanização.
+
+6 - O reforço ou a redução da caução, nos termos do n.º 4, não dá lugar à emissão de novo título.
+
+7 - Quando tiver sido prestada garantia bancária por empreiteiro ao interessado, a câmara municipal e os emitentes da garantia estão obrigados a aceitar a cessão da posição contratual do interessado a favor do município, ficando o mesmo dispensado de prestação de nova caução.
+
+8 - [Revogado.]
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 55.º — Contrato de urbanização
+
+1 - Quando a execução de obras de urbanização envolva, em virtude de disposição legal ou regulamentar ou por força de convenção, mais de um responsável, a realização das mesmas pode ser objecto de contrato de urbanização.
+
+2 - São partes no contrato de urbanização, obrigatoriamente, o município e o proprietário e outros titulares de direitos reais sobre o prédio e, facultativamente, as empresas que prestem serviços públicos, bem como outras entidades envolvidas na operação de loteamento ou na urbanização dela resultante, designadamente interessadas na aquisição dos lotes.
+
+3 - O contrato de urbanização estabelece as obrigações das partes contratantes relativamente à execução das obras de urbanização e as responsabilidades a que ficam sujeitas, bem como o prazo para cumprimento daquelas.
+
+4 - Quando haja lugar à celebração de contrato de urbanização, o título da operação urbanística deve fazer-lhe referência.
+
+5 - Juntamente com o requerimento inicial, pedido de informação prévia, comunicação e a qualquer momento do procedimento até à aprovação das obras de urbanização, o interessado pode apresentar proposta de contrato de urbanização.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 56.º — Execução por fases das obras de urbanização
+
+1 - O interessado pode requerer a execução por fases das obras de urbanização, identificando as obras incluídas em cada fase, o orçamento correspondente e os prazos dentro dos quais se propõe iniciar e concluir cada fase.
+
+2 - O requerimento referido no número anterior deve ser preferencialmente apresentado com o pedido de informação prévia que contenha todos os elementos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º que sejam aplicáveis à operação pretendida, ou com o pedido de licenciamento do loteamento ou, quando as obras de urbanização não se integrem em operação de loteamento, com o pedido relativo às mesmas, podendo, contudo, ser apresentado em qualquer momento do procedimento, desde que não tenha ainda sido proferida decisão final.
+
+3 - Cada fase deve ter coerência interna e corresponder a uma zona da área a lotear ou a urbanizar que possa funcionar autonomamente.
+
+4 - O requerimento previsto no n.º 1 é decidido no prazo de 30 dias, contado a partir da data da sua apresentação.
+
+5 - Admitida a execução por fases, o título abrange apenas a primeira fase das obras de urbanização, implicando cada fase subsequente um aditamento ao mesmo, a solicitar pelo interessado.
+
+6 - Quando se trate de operação efectuada ao abrigo de comunicação prévia, o interessado identifica na comunicação as fases em que pretende proceder à execução das obras de urbanização, aplicando-se, com as necessárias adaptações, o disposto nos n.ºs 1, 2 e 3.
+
+7 - Tratando-se de obra sujeita a comunicação prévia, pode o interessado remeter em comunicações prévias subsequentes, os projetos de especialidades relativos aos demais trabalhos a realizar.
+
+8 - No caso previsto no número anterior, o interessado pode realizar os trabalhos correspondentes a cada uma das comunicações, nos termos do disposto no artigo 34.º
+
+9 - Caso a execução da obra por fases tenha sido prevista em pedido de informação prévia ao abrigo do n.º 2 do artigo 14.º, o interessado pode apresentar os projetos de especialidades e demais elementos relativos a cada fase em informações de início de trabalhos subsequentes, aplicando-se com as necessárias adaptações, o disposto nos n.os 1, 2 e 3.
+
+10 - Em caso de execução por fases, o alvará, certificado ou título de registo exigido à empresa construtora refere-se a cada uma das fases e não ao conjunto de todas elas.
+
+11 - Se o requerimento mencionado no n.º 1 for submetido nos últimos 30 dias do prazo para a decisão final, este pode ser prorrogado no período que for necessário à apreciação do mesmo no prazo de 30 dias previsto no n.º 4.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+##### Subsecção III — Obras de edificação
+
+###### Artigo 57.º — Condições de execução
+
+1 - A câmara municipal fixa as condições a observar na execução da obra com o deferimento do pedido de licenciamento ou de informação prévia das operações urbanísticas e, no caso das obras isentas, sujeitas a comunicação prévia ou que tenham sido objeto de deferimento tácito, através de regulamento municipal, devendo salvaguardar o cumprimento do disposto no regime da gestão de resíduos de construção e demolição.
+
+2 - As condições relativas à ocupação da via pública ou à colocação de tapumes e vedações são estabelecidas mediante proposta do requerente.
+
+3 - Em caso de deferimento tácito, as condições a observar na execução das obras são aquelas que forem propostas pelo requerente, desde que compatíveis com o regulamento municipal.
+
+4 - A comunicação prévia para obras em área abrangida por operação de loteamento não pode ter lugar antes da recepção provisória das respectivas obras de urbanização ou da prestação de caução a que se refere o artigo 54.º
+
+5 - O disposto no artigo 43.º e nos n.os 1 a 3 do artigo 44.º aplica-se aos procedimentos de licenciamento, à comunicação prévia e ao procedimento de informação prévia que contenha todos os elementos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º que sejam aplicáveis à operação pretendida, quando respeitem a edifícios contíguos e funcionalmente ligados entre si que determinem, em termos urbanísticos, impactes semelhantes a uma operação de loteamento, nos termos a definir por regulamento municipal.
+
+6 - O disposto no n.º 5 do artigo 44.º é aplicável aos procedimentos de licenciamento, à comunicação prévia e ao procedimento de informação prévia que contenha todos os elementos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º que sejam aplicáveis à operação pretendida, quando a operação contemple a criação de áreas de circulação viária e pedonal, espaços verdes e equipamento de uso privativo.
+
+7 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 58.º — Prazo de execução
+
+1 - A câmara municipal fixa, com o deferimento do pedido de licenciamento das obras referidas nas alíneas c), d), f), h) e i) do n.º 2 do artigo 4.º, o prazo de execução da obra, em conformidade com a programação proposta pelo requerente.
+
+2 - Nas situações previstas no n.º 4 do artigo 4.º, bem como no caso de deferimento tácito ou isenção, o prazo de execução é o definido pelo interessado, não podendo, no entanto, ultrapassar os limites máximos fixados mediante regulamento municipal.
+
+3 - Os prazos referidos nos números anteriores começam a contar da data do pagamento das taxas e demais encargos devidos.
+
+4 - O prazo para a conclusão da obra pode ser alterado por motivo de interesse público, devidamente fundamentado, no ato de deferimento ou, nos casos de operações urbanísticas sujeitas a comunicação prévia, mediante notificação ao interessado, no prazo de 15 dias a contar da submissão da mesma.
+
+5 - Quando não seja possível concluir as obras no prazo previsto, este pode ser prorrogado, a requerimento fundamentado do interessado, o qual deve ser objeto de decisão no prazo máximo de 15 dias, decorrido o qual se considera tacitamente deferido.
+
+6 - (Revogado.)
+
+7 - O prazo estabelecido nos termos dos números anteriores pode ainda ser prorrogado em consequência da alteração da licença, bem como da apresentação de alterações durante a execução da obra, nos termos do artigo 83.º
+
+8 - A prorrogação do prazo nos termos referidos no n.º 5 não dá lugar à emissão de novo título, devendo apenas ser junto àquele, com o comprovativo de pagamento da respetiva taxa, caso aplicável.
+
+9 - [Revogado.]
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 59.º — Execução por fases das obras de edificação
+
+1 - O requerente pode optar pela execução faseada da obra, devendo para o efeito, em caso de operação urbanística sujeita a licenciamento, identificar no projeto de arquitetura os trabalhos incluídos em cada uma das fases e indicar os prazos, a contar da data de aprovação daquele projeto, em que se propõe apresentar os projetos das especialidades e outros estudos relativos a cada uma dessas fases, podendo a câmara municipal fixar diferentes prazos por motivo de interesse público devidamente fundamentado.
+
+2 - Cada fase deve corresponder a uma parte da edificação passível de utilização autónoma.
+
+3 - Nos casos referidos no n.º 1, os projetos de especialidades a apresentar junto da câmara municipal devem identificar a fase da obra a que se reportam.
+
+4 - A falta de apresentação dos projetos de especialidades dentro dos prazos previstos no n.º 1 implica a caducidade do ato de aprovação do projeto de arquitetura e o arquivamento oficioso do processo.
+
+5 - [Revogado.]
+
+6 - Admitida a execução por fases, a licença abrange apenas a primeira fase das obras, implicando cada fase subsequente um aditamento à mesma.
+
+7 - Quando se trate de operação urbanística sujeita a comunicação prévia, o interessado identifica na comunicação as fases em que pretende proceder à execução da obra, aplicando-se com as necessárias adaptações o disposto nos n.ºs 1 e 2.
+
+8 - Tratando-se de obra sujeita a comunicação prévia, pode o interessado remeter o projeto de arquitetura numa primeira comunicação prévia e, em comunicações prévias subsequentes, os demais trabalhos a realizar.
+
+9 - No caso previsto no número anterior, o interessado pode realizar os trabalhos correspondentes a cada uma das comunicações, nos termos do disposto no artigo 34.º
+
+10 - Caso a execução da obra por fases tenha sido prevista em pedido de informação prévia ao abrigo do n.º 2 do artigo 14.º, o interessado pode apresentar os projetos de especialidades e demais elementos relativos a cada fase em informações de início de trabalhos subsequentes, aplicando-se, com as necessárias adaptações, o disposto nos n.ºs 1 e 2.
+
+11 - Em caso de execução por fases, o alvará, certificado ou título de registo exigido à empresa construtora refere-se a cada uma das fases e não ao conjunto de todas elas.
+
+> Retificado pelo/a [Declaração de Retificação n.º 29-A/2026/1 - Diário da República n.º 143/2026, Suplemento, Série I de 2026-07-27](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/29-a-2026-1152696606), com efeitos a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 60.º — Edificações existentes
+
+1 - As edificações construídas ao abrigo do direito anterior e as utilizações respectivas não são afectadas por normas legais e regulamentares supervenientes.
+
+2 - As obras de reconstrução ou de alteração das edificações não podem ser recusadas com fundamento em normas legais ou regulamentares supervenientes à construção originária, desde que tais obras não originem ou agravem desconformidade com as normas em vigor ou tenham como resultado a melhoria das condições de segurança e de salubridade da edificação.
+
+3 - O disposto no número anterior é igualmente aplicável em sede de controlo sucessivo e fiscalização das operações urbanísticas.
+
+4 - Sem prejuízo do disposto nos números anteriores, a lei pode impor condições específicas para o exercício de certas atividades em edificações já afetas a tais atividades ao abrigo do direito anterior, bem como condicionar a execução das obras referidas no n.º 2 à realização dos trabalhos acessórios que se mostrem necessários para a melhoria das condições de segurança e salubridade da edificação.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 61.º — Identificação do director de obra
+
+O titular da licença de construção e apresentante da comunicação prévia ficam obrigados a afixar numa placa em material imperecível no exterior da edificação ou a gravar num dos seus elementos externos a identificação do director de obra.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+##### Subsecção IV — Utilização de edifícios ou suas fracções
+
+###### Artigo 62.º — Âmbito
+
+A utilização de edifícios ou suas frações na sequência da realização de obras apenas pode consumar-se após a conclusão das mesmas, no todo ou em parte, observando a sua conformidade com os projetos de arquitetura e de arranjos exteriores aprovados ou submetidos, bem como com as condições do respetivo procedimento, garantindo também a conformidade da utilização prevista com as normas legais e regulamentares que fixam os usos e utilizações admissíveis, podendo contemplar utilizações mistas.
+
+> Nota: [Artigo 5.º, Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421) O presente artigo foi repristinado pelo artigo 5.º do Decreto-Lei n.º 108/2026, de 29 de maio, tendo-lhe sido dada uma nova redação.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 62.º-A — Utilização ou alteração de uso de edifício ou fração sujeita a comunicação prévia
+
+1 - A utilização ou alteração de uso de edifício ou fração após a realização de obra submetida a procedimento de licenciamento, comunicação prévia ou isenta ao abrigo da alínea h) do n.º 1 do artigo 6.º, tendo em vista essa utilização, depende da submissão de uma comunicação prévia à câmara municipal, a qual deve obedecer ao modelo constante da portaria prevista no artigo 4.º-A e ser instruída com:
+
+a) Os elementos constantes da portaria prevista no n.º 4 do artigo 9.º;
+
+b) Um termo de responsabilidade que declare a conformidade da obra com o projeto aprovado, comunicado ou objeto de pedido de informação prévia que contenha todos os elementos previstos nas respetivas alínea a) a f) do n.º 2 do artigo 14.º que sejam aplicáveis à operação, consoante aplicável, bem como a conformidade legal e regulamentar de eventuais alterações em obra isentas de licença ou comunicação, subscrito pelo diretor de obra ou pelo diretor de fiscalização de obra ou, em caso de impossibilidade destes, em que já não seja possível proceder à sua substituição ao abrigo do n.º 10 do artigo 9.º, por técnico legalmente habilitado ao exercício daquelas funções.
+
+2 - O edifício ou suas frações autónomas podem ser utilizados para a finalidade pretendida imediatamente após a submissão da comunicação prevista no n.º 1 e respetivos elementos instrutórios.
+
+3 - O controlo sucessivo da comunicação prévia consiste na verificação dos elementos instrutórios mencionados no n.º 1, aplicando-se o disposto no n.º 9 do artigo 35.º nos casos em que seja necessário suprir a falta de algum dos elementos ou informação referidos.
+
+4 - [Revogado.]
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+###### Artigo 62.º-B — Utilização ou alteração de uso de edifício ou fração sujeita a comunicação prévia com prazo
+
+1 - A utilização ou a alteração de uso de edifício ou fração ou de alguma informação constante do título de utilização existente está sujeita a comunicação prévia com prazo quando não tenha sido precedida de obra sujeita a licença, comunicação prévia ou isenta ao abrigo da alínea h) do n.º 1 do artigo 6.º, aplicando-se quando:
+
+a) Não tenha sido precedida de obra tendo em vista essa utilização; ou
+
+b) Tenha sido precedida de obra isenta nos termos das alíneas g) ou h) do n.º 1 do artigo 7.º ou do artigo 6.º, com exceção da alínea h) do seu n.º 1.
+
+2 - À comunicação prévia com prazo referida no número anterior é aplicável o disposto nos artigos 63.º e 64.º
+
+3 - No caso de utilização ou alteração de uso previstas no n.º 1, a comunicação de utilização destina-se a comprovar a conformidade da utilização prevista com as normas legais e regulamentares que fixam os usos e utilizações admissíveis, bem como a idoneidade do edifício ou sua fração autónoma para o fim pretendido, podendo contemplar utilizações mistas.
+
+4 - A utilização ou a alteração de uso podem ser sujeitas à realização de cedências, caso, pelas suas características, sejam enquadradas em regulamento municipal como operações urbanísticas de impacte relevante ou semelhante a loteamento.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+###### Artigo 62.º-C — Utilização de edifícios isentos de controlo prévio urbanístico
+
+A utilização de novas edificações ou novas frações, na sequência de obras de construção isentas de controlo prévio por força do disposto na alínea a) do n.º 1 do artigo 6.º está sujeita a comunicação prévia com prazo nos termos do artigo anterior.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+###### Artigo 63.º — Instrução da comunicação prévia com prazo para a utilização ou alteração de uso
+
+1 - A comunicação prévia com prazo prevista no artigo 62.º-B obedece ao modelo constante da portaria prevista no artigo 4.º-A, e deve ser instruída com os elementos constantes da portaria prevista no artigo 9.º e de um termo de responsabilidade que declare:
+
+a) A conformidade da utilização prevista com as normas legais e regulamentares que fixam os usos e utilizações admissíveis; e
+
+b) A idoneidade do edifício ou sua fração autónoma para o fim pretendido.
+
+2 - O termo de responsabilidade previsto no número anterior deve ser subscrito por pessoa legalmente habilitada a ser autor de projeto de arquitetura, nos termos do regime jurídico que define a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projetos.
+
+3 - [Revogado.]
+
+4 - O modelo do termo de responsabilidade a que se refere o presente artigo consta de portaria dos membros do Governo responsáveis pelas áreas da reforma do Estado, da construção, das autarquias locais e do ordenamento do território.
+
+> Retificado pelo/a [Declaração de Retificação n.º 29-A/2026/1 - Diário da República n.º 143/2026, Suplemento, Série I de 2026-07-27](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/29-a-2026-1152696606), com efeitos a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 64.º — Tramitação e efeitos da comunicação prévia com prazo
+
+1 - O edifício ou suas frações autónomas pode ser utilizado para a finalidade pretendida decorridos dez dias após a submissão da comunicação prévia com prazo a que se refere o artigo 62.º-B, salvo na situação prevista no número seguinte.
+
+2 - O presidente da câmara municipal, no prazo previsto no número anterior, pode:
+
+a) Proferir despacho de rejeição quando a comunicação não esteja devidamente instruída ou resultar dos elementos instrutórios que a utilização pretendida é manifestamente contrária às normas legais ou regulamentares aplicáveis, ou constitua, comprovadamente, uma sobrecarga incomportável para as infraestruturas ou serviços gerais existentes;
+
+b) Determinar a realização de vistoria, a efetuar nos termos do artigo seguinte, quando se verifique que existem indícios sérios de que o edifício não é idóneo para o fim pretendido.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 65.º — Realização da vistoria
+
+1 - A vistoria realiza-se no prazo de 15 dias a contar da decisão do presidente da câmara referida no n.º 2 do artigo anterior, decorrendo sempre que possível em data a acordar com o interessado.
+
+2 - A vistoria é efectuada por uma comissão composta, no mínimo, por três técnicos, a designar pela câmara municipal, dos quais pelo menos dois devem ter habilitação legal para ser autor de projecto, correspondente à obra objecto de vistoria, segundo o regime da qualificação profissional dos técnicos responsáveis pela elaboração e subscrição de projectos.
+
+3 - A data da realização da vistoria é notificada pela câmara municipal ao interessado, o qual pode fazer-se acompanhar dos autores dos projetos e do técnico responsável pela direção da obra ou de outro perito, que participam, sem direito a voto, na vistoria.
+
+4 - As conclusões da vistoria são seguidas de declaração de conformidade do edifício ou da sua fração ou imposição de obras de alteração.
+
+5 - No caso da imposição de obras de alteração decorrentes da vistoria, o edifício ou a sua fração apenas pode ser utilizado após a verificação da adequada realização dessas obras, mediante nova vistoria a requerer pelo interessado, a qual decorre no prazo de 10 dias a contar do respetivo requerimento.
+
+6 - O decurso do prazo referido no número anterior sem a realização da vistoria implica a não oposição à utilização do edifício ou da sua fração.
+
+7 - Em caso de determinação de vistoria, o prazo para a realização das cedências previsto no n.º 3 do artigo 44.º, quando aplicável, é contado a partir da notificação da declaração de conformidade referida no n.º 4 ou do termo do prazo previsto no n.º 5.
+
+8 - A vistoria relativa a edifícios ou recintos classificados nas 2.ª, 3.ª e 4.ª categorias de risco pode integrar técnicos da Autoridade Nacional de Emergência e Proteção Civil ou de câmara municipal por ela credenciada.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 66.º — Propriedade horizontal
+
+1 - No caso de edifícios constituídos em regime de propriedade horizontal, a comunicação prevista nos artigos 62.º-A e 62.º-B pode ter por objeto o edifício na sua totalidade ou cada uma das suas frações autónomas.
+
+2 - Pode existir oposição à utilização quando as partes comuns dos edifícios em que se integram não estejam em condições de serem utilizadas.
+
+3 - Caso o interessado não tenha ainda requerido a certificação pela câmara municipal de que o edifício satisfaz os requisitos legais para a sua constituição em regime de propriedade horizontal, tal pedido pode acompanhar a comunicação a que se refere o n.º 1.
+
+4 - O disposto nos n.ºs 2 e 3 é aplicável, com as necessárias adaptações, aos edifícios compostos por unidades susceptíveis de utilização independente que não estejam sujeitos ao regime da propriedade horizontal.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+#### Secção IV — Validade e eficácia dos atos
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+##### Subsecção I — Validade
+
+###### Artigo 67.º — Requisitos
+
+A validade das licenças e das decisões relativas a pedidos de informação prévia depende da sua conformidade com as normas legais e regulamentares aplicáveis em vigor à data da sua prática, sem prejuízo do disposto no artigo 60.º
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 68.º — Nulidades
+
+Sem prejuízo da possibilidade de atribuição de efeitos jurídicos a situações de facto decorrentes de atos nulos nos termos gerais de direito, bem como do disposto no artigo 70.º, são nulas as licenças e as decisões relativas a pedidos de informação prévia previstos no presente diploma que:
+
+a) Violem o disposto em plano municipal ou intermunicipal de ordenamento do território, medidas preventivas, normas provisórias ou operação de loteamento em vigor;
+
+b) (Revogada.)
+
+c) Não tenham sido precedidas de consulta das entidades cujos pareceres, autorizações ou aprovações sejam legalmente exigíveis, bem como quando não estejam em conformidade com esses pareceres, autorizações ou aprovações, desde que os pareceres tenham sido emanados dentro do prazo legalmente previsto.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 69.º — Participação, ação administrativa e declaração de nulidade
+
+1 - Os factos geradores das nulidades previstas no artigo anterior e quaisquer outros factos de que possa resultar a invalidade dos atos administrativos previstos no presente diploma devem ser participados, por quem deles tenha conhecimento, ao Ministério Público, para efeitos de propositura da competente ação administrativa e respetivos meios processuais acessórios.
+
+2 - Quando tenha por objeto atos de licenciamento ou decisões relativas a pedidos de informação prévia com fundamento em qualquer das invalidades previstas no artigo anterior, a citação do titular da licença ou da informação prévia favorável para contestar a ação referida no número anterior não prejudica o prosseguimento dos trabalhos, sem prejuízo do disposto no número seguinte.
+
+3 - O Ministério Público pode, na ação referida no número anterior, requerer medidas cautelares nos termos do artigo 112.º do Código de Processo nos Tribunais Administrativos, devendo o juiz proferir decisão sobre a medida, quando a ela houver lugar, no prazo de 10 dias.
+
+4 - A possibilidade de o órgão que emitiu o ato ou deliberação declarar a nulidade caduca no prazo de três anos contados da data da sua emissão, caducando igualmente no mesmo prazo o direito de propor a ação prevista no n.º 1 ou de propositura de ação popular, nos termos do n.º 2 do artigo 9.º e do n.º 2 do artigo 55.º do Código de Processo nos Tribunais Administrativos, exceto relativamente a monumentos nacionais e respetiva zona de proteção.
+
+5 - Se os factos que determinaram a nulidade consubstanciarem a prática de um crime, o prazo de caducidade referido no número anterior é alargado para a duração do prazo de prescrição aplicável.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 70.º — Responsabilidade civil da Administração
+
+1 - O município responde civilmente nos termos gerais por ações e omissões cometidas em violação do estabelecido no presente decreto-lei.
+
+2 - O disposto no número anterior inclui a responsabilidade por prejuízos resultantes de operações urbanísticas executadas com base em atos administrativos ilegais praticados no âmbito dos procedimentos de licenciamento, comunicação prévia ou comunicação prévia com prazo, nomeadamente em caso de revogação, anulação ou declaração de nulidade de licenças ou de decisões relativas a informações prévias, sempre que a causa de revogação, anulação ou declaração de nulidade resulte de uma conduta ilícita dos titulares dos seus órgãos ou dos seus funcionários e agentes.
+
+3 - Para efeitos do disposto no número anterior são solidariamente responsáveis:
+
+a) O titular do órgão administrativo singular que haja praticado os atos ao abrigo dos quais foram executadas ou desenvolvidas as operações urbanísticas referidas sem que tivesse sido promovida a consulta de entidades externas ou em desrespeito do parecer, autorização ou aprovação emitidos, quando vinculativos;
+
+b) Os membros dos órgãos colegiais que tenham votado a favor dos atos referidos na alínea anterior;
+
+c) Os trabalhadores que tenham prestado informação favorável à prática do ato administrativo ilegal, em caso de dolo ou culpa grave;
+
+d) Os membros da câmara municipal quando não promovam as medidas necessárias à reposição da legalidade, nos termos do disposto no n.º 8 do artigo 35.º, em caso de dolo ou culpa grave.
+
+4 - Quando a ilegalidade que fundamenta a revogação, anulação ou declaração de nulidade de ato administrativo resulte de parecer vinculativo, autorização ou aprovação legalmente exigível, a entidade que o emitiu responde solidariamente com o município, que tem sobre aquela direito de regresso nos termos gerais de direito.
+
+5 - Impende sobre os titulares dos órgãos municipais o dever de desencadear procedimentos disciplinares aos trabalhadores sempre que se verifique alguma das situações referidas no artigo 101.º
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+##### Subsecção II — Caducidade e cessação de efeitos
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 71.º — Caducidade
+
+1 - A licença ou comunicação prévia para a realização de operação de loteamento caduca se:
+
+a) Não for apresentada a comunicação prévia ou pedido de licenciamento para a realização das respetivas obras de urbanização no prazo de um ano a contar da notificação do ato de licenciamento ou, na hipótese de deferimento tácito ou de comunicação prévia, não for apresentada comunicação prévia para a realização de obras de urbanização no prazo de um ano a contar da data daqueles;
+
+b) Não forem pagas as taxas e demais encargos devidos no prazo de um ano a contar da comunicação prévia das respetivas obras de urbanização ou da notificação do ato de licenciamento ou da formação do deferimento tácito; ou
+
+c) Não forem iniciadas as obras de edificação previstas na operação de loteamento no prazo fixado no respetivo título, o qual deve respeitar os prazos máximos eventualmente previstos em instrumento de gestão territorial ou regulamento municipal aplicável, podendo só excecionalmente e em casos fundamentados ser superior a 10 anos.
+
+2 - A licença ou comunicação prévia para a realização de operação de loteamento que não exija a realização de obras de urbanização, ou para a realização das demais operações urbanísticas previstas nos n.os 2 e 4 do artigo 4.º, caducam se no prazo de um ano a contar da notificação do ato de licenciamento, da formação do deferimento tácito ou da comunicação prévia não forem pagas as taxas e demais encargos a que se referem os artigos 4.º-A e 116.º
+
+3 - Para além das situações previstas nos números anteriores, a licença ou a comunicação prévia para a realização das operações urbanísticas referidas no n.º 2, bem como a licença ou a comunicação prévia para a realização de operação de loteamento que exija a realização de obras de urbanização e, também, no caso de informação prévia emitida nos termos do n.º 2 do artigo 14.º, que contenha todos os elementos previstos nas respetivas alíneas a) a f) que sejam aplicáveis à operação pretendida, caducam ainda:
+
+a) Se as obras não forem iniciadas no prazo de 12 meses a contar da data do pagamento das taxas e demais encargos ou do deferimento tácito, nos casos em que este ocorra, não podendo, no caso da informação prévia, ser ultrapassado o prazo previsto no n.º 5 do artigo 17.º;
+
+b) Se as obras estiverem suspensas por período superior a seis meses, salvo se a suspensão decorrer de facto não imputável ao titular da licença, da comunicação prévia ou do pedido de informação prévia;
+
+c) Se as obras estiverem abandonadas por período superior a seis meses;
+
+d) Se as obras não forem concluídas no prazo fixado na licença, comunicação prévia ou informação prévia, ou suas prorrogações, contado a partir da data do pagamento das taxas e demais encargos devidos;
+
+e) (Revogada.)
+
+4 - Para os efeitos do disposto na alínea c) do número anterior, presumem-se abandonadas as obras ou trabalhos sempre que:
+
+a) Se encontrem suspensos sem motivo justificativo registado no respectivo livro de obra;
+
+b) Decorram na ausência do diretor da obra;
+
+c) Se desconheça o paradeiro do titular da respetiva licença ou comunicação prévia ou de quem tenha informado o início da obra sem que este haja indicado à câmara municipal procurador bastante que o represente.
+
+5 - As caducidades previstas no presente artigo devem ser declaradas pela câmara municipal, após audiência prévia do interessado.
+
+6 - Os prazos a que se referem os números anteriores contam-se de acordo com o disposto no artigo 279.º do Código Civil.
+
+7 - Tratando-se de licença, comunicação prévia ou informação prévia que contenha todos os elementos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º que sejam aplicáveis à operação pretendida, para a realização de operação de loteamento ou de obras de urbanização a caducidade pelos motivos previstos nos n.os 3 e 4 observa os seguintes termos:
+
+a) A caducidade não produz efeitos relativamente aos lotes para os quais já haja sido deferido pedido de licenciamento para obras de edificação ou já tenha sido apresentada comunicação prévia da realização dessas obras;
+
+b) A caducidade não produz efeitos relativamente às parcelas cedidas para implantação de espaços verdes públicos e equipamentos de utilização coletiva e infraestruturas que sejam indispensáveis aos lotes referidos na alínea anterior ou já se encontrem afetas a programa de habitação pública, de custos controlados ou para arrendamento acessível e sejam identificadas pela câmara municipal na declaração prevista no n.º 5;
+
+c) A caducidade não produz efeitos, ainda, quanto à divisão ou reparcelamento fundiário resultante da operação de loteamento, mantendo-se os lotes constituídos por esta operação, a respetiva área e localização e extinguindo-se as demais especificações relativas aos lotes, previstas no respetivo título.
+
+8 - Pode o presidente da câmara municipal, mediante requerimento fundamentado do interessado, conceder prorrogação dos prazos previstos na alínea b) do n.º 1 e no n.º 2, por uma única vez e pelo mesmo prazo.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Retificado pelo/a [Declaração de Retificação n.º 46-A/2014 - Diário da República n.º 217/2014, 1º Suplemento, Série I de 2014-11-10](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/46-a-2014-58815340), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 72.º — Renovação
+
+1 - O titular de licença, comunicação prévia ou informação prévia que haja caducado pode requerer nova licença, apresentar novo pedido de informação prévia ou nova comunicação prévia.
+
+2 - No caso referido no número anterior, são utilizados no novo processo os elementos que instruíram o processo anterior desde que se mantenham válidos e eficazes.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 73.º — Revogação
+
+1 - Sem prejuízo do que se dispõe no número seguinte, a licença e as decisões relativas a pedidos de informação prévia favoráveis só podem ser revogadas nos termos estabelecidos na lei para os atos constitutivos de direitos.
+
+2 - Nos casos a que se refere o n.º 2 do artigo 105.º, a licença pode ser revogada pela câmara municipal decorrido o prazo de seis meses a contar do termo do prazo estabelecido de acordo com o n.º 1 do mesmo artigo.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+##### Subsecção III — Títulos das operações urbanísticas
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 74.º — Títulos da licença e da comunicação prévia
+
+1 - As operações urbanísticas objeto de licenciamento são tituladas pelo recibo de pagamentos das taxas legalmente devidas, cuja emissão é condição de eficácia da licença.
+
+2 - A comunicação prévia relativa a operações urbanísticas é titulada pelo comprovativo da sua apresentação e, no caso de operações de loteamento, é titulada, ainda, por documento comprovativo da prestação de caução do instrumento a que se refere o n.º 3 do artigo 44.º ou por declaração da câmara municipal relativa à sua inexigibilidade.
+
+3 - (Revogado.)
+
+4 - Nos casos em que ocorra deferimento tácito o pagamento de taxas não é condição de eficácia da licença.
+
+5 - Sempre que haja lugar à prestação de caução, o interessado é notificado desse dever, produzindo a comunicação prévia efeitos com o respetivo pagamento.
+
+6 - Sempre que a notificação a que se refere o número anterior não tenha lugar no prazo de 15 dias, a comunicação prévia produz efeitos independentemente do pagamento.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 75.º — Competência
+
+Compete ao presidente da câmara municipal emitir o alvará para a realização das operações urbanísticas, podendo delegar esta competência nos vereadores, com faculdade de subdelegação, ou nos dirigentes dos serviços municipais.
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 76.º — Requerimento
+
+1 - O interessado deve, no prazo de um ano a contar da data da notificação do acto de licenciamento ou da autorização de utilização, requerer a emissão do respectivo alvará, apresentando para o efeito os elementos previstos em portaria aprovada pelo membro do Governo responsável pelo ordenamento do território.
+
+2 - Pode ainda o presidente da câmara municipal, a requerimento fundamentado do interessado, conceder prorrogação, por uma única vez, do prazo previsto no número anterior.
+
+3 - No caso de operação de loteamento que exija a realização de obras de urbanização, é emitido um único alvará, que deve ser requerido no prazo de um ano a contar da comunicação prévia das obras de urbanização.
+
+4 - Sem prejuízo do disposto nos artigos 64.º e 65.º, o alvará é emitido no prazo de 30 dias a contar da apresentação do requerimento previsto nos números anteriores ou da recepção dos elementos a que se refere o n.º 3 do artigo 11.º desde que se mostrem pagas as taxas devidas.
+
+5 - O requerimento de emissão de alvará só pode ser indeferido com fundamento na caducidade, suspensão, revogação, anulação ou declaração de nulidade da licença, na caducidade ou cassação do título da comunicação prévia nos termos do artigo 79.º, ou na falta de pagamento das taxas referidas no número anterior.
+
+6 - O alvará obedece a um modelo tipo a estabelecer por portaria aprovada pelo membro do Governo responsável pelo ordenamento do território.
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 77.º — Especificações
+
+1 - O alvará de licença de operação de loteamento ou de obras de urbanização deve conter, nos termos da licença, a especificação dos seguintes elementos, consoante forem aplicáveis:
+
+a) Identificação do titular do alvará;
+
+b) Identificação do prédio objecto da operação de loteamento ou das obras de urbanização;
+
+c) Identificação dos actos dos órgãos municipais relativos ao licenciamento da operação de loteamento e das obras de urbanização;
+
+d) Enquadramento da operação urbanística em plano municipal ou intermunicipal de ordenamento do território em vigor, bem como na respetiva unidade de execução, se a houver;
+
+e) Número de lotes e indicação da área, localização, finalidade, área de implantação, área de construção, número de pisos e número de fogos de cada um dos lotes, com especificação dos fogos destinados a habitações a custos controlados, quando previstos;
+
+f) Cedências obrigatórias, sua finalidade e especificação das parcelas a integrar no domínio municipal;
+
+g) Prazo máximo para a conclusão das operações de edificação previstas na operação de loteamento, o qual deve observar o prazo previsto no instrumento de programação da execução do plano territorial de âmbito municipal ou intermunicipal aplicável e não pode ser superior a 10 anos;
+
+h) Prazo para a conclusão das obras de urbanização;
+
+i) Montante da caução prestada e identificação do respectivo título.
+
+2 - O alvará a que se refere o número anterior deve conter, em anexo, as plantas representativas dos elementos referidos nas alíneas e) e f).
+
+3 - As especificações do alvará a que se refere o n.º 1 vinculam a câmara municipal, o proprietário do prédio, bem como os adquirentes dos lotes.
+
+4 - O alvará de licença para a realização das operações urbanísticas a que se referem as alíneas b) a g) e l) do artigo 2.º deve conter, nos termos da licença, os seguintes elementos, consoante sejam aplicáveis:
+
+a) Identificação do titular da licença;
+
+b) Identificação do lote ou do prédio onde se realizam as obras ou trabalhos;
+
+c) Identificação dos actos dos órgãos municipais relativos ao licenciamento das obras ou trabalhos;
+
+d) Enquadramento das obras em operação de loteamento ou plano municipal ou intermunicipal de ordenamento do território em vigor, no caso das obras previstas nas alíneas b), c) e e) do artigo 2.º;
+
+e) Os condicionamentos a que fica sujeita a licença;
+
+f) As cérceas e o número de pisos acima e abaixo da cota de soleira;
+
+g) A área de construção e a volumetria dos edifícios;
+
+h) O uso a que se destinam as edificações;
+
+i) O prazo de validade da licença, o qual corresponde ao prazo para a conclusão das obras ou trabalhos.
+
+5 - O alvará de autorização de utilização relativo à utilização de edifício ou de sua fracção deve conter a especificação dos seguintes elementos:
+
+a) Identificação do titular da autorização;
+
+b) Identificação do edifício ou fracção autónoma;
+
+c) O uso a que se destina o edifício ou fracção autónoma.
+
+6 - O alvará a que se refere o número anterior deve ainda mencionar, quando for caso disso, que o edifício a que respeita preenche os requisitos legais para a constituição da propriedade horizontal.
+
+7 - No caso de substituição do titular de alvará de licença, o substituto deve disso fazer prova junto do presidente da câmara para que este proceda ao respectivo averbamento no prazo de 15 dias a contar da data da substituição.
+
+8 - A titularidade do alvará de autorização de utilização de edifícios ou fracções autónomas é transmitida automaticamente com a propriedade a que respeita.
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 78.º — Publicidade
+
+1 - O titular do alvará deve promover, no prazo de 10 dias após a emissão do alvará, a afixação no prédio objecto de qualquer operação urbanística de um aviso, visível do exterior, que deve permanecer até à conclusão das obras.
+
+2 - A emissão do alvará de licença de loteamento deve ainda ser publicitada pela câmara municipal, no prazo estabelecido no n.º 1, através de:
+
+a) Publicação de aviso em boletim municipal e na página da Internet do município ou, quando estes não existam, através de edital a afixar nos paços do concelho e nas sedes das juntas de freguesia abrangidas;
+
+b) Publicação de aviso num jornal de âmbito local, quando o número de lotes seja inferior a 20, ou num jornal de âmbito nacional, nos restantes casos.
+
+3 - Compete ao membro do Governo responsável pelo ordenamento do território aprovar, por portaria, o modelo do aviso referido no n.º 1.
+
+4 - O aviso previsto no número anterior deve mencionar, consoante os casos, as especificações previstas nas alíneas a) a g) do n.º 1 e a) a c) e f) a i) do n.º 4 do artigo 77.º
+
+5 - O disposto nos números anteriores aplica-se, com as necessárias adaptações, às situações objecto de comunicação prévia.
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 79.º — Cassação
+
+1 - O alvará ou o título da comunicação prévia é cassado pelo presidente da câmara municipal quando:
+
+a) A licença caduque, seja revogada, anulada ou declarada nula;
+
+b) A comunicação prévia caduque, não cumpra as normas legais ou regulamentares aplicáveis, não tenha sido antecedida dos pareceres, autorizações ou aprovações legalmente exigidos ou não se conforme com os mesmos.
+
+2 - A cassação do alvará ou do título da comunicação prévia de loteamento é comunicada pelo presidente da câmara municipal à conservatória do registo predial competente, para efeitos de anotação à descrição ou de cancelamento do correspondente registo.
+
+3 - Com a comunicação referida no número anterior, o presidente da câmara municipal dá igualmente conhecimento à conservatória do registo predial dos lotes que se encontrem na situação referida no n.º 7 do artigo 71.º, requerendo a esta o cancelamento parcial do correspondente registo nos termos da alínea g) do n.º 2 do artigo 101.º do Código do Registo Predial e indicando as descrições a manter.
+
+4 - O alvará cassado é apreendido pela câmara municipal, na sequência de notificação ao respectivo titular.
+
+5 - O título da comunicação prévia é cassado através do averbamento da cassação à informação constante da plataforma eletrónica referida no n.º 1 do artigo 8.º-A.
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+### Capítulo III — Execução e fiscalização
+
+#### Secção I — Início dos trabalhos
+
+###### Artigo 80.º — Início dos trabalhos
+
+1 - A execução das obras e trabalhos sujeitos a licença nos termos do presente diploma só pode iniciar-se, conforme disposto no artigo 4.º-A, depois de pagas as respetivas taxas e demais encargos devidos, bem como após a entrega dos elementos relativos à execução da obra definidos em portaria dos membros do Governo responsáveis pelas áreas da reforma do Estado e da construção.
+
+2 - As obras e os trabalhos sujeitos ao regime da comunicação prévia podem iniciar-se nos termos do disposto nos artigos 4.º-A e 34.º
+
+3 - As obras e trabalhos referidos no artigo 7.º só podem iniciar-se depois de emitidos os pareceres ou autorizações aí referidos ou após o decurso dos prazos fixados para a respetiva emissão, do pagamento das respetivas taxas e demais encargos devidos, e da formalização das cedências, quando aplicável.
+
+4 - No caso de obras isentas na sequência de informação prévia favorável que contemple todos os elementos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º que sejam aplicáveis à operação pretendida, o início dos trabalhos só pode realizar-se após a verificação do disposto nos n.os 8 e 9 do artigo 16.º
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 80.º-A — Informação sobre o início dos trabalhos e o responsável pelos mesmos
+
+1 - Até cinco dias antes do início dos trabalhos, inclusive das obras isentas de licença ou comunicação prévia, o promotor informa a câmara municipal dessa intenção, comunicando também a identidade da pessoa, singular ou coletiva, encarregada da execução dos mesmos e os demais elementos previstos na portaria referida no n.º 4 do artigo 9.º
+
+2 - A pessoa encarregada da execução dos trabalhos está obrigada à execução exata dos projetos e ao respeito pelas condições do licenciamento, da informação prévia favorável ou da comunicação prévia.
+
+3 - Estão isentas da informação sobre o início de trabalhos previsto no n.º 1 as obras de conservação previstas na alínea a) do n.º 1 do artigo 6.º que incidam exclusivamente no interior dos edifícios ou frações.
+
+4 - No caso das obras isentas de licença ou comunicação na sequência de informação prévia favorável que contemple todos os elementos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º que sejam aplicáveis à operação pretendida, a informação sobre o início dos trabalhos deve ser acompanhada do comprovativo do pagamento das taxas e demais encargos devidos, do comprovativo da realização das cedências, dos projetos de especialidades e demais elementos constantes da portaria referida no n.º 1, juntamente com o termo de responsabilidade dos autores dos projetos, que atestem que foram observadas as normas legais e regulamentares aplicáveis na sua elaboração, e do coordenador dos projetos, que ateste a compatibilidade entre estes, bem como o cumprimento por todos os projetos dos termos e condições da informação prévia favorável.
+
+5 - As obras referidas nos números anteriores devem ser objeto de publicitação pelo proprietário ou o diretor da obra, mediante aviso a afixar até cinco dias antes do início dos trabalhos, no local de execução da operação de forma visível da via pública, segundo o modelo aprovado por portaria do membro do Governo responsável pelo ordenamento do território.
+
+6 - A informação sobre o início dos trabalhos prevista no n.º 1 caduca no prazo de um ano sem que tenham sido iniciados os respetivos trabalhos.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 81.º — Demolição, escavação e contenção periférica
+
+1 - Nas obras sujeitas a licença, pode o presidente da câmara municipal, a pedido do interessado, em qualquer momento após a aprovação do projeto de arquitetura, permitir a execução de trabalhos de demolição ou de escavação e contenção periférica até à profundidade do piso de menor cota, desde que seja prestada caução para reposição do terreno nas condições em que se encontrava antes do início dos trabalhos.
+
+2 - [Revogado.]
+
+3 - Para os efeitos do n.º 1, o requerente deve apresentar, consoante os casos, o plano de demolições, o projeto de estabilidade ou o projeto de escavação e contenção periférica até à data da apresentação do pedido.
+
+4 - O presidente da câmara decide sobre o pedido previsto no n.º 1 no prazo de 15 dias a contar da data da sua apresentação.
+
+5 - É título bastante para a execução dos trabalhos de demolição, escavação ou contenção periférica a notificação do deferimento do respectivo pedido, que o requerente, a partir do início da execução dos trabalhos por ela abrangidos, deverá guardar no local da obra.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 82.º — Ligação às redes públicas
+
+1 - Uma vez cumpridos os requisitos previstos no artigo 80.º, e até ao início dos trabalhos, o interessado solicita às entidades gestoras a ligação dos sistemas de água, de saneamento, de gás, de eletricidade e de telecomunicações, podendo optar pela realização das obras indispensáveis à sua concretização, mediante autorização dessas entidades e nas condições regulamentares e técnicas por aquelas definidas.
+
+2 - [Revogado.]
+
+3 - (Revogado.)
+
+4 - No caso de obras sujeitas a comunicação prévia, se for necessária a compatibilização de projetos com as infraestruturas existentes ou a sua realização no caso de inexistência, estas são promovidas pela entidade prestadora ou pelo requerente, nos termos da parte final do n.º 1.
+
+5 - As ligações à rede de água, eletricidade e gás, telecomunicações e esgotos podem ainda ser efetuadas por empresas certificadas pelas entidades responsáveis por essas redes, casos em que fica o interessado dispensado de qualquer formalidade.
+
+6 - Para efeitos do número anterior, as entidades gestoras de redes de água, esgotos, eletricidade, telecomunicações ou gás, disponibilizam no seu sítio na Internet uma lista, com pelo menos sete empresas habilitadas a proceder à ligação à rede.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+#### Secção II — Execução dos trabalhos
+
+###### Artigo 83.º — Alterações durante a execução da obra
+
+1 - Podem ser realizadas em obra alterações ao projeto, mediante comunicação prévia, a qual obedece ao regime previsto no artigo 35.º, e deve ser instruída com os projetos e pareceres a que haja lugar, sem prejuízo do disposto nos números seguintes, devendo ser efetuada com a antecedência necessária para que as obras estejam concluídas antes da submissão da comunicação prevista no artigo 62.º-A.
+
+2 - Podem ser efetuadas sem dependência de comunicação prévia à câmara municipal as alterações em obra que correspondam a obras isentas de licença ou comunicação prévia.
+
+3 - As alterações em obra ao projeto inicialmente aprovado ou comunicado que envolvam a realização de obras de ampliação ou que impliquem alterações à implantação das edificações estão sujeitas ao disposto no n.º 2 do artigo 14.º, no artigo 27.º ou no artigo 35.º, consoante o procedimento inicial.
+
+4 - Nas situações previstas nos números anteriores, apenas são apresentados os elementos instrutórios que sofreram alterações.
+
+5 - [Revogado.]
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 84.º — Execução das obras pela câmara municipal
+
+1 - Sem prejuízo do disposto no presente diploma em matéria de suspensão ou caducidade, a câmara municipal, para salvaguarda do património cultural, da qualidade do meio urbano e do meio ambiente, da segurança das edificações e do público em geral ou, no caso de obras de urbanização, também para proteção de interesses de terceiros adquirentes de lotes, pode promover a realização das obras por conta do titular do direito à realização da operação urbanística quando, por causa que seja imputável a este último:
+
+a) Não tiverem sido iniciadas no prazo de um ano a contar do disposto no artigo 80.º;
+
+b) Permanecerem interrompidas por mais de um ano;
+
+c) Não tiverem sido concluídas no prazo fixado ou suas prorrogações, nos casos em que a câmara municipal tenha declarado a caducidade;
+
+d) Não hajam sido efectuadas as correcções ou alterações que hajam sido intimadas nos termos do artigo 105.º
+
+2 - A execução das obras referidas no número anterior e o pagamento das despesas suportadas com as mesmas efectuam-se nos termos dos artigos 107.º e 108.º
+
+3 - A câmara municipal pode ainda accionar as cauções referidas nos artigos 25.º e 54.º
+
+4 - Logo que se mostre reembolsada das despesas efetuadas nos termos do presente artigo, a câmara municipal procede ao levantamento do embargo que possa ter sido decretado ou, quando se trate de obras de urbanização, emite certidão comprovativa desse facto, competindo ao presidente da câmara dar conhecimento das respetivas deliberações, quando seja caso disso, à Direção-Geral do Território, para efeitos cadastrais, e à conservatória do registo predial.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 85.º — Execução das obras de urbanização por terceiro
+
+1 - Qualquer adquirente dos lotes, de edifícios construídos nos lotes ou de fracções autónomas dos mesmos tem legitimidade para requerer a autorização judicial para promover directamente a execução das obras de urbanização quando, verificando-se as situações previstas no n.º 1 do artigo anterior, a câmara municipal não tenha promovido a sua execução.
+
+2 - O requerimento é instruído com os seguintes elementos:
+
+a) Cópia do título previsto no artigo 4.º-A;
+
+b) Orçamento, a preços correntes do mercado, relativo à execução das obras de urbanização em conformidade com os projetos aprovados ou apresentados e com as condições respetivamente fixadas;
+
+c) Quaisquer outros elementos que o requerente entenda necessários para o conhecimento do pedido.
+
+3 - Antes de decidir, o tribunal notifica a câmara municipal, o titular da licença, da comunicação ou da informação que contenha todos os elementos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º que sejam aplicáveis à operação pretendida, para responderem no prazo de 30 dias e ordena a realização das diligências que entenda úteis para o conhecimento do pedido, nomeadamente a inspeção judicial do local.
+
+4 - Se deferir o pedido, o tribunal fixa especificadamente as obras a realizar e o respectivo orçamento e determina que a caução a que se refere o artigo 54.º fique à sua ordem, a fim de responder pelas despesas com as obras até ao limite do orçamento.
+
+5 - Na falta ou insuficiência da caução, o tribunal determina que os custos sejam suportados pelo município, sem prejuízo do direito de regresso deste sobre o titular da licença, da comunicação ou da informação prévia que contenha todos os elementos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º
+
+6 - O processo a que se referem os números anteriores é urgente e isento de custas.
+
+7 - Da sentença cabe recurso nos termos gerais.
+
+8 - Compete aos tribunais administrativos de círculo onde se localiza o prédio no qual se devam realizar as obras de urbanização conhecer os pedidos previstos no presente artigo.
+
+9 - A câmara municipal emite oficiosamente certidão para execução de obras por terceiro, competindo ao seu presidente dar conhecimento das respetivas deliberações à Direção-Geral do Território, para efeitos cadastrais, e à conservatória do registo predial, quando:
+
+a) Tenha havido recepção provisória das obras; ou
+
+b) Seja integralmente reembolsada das despesas efectuadas, caso se verifique a situação prevista no n.º 5.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 214-G/2015 - Diário da República n.º 193/2015, 3º Suplemento, Série I de 2015-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-g-2015-70423756), em vigor a partir de 2015-12-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+#### Secção III — Conclusão e recepção dos trabalhos
+
+###### Artigo 86.º — Limpeza da área e reparação de estragos
+
+1 - Concluída a obra, o dono da mesma é obrigado a proceder ao levantamento do estaleiro e respetivas instalações de alojamento temporário, quando existam, à limpeza da área, de acordo com o regime da gestão de resíduos de construção e demolição nela produzidos, e à reparação de quaisquer estragos ou deteriorações que tenha causado em infraestruturas públicas.
+
+2 - O cumprimento do disposto no número anterior é condição para a utilização do edifício ou fração ou para a receção provisória das obras de urbanização, salvo quando tenha sido prestada, em prazo a fixar pela câmara municipal, caução para garantia da execução das operações referidas no mesmo número.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 87.º — Recepção provisória e definitiva das obras de urbanização
+
+1 - É da competência da câmara municipal deliberar sobre a recepção provisória e definitiva das obras de urbanização após a sua conclusão e o decurso do prazo de garantia, respectivamente, mediante requerimento do interessado.
+
+2 - A recepção é precedida de vistoria, a realizar por uma comissão da qual fazem parte o interessado ou um seu representante e, pelo menos, dois representantes da câmara municipal.
+
+3 - É admissível a realização de receções provisórias parciais, ainda que as obras de urbanização não tenham sido licenciadas por fases.
+
+4 - As receções provisórias parciais referidas no número anterior devem ser realizadas em função do tipo de obra de urbanização realizada ou por referência a áreas infraestruturadas que sejam funcionalmente autónomas e, como tal, possam ser afetas ao uso público.
+
+5 - O prazo de garantia das obras de urbanização é de cinco anos.
+
+6 - À receção provisória e definitiva, bem como às respetivas vistorias, é aplicável, com as necessárias adaptações, o regime aplicável à receção provisória e definitiva das empreitadas de obras públicas, incluindo o regime da receção provisória e definitiva tácita das obras de urbanização.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+###### Artigo 88.º — Obras inacabadas
+
+1 - Quando as obras já tenham atingido um estado avançado de execução, mas a licença, a comunicação ou a informação prévia que contenha todos os elementos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º que sejam aplicáveis à operação pretendida haja caducado, pode ser requerida a concessão de licença especial para a sua conclusão, desde que não se mostre aconselhável a demolição da obra, por razões ambientais, urbanísticas, técnicas ou económicas.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 88.º-A — Condições de segurança e salubridade das edificações
+
+1 - Sem prejuízo de outras diligências que sejam especialmente determinadas para esse efeito, a câmara municipal procede à fiscalização das condições de segurança e salubridade das edificações no âmbito das vistorias e inspeções realizadas ao abrigo do presente diploma.
+
+2 - Independentemente da notificação do proprietário para a execução de obras ou para a demolição nos termos do artigo seguinte, caso sejam apurados indícios de situações irregulares ou ilícitas no domínio de relações jurídicas que sejam, ou devam ser, de arrendamento habitacional, a câmara municipal comunica o auto de vistoria e demais elementos probatórios que tenha recolhido nesse âmbito à entidade administrativa competente para a sua fiscalização, aplicando-se o disposto em legislação especial.
+
+3 - [Revogado.]
+
+4 - [Revogado.]
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Aditado pelo/a Artigo 24.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07.
+
+#### Secção IV — Utilização e conservação do edificado
+
+###### Artigo 89.º — Dever de conservação
+
+1 - As edificações devem ser objecto de obras de conservação pelo menos uma vez em cada período de oito anos, devendo o proprietário, independentemente desse prazo, realizar todas as obras necessárias à manutenção da sua segurança, salubridade e arranjo estético.
+
+2 - Sem prejuízo do disposto no número anterior, a câmara municipal pode a todo o tempo, oficiosamente ou a requerimento de qualquer interessado, determinar a execução das obras necessárias à correção de más condições de segurança ou de salubridade ou das obras de conservação necessárias à melhoria do arranjo estético.
+
+3 - A câmara municipal pode, oficiosamente ou a requerimento de qualquer interessado, ordenar a demolição total ou parcial das construções que ameacem ruína ou ofereçam perigo para a saúde pública e para a segurança das pessoas.
+
+4 - A notificação dos atos referidos nos números anteriores é acompanhada da indicação dos elementos instrutórios necessários para a execução daquelas obras, do prazo para a sua apresentação, das medidas urgentes, quando sejam necessárias, bem como do prazo em que as obras devem ser executadas, sob pena de o notificando incorrer em incumprimento do ato, designadamente para os efeitos previstos nos artigos 91.º e 100.º
+
+5 - Os atos referidos nos números anteriores são eficazes a partir da sua notificação ao proprietário, sendo o registo predial da intimação para a execução de obras ou para a demolição promovido oficiosamente para efeitos de averbamento, servindo de título para o efeito a certidão passada pelo município competente.
+
+6 - O registo referido no número anterior é cancelado através da exibição de certidão emitida pela câmara municipal que ateste a conclusão das obras ou o cumprimento da ordem de demolição, consoante o caso, ou pela junção de título de utilização emitido posteriormente.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2019 - Diário da República n.º 97/2019, Série I de 2019-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2019-122349220), em vigor a partir de 2019-06-20.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 89.º-A — Proibição de deterioração
+
+1 - O proprietário não pode, dolosamente, provocar ou agravar uma situação de falta de segurança ou de salubridade, provocar a deterioração do edifício ou prejudicar o seu arranjo estético.
+
+2 - Presume-se, salvo prova em contrário, existir violação pelo proprietário do disposto no número anterior nas seguintes situações:
+
+a) Quando o edifício, encontrando-se total ou parcialmente devoluto, tenha apenas os vãos do piso superior ou dos pisos superiores desguarnecidos;
+
+b) Quando estejam em falta elementos decorativos, nomeadamente cantarias ou revestimento azulejar relevante, em áreas da edificação que não sejam acessíveis pelos transeuntes, sendo patente que tal falta resulta de actuação humana.
+
+3 - A proibição constante do n.º 1 é aplicável, além do proprietário, a qualquer pessoa singular ou colectiva.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 90.º — Vistoria prévia
+
+1 - As deliberações referidas nos n.ºs 2 e 3 do artigo 89.º são precedidas de vistoria a realizar por três técnicos a nomear pela câmara municipal, dois dos quais com habilitação legal para ser autor de projecto, correspondentes à obra objecto de vistoria, segundo o regime da qualificação profissional dos técnicos responsáveis pela elaboração e subscrição de projectos.
+
+2 - Do ato que determinar a realização da vistoria e respetivos fundamentos é notificado o proprietário do imóvel, mediante carta registada expedida com, pelo menos, sete dias de antecedência, ou, não sendo esta possível em virtude do desconhecimento da identidade ou do paradeiro do proprietário, mediante edital, nos termos estabelecidos no Código do Procedimento Administrativo, sendo, para este efeito, obrigatória a afixação de um edital no imóvel.
+
+3 - Até à véspera da vistoria, o proprietário pode indicar um perito para intervir na realização da vistoria e formular quesitos a que deverão responder os técnicos nomeados.
+
+4 - Da vistoria é imediatamente lavrado auto, do qual consta obrigatoriamente a identificação do imóvel, a descrição do estado do mesmo e as obras preconizadas e, bem assim, as respostas aos quesitos que sejam formuladas pelo proprietário.
+
+5 - A descrição do estado do imóvel, a que se refere o número anterior, inclui a identificação do seu estado de conservação, apurado através da determinação do nível de conservação do imóvel de acordo com o disposto no artigo 5.º do Decreto-Lei n.º 266-B/2012, de 31 de Dezembro, e na respectiva regulamentação.
+
+6 - O auto referido no n.º 4 é assinado por todos os técnicos e pelo perito que hajam participado na vistoria e, se algum deles não quiser ou não puder assiná-lo, faz-se menção desse facto.
+
+7 - Quando o proprietário não indique perito até à data referida no n.º 3, a vistoria é realizada sem a presença deste, sem prejuízo de, em eventual impugnação administrativa ou contenciosa da deliberação em causa, o proprietário poder alegar factos não constantes do auto de vistoria, quando prove que não foi regularmente notificado nos termos do n.º 2.
+
+8 - As formalidades previstas no presente artigo podem ser preteridas quando exista risco iminente de desmoronamento ou grave perigo para a saúde pública, nos termos previstos na lei para o estado de necessidade.
+
+9 - Aplica-se à vistoria o disposto no artigo 95.º, com as devidas adaptações.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2019 - Diário da República n.º 97/2019, Série I de 2019-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2019-122349220), em vigor a partir de 2019-06-20.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 266-B/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-b-2012-632428), em vigor a partir de 2013-01-01.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 90.º-A — Execução das obras determinadas pela câmara municipal
+
+1 - [Revogado.]
+
+2 - [Revogado.]
+
+3 - Durante a execução da obra, cujo início deve ser informado nos termos do artigo 80.º-A, a comissão de vistorias que tiver efetuado a vistoria referida no artigo 90.º, ou quem a substitua, acompanha periodicamente o andamento dos trabalhos, para garantia do cumprimento integral da notificação inicial, solicitando a inscrição no livro de obra da data e das conclusões das visitas.
+
+4 - A comissão verifica igualmente, com o proprietário, a necessidade de se proceder a alterações aos trabalhos inicialmente previstos, em função de alterações supervenientes detetadas durante a execução da obra e imprevisíveis aquando daquela notificação, que deverão ser objeto de nova intimação municipal.
+
+5 - Quaisquer obras que extravasem o especificamente determinado pelo presidente da câmara estão sujeitas ao procedimento de controlo legalmente devido, devendo, nos casos em que haja intervenções estruturais, ser apresentado termo de responsabilidade elaborado por técnico habilitado, de acordo com o previsto na subalínea ii) da alínea b) do n.º 1 do artigo 6.º
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 66/2019 - Diário da República n.º 97/2019, Série I de 2019-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2019-122349220), em vigor a partir de 2019-06-20.
+
+###### Artigo 91.º — Obras coercivas
+
+1 - Quando o proprietário não iniciar as obras que lhe sejam determinadas nos termos do artigo 89.º, não apresentar os elementos instrutórios no prazo fixado para o efeito, ou estes forem objeto de rejeição, ou não concluir aquelas obras dentro dos prazos que para o efeito lhe forem fixados, pode a câmara municipal tomar posse administrativa do imóvel para lhes dar execução imediata.
+
+2 - À execução coerciva das obras referidas no número anterior, incluindo todos os atos preparatórios necessários, como sejam levantamentos, sondagens, realização de estudos ou projetos, aplica-se, com as devidas adaptações, o disposto nos artigos 107.º, 108.º e 108.º-B.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2019 - Diário da República n.º 97/2019, Série I de 2019-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2019-122349220), em vigor a partir de 2019-06-20.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 92.º — Despejo administrativo
+
+1 - A câmara municipal pode ordenar o despejo sumário dos prédios ou parte de prédios nos quais haja de realizar-se as obras referidas nos n.ºs 2 e 3 do artigo 89.º, sempre que tal se mostre necessário à execução das mesmas.
+
+2 - O despejo referido no número anterior pode ser determinado oficiosamente ou, quando o proprietário pretenda proceder às mesmas, a requerimento deste.
+
+3 - A deliberação que ordene o despejo é eficaz a partir da sua notificação aos ocupantes.
+
+4 - O despejo deve executar-se no prazo de 45 dias a contar da sua notificação aos ocupantes, salvo quando houver risco iminente de desmoronamento ou grave perigo para a saúde pública, em que poderá executar-se imediatamente.
+
+5 - Ao despejo de ocupante titular de contrato de arrendamento aplica-se o disposto no Decreto-Lei n.º 157/2006, de 8 de Agosto.
+
+> Alterado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 157/2006 - Diário da República n.º 152/2006, Série I de 2006-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2006-538614), em vigor a partir de 2006-09-07.
+
+#### Secção V — Fiscalização
+
+##### Subsecção I — Disposições gerais
+
+###### Artigo 93.º — Âmbito
+
+1 - A realização de quaisquer operações urbanísticas está sujeita a fiscalização administrativa, independentemente da sua sujeição a licenciamento, comunicação prévia ou comunicação prévia com prazo, ou da sua isenção.
+
+2 - A fiscalização administrativa destina-se a assegurar a conformidade daquelas operações com as disposições legais e regulamentares aplicáveis aos aspetos exteriores e interiores das edificações que cada entidade pública visa salvaguardar, designadamente para o efeito de prevenir os perigos e consequentes riscos que da sua realização possam resultar para a saúde e segurança das pessoas, mas incide exclusivamente sobre o cumprimento de normas jurídicas e não sobre aspetos relacionados com a conveniência, a oportunidade ou as opções técnicas das operações urbanísticas.
+
+3 - Sempre que sejam verificados factos suscetíveis de configurar a violação de normas cuja fiscalização não seja da competência da câmara municipal, deve esta remeter o auto de vistoria e demais elementos probatórios que tenha recolhido nesse âmbito, às autoridades competentes em razão da matéria, e ao Ministério Público quando passíveis de atuação criminal.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-01-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 94.º — Competência
+
+1 - Sem prejuízo das competências atribuídas por lei a outras entidades, a fiscalização prevista no artigo anterior compete ao presidente da câmara municipal, com a faculdade de delegação em qualquer dos vereadores.
+
+2 - Os actos praticados pelo presidente da câmara municipal no exercício dos poderes de fiscalização previstos no presente diploma e que envolvam um juízo de legalidade de actos praticados pela câmara municipal respectiva, ou que suspendam ou ponham termo à sua eficácia, podem ser por esta revogados ou suspensos.
+
+3 - No exercício da actividade de fiscalização, o presidente da câmara municipal é auxiliado por funcionários municipais com formação adequada, a quem incumbe preparar e executar as suas decisões.
+
+4 - O presidente da câmara municipal pode ainda solicitar colaboração de quaisquer autoridades administrativas ou policiais.
+
+5 - A câmara municipal pode contratar com empresas privadas habilitadas a efectuar fiscalização de obras a realização das inspecções a que se refere o artigo seguinte, bem como as vistorias referidas no artigo 64.º
+
+6 - (Revogado.)
+
+> Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+###### Artigo 95.º — Inspecções
+
+1 - Os trabalhadores municipais afetos à fiscalização ou os trabalhadores das empresas privadas a que se refere o n.º 5 do artigo anterior podem realizar inspeções aos locais onde se desenvolvam atividades sujeitas a fiscalização nos termos do presente diploma, sem dependência de prévia notificação.
+
+2 - Os trabalhadores municipais afetos à fiscalização e os trabalhadores das empresas mencionados no número anterior podem fazer-se acompanhar de elementos das forças de segurança e do serviço municipal de proteção civil, sempre que haja fundadas dúvidas ou possa estar em causa a segurança de pessoas, bens e animais.
+
+3 - Na inspeção de operações urbanísticas sujeitas a fiscalização nos termos do presente diploma é necessária a obtenção de prévio mandado judicial para a entrada no domicílio de qualquer pessoa sem o seu consentimento.
+
+4 - O mandado previsto no número anterior é requerido pelo presidente da câmara municipal junto dos tribunais administrativos e segue os termos previstos no código do processo nos tribunais administrativos para os processos urgentes.
+
+5 - Para as operações urbanísticas em curso, a falta de consentimento decorre de ser vedado o acesso ao local por parte do proprietário, locatário, usufrutuário, superficiário, ou de quem se arrogue de outros direitos sobre o imóvel, ainda que por intermédio de alguma das demais pessoas mencionadas no n.º 2 do artigo 102.º-B, ou de ser comprovadamente inviabilizado o contacto pessoal com as pessoas antes mencionadas.
+
+6 - Para as operações urbanísticas concluídas, a falta de consentimento decorre de o proprietário não facultar o acesso ao local, quando regularmente notificado.
+
+7 - A entrada e a permanência no domicílio devem respeitar o princípio da proporcionalidade, ocorrer pelo tempo estritamente necessário à atividade de inspeção, incidir sobre o local onde se realizam ou realizaram operações urbanísticas e a prova a recolher deve limitar-se à atividade sujeita a inspeção.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2018 - Diário da República n.º 250/2018, Série I de 2018-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2018-117514512), em vigor a partir de 2018-12-29.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 214-G/2015 - Diário da República n.º 193/2015, 3º Suplemento, Série I de 2015-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-g-2015-70423756), em vigor a partir de 2015-12-01.
+
+###### Artigo 96.º — Vistorias
+
+1 - Para além dos casos especialmente previstos no presente diploma, o presidente da câmara municipal pode ordenar a realização de vistorias aos imóveis em que estejam a ser executadas operações urbanísticas quando o exercício dos poderes de fiscalização dependa da prova de factos que, pela sua natureza ou especial complexidade, impliquem uma apreciação valorativa de carácter pericial.
+
+2 - As vistorias ordenadas nos termos do número anterior regem-se pelo disposto no artigo 90.º e as suas conclusões são obrigatoriamente seguidas na decisão a que respeita.
+
+###### Artigo 97.º — Livro de obra
+
+1 - Todos os factos relevantes relativos à execução de obras licenciadas, objeto de comunicação prévia ou isentas de controlo nos termos da alínea h) do n.º 1 do artigo 6.º devem ser registados pelo respetivo diretor de obra no livro de obra, a conservar no local da sua realização para consulta pelos funcionários municipais responsáveis pela fiscalização de obras.
+
+2 - São obrigatoriamente registados no livro de obra, para além das respectivas datas de início e conclusão, todos os factos que impliquem a sua paragem ou suspensão, bem como todas as alterações feitas ao projecto licenciado ou comunicado.
+
+3 - O modelo e demais registos a inscrever no livro de obra são definidos por portaria conjunta dos membros do Governo responsáveis pelas obras públicas e pelo ordenamento do território, a qual fixa igualmente as características do livro de obra electrónico.
+
+4 - O livro de obras não é um elemento instrutório do pedido ou comunicação e não deve ser remetido para a câmara municipal no final da obra, nem ser sujeito a qualquer análise prévia, registo, validação ou termo de abertura ou encerramento por entidades públicas.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+##### Subsecção II — Sanções
+
+###### Artigo 98.º — Contra-ordenações
+
+1 - Sem prejuízo da responsabilidade civil, criminal ou disciplinar, são puníveis como contra-ordenação:
+
+a) (Revogada.)
+
+b) A realização de quaisquer operações urbanísticas em desconformidade com o respetivo projeto ou com as condições do licenciamento, da comunicação prévia ou da informação prévia com os efeitos do n.º 2 do artigo 17.º;
+
+c) A execução de trabalhos sem que a câmara municipal tenha sido previamente informada dessa intenção, ou a falta, não suprida após notificação para o efeito, de algum dos projetos ou demais elementos que devem acompanhar a informação sobre o início dos trabalhos, nos termos do disposto nos n.os 1 e 3 do artigo 80.º-A;
+
+d) A utilização de edifícios ou suas frações autónomas sem a comunicação prevista nos artigos 62.º-A ou 62.º-B, ou em desconformidade com a utilização comunicada ou constante do título de utilização existente;
+
+e) As falsas declarações dos autores e coordenador de projectos no termo de responsabilidade relativamente à observância das normas técnicas gerais e específicas de construção, bem como das disposições legais e regulamentares aplicáveis ao projecto;
+
+f) As falsas declarações no termo de responsabilidade do director de obra e do director de fiscalização de obra ou de outros técnicos relativamente:
+
+i) À conformidade da execução da obra com o projeto aprovado e com as condições da licença, da comunicação prévia apresentada ou da informação prévia emitida com os efeitos do n.º 2 do artigo 17.º;
+
+ii) À conformidade das alterações efectuadas ao projecto com as normas legais e regulamentares aplicáveis;
+
+g) A subscrição de projecto da autoria de quem, por razões de ordem técnica, legal ou disciplinar, se encontre inibido de o elaborar;
+
+h) O prosseguimento de obras cujo embargo tenha sido legitimamente ordenado;
+
+i) A não afixação ou a não manutenção de forma visível do exterior do prédio, do aviso previsto no artigo 12.º;
+
+j) A não afixação ou a não manutenção de forma visível do exterior do prédio, do aviso atualizado a que se refere o n.º 7 do artigo 4.º-A e do aviso a que se refere o n.º 5 do artigo 80.º-A;
+
+l) A falta do livro de obra no local onde se realizam as obras;
+
+m) A falta dos registos do estado de execução das obras no livro de obra;
+
+n) A não remoção do estaleiro e respetivas instalações de alojamento temporário, quando existam, dos entulhos e demais detritos resultantes da obra nos termos do artigo 86.º ou a utilização dos edifícios ou frações previamente a essa remoção;
+
+o) A ausência de requerimento a solicitar à câmara municipal o averbamento de substituição do requerente ou comunicante, do autor de projeto, do coordenador de projeto, de diretor de obra ou diretor de fiscalização de obra, do titular do alvará, do certificado de empreiteiro ou do título de registo emitidos pelo IMPIC, I. P., bem como do titular da licença, da comunicação ou da informação prévia;
+
+p) A ausência de menção à licença, à comunicação ou à informação prévia nos anúncios ou em quaisquer outras formas de publicidade à alienação dos lotes de terreno, de edifícios ou frações autónomas nele construídos;
+
+q) [Revogada.]
+
+r) A realização de operações urbanísticas sujeitas a licença, comunicação ou informação prévia com os efeitos do n.º 2 do artigo 17.º, sem título para o efeito;
+
+s) A não conclusão das operações urbanísticas referidas nos n.ºs 2 e 3 do artigo 89.º nos prazos fixados para o efeito;
+
+t) A deterioração dolosa da edificação pelo proprietário ou por terceiro ou a violação grave do dever de conservação.
+
+u) O não envio do comprovativo do pagamento das taxas, nos termos do n.º 7 do artigo 117.º
+
+2 - A contra-ordenação prevista nas alíneas a) e r) do número anterior é punível com coima graduada de (euro) 500 até ao máximo de (euro) 200 000, no caso de pessoa singular, e de (euro) 1500 até (euro) 450 000, no caso de pessoa colectiva.
+
+3 - A contra-ordenação prevista na alínea b) do n.º 1 é punível com coima graduada de (euro) 1500 até ao máximo de (euro) 200 000, no caso de pessoa singular, e de (euro) 3000 até (euro) 450 000, no caso de pessoa colectiva.
+
+4 - A contraordenação prevista nas alíneas c), d), s) e t) do n.º 1 é punível com coima graduada de (euro) 500 até ao máximo de (euro) 100 000, no caso de pessoa singular, e de (euro) 1500 até (euro) 250 000, no caso de pessoa coletiva.
+
+5 - As contra-ordenações previstas nas alíneas e) a h) do n.º 1 são puníveis com coima graduada de (euro) 1500 até ao máximo de (euro) 200 000.
+
+6 - As contra-ordenações previstas nas alíneas i) a n) e p) do n.º 1 são puníveis com coima graduada de (euro) 250 até ao máximo de (euro) 50 000, no caso de pessoa singular, e de (euro) 1000 até (euro) 100 000, no caso de pessoa colectiva.
+
+7 - A contraordenação prevista nas alíneas o) e u) do n.º 1 é punível com coima graduada de (euro) 100 até ao máximo de (euro) 2500, no caso de pessoa singular, e de (euro) 500 até (euro) 10 000, no caso de pessoa coletiva.
+
+8 - [Revogado.]
+
+9 - A tentativa e a negligência são puníveis.
+
+10 - A competência para determinar a instauração dos processos de contra-ordenação, para designar o instrutor e para aplicar as coimas pertence ao presidente da câmara municipal, podendo ser delegada em qualquer dos seus membros.
+
+11 - O produto da aplicação das coimas referidas no presente artigo reverte para o município, inclusive quando as mesmas sejam cobradas em juízo.
+
+12 - Após o decurso dos prazos do recurso de impugnação judicial e de pagamento voluntário da coima, segue-se o regime de execução de obrigações pecuniárias, previsto no artigo 179.º do Código de Procedimento Administrativo.
+
+> Nota: [Artigo 13.º, Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731) A alteração efetuada ao presente artigo aplica-se aos processos que deram entrada a partir de 1 de setembro de 2016 em que não tenha havido penhora.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 99.º — Sanções acessórias
+
+1 - As contra-ordenações previstas no n.º 1 do artigo anterior podem ainda determinar, quando a gravidade da infracção o justifique, a aplicação das seguintes sanções acessórias:
+
+a) A apreensão dos objectos pertencentes ao agente que tenham sido utilizados como instrumento na prática da infracção;
+
+b) A interdição do exercício no município, até ao máximo de quatro anos, da profissão ou actividade conexas com a infracção praticada;
+
+c) A privação do direito a subsídios outorgados por entidades ou serviços públicos.
+
+2 - As sanções previstas no n.º 1, bem como as previstas no artigo anterior, quando aplicadas a empresas de construção, empreiteiros ou construtores, são comunicadas ao IMPIC, I. P.
+
+3 - As sanções aplicadas ao abrigo do disposto nas alíneas e), f) e g) do n.º 1 do artigo anterior aos autores dos projectos, responsáveis pela direcção técnica da obra ou a quem subscreva o termo de responsabilidade previsto no artigo 63.º são comunicadas à respectiva ordem ou associação profissional, quando exista.
+
+4 - A interdição de exercício de actividade prevista na alínea b) do n.º 1, quando aplicada a pessoa colectiva, estende-se a outras pessoas colectivas constituídas pelos mesmos sócios.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 99.º-A — Regime das contraordenações urbanísticas
+
+1 - Constitui contraordenação urbanística todo o facto ilícito e censurável que preencha um tipo legal correspondente à violação de disposições legais e regulamentares relativas à realização de operações urbanísticas, para o qual se comine uma coima.
+
+2 - As contraordenações urbanísticas são reguladas pelo disposto no presente decreto-lei e, subsidiariamente, pelo regime geral das contraordenações.
+
+3 - São responsáveis pela prática de contraordenação as pessoas singulares ou coletivas, ainda que irregularmente constituídas, e quaisquer outras entidades equiparadas que pratiquem o facto constitutivo da mesma ou, no caso de omissão, que não tenham praticado a ação adequada a evitá-lo, independentemente do momento em que o resultado típico se tenha produzido.
+
+4 - As decisões, os despachos e as demais medidas tomadas pelas autoridades administrativas no decurso do procedimento são suscetíveis de impugnação judicial por parte do arguido ou da pessoa contra as quais se dirigem, com exceção das medidas que se destinem apenas a preparar a decisão final de arquivamento ou aplicação da coima e que não colidam com os direitos das pessoas.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+###### Artigo 100.º — Responsabilidade criminal
+
+1 - O desrespeito dos actos administrativos que determinem qualquer das medidas de tutela da legalidade urbanística previstas no presente diploma constitui crime de desobediência, nos termos do artigo 348.º do Código Penal.
+
+2 - As falsas declarações ou informações prestadas pelo autor ou coordenador de projetos, pelo diretor de obra, pelo diretor de fiscalização de obra ou por outros técnicos nos termos de responsabilidade ou no livro de obra integram o crime de falsificação de documentos, nos termos do artigo 256.º do Código Penal.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 100.º-A — Responsabilidade civil dos intervenientes nas operações urbanísticas
+
+1 - As pessoas jurídicas que violem, com dolo ou negligência, por ação ou omissão, os deveres inerentes ao exercício da atividade a que estejam obrigados por contrato ou por norma legal ou regulamentar aplicável são responsáveis pelo ressarcimento dos danos causados a terceiros e pelos custos e encargos das medidas específicas de reconstituição da situação que existiria caso a ordem jurídica urbanística não tivesse sido violada.
+
+2 - Relativamente a operações urbanísticas realizadas em violação das condições previstas na respetiva licença, comunicação ou informação prévia emitida com os efeitos do n.º 2 do artigo 17.º, consideram-se solidariamente responsáveis os empreiteiros, os diretores da obra e os responsáveis pela fiscalização, sem prejuízo da responsabilidade dos promotores e dos donos da obra, nos termos gerais.
+
+3 - Relativamente a operações urbanísticas sujeitas a licença, comunicação prévia ou comunicação prévia com prazo que tenham sido realizadas sem os respetivos procedimentos ou estejam em desconformidade com os seus pressupostos ou com qualquer das condições previstas na lei para a isenção dos mesmos, consideram-se solidariamente responsáveis os promotores e donos da obra, os responsáveis pelos usos e utilizações existentes, bem como os empreiteiros e os diretores da obra.
+
+4 - No caso de operações urbanísticas incompatíveis com os instrumentos de gestão territorial aplicáveis são solidariamente responsáveis:
+
+a) Os autores e coordenadores dos projetos e dos demais documentos técnicos;
+
+b) Os diretores da obra;
+
+c) Os responsáveis pela fiscalização.
+
+5 - Consideram-se promotores, para os efeitos do disposto nos n.ºs 2 e 3:
+
+a) A pessoa jurídica, pública ou privada, seja ou não proprietária dos terrenos relativamente aos quais se refere a operação urbanística, que é responsável pela sua execução ou desenvolvimento;
+
+b) O proprietário do imóvel no qual foram executadas ou desenvolvidas operações urbanísticas, quando tenha tido conhecimento das obras, trabalhos, edificações, usos e utilizações ilícitos, presumindo-se tal conhecimento, salvo prova em contrário, quando o proprietário tenha permitido, por qualquer ato, ao responsável direto da violação o acesso à utilização do imóvel.
+
+6 - Considera-se empreiteiro, para os efeitos do disposto nos n.os 2 e 3, a pessoa jurídica, pública ou privada, que exerce a atividade de execução das obras de edificação e urbanização e se encontre devidamente habilitada pelo IMPIC, I. P.
+
+7 - As pessoas coletivas são responsáveis pelas infrações cometidas pelos seus órgãos, funcionários e agentes.
+
+8 - Todos os intervenientes na realização de operações urbanísticas respondem solidariamente quando se verifique a impossibilidade de determinar o autor do dano ou, havendo concorrência de culpas, não seja possível precisar o grau de intervenção de cada interveniente no dano produzido.
+
+9 - A aprovação do projeto ou o exercício da fiscalização municipal não isentam os técnicos responsáveis pela sua fiscalização ou direção, da responsabilidade pela condução dos trabalhos em estrita observância pelas condições da licença ou da comunicação prévia.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+###### Artigo 101.º — Responsabilidade dos funcionários e agentes da Administração Pública
+
+Os funcionários e agentes da Administração Pública que deixem de participar infracções às entidades fiscalizadoras ou prestem informações falsas ou erradas sobre as infracções à lei e aos regulamentos de que tenham conhecimento no exercício das suas funções incorrem em responsabilidade disciplinar, punível com pena de suspensão a demissão.
+
+###### Artigo 101.º-A — Legitimidade para a denúncia
+
+1 - Qualquer pessoa tem legitimidade para comunicar à câmara municipal, ao Ministério Público, às ordens ou associações profissionais, ao IMPIC, I. P., ou a outras entidades competentes a violação das normas do presente diploma.
+
+2 - Não são admitidas denúncias anónimas.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+##### Subsecção III — Medidas de tutela da legalidade urbanística
+
+###### Artigo 102.º — Reposição da legalidade urbanística
+
+1 - Os órgãos administrativos competentes estão obrigados a adotar as medidas adequadas de tutela e restauração da legalidade urbanística quando sejam realizadas operações urbanísticas:
+
+a) Sem os necessários atos administrativos de licença ou informação prévia com os efeitos do n.º 2 do artigo 17.º;
+
+b) Em desconformidade com os respetivos atos administrativos de licença ou informação prévia com os efeitos do n.º 2 do artigo 17.º;
+
+c) Ao abrigo de ato administrativo revogado ou declarado nulo;
+
+d) Sem a necessária comunicação prévia ou comunicação prévia com prazo ou em desconformidade com as respetivas condições;
+
+e) Em desconformidade com as normas legais ou regulamentares aplicáveis.
+
+2 - As medidas a que se refere o número anterior podem consistir:
+
+a) No embargo de obras ou de trabalhos de remodelação de terrenos;
+
+b) Na suspensão administrativa da eficácia da licença ou informação prévia;
+
+c) Na determinação da realização de trabalhos de correção ou alteração, sempre que possível;
+
+d) Na legalização das operações urbanísticas;
+
+e) Na determinação da demolição total ou parcial de obras;
+
+f) Na reposição do terreno nas condições em que se encontrava antes do início das obras ou trabalhos;
+
+g) Na determinação da cessação da utilização de edifícios ou suas frações autónomas.
+
+3 - Independentemente das situações previstas no n.º 1, a câmara municipal pode:
+
+a) Determinar a execução de obras de conservação necessárias à correção de más condições de segurança ou salubridade ou à melhoria do arranjo estético;
+
+b) Determinar a demolição, total ou parcial, das construções que ameacem ruína ou ofereçam perigo para a saúde pública e segurança das pessoas.
+
+4 - [Revogado.]
+
+5 - [Revogado.]
+
+6 - [Revogado.]
+
+7 - [Revogado.]
+
+8 - [Revogado.]
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 102.º-A — Legalização
+
+1 - Quando se verifique a realização de operações urbanísticas ilegais nos termos do n.º 1 do artigo anterior, se for possível assegurar a sua conformidade com as disposições legais e regulamentares em vigor, a câmara municipal notifica os interessados para a legalização das operações urbanísticas, fixando um prazo para o efeito.
+
+2 - O procedimento de legalização deve ser instruído com os elementos exigíveis em função da pretensão concreta do requerente, com as especificidades constantes dos números seguintes.
+
+3 - A câmara municipal pode solicitar a entrega dos documentos e elementos, nomeadamente os projetos das especialidade e respetivos termos de responsabilidade ou os certificados de aprovação emitidos pelas entidades certificadoras competentes, que se afigurem necessários, designadamente, para garantir a segurança e saúde públicas.
+
+4 - Para efeitos do disposto no número anterior, é dispensada, nos casos em que não haja obras de ampliação ou de alteração a realizar, a apresentação dos seguintes elementos:
+
+a) Calendarização da execução da obra;
+
+b) Estimativa do custo total da obra;
+
+c) Documento comprovativo da prestação de caução;
+
+d) Apólice de seguro de construção;
+
+e) Apólice de seguro que cubra a responsabilidade pela reparação dos danos emergentes de acidentes de trabalho;
+
+f) Títulos habilitantes para o exercício da atividade de construção válidos à data da construção da obra;
+
+g) Livro de obra;
+
+h) Plano de segurança e saúde.
+
+5 - Pode ser dispensado o cumprimento de normas técnicas relativas à construção cujo cumprimento se tenha tornado impossível ou que não seja razoável exigir, desde que se verifique terem sido cumpridas as condições técnicas vigentes à data da realização da operação urbanística em questão, competindo ao requerente fazer a prova de tal data.
+
+6 - O interessado na legalização da operação urbanística pode solicitar à câmara municipal informação sobre os termos em que esta se deve processar, devendo a câmara municipal fornecer essa informação no prazo máximo de 15 dias.
+
+7 - Os municípios aprovam os regulamentos necessários para concretizar e executar o disposto no presente artigo devendo, designadamente, concretizar os procedimentos em função das operações urbanísticas e pormenorizar, sempre que possível, os aspetos que envolvam a formulação de valorações próprias do exercício da função administrativa, em especial os morfológicos e estéticos.
+
+8 - Nos casos em que os interessados não promovam as diligências necessárias à legalização voluntária das operações urbanísticas, a câmara municipal pode proceder oficiosamente à legalização, exigindo o pagamento das taxas fixadas em regulamento municipal.
+
+9 - A faculdade concedida no número anterior apenas pode ser exercida quando estejam em causa obras que não impliquem a realização de cálculos de estabilidade.
+
+10 - Caso o requerente, tendo sido notificado para o pagamento das taxas devidas, não proceda ao respetivo pagamento, é promovido o procedimento de execução fiscal do montante liquidado.
+
+11 - A legalização oficiosa tem por único efeito o reconhecimento de que as obras promovidas cumprem os parâmetros urbanísticos previstos nos instrumentos de gestão territorial aplicáveis, sendo efetuada sob reserva de direitos de terceiros.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+###### Artigo 102.º-B — Embargo
+
+1 - Sem prejuízo das competências atribuídas por lei a outras entidades, o presidente da câmara municipal é competente para embargar obras de urbanização, de edificação ou de demolição, bem como quaisquer trabalhos de remodelação de terrenos, quando estejam a ser executadas:
+
+a) Sem a necessária licença, comunicação ou informação prévia emitida com os efeitos do n.º 2 do artigo 17.º;
+
+b) Em desconformidade com o respetivo projeto ou com as condições do licenciamento ou comunicação prévia ou, da informação prévia referida na alínea anterior, salvo o disposto no artigo 83.º;
+
+c) Em violação das normas legais e regulamentares aplicáveis.
+
+2 - A notificação é feita ao responsável pela direção da obra, bem como ao titular da licença, comunicação ou informação prévia e, quando possível, ao proprietário do imóvel no qual estejam a ser executadas as obras ou seu representante, sendo suficiente para obrigar à suspensão dos trabalhos qualquer dessas notificações ou a de quem se encontre a executar a obra no local.
+
+3 - Após o embargo, é de imediato lavrado o respetivo auto, que contém, obrigatória e expressamente, a identificação do funcionário municipal responsável pela fiscalização de obras, das testemunhas e do notificado, a data, a hora e o local da diligência e as razões de facto e de direito que a justificam, o estado da obra e a indicação da ordem de suspensão e proibição de prosseguir a obra e do respetivo prazo, bem como as cominações legais do seu incumprimento.
+
+4 - O auto é redigido em duplicado e assinado pelo funcionário e pelo notificado, ficando o duplicado na posse deste.
+
+5 - No caso de a ordem de embargo incidir apenas sobre parte da obra, o respetivo auto faz expressa menção de que o embargo é parcial e identifica claramente qual é a parte da obra que se encontra embargada.
+
+6 - O auto de embargo é notificado às pessoas identificadas no n.º 2 e disponibilizado no sistema informático referido no artigo 8.º-A, no prazo de cinco dias úteis.
+
+7 - No caso de as obras estarem a ser executadas por pessoa coletiva, o embargo e o respetivo auto são ainda comunicados para a respetiva sede social ou representação em território nacional.
+
+8 - O embargo, assim como a sua cessação ou caducidade, é objeto de registo na conservatória do registo predial, mediante comunicação do despacho que o determinou, procedendo-se aos necessários averbamentos.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+###### Artigo 103.º — Efeitos do embargo
+
+1 - O embargo obriga à suspensão imediata, no todo ou em parte, dos trabalhos de execução da obra.
+
+2 - O embargo determina também a suspensão da eficácia do respetivo título, bem como, no caso de obras de urbanização, a suspensão de eficácia do título do loteamento urbano a que a mesma respeita ou a cessação das respetivas obras.
+
+3 - É interdito o fornecimento de energia eléctrica, gás e água às obras embargadas, devendo para o efeito ser notificado o acto que o ordenou às entidades responsáveis pelos referidos fornecimentos.
+
+4 - O embargo, ainda que parcial, suspende o prazo que estiver fixado para a execução das obras na respetiva licença ou estabelecido na comunicação prévia ou na informação prévia a que se refere o artigo anterior.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 104.º — Caducidade do embargo
+
+1 - A ordem de embargo caduca logo que for proferida uma decisão que defina a situação jurídica da obra com carácter definitivo ou no termo do prazo que tiver sido fixado para o efeito.
+
+2 - Na falta de fixação de prazo para o efeito, a ordem de embargo caduca se não for proferida uma decisão definitiva no prazo de seis meses, prorrogável uma única vez por igual período.
+
+###### Artigo 105.º — Trabalhos de correcção ou alteração
+
+1 - Nas situações previstas nas alíneas b), c), d) e e) do n.º 1 do artigo 102.º, o presidente da câmara municipal pode ainda, quando for caso disso, ordenar a realização de trabalhos de correção ou alteração da obra, fixando um prazo para o efeito, tendo em conta a natureza e o grau de complexidade dos mesmos.
+
+2 - Decorrido o prazo referido no número anterior sem que aqueles trabalhos se encontrem integralmente realizados, a obra permanece embargada até ser proferida uma decisão que defina a sua situação jurídica com carácter definitivo.
+
+3 - Tratando-se de obras de urbanização ou de outras obras indispensáveis para assegurar a proteção de interesses de terceiros ou o correto ordenamento urbano, a câmara municipal pode promover a realização dos trabalhos de correção ou alteração por conta do titular da licença ou informação prévia ou do apresentante da comunicação prévia, nos termos dos artigos 107.º e 108.º
+
+4 - A ordem de realização de trabalhos de correção ou alteração suspende o prazo que estiver fixado na licença, comunicação prévia ou informação prévia emitida com os efeitos do n.º 2 do artigo 17.º, pelo período estabelecido nos termos do n.º 1.
+
+5 - O prazo referido no n.º 1 interrompe-se com a apresentação de pedido de alteração à licença ou de informação ou comunicação prévia de alteração ao projeto, nos termos, respetivamente, do artigo 27.º, do n.º 2 do artigo 14.º e do artigo 35.º
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 106.º — Demolição da obra e reposição do terreno
+
+1 - O presidente da câmara municipal pode igualmente, quando for caso disso, ordenar a demolição total ou parcial da obra ou a reposição do terreno nas condições em que se encontrava antes da data de início das obras ou trabalhos, fixando um prazo para o efeito.
+
+2 - A demolição pode ser evitada se a obra for susceptível de ser licenciada ou objecto de comunicação prévia ou se for possível assegurar a sua conformidade com as disposições legais e regulamentares que lhe são aplicáveis mediante a realização de trabalhos de correcção ou de alteração.
+
+3 - A ordem de demolição ou de reposição a que se refere o n.º 1 é antecedida de audição do interessado, que dispõe de 15 dias a contar da data da sua notificação para se pronunciar sobre o conteúdo da mesma.
+
+4 - Decorrido o prazo referido no n.º 1 sem que a ordem de demolição da obra ou de reposição do terreno se mostre cumprida, o presidente da câmara municipal determina a demolição da obra ou a reposição do terreno por conta do infractor.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 107.º — Posse administrativa e execução coerciva
+
+1 - Sem prejuízo da responsabilidade criminal, em caso de incumprimento de qualquer das medidas de tutela da legalidade urbanística previstas nos artigos anteriores o presidente da câmara pode determinar a posse administrativa do imóvel onde está a ser realizada a obra, por forma a permitir a execução coerciva de tais medidas.
+
+2 - O acto administrativo que tiver determinado a posse administrativa é notificado ao dono da obra e aos demais titulares de direitos reais sobre o imóvel por carta registada com aviso de recepção.
+
+3 - Sempre que não seja possível a notificação postal referida no número anterior, designadamente em virtude do desconhecimento da identidade ou do paradeiro do proprietário, esta é efetuada por edital, nos termos estabelecidos no Código do Procedimento Administrativo, sendo, para este efeito, obrigatória a afixação de um edital no imóvel.
+
+4 - A posse administrativa é realizada pelos funcionários municipais responsáveis pela fiscalização de obras, mediante a elaboração de um auto onde, para além de se identificar o acto referido no número anterior, é especificado o estado em que se encontra o terreno, a obra e as demais construções existentes no local, bem como os equipamentos que ali se encontrarem.
+
+5 - Tratando-se da execução coerciva de uma ordem de embargo, os funcionários municipais responsáveis pela fiscalização de obras procedem à selagem do estaleiro da obra e dos respectivos equipamentos.
+
+6 - Em casos devidamente justificados, o presidente da câmara pode autorizar a transferência ou a retirada dos equipamentos do local de realização da obra, por sua iniciativa ou a requerimento do dono da obra ou do seu empreiteiro.
+
+7 - O dono da obra ou o seu empreiteiro devem ser notificados sempre que os equipamentos sejam depositados noutro local.
+
+8 - A posse administrativa do terreno e dos equipamentos mantém-se pelo período necessário à execução coerciva da respectiva medida de tutela da legalidade urbanística, caducando no termo do prazo fixado para a mesma.
+
+9 - (Revogado.)
+
+10 - Tratando-se de execução coerciva de uma ordem de demolição ou de trabalhos de correcção ou alteração de obras, estas devem ser executadas no mesmo prazo que havia sido concedido para o efeito ao seu destinatário, contando-se aquele prazo a partir da data de início da posse administrativa.
+
+11 - O prazo referido no número anterior pode ser prorrogado nos termos em que seja admissível no regime das empreitadas de obras públicas, previstos no Código dos Contratos Públicos.
+
+12 - O prazo referido no n.º 10 suspende-se, com o limite de 150 dias, pelo período em que decorrerem os procedimentos de contratação legalmente devidos relativos à intervenção, entre a decisão de contratar e o começo de execução do contrato ou, no caso das empreitadas, o início dos trabalhos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2019 - Diário da República n.º 97/2019, Série I de 2019-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2019-122349220), em vigor a partir de 2019-06-20.
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30.
+
+###### Artigo 108.º — Despesas realizadas com a execução coerciva
+
+1 - As quantias relativas às despesas realizadas nos termos do artigo anterior, incluindo os custos com o realojamento dos inquilinos a que haja lugar, bem como quaisquer indemnizações ou sanções pecuniárias que a Administração tenha de suportar para o efeito, são de conta do infrator.
+
+2 - Quando, no prazo de 20 dias a contar da notificação para o efeito, efetuada nos termos do artigo anterior, aquelas quantias não forem pagas voluntariamente nem tenha sido proposta pelo devedor, em alternativa para extinção da dívida, a dação em cumprimento ou em função do cumprimento ou ainda a consignação de rendimentos do imóvel nos termos da lei, as referidas quantias são cobradas judicialmente em processo de execução fiscal, servindo de título executivo a certidão, passada pelos serviços competentes, comprovativa das despesas efetuadas.
+
+3 - Em alternativa à cobrança judicial da dívida em processo de execução fiscal, e em função de um juízo de proporcionalidade, a câmara municipal pode optar pelo arrendamento forçado, nos termos do presente decreto-lei, notificando o proprietário nos termos previstos no artigo anterior, devendo esta notificação conter ainda o local, o dia e a hora do ato de transmissão da posse.
+
+4 - O crédito referido no n.º 1 goza de privilégio imobiliário sobre o lote ou terrenos onde se situa a edificação, graduado a seguir aos créditos referidos na alínea b) do artigo 748.º do Código Civil.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2019 - Diário da República n.º 97/2019, Série I de 2019-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2019-122349220), em vigor a partir de 2019-06-20.
+
+###### Artigo 108.º-A — Intervenção da CCDR
+
+O presidente da CCDR territorialmente competente pode determinar o embargo, a introdução de alterações, a demolição do edificado ou a reposição do terreno em quaisquer operações urbanísticas desconformes com o disposto em plano municipal ou plano especial de ordenamento do território, sempre que não se mostre assegurada pelo município a adopção das referidas medidas de tutela da legalidade urbanísticas, aplicando-se, com as necessárias adaptações o disposto nos artigos 94.º a 96.º e 102.º a 108.º
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 108.º-B — Arrendamento forçado
+
+1 - Findo o prazo previsto no n.º 2 do artigo 108.º sem que se encontrem liquidadas as quantias devidas pelo proprietário, o município, em alternativa à cobrança judicial da dívida em processo de execução fiscal, pode optar pelo ressarcimento através do arrendamento forçado, sendo lavrado auto de posse do imóvel para esse efeito.
+
+2 - O auto é notificado ao proprietário, bem como aos demais titulares de direitos reais, sendo eficaz a partir da data do ato de transmissão da posse.
+
+3 - Ao arrendamento forçado aplicam-se, em tudo quanto não estiver especialmente previsto no presente artigo, os artigos 656.º e seguintes do Código Civil, quanto à relação entre o município e o proprietário do imóvel.
+
+4 - O arrendamento forçado está sujeito a inscrição no registo predial, servindo de título para o efeito, certidão passada pelo município competente, onde conste a indicação do valor total da dívida, e implica o cancelamento do registo referido no artigo 89.º, caso este ainda não tenha sido cancelado.
+
+5 - A câmara municipal procede ao arrendamento forçado do imóvel mediante procedimento concursal ou através da aplicação de regulamento municipal para a atribuição de fogos.
+
+6 - Em caso de celebração de novo contrato de arrendamento no prédio urbano ou nas frações autónomas intervencionadas, a renda a praticar não pode ser inferior a 80 % do valor mediano das rendas por m2 de novos contratos de arrendamento de alojamentos familiares no município respetivo, de acordo com a última atualização divulgada pelo Instituto Nacional de Estatística, I. P. (INE, I. P.).
+
+7 - Quando a atualização divulgada pelo INE, I. P., se reporte a nível de unidade territorial para fins estatísticos superior ao concelho, deve ser considerado o valor relativo à unidade territorial para fins estatísticos de menor amplitude em que o município esteja integrado.
+
+8 - Durante a vigência do arrendamento forçado, a câmara municipal pode executar as obras de conservação e ou de reparação necessárias, cumprindo as seguintes regras:
+
+a) A escolha do empreiteiro para a realização das obras, quando as mesmas não sejam executadas por administração direta, é precedida, se outro procedimento mais exigente não resultar da lei, do pedido de três orçamentos para o efeito, com base num caderno de encargos que defina os trabalhos a realizar e o tipo de materiais a utilizar, sendo escolhida a proposta de preço mais baixo;
+
+b) Apurada a conta final da empreitada, ou calculado o custo total da intervenção em caso de administração direta, é esse valor adicionado ao valor da dívida ainda existente, sendo dado conhecimento ao proprietário desse facto, nos termos previstos no artigo 107.º
+
+9 - A câmara municipal procede à prestação anual de contas, operando a atualização do valor em dívida correspondente, notificando o proprietário, nos termos previstos no artigo 107.º
+
+10 - O registo referido no n.º 4 é cancelado apenas através da exibição de certidão passada pela câmara municipal que ateste a inexistência de dívida.
+
+11 - O proprietário interessado em retomar a posse do imóvel deve manifestar por escrito essa intenção, com 120 dias de antecedência e, havendo montantes em dívida ainda por liquidar, a comunicação por escrito é acompanhada com comprovativo do seu pagamento integral.
+
+12 - Encontrando-se liquidada a totalidade da dívida e caso o proprietário não retome a posse no prazo de 20 dias, ou, sendo desconhecido o seu proprietário, a partir daquela data, pode a câmara municipal disponibilizar o imóvel para arrendamento, nos termos previstos anteriormente, com as seguintes especificações:
+
+a) O valor das rendas é depositado em conta bancária aberta especificamente para o efeito, caso o proprietário não tenha procedido à indicação de conta bancária para o efeito;
+
+b) A câmara municipal pode ressarcir-se das despesas realizadas para fazer face aos encargos de gestão e manutenção do imóvel que comprovadamente realizar durante o período em que durar o arrendamento, sendo emitida certidão comprovativa para o efeito, pelos serviços municipais competentes.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 66/2019 - Diário da República n.º 97/2019, Série I de 2019-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2019-122349220), em vigor a partir de 2019-06-20.
+
+###### Artigo 108.º-C — Arrendamento forçado de habitações devolutas
+
+1 - O regime previsto no artigo anterior é aplicável, com as necessárias adaptações, às frações autónomas e às partes de prédio urbano suscetíveis de utilização independente, de uso habitacional, classificadas como devolutas, nos termos do Decreto-Lei n.º 159/2006, de 8 de agosto, que estejam há mais de dois anos com essa classificação, quando localizadas fora dos territórios do interior, como tal identificados no anexo à Portaria n.º 208/2017, de 13 de julho.
+
+2 - Findo o prazo de dois anos referido no número anterior, o município territorialmente competente remete ao respetivo proprietário, consoante os casos:
+
+a) Notificação do dever de conservação, previsto no n.º 2 do artigo 89.º, promovendo a execução das obras necessárias, em caso de incumprimento daquela notificação, ao abrigo do artigo 91.º; ou
+
+b) Notificação do dever de dar uso à fração autónoma e, querendo, apresentação de proposta de arrendamento, nos termos previstos no artigo 5.º do Decreto-Lei n.º 89/2021, de 3 de novembro.
+
+3 - O valor da renda na proposta de arrendamento prevista na alínea b) do número anterior não pode exceder em 30 % os limites gerais de preço de renda por tipologia em função do concelho onde se localiza o imóvel, previstos na alínea a) do n.º 1 do artigo 10.º do Decreto-Lei n.º 68/2019, de 22 de maio.
+
+4 - Nos casos em que, efetuada a notificação prevista na alínea b) do n.º 2, o proprietário recuse a proposta ou não se pronuncie no prazo de 90 dias a contar da sua receção, e mantendo-se o imóvel devoluto, o município territorialmente competente, sempre que se revele necessário para garantir a função social da habitação, prevista no artigo 4.º da Lei n.º 83/2019, de 3 de setembro, que aprova a lei de bases da habitação, pode, excecional e supletivamente, proceder ao arrendamento forçado do imóvel.
+
+5 - Caso os municípios não pretendam proceder ao arrendamento do imóvel e o mesmo não careça de obras de conservação, remetem a informação sobre o imóvel ao IHRU, I. P., para que este possa, querendo, notificar o proprietário, nos termos e para os efeitos previstos na alínea b) do n.º 2 e no n.º 4.
+
+6 - O disposto no presente artigo não se aplica às Regiões Autónomas.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 43/2024 - Diário da República n.º 126/2024, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2024-870515825), em vigor a partir de 2024-07-03.
+
+> Aditado pelo/a Artigo 24.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07.
+
+###### Artigo 109.º — Cessação da utilização
+
+1 - O presidente da câmara municipal é competente para ordenar e fixar prazo para a cessação da utilização de edifícios ou de suas frações autónomas quando sejam ocupados sem o respetivo título de utilização ou em desconformidade com o título existente, ou ainda em desconformidade com as normas legais e regulamentares aplicáveis.
+
+2 - Quando os ocupantes dos edifícios ou suas fracções não cessem a utilização indevida no prazo fixado, pode a câmara municipal determinar o despejo administrativo, aplicando-se, com as devidas adaptações, o disposto no artigo 92.º
+
+3 - O despejo determinado nos termos do número anterior deve ser sobrestado quando, tratando-se de edifício ou sua fracção que estejam a ser utilizados para habitação, o ocupante mostre, por atestado médico, que a execução do mesmo põe em risco de vida, por razão de doença aguda, a pessoa que se encontre no local.
+
+4 - Na situação referida no número anterior, o despejo não pode prosseguir enquanto a câmara municipal não providencie pelo realojamento da pessoa em questão, a expensas do responsável pela utilização indevida, nos termos do artigo anterior.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+### Capítulo IV — Garantias dos particulares
+
+###### Artigo 110.º — Direito à informação
+
+1 - Qualquer interessado tem o direito de ser informado pela respectiva câmara municipal:
+
+a) Sobre os instrumentos de desenvolvimento e de gestão territorial em vigor para determinada área do município, bem como das demais condições gerais a que devem obedecer as operações urbanísticas a que se refere o presente diploma;
+
+b) Sobre o estado e andamento dos processos que lhes digam directamente respeito, com especificação dos actos já praticados e do respectivo conteúdo, e daqueles que ainda devam sê-lo, bem como dos prazos aplicáveis a estes últimos.
+
+2 - As informações previstas no número anterior devem ser prestadas independentemente de despacho e no prazo de 15 dias.
+
+3 - Os interessados têm o direito de consultar os processos que lhes digam directamente respeito, nomeadamente por via electrónica, e de obter as certidões ou reproduções autenticadas dos documentos que os integram, mediante o pagamento das importâncias que forem devidas.
+
+4 - O acesso aos processos e passagem de certidões deve ser requerido por escrito, salvo consulta por via electrónica, e é facultado independentemente de despacho e no prazo de 10 dias a contar da data da apresentação do respectivo requerimento.
+
+5 - A câmara municipal fixa, no mínimo, um dia por semana para que os serviços municipais competentes estejam especificadamente à disposição dos cidadãos para a apresentação de eventuais pedidos de esclarecimento ou de informação ou reclamações.
+
+6 - Os direitos referidos nos n.ºs 1 e 3 são extensivos a quaisquer pessoas que provem ter interesse legítimo no conhecimento dos elementos que pretendem e ainda, para defesa de interesses difusos definidos na lei, quaisquer cidadãos no gozo dos seus direitos civis e políticos e as associações e fundações defensoras de tais interesses.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 111.º — Silêncio da Administração
+
+Decorridos os prazos fixados para a prática de qualquer acto especialmente regulado no presente diploma sem que o mesmo se mostre praticado, observa-se o seguinte:
+
+a) (Revogada.)
+
+b) (Revogada.)
+
+c) Considera-se tacitamente deferida a pretensão, aplicando-se o disposto no Código do Procedimento Administrativo, designadamente o respetivo artigo 130.º, bem como o disposto no Decreto-Lei n.º 135/99, de 22 de abril, em especial o seu artigo 28.º-B em matéria de certificação de deferimentos tácitos.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 112.º — Intimação judicial para a prática de acto legalmente devido
+
+1 - No caso previsto na alínea a) do artigo anterior, o interessado pode deduzir junto dos tribunais administrativos um pedido de intimação dirigido à interpelação da entidade competente para o cumprimento do dever de decisão.
+
+2 - O requerimento de intimação deve ser instruído com cópia do requerimento apresentado.
+
+3 - O prazo para a contestação da entidade requerida é de 14 dias e, apresentada a contestação ou decorrido o respetivo prazo, o processo é concluso ao juiz para decisão no prazo de 5 dias.
+
+4 - A intimação pode ser rejeitada por falta de preenchimento dos pressupostos para a constituição do dever de decisão, por violação de disposições legais ou regulamentares.
+
+5 - O processo pode terminar por inutilidade superveniente da lide se for provada a prática do ato pretendido dentro do prazo da contestação.
+
+6 - Na decisão, o juiz estabelece prazo não inferior a 30 dias para o cumprimento do dever de decisão e fixa sanção pecuniária compulsória, nos termos previstos no Código de Processo nos Tribunais Administrativos.
+
+7 - Ao pedido de intimação é aplicável o disposto no Código de Processo nos Tribunais Administrativos quanto aos processos urgentes.
+
+8 - O recurso da decisão tem efeito meramente devolutivo.
+
+9 - Decorrido o prazo fixado pelo Tribunal sem que se mostre praticado o acto devido, o interessado pode prevalecer-se do disposto no artigo 113.º, com excepção do disposto no número seguinte.
+
+10 - Na situação prevista no número anterior, tratando-se de aprovação do projecto de arquitectura, o interessado pode juntar os projectos das especialidades e outros estudos ou, caso já o tenha feito no requerimento inicial, inicia-se a contagem do prazo previsto na alínea c) do n.º 1 do artigo 23.º
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 214-G/2015 - Diário da República n.º 193/2015, 3º Suplemento, Série I de 2015-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-g-2015-70423756), em vigor a partir de 2015-12-01.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 4-A/2003 - Diário da República n.º 42/2003, 1º Suplemento, Série I-A de 2003-02-19](https://diariodarepublica.pt/dr/detalhe/lei/4-a-2003-476347), em vigor a partir de 2003-02-20.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 15/2002 - Diário da República n.º 45/2002, Série I-A de 2002-02-22](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), em vigor a partir de 2004-01-01
+
+###### Artigo 113.º — Deferimento tácito
+
+1 - Nas situações referidas no n.º 9 do artigo anterior, o interessado pode iniciar e prosseguir a execução dos trabalhos de acordo com o requerimento apresentado nos termos do n.º 4 do artigo 9.º ou dar de imediato utilização à obra.
+
+2 - O início dos trabalhos ou da utilização depende do prévio pagamento das taxas que se mostrem devidas nos termos do presente diploma.
+
+3 - Quando a câmara municipal se recuse a liquidar ou a receber as taxas devidas, o interessado pode proceder ao depósito do respectivo montante em instituição de crédito à ordem da câmara municipal, ou, quando não esteja efectuada a liquidação, provar que se encontra garantido o seu pagamento mediante caução, por qualquer meio em direito admitido, por montante calculado nos termos do regulamento referido no artigo 3.º
+
+4 - Para os efeitos previstos no número anterior, deve ser afixado nos serviços de tesouraria da câmara municipal o número e a instituição bancária em que a mesma tenha conta e onde seja possível efectuar o depósito, bem como a indicação do regulamento municipal no qual se encontram previstas as taxas a que se refere o n.º 2.
+
+5 - Caso a câmara municipal não efectue a liquidação da taxa devida nem dê cumprimento ao disposto no número anterior, o interessado pode iniciar os trabalhos ou dar de imediato utilização à obra, dando desse facto conhecimento à câmara municipal e requerendo ao tribunal administrativo de círculo da área da sede da autarquia que intime esta a emitir o alvará de licença ou autorização de utilização.
+
+6 - Ao pedido de intimação referido no número anterior aplica-se o disposto no n.º 7 do artigo anterior.
+
+7 - A certidão da sentença transitada em julgado que haja intimado à emissão do alvará de licença ou autorização de utilização substitui, para todos os efeitos legais, o alvará não emitido.
+
+8 - Nas situações referidas no presente artigo, a obra não pode ser embargada por qualquer autoridade administrativa com fundamento na falta de licença.
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 114.º — Impugnação administrativa
+
+1 - Os pareceres expressos que sejam emitidos no âmbito dos procedimentos regulados no presente diploma podem ser objeto de impugnação administrativa autónoma.
+
+2 - No caso dos pareceres emitidos em conferência procedimental, a impugnação deve ser feita junto da respetiva entidade coordenadora.
+
+3 - A impugnação administrativa de quaisquer atos praticados ou pareceres emitidos nos termos do presente diploma deve ser decidida no prazo de 30 dias contados da respetiva apresentação, findo o qual se considera deferida.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+###### Artigo 115.º — Ação administrativa
+
+1 - A ação administrativa de impugnação dos atos previstos no artigo 106.º tem efeito suspensivo.
+
+2 - Com a citação, a autoridade administrativa tem o dever de impedir, com urgência, o início ou a prossecução da execução do ato impugnado.
+
+3 - A todo o tempo e até à decisão em 1.ª instância, o juiz pode conceder o efeito meramente devolutivo à ação, oficiosamente ou a requerimento do demandado ou do Ministério Público, caso do mesmo resultem indícios da ilegalidade da sua propositura ou da sua improcedência.
+
+4 - Da decisão referida no número anterior cabe recurso com efeito meramente devolutivo, que sobe imediatamente, em separado.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+### Capítulo V — Taxas inerentes às operações urbanísticas
+
+###### Artigo 116.º — Taxas urbanísticas
+
+1 - (Revogado.)
+
+2 - (Revogado.)
+
+3 - As licenças, comunicações prévias, informações prévias e demais atos previstos no presente diploma estão sujeitos ao pagamento das taxas a que se refere a alínea b) do artigo 6.º da Lei n.º 53-E/2006, de 29 de dezembro.
+
+4 - As operações de loteamento e as operações urbanísticas de impacto relevante ou semelhante a loteamento estão ainda sujeitas ao pagamento das taxas a que se refere a alínea a) do artigo 6.º da Lei n.º 53-E/2006, de 29 de dezembro.
+
+5 - A licença, a comunicação prévia e a informação prévia emitida com os efeitos do n.º 2 do artigo 17.º, de obras de construção ou ampliação em área não abrangida por operação de loteamento, estão igualmente sujeitas ao pagamento da taxa referida no número anterior.
+
+a) Programa plurianual de investimentos municipais na execução, manutenção e reforço das infra-estruturas gerais, que pode ser definido por áreas geográficas diferenciadas;
+
+b) Diferenciação das taxas aplicáveis em função dos usos e tipologias das edificações e, eventualmente, da respectiva localização e correspondentes infra-estruturas locais.
+
+6 - (Revogado.)
+
+7 - A licença parcial a que se refere o n.º 6 do artigo 23.º está também sujeita ao pagamento da taxa referida no n.º 3, não havendo lugar à liquidação da mesma aquando da licença definitiva.
+
+8 - Os projetos de regulamento municipal da taxa pela realização, manutenção e reforço de infraestruturas urbanísticas devem ser acompanhados da fundamentação do cálculo das taxas previstas, tendo em conta, designadamente, os seguintes elementos:
+
+a) Programa plurianual de investimentos municipais na execução, manutenção e reforço das infraestruturas gerais, que pode ser definido por áreas geográficas diferenciadas;
+
+b) Diferenciação das taxas aplicáveis em função dos usos e tipologias das edificações e, eventualmente, da respetiva localização e correspondentes infraestruturas locais.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 117.º — Liquidação das taxas
+
+1 - O presidente da câmara municipal procede à liquidação das taxas, com o deferimento do pedido de licenciamento ou com a emissão da informação prévia favorável requerida nos termos do n.º 2 do artigo 14.º, em conformidade com o regulamento aprovado pela assembleia municipal, sem prejuízo do disposto no n.º 5.
+
+2 - O pagamento das taxas referidas nos n.ºs 4, 5 e 7 do artigo anterior pode, por deliberação da câmara municipal, com faculdade de delegação no presidente e de subdelegação deste nos vereadores ou nos dirigentes dos serviços municipais, ser fracionado até ao termo do prazo de execução fixado, desde que seja prestada caução nos termos do artigo 54.º
+
+3 - Da liquidação das taxas cabe reclamação graciosa ou impugnação judicial, nos termos e com os efeitos previstos no Código de Procedimento e do Processo Tributário.
+
+4 - A exigência, pela câmara municipal ou por qualquer dos seus membros, de mais-valias não previstas na lei ou de quaisquer contrapartidas, compensações ou donativos confere ao titular da licença, da informação prévia, da comunicação prévia ou da comunicação prévia com prazo para a realização de operação urbanística, quando dê cumprimento àquelas exigências, o direito a reaver as quantias indevidamente pagas ou, nos casos em que as contrapartidas, compensações ou donativos sejam realizados em espécie, o direito à respetiva devolução e à indemnização a que houver lugar.
+
+5 - Na comunicação prévia ou na comunicação prévia com prazo, bem como nos casos em que ocorra deferimento tácito da licença ou do pedido de informação prévia e, nos casos de isenção de licença e comunicação prévia, e sem prejuízo da liquidação a efetuar pela câmara municipal, o pagamento de taxas e demais encargos devidos pode ser efetuado por autoliquidação, nos termos e condições definidos nos regulamentos municipais previstos no artigo 3.º
+
+6 - Sem prejuízo da possibilidade de pagamento por via da PPAP, da plataforma eletrónica referida no artigo 8.º-A ou das plataformas próprias dos municípios, deve ser disponibilizado no sítio da internet do município e afixado nos serviços de tesouraria da câmara municipal, o IBAN (International Bank Account Number) e a instituição bancária da conta para a qual devem ser efetuados os pagamentos das taxas e demais encargos devidos, bem como a indicação do regulamento municipal no qual se encontram previstas.
+
+7 - Quando o pagamento das taxas e demais encargos devidos não seja efetuado por plataforma ou referência bancária indicada pela câmara municipal, o interessado é obrigado a remeter àquela o comprovativo do pagamento efetuado, no prazo de 10 dias, com indicação do procedimento urbanístico a que se reporta.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+### Capítulo VI — Disposições finais e transitórias
+
+###### Artigo 118.º — Resolução alternativa de litígios
+
+1 - Os interessados que pretendam recorrer a arbitragem voluntária para o julgamento de questões respeitantes a atos praticados ou pareceres emitidos nos termos do presente diploma, incluindo aqueles que tenham natureza tributária, bem como a omissões administrativas, podem propor à Administração a celebração de compromisso arbitral.
+
+2 - Para a resolução de conflitos na aplicação dos regulamentos municipais previstos no artigo 3.º podem os interessados requerer a intervenção de uma comissão arbitral.
+
+3 - Sem prejuízo do disposto no n.º 6, a comissão arbitral é constituída por um representante da câmara municipal, um representante do interessado e um técnico designado por cooptação, especialista na matéria sobre que incide o litígio, o qual preside.
+
+4 - Na falta de acordo, o técnico é designado pelo presidente do tribunal administrativo de círculo competente na circunscrição administrativa do município.
+
+5 - À constituição e funcionamento das comissões arbitrais aplica-se o disposto na lei sobre a arbitragem voluntária.
+
+6 - As associações públicas de natureza profissional e as associações empresariais do setor da construção civil podem promover a criação de centros de arbitragem institucionalizada para a realização de arbitragens no âmbito das matérias previstas neste artigo, nos termos da lei.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+###### Artigo 119.º — Relação dos instrumentos de gestão territorial, das servidões e restrições de utilidade pública e de outros instrumentos relevantes
+
+1 - As câmaras municipais devem manter atualizada a relação dos instrumentos de gestão territorial e as servidões administrativas e restrições de utilidade pública especialmente aplicáveis na área do município, nomeadamente:
+
+a) Os referentes a programa e plano regional de ordenamento do território, programas especiais e setoriais, planos especiais de ordenamento do território, planos municipais e intermunicipais de ordenamento do território, medidas preventivas, áreas de reabilitação urbana e alvarás ou documentos comprovativos de loteamento ou de edificações com impacte relevante ou semelhante a um loteamento em vigor;
+
+b) Zonas de proteção de imóveis classificados ou em vias de classificação, reservas arqueológicas de proteção e zonas especiais de proteção de parque arqueológico a que se refere a Lei n.º 107/2001, de 8 de setembro, e o Decreto-Lei n.º 309/2009, de 23 de outubro;
+
+c) [Revogada.]
+
+d) Zonas de proteção a edifícios e outras construções de interesse público a que se referem os Decretos-Leis n.os 40 388, de 21 de novembro de 1955, e 309/2009, de 23 de outubro;
+
+e) Imóveis ou elementos naturais classificados como de interesse municipal a que se refere a Lei n.º 107/2001, de 8 de setembro, e o Decreto-Lei n.º 309/2009, de 23 de outubro;
+
+f) Zonas terrestres de proteção das albufeiras, lagoas ou lagos de águas públicas a que se refere o Decreto-Lei n.º 107/2009, de 15 de maio;
+
+g) Zonas terrestres de proteção dos estuários a que se refere o Decreto-Lei n.º 129/2008, de 21 de julho;
+
+h) Áreas integradas no domínio hídrico público ou privado a que se referem as Leis n.os 54/2005, de 15 de novembro, e Lei n.º 58/2005, de 29 de dezembro;
+
+i) Áreas classificadas a que se refere o Decreto-Lei n.º 142/2008, de 24 de julho;
+
+j) Áreas integradas na Reserva Agrícola Nacional a que se refere o Decreto-Lei n.º 73/2009, de 31 de março;
+
+l) Áreas integradas na Reserva Ecológica Nacional a que se refere o Decreto-Lei n.º 166/2008, de 22 de agosto;
+
+m) Zonas de proteção estabelecidas pelo Decreto-Lei n.º 173/2006, de 24 de agosto.
+
+2 - As câmaras municipais mantêm igualmente atualizada a relação dos regulamentos municipais referidos no artigo 3.º, dos programas de ação territorial em execução, bem como das unidades de execução delimitadas.
+
+3 - A informação referida nos números anteriores deve ser disponibilizada no sítio na Internet do município assim como na plataforma dos procedimentos, devendo ser disponibilizada a função de gerar plantas de localização de forma automática, com visualização da incidência territorial dos instrumentos de gestão territorial vinculativos dos particulares e das servidões e restrições de utilidade pública, referentes à localização pretendida e assinalada para o efeito.
+
+4 - Para efeitos do disposto no Decreto-Lei n.º 151-B/2013, de 31 de outubro, na sua redação atual, que aprova o regime de avaliação de impacte ambiental, sempre que esteja em causa a realização de operação urbanística sujeita a avaliação de impacte ambiental (AIA), não pode ser emitida a licença, aprovada informação prévia nos termos do n.º 2 do artigo 17.º, ou apresentada a comunicação prévia sem a emissão de Declaração de Impacte Ambiental (DIA) favorável ou favorável condicionada sobre o respetivo projeto de execução ou, no caso do procedimento de avaliação de impacte ambiental ter decorrido em fase de estudo prévio ou de anteprojeto, da Decisão de Conformidade Ambiental do projeto de execução (DCAPE) conforme ou conforme condicionada.
+
+5 - No caso das operações urbanísticas isentas nos termos do artigo 6.º e 7.º não podem as operações urbanísticas ser executadas sem que seja emitida Declaração de Impacte Ambiental (DIA) favorável condicionada sobre o respetivo projeto de execução ou, no caso de procedimento de avaliação de impacte ambiental ter decorrido em fase de estudo prévio ou de anteprojeto, da Decisão de Conformidade Ambiental do projeto de execução (DCAPE) conforme ou conforme condicionada.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2024 - Diário da República n.º 5/2024, Série I de 2024-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), em vigor a partir de 2024-03-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), em vigor a partir de 2015-01-07.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2010 - Diário da República n.º 62/2010, Série I de 2010-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), em vigor a partir de 2010-06-28.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02.
+
+###### Artigo 120.º — Dever de informação
+
+1 - As câmaras municipais e as comissões de coordenação e desenvolvimento regional têm o dever de informação mútua sobre processos relativos a operações urbanísticas, o qual deve ser cumprido mediante comunicação a enviar no prazo de 20 dias a contar da data de recepção do respectivo pedido.
+
+2 - Não sendo prestada a informação prevista no número anterior, as entidades que a tiverem solicitado podem recorrer ao processo de intimação regulado nos artigos 104.º e seguintes da Lei n.º 15/2002, de 22 de fevereiro, alterada pela Lei n.º 63/2011, de 14 de dezembro.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 121.º — Regime das notificações e comunicações
+
+As notificações e comunicações referidas no presente diploma e dirigidas aos requerentes efetuam-se através do sistema eletrónico a que se refere o artigo 8.º-A, por correio eletrónico ou outro meio de transmissão eletrónica de dados, salvo quando estes não forem possíveis ou se mostrarem inadequados.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 122.º — Legislação subsidiária
+
+A tudo o que não esteja especialmente previsto no presente diploma aplica-se subsidiariamente o Código do Procedimento Administrativo.
+
+###### Artigo 123.º — Relação das disposições legais referentes à construção
+
+Até à codificação das normas técnicas de construção, é publicitada a relação das disposições legais e regulamentares a observar pelos técnicos responsáveis pelos projetos de obras e sua execução, através do Sistema de Informação sobre Legislação do Urbanismo e da Construção (SILUC).
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2026 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2026-1128002421), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 124.º — Depósito legal dos projectos
+
+O Governo regulamentará, no prazo de seis meses a contar da data de entrada em vigor do presente diploma, o regime do depósito legal dos projectos de urbanização e edificação.
+
+###### Artigo 125.º — Alvarás anteriores
+
+As alterações aos alvarás emitidos ao abrigo da legislação agora revogada e dos Decretos- Leis n.os 166/70, de 15 de Abril, 46673, de 29 de Novembro de 1965, 289/73, de 6 de Junho, e 400/84, de 31 de Dezembro, regem-se pelo disposto no presente diploma.
+
+###### Artigo 126.º — Elementos estatísticos
+
+1 - A câmara municipal envia mensalmente para o Instituto Nacional de Estatística os elementos estatísticos identificados em portaria dos membros do Governo responsáveis pela administração local e pelo ordenamento do território.
+
+2 - Os suportes a utilizar na prestação da informação referida no número anterior serão fixados pelo Instituto Nacional de Estatística, após auscultação das entidades envolvidas.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 127.º — Regiões Autónomas
+
+O regime previsto neste diploma é aplicável às Regiões Autónomas, sem prejuízo do diploma legal que procede às necessárias adaptações.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+###### Artigo 128.º — Regime transitório
+
+1 - Às obras de edificação e às operações de loteamento, obras de urbanização e trabalhos de remodelação de terrenos cujo processo de licenciamento decorra na respectiva câmara municipal à data da entrada em vigor do presente diploma é aplicável o regime dos Decretos-Leis n.os 445/91, de 20 de Novembro, e do 448/91, de 29 de Novembro, respectivamente, sem prejuízo do disposto no número seguinte.
+
+2 - A requerimento do interessado, o presidente da câmara municipal pode autorizar que aos procedimentos em curso se aplique o regime constante do presente diploma, determinando qual o procedimento de controlo prévio a que o procedimento fica sujeito, tendo em conta o disposto no artigo 4.º
+
+3 - Até ao estabelecimento, nos termos do n.º 2 do artigo 43.º, dos parâmetros para o dimensionamento das áreas referidas no n.º 1 do mesmo artigo, continuam os mesmos a ser fixados por portaria do Ministro do Ambiente e do Ordenamento do Território.
+
+4 - Até à entrada em vigor do regime de verificação da qualidade e de responsabilidade civil nos projectos e obras de edificação, o requerimento de licença ou autorização de utilização, previsto no n.º 1 do artigo 63.º, deve também ser instruído com as seguintes peças desenhadas:
+
+a) Telas finais do projecto de arquitectura;
+
+b) Telas finais dos projectos de especialidades quando exigidos por regulamento municipal.
+
+5 - Para os efeitos do número anterior, consideram-se telas finais as peças escritas e desenhadas que correspondam, exactamente, à obra executada.
+
+6 - (Revogado.)
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 60/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), em vigor a partir de 2008-03-02.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02.
+
+###### Artigo 129.º — Revogações
+
+São revogados:
+
+a) O Decreto-Lei n.º 445/91, de 20 de Novembro;
+
+b) O Decreto-Lei n.º 448/91, de 29 de Novembro;
+
+c) O Decreto-Lei n.º 83/94, de 14 de Março;
+
+d) O Decreto-Lei n.º 92/95, de 9 de Maio;
+
+e) Os artigos 9.º, 10.º e 165.º a 168.º do Regulamento Geral das Edificações Urbanas, aprovado pelo Decreto-Lei n.º 38382, de 7 de Agosto de 1951.
+
+> Nota: [Artigo 1.º, Lei n.º 13/2000 - Diário da República n.º 166/2000, Série I-A de 2000-07-20](https://diariodarepublica.pt/dr/detalhe/lei/13-2000-321281) É repristinada a legislação referida no artigo 129.º e a respectiva regulamentação, que passam a aplicar-se aos processos em curso.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 177/2001 - Diário da República n.º 129/2001, Série I-A de 2001-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), em vigor a partir de 2001-10-02
+
+###### Artigo 130.º — Entrada em vigor
+
+O presente diploma entra em vigor 120 dias após a data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 9 de Setembro de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Manuel de Matos Fernandes - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Elisa Maria da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho.
+
+Promulgado em 19 de Novembro de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 25 de Novembro de 1999.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

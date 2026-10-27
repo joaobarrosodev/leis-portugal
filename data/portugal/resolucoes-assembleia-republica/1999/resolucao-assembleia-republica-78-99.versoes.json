@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:655935:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-assembleia-republica/1999-941592396",
+ "dre_path": "/dr/detalhe/resolucao-assembleia-republica/78-1999-655935",
+ "source_lastmod": "2025-10-22",
+ "versions": [
+  {
+   "date": "1999-12-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "941592125"
+   ]
+  }
+ ],
+ "fragments": {
+  "941592125": {
+   "fragment_id": "941592397",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução da Assembleia da República n.º 78/99\n\nEleição de três membros para o Conselho de Fiscalização dos Serviços de Informações\n\nA Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição e do artigo 7.º da Lei n.º 75-A/97, de 22 de Julho, designar como membros do Conselho de Fiscalização dos Serviços de Informações os seguintes cidadãos:\n\nCarlos Jorge da Costa Barral.\n\nMaria João da Silva Baila Madeira Antunes\n\nMaria Margarida Blasco Martins Augusto Telles de Abreu."
+  }
+ }
+}

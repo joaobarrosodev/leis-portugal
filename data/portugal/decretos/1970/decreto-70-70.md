@@ -1,0 +1,106 @@
+---
+schema_version: '1.0'
+id: pt:dre:228059:por
+title: Decreto n.º 70/70
+short_title: null
+summary: Altera para 2 por cento ad valorem, no que respeita à província de Timor, a actual taxa da alínea d) do artigo 26.º
+  da tabela de emolumentos gerais aduaneiros anexa ao Decreto n.º 31883
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Inspecção Superior das Alfândegas do Ultramar
+proposing_entity: null
+official_number: 70/70
+official_date: null
+publication_date: '1970-02-27'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 49/1970, Série I de 1970-02-27
+  number: '49'
+  series: I
+  supplement: null
+  pages: 245 - 245
+  pdf_url: https://files.diariodarepublica.pt/1s/1970/02/04900/02450245.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '228059'
+  dre_path: /dr/detalhe/decreto/70-1970-228059
+  internal: pt:dre:228059:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/70-1970-228059
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/70-1970-228059
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:16:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6560be6d102d6030e3075dd4a0cb65170ec64be927ef66741b578043fdde9fac
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:16:25Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:168646:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:16:25Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 70/70
+
+Considerando a proposta formulada pelo Governo de Timor no sentido de se actualizar a taxa a que se refere a alínea d) do artigo 26.º da tabela anexa ao [Decreto n.º 31883](https://diariodarepublica.pt/dr/detalhe/decreto/31883-1942-168646), de 12 de Fevereiro de 1942, por forma a colocá-la em paridade com as que vigoram nas outras províncias ultramarinas;
+
+Por motivo de urgência, ao abrigo do § 1.º do artigo 150.º da Constituição;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+
+Artigo único. É alterada para 2 por cento ad valorem, no que respeita á província de Timor, a actual taxa da alínea d) do artigo 26.º da tabela de emolumentos gerais aduaneiros anexa ao [Decreto n.º 31883](https://diariodarepublica.pt/dr/detalhe/decreto/31883-1942-168646), de 12 de Fevereiro de 1942.
+
+Marcello Caetano - Joaquim Moreira de Silva Cunha.
+
+Promulgado em 17 de Fevereiro de 1970.
+
+Publique-se.
+
+Presidência da República, 27 de Fevereiro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado no Boletim Oficial de Timor. - J. da Silva Cunha.

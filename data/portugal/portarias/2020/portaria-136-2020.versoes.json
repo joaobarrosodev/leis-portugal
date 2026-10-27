@@ -1,0 +1,176 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:135169752:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-135640302",
+ "dre_path": "/dr/detalhe/portaria/136-2020-135169752",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-06-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "135613892",
+    "135613893",
+    "135613894",
+    "135613895",
+    "135613896",
+    "135613897",
+    "135613898",
+    "135613900",
+    "135613901",
+    "135613902",
+    "135613903"
+   ]
+  },
+  {
+   "date": "2020-06-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:135707101:por",
+     "title": "Portaria n.º 139-A/2020",
+     "published": "2020-06-12",
+     "dre_path": "/dr/detalhe/portaria/139-a-2020-135707101"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "135613892",
+    "135613893",
+    "135613894",
+    "135613895",
+    "135613896",
+    "135613897",
+    "135613898",
+    "135613899",
+    "135613905",
+    "135613906",
+    "135613902",
+    "135613903"
+   ]
+  }
+ ],
+ "fragments": {
+  "135613892": {
+   "fragment_id": "135640303",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 136/2020\n\nde 4 de junho\n\nSumário: Procede, para o ano de 2020, à identificação das águas balneares costeiras e de transição e das águas balneares interiores, fixando as respetivas épocas balneares, bem como à identificação das praias de banhos onde é assegurada a presença de nadadores-salvadores.\n\nO Decreto-Lei n.º 135/2009, de 3 de junho, aprovou o regime de identificação, gestão, monitorização e classificação da qualidade das águas balneares e de prestação de informação ao público sobre as mesmas, transpondo para a ordem jurídica interna a Diretiva n.º 2006/7/CE, do Parlamento e do Conselho, de 15 de fevereiro, relativa à gestão das águas balneares, complementando ainda a Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de dezembro.\n\nCom a publicação do Decreto-Lei n.º 113/2012, de 23 de maio, que procede à primeira alteração ao Decreto-Lei n.º 135/2009, de 3 de junho, a identificação das águas balneares, com a fixação da respetiva época balnear, e a qualificação das praias de banhos a que se refere o artigo 2.º da Lei n.º 44/2004, de 19 de agosto, são realizadas através de uma única portaria, permitindo uma melhor articulação entre matérias indissociáveis como sejam a gestão de praias, a qualidade das águas balneares, a definição da duração da época balnear e a assistência a banhistas, e tornando também mais clara e sistematizada a informação disponibilizada ao cidadão sobre estas matérias.\n\nNesta conformidade, e tendo igualmente presente a obrigação de informar a Comissão Europeia nos termos do disposto no artigo 20.º do Decreto-Lei n.º 135/2009, de 3 de junho, procede-se à identificação das águas balneares e à qualificação das praias de banhos, isto é, aquelas que têm efetivamente assistência a banhistas, nos termos do disposto na Lei n.º 44/2004, de 19 de agosto, na sua atual redação, para todo o território nacional.\n\nFinalmente, é também objeto de identificação na presente portaria a lista de praias de uso limitado a que se refere o n.º 2 do artigo 11.º do Decreto-Lei n.º 159/2012, de 24 de julho.\n\nConsiderando a excecionalidade da situação de saúde pública em que o País se encontra, o início da época balnear, a ocupação e a utilização das praias estão sujeitos ao cumprimento do disposto no Decreto-Lei n.º 24/2020, de 25 de maio, e ficam condicionados às determinações do Governo, bem como às orientações da Direção-Geral da Saúde, entidade responsável pela liderança e coordenação em situação de epidemia por COVID-19 ou, tratando-se das Regiões Autónomas, do órgão regional competente.\n\nAssim:\n\nAo abrigo do disposto no n.º 6 do artigo 4.º do Decreto-Lei n.º 135/2009, de 3 de junho, alterado pelo Decreto-Lei n.º 113/2012, de 23 de maio, bem como no n.º 2 do artigo 11.º do Decreto-Lei n.º 159/2012, de 24 de julho, manda o Governo, pelo Secretário de Estado Adjunto e da Defesa Nacional e pela Secretária de Estado do Ambiente, no uso das competências delegadas nos termos da alínea f) do ponto 1 do Despacho n.º 12399/2019, publicado no Diário da República, 2.ª série, n.º 249, de 27 de dezembro de 2019, e da subalínea ii) da alínea d) do ponto 2 do Despacho n.º 12149-A/2019, publicado no Diário da República, 2.ª série, n.º 243, de 18 de dezembro de 2019, respetivamente, o seguinte:"
+  },
+  "135613893": {
+   "fragment_id": "135640304",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria procede, para o ano de 2020, à identificação das águas balneares costeiras e de transição e das águas balneares interiores, fixando as respetivas épocas balneares, nos termos do disposto no n.º 6 do artigo 4.º do Decreto-Lei n.º 135/2009, de 3 de junho, alterado pelo Decreto-Lei n.º 113/2012, de 23 de maio.\n\n2 - A presente portaria procede ainda à qualificação como praia de banhos, onde é assegurada a presença de nadadores-salvadores, durante a época balnear respetiva, em conformidade com a Lei n.º 44/2004, de 19 de agosto, na sua atual redação, bem como à identificação das praias de uso limitado, nos termos do n.º 2 do artigo 11.º do Decreto-Lei n.º 159/2012, de 24 de julho."
+  },
+  "135613894": {
+   "fragment_id": "135640305",
+   "type": 11,
+   "heading": "Artigo 2.º — Identificação de águas balneares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Identificação de águas balneares\n\n1 - A identificação das águas balneares costeiras e de transição, a duração da respetiva época balnear, a qualificação das praias marítimas como praias de banhos e a identificação das praias de uso limitado, no território continental, para o ano de 2020, constam do anexo i à presente portaria, da qual faz parte integrante.\n\n2 - A identificação das águas balneares interiores, a duração da respetiva época balnear e a qualificação das praias de águas fluviais e lacustres como praias de banhos no território continental, para o ano de 2020, constam do anexo ii à presente portaria, da qual faz parte integrante.\n\n3 - A identificação das águas balneares costeiras, a duração da respetiva época balnear e a qualificação das praias marítimas como praias de banhos na Região Autónoma dos Açores, para o ano de 2020, constam do anexo iii à presente portaria, da qual faz parte integrante.\n\n4 - A identificação das águas balneares costeiras, a duração da respetiva época balnear, a qualificação das praias marítimas como praias de banhos e a identificação das praias de uso limitado, na Região Autónoma da Madeira, para o ano de 2020, constam do anexo iv à presente portaria, da qual faz parte integrante.\n\n5 - Nos referidos anexos, as águas balneares para as quais não é apresentada qualquer praia qualificada como praia de banhos são aquelas em que à data da publicação desta portaria não está assegurada a assistência a banhistas."
+  },
+  "135613895": {
+   "fragment_id": "135640306",
+   "type": 11,
+   "heading": "Artigo 3.º — Condicionamento do início da época balnear",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condicionamento do início da época balnear\n\nO início da época balnear, de cada água balnear identificada nos anexos à presente portaria, a ocupação e a utilização das praias ficam condicionados às determinações do Governo, bem como às orientações da Direção-Geral da Saúde, entidade responsável pela liderança e coordenação em situação de epidemia por COVID-19 ou, tratando-se das Regiões Autónomas, do órgão regional competente, estando ainda sujeitas ao cumprimento do disposto no Decreto-Lei n.º 24/2020, de 25 de maio."
+  },
+  "135613896": {
+   "fragment_id": "135640307",
+   "type": 11,
+   "heading": "Artigo 4.º — Segurança de banhistas em situações particulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Segurança de banhistas em situações particulares\n\n1 - Pode ser garantida, com caráter excecional e por razões de segurança, pelas câmaras municipais ou pelas entidades gestoras de espaços costeiros e fluviais, em águas que não estejam identificadas como águas balneares, a presença de nadadores-salvadores, mediante pedido apresentado nos termos previstos no n.º 4 do presente artigo.\n\n2 - O disposto no número anterior não se sobrepõe à necessidade de qualificação das praias de banhos, nos termos do Decreto-Lei n.º 135/2009, de 3 de junho, na sua redação atual, e da Lei n.º 44/2004, de 19 de agosto, na sua atual redação.\n\n3 - O pedido a que se refere o n.º 1 fica sujeito a autorização conjunta da Agência Portuguesa do Ambiente, I. P. (APA), ou, tratando-se das Regiões Autónomas, do órgão regional competente, e do órgão local da Autoridade Marítima na respetiva área de jurisdição territorial ou, no caso das águas interiores não sujeitas a jurisdição marítima, a parecer, em questões de segurança a que se refere a alínea d) do número seguinte, da força de segurança territorialmente competente, sob parecer vinculativo do Instituto de Socorros a Náufragos quanto ao cumprimento do dispositivo de assistência a banhistas e informação a afixar no local relativamente à segurança de banhistas.\n\n4 - O pedido é apresentado à APA ou à Autoridade Marítima, no caso de se tratar de área de jurisdição daquela entidade, instruído com os seguintes elementos:\n\na) Proposta de dispositivo de assistência a banhistas a implementar no espaço a avaliar;\n\nb) Proposta de plano de monitorização da qualidade da água, a implementar e a suportar pela entidade proponente, durante o período de implantação do dispositivo de assistência a banhistas;\n\nc) Propostas de implementação de regras que venham a ser definidas, relativas à ocupação e utilização da área, no contexto da pandemia por COVID-19;\n\nd) Proposta de plano de evacuação de sinistrados, com estabelecimento de acessos a viaturas de emergência.\n\n5 - A autorização a que se refere o presente artigo é suspensa sempre que, em resultado do programa de monitorização implementado nos termos da alínea b) do número anterior, se verifique que os parâmetros analisados revelem resultados de qualidade da água inferiores a «aceitável», tal como indicado na coluna D do anexo i do Decreto-Lei n.º 135/2009, de 3 de junho, suspensão essa que se manterá até resultado de análise em contrário."
+  },
+  "135613897": {
+   "fragment_id": "135640308",
+   "type": 11,
+   "heading": "Artigo 5.º — Funcionamento de concessões de apoio balnear",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Funcionamento de concessões de apoio balnear\n\n1 - Para efeitos da estrita aplicação do disposto no n.º 9 do artigo 5.º do Decreto-Lei n.º 135/2009, de 3 de junho, com a redação que lhe foi conferida pelo Decreto-Lei n.º 121/2014, de 7 de agosto, no que se refere ao significado do período fora da época balnear e no quadro da exploração e funcionamento das concessões de apoio balnear, considera-se que em 2020, a nível nacional, a época balnear corresponde ao maior intervalo temporal considerando o início e fim de todos os períodos constantes no anexo à presente portaria.\n\n2 - Até à publicação em 2021 da portaria que procede à identificação das águas balneares e à definição da respetiva época balnear, e para os fins referidos no número anterior, considera-se que a nível nacional a época balnear decorre de 1 de maio até 15 de outubro, condicionadas estas datas a eventuais determinações governamentais no contexto da pandemia por COVID-19."
+  },
+  "135613898": {
+   "fragment_id": "135640309",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nEm 29 de maio de 2020."
+  },
+  "135613900": {
+   "fragment_id": "135640311",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 1 do artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 1 do artigo 2.º)\n\nIdentificação de águas balneares costeiras e de transição, qualificação das praias de banhos marítimas e identificação das praias de uso limitado para o ano de 2020, no território continental\n\n(ver documento original)"
+  },
+  "135613901": {
+   "fragment_id": "135640312",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 2 do artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 2 do artigo 2.º)\n\nIdentificação de águas balneares interiores e qualificação de praias de banhos de águas fluviais e lacustres para o ano de 2020, no território continental\n\n(ver documento original)"
+  },
+  "135613902": {
+   "fragment_id": "135640313",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 3 do artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se refere o n.º 3 do artigo 2.º)\n\nIdentificação de águas balneares costeiras e qualificação das praias de banhos marítimas, para o ano de 2020, nos Açores\n\n(ver documento original)"
+  },
+  "135613903": {
+   "fragment_id": "135640314",
+   "type": 14,
+   "heading": "Anexo IV — (a que se refere o n.º 4 do artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — (a que se refere o n.º 4 do artigo 2.º)\n\nIdentificação de águas balneares costeiras, qualificação das praias de banhos marítimas e identificação das praias de uso limitado, para o ano de 2020, na Madeira\n\n(ver documento original)\n\n113283071"
+  },
+  "135613899": {
+   "fragment_id": "135640310",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado Adjunto e da Defesa Nacional, Jorge Filipe Teixeira Seguro Sanches. - A Secretária de Estado do Ambiente, Inês dos Santos Costa."
+  },
+  "135613905": {
+   "fragment_id": "135640311",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 1 do artigo 2.º)",
+   "in_force_from": "2020-06-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 139-A/2020 - Diário da República n.º 113/2020, 1º Suplemento, Série I de 2020-06-12](https://diariodarepublica.pt/dr/detalhe/portaria/139-a-2020-135707101), em vigor a partir de 2020-06-13"
+   ],
+   "markdown": "## Anexo I — (a que se refere o n.º 1 do artigo 2.º)\n\nIdentificação de águas balneares costeiras e de transição, qualificação das praias de banhos marítimas e identificação das praias de uso limitado para o ano de 2020, no território continental\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 139-A/2020 - Diário da República n.º 113/2020, 1º Suplemento, Série I de 2020-06-12](https://diariodarepublica.pt/dr/detalhe/portaria/139-a-2020-135707101), em vigor a partir de 2020-06-13"
+  },
+  "135613906": {
+   "fragment_id": "135640312",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 2 do artigo 2.º)",
+   "in_force_from": "2020-06-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 139-A/2020 - Diário da República n.º 113/2020, 1º Suplemento, Série I de 2020-06-12](https://diariodarepublica.pt/dr/detalhe/portaria/139-a-2020-135707101), em vigor a partir de 2020-06-13"
+   ],
+   "markdown": "## Anexo II — (a que se refere o n.º 2 do artigo 2.º)\n\nIdentificação de águas balneares interiores e qualificação de praias de banhos de águas fluviais e lacustres para o ano de 2020, no território continental\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 139-A/2020 - Diário da República n.º 113/2020, 1º Suplemento, Série I de 2020-06-12](https://diariodarepublica.pt/dr/detalhe/portaria/139-a-2020-135707101), em vigor a partir de 2020-06-13"
+  }
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:440528:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-144131389",
+ "dre_path": "/dr/detalhe/portaria/1432-2008-440528",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-12-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "179600966"
+   ]
+  },
+  {
+   "date": "2020-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:144010962:por",
+     "title": "Portaria n.º 225/2020",
+     "published": "2020-09-29",
+     "dre_path": "/dr/detalhe/portaria/225-2020-144010962"
+    }
+   ],
+   "changes": [
+    "Altera Diploma",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "143858009",
+    "143858011",
+    "143858008"
+   ]
+  },
+  {
+   "date": "2022-03-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:179804293:por",
+     "title": "Portaria n.º 105-A/2022",
+     "published": "2022-03-01",
+     "dre_path": "/dr/detalhe/portaria/105-a-2022-179804293"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "179600966",
+    "143858011",
+    "143858008"
+   ]
+  }
+ ],
+ "fragments": {
+  "179600966": {
+   "fragment_id": "144131390",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-03-02",
+   "changed_by": [],
+   "markdown": "Portaria n.º 1432/2008\n\nde 10 de Dezembro\n\nA Portaria n.º 480/2003, de 16 de Junho, aprovou o modelo uniforme de título de residência a ser emitido a cidadãos estrangeiros residentes em território nacional, bem como a titulares do estatuto de refugiado e de autorização de residência por razões humanitárias, tendo então definido as respectivas tipologias.\n\nO modelo aprovado resultou da aplicação do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2002&id=302R1030\" title=\"Link para Regulamento da Comunidade Europeia\">1030/2002</a>, do Conselho, de 13 de Junho, que, inovadoramente, definiu o modelo uniforme de título de residência para nacionais de países terceiros.\n\nUlteriormente, com base na experiência de emissão do título uniforme, os órgãos competentes da União Europeia consideraram essencial que o modelo uniforme de título de residência passasse a incluir mais informações necessárias, satisfazendo normas técnicas de segurança de elevado nível, nomeadamente em matéria de protecção contra a contrafacção e a falsificação, contribuindo, dessa forma, para o objectivo de prevenção e luta contra a imigração clandestina e a permanência ilegal no território dos Estados membros.\n\nCom tal objectivo, foi aprovado o Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2008&id=308R0380\" title=\"Link para Regulamento da Comunidade Europeia\">380/2008</a>, do Conselho, de 18 de Abril, que veio alterar o Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2002&id=302R1030\" title=\"Link para Regulamento da Comunidade Europeia\">1030/2002</a> , que clarificou, igualmente, a plena aplicabilidade da Directiva n.º <a href=\"eurlex.asp?ano=1995&id=395L0046\" title=\"Link para Directiva da Comunidade Europeia\">95/46/CE</a>, do Parlamento Europeu e do Conselho, de 24 de Outubro, relativa à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados, designadamente com vista a assegurar que não sejam armazenadas quaisquer outras informações no modelo uniforme de título de residência, a menos que estejam previstas no Regulamento (CE) de 2002 ou no seu anexo.\n\nO Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2008&id=308R0380\" title=\"Link para Regulamento da Comunidade Europeia\">380/2008</a>  assentou no pressuposto de que a utilização de novas tecnologias, tais como os serviços públicos electrónicos e a assinatura digital, deverá ser facilitada, conferindo aos Estados membros a possibilidade de utilizarem para o efeito, nos títulos de residência, o suporte de armazenamento utilizado para a incorporação dos identificadores biométricos ou suportes adicionais. Procedeu-se, igualmente, à harmonização dos elementos de segurança e dos identificadores biométricos a utilizar pelos Estados membros.\n\nO regulamento estabeleceu apenas as especificações não secretas, ulteriormente completadas por outras cuja não revelação pública visa evitar a contrafacção e a falsificação.\n\nPor sua vez, o artigo 212.º da Lei n.º 23/2007, de 4 de Julho, que aprovou o regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional, previu os mecanismos complementares aplicáveis à emissão dos modelos dos títulos.\n\nNa mesma linha, a Lei n.º 27/2008, de 30 de Junho, regulamentada pela Portaria n.º 996/2008, de 4 de Setembro, estabeleceu as condições e procedimentos de concessão de asilo ou protecção subsidiária e os estatutos de requerente de asilo, de refugiado e de protecção subsidiária, transpondo para a ordem jurídica interna as Directivas n.os <a href=\"eurlex.asp?ano=2004&id=304L0083\" title=\"Link para Directiva da Comunidade Europeia\">2004/83/CE</a>, do Conselho, de 29 de Abril, e <a href=\"eurlex.asp?ano=2005&id=305L0085\" title=\"Link para Directiva da Comunidade Europeia\">2005/85/CE</a> , do Conselho, de 1 de Dezembro. Foi assim estendida a emissão do modelo de título de residência aos beneficiários de protecção subsidiária, incluindo também a aplicação das regras que respeitam à simplificação e identificação de pessoas.\n\nCom o novo modelo uniforme de título de residência serão introduzidas importantes medidas de modernização e de simplificação dos tipos de título existentes, facilitando assim a relação dos cidadãos estrangeiros com os serviços da Administração Pública, o que permitirá concretizar metas e projectos oportunamente incluídos no SIMPLEX e no Plano Tecnológico do Ministério da Administração Interna.\n\nAssim:\n\nAo abrigo e nos termos do artigo 212.º da Lei n.º 23/2007, do n.º 5 do artigo 67.º da Lei n.º 27/2008, de 30 de Junho, e das disposições comunitárias aplicáveis acima citadas, manda o Governo, pelo Secretário de Estado Adjunto e da Administração Interna, o seguinte:\n\n1 - É aprovado o modelo uniforme de título de residência anexo à presente portaria, que dela faz parte integrante, procedendo-se à sua emissão de acordo com o modelo, requisitos e especificações técnicas cujos parâmetros e procedimentos de fixação foram definidos pelo Regulamento (CE) n.º 1030/2002, do Conselho, de 13 de junho, alterado pelo Regulamento (CE) n.º 380/2008, do Conselho, de 18 de abril, e pelo Regulamento (UE) 2019/1157 do Parlamento Europeu e do Conselho, de 20 de junho.\n\n2 - O título de residência é emitido aos estrangeiros:\n\na) Autorizados a residir em território nacional, ao abrigo da Lei n.º 23/2007, de 4 de julho;\n\nb) A quem tenha sido reconhecido o estatuto de refugiado ou o estatuto de proteção subsidiária;\n\nc) A quem tenha sido reconhecido o estatuto de membro da família de beneficiário do estatuto de refugiado ou de membro da família de beneficiário do estatuto de proteção subsidiária;\n\nd) Que sejam beneficiários dos direitos conferidos ao abrigo do Acordo sobre a Saída do Reino Unido da Grã-Bretanha e da Irlanda do Norte da União Europeia.\n\ne) Beneficiários de proteção temporária nos termos da Lei n.º 67/2003, de 23 de agosto.\n\n3 - São revogadas as Portarias n.os 480/2003, de 16 de Junho, e 996/2008, de 4 de Setembro."
+  },
+  "143858009": {
+   "fragment_id": "144131390",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2020-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 225/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/portaria/225-2020-144010962), em vigor a partir de 2020-09-30"
+   ],
+   "markdown": "Portaria n.º 1432/2008\n\nde 10 de Dezembro\n\nA Portaria n.º 480/2003, de 16 de Junho, aprovou o modelo uniforme de título de residência a ser emitido a cidadãos estrangeiros residentes em território nacional, bem como a titulares do estatuto de refugiado e de autorização de residência por razões humanitárias, tendo então definido as respectivas tipologias.\n\nO modelo aprovado resultou da aplicação do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2002&id=302R1030\" title=\"Link para Regulamento da Comunidade Europeia\">1030/2002</a>, do Conselho, de 13 de Junho, que, inovadoramente, definiu o modelo uniforme de título de residência para nacionais de países terceiros.\n\nUlteriormente, com base na experiência de emissão do título uniforme, os órgãos competentes da União Europeia consideraram essencial que o modelo uniforme de título de residência passasse a incluir mais informações necessárias, satisfazendo normas técnicas de segurança de elevado nível, nomeadamente em matéria de protecção contra a contrafacção e a falsificação, contribuindo, dessa forma, para o objectivo de prevenção e luta contra a imigração clandestina e a permanência ilegal no território dos Estados membros.\n\nCom tal objectivo, foi aprovado o Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2008&id=308R0380\" title=\"Link para Regulamento da Comunidade Europeia\">380/2008</a>, do Conselho, de 18 de Abril, que veio alterar o Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2002&id=302R1030\" title=\"Link para Regulamento da Comunidade Europeia\">1030/2002</a> , que clarificou, igualmente, a plena aplicabilidade da Directiva n.º <a href=\"eurlex.asp?ano=1995&id=395L0046\" title=\"Link para Directiva da Comunidade Europeia\">95/46/CE</a>, do Parlamento Europeu e do Conselho, de 24 de Outubro, relativa à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados, designadamente com vista a assegurar que não sejam armazenadas quaisquer outras informações no modelo uniforme de título de residência, a menos que estejam previstas no Regulamento (CE) de 2002 ou no seu anexo.\n\nO Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2008&id=308R0380\" title=\"Link para Regulamento da Comunidade Europeia\">380/2008</a>  assentou no pressuposto de que a utilização de novas tecnologias, tais como os serviços públicos electrónicos e a assinatura digital, deverá ser facilitada, conferindo aos Estados membros a possibilidade de utilizarem para o efeito, nos títulos de residência, o suporte de armazenamento utilizado para a incorporação dos identificadores biométricos ou suportes adicionais. Procedeu-se, igualmente, à harmonização dos elementos de segurança e dos identificadores biométricos a utilizar pelos Estados membros.\n\nO regulamento estabeleceu apenas as especificações não secretas, ulteriormente completadas por outras cuja não revelação pública visa evitar a contrafacção e a falsificação.\n\nPor sua vez, o artigo 212.º da Lei n.º 23/2007, de 4 de Julho, que aprovou o regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional, previu os mecanismos complementares aplicáveis à emissão dos modelos dos títulos.\n\nNa mesma linha, a Lei n.º 27/2008, de 30 de Junho, regulamentada pela Portaria n.º 996/2008, de 4 de Setembro, estabeleceu as condições e procedimentos de concessão de asilo ou protecção subsidiária e os estatutos de requerente de asilo, de refugiado e de protecção subsidiária, transpondo para a ordem jurídica interna as Directivas n.os <a href=\"eurlex.asp?ano=2004&id=304L0083\" title=\"Link para Directiva da Comunidade Europeia\">2004/83/CE</a>, do Conselho, de 29 de Abril, e <a href=\"eurlex.asp?ano=2005&id=305L0085\" title=\"Link para Directiva da Comunidade Europeia\">2005/85/CE</a> , do Conselho, de 1 de Dezembro. Foi assim estendida a emissão do modelo de título de residência aos beneficiários de protecção subsidiária, incluindo também a aplicação das regras que respeitam à simplificação e identificação de pessoas.\n\nCom o novo modelo uniforme de título de residência serão introduzidas importantes medidas de modernização e de simplificação dos tipos de título existentes, facilitando assim a relação dos cidadãos estrangeiros com os serviços da Administração Pública, o que permitirá concretizar metas e projectos oportunamente incluídos no SIMPLEX e no Plano Tecnológico do Ministério da Administração Interna.\n\nAssim:\n\nAo abrigo e nos termos do artigo 212.º da Lei n.º 23/2007, do n.º 5 do artigo 67.º da Lei n.º 27/2008, de 30 de Junho, e das disposições comunitárias aplicáveis acima citadas, manda o Governo, pelo Secretário de Estado Adjunto e da Administração Interna, o seguinte:\n\n1 - É aprovado o modelo uniforme de título de residência anexo à presente portaria, que dela faz parte integrante, procedendo-se à sua emissão de acordo com o modelo, requisitos e especificações técnicas cujos parâmetros e procedimentos de fixação foram definidos pelo Regulamento (CE) n.º 1030/2002, do Conselho, de 13 de junho, alterado pelo Regulamento (CE) n.º 380/2008, do Conselho, de 18 de abril, e pelo Regulamento (UE) 2019/1157 do Parlamento Europeu e do Conselho, de 20 de junho.\n\n2 - O título de residência é emitido aos estrangeiros:\n\na) Autorizados a residir em território nacional, ao abrigo da Lei n.º 23/2007, de 4 de julho;\n\nb) A quem tenha sido reconhecido o estatuto de refugiado ou o estatuto de proteção subsidiária;\n\nc) A quem tenha sido reconhecido o estatuto de membro da família de beneficiário do estatuto de refugiado ou de membro da família de beneficiário do estatuto de proteção subsidiária;\n\nd) Que sejam beneficiários dos direitos conferidos ao abrigo do Acordo sobre a Saída do Reino Unido da Grã-Bretanha e da Irlanda do Norte da União Europeia.\n\n3 - São revogadas as Portarias n.os 480/2003, de 16 de Junho, e 996/2008, de 4 de Setembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 225/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/portaria/225-2020-144010962), em vigor a partir de 2020-09-30"
+  },
+  "143858011": {
+   "fragment_id": "144131394",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "2020-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 225/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/portaria/225-2020-144010962), em vigor a partir de 2020-09-30"
+   ],
+   "markdown": "## Anexo\n\nModelo\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 225/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/portaria/225-2020-144010962), em vigor a partir de 2020-09-30"
+  },
+  "143858008": {
+   "fragment_id": "144131391",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado Adjunto e da Administração Interna, José Manuel dos Santos de Magalhães, em 28 de Novembro de 2008."
+  }
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32005L0078:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005L0078-20131231",
+ "dre_path": null,
+ "source_lastmod": "2013-12-31",
+ "versions": [
+  {
+   "date": "2005-11-29",
+   "future": false,
+   "celex": "32005L0078",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c8beb48d11ec24ec",
+    "e0293b6b52e4e591",
+    "019dd6edb22c8860",
+    "6ec0bc4c19a6f56c",
+    "51501ef6fc6dc845",
+    "e83002e9ad1488d9",
+    "e4e1f9e357f3347c"
+   ]
+  },
+  {
+   "date": "2013-12-31",
+   "future": false,
+   "celex": "02005L0078-20131231",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "b3d333974d939a1a"
+   ]
+  }
+ ],
+ "fragments": {
+  "c8beb48d11ec24ec": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Novembro de 2005\n\nque aplica a Directiva 2005/55/CE do Parlamento Europeu e do Conselho relativa à aproximação das legislações dos Estados-Membros respeitantes às medidas a tomar contra a emissão de gases e partículas poluentes provenientes dos motores de ignição por compressão utilizados em veículos e a emissão de gases poluentes provenientes dos motores de ignição comandada alimentados a gás natural ou a gás de petróleo liquefeito utilizados em veículos e altera os seus anexos I, II, III, IV e VI\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-Membros respeitantes à homologação dos veículos a motor e seus reboques [([^1])](http://publications.europa.eu/resource/cellar/f293fb5d-218b-417f-9597-ab3e0673f7b7.0016.03/DOC_1#ntr1-L_2005313PT.01000101-E0001), nomeadamente o segundo travessão do n.º 2 do artigo 13.º,\n\nTendo em conta a Directiva 2005/55/CE do Parlamento Europeu e do Conselho de 28 de Setembro de 2005 relativa à aproximação das legislações dos Estados-Membros respeitantes às medidas a tomar contra a emissão de gases e partículas poluentes provenientes dos motores de ignição por compressão utilizados em veículos e a emissão de gases poluentes provenientes dos motores de ignição comandada alimentados a gás natural ou a gás de petróleo liquefeito utilizados em veículos [([^2])](http://publications.europa.eu/resource/cellar/f293fb5d-218b-417f-9597-ab3e0673f7b7.0016.03/DOC_1#ntr2-L_2005313PT.01000101-E0002), nomeadamente o artigo 7.º,\n\nConsiderando o seguinte:\n\n(1) A Directiva 2005/55/CE é uma das directivas específicas do procedimento de homologação instituído pela Directiva 70/156/CEE.\n\n(2) A Directiva 2005/55/CE determina que, a partir de 1 de Outubro de 2005, os novos motores para veículos pesados e os novos veículos pesados, no tocante aos respectivos motores, devem ser conformes às novas normas técnicas, que abrangem os sistemas de diagnóstico a bordo, a durabilidade e a conformidade dos veículos em circulação cuja manutenção e utilização adequadas sejam garantidas. As disposições técnicas necessárias para a implementação dos artigos 3.º e 4.º desta directiva devem ser adoptadas.\n\n(3) Para se poder assegurar o cumprimento do disposto no artigo 5º da Directiva 2005/55/CE, é conveniente introduzir disposições que incentivem uma utilização adequada, conforme pretendido pelo fabricante, dos novos veículos pesados equipados com motores com sistemas de pós-tratamento dos gases de escape que requerem a utilização de um reagente consumível para atingir a redução pretendida de poluentes regulamentados. Devem ser introduzidas medidas que assegurem que o condutor de um veículo desse tipo seja informado atempadamente se o abastecimento de um reagente consumível a bordo do veículo estiver prestes a esgotar-se, ou se não se verifica qualquer actividade de dosagem do reagente. Caso o condutor ignore tais avisos, o comportamento funcional do motor deveria alterar-se até que o condutor reabasteça com qualquer reagente consumível necessário para o funcionamento eficaz do sistema de pós-tratamento do escape.\n\n(4) Quando os motores abrangidos pelo âmbito da Directiva 2005/55/CE necessitem utilizar um reagente consumível para atingir os limites de emissão para os quais foram homologados, os Estados-Membros devem adoptar as medidas necessárias para garantir que estes reagentes estejam disponíveis de forma equilibrada a nível geográfico. Os Estados-Membros devem poder adoptar as medidas necessárias para incentivar a utilização de tais reagentes.\n\n(5) É conveniente introduzir disposições que permitam aos Estados-Membros controlar e garantir, aquando da inspecção técnica periódica, que os veículos pesados equipados com sistemas de pós-tratamento dos gases de escape baseados na utilização de um reagente consumível foram utilizados correctamente no período anterior à inspecção.\n\n(6) Os Estados-Membros devem ter a faculdade de proibir a utilização de quaisquer veículos pesados equipados com sistemas de pós-tratamento dos gases de escape que requeiram a utilização de um reagente consumível para atingirem os limites de emissão para os quais foram homologados se o referido sistema de pós-tratamento dos gases de escape não consumir actualmente o reagente exigido ou se o veículo não contiver o reagente requerido.\n\n(7) Os fabricantes de veículos pesados equipados com sistema de pós-tratamento dos gases de escape que requeiram a utilização de um reagente consumível devem informar os respectivos clientes como operar correctamente tais veículos.\n\n(8) As disposições da Directiva 2005/55/CE relativas à utilização de estratégias manipuladoras de modo a ter em conta o progresso técnico devem ser adaptadas. Devem ainda ser especificados requisitos para motores com regulação múltipla ou para dispositivos que podem limitar o binário do motor em determinadas condições de funcionamento.\n\n(9) Os anexos III e IV da Directiva 98/70/CE do Parlamento Europeu e do Conselho, de 13 de Outubro de 1998, relativa à qualidade da gasolina e do combustível para motores diesel e que altera a Directiva 93/12/CEE do Conselho [([^3])](http://publications.europa.eu/resource/cellar/f293fb5d-218b-417f-9597-ab3e0673f7b7.0016.03/DOC_1#ntr3-L_2005313PT.01000101-E0003), exigem que a gasolina e o combustível para motores diesel à venda em toda a Comunidade tenham um teor máximo de enxofre de 50 mg/kg (partes por milhão, ppm) a partir de 1 de Janeiro de 2005. Motores com um teor de enxofre de 10 mg/kg, ou menos, estão cada vez mais disponíveis em toda a Comunidade e a Directiva 98/70/CE exige que estes combustíveis estejam disponíveis a partir de 1 de Janeiro de 2009. Os combustíveis de referência utilizados para os ensaios de homologação dos motores relativamente aos limites de emissão definidos na linha B1, na linha B2 e na linha C dos quadros do anexo I da Directiva 2005/55/CE deveriam, consequentemente, ser redefinidos de modo a reflectirem melhor, se aplicável, o teor de enxofre dos combustíveis diesel disponíveis no mercado a partir de 1 de Janeiro de 2005, utilizados pelos motores equipados com sistemas avançados de controlo de emissões. É igualmente oportuno redefinir o combustível gás de petróleo liquefeito (GLP) de referência de forma a reflectir a evolução do mercado após 2005.\n\n(10) São necessárias adaptações técnicas nos procedimentos de amostragem e medição a fim de permitir uma medição fiável e repetida das emissões mássicas de partículas dos motores de ignição por compressão homologados em conformidade com os limites de partículas definidos na linha B1, na linha B2 ou na linha C dos quadros do ponto 6.2.1 do anexo I da Directiva 2005/55/CE e dos motores a gás homologados em conformidade com os limites de emissão definidos na linha C do quadro 2 do ponto 6.2.1 do mesmo anexo.\n\n(11) Visto que as disposições relativas à aplicação dos artigos 3.º e 4.º da Directiva 2005/55/CE são adoptados ao mesmo tempo que as disposições que adaptam aquela directiva ao progresso técnico, ambos os tipos de medidas foram incluídas no mesmo acto legislativo.\n\n(12) A Directiva 2005/55/CE deve, pois, ser alterada em conformidade.\n\n(13) As disposições da presente directiva estão em conformidade com o parecer do Comité de Adaptação ao Progresso Técnico, instituído pelo n.º 1 do artigo 13.º da Directiva 70/156/CEE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "e0293b6b52e4e591": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nOs anexos I, II, II, IV e VI da Directiva 2005/55/CE são alterados em conformidade com o anexo da presente directiva."
+  },
+  "019dd6edb22c8860": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nSão estabelecidas disposições respeitantes à aplicação dos artigos 3º e 4º da Directiva 2005/55/CE nos anexos II a V da presente directiva."
+  },
+  "6ec0bc4c19a6f56c": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os Estados-Membros devem adoptar e publicar as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar até 8 de Novembro de 2006. Os Estados-Membros devem comunicar imediatamente à Comissão o texto das referidas disposições, bem como um quadro de correspondência entre essas disposições e a presente directiva.\n\nOs Estados-Membros devem aplicar as referidas disposições a partir de 9 de Novembro de 2006.\n\nSempre que os Estados-Membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência são adoptadas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito nacional que adoptarem no domínio regido pela presente directiva."
+  },
+  "51501ef6fc6dc845": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "e83002e9ad1488d9": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 14 de Novembro de 2005.\n\n***Pela Comissão***\n\n**Günter VERHEUGEN**\n\n***Vice-Presidente***\n\n---"
+  },
+  "e4e1f9e357f3347c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/f293fb5d-218b-417f-9597-ab3e0673f7b7.0016.03/DOC_1#ntc1-L_2005313PT.01000101-E0001) [JO L 42 de 23.2.1970, p. 1](http://publications.europa.eu/resource/oj/JOL_1970_042_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2005/49/CE da Comissão ([JO L 194 de 26.7.2005, p. 12](http://publications.europa.eu/resource/oj/JOL_2005_194_R_TOC)). Edição especial portuguesa: cap. 13, fasc. 1, p. 174.\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/f293fb5d-218b-417f-9597-ab3e0673f7b7.0016.03/DOC_1#ntc2-L_2005313PT.01000101-E0002) [JO L 275 de 20.10.2005, p. 1](http://publications.europa.eu/resource/oj/JOL_2005_275_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/f293fb5d-218b-417f-9597-ab3e0673f7b7.0016.03/DOC_1#ntc3-L_2005313PT.01000101-E0003) [JO L 350 de 28.12.1998, p. 58](http://publications.europa.eu/resource/oj/JOL_1998_350_R_TOC). Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho ([JO L 284 de 31.10.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_284_R_TOC))."
+  },
+  "b3d333974d939a1a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2005L0078 — PT — 31.12.2013 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32005L0078) [DIRECTIVA 2005/78/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/32005L0078) [de 14 de Novembro de 2005](http://publications.europa.eu/resource/celex/32005L0078) [que aplica a Directiva 2005/55/CE do Parlamento Europeu e do Conselho relativa à aproximação das legislações dos Estados-Membros respeitantes às medidas a tomar contra a emissão de gases e partículas poluentes provenientes dos motores de ignição por compressão utilizados em veículos e a emissão de gases poluentes provenientes dos motores de ignição comandada alimentados a gás natural ou a gás de petróleo liquefeito utilizados em veículos e altera os seus anexos I, II, III, IV e VI](http://publications.europa.eu/resource/celex/32005L0078) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32005L0078) (JO L 313, 29.11.2005, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 595/2009 do Parlamento Europeu e do Conselho de 18 de Junho de 2009](http://publications.europa.eu/resource/celex/32009R0595) — L 188 — 1 — 18.7.2009"
+  }
+ }
+}

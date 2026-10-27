@@ -1,0 +1,430 @@
+---
+schema_version: '1.0'
+id: eu:celex:31993L0109:por
+title: Directiva 93/109/CE do Conselho, de 6 de Dezembro de 1993
+short_title: null
+summary: Directiva 93/109/CE do Conselho, de 6 de Dezembro de 1993, que estabelece o sistema de exercício do direito de voto
+  e de elegibilidade nas eleições para o Parlamento Europeu dos cidadãos da União residentes num Estado-membro de que não
+  tenham a nacionalidade
+jurisdiction: european_union
+territory: null
+document_type: directive
+document_type_label: Diretiva
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 1993/109
+official_date: null
+publication_date: '1993-12-30'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 329 de 30.12.1993
+  number: '329'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/8a395f55-e3bb-4507-b68e-b669d7e1a6ed.0011.02/DOC_1
+entry_into_force_dates:
+- '1993-12-30'
+end_of_validity_date: '2027-09-29'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2013-01-27'
+version_history:
+  file: diretiva-ue-1993-109.versoes.json
+  count: 2
+  source_lastmod: '2013-01-27'
+  versions:
+  - date: '1993-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-01-27'
+    amending: eu:celex:32013L0001:por
+    amending_title: DIRETIVA 2013/1/UE DO CONSELHO de 20 de dezembro de 2012
+    changes:
+    - Altera preambulo
+    - Adita CAPÍTULO I
+    - Adita PRINCÍPIOS GERAIS
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita CAPÍTULO II
+    - Adita EXERCÍCIO DO DIREITO DE VOTO E ELEGIBILIDADE
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita CAPÍTULO III
+    - Adita DISPOSIÇÕES DERROGATÓRIAS E TRANSITÓRIAS
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita CAPÍTULO IV
+    - Adita DISPOSIÇÕES FINAIS
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Notas
+    - Suprime CAPÍTULO I PRINCÍPIOS GERAIS — Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime CAPÍTULO II EXERCÍCIO DO DIREITO DE VOTO E ELEGIBILIDADE — Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+identifiers:
+  celex: 31993L0109
+  eli: http://data.europa.eu/eli/dir/1993/109/oj
+  oj: oj:JOL_1993_329_R_0034_024
+  dre: null
+  dre_path: null
+  internal: eu:celex:31993L0109:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A31993L0109
+  metadata_url: http://publications.europa.eu/resource/cellar/8a395f55-e3bb-4507-b68e-b669d7e1a6ed.0011
+  content_url: http://publications.europa.eu/resource/cellar/5b55baab-4077-4338-8c0f-e16ed59495fe.0018.03/DOC_1
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0109-20130127
+  retrieved_at: '2026-10-22T14:42:19Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-11-25T23:07:50.091+01:00'
+integrity:
+  source_sha256: a8fd909ad3dc247012c3ae558fe4e6d83f4512dc7755daf4c61667da07f00f7b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:42:19Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1993-109.versoes.json.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Parlamento Europeu
+- União Europeia
+- cidadão da UE
+- direito de voto
+- elegibilidade
+- eleição europeia
+relationships:
+- type: amended_by
+  target: celex:32013L0001
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1f1b957b-6944-11e2-9294-01aa75ed71a1
+  date: '2012-12-20'
+- type: based_on
+  target: celex:11992E008B
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c147801f-db1b-4abe-8a10-236063fbae1b
+  date: '1992-08-31'
+- type: cited_by
+  target: pt:dre:116997463:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:203628888:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:275395:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:606109:por
+  label: null
+  source: null
+- type: cites
+  target: celex:11992E003
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5bea89c1-3021-496a-a939-6b1209167c61
+- type: cites
+  target: celex:11992E008A
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c815d2ea-6751-4c0c-bea2-9dc022cef62e
+- type: cites
+  target: celex:11992E138
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c1c2c577-05ea-41ea-aafe-932976b302a0
+- type: cites
+  target: celex:41976X1008(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/644a8356-4838-415b-8686-105b3c540235
+- type: repealed_by
+  target: celex:32025L1788
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3504575e-8c4e-11f0-bfe2-01aa75ed71a1
+  date: '2025-09-08'
+article_structure:
+  article_count: 19
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T14:42:19Z'
+  warnings: []
+  errors: []
+---
+
+# Directiva 93/109/CE do Conselho, de 6 de Dezembro de 1993
+
+de 6 de Dezembro de 1993
+
+que estabelece o sistema de exercício do direito de voto e de elegibilidade nas eleições para o Parlamento Europeu dos cidadãos da União residentes num Estado-membro de que não tenham a nacionalidade
+
+O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 2 do seu artigo 8.ºB,
+
+Tendo em conta a proposta da Comissão,
+
+Tendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/5b55baab-4077-4338-8c0f-e16ed59495fe.0018.03/DOC_1#E0001)),
+
+Considerando que o Tratado da União Europeia constitui uma nova etapa no processo de criação de uma união cada vez mais estreita entre os povos da Europa; que têm como missão, nomeadamente, organizar coerente e solidariamente as relações entre os povos dos Estados-membros e que um dos seus objectivos fundamentais é o reforço da protecção dos direitos e dos interesses dos nacionais dos seus Estados-membros mediante a instituição da cidadania da União;
+
+Considerando que, para o efeito, as disposições do título II do Tratado da União Europeia, que alteram o Tratado que institui a Comunidade Económica Europeia para criar a Comunidade Europeia, instituíram uma cidadania da União em benefício de todos os nacionais dos Estados-membros, reconhecendo-lhes, a esse título, um conjunto de direitos;
+
+Considerando que o direito de voto e a elegibilidade para o Parlamento Europeu no Estado-membro de residência, previsto no n.º 2 do artigo 8.ºB do Tratado que institui a Comunidade Europeia, constitui uma aplicação do princípio da não discriminação entre nacionais e não nacionais e um corolário do direito de livre circulação e permanência previsto no artigo 8.ºA do Tratado CE;
+
+Considerando que o n.º 2 do artigo 8.ºB do Tratado CE refere-se apenas à possibilidade de exercício do direito de voto e à elegibilidade para o Parlamento Europeu, sem prejuízo do n.º 3 do artigo 138.º do Tratado CE que prevê o estabelecimento de um processo uniforme para estas eleições em todos os Estados-membros, e que se destina essencialmente a suprimir a condição da nacionalidade actualmente exigida na maior parte dos Estados-membros para o exercício desses direitos;
+
+Considerando que a aplicação do n.º 2 do artigo 8.ºB do Tratado CE não implica uma harmonização dos regimes eleitorais dos Estados-membros e que, além disso, para ter em conta o princípio da proporcionalidade, previsto no terceiro parágrafo da alínea b) do artigo 3.º do Tratado CE, a legislação comunitária nessa matéria não deve exceder o necessário para atingir o objectivo referido no n.º 2 do artigo 8.ºB do Tratado CE;
+
+Considerando que o n.º 2 do artigo 8.ºB do Tratado CE tem por objectivo assegurar que todos os cidadãos da União, nacionais ou não do Estado-membro de residência, possam aí exercer o seu direito de voto e ser elegíveis para o Parlamento Europeu nas mesmas condições; e que, por conseguinte, é necessário que as condições, nomeadamente em matéria de duração e de prova de residência, válidas para os não nacionais sejam idênticas às aplicáveis, se necessário, aos nacionais do Estado-membro em questão;
+
+Considerando que o n.º 2 do artigo 8.ºB do Tratado CE prevê o direito de voto e a elegibilidade para o Parlamento Europeu no Estado-membro de residência sem, no entanto, a substituir ao direito de voto e à elegibilidade no Estado-membro de que o cidadão europeu é nacional; que é necessário respeitar a liberdade de opção dos cidadãos da União relativamente ao Estado-membro em que desejem participar nas eleições europeias, garantindo simultaneamente que não sejam cometidos abusos a esta liberdade como votos duplos ou duplas candidaturas;
+
+Considerando que as derrogações das regras gerais da presente directiva devem ser justificadas, nos termos do n.º 2 do artigo 8.ºB do Tratado CE, por problemas específicos de um Estado-membro, e que, pela sua natureza, essas disposições derrogatórias devem ser sujeitas a reexame;
+
+Considerando que esses problemas específicos se podem colocar, nomeadamente, num Estado-membro em que a proporção de cidadãos da União que nele residam sem ter a sua nacionalidade e que tenham atingido a idade de voto é muito superior à média; que uma proporção de 20 % desses cidadãos relativamente ao conjunto do eleitorado justifica disposições derrogatórias assentes no critério do período de residência;
+
+Considerando que a cidadania da União se destina a uma melhor integração dos cidadãos da União no seu país de acolhimento e que, nesse contexto, evitar qualquer polarização entre listas de candidatos nacionais e não nacionais é coerente com as intenções dos autores do Tratado;
+
+Considerando que esse risco de polarização diz especialmente respeito a um Estado-membro em que a proporção de cidadãos da União não nacionais que atingiram a idade de voto exceda 20 % do conjunto dos cidadãos da União em idade de votar e aí residentes, sendo assim necessário que esse Estado-membro possa prever disposições específicas, que observem o artigo 8.ºB do Tratado, relativas à composição das listas de candidatos;
+
+Considerando que é necessário tomar em consideração o facto de em determinados Estados-membros os nacionais de outros Estados-membros aí residentes disporem de direito de voto para o parlamento nacional, pelo que algumas disposições da presente directiva podem não ser aí aplicadas,
+
+ADOPTOU A PRESENTE DIRECTIVA:
+
+## CAPÍTULO I
+
+### PRINCÍPIOS GERAIS
+
+###### Artigo 1.º
+
+1. A presente directiva estabelece o sistema de exercício do direito de voto e de elegibilidade para o Parlamento Europeu para os cidadãos da União residentes num Estado-membro de que não sejam nacionais.
+
+2. As disposições da presente directiva não afectam as disposições de cada Estado-membro sobre direito de voto e elegibilidade dos seus nacionais que residam fora do seu território eleitoral.
+
+###### Artigo 2.º
+
+Para efeitos da presente directiva, entende-se por:
+
+1. « Eleições para o Parlamento Europeu », as eleições dos representantes ao Parlamento Europeu por sufrágio universal directo, nos termos do Acto de 20 de Setembro de 1976 ([^2^](http://publications.europa.eu/resource/cellar/5b55baab-4077-4338-8c0f-e16ed59495fe.0018.03/DOC_1#E0002));
+
+2. «Território eleitoral», o território de um Estado-membro em que, nos termos do acto acima referido e, nesse âmbito, da lei eleitoral desse Estado-membro, os representantes ao Parlamento Europeu são eleitos pelo povo desse Estado-membro;
+
+3. « Estado-membro de residência », o Estado-membro em que o cidadão da União reside sem ter a nacionalidade;
+
+4. « Estado-membro de origem », o Estado-membro da nacionalidade do cidadão da União;
+
+5. « Eleitor comunitário », qualquer cidadão da União que tenha o direito de voto para o Parlamento Europeu no Estado-membro de residência nos termos da presente directiva;
+
+6. « Elegível comunitário», qualquer cidadão da União elegível para o Parlamento Europeu no Estado--membro de residência nos termos da presente directiva;
+
+7. « Cadernos eleitorais », o registo oficial de todos os eleitores com direito de voto num determinado círculo ou autarquia local, realizado e actualizado pelo serviço competente de acordo com o direito eleitoral do Estado-membro de residência, ou o recenseamento da população, se este mencionar a qualidade de eleitor;
+
+8. « Dia de referência», o dia ou dias em que os cidadãos da União devem preencher, de acordo com o direito do Estado-membro de residência, as condições exigidas para aí serem eleitores ou elegíveis;
+
+9. «Declaração formal», o acto do interessado cuja inexactidão é passível de sanções, nos termos da legislação nacional aplicável.
+
+###### Artigo 3.º
+
+Qualquer pessoa que, no dia de referência:
+
+a) Seja cidadão da União na acepção do n.º 1, segundo parágrafo, do artigo 8.º do Tratado, e que
+
+b) Embora não tenha a nacionalidade do Estado-membro de residência, preencha todas as outras condições a que a legislação desse Estado sujeita o direito de voto e a elegibilidade dos seus nacionais,
+
+tem direito de voto e é elegível no Estado-membro de residência nas eleições para o Parlamento Europeu, desde que não esteja privada desses direitos por força dos artigos 6.º ou 7.º
+
+Se, para serem elegíveis, os nacionais do Estado-membro de residência devem ter completado um período mínimo após a aquisição da nacionalidade, considera-se que os cidadãos da União preenchem esta condição quando tenham adquirido a nacionalidade de um Estado-membro após esse mesmo período.
+
+###### Artigo 4.º
+
+1. O eleitor comunitário pode exercer o seu direito de voto no Estado-membro de residência ou no Estado-membro de origem. Ninguém pode votar mais de uma vez no mesmo acto eleitoral.
+
+2. Ninguém pode ser candidato em vários Estados-membros num mesmo acto eleitoral.
+
+###### Artigo 5.º
+
+Se, para serem eleitores ou elegíveis, os nacionais do Estado-membro de residência devem completar um período mínimo de residência no território eleitoral, considera-se que os eleitores e elegíveis comunitários preenchem essa condição quando tenham residido durante um período equivalente noutros Estados-membros. Essa disposição é aplicável sem prejuízo das condições específicas relacionadas com a duração do período de residência num dado círculo eleitoral ou autarquia local.
+
+###### Artigo 6.º
+
+1. O cidadão da União que resida num Estado-Membro de que não seja nacional e que seja privado do direito de se apresentar como candidato, na sequência de uma decisão judicial individual ou de uma decisão administrativa, desde que esta última possa ser objeto de recurso judicial, por força do direito do Estado-Membro de residência ou do seu Estado-Membro de origem, fica privado do exercício desse direito no Estado-Membro de residência nas eleições para o Parlamento Europeu.
+
+2. O Estado-Membro da residência certifica-se de que o cidadão da União que tenha manifestado vontade de aí exercer o seu direito de ser candidato, não está privado desse direito no Estado-Membro de origem, na sequência de uma decisão judicial individual ou de uma decisão administrativa, desde que esta última possa ser objeto de recurso judicial.
+
+3. Para efeitos do n.º 2 do presente artigo, o Estado-Membro da residência notifica o Estado-Membro de origem da declaração a que se refere o artigo 10.º, n.º 1. Para esse efeito, as informações relevantes disponíveis no Estado-Membro de origem são transmitidas de forma apropriada no prazo de 5 dias úteis a contar da receção da notificação ou, sempre que possível, num prazo mais curto, se tal for requerido pelo Estado-Membro de residência. Essas informações só podem incluir as indicações estritamente necessárias para a aplicação do presente artigo e só podem ser utilizadas para esse fim.
+
+A candidatura é aceite mesmo que as informações não sejam recebidas pelo Estado-Membro de residência dentro do prazo fixado.
+
+4. Se as informações transmitidas infirmarem o teor da declaração, o Estado-Membro de residência, independentemente de as receber dentro ou fora do prazo fixado, toma as medidas adequadas, de acordo com o seu direito nacional, para impedir a candidatura do interessado ou, se tal não for possível, para impedir o candidato de ser eleito ou de exercer o seu mandato.
+
+5. Os Estados-Membros designam um ponto de contacto encarregado de receber e transmitir as informações necessárias à aplicação do n.º 3. Os Estados-Membros comunicam à Comissão o nome e o contacto do ponto de contacto, bem como informações atualizadas ou alterações que lhe digam respeito. A Comissão mantém uma lista dos pontos de contacto e disponibiliza-a os Estados-Membros.
+
+###### Artigo 7.º
+
+1. O Estado-membro da residência pode assegurarse de que um cidadão da União, que tenha manifestado vontade de aí exercer o seu direito de voto, não está privado desse direito no Estado-membro de origem, na sequência de uma decisão individual em material civil ou penal.
+
+2. Para efeitos do n.º 1, o Estado-membro da residência pode notificar o Estado-membro de origem da declaração prevista no n.º 2 do artigo 9º Nesse mesmo sentido, as informações úteis e habitualmente disponíveis, provenientes do Estado de origem, serão transmitidas na forma e prazos adequados; estas informações apenas podem incluir as indicações estritamente necessárias para efeitos do presente artigo e apenas podem ser utilizadas para esta finalidade. Se as informações transmitidas prejudicarem o teor da declaração, o Estado-membro de residência adoptará as medidas adequadas para impedir o interessado de exercer o seu direito de voto.
+
+3. Além disso, o Estado-membro de origem pode transmitir, na forma e prazos adequados, ao Estado-membro de residência, todas as informações necessárias para efeitos do presente artigo.
+
+###### Artigo 8.º
+
+1. O eleitor comunitário que tenha manifestado essa vontade exercerá o direito de voto no Estado-membro de residência.
+
+2. Se o voto for obrigatório no Estado-membro de residência, essa obrigação é aplicável aos eleitores comunitários que tenham manifestado essa vontade.
+
+## CAPÍTULO II
+
+### EXERCÍCIO DO DIREITO DE VOTO E ELEGIBILIDADE
+
+###### Artigo 9.º
+
+1. Os Estados-membros adoptarão as medidas necessárias para permitir ao eleitor comunitário que tenha manifestado essa vontade ser inscrito nos cadernos eleitorais num prazo útil antes das eleições.
+
+2. Para ser inscrito nos cadernos eleitorais, o eleitor comunitário deve apresentar as mesmas provas que um eleitor nacional. Deve, além disso, apresentar uma declaração formal em que se especifique:
+
+a) A nacionalidade e o endereço no território eleitoral do Estado-membro de residência;
+
+b) Se for caso disso, os cadernos eleitorais da autarquia local ou círculo eleitoral no Estado-membro de origem em que tenha estado inscrito em último lugar; e
+
+c) Que apenas exercerá o direito de voto no Estado-membro de residência.
+
+3. Além disso, o Estado-membro de residência pode exigir que o eleitor comunitário:
+
+a) Especifique na declaração referida no n.º 2 que não se encontra privado do direito de voto no Estado-membro de origem;
+
+b) Apresente um documento de identidade válido;
+
+c) Indique a data a partir da qual reside nesse ou noutro Estado-membro.
+
+4. Os eleitores comunitários que tenham sido inscritos nos cadernos eleitorais mantêm a sua inscrição nas mesmas condições dos eleitores nacionais, até solicitarem a eliminação da inscrição ou até que sejam automaticamente eliminados do caderno por terem deixado de preencher as condições necessárias para o exercício do direito de voto.
+
+###### Artigo 10.º
+
+1. Na apresentação da declaração de candidatura, cada elegível comunitário deve apresentar as mesmas provas que um candidato nacional. Além disso, deve apresentar uma declaração formal em que se especifique:
+
+a) A nacionalidade, data e local de nascimento, o último endereço no Estado-Membro de origem, bem como o seu endereço no território eleitoral do Estado-Membro de residência;
+
+b) Que não é simultaneamente candidato às eleições para o Parlamento Europeu num outro Estado-membro;
+
+c) Se for caso disso, os cadernos eleitorais da autarquia local ou círculo eleitoral no Estado-membro de origem em que tenha estado inscrito em último lugar; e
+
+d) Que não foi privado do direito de se apresentar como candidato no Estado-Membro de origem na sequência de uma decisão judicial individual ou de uma decisão administrativa, desde que esta última possa ser objeto de recurso judicial.
+
+3. Além disso, o Estado-membro de residência pode exigir que o elegível comunitário apresente um documento de identidade válido; pode igualmente exigir que dele conste a data desde a qual é nacional de um Estado-membro.
+
+###### Artigo 11.º
+
+1. O Estado-membro de residência informará o interessado do seguimento dado ao seu pedido de inscrição nos cadernos eleitorais ou da decisão respeitante à admissibilidade da sua candidatura.
+
+2. Em caso de recusa de inscrição nos cadernos eleitorais ou de rejeição da candidatura, o interessado pode interpor os recursos previstos na legislação do Estado-membro de residência em casos idênticos para os eleitores e elegíveis nacionais.
+
+###### Artigo 12.º
+
+O Estado-membro de residência informará, com a devida antecedência e de forma adequada, os eleitores e elegíveis comunitários das condições e modalidades de exercício do direito de voto e da elegibilidade nesse Estado.
+
+###### Artigo 13.º
+
+Os Estados-membros procederão ao intercâmbio das informações necessárias para efeitos do artigo 4.º Nesse sentido, o Estado-membro de residência, com base na declaração formal prevista nos artigos 9.º e 10.º, transmitirá ao Estado-membro de origem, num prazo adequado antes de cada acto eleitoral, as informações respeitantes aos nacionais deste último Estado, inscritos nos cadernos eleitorais ou que aí tenham apresentado uma candidatura. O Estado-membro de origem adoptará, nos termos da sua legislação nacional, as medidas adequadas para evitar votos duplos e duplas candidaturas dos seus nacionais.
+
+## CAPÍTULO III
+
+### DISPOSIÇÕES DERROGATÓRIAS E TRANSITÓRIAS
+
+###### Artigo 14.º
+
+1. Se, num Estado-membro, em 1 de Janeiro de 1993, a proporção de cidadãos da União nele residentes, que não tenham a sua nacionalidade e tenham atingido a idade de voto, ultrapassar 20 % do conjunto dos cidadãos da União em idade de votar e aí residentes, esse Estado-membro pode reservar, em derrogação dos artigos 3.º, 9.º e 10.º:
+
+a) O direito de voto aos eleitores comunitários que tenham residido nesse Estado-membro durante um período mínimo que não pode ser superior a cinco anos;
+
+b) A elegibilidade aos elegíveis comunitários que tenham residido nesse Estado-membro durante um período mínimo que não pode ser superior a 10 anos;
+
+Estas disposições não prejudicam as medidas adequadas que esse Estado-membro possa adoptar em matéria de composição das listas de candidatos, destinadas nomeadamente a facilitar a integração dos cidadãos da União não nacionais.
+
+Todavia, as condições específicas do período de residência referidas no primeiro parágrafo não são oponíveis aos eleitores e elegíveis comunitários que, devido à sua residência fora do seu Estado-membro de origem ou à respectiva duração, não tenham direito de voto ou não sejam elegíveis nesse Estado.
+
+2. Se, em 1 de Fevereiro de 1994, a legislação de um Estado-membro determinar que os nacionais de outro Estado-membro nele residentes têm direito de voto para o parlamento nacional desse Estado e podem ser inscritos, para o efeito, nos cadernos eleitorais desse Estado-membro exactamente nas mesmas condições que os eleitores nacionais, o primeiro Estado-membro pode não aplicar os artigos 6.º a 13.º a esses nacionais, em derrogação da presente directiva.
+
+3. Em 31 de Dezembro de 1997 e, posteriormente, 18 meses antes de cada eleição para o Parlamento Europeu, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório em que verificará a persistência das razões que justificam a concessão, aos Estados-membros em causa, de uma derrogação nos termos do n.º 2 do artigo 8.ºB do Tratado CE, e proporá, se necessário, que se proceda às adaptações necessárias.
+
+Os Estados-membros que adoptem disposições derrogatórias nos termos do n.º 1 fornecerão à Comissão todos os elementos justificativos necessários.
+
+###### Artigo 15.º
+
+Serão aplicáveis as seguintes disposições específicas às quartas eleições directas para o Parlamento Europeu:
+
+a) Os cidadãos da União que, em 15 de Fevereiro de 1994, já disponham do direito de voto no Estado-membro de residência e figurem nos cadernos eleitorais do Estado-membro de residência não se encontram sujeitos às formalidades previstas no artigo 9.º;
+
+b) Os Estados-membros cujos cadernos eleitorais tenham sido adoptados antes de 15 de Fevereiro de 1994 adoptarão as medidas necessárias para permitir aos eleitores comunitários que aí pretendam exercer o seu direito de voto inscrever-se nos cadernos eleitorais num prazo adequado antes da data das eleições;
+
+c) Os Estados-membros que, sem elaborarem cadernos eleitorais específicos, mencionarem a qualidade de eleitor no recenseamento da população e nos quais o voto não seja obrigatório podem aplicar esse regime igualmente aos eleitores comunitários que figurem nesse recenseamento e que, individualmente informados dos seus direitos, não tenham manifestado vontade de exercer o direito de voto no Estado-membro de origem. Esses Estados-membros transmitirão às autoridades do Estado-membro de origem o documento comprovativo da intenção expressa desses eleitores de exercerem o seu direito de voto no Estado-membro de residência;
+
+d) Os Estados-membros cujo procedimento interno de designação dos candidatos dos partidos e grupos políticos seja regulado por lei podem determinar que os procedimentos iniciados, nos termos dessa lei, antes de 1 de Fevereiro de 1994, e as decisões adoptadas nesse âmbito permaneçam válidos.
+
+## CAPÍTULO IV
+
+### DISPOSIÇÕES FINAIS
+
+###### Artigo 16.º
+
+Antes de 31 de Dezembro de 1995, a Comissão apresentará um relatório ao Parlamento Europeu e ao Conselho sobre a aplicação da presente directiva nas eleições de Junho de 1994 para o Parlamento Europeu. Com base nesse relatório, o Conselho, deliberando por unanimidade, sob proposta da Comissão e após consulta do Parlamento Europeu, pode adoptar disposições que alterem a presente directiva,
+
+###### Artigo 17.º
+
+Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar em 1 de Fevereiro de 1994. Do facto informarão imediatamente a Comissão.
+
+Quando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.
+
+###### Artigo 18.º
+
+A presente directiva entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*.
+
+###### Artigo 19.º
+
+Os Estados-membros são os destinatários da presente directiva.
+
+---
+
+## Notas
+
+> ([^1^](http://publications.europa.eu/resource/cellar/5b55baab-4077-4338-8c0f-e16ed59495fe.0018.03/DOC_1#src.E0001)) JO n.º C 329 de 6. 12. 1993.
+
+> ([^2^](http://publications.europa.eu/resource/cellar/5b55baab-4077-4338-8c0f-e16ed59495fe.0018.03/DOC_1#src.E0002)) JO n.º L 278 de 8. 10. 1976, p. 5.

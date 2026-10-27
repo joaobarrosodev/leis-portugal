@@ -1,0 +1,676 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32021R0664:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02021R0664-20260222",
+ "dre_path": null,
+ "source_lastmod": "2026-02-22",
+ "versions": [
+  {
+   "date": "2021-04-23",
+   "future": false,
+   "celex": "02021R0664-20210423",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a7c0e6e894f00f7c",
+    "226c39ffd0a88dad",
+    "dd1e9f0e7b3bb10b",
+    "1e3bdf171dcb5441",
+    "d4a6b31b80d54412",
+    "f0f8c960bfdbce9b",
+    "7cc99fbf19f9b024",
+    "19749e81bf38849e",
+    "757595207b52abc1",
+    "fb15a2ad391f12f9",
+    "1e7a0903d2eed348",
+    "6fe51e2e65125aa7",
+    "a19917cfb1c89624",
+    "68af2a7c25804768",
+    "1ecfc79da3f1ac7f",
+    "885ac10a49d3fe7a",
+    "18fa59c8245eba25",
+    "d518f072c4ccec78",
+    "9b6be110ddc0818f",
+    "abbdb9193b4279c7",
+    "cb8cb6f9d75fa218",
+    "c6b3d56d869da947",
+    "40ed6b62e188ac6f",
+    "c58bd3237e1edf46",
+    "0dce016110c91f5f",
+    "c1450d23a128b7eb",
+    "261cba24ccdfae5d",
+    "b76d202a844f758e",
+    "966d3b11fd5a17ca",
+    "dfaa94858161de2f",
+    "30a0059d9e4539f2",
+    "84321c536c0bdd27",
+    "d664376e2a8dcecd",
+    "17d5c3ac822ceffd",
+    "543f40344364f122",
+    "db945108b808b69f",
+    "eca1572bf46fdbba",
+    "8ae06a5cafd5a1cd",
+    "37aac41c84ef5bbf",
+    "852174729551523b",
+    "95b155e05ad5d798",
+    "720af75c92791b10",
+    "0b8ee52425a59d28",
+    "01d67034fe3e7873",
+    "4af708fca6326e28",
+    "e03a0eb4d5b2eef3",
+    "233362a65f31e07f",
+    "64610ae29a6cb67c",
+    "61542807b98f5a3c",
+    "90c7d2baf4d44ee2",
+    "2248c3d67c7ade45",
+    "20252ec28b1f60b3",
+    "2bba16d045357074",
+    "6ad8264bba27b1a8",
+    "02c65ef162b43227",
+    "d46ca50274582635",
+    "2248c3d67c7ade45",
+    "3f9ae4baedd3c271",
+    "e81dcf12ebfedd5e",
+    "1e822f5438062c6d",
+    "ae333fc2d57e1e38",
+    "1d0167541989d9ff"
+   ]
+  },
+  {
+   "date": "2026-02-22",
+   "future": false,
+   "celex": "02021R0664-20260222",
+   "acts": [
+    {
+     "id": "eu:celex:32023R0203:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2023/203 DA COMISSÃO de 27 de outubro de 2022",
+     "published": null,
+     "celex": "32023R0203"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º — Condições de obtenção de um certificado",
+    "Altera Artigo 18.º — Funções das autoridades competentes",
+    "Altera Classes de espaço aéreo ATS e serviços no espaço «U» prestados"
+   ],
+   "fragments": [
+    "a7c0e6e894f00f7c",
+    "226c39ffd0a88dad",
+    "dd1e9f0e7b3bb10b",
+    "1e3bdf171dcb5441",
+    "d4a6b31b80d54412",
+    "f0f8c960bfdbce9b",
+    "7cc99fbf19f9b024",
+    "19749e81bf38849e",
+    "757595207b52abc1",
+    "fb15a2ad391f12f9",
+    "1e7a0903d2eed348",
+    "6fe51e2e65125aa7",
+    "a19917cfb1c89624",
+    "68af2a7c25804768",
+    "1ecfc79da3f1ac7f",
+    "885ac10a49d3fe7a",
+    "18fa59c8245eba25",
+    "d518f072c4ccec78",
+    "9b6be110ddc0818f",
+    "abbdb9193b4279c7",
+    "cb8cb6f9d75fa218",
+    "c6b3d56d869da947",
+    "40ed6b62e188ac6f",
+    "c58bd3237e1edf46",
+    "0dce016110c91f5f",
+    "ce98590be9bdf2b9",
+    "261cba24ccdfae5d",
+    "b76d202a844f758e",
+    "966d3b11fd5a17ca",
+    "dfaa94858161de2f",
+    "ba9489bff4d3239e",
+    "84321c536c0bdd27",
+    "d664376e2a8dcecd",
+    "17d5c3ac822ceffd",
+    "543f40344364f122",
+    "db945108b808b69f",
+    "eca1572bf46fdbba",
+    "8ae06a5cafd5a1cd",
+    "37aac41c84ef5bbf",
+    "852174729551523b",
+    "95b155e05ad5d798",
+    "720af75c92791b10",
+    "0b8ee52425a59d28",
+    "01d67034fe3e7873",
+    "4af708fca6326e28",
+    "e03a0eb4d5b2eef3",
+    "233362a65f31e07f",
+    "64610ae29a6cb67c",
+    "61542807b98f5a3c",
+    "90c7d2baf4d44ee2",
+    "2248c3d67c7ade45",
+    "20252ec28b1f60b3",
+    "2bba16d045357074",
+    "6ad8264bba27b1a8",
+    "02c65ef162b43227",
+    "d46ca50274582635",
+    "2248c3d67c7ade45",
+    "3f9ae4baedd3c271",
+    "e81dcf12ebfedd5e",
+    "1e822f5438062c6d",
+    "ae333fc2d57e1e38",
+    "fe7a6a628acb6092"
+   ]
+  }
+ ],
+ "fragments": {
+  "a7c0e6e894f00f7c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de abril de 2021\n\nrelativo a um quadro normativo do espaço «U»\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "dd1e9f0e7b3bb10b": {
+   "fragment_id": "PRINCÍPIOS E REQUISITOS GERAIS",
+   "type": "divisao",
+   "heading": "PRINCÍPIOS E REQUISITOS GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PRINCÍPIOS E REQUISITOS GERAIS"
+  },
+  "1e3bdf171dcb5441": {
+   "fragment_id": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1. O presente regulamento estabelece regras e procedimentos para a operação segura de UAS no espaço aéreo «U», para a integração segura dos UAS no sistema de aviação e para a prestação de serviços do espaço «U».\n\n2.\n\nO presente regulamento é aplicável, dentro das [**►C1**](http://publications.europa.eu/resource/celex/32021R0664R%2802%29) zonas geográficas**◄** dos UAS estabelecidas pelos Estados-Membros enquanto espaço aéreo «U»:\n\na) Aos operadores de UAS;\n\nb) Aos prestadores de serviços no espaço «U»;\n\nc) Aos prestadores de serviços de informação comum.\n\n3.\n\nO presente regulamento não se aplica às operações de UAS realizadas:\n\na) No âmbito de clubes e associações de aeromodelismo titulares de uma autorização em conformidade com o artigo 16.º do Regulamento de Execução (UE) 2019/947;\n\nb) Na subcategoria A1 da categoria «aberta» de operações com uma aeronave não tripulada que:\n\ni) no caso de um UAS de [**►C1**](http://publications.europa.eu/resource/celex/32021R0664R%2802%29) construção amadora**◄**, tenha uma massa máxima à descolagem, incluindo carga útil, inferior a 250 g e uma velocidade máxima de operação inferior a 19 m/s, ou\n\nii) esteja marcada como classe C0 e cumpra os requisitos dessa classe, tal como definidos na parte 1 do anexo do Regulamento Delegado (UE) 2019/945; ou\n\nc) Em conformidade com as regras de voo por instrumentos SERA.5015 do Regulamento de Execução (UE) n.º 923/2012."
+  },
+  "d4a6b31b80d54412": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, aplicam-se as definições constantes do Regulamento de Execução (UE) n.º 923/2012, do Regulamento de Execução (UE) 2017/373, do Regulamento Delegado (UE) 2019/945 e do Regulamento de Execução (UE) 2019/947. As seguintes definições são igualmente aplicáveis, entendendo-se por:\n\n1) «Espaço aéreo “U”», uma [**►C1**](http://publications.europa.eu/resource/celex/32021R0664R%2802%29) zona geográfica**◄** de UAS designada pelos Estados-Membros, onde as operações de UAS só são autorizadas com o apoio de serviços do espaço «U»;\n\n2) «Serviço do espaço “U”», um serviço dependente de serviços digitais e da automatização de funções concebido para suportar um acesso seguro, protegido e eficiente ao espaço aéreo «U» para um grande número de UAS;\n\n3) «Avaliação do risco para o espaço aéreo», uma avaliação dos riscos operacionais, de segurança operacional e de segurança contra atos ilícitos, que tenha em conta os níveis de desempenho de segurança requeridos, tal como definidos no Plano Europeu de Segurança Operacional da Aviação e no programa nacional de segurança operacional, referidos nos artigos 6.º e 7.° do Regulamento (UE) 2018/1139, assim como o tipo, a complexidade e a densidade do tráfego, a localização, as altitudes ou alturas e a classificação do espaço aéreo;\n\n4) «Serviço de informação comum», um serviço que consiste na divulgação de dados estáticos e dinâmicos para permitir a prestação de serviços do espaço «U» para gestão do tráfego de aeronaves não tripuladas;\n\n5) «Estabelecimento principal», os serviços centrais ou a sede social de um prestador de serviços de informação comum ou de serviços do espaço «U» no Estado-Membro em que são exercidos as principais funções financeiras e o controlo operacional do prestador de serviços;\n\n6) «Reconfiguração dinâmica do espaço aéreo», a modificação temporária do espaço aéreo «U» de forma a admitir mudanças de curto prazo na procura por parte do tráfego tripulado, através do ajuste dos limites geográficos desse espaço aéreo «U»."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "7cc99fbf19f9b024": {
+   "fragment_id": "ESPAÇO AÉREO «U» E SERVIÇOS DE INFORMAÇÃO COMUM",
+   "type": "divisao",
+   "heading": "ESPAÇO AÉREO «U» E SERVIÇOS DE INFORMAÇÃO COMUM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ESPAÇO AÉREO «U» E SERVIÇOS DE INFORMAÇÃO COMUM"
+  },
+  "19749e81bf38849e": {
+   "fragment_id": "Artigo 3.º — Espaço aéreo «U»",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Espaço aéreo «U»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Espaço aéreo «U»\n\n1. Sempre que os Estados-Membros designem espaço aéreo «U» por razões de segurança operacional, segurança contra atos ilícitos, privacidade ou ambientais, essa designação deve ser apoiada por uma avaliação do risco para o espaço aéreo.\n\n2.\n\nTodas as operações de UAS no espaço aéreo «U» devem ser sujeitas pelo menos aos seguintes serviços do espaço «U» obrigatórios:\n\na) Serviço de identificação da rede previsto no artigo 8.º;\n\nb) Serviço de reconhecimento geoespacial referido no artigo 9.º;\n\nc) Serviço de autorização de voo do UAS referido no artigo 10.º;\n\nd) Serviço de informação de tráfego referido no artigo 11.º.\n\n3. Para cada espaço aéreo «U», com base na avaliação do risco para o espaço aéreo referida no n.º 1, os Estados-Membros podem exigir serviços do espaço «U» adicionais selecionados entre os serviços referidos nos artigos 12.º e 13.°.\n\n4.\n\nPara cada espaço aéreo «U», com base na avaliação dos riscos para o espaço aéreo referida no n.º 1 e utilizando os critérios estabelecidos no anexo I, os Estados-Membros determinam:\n\na) Os requisitos dos UAS em matéria de competências e desempenho;\n\nb) Os requisitos de desempenho em matéria de serviços do espaço «U»;\n\nc) As condições operacionais e os constrangimentos de espaço aéreo aplicáveis.\n\n5.\n\nOs Estados-Membros devem facultar aos prestadores de serviços no espaço «U» acesso aos dados pertinentes, se tal for necessário para a aplicação do presente regulamento, no que diz respeito:\n\na) Ao sistema de registo dos operadores de UAS, referido no artigo 14.º do Regulamento de Execução (UE) 2019/947, do Estado-Membro em que os prestadores de serviços no espaço «U» propõem os seus serviços; e\n\nb) Aos sistemas de registo dos operadores de UAS de outros Estados-Membros através do repositório de informações referido no artigo 74.º do Regulamento (UE) 2018/1139.\n\n6. Os Estados-Membros disponibilizam as informações acerca do espaço aéreo «U» disponíveis em conformidade com o artigo 15.º, n.º 3, do Regulamento (UE) 2019/947, assim como através do seu serviço de informação aeronáutica.\n\n7.\n\nSempre que os Estados-Membros decidam estabelecer um espaço aéreo «U» transfronteiriço, devem decidir conjuntamente:\n\na) A designação do espaço aéreo «U» transfronteiriço;\n\nb) A prestação de serviços do espaço «U» transfronteiriços;\n\nc) A prestação de serviços de informação comum transfronteiriços."
+  },
+  "757595207b52abc1": {
+   "fragment_id": "Artigo 4.º — Reconfiguração dinâmica do espaço aéreo",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Reconfiguração dinâmica do espaço aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Reconfiguração dinâmica do espaço aéreo\n\nSempre que um Estado-Membro designar um espaço aéreo «U» dentro de um espaço aéreo controlado, deve assegurar que é aplicada a reconfiguração dinâmica do espaço aéreo dentro desse espaço aéreo «U» tal como previsto na secção ATS.TR.237 do Regulamento de Execução (UE) 2021/665 que altera o Regulamento (UE) 2017/373, de forma a garantir que as aeronaves tripuladas dotadas de um serviço de controlo de tráfego aéreo e os UAS permanecem segregados."
+  },
+  "fb15a2ad391f12f9": {
+   "fragment_id": "Artigo 5.º — Serviços de informação comum",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Serviços de informação comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Serviços de informação comum\n\n1.\n\nOs Estados-Membros devem disponibilizar os seguintes dados no âmbito dos serviços de informação comum de cada espaço aéreo «U»:\n\na) Limites horizontais e verticais do espaço aéreo «U»;\n\nb) Requisitos determinados nos termos do artigo 3.º, n.º 4;\n\nc) Lista dos prestadores de serviços no espaço «U» certificados que propõem serviços do espaço «U» no espaço aéreo «U», com as seguintes informações:\n\ni) identificação e dados de contacto dos prestadores de serviços no espaço «U» ativos;\n\nii) serviços do espaço «U» prestados;\n\niii) limitações de certificação, se existirem;\n\nd) Eventuais espaços aéreos U adjacentes;\n\ne) [**►C1**](http://publications.europa.eu/resource/celex/32021R0664R%2802%29) Zonas geográficas**◄** de UAS relevantes para o espaço aéreo «U» e publicadas pelos Estados-Membros em conformidade com o Regulamento de Execução (UE) 2019/947;\n\nf) Restrições ao espaço aéreo estáticas e dinâmicas definidas pelas autoridades competentes e que limitam permanente ou temporariamente o volume de espaço aéreo dentro do espaço aéreo «U» no qual as operações de UAS podem ter lugar.\n\n2. Os Estados-Membros devem assegurar que os dados operacionais relevantes referidos na secção ATS.OR.127 do Regulamento de Execução (UE) (UE) 2021/665 que altera o Regulamento (UE) 2017/373, assim como os dados resultantes da reconfiguração dinâmica do espaço aéreo referida na sua secção ATS.TR.237, são disponibilizados como parte dos serviços de informação comum de cada espaço aéreo «U».\n\n3. Os prestadores de serviços no espaço «U» devem disponibilizar os termos e condições dos seus serviços como parte dos serviços de informação comum de cada espaço aéreo «U» em que oferecem os seus serviços.\n\n4.\n\nOs prestadores de serviços de informação comum devem assegurar que as informações referidas nos n.^os^ 1, 2 e 3:\n\na) São disponibilizadas em conformidade com o anexo II;\n\nb) Respeitam os requisitos necessários em matéria de qualidade, latência e proteção dos dados estabelecidos no anexo III.\n\n5. O acesso a serviços de informação comum deve ser concedido às autoridades competentes, aos prestadores de serviços de tráfego aéreo, aos prestadores de serviços no espaço «U» e aos operadores de UAS numa base não discriminatória, incluindo os mesmos níveis de qualidade, latência e proteção de dados.\n\n6. Os Estados-Membros poderão designar um único prestador de serviços de informação comum que preste esses serviços em regime de exclusividade relativamente a todos ou a alguns dos espaços aéreos U sob a sua responsabilidade. Neste caso, as informações referidas nos n.^os^ 1 a 3 devem ser disponibilizadas ao único prestador de serviços de informação comum, que as deve então fornecer em conformidade com o n.º 5.\n\n7. Esse prestador único de serviços de informação comum deve cumprir os requisitos referidos nos n.^os^ 4 e 5 e ser certificado em conformidade com o capítulo V do presente regulamento.\n\n8. Um Estado-Membro que designe um único prestador de serviços de informação comum deve informar sem demora a Agência e os outros Estados-Membros de qualquer decisão relativa à certificação do prestador único de serviços de informação comum. A Agência deve incluir no repositório referido no artigo 74.º do Regulamento (UE) 2018/1139 informações sobre todas as decisões notificadas pelos Estados-Membros em observância do presente número."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "6fe51e2e65125aa7": {
+   "fragment_id": "REQUISITOS GERAIS PARA OS OPERADORES DE UAS E OS PRESTADORES DE SERVIÇOS NO ESPAÇO «U»",
+   "type": "divisao",
+   "heading": "REQUISITOS GERAIS PARA OS OPERADORES DE UAS E OS PRESTADORES DE SERVIÇOS NO ESPAÇO «U»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS GERAIS PARA OS OPERADORES DE UAS E OS PRESTADORES DE SERVIÇOS NO ESPAÇO «U»"
+  },
+  "a19917cfb1c89624": {
+   "fragment_id": "Artigo 6.º — Operadores de UAS",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Operadores de UAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Operadores de UAS\n\n1.\n\nAo operar no espaço aéreo «U», os operadores de UAS devem:\n\na) Assegurar que o UAS a operar no espaço aéreo «U» cumpre os requisitos de competências e desempenho determinados em conformidade com o artigo 3.º, n.º 4, alínea a);\n\nb) Assegurar que, durante as suas operações, são utilizados os serviços do espaço «U» necessários referidos no artigo 3.º, n.^os^ 2 e 3, bem como cumpridos os seus requisitos;\n\nc) Cumprir as condições operacionais aplicáveis e os constrangimentos do espaço aéreo referidos no artigo 3.º, n.º 4, alínea c).\n\n2. Os operadores de UAS podem prestar serviços do espaço «U» a si próprios. Nesse caso, devem ser considerados prestadores de serviços no espaço «U» para efeitos do presente regulamento.\n\n3. Antes de operarem no espaço aéreo «U», os operadores de UAS devem cumprir os requisitos do Regulamento de Execução (UE) 2019/947, incluindo, sempre que for relevante, ser titulares de uma [**►C1**](http://publications.europa.eu/resource/celex/32021R0664R%2802%29) autorização operacional**◄** ou um certificado emitido pela autoridade competente do Estado-Membro de registo e cumprir as limitações operacionais estabelecidas por um Estado-Membro em qualquer [**►C1**](http://publications.europa.eu/resource/celex/32021R0664R%2802%29) zona geográfica**◄** do UAS.\n\n4. Antes de cada voo individual, o operador de UAS deve apresentar um pedido de autorização de voo de UAS ao seu prestador de serviços no espaço «U», através do serviço de autorização de voo do UAS referido no artigo 10.º; em conformidade com o anexo IV.\n\n5. Ao encontrar-se pronto para iniciar o voo, o operador de UAS solicita ao prestador de serviços no espaço «U» a ativação da autorização de voo do UAS. Ao receber a confirmação da ativação da autorização de voo do UAS da parte do prestador de serviços no espaço «U», o operador de UAS fica habilitado a iniciar o seu voo.\n\n6. Os operadores de UAS devem cumprir a autorização de voo do UAS, incluindo os limiares de desvio da autorização referidos no artigo 10.º, n.º 2, alínea d), assim como quaisquer alterações dos mesmos. O prestador de serviços no espaço «U» pode introduzir alterações na autorização durante qualquer fase do voo e, nesse caso, deve informar os operadores de UAS sobre as mesmas.\n\n7. Sempre que os operadores de UAS não puderem cumprir os limiares de desvio da autorização de voo do UAS referidos no artigo 10.º, n.º 2, alínea d), devem solicitar uma nova autorização de voo do UAS.\n\n8. Os operadores de UAS devem prever medidas e procedimentos de contingência. Devem disponibilizar as suas medidas e procedimentos de contingência aos prestadores de serviços no espaço «U»."
+  },
+  "68af2a7c25804768": {
+   "fragment_id": "Artigo 7.º — Prestadores de serviços no espaço «U»",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Prestadores de serviços no espaço «U»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Prestadores de serviços no espaço «U»\n\n1. Os serviços do espaço «U» devem ser prestados por pessoas coletivas certificadas enquanto prestadores de serviços no espaço «U» em conformidade com o capítulo V.\n\n2. Os prestadores de serviços no espaço «U» são responsáveis por prestar aos operadores de UAS os serviços do espaço «U» referidos no artigo 3.º, n.^os^ 2 e 3, durante todas as fases das operações nesse espaço aéreo.\n\n3. Os prestadores de serviços no espaço «U» acertam disposições com os prestadores de serviços de tráfego aéreo com vista a assegurar uma coordenação adequada das atividades, assim como o intercâmbio de dados e de informações operacionais relevantes em conformidade com o anexo V.\n\n4. Os prestadores de serviços no espaço «U» processam os dados de tráfego aéreo sem discriminação, restrição ou interferência, independentemente do seu emissor ou recetor, conteúdo, aplicação ou serviço ou equipamento terminal.\n\n5.\n\nOs prestadores de serviços no espaço «U»:\n\na) Trocam todas as informações pertinentes para a prestação segura de serviços do espaço «U» entre si;\n\nb) Aderem a um protocolo de comunicação aberta interoperável comum e seguro e utilizam as informações mais recentes disponibilizadas em conformidade com o anexo II;\n\nc) Asseguram que as informações são trocadas em conformidade com os requisitos de qualidade, latência e proteção dos dados estabelecidos no anexo III;\n\nd) Asseguram o acesso e a necessária proteção das informações trocadas.\n\n6.\n\nOs prestadores de serviços no espaço «U» comunicam o seguinte à autoridade competente:\n\na) Início das operações após receção do certificado referido no artigo 14.º;\n\nb) Cessação e subsequente reinício das operações, se aplicável."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "885ac10a49d3fe7a": {
+   "fragment_id": "SERVIÇOS DO ESPAÇO «U»",
+   "type": "divisao",
+   "heading": "SERVIÇOS DO ESPAÇO «U»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SERVIÇOS DO ESPAÇO «U»"
+  },
+  "18fa59c8245eba25": {
+   "fragment_id": "Artigo 8.º — Serviço de identificação da rede",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Serviço de identificação da rede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Serviço de identificação da rede\n\n1. O serviço de identificação da rede deve permitir o tratamento contínuo da identificação remota do UAS durante toda a duração do voo e fornecer a identificação remota do UAS aos utilizadores autorizados a que se refere o n.º 4 de forma agregada.\n\n2.\n\nO serviço de identificação da rede deve permitir que os utilizadores autorizados recebam mensagens com o seguinte conteúdo:\n\na) O número de registo do operador de UAS;\n\nb) O número de série único da aeronave não tripulada ou, caso se trate de uma aeronave não tripulada de [**►C1**](http://publications.europa.eu/resource/celex/32021R0664R%2802%29) construção amadora**◄**, o número de série único do [**►C1**](http://publications.europa.eu/resource/celex/32021R0664R%2802%29) dispositivo anexo**◄**;\n\nc) A posição geográfica do UAS, sua altitude acima do nível médio do mar e sua altura acima da superfície ou do ponto de descolagem;\n\nd) Rumo da rota medido no sentido dos ponteiros do relógio a partir do norte geográfico e velocidade em relação ao solo do UAS;\n\ne) Posição geográfica do [**►C1**](http://publications.europa.eu/resource/celex/32021R0664R%2802%29) piloto remoto**◄** ou, se não estiver disponível, o ponto de descolagem;\n\nf) Estatuto de emergência do UAS;\n\ng) Hora a que as mensagens foram geradas.\n\n3. As informações fornecidas pelos serviços de identificação da rede devem ser atualizadas com a frequência determinada pela autoridade competente.\n\n4.\n\nOs utilizadores autorizados são:\n\na) O público em geral no que diz respeito às informações consideradas públicas em conformidade com as regras nacionais e da União aplicáveis;\n\nb) Outros prestadores de serviços no espaço «U» a fim de garantir a segurança das operações no espaço aéreo «U»;\n\nc) Os prestadores de serviços de tráfego aéreo em causa;\n\nd) Se designado, o prestador único de serviços de informação comum;\n\ne) As autoridades competentes relevantes."
+  },
+  "d518f072c4ccec78": {
+   "fragment_id": "Artigo 9.º — Serviço de reconhecimento geoespacial",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Serviço de reconhecimento geoespacial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Serviço de reconhecimento geoespacial\n\n1.\n\nUm serviço de reconhecimento geoespacial consistindo nas seguintes informações de reconhecimento geoespacial deve ser prestado aos operadores de UAS:\n\na) Informações sobre as condições operacionais e os constrangimentos de espaço aéreo aplicáveis dentro do espaço aéreo «U»;\n\nb) [**►C1**](http://publications.europa.eu/resource/celex/32021R0664R%2802%29) Zonas geográficas**◄** de UAS, relevantes para o espaço aéreo «U»;\n\nc) Restrições temporárias aplicáveis à utilização do espaço aéreo dentro do espaço aéreo «U».\n\n2. Os prestadores de serviços no espaço «U» devem enviar as informações de reconhecimento geoespacial de forma atempada para permitir que os operadores de UAS deem resposta às contingências e às emergências, e devem incluir a sua hora de atualização juntamente com um número de versão ou uma hora válida, ou ambos."
+  },
+  "9b6be110ddc0818f": {
+   "fragment_id": "Artigo 10.º — Serviço de autorização de voo de UAS",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Serviço de autorização de voo de UAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Serviço de autorização de voo de UAS\n\n1. Os prestadores de serviços no espaço «U» devem fornecer aos operadores de UAS a autorização de voo de UAS para cada voo individual, que estabelece os termos e condições desse voo, através de um serviço de autorização de voo do UAS.\n\n2.\n\nSempre que os prestadores de serviços no espaço «U» recebem do operador de UAS um pedido de autorização de voo de UAS, devem:\n\na) Verificar se o pedido de autorização de voo do UAS está completo e correto e se é apresentado em conformidade com o anexo IV;\n\nb) Aceitar o pedido de autorização de voo de UAS se o voo em causa estiver livre de intersecção no espaço e no tempo com quaisquer outras autorizações de voo de UAS notificadas dentro do mesmo espaço aéreo «U» em conformidade com as regras de prioridade estabelecidas no n.º 8;\n\nc) Notificar o operador de UAS da aceitação ou rejeição do pedido de autorização de voo de UAS;\n\nd) Ao notificar o operador de UAS sobre a aceitação do pedido de autorização de voo de UAS, indicar os limiares permitidos de desvio da autorização de UAS.\n\n3. Aquando da emissão de uma autorização de voo de UAS, os prestadores de serviços no espaço «U» devem utilizar, sempre que for aplicável, as informações meteorológicas fornecidas pelo serviço de informação meteorológica a que se refere o artigo 12.º.\n\n4. Sempre que os prestadores de serviços no espaço «U» não puderem conceder uma autorização de voo de UAS em conformidade com o pedido do operador de UAS, os prestadores de serviços no espaço «U» podem propor uma autorização de voo de UAS alternativa ao operador de UAS.\n\n5. Ao receberem o pedido de ativação da autorização de voo do UAS a que se refere o artigo 6.º, n.º 5, os prestadores de serviços no espaço «U» devem confirmar a ativação da autorização de voo do UAS sem atrasos indevidos.\n\n6. Os prestadores de serviços no espaço «U» devem estabelecer disposições adequadas para resolver pedidos de autorização de voo de UAS conflituais recebidos de operadores de UAS por diferentes prestadores de serviços no espaço «U».\n\n7. Os prestadores de serviços no espaço «U» devem confrontar as autorizações de voo UAS com as restrições ao espaço aéreo «U» e com as limitações temporárias do espaço aéreo.\n\n8. Ao tratar os pedidos de autorização de voo de UAS, os prestadores de serviços no espaço «U» devem dar prioridade aos UAS que realizam operações especiais, tal como referido no artigo 4.º do Regulamento de Execução (UE) n.º 923/2012.\n\n9. Sempre que dois pedidos de autorização de voo de UAS tiverem a mesma prioridade, devem ser tratados por ordem de chegada.\n\n10. Os prestadores de serviços no espaço «U» devem confrontar continuamente as autorizações de voo concedidas com novas restrições e limitações dinâmicas ao espaço aéreo, e com informações sobre o tráfego de aeronaves tripuladas partilhadas pelos órgãos competentes dos serviços de tráfego aéreo, nomeadamente relativas às aeronaves tripuladas que se saiba ou creia estarem em situação de emergência, incluindo as que estiverem sujeitas a interferência ilícita, e atualizar ou retirar as autorizações em função das circunstâncias.\n\n11. Os prestadores de serviços no espaço «U» devem emitir um número de autorização único para cada autorização de voo de UAS. Este número deve permitir a identificação do voo autorizado, do operador de UAS e do prestador de serviço do espaço «U» que emite a autorização de voo do UAS."
+  },
+  "abbdb9193b4279c7": {
+   "fragment_id": "Artigo 11.º — Serviço de informação de tráfego",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Serviço de informação de tráfego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Serviço de informação de tráfego\n\n1. O serviço de informação de tráfego prestado ao operador de UAS deve conter informações sobre qualquer outro tráfego aéreo visível que possa encontrar-se nas proximidades da posição ou da rota pretendida do voo do UAS em causa.\n\n2. O serviço de informação de tráfego deve incluir informações sobre o tráfego de aeronaves tripuladas e de UAS partilhado por outros prestadores de serviços no espaço «U», bem como pelos órgãos dos serviços de tráfego aéreo competentes.\n\n3.\n\nO serviço de informação de tráfego deve fornecer informações sobre outro tráfego aéreo conhecido e deve:\n\na) Incluir a posição, a hora de comunicação, assim como a velocidade, o rumo ou a direção e o estado de emergência da aeronave, se conhecido;\n\nb) Ser atualizado com a frequência determinada pela autoridade competente.\n\n4. Ao receberem os serviços de informação de tráfego veiculados pelo prestador de serviços no espaço «U», os operadores de UAS devem tomar as medidas necessárias para evitar qualquer risco de colisão."
+  },
+  "cb8cb6f9d75fa218": {
+   "fragment_id": "Artigo 12.º — Serviço de informação meteorológica",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Serviço de informação meteorológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Serviço de informação meteorológica\n\n1.\n\nAo prestar um serviço de informação meteorológica, os prestadores de serviços no espaço «U» devem:\n\na) Coligir dados meteorológicos, prestados por fontes fidedignas, para manter a segurança e apoiar as decisões operacionais de outros serviços do espaço «U»;\n\nb) Providenciar ao operador de UAS as previsões meteorológicas e informações meteorológicas reais antes ou durante o voo.\n\n2.\n\nO serviço de informação meteorológica deve incluir, no mínimo:\n\na) A direção do vento medida no sentido dos ponteiros do relógio a partir do norte geográfico e a velocidade em metros por segundo, incluindo rajadas;\n\nb) A altura da camada de nuvens mais baixa em centenas de pés acima do nível do solo;\n\nc) A visibilidade em metros e quilómetros;\n\nd) A temperatura e o ponto de orvalho;\n\ne) Os indicadores de atividade convectiva e de precipitação;\n\nf) O local e a hora da observação, ou as horas e locais válidos da previsão;\n\ng) QNH adequado com localização geográfica da sua aplicabilidade.\n\n3. Os prestadores de serviços no espaço «U» devem prestar informações meteorológicas atualizadas e fiáveis para apoiar a operação dos UAS."
+  },
+  "c6b3d56d869da947": {
+   "fragment_id": "Artigo 13.º — Serviço de monitorização da conformidade",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Serviço de monitorização da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Serviço de monitorização da conformidade\n\n1. O serviço de monitorização da conformidade deve permitir que os operadores de UAS verifiquem se cumprem os requisitos estabelecidos no artigo 6.º, n.º 1, e os termos da autorização de voo do UAS. Para o efeito, este serviço deve alertar o operador de UAS sempre que os limiares permitidos de desvio da autorização são violados e quando os requisitos do artigo 6.º, n.º 1, não são respeitados.\n\n2. Sempre que o serviço de monitorização da conformidade detetar um desvio à autorização de voo, o prestador de serviço do espaço «U» deve alertar os outros operadores de UAS que operam na vizinhança do UAS em causa, os demais prestadores de serviços no espaço «U» a oferecer serviços no mesmo espaço aéreo e os órgãos dos serviços de tráfego aéreo competentes, que devem confirmar a receção do alerta."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "c58bd3237e1edf46": {
+   "fragment_id": "CERTIFICAÇÃO DOS PRESTADORES DE SERVIÇOS NO ESPAÇO «U» E DOS PRESTADORES ÚNICOS DE SERVIÇOS DE INFORMAÇÃO COMUM",
+   "type": "divisao",
+   "heading": "CERTIFICAÇÃO DOS PRESTADORES DE SERVIÇOS NO ESPAÇO «U» E DOS PRESTADORES ÚNICOS DE SERVIÇOS DE INFORMAÇÃO COMUM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CERTIFICAÇÃO DOS PRESTADORES DE SERVIÇOS NO ESPAÇO «U» E DOS PRESTADORES ÚNICOS DE SERVIÇOS DE INFORMAÇÃO COMUM"
+  },
+  "0dce016110c91f5f": {
+   "fragment_id": "Artigo 14.º — Pedido de certificado",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Pedido de certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Pedido de certificado\n\n1. Os prestadores de serviços no espaço «U» e, quando designados, os prestadores únicos de serviços de informação comum devem ser titulares de um certificado emitido pela autoridade competente do Estado-Membro do seu estabelecimento principal.\n\n2. Os prestadores de serviços no espaço «U» e, quando designados, os prestadores únicos de serviços de informação comum cujo estabelecimento principal ou residência se situam num país terceiro devem solicitar um certificado à Agência da União Europeia para a Segurança da Aviação («Agência»).\n\n3. O certificado de prestador de serviços no espaço «U» é emitido em conformidade com o anexo VI.\n\n4. O certificado de prestador de serviços de informação comum é emitido em conformidade com o anexo VII.\n\n5. O certificado determina os direitos e privilégios do seu titular de prestar os serviços a que se refere.\n\n6. O pedido de certificado de prestador de serviços no espaço «U» e de certificado de prestador de serviços de informação comum, ou o pedido de alteração de um certificado existente, devem ser apresentados de acordo com a forma e o modo estabelecidos pela autoridade competente ou pela Agência, conforme o aplicável."
+  },
+  "c1450d23a128b7eb": {
+   "fragment_id": "Artigo 15.º — Condições de obtenção de um certificado",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Condições de obtenção de um certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Condições de obtenção de um certificado\n\n1.\n\nOs prestadores de serviços no espaço «U» e, quando designados, os prestadores únicos de serviços de informação comum devem receber certificados se demonstrarem que:\n\na) São capazes de prestar os seus serviços de forma segura, protegida, eficiente, contínua e sustentável, coerente com as operações de UAS previstas e em conformidade com o nível de desempenho estabelecido pelos Estados-Membros para o espaço aéreo «U» em conformidade com o artigo 3.º, n.º 4;\n\nb) Utilizam sistemas e equipamentos que garantem a qualidade, latência e proteção do espaço U ou dos serviços de informação comum em conformidade com o presente regulamento;\n\nc) Dispõem do capital líquido adequado e proporcional aos custos e riscos associados à prestação de serviços de informação comum e do espaço «U»;\n\nd) São capazes de comunicar ocorrências em conformidade com a secção ATM/ANS.OR.A.065 da subparte A do anexo III do Regulamento de Execução (UE) 2017/373;\n\ne) Aplicam e mantêm um sistema de gestão em conformidade com a subparte B do anexo III do Regulamento de Execução (UE) 2017/373;\n\nf) Aplicam e mantêm um sistema de gestão da segurança contra atos ilícitos em conformidade com a secção ATM/ANS.OR.D.010 da subparte D do anexo III do Regulamento de Execução (UE) 2017/373;\n\ng) Conservam, por um período de, pelo menos, 30 dias, informações e dados operacionais registados, pertinentes para a investigação de acidentes e incidentes, até que seja evidente que deixarão de ser necessários;\n\nh) Têm um sólido plano de negócios que indique que podem honrar as suas obrigações efetivas de prestação de serviços de forma contínua durante um período de pelo menos 12 meses a contar do início das operações;\n\ni) Dispõem de mecanismos para cobrir as responsabilidades relacionadas com a execução das suas tarefas adequadas às perdas e danos potenciais;\n\nj) Sempre que empregam os serviços de outro prestador de serviços, encontram-se consagrados os respetivos acordos que especificam a repartição da responsabilidade entre eles;\n\nk) Desenvolveram um plano de emergência na eventualidade de ocorrências, incluindo violações da segurança, que afetem a prestação dos serviços, e que resultem numa degradação significativa ou na interrupção das suas operações;\n\n2. Além dos requisitos estabelecidos no n.º 1, os prestadores de serviços no espaço «U» devem dispor de um plano de gestão de emergências a fim de assistir o operador de UAS a braços com uma emergência e um plano de comunicação para informar os interessados."
+  },
+  "261cba24ccdfae5d": {
+   "fragment_id": "Artigo 16.º — Validade do certificado",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Validade do certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Validade do certificado\n\n1. O certificado de prestador de serviços no espaço «U» ou de prestador único de serviços de informação comum é válido enquanto o titular do certificado cumprir os requisitos aplicáveis estabelecidos no presente regulamento.\n\n2.\n\nO certificado de prestador de serviços no espaço «U» ou de prestador único de serviços de informação comum perde a validade se o titular do certificado:\n\na) Não iniciou as suas atividades nos seis meses seguintes à data de emissão do certificado;\n\nb) Cessou as suas atividades durante mais de 12 meses consecutivos.\n\n3. A autoridade competente ou a Agência, consoante o caso, avalia o desempenho operacional e financeiro do prestador de serviços no espaço «U» ou do prestador único de serviços de informação comum à sua responsabilidade.\n\n4. A autoridade competente ou a Agência, consoante o caso, podem, com base no resultado da avaliação referida no n.º 3, impor condições especiais ao titular do certificado, alterar, suspender, restringir ou revogar o certificado."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "966d3b11fd5a17ca": {
+   "fragment_id": "DISPOSIÇÕES GERAIS E FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS E FINAIS"
+  },
+  "dfaa94858161de2f": {
+   "fragment_id": "Artigo 17.º — Capacidades das autoridades competentes",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Capacidades das autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Capacidades das autoridades competentes\n\n1.\n\nAs autoridades competentes devem ter a capacidade técnica e operacional, assim como os conhecimentos técnicos, para cumprir as obrigações que lhes incumbem ao abrigo do artigo 18.º Para o efeito, devem:\n\na) Possuir procedimentos devidamente documentados e recursos adequados;\n\nb) Empregar pessoal com os devidos conhecimentos, com integridade profissional, assim como com experiência e formação para executar as funções que lhes são cometidas;\n\nc) Empreender qualquer ação necessária para contribuir para a segurança, a eficiência e a proteção das operações de UAS no espaço aéreo «U» sob a sua responsabilidade.\n\n2. As autoridades competentes devem ter capacidade para tomar ou dar início às devidas medidas de execução necessárias para assegurar que os prestadores de serviços no espaço «U» e os prestadores únicos de serviços de informação comum sob a sua supervisão cumprem os requisitos do presente regulamento."
+  },
+  "30a0059d9e4539f2": {
+   "fragment_id": "Artigo 18.º — Funções das autoridades competentes",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Funções das autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Funções das autoridades competentes\n\nAs autoridades competentes designadas devem:\n\na) Estabelecer, manter e disponibilizar um sistema de registo dos prestadores de serviços no espaço «U» e dos prestadores únicos de serviços de informação comum certificados;\n\nb) Determinar quais os dados de tráfego, seja por gravação em tempo real, ou em diferido, podem ser disponibilizados pelos prestadores de serviços no espaço «U», pelos prestadores únicos de serviços de informação comum e pelos prestadores de serviços de tráfego aéreo às pessoas singulares e coletivas autorizadas, incluindo a frequência exigida e o nível de qualidade dos dados, sem prejuízo da regulamentação em matéria de proteção dos dados pessoais;\n\nc) Determinar o nível de acesso à informação por parte dos diferentes utilizadores da informação comum e assegurar a sua disponibilização em conformidade com o anexo II;\n\nd) Assegurar que os intercâmbios de dados entre os prestadores de serviços de tráfego aéreo e os prestadores de serviços no espaço «U» têm lugar em conformidade com o anexo V;\n\ne) Definir a forma de pedido de certificado de prestador de serviços no espaço «U» ou de prestador único de serviços de informação comum por parte das pessoas singulares e coletivas em conformidade com o capítulo V;\n\nf) Estabelecer um mecanismo a fim de coordenar com outras autoridades e entidades, incluindo a nível local, a designação do espaço aéreo «U», o estabelecimento de restrições ao espaço aéreo de UAS dentro do espaço aéreo «U» e a determinação dos serviços do espaço «U» a prestar no espaço aéreo «U»;\n\ng) Estabelecer um programa de certificação e de supervisão contínua baseada no risco, incluindo o acompanhamento do desempenho operacional e financeiro, em função do risco associado aos serviços prestados pelos prestadores de serviços no espaço «U» e pelos prestadores únicos de serviços de informação comum no âmbito da sua responsabilidade de supervisão;\n\nh) Requerer que os prestadores de informação comum e os prestadores de serviços no espaço «U» disponibilizem todas as informações necessárias a fim de assegurar que a prestação de serviços no espaço U contribua para a segurança das operações das aeronaves;\n\ni) Efetuar auditorias, avaliações, investigações e inspeções aos prestadores de serviços no espaço «U» e aos prestadores únicos de serviços de informação comum segundo o estabelecido no programa de supervisão;\n\nj) Ter em conta os devidos níveis de desempenho de segurança na definição dos requisitos para cada espaço aéreo «U» que tenha sido objeto de uma avaliação do risco para o espaço aéreo na aceção do artigo 3.º, n.º 1;\n\nk) Monitorizar e avaliar regularmente os níveis de desempenho em matéria de segurança e utilizar os resultados, nomeadamente na sua supervisão baseada no risco."
+  },
+  "84321c536c0bdd27": {
+   "fragment_id": "Artigo 19.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 26 de janeiro de 2023.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "17d5c3ac822ceffd": {
+   "fragment_id": "Critérios para definição das competências, requisitos de desempenho, condições operacionais e constrangimentos do espaço aéreo referidos no artigo 3.º, n.º 4",
+   "type": "divisao",
+   "heading": "Critérios para definição das competências, requisitos de desempenho, condições operacionais e constrangimentos do espaço aéreo referidos no artigo 3.º, n.º 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Critérios para definição das competências, requisitos de desempenho, condições operacionais e constrangimentos do espaço aéreo referidos no artigo 3.º, n.º 4"
+  },
+  "543f40344364f122": {
+   "fragment_id": "A. Critérios para a definição de competências de UAS e requisitos de desempenho",
+   "type": "divisao",
+   "heading": "A. Critérios para a definição de competências de UAS e requisitos de desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Critérios para a definição de competências de UAS e requisitos de desempenho\n\nA fim de determinar as competências de UAS e os requisitos de desempenho em conformidade com o artigo 3.º, n.º 4, alínea a), os Estados-Membros devem ter em conta os seguintes critérios:\n\n1. Tipos esperados de operações de UAS e de densidade de tráfego tripulado;\n\n2. Classificação e estruturas do espaço aéreo existentes;\n\n3. Serviços do espaço «U» a ser prestados;\n\n4. Quaisquer outros constrangimentos adicionais."
+  },
+  "db945108b808b69f": {
+   "fragment_id": "B. Critérios para a definição de requisitos de desempenho dos serviços do espaço «U»",
+   "type": "divisao",
+   "heading": "B. Critérios para a definição de requisitos de desempenho dos serviços do espaço «U»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Critérios para a definição de requisitos de desempenho dos serviços do espaço «U»\n\nA fim de determinar os requisitos de desempenho dos serviços do espaço «U» em conformidade com o artigo 3.º, n.º 4, alínea b), os Estados-Membros devem ter em conta os seguintes critérios:\n\n1. Risco no ar e no solo;\n\n2. Área geográfica sobrevoada;\n\n3. Condições meteorológicas adversas conhecidas;\n\n4. Disponibilidade de infraestruturas de apoio ao serviço do espaço «U»"
+  },
+  "eca1572bf46fdbba": {
+   "fragment_id": "C. Critérios para a definição das condições operacionais e dos constrangimentos de espaço aéreo",
+   "type": "divisao",
+   "heading": "C. Critérios para a definição das condições operacionais e dos constrangimentos de espaço aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### C. Critérios para a definição das condições operacionais e dos constrangimentos de espaço aéreo\n\nA fim de determinar as condições operacionais e os constrangimentos de espaço aéreo em conformidade com o artigo 3.º, n.º 4, alínea c), os Estados-Membros devem ter em conta os seguintes critérios:"
+  },
+  "8ae06a5cafd5a1cd": {
+   "fragment_id": "1. Condições operacionais",
+   "type": "divisao",
+   "heading": "1. Condições operacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1. Condições operacionais\n\na) Tipos de voo previstos;\n\nb) Procedimentos de contingência e de emergência aplicáveis aos UAS;\n\nc) Procedimento entre os prestadores de serviços no espaço «U» e os órgãos dos serviços de tráfego aéreo relevantes a fim de coordenar o pedido de autorização de voo de UAS no espaço aéreo controlado;\n\nd) Procedimentos de divulgação da configuração dinâmica do espaço aéreo no espaço aéreo controlado."
+  },
+  "37aac41c84ef5bbf": {
+   "fragment_id": "2. Constrangimentos de espaço aéreo",
+   "type": "divisao",
+   "heading": "2. Constrangimentos de espaço aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2. Constrangimentos de espaço aéreo\n\na) Capacidade disponível para o tráfego de UAS;\n\nb) Capacidade disponível e planeada da aviação tripulada;\n\nc) Acesso da aviação tripulada ao espaço aéreo U;\n\nd) Restrições meteorológicas à utilização do espaço aéreo U; Impacto nos aeródromos e noutras atividades específicas adjacentes ao espaço aéreo U proposto."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "95b155e05ad5d798": {
+   "fragment_id": "Publicação da informação comum referida no artigo 5.º, n.º 4, alínea a)",
+   "type": "divisao",
+   "heading": "Publicação da informação comum referida no artigo 5.º, n.º 4, alínea a)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Publicação da informação comum referida no artigo 5.º, n.º 4, alínea a)\n\n1. Os prestadores de serviços de informação comum devem assegurar que as informações referidas no artigo 5.º, n.^os^ 1, 2 e 3 se encontram disponíveis em linha através de tecnologias comuns abertas, seguras, escaláveis e sustentáveis, capazes de suportar os níveis requeridos de disponibilidade e desempenho e que assegurem a interoperabilidade e a livre circulação dos serviços do espaço «U» na União.\n\n2. Os prestadores de serviços de informação comum devem conceder acesso à informação comum numa base não discriminatória.\n\n3. Os prestadores de serviços no espaço «U» e os prestadores de serviços de tráfego aéreo devem utilizar um protocolo de comunicação aberta interoperável comum e seguro."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "0b8ee52425a59d28": {
+   "fragment_id": "Qualidade, latência e proteção dos dados referidas no artigo 5.º, n.º 4, alínea b, e no artigo 7.º, n.º 5, alínea c)",
+   "type": "divisao",
+   "heading": "Qualidade, latência e proteção dos dados referidas no artigo 5.º, n.º 4, alínea b, e no artigo 7.º, n.º 5, alínea c)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Qualidade, latência e proteção dos dados referidas no artigo 5.º, n.º 4, alínea b, e no artigo 7.º, n.º 5, alínea c)"
+  },
+  "01d67034fe3e7873": {
+   "fragment_id": "A. A fim de cumprir os requisitos de qualidade dos dados, os prestadores de serviços de informação comum e os prestadores de serviços no espaço «U» devem assegurar que:",
+   "type": "divisao",
+   "heading": "A. A fim de cumprir os requisitos de qualidade dos dados, os prestadores de serviços de informação comum e os prestadores de serviços no espaço «U» devem assegurar que:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. A fim de cumprir os requisitos de qualidade dos dados, os prestadores de serviços de informação comum e os prestadores de serviços no espaço «U» devem assegurar que:\n\n1. A qualidade dos dados é mantida;\n\n2. São empregadas técnicas de verificação e validação para garantir que os dados são recebidos sem corrupção e que esta não ocorre em nenhuma fase do tratamento de dados;\n\n3. Os metadados são recolhidos e conservados.\n\n4. A transferência de dados está sujeita a um processo de autenticação adequado, a saber, que os destinatários possam confirmar que os dados ou as informações foram transmitidos por uma fonte autorizada.\n\n5. A comunicação de erros, a sua medição e os mecanismos de ação corretiva são estabelecidos e mantidos."
+  },
+  "4af708fca6326e28": {
+   "fragment_id": "B. A fim de proteger os dados, os prestadores de serviços de informação comum e os prestadores de serviços no espaço «U» devem:",
+   "type": "divisao",
+   "heading": "B. A fim de proteger os dados, os prestadores de serviços de informação comum e os prestadores de serviços no espaço «U» devem:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. A fim de proteger os dados, os prestadores de serviços de informação comum e os prestadores de serviços no espaço «U» devem:\n\n1. Aplicar políticas de segurança, incluindo a cifragem de dados e a proteção de dados críticos;\n\n2. Proteger os protocolos de comunicação aberta interoperável comuns e seguros contra interações eletrónicas intencionais não autorizadas que possam resultar numa falha inaceitável das comunicações;\n\n3. Identificar, avaliar e mitigar, na medida do necessário, os riscos e as vulnerabilidades para a segurança;\n\n4. Aderir às normas e regulamentações de segurança relativas ao local de armazenamento dos dados e garantir que os terceiros prestadores aceitam seguir as práticas de segurança;\n\n5. Descrever uma política de sensibilização e formação dos trabalhadores e ferramentas para reduzir os riscos internos, bem como a proteção dos dados — incluindo a propriedade intelectual. A este respeito, devem monitorizar a atividade dos utilizadores e da rede a fim de facultar uma perspetiva das vulnerabilidades e ameaças ao ecossistema.\n\n6. Desenvolver soluções que aumentem as capacidades de deteção de ameaças e de recolha de inteligência e assegurem a utilização de salvaguardas tecnológicas."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "233362a65f31e07f": {
+   "fragment_id": "Pedido de autorização de voo de UAS referido no artigo 6.º, n.º 4",
+   "type": "divisao",
+   "heading": "Pedido de autorização de voo de UAS referido no artigo 6.º, n.º 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Pedido de autorização de voo de UAS referido no artigo 6.º, n.º 4\n\nO pedido de autorização de voo de UAS deve incluir as seguintes informações:\n\n1. O número de série único da aeronave não tripulada ou, caso se trate de uma aeronave não tripulada de [**►C1**](http://publications.europa.eu/resource/celex/32021R0664R%2802%29) construção amadora**◄**, o número de série único do [**►C1**](http://publications.europa.eu/resource/celex/32021R0664R%2802%29) dispositivo anexo**◄**;\n\n2. O modo de operação;\n\n3. O tipo de voo (operações especiais);\n\n4. A categoria de operação de UAS («aberta», «específica», «certificada») e a classe de aeronave do UAS ou o seu certificado de tipo, se for aplicável;\n\n5. A trajetória 4D;\n\n6. A tecnologia de identificação;\n\n7. Os métodos de conectividade esperados;\n\n8. A autonomia;\n\n9. O procedimento de emergência aplicável em caso de perda da ligação ao comando e controlo;\n\n10. O número de registo do operador de UAS e, se for caso disso, da aeronave não tripulada."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "61542807b98f5a3c": {
+   "fragment_id": "Intercâmbio de dados e informações operacionais relevantes entre prestadores de serviços no espaço «U» e prestadores de serviços de tráfego aéreo em conformidade com o artigo 7.º, n.º 3",
+   "type": "divisao",
+   "heading": "Intercâmbio de dados e informações operacionais relevantes entre prestadores de serviços no espaço «U» e prestadores de serviços de tráfego aéreo em conformidade com o artigo 7.º, n.º 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Intercâmbio de dados e informações operacionais relevantes entre prestadores de serviços no espaço «U» e prestadores de serviços de tráfego aéreo em conformidade com o artigo 7.º, n.º 3\n\n1. O intercâmbio de informações deve ser assegurado através de um acordo sobre um nível de serviço com indicação da qualidade da informação e através do modelo de intercâmbio utilizado para os dados e informações operacionais relevantes.\n\n2. O modelo de intercâmbio deve:\n\na) Possibilitar a gestão e a distribuição de informações em formato digital;\n\nb) Descrever as características das informações trocadas, suas propriedades, atributos, tipos de dados e associações;\n\nc) Incluir restrições aos dados e regras de validação;\n\nd) Aplicar um formato normalizado de codificação dos dados;\n\ne) Facultar um mecanismo de extensão através do qual grupos de utilizadores possam alargar as propriedades das características existentes e acrescentar novos elementos que não afetem negativamente a normalização no interior de cada Estado-Membro e no seu contacto com os demais.\n\n3. Os prestadores de serviços no espaço «U» e os prestadores de serviços de tráfego aéreo devem utilizar um método de cifragem reconhecido.\n\n4. Os prestadores de serviços no espaço «U» e os prestadores de serviços de tráfego aéreo devem utilizar um protocolo de comunicação aberta interoperável comum e seguro."
+  },
+  "90c7d2baf4d44ee2": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI"
+  },
+  "2248c3d67c7ade45": {
+   "fragment_id": "LOGO AESA ou autoridades da aviação nacionais, consoante aplicável",
+   "type": "divisao",
+   "heading": "LOGO AESA ou autoridades da aviação nacionais, consoante aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LOGO AESA ou autoridades da aviação nacionais, consoante aplicável"
+  },
+  "20252ec28b1f60b3": {
+   "fragment_id": "Certificado de prestador de serviços no espaço «U» referido no artigo 14.º, n.º 3",
+   "type": "divisao",
+   "heading": "Certificado de prestador de serviços no espaço «U» referido no artigo 14.º, n.º 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Certificado de prestador de serviços no espaço «U» referido no artigo 14.º, n.º 3"
+  },
+  "2bba16d045357074": {
+   "fragment_id": "CERTIFICADO DE PRESTADOR DE SERVIÇOS NO ESPAÇO «U»",
+   "type": "divisao",
+   "heading": "CERTIFICADO DE PRESTADOR DE SERVIÇOS NO ESPAÇO «U»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CERTIFICADO DE PRESTADOR DE SERVIÇOS NO ESPAÇO «U»"
+  },
+  "6ad8264bba27b1a8": {
+   "fragment_id": "[NÚMERO DO CERTIFICADO/N.º DE EMISSÃO]",
+   "type": "divisao",
+   "heading": "[NÚMERO DO CERTIFICADO/N.º DE EMISSÃO]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### [NÚMERO DO CERTIFICADO/N.º DE EMISSÃO]\n\nNos termos do Regulamento (UE) …/…. [e do Regulamento (UE) …/….] e tendo em conta as condições adiante especificadas, a [autoridade competente] certifica\n\n[NOME DO PRESTADOR DE SERVIÇOS NO ESPAÇO «U»]\n\n[ENDEREÇO DO PRESTADOR DE SERVIÇOS NO ESPAÇO «U»]\n\nenquanto prestador de serviços no espaço «U», com as prerrogativas enumeradas em anexo, nas condições de prestação de serviços.\n\nCONDIÇÕES:\n\nO presente certificado é limitado às condições e ao âmbito da prestação dos serviços enumerados em anexo, nas condições de prestação de serviços.\n\nO presente certificado é válido enquanto o prestador de serviços no espaço «U» certificado continuar em conformidade com o Regulamento (UE) …/…. e os demais regulamentos aplicáveis e, quando pertinente, com os procedimentos descritos na documentação do prestador de serviços no espaço «U», em conformidade com o Regulamento (UE) …/…., parte ….\n\nDesde que cumpridas as condições atrás referidas, o presente certificado permanece válido até ser objeto de renúncia, restrição, suspensão ou cancelamento.\n\nData de emissão:\n\nAssinatura:\n\n[Autoridade competente]"
+  },
+  "02c65ef162b43227": {
+   "fragment_id": "CONDIÇÕES E RESTRIÇÕES DE PRESTAÇÃO DE SERVIÇOS NO ESPAÇO «U»",
+   "type": "divisao",
+   "heading": "CONDIÇÕES E RESTRIÇÕES DE PRESTAÇÃO DE SERVIÇOS NO ESPAÇO «U»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONDIÇÕES E RESTRIÇÕES DE PRESTAÇÃO DE SERVIÇOS NO ESPAÇO «U»\n\nobteve o privilégio de prestar os seguintes serviços no espaço «U» nas seguintes condições e com as seguintes restrições:\n\n*(suprimir linhas consoante o caso)*\n\n| Serviços | Tipo de serviço | Condições | Restrições* |\n| --- | --- | --- | --- |\n| **Serviços no espaço «U»** | Serviço de identificação da rede |  |  |\n| Serviço de reconhecimento geoespacial |  |  |  |\n| Serviço de autorização de voo de UAS |  |  |  |\n| Serviço de informação de tráfego |  |  |  |\n| Serviço de informação meteorológica |  |  |  |\n| Serviço de monitorização da conformidade |  |  |  |\n| Outro (a definir pelo Estado-Membro) |  |  |  |"
+  },
+  "d46ca50274582635": {
+   "fragment_id": "ANEXO VII",
+   "type": "divisao",
+   "heading": "ANEXO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII"
+  },
+  "3f9ae4baedd3c271": {
+   "fragment_id": "Certificado de prestador único de serviços de informação comum referido no artigo 14.º, n.º 3",
+   "type": "divisao",
+   "heading": "Certificado de prestador único de serviços de informação comum referido no artigo 14.º, n.º 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Certificado de prestador único de serviços de informação comum referido no artigo 14.º, n.º 3"
+  },
+  "e81dcf12ebfedd5e": {
+   "fragment_id": "CERTIFICADO DE PRESTADOR ÚNICO DE SERVIÇOS DE INFORMAÇÃO COMUM",
+   "type": "divisao",
+   "heading": "CERTIFICADO DE PRESTADOR ÚNICO DE SERVIÇOS DE INFORMAÇÃO COMUM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CERTIFICADO DE PRESTADOR ÚNICO DE SERVIÇOS DE INFORMAÇÃO COMUM"
+  },
+  "1e822f5438062c6d": {
+   "fragment_id": "[NÚMERO DO CERTIFICADO/N.º DE EMISSÃO]",
+   "type": "divisao",
+   "heading": "[NÚMERO DO CERTIFICADO/N.º DE EMISSÃO]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### [NÚMERO DO CERTIFICADO/N.º DE EMISSÃO]\n\nNos termos do Regulamento (UE) …/…. [e do Regulamento (UE) …/….] a [autoridade competente] certifica pelo presente\n\n[NOME DO PRESTADOR ÚNICO DE SERVIÇOS DE INFORMAÇÃO COMUM]\n\n[ENDEREÇO DO PRESTADOR ÚNICO DE SERVIÇOS DE INFORMAÇÃO COMUM]\n\nenquanto prestador único de serviços de informação comum.\n\nO presente certificado é válido enquanto o prestador único de serviços de informação comum certificado continuar em conformidade com o Regulamento (UE) …/…. e os demais regulamentos aplicáveis e, quando pertinente, com os procedimentos descritos na documentação do prestador único de serviços de informação comum, em conformidade com o Regulamento (UE) …/…., parte ….\n\nDesde que cumpridas as condições atrás referidas, o presente certificado permanece válido até ser objeto de renúncia, restrição, suspensão ou cancelamento.\n\nData de emissão:\n\nAssinatura:\n\n[Autoridade competente]"
+  },
+  "ae333fc2d57e1e38": {
+   "fragment_id": "Apêndice",
+   "type": "divisao",
+   "heading": "Apêndice",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Apêndice"
+  },
+  "1d0167541989d9ff": {
+   "fragment_id": "Classes de espaço aéreo ATS e serviços no espaço «U» prestados",
+   "type": "divisao",
+   "heading": "Classes de espaço aéreo ATS e serviços no espaço «U» prestados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Classes de espaço aéreo ATS e serviços no espaço «U» prestados\n\nO presente apêndice tem por objetivo apresentar de forma concisa os serviços relacionados com o espaço aéreo «U» prestados em cada classe de espaço aéreo específica. Por conseguinte, não fornece quaisquer especificações adicionais às já expressas no presente regulamento e no Regulamento de Execução (UE) 2021/666 que altera o Regulamento (UE) n.º 923/2012. Os serviços de tráfego aéreo prestados pelos órgãos ATS e os requisitos aplicáveis aos voos IFR e VFR continuam a ser os expressos no Regulamento (UE) n.º 923/2012 e resumidos no seu apêndice 4.\n\n| Classe | Tipo de voo | Permitido no espaço aéreo «U» | Serviços no espaço aéreo «U» por PSE-U |\n| --- | --- | --- | --- |\n| A | Apenas IFR | Não sem reconfiguração dinâmica do espaço aéreo |  |\n| UAS [(^1^)](http://publications.europa.eu/resource/cellar/ec898acf-260d-11ec-bd8e-01aa75ed71a1.0002.02/DOC_1#E0001) | Sim | Autorização de voo de UAS Informação de tráfego sobre UAS |  |\n| B, C e D | IFR e VFR | Não sem reconfiguração dinâmica do espaço aéreo |  |\n| UAS [(^1^)](http://publications.europa.eu/resource/cellar/ec898acf-260d-11ec-bd8e-01aa75ed71a1.0002.02/DOC_1#E0001) | Sim | Autorização de voo de UAS Informação de tráfego sobre UAS |  |\n| E | IFR | Não sem reconfiguração dinâmica do espaço aéreo |  |\n| VFR | Sim, sob reserva de partilha de posição com PSE-U | Nulo |  |\n| UAS [(^1^)](http://publications.europa.eu/resource/cellar/ec898acf-260d-11ec-bd8e-01aa75ed71a1.0002.02/DOC_1#E0001) | Sim | Autorização de voo de UAS Informação de tráfego sobre UAS e VFR |  |\n| F | IFR | Sim, sob reserva de partilha de posição com PSE-U | Nulo |\n| VFR | Sim, sob reserva de partilha de posição com PSE-U | Nulo |  |\n| UAS [(^1^)](http://publications.europa.eu/resource/cellar/ec898acf-260d-11ec-bd8e-01aa75ed71a1.0002.02/DOC_1#E0001) | Sim | Autorização de voo de UAS Informação de tráfego sobre UAS, IFR e VFR |  |\n| G | IFR | Sim, sob reserva de partilha de posição com PSE-U | Nulo |\n| VFR | Sim, sob reserva de partilha de posição com PSE-U | Nulo |  |\n| UAS [(^1^)](http://publications.europa.eu/resource/cellar/ec898acf-260d-11ec-bd8e-01aa75ed71a1.0002.02/DOC_1#E0001) | Sim | Autorização de voo de UAS Informação de tráfego sobre UAS, IFR e VFR |  |\n| (^1^) Exceto UAS a voar de acordo com as regras de voo por instrumentos. |  |  |  |"
+  },
+  "ce98590be9bdf2b9": {
+   "fragment_id": "Artigo 15.º — Condições de obtenção de um certificado",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Condições de obtenção de um certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Condições de obtenção de um certificado\n\n1.\n\nOs prestadores de serviços no espaço «U» e, quando designados, os prestadores únicos de serviços de informação comum devem receber certificados se demonstrarem que:\n\na) São capazes de prestar os seus serviços de forma segura, protegida, eficiente, contínua e sustentável, coerente com as operações de UAS previstas e em conformidade com o nível de desempenho estabelecido pelos Estados-Membros para o espaço aéreo «U» em conformidade com o artigo 3.º, n.º 4;\n\nb) Utilizam sistemas e equipamentos que garantem a qualidade, latência e proteção do espaço U ou dos serviços de informação comum em conformidade com o presente regulamento;\n\nc) Dispõem do capital líquido adequado e proporcional aos custos e riscos associados à prestação de serviços de informação comum e do espaço «U»;\n\nd) São capazes de comunicar ocorrências em conformidade com a secção ATM/ANS.OR.A.065 da subparte A do anexo III do Regulamento de Execução (UE) 2017/373;\n\ne) Aplicam e mantêm um sistema de gestão em conformidade com a subparte B do anexo III do Regulamento de Execução (UE) 2017/373;\n\nf) Implementar e manter um sistema de gestão da segurança em conformidade com a secção ATM/ANS.OR.D.010 do anexo III, subparte D, do Regulamento de Execução (UE) 2017/373, e um sistema de gestão da segurança da informação em conformidade com o anexo II (parte IS.I.OR) do Regulamento de Execução (UE) 2023/203;\n\ng) Conservam, por um período de, pelo menos, 30 dias, informações e dados operacionais registados, pertinentes para a investigação de acidentes e incidentes, até que seja evidente que deixarão de ser necessários;\n\nh) Têm um sólido plano de negócios que indique que podem honrar as suas obrigações efetivas de prestação de serviços de forma contínua durante um período de pelo menos 12 meses a contar do início das operações;\n\ni) Dispõem de mecanismos para cobrir as responsabilidades relacionadas com a execução das suas tarefas adequadas às perdas e danos potenciais;\n\nj) Sempre que empregam os serviços de outro prestador de serviços, encontram-se consagrados os respetivos acordos que especificam a repartição da responsabilidade entre eles;\n\nk) Desenvolveram um plano de emergência na eventualidade de ocorrências, incluindo violações da segurança, que afetem a prestação dos serviços, e que resultem numa degradação significativa ou na interrupção das suas operações;\n\n2. Além dos requisitos estabelecidos no n.º 1, os prestadores de serviços no espaço «U» devem dispor de um plano de gestão de emergências a fim de assistir o operador de UAS a braços com uma emergência e um plano de comunicação para informar os interessados."
+  },
+  "ba9489bff4d3239e": {
+   "fragment_id": "Artigo 18.º — Funções das autoridades competentes",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Funções das autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Funções das autoridades competentes\n\nAs autoridades competentes designadas devem:\n\na) Estabelecer, manter e disponibilizar um sistema de registo dos prestadores de serviços no espaço «U» e dos prestadores únicos de serviços de informação comum certificados;\n\nb) Determinar quais os dados de tráfego, seja por gravação em tempo real, ou em diferido, podem ser disponibilizados pelos prestadores de serviços no espaço «U», pelos prestadores únicos de serviços de informação comum e pelos prestadores de serviços de tráfego aéreo às pessoas singulares e coletivas autorizadas, incluindo a frequência exigida e o nível de qualidade dos dados, sem prejuízo da regulamentação em matéria de proteção dos dados pessoais;\n\nc) Determinar o nível de acesso à informação por parte dos diferentes utilizadores da informação comum e assegurar a sua disponibilização em conformidade com o anexo II;\n\nd) Assegurar que os intercâmbios de dados entre os prestadores de serviços de tráfego aéreo e os prestadores de serviços no espaço «U» têm lugar em conformidade com o anexo V;\n\ne) Definir a forma de pedido de certificado de prestador de serviços no espaço «U» ou de prestador único de serviços de informação comum por parte das pessoas singulares e coletivas em conformidade com o capítulo V;\n\nf) Estabelecer um mecanismo a fim de coordenar com outras autoridades e entidades, incluindo a nível local, a designação do espaço aéreo «U», o estabelecimento de restrições ao espaço aéreo de UAS dentro do espaço aéreo «U» e a determinação dos serviços do espaço «U» a prestar no espaço aéreo «U»;\n\ng) Estabelecer um programa de certificação e de supervisão contínua baseada no risco, incluindo o acompanhamento do desempenho operacional e financeiro, em função do risco associado aos serviços prestados pelos prestadores de serviços no espaço «U» e pelos prestadores únicos de serviços de informação comum no âmbito da sua responsabilidade de supervisão;\n\nh) Requerer que os prestadores de informação comum e os prestadores de serviços no espaço «U» disponibilizem todas as informações necessárias a fim de assegurar que a prestação de serviços no espaço U contribua para a segurança das operações das aeronaves;\n\ni) Efetuar auditorias, avaliações, investigações e inspeções aos prestadores de serviços no espaço «U» e aos prestadores únicos de serviços de informação comum segundo o estabelecido no programa de supervisão;\n\nj) Ter em conta os devidos níveis de desempenho de segurança na definição dos requisitos para cada espaço aéreo «U» que tenha sido objeto de uma avaliação do risco para o espaço aéreo na aceção do artigo 3.º, n.º 1;\n\nk) Monitorizar e avaliar regularmente os níveis de desempenho em matéria de segurança e utilizar os resultados, nomeadamente na sua supervisão baseada no risco;\n\nl) Estabelecer, implementar e manter um sistema de gestão da segurança da informação em conformidade com o anexo I (parte IS.AR) do Regulamento de Execução (UE) 2023/203."
+  },
+  "fe7a6a628acb6092": {
+   "fragment_id": "Classes de espaço aéreo ATS e serviços no espaço «U» prestados",
+   "type": "divisao",
+   "heading": "Classes de espaço aéreo ATS e serviços no espaço «U» prestados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Classes de espaço aéreo ATS e serviços no espaço «U» prestados\n\nO presente apêndice tem por objetivo apresentar de forma concisa os serviços relacionados com o espaço aéreo «U» prestados em cada classe de espaço aéreo específica. Por conseguinte, não fornece quaisquer especificações adicionais às já expressas no presente regulamento e no Regulamento de Execução (UE) 2021/666 que altera o Regulamento (UE) n.º 923/2012. Os serviços de tráfego aéreo prestados pelos órgãos ATS e os requisitos aplicáveis aos voos IFR e VFR continuam a ser os expressos no Regulamento (UE) n.º 923/2012 e resumidos no seu apêndice 4.\n\n| Classe | Tipo de voo | Permitido no espaço aéreo «U» | Serviços no espaço aéreo «U» por PSE-U |\n| --- | --- | --- | --- |\n| A | Apenas IFR | Não sem reconfiguração dinâmica do espaço aéreo |  |\n| UAS [(^1^)](http://publications.europa.eu/resource/cellar/0e5baec7-27b1-11f1-a7dd-01aa75ed71a1.0020.02/DOC_1#E0001) | Sim | Autorização de voo de UAS Informação de tráfego sobre UAS |  |\n| B, C e D | IFR e VFR | Não sem reconfiguração dinâmica do espaço aéreo |  |\n| UAS [(^1^)](http://publications.europa.eu/resource/cellar/0e5baec7-27b1-11f1-a7dd-01aa75ed71a1.0020.02/DOC_1#E0001) | Sim | Autorização de voo de UAS Informação de tráfego sobre UAS |  |\n| E | IFR | Não sem reconfiguração dinâmica do espaço aéreo |  |\n| VFR | Sim, sob reserva de partilha de posição com PSE-U | Nulo |  |\n| UAS [(^1^)](http://publications.europa.eu/resource/cellar/0e5baec7-27b1-11f1-a7dd-01aa75ed71a1.0020.02/DOC_1#E0001) | Sim | Autorização de voo de UAS Informação de tráfego sobre UAS e VFR |  |\n| F | IFR | Sim, sob reserva de partilha de posição com PSE-U | Nulo |\n| VFR | Sim, sob reserva de partilha de posição com PSE-U | Nulo |  |\n| UAS [(^1^)](http://publications.europa.eu/resource/cellar/0e5baec7-27b1-11f1-a7dd-01aa75ed71a1.0020.02/DOC_1#E0001) | Sim | Autorização de voo de UAS Informação de tráfego sobre UAS, IFR e VFR |  |\n| G | IFR | Sim, sob reserva de partilha de posição com PSE-U | Nulo |\n| VFR | Sim, sob reserva de partilha de posição com PSE-U | Nulo |  |\n| UAS [(^1^)](http://publications.europa.eu/resource/cellar/0e5baec7-27b1-11f1-a7dd-01aa75ed71a1.0020.02/DOC_1#E0001) | Sim | Autorização de voo de UAS Informação de tráfego sobre UAS, IFR e VFR |  |\n| (^1^) Exceto UAS a voar de acordo com as regras de voo por instrumentos. |  |  |  |"
+  }
+ }
+}

@@ -1,0 +1,196 @@
+---
+schema_version: '1.0'
+id: pt:dre:898705895:por
+title: Resolução do Conselho de Ministros n.º 174/2024
+short_title: null
+summary: Autoriza a realização de despesa para cumprimento dos compromissos internacionais assumidos pelo Estado Português
+  no âmbito do apoio à Ucrânia, até ao final de 2024.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 174/2024
+official_date: null
+publication_date: '2024-12-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 234/2024, Série I de 2024-12-03
+  number: '234'
+  series: I
+  supplement: null
+  pages: 219 - 221
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/12/23400/0021900221.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/174/2024/12/03/p/dre/pt/html
+  oj: null
+  dre: '898705895'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/174-2024-898705895
+  internal: pt:dre:898705895:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/174-2024-898705895
+  metadata_url: https://data.dre.pt/eli/resolconsmin/174/2024/12/03/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/174-2024-898705895
+  consolidated_url: null
+  retrieved_at: '2026-10-23T13:31:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f9943e4e4cfe1087f8f31773c81be80a1385b40f689989089d70b76acf392c5b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:30Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autorização de Despesas
+- Delegação de Competências
+- Governo XXIV
+- Ministério da Defesa Nacional
+- NATO
+- Ucrânia
+relationships:
+- type: cites
+  target: pt:dre:219991254:por
+  label: null
+  source: http://data.dre.pt/eli/leiorg/1/2023/08/17/p/dre
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/4/2015/01/07/p/dre
+- type: cites
+  target: pt:dre:839477381:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/17/2024/01/29/p/dre
+- type: cites
+  target: pt:dre:856378797:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/41-a/2024/03/20/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T13:31:30Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 174/2024
+
+As Forças Armadas ucranianas estão envolvidas num conflito que dura há dez anos e que se agravou drasticamente, em 24 de fevereiro de 2022, aquando da invasão da Ucrânia pelas Forças Armadas russas.
+
+Por força desta situação, e desde aquela data, os Estados-Membros da União Europeia (UE) e Aliados da Organização do Tratado do Atlântico Norte (NATO) têm vindo a prestar assistência no sentido de reforçar as capacidades e a resiliência das Forças Armadas ucranianas para a defesa da integridade territorial e da soberania da Ucrânia, bem como para a proteção da população civil da agressão militar em curso, fornecendo, para o efeito, equipamento militar e outro, de suporte ao esforço de guerra.
+
+Desde então, Portugal tem apoiado a Ucrânia, com a qual tem um Acordo de Amizade e Cooperação, assinado em 2000, e um Acordo Relativo à Cooperação Militar, assinado em Lisboa, em 24 de junho de 2008. O governo português reiterou este compromisso, garantido que a Ucrânia terá o apoio necessário até à sua prevalência sobre a Rússia, e que continuará a contribuir para o esforço de apoio militar, de apoio político, de apoio técnico, de treino ou manutenção de vários equipamentos das forças ucranianas.
+
+Neste contexto, a Ucrânia tem vindo a apresentar a Portugal e aos governos parceiros vários tipos de pedidos muito urgentes, ao que Portugal, através da [Resolução do Conselho de Ministros n.º 41-A/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/41-a-2024-856378797), de 20 de março, pôde responder com o fornecimento de munições de artilharia no valor de 100 milhões de euros. A execução da verba ficou a cargo da Chéquia, que criou um programa através do qual é possível garantir a aquisição e entrega rápida à Ucrânia de munições produzidas em países terceiros.
+
+No passado dia 28 de maio de 2024, em Lisboa, foi assinado o Acordo sobre Cooperação de Segurança entre Portugal e a Ucrânia - válido por 10 anos a contar da data da sua assinatura - , onde Portugal se compromete a continuar a prestar apoio militar, político e financeiro tendo em conta as necessidades da Ucrânia.
+
+Mais de dois anos e meio após a invasão e agressão não provocada, ilegal e injustificada da Rússia contra a Ucrânia, constata-se uma situação objetiva de insegurança no espaço euro-atlântico, com impacto direto nas crises alimentares, energéticas e financeiras mundiais. Na Cimeira da NATO, realizada em Washington entre 9 e 11 de julho de 2024, os Chefes de Estado e de Governo endossaram um compromisso financeiro para fornecer ajuda militar a Kiev, no valor de 40 mil milhões de euros. Deste total, a Portugal corresponde uma contribuição de 220,8 milhões de euros, a executar até ao final do ano de 2024. Este compromisso internacional, assumido pelo Estado português para o ano de 2024, materializa-se em diversas formas de contribuir para a regeneração da capacidade das Forças Armadas ucranianas (tais como formação, exercícios, material de guerra, reconstrução e outros equipamentos de suporte ao esforço de guerra).
+
+Nesta ocasião, atendendo ao ambiente geopolítico e à deterioração do ambiente de segurança, os Chefes de Estado e de Governo endossaram um compromisso de expansão da capacidade industrial da NATO e disponibilizaram a sua capacidade industrial de defesa para apoiar as necessidades da Ucrânia, reconhecendo o efeito substancial de estes se defenderem eficazmente.
+
+Paralelamente, surgiu a necessidade de estabelecer diferentes mecanismos internacionais passíveis de dar resposta às carências mais prementes das Forças Armadas ucranianas, nomeadamente coligações e iniciativas como a da aquisição conjunta de munições, liderada pela Chéquia, e a que Portugal se associou (como já suprarreferido).
+
+Atendendo a que a guerra na Ucrânia é uma guerra pelo futuro da Europa - na medida em que se combate pela liberdade e pela democracia, zelando pelo cumprimento do Direito Internacional - , entende-se que a segurança da Ucrânia é também a segurança de Portugal, e que, por isso, o sucesso do desfecho do seu esforço de guerra é também um interesse nacional de Portugal. Conforme o exposto, existe ainda quer um fator de urgência, quer de interesse público, associados ao apoio premente a este país e à segurança do abastecimento em tempo útil, a fim de providenciar uma resposta efetiva.
+
+Adicionalmente, tem-se que o compromisso de Portugal visa, ainda, contribuir para a interoperabilidade das Forças de segurança da Ucrânia com a NATO e para o apoio e as parcerias nas indústrias de defesa dos países.
+
+Da mesma forma, o robustecimento das capacidades e meios de defesa militar de Portugal e dos seus aliados - designadamente através da aquisição ou troca de equipamento de suporte ao esforço de guerra, munições e material de guerra, tanto em ações cooperativas ou coligadas - , constitui, dadas as circunstâncias acima descritas, um interesse essencial para a segurança nacional de Portugal.
+
+No contexto do compromisso de Washington é considerando essencial reforçar a capacidade da indústria portuguesa para a resposta célere e eficiente a este novo desafio, criando cadeias de valor úteis e diferenciadas que complementem de forma positiva o esforço europeu e da aliança atlântica nos diversos programas, iniciativas e coligações.
+
+Assim:
+
+Nos termos da alínea e) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, do artigo 143.º do [Decreto-Lei n.º 17/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), de 29 de fevereiro, dos artigos 44.º a 47.º do Código do Procedimento Administrativo, aprovado em anexo ao [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, do n.º 1 do artigo 36.º e do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Autorizar a realização da despesa e a doação de equipamentos letais e não-letais, bem como de outros bens móveis do domínio privado do Estado, no estado de conservação em que se encontrem, com registo militar ou civil, pertencentes às Forças Armadas Portuguesas, até ao final de 2024, no montante global máximo de € 86 446 421,00.
+
+2 - Atribuir ao membro do Governo responsável pela área da Defesa Nacional a decisão de distribuição, alocação e/ou realocação das verbas previstas no número anterior, através de despacho, no âmbito do acordo de cooperação de segurança e defesa, pelos seguintes programas, iniciativas e/ou coligações:
+
+a) Custos com preparação e transporte de equipamento a doar;
+
+b) Ressarcimento de equipamentos a doar;
+
+c) CAP UKR (Organização do Tratado do Atlântico Norte - NATO);
+
+d) Maritime Capability Coalition;
+
+e) Air Force Capability Coalition;
+
+f) Capacidade Espacial - Força Aérea;
+
+g) Armoured Coalition;
+
+h) IT Coalition;
+
+i) Drones Coalition;
+
+j) Iniciativa Chéquia /Munições;
+
+k) Fundo Internacional para a Ucrânia (International Fund for Ukraine);
+
+l) Acolhimento de Feridos;
+
+m) Iniciativa nacional para aquisição de fardamentos e equipamentos de proteção individual;
+
+n) Aquisições Conjuntas;
+
+o) Cooperação no âmbito das indústrias de defesa;
+
+p) Investimentos e apoio às infraestruturas de defesa;
+
+q) Protocolos e contratos entre Governos;
+
+r) Outros, no quadro da União Europeia e da NATO, no âmbito das políticas em curso;
+
+s) Nomeação de recursos humanos especializados para cargos em estruturas dedicadas da NATO, especialmente vocacionados para a cooperação, assistência, formação ou treino em apoio à Ucrânia.
+
+3 - Determinar que os encargos financeiros decorrentes da presente resolução são satisfeitos por verbas adequadas a inscrever no orçamento do Ministério da Defesa Nacional, por contrapartida de verbas a transferir do capítulo 60 - Despesas excecionais, gerido pela Direção-Geral do Tesouro e Finanças.
+
+4 - Determinar que o montante resultante do processo de reembolso das doações realizadas é inscrito no orçamento do Ministério da Defesa Nacional, nos termos do disposto no n.º 2 do artigo 8.º da [Lei Orgânica n.º 1/2023](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2023-219991254), de 17 de agosto, que aprova a Lei de Programação Militar, para o reequipamento das Forças Armadas Portuguesas, contribuindo para a edificação e reforço das suas capacidades.
+
+5 - Delegar, com faculdade de subdelegação, no membro do Governo responsável pela área da Defesa Nacional, a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução.
+
+6 - Determinar que a presente resolução entra em vigor a partir do dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros, 22 de novembro de 2024. - O Primeiro-Ministro, Luís Montenegro.
+
+118414973

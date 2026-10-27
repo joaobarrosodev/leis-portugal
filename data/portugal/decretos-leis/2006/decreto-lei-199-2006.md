@@ -1,0 +1,823 @@
+---
+schema_version: '1.0'
+id: pt:dre:545785:por
+title: Decreto-Lei n.º 199/2006
+short_title: null
+summary: Regula a liquidação de instituições de crédito e sociedades financeiras com sede em Portugal e suas sucursais criadas
+  noutro Estado membro, transpondo para a ordem jurídica interna a Directiva n.º 2001/24/CE, do Parlamento Europeu e do Conselho,
+  de 4 de Abril, relativa ao saneamento e à liquidação das instituições de crédito
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 199/2006
+official_date: null
+publication_date: '2006-10-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 206/2006, Série I de 2006-10-25
+  number: '206'
+  series: I
+  supplement: null
+  pages: 7382 - 7389
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/10/20600/73827389.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-12-10'
+version_history:
+  file: decreto-lei-199-2006.versoes.json
+  count: 6
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2006-10-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-02-15'
+    amending: pt:dre:314946:por
+    amending_title: Decreto-Lei n.º 31-A/2012
+    changes:
+    - Adita Secção Secção I
+    - Adita Secção Secção II
+    - Adita Secção Secção III
+    - Adita Artigo 7.º-A
+    - Adita Artigo 7.º-B
+    - Adita Artigo 7.º-C
+    - Adita Artigo 7.º-D
+    - Adita Secção Secção IV
+    - Adita Artigo 15.º-A
+    - Adita Artigo 15.º-B
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 15.º
+    - Altera Artigo 26.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+  - date: '2015-03-31'
+    amending: pt:dre:66868336:por
+    amending_title: Lei n.º 23-A/2015
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 40.º
+  - date: '2019-03-14'
+    amending: pt:dre:120837264:por
+    amending_title: Lei n.º 23/2019
+    changes:
+    - Adita Artigo 8.º-A
+  - date: '2022-02-01'
+    amending: pt:dre:175744218:por
+    amending_title: Decreto-Lei n.º 109-H/2021
+    changes:
+    - Altera Artigo 2.º
+  - date: '2022-12-10'
+    amending: pt:dre:204552612:por
+    amending_title: Lei n.º 23-A/2022
+    changes:
+    - Adita Artigo 8.º-B
+    - Altera Artigo 1.º
+    - Altera Artigo 8.º-A
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/199/2006/p/cons/20221209/pt/html
+  oj: null
+  dre: '545785'
+  dre_path: /dr/detalhe/decreto-lei/199-2006-545785
+  internal: pt:dre:545785:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-2006-545785
+  metadata_url: https://data.dre.pt/eli/dec-lei/199/2006/p/cons/20221209/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-120875665
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-120875665
+  retrieved_at: '2026-10-22T12:25:00Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: b1df6745bfc5e7d673d54b33c59b4e5701ddc524b65c4d9f89913bebc32d0048
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:25:00Z'
+  notes: 6 versão(ões); histórico completo em decreto-lei-199-2006.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Liquidação Judicial
+- Administrador Liquidatário
+- Aproximação das Legislações
+- Instituição de Crédito
+- Sistema de Indemnização aos Investidores
+- Código das Sociedades Comerciais
+- Compensação Financeira
+- União Europeia
+- Fundo de Garantia de Depósitos
+- Banco de Portugal
+- Código da Insolvência e da Recuperação de Empresas
+- Comissão de Credores
+- Liquidação de Sociedades
+- Regime Geral das Instituições de Crédito e Sociedades Financeiras
+- Segredo Profissional
+- CMVM
+- Instituição Financeira
+- Sucursal
+relationships:
+- type: amended_by
+  target: pt:dre:314946:por
+  label: Adita Secção Secção I; Adita Secção Secção II; Adita Secção Secção III; Adita Artigo 7.º-A; Adita Artigo 7.º-B; Adita
+    Artigo 7.º-C; Adita Artigo 7.º-D; Adita Secção Secção IV; Adita Artigo 15.º-A; Adita Artigo 15.º-B; Altera Artigo 2.º;
+    Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera
+    Artigo 15.º; Altera Artigo 26.º; Altera Artigo 36.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-a-2012-314946
+  date: '2012-02-10'
+- type: amended_by
+  target: pt:dre:66868336:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 32.º; Altera Artigo 33.º;
+    Altera Artigo 40.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/23-a-2015-66868336
+  date: '2015-03-26'
+- type: amended_by
+  target: pt:dre:120837264:por
+  label: Adita Artigo 8.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/23-2019-120837264
+  date: '2019-03-13'
+- type: amended_by
+  target: pt:dre:175744218:por
+  label: Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218
+  date: '2021-12-10'
+- type: amended_by
+  target: pt:dre:204552612:por
+  label: Adita Artigo 8.º-B; Altera Artigo 1.º; Altera Artigo 8.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/23-a-2022-204552612
+  date: '2022-12-09'
+- type: cites
+  target: celex:31998L0026
+  label: null
+  source: http://data.europa.eu/eli/dir/1998/26/oj
+- type: cites
+  target: celex:32000L0012
+  label: null
+  source: http://data.europa.eu/eli/dir/2000/12/oj
+- type: cites
+  target: celex:32001L0024
+  label: null
+  source: http://data.europa.eu/eli/dir/2001/24/oj
+- type: cites
+  target: celex:32013R0575
+  label: null
+  source: null
+- type: cites
+  target: celex:32019R2033
+  label: null
+  source: null
+- type: transposes
+  target: celex:32001L0024
+  label: null
+  source: null
+article_structure:
+  article_count: 50
+  section_count: 17
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:25:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 199/2006
+
+Decreto-Lei n.º 199/2006
+
+de 25 de Outubro
+
+Uma das principais finalidades do presente decreto-lei é proceder à transposição para a ordem jurídica portuguesa da Directiva n.º <a href="eurlex.asp?ano=2001&id=301L0024" title="Link para Directiva da Comunidade Europeia">2001/24/CE</a>, do Parlamento Europeu e do Conselho, de 4 de Abril, relativa ao saneamento e à liquidação de instituições de crédito. Trata-se de um conjunto de normas aplicáveis ao saneamento e liquidação de instituições de crédito que se encontrem estabelecidas em mais de um país do espaço comunitário.
+
+Na linha das recomendações do Livro Branco para a Realização do Mercado Interno, apresentado pela Comissão Europeia, em Junho de 1985, aquela directiva veio estabelecer normas visando a harmonização de procedimentos, na base do mútuo reconhecimento e com respeito pelos princípios da liberdade de estabelecimento e de prestação de serviços, da universalidade e da igualdade de tratamento dos credores.
+
+Instituiu-se, como regra fundamental, que o saneamento e a liquidação das instituições de crédito, incluindo as respectivas sucursais, sejam regulados pela lei do Estado membro em que tenham sido autorizadas. De entre as outras normas, cabe destacar a que constitui as autoridades nacionais de supervisão na obrigação de comunicar às entidades homólogas de outros Estados membros a adopção de medidas de saneamento e a decisão de instaurar processos de liquidação. Consagra-se, também, o reconhecimento no Estado membro de acolhimento das decisões tomadas pelas autoridades dos Estados membros de origem.
+
+Aproveita-se, entretanto, a oportunidade para actualizar o regime da liquidação das instituições de crédito e das sociedades financeiras vigente há dezenas de anos.
+
+Até à entrada em vigor do Decreto-Lei n.º 298/92, de 31 de Dezembro, diploma que aprovou o Regime Geral das Instituições de Crédito e Sociedades Financeiras, adiante abreviadamente designado por RGICSF, o saneamento e a liquidação destas instituições era regulado pelo Decreto-Lei n.º 30689, de 27 de Agosto de 1940. No título VIII do RGICSF foi atribuída ao Banco de Portugal competência para adoptar, relativamente às instituições de crédito e sociedades financeiras, providências extraordinárias de saneamento. A liquidação das instituições de crédito e sociedades financeiras continuou, porém, a ser regulada pelo já referido Decreto-Lei n.º 30689, de 27 de Agosto de 1940, que não foi, nessa parte, revogado.
+
+Como se referiu, o saneamento de instituições de crédito e sociedades financeiras tem a sua disciplina estabelecida no RGICSF e não se vê razão para alterá-la. Para ali, portanto, se limita o presente decreto-lei a remeter. No que respeita à liquidação, estabelece-se um regime actualizado, mais conforme às novas exigências e também à harmonização da legislação comunitária. Abandona-se, deste modo, o sistema predominantemente administrativo da liquidação das instituições de crédito e sociedades financeiras, anteriormente em vigor, reconhecendo a natureza específica do sector financeiro e tendo em conta, nomeadamente, as particularidades da actividade das instituições de crédito e das sociedades financeiras e a necessidade de instituir um sistema que contribua para a credibilização da actividade financeira e dos respectivos agentes. Julgou-se oportuno tornar este regime igualmente aplicável à liquidação de sucursais, situadas em Portugal, de instituições de crédito com sede em países que não sejam membros da União Europeia. Do mesmo modo, entendeu-se que faria todo o sentido submeter ao mesmo regime a liquidação de sucursais, situadas em Portugal e sujeitas à supervisão do Banco de Portugal, de empresas incluídas pelo RGICSF na categoria de instituições financeiras.
+
+Mantém-se, no entanto, a legislação aplicável às caixas de crédito agrícola mútuo pertencentes ao Sistema Integrado do Crédito Agrícola Mútuo, em razão do regime de garantia e solidariedade vigente naquele Sistema.
+
+Continua a atribuir-se ao Banco de Portugal, enquanto autoridade de supervisão, a competência para a revogação da autorização de exercício da actividade bancária, à semelhança, aliás, do que sucede nos demais países da União Europeia, produzindo a decisão de revogação da autorização os efeitos da declaração de insolvência. A liquidação propriamente dita é cometida ao sistema judicial, opção justificada pela excepcional complexidade e especificidades características do sistema financeiro, bem como pela dimensão dos interesses e valores envolvidos, cabendo ao Banco de Portugal continuar a exercer as suas funções de supervisão, na parte relevante, e, ainda, prestar a necessária colaboração em juízo. Assim, pode o Banco de Portugal requerer e propor o que entender conveniente em face da especificidade técnica das matérias e respectiva incidência no sistema financeiro, bem como recorrer das decisões proferidas.
+
+No respeitante aos demais aspectos do novo regime de liquidação, salienta-se ainda que as instituições de crédito, tendo em conta a complexidade, as características e a dimensão dos interesses envolvidos, se dissolvem apenas por força da revogação da respectiva autorização ou por deliberação dos sócios. Deste facto decorre que tanto as instituições de crédito e sociedades financeiras como os respectivos credores continuam a não ter legitimidade para requerer a declaração judicial de insolvência. Decorre ainda, atenta a especificidade da composição dos capitais próprios e a permanente sujeição a normas prudenciais, designadamente de solvabilidade, que às instituições de crédito e sociedades financeiras não é aplicável o disposto no artigo 35.º do Código das Sociedades Comerciais.
+
+A dissolução voluntária e a subsequente liquidação podem processar-se nos termos gerais da legislação comercial, de acordo com as deliberações dos sócios, acautelados que se mostrem os interesses dos credores e do sistema financeiro: havendo lugar à revogação da autorização, a regra é a da liquidação judicial, pelos motivos já indicados.
+
+O regime instituído no presente decreto-lei não interfere com as normas que transpuseram para o ordenamento jurídico nacional a Directiva n.º <a href="eurlex.asp?ano=1998&id=398L0026" title="Link para Directiva da Comunidade Europeia">98/26/CE</a>, do Parlamento Europeu e do Conselho, de 19 de Maio, relativa ao carácter definitivo da liquidação em caso de insolvência de um participante no sistema de liquidação, designadamente em sede de Código dos Valores Mobiliários.
+
+Na sistemática do presente decreto-lei, reservam-se os capítulos I e IV para disposições de âmbito geral, respectivamente introdutórias e finais; no capítulo II regula-se a liquidação de instituições de crédito e sociedades financeiras que tenham sede em Portugal; no capítulo III dispõe-se quanto ao saneamento e à liquidação das instituições de crédito, sempre que estas se encontrem estabelecidas em mais de um Estado membro.
+
+Foram ouvidos o Banco de Portugal, o Banco Central Europeu, a Comissão do Mercado de Valores Mobiliários e a Associação Portuguesa de Bancos.
+
+Assim:
+
+No uso da autorização legislativa concedida pelos artigos 1.º a 10.º da Lei n.º 18/2006, de 29 de Maio, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições introdutórias
+
+###### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei regula a liquidação de instituições de crédito e sociedades financeiras com sede em Portugal e suas sucursais criadas noutro Estado membro, procedendo à transposição para a ordem jurídica portuguesa da <a href=”https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0024-20140702&qid=1671532910504”>Diretiva 2001/24/CE do Parlamento Europeu e do Conselho</a>, de 4 de Abril de 2001, relativa ao saneamento e à liquidação das instituições de crédito.
+
+2 - A aplicação de medidas de saneamento a instituições de crédito e sociedades financeiras com sede em Portugal rege-se pelo disposto no Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, adiante abreviadamente designado por RGICSF, sem prejuízo do que se estabelece no capítulo III do presente decreto-lei.
+
+3 - A aplicação de medidas de resolução e o exercício de poderes de resolução previstos no título viii do RGICSF às entidades referidas no n.º 1 e nas alíneas a) a c) do n.º 2 do artigo 152.º do RGICSF rege-se pelo disposto nesse diploma, sem prejuízo do que se estabelece no capítulo iii do presente decreto-lei.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 23-A/2022 - Diário da República n.º 236/2022, 3º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2022-204552612), em vigor a partir de 2022-12-10
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2015-66868336), em vigor a partir de 2015-03-31
+
+###### Artigo 2.º — Definições
+
+1 - Para efeitos do presente decreto-lei, entende-se por:
+
+a) 'Medidas de saneamento' as medidas destinadas a preservar ou restabelecer a situação financeira de uma instituição de crédito ou de uma sociedade financeira, suscetíveis de afetar direitos preexistentes de terceiros, incluindo as de suspensão de pagamentos, de suspensão de processos de execução ou de redução de créditos;
+
+b) «Processo de liquidação» o processo colectivo a cargo das autoridades administrativas ou judiciais de um Estado membro, com o objectivo de proceder à liquidação dos bens, sob fiscalização dessas autoridades, inclusivamente quando esse processo se extinga por efeito de concordata ou medida análoga;
+
+c) «Empresa de investimento», uma empresa de investimento tal como definida no Regime das Empresas de Investimento, ou uma sociedade cuja sede estatutária se situe num país terceiro e que necessitaria de autorização, ao abrigo daquele Regime, caso a sua sede estatutária se situasse em Portugal;
+
+d) «Liquidatário» a pessoa ou o órgão designado pelas autoridades administrativas ou judiciais para gerir processos de liquidação;
+
+e) «Regras setoriais», a legislação e regulamentação relativa à supervisão prudencial das entidades regulamentadas;
+
+f) «Autoridades administrativas ou judiciais» as autoridades administrativas ou judiciais dos Estados membros competentes em matéria de medidas de saneamento ou de processos de liquidação.
+
+g) 'Estado membro de origem' o Estado membro da União Europeia no qual a instituição de crédito tenha sido autorizada;
+
+h) 'Estado membro de acolhimento' o Estado membro da União Europeia no qual a instituição de crédito tenha uma sucursal ou preste serviços.
+
+2 - Relativamente ao saneamento ou à liquidação de sucursais, situadas na União Europeia, de instituições de crédito com sede em país terceiro, as expressões 'Estado membro de origem', 'autoridades competentes' e 'autoridades administrativas ou judiciais' respeitam ao Estado membro da União Europeia em que se situa a sucursal.
+
+3 - São consideradas medidas de saneamento nos termos do disposto na alínea a) do n.º 1 a nomeação de administração provisória, as medidas de resolução e os poderes de resolução previstos no título viii do RGICSF.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2015-66868336), em vigor a partir de 2015-03-31
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 31-A/2012 - Diário da República n.º 30/2012, 1º Suplemento, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-a-2012-314946), em vigor a partir de 2012-02-15
+
+###### Artigo 3.º — Informação à Comissão do Mercado de Valores Mobiliários
+
+O Banco de Portugal comunica à Comissão do Mercado de Valores Mobiliários as propostas ou medidas adoptadas no âmbito do saneamento ou da liquidação de instituições de crédito ou de sociedades financeiras que sejam intermediários financeiros registados naquela Comissão, sem prejuízo do disposto nos artigos 145.º, 145.º-A, 198.º e 199.º do RGICSF.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 31-A/2012 - Diário da República n.º 30/2012, 1º Suplemento, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-a-2012-314946), em vigor a partir de 2012-02-15
+
+### Capítulo II — Liquidação de instituições de crédito e sociedades financeiras com sede em Portugal
+
+#### Secção I — Disposições gerais
+
+> Aditado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 31-A/2012 - Diário da República n.º 30/2012, 1º Suplemento, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-a-2012-314946), em vigor a partir de 2012-02-15
+
+###### Artigo 4.º — Liquidação
+
+1 - A liquidação de instituições de crédito com sede em Portugal rege-se pelo disposto no presente capítulo.
+
+2 - (Revogado.)
+
+3 - As disposições do presente capítulo são aplicáveis, com as devidas adaptações, à liquidação das sociedades financeiras.
+
+4 - O disposto no presente decreto-lei é ainda aplicável à liquidação de sucursais, situadas em Portugal, de instituições de crédito com sede em países que não sejam membros da União Europeia, bem como de sucursais de instituições financeiras situadas em Portugal e sujeitas à supervisão do Banco de Portugal.
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2015-66868336)
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 31-A/2012 - Diário da República n.º 30/2012, 1º Suplemento, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-a-2012-314946), em vigor a partir de 2012-02-15
+
+###### Artigo 5.º — Dissolução e entrada em liquidação
+
+1 - As instituições de crédito dissolvem-se apenas por força da revogação da respectiva autorização, nos termos do artigo 22.º do RGICSF, ou por deliberação dos sócios.
+
+2 - Com a dissolução, as instituições de crédito entram em liquidação, sem prejuízo do estabelecido na parte final do n.º 3 do artigo 22.º do RGICSF.
+
+3 - Na decisão de revogação da autorização, é indicada a hora da prática do acto, considerando-se, em caso de omissão, que o mesmo ocorreu às 12 horas, valendo essa hora, para todos os efeitos legais, como o momento da instauração do processo de liquidação.
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2015-66868336)
+
+#### Secção II — Dissolução voluntária e liquidação extra-judicial
+
+> Aditado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 31-A/2012 - Diário da República n.º 30/2012, 1º Suplemento, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-a-2012-314946), em vigor a partir de 2012-02-15
+
+###### Artigo 6.º — Dissolução voluntária
+
+1 - É aplicável à dissolução voluntária o disposto no artigo 35.º-A do RGICSF, devendo constar do respectivo projecto um plano pormenorizado de liquidação e a identificação dos liquidatários.
+
+2 - A dissolução voluntária não obsta a que, a todo o tempo, o Banco de Portugal requeira a liquidação judicial nos termos do artigo 8.º, incluindo eventuais medidas cautelares.
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2015-66868336)
+
+###### Artigo 7.º — Liquidação extrajudicial
+
+1 - As instituições de crédito dissolvidas voluntariamente são liquidadas nos termos previstos no capítulo XIII do título I do Código das Sociedades Comerciais, com excepção do artigo 161.º
+
+2 - À designação dos liquidatários é aplicável, com as necessárias adaptações, o disposto nos artigos 69.º e 70.º do RGICSF.
+
+3 - Os liquidatários devem remeter ao Banco de Portugal os relatórios e contas anuais e finais.
+
+4 - Na pendência da liquidação, é aplicável, com as necessárias adaptações, o disposto nos títulos vi e vii do RGICSF.
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2015-66868336)
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 31-A/2012 - Diário da República n.º 30/2012, 1º Suplemento, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-a-2012-314946), em vigor a partir de 2012-02-15
+
+#### Secção III — Procedimento pré-judicial de liquidação
+
+> Aditado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 31-A/2012 - Diário da República n.º 30/2012, 1º Suplemento, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-a-2012-314946), em vigor a partir de 2012-02-15
+
+###### Artigo 7.º-A — Procedimento pré-judicial
+
+Caso exista urgência no início das operações de liquidação, nomeadamente para garantir a continuidade de funções essenciais da instituição de crédito e a conservação do seu património, ou para salvaguarda da estabilidade do sistema financeiro, o Banco de Portugal, na decisão que revogar a autorização, pode nomear um ou mais administradores pré-judiciais, que exercerão funções sob o seu controlo por um prazo de até 6 meses, renovável por igual período.
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2015-66868336)
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 31-A/2012 - Diário da República n.º 30/2012, 1º Suplemento, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-a-2012-314946), em vigor a partir de 2012-02-15
+
+###### Artigo 7.º-B — Efeitos do procedimento pré-judicial
+
+1 - Com a notificação do acto de revogação à instituição de crédito, deve a mesma entregar imediatamente aos administradores pré-judiciais os documentos a que se refere o n.º 1 do artigo 24.º do Código da Insolvência e da Recuperação de Empresas, bem como os elementos da contabilidade e todos os seus bens, ainda que arrestados e penhorados, ou por qualquer forma detidos por terceiros.
+
+2 - A nomeação de administradores pré-judiciais não obsta à produção dos efeitos da declaração de insolvência, conforme o disposto no n.º 2 do artigo 8.º, salvas as seguintes adaptações:
+
+a) A apensação de processos pendentes prevista pelos artigos 85.º e 86.º do Código da Insolvência e da Recuperação de Empresas terá lugar depois de proferido o despacho de prosseguimento a que se refere o n.º 1 do artigo 9.º;
+
+b) Enquanto os administradores pré-judiciais estiverem em funções, as acções destinadas a impugnar a eventual resolução de actos prejudicais para a massa em liquidação, ao abrigo dos artigos 120.º e seguintes do Código da Insolvência e da Recuperação de Empresas, devem ser propostas contra a massa, representada em juízo pelos administradores pré-judiciais, no tribunal competente para a liquidação, procedendo-se à sua apensação aos autos da liquidação judicial logo que proferido o despacho de prosseguimento.
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2015-66868336)
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 31-A/2012 - Diário da República n.º 30/2012, 1º Suplemento, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-a-2012-314946), em vigor a partir de 2012-02-15
+
+###### Artigo 7.º-C — Administradores pré-judiciais
+
+1 - Na nomeação dos administradores pré-judiciais, o Banco de Portugal tem em conta critérios de idoneidade e experiência de funções no sector financeiro.
+
+2 - Se a revogação da autorização tiver sido precedida da aplicação de medidas de intervenção correctiva ou de resolução ou da nomeação de uma administração provisória, nos termos do título viii do RGICSF, a escolha dos administradores pré-judiciais recai preferencialmente sobre os administradores que tenham sido nomeados para o efeito.
+
+3 - Tratando-se de instituições de crédito ou sociedades financeiras que exerçam actividades de intermediação financeira, o Banco de Portugal comunica à Comissão do Mercado de Valores Mobiliários a identidade dos administradores pré-judiciais nomeados.
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2015-66868336)
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 31-A/2012 - Diário da República n.º 30/2012, 1º Suplemento, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-a-2012-314946), em vigor a partir de 2012-02-15
+
+###### Artigo 7.º-D — Funções dos administradores pré-judiciais e reclamação dos seus actos
+
+1 - Sem prejuízo do dever de diligência na gestão e liquidação da massa, cabe aos administradores pré-judiciais, em especial, exercer os poderes de administração e disposição do administrador da insolvência, carecendo de autorização do Banco de Portugal para a prática dos actos de especial relevo referidos nas alíneas a) a d) e e) do n.º 3 do artigo 161.º do Código da Insolvência e da Recuperação de Empresas.
+
+2 - Os administradores pré-judiciais exercem as competências atribuídas ao administrador da insolvência pelos artigos 149.º e 150.º do Código da Insolvência e da Recuperação de Empresas, podendo ser assistidos, no exercício dos seus poderes de apreensão, por elementos do Banco de Portugal.
+
+3 - Os administradores pré-judiciais preparam uma lista provisória dos créditos sobre a instituição em liquidação, com base na informação nela disponível, que acompanhará o requerimento da liquidação judicial a que se refere o n.º 3 do artigo 8.º
+
+4 - Quando se mostre necessário ou conveniente, podem os administradores pré-judiciais requerer ao Banco de Portugal a continuação parcial da actividade da instituição de crédito.
+
+5 - Dos actos dos administradores pré-judiciais susceptíveis de causar prejuízo aos credores ou aos accionistas da instituição, cabe reclamação para o Banco de Portugal, no prazo de 10 dias após o conhecimento do acto, pelos credores interessados ou por detentores de participações qualificadas que atinjam, individualmente ou em conjunto, pelo menos 10 % do capital ou dos direitos de voto, sendo proferida decisão no prazo de 20 dias.
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2015-66868336)
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 31-A/2012 - Diário da República n.º 30/2012, 1º Suplemento, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-a-2012-314946), em vigor a partir de 2012-02-15
+
+#### Secção IV — Liquidação judicial
+
+> Aditado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 31-A/2012 - Diário da República n.º 30/2012, 1º Suplemento, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-a-2012-314946), em vigor a partir de 2012-02-15
+
+###### Artigo 8.º — Liquidação judicial
+
+1 - A liquidação judicial das instituições de crédito fundada na revogação de autorização pelo Banco de Portugal faz-se nos termos do presente diploma e, em tudo o que nele não estiver previsto, nos termos do Código da Insolvência e da Recuperação de Empresas.
+
+2 - A decisão de revogação da autorização pelo Banco de Portugal produz os efeitos da declaração de insolvência.
+
+3 - Cabe em exclusivo ao Banco de Portugal requerer, no tribunal competente, a liquidação da instituição de crédito, no prazo máximo de 10 dias úteis após a revogação da autorização, proferida nos termos do artigo 22.º do RGICSF.
+
+4 - Se tiverem sido nomeados administradores pré-judiciais ao abrigo do disposto no artigo 7.º-A, o prazo para o Banco de Portugal requerer a liquidação da instituição de crédito é de 6 meses após a revogação da autorização, renovável por igual período, se tal renovação for necessária à conclusão, em condições de eficácia e celeridade, de operações em curso.
+
+5 - O requerimento deve ser instruído com cópia da decisão de revogação e com a proposta de liquidatário judicial ou comissão liquidatária a designar pelo juiz, nos termos e para os efeitos dos artigos seguintes.
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2015-66868336)
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 31-A/2012 - Diário da República n.º 30/2012, 1º Suplemento, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-a-2012-314946), em vigor a partir de 2012-02-15
+
+###### Artigo 8.º-A — Graduação dos créditos comuns emergentes de instrumentos de dívida
+
+1 - Os créditos comuns emergentes de instrumentos de dívida que preencham cumulativamente as condições previstas no n.º 2 e que tenham sido emitidos ou celebrados pelas entidades referidas no n.º 3 são pagos em insolvência depois de integralmente pagos os demais créditos comuns e antes de serem pagos os créditos subordinados, na proporção dos respetivos montantes se a massa for insuficiente para a respetiva satisfação integral, não se aplicando o disposto no artigo 176.º do Código da Insolvência e Recuperação de Empresas, aprovado pelo Decreto-Lei n.º 53/2004, de 18 de março.
+
+2 - A graduação de créditos prevista no número anterior é aplicável aos créditos emergentes dos instrumentos de dívida que preencham cumulativamente as seguintes condições:
+
+a) O prazo de vencimento inicial dos instrumentos de dívida é igual ou superior a um ano;
+
+b) Os instrumentos de dívida não incorporam instrumentos financeiros derivados, nem são eles próprios instrumentos financeiros derivados;
+
+c) As disposições contratuais aplicáveis aos instrumentos de dívida e, se aplicável, o respetivo prospeto, referem expressamente que, em caso de insolvência, a graduação dos créditos emergentes dos instrumentos de dívida é a prevista no presente artigo.
+
+3 - O disposto nos números anteriores é aplicável aos instrumentos de dívida de entidades que, à data da emissão ou celebração, sejam instituições de crédito, empresas de investimento que exerçam as atividades de negociação por conta própria ou as atividades de tomada firme de instrumentos e/ou colocação de instrumentos financeiros com garantia, ou entidades referidas nas alíneas a) a c) do n.º 2 do artigo 152.º do RGICSF.
+
+4 - Para efeitos do disposto nos números anteriores, são instrumentos de dívida as obrigações, outros valores mobiliários representativos de dívida e quaisquer instrumentos que criem ou reconheçam um direito de crédito.
+
+5 - Os instrumentos de dívida com taxas de juro variáveis indexadas a taxas de referência amplamente utilizadas e os instrumentos de dívida que sejam denominados em moeda diferente do euro, desde que o capital e os juros sejam denominados na mesma moeda e que o reembolso do capital e o pagamento dos juros seja feito nessa mesma moeda, não incorporam instrumentos financeiros derivados para efeitos do disposto na alínea b) do n.º 2 apenas em virtude destas características.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 23-A/2022 - Diário da República n.º 236/2022, 3º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2022-204552612), em vigor a partir de 2022-12-10
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 23/2019 - Diário da República n.º 51/2019, Série I de 2019-03-13](https://diariodarepublica.pt/dr/detalhe/lei/23-2019-120837264), em vigor a partir de 2019-03-14
+
+###### Artigo 8.º-B — Graduação dos créditos emergentes de instrumentos de fundos próprios
+
+1 - Os créditos emergentes dos elementos de fundos próprios principais de nível 1, dos elementos de fundos próprios adicionais de nível 1 e dos elementos de fundos próprios de nível 2, referidos nos artigos 26.º, 51.º e 62.º do Regulamento (UE) n.º 575/2013 do Parlamento Europeu e do Conselho, de 26 de junho de 2013, respetivamente, são pagos em insolvência depois de integralmente pagos os demais créditos subordinados e pela seguinte ordem:
+
+a) Os créditos emergentes dos elementos de fundos próprios principais de nível 1 são pagos depois de integralmente pagos os créditos emergentes de elementos de fundos próprios adicionais de nível 1;
+
+b) Os créditos emergentes de elementos de fundos próprios adicionais de nível 1 são pagos depois de integralmente pagos os créditos emergentes de elementos de fundos próprios de nível 2.
+
+2 - O disposto no número anterior é aplicável aos elementos de fundos próprios das instituições de crédito e, com as necessárias adaptações, aos fundos próprios das empresas de investimento e das entidades referidas nas alíneas a) a c) do n.º 2 do artigo 152.º do RGICSF.
+
+3 - O disposto no n.º 1 é aplicável ao montante total dos créditos resultantes da titularidade de um instrumento de fundos próprios, na aceção do ponto 119) do n.º 1 do artigo 4.º do Regulamento (UE) n.º 575/2013 do Parlamento Europeu e do Conselho, de 26 de junho de 2013, mesmo que esse instrumento não se classifique na sua totalidade como elemento de fundos próprios principais de nível 1, elemento de fundos próprios adicionais de nível 1 ou elemento de fundos próprios de nível 2 ao abrigo do referido Regulamento.
+
+4 - Para efeitos de aplicação do disposto nos números anteriores às empresas de investimento referidas no n.º 5 do artigo 152.º-A do RGICSF, os elementos de fundos próprios correspondem aos previstos no Regulamento (UE) 2019/2033 do Parlamento Europeu e do Conselho, de 27 de novembro de 2019.
+
+> Aditado pelo/a Artigo 10.º do/a [Lei n.º 23-A/2022 - Diário da República n.º 236/2022, 3º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2022-204552612), em vigor a partir de 2022-12-10
+
+###### Artigo 9.º — Tramitação subsequente
+
+1 - No despacho de prosseguimento, o juiz limita-se a verificar o preenchimento dos requisitos enunciados no artigo anterior, sendo quaisquer questões sobre a legalidade da decisão de revogação da autorização suscitáveis apenas no processo de impugnação a que se refere o artigo 15.º
+
+2 - No mesmo despacho, o juiz nomeia o liquidatário ou a comissão liquidatária e toma as decisões previstas nas alíneas b), c) e f) a n) do artigo 36.º do Código da Insolvência e da Recuperação de Empresas.
+
+3 - São aplicáveis, com as necessárias adaptações, as demais disposições do Código da Insolvência e da Recuperação de Empresas que se mostrem compatíveis com as especialidades constantes do presente decreto-lei, com excepção dos títulos IX e X.
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2015-66868336)
+
+###### Artigo 10.º — Liquidatário ou comissão liquidatária
+
+1 - O juiz, sob proposta do Banco de Portugal, nomeia um liquidatário judicial ou uma comissão liquidatária composta por três membros, consoante a complexidade e dificuldade da liquidação, aos quais compete o exercício das funções cometidas ao administrador da insolvência pelo Código da Insolvência e da Recuperação de Empresas.
+
+2 - O Banco de Portugal pode propor ao juiz a destituição e substituição do liquidatário judicial ou dos membros da comissão liquidatária, no todo ou em parte, bem como a substituição da comissão liquidatária por um único liquidatário judicial ou deste por uma comissão.
+
+3 - A remuneração do liquidatário judicial ou dos membros da comissão liquidatária é fixada anualmente pelo juiz, sob proposta do Banco de Portugal.
+
+4 - O liquidatário judicial ou os membros da comissão liquidatária são propostos pelo Banco de Portugal, tendo em conta critérios de idoneidade e experiência de exercício de funções no sector financeiro.
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2015-66868336)
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 31-A/2012 - Diário da República n.º 30/2012, 1º Suplemento, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-a-2012-314946), em vigor a partir de 2012-02-15
+
+###### Artigo 11.º — Comunicação ao Fundo de Garantia de Depósitos ou ao Fundo de Garantia do Crédito Agrícola Mútuo e ao Sistema de Indemnização aos Investidores
+
+1 - No prazo estabelecido para entrega na secretaria judicial da lista dos credores reconhecidos e não reconhecidos, o liquidatário remete cópia da mesma ao Fundo de Garantia de Depósitos ou, respeitando o processo à liquidação de uma caixa de crédito agrícola mútuo pertencente ao Sistema Integrado do Crédito Agrícola Mútuo, ao Fundo de Garantia do Crédito Agrícola Mútuo e, tratando-se de participante, ao Sistema de Indemnização aos Investidores.
+
+2 - No caso de se aplicar o procedimento previsto no artigo 7.º-A, os administradores pré-judiciais remetem às entidades referidas no número anterior a lista provisória de créditos sobre a liquidação, logo que a mesma esteja concluída.
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2015-66868336)
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 31-A/2012 - Diário da República n.º 30/2012, 1º Suplemento, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-a-2012-314946), em vigor a partir de 2012-02-15
+
+###### Artigo 12.º — Continuação da actividade
+
+1 - Quando se mostre necessário ou conveniente à liquidação, podem os liquidatários requerer ao juiz a continuação parcial da actividade da instituição de crédito.
+
+2 - O requerimento a que se refere o número anterior deve ser instruído com parecer favorável do Banco de Portugal.
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2015-66868336)
+
+###### Artigo 13.º — Comissão de credores
+
+1 - A comissão de credores é nomeada pelo juiz, ouvido o Banco de Portugal.
+
+2 - As competências conferidas pelo Código da Insolvência e da Recuperação de Empresas à assembleia de credores são exercidas pela comissão de credores.
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2015-66868336)
+
+###### Artigo 14.º — Intervenção do Banco de Portugal
+
+1 - O Banco de Portugal tem a faculdade de acompanhar a actividade do liquidatário judicial ou da comissão liquidatária, podendo, ainda, requerer ao juiz o que entender conveniente.
+
+2 - Para efeitos do disposto no número anterior, o Banco de Portugal pode examinar os elementos da contabilidade da instituição de crédito e solicitar ao liquidatário judicial ou à comissão liquidatária as informações e a apresentação dos elementos que considere necessários.
+
+3 - Por iniciativa própria, pode o Banco de Portugal apresentar em juízo os relatórios e pareceres julgados convenientes.
+
+4 - O Banco de Portugal tem legitimidade para reclamar ou recorrer das decisões judiciais que admitam reclamação ou recurso.
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2015-66868336)
+
+###### Artigo 15.º — Efeitos sobre a liquidação da suspensão de eficácia do acto de revogação
+
+1 - Os efeitos previstos na parte final do n.º 3 do artigo 40.º do CIRE apenas se produzem no caso de ter sido requerida a suspensão de eficácia do acto de revogação da autorização para o exercício da actividade, sem prejuízo da faculdade de o Banco de Portugal emitir resolução fundamentada, nos termos e com os efeitos previstos no artigo 128.º do Código de Processo nos Tribunais Administrativos.
+
+2 - Para efeitos do disposto no número anterior, o juiz determina o envio para o tribunal da liquidação de cópia das decisões que proferir relativamente ao requerimento de suspensão da eficácia do acto de revogação, solicitando às partes, se necessário, a indicação do tribunal e do processo.
+
+3 - Das decisões, ainda que não definitivas, que alterem, revoguem ou declarem a caducidade da providência de suspensão da eficácia, bem como das que julguem definitivamente procedente a impugnação contenciosa do acto de revogação, é igualmente enviada cópia ao tribunal da liquidação, sem prejuízo da faculdade que assiste a qualquer interessado regularmente notificado de requerer a junção da referida decisão ao processo de liquidação, para os efeitos do disposto no n.º 1.
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2015-66868336)
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 31-A/2012 - Diário da República n.º 30/2012, 1º Suplemento, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-a-2012-314946), em vigor a partir de 2012-02-15
+
+###### Artigo 15.º-A — Execução de sentença e interesse público
+
+O Banco de Portugal pode, em execução de sentença anulatória do acto de revogação da autorização para o exercício da actividade, invocar causa legítima de inexecução, nos termos conjugados do n.º 2 do artigo 175.º e do artigo 163.º do Código de Processo nos Tribunais Administrativos, iniciando-se, nesse caso, de imediato, o procedimento tendente à fixação da indemnização devida, de acordo com os trâmites previstos nos artigos 178.º e 166.º daquele mesmo Código.
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2015-66868336)
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 31-A/2012 - Diário da República n.º 30/2012, 1º Suplemento, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-a-2012-314946), em vigor a partir de 2012-02-15
+
+###### Artigo 15.º-B — Insolvência da sociedade-mãe
+
+1 - Se a instituição de crédito for totalmente dominada por outra sociedade ou mantiver a gestão da sua própria actividade subordinada, por contrato, à direcção de outra sociedade, nos termos do Código das Sociedades Comerciais, o Banco de Portugal pode requerer a insolvência da sociedade dominante ou directora, se tiver fundadas razões para concluir, a partir da situação patrimonial líquida da instituição de crédito dominada em liquidação, que o activo da sociedade dominante ou directora será provavelmente insuficiente para satisfazer o passivo próprio, acrescido do passivo não pago da instituição dominada.
+
+2 - Sem prejuízo dos direitos próprios dos credores nos processos de liquidação da sociedade dominante ou directora e da instituição de crédito dominada, os liquidatários nomeados colaboram entre si, nomeadamente trocando os relatórios elaborados nos termos da lei e prestando assistência mútua com vista a maximizar a recuperação de créditos.
+
+3 - Cabe ao Banco de Portugal exercer no processo de insolvência da sociedade dominante ou directora as competências que lhe são conferidas pelo artigo 14.º do presente diploma
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2015-66868336)
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 31-A/2012 - Diário da República n.º 30/2012, 1º Suplemento, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-a-2012-314946), em vigor a partir de 2012-02-15
+
+### Capítulo III — Saneamento e liquidação de âmbito comunitário
+
+#### Secção I — Instituições de crédito com sede em Portugal e com sucursais noutro Estado membro
+
+##### Subsecção I — Saneamento
+
+###### Artigo 16.º — Adopção de medidas de saneamento
+
+Compete ao Banco de Portugal adotar medidas de saneamento relativamente às instituições de crédito com sede em Portugal e às respetivas sucursais estabelecidas noutros Estados membros da União Europeia.
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2015-66868336), em vigor a partir de 2015-03-31
+
+###### Artigo 17.º — Informação às autoridades de cada Estado membro de acolhimento
+
+1 - Antes da respectiva decisão ou, não sendo possível, imediatamente depois, o Banco de Portugal deve informar as autoridades competentes de cada Estado membro de acolhimento acerca das medidas de saneamento adoptadas e dos seus efeitos concretos.
+
+2 - O previsto no número anterior não é aplicável aos casos de aplicação pelo Banco de Portugal de uma medida de resolução.
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2015-66868336), em vigor a partir de 2015-03-31
+
+###### Artigo 18.º — Publicação
+
+1 - Se a aplicação de medidas de saneamento for susceptível de afectar os direitos de terceiro no Estado membro de acolhimento, o Banco de Portugal publica um extracto da sua decisão no Jornal Oficial da União Europeia e em, pelo menos, dois jornais de circulação nacional no referido Estado membro.
+
+2 - O extracto da decisão é redigido na língua ou nas línguas oficiais do Estado membro de acolhimento, devendo mencionar, pelo menos, o objecto e o fundamento jurídico da decisão, os prazos de recurso, incluindo o respectivo termo, bem como o endereço das entidades competentes para conhecer do recurso.
+
+3 - A falta de publicação nos termos dos números anteriores não obsta à produção dos efeitos das medidas de saneamento.
+
+##### Subsecção II — Liquidação
+
+###### Artigo 19.º — Entrada em liquidação
+
+1 - A entrada em liquidação de instituições de crédito autorizadas em Portugal, incluindo as sucursais situadas noutros Estados membros da União Europeia, rege-se pelo disposto no presente decreto-lei.
+
+2 - Antes da decisão de revogação ou, não sendo possível, imediatamente depois, o Banco de Portugal deve informar as autoridades competentes de cada Estado membro de acolhimento acerca daquela decisão e dos seus efeitos concretos.
+
+3 - O disposto no número anterior aplica-se, com as necessárias adaptações, à dissolução voluntária.
+
+###### Artigo 20.º — Lei aplicável
+
+1 - Salvo o disposto em contrário neste decreto-lei, nomeadamente no n.º 3 do presente artigo e nos artigos 27.º a 34.º, as instituições de crédito referidas no artigo anterior são liquidadas de acordo com as leis, regulamentos e procedimentos aplicáveis em Portugal.
+
+2 - São determinados de acordo com a lei portuguesa, designadamente:
+
+a) Os bens que fazem parte da massa falida e o destino a dar aos bens adquiridos pela instituição de crédito após a instauração do processo de liquidação;
+
+b) A capacidade jurídica da instituição de crédito;
+
+c) Os poderes do liquidatário;
+
+d) Os efeitos do processo de liquidação sobre os contratos de que a instituição de crédito seja parte;
+
+e) Os efeitos do processo de liquidação sobre acções propostas por credores;
+
+f) Os créditos susceptíveis de reclamação e o destino a dar aos créditos constituídos após a instauração do processo de liquidação;
+
+g) As condições de oponibilidade da compensação;
+
+h) As normas relativas à reclamação, verificação e aprovação de créditos;
+
+i) As normas sobre distribuição do produto da liquidação dos bens, a graduação dos créditos e os direitos dos credores que tenham sido parcialmente satisfeitos após a instauração do processo de liquidação por força de direito real ou de compensação;
+
+j) As condições e os efeitos da extinção e da suspensão do processo de liquidação, nomeadamente por concordata;
+
+l) Os direitos dos credores após a extinção do processo de liquidação;
+
+m) As custas e despesas do processo de liquidação;
+
+n) As normas sobre nulidade, anulabilidade ou oponibilidade dos actos prejudiciais ao conjunto dos credores.
+
+3 - A lei portuguesa não é aplicável às hipóteses previstas na alínea n) do número anterior, quando o beneficiário dos actos prejudiciais ao conjunto dos credores faça prova, cumulativamente, de que:
+
+a) O acto prejudicial é regulado pela lei de outro Estado membro;
+
+b) No caso em apreço, essa lei proíbe a impugnação do acto por qualquer meio.
+
+###### Artigo 21.º — Publicação
+
+O Banco de Portugal publica no Jornal Oficial da União Europeia e em, pelo menos, dois jornais de circulação nacional em cada Estado membro de acolhimento um extracto da decisão referida no n.º 2 do artigo 19.º ou da deliberação da dissolução voluntária.
+
+###### Artigo 22.º — Notificação dos credores
+
+1 - Os credores conhecidos que tenham domicílio, residência habitual ou sede social noutros Estados membros devem ser notificados pelo liquidatário, com a brevidade possível, do despacho a que se referem os n.os 1 e 2 do artigo 9.º, devendo a notificação informar sobre os prazos a observar, as consequências da inobservância desses prazos, o tribunal competente para receber a reclamação dos créditos, bem como sobre outras medidas que tenham sido determinadas.
+
+2 - Os credores a que se refere o número anterior, cujos créditos gozem de privilégio ou garantia real, são igualmente informados sobre os termos em que possa ou deva processar-se a reclamação desses créditos.
+
+###### Artigo 23.º — Reclamação de créditos
+
+Os créditos cujos titulares tenham domicílio, residência habitual ou sede noutro Estado membro, incluindo os das autoridades públicas, podem ser reclamados e são graduados como os créditos de natureza equivalente cujos titulares tenham residência habitual, domicílio ou sede em Portugal.
+
+###### Artigo 24.º — Idiomas
+
+1 - A informação prevista nos artigos 21.º e 22.º é prestada em português, utilizando-se, para o efeito, um formulário em que figura, em todas as línguas oficiais da União Europeia, o título «Aviso de reclamação de créditos. Prazos legais a observar».
+
+2 - Os credores que tenham domicílio, residência habitual ou sede social noutro Estado membro podem reclamar os respectivos créditos na língua oficial desse Estado membro.
+
+3 - No caso previsto no número anterior, a reclamação dos créditos inclui em título a expressão «Reclamação de créditos», em língua portuguesa, podendo o liquidatário exigir tradução integral da reclamação para a língua portuguesa.
+
+#### Secção II — Sucursais em Portugal de instituições de crédito com sede noutro Estado membro
+
+###### Artigo 25.º — Saneamento
+
+Se o Banco de Portugal considerar necessária a aplicação de uma ou mais medidas de saneamento, a sucursal de instituição de crédito com sede noutro Estado membro da União Europeia deve informar desse facto as respectivas autoridades competentes.
+
+#### Secção III — Sucursais de instituições de crédito com sede em países não membros da União Europeia
+
+###### Artigo 26.º — Saneamento e liquidação
+
+1 - O Banco de Portugal deve informar as autoridades competentes dos Estados membros em que tenham sido estabelecidas sucursais constantes da lista referida no artigo 11.º da Directiva n.º <a href="eurlex.asp?ano=2000&id=300L0012" title="Link para Directiva da Comunidade Europeia">2000/12/CE</`�, do Parlamento Europeu e do Conselho, de 20 de Março, relativa ao acesso à actividade das instituições de crédito e seu exercício, por instituições com sede em países não membros da União Europeia, da adopção de medidas de saneamento ou da instauração de processos de liquidação relativamente a sucursal dessas instituições estabelecida em Portugal.
+
+2 - O Banco de Portugal e o tribunal competente para a liquidação da sucursal em Portugal coordenam as suas acções com as autoridades administrativas ou judiciais dos Estados membros a que se refere o número anterior, devendo o liquidatário nomeado no âmbito do processo de liquidação, incluindo, se for o caso, os administradores pré-judiciais, proceder da mesma maneira em relação aos seus congéneres.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 31-A/2012 - Diário da República n.º 30/2012, 1º Suplemento, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-a-2012-314946), em vigor a partir de 2012-02-15
+
+#### Secção IV — Disposições comuns
+
+##### Subsecção I — Lei aplicável a situações especiais
+
+###### Artigo 27.º — Efeitos sobre certos contratos e direitos
+
+Os efeitos da adopção de medidas de saneamento ou da instauração de processos de liquidação regulam-se:
+
+a) Pela lei do Estado membro aplicável ao contrato, quanto a contratos e relações de trabalho;
+
+b) Pela lei do Estado membro do registo, quanto a direitos relativos a bens imóveis, navios ou aeronaves sujeitos a inscrição em registo público;
+
+c) Quanto a contratos que confiram direitos de gozo sobre imóveis ou o direito à sua aquisição, pela lei do Estado membro em cujo território se situem esses imóveis, a qual determina igualmente a qualificação do bem como móvel ou imóvel.
+
+###### Artigo 28.º — Direitos reais de terceiros
+
+1 - A aplicação de medidas de saneamento ou a instauração de processos de liquidação não prejudica os direitos reais de credores ou de terceiros sobre bens corpóreos ou incorpóreos, móveis ou imóveis, incluindo as universalidades, pertencentes à instituição de crédito, que, no momento da aplicação dessas medidas ou da instauração desses processos, se encontrem no território de outro Estado membro.
+
+2 - O disposto no número anterior compreende, nomeadamente:
+
+a) O direito de reivindicar o bem ou de exigir a sua restituição;
+
+b) A consignação de rendimentos e outros direitos reais sobre o rendimento de bens;
+
+c) O direito de obter satisfação do crédito através do produto da alienação ou dos rendimentos de activos, designadamente em execução de caução ou hipoteca;
+
+d) O direito exclusivo de cobrança de dívidas, nomeadamente por força de prestação de caução ou transmissão da dívida a título de garantia.
+
+3 - Considera-se igualmente direito real o direito inscrito em registo público e oponível a terceiros que permita adquirir algum dos direitos previstos no n.º 1.
+
+4 - O disposto no presente artigo não prejudica a aplicação das normas previstas na alínea n) do n.º 2 do artigo 20.º
+
+###### Artigo 29.º — Actos supervenientes
+
+A validade dos actos de disposição a título oneroso, praticados após a adopção de medidas de saneamento ou após a instauração do processo de liquidação, regula-se:
+
+a) Pela lei do Estado membro da respectiva situação, tratando-se de imóvel;
+
+b) Pela lei do Estado membro do registo, tratando-se de navio ou aeronave sujeitos a inscrição em registo público;
+
+c) Pela lei do Estado membro do sistema centralizado, do registo ou depósito, ou da conta, relativamente a instrumentos financeiros ou direitos sobre estes instrumentos, cuja existência ou transmissão pressuponha a sua inscrição em sistema centralizado, registo ou depósito, ou em conta.
+
+###### Artigo 30.º — Compra e venda de activos
+
+Sem prejuízo da aplicação das normas a que se refere a alínea n) do n.º 2 do artigo 20.º, a adopção de medidas de saneamento ou a instauração de processos de liquidação não prejudica:
+
+a) Os direitos do vendedor de activos à instituição de crédito que se fundamentem em reserva de propriedade, se, no momento da adopção da medida ou da instauração do processo, os activos se encontrarem no território de outro Estado membro;
+
+b) A aquisição de activos à instituição de crédito, por esta já entregues, nem constitui fundamento para resolução da sua compra, se, no momento da adopção da medida ou da instauração do processo, aqueles activos se encontrarem no território de outro Estado membro.
+
+###### Artigo 31.º — Compensação
+
+Sem prejuízo da aplicação das normas a que se refere a alínea n) do n.º 2 do artigo 20.º, a adopção de medidas de saneamento ou a instauração de processo de liquidação não prejudica o direito dos credores à compensação dos seus créditos com os da instituição em causa, desde que esse direito seja reconhecido pela lei aplicável aos créditos da instituição.
+
+###### Artigo 32.º — Instrumentos financeiros
+
+1 - Regula-se pela lei do Estado membro do sistema centralizado, do registo ou depósito, ou da conta, o exercício de direitos de propriedade ou de outros direitos sobre instrumentos financeiros, cuja existência ou transmissão pressuponha a sua inscrição em sistema centralizado, registo ou depósito, ou em conta.
+
+2 - Sem prejuízo do disposto no número anterior, as transações efetuadas no quadro de um mercado regulamentado regem-se exclusivamente pela lei aplicável aos respetivos contratos.
+
+3 - Sem prejuízo do disposto no n.º 1 e nos artigos 145.º-AB e 145.º-AV do RGICSF, os contratos de reporte regem-se exclusivamente pela lei aplicável aos respetivos contratos.
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2015-66868336), em vigor a partir de 2015-03-31
+
+###### Artigo 33.º — Convenções de compensação e de novação
+
+Sem prejuízo do disposto nos artigos 145.º-AB e 145.º-AV do RGICSF, as convenções de compensação e de novação (netting agreements) regem-se exclusivamente pela lei aplicável ao respetivo contrato.
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2015-66868336), em vigor a partir de 2015-03-31
+
+###### Artigo 34.º — Processos pendentes
+
+Os efeitos da adopção de medidas de saneamento ou da instauração de processos de liquidação sobre processos pendentes que tenham por objecto actos que envolvam diminuição da garantia patrimonial da instituição de crédito regulam-se exclusivamente pela lei do Estado membro em que os processos estejam pendentes.
+
+##### Subsecção II — Poderes do administrador e do liquidatário
+
+###### Artigo 35.º — Exercício de poderes
+
+1 - Os administradores ou o liquidatário podem exercer em território nacional os poderes que estão habilitados a exercer no Estado membro em que tenham sido adoptadas medidas de saneamento ou instaurado o processo de liquidação.
+
+2 - Os administradores ou o liquidatário podem designar pessoas que os coadjuvem ou os representem no âmbito das medidas de saneamento ou processo de liquidação.
+
+3 - No exercício dos seus poderes, os administradores ou o liquidatário observam a lei portuguesa, em particular, no que respeita às modalidades de venda dos bens.
+
+###### Artigo 36.º — Prova da nomeação dos liquidatários
+
+1 - A prova da nomeação dos administradores ou do liquidatário, incluindo, se for o caso, dos administradores pré-judiciais, é efectuada mediante apresentação de cópia autenticada da decisão da sua nomeação ou de certificado emitido pelas autoridades competentes.
+
+2 - Pode ser exigida aos administradores ou ao liquidatário a tradução dos documentos referidos no número anterior, sem dependência de legalização dessa tradução ou de qualquer outra formalidade.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 31-A/2012 - Diário da República n.º 30/2012, 1º Suplemento, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-a-2012-314946), em vigor a partir de 2012-02-15
+
+###### Artigo 37.º — Inscrição em registo público
+
+Sem prejuízo da respectiva obrigatoriedade, quando prevista, os administradores, o liquidatário, incluindo, se for o caso, os administradores pré-judiciais, e as autoridades administrativas ou judiciais têm legitimidade para requerer a inscrição das medidas de saneamento ou de instauração do processo de liquidação no registo predial ou comercial.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 31-A/2012 - Diário da República n.º 30/2012, 1º Suplemento, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-a-2012-314946), em vigor a partir de 2012-02-15
+
+#### Secção V — Decisões tomadas noutros Estados membros
+
+###### Artigo 38.º — Reconhecimento de decisões
+
+As decisões de adopção de medidas de saneamento e de instauração de processos de liquidação tomadas pelas autoridades administrativas ou judiciais de outro Estado membro, em conformidade com o disposto na Directiva n.º <a href="eurlex.asp?ano=2001&id=301L0024" title="Link para Directiva da Comunidade Europeia">2001/24/CE</a>, do Parlamento Europeu e do Conselho, de 4 de Abril, são reconhecidas em Portugal, independentemente de revisão, confirmação ou de outra formalidade de efeito equivalente.
+
+### Capítulo IV — Disposições finais e transitórias
+
+###### Artigo 39.º — Cumprimento das obrigações
+
+1 - É liberatório o pagamento feito a instituição de crédito que não seja pessoa colectiva, em liquidação noutro Estado membro, se, no momento do pagamento, a instauração do processo de liquidação for desconhecida de quem o efectue.
+
+2 - Salvo prova em contrário, presume-se:
+
+a) Não haver conhecimento da instauração do processo de liquidação se o pagamento tiver sido efectuado antes da publicação a que alude o artigo 21.º;
+
+b) Haver conhecimento da instauração do processo de liquidação se o pagamento tiver sido efectuado após a publicação referida na alínea anterior.
+
+###### Artigo 40.º — Segredo profissional
+
+Ficam sujeitas ao dever de segredo, nos termos do disposto no RGICSF, todas as pessoas intervenientes na aplicação de medidas de saneamento ou em processos de liquidação.
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2015-66868336), em vigor a partir de 2015-03-31
+
+###### Artigo 41.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 30689, de 27 de Agosto de 1940, com excepção das normas relativas à liquidação que continuam a aplicar-se às caixas de crédito agrícola mútuo pertencentes ao Sistema Integrado do Crédito Agrícola Mútuo, nos termos da respectiva legislação especial.
+
+###### Artigo 42.º — Entrada em vigor e aplicação no tempo
+
+1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+2 - O presente decreto-lei apenas é aplicável às medidas de saneamento adoptadas ou aos processos de liquidação instaurados após a sua entrada em vigor.
+
+Visto e aprovado em Conselho de Ministros de 3 de Agosto de 2006. - António Luís Santos Costa - Manuel Lobo Antunes - João José Amaral Tomaz - José Manuel Vieira Conde Rodrigues.
+
+Promulgado em 13 de Outubro de 2006.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 18 de Outubro de 2006.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

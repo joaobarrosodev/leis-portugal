@@ -1,0 +1,346 @@
+---
+schema_version: '1.0'
+id: pt:dre:25344757:por
+title: Decreto-Lei n.º 53/2014
+short_title: null
+summary: Estabelece um regime excecional e temporário a aplicar à reabilitação de edifícios ou de frações, cuja construção
+  tenha sido concluída há pelo menos 30 anos ou localizados em áreas de reabilitação urbana, sempre que estejam afetos ou
+  se destinem a ser afetos total ou predominantemente ao uso habitacional
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente, Ordenamento do Território e Energia
+proposing_entity: null
+official_number: 53/2014
+official_date: null
+publication_date: '2014-04-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 69/2014, Série I de 2014-04-08
+  number: '69'
+  series: I
+  supplement: null
+  pages: 2337 - 2340
+  pdf_url: https://files.diariodarepublica.pt/1s/2014/04/06900/0233702340.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2019-11-15'
+version_history:
+  file: decreto-lei-53-2014.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2013-12-01'
+    amending: pt:dre:70280719:por
+    amending_title: Decreto-Lei n.º 194/2015
+    changes:
+    - Altera Artigo 6.º
+  - date: '2019-11-15'
+    amending: pt:dre:123279819:por
+    amending_title: Decreto-Lei n.º 95/2019
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/53/2014/p/cons/20190718/pt/html
+  oj: null
+  dre: '25344757'
+  dre_path: /dr/detalhe/decreto-lei/53-2014-25344757
+  internal: pt:dre:25344757:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2014-25344757
+  metadata_url: https://data.dre.pt/eli/dec-lei/53/2014/p/cons/20190718/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-105770293
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-105770293
+  retrieved_at: '2026-10-22T12:09:56Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 280ccf258e6b81ea0b3788363797888225969054711e349125dafb7f5c6e7896
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:09:56Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-53-2014.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- ÁREA de Reabilitação Urbana
+- Património
+- Construção Civil
+- Obras Particulares
+- Obras de Conservação e Restauro
+- Contra-ordenação
+- Renovação Urbana
+- Comissão
+- Fiscalização
+- Instituto da Habitação e da Reabilitação Urbana
+- Obras Municipais
+- Urbanismo
+- Património Arquitectónico
+- Câmara Municipal
+- Regime Jurídico
+- Habitação
+- Regulamento Geral das Edificações Urbanas
+- Prédio Urbano
+- Eficiência Energética
+- Autarquia Local
+- Vistoria
+relationships:
+- type: amended_by
+  target: pt:dre:70280719:por
+  label: Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2015-70280719
+  date: '2015-09-14'
+- type: amended_by
+  target: pt:dre:123279819:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2019-123279819
+  date: '2019-07-18'
+- type: cites
+  target: pt:dre:175304:por
+  label: null
+  source: http://data.dre.pt/eli/lei/30/2012/08/14/p/dre
+- type: cites
+  target: pt:dre:175305:por
+  label: null
+  source: http://data.dre.pt/eli/lei/31/2012/08/14/p/dre
+- type: cites
+  target: pt:dre:175306:por
+  label: null
+  source: http://data.dre.pt/eli/lei/32/2012/08/14/p/dre
+- type: cites
+  target: pt:dre:368263:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/129/2002/05/11/p/dre
+- type: cites
+  target: pt:dre:449682:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/96/2008/06/09/p/dre
+- type: cites
+  target: pt:dre:483155:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/307/2009/10/23/p/dre
+- type: cites
+  target: pt:dre:490675:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/258/2009/09/25/p/dre
+- type: cites
+  target: pt:dre:497859:por
+  label: null
+  source: http://data.dre.pt/eli/lei/47/2013/07/1
+- type: cites
+  target: pt:dre:538624:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/163/2006/08/08/p/dre
+- type: cites
+  target: pt:dre:608758:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/123/2009/05/21/p/dre
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:09:56Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 53/2014
+
+Decreto-Lei n.º 53/2014
+
+de 8 de abril
+
+A promoção da reabilitação urbana constitui um objetivo estratégico e um desígnio nacional assumido no Programa do XIX Governo Constitucional. Com efeito, a política do ordenamento do território do Governo dá prioridade a uma aposta num paradigma de cidades com sistemas coerentes e bairros vividos.
+
+Com efeito, a reabilitação do edificado existente em Portugal representa apenas cerca de 6,5 % do total da atividade do setor da construção, bastante aquém da média europeia, situada nos 37 %. Acresce que, de acordo com os Censos 2011, existem cerca de dois milhões de fogos a necessitar de recuperação, o que representa cerca de 34% do parque habitacional nacional.
+
+A alteração ao Decreto-Lei n.º 307/2009, de 23 de outubro, que estabelece o regime jurídico da reabilitação urbana, operada pela Lei n.º 32/2012, de 14 de agosto, constitui um passo decisivo no sentido da sua agilização e dinamização, flexibilizando e simplificando os procedimentos de criação de áreas de reabilitação urbana, criando um procedimento simplificado de controlo prévio de operações urbanísticas e regulando a reabilitação urbana de edifícios ou frações, ainda que localizados fora de áreas de reabilitação urbana, cuja construção tenha sido concluída há pelo menos 30 anos e em que se justifique uma intervenção de reabilitação destinada a conferir-lhes adequadas caraterísticas de desempenho e de segurança.
+
+A revisão do regime jurídico da reabilitação urbana ali preconizada reforçou o conceito de «proteção do existente», já previsto no Decreto-Lei n.º 307/2009, de 23 de outubro. De acordo com o regime específico de proteção do existente, é permitida a não observância de normas legais ou regulamentares supervenientes à construção originária, desde que a operação de reabilitação urbana não origine ou agrave a desconformidade com essas normas ou permita mesmo a melhoria generalizada do estado do edifício. Em todo o caso, a não observância de tais regras de construção deve ser identificada e fundamentada pelo técnico autor do projeto de reabilitação, mediante termo de responsabilidade, reforçando-se, em contrapartida, a responsabilidade do mesmo técnico, designadamente pelas suas declarações.
+
+A revisão operada pela referida Lei n.º 32/2012, de 14 de agosto, inscreve-se num amplo e profundo conjunto de reformas centrado na aposta clara do Governo na redução do endividamento das famílias e do desemprego, na promoção da mobilidade das pessoas, na requalificação e revitalização das cidades e na dinamização das atividades económicas associadas ao setor da construção.
+
+Neste contexto abrangente, a reabilitação urbana e o mercado de arrendamento constituem domínios estratégicos e essenciais, cuja estreita conexão se afigura indiscutível e que, por isso, foram objeto de um tratamento integrado, articulando-se a referida alteração ao regime jurídico da reabilitação urbana com a reforma do arrendamento urbano operada pelas Leis n.os 30/2012 e 31/2012, ambas de 14 de agosto.
+
+A importância da reabilitação urbana como fator de desenvolvimento das cidades e da economia aconselha a que se continue a trabalhar no sentido da sua máxima promoção, adotando medidas complementares às previstas no Decreto-Lei n.º 307/2009, de 23 de outubro, com a redação dada pela Lei n.º 32/2012, de 14 de agosto.
+
+Nesse âmbito, através do despacho n.º 14574/2012, de 5 de novembro, dos Ministros da Economia e do Emprego e da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, publicado no Diário da República, 2.ª série, n.º 218, de 12 de novembro de 2012, foi criada uma comissão redatora, de natureza multidisciplinar (Comissão), que assumiu a missão de elaborar um projeto de diploma que estabelecesse as «Exigências Técnicas Mínimas para a Reabilitação de Edifícios Antigos», regime excecional e temporário visando, em complemento das medidas consagradas no Decreto-Lei n.º 307/2009, de 23 de outubro, com a redação dada pela Lei n.º 32/2012, de 14 de agosto, dispensar as obras de reabilitação urbana da sujeição a determinadas normas técnicas aplicáveis à construção, quando as mesmas, por terem sido orientadas para a construção nova e não para a reabilitação de edifícios existentes, possam constituir um entrave à dinamização da reabilitação urbana.
+
+O presente decreto-lei resulta, assim, do trabalho da referida Comissão, adotando medidas excecionais e temporárias de simplificação administrativa, que reforçam o objetivo de dinamização, de forma efetiva, dos processos administrativos de reabilitação urbana.
+
+A reabilitação urbana deve assumir-se como uma realidade economicamente viável em todas as áreas consolidadas, garantindo-se a sua execução para todas as populações e para a habitação já existente, e não apenas para nichos de mercado.
+
+As soluções preconizadas no presente decreto-lei partem de um princípio diferente daquele que dirigiu a política do território nas últimas décadas. A reabilitação urbana é diversa da construção nova e, nesse sentido, deve ser olhada e regulada de acordo com a sua diversidade. Desta feita, na esteira dos diversos procedimentos legislativos atualmente em curso, dos quais se destacam a Lei de Bases da Política de Solos, de Ordenamento do Território e de Urbanismo e o Regime Jurídico da Urbanização e Edificação, adota-se uma nova visão, optando-se por uma reabilitação evolutiva que permita a melhoria das condições de habitabilidade, em equilíbrio com o edificado existente e a capacidade económica do proprietário.
+
+Deste modo, ao invés de uma aposta em novas construções, a política do ordenamento do território desenvolvida pelo Governo privilegia a reabilitação através de operações urbanísticas de conservação, alteração, reconstrução e ampliação, enquanto soluções mais adequadas à atual realidade do país.
+
+Promove-se, assim, o regresso das populações aos centros históricos dos aglomerados urbanos, que se encontram hoje despovoados e envelhecidos.
+
+Neste contexto, o decreto-lei prevê a dispensa temporária do cumprimento de algumas normas previstas em regimes especiais relativos à construção, desde que, em qualquer caso, as operações urbanísticas não originem desconformidades, nem agravem as existentes, ou contribuam para a melhoria das condições de segurança e salubridade do edifício ou fração.
+
+Assim, no que respeita ao Regulamento Geral das Edificações Urbanas aprovado pelo Decreto-Lei n.º 38 382, de 7 de agosto de 1951, prevê-se a dispensa da observância de disposições técnicas cujo cumprimento importa custos incomportáveis e que não se traduzem numa verdadeira garantia da habitabilidade do edificado reabilitado. A referida dispensa incide, designadamente, sobre aspetos relacionados com áreas mínimas de habitação, altura do pé-direito ou instalação de ascensores.
+
+Do mesmo modo, o presente regime prevê a dispensa de observância de determinados requisitos resultantes dos regimes jurídicos em vigor sobre acessibilidades, requisitos acústicos, eficiência energética e qualidade térmica, instalações de gás e infraestruturas de telecomunicações em edifícios. Tal não prejudica, no entanto, a manutenção da aplicação desses regimes na parte em que o presente decreto-lei não disponha em contrário.
+
+Com vista a conferir segurança aos investimentos que sejam realizados ao abrigo do presente regime, salvaguarda-se, expressamente, que as operações de reabilitação que venham a ser realizadas com dispensa dos requisitos nele previstos, não são afetadas pela cessação de vigência do regime excecional, desde que seja mantido um uso habitacional predominante.
+
+Promove-se, desta forma, uma política urbana capaz de responder às necessidades e recursos de hoje, num edificado já existente e que importa recuperar tornando-o atrativo e capaz de gerar riqueza agora e no futuro.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas e a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei estabelece um regime excecional e temporário aplicável à reabilitação de edifícios ou de frações, cuja construção tenha sido concluída há pelo menos 30 anos ou localizados em áreas de reabilitação urbana, sempre que se destinem a ser afetos total ou predominantemente ao uso habitacional.
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 95/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2019-123279819), em vigor a partir de 2019-11-15
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - O presente decreto-lei aplica-se à reabilitação de edifícios ou de frações, concluídos há pelo menos 30 anos ou localizados em áreas de reabilitação urbana, sempre que se destinem a ser afetos total ou predominantemente ao uso habitacional e desde que a operação urbanística não origine desconformidades, nem agrave as existentes, ou contribua para a melhoria das condições de segurança e salubridade do edifício ou fração.
+
+2 - Consideram-se operações de reabilitação, para efeitos do número anterior, as seguintes operações urbanísticas:
+
+a) Obras de conservação;
+
+b) Obras de alteração;
+
+c) Obras de reconstrução;
+
+d) Obras de construção ou de ampliação, na medida em que sejam condicionadas por circunstâncias preexistentes que impossibilitem o cumprimento da legislação técnica aplicável, desde que não ultrapassem os alinhamentos e a cércea superior das edificações confinantes mais elevadas e não agravem as condições de salubridade ou segurança de outras edificações;
+
+e) Alterações de utilização.
+
+3 - Considera-se que um edifício ou fração se destina a ser afeto, predominantemente, a uso habitacional quando pelo menos 50% da sua área se destine a habitação e a usos complementares, designadamente, estacionamento, arrecadação ou usos sociais.
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 95/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2019-123279819), em vigor a partir de 2019-11-15
+
+###### Artigo 3.º — Dispensa de aplicação do Regulamento Geral das Edificações Urbanas
+
+1 - As operações urbanísticas identificadas no artigo anterior, são dispensadas da observância das normas constantes dos artigos 45.º a 52.º e 59.º a 70.º, do artigo 71.º sem prejuízo da existência de, pelo menos, um vão em cada compartimento de habitação, e dos artigos 72.º, 73.º, 75.º a 80.º, 84.º a 88.º e 97.º do Regulamento Geral das Edificações Urbanas, aprovado pelo Decreto-Lei n.º 38 382, de 7 de agosto de 1951.
+
+2 - Sem prejuízo do disposto no número anterior, a alteração de parte de edifício ou de fração autónoma de uso habitacional para uso não habitacional, sem que se altere o uso predominante habitacional do edifício, pode efetuar-se mantendo-se o pé-direito preexistente.
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 95/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2019-123279819), em vigor a partir de 2019-11-15
+
+###### Artigo 4.º — Dispensa de aplicação do regime legal de acessibilidades
+
+As operações urbanísticas objeto do presente decreto-lei estão dispensadas do cumprimento de normas técnicas sobre acessibilidades previstas no regime que define as condições de acessibilidade a satisfazer no projeto e na construção de espaços públicos, equipamentos coletivos e edifícios públicos e habitacionais, aprovado pelo Decreto-Lei n.º 163/2006, de 8 de agosto.
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 95/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2019-123279819), em vigor a partir de 2019-11-15
+
+###### Artigo 5.º — Dispensa de aplicação de requisitos acústicos
+
+As operações urbanísticas identificadas no n.º 2 do artigo 2.º estão dispensadas do cumprimento de requisitos acústicos, previstos no Regulamento dos Requisitos Acústicos dos Edifícios, aprovado pelo Decreto-Lei n.º 129/2002, de 11 de maio, alterado pelo Decreto-Lei n.º 96/2008, de 9 de junho, com exceção das que tenham por objeto partes de edifício ou frações autónomas destinados a usos não habitacionais.
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 95/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2019-123279819), em vigor a partir de 2019-11-15
+
+###### Artigo 6.º — Requisitos de eficiência energética e qualidade térmica
+
+1 - As operações urbanísticas identificadas no n.º 2 do artigo 2.º devem cumprir os requisitos mínimos de eficiência energética e de qualidade térmica, salvo nas situações de inviabilidade de ordem técnica, funcional e ou económica, admitidas nos termos do Decreto-Lei n.º 118/2013, de 20 de agosto.
+
+2 - A inviabilidade de ordem técnica, funcional e ou económica dos requisitos mínimos de eficiência energética e de qualidade térmica nas operações urbanísticas referidas no número anterior deve ser fundamentada, de acordo com os termos do Decreto-Lei n.º 118/2013, de 20 de agosto.
+
+3 - As exigências legais de instalação de sistemas solares térmicos para aquecimento de água sanitária, assim como o recurso a formas alternativas e renováveis de energia são obrigatórias, salvo nas situações de inviabilidade de ordem técnica, funcional e ou económica, admitidas nos termos do Decreto-Lei n.º 118/2013, de 20 de agosto.
+
+4 - A inviabilidade de ordem técnica, funcional e ou económica da instalação de sistemas solares térmicos para aquecimento de água sanitária, assim como o recurso a formas alternativas e renováveis de energia, referidas no número anterior, deve ser fundamentada, de acordo com os termos do Decreto-Lei n.º 118/2013, de 20 de agosto.
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 95/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2019-123279819), em vigor a partir de 2019-11-15
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 194/2015 - Diário da República n.º 179/2015, Série I de 2015-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2015-70280719), em vigor a partir de 2013-12-01
+
+###### Artigo 7.º — Instalações de gás em edifícios
+
+Não é obrigatória a instalação de redes de gás, nem a apresentação do respetivo projeto, relativamente aos edifícios abrangidos pelo âmbito de aplicação do presente decreto-lei, quando não esteja prevista a sua utilização e desde que esteja prevista outra fonte energética.
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 95/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2019-123279819), em vigor a partir de 2019-11-15
+
+###### Artigo 8.º — Infraestruturas de telecomunicações em edifícios
+
+1 - Nos edifícios abrangidos pelo âmbito de aplicação do presente decreto-lei apenas é obrigatória a instalação das seguintes infraestruturas de telecomunicações:
+
+a) Espaços para as tubagens da coluna montante do edifício;
+
+b) As redes de tubagem necessárias para a eventual instalação posterior de diversos equipamentos, cabos e outros dispositivos;
+
+c) Passagem aérea de topo e entrada de cabos subterrânea;
+
+d) Sistemas de cablagem em pares de cobre, cabo coaxial, para distribuição de sinais sonoros e televisivos do tipo A e em fibra ótica.
+
+2 - As tubagens referidas no número anterior devem garantir a ligação das redes e infraestruturas públicas de comunicações do exterior do edifício até ao interior do mesmo e, no caso das infraestruturas previstas nas alíneas b) e d), a uma das divisões secas de maior dimensão de cada fração.
+
+3 - O incumprimento do disposto no presente artigo configura a não instalação de infraestruturas obrigatórias, constituindo contraordenação muito grave sancionável nos termos da alínea a) do n.º 3 e nos n.os 10 a 14 do artigo 89.º do Decreto-Lei n.º 123/2009, de 21 de maio, alterado pelo Decreto-Lei n.º 258/2009, de 25 de setembro, e pela Lei n.º 47/2013, de 10 de julho.
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 95/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2019-123279819), em vigor a partir de 2019-11-15
+
+###### Artigo 9.º — Salvaguarda estrutural
+
+As intervenções em edifícios existentes não podem diminuir as condições de segurança e de salubridade da edificação nem a segurança estrutural e sísmica do edifício.
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 95/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2019-123279819), em vigor a partir de 2019-11-15
+
+###### Artigo 10.º — Prevalência de regime
+
+Na parte em que o presente decreto-lei não disponha em contrário, mantêm-se aplicáveis os regimes jurídicos que incidem sobre as matérias nele reguladas, assim como as normas dos instrumentos de gestão territorial aplicáveis às operações urbanísticas que constituem o seu objeto.
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 95/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2019-123279819), em vigor a partir de 2019-11-15
+
+###### Artigo 11.º — Período de vigência
+
+1 - O regime previsto no presente decreto-lei vigora pelo período de sete anos contados da sua entrada em vigor, sem prejuízo do disposto nos números seguintes.
+
+2 - O disposto no presente decreto-lei aplica-se aos procedimentos de controlo prévio das operações urbanísticas de reabilitação de edifícios ou de frações pendentes à data da sua entrada em vigor, bem como aos pendentes à data da cessação da vigência do presente decreto-lei.
+
+3 - Quando se trate de operação urbanística de reabilitação isenta de controlo prévio, o disposto no presente decreto-lei aplica-se ainda às obras pendentes à data da cessação da vigência do presente decreto-lei.
+
+4 - As operações realizadas ao abrigo do presente regime não são afetadas pela cessação de vigência do presente decreto-lei, enquanto os edifícios ou frações mantiverem um uso habitacional predominante.
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 95/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2019-123279819), em vigor a partir de 2019-11-15
+
+###### Artigo 12.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 95/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2019-123279819), em vigor a partir de 2019-11-15
+
+Visto e aprovado em Conselho de Ministros de 20 de fevereiro de 2014. - Pedro Passos Coelho - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva.
+
+Promulgado em 2 de abril de 2014.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 3 de abril de 2014.
+
+O Primeiro-Ministro, Pedro Passos Coelho.
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 95/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2019-123279819), em vigor a partir de 2019-11-15

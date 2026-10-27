@@ -1,0 +1,1056 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32003L0099:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0099-20130701",
+ "dre_path": null,
+ "source_lastmod": "2013-07-01",
+ "versions": [
+  {
+   "date": "2003-12-12",
+   "future": false,
+   "celex": "32003L0099",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fb1d6677f1390c77",
+    "0d22343ba099b06b",
+    "c848c2afadcff4ea",
+    "7509eec6d16f31d2",
+    "e7a6635a9cccd521",
+    "829f850c623f2ac9",
+    "b20530aca91f12a3",
+    "2c9a29c480c63d01",
+    "da263cc52da8a0e8",
+    "97fd77be919b0b4e",
+    "e30b9c1273298e2f",
+    "94c13538cd7d6026",
+    "e7dfce3690dda164",
+    "eecc479ebd3faada",
+    "c2e9a3b23f5c927e",
+    "8ae9a4bf63c8c6ae",
+    "407d663607ab7e39",
+    "a85bcfc0ce366f13",
+    "8efa734c8be855c6",
+    "9218641da61c2004",
+    "bec9ce0bce357edc",
+    "07f9e857a0003037",
+    "b96b5c9179e3c8bd"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "02003L0099-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:32006L0104:por",
+     "title": "DIRECTIVA 2006/104/CE DO CONSELHO de 20 de Novembro de 2006",
+     "published": null,
+     "celex": "32006L0104"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 16.º — Alteração da Decisão 90/424/CEE",
+    "Altera Artigo 18.º — Destinatários",
+    "Adita CAPÍTULO I",
+    "Adita DISPOSIÇÕES INTRODUTÓRIAS",
+    "Adita Artigo 1.º — Objecto e âmbito de aplicação",
+    "Adita CAPÍTULO II",
+    "Adita VIGILÂNCIA DE ZOONOSES E DE AGENTES ZOONÓTICOS",
+    "Adita Artigo 4.º — Regras gerais aplicáveis à vigilância de zoonoses e agentes zoonóticos",
+    "Adita CAPÍTULO III",
+    "Adita RESISTÊNCIA ANTIMICROBIANA",
+    "Adita Artigo 7.º — Vigilância da resistência antimicrobiana",
+    "Adita CAPÍTULO IV",
+    "Adita FOCOS PATOGÉNICOS DE ORIGEM ALIMENTAR",
+    "Adita Artigo 8.º — Investigação epidemiológica dos focos patogénicos de origem alimentar",
+    "Adita CAPÍTULO V",
+    "Adita INTERCÂMBIO DE INFORMAÇÕES",
+    "Adita Artigo 9.º — Avaliação das tendências e origens das zoonoses,",
+    "Adita CAPÍTULO VI",
+    "Adita LABORATÓRIOS",
+    "Adita Artigo 10.º — Laboratórios comunitários e nacionais de referência",
+    "Adita CAPÍTULO VII",
+    "Adita EXECUÇÃO",
+    "Adita Artigo 11.º — Alterações dos anexos e medidas de transição ou de aplicação",
+    "Adita CAPÍTULO VIII",
+    "Adita DISPOSIÇÕES FINAIS",
+    "Adita Artigo 15.º — Revogação",
+    "Adita ANEXO I",
+    "Adita A. Zoonoses e agentes zoonóticos a incluir na vigilância",
+    "Adita B. Lista de zoonoses e agentes zoonóticos a vigiar em função da situação epidemiológica",
+    "Adita 1. Zoonoses virais",
+    "Adita 2. Zoonoses bacterianas",
+    "Adita 3. Zoonoses parasitárias",
+    "Adita 4. Outras zoonoses e agentes zoonóticos",
+    "Adita ANEXO II",
+    "Adita Requisitos para a vigilância da resistência antimicrobiana nos termos do artigo 7.º",
+    "Adita A. Requisitos gerais",
+    "Adita B. Requisitos específicos",
+    "Adita ANEXO III",
+    "Adita Programas coordenados de vigilância tal como referidos no artigo 5.º",
+    "Adita ANEXO IV",
+    "Adita Requisitos aplicáveis aos relatórios a apresentar nos termos do n.º 1 do artigo 9.º",
+    "Adita Notas",
+    "Suprime CAPÍTULO I DISPOSIÇÕES INTRODUTÓRIAS — Artigo 1.o",
+    "Suprime CAPÍTULO II VIGILÂNCIA DE ZOONOSES E DE AGENTES ZOONÓTICOS — Artigo 4.o",
+    "Suprime CAPÍTULO III RESISTÊNCIA ANTIMICROBIANA — Artigo 7.o",
+    "Suprime CAPÍTULO IV FOCOS PATOGÉNICOS DE ORIGEM ALIMENTAR — Artigo 8.o",
+    "Suprime CAPÍTULO V INTERCÂMBIO DE INFORMAÇÕES — Artigo 9.o",
+    "Suprime CAPÍTULO VI LABORATÓRIOS — Artigo 10.o",
+    "Suprime CAPÍTULO VII EXECUÇÃO — Artigo 11.o",
+    "Suprime CAPÍTULO VIII DISPOSIÇÕES FINAIS — Artigo 15.o",
+    "Suprime ANEXO I — A. Zoonoses e agentes zoonóticos a incluir na vigilância",
+    "Suprime ANEXO II — Requisitos para a vigilância da resistência antimicrobiana nos termos do artigo 7.o",
+    "Suprime ANEXO III — Programas coordenados de vigilância tal como referidos no artigo 5.o",
+    "Suprime ANEXO IV — Requisitos aplicáveis aos relatórios a apresentar nos termos do n.o 1 do artigo 9.o"
+   ],
+   "fragments": [
+    "1a99101de44440d7",
+    "226c39ffd0a88dad",
+    "95110ef01b194c22",
+    "a85ba5be279c2be9",
+    "ccbe1fa0ceaf25d6",
+    "d7f9601cfe61181d",
+    "f0f8c960bfdbce9b",
+    "7b8aa0c3f719bddb",
+    "8a1a42fdb6beba74",
+    "a3502898a5994154",
+    "db617fa275f0fa03",
+    "1e7a0903d2eed348",
+    "6a01dd69c390dd25",
+    "f51dcc97f987c906",
+    "1ecfc79da3f1ac7f",
+    "bab5c65a29375f3c",
+    "6039136a678f0ea5",
+    "40ed6b62e188ac6f",
+    "0f5b68b3eedad23d",
+    "c06950de5a95e7e3",
+    "b76d202a844f758e",
+    "7e920e5c813d57e7",
+    "321de7ac42ec78a0",
+    "7fd045ac4f655f13",
+    "39ad9011ff417418",
+    "d96dbfc8756b450e",
+    "a7f2fbec56bd7fda",
+    "d1cfacc597ebb525",
+    "c2e9a3b23f5c927e",
+    "99973826fcc02605",
+    "dde9cf53e9ae6c9a",
+    "45c9453db6f712da",
+    "7f742b4f29d0415c",
+    "0dfd3899a1951042",
+    "04efa56f77cbb987",
+    "d664376e2a8dcecd",
+    "8e836197eb71ef42",
+    "2a63446faf6ffc9a",
+    "d7aa3eb035e31bfb",
+    "55a4bfbe5ef9f7cc",
+    "d88c96df5653a1a0",
+    "4e86942bf1604489",
+    "852174729551523b",
+    "4a6f9d5b58e0e9a4",
+    "50ce761c0ddcbf23",
+    "dc2829fb19a52a0a",
+    "720af75c92791b10",
+    "59c60fdc453fff92",
+    "e03a0eb4d5b2eef3",
+    "3d26f380a961c58d",
+    "eeb9fd743cd47ee6"
+   ]
+  },
+  {
+   "date": "2009-04-20",
+   "future": false,
+   "celex": "02003L0099-20090420",
+   "acts": [
+    {
+     "id": "eu:celex:32009R0219:por",
+     "title": "REGULAMENTO (CE) n. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009",
+     "published": null,
+     "celex": "32009R0219"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º — Regras gerais aplicáveis à vigilância de zoonoses e agentes zoonóticos",
+    "Altera Artigo 5.º — Programas coordenados de vigilância",
+    "Altera Artigo 9.º — Avaliação das tendências e origens das zoonoses,",
+    "Altera Artigo 12.º — Comité",
+    "Altera Artigo 16.º — Alteração da Decisão 90/424/CEE",
+    "Altera Notas",
+    "Adita Artigo 11.º",
+    "Suprime Artigo 11.º — Alterações dos anexos e medidas de transição ou de aplicação"
+   ],
+   "fragments": [
+    "182f83b4cfecef01",
+    "226c39ffd0a88dad",
+    "95110ef01b194c22",
+    "a85ba5be279c2be9",
+    "ccbe1fa0ceaf25d6",
+    "d7f9601cfe61181d",
+    "f0f8c960bfdbce9b",
+    "7b8aa0c3f719bddb",
+    "3cd215a5fa804c14",
+    "072464d4b1135a0b",
+    "db617fa275f0fa03",
+    "1e7a0903d2eed348",
+    "6a01dd69c390dd25",
+    "f51dcc97f987c906",
+    "1ecfc79da3f1ac7f",
+    "bab5c65a29375f3c",
+    "6039136a678f0ea5",
+    "40ed6b62e188ac6f",
+    "0f5b68b3eedad23d",
+    "5d53f16431285a9d",
+    "b76d202a844f758e",
+    "7e920e5c813d57e7",
+    "321de7ac42ec78a0",
+    "7fd045ac4f655f13",
+    "39ad9011ff417418",
+    "60707e85a34ba106",
+    "84c91fa377418ed3",
+    "d1cfacc597ebb525",
+    "c2e9a3b23f5c927e",
+    "99973826fcc02605",
+    "dde9cf53e9ae6c9a",
+    "45c9453db6f712da",
+    "3e5d0fbb286ea825",
+    "0dfd3899a1951042",
+    "04efa56f77cbb987",
+    "d664376e2a8dcecd",
+    "8e836197eb71ef42",
+    "2a63446faf6ffc9a",
+    "d7aa3eb035e31bfb",
+    "55a4bfbe5ef9f7cc",
+    "d88c96df5653a1a0",
+    "4e86942bf1604489",
+    "852174729551523b",
+    "4a6f9d5b58e0e9a4",
+    "50ce761c0ddcbf23",
+    "dc2829fb19a52a0a",
+    "720af75c92791b10",
+    "59c60fdc453fff92",
+    "e03a0eb4d5b2eef3",
+    "3d26f380a961c58d",
+    "984f6048f59adc0f"
+   ]
+  },
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "02003L0099-20130701",
+   "acts": [
+    {
+     "id": "eu:celex:32009D0470:por",
+     "title": "DECISÃO DO CONSELHO de 25 de Maio de 2009",
+     "published": null,
+     "celex": "32009D0470"
+    },
+    {
+     "id": "eu:celex:32013L0020:por",
+     "title": "DIRETIVA 2013/20/UE DO CONSELHO de 13 de maio de 2013",
+     "published": null,
+     "celex": "32013L0020"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 9.º — Avaliação das tendências e origens das zoonoses,",
+    "Altera Notas",
+    "Suprime Artigo 16.º — Alteração da Decisão 90/424/CEE"
+   ],
+   "fragments": [
+    "5bb76de1be62506e",
+    "226c39ffd0a88dad",
+    "95110ef01b194c22",
+    "676add888eca21c2",
+    "ccbe1fa0ceaf25d6",
+    "41e11bd601d04942",
+    "f0f8c960bfdbce9b",
+    "7b8aa0c3f719bddb",
+    "376be812bd971bb5",
+    "072464d4b1135a0b",
+    "4a78bd26a8082ccc",
+    "1e7a0903d2eed348",
+    "6a01dd69c390dd25",
+    "f51dcc97f987c906",
+    "1ecfc79da3f1ac7f",
+    "bab5c65a29375f3c",
+    "6039136a678f0ea5",
+    "40ed6b62e188ac6f",
+    "0f5b68b3eedad23d",
+    "f5e98f84a4c6dd3c",
+    "b76d202a844f758e",
+    "7e920e5c813d57e7",
+    "321de7ac42ec78a0",
+    "7fd045ac4f655f13",
+    "39ad9011ff417418",
+    "60707e85a34ba106",
+    "84c91fa377418ed3",
+    "d1cfacc597ebb525",
+    "c2e9a3b23f5c927e",
+    "99973826fcc02605",
+    "dde9cf53e9ae6c9a",
+    "45c9453db6f712da",
+    "0dfd3899a1951042",
+    "04efa56f77cbb987",
+    "d664376e2a8dcecd",
+    "8e836197eb71ef42",
+    "2a63446faf6ffc9a",
+    "a2fc30ef09bddf84",
+    "22d4b8467fa36ce9",
+    "6c0b1f3bc35238e9",
+    "a592bc072b6611ea",
+    "852174729551523b",
+    "4a6f9d5b58e0e9a4",
+    "50ce761c0ddcbf23",
+    "dc2829fb19a52a0a",
+    "720af75c92791b10",
+    "59c60fdc453fff92",
+    "e03a0eb4d5b2eef3",
+    "3d26f380a961c58d",
+    "c1674bc9865635ad"
+   ]
+  }
+ ],
+ "fragments": {
+  "fb1d6677f1390c77": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2003/99/CE do Parlamento Europeu e do Conselho, de 17 de Novembro de 2003, relativa à vigilância das zoonoses e dos agentes zoonóticos, que altera a Decisão 90/424/CEE do Conselho e revoga a Directiva 92/117/CEE do Conselho** *Jornal Oficial nº L 325 de 12/12/2003 p. 0031 - 0040*\n\nDirectiva 2003/99/CE do Parlamento Europeu e do Conselho\n\nde 17 de Novembro de 2003\n\nrelativa à vigilância das zoonoses e dos agentes zoonóticos, que altera a Decisão 90/424/CEE do Conselho e revoga a Directiva 92/117/CEE do Conselho\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, a alínea b) do n.o 4 do seu artigo 152.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Comité Económico e Social Europeu(2),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.o do Tratado(3),\n\nConsiderando o seguinte:\n\n(1) Os animais vivos e os alimentos de origem animal estão enumerados na lista do anexo I do Tratado. A pecuária e a colocação no mercado de alimentos de origem animal constituem uma importante fonte de rendimentos para os agricultores. A implementação de medidas veterinárias destinadas a aumentar o nível da saúde pública e da saúde animal na Comunidade vem apoiar o desenvolvimento racional do sector agrícola.\n\n(2) A protecção da saúde humana contra doenças e infecções directa ou indirectamente transmissíveis entre os animais e o homem (zoonoses) é de importância primordial.\n\n(3) As zoonoses transmissíveis através dos alimentos podem causar não só sofrimento humano, como também perdas económicas nos sectores da produção alimentar e da indústria alimentar.\n\n(4) As zoonoses transmitidas por vias diferentes dos alimentos, sobretudo através das populações de animais selvagens e de animais de companhia, constituem também motivo de preocupação.\n\n(5) A Directiva 92/117/CEE do Conselho, de 17 de Dezembro de 1992, relativa às medidas de protecção contra zoonoses e certos agentes zoonóticos em animais e produtos de origem animal a fim de evitar focos de infecção e de intoxicação de origem alimentar(4), estabeleceu um sistema de vigilância de certas zoonoses a nível dos Estados-Membros e da Comunidade.\n\n(6) Com o auxílio do Laboratório de Referência Comunitário para a epidemiologia das zoonoses, a Comissão recolhe anualmente dos Estados-Membros e compila os resultados da vigilância. Esses resultados têm sido publicados anualmente desde 1995 e proporcionam uma base para a avaliação da situação actual em matéria de zoonoses e agentes zoonóticos. No entanto, os sistemas de recolha de dados não estão harmonizados e não permitem, portanto, comparações entre Estados-Membros.\n\n(7) Outra legislação comunitária prevê a vigilância e o controlo de determinadas zoonoses em populações animais. A Directiva 64/432/CEE do Conselho, de 26 de Junho de 1964, relativa a problemas de fiscalização sanitária em matéria de comércio intracomunitário de animais das espécies bovina e suína(5), trata da tuberculose e da brucelose bovinas e a Directiva 91/68/CEE do Conselho, de 28 de Janeiro de 1991, relativa às condições de polícia sanitária que regem as trocas comerciais intracomunitárias de ovinos e caprinos, trata da brucelose ovina e caprina(6). A presente directiva não deve criar uma duplicação desnecessária dos requisitos existentes.\n\n(8) Além disso, um futuro regulamento do Parlamento Europeu e do Conselho relativo à higiene dos géneros alimentícios abrangerá elementos específicos necessários para a prevenção, controlo e vigilância de zoonoses e agentes zoonóticos e incluirá requisitos específicos em matéria de qualidade microbiológica dos géneros alimentícios.\n\n(9) A Directiva 92/117/CEE prevê a recolha de dados sobre casos de zoonoses em seres humanos. O objectivo da Decisão n.o 2119/98/CE do Parlamento Europeu e do Conselho, de 24 de Setembro de 1998, que institui uma rede de vigilância epidemiológica e de controlo das doenças transmissíveis na Comunidade(7) é o de reforçar a recolha desses dados e contribuir para melhorar a prevenção e o controlo de doenças transmissíveis na Comunidade.\n\n(10) A recolha de dados sobre a ocorrência de zoonoses e agentes zoonóticos nos animais, nos alimentos, nos alimentos para animais e no homem é necessária para determinar as tendências e origens das zoonoses.\n\n(11) No seu parecer sobre as zoonoses, adoptado em 12 de Abril de 2000, o Comité Científico das Medidas Veterinárias relacionadas com a saúde pública considerou que as medidas de controlo das infecções zoonóticas de origem alimentar então vigentes eram insuficientes. Considerou ainda que os dados epidemiológicos recolhidos pelos Estados-Membros eram incompletos e não eram plenamente comparáveis. Consequentemente, o Comité recomendou medidas de vigilância melhoradas e identificou opções de gestão dos riscos. Em especial, o comité identificou como prioridades de saúde pública as Salmonella spp., Campylobacter spp., Escherichia coli verotoxigénica (VTEC), Listeria monocytogenes, Cryptosporidium spp., Echinococcus granulosus/multilocularis e Trichinella spiralis.\n\n(12) É, pois, necessário melhorar os sistemas de vigilância e recolha de dados actualmente existentes, estabelecidos pela Directiva 92/117/CEE. Simultaneamente, o Regulamento (CE) n.o 2160/2003 do Parlamento Europeu e do Conselho, de 17 de Novembro de 2003, relativo ao controlo de zoonoses e outros agentes zoonóticos específicos de origem alimentar(8), substituirá as medidas específicas de controlo estabelecidas pela Directiva 92/117/CEE. A Directiva 92/117/CEE deve, por isso, ser revogada.\n\n(13) O novo quadro de aconselhamento e de apoio científico em questões de segurança alimentar estabelecido pelo Regulamento (CE) n.o 178/2002 do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios(9) deverá ser utilizado para a recolha e análise de dados relevantes.\n\n(14) Sempre que necessário, para facilitar a compilação e a comparação dos dados, a vigilância deve realizar-se numa base harmonizada, tornando possível avaliar as tendências e origens das zoonoses e agentes zoonóticos na Comunidade. Os dados recolhidos, juntamente com dados de outras origens, deverão constituir a base para a avaliação dos riscos decorrentes de organismos zoonóticos.\n\n(15) Deve ser dada prioridade às zoonoses que apresentem maior risco para a saúde humana. No entanto, os sistemas de vigilância devem também facilitar a detecção de doenças zoonóticas emergentes ou recém-emergentes e de novas estirpes de organismos zoonóticos.\n\n(16) O alarmante aparecimento de uma resistência aos agentes antimicrobianos (tais como produtos medicinais antimicrobianos e aditivos antimicrobianos para alimentos para animais) é uma característica que deveria ser vigiada. Devem ser tomadas medidas para que tal vigilância abranja não só os agentes zoonóticos mas também, na medida em que constituam uma ameaça para a saúde pública, outros agentes. Muito em particular, poderá ser apropriado monitorizar organismos indicadores; esses organismos constituem um reservatório de genes indutores de resistência, que eles podem transferir para bactérias patogénicas.\n\n(17) Além da vigilância geral, podem ser reconhecidas necessidades específicas susceptíveis de exigir o estabelecimento de programas coordenados de vigilância. Deve ser dada especial atenção às zoonoses enumeradas no anexo I do Regulamento (CE) n.o 2160/2003.\n\n(18) Quando cuidadosamente investigados, os focos de zoonoses de origem alimentar oferecem a oportunidade de identificar o organismo patogénico, o alimento transmissor e os factores que contribuíram para o foco aquando da preparação e manuseamento dos alimentos. É, pois, adequado prever essa investigação, bem como uma cooperação estreita entre as diversas autoridades.\n\n(19) As encefalopatias espongiformes transmissíveis estão abrangidas pelo Regulamento (CE) n.o 999/2001 do Parlamento Europeu e do Conselho, de 22 de Maio de 2001, que estabelece as normas para a prevenção, o controlo e a erradicação de determinadas encefalopatias espongiformes transmissíveis(10).\n\n(20) Para assegurar a utilização eficaz das informações recolhidas sobre zoonoses e agentes zoonóticos, devem ser estabelecidas regras adequadas sobre o intercâmbio de todas as informações relevantes. Essas informações devem ser recolhidas nos Estados-Membros e apresentadas à Comissão sob a forma de relatórios que devem também ser rapidamente enviados à Autoridade Europeia para a Segurança dos Alimentos e postos à disposição do público de uma forma adequada.\n\n(21) Os relatórios devem ser apresentados numa base anual. No entanto, as circunstâncias podem justificar a apresentação de relatórios adicionais.\n\n(22) Poderá ser oportuno designar laboratórios de referência nacionais e comunitários para fornecerem orientação e auxílio nas análises e testes relacionados com zoonoses e agentes zoonóticos que se enquadrem no âmbito da presente directiva.\n\n(23) A Decisão 90/424/CEE do Conselho, de 26 de Junho de 1990, relativa a determinadas despesas no domínio veterinário(11), deverá ser alterada no que diz respeito às normas detalhadas que regulam a contribuição financeira da Comunidade em certas acções relacionadas com a vigilância e o controlo de zoonoses e agentes zoonóticos.\n\n(24) Devem ser estabelecidos procedimentos adequados para a alteração de determinadas disposições da presente directiva a fim de ter em conta a evolução científica e técnica e a adopção de medidas de execução e medidas transitórias.\n\n(25) Para se levar em conta o progresso técnico e científico, deverá ser assegurada uma estreita e efectiva cooperação entre a Comissão e os Estados-Membros no comité permanente instituído pelo Regulamento (CE) n.o 178/2002.\n\n(26) Os Estados-Membros, agindo isoladamente, não podem compilar dados comparáveis que facultem uma base para a avaliação do risco dos organismos zoonóticos com importância a nível comunitário. A compilação de tais dados pode por conseguinte realizar-se mais adequadamente a nível comunitário. Assim, a Comunidade poderá adoptar medidas, de acordo com o princípio da subsidiariedade, nos termos do artigo 5.o do Tratado. De acordo com o princípio da proporcionalidade, tal como definido naquele artigo, a presente directiva limita-se ao necessário para alcançar aqueles objectivos. O estabelecimento e a manutenção de sistemas de vigilância devem incumbir aos Estados-Membros.\n\n(27) As medidas necessárias para a aplicação da presente directiva devem ser adoptadas de acordo com a Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(12),\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "0d22343ba099b06b": {
+   "fragment_id": "CAPÍTULO I DISPOSIÇÕES INTRODUTÓRIAS — Artigo 1.o",
+   "type": "divisao",
+   "heading": "CAPÍTULO I DISPOSIÇÕES INTRODUTÓRIAS — Artigo 1.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I DISPOSIÇÕES INTRODUTÓRIAS — Artigo 1.o\n\nObjecto e âmbito de aplicação\n\n1. O objecto da presente directiva consiste em assegurar a vigilância adequada das zoonoses, dos agentes zoonóticos e das resistências antimicrobianas conexas, bem como uma adequada investigação epidemiológica dos focos patogénicos de origem alimentar, de forma a que possam ser recolhidas na Comunidade as informações necessárias para permitir avaliar as tendências e origens pertinentes.\n\n2. A presente directiva abrange:\n\na) A vigilância das zoonoses e dos agentes zoonóticos;\n\nb) A vigilância das resistências antimicrobianas conexas;\n\nc) A investigação epidemiológica dos focos patogénicos de origem alimentar; e\n\nd) O intercâmbio de informações relacionadas com as zoonoses e os agentes zoonóticos.\n\n3. A presente directiva é aplicável sem prejuízo de disposições comunitárias mais específicas em matéria de saúde animal, nutrição animal, higiene dos géneros alimentícios, doenças transmissíveis dos seres humanos, saúde e segurança no trabalho, engenharia genética e encefalopatias espongiformes transmissíveis."
+  },
+  "c848c2afadcff4ea": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, aplicam-se:\n\n1. As definições constantes do Regulamento (CE) n.o 178/2002.\n\n2. As seguintes definições:\n\na) \"Zoonose\": qualquer doença e/ou qualquer infecção naturalmente transmissível directa ou indirectamente entre os animais e o homem;\n\nb) \"Agente zoonótico\": qualquer vírus, bactéria, fungo, parasita ou outra entidade biológica susceptível de provocar uma zoonose;\n\nc) \"Resistência antimicrobiana\": a capacidade de microrganismos de certas espécies sobreviverem ou mesmo crescerem na presença de uma dada concentração de um agente antimicrobiano que é geralmente suficiente para inibir ou matar microrganismos das mesmas espécies;\n\nd) \"Foco patogénico de origem alimentar\": a incidência, observada sob determinadas circunstâncias, de dois ou mais casos humanos da mesma doença e/ou infecção ou uma situação em que o número de casos observados exceda o número esperado e em que os casos tenham, ou tenham provavelmente, a mesma origem alimentar;\n\ne) \"Vigilância\": um sistema de recolha, análise e divulgação de dados sobre a ocorrência de zoonoses, agentes zoonóticos e resistência antimicrobiana com eles relacionada."
+  },
+  "7509eec6d16f31d2": {
+   "fragment_id": "Artigo 3.º — Obrigações gerais",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Obrigações gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Obrigações gerais\n\n1. Os Estados-Membros assegurarão que os dados sobre a ocorrência de zoonoses, agentes zoonóticos e resistência antimicrobiana com eles relacionada sejam recolhidos, analisados e publicados sem demora em conformidade com os requisitos da presente directiva e de quaisquer disposições dela decorrentes.\n\n2. Cada Estado-Membro designará a ou as autoridades competentes para efeitos da presente directiva e informará a Comissão desse facto. Caso um Estado-Membro designe mais do que uma autoridade competente, deverá:\n\na) Notificar à Comissão a autoridade competente que actuará como ponto de contacto nas relações com a Comissão; e\n\nb) Assegurar que as autoridades competentes cooperem por forma a garantir a correcta implementação dos requisitos da presente directiva.\n\n3. Cada Estado-Membro deverá assegurar, de forma eficaz e continuada, a cooperação com base na livre troca de informações gerais e, se for caso disso, de dados específicos, entre a ou as autoridades competentes designadas nos termos da presente directiva e:\n\na) As autoridades competentes para efeitos da legislação comunitária sobre saúde animal;\n\nb) As autoridades competentes para efeitos da legislação comunitária em matéria de alimentação animal;\n\nc) As autoridades competentes para efeitos da legislação comunitária sobre higiene dos géneros alimentícios;\n\nd) As estruturas e/ou autoridades referidas no artigo 1.o da Decisão n.o 2119/98/CE;\n\ne) Outras autoridades ou organizações interessadas.\n\n4. Cada Estado-Membro assegurará que os funcionários da ou das autoridades competentes a que se refere o n.o 2 recebam uma formação inicial e contínua adequada em matéria de ciências veterinárias, microbiologia ou epidemiologia, consoante as necessidades."
+  },
+  "e7a6635a9cccd521": {
+   "fragment_id": "CAPÍTULO II VIGILÂNCIA DE ZOONOSES E DE AGENTES ZOONÓTICOS — Artigo 4.o",
+   "type": "divisao",
+   "heading": "CAPÍTULO II VIGILÂNCIA DE ZOONOSES E DE AGENTES ZOONÓTICOS — Artigo 4.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II VIGILÂNCIA DE ZOONOSES E DE AGENTES ZOONÓTICOS — Artigo 4.o\n\nRegras gerais aplicáveis à vigilância de zoonoses e agentes zoonóticos\n\n1. Os Estados-Membros recolherão os dados pertinentes e comparáveis que permitam identificar e caracterizar os perigos, avaliar as exposições e caracterizar os riscos relacionados com as zoonoses e os agentes zoonóticos.\n\n2. A vigilância será efectuada na ou nas fases da cadeira alimentar mais adequadas para a zoonose ou o agente zoonótico em causa, designadamente:\n\na) A nível da produção primária; e/ou\n\nb) Noutras fases da cadeia alimentar, incluindo os géneros alimentícios e os alimentos para animais.\n\n3. A vigilância abrangerá as zoonoses e os agentes zoonóticos constantes da parte A do anexo I. Quando a situação epidemiológica num Estado-Membro o justificar, serão também vigiados as zoonoses e os agentes zoonóticos constantes da parte B do anexo I.\n\n4. O anexo I pode ser alterado, de acordo com o procedimento previsto no n.o 2 do artigo 12.o, a fim de serem aditadas ou suprimidas, nas listas nele incluídas, zoonoses ou agentes zoonóticos, tendo nomeadamente em conta os seguintes requisitos:\n\na) A sua ocorrência em populações humanas e animais, nos géneros alimentícios e nos alimentos para animais;\n\nb) A sua gravidade nos seres humanos;\n\nc) As respectivas consequências económicas para os serviços de saúde humana e animal e para as empresas do sector dos géneros alimentícios e dos alimentos para animais;\n\nd) As tendências epidemiológicas nas populações humanas e animais, nos alimentos para animais e nos géneros alimentícios.\n\n5. A vigilância basear-se-á nos sistemas em vigor nos Estados-Membros. Todavia, sempre que necessário para facilitar a recolha e a comparação dos dados, podem ser estabelecidas modalidades para a vigilância de zoonoses e agentes zoonóticos enumerados no anexo I, de acordo com o procedimento previsto no n.o 2 do artigo 12.o e tendo em consideração outras disposições comunitárias em vigor nos domínios da saúde animal, da higiene dos géneros alimentícios e das doenças transmissíveis dos seres humanos.\n\nEssas disposições devem fixar os requisitos mínimos necessários para a vigilância de certas zoonoses ou agentes zoonóticos, podendo especificar, nomeadamente:\n\na) A população ou subpopulações animais ou as fases da cadeia alimentar a submeter a vigilância;\n\nb) A natureza e o tipo dos dados a recolher;\n\nc) A definição dos casos;\n\nd) Os esquemas de amostragem a utilizar;\n\ne) Os métodos laboratoriais a utilizar para a realização de ensaios; e\n\nf) A frequência de comunicação, incluindo as directrizes para a comunicação entre as autoridades locais, regionais e centrais.\n\n6. Ao estudar a possibilidade de propor disposições nos termos do n.o 5, a fim de harmonizar a vigilância de rotina das zoonoses e agentes zoonóticos, a Comissão dará prioridade às zoonoses e agentes zoonóticos enumerados na parte A do anexo I."
+  },
+  "829f850c623f2ac9": {
+   "fragment_id": "Artigo 5.º — Programas coordenados de vigilância",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Programas coordenados de vigilância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Programas coordenados de vigilância\n\n1. Se os dados recolhidos através da vigilância de rotina nos termos do artigo 4.o não forem suficientes, poderão ser estabelecidos, de acordo com o procedimento previsto no n.o 2 do artigo 12.o, programas coordenados de vigilância respeitantes a uma ou mais zoonoses e/ou agentes zoonóticos. Esses programas poderão ser estabelecidos nomeadamente quando forem identificadas necessidades específicas de avaliação de riscos ou de estabelecimento de valores de referência relacionados com zoonoses e/ou agentes zoonóticos a nível dos Estados-Membros e/ou da Comunidade.\n\n2. Sempre que for estabelecido um programa coordenado de vigilância, será feita especial referência às zoonoses e aos agentes zoonóticos nas populações animais constantes do anexo I do Regulamento (CE) n.o 2160/2003\n\n3. O anexo III estabelece as normas mínimas aplicáveis ao estabelecimento de programas coordenados de vigilância."
+  },
+  "b20530aca91f12a3": {
+   "fragment_id": "Artigo 6.º — Obrigações dos operadores de empresas do sector alimentar",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Obrigações dos operadores de empresas do sector alimentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigações dos operadores de empresas do sector alimentar\n\n1. Os Estados-Membros assegurarão que, quando procedam a análises destinadas a detectar a presença de zoonoses e agentes zoonóticos que são objecto de vigilância em conformidade com o n.o 2 do artigo 4.o, os operadores das empresas do sector alimentar:\n\na) Conservem os resultados por um período a especificar pela autoridade competente; e\n\nb) Comuniquem esses resultados ou forneçam isolados a essa autoridade, a pedido desta.\n\n2. As modalidades de execução do presente artigo podem ser estabelecidas de acordo com o procedimento referido no n.o 2 do artigo 12.o"
+  },
+  "2c9a29c480c63d01": {
+   "fragment_id": "CAPÍTULO III RESISTÊNCIA ANTIMICROBIANA — Artigo 7.o",
+   "type": "divisao",
+   "heading": "CAPÍTULO III RESISTÊNCIA ANTIMICROBIANA — Artigo 7.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III RESISTÊNCIA ANTIMICROBIANA — Artigo 7.o\n\nVigilância da resistência antimicrobiana\n\n1. Os Estados-Membros assegurarão, em conformidade com os requisitos constantes do anexo II, que da vigilância resultem dados comparáveis sobre a ocorrência de resistência antimicrobiana em agentes zoonóticos e, na medida em que representem uma ameaça para a saúde pública, noutros agentes.\n\n2. Essa vigilância deve complementar a vigilância dos isolados humanos efectuada nos termos da Decisão n.o 2119/98/CE.\n\n3. As modalidades de execução do n.o 1 serão estabelecidas de acordo com o procedimento previsto no n.o 2 do artigo 12.o"
+  },
+  "da263cc52da8a0e8": {
+   "fragment_id": "CAPÍTULO IV FOCOS PATOGÉNICOS DE ORIGEM ALIMENTAR — Artigo 8.o",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV FOCOS PATOGÉNICOS DE ORIGEM ALIMENTAR — Artigo 8.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV FOCOS PATOGÉNICOS DE ORIGEM ALIMENTAR — Artigo 8.o\n\nInvestigação epidemiológica dos focos patogénicos de origem alimentar\n\n1. Os Estados-Membros assegurarão que, sempre que um operador de uma empresa do sector alimentar forneça informações à autoridade competente nos termos do n.o 3 do artigo 19.o do Regulamento (CE) n.o 178/2002, o género alimentício em questão, ou uma amostra do mesmo, seja preservado de uma forma que não impeça o seu exame laboratorial nem a investigação de qualquer foco patogénico.\n\n2. Perante um foco patogénico, a autoridade competente deve investigá-lo em cooperação com as autoridades referidas no artigo 1.o da Decisão n.o 2119/98/CE. Essa investigação deve fornecer dados sobre o perfil epidemiológico, os géneros alimentícios possivelmente implicados e as causas potenciais do foco. A investigação incluirá, na medida do possível, estudos epidemiológicos e microbiológicos adequados. A autoridade competente comunicará à Comissão (que o transmitirá à Autoridade Europeia para a Segurança dos Alimentos) um relatório de síntese sobre os resultados das pesquisas efectuadas incluindo as informações referidas na parte E do anexo IV.\n\n3. Poderão ser estabelecidas modalidades relativas à investigação de surtos de origem alimentar, de acordo com o procedimento previsto no n.o 2 do artigo 12.o\n\n4. Os n.os 1 e 2 são aplicáveis sem prejuízo das disposições comunitárias em matéria de segurança dos produtos, de sistemas de alerta rápido e de resposta para a prevenção e controlo de doenças transmissíveis dos seres humanos, de higiene dos géneros alimentícios e das prescrições gerais da legislação relativa aos géneros alimentícios, nomeadamente as relativas às medidas de emergência e aos procedimentos de retirada do mercado aplicáveis aos géneros alimentícios e aos alimentos para animais."
+  },
+  "97fd77be919b0b4e": {
+   "fragment_id": "CAPÍTULO V INTERCÂMBIO DE INFORMAÇÕES — Artigo 9.o",
+   "type": "divisao",
+   "heading": "CAPÍTULO V INTERCÂMBIO DE INFORMAÇÕES — Artigo 9.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V INTERCÂMBIO DE INFORMAÇÕES — Artigo 9.o\n\nAvaliação das tendências e origens das zoonoses,\n\n1. dos agentes zoonóticos e da resistência antimicrobiana\n\nOs Estados-Membros avaliarão as tendências e origens das zoonoses, dos agentes zoonóticos e da resistência antimicrobiana nos seus territórios.\n\nCada Estado-Membro transmitirá à Comissão, até fins de Maio de cada ano, um relatório sobre as tendências e origens das zoonoses, dos agentes zoonóticos e da resistência antimicrobiana, cobrindo os dados recolhidos durante o ano precedente, em conformidade com os artigos 4.o, 7.o e 8.o Os relatórios e quaisquer resumos destes serão tornados públicos.\n\nOs relatórios incluirão também as informações referidas na alínea b) do n.o 2 do artigo 3.o do Regulamento (CE) n.o 2160/2003.\n\nOs requisitos mínimos a que os relatórios devem obedecer são estabelecidos no anexo IV. As modalidades de avaliação desses relatórios, incluindo as relativas à sua forma e às informações mínimas que devem conter, poderão ser estabelecidas de acordo com o procedimento previsto no n.o 2 do artigo 12.o\n\n2. Sempre que as circunstâncias o justifiquem, a Comissão poderá solicitar informações suplementares específicas. Os Estados-Membros deverão apresentar relatórios à Comissão sempre que aquelas sejam solicitadas, ou por sua própria iniciativa.\n\nA Comissão enviará os relatórios referidos no n.o 1 à Autoridade Europeia para a Segurança dos Alimentos, que os examinará e publicará até ao final de Novembro um relatório de síntese sobre as tendências e origens das zoonoses, dos agentes zoonóticos e da resistência antimicrobiana na Comunidade.\n\n- Ao preparar o relatório de síntese, a Autoridade Europeia para a Segurança dos Alimentos poderá ter em consideração outros dados previstos no âmbito da legislação comunitária, nomeadamente:\n\n- no artigo 8.o da Directiva 64/432/CEE,\n\n- no n.o 2 do artigo 14.o da Directiva 89/397/CEE(13),\n\n- no artigo 24.o da Decisão n.o 90/424/CEE,\n\nno artigo 4.o da Decisão n.o 2119/98/CE.\n\n3. Os Estados-Membros fornecerão à Comissão os resultados dos programas coordenados de vigilância estabelecidos em conformidade com o n.o 5. A Comissão enviará esses resultados à Autoridade Europeia para a Segurança dos Alimentos. Os resultados e quaisquer resumos destes serão tornados públicos."
+  },
+  "e30b9c1273298e2f": {
+   "fragment_id": "CAPÍTULO VI LABORATÓRIOS — Artigo 10.o",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI LABORATÓRIOS — Artigo 10.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI LABORATÓRIOS — Artigo 10.o\n\nLaboratórios comunitários e nacionais de referência\n\n1. Poderão ser designados, de acordo com o procedimento previsto no n.o 2 do artigo 12.o, um ou mais laboratórios comunitários de referência para a análise e teste das zoonoses, dos agentes zoonóticos e da resistência antimicrobiana com eles relacionada.\n\n2. Sem prejuízo das disposições pertinentes da Decisão 90/424/CEE, as responsabilidades e tarefas dos laboratórios comunitários de referência, nomeadamente no que se refere à coordenação das suas actividades com as dos laboratórios nacionais de referência, serão estabelecidas em conformidade com o procedimento referido no n.o 2 do artigo 12.o\n\n3. Os Estados-Membros designarão os laboratórios nacionais de referência em relação a cada domínio para o qual tenha sido designado um laboratório comunitário de referência e informarão a Comissão desse facto.\n\n4. Algumas das responsabilidades e tarefas dos laboratórios nacionais de referência, nomeadamente no que se refere à coordenação das suas actividades com as de laboratórios pertinentes nos Estados-Membros, poderão ser definidas em conformidade com o procedimento referido no n.o 2 do artigo 12.o"
+  },
+  "94c13538cd7d6026": {
+   "fragment_id": "CAPÍTULO VII EXECUÇÃO — Artigo 11.o",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII EXECUÇÃO — Artigo 11.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII EXECUÇÃO — Artigo 11.o\n\nAlterações dos anexos e medidas de transição ou de aplicação\n\nOs anexos II, III e IV podem ser alterados e podem ser adoptadas medidas de transição ou de aplicação de acordo com o procedimento referido no n.o 2 do artigo 12.o"
+  },
+  "e7dfce3690dda164": {
+   "fragment_id": "Artigo 12.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Comité\n\n1. A Comissão será assistida pelo Comité da Cadeia Alimentar e da Saúde Animal instituído pelo Regulamento (CE) n.o 178/2002 ou, se adequado, pelo comité instituído pela Decisão 2119/98/CE.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.o e 7.o da Decisão n.o 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.o\n\nO prazo previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de três meses.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "eecc479ebd3faada": {
+   "fragment_id": "Artigo 13.º — Consulta da Autoridade Europeia para a Segurança dos Alimentos",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Consulta da Autoridade Europeia para a Segurança dos Alimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Consulta da Autoridade Europeia para a Segurança dos Alimentos\n\nA Comissão consultará a Autoridade Europeia para a Segurança dos Alimentos sobre qualquer questão do âmbito da presente directiva que possa ter um impacto significativo na saúde pública, especialmente antes de propor qualquer alteração dos anexos I ou II ou antes de estabelecer qualquer programa coordenado de vigilância nos termos do artigo 5.o"
+  },
+  "c2e9a3b23f5c927e": {
+   "fragment_id": "Artigo 14.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Transposição\n\n1. Os Estados-Membros adoptarão e publicarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 12 de Abril de 2004. Do facto informarão imediatamente a Comissão.\n\nOs Estados-Membros aplicarão as referidas disposições a partir de 12 de Junho de 2004.\n\nQuando os Estados-Membros adoptarem essas disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão estabelecidas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicarão à Comissão o texto das disposições de direito interno que adoptarem nas matérias abrangidas pela presente directiva."
+  },
+  "8ae9a4bf63c8c6ae": {
+   "fragment_id": "CAPÍTULO VIII DISPOSIÇÕES FINAIS — Artigo 15.o",
+   "type": "divisao",
+   "heading": "CAPÍTULO VIII DISPOSIÇÕES FINAIS — Artigo 15.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII DISPOSIÇÕES FINAIS — Artigo 15.o\n\nRevogação\n\nA Directiva 92/117/CEE é revogada com efeitos a partir de 12 de Junho de 2004.\n\nContudo, as medidas adoptadas pelos Estados-Membros de acordo com o n.o 1 do artigo 8.o da citada directiva e as que sejam aplicadas de acordo com o n.o 1 do seu artigo 10.o, bem como os planos aprovados de acordo com o n.o 3 do artigo 8.o, permanecerão em vigor até que os programas de controlo correspondentes sejam aprovados em conformidade com o artigo 5.o do Regulamento (CE) n.o 2160/2003."
+  },
+  "407d663607ab7e39": {
+   "fragment_id": "Artigo 16.º — Alteração da Decisão 90/424/CEE",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Alteração da Decisão 90/424/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Alteração da Decisão 90/424/CEE\n\nA Decisão 90/424/CEE é alterada do seguinte modo:\n\n1. O artigo 29.o passa a ter a seguinte redacção:\n\n\"Artigo 29.o\n\n1. Os Estados-Membros podem solicitar uma contribuição financeira da Comunidade para a vigilância e o controlo das zoonoses enumeradas no anexo, grupo 2, no âmbito das disposições a que se referem os n.os 2 a 11 do artigo 24.o\n\n2. Com respeito ao controlo das zoonoses, a contribuição financeira da Comunidade será efectuada no quadro de um programa nacional de controlo referido no artigo 6.o do Regulamento (CE) n.o 2160/2003 do Parlamento Europeu e do Conselho, de 17 de Novembro de 2003, relativo à vigilância das zoonoses e dos agentes zoonóticos(14). O nível da participação financeira comunitária será fixado num máximo de 50 % das despesas suportadas com a implementação das medidas de controlo obrigatórias.\".\n\n2. É aditado o seguinte artigo:\n\n\"Artigo 29.oA\n\nOs Estados-Membros poderão solicitar a contribuição financeira da Comunidade referida no n.o 2 do artigo 29.o para um plano nacional aprovado com base na Directiva 92/117/CEE, até à data em que os programas de controlo correspondentes sejam aprovados em conformidade com o artigo 6.o do Regulamento (CE) n.o 2160/2003\"\n\n3. No anexo, são aditados os seguintes travessões na lista do grupo 2:\n\n\"- Campilobacteriose e seus agentes,\n\n- Listeriose e seus agentes,\n\n- Salmonelose (salmonela zoonótica) e seus agentes,\n\n- Triquinose e seus agentes,\n\n- Escherichia coli verotoxigénicas.\"."
+  },
+  "a85bcfc0ce366f13": {
+   "fragment_id": "Artigo 17.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nA presente directiva entra em vigor na data da sua publicação no Jornal Oficial da União Europeia."
+  },
+  "8efa734c8be855c6": {
+   "fragment_id": "Artigo 18.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 17 de Novembro de 2003.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nP. Cox\n\nPelo Conselho\n\nO Presidente\n\nG. Alemanno\n\n(1) JO C 304 E de 30.10.2001, p. 250.\n\n(2) JO C 94 de 18.4.2002, p. 18.\n\n(3) Parecer do Parlamento Europeu, de 15 de Maio de 2002 (JO C 180 E de 31.7.2003, p. 161), Posição Comum do Conselho de 20 de Fevereiro de 2003 e Posição do Parlamento Europeu de 19 de Junho de 2003 (ainda não publicada no Jornal Oficial).\n\n(4) JO L 62 de 15.3.1993, p. 38. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 806/2003 (JO L 122 de 16.5.2003, p. 1).\n\n(5) JO 121 de 29.7.1964, p. 1977. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1226/2002 da Comissão (JO L 179 de 9.7.2002, p. 13).\n\n(6) JO L 46 de 19.2.1991, p. 19. Directiva com a última redacção que lhe foi dada pela Decisão 2003/708/CE da Comissão (JO L 258 de 10.10.2003, p. 11).\n\n(7) JO L 268 de 3.10.1998, p. 1.\n\n(8) Ver página 1 do presente Jornal Oficial.\n\n(9) JO L 31 de 1.2.2002, p. 1.\n\n(10) JO L 147 de 31.5.2001, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1494/2002 da Comissão (JO L 225 de 22.8.2002, p. 3).\n\n(11) JO L 224 de 18.8.1990, p. 19. Decisão com a última redacção que lhe foi dada pela Decisão 2001/572/CE (JO L 203 de 28.7.2001, p. 16).\n\n(12) JO L 184 de 17.7.1999, p. 23.\n\n(13) Directiva 89/397/CEE do Conselho, de 14 de Junho de 1989, relativa ao controlo oficial dos géneros alimentícios (JO L 186 de 30.6.1989, p. 23).\n\n(14) JO L 325 de 12.12.2003, p. 1."
+  },
+  "9218641da61c2004": {
+   "fragment_id": "ANEXO I — A. Zoonoses e agentes zoonóticos a incluir na vigilância",
+   "type": "divisao",
+   "heading": "ANEXO I — A. Zoonoses e agentes zoonóticos a incluir na vigilância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — A. Zoonoses e agentes zoonóticos a incluir na vigilância\n\n- Brucelose e seus agentes\n\n- Campilobacteriose e seus agentes\n\n- Equinococose e seus agentes\n\n- Listeriose e seus agentes\n\n- Salmonelose e seus agentes\n\n- Triquinose e seus agentes\n\n- Tuberculose causada pela Mycobacterium bovis\n\n- Escherichia coli verotoxigénicas.\n\nB. Lista de zoonoses e agentes zoonóticos a vigiar em função da situação epidemiológica\n\n1. Zoonoses virais\n\n- Calicivírus\n\n- Vírus da hepatite A\n\n- Vírus da gripe\n\n- Raiva\n\n- Vírus transmitidos pelos artrópodes\n\n2. Zoonoses bacterianas\n\n- Borreliose e seus agentes\n\n- Botulismo e seus agentes\n\n- Leptospirose e seus agentes\n\n- Psitacose e seus agentes\n\n- Tuberculose que não a do ponto A\n\n- Vibriose e seus agentes\n\n- Iersiniose e seus agentes\n\n3. Zoonoses parasitárias\n\n- Anisaquiase e seus agentes\n\n- Criptosporidiose e seus agentes\n\n- Cisticercose e seus agentes\n\n- Toxoplasmose e seus agentes\n\n4. Outras zoonoses e agentes zoonóticos"
+  },
+  "bec9ce0bce357edc": {
+   "fragment_id": "ANEXO II — Requisitos para a vigilância da resistência antimicrobiana nos termos do artigo 7.o",
+   "type": "divisao",
+   "heading": "ANEXO II — Requisitos para a vigilância da resistência antimicrobiana nos termos do artigo 7.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Requisitos para a vigilância da resistência antimicrobiana nos termos do artigo 7.o\n\nA. Requisitos gerais\n\nOs Estados-Membros deverão assegurar que o sistema de vigilância da resistência antimicrobiana previsto no artigo 7.o proporcione, pelo menos, as seguintes informações:\n\n1. Espécies animais incluídas na vigilância;\n\n2. Espécies e/ou estirpes de bactérias a incluir na vigilância;\n\n3. Estratégia de amostragem utilizada na vigilância;\n\n4. Antimicrobianos incluídos na vigilância;\n\n5. Metodologia laboratorial utilizada para a detecção de resistência;\n\n6. Metodologia laboratorial utilizada para a identificação de isolados microbianos;\n\n7. Métodos utilizados para a recolha dos dados.\n\nB. Requisitos específicos\n\nOs Estados-Membros deverão assegurar que o sistema de vigilância forneça informações pertinentes, pelo menos, relativamente a um número representativo de isolados de Salmonella spp., Campylobacter jejuni e Campylobacter coli provenientes de bovinos, suínos e aves de capoeira, e géneros alimentícios de origem animal derivados destas espécies."
+  },
+  "07f9e857a0003037": {
+   "fragment_id": "ANEXO III — Programas coordenados de vigilância tal como referidos no artigo 5.o",
+   "type": "divisao",
+   "heading": "ANEXO III — Programas coordenados de vigilância tal como referidos no artigo 5.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Programas coordenados de vigilância tal como referidos no artigo 5.o\n\nAo estabelecer-se um programa coordenado de vigilância, deverão pelo menos ser definidas as seguintes características:\n\n- o seu objectivo,\n\n- a sua duração,\n\n- a zona ou região geográfica que o programa abrange,\n\n- as zoonoses e/ou os agentes zoonóticos abrangidos,\n\n- o tipo de amostras e outros dados pedidos,\n\n- os esquemas mínimos de amostragem,\n\n- o tipo de métodos laboratoriais,\n\n- as tarefas das autoridades competentes,\n\n- os recursos necessários,\n\n- uma estimativa dos respectivos custos e do seu financiamento, e\n\n- o método e a frequência de comunicação dos resultados."
+  },
+  "b96b5c9179e3c8bd": {
+   "fragment_id": "ANEXO IV — Requisitos aplicáveis aos relatórios a apresentar nos termos do n.o 1 do artigo 9.o",
+   "type": "divisao",
+   "heading": "ANEXO IV — Requisitos aplicáveis aos relatórios a apresentar nos termos do n.o 1 do artigo 9.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Requisitos aplicáveis aos relatórios a apresentar nos termos do n.o 1 do artigo 9.o\n\nO relatório referido no n.o 1 do artigo 9.o deve fornecer, pelo menos, as informações adiante enumeradas. As partes A a D aplicam-se aos relatórios sobre a vigilância efectuada de acordo com os artigos 4.o ou 7.o A parte E aplica-se aos relatórios sobre a vigilância efectuada de acordo com o artigo 8.o\n\nA. Na fase inicial, para cada zoonose e agente zoonótico deverão ser descritos os seguintes elementos (posteriormente apenas terão de ser comunicadas as alterações):\n\na) Sistemas de vigilância (estratégias de amostragem, frequência de amostragem, tipo de espécime, definição do caso, métodos de diagnóstico utilizados);\n\nb) Política de vacinação e outras acções de prevenção;\n\nc) Mecanismos de controlo e, se pertinente, programas de controlo;\n\nd) Medidas no caso de resultados positivos ou de casos isolados;\n\ne) Sistemas de notificação em vigor;\n\nf) História da doença e/ou infecção no país.\n\nB. Anualmente deverão ser descritos os seguintes elementos:\n\na) População animal susceptível em causa (juntamente com a data a que os valores dizem respeito):\n\n- número de rebanhos ou efectivos,\n\n- número total de animais, e\n\n- sempre que pertinente, os métodos de produção utilizados;\n\nb) Número e descrição geral dos laboratórios e instituições que participam na vigilância.\n\nC. Anualmente, deverão ser descritos, com as respectivas consequências, os seguintes pormenores referentes a cada agente zoonótico e categoria de dados:\n\na) Alterações dos sistemas já descritos;\n\nb) Alterações dos métodos anteriormente descritos;\n\nc) Resultados das pesquisas e de outras tipagens ou métodos de caracterização nos laboratórios (separadamente para cada categoria);\n\nd) Avaliação nacional da situação recente, tendências e fontes de infecção;\n\ne) Pertinência como doença zoonótica;\n\nf) Pertinência, para os casos humanos, como origem de infecção para os seres humanos, dos resultados obtidos em animais e géneros alimentícios;\n\ng) Estratégias de controlo reconhecidas que podem ser utilizadas para evitar ou minimizar a transmissão do agente zoonótico aos seres humanos;\n\nh) Se necessário, todas as acções específicas decididas no Estado-Membro ou sugeridas para a Comunidade no seu todo com base na situação recente.\n\nD. Comunicação dos resultados dos exames\n\nA comunicação dos resultados deve incluir o número de unidades epidemiológicas examinadas (rebanhos, efectivos, amostras, lotes) e o número de amostras positivas segundo a definição do caso. Os resultados devem, sempre que necessário, ser apresentados de uma forma que mostre a distribuição geográfica da zoonose ou do agente zoonótico.\n\nE. Dados relativos aos focos de origem alimentar:\n\na) Número total de focos patogénicos no período de um ano;\n\nb) Número de mortes e doenças em pessoas na sequência desses focos;\n\nc) Agentes responsáveis pelos focos, incluindo, quando possível, o serótipo ou outra descrição rigorosa do agente. Quando a identificação do agente responsável não for possível, deve indicar-se a razão;\n\nd) Géneros alimentícios implicados no foco e outras fontes de transmissão potenciais;\n\ne) Identificação do tipo de local onde o género alimentício responsável foi produzido/comprado/adquirido/consumido;\n\nf) Factores contributivos, como, por exemplo, deficiências de higiene no processo de transformação alimentar."
+  },
+  "1a99101de44440d7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Novembro de 2003\n\nrelativa à vigilância das zoonoses e dos agentes zoonóticos, que altera a Decisão 90/424/CEE do Conselho e revoga a Directiva 92/117/CEE do Conselho\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, a alínea b) do n.º 4 do seu artigo 152.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/b15df26a-b597-49f8-b6a7-99bd2df21cbd.0017.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^2^](http://publications.europa.eu/resource/cellar/b15df26a-b597-49f8-b6a7-99bd2df21cbd.0017.03/DOC_1#E0002)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/b15df26a-b597-49f8-b6a7-99bd2df21cbd.0017.03/DOC_1#E0003)),\n\n(1) Os animais vivos e os alimentos de origem animal estão enumerados na lista do anexo I do Tratado. A pecuária e a colocação no mercado de alimentos de origem animal constituem uma importante fonte de rendimentos para os agricultores. A implementação de medidas veterinárias destinadas a aumentar o nível da saúde pública e da saúde animal na Comunidade vem apoiar o desenvolvimento racional do sector agrícola.\n\n(2) A protecção da saúde humana contra doenças e infecções directa ou indirectamente transmissíveis entre os animais e o homem (zoonoses) é de importância primordial.\n\n(3) As zoonoses transmissíveis através dos alimentos podem causar não só sofrimento humano, como também perdas económicas nos sectores da produção alimentar e da indústria alimentar.\n\n(4) As zoonoses transmitidas por vias diferentes dos alimentos, sobretudo através das populações de animais selvagens e de animais de companhia, constituem também motivo de preocupação.\n\n(5) A Directiva 92/117/CEE do Conselho, de 17 de Dezembro de 1992, relativa às medidas de protecção contra zoonoses e certos agentes zoonóticos em animais e produtos de origem animal a fim de evitar focos de infecção e de intoxicação de origem alimentar ([^4^](http://publications.europa.eu/resource/cellar/b15df26a-b597-49f8-b6a7-99bd2df21cbd.0017.03/DOC_1#E0004)), estabeleceu um sistema de vigilância de certas zoonoses a nível dos Estados-Membros e da Comunidade.\n\n(6) Com o auxílio do Laboratório de Referência Comunitário para a epidemiologia das zoonoses, a Comissão recolhe anualmente dos Estados-Membros e compila os resultados da vigilância. Esses resultados têm sido publicados anualmente desde 1995 e proporcionam uma base para a avaliação da situação actual em matéria de zoonoses e agentes zoonóticos. No entanto, os sistemas de recolha de dados não estão harmonizados e não permitem, portanto, comparações entre Estados-Membros.\n\n(7) Outra legislação comunitária prevê a vigilância e o controlo de determinadas zoonoses em populações animais. A Directiva 64/432/CEE do Conselho, de 26 de Junho de 1964, relativa a problemas de fiscalização sanitária em matéria de comércio intracomunitário de animais das espécies bovina e suína ([^5^](http://publications.europa.eu/resource/cellar/b15df26a-b597-49f8-b6a7-99bd2df21cbd.0017.03/DOC_1#E0005)), trata da tuberculose e da brucelose bovinas e a Directiva 91/68/CEE do Conselho, de 28 de Janeiro de 1991, relativa às condições de polícia sanitária que regem as trocas comerciais intracomunitárias de ovinos e caprinos, trata da brucelose ovina e caprina ([^6^](http://publications.europa.eu/resource/cellar/b15df26a-b597-49f8-b6a7-99bd2df21cbd.0017.03/DOC_1#E0006)). A presente directiva não deve criar uma duplicação desnecessária dos requisitos existentes.\n\n(8) Além disso, um futuro regulamento do Parlamento Europeu e do Conselho relativo à higiene dos géneros alimentícios abrangerá elementos específicos necessários para a prevenção, controlo e vigilância de zoonoses e agentes zoonóticos e incluirá requisitos específicos em matéria de qualidade microbiológica dos géneros alimentícios.\n\n(9) A Directiva 92/117/CEE prevê a recolha de dados sobre casos de zoonoses em seres humanos. O objectivo da Decisão n.º 2119/98/CE do Parlamento Europeu e do Conselho, de 24 de Setembro de 1998, que institui uma rede de vigilância epidemiológica e de controlo das doenças transmissíveis na Comunidade ([^7^](http://publications.europa.eu/resource/cellar/b15df26a-b597-49f8-b6a7-99bd2df21cbd.0017.03/DOC_1#E0007)) é o de reforçar a recolha desses dados e contribuir para melhorar a prevenção e o controlo de doenças transmissíveis na Comunidade.\n\n(10) A recolha de dados sobre a ocorrência de zoonoses e agentes zoonóticos nos animais, nos alimentos, nos alimentos para animais e no homem é necessária para determinar as tendências e origens das zoonoses.\n\n(11) No seu parecer sobre as zoonoses, adoptado em 12 de Abril de 2000, o Comité Científico das Medidas Veterinárias relacionadas com a saúde pública considerou que as medidas de controlo das infecções zoonóticas de origem alimentar então vigentes eram insuficientes. Considerou ainda que os dados epidemiológicos recolhidos pelos Estados-Membros eram incompletos e não eram plenamente comparáveis. Consequentemente, o Comité recomendou medidas de vigilância melhoradas e identificou opções de gestão dos riscos. Em especial, o comité identificou como prioridades de saúde pública as *Salmonella* spp., Campylobacter spp., *Escherichia coli* verotoxigénica (VTEC), *Listeria monocytogenes*, *Cryptosporidium* spp., *Echinococcus granulosus*/*multilocularis* e *Trichinella spiralis*.\n\n(12) É, pois, necessário melhorar os sistemas de vigilância e recolha de dados actualmente existentes, estabelecidos pela Directiva 92/117/CEE. Simultaneamente, o Regulamento (CE) n.º 2160/2003 do Parlamento Europeu e do Conselho, de 17 de Novembro de 2003, relativo ao controlo de zoonoses e outros agentes zoonóticos específicos de origem alimentar ([^8^](http://publications.europa.eu/resource/cellar/b15df26a-b597-49f8-b6a7-99bd2df21cbd.0017.03/DOC_1#E0008)), substituirá as medidas específicas de controlo estabelecidas pela Directiva 92/117/CEE. A Directiva 92/117/CEE deve, por isso, ser revogada.\n\n(13) O novo quadro de aconselhamento e de apoio científico em questões de segurança alimentar estabelecido pelo Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios ([^9^](http://publications.europa.eu/resource/cellar/b15df26a-b597-49f8-b6a7-99bd2df21cbd.0017.03/DOC_1#E0009)) deverá ser utilizado para a recolha e análise de dados relevantes.\n\n(14) Sempre que necessário, para facilitar a compilação e a comparação dos dados, a vigilância deve realizar-se numa base harmonizada, tornando possível avaliar as tendências e origens das zoonoses e agentes zoonóticos na Comunidade. Os dados recolhidos, juntamente com dados de outras origens, deverão constituir a base para a avaliação dos riscos decorrentes de organismos zoonóticos.\n\n(15) Deve ser dada prioridade às zoonoses que apresentem maior risco para a saúde humana. No entanto, os sistemas de vigilância devem também facilitar a detecção de doenças zoonóticas emergentes ou recém-emergentes e de novas estirpes de organismos zoonóticos.\n\n(16) O alarmante aparecimento de uma resistência aos agentes antimicrobianos (tais como produtos medicinais antimicrobianos e aditivos antimicrobianos para alimentos para animais) é uma característica que deveria ser vigiada. Devem ser tomadas medidas para que tal vigilância abranja não só os agentes zoonóticos mas também, na medida em que constituam uma ameaça para a saúde pública, outros agentes. Muito em particular, poderá ser apropriado monitorizar organismos indicadores; esses organismos constituem um reservatório de genes indutores de resistência, que eles podem transferir para bactérias patogénicas.\n\n(17) Além da vigilância geral, podem ser reconhecidas necessidades específicas susceptíveis de exigir o estabelecimento de programas coordenados de vigilância. Deve ser dada especial atenção às zoonoses enumeradas no anexo I do Regulamento (CE) n.º 2160/2003.\n\n(18) Quando cuidadosamente investigados, os focos de zoonoses de origem alimentar oferecem a oportunidade de identificar o organismo patogénico, o alimento transmissor e os factores que contribuíram para o foco aquando da preparação e manuseamento dos alimentos. É, pois, adequado prever essa investigação, bem como uma cooperação estreita entre as diversas autoridades.\n\n(19) As encefalopatias espongiformes transmissíveis estão abrangidas pelo Regulamento (CE) n.º 999/2001 do Parlamento Europeu e do Conselho, de 22 de Maio de 2001, que estabelece as normas para a prevenção, o controlo e a erradicação de determinadas encefalopatias espongiformes transmissíveis ([^10^](http://publications.europa.eu/resource/cellar/b15df26a-b597-49f8-b6a7-99bd2df21cbd.0017.03/DOC_1#E0010)).\n\n(20) Para assegurar a utilização eficaz das informações recolhidas sobre zoonoses e agentes zoonóticos, devem ser estabelecidas regras adequadas sobre o intercâmbio de todas as informações relevantes. Essas informações devem ser recolhidas nos Estados-Membros e apresentadas à Comissão sob a forma de relatórios que devem também ser rapidamente enviados à Autoridade Europeia para a Segurança dos Alimentos e postos à disposição do público de uma forma adequada.\n\n(21) Os relatórios devem ser apresentados numa base anual. No entanto, as circunstâncias podem justificar a apresentação de relatórios adicionais.\n\n(22) Poderá ser oportuno designar laboratórios de referência nacionais e comunitários para fornecerem orientação e auxílio nas análises e testes relacionados com zoonoses e agentes zoonóticos que se enquadrem no âmbito da presente directiva.\n\n(23) A Decisão 90/424/CEE do Conselho, de 26 de Junho de 1990, relativa a determinadas despesas no domínio veterinário ([^11^](http://publications.europa.eu/resource/cellar/b15df26a-b597-49f8-b6a7-99bd2df21cbd.0017.03/DOC_1#E0011)), deverá ser alterada no que diz respeito às normas detalhadas que regulam a contribuição financeira da Comunidade em certas acções relacionadas com a vigilância e o controlo de zoonoses e agentes zoonóticos.\n\n(24) Devem ser estabelecidos procedimentos adequados para a alteração de determinadas disposições da presente directiva a fim de ter em conta a evolução científica e técnica e a adopção de medidas de execução e medidas transitórias.\n\n(25) Para se levar em conta o progresso técnico e científico, deverá ser assegurada uma estreita e efectiva cooperação entre a Comissão e os Estados-Membros no comité permanente instituído pelo Regulamento (CE) n.º 178/2002.\n\n(26) Os Estados-Membros, agindo isoladamente, não podem compilar dados comparáveis que facultem uma base para a avaliação do risco dos organismos zoonóticos com importância a nível comunitário. A compilação de tais dados pode por conseguinte realizar-se mais adequadamente a nível comunitário. Assim, a Comunidade poderá adoptar medidas, de acordo com o princípio da subsidiariedade, nos termos do artigo 5.º do Tratado. De acordo com o princípio da proporcionalidade, tal como definido naquele artigo, a presente directiva limita-se ao necessário para alcançar aqueles objectivos. O estabelecimento e a manutenção de sistemas de vigilância devem incumbir aos Estados-Membros.\n\n(27) As medidas necessárias para a aplicação da presente directiva devem ser adoptadas de acordo com a Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^12^](http://publications.europa.eu/resource/cellar/b15df26a-b597-49f8-b6a7-99bd2df21cbd.0017.03/DOC_1#E0012)),\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "95110ef01b194c22": {
+   "fragment_id": "DISPOSIÇÕES INTRODUTÓRIAS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES INTRODUTÓRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES INTRODUTÓRIAS"
+  },
+  "a85ba5be279c2be9": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1. O objecto da presente directiva consiste em assegurar a vigilância adequada das zoonoses, dos agentes zoonóticos e das resistências antimicrobianas conexas, bem como uma adequada investigação epidemiológica dos focos patogénicos de origem alimentar, de forma a que possam ser recolhidas na Comunidade as informações necessárias para permitir avaliar as tendências e origens pertinentes.\n\n2. A presente directiva abrange:\n\na) A vigilância das zoonoses e dos agentes zoonóticos;\n\nb) A vigilância das resistências antimicrobianas conexas;\n\nc) A investigação epidemiológica dos focos patogénicos de origem alimentar; e\n\nd) O intercâmbio de informações relacionadas com as zoonoses e os agentes zoonóticos.\n\n3. A presente directiva é aplicável sem prejuízo de disposições comunitárias mais específicas em matéria de saúde animal, nutrição animal, higiene dos géneros alimentícios, doenças transmissíveis dos seres humanos, saúde e segurança no trabalho, engenharia genética e encefalopatias espongiformes transmissíveis."
+  },
+  "ccbe1fa0ceaf25d6": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, aplicam-se:\n\n1. As definições constantes do Regulamento (CE) n.º 178/2002.\n\n2. As seguintes definições:\n\na) «Zoonose»: qualquer doença e/ou qualquer infecção naturalmente transmissível directa ou indirectamente entre os animais e o homem;\n\nb) «Agente zoonótico»: qualquer vírus, bactéria, fungo, parasita ou outra entidade biológica susceptível de provocar uma zoonose;\n\nc) «Resistência antimicrobiana»: a capacidade de microrganismos de certas espécies sobreviverem ou mesmo crescerem na presença de uma dada concentração de um agente antimicrobiano que é geralmente suficiente para inibir ou matar microrganismos das mesmas espécies;\n\nd) «Foco patogénico de origem alimentar»: a incidência, observada sob determinadas circunstâncias, de dois ou mais casos humanos da mesma doença e/ou infecção ou uma situação em que o número de casos observados exceda o número esperado e em que os casos tenham, ou tenham provavelmente, a mesma origem alimentar;\n\ne) «Vigilância»: um sistema de recolha, análise e divulgação de dados sobre a ocorrência de zoonoses, agentes zoonóticos e resistência antimicrobiana com eles relacionada."
+  },
+  "d7f9601cfe61181d": {
+   "fragment_id": "Artigo 3.º — Obrigações gerais",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Obrigações gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Obrigações gerais\n\n1. Os Estados-Membros assegurarão que os dados sobre a ocorrência de zoonoses, agentes zoonóticos e resistência antimicrobiana com eles relacionada sejam recolhidos, analisados e publicados sem demora em conformidade com os requisitos da presente directiva e de quaisquer disposições dela decorrentes.\n\n2. Cada Estado-Membro designará a ou as autoridades competentes para efeitos da presente directiva e informará a Comissão desse facto. Caso um Estado-Membro designe mais do que uma autoridade competente, deverá:\n\na) Notificar à Comissão a autoridade competente que actuará como ponto de contacto nas relações com a Comissão; e\n\nb) Assegurar que as autoridades competentes cooperem por forma a garantir a correcta implementação dos requisitos da presente directiva.\n\n3. Cada Estado-Membro deverá assegurar, de forma eficaz e continuada, a cooperação com base na livre troca de informações gerais e, se for caso disso, de dados específicos, entre a ou as autoridades competentes designadas nos termos da presente directiva e:\n\na) As autoridades competentes para efeitos da legislação comunitária sobre saúde animal;\n\nb) As autoridades competentes para efeitos da legislação comunitária em matéria de alimentação animal;\n\nc) As autoridades competentes para efeitos da legislação comunitária sobre higiene dos géneros alimentícios;\n\nd) As estruturas e/ou autoridades referidas no artigo 1.º da Decisão n.º 2119/98/CE;\n\ne) Outras autoridades ou organizações interessadas.\n\n4. Cada Estado-Membro assegurará que os funcionários da ou das autoridades competentes a que se refere o n.º 2 recebam uma formação inicial e contínua adequada em matéria de ciências veterinárias, microbiologia ou epidemiologia, consoante as necessidades."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "7b8aa0c3f719bddb": {
+   "fragment_id": "VIGILÂNCIA DE ZOONOSES E DE AGENTES ZOONÓTICOS",
+   "type": "divisao",
+   "heading": "VIGILÂNCIA DE ZOONOSES E DE AGENTES ZOONÓTICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### VIGILÂNCIA DE ZOONOSES E DE AGENTES ZOONÓTICOS"
+  },
+  "8a1a42fdb6beba74": {
+   "fragment_id": "Artigo 4.º — Regras gerais aplicáveis à vigilância de zoonoses e agentes zoonóticos",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Regras gerais aplicáveis à vigilância de zoonoses e agentes zoonóticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regras gerais aplicáveis à vigilância de zoonoses e agentes zoonóticos\n\n1. Os Estados-Membros recolherão os dados pertinentes e comparáveis que permitam identificar e caracterizar os perigos, avaliar as exposições e caracterizar os riscos relacionados com as zoonoses e os agentes zoonóticos.\n\n2. A vigilância será efectuada na ou nas fases da cadeira alimentar mais adequadas para a zoonose ou o agente zoonótico em causa, designadamente:\n\na) A nível da produção primária; e/ou\n\nb) Noutras fases da cadeia alimentar, incluindo os géneros alimentícios e os alimentos para animais.\n\n3. A vigilância abrangerá as zoonoses e os agentes zoonóticos constantes da parte A do anexo I. Quando a situação epidemiológica num Estado-Membro o justificar, serão também vigiados as zoonoses e os agentes zoonóticos constantes da parte B do anexo I.\n\n4. O anexo I pode ser alterado, de acordo com o procedimento previsto no n.º 2 do artigo 12.º, a fim de serem aditadas ou suprimidas, nas listas nele incluídas, zoonoses ou agentes zoonóticos, tendo nomeadamente em conta os seguintes requisitos:\n\na) A sua ocorrência em populações humanas e animais, nos géneros alimentícios e nos alimentos para animais;\n\nb) A sua gravidade nos seres humanos;\n\nc) As respectivas consequências económicas para os serviços de saúde humana e animal e para as empresas do sector dos géneros alimentícios e dos alimentos para animais;\n\nd) As tendências epidemiológicas nas populações humanas e animais, nos alimentos para animais e nos géneros alimentícios.\n\n5. A vigilância basear-se-á nos sistemas em vigor nos Estados-Membros. Todavia, sempre que necessário para facilitar a recolha e a comparação dos dados, podem ser estabelecidas modalidades para a vigilância de zoonoses e agentes zoonóticos enumerados no anexo I, de acordo com o procedimento previsto no n.º 2 do artigo 12.º e tendo em consideração outras disposições comunitárias em vigor nos domínios da saúde animal, da higiene dos géneros alimentícios e das doenças transmissíveis dos seres humanos.\n\nEssas disposições devem fixar os requisitos mínimos necessários para a vigilância de certas zoonoses ou agentes zoonóticos, podendo especificar, nomeadamente:\n\na) A população ou subpopulações animais ou as fases da cadeia alimentar a submeter a vigilância;\n\nb) A natureza e o tipo dos dados a recolher;\n\nc) A definição dos casos;\n\nd) Os esquemas de amostragem a utilizar;\n\ne) Os métodos laboratoriais a utilizar para a realização de ensaios; e\n\nf) A frequência de comunicação, incluindo as directrizes para a comunicação entre as autoridades locais, regionais e centrais.\n\n6. Ao estudar a possibilidade de propor disposições nos termos do n.º 5, a fim de harmonizar a vigilância de rotina das zoonoses e agentes zoonóticos, a Comissão dará prioridade às zoonoses e agentes zoonóticos enumerados na parte A do anexo I."
+  },
+  "a3502898a5994154": {
+   "fragment_id": "Artigo 5.º — Programas coordenados de vigilância",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Programas coordenados de vigilância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Programas coordenados de vigilância\n\n1. Se os dados recolhidos através da vigilância de rotina nos termos do artigo 4.º não forem suficientes, poderão ser estabelecidos, de acordo com o procedimento previsto no n.º 2 do artigo 12.º, programas coordenados de vigilância respeitantes a uma ou mais zoonoses e/ou agentes zoonóticos. Esses programas poderão ser estabelecidos nomeadamente quando forem identificadas necessidades específicas de avaliação de riscos ou de estabelecimento de valores de referência relacionados com zoonoses e/ou agentes zoonóticos a nível dos Estados-Membros e/ou da Comunidade.\n\n2. Sempre que for estabelecido um programa coordenado de vigilância, será feita especial referência às zoonoses e aos agentes zoonóticos nas populações animais constantes do anexo I do Regulamento (CE) n.º 2160/2003\n\n3. O anexo III estabelece as normas mínimas aplicáveis ao estabelecimento de programas coordenados de vigilância."
+  },
+  "db617fa275f0fa03": {
+   "fragment_id": "Artigo 6.º — Obrigações dos operadores de empresas do sector alimentar",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Obrigações dos operadores de empresas do sector alimentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigações dos operadores de empresas do sector alimentar\n\n1. Os Estados-Membros assegurarão que, quando procedam a análises destinadas a detectar a presença de zoonoses e agentes zoonóticos que são objecto de vigilância em conformidade com o n.º 2 do artigo 4.º, os operadores das empresas do sector alimentar:\n\na) Conservem os resultados por um período a especificar pela autoridade competente; e\n\nb) Comuniquem esses resultados ou forneçam isolados a essa autoridade, a pedido desta.\n\n2. As modalidades de execução do presente artigo podem ser estabelecidas de acordo com o procedimento referido no n.º 2 do artigo 12.º"
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "6a01dd69c390dd25": {
+   "fragment_id": "RESISTÊNCIA ANTIMICROBIANA",
+   "type": "divisao",
+   "heading": "RESISTÊNCIA ANTIMICROBIANA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### RESISTÊNCIA ANTIMICROBIANA"
+  },
+  "f51dcc97f987c906": {
+   "fragment_id": "Artigo 7.º — Vigilância da resistência antimicrobiana",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Vigilância da resistência antimicrobiana",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Vigilância da resistência antimicrobiana\n\n1. Os Estados-Membros assegurarão, em conformidade com os requisitos constantes do anexo II, que da vigilância resultem dados comparáveis sobre a ocorrência de resistência antimicrobiana em agentes zoonóticos e, na medida em que representem uma ameaça para a saúde pública, noutros agentes.\n\n2. Essa vigilância deve complementar a vigilância dos isolados humanos efectuada nos termos da Decisão n.º 2119/98/CE.\n\n3. As modalidades de execução do n.º 1 serão estabelecidas de acordo com o procedimento previsto no n.º 2 do artigo 12.º"
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "bab5c65a29375f3c": {
+   "fragment_id": "FOCOS PATOGÉNICOS DE ORIGEM ALIMENTAR",
+   "type": "divisao",
+   "heading": "FOCOS PATOGÉNICOS DE ORIGEM ALIMENTAR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### FOCOS PATOGÉNICOS DE ORIGEM ALIMENTAR"
+  },
+  "6039136a678f0ea5": {
+   "fragment_id": "Artigo 8.º — Investigação epidemiológica dos focos patogénicos de origem alimentar",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Investigação epidemiológica dos focos patogénicos de origem alimentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Investigação epidemiológica dos focos patogénicos de origem alimentar\n\n1. Os Estados-Membros assegurarão que, sempre que um operador de uma empresa do sector alimentar forneça informações à autoridade competente nos termos do n.º 3 do artigo 19.º do Regulamento (CE) n.º 178/2002, o género alimentício em questão, ou uma amostra do mesmo, seja preservado de uma forma que não impeça o seu exame laboratorial nem a investigação de qualquer foco patogénico.\n\n2. Perante um foco patogénico, a autoridade competente deve investigá-lo em cooperação com as autoridades referidas no artigo 1.º da Decisão n.º 2119/98/CE. Essa investigação deve fornecer dados sobre o perfil epidemiológico, os géneros alimentícios possivelmente implicados e as causas potenciais do foco. A investigação incluirá, na medida do possível, estudos epidemiológicos e microbiológicos adequados. A autoridade competente comunicará à Comissão (que o transmitirá à Autoridade Europeia para a Segurança dos Alimentos) um relatório de síntese sobre os resultados das pesquisas efectuadas incluindo as informações referidas na parte E do anexo IV.\n\n3. Poderão ser estabelecidas modalidades relativas à investigação de surtos de origem alimentar, de acordo com o procedimento previsto no n.º 2 do artigo 12.º\n\n4. Os n.^os^ 1 e 2 são aplicáveis sem prejuízo das disposições comunitárias em matéria de segurança dos produtos, de sistemas de alerta rápido e de resposta para a prevenção e controlo de doenças transmissíveis dos seres humanos, de higiene dos géneros alimentícios e das prescrições gerais da legislação relativa aos géneros alimentícios, nomeadamente as relativas às medidas de emergência e aos procedimentos de retirada do mercado aplicáveis aos géneros alimentícios e aos alimentos para animais."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "0f5b68b3eedad23d": {
+   "fragment_id": "INTERCÂMBIO DE INFORMAÇÕES",
+   "type": "divisao",
+   "heading": "INTERCÂMBIO DE INFORMAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INTERCÂMBIO DE INFORMAÇÕES"
+  },
+  "c06950de5a95e7e3": {
+   "fragment_id": "Artigo 9.º — Avaliação das tendências e origens das zoonoses,",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Avaliação das tendências e origens das zoonoses,",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Avaliação das tendências e origens das zoonoses,\n\n1. dos agentes zoonóticos e da resistência antimicrobiana\n\nCada Estado-Membro transmitirá à Comissão, até fins de Maio de cada ano, um relatório sobre as tendências e origens das zoonoses, dos agentes zoonóticos e da resistência antimicrobiana, cobrindo os dados recolhidos durante o ano precedente, em conformidade com os artigos 4.º, 7.º e 8.º. Os relatórios e quaisquer resumos destes serão tornados públicos.\n\nCada Estado-Membro transmitirá à Comissão, até fins de Maio de cada ano, um relatório sobre as tendências e origens das zoonoses, dos agentes zoonóticos e da resistência antimicrobiana, cobrindo os dados recolhidos durante o ano precedente, em conformidade com os artigos 4.º, 7.º e 8.º Os relatórios e quaisquer resumos destes serão tornados públicos.\n\nOs relatórios incluirão também as informações referidas na alínea b) do n.º 2 do artigo 3.º do Regulamento (CE) n.º 2160/2003.\n\nOs requisitos mínimos a que os relatórios devem obedecer são estabelecidos no anexo IV. As modalidades de avaliação desses relatórios, incluindo as relativas à sua forma e às informações mínimas que devem conter, poderão ser estabelecidas de acordo com o procedimento previsto no n.º 2 do artigo 12.º\n\n2. Sempre que as circunstâncias o justifiquem, a Comissão poderá solicitar informações suplementares específicas. Os Estados-Membros deverão apresentar relatórios à Comissão sempre que aquelas sejam solicitadas, ou por sua própria iniciativa.\n\nA Comissão enviará os relatórios referidos no n.º 1 à Autoridade Europeia para a Segurança dos Alimentos, que os examinará e publicará até ao final de Novembro um relatório de síntese sobre as tendências e origens das zoonoses, dos agentes zoonóticos e da resistência antimicrobiana na Comunidade.\n\n— Ao preparar o relatório de síntese, a Autoridade Europeia para a Segurança dos Alimentos poderá ter em consideração outros dados previstos no âmbito da legislação comunitária, nomeadamente:\n\n— no artigo 8.º da Directiva 64/432/CEE,\n\n— no n.º 2 do artigo 14.º da Directiva 89/397/CEE ([^13^](http://publications.europa.eu/resource/cellar/b15df26a-b597-49f8-b6a7-99bd2df21cbd.0017.03/DOC_1#E0013)),\n\n— no artigo 24.º da Decisão n.º 90/424/CEE,\n\nno artigo 4.º da Decisão n.º 2119/98/CE.\n\n3. Os Estados-Membros fornecerão à Comissão os resultados dos programas coordenados de vigilância estabelecidos em conformidade com o n.º 5. A Comissão enviará esses resultados à Autoridade Europeia para a Segurança dos Alimentos. Os resultados e quaisquer resumos destes serão tornados públicos."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "7e920e5c813d57e7": {
+   "fragment_id": "LABORATÓRIOS",
+   "type": "divisao",
+   "heading": "LABORATÓRIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LABORATÓRIOS"
+  },
+  "321de7ac42ec78a0": {
+   "fragment_id": "Artigo 10.º — Laboratórios comunitários e nacionais de referência",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Laboratórios comunitários e nacionais de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Laboratórios comunitários e nacionais de referência\n\n1. Poderão ser designados, de acordo com o procedimento previsto no n.º 2 do artigo 12.º, um ou mais laboratórios comunitários de referência para a análise e teste das zoonoses, dos agentes zoonóticos e da resistência antimicrobiana com eles relacionada.\n\n2. Sem prejuízo das disposições pertinentes da Decisão 90/424/CEE, as responsabilidades e tarefas dos laboratórios comunitários de referência, nomeadamente no que se refere à coordenação das suas actividades com as dos laboratórios nacionais de referência, serão estabelecidas em conformidade com o procedimento referido no n.º 2 do artigo 12.º\n\n3. Os Estados-Membros designarão os laboratórios nacionais de referência em relação a cada domínio para o qual tenha sido designado um laboratório comunitário de referência e informarão a Comissão desse facto.\n\n4. Algumas das responsabilidades e tarefas dos laboratórios nacionais de referência, nomeadamente no que se refere à coordenação das suas actividades com as de laboratórios pertinentes nos Estados-Membros, poderão ser definidas em conformidade com o procedimento referido no n.º 2 do artigo 12.º"
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "39ad9011ff417418": {
+   "fragment_id": "EXECUÇÃO",
+   "type": "divisao",
+   "heading": "EXECUÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### EXECUÇÃO"
+  },
+  "d96dbfc8756b450e": {
+   "fragment_id": "Artigo 11.º — Alterações dos anexos e medidas de transição ou de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Alterações dos anexos e medidas de transição ou de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Alterações dos anexos e medidas de transição ou de aplicação\n\nOs anexos II, III e IV podem ser alterados e podem ser adoptadas medidas de transição ou de aplicação de acordo com o procedimento referido no n.º 2 do artigo 12.º"
+  },
+  "a7f2fbec56bd7fda": {
+   "fragment_id": "Artigo 12.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Comité\n\n1. A Comissão será assistida pelo Comité da Cadeia Alimentar e da Saúde Animal instituído pelo Regulamento (CE) n.º 178/2002 ou, se adequado, pelo comité instituído pela Decisão 2119/98/CE.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão n.º 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "d1cfacc597ebb525": {
+   "fragment_id": "Artigo 13.º — Consulta da Autoridade Europeia para a Segurança dos Alimentos",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Consulta da Autoridade Europeia para a Segurança dos Alimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Consulta da Autoridade Europeia para a Segurança dos Alimentos\n\nA Comissão consultará a Autoridade Europeia para a Segurança dos Alimentos sobre qualquer questão do âmbito da presente directiva que possa ter um impacto significativo na saúde pública, especialmente antes de propor qualquer alteração dos anexos I ou II ou antes de estabelecer qualquer programa coordenado de vigilância nos termos do artigo 5.º"
+  },
+  "99973826fcc02605": {
+   "fragment_id": "CAPÍTULO VIII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VIII"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "45c9453db6f712da": {
+   "fragment_id": "Artigo 15.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Revogação\n\nA Directiva 92/117/CEE é revogada com efeitos a partir de 12 de Junho de 2004.\n\nContudo, as medidas adoptadas pelos Estados-Membros de acordo com o n.º 1 do artigo 8.º da citada directiva e as que sejam aplicadas de acordo com o n.º 1 do seu artigo 10.º, bem como os planos aprovados de acordo com o n.º 3 do artigo 8.º, permanecerão em vigor até que os programas de controlo correspondentes sejam aprovados em conformidade com o artigo 5.º do Regulamento (CE) n.º 2160/2003."
+  },
+  "7f742b4f29d0415c": {
+   "fragment_id": "Artigo 16.º — Alteração da Decisão 90/424/CEE",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Alteração da Decisão 90/424/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Alteração da Decisão 90/424/CEE\n\nA Decisão 90/424/CEE é alterada do seguinte modo:\n\n1. O artigo 29.\n\n1. Os Estados-Membros podem solicitar uma contribuição financeira da Comunidade para a vigilância e o controlo das zoonoses enumeradas no anexo, grupo 2, no âmbito das disposições a que se referem os n.^os^ 2 a 11 do artigo 24.º\n\n2. Com respeito ao controlo das zoonoses, a contribuição financeira da Comunidade será efectuada no quadro de um programa nacional de controlo referido no artigo 6.º do Regulamento (CE) n.º 2160/2003 do Parlamento Europeu e do Conselho, de 17 de Novembro de 2003, relativo à vigilância das zoonoses e dos agentes zoonóticos ([^14^](http://publications.europa.eu/resource/cellar/b15df26a-b597-49f8-b6a7-99bd2df21cbd.0017.03/DOC_1#E0014)). O nível da participação financeira comunitária será fixado num máximo de 50 % das despesas suportadas com a implementação das medidas de controlo obrigatórias.\n\n2. É aditado o seguinte artigo:\n\nOs Estados-Membros poderão solicitar a contribuição financeira da Comunidade referida no n.º 2 do artigo 29.º para um plano nacional aprovado com base na Directiva 92/117/CEE, até à data em que os programas de controlo correspondentes sejam aprovados em conformidade com o artigo 6.º do Regulamento (CE) n.º 2160/2003»\n\n3. No anexo, são aditados os seguintes travessões na lista do grupo 2:\n\n«— Campilobacteriose e seus agentes,\n\n— Listeriose e seus agentes,\n\n— Salmonelose (salmonela zoonótica) e seus agentes,\n\n— Triquinose e seus agentes,\n\n— *Escherichia coli* verotoxigénicas.»."
+  },
+  "0dfd3899a1951042": {
+   "fragment_id": "Artigo 17.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nA presente directiva entra em vigor na data da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "04efa56f77cbb987": {
+   "fragment_id": "Artigo 18.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "8e836197eb71ef42": {
+   "fragment_id": "A. Zoonoses e agentes zoonóticos a incluir na vigilância",
+   "type": "divisao",
+   "heading": "A. Zoonoses e agentes zoonóticos a incluir na vigilância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Zoonoses e agentes zoonóticos a incluir na vigilância\n\n— Brucelose e seus agentes\n\n— Campilobacteriose e seus agentes\n\n— Equinococose e seus agentes\n\n— Listeriose e seus agentes\n\n— Salmonelose e seus agentes\n\n— Triquinose e seus agentes\n\n— Tuberculose causada pela *Mycobacterium bovis*\n\n— *Escherichia* coli verotoxigénicas."
+  },
+  "2a63446faf6ffc9a": {
+   "fragment_id": "B. Lista de zoonoses e agentes zoonóticos a vigiar em função da situação epidemiológica",
+   "type": "divisao",
+   "heading": "B. Lista de zoonoses e agentes zoonóticos a vigiar em função da situação epidemiológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Lista de zoonoses e agentes zoonóticos a vigiar em função da situação epidemiológica"
+  },
+  "d7aa3eb035e31bfb": {
+   "fragment_id": "1. Zoonoses virais",
+   "type": "divisao",
+   "heading": "1. Zoonoses virais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Zoonoses virais\n\n— Calicivírus\n\n— Vírus da hepatite A\n\n— Vírus da gripe\n\n— Raiva\n\n— Vírus transmitidos pelos artrópodes"
+  },
+  "55a4bfbe5ef9f7cc": {
+   "fragment_id": "2. Zoonoses bacterianas",
+   "type": "divisao",
+   "heading": "2. Zoonoses bacterianas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Zoonoses bacterianas\n\n— Borreliose e seus agentes\n\n— Botulismo e seus agentes\n\n— Leptospirose e seus agentes\n\n— Psitacose e seus agentes\n\n— Tuberculose que não a do ponto A\n\n— Vibriose e seus agentes\n\n— Iersiniose e seus agentes"
+  },
+  "d88c96df5653a1a0": {
+   "fragment_id": "3. Zoonoses parasitárias",
+   "type": "divisao",
+   "heading": "3. Zoonoses parasitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Zoonoses parasitárias\n\n— Anisaquiase e seus agentes\n\n— Criptosporidiose e seus agentes\n\n— Cisticercose e seus agentes\n\n— Toxoplasmose e seus agentes"
+  },
+  "4e86942bf1604489": {
+   "fragment_id": "4. Outras zoonoses e agentes zoonóticos",
+   "type": "divisao",
+   "heading": "4. Outras zoonoses e agentes zoonóticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Outras zoonoses e agentes zoonóticos"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "4a6f9d5b58e0e9a4": {
+   "fragment_id": "Requisitos para a vigilância da resistência antimicrobiana nos termos do artigo 7.º",
+   "type": "divisao",
+   "heading": "Requisitos para a vigilância da resistência antimicrobiana nos termos do artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos para a vigilância da resistência antimicrobiana nos termos do artigo 7.º"
+  },
+  "50ce761c0ddcbf23": {
+   "fragment_id": "A. Requisitos gerais",
+   "type": "divisao",
+   "heading": "A. Requisitos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Requisitos gerais\n\nOs Estados-Membros deverão assegurar que o sistema de vigilância da resistência antimicrobiana previsto no artigo 7.º proporcione, pelo menos, as seguintes informações:\n\n1. Espécies animais incluídas na vigilância;\n\n2. Espécies e/ou estirpes de bactérias a incluir na vigilância;\n\n3. Estratégia de amostragem utilizada na vigilância;\n\n4. Antimicrobianos incluídos na vigilância;\n\n5. Metodologia laboratorial utilizada para a detecção de resistência;\n\n6. Metodologia laboratorial utilizada para a identificação de isolados microbianos;\n\n7. Métodos utilizados para a recolha dos dados."
+  },
+  "dc2829fb19a52a0a": {
+   "fragment_id": "B. Requisitos específicos",
+   "type": "divisao",
+   "heading": "B. Requisitos específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Requisitos específicos\n\nOs Estados-Membros deverão assegurar que o sistema de vigilância forneça informações pertinentes, pelo menos, relativamente a um número representativo de isolados de *Salmonella* spp., *Campylobacter jejuni* e *Campylobacter coli* provenientes de bovinos, suínos e aves de capoeira, e géneros alimentícios de origem animal derivados destas espécies."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "59c60fdc453fff92": {
+   "fragment_id": "Programas coordenados de vigilância tal como referidos no artigo 5.º",
+   "type": "divisao",
+   "heading": "Programas coordenados de vigilância tal como referidos no artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Programas coordenados de vigilância tal como referidos no artigo 5.º\n\nAo estabelecer-se um programa coordenado de vigilância, deverão pelo menos ser definidas as seguintes características:\n\n— o seu objectivo,\n\n— a sua duração,\n\n— a zona ou região geográfica que o programa abrange,\n\n— as zoonoses e/ou os agentes zoonóticos abrangidos,\n\n— o tipo de amostras e outros dados pedidos,\n\n— os esquemas mínimos de amostragem,\n\n— o tipo de métodos laboratoriais,\n\n— as tarefas das autoridades competentes,\n\n— os recursos necessários,\n\n— uma estimativa dos respectivos custos e do seu financiamento, e\n\n— o método e a frequência de comunicação dos resultados."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "3d26f380a961c58d": {
+   "fragment_id": "Requisitos aplicáveis aos relatórios a apresentar nos termos do n.º 1 do artigo 9.º",
+   "type": "divisao",
+   "heading": "Requisitos aplicáveis aos relatórios a apresentar nos termos do n.º 1 do artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos aplicáveis aos relatórios a apresentar nos termos do n.º 1 do artigo 9.º\n\nO relatório referido no n.º 1 do artigo 9.º deve fornecer, pelo menos, as informações adiante enumeradas. As partes A a D aplicam-se aos relatórios sobre a vigilância efectuada de acordo com os artigos 4.º ou 7.º A parte E aplica-se aos relatórios sobre a vigilância efectuada de acordo com o artigo 8.º\n\nA. Na fase inicial, para cada zoonose e agente zoonótico deverão ser descritos os seguintes elementos (posteriormente apenas terão de ser comunicadas as alterações): a) Sistemas de vigilância (estratégias de amostragem, frequência de amostragem, tipo de espécime, definição do caso, métodos de diagnóstico utilizados); b) Política de vacinação e outras acções de prevenção; c) Mecanismos de controlo e, se pertinente, programas de controlo; d) Medidas no caso de resultados positivos ou de casos isolados; e) Sistemas de notificação em vigor; f) História da doença e/ou infecção no país.\n\nB. Anualmente deverão ser descritos os seguintes elementos: a) População animal susceptível em causa (juntamente com a data a que os valores dizem respeito): — número de rebanhos ou efectivos, — número total de animais, e — sempre que pertinente, os métodos de produção utilizados; b) Número e descrição geral dos laboratórios e instituições que participam na vigilância.\n\nC. Anualmente, deverão ser descritos, com as respectivas consequências, os seguintes pormenores referentes a cada agente zoonótico e categoria de dados: a) Alterações dos sistemas já descritos; b) Alterações dos métodos anteriormente descritos; c) Resultados das pesquisas e de outras tipagens ou métodos de caracterização nos laboratórios (separadamente para cada categoria); d) Avaliação nacional da situação recente, tendências e fontes de infecção; e) Pertinência como doença zoonótica; f) Pertinência, para os casos humanos, como origem de infecção para os seres humanos, dos resultados obtidos em animais e géneros alimentícios; g) Estratégias de controlo reconhecidas que podem ser utilizadas para evitar ou minimizar a transmissão do agente zoonótico aos seres humanos; h) Se necessário, todas as acções específicas decididas no Estado-Membro ou sugeridas para a Comunidade no seu todo com base na situação recente.\n\nD. Comunicação dos resultados dos exames A comunicação dos resultados deve incluir o número de unidades epidemiológicas examinadas (rebanhos, efectivos, amostras, lotes) e o número de amostras positivas segundo a definição do caso. Os resultados devem, sempre que necessário, ser apresentados de uma forma que mostre a distribuição geográfica da zoonose ou do agente zoonótico.\n\nE. Dados relativos aos focos de origem alimentar: a) Número total de focos patogénicos no período de um ano; b) Número de mortes e doenças em pessoas na sequência desses focos; c) Agentes responsáveis pelos focos, incluindo, quando possível, o serótipo ou outra descrição rigorosa do agente. Quando a identificação do agente responsável não for possível, deve indicar-se a razão; d) Géneros alimentícios implicados no foco e outras fontes de transmissão potenciais; e) Identificação do tipo de local onde o género alimentício responsável foi produzido/comprado/adquirido/consumido; f) Factores contributivos, como, por exemplo, deficiências de higiene no processo de transformação alimentar.\n\n---"
+  },
+  "eeb9fd743cd47ee6": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b15df26a-b597-49f8-b6a7-99bd2df21cbd.0017.03/DOC_1#src.E0001)) JO C 304 E de 30.10.2001, p. 250.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b15df26a-b597-49f8-b6a7-99bd2df21cbd.0017.03/DOC_1#src.E0002)) JO C 94 de 18.4.2002, p. 18.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b15df26a-b597-49f8-b6a7-99bd2df21cbd.0017.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu, de 15 de Maio de 2002 (JO C 180 E de 31.7.2003, p. 161), Posição Comum do Conselho de 20 de Fevereiro de 2003 e Posição do Parlamento Europeu de 19 de Junho de 2003 (ainda não publicada no Jornal Oficial).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b15df26a-b597-49f8-b6a7-99bd2df21cbd.0017.03/DOC_1#src.E0004)) JO L 62 de 15.3.1993, p. 38. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 806/2003 (JO L 122 de 16.5.2003, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b15df26a-b597-49f8-b6a7-99bd2df21cbd.0017.03/DOC_1#src.E0005)) JO 121 de 29.7.1964, p. 1977. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1226/2002 da Comissão (JO L 179 de 9.7.2002, p. 13).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/b15df26a-b597-49f8-b6a7-99bd2df21cbd.0017.03/DOC_1#src.E0006)) JO L 46 de 19.2.1991, p. 19. Directiva com a última redacção que lhe foi dada pela Decisão 2003/708/CE da Comissão (JO L 258 de 10.10.2003, p. 11).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/b15df26a-b597-49f8-b6a7-99bd2df21cbd.0017.03/DOC_1#src.E0007)) JO L 268 de 3.10.1998, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/b15df26a-b597-49f8-b6a7-99bd2df21cbd.0017.03/DOC_1#src.E0008)) Ver página 1 do presente Jornal Oficial.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/b15df26a-b597-49f8-b6a7-99bd2df21cbd.0017.03/DOC_1#src.E0009)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/b15df26a-b597-49f8-b6a7-99bd2df21cbd.0017.03/DOC_1#src.E0010)) JO L 147 de 31.5.2001, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1494/2002 da Comissão (JO L 225 de 22.8.2002, p. 3).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/b15df26a-b597-49f8-b6a7-99bd2df21cbd.0017.03/DOC_1#src.E0011)) JO L 224 de 18.8.1990, p. 19. Decisão com a última redacção que lhe foi dada pela Decisão 2001/572/CE (JO L 203 de 28.7.2001, p. 16).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/b15df26a-b597-49f8-b6a7-99bd2df21cbd.0017.03/DOC_1#src.E0012)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/b15df26a-b597-49f8-b6a7-99bd2df21cbd.0017.03/DOC_1#src.E0013)) Directiva 89/397/CEE do Conselho, de 14 de Junho de 1989, relativa ao controlo oficial dos géneros alimentícios (JO L 186 de 30.6.1989, p. 23).\n\n> ([^14^](http://publications.europa.eu/resource/cellar/b15df26a-b597-49f8-b6a7-99bd2df21cbd.0017.03/DOC_1#src.E0014)) JO L 325 de 12.12.2003, p. 1.»"
+  },
+  "182f83b4cfecef01": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Novembro de 2003\n\nrelativa à vigilância das zoonoses e dos agentes zoonóticos, que altera a Decisão 90/424/CEE do Conselho e revoga a Directiva 92/117/CEE do Conselho\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, a alínea b) do n.º 4 do seu artigo 152.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/12ce2054-afcd-4f62-9b87-b97ccb15e9e5.0017.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^2^](http://publications.europa.eu/resource/cellar/12ce2054-afcd-4f62-9b87-b97ccb15e9e5.0017.03/DOC_1#E0002)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/12ce2054-afcd-4f62-9b87-b97ccb15e9e5.0017.03/DOC_1#E0003)),\n\n(1) Os animais vivos e os alimentos de origem animal estão enumerados na lista do anexo I do Tratado. A pecuária e a colocação no mercado de alimentos de origem animal constituem uma importante fonte de rendimentos para os agricultores. A implementação de medidas veterinárias destinadas a aumentar o nível da saúde pública e da saúde animal na Comunidade vem apoiar o desenvolvimento racional do sector agrícola.\n\n(2) A protecção da saúde humana contra doenças e infecções directa ou indirectamente transmissíveis entre os animais e o homem (zoonoses) é de importância primordial.\n\n(3) As zoonoses transmissíveis através dos alimentos podem causar não só sofrimento humano, como também perdas económicas nos sectores da produção alimentar e da indústria alimentar.\n\n(4) As zoonoses transmitidas por vias diferentes dos alimentos, sobretudo através das populações de animais selvagens e de animais de companhia, constituem também motivo de preocupação.\n\n(5) A Directiva 92/117/CEE do Conselho, de 17 de Dezembro de 1992, relativa às medidas de protecção contra zoonoses e certos agentes zoonóticos em animais e produtos de origem animal a fim de evitar focos de infecção e de intoxicação de origem alimentar ([^4^](http://publications.europa.eu/resource/cellar/12ce2054-afcd-4f62-9b87-b97ccb15e9e5.0017.03/DOC_1#E0004)), estabeleceu um sistema de vigilância de certas zoonoses a nível dos Estados-Membros e da Comunidade.\n\n(6) Com o auxílio do Laboratório de Referência Comunitário para a epidemiologia das zoonoses, a Comissão recolhe anualmente dos Estados-Membros e compila os resultados da vigilância. Esses resultados têm sido publicados anualmente desde 1995 e proporcionam uma base para a avaliação da situação actual em matéria de zoonoses e agentes zoonóticos. No entanto, os sistemas de recolha de dados não estão harmonizados e não permitem, portanto, comparações entre Estados-Membros.\n\n(7) Outra legislação comunitária prevê a vigilância e o controlo de determinadas zoonoses em populações animais. A Directiva 64/432/CEE do Conselho, de 26 de Junho de 1964, relativa a problemas de fiscalização sanitária em matéria de comércio intracomunitário de animais das espécies bovina e suína ([^5^](http://publications.europa.eu/resource/cellar/12ce2054-afcd-4f62-9b87-b97ccb15e9e5.0017.03/DOC_1#E0005)), trata da tuberculose e da brucelose bovinas e a Directiva 91/68/CEE do Conselho, de 28 de Janeiro de 1991, relativa às condições de polícia sanitária que regem as trocas comerciais intracomunitárias de ovinos e caprinos, trata da brucelose ovina e caprina ([^6^](http://publications.europa.eu/resource/cellar/12ce2054-afcd-4f62-9b87-b97ccb15e9e5.0017.03/DOC_1#E0006)). A presente directiva não deve criar uma duplicação desnecessária dos requisitos existentes.\n\n(8) Além disso, um futuro regulamento do Parlamento Europeu e do Conselho relativo à higiene dos géneros alimentícios abrangerá elementos específicos necessários para a prevenção, controlo e vigilância de zoonoses e agentes zoonóticos e incluirá requisitos específicos em matéria de qualidade microbiológica dos géneros alimentícios.\n\n(9) A Directiva 92/117/CEE prevê a recolha de dados sobre casos de zoonoses em seres humanos. O objectivo da Decisão n.º 2119/98/CE do Parlamento Europeu e do Conselho, de 24 de Setembro de 1998, que institui uma rede de vigilância epidemiológica e de controlo das doenças transmissíveis na Comunidade ([^7^](http://publications.europa.eu/resource/cellar/12ce2054-afcd-4f62-9b87-b97ccb15e9e5.0017.03/DOC_1#E0007)) é o de reforçar a recolha desses dados e contribuir para melhorar a prevenção e o controlo de doenças transmissíveis na Comunidade.\n\n(10) A recolha de dados sobre a ocorrência de zoonoses e agentes zoonóticos nos animais, nos alimentos, nos alimentos para animais e no homem é necessária para determinar as tendências e origens das zoonoses.\n\n(11) No seu parecer sobre as zoonoses, adoptado em 12 de Abril de 2000, o Comité Científico das Medidas Veterinárias relacionadas com a saúde pública considerou que as medidas de controlo das infecções zoonóticas de origem alimentar então vigentes eram insuficientes. Considerou ainda que os dados epidemiológicos recolhidos pelos Estados-Membros eram incompletos e não eram plenamente comparáveis. Consequentemente, o Comité recomendou medidas de vigilância melhoradas e identificou opções de gestão dos riscos. Em especial, o comité identificou como prioridades de saúde pública as *Salmonella* spp., Campylobacter spp., *Escherichia coli* verotoxigénica (VTEC), *Listeria monocytogenes*, *Cryptosporidium* spp., *Echinococcus granulosus*/*multilocularis* e *Trichinella spiralis*.\n\n(12) É, pois, necessário melhorar os sistemas de vigilância e recolha de dados actualmente existentes, estabelecidos pela Directiva 92/117/CEE. Simultaneamente, o Regulamento (CE) n.º 2160/2003 do Parlamento Europeu e do Conselho, de 17 de Novembro de 2003, relativo ao controlo de zoonoses e outros agentes zoonóticos específicos de origem alimentar ([^8^](http://publications.europa.eu/resource/cellar/12ce2054-afcd-4f62-9b87-b97ccb15e9e5.0017.03/DOC_1#E0008)), substituirá as medidas específicas de controlo estabelecidas pela Directiva 92/117/CEE. A Directiva 92/117/CEE deve, por isso, ser revogada.\n\n(13) O novo quadro de aconselhamento e de apoio científico em questões de segurança alimentar estabelecido pelo Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios ([^9^](http://publications.europa.eu/resource/cellar/12ce2054-afcd-4f62-9b87-b97ccb15e9e5.0017.03/DOC_1#E0009)) deverá ser utilizado para a recolha e análise de dados relevantes.\n\n(14) Sempre que necessário, para facilitar a compilação e a comparação dos dados, a vigilância deve realizar-se numa base harmonizada, tornando possível avaliar as tendências e origens das zoonoses e agentes zoonóticos na Comunidade. Os dados recolhidos, juntamente com dados de outras origens, deverão constituir a base para a avaliação dos riscos decorrentes de organismos zoonóticos.\n\n(15) Deve ser dada prioridade às zoonoses que apresentem maior risco para a saúde humana. No entanto, os sistemas de vigilância devem também facilitar a detecção de doenças zoonóticas emergentes ou recém-emergentes e de novas estirpes de organismos zoonóticos.\n\n(16) O alarmante aparecimento de uma resistência aos agentes antimicrobianos (tais como produtos medicinais antimicrobianos e aditivos antimicrobianos para alimentos para animais) é uma característica que deveria ser vigiada. Devem ser tomadas medidas para que tal vigilância abranja não só os agentes zoonóticos mas também, na medida em que constituam uma ameaça para a saúde pública, outros agentes. Muito em particular, poderá ser apropriado monitorizar organismos indicadores; esses organismos constituem um reservatório de genes indutores de resistência, que eles podem transferir para bactérias patogénicas.\n\n(17) Além da vigilância geral, podem ser reconhecidas necessidades específicas susceptíveis de exigir o estabelecimento de programas coordenados de vigilância. Deve ser dada especial atenção às zoonoses enumeradas no anexo I do Regulamento (CE) n.º 2160/2003.\n\n(18) Quando cuidadosamente investigados, os focos de zoonoses de origem alimentar oferecem a oportunidade de identificar o organismo patogénico, o alimento transmissor e os factores que contribuíram para o foco aquando da preparação e manuseamento dos alimentos. É, pois, adequado prever essa investigação, bem como uma cooperação estreita entre as diversas autoridades.\n\n(19) As encefalopatias espongiformes transmissíveis estão abrangidas pelo Regulamento (CE) n.º 999/2001 do Parlamento Europeu e do Conselho, de 22 de Maio de 2001, que estabelece as normas para a prevenção, o controlo e a erradicação de determinadas encefalopatias espongiformes transmissíveis ([^10^](http://publications.europa.eu/resource/cellar/12ce2054-afcd-4f62-9b87-b97ccb15e9e5.0017.03/DOC_1#E0010)).\n\n(20) Para assegurar a utilização eficaz das informações recolhidas sobre zoonoses e agentes zoonóticos, devem ser estabelecidas regras adequadas sobre o intercâmbio de todas as informações relevantes. Essas informações devem ser recolhidas nos Estados-Membros e apresentadas à Comissão sob a forma de relatórios que devem também ser rapidamente enviados à Autoridade Europeia para a Segurança dos Alimentos e postos à disposição do público de uma forma adequada.\n\n(21) Os relatórios devem ser apresentados numa base anual. No entanto, as circunstâncias podem justificar a apresentação de relatórios adicionais.\n\n(22) Poderá ser oportuno designar laboratórios de referência nacionais e comunitários para fornecerem orientação e auxílio nas análises e testes relacionados com zoonoses e agentes zoonóticos que se enquadrem no âmbito da presente directiva.\n\n(23) A Decisão 90/424/CEE do Conselho, de 26 de Junho de 1990, relativa a determinadas despesas no domínio veterinário ([^11^](http://publications.europa.eu/resource/cellar/12ce2054-afcd-4f62-9b87-b97ccb15e9e5.0017.03/DOC_1#E0011)), deverá ser alterada no que diz respeito às normas detalhadas que regulam a contribuição financeira da Comunidade em certas acções relacionadas com a vigilância e o controlo de zoonoses e agentes zoonóticos.\n\n(24) Devem ser estabelecidos procedimentos adequados para a alteração de determinadas disposições da presente directiva a fim de ter em conta a evolução científica e técnica e a adopção de medidas de execução e medidas transitórias.\n\n(25) Para se levar em conta o progresso técnico e científico, deverá ser assegurada uma estreita e efectiva cooperação entre a Comissão e os Estados-Membros no comité permanente instituído pelo Regulamento (CE) n.º 178/2002.\n\n(26) Os Estados-Membros, agindo isoladamente, não podem compilar dados comparáveis que facultem uma base para a avaliação do risco dos organismos zoonóticos com importância a nível comunitário. A compilação de tais dados pode por conseguinte realizar-se mais adequadamente a nível comunitário. Assim, a Comunidade poderá adoptar medidas, de acordo com o princípio da subsidiariedade, nos termos do artigo 5.º do Tratado. De acordo com o princípio da proporcionalidade, tal como definido naquele artigo, a presente directiva limita-se ao necessário para alcançar aqueles objectivos. O estabelecimento e a manutenção de sistemas de vigilância devem incumbir aos Estados-Membros.\n\n(27) As medidas necessárias para a aplicação da presente directiva devem ser adoptadas de acordo com a Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^12^](http://publications.europa.eu/resource/cellar/12ce2054-afcd-4f62-9b87-b97ccb15e9e5.0017.03/DOC_1#E0012)),\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "3cd215a5fa804c14": {
+   "fragment_id": "Artigo 4.º — Regras gerais aplicáveis à vigilância de zoonoses e agentes zoonóticos",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Regras gerais aplicáveis à vigilância de zoonoses e agentes zoonóticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regras gerais aplicáveis à vigilância de zoonoses e agentes zoonóticos\n\n1. Os Estados-Membros recolherão os dados pertinentes e comparáveis que permitam identificar e caracterizar os perigos, avaliar as exposições e caracterizar os riscos relacionados com as zoonoses e os agentes zoonóticos.\n\n2. A vigilância será efectuada na ou nas fases da cadeira alimentar mais adequadas para a zoonose ou o agente zoonótico em causa, designadamente:\n\na) A nível da produção primária; e/ou\n\nb) Noutras fases da cadeia alimentar, incluindo os géneros alimentícios e os alimentos para animais.\n\n3. A vigilância abrangerá as zoonoses e os agentes zoonóticos constantes da parte A do anexo I. Quando a situação epidemiológica num Estado-Membro o justificar, serão também vigiados as zoonoses e os agentes zoonóticos constantes da parte B do anexo I.\n\n4. [**►M2**](http://publications.europa.eu/resource/celex/32009R0219) A Comissão pode alterar o anexo I, a fim de acrescentar ou suprimir nas respectivas listas zoonoses ou agentes zoonóticos, tendo nomeadamente em conta os seguintes requisitos:**◄**\n\na) A sua ocorrência em populações humanas e animais, nos géneros alimentícios e nos alimentos para animais;\n\nb) A sua gravidade nos seres humanos;\n\nc) As respectivas consequências económicas para os serviços de saúde humana e animal e para as empresas do sector dos géneros alimentícios e dos alimentos para animais;\n\nd) As tendências epidemiológicas nas populações humanas e animais, nos alimentos para animais e nos géneros alimentícios.\n\nEssas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de urgência a que se refere o n.º 4 do artigo 12.º.\n\n5. A vigilância basear-se-á nos sistemas em vigor nos Estados-Membros. Todavia, sempre que necessário para facilitar a recolha e a comparação dos dados, podem ser estabelecidas modalidades para a vigilância de zoonoses e agentes zoonóticos enumerados no anexo I, de acordo com o procedimento previsto no n.º 2 do artigo 12.º e tendo em consideração outras disposições comunitárias em vigor nos domínios da saúde animal, da higiene dos géneros alimentícios e das doenças transmissíveis dos seres humanos.\n\nEssas disposições devem fixar os requisitos mínimos necessários para a vigilância de certas zoonoses ou agentes zoonóticos, podendo especificar, nomeadamente:\n\na) A população ou subpopulações animais ou as fases da cadeia alimentar a submeter a vigilância;\n\nb) A natureza e o tipo dos dados a recolher;\n\nc) A definição dos casos;\n\nd) Os esquemas de amostragem a utilizar;\n\ne) Os métodos laboratoriais a utilizar para a realização de ensaios; e\n\nf) A frequência de comunicação, incluindo as directrizes para a comunicação entre as autoridades locais, regionais e centrais.\n\n6. Ao estudar a possibilidade de propor disposições nos termos do n.º 5, a fim de harmonizar a vigilância de rotina das zoonoses e agentes zoonóticos, a Comissão dará prioridade às zoonoses e agentes zoonóticos enumerados na parte A do anexo I."
+  },
+  "072464d4b1135a0b": {
+   "fragment_id": "Artigo 5.º — Programas coordenados de vigilância",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Programas coordenados de vigilância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Programas coordenados de vigilância\n\n1. Se os dados recolhidos através da vigilância de rotina nos termos do artigo 4.º não forem suficientes, a Comissão pode estabelecer programas coordenados de vigilância respeitantes a uma ou mais zoonoses e/ou agentes zoonóticos, nomeadamente quando forem identificadas necessidades específicas de avaliação de riscos ou de estabelecimento de valores de referência relacionados com zoonoses e/ou agentes zoonóticos a nível dos Estados-Membros e/ou da Comunidade. Essas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 12.º.\n\n2. Sempre que for estabelecido um programa coordenado de vigilância, será feita especial referência às zoonoses e aos agentes zoonóticos nas populações animais constantes do anexo I do Regulamento (CE) n.º 2160/2003\n\n3. O anexo III estabelece as normas mínimas aplicáveis ao estabelecimento de programas coordenados de vigilância."
+  },
+  "5d53f16431285a9d": {
+   "fragment_id": "Artigo 9.º — Avaliação das tendências e origens das zoonoses,",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Avaliação das tendências e origens das zoonoses,",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Avaliação das tendências e origens das zoonoses,\n\n1. dos agentes zoonóticos e da resistência antimicrobiana\n\nCada Estado-Membro transmitirá à Comissão, até fins de Maio de cada ano, um relatório sobre as tendências e origens das zoonoses, dos agentes zoonóticos e da resistência antimicrobiana, cobrindo os dados recolhidos durante o ano precedente, em conformidade com os artigos 4.º, 7.º e 8.º. Os relatórios e quaisquer resumos destes serão tornados públicos.\n\nCada Estado-Membro transmitirá à Comissão, até fins de Maio de cada ano, um relatório sobre as tendências e origens das zoonoses, dos agentes zoonóticos e da resistência antimicrobiana, cobrindo os dados recolhidos durante o ano precedente, em conformidade com os artigos 4.º, 7.º e 8.º Os relatórios e quaisquer resumos destes serão tornados públicos.\n\nOs relatórios incluirão também as informações referidas na alínea b) do n.º 2 do artigo 3.º do Regulamento (CE) n.º 2160/2003.\n\nOs requisitos mínimos a que os relatórios devem obedecer são estabelecidos no anexo IV. As modalidades de avaliação desses relatórios, incluindo as relativas à sua forma e às informações mínimas que devem conter, poderão ser estabelecidas de acordo com o procedimento previsto no n.º 2 do artigo 12.º\n\n2. Sempre que as circunstâncias o justifiquem, a Comissão poderá solicitar informações suplementares específicas. Os Estados-Membros deverão apresentar relatórios à Comissão sempre que aquelas sejam solicitadas, ou por sua própria iniciativa.\n\nA Comissão enviará os relatórios referidos no n.º 1 à Autoridade Europeia para a Segurança dos Alimentos, que os examinará e publicará até ao final de Novembro um relatório de síntese sobre as tendências e origens das zoonoses, dos agentes zoonóticos e da resistência antimicrobiana na Comunidade.\n\n— Ao preparar o relatório de síntese, a Autoridade Europeia para a Segurança dos Alimentos poderá ter em consideração outros dados previstos no âmbito da legislação comunitária, nomeadamente:\n\n— no artigo 8.º da Directiva 64/432/CEE,\n\n— no n.º 2 do artigo 14.º da Directiva 89/397/CEE ([^13^](http://publications.europa.eu/resource/cellar/12ce2054-afcd-4f62-9b87-b97ccb15e9e5.0017.03/DOC_1#E0013)),\n\n— no artigo 24.º da Decisão n.º 90/424/CEE,\n\nno artigo 4.º da Decisão n.º 2119/98/CE.\n\n3. Os Estados-Membros fornecerão à Comissão os resultados dos programas coordenados de vigilância estabelecidos em conformidade com o n.º 5. A Comissão enviará esses resultados à Autoridade Europeia para a Segurança dos Alimentos. Os resultados e quaisquer resumos destes serão tornados públicos."
+  },
+  "60707e85a34ba106": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAlterações dos anexos e medidas transitórias ou de execução\n\nA Comissão pode alterar os anexos II, III e IV. Essas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 12.º.\n\nAs medidas transitórias de alcance geral, que têm por objecto alterar elementos não essenciais da presente directiva, nomeadamente completando-a com novos elementos não essenciais, designadamente especificações complementares dos requisitos previstos na presente directiva, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 12.º.\n\nPodem ser aprovadas outras medidas de aplicação ou transitórias pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 12.º."
+  },
+  "84c91fa377418ed3": {
+   "fragment_id": "Artigo 12.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Comité\n\n1. A Comissão será assistida pelo Comité da Cadeia Alimentar e da Saúde Animal instituído pelo Regulamento (CE) n.º 178/2002 ou, se adequado, pelo comité instituído pela Decisão 2119/98/CE.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão n.º 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\n4. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1, 2, 4 e 6 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "3e5d0fbb286ea825": {
+   "fragment_id": "Artigo 16.º — Alteração da Decisão 90/424/CEE",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Alteração da Decisão 90/424/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Alteração da Decisão 90/424/CEE\n\nA Decisão 90/424/CEE é alterada do seguinte modo:\n\n1. O artigo 29.\n\n1. Os Estados-Membros podem solicitar uma contribuição financeira da Comunidade para a vigilância e o controlo das zoonoses enumeradas no anexo, grupo 2, no âmbito das disposições a que se referem os n.^os^ 2 a 11 do artigo 24.º\n\n2. Com respeito ao controlo das zoonoses, a contribuição financeira da Comunidade será efectuada no quadro de um programa nacional de controlo referido no artigo 6.º do Regulamento (CE) n.º 2160/2003 do Parlamento Europeu e do Conselho, de 17 de Novembro de 2003, relativo à vigilância das zoonoses e dos agentes zoonóticos ([^14^](http://publications.europa.eu/resource/cellar/12ce2054-afcd-4f62-9b87-b97ccb15e9e5.0017.03/DOC_1#E0014)). O nível da participação financeira comunitária será fixado num máximo de 50 % das despesas suportadas com a implementação das medidas de controlo obrigatórias.\n\n2. É aditado o seguinte artigo:\n\nOs Estados-Membros poderão solicitar a contribuição financeira da Comunidade referida no n.º 2 do artigo 29.º para um plano nacional aprovado com base na Directiva 92/117/CEE, até à data em que os programas de controlo correspondentes sejam aprovados em conformidade com o artigo 6.º do Regulamento (CE) n.º 2160/2003»\n\n3. No anexo, são aditados os seguintes travessões na lista do grupo 2:\n\n«— Campilobacteriose e seus agentes,\n\n— Listeriose e seus agentes,\n\n— Salmonelose (salmonela zoonótica) e seus agentes,\n\n— Triquinose e seus agentes,\n\n— *Escherichia coli* verotoxigénicas.»."
+  },
+  "984f6048f59adc0f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/12ce2054-afcd-4f62-9b87-b97ccb15e9e5.0017.03/DOC_1#src.E0001)) JO C 304 E de 30.10.2001, p. 250.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/12ce2054-afcd-4f62-9b87-b97ccb15e9e5.0017.03/DOC_1#src.E0002)) JO C 94 de 18.4.2002, p. 18.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/12ce2054-afcd-4f62-9b87-b97ccb15e9e5.0017.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu, de 15 de Maio de 2002 (JO C 180 E de 31.7.2003, p. 161), Posição Comum do Conselho de 20 de Fevereiro de 2003 e Posição do Parlamento Europeu de 19 de Junho de 2003 (ainda não publicada no Jornal Oficial).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/12ce2054-afcd-4f62-9b87-b97ccb15e9e5.0017.03/DOC_1#src.E0004)) JO L 62 de 15.3.1993, p. 38. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 806/2003 (JO L 122 de 16.5.2003, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/12ce2054-afcd-4f62-9b87-b97ccb15e9e5.0017.03/DOC_1#src.E0005)) JO 121 de 29.7.1964, p. 1977. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1226/2002 da Comissão (JO L 179 de 9.7.2002, p. 13).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/12ce2054-afcd-4f62-9b87-b97ccb15e9e5.0017.03/DOC_1#src.E0006)) JO L 46 de 19.2.1991, p. 19. Directiva com a última redacção que lhe foi dada pela Decisão 2003/708/CE da Comissão (JO L 258 de 10.10.2003, p. 11).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/12ce2054-afcd-4f62-9b87-b97ccb15e9e5.0017.03/DOC_1#src.E0007)) JO L 268 de 3.10.1998, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/12ce2054-afcd-4f62-9b87-b97ccb15e9e5.0017.03/DOC_1#src.E0008)) Ver página 1 do presente Jornal Oficial.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/12ce2054-afcd-4f62-9b87-b97ccb15e9e5.0017.03/DOC_1#src.E0009)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/12ce2054-afcd-4f62-9b87-b97ccb15e9e5.0017.03/DOC_1#src.E0010)) JO L 147 de 31.5.2001, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1494/2002 da Comissão (JO L 225 de 22.8.2002, p. 3).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/12ce2054-afcd-4f62-9b87-b97ccb15e9e5.0017.03/DOC_1#src.E0011)) JO L 224 de 18.8.1990, p. 19. Decisão com a última redacção que lhe foi dada pela Decisão 2001/572/CE (JO L 203 de 28.7.2001, p. 16).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/12ce2054-afcd-4f62-9b87-b97ccb15e9e5.0017.03/DOC_1#src.E0012)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/12ce2054-afcd-4f62-9b87-b97ccb15e9e5.0017.03/DOC_1#src.E0013)) Directiva 89/397/CEE do Conselho, de 14 de Junho de 1989, relativa ao controlo oficial dos géneros alimentícios (JO L 186 de 30.6.1989, p. 23).\n\n> ([^14^](http://publications.europa.eu/resource/cellar/12ce2054-afcd-4f62-9b87-b97ccb15e9e5.0017.03/DOC_1#src.E0014)) JO L 325 de 12.12.2003, p. 1.»"
+  },
+  "5bb76de1be62506e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Novembro de 2003\n\nrelativa à vigilância das zoonoses e dos agentes zoonóticos, que altera a Decisão 90/424/CEE do Conselho e revoga a Directiva 92/117/CEE do Conselho"
+  },
+  "676add888eca21c2": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1. O objecto da presente directiva consiste em assegurar a vigilância adequada das zoonoses, dos agentes zoonóticos e das resistências antimicrobianas conexas, bem como uma adequada investigação epidemiológica dos focos patogénicos de origem alimentar, de forma a que possam ser recolhidas na Comunidade as informações necessárias para permitir avaliar as tendências e origens pertinentes.\n\n2.\n\nA presente directiva abrange:\n\na) A vigilância das zoonoses e dos agentes zoonóticos;\n\nb) A vigilância das resistências antimicrobianas conexas;\n\nc) A investigação epidemiológica dos focos patogénicos de origem alimentar; e\n\nd) O intercâmbio de informações relacionadas com as zoonoses e os agentes zoonóticos.\n\n3. A presente directiva é aplicável sem prejuízo de disposições comunitárias mais específicas em matéria de saúde animal, nutrição animal, higiene dos géneros alimentícios, doenças transmissíveis dos seres humanos, saúde e segurança no trabalho, engenharia genética e encefalopatias espongiformes transmissíveis."
+  },
+  "41e11bd601d04942": {
+   "fragment_id": "Artigo 3.º — Obrigações gerais",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Obrigações gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Obrigações gerais\n\n1. Os Estados-Membros assegurarão que os dados sobre a ocorrência de zoonoses, agentes zoonóticos e resistência antimicrobiana com eles relacionada sejam recolhidos, analisados e publicados sem demora em conformidade com os requisitos da presente directiva e de quaisquer disposições dela decorrentes.\n\n2.\n\nCada Estado-Membro designará a ou as autoridades competentes para efeitos da presente directiva e informará a Comissão desse facto. Caso um Estado-Membro designe mais do que uma autoridade competente, deverá:\n\na) Notificar à Comissão a autoridade competente que actuará como ponto de contacto nas relações com a Comissão; e\n\nb) Assegurar que as autoridades competentes cooperem por forma a garantir a correcta implementação dos requisitos da presente directiva.\n\n3.\n\nCada Estado-Membro deverá assegurar, de forma eficaz e continuada, a cooperação com base na livre troca de informações gerais e, se for caso disso, de dados específicos, entre a ou as autoridades competentes designadas nos termos da presente directiva e:\n\na) As autoridades competentes para efeitos da legislação comunitária sobre saúde animal;\n\nb) As autoridades competentes para efeitos da legislação comunitária em matéria de alimentação animal;\n\nc) As autoridades competentes para efeitos da legislação comunitária sobre higiene dos géneros alimentícios;\n\nd) As estruturas e/ou autoridades referidas no artigo 1.º da Decisão n.º 2119/98/CE;\n\ne) Outras autoridades ou organizações interessadas.\n\n4. Cada Estado-Membro assegurará que os funcionários da ou das autoridades competentes a que se refere o n.º 2 recebam uma formação inicial e contínua adequada em matéria de ciências veterinárias, microbiologia ou epidemiologia, consoante as necessidades."
+  },
+  "376be812bd971bb5": {
+   "fragment_id": "Artigo 4.º — Regras gerais aplicáveis à vigilância de zoonoses e agentes zoonóticos",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Regras gerais aplicáveis à vigilância de zoonoses e agentes zoonóticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regras gerais aplicáveis à vigilância de zoonoses e agentes zoonóticos\n\n1. Os Estados-Membros recolherão os dados pertinentes e comparáveis que permitam identificar e caracterizar os perigos, avaliar as exposições e caracterizar os riscos relacionados com as zoonoses e os agentes zoonóticos.\n\n2.\n\nA vigilância será efectuada na ou nas fases da cadeira alimentar mais adequadas para a zoonose ou o agente zoonótico em causa, designadamente:\n\na) A nível da produção primária; e/ou\n\nb) Noutras fases da cadeia alimentar, incluindo os géneros alimentícios e os alimentos para animais.\n\n3. A vigilância abrangerá as zoonoses e os agentes zoonóticos constantes da parte A do anexo I. Quando a situação epidemiológica num Estado-Membro o justificar, serão também vigiados as zoonoses e os agentes zoonóticos constantes da parte B do anexo I.\n\n4.\n\n[**►M2**](http://publications.europa.eu/resource/celex/32009R0219) A Comissão pode alterar o anexo I, a fim de acrescentar ou suprimir nas respectivas listas zoonoses ou agentes zoonóticos, tendo nomeadamente em conta os seguintes requisitos:**◄**\n\na) A sua ocorrência em populações humanas e animais, nos géneros alimentícios e nos alimentos para animais;\n\nb) A sua gravidade nos seres humanos;\n\nc) As respectivas consequências económicas para os serviços de saúde humana e animal e para as empresas do sector dos géneros alimentícios e dos alimentos para animais;\n\nd) As tendências epidemiológicas nas populações humanas e animais, nos alimentos para animais e nos géneros alimentícios.\n\nEssas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de urgência a que se refere o n.º 4 do artigo 12.º.\n\n5. A vigilância basear-se-á nos sistemas em vigor nos Estados-Membros. Todavia, sempre que necessário para facilitar a recolha e a comparação dos dados, podem ser estabelecidas modalidades para a vigilância de zoonoses e agentes zoonóticos enumerados no anexo I, de acordo com o procedimento previsto no n.º 2 do artigo 12.º e tendo em consideração outras disposições comunitárias em vigor nos domínios da saúde animal, da higiene dos géneros alimentícios e das doenças transmissíveis dos seres humanos.\n\nEssas disposições devem fixar os requisitos mínimos necessários para a vigilância de certas zoonoses ou agentes zoonóticos, podendo especificar, nomeadamente:\n\na) A população ou subpopulações animais ou as fases da cadeia alimentar a submeter a vigilância;\n\nb) A natureza e o tipo dos dados a recolher;\n\nc) A definição dos casos;\n\nd) Os esquemas de amostragem a utilizar;\n\ne) Os métodos laboratoriais a utilizar para a realização de ensaios; e\n\nf) A frequência de comunicação, incluindo as directrizes para a comunicação entre as autoridades locais, regionais e centrais.\n\n6. Ao estudar a possibilidade de propor disposições nos termos do n.º 5, a fim de harmonizar a vigilância de rotina das zoonoses e agentes zoonóticos, a Comissão dará prioridade às zoonoses e agentes zoonóticos enumerados na parte A do anexo I."
+  },
+  "4a78bd26a8082ccc": {
+   "fragment_id": "Artigo 6.º — Obrigações dos operadores de empresas do sector alimentar",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Obrigações dos operadores de empresas do sector alimentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigações dos operadores de empresas do sector alimentar\n\n1.\n\nOs Estados-Membros assegurarão que, quando procedam a análises destinadas a detectar a presença de zoonoses e agentes zoonóticos que são objecto de vigilância em conformidade com o n.º 2 do artigo 4.º, os operadores das empresas do sector alimentar:\n\na) Conservem os resultados por um período a especificar pela autoridade competente; e\n\nb) Comuniquem esses resultados ou forneçam isolados a essa autoridade, a pedido desta.\n\n2. As modalidades de execução do presente artigo podem ser estabelecidas de acordo com o procedimento referido no n.º 2 do artigo 12.º"
+  },
+  "f5e98f84a4c6dd3c": {
+   "fragment_id": "Artigo 9.º — Avaliação das tendências e origens das zoonoses,",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Avaliação das tendências e origens das zoonoses,",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Avaliação das tendências e origens das zoonoses,\n\n1. dos agentes zoonóticos e da resistência antimicrobiana\n\nCada Estado-Membro deve transmitir à Comissão até fins de maio de cada ano, no respeitante à Bulgária e à Roménia, pela primeira vez, até fins de maio de 2008 e, no respeitante à Croácia, pela primeira vez, até fins de maio de 2014, um relatório sobre as tendências e origens das zoonoses, dos agentes zoonóticos e da resistência antimicrobiana, cobrindo os dados recolhidos durante o ano precedente, nos termos dos artigos 4.o, 7.o e 8.o. Os relatórios e quaisquer resumos destes devem ser tornados públicos.\n\nCada Estado-Membro transmitirá à Comissão, até fins de Maio de cada ano, um relatório sobre as tendências e origens das zoonoses, dos agentes zoonóticos e da resistência antimicrobiana, cobrindo os dados recolhidos durante o ano precedente, em conformidade com os artigos 4.º, 7.º e 8.º Os relatórios e quaisquer resumos destes serão tornados públicos.\n\nOs relatórios incluirão também as informações referidas na alínea b) do n.º 2 do artigo 3.º do Regulamento (CE) n.º 2160/2003.\n\nOs requisitos mínimos a que os relatórios devem obedecer são estabelecidos no anexo IV. As modalidades de avaliação desses relatórios, incluindo as relativas à sua forma e às informações mínimas que devem conter, poderão ser estabelecidas de acordo com o procedimento previsto no n.º 2 do artigo 12.º\n\n2. Sempre que as circunstâncias o justifiquem, a Comissão poderá solicitar informações suplementares específicas. Os Estados-Membros deverão apresentar relatórios à Comissão sempre que aquelas sejam solicitadas, ou por sua própria iniciativa.\n\nA Comissão enviará os relatórios referidos no n.º 1 à Autoridade Europeia para a Segurança dos Alimentos, que os examinará e publicará até ao final de Novembro um relatório de síntese sobre as tendências e origens das zoonoses, dos agentes zoonóticos e da resistência antimicrobiana na Comunidade.\n\n— Ao preparar o relatório de síntese, a Autoridade Europeia para a Segurança dos Alimentos poderá ter em consideração outros dados previstos no âmbito da legislação comunitária, nomeadamente:\n\n— no artigo 8.º da Directiva 64/432/CEE,\n\n— no n.º 2 do artigo 14.º da Directiva 89/397/CEE ([^13^](http://publications.europa.eu/resource/cellar/8bb3a504-4775-4e9e-b89b-a9ba3202b216.0018.03/DOC_1#E0013)),\n\n— no artigo 24.º da Decisão n.º 90/424/CEE,\n\nno artigo 4.º da Decisão n.º 2119/98/CE.\n\n3. Os Estados-Membros fornecerão à Comissão os resultados dos programas coordenados de vigilância estabelecidos em conformidade com o n.º 5. A Comissão enviará esses resultados à Autoridade Europeia para a Segurança dos Alimentos. Os resultados e quaisquer resumos destes serão tornados públicos."
+  },
+  "a2fc30ef09bddf84": {
+   "fragment_id": "1. Zoonoses virais",
+   "type": "divisao",
+   "heading": "1. Zoonoses virais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1. Zoonoses virais\n\n— Calicivírus\n\n— Vírus da hepatite A\n\n— Vírus da gripe\n\n— Raiva\n\n— Vírus transmitidos pelos artrópodes"
+  },
+  "22d4b8467fa36ce9": {
+   "fragment_id": "2. Zoonoses bacterianas",
+   "type": "divisao",
+   "heading": "2. Zoonoses bacterianas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2. Zoonoses bacterianas\n\n— Borreliose e seus agentes\n\n— Botulismo e seus agentes\n\n— Leptospirose e seus agentes\n\n— Psitacose e seus agentes\n\n— Tuberculose que não a do ponto A\n\n— Vibriose e seus agentes\n\n— Iersiniose e seus agentes"
+  },
+  "6c0b1f3bc35238e9": {
+   "fragment_id": "3. Zoonoses parasitárias",
+   "type": "divisao",
+   "heading": "3. Zoonoses parasitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 3. Zoonoses parasitárias\n\n— Anisaquiase e seus agentes\n\n— Criptosporidiose e seus agentes\n\n— Cisticercose e seus agentes\n\n— Toxoplasmose e seus agentes"
+  },
+  "a592bc072b6611ea": {
+   "fragment_id": "4. Outras zoonoses e agentes zoonóticos",
+   "type": "divisao",
+   "heading": "4. Outras zoonoses e agentes zoonóticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 4. Outras zoonoses e agentes zoonóticos"
+  },
+  "c1674bc9865635ad": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/8bb3a504-4775-4e9e-b89b-a9ba3202b216.0018.03/DOC_1#src.E0001)) JO C 304 E de 30.10.2001, p. 250.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/8bb3a504-4775-4e9e-b89b-a9ba3202b216.0018.03/DOC_1#src.E0002)) JO C 94 de 18.4.2002, p. 18.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/8bb3a504-4775-4e9e-b89b-a9ba3202b216.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu, de 15 de Maio de 2002 (JO C 180 E de 31.7.2003, p. 161), Posição Comum do Conselho de 20 de Fevereiro de 2003 e Posição do Parlamento Europeu de 19 de Junho de 2003 (ainda não publicada no Jornal Oficial).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/8bb3a504-4775-4e9e-b89b-a9ba3202b216.0018.03/DOC_1#src.E0004)) JO L 62 de 15.3.1993, p. 38. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 806/2003 (JO L 122 de 16.5.2003, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/8bb3a504-4775-4e9e-b89b-a9ba3202b216.0018.03/DOC_1#src.E0005)) JO 121 de 29.7.1964, p. 1977. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1226/2002 da Comissão (JO L 179 de 9.7.2002, p. 13).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/8bb3a504-4775-4e9e-b89b-a9ba3202b216.0018.03/DOC_1#src.E0006)) JO L 46 de 19.2.1991, p. 19. Directiva com a última redacção que lhe foi dada pela Decisão 2003/708/CE da Comissão (JO L 258 de 10.10.2003, p. 11).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/8bb3a504-4775-4e9e-b89b-a9ba3202b216.0018.03/DOC_1#src.E0007)) JO L 268 de 3.10.1998, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/8bb3a504-4775-4e9e-b89b-a9ba3202b216.0018.03/DOC_1#src.E0008)) Ver página 1 do presente Jornal Oficial.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/8bb3a504-4775-4e9e-b89b-a9ba3202b216.0018.03/DOC_1#src.E0009)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/8bb3a504-4775-4e9e-b89b-a9ba3202b216.0018.03/DOC_1#src.E0010)) JO L 147 de 31.5.2001, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1494/2002 da Comissão (JO L 225 de 22.8.2002, p. 3).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/8bb3a504-4775-4e9e-b89b-a9ba3202b216.0018.03/DOC_1#src.E0011)) JO L 224 de 18.8.1990, p. 19. Decisão com a última redacção que lhe foi dada pela Decisão 2001/572/CE (JO L 203 de 28.7.2001, p. 16).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/8bb3a504-4775-4e9e-b89b-a9ba3202b216.0018.03/DOC_1#src.E0012)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/8bb3a504-4775-4e9e-b89b-a9ba3202b216.0018.03/DOC_1#src.E0013)) Directiva 89/397/CEE do Conselho, de 14 de Junho de 1989, relativa ao controlo oficial dos géneros alimentícios (JO L 186 de 30.6.1989, p. 23)."
+  }
+ }
+}

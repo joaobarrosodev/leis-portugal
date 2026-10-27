@@ -1,0 +1,282 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:127582899:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-948811138",
+ "dre_path": "/dr/detalhe/portaria/410-2019-127582899",
+ "source_lastmod": "2026-03-19",
+ "versions": [
+  {
+   "date": "2026-03-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1073088594:por",
+     "title": "Portaria n.º 114/2026/1",
+     "published": "2026-03-17",
+     "dre_path": "/dr/detalhe/portaria/114-2026-1073088594"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "948926675",
+    "948926875",
+    "1073679875",
+    "1073683875",
+    "948927475",
+    "1073684075",
+    "1073684275",
+    "948928075",
+    "948928275",
+    "948928475",
+    "948928675",
+    "948928875",
+    "948929075",
+    "948929275",
+    "948929475",
+    "948929675",
+    "948929875",
+    "948930075",
+    "948930275",
+    "948930475",
+    "948930675",
+    "948930875",
+    "948931075",
+    "948931275",
+    "948931475",
+    "948931675",
+    "948931875"
+   ]
+  }
+ ],
+ "fragments": {
+  "948926675": {
+   "fragment_id": "948926575",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Sumário: Fixa os suplementos remuneratórios previstos no n.º 1 do artigo 6.º do Decreto-Lei n.º 64/2017, de 12 de junho, na sua atual redação.\n\nO Decreto-Lei n.º 64/2017, de 12 de junho, define um regime especial e extraordinário para a instalação e exploração, por municípios ou, por decisão destes, por comunidades intermunicipais ou por associações de municípios de fins específicos, de novas centrais de valorização de biomassa e estabelece as medidas de apoio e incentivo destinadas a assegurar a sua concretização.\n\nConsiderando a acrescida relevância do aproveitamento da biomassa para usos energéticos, assumida no Plano Nacional de Energia e Clima, o Decreto-Lei n.º 120/2019, de 22 de agosto, que altera o Decreto-Lei n.º 64/2017, de 12 de junho, veio, maximizando as potencialidades deste regime especial, garantir que apenas as soluções que assegurem a eficiência energética dos projetos através do pleno aproveitamento da energia térmica produzida são elegíveis para efeitos do regime especial de apoio, autorizado pela Comissão Europeia.\n\nNeste sentido, o artigo 6.º do Decreto-Lei n.º 64/2017, de 12 de junho, na sua atual redação, determina que a eletricidade produzida pelas centrais a biomassa e injetada na Rede Elétrica de Serviço Público é remunerada ao preço do Mercado Ibérico de Eletricidade acrescido dos suplementos remuneratórios referidos no n.º 1 daquele artigo, a estabelecer por portaria do membro do Governo responsável pela energia, ouvida a Direção-Geral de Energia e Geologia e a Entidade Reguladora dos Serviços Energéticos.\n\nPor outro lado, a presente portaria estabelece os termos e condições contratuais da energia elétrica injetada na Rede Elétrica de Serviço Público pelas centrais a biomassa e adquirida pelo Comercializador de Último Recurso.\n\nAssim:\n\nAo abrigo do disposto no n.º 4 do artigo 6.º e no n.º 1 do artigo 6.º-A do Decreto-Lei n.º 64/2017, de 12 de junho, na sua atual redação, e das competências delegadas pelo Ministro do Ambiente e da Ação Climática, através do Despacho n.º 12149-A/2019, publicado no Diário da República, 2.ª série, n.º 243, em 18 de dezembro de 2019, manda o Governo, pelo Secretário de Estado Adjunto e da Energia, o seguinte:\n\n> Nota: [Artigo 4.º, Portaria n.º 114/2026/1 - Diário da República n.º 53/2026, Série I de 2026-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/114-2026-1073088594) As referências legais e regulamentares constantes desta portaria e respetivo anexo, consideram-se feitas para os correspondentes diplomas em vigor."
+  },
+  "948926875": {
+   "fragment_id": "948926775",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria fixa os suplementos remuneratórios previstos no n.º 1 do artigo 6.º do Decreto-Lei n.º 64/2017, de 12 de junho, na sua atual redação.\n\n2 - A presente portaria estabelece, ainda, os termos e condições do contrato de venda a celebrar com o Comercializador de Último Recurso (CUR), relativo à energia elétrica injetada na Rede Elétrica de Serviço Público (RESP) pelas centrais a biomassa."
+  },
+  "1073679875": {
+   "fragment_id": "948926975",
+   "type": 11,
+   "heading": "Artigo 2.º — Suplementos Remuneratórios",
+   "in_force_from": "2026-03-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 114/2026/1 - Diário da República n.º 53/2026, Série I de 2026-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/114-2026-1073088594), em vigor a partir de 2026-03-18."
+   ],
+   "markdown": "###### Artigo 2.º — Suplementos Remuneratórios\n\n1 - O prémio de mercado, positivo ou negativo, a que se refere a alínea a) do n.º 1 do artigo 6.º do Decreto-Lei n.º 64/2017, de 12 de junho, na sua redação atual, devido à central a biomassa i pela energia produzida e injetada na RESP no mês m, é determinado segundo a seguinte fórmula:\r\nPmercado(i,m) = Vref(i) - PMIBEL(i,m)\r\nem que:\r\nPmercado(i,m) é o prémio de mercado, positivo ou negativo, expresso em euros por megawatt-hora (€/MWh);\r\nVref(i) é um valor de referência definido em função da potência elétrica instalada da central a biomassa i, expresso em €/MWh, nos termos da tabela seguinte:\n\n| Potência instalada | Vref(i) |\n| --- | --- |\n| < 2 MW | 82,50 €/MWh |\n| ≥ 2 MW e < 5 MW | 75 €/MWh |\n| ≥ 5 MW | 67,50 €/MWh |\n\nPMIBEL(i,m) é a média aritmética simples dos preços horários de fecho do mercado diário, afetos à área portuguesa do Mercado Ibérico de Eletricidade (MIBEL), publicados pelo Operador do Mercado Ibérico, polo espanhol (OMIE), nos 12 meses que antecedem o mês m, a que a produção de eletricidade na central a biomassa i diz respeito, expresso em €/MWh;\r\n2 - O prémio do contributo dado pela central para a defesa contra incêndios e a preservação da floresta a que se refere a alínea b) do n.º 1 do artigo 6.º do Decreto-Lei n.º 64/2017, de 12 de junho, na sua redação atual, é determinado em função da percentagem de área ardida, devidamente identificada no registo cartográfico de áreas ardidas, a que se refere o artigo 37.º do Decreto-Lei n.º 82/2021, de 13 de outubro, na sua redação atual, acumulada no município ou municípios afetados, no período de referência, consoante o projeto seja desenvolvido por um município ou por vários, nos seguintes termos:\r\nPDIF(i,n) = (145 - VRef) × C\r\nem que:\r\nPDIF(i,n) é o prémio do contributo dado pela central para a defesa contra incêndios e a preservação da floresta devido à central a biomassa i pela eletricidade produzida no ano n a partir da biomassa florestal residual, conforme definida na lei, com origem nos territórios vulneráveis referidos na alínea a) do n.º 2 do artigo 3.º do Decreto-Lei n.º 64/2017, de 12 de junho, na sua redação atual, expresso em €/MWh;\r\nVRef é o valor de referência, nos termos do n.º 1;\r\nC é o coeficiente aplicável em função da percentagem de área ardida acumulada, no município ou municípios afetados, no período de referência, devidamente identificada no registo cartográfico de áreas ardidas, a que se refere o artigo 37.º do Decreto-Lei n.º 82/2021, de 13 de outubro, na sua redação atual, nos termos da tabela seguinte:\n\n| Percentagem de área ardida acumulada nos municípios afetados, no período de referência | C |\n| --- | --- |\n| [0,0 % - 3,0 %] | 1 |\n| ] 3,0 % - 6,0 %] | 0,9 |\n| ] 6,0 % - 9,0 %] | 0,7 |\n| ] 9,0 % -12,0 %] | 0,5 |\n| ] 12,0 % - 15,0 %] | 0,3 |\n| ] 15,0 % - 21,0 %] | 0,1 |\n| > 21,0 % | 0 |\n\n3 - O prémio referido no número anterior é devido no ano seguinte àquele a que a produção de eletricidade diz respeito, sendo pago a partir do mês de abril.\r\n4 - O período de referência corresponde a três anos, o ano a que a produção diz respeito e os dois anos imediatamente anteriores (anos n, n-1 e n-2), exceto:\r\na) No primeiro ano de produção, em que corresponde ao próprio ano de produção (ano n);\r\nb) No segundo ano de produção, em que corresponde ao ano de produção e ao ano imediatamente anteriores (anos n e n-1).\r\n5 - Nos termos dos números anteriores, a soma do valor da média aritmética dos preços PMIBEL(i,m) com os prémios de mercado Pmercado(i,m) e do contributo dado pela central para a defesa contra incêndios e a preservação da floresta PDIF(i,n) nunca pode ser superior a 145 €/MWh.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 114/2026/1 - Diário da República n.º 53/2026, Série I de 2026-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/114-2026-1073088594), em vigor a partir de 2026-03-18."
+  },
+  "1073683875": {
+   "fragment_id": "948927175",
+   "type": 11,
+   "heading": "Artigo 3.º — Prazo de vigência",
+   "in_force_from": "2026-03-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 114/2026/1 - Diário da República n.º 53/2026, Série I de 2026-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/114-2026-1073088594), em vigor a partir de 2026-03-18."
+   ],
+   "markdown": "###### Artigo 3.º — Prazo de vigência\n\n1 - Os suplementos remuneratórios previstos nesta portaria vigoram pelo prazo estabelecido no n.º 2 do artigo 6.º do Decreto-Lei n.º 64/2017, de 12 de junho, na sua redação atual.\n\n2 - [Revogado.]\n\n3 - Até 31 de outubro de cada ano, com início em outubro de 2020, a Entidade Reguladora dos Serviços Energéticos (ERSE) procede ao cálculo dos custos normalizados de produção de energia - Levelized Cost of Energy (LCOE) - das centrais a biomassa e remete os resultados para o membro do Governo responsável pela área da energia.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 114/2026/1 - Diário da República n.º 53/2026, Série I de 2026-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/114-2026-1073088594), em vigor a partir de 2026-03-18."
+  },
+  "948927475": {
+   "fragment_id": "948927375",
+   "type": 11,
+   "heading": "Artigo 4.º — Contrato de venda da eletricidade ao Comercializador de Último Recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Contrato de venda da eletricidade ao Comercializador de Último Recurso\n\n1 - O CUR, nos termos previstos no artigo 6.º-A do Decreto-Lei n.º 64/2017, na sua versão atual, tem a obrigação de adquirir a energia elétrica injetada na RESP pelos produtores abrangidos por este regime especial e extraordinário, que é remunerada ao preço do MIBEL, acrescido dos suplementos remuneratórios calculados de acordo com o artigo 2.º deste diploma.\n\n2 - Os termos e as condições contratuais relativos ao pagamento, pelo CUR, da energia elétrica injetada na RESP pelos produtores titulares de centrais a biomassa licenciadas ao abrigo do regime estabelecido pelo Decreto-Lei n.º 64/2017, na sua versão atual, regem-se pelas cláusulas do contrato tipo constante do Anexo I, que faz parte integrante da presente portaria.\n\n3 - Em caso de incumprimento legal ou contratual, o CUR tem legitimidade para intentar as ações judiciais adequadas ao ressarcimento dos danos em que incorreu, sem prejuízo da fiscalização e sancionamento pela ERSE e pela Direção-Geral de Energia e Geologia (DGEG), no âmbito das respetivas competências."
+  },
+  "1073684075": {
+   "fragment_id": "948927575",
+   "type": 11,
+   "heading": "Artigo 5.º — Obrigações do produtor",
+   "in_force_from": "2026-03-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 114/2026/1 - Diário da República n.º 53/2026, Série I de 2026-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/114-2026-1073088594), em vigor a partir de 2026-03-18."
+   ],
+   "markdown": "###### Artigo 5.º — Obrigações do produtor\n\n1 - Os produtores de energia titulares de centrais a biomassa licenciadas ao abrigo do regime regulado pelo presente diploma devem anualmente fazer prova, até ao dia 31 de janeiro e com início em 2021, junto da DGEG ou de entidade em que esta delegar, dos elementos previstos no número seguinte.\n\n2 - Os elementos previstos no número anterior constam de um Relatório, elaborado por entidade independente, para o ano n onde conste:\n\na) A energia elétrica total produzida no ano n-1;\n\nb) A energia elétrica autoconsumida no ano n-1;\n\nc) A energia elétrica injetada na rede no ano n-1;\n\nd) O calor útil expectável, calculado em função da potência térmica a instalar, tal como previsto na alínea e) do n.º 2, do artigo 3.º do Decreto-Lei n.º 64/2017, na sua versão atual, o qual deve constar do pedido de instalação e exploração da central de biomassa, apresentado nos termos do n.º 2 do artigo 3.º do Decreto-Lei n.º 64/2017, na sua versão atual;\n\ne) O calor útil produzido no ano n-1, tal como definido no artigo 2.º-A do Decreto-Lei n.º 23/2010, de 25 de março, na sua versão atual.\n\n3 - Para efeitos do disposto número anterior, o Relatório é elaborado por entidade que não mantenha com o produtor qualquer relação de domínio, direto ou indireto, nem lhe tenha prestado qualquer serviço.\n\n4 - [Revogado.]\n\n5 - Para a verificação e validação dos dados fornecidos pelo produtor, a DGEG ou a entidade em que esta delegar, pode solicitar informações e dados relativos à instalação e seu funcionamento, aceder aos serviços e instalações e, nesse âmbito, realizar vistoria e recolher os elementos e registos relativos ao funcionamento da mesma.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 114/2026/1 - Diário da República n.º 53/2026, Série I de 2026-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/114-2026-1073088594), em vigor a partir de 2026-03-18."
+  },
+  "1073684275": {
+   "fragment_id": "948927775",
+   "type": 11,
+   "heading": "Artigo 6.º — Garantias de Origem",
+   "in_force_from": "2026-03-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 114/2026/1 - Diário da República n.º 53/2026, Série I de 2026-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/114-2026-1073088594), em vigor a partir de 2026-03-18."
+   ],
+   "markdown": "###### Artigo 6.º — Garantias de Origem\n\n1 - Qualquer produtor de energia titular de central a biomassa abrangida pelo regime regulado pelo presente diploma pode, caso produza eletricidade em instalações de cogeração de elevada eficiência, solicitar à entidade emissora de garantias de origem (EEGO) a emissão de garantia de origem referente à eletricidade produzida em cogeração.\n\n2 - [Revogado.]\n\n3 - [Revogado.]\n\n4 - Sempre que o Relatório referido no n.º 2 do artigo anterior evidenciar que o valor previsto na alínea e) é inferior ao previsto na alínea d), a DGEG comunica esse facto à EEGO para efeitos de cancelamento das respetivas garantias de origem.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 114/2026/1 - Diário da República n.º 53/2026, Série I de 2026-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/114-2026-1073088594), em vigor a partir de 2026-03-18."
+  },
+  "948928075": {
+   "fragment_id": "948927975",
+   "type": 11,
+   "heading": "Artigo 7.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Produção de efeitos\n\nA presente portaria produz efeitos a partir do dia 1 de janeiro de 2020."
+  },
+  "948928275": {
+   "fragment_id": "948928175",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado Adjunto e da Energia, João Saldanha de Azevedo Galamba, em 20 de dezembro de 2019."
+  },
+  "948928475": {
+   "fragment_id": "948928375",
+   "type": 14,
+   "heading": "Anexo I — Contrato Tipo de Compra de Energia Elétrica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Contrato Tipo de Compra de Energia Elétrica\n\n(a que se refere o n.º 2 do artigo 4.º)\n\nIdentificação das Partes (designação, morada, capital social, número de pessoa coletiva, matrícula na Conservatória do Registo Comercial, representantes e qualidade)\n\nConsiderandos:\n\nA) Do titular de licença de comercializador de último recurso (CUR), nos termos do disposto nos Decretos-Leis n.os 29/2006, de 15 de fevereiro (com as alterações subsequentes) e 172/2006, de 23 de agosto (com as alterações subsequentes, nomeadamente o Decreto-Lei n.º 76/2019, de 3 de junho);\n\nB) Do titular de uma central de valorização de biomassa, situada em ..., licenciada ao abrigo do regime especial e extraordinário previsto no Decreto-Lei n.º 64/2017, na sua atual redação;\n\nC) O artigo 6.º do Decreto-Lei n.º 64/2017, de 12 de junho, com as alterações introduzidas pela Declaração de Retificação n.º 20/2017 de 3 de agosto e pelo Decreto-Lei n.º 120/2019 de 22 de agosto na sua atual redação (doravante designado Decreto-Lei n.º 64/2017), determina que a eletricidade produzida nas centrais a biomassa e injetada na Rede Elétrica de Serviço Público (RESP) é remunerada ao preço do Mercado Ibérico de Eletricidade acrescido dos suplementos remuneratórios referidos no n.º 1 daquele artigo.\n\nÉ celebrado o presente Contrato, nos termos das normas legais e regulamentares em vigor e de acordo com as cláusulas seguintes:"
+  },
+  "948928675": {
+   "fragment_id": "948928575",
+   "type": 11,
+   "heading": "Cláusula 1.º — Objeto do Contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Cláusula 1.º — Objeto do Contrato\n\n1 - O regime legal atualmente em vigor define o enquadramento das circunstâncias em que as Partes fundam as respetivas decisões de celebrar o presente contrato.\n\n2 - O Produtor é titular de uma central de biomassa sita em ..., com a potência instalada de ... kW (... kVA) (doravante designada «Central de Biomassa»), de acordo com o constante na Licença de Produção emitida pela Direção-Geral de Energia e Geologia (doravante DGEG) a ..., que constitui o Anexo I ao presente contrato e dele fica a fazer parte integrante.\n\n3 - De acordo com o estabelecido no regime legal aplicável, o CUR obriga-se a proceder ao pagamento da energia elétrica injetada na RESP, correspondente à energia elétrica produzida deduzida do consumo dos serviços auxiliares, remunerada ao preço do Mercado Ibérico de Eletricidade, acrescido dos suplementos remuneratórios previstos no artigo 6.º do Decreto-Lei n.º 64/2017, na sua atual redação e na Portaria n.º 410/2019, de 27 de dezembro, que fixa os suplementos remuneratórios previstos no n.º 1 do artigo 6.º do mesmo decreto-lei.\n\n4 - O Produtor poderá receber energia a partir da rede recetora, para alimentação dos serviços auxiliares ou outros consumos próprios da instalação produtora de energia, devendo para o efeito estabelecer um contrato específico, na qualidade de cliente, com um comercializador de energia legalmente habilitado."
+  },
+  "948928875": {
+   "fragment_id": "948928775",
+   "type": 11,
+   "heading": "Cláusula 2.º — Equipamento e potência a injetar na RESP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Cláusula 2.º — Equipamento e potência a injetar na RESP\n\n1 - A central de biomassa de ..., com a potência instalada de ... kW (... kVA) é constituída por ...\n\n2 - A potência a injetar na RESP fica limitada a ... kVA, de acordo com a Licença de Exploração emitida pela DGEG a ..., incluída no Anexo II ao presente contrato e que dele faz parte integrante.\n\n3 - A entrada em exploração da instalação definida no n.º 1 foi concedida pela Licença de Exploração referida no ponto anterior."
+  },
+  "948929075": {
+   "fragment_id": "948928975",
+   "type": 11,
+   "heading": "Cláusula 3.º — Cumprimento da legislação e regulamentação aplicáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Cláusula 3.º — Cumprimento da legislação e regulamentação aplicáveis\n\nAs Partes obrigam-se a cumprir a legislação e regulamentação aplicável à execução do presente contrato, obrigando-se o Produtor, nomeadamente, a respeitar as normas constantes do Protocolo de Exploração que celebrou com o operador de rede a que está ligado."
+  },
+  "948929275": {
+   "fragment_id": "948929175",
+   "type": 11,
+   "heading": "Cláusula 4.º — Obrigações do Produtor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Cláusula 4.º — Obrigações do Produtor\n\n1 - O Produtor obriga-se perante o CUR, além de outras obrigações constantes do presente Contrato, a adotar os seguintes procedimentos:\n\na) Conduzir a exploração da instalação produtora de energia em conformidade com o Diagrama Previsto para o Fornecimento de Energia, que constitui o Anexo III ao presente contrato e dele fica a fazer parte integrante;\n\nb) Instalar os equipamentos técnicos necessários e desenvolver os procedimentos adequados que permitam reduzir o impacto de eventuais disparos da instalação de produção a níveis adequados à qualidade de serviço existente na rede recetora;\n\nc) Dar conhecimento, até ao dia 15 de dezembro de cada ano, dos programas previsionais dos trabalhos de conservação e manutenção a realizar no ano seguinte;\n\nd) Comunicar, logo que delas tome conhecimento, recorrendo ao meio mais diligente possível, quer ao CUR quer ao Operador de Rede, quaisquer anomalias que se verifiquem nas instalações a que este contrato se refere, ou nos equipamentos da rede recetora, designadamente e em especial quaisquer roturas de selos, quaisquer violações de aparelhos de medida ou violações de quaisquer fechos ou fechaduras;\n\n2 - As comunicações a que se refere a alínea d) do n.º 1 desta cláusula deverão ser confirmadas por escrito ao Operador da Rede, no prazo máximo de 5 dias, a contar do momento do conhecimento dos factos."
+  },
+  "948929475": {
+   "fragment_id": "948929375",
+   "type": 11,
+   "heading": "Cláusula 5.º — Equipamentos de medição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Cláusula 5.º — Equipamentos de medição\n\n1 - A energia elétrica injetada na RESP, correspondente à energia elétrica produzida deduzida do consumo nos serviços auxiliares, será medida através de equipamentos de medição adequados, nos termos da legislação aplicável.\n\n2 - Os equipamentos de medição devem ter a funcionalidade de telecontagem, ser análogos aos usados na RESP, estar de acordo com o disposto no Guia de Medição, Leitura e Disponibilização de Dados aprovado pela Entidade Reguladora dos Serviços Energéticos (ERSE), e estarem devidamente calibrados e selados.\n\n3 - O Produtor é responsável pelo fornecimento, instalação e manutenção em bom estado de funcionamento dos equipamentos de medição, incluindo o sistema de transmissão de informação para efeitos de telecontagem.\n\n4 - A leitura dos equipamentos de medição será feita por telecontagem, através de equipamento adequado, nos termos do Guia de Medição, Leitura e Disponibilização de Dados aprovado pela ERSE.\n\n5 - O Operador de Rede tem livre acesso aos equipamentos de medição.\n\n6 - Quando não for possível obter dados de telecontagem devido a anomalias nos equipamentos do Produtor ou no canal de transmissão de dados, o pagamento da faturação ficará suspenso, até à reposição do funcionamento da telecontagem e consequente recolha de dados."
+  },
+  "948929675": {
+   "fragment_id": "948929575",
+   "type": 11,
+   "heading": "Cláusula 6.º — Verificação dos equipamentos de medição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Cláusula 6.º — Verificação dos equipamentos de medição\n\n1 - Os equipamentos de medição serão verificados e calibrados periodicamente, em conformidade com o disposto no Guia de Medição, Leitura e Disponibilização de Dados aprovado pela ERSE, e logo que se verifique ou suspeite de defeito no seu funcionamento.\n\n2 - A calibração, em laboratório acreditado, por iniciativa do Produtor ou do Operador de Rede respetivo, será de conta da entidade que solicitou essa verificação, se os aparelhos de medida satisfizerem os limites legais de tolerância, e, de conta da outra parte, no caso contrário.\n\n3 - Qualquer procedimento suscetível de falsear o funcionamento normal ou a recolha de indicações dos equipamentos de medição ou controlo de energia elétrica, constitui violação do presente contrato, além de poder consubstanciar um ilícito de natureza contraordenacional ou penal.\n\n4 - Verificada uma situação de violação do presente contrato, a situação de facto, devidamente fundamentada, será comunicada à DGEG, podendo nestas circunstâncias o CUR usar da faculdade de proceder à suspensão do pagamento da energia produzida na central de biomassa do Produtor e injetada na RESP até que a situação de violação comunicada se considere adequadamente esclarecida e a normalidade da relação contratual seja retomada."
+  },
+  "948929875": {
+   "fragment_id": "948929775",
+   "type": 11,
+   "heading": "Cláusula 7.º — Faturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Cláusula 7.º — Faturação\n\n1 - A faturação da energia produzida na central de biomassa do Produtor e injetada na RESP será processada pelo CUR nos termos legais em vigor e de acordo com o sistema de remuneração aplicável.\n\n2 - O Produtor poderá aderir ao regime de autofaturação eletrónica a disponibilizar pelo CUR.\n\nEm alternativa, caso opte pela faturação em papel, as faturas deverão ser enviadas para a morada do CUR ...\n\n3 - Para acompanhamento dos assuntos relacionados com a faturação, o CUR e o Produtor designarão, cada uma delas, um interlocutor no prazo máximo de 30 (trinta) dias a contar da data do presente contrato."
+  },
+  "948930075": {
+   "fragment_id": "948929975",
+   "type": 11,
+   "heading": "Cláusula 8.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Cláusula 8.º — Pagamento\n\n1 - O pagamento das faturas emitidas em regime de autofaturação eletrónica ou das faturas em papel, pelo CUR, será feito no prazo de 26 (vinte e seis) dias a contar da data da emissão das faturas emitidas em regime de autofaturação ou da data da apresentação da fatura desde que tenha sido corretamente elaborada.\n\n2 - Caso as faturas não tenham sido corretamente elaboradas o CUR procederá à sua devolução, a fim de serem corrigidas.\n\n3 - O pagamento será efetuado por transferência para a conta bancária indicada pelo Produtor.\n\n4 - A falta de pagamento no prazo referido no n.º 1, caso não tenha havido lugar à devolução da fatura, constitui o CUR em mora e na consequente obrigação de pagamento de juros à taxa que, em cada momento, estiver fixada para a falta de pagamento das faturas relativas aos seus fornecimentos a clientes alimentados em média tensão."
+  },
+  "948930275": {
+   "fragment_id": "948930175",
+   "type": 11,
+   "heading": "Cláusula 9.º — Erros de medição resultantes de anomalia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Cláusula 9.º — Erros de medição resultantes de anomalia\n\n1 - Os erros de medição da energia e da potência resultantes de qualquer anomalia verificada no equipamento de medição serão corrigidos tendo em conta todos os elementos com relevância para a determinação do fornecimento real verificado durante o período em que a avaria se manteve e, designadamente, as características da instalação de produção, o seu regime de funcionamento, o Diagrama Previsto para o Fornecimento de Energia e as leituras antecedentes à data da verificação da anomalia.\n\n2 - A importância apurada não produz juros e será paga no prazo de 30 dias, quando a favor do Produtor, e compensada no pagamento da fatura ou faturas seguintes, quando a favor do CUR.\n\n3 - O direito à retificação da importância apurada nos termos do n.º 1 prescreve no prazo de três anos a contar do conhecimento do erro."
+  },
+  "948930475": {
+   "fragment_id": "948930375",
+   "type": 11,
+   "heading": "Cláusula 10.º — Erros de leitura ou de faturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Cláusula 10.º — Erros de leitura ou de faturação\n\nAos erros de leitura ou de faturação, designadamente os resultantes da aplicação incorreta dos fatores que afetam a leitura dos contadores, é aplicável, com as necessárias adaptações, o estabelecido na cláusula anterior."
+  },
+  "948930675": {
+   "fragment_id": "948930575",
+   "type": 11,
+   "heading": "Cláusula 11.º — Cessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Cláusula 11.º — Cessão\n\n1 - No caso de cessão, a terceiros, da instalação de produção, o cedente é obrigado a comunicar o facto ao CUR no prazo de 15 (quinze) dias contados da data da cessão, indicando o nome, firma ou designação social, número de identificação fiscal e, quando for caso disso, a morada ou sede do novo Produtor.\n\n2 - É também obrigatória a apresentação pelo Produtor da autorização de transferência de titularidade da licença emitida pelas autoridades competentes, para celebração do respetivo aditamento ao presente contrato com a cessão da posição contratual, sob pena de se suspender a remuneração da energia produzida enquanto a situação não estiver regularizada."
+  },
+  "948930875": {
+   "fragment_id": "948930775",
+   "type": 11,
+   "heading": "Cláusula 12.º — Alteração de elementos de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Cláusula 12.º — Alteração de elementos de identificação\n\n1 - Sempre que se opere qualquer alteração nos elementos de identificação de uma das partes deste contrato, designadamente nome, firma, designação social, residência ou sede, deverá o facto, no prazo de 15 (quinze) dias contados da data da alteração, ser comunicado às outras partes, sob pena de a faltosa suportar as consequências decorrentes da omissão.\n\n2 - O Produtor deve apresentar comprovativos da alteração verificada, quando tal lhe for exigido pelo CUR."
+  },
+  "948931075": {
+   "fragment_id": "948930975",
+   "type": 11,
+   "heading": "Cláusula 13.º — Alteração de circunstâncias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Cláusula 13.º — Alteração de circunstâncias\n\n1 - A alteração das circunstâncias em que as partes fundaram a decisão de contratar que implique alteração do clausulado contratual e a alteração da legislação em vigor à data da assinatura do presente contrato constituem motivo para a renegociação deste.\n\n2 - A parte que pretenda usar o direito consignado no número anterior deverá interpelar, por escrito, a outra parte, propondo e fundamentando as alterações que entenda necessárias."
+  },
+  "948931275": {
+   "fragment_id": "948931175",
+   "type": 11,
+   "heading": "Cláusula 14.º — Prazo e duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Cláusula 14.º — Prazo e duração\n\n1 - O presente Contrato tem início na data da sua assinatura por ambas as Partes e produz efeitos desde a data em que foi assinado o «Auto de Ligação», que constitui o Anexo IV do presente Contrato e do qual faz parte integrante.\n\n2 - O presente contrato vigora pelo prazo em que vigorarem os suplementos remuneratórios previstos no artigo 6.º do Decreto-Lei n.º 64/2017 ou de disposição que o substitua."
+  },
+  "948931475": {
+   "fragment_id": "948931375",
+   "type": 11,
+   "heading": "Cláusula 15.º — Cessação do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Cláusula 15.º — Cessação do contrato\n\n1 - O presente Contrato vigorará enquanto não for resolvido nos termos da Cláusula seguinte ou não for denunciado pelo Produtor.\n\n2 - O Produtor poderá denunciar o Contrato a qualquer momento, devendo informar por escrito o CUR da sua intenção, com a antecedência mínima de 90 (noventa) dias em relação à data em que pretende pôr-lhe termo.\n\n3 - O presente Contrato cessará ainda de imediato os respetivos efeitos, sem necessidade de qualquer comunicação, quando, por qualquer motivo, cessar a Licença de Exploração referida na Cláusula 2.ª do presente Contrato."
+  },
+  "948931675": {
+   "fragment_id": "948931575",
+   "type": 11,
+   "heading": "Cláusula 16.º — Incumprimento e resolução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Cláusula 16.º — Incumprimento e resolução\n\n1 - Constituirão motivos para resolução do presente Contrato os casos previstos na legislação e na regulamentação em vigor bem como o incumprimento das obrigações assumidas no presente Contrato e das obrigações previstas na Licença de Exploração da instalação de produção.\n\n2 - O incumprimento do disposto no Guia de Medição, Leitura e Disponibilização de Dados aprovado pela Entidade Reguladora dos Serviços Energéticos constituirá motivo de suspensão do presente Contrato e poderá constituir motivo de resolução do mesmo nos termos referidos no n.º 1 na presente Cláusula."
+  },
+  "948931875": {
+   "fragment_id": "948931775",
+   "type": 11,
+   "heading": "Cláusula 17.º — Litígios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Cláusula 17.º — Litígios\n\n1 - Os litígios de qualquer natureza que se levantarem entre as partes sobre a interpretação ou execução das disposições legais ou contratuais aplicáveis às suas relações, incluindo o incumprimento de obrigações, serão decididos por um tribunal arbitral, se as partes em litígio previamente assim o acordarem, ou, na falta desse acordo, por recurso aos tribunais judiciais.\n\n2 - Verificando-se a necessidade de dirimir eventuais litígios por recurso aos tribunais judiciais, as Partes acordam, desde já, em designar como tribunal exclusivamente competente o ..., com expressa renúncia a qualquer outro.\n\nAnexos:\n\nAnexo I: Licença de Produção\n\nAnexo II: Licença de Exploração\n\nAnexo III: Diagrama Previsto para o Fornecimento de Energia\n\nAnexo IV: Auto de Ligação"
+  }
+ }
+}

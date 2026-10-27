@@ -1,0 +1,176 @@
+---
+schema_version: '1.0'
+id: pt:dre:337061:por
+title: Decreto-Lei n.º 300/75
+short_title: null
+summary: Autoriza a Câmara Municipal de Lisboa a substituir algumas das disposições do contrato que, em consequência do Decreto-Lei
+  n.º 688/73, celebrou com a Companhia Carris de Ferro de Lisboa, S. A. R. L., e com a Lisbon Electric Tramways, Ltd.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios da Administração Interna e dos Transportes e Comunicações
+proposing_entity: null
+official_number: 300/75
+official_date: null
+publication_date: '1975-06-20'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 140/1975, Série I de 1975-06-20
+  number: '140'
+  series: I
+  supplement: null
+  pages: 841 - 842
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/06/14000/08410842.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '337061'
+  dre_path: /dr/detalhe/decreto-lei/300-1975-337061
+  internal: pt:dre:337061:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1975-337061
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1975-337061
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:41:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1e817678ae34cdf6b75b48ee7cbcab371febbebde7c35fe195a9615d4e676c2e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:41:36Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Câmara Municipal
+- Companhia Carris de Ferro de Lisboa
+- Contrato de Concessão
+- Lisboa
+- Lisbon Electric Tramways
+- Prédio Urbano
+- Transferência Patrimonial
+- Transporte de Passageiros
+- Transporte Público
+relationships:
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:195784:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:61725765:por
+  label: Revogado, sem prejuízo da manutenção da concessão atribuída à Carris, S. A., o Dec Lei 688/73, de 21-dez, na redação
+    do presente diploma, e Dec Lei 485/88, de 30 dez, pelo(a) Decreto-Lei n.º 174/2014 - Diário da República n.º 236/2014,
+    Série I de 2014-12-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/174-2014-61725765
+  date: '2014-12-05'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:41:36Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 300/75
+
+de 20 de Junho
+
+Tendo a Câmara Municipal de Lisboa procedido a negociações com a Lisbon Electric Tramways, Ltd., para a revisão do contrato tripartido cujas bases se encontram referidas no [Decreto-Lei n.º 688/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/688-1973-195784), de 21 de Dezembro;
+
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º É autorizada a Câmara Municipal de Lisboa a substituir algumas das disposições do contrato que, em consequência do [Decreto-Lei n.º 688/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/688-1973-195784), de 21 de Dezembro, celebrou com a Companhia Carris de Ferro de Lisboa, S. A. R. L., e com a Lisbon Electric Tramways, Ltd., por forma a ajustá-las às bases constantes do artigo seguinte.
+
+Art. 2.º - 1. São mantidas sem alterações as bases I, II, VI, VII, VIII, IX e X a que se refere o artigo 1.º do [Decreto-Lei n.º 688/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/688-1973-195784), de 21 de Dezembro.
+
+2. As bases III, IV e V a que se refere o preceito citado no número anterior passam a ser do teor seguinte:
+
+BASE III
+
+1. (Mantém-se o texto actual.)
+
+2. A L. E. T. transmite ao Município de Lisboa a propriedade do prédio que possui nesta cidade - Arco do Cego - (com frentes para a Avenida do Duque de Ávila, Avenida de João Crisóstomo, Avenida dos Defensores de Chaves e Rua de D. Filipa de Vilhena), com a área actual de cerca de 14564,47 m2, freguesia de Arroios, onde se encontram construídos vários edifícios, descritos na 1.ª Conservatória do Registo Predial de Lisboa sob o n.º 1937, a fl. 31 v.º do livro B-16, inscrito a favor da Carris pela inscrição n.º 2635, a fl. 8 do livro G-5, e inscrição na matriz predial urbana sob o artigo 17435 (antigamente artigo 660), que lhe fora transmitida pelo n.º 2 da base 3.ª do contrato tripartido entre a C. M. L., C. C. F. L. e L. E. T., a que se refere o [Decreto-Lei n.º 688/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/688-1973-195784), de 21 de Dezembro.
+
+3. A L. E. T. outorgará, em escritura pública, a transferência da propriedade supracitada, no prazo máximo de sessenta dias, contados a partir da data em que lhe for comunicada a aprovação oficial da presente alteração, por carta registada com aviso de recepção.
+
+4 a 8. (Eliminados.)
+
+BASE IV
+
+1 a 4. (Mantém-se o texto actual.)
+
+5. O Município declara desafectados da exploração do serviço público concedido à Carris o prédio acima identificado sob o n.º 2 da base II (Amoreiras), bem como os edifícios nele construídos.
+
+6. Esta desafectação só produzirá efeitos trinta dias depois da notificação feita pela Carris, em carta registada com aviso de recepção, de que já se encontram em condições de funcionar as instalações a erigir nos mesmos terrenos.
+
+7. A Carris efectuará a notificação prevista na última parte do número anterior, respeitante às instalações a erigir nos terrenos da Pontinha e a sul do cemitério da Laboeira e do Bairro da Musgueira, no prazo de trinta meses, a contar da entrega destes pelo Município, sem o que por ela será devida à L. E. T. a indemnização moratória de 100000$00 por dia.
+
+8. (Eliminado.)
+
+BASE V
+
+1. O Município compromete-se a autorizar a densidade de 8 m3 por metro quadrado da actual área das Amoreiras referida no n.º 2 da base II do contrato referenciado no [Decreto-Lei n.º 688/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/688-1973-195784), publicado no Diário do Governo, de 21 de Dezembro, com excepção da parte daquela área que for destinada à habitação, na qual a densidade não poderá exceder 5 m3 por metro quadrado.
+
+2. A cubicagem fixada no número anterior refere-se exclusivamente ao volume de construção acima do solo e não limita, de qualquer forma, a cubicagem a construir no subsolo, no máximo de quatro pisos, dos quais um só poderá ser destinado a armazém.
+
+3 a 6. (Mantém-se o texto actual.)
+
+7. (Eliminado.)
+
+8. Os técnicos da L. E. T. ou de quem lhe suceder no direito de propriedade manterão contactos regulares e frequentes com os técnicos que, desde o início dos estudos e projectos, serão para tal indicados pelo Município de forma que os alvarás de loteamento sejam concedidos no prazo máximo de sessenta dias, a contar da apresentação dos pedidos dos referidos alvarás de loteamento.
+
+9. (Mantém-se o texto actual.)
+
+10. O Município compromete-se a suportar o funcionamento e a executar por sua conta, em prazo não superior a dezoito meses, a contar da data da aprovação dos respectivos projectos, referida no número anterior, todas as obras de infra-estruturas exteriores ao terreno das Amoreiras necessárias à sua urbanização, nomeadamente as redes de iluminação pública e de saneamento e, bem assim, os arruamentos que forem considerados necessários a um perfeito e fácil acesso à área a urbanizar.
+
+11 a 15. (Mantém-se o texto actual.)
+
+Art. 3.º Este diploma entra imediatamente em vigor.
+
+Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - António Carlos Magalhães Arnão Metelo - Mário Luís da Silva Murteira - José Joaquim Fragoso - Álvaro Augusto Veiga de Oliveira.
+
+Promulgado em 11 de Junho de 1975.
+
+Publique-se.
+
+O Presidente da República, FRANCISCO DA COSTA GOMES.

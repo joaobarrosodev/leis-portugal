@@ -1,0 +1,279 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31989L0608:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0608-20191214",
+ "dre_path": null,
+ "source_lastmod": "2019-12-14",
+ "versions": [
+  {
+   "date": "1989-12-02",
+   "future": false,
+   "celex": "31989L0608",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "290fdabedc0e7642",
+    "a232eb925f670e88",
+    "b0c15e7a7b73be95",
+    "b1a927003bd920d7",
+    "7a5691da60e5a710",
+    "d1e15b20bcc42987",
+    "c5a36e2726eb6898",
+    "99de9a21e023ad16",
+    "4aa5c37fd8d27ace",
+    "812867cc4dbfdf89",
+    "a50a9d553ec7bb04",
+    "db31709f63c5ddbf",
+    "63d58cbe34745ed3",
+    "53ad291f5293ca01",
+    "0924f88d3fe3dcd0",
+    "3473f468a2d8c655",
+    "e98c2d512a450d88",
+    "c905a213b338968d",
+    "aecfee48f806e960",
+    "2c9a320027b9d274",
+    "7262000cd82c3f9c",
+    "1c3da267f26605ae",
+    "a653e99aad0ee79c",
+    "8deabd1525d32197"
+   ]
+  },
+  {
+   "date": "2019-12-14",
+   "future": false,
+   "celex": "01989L0608-20191214",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime TÍTULO I — Assistência mediante pedido",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime TÍTULO II — Assistência espontânea",
+    "Suprime Artigo 8º",
+    "Suprime TÍTULO III — Disposições finais",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º",
+    "Suprime Artigo 18º",
+    "Suprime Artigo 19º",
+    "Suprime Artigo 20º"
+   ],
+   "fragments": [
+    "9c68850eedb4a487"
+   ]
+  }
+ ],
+ "fragments": {
+  "290fdabedc0e7642": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 89/608/CEE do Conselho, de 21 de Novembro de 1989, relativa à assistência mútua entre as autoridades administrativas dos Estados-Membros e à colaboração entre estas e a Comissão, tendo em vista assegurar a boa aplicação das legislações veterinária e zootécnica** *Jornal Oficial nº L 351 de 02/12/1989 p. 0034 - 0037 Edição especial finlandesa: Capítulo 3 Fascículo 30 p. 0216 Edição especial sueca: Capítulo 3 Fascículo 30 p. 0216*\n\n*****\n\nDIRECTIVA DO CONSELHO\n\nde 21 de Novembro de 1989\n\nrelativa à assistência mútua entre as autoridades administrativas dos Estados-membros e à colaboração entre estas e a Comissão, tendo em vista assegurar a boa aplicação das legislações veterinária e zootécnica\n\n(89/608/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que foi elaborada uma importante regulamentação no sector agrícola nos domínios veterinário e zootécnico;\n\nConsiderando que o bom funcionamento da política agrícola comum e do mercado comum dos produtos agrícolas, bem como a perspectiva da supressão dos controlos veterinários nas fronteiras, tendo em vista a realização do mercado interno para os produtos sujeitos a tais controlos, tornam necessário o reforço da colaboração entre as autoridades encarregadas em cada Estado-membro da aplicação das regulamentações veterinária e zootécnica;\n\nConsiderando que convém, por consequência, definir as regras segundo as quais as autoridades competentes dos Estados-membros devem prestar-se mutuamente assistência e colaborar com a Comissão, tendo em vista assegurar a boa aplicação das regulamentações veterinária e zootécnica, nomeadamente pela prevenção e investigação das infracções a essas regulamentações, bem como pela investigação de quaisquer procedimentos que sejam ou pareçam ser contrários a essas regulamentações;\n\nConsiderando que é conveniente que a elaboração dessas regras se inspire, na medida do possível, nas disposições comunitárias estabelecidas pelo Regulamento (CEE) nº 1468/81 do Conselho, de 19 de Maio de 1981, relativo à assistência mútua entre as autoridades administrativas dos Estados-membros e à colaboração entre estas e a Comissão, tendo em vista assegurar a boa aplicação das regulamentações aduaneira ou agrícola (4), alterado pelo Regulamento (CEE) nº 945/87 (5); que, todavia, se deve ter igualmente em consideração a especificidade das regras sanitárias,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "a232eb925f670e88": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nA presente directiva determina as condições em que as autoridades administrativas encarregadas nos Estados-membros do controlo das legislações veterinária e zootécnica devem colaborar entre si, bem como os serviços competentes da Comissão, tendo em vista assegurar a observância dessas legislações."
+  },
+  "b0c15e7a7b73be95": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Para os efeitos da presente directiva, entende-se por:\n\n- « legislação veterinária », o conjunto das disposições de carácter comunitário e das disposições adoptadas para aplicação da regulamentação comunitária que regem a saúde dos animais, a saúde pública em relação com o\n\nsector veterinário, a inspecção sanitária dos animais, das carnes e de outros produtos de origem animal e a protecção dos animais,\n\n- « legislação zootécnica », o conjunto das disposições de carácter comunitário e das disposições adoptadas para aplicação da regulamentação comunitária em matéria de zootecnia,\n\n- « autoridade requerente », a autoridade central competente de um Estado-membro que formula um pedido de assistência,\n\n- « autoridade requerida », a autoridade central competente de um Estado-membro à qual é dirigido um pedido de assistência.\n\n2. Cada Estado-membro comunicará aos outros Estados-membros e à Comissão a lista das autoridades competentes referidas no artigo 1º"
+  },
+  "b1a927003bd920d7": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nA obrigação de assistência prevista pela presente directiva não prejudica a comunicação de informações ou de documentos obtidos pelas autoridades competentes referidas no artigo 1º no âmbito de poderes que exerçam a requerimento das autoridades judiciárias.\n\nTodavia, no que respeita à assistência mediante pedido, tal comunicação efectuar-se-á, sem prejuízo do artigo 14º, em todos os casos em que as autoridades judiciárias, que devem ser consultadas para esse efeito, nela consentirem."
+  },
+  "7a5691da60e5a710": {
+   "fragment_id": "TÍTULO I — Assistência mediante pedido",
+   "type": "divisao",
+   "heading": "TÍTULO I — Assistência mediante pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Assistência mediante pedido"
+  },
+  "d1e15b20bcc42987": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. A pedido devidamente fundamentado da autoridade requerente, a autoridade requerida:\n\n- comunicará à autoridade requerente todas as informações, certificados, documentos ou cópias autenticadas que tenha em seu poder ou que obtenha nos termos do nº 2 e que lhe permitam verificar a observância das disposições previstas nas legislações veterinária ou zootécnica,\n\n- efectuará todos os inquéritos úteis sobre a veracidade dos factos assinalados pela autoridade requerente e comunicará à autoridade requerente o resultado dos inquéritos efectuados, incluindo as informações que tenha sido necessário recolher para efectuar esses inquéritos.\n\n2. Para obter as informações pedidas, a autoridade requerida ou a autoridade administrativa por ela encarregada procederá como se agisse por conta própria ou a pedido de uma outra autoridade do seu próprio país."
+  },
+  "c5a36e2726eb6898": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. A pedido da autoridade requerente, a autoridade requerida notificará a essa primeira autoridade ou mandará que lhe sejam notificados, observando as normas em vigor no Estado-membro onde tem a sua sede, todos os actos ou decisões emanados das autoridades competentes respeitantes à aplicação das legislações veterinária ou zootécnica.\n\n2. Os pedidos de notificação, que mencionarão o objecto do acto ou da decisão a notificar, serão acompanhados, a pedido da autoridade requerida, de uma tradução para a língua oficial ou para uma das línguas oficiais do Estado-membro onde essa autoridade tem a sua sede."
+  },
+  "99de9a21e023ad16": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nA pedido da autoridade requerente, a autoridade requerida exercerá, mandará exercer ou mandará reforçar a vigilância na área de acção dos seus serviços onde se suspeite que se verificam irregularidades, em especial:\n\na) Nos estabelecimentos;\n\nb) Nos locais onde existam depósitos de mercadorias;\n\nc) Sobre os movimentos de mercadorias assinalados;\n\nd) Sobre os meios de transporte."
+  },
+  "4aa5c37fd8d27ace": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nA pedido da autoridade requerente, a autoridade requerida comunicar-lhe-á, nomeadamente sob a forma de relatórios e outros documentos ou de cópias devidamente autenticadas ou extractos desses relatórios ou documentos, quaisquer informações pertinentes de que disponha ou que obtenha de acordo com o nº 2 do artigo 4º respeitantes a operações efectivamente verificadas que pareçam à autoridade requerente contrárias às legislações veterinária ou zootécnica."
+  },
+  "812867cc4dbfdf89": {
+   "fragment_id": "TÍTULO II — Assistência espontânea",
+   "type": "divisao",
+   "heading": "TÍTULO II — Assistência espontânea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Assistência espontânea"
+  },
+  "a50a9d553ec7bb04": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. Nas condições enunciadas no nº 2, as autoridades competentes de cada Estado-membro colaborarão espontaneamente com as autoridades competentes dos outros Estados-membros sem necessidade de pedido prévio destes últimos.\n\n2. Sempre que o considerarem útil para efeitos da observância das legislações veterinária ou zootécnica, as autoridades competentes de cada Estado-membro:\n\na) Exercerão ou mandarão exercer, na medida do possível, a vigilãncia referida no artigo 6º;\n\nb) Comunicarão o mais brevemente possível às autoridades competentes dos outros Estados-membros em causa, nomeadamente sob a forma de relatórios e outros documentos ou de cópias autenticadas ou extractos desses relatórios ou documentos, todas as informações de que disponham respeitantes a operações que sejam ou pareçam ser contrárias às legislações veterinária ou zootécnica e, nomeadamente, os meios ou métodos utilizados para a execução dessas operações."
+  },
+  "db31709f63c5ddbf": {
+   "fragment_id": "TÍTULO III — Disposições finais",
+   "type": "divisao",
+   "heading": "TÍTULO III — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Disposições finais"
+  },
+  "63d58cbe34745ed3": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. As autoridades competentes de cada Estado-membo comunicarão à Comissão, logo que delas disponham: a) Todas as informações que lhes pareçam úteis respeitantes:\n\n- às mercadorias que foram ou se presume terem sido objecto de operações contrárias às legislações veterinária ou zootécnica,\n\n- aos métodos e procedimentos utilizados ou que se presume terem sido utilizados para infringir essas legislações;\n\nb) Todas as informações respeitantes às insuficiências ou lacunas das referidas legislações que a aplicação dessas legislações permitiu revelar ou supor.\n\n2. A Comissão comunicará às autoridades competentes de cada Estado-membro, logo que delas disponha, todas as informações que lhe permitam assegurar a observância das legislações veterinária ou zootécnica."
+  },
+  "53ad291f5293ca01": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. Sempre que operações contrárias ou que pareçam contrárias às regulamentações veterinária ou zootécnica forem constatadas pelas autoridades competentes de um Estado-membro e apresentarem um interesse especial a nível comunitário e, nomeadamente:\n\n- sempre que tiverem ou puderem ter ramificações nos outros Estados-membros, ou\n\n- sempre que parecer às referidas autoridades que operações similares sejam susceptíveis de ter sido realizadas igualmente noutros Estados-membros,\n\nessas autoridades comunicarão sem demora à Comissão, por sua iniciativa ou a pedido fundamentado desta última, todas as informações adequadas, eventualmente sob a forma de documentos ou cópias ou extractos de documentos necessários para a determinação dos factos, tendo em vista a coordenação pela Comissão das acções levadas a efeito pelos Estados-membros.\n\nA Comissão comunicará essas informações às autoridades competentes dos outros Estados-membros.\n\n2. Sempre que as comunicações referidas no nº 1 respeitarem a casos susceptíveis de apresentar um risco para a saúde humana, e na falta de outros meios de prevenção, as informações em questão podem, após contacto entre as partes e a Comissão, ser objecto de uma informação fundamentada ao público.\n\n3. As informações relativas a pessoas singulares ou colectivas só serão objecto das comunicações referidas no nº 1 na medida do estritamente necessário para permitir a verificação da prática de operações contrárias às legislações veterinária ou zootécnica.\n\n4. Quando façam uso do nº 1, as autoridades competents de um Estado-membro podem dispensar-se de dirigir às autoridades competentes dos outros Estados-membros interessados a comunicação prevista no nº 2, alínea b), do artigo 8º e no artigo 9º"
+  },
+  "0924f88d3fe3dcd0": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nA Comissão e os Estados-membros, reunidos no âmbito da Comité Veterinário Permanente ou do Comité Zootécnico Permanente:\n\n- examinarão, em termos gerais, o funcionamento da assistência mútua prevista na presente directiva,\n\n- examinarão as informações pertinentes comunicadas à Comissão nos termos dos artigos 9º e 10º - bem como as regras dessa comunicação - tendo em vista extrair daí os respectivos ensinamentos.\n\nA luz dessas análises, a Comissão proporá, se necessário, a alteração das disposições comunitárias existentes ou a adopção de disposições complementares."
+  },
+  "3473f468a2d8c655": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nPara efeitos da aplicação da presente directiva, os Estados-membros adoptarão todas as disposições necessárias para:\n\na) Assegurar, a nível interno, uma boa coordenação entre as autoridades referidas no artigo 1º;\n\nb) Estabelecer, ao nível das suas relações mútuas e na medida do necessário, uma cooperação directa entre as autoridades especialmente habilitadas para o efeito."
+  },
+  "e98c2d512a450d88": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n1. A presente directiva não obriga as autoridades competentes dos Estados-membros a prestar assistência mútua, caso essa assistência seja susceptível de afectar a ordem pública ou outros interesss essenciais do Estado-membro onde têm a sua sede.\n\n2. Qualquer recusa de assistência deve ser fundamentada."
+  },
+  "c905a213b338968d": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nA transmissão de documentos prevista na presente directiva pode ser substituída por informação computorizada produzida sob qualquer forma e para os mesmos fins."
+  },
+  "aecfee48f806e960": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\n1. As informações comunicadas, sob qualquer forma que seja, nos termos da presente directiva têm carácter confidencial. Essas informações estão abrangidas pelo segredo profissional e beneficiam da protecção concedida a informações da mesma natureza pela lei nacional do Estado-membro que as recebeu, bem como pelas disposições correspondentes aplicáveis às instâncias comunitárias.\n\nAs informações referidas no primeiro parágrafo não podem normalmente ser transmitidas a outras pessoas que não as que, nos Estados-membros ou nas instituições comunitárias, tenham, pelas suas funções, acesso ao seu conhecimento. Essas informações também não podem ser utilizadas para fins diferentes dos previstos na presente directiva, salvo se a autoridade que as forneceu o tiver expressamente autorizado e se as disposições em vigor no Estado-membro da sede da autoridade que as recebeu não obstarem a tal comunicação ou utilização.\n\nAs informações previstas na presente directiva só serão comunicadas à autoridade requerente se as disposições em vigor no Estado-membro da sede da autoridade requerida não obstarem a tal comunicação.\n\nOs Estados-membros assegurarão o respeito pela natureza confidencial das informações obtidas no âmbito da assistência mútua mesmo após o encerramento dos processos.\n\n2. O nº 1 não obsta à utilização das informações obtidas, nos termos da presente directiva, no âmbito de acções judiciais ou de processos intentados na sequência da não observância das legislações veterinária ou zootécnica e em caso de prevenção e investigação de irregularidades em detrimento dos fundos comunitários.\n\nA autoridade competente do Estado-membro que tenha fornecido essas informações será informada sem demora de tal utilização."
+  },
+  "2c9a320027b9d274": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nOs Estados-membros comunicarão à Comissão e aos outros Estados-membros os acordos bilaterais de assistência mútua entre administrações veterinárias concluídos com países terceiros.\n\nA Comissão, por seu lado, comunicará aos Estados-membros os acordos da mesma natureza que conclua com países terceiros."
+  },
+  "7262000cd82c3f9c": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\nOs Estados-membros renunciam a quaisquer reclamações para o reembolso de despesas resultantes da aplicação da presente directiva, excepto, se for caso disso, no que respeita aos honorários pagos a peritos."
+  },
+  "1c3da267f26605ae": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\nA presente directiva não obsta à aplicação nos Estados-membros das regras relativas à cooperação judiciária em matéria penal."
+  },
+  "a653e99aad0ee79c": {
+   "fragment_id": "Artigo 19º",
+   "type": "artigo",
+   "heading": "Artigo 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 1 de Julho de 1991. Do facto informarão imediatamente a Comissão."
+  },
+  "8deabd1525d32197": {
+   "fragment_id": "Artigo 20º",
+   "type": "artigo",
+   "heading": "Artigo 20º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 21 de Novembro de 1989.\n\nPelo Conselho\n\nO Presidente\n\nH. NALLET\n\n(1) JO nº C 225 de 31. 8. 1988, p. 4.\n\n(2) JO nº C 326 de 19. 12. 1988, p. 28.\n\n(3) JO nº C 56 de 6. 3. 1989, p. 7.\n\n(4) JO nº L 144 de 2. 6. 1981, p. 1.\n\n(5) JO nº L 90 de 2. 4. 1987, p. 3."
+  },
+  "9c68850eedb4a487": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01989L0608 — PT — 14.12.2019 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31989L0608) [DIRETIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31989L0608) [de 21 de novembro de 1989](http://publications.europa.eu/resource/celex/31989L0608) [relativa à assistência mútua entre as autoridades administrativas dos Estados-Membros e à colaboração entre estas e a Comissão, tendo em vista assegurar a boa aplicação da legislação veterinária](http://publications.europa.eu/resource/celex/31989L0608) [(89/608/CEE)](http://publications.europa.eu/resource/celex/31989L0608) (JO L 351, 2.12.1989, p.34)\n\n**Revogada por:**\n\n- [Regulamento (UE) 2017/625 do Parlamento Europeu e do Conselho de 15 de março de 2017](http://publications.europa.eu/resource/celex/32017R0625) — L 95 — 1 — 7.4.2017"
+  }
+ }
+}

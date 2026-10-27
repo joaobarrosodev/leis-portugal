@@ -1,0 +1,217 @@
+---
+schema_version: '1.0'
+id: pt:dre:332678:por
+title: Decreto-Lei n.º 56/2010
+short_title: null
+summary: Estabelece limites à cobrança de quantias pela prestação do serviço de desbloqueamento dos aparelhos que permitem
+  o acesso a serviços de comunicações electrónicas, garantindo os direitos dos utilizadores e promovendo uma maior concorrência
+  neste sector
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia, da Inovação e do Desenvolvimento
+proposing_entity: null
+official_number: 56/2010
+official_date: null
+publication_date: '2010-06-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 106/2010, Série I de 2010-06-01
+  number: '106'
+  series: I
+  supplement: null
+  pages: 1882 - 1883
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/06/10600/0188201883.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/56/2010/06/01/p/dre/pt/html
+  oj: null
+  dre: '332678'
+  dre_path: /dr/detalhe/decreto-lei/56-2010-332678
+  internal: pt:dre:332678:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2010-332678
+  metadata_url: https://data.dre.pt/eli/dec-lei/56/2010/06/01/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2010-332678
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:13:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 63358004dd8974ea6c1e8f66454ce15e6e7335777b0bfe9592e9db4d850eec95
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:31Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autoridade da Concorrência
+- Cobrança
+- Comunicações
+- Comunicações Eletrónicas
+- Concorrência
+- Conselho Nacional do Consumo
+- Contra-ordenação
+- Contrato de Adesão
+- Definição de Competências
+- Equipamento de Transmissão
+- Fiscalização
+- Informação do Consumidor
+- Instituto das Comunicações de Portugal
+- Preço
+- Prestação de Serviços
+- Proteção do Consumidor
+- Serviço Público
+- Telemóvel
+relationships:
+- type: cites
+  target: pt:dre:489497:por
+  label: null
+  source: http://data.dre.pt/eli/lei/99/2009/09/04/p/dre
+- type: cites
+  target: pt:dre:581061:por
+  label: null
+  source: http://data.dre.pt/eli/lei/5/2004/02/10/p/dre
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:13:31Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 56/2010
+
+de 1 de Junho
+
+A Autoridade da Concorrência, no estudo «Mobilidade dos Consumidor no Sector das Comunicações Electrónicas», divulgado em Fevereiro de 2010, identifica a falta de mobilidade dos consumidores como um dos entraves a uma maior concorrência no sector das comunicações electrónicas em Portugal.
+
+No que se refere às comunicações móveis, destaca o estudo, dentro dos custos relacionados com a mudança de operador ou prestador de serviços que condicionam aquela mobilidade, os custos contratuais, que consistem na consagração contratual da obrigação do consumidor utilizar o serviço contratado por um período de fidelização não inferior a 12, 18 ou 24 meses, como contrapartida da cedência de equipamento a preços reduzidos e os custos de compatibilidade, associados à aquisição de equipamentos que apenas permitem usufruir dos serviços fornecidos por determinado operador ou prestador.
+
+No referido estudo, a Autoridade da Concorrência indica algumas soluções para incrementar a mobilidade dos consumidores no sector das comunicações móveis e para fomentar a concorrência.
+
+Estas soluções passam, designadamente, pela proibição de cobrança de qualquer quantia pelo desbloqueamento dos telemóveis findo o período de fidelização e, durante este período, pela consagração de um limite para a cobrança desta quantia, que deverá ter em conta, em primeiro lugar, o preço de venda do equipamento sem qualquer tipo de subsidiação e, em segundo lugar, o momento em que é solicitada a operação.
+
+Aquela Autoridade refere, ainda, que a proibição do pagamento de qualquer quantia pela operação de desbloqueamento deve ser aplicada a todos os tipos de equipamento que permitam o acesso a serviços de comunicações electrónicas.
+
+Por sua vez, o ICP - Autoridade Nacional de Comunicações (ICP-ANACOM), por deliberação de 11 de Dezembro de 2008, determinou que se os contratos de adesão dos serviços de comunicações electrónicas previrem períodos de fidelização devem ser incluídas cláusulas que, expressa, clara e inequivocamente, informem o consumir quanto à justificação do período de fidelização pela concessão de contrapartidas ou benefícios ao assinante, à duração do período de fidelização, ao custo do desbloqueamento, ao meio, que deve ser simples e expedito, através do qual o assinante possa, a todo o momento, saber quando se conclui o período de fidelização e qual o valor que terá de pagar se rescindir antecipadamente o contrato, à forma de cálculo do valor que deve pagar em caso de resolução antecipada do contrato e, finalmente, cláusulas que estipulem que em caso de pagamento do valor dos benefícios que foram inicialmente concedidos, no final do período de permanência ou em caso de resolução antecipada do contrato, o assinante tem direito ao desbloqueio do equipamento pelo preço que constar inicialmente do contrato e que não lhe pode ser exigido a nenhum título qualquer quantia suplementar.
+
+Assim, o presente decreto-lei visa garantir os direitos dos utilizadores, facilitando a sua mobilidade, e proporcionar, também, uma maior concorrência no mercado das comunicações electrónicas.
+
+Deste modo, em primeiro lugar, proíbe-se cobrança, pelos operadores de serviços de comunicações electrónicas, de qualquer contrapartida pela prestação do serviço de desbloqueamento dos aparelhos findo o período de fidelização.
+
+Em segundo lugar, estabelece-se um limite ao valor cobrado pela resolução do contrato e pelo desbloqueamento, durante esse período de fidelização.
+
+Finalmente, em terceiro lugar, estabelece-se igualmente um limite ao valor que pode ser cobrado pelo serviço de desbloqueamento, sempre que não esteja previsto qualquer período de fidelização.
+
+Foi ouvido o ICP - Autoridade Nacional de Comunicações (ICP-ANACOM) e a Autoridade da Concorrência.
+
+Foi promovida a consulta ao Conselho Nacional do Consumo.
+
+Foi ouvida, a título facultativo, a Apritel - Associação dos Operadores de Telecomunicações.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei estabelece limites à cobrança de quantias pela prestação do serviço de desbloqueamento de equipamentos destinados ao acesso a serviços de comunicações electrónicas bem como pela rescisão do contrato durante o período de fidelização, garantindo os direitos dos utentes nas comunicações electrónicas e promovendo uma maior concorrência neste sector.
+
+###### Artigo 2.º — Âmbito
+
+1 - É proibida a cobrança de qualquer contrapartida pela prestação do serviço de desbloqueamento dos equipamentos referidos no artigo anterior, findo o período de fidelização contratual.
+
+2 - Durante o período de fidelização, pela resolução do contrato e pelo desbloqueamento do equipamento, é proibida a cobrança de qualquer contrapartida de valor superior a:
+
+a) 100 % do valor do equipamento à data da sua aquisição ou posse, sem qualquer desconto, abatimento ou subsidiação, no decurso dos primeiros seis meses daquele período, deduzido do valor já pago pelo utente, bem como de eventual crédito do consumidor face ao operador de comunicações móveis;
+
+b) 80 % do valor do equipamento à data da sua aquisição ou posse, sem qualquer desconto, abatimento ou subsidiação, após os primeiros seis meses daquele período, deduzido do valor já pago pelo utente, bem como de eventual crédito do consumidor face ao operador de comunicações móveis;
+
+c) 50 % do valor do equipamento à data da sua aquisição ou posse, sem qualquer desconto, abatimento ou subsidiação, no último ano do período de fidelização, deduzido do valor já pago pelo utente, bem como de eventual crédito do consumidor face ao operador de comunicações móveis.
+
+3 - É proibida a cobrança de qualquer contrapartida, para além das referidas no número anterior, a título indemnizatório ou compensatório pela resolução do contrato durante o período de fidelização.
+
+4 - Não existindo período de fidelização, pelo serviço de desbloqueamento do equipamento não pode ser cobrada uma quantia superior à diferença entre o valor do equipamento, à data da sua aquisição ou posse, sem qualquer desconto, abatimento ou subsidiação, e o valor já pago pelo utente.
+
+5 - Para efeitos do presente decreto-lei, entende-se por serviço de desbloqueamento o serviço prestado pelo operador ou prestador de serviços que consiste na descarga de um software que permite o acesso do equipamento a outros operadores ou prestadores de serviços.
+
+###### Artigo 3.º — Operação de desbloqueamento
+
+A obrigação de proceder ao desbloqueamento do equipamento incumbe ao operador ou prestador de serviço que o bloqueou, devendo ser realizada no prazo máximo de cinco dias a contar do dia em que o utente solicitou a sua realização.
+
+###### Artigo 4.º — Prazo máximo do período de fidelização
+
+O período de fidelização não pode ter duração superior a 24 meses.
+
+###### Artigo 5.º — Dever de informação
+
+1 - Sem prejuízo do disposto no artigo 47.º da [Lei n.º 5/2004](https://diariodarepublica.pt/dr/detalhe/lei/5-2004-581061), de 10 de Fevereiro, o operador de comunicações móveis deve, previamente à celebração do contrato, informar por escrito o utente sobre as características do equipamento, nomeadamente sobre se este se encontra bloqueado, o preço e as condições do seu desbloqueamento, bem como sobre o preço do equipamento bloqueado e desbloqueado.
+
+2 - Em qualquer momento do período de fidelização, e a pedido do utente, deve o operador ou prestador de serviços informar sobre a data do termo desse período e do bloqueamento do aparelho, bem como sobre o valor que o utente tem de pagar em caso de resolução antecipada do contrato.
+
+3 - A prova do cumprimento do disposto no presente artigo cabe ao operador ou prestador de serviço.
+
+###### Artigo 6.º — Fiscalização
+
+A fiscalização do disposto no presente decreto-lei compete ao ICP-Autoridade Nacional de Comunicações (ICP-ANACOM).
+
+###### Artigo 7.º — Contra-ordenações
+
+1 - Constitui contra-ordenação grave a violação do disposto nos artigos 2.º e 4.º, punível nos termos do n.º 3 do artigo 7.º da [Lei n.º 99/2009](https://diariodarepublica.pt/dr/detalhe/lei/99-2009-489497), de 4 de Setembro, que aprova o regime quadro das contra-ordenações do sector das comunicações.
+
+2 - Constitui contra-ordenação leve a violação do disposto nos artigos 3.º e 5.º, punível nos termos do n.º 2 do artigo 7.º da [Lei n.º 99/2009](https://diariodarepublica.pt/dr/detalhe/lei/99-2009-489497), de 4 de Setembro, que aprova o regime quadro das contra-ordenações do sector das comunicações.
+
+###### Artigo 8.º — Carácter injuntivo
+
+É nula qualquer convenção ou disposição que contrarie ou exclua o disposto no presente decreto-lei.
+
+###### Artigo 9.º — Disposições transitórias
+
+1 - O presente decreto-lei aplica-se a todos os contratos em execução no momento da sua entrada em vigor, sem prejuízo do disposto no número seguinte.
+
+2 - O disposto no artigo 4.º aplica-se aos contratos celebrados a partir da entrada em vigor do presente decreto-lei.
+
+###### Artigo 10.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no prazo de 90 dias a contar da data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 25 de Março de 2010. - José Sócrates Carvalho Pinto de Sousa - José Manuel Santos de Magalhães - Fernando Medina Maciel Almeida Correia - António Augusto da Ascenção Mendonça.
+
+Promulgado em 20 de Maio de 2010.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 20 de Maio de 2010.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -1,0 +1,222 @@
+---
+schema_version: '1.0'
+id: pt:dre:262075:por
+title: Decreto Legislativo Regional n.º 2/2007/M
+short_title: null
+summary: Regula a transferência da atribuição relativa à iluminação pública rural e urbana para os municípios da Região Autónoma
+  da Madeira e o respectivo financiamento
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 2/2007/M
+official_date: null
+publication_date: '2007-01-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 5/2007, Série I de 2007-01-08
+  number: '5'
+  series: I
+  supplement: null
+  pages: 155 - 157
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/01/00500/01550157.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-07-19'
+version_history:
+  file: decreto-legislativo-regional-2-2007-m.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2007-01-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-07-19'
+    amending: pt:dre:206297249:por
+    amending_title: Decreto Legislativo Regional n.º 10/2023/M
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/2/2007/m/cons/20230119/pt/html
+  oj: null
+  dre: '262075'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/2-2007-262075
+  internal: pt:dre:262075:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-262075
+  metadata_url: https://data.dre.pt/eli/declegreg/2/2007/m/cons/20230119/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2007-206297268
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2007-206297268
+  retrieved_at: '2026-10-22T12:54:56Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: da89de5c7e090f30ca833114e4991e7ae57fb93aebc8f7aba3e725bc2a877e0f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:54:56Z'
+  notes: 2 versão(ões); histórico completo em decreto-legislativo-regional-2-2007-m.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Distribuição de Energia Elétrica
+- Energia Elétrica
+- Gestão Financeira
+- Governo Regional
+- Domínio Público Municipal
+- Empresa de Electricidade da Madeira
+- Electrificação Rural
+- Pagamento
+- Madeira.região Autónoma
+- Taxa
+- Transferência de Competências
+- Autarquia Local
+relationships:
+- type: amended_by
+  target: pt:dre:206297249:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2023-206297249
+  date: '2023-01-19'
+- type: cites
+  target: pt:dre:570562:por
+  label: null
+  source: http://data.dre.pt/eli/lei/159/1999/09/14/p/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:54:56Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 2/2007/M
+
+Decreto Legislativo Regional n.º 2/2007/M
+
+Regula a transferência da atribuição relativa à iluminação pública rural e urbana para os municípios da Região Autónoma da Madeira e o respectivo financiamento
+
+A Lei n.º 159/99, de 14 de Setembro, veio finalmente estabelecer o quadro legal de transferência de atribuições e competências para as autarquias locais que desde há muito era reivindicado como meio de concretização do princípio da descentralização e da autonomia local.
+
+Nesta matéria, herdeira do velho Código Administrativo, grassava a incerteza e a dúvida jurídicas para além de ser alfobre de conflitos indesejáveis.
+
+No tocante às Regiões Autónomas, porém, agravava o cenário a interposição da pessoa colectiva Região, sem a que a Lei das Finanças Locais tenha tido em conta tal especificidade.
+
+No caso concreto da Região Autónoma da Madeira, o serviço público de produção, transporte e distribuição de energia eléctrica sofreu uma evolução histórica substancialmente diferente do resto do País, tendo sido assegurado, desde 1949 até ao presente, sempre por entes públicos ou entidades do sector empresarial público, sob diversas formas jurídicas, ao contrário das restantes parcelas do todo nacional em que vigoraram os mais diversos regimes, tanto públicos como privados.
+
+Neste capítulo, a especial orografia da Região aconselhou historicamente a um tratamento unitário de toda a electrificação, o que inicialmente aconteceu em regime de concessão de serviço público à The Madeira Electric Lightning Company Ltd. (1909).
+
+É facto que o Código Administrativo veio, em 1940, cometer aos municípios a competência para deliberar sobre a iluminação pública nas povoações e vias públicas sob sua jurisdição. Só que, pelas razões históricas referidas, nunca foi aplicada tal regra no então Distrito Autónomo do Funchal para razão da sua impraticabilidade objectiva.
+
+Foi assim que, após o resgate da concessão em 1949 e assunção do serviço público pela Comissão Administrativa dos Aproveitamentos Hidráulicos da Madeira e a partir de Janeiro de 1974 pela empresa pública Empresa de Electricidade da Madeira, E. P., e sua actual sucessora EEM - Empresa de Electricidade da Madeira, S. A. (EEM), sempre o serviço público de distribuição foi assegurado pela EEM e a iluminação pública por diversas entidades, sendo que desde 1990 - Decreto Legislativo Regional n.º 22/90/M, de 31 de Agosto - a iluminação pública tem sido assumida pela Região, através do Governo Regional.
+
+Acontece, porém, que ao nível da sobreposição de ordenamentos jurídicos relativos às atribuições e competências da Região Autónoma/autarquias locais e das finanças regionais/finanças locais existem descontinuidades normativas que podem pontualmente - se não atempadamente corrigidas - provocar disfuncionalidades no bom e ordenado relacionamento entre instituições.
+
+Tal é o caso das competências atribuídas para as cobranças de taxas pelo uso privativo de parcelas do domínio público - absolutamente essencial para a garantia dos meios autárquicos pelo uso privilegiado de um particular em confronto com o uso geral e gratuito - mas que em condições pontuais pode revelar-se gerador de incertezas e injustiças relativas quando, em concreto, determinado utilizador é um prestador de serviço público suportado finalmente por entidade não formalmente habilitada do directo lançamento e cobranças de tais taxas.
+
+Ora, como vimos, no caso concreto da Região Autónoma da Madeira, é o Governo Regional que suporta os encargos com os consumos de iluminação pública, serviço público que por lei está atribuído aos municípios nos termos da Lei n.º 159/99, de 14 de Setembro.
+
+E, nos termos do artigo 19.º da Lei das Finanças Locais, é o município que tem competência para cobrar taxas pela utilização do domínio público municipal.
+
+Estamos, assim, perante uma situação de facto não directamente prevista na lei, mas que se inscrevia no quadro desejável de cooperação entre tais entidades em nome da realização de uma finalidade pública fundamental para o coerente e articulado progresso harmónico de toda a Região.
+
+Tal cooperação não era, porém, um fenómeno isolado nem imprevisto - ela inseria-se na lógica já instituída e admitida pelo legislador nacional ao prever regimes de parceria entre entidades públicas «para melhor prossecução do interesse público» (artigo 8.º da Lei n.º 159/99, de 14 de Setembro) e, num outro registo, pelo artigo 7.º, n.º 7, da Lei das Finanças Locais.
+
+Mas constatando-se a actual possibilidade de os municípios, por via da cobrança de taxas de ocupação de domínio público, se dotarem das verbas necessárias para fazer face ao encargo de iluminação pública que, desde há muito tempo, vem pesando nas contas do Governo Regional, é chegada a altura de esclarecer, para o futuro, o âmbito de actuação de cada uma destas entidades, transferindo definitivamente para os municípios, no âmbito do enquadramento de progressiva descentralização preconizada pela Lei n.º 159/99, de 14 de Setembro, já referida, a obrigação de provimento de iluminação pública e, nomeadamente, a responsabilidade pelo pagamento da iluminação pública rural e urbana, incluindo a iluminação das estradas regionais complementares que não se encontrem concessionadas, já que as mesmas foram iluminadas a pedido dos próprios municípios.
+
+Não se olvidando, todavia, a essência da actividade de transporte e distribuição de energia eléctrica no arquipélago da Madeira, que reveste a natureza de um serviço público que atende a um interesse superior de bem-estar e qualidade de vida que ultrapassa os interesses locais e específicos de cada município, entendeu-se acordar com os municípios a limitação da taxa a liquidar e cobrar pela ocupação de domínio público de forma que esta taxa, por um lado, nunca comprometa o necessário equilíbrio das prestações em causa (serviço público/utilização de um bem de domínio público) e, por outro, nunca comprometa a boa prossecução do serviço público, onerando-o de forma desproporcionada, motivo pelo qual também se reconhece à EEM o direito de compensação sobre os montantes devidos aos municípios da Região Autónoma da Madeira enquanto estes permanecerem em dívida para com a EEM.
+
+Trata-se assim, tendo em conta, como se viu, a especificidade da Região, de trazer ao mundo jurídico normativo com a correspondente formalização, esta realidade, de modo a conferir-lhe a publicidade que merece em abono da transparência e certeza do direito.
+
+Para tanto foram ouvidos todos os municípios da Região - única via para uma sã implementação da medida ora tomada - os quais manifestaram a sua total adesão às iniciativas propostas pelo Governo Regional, nomeadamente a cobrança à EEM da taxa de utilização do domínio público municipal pelas respectivas infra-estruturas eléctricas e a correspondente afectação dessa taxa ao pagamento das dívidas de iluminação pública acima referidas, bem como o encontro de contas a efectuar entre a EEM e os municípios referente aos pagamentos da iluminação pública, que a lei veio pôr a seu cargo.
+
+Em deliberação das respectivas assembleias municipais, os municípios da Região Autónoma da Madeira aprovaram, com efeitos a partir de 1 de Janeiro de 2006, a assunção da atribuição de prover iluminação pública, bem como aprovaram a constituição de uma associação de municípios para a qual transferirão as obrigações de prossecução da atribuição de iluminação pública urbana e rural e a competência para lançar, liquidar e cobrar uma taxa única anual pela ocupação de domínio público municipal pelas infra-estruturas da EEM.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos do disposto na alínea a) do n.º 1 do artigo 227.º e do n.º 1 do artigo 228.º da Constituição da República Portuguesa e ao abrigo da alínea vv) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, o seguinte:
+
+###### Artigo 1.º — Transferência de atribuição
+
+1 - É transferida para os municípios da Região Autónoma da Madeira a obrigação de prover iluminação pública rural e urbana e, nomeadamente, a obrigação de suportar os encargos inerentes a essa atribuição.
+
+2 - Considera-se incluída na transferência a que se refere o número anterior a iluminação pública das estradas regionais não concessionadas, assumida pelos municípios da Região Autónoma da Madeira desde 1 de janeiro de 2006.
+
+3 - Não integra o âmbito da atribuição transferida nos termos do n.º 1, sendo da responsabilidade do Governo Regional da Madeira, através da Secretaria Regional com a tutela da rede viária regional, a obrigação de prover e suportar os encargos inerentes à iluminação das estradas regionais concessionadas, salvo no caso de transferência, por via contratual, desses encargos para o respetivo concessionário, ou das estradas regionais que deixem de estar integradas no objeto de concessões de infraestruturas rodoviárias.
+
+> Revogado pelo/a Artigo 112.º do/a [Decreto Legislativo Regional n.º 10/2023/M - Diário da República n.º 14/2023, Série I de 2023-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2023-206297249), em vigor a partir de 2023-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 34/2016/M - Diário da República n.º 150/2016, Série I de 2016-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2016-75105959), produz efeitos a partir de 2006-01-01
+
+###### Artigo 2.º — Contrapartida pela utilização de bens do domínio público municipal
+
+1 - Pela utilização dos bens do domínio público municipal, é devida pela EEM - Empresa de Eletricidade da Madeira, S. A. (EEM), no âmbito do desenvolvimento da atividade do transporte e distribuição de eletricidade, o pagamento de uma contrapartida anual a favor de cada município, ou conjunto de municípios agrupados nos termos da legislação em vigor, situados no território da Região Autónoma da Madeira.
+
+2 - O valor da contrapartida anual prevista no número anterior é determinado a partir de um valor de referência para 2007, considerado o consumo de energia elétrica em baixa tensão, em cada município, no ano de 2006, calculado nos termos da fórmula constante do anexo i do Decreto-Lei n.º 230/2008, de 27 de novembro, alterado pela Lei n.º 7-A/2016, de 30 de março, com as devidas adaptações.
+
+3 - O valor a que se refere o número anterior é atualizado, em cada ano, nos termos da fórmula constante do anexo ii do Decreto-Lei n.º 230/2008, de 27 de novembro, alterado pela Lei n.º 7-A/2016, de 30 de março, com as devidas adaptações, de acordo com a variação do índice de preços no consumidor, com exclusão da habitação, publicado pelo Instituto Nacional de Estatística, I. P., e ponderado por um fator aplicado à variação do consumo de energia elétrica em baixa tensão verificado em cada município, em ambos os casos com base nos dados relativos ao ano anterior àquele em deve ocorrer o pagamento da contrapartida.
+
+4 - A contrapartida anual referida nos números anteriores é integralmente repercutida na tarifa de uso das redes de distribuição em baixa tensão, nos termos previstos no artigo 44.º do Decreto-Lei n.º 172/2006, de 23 de agosto, e no artigo 1.º do Decreto-Lei n.º 230/2008, de 27 de novembro, ambos na redação dada pela Lei n.º 7-A/2016, de 30 de março, e no Regulamento Tarifário da Entidade Reguladora dos Serviços Energéticos (ERSE).
+
+> Revogado pelo/a Artigo 112.º do/a [Decreto Legislativo Regional n.º 10/2023/M - Diário da República n.º 14/2023, Série I de 2023-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2023-206297249), em vigor a partir de 2023-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 34/2016/M - Diário da República n.º 150/2016, Série I de 2016-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2016-75105959), produz efeitos a partir de 2006-01-01
+
+###### Artigo 3.º — Âmbito de aplicação da contrapartida pela ocupação do domínio público municipal
+
+O pagamento da contrapartida anual prevista no artigo anterior isenta a EEM do pagamento, aos municípios, de quaisquer outras taxas, remunerações ou outros valores pela utilização do domínio público de qualquer natureza, na Região Autónoma da Madeira.
+
+> Revogado pelo/a Artigo 112.º do/a [Decreto Legislativo Regional n.º 10/2023/M - Diário da República n.º 14/2023, Série I de 2023-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2023-206297249), em vigor a partir de 2023-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 34/2016/M - Diário da República n.º 150/2016, Série I de 2016-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2016-75105959), produz efeitos a partir de 2006-01-01
+
+###### Artigo 4.º — Liquidação
+
+Os municípios da Região Autónoma da Madeira, ou a entidade para a qual os municípios tenham transferido as competências em causa e a EEM, procederão, dentro das regras contabilísticas aplicáveis, ao necessário encontro de contas relativamente às importâncias de fornecimento de energia eléctrica e da taxa de que trata o presente diploma, com efeitos a partir de 1 de Janeiro de 2006.
+
+> Revogado pelo/a Artigo 112.º do/a [Decreto Legislativo Regional n.º 10/2023/M - Diário da República n.º 14/2023, Série I de 2023-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2023-206297249), em vigor a partir de 2023-07-19
+
+###### Artigo 5.º — Produção de efeitos
+
+O presente diploma produz os seus efeitos desde o início do ano fiscal de 2006, deixando, a partir da mesma data, de constituir encargo do Governo Regional a manutenção da iluminação pública municipal.
+
+> Revogado pelo/a Artigo 112.º do/a [Decreto Legislativo Regional n.º 10/2023/M - Diário da República n.º 14/2023, Série I de 2023-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2023-206297249), em vigor a partir de 2023-07-19
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 22 de Novembro de 2006.
+
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
+
+Assinado em 14 de Dezembro de 2006.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
+
+> Revogado pelo/a Artigo 112.º do/a [Decreto Legislativo Regional n.º 10/2023/M - Diário da República n.º 14/2023, Série I de 2023-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2023-206297249), em vigor a partir de 2023-07-19

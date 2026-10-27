@@ -1,0 +1,123 @@
+---
+schema_version: '1.0'
+id: pt:dre:260428:por
+title: Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 6/2013/A
+short_title: null
+summary: Recomenda ao Governo Regional que realize os procedimentos necessários para que as obras de ampliação e modernização
+  do Porto da Casa se iniciem na atual legislatura
+jurisdiction: regional
+territory: acores
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 6/2013/A
+official_date: null
+publication_date: '2013-04-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 74/2013, Série I de 2013-04-16
+  number: '74'
+  series: I
+  supplement: null
+  pages: 2207 - 2207
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/04/07400/0220702207.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalraa/6/2013/04/16/a/dre/pt/html
+  oj: null
+  dre: '260428'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/6-2013-260428
+  internal: pt:dre:260428:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/6-2013-260428
+  metadata_url: https://data.dre.pt/eli/resolalraa/6/2013/04/16/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/6-2013-260428
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:34:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0be49a3eece9494b30c1cd2e795692fb27d275255e78edf5a7c7c656888b1cac
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:34:56Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Ilha do Corvo
+- Mar
+- Obras Públicas
+- Plataforma Continental
+- Porto da CASA
+- Recomendação
+- REDE Portuária
+- Turismo
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:34:56Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 6/2013/A
+
+RECOMENDA AO GOVERNO REGIONAL QUE REALIZE OS PROCEDIMENTOS NECESSÁRIOS PARA QUE AS OBRAS DE AMPLIAÇÃO E MODERNIZAÇÃO DO PORTO DA CASA SE INICIEM NA ATUAL LEGISLATURA.
+
+A economia do mar é o vetor estratégico de desenvolvimento em que o país possui maiores vantagens e margem de progressão. Com a expansão da plataforma continental, Portugal transformar-se-á num país com cerca de 4.000.000 Km2 de jurisdição no Atlântico. Uma área enorme, que contém um enorme potencial mineral, energético, biológico, económico e geopolítico. Esta é aposta portuguesa para o futuro.
+
+No quadro desta estratégia global para Portugal, o contributo dos Açores é absolutamente decisivo no âmbito da dimensão territorial e geopolítica alcançada pelo país. O contributo açoriano para a gigantesca área marítima sob jurisdição portuguesa é de cerca de 2.353.000 km2. Isto significa que, a médio prazo, a capacidade, dispersão territorial e complementaridade da rede portuária dos Açores revelar-se-á fundamental enquanto âncora logística para a implementação de uma estratégia global relacionada com a exploração dos recursos do imenso mar açoriano.
+
+A rede portuária açoriana, cada vez com maior capacidade, modernidade e polivalência, está implantada num grande território insular contínuo que soma 179.500 km2 (cerca de duas vezes o território continental do país), considerando a zona entre os paralelos e meridianos da figura quadrangular mínima que envolve as ilhas.
+
+No âmbito deste vasto espaço, o Grupo Ocidental - que é justamente o responsável pela projeção da jurisdição portuguesa em cerca de um terço da zona económica exclusiva açoriana e da imensa zona adjacente da plataforma continental - é o espaço que apresenta menor capacidade e maior vulnerabilidade em termos da infraestrutura portuária.
+
+Refira-se, a este respeito, que a ilha do Corvo se encontra na total dependência logística do vizinho Porto das Lajes das Flores. Esta situação constitui uma evidente vulnerabilidade na rede portuária regional. Interessa fortalecer e diversificar, do ponto de vista portuário, a capacidade logística do Grupo Ocidental. Resulta evidente concluir que a maior subzona sob jurisdição marítima nacional necessita de uma infraestrutura portuária polinucleada e de muito maior capacidade. Não se trata apenas de uma questão logística local. Esta matéria reveste-se de uma importância fulcral para a afirmação da soberania portuguesa neste vasto espaço atlântico.
+
+Assim, resulta lógico concluir que a ilha do Corvo deve reforçar e diversificar a capacidade portuária oferecida pelo Porto das Lajes. Estes dois portos, logo que concretizada a ampliação da barra do Porto da Casa, constituirão uma plataforma especialmente vocacionada para implementar o esforço de exploração do mar açoriano no extremo ocidental da jurisdição marítima nacional.
+
+Do ponto de vista dos interesses meramente locais as vantagens da ampliação da barra do Porto da Casa são, também, muito evidentes. No âmbito do tráfego comercial regional, o Corvo está totalmente dependente da função de entreposto desempenhada pela ilha vizinha. Esta situação fragiliza a economia local, na medida em que provoca grandes atrasos nas entregas de mercadorias e não tem evitado - em especial durante o Inverno - episódicos estrangulamentos no abastecimento de produtos essenciais. Neste âmbito importa ainda referir que a carga, devido às condições em que é realizado o transbordo das mercadorias, não chega nas melhores condições à ilha do Corvo.
+
+No que diz respeito às atividades piscatórias da ilha do Corvo, importa dizer que as mesmas se encontram, em grande parte do ano, fortemente condicionadas devido às diversas vulnerabilidades apresentadas atualmente pelo Porto da Casa. Assim, não é de estranhar que o Porto da Casa não possua condições mínimas de navegabilidade durante cerca de metade do ano. Esta situação afeta drasticamente as condições de sobrevivência da comunidade piscatória local, submetida que fica, assim, a longos períodos de inatividade.
+
+Cabe, ainda, destacar o enorme potencial do turismo náutico na ilha do Corvo. Neste âmbito, as atuais valências e capacidade do Porto da Casa estão longe de oferecer qualquer perspetiva de futuro neste domínio. Neste sentido resulta lógico concluir que qualquer projeto de expansão e modernização deste porto deve prever a criação de várias valências no âmbito do turismo náutico. Este deve ser, como é evidente, contextualizado e integrado no âmbito do turismo de natureza, vertente turística para a qual a ilha do Corvo, dada a sua condição de Reserva da Biosfera da UNESCO, possui um grande potencial.
+
+Em síntese, o interesse nacional, regional e local convergem no sentido de se considerar crucial a necessidade de ampliar (alargar e prolongar o cais), modernizar e diversificar as valências do Porto da Casa. Este é, atualmente, o projeto mais reivindicado e acarinhado pela população local e não custa admitir que a sua concretização dará à ilha condições extraordinárias para se libertar de grande parte dos atuais constrangimentos ao seu crescimento económico.
+
+Dado o consenso social, e também político, que envolve esta questão, importa agora sinalizar este investimento como prioritário no contexto desta legislatura. Neste sentido, é necessário assegurar que as obras de ampliação, modernização e diversificação das valências do Porto da Casa se iniciarão a curto prazo.
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores, nos termos regimentais estatutários aplicáveis, resolve recomendar ao Governo Regional que realize os procedimentos necessários para que as obras de ampliação e modernização do Porto da Casa se iniciem na atual legislatura.
+
+Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 22 de fevereiro de 2013.
+
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.

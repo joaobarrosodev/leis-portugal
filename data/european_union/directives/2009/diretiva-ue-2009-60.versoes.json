@@ -1,0 +1,290 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009L0060:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0060-20160101",
+ "dre_path": null,
+ "source_lastmod": "2016-01-01",
+ "versions": [
+  {
+   "date": "2009-07-30",
+   "future": false,
+   "celex": "32009L0060",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "13d06cccffad636b",
+    "38fb1fef6d1a434f",
+    "dd1a783798aa55ae",
+    "34348f3fac287a2f",
+    "aaaf86b36835a3ff",
+    "1b58cd6327c0d02f",
+    "7cf8a158bc8a2ed1",
+    "75a2d1da67da9520",
+    "f5618c6f689dd6ed",
+    "ab7b0b57ebb01833",
+    "c7c7ffef48a7990b"
+   ]
+  },
+  {
+   "date": "2010-09-29",
+   "future": false,
+   "celex": "02009L0060-20100929",
+   "acts": [
+    {
+     "id": "eu:celex:32010L0062:por",
+     "title": "DIRECTIVA 2010/62/UE DA COMISSÃO Texto relevante para efeitos do EEE de 8 de Setembro de 2010",
+     "published": null,
+     "celex": "32010L0062"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 9.º",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita 1. Velocidade máxima por construção",
+    "Adita 2. Plataforma de carga",
+    "Adita ANEXO II",
+    "Adita Parte A",
+    "Adita Parte B",
+    "Adita ANEXO III"
+   ],
+   "fragments": [
+    "72b5a5490d315abc",
+    "32f8d59c10a5947f",
+    "dd1a783798aa55ae",
+    "34348f3fac287a2f",
+    "aaaf86b36835a3ff",
+    "1b58cd6327c0d02f",
+    "7cf8a158bc8a2ed1",
+    "75a2d1da67da9520",
+    "f5618c6f689dd6ed",
+    "1acdc9ca9b68225c",
+    "d664376e2a8dcecd",
+    "2cb6705f542f190c",
+    "b36ecd7dde4adb59",
+    "852174729551523b",
+    "4517fc19c8b6847b",
+    "36d644e3f32cb1e9",
+    "51562a4ed0708807",
+    "cd479015f4ee7458"
+   ]
+  },
+  {
+   "date": "2016-01-01",
+   "future": false,
+   "celex": "02009L0060-20160101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime ANEXO I",
+    "Suprime 1. Velocidade máxima por construção",
+    "Suprime 2. Plataforma de carga",
+    "Suprime ANEXO II",
+    "Suprime Parte A",
+    "Suprime Parte B",
+    "Suprime ANEXO III",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "895d993151a88892"
+   ]
+  }
+ ],
+ "fragments": {
+  "13d06cccffad636b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Julho de 2009\n\nrelativa à velocidade máxima, por construção, e às plataformas de carga dos tractores agrícolas ou florestais de rodas\n\n(versão codificada)\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente, o artigo 95.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/3a0f51fb-2494-41bd-ac97-ea7ff7fcf652.0018.02/DOC_1#ntr1-L_2009198PT.01001501-E0001),\n\nDeliberando nos termos do artigo 251.º do Tratado [([^2])](http://publications.europa.eu/resource/cellar/3a0f51fb-2494-41bd-ac97-ea7ff7fcf652.0018.02/DOC_1#ntr2-L_2009198PT.01001501-E0002),\n\nConsiderando o seguinte:\n\n(1) A Directiva 74/152/CEE do Conselho, de 4 de Março de 1974, relativa à aproximação das legislações dos Estados-Membros respeitantes à velocidade máxima, por construção, e às plataformas de carga dos tractores agrícolas ou florestais de rodas [([^3])](http://publications.europa.eu/resource/cellar/3a0f51fb-2494-41bd-ac97-ea7ff7fcf652.0018.02/DOC_1#ntr3-L_2009198PT.01001501-E0003) foi por várias vezes alterada de modo substancial [([^4])](http://publications.europa.eu/resource/cellar/3a0f51fb-2494-41bd-ac97-ea7ff7fcf652.0018.02/DOC_1#ntr4-L_2009198PT.01001501-E0004). Por razões de clareza e racionalidade, deverá proceder-se à codificação da referida directiva.\n\n(2) A Directiva 74/152/CEE é uma das directivas especiais do procedimento de homologação CE previsto na Directiva 74/150/CEE do Conselho, de 4 de Março de 1974, relativa à aproximação das legislações dos Estados-Membros respeitantes à recepção dos tractores agrícolas ou florestais de rodas, substituída pela Directiva 2003/37/CE do Parlamento Europeu e do Conselho, de 26 de Maio de 2003, relativa à homologação de tractores agrícolas ou florestais, seus reboques e máquinas intermutáveis rebocadas, e dos sistemas, componentes e unidades técnicas destes veículos [([^5])](http://publications.europa.eu/resource/cellar/3a0f51fb-2494-41bd-ac97-ea7ff7fcf652.0018.02/DOC_1#ntr5-L_2009198PT.01001501-E0005) e estabelece regras técnicas relativas à concepção e à construção de tractores agrícolas ou florestais no que respeita à velocidade máxima, por construção, e às plataformas de carga. Essas regras técnicas, respeitantes à aproximação das legislações dos Estados-Membros, destinam-se a permitir que o procedimento de homologação CE, estabelecido na Directiva 2003/37/CE, seja aplicado em cada modelo de tractor. Por conseguinte, as disposições da Directiva 2003/37/CE relativas aos tractores agrícolas ou florestais, seus reboques e máquinas intermutáveis rebocadas, bem como aos sistemas, componentes e unidades técnicas destes veículos, aplicam-se à presente directiva.\n\n(3) A presente directiva não deverá prejudicar as obrigações dos Estados-Membros relativas aos prazos de transposição para o direito nacional e de aplicação das directivas, indicados na parte B do anexo II,\n\nAPROVARAM A PRESENTE DIRECTIVA:"
+  },
+  "38fb1fef6d1a434f": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Entende-se por «tractor (agrícola ou florestal)» qualquer veículo a motor, com rodas ou lagartas, tendo pelo menos dois eixos, cuja função principal resida na sua potência de tracção, e especialmente concebido para atrelar, empurrar, carregar ou accionar certas ferramentas, máquinas ou reboques destinados a uma utilização agrícola ou florestal. Pode estar equipado para transportar carga e passageiros.\n\n2. A presente directiva aplica-se exclusivamente aos tractores definidos no n.º 1, montados sobre pneumáticos e com uma velocidade máxima, por construção, compreendida entre 6 e 40 km/h."
+  },
+  "dd1a783798aa55ae": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros não podem indeferir o pedido de homologação CE, nem de emissão do documento previsto na alínea u) do artigo 2.º da Directiva 2003/37/CE, nem de homologação nacional a um modelo de tractor por motivos relacionados com a velocidade máxima, por construção, ou as plataformas de carga, se estas obedecerem às prescrições constantes do anexo I.\n\n2. Os Estados-Membros não podem emitir o documento previsto na alínea u) do artigo 2.º da Directiva 2003/37/CE a um modelo de tractor se este não obedecer às prescrições da presente directiva.\n\nOs Estados-Membros podem indeferir o pedido de homologação nacional a um modelo de tractor se este não obedecer às prescrições da presente directiva."
+  },
+  "34348f3fac287a2f": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-Membros não podem indeferir o pedido de matrícula nem proibir a venda, a primeira entrada em circulação ou a utilização de um tractor por motivos relacionados com a sua velocidade máxima, por construção, ou as suas plataformas de carga, se estas obedecerem às prescrições constantes do anexo I."
+  },
+  "aaaf86b36835a3ff": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os Estados-Membros não podem proibir nem exigir que os tractores estejam equipados com uma ou várias plataformas de carga.\n\n2. Os Estados-Membros não podem proibir que sejam transportados em plataformas de carga produtos cujo transporte em reboques para utilização agrícola ou florestal seja por eles autorizados. Dentro dos limites previstos pelo fabricante, será autorizada uma carga máxima de pelo menos 80 % de peso sem carga do tractor em ordem de marcha."
+  },
+  "1b58cd6327c0d02f": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs alterações necessárias para adaptar ao progresso técnico as disposições do anexo I são aprovadas pelo procedimento referido no n.º 3 do artigo 20.º da Directiva 2003/37/CE."
+  },
+  "7cf8a158bc8a2ed1": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-Membros comunicam à Comissão o texto das principais disposições de direito nacional que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "75a2d1da67da9520": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nÉ revogada a Directiva 74/152/CEE, alterada pelas directivas referidas na parte A do anexo II, sem prejuízo das obrigações dos Estados-Membros relativas aos prazos de transposição para o direito nacional e de aplicação das directivas, indicados na parte B do anexo II.\n\nAs remissões feitas para a directiva revogada devem entender-se como feitas para a presente directiva e devem ler-se de acordo com a tabela correspondência que consta do anexo III."
+  },
+  "f5618c6f689dd6ed": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de Janeiro de 2010."
+  },
+  "ab7b0b57ebb01833": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 13 de Julho de 2009.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**H.-G. PÖTTERING**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**E. ERLANDSSON**\n\n---"
+  },
+  "c7c7ffef48a7990b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/3a0f51fb-2494-41bd-ac97-ea7ff7fcf652.0018.02/DOC_1#ntc1-L_2009198PT.01001501-E0001) [JO C 161 de 13.7.2007, p. 37](http://publications.europa.eu/resource/oj/JOC_2007_161_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/3a0f51fb-2494-41bd-ac97-ea7ff7fcf652.0018.02/DOC_1#ntc2-L_2009198PT.01001501-E0002) Parecer do Parlamento Europeu de 19 de Junho de 2007 ([JO C 146 E de 12.6.2008, p. 74](http://publications.europa.eu/resource/oj/JOC_2008_146_E_TOC)) e decisão do Conselho de 22 de Junho de 2009.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/3a0f51fb-2494-41bd-ac97-ea7ff7fcf652.0018.02/DOC_1#ntc3-L_2009198PT.01001501-E0003) [JO L 84 de 28.3.1974, p. 33](http://publications.europa.eu/resource/oj/JOL_1974_084_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/3a0f51fb-2494-41bd-ac97-ea7ff7fcf652.0018.02/DOC_1#ntc4-L_2009198PT.01001501-E0004) Ver anexo II, parte A.\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/3a0f51fb-2494-41bd-ac97-ea7ff7fcf652.0018.02/DOC_1#ntc5-L_2009198PT.01001501-E0005) [JO L 171 de 9.7.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_171_R_TOC)."
+  },
+  "72b5a5490d315abc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Julho de 2009\n\nrelativa à velocidade máxima, por construção, e às plataformas de carga dos tractores agrícolas ou florestais de rodas\n\n(versão codificada)\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente, o artigo 95.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/9fd47a81-e64c-49d9-beb3-51e3045c09c5.0019.03/DOC_1#E0001)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^2^](http://publications.europa.eu/resource/cellar/9fd47a81-e64c-49d9-beb3-51e3045c09c5.0019.03/DOC_1#E0002)),\n\n(1) A Directiva 74/152/CEE do Conselho, de 4 de Março de 1974, relativa à aproximação das legislações dos Estados-Membros respeitantes à velocidade máxima, por construção, e às plataformas de carga dos tractores agrícolas ou florestais de rodas ([^3^](http://publications.europa.eu/resource/cellar/9fd47a81-e64c-49d9-beb3-51e3045c09c5.0019.03/DOC_1#E0003)) foi por várias vezes alterada de modo substancial ([^4^](http://publications.europa.eu/resource/cellar/9fd47a81-e64c-49d9-beb3-51e3045c09c5.0019.03/DOC_1#E0004)). Por razões de clareza e racionalidade, deverá proceder-se à codificação da referida directiva.\n\n(2) A Directiva 74/152/CEE é uma das directivas especiais do procedimento de homologação CE previsto na Directiva 74/150/CEE do Conselho, de 4 de Março de 1974, relativa à aproximação das legislações dos Estados-Membros respeitantes à recepção dos tractores agrícolas ou florestais de rodas, substituída pela Directiva 2003/37/CE do Parlamento Europeu e do Conselho, de 26 de Maio de 2003, relativa à homologação de tractores agrícolas ou florestais, seus reboques e máquinas intermutáveis rebocadas, e dos sistemas, componentes e unidades técnicas destes veículos ([^5^](http://publications.europa.eu/resource/cellar/9fd47a81-e64c-49d9-beb3-51e3045c09c5.0019.03/DOC_1#E0005)) e estabelece regras técnicas relativas à concepção e à construção de tractores agrícolas ou florestais no que respeita à velocidade máxima, por construção, e às plataformas de carga. Essas regras técnicas, respeitantes à aproximação das legislações dos Estados-Membros, destinam-se a permitir que o procedimento de homologação CE, estabelecido na Directiva 2003/37/CE, seja aplicado em cada modelo de tractor. Por conseguinte, as disposições da Directiva 2003/37/CE relativas aos tractores agrícolas ou florestais, seus reboques e máquinas intermutáveis rebocadas, bem como aos sistemas, componentes e unidades técnicas destes veículos, aplicam-se à presente directiva.\n\n(3) A presente directiva não deverá prejudicar as obrigações dos Estados-Membros relativas aos prazos de transposição para o direito nacional e de aplicação das directivas, indicados na parte B do anexo II,\n\nAPROVARAM A PRESENTE DIRECTIVA:"
+  },
+  "32f8d59c10a5947f": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Para efeitos da presente directiva, por «tractor» entende-se um tractor tal como definido no artigo 2.º, alínea j), da Directiva 2003/37/CE.\n\n2. Para efeitos da presente directiva, aplicam-se as categorias de tractores definidas no anexo II da Directiva 2003/37/CE.\n\n3. A presente directiva é exclusivamente aplicável aos tractores montados sobre pneus e cuja velocidade máxima por construção não é superior a 40 km/h."
+  },
+  "1acdc9ca9b68225c": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "2cb6705f542f190c": {
+   "fragment_id": "1. Velocidade máxima por construção",
+   "type": "divisao",
+   "heading": "1. Velocidade máxima por construção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Velocidade máxima por construção\n\n1.1. Aquando da homologação, a velocidade média será medida numa pista rectilínea, percorrida nos dois sentidos de marcha com partida lançada. O piso dessa pista deve estar estabilizado; a pista deve ter pelo menos 100 m de comprimento e ser plana com a possibilidade, todavia, de comportar declives até ao máximo de 1,5 %.\n\n1.2. Aquando do ensaio, o tractor deve estar sem carga em ordem de marcha, sem massas de lastragem nem equipamento especial, e a pressão dos pneumáticos deve ser a prescrita para utilização em estrada.\n\n1.3. Aquando do ensaio, o tractor deve estar equipado com pneumáticos novos da maior dimensão de rolagem prevista pelo fabricante para o tractor.\n\n1.4. A relação de desmultiplicação utilizada aquando do ensaio deve ser a que conduza à velocidade máxima do veículo, e o comando de alimentação de combustível deve estar totalmente aberto.\n\n1.5. Para tomar em consideração os diversos erros resultantes, nomeadamente, do processo de medição e do aumento de regime do motor a carga parcial, é tolerado, aquando da homologação, que a velocidade medida exceda em 3 km/h o valor da velocidade máxima por construção.\n\n1.6. Com vista a permitir às autoridades competentes para a homologação dos tractores calcular a sua velocidade máxima teórica, os fabricantes devem especificar, a título indicativo, a relação de desmultiplicação, o avanço real das rodas motoras por rotação completa e o número de rotações do motor à potência máxima com o comando de alimentação totalmente aberto e o regulador, se existir, ajustado como previsto pelo fabricante."
+  },
+  "b36ecd7dde4adb59": {
+   "fragment_id": "2. Plataforma de carga",
+   "type": "divisao",
+   "heading": "2. Plataforma de carga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Plataforma de carga\n\n2.1. O centro de gravidade da plataforma deve estar situado entre os eixos.\n\n2.2. As dimensões da plataforma devem ser tais que:\n\n— o comprimento não ultrapasse 1,4 vezes a maior via do tractor, à frente ou à retaguarda do tractor,\n\n— a largura não ultrapasse a largura máxima total do tractor sem equipamento.\n\n2.3. A plataforma deve estar disposta simetricamente em relação ao plano médio longitudinal do tractor.\n\n2.4. A altura da plataforma de carga acima do solo não deve exceder 150 cm.\n\n2.5. A montagem e o tipo da plataforma devem ser tais que, com uma carga normal, o campo de visibilidade do condutor continue a ser suficiente, e que os diferentes dispositivos regulamentares de iluminação e de sinalização luminosa possam continuar a cumprir as suas funções.\n\n2.6. A plataforma de carga deve ser amovível; a sua fixação ao tractor deve ser tal que não possa haver perigo de separação acidental."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "4517fc19c8b6847b": {
+   "fragment_id": "Parte A",
+   "type": "divisao",
+   "heading": "Parte A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte A\n\nDirectiva 74/152/CEE do Conselho (JO L 84 de 28.3.1974, p. 33).\n\nDirectiva 82/890/CEE do Conselho (JO L 378 de 31.12.1982, p. 45). apenas no que respeita às referências feitas no n.º 1 do artigo 1.º da Directiva 74/152/CEE\n\nDirectiva 88/412/CEE da Comissão (JO L 200 de 26.7.1988, p. 31).\n\nDirectiva 97/54/CE do Parlamento Europeu e do Conselho (JO L 277 de 10.10.1997, p. 24). apenas no que respeita às referências feitas no primeiro travessão do artigo 1.º da Directiva 74/152/CEE\n\nDirectiva 98/89/CE da Comissão (JO L 322 de 1.12.1998, p. 40)."
+  },
+  "36d644e3f32cb1e9": {
+   "fragment_id": "Parte B",
+   "type": "divisao",
+   "heading": "Parte B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte B\n\n| Directiva | Data limite de transposição | Data de aplicação |\n| --- | --- | --- |\n| 74/152/CEE | 8 de Setembro de 1975 | — |\n| 82/890/CEE | 22 de Junho de 1984 | — |\n| 88/412/CEE | 30 de Setembro de 1988 [(^1^)](http://publications.europa.eu/resource/cellar/9fd47a81-e64c-49d9-beb3-51e3045c09c5.0019.03/DOC_1#E0006) | — |\n| 97/54/CE | 22 de Setembro de 1998 | 23 de Setembro de 1998 |\n| 98/89/CE | 31 de Dezembro de 1999 [(^2^)](http://publications.europa.eu/resource/cellar/9fd47a81-e64c-49d9-beb3-51e3045c09c5.0019.03/DOC_1#E0007) | — |\n| (^1^)Segundo o artigo 2.º da Directiva 88/412/CEE:«1.A partir de 1 de Outubro de 1988, os Estados-Membros não podem:— recusar, para um modelo de tractor, a homologação CEE ou a emissão do documento referido no n.º 1, último travessão, do artigo 10.º da Directiva 74/150/CEE, ou a recepção de âmbito nacional, — proibir a primeira entrada em circulação dos tractores,se a velocidade máxima, por construção, e as plataformas de carga desse modelo de tractor ou desses tractores corresponderem às prescrições da presente directiva.2.A partir de 1 de Outubro de 1989, os Estados-Membros:— deixam de pode emitir o documento referido no n.º 1, último travessão, do artigo 10.º da Directiva 74/150/CEE para um modelo de tractor cuja velocidade máxima, por construção, e as plataformas de carga não correspondam às prescrições da presente directiva, — podem recusar a homologação de âmbito nacional de um modelo de tractor cuja velocidade máxima, por construção, e as plataformas de carga não correspondam às prescrições da presente directiva.». (^2^)Segundo o artigo 2.º da Directiva 98/89/CE:«1.A partir de 1 de Janeiro de 2000 os Estados-Membros não podem:— recusar a homologação CE ou a emissão do documento previsto no n.º 1, último travessão, do artigo 10.º da Directiva 74/150/CEE ou a recepção de âmbito nacional a um modelo de tractor, nem — proibir a primeira entrada em circulação de tractores,se esses tractores satisfizerem os requisitos da Directiva 74/152/CEE, com a redacção que lhe é dada pela presente directiva.2.A partir de 1 de Outubro de 2004, os Estados-Membros:— deixam de poder emitir o documento previsto no n.º 1, último travessão, do artigo 10.º da Directiva 74/150/CEE a um modelo de tractor se este não satisfizer os requisitos da Directiva 74/152/CEE, com a redacção alterada pela presente directiva, — podem recusar a homologação de âmbito nacional de um modelo de tractor se este não satisfizer os requisitos da Directiva 74/152/CEE, alterada pela presente directiva.». |  |  |"
+  },
+  "51562a4ed0708807": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\n| Directiva 74/152/CEE | Directiva 98/89/CE | Presente directiva |\n| --- | --- | --- |\n| Artigo 1.º |  | Artigo 1.º |\n|  | Artigo 2.º | Artigo 2.º |\n| Artigos 3.º a 5.º |  | Artigos 3.º a 5.º |\n| Artigo 6.º, n.º 1 |  | — |\n| Artigo 6.º, n.º 2 |  | Artigo 6.º |\n| — |  | Artigo 7.º |\n| — |  | Artigo 8.º |\n| Artigo 7.º |  | Artigo 9.º |\n| Anexo |  | Anexo I |\n| — |  | Anexo II |\n| — |  | Anexo III |\n\n---"
+  },
+  "cd479015f4ee7458": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/9fd47a81-e64c-49d9-beb3-51e3045c09c5.0019.03/DOC_1#src.E0001)) JO C 161 de 13.7.2007, p. 37.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/9fd47a81-e64c-49d9-beb3-51e3045c09c5.0019.03/DOC_1#src.E0002)) Parecer do Parlamento Europeu de 19 de Junho de 2007 (JO C 146 E de 12.6.2008, p. 74) e decisão do Conselho de 22 de Junho de 2009.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/9fd47a81-e64c-49d9-beb3-51e3045c09c5.0019.03/DOC_1#src.E0003)) JO L 84 de 28.3.1974, p. 33.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/9fd47a81-e64c-49d9-beb3-51e3045c09c5.0019.03/DOC_1#src.E0004)) Ver anexo II, parte A.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/9fd47a81-e64c-49d9-beb3-51e3045c09c5.0019.03/DOC_1#src.E0005)) JO L 171 de 9.7.2003, p. 1."
+  },
+  "895d993151a88892": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2009L0060 — PT — 01.01.2016 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32009L0060) [DIRECTIVA 2009/60/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32009L0060) [de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009L0060) [relativa à velocidade máxima, por construção, e às plataformas de carga dos tractores agrícolas ou florestais de rodas](http://publications.europa.eu/resource/celex/32009L0060) [(versão codificada)](http://publications.europa.eu/resource/celex/32009L0060) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32009L0060) (JO L 198, 30.7.2009, p.15)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 167/2013 do Parlamento Europeu e do Conselho de 5 de fevereiro de 2013](http://publications.europa.eu/resource/celex/32013R0167) — L 60 — 1 — 2.3.2013"
+  }
+ }
+}

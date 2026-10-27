@@ -1,0 +1,769 @@
+---
+schema_version: '1.0'
+id: eu:celex:31993L0103:por
+title: Directiva 93/103/CE do Conselho, de 23 de Novembro de 1993
+short_title: null
+summary: Directiva 93/103/CE do Conselho, de 23 de Novembro de 1993, relativa às prescrições mínimas de segurança e de saúde
+  no trabalho a bordo dos navios de pesca (13a directiva especial na acepção do nº 1 do artigo 16º da Directiva 89/391/CEE)
+jurisdiction: european_union
+territory: null
+document_type: directive
+document_type_label: Diretiva
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 1993/103
+official_date: null
+publication_date: '1993-12-13'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 307 de 13.12.1993
+  number: '307'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/9e60440b-449b-4151-9601-30bafdc5cfac.0009.02/DOC_1
+entry_into_force_dates:
+- '1994-01-02'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2007-06-27'
+version_history:
+  file: diretiva-ue-1993-103.versoes.json
+  count: 2
+  source_lastmod: '2007-06-27'
+  versions:
+  - date: '1993-12-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-06-27'
+    amending: eu:celex:32007L0030:por
+    amending_title: DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de
+      Junho de 2007
+    changes:
+    - Altera preambulo
+    - Altera ANEXO III
+    - Adita Artigo 1.º — Objecto
+    - Adita Artigo 2.º — Definições
+    - Adita Artigo 3.º — Disposições gerais
+    - Adita Artigo 4.º — Navios de pesca novos
+    - Adita Artigo 5.º — Navios de pesca existentes
+    - Adita Artigo 6.º — Reparações, transformações e modificações de grande envergadura
+    - Adita Artigo 7.º — Equipamentos e manutenção
+    - Adita Artigo 8.º — Informação dos trabalhadores
+    - Adita Artigo 9.º — Formação dos trabalhadores
+    - Adita Artigo 10.º — Formação aprofundada das pessoas susceptíveis de comandar um navio
+    - Adita Artigo 11.º — Consulta e participação dos trabalhadores
+    - Adita Artigo 12.º — Adaptação dos anexos
+    - Adita Artigo 13.º — Disposições finais
+    - Adita Artigo 14.º
+    - Adita ANEXO I
+    - Adita PRESCRIÇÕES MÍNIMAS DE SEGURANÇA E DE SAÚDE PARA OS NAVIOS DE PESCA NOVOS
+    - Adita [artigos 4.º e 6.º e n.º 1, alínea a), do artigo 7.º]
+    - Adita Observação preliminar
+    - Adita 1. Navegabilidade e estabilidade
+    - Adita 2. Instalação mecânica e eléctrica
+    - Adita 3. Equipamento de radiocomunicação
+    - Adita 4. Vias e saídas de emergência
+    - Adita 5. Detecção e combate a incêndios
+    - Adita 6. Ventilação das zonas de trabalho fechadas
+    - Adita 7. Temperatura ambiente
+    - Adita 8. Iluminação natural e artificial das zonas de trabalho
+    - Adita 9. Pavimentos, divisórias e tectos
+    - Adita 10. Portas
+    - Adita 11. Vias de circulação — zonas de perigo
+    - Adita 12. Concepção das zonas de trabalho.
+    - Adita 13. Zonas de alojamento
+    - Adita 14. Instalações sanitárias
+    - Adita 15. Primeiros socorros
+    - Adita 16. Escadas e pranchas de embarque
+    - Adita 17. Ruído
+    - Adita ANEXO II
+    - Adita PRESCRIÇÕES MÍNIMAS DE SEGURANÇA E DE SAÚDE PARA OS NAVIOS DE PESCA EXISTENTES
+    - Adita [artigo 5.º e n.º 1, alínea a), do artigo 7.º]
+identifiers:
+  celex: 31993L0103
+  eli: http://data.europa.eu/eli/dir/1993/103/oj
+  oj: oj:JOL_1993_307_R_0001_004
+  dre: null
+  dre_path: null
+  internal: eu:celex:31993L0103:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A31993L0103
+  metadata_url: http://publications.europa.eu/resource/cellar/9e60440b-449b-4151-9601-30bafdc5cfac.0009
+  content_url: http://publications.europa.eu/resource/cellar/1d7f8c3f-c669-4624-a40e-7ffd7c1581f1.0018.03/DOC_1
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0103-20070627
+  retrieved_at: '2026-10-22T14:42:18Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-11-25T11:48:00.454+01:00'
+integrity:
+  source_sha256: 3d36d63807913059265c2dd615adcacaeb8e82fe01136c5cebce2c75e6388552
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:42:18Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1993-103.versoes.json.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- embarcação de pesca
+- equipamento de proteção
+- formação em serviço
+- harmonização das normas
+- informação dos trabalhadores
+- prevenção de acidentes
+- saúde e higiene no trabalho
+- tripulação
+relationships:
+- type: amended_by
+  target: celex:32007L0030
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e51a0237-5e67-4021-b7d8-1dc1d89d5cdc
+  date: '2007-06-27'
+- type: based_on
+  target: celex:11992E118A
+  label: null
+  source: http://publications.europa.eu/resource/cellar/cf6c7e44-b9fd-4d1f-9a21-b3e7b48b000b
+  date: '1992-08-31'
+- type: cited_by
+  target: pt:dre:385205:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:571052:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:67283028:por
+  label: null
+  source: null
+- type: cites
+  target: celex:31988Y0203(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/fdfe27f6-de65-41ad-8bbb-f409c500fa82
+- type: cites
+  target: celex:31989L0391
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3c966801-b944-46d2-9034-b8c9e37b86c3
+- type: cites
+  target: celex:31989L0656
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e3fa58c1-6199-479b-89fc-ce27ac7ee5b7
+- type: cites
+  target: celex:31992L0029
+  label: null
+  source: http://publications.europa.eu/resource/cellar/902b2a1d-a441-478b-990d-868c804b1b7a
+- type: cites
+  target: celex:51987IP0310
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7545ec42-f77d-449e-a6c9-31404f662409
+- type: transposed_by
+  target: pt:dre:145102351:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:150570706:por
+  label: null
+  source: null
+article_structure:
+  article_count: 14
+  section_count: 50
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T14:42:18Z'
+  warnings: []
+  errors: []
+---
+
+# Directiva 93/103/CE do Conselho, de 23 de Novembro de 1993
+
+de 23 de Novembro de 1993
+
+relativa às prescrições mínimas de segurança e de saúde no trabalho a bordo dos navios de pesca (13.ª directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE)
+
+O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 118.ºA,
+
+Tendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/1d7f8c3f-c669-4624-a40e-7ffd7c1581f1.0018.03/DOC_1#E0001)), apresentada após consulta ao Comité Consultivo para a Segurança, Higiene e Protecção da Saúde no Local de Trabalho,
+
+Em cooperação com o Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/1d7f8c3f-c669-4624-a40e-7ffd7c1581f1.0018.03/DOC_1#E0002)),
+
+Tendo em conta o Parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/1d7f8c3f-c669-4624-a40e-7ffd7c1581f1.0018.03/DOC_1#E0003)),
+
+Considerando que, na sua resolução de 21 de Dezembro de 1987 relativa à segurança, higiene e saúde no local de trabalho ([^4^](http://publications.europa.eu/resource/cellar/1d7f8c3f-c669-4624-a40e-7ffd7c1581f1.0018.03/DOC_1#E0004)), o Conselho tomou nota da intenção da Comissão de lhe apresentar prescrições mínimas relativas à organização da segurança e da saúde dos trabalhadores no local de trabalho;
+
+Considerando que, no contexto das diversas medidas comunitárias relativas ao sector da pesca, é necessário adoptar medidas em matéria de segurança e saúde no trabalho;
+
+Considerando que a observância das prescrições mínimas destinadas a garantir um melhor nível de segurança e de saúde a bordo dos navios de pesca constitui um imperativo para assegurar a segurança e a saúde dos trabalhadores em questão;
+
+Considerando que as condições específicas e particularmente difíceis do trabalho e da vida a bordo dos navios de pesca fazem com que a frequência dos acidentes mortais que se verificam nas profissões da pesca marítima seja muito elevada;
+
+Considerando que, em 15 de Abril de 1988, o Parlamento Europeu adoptou uma resolução na qual reconhece a importância da prevenção em matéria de segurança no trabalho a bordo dos navios de pesca;
+
+Considerando que, por razões de segurança e saúde dos trabalhadores, deve ser atribuída importância à localização dos navios de pesca em caso de emergência, nomeadamente por intermédio das novas tecnologias;
+
+Considerando que a presente directiva é uma directiva especial, na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE do Conselho, de 12 de Junho de 1989, relativa à aplicação de medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho ([^5^](http://publications.europa.eu/resource/cellar/1d7f8c3f-c669-4624-a40e-7ffd7c1581f1.0018.03/DOC_1#E0005)); que, por esse facto, as disposições da referida directiva se aplicam plenamento ao trabalho a bordo dos navios de pesca, sem prejuízo de disposições mais restritivas e/ou específicas contidas na presente directiva;
+
+Considerando que as directivas especiais já adoptadas no domínio da segurança e da saúde no trabalho se aplicam à pesca marítima, salvo disposição em contrário; que urge portanto especificar as características próprias desta actividade, a fim de optimizar a aplicação dessas directivas especiais;
+
+Considerando que a Directiva 92/29/CEE do Conselho, de 31 de Março de 1992, relativa às prescrições mínimas de segurança e de saúde para promover uma melhor assistência médica a bordo dos navios ([^6^](http://publications.europa.eu/resource/cellar/1d7f8c3f-c669-4624-a40e-7ffd7c1581f1.0018.03/DOC_1#E0006)), se aplica plenamente ao sector da pesca marítima;
+
+Considerando que a presente directiva constitui um elemento concreto no âmbito da realização da dimensão social do mercado interno,
+
+ADOPTOU A PRESENTE DIRECTIVA:
+
+###### Artigo 1.º — Objecto
+
+1. A presente directiva, que constitui a 13.º directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE, estabelece prescrições mínimas de segurança e de saúde no trabalho a bordo dos navios de pesca definidos no artigo 2.º
+
+2. As disposições da Directiva 89/391/CEE aplicam-se plenamente à globalidade do domínio referido no n.º 1, sem prejuízo de disposições mais restritivas e/ou específicas contidas na presente directiva.
+
+###### Artigo 2.º — Definições
+
+Para efeitos da presente directiva, entende-se por:
+
+a) *Navio de pesca*: todo e qualquer navio que arvore pavilhão de um Estado-membro ou esteja registado sob a plena jurisdição de um Estado-membro e utilizado para fins comerciais para a captura, ou para a captura e processamento, de peixe ou de outros recursos vivos do mar;
+
+b) *Navio de pesca novo*: todo e qualquer navio de pesca cuja comprimento entre perpendiculares seja superior ou igual a 15 metros e que, à data ou após a data prevista no primeiro parágrafo do n.º 1 do artigo 13.º:
+
+i) Tenha sido objecto de um contrato de construção ou de transformação importante; ou
+
+ii) Caso o contrato de construção ou de transformação importante tenha sido celebrado antes da data prevista no primeiro parágrafo do n.º 1 do artigo 13.º, seja entregue três anos ou mais após essa data; ou
+
+iii) Na ausência de um contrato de construção:
+
+— tenha sido objecto de assentamento da quilha, ou
+
+— tenha sido iniciada uma construção identificável como um navio específico, ou
+
+— tenha sido iniciada uma operação de montagem que implique, pelo menos, 50 toneladas do material total previsto para a sua estrutura ou 1 % desse total, caso este último valor seja inferior ao primeiro;
+
+c) *Navio de pesca existente*: todo e qualquer navio de pesca cuja comprimento entre perpendiculares seja superior ou igual a 18 metros e que não seja um navio de pesca novo;
+
+d) *Navio*: todo e qualquer navio de pesca novo ou existente;
+
+e) *Trabalhador*: toda e qualquer pessoa que exerça uma actividade profissional a bordo de um navio, bem como os estagiários e os aprendizes, com exclusão dos pilotos da barra e do pessoal de terra que proceda a trabalhos a bordo de um navio amarrado;
+
+f) *Armador*: o proprietário registado de um navio, salvo se o navio tiver sido fretado casco nu ou for gerido, total ou parcialmente, por uma pessoa singular ou colectiva que não seja o proprietário registado, nos termos de um acordo de gestão; sendo assim, considera-se armador, consoante o caso, o fretador do navio casco nu ou a pessoa singular ou colectiva que assegura a gestão do navio;
+
+g) *Comandante*: o trabalhador que comanda ou é responsável pelo navio, de acordo com as legislações e/ou práticas nacionais.
+
+###### Artigo 3.º — Disposições gerais
+
+1. Os Estados-membros tomarão as medidas necessárias para que:
+
+a) Os armadores se certifiquem de que os seus navios são utilizados sem pôr em causa a segurança e a saúde dos trabalhadores, nomeadamente em condições meteorológicas previsíveis, sem prejuízo da responsabilidade do comandante;
+
+b) Na aplicação do n.º 4 do artigo 8.º da Directiva 89/391/CEE sejam tidos em conta os riscos que eventualmente corram os restantes trabalhadores;
+
+c) Os incidentes marítimos que tenham ou possam ter repercussões na saúde e na segurança dos trabalhadores a bordo sejam objecto de um relatório circunstanciado a enviar à autoridade competente designada para o efeito e sejam cuidadosa e minuciosamente registados no livro de bordo, caso este seja exigido para o tipo de navio em questão pela legislação ou regulamentação nacional em vigor, ou, na falta de livro de bordo, num documento exigido para o efeito.
+
+2. Os Estados-membros tomarão as medidas necessárias para que os navios sejam objecto, no que se refere ao cumprimento da presente directiva, de controlos periódicos por parte de autoridades expressamente investidas dessa missão.
+
+Determinados controlos relativos ao cumprimento da presente directiva poderão ser efectuados no mar.
+
+###### Artigo 4.º — Navios de pesca novos
+
+Os navios de pesca novos devem obedecer às prescrições mínimas de segurança e de saúde constantes do anexo I, o mais tardar até à data de entrada em vigor prevista no primeiro parágrafo do n.º 1 do artigo 13.º
+
+###### Artigo 5.º — Navios de pesca existentes
+
+Os navios de pesca existentes devem obedecer às prescrições mínimas de segurança e de saúde constantes do anexo II, no prazo máximo de sete anos seguintes à data prevista no primeiro parágrafo do n.º 1 do artigo 13.º
+
+###### Artigo 6.º — Reparações, transformações e modificações de grande envergadura
+
+A partir da data prevista no primeiro parágrafo do n.º 1 do artigo 13.º, sempre que um navio seja submetido a reparações, transformações e modificações de grande envergadura, estas devem ser conformes com as prescrições mínimas correspondentes, constantes do anexo I.
+
+###### Artigo 7.º — Equipamentos e manutenção
+
+1. A fim de preservar a segurança e a saúde dos trabalhadores, os Estados-membros tomarão as medidas necessárias para que o armador, sem prejuízo da responsabilidade do comandante:
+
+a) Assegure a manutenção técnica dos navios, equipamentos e dispositivos nomeadamente os previstos nos anexos I e II, e a eliminação, o mais rapidamente possível, dos defeitos detectados que sejam susceptíveis de afectar a segurança e a saúde dos trabalhadores;
+
+b) Tome medidas destinadas a assegurar a limpeza regular dos navios e dos respectivos equipamentos e dispositivos para que sejam mantidas condições de higiene adequadas;
+
+c) Mantenha a bordo do navio meios de salvamento e de sobrevivência apropriados, em bom estado de funcionamento e em quantidade suficiente;
+
+d) Tenha em conta as prescrições mínimas de segurança e de saúde relativas aos meios de salvamento constantes do anexo III;
+
+e) Sem prejuízo do disposto na Directiva 89/656/CEE do Conselho, de 30 de Novembro de 1989, relativa às prescrições mínimas de segurança e de saúde para a utilização pelos trabalhadores de equipamentos de protecção individual no trabalho (terceira directiva especial, na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE) ([^7^](http://publications.europa.eu/resource/cellar/1d7f8c3f-c669-4624-a40e-7ffd7c1581f1.0018.03/DOC_1#E0007)), tenha em conta as especificações em matéria de equipamentos de protecção individual constantes do anexo IV da presente directiva.
+
+2. A fim de preservar a segurança e a saúde dos trabalhadores, os Estados-membros tomarão as medidas necessárias para que o armador forneça ao comandante os meios de que necessite para cumprir as obrigações que lhe são impostas pela presente directiva.
+
+###### Artigo 8.º — Informação dos trabalhadores
+
+1. Sem prejuízo do disposto no artigo 10.º da Directiva 89/391/CEE, os trabalhadores e/ou os seus representantes serão informados de todas as medidas a tomar em matéria de segurança e de saúde a bordo dos navios.
+
+2. As informações deverão ser compreensíveis por parte dos trabalhadores a quem digam respeito.
+
+###### Artigo 9.º — Formação dos trabalhadores
+
+1. Sem prejuízo do disposto no artigo 12.º da Directiva 89/391/CEE, os trabalhadores devem receber uma formação adequada, nomeadamente instruções precisas e compreensíveis, no que diz respeito à segurança e à saúde a bordo dos navios, e em especial à prevenção de acidentes.
+
+2. A formação a que se refere o n.º 1 deve incidir em especial no combate a incêndios, na utilização dos meios de salvamento e de sobrevivência e, em relação aos trabalhadores implicados, na utilização das artes de pesca e dos equipamentos de tracção, bem como nos diversos métodos de sinalização, nomeadamente gestuais.
+
+Essa formação será objecto das actualizações que se tonem necessárias por força de modificações das actividades a bordo.
+
+###### Artigo 10.º — Formação aprofundada das pessoas susceptíveis de comandar um navio
+
+Sem prejuízo do disposto no n.º 3 do artigo 5.º da Directiva 92/29/CEE, as pessoas susceptíveis de comandar um navio devem receber uma formação aprofundada em matéria de:
+
+a) Prevenção das doenças e dos acidentes de trabalho a bordo e das medidas a tomar em caso de acidente;
+
+b) Estabilidade do navio e manutenção desta em todas as condições previsíveis de carga e durante as operações de pesca;
+
+c) Navegação e comunicações via rádio, incluindo os respectivos métodos.
+
+###### Artigo 11.º — Consulta e participação dos trabalhadores
+
+A consulta e participação dos trabalhadores e/ou dos seus representantes obedecerão ao disposto no artigo 11.º da Directiva 89/391/CEE no que se refere às matérias abrangidas pela presente directiva, incluindo os seus anexos.
+
+###### Artigo 12.º — Adaptação dos anexos
+
+As adaptações de natureza estritamente técnica dos anexos em função:
+
+— da adopção de directivas em matéria de harmonização técnica e de normalização respeitantes a determinados aspectos no domínio da segurança e da saúde a bordo dos navios
+
+— e/ou
+
+— do progresso técnico, da evolução das regulamentações ou especificações internacionais e dos conheci mentos no domínio da segurança e da saúde a bordo dos navios
+
+serão adoptadas de acordo com o procedimento previsto no artigo 17.º da Directiva 89/391/CEE.
+
+###### Artigo 13.º — Disposições finais
+
+1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar até 23 de Novembro de 1995. Do facto informarão imediatamente a Comissão.
+
+Quando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.
+
+2. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno já adoptadas ou que venham a adoptar no domínio regido pela presente directiva.
+
+###### Artigo 14.º
+
+Os Estados-membros são os destinatários da presente directiva.
+
+## ANEXO I
+
+### PRESCRIÇÕES MÍNIMAS DE SEGURANÇA E DE SAÚDE PARA OS NAVIOS DE PESCA NOVOS
+
+### [artigos 4.º e 6.º e n.º 1, alínea a), do artigo 7.º]
+
+### Observação preliminar
+
+As obrigações previstas no presente anexo são aplicáveis a bordo dos navios de pesca novos, sempre que as características do local de trabalho ou da actividade, as circunstâncias ou os riscos o exijam.
+
+### 1. Navegabilidade e estabilidade
+
+1.1. O navio deve ser mantido em boas condições de navegabilidade e dotado de equipamento adequado que corresponda ao serviço a que se destina e à sua utilização.
+
+1.2. As informações sobre as condições de estabilidade do navio devem estar disponíveis a bordo e ser acessíveis ao pessoal de quarto.
+
+1.3. O navio deve ter e conservar uma estabilidade intacta e suficiente para as condições de serviço previstas.
+
+### 2. Instalação mecânica e eléctrica
+
+2.1. A instalação eléctrica deve ser concebida e realizada de forma a não comportar riscos e a garantir:
+
+— a protecção da tripulação e do navio contra os riscos associados à electricidade,
+
+— o bom funcionamento, sem recurso a uma fonte de energia eléctrica de emergência de todos os equipamentos necessários para manter o navio em condições normais de operacionalidade e habitabilidade,
+
+— o funcionamento, nas diversas situações de emergência, dos aparelhos eléctricos essenciais à segurança.
+
+2.2. Deve existir uma fonte de energia eléctrica de emergência.
+
+— do sistema de comunicação interna, dos sistemas de detecção de incêndio e dos sinais necessários em caso de emergência,
+
+— dos faróis de navegação e da iluminação de emergência,
+
+— do sistema de radiocomunicação,
+
+— da bomba eléctrica de incêndio de emergência, caso exista.
+
+2.3. Os quadros eléctricos devem estar claramente sinalizados; as caixas de fusíveis e os alvéolos devem ser verificados periodicamente para assegurar que os fusíveis utilizados têm a amperagem adequada.
+
+2.4. Os compartimentos de armazenagem das baterias eléctricas devem ser correctamente ventilados.
+
+2.5. O equipamento de apoio electrónico à navegação tem de ser testado frequentemente e mantido em bom estado de funcionamento.
+
+2.6. Todos os aparelhos de elevação utilizados devem ser testados e examinados regularmente.
+
+2.7. Todos os aparelhos de tracção ou de elevação e outros do mesmo tipo devem ser mantidos em bom estado de funcionamento.
+
+2.8. Quando existirem a bordo instalações de refrigeração e sistemas de ar comprimido, é necessário mantê-los em bom estado e examiná-los periodicamente.
+
+2.9. Os aparelhos de cozinha ou de uso doméstico a gás só devem ser utilizados em locais bem ventilados, sendo necessário tomar disposições para evitar acumulações perigosas de gás.
+
+### 3. Equipamento de radiocomunicação
+
+O equipamento de radiocomunicação deve permitir entrar em contacto a qualquer momento com pelo menos uma estação costeira ou terrestre costeira, tendo em conta as condições normais de propagação das ondas radioeléctricas.
+
+### 4. Vias e saídas de emergência
+
+4.1. As vias e saídas que podem ser utilizadas como vias e saídas de emergência devem estar sempre desimpedidas e ser facilmente acessíveis, conduzindo o mais directamente possível ao convés ou a uma zona de segurança e daí a uma embarcação de sobrevivência, de modo a que os trabalhadores possam evacuar as zonas de trabalho ou de alojamento rapidamente e com toda a segurança.
+
+4.2. O número, a distribuição e as dimensões das vias e saídas que podem ser utilizadas como vias e saídas de emergência devem estar adaptadas à utilização, ao equipamento e às dimensões das zonas de trabalho e alojamento, bem como ao número máximo de pessoas que possam encontar-se nesses locais.
+
+4.3. A estanquicidade das portas de emergência e de outras saídas de emergência às intempéries ou à água deve estar adaptada à respectiva localização e função específica.
+
+4.4. As vias e saídas de emergência devem ser sinalizadas de acordo com as disposições nacionais de transposição da Directiva 92/58/CEE ([^8^](http://publications.europa.eu/resource/cellar/1d7f8c3f-c669-4624-a40e-7ffd7c1581f1.0018.03/DOC_1#E0008)).
+
+4.5. As vias, os meios de evacuação e as saídas de emergência que necessitem de iluminação devem estar, equipados com uma iluminação de emergência de intensidade adequada, para o caso de avaria do sistema de iluminação.
+
+### 5. Detecção e combate a incêndios
+
+5.1. Consoante as dimensões e a utilização do navio, os equipamentos nele existentes, as propriedades físicas e químicas das substâncias nele presentes e o número máximo de pessoas que nele possam encontrar-se, as zonas de alojamento, as zonas de trabalho fechadas, incluindo a casa das máquinas, e se necessário, o porão do peixe, devem ser apetrechados com equipamento apropriado de combate a incêndios e, na medida do necessário, com detectores de incêndio e sistemas de alarme.
+
+5.2. O equipamento de combate a incêndios deve ser permanentemente conservado no local reservado para o efeito e mantido em bom estado de funcionamento e de disponibilidade para uso imediato.
+
+5.3. Os dispositivos de accionamento manual para combate a incêndios devem ser de fácil acesso e manejo, devendo ser sinalizados de acordo com as disposições nacionais de transposição da Directiva 92/58/CEE.
+
+5.4. Os sistemas de detecção e de alarme contra incêndios devem ser testados periodicamente e mantidos em boas condições.
+
+5.5. Devem-se efectuar periodicamente exercícios de combate a incêndios.
+
+### 6. Ventilação das zonas de trabalho fechadas
+
+Nas zonas de trabalho fechadas, deve ser garantida uma quantidade suficiente de ar puro, atendendo aos métodos de trabalho aplicados e aos condicionalismos físicos impostos aos trabalhadores.
+
+Se for utilizada uma instalação de ventilação mecânica, esta deve ser mantida em bom estado de funcionamento.
+
+### 7. Temperatura ambiente
+
+7.1. Durante o tempo de trabalho, a temperatura nas zonas de trabalho deve ser adequada ao organismo humano, tendo em conta os métodos de trabalho aplicados e os condicionalismos físicos impostos aos trabalhadores e as condições meteorológicas verificadas ou susceptíveis de se verificar na região em que o navio opera.
+
+7.2. A temperatura nas zonas de alojamento, nas instalações sanitárias, nas cantinas e nas instalações destinadas a primeiros socorros, caso existam, deve estar de acordo com os fins específicos desses locais.
+
+### 8. Iluminação natural e artificial das zonas de trabalho
+
+8.1. Na medida do possível, as zonas de trabalho devem dispor de luz natural suficiente e estar equipadas com dispositivos que permitam uma iluminação artificial adequada às circunstâncias da pesca, sem pôr em perigo a segurança e a saúde dos trabalhadores e a navegação de outros navios.
+
+8.2. Os dispositivos de iluminação dos locais de trabalho, das escadas e dos corredores devem ser colocados de modo a que o tipo de iluminação previsto não represente qualquer risco de acidente para os trabalhadores, nem qualquer entrave à navegação do navio.
+
+8.3. As zonas de trabalho em que os trabalhadores estejam particularmente expostos a riscos em caso dê avaria da iluminação artificial devem possuir uma iluminação de emergência de intensidade suficiente.
+
+8.4. A iluminação de emergências deve ser testada periodicamente e mantida em boas condições de funcionamento.
+
+### 9. Pavimentos, divisórias e tectos
+
+9.1. As zonas a que os trabalhadores tenham acesso devem ser não escorregadias ou antiderrapantes ou estar providas de dispositivos antiqueda e, na medida do possível, devem-se encontrar livres de obstáculos.
+
+9.2. Os espaços onde estejam instalados postos de trabalho devem apresentar um isolamento acústico e térmico suficiente, atendendo ao tipo de tarefas neles executadas e à actividade física dos trabalhadores.
+
+9.3. As superfícies dos pavimentos, das divisórias e dos tectos devem ser concebidas de forma a poder ser limpas ou refeitas, a fim de se obterem condições de higiene adequadas.
+
+### 10. Portas
+
+10.1. As portas devem poder ser abertas do interior sem qualquer dispositivo especial.
+
+10.2. As portas, e em especial as portas de correr, sempre que a sua existência não possa ser evitada, devem funcionar de forma a garantir aos trabalhadores a máxima segurança possível, especialmente em condições climáticas e de mar adversas.
+
+### 11. Vias de circulação — zonas de perigo
+
+11.1. Os corredores, os troncos, a parte exterior dos rufos e, de um modo geral, todas as vias de circulação devem estar equipados com guarda-corpos, corrimãos, cabos vaivém ou outros meios que garantam a segurança dos trabalhadores nas suas actividades a bordo.
+
+11.2. Se houver risco de que os trabalhadores caiam pelas escotilhas do convés ou de um convés para o outro, deve existir protecção apropriada, em todos os locais onde tal for possível.
+
+11.3. Os acessos a locais situados acima do convés, destinados a permitir a utilização ou a manutenção das instalações, devem ser concebidos de maneira a garantir a segurança dos trabalhadores.
+
+11.4. As bordas falsas e demais dispositivos de protecção de quedas ao mar devem ser mantidos em boas condições.
+
+11.5. Nos arrastões de popa com rampa, a parte superior desta deve estar equipada com uma porta ou com qualquer outro meio que permita impedir o acesso, da mesma altura das bordas falsas ou outros meios adjacentes, a fim de proteger os trabalhadores do risco de caírem na rampa.
+
+### 12. Concepção das zonas de trabalho.
+
+12.1. Na medida do possível, as zonas de trabalho devem permanecer livres, estar protegidas do mar e fornecer uma protecção adequada aos trabalhadores contra as quedas a bordo ou ao mar.
+
+12.2. Sempre que o comando das máquinas seja feito a partir da casa das máquinas, deve ser efectuado num local separado, isolado acústica e termicamente da casa das máquinas e com acesso independente.
+
+12.3. Os comandos dos aparelhos de tracção devem ser instalados numa área suficientemente espaçosa para permitir aos operadores trabalharem sem impedimentos.
+
+12.4. O operador dos comandos dos aparelhos de tracção deve ter uma visão adequada dos referidos aparelhos c dos trabalhadores em serviço.
+
+12.5. Deve ser utilizado um sistema de comunicação fiável entre a ponte e o convés de trabalho.
+
+12.6. As operações de pesca e demais tarefas executadas nos convés devem ser efectuadas sob máxima vigilância, devendo proceder-se a uma alerta à tripulação sempre que se verificar perigo iminente de forte ondulação.
+
+12.7. O percurso a nu dos cabos ou correntes e das peças móveis dos aparelhos deve ser reduzido ao mínimo, mediante a aplicação de dispositivos de protecção.
+
+12.8. Devem ser instalados dispositivos de controlo para a movimentação de massas e, especialmente nos arrastões:
+
+— dispositivos para bloquear os moitões das portas de arrasto,
+
+— dispositivos para controlar os movimentos pendulares do saco da rede.
+
+### 13. Zonas de alojamento
+
+13.1. A localização, a estrutura, o isolamento acústico e térmico e a disposição das zonas de alojamento dos trabalhadores e das zonas de serviço, caso existam, bem como os seus acessos, devem poder assegurar uma protecção adequada contra o mar e as intempéries, as vibrações, o ruído e os cheiros provenientes de outras zonas susceptíveis de perturbarem os trabalhadores durante o período de descanso.
+
+13.2. As zonas de alojamento dos trabalhadores devem ser convenientemente ventiladas para garantir um fluxo constante de ar puro e impedir a condensação.
+
+— iluminação geral normal de intensidade adequada,
+
+— iluminação geral de intensidade reduzida para não perturbar os trabalhadores que estão a descansar,
+
+— iluminação individual em todos os beliches.
+
+13.3. A cozinha e o refeitório, caso existam, devem ter dimensões, iluminação e ventilação adequadas e serem fáceis de limpar.
+
+### 14. Instalações sanitárias
+
+14.1. Nos navios em que haja uma zona de alojamento, devem ser instalados chuveiros com água corrente quente e fria, lavatórios e retretes, convenientemente equipados e instalados e os respectivos locais devem ser bem ventilados.
+
+14.2. Cada trabalhador deve dispor de um local onde possa guardar o seu vestuário.
+
+### 15. Primeiros socorros
+
+Todos os navios devem estar apetrechados com material de primeiros socorros conforme com as exigências do anexo II da Directiva 92/29/CEE.
+
+### 16. Escadas e pranchas de embarque
+
+O navio deve dispor de uma escada de portaló, de uma prancha de embarque ou de outro dispositivo semelhante que permita um acesso a bordo apropriado e seguro.
+
+### 17. Ruído
+
+Devem ser tomadas todas as medidas técnicas adequadas para que o nível sonoro nas zonas de trabalho e de alojamento seja reduzido tanto quanto possível, tendo em conta as dimensões do navio.
+
+## ANEXO II
+
+### PRESCRIÇÕES MÍNIMAS DE SEGURANÇA E DE SAÚDE PARA OS NAVIOS DE PESCA EXISTENTES
+
+### [artigo 5.º e n.º 1, alínea a), do artigo 7.º]
+
+### Observação preliminar
+
+As obrigações previstas no presente anexo são aplicáveis na medida em que as características estruturais do navio de pesca existente o tornem praticável, sempre que as características do local de trabalho ou da actividade, as circunstâncias ou os riscos o exijam a bordo do navio de pesca existente.
+
+### 1. Navegabilidade e estabilidade
+
+1.1. O navio deve ser mantido em boas condições de navegabilidade e dotado de equipamento adequado que corresponda ao serviço a que se destina e à sua utilização.
+
+1.2. As informações sobre as condições de estabilidade do navio devem ser acessíveis ao pessoal de quarto quando estiverem disponíveis a bordo.
+
+1.3. O navio deve ter e conservar uma estabilidade suficiente, em estado intacto, para as condições de serviço previstas.
+
+### 2. Instalação mecância e eléctrica
+
+2.1. A instalação eléctrica deve ser concebida e realizada de forma a não comportar riscos e a garantir:
+
+— a protecção da tripulação e do navio contra os riscos associados à electricidade,
+
+— o bom funcionamento, sem recurso a uma fonte de energia eléctrica de emergência de todos os equipamentos necessários para manter o navio em condições normais de operacionalidade e habitabilidade,
+
+— o funcionamento, nas diversas situações de emergência, dos aparelhos eléctricos essenciais à segurança.
+
+2.2. Deve existir uma fonte de energia eléctrica de emergência.
+
+— do sistema de comunicação interna, dos sistemas de detecção de incêndio e dos sinais necessários em caso de emergência,
+
+— dos faróis de navegação e da iluminação de emergência,
+
+— do sistema de radiocomunicação,
+
+— da bomba eléctrica de incêndio de emergência, caso exista.
+
+2.3. Os quadros eléctricos devem estar claramente sinalizados; as caixas de fusíveis e os alvéolos devem ser verificados periodicamente para assegurar que os fusíveis utilizados têm a amperagem adequada.
+
+2.4. Os compartimentos de armazenagem das baterias eléctricas devem ser correctamente ventilados.
+
+2.5. O equipamento de apoio electrónico à navegação tem de ser testado frequentemente e mantido em bom estado de funcionamento.
+
+2.6. Todos os aparelhos de elevação utilizados devem ser testados e examinados regularmente.
+
+2.7. Todos os aparelhos de tracção ou de elevação e outros do mesmo tipo devem ser mantidos em bom estado de funcionamento.
+
+2.8. Quando existirem a bordo instalações de refrigeração e sistemas de ar comprimido, é necessário mantê-los em bom estado e examiná-los periodicamente.
+
+2.9. Os aparelhos de cozinha ou de uso. doméstico a gás pesado só devem ser utilizados em locais bem ventilados, sendo necessário tomar disposições para evitar acumulações perigosas de gás.
+
+### 3. Equipamento de radiocomunicação
+
+O equipamento de radiocomunicação deve permitir entrar em contacto a qualquer momento com pelo menos uma estação costeira ou terrestre costeira, tendo em conta as condições normais de propagação das ondas radioeléctricas.
+
+### 4. Vias e saídas de emergência
+
+4.1. As vias e saídas que podem ser utilizadas como vias e saídas de emergência devem estar sempre desimpedidas c ser facilmente acessíveis, conduzindo o mais directamente possível ao convés ou a uma zona de segurança e daí a uma embarcação de salvamento, de modo a que os trabalhadores possam evacuar as zonas de trabalho ou de alojamento rapidamente e com toda a segurança.
+
+4.2. O número, a distribuição e as dimensões das vias e saídas que podem ser utilizadas como vias e saídas de emergência devem estar adaptadas à utilização, ao equipamento e às dimensões das zonas de trabalho e alojamento, bem como ao número máximo de pessoas que possam encontrar-se nesses locais.
+
+4.3. As vias e saídas de emergência devem ser sinalizadas de acordo com as disposições nacionais que transpõem a Directiva 92/58/CEE ([^9^](http://publications.europa.eu/resource/cellar/1d7f8c3f-c669-4624-a40e-7ffd7c1581f1.0018.03/DOC_1#E0009)).
+
+4.4. As vias, os meios de evacuação e as saídas de emergência que necessitem de iluminação devem estar equipados com uma iluminação de emergência de intensidade suficiente, para o caso de avaria do sistema de iluminação.
+
+### 5. Detecção e combate a incêndios
+
+5.1. Consoante as dimensões e a utilização do navio, os equipamentos nele existentes, as propriedades físicas e químicas das substâncias nele presentes e o número máximo de pessoas que nele possam encontrar-se, as zonas de alojamento, as zonas de trabalho fechadas, incluindo a casa das máquinas e, se necessário, o porão do peixe, devem ser apetrechados com equipamento apropriado de combate a incêndios e, na medida do necessário, com detectores de incêndio e sistemas de alarme.
+
+5.2. O equipamento de combate a incêndios deve ser permanentemente conservado no local reservado para o efeito e mantido em bom estado de funcionamento e de disponibilidade para uso imediato.
+
+5.3. Os dispositivos de accionamento manual para combate a incêndios devem ser de fácil acesso e manejo, devendo ser sinalizados de acordo com as disposições nacionais que transpõem a Directiva 92/58/CEE.
+
+5.4. Os sistemas de detecção e de alarme contra incêndios devem ser testados periodicamente e mantidos em boas condições.
+
+5.5. Devem se efectuar periodicamente exercícios de combate a incêndios.
+
+### 6. Ventilação das zonas de trabalho fechadas
+
+Nas zonas de trabalho fechadas, deve ser garantida uma quantidade suficiente de ar puro, atendendo aos métodos de trabalho aplicados e aos condicionalismos físicos impostos aos trabalhadores.
+
+Se for utilizada uma instalação de ventilação mecância, esta deve ser mantida em bom estado de funcionamento.
+
+### 7. Temperatura ambiente
+
+7.1. Durante o tempo de trabalho, a temperatura nas zonas de trabalho deve ser adequada ao organismo humano, tendo em conta os métodos de trabalho aplicados e os condicionalismos físicos impostos aos trabalhadores e as condições meteorológicas verificadas ou susceptíveis de se verificar na região em que o navio opera.
+
+7.2. A temperatura nas zonas de alojamento, nas instalações sanitárias, nas cantinas e nas instalações destinadas a primeiros socorros, caso existam, deve estar de acordo com os fins específicos desses locais.
+
+### 8. Iluminação natural e artificial das zonas de trabalho
+
+8.1. Na medida do possível, as zonas de trabalho devem dispor de luz natural suficiente e estar equipadas com dispositivos que permitam uma iluminação artificial adequada às circunstâncias da pesca, sem pôr em perigo a segurança e a saúde dos trabalhadores e a navegação de outros navios.
+
+8.2. Os dispositivos de iluminação dos locais de trabalho, das escadas e dos corredores devem ser colocados de modo a que o tipo de iluminação previsto não represente qualquer risco de acidente para os trabalhadores, nem qualquer entrave à navegação do navio.
+
+8.3. As zonas de trabalho em que os trabalhadores estejam particularmente expostos a riscos em caso de avaria da iluminação artificial devem possuir uma iluminação de emergência de intensidade suficiente.
+
+8.4. A iluminação de emergência deve ser testada periodicamente e mantida em boas condições de funcionamento.
+
+### 9. Pavimentos, divisórias e tectos
+
+9.1. As zonas a que os trabalhadores tenham acesso devem ser não escorregadias ou antiderrapantes ou estar providas de dispositivos antiqueda, e, na medida do possível, devem-se encontrar livres de obstáculos.
+
+9.2. Os espaços onde estejam instalados postos de trabalho devem apresentar, na medida do possível um isolamento acústico e térmico suficiente, atendendo ao tipo de tarefas neles executadas e à actividade física dos trabalhadores.
+
+9.3. As superfícies dos pavimentos, das divisórias e dos tectos devem ser concebidas de forma a poderem ser limpas ou refeitas, a fim de se obterem condições de higiene adequadas.
+
+### 10. Portas
+
+10.1. As portas devem poder ser abertas do interior sem qualquer dispositivo especial.
+
+10.2. As portas, e em especial as portas de correr, sempre que a sua existência não possa ser evitada, devem funcionar de fornia a garantir aos trabalhadores a máxima segurança possível, especialmente em condições climáticas e de mar adversas.
+
+### 11. Vias de circulação — zonas de perigo
+
+11.1. Os corredores, os troncos, a parte exterior dos rufos e, de um modo geral, todas as vias de circulação devem estar equipados com guarda-corpos, corrimãos, cabos vaivém ou outros meios que garantam a segurança dos trabalhadores nas suas actividades a bordo.
+
+11.2. Se houver risco de que os trabalhadores caiam pelas escotilhas do convés ou de um convés para o outro, deve existir protecção apropriada, em todos os locais onde tal for possível.
+
+11.3. Os acessos a locais situados acima do convés, destinados a permitir a utilização ou a manutenção das instalações, devem ser concebidos de maneira a garantir a segurança dos trabalhadores.
+
+11.4. As bordas falsas e demais dispositivos de protecção de quedas ao mar devem ser mantidos em boas condições.
+
+11.5. Nos arrastões de popa com rampa, a parte superior desta deve estar equipada com uma porta ou com qualquer outro meio que permita impedir o acesso, da mesma altura das bordas falsas ou outros meios adjacentes, a fim de proteger os trabalhadores do risco de caírem na rampa.
+
+### 12. Concepção das zonas de trabalho
+
+12.1. Na medida do possível, as zonas de trabalho devem permanecer livres, estar protegidas do mar e fornecer uma protecção adequada aos trabalhadores contra as quedas a bordo ou ao mar.
+
+12.2. Sempre que o comando das máquinas seja feito a partir da casa das máquinas, deve ser efectuado num local separado, isolado acústica e termicamente da casa das máquinas e com acesso independente.
+
+12.3. Os comandos dos aparelhos de tracção devem ser instalados numa área suficientemente espaçosa para permitir aos operadores trabalharem sem impedimentos.
+
+12.4. O operador dos comandos dos aparelhos de tracção deve ter uma visão adequada dos referidos aparelhos e dos trabalhadores em serviço.
+
+12.5. Deve ser utilizado um sistema de comunicação fiável entre a ponte e o convés de trabalho.
+
+12.6. As operações de pesca c demais tarefas executadas nos convés devem ser efectuadas sob vigilância constante, devendo proceder-se a um alerta à tripulação sempre que se verificar perigo iminente de forte ondulação.
+
+12.7. O percurso a nu dos cabos ou correntes e das peças móveis dos aparelhos deve ser reduzido ao mínimo, mediante a aplicação de dispositivos de protecção.
+
+12.8. Devem ser instalados dispositivos de controlo para a movimentação de massas e, especialmente nos arrastões:
+
+— dispositivos para bloquear os moitões das portas de arrasto,
+
+— dispositivos para controlar os movimentos pendulares do saco da rede.
+
+### 13. Zonas de alojamento
+
+13.1. As zonas de alojamento dos trabalhadores, caso existam, devem ser equipadas de forma a que o ruído, as vibrações, os efeitos dos movimentos e das acelerações e os cheiros provenientes de outras zonas sejam minimizados.
+
+13.2. A cozinha e o refeitório, caso existam, devem ter dimensões, iluminação e ventilação adequadas e ser fáceis de limpar.
+
+### 14. Instalações sanitárias
+
+Nos navios em que haja uma zona de alojamento, deve-se prever a instalação de retretes, lavatórios e, se possível, de um chuveiro, e os respectivos locais devem ser bem ventilados.
+
+### 15. Primeiros socorros
+
+Todos os navios devem estar apetrechados com material de primeiros socorros, de acordo com os requisitos do anexo II da Directiva 92/29/CEE.
+
+### 16. Escadas e pranchas de embarque.
+
+O navio deve dispor de uma escada de portaló, de uma prancha de embarque ou de outro dispositivo equivalente que proporcione um acesso a bordo apropriado e seguro.
+
+## ANEXO III
+
+### PRESCRIÇÕES DE HIGIENE E SEGURANÇA MÍNIMAS RESPEITANTES AO MATERIAL DE SALVAMENTO E DE SOBREVIVÊNCIA
+
+### [n.º 1, alínea d), do artigo 7.º]
+
+### Observação preliminar
+
+As obrigações previstas no presente anexo são aplicáveis a bordo dos navios de pesca sempre que as características do local de trabalho ou da actividade, as circunstâncias ou os riscos o exijam.
+
+1. Os navios de pesca devem dispor de meios adequados de salvamento e de sobrevivência, incluindo meios que permitam retirar os trabalhadores da água e de meios de salvamento via rádio, nomeadamente de uma radiobaliza de localização de sinistros equipada com um dispositivo de escape hidrostático, tendo em conta o número de pessoas a bordo e a zona em que o navio exerce a sua actividade.
+
+2. Todos os meios de salvamento e de sobrevivência devem ficar guardados no local destinado para o efeito, ser mantidos em bom estado de funcionamento e estar sempre prontos a utilizar.
+
+3. O material de salvamento e de sobrevivência deve ser inspeccionado regularmente.
+
+4. Devem ser dadas a todos os trabalhadores uma formação e instruções adequadas, na perspectiva de qualquer situação de emergência.
+
+5. Se o comprimento do navio for superior a 45 metros, ou se o número de tripulantes for de cinco ou mais trabalhadores, o navio deverá dispor de um manual com instruções claras a seguir por cada trabalhador em caso de emergência.
+
+6. Efectuar-se-ão mensalmente, no porto e/ou no mar, exercícios de salvamento.
+
+## ANEXO IV
+
+### PRESCRIÇÕES MÍNIMAS DE SEGURANÇA E DE SAÚDE RELATIVAS AOS EQUIPAMENTOS DE PROTECÇÃO INDIVIDUAL
+
+### [n.º 1, alínea d), do artigo 7.º]
+
+### Observação preliminar
+
+As obrigações previstas no presente anexo são aplicáveis a bordo dos navios de pesca sempre que as características do local de trabalho ou da actividade, as circunstâncias ou os riscos o exijam.
+
+1. Caso não seja possível, através de meios técnicos de protecção colectiva, eliminar ou limitar suficiente mente os riscos para a segurança e a saúde dos trabalhadores, estes devem dispor de equipamentos de protecção individual.
+
+2. Os equipamentos de protecção individual utilizados como vestuário ou por cima de uma peça de vestuário devem ser de cores vivas que contrastem bem com o meio marinho e sejam bem visíveis.
+
+---
+
+## Notas
+
+> ([^1^](http://publications.europa.eu/resource/cellar/1d7f8c3f-c669-4624-a40e-7ffd7c1581f1.0018.03/DOC_1#src.E0001)) JO n.º C 337 de 31.12.1991, p. 21; JO n.º C 311 de 27.11.1992, p. 21.
+
+> ([^2^](http://publications.europa.eu/resource/cellar/1d7f8c3f-c669-4624-a40e-7ffd7c1581f1.0018.03/DOC_1#src.E0002)) JO n.º C 241 de 21.9.1992, p. 106 e decisão de 27 de Outubro de 1993 (ainda não publicada no Jornal Oficial).
+
+> ([^3^](http://publications.europa.eu/resource/cellar/1d7f8c3f-c669-4624-a40e-7ffd7c1581f1.0018.03/DOC_1#src.E0003)) JO n.º C 169 de 6.7.1992, p. 46.
+
+> ([^4^](http://publications.europa.eu/resource/cellar/1d7f8c3f-c669-4624-a40e-7ffd7c1581f1.0018.03/DOC_1#src.E0004)) JO n.º C 28 de 3.2.1988, p. 1.
+
+> ([^5^](http://publications.europa.eu/resource/cellar/1d7f8c3f-c669-4624-a40e-7ffd7c1581f1.0018.03/DOC_1#src.E0005)) JO n.º L 183 de 29.6.1989, p. 1.
+
+> ([^6^](http://publications.europa.eu/resource/cellar/1d7f8c3f-c669-4624-a40e-7ffd7c1581f1.0018.03/DOC_1#src.E0006)) JO n.º L 113 de 30.4.1992, p. 19.
+
+> ([^7^](http://publications.europa.eu/resource/cellar/1d7f8c3f-c669-4624-a40e-7ffd7c1581f1.0018.03/DOC_1#src.E0007)) JO n.º L 393 de 30.12.1989, p. 18.
+
+> ([^8^](http://publications.europa.eu/resource/cellar/1d7f8c3f-c669-4624-a40e-7ffd7c1581f1.0018.03/DOC_1#src.E0008)) JO n.º L 245 de 26.8.1992, p. 23.
+
+> ([^9^](http://publications.europa.eu/resource/cellar/1d7f8c3f-c669-4624-a40e-7ffd7c1581f1.0018.03/DOC_1#src.E0009)) JO n.º L 245 de 26.8.1992, p. 23.

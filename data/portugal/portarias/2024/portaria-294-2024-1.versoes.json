@@ -1,0 +1,340 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:896834904:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-910584175",
+ "dre_path": "/dr/detalhe/portaria/294-2024-896834904",
+ "source_lastmod": "2025-03-12",
+ "versions": [
+  {
+   "date": "2024-11-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "910329935",
+    "910329936",
+    "910329937",
+    "910329938",
+    "910329939",
+    "910329940",
+    "910329941",
+    "910329942",
+    "910329943",
+    "910329944",
+    "910329945"
+   ]
+  },
+  {
+   "date": "2025-03-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:910517151:por",
+     "title": "Portaria n.º 94-A/2025/1",
+     "published": "2025-03-11",
+     "dre_path": "/dr/detalhe/portaria/94-a-2025-910517151"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "910329935",
+    "910329936",
+    "910329937",
+    "910329938",
+    "910329939",
+    "910329946",
+    "910329947",
+    "910584380",
+    "910584381",
+    "910329950",
+    "910329951",
+    "910329940",
+    "910329941",
+    "910329942",
+    "910584382",
+    "910329944",
+    "910584383",
+    "910329952",
+    "910584398",
+    "910584399",
+    "910329955",
+    "910584400",
+    "910584401",
+    "910329958",
+    "910329959",
+    "910584402",
+    "910329961",
+    "910584403"
+   ]
+  }
+ ],
+ "fragments": {
+  "910329935": {
+   "fragment_id": "910584176",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 294/2024/1\n\nde 18 de novembro\n\nOs incêndios rurais que deflagraram entre os dias 15 a 19 de setembro deste ano nas regiões Norte e Centro do país, levaram o XXIV Governo Constitucional a adotar um conjunto de medidas de apoio, entre as quais se incluíram as medidas de apoio extraordinárias à atividade florestal tendo, para o efeito, sido publicado o Decreto-Lei n.º 59-A/2024, de 27 de setembro.\n\nOs apoios extraordinários que ora se concedem visam mitigar os impactos dos incêndios, garantindo a substituição e reparação de máquinas, equipamentos e infraestruturas florestais essenciais para a subsistência e sustentabilidade do setor, assim como, proceder à recuperação de habitats, de sinalização e de infraestruturas nas zonas de caça afetadas pelos incêndios, essenciais para a preservação dos ecossistemas cinegéticos e a segurança das atividades, com o objetivo de restaurar rapidamente as condições de trabalho, promover a produtividade e evitar o abandono das atividades florestais, contribuindo para a revitalização económica das áreas afetadas e a resiliência do setor, promovendo uma gestão florestal sustentável e a proteção do património florestal a longo prazo.\n\nTais apoios são cruciais para restaurar o equilíbrio ecológico e proteger a fauna, evitando a perda de biodiversidade e o impacto económico nas atividades ligadas à caça.\n\nCom a atribuição destes apoios, pretende-se, igualmente, contribuir para a revitalização das comunidades rurais, promovendo a sustentabilidade das zonas de caça, e para a continuidade das tradições cinegéticas.\n\nA presente portaria operacionaliza os mencionados apoios, define as respetivas condições e os termos em que são concedidos.\n\nAssim:\n\nAo abrigo do disposto nos n.<sup>os</sup> 2 e 3 do artigo 21.º do Decreto-Lei n.º 59-A/2024, de 27 de setembro, manda o Governo, pelo Ministro Adjunto e da Coesão Territorial e pelo Ministro da Agricultura e Pescas, o seguinte:"
+  },
+  "910329936": {
+   "fragment_id": "910584177",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria regulamenta os seguintes apoios:\n\na) Apoio extraordinário para a substituição ou reparação de máquinas e equipamentos florestais, armazéns e outras construções de apoio à atividade florestal afetada pelos incêndios;\n\nb) Apoio extraordinário às entidades gestoras de zonas de caça que foram diretamente afetadas pelos incêndios, para assegurar a realização de ações de recuperação de habitat, recuperação da sinalização ardida e de infraestruturas afetadas diretamente relacionadas com a gestão das zonas de caça."
+  },
+  "910329937": {
+   "fragment_id": "910584178",
+   "type": 11,
+   "heading": "Artigo 2.º — Apoio extraordinário para a substituição ou reparação de máquinas e equipamentos florestais, armazéns e outras construções de apoio à atividade florestal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Apoio extraordinário para a substituição ou reparação de máquinas e equipamentos florestais, armazéns e outras construções de apoio à atividade florestal\n\nA regulamentação do apoio identificado na alínea a) do artigo 1.º é publicada no anexo i à presente portaria, da qual faz parte integrante."
+  },
+  "910329938": {
+   "fragment_id": "910584179",
+   "type": 11,
+   "heading": "Artigo 3.º — Apoio extraordinário às entidades gestoras de zonas de caça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Apoio extraordinário às entidades gestoras de zonas de caça\n\nA regulamentação do apoio identificado na alínea b) do artigo 1.º é publicada no anexo ii à presente portaria, da qual faz parte integrante."
+  },
+  "910329939": {
+   "fragment_id": "910584180",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "910329940": {
+   "fragment_id": "910584181",
+   "type": 11,
+   "heading": "Artigo 5.º — Forma e nível dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Forma e nível dos apoios\n\n1 - O apoio é concedido sob a forma de subvenção não reembolsável, repartindo-se os níveis de apoio às operações pelos seguintes escalões:\n\na) 100 % da despesa elegível até 75 000 €;\n\nb) 85 % da despesa elegível superior a 75 000 € e até 150 000 €;\n\nc) 50 % da despesa elegível superior a 150 000 € e até 225 000 €.\n\n2 - Para efeitos do número anterior, é deduzido ao valor dos apoios o montante das indemnizações dos seguros recebidas para cobrir total ou parcialmente os danos causados."
+  },
+  "910329941": {
+   "fragment_id": "910584182",
+   "type": 11,
+   "heading": "Artigo 6.º — Dotação orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Dotação orçamental\n\n1 - A dotação orçamental do presente apoio é de 5 000 000,00 €, podendo ser reforçada, caso se revele necessário, mediante despacho conjunto dos membros do Governo responsáveis pelas áreas governativas das finanças, da coesão territorial e da agricultura.\n\n2 - O presente apoio é suportado pelo Orçamento de Estado."
+  },
+  "910329942": {
+   "fragment_id": "910584183",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de elegibilidade da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade da candidatura\n\n1 - São elegíveis as tipologias de intervenção efetuadas após a data da ocorrência dos incêndios que deflagraram entre os dias 15 e 19 de setembro de 2024, nos territórios identificados na Resolução do Conselho de Ministros n.º 130-A/2024, de 27 de setembro, não podendo estas encontrarem-se concluídas antes da sua submissão.\n\n2 - As tipologias de intervenção elegíveis referidas no número anterior estão dependentes da verificação e confirmação, pela Comissão de Coordenação e Desenvolvimento Regional, I. P. (CCDR, I. P.) territorialmente competente, dos prejuízos declarados.\n\n3 - Caso haja lugar ao pagamento de indemnizações para cobrir, total ou parcialmente, os danos causados pela ocorrência dos incêndios, são deduzidos ao valor dos apoios.\n\n4 - Os apoios atribuídos no âmbito do Decreto-Lei n.º 59-A/2024, de 27 de setembro não são cumuláveis com outros apoios públicos de idêntica natureza e fim."
+  },
+  "910329943": {
+   "fragment_id": "910584184",
+   "type": 11,
+   "heading": "Artigo 8.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apresentação de candidaturas\n\n1 - As candidaturas são formalizadas mediante preenchimento de formulário eletrónico disponível no portal das CCDR, I. P., territorialmente competentes, até 30 de dezembro de 2024.\n\n2 - Os requerentes só podem apresentar uma candidatura, não sendo os apoios a conceder cumuláveis com quaisquer outros apoios a conceder ao abrigo do artigo 21.º do Decreto-Lei n.º 59-A/2024, de 27 de setembro."
+  },
+  "910329944": {
+   "fragment_id": "910584185",
+   "type": 11,
+   "heading": "Artigo 9.º — Análise de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Análise de candidaturas\n\n1 - As CCDR, I. P., territorialmente competentes analisam e validam as candidaturas, em articulação com as Autarquias Locais, até 30 dias úteis após a apresentação da candidatura.\n\n2 - O pedido de elementos adicionais necessários para análise da candidatura pela CCDR, I. P., territorialmente competente faz suspender o prazo de análise da candidatura até à apresentação dos elementos em falta pelo beneficiário."
+  },
+  "910329945": {
+   "fragment_id": "910584186",
+   "type": 11,
+   "heading": "Artigo 10.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pagamento\n\nO pagamento do apoio ocorrerá até 30 dias após a validação da candidatura e é realizado pela CCDR territorialmente competente."
+  },
+  "910329946": {
+   "fragment_id": "910584187",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 8 de novembro de 2024.\n\nO Ministro Adjunto e da Coesão Territorial, Manuel Castro Almeida. - O Ministro da Agricultura e Pescas, José Manuel Fernandes."
+  },
+  "910329947": {
+   "fragment_id": "910584188",
+   "type": 14,
+   "heading": "Anexo I — Apoio extraordinário para a substituição ou reparação de máquinas e equipamentos florestais, armazéns e outras construções de apoio à atividade florestal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Apoio extraordinário para a substituição ou reparação de máquinas e equipamentos florestais, armazéns e outras construções de apoio à atividade florestal"
+  },
+  "910584380": {
+   "fragment_id": "910584189",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2025-03-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94-A/2025/1 - Diário da República n.º 49/2025, Suplemento, Série I de 2025-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/94-a-2025-910517151), em vigor a partir de 2025-03-12, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ criado o apoio extraordinário para a substituição ou reparação de máquinas e equipamentos florestais, armazéns e outras construções de apoio à atividade florestal que se destina a fazer face aos prejuízos decorrentes dos incêndios que deflagraram entre os dias 15 e 19 de setembro de 2024, nos territórios identificados na Resolução do Conselho de Ministros n.º 130-A/2024, de 27 de setembro, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94-A/2025/1 - Diário da República n.º 49/2025, Suplemento, Série I de 2025-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/94-a-2025-910517151), em vigor a partir de 2025-03-12, produz efeitos a partir de 2025-01-01"
+  },
+  "910584381": {
+   "fragment_id": "910584190",
+   "type": 11,
+   "heading": "Artigo 2.º — Tipologias de intervenção elegíveis",
+   "in_force_from": "2025-03-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94-A/2025/1 - Diário da República n.º 49/2025, Suplemento, Série I de 2025-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/94-a-2025-910517151), em vigor a partir de 2025-03-12, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Tipologias de intervenção elegíveis\n\nÉ concedido um apoio extraordinário à reposição da atividade florestal, sendo o apoio concedido às seguintes tipologias de intervenção:\n\na) Equipamentos associados ao abate, rechega, extração, concentração, triagem e transporte de material lenhoso, incluindo biomassa florestal e resina;\n\nb) Primeira transformação de madeira, nomeadamente, biomassa florestal e resina.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94-A/2025/1 - Diário da República n.º 49/2025, Suplemento, Série I de 2025-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/94-a-2025-910517151), em vigor a partir de 2025-03-12, produz efeitos a partir de 2025-01-01"
+  },
+  "910329950": {
+   "fragment_id": "910584191",
+   "type": 11,
+   "heading": "Artigo 3.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Beneficiários\n\nPodem beneficiar dos apoios referidos no artigo anterior as pessoas singulares ou coletivas, de natureza pública ou privada que tenham sido diretamente afetadas pelos incêndios que deflagraram nos territórios identificados na Resolução do Conselho de Ministros n.º 130-A/2024, de 27 de setembro."
+  },
+  "910329951": {
+   "fragment_id": "910584192",
+   "type": 11,
+   "heading": "Artigo 4.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Critérios de elegibilidade dos beneficiários\n\nOs candidatos aos apoios, devem, à data da candidatura, ter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social e, no âmbito dos financiamentos dos fundos nacionais e dos fundos europeus, salvo se o incumprimento decorrer diretamente dos danos provocados pelos incêndios."
+  },
+  "910584382": {
+   "fragment_id": "910584184",
+   "type": 11,
+   "heading": "Artigo 8.º — Apresentação de candidaturas",
+   "in_force_from": "2025-03-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94-A/2025/1 - Diário da República n.º 49/2025, Suplemento, Série I de 2025-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/94-a-2025-910517151), em vigor a partir de 2025-03-12, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Apresentação de candidaturas\n\n1 - As candidaturas são formalizadas mediante preenchimento de formulário eletrónico disponível no portal das CCDR, I. P., territorialmente competentes, até 31 de março de 2025.\n\n2 - Os requerentes só podem apresentar uma candidatura, não sendo os apoios a conceder cumuláveis com quaisquer outros apoios a conceder ao abrigo do artigo 21.º do Decreto-Lei n.º 59-A/2024, de 27 de setembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94-A/2025/1 - Diário da República n.º 49/2025, Suplemento, Série I de 2025-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/94-a-2025-910517151), em vigor a partir de 2025-03-12, produz efeitos a partir de 2025-01-01"
+  },
+  "910584383": {
+   "fragment_id": "910584186",
+   "type": 11,
+   "heading": "Artigo 10.º — Pagamento",
+   "in_force_from": "2025-03-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94-A/2025/1 - Diário da República n.º 49/2025, Suplemento, Série I de 2025-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/94-a-2025-910517151), em vigor a partir de 2025-03-12, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Pagamento\n\n1 - O pagamento do apoio ocorrerá até 30 dias após a validação da candidatura e é realizado pela CCDR, I. P., territorialmente competente.\n\n2 - A CCDR, I. P., territorialmente competente poderá, a qualquer momento, durante a execução das intervenções ou após a sua conclusão, efetuar ações que visem avaliar a correta aplicação do apoio concedido.\n\n3 - O incumprimento, pelo beneficiário, no prazo de 12 meses após a concessão do apoio, da aplicação dos montantes atribuídos na(s) tipologia(s) de intervenção aprovada(s) em sede de candidatura determina a devolução dos apoios indevidamente recebidos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94-A/2025/1 - Diário da República n.º 49/2025, Suplemento, Série I de 2025-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/94-a-2025-910517151), em vigor a partir de 2025-03-12, produz efeitos a partir de 2025-01-01"
+  },
+  "910329952": {
+   "fragment_id": "910584193",
+   "type": 14,
+   "heading": "Anexo II — Apoio extraordinário às entidades gestoras de zonas de caça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Apoio extraordinário às entidades gestoras de zonas de caça"
+  },
+  "910584398": {
+   "fragment_id": "910584194",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2025-03-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 94-A/2025/1 - Diário da República n.º 49/2025, Suplemento, Série I de 2025-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/94-a-2025-910517151), em vigor a partir de 2025-03-12, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ criado o apoio extraordinário às entidades gestoras de zonas de caça afetadas pelos incêndios que deflagraram entre os dias 15 e 19 de setembro do corrente ano, nos territórios identificados na Resolução do Conselho de Ministros n.º 130-A/2024, de 27 de setembro, na sua redação atual.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 94-A/2025/1 - Diário da República n.º 49/2025, Suplemento, Série I de 2025-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/94-a-2025-910517151), em vigor a partir de 2025-03-12, produz efeitos a partir de 2025-01-01"
+  },
+  "910584399": {
+   "fragment_id": "910584195",
+   "type": 11,
+   "heading": "Artigo 2.º — Tipologias de intervenção elegíveis",
+   "in_force_from": "2025-03-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 94-A/2025/1 - Diário da República n.º 49/2025, Suplemento, Série I de 2025-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/94-a-2025-910517151), em vigor a partir de 2025-03-12, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Tipologias de intervenção elegíveis\n\n1 - O apoio extraordinário é destinado à realização das ações necessárias à recuperação de habitats, da sinalização ardida e de infraestruturas afetadas que se encontrem diretamente relacionadas com a gestão das zonas de caça.\n\n2 - Para efeitos do presente apoio, consideram-se elegíveis as seguintes tipologias de intervenção:\n\na) Obrigatórias:\n\ni) Instalação de campos de alimentação;\n\nii) Instalação de sebes multifuncionais;\n\nb) Facultativas:\n\ni) Instalação de comedouros;\n\nii) Instalação de bebedouros;\n\niii) Instalação de morouços;\n\niv) Limpeza de pontos de água;\n\nv) Instalação de cercas de contenção de caça maior instaladas com objetivos sanitários de prevenção de prejuízos agrícolas e ou florestais;\n\nvi) Repovoamentos com espécies cinegéticas de caça menor;\n\nvii) Reposição de sinalização das zonas de caça;\n\nviii) Reposição de infraestruturas de apoio a atividade cinegética.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 94-A/2025/1 - Diário da República n.º 49/2025, Suplemento, Série I de 2025-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/94-a-2025-910517151), em vigor a partir de 2025-03-12, produz efeitos a partir de 2025-01-01"
+  },
+  "910329955": {
+   "fragment_id": "910584196",
+   "type": 11,
+   "heading": "Artigo 3.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Beneficiários\n\nSão beneficiários dos apoios as entidades gestoras de zonas de caça, e que a seguir se elencam:\n\na) Entidades gestoras de Zonas de Caça Associativa (ZCA);\n\nb) Entidades gestoras de Zona de Caça Municipal (ZCM);\n\nc) Entidades gestoras de Zona de Caça Turística (ZCT)."
+  },
+  "910584400": {
+   "fragment_id": "910584197",
+   "type": 11,
+   "heading": "Artigo 4.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": "2025-03-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 94-A/2025/1 - Diário da República n.º 49/2025, Suplemento, Série I de 2025-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/94-a-2025-910517151), em vigor a partir de 2025-03-12, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Critérios de elegibilidade dos beneficiários\n\nPara efeito de elegibilidade no âmbito do presente regime de apoio, o beneficiário deve obedecer aos seguintes requisitos:\n\na) Possuir, ou poder assegurar, os meios técnicos e os recursos humanos e financeiros necessários ao desenvolvimento das tipologias de intervenção a que se candidatam;\n\nb) Afetar os recursos humanos adequados, nomeadamente com competência técnica e experiência, necessárias à realização das intervenções;\n\nc) Ter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social e no âmbito dos financiamentos dos fundos nacionais e dos fundos europeus, salvo se o incumprimento decorrer diretamente dos danos provocados pelos incêndios;\n\nd) Não estar abrangido por quaisquer disposições de exclusão da candidatura resultantes de incumprimento de obrigações decorrentes de quaisquer outros projetos financiados;\n\ne) Estar legalmente constituído e registado junto do Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.).\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 94-A/2025/1 - Diário da República n.º 49/2025, Suplemento, Série I de 2025-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/94-a-2025-910517151), em vigor a partir de 2025-03-12, produz efeitos a partir de 2025-01-01"
+  },
+  "910584401": {
+   "fragment_id": "910584198",
+   "type": 11,
+   "heading": "Artigo 5.º — Critérios de elegibilidade da candidatura",
+   "in_force_from": "2025-03-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 94-A/2025/1 - Diário da República n.º 49/2025, Suplemento, Série I de 2025-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/94-a-2025-910517151), em vigor a partir de 2025-03-12, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Critérios de elegibilidade da candidatura\n\nPara efeito de elegibilidade da candidatura no âmbito do presente regime de apoio, o beneficiário deve cumprir com as seguintes obrigações:\n\na) Apresentar comprovativo do pagamento da taxa anual de caça referente ao ano de 2023, quando se trate de entidades beneficiárias previstas nas alíneas a) e c) do artigo 3.º do presente despacho;\n\nb) Enviar prova de comunicação ao ICNF, I. P., dos resultados anuais de exploração da época venatória (2022/2023);\n\nc) Realizar, pelo menos, uma das tipologias de intervenção de caráter obrigatório, constantes na alínea a) do n.º 2 do artigo 2.º, podendo ainda ser realizadas, facultativamente, outras tipologias de intervenção, de acordo com a informação constante na alínea b) do n.º 2 do artigo 2.º, devendo indicar no respetivo formulário de candidatura, para além da tipologia de intervenção, a respetiva quantificação;\n\nd) Declarar, sob compromisso de honra, que cumpre com as obrigações previstas no artigo 19.º e/ou no n.º 1 do artigo 42.º do Decreto-Lei n.º 202/2004, de 18 de agosto, na sua atual redação;\n\ne) As intervenções não se encontrarem concluídas à data da submissão da candidatura.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 94-A/2025/1 - Diário da República n.º 49/2025, Suplemento, Série I de 2025-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/94-a-2025-910517151), em vigor a partir de 2025-03-12, produz efeitos a partir de 2025-01-01"
+  },
+  "910329958": {
+   "fragment_id": "910584199",
+   "type": 11,
+   "heading": "Artigo 6.º — Forma e nível dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Forma e nível dos apoios\n\n1 - O apoio é concedido sob a forma de subvenção não reembolsável, no valor de 3 € por hectare, até ao montante máximo de 25 000 € por zona de caça.\n\n2 - O presente apoio é suportado pelo Orçamento de Estado."
+  },
+  "910329959": {
+   "fragment_id": "910584200",
+   "type": 11,
+   "heading": "Artigo 7.º — Dotação orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Dotação orçamental\n\nA dotação orçamental do presente apoio é de 350 000 €, podendo ser reforçada, caso se revele necessário, mediante despacho conjunto dos membros do Governo responsáveis pelas áreas governativas das finanças, da coesão territorial e da agricultura."
+  },
+  "910584402": {
+   "fragment_id": "910584201",
+   "type": 11,
+   "heading": "Artigo 8.º — Apresentação das candidaturas",
+   "in_force_from": "2025-03-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 94-A/2025/1 - Diário da República n.º 49/2025, Suplemento, Série I de 2025-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/94-a-2025-910517151), em vigor a partir de 2025-03-12, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Apresentação das candidaturas\n\n1 - As candidaturas são formalizadas mediante preenchimento de formulário eletrónico disponível no portal das comissões de coordenação e desenvolvimento regional, I. P. (CCDR, I. P.), territorialmente competentes, até 31 de março de 2025.\n\n2 - Os requerentes só podem apresentar uma candidatura, não sendo os apoios a conceder cumuláveis com quaisquer outros apoios a conceder ao abrigo do artigo 21.º do Decreto-Lei n.º 59-A/2024, de 27 de setembro.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 94-A/2025/1 - Diário da República n.º 49/2025, Suplemento, Série I de 2025-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/94-a-2025-910517151), em vigor a partir de 2025-03-12, produz efeitos a partir de 2025-01-01"
+  },
+  "910329961": {
+   "fragment_id": "910584202",
+   "type": 11,
+   "heading": "Artigo 9.º — Análise das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Análise das candidaturas\n\n1 - As CCDR, I. P., territorialmente competentes analisam e validam as candidaturas, em articulação com as Autarquias Locais, até 30 dias úteis após a apresentação da candidatura.\n\n2 - O pedido de elementos adicionais necessários para análise da candidatura pela CCDR, I. P., territorialmente competente faz suspender o prazo de análise da candidatura até à apresentação dos elementos em falta pelo beneficiário."
+  },
+  "910584403": {
+   "fragment_id": "910584204",
+   "type": 11,
+   "heading": "Artigo 10.º — Pagamento",
+   "in_force_from": "2025-03-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 94-A/2025/1 - Diário da República n.º 49/2025, Suplemento, Série I de 2025-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/94-a-2025-910517151), em vigor a partir de 2025-03-12, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Pagamento\n\n1 - O pagamento do apoio ocorrerá até 30 dias após a validação da candidatura e é realizado pela CCDR, I. P., territorialmente competente.\n\n2 - As CCDR, I. P., territorialmente competentes poderão, a qualquer momento, durante a execução das intervenções ou após a sua conclusão, efetuar ações que visem avaliar a correta aplicação do apoio concedido.\n\n3 - O incumprimento, pelo beneficiário, no prazo de seis meses após a concessão do apoio, da aplicação dos montantes atribuídos na(s) tipologia(s) de intervenção aprovada(s) em sede de candidatura determina a devolução dos apoios indevidamente recebidos.\n\n118349096\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 94-A/2025/1 - Diário da República n.º 49/2025, Suplemento, Série I de 2025-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/94-a-2025-910517151), em vigor a partir de 2025-03-12, produz efeitos a partir de 2025-01-01"
+  }
+ }
+}

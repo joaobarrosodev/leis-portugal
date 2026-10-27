@@ -1,0 +1,851 @@
+---
+schema_version: '1.0'
+id: pt:dre:629170:por
+title: Decreto Legislativo Regional n.º 24/2007/A
+short_title: null
+summary: Estabelece o regime jurídico da actividade apícola e da produção, transformação e comercialização de mel na Região
+  Autónoma dos Açores
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 24/2007/A
+official_date: null
+publication_date: '2007-11-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 214/2007, Série I de 2007-11-07
+  number: '214'
+  series: I
+  supplement: null
+  pages: 8162 - 8168
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/11/21400/0816208168.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-08-18'
+version_history:
+  file: decreto-legislativo-regional-24-2007-a.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2007-11-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-08-18'
+    amending: pt:dre:186307881:por
+    amending_title: Decreto Legislativo Regional n.º 17/2022/A
+    changes:
+    - Adita Artigo 5.º-A
+    - Adita Artigo 15.º-A
+    - Adita Artigo 15.º-B
+    - Adita Artigo 15.º-C
+    - Adita Artigo 15.º-D
+    - Adita Artigo 25.º-A
+    - Adita Anexo IV-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Capítulo IV
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 25.º
+    - Altera Anexo I
+    - Altera Anexo IV
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/24/2007/a/cons/20220719/pt/html
+  oj: null
+  dre: '629170'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/24-2007-629170
+  internal: pt:dre:629170:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2007-629170
+  metadata_url: https://data.dre.pt/eli/declegreg/24/2007/a/cons/20220719/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2007-186307917
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2007-186307917
+  retrieved_at: '2026-10-22T12:51:34Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 0e326a0f22e133112062e89f95767be693aec1bc00e0333f9d6ff8d7a5bf348c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:51:34Z'
+  notes: 2 versão(ões); histórico completo em decreto-legislativo-regional-24-2007-a.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Contra-ordenação
+- Definição de Competências
+- Etiquetagem
+- Fiscalização
+- MEL
+- Produtor
+- Apicultura
+- Regime Jurídico
+- Açores
+- Comércio
+relationships:
+- type: amended_by
+  target: pt:dre:186307881:por
+  label: Adita Artigo 5.º-A; Adita Artigo 15.º-A; Adita Artigo 15.º-B; Adita Artigo 15.º-C; Adita Artigo 15.º-D; Adita Artigo
+    25.º-A; Adita Anexo IV-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º;
+    Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera
+    Artigo 12.º; Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881
+  date: '2022-07-19'
+- type: cites
+  target: celex:32001L0110
+  label: null
+  source: http://data.europa.eu/eli/dir/2001/110/oj
+- type: cites
+  target: celex:32004R0797
+  label: null
+  source: http://data.europa.eu/eli/reg/2004/797/oj
+- type: cites
+  target: celex:32004R0852
+  label: null
+  source: null
+- type: cites
+  target: celex:32004R0917
+  label: null
+  source: http://data.europa.eu/eli/reg/2004/917/oj
+- type: cites
+  target: celex:32006R0510
+  label: null
+  source: http://data.europa.eu/eli/reg/2006/510/oj
+- type: cites
+  target: celex:32011R1169
+  label: null
+  source: null
+- type: cites
+  target: celex:32012R1151
+  label: null
+  source: null
+- type: transposes
+  target: celex:32014L0063
+  label: null
+  source: null
+article_structure:
+  article_count: 32
+  section_count: 16
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:51:34Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 24/2007/A
+
+Decreto Legislativo Regional n.º 24/2007/A
+
+Regime jurídico da actividade apícola e da produção, transformação e comercialização de mel na Região Autónoma dos Açores
+
+A actividade apícola na Região Autónoma dos Açores representa um sector em expansão, cuja importância económica e social tende a assumir um papel crescente no desenvolvimento regional.
+
+Considerando que cada vez mais se impõe a necessidade de diversificação da produção e que, no âmbito deste princípio, a apicultura pode ser uma interessante alternativa na prossecução desse objectivo;
+
+Considerando a necessidade de incentivar a prática desta actividade e, paralelamente, estabelecer um quadro jurídico que regulamente o seu exercício, tendo em conta as especificidades que a caracterizam;
+
+Considerando ainda que a Directiva n.º <a href="eurlex.asp?ano=2001&id=301L0110" title="Link para Directiva da Comunidade Europeia">2001/110/CE</a>, do Conselho, de 20 de Dezembro, estabelece um conjunto de normas referentes à produção, transformação e comercialização do mel, que é importante transpor para a ordem jurídica regional:
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente diploma estabelece o regime jurídico da atividade apícola, as normas sanitárias de defesa contra as doenças das abelhas, bem como as normas a que obedecem a produção, transformação e comercialização de mel na Região Autónoma dos Açores, transpondo para a ordem jurídica regional a Directiva n.º <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02001L0110-20140623">2001/110/CE</a>, do Conselho, de 20 de Dezembro, alterada pela Diretiva n.º 2014/63/UE, do Parlamento Europeu e do Conselho, de 15 de maio.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+###### Artigo 2.º — Definições
+
+1 - Para efeitos do presente diploma entende-se por:
+
+a) «Abelha» qualquer indivíduo de espécie produtora de mel, pertencente ao género Apis sp., designadamente os da espécie Apis mellifera;
+
+b) 'Atividade apícola' a detenção de estabelecimento apícola, com finalidade de obtenção de produtos apícolas, reprodução e multiplicação de enxames, polinização, didática, científica ou outra;
+
+c) «Alimentação artificial» a administração de alimento pelo apicultor, tendo por objectivo reforçar as provisões ou estimular o desenvolvimento da colónia;
+
+d) «Apiário» o conjunto de colónias nas condições adequadas de produção, incluindo o local de assentamento e respectivas infra-estruturas, pertencentes ao mesmo apicultor e que não distem da primeira à última mais de 100 m;
+
+e) «Apiário comum» o local de assentamento de colónias de abelhas, que pertencem a vários apicultores que acordaram nessa partilha, com determinação de parte, e que não distem da primeira à última mais de 100 m;
+
+f) 'Apiário comunitário' o local de assentamento de colónias de abelhas promovido por pessoa coletiva, assumindo esta a responsabilidade por assegurar direitos e deveres, permitindo a terceiros a colocação máxima de 25 colónias;
+
+g) 'Apiário de autoconsumo' o local de assentamento máximo de duas colónias destinadas à polinização de culturas agrícolas ou produção de produtos apícolas, para consumo próprio, estando sujeitos aos direitos e deveres dos demais apiários, com exceção das distâncias entre apiários;
+
+h) 'Apicultor/operador' qualquer pessoa, singular ou coletiva, que detenha animais ou produtos sob a sua responsabilidade, inclusive durante um período limitado;
+
+i) 'Autoridade sanitária regional' a direção regional com competência em matéria de veterinária;
+
+j) 'Bombo' qualquer indivíduo de espécie polinizadora, pertencente ao género Bombus, designadamente os da espécie Bombus terrestris;
+
+k) 'Cera' a substância produzida pelas abelhas através da transformação do mel por elas ingerido com o auxílio de glândulas celígenas, sendo constituída por uma mistura de substâncias de carácter lipídico e, portanto, bastante hidrofóbico;
+
+l) «Colmeia» o suporte físico em que os quadros de sustentação dos favos são amovíveis, que pode ou não albergar uma colónia e a sua produção;
+
+m) «Colónia» o enxame, suporte físico e respectivos materiais biológicos por si produzidos;
+
+n) «Cortiço» o suporte físico, desprovido de quadros para fixação dos favos, sendo estes inamovíveis, que pode ou não albergar uma colónia e a sua produção;
+
+o) «Enxame» a população de abelhas, que corresponde à unidade produtiva, com potencialidade de sobrevivência, produção e reprodução autónomas, em meio natural, sem qualquer suporte físico;
+
+p) 'Exploração apícola/estabelecimento' qualquer tipo de instalação, estrutura, ambiente ou local onde são detidos animais, temporária ou permanentemente;
+
+q) «Mel» a substância açucarada natural produzida pelas abelhas da espécie Apis mellifera a partir do néctar de plantas ou das secreções provenientes de partes vivas de plantas ou de excreções de insectos sugadores de plantas que ficam sobre as partes vivas das plantas, que as abelhas recolhem, transformam por combinação com substâncias específicas próprias, depositam, desidratam, armazenam e deixam amadurecer, em favos da colmeia;
+
+r) «Núcleo» a colmeia de quadros móveis com capacidade superior a três quadros e inferior a seis quadros;
+
+s) «Nucléolo» a colmeia de quadros móveis com capacidade máxima até três quadros, cujo objectivo é a multiplicação de colónias ou a fecundação;
+
+t) 'Pólen apícola' o produto apícola obtido diretamente através do pólen das flores, elemento reprodutivo masculino das flores e responsável pela sua fecundação, que, quando processado com saliva e mel pelas abelhas operárias, transportado nas suas corbículas e antes de ser depositado em favo no interior da colmeia, pode ser recolhido na entrada deste durante curtos períodos primaveris;
+
+u) 'Própolis' a substância resinosa obtida pelas abelhas através da colheita de resinas da flora existente na proximidade da localização da colmeia e alterada pela ação das enzimas contidas na sua saliva;
+
+v) «Quadro» o caixilho que suporta o favo;
+
+w) «Transumância» a metodologia de actividade apícola com recurso a transporte para aproveitamento de produções específicas ou melhores florações;
+
+x) «Zona controlada» a área geográfica reconhecida pela autoridade veterinária regional e que cumpra os requisitos previstos no presente diploma.
+
+2 - Os principais tipos de mel encontram-se definidos no anexo ii ao presente diploma, que dele faz parte integrante.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+### Capítulo II — Da actividade apícola
+
+#### Secção I — Registos
+
+###### Artigo 3.º — Introdução e deslocação de espécies apícolas
+
+1 - A introdução de abelhas e bombos no território da Região Autónoma dos Açores, bem como a deslocação dos mesmos entre as diferentes ilhas do arquipélago, carece de autorização prévia da direção regional com competência em matéria de veterinária.
+
+2 - Os critérios para a autorização mencionada no número anterior são definidos no programa sanitário apícola referido no artigo 11.º
+
+3 - Não é permitida a introdução no território da Região Autónoma dos Açores de abelhas das subespécies africanas Apis mellifera ou poli-híbridos resultantes do cruzamento destas com abelhas de variedades europeias provenientes de países terceiros à União Europeia.
+
+4 - Não é permitida a entrada de abelhas em qualquer fase do seu ciclo de vida, de colmeias usadas, colmeias naturais ou de qualquer recipiente utilizado para alojar as abelhas, se provenientes de uma região com estatuto sanitário inferior ao da Região Autónoma dos Açores.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+###### Artigo 4.º — Registo inicial da atividade apícola e declaração de existências
+
+1 - O exercício da atividade apícola carece de registo prévio na direção regional com competência em matéria de veterinária.
+
+2 - O registo referido no número anterior é efetuado mediante o preenchimento eletrónico de formulário, no serviço de ilha com competência em matéria de agricultura, ou na direção regional com competência em matéria de veterinária.
+
+3 - É obrigatória a declaração anual de existências no período e forma a definir por despacho do membro do Governo Regional com competência em matéria de agricultura.
+
+4 - (Revogado.)
+
+5 - É obrigatória a declaração de alterações ao registo de apicultor e à declaração de existências no prazo máximo de 10 dias após a sua ocorrência, nas condições que para o efeito vierem a ser determinadas no programa sanitário previsto no artigo 11.º
+
+6 - É obrigatória a aposição do número de registo do apicultor nos apiários, de forma clara, percetível e em local bem visível à distância de segurança, para que qualquer pessoa sem equipamento especial possa efetuar a respetiva leitura.
+
+7 - O trabalho administrativo relacionado com os registos da atividade apícola pode ser efetuado, para os respetivos associados, por agrupamentos de produtores, associações ou cooperativas, legalmente constituídos.
+
+8 - A origem do efetivo apícola deve ser comprovada junto dos serviços referidos no n.º 2, mediante a apresentação de uma declaração cujo modelo consta do programa sanitário previsto no artigo 11.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+###### Artigo 5.º — Registo do comércio de cera de abelha
+
+1 - Os comerciantes de cera destinada à atividade apícola que operem no território da Região Autónoma dos Açores carecem de registo na direção regional com competência em matéria de veterinária.
+
+2 - O registo é efectuado previamente ao início da actividade mediante entrega nos serviços de ilha com competência em matéria de agricultura de declaração de modelo a aprovar pelo membro do Governo Regional com competência em matéria de agricultura.
+
+3 - Os comerciantes que já tenham iniciado a sua atividade dispõem do prazo de 30 dias, contados a partir do dia de entrada em vigor do presente diploma, para procederem ao registo nos termos dos números anteriores.
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+###### Artigo 5.º-A — Condições sanitárias da cera de abelha
+
+1 - A cera de abelha destinada diretamente à atividade apícola não pode prejudicar o desenvolvimento e a produção das colónias nas quais seja introduzida, nem constituir um veículo de agentes suscetíveis de contaminação.
+
+2 - Toda a cera que circula na Região tem de ser esterilizada previamente à sua introdução nas colmeias e certificada pelos serviços com competência em veterinária.
+
+3 - A introdução na Região de cera de abelha de fora do arquipélago obriga à sua esterilização na ilha de receção para eliminação e despiste de contaminantes orgânicos e inorgânicos que possam estar presentes nas ceras, competindo à direção regional com competência em matéria de veterinária, através dos respetivos serviços de ilha, assegurar a esterilização das ceras.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+#### Secção II — Localização dos apiários
+
+###### Artigo 6.º — Implantação dos apiários
+
+1 - Os apiários devem estar implantados a mais de 50 m da via pública ou de qualquer edificação em utilização e devem ser protegidos por sebes vivas ou outras estruturas adequadas que se enquadrem no ambiente envolvente com altura mínima de 2 m.
+
+2 - O disposto no número anterior não se aplica às situações seguintes:
+
+a) Caminhos rurais e agrícolas;
+
+b) Edificações destinadas à habitação e à atividade apícola do apicultor detentor do apiário;
+
+c) Apiários situados a uma cota superior ou inferior a três metros da via pública.
+
+3 - A implantação de um novo apiário carece de autorização do respetivo serviço de ilha com competência em matéria de agricultura, ou da direção regional com competência em matéria de veterinária, após a verificação do cumprimento dos respetivos requisitos legais.
+
+4 - Para possibilitar a verificação do cumprimento dos requisitos legais para a instalação de um novo apiário, pode ser disponibilizada às entidades referidas no n.º 7 do artigo 4.º, através de protocolo, a georreferenciação de todos os apiários da respetiva ilha.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+###### Artigo 7.º — Densidade de implantação
+
+1 - Cada apiário tem de ter, no mínimo, uma colónia e, no máximo, 25 colónias.
+
+2 - Excetuam-se do disposto no número anterior os apiários implantados em culturas instaladas ou em áreas onde predominem árvores de Pittosporum undulatum (incenso), enquanto durarem as respetivas florações, nos quais o número de colónias deve estar em relação direta com a área explorada, a capacidade apícola da cultura e o objetivo da exploração.
+
+3 - Para efeito de contagem de colónias:
+
+a) Cada núcleo ou cortiço equivale a 0,5 colónia, sendo o total arredondado para o número imediatamente superior;
+
+b) Não são contabilizados os nucléolos.
+
+4 - Os apiários e, ou, os apiários comuns devem ser implantados a uma distância mínima de 250 m entre si, com exceção dos apiários destinados exclusivamente a autoconsumo, podendo estes ter, no máximo, duas colónias.
+
+5 - Os apicultores que detenham 25 ou menos colónias só podem deter um máximo de três apiários por ilha, sendo que o terceiro apiário só pode ser implantado caso a totalidade de colónias do apicultor seja, no mínimo, de 15.
+
+6 - A partir do terceiro apiário, a autorização para implantação de mais apiários depende do cumprimento dos números mínimos e máximos de colónias instaladas, de acordo com a tabela constante do anexo iv-A ao presente diploma, que dele faz parte integrante.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+#### Secção III — Base de dados
+
+###### Artigo 8.º — Base de dados
+
+1 - A informação relativa ao efetivo apícola e respetivos detentores, designadamente a que se refere aos artigos 4.º e 9.º, bem como a informação sanitária recolhida no âmbito da execução do programa sanitário previsto no artigo 11.º, é coligida em base de dados cuja gestão pertence à direção regional com competência em matéria de veterinária.
+
+2 - A informação recolhida nos termos do número anterior poderá ser partilhada com outras entidades públicas regionais, nacionais ou comunitárias para efeitos do exercício das suas competências, designadamente no que concerne à concessão de benefícios para a melhoria e desenvolvimento da actividade apícola.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+###### Artigo 9.º — Deslocação de apiários
+
+1 - Os detentores de apiários que pretendam proceder à respetiva deslocação devem comunicar previamente a respetiva pretensão ao serviço de ilha com competência em matéria de agricultura, para verificação do cumprimento dos requisitos legais para o efeito, sem prejuízo do disposto no n.º 3 do artigo 14.º, relativamente às zonas controladas.
+
+2 - A comunicação de deslocação a que se refere o número anterior é efetuada através do preenchimento de um formulário, cujo modelo é aprovado por despacho do membro do Governo Regional com competência em matéria de agricultura.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+### Capítulo III — Medidas sanitárias e zonas controladas
+
+#### Secção I — Medidas sanitárias
+
+###### Artigo 10.º — Doenças de declaração obrigatória
+
+1 - É obrigatória a declaração dos casos suspeitos ou confirmados de qualquer das doenças mencionadas no anexo i ao presente diploma, que dele faz parte integrante, ao serviço de ilha com competência em matéria de agricultura.
+
+2 - A direção regional com competência em matéria de veterinária pode mandar executar as medidas sanitárias que julgar necessárias para evitar, limitar ou debelar as doenças mencionadas no anexo referido no número anterior.
+
+3 - As medidas sanitárias a que se refere o número anterior compreendem:
+
+a) Visita sanitária e inquérito;
+
+b) Delimitação de zonas submetidas a restrições, com aplicação de medidas de controlo específicas;
+
+c) Restrições e condicionamento do trânsito de abelhas, enxames, colónias ou colmeias e seus produtos, bem como substâncias ou materiais destinados à apicultura que possam representar risco de introdução de doença de declaração obrigatória ou exótica;
+
+d) Tratamento, abate e medidas de higiene e desinfecção.
+
+4 - Sem prejuízo do cumprimento dos requisitos previstos nos artigos 3.º, 5.º e 5.º-A, a entrada de produtos da colmeia na Região Autónoma dos Açores, nomeadamente para alimentação das colónias, está condicionada à autorização prévia da direção regional com competência em matéria de veterinária.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+###### Artigo 11.º — Programa sanitário
+
+1 - A direção regional com competência em matéria de veterinária elabora um programa sanitário para o estabelecimento das medidas de sanidade veterinária, para defesa do território regional das doenças mencionadas no anexo i do presente diploma, bem como os requisitos a que devem obedecer as zonas controladas, sendo o mesmo revisto sempre que necessário.
+
+2 - A comunicação dos resultados das análises deve ocorrer, preferencialmente, por correio eletrónico, no prazo máximo de 60 dias após a colheita.
+
+3 - No caso de deteção de doenças mencionadas no anexo i, a comunicação ao apicultor deverá ser imediata, para um efetivo controlo sanitário.
+
+4 - O relatório do plano sanitário apícola deverá apresentar as incidências verificadas ao nível da freguesia.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+###### Artigo 12.º — Indemnização
+
+1 - Caso haja lugar ao abate sanitário previsto na alínea d) do n.º 3 do artigo 10.º, os proprietários dos apiários terão direito a uma indemnização nos termos do disposto nos números seguintes.
+
+2 - As indemnizações a que se refere o presente artigo são calculadas com base numa tabela, a aprovar por despacho conjunto dos membros do Governo Regional com competência em matéria de finanças e de agricultura, que fixa os valores, em dinheiro, correspondentes ao material apícola destruído.
+
+3 - Não têm direito a indemnização os proprietários de apiários que se encontrem em infracção ao disposto no presente diploma.
+
+4 - Antes de ser accionado o pagamento da indemnização por abate sanitário, o serviço com competência em matéria de agricultura da ilha de implantação do apiário procede a uma averiguação relativa ao cumprimento pelo proprietário dos animais abatidos das disposições do presente diploma, das medidas estabelecidas no programa sanitário previsto no artigo 11.º e de quaisquer medidas específicas de polícia sanitária impostas através de
+
+notificação.
+
+5 - Se da averiguação referida no número anterior resultarem indícios de incumprimento de alguma das mencionadas disposições ou medidas, a direção regional com competência em matéria de veterinária deve iniciar, de imediato, o competente processo de contraordenação, ficando o pagamento da indemnização dependente da decisão final do mesmo.
+
+6 - Em qualquer caso, o processo relativo à indemnização deve ser instruído com uma declaração, emitida pelo serviço de ilha com competência em matéria de agricultura, relativa ao cumprimento das disposições e medidas referidas no n.º 4, a requerer pelos proprietários de apiários sujeitos a abate sanitário, e enviada à direção regional com competência em matéria de veterinária.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+#### Secção II — Zonas controladas
+
+###### Artigo 13.º — Reconhecimento de zona controlada
+
+1 - O reconhecimento da zona controlada compete ao diretor regional com competência em matéria de veterinária.
+
+2 - O pedido de reconhecimento de zona controlada, em determinada ilha, deve ser apresentado no respetivo serviço de ilha com competência em matéria de agricultura, por organização de apicultores legalmente constituída, integrada por um número de apicultores igual ou superior a 60 % dos registados nessa ilha, ou que representem, pelo menos, 60 % do total das colmeias existentes na mesma.
+
+3 - O pedido de reconhecimento a que se refere o número anterior deve ser acompanhado de proposta de atuação calendarizada para as ações sanitárias.
+
+a) (Revogada.)
+
+b) (Revogada.)
+
+4 - No prazo máximo de cinco dias úteis a contar da receção do pedido a que se refere o n.º 2, o serviço de ilha com competência em matéria de agricultura remete o pedido de reconhecimento de zona controlada ao diretor regional com competência em matéria de veterinária, acompanhado da proposta referida no número anterior, devendo a decisão ser emitida no prazo de 20 dias úteis, a contar da data do pedido.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+###### Artigo 14.º — Obrigações nas zonas controladas
+
+1 - São obrigações dos apicultores cujos apiários estejam implantados na zona controlada:
+
+a) Manter registo atualizado dos factos de natureza sanitária ocorridos na zona, devendo o registo ser de modelo a aprovar por despacho do diretor regional com competência em matéria de veterinária;
+
+b) Possuir boletim de apiário de modelo a aprovar pelo diretor regional com competência em matéria de veterinária, do qual constem, dispostas sequencialmente por data, as operações realizadas no apiário;
+
+c) Ter o registo e o boletim de apiário disponíveis e à disposição das autoridades mencionadas no artigo 19.º do presente diploma, a seu pedido, durante um período mínimo de três anos;
+
+d) Proceder ao diagnóstico das doenças mencionadas no anexo i ao presente diploma, de acordo com a periodicidade e metodologia definidas pela autoridade sanitária regional;
+
+e) Adotar as medidas de controlo das doenças mencionadas no anexo i ao presente diploma, em conformidade com as metodologias estabelecidas pela autoridade sanitária regional.
+
+2 - As obrigações estabelecidas no número anterior são aplicáveis a todos os apicultores e apiários implantados nas zonas controladas.
+
+3 - A introdução, em zonas controladas, de abelhas, enxames, colónias ou colmeias e seus produtos, bem como de substâncias, materiais e utensílios destinados à apicultura, carece de prévia autorização da direção regional com competência em matéria de veterinária.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+###### Artigo 15.º — Revogação do reconhecimento de zona controlada
+
+A direção regional com competência em matéria de veterinária pode, mediante proposta do diretor do serviço de ilha com competência em matéria de agricultura, revogar o reconhecimento de uma zona controlada, quando deixem de estar preenchidos os requisitos previstos no n.º 2 do artigo 13.º, ou não seja cumprida a proposta de atuação prevista no n.º 3 do mesmo artigo ou ainda as obrigações impostas nos termos do artigo 14.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+###### Artigo 15.º-A — Locais de extração e processamento de mel e produtos apícolas
+
+1 - Para efeitos de aprovação, os locais de extração e processamento de produtos apícolas são classificados nos termos seguintes:
+
+a) 'Unidades de produção primária (UPP)', as que procedem às operações conexas constantes do anexo i do Regulamento (CE) n.º 852/2004, do Parlamento Europeu e do Conselho, de 29 de abril, de mel ou outros produtos apícolas provenientes da sua própria exploração, com destino a:
+
+i) Estabelecimento, desde que as UPP se situem na Região Autónoma dos Açores; ou,
+
+ii) Venda ou cedência, a qualquer título, ao consumidor final ou ao comércio a retalho local, na Região Autónoma dos Açores, bem como em representações temporárias de produtos regionais, até uma quantidade máxima definida em legislação própria que regulamenta as derrogações previstas nos Regulamentos (CE) n.os 852/2004 e 853/2004, do Parlamento Europeu e do Conselho, de 29 de abril;
+
+b) 'Estabelecimentos', os que procedem à extração ou processamento de mel ou outros produtos apícolas, com destino à introdução no mercado.
+
+2 - A extração de mel e produtos apícolas só pode ser efetuada na ilha de origem do apiário.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+###### Artigo 15.º-B — Registo e condições de funcionamento das unidades de produção primária
+
+1 - As UPP carecem de registo prévio na direção regional com competência em matéria de veterinária, a qual articula com a autoridade nacional competente as correlações e os procedimentos necessários ao registo, bem como ao respetivo funcionamento.
+
+2 - Às UPP é atribuído um número de registo que coincide com o número de apicultor, atribuído nos termos previstos no artigo 4.º
+
+3 - O processo de registo das UPP inicia-se com a entrega de um requerimento, a apresentar no serviço de ilha com competência em matéria de agricultura onde se localiza a UPP, acompanhado de fotocópia do cartão de cidadão, no caso de pessoa singular, ou de certidão de registo comercial, no caso de pessoa coletiva, quando não seja possível a consulta por meios eletrónicos.
+
+4 - As UPP devem cumprir os requisitos de instalação e funcionamento previstos no anexo i do Regulamento (CE) n.º 852/2004 do Parlamento Europeu e do Conselho, de 29 de abril.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+###### Artigo 15.º-C — Licenciamento de estabelecimentos
+
+1 - O licenciamento dos estabelecimentos de extração e processamento de produtos apícolas deve respeitar os requisitos estabelecidos no anexo i do Regulamento (CE) n.º 852/2004 do Parlamento Europeu e do Conselho, de 29 de abril, e segue a tramitação processual que a direção regional com competência em matéria de veterinária estabelece, em articulação com a autoridade nacional competente.
+
+2 - A aprovação do estabelecimento é concedida no âmbito do respetivo processo de licenciamento.
+
+3 - Para efeitos de licenciamento do estabelecimento, a entidade coordenadora é a direção regional com competência em matéria de veterinária.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+###### Artigo 15.º-D — Comercialização
+
+O mel ou outros produtos apícolas destinados ao consumo humano só podem ser comercializados se forem provenientes de UPP ou de estabelecimentos aprovados nos termos do presente diploma, bem como nas condições nele previstas.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+### Capítulo IV — Produção, transformação e comercialização de mel e produtos apícolas
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+###### Artigo 16.º — Análises ao mel
+
+A verificação das características do mel é feita através de métodos de preparação de amostra e análise definidos comunitariamente e, na sua ausência, os métodos validados internacionalmente reconhecidos, designadamente os aprovados pelo Codex Alimentarius.
+
+###### Artigo 17.º — Rotulagem do mel
+
+1 - A rotulagem do mel obedece ao disposto na legislação em vigor sobre a rotulagem de géneros alimentícios, observando-se ainda o seguinte:
+
+a) O termo «mel» é aplicado apenas ao produto definido na alínea n) do n.º 1 do artigo 2.º do presente diploma e deve ser utilizado no comércio para designar esse produto;
+
+b) As denominações de venda a que se referem os produtos constantes dos anexos ii e iii ao presente diploma, do qual são parte integrante, são reservadas aos produtos nele definidos e devem ser usados no comércio para designar esses produtos;
+
+c) As denominações de venda a que se refere a alínea anterior podem ser substituídas pela simples designação «mel», excepto no caso do mel filtrado, do mel em favos, do mel com pedaços de favos e do mel para fim industrial;
+
+d) No caso de utilização de mel para uso industrial como ingrediente de um género alimentício composto, o termo «mel» pode constar da denominação de venda desse género alimentício, em vez de «mel para uso industrial», devendo constar da lista de ingredientes a denominação completa referida no anexo ii ao presente diploma, do qual é parte integrante;
+
+e) O mel para uso industrial deve conter na respectiva rotulagem, na proximidade da denominação de venda, a expressão «apenas para uso culinário»;
+
+f) A rotulagem do 'Mel dos Açores - DOP' deve obedecer também às regras que constam do respetivo caderno de especificações.
+
+2 - Salvo no que se refere ao mel filtrado e ao mel para fim industrial, as denominações de venda podem ser completadas por indicações que façam referência:
+
+a) À origem floral ou vegetal do produto, se este provier, total ou parcialmente, da origem indicada e possuir as características organolépticas, físico-químicas e microscópicas próprias de tal origem;
+
+b) À origem regional, territorial ou topográfica do produto, se este provier, na sua totalidade, da origem indicada e desde que esta indicação não entre em conflito com indicações ou denominações de origem já protegidas, no âmbito do Regulamento (UE) n.º 1151/2012, do Parlamento Europeu e do Conselho, de 21 de novembro, relativo aos regimes de qualidade dos produtos agrícolas e dos géneros alimentícios;
+
+c) A critérios de qualidade específicos.
+
+3 - Na rotulagem dos produtos a que se refere o presente capítulo, deve figurar a indicação do país ou países de origem onde o mel foi colhido.
+
+4 - Caso o mel seja originário de um ou vários Estados membros ou países terceiros, a indicação a que se refere o número anterior pode ser substituída por uma das seguintes expressões:
+
+a) 'Mistura de méis UE';
+
+b) 'Mistura de méis não UE';
+
+c) 'Mistura de méis UE e não UE'.
+
+5 - As indicações a que se referem os números anteriores são consideradas menções obrigatórias de rotulagem, nos termos da legislação em vigor, quando se trate de mel proveniente de um estabelecimento, definido nos termos da alínea b) do n.º 1 do artigo 15.º-A.
+
+6 - O disposto no n.º 4 não se aplica nos casos em que o mel, quando originário de um ou vários Estados-Membros ou países terceiros, seja embalado em território nacional, devendo, nestes casos, figurar no rótulo o nome do país ou países de origem em que o mel foi colhido, não podendo esta indicação ser substituída por outras menções, incluindo as menções de 'mistura de méis'.
+
+7 - Caso o mel seja proveniente de uma UPP, as indicações de rotulagem previstas nos números anteriores, com exceção da alínea f) do n.º 1, não são obrigatórias, sendo apenas exigida, na embalagem, a indicação do número de registo do apicultor.
+
+8 - O pólen, sendo um componente natural específico do mel, não deve ser considerado um ingrediente, na aceção da alínea f) do n.º 2 do artigo 2.º do Regulamento (UE) n.º 1169/2011, do Parlamento Europeu e do Conselho, de 25 de outubro, para o efeito dos produtos referidos nos anexos ii e iii.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+###### Artigo 18.º — Mel filtrado e mel para uso industrial
+
+No caso do mel filtrado e do mel para uso industrial, os recipientes de mel a granel, as embalagens e os documentos comerciais devem indicar claramente a denominação de venda completa referida na alínea f) do n.º 2 do anexo ii e no anexo iii.
+
+### Capítulo V — Fiscalização e incuprimento
+
+###### Artigo 19.º — Fiscalização
+
+1 - Compete à direção regional com competência em matéria de veterinária, através dos respetivos serviços de ilha com competência em matéria de agricultura, assegurar a fiscalização do cumprimento das disposições constantes do presente diploma e respetivos anexos, sem prejuízo das competências atribuídas por lei a outras entidades policiais e fiscalizadoras.
+
+2 - No interior das áreas ambientalmente classificadas e protegidas, compete também aos serviços competentes do departamento do Governo Regional competente em matéria de ambiente a fiscalização referida no n.º 1.
+
+3 - Sem prejuízo das competências atribuídas por lei a outras entidades policiais e fiscalizadoras, compete ao Instituto de Alimentação e Mercados Agrícolas, IPRA, o controlo e a certificação do 'Mel dos Açores - DOP', de acordo com as regras estabelecidas no respetivo caderno de especificações.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+###### Artigo 20.º — Contra-ordenações
+
+1 - Constitui contraordenação, punível com coima cujo montante mínimo é de 100 (euro) e máximos de 3740 (euro) e de 44 890 (euro), respetivamente, consoante se trate de pessoa singular ou coletiva:
+
+a) O incumprimento do disposto nos n.os 1, 3 e 4 do artigo 3.º;
+
+b) A falta do registo previsto no n.º 1 do artigo 4.º;
+
+c) A falta da declaração de existências prevista no n.º 3 do artigo 4.º;
+
+d) A não declaração de alterações ao registo e às existências nos termos do n.º 5 do artigo 4.º;
+
+e) A não aposição do número de registo de apicultor de forma clara, percetível e em local bem visível nos apiários, conforme previsto no n.º 6 do artigo 4.º;
+
+f) A falta de registo para a comercialização de cera de abelha destinada ao uso na atividade apícola, de acordo com o previsto no n.º 1 do artigo 5.º;
+
+g) A comercialização de cera de abelha destinada ao uso na atividade apícola, com agentes suscetíveis de contaminar as abelhas das colónias nas quais seja introduzida, conforme previsto no n.º 1 do artigo 5.º-A;
+
+h) A implantação de apiários em desconformidade com o previsto no artigo 6.º;
+
+i) O desrespeito da densidade de implantação de apiários estabelecida nos termos do disposto no artigo 7.º;
+
+j) A não comunicação de deslocação de apiário, em conformidade com o disposto no n.º 1 do artigo 9.º;
+
+k) A não declaração, nos termos do disposto no artigo 10.º, dos casos suspeitos ou confirmados de qualquer das doenças mencionadas no anexo i;
+
+l) As infrações às medidas de sanidade veterinária emanadas da direção regional competente em matéria de veterinária nos termos do disposto nos n.os 2 e 3 do artigo 10.º;
+
+m) (Revogada.)
+
+n) O incumprimento das medidas de bem-estar animal emanadas da direcção regional competente em matéria de desenvolvimento agrário;
+
+o) A introdução em zonas controladas, não autorizada pela direção regional competente em matéria de veterinária, de abelhas, enxames, colónias ou colmeias e seus produtos, bem como de substâncias ou materiais destinados à apicultura, nos termos previstos no n.º 3 do artigo 14.º;
+
+p) A introdução em zonas controladas, não autorizada pela direcção regional competente em matéria de desenvolvimento agrário, de abelhas, enxames, colónias ou colmeias e seus produtos, bem como de substâncias ou materiais destinados à apicultura;
+
+q) A produção ou a comercialização dos produtos definidos nos anexos ii e iii sem as características fixadas no anexo iv ao presente diploma, do qual são parte integrante;
+
+r) O funcionamento de UPP não registadas ou de estabelecimentos de extração ou processamento de mel ou produtos apícolas não aprovados, nos termos dos artigos 15.º-B e 15.º-C, respetivamente;
+
+s) A comercialização de mel ou outros produtos apícolas destinados ao consumo humano provenientes de UPP não registadas ou de estabelecimentos não aprovados, nos termos do artigo 15.º-D;
+
+t) A extração e processamento de mel em operações não previstas na alínea a) do n.º 1 do artigo 15.º-A;
+
+u) A colocação de mel ou outros produtos apícolas extraídos ou processados em UPP noutro destino que não o previsto no n.º 1 do artigo 15.º-A;
+
+v) A extração de mel ou outros produtos apícolas em desrespeito ao estipulado no n.º 2 do artigo 15.º-A.
+
+2 - A negligência e a tentativa são puníveis.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+###### Artigo 21.º — Sanções acessórias
+
+1 - Consoante a gravidade da contra-ordenação e a culpa do agente, podem ser aplicáveis, cumulativamente com a coima, as seguintes sanções acessórias:
+
+a) Perda de objectos ou animais pertencentes ao agente;
+
+b) Interdição do exercício de uma profissão ou actividade cujo exercício dependa de título público, de autorização ou de homologação de autoridade pública;
+
+c) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;
+
+d) Privação do direito de participar em feiras ou mercados;
+
+e) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;
+
+f) Suspensão de autorizações, licenças ou alvarás.
+
+2 - As sanções referidas nas alíneas b) a f) do número anterior têm a duração máxima de dois anos a contar da data da decisão condenatória definitiva.
+
+###### Artigo 22.º — Processos de contra-ordenação
+
+1 - Sem prejuízo das competências atribuídas por lei a outras entidades policiais ou fiscalizadoras compete aos serviços com competência em matéria de agricultura da ilha da prática da infracção a instrução dos processos de contra-ordenação.
+
+2 - Nos processos de contraordenação cuja instrução esteja atribuída aos serviços de ilha com competência em matéria de agricultura, compete ao diretor regional competente em matéria de veterinária a aplicação das coimas e sanções acessórias.
+
+3 - Nos processos relativos ao controlo e certificação do «Mel dos Açores - DOP», compete às entidades fiscalizadoras a instrução dos respectivos processos de contra-ordenação e ao membro do Governo Regional que tutela as entidades a aplicação das coimas e sanções acessórias.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+###### Artigo 23.º — Afectação do produto das coimas
+
+O produto das coimas constitui receita da Região Autónoma dos Açores.
+
+a) (Revogada.)
+
+b) (Revogada.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+###### Artigo 24.º — Apreensão
+
+1 - As abelhas, enxames, colónias ou colmeias e seus produtos, bem como substâncias ou materiais destinados à apicultura, que se encontrem em desrespeito pelo disposto nos artigos 4.º, 5.º, 6.º ou 7.º, ou que possam representar risco de introdução de doença de declaração obrigatória ou exótica em desrespeito pelas normas estabelecidas no presente diploma e que representem perigo para a saúde animal são apreendidos por qualquer das entidades a que se refere o artigo 19.º, sendo aplicável à apreensão a tramitação procedimental prevista neste artigo.
+
+2 - Da apreensão é elaborado um auto, a enviar à entidade instrutora.
+
+3 - A entidade apreensora nomeia fiel depositário do apiário o proprietário do terreno ou outra entidade idónea.
+
+4 - As abelhas, enxames, colónias ou colmeias e seus produtos, bem como substâncias ou materiais destinados à apicultura apreendidos são relacionados e descritos com referência à sua quantidade, estado sanitário, valor presumível e sinais particulares que possam servir para a sua completa identificação, do que tudo se faz menção, em termo assinado pelos apreensores, pelo infractor, pelas testemunhas e pelo fiel depositário.
+
+5 - A nomeação do fiel depositário é sempre comunicada pela entidade apreensora ao serviço da respectiva ilha competente em matéria de agricultura.
+
+###### Artigo 25.º — Exclusão de benefícios
+
+1 - O apicultor que se encontre em infração ao disposto no presente diploma é excluído, pelo período de um ano a contar da data de verificação dos factos, da possibilidade de aceder a benefícios a conceder para melhoria e desenvolvimento da atividade apícola, designadamente de apoios comunitários, ou regionais.
+
+2 - A criação de obstáculos ou impedimentos pelo apicultor na realização de acções de fiscalização e controlo para verificação do cumprimento das normas do presente diploma determina a perda de benefício nos termos previstos no número anterior.
+
+3 - As condições de exclusão do benefício previstas neste artigo, bem como a tramitação administrativa do mesmo, são estabelecidas por despacho do membro do Governo Regional competente em matéria de agricultura.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+###### Artigo 25.º-A — Sensibilização para a importância da apicultura
+
+O departamento do Governo Regional com competência em matéria de veterinária deve promover, anualmente, campanhas de sensibilização da população para a importância da apicultura na agricultura e na biodiversidade e proteção dos ecossistemas dos Açores.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+### Capítulo VI — Disposições finais
+
+###### Artigo 26.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação.
+
+Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 20 de Setembro de 2007.
+
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
+
+Assinado em Angra do Heroísmo em 25 de Outubro de 2007.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
+
+## Anexo I — Doenças de declaração obrigatória
+
+Loque americana.
+
+Loque europeia.
+
+Acarapisose.
+
+Varroose.
+
+Acthinose por Aethina tumida.
+
+Tropilaelaps por Tropilaelaps sp.
+
+Ascosferiose.
+
+Nosemose.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+## Anexo II — Principais tipos de mel
+
+1 - Consoante a origem:
+
+a) Mel de néctar ou mel de flores - mel obtido a partir do néctar das plantas;
+
+b) Mel da melada - mel obtido principalmente a partir das excreções de insectos sugadores de plantas (hemiptera) que ficam sobre as partes vivas das plantas ou de secreções provenientes de partes vivas das plantas.
+
+2 - Consoante o modo de preparação e ou de apresentação:
+
+a) Mel em favos - mel armazenado pelas abelhas nos alvéolos operculados de favos construídos recentemente pelas próprias abelhas ou de finas folhas de cera gravada realizadas exclusivamente com cera de abelha e que não contenham criação, vendido em favos inteiros ou em secções de favos;
+
+b) Mel com pedaços de favos - mel que contém um ou vários pedaços de mel em favos;
+
+c) Mel escorrido - mel obtido por escorrimento de favos desoperculados que não contenham criação;
+
+d) Mel centrifugado - mel obtido por centrifugação de favos desoperculados que não contenham criação;
+
+e) Mel prensado - mel obtido por compressão de favos que não contenham criação, sem aquecimento, ou com aquecimento moderado de 45ºC, no máximo;
+
+f) Mel filtrado - mel obtido por um processo de eliminação de matérias orgânicas ou inorgânicas estranhas à sua composição que retire uma parte importante de pólen.
+
+## Anexo III — Mel para uso industrial
+
+Entende-se por «mel para uso industrial» o mel próprio para usos industriais ou como ingrediente de outros géneros alimentícios transformados e que pode:
+
+a) Apresentar um sabor ou cheiro anormal ou ter começado a fermentar ou fermentado;
+
+b) Ter sido sobreaquecido.
+
+## Anexo IV — Critérios de composição dos méis
+
+1 - Características do mel - o mel é constituído essencialmente por diversos açúcares, predominando a glucose e a frutose, assim como por outras substâncias, tais como ácidos orgânicos, enzimas e partículas sólidas provenientes da sua colheita.
+
+A cor do mel pode variar de uma tonalidade quase incolor a castanho-escuro.
+
+No que se refere à consistência, o mel pode apresentar-se fluido, espesso ou total ou parcialmente cristalizado.
+
+O sabor e o aroma variam consoante a origem vegetal.
+
+Quando comercializado como tal, ou quando utilizado em qualquer produto destinado ao consumo humano, não pode ter sido adicionado ao mel nenhum ingrediente nem aditivo alimentar.
+
+O mel deve estar isento, na medida do possível, de matérias orgânicas ou inorgânicas estranhas à sua composição.
+
+Com exceção da categoria referida no anexo iii ao presente diploma, o mel não deve apresentar sabores ou cheiros estranhos, nem ter começado a fermentar, nem apresentar uma acidez modificada artificialmente, nem ter sido aquecido de modo que as enzimas naturais sejam destruídas ou consideravelmente inativadas.
+
+Sem prejuízo do disposto na alínea f) do n.º 2 do anexo ii ao presente diploma, não pode ser retirado ao mel nenhum pólen nem nenhum dos seus componentes, exceto se tal for inevitável aquando da eliminação de matérias orgânicas ou inorgânicas estranhas à sua composição.
+
+2 - Composição do mel - quando comercializado como tal ou quando utilizado em qualquer produto destinado ao consumo humano, o mel deve obedecer aos seguintes critérios de composição:
+
+2.1 - Teor de açúcares:
+
+2.1.1 - Teor de frutose e glucose (total dos dois):
+
+Mel de néctar - no mínimo 60 g/100 g;
+
+Mel de melada e misturas de mel de melada com mel de néctar - no mínimo 45 g/100 g.
+
+2.1.2 - Teor de sacarose:
+
+Em geral - no máximo 10 g/100 g;
+
+Pittosporum undulatum (incenso) - no máximo 15 g/100 g.
+
+2.2 - Teor de água:
+
+Em geral - no máximo 20 %;
+
+Mel dos Açores DOP - no máximo 18 %;
+
+Mel de urze (Calluna) e mel para uso industrial em geral - no máximo 23 %;
+
+Mel de urze (Calluna) para uso industrial - no máximo 25 %.
+
+2.3 - Teor de matérias insolúveis na água:
+
+Em geral - no máximo 0,1 g/100 g;
+
+Mel prensado - no máximo 0,5 g/100 g.
+
+2.4 - Condutividade elétrica:
+
+Mel não enumerado a seguir e misturas desses méis - no máximo 0,8 mS/cm;
+
+Mel de melada, mel de flores de castanheiro e misturas desses méis, exceto os a seguir enumerados - no mínimo 0,8 mS/cm;
+
+Exceções - Arbutus unedo (medronheiro), Erica (urze), Eucalyptus (eucalipto), Tilia spp. (tília), Calluna vulgaris (rapa), Leptospermum (leptospermo), Melaleuca spp. (melaleuca).
+
+2.5 - Ácidos livres:
+
+Em geral - no máximo 50 miliequivalentes de ácidos por 1000 g;
+
+Mel para uso industrial - no máximo 80 miliequivalentes de ácidos por 1000 g.
+
+2.6 - Índice diastásico e teor de hidroximetilfurfural (HMF), determinados após tratamento e mistura:
+
+2.6.1 - Índice diastásico (escala de Schade):
+
+Em geral, com exceção do mel para uso industrial - no mínimo 3.
+
+2.6.2 - HMF:
+
+Em geral, com exceção do mel para uso industrial - no máximo 40 mg/kg;
+
+Mel de origem declarada de regiões de clima tropical e misturas desses méis - no máximo 80 mg/kg.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18
+
+## Anexo IV-A — Relação entre o número de colónias e o número de apiários autorizados
+
+(ver documento original)
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 17/2022/A - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186307881), em vigor a partir de 2022-08-18

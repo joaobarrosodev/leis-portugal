@@ -1,0 +1,347 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:429401:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-107538603",
+ "dre_path": "/dr/detalhe/decreto-lei/307-2003-429401",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2003-12-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107533986",
+    "107533987",
+    "107533988",
+    "107533989",
+    "107533990",
+    "107533991",
+    "107533992",
+    "107533993",
+    "107533994",
+    "107533995",
+    "107533996",
+    "107533997",
+    "107533998",
+    "107534000"
+   ]
+  },
+  {
+   "date": "2017-02-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:280965:por",
+     "title": "Decreto-Lei n.º 17/2011",
+     "published": "2011-01-27",
+     "dre_path": "/dr/detalhe/decreto-lei/17-2011-280965"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "107533986",
+    "107533987",
+    "107533988",
+    "107534005",
+    "107533990",
+    "107534006",
+    "107534007",
+    "107534008",
+    "107533994",
+    "107533995",
+    "107533996",
+    "107533997",
+    "107533998",
+    "107533999",
+    "107534000"
+   ]
+  },
+  {
+   "date": "2017-08-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107648316:por",
+     "title": "Lei n.º 48/2017",
+     "published": "2017-07-07",
+     "dre_path": "/dr/detalhe/lei/48-2017-107648316"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "107533986",
+    "107533987",
+    "107533988",
+    "107534005",
+    "107533990",
+    "107534006",
+    "107534007",
+    "107534008",
+    "107533994",
+    "107533995",
+    "107642801",
+    "107533997",
+    "107533998",
+    "107533999",
+    "107534000"
+   ]
+  },
+  {
+   "date": "2017-10-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108265123:por",
+     "title": "Decreto-Lei n.º 128/2017",
+     "published": "2017-10-09",
+     "dre_path": "/dr/detalhe/decreto-lei/128-2017-108265123"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "107533986",
+    "107533987",
+    "108224199",
+    "108224200",
+    "108224197",
+    "107534006",
+    "108224198",
+    "107534008",
+    "107533994",
+    "107533995",
+    "107642801",
+    "107533997",
+    "107533998",
+    "107533999",
+    "107534000"
+   ]
+  }
+ ],
+ "fragments": {
+  "107533986": {
+   "fragment_id": "107538604",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 307/2003\n\nde 10 de Dezembro\n\nO transporte particular é para muitas pessoas com deficiência condicionadas na sua mobilidade o único meio de se deslocarem autonomamente, tendo em vista a sua integração profissional e social.\n\nPara facilitar a deslocação das pessoas de mobilidade reduzida, foi aprovado o dístico de identificação de deficiente motor pela Portaria n.º 878/81, de 1 de Outubro.\n\nA Conferência Europeia dos Ministros dos Transportes aprovou, em 22 de Abril de 1997, uma resolução destinada a incentivar a emissão e o reconhecimento mútuo dos cartões de estacionamento para pessoas com deficiência.\n\nA União Europeia recomendou aos Estados membros que instituíssem um cartão de estacionamento para pessoas com deficiência segundo o modelo comunitário uniforme, nos termos da Recomendação do Conselho n.º <a href=\"eurlex.asp?ano=1998&id=398H0376\" title=\"Link para Recomendação da Comunidade Europeia\">98/376/CE</a>, de 4 de Junho, relativa a um cartão de estacionamento para pessoas com deficiência.\n\nAssim, por forma que o titular do cartão possa beneficiar em todos os países da Comunidade das facilidades autorizadas para o cartão de estacionamento para pessoas com deficiência, procede-se à uniformização gráfica dos cartões.\n\nEsta iniciativa, no Ano Europeu das Pessoas com Deficiência - 2003, assim designado pela Decisão n.º <a href=\"eurlex.asp?ano=2001&id=301D0903\" title=\"Link para Decisão da Comunidade Europeia\">2001/903/CE</a>, do Conselho da União Europeia, de 3 de Dezembro, contribui para a melhoria da qualidade de vida das pessoas com deficiência, condicionadas na sua mobilidade, garantindo a sua maior participação na vida social, económica e cultural.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "107533987": {
+   "fragment_id": "107538605",
+   "type": 11,
+   "heading": "Artigo 1.º — Cartão de estacionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Cartão de estacionamento\n\n1 - É aprovado o cartão de estacionamento de modelo comunitário para pessoas com deficiência condicionadas na sua mobilidade, reproduzido no anexo do presente diploma, do qual faz parte integrante.\n\n2 - O cartão deve ser colocado junto ao pára-brisas dianteiro dos veículos em que se desloquem, de forma visível do exterior, sempre que estes se encontrem estacionados nos locais que lhes estão especialmente destinados."
+  },
+  "107533988": {
+   "fragment_id": "107538606",
+   "type": 11,
+   "heading": "Artigo 2.º — Pessoa com deficiência motora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Pessoa com deficiência motora\n\nPara efeitos do presente diploma, considera-se pessoa com deficiência motora toda aquela que, por motivo de lesão, deformidade ou enfermidade, congénita ou adquirida, seja portadora de deficiência motora, ao nível dos membros inferiores ou superiores, de carácter permanente, de grau igual ou superior a 60%, avaliada pela Tabela Nacional de Incapacidades, aprovada pelo Decreto-Lei n.º 341/93, de 30 de Setembro, desde que tal deficiência lhe dificulte, comprovadamente:\n\na) A locomoção na via pública sem auxílio de outrem ou sem recurso a meios de compensação, nomeadamente próteses e ortóteses, cadeiras de rodas, muletas e bengalas, no caso de deficiência motora ao nível dos membros inferiores;\n\nb) O acesso ou utilização dos transportes públicos colectivos convencionais, no caso de deficiência motora ao nível dos membros superiores."
+  },
+  "107533989": {
+   "fragment_id": "107538607",
+   "type": 11,
+   "heading": "Artigo 3.º — Pessoa com multideficiência profunda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Pessoa com multideficiência profunda\n\nPara efeitos do presente diploma, considera-se pessoa com multideficiência profunda qualquer pessoa com deficiência motora que, para além de se encontrar nas condições referidas no artigo anterior, enferme cumulativamente de deficiência sensorial, intelectual ou visual de carácter permanente de que resulte um grau de incapacidade igual ou superior a 90%."
+  },
+  "107533990": {
+   "fragment_id": "107538608",
+   "type": 11,
+   "heading": "Artigo 4.º — Legitimidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Legitimidade\n\n1 - Podem usufruir do cartão de estacionamento as pessoas cuja deficiência lhes provoque uma mobilidade reduzida, de acordo com o previsto nos artigos 2.º e 3.º\n\n2 - Podem, ainda, usufruir do cartão de estacionamento as pessoas com deficiência das Forças Armadas abrangidas pelo Decreto-Lei n.º 43/76, de 20 de Janeiro, ou as a elas equiparadas que sejam portadoras de incapacidade motora igual ou superior a 60%."
+  },
+  "107533991": {
+   "fragment_id": "107538609",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência para emitir o cartão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competência para emitir o cartão\n\n1 - Compete à Direcção-Geral de Viação, através dos seus serviços desconcentrados, emitir o cartão de estacionamento para pessoas com deficiência.\n\n2 - A Direcção-Geral de Viação deve assegurar o registo dos cartões que emite."
+  },
+  "107533992": {
+   "fragment_id": "107538610",
+   "type": 11,
+   "heading": "Artigo 6.º — Procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Procedimentos\n\n1 - Para efeitos do disposto no artigo anterior deve o interessado ou quem o represente apresentar requerimento na direcção regional de viação da área da sua residência.\n\n2 - No acto da entrega do requerimento, deve fazer-se prova da identificação e da residência mediante apresentação do bilhete de identidade e da condição de pessoa com deficiência motora ou de pessoa com multideficiência profunda, através de atestado médico de incapacidade multiuso, passado nos termos do disposto no Decreto-Lei n.º 202/96, de 23 de Outubro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 174/97, de 19 de Julho.\n\n3 - Tratando-se de pessoas com deficiência das Forças Armadas ou das a elas equiparadas, a certificação do grau de incapacidade faz-se através do cartão de pessoa deficiente das Forças Armadas, emitido pelo Ministério da Defesa Nacional."
+  },
+  "107533993": {
+   "fragment_id": "107538611",
+   "type": 11,
+   "heading": "Artigo 7.º — Validade do cartão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Validade do cartão\n\nO cartão é válido por um período de cinco anos, excepto se do atestado médico constar um período de validade inferior."
+  },
+  "107533994": {
+   "fragment_id": "107538612",
+   "type": 11,
+   "heading": "Artigo 8.º — Reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Reconhecimento\n\n1 - Os cartões de estacionamento para pessoas com deficiência, emitidos pelas autoridades dos restantes Estados membros da União Europeia que aderirem à Recomendação do Conselho n.º <a href=\"eurlex.asp?ano=1998&id=398H0376\" title=\"Link para Recomendação da Comunidade Europeia\">98/376/CE</a>, de 4 de Junho, são reconhecidos em Portugal.\n\n2 - São igualmente reconhecidos em Portugal os cartões de estacionamento para pessoas com deficiência emitidos pelas autoridades dos países da Conferência Europeia dos Ministros dos Transportes e seus associados, de acordo com a Resolução CEMT n.º 97/4, aprovada em 22 de Abril."
+  },
+  "107533995": {
+   "fragment_id": "107538613",
+   "type": 11,
+   "heading": "Artigo 9.º — Utilização do cartão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Utilização do cartão\n\n1 - O cartão só pode ser utilizado em veículo que transporte efectivamente a pessoa com deficiência.\n\n2 - A utilização indevida ou fraudulenta do cartão implica a sua imediata apreensão e suspensão por um período de um ano, podendo o mesmo ser apreendido definitivamente no caso de reincidência.\n\n3 - São competentes para apreender o cartão as autoridades de investigação criminal ou de fiscalização do trânsito ou seus agentes."
+  },
+  "107533996": {
+   "fragment_id": "107538614",
+   "type": 11,
+   "heading": "Artigo 10.º — Locais de estacionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Locais de estacionamento\n\nO estacionamento com utilização do cartão só pode verificar-se nos locais reservados para o efeito mediante a respectiva sinalização, exceptuando-se as situações de absoluta necessidade, em que o veículo pode estacionar em outro local e por curtos períodos de tempo, desde que não prejudique a normal e livre circulação de peões e de veículos."
+  },
+  "107533997": {
+   "fragment_id": "107538615",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma transitória\n\nOs dísticos de identificação de pessoa com deficiência motora emitidos ao abrigo da Portaria n.º 878/81, de 1 de Outubro, mantêm-se válidos até ao termo do prazo que deles consta."
+  },
+  "107533998": {
+   "fragment_id": "107538616",
+   "type": 11,
+   "heading": "Artigo 12.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Revogação\n\n1 - É revogada a Portaria n.º 878/81, de 1 de Outubro.\n\n2 - É revogado o n.º VI-14 do anexo da Portaria n.º 890/2003, de 26 de Agosto, que estabelece a taxa de emissão de dísticos para pessoas com deficiência."
+  },
+  "107534000": {
+   "fragment_id": "107538618",
+   "type": 14,
+   "heading": "Anexo — Cartão de estacionamento para pessoas com deficiência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Cartão de estacionamento para pessoas com deficiência\n\n(ver modelo no documento original)"
+  },
+  "107534005": {
+   "fragment_id": "107538607",
+   "type": 11,
+   "heading": "Artigo 3.º — Pessoa com multideficiência profunda",
+   "in_force_from": "2017-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2011-280965), em vigor a partir de 2017-02-01"
+   ],
+   "markdown": "###### Artigo 3.º — Pessoa com multideficiência profunda\n\nPara efeitos do presente diploma, considera-se pessoa com multideficiência profunda qualquer pessoa que, além de deficiência física ou motora, tenha cumulativamente deficiência sensorial, intelectual ou visual de carácter permanente, de que resulte um grau de incapacidade igual ou superior a 90 %.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2011-280965), em vigor a partir de 2017-02-01"
+  },
+  "107534006": {
+   "fragment_id": "107538609",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência para emitir o cartão",
+   "in_force_from": "2017-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2011-280965), em vigor a partir de 2017-02-01"
+   ],
+   "markdown": "###### Artigo 5.º — Competência para emitir o cartão\n\n1 - Compete ao Instituto de Mobilidade e dos Transportes Terrestres, I. P. (IMTT, I. P.), através dos seus serviços desconcentrados, emitir o cartão de estacionamento para pessoas com deficiência.\n\n2 - O IMTT, I. P., deve assegurar o registo dos cartões que emite.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2011-280965), em vigor a partir de 2017-02-01"
+  },
+  "107534007": {
+   "fragment_id": "107538610",
+   "type": 11,
+   "heading": "Artigo 6.º — Procedimentos",
+   "in_force_from": "2017-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2011-280965), em vigor a partir de 2017-02-01"
+   ],
+   "markdown": "###### Artigo 6.º — Procedimentos\n\n1 - Para efeitos do disposto no artigo anterior, pode o interessado, ou quem o represente, efectuar o pedido por meio electrónico disponível para o efeito ou presencialmente, em qualquer posto de atendimento do IMTT, I. P.\n\n2 - Com o pedido deve fazer-se prova da identificação e residência do interessado, designadamente através do cartão de cidadão, bem como da sua condição de pessoa com deficiência motora ou multideficiência profunda, mediante atestado médico de incapacidade multiuso, emitido nos termos do disposto no Decreto-Lei n.º 202/96, de 23 de Outubro, alterado pelo Decreto-Lei n.º 291/2009, de 12 de Outubro.\n\n3 - Tratando-se de pessoas com deficiência das Forças Armadas ou das a elas equiparadas, a certificação do grau de incapacidade faz-se através do cartão de pessoa deficiente das Forças Armadas, emitido pelo Ministério da Defesa Nacional.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2011-280965), em vigor a partir de 2017-02-01"
+  },
+  "107534008": {
+   "fragment_id": "107538611",
+   "type": 11,
+   "heading": "Artigo 7.º — Validade e revalidação do cartão",
+   "in_force_from": "2017-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2011-280965), em vigor a partir de 2017-02-01"
+   ],
+   "markdown": "###### Artigo 7.º — Validade e revalidação do cartão\n\n1 - O cartão de estacionamento é válido pelo período de 10 anos, salvo se o atestado médico multiuso determinar a reavaliação da incapacidade, caso em que o período de validade corresponde à data estabelecida para a reavaliação.\n\n2 - A revalidação do cartão de estacionamento depende da manifestação de interesse pelo titular ou de quem o represente, segundo os procedimentos previstos no artigo 6.º, sendo dispensada a apresentação do atestado multiuso nos casos em que não tenha sido determinada a reavaliação da incapacidade.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2011-280965), em vigor a partir de 2017-02-01"
+  },
+  "107533999": {
+   "fragment_id": "107538617",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de Outubro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Teresa Pinto Basto Gouveia - António Jorge de Figueiredo Lopes - António José de Castro Bagão Félix.\n\nPromulgado em 25 de Novembro de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 27 de Novembro de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "107642801": {
+   "fragment_id": "107538614",
+   "type": 11,
+   "heading": "Artigo 10.º — Locais de estacionamento",
+   "in_force_from": "2017-08-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 48/2017 - Diário da República n.º 130/2017, Série I de 2017-07-07](https://diariodarepublica.pt/dr/detalhe/lei/48-2017-107648316), em vigor a partir de 2017-08-06"
+   ],
+   "markdown": "###### Artigo 10.º — Locais de estacionamento\n\n1 - O estacionamento com utilização do cartão só pode verificar-se nos locais reservados para o efeito mediante a respectiva sinalização, exceptuando-se as situações de absoluta necessidade, em que o veículo pode estacionar em outro local e por curtos períodos de tempo, desde que não prejudique a normal e livre circulação de peões e de veículos.\n\n2 - As entidades públicas que disponham de lugares de estacionamento destinado a utentes devem assegurar a disponibilização de lugares de estacionamento gratuitos para pessoas com deficiência, em número e características que cumpram o disposto nas normas técnicas para melhoria da acessibilidade das pessoas com mobilidade condicionada, publicadas em anexo ao Decreto-Lei n.º 163/2006, de 8 de agosto.\n\n3 - O disposto no número anterior aplica-se, ainda, às entidades públicas, mesmo que em regime de parceria público-privada, cujo estacionamento destinado a utentes esteja concessionado a terceiros.\n\n4 - As entidades públicas que não disponham de estacionamento para utentes devem assegurar a disponibilização na via pública de lugares de estacionamento reservados para pessoas com deficiência, nos termos do disposto nas normas técnicas para melhoria da acessibilidade das pessoas com mobilidade condicionada, publicadas em anexo ao Decreto-Lei n.º 163/2006, de 8 de agosto.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 48/2017 - Diário da República n.º 130/2017, Série I de 2017-07-07](https://diariodarepublica.pt/dr/detalhe/lei/48-2017-107648316), em vigor a partir de 2017-08-06"
+  },
+  "108224199": {
+   "fragment_id": "107538606",
+   "type": 11,
+   "heading": "Artigo 2.º — Pessoa com deficiência motora",
+   "in_force_from": "2017-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2017 - Diário da República n.º 194/2017, Série I de 2017-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2017-108265123), em vigor a partir de 2017-10-10"
+   ],
+   "markdown": "###### Artigo 2.º — Pessoa com deficiência motora\n\nPara efeitos do presente diploma, considera-se pessoa com deficiência motora toda aquela que, por motivo de lesão, deformidade ou enfermidade, congénita ou adquirida, seja portadora de deficiência motora, ao nível dos membros inferiores ou superiores, de carácter permanente, de grau igual ou superior a 60%, avaliada pela Tabela Nacional de Incapacidades, aprovada pelo Decreto-Lei n.º 341/93, de 30 de Setembro, desde que tal deficiência lhe dificulte, comprovadamente:\n\na) A locomoção na via pública sem auxílio de outrem ou sem recurso a meios de compensação, nomeadamente próteses e ortóteses, cadeiras de rodas, muletas e bengalas, no caso de deficiência motora ao nível dos membros inferiores;\n\nb) O acesso ou utilização dos transportes públicos colectivos convencionais, no caso de deficiência motora ao nível dos membros superiores.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2017 - Diário da República n.º 194/2017, Série I de 2017-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2017-108265123), em vigor a partir de 2017-10-10"
+  },
+  "108224200": {
+   "fragment_id": "107538607",
+   "type": 11,
+   "heading": "Artigo 3.º — Pessoa com multideficiência profunda",
+   "in_force_from": "2017-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2017 - Diário da República n.º 194/2017, Série I de 2017-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2017-108265123), em vigor a partir de 2017-10-10",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2011-280965), em vigor a partir de 2017-02-01"
+   ],
+   "markdown": "###### Artigo 3.º — Pessoa com multideficiência profunda\n\nPara efeitos do presente diploma, considera-se pessoa com multideficiência profunda qualquer pessoa que, além de deficiência física ou motora, tenha cumulativamente deficiência sensorial, intelectual ou visual de carácter permanente, de que resulte um grau de incapacidade igual ou superior a 90 %.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2017 - Diário da República n.º 194/2017, Série I de 2017-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2017-108265123), em vigor a partir de 2017-10-10\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2011-280965), em vigor a partir de 2017-02-01"
+  },
+  "108224197": {
+   "fragment_id": "107538608",
+   "type": 11,
+   "heading": "Artigo 4.º — Legitimidade",
+   "in_force_from": "2017-10-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2017 - Diário da República n.º 194/2017, Série I de 2017-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2017-108265123), em vigor a partir de 2017-10-10"
+   ],
+   "markdown": "###### Artigo 4.º — Legitimidade\n\n1 - Pode usufruir do cartão de estacionamento previsto no presente diploma:\n\na) A pessoa com deficiência motora, física ou orgânica que, por motivo de alterações na estrutura e funções do corpo, congénitas ou adquiridas, tenha uma limitação funcional de caráter permanente, de grau igual ou superior a 60 %, avaliado pela Tabela Nacional de Incapacidades, desde que tal deficiência lhe dificulte a locomoção na via pública sem auxílio de outrem ou sem recurso a meios de compensação, incluindo próteses e ortóteses, cadeiras de rodas, muletas e bengalas ou no acesso ou utilização dos transportes públicos coletivos convencionais;\n\nb) A pessoa com deficiência intelectual e a pessoa com Perturbação do Espetro do Autismo (PEA) com um grau de incapacidade igual ou superior a 60 %;\n\nc) A pessoa com deficiência visual, com uma alteração permanente no domínio da visão igual ou superior a 95 %, avaliada pela Tabela Nacional de Incapacidades.\n\n2 - Podem, ainda, usufruir do cartão de estacionamento as pessoas com deficiência das Forças Armadas abrangidas pelo Decreto-Lei n.º 43/76, de 20 de Janeiro, ou as a elas equiparadas que sejam portadoras de incapacidade motora igual ou superior a 60%.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2017 - Diário da República n.º 194/2017, Série I de 2017-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2017-108265123), em vigor a partir de 2017-10-10"
+  },
+  "108224198": {
+   "fragment_id": "107538610",
+   "type": 11,
+   "heading": "Artigo 6.º — Procedimentos",
+   "in_force_from": "2017-10-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2017 - Diário da República n.º 194/2017, Série I de 2017-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2017-108265123), em vigor a partir de 2017-10-10",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2011-280965), em vigor a partir de 2017-02-01"
+   ],
+   "markdown": "###### Artigo 6.º — Procedimentos\n\n1 - Para efeitos do disposto no artigo anterior, pode o interessado, ou quem o represente, efectuar o pedido por meio electrónico disponível para o efeito ou presencialmente, em qualquer posto de atendimento do IMTT, I. P.\n\n2 - Com o pedido deve fazer-se prova da identificação e residência do interessado, designadamente através do cartão de cidadão, bem como da sua condição de pessoa com deficiência, mediante atestado médico de incapacidade multiúso, emitido nos termos do disposto no Decreto-Lei n.º 202/96, de 23 de outubro, alterado pelos Decretos-Leis n.os 174/97, de 19 de setembro, e 291/2009, de 12 de outubro.\n\n3 - Tratando-se de pessoas com deficiência das Forças Armadas ou das a elas equiparadas, a certificação do grau de incapacidade faz-se através do cartão de pessoa deficiente das Forças Armadas, emitido pelo Ministério da Defesa Nacional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2017 - Diário da República n.º 194/2017, Série I de 2017-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2017-108265123), em vigor a partir de 2017-10-10\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2011-280965), em vigor a partir de 2017-02-01"
+  }
+ }
+}

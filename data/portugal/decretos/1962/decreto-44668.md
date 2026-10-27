@@ -1,0 +1,176 @@
+---
+schema_version: '1.0'
+id: pt:dre:156199:por
+title: Decreto n.º 44668
+short_title: null
+summary: Dá nova redacção a vários artigos do Regulamento das Oficinas Gerais de Material Aeronáutico, aprovado pelo Decreto
+  n.º 40393
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Presidência do Conselho - Secretaria de Estado da Aeronáutica
+proposing_entity: null
+official_number: '44668'
+official_date: null
+publication_date: '1962-11-07'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 256/1962, Série I de 1962-11-07
+  number: '256'
+  series: I
+  supplement: null
+  pages: 1450 - 1451
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/11/25600/14501451.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '156199'
+  dre_path: /dr/detalhe/decreto/44668-1962-156199
+  internal: pt:dre:156199:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/44668-1962-156199
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44668-1962-156199
+  consolidated_url: null
+  retrieved_at: '2026-10-22T19:31:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 56219609ada9b428dc47040a17ac9c6bd746f8198b830b641fa8e65080558923
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:31:56Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:247388:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T19:31:56Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 44668
+
+Convindo introduzir reajustamentos nas normas que regem o funcionamento das Oficinas Gerais de Material Aeronáutico, estabelecidas pelo regulamento aprovado pelo [Decreto n.º 40393](https://diariodarepublica.pt/dr/detalhe/decreto/40393-1955-247388), de 22 de Novembro de 1955;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo único. Os artigos 8.º, 17.º, 18.º, 19.º e 22.º do Regulamento das Oficinas Gerais de Material Aeronáutico, aprovado pelo [Decreto n.º 40393](https://diariodarepublica.pt/dr/detalhe/decreto/40393-1955-247388), de 22 de Novembro de 1955, passam a ter as redacções que seguem:
+
+Art. 8.º São da responsabilidade do director o impulsionamento, a orientação geral e a coordenação de todos os serviços.
+
+Os serviços gerais são colocados na dependência de um oficial da Força Aérea, do activo ou na situação de reserva.
+
+Os serviços comerciais são colocados na dependência de um oficial da Força Aérea, em regra do quadro de engenheiros.
+
+Os serviços industriais são colocados na dependência de um oficial do quadro de engenheiros aeronáuticos da Força Aérea.
+
+Os serviços de contabilidade serão chefiados por um oficial do serviço de intendência e contabilidade da Força Aérea, do activo ou da reserva, ou por um técnico civil licenciado em Ciências Económicas e Financeiras.
+
+...
+
+Art. 17.º A 1.ª divisão compreende o gabinete de estudos, a organização e vigilância da produção, os orçamentos fabris, os armazéns industriais e a verificação, competindo ao chefe dos serviços industriais a sua gerência directa.
+
+§ 1.º O gabinete de estudos tem a seu cargo tudo o que respeita a planos e projectos da fabricação, bem como os assuntos relativos aos correspondentes trabalhos de investigação, em relação com o Laboratório Nacional de Engenharia Civil ou quaisquer outros institutos oficiais de investigação.
+
+§ 2.º Os serviços relativos à organização e vigilância da produção e à elaboração dos orçamentos fabris exercem-se por intermédio de uma secretaria, donde partem as ordens de abertura e fecho das encomendas, bem como as ordens e pedidos de trabalho preparatório necessários à laboração das estimativas e orçamentos fabris.
+
+Por intermédio destes serviços são fixadas e registadas as necessidades em mão-de-obra, matérias-primas e materiais de toda a espécie relativos aos trabalhos aprovados, em curso ou planeados.
+
+§ 3.º Os armazéns industriais tratam de tudo o que respeita a ferramenta, moldes, utensílios e acessórios de máquinas.
+
+§ 4.º A verificação tem a seu cargo o ensaio dos materiais adquiridos, no acto da sua recepção ou durante o seu armazenamento, e a inspecção técnica das operações de fabrico, das peças e obras acabadas e da sua montagem.
+
+Todas as normas de verificação e métodos de ensaio que podem exercer-se destacadamente junto das diversas oficinas da responsabilidade destes serviços.
+
+Art. 18.º A 2.ª divisão, que compreende os seguintes agrupamentos oficinais:
+
+a) Secção de estruturas de aviões;
+
+b) Secção de montagem de aviões;
+
+c) Secção de motores;
+
+d) Secção de acessórios;
+
+e) Secção de máquinas e ferramentas;
+
+f) Secção de equipamentos terrestres;
+
+é chefiada por um oficial engenheiro aeronáutico da Força Aérea, o qual tem a seu cargo a gerência directa da primeira destas secções.
+
+§ 1.º A secção de estruturas de aviões, com todos os trabalhos relativos à reparação e construção de células, inclui os trabalhos de serralharia, carpintaria, soldadura e chaparia.
+
+§ 2.º A secção de montagem de aviões, com todos os trabalhos relativos à revisão, inspecção e montagem de aviões, inclui os trabalhos de entelagem, plásticos, estofadores e pintura.
+
+§ 3.º A secção de motores trata de tudo o que respeita à revisão e reparação de motores e aos trabalhos de banco de ensaios.
+
+§ 4.º A secção de máquinas e ferramentas ocupa-se de tudo o que respeita à produção de peças e ferramentas que tenham de se fabricar no estabelecimento, dos tratamentos térmicos, fundição e forja.
+
+§ 5.º A secção de acessórios trata de tudo o que respeita à revisão e reparação de acessórios de aviões, incluindo hélices.
+
+§ 6.º A secção de equipamentos terrestres ocupa-se da reparação de equipamentos necessários ao apoio no solo dos aviões ou ao funcionamento de instalações fixas.
+
+Art. 19.º A 3.ª divisão, que compreende os seguintes agrupamentos oficinais:
+
+a) Secção de electricidade;
+
+b) Secção de rádio;
+
+c) Secção de radar;
+
+d) Secção de instrumentos;
+
+é chefiada por um oficial engenheiro electrotécnico da Força Aérea, que tem a seu cargo a gerência directa da primeira destas secções.
+
+§ 1.º A secção de electricidade ocupa-se de todos os trabalhos relativos à revisão das instalações eléctricas dos aviões, bem como de componentes eléctricos de aviões e motores, tendo ainda a seu cargo as instalações eléctricas industriais, designadamente de protecção e recondicionamento electroquímico de peças e a produção de oxigénio e hidrogénio.
+
+§ 2.º A secção de rádio comporta tudo o que respeita a equipamentos de comunicações rádio, quer dos aviões, quer das instalações terrestres dos serviços, unidades e aeródromos da Força Aérea.
+
+§ 3.º A secção de radar comporta tudo o que respeita a equipamentos de radar e dispositivos electrónicos especiais, quer dos aviões, quer de instalações de terra.
+
+§ 4.º A secção de instrumentos ocupa-se de todos os trabalhos relativos à revisão dos instrumentos instalados a bordo dos aviões, bem como pertencentes a instalações fixas ou equipamentos terrestres.
+
+...
+
+Art. 22.º A direcção do estabelecimento compete a um director, oficial engenheiro aeronáutico ou electrotécnico da Força Aérea, nomeado pelo Secretário de Estado da Aeronáutica. Na sua ausência ou impedimento, a direcção interina compete ao subdirector, oficial engenheiro aeronáutico ou electrotécnico da Força Aérea, que é também nomeado pelo Secretário de Estado da Aeronáutica, mediante proposta do director.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 7 de Novembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Kaulza Oliveira de Arriaga.

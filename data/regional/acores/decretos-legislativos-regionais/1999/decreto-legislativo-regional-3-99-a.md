@@ -1,0 +1,165 @@
+---
+schema_version: '1.0'
+id: pt:dre:197150:por
+title: Decreto Legislativo Regional n.º 3/99/A
+short_title: null
+summary: Adapta o processo de regularização, instituído pelo Decreto-Lei n.º 81-A/96, de 21 de Junho, do pessoal admitido
+  ao abrigo dos Programas MEFE e PROSA dos serviços da administração regional da Região Autónoma dos Açores
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 3/99/A
+official_date: null
+publication_date: '1999-01-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 16/1999, Série I-A de 1999-01-20
+  number: '16'
+  series: I
+  supplement: null
+  pages: 325 - 327
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/01/016a00/03250327.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/3/1999/01/20/a/dre/pt/html
+  oj: null
+  dre: '197150'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/3-1999-197150
+  internal: pt:dre:197150:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1999-197150
+  metadata_url: https://data.dre.pt/eli/declegreg/3/1999/01/20/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1999-197150
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:19:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0555aa9ae999c4e54d5c0df42f26bb8213addf2c11653e1c486d1ffcce911c0d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:11Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Administração Regional
+- Concurso
+- Contrato de Trabalho a Prazo
+- Função Pública
+- Integração de Trabalhadores
+- Programa Medidas Especiais de Fomento do Emprego
+- Prosa
+relationships:
+- type: amended_by
+  target: pt:dre:346707:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:346707:por
+  label: "Alterado o art. 2.º pelo DLR.24/99/A.1999.07.09.ALR-RAA DR.IS-A [177] DE 31/JUL/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/24-1999-346707
+  date: '1999-07-09'
+- type: cites
+  target: pt:dre:142112:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/195/1997/07/31/p/dre
+- type: cites
+  target: pt:dre:437814:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/256/1998/08/14/p/dre
+- type: cites
+  target: pt:dre:485381:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/81-a/1996/06/21/p/dre
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:19:11Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 3/99/A
+
+Processo de regularização, instituído pelo [Decreto-Lei n.º 81-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-a-1996-485381), de 21 de Junho, do pessoal admitido ao abrigo dos Programas MEFE e PROSA.
+
+Pelo [Decreto-Lei n.º 81-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-a-1996-485381), de 21 de Junho, foi dado início a um processo de regularização de situações de emprego na Administração Pública, caracterizado pela satisfação de necessidades permanentes dos serviços através da constituição de formas de vinculação precária.
+
+Com este diploma, reconhecido como primeiro passo de um processo mais vasto e complexo, completado pelos Decretos-Leis n.os [195/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1997-142112), de 31 de Julho, e [256/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1998-437814), de 14 de Agosto, consagrou-se um regime legal que extravasou as regras gerais em vários aspectos, afastando, entre outras, a regra da liberdade de candidaturas aos concursos, o princípio de abertura de concursos face à existência real de vagas, o afastamento do período probatório ou a necessidade de estágio para ingresso em certas carreiras.
+
+Ora, a razão de ser da consagração legislativa deste tratamento especial teve como base o interesse público de terminar de vez com situações de trabalhadores que, «sem título jurídico adequado», vinham satisfazendo necessidades permanentes dos serviços com sujeição à hierarquia e horário completo.
+
+Nos serviços da administração regional da Região Autónoma dos Açores o processo de regularização veio abranger várias centenas de trabalhadores.
+
+Verifica-se, no entanto, que muitos serviços da administração regional foram admitindo pessoal, ao abrigo de medidas específicas como sejam Medidas Especiais de Fomento ao Emprego (MEFE) e Programa Social de Ocupação de Adultos (PROSA) criados respectivamente pelas Resoluções n.os 125/93, de 11 de Novembro, e 29/97, de 13 de Março, pessoal esse a quem foram atribuídas as funções de assegurar a satisfação das necessidades permanentes dos serviços, em substituição de outros trabalhadores que já não era possível manter ou contratar dadas as restrições legais vigentes em matéria de contratação.
+
+Assim, e tendo em vista os objectivos que presidiram à publicação do [Decreto-Lei n.º 81-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-a-1996-485381), de 21 de Junho, como sejam, por um lado, o de resolver as situações anómalas da existência de trabalhadores cuja forma de vinculação não estava legalmente adequada às necessidades dos serviços que vinham assegurando e, por outro, acautelar o interesse público do normal funcionamento dos serviços pela manutenção desses trabalhadores, mal se compreenderia que as situações dos trabalhadores referidos no parágrafo anterior não pudessem igualmente ser objecto do processo de regularização instituído, dado obedecerem às mesmas razões objectivas que levaram à respectiva consagração.
+
+Com efeito, face ao número de trabalhadores que, admitidos ao abrigo das medidas MEFE e PROSA nos serviços da administração regional da Região Autónoma dos Açores, têm vindo a assegurar a satisfação de necessidades permanentes dos serviços com sujeição à hierarquia e horário completo, os objectivos tidos em vista com a regularização só serão cabalmente realizados se essas situações tiverem um adequado tratamento legislativo face à dimensão que esta realidade tem na administração regional dos Açores.
+
+Assim, a Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo, o seguinte:
+
+###### Artigo 1.º
+
+A aplicação do [Decreto-Lei n.º 81-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-a-1996-485381), de 21 de Junho, com o desenvolvimento introduzido pelo [Decreto-Lei n.º 195/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1997-142112), de 31 de Julho, e do [Decreto-Lei n.º 256/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1998-437814), de 14 de Agosto, aos serviços da administração regional autónoma dos Açores, bem como aos fundos e aos institutos públicos na modalidade de serviços personalizados da mesma Região, faz-se de acordo com as adaptações constantes do presente diploma.
+
+###### Artigo 2.º
+
+1 - O regime de regularização instituído pelos diplomas referidos no artigo anterior aplica-se ainda:
+
+a) Ao pessoal que entre 10 de Janeiro e 26 de Junho de 1996 esteve ou estava ao abrigo do programa criado pela Resolução n.º 125/93, de 11 de Novembro, e se encontrava a desempenhar funções correspondentes a necessidades permanentes dos serviços, com subordinação hierárquica e horário completo;
+
+b) Ao pessoal admitido ao abrigo do programa a que se refere a Resolução n.º 29/97, de 13 de Março, e que, no âmbito do mesmo, possua 12 meses de serviço continuado e se encontrava a desempenhar funções correspondentes a necessidades permanentes dos serviços, com subordinação hierárquica e horário completo.
+
+2 - O pessoal a que se refere a alínea a) do número anterior só poderá ser objecto de regularização desde que, no momento da entrada em vigor do presente diploma, se encontre a prestar serviço, a qualquer título, nos serviços a que se reporta o artigo 1.º, com subordinação hierárquica e horário completo.
+
+3 - A aferição do tempo de serviço a que se refere a alínea b) do n.º 1 deste artigo é reportada até 30 de Setembro de 1998, independentemente de o pessoal nesta data estar ou não a prestar serviço.
+
+###### Artigo 3.º
+
+Os concursos necessários à integração do pessoal a que se refere o artigo anterior serão abertos no mês a seguir à data em que aquele venha a completar três anos de serviço.
+
+###### Artigo 4.º
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 27 de Novembro de 1998.
+
+O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.
+
+Assinado em Angra do Heroísmo em 22 de Dezembro de 1998.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

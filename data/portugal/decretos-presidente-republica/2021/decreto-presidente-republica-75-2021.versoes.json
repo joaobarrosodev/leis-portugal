@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:173732847:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-presidente-republica/2021-174126186",
+ "dre_path": "/dr/detalhe/decreto-presidente-republica/75-2021-173732847",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-11-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "174165779"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:174126177:por",
+     "title": "Declaração de Retificação n.º 37/2021",
+     "published": "2021-11-10",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/37-2021-174126177",
+     "date": "2021-11-08"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "174165779": {
+   "fragment_id": "174126187",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-11-08",
+   "changed_by": [],
+   "markdown": "Decreto do Presidente da República n.º 75/2021\n\nde 3 de novembro\n\nSumário: Nomeia para o cargo de  Comandante da força naval atribuída à Operação Atalanta, da União Europeia, do Capitão-de-Mar-e-Guerra da classe de marinha João Paulo Silva Pereira, no período compreendido entre 2 de dezembro de 2021 e 17 de março de 2022."
+  }
+ }
+}

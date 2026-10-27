@@ -1,0 +1,852 @@
+---
+schema_version: '1.0'
+id: pt:dre:681606:por
+title: Despacho Normativo n.º 147/91
+short_title: null
+summary: Atribui subsídios para a construção de sedes de juntas de freguesia
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 147/91
+official_date: null
+publication_date: '1991-08-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 180/1991, Série I-B de 1991-08-07
+  number: '180'
+  series: I
+  supplement: null
+  pages: 3942 - 3946
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/08/180b00/39423946.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/147/1991/08/07/p/dre/pt/html
+  oj: null
+  dre: '681606'
+  dre_path: /dr/detalhe/despacho-normativo/147-1991-681606
+  internal: pt:dre:681606:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/147-1991-681606
+  metadata_url: https://data.dre.pt/eli/despnorm/147/1991/08/07/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/147-1991-681606
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:49:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a2bebee6bf7b3a60b2487f1b8dee8c50d239a8b32c8280d6deb2dccea4241878
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:49:29Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral da Administração Autárquica
+- Financiamento
+- Instalação de Serviços
+- Junta de Freguesia
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:469072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661715:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:49:29Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 147/91
+
+No Orçamento do Estado para o ano de 1991 encontra-se inscrita a verba de 450000 contos destinada à atribuição de subsídios para a construção de sedes de juntas de freguesia.
+
+Por despacho do Secretário de Estado da Administração Local e do Ordenamento do Território de 3 de Abril de 1990, foi determinada a realização de uma consulta a todas as assembleias municipais do continente, com vista à elaboração de um programa de financiamento de construção de edifícios para as sedes de juntas de freguesia até final do actual mandato autárquico, tendo sido, nesse mesmo ano, efectuada uma atribuição.
+
+O presente despacho normativo vem dar concretização a uma nova atribuição, no respeito por princípios de rigor, isenção e transparência que sempre têm prevalecido em todo o processo e assente em critérios objectivos, que expressamente se enunciam:
+
+Não atribuir auxílio financeiro às freguesias objecto de subsídio já anteriormente concedido;
+
+Contemplar todas as freguesias situadas em primeira prioridade e, ainda, adicionalmente, outras freguesias em número proporcional às carências demonstradas, respeitando-se as prioridades definidas pelos próprios municípios.
+
+Foi também decidido contemplar, no Município de Loures, a situação de um conjunto de cinco freguesias que apenas pretendem comparticipação para pequenas obras de adaptação/alteração a afectuar nos actuais edifícios e cujo custo total não ultrapassa os 6500 contos.
+
+Assim são contempladas, na distribuição agora aprovada, 218 freguesias, concedendo-se desde já, a título de adiantamento 35% do montante global do subsídio.
+
+Nestes termos, ao abrigo do artigo 47.º da [Lei n.º 65/90](https://diariodarepublica.pt/dr/detalhe/lei/65-1990-469072), de 28 de Dezembro, e do n.º 1 do artigo 94.º do [Decreto-Lei n.º 100/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1984-661715), de 29 de Março, determina-se o seguinte:
+
+1 - São financiadas, nos termos do presente despacho, as freguesias constantes do quadro anexo.
+
+2 - O limite máximo da verba a atribuir por freguesia será de 2500 contos, podendo ir até 3500 contos, no caso de freguesias com 5000 ou mais eleitores.
+
+3 - As transferências das verbas concedidas a cada freguesia serão processadas de acordo com o seguinte escalonamento:
+
+a) 1.ª prestação - 35% da verba máxima a atribuir à freguesia, de imediato;
+
+b) 2.ª prestação - mais 50%, mediante a apresentação pela junta de freguesia de termo de responsabilidade, assinado pelo presidente da câmara municipal respectiva, justificando o adiantamento dos 35% recebidos;
+
+c) 3.ª prestação - os restantes 15%, contra a apresentação de idêntico termo de responsabilidade, justificativo do dispêndio efectuado e comprovativo do término da obra;
+
+d) No caso de o subsídio se destinar à aquisição de edifício, não se aplica o estipulado nas alíneas b) e c), havendo lugar apenas a uma 2.ª prestação de 65%, contra a apresentação de cópia da escritura de aquisição, ou de contrato-promessa de compra e venda, de acordo com o valor da aquisição e os limites máximos estabelecidos no n.º 2.
+
+4 - A Direcção-Geral da Administração Autárquica acompanhará todo o processo e coordenará e processará os pagamentos devidos, nos termos do presente despacho normativo.
+
+Ministério do Planeamento e da Administração do Território, 11 de Julho de 1991. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.
+
+Quadro a que se refere o n.º 1 do Despacho Normativo n.º 147/91
+
+Aveiro:
+
+Anadia:
+
+Arcos;
+
+Nossa Senhora do Ó de Aguim;
+
+Arouca:
+
+Mansores;
+
+Várzea;
+
+Feira:
+
+Escapães;
+
+Mozelos;
+
+São Paio de Oleiros;
+
+Oliveira de Azeméis:
+
+Cesar;
+
+Sever do Vouga:
+
+Couto de Esteves;
+
+Vale de Cambra:
+
+Roge.
+
+Beja:
+
+Mértola:
+
+Espírito Santo;
+
+Odemira:
+
+Bicos;
+
+Serpa:
+
+Aldeia Nova de São Bento.
+
+Braga:
+
+Barcelos:
+
+Minhotães;
+
+Oliveira;
+
+Quintiães;
+
+Remelhe;
+
+Ucha;
+
+Aborim;
+
+Aguiar;
+
+Carvalhal;
+
+Braga:
+
+Penso (São Estêvão);
+
+Braga (São João do Souto);
+
+Este (São Pedro);
+
+Cabeceiras de Basto:
+
+Cabeceiras de Basto;
+
+Celorico de Basto:
+
+Gémeos;
+
+Veade;
+
+Esposende:
+
+Mar;
+
+Gemeses;
+
+Fafe:
+
+Fareja;
+
+Medelo;
+
+Guimarães:
+
+Prazins (Santo Tirso);
+
+Vizela (São Paio);
+
+Pinheiro;
+
+Calvos;
+
+Ponte;
+
+Donim;
+
+Guardizela;
+
+Póvoa de Lanhoso:
+
+Sobradelo da Goma;
+
+Calvos;
+
+Terras de Bouro:
+
+Carvalheira;
+
+Vila Nova de Famalicão:
+
+Requião;
+
+Abade de Vermoim;
+
+Arnoso (Santa Eulália);
+
+Vila Verde:
+
+Carreiras (Saio Miguel);
+
+Covas;
+
+Dossãos;
+
+Escariz (São Mamede);
+
+Geme.
+
+Bragança:
+
+Bragança:
+
+São Pedro de Sarracenos;
+
+Carrazeda de Ansiães:
+
+Marzagão;
+
+Lavandeira;
+
+Macedo de Cavaleiros:
+
+Vinhas;
+
+Vale da Porca;
+
+Vilar do Monte;
+
+Castelões;
+
+Mirandela:
+
+Alvites;
+
+Mogadouro:
+
+São Martinho do Peso;
+
+Mogadouro;
+
+Saldanha;
+
+Torre de Moncorvo:
+
+Lousa;
+
+Castedo;
+
+Vila Flor:
+
+Santa Comba de Vilariça;
+
+Vimioso:
+
+Angueira;
+
+Vinhais:
+
+Nunes;
+
+Moimenta;
+
+Vila Verde.
+
+Castelo Branco:
+
+Fundão:
+
+Castelejo;
+
+Mata da Rainha;
+
+Capinha;
+
+Idanha-a-Nova:
+
+Medelim;
+
+Sertã:
+
+Carvalhal.
+
+Coimbra:
+
+Arganil:
+
+Secarias;
+
+Sarzedo;
+
+Cantanhede:
+
+Outil;
+
+Portunhos;
+
+Coimbra:
+
+Arzila;
+
+São Martinho do Bispo;
+
+Ameal;
+
+Condeixa-a-Nova:
+
+Bem da Fé;
+
+Figueira da Foz:
+
+Santana;
+
+Oliveira do Hospital:
+
+Nogueira do Cravo:
+
+Meruje;
+
+Pampilhosa da Serra:
+
+Janeiro de Baixo;
+
+Penacova:
+
+Carvalho;
+
+Soure:
+
+Alfarelos;
+
+Tábua:
+
+Covelo.
+
+Évora:
+
+Alandroal:
+
+Terena (São Pedro);
+
+Arraiolos:
+
+Vimieiro;
+
+Estromoz:
+
+Estremoz (Santa Maria);
+
+Montemor-o-Novo:
+
+Foros de Vale de Figueira;
+
+Portel:
+
+Monte do Trigo.
+
+Faro:
+
+Silves:
+
+Armação de Pêra.
+
+Guarda:
+
+Aguiar da Beira:
+
+Forninhos;
+
+Almeida:
+
+Freixo;
+
+Junça;
+
+Castelo Bom;
+
+Celorico da Beira:
+
+Vale de Azares;
+
+Prados;
+
+Fornos de Algodres:
+
+Sobral Pichorro;
+
+Gouveia:
+
+Figueiró da Serra;
+
+Guarda:
+
+Vila Franca do Deão;
+
+Meios;
+
+Aldeia do Bispo;
+
+Meda:
+
+Coriscada;
+
+Sabugal:
+
+Seixo do Côa;
+
+Baraçal;
+
+Bismula;
+
+Seia:
+
+Loriga;
+
+Torrozelo;
+
+Trancoso:
+
+Fiães;
+
+Moreira de Rei;
+
+Terrenho;
+
+Vila Nova de Foz Côa:
+
+Sebadelhe;
+
+Castelo Melhor.
+
+Leiria:
+
+Caldas da Rainha:
+
+Nadadouro;
+
+Salir de Matos;
+
+Pombal:
+
+Ilha;
+
+Porto de Mós:
+
+Serro Ventoso.
+
+Lisboa:
+
+Alenquer:
+
+Ota;
+
+Azambuja:
+
+Manique do Intendente;
+
+Lisboa:
+
+São Paulo;
+
+Santo Condestável;
+
+Loures:
+
+Bobadela;
+
+Famões;
+
+Prior Velho;
+
+Ramada;
+
+Santo António dos Cavaleiros;
+
+Lourinhã:
+
+Reguengo Grande;
+
+Sintra:
+
+São Pedro de Penaferrim;
+
+Torres Vedras;
+
+Dois Portos;
+
+Vila Franca de Xira:
+
+Calhandriz.
+
+Porto:
+
+Baião:
+
+Loivos da Ribeira;
+
+Felgueiras:
+
+Penacova;
+
+Aião;
+
+Gondomar:
+
+Baguim do Monte (Rio Tinto);
+
+Lousada:
+
+Lodares;
+
+Macieira;
+
+Marco de Canaveses:
+
+Maureles;
+
+Paços de Gaiolo;
+
+Paços de Ferreira:
+
+Modelos;
+
+Paredes:
+
+Cristelo;
+
+Recarei;
+
+Penafiel:
+
+Galegos;
+
+Cabeça Santa;
+
+Póvoa de Varzim:
+
+Terroso;
+
+Vila do Conde:
+
+Touguinha;
+
+Vila Nova de Gaia:
+
+Canidelo;
+
+Seixezelo.
+
+Santarém:
+
+Abrantes:
+
+Fontes;
+
+Concavada;
+
+Benavente:
+
+Samora Correia;
+
+Chamusca:
+
+Pinheiro Grande;
+
+Coruche:
+
+Fajarda;
+
+Ferreira do Zêzere:
+
+Paio Mendes;
+
+Ourém:
+
+Atouguia;
+
+Santarém:
+
+Vaqueiros;
+
+Arneiro das Milhariças;
+
+Tomar:
+
+Casais;
+
+Asseiceira;
+
+Torres Novas:
+
+Pedrógão.
+
+Setúbal:
+
+Almada:
+
+Trafaria.
+
+Viana do Castelo:
+
+Arcos de Valdevez:
+
+Távora (São Vicente);
+
+Álvora;
+
+Giela;
+
+Monção:
+
+Luzio;
+
+Paredes de Coura:
+
+Vascões;
+
+Mozelos;
+
+Ponte da Barca:
+
+Lavradas;
+
+Cuide de Vila Verde;
+
+Ponte de Lima:
+
+Labruja;
+
+Boalhosa;
+
+Gondufe;
+
+Valença:
+
+Ganfei;
+
+Cristelo Covo;
+
+Viana do Castelo:
+
+Alvarães;
+
+Perre.
+
+Vila Real:
+
+Alijó:
+
+Favaios;
+
+Boticas:
+
+Granja;
+
+Chaves:
+
+Loivos;
+
+Montalegre;
+
+Tourém;
+
+Ferral;
+
+Peso da Régua:
+
+Godim;
+
+Sabrosa:
+
+São Martinho de Antas;
+
+Valpaços:
+
+Fornos do Pinhal;
+
+Serapicos;
+
+Vila Pouca de Aguiar:
+
+Soutelo de Aguiar;
+
+Gouvães da Serra;
+
+Vila Real:
+
+Vilarinho de Samardã;
+
+Guiães.
+
+Viseu:
+
+Armamar:
+
+Aldeias;
+
+São Cosmado;
+
+Castro Daire:
+
+Monteiras;
+
+Cinfães:
+
+Moimenta;
+
+Ferreiros de Tendais;
+
+Mangualde:
+
+Moimenta de Maceira Dão;
+
+São João da Fresta;
+
+Moimenta da Beira:
+
+Segões;
+
+Pêra Velha;
+
+Oliveira de Frades:
+
+Arca;
+
+Penalva do Castelo:
+
+Pindo;
+
+Germil;
+
+Penedono:
+
+Beselga;
+
+Resende:
+
+São Cipriano;
+
+São João da Pesqueira:
+
+Castanheiro do Sul:
+
+Pereiros;
+
+São Pedro do Sul:
+
+São Félix;
+
+Sátão:
+
+São Miguel de Vila Boa;
+
+Sernancelhe:
+
+Vila da Ponte;
+
+Cunha;
+
+Tabuaço:
+
+Valença do Douro;
+
+Tarouca:
+
+Gouviães;
+
+Mondim da Beira;
+
+Tondela:
+
+Mouraz;
+
+Ferreirós do Dão:
+
+Viseu:
+
+Bodiosa;
+
+Cavernães;
+
+Vouzela:
+
+Fataunços.

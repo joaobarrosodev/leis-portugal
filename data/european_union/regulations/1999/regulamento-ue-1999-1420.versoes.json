@@ -1,0 +1,1340 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31999R1420:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999R1420-20050211",
+ "dre_path": null,
+ "source_lastmod": "2005-02-11",
+ "versions": [
+  {
+   "date": "1999-07-01",
+   "future": false,
+   "celex": "31999R1420",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "762dbcd1f513f881",
+    "7d5237ab4eeea8c4",
+    "08920c7d83eb4bc2",
+    "7999fc71072a48c6",
+    "f7ac85c79bce3a6a",
+    "26044b27585a58e7",
+    "bb967b0c1e4c62c1",
+    "ee4ad332aa188b74",
+    "c1882469cfaba7a7"
+   ]
+  },
+  {
+   "date": "2005-02-11",
+   "future": false,
+   "celex": "01999R1420-20050211",
+   "acts": [
+    {
+     "id": "eu:celex:32000R1208:por",
+     "title": "M1",
+     "published": null,
+     "celex": "32000R1208"
+    },
+    {
+     "id": "eu:celex:32000R2630:por",
+     "title": "REGULAMENTO (CE) N. o 2630/2000 DA COMISSÃO de 30 de Novembro de 2000",
+     "published": null,
+     "celex": "32000R2630"
+    },
+    {
+     "id": "eu:celex:32001R0077:por",
+     "title": "REGULAMENTO (CE) N. o 77/2001 DA COMISSÃO de 5 de Janeiro de 2001",
+     "published": null,
+     "celex": "32001R0077"
+    },
+    {
+     "id": "eu:celex:32001R1800:por",
+     "title": "REGULAMENTO (CE) N. o 1800/2001 DA COMISSÃO de 13 de Setembro de 2001",
+     "published": null,
+     "celex": "32001R1800"
+    },
+    {
+     "id": "eu:celex:32001R2243:por",
+     "title": "REGULAMENTO (CE) N. o 2243/2001 DA COMISSÃO de 16 de Novembro de 2001",
+     "published": null,
+     "celex": "32001R2243"
+    },
+    {
+     "id": "eu:celex:32003R2118:por",
+     "title": "REGULAMENTO (CE) N. o 2118/2003 DA COMISSÃO de 2 de Dezembro de 2003",
+     "published": null,
+     "celex": "32003R2118"
+    },
+    {
+     "id": "eu:celex:32005R0105:por",
+     "title": "REGULAMENTO (CE) N. o 105/2005 DA COMISSÃO de 17 de Novembro de 2004",
+     "published": null,
+     "celex": "32005R0105"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera ANEXO A",
+    "Altera ANEXO B",
+    "Adita Países e territórios que comunicaram à Comissão que não desejam receber transferências de determinados tipos de resíduos destinados a valorização incluídos no anexo II do Regulamento (CEE) n.º 259/93 do Conselho",
+    "Adita ALBÂNIA",
+    "Adita ANDORRA:",
+    "Adita ANTÍGUA E BARBUDA:",
+    "Adita ARUBA:",
+    "Adita BAAMAS:",
+    "Adita BARBADOS:",
+    "Adita BARÉM",
+    "Adita BELIZE:",
+    "Adita BENIM:",
+    "Adita BUTÃO:",
+    "Adita BOLÍVIA:",
+    "Adita BOTSUANA:",
+    "Adita BRASIL",
+    "Adita BURKINA FASO",
+    "Adita BURUNDI",
+    "Adita CAMARÕES",
+    "Adita CABO VERDE",
+    "Adita CATAR",
+    "Adita COLÔMBIA",
+    "Adita COMORES, REPÚBLICA FEDERAL ISLÂMICA:",
+    "Adita COSTA RICA:",
+    "Adita DOMÍNICA:",
+    "Adita REPÚBLICA DOMINICANA",
+    "Adita JIBUTI",
+    "Adita EGIPTO:",
+    "Adita FIJI",
+    "Adita GÂMBIA",
+    "Adita GANA",
+    "Adita GRANADA",
+    "Adita GUIANA",
+    "Adita JAMAICA",
+    "Adita QUIRIBATI",
+    "Adita HAITI",
+    "Adita HONDURAS",
+    "Adita KUWAIT",
+    "Adita LÍBANO",
+    "Adita LÍBIA",
+    "Adita MALAVI",
+    "Adita MALDIVAS",
+    "Adita MALI",
+    "Adita MOLDÁVIA",
+    "Adita MONGÓLIA",
+    "Adita MIANMAR",
+    "Adita NAMÍBIA",
+    "Adita NICARÁGUA",
+    "Adita NÍGER",
+    "Adita NIGÉRIA",
+    "Adita PAQUISTÃO",
+    "Adita PAPUÁSIA NOVA GUINÉ",
+    "Adita PARAGUAI",
+    "Adita PERU",
+    "Adita ROMÉNIA",
+    "Adita SÃO TOMÉ E PRÍNCIPE",
+    "Adita ARÁBIA SAUDITA",
+    "Adita SENEGAL",
+    "Adita SEICHELES",
+    "Adita SINGAPURA",
+    "Adita SÃO CRISTOVÃO E NEVIS",
+    "Adita SANTA LÚCIA",
+    "Adita SÃO VICENTE E GRANADINAS",
+    "Adita TANZÂNIA",
+    "Adita TUNÍSIA",
+    "Adita UGANDA",
+    "Adita USBEQUISTÃO",
+    "Adita TUVALU",
+    "Adita VANUATU",
+    "Adita CIDADE DO VATICANO",
+    "Adita SAMOA OCIDENTAL",
+    "Adita Países e territórios que não responderam às notificações da Comissão relativas às transferências de certos tipos de resíduos destinados a valorização que figuram no Anexo II do Regulamento (CEE) n.º 259/93 do Conselho",
+    "Adita AFEGANISTÃO",
+    "Adita ARGÉLIA",
+    "Adita ANGOLA",
+    "Adita EMIRATOS ÁRABES UNIDOS",
+    "Adita ARMÉNIA",
+    "Adita AZERBAIJÃO",
+    "Adita BANGLADECHE",
+    "Adita BRUNEI",
+    "Adita CAMBOJA",
+    "Adita EQUADOR",
+    "Adita EL SALVADOR",
+    "Adita GUINÉ EQUATORIAL",
+    "Adita ERITREIA",
+    "Adita ETIÓPIA",
+    "Adita ANTIGA REPÚBLICA JUGOSLAVA DA MACEDÓNIA",
+    "Adita GABÃO",
+    "Adita GUATEMALA",
+    "Adita GUINÉ",
+    "Adita COSTA DO MARFIM",
+    "Adita CAZAQUISTÃO",
+    "Adita QUIRGUIZISTÃO",
+    "Adita LAOS",
+    "Adita LESOTO",
+    "Adita MARROCOS",
+    "Adita MOÇAMBIQUE",
+    "Adita NEPAL",
+    "Adita OMÃ",
+    "Adita PANAMÁ",
+    "Adita FEDERAÇÃO RUSSA",
+    "Adita ILHAS SALOMÃO",
+    "Adita SUDÃO",
+    "Adita SUAZILÂNDIA",
+    "Adita SÍRIA",
+    "Adita TAJIQUISTÃO",
+    "Adita TONGA",
+    "Adita TURQUEMENISTÃO",
+    "Adita VENEZUELA",
+    "Adita IÉMEN",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "ae078ad86eb0a1a3",
+    "7553613143abcc89",
+    "9ca70c7d47cbf1da",
+    "fdd783c89bf1dd20",
+    "9873ac836f94d679",
+    "9dbc6f0930faa092",
+    "484c2cfcea05c257",
+    "c5f705ca1c5a3e34",
+    "8b89abed73dd3ab8",
+    "3056e4fc1a62582a",
+    "f4585cfc66685fc5",
+    "2145b5e2db85ead6",
+    "84562ff1a0f3e785",
+    "9c0fa4d18af21174",
+    "69e42786165b5a74",
+    "2e4adda70e6d030b",
+    "cc73b2f06c428445",
+    "f335a9ab6df07e08",
+    "75a8021addd0823b",
+    "d3b8c06032ec4f5e",
+    "36fd1d305cbc90c2",
+    "0626d98eec4d5105",
+    "bb0d5daebc00f589",
+    "c1245296ceccb944",
+    "2b9d0a07697cfad7",
+    "c3fc5aeae5ff2d78",
+    "d3c8fee417a366b4",
+    "c4cd1c7f831c9f70",
+    "c9cf03cee9e58832",
+    "37f87a760debc73a",
+    "a66dd71824f0aa3f",
+    "883d27d77e7d805f",
+    "5a8694815f5f535c",
+    "a12ae78f73a581d0",
+    "b3148ba2f33bb3ad",
+    "0e03fe1d45672511",
+    "44cdeee3c581469d",
+    "d486d74616d6a2c6",
+    "27946a24eb4a9139",
+    "345fe41cebf63a52",
+    "51eb3477a52947d0",
+    "24ab5e45ae265e2c",
+    "083f5e852d83f59e",
+    "f8efae786e3b0f06",
+    "5360d7d421b22216",
+    "cb0e5ba4c8df8f7d",
+    "a8f78f87c37e9ee6",
+    "50d4804c85eca25a",
+    "301505e9a246cd4c",
+    "5fb4a4b8b3a92bce",
+    "5a8ea1088f699814",
+    "a646e03de25c414c",
+    "cf291f9714a4221b",
+    "507ea02dc0408afa",
+    "9ab2da539c949706",
+    "f45eb8a2b6119653",
+    "840352011365e273",
+    "633fcd1aab13b189",
+    "d53cf152d01de522",
+    "06dba59540e99e17",
+    "e3b9cc801bf5bcd0",
+    "7b9402911b953d31",
+    "6a8620ea3bc5355e",
+    "3680d3a46c6e2674",
+    "21c4bfde93dfc0a1",
+    "0311def83c5de0ec",
+    "5b6a7323ebaa218d",
+    "941bb8b113165d47",
+    "7d85e7752db56b1c",
+    "4431acc7ac5da85e",
+    "38ad47f222e1bcc4",
+    "2f31315e6fcc33b8",
+    "8a0b92765de5f38c",
+    "158c0aacda44293d",
+    "f42683d256afcfd0",
+    "c7049ea891f260a2",
+    "ac830d0ee536b96d",
+    "c13b99ba13d00e28",
+    "4c967a935fdaa240",
+    "f6b5826a584ea607",
+    "65237881de562d3f",
+    "ccbfe9bf51cd5ebd",
+    "9babe86638eddbe4",
+    "5de521ace25235b2",
+    "b49c94f42e412600",
+    "5d1b5e410864f139",
+    "621160cbd76aa7c1",
+    "996a51b9ad545eb8",
+    "db91d8fbb38e6bbb",
+    "ede017ac7b494c93",
+    "bf8066033c95fe27",
+    "789ee6941935e9f0",
+    "1046b03e9b79aacd",
+    "6de19af431668f65",
+    "47a26ea63fbf50da",
+    "b2599cccece51bf8",
+    "36352113edc902a1",
+    "4f4d4d0faa50ad1e",
+    "da61695227116892",
+    "cc39ee0c445e0f47",
+    "a6773bf0582171c6",
+    "2cf074b963413534",
+    "ed5a2d9746f3030f",
+    "a13abf4ce1a061c1",
+    "849be1db64bb1fbd",
+    "d82627f69fbdabee",
+    "65b83a90bde8ed1b",
+    "053859581845ae1b",
+    "54a8c9f7349b0b1b",
+    "703644893a3b2c25",
+    "c9429dbdb70c21b3",
+    "fc138cc15e7ea619",
+    "f7cf93eaecf8732c",
+    "487c129ecb709ff2",
+    "02f57aba4bc9d314",
+    "4bc0c6ae909a1cff",
+    "8fc2fd506bcb27c0",
+    "3cb51a37a534bb87",
+    "975976eb9e9c049e"
+   ]
+  }
+ ],
+ "fragments": {
+  "762dbcd1f513f881": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n° 1420/1999 do Conselho, de 29 de Abril de 1999, que estabelece regras e procedimentos comuns aplicáveis às transferências de determinados tipos de resíduos para certos países não membros da OCDE** *Jornal Oficial nº L 166 de 01/07/1999 p. 0006 - 0028*\n\nREGULAMENTO (CE) N.o 1420/1999 DO CONSELHO\n\nde 29 de Abril de 1999\n\nque estabelece regras e procedimentos comuns aplicáveis às transferências de determinados tipos de resíduos para certos países não membros da OCDE\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente o seu artigo 113.o e o n.o 1 do seu artigo 130.o S,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Comité Económico e Social(2),\n\nDeliberando nos termos do artigo 189.oC do Tratado(3)\n\n(1) Considerando que o n.o 3, alínea a), do artigo 1.o do Regulamento (CEE) n.o 259/93 do Conselho, de 1 de Fevereiro de 1993, relativo à fiscalização e ao controlo das transferências de resíduos no interior, à entrada e à saída da Comunidade(4), exclui do seu âmbito de aplicação as transferências de resíduos exclusivamente destinados a valorização e incluídos no seu anexo II, com as excepções previstas designadamente nos n.os 1, 2 e 3 do artigo 17.o;\n\n(2) Considerando que, nos termos do n.o 1 do artigo 17.o do Regulamento (CEE) n.o 259/93, a Comissão notificou todos os países aos quais não é aplicável a decisão do Conselho da OCDE, de 30 de Março de 1992, do controlo das transferências transfronteiriças de resíduos destinados a valorização, da lista de resíduos incluída no anexo II daquele regulamento, tendo solicitado confirmação de que esses resíduos não estão sujeitos a controlo no país de destino ou pedido que esses países indiquem se esses resíduos devem ser sujeitos aos procedimentos de controlo aplicáveis aos resíduos incluídos nos anexos III ou IV do sempre referido regulamento, ou ao procedimento estabelecido no seu artigo 15.o;\n\n(3) Considerando que determinados países comunicaram que esses resíduos devem ser sujeitos a um dos referidos procedimentos de controlo e que, em 20 de Julho de 1994, a Comissão, nos termos do n.o 3 do artigo 17.o do mesmo regulamento, adoptou a Decisão 94/575/CE(5) para determinar os procedimentos de controlo adequados;\n\n(4) Considerando que o n.o 1, segundo parágrafo, do artigo 17.o do Regulamento (CEE) n.o 259/93 prevê que, se não for recebida tal confirmação, a Comissão apresentará propostas adequadas ao Conselho; que, por conseguinte, é necessário estabelecer a nível comunitário um sistema destinado a regular o comércio destes resíduos provenientes da Comunidade, estabelecendo regras e procedimentos comuns adequados relativamente à sua exportação;\n\n(5) Considerando que, no caso dos países que declararam não desejar receber alguns ou nenhum dos tipos de resíduos incluídos no anexo II do Regulamento (CEE) n.o 259/93, tal desejo deve ser respeitado, pelo que esses tipos de resíduos não poderão ser exportados para esses países;\n\n(6) Considerando que, nos casos dos países que não deram resposta, e não se podendo interpretar o silêncio como uma forma de consentimento, é adequado adoptar um enquadramento regulamentar idêntico que permita que esses países procedam à avaliação dessas transferências caso a caso;\n\n(7) Considerando que, no caso dos países que responderam não desejar receber alguns ou nenhum dos tipos de resíduos incluídos no anexo II ou que não deram resposta, existe a possibilidade de esses países alterarem a sua posição, ou responderem no futuro, pelo que deve existir um mecanismo, no âmbito do procedimento de comitologia, para alterar o presente regulamento;\n\n(8) Considerando que a Comissão reverá e alterará, logo que possível, e o mais tardar antes de 1 de Julho de 1998, o anexo V do Regulamento (CE) n.o 259/93, tendo plenamente em conta os resíduos constantes da respectiva lista adoptada nos termos do n.o 4 do artigo 1.o da Directiva 91/689/CEE do Conselho, de 12 de Dezembro de 1991, relativa aos resíduos perigosos(6), bem como quaisquer listas de resíduos considerados perigosos na perspectiva da Convenção de Basileia e adaptará o Regulamento (CE) n.o 259/93 em conformidade;\n\n(9) Considerando que a Comissão deverá informar regularmente os países abrangidos por este regulamento das alterações efectuadas nos anexos A e B;\n\n(10) Considerando que, relativamente às transferências para os países ACP, o artigo 39.o da quarta Convenção ACP-CE proíbe a exportação de todos os resíduos incluídos nos anexos I e II da Convenção de Basileia; que, além disso, alguns desses resíduos figuram no anexo II do Regulamento (CEE) n.o 259/93; que, nessas circunstâncias, e para respeitar as obrigações internacionais da Comunidade, a expedição de tais resíduos para os países ACP tem de ser proibida, devendo ficar esclarecido que esses resíduos estão excluídos do âmbito do presente regulamento;\n\n(11) Considerando que deve ser explicitado que estes elementos ficam excluídos do âmbito deste regulamento;\n\n(12) Considerando que as disposições do presente regulamento devem ser sujeitas a uma revisão periódica pela Comissão,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "7d5237ab4eeea8c4": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ proibida a exportação de resíduos enunciados no anexo II do Regulamento (CEE) n.o 259/93 e mencionados no anexo A do presente regulamento para os países a que se refere este último anexo."
+  },
+  "08920c7d83eb4bc2": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n0 procedimento de controlo previsto no artigo 15.o do Regulamento (CEE) n.o 259/93 é aplicável às exportações para os países a que se refere o anexo B do presente regulamento, relativamente às categorias de resíduos exclusivamente destinados a valorizacão e enunciados no anexo II do Regulamento (CEE) n.o 259/93."
+  },
+  "7999fc71072a48c6": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. A pedido do país de destino, o procedimento de controlo que lhe é aplicável no âmbito do presente regulamento deve ser alterado nos termos do presente artigo.\n\n2. A Comissão deve determinar, nos termos do artigo 18.o da Directiva 75/442/CEE do Conselho, de 15 de Julho de 1975, relativa aos resíduos(7) e em cooperação com o país em causa, o procedimento de controlo a aplicar, ou seja:\n\ni) o procedimento aplicável aos resíduos enunciados no anexo III ou no anexo IV do Regulamento (CEE) n.o 259/93; ou\n\nii) o procedimento previsto no artigo 15.o do Regulamento (CEE) n.o 259/93; ou\n\niii) nenhum dos procedimentos referidos supra, nas alíneas i) e ii).\n\n3. A Comissão informará os Estados-Membros de qualquer alteração da posição de um país de destino no prazo de 21 dias a contar da data de recepção do pedido desse país, e apresentará a sua proposta de decisão ao comité criado nos termos do referido artigo 18.o da Directiva 75/442/CEE o mais rapidamente possível, no prazo de três meses a contar da data de recepção do pedido.\n\n4. Além disso, sempre que se verifique qualquer outra alteração excepcional de circunstâncias como, por exemplo, um conflito armado, uma catástrofe natural ou um embargo comercial determinado pelas Nações Unidas, susceptível de afectar o procedimento de controlo aplicável no âmbito do presente regulamento, esse procedimento pode ser alterado. A Comissão pode determinar, após consulta do país de destino, se necessário e nos termos do artigo 18.o da Directiva 75/442/CEE, qual dos procedimentos previstos no n.o 2 do presente artigo deve ser aplicado.\n\n5. A Comissão efectuará periodicamente, nos termos do artigo 18.o da Directiva 75/442/CEE, uma revisão dos anexos A e B do presente regulamento, a fim de os harmonizar com as alterações introduzidas nos anexos do Regulamento (CEE) n.o 259/93."
+  },
+  "f7ac85c79bce3a6a": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs procedimentos de controlo previstos no presente regulamento serão sujeitos a uma revisão periódica pela Comissão, a qual se efectuará, pela primeira vez, o mais tardar nove meses a contar da sua publicação no Jornal Oficial, tendo em conta a experiência adquirida. Se os resultados da revisão levarem à conclusão de que tal seria adequado, a Comissão pode, sem prejuízo do artigo 4.o, apresentar novas propostas ao Conselho."
+  },
+  "26044b27585a58e7": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA Comissão deve, nos termos do artigo 18.o da Directiva 75/442/CEE e o mais rapidamente possível; rever e alterar o presente regulamento a fim de o harmonizar com o Regulamento (CEE) n.o 259/93."
+  },
+  "bb967b0c1e4c62c1": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO presente regulamento entra em vigor no nonagésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito no Luxemburgo, em 29 de Abril de 1999.\n\nPelo Conselho\n\nO Presidente\n\nW. MÜLLER\n\n(1) JO C 214 de 10.7.1998, p. 74.\n\n(2) Parecer emitido em 29 de Abril de 1998 (JO C 169 de 16.6.1999).\n\n(3) Parecer do Parlamento Europeu de 17 de Julho de 1997 (JO C 286 de 22.9.1997, p. 229), posição comum do Conselho de 4 de Junho de 1998 (JO C 333 de 30.10.1998, p. 1 ) e decisão do Parlamento Europeu de 9 de Fevereiro de 1999 (JO C 250 de 28.5.1999).\n\n(4) JO L 30 de 6.2.1993, p. 1. Regulamento com a última redacção que lhe foi dada pelo, Regulamento (CE) n.o 120/97 (JO L 22 de 24.1.1997, p. 14).\n\n(5) JO L 220 de 25.8.1994, p. 15.\n\n(6) JO L 377 de 31.12.1991, p. 20. Directiva alterada pela Directiva 94/31/CE (JO L 168; de 2.7.1994, p. 28).\n\n(7) JO L 194 de 25.7.1975, p. 39. Directiva com a última redacção que lhe foi dada pela Decisão 96/350/CE da Comissão (JO L 135 de 6.6.1996, p. 32)."
+  },
+  "ee4ad332aa188b74": {
+   "fragment_id": "ANEXO A",
+   "type": "divisao",
+   "heading": "ANEXO A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO A\n\nPaíses e territórios que comunicaram à Comissão que não desejam receber transferências de determinados tipos de resíduos destinados a valorização incluídos no anexo II do Regulamento (CEE) n.o 259/93 do Conselho\n\nALBÂNIA:\n\nTodos os tipos com excepção de:\n\n1. Na secção GA (\"Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão\"):\n\na) Os seguintes resíduos e desperdícios de fundição, de ferro ou aço:\n\n>POSIÇÃO NUMA TABELA>\n\nb) Os seguintes desperdícios, resíduos e sucata de metais não ferrosos e das respectivas ligas:\n\n>POSIÇÃO NUMA TABELA>\n\n2. Todos tipos incluídos na secção GB (\"Resíduos que contenham metais, provenientes da fusão, da fundição e da refinação de metais\").\n\n3. Todos os tipos incluídos na secção GE (\"Resíduos de vidro sob forma não susceptível de dispersão\").\n\n4. Na secção GG (\"Outros resíduos constituídos principalmente por substâncias inorgânicas que possam conter metais e matérias orgânicas\").\n\n>POSIÇÃO NUMA TABELA>\n\n5. Todos os tipos incluídos na secção GI (\"Resíduos de papel, cartão e produtos papeleiros\").\n\n6. Na secção GJ (\"Resíduos de materiais têxteis\"):\n\n>POSIÇÃO NUMA TABELA>\n\nANDORRA:\n\nTodos os tipos\n\nANTÍGUA E BARBUDA:\n\nTodos os tipos\n\nARUBA:\n\nTodos os tipos\n\nBAAMAS:\n\nTodos os tipos\n\nBARBADOS:\n\nTodos os tipos\n\nBELIZE:\n\nTodos os tipos\n\nBENIM:\n\nTodos os tipos\n\nBUTÃO:\n\nTodos os tipos\n\nBOLÍVIA:\n\nTodos os tipos\n\nBOTSUANA:\n\nTodos os tipos\n\nBRASIL\n\nTodos os tipos com excepção de:\n\n1. Na secção GA (\"Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão\"):\n\na) Os seguintes resíduos e desperdícios de fundição, de ferro ou aço:\n\n>POSIÇÃO NUMA TABELA>\n\nb) Os seguintes desperdícios, resíduos e sucata de metais não ferrosos e das respectivas ligas:\n\n>POSIÇÃO NUMA TABELA>\n\n2. Na secção GB (\"Resíduos que contenham metais, provenientes da fusão, da fundição e da refinação de metais\"):\n\n>POSIÇÃO NUMA TABELA>\n\n3. Na secção GC (\"Outros resíduos que contenham metais\"):\n\n[...]\n\n>POSIÇÃO NUMA TABELA>\n\n[...]\n\n4. Na secção GD (\"Resíduos provenientes de explorações minerais que não se encontrem na forma dispersa\"):\n\n>POSIÇÃO NUMA TABELA>\n\n5. Na secção GG (\"Outros resíduos constituídos principalmente por substâncias inorgânicas que possam conter metais e matériais orgânicas\"):\n\n>POSIÇÃO NUMA TABELA>\n\n6. Na secção GH (\"Resíduos de materiais plásticos sob a forma sólida\"):\n\n>POSIÇÃO NUMA TABELA>\n\n7. Na secção GJ (\"Resíduos de materiais têxteis\"):\n\n>POSIÇÃO NUMA TABELA>\n\n8. Na secção GK (\"Resíduos de borracha\"):\n\n>POSIÇÃO NUMA TABELA>\n\n9. Na secção GO (\"Outros resíduos constituídos principalmente por substâncias orgânicas que possam conter metais e matérias inogânicas\"):\n\n>POSIÇÃO NUMA TABELA>\n\nBULGÁRIA\n\nTodos os tipos com excepção de:\n\n1. Na secção GA (\"Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão\"):\n\na) Os resíduos e desperdícios dos seguintes metais preciosos e das respectivas ligas:\n\n>POSIÇÃO NUMA TABELA>\n\nN.B.:\n\nExclui-se explicitamente o mercúrio contaminante dos referidos metais e das suas ligas e amálgamas\n\nb) Os seguintes resíduos e desperdícios de fundição, de ferro ou aço:\n\n>POSIÇÃO NUMA TABELA>\n\nc) Os seguintes desperdícios, resíduos e sucata de metais não ferrosos e das respectivas ligas:\n\n>POSIÇÃO NUMA TABELA>\n\n2. Na secção GB (\"Resíduos que contenham metais, provenientes da fusão, da fundição e da refinação de metais\"):\n\n>POSIÇÃO NUMA TABELA>\n\n3. Na secção GC (\"Outros resíduos que contenham metais\"):\n\n>POSIÇÃO NUMA TABELA>\n\n4. Na secção GH (\"Resíduos de materiais plásticos sob forma sólida\")\n\n>POSIÇÃO NUMA TABELA>\n\n5. Todos os tipos de secção GI (\"Resíduos de papel, cartão e produtos papeleiros\").\n\nBURKINA FASO\n\nTodos os tipos com excepção de:\n\nTodos os tipos da secção GA [\"Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão(1)\"]\n\nCAMARÕES\n\nTodos os tipos com excepção de:\n\n1. Na secção GA (\"Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão\"):\n\na) Os resíduos e desperdícios dos seguintes metais preciosos e das respectivas ligas:\n\n>POSIÇÃO NUMA TABELA>\n\nNB:\n\nExclui-se explicitamente o mercúrio contaminante dos referidos metais e das suas ligas e amálgamas.\n\nb) Os seguintes resíduos e desperdícios de fundição, de ferro ou aço:\n\n>POSIÇÃO NUMA TABELA>\n\n2. Na secção GB (\"Resíduos que contenham metais, provenientes da fusão, da fundição e da refinação de metais\"):\n\n>POSIÇÃO NUMA TABELA>\n\n3. Na secção GC (\"Outros resíduos que contenham metais\")\n\n>POSIÇÃO NUMA TABELA>\n\n4. Na secção GE (\"Resíduos de vidro sob forma não susceptível de dispersão\")\n\n>POSIÇÃO NUMA TABELA>\n\n5. Na secção GF (\"Resíduos cerâmicos não dispersáveis\")\n\n>POSIÇÃO NUMA TABELA>\n\n6. Na secção GH (\"Resíduos de materiais plásticos sob forma sólida\"):\n\n>POSIÇÃO NUMA TABELA>\n\n7. Todos os tipos da secção GI (\"Resíduos de papel, cartão e produtos papeleiros\")\n\n8. Na secção GJ (\"Resíduos de materiais têxteis\"):\n\n>POSIÇÃO NUMA TABELA>\n\n9. Na secção GK (\"Resíduos de borracha\")\n\n>POSIÇÃO NUMA TABELA>\n\n10. Todos os tipos de secção GL (\"Resíduos de cortiça e madeira não tratados\")\n\n11. Na secção GM (\"Resíduos provenientes da indústria alimentar e agro-alimentar\"):\n\n>POSIÇÃO NUMA TABELA>\n\nCABO VERDE\n\nTodos os tipos\n\nCOLÔMBIA\n\n1. Na secção GA [\"Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão(2)\"]\n\nTodos os tipos de desperdícios, resíduos e sucata de metais não ferrosos e suas ligas:\n\n[...]\n\n2. Na secção GB (\"Resíduos que contenham metais, provenientes da fusão, da fundição e da refinação de metais\"):\n\n>POSIÇÃO NUMA TABELA>\n\n3. Na secção GC (\"Outros resíduos que contenham metais\"):\n\n>POSIÇÃO NUMA TABELA>\n\n4. Na secção GD (\"Resíduos provenientes de explorações minerais que não se encontrem na forma dispersa\"):\n\n>POSIÇÃO NUMA TABELA>\n\n5. Na secção GG (\"Outros resíduos constituídos principalmente por substâncias inorgânicas que possam conter metais e matérias orgânicas\"):\n\n>POSIÇÃO NUMA TABELA>\n\n6. Na secção GH (\"Resíduos de materiais plásticos sob a forma sólida\"):\n\n>POSIÇÃO NUMA TABELA>\n\n7. Na secção GJ (\"Resíduos de materiais têxteis\"):\n\n>POSIÇÃO NUMA TABELA>\n\n8. Na secção GK (\"Resíduos de borracha\"):\n\n>POSIÇÃO NUMA TABELA>\n\n9. Na secção GO (\"Outros resíduos constituídos principalmente por substâncias orgânicas que possam conter metais e matérias inorgânicas\"):\n\n>POSIÇÃO NUMA TABELA>\n\nCOMORES, REPÚBLICA FEDERAL ISLÂMICA:\n\nTodos os tipos com excepção de:\n\nNa secção GJ (\"Resíduos de materiais têxteis\"):\n\n>POSIÇÃO NUMA TABELA>\n\nCOSTA RICA:\n\nTodos os tipos\n\nDOMÍNICA:\n\nTodos os tipos\n\nREPÚBLICA DOMINICANA\n\nTodos os tipos\n\nJIBUTI\n\nTodos os tipos\n\nEGIPTO:\n\nTodos os tipos, com excepção de:\n\n1. Todos os tipos de secção GA (\"Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão\").\n\n2. Todos os tipos de secção GI (\"Resíduos de papel, cartão e produtos papeleiros\").\n\n3. Todos os tipos de secção GJ (\"Resíduos de materiais têxteis\").\n\nFIJI\n\nTodos os tipos\n\nGÂMBIA\n\nTodos os tipos, com excepção de:\n\nNa secção GJ (\"Resíduos de materiais têxteis\"):\n\n>POSIÇÃO NUMA TABELA>\n\nGANA\n\nTodos os tipos\n\nGRANADA\n\nTodos os tipos, com excepção de:\n\nNa secção GK (\"Resíduos de borracha\")\n\n>POSIÇÃO NUMA TABELA>\n\nGUIANA\n\nTodos os tipos\n\nQUIRIBATI\n\nTodos os tipos\n\nKUWAIT\n\nTodos os tipos, com excepção de:\n\nNa secção GH (\"Resíduos de materiais plásticos sob forma sólida\"):\n\n>POSIÇÃO NUMA TABELA>\n\nLÍBANO\n\nTodos os tipos, com excepção de:\n\nNa secção GJ (\"Resíduos de materiais têxteis\"):\n\n>POSIÇÃO NUMA TABELA>\n\nMALAVI\n\nTodos os tipos, com excepção de:\n\n1. Todos os tipos de secção GA (\"Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão\")\n\n2. Todos os tipos de secção GE (\"Resíduos de vidro sob forma não susceptível de dispersão\")\n\n3. Todos os tipos da secção GI (\"Resíduos de papel, cartão e produtos papeleiros\")\n\n4. Na secção GJ (\"Resíduos de materiais têxteis\"):\n\n>POSIÇÃO NUMA TABELA>\n\nMALDIVAS\n\nTodos os tipos\n\nMALI\n\n1. Na secção GA [\"Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão(3)\"]:\n\nTodos os tipos de desperdícios, resíduos e sucata de metais não ferrosos e suas ligas\n\n2. Todos os tipos da secção GE (\"Resíduos de vidro sob forma não susceptível de dispersão\")\n\n3. Todos os tipos de secção GF (\"Resíduos cerâmicos não dispersáveis\")\n\n4. Todos os tipos de secção GH (\"Resíduos de materiais plásticos sob forma sólida\")\n\n5. Todos os tipos da secção GN (\"Resíduos provenientes das operações de curtimenta e de preparação e de utilização das peles\")\n\nMOLDÁVIA\n\nTodos os tipos\n\nMONGÓLIA\n\nTodos os tipos\n\nMIANMAR\n\nTodos os tipos\n\nNICARÁGUA\n\nTodos os tipos\n\nNÍGER\n\nTodos os tipos, com excepção de:\n\n1. Na secção GJ (\"Resíduos de materiais têxteis\"):\n\n>POSIÇÃO NUMA TABELA>\n\n2. Na secção GK (\"Resíduos de borracha\"):\n\n>POSIÇÃO NUMA TABELA>\n\nNIGÉRIA\n\nTodos os tipos, com excepção de:\n\nTodos os tipos da secção GH (\"Resíduos de materiais plásticos sob forma sólida\")\n\nPAQUISTÃO\n\n1. Na secção GK (\"Resíduos de borracha\"):\n\n>POSIÇÃO NUMA TABELA>\n\n2. Na secção GM (\"Resíduos provenientes da indústria alimentar e agro-alimentar\"):\n\n>POSIÇÃO NUMA TABELA>\n\n3. Na secção GN (\"Resíduos provenientes das operações de curtimenta e de preparação e de utilização das peles\")\n\n>POSIÇÃO NUMA TABELA>\n\nPAPUÁSIA NOVA GUINÉ\n\nTodos os tipos\n\nPARAGUAI\n\nTodos os tipos, com excepção de:\n\n1. Todos os tipos incluidos na secção GI (\"Resíduos de papel, cartão e produtos papeleiros\")\n\n2. Na secção GJ (\"Resíduos de materiais têxteis\"):\n\n>POSIÇÃO NUMA TABELA>\n\n3. Na secção GL (\"Resíduos de cortiça e madeira não tratados\"):\n\n>POSIÇÃO NUMA TABELA>\n\nPERU\n\nTodos os tipos\n\nSÃO TOMÉ E PRÍNCIPE\n\nTodos os tipos, com excepção de:\n\n1. Na secção GJ (\"Resíduos de materiais têxteis\"):\n\n>POSIÇÃO NUMA TABELA>\n\n2. Na secção GK (\"Resíduos de borracha\"):\n\n>POSIÇÃO NUMA TABELA>\n\nARÁBIA SAUDITA\n\nTodos os tipos\n\nSENEGAL\n\nTodos os tipos\n\nSEICHELES\n\nTodos os tipos\n\nSINGAPURA\n\nTodos os tipos, com excepção de:\n\n1. Na secção GA (\"Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão\"):\n\na) Os resíduos e desperdícios dos seguintes metais preciosos e das respectivas ligas:\n\n>POSIÇÃO NUMA TABELA>\n\nNB:\n\nExclui-se explicitamente o mercúrio contaminante dos referidos metais e das suas ligas e amálgamas.\n\nb) Os seguintes resíduos e desperdícios de fundição, de ferro ou aço:\n\n>POSIÇÃO NUMA TABELA>\n\nc) Os seguintes desperdícios, resíduos e sucata de metais não ferrosos e suas ligas\n\n>POSIÇÃO NUMA TABELA>\n\n2. Na secção GC (\"Outros resíduos que contenham metais\"):\n\n>POSIÇÃO NUMA TABELA>\n\n3. Na secção GD (\"Resíduos provenientes de explorações minerais que não se encontrem na forma dispersa\"):\n\n>POSIÇÃO NUMA TABELA>\n\n4. Na secção GH (\"Resíduos de materiais plásticos sob a forma sólida\"):\n\n>POSIÇÃO NUMA TABELA>\n\nSÃO CRISTOVÃO E NEVIS\n\nTodos os tipos\n\nSANTA LÚCIA\n\nTodos os tipos\n\nSÃO VICENTE E GRANADINAS\n\nTodos os tipos\n\nTANZÂNIA\n\nTodos os tipos, com excepção de:\n\nNa secção GJ (\"Resíduos de materiais têxteis\"):\n\n>POSIÇÃO NUMA TABELA>\n\nUGANDA\n\nTodos os tipos, com excepção de:\n\n1. Na secção GA (\"Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão\"):\n\n>POSIÇÃO NUMA TABELA>\n\n2. Na secção GJ (\"Resíduos de materiais têxteis\")\n\n>POSIÇÃO NUMA TABELA>\n\nTUVALU\n\nTodos os tipos\n\nVANUATU\n\nTodos os tipos\n\nSAMOA OCIDENTAL\n\nTodos os tipos\n\n(1) 'Não susceptível de dispersão' não inclui resíduos sob a forma de pós, lamas, poeiras ou partículas sólidas que contenham resíduos líquidos perigosos.\n\n(2) 'Não susceptível de dispersão' não inclui resíduos sob a forma de pós, lamas, poeiras ou partículas sólidas que contenham resíduos líquidos perigosos.\n\n(3) 'Não susceptível de dispersão' não inclui resíduos sob a forma de pós, lamas, poeiras ou partículas sólidas que contenham resíduos líquidos perigosos."
+  },
+  "c1882469cfaba7a7": {
+   "fragment_id": "ANEXO B",
+   "type": "divisao",
+   "heading": "ANEXO B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO B\n\nPaíses e territórios que não responderam às notificações da Comissão relativas às transferências de certos tipos de resíduos destinados a valorização que figuram no Anexo II do Regulamento (CEE) n.o 259/93 do Conselho\n\nAFEGANISTÃO\n\nTodos os tipos\n\nARGÉLIA\n\nTodos os tipos\n\nANGOLA\n\nTodos os tipos, com excepção de:\n\n1. Todos os tipos da secção GA (\"Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão\").\n\n2. Todos os tipos da secção GE (\"Resíduos de vidro sob forma não susceptível de dispersão\").\n\n3. Todos os tipos da secção GI (\"Resíduos de papel, cartão e produtos papeleiros\").\n\n4. Todos os tipos da secção GJ (\"Resíduos de materiais têxteis\").\n\n5. Todos os tipos da secção GK (\"Resíduos de borracha\").\n\nARMÉNIA\n\nTodos os tipos\n\nAZERBAIJÃO\n\nTodos os tipos\n\nBARÉM\n\nTodos os tipos\n\nBANGLADECHE\n\nTodos os tipos\n\nBRUNEI\n\nTodos os tipos\n\nBURUNDI\n\nTodos os tipos\n\nCAMBOJA\n\nTodos os tipos\n\nEQUADOR\n\nTodos os tipos\n\nEL SALVADOR\n\nTodos os tipos\n\nGUINÉ EQUATORIAL\n\nTodos os tipos\n\nERITREIA\n\nTodos os tipos\n\nETIÓPIA\n\nTodos os tipos\n\nANTIGA REPÚBLICA JUGOSLAVA DA MACEDÓNIA\n\nTodos os tipos\n\nGABÃO\n\nTodos os tipos\n\nGUATEMALA\n\nTodos os tipos\n\nGUINÉ\n\nTodos os tipos, com excepção de:\n\nNa secção GJ (\"Resíduos de materiais têxteis\"):\n\n>POSIÇÃO NUMA TABELA>\n\nHAITI\n\nTodos os tipos\n\nHONDURAS\n\nTodos os tipos\n\nCOSTA DO MARFIM\n\nTodos os tipos\n\nCAZAQUISTÃO\n\nTodos os tipos\n\nQUIRGUIZISTÃO\n\nTodos os tipos\n\nLAOS\n\nTodos os tipos\n\nLESOTO\n\nTodos os tipos\n\nMARROCOS\n\nTodos os tipos\n\nMOÇAMBIQUE\n\nTodos os tipos\n\nNAMÍBIA\n\nTodos os tipos\n\nNEPAL\n\nTodos os tipos\n\nOMÃ\n\nTodos os tipos\n\nPANAMÁ\n\nTodos os tipos\n\nCATAR\n\nTodos os tipos\n\nFEDERAÇÃO RUSSA\n\nTodos os tipos, com excepção de:\n\n1. Na secção GA (\"Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão\"):\n\na) Os seguinte desperdícios, resíduos e sucata de metais não ferrosos e suas ligas\n\n>POSIÇÃO NUMA TABELA>\n\n2. Na secção GB (\"Resíduos que contenham metais, provenientes da fusão, da fundição e da refinação de metais\"):\n\n>POSIÇÃO NUMA TABELA>\n\n3. Na secção GC (\"Outros resíduos que contenham metais\")\n\n>POSIÇÃO NUMA TABELA>\n\n4. Na secção GD (\"Resíduos provenientes de explorações mineiras que não se encontrem na forma dispersiva\"):\n\n>POSIÇÃO NUMA TABELA>\n\n5. Na secção GG (\"Outros resíduos constituídos principalmente por substâncias inorgânicas que possam conter metais e matérias orgânicas\"):\n\n>POSIÇÃO NUMA TABELA>\n\n6. Todos os tipos incluídos na secção GH (\"Resíduos de materiais plásticos sob a forma sólida\").\n\n7. Na secção GJ (\"Resíduos de materiais têxteis\"):\n\n>POSIÇÃO NUMA TABELA>\n\n8. Todos os tipos incluídos na secção GK (\"Resíduos de borracha\").\n\n9. Na secção GM (\"Resíduos provenientes da indústria alimentar e agro-alimentar\"):\n\n>POSIÇÃO NUMA TABELA>\n\n10. Na secção GN (\"Resíduos provenientes das operações de curtimenta e de preparação utilização das peles\"):\n\n>POSIÇÃO NUMA TABELA>\n\n11. Na secção GO (\"Outros resíduos constituídos principalmente por substâncias orgânicas que possam conter metais e matérias inorgânicas\"):\n\n>POSIÇÃO NUMA TABELA>\n\nILHAS SALOMÃO\n\nTodos os tipos\n\nSUDÃO\n\nTodos os tipos\n\nSUAZILÂNDIA\n\nTodos os tipos\n\nSÍRIA\n\nTodos os tipos\n\nTAJIQUISTÃO\n\nTodos os tipos\n\nTONGA\n\nTodos os tipos\n\nTUNÍSIA\n\nTodos os tipos do anexo II, com excepção de:\n\n1. Na secção GA (\"Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão\"):\n\na) Os seguintes resíduos e desperdícios de fundição, de ferro ou aço:\n\n>POSIÇÃO NUMA TABELA>\n\nb) Os seguintes desperdícios, resíduos e sucata de metais não ferrosos e das respectivas ligas:\n\n>POSIÇÃO NUMA TABELA>\n\n2. Na secção GC (\"Outros resíduos que contenham metais\")\n\n>POSIÇÃO NUMA TABELA>\n\n3. Todos os tipos da secção GH (\"Resíduos de materiais plásticos sob a forma sólida\").\n\n4. Todos os tipos da secção GI (\"Resíduos de papel, cartão e produtos papeleiros\").\n\n5. Na secção GJ (\"Resíduos de materiais têxteis\"):\n\n>POSIÇÃO NUMA TABELA>\n\n6. Todos os tipos da secção GK (\"Resíduos de borracha\").\n\n7. Na secção GM (\"Resíduos provenientes da indústria alimentar e agro-alimentar\"):\n\n>POSIÇÃO NUMA TABELA>\n\n8. Na secção GN (\"Resíduos provenientes das operações de curtimenta e de preparação e utilização das peles\")\n\n>POSIÇÃO NUMA TABELA>\n\nTURQUEMENISTÃO\n\nTodos os tipos\n\nUSBEQUISTÃO\n\nTodos os tipos\n\nCIDADE DO VATICANO\n\nTodos os tipos\n\nVENEZUELA\n\nTodos os tipos\n\nIÉMEN\n\nTodos os tipos\n\nZIMBABUÉ\n\nTodos os tipos"
+  },
+  "ae078ad86eb0a1a3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Abril de 1999\n\nque estabelece regras e procedimentos comuns aplicáveis às transferências de determinados tipos de resíduos para certos países não membros da OCDE\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente o seu artigo 113.º e o n.º 1 do seu artigo 130.º S,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 189.ºC do Tratado ([^3^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#E0003))\n\n(1) Considerando que o n.º 3, alínea a), do artigo 1.º do Regulamento (CEE) n.º 259/93 do Conselho, de 1 de Fevereiro de 1993, relativo à fiscalização e ao controlo das transferências de resíduos no interior, à entrada e à saída da Comunidade ([^4^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#E0004)), exclui do seu âmbito de aplicação as transferências de resíduos exclusivamente destinados a valorização e incluídos no seu anexo II, com as excepções previstas designadamente nos n.^os^ 1, 2 e 3 do artigo 17.º;\n\n(2) Considerando que, nos termos do n.º 1 do artigo 17.º do Regulamento (CEE) n.º 259/93, a Comissão notificou todos os países aos quais não é aplicável a decisão do Conselho da OCDE, de 30 de Março de 1992, do controlo das transferências transfronteiriças de resíduos destinados a valorização, da lista de resíduos incluída no anexo II daquele regulamento, tendo solicitado confirmação de que esses resíduos não estão sujeitos a controlo no país de destino ou pedido que esses países indiquem se esses resíduos devem ser sujeitos aos procedimentos de controlo aplicáveis aos resíduos incluídos nos anexos III ou IV do sempre referido regulamento, ou ao procedimento estabelecido no seu artigo 15.º;\n\n(3) Considerando que determinados países comunicaram que esses resíduos devem ser sujeitos a um dos referidos procedimentos de controlo e que, em 20 de Julho de 1994, a Comissão, nos termos do n.º 3 do artigo 17.º do mesmo regulamento, adoptou a Decisão 94/575/CE ([^5^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#E0005)) para determinar os procedimentos de controlo adequados;\n\n(4) Considerando que o n.º 1, segundo parágrafo, do artigo 17.º do Regulamento (CEE) n.º 259/93 prevê que, se não for recebida tal confirmação, a Comissão apresentará propostas adequadas ao Conselho; que, por conseguinte, é necessário estabelecer a nível comunitário um sistema destinado a regular o comércio destes resíduos provenientes da Comunidade, estabelecendo regras e procedimentos comuns adequados relativamente à sua exportação;\n\n(5) Considerando que, no caso dos países que declararam não desejar receber alguns ou nenhum dos tipos de resíduos incluídos no anexo II do Regulamento (CEE) n.º 259/93, tal desejo deve ser respeitado, pelo que esses tipos de resíduos não poderão ser exportados para esses países;\n\n(6) Considerando que, nos casos dos países que não deram resposta, e não se podendo interpretar o silêncio como uma forma de consentimento, é adequado adoptar um enquadramento regulamentar idêntico que permita que esses países procedam à avaliação dessas transferências caso a caso;\n\n(7) Considerando que, no caso dos países que responderam não desejar receber alguns ou nenhum dos tipos de resíduos incluídos no anexo II ou que não deram resposta, existe a possibilidade de esses países alterarem a sua posição, ou responderem no futuro, pelo que deve existir um mecanismo, no âmbito do procedimento de comitologia, para alterar o presente regulamento;\n\n(8) Considerando que a Comissão reverá e alterará, logo que possível, e o mais tardar antes de 1 de Julho de 1998, o anexo V do Regulamento (CE) n.º 259/93, tendo plenamente em conta os resíduos constantes da respectiva lista adoptada nos termos do n.º 4 do artigo 1.º da Directiva 91/689/CEE do Conselho, de 12 de Dezembro de 1991, relativa aos resíduos perigosos ([^6^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#E0006)), bem como quaisquer listas de resíduos considerados perigosos na perspectiva da Convenção de Basileia e adaptará o Regulamento (CE) n.º 259/93 em conformidade;\n\n(9) Considerando que a Comissão deverá informar regularmente os países abrangidos por este regulamento das alterações efectuadas nos anexos A e B;\n\n(10) Considerando que, relativamente às transferências para os países ACP, o artigo 39.º da quarta Convenção ACP-CE proíbe a exportação de todos os resíduos incluídos nos anexos I e II da Convenção de Basileia; que, além disso, alguns desses resíduos figuram no anexo II do Regulamento (CEE) n.º 259/93; que, nessas circunstâncias, e para respeitar as obrigações internacionais da Comunidade, a expedição de tais resíduos para os países ACP tem de ser proibida, devendo ficar esclarecido que esses resíduos estão excluídos do âmbito do presente regulamento;\n\n(11) Considerando que deve ser explicitado que estes elementos ficam excluídos do âmbito deste regulamento;\n\n(12) Considerando que as disposições do presente regulamento devem ser sujeitas a uma revisão periódica pela Comissão,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "7553613143abcc89": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ proibida a exportação de resíduos enunciados no anexo II do Regulamento (CEE) n.º 259/93 e mencionados no anexo A do presente regulamento para os países a que se refere este último anexo."
+  },
+  "9ca70c7d47cbf1da": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n0 procedimento de controlo previsto no artigo 15.º do Regulamento (CEE) n.º 259/93 é aplicável às exportações para os países a que se refere o anexo B do presente regulamento, relativamente às categorias de resíduos exclusivamente destinados a valorizacão e enunciados no anexo II do Regulamento (CEE) n.º 259/93."
+  },
+  "fdd783c89bf1dd20": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. A pedido do país de destino, o procedimento de controlo que lhe é aplicável no âmbito do presente regulamento deve ser alterado nos termos do presente artigo.\n\n2. A Comissão deve determinar, nos termos do artigo 18.º da Directiva 75/442/CEE do Conselho, de 15 de Julho de 1975, relativa aos resíduos ([^7^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#E0007)) e em cooperação com o país em causa, o procedimento de controlo a aplicar, ou seja:\n\ni) o procedimento aplicável aos resíduos enunciados no anexo III ou no anexo IV do Regulamento (CEE) n.º 259/93; ou\n\nii) o procedimento previsto no artigo 15.º do Regulamento (CEE) n.º 259/93; ou\n\niii) nenhum dos procedimentos referidos *supra*, nas alíneas i) e ii).\n\n3. A Comissão informará os Estados-Membros de qualquer alteração da posição de um país de destino no prazo de 21 dias a contar da data de recepção do pedido desse país, e apresentará a sua proposta de decisão ao comité criado nos termos do referido artigo 18.º da Directiva 75/442/CEE o mais rapidamente possível, no prazo de três meses a contar da data de recepção do pedido.\n\n4. Além disso, sempre que se verifique qualquer outra alteração excepcional de circunstâncias como, por exemplo, um conflito armado, uma catástrofe natural ou um embargo comercial determinado pelas Nações Unidas, susceptível de afectar o procedimento de controlo aplicável no âmbito do presente regulamento, esse procedimento pode ser alterado. A Comissão pode determinar, após consulta do país de destino, se necessário e nos termos do artigo 18.º da Directiva 75/442/CEE, qual dos procedimentos previstos no n.º 2 do presente artigo deve ser aplicado.\n\n5. A Comissão efectuará periodicamente, nos termos do artigo 18.º da Directiva 75/442/CEE, uma revisão dos anexos A e B do presente regulamento, a fim de os harmonizar com as alterações introduzidas nos anexos do Regulamento (CEE) n.º 259/93."
+  },
+  "9873ac836f94d679": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs procedimentos de controlo previstos no presente regulamento serão sujeitos a uma revisão periódica pela Comissão, a qual se efectuará, pela primeira vez, o mais tardar nove meses a contar da sua publicação no Jornal Oficial, tendo em conta a experiência adquirida. Se os resultados da revisão levarem à conclusão de que tal seria adequado, a Comissão pode, [**►C1**](http://publications.europa.eu/resource/celex/31999R1420R%2801%29) sem prejuízo do artigo 3.º **◄**, apresentar novas propostas ao Conselho."
+  },
+  "9dbc6f0930faa092": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA Comissão deve, nos termos do artigo 18.º da Directiva 75/442/CEE e o mais rapidamente possível; rever e alterar o presente regulamento a fim de o harmonizar com o Regulamento (CEE) n.º 259/93."
+  },
+  "484c2cfcea05c257": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO presente regulamento entra em vigor no nonagésimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "c5f705ca1c5a3e34": {
+   "fragment_id": "ANEXO A",
+   "type": "divisao",
+   "heading": "ANEXO A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO A"
+  },
+  "8b89abed73dd3ab8": {
+   "fragment_id": "Países e territórios que comunicaram à Comissão que não desejam receber transferências de determinados tipos de resíduos destinados a valorização incluídos no anexo II do Regulamento (CEE) n.º 259/93 do Conselho",
+   "type": "divisao",
+   "heading": "Países e territórios que comunicaram à Comissão que não desejam receber transferências de determinados tipos de resíduos destinados a valorização incluídos no anexo II do Regulamento (CEE) n.º 259/93 do Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Países e territórios que comunicaram à Comissão que não desejam receber transferências de determinados tipos de resíduos destinados a valorização incluídos no anexo II do Regulamento (CEE) n.º 259/93 do Conselho"
+  },
+  "3056e4fc1a62582a": {
+   "fragment_id": "ALBÂNIA",
+   "type": "divisao",
+   "heading": "ALBÂNIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ALBÂNIA\n\nTodos os tipos com excepção dos seguintes:\n\n1. Na secção GA [«Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão» ([^8^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#E0008))]:\n\nOs seguintes desperdícios, resíduos e sucata de metais não ferrosos e das respectivas ligas:\n\n| GA 120 | 7404 00 | Desperdícios, resíduos e sucata de cobre |\n| --- | --- | --- |\n| GA 150 | 7802 00 | Desperdícios, resíduos e sucata de chumbo |\n| GA 160 | 7902 00 | Desperdícios, resíduos e sucata de zinco |\n| GA 170 | 8002 00 | Desperdícios, resíduos e sucata de estanho |\n| GA 430 | 7204 | Desperdícios, resíduos e sucata de ferro ou aço. |\n\n2. Todos os tipos na secção GB («Outros resíduos que contenham metais resultantes da fundição, da fusão e do acabamento de metais»).\n\n3. Todos os tipos na secção GE («Resíduos de vidro sob forma não susceptível de dispersão»).\n\n4. Na secção GG («Outros resíduos constituídos principalmente por substâncias inorgânicas que possam conter metais e matérias orgânicas»):\n\n| GG 080 | ex26 21 00 | Escórias provenientes da produção do cobre, quimicamente estabilizadas, contendo uma quantidade importante de ferro (superior a 20 %) e tratadas em conformidade com as especificações industriais (ou seja DIN 4301 e DIN 8201) destinadas principalmente à construção e às aplicações abrasivas. |\n| --- | --- | --- |\n\n5. Todos os tipos na secção GI («Resíduos de papel, cartão e produtos papeleiros»).\n\n6. Na secção GJ («Resíduos de materiais têxteis»):\n\n| GJ 020 | 5103 | Resíduos de lã ou pêlos finos ou grosseiros, incluindo os resíduos de fios e excluindo os fiapos: |\n| --- | --- | --- |\n| GJ 021 | 5103 10 | — Resíduos da penteação de lã ou de pêlos finos |\n| GJ 022 | 5103 20 | — Outros resíduos de lã ou de pêlos finos |\n| GJ 023 | 5103 30 | — Resíduos de pêlos grosseiros |\n| GJ 030 | 5202 | Resíduos de algodão (incluindo os resíduos de fios e os fiapos): |\n| GJ 031 | 5202 10 | — Resíduos de fios |\n| GJ 032 | 5202 91 | — Fiapos |\n| GJ 033 | 5202 99 | — Outros. |"
+  },
+  "f4585cfc66685fc5": {
+   "fragment_id": "ANDORRA:",
+   "type": "divisao",
+   "heading": "ANDORRA:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ANDORRA:\n\nTodos os tipos"
+  },
+  "2145b5e2db85ead6": {
+   "fragment_id": "ANTÍGUA E BARBUDA:",
+   "type": "divisao",
+   "heading": "ANTÍGUA E BARBUDA:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ANTÍGUA E BARBUDA:\n\nTodos os tipos"
+  },
+  "84562ff1a0f3e785": {
+   "fragment_id": "ARUBA:",
+   "type": "divisao",
+   "heading": "ARUBA:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ARUBA:\n\nTodos os tipos"
+  },
+  "9c0fa4d18af21174": {
+   "fragment_id": "BAAMAS:",
+   "type": "divisao",
+   "heading": "BAAMAS:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### BAAMAS:\n\nTodos os tipos"
+  },
+  "69e42786165b5a74": {
+   "fragment_id": "BARBADOS:",
+   "type": "divisao",
+   "heading": "BARBADOS:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### BARBADOS:\n\nTodos os tipos"
+  },
+  "2e4adda70e6d030b": {
+   "fragment_id": "BARÉM",
+   "type": "divisao",
+   "heading": "BARÉM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### BARÉM\n\nTodos os tipos"
+  },
+  "cc73b2f06c428445": {
+   "fragment_id": "BELIZE:",
+   "type": "divisao",
+   "heading": "BELIZE:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### BELIZE:\n\nTodos os tipos"
+  },
+  "f335a9ab6df07e08": {
+   "fragment_id": "BENIM:",
+   "type": "divisao",
+   "heading": "BENIM:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### BENIM:\n\nTodos os tipos"
+  },
+  "75a8021addd0823b": {
+   "fragment_id": "BUTÃO:",
+   "type": "divisao",
+   "heading": "BUTÃO:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### BUTÃO:\n\nTodos os tipos"
+  },
+  "d3b8c06032ec4f5e": {
+   "fragment_id": "BOLÍVIA:",
+   "type": "divisao",
+   "heading": "BOLÍVIA:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### BOLÍVIA:\n\nTodos os tipos"
+  },
+  "36fd1d305cbc90c2": {
+   "fragment_id": "BOTSUANA:",
+   "type": "divisao",
+   "heading": "BOTSUANA:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### BOTSUANA:\n\nTodos os tipos"
+  },
+  "0626d98eec4d5105": {
+   "fragment_id": "BRASIL",
+   "type": "divisao",
+   "heading": "BRASIL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### BRASIL\n\n1. Na secção GA [«Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão» ([^9^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#E0009))]:\n\nOs seguintes desperdícios, resíduos e sucata de metais não ferrosos e das respectivas ligas:\n\n| GA 150 | 7802 00 | Desperdícios, resíduos e sucata de chumbo |\n| --- | --- | --- |\n| GA 240 | ex81 07 10 | Desperdícios, resíduos e sucata de cádmio |\n| GA 270 | ex81 10 00 | Desperdícios, resíduos e sucata de antimónio |\n| GA 300 | ex81 12 20 | Desperdícios, resíduos e sucata de crómio |\n| GA 400 | ex28 04 90 | Desperdícios, resíduos e sucata de selénio |\n| GA 410 | ex28 04 50 | Desperdícios, resíduos e sucata de telúrio. |\n\n2. Na secção GB («Outros resíduos que contenham metais resultantes da fundição, da fusão e do acabamento de metais»):\n\n| GB 010 | 2620 11 | Mates de galvanização. |\n| --- | --- | --- |\n\n3. Na secção GG («Outros resíduos constituídos principalmente por substâncias inorgânicas que possam conter metais e matérias orgânicas»):\n\nGG 160 Materiais betuminosos (resíduos de asfalto) provenientes da construção e manutenção das estradas, sem alcatrão.\n\n4. Na secção GK («Resíduos de borracha»):\n\n| GK 020 | 4012 20 | Pneumáticos usados. |\n| --- | --- | --- |"
+  },
+  "bb0d5daebc00f589": {
+   "fragment_id": "BURKINA FASO",
+   "type": "divisao",
+   "heading": "BURKINA FASO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### BURKINA FASO\n\nTodos os tipos com excepção de:\n\nTodos os tipos da secção GA [«Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão ([^10^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#E0011))»]"
+  },
+  "c1245296ceccb944": {
+   "fragment_id": "BURUNDI",
+   "type": "divisao",
+   "heading": "BURUNDI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### BURUNDI\n\nTodos os tipos com excepção dos seguintes:\n\n1. Na secção GA [«Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão» ([^11^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#E0012))]:\n\n| GA 430 | 7204 | Desperdícios, resíduos e sucata de ferro ou aço. |\n| --- | --- | --- |\n\n2. Todos os tipos na secção GI («Resíduos de papel, cartão e produtos papeleiros»).\n\n3. Na secção GJ («Resíduos de materiais têxteis»):\n\n| GJ 120 | 6309 00 | Artefactos de matérias têxteis, calçado, chapéus e artefactos de uso semelhante, usados |\n| --- | --- | --- |\n| GJ 140 | ex63 10 | Resíduos têxteis provenientes de revestimentos de solo, tapetes. |\n\n4. Na secção GK («Resíduos de borracha»):\n\n| GK 020 | 4012 20 | Pneumáticos usados. |\n| --- | --- | --- |\n\n5. Na secção GM («Resíduos provenientes da indústria alimentar e agro-alimentar»):\n\nGM 130 Resíduos da indústria agro-alimentar com excepção dos subprodutos que satisfaçam os requisitos e as normas nacionais e internacionais de consumo pelo homem ou pelos animais."
+  },
+  "2b9d0a07697cfad7": {
+   "fragment_id": "CAMARÕES",
+   "type": "divisao",
+   "heading": "CAMARÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAMARÕES\n\nTodos os tipos com excepção de:\n\n1. Na secção GA («Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão»):\n\na) Os resíduos e desperdícios dos seguintes metais preciosos e das respectivas ligas:\n\n| GA 010 | ex71 12 10 | — de ouro |\n| --- | --- | --- |\n| GA 020 | ex71 12 20 | — de platina (o termo «platina» engloba a platina, o irídio, o ósmio, o paládio, o ródio e o ruténio) |\n| GA 030 | ex71 12 90 | — de outros metais preciosos, por exemplo, de prata |\n| *NB:* Exclui-se explicitamente o mercúrio contaminante dos referidos metais e das suas ligas e amálgamas. |  |  |\n\nb) Os seguintes resíduos e desperdícios de fundição, de ferro ou aço:\n\n| GA 040 | 7204 10 | — Desperdícios, resíduos e sucata de ferro fundido |\n| --- | --- | --- |\n| GA 050 | 7204 21 | — Desperdícios, resíduos e sucata de aços inoxidáveis |\n| GA 060 | 7204 29 | — Desperdícios, resíduos e sucata de outras ligas de aço |\n| GA 070 | 7204 30 | — Desperdícios, resíduos e sucata de ferro ou aço estanhados |\n| GA 080 | 7204 41 | — Resíduos do torno e da freza, aparas, lascas (meulures), pó de serra, limalha e desperdícios de estampagem ou de corte, mesmo em fardos |\n| GA 090 | 7204 49 | — Outros desperdícios, resíduos e sucata ferrosos |\n| GA 100 | 7204 50 | — Resíduos em lingotes |\n| GA 110 | ex73 02 10 | — Carris de ferro e de aço usados |\n| GA 120 | 7404 00 | Desperdícios, resíduos e sucata de cobre |\n| [▼M5](http://publications.europa.eu/resource/celex/32001R2243) |  |  |\n| GA 140 | 7602 00 | Desperdícios, resíduos e sucata de alumínio |\n| [▼B](http://publications.europa.eu/resource/celex/31999R1420) |  |  |\n| GA 150 | 7802 00 | Desperdícios, resíduos e sucata de chumbo |\n| GA 160 | 7902 00 | Desperdícios, resíduos e sucata de zinco |\n| GA 170 | 8002 00 | Desperdícios, resíduos e sucata de estanho |\n| GA 210 | 8104 20 | Desperdídios, resíduos e sucata de magnésio (com excepção dos enumerados em AA 190) [(^1^)](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#E0013) |\n| GA 220 | ex81 05 10 | Desperdícios, resíduos e sucata de cobalto |\n| GA 280 | ex81 11 00 | Desperdícios, resíduos e sucata de manganês |\n| GA 300 | ex81 12 20 | Desperdícios, resíduos e sucata de crómio |\n| (^1^)Ver anexo III da decisão 98/368/CE. |  |  |\n\n2. Na secção GB («Resíduos que contenham metais, provenientes da fusão, da fundição e da refinação de metais»):\n\n| GB 050 | ex26 20 90 | Tântalo contendo escórias com teor de estanho inferior a 0,5 % |\n| --- | --- | --- |\n\n3. Na secção GC («Outros resíduos que contenham metais»)\n\n| GC 030 | ex89 08 00 | Navios e outras estruturas flutuantes a desmantelar, devidamente esvaziados de quaisquer cargas e matérias que possam ser classificadas como perigosas |\n| --- | --- | --- |\n| GC 040 |  | Salvados de veículos a motor, esvaziados de qualquer líquido |\n\n4. Na secção GE («Resíduos de vidro sob forma não susceptível de dispersão»)\n\n| GE 010 | ex70 01 00 | Casco e outros resíduos e desperdícios de vidro, com excepção de vidro utilizado em tubos de raios catódicos e outros vidros activados |\n| --- | --- | --- |\n\n5. Na secção GF («Resíduos cerâmicos não dispersáveis»)\n\n| GF 010 |  | Resíduos de materias cerâmicos cozidos após a modelagem, incluindo os recipientes cerâmicos (antes e após o uso) |\n| --- | --- | --- |\n\n6. Na secção GH («Resíduos de materiais plásticos sob forma sólida»):\n\n| GH 010 | 3915 | Resíduos, desperdícios e aparas de matérias plásticas |\n| --- | --- | --- |\n| GH 011 | ex39 15 10 | — Polímeros de etileno |\n| GH 012 | ex39 15 20 | — Polímeros de estireno |\n| GH 013 | ex39 15 30 | — Polímeros de cloreto de vinilo |\n\n7. Todos os tipos da secção GI («Resíduos de papel, cartão e produtos papeleiros»)\n\n8. Na secção GJ («Resíduos de materiais têxteis»):\n\n| GJ 010 | 5003 | Resíduos de seda (incluindo os casulos de bichos-da-seda impróprios para dobar, os desperdícios de fios e os fiapos) |\n| --- | --- | --- |\n| GJ 011 | 5003 10 | — Não cardados nem penteados |\n| GJ 012 | 5003 90 | — Outros |\n| GJ 020 | 5103 | Resíduos de lã ou de pêlos finos ou grosseiros, incluindo os resíduos de fios e excluindo os fiapos: |\n| GJ 021 | 5103 10 | — Resíduos de penteação de lã ou de pêlos finos |\n| GJ 022 | 5103 20 | — Outros resíduos de lã ou de pêlos finos |\n| GJ 023 | 5103 30 | — Resíduos de pêlos grosseiros |\n| GJ 030 | 5202 | Resíduos de algodão (incluindo os resíduos de fios e os fiapos): |\n| GJ 031 | 5202 10 | — Resíduos de fios |\n| GJ 032 | 5202 91 | — Fiapos |\n| GJ 033 | 5202 99 | — Outros. |\n| GJ 090 | ex53 05 29 | Estopas e resíduos (incluindo os resíduos de fios e os fiapos) de abacá (cânhamo-de-Manila ou *Musa textilis* Nee) |\n| GJ 110 | 5505 | Resíduos de fibras sintéticas ou artificiais (incluindo os da penteação, os fios e os fiapos): |\n| GJ 111 | 5505 10 | — de fibras sintéticas |\n| GJ 112 | 5505 20 | — de fibras artificiais |\n| GJ 120 | 6309 00 | Artefactos de matérias têxteis, calçado, chapéus e artefactos de uso semelhante, usados |\n| GJ 130 | ex63 10 | Trapos, cordéis, cordas e cabos de matérias têxteis, em forma de desperdícios ou de artefactos inutilizados |\n| GJ 131 | ex63 10 10 | — Escolhidos |\n| GJ 132 | ex63 10 90 | — Outros |\n\n9. Na secção GK («Resíduos de borracha»)\n\n| GK 020 | 4012 20 | Pneumáticos usados |\n| --- | --- | --- |\n\n10. Todos os tipos de secção GL («Resíduos de cortiça e madeira não tratados»)\n\n11. Na secção GM («Resíduos provenientes da indústria alimentar e agro-alimentar»):\n\n| GM 080 | ex23 08 | Matérias vegetais e desperdícios vegetais, resíduos e subprodutos vegetais, mesmo em *pellets*, dos tipos utilizados na alimentação de animais, não especificados nem compreendidos noutras posições |\n| --- | --- | --- |"
+  },
+  "c3fc5aeae5ff2d78": {
+   "fragment_id": "CABO VERDE",
+   "type": "divisao",
+   "heading": "CABO VERDE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CABO VERDE\n\nTodos os tipos"
+  },
+  "d3c8fee417a366b4": {
+   "fragment_id": "CATAR",
+   "type": "divisao",
+   "heading": "CATAR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CATAR\n\nTodos os tipos"
+  },
+  "c4cd1c7f831c9f70": {
+   "fragment_id": "COLÔMBIA",
+   "type": "divisao",
+   "heading": "COLÔMBIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COLÔMBIA\n\n1. Na secção GA [«Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão ([^12^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#E0014))»]\n\n2. Na secção GB («Resíduos que contenham metais, provenientes da fusão, da fundição e da refinação de metais»):\n\n| GB 040 | ex26 20 90 | Escórias provenientes do tratamento dos metais preciosos e do cobre, destinadas a uma valorização ulterior |\n| --- | --- | --- |\n\n3. Na secção GC («Outros resíduos que contenham metais»):\n\n| GC 070 | ex26 19 00 | Escòrias provenientes de fabricação do ferro ou do aço-carbono (incluindo o aço fracamente ligado), à excepção das escórias produzidas especificamente para satisfazer exigências e normas nacionais e internacionais pertinentes [(^1^)](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#E0015) |\n| --- | --- | --- |\n| (^1^)Esta posição inclui escórias utilizadas na obtenção de dióxido de titânio e de vanádio. |  |  |\n\n4. Na secção GD («Resíduos provenientes de explorações minerais que não se encontrem na forma dispersa»):\n\n| GD 040 […] | ex25 29 30 | Resíduos de leucite, nefelina e nefelina-sienite |\n| --- | --- | --- |\n| [▼C1](http://publications.europa.eu/resource/celex/31999R1420R%2801%29) |  |  |\n| GD 050 | ex25 29 10 | Resíduos de feldspato |\n| [▼B](http://publications.europa.eu/resource/celex/31999R1420) |  |  |\n| GD 060 | ex25 29 21 | Resíduos de fluospato |\n| ex25 29 22 |  |  |\n\n5. Na secção GG («Outros resíduos constituídos principalmente por substâncias inorgânicas que possam conter metais e matérias orgânicas»):\n\n| GG 030 | ex26 21 | Cinzas pesadas e escórias provenientes de centrais eléctricas a carvão |\n| --- | --- | --- |\n| GG 040 | ex26 21 | Cinzas volantes provenientes de centrais eléctricas a carvão |\n| GG 060 | ex28 03 | Carvão activado usado resultante do tratamento de água potável e de processos da indústria alimentar e de produção de vitaminas |\n| GG 080 | ex26 21 00 | Escórias provenientes da produção do cobre, quimicamente estabilizadas, contendo uma quantidade importante de ferro (superior a 20 %) e tratadas em conformidade com as especificações industriais (ou seja, DIN 4301 e DIN 8201), destinadas principalmente à construção e às aplicações abusivas |\n| GG 100 |  | Carbonato de cálcio proveniente da produção de cianamida de cálcio (com um pH inferior a 9) |\n\n6. Na secção GH («Resíduos de materiais plásticos sob a forma sólida»):\n\n| GH 013 | ex39 15 30 | Resíduos, desperdícios e aparas de materiais plásticos de polímeros de cloreto de vinilo |\n| --- | --- | --- |\n| GH 015 | ex39 15 90 | Resíduos, desperdícios e aparos de plástico de — Resinas ou produtos de condensação de, por exemplo: — Resinas ureicas de formaldeído — Resinas fenólicas de formaldeído — Resinas melamínicas de formaldeído — Resinas epóxidas — Resinas alquídicas — Poliamidas |\n\n7. Na secção GJ («Resíduos de materiais têxteis»):\n\n| GJ 050 | ex53 02 90 | Estopas e resíduos (incluindo os resíduos de fios e fiapos) de cânhamo (*Cannabis sativa* L.) |\n| --- | --- | --- |\n\n8. Na secção GK («Resíduos de borracha»):\n\n| GK 020 | 4012 20 | Pneumáticos usados |\n| --- | --- | --- |\n| GK 030 | ex40 17 00 | Resíduos e desperdícios de borracha endurecida (por exemplo, ebonite) |\n\n9. Na secção GO («Outros resíduos constituídos principalmente por substâncias orgânicas que possam conter metais e matérias inorgânicas»):\n\n| GO 040 |  | Resíduos de suportes fotográficos e de películas fotográficas que não contenham prata |\n| --- | --- | --- |\n| GO 050 |  | Aparelhos fotográficos descartáveis após utilização, sem pilhas |"
+  },
+  "c9cf03cee9e58832": {
+   "fragment_id": "COMORES, REPÚBLICA FEDERAL ISLÂMICA:",
+   "type": "divisao",
+   "heading": "COMORES, REPÚBLICA FEDERAL ISLÂMICA:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COMORES, REPÚBLICA FEDERAL ISLÂMICA:\n\nTodos os tipos com excepção de:\n\nNa secção GJ («Resíduos de materiais têxteis»):\n\n| GJ 120 | 6309 00 | Artefactos de matérias têxteis, calçado, chapéus e artefactos de uso semelhante, usados |\n| --- | --- | --- |"
+  },
+  "37f87a760debc73a": {
+   "fragment_id": "COSTA RICA:",
+   "type": "divisao",
+   "heading": "COSTA RICA:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COSTA RICA:\n\nTodos os tipos"
+  },
+  "a66dd71824f0aa3f": {
+   "fragment_id": "DOMÍNICA:",
+   "type": "divisao",
+   "heading": "DOMÍNICA:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DOMÍNICA:\n\nTodos os tipos"
+  },
+  "883d27d77e7d805f": {
+   "fragment_id": "REPÚBLICA DOMINICANA",
+   "type": "divisao",
+   "heading": "REPÚBLICA DOMINICANA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REPÚBLICA DOMINICANA\n\nTodos os tipos"
+  },
+  "5a8694815f5f535c": {
+   "fragment_id": "JIBUTI",
+   "type": "divisao",
+   "heading": "JIBUTI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### JIBUTI\n\nTodos os tipos"
+  },
+  "a12ae78f73a581d0": {
+   "fragment_id": "EGIPTO:",
+   "type": "divisao",
+   "heading": "EGIPTO:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### EGIPTO:\n\nTodos os tipos, com excepção de:\n\n1. Todos os tipos de secção GA («Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão»).\n\n2. Todos os tipos de secção GI («Resíduos de papel, cartão e produtos papeleiros»).\n\n3. Todos os tipos de secção GJ («Resíduos de materiais têxteis»)."
+  },
+  "b3148ba2f33bb3ad": {
+   "fragment_id": "FIJI",
+   "type": "divisao",
+   "heading": "FIJI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### FIJI\n\nTodos os tipos"
+  },
+  "0e03fe1d45672511": {
+   "fragment_id": "GÂMBIA",
+   "type": "divisao",
+   "heading": "GÂMBIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GÂMBIA\n\nTodos os tipos, com excepção de:\n\nNa secção GJ («Resíduos de materiais têxteis»):\n\n| GJ 120 | 6309 00 | Artefactos de matérias têxteis, calçado, chapéus e artefactos de uso semelhante, usados |\n| --- | --- | --- |"
+  },
+  "44cdeee3c581469d": {
+   "fragment_id": "GANA",
+   "type": "divisao",
+   "heading": "GANA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GANA\n\nTodos os tipos"
+  },
+  "d486d74616d6a2c6": {
+   "fragment_id": "GRANADA",
+   "type": "divisao",
+   "heading": "GRANADA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GRANADA\n\nTodos os tipos, com excepção de:\n\nNa secção GK («Resíduos de borracha»)\n\n| GK 020 | 4012 20 | Pneumáticos usados |\n| --- | --- | --- |"
+  },
+  "27946a24eb4a9139": {
+   "fragment_id": "GUIANA",
+   "type": "divisao",
+   "heading": "GUIANA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GUIANA\n\nTodos os tipos"
+  },
+  "345fe41cebf63a52": {
+   "fragment_id": "JAMAICA",
+   "type": "divisao",
+   "heading": "JAMAICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### JAMAICA\n\nTodos os tipos com excepção dos tipos seguintes:\n\nTodos os tipos na secção GM («Resíduos provenientes da indústria alimentar e agro-alimentar»)"
+  },
+  "51eb3477a52947d0": {
+   "fragment_id": "QUIRIBATI",
+   "type": "divisao",
+   "heading": "QUIRIBATI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### QUIRIBATI\n\nTodos os tipos"
+  },
+  "24ab5e45ae265e2c": {
+   "fragment_id": "HAITI",
+   "type": "divisao",
+   "heading": "HAITI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### HAITI\n\nTodos os tipos"
+  },
+  "083f5e852d83f59e": {
+   "fragment_id": "HONDURAS",
+   "type": "divisao",
+   "heading": "HONDURAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### HONDURAS\n\nTodos os tipos"
+  },
+  "f8efae786e3b0f06": {
+   "fragment_id": "KUWAIT",
+   "type": "divisao",
+   "heading": "KUWAIT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### KUWAIT\n\nTodos os tipos, com excepção de:\n\nNa secção GH («Resíduos de materiais plásticos sob forma sólida»):\n\n| GH 011 | ex39 15 10 | Resíduos, desperdícios e aparas de matérias plásticas — Polímeros de etileno |\n| --- | --- | --- |"
+  },
+  "5360d7d421b22216": {
+   "fragment_id": "LÍBANO",
+   "type": "divisao",
+   "heading": "LÍBANO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LÍBANO\n\nTodos os tipos, com excepção de:\n\nNa secção GJ («Resíduos de materiais têxteis»):\n\n| GJ 120 | 6309 00 | Artefactos de matérias têxteis, calçado, chapéus e artefactos de uso semelhante, usados |\n| --- | --- | --- |"
+  },
+  "cb0e5ba4c8df8f7d": {
+   "fragment_id": "LÍBIA",
+   "type": "divisao",
+   "heading": "LÍBIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LÍBIA\n\nTodos os tipos"
+  },
+  "a8f78f87c37e9ee6": {
+   "fragment_id": "MALAVI",
+   "type": "divisao",
+   "heading": "MALAVI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MALAVI\n\nTodos os tipos, com excepção de:\n\n1. Todos os tipos de secção GA («Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão»)\n\n2. Todos os tipos de secção GE («Resíduos de vidro sob forma não susceptível de dispersão»)\n\n3. Todos os tipos da secção GI («Resíduos de papel, cartão e produtos papeleiros»)\n\n4. Na secção GJ («Resíduos de materiais têxteis»):\n\n| GJ 120 | 6309 00 | Artefactos de matérias têxteis, calçado, chapéus e artefactos de uso semelhante, usados |\n| --- | --- | --- |"
+  },
+  "50d4804c85eca25a": {
+   "fragment_id": "MALDIVAS",
+   "type": "divisao",
+   "heading": "MALDIVAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MALDIVAS\n\nTodos os tipos"
+  },
+  "301505e9a246cd4c": {
+   "fragment_id": "MALI",
+   "type": "divisao",
+   "heading": "MALI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MALI\n\n1. Na secção GA [«Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão ([^13^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#E0016))»]:\n\nTodos os tipos de desperdícios, resíduos e sucata de metais não ferrosos e suas ligas\n\n2. Todos os tipos da secção GE («Resíduos de vidro sob forma não susceptível de dispersão»)\n\n3. Todos os tipos de secção GF («Resíduos cerâmicos não dispersáveis»)\n\n4. Todos os tipos de secção GH («Resíduos de materiais plásticos sob forma sólida»)\n\n5. Todos os tipos da secção GN («Resíduos provenientes das operações de curtimenta e de preparação e de utilização das peles»)"
+  },
+  "5fb4a4b8b3a92bce": {
+   "fragment_id": "MOLDÁVIA",
+   "type": "divisao",
+   "heading": "MOLDÁVIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MOLDÁVIA\n\nTodos os tipos"
+  },
+  "5a8ea1088f699814": {
+   "fragment_id": "MONGÓLIA",
+   "type": "divisao",
+   "heading": "MONGÓLIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MONGÓLIA\n\nTodos os tipos"
+  },
+  "a646e03de25c414c": {
+   "fragment_id": "MIANMAR",
+   "type": "divisao",
+   "heading": "MIANMAR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MIANMAR\n\nTodos os tipos"
+  },
+  "cf291f9714a4221b": {
+   "fragment_id": "NAMÍBIA",
+   "type": "divisao",
+   "heading": "NAMÍBIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### NAMÍBIA\n\nTodos os tipos"
+  },
+  "507ea02dc0408afa": {
+   "fragment_id": "NICARÁGUA",
+   "type": "divisao",
+   "heading": "NICARÁGUA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### NICARÁGUA\n\nTodos os tipos"
+  },
+  "9ab2da539c949706": {
+   "fragment_id": "NÍGER",
+   "type": "divisao",
+   "heading": "NÍGER",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### NÍGER\n\nTodos os tipos, com excepção de:\n\n1. Na secção GJ («Resíduos de materiais têxteis»):\n\n| GJ 120 | 6309 00 | Artefactos de matérias têxteis, calçado, chapéus e artefactos de uso semelhante, usados |\n| --- | --- | --- |\n\n2. Na secção GK («Resíduos de borracha»):\n\n| GK 020 | 4012 20 | Pneumáticos usados |\n| --- | --- | --- |"
+  },
+  "f45eb8a2b6119653": {
+   "fragment_id": "NIGÉRIA",
+   "type": "divisao",
+   "heading": "NIGÉRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### NIGÉRIA\n\nTodos os tipos com excepção dos seguintes:\n\n1. Todos os tipos na secção GA [«Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão» ([^14^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#E0017))].\n\n2. Todos os tipos na secção GB («Outros resíduos que contenham metais resultantes da fundição, da fusão e do acabamento de metais»).\n\n3. Todos os tipos na secção GH («Resíduos de materiais plásticos sob forma sólida»).\n\n4. Todos os tipos na secção GI («Resíduos de papel, cartão e produtos papeleiros»).\n\n5. Na secção GJ («Resíduos de materiais têxteis»):\n\n| GJ 010 | 5003 | Resíduos de seda (incluindo os casulos de bichos-da-seda impróprios para dobar, os desperdícios de fios e os fiapos): |\n| --- | --- | --- |\n| GJ 011 | 5003 10 | — Não cardados nem penteados |\n| GJ 012 | 5003 90 | — Outros |\n| GJ 020 | 5103 | Resíduos de lã ou de pêlos finos ou grosseiros, incluindo os resíduos de fios e excluindo os fiapos: |\n| GJ 021 | 5103 10 | — Resíduos da penteação de lã ou de pelos finos |\n| GJ 022 | 5103 20 | — Outros resíduos de lã ou de pêlos finos |\n| GJ 023 | 5103 30 | — Resíduos de pêlos grosseiros |\n| GJ 030 | 5202 | Resíduos de algodão (incluindo os resíduos de fios e os fiapos): |\n| GJ 031 | 5202 10 | — Resíduos de fios |\n| GJ 032 | 5202 91 | — Fiapos |\n| GJ 033 | 5202 99 | — Outros |\n| GJ 040 | 5301 30 | Estopas e resíduos de linho |\n| GJ 050 | ex53 02 90 | Estopas e resíduos (incluindo os resíduos de fios e os fiapos) de cânhamo (*Canabis sativa* L.) |\n| GJ 060 | ex53 03 90 | Estopas e resíduos (incluindo os resíduos de fios e os fiapos) de juta e outras fibras têxteis liberianas (excepto linho, cânhamo e rami) |\n| GJ 070 | ex53 04 90 | Estopas e resíduos (incluindo os resíduos de fios e os fiapos) de sisal e outras fibras têxteis do género Agave. |\n| GJ 080 | ex53 05 19 | Estopas, óleos e resíduos (incluindo os resíduos de fios e os fiapos) de cairo (fibras de coco) |\n| GJ 090 | ex53 05 29 | Estopas, óleos e resíduos (incluindo os resíduos de fios e os fiapos) de abacá (cânhamo de Manila ou *Musa textilis* Nee) |\n| GJ 100 | ex53 05 99 | Estopas, óleos e resíduos (incluindo os resíduos de fios e os fiapos) de rami e outras fibras têxteis vegetais não especificadas nem compreendidas noutras posições |\n| GJ 110 | 5505 | Resíduos de fibras sintéticas ou artificiais (incluindo os da penteação, os de fios e os fiapos): |\n| GJ 111 | 5505 10 | — De fibras sintéticas |\n| GJ 112 | 5505 20 | — De fibras artificiais |\n| GJ 130 | ex63 10 | Artefactos de matérias têxteis, calçado, chapéus e artefactos de uso semelhante usados: |\n| GJ 131 | ex63 10 10 | — Escolhidos |\n| GJ 132 | ex53 10 90 | — Outros |\n| GJ 140 | ex63 10 | Resíduos têxteis provenientes de revestimento do solo, tapetes. |\n\n6. Na secção GK («Resíduos de borracha»):\n\n| GK 010 | 4004 00 | Resíduos, desperdícios e aparas de borracha não endurecida, mesmo reduzidos a pó ou a grânulos |\n| --- | --- | --- |\n| GK 030 | ex40 17 00 | Resíduos e desperdícios de borracha endurecida (por exemplo ebonite). |\n\n7. Na secção GM («Resíduos provenientes da indústria alimentar e agro-alimentar»):\n\n| GM 070 | ex23 07 | Borras de vinho |\n| --- | --- | --- |\n| GM 080 | ex23 08 | Matérias vegetais e desperdícios vegetais, resíduos e subprodutos vegetais, mesmo em pellets, dos tipos utilizados na alimentação de animais, não especificados nem compreendidos noutras posições |\n| GM 090 | 1522 | Degras; resíduos provenientes do tratamento das matérias gordas ou das ceras animais ou vegetais |\n| GM 100 | 0506 90 | Resíduos de ossos e de núcleos córneos, em bruto, desengordurados, simplesmente preparados (mas não cortados em forma determinada), acidulados ou degelatinados |\n| GM 110 | ex05 11 91 | Resíduos de peixes |\n| GM 120 | 1802 00 | Cascas, películas e outros desperdícios de cacau. |"
+  },
+  "840352011365e273": {
+   "fragment_id": "PAQUISTÃO",
+   "type": "divisao",
+   "heading": "PAQUISTÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PAQUISTÃO\n\n1. Na secção GK («Resíduos de borracha»):\n\n| GK 020 | 4012 20 | Pneumáticos usados |\n| --- | --- | --- |\n\n2. Na secção GM («Resíduos provenientes da indústria alimentar e agro-alimentar»):\n\n| GM 070 | ex23 07 | Borras de vinho |\n| --- | --- | --- |\n\n3. Na secção GN («Resíduos provenientes das operações de curtimenta e de preparação e de utilização das peles»)\n\n| GN 010 | ex05 02 00 | Resíduos de cerdas de porco ou de javali, de pêlos de texugo e de outros pêlos para escovas, pincéis e artigos semelhantes |\n| --- | --- | --- |"
+  },
+  "633fcd1aab13b189": {
+   "fragment_id": "PAPUÁSIA NOVA GUINÉ",
+   "type": "divisao",
+   "heading": "PAPUÁSIA NOVA GUINÉ",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PAPUÁSIA NOVA GUINÉ\n\nTodos os tipos"
+  },
+  "d53cf152d01de522": {
+   "fragment_id": "PARAGUAI",
+   "type": "divisao",
+   "heading": "PARAGUAI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARAGUAI\n\nTodos os tipos, com excepção dos seguintes:\n\n1. Na secção GA [«Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão ([^15^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#E0018))»]:\n\n| GA 120 | 7404 00 | Desperdícios, resíduos e sucata de cobre |\n| --- | --- | --- |\n| GA 140 | 7602 00 | Desperdícios, resíduos e sucata de alumínio |\n| GA 150 | ex78 02 00 | Desperdícios, resíduos e sucata de chumbo |\n| GA 160 | 7902 00 | Desperdícios, resíduos e sucata de zinco |\n| GA 170 | 8002 00 | Desperdícios, resíduos e sucata de estanho |\n| GA 430 | 7204 | Desperdícios, resíduos e sucata de ferro ou aço |\n\n2. Todos os tipos na secção GH («Resíduos de matérias plásticas sob forma sólida»)\n\n3. Todos os tipos na Secção GI («Resíduos de papel, cartão e produtos papeleiros»).\n\n4. Na secção GJ («Resíduos de materias têxteis»):\n\n| GJ 010 | 5003 | Resíduos de seda (incluindo os casulos de bichos-da-seda impróprios para dobrar os desperdícios de fios e os fiapos): |\n| --- | --- | --- |\n| GJ 011 | 5003 10 | — Não cardados nem penteados |\n| GJ 030 | 5202 | Resíduos de algodão (incluindo os resíduos de fios e os fiapos) |\n| GJ 031 | 5202 10 | Resíduos de fios |\n| GJ 032 | 5202 91 | Fiapos |\n\n5. Todos os tipos na secção GL («Resíduos de cortiça e de madeira não tratados»)\n\n| GL 010 | ex44 01 30 | Resíduos e aparas de madeira, mesmo aglomerados sob a forma de troncos, briquetes, *pellets* ou similares |\n| --- | --- | --- |\n| GL 020 | 4501 90 | Resíduos de cortiça; cortiça triturada, granulada ou em pó |"
+  },
+  "06dba59540e99e17": {
+   "fragment_id": "PERU",
+   "type": "divisao",
+   "heading": "PERU",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PERU\n\nTodos os tipos com excepção dos tipos seguintes:\n\nNa secção GA [«Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão ([^16^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#E0019))»]:\n\n| GA 430 | 7204 | Desperdícios, resíduos e sucata de ferro ou aço. |\n| --- | --- | --- |"
+  },
+  "e3b9cc801bf5bcd0": {
+   "fragment_id": "ROMÉNIA",
+   "type": "divisao",
+   "heading": "ROMÉNIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ROMÉNIA\n\nTodos os tipos com excepção dos tipos seguintes:\n\n1. Na secção GA [«Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão» ([^17^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#E0020))]:\n\na) Os resíduos e desperdícios dos seguintes metais preciosos e suas ligas:\n\n| GA 010 | ex71 12 10 | — Ouro |\n| --- | --- | --- |\n| GA 020 | ex71 12 20 | — Platina (o termo «platina» engloba a platina, o irídio, o ósmio, o paládio, o ródio e o ruténio) |\n| GA 030 | ex71 12 90 | — Outros metais preciosos, por exemplo a prata |\n| *NB:* O mercúrio é explicitamente excluído enquanto componente destes metais. |  |  |\n\nb) Os seguintes desperdícios, resíduos e sucata de metais não ferrosos e das respectivas ligas:\n\n| GA 120 | 7404 00 | Desperdícios, resíduos e sucata de cobre |\n| --- | --- | --- |\n| GA 140 | 7602 00 | desperdícios, resíduos e sucata de alumínio |\n| GA 150 | 7802 00 | desperdícios, resíduos e sucata de chumbo |\n| GA 160 | 7902 00 | desperdícios, resíduos e sucata de zinco |\n| GA 430 | 7204 | desperdícios, resíduos e sucata de ferro ou aço. |\n\n2. Na secção GE («Resíduos de vidro sob forma não susceptível de dispersão»):\n\n| GE 010 | ex70 01 00 | Cacos, fragmentos e outros desperdícios e resíduos de vidro com excepção do vidro proveniente de tubos catódicos e outros vidros activados. |\n| --- | --- | --- |\n\n3. Na secção GI («Resíduos de papel, cartão e produtos papeleiros»):\n\n| GI 010 | 4707 | Resíduos, desperdícios e aparas de papel ou de cartão. |\n| --- | --- | --- |\n\n4. Na secção GJ («Resíduos de materiais têxteis»):\n\n| GJ 020 | 5103 | Resíduos de lã ou de pêlos finos ou grosseiros incluindo os resíduos de fios e excluindo os fiapos |\n| --- | --- | --- |\n| GJ 030 | 5202 | Resíduos de algodão (incluindo os resíduos de fios e os fiapos). |\n\n5. Na secção GO («Outros resíduos constituídos principalmente por substâncias orgânicas, que possam conter metais e matérias inorgânicas»):\n\nGO 050 Aparelhos fotográficos descartáveis após utilização, sem pilhas."
+  },
+  "7b9402911b953d31": {
+   "fragment_id": "SÃO TOMÉ E PRÍNCIPE",
+   "type": "divisao",
+   "heading": "SÃO TOMÉ E PRÍNCIPE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SÃO TOMÉ E PRÍNCIPE\n\nTodos os tipos, com excepção de:\n\n1. Na secção GJ («Resíduos de materiais têxteis»):\n\n| GJ 111 | 5505 10 | — de fibras sintéticas |\n| --- | --- | --- |\n| GJ 120 | 6309 00 | Artefactos de matérias têxteis, calçado, chápéus e artefactos de uso semelhante, usados |\n| GJ 130 | ex 6310 | Trapos, cordéis, cordas e cabos de matérias têxteis, em forma de desperdícios ou de artefactos inutilizados |\n| GJ 131 | ex63 10 10 | — escolhidos |\n| GJ 132 | ex63 10 90 | — outros |\n\n2. Na secção GK («Resíduos de borracha»):\n\n| GK 020 | 4012 20 | Pneumáticos usados |\n| --- | --- | --- |"
+  },
+  "6a8620ea3bc5355e": {
+   "fragment_id": "ARÁBIA SAUDITA",
+   "type": "divisao",
+   "heading": "ARÁBIA SAUDITA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ARÁBIA SAUDITA\n\nTodos os tipos, com excepção de:\n\nNa secção GH («Resíduos de materiais plásticos sob a forma sólida»):\n\nGH 014ex3915 9 0Resíduos, desperdícios e aparas de materiais plásticos de poliuteranos não contendo hidrocarbonetos clorofluoretados"
+  },
+  "3680d3a46c6e2674": {
+   "fragment_id": "SENEGAL",
+   "type": "divisao",
+   "heading": "SENEGAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SENEGAL\n\nTodos os tipos"
+  },
+  "21c4bfde93dfc0a1": {
+   "fragment_id": "SEICHELES",
+   "type": "divisao",
+   "heading": "SEICHELES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SEICHELES\n\nTodos os tipos"
+  },
+  "0311def83c5de0ec": {
+   "fragment_id": "SINGAPURA",
+   "type": "divisao",
+   "heading": "SINGAPURA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SINGAPURA\n\nTodos os tipos, com excepção dos seguintes:\n\n1. Na secção GA [«Resíduos e metais e suas ligas sob forma metálica não susceptível de dispersão ([^18^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#E0021))»]:\n\nOs resíduos e desperdícios dos seguintes metais preciosos e suas ligas:\n\n| GA 010 | ex71 12 10 | — ouro |\n| --- | --- | --- |\n| GA 020 | ex71 12 20 | — platina (o tempo «platina» engloba a platina, o irídio, o ósmio, o paládio, o ródio e o ruténio) |\n| GA 030 | ex71 12 90 | — outros metais preciosos, por exemplo a prata |\n\n*NB:* O mercúrio é explicitamente excluído enquanto componente destes metais ou das respectivas ligas ou amálgamas.\n\nOs seguintes desperdícios, resíduos e sucata de metais não ferrosos e das respectivas ligas:\n\n| GA 120 | 7404 00 | Desperdícios, resíduos e sucata de cobre |\n| --- | --- | --- |\n| GA 130 | 7503 00 | Desperdícios, resíduos e sucata de níquel |\n| GA 140 | 7602 00 | Desperdícios, resíduos e sucata de alumínio |\n| GA 150 | ex78 02 00 | Desperdícios, resíduos e sucata de chumbo |\n| GA 170 | 8002 00 | Desperdícios, resíduos e sucata de estanho |\n| GA 190 | ex81 02 91 | Desperdícios, resíduos e sucata de molibdénio |\n| GA 250 | ex81 08 10 | Desperdícios, resíduos e sucata de titânio |\n| GA 260 | ex81 09 10 | Desperdícios, resíduos e sucata de zircónio |\n| GA 280 | ex81 11 00 | Desperdícios, resíduos e sucata de manganês |\n| GA 300 | ex81 12 20 | Desperdícios, resíduos e sucata de crómio |\n| GA 320 | ex81 12 40 | Desperdícios, resíduos e sucata de vanádio |\n| GA 350 | ex81 12 91 | Desperdícios, resíduos e sucata de nióbio |\n| GA 430 | 7204 | Desperdícios, resíduos e sucata de ferro ou aço |\n\n2. Na secção GC («Outros resíduos que contenham metais»):\n\n| GC 020 |  | Resíduos electrónicos (por exemplo, circuitos impressos, componentes electrónicos, fios, etc.) e componentes electrónicos reciclados para a recuperação de metais comuns e preciosos |\n| --- | --- | --- |\n| GC 070 | ex26 19 00 | Escórias provenientes da fabricação do ferro ou de aço carbono (incluindo aço fracamente ligado) excluindo as escórias produzidas especificamente para satisfazer os requisitos e normas nacionais e internacionais aplicáveis [(^1^)](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#E0022) |\n| (^1^)Esta posição inclui as escórias utilizadas na obtenção do dióxido de titânio e de vanádio. |  |  |\n\n3. Na secção GD («Resíduos provenientes de explorações minerais que se encontrem sob forma não susceptível de dispersão»):\n\n| GD 020 | ex25 14 00 | Resíduos de ardósia, mesmo aparada ou simplesmente serrada, ou de outro modo |\n| --- | --- | --- |\n\n4. Na secção GH («Resíduos de matérias plásticas sob forma sólida»):\n\n| GH 013 | ex39 15 30 | Resíduos, desperdícios e aparas de matérias plásticas de: — Polémeros de cloreto de vinilo |\n| --- | --- | --- |"
+  },
+  "5b6a7323ebaa218d": {
+   "fragment_id": "SÃO CRISTOVÃO E NEVIS",
+   "type": "divisao",
+   "heading": "SÃO CRISTOVÃO E NEVIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SÃO CRISTOVÃO E NEVIS\n\nTodos os tipos"
+  },
+  "941bb8b113165d47": {
+   "fragment_id": "SANTA LÚCIA",
+   "type": "divisao",
+   "heading": "SANTA LÚCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SANTA LÚCIA\n\nTodos os tipos"
+  },
+  "7d85e7752db56b1c": {
+   "fragment_id": "SÃO VICENTE E GRANADINAS",
+   "type": "divisao",
+   "heading": "SÃO VICENTE E GRANADINAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SÃO VICENTE E GRANADINAS\n\nTodos os tipos"
+  },
+  "4431acc7ac5da85e": {
+   "fragment_id": "TANZÂNIA",
+   "type": "divisao",
+   "heading": "TANZÂNIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TANZÂNIA\n\nTodos os tipos com excepção de:\n\n1. Na secção GE («Resíduos de vidro sob forma não susceptível de dispersão ([^19^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#E0023))»):\n\n| GE 010 | ex70 01 00 | Casco e outros resíduos e desperdícios de vidro, com excepção de vidro utilizado em tubos de raios catódicos e outros vidros activados. |\n| --- | --- | --- |\n\n2. Na secção GJ («Resíduos de materiais têxteis»):\n\n| GJ 120 | 6309 00 | Artefactos de matérias têxteis, calçado, chapéus e artefactos de uso semelhante, usados |\n| --- | --- | --- |"
+  },
+  "38ad47f222e1bcc4": {
+   "fragment_id": "TUNÍSIA",
+   "type": "divisao",
+   "heading": "TUNÍSIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TUNÍSIA\n\n1. Na secção GC («Outros resíduos que contenham metais»):\n\n| GC 050 | Catalizadores de cracking catalítico em meio fluido (por exemplo, óxido de aluminio, zeólitos) |\n| --- | --- |\n| GC 060 | Catalizadores usados que contenham metais, nomeadamente: — Metais incluídos no grupo da platina: ruténio, ródio, paládio, ósmio, irídio, platino — Metais de transição: escândio, vanádio, manganês, cobalto, cobre, ítrio, nióbio, háfnio, tungsténio, titânio, crómio, ferro, níquel, zinco, zircónio, molibdénio, tântalo, rénio — Lantânidos (metais de terras raras): lantânio, praseodímio, samário, gadolínio, disprósio, érbio, itérbio, cério, neodímio, európio, térbio, hólmio, túlio, lutécio. |\n| Os seguintes resíduos de metais e suas ligas sob forma metálica susceptível de dispersão: |  |\n| GC 090 | Molibdénio |\n| GC 100 | Tungsténio |\n| GC 110 | Tântalo |\n| GC 120 | Titânio |\n| GC 130 | Nióbio |\n| GC 140 | Rénio. |\n\n2. Na secção GG («Outros resíduos constituídos principalmente por substâncias inorgânicas que possam conter metais em matérias orgânicas»):\n\n| GG 030 | ex26 21 | Cinzas pesadas e escórias provenientes de centrais eléctricas a carvão |\n| --- | --- | --- |\n| GG 040 | ex26 21 | Cinzas volantes provenientes de centrais eléctricas a carvão |\n| GG 050 |  | Ânodos usados de coque de petróleo e/ou betume de petróleo |\n| GG 060 | ex28 03 | Carvão activado usado, proveniente do tratamento da água potável e da indústria alimentar e da produção de vitaminas |\n| GG 080 | ex26 21 00 | Escórias provenientes da produção do cobre, quimicamente estabilizadas, contendo uma quantidade importante de ferro (superior a 20 %) e tratadas em conformidade com as especificações industriais (ou seja DIN 4301 e DIN 8201) destinadas principalmente à construção e às aplicações abrasivas |\n| GG 110 | ex26 21 00 | Lamas vermelhas neutralizadas provenientes da produção de alumina. |\n\n3. Na secção GJ («Resíduos de materiais têxteis»):\n\n| GJ 110 | 5505 | Resíduos de fibras sintéticas ou artificiais (incluindo os da penteação, os de fios e os fiapos): |\n| --- | --- | --- |\n| GJ 111 | 5505 10 | — De fibras sintéticas |\n| GJ 112 | 5505 20 | — De fibras artificiais. |\n\n4. Na secção GO («Outros resíduos constituídos principalmente por substâncias orgânicas, que possam conter metais e substâncias inorgânicas»):\n\nGO 030 Micélio de fungos desactivados provenientes da produção de penicilina, utilizado para a alimentação de animais\n\nGO 040 Resíduos de suportes fotográficos e de películas fotográficas que não contenham prata\n\nGO 050 Aparelhos fotográficos descartáveis após utilização, sem pilhas."
+  },
+  "2f31315e6fcc33b8": {
+   "fragment_id": "UGANDA",
+   "type": "divisao",
+   "heading": "UGANDA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### UGANDA\n\nTodos os tipos, com excepção de:\n\n1. Na secção GA («Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão»):\n\n| GA 050 | 7204 21 | Desperdícios, resíduos e sucata de aços inoxidáveis |\n| --- | --- | --- |\n| GA 060 | 7204 29 | Desperdícios, resíduos e sucata de outras ligas de aço |\n\n2. Na secção GJ («Resíduos de materiais têxteis»)\n\n| GJ 120 | 6309 00 | Artefactos de matérias têxteis, calçado, chapéus e artefactos de uso semelhante, usados |\n| --- | --- | --- |"
+  },
+  "8a0b92765de5f38c": {
+   "fragment_id": "USBEQUISTÃO",
+   "type": "divisao",
+   "heading": "USBEQUISTÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### USBEQUISTÃO\n\nTodos os tipos"
+  },
+  "158c0aacda44293d": {
+   "fragment_id": "TUVALU",
+   "type": "divisao",
+   "heading": "TUVALU",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TUVALU\n\nTodos os tipos"
+  },
+  "f42683d256afcfd0": {
+   "fragment_id": "VANUATU",
+   "type": "divisao",
+   "heading": "VANUATU",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### VANUATU\n\nTodos os tipos"
+  },
+  "c7049ea891f260a2": {
+   "fragment_id": "CIDADE DO VATICANO",
+   "type": "divisao",
+   "heading": "CIDADE DO VATICANO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CIDADE DO VATICANO\n\nTodos os tipos"
+  },
+  "ac830d0ee536b96d": {
+   "fragment_id": "SAMOA OCIDENTAL",
+   "type": "divisao",
+   "heading": "SAMOA OCIDENTAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SAMOA OCIDENTAL\n\nTodos os tipos"
+  },
+  "c13b99ba13d00e28": {
+   "fragment_id": "ANEXO B",
+   "type": "divisao",
+   "heading": "ANEXO B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO B"
+  },
+  "4c967a935fdaa240": {
+   "fragment_id": "Países e territórios que não responderam às notificações da Comissão relativas às transferências de certos tipos de resíduos destinados a valorização que figuram no Anexo II do Regulamento (CEE) n.º 259/93 do Conselho",
+   "type": "divisao",
+   "heading": "Países e territórios que não responderam às notificações da Comissão relativas às transferências de certos tipos de resíduos destinados a valorização que figuram no Anexo II do Regulamento (CEE) n.º 259/93 do Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Países e territórios que não responderam às notificações da Comissão relativas às transferências de certos tipos de resíduos destinados a valorização que figuram no Anexo II do Regulamento (CEE) n.º 259/93 do Conselho"
+  },
+  "f6b5826a584ea607": {
+   "fragment_id": "AFEGANISTÃO",
+   "type": "divisao",
+   "heading": "AFEGANISTÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### AFEGANISTÃO\n\nTodos os tipos"
+  },
+  "65237881de562d3f": {
+   "fragment_id": "ARGÉLIA",
+   "type": "divisao",
+   "heading": "ARGÉLIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ARGÉLIA\n\nTodos os tipos"
+  },
+  "ccbfe9bf51cd5ebd": {
+   "fragment_id": "ANGOLA",
+   "type": "divisao",
+   "heading": "ANGOLA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ANGOLA\n\nTodos os tipos, com excepção de:\n\n1. Todos os tipos da secção GA («Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão»).\n\n2. Todos os tipos da secção GE («Resíduos de vidro sob forma não susceptível de dispersão»).\n\n3. Todos os tipos da secção GI («Resíduos de papel, cartão e produtos papeleiros»).\n\n4. Todos os tipos da secção GJ («Resíduos de materiais têxteis»).\n\n5. Todos os tipos da secção GK («Resíduos de borracha»)."
+  },
+  "9babe86638eddbe4": {
+   "fragment_id": "EMIRATOS ÁRABES UNIDOS",
+   "type": "divisao",
+   "heading": "EMIRATOS ÁRABES UNIDOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### EMIRATOS ÁRABES UNIDOS\n\nTodos os tipos"
+  },
+  "5de521ace25235b2": {
+   "fragment_id": "ARMÉNIA",
+   "type": "divisao",
+   "heading": "ARMÉNIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ARMÉNIA\n\nTodos os tipos"
+  },
+  "b49c94f42e412600": {
+   "fragment_id": "AZERBAIJÃO",
+   "type": "divisao",
+   "heading": "AZERBAIJÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### AZERBAIJÃO\n\nTodos os tipos"
+  },
+  "5d1b5e410864f139": {
+   "fragment_id": "BANGLADECHE",
+   "type": "divisao",
+   "heading": "BANGLADECHE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### BANGLADECHE\n\nTodos os tipos"
+  },
+  "621160cbd76aa7c1": {
+   "fragment_id": "BRUNEI",
+   "type": "divisao",
+   "heading": "BRUNEI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### BRUNEI\n\nTodos os tipos"
+  },
+  "996a51b9ad545eb8": {
+   "fragment_id": "CAMBOJA",
+   "type": "divisao",
+   "heading": "CAMBOJA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAMBOJA\n\nTodos os tipos"
+  },
+  "db91d8fbb38e6bbb": {
+   "fragment_id": "EQUADOR",
+   "type": "divisao",
+   "heading": "EQUADOR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### EQUADOR\n\nTodos os tipos"
+  },
+  "ede017ac7b494c93": {
+   "fragment_id": "EL SALVADOR",
+   "type": "divisao",
+   "heading": "EL SALVADOR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### EL SALVADOR\n\nTodos os tipos"
+  },
+  "bf8066033c95fe27": {
+   "fragment_id": "GUINÉ EQUATORIAL",
+   "type": "divisao",
+   "heading": "GUINÉ EQUATORIAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GUINÉ EQUATORIAL\n\nTodos os tipos"
+  },
+  "789ee6941935e9f0": {
+   "fragment_id": "ERITREIA",
+   "type": "divisao",
+   "heading": "ERITREIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ERITREIA\n\nTodos os tipos"
+  },
+  "1046b03e9b79aacd": {
+   "fragment_id": "ETIÓPIA",
+   "type": "divisao",
+   "heading": "ETIÓPIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ETIÓPIA\n\nTodos os tipos"
+  },
+  "6de19af431668f65": {
+   "fragment_id": "ANTIGA REPÚBLICA JUGOSLAVA DA MACEDÓNIA",
+   "type": "divisao",
+   "heading": "ANTIGA REPÚBLICA JUGOSLAVA DA MACEDÓNIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ANTIGA REPÚBLICA JUGOSLAVA DA MACEDÓNIA\n\nTodos os tipos"
+  },
+  "47a26ea63fbf50da": {
+   "fragment_id": "GABÃO",
+   "type": "divisao",
+   "heading": "GABÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GABÃO\n\nTodos os tipos"
+  },
+  "b2599cccece51bf8": {
+   "fragment_id": "GUATEMALA",
+   "type": "divisao",
+   "heading": "GUATEMALA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GUATEMALA\n\nTodos os tipos"
+  },
+  "36352113edc902a1": {
+   "fragment_id": "GUINÉ",
+   "type": "divisao",
+   "heading": "GUINÉ",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GUINÉ\n\nTodos os tipos, com excepção de:\n\nNa secção GJ («Resíduos de materiais têxteis»):\n\n| GJ 120 | 6309 00 | Artefactos de matérias têxteis, calçado, chapéus e artefactos de uso semelhante, usados |\n| --- | --- | --- |\n\n2. Todos os tipos na secção GM («Resíduos provenientes da indústria alimentar e agro-alimentar»)"
+  },
+  "4f4d4d0faa50ad1e": {
+   "fragment_id": "COSTA DO MARFIM",
+   "type": "divisao",
+   "heading": "COSTA DO MARFIM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COSTA DO MARFIM\n\nTodos os tipos"
+  },
+  "da61695227116892": {
+   "fragment_id": "CAZAQUISTÃO",
+   "type": "divisao",
+   "heading": "CAZAQUISTÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAZAQUISTÃO\n\nTodos os tipos"
+  },
+  "cc39ee0c445e0f47": {
+   "fragment_id": "QUIRGUIZISTÃO",
+   "type": "divisao",
+   "heading": "QUIRGUIZISTÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### QUIRGUIZISTÃO\n\nTodos os tipos"
+  },
+  "a6773bf0582171c6": {
+   "fragment_id": "LAOS",
+   "type": "divisao",
+   "heading": "LAOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LAOS\n\nTodos os tipos"
+  },
+  "2cf074b963413534": {
+   "fragment_id": "LESOTO",
+   "type": "divisao",
+   "heading": "LESOTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LESOTO\n\nTodos os tipos"
+  },
+  "ed5a2d9746f3030f": {
+   "fragment_id": "MARROCOS",
+   "type": "divisao",
+   "heading": "MARROCOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MARROCOS\n\nTodos os tipos com excepção dos seguintes:\n\nTodos os tipos na secção GJ («Resíduos de materiais têxteis».)"
+  },
+  "a13abf4ce1a061c1": {
+   "fragment_id": "MOÇAMBIQUE",
+   "type": "divisao",
+   "heading": "MOÇAMBIQUE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MOÇAMBIQUE\n\nTodos os tipos"
+  },
+  "849be1db64bb1fbd": {
+   "fragment_id": "NEPAL",
+   "type": "divisao",
+   "heading": "NEPAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### NEPAL\n\nTodos os tipos"
+  },
+  "d82627f69fbdabee": {
+   "fragment_id": "OMÃ",
+   "type": "divisao",
+   "heading": "OMÃ",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OMÃ\n\nTodos os tipos"
+  },
+  "65b83a90bde8ed1b": {
+   "fragment_id": "PANAMÁ",
+   "type": "divisao",
+   "heading": "PANAMÁ",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PANAMÁ\n\nTodos os tipos"
+  },
+  "053859581845ae1b": {
+   "fragment_id": "FEDERAÇÃO RUSSA",
+   "type": "divisao",
+   "heading": "FEDERAÇÃO RUSSA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### FEDERAÇÃO RUSSA\n\nTodos os tipos, com excepção de:\n\n1. Na secção GA («Resíduos de metais e suas ligas sob forma metálica não susceptível de dispersão»):\n\na) Os seguinte desperdícios, resíduos e sucata de metais não ferrosos e suas ligas\n\n| GA 150 | 7802 00 | Desperdícios, resíduos e sucata de chumbo |\n| --- | --- | --- |\n| GA 160 | 7902 00 | Desperdícios, resíduos e sucata de zinco |\n| GA 170 | 8002 00 | Desperdícios, resíduos e sucata de estanho |\n| GA 180 | ex81 01 91 | Desperdícios, resíduos e sucata de tungsténio |\n| GA 190 | ex81 02 91 | Desperdícios, resíduos e sucata de molibdénio |\n| GA 200 | ex81 03 10 | Desperdícios, resíduos e sucata de tântalo |\n| GA 210 | 8104 20 | Desperdícios, resíduos e sucata de magnésio (com excepção dos enumerados em AA 190) [(^1^)](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#E0024) |\n| GA 220 | ex81 05 10 | Desperdícios, resíduos e sucata de cobalto |\n| GA 230 | ex81 06 00 | Desperdícios, resíduos e sucata de bismuto |\n| GA 240 | ex81 07 10 | Desperdícios, resíduos e sucata de cádmio |\n| GA 250 | ex81 08 10 | Desperdícios, resíduos e sucata de titânio |\n| GA 260 | ex81 09 10 | Desperdícios, resíduos e sucata de zircónio |\n| GA 270 | ex81 10 00 | Desperdícios, resíduos e sucata de antimónio |\n| GA 280 | ex81 11 00 | Desperdícios, resíduos e sucata de manganês |\n| GA 290 | ex81 12 11 | Desperdícios, resíduos e sucata de berílio |\n| GA 300 | ex81 12 20 | Desperdícios, resíduos e sucata de crómio |\n| GA 310 | ex81 12 30 | Desperdícios, resíduos e sucata de germânio |\n| GA 320 | ex81 12 40 | Desperdícios, resíduos e sucata de vanádio |\n|  | ex81 12 91 | Desperdícios, resíduos e sucata de: |\n| GA 330 |  | — Háfnio |\n| GA 340 |  | — Índio |\n| GA 350 |  | — Nióbio |\n| GA 400 | ex28 44 90 | Desperdícios, resíduos e sucata de selénio |\n| GA 410 | ex28 04 50 | Desperdícios, resíduos e sucata de telúrio |\n| (^1^)Ver anexo III da Decisão 98/368/CE da Comissão, de 18 de Maio de 1998 (JO L 165 de 10.6.1998, p. 20). |  |  |\n\n2. Na secção GB («Resíduos que contenham metais, provenientes da fusão, da fundição e da refinação de metais»):\n\n| GB 010 | 2620 11 | Mates de galvanização |\n| --- | --- | --- |\n| GB 025 | — Resíduos provenientes da escumação de zinco |  |\n\n3. Na secção GC («Outros resíduos que contenham metais»)\n\n| GC 030 | ex89 08 00 | Navios e outras estruturas flutuantes a desmantelar, devidamente esvaziados de quaisquer cargas e matérias que possam ser classificadas como perigosas. |\n| --- | --- | --- |\n| GC 070 | ex26 19 00 | Escórias provenientes de fabricação do ferro ou do aço-carbono (incluindo o aço fracamente ligado), à excepção das escórias produzidas especificamente para satisfazer exigências e normas nacionais e internacionais de relevo [(^1^)](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#E0025) |\n| (^1^)Esta posição inclui escórias utilizadas na obtenção de dióxido de titânio e de vanádio. |  |  |\n\n4. Na secção GD («Resíduos provenientes de explorações mineiras que não se encontrem na forma dispersiva»):\n\n| GD 020 | ex25 14 00 | Resíduos de ardósia, mesmo desbastada ou simplesmente cortada à serra ou por outro meio |\n| --- | --- | --- |\n| GD 030 | 2525 30 | Resíduos de mica |\n| GD 070 | ex28 11 22 | Resíduos de silício sob forma sólida, excepto os utilizados nas operações de fundição |\n\n5. Na secção GG («Outros resíduos constituídos principalmente por substâncias inorgânicas que possam conter metais e matérias orgânicas»):\n\n| GG 030 | ex26 21 | Cinzas pesadas e escórias provenientes de centrais eléctricas a carvão |\n| --- | --- | --- |\n| GG 040 | ex26 21 | Cinzas volantes provenientes de centrais eléctricas a carvão |\n| GG 060 | ex28 03 | Carvão activado usado resultante do tratamento de água potável e de processos da indústria alimentar e de produção de vitaminas |\n| GG 110 | ex26 21 00 | Lamas vermelhas neutralizadas provenientes da produção de alumina. |\n\n6. Todos os tipos incluídos na secção GH («Resíduos de materiais plásticos sob a forma sólida»).\n\n7. Na secção GJ («Resíduos de materiais têxteis»):\n\n| GJ 110 | 5505 | Resíduos de fibras sintéticas ou artificiais (incluindo os da penteação, os de fios e os fiapos): |\n| --- | --- | --- |\n| GJ 111 | 5505 10 | – de fibras sintéticas |\n| GJ 112 | 5505 20 | – de fibras artificiais |\n\n8. Todos os tipos incluídos na secção GK («Resíduos de borracha»).\n\n9. Na secção GM («Resíduos provenientes da indústria alimentar e agro-alimentar»):\n\n| GM 090 | 1522 | *Dégras*; resíduos provenientes do tratamento das matérias gordas ou das ceras animais ou vegetais |\n| --- | --- | --- |\n| GM 100 | 0506 90 | Resíduos de ossos e de núcleos córneos, em bruto, desengordurados, simplesmente preparados (mas não cortados em forma determinada), acidulados ou degelatinados |\n| GM 110 | ex05 11 91 | Resíduos de peixes |\n\n10. Na secção GN («Resíduos provenientes das operações de curtimenta e de preparação utilização das peles»):\n\n| GN 010 | ex05 02 00 | Resíduos de cerdas de porco ou de javali, de pêlos de texugo e de outros pêlos para escovas, pincéis e artigos semelhantes |\n| --- | --- | --- |\n| GN 020 | ex05 03 00 | Resíduos de crinas, mesmo em mantas, com ou sem suporte |\n| GN 030 | ex05 05 90 | Resíduos de peles e outras partes de aves com as suas penas ou penugem, de penas e partes de penas (mesmo aparadas), de penugem em bruto ou simplesmente limpos, desinfectados ou preparados tendo em vista a sua conservação. |\n\n11. Na secção GO («Outros resíduos constituídos principalmente por substâncias orgânicas que possam conter metais e matérias inorgânicas»):\n\n| GO 010 | ex05 01 00 | Resíduos de cabelos |\n| --- | --- | --- |"
+  },
+  "54a8c9f7349b0b1b": {
+   "fragment_id": "ILHAS SALOMÃO",
+   "type": "divisao",
+   "heading": "ILHAS SALOMÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ILHAS SALOMÃO\n\nTodos os tipos"
+  },
+  "703644893a3b2c25": {
+   "fragment_id": "SUDÃO",
+   "type": "divisao",
+   "heading": "SUDÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SUDÃO\n\nTodos os tipos"
+  },
+  "c9429dbdb70c21b3": {
+   "fragment_id": "SUAZILÂNDIA",
+   "type": "divisao",
+   "heading": "SUAZILÂNDIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SUAZILÂNDIA\n\nTodos os tipos"
+  },
+  "fc138cc15e7ea619": {
+   "fragment_id": "SÍRIA",
+   "type": "divisao",
+   "heading": "SÍRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SÍRIA\n\nTodos os tipos"
+  },
+  "f7cf93eaecf8732c": {
+   "fragment_id": "TAJIQUISTÃO",
+   "type": "divisao",
+   "heading": "TAJIQUISTÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TAJIQUISTÃO\n\nTodos os tipos"
+  },
+  "487c129ecb709ff2": {
+   "fragment_id": "TONGA",
+   "type": "divisao",
+   "heading": "TONGA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TONGA\n\nTodos os tipos"
+  },
+  "02f57aba4bc9d314": {
+   "fragment_id": "TUNÍSIA",
+   "type": "divisao",
+   "heading": "TUNÍSIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TUNÍSIA\n\n1. Na secção GC («Outros resíduos contendo metais»):\n\n| GC 070 | ex26 19 00 | Escórias provenientes da fabricação do ferro ou de aço carbono (incluindo aço fracamente ligado) excluindo as escórias produzidas especificamente para satisfazer os requisitos e normas nacionais e internacionais pertinentes [(^1^)](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#E0026). |\n| --- | --- | --- |\n| GC 080 |  | Calamina (metal ferroso) |\n| (^1^)Esta posição inclui as escórias utilizadas na obtenção do dióxido de titânio e de vanádio. |  |  |\n\n2. Na secção GN («Resíduos provenientes das operações de curtimenta e de preparação e utilização das peles»):\n\n| GN 030 | ex05 05 90 | Resíduos de peles e outras partes de aves com suas penas ou penugem, de penas e partes de penas (mesmo aparadas) de penugem em bruto ou simplesmente limpos, desinfectados ou preparados tendo em vista a sua conservação. |\n| --- | --- | --- |"
+  },
+  "4bc0c6ae909a1cff": {
+   "fragment_id": "TURQUEMENISTÃO",
+   "type": "divisao",
+   "heading": "TURQUEMENISTÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TURQUEMENISTÃO\n\nTodos os tipos"
+  },
+  "8fc2fd506bcb27c0": {
+   "fragment_id": "VENEZUELA",
+   "type": "divisao",
+   "heading": "VENEZUELA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### VENEZUELA\n\nTodos os tipos"
+  },
+  "3cb51a37a534bb87": {
+   "fragment_id": "IÉMEN",
+   "type": "divisao",
+   "heading": "IÉMEN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### IÉMEN\n\nTodos os tipos\n\n---"
+  },
+  "975976eb9e9c049e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#src.E0001)) JO C 214 de 10.7.1998, p. 74.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#src.E0002)) Parecer emitido em 29 de Abril de 1998(JO C 169 de 16.6.1999).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 17 de Julho de 1997 (JO C 286 de 22.9.1997, p. 229), posição comum do Conselho de 4 de Junho de 1998 (JO C 333 de 30.10.1998, p. 1 ) e decisão do Parlamento Europeu de 9 de Fevereiro de 1999 ( JO C 250 de 28.5.1999).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#src.E0004)) JO L 30 de 6.2.1993, p. 1. Regulamento com a última redacção que lhe foi dada pelo, Regulamento (CE) n.º 120/97 (JO L 22 de 24.1.1997, p. 14).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#src.E0005)) JO L 220 de 25.8.1994, p. 15.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#src.E0006)) JO L 377 de 31.12.1991, p. 20. Directiva alterada pela Directiva 94/31/CE (JO L 168; de 2.7.1994, p. 28).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#src.E0007)) JO L 194 de 25.7.1975, p. 39. Directiva com a última redacção que lhe foi dada pela Decisão 96/350/CE da Comissão (JO L 135 de 6.6.1996, p. 32).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#src.E0008)) «Não susceptíveis de dispersão» não inclui qualquer tipo de pó, lamas, poeiras ou matérias sólidas que contenham resíduos líquidos perigosos.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#src.E0009)) «Não susceptíveis de dispersão» não inclui qualquer tipo de pó, lamas, poeiras ou matérias sólidas que contenham resíduos líquidos perigosos.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#src.E0011)) «Não susceptível de dispersão» não inclui resíduos sob a forma de pós, lamas, poeiras ou partículas sólidas que contenham resíduos líquidos perigosos.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#src.E0012)) «Não susceptíveis de dispersão» não inclui qualquer tipo de pó, lamas, poeiras ou matérias sólidas que contenham resíduos líquidos perigosos.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#src.E0014)) «Não susceptível de dispersão» não inclui resíduos sob a forma de pós, lamas, poeiras ou partículas sólidas que contenham resíduos líquidos perigosos.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#src.E0016)) «Não susceptível de dispersão» não inclui resíduos sob a forma de pós, lamas, poeiras ou partículas sólidas que contenham resíduos líquidos perigosos.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#src.E0017)) «Não susceptíveis de dispersão» não inclui qualquer tipo de pó, lamas, poeiras ou matérias sólidas que contenham resíduos líquidos perigosos.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#src.E0018)) «Não susceptível de dispersão» não inclui resíduos sob a forma de pós, lamas, poeiras ou outros sólidos que contenham resíduos líquidos perigosos.\n\n> ([^16^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#src.E0019)) «Não susceptíveis de dispersão» não inclui qualquer tipo de pó, lamas, poeiras ou matérias sólidas que contenham resíduos líquidos perigosos.\n\n> ([^17^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#src.E0020)) «Não susceptíveis de dispersão» não inclui qualquer tipo de pó, lamas, poeiras ou matérias sólidas que contenham resíduos líquidos perigosos.\n\n> ([^18^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#src.E0021)) «Não susceptível de dispersão» não inclui resíduos sob a forma de pós, lamas, poeiras ou outros sólidos que contenham resíduos líquidos perigosos\n\n> ([^19^](http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1#src.E0023)) «Não susceptível de dispersão» não incluí resíduos sob a forma de pós, lamas, poeiras ou partículas sólidas que contenham líquidos perigosos."
+  }
+ }
+}

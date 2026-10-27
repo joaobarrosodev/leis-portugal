@@ -1,0 +1,500 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31977L0799:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01977L0799-20130101",
+ "dre_path": null,
+ "source_lastmod": "2013-01-01",
+ "versions": [
+  {
+   "date": "1977-12-27",
+   "future": false,
+   "celex": "31977L0799",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5bc564f2428c3622",
+    "d2f1101aa91c0890",
+    "24eeb180f02ca435",
+    "b9ff06f55a30e848",
+    "bbf0c6a6da8234f1",
+    "51c88d3bf4ba0221",
+    "4025ffab081506a3",
+    "6f0cbdbca1aac68f",
+    "9cbd60573c3f33c6",
+    "e69f7fc6634b66b1",
+    "715c0fabdc678b13",
+    "a449abae66f1c44e",
+    "11f79decd4713c43",
+    "d9cadfa595502916"
+   ]
+  },
+  {
+   "date": "2004-12-24",
+   "future": false,
+   "celex": "01977L0799-20041224",
+   "acts": [
+    {
+     "id": "eu:celex:31979L1070:por",
+     "title": "M1",
+     "published": null,
+     "celex": "31979L1070"
+    },
+    {
+     "id": "eu:celex:31992L0012:por",
+     "title": "M2",
+     "published": null,
+     "celex": "31992L0012"
+    },
+    {
+     "id": "eu:celex:32003L0093:por",
+     "title": "DIRECTIVA 2003/93/CE DO CONSELHO de 7 de Outubro de 2003",
+     "published": null,
+     "celex": "32003L0093"
+    },
+    {
+     "id": "eu:celex:32004L0056:por",
+     "title": "DIRECTIVA 2004/56/CE DO CONSELHO de 21 de Abril de 2004",
+     "published": null,
+     "celex": "32004L0056"
+    },
+    {
+     "id": "eu:celex:32004L0106:por",
+     "title": "DIRECTIVA 2004/106/CE DO CONSELHO de 16 de Novembro de 2004",
+     "published": null,
+     "celex": "32004L0106"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Grécia",
+     "published": null,
+     "celex": "11979H"
+    },
+    {
+     "id": null,
+     "title": "A3",
+     "published": null,
+     "celex": "11985I"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º — Disposições gerais",
+    "Adita Artigo 2.º — Troca de informações mediante pedido",
+    "Adita Artigo 3.º — Troca automática de informações",
+    "Adita Artigo 4.º — Troca espontânea de informações",
+    "Adita Artigo 5.º — Prazo de transmissão",
+    "Adita Artigo 6.º — Colaboração de agentes do Estado interessado",
+    "Adita Artigo 7.º — Disposições relativas ao sigilo",
+    "Adita Artigo 8.º — Limites da troca de informações",
+    "Adita Artigo 8.ºA — Notificação",
+    "Adita Artigo 8.ºB — Controlos simultâneos",
+    "Adita Artigo 9.º — Consultas",
+    "Adita Artigo 10.º — Comunicação de experiências",
+    "Adita Artigo 11.º — Aplicabilidade de disposições mais amplas em matéria de assistência",
+    "Adita Artigo 12.º — Disposições finais",
+    "Adita Artigo 13.º",
+    "Adita Notas",
+    "Suprime Artigo 1o — Disposições gerais",
+    "Suprime Artigo 2o — Troca de informações mediante pedido",
+    "Suprime Artigo 3o — Troca automática de informações",
+    "Suprime Artigo 4o — Troca espontânea de informações",
+    "Suprime Artigo 5o — Prazo de transmissão",
+    "Suprime Artigo 6o — Colaboração de agentes do Estado interessado",
+    "Suprime Artigo 7o — Disposições relativas ao sigilo",
+    "Suprime Artigo 8o — Limites da troca de informações",
+    "Suprime Artigo 9o — Consultas",
+    "Suprime Artigo 10o — Comunicação de experiências",
+    "Suprime Artigo 11o — Aplicabilidade de disposições mais amplas em matéria de assistência",
+    "Suprime Artigo 12o — Disposições finais",
+    "Suprime Artigo 13o"
+   ],
+   "fragments": [
+    "53b069bb3bb3dfa1",
+    "90f471f18b34c99a",
+    "e7940e8f5cf1db12",
+    "51ae64dcad70d13e",
+    "4763ca99bdc89f31",
+    "32662951d926cf27",
+    "b6ac2cf951e65b49",
+    "00564df689d501d9",
+    "1f468d90c642defd",
+    "88ddcaf93f1b9868",
+    "1214d951eb6dbc28",
+    "d8577f03123c8e0b",
+    "1585c8dd78a011ac",
+    "6f6898db05e4cbb9",
+    "46a9fec789618d45",
+    "9da057764dd6bd1b",
+    "59a6a794be635bf1"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01977L0799-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:32006L0098:por",
+     "title": "DIRECTIVA 2006/98/CE DO CONSELHO de 20 de Novembro de 2006",
+     "published": null,
+     "celex": "32006L0098"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Disposições gerais",
+    "Altera Artigo 7.º — Disposições relativas ao sigilo",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "0340b4e15ac9d3c8",
+    "9038e8c6b79e11a0",
+    "e7940e8f5cf1db12",
+    "51ae64dcad70d13e",
+    "4763ca99bdc89f31",
+    "32662951d926cf27",
+    "b6ac2cf951e65b49",
+    "6caa0cd85ddee68b",
+    "1f468d90c642defd",
+    "88ddcaf93f1b9868",
+    "1214d951eb6dbc28",
+    "d8577f03123c8e0b",
+    "1585c8dd78a011ac",
+    "6f6898db05e4cbb9",
+    "46a9fec789618d45",
+    "9da057764dd6bd1b",
+    "b5daa106e37775e5"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "celex": "01977L0799-20130101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Disposições gerais",
+    "Suprime Artigo 2.º — Troca de informações mediante pedido",
+    "Suprime Artigo 3.º — Troca automática de informações",
+    "Suprime Artigo 4.º — Troca espontânea de informações",
+    "Suprime Artigo 5.º — Prazo de transmissão",
+    "Suprime Artigo 6.º — Colaboração de agentes do Estado interessado",
+    "Suprime Artigo 7.º — Disposições relativas ao sigilo",
+    "Suprime Artigo 8.º — Limites da troca de informações",
+    "Suprime Artigo 8.ºA — Notificação",
+    "Suprime Artigo 8.ºB — Controlos simultâneos",
+    "Suprime Artigo 9.º — Consultas",
+    "Suprime Artigo 10.º — Comunicação de experiências",
+    "Suprime Artigo 11.º — Aplicabilidade de disposições mais amplas em matéria de assistência",
+    "Suprime Artigo 12.º — Disposições finais",
+    "Suprime Artigo 13.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "3ccabc02374a2537"
+   ]
+  }
+ ],
+ "fragments": {
+  "5bc564f2428c3622": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 77/799/CEE do Conselho, de 19 de Dezembro de 1977, relativa à assistência mútua das autoridades competentes dos Estados-Membros no domínio dos impostos directos** *Jornal Oficial nº L 336 de 27/12/1977 p. 0015 - 0020 Edição especial finlandesa: Capítulo 9 Fascículo 1 p. 0064 Edição especial grega: Capítulo 09 Fascículo 1 p. 0086 Edição especial sueca: Capítulo 9 Fascículo 1 p. 0064 Edição especial espanhola: Capítulo 09 Fascículo 1 p. 0094 Edição especial portuguesa: Capítulo 09 Fascículo 1 p. 0094*\n\nDIRECTIVA DO CONSELHO de 19 de Dezembro de 1977 relativa à assistência mútua das autoridades competentes dos Estados-membros no domínio dos impostos directos\n\n(77/799/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que a prática da fraude e da evasão fiscais para além das fronteiras dos Estados-membros conduz a perdas orçamentais e a violações do princípio da justiça fiscal e é susceptível de provocar distorções nos movimentos de capitais e nas condições de concorrência, afectando consequentemente o funcionamento do mercado comun;\n\nConsiderando que, por essas razões, o Conselho adoptou, em 10 de Fevereiro de 1975, uma resolução relativa às medidas a tomar pela Comunidade no domínio da luta contra a fraude e a evasão fiscais internacionais (3);\n\nConsiderando que, tendo em conta a natureza internacional do problema, as medidas nacionais cujos efeitos não se repercutam para além das fronteiras de um Estado, são insuficientes e que a colaboração entre as administrações, com base em acordos bilaterais, é igualmente incapaz de fazer face às novas formas de fraude e de evasão fiscais, que assumem cada vez mais carácter multinacional;\n\nConsiderando que convém, por conseguinte, reforçar a colaboração entre as administrações fiscais, na Comunidade, de harmonia com princípios e regras comuns;\n\nConsiderando que os Estados-membros devem trocar informações, quando lhe sejam solicitadas, no que se refere a casos especiais, e que o Estado a que foi feito o pedido deve promover as investigações necessárias para obter essas informações;\n\nConsiderando que os Estados-membros devem trocar todas e quaisquer informações, ainda que não lhes sejam solicitadas, que se afigurem úteis para o correcto estabelecimento dos impostos sobre o rendimento e a fortuna, especialmente nos casos em que se verifique a transferência fictícia de lucros entre empresas situadas em Estados-membros diferentes, ou quando tais transacções entre empresas situadas em dois Estados-membros sejam efectuadas por intermédio de um país terceiro com o propósito de obter benefícios fiscais, ou ainda quando tenha havido ou possa haver evasão ao imposto por qualquer razão;\n\nConsiderando que importa autorizar a presença de agentes da administração fiscal de um Estado-membro no território de um outro Estado-membro, quando ambos os Estados o desejem;\n\nConsiderando que convém assegurar que as informações transmitidas no âmbito de uma colaboração nos moldes referidos não sejam divulgadas a pessoas não autorizadas, de forma a respeitar os direitos fundamentais dos cidadãos e das empresas; que é, por consequência, necessário, salvo autorização do Estado-membro que as fornece, que os Estados-membros que recebem as referidas informações as utilizem exclusivamente para fins fiscais ou com o propósito de facilitar as acções intentadas contra pessoas que não actuem em conformidade com a legislação fiscal desses Estados; que é igualmente necessário que tais Estados confiram às informações referidas o mesmo carácter de confidencialidade que tinham no Estado de que provêm, se este o exigir;\n\nConsiderando que convém conceder a um Estado-membro o direito de se recusar a efectuar investigações ou de proceder à transmissão de informações, quando a legislação ou a prática administrativa do Estado-membro que é chamado a fornecer as informações não autorize a respectiva administração fiscal a efectuar tais investigações nem a recolher ou a utilizar as informações no seu próprio interesse, ou quando tal transmissão seja contrária à ordem pública ou conduza à divulgação de um segredo comercial, industrial ou profissional ou de um processo comercial, ou ainda quando o Estado-membro ao qual as informações se destinem não esteja em situação de proceder, por razões de facto ou de direito, à transmissão de informações equivalentes;\n\nConsiderando ser necessária a colaboração entre os Estados-membros e a Comissão para estudar, com carácter permanente, os procedimentos de cooperação e as trocas de experiência nas áreas consideradas, e, designadamente, na da transferência fictícia de lucros dentro de grupos de empresas, tendo em vista o aperfeiçoamento dos referidos procedimentos e a elaboração da regulamentação comunitária adequada,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "d2f1101aa91c0890": {
+   "fragment_id": "Artigo 1o — Disposições gerais",
+   "type": "artigo",
+   "heading": "Artigo 1o — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o — Disposições gerais\n\n1. Nos termos da presente directiva, as autoridades competentes dos Estados-membros trocarão todas as informações que lhes permitam o estabelecimento correcto dos impostos sobre o rendimento e o património.\n\n2. São considerados impostos sobre o rendimento e o património, independentemente do sistema de cobrança, os impostos que incidem sobre o rendimento global, sobre o património total ou sobre elementos do rendimento ou do património, incluindo os impostos sobre os lucros provenientes da alienação de bens móveis ou imóveis, os impostos sobre o montante dos salários pagos pelas empresas, bem como os impostos sobre as mais-valias.\n\n3. Os impostos actuais referidos no no 2 são, designadamente, os seguintes:\n\nNa Bélgica:\n\nImpôt des personnes physiques / Personenbelasting,\n\nImpôt des sociétés / Vennootschapsbelasting,\n\nImpôt des personnes morales / Rechtspersonnenbelasting,\n\nImpôt des non-résidents / Belasting der niet-verblijfhouders;\n\nNa Dinamarca:\n\nIndkomstskatten til staten,\n\nSelsskabsskat,\n\nDen kommunals indkomstskat,\n\nDen amtskommunale indkomstskat,\n\nFolkepensionsbidragene,\n\nSoemandsskatten,\n\nDen saerlige indkomstskat,\n\nKirkeskatten,\n\nFormueskatten til staten,\n\nBidrag til dagpengefonden;\n\nNa Alemanha:\n\nEinkommenssteuer,\n\nKoerperschaftsteuer,\n\nVermoegensteuer,\n\nGewerbesteuer,\n\nGrundsteuer;\n\nNa França:\n\nImpôt sur le revenu,\n\nImpôt sur les sociétés,\n\nTaxe professionnelle,\n\nTaxe foncière sur les propriétés bâties,\n\nTaxe foncière sur les propriétés non bâties;\n\nNa Irlanda:\n\nIncome tax,\n\nCorporation tax,\n\nCapital gains tax,\n\nWealth tax;\n\nEm Itália:\n\nImposta sul reddito delle persone fisiche,\n\nImposta sul reddito delle persone giuridiche,\n\nImposta locale sui redditi;\n\nNo Luxemburgo:\n\nImpôt sur le revenu des personnes physiques,\n\nImpôt sur le revenu des collectivités,\n\nImpôt commercial communal,\n\nImpôt sur la fortune,\n\nImpôt foncier;\n\nNos Países Baixos:\n\nInkomstenbelasting,\n\nVennootschapsbelasting,\n\nVermogensbelasting;\n\nNo Reino Unido:\n\nIncome tax,\n\nCorporation rax,\n\nCapital gains tax,\n\nPetroleum revenue tax,\n\nDevelopment land tax.\n\n4. O disposto no no 1 é igualmente aplicável aos impostos de natureza idêntica ou análoga que venham a acrescer aos impostos referidos no no 3 ou a substituí-los. As autoridades competentes dos Estados-membros comunicarão entre si e à Comissão as datas da entrada em vigor de tais impostos.\n\n5. A expressão« autoridade competente» designa:\n\nNa Bélgica:\n\nLe ministre des finances ou un représentant autorisé (o ministro das Finanças ou um representante autorizado),\n\nDe minister van financiën ou um representante autorizado;\n\nNa Dinamarca:\n\nMinisteren for skatter of afgifter ou um representante autorizado;\n\nNa República Federal da Alemanha:\n\nDer Bundesminister der Finanzen ou um representante autorizado;\n\nNa França:\n\nLe ministre de l'Economie et des Finances ou um representante autorizado;\n\nNa Irlanda:\n\nThe Revenue Commissioners ou um representante autorizado;\n\nNa Itália:\n\nIl ministro per le finanze ou um representante autorizado;\n\nNo Luxemburgo:\n\nLe ministre des finances ou um representante autorizado;\n\nNos Países Baixos:\n\nDe Minister van financiën ou um representante autorizado;\n\nNo Reino Unido:\n\nThe Commissioners of Inland Revenue ou um representante autorizado."
+  },
+  "24eeb180f02ca435": {
+   "fragment_id": "Artigo 2o — Troca de informações mediante pedido",
+   "type": "artigo",
+   "heading": "Artigo 2o — Troca de informações mediante pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o — Troca de informações mediante pedido\n\n1. A autoridade competente de um Estado-membro pode solicitar à autoridade competente de um outro Estado-membro que lhe comunique as informações referidas no no 1 do artigo 1o, no que se refere a um caso especial. A autoridade competente do Estado a que foi feito o pedido não fica vinculada a dar seguimento favorável ao pedido formulado quando se verifique que a autoridade competente do Estado requerente não esgotou as suas próprias fontes habituais de informação, que teria podido utilizar, de acordo com as circunstâncias, para obter as informações solicitadas sem prejudicar a obtenção do resultado procurado.\n\n2. Tendo em vista a comunicação das informações referidas no no 1, a autoridade competente do Estado-membro a quem foi feito o pedido promoverá, se for caso disso, as diligências necessárias à obtenção das referidas informações."
+  },
+  "b9ff06f55a30e848": {
+   "fragment_id": "Artigo 3o — Troca automática de informações",
+   "type": "artigo",
+   "heading": "Artigo 3o — Troca automática de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o — Troca automática de informações\n\nAs autoridades competentes dos Estados-membros trocarão regularmente as informações referidas no no 1 do artigo 1o sem necessidade de pedido prévio em relação às categorias de casos que venham a determinar no âmbito do processo de consulta previsto no artigo 9o."
+  },
+  "bbf0c6a6da8234f1": {
+   "fragment_id": "Artigo 4o — Troca espontânea de informações",
+   "type": "artigo",
+   "heading": "Artigo 4o — Troca espontânea de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o — Troca espontânea de informações\n\n1. A autoridade competente de cada Estado-membro comunicará, sem necessidade de pedido prévio, as informações referidas no no 1 do artigo 1o de que tenha conhecimento, às autoridades competentes de qualquer outro Estado-membro interessado, nas seguintes circumstâncias:\n\na) A autoridade competente de um Estado-membro tem motivos para supor que existe uma redução ou uma isenção anormais de impostos no outro Estado-membro;\n\nb) Um contribuinte obtém num Estado-membro uma redução ou isenção de imposto que pode implicar um agravamento de imposto ou a sujeição a imposto no outro Estado-membro;\n\nc) Os negócios entre um contribuinte de um Estado-membro e um contribuinte de um outro Estado-membro, em que intervenham um estabelecimento estável desses contribuintes ou um ou mais terceiros, que se encontrem num ou mais países diferentes, são de molde a dar origem a uma redução de imposto num ou noutro Estado-membro ou em ambos;\n\nd) A autoridade competente de um Estado-membro tem razões para presumir que existe uma diminuição de imposto resultante de transferências fictícias de lucros dentro de grupos de empresas;\n\ne) Num Estado-membro, na sequência das informações comunicadas pela autoridade competente de outro Estado-membro, são obtidas informações que podem ser úteis ao estabelecimento do imposto neste outro Estado-membro.\n\n2. As autoridades competentes dos Estados-membros, no âmbito do processo de consulta previsto no artigo 9o, podem tornar extensiva a troca de informações referida no no 1 a outros casos além dos que aí são previstos.\n\n3. As autoridades competentes dos Estados-membros podem, em todos os outros casos, comunicar entre si, sem necessidade de pedido prévio, as informações referidas no no 1 do artigo 1o de que tenham conhecimento."
+  },
+  "51c88d3bf4ba0221": {
+   "fragment_id": "Artigo 5o — Prazo de transmissão",
+   "type": "artigo",
+   "heading": "Artigo 5o — Prazo de transmissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o — Prazo de transmissão\n\nA autoridade competente do Estado-membro que é chamada a fornecer informações, por força do disposto nos artigos anteriores, procederá à sua transmissão o mais rapidamente possível. Se o fornecimento das referidas informações deparar com obstáculos ou se for recusada, essa autoridade informará imediatamente a autoridade requerente, indicando a natureza dos impedimentos ou os motivos da sua recusa."
+  },
+  "4025ffab081506a3": {
+   "fragment_id": "Artigo 6o — Colaboração de agentes do Estado interessado",
+   "type": "artigo",
+   "heading": "Artigo 6o — Colaboração de agentes do Estado interessado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o — Colaboração de agentes do Estado interessado\n\nPara aplicação das disposições anteriores, a autoridade competente do Estado-membro que fornece as informações e a autoridade competente do Estado ao qual as informações se destinam podem acordar, no âmbito do processo de consulta previsto no artigo 9o, em autorizar a presença no primeiro Estado-membro de agentes da administração fiscal do outro Estado-membro. As modalidades de aplicação desta disposição serão estabelecidas no âmbito do mesmo processo."
+  },
+  "6f0cbdbca1aac68f": {
+   "fragment_id": "Artigo 7o — Disposições relativas ao sigilo",
+   "type": "artigo",
+   "heading": "Artigo 7o — Disposições relativas ao sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o — Disposições relativas ao sigilo\n\n1. Todas as informações de que um Estado-membro tome conhecimento em aplicação da presente directiva são consideradas secretas, nesse Estado, do mesmo modo que as informações obtidas em aplicação da sua legislação nacional.\n\nEm todo o caso, as referidas informações\n\n- só serão facultadas às pessoas directamente ligadas ao estabelecimento do imposto ou ao controlo administrativo do estabelecimento do imposto,\n\n- só serão divulgadas, por outro lado, por ocasião de processo judicial, de processo penal ou de processo que implique a aplicação de sanções administrativas, instaurados para o estabelecimento ou o controlo do estabelecimento do imposto ou com ele relacionados, e unicamente às pessoas que intervenham directamente nesses processos; podem, todavia, divulgar-se as referidas informações no decurso de audiências públicas ou em julgamento, se a autoridade competente do Estado-membro que presta as informações não apresentar objecções;\n\n- não serão utilizadas, em caso algum, para outros fins que não sejam fiscais ou para efeitos de processo judicial, de processo penal ou de processo que implique a aplicação de sanções administrativas, instaurados para o estabelecimento ou o controlo do estabelecimento do imposto, ou com ele relacionados.\n\n2. O disposto no no 1 não impõe a um Estado-membro, cuja legislação ou prática administrativa estabeleçam, para efeitos internos, limitações mais restritas do que as contidas no referido no 1, que forneça informações se o Estado interessado não se comprometer a respeitar tais restrições.\n\n3. Em derrogação do disposto no no 1, a autoridade competente do Estado-membro que fornece as informações pode autorizar a utilização dessas informações para outros fins, no Estado requerente, desde que, de acordo com a sua própria legislação, a sua utilização seja possível para os mesmos fins, nas mesmas circunstâncias.\n\n4. Quando a autoridade competente de um Estado-membro considere que as informações que obteve da autoridade competente de outro Estado-membro são susceptíveis de serem úteis para a autoridade competente de um terceiro Estado-membro, pode transmitilas a esta última com o acordo da autoridade competente que as tenha fornecido."
+  },
+  "9cbd60573c3f33c6": {
+   "fragment_id": "Artigo 8o — Limites da troca de informações",
+   "type": "artigo",
+   "heading": "Artigo 8o — Limites da troca de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o — Limites da troca de informações\n\n1. A presente directiva não impõe a obrigação de promover investigações ou de transmitir informações, quando a legislação ou a prática administrativa do Estado-membro que deve fornecer as informações não autorizem a autoridade competente a efectuar essas investigações, nem a obter ou utilizar tais informações no próprio interesse desse Estado.\n\n2. A transmissão de informações pode ser recusada quando conduza à divulgação de um segredo comercial, industrial ou profissional ou de um processo comercial, ou de uma informação cuja divulgação seja contrária à ordem pública.\n\n3. A autoridade competente de um Estado-membro pode recusar a transmissão de informações quando o Estado interessado não se encontre em situação de fornecer informações correspondentes, por razões de facto ou de direito."
+  },
+  "e69f7fc6634b66b1": {
+   "fragment_id": "Artigo 9o — Consultas",
+   "type": "artigo",
+   "heading": "Artigo 9o — Consultas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o — Consultas\n\n1. Tendo em vista a aplicação da presente directiva, efectuar-se-ao consultas, se for caso disso, no seio de um comité, entre:\n\n- as autoridades competentes dos Estados-membros interessados, a pedido de uma delas, no caso de questões bilaterais,\n\n- as autoridades competentes do conjunto dos Estados-membros e a Comissão, a pedido de uma dessas autoridades ou da Comissão, desde que não se trate exclusivamente de questões bilaterais.\n\n2. As autoridades competentes dos Estados-membros podem comunicar directamente entre si. As autoridades competentes dos Estados-membros podem, por comum acordo, autorizar que as autoridades por elas designadas efectuem contactos directos relativamente a casos especifícos ou a certas categorias de casos.\n\n3. Quando as autoridades competentes cheguem a acordo sobre questões bilaterais, nos domínios abrangidos pela presente directiva, com excepção de casos individuais, informarão a Comissão o mais rapidamente possível. A Comissão informará, por sua vez, as autoridades competentes dos outros Estados-membros."
+  },
+  "715c0fabdc678b13": {
+   "fragment_id": "Artigo 10o — Comunicação de experiências",
+   "type": "artigo",
+   "heading": "Artigo 10o — Comunicação de experiências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o — Comunicação de experiências\n\nOs Estados-membros, conjuntamente com a Comissão, acompanharão constantemente o desenvolvimento do processo de cooperação previsto na presente directiva, e comunicarão entre si os resultados globais das experiências realizadas, designadamente no domínio dos preços de transferência dos grupos de empresas, com o fim de melhorar essa cooperação e de elaborar, se for caso disso, regulamentação nessas áreas."
+  },
+  "a449abae66f1c44e": {
+   "fragment_id": "Artigo 11o — Aplicabilidade de disposições mais amplas em matéria de assistência",
+   "type": "artigo",
+   "heading": "Artigo 11o — Aplicabilidade de disposições mais amplas em matéria de assistência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o — Aplicabilidade de disposições mais amplas em matéria de assistência\n\nAs disposições anteriores não prejudicam a execução de obrigações mais amplas no que respeita à troca de informações que resultem de outros actos jurídicos."
+  },
+  "11f79decd4713c43": {
+   "fragment_id": "Artigo 12o — Disposições finais",
+   "type": "artigo",
+   "heading": "Artigo 12o — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o — Disposições finais\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva, o mais tardar em 1 de Janeiro de 1979, e comunicá-las-ao imediatamente à Comissão.\n\n2. Os Estados-membros comunicarão à Comissão as disposições essenciais de direito nacional que venham a adoptar posteriormente, no domínio regulado pela presente directiva."
+  },
+  "d9cadfa595502916": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 19 de Dezembro de 1977.\n\nPelo Conselho\n\nO Presidente\n\nG. GEENS\n\n(1) JO no C 293 de 13. 12. 1976, p. 34.(2) JO no C 56 de 7. 3. 1977, p. 66.(3) JO no C 35 de 14. 2. 1975, p. 1."
+  },
+  "53b069bb3bb3dfa1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Dezembro de 1977\n\nrelativa à assistência mútua das autoridades competentes dos Estados-Membros no domínio dos impostos directos e dos impostos sobre os prémios de seguro\n\n(77/799/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/03c6cfab-b6f2-4c28-b2e8-ed1f0e056c91.0016.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/03c6cfab-b6f2-4c28-b2e8-ed1f0e056c91.0016.03/DOC_1#E0002)),\n\nConsiderando que a prática da fraude e da evasão fiscais para além das fronteiras dos Estados-membros conduz a perdas orçamentais e a violações do princípio da justiça fiscal e é susceptível de provocar distorções nos movimentos de capitais e nas condições de concorrência, afectando consequentemente o funcionamento do mercado comun;\n\nConsiderando que, por essas razões, o Conselho adoptou, em 10 de Fevereiro de 1975, uma resolução relativa às medidas a tomar pela Comunidade no domínio da luta contra a fraude e a evasão fiscais internacionais ([^3^](http://publications.europa.eu/resource/cellar/03c6cfab-b6f2-4c28-b2e8-ed1f0e056c91.0016.03/DOC_1#E0003));\n\nConsiderando que, tendo em conta a natureza internacional do problema, as medidas nacionais cujos efeitos não se repercutam para além das fronteiras de um Estado, são insuficientes e que a colaboração entre as administrações, com base em acordos bilaterais, é igualmente incapaz de fazer face às novas formas de fraude e de evasão fiscais, que assumem cada vez mais carácter multinacional;\n\nConsiderando que convém, por conseguinte, reforçar a colaboração entre as administrações fiscais, na Comunidade, de harmonia com princípios e regras comuns;\n\nConsiderando que os Estados-membros devem trocar informações, quando lhe sejam solicitadas, no que se refere a casos especiais, e que o Estado a que foi feito o pedido deve promover as investigações necessárias para obter essas informações;\n\nConsiderando que os Estados-membros devem trocar todas e quaisquer informações, ainda que não lhes sejam solicitadas, que se afigurem úteis para o correcto estabelecimento dos impostos sobre o rendimento e a fortuna, especialmente nos casos em que se verifique a transferência fictícia de lucros entre empresas situadas em Estados-membros diferentes, ou quando tais transacções entre empresas situadas em dois Estados-membros sejam efectuadas por intermédio de um país terceiro com o propósito de obter benefícios fiscais, ou ainda quando tenha havido ou possa haver evasão ao imposto por qualquer razão;\n\nConsiderando que importa autorizar a presença de agentes da administração fiscal de um Estado-membro no território de um outro Estado-membro, quando ambos os Estados o desejem;\n\nConsiderando que convém assegurar que as informações transmitidas no âmbito de uma colaboração nos moldes referidos não sejam divulgadas a pessoas não autorizadas, de forma a respeitar os direitos fundamentais dos cidadãos e das empresas; que é, por consequência, necessário, salvo autorização do Estado-membro que as fornece, que os Estados-membros que recebem as referidas informações as utilizem exclusivamente para fins fiscais ou com o propósito de facilitar as acções intentadas contra pessoas que não actuem em conformidade com a legislação fiscal desses Estados; que é igualmente necessário que tais Estados confiram às informações referidas o mesmo, carácter de confidencialidade que tinham no Estado de que provêm, se este o exigir;\n\nConsiderando que convém conceder a um Estado-membro o direito de se recusar a efectuar investigções ou de proceder à transmissão de informações, quando a legislação ou a prática administrativa do Estado-membro que é chamado a fornecer as informações não autorize a respectiva administração fiscal a efectuar tais investigações nem a recolher ou a utilizar as informações no seu próprio interesse, ou quando tal transmissão seja contrária à ordem pública ou conduza à divulgação de um segredo comercial, industrial ou profissional ou de um processo comercial, ou ainda quando o Estado-membro ao qual as informações se destinem não esteja em situação de proceder, por razões de facto ou de direito, à transmissão de informações equivalentes;\n\nConsiderando ser necessária a colaboração entre os Estados-membros e a Comissão para estudar, com carácter permanente, os procedimentos de cooperação e as trocas de experiência nas áreas consideradas, e, designadamente, na da transferência fictícia de lucros dentro de grupos de empresas, tendo em vista o aperfeiçoamento dos referidos procedimentos e a elaboração da regulamentação comunitária adequada,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "90f471f18b34c99a": {
+   "fragment_id": "Artigo 1.º — Disposições gerais",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Disposições gerais\n\n1. As autoridades competentes dos Estados-Membros trocarão entre si, nos termos da presente directiva, todas as informações susceptíveis de lhes permitir determinar correctamente os impostos sobre o rendimento e o património, bem como todas as informações relativas à determinação dos impostos sobre os prémios de seguro, referidos no sexto travessão do artigo 3.º da Directiva 76/308/CEE do Conselho, de 15 de Março de 1976, relativa à assistência mútua em matéria de cobrança de créditos resultantes de operações que fazem parte do sistema de financiamento do Fundo Europeu de Orientação e Garantia Agrícola, bem como de direitos niveladores agrícolas e de direitos aduaneiros ([^4^](http://publications.europa.eu/resource/cellar/03c6cfab-b6f2-4c28-b2e8-ed1f0e056c91.0016.03/DOC_1#E0005)).\n\n2. São considerados impostos sobre o rendimento e o património, independentemente do sistema de cobrança, os impostos que incidem sobre o rendimento global, sobre o património total ou sobre elementos do rendimento ou do património, incluindo os impostos sobre os lucros provenientes da alienação de bens móveis ou imóveis, os impostos sobre o montante dos salários pagos pelas empresas, bem como os impostos sobre as mais-valias.\n\n3. Os impostos actuais a que se refere o artigo 2.º são, designadamente, os seguintes:\n\n*na Bélgica:*\n\nImpôt des personnes physiques—Personenbelasting\n\nImpôt des sociétés—Vennootschapsbelasting\n\nImpôt des personnes morales—Rechtspersonenbelasting\n\nImpôt des non-résidents—Belasting der niet-verblijfhouders\n\n*na Dinamarca:*\n\nIndkomstskat til staten\n\nSelskabsskat\n\nDen kommunale indkomstskat\n\nDen amtskommunale indkomstskat\n\nFolkepensionsbidragene\n\nSømandsskat\n\nDen særlige indkomstskat\n\nKirkeskat\n\nFormueskat til staten\n\nBidrag til dagpengefonden\n\n*na Alemanha:*\n\nEinkommensteuer\n\nKörperschaftsteuer\n\nVermögensteuer\n\nGewerbesteuer\n\nGrundsteuer\n\n*na Grécia:*\n\nΦόρος εισοδήματος φυσικών προσώπων\n\nΦόρος εισοδήματος νομικών προσώπων\n\nΦόρος ακινήτου περιουσίας\n\n*em Espanha:*\n\nImpuesto sobre la Renta de las Personas Físicas\n\nImpuesto sobre Sociedades\n\nImpuesto Extraordinario sobre el Patrimonio de las Personas Físicas\n\n*em França:*\n\nImpôt sur le revenu\n\nImpôt sur les sociétés\n\nTaxe professionnelle\n\nTaxe foncière sur les propriétés bâties\n\nTaxe foncière sur les propriétés non bâties\n\n*na Irlanda:*\n\nIncome tax\n\nCorporation tax\n\nCapital gains tax\n\nWealth tax\n\n*na Itália:*\n\nImposta sul reddito delle persone fisiche\n\nImposta sul reddito delle persone giuridiche\n\nImposta locale sui redditi\n\n*no Luxemburgo:*\n\nImpôt sur le revenu des personnes physiques\n\nImpôt sur le revenu des collectivités\n\nImpôt commercial communal\n\nImpôt sur la fortune\n\nImpôt foncier\n\n*nos Países Baixos:*\n\nInkomstenbelasting\n\nVennootschapsbelasting\n\nVermogensbelasting\n\n*na Áustria:*\n\nEinkommensteuer\n\nKörperschaftsteuer\n\nGrundsteuer\n\nBodenwertabgabe\n\nAbgabe von land- und forstwirtschaftlichen Betrieben\n\n*em Portugal:*\n\nContribuição predial\n\nImposto sobre a indústria agrícola\n\nContribuição industrial\n\nImposto de capitais\n\nImposto profissional\n\nImposto complementar\n\nImposto de mais-valias\n\nImposto sobre o rendimento do petróleo\n\nOs adicionais devidos sobre os impostos precedentes\n\n*na Finlândia:*\n\nValtion tuloverot—de statliga inkomstskatterna\n\nYhteisöjen tulovero—inkomstskatten för samfund\n\nKunnallisvero—kommunalskatten\n\nKirkollisvero—kyrkoskatten\n\nKansaneläkevakuutusmaksu—folkpensionsförsäkringspremien\n\nSairausvakuutusmaksu—sjukförsäkringspremien\n\nKorkotulon lähdevero—källskatten på ränteinkomst\n\nRajoitetusti verovelvollisen lähdevero—källskatten för begränsat skattskyldig\n\nValtion varallisuusvero—den statliga förmögenhetsskatten\n\nKiinteistövero—fastighetsskatten\n\n*na Suécia:*\n\nDen statliga inkomstskatten\n\nSjömansskatten\n\nKupongskatten\n\nDen särskilda inkomstskatten för utomlands bosatta\n\nDen särskilda inkomstskatten för utomlands bosatta artister m.fl.\n\nDen statliga fastighetsskatten\n\nDen kommunala inkomstskatten\n\nFörmögenhetsskatten\n\n*no Reino Unido:*\n\nIncome tax\n\nCorporation tax\n\nCapital gains tax\n\nPetroleum revenue tax\n\nDevelopment land tax\n\n*na República Checa:*\n\nDaně z příjmů\n\nDaň z nemovitostí\n\nDaň dědická, daň darovací a daň z převodu nemovitostí\n\nDaň z přidané hodnoty\n\nSpotřební daně\n\n*na Estónia:*\n\nTulumaks\n\nSotsiaalmaks\n\nMaamaks\n\n*em Chipre:*\n\nΦόρος Εισοδήματος\n\n'Εκτακτη Εισφορά για την Άμυνα της Δημοκρατίας\n\nΦόρος Κεφαλαιουχικών Κερδών\n\nΦόρος Ακίνητης Ιδιοκτησίας\n\n*na Letónia:*\n\niedzīvotāju ienākuma nodoklis\n\nnekustamā īpašuma nodoklis\n\nuzņēmumu ienākuma nodoklis\n\n*na Lituânia:*\n\nGyventojų pajamų mokestis\n\nPelno mokestis\n\nĮmonių ir organizacijų nekilnojamojo turto mokestis\n\nŽemės mokestis\n\nMokestis už valstybinius gamtos išteklius\n\nMokestis už aplinkos teršimą\n\nNaftos ir dujų išteklių mokestis\n\nPaveldimo turto mokestis\n\n*na Hungria:*\n\nszemélyi jövedelemadó\n\ntársasági adó\n\nosztalékadó\n\náltalános forgalmi adó\n\njövedéki adó\n\népítményadó\n\ntelekadó\n\n*em Malta:*\n\nTaxxa fuq l-*income*\n\n*na Polónia:*\n\nPodatek dochodowy od osób prawnych\n\nPodatek dochodowy od osób fizycznych\n\nPodatek od czynności cywilnopranych\n\n*na Eslovénia:*\n\nDohodnina\n\nDavki občanov\n\nDavek od dobička pravnih oseb\n\nPosebni davek na bilančno vsoto bank in hranilnic\n\n*na Eslováquia:*\n\ndaň z príjmov fyzických osôb\n\ndaň z príjmov právnických osôb\n\ndaň z dedičstva\n\ndaň z darovania\n\ndaň z prevodu a prechodu nehnuteľností\n\ndaň z nehnuteľností\n\ndaň z pridanej hodnoty\n\nspotrebné dane.\n\n4. O disposto no n.º 1 é igualmente aplicável aos impostos de natureza idêntica ou análoga que venham a acrescer aos impostos referidos no n.º 3 ou a substituí-los. As autoridades competentes dos Estados-membros comunicarão entre si e à Comissão as datas da entrada em vigor de tais impostos.\n\n5. A expressão «autoridade competente» designa:\n\n*na Bélgica:*\n\nDe Minister van financiën or an authorized representative\n\nLe Ministre des finances or an authorized representative\n\n*na Dinamarca:*\n\nSkatteministeren or an authorized representative\n\n*na Alemanha:*\n\nDer Bundesminister der Finanzen or an authorized representative\n\n*na Grécia:*\n\nΤο Υπουργείο Οικονομικών or an authorized representative\n\n*em Espanha:*\n\nEl Ministro de Economía y Hacienda or an authorized representative\n\n*em França:*\n\nLe ministre de l'économie or an authorized representative\n\n*na Irlanda:*\n\nThe Revenue Commissioners or their authorized representative\n\n*na Itália:*\n\nIl Capo del Dipartimento per le Politiche Fiscali ou um representante autorizado\n\n*no Luxemburgo:*\n\nLe ministre de finance or an authorized representative\n\n*nos Países Baixos:*\n\nDe minister van financiën or an authorized representative\n\n*na Áustria:*\n\nDer Bundesminister für Finanzen or an authorized representative\n\n*em Portugal:*\n\nO Ministro das Finanças or an authorized representative\n\n*na Finlândia:*\n\nValtiovarainministeriö or an authorized representative\n\nFinansministeriet or an authorized representative\n\n*na Suécia:*\n\nChefen för Finansdepartementet ou um representante autorizado.\n\n*no Reino Unido:*\n\nThe Commissioners of Customs and Excise ou um representante autorizado relativamente às informações quanto aos impostos sobre os prémios de seguro e aos impostos especiais de consumo,\n\nThe Commissioners of Inland Revenue ou um representante autorizado relativamente a todas outras informações.\n\n*na República Checa:*\n\nMinistr financí or an authorized representative\n\n*na Estónia:*\n\nRahandusminister or an authorized representative\n\n*em Chipre:*\n\nΥπουργός Οικονομικών an authorised representative\n\n*na Letónia:*\n\nFinanšu ministrs or an authorised representative\n\n*na Lituânia:*\n\nFinansų ministras or an authorised representative\n\n*na Hungria:*\n\nA pénzügyminiszter or an authorised representative\n\n*em Malta:*\n\nIl-Ministru responsabbli għall-Finanzi; or an authorised representative\n\n*na Polónia:*\n\nMinister Finansów or an authorised representative\n\n*na Eslovénia:*\n\n*Minister za financií* or an authorised representative\n\n*na Eslováquia:*\n\nMinister za finance or an authorised representative."
+  },
+  "e7940e8f5cf1db12": {
+   "fragment_id": "Artigo 2.º — Troca de informações mediante pedido",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Troca de informações mediante pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Troca de informações mediante pedido\n\n1. A autoridade competente de um Estado-membro pode solicitar à autoridade competente de um outro Estado-membro que lhe comunique as informações referidas no n.º 1 do artigo 1.º, no que se refere a um caso especial. A autoridade competente do Estado a que foi feito o pedido não fica vinculada a dar seguimento favorável ao pedido formulado quando se verifique que a autoridade competente do Estado requerente não esgotou as suas próprias fontes habituais de informação, que teria podido utilizar, de acordo com as circunstâncias, para obter as informações solicitadas sem prejudicar a obtenção do resultado procurado.\n\n2. Tendo em vista a comunicação, das informações referidas no n.º 1, a autoridade competente do Estado-membro a quem foi feito o pedido promoverá, se for caso disso, as diligências necessárias à obtenção das referidas informações.\n\nPara obter as informações solicitadas, a autoridade requerida ou a autoridade administrativa a que aquela se tenha dirigido deverá proceder como se agisse por conta própria ou a pedido de outra autoridade do seu próprio Estado-Membro."
+  },
+  "51ae64dcad70d13e": {
+   "fragment_id": "Artigo 3.º — Troca automática de informações",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Troca automática de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Troca automática de informações\n\nAs autoridades competentes dos Estados-membros trocarão regularmente as informações referidas no n.º 1 do artigo 1.º sem necessidade de pedido prévio em relação às categorias de casos que venham a determinar no âmbito do processo de consulta previsto no artigo 9.º"
+  },
+  "4763ca99bdc89f31": {
+   "fragment_id": "Artigo 4.º — Troca espontânea de informações",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Troca espontânea de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Troca espontânea de informações\n\n1. A autoridade competente de cada Estado-membro comunicará, sem necessidade de pedido prévio, as informações referidas no n.º 1 do artigo 1.º de que tenha conhecimento, às autoridades competentes de qualquer outro Estado-membro interessado, nas seguintes circumstâncias:\n\na) A autoridade competente de um Estado-membro tem motivos para supor que existe uma redução ou uma isenção anormais de impostos no outro Estado-membro;\n\nb) Um contribuinte obtém num Estado-membro uma redução ou isenção de imposto que pode implicar um agravamento de imposto ou a sujeição a imposto no outro Estado-membro;\n\nc) Os negécios entre um contribuinte de um Estado-membro e um contribuinte de um outro Estado-membro, em que intervenham um estabelecimento estável desses contribuintes ou um ou mais terceiros, que se encontrem num ou mais países diferentes, são de molde a dar origem a uma redução de imposto num ou noutro Estado-membro ou em ambos;\n\nd) A autoridade competente de um Estado-membro tem razões para presumir que existe uma diminuição de imposto resultante de transferências fictícias de lucros dentro de grupos de empresas;\n\ne) Num Estado-membro, na sequência das informações comunicadas pela autoridade competente de outro Estado-membro, são obtidas informações que podem ser úteis ao estabelecimento do imposto neste outro Estado-membro.\n\n2. As autoridades competentes dos Estados-membros, no âmbito do processo de consulta previsto no artigo 9.º, podem tornar extensiva a troca de informações referida no n.º 1 a outros casos além dos que aí são previstos.\n\n3. As autoridades competentes dos Estados-membros podem, em todos os outros casos, comunicar entre si, sem necessidade de pedido prévio, as informações referidas no n.º 1 do artigo 1.º de que tenham conhecimento."
+  },
+  "32662951d926cf27": {
+   "fragment_id": "Artigo 5.º — Prazo de transmissão",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Prazo de transmissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Prazo de transmissão\n\nA autoridade competente do Estado-membro que é chamada a fornecer informações, por força do disposto nos artigos anteriores, procederá à sua transmissão o mais rapidamente possível. Se o fornecimento das referidas informações deparar com obstáculos ou se for recusada, essa autoridade informará imediatamente a autoridade requerente, indicando a natureza dos impedimentos ou os motivos da sua recusa."
+  },
+  "b6ac2cf951e65b49": {
+   "fragment_id": "Artigo 6.º — Colaboração de agentes do Estado interessado",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Colaboração de agentes do Estado interessado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Colaboração de agentes do Estado interessado\n\nPara aplicação das disposições anteriores, a autoridade competente do Estado-membro que fornece as informações e a autoridade competente do Estado ao qual as informações se destinam podem acordar, no âmbito do processo de consulta previsto no artigo 9.º, em autorizar a presença no primeiro Estado-membro de agentes da administração fiscal do outro Estado-membro. As modalidades de aplicação desta disposição serão estabelecidas no âmbito do mesmo processo."
+  },
+  "00564df689d501d9": {
+   "fragment_id": "Artigo 7.º — Disposições relativas ao sigilo",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Disposições relativas ao sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Disposições relativas ao sigilo\n\n1. Todas as informações de que um Estado-Membro tome conhecimento em aplicação da presente directiva são consideradas secretas nesse Estado, do mesmo modo que as informações obtidas em aplicação da sua legislação nacional. Em todo o caso, as referidas informações:\n\n— serão facultadas só às pessoas directamente ligadas ao estabelecimento do imposto ou ao controlo administrativo do estabelecimento do imposto,\n\n— só serão divulgadas para efeitos do processo judicial, de processo penal ou de processo que implique a aplicação de sanções administrativas, instaurados para o estabelecimento ou o controlo do estabelecimento do imposto ou com eles relacionados, e unicamente às pessoas que intervenham directamente nesses processos; podem, todavia, divulgar-se as referidas informações no decurso de audiência públicas ou em julgamento, se a autoridade competente do Estado-Membro que presta as informações não apresentar objecções no momento em que presta as informações pela primeira vez,\n\n— não serão utilizadas, em caso algum, para outros fins que não sejam fiscais ou para efeitos de processo judicial, de processo penal ou de processo que implique a aplicação de sanções administrativas, instaurados para o estabelecimento ou o controlo do estabelecimento do imposto, ou com ele relacionados.\n\nAlém disso, os Estados-Membros podem prever que as informações referidas no primeiro subparágrafo sejam utilizadas para o estabelecimento de outras quotizações, direitos e impostos a que se refere o artigo 2.º da Directiva 76/308/CEE ([^5^](http://publications.europa.eu/resource/cellar/03c6cfab-b6f2-4c28-b2e8-ed1f0e056c91.0016.03/DOC_1#E0004)).\n\n2. O disposto no n.º 1 não impõe a um Estado-membro, cuja legislação ou prática administrativa estabeleçam, para efeitos internos, limitações mais restritas do que as contidas no referido n.º 1, que forneça informações se o Estado interessado não se comprometer a respeitar tais restrições.\n\n3. Em derrogação do disposto no n.º 1, a autoridade competente do Estado-membro que fornece as informações pode autorizar a utilização dessas informações para outros fins, no Estado requerente, desde que, de acordo com a sua própria legislação, a sua utilização seja possível para os mesmos fins, nas mesmas circunstâncias.\n\n4. Quando a autoridade competente de um Estado-membro considere que as informações que obteve da autoridade competente de outro Estado-membro são susceptíveis de serem úteis para a autoridade competente de um terceiro Estado-membro, pode transmitilas a esta última com o acordo da autoridade competente que as tenha fornecido."
+  },
+  "1f468d90c642defd": {
+   "fragment_id": "Artigo 8.º — Limites da troca de informações",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Limites da troca de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Limites da troca de informações\n\n1. A presente directiva não impõe qualquer obrigação a um Estado-Membro a que tenham sido solicitadas informações no sentido de promover investigações ou transmitir informações, quando o facto de a autoridade competente desse Estado efectuar tais investigações ou recolher as informações pretendidas violar a sua legislação ou as suas práticas administrativas.\n\n2. A transmissão de informações pode ser recusada quando conduza à divulgação de um segredo comercial, industrial ou profissional ou de um processo comercial, ou de uma informação cuja divulgação seja contrária à ordem pública.\n\n3. A autoridade competente de um Estado-Membro pode recusar-se a transmitir informações quando o Estado-Membro que as solicita não se encontre, por razões de facto ou de direito, em situação de fornecer o mesmo tipo de informações."
+  },
+  "88ddcaf93f1b9868": {
+   "fragment_id": "Artigo 8.ºA — Notificação",
+   "type": "artigo",
+   "heading": "Artigo 8.ºA — Notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.ºA — Notificação\n\n1. A pedido da autoridade competente de um Estado-Membro, a autoridade competente de outro Estado-Membro procederá, em conformidade com as normas jurídicas em vigor para a notificação dos actos correspondentes no Estado-Membro requerido, à notificação ao destinatário de todos os actos e decisões provenientes das autoridades administrativas do Estado-Membro requerente que digam respeito à aplicação no seu território de legislação relativa aos impostos abrangidos pela presente directiva.\n\n2. Os pedidos de notificação deverão indicar o objecto do acto ou da decisão a notificar e especificar o nome e o endereço do destinatário, bem como quaisquer outras informações que possam facilitar a identificação do destinatário.\n\n3. A autoridade requerida deverá informar imediatamente a autoridade requerente do seguimento dado ao pedido de notificação e comunicar-lhe, em especial, a data em que a decisão ou o acto foi notificada ao destinatário."
+  },
+  "1214d951eb6dbc28": {
+   "fragment_id": "Artigo 8.ºB — Controlos simultâneos",
+   "type": "artigo",
+   "heading": "Artigo 8.ºB — Controlos simultâneos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.ºB — Controlos simultâneos\n\n1. Quando a situação fiscal de uma ou mais pessoas sujeitas a obrigações fiscais apresentarem um interesse comum ou complementar para dois ou mais Estados-Membros, esses Estados poderão acordar em proceder a controlos simultâneos nos seus territórios, a fim de trocarem as informações assim obtidas, sempre que estas se afigurem mais eficazes do que os controlos efectuados por um único Estado-Membro.\n\n2. A autoridade competente de cada Estado-Membro identificará, de forma independente, as pessoas sujeitas a obrigações fiscais que tenciona propor para serem objecto de controlos simultâneos. A referida autoridade comunicará às autoridades competentes dos outros Estados-Membros interessados os processos que, em sua opinião, devam ser sujeitos a controlos simultâneos. Na medida do possível, deve justificar a sua escolha, prestando as informações que estiveram na base dessa decisão. Deverá ainda especificar o período de tempo durante o qual esses controlos deverão ser realizados.\n\n3. A autoridade competente de cada Estado-Membro interessado decidirá se deseja participar nesses controlos simultâneos. Quando receber uma proposta de controlo simultâneo, a autoridade competente deverá confirmar à autoridade homóloga a sua aceitação ou comunicar a sua recusa, devidamente justificada, em efectuar esse controlo.\n\n4. Cada autoridade competente dos Estados-Membros interessados designará um representante responsável pela direcção e coordenação da operação de controlo."
+  },
+  "d8577f03123c8e0b": {
+   "fragment_id": "Artigo 9.º — Consultas",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Consultas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Consultas\n\n1. Tendo em vista a aplicação da presente directiva, efectuar-se-ão consultas, se for caso disso, no seio de um comité, entre:\n\n— as autoridades competentes dos Estados-membros interessados, a pedido de uma delas, no caso de questões bilaterais,\n\n— as autoridades competentes do conjunto dos Estados-membros e a Comissão, a pedido de uma dessas autoridades ou da Comissão, desde que não se trate exclusivamento de questões bilaterais.\n\n2. As autoridades competentes dos Estados-membros podem comunicar directamente entre si. As autoridades competentes dos Estados-membros podem, por comum acordo, autorizar que as autoridades por elas designadas efectuem contactos directos relativamente a casos especifícos ou a certas categorias de casos.\n\n3. Quando as autoridades competentes cheguem a acordo sobre questões bilaterais, nos domínios abrangidos pela presente directiva, com excepção de casos individuais, informarão a Comissão o mais rapidamente possível. A Comissão informará, por sua vez, as autoridades competentes dos outros Estados-membros."
+  },
+  "1585c8dd78a011ac": {
+   "fragment_id": "Artigo 10.º — Comunicação de experiências",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Comunicação de experiências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comunicação de experiências\n\nOs Estados-membros, conjuntamente com a Comissão, acompanharão constantemente o desenvolvimento do processo de cooperação previsto na presente directiva, e comunicarão entre si os resultados globais das experiências realizadas, designadamente no domínio dos preços de transferência dos grupos de empresas, com o fim de melhorar essa cooperação e de elaborar, se for caso disso, regulamentação nessas áreas."
+  },
+  "6f6898db05e4cbb9": {
+   "fragment_id": "Artigo 11.º — Aplicabilidade de disposições mais amplas em matéria de assistência",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Aplicabilidade de disposições mais amplas em matéria de assistência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Aplicabilidade de disposições mais amplas em matéria de assistência\n\nAs disposições anteriores não prejudicam a execução de obrigações mais amplas no que respeita à troca de informações que resultem de outros actos jurídicos."
+  },
+  "46a9fec789618d45": {
+   "fragment_id": "Artigo 12.º — Disposições finais",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Disposições finais\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva, o mais tardar em 1 de Janeiro de 1979, e comunicá-las-ão imediatamente à Comissão.\n\n2. Os Estados-membros comunicarão à Comissão as disposições essenciais de direito nacional que venham a adoptar posteriormente, no domínio regulado pela presente directiva."
+  },
+  "9da057764dd6bd1b": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nOs Estados-membros são destinatários da presente directiva.\n\n---"
+  },
+  "59a6a794be635bf1": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/03c6cfab-b6f2-4c28-b2e8-ed1f0e056c91.0016.03/DOC_1#src.E0001)) JO n.º C 293 de 13. 12. 1976, p. 34.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/03c6cfab-b6f2-4c28-b2e8-ed1f0e056c91.0016.03/DOC_1#src.E0002)) JO n.º C 56 de 7. 3. 1977, p. 66.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/03c6cfab-b6f2-4c28-b2e8-ed1f0e056c91.0016.03/DOC_1#src.E0003)) JO n.º C 35 de 14. 2. 1975, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/03c6cfab-b6f2-4c28-b2e8-ed1f0e056c91.0016.03/DOC_1#src.E0005)) JO L 73 de 19.3.1976, p. 18. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 2003.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/03c6cfab-b6f2-4c28-b2e8-ed1f0e056c91.0016.03/DOC_1#src.E0004)) JO L 73 de 19.3.1976, p. 18."
+  },
+  "0340b4e15ac9d3c8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Dezembro de 1977\n\nrelativa à assistência mútua das autoridades competentes dos Estados-Membros no domínio dos impostos directos e dos impostos sobre os prémios de seguro\n\n(77/799/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/4f94c75b-7250-4d6b-b8a0-a360986b8c8b.0017.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/4f94c75b-7250-4d6b-b8a0-a360986b8c8b.0017.03/DOC_1#E0002)),\n\nConsiderando que a prática da fraude e da evasão fiscais para além das fronteiras dos Estados-membros conduz a perdas orçamentais e a violações do princípio da justiça fiscal e é susceptível de provocar distorções nos movimentos de capitais e nas condições de concorrência, afectando consequentemente o funcionamento do mercado comun;\n\nConsiderando que, por essas razões, o Conselho adoptou, em 10 de Fevereiro de 1975, uma resolução relativa às medidas a tomar pela Comunidade no domínio da luta contra a fraude e a evasão fiscais internacionais ([^3^](http://publications.europa.eu/resource/cellar/4f94c75b-7250-4d6b-b8a0-a360986b8c8b.0017.03/DOC_1#E0003));\n\nConsiderando que, tendo em conta a natureza internacional do problema, as medidas nacionais cujos efeitos não se repercutam para além das fronteiras de um Estado, são insuficientes e que a colaboração entre as administrações, com base em acordos bilaterais, é igualmente incapaz de fazer face às novas formas de fraude e de evasão fiscais, que assumem cada vez mais carácter multinacional;\n\nConsiderando que convém, por conseguinte, reforçar a colaboração entre as administrações fiscais, na Comunidade, de harmonia com princípios e regras comuns;\n\nConsiderando que os Estados-membros devem trocar informações, quando lhe sejam solicitadas, no que se refere a casos especiais, e que o Estado a que foi feito o pedido deve promover as investigações necessárias para obter essas informações;\n\nConsiderando que os Estados-membros devem trocar todas e quaisquer informações, ainda que não lhes sejam solicitadas, que se afigurem úteis para o correcto estabelecimento dos impostos sobre o rendimento e a fortuna, especialmente nos casos em que se verifique a transferência fictícia de lucros entre empresas situadas em Estados-membros diferentes, ou quando tais transacções entre empresas situadas em dois Estados-membros sejam efectuadas por intermédio de um país terceiro com o propósito de obter benefícios fiscais, ou ainda quando tenha havido ou possa haver evasão ao imposto por qualquer razão;\n\nConsiderando que importa autorizar a presença de agentes da administração fiscal de um Estado-membro no território de um outro Estado-membro, quando ambos os Estados o desejem;\n\nConsiderando que convém assegurar que as informações transmitidas no âmbito de uma colaboração nos moldes referidos não sejam divulgadas a pessoas não autorizadas, de forma a respeitar os direitos fundamentais dos cidadãos e das empresas; que é, por consequência, necessário, salvo autorização do Estado-membro que as fornece, que os Estados-membros que recebem as referidas informações as utilizem exclusivamente para fins fiscais ou com o propósito de facilitar as acções intentadas contra pessoas que não actuem em conformidade com a legislação fiscal desses Estados; que é igualmente necessário que tais Estados confiram às informações referidas o mesmo, carácter de confidencialidade que tinham no Estado de que provêm, se este o exigir;\n\nConsiderando que convém conceder a um Estado-membro o direito de se recusar a efectuar investigções ou de proceder à transmissão de informações, quando a legislação ou a prática administrativa do Estado-membro que é chamado a fornecer as informações não autorize a respectiva administração fiscal a efectuar tais investigações nem a recolher ou a utilizar as informações no seu próprio interesse, ou quando tal transmissão seja contrária à ordem pública ou conduza à divulgação de um segredo comercial, industrial ou profissional ou de um processo comercial, ou ainda quando o Estado-membro ao qual as informações se destinem não esteja em situação de proceder, por razões de facto ou de direito, à transmissão de informações equivalentes;\n\nConsiderando ser necessária a colaboração entre os Estados-membros e a Comissão para estudar, com carácter permanente, os procedimentos de cooperação e as trocas de experiência nas áreas consideradas, e, designadamente, na da transferência fictícia de lucros dentro de grupos de empresas, tendo em vista o aperfeiçoamento dos referidos procedimentos e a elaboração da regulamentação comunitária adequada,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "9038e8c6b79e11a0": {
+   "fragment_id": "Artigo 1.º — Disposições gerais",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Disposições gerais\n\n1. As autoridades competentes dos Estados-Membros trocarão entre si, nos termos da presente directiva, todas as informações susceptíveis de lhes permitir determinar correctamente os impostos sobre o rendimento e o património, bem como todas as informações relativas à determinação dos impostos sobre os prémios de seguro, referidos no sexto travessão do artigo 3.º da Directiva 76/308/CEE do Conselho, de 15 de Março de 1976, relativa à assistência mútua em matéria de cobrança de créditos resultantes de operações que fazem parte do sistema de financiamento do Fundo Europeu de Orientação e Garantia Agrícola, bem como de direitos niveladores agrícolas e de direitos aduaneiros ([^4^](http://publications.europa.eu/resource/cellar/4f94c75b-7250-4d6b-b8a0-a360986b8c8b.0017.03/DOC_1#E0004)).\n\n2. São considerados impostos sobre o rendimento e o património, independentemente do sistema de cobrança, os impostos que incidem sobre o rendimento global, sobre o património total ou sobre elementos do rendimento ou do património, incluindo os impostos sobre os lucros provenientes da alienação de bens móveis ou imóveis, os impostos sobre o montante dos salários pagos pelas empresas, bem como os impostos sobre as mais-valias.\n\n3. Os impostos actuais a que se refere o artigo 2.º são, designadamente, os seguintes:\n\n*na Bélgica:*\n\nImpôt des personnes physiques—Personenbelasting\n\nImpôt des sociétés—Vennootschapsbelasting\n\nImpôt des personnes morales—Rechtspersonenbelasting\n\nImpôt des non-résidents—Belasting der niet-verblijfhouders\n\n*na Dinamarca:*\n\nIndkomstskat til staten\n\nSelskabsskat\n\nDen kommunale indkomstskat\n\nDen amtskommunale indkomstskat\n\nFolkepensionsbidragene\n\nSømandsskat\n\nDen særlige indkomstskat\n\nKirkeskat\n\nFormueskat til staten\n\nBidrag til dagpengefonden\n\n*na Alemanha:*\n\nEinkommensteuer\n\nKörperschaftsteuer\n\nVermögensteuer\n\nGewerbesteuer\n\nGrundsteuer\n\n*na Grécia:*\n\nΦόρος εισοδήματος φυσικών προσώπων\n\nΦόρος εισοδήματος νομικών προσώπων\n\nΦόρος ακινήτου περιουσίας\n\n*em Espanha:*\n\nImpuesto sobre la Renta de las Personas Físicas\n\nImpuesto sobre Sociedades\n\nImpuesto Extraordinario sobre el Patrimonio de las Personas Físicas\n\n*em França:*\n\nImpôt sur le revenu\n\nImpôt sur les sociétés\n\nTaxe professionnelle\n\nTaxe foncière sur les propriétés bâties\n\nTaxe foncière sur les propriétés non bâties\n\n*na Irlanda:*\n\nIncome tax\n\nCorporation tax\n\nCapital gains tax\n\nWealth tax\n\n*na Itália:*\n\nImposta sul reddito delle persone fisiche\n\nImposta sul reddito delle persone giuridiche\n\nImposta locale sui redditi\n\n*no Luxemburgo:*\n\nImpôt sur le revenu des personnes physiques\n\nImpôt sur le revenu des collectivités\n\nImpôt commercial communal\n\nImpôt sur la fortune\n\nImpôt foncier\n\n*nos Países Baixos:*\n\nInkomstenbelasting\n\nVennootschapsbelasting\n\nVermogensbelasting\n\n*na Áustria:*\n\nEinkommensteuer\n\nKörperschaftsteuer\n\nGrundsteuer\n\nBodenwertabgabe\n\nAbgabe von land- und forstwirtschaftlichen Betrieben\n\n*em Portugal:*\n\nContribuição predial\n\nImposto sobre a indústria agrícola\n\nContribuição industrial\n\nImposto de capitais\n\nImposto profissional\n\nImposto complementar\n\nImposto de mais-valias\n\nImposto sobre o rendimento do petróleo\n\nOs adicionais devidos sobre os impostos precedentes\n\n*na Finlândia:*\n\nValtion tuloverot—de statliga inkomstskatterna\n\nYhteisöjen tulovero—inkomstskatten för samfund\n\nKunnallisvero—kommunalskatten\n\nKirkollisvero—kyrkoskatten\n\nKansaneläkevakuutusmaksu—folkpensionsförsäkringspremien\n\nSairausvakuutusmaksu—sjukförsäkringspremien\n\nKorkotulon lähdevero—källskatten på ränteinkomst\n\nRajoitetusti verovelvollisen lähdevero—källskatten för begränsat skattskyldig\n\nValtion varallisuusvero—den statliga förmögenhetsskatten\n\nKiinteistövero—fastighetsskatten\n\n*na Suécia:*\n\nDen statliga inkomstskatten\n\nSjömansskatten\n\nKupongskatten\n\nDen särskilda inkomstskatten för utomlands bosatta\n\nDen särskilda inkomstskatten för utomlands bosatta artister m.fl.\n\nDen statliga fastighetsskatten\n\nDen kommunala inkomstskatten\n\nFörmögenhetsskatten\n\n*no Reino Unido:*\n\nIncome tax\n\nCorporation tax\n\nCapital gains tax\n\nPetroleum revenue tax\n\nDevelopment land tax\n\n*na República Checa:*\n\nDaně z příjmů\n\nDaň z nemovitostí\n\nDaň dědická, daň darovací a daň z převodu nemovitostí\n\nDaň z přidané hodnoty\n\nSpotřební daně\n\n*na Estónia:*\n\nTulumaks\n\nSotsiaalmaks\n\nMaamaks\n\n*em Chipre:*\n\nΦόρος Εισοδήματος\n\n'Εκτακτη Εισφορά για την Άμυνα της Δημοκρατίας\n\nΦόρος Κεφαλαιουχικών Κερδών\n\nΦόρος Ακίνητης Ιδιοκτησίας\n\n*na Letónia:*\n\niedzīvotāju ienākuma nodoklis\n\nnekustamā īpašuma nodoklis\n\nuzņēmumu ienākuma nodoklis\n\n*na Lituânia:*\n\nGyventojų pajamų mokestis\n\nPelno mokestis\n\nĮmonių ir organizacijų nekilnojamojo turto mokestis\n\nŽemės mokestis\n\nMokestis už valstybinius gamtos išteklius\n\nMokestis už aplinkos teršimą\n\nNaftos ir dujų išteklių mokestis\n\nPaveldimo turto mokestis\n\n*na Hungria:*\n\nszemélyi jövedelemadó\n\ntársasági adó\n\nosztalékadó\n\náltalános forgalmi adó\n\njövedéki adó\n\népítményadó\n\ntelekadó\n\n*em Malta:*\n\nTaxxa fuq l-*income*\n\n*na Polónia:*\n\nPodatek dochodowy od osób prawnych\n\nPodatek dochodowy od osób fizycznych\n\nPodatek od czynności cywilnopranych\n\n*na Eslovénia:*\n\nDohodnina\n\nDavki občanov\n\nDavek od dobička pravnih oseb\n\nPosebni davek na bilančno vsoto bank in hranilnic\n\n*na Eslováquia:*\n\ndaň z príjmov fyzických osôb\n\ndaň z príjmov právnických osôb\n\ndaň z dedičstva\n\ndaň z darovania\n\ndaň z prevodu a prechodu nehnuteľností\n\ndaň z nehnuteľností\n\ndaň z pridanej hodnoty\n\nspotrebné dane.\n\n*na Bulgária:*\n\nданък върху доходите на физическите лица\n\nкорпоративен данък\n\nданъци, удържани при източника\n\nалтернативни данъци на корпоративния данък\n\nокончателен годишен (патентен) данък\n\n*na Roménia:*\n\nimpozitul pe venit\n\nimpozitul pe profit\n\nimpozitul pe veniturile obținute din România de nerezidenți\n\nimpozitul pe veniturile microîntreprinderilor\n\nimpozitul pe clădiri\n\nimpozitul pe teren.\n\n4. O disposto no n.º 1 é igualmente aplicável aos impostos de natureza idêntica ou análoga que venham a acrescer aos impostos referidos no n.º 3 ou a substituí-los. As autoridades competentes dos Estados-membros comunicarão entre si e à Comissão as datas da entrada em vigor de tais impostos.\n\n5. A expressão «autoridade competente» designa:\n\n*na Bélgica:*\n\nDe Minister van financiën or an authorized representative\n\nLe Ministre des finances or an authorized representative\n\n*na Dinamarca:*\n\nSkatteministeren or an authorized representative\n\n*na Alemanha:*\n\nDer Bundesminister der Finanzen or an authorized representative\n\n*na Grécia:*\n\nΤο Υπουργείο Οικονομικών or an authorized representative\n\n*em Espanha:*\n\nEl Ministro de Economía y Hacienda or an authorized representative\n\n*em França:*\n\nLe ministre de l'économie or an authorized representative\n\n*na Irlanda:*\n\nThe Revenue Commissioners or their authorized representative\n\n*na Itália:*\n\nIl Capo del Dipartimento per le Politiche Fiscali ou um representante autorizado\n\n*no Luxemburgo:*\n\nLe ministre de finance or an authorized representative\n\n*nos Países Baixos:*\n\nDe minister van financiën or an authorized representative\n\n*na Áustria:*\n\nDer Bundesminister für Finanzen or an authorized representative\n\n*em Portugal:*\n\nO Ministro das Finanças or an authorized representative\n\n*na Finlândia:*\n\nValtiovarainministeriö or an authorized representative\n\nFinansministeriet or an authorized representative\n\n*na Suécia:*\n\nChefen för Finansdepartementet ou um representante autorizado.\n\n*no Reino Unido:*\n\nThe Commissioners of Customs and Excise ou um representante autorizado relativamente às informações quanto aos impostos sobre os prémios de seguro e aos impostos especiais de consumo,\n\nThe Commissioners of Inland Revenue ou um representante autorizado relativamente a todas outras informações.\n\n*na República Checa:*\n\nMinistr financí or an authorized representative\n\n*na Estónia:*\n\nRahandusminister or an authorized representative\n\n*em Chipre:*\n\nΥπουργός Οικονομικών an authorised representative\n\n*na Letónia:*\n\nFinanšu ministrs or an authorised representative\n\n*na Lituânia:*\n\nFinansų ministras or an authorised representative\n\n*na Hungria:*\n\nA pénzügyminiszter or an authorised representative\n\n*em Malta:*\n\nIl-Ministru responsabbli għall-Finanzi; or an authorised representative\n\n*na Polónia:*\n\nMinister Finansów or an authorised representative\n\n*na Eslovénia:*\n\n*Minister za financií* or an authorised representative\n\n*na Eslováquia:*\n\nMinister za finance or an authorised representative.\n\n*na Bulgária:*\n\nИзпълнителният директор на Националната агенция за приходите\n\n*na Roménia:*\n\nMinisterul Finanțelor Publice or an authorised representative."
+  },
+  "6caa0cd85ddee68b": {
+   "fragment_id": "Artigo 7.º — Disposições relativas ao sigilo",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Disposições relativas ao sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Disposições relativas ao sigilo\n\n1. Todas as informações de que um Estado-Membro tome conhecimento em aplicação da presente directiva são consideradas secretas nesse Estado, do mesmo modo que as informações obtidas em aplicação da sua legislação nacional. Em todo o caso, as referidas informações:\n\n— serão facultadas só às pessoas directamente ligadas ao estabelecimento do imposto ou ao controlo administrativo do estabelecimento do imposto,\n\n— só serão divulgadas para efeitos do processo judicial, de processo penal ou de processo que implique a aplicação de sanções administrativas, instaurados para o estabelecimento ou o controlo do estabelecimento do imposto ou com eles relacionados, e unicamente às pessoas que intervenham directamente nesses processos; podem, todavia, divulgar-se as referidas informações no decurso de audiência públicas ou em julgamento, se a autoridade competente do Estado-Membro que presta as informações não apresentar objecções no momento em que presta as informações pela primeira vez,\n\n— não serão utilizadas, em caso algum, para outros fins que não sejam fiscais ou para efeitos de processo judicial, de processo penal ou de processo que implique a aplicação de sanções administrativas, instaurados para o estabelecimento ou o controlo do estabelecimento do imposto, ou com ele relacionados.\n\nAlém disso, os Estados-Membros podem prever que as informações referidas no primeiro subparágrafo sejam utilizadas para o estabelecimento de outras quotizações, direitos e impostos a que se refere o artigo 2.º da Directiva 76/308/CEE ([^5^](http://publications.europa.eu/resource/cellar/4f94c75b-7250-4d6b-b8a0-a360986b8c8b.0017.03/DOC_1#E0005)).\n\n2. O disposto no n.º 1 não impõe a um Estado-membro, cuja legislação ou prática administrativa estabeleçam, para efeitos internos, limitações mais restritas do que as contidas no referido n.º 1, que forneça informações se o Estado interessado não se comprometer a respeitar tais restrições.\n\n3. Em derrogação do disposto no n.º 1, a autoridade competente do Estado-membro que fornece as informações pode autorizar a utilização dessas informações para outros fins, no Estado requerente, desde que, de acordo com a sua própria legislação, a sua utilização seja possível para os mesmos fins, nas mesmas circunstâncias.\n\n4. Quando a autoridade competente de um Estado-membro considere que as informações que obteve da autoridade competente de outro Estado-membro são susceptíveis de serem úteis para a autoridade competente de um terceiro Estado-membro, pode transmitilas a esta última com o acordo da autoridade competente que as tenha fornecido."
+  },
+  "b5daa106e37775e5": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4f94c75b-7250-4d6b-b8a0-a360986b8c8b.0017.03/DOC_1#src.E0001)) JO n.º C 293 de 13. 12. 1976, p. 34.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/4f94c75b-7250-4d6b-b8a0-a360986b8c8b.0017.03/DOC_1#src.E0002)) JO n.º C 56 de 7. 3. 1977, p. 66.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/4f94c75b-7250-4d6b-b8a0-a360986b8c8b.0017.03/DOC_1#src.E0003)) JO n.º C 35 de 14. 2. 1975, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/4f94c75b-7250-4d6b-b8a0-a360986b8c8b.0017.03/DOC_1#src.E0004)) JO L 73 de 19.3.1976, p. 18. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 2003.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/4f94c75b-7250-4d6b-b8a0-a360986b8c8b.0017.03/DOC_1#src.E0005)) JO L 73 de 19.3.1976, p. 18."
+  },
+  "3ccabc02374a2537": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1977L0799 — PT — 01.01.2013 — 010.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31977L0799) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31977L0799) [de 19 de Dezembro de 1977](http://publications.europa.eu/resource/celex/31977L0799) [relativa à assistência mútua das autoridades competentes dos Estados-Membros no domínio dos impostos directos e dos impostos sobre os prémios de seguro](http://publications.europa.eu/resource/celex/31977L0799) [(77/799/CEE)](http://publications.europa.eu/resource/celex/31977L0799) (JO L 336, 27.12.1977, p.15)\n\n**revogado por:**\n\n- [Directiva 2011/16/UE do Conselho de 15 de Fevereiro de 2011](http://publications.europa.eu/resource/celex/32011L0016) — L 64 — 1 — 11.3.2011"
+  }
+ }
+}

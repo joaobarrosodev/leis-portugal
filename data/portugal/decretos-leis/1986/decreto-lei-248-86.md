@@ -1,0 +1,674 @@
+---
+schema_version: '1.0'
+id: pt:dre:219121:por
+title: Decreto-Lei n.º 248/86
+short_title: null
+summary: Cria o estabelecimento mercantil individual de responsabilidade limitada
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 248/86
+official_date: null
+publication_date: '1986-08-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 194/1986, Série I de 1986-08-25
+  number: '194'
+  series: I
+  supplement: null
+  pages: 2148 - 2156
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/08/19400/21482156.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2007-01-18'
+version_history:
+  file: decreto-lei-248-86.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1986-08-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-01-01'
+    amending: pt:dre:223195:por
+    amending_title: Decreto-Lei n.º 343/98
+    changes:
+    - Altera Artigo 3.º
+  - date: '2000-05-01'
+    amending: pt:dre:411872:por
+    amending_title: Decreto-Lei n.º 36/2000
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+    - Altera Artigo 34.º
+  - date: '2006-06-30'
+    amending: pt:dre:620286:por
+    amending_title: Decreto-Lei n.º 76-A/2006
+    changes:
+    - Adita Artigo 35.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 28.º
+    - Altera Artigo 33.º
+    - Revoga Artigo 4.º
+  - date: '2007-01-18'
+    amending: pt:dre:522813:por
+    amending_title: Decreto-Lei n.º 8/2007
+    changes:
+    - Altera Artigo 12.º
+    - Altera Artigo 19.º
+    - Revoga Artigo 20.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/248/1986/p/cons/20070117/pt/html
+  oj: null
+  dre: '219121'
+  dre_path: /dr/detalhe/decreto-lei/248-1986-219121
+  internal: pt:dre:219121:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1986-219121
+  metadata_url: https://data.dre.pt/eli/dec-lei/248/1986/p/cons/20070117/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-34443675
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-34443675
+  retrieved_at: '2026-10-22T11:41:47Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: f1320e42ecb38525dce1fb50901bd6bda8152f361cdd425ab95ae80234872266
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:41:47Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-248-86.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comércio
+- Empresário
+- Estabelecimento Comercial
+- Pessoa Singular
+relationships:
+- type: amended_by
+  target: pt:dre:223195:por
+  label: Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1998-223195
+  date: '1998-11-06'
+- type: amended_by
+  target: pt:dre:411872:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 16.º; Altera Artigo 18.º;
+    Altera Artigo 19.º; Altera Artigo 24.º; Altera Artigo 26.º; Altera Artigo 34.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2000-411872
+  date: '2000-03-14'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: Adita Artigo 35.º-A; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 9.º;
+    Altera Artigo 10.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 23.º;
+    Altera Artigo 24.º; Altera Artigo 25.º; Altera Artigo 26.º; Altera Artigo 28.º; Altera Artigo 33.º; Revoga Artigo 4.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:522813:por
+  label: Altera Artigo 12.º; Altera Artigo 19.º; Revoga Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2007-522813
+  date: '2007-01-17'
+article_structure:
+  article_count: 37
+  section_count: 9
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:41:47Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 248/86
+
+1. Através do presente diploma cria-se e regulamenta-se um instituto até agora desconhecido entre nós: o estabelecimento mercantil individual de responsabilidade limitada.
+
+Como é geralmente sabido, vem sendo defendida há várias décadas por importante sector da doutrina a limitação da responsabilidade do comerciante em nome individual pelas dívidas contraídas na exploração da sua empresa.
+
+Contra essa solução tem sido, porém, invocados vários argumentos. Assim, observa-se que a concessão desse favor colocaria terceiros (credores comerciais e particulares do comerciante) sob a ameaça de graves prejuízos.
+
+Aduz-se depois que a responsabilidade ilimitada patrimonial do comerciante é o factor que melhor o pode ajudar a obter o crédito de que necessita. Pondera-se ainda ser justo que quem detém o domínio efectivo de uma empresa responda com todo o seu património pelas dívidas contraídas na respectiva exploração.
+
+Tais argumentos não parecem decisivos. Quanto ao primeiro, a réplica surge de imediato: tudo vai do regime a que se submeta o novo instituto. Não constitui, na verdade, dificuldade insuperável incluir nele normas adequadas a assegurar a terceiros uma tutela eficaz. E esta é justamente uma das linhas dominantes e uma das ideias-força do presente diploma.
+
+Relativamente aos outros dois argumentos, ambos são contraditados pela larga difusão que encontrou o tipo das sociedades de responsabilidade limitada (entre nós chamadas sociedades por quotas), criado pelo legislador alemão em fins do século passado como resposta a necessidades sentidas na prática. Ora, em numerosíssimos casos, os poderes de gerência na sociedade por quotas competem a todos os sócios, o que prova, como se escreveu recentemente, que a limitação da responsabilidade de quem tem nas mãos as alavancas do comando da empresa não prejudica, afinal, o recurso ao crédito, não entorpece, pois, o comércio.
+
+«Por outra via, todos sabemos como o rigor da lei, ao denegar ex silentio o favor da limitação da responsabilidade ao empresário individual, é por toda a parte facilmente iludido, graças ao expediente das sociedades unipessoais», um fenómeno, como também se sabe, hoje vulgaríssimo na prática de todos os países.
+
+2. Apontaram-se, e contraditaram-se, as principais razões que poderiam condenar a admissão do novo instituto. Enunciem-se agora os mais importantes argumentos em seu favor.
+
+Como também já se aduziu, o exercício profissional da actividade mercantil implica pesados riscos: é a álea inerente ao comércio. Para alcançar benefícios, importa correr o risco de suportar graves prejuízos. Prejuízos que no limite podem acarretar a ruína da empresa, sendo certo que, no quadro do direito vigente, é muito difícil que a ruína da empresa não arraste consigo a do próprio empresário (individual) e virtualmente a da sua família: de facto, é princípio acolhido na generalidade dos sistemas jurídicos o de que o devedor responde com todo o seu património pelas obrigações validamente assumidas. Por outro lado, a regulamentação a que o nosso direito sujeita as dívidas comerciais dos devedores casados em regime de comunhão [v. Código Civil, artigo 1691.º, n.º 1, alínea d), e Código Comercial, artigos 15.º e 10.º], associada à realidade sociológica portuguesa (são poucos entre nós os casamentos em que vigora o regime de separação de bens), torna pouco provável que a falência do comerciante não consuma o melhor do património familiar.
+
+O juízo favorável à limitação de responsabilidade do empresário singular, que daqui emerge, não se altera se forem perspectivadas as coisas do ponto de vista do interesse da própria organização mercantil, ou seja, da empresa. Certo é que os credores da empresa perdem agora a vantagem de poderem executar a totalidade do património do empresário e do seu casal, mas ganham em troca a de verem os bens investidos no estabelecimento rigorosamente afectados ao pagamento das dívidas contraídas na respectiva exploração. Efectivamente, qualquer que seja a opção tomada quanto ao enquadramento jurídico do novo instituto, sempre ela há-de ter por base a constituição de um património autónomo ou de afectação especial, com o regime característico (bem conhecido) desta figura.
+
+Ponto é que, ao delinearem-se os contornos jurídicos do instituto, efectivamente se acautelem os vários interesses envolvidos, quer exigindo a destinação ao escopo mercantil de uma massa patrimonial de valor suficientemente elevado, quer instituindo os necessários mecanismos de controle da afectação desse património ao fim respectivo.
+
+3. De resto, a inovação legislativa de que se trata não representará um salto no desconhecido por parte do legislador português, antes tal actuação alinhará com a de outras legislações que, frequentemente, têm sido fonte de inspiração da nossa. Com efeito, razões idênticas ou próximas das atrás apontadas levaram a que, recentemente, na Alemanha (GmbH-Novelle de 1980) e na França (Lei n.º 185-697, de 11 de Julho de 1985) fosse dada resposta legislativa favorável à pretensão do empresário individual de afectar ao giro mercantil unicamente uma parte do seu património.
+
+A solução adoptada pelos legisladores alemão e francês - admissibilidade da criação ab initio da sociedade unipessoal de responsabilidade limitada - é, de facto, uma das duas vias possíveis para enquadrar juridicamente a situação em causa. A outra é representada pela criação de uma nova figura jurídica - a empresa (rectius: o estabelecimento) individual de responsabilidade limitada (com ou sem personalidade jurídica).
+
+Qualquer destas soluções tem a seu favor e contra si vários argumentos.
+
+Examine-se a primeira, que é a da sociedade unipessoal.
+
+4. Consistirá esta na admissibilidade da constituição de uma sociedade comercial de responsabilidade limitada com um único sócio. Por ela enveredaram, como já foi dito, os legisladores alemão e francês. Certo que, tanto nos países europeus (mormente nos de cultura jurídica germânica) como em algumas nações latino-americanas, não se desconhece a específica problemática inerente à solução frontal da questão, ou seja, a admissão da figura do estabelecimento (empresa) mercantil individual de responsabilidade limitada. Pelo contrário, o assunto tem sido repetidamente objecto de profundas análises doutrinais e, até, de vários projectos legislativos.
+
+No entanto, não foi essa a solução que prevaleceu nos referidos países. Porquê?
+
+5. Foram duas, no essencial, as razões que levaram o legislador alemão a optar pela solução consagrada na GmbH-Novelle de 1980:
+
+a) A grande difusão que a «Gesellsschaft mit beschrankter Haftung» unipessoal conhecia na prática: há longo tempo admitida pela doutrina e jurisprudência, o próprio legislador a tinha já reconhecido (assim, o § 15 da Umwandlungsgesetz, de 6 de Novembro de 1986). Mas há mais. A praxis não legitimava apenas a sociedade de responsabilidade limitada que em certo momento, em virtude de vicissitudes normais da sua existência jurídica, ficara reduzida a um único sócio: ia bastante mais longe, pois coonestava as próprias sociedades ab initio constituídas por um único sócio verdadeiro, secundado (por via das aparências) por um ou mais testas-de-ferro (Strohmanner);
+
+b) A maior facilidade em delinear um regime jurídico para esta situação: com efeito, a admissão da sociedade de responsabilidade limitada de um único sócio (Einmann-GmbH) apenas implicaria a adaptação de algumas normas do regime da GmbH, ao passo que a outra opção - criação da empresa individual de responsabilidade limitada - levantaria muito mais graves dificuldades.
+
+Assim se pensou e escreveu na Alemanha.
+
+E não foram por certo diferentes das referidas as razões que pesaram no espírito do legislador francês e o levaram a admitir a constituição da sociedade de responsabilidade limitada com um único sócio (aliás, curiosamente, a lei em questão intitula-se «loi relative à l'entreprise unipersonnelle à responsabilité limitée»).
+
+Assim procedendo, renunciou-se ao conceito tradicional da sociedade como contrato Dogmaticamente, a sociedade é contrato e é instituição. Entretanto, as duas citadas leis pressupõem, ambas uma construção dogmática em que aquela primeira componente (a ideia de contrato) é obliterada, ficando a sociedade reduzida à sua vertente institucional. E isto porque, bem atentas as coisas, e perspectivada agora a matéria a outra luz, a sociedade passa a ser preferentemente olhada como uma técnica de organização da empresa. O número daqueles que podem tirar proveito dessa técnica passa a não interessar. A sociedade de uma única pessoa não deixa de ser sociedade.
+
+6. Quanto, porém, ao nosso país, as coisas não se apresentam do mesmo modo: as razões apontadas no número anterior não valem aqui com a mesma intensidade.
+
+É certo que a ideia da sociedade com um único sócio encontra hoje aceitação generalizada tanto na doutrina como na prática, e até o novo Código das Sociedades Comerciais, vencidas algumas hesitações, lhe dará consagração igual àquela que um importante sector da doutrina nacional de há muito vinha preconizando.
+
+Mas, em contrapartida, não deixa de ser verdade que entre nós (diferentemente do que acontece na Alemanha) nunca se admitiu - entre outras razões, por fidelidade à ideia da sociedade-contrato - a unipessoalidade originária. E não menos certo é, por outro lado, que (e também ao invés do que se passa naquele país) as contribuições doutrinais portuguesas sobre a regulamentação jurídica específica das sociedades de um único sócio são escassas. A hipótese configurada no artigo 488.º daquele novo Código repercute um regime excepcional, que não altera esta forma de ver as coisas.
+
+Eis porque, tudo pesado, não parece que a figura da sociedade unipessoal, nos latos termos em que passou a ser emitida no direito alemão e francês, seja em Portugal o instrumento jurídico mais apropriado para a solução do problema da limitação de responsabilidade do empresário individual. Mais lógico e mais conforme com os princípios tradicionais do nosso direito se apresenta o outro caminho apontado: a criação de um novo instituto jurídico - o estabelecimento mercantil individual de responsabilidade limitada. Esta se afigura ser a solução preferível, apesar da inovação que representa e das acrescidas dificuldades de regulamentação que determina.
+
+7. Dilucidado este problema, outra questão desponta, que é a de saber se a disciplina legal da empresa individual de responsabilidade limitada deve assentar na construção desta empresa como pessoa jurídica, ou ter como ponto de referência a ideia de património autónomo ou de afectação especial.
+
+O projecto de lei recentemente apresentado ao Parlamento Belga, que contém uma proposta de regulamentação bastante minuciosa na presente matéria, orienta-se expressamente no sentido da empresa-pessoa jurídica. Tal construção parece, em rigor, desnecessária. Sobre este assunto escreveu-se, não há muito tempo, numa revista jurídica portuguesa, o seguinte:
+
+Alguns dos autores que dão a sua adesão à ideia da criação legal da E. I. R. L. - em detrimento da administração da sociedade unipessoal (lato sensu) - propõem que àquela seja atribuída a personalidade jurídica, vendo no fenómeno um acto jurídico unilateral, semelhante ao acto pelo qual se institui uma fundação - com a diferença de o fim social previsto na lei ser aqui substituído pelo fim económico lucrativo.
+
+Outros, porém, rejeitam uma tal construção, pronunciando-se antes pela solução que concebe a E. I. R. L. como um património separado ou autónomo ou, de outro ângulo de vista, como um património de afectação.
+
+Por nossa parte, não reconhecemos a este ponto uma importância fundamental, pois qualquer das vias apontadas poderá conduzir a resultados satisfatórios. Necessário é que o legislador, optando por uma delas, consagre uma instituição estruturada de molde a servir os interesses do comerciante, sem, contudo, descurar a protecção dos interesses de terceiros (contendo normas destinadas a evitar ou reprimir abusos que a introdução dessa instituição no ordenamento jurídico poderia propiciar).
+
+No entanto, sempre diremos que a primeira das alternativas que se depara ao legislador nos parece representar, em relação à segunda, um processo mais complicado e, simultaneamente, mais artificial Efectivamente, se o que se pretende consagrar é um expediente técnico legal que permita ao comerciante em nome individual destacar do seu património geral uma parte dos seus bens, para a destinar à actividade mercantil, então o meio mais directo (e também o único despido de ficção) será o de conceber a E. I. R. L. como um património separado.
+
+Esta análise parece correcta, sendo aceitável, nas suas linhas gerais, a conclusão que propõe. Ela servirá, pois, de base à disciplina jurídica acolhida no presente diploma.
+
+De resto, a limitação de responsabilidade do agente económico individual tem tradições muito antigas no direito mercantil. Referimo-nos à possibilidade desde cedo reconhecida ao armador de limitar a sua responsabilidade pelos riscos da expedição marítima à chamada «fortuna de mar», ficando a salvo deles a «fortuna da terra».
+
+8. Certo que contra a solução adoptada militaria o chamado princípio da unidade e da indivisibilidade do património, se tal princípio valesse com o carácter absoluto que por alguns autores mais antigos (como Aubry e Rau) lhe foi atribuído: cada pessoa apenas pode ter um único património, o qual não é susceptível de ser dividido - e quem se obriga tudo quanto é seu. Isto é realmente assim em princípio, mas de há muito é reconhecida pelo direito constituído a possibilidade de formação de massas patrimoniais distintas, afectas a fins especiais, dentro do património geral do titular. Basta pensar na massa falida e na herança.
+
+É verdade que esta separação patrimonial só existe em casos contados - aqueles em que o legislador considerou dever seguir esse caminho por atenção a interesses julgados especialmente relevantes e que devem prevalecer sobre aquele de que é expressão entre nós e artigo 601.º do Código Civil. Mas justamente do que se trata é de saber se o interesse que está a ser encarado não deverá ser tutelado legislativamente de modo análogo. Ora, as razões invocadas logo de início - as razões susceptíveis de justificarem a limitação da responsabilidade do comerciante singular - levam a responder afirmativamente a esta questão.
+
+9. Isto posto, há que acentuar uma ideia que, como se evidenciou (n.º 1), está no espírito de todos quantos têm aderido à tese da admissibilidade da limitação da responsabilidade do empresário individual. Trata-se do seguinte: se o interesse do comerciante leva a admitir aquela limitação, importa, por outra via, acautelar, através de medidas apropriadas, o interesse de terceiros que entram em relação com o estabelecimento. Neste sentido devem figurar no estatuto da empresa ou estabelecimento de responsabilidade limitada normas que assegurem a efectiva realização do capital com que o mesmo estabelecimento se constitui; que fixem um capital inicial mínimo suficientemente elevado para evitar o recurso à limitação de responsabilidade em empreendimentos que, pelo seu porte, a não justifiquem; que garantam a adequada publicidade dos vários actos concernentes à constituição, funcionamento e extinção da empresa ou estabelecimento de responsabilidade limitada; que consagrem a autonomia patrimonial dos bens destinados pelo comerciante à empresa, em termos de estes só virem a responder pelas dívidas contraídas na respectiva exploração e de, por outro lado, tais dívidas serem unicamente garantidas por esses bens; que assegurem a efectividade da separação patrimonial, prevendo, designadamente, que o comerciante passe a responder com a totalidade dos seus bens pelas dívidas comerciais, sempre que não respeite aquela separação; que imponham ao comerciante a obrigação de manter uma escrituração e contabilidade adequadas a revelar, ano a ano, com exactidão e verdade, os resultados da sua exploração.
+
+10. Resta dizer uma palavra sobre a denominação do novo instituto: empresa ou estabelecimento individual de responsabilidade limitada?
+
+Os vocábulos «empresa» e «estabelecimento» são muitas vezes tomados como sinónimos; o que está certo, desde que a palavra «empresa» surja, em determinado contexto, para aludir a um objecto de direitos, a um valor no património de alguém.
+
+Mas a Palavra «empresa» serve também para referir a própria actividade do empresário - a actividade organizada para a produção ou circulação de bens e a prestação de serviços, com vista ao mercado e à obtenção de um lucro. Coisa diversa, pois, do que usualmente se entende por estabelecimento comercial; este é o conjunto organizado de meios através dos quais o comerciante explora a sua empresa.
+
+Vistas as coisas deste modo, o que pretende autonomizar-se em relação ao património geral do titular não é certamente a empresa - uma actividade - mas sim o estabelecimento. Daí que se tenha preferido para a figura que ora se cria a designação de estabelecimento individual de responsabilidade limitada.
+
+11. Como vai disposto no lugar próprio, nenhuma pessoa física poderá ter mais do que um estabelecimento sujeito ao regime instituído por este diploma Nada obsta, porém, a que a um mesmo estabelecimento ou organização mercantil correspondam várias unidades técnicas. Claro está que pode constituir delicado problema averiguar, em determinado caso, se se está em presença de estabelecimentos autónomos ou de simples formas de descentralização de um mesmo estabelecimento. Tornando-se extremamente arriscado formular em tal matéria critérios precisos, prefere deixar-se neste momento a solução em termos gerais do problema à doutrina e à jurisprudência. A optar-se aqui pela via da definição legislativa, a ocasião própria para o fazer será a da regulamentação global da matéria mercantil e, desiignadamente, do estabelecimento comercial, regulamentação que, aliás, está prevista.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+### Capítulo I — Constituição
+
+###### Artigo 1.º — (Disposições preliminares)
+
+1 - Qualquer pessoa singular que exerça ou pretenda exercer uma actividade comercial pode constituir para o efeito um estabelecimento individual de responsabilidade limitada.
+
+2 - O interessado afectará ao estabelecimento individual de responsabilidade limitada uma parte do seu património, cujo valor representará o capital inicial do estabelecimento.
+
+3 - Uma pessoa só pode ser titular de um único estabelecimento individual de responsabilidade limitada.
+
+###### Artigo 2.º — (Forma do acto constitutivo)
+
+1 - A constituição do estabelecimento individual de responsabilidade limitada deve ser reduzida a escrito, salvo se forma mais solene for exigida para a transmissão dos bens que representam o capital inicial do estabelecimento.
+
+2 - O documento de constituição deve conter:
+
+a) A firma, sede, objecto e capital do estabelecimento;
+
+b) A declaração de que se procedeu ao depósito das quantias liberadas, nos termos do artigo 3.º, e de que foram feitas as entradas em espécie, se as houver;
+
+c) O nome, a nacionalidade e o domicílio do titular do estabelecimento e ainda a firma, se a tiver;
+
+d) A data em que o estabelecimento inicia a sua actividade e o respectivo prazo de duração, se não for constituído por tempo indeterminado;
+
+e) O montante aproximado dos impostos ou taxas a cujo pagamento o titular fique sujeito em virtude da constituição do estabelecimento individual de responsabilidade limitada.
+
+3 - A firma do estabelecimento será constituída pelo nome do titular, acrescido ou não de uma referência ao objecto do comércio nele exercido, e incluirá sempre o aditamento «estabelecimento individual de responsabilidade limitada» ou a sigla «E. I. R. L.».
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2000 - Diário da República n.º 62/2000, Série I-A de 2000-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2000-411872), em vigor a partir de 2000-05-01
+
+###### Artigo 3.º — (Capital - Sua formação)
+
+1 - O montante do capital é sempre expresso em moeda com curso legal em Portugal.
+
+2 - O capital mínimo do estabelecimento não pode ser inferior a 5000 euros.
+
+3 - O capital será realizado em numerário, coisas ou direitos susceptíveis de penhora, não podendo a parte em numerário ser inferior a dois terços do capital mínimo.
+
+4 - O capital deve estar integralmente liberado no momento em que for requerido o registo do estabelecimento e a parte em numerário, deduzidas as quantias referidas na alínea e) do n.º 2 do artigo 2.º, encontrar-se depositada numa instituição de crédito à ordem do titular do estabelecimento há menos de três meses.
+
+5 - O depósito referido no número anterior deve ser realizado em conta especial, que só pode ser movimentada após o registo definitivo do acto constitutivo.
+
+6 - O depositante pode dispor livremente das quantias depositadas se o registo da constituição do estabelecimento não for pedido no prazo de três meses a contar do depósito.
+
+7 - Se houver entradas em espécie, o pedido do registo da constituição do estabelecimento deve ser instruído com um relatório elaborado por revisor oficial de contas em que se descreva o seu objecto e se indiquem os critérios da respectiva avaliação e o valor atribuído a cada uma delas.
+
+8 - Se os bens referidos no número anterior determinarem, pela sua natureza, forma mais solene para a constituição do estabelecimento, o referido relatório deve ser apresentado no momento do acto constitutivo.
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2000 - Diário da República n.º 62/2000, Série I-A de 2000-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2000-411872), em vigor a partir de 2000-05-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 343/98 - Diário da República n.º 257/1998, Série I-A de 1998-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1998-223195), em vigor a partir de 1999-01-01
+
+###### Artigo 4.º — (Controle)
+
+1- Compete ao notário verificar o cumprimento dos preceitos relativos à formação e existência do capital do estabelecimento, bem como de quaisquer outros de cuja observância dependa a validade da constituição deste. Para esse efeito, deve o notário exigir a apresentação dos documentos que repute necessários e, em qualquer caso, do documento certificativo de que o depósito referido no n.º 4 do artigo anterior foi feito há menos de 90 dias e do relatório mencionado no n.º 6 do mesmo artigo, se a ele houver lugar.
+
+2 - As obrigações de verificação e fiscalização previstas no número anterior impendem sobre o conservador do registo comercial quando o acto constitutivo do estabelecimento revista a forma de documento particular.
+
+> Revogado pelo/a Artigo 61.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2000 - Diário da República n.º 62/2000, Série I-A de 2000-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2000-411872), em vigor a partir de 2000-05-01
+
+###### Artigo 5.º — (Registo e publicação do acto constitutivo)
+
+1 - O pedido de registo de constituição do estabelecimento individual de responsabilidade limitada no registo comercial deve ser instruído com:
+
+a) O documento comprovativo do acto constitutivo;
+
+b) O relatório a que se refere o n.º 7 do artigo 3.º, se for caso disso;
+
+c) Documento comprovativo do cumprimento do disposto no n.º 4 do artigo 3.º
+
+2 - Compete à conservatória do registo competente, nos termos da legislação que lhe é aplicável, promover a publicação do acto constitutivo.
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2000 - Diário da República n.º 62/2000, Série I-A de 2000-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2000-411872), em vigor a partir de 2000-05-01
+
+###### Artigo 6.º — (Eficácia do acto constitutivo em relação a terceiros)
+
+O acto constitutivo do estabelecimento individual de responsabilidade limitada é eficaz em relação a terceiros a partir da sua publicação, nos termos do n.º 2 do artigo anterior, não impedindo a falta de publicação que o referido acto constitutivo seja invocado por e contra terceiros que dele tivessem conhecimento ao tempo da criação dos seus direitos.
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30
+
+###### Artigo 7.º — (Responsabilidade pela constituição)
+
+O titular do estabelecimento individual de responsabilidade limitada responde nos termos gerais, perante qualquer interessado, pela inexactidão e deficiências das indicações e declarações prestadas com vista à constituição do estabelecimento, designadamente pelo que respeita à realização das entradas e ao cumprimento do disposto no n.º 4 do artigo 3.º
+
+### Capítulo II — Administração e funcionamento
+
+###### Artigo 8.º — (Administração)
+
+A administração do estabelecimento individual de responsabilidade limitada compete ao seu titular, ainda que seja casado e, por força do regime matrimonial de bens, o estabelecimento pertença ao património comum do casal.
+
+###### Artigo 9.º — (Actos externos)
+
+Sem prejuízo de outras menções exigidas por leis especiais, em todos os contratos, correspondência, publicações, anúncios, sítios na Internet e de um modo geral em toda a actividade externa, os estabelecimentos devem indicar claramente, além da firma, a sede, a conservatória do registo comercial onde se encontrem matriculados, o número de matrícula nessa conservatória, o número de identificação de pessoa colectiva e, sendo caso disso, a menção de que o estabelecimento se encontra em liquidação.
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30
+
+###### Artigo 10.º — (Dívidas pelas quais responde o património do estabelecimento individual de responsabilidade limitada)
+
+1 - Sem prejuízo do disposto no artigo 22.º, o património do estabelecimento individual de responsabilidade limitada responde unicamente pelas dívidas contraídas no desenvolvimento das actividades compreendidas no âmbito da respectiva empresa.
+
+2 - Todavia, se os restantes bens do titular forem insuficientes e sem prejuízo do preceituado na parte final do artigo 6.º, aquele património responde por quaisquer dívidas que este tenha contraído antes de efectuada a publicação a que se refere o artigo 5.º, n.º 3.
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30
+
+###### Artigo 11.º — (Responsabilidade pelas dívidas do estabelecimento individual de responsabilidade limitada)
+
+1 - Pelas dívidas resultantes de actividades compreendidas no objecto do estabelecimento individual de responsabilidade limitada respondem apenas os bens a este afectados.
+
+2 - No entanto, em caso de falência do titular por causa relacionada com a actividade exercida naquele estabelecimento, o falido responde com todo o seu património pelas dívidas contraídas nesse exercício, contanto que se prove que o princípio da separação patrimonial não foi devidamente observado na gestão do estabelecimento.
+
+3 - No caso previsto no número anterior, a responsabilidade aí cominada recai sobre todo aquele que, tendo exercido anteriormente a administração do estabelecimento individual de responsabilidade limitada, haja transgredido nessa administração o princípio da separação de patrimónios. Se forem vários os obrigados, respondem solidariamente.
+
+### Capítulo III — Elaboração das contas anuais
+
+###### Artigo 12.º — (Elaboração das contas anuais)
+
+1 - Em cada ano civil, o titular elabora as contas do estabelecimento individual de responsabilidade limitada.
+
+2 - As contas referidas no número anterior são constituídas pelo balanço e demonstração dos resultados líquidos e são elaboradas nos termos da lei.
+
+3 - No documento que contém as contas anuais ou em anexo a este, deve mencionar-se o destino dos lucros.
+
+4 - O titular do estabelecimento individual de responsabilidade limitada deve submeter as contas a parecer de revisor oficial de contas por ele escolhido.
+
+5 - A informação respeitante aos documentos previstos nos n.os 2 a 4 está sujeita a registo comercial, nos termos da lei respectiva.
+
+6 - O titular do estabelecimento deve disponibilizar aos interessados, no respectivo sítio da Internet, quando exista, e na sede do estabelecimento cópia integral do parecer do revisor oficial de contas.
+
+> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2007-522813), em vigor a partir de 2007-01-18
+
+###### Artigo 13.º — (Remuneração)
+
+A remuneração que o titular do estabelecimento individual de responsabilidade limitada pode atribuir-se, como administrador, não excederá em caso algum o correspondente ao triplo do salário mínimo nacional.
+
+###### Artigo 14.º — (Intangibilidade do capital)
+
+1 - O titular do estabelecimento individual de responsabilidade limitada não pode desafectar do património do estabelecimento, para fins não relacionados com a actividade deste, quantias que não correspondam aos lucros líquidos acusados pelo balanço anual.
+
+2 - Pode, contudo, levantar quantias por conta dos lucros líquidos do exercício em curso.
+
+Se, no fim do exercício, tais quantias excederem o montante dos lucros referidos no número anterior, será o excedente restituído ao património do estabelecimento no prazo de seis meses a seguir ao fecho das contas. Pelo cumprimento desta obrigação o titular responde com todo o seu património.
+
+###### Artigo 15.º — (Reserva legal)
+
+1 - Será obrigatoriamente criado um fundo de reserva, ao qual o titular destinará uma fracção dos lucros anuais não inferior a 20%, até que esse fundo represente metade do capital do estabelecimento. Este fundo deve ser reintegrado sempre que se encontre reduzido.
+
+2 - O fundo de reserva previsto no número anterior só pode ser utilizado:
+
+a) Para cobrir a parte do prejuízo acusado no balanço anual que não possa ser coberta pela utilização de outras reservas;
+
+b) Para cobrir a parte dos prejuízos transitados do exercício anterior que não possa ser coberta pelo lucro do exercício nem pela utilização de outras reservas.
+
+c) Para incorporação no capital.
+
+### Capítulo IV — Alteração do acto constitutivo
+
+###### Artigo 16.º — (Requisitos de forma e publicidade)
+
+1 - As alterações do acto constitutivo do estabelecimento individual de responsabilidade limitada devem ser reduzidas a escrito, porém, se a alteração envolver aumento de capital com entradas em bens diferentes de dinheiro para cuja transmissão a lei exija forma mais solene, deve revestir essa forma.
+
+2 - É aplicável à alteração do acto constitutivo o disposto no artigo 6.º
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2000 - Diário da República n.º 62/2000, Série I-A de 2000-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2000-411872), em vigor a partir de 2000-05-01
+
+#### Secção I — Aumento do capital
+
+###### Artigo 17.º — (Aumento do capital mediante novas entradas)
+
+1 - As entradas correspondentes ao aumento do capital do estabelecimento individual de responsabilidade limitada podem ser em numerário, coisas ou direitos susceptíveis de penhora.
+
+2 - Ao aumento de capital são aplicáveis, com as necessárias adaptações, o disposto nos n.os 4 a 6 do artigo 3.º e no artigo 7.º
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30
+
+###### Artigo 18.º — (Aumento do capital mediante incorporação de reservas)
+
+1 - O aumento do capital do estabelecimento individual de responsabilidade limitada pode ser também efectuado mediante incorporação de reservas disponíveis.
+
+2 - Este aumento só pode ser efectuado depois de elaboradas as contas do último exercício; se, porém, já tiverem decorrido mais de seis meses sobre a elaboração dessas contas, a existência das reservas a incorporar só pode ser provada por um balanço especial, organizado nos termos previstos para o balanço anual.
+
+3 - O balanço anual, ou o balanço especial a que se refere o número anterior, acompanhado de um parecer elaborado por um revisor oficial de contas devem ser depositados na conservatória do registo competente.
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2000 - Diário da República n.º 62/2000, Série I-A de 2000-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2000-411872), em vigor a partir de 2000-05-01
+
+#### Secção II — Redução do capital
+
+###### Artigo 19.º — (Redução do capital)
+
+1 - Após a redução do capital, a situação líquida do estabelecimento tem de exceder o novo capital em, pelo menos, 20%.
+
+2 - O capital pode ser reduzido para um montante inferior ao mínimo fixado no artigo 3.º, não produzindo a redução efeitos enquanto não for efectuado um aumento do capital que o eleve ao mínimo exigido.
+
+3 - Sem prejuízo do disposto no número seguinte, qualquer credor do estabelecimento individual de responsabilidade limitada pode, no prazo de um mês após a publicação do registo da redução do capital, requerer ao tribunal que seja vedado ao titular retirar do estabelecimento quaisquer verbas provenientes da redução, ou a título de reservas disponíveis ou de lucros, durante um período a fixar, a não ser que o crédito do requerente seja satisfeito, se já for exigível, ou adequadamente garantido, nos restantes casos.
+
+4 - A faculdade conferida aos credores no número anterior apenas pode ser exercida se estes tiverem solicitado ao titular do estabelecimento a satisfação do seu crédito ou a prestação de garantia adequada, há pelo menos 15 dias, sem que o seu pedido tenha sido atendido.
+
+5 - Antes de decorrido o prazo concedido aos credores sociais nos números anteriores, o titular do estabelecimento fica sujeito à proibição referida no n.º 3, valendo a mesma proibição a partir do conhecimento de que algum credor requereu a providência ali indicada.
+
+> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2007-522813), em vigor a partir de 2007-01-18
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2000 - Diário da República n.º 62/2000, Série I-A de 2000-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2000-411872), em vigor a partir de 2000-05-01
+
+###### Artigo 20.º — (Redução do capital para compensar perdas)
+
+1 - A autorização judicial prevista no artigo anterior é dispensada se a redução for destinada unicamente à compensação de perdas.
+
+2 - Nesta hipótese, pode qualquer credor do estabelecimento individual de responsabilidade limitada requerer ao tribunal, até 30 dias depois de publicada a redução, que, durante um período a fixar, seja vedado ao titular retirar do estabelecimento quaisquer verbas provenientes da redução, ou a título de reservas disponíveis ou de lucros. A providência requerida será decretada, a menos que o crédito do requerente seja entretanto satisfeito ou garantido por modo adequado.
+
+3 - O titular do estabelecimento fica sujeito à proibição referida no número anterior a partir do dia em que tome conhecimento de que algum credor requereu a providência ali indicada.
+
+4 - Na hipótese prevista neste artigo o capital pode ser reduzido para um montante inferior ao mínimo fixado no artigo 3.º, contudo, esta redução não produz os seus efeitos enquanto não for levado a cabo um aumento do capital que o eleve ao mínimo exigido.
+
+> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 8/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2007-522813), em vigor a partir de 2007-01-18
+
+### Capítulo V — Negociação, oneração e penhora do estabelecimento individual de responsabilidade limitada
+
+###### Artigo 21.º — (Negócios jurídicos e direitos sobre o estabelecimento)
+
+1 - O estabelecimento individual de responsabilidade limitada pode ser transmitido por acto gratuito ou oneroso, ou dado em locação. Pode ainda sobre ele constituir-se um usufruto ou um penhor, produzindo este os seus efeitos independentemente da entrega do estabelecimento ao credor.
+
+2 - Os actos referidos no número anterior, enquanto actos entre vivos, estão sujeitos às condições de forma e de publicidade previstas no artigo 16.º
+
+3 - Ao locatário e ao usufrutuário do estabelecimento individual de responsabilidade limitada, durante o período de duração da locação e do usufruto, é aplicável o disposto neste diploma sobre os poderes e deveres do titular do estabelecimento.
+
+4 - Se o adquirente do estabelecimento individual de responsabilidade limitada for já titular de um estabelecimento da mesma natureza, será nula a aquisição, sem prejuízo, porém, dos direitos de terceiros de boa fé.
+
+###### Artigo 22.º — (Penhora do estabelecimento individual de responsabilidade limitada)
+
+Na execução movida contra o titular do estabelecimento individual de responsabilidade limitada por dívidas alheias à respectiva exploração, os credores só poderão penhorar o estabelecimento provando a insuficiência dos restantes bens do devedor.
+
+### Capítulo VI — Liquidação do estabelecimento individual de responsabilidade limitada
+
+###### Artigo 23.º — (Morte do titular ou separação patrimonial dos cônjuges)
+
+1 - A morte do titular do estabelecimento individual de responsabilidade limitada ou, nos casos em que ele for casado, qualquer outra causa que ponha fim à comunhão de bens existentes entre os cônjuges não implica a entrada em liquidação do estabelecimento, mantendo-se a afectação do respectivo património nos termos do acto constitutivo.
+
+2 - Se os herdeiros do titular do estabelecimento individual de responsabilidade limitada ou os cônjuges não chegarem a acordo sobre o valor a atribuir ao estabelecimento ou sobre a quota-parte que deve ingressar no património de cada um, qualquer deles pode pedir ao tribunal que fixe esse valor ou essa quota-parte.
+
+3 - Decorridos 90 dias sobre a morte do titular do estabelecimento ou sobre o acto constitutivo da separação patrimonial dos cônjuges, se os herdeiros ou os cônjuges não vierem a acordo sobre o destino do estabelecimento, qualquer interessado pode pedir a sua liquidação judicial.
+
+4 - Se o titular de um estabelecimento individual de responsabilidade limitada adquirir por sucessão mortis causa a propriedade de um outro estabelecimento da mesma espécie, deverá alienar ou liquidar um deles, ou transmitir a respectiva exploração.
+
+5 - O herdeiro ou o cônjuge não titular do estabelecimento individual de responsabilidade limitada que, em virtude dos factos referidos no n.º 1, venha a assumir a titularidade do estabelecimento, deve dar publicidade à ocorrência nos termos previstos no n.º 1 do artigo 167.º do Código das Sociedades Comerciais, bem como requerer a inscrição da alteração verificada no registo comercial, apresentando, com o requerimento de inscrição, os documentos que atestem a mudança de titularidade do estabelecimento individual de responsabilidade limitada.
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30
+
+###### Artigo 24.º — (Casos de liquidação imediata)
+
+O estabelecimento individual de responsabilidade limitada entra imediatamente em liquidação:
+
+a) Por declaração do seu titular, expressa em documento particular;
+
+b) Pelo decurso do prazo fixado no acto constitutivo;
+
+c) Pela sentença que declare a insolvência do titular;
+
+d) Pela impossibilidade de venda judicial na execução movida por um dos credores do titular, ao abrigo do artigo 22.º
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2000 - Diário da República n.º 62/2000, Série I-A de 2000-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2000-411872), em vigor a partir de 2000-05-01
+
+###### Artigo 25.º — (Liquidação por via administrativa)
+
+1 - A liquidação por via administrativa do estabelecimento individual de responsabilidade limitada pode ter lugar se algum interessado a requerer com um dos seguintes fundamentos:
+
+a) Ter sido completamente realizado o objecto do estabelecimento individual de responsabilidade limitada ou verificada a impossibilidade de o realizar;
+
+b) Encontrar-se o valor do património líquido reduzido a menos de dois terços do montante do capital.
+
+2 - Na hipótese prevista na alínea b) do número anterior, o conservador pode fixar ao titular um prazo razoável, a fim de que a situação seja regularizada, suspendendo-se o procedimento.
+
+3 - A liquidação por via administrativa do estabelecimento individual de responsabilidade limitada é iniciada oficiosamente pelo serviço do registo competente nos seguintes casos:
+
+a) Quando, durante dois anos consecutivos, o seu titular não tenha procedido ao depósito dos documentos de prestação de contas e a administração tributária tenha comunicado ao serviço de registo competente a omissão de entrega da declaração fiscal de rendimentos pelo mesmo período;
+
+b) Quando a administração tributária tenha comunicado ao serviço de registo competente a ausência de actividade efectiva do estabelecimento, verificada nos termos previstos na legislação tributária;
+
+c) Quando a administração tributária tenha comunicado ao serviço de registo competente a declaração oficiosa da cessação de actividade do estabelecimento, nos termos previstos na legislação tributária.
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30
+
+###### Artigo 26.º — (Publicação da liquidação)
+
+1 - O titular deverá requerer a inscrição no registo comercial da entrada em liquidação do estabelecimento individual de responsabilidade limitada.
+
+2 - No caso previsto na alínea a) do artigo 24.º, a inscrição faz-se com base no documento ali mencionado.
+
+3 - Nos casos previstos no n.º 3 do artigo 23.º e na alínea c) do artigo 24.º deve o tribunal notificar o serviço de registo competente do início do processo de liquidação judicial ou da sentença que declare a insolvência, respectivamente, para efeitos de promoção pela conservatória, a expensas do titular, do registo de entrada em liquidação do estabelecimento.
+
+4 - Nos casos previstos no artigo 25.º, a inscrição é lavrada oficiosamente, com base no requerimento ou no auto que dá início ao procedimento administrativo de liquidação.
+
+5 - O serviço de registo competente deve promover a publicação da entrada em liquidação do estabelecimento individual de responsabilidade limitada, nos termos da legislação do registo comercial.
+
+6 - A entrada em liquidação do estabelecimento individual de responsabilidade limitada produz efeitos em relação a terceiros a partir do momento em que seja publicada, nos termos do número anterior.
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2000 - Diário da República n.º 62/2000, Série I-A de 2000-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2000-411872), em vigor a partir de 2000-05-01
+
+###### Artigo 27.º — (Processo de liquidação)
+
+1 - A liquidação do estabelecimento individual de responsabilidade limitada será feita nos termos dos artigos seguintes. Na hipótese de falência, os termos da liquidação são os da lei de processo, devendo respeitar-se sempre a preferência dos credores do estabelecimento em relação aos credores comuns do falido.
+
+2 - A firma do estabelecimento individual de responsabilidade limitada em liquidação deverá ser seguida das palavras «em liquidação». Esta menção e o nome do liquidatário devem figurar em todos os actos e documentos destinados a terceiros.
+
+###### Artigo 28.º — (Liquidatário)
+
+1 - O liquidatário é o titular do estabelecimento individual de responsabilidade limitada, determinando o modo da liquidação.
+
+2 - Nas hipóteses de liquidação por via administrativa ou de liquidação judicial, o serviço de registo competente ou o tribunal podem designar outra pessoa como liquidatário, bem como regular o modo da liquidação.
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30
+
+###### Artigo 29.º — (Responsabilidade do liquidatário)
+
+O liquidatário responde em face de terceiros, nos termos gerais de direito, pelos prejuízos resultantes de irregularidades cometidas no desempenho das suas funções. Se o liquidatário não for o titular do estabelecimento individual de responsabilidade limitada, responderá nos mesmos termos perante este.
+
+###### Artigo 30.º — (Devem e poderes do liquidatário)
+
+1 - O liquidatário deve ultimar os negócios pendentes, cumprir as obrigações e cobrar os créditos do estabelecimento individual de responsabilidade individual.
+
+2 - O liquidatário pode ainda:
+
+a) Continuar temporariamente a actividade anterior do estabelecimento;
+
+b) Contrair empréstimos ou empreender outros negócios necessários à efectivação da liquidação;
+
+c) Proceder à alienação em globo do estabelecimento individual de responsabilidade limitada.
+
+3 - Se o liquidatário for pessoa diferente do titular do estabelecimento, só com autorização judicial pode praticar os actos referidos no número anterior.
+
+###### Artigo 31.º — (Liquidação do passivo do estabelecimento individual de responsabilidade limitada)
+
+1 - O liquidatário pagará todas as dívidas do estabelecimento, exigíveis ou não exigíveis, ainda mesmo que os prazos tenham sido estabelecidos em benefício dos credores.
+
+2 - Os credores serão avisados pelo liquidatário, através de um dos jornais mais lidos na localidade da sede do estabelecimento, de que este se encontra em liquidação e de que deverão apresentar-se a reclamar os seus créditos.
+
+3 - No caso de se verificarem as circunstâncias previstas no artigo 841.º do Código Civil, deve o liquidatário proceder à consignação em depósito do objecto da prestação.
+
+4 - Relativamente às dívidas litigiosas, os liquidatários acautelarão os eventuais direitos do credor por meio de caução, prestada nos termos do Código de Processo Civil.
+
+###### Artigo 32.º — (Contas anuais da liquidação)
+
+O liquidatário depositará na conservatória do registo comercial competente, nos três primeiros meses de cada ano civil, as contas anuais da liquidação, acompanhadas de um relatório pormenorizado do estado em que esta se encontra.
+
+###### Artigo 33.º — (Relatório e contas finais - Inscrição no registo comercial)
+
+1 - Terminada a liquidação, o liquidatário elabora um relatório final completo e apresenta as contas e documentos àquela relativos. Requer depois a inscrição do encerramento da liquidação no registo comercial, com base no relatório referido.
+
+2 - Ao serviço de registo competente compete promover a publicação do encerramento da liquidação, nos termos da legislação do registo comercial.
+
+3 - Da publicação referida no número anterior devem constar as seguintes menções:
+
+a) Firma do estabelecimento individual de responsabilidade limitada;
+
+b) Identidade do liquidatário;
+
+c) Data do encerramento da liquidação;
+
+d) Indicação do lugar onde os livros e documentos estão depositados e conservados pelo prazo mínimo de cinco anos;
+
+e) Indicação da consignação das quantias previstas no n.º 3 do artigo 31.º
+
+4 - O estabelecimento individual de responsabilidade limitada considera-se extinto pela inscrição no registo comercial do encerramento da liquidação.
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30
+
+### Capítulo VII — Disposições finais
+
+###### Artigo 34.º — (Declarações feitas para a constituição, alteração ou registo do acto constitutivo do estabelecimento individual de responsabilidade limitada).
+
+O titular que, com vista à constituição do estabelecimento individual de responsabilidade limitada, à sua alteração ou dos respectivos registos, prestar ao conservador do registo comercial ou ao notário falsas declarações ou ocultar factos importantes sobre o montante e realização do capital, natureza das entradas e despesas de constituição, ou atribuir fraudulentamente às entradas em espécie valor superior ao real, será punido nos termos de legislação especial a publicar.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2000 - Diário da República n.º 62/2000, Série I-A de 2000-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2000-411872), em vigor a partir de 2000-05-01
+
+###### Artigo 35.º — (Infracções relativas aos documentos que sirvam de base às contas anuais)
+
+O titular do estabelecimento individual de responsabilidade limitada ou o seu liquidatário, que conscientemente elaborar quaisquer documentos que sirvam de base às contas de exercício em que se omita, aumente ou diminua, sem fundamento legalmente admissível, qualquer elemento do activo ou do passivo, ou que adopte qualquer outro procedimento susceptível de induzir em erro acerca da composição, valor e liquidez do património, será punido nos termos de legislação especial a publicar.
+
+###### Artigo 35.º-A — Capital mínimo
+
+Os estabelecimentos individuais de responsabilidade limitada cujos titulares não tenham procedido ao aumento do capital do estabelecimento até ao montante mínimo previsto no n.º 2 do artigo 3.º entram em liquidação, através de procedimento administrativo iniciado oficiosamente no serviço de registo competente.
+
+> Aditado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30
+
+###### Artigo 36.º — (Vigência)
+
+Este diploma entra em vigor 60 dias após a sua publicação e aplica-se aos estabelecimentos individuais de responsabilidade limitada que se constituam e tenham a sede principal e efectiva em Portugal.
+
+Visto e aprovado em Conselho de Ministros de 10 de Julho de 1986. - Aníbal António Cavaco Silva - Mário Ferreira Bastos Raposo.
+
+Promulgado em 29 de Julho de 1986.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 30 de Julho de 1986.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

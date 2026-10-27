@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:57968601:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-presidente-republica/2014-904733530",
+ "dre_path": "/dr/detalhe/decreto-presidente-republica/78-2014-57968601",
+ "source_lastmod": "2025-01-23",
+ "versions": [
+  {
+   "date": "2014-10-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "904466354"
+   ]
+  }
+ ],
+ "fragments": {
+  "904466354": {
+   "fragment_id": "904733531",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto do Presidente da República n.º 78/2014\n\nde 6 de outubro\n\nO Presidente da República decreta, nos termos do artigo 135.º, alínea a) da Constituição, o seguinte:\n\nÉ exonerado, sob proposta do Governo, o embaixador José Joaquim Esteves dos Santos de Freitas Ferraz do cargo de Embaixador de Portugal em Tóquio, por passar à disponibilidade, com efeitos a partir de 29 de outubro de 2014."
+  }
+ }
+}

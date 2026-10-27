@@ -1,0 +1,175 @@
+---
+schema_version: '1.0'
+id: pt:dre:199832:por
+title: Decreto n.º 49104
+short_title: null
+summary: Modifica algumas disposições do Decreto n.º 43899, que reorganiza os vários serviços de registo das províncias ultramarinas
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Justiça
+proposing_entity: null
+official_number: '49104'
+official_date: null
+publication_date: '1969-07-05'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 156/1969, Série I de 1969-07-05
+  number: '156'
+  series: I
+  supplement: null
+  pages: 793 - 794
+  pdf_url: https://files.diariodarepublica.pt/1s/1969/07/15600/07930794.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '199832'
+  dre_path: /dr/detalhe/decreto/49104-1969-199832
+  internal: pt:dre:199832:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/49104-1969-199832
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49104-1969-199832
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:08:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d0d82993e9220db4b1a451b68ad3cde432d38c90937a960713aa55108f2e8670
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:08:08Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:180998:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:08:08Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 49104
+
+Usando da faculdade conferida pelo n.º 3.º e § 1.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+
+Artigo 1.º O regime de secretaria notarial estabelecido no artigo 9.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961, é extinto nas comarcas de Luanda e Lourenço Marques a partir de 1 de Janeiro de 1970.
+
+Art. 2.º Os governos das províncias, sob proposta do procurador da República, determinarão, a tempo de se dar execução ao disposto no artigo anterior, na data nele prevista:
+
+a) Os locais em que serão instalados os cartórios notariais que compõem as secretarias no mesmo artigo referidos;
+
+b) A distribuição do pessoal auxiliar da secretaria pelos diversos cartórios;
+
+c) Em que cartório ficarão os livros, índices, documentos e arquivo que, sendo comuns, não haja possibilidade de distribuir por todos eles;
+
+d) A divisão dos móveis e material de consumo corrente da actual secretaria;
+
+e) Quaisquer outras medidas atinentes à boa execução do desmembramento das secretarias nos cartórios que as substituirão.
+
+Art. 3.º Os cartórios destacados das secretarias a que se refere o artigo 1.º deste diploma devem instalar-se em edifícios distanciados uns dos outros, de forma a poderem ser utilizados com a maior vantagem e menor incómodo por quem necessitar dos seus serviços.
+
+Art. 4.º - 1. Os Cartórios Notariais de Nova Lisboa, Huíla e Nampula passam a ser de 1.ª classe.
+
+2. Os notários actualmente colocados nos Cartórios referidos no número anterior permanecem nos seus lugares e, se tiverem mais de cinco anos de bom e efectivo serviço nas funções de notário, serão promovidos à 1.ª classe. Não tendo esse tempo, mantêm-se como notários de 2.ª classe até que o atinjam ou venham a ser promovidos por concurso, percebendo, entretanto, a média dos vencimentos correspondentes à classe do lugar e à sua classe e observando-se a mesma regra quanto aos seus limites de participações emolumentares.
+
+Em qualquer hipótese mantêm-se, para os notários referidos neste artigo, o regime previsto no artigo 109.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961.
+
+Art. 5.º A parte final do n.º 4 do artigo 39.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961, só terá execução até 31 de Dezembro de 1969.
+
+A partir de 1 de Janeiro de 1970, a participação emolumentar do referido número só acrescerá às restantes participações quando estas não atinjam os limites legais a que passam a ficar sujeitas no seu conjunto todas as participações emolumentares dos notários.
+
+Art. 6.º As disposições do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961, que passam a indicar-se, terão a seguinte redacção:
+
+Art. 29.º ...
+
+1. O provimento dos notários de 2.ª classe do ultramar faz-se por nomeação entre indivíduos habilitados, pelo menos, com licenciatura em Direito, mediante concurso documental com a validade e segundo os termos prescritos para os restantes funcionários públicos.
+
+2. A colocação nos cartórios da categoria que lhes couber é feita na portaria de nomeação, de acordo com as conveniências de serviço e a possível conciliação com os interesses dos concorrentes aprovados.
+
+3. Na graduação do concurso referido no n.º 1 deste artigo serão observadas as seguintes condições de preferência:
+
+1.ª Notários da metrópole, magistrados e conservadores, segundo as informações e o tempo de serviço;
+
+2.ª Indivíduos habilitados com concurso para notários da metrópole, segundo as suas classificações, informação universitária e outros elementos julgados relevantes;
+
+3.ª Licenciados em Direito, segundo a informação universitária e outros elementos julgados relevantes.
+
+4. As regras contidas nos números anteriores são aplicáveis aos conservadores com as necessárias adaptações.
+
+Art. 30.º ...
+
+Se ficar deserto o concurso referido no artigo anterior, o número de concorrentes for inferior ao das vagas ou alguma delas ficar por preencher por desistência ulterior de qualquer concorrente, podem os cartórios vagos ser preenchidos durante o ano seguinte à data do encerramento do concurso:
+
+a) ...
+
+b) ...
+
+c) Pela nomeação, independentemente de concurso, de licenciados em Direito com capacidade para o exercício de funções públicas.
+
+Art. 7.º - 1. Reverte a favor do ajudante de notário respectivo a totalidade do emolumento especial de caminho relativamente aos actos por ele praticados.
+
+2. Em cada cartório notarial, 2 por cento ou 5 por cento da receita líquida mensal, consoante sejam de 1.ª ou de 2.ª classe, são destinados a participação emolumentar dos respectivos ajudantes, na proporção das suas categorias.
+
+3. Em caso algum os emolumentos e caminhos dos ajudantes podem ser abonados relativamente a períodos que não correspondam a efectiva prestação de serviço no cartório ou exceder os seguintes limites mensais:
+
+Primeiros-ajudantes - os dos escrivães de direito da respectiva comarca;
+
+Segundos-ajudantes - os dos ajudantes de escrivão da respectiva comarca;
+
+Terceiros-ajudantes - 95 por cento do limite anterior.
+
+Art. 8.º - 1. É aplicável aos conservadores o disposto no n.º 1 do artigo 39.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961, não podendo, porém, o vencimento com a participação emolumentar dos de 1.ª classe exceder 95 por cento dos vencimentos correspondentes à letra D e, quanto aos de 2.ª classe, 95 por cento dos correspondentes à letra E.
+
+2. Em cada conservatória, 2 por cento ou 5 por cento da receita líquida mensal, consoante seja de 1.ª ou de 2.ª classe, são destinados à participação emolumentar dos respectivos ajudantes, na proporção das suas categorias, observando-se os seguintes limites para a soma do vencimento e participação emolumentar:
+
+Primeiros-ajudantes: os vencimentos da letra I.
+
+Segundos-ajudantes: os vencimentos da letra L.
+
+Terceiros-ajudantes: os vencimentos da letra N.
+
+Marcello Caetano - Joaquim Moreira da Silva Cunha.
+
+Promulgado em 25 de Junho de 1969.
+
+Publique-se.
+
+Presidência da República, 5 de Julho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

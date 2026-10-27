@@ -1,0 +1,299 @@
+---
+schema_version: '1.0'
+id: pt:dre:249068:por
+title: Portaria n.º 3-A/2013
+short_title: null
+summary: Cria a medida de Apoio à contratação de desempregados com idade igual ou superior a 45 anos, via Reembolso da Taxa
+  Social Única (TSU), de ora em diante designada por Medida
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia e do Emprego
+proposing_entity: null
+official_number: 3-A/2013
+official_date: null
+publication_date: '2013-01-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 3/2013, 1º Suplemento, Série I de 2013-01-04
+  number: '3'
+  series: I
+  supplement: null
+  pages: 36-(2) a 36-(5)
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/01/00301/0000200005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/3-a/2013/01/04/p/dre/pt/html
+  oj: null
+  dre: '249068'
+  dre_path: /dr/detalhe/portaria/3-a-2013-249068
+  internal: pt:dre:249068:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2013-249068
+  metadata_url: https://data.dre.pt/eli/port/3-a/2013/01/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/3-a-2013-249068
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:55:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5c4aafcbd368fa697313a9d9ddbd0721693032a6b34d16b94fb925b7ef6ede0f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:55:39Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso ao Emprego
+- Ajuda Comunitária
+- Criação de Emprego
+- Definição de Competências
+- Desempregado
+- Emprego
+- Financiamento
+- Instituto de Informática
+- Instituto do Emprego e Formação Profissional
+- Mercado de Emprego
+- Pequenas e Médias Empresas
+- Política de Emprego
+- Programa de Emprego
+- Promoção de Emprego
+- Reembolso
+- TAXA Social Unica
+relationships:
+- type: amended_by
+  target: pt:dre:546030:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:259265:por
+  label: "Alterados os art.s 1.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º e 9.º , e republicada pela PORT.97/2013.04.03.2013.MSSSOC,\
+    \ DR.IS [44] de 04.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/97-2013-259265
+  date: '2013-03-04'
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/116/2008/07/04/p/dre
+- type: cites
+  target: pt:dre:480702:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/200/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:493506:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/185/2009/08/12/p/dre
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/53/2004/03/18/p/dre
+- type: cites
+  target: pt:dre:552804:por
+  label: null
+  source: http://data.dre.pt/eli/lei/16/2012/04/20/p/dre
+- type: cites
+  target: pt:dre:620286:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/76-a/2006/03/29/p/dre
+- type: cites
+  target: pt:dre:637385:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/282/2007/08/07/p/dre
+- type: repealed_by
+  target: pt:dre:546030:por
+  label: "Revogada, a partir de 19.07.2013, o presente diploma, alterado e republicado pela Port 97/2013 de 04-mar, pela PORT.204-A/2013.18.06.2013.MEE,\
+    \ DR.IS [115-2ºSupl] de 18.06.2013, que determinou sejam efetuadas para aquele diploma, nos termos do disposto no nº 2\
+    \ do seu art. 13º, as remissões legais ou regulamentares efetuadas para o presente.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/204-a-2013-546030
+  date: '2013-06-18'
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:55:39Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 3-A/2013
+
+de 4 de janeiro
+
+No âmbito da nova geração de medidas ativas de emprego preconizada no Programa de Governo e desenvolvida no Plano Estratégico de Iniciativas de Promoção de Empregabilidade Jovem e Apoio às Pequenas e Médias Empresas - «Impulso Jovem», criado através da Resolução do Conselho de Ministros n.º 51 -A/2012, de 14 de junho, foi lançada, através da Portaria n.º 229/2012, de 3 de agosto, uma medida de apoio à contratação de jovens desempregados de longa duração através do reembolso total ou parcial das contribuições para a segurança social da responsabilidade do empregador.
+
+Com esta medida possibilitou-se a redução dos encargos financeiros associados à contratação, a termo ou sem termo, daqueles que se encontram mais expostos às consequências negativas do desemprego. Com efeito, a aproximação entre o custo associado a um contrato de trabalho suportado pelo empregador e a remuneração auferida pelo trabalhador aumenta a eficiência do mercado de trabalho, promovendo a celebração de mais vínculos laborais, nomeadamente entre aqueles que apresentam níveis mais baixos de empregabilidade e que são abrangidos pela medida.
+
+Importa agora alargar o combate ao desemprego promovido pelas medidas ativas de emprego a outras faixas etárias também particularmente expostas à atual situação de crise económica. Procede-se, assim, ao lançamento de uma nova medida de apoio à contratação de adultos desempregados com idade igual ou superior a 45 anos através do reembolso das contribuições para a segurança social da responsabilidade do empregador.
+
+No âmbito desta medida, e atendendo a que os desempregados desta faixa etária tendem a apresentar elevados níveis de experiência profissional, estabelece-se um valor máximo de reembolso superior ao estabelecido na Portaria n.º 229/2012, de 3 de agosto. Acresce que, com o objetivo de combater antecipadamente os períodos de desemprego mais longos em que se encontram muitos desempregados da faixa etária abrangida, é alargado o leque de durações mínimas da inscrição do desempregado no Centro de Emprego para períodos de pelo menos seis meses, considerando-se também os desempregados que transitam de situação de inatividade. É atribuída mais flexibilidade à duração dos contratos de trabalho a termo apoiados, bem como ao critério da criação líquida de emprego, passando a ser, ainda, considerados os contratos de trabalho a tempo parcial.
+
+Por outro lado, é mantida a majoração do apoio para contratos de trabalho sem termo, aprofundando o incentivo a estes vínculos laborais que resulta da recente reforma da legislação laboral, com vista a reduzir a segmentação do mercado de trabalho, em conjugação com outras medidas já em vigor neste sentido.
+
+Foram consultados os Parceiros Sociais com assento na Comissão Permanente de Concertação Social.
+
+Assim, ao abrigo do disposto na alínea d) do n.º 1 do artigo 3.º e no n.º 1 do artigo 17.º do [Decreto-Lei n.º 132/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1999-534598), de 21 de abril, manda o Governo, pelo Secretário de Estado do Emprego, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - A presente portaria cria a medida de Apoio à contratação de desempregados com idade igual ou superior a 45 anos, via Reembolso da Taxa Social Única (TSU), de ora em diante designada por Medida.
+
+2 - A Medida consiste no reembolso de uma percentagem da TSU paga pelo empregador que celebre contrato de trabalho com os seguintes beneficiários da Medida:
+
+a) Desempregados com idade igual ou superior a 45 anos, ou equiparado, inscrito no centro de emprego há pelo menos seis meses consecutivos;
+
+b) Inativos, entendendo-se como tal as pessoas que não estejam inscritas no centro de emprego nem inscritas na segurança social como trabalhadores de determinada entidade ou como trabalhadores independentes nos 12 meses que precedem a data da candidatura à Medida.
+
+3 - São equiparados a desempregados, para efeitos da aplicação da presente Medida, as pessoas com idade igual ou superior a 45 anos e inscritas nos centros de emprego há pelo menos seis meses consecutivos como trabalhadores com contrato de trabalho suspenso com fundamento no não pagamento pontual da retribuição.
+
+4 - Considera-se que o tempo de inscrição referido nos números anteriores não é prejudicado pela frequência de estágio profissional, formação profissional ou outra medida ativa de emprego, com exceção das medidas de apoio direto à contratação ou que visem a criação do próprio emprego.
+
+###### Artigo 2.º — Execução e regulamentação
+
+1 - O Instituto do Emprego e Formação Profissional, I. P. (IEFP, I.P.) é responsável pela execução da Medida, em articulação com o Instituto de Informática, I. P..
+
+2 - o IEFP, I.P. elabora o regulamento específico aplicável à Medida.
+
+###### Artigo 3.º — Requisitos do empregador
+
+1 - Pode candidatar-se à Medida a pessoa singular ou coletiva de natureza jurídica privada, com ou sem fins lucrativos, que reúna os seguintes requisitos:
+
+a) Estar regularmente constituída e registada;
+
+b) Preencher os requisitos legais exigidos para o exercício da respetiva atividade ou apresentar comprovativo de ter iniciado o processo aplicável;
+
+c) Ter a situação contributiva regularizada perante a administração fiscal e a segurança social;
+
+d) Não se encontrar em situação de incumprimento no que respeita a apoios financeiros concedidos pelo IEFP, I.P.;
+
+e) Ter a situação regularizada em matéria de restituições no âmbito do financiamento do Fundo Social Europeu;
+
+f) Dispor de contabilidade organizada de acordo com o previsto na lei.
+
+2 - A observância dos requisitos previstos no número anterior é exigida no momento da apresentação da candidatura e durante o período de duração do apoio financeiro.
+
+3 - Sem prejuízo do disposto na alínea c) do n.º 1 do presente artigo, podem candidatar-se à presente Medida as empresas que iniciaram processo especial de revitalização, previsto no Código da Insolvência e da Recuperação de Empresas (CIRE), aprovado pelo [Decreto-Lei n.º 53/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2004-538423), de 18 de março e alterado pelos Decretos-Leis n.os [200/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2004-480702), de 18 de agosto, [76-A/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), de 29 de março, [282/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-2007-637385), de 7 de agosto, [116/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), de 4 de julho, e [185/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2009-493506), de 12 de agosto e pela [Lei n.º 16/2012](https://diariodarepublica.pt/dr/detalhe/lei/16-2012-552804), de 20 de abril, devendo entregar ao IEFP, I.P. cópia certificada da decisão a que se refere a alínea a) do n.º 3 do artigo 17.º-C do CIRE.
+
+###### Artigo 4.º — Requisitos de atribuição do apoio
+
+1 - São requisitos de atribuição do apoio financeiro:
+
+a) A celebração de contrato de trabalho, a tempo parcial ou a tempo completo, com desempregado com idade igual ou superior a 45 anos e inscrito em centro de emprego ou centro de emprego e formação profissional há pelo menos seis meses consecutivos;
+
+b) A criação líquida de emprego.
+
+2 - Para efeitos do disposto na alínea a) do n.º 1, o contrato de trabalho é celebrado sem termo ou a termo resolutivo certo, pelo período mínimo de seis meses, designadamente ao abrigo da parte final da alínea b) do n.º 4 do artigo 140.º do Código do Trabalho.
+
+3 - A idade do desempregado é aferida à data de celebração do contrato de trabalho.
+
+4 - No âmbito da presente Medida, considera-se que há criação líquida de emprego quando:
+
+a) O empregador atingir por via do apoio um número total de trabalhadores superior à média mais baixa dos trabalhadores registados nos quatro, seis ou 12 meses que precedem a data da apresentação da candidatura;
+
+b) A partir da contratação e pelo menos durante o período de duração do apoio financeiro, o empregador registar, com periodicidade trimestral, um número total de trabalhadores igual ou superior ao número de trabalhadores atingido por via do apoio.
+
+5 - A obrigação referida na alínea b) do número anterior deve ser mantida pelo menos durante o período de duração do apoio financeiro.
+
+6 - Para efeitos de aplicação da alínea b) do número anterior, não são contabilizados os trabalhadores que tenham saído da empresa por invalidez, falecimento, reforma por velhice ou despedimento com justa causa promovido por aquela, desde que a empresa comprove esse facto.
+
+7 - Cada empregador não pode contratar mais de 20 trabalhadores ao abrigo da presente Medida.
+
+###### Artigo 5.º — Apoio financeiro
+
+1 - O empregador que celebre contrato de trabalho ao abrigo da Medida tem direito, durante o período máximo de 18 meses, ao reembolso, total ou parcial, do valor da TSU paga mensalmente pelo mesmo relativamente a cada trabalhador, nos seguintes termos:
+
+a) 100% do valor da TSU, no caso de contrato sem termo;
+
+b) 75% do valor da TSU, no caso de contrato a termo resolutivo certo
+
+2 - O reembolso referido no número anterior não pode ser superior a (euro)200 por mês.
+
+###### Artigo 6.º — Procedimento
+
+1 - Para efeitos de obtenção do apoio, o empregador apresenta a candidatura à Medida no portal "NetEmprego" do IEFP, I. P., em www.netemprego.gov.pt, através do registo da oferta de emprego, podendo identificar o destinatário que pretende contratar.
+
+2 - O IEFP, I. P. efetua a validação da oferta e verifica os demais requisitos de atribuição do apoio, nomeadamente verificando a elegibilidade do destinatário identificado pelo empregador ou apresentando-lhe, para efeito de seleção, desempregados que reúnam os requisitos necessários ao preenchimento daquela oferta.
+
+3 - Após o empregador informar quais os candidatos selecionados ou o IEFP, I. P. confirmar a elegibilidade dos candidatos indicados, é proferida decisão sobre a candidatura e notificado o empregador, no prazo de 30 dias consecutivos contados desde a data da apresentação da candidatura.
+
+4 - No âmbito da Medida, o empregador deve celebrar os contratos de trabalho depois da notificação da decisão de aprovação, sem prejuízo de o empregador poder celebrar os contratos de trabalho a partir do momento da apresentação da candidatura, assumindo, nesse caso, os efeitos decorrentes da eventual não elegibilidade da mesma.
+
+5 - O empregador deve devolver o termo de aceitação da decisão de aprovação e apresentar cópia de todos os contratos apoiados ao IEFP, I. P., no prazo de 15 dias consecutivos contados deste a data da notificação da decisão.
+
+6 - O não cumprimento do previsto no número anterior determina a caducidade da decisão de aprovação.
+
+7 - O prazo previsto no n.º 3 do presente artigo suspende-se sempre que sejam solicitados pelo IEFP, I. P. elementos ou informações em falta ou adicionais, desde que imprescindíveis para a tomada da decisão, ou no âmbito da realização da audiência de interessados, nos casos aplicáveis, terminando a suspensão com a cessação do facto que lhe deu origem.
+
+###### Artigo 7.º — Pagamento do apoio
+
+1 - O pagamento do apoio é efetuado da seguinte forma:
+
+a) A primeira prestação, correspondente a 20% do apoio aprovado, é paga no mês seguinte à notificação da decisão referida no n.º 3 do artigo anterior;
+
+b) A segunda prestação, correspondente a 20% do apoio aprovado, é paga até ao termo do primeiro terço do período de duração do apoio;
+
+c) A terceira prestação, correspondente a 30% do apoio aprovado, é paga até ao termo do segundo terço do período de duração do apoio;
+
+d) A quarta prestação, no montante remanescente, é paga após o fim do período de duração do apoio, no prazo de 10 dias consecutivos após o pedido de pagamento.
+
+2 - Os pagamentos referidos no número anterior estão sujeitos à verificação da manutenção dos requisitos necessários à atribuição da Medida.
+
+###### Artigo 8.º — Incumprimento e restituição
+
+1 - O empregador perde o direito ao reembolso da TSU no caso de incumprimento em dois meses, seguidos ou interpolados, da obrigação de manutenção do nível de emprego, prevista no n.º 4 do artigo 4.º.
+
+2 - O recebimento indevido do apoio financeiro, nomeadamente resultante da prestação de falsas declarações, sem prejuízo, se for caso disso, de participação criminal por eventuais indícios da prática do crime de fraude na obtenção de subsídio de natureza pública, implica a imediata cessação da atribuição de todos os apoios e a restituição do montante já recebido.
+
+3 - O IEFP, I.P. deve notificar o empregador da decisão que põe termo à atribuição do apoio financeiro, indicando a data em que se considera ter deixado de existir fundamento para a respetiva atribuição, bem como da decisão que determine a restituição do apoio recebido.
+
+4 - A restituição deve ser efetuada no prazo de 60 dias consecutivos contados da receção da notificação, sob pena de pagamento de juros de mora à taxa legal.
+
+###### Artigo 9.º — Regime especial de projetos de interesse estratégico
+
+Os limites previstos no n.º 6 do artigo 4.º e no n.º 3 do artigo 5.º não são aplicáveis a empregador que apresente projeto considerado de interesse estratégico para a economia nacional ou de determinada região, e que como tal seja reconhecido, a título excecional, por despacho do membro do Governo responsável pela área da economia.
+
+###### Artigo 10.º — Outros apoios
+
+1 - O apoio financeiro previsto na presente portaria não é cumulável com outros apoios diretos ao emprego aplicáveis ao mesmo posto de trabalho, sem prejuízo do disposto no número seguinte.
+
+2 - O apoio financeiro previsto na presente portaria é cumulável com a medida Estímulo 2012, criada pela Portaria n.º 45/2012, de 13 de fevereiro, ou com outra equivalente."
+
+###### Artigo 11.º — Financiamento comunitário
+
+A Medida inclui financiamento comunitário, sendo-lhe aplicáveis as respetivas disposições do direito comunitário e nacional.
+
+###### Artigo 12.º — Entrada em vigor
+
+A presente portaria entra em vigor 30 dias após a sua publicação.
+
+O Secretário de Estado do Emprego, Pedro Miguel Rodrigues da Silva Martins, em 27 de dezembro de 2012.

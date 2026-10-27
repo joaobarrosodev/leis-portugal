@@ -1,0 +1,390 @@
+---
+schema_version: '1.0'
+id: pt:dre:71019975:por
+title: Portaria n.º 403-B/2015
+short_title: null
+summary: Estabelece o montante das taxas devidas pelos serviços prestados pelas contrastarias a que se refere o artigo 107.º
+  do regime jurídico da ourivesaria e das contrastarias, aprovado pela Lei n.º 98/2015, de 18 de agosto e revoga a Portaria
+  n.º 418-A/2012, de 19 de dezembro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 403-B/2015
+official_date: null
+publication_date: '2015-11-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 223/2015, 1º Suplemento, Série I de 2015-11-13
+  number: '223'
+  series: I
+  supplement: 1º Suplemento
+  pages: 9518-(3) a 9518-(6)
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/11/22301/0000300006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2020-07-18'
+version_history:
+  file: portaria-403-b-2015.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2015-11-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-07-18'
+    amending: pt:dre:138217580:por
+    amending_title: Portaria n.º 173/2020
+    changes:
+    - Adita Artigo 21.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 21.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/403-b/2015/p/cons/20200717/pt/html
+  oj: null
+  dre: '71019975'
+  dre_path: /dr/detalhe/portaria/403-b-2015-71019975
+  internal: pt:dre:71019975:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/403-b-2015-71019975
+  metadata_url: https://data.dre.pt/eli/port/403-b/2015/p/cons/20200717/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-138223810
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-138223810
+  retrieved_at: '2026-10-22T12:33:45Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 7665a2e19ab38efa70e2f2521b1c22480778df58017d9d61842f7b942653c730
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:33:45Z'
+  notes: 2 versão(ões); histórico completo em portaria-403-b-2015.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Armazenagem
+- Carteira Profissional
+- Contrastaria
+- Etiquetagem
+- Imprensa Nacional-Casa da Moeda
+- Importação
+- Licenciamento
+- Exportação
+- Prestação de Serviços
+- Indústria de Ourivesaria e Relojoaria
+- Joalharia e Ourivesaria
+- Taxa
+- Comércio
+relationships:
+- type: amended_by
+  target: pt:dre:138217580:por
+  label: Adita Artigo 21.º-A; Altera Artigo 3.º; Altera Artigo 6.º; Revoga Artigo 17.º; Revoga Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/173-2020-138217580
+  date: '2020-07-17'
+- type: cites
+  target: pt:dre:258083:por
+  label: null
+  source: http://data.dre.pt/eli/resolassrep/9/2013/02/04/p/dre
+- type: cites
+  target: pt:dre:556654:por
+  label: null
+  source: http://data.dre.pt/eli/port/418-a/2012/12/19/p/dre
+- type: cites
+  target: pt:dre:70042475:por
+  label: null
+  source: http://data.dre.pt/eli/lei/98/2015/08/18/p/dre
+article_structure:
+  article_count: 24
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:33:45Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 403-B/2015
+
+Portaria n.º 403-B/2015
+
+de 13 de novembro
+
+Com a publicação da Lei n.º 98/2015, de 18 de agosto, que aprovou o regime jurídico da ourivesaria e das contrastarias (RJOC) o XIX Governo Constitucional assumiu a primordial importância da profunda revisão do quadro legal aplicável à indústria e comércio de artigos com metal precioso, reunindo num único diploma o regime substantivo e o regime sancionatório, a bem da transparência e da boa aplicação do novo regime jurídico por parte dos operadores económicos.
+
+Destaca-se no novo RJOC a adoção de numerosas regras coincidentes com recomendações constantes da Resolução da Assembleia da República n.º 9/2013, de 4 de fevereiro de 2013, tais como, a admissão da comercialização de artefactos compostos de metais preciosos e metal comum, ou outros materiais, afirmando o desenvolvimento da criatividade da indústria nacional e do comércio do setor, o reconhecimento do paládio como metal precioso, a admissão de novos métodos de marcação, como a gravação a laser e o autocolante de toque, ou o alargamento das possibilidades de aposição de marcas comerciais. Também merece destaque a revisão das categorias dos agentes económicos, com a admissão do «artista de joalharia» há muito desejada no setor, a par do «retalhista de compra e venda de artigos com metal precioso usados».
+
+A Portaria n.º 418-A/2012, de 19 de dezembro havia atualizado os emolumentos, taxas e licenças devidas pelos serviços prestados ao abrigo do anterior Regulamento das Contrastarias, aprovado pelo Decreto-Lei n.º 391/79, de 20 de setembro, e revogado pela referida Lei n.º 98/2015, de 18 de agosto.
+
+A opção no novo RJOC pela eliminação das exigências de «matrícula» e de «licença» anual e de pagamento das correspondentes taxas anuais, e em favor da consagração de uma única licença de atividade, a ser renovada apenas a cada cinco anos constitui um passo significativo na simplificação dos procedimentos, muito embora seja devido reconhecer que uma tal medida envolve a necessária revisão do montante das taxas devidas pelo licenciamento inicial da atividade, tal como previsto no artigo 107.º do RJOC.
+
+Torna-se, pois, necessário, estabelecer as taxas aplicáveis aos serviços prestados pelas contrastarias a que se refere o artigo 107.º do RJOC, sendo que as taxas são revistas no sentido de melhor corresponderem a uma contrapartida dos serviços prestados, tomando em consideração a relevância do custo efetivo da prestação desses serviços por parte das contrastarias.
+
+Procede-se assim, a uma coerente atualização das taxas devidas em contrapartida dos serviços prestados pelas contrastarias, sendo de salientar que foram tomados em consideração os valores praticados em vários países da Europa, e em especial os praticados nas contrastarias espanholas reconhecidas em Portugal, atenta a proximidade e o potencial de concorrência.
+
+Face à generalidade dos preços de venda ao público de diversos artigos com metal precioso, as novas taxas representam valores de impacto reduzido no preço final dos artigos, contrariando a ideia de que os serviços de ensaio e marcação representam um elevado custo acrescido ao custo de produção desses mesmos artigos. Aliás, também em paralelo com o que sucede em muitas zonas de Espanha, devido ao aumento da gramagem de artigos de prata isentos de marcação, a par da introdução de isenções para artigos em ouro, decorrentes do RJOC, muitos artigos passam a deixar de estar sujeitos à aposição das marcas de contraste, e ao consequente pagamento das taxas pela prestação desse serviço.
+
+A taxa mínima por lote no montante de 7,50 (euro) continua a aplicar-se pelos mesmos motivos que justificaram a sua criação em 2012, representando uma contrapartida pelos custos mínimos que o serviço de ensaio e marcação implica. Porém, considerando a nova atividade de «artista de joalharia» admitida no RJOC e, consequentemente a comercialização de novos tipos de artigos de metais preciosos (joalharia de autor) mantém-se aquele valor com o objetivo de não afetar a produção em reduzida escala.
+
+A taxa devida pela prestação de serviços em regime de urgência é alterada para conferir maior racionalidade na procura e no recurso à prestação deste serviço por parte das contrastarias, já que a experiência demonstra um desequilíbrio por excesso de procura, em virtude do reduzido valor das taxas devidas na prestação desse serviço, com evidente prejuízo para a boa prestação do correspondente serviço público. Assim, opta-se pela identificação de três níveis de serviço e as taxas praticadas são aproximadas às taxas cobradas pela prestação de outros serviços públicos com caráter de urgência.
+
+Assim:
+
+Manda o Governo, pela Ministra de Estado e das Finanças, ao abrigo do disposto na alínea a) do artigo 6.º da Lei n.º 98/2015, de 18 de agosto, e do artigo 107.º do regime jurídico da ourivesaria e das contrastarias aprovado pela mencionada Lei, o seguinte:
+
+> Nota: [Artigo 4.º, Portaria n.º 173/2020 - Diário da República n.º 138/2020, Série I de 2020-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/173-2020-138217580) Permanecem em vigor os valores das restantes taxas previstas na presente Portaria de acordo com as respetivas atualizações efetuadas nos termos da anterior redação do n.º 3 do artigo 107.º do RJOC.
+
+###### Artigo 1.º — Objeto
+
+A presente portaria estabelece o montante das taxas devidas pelos serviços prestados pelas contrastarias a que se refere o artigo 107.º do regime jurídico da ourivesaria e das contrastarias (RJOC), aprovado pela Lei n.º 98/2015, de 18 de agosto.
+
+###### Artigo 2.º — Aprovação e renovação do punção de responsabilidade
+
+1 - Pela aprovação do punção de responsabilidade pela Contrastaria, nos termos do artigo 28.º do RJOC é devido o pagamento de uma taxa no montante de 70 (euro).
+
+2 - Pela renovação da aprovação do punção pela Contrastaria nos termos do n.º 1 do artigo 31.º do RJOC, é devido o pagamento de uma taxa no montante de 50 (euro).
+
+###### Artigo 3.º — Títulos de atividade
+
+1 - Por cada mera comunicação prévia, decorrente do artigo 41.º do RJOC, n.os 1, 4 e 5, é devida uma taxa no valor de 250 (euro), à qual acresce o valor de 25 (euro) por cada secção acessória.
+
+2 - Até 31 de dezembro de 2020, a taxa prevista no número anterior será reduzida a metade.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 173/2020 - Diário da República n.º 138/2020, Série I de 2020-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/173-2020-138217580), em vigor a partir de 2020-07-18
+
+###### Artigo 4.º — Título profissional
+
+1 - Pela emissão do título profissional de responsável técnico de ensaiador-fundidor de artigos com metais preciosos, previsto no n.º 1 do artigo 45.º do RJOC, é devido o pagamento de uma taxa no montante de 50 (euro).
+
+2 - Pela emissão do título profissional de avaliador de artigos com metais preciosos e de materiais gemológicos, previsto no n.º 2 do artigo 45.º do RJOC, é devido o pagamento de uma taxa no montante de 50 (euro).
+
+###### Artigo 5.º — Exame e provas de reavaliação de conhecimentos
+
+1 - A realização de exame previsto no artigo 48.º do RJOC depende do pagamento prévio de uma taxa no valor de 300 (euro).
+
+2 - A prova de reavaliação de conhecimentos prevista no artigo 49.º do RJOC, depende do pagamento prévio de uma taxa no valor de 200 (euro).
+
+###### Artigo 6.º — Serviços de ensaio e marcação de artigos com metal precioso
+
+Pela prestação do serviço de ensaio e marcação regulado na Portaria n.º 374-A/2017, de 31 de outubro, são devidas taxas cujos montantes são calculados nos termos a seguir indicados:
+
+1) Artigos com metal precioso:
+
+a) Platina: por cada grama ou fração, até 1 g - 0,5724 (euro);
+
+b) Ouro: por cada 2 g ou fração, até 2 g - 0,2553 (euro);
+
+c) Paládio: por cada grama ou fração, até 1 g - 0,1277 (euro);
+
+d) Prata: por cada 5 g ou fração, até 5 g - 0,1660 (euro).
+
+2 - Barras de metal precioso:
+
+a) Platina ou Paládio:
+
+i) Barras até 25 g - 30 (euro);
+
+ii) Por cada fração de 5 g acima do peso indicado na subalínea anterior - 3 (euro);
+
+b) Ouro:
+
+i) Barras até 50 g - 15 (euro);
+
+ii) Por cada fração de 10 g acima do peso indicado na subalínea anterior - 1,50 (euro);
+
+c) Prata:
+
+i) Barra até 500 g - 10 (euro);
+
+ii) Por cada fração de 10 g acima do peso indicado na subalínea anterior - 1 (euro).
+
+3 - Relógios de metal precioso:
+
+a) Platina - 50 (euro) por unidade;
+
+b) Ouro - 20 (euro) por unidade;
+
+c) Paládio - 20 (euro) por unidade;
+
+d) Prata - 5 (euro) por unidade.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 173/2020 - Diário da República n.º 138/2020, Série I de 2020-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/173-2020-138217580), em vigor a partir de 2020-07-18
+
+###### Artigo 7.º — Serviços de ensaio e marcação de artefactos mistos de metal precioso
+
+1 - Pela prestação do serviço de ensaio e marcação de artefactos mistos de metal precioso são devidas as taxas fixadas no n.º 1 do artigo 6.º, considerando cada um dos metais declarados pelo operador económico.
+
+2 - Pela prestação do serviço de ensaio e marcação de barras constituídas por mais do que um metal precioso são devidas as taxas fixadas no n.º 2 do artigo 6.º, considerando cada um dos metais declarados pelo operador económico.
+
+3 - Pela prestação do serviço de ensaio e marcação de relógios constituídos por mais do que um metal precioso são devidas as taxas fixadas no n.º 3 do artigo 6.º, tendo em conta cumulativamente cada um dos metais que os compõem.
+
+4 - O disposto nos anteriores n.os 1 e 2 não obsta a que, em caso de dúvida, a Contrastaria efetue um ensaio nos termos do disposto nas alíneas b) ou e) do n.º 1 do artigo 6.º do RJOC, para comprovar a composição do artigo quanto aos metais declarados pelo operador económico, cujo custo será suportado por este em caso de divergência.
+
+###### Artigo 8.º — Serviços de ensaio e marcação de artefactos compostos
+
+1 - Pela prestação do serviço de ensaio e marcação de artefactos compostos é devido o pagamento das taxas fixadas nos termos do n.º 1 do artigo 6.º, considerando cada um dos metais declarados pelo operador económico.
+
+2 - Pela prestação do serviço de ensaio e marcação de relógios constituídos por metal precioso e metal comum são devidas as taxas fixadas nos termos do n.º 3 do artigo 6.º, tendo em conta cumulativamente cada um dos metais preciosos que os compõem.
+
+3 - O disposto no anterior n.º 1 não obsta a que, em caso de dúvida, a Contrastaria efetue um ensaio nos termos do disposto nas alíneas b) ou e) do n.º 1 do artigo 6.º do RJOC, para comprovar a composição do artigo quanto aos metais declarados pelo operador económico, cujo custo será suportado por este em caso de divergência.
+
+###### Artigo 9.º — Serviços de ensaio e marcação de artefactos de ourivesaria de interesse especial
+
+1 - Pela prestação do serviço de ensaio e marcação de artefactos de ourivesaria de interesse especial são devidas taxas cujos montantes correspondem aos fixados nos artigos 6.º e 7.º, consoante se trate respetivamente de artigos com metal precioso ou de artefactos mistos de metal precioso, acrescidos de:
+
+a) 10 (euro) por cada artefacto de ourivesaria que contenha marcas de extintos contrastes municipais; e/ou
+
+b) 20 (euro) por cada artefacto de ourivesaria de reconhecido merecimento arqueológico, histórico ou artístico de fabrico anterior ao da criação das Contrastarias Portuguesas.
+
+2 - Os custos da certificação de antiguidade previstos no n.º 2 do artigo 9.º do RJOC são suportados pelo operador económico, salvo se este apresentar os artigos para ensaio e marcação acompanhados dessa certificação.
+
+###### Artigo 10.º — Serviços de ensaio e marcação de artigos com metal precioso usados
+
+1 - Pela prestação do serviço de ensaio e marcação de artigos com metal precioso usado são devidas taxas cujos montantes correspondem aos valores fixados nos artigos 6.º e 8.º, consoante se trate respetivamente de artigos com metal precioso ou de artefactos compostos, acrescidos de 1,50 (euro) por cada artigo usado.
+
+2 - Pela prestação do serviço de ensaio e marcação de artefactos mistos usados são devidas taxas cujos montantes correspondem aos valores fixadas no artigo 7.º, acrescidos de 3 (euro) por cada artefacto.
+
+###### Artigo 11.º — Serviços de ensaio e marcação de artigos com autocolante de toque e marca de contrastaria a laser
+
+1 - Pela prestação do serviço de ensaio e etiquetagem com autocolante de toque legal, a que se refere o artigo 21.º do RJOC, são devidas as taxas cujos montantes correspondem aos valores fixados nos artigos 6.º a 10.º consoante os artigos a ensaiar e a etiquetar, acrescidos de 0,50 (euro) por cada etiqueta.
+
+2 - Pela prestação do serviço de ensaio e gravação de marcas de contrastaria a laser, previstos no n.º 1 do artigo 20.º do RJOC, são devidas as taxas cujos montantes correspondem aos valores fixados nos artigos 6.º a 10.º consoante os artigos a ensaiar e a gravar, acrescidos de 0,50 (euro) por cada marca de contrastaria a laser.
+
+###### Artigo 12.º — Serviços de ensaio e marcação de artigos com a Marca Comum de Controlo
+
+Pela prestação do serviço de ensaio e marcação de artigos com metal precioso com a Marca Comum de Controlo indicada nos artigos 10.º e 19.º do RJOC são devidas as taxas fixadas nos n.os 1 e 3 do artigo 6.º, nos n.os 1 e 3 do artigo 7.º ou nos n.os 1 e 2 do artigo 8.º
+
+###### Artigo 13.º — Verificação de marcas de controlo
+
+Pela prestação do serviço de verificação de qualquer marca de controlo, designadamente da Marca Comum de Controlo, nos termos da alínea e) do n.º 1 do artigo 107.º do ROJC apostas nos artigos com metal precioso e de marcas de contrastarias, é devido o valor de 50 % das taxas indicadas no artigo 6.º, nos n.os 1, 2 e 3 do artigo 7.º ou nos n.os 1 e 2 do artigo 8.º
+
+###### Artigo 14.º — Serviços de identificação e informação de marcas
+
+1 - Pela prestação do serviço de identificação e informação de marcas de contrastaria e de marcas de responsabilidade previsto no n.º 4 do artigo 65.º do ROJC é devida uma taxa no valor de 5 (euro) por artigo.
+
+2 - Pela prestação do serviço de identificação e informação de marcas de extintos contrastes municipais previsto no n.º 4 do artigo 65.º do RJOC é devida uma taxa no valor de 10 (euro) por artigo.
+
+3 - É gratuita a identificação ou informação ao consumidor sobre marcas das Contrastarias apostas em artigo com metal precioso, quando haja legítima suspeita, por deficiência da marca, de que a mesma possa ser falsa, desde que o artigo seja acompanhado da respetiva fatura.
+
+###### Artigo 15.º — Serviço de marcação de outras marcas
+
+1 - É devida uma taxa no valor de 0,25 (euro) por marca pelo serviço de marcação das seguintes marcas:
+
+a) Palavra "Metal" ou da letra "M" indicado na subalínea ii) alínea i) do n.º 1 do artigo 56.º e na alínea f) do n.º 1 do artigo 79.º do RJOC;
+
+b) Palavra "+Metal" ou da letra "+M" indicado na alínea e) do n.º 1 do artigo 79.º do RJOC;
+
+c) Marcas especiais de contrastaria "Pomba" e "Pelicano" indicadas nas alíneas e) e f) do artigo 18.º do RJOC;
+
+d) Marca de toque prevista na Convenção sobre o Controlo e Marcação de Artigos de Metais Preciosos e indicada no artigo 19.º do RJOC.
+
+2 - Pelo serviço de eliminação de marcas indicadas nos artigos 40.º e 83.º do RJOC é devida uma taxa no valor de 0,25 (euro) por marca.
+
+###### Artigo 16.º — Serviços de ensaio e marcação de artigos importados e de artigos para exportação
+
+1 - Pela prestação dos serviços de ensaio e marcação de artigos importados e de artigos destinados a exportação, previstos nos artigos 72.º, 74.º e 75.º do RJOC, são devidas as taxas indicadas nos artigos 6.º a 10.º
+
+2 - Para os artigos destinados a exportação com toque garantido por simples certidão da contrastaria é devida uma taxa no montante de 70 % do valor das taxas fixadas nos artigos 6.º, 7.º, 8.º e 10.º
+
+###### Artigo 17.º — Taxa mínima por lote
+
+A taxa devida pela prestação de qualquer serviço pela contrastaria nos termos dos artigos 6.º a 8.º, 10.º a 13.º, 15.º e 16.º da presente portaria é sempre, no mínimo, no montante de 7,50 (euro), por cada lote de artigos entregue para ensaio e marcação.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 173/2020 - Diário da República n.º 138/2020, Série I de 2020-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/173-2020-138217580), em vigor a partir de 2020-07-18
+
+###### Artigo 18.º — Devolução de artigos intactos ou inutilizados
+
+1 - Os artigos apresentados para ensaio e marcação que sejam devolvidos ao respetivo apresentante nos casos previstos nos artigos 73.º, 74.º, 81.º, 82.º, 83.º, 84.º e 86.º do RJOC estão sujeitos ao pagamento de taxa, calculada nos termos a seguir indicados:
+
+a) Artigos devolvidos intactos - a taxa corresponde a 50 % do montante da taxa respetivamente aplicável nos termos dos artigos 6.º a 10.º da presente portaria;
+
+b) Artigos devolvidos inutilizados - a taxa corresponde a 60 % do montante da taxa respetivamente aplicável nos termos dos artigos 6.º a 10.º da presente portaria.
+
+2 - Pela devolução de artigos intactos por inobservância dos requisitos indicados no artigo 78.º do RJOC é devida uma taxa calculada nos termos da alínea a) do número anterior.
+
+3 - Em qualquer dos casos previstos no presente artigo a taxa a cobrar não pode ser inferior ao montante da taxa mínima por lote fixada no artigo 17.º
+
+###### Artigo 19.º — Prazos de entrega e taxa de urgência
+
+1 - Os prazos de entrega a que se refere o n.º 3 do artigo 90.º do RJOC são os seguintes:
+
+a) Regime normal: até 10 dias úteis;
+
+b) Regime de urgência:
+
+i) Urgente - 3 dias úteis;
+
+ii) Muito urgente - 2 dias úteis;
+
+iii) Expresso - 1 dia útil.
+
+2 - A Contrastaria pode recusar a prestação dos serviços em regime de urgência sempre que não disponha de capacidade para observar o cumprimento dos prazos correspondentes devido ao volume de trabalho existente aquando do ato de entrega e/ou, à quantidade de artigos entregues, nos termos do n.º 1 do artigo 90.º do RJOC.
+
+3 - Na contagem dos prazos indicados no n.º 1 não se incluem quaisquer outros serviços adicionais ou complementares dos de ensaio e marcação, nomeadamente o embalamento e/ou desembalamento dos artigos.
+
+4 - Os prazos indicados na alínea b) do n.º 1 podem ser redefinidos sempre que seja necessário efetuar análises complementares para concluir pela homogeneidade do lote.
+
+5 - Pela prestação, em regime de urgência, dos serviços indicados nos artigos 6.º a 8.º e 10.º a 17.º da presente portaria é também devido o pagamento de uma taxa de urgência no montante respetivamente de 90 %, 60 % ou 30 % da taxa fixada nos referidos artigos, consoante o serviço de entrega requisitado seja expresso, muito urgente ou urgente.
+
+###### Artigo 20.º — Outros serviços adicionais
+
+Pela prestação dos serviços adicionais indicados nos n.os 1 e 2 do artigo 6.º do RJOC são devidos preços, que são divulgados no site da Imprensa Nacional-Casa Moeda, S. A.
+
+###### Artigo 21.º — Regime bonificado
+
+1 - Os operadores económicos que não apresentem quaisquer dívidas ao Estado e cuja faturação anual pelos serviços prestados pelas contrastarias corresponda aos seguintes montantes mínimos podem beneficiar da aplicação de um regime de bonificação anual, nas percentagens a seguir indicadas:
+
+a) Faturação anual de 100.000 (euro) a 150.000 (euro) - redução de 3 %;
+
+b) Faturação anual de 150.001 (euro) a 200.000 (euro) - redução de 4 %;
+
+c) Faturação anual superior a 200.001 (euro) - redução de 5 %.
+
+2 - A aplicação do regime previsto no número anterior apenas produz efeitos no ano civil seguinte ao que respeitar a faturação e deve constar do Plano de Atividades e Orçamento da INCM, S. A. aprovado para o ano em causa.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 173/2020 - Diário da República n.º 138/2020, Série I de 2020-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/173-2020-138217580), em vigor a partir de 2020-07-18
+
+###### Artigo 21.º-A — Atualização das taxas
+
+1 - As taxas previstas na presente portaria constituem receita da INCM e são atualizadas anualmente, de acordo com o valor percentual correspondente à taxa de inflação, medida através da variação média do índice de preços no consumidor (IPC), sem habitação, nacional, nos últimos 12 meses, publicado pelo INE, I. P., e mediante comunicação do conselho de administração da INCM, a publicar no respetivo sítio da Internet.
+
+2 - A primeira atualização nos termos do número anterior ocorrerá em 2021 com base no índice de 2020.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 173/2020 - Diário da República n.º 138/2020, Série I de 2020-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/173-2020-138217580), em vigor a partir de 2020-07-18
+
+###### Artigo 22.º — Norma revogatória
+
+É revogada a Portaria n.º 418-A/2012, de 19 de dezembro.
+
+###### Artigo 23.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia 16 de novembro de 2015.
+
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 12 de novembro de 2015.

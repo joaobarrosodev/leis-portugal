@@ -1,0 +1,491 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32005L0001:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005L0001-20110701",
+ "dre_path": null,
+ "source_lastmod": "2011-07-01",
+ "versions": [
+  {
+   "date": "2005-03-24",
+   "future": false,
+   "celex": "32005L0001",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1d05705fe3d4f2e6",
+    "226c39ffd0a88dad",
+    "f063d5d604ac6f37",
+    "4c39e066c0e6b275",
+    "7273cf19b11e3a47",
+    "37b070c30aef534a",
+    "f0f8c960bfdbce9b",
+    "26b3515301e39e83",
+    "9b9d942f00396a1f",
+    "313e6c2a4aa1a109",
+    "3174861c4b6a5f08",
+    "d4b4b91e2d32b83b",
+    "15991576d54f2bcb",
+    "e19a7d17c283cddd",
+    "9c79522f76791b6f",
+    "a6857a456420f4fe",
+    "735c70255911c14e",
+    "1e7a0903d2eed348",
+    "f963fd545d3f9b69",
+    "77a13589143780be",
+    "cbd7517d6ba0c8a9",
+    "1ecfc79da3f1ac7f",
+    "1fc153dd1b9253d8",
+    "42cdd9941a6ca9df",
+    "40ed6b62e188ac6f",
+    "dde9cf53e9ae6c9a",
+    "e3a1527b791626ca",
+    "b06eaa66a312a7b1",
+    "5805e7f424e9e053",
+    "83097c208200ba22"
+   ]
+  },
+  {
+   "date": "2011-07-01",
+   "future": false,
+   "celex": "02005L0001-20110701",
+   "acts": [
+    {
+     "id": "eu:celex:32006L0048:por",
+     "title": "DIRECTIVA 2006/48/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 14 de Junho de 2006",
+     "published": null,
+     "celex": "32006L0048"
+    },
+    {
+     "id": "eu:celex:32009L0065:por",
+     "title": "DIRECTIVA 2009/65/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 13 de Julho de 2009",
+     "published": null,
+     "celex": "32009L0065"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Notas",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Suprime Artigo 1.º — Directiva 93/6/CEE",
+    "Suprime Artigo 2.º — Directiva 94/19/CE",
+    "Suprime Artigo 3.º — Directiva 2000/12/CE",
+    "Suprime Artigo 4.º — Directiva 73/239/CEE",
+    "Suprime «Artigo 29.º‐A",
+    "Suprime Artigo 5.º — Directiva 91/675/CEE",
+    "Suprime «Artigo 1.º",
+    "Suprime «Artigo 2.º",
+    "Suprime Artigo 6.º — Directiva 92/49/CEE",
+    "Suprime Artigo 7.º — Directiva 98/78/CE",
+    "Suprime Artigo 8.º — Directiva 2002/83/CE",
+    "Suprime Artigo 9.º — Directiva 85/611/CEE",
+    "Suprime Artigo 10.º — Directiva 2001/34/CE",
+    "Suprime Artigo 11.º — Directiva 2002/87/CE",
+    "Suprime Artigo 12.º — Medidas de execução",
+    "Suprime Artigo 13.º — Transposição",
+    "Suprime Artigo 14.º — Entrada em vigor",
+    "Suprime Artigo 15.º — Destinatários"
+   ],
+   "fragments": [
+    "126dbf6dfa433f21",
+    "226c39ffd0a88dad",
+    "f063d5d604ac6f37",
+    "b9817ca14c09811b",
+    "bfe500e08c331222",
+    "f0f8c960bfdbce9b",
+    "26b3515301e39e83",
+    "ad86f339790a1175",
+    "8a17178738b8cca4",
+    "bbf7dcfb92ea003a",
+    "bbfaef1d79a7b283",
+    "ad8a70cfc12d649e",
+    "1e7a0903d2eed348",
+    "f963fd545d3f9b69",
+    "6b57c4d9f79a67e6",
+    "1ecfc79da3f1ac7f",
+    "1fc153dd1b9253d8",
+    "325603c5291d9851",
+    "40ed6b62e188ac6f",
+    "dde9cf53e9ae6c9a",
+    "8b61ce682ab2e489",
+    "0e1500375bac1377",
+    "a4aee607fd75865b",
+    "17ffe4475a19a763",
+    "505a036715b99b79"
+   ]
+  }
+ ],
+ "fragments": {
+  "1d05705fe3d4f2e6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Março de 2005\n\nque altera as Directivas 73/239/CEE, 85/611/CEE, 91/675/CEE, 92/49/CEE e 93/6/CEE do Conselho e as Directivas 94/19/CE, 98/78/CE, 2000/12/CE, 2001/34/CE, 2002/83/CE e 2002/87/CE, com vista a estabelecer uma nova estrutura orgânica para os comités no domínio dos serviços financeiros\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 2 do artigo 47.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr1-L_2005079PT.01000901-E0001),\n\nApós consulta ao Comité das Regiões,\n\nTendo em conta o parecer do Banco Central Europeu [([^2])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr2-L_2005079PT.01000901-E0002),\n\nDeliberando nos termos do artigo 251.º do Tratado [([^3])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr3-L_2005079PT.01000901-E0003),\n\nConsiderando o seguinte:\n\n(1) A comunicação da Comissão de 11 de Maio de 1999 intitulada «Aplicação de um enquadramento para os mercados financeiros: plano de acção» identifica uma série de acções que são necessárias para a realização do mercado único dos serviços financeiros.\n\n(2) Na sua sessão de Lisboa, realizada em 23 e 24 de Março de 2000, o Conselho Europeu lançou um apelo para que este plano de acção seja executado até 2005.\n\n(3) Em 17 de Julho de 2000, o Conselho instituiu o Comité de Sábios para a regulamentação dos mercados europeus de valores mobiliários. No seu relatório final, este comité recomendou que se estabelecesse um quadro regulamentar a quatro níveis, a fim de tornar mais flexível, eficaz e transparente o processo regulamentar de aprovação da legislação comunitária no domínio dos valores mobiliários.\n\n(4) Na sua resolução sobre uma regulamentação do mercado dos valores mobiliários mais eficaz na União Europeia, o Conselho Europeu de Estocolmo de 23 e 24 de Março de 2001 acolheu favoravelmente o relatório do Comité de Sábios e apelou à implementação desta abordagem a quatro níveis.\n\n(5) Neste contexto, a Comissão aprovou em 6 de Junho de 2001 as Decisões 2001/527/CE [([^4])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr4-L_2005079PT.01000901-E0004) e 2001/528/CE [([^5])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr5-L_2005079PT.01000901-E0005), que instituem, respectivamente, o Comité das Autoridades de Regulamentação dos Mercados Europeus de Valores Mobiliários (CARMEVM) e o Comité Europeu dos Valores Mobiliários (CEVM).\n\n(6) A responsabilidade democrática e a transparência devem ser inerentes ao assim chamado processo Lamfalussy e à sua extensão, e apenas poderão ser suficientemente garantidas através do respeito do equilíbrio interinstitucional no que diz respeito às medidas de execução.\n\n(7) A presente directiva altera as Directivas do Conselho 73/239/CEE, de 24 de Julho de 1973, relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes ao acesso à actividade de seguro directo não vida e ao seu exercício [([^6])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr6-L_2005079PT.01000901-E0006), 85/611/CEE, de 20 de Dezembro de 1985, que coordena as disposições legislativas, regulamentares e administrativas respeitantes a alguns organismos de investimento colectivo em valores mobiliários (OICVM) [([^7])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr7-L_2005079PT.01000901-E0007), 91/675/CEE, de 19 de Dezembro de 1991, que cria um comité dos seguros [([^8])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr8-L_2005079PT.01000901-E0008), 92/49/CEE, de 18 de Junho de 1992, relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes ao seguro directo não vida (terceira directiva sobre o seguro não vida) [([^9])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr9-L_2005079PT.01000901-E0009), e 93/6/CEE, de 15 de Março de 1993, relativa à adequação dos fundos próprios das empresas de investimento e das instituições de crédito [([^10])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr10-L_2005079PT.01000901-E0010), e as Directivas do Parlamento Europeu e do Conselho 94/19/CE, de 30 de Maio de 1994, relativa aos sistemas de garantia de depósitos [([^11])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr11-L_2005079PT.01000901-E0011), 98/78/CE, de 27 de Outubro de 1998, relativa à fiscalização complementar das empresas de seguros que fazem parte de um grupo segurador [([^12])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr12-L_2005079PT.01000901-E0012), 2000/12/CE, de 20 de Março de 2000, relativa ao acesso à actividade das instituições de crédito e ao seu exercício [([^13])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr13-L_2005079PT.01000901-E0013), 2001/34/CE, de 28 de Maio de 2001, relativa à admissão de valores mobiliários à cotação oficial de uma bolsa de valores e à informação a publicar sobre esses valores [([^14])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr14-L_2005079PT.01000901-E0014), 2002/83/CE, de 5 de Novembro de 2002, relativa aos seguros de vida [([^15])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr15-L_2005079PT.01000901-E0015), e 2002/87/CE, de 16 de Dezembro de 2002, relativa à supervisão complementar de instituições de crédito, empresas de seguros e empresas de investimento de um conglomerado financeiro [([^16])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr16-L_2005079PT.01000901-E0016). A presente directiva visa apenas introduzir determinadas alterações na estrutura orgânica dos comités. Nenhuma dessas alterações tem por objectivo alargar os poderes de adopção de medidas de execução conferidos à Comissão pelas referidas directivas, nem os poderes conferidos ao Conselho pela Directiva 93/6/CEE.\n\n(8) Em resolução de 5 de Fevereiro de 2002, o Parlamento Europeu aprovou esta abordagem a quatro níveis para os valores mobiliários, com base na declaração solene feita perante o Parlamento, nesse mesmo dia, pela Comissão e na carta dirigida em 2 de Outubro de 2001 pelo comissário responsável pelo mercado interno ao presidente da Comissão dos Assuntos Económicos e Monetários do Parlamento sobre as garantias em relação ao papel do Parlamento Europeu neste processo. Em resolução de 21 de Novembro de 2002, o Parlamento solicitou a extensão desta abordagem, no que respeita a alguns aspectos, aos sectores bancário e dos seguros, na condição de o Conselho assumir um compromisso claro no sentido de assegurar um equilíbrio institucional adequado.\n\n(9) Os compromissos assumidos pela Comissão com respeito à legislação em matéria de valores mobiliários através da declaração de 5 de Fevereiro de 2002 e da carta de 2 de Outubro de 2001 devem ser completados através de garantias suficientes de um equilíbrio institucional adequado.\n\n(10) Em 3 de Dezembro de 2002, o Conselho convidou a Comissão a implementar medidas no que diz respeito aos restantes sectores dos serviços financeiros, com base no relatório final do Comité de Sábios.\n\n(11) São necessárias salvaguardas no que se refere à extensão da abordagem a quatro níveis, uma vez que as instituições europeias não dispõem, por ora, de uma extensa experiência prática da abordagem Lamfalussy a quatro níveis. Além disso, o primeiro e o segundo relatórios intercalares do Grupo de Controlo Interinstitucional que está a acompanhar o processo Lamfalussy contêm determinadas observações e críticas quanto ao funcionamento do processo.\n\n(12) A rapidez de adopção da legislação e a qualidade da legislação constituem objectivos fundamentais do processo Lamfalussy. O êxito do processo Lamfalussy depende mais da vontade política dos parceiros institucionais no sentido de estabelecerem um enquadramento apropriado para a adopção da legislação do que da aceleração da criação das correspondentes disposições técnicas delegadas. Além disso, uma ênfase excessiva na rapidez de criação das disposições delegadas poderá originar problemas significativos no que diz respeito à qualidade de tais disposições.\n\n(13) A extensão do processo Lamfalussy não deve prejudicar possíveis decisões sobre a organização da supervisão a nível europeu.\n\n(14) Para este efeito e no que diz respeito ao sector bancário, é necessário adaptar o papel do Comité Consultivo Bancário (CCB), instituído pela Directiva 2000/12/CE.\n\n(15) A fim de reflectir esta adaptação do seu papel, o CCB deve ser substituído pelo «Comité Bancário Europeu».\n\n(16) As medidas necessárias à execução da Directiva 2000/12/CE são medidas de âmbito geral e devem ser aprovadas nos termos do artigo 5.º da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^17])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr17-L_2005079PT.01000901-E0017).\n\n(17) As medidas de execução adoptadas não devem alterar as disposições fundamentais das directivas.\n\n(18) O Parlamento Europeu deve dispor de um prazo de três meses a contar da primeira transmissão do projecto de medidas de execução para poder apreciá‐las e emitir o seu parecer. No entanto, em casos urgentes e devidamente justificados, deveria ser possível encurtar este prazo. Se, dentro do referido prazo, o Parlamento Europeu tiver aprovado uma resolução, a Comissão procederá à revisão do projecto de medidas.\n\n(19) No exercício dos seus poderes de execução, a Comissão deve respeitar os seguintes princípios: necessidade de assegurar a confiança dos investidores nos mercados financeiros, mediante a promoção de elevados padrões de transparência em tais mercados; necessidade de pôr à disposição dos investidores uma vasta gama de investimentos concorrentes entre si e um nível de divulgação e protecção adaptado às suas necessidades; necessidade de assegurar que autoridades reguladoras independentes apliquem as normas de forma coerente, em especial no respeitante à luta contra o crime económico; necessidade de elevados níveis de transparência e de consulta com todos os participantes no mercado e com o Parlamento Europeu e o Conselho; necessidade de fomentar a inovação nos mercados financeiros, para que estes sejam dinâmicos e eficientes; necessidade de assegurar a integridade do mercado através de um controlo estrito e reactivo da inovação financeira; importância de reduzir os custos de acesso ao capital e de melhorar tal acesso; equilíbrio a longo prazo entre os custos e os benefícios para os participantes no mercado (compreendendo pequenas e médias empresas e pequenos investidores) em todas as medidas de execução; necessidade de fomentar a competitividade internacional dos mercados financeiros da UE, sem prejuízo da extensão, de que tanto se necessita, da cooperação internacional; necessidade de pôr em pé de igualdade todos os participantes no mercado mediante a criação de normas comunitárias, sempre que tal seja apropriado; necessidade de respeitar as diferenças dos mercados nacionais quando tais diferenças não violem indevidamente a coesão do mercado único; e necessidade de assegurar a coerência com a restante legislação comunitária na matéria, dado que a desigualdade em matéria de informação e a falta de transparência podem comprometer o funcionamento dos mercados e, sobretudo, prejudicar os consumidores e os pequenos investidores.\n\n(20) Determinadas disposições já existentes para introduzir alterações técnicas à Directiva 2000/12/CE deverão ser harmonizadas com a Decisão 1999/468/CE.\n\n(21) A fim de assegurar coerência institucional e jurídica com a abordagem adoptada noutros sectores comunitários, a Decisão 2004/10/CE da Comissão [([^18])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr18-L_2005079PT.01000901-E0018) criou o Comité Bancário Europeu, com funções consultivas para aconselhar a Comissão no desenvolvimento de legislação comunitária do sector bancário. Assim sendo, devem ser suprimidas na Directiva 2000/12/CE as referências às funções consultivas do CCB.\n\n(22) As competências do CCB no que diz respeito ao acompanhamento dos rácios de observação em matéria de solvência e liquidez das instituições de crédito deixaram de ser pertinentes, tendo em conta a harmonização das regras de adequação dos fundos próprios e a evolução verificada a nível das técnicas utilizadas pelas instituições de crédito para avaliar e gerir o seu risco de liquidez.\n\n(23) Além disso, os progressos substanciais realizados a nível da cooperação e do intercâmbio de informações entre autoridades de supervisão, em particular através de memorandos de entendimento, tornaram supérfluos o acompanhamento regular pela Comissão de determinadas decisões individuais de supervisão e a apresentação sistemática ao CCB de relatórios sobre as mesmas.\n\n(24) A criação do Comité Bancário Europeu não deve excluir outras formas de cooperação entre as diferentes autoridades envolvidas na regulamentação e na supervisão das instituições de crédito, nomeadamente no âmbito do Comité das Autoridades Europeias de Supervisão Bancária criado pela Decisão 2004/5/CE da Comissão [([^19])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr19-L_2005079PT.01000901-E0019).\n\n(25) O Comité dos Seguros (CS), criado pela Directiva 91/675/CEE, tem por objectivo assistir a Comissão no exercício dos poderes de execução que lhe são conferidos pelas directivas adoptadas no domínio dos seguros e, nomeadamente, para introduzir as adaptações técnicas necessárias para ter em consideração a evolução do sector segurador; essas medidas são adoptadas nos termos da Decisão 1999/468/CE.\n\n(26) A Directiva 91/675/CEE prevê igualmente que o CS examine todas as questões relativas à aplicação das disposições comunitárias respeitantes ao sector dos seguros e, nomeadamente, que aconselhe a Comissão sobre as novas propostas legislativas que esta pretenda apresentar ao Parlamento Europeu e ao Conselho.\n\n(27) A fim de criar um mercado interno que ofereça a devida protecção aos seguradores e beneficiários, as empresas do sector segurador e de prestação de planos complementares de pensões que agem no mercado interno segundo os princípios da liberdade de estabelecimento e da livre prestação de serviços estão sujeitas a legislação comunitária específica. Para assegurar o bom funcionamento do mercado interno e manter a estabilidade financeira, essa legislação deve poder ser adaptada rapidamente à evolução dos mercados que afecta aqueles sectores, nomeadamente nas suas vertentes financeira e técnica.\n\n(28) Assim sendo, o papel do CS deve ser adaptado e a sua denominação alterada para «Comité Europeu dos Seguros e Pensões Complementares de Reforma». No entanto, no domínio das pensões complementares de reforma, o Comité Europeu dos Seguros e Pensões Complementares de Reforma não deve tratar de questões de direito social e do trabalho como, por exemplo, a organização dos regimes complementares de reforma, em particular a participação obrigatória e os resultados de acordos colectivos de trabalho.\n\n(29) As medidas necessárias à execução dos actos abrangidos pela Directiva 91/675/CEE são medidas de âmbito geral e devem ser aprovadas nos termos do artigo 5.º da Decisão 1999/468/CE.\n\n(30) A fim de assegurar coerência institucional e jurídica com a abordagem adoptada noutros sectores comunitários, a Decisão 2004/9/CE da Comissão [([^20])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr20-L_2005079PT.01000901-E0020) criou o Comité Europeu dos Seguros e Pensões Complementares de Reforma, com funções consultivas, para assistir a Comissão nos sectores dos seguros e das pensões complementares de reforma. Assim, devem ser suprimidas na Directiva 91/675/CEE as referências às funções consultivas do CS.\n\n(31) A Directiva 85/611/CEE criou um comité de contacto OICVM com o objectivo de assistir a Comissão, facilitando a aplicação harmonizada da directiva através de consultas regulares, promovendo os contactos entre Estados‐Membros e, se necessário, aconselhando a Comissão sobre alterações a introduzir nessa directiva.\n\n(32) O Comité de Contacto OICVM age igualmente como comité no âmbito do procedimento de «comitologia», na acepção da Decisão 1999/468/CE, para assistir a Comissão nas alterações de natureza técnica a introduzir na Directiva 85/611/CEE.\n\n(33) Em 3 de Dezembro de 2002, o Conselho convidou a Comissão a tomar medidas para transferir nomeadamente para o CEVM a função consultiva relativamente à Comissão no exercício dos seus poderes de execução, que compete ao Comité de Contacto OICVM.\n\n(34) Com o objectivo de implementar plenamente o modelo estabelecido pelas directivas recentes no domínio dos valores mobiliários, nomeadamente a Directiva 2003/6/CE do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2003, relativa ao abuso de informação privilegiada e à manipulação de mercado (abuso de mercado) [([^21])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr21-L_2005079PT.01000901-E0021) — que atribui ao CEVM a função de aconselhar a Comissão no exercício dos seus poderes de regulamentação, remetendo no entanto para a Decisão 2001/528/CE a organização de outros aspectos do CEVM — devem ser suprimidas as disposições que prevêem, em conformidade com o artigo 53.º da Directiva 85/611/CEE, a organização e as funções do actual Comité de Contacto OICVM quando não age na qualidade de comité no âmbito do procedimento de «comitologia».\n\n(35) Assim sendo, as competências do CEVM devem ser expressamente alargadas para além das que lhe são conferidas pela Directiva 2003/6/CE, a fim de abranger as funções actualmente estabelecidas na Directiva 85/611/CEE. As medidas necessárias à execução desta última Directiva são medidas de âmbito geral e devem ser aprovadas nos termos do artigo 5.º da Decisão 1999/468/CE.\n\n(36) Por conseguinte, é igualmente necessário alterar as Directivas 73/239/CEE, 85/611/CEE, 91/675/CEE, 92/49/CEE, 93/6/CEE, 94/19/CE, 98/78/CE, 2000/12/CE, 2001/34/CE, 2002/83/CE e 2002/87/CE,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "f063d5d604ac6f37": {
+   "fragment_id": "ALTERAÇÃO DAS DIRECTIVAS 93/6/CEE, 94/19/CE E 2000/12/CE, RELATIVAS AO SECTOR BANCÁRIO",
+   "type": "divisao",
+   "heading": "ALTERAÇÃO DAS DIRECTIVAS 93/6/CEE, 94/19/CE E 2000/12/CE, RELATIVAS AO SECTOR BANCÁRIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ALTERAÇÃO DAS DIRECTIVAS 93/6/CEE, 94/19/CE E 2000/12/CE, RELATIVAS AO SECTOR BANCÁRIO"
+  },
+  "4c39e066c0e6b275": {
+   "fragment_id": "Artigo 1.º — Directiva 93/6/CEE",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Directiva 93/6/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Directiva 93/6/CEE\n\nNa terceira frase do n.º 9 do artigo 7.º da Directiva 93/6/CEE, são suprimidas as palavras «bem como ao Comité Consultivo Bancário»."
+  },
+  "7273cf19b11e3a47": {
+   "fragment_id": "Artigo 2.º — Directiva 94/19/CE",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Directiva 94/19/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Directiva 94/19/CE\n\nNo terceiro parágrafo do n.º 1 do artigo 3.º da Directiva 94/19/CE, a expressão «Comité consultivo bancário» é substituída pela expressão «Comité Bancário Europeu»."
+  },
+  "37b070c30aef534a": {
+   "fragment_id": "Artigo 3.º — Directiva 2000/12/CE",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Directiva 2000/12/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Directiva 2000/12/CE\n\nA Directiva 2000/12/CE é alterada do seguinte modo:\n\n1. O n.º 4 do artigo 2.º passa a ter a seguinte redacção: «4. A Comissão, de acordo com o procedimento a que se refere o n.º 2 do artigo 60.º, decidirá as eventuais alterações à lista constante do n.º 3.».\n\n«4. A Comissão, de acordo com o procedimento a que se refere o n.º 2 do artigo 60.º, decidirá as eventuais alterações à lista constante do n.º 3.».\n\n2. No n.º 5 do artigo 2.º, o terceiro parágrafo é substituído pelo seguinte texto: «Desde que se trate de instituições de crédito que não sejam as que forem criadas em regiões recentemente subtraídas do mar ou que tenham resultado da fusão ou da cisão de instituições existentes integradas no organismo central, a Comissão, em conformidade com o procedimento a que se refere o n.º 2 do artigo 60.º, pode fixar regras suplementares para a aplicação do segundo parágrafo, incluindo a revogação das isenções previstas no primeiro parágrafo, sempre que considerar que a filiação de novas instituições que beneficiam do regime previsto no segundo parágrafo seria susceptível de afectar de forma negativa a concorrência.».\n\n3. O artigo 4.º passa a ter a seguinte redacção: «*Artigo 4.º* **Autorização** Os Estados‐Membros estabelecerão que as instituições de crédito devem obter uma autorização antes de iniciarem as suas actividades. Os Estados‐Membros fixarão as condições de obtenção da referida autorização, sem prejuízo do disposto nos artigos 5.º a 9.º, e notificá‐las‐ão à Comissão.».\n\n4. No n.º 9 do artigo 22.º, é suprimido o segundo período.\n\n5. No n.º 10 do artigo 22.º, é suprimido o segundo período.\n\n6. O n.º 1 do artigo 23.º passa a ter a seguinte redacção: «1. As autoridades competentes dos Estados-Membros informarão a Comissão e as autoridades competentes dos outros Estados-Membros: a) De qualquer autorização de filial directa ou indirecta, cuja ou cujas empresas‐mãe estejam sujeitas à ordem jurídica de um país terceiro; b) De qualquer tomada de participação de uma empresa‐mãe numa instituição de crédito da Comunidade que tenha por efeito tornar esta última numa sua filial. Sempre que for concedida uma autorização a uma filial directa ou indirecta de uma ou mais empresas‐mãe sujeitas à ordem jurídica de um país terceiro, a estrutura do grupo deve ser especificada na notificação que as autoridades competentes enviarão à Comissão nos termos do artigo 11.º ».\n\n«1. As autoridades competentes dos Estados-Membros informarão a Comissão e as autoridades competentes dos outros Estados-Membros: a) De qualquer autorização de filial directa ou indirecta, cuja ou cujas empresas‐mãe estejam sujeitas à ordem jurídica de um país terceiro; b) De qualquer tomada de participação de uma empresa‐mãe numa instituição de crédito da Comunidade que tenha por efeito tornar esta última numa sua filial. Sempre que for concedida uma autorização a uma filial directa ou indirecta de uma ou mais empresas‐mãe sujeitas à ordem jurídica de um país terceiro, a estrutura do grupo deve ser especificada na notificação que as autoridades competentes enviarão à Comissão nos termos do artigo 11.º ».\n\na) De qualquer autorização de filial directa ou indirecta, cuja ou cujas empresas‐mãe estejam sujeitas à ordem jurídica de um país terceiro;\n\nb) De qualquer tomada de participação de uma empresa‐mãe numa instituição de crédito da Comunidade que tenha por efeito tornar esta última numa sua filial. Sempre que for concedida uma autorização a uma filial directa ou indirecta de uma ou mais empresas‐mãe sujeitas à ordem jurídica de um país terceiro, a estrutura do grupo deve ser especificada na notificação que as autoridades competentes enviarão à Comissão nos termos do artigo 11.º ».\n\n7. No n.º 2 do artigo 24.º, a expressão «Comité Consultivo Bancário» é substituída pela expressão «Comité Bancário Europeu».\n\n8. O n.º 3 do artigo 25.º passa a ter a seguinte redacção: «3. Sem prejuízo dos n.^os^ 1 e 2 do artigo 300.º do Tratado, a Comissão, com a assistência do Comité Bancário Europeu, analisará os resultados das negociações referidas no n.º 1 e a situação daí resultante.».\n\n«3. Sem prejuízo dos n.^os^ 1 e 2 do artigo 300.º do Tratado, a Comissão, com a assistência do Comité Bancário Europeu, analisará os resultados das negociações referidas no n.º 1 e a situação daí resultante.».\n\n9. No terceiro período do n.º 2 do artigo 49.º, a expressão «Comité Consultivo Bancário» é substituída por «Comité Bancário Europeu».\n\n10. O terceiro período do n.º 9 do artigo 52.º é substituído pelo seguinte: «A autoridade competente em causa transmitirá a informação às autoridades competentes dos outros Estados‐Membros.».\n\n11. No primeiro período do segundo parágrafo do artigo 56.º‐A a expressão «Comité Consultivo Bancário pode» é substituída por «A Comissão pode solicitar ao Comité Bancário Europeu que».\n\n12. É suprimido o título VI.\n\n13. O n.º 2 do artigo 60.º passa a ter a seguinte redacção: «2. A Comissão é assistida pelo Comité Bancário Europeu criado pela Decisão 2004/10/CE da Comissão[([^*1])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr*1-L_2005079PT.01000901-E0022) (a seguir denominado “comité”). [(^*1^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc*1-L_2005079PT.01000901-E0022) [JO L 3 de 7.1.2004, p. 36](http://publications.europa.eu/resource/oj/JOL_2004_003_R_TOC).\" Sempre que seja feita referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo‐se em conta o disposto no seu artigo 8.º O prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses. O comité aprova o seu regulamento interno.».\n\n«2. A Comissão é assistida pelo Comité Bancário Europeu criado pela Decisão 2004/10/CE da Comissão[([^*1])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr*1-L_2005079PT.01000901-E0022) (a seguir denominado “comité”).\n\n14. Nos n.^os^ 2 e 6 do artigo 64.º é suprimida a expressão «Comité Consultivo Bancário»."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "26b3515301e39e83": {
+   "fragment_id": "ALTERAÇÃO DAS DIRECTIVAS 73/239/CEE, 91/675/CEE, 92/49/CEE, 98/78/CE E 2002/83/CE RELATIVAS AOS SECTORES DOS SEGUROS E DAS PENSÕES COMPLEMENTARES DE REFORMA",
+   "type": "divisao",
+   "heading": "ALTERAÇÃO DAS DIRECTIVAS 73/239/CEE, 91/675/CEE, 92/49/CEE, 98/78/CE E 2002/83/CE RELATIVAS AOS SECTORES DOS SEGUROS E DAS PENSÕES COMPLEMENTARES DE REFORMA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ALTERAÇÃO DAS DIRECTIVAS 73/239/CEE, 91/675/CEE, 92/49/CEE, 98/78/CE E 2002/83/CE RELATIVAS AOS SECTORES DOS SEGUROS E DAS PENSÕES COMPLEMENTARES DE REFORMA"
+  },
+  "9b9d942f00396a1f": {
+   "fragment_id": "Artigo 4.º — Directiva 73/239/CEE",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Directiva 73/239/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Directiva 73/239/CEE\n\nA Directiva 73/239/CEE é alterada do seguinte modo:"
+  },
+  "313e6c2a4aa1a109": {
+   "fragment_id": "«Artigo 29.º‐A",
+   "type": "divisao",
+   "heading": "«Artigo 29.º‐A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### «Artigo 29.º‐A\n\n1. As autoridades competentes dos Estados‐Membros informarão a Comissão e as autoridades competentes dos outros Estados‐Membros:\n\na) De qualquer autorização de filial directa ou indirecta, cuja ou cujas empresas‐mãe estejam sujeitas à legislação de um país terceiro;\n\nb) De qualquer tomada de participação de uma tal empresa‐mãe numa empresa de seguros da Comunidade que tenha por efeito tornar esta última numa sua filial.\n\n2. Sempre que seja concedida uma autorização do tipo referido na alínea a) do n.º 1 a uma filial directa ou indirecta de uma ou mais empresas‐mãe sujeitas à legislação de um país terceiro, a estrutura do grupo será especificada na notificação que as autoridades competentes enviarão à Comissão.».\n\n2. O segundo parágrafo do n. 4 do artigo 29.‐B passa a ter a seguinte redacção:\n\na) Pedidos de autorização pendentes no momento da decisão ou apresentados posteriormente;\n\nb) As tomadas de participação por parte de empresas‐mãe, directas ou indirectas, sujeitas à legislação do país terceiro em causa.».\n\n---"
+  },
+  "3174861c4b6a5f08": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^*2^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc*2-L_2005079PT.01000901-E0023) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC) (Rectificação: [JO L 269 de 19.10.1999, p. 45](http://publications.europa.eu/resource/oj/JOL_1999_269_R_TOC)).\""
+  },
+  "d4b4b91e2d32b83b": {
+   "fragment_id": "Artigo 5.º — Directiva 91/675/CEE",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Directiva 91/675/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Directiva 91/675/CEE\n\nA Directiva 91/675/CEE é alterada do seguinte modo:\n\n1. No título, a expressão «Comité dos Seguros» é substituída pela expressão «Comité Europeu dos Seguros e Pensões Complementares de Reforma».\n\n2. O artigo 1. passa a ter a seguinte redacção:"
+  },
+  "15991576d54f2bcb": {
+   "fragment_id": "«Artigo 1.º",
+   "type": "divisao",
+   "heading": "«Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### «Artigo 1.º\n\n1. A Comissão é assistida pelo Comité Europeu dos Seguros e Pensões Complementares de Reforma criado pela Decisão 2004/9/CE da Comissão[([^*3])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr*3-L_2005079PT.01000901-E0024) (a seguir denominado “comité”).\n\n2. O presidente do Comité das Autoridades Europeias de Supervisão dos Seguros e Pensões Complementares de Reforma, criado pela Decisão 2004/6/CE da Comissão[([^*4])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr*4-L_2005079PT.01000901-E0025), participará nas reuniões do comité na qualidade de observador.\n\n3. O comité pode convidar peritos e observadores para participarem nas suas reuniões.\n\n4. O secretariado do comité será assegurado pela Comissão.».\n\n> [(^*3^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc*3-L_2005079PT.01000901-E0024) [JO L 3 de 7.1.2004, p. 34](http://publications.europa.eu/resource/oj/JOL_2004_003_R_TOC).\"\n\n> [(^*4^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc*4-L_2005079PT.01000901-E0025) [JO L 3 de 7.1.2004, p. 30](http://publications.europa.eu/resource/oj/JOL_2004_003_R_TOC).\"\n\n3. O artigo 2. passa a ter a seguinte redacção:"
+  },
+  "e19a7d17c283cddd": {
+   "fragment_id": "«Artigo 2.º",
+   "type": "divisao",
+   "heading": "«Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### «Artigo 2.º\n\nQuando os actos aprovados no domínio do seguro directo não‐vida e do seguro directo de vida, do resseguro e das pensões complementares de reforma conferirem à Comissão poderes de execução das regras que estabelecem, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências atribuídas à Comissão[([^*5])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr*5-L_2005079PT.01000901-E0026), tendo‐se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n2. O comité aprova o seu regulamento interno.».\n\n> [(^*5^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc*5-L_2005079PT.01000901-E0026) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC) (Rectificação: [JO L 269 de 19.10.1999, p. 45](http://publications.europa.eu/resource/oj/JOL_1999_269_R_TOC)).\"\n\n4. São suprimidos os artigos 3.º e 4.º"
+  },
+  "9c79522f76791b6f": {
+   "fragment_id": "Artigo 6.º — Directiva 92/49/CEE",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Directiva 92/49/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Directiva 92/49/CEE\n\nNo primeiro período do n.º 10 do artigo 40.º da Directiva 92/49/CEE, a expressão «apresentará de dois em dois anos ao Comité de Seguros instituído pela Directiva 91/675/CEE um relatório indicando resumidamente» é substituída por «informará o Comité Europeu dos Seguros e Pensões Complementares de Reforma sobre»."
+  },
+  "a6857a456420f4fe": {
+   "fragment_id": "Artigo 7.º — Directiva 98/78/CE",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Directiva 98/78/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Directiva 98/78/CE\n\nA Directiva 98/78/CE é alterada do seguinte modo\n\n1. O n.º 3 do artigo 10.º‐A passa a ter a seguinte redacção:\n\n«3. Sem prejuízo dos n.^os^ 1 e 2 do artigo 300.º do Tratado, a Comissão, assistida pelo Comité Europeu dos Seguros e Pensões Complementares de Reforma, avaliará o resultado das negociações a que se refere o n.º 1 e a situação daí resultante.».\n\n2. O n.º 5 do artigo 11.º passa a ter a seguinte redacção:\n\n«5. O mais tardar até 1 de Janeiro de 2006, a Comissão publicará um relatório sobre a aplicação da presente directiva, e, se for caso disso, sobre a necessidade de posterior harmonização.»."
+  },
+  "735c70255911c14e": {
+   "fragment_id": "Artigo 8.º — Directiva 2002/83/CE",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Directiva 2002/83/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Directiva 2002/83/CE\n\nA Directiva 2002/83/CE é alterada do seguinte modo:\n\n1. No primeiro período do n.º 9 do artigo 46.º, a expressão «A Comissão apresenta de dois em dois anos ao Comité de Seguros um relatório recapitulando» é substituída por «A Comissão informa o Comité Europeu dos Seguros e Pensões Complementares de Reforma sobre».\n\n2. O artigo 58.º passa a ter a seguinte redacção: «*Artigo 58.º* **Informação dos Estados‐Membros à Comissão** As autoridades competentes dos Estados‐Membros informarão a Comissão e as autoridades competentes dos outros Estados‐Membros: a) De qualquer autorização de uma filial directa ou indirecta cuja ou cujas empresas‐mãe estejam sujeitas à legislação de um país terceiro; b) De qualquer tomada de participação de uma tal empresa‐mãe numa empresa de seguros comunitária, que tenha por efeito tomar esta última numa sua filial. Caso seja concedida uma autorização do tipo referido na alínea a) do primeiro parágrafo a uma filial directa ou indirecta de uma ou mais empresas‐mãe sujeitas à legislação de países terceiros, a estrutura do grupo será especificada na notificação que as autoridades competentes enviarão à Comissão e às restantes autoridades competentes.».\n\na) De qualquer autorização de uma filial directa ou indirecta cuja ou cujas empresas‐mãe estejam sujeitas à legislação de um país terceiro;\n\nb) De qualquer tomada de participação de uma tal empresa‐mãe numa empresa de seguros comunitária, que tenha por efeito tomar esta última numa sua filial.\n\n3. No artigo 65.º, o n.º 1 passa a ter a seguinte redacção: «1. A Comissão é assistida pelo Comité Europeu dos Seguros e Pensões Complementares de Reforma criado pela Decisão 2004/9/CE da Comissão[([^*6])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr*6-L_2005079PT.01000901-E0027).». [(^*6^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc*6-L_2005079PT.01000901-E0027) [JO L 3 de 7.1.2004, p. 34](http://publications.europa.eu/resource/oj/JOL_2004_003_R_TOC).\"\n\n«1. A Comissão é assistida pelo Comité Europeu dos Seguros e Pensões Complementares de Reforma criado pela Decisão 2004/9/CE da Comissão[([^*6])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr*6-L_2005079PT.01000901-E0027).»."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "f963fd545d3f9b69": {
+   "fragment_id": "ALTERAÇÃO DAS DIRECTIVAS 85/611/CEE E 2001/34/CE RELATIVAS AO SECTOR DOS VALORES MOBILIÁRIOS",
+   "type": "divisao",
+   "heading": "ALTERAÇÃO DAS DIRECTIVAS 85/611/CEE E 2001/34/CE RELATIVAS AO SECTOR DOS VALORES MOBILIÁRIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ALTERAÇÃO DAS DIRECTIVAS 85/611/CEE E 2001/34/CE RELATIVAS AO SECTOR DOS VALORES MOBILIÁRIOS"
+  },
+  "77a13589143780be": {
+   "fragment_id": "Artigo 9.º — Directiva 85/611/CEE",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Directiva 85/611/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Directiva 85/611/CEE\n\nA Directiva 85/611/CEE é alterada do seguinte modo:\n\n1. O artigo 6.º‐C passa a ter a seguinte redacção: a) O segundo período do n.º 9 passa a ter a seguinte redacção: «A Comissão elaborará de dois em dois anos um relatório sobre estes casos.»; b) O segundo período do n.º 10 passa a ter a seguinte redacção: «A Comissão elaborará de dois em dois anos um relatório sobre estes casos.».\n\na) O segundo período do n.º 9 passa a ter a seguinte redacção: «A Comissão elaborará de dois em dois anos um relatório sobre estes casos.»;\n\nb) O segundo período do n.º 10 passa a ter a seguinte redacção: «A Comissão elaborará de dois em dois anos um relatório sobre estes casos.».\n\n2. É suprimido o segundo parágrafo do n.º 6 do artigo 14.º\n\n3. No n.º 4 do artigo 21.º, o terceiro período passa a ter a seguinte redacção: «Essas informações serão objecto de uma troca de pontos vista no Comité Europeu dos Valores Mobiliários.».\n\n4. No n.º 4 do artigo 22.º, o quarto período do terceiro parágrafo passa a ter a seguinte redacção: «Essas informações poderão ser objecto de uma troca de pontos vista no Comité Europeu dos Valores Mobiliários.».\n\n5. O título da secção X passa a ser o seguinte: «Comité Europeu dos Valores Mobiliários».\n\n6. É suprimido o artigo 53.º\n\n7. O artigo 53.º‐A passa a ter a seguinte redacção: «*Artigo 53*.º‐A As alterações técnicas a introduzir na presente directiva, nas áreas seguintes, devem ser adoptadas nos termos do no n. 2 do artigo 53.‐B: º º a) Clarificação das definições, tendo em vista assegurar a aplicação uniforme da directiva em toda a Comunidade; b) Harmonização da terminologia e reformulação das definições de acordo com os actos subsequentes relativos aos OICVM e a questões conexas.».\n\na) Clarificação das definições, tendo em vista assegurar a aplicação uniforme da directiva em toda a Comunidade;\n\nb) Harmonização da terminologia e reformulação das definições de acordo com os actos subsequentes relativos aos OICVM e a questões conexas.».\n\n8. É inserido o seguinte artigo 53.º‐B: «*Artigo 53.º‐B* 1. A Comissão é assistida pelo Comité Europeu dos Valores Mobiliários criado pela Decisão 2001/528/CE da Comissão[([^*7])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr*7-L_2005079PT.01000901-E0028), a seguir denominado “comité”. Sempre que seja feita referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE[([^*8])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr*8-L_2005079PT.01000901-E0029), tendo‐se em conta o disposto no seu artigo 8.º O prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses. 3. O comité aprova o seu regulamento interno.». [(^*7^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc*7-L_2005079PT.01000901-E0028) [JO L 191 de 13.7.2001, p. 45](http://publications.europa.eu/resource/oj/JOL_2001_191_R_TOC). Decisão alterada pela Decisão 2004/8/CE ([JO L 3 de 7.1.2004, p. 33](http://publications.europa.eu/resource/oj/JOL_2004_003_R_TOC)).\" [(^*8^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc*8-L_2005079PT.01000901-E0029) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC) (Rectificação: [JO L 269 de 19.10.1999, p. 45](http://publications.europa.eu/resource/oj/JOL_1999_269_R_TOC)).\""
+  },
+  "cbd7517d6ba0c8a9": {
+   "fragment_id": "Artigo 10.º — Directiva 2001/34/CE",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Directiva 2001/34/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Directiva 2001/34/CE\n\nA Directiva 2001/34/CE é alterada da seguinte forma:\n\n1. O artigo 108.º é suprimido.\n\n2. O artigo 109.º passa a ter a seguinte redacção: «Artigo 109.º 1. Tendo em vista a adaptação, em função das exigências da situação económica, do montante mínimo de capitalização em bolsa previsto e fixado no n.º 1 do artigo 43.º, a Comissão submeterá à apreciação do Comité Europeu dos Valores Mobiliários, criado pela Decisão 2001/528/CE da Comissão[([^*9])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr*9-L_2005079PT.01000901-E0030), um projecto das medidas a tomar. Quando seja feita referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão[([^*10])](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntr*10-L_2005079PT.01000901-E0031), tendo‐se em conta o disposto no seu artigo 8.º O prazo previsto no n.º 6.º do artigo 5.º da Decisão 1999/468/CE é de três meses. 3. O comité aprova o seu regulamento interno.». [(^*9^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc*9-L_2005079PT.01000901-E0030) [JO L 191 de 13.7.2001, p. 45](http://publications.europa.eu/resource/oj/JOL_2001_191_R_TOC). Decisão alterada pela Decisão 2004/8/CE ([JO L 3 de 7.1.2004, p. 33](http://publications.europa.eu/resource/oj/JOL_2004_003_R_TOC)).\" [(^*10^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc*10-L_2005079PT.01000901-E0031) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC) (Rectificação: [JO L 269 de 19.10.1999, p. 45](http://publications.europa.eu/resource/oj/JOL_1999_269_R_TOC)).\""
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "1fc153dd1b9253d8": {
+   "fragment_id": "ALTERAÇÃO DA DIRECTIVA 2002/87/CE RELATIVA AOS CONGLOMERADOS FINANCEIROS",
+   "type": "divisao",
+   "heading": "ALTERAÇÃO DA DIRECTIVA 2002/87/CE RELATIVA AOS CONGLOMERADOS FINANCEIROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ALTERAÇÃO DA DIRECTIVA 2002/87/CE RELATIVA AOS CONGLOMERADOS FINANCEIROS"
+  },
+  "42cdd9941a6ca9df": {
+   "fragment_id": "Artigo 11.º — Directiva 2002/87/CE",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Directiva 2002/87/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Directiva 2002/87/CE\n\nO n.º 2 do artigo 19.º da Directiva 2002/87/CE passa a ter a seguinte redacção:\n\n«2. Sem prejuízo dos n.^os^ 1 e 2 do artigo 300.º do Tratado, a Comissão, assistida pelo Comité Bancário Europeu, pelo Comité Europeu dos Seguros e Pensões Complementares de Reforma e pelo Comité dos Conglomerados Financeiros, avaliará os resultados das negociações referidas no n.º 1 e a situação daí resultante.»."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "e3a1527b791626ca": {
+   "fragment_id": "Artigo 12.º — Medidas de execução",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Medidas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Medidas de execução\n\n1. As medidas de execução da presente directiva adoptadas nos termos dos artigos 5.º e 7.º da Decisão 1999/468/CE tendo em conta o disposto no seu artigo 8.º não podem alterar as disposições fundamentais das directivas.\n\n2. O prazo estabelecido no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Se as condições estabelecidas no Tratado e que regem o exercício dos poderes de execução conferidos à Comissão forem alteradas, a Comissão procederá à revisão da presente directiva e, se necessário, proporá alterações. Esta revisão será, em todo o caso, feita até 31 de Dezembro de 2007."
+  },
+  "b06eaa66a312a7b1": {
+   "fragment_id": "Artigo 13.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Transposição\n\nOs Estados‐Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 13 de Maio de 2005.\n\nQuando os Estados‐Membros adoptarem tais disposições, estas deverão incluir uma referência à presente directiva ou serem acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados‐Membros."
+  },
+  "5805e7f424e9e053": {
+   "fragment_id": "Artigo 14.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "83097c208200ba22": {
+   "fragment_id": "Artigo 15.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Destinatários\n\nOs Estados‐Membros são os destinatários da presente directiva.\n\nFeito em Estrasburgo, em 9 de Março de 2005.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**J. P. BORRELL FONTELLES**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**N. SCHMIT**\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc1-L_2005079PT.01000901-E0001) [JO C 112 de 30.4.2004, p. 21](http://publications.europa.eu/resource/oj/JOC_2004_112_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc2-L_2005079PT.01000901-E0002) [JO C 58 de 6.3.2004, p. 23](http://publications.europa.eu/resource/oj/JOC_2004_058_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc3-L_2005079PT.01000901-E0003) Parecer do Parlamento Europeu de 31 de Março de 2004 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 11 de Maio de 2004.\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc4-L_2005079PT.01000901-E0004) [JO L 191 de 13.7.2001, p. 43](http://publications.europa.eu/resource/oj/JOL_2001_191_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc5-L_2005079PT.01000901-E0005) [JO L 191 de 13.7.2001, p. 45](http://publications.europa.eu/resource/oj/JOL_2001_191_R_TOC). Decisão alterada pela Decisão 2004/8/CE ([JO L 3 de 7.1.2004, p. 33](http://publications.europa.eu/resource/oj/JOL_2004_003_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc6-L_2005079PT.01000901-E0006) [JO L 228 de 16.8.1973, p. 3](http://publications.europa.eu/resource/oj/JOL_1973_228_R_TOC). Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 2003.\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc7-L_2005079PT.01000901-E0007) [JO L 375 de 31.12.1985, p. 3](http://publications.europa.eu/resource/oj/JOL_1985_375_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2004/39/CE do Parlamento Europeu e do Conselho ([JO L 145 de 30.4.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_145_R_TOC)).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc8-L_2005079PT.01000901-E0008) [JO L 374 de 31.12.1991, p. 32](http://publications.europa.eu/resource/oj/JOL_1991_374_R_TOC). Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho ([JO L 284 de 31.10.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_284_R_TOC)).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc9-L_2005079PT.01000901-E0009) [JO L 228 de 11.8.1992, p. 1](http://publications.europa.eu/resource/oj/JOL_1992_228_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2002/87/CE do Parlamento Europeu e do Conselho ([JO L 35 de 11.2.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_035_R_TOC)).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc10-L_2005079PT.01000901-E0010) [JO L 141 de 11.6.1993, p. 1](http://publications.europa.eu/resource/oj/JOL_1993_141_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2004/39/CE.\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc11-L_2005079PT.01000901-E0011) [JO L 135 de 31.5.1994, p. 5](http://publications.europa.eu/resource/oj/JOL_1994_135_R_TOC). Directiva com a redacção que lhe foi dada pelo Acto de Adesão de 2003.\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc12-L_2005079PT.01000901-E0012) [JO L 330 de 5.12.1998, p. 1](http://publications.europa.eu/resource/oj/JOL_1998_330_R_TOC). Directiva com a redacção que lhe foi dada pela Directiva 2002/87/CE.\n\n> [(^13^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc13-L_2005079PT.01000901-E0013) [JO L 126 de 26.5.2000, p. 1](http://publications.europa.eu/resource/oj/JOL_2000_126_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2004/69/CE da Comissão ([JO L 125 de 28.4.2004, p. 44](http://publications.europa.eu/resource/oj/JOL_2004_125_R_TOC)).\n\n> [(^14^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc14-L_2005079PT.01000901-E0014) [JO L 184 de 6.7.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_184_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2004/109/CE ([JO L 390 de 31.12.2004, p. 38](http://publications.europa.eu/resource/oj/JOL_2004_390_R_TOC)).\n\n> [(^15^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc15-L_2005079PT.01000901-E0015) [JO L 345 de 19.12.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_345_R_TOC). Directiva com a redacção que lhe foi dada pela Directiva 2004/66/CE do Conselho ([JO L 168 de 1.5.2004, p. 35](http://publications.europa.eu/resource/oj/JOL_2004_168_R_TOC)).\n\n> [(^16^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc16-L_2005079PT.01000901-E0016) [JO L 35 de 11.2.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_035_R_TOC).\n\n> [(^17^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc17-L_2005079PT.01000901-E0017) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC) (Rectificação: [JO L 269 de 19.10.1999, p. 45](http://publications.europa.eu/resource/oj/JOL_1999_269_R_TOC)).\n\n> [(^18^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc18-L_2005079PT.01000901-E0018) [JO L 3 de 7.1.2004, p. 36](http://publications.europa.eu/resource/oj/JOL_2004_003_R_TOC).\n\n> [(^19^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc19-L_2005079PT.01000901-E0019) [JO L 3 de 7.1.2004, p. 28](http://publications.europa.eu/resource/oj/JOL_2004_003_R_TOC).\n\n> [(^20^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc20-L_2005079PT.01000901-E0020) [JO L 3 de 7.1.2004, p. 34](http://publications.europa.eu/resource/oj/JOL_2004_003_R_TOC).\n\n> [(^21^)](http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0017.03/DOC_1#ntc21-L_2005079PT.01000901-E0021) [JO L 96 de 12.4.2003, p. 16](http://publications.europa.eu/resource/oj/JOL_2003_096_R_TOC)."
+  },
+  "126dbf6dfa433f21": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Março de 2005\n\nque altera as Directivas 73/239/CEE, 85/611/CEE, 91/675/CEE, 92/49/CEE e 93/6/CEE do Conselho e as Directivas 94/19/CE, 98/78/CE, 2000/12/CE, 2001/34/CE, 2002/83/CE e 2002/87/CE, com vista a estabelecer uma nova estrutura orgânica para os comités no domínio dos serviços financeiros\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "b9817ca14c09811b": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n**Directiva 93/6/CEE**\n\nNa terceira frase do n.º 9 do artigo 7.º da Directiva 93/6/CEE, são suprimidas as palavras «bem como ao Comité Consultivo Bancário»."
+  },
+  "bfe500e08c331222": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n**Directiva 94/19/CE**\n\nNo terceiro parágrafo do n.º 1 do artigo 3.º da Directiva 94/19/CE, a expressão «Comité consultivo bancário» é substituída pela expressão «Comité Bancário Europeu»."
+  },
+  "ad86f339790a1175": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n**Directiva 73/239/CEE**\n\nA Directiva 73/239/CEE é alterada do seguinte modo:\n\na) De qualquer autorização de filial directa ou indirecta, cuja ou cujas empresas‐mãe estejam sujeitas à legislação de um país terceiro;\n\nb) De qualquer tomada de participação de uma tal empresa‐mãe numa empresa de seguros da Comunidade que tenha por efeito tornar esta última numa sua filial.\n\n2. Sempre que seja concedida uma autorização do tipo referido na alínea a) do n.º 1 a uma filial directa ou indirecta de uma ou mais empresas‐mãe sujeitas à legislação de um país terceiro, a estrutura do grupo será especificada na notificação que as autoridades competentes enviarão à Comissão.».\n\n2. O segundo parágrafo do n.º 4 do artigo 29.º‐B passa a ter a seguinte redacção: «No caso descrito no primeiro parágrafo, pode igualmente ser decidido, em qualquer altura e em paralelo com a realização de negociações, nos termos do artigo 5.º da Decisão 1999/468/CE ( [^*1^](http://publications.europa.eu/resource/cellar/f2dd8a39-ad4e-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#E0002) ), tendo em conta o n.º 3 do artigo 7.º e o artigo 8.º, que as autoridades competentes dos Estados‐Membros devam limitar ou suspender as suas decisões sobre: a) Pedidos de autorização pendentes no momento da decisão ou apresentados posteriormente; b) As tomadas de participação por parte de empresas‐mãe, directas ou indirectas, sujeitas à legislação do país terceiro em causa.»."
+  },
+  "8a17178738b8cca4": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n**Directiva 91/675/CEE**\n\nA Directiva 91/675/CEE é alterada do seguinte modo:\n\n1. No título, a expressão «Comité dos Seguros» é substituída pela expressão «Comité Europeu dos Seguros e Pensões Complementares de Reforma».\n\n2. O artigo 1.º passa a ter a seguinte redacção: «Artigo 1.º 1. A Comissão é assistida pelo Comité Europeu dos Seguros e Pensões Complementares de Reforma criado pela Decisão 2004/9/CE da Comissão ([^*2^](http://publications.europa.eu/resource/cellar/f2dd8a39-ad4e-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#E0003)) (a seguir denominado “comité”). 2. O presidente do Comité das Autoridades Europeias de Supervisão dos Seguros e Pensões Complementares de Reforma, criado pela Decisão 2004/6/CE da Comissão ([^*3^](http://publications.europa.eu/resource/cellar/f2dd8a39-ad4e-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#E0004)), participará nas reuniões do comité na qualidade de observador. 3. O comité pode convidar peritos e observadores para participarem nas suas reuniões. 4. O secretariado do comité será assegurado pela Comissão.».\n\n3. O artigo 2.º passa a ter a seguinte redacção: «Artigo 2.º 3.1. Quando os actos aprovados no domínio do seguro directo não‐vida e do seguro directo de vida, do resseguro e das pensões complementares de reforma conferirem à Comissão poderes de execução das regras que estabelecem, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências atribuídas à Comissão ([^*4^](http://publications.europa.eu/resource/cellar/f2dd8a39-ad4e-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#E0005)), tendo‐se em conta o disposto no seu artigo 8.º O prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses. 2. O comité aprova o seu regulamento interno.».\n\n4. São suprimidos os artigos 3.º e 4.º"
+  },
+  "bbf7dcfb92ea003a": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n**Directiva 92/49/CEE**\n\nNo primeiro período do n.º 10 do artigo 40.º da Directiva 92/49/CEE, a expressão «apresentará de dois em dois anos ao Comité de Seguros instituído pela Directiva 91/675/CEE um relatório indicando resumidamente» é substituída por «informará o Comité Europeu dos Seguros e Pensões Complementares de Reforma sobre»."
+  },
+  "bbfaef1d79a7b283": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n**Directiva 98/78/CE**\n\nA Directiva 98/78/CE é alterada do seguinte modo\n\n1. O n.º 3 do artigo 10.º‐A passa a ter a seguinte redacção:\n\n«3. Sem prejuízo dos n.^os^ 1 e 2 do artigo 300.º do Tratado, a Comissão, assistida pelo Comité Europeu dos Seguros e Pensões Complementares de Reforma, avaliará o resultado das negociações a que se refere o n.º 1 e a situação daí resultante.».\n\n2. O n.º 5 do artigo 11.º passa a ter a seguinte redacção:\n\n«5. O mais tardar até 1 de Janeiro de 2006, a Comissão publicará um relatório sobre a aplicação da presente directiva, e, se for caso disso, sobre a necessidade de posterior harmonização.»."
+  },
+  "ad8a70cfc12d649e": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n**Directiva 2002/83/CE**\n\nA Directiva 2002/83/CE é alterada do seguinte modo:\n\n1. No primeiro período do n.º 9 do artigo 46.º, a expressão «A Comissão apresenta de dois em dois anos ao Comité de Seguros um relatório recapitulando» é substituída por «A Comissão informa o Comité Europeu dos Seguros e Pensões Complementares de Reforma sobre».\n\n2. O artigo 58.º passa a ter a seguinte redacção:\n\n**Informação dos Estados‐Membros à Comissão**\n\na) De qualquer autorização de uma filial directa ou indirecta cuja ou cujas empresas‐mãe estejam sujeitas à legislação de um país terceiro;\n\nb) De qualquer tomada de participação de uma tal empresa‐mãe numa empresa de seguros comunitária, que tenha por efeito tomar esta última numa sua filial.\n\nCaso seja concedida uma autorização do tipo referido na alínea a) do primeiro parágrafo a uma filial directa ou indirecta de uma ou mais empresas‐mãe sujeitas à legislação de países terceiros, a estrutura do grupo será especificada na notificação que as autoridades competentes enviarão à Comissão e às restantes autoridades competentes.».\n\n3. No artigo 65.º, o n.º 1 passa a ter a seguinte redacção:\n\n«1. A Comissão é assistida pelo Comité Europeu dos Seguros e Pensões Complementares de Reforma criado pela Decisão 2004/9/CE da Comissão ([^*5^](http://publications.europa.eu/resource/cellar/f2dd8a39-ad4e-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#E0006)).»."
+  },
+  "6b57c4d9f79a67e6": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n**Directiva 2001/34/CE**\n\nA Directiva 2001/34/CE é alterada da seguinte forma:\n\n1. O artigo 108.º é suprimido.\n\n2. O artigo 109.º passa a ter a seguinte redacção:\n\n1. Tendo em vista a adaptação, em função das exigências da situação económica, do montante mínimo de capitalização em bolsa previsto e fixado no n.º 1 do artigo 43.º, a Comissão submeterá à apreciação do Comité Europeu dos Valores Mobiliários, criado pela Decisão 2001/528/CE da Comissão ([^*6^](http://publications.europa.eu/resource/cellar/f2dd8a39-ad4e-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#E0009)), um projecto das medidas a tomar.\n\n2. Quando seja feita referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^*7^](http://publications.europa.eu/resource/cellar/f2dd8a39-ad4e-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#E0010)), tendo‐se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6.º do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprova o seu regulamento interno.»."
+  },
+  "325603c5291d9851": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n**Directiva 2002/87/CE**\n\nO n.º 2 do artigo 19.º da Directiva 2002/87/CE passa a ter a seguinte redacção:\n\n«2. Sem prejuízo dos n.^os^ 1 e 2 do artigo 300.º do Tratado, a Comissão, assistida pelo Comité Bancário Europeu, pelo Comité Europeu dos Seguros e Pensões Complementares de Reforma e pelo Comité dos Conglomerados Financeiros, avaliará os resultados das negociações referidas no n.º 1 e a situação daí resultante.»."
+  },
+  "8b61ce682ab2e489": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n**Medidas de execução**\n\n1. As medidas de execução da presente directiva adoptadas nos termos dos artigos 5.º e 7.º da Decisão 1999/468/CE tendo em conta o disposto no seu artigo 8.º não podem alterar as disposições fundamentais das directivas.\n\n2. O prazo estabelecido no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Se as condições estabelecidas no Tratado e que regem o exercício dos poderes de execução conferidos à Comissão forem alteradas, a Comissão procederá à revisão da presente directiva e, se necessário, proporá alterações. Esta revisão será, em todo o caso, feita até 31 de Dezembro de 2007."
+  },
+  "0e1500375bac1377": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n**Transposição**\n\nOs Estados‐Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 13 de Maio de 2005.\n\nQuando os Estados‐Membros adoptarem tais disposições, estas deverão incluir uma referência à presente directiva ou serem acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados‐Membros."
+  },
+  "a4aee607fd75865b": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n**Entrada em vigor**\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "17ffe4475a19a763": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n**Destinatários**\n\nOs Estados‐Membros são os destinatários da presente directiva.\n\n---"
+  },
+  "505a036715b99b79": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^*1^](http://publications.europa.eu/resource/cellar/f2dd8a39-ad4e-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#src.E0002)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^*2^](http://publications.europa.eu/resource/cellar/f2dd8a39-ad4e-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#src.E0003)) JO L 3 de 7.1.2004, p. 34.\n\n> ([^*3^](http://publications.europa.eu/resource/cellar/f2dd8a39-ad4e-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#src.E0004)) JO L 3 de 7.1.2004, p. 30.\n\n> ([^*4^](http://publications.europa.eu/resource/cellar/f2dd8a39-ad4e-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#src.E0005)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^*5^](http://publications.europa.eu/resource/cellar/f2dd8a39-ad4e-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#src.E0006)) JO L 3 de 7.1.2004, p. 34.\n\n> ([^*6^](http://publications.europa.eu/resource/cellar/f2dd8a39-ad4e-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#src.E0009)) JO L 191 de 13.7.2001, p. 45. Decisão alterada pela Decisão 2004/8/CE (JO L 3 de 7.1.2004, p. 33).\n\n> ([^*7^](http://publications.europa.eu/resource/cellar/f2dd8a39-ad4e-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#src.E0010)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45)."
+  }
+ }
+}

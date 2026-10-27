@@ -1,0 +1,179 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997R1489:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997R1489-20040101",
+ "dre_path": null,
+ "source_lastmod": "2004-01-01",
+ "versions": [
+  {
+   "date": "1997-07-30",
+   "future": false,
+   "celex": "31997R1489",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "628107f38064f8d5",
+    "ab1487ef4f94b87e",
+    "79045002010d8e0e",
+    "472a5b51a41db9b8",
+    "1d7ce5ca61b3af61",
+    "7ea8fd4a5af37cc2",
+    "7c29ca3745795fcd",
+    "366106e07f391361",
+    "9447d5d607c4f70c",
+    "7995ac4a9404f9b6",
+    "909c6da5bfe2126c",
+    "1ad916999fd3ca1b",
+    "ec2e0d2e776f01cd",
+    "807aa94b53dfabd9"
+   ]
+  },
+  {
+   "date": "2004-01-01",
+   "future": false,
+   "celex": "01997R1489-20040101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime ANEXO I — FREQUÊNCIA DOS RELATÓRIOS DE POSICIONAMENTO",
+    "Suprime ANEXO II — FORMATO ELECTRÓNICO DE TROCA DE DADOS"
+   ],
+   "fragments": [
+    "3f484df5837240b5"
+   ]
+  }
+ ],
+ "fragments": {
+  "628107f38064f8d5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 1489/97 da Comissão de 29 de Julho de 1997 que estabelece regras de execução do Regulamento (CEE) nº 2847/93 do Conselho no respeitante aos sistemas de localização dos navios por satélite** *Jornal Oficial nº L 202 de 30/07/1997 p. 0018 - 0023*\n\nREGULAMENTO (CE) Nº 1489/97 DA COMISSÃO de 29 de Julho de 1997 que estabelece regras de execução do Regulamento (CEE) nº 2847/93 do Conselho no respeitante aos sistemas de localização dos navios por satélite\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CEE) nº 2847/93, de 12 de Outubro de 1993, que institui um regime de controlo aplicável à política comum das pescas (1), com a última redacção que lhe foi dada pelo Regulamento (CE) nº 686/97 (2), e, nomeadamente o nº 10 do seu artigo 3º,\n\nConsiderando que é necessário estabelecer listas dos navios de pesca a que são aplicáveis os sistemas de localização de navios (VMS), bem como listas dos navios de pesca que não ficarão sujeitos aos VMS;\n\nConsiderando que é necessário definir as capacidades operacionais dos dispositivos de localização por satélite instalados a bordo de determinados navios de pesca da Comunidade, bem como os dados específicos que devem transmitir;\n\nConsiderando que, no caso dos navios de pesca que operam nas águas sob soberania ou jurisdição de um Estado-membro costeiro, é conveniente assegurar a coordenação entre o centro de vigilância da pesca do Estado-membro de pavilhão e o do Estado-membro costeiro;\n\nConsiderando que é necessário definir a partir de que momento se pode considerar que a comunicação dos dados através do VMS constitui a comunicação dos relatórios de esforço (effort reports) mencionados nos artigos 19ºB e 19ºC do Regulamento (CE) nº 2847/93;\n\nConsiderando que, em caso de deficiência técnica ou avaria dos dispositivos de localização por satélite, é necessário assegurar uma alternativa para a comunicação dos dados;\n\nConsiderando que é necessário assegurar à Comissão, mediante pedido, o acesso directo aos dados comunicados pelos navios de pesca, a fim de lhe permitir desempenhar as suas atribuições, previstas nos artigos 29º e 30º do Regulamento (CE) nº 2847/93, com a maior eficiência e com os menores custos;\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de gestão das pescas e da aquicultura,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "ab1487ef4f94b87e": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nO presente regulamento fixa as regras de execução a respeitar pelos Estados-membros para o estabelecimento e funcionamento dos sistemas de localização dos navios por satélite, a seguir denominados «VMS» (Vessel Monitoring Systems), previstos no artigo 3º do Regulamento (CEE) nº 2847/93."
+  },
+  "79045002010d8e0e": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Até 31 de Dezembro de 1997, os Estados-membros estabelecerão a lista dos navios de pesca arvorando seu pavilhão e registados na Comunidade a que, nos termos do nº 1 do artigo 3º do Regulamento (CEE) nº 2847/93, é aplicável o VMS, bem como uma lista dos navios de pesca das categorias do nº 1 do artigo 3º do mesmo regulamento que, nos termos do nº 3 do artigo 3º desse regulamento, não estão sujeitos ao VMS, e comunicá-las-ão à Comissão e, a seu pedido, aos outros Estados-membros.\n\n2. Até 30 de Junho de 1999, os Estados-membros estabelecerão a lista dos navios de pesca arvorando seu pavilhão e registados na Comunidade a que, nos termos do nº 2 do artigo 3º do Regulamento (CEE) nº 2847/93, é aplicável o VMS, bem como uma lista dos navios de pesca das categorias do nº 2 do artigo 3º do mesmo regulamento que, nos termos do nº 3 do artigo 3º desse regulamento, não estão sujeitos ao VMS, e comunicá-las-ão à Comissão e, a seu pedido, aos outros Estados-membros.\n\n3. Sempre que um Estado-membro impuser o VMS a navios arvorando seu pavilhão e registados na Comunidade que não sejam abrangidos pelos nºs 1 e 2 do artigo 3º do Regulamento (CEE) nº 2847/93, estabelecerá uma lista dos navios em causa e comunicá-la-á à Comissão e, a seu pedido, aos outros Estados-membros.\n\n4. As listas conterão, relativamente a cada navio, as seguintes informações:\n\n- Estado de pavilhão,\n\n- número de registo interno da frota,\n\n- identificação externa,\n\n- nome, e\n\n- indicativo internacional de chamada rádio.\n\n5. Os Estados-membros informarão imediatamente a Comissão e os outros Estados-membros interessados, que tenham solicitado as listas, de qualquer alteração dessas listas."
+  },
+  "472a5b51a41db9b8": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os dispositivos de localização por satélite instalados a bordo dos navios de pesca assegurarão a comunicação automática em qualquer momento ao centro de vigilância da pesca, a seguir denominado «CVP», do Estado-membro de pavilhão dos dados relativos:\n\n- à identificação dos navios,\n\n- à posição geográfica mais recente do navio, com uma margem de erro inferior a 500 metros e um intervalo de confiança de 99 %, e\n\n- à data e à hora de determinação da referida posição do navio.\n\n2. Os Estados-membros de pavilhão tomarão as medidas necessárias para controlar a exactidão dos dados referidos no nº 1.\n\n3. Sem prejuízo das regras especiais contidas nos acordos de pesca concluídos entre a Comunidade e países terceiros ou em convenções internacionais em que a Comunidade ou qualquer seu Estado-membro seja parte, cada Estado-membro tomará as medidas necessárias para assegurar que o seu CVP obtenha as informações requeridas pelo nº 1 relativas aos navios de pesca arvorando seu pavilhão e registados na Comunidade através do VMS, pelo menos, de duas em duas horas, salvo indicação contrária no anexo I. O CVP pode decidir solicitar a posição em intervalos mais curtos. Sempre que o VMS não puder recolher os dados sobre a posição efectiva dos navios de pesca, o Estado-membro em causa tomará as medidas necessárias para garantir que o CVP receba a posição dos navios de hora a hora.\n\n4. Os Estados-membros tomarão as medidas necessárias para assegurar que o seu CVP controle, através do VMS, a data e a hora em que os navios arvorando seu pavilhão e registados na Comunidade entraram e saíram das zonas de pesca referidas no anexo I do Regulamento (CE) nº 685/95 do Conselho (3), bem como das águas de um país terceiro."
+  },
+  "1d7ce5ca61b3af61": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. O VMS estabelecido por cada Estado-membro de pavilhão assegurará a comunicação automática e imediata ao CVP do Estado-membro costeiro dos dados relativos à identificação e à posição geográfica dos navios de pesca arvorando seu pavilhão e registados na Comunidade, a que sejam aplicáveis os VMS e que operem nas águas do Estado-membro costeiro, expressos em graus e minutos de latitude e longitude, bem como a data e hora da determinação da referida posição. Estes dados serão transmitidos simultaneamente ao CVP do Estado-membro de pavilhão, em conformidade com o formato definido no anexo II.\n\n2. Antes de 31 de Dezembro de 1997, cada Estado-membro comunicará aos outros Estados-membros em causa uma lista exaustiva das coordenadas de latitude e longitude que delimitam a sua zona económica exclusiva ou zona de pesca exclusiva.\n\n3. Os Estados-membros costeiros que vigiem conjuntamente uma zona podem determinar que as transmissões referidas no nº 1 sejam feitas para um endereço comum. Desse facto informarão a Comissão e os outros Estados-membros.\n\n4. Os Estados-membros tomarão as medidas necessárias para assegurar a coordenação entre as suas autoridades competentes aquando do estabelecimento e do funcionamento dos processos de transmissão ao CVP de um Estado costeiro."
+  },
+  "7ea8fd4a5af37cc2": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nConsidera-se que a comunicação de dados através do VMS, por um navio de pesca comunitário que opere nas zonas de pesca referidas no anexo I do Regulamento (CE) nº 685/95, em conformidade com o disposto nos artigos 3º e 4º do presente regulamento, equivale à transmissão do relatório de esforço (Effort Report) mencionado no nº 1 do artigo 19ºB e no nº 1 do artigo 19ºC do Regulamento (CEE) nº 2847/93."
+  },
+  "7c29ca3745795fcd": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Em caso de deficiência técnica ou de avaria do dispositivo de localização por satélite instalado a bordo de um navio de pesca, o capitão do navio, o seu proprietário ou o seu representante comunicarão, respectivamente ao CVP do Estado-membro de pavilhão e ao CVP do Estado-membro costeiro, pelo menos de vinte e quatro em vinte e quatro horas a partir do momento da verificação desta situação, os dados previstos no nº 1 do artigo 3º e no nº 1 do artigo 4º do presente regulamento, por telex, telecópia, telefone ou rádio, por intermédio de uma estação de rádio aprovada nos termos da legislação comunitária para efeitos de recepção deste tipo de comunicações. Em caso de deficiência técnica ou avaria do VMS do Estado-membro de pavilhão, são aplicáveis as mesmas disposições. Não se considera que estas comunicações equivalem à transmissão dos relatórios de esforço (effort reports) mencionados nos artigos 19ºB e 19ºC do Regulamento (CEE) nº 2847/93.\n\n2. Em caso de deficiência técnica ou de avaria do dispositivo de localização por satélite instalado a bordo de um navio de pesca, o proprietário do navio de pesca, ou seu representante, é obrigado a consertar o dispositivo ou a substituí-lo no prazo de um mês. Após este período, os capitães dos navios de pesca não podem iniciar uma saída de pesca com um dispositivo de localização por satélite deficiente. Todavia, sempre que um dispositivo deixe de funcionar ou tenha uma avaria durante uma saída de pesca que se prolongue por mais de um mês, a reparação ou substituição deve realizar-se logo que o navio regresse a um porto, não podendo o capitão do navio iniciar uma nova saída de pesca antes de o dispositivo de localização por satélite ter sido consertado ou substituído.\n\n3. Os Estados-membros tomarão as medidas necessárias para que o capitão do navio, o seu proprietário ou seu representante sejam informados sempre que se verifique que o dispositivo de localização por satélite instalado a bordo de um navio de pesca tenha uma deficiência ou avaria ou, na medida do possível, sempre que o VMS não funcione."
+  },
+  "366106e07f391361": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nA partir de 1 de Outubro de 1998, o Estado-membro de pavilhão tomará as medidas necessárias para, a seu pedido, assegurar à Comissão, em qualquer momento, o acesso remoto, através de sessões interactivas em linha, às bases que contêm os dados registados pelo CVP."
+  },
+  "9447d5d607c4f70c": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nO nome, endereço, número de telefone, número de telex e número de telecópia da autoridade competente responsável pelo seu CVP, bem como o seu endereço X.25 e outros endereços utilizados para efeitos de transmissão electrónica de dados, constam do anexo III. Qualquer alteração destes dados será comunicada à Comissão e aos outros Estados-membros no prazo de uma semana."
+  },
+  "7995ac4a9404f9b6": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nOs Estados-membros e a Comissão notificar-se-ão mutuamente das medidas tomadas relativamente aos VMS, nos termos do nº 1 do artigo 37º do Regulamento (CEE) nº 2847/93."
+  },
+  "909c6da5bfe2126c": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nOs Estados-membros informarão a Comissão, pela primeira vez antes de 1 de Novembro de 1997 e, em seguida, de seis em seis meses, dos progressos realizados no respeitante à instalação dos seus VMS."
+  },
+  "1ad916999fd3ca1b": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 29 de Julho de 1997.\n\nPela Comissão\n\nEmma BONINO\n\nMembro da Comissão\n\n(1) JO nº L 261 de 20. 10. 1993, p. 1.\n\n(2) JO nº L 102 de 19. 4. 1997, p. 1.\n\n(3) JO nº L 71 de 31. 3. 1995, p. 5."
+  },
+  "ec2e0d2e776f01cd": {
+   "fragment_id": "ANEXO I — FREQUÊNCIA DOS RELATÓRIOS DE POSICIONAMENTO",
+   "type": "divisao",
+   "heading": "ANEXO I — FREQUÊNCIA DOS RELATÓRIOS DE POSICIONAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — FREQUÊNCIA DOS RELATÓRIOS DE POSICIONAMENTO\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "807aa94b53dfabd9": {
+   "fragment_id": "ANEXO II — FORMATO ELECTRÓNICO DE TROCA DE DADOS",
+   "type": "divisao",
+   "heading": "ANEXO II — FORMATO ELECTRÓNICO DE TROCA DE DADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — FORMATO ELECTRÓNICO DE TROCA DE DADOS\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\nCaracteres: ISO 8859.1.\n\nA transmissão dos dados será estruturada da seguinte forma:\n\n- duas barras oblíquas («//») e um código assinalam o início da comunicação,\n\n- uma barra oblíqua («/») separa o código e os dados.\n\nOs dados facultativos devem ser inseridos entre o início do registo e o fim do registo.\n\nANEXO III / BILAG III / ANHANG III / ÐÁÑÁÑÔÇÌÁ ÉÉÉ / ANNEX III / ANNEXE III / ALLEGATO III / BIJLAGE III / ANEXO III / LIITE III / BILAGA III\n\nBELGIË/BELGIQUE\n\nDANMARK\n\nDEUTSCHLAND\n\nName: Bundesanstalt für Landwirtschaft und Ernährung\n\nAnschrift: Palmaille 9\n\n22767 Hamburg\n\nTelefon: (040) 389 05-173 - (040) 389 05-180\n\nTelefax: (040) 389 05-128 - (040) 389 05-160\n\nTelex: 0214/763\n\nX25: 493/20221\n\nÅËËÁÓ\n\nESPAÑA\n\nFRANCE\n\nIRELAND\n\nITALIA\n\nNome: Comando generale del corpo delle capitanerie di porto - Guardia costiera\n\nIndirizzo: Viale dell'Arte n. 16\n\n00144 Roma\n\nTelefono: (+39-6) 592 35 69 - 592 41 45 - 59 08 44 08 - 59 08 45 27\n\nTelefax: (+39-6) 592 27 37 - 59 08 47 93\n\nTelex: (+39-6) 614156 COGECP I; 614103 COGECP I; 611172 COGECP I\n\nE-Mail: cogecap 3 a mail.flashnet.it\n\nNEDERLAND\n\nPORTUGAL\n\nNome: Inspecção-Geral das Pescas\n\nEndereço: Ed. Vasco da Gama\n\nAlcântara-Mar\n\nP-1350 Lisboa\n\nTelefone: (351-1) 391 35 80/1\n\nTelefax: (351-1) 397 91 93\n\nEndereço X25: 268096210389\n\nSUOMI\n\nSVERIGE\n\nUNITED KINGDOM"
+  },
+  "3f484df5837240b5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1997R1489 — PT — 01.01.2004 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31997R1489) [REGULAMENTO (CE) N.º 1489/97 DA COMISSÃO](http://publications.europa.eu/resource/celex/31997R1489) [de 29 de Julho de 1997](http://publications.europa.eu/resource/celex/31997R1489) [que estabelece regras de execução do Regulamento (CEE) n.º 2847/93 do Conselho no respeitante aos sistemas de localização dos navios por satélite](http://publications.europa.eu/resource/celex/31997R1489) (JO L 202, 30.7.1997, p.18)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 2244/2003 da Comissão de 18 de Dezembro de 2003](http://publications.europa.eu/resource/celex/32003R2244) — L 333 — 17 — 20.12.2003"
+  }
+ }
+}

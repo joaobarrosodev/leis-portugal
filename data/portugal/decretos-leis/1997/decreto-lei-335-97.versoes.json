@@ -1,0 +1,313 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:406321:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-108113703",
+ "dre_path": "/dr/detalhe/decreto-lei/335-1997-406321",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1997-12-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "108113346",
+    "108113347",
+    "108113348",
+    "108113349",
+    "108113350",
+    "108113351",
+    "108113352",
+    "108113353",
+    "108113354",
+    "108113355",
+    "108113356",
+    "108113357",
+    "108113358",
+    "108113359"
+   ]
+  },
+  {
+   "date": "1999-12-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632721:por",
+     "title": "Decreto-Lei n.º 532/99",
+     "published": "1999-12-11",
+     "dre_path": "/dr/detalhe/decreto-lei/532-1999-632721"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "108113346",
+    "108113347",
+    "108113348",
+    "108114275",
+    "108113350",
+    "108113351",
+    "108113352",
+    "108113353",
+    "108113354",
+    "108113355",
+    "108113356",
+    "108113357",
+    "108113358",
+    "108113359",
+    "108113360"
+   ]
+  },
+  {
+   "date": "2017-09-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108113698:por",
+     "title": "Decreto-Lei n.º 113/2017",
+     "published": "2017-09-07",
+     "dre_path": "/dr/detalhe/decreto-lei/113-2017-108113698"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "108113346",
+    "108113347",
+    "108113348",
+    "108114275",
+    "108113350",
+    "108114276",
+    "108114277",
+    "108113353",
+    "108113354",
+    "108114278",
+    "108113356",
+    "108114279",
+    "108113358",
+    "108113359",
+    "108113360"
+   ]
+  },
+  {
+   "date": "2021-02-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:158368130:por",
+     "title": "Lei n.º 7/2021",
+     "published": "2021-02-26",
+     "dre_path": "/dr/detalhe/lei/7-2021-158368130"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "108113346",
+    "108113347",
+    "108113348",
+    "108114275",
+    "108113350",
+    "158474488",
+    "108114277",
+    "108113353",
+    "108113354",
+    "108114278",
+    "108113356",
+    "108114279",
+    "108113358",
+    "108113359",
+    "108113360"
+   ]
+  }
+ ],
+ "fragments": {
+  "108113346": {
+   "fragment_id": "108113704",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 335/97\n\nde 2 de Dezembro\n\nPelo artigo 24.º do Decreto-Lei n.º 158/96, de 3 de Setembro, na redacção dada pelo artigo 1.º do Decreto-Lei n.º 107/97, de 8 de Maio, foi criado o Fundo de Estabilização Tributário (FET), cujo activo será afecto ao pagamento de suplementos atribuídos em função de particularidades específicas da prestação de trabalho dos funcionários da Direcção-Geral dos Impostos e da Direcção-Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros, bem como a obras sociais.\n\nNa verdade, o elevado grau de especificidade das funções associadas à cobrança coerciva de impostos e a necessidade de ocorrer em tempo útil às solicitações daquele tipo de processos, bem como aos processos especiais de regularização de dívidas, exige um esforço adicional dos funcionários respectivos, os quais, aliás, são ainda confrontados com um volume considerável de processos e procedimentos cuja regularização para níveis compatíveis com uma administração fiscal moderna e justa só é possível com um empenhamento significativo dos seus intervenientes.\n\nO estímulo a este empenho encontra-se indexado, precisamente, ao volume de trabalho e esforço suplementares que estas tarefas exigem, para além dos procedimentos normais de funcionamento.\n\nAssim:\n\nNos termos do n.º 2 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "108113347": {
+   "fragment_id": "108113705",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei tem por objecto a definição das linhas orientadoras da atribuição dos suplementos a que se refere o n.º 4 do artigo 24.º do Decreto-Lei n.º 158/96, de 3 de Setembro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 107/97, de 8 de Maio, bem como os órgãos e o regime financeiro do Fundo de Estabilização Tributário, adiante designado por FET."
+  },
+  "108113348": {
+   "fragment_id": "108113706",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza do Fundo de Estabilização Tributário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza do Fundo de Estabilização Tributário\n\nO FET tem a natureza de fundo autónomo, não personalizado, do Ministério das Finanças, gerido nos termos previstos no presente decreto-lei e na portaria a que se refere o n.º 5 do artigo 24.º do Decreto-Lei n.º 158/96, de 3 de Setembro, na redacção que lhe foi dada pelo Decreto-Lei n.º 107/97, de 8 de Maio."
+  },
+  "108113349": {
+   "fragment_id": "108113707",
+   "type": 11,
+   "heading": "Artigo 3.º — Suplementos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Suplementos\n\n1 - Os suplementos a que se refere o n.º 4 do artigo 24.º do Decreto-Lei n.º 158/96, de 3 de Setembro, na redacção que lhe foi dada pelo artigo 1.º do Decreto-Lei n.º 107/97, de 8 de Maio, visam estimular e compensar a produtividade do trabalho dos funcionários e agentes da Direcção-Geral dos Impostos (DGCI) e da Direcção-Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros (DGITA), sendo o seu valor o resultante da aplicação de uma percentagem ao vencimento base referente aos respectivos cargos e categorias, o qual será o do índice do 1.º escalão, nos casos em que a estrutura salarial inclua vários escalões.\n\n2 - As condições de atribuição de compensações de produtividade e outros suplementos, a sua suspensão e redução, a percentagem a que se refere o número anterior, bem como a periodicidade do pagamento, serão definidas por portaria do Ministro das Finanças.\n\n3 - O abono para falhas atribuído ao pessoal das tesourarias da Fazenda Pública é considerado para efeito do valor a que se refere o n.º 1 do presente artigo.\n\n4 - O montante dos suplementos integra, para todos os efeitos, a remuneração dos funcionários e agentes, estando sujeito aos descontos legais, incluindo os respeitantes à aposentação."
+  },
+  "108113350": {
+   "fragment_id": "108113708",
+   "type": 11,
+   "heading": "Artigo 4.º — Reservas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Reservas\n\nSem prejuízo do que definir a portaria a que se refere o n.º 5 do artigo 24.º do Decreto-Lei n.º 158/96, de 3 de Setembro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 107/97, de 8 de Maio, as reservas do FET, constituídas pela diferença positiva entre o total de receitas e rendimentos percebidos e os suplementos e despesas de gestão pagos, serão denominadas nos seguintes activos:\n\na) Títulos de dívida pública ou outros garantidos pelo Estado;\n\nb) Obrigações, títulos de participação ou outros títulos negociáveis de dívida, incluindo as obrigações de caixa;\n\nc) Depósitos à ordem ou a prazo."
+  },
+  "108113351": {
+   "fragment_id": "108113709",
+   "type": 11,
+   "heading": "Artigo 5.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Receitas\n\n1 - Constituem receitas do FET:\n\na) Os montantes previstos no n.º 3 do artigo 24.º do Decreto-Lei n.º 158/96, de 3 de Setembro, na redacção que lhe foi dada pelo artigo 1.º do Decreto-Lei n.º 107/97, de 8 de Maio;\n\nb) Os rendimentos resultantes das aplicações financeiras que em seu nome forem efectuadas;\n\nc) O produto da alienação e do reembolso de valores do seu activo;\n\nd) As receitas próprias da Direcção-Geral dos Impostos que, no âmbito da legislação orgânica deste organismo, lhe forem afectas;\n\ne) Outras receitas que lhe venham a ser atribuídas.\n\n2 - É vedado ao FET contrair empréstimos.\n\n3 - Os procedimentos necessários para a contabilização das receitas do FET obedecerão às normas definidas no regime de administração financeira do Estado."
+  },
+  "108113352": {
+   "fragment_id": "108113710",
+   "type": 11,
+   "heading": "Artigo 6.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Despesas\n\nConstituem despesas do FET:\n\na) O pagamento dos suplementos a que se refere o artigo 3.º;\n\nb) O pagamento a obras sociais que vier a ser decidido pelo conselho de administração;\n\nc) As despesas de funcionamento e gestão."
+  },
+  "108113353": {
+   "fragment_id": "108113711",
+   "type": 11,
+   "heading": "Artigo 7.º — Equilíbrio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Equilíbrio financeiro\n\n1 - Em cada ano económico o montante de compensações de produtividade e outros suplementos pagos, bem como as restantes despesas, não pode exceder 80% do valor do activo do fundo contabilizado a 31 de Dezembro do ano anterior.\n\n2 - A diferença encontrada nos termos do número anterior constitui a reserva a que se refere o artigo 4.º\n\n3 - Quando as verbas disponíveis para pagamento das compensações de produtividade e outros suplementos não permitirem que sejam atingidos os valores fixados para os mesmos, o valor máximo das compensações de produtividade e outros suplementos para os diferentes cargos e categorias diminuirá na mesma proporção da diferença entre as verbas necessárias e as disponíveis.\n\n4 - Em nenhuma circunstância poderá haver transferência de verbas adicionais do orçamento do Estado para o FET."
+  },
+  "108113354": {
+   "fragment_id": "108113712",
+   "type": 11,
+   "heading": "Artigo 8.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Órgãos\n\nSão órgãos do FET:\n\na) O conselho de administração;\n\nb) A comissão de fiscalização."
+  },
+  "108113355": {
+   "fragment_id": "108113713",
+   "type": 11,
+   "heading": "Artigo 9.º — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Conselho de administração\n\n1 - O conselho de administração tem a seguinte composição:\n\na) Director-geral dos Impostos, que será o presidente;\n\nb) Director-geral da Informática e Apoio aos Serviços Tributários e Aduaneiros;\n\nc) Director de serviços de Planeamento e Estatística da DGCI;\n\nd) Director dos Serviços Financeiros da DGCI;\n\ne) Dois funcionários, sendo um da DGCI e outro da DGITA, a designar pelos respectivos directores-gerais.\n\n2 - Nas suas faltas e impedimentos, os membros referidos nas alíneas a) e b) do número anterior serão substituídos pelos subdirectores-gerais por eles designados e os referidos nas alíneas c) e d) pelos respectivos substitutos legais.\n\n3 - A duração do mandato dos membros referidos na alínea e) do n.º 1 do presente artigo é de dois anos, renováveis por igual período."
+  },
+  "108113356": {
+   "fragment_id": "108113714",
+   "type": 11,
+   "heading": "Artigo 10.º — Competências do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competências do conselho de administração\n\n1 - Compete ao conselho de administração:\n\na) Assegurar o regular funcionamento do FET e elaborar e aprovar o respectivo orçamento anual;\n\nb) Decidir sobre as aplicações dos recursos financeiros do FET e, para o efeito, negociar e acordar com as instituições do sistema monetário e financeiro;\n\nc) Elaborar a conta de gerência do FET;\n\nd) Decidir sobre o montante das verbas anuais destinadas ao pagamento dos suplementos e ao financiamento de obras sociais.\n\n2 - O presidente do conselho de administração pode encarregar algum ou alguns dos seus membros do desempenho permanente de actividades que tenham a ver com a gestão ou o funcionamento do FET."
+  },
+  "108113357": {
+   "fragment_id": "108113715",
+   "type": 11,
+   "heading": "Artigo 11.º — Comissão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Comissão de fiscalização\n\n1 - A comissão de fiscalização é composta por dois funcionários da DGCI e um da DGITA, a designar pelo Ministro das Finanças.\n\n2 - O presidente da comissão será eleito pelos respectivos membros de entre os referidos no número anterior."
+  },
+  "108113358": {
+   "fragment_id": "108113716",
+   "type": 11,
+   "heading": "Artigo 12.º — Competências da comissão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competências da comissão de fiscalização\n\nCompete à comissão de fiscalização:\n\na) Emitir parecer sobre os orçamentos e as contas de gerência do FET;\n\nb) Acompanhar a actuação do conselho de administração e formular a este órgão as recomendações que entenda necessárias, tendo em vista o regular funcionamento do FET, o seu equilíbrio financeiro, a rendibilidade das aplicações dos seus recursos e a defesa dos interesses dos funcionários e agentes quanto ao pagamento dos suplementos e à realização de obras sociais;\n\nc) Pronunciar-se sobre os assuntos que lhe sejam submetidos pelo conselho de administração."
+  },
+  "108113359": {
+   "fragment_id": "108113717",
+   "type": 11,
+   "heading": "Artigo 13.º — Apoio e instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Apoio e instalações\n\n1 - O apoio técnico e administrativo necessário ao funcionamento do FET e aos seus órgãos será fornecido pelos serviços da DGCI e da DGITA.\n\n2 - O FET funcionará nas instalações da DGCI e ou da DGITA que lhe forem atribuídas para o efeito."
+  },
+  "108114275": {
+   "fragment_id": "108113707",
+   "type": 11,
+   "heading": "Artigo 3.º — Suplementos",
+   "in_force_from": "1999-12-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 532/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/532-1999-632721), em vigor a partir de 1999-12-16"
+   ],
+   "markdown": "###### Artigo 3.º — Suplementos\n\n1 - Os suplementos a que se refere o n.º 4 do artigo 24.º do Decreto-Lei n.º 158/96, de 3 de Setembro, na redacção que lhe foi dada pelo artigo 1.º do Decreto-Lei n.º 107/97, de 8 de Maio, visam estimular e compensar a produtividade do trabalho dos funcionários e agentes da Direcção-Geral dos Impostos (DGCI) e da Direcção-Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros (DGITA), sendo o seu valor o resultante da aplicação de uma percentagem ao vencimento base referente aos respectivos cargos e categorias, o qual será o do índice do 1.º escalão, nos casos em que a estrutura salarial inclua vários escalões.\n\n2 - As condições de atribuição de compensações de produtividade e outros suplementos, a sua suspensão e redução, a percentagem a que se refere o número anterior, bem como a periodicidade do pagamento, serão definidas por portaria do Ministro das Finanças.\n\n3 - (Revogado.)\n\n4 - O montante dos suplementos integra, para todos os efeitos, a remuneração dos funcionários e agentes, estando sujeito aos descontos legais, incluindo os respeitantes à aposentação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 532/99 - Diário da República n.º 287/1999, Série I-A de 1999-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/532-1999-632721), em vigor a partir de 1999-12-16"
+  },
+  "108113360": {
+   "fragment_id": "108113718",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de Outubro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.\n\nPromulgado em 13 de Novembro de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 17 de Novembro de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "108114276": {
+   "fragment_id": "108113709",
+   "type": 11,
+   "heading": "Artigo 5.º — Receitas",
+   "in_force_from": "2017-09-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 113/2017 - Diário da República n.º 173/2017, Série I de 2017-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2017-108113698), em vigor a partir de 2017-09-08"
+   ],
+   "markdown": "###### Artigo 5.º — Receitas\n\n1 - Constituem receitas do FET:\n\na) Um montante máximo de 5 % das cobranças coercivas derivadas de processos instaurados pela Autoridade Tributária e Aduaneira (AT) e das receitas de natureza fiscal arrecadadas no âmbito da aplicação do Decreto-Lei n.º 124/96, de 10 de agosto, alterado pelo Decreto-Lei n.º 235-A/96, de 9 de dezembro, montante que será definido, anualmente, mediante portaria do membro do Governo responsável pela área das finanças, bem como as receitas previstas no artigo 4.º do Decreto-Lei n.º 303/2003, de 5 de dezembro, alterado pelos Decretos-Leis n.os 52/2006, de 15 de março, e 211-A/2008, de 3 de novembro;\n\nb) Os rendimentos resultantes das aplicações financeiras que em seu nome forem efectuadas;\n\nc) O produto da alienação e do reembolso de valores do seu activo;\n\nd) As receitas próprias da AT que, no âmbito da legislação orgânica deste organismo, lhe forem afetas;\n\ne) As cobradas nos termos do artigo 14.º da tabela anexa à Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46 311, de 27 de abril de 1965;\n\nf) 15 % das taxas cobradas nos termos dos artigos 6.º, 7.º, 8.º, 9.º, 10.º e 13.º da tabela anexa à Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46 311, de 27 de abril de 1965;\n\ng) Os montantes das custas e 40 % do produto das coimas cobradas em processos de contraordenação aduaneira, instaurados e instruídos nos serviços da AT, exceto na parte em que sejam afetos a outros autuantes ou entidades nos termos da lei;\n\nh) 4 % dos montantes retidos, a título de despesas de cobrança de direitos aduaneiros e niveladores agrícolas da União Europeia;\n\ni) Outras receitas que lhe venham a ser atribuídas.\n\n2 - É vedado ao FET contrair empréstimos.\n\n3 - Os procedimentos necessários para a contabilização das receitas do FET obedecerão às normas definidas no regime de administração financeira do Estado.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 113/2017 - Diário da República n.º 173/2017, Série I de 2017-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2017-108113698), em vigor a partir de 2017-09-08"
+  },
+  "108114277": {
+   "fragment_id": "108113710",
+   "type": 11,
+   "heading": "Artigo 6.º — Despesas",
+   "in_force_from": "2017-09-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 113/2017 - Diário da República n.º 173/2017, Série I de 2017-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2017-108113698), em vigor a partir de 2017-09-08"
+   ],
+   "markdown": "###### Artigo 6.º — Despesas\n\nConstituem despesas do FET:\n\na) O pagamento dos suplementos a que se refere o artigo 3.º;\n\nb) O apoio financeiro a projetos e obras sociais promovidos pelas associações de trabalhadores, com existência jurídica formalizada, no âmbito dos serviços centrais e regionais da AT, bem como a comparticipação financeira de atividades sociais e culturais por elas promovidas, em condições determinadas pelo conselho de administração;\n\nc) As despesas de funcionamento e gestão.\n\nd) O pagamento das apólices de seguro de responsabilidade civil para cobertura do risco inerente ao desempenho profissional de trabalhadores da AT.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 113/2017 - Diário da República n.º 173/2017, Série I de 2017-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2017-108113698), em vigor a partir de 2017-09-08"
+  },
+  "108114278": {
+   "fragment_id": "108113713",
+   "type": 11,
+   "heading": "Artigo 9.º — Conselho de administração",
+   "in_force_from": "2017-09-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 113/2017 - Diário da República n.º 173/2017, Série I de 2017-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2017-108113698), em vigor a partir de 2017-09-08"
+   ],
+   "markdown": "###### Artigo 9.º — Conselho de administração\n\n1 - O conselho de administração tem a seguinte composição:\n\na) Diretor-geral da AT, que será o presidente;\n\nb) Dois dirigentes em funções na AT, indicados pelo conselho de administração da AT;\n\nc) Dois trabalhadores em funções na AT, indicados pelo conselho de administração da AT;\n\nd) (Revogada.)\n\ne) (Revogada.)\n\n2 - Nas suas faltas e impedimentos, o diretor-geral da AT será substituído pelo respetivo substituto legal nas funções de presidente do conselho de administração do FET.\n\n3 - A duração do mandato dos membros referidos nas alíneas b) e c) do n.º 1 é de três anos, renováveis por iguais períodos de tempo.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 113/2017 - Diário da República n.º 173/2017, Série I de 2017-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2017-108113698), em vigor a partir de 2017-09-08"
+  },
+  "108114279": {
+   "fragment_id": "108113715",
+   "type": 11,
+   "heading": "Artigo 11.º — Fiscal único",
+   "in_force_from": "2017-09-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 113/2017 - Diário da República n.º 173/2017, Série I de 2017-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2017-108113698), em vigor a partir de 2017-09-08"
+   ],
+   "markdown": "###### Artigo 11.º — Fiscal único\n\n1 - A fiscalização do FET é assegurada por um fiscal único, a quem compete o controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do Fundo, obrigando-se, designadamente, a:\n\na) Acompanhar e controlar com regularidade o cumprimento das leis e regulamentos aplicáveis, a execução orçamental, a situação económica, financeira e patrimonial e analisar a contabilidade;\n\nb) Dar parecer sobre o orçamento e suas revisões e alterações, bem como sobre o plano de atividades na perspetiva da sua cobertura orçamental;\n\nc) Dar parecer sobre o relatório de gestão de exercício e contas de gerência, incluindo documentos de certificação legal de contas;\n\nd) Manter o conselho de administração informado sobre os resultados das verificações e exames a que proceda;\n\ne) Elaborar relatórios da sua ação fiscalizadora, incluindo um relatório anual global;\n\nf) Pronunciar-se sobre os assuntos que lhe sejam submetidos pelo conselho de administração e pelas entidades com atribuições de controlo interno da administração financeira do Estado, designadamente o Tribunal de Contas e a Inspeção-Geral de Finanças.\n\n2 - O fiscal único exerce as suas funções com independência técnica e funcional e no estrito respeito dos deveres de imparcialidade, isenção e sigilo sobre os factos de que tenha conhecimento no exercício ou por causa dessas funções, tendo livre acesso à documentação do FET e podendo solicitar, ao conselho de administração, as informações e esclarecimentos que repute necessários.\n\n3 - O fiscal único é nomeado por despacho do membro do Governo responsável pela área das finanças de entre revisores oficiais de contas ou sociedades de revisores oficiais de contas.\n\n4 - O mandato do fiscal único tem a duração de três anos, sendo renovável, uma única vez, mediante despacho do membro do Governo responsável pela área das finanças.\n\n5 - Em caso de cessação do mandato, o fiscal único mantém-se no exercício de funções até à efetiva substituição ou à declaração ministerial de cessação de funções.\n\n6 - A remuneração do fiscal único é aprovada por despacho do membro do Governo responsável pela área das finanças, publicado no Diário da República.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 113/2017 - Diário da República n.º 173/2017, Série I de 2017-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2017-108113698), em vigor a partir de 2017-09-08"
+  },
+  "158474488": {
+   "fragment_id": "108113709",
+   "type": 11,
+   "heading": "Artigo 5.º — Receitas",
+   "in_force_from": "2021-02-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 113/2017 - Diário da República n.º 173/2017, Série I de 2017-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2017-108113698), em vigor a partir de 2017-09-08"
+   ],
+   "markdown": "###### Artigo 5.º — Receitas\n\n1 - Constituem receitas do FET:\n\na) Um montante máximo de 5 % das cobranças coercivas derivadas de processos instaurados pela Autoridade Tributária e Aduaneira (AT) e das receitas de natureza fiscal arrecadadas no âmbito da aplicação do Decreto-Lei n.º 124/96, de 10 de agosto, alterado pelo Decreto-Lei n.º 235-A/96, de 9 de dezembro, montante que será definido, anualmente, mediante portaria do membro do Governo responsável pela área das finanças, bem como as receitas previstas no artigo 4.º do Decreto-Lei n.º 303/2003, de 5 de dezembro, alterado pelos Decretos-Leis n.os 52/2006, de 15 de março, e 211-A/2008, de 3 de novembro;\n\nb) Os rendimentos resultantes das aplicações financeiras que em seu nome forem efectuadas;\n\nc) O produto da alienação e do reembolso de valores do seu activo;\n\nd) As receitas próprias da AT que, no âmbito da legislação orgânica deste organismo, lhe forem afetas;\n\ne) As cobradas nos termos do artigo 14.º da tabela anexa à Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46 311, de 27 de abril de 1965;\n\nf) 15 % das taxas cobradas nos termos dos artigos 6.º, 7.º, 8.º, 9.º, 10.º e 13.º da tabela anexa à Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46 311, de 27 de abril de 1965;\n\ng) (Revogada);\n\nh) 4 % dos montantes retidos, a título de despesas de cobrança de direitos aduaneiros e niveladores agrícolas da União Europeia;\n\ni) Outras receitas que lhe venham a ser atribuídas.\n\n2 - É vedado ao FET contrair empréstimos.\n\n3 - Os procedimentos necessários para a contabilização das receitas do FET obedecerão às normas definidas no regime de administração financeira do Estado.\n\n> Alterado pelo/a Artigo 16.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 113/2017 - Diário da República n.º 173/2017, Série I de 2017-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2017-108113698), em vigor a partir de 2017-09-08"
+  }
+ }
+}

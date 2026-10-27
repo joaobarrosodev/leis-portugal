@@ -1,0 +1,164 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31968L0360:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01968L0360-20040501",
+ "dre_path": null,
+ "source_lastmod": "2004-05-01",
+ "versions": [
+  {
+   "date": "1968-10-19",
+   "future": false,
+   "celex": "31968L0360",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6c81c8e059e637f5",
+    "cef8aded3a183930",
+    "0ff4f098c5f40fc3",
+    "502b37df1bfb4fdd",
+    "10c6d64faeac9786",
+    "7f6da3e6c98f4034",
+    "174f59679cd19a1a",
+    "35a9be4278a9bef0",
+    "ee150dc8bea7b950",
+    "69d9050734a9f6d7",
+    "35dda38ecfb37bbb",
+    "24d26f3e1d8543c6",
+    "5fc8d65fba012ebd",
+    "4ee329879341cd64",
+    "1e073678a1838a97",
+    "bca1742cf1164cc4"
+   ]
+  }
+ ],
+ "fragments": {
+  "6c81c8e059e637f5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 68/360/CEE do Conselho, de 15 de Outubro de 1968, relativa à supressão das restrições à deslocação e permanência dos trabalhadores dos Estados-Membros e suas famílias na Comunidade** *Jornal Oficial nº L 257 de 19/10/1968 p. 0013 - 0016 Edição especial finlandesa: Capítulo 5 Fascículo 1 p. 0044 Edição especial dinamarquesa: Série I Capítulo 1968(II) p. 0477 Edição especial sueca: Capítulo 5 Fascículo 1 p. 0044 Edição especial inglesa: Série I Capítulo 1968(II) p. 0485 Edição especial grega: Capítulo 05 Fascículo 1 p. 0043 Edição especial espanhola: Capítulo 05 Fascículo 1 p. 0088 Edição especial portuguesa: Capítulo 05 Fascículo 1 p. 0088*\n\nDIRECTIVA DO CONSELHO de 15 de Outubro de 1968 relativa à supressão das restrições à deslocação e permanência dos trabalhadores dos Estados-membros e suas famílias na Comunidade (68/360/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 49º;\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1);\n\nTendo em conta o parecer do Comité Económico e Social (2);\n\nConsiderando que o Regulamento (CEE) nº 1612/68 do Conselho, de 15 de Outubro de 1968 (3), estabeleceu as disposições que regulam a livre circulação dos trabalhadores na Comunidade; que, consequentemente, convém adoptar, no que diz respeito à supressão das restrições ainda existentes em matéria de deslocação e permanência na Comunidade, medidas adequadas aos direitos e faculdades reconhecidos pelo referido regulamento aos nacionais de cada Estado-membro que se desloquem a fim de exercer uma actividade assalariada, bem como aos seus familiares;\n\nConsiderando que a regulamentação em matéria de permanência deve, na medida do possível, aproximar a situação dos trabalhadores dos outros Estados-membros e dos seus familiares da dos trabalhadores nacionais;\n\nConsiderando que a coordenação de medidas especiais aplicáveis aos estrangeiros em matéria de deslocação e estada, justficadas por razões de ordem pública, segurança pública e saúde pública, constitui o objecto da Directiva do Conselho, de 25 de Fevereiro de 1964 (4), adoptada em aplicação do nº 2 do artigo 56º do Tratado,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "cef8aded3a183930": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nOs Estados-membros suprimirão, nas condições previstas na presente directiva, as restrições à deslocação à permanência dos nacionais dos referidos Estados e seus familiares aos quais se aplica o Regulamento (CEE) nº 1612/68."
+  },
+  "0ff4f098c5f40fc3": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Os Estados-membros reconhecem aos nacionais abrangidos pelo artigo 1º o direito de deixarem o seu território a fim de terem acesso a uma actividade assalariada e de a exercem no território de um outro Estado-membro. Este direito será exercido mediante a simples apresentação do bilhete de identidade ou de um passaporte válido. Os familiares gozam dos mesmos direitos de que beneficia o trabalhador de que aqueles dependem.\n\n2. Os Estados-membros concederão ou renovarão a estes nacionais, de acordo com a sua própria legislação, um bilhete de identidade ou um passaporte que especifique, nomeadamente, a nacionalidade do seu titular. (1) JO nº 268 de 6.11.1967, p. 9. (2) JO nº 298 de 7.12.1967, p. 10. (3) JO nº L 257 de 19.10.1968, p. 2. (4) JO nº 56 de 4.4.1964, p. 850/64.\n\n3. O passaporte deve ser válido, pelo menos, para todos os Estados-membros e para os países de trânsito directo entre estes Estados. Quando o passaporte constitua o único documento válido para saír do país, o seu período de validade não deve ser inferior a cinco anos.\n\n4. Os Estados-membros não podem exigir aos cidadãos abrangidos pelo artigo 1º qualquer visto de saída ou obrigação equivalente."
+  },
+  "502b37df1bfb4fdd": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os Estados-membros admitirão no seu território as pessoas abrangidas pelo artigo 1º mediante e simples apresentação de um bilhete de identidade ou passaporte válido.\n\n2. Não pode ser exigido qualquer visto de entrada ou obrigação equivalente, excepto aos familiares que não possuam a nacionalidade de um dos Estados-membros. Os Estados-membros concederão a estas pessoas todas as facilidades para a obtenção dos vistos necessários."
+  },
+  "10c6d64faeac9786": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Os Estados-membros reconhecerão o direito de permanência no seu território às pessoas abrangidas pelo artigo 1º que possam apresentar os documentos referidos no nº 3.\n\n2. Do direito de permanência é confirmado pela emissão de um documento denominado «Cartão de Residência de Nacional de um Estado-membro da CEE». Este documento deve conter a menção de que foi emitido nos termos de Regulamento (CEE) nº 1612/68 e das disposições adoptadas pelos Estados-membros em aplicação da presente directiva. O texto desta menção consta do Anexo da presente directiva.\n\n3. Para a emissão do Cartão de Residência de Nacional de um Estado-membro da CEE, os Estados-membros apenas podem exigir a apresentação dos seguintes documentos:\n\n- Ao trabalhador: a) O documento ao abrigo do qual entrou no seu território;\n\nb) Uma declaração de contrato passada pelo empregador ou um certificado de trabalho;\n\n- Aos familiares:\n\nc) O documento ao abrigo do qual entraram no seu território;\n\nd) Um documento emitido pela autoridade competente do Estado de origem ou de proveniência, provando o seu vínculo de parentesco;\n\ne) Nos casos previstos nos nº 1 e 2 do artigo 10º do Regulamento (CEE) nº 1612/68, um documento emitido pela autoridade competente do Estado de origem ou de proveniência, atestando que estão a cargo do trabalhador ou que vivem, nesse país, sob o mesmo tecto desse trabalhador.\n\n4. Quando um familiar não possua a nacionalidade de um Estado-membro ser-lhe-á um documento de redidência que terá a mesma validade que o concedido ao trabalhador de que depende."
+  },
+  "7f6da3e6c98f4034": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nO cumprimento das formalidades para a obtenção do cartão de residência não pode constituir obstáculo à execução imediata dos contratos de trabalho celebrados pelos requerentes."
+  },
+  "174f59679cd19a1a": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. O cartão de residência: a) Deve ser válido para a totalidade do território de Estado-membro que o emitiu;\n\nb) Deve ter um período de validade de, pelo menos, cinco anos a contar da data de emissão e ser automaticamente renovável.\n\n2. As interrupções de residência que não ultrapassem seis meses consecutivos e as ausências motivadas pelo cumprimento de obrigações militares não afectam a validade do cartão de residência.\n\n3. Quando o trabalhador ocupar um emprego durante um período superior a três meses e inferior a um ano ao serviço de um empregador do Estado de acolhimento ou por conta de um prestador de serviços, o Estado-membro de acolhimento emitirá em seu favor uma autorização temporária de residência cujo prazo de validade pode ser limitado à duração prevista para o emprego.\n\nSem prejuízo do disposto no nº 1, alínea c), do artigo 8º, será igualmente emitida uma autorização temporária de residência em favor do trabalhador sazonal que ocupar um emprego por um período superior a três meses. A duração do emprego deve ser indicada nos documentos previstos no nº 3, alínea b), do artigo 4º."
+  },
+  "35a9be4278a9bef0": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. O cartão de residência válido não pode ser retirado ao trabalhador pelo simples facto de ele já não ocupar um emprego, quer por o interessado ter ficado temporariamente incapacitado para o trabalho por motivo de doença ou de acidente, quer por se encontrar em situação de desemprego involuntário devidamente comprovada pelo serviço de emprego competente.\n\n2. Aquando da primeira renovação, o prazo de validade do cartão de residência pode ser limitado se o trabalhador se encontrar há mais de doze meses consecutivos numa situação de desemprego involuntário no Estado de acolhimento. Esse prazo de validade não pode, porém, ser inferior a doze meses."
+  },
+  "ee150dc8bea7b950": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. Os Estado-membros reconhecem o direito de permanência no seu território, sem que haja lugar à emissão do cartão de residêmcia: a) Ao trabalhador que exerça uma actividade assalariada com uma duração prevista não superior a três meses. O documento ao abrigo do qual o interessado entrou no território e uma declaração da entidade patronal indicando o período previsto de trabalho serão considerados títulos suficientes para a permanência. Porém, não será exigida a declaração da entidade patronal no caso dos trabalhadores beneficiários da Directiva do Conselho, de 25 de Fevereiro de 1964, relativa à realização da liberdade de estabelecimento e da livre prestação de serviços para as actividades dos intermediários do comércio, da indústria e do artesanato (1);\n\nb) Ao trabalhador que, mantendo a sua residência num dos Estados-membros aonde regressa, em princípio, diariamente ou, pelo menos, uma vez por semana, trabalhe noutro Estado-membro. A autoridade competente do Estado do emprego pode emitir em favor deste trabalhador um cartão especial, válido por cinco anos e renovável automaticamente;\n\nc) Ao trabalhador sazonal que seja titular de um contrato de trabalho visado pela autoridade competente do Estado-membro no qual vem exercer a sua actividade.\n\n2. Em todos os casos previstos no nº 1, as autoridades competentes do Estado de acolhimento podem exigir ao trabalhador que lhes participe a sua presença no território."
+  },
+  "69d9050734a9f6d7": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. Os documentos de residência concedidos aos nacionais de um Estados-membros da CEE previstos na presente directiva são emitidos e renovados gratuitamente ou mediante o pagamento de uma importância que não exceda os direitos e encargos exigidos aos nacionais pela emissão dos bilhetes de identidade.\n\n2. Os vistos referidos no nº 2 do artigo 3º e no nº 1, alínea c), do artigo 8º são gratuitos.\n\n3. Os Estados-membros tomarão as medidas necessárias para simplificar, ao máximo, as formalidades e os procedimentos para obtenção dos documentos referidos no nº 1."
+  },
+  "35dda38ecfb37bbb": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nOs Estados-membros só podem derrogar disposições da presente directiva por razões de ordem pública, segurança pública ou saúde pública."
+  },
+  "24d26f3e1d8543c6": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\n1. A presente directiva não prejudica as disposições de Tratado que institui a Comunidade Europeia da Carvão e do Aço, relativas aos trabalhadores com qualificação comprovada nas profissões do carvão e do aço, nem as disposições do Tratado que institui a Comunidade Europeia da Energia Atómica, relativas ao acesso a postos de trabalho qualificados no domínio de energia nuclear, nem as disposições adoptadas em aplicação desses Tratados.\n\n2. Todavia, a presente directiva aplica-se às categorias de trabalhadores referidos no nº 1, assim como aos seus familiares, na medida em que a sua situação não se encontre regulada nos referidos Tratados ou disposições."
+  },
+  "5fc8d65fba012ebd": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n1. Os Estados-membros porão em vigor as medidas necessárias para darem cumprimento à presente directiva no prazo de nove meses a contar da data da sua notificação. Desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros notificarão a Comissão das alterações legislativas, regulamentares e administrativas tendentes a simplificar as formalidades e os procedimentos para a emissão dos documentos ainda necessários para a saída, entrada e permanência dos trabalhadores e dos seus familiares. (1) JO nº 56 de 4.4.1964, p. 869/64."
+  },
+  "4ee329879341cd64": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n1. A Directiva do Conselho, de 25 de Março de 1964, relativa à supressão das restrições à deslocação e à permanência dos trabalhadores dos Estados-membros e das suas famílias na Comunidade (1) continua a ser aplicável até à execução da presente directiva pelos Estados-membros.\n\n2. As autorizações de residência emitidas em aplicação da directiva referida no nº 1 e que ainda sejam válidas no momento da execução da presente directiva serão válidas até à data mais próxima em que caduquem."
+  },
+  "1e073678a1838a97": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito no Luxemburgo, em 15 de Outubro de 1968.\n\nPelo Conselho\n\nO Presidente\n\nG. SEDATI"
+  },
+  "bca1742cf1164cc4": {
+   "fragment_id": "ANEXO Texto da menção prevista no nº 2 do artigo 4",
+   "type": "divisao",
+   "heading": "ANEXO Texto da menção prevista no nº 2 do artigo 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO Texto da menção prevista no nº 2 do artigo 4\n\n«O presente cartão é emitido em aplicação do Regulamento (CEE) nº 1612/68 do Conselho das Comunidades Europeias, de 15 de Outubro de 1968, e das disposições adoptadas para execução da Directiva do Conselho de 15 de Outubro de 1968.\n\nNos termos das disposições do referido regulamento, o titular do presente cartão tem o direito de acesso nas mesmas condições que os trabalhadores........... (1) às actividades assalariadas e de as exercer no território........... (1).» (1) Belga(s), alemão(ães), francês(es), italiano(s), luxemburguês(es), neerlandês(es), conforme o país que emite o cartão."
+  }
+ }
+}

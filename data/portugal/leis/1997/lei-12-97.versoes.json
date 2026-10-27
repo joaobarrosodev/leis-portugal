@@ -1,0 +1,116 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:398275:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1997-75094458",
+ "dre_path": "/dr/detalhe/lei/12-1997-398275",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1997-05-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75093933",
+    "75093934",
+    "75093935",
+    "75093936",
+    "75093937"
+   ]
+  },
+  {
+   "date": "2013-02-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:258283:por",
+     "title": "Lei n.º 14/2013",
+     "published": "2013-01-31",
+     "dre_path": "/dr/detalhe/lei/14-2013-258283"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "75093933",
+    "75093943",
+    "75093944",
+    "75093936",
+    "75093937",
+    "75093938"
+   ]
+  }
+ ],
+ "fragments": {
+  "75093933": {
+   "fragment_id": "75094459",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 12/97\n\nde 21 de Maio\n\nRegula a actividade de transporte de doentes por corpos de bombeiros e Cruz Vermelha Portuguesa\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "75093934": {
+   "fragment_id": "75094460",
+   "type": 11,
+   "heading": "Artigo 1.º — Isenção de requerer o alvará",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Isenção de requerer o alvará\n\nAs associações ou corporações de bombeiros legalmente constituídas, bem como as delegações da Cruz Vermelha, ficam isentas de requerer o alvará para o exercício da actividade de transporte de doentes previsto no Decreto-Lei n.º 38/92, de 28 de Março."
+  },
+  "75093935": {
+   "fragment_id": "75094461",
+   "type": 11,
+   "heading": "Artigo 2.º — Comunicações obrigatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Comunicações obrigatórias\n\n1 - Com vista ao exercício da actividade de transporte de doentes, as associações ou corporações de bombeiros, bem como as delegações da Cruz Vermelha, devem enviar ao Instituto Nacional de Emergência Médica:\n\na) A cópia do respectivo despacho de homologação pelo Serviço Nacional de Bombeiros e pela Direcção Nacional da Cruz Vermelha Portuguesa;\n\nb) A indicação da área territorial onde exercem habitualmente a actividade;\n\nc) A indicação sobre a natureza dos transportes a realizar;\n\nd) A indicação sobre o número de veículos a utilizar e suas características;\n\ne) O documento comprovativo do auto de posse do respectivo órgão directivo;\n\nf) A indicação do responsável pela frota afecta ao transporte de doentes e respectiva capacidade profissional;\n\ng) O documento comprovativo da frequência com aproveitamento de cursos reconhecidos pelo Instituto Nacional de Emergência Médica, conforme o tipo de ambulância.\n\n2 - Sempre que não se verifique o cumprimento do disposto em qualquer alínea do número anterior, o Instituto Nacional de Emergência Médica comunicará esse facto, no prazo de 30 dias, às associações ou corpos de bombeiros e ao Serviço Nacional de Bombeiros, ou às delegações da Cruz Vermelha e à Direcção Nacional da Cruz Vermelha, para que as referidas instituições procedam em conformidade."
+  },
+  "75093936": {
+   "fragment_id": "75094462",
+   "type": 11,
+   "heading": "Artigo 3.º — Audição do Serviço Nacional de Bombeiros e da Cruz Vermelha Portuguesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Audição do Serviço Nacional de Bombeiros e da Cruz Vermelha Portuguesa\n\nA verificação da necessidade de mais operadores na área respectiva, nos termos e para os efeitos da alínea c) do artigo 4.º do Decreto-Lei n.º 38/92, de 28 de Março, é precedida de parecer do Serviço Nacional de Bombeiros e da Direcção Nacional da Cruz Vermelha."
+  },
+  "75093937": {
+   "fragment_id": "75094463",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma transitória\n\nAs associações ou corporações de bombeiros e as delegações da Cruz Vermelha já em funcionamento devem proceder às comunicações referidas no n.º 1 do artigo 2.º, no prazo de 30 dias a contar da entrada em vigor da presente lei."
+  },
+  "75093943": {
+   "fragment_id": "75094460",
+   "type": 11,
+   "heading": "Artigo 1.º — Isenção de requerer o alvará",
+   "in_force_from": "2013-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2013 - Diário da República n.º 22/2013, Série I de 2013-01-31](https://diariodarepublica.pt/dr/detalhe/lei/14-2013-258283), em vigor a partir de 2013-02-05"
+   ],
+   "markdown": "###### Artigo 1.º — Isenção de requerer o alvará\n\nAs associações ou corporações de bombeiros legalmente constituídas, bem como as delegações da Cruz Vermelha, as instituições particulares de solidariedade social e as autarquias locais, ficam isentas de requerer alvará para o exercício da atividade de transporte de doentes, previsto no Decreto-Lei n.º 38/92, de 28 de março.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2013 - Diário da República n.º 22/2013, Série I de 2013-01-31](https://diariodarepublica.pt/dr/detalhe/lei/14-2013-258283), em vigor a partir de 2013-02-05"
+  },
+  "75093944": {
+   "fragment_id": "75094461",
+   "type": 11,
+   "heading": "Artigo 2.º — Comunicações obrigatórias",
+   "in_force_from": "2013-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2013 - Diário da República n.º 22/2013, Série I de 2013-01-31](https://diariodarepublica.pt/dr/detalhe/lei/14-2013-258283), em vigor a partir de 2013-02-05"
+   ],
+   "markdown": "###### Artigo 2.º — Comunicações obrigatórias\n\n1 - Com vista ao exercício da atividade de transporte de doentes, as entidades referidas no artigo anterior devem enviar ao Instituto Nacional de Emergência Médica:\n\na) A cópia do respetivo despacho de homologação pelo Serviço Nacional de Bombeiros e pela Direção Nacional da Cruz Vermelha Portuguesa, quando aplicável;\n\nb) A indicação da área territorial onde exercem habitualmente a actividade;\n\nc) A indicação sobre a natureza dos transportes a realizar;\n\nd) A indicação sobre o número de veículos a utilizar e suas características;\n\ne) O documento comprovativo do auto de posse do respectivo órgão directivo;\n\nf) A indicação do responsável pela frota afecta ao transporte de doentes e respectiva capacidade profissional;\n\ng) O documento comprovativo da frequência com aproveitamento de cursos reconhecidos pelo Instituto Nacional de Emergência Médica, conforme o tipo de ambulância.\n\n2 - Sempre que não se verifique o cumprimento do disposto em qualquer alínea do número anterior, o Instituto Nacional de Emergência Médica comunicará esse facto, no prazo de 30 dias, às associações ou corpos de bombeiros e à Autoridade Nacional de Proteção Civil, às delegações da Cruz Vermelha e à Direção Nacional da Cruz Vermelha, às instituições particulares de solidariedade social ou autarquias locais respetivas, para que as referidas instituições procedam em conformidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2013 - Diário da República n.º 22/2013, Série I de 2013-01-31](https://diariodarepublica.pt/dr/detalhe/lei/14-2013-258283), em vigor a partir de 2013-02-05"
+  },
+  "75093938": {
+   "fragment_id": "75094464",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 6 de Março de 1997.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 26 de Abril de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 29 de Abril de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

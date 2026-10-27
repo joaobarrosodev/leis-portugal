@@ -1,0 +1,244 @@
+---
+schema_version: '1.0'
+id: pt:dre:278498:por
+title: Decreto Regulamentar Regional n.º 19/2004/A
+short_title: null
+summary: Cria a Escola Básica Integrada de Angra do Heroísmo
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Presidência do Governo
+proposing_entity: null
+official_number: 19/2004/A
+official_date: null
+publication_date: '2004-06-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 135/2004, Série I-B de 2004-06-09
+  number: '135'
+  series: I
+  supplement: null
+  pages: 3622 - 3625
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/06/135b00/36223625.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/19/2004/06/09/a/dre/pt/html
+  oj: null
+  dre: '278498'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/19-2004-278498
+  internal: pt:dre:278498:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2004-278498
+  metadata_url: https://data.dre.pt/eli/decregulreg/19/2004/06/09/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2004-278498
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:29:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 49b8092464b7c125d193b95df23630236d32f0188eade7b89f9cf974c8dde932
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:52Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Angra do Heroísmo
+- ÁREA Escolar
+- Centro de Recursos de Educação Especial
+- Criação de Serviços
+- Educação Especial
+- Educação Pré-escolar
+- Ensino Básico
+- Ensino Oficial
+- Estabelecimento de Ensino
+- Integração de Trabalhadores
+- Pessoal Docente
+- Pessoal não Docente
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:636073:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:321677:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/18/1999/05/21/a/dre
+- type: cites
+  target: pt:dre:339384:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/21/2000/08/09/a/dre
+- type: cites
+  target: pt:dre:515866:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/10/1998/05/02/a/dre
+- type: cites
+  target: pt:dre:585039:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/3/2002/01/07/a/dre
+- type: cites
+  target: pt:dre:637469:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/26/2002/09/11/a/dre
+- type: cites
+  target: pt:dre:639913:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/15/1999/11/30/a/dre
+- type: repealed_by
+  target: pt:dre:636073:por
+  label: "Revogado a partir de 14.07.2007 pelo DRR.14/2007/A.13.07.2007.PG-RAA, DR.IS [134] de 13.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2007-636073
+  date: '2007-07-13'
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:29:52Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 19/2004/A
+
+No seguimento do processo de reestruturação da rede escolar do concelho de Angra do Heroísmo e tendo em conta o estabelecido na Carta Escolar, é conveniente proceder à transformação da Escola Básica dos 2.º e 3.º Ciclos de Angra do Heroísmo em escola básica integrada. Para tal, são integrados numa nova unidade orgânica, para além daquela escola, parte dos estabelecimentos de educação pré-escolar e do 1.º ciclo do ensino básico sitos na zona urbana de Angra do Heroísmo que ora se encontram inseridos na Área Escolar de Angra do Heroísmo.
+
+Por outro lado, e tendo em conta a necessidade de melhor coordenar o apoio na área da educação especial, procede-se à integração, embora mantendo a autonomia técnica e os objectivos que presidiram à sua criação, do Centro de Recursos de Educação Especial de Angra do Heroísmo na nova unidade orgânica.
+
+A Escola Básica dos 2.º e 3.º Ciclos de Angra do Heroísmo resultou da instalação em 1983 num complexo escolar próprio da antiga Escola Preparatória Ciprião de Figueiredo, escola que durante mais de uma década compartilhou instalações com o antigo Liceu Nacional de Angra do Heroísmo e posteriormente funcionou no Palacete Silveira e Paulo, imóvel onde antes esteve instalada a extinta Escola Industrial e Comercial de Angra do Heroísmo. Aquela unidade orgânica serve a quase totalidade do concelho de Angra do Heroísmo, sendo a única escola do 2.º ciclo do ensino básico da rede pública na zona urbana de Angra do Heroísmo.
+
+Criada pelo [Decreto Regulamentar Regional n.º 10/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1998-515866), de 2 de Maio, na sequência da reestruturação da rede da educação pré-escolar e do 1.º ciclo do ensino básico, a Área Escolar de Angra do Heroísmo agrupou a maioria dos estabelecimentos de educação e ensino daquele tipo existentes na cidade de Angra do Heroísmo e seus arredores e nas freguesias da parte leste do concelho. Dada a sua dimensão e a dispersão geográfica das escolas que a compõem, há clara vantagem na desagregação daquela Área Escolar, repartindo as escolas que a integram por duas unidades orgânicas.
+
+Posteriormente, pelo [Decreto Regulamentar Regional n.º 15/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1999-639913), de 30 de Novembro, foi criado o Centro de Recursos de Educação Especial de Angra do Heroísmo, organismo dotado de autonomia administrativa funcionando na dependência directa da Direcção Regional da Educação. Tal organismo mantém uma pequena dimensão, estando confinado a instalações arrendadas, manifestamente inadequadas aos objectivos prosseguidos.
+
+Considerando o atrás exposto, e sem prejuízo de, na generalidade, se manterem os objectivos que presidiram à criação do Centro de Recursos de Educação Especial de Angra do Heroísmo, existem claras vantagens na sua integração numa unidade orgânica do sistema educativo, melhorando assim o entrosamento entre as actividades do Centro e da unidade orgânica e reduzindo os custos administrativos e logísticos, já que a vertente administrativa do Centro pode, com vantagem, ser assumida pelos competentes serviços da escola.
+
+Assim, ao abrigo do disposto no artigo 10.º do [Decreto Legislativo Regional n.º 18/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1999-321677), de 21 de Maio, e nos termos da alínea o) do artigo 60.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e da alínea d) do n.º 1 do artigo 227.º da Constituição, o Governo Regional decreta o seguinte:
+
+###### Artigo 1.º — Objecto e âmbito
+
+1 - O presente diploma cria a Escola Básica Integrada de Angra do Heroísmo.
+
+2 - A Escola Básica Integrada de Angra do Heroísmo é a unidade orgânica do sistema educativo que assegura o funcionamento da educação pré-escolar, do ensino básico e da educação extra-escolar nas freguesias de Conceição, Ribeirinha, São Bento e Santa Luzia, todas do concelho de Angra do Heroísmo.
+
+3 - Para além dos alunos residentes nas freguesias integradas no respectivo território educativo, cabe ainda à Escola Básica Integrada de Angra do Heroísmo receber outros alunos do ensino básico que para ela sejam encaminhados nos termos regulamentares aplicáveis.
+
+###### Artigo 2.º — Estrutura
+
+1 - A Escola Básica Integrada de Angra do Heroísmo engloba a Escola Básica dos 2.º e 3.º Ciclos de Angra do Heroísmo e todos os estabelecimentos de educação pré-escolar e do 1.º ciclo do ensino básico da rede pública das freguesias de Conceição, Ribeirinha, São Bento e Santa Luzia, todas do concelho de Angra do Heroísmo.
+
+2 - A Escola Básica Integrada de Angra do Heroísmo integra ainda o Centro de Recursos de Educação Especial de Angra do Heroísmo.
+
+###### Artigo 3.º — Centro de Recursos de Educação Especial
+
+1 - O Centro de Recursos de Educação Especial de Angra do Heroísmo, adiante designado por CREEAH, constitui um serviço especializado de apoio educativo da Escola Básica Integrada de Angra do Heroísmo.
+
+2 - São atribuições do CREEAH, nomeadamente:
+
+a) Fornecer apoio técnico-pedagógico de retaguarda e consultoria ao sistema de educação e de ensino regular, com especial incidência nas áreas da deficiência;
+
+b) Assegurar, em articulação com as escolas, a avaliação especializada e o apoio directo às crianças e aos jovens com necessidades educativas especiais cuja problemática exija intervenção muito especializada;
+
+c) Desenvolver experiências piloto, assim como a investigação em geral, que permitam conhecer melhor a realidade da deficiência;
+
+d) Prestar serviços de informação, formação, aconselhamento e documentação a toda a comunidade e em especial aos docentes e agentes de educação que trabalham com crianças e jovens com necessidades educativas especiais tendo em vista a adequação e o sucesso das respostas educativas;
+
+e) Manter no centro de documentação da escola um núcleo temático especializado nas áreas relacionadas com necessidades educativas especiais e divulgar o seu conteúdo pela comunidade educativa;
+
+f) Produzir e adaptar material e ajudas técnicas de estimulação sócio-educativa necessários à realização plena do desenvolvimento da criança e do jovem.
+
+3 - O CREEAH assume em relação à Escola Básica Integrada de Angra do Heroísmo todas as competências fixadas no artigo 13.º do [Decreto Regulamentar Regional n.º 26/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-2002-637469), de 11 de Setembro, para o núcleo de educação especial.
+
+4 - O CREEAH é dirigido por um coordenador, escolhido nos termos do artigo 13.º do [Decreto Regulamentar Regional n.º 26/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-2002-637469), de 11 de Setembro, sendo aplicável ao pessoal que nele preste serviço o disposto nos n.os 4 e 5 do referido artigo.
+
+5 - Para além de apoiar a Escola Básica Integrada de Angra do Heroísmo, o CREEAH poderá, na medida dos recursos disponíveis, apoiar outras unidades orgânicas do sistema educativo que o pretendam.
+
+6 - Para efeitos do disposto no número anterior, o apoio a prestar é contratualizado mediante protocolo a assinar entre os órgãos executivos da Escola Básica Integrada de Angra do Heroísmo e da unidade orgânica que o pretenda.
+
+###### Artigo 4.º — Transição de pessoal
+
+1 - O pessoal docente e não docente dos quadros da Escola Básica dos 2.º e 3.º Ciclos de Angra do Heroísmo, da Área Escolar de Angra do Heroísmo e do CREEAH transita, nas mesmas carreira e categoria, para os quadros de pessoal da Escola Básica Integrada de Angra do Heroísmo através de listas nominativas, a publicar no Jornal Oficial.
+
+2 - Os quadros de pessoal docente e não docente da Escola Básica Integrada de Angra do Heroísmo são os constantes dos mapas I e II anexos ao presente diploma e do qual fazem parte integrante.
+
+###### Artigo 5.º — Transferência de pessoal não docente
+
+1 - Três dos funcionários pertencentes à carreira de assistente de administração escolar actualmente afectos à Área Escolar de Angra do Heroísmo e ao CREEAH transitam, respectivamente, dois para o quadro de pessoal da Escola Básica do 3.º Ciclo e Ensino Secundário Padre Jerónimo Emiliano de Andrade, em lugares automaticamente criados para o efeito e a extinguir quando vagarem, e um para o quadro de pessoal da Área Escolar de São Carlos.
+
+2 - Para efeitos dos números anteriores aplicam-se, com as necessárias adaptações, as regras de mobilidade constantes dos n.os 6 e 7 do artigo 4.º do [Decreto Legislativo Regional n.º 21/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2000-339384), de 9 de Agosto.
+
+###### Artigo 6.º — Normas transitórias
+
+1 - Enquanto não for criada a Escola Básica Integrada Francisco Ferreira Drumond, os estabelecimentos de educação e ensino sitos nas freguesias de Feteira, Porto Judeu e Vila de São Sebastião integram a Escola Básica Integrada de Angra do Heroísmo.
+
+2 - O técnico superior que à data da entrada em vigor do presente diploma exerce as funções de director do CREEAH manter-se-á nessas funções até à primeira época de eleições para coordenadores de núcleo que ocorra após a entrada em vigor do presente diploma.
+
+3 - Enquanto se mantiver em funções nos termos do número anterior, o director mantém o direito à gratificação que vem auferindo.
+
+4 - As dotações orçamentais afectas à Escola Básica dos 2.º e 3.º Ciclos do Ensino Básico de Angra do Heroísmo, à Área Escolar de Angra do Heroísmo e ao CREEAH transitam, com dispensa de quaisquer formalidades, para a Escola Básica Integrada de Angra do Heroísmo.
+
+5 - As verbas orçamentadas nos fundos escolares da Escola Básica dos 2.º e 3.º Ciclos do Ensino Básico de Angra do Heroísmo e da Área Escolar de Angra do Heroísmo, bem como as responsabilidades assumidas por aqueles fundos, transitam para o fundo escolar da Escola Básica Integrada de Angra do Heroísmo.
+
+###### Artigo 7.º — Disposições finais
+
+1 - Os estabelecimentos de educação e ensino sitos nas freguesias de São Pedro e Sé passam a integrar a Área Escolar de São Carlos, sendo os necessários lugares docentes e não docentes automaticamente aditados ao quadro daquela unidade orgânica.
+
+2 - São revogados:
+
+a) O [Decreto Regulamentar Regional n.º 15/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1999-639913), de 30 de Novembro;
+
+b) A alínea c) do n.º 1 do artigo 1.º do [Decreto Regulamentar Regional n.º 10/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1998-515866), de 2 de Maio;
+
+c) Os anexos III e XXXV do [Decreto Regulamentar Regional n.º 3/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2002-585039), de 7 de Janeiro.
+
+Aprovado em Conselho do Governo Regional, em Santa Cruz das Flores, em 25 de Março de 2004.
+
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
+
+Assinado em Angra do Heroísmo em 14 de Maio de 2004.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
+
+MAPA I
+
+(a que se refere o n.º 2 do artigo 4.º)
+
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/06/135b00/36223625.pdf)](https://files.diariodarepublica.pt/1s/2004/06/135b00/36223625.pdf)
+
+MAPA II
+
+(a que se refere o n.º 2 do artigo 4.º)
+
+Escola Básica Integrada de Angra do Heroísmo
+
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/06/135b00/36223625.pdf)](https://files.diariodarepublica.pt/1s/2004/06/135b00/36223625.pdf)

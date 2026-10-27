@@ -1,0 +1,204 @@
+---
+schema_version: '1.0'
+id: pt:dre:546252:por
+title: Portaria n.º 977/85
+short_title: null
+summary: Estabelece as modalidades de compensação por equivalente e de exportação antecipada no âmbito do regime de aperfeiçoamento
+  activo
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado para os Assuntos Fiscais - Direcção-Geral das Alfândegas
+proposing_entity: null
+official_number: 977/85
+official_date: null
+publication_date: '1985-12-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 301/1985, 10º Suplemento, Série I de 1985-12-31
+  number: '301'
+  series: I
+  supplement: null
+  pages: 4260-(183) a 4260-(186)
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/12/30110/01830186.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '546252'
+  dre_path: /dr/detalhe/portaria/977-1985-546252
+  internal: pt:dre:546252:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/977-1985-546252
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/977-1985-546252
+  consolidated_url: null
+  retrieved_at: '2026-10-23T08:39:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: dbddb0a798d057679bca27db025bb99cf2df8839d5035c6f87a6d996c7e2299e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:39:56Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Exportação
+- Importação
+- Mercadoria
+- Regime de Aperfeiçoamento Activo
+relationships:
+- type: cites
+  target: pt:dre:423220:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T08:39:56Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 977/85
+
+de 31 de Dezembro
+
+Considerando que, nos termos do artigo 24.º do [Decreto-Lei n.º 500-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-a-1985-423220), de 27 de Dezembro, quando as circunstâncias o justifiquem, o Ministro das Finanças pode considerar como produtos compensadores, por derrogação do n.º 3 do artigo 2.º do referido decreto-lei, produtos provenientes do tratamento de mercadorias de natureza, qualidade e características técnicas idênticas às das mercadorias importadas (sistema de compensação pelo equivalente);
+
+Considerando que, nos termos do artigo 25.º do decreto-lei supracitado, nos casos previstos no artigo 24.º desse decreto-lei, quando as circunstâncias o justifiquem, os produtos considerados como produtos compensadores podem, nas condições fixadas pelo Ministro das Finanças, ser exportados antes da importação das mercadorias que beneficiam do regime do aperfeiçoamento activo e que essa exportação antecipada é equiparada à exportação prevista no n.º 1 do artigo 2.º do referido decreto-lei;
+
+Considerando que o funcionamento do sistema de compensação por equivalente pode variar de um Estado para outro e que, para evitar tais divergências, incompatíveis com a noção de união aduaneira, convém adoptar certas medidas de aplicação, com vista a uma harmonização complementar neste domínio:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado para os Assuntos Fiscais, nos termos do artigo 26.º do [Decreto-Lei n.º 500-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-a-1985-423220), o seguinte:
+
+1.º Para aplicação dos artigos 24.º e 25.º do [Decreto-Lei n.º 500-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-a-1985-423220), consideram-se produtos compensadores os produtos obtidos a partir de mercadorias que se substituem às mercadorias importadas ou a importar ao abrigo do regime de aperfeiçoamento activo, desde que as condições previstas nos n.os 4.º a 9.º da presente portaria sejam preenchidas.
+
+2.º Para aplicação da presente portaria, as mercadorias que se substituam às mercadorias importadas ou a importar ao abrigo do regime de aperfeiçoamento activo denominam-se «mercadorias de compensação» e as mercadorias substituídas denominam-se «mercadorias de importação».
+
+3.º Considera-se:
+
+a) «Compensação por equivalente», o sistema previsto no artigo 24.º do [Decreto-Lei n.º 500-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-a-1985-423220);
+
+b) «Exportação antecipada», o sistema previsto no artigo 25.º do [Decreto-Lei n.º 500-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-a-1985-423220).
+
+4.º As mercadorias de compensação devem:
+
+a) Preencher as condições constantes dos artigos 9.º e 10.º do Tratado que instituiu a Comunidade Económica Europeia;
+
+b) Estar colocadas na Comunidade ao abrigo do regime de aperfeiçoamento activo, concedido por meio de uma autorização diferente da que rege as mercadorias de importação.
+
+5.º As mercadorias de compensação devem pertencer à mesma subposição pautal, ser da mesma qualidade comercial e possuir as mesmas características técnicas que as mercadorias de importação.
+
+6.º O director-geral das Alfândegas poderá, todavia, permitir que as mercadorias de compensação se encontrem, relativamente às mercadorias de importação, ao nível dos produtos intermédios definidos na alínea b) do artigo 15.º do [Decreto-Lei n.º 500-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-a-1985-423220), desde que as mercadorias de compensação sejam submetidas, na empresa do titular da autorização do regime, à parte essencial das operações de aperfeiçoamento para as quais o regime foi solicitado.
+
+7.º Até à adopção de novas disposições, os trigos moles incluídos na subposição 10.01, B, I, da Pauta Aduaneira Comum colhidos na Comunidade, assim como os trigos duros incluídos na subposição 10.01, B, II, da Pauta Aduaneira Comum colhidos na Comunidade, não são considerados, na acepção do n.º 5.º, como mercadorias de compensação de trigos importados que se incluam nas mesmas subposições da Pauta Aduaneira Comum e colhidos num país terceiro.
+
+8.º O arroz incluído nas subposições 10.06, B, I ou II, da Pauta Aduaneira Comum só será considerado, na acepção do n.º 5.º, mercadoria de compensação do arroz importado pela mesma subposição da referida Pauta quando pertencer à mesma rubrica que este último e quando tiver uma relação comprimento/largura compreendida na mesma subdivisão da rubrica.
+
+9.º As rubricas para o arroz e as relações comprimento/largura são as enumeradas no anexo.
+
+10.º O director-geral das Alfândegas permitirá o recurso à compensação por equivalente ou à exportação antecipada:
+
+a) No âmbito da autorização do regime de aperfeiçoamento activo previsto no n.º 2 do artigo 4.º do [Decreto-Lei n.º 500-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-a-1985-423220); ou
+
+b) A pedido expresso do titular apresentado posteriormente a essa autorização.
+
+11.º Quando o recurso à compensação por equivalente ou à exportação antecipada tiver por efeito provocar uma vantagem não justificada no plano da isenção dos direitos aduaneiros, dos encargos de efeito equivalente e dos direitos niveladores agrícolas e de outras imposições previstas no âmbito da política agrícola comum ou no do regime específico aplicável, nos termos do artigo 235.º do Tratado que instituiu a Comunidade Económica Europeia, a algumas mercadorias resultantes da transformação dos produtos agrícolas, o director-geral das Alfândegas não concederá o benefício.
+
+12.º As mercadorias de compensação, por se substituírem às mercadorias de importação, encontram-se na situação aduaneira destas últimas, da mesma forma que as mercadorias de importação se deverão considerar, a partir dessa substituição, como encontrando-se na situação aduaneira precedente das mercadorias de compensação.
+
+13.º Os directores das alfândegas fixarão o momento em que se considera realizada a substituição.
+
+14.º O tratamento das mercadorias de compensação deve efectuar-se nas condições e segundo os critérios fixados na decisão da autoridade aduaneira referida no n.º 10.º
+
+15.º Sem prejuízo das condições previstas nos n.os 4.º a 9.º e 11.º, o director-geral das Alfândegas pode, designadamente, considerar o recurso à compensação por equivalente como justificado pelas circunstâncias quando a espécie e ou o estado dos produtos compensadores não permitem distinguir se foram obtidos a partir de mercadorias de importação ou a partir de mercadorias de compensação.
+
+16.º O director-geral das Alfândegas pode considerar que as circunstâncias justificam o recurso à exportação antecipada, designadamente quando:
+
+a) As condições de entrega estabelecidas não possam ser respeitadas devido aos prazos necessários para a importação das mercadorias a serem tratadas e, se for caso disso, para a obtenção dos produtos compensadores;
+
+b) Medidas restritivas em relação aos produtos compensadores forem previstas pelos países de destino;
+
+c) Existir a possibilidade de se produzirem problemas no transporte (greve de transporte, boicote, etc.);
+
+d) As mercadorias de importação se destinarem a uma empresa que tenha um volume reduzido de exportação relativamente à sua produção total;
+
+e) Por razões sazonais, o aprovisionamento em mercadorias de importação não se possa realizar durante certos períodos.
+
+17.º Quando a exportação antecipada for objecto de um pedido expresso previsto na alínea b) do n.º 10.º, o interessado deve apresentar esse pedido antes da exportação dos produtos compensadores e estabelecer, a contento do director-geral das Alfândegas, a ligação entre a operação de exportação e a correspondente operação de importação.
+
+18.º O pedido referido no n.º 17.º deve especificar, designadamente:
+
+a) A natureza, a quantidade e o valor dos produtos compensadores cuja exportação antecipada se solicita;
+
+b) A natureza, a subposição pautal, a qualidade comercial e a quantidade das mercadorias a importar posteriormente.
+
+19.º Salvo disposições particulares adoptadas no âmbito da política agrícola comum, o prazo dentro do qual a importação de mercadorias de importação correspondendo a uma exportação antecipada de produtos compensadores se deverá realizar:
+
+a) Será de 3 meses, no máximo, relativamente às mercadorias abrangidas por um sistema regulador de preços em virtude de disposições tomadas no âmbito da referida política agrícola comum;
+
+b) Será fixado, relativamente às mercadorias mencionadas na alínea e) do n.º 16.º, caso a caso, em função das necessidades específicas, sem que possa exceder, relativamente às mercadorias mencionadas na alínea a) deste número, a duração máxima de 3 meses.
+
+20.º Relativamente a todas as outras mercadorias, o prazo a que se refere o n.º 19.º será igualmente fixado, caso a caso, em função das necessidades específicas, sem que possa exceder 6 meses, podendo, no entanto, ser prorrogado mediante pedido devidamente justificado pelo titular e reconhecido válido pelo director-geral das Alfândegas, sem que a duração total possa exceder 12 meses.
+
+21.º Os prazos referidos nos n.os 19.º e 20.º serão calculados a partir da data da aceitação, pelas autoridades aduaneiras, do documento de exportação dos produtos compensadores.
+
+22.º Nos casos em que os produtos compensadores objecto de exportação antecipada devam ser sujeitos a um direito nivelador agrícola ou a outras imposições de que sejam passíveis no âmbito da política agrícola comum ou no do regime específico aplicável, nos termos do artigo 235.º do Tratado que instituiu a Comunidade Económica Europeia, a determinadas mercadorias que resultem da transformação dos produtos agrícolas, se não forem exportados no termo de uma operação de aperfeiçoamento activo, os directores das alfândegas tomarão as medidas cautelares necessárias para garantir a cobrança dessa soma no eventualidade de a importação das mercadorias de importação não se efectuar no prazo fixado.
+
+23.º A importação de mercadorias de importação só pode ser realizada pelo titular da autorização de exportação antecipada ou por sua conta.
+
+24.º O director-geral das Alfândegas pode determinar na autorização que as operações de exportação e de importação sejam efectuadas através da mesma estância aduaneira.
+
+25.º A presente portaria entra em vigor em 1 de Janeiro de 1986.
+
+Secretaria de Estado para os Assuntos Fiscais.
+
+Assinada em 31 de Dezembro de 1985.
+
+O Secretário de Estado para os Assuntos Fiscais, José de Oliveira Costa.
+
+Rubricas para o arroz das subposições 10 06, B, I ou II, da Pauta Aduaneira Comum
+
+I - Arroz «paddy»
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/30110/01830186.pdf)
+
+II - Arroz em película
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/30110/01830186.pdf)
+
+III - Arroz branqueado (ver nota a)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/30110/01830186.pdf)
+
+(nota a) Para o arroz semibranqueado, o comprimento é aumentado de 0,1 mm; a relação/largura não sofre nenhuma mudança.

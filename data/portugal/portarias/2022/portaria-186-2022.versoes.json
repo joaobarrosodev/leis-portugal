@@ -1,0 +1,82 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:186429711:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2022-186408763",
+ "dre_path": "/dr/detalhe/portaria/186-2022-186429711",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2022-07-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "186304270",
+    "186304271",
+    "186304272",
+    "186304273",
+    "186304274",
+    "186489276"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:200474801:por",
+     "title": "Declaração de Retificação n.º 22/2022",
+     "published": "2022-08-31",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/22-2022-200474801",
+     "date": "2022-07-22"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "186304270": {
+   "fragment_id": "186408764",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 186/2022\n\nde 21 de julho\n\nSumário: Aprova alterações ao curso de pós-licenciatura de especialização em Enfermagem de Saúde Infantil e Pediátrica da Escola Superior de Enfermagem da Universidade do Minho, aprovado pela Portaria n.º 157/2019, de 22 de maio.\n\nSob proposta da Universidade do Minho e da sua Escola Superior de Enfermagem;\n\nConsiderando o disposto no Decreto-Lei n.º 353/99, de 3 de setembro;\n\nConsiderando o disposto no Regulamento Geral dos Cursos de Pós-Licenciatura de Especialização em Enfermagem, aprovado pela Portaria n.º 268/2002, de 13 de março;\n\nConsiderando o disposto na Portaria n.º 157/2019, de 22 de maio;\n\nOuvida a Ordem dos Enfermeiros, nos termos do n.º 2 do artigo 7.º do referido Regulamento;\n\nAo abrigo do disposto no artigo 15.º do Decreto-Lei n.º 353/99, de 3 de setembro, e no n.º 1 do artigo 7.º do Regulamento Geral dos Cursos de Pós-Licenciatura de Especialização em Enfermagem, aprovado pela Portaria n.º 268/2002, de 13 de março, manda o Governo, pela Ministra da Ciência, Tecnologia e Ensino Superior, o seguinte:"
+  },
+  "186304271": {
+   "fragment_id": "186408765",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria aprova alterações ao curso de pós-licenciatura de especialização em Enfermagem de Saúde Infantil e Pediátrica da Escola Superior de Enfermagem da Universidade do Minho, aprovado pela Portaria n.º 157/2019, de 22 de maio."
+  },
+  "186304272": {
+   "fragment_id": "186408766",
+   "type": 11,
+   "heading": "Artigo 2.º — Alterações à Portaria n.º 157/2019, de 22 de maio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alterações à Portaria n.º 157/2019, de 22 de maio\n\nO plano de estudos do curso de pós-licenciatura de especialização em Enfermagem de Saúde Infantil e Pediátrica da Escola Superior de Enfermagem da Universidade do Minho, aprovado em anexo à Portaria n.º 157/2019, de 22 de maio, passa a ter a redação constante do anexo à presente portaria, da qual é parte integrante."
+  },
+  "186304273": {
+   "fragment_id": "186408767",
+   "type": 11,
+   "heading": "Artigo 3.º — Regras de transição entre planos de estudo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regras de transição entre planos de estudo\n\nAs regras de transição entre o anterior e o novo plano de estudos são fixadas pelo órgão legal e estatutariamente competente da Escola Superior de Enfermagem da Universidade do Minho."
+  },
+  "186304274": {
+   "fragment_id": "186408768",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor e produção de efeitos\n\n1 - A presente portaria entra em vigor no dia seguinte ao da publicação.\n\n2 - As alterações previstas na presente portaria produzem efeitos a partir do ano letivo de 2021-2022, inclusive."
+  },
+  "186489276": {
+   "fragment_id": "186408770",
+   "type": 14,
+   "heading": "Anexo — Universidade do Minho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Universidade do Minho\n\nEscola Superior de Enfermagem\n\nCurso de Pós-Licenciatura de Especialização em Enfermagem de Saúde Infantil e Pediátrica\n\nCaracterização\n\n1 - Instituição de ensino: Universidade do Minho.\n\n2 - Unidade orgânica: Escola Superior de Enfermagem.\n\n3 - Curso: pós-licenciatura de especialização em Enfermagem de Saúde Infantil e Pediátrica.\n\n4 - Diploma: diploma de especialização em Enfermagem.\n\n5 - Área científica e predominante do curso: Enfermagem.\n\n6 - Número de créditos, segundo o sistema europeu de transferência de créditos, necessário à obtenção do grau ou diploma: 90 ECTS.\n\n7 - Duração normal do curso: três semestres.\n\n8 - Estrutura curricular:\n\nQUADRO N.º 1\n\nEstrutura curricular\n\n(ver documento original)\n\n9 - Plano de estudos:\n\nQUADRO N.º 2\n\n1.º ano/ 1.º semestre\n\n(ver documento original)\n\nQUADRO N.º 3\n\n1.º ano/ 2.º semestre\n\n(ver documento original)\n\nQUADRO N.º 4\n\n2.º ano/1.º semestre\n\n(ver documento original)\n\n115521685"
+  }
+ }
+}

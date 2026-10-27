@@ -1,0 +1,95 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:114384689:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-900792821",
+ "dre_path": "/dr/detalhe/portaria/383-2017-114384689",
+ "source_lastmod": "2024-12-19",
+ "versions": [
+  {
+   "date": "2017-12-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "900786559",
+    "900786560",
+    "900786561",
+    "900786563"
+   ]
+  },
+  {
+   "date": "2024-12-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:900706909:por",
+     "title": "Portaria n.º 346/2024/1",
+     "published": "2024-12-19",
+     "dre_path": "/dr/detalhe/portaria/346-2024-900706909"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "900786559",
+    "900786560",
+    "900786561",
+    "900786562",
+    "900786564"
+   ]
+  }
+ ],
+ "fragments": {
+  "900786559": {
+   "fragment_id": "900792822",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 383/2017\n\nde 20 de dezembro\n\nAs castas aptas à produção do vinho e produtos vínicos com direito às denominações de origem «Porto» e «Douro» constituem um elemento determinante das características qualitativas, em especial as aromáticas, de tais vinhos e produtos vínicos e uma expressão do terroir da Região Demarcada do Douro (RDD).\n\nPretende-se manter a diversidade de castas existentes na RDD uma vez que esta tem contribuído de forma significativa para a distinção dos vinhos desta região demarcada. Simultaneamente reconhecem-se os nomes utilizados para a mesma casta e que são expressão da tradição regional, como é o caso, em especial, da «Tinta Roriz», da «Tinta Amarela», da «Sousão» e da «Códega».\n\nNo que se refere aos vinhos com indicação geográfica «Duriense», de modo a criar condições de inovação e apresentação de novos produtos, passa a ser permitida a sua produção com as castas reconhecidas como aptas à produção de vinho em Portugal, nos termos do disposto na Portaria n.º 380/2012, de 22 de novembro.\n\nAssim:\n\nNos termos do disposto no artigo 6.º do estatuto das denominações de origem e indicação geográfica da Região Demarcada do Douro, aprovado pelo Decreto-Lei n.º 173/2009, de 3 de agosto, alterado pelo Decreto-Lei n.º 77/2013, de 5 de junho, manda o Governo, pelo Ministro da Agricultura, Florestas e Desenvolvimento Rural, o seguinte:"
+  },
+  "900786560": {
+   "fragment_id": "900792823",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs castas aptas à produção de vinho e produtos vínicos com direito às denominações de origem da Região Demarcada do Douro, e a respetiva nomenclatura, são as que constam do anexo à presente portaria, dela fazendo parte integrante."
+  },
+  "900786561": {
+   "fragment_id": "900792824",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara a produção de vinho suscetível de obter a indicação geográfica Duriense poderão ser utilizadas outras castas e respetiva nomenclatura, reconhecidas como aptas à produção de vinho em Portugal, nos termos do disposto na Portaria n.º 380/2012, de 22 de novembro."
+  },
+  "900786563": {
+   "fragment_id": "900792826",
+   "type": 14,
+   "heading": "Anexo — Castas aptas à produção de vinho e produtos vínicos com direito a denominação de origem ou indicação geográfica da Região Demarcada do Douro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Castas aptas à produção de vinho e produtos vínicos com direito a denominação de origem ou indicação geográfica da Região Demarcada do Douro\n\nLista de castas na RDD\n\n(ver documento original)\n\n110992716\n\n> Nota: [Artigo 2.º, Portaria n.º 346/2024/1 - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/346-2024-900706909) Alista de castas é alterada nos seguintes termos: É introduzida na lista de castas aptas à produção de vinhos e produtos vínicos com direito a denominação de origem ou indicação geográfica da Região Demarcada do Douro constante do anexo à Portaria n.º 383/2017, de 20 de dezembro, a casta Moscatel-Galego-Roxo, com o Código PRT54005, com a cor rosé e destinada a vinhos com direito às denominações de origem Porto ou Douro."
+  },
+  "900786562": {
+   "fragment_id": "900792825",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro da Agricultura, Florestas e Desenvolvimento Rural, Luís Medeiros Vieira, Secretário de Estado da Agricultura e Alimentação, em 12 de dezembro de 2017."
+  },
+  "900786564": {
+   "fragment_id": "900792826",
+   "type": 14,
+   "heading": "Anexo — Castas aptas à produção de vinho e produtos vínicos com direito a denominação de origem ou indicação geográfica da Região Demarcada do Douro",
+   "in_force_from": "2024-12-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 346/2024/1 - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/346-2024-900706909), em vigor a partir de 2024-12-20"
+   ],
+   "markdown": "## Anexo — Castas aptas à produção de vinho e produtos vínicos com direito a denominação de origem ou indicação geográfica da Região Demarcada do Douro\n\nLista de castas na RDD\n\n(ver documento original)\n\n110992716\n\n> Nota: [Artigo 2.º, Portaria n.º 346/2024/1 - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/346-2024-900706909) Alista de castas é alterada nos seguintes termos: É introduzida na lista de castas aptas à produção de vinhos e produtos vínicos com direito a denominação de origem ou indicação geográfica da Região Demarcada do Douro constante do anexo à Portaria n.º 383/2017, de 20 de dezembro, a casta Moscatel-Galego-Roxo, com o Código PRT54005, com a cor rosé e destinada a vinhos com direito às denominações de origem Porto ou Douro.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 346/2024/1 - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/346-2024-900706909), em vigor a partir de 2024-12-20"
+  }
+ }
+}

@@ -1,0 +1,377 @@
+---
+schema_version: '1.0'
+id: pt:dre:66379753:por
+title: Decreto-Lei n.º 15/2015
+short_title: null
+summary: Altera os Decretos-Leis n.os 74/2012, de 26 de março, 75/2012, de 26 de março, 66/2010, de 11 de junho, e 104/2010,
+  de 29 de setembro, no sentido de alterar a forma de fixação do período de aplicação das respetivas tarifas transitórias
+  para fornecimentos de gás natural e eletricidade aos clientes finais com consumos anuais inferiores ou iguais a 10 000 m3
+  e com consumos em baixa tensão normal
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente, Ordenamento do Território e Energia
+proposing_entity: null
+official_number: 15/2015
+official_date: null
+publication_date: '2015-01-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 21/2015, Série I de 2015-01-30
+  number: '21'
+  series: I
+  supplement: null
+  pages: 628 - 631
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/01/02100/0062800631.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/15/2015/01/30/p/dre/pt/html
+  oj: null
+  dre: '66379753'
+  dre_path: /dr/detalhe/decreto-lei/15-2015-66379753
+  internal: pt:dre:66379753:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2015-66379753
+  metadata_url: https://data.dre.pt/eli/dec-lei/15/2015/01/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2015-66379753
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:27:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b8ce85e17de58aa9c3ee45c59f6578d4af55e72487ae90311cd12b97e672c5d1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:15Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comércio
+- Contrato de Prestação de Serviços
+- Distribuição de Energia Elétrica
+- Distribuição de Gás
+- Energia Elétrica
+- Gás Natural
+- Informação do Consumidor
+- Preço
+- Sistema Elétrico Nacional
+- Sistema Nacional de Gás Natural
+relationships:
+- type: amended_by
+  target: pt:dre:66868374:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:66868374:por
+  label: Fixada em 31.12.2017 a data de extinção das tarifas transitórias para fornecimentos de gás prevista no n.º 1 do art.
+    4.º do Dec Lei 74/2012, de 26-mar, na redação do presente diploma pelo(a) Portaria n.º 97/2015 - Diário da República n.º
+    62/2015, Série I de 2015-03-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/97-2015-66868374
+  date: '2015-03-30'
+- type: cites
+  target: celex:32003L0055
+  label: null
+  source: http://data.europa.eu/eli/dir/2003/55/oj
+- type: cites
+  target: pt:dre:190603:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/256/2012/11/29/p/dre
+- type: cites
+  target: pt:dre:257005:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/15/2013/01/28/p/dre
+- type: cites
+  target: pt:dre:257008:por
+  label: null
+  source: http://data.dre.pt/eli/lei/9/2013/01/28/p/dre
+- type: cites
+  target: pt:dre:335465:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/66/2010/06/11/p/dre
+- type: cites
+  target: pt:dre:342644:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/104/2010/09/29/p/dre
+- type: cites
+  target: pt:dre:553917:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/74/2012/03/26/p/dre
+- type: cites
+  target: pt:dre:553927:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/75/2012/03/26/p/dre
+- type: cites
+  target: pt:dre:571032:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/13/2014/01/22/p/dre
+- type: cites
+  target: pt:dre:670022:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/77/2011/06/20/p/dre
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:27:15Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 15/2015
+
+de 30 de janeiro
+
+O [Decreto-Lei n.º 74/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2012-553917), de 26 de março, estabelece o regime de extinção das tarifas reguladas de venda de gás natural a clientes finais com consumos anuais inferiores ou iguais a 10 000 m3 e adota mecanismos de salvaguarda dos clientes finais economicamente vulneráveis.
+
+O referido regime determina que, a partir de 1 de julho de 2012 e de 1 de janeiro de 2013, os novos contratos de venda de gás natural a clientes finais com consumos anuais superiores a 500 m3 e inferiores ou iguais a 500 m3, respetivamente, são celebrados em regime de preços livres. Sem prejuízo desta calendarização, os clientes finais economicamente vulneráveis podem optar por ser fornecidos pelo comercializador de último recurso, mantendo ainda o seu direito aos descontos na tarifa legalmente previstos.
+
+A necessidade de assegurar uma transição gradual e informada dos clientes finais com consumos anuais inferiores ou iguais a 10 000 m3 para o mercado livre justificou, no entanto, a consagração de um período transitório, que termina em 31 de dezembro de 2014, para os clientes finais com consumo anual inferior ou igual a 10 000 m3 e superior a 500 m3, e até 31 de dezembro de 2015, para os clientes finais com consumo anual inferior ou igual a 500 m3.
+
+Durante este período, o comercializador de último recurso continua a fornecer gás natural àqueles clientes finais que não exerçam o direito de mudança, mediante a cobrança de tarifas transitórias, fixadas pela Entidade Reguladora dos Serviços Energéticos (ERSE), determinadas pela soma das tarifas de energia, de acesso às redes e de comercialização, acrescidas de um montante resultante da aplicação de um fator de agravamento.
+
+O mencionado fator de agravamento, não aplicável aos clientes finais economicamente vulneráveis, pretende induzir a adesão gradual daqueles clientes às formas de contratação disponíveis no mercado, repercutindo-se a sua receita a favor dos consumidores de gás natural através da tarifa de uso global do sistema, em termos a regular pela ERSE.
+
+Por sua vez, o [Decreto-Lei n.º 75/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2012-553927), de 26 de março, veio estabelecer, em termos semelhantes aos acima descritos, o regime de extinção das tarifas reguladas de venda de eletricidade a clientes finais com consumos em baixa tensão normal (BTN), adotando ainda mecanismos de salvaguarda dos clientes finais economicamente vulneráveis, nomeadamente no que respeita ao relacionamento comercial e às tarifas e preços.
+
+Apesar da determinação da extinção das tarifas reguladas de venda de eletricidade a clientes finais com consumos em BTN, a partir de 1 de julho de 2012, para os clientes com potência contratada superior ou igual a 10,35 kVA, e a partir de 1 de janeiro de 2013, para os clientes com potência contratada inferior a 10,35 kVA, também neste nível de tensão foi definido um período de aplicação de tarifas transitórias, a terminar em 31 de dezembro de 2014 e 31 de dezembro de 2015, respetivamente.
+
+Neste contexto, e estimando a ERSE que cerca de 50 % dos clientes finais com consumos de gás natural anuais inferiores ou iguais a 10 000 m3 e dos clientes finais de eletricidade fornecidos em BTN não transitaram ainda para o mercado liberalizado, importa assegurar que a sua adesão a este ocorre de forma adequada, adiando a extinção do período das respetivas tarifas transitórias para data a definir mediante portaria do membro do Governo responsável pela área da energia, à semelhança da solução implementada para a extinção das tarifas transitórias para fornecimentos de gás natural aos clientes finais com consumos anuais superiores a 10 000 m3 e de eletricidade aos clientes finais com consumos em alta tensão (AT), média tensão (MT) e baixa tensão especial (BTE).
+
+Por outro lado, consagra-se a proibição de indexação do preço dos contratos de fornecimento de gás natural e eletricidade celebrados em mercado livre à variação das tarifas transitórias. Com efeito, estas tarifas, que pretendem incentivar a adesão dos clientes finais a formas de contratação oferecidas em mercado, não traduzem os custos da atividade dos comercializadores a operar no mercado liberalizado, pelo que não deve o respetivo preço traduzir a variação daquelas tarifas transitórias.
+
+Finalmente, procede-se ainda à alteração ao [Decreto-Lei n.º 66/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2010-335465), de 11 de junho, alterado pelos [Decretos-Leis n.os 77/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022), de 20 de junho, [74/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2012-553917), de 26 de março, e [15/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2013-257005), de 28 de janeiro, e do [Decreto-Lei n.º 104/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2010-342644), de 29 de setembro, alterado pelos [Decretos-Leis n.os 75/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2012-553927), de 26 de março, [256/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2012-190603), de 29 de novembro, e [13/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2014-571032), de 22 de janeiro, no sentido de uniformizar o mecanismo de fixação do fator de agravamento previsto para os períodos de aplicação de tarifas transitórias a clientes finais com consumos anuais de gás natural superiores a 10 000 m3, e de eletricidade em AT, MT e BTE, face à alteração ora introduzida no [Decreto-Lei n.º 74/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2012-553917), de 26 de março, e no [Decreto-Lei n.º 75/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2012-553927), de 26 de março.
+
+Foi ouvida a Entidade Reguladora dos Serviços Energéticos.
+
+Foi promovida a audição ao Conselho Nacional do Consumo.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - O presente decreto-lei procede à primeira alteração ao [Decreto-Lei n.º 74/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2012-553917), de 26 de março, que estabelece o regime de extinção das tarifas reguladas de venda de gás natural a clientes finais com consumos anuais inferiores ou iguais a 10 000 m3 e adota mecanismos de salvaguarda dos clientes finais economicamente vulneráveis, e à primeira alteração ao [Decreto-Lei n.º 75/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2012-553927), de 26 de março, que estabelece o regime de extinção das tarifas reguladas de venda de eletricidade a clientes finais com consumos em baixa tensão normal e adota mecanismos de salvaguarda dos clientes finais economicamente vulneráveis, no sentido de alterar a forma de fixação do período de aplicação das respetivas tarifas transitórias para fornecimentos de gás natural e eletricidade aos clientes finais com consumos em baixa pressão e em baixa tensão normal, respetivamente.
+
+2 - O presente decreto-lei procede ainda:
+
+a) À quarta alteração ao [Decreto-Lei n.º 66/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2010-335465), de 11 de junho, alterado pelos [Decretos-Leis n.os 77/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022), de 20 de junho, [74/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2012-553917), de 26 de março, e [15/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2013-257005), de 28 de janeiro, que estabelece o procedimento aplicável à extinção das tarifas reguladas de venda de gás natural a clientes finais com consumos anuais superiores a 10 000 m3; e
+
+b) À quarta alteração ao [Decreto-Lei n.º 104/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2010-342644), de 29 de setembro, alterado pelos [Decretos-Leis n.os 75/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2012-553927), de 26 de março, [256/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2012-190603), de 29 de novembro, e [13/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2014-571032), de 22 de janeiro, que estabelece o procedimento aplicável à extinção das tarifas reguladas de venda de eletricidade a clientes finais, no continente, com consumos em muita alta tensão, alta tensão, média tensão e baixa tensão especial.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 74/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2012-553917), de 26 de março
+
+Os artigos 4.º e 6.º do [Decreto-Lei n.º 74/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2012-553917), de 26 de março, passam a ter a seguinte redação:
+
+«Artigo 4.º
+
+[...]
+
+1 - Sem prejuízo da extinção das tarifas reguladas nos termos e nas datas previstas no artigo 2.º, os comercializadores de último recurso devem continuar a fornecer gás natural a clientes finais com consumos anuais inferiores ou iguais a 10 000 m3 que não exerçam o direito de mudança para um comercializador de mercado livre, até data a definir mediante portaria do membro do Governo responsável pela área da energia, ouvida a ERSE.
+
+2 - Na situação referida no número anterior é aplicada uma tarifa de venda transitória, fixada pela ERSE, determinada pela soma das tarifas de energia, de acesso às redes e de comercialização, sobre as quais se aplica um fator de agravamento, o qual visa induzir a adesão gradual às formas de contratação oferecidas no mercado.
+
+3 - O membro do Governo responsável pela área da energia, ouvida a ERSE, estabelece, através de portaria, o mecanismo de determinação do fator de agravamento referido no número anterior.
+
+4 - O mecanismo referido no número anterior deve obedecer a princípios de transparência das regras aplicáveis, clareza da sua aplicação, direito no acesso à informação, igualdade de tratamento e de oportunidades, racionalidade e eficiência e ter em consideração a transição verificada no número de clientes do mercado regulado para o mercado livre.
+
+5 - Os comercializadores em mercado livre não podem indexar o preço do contrato à tarifa transitória de venda a clientes finais, devendo aquele refletir os custos efetivos do fornecimento.
+
+6 - Os comercializadores em mercado livre não podem rever, em função das variações verificadas na aplicação do mecanismo previsto no presente artigo, o preço do contrato por aplicação de regras ou cláusulas de indexação, sob pena da nulidade da cláusula que o previr.
+
+7 - A receita proveniente do fator de agravamento referido no n.º 2 é repercutida a favor dos consumidores de gás natural através da tarifa de uso global do sistema, em termos a regular pela ERSE.
+
+8 - Às tarifas aplicáveis pelos comercializadores de último recurso aos clientes finais economicamente vulneráveis não é adicionado o montante resultante da aplicação do fator de agravamento referido no n.º 2.
+
+Artigo 6.º
+
+[...]
+
+1 - [...].
+
+2 - [...]:
+
+a) [...]
+
+b) Alertar os clientes do escalão de consumo abrangido para o processo de extinção das respetivas tarifas, nos termos definidos em regulamentação da ERSE.
+
+c) [...].
+
+3 - [...].»
+
+###### Artigo 3.º — Alteração ao [Decreto-Lei n.º 75/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2012-553927), de 26 de março
+
+Os artigos 4.º e 6.º do [Decreto-Lei n.º 75/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2012-553927), de 26 de março, passam a ter a seguinte redação:
+
+«Artigo 4.º
+
+[...]
+
+1 - Sem prejuízo da extinção antecipada das tarifas reguladas nos termos e nas datas previstas no artigo 2.º, os comercializadores de último recurso devem continuar a fornecer eletricidade a clientes finais com consumos em BTN que não exerçam o direito de mudança para um comercializador de mercado livre, até data a definir mediante portaria do membro do Governo responsável pela área da energia, ouvida a ERSE.
+
+2 - Na situação referida no número anterior é aplicada uma tarifa de venda transitória, fixada pela ERSE, determinada pela soma das tarifas de energia, de acesso às redes e de comercialização, sobre as quais se aplica um fator de agravamento, o qual visa induzir a adesão gradual às formas de contratação oferecidas no mercado.
+
+3 - O membro do Governo responsável pela área da energia, ouvida a ERSE, estabelece, através de portaria, o mecanismo de determinação do fator de agravamento referido no número anterior.
+
+4 - O mecanismo referido no número anterior deve obedecer a princípios de transparência das regras aplicáveis, clareza da sua aplicação, direito no acesso à informação, igualdade de tratamento e de oportunidades, racionalidade e eficiência e ter em consideração a transição verificada no número de clientes do mercado regulado para o mercado livre.
+
+5 - Os comercializadores em mercado livre não podem indexar o preço do contrato à tarifa transitória de venda a clientes finais, devendo aquele refletir os custos efetivos do fornecimento.
+
+6 - Os comercializadores em mercado livre não podem rever, em função das variações verificadas na aplicação do mecanismo previsto no presente artigo, o preço do contrato por aplicação de regras ou cláusulas de indexação, sob pena da nulidade da cláusula que o previr.
+
+7 - A receita proveniente do fator de agravamento referido no n.º 2 é repercutida a favor dos consumidores de eletricidade através da tarifa de uso global do sistema, em termos a regular pela ERSE.
+
+8 - Às tarifas aplicáveis pelos comercializadores de último recurso aos clientes finais economicamente vulneráveis não é adicionado o montante resultante da aplicação do fator de agravamento referido no n.º 2.
+
+Artigo 6.º
+
+[...]
+
+1 - [...].
+
+2 - [...]:
+
+a) [...]
+
+b) Alertar, os clientes da potência contratada abrangida para o processo de extinção das respetivas tarifas, nos termos definidos em regulamentação da ERSE.
+
+c) [...].
+
+3 - [...].»
+
+###### Artigo 4.º — Alteração ao [Decreto-Lei n.º 66/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2010-335465), de 11 de junho
+
+O artigo 5.º do [Decreto-Lei n.º 66/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2010-335465), de 11 de junho, alterado pelos [Decretos-Leis n.os 77/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022), de 20 de junho, [74/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2012-553917), de 26 de março, e [15/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2013-257005), de 28 de janeiro, passa a ter a seguinte redação:
+
+«Artigo 5.º
+
+[...]
+
+1 - [...].
+
+2 - Na situação referida no número anterior é aplicada uma tarifa transitória de venda, fixada pela ERSE, a qual é determinada pela soma das tarifas de energia, de acesso às redes e de comercialização, sobre as quais se aplica um fator de agravamento, que se destina a induzir a adesão gradual às formas de contratação oferecidas em mercado.
+
+3 - A tarifa de energia referida no número anterior reflete o custo médio das quantidades de gás natural no âmbito dos contratos de take or pay celebrados antes da entrada em vigor da [Diretiva n.º 2003/55/CE](https://data.europa.eu/eli/dir/2003/55/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2003.
+
+4 - O membro do Governo responsável pela área da energia, ouvida a ERSE, estabelece, através de portaria, o mecanismo de determinação do fator de agravamento referido no n.º 2.
+
+5 - A evolução estabelecida no n.º 3 deve ser determinada no âmbito do processo de fixação de tarifas reguladas pela ERSE.
+
+6 - O mecanismo referido no n.º 4 deve obedecer a princípios de transparência das regras aplicáveis, clareza da sua aplicação, direito no acesso à informação, igualdade de tratamento e de oportunidades, racionalidade e eficiência e ter em consideração a transição verificada no número de clientes do mercado regulado para o mercado livre.»
+
+###### Artigo 5.º — Alteração ao [Decreto-Lei n.º 104/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2010-342644), de 29 de setembro
+
+O artigo 6.º do [Decreto-Lei n.º 104/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2010-342644), de 29 de setembro, alterado pelos [Decretos-Leis n.os 75/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2012-553927), de 26 de março, [256/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2012-190603), de 29 de novembro, e [13/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2014-571032), de 22 de janeiro, passa a ter a seguinte redação:
+
+«Artigo 6.º
+
+[...]
+
+1 - [...].
+
+2 - Na situação referida no número anterior é aplicada uma tarifa de venda transitória, fixada pela ERSE, determinada pela soma das tarifas de energia, comercialização e acesso às redes, sobre as quais se aplica um fator de agravamento, o qual visa induzir a adesão gradual às formas de contratação oferecidas no mercado.
+
+3 - O membro do Governo responsável pela área da energia, ouvida a ERSE, estabelece, através de portaria, o mecanismo de determinação do fator de agravamento referido no número anterior.
+
+4 - O mecanismo referido no número anterior deve obedecer a princípios de transparência das regras aplicáveis, clareza da sua aplicação, direito no acesso à informação, igualdade de tratamento e de oportunidades, racionalidade e eficiência e ter em consideração a transição verificada no número de clientes do mercado regulado para o mercado livre.
+
+5 - [Revogado].»
+
+###### Artigo 6.º — Aditamento ao [Decreto-Lei n.º 74/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2012-553917), de 26 de março
+
+É aditado ao [Decreto-Lei n.º 74/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2012-553917), de 26 de março, o artigo 4.º-A, com a seguinte redação:
+
+«Artigo 4.º-A
+
+Regime sancionatório
+
+1 - Constitui contraordenação leve, punível nos termos do disposto do artigo 2.º, na alínea j) do n.º 3 do artigo 29.º, e no n.º 4 do artigo 32.º da [Lei n.º 9/2013](https://diariodarepublica.pt/dr/detalhe/lei/9-2013-257008), de 28 de janeiro, a indexação, pelos comercializadores em mercado livre, do preço do contrato de fornecimento à tarifa transitória de venda a clientes finais, bem como a revisão, pelos mesmos agentes, do preço do contrato de fornecimento em função das variações verificadas na aplicação do mecanismo previsto no artigo anterior, através de regras ou cláusulas de indexação, em derrogação do disposto nos n.os 5 e 6 do artigo anterior.
+
+2 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.
+
+3 - A tentativa é punível com a coima aplicável à contraordenação consumada especialmente atenuada.
+
+4 - Os processos de contraordenação previstos no presente decreto-lei são instruídos pela ERSE, aplicando-se, subsidiariamente, o disposto na [Lei n.º 9/2013](https://diariodarepublica.pt/dr/detalhe/lei/9-2013-257008), de 28 de janeiro, que aprova o regime sancionatório do setor energético.
+
+5 - O produto da aplicação das coimas reverte a favor das seguintes entidades:
+
+a) 60 % para o Estado;
+
+b) 40 % para a ERSE.»
+
+###### Artigo 7.º — Aditamento ao [Decreto-Lei n.º 75/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2012-553927), de 26 de março
+
+É aditado ao [Decreto-Lei n.º 75/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2012-553927), de 26 de março, o artigo 4.º-A, com a seguinte redação:
+
+«Artigo 4.º-A
+
+Regime sancionatório
+
+1 - Constitui contraordenação leve, punível nos termos do disposto do artigo 2.º, na alínea j) do n.º 3 do artigo 28.º, e no n.º 4 do artigo 32.º da [Lei n.º 9/2013](https://diariodarepublica.pt/dr/detalhe/lei/9-2013-257008), de 28 de janeiro, a indexação, pelos comercializadores em mercado livre, do preço do contrato de fornecimento à tarifa transitória de venda a clientes finais, bem como a revisão, pelos mesmos agentes, do preço do contrato de fornecimento em função das variações verificadas na aplicação do mecanismo previsto no artigo anterior, através de regras ou cláusulas de indexação, em derrogação do disposto nos n.os 5 e 6 do artigo anterior.
+
+2 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.
+
+3 - A tentativa é punível com a coima aplicável à contraordenação consumada especialmente atenuada.
+
+4 - Os processos de contraordenação previstos no presente decreto-lei são instruídos pela ERSE, aplicando-se, subsidiariamente, o disposto na [Lei n.º 9/2013](https://diariodarepublica.pt/dr/detalhe/lei/9-2013-257008), de 28 de janeiro, que aprova o regime sancionatório do setor energético.
+
+5 - O produto da aplicação das coimas reverte a favor das seguintes entidades:
+
+a) 60 % para o Estado;
+
+b) 40 % para a ERSE.»
+
+###### Artigo 8.º — Norma revogatória
+
+São revogados:
+
+a) Os n.os 3 e 5 do artigo 5.º do [Decreto-Lei n.º 66/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2010-335465), de 11 de junho, alterado pelos [Decretos-Leis n.os 77/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022), de 20 de junho, [74/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2012-553917), de 26 de março, e [15/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2013-257005), de 28 de janeiro;
+
+b) O n.º 5 do artigo 6.º do [Decreto-Lei n.º 104/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2010-342644), de 29 de setembro, alterado pelos [Decretos-Leis n.os 75/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2012-553927), de 26 de março, [256/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2012-190603), de 29 de novembro, e [13/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2014-571032), de 22 de janeiro.
+
+###### Artigo 9.º — Disposição transitória
+
+Os comercializadores em mercado livre cuja informação contratual e respetivos contratos de fornecimento prevejam cláusulas contrárias ao disposto nos n.os 5 e 6 do artigo 4.º do [Decreto-Lei n.º 74/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2012-553917), de 26 de março, na redação dada pelo presente decreto-lei, e nos n.os 5 e 6 do artigo 4.º do [Decreto-Lei n.º 75/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2012-553927), de 26 de março, na redação dada pelo presente decreto-lei, devem proceder à sua adaptação, nos termos dos referidos artigos, no prazo máximo de seis meses contados da produção de efeitos do presente decreto-lei.
+
+###### Artigo 10.º — Entrada em vigor e produção de efeitos
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e reporta os seus efeitos a 1 de janeiro de 2015.
+
+Visto e aprovado em Conselho de Ministros de 18 de dezembro de 2014. - Maria Luís Casanova Morgado Dias de Albuquerque - Maria Luís Casanova Morgado Dias de Albuquerque - Jorge Manuel Lopes Moreira da Silva.
+
+Promulgado em 22 de janeiro de 2015.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 26 de janeiro de 2015.
+
+O Primeiro-Ministro, Pedro Passos Coelho.

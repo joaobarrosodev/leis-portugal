@@ -1,0 +1,160 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32005L0026:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005L0026-20071126",
+ "dre_path": null,
+ "source_lastmod": "2007-11-26",
+ "versions": [
+  {
+   "date": "2005-03-22",
+   "future": false,
+   "celex": "32005L0026",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "dac299b1909a345a",
+    "1dbcdbe0e9a711d0",
+    "3c586326dd598a41",
+    "643baba95d6795b8",
+    "ae4ba3d3ecbbb0a1",
+    "63ad7f342ef18344"
+   ]
+  },
+  {
+   "date": "2005-10-05",
+   "future": false,
+   "celex": "02005L0026-20051005",
+   "acts": [
+    {
+     "id": "eu:celex:32005L0063:por",
+     "title": "DIRECTIVA 2005/63/CE DA COMISSÃO Texto relevante para efeitos do EEE de 3 de Outubro de 2005",
+     "published": null,
+     "celex": "32005L0063"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º",
+    "Altera Notas",
+    "Adita ANEXO"
+   ],
+   "fragments": [
+    "8a3ea387c90cc230",
+    "1dbcdbe0e9a711d0",
+    "3c586326dd598a41",
+    "643baba95d6795b8",
+    "5c8b3cd719ea97c8",
+    "116f346f575ce9bd",
+    "15ab9ecdc61e9065"
+   ]
+  },
+  {
+   "date": "2007-11-26",
+   "future": false,
+   "celex": "02005L0026-20071126",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime ANEXO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "b6bcf760f945e9d5"
+   ]
+  }
+ ],
+ "fragments": {
+  "dac299b1909a345a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Março de 2005\n\nque estabelece uma lista de ingredientes e substâncias alimentares provisoriamente excluídos do anexo III A da Directiva 2000/13/CE\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2000/13/CE do Parlamento Europeu e do Conselho, de 20 de Março de 2000, relativa à aproximação das legislações dos Estados-Membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios [([^1])](http://publications.europa.eu/resource/cellar/921e1064-6246-4bd5-be43-6f6a47ad5773.0016.03/DOC_1#ntr1-L_2005075PT.01003301-E0001), nomeadamente o n.º 11, segundo parágrafo, do artigo 6.º,\n\nConsiderando o seguinte:\n\n(1) O anexo III A da Directiva 2000/13/CE estabelece uma lista de ingredientes alimentares a indicar no rótulo visto que podem potencialmente provocar reacções indesejáveis em indivíduos sensíveis.\n\n(2) Em conformidade com a Directiva 2000/13/CE, a Comissão pode excluir provisoriamente do anexo III A da referida directiva determinados ingredientes ou produtos derivados desses ingredientes, enquanto os produtores ou respectivas associações realizam estudos científicos com vista a determinar se esses ingredientes ou produtos cumprem as condições necessárias para uma exclusão definitiva desse anexo.\n\n(3) A Comissão recebeu 27 pedidos relativamente a 34 ingredientes ou produtos deles derivados, 32 dos quais são abrangidos pelo âmbito de aplicação da presente directiva, tendo sido apresentados à Autoridade Europeia para a Segurança dos Alimentos (AESA) com vista à obtenção do seu parecer científico.\n\n(4) Com base nas informações fornecidas pelos requerentes bem como noutras informações disponíveis, a AESA considerou que determinados produtos derivados de ingredientes não são susceptíveis, ou não são muito susceptíveis, de provocar reacções indesejáveis em indivíduos sensíveis. Em determinados casos, a AESA não se encontra em condições de emitir conclusões sólidas, dado não se terem mencionado casos confirmados.\n\n(5) Os produtos ou ingredientes que cumprem estas condições devem pois ser provisoriamente excluídos do anexo III A da Directiva 2000/13/CE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "1dbcdbe0e9a711d0": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs ingredientes ou substâncias enumerados no anexo da presente directiva são excluídos do anexo III A da Directiva 2000/13/CE até 25 de Novembro de 2007."
+  },
+  "3c586326dd598a41": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros adoptarão e publicarão, o mais tardar em 21 de Setembro de 2005, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Os Estados-Membros comunicarão imediatamente à Comissão o texto das referidas disposições bem como um quadro de correspondência entre essas disposições e a presente directiva.\n\nOs Estados-Membros aplicarão tais disposições a partir de 25 de Novembro de 2005.\n\nAs disposições adoptadas pelos Estados-Membros devem fazer referência à presente directiva ou ser acompanhadas da referida referência aquando da sua publicação oficial. As modalidades daquela referência incumbem aos Estados-Membros.\n\n2. Os Estados-Membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem no domínio abrangido pela presente directiva."
+  },
+  "643baba95d6795b8": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "ae4ba3d3ecbbb0a1": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 21 de Março de 2005.\n\n***Pela Comissão***\n\n**Markos KYPRIANOU**\n\n***Membro da Comissão***\n\n---"
+  },
+  "63ad7f342ef18344": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/921e1064-6246-4bd5-be43-6f6a47ad5773.0016.03/DOC_1#ntc1-L_2005075PT.01003301-E0001) [JO L 109 de 6.5.2000, p. 29](http://publications.europa.eu/resource/oj/JOL_2000_109_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2003/89/CE ([JO L 308 de 25.11.2003, p. 15](http://publications.europa.eu/resource/oj/JOL_2003_308_R_TOC))."
+  },
+  "8a3ea387c90cc230": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Março de 2005\n\nque estabelece uma lista de ingredientes e substâncias alimentares provisoriamente excluídos do anexo III A da Directiva 2000/13/CE\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2000/13/CE do Parlamento Europeu e do Conselho, de 20 de Março de 2000, relativa à aproximação das legislações dos Estados-Membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios ([^1^](http://publications.europa.eu/resource/cellar/3e5f9302-dd73-4a9a-80fe-3b37a1842664.0016.03/DOC_1#E0001)), nomeadamente o n.º 11, segundo parágrafo, do artigo 6.º,\n\n(1) O anexo III A da Directiva 2000/13/CE estabelece uma lista de ingredientes alimentares a indicar no rótulo visto que podem potencialmente provocar reacções indesejáveis em indivíduos sensíveis.\n\n(2) Em conformidade com a Directiva 2000/13/CE, a Comissão pode excluir provisoriamente do anexo III A da referida directiva determinados ingredientes ou produtos derivados desses ingredientes, enquanto os produtores ou respectivas associações realizam estudos científicos com vista a determinar se esses ingredientes ou produtos cumprem as condições necessárias para uma exclusão definitiva desse anexo.\n\n(3) A Comissão recebeu 27 pedidos relativamente a 34 ingredientes ou produtos deles derivados, 32 dos quais são abrangidos pelo âmbito de aplicação da presente directiva, tendo sido apresentados à Autoridade Europeia para a Segurança dos Alimentos (AESA) com vista à obtenção do seu parecer científico.\n\n(4) Com base nas informações fornecidas pelos requerentes bem como noutras informações disponíveis, a AESA considerou que determinados produtos derivados de ingredientes não são susceptíveis, ou não são muito susceptíveis, de provocar reacções indesejáveis em indivíduos sensíveis. Em determinados casos, a AESA não se encontra em condições de emitir conclusões sólidas, dado não se terem mencionado casos confirmados.\n\n(5) Os produtos ou ingredientes que cumprem estas condições devem pois ser provisoriamente excluídos do anexo III A da Directiva 2000/13/CE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "5c8b3cd719ea97c8": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "116f346f575ce9bd": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n| Ingredientes | Produtos derivados desses ingredientes provisoriamente excluídos |\n| --- | --- |\n| Cereais que contêm glúten | — Xaropes de glicose, incluindo dextrose, à base de trigo [(^1^)](http://publications.europa.eu/resource/cellar/3e5f9302-dd73-4a9a-80fe-3b37a1842664.0016.03/DOC_1#E0002) — Maltodextrinas à base de trigo [(^1^)](http://publications.europa.eu/resource/cellar/3e5f9302-dd73-4a9a-80fe-3b37a1842664.0016.03/DOC_1#E0002) — Xaropes de glicose à base de cevada — Cereais usados na destilação de bebidas espirituosas |\n| Ovos | — Lisozima (produzida a partir de ovo) utilizada no vinho — Albumina (produzida a partir de ovo) utilizada como clarificante do vinho e da cidra |\n| Peixe | — [**►M1**](http://publications.europa.eu/resource/celex/32005L0063) Gelatina de peixe usada como agente de transporte de vitaminas ou de carotenóides e aromatizantes**◄** — Gelatina de peixe ou ictiocola usada como clarificante da cerveja, da cidra e do vinho |\n| Soja | — Óleo e gordura de soja totalmente refinados [(^1^)](http://publications.europa.eu/resource/cellar/3e5f9302-dd73-4a9a-80fe-3b37a1842664.0016.03/DOC_1#E0002) — Tocoferóis mistos naturais (E 306), D-alfa-tocoferol natural, acetato de D-alfa-tocoferol natural, succinato de D-alfa-tocoferol natural derivados de soja — Fitoesteróis e ésteres de fitoesterol derivados de óleos vegetais produzidos a partir de soja — Éster de fitoestanol derivado de esteróis de óleo vegetal produzido a partir de soja |\n| Leite | — Soro de leite usado na destilação de bebidas espirituosas — Lactitol — Produtos lácteos (caseína) usados como clarificantes do vinho e da cidra |\n| Frutos de casca rija | — Frutos de casca rija usados na destilação de bebidas espirituosas — Frutos de casca rija (amêndoas, nozes) usados (como aromatizantes) em bebidas espirituosas |\n| Aipo | — Óleo de folhas e de sementes de aipo — Oleorresina de sementes de aipo |\n| Mostarda | — Óleo de mostarda — Óleo de sementes de mostarda — Oleorresina de sementes de mostarda. |\n| (^1^)E respectivos produtos, desde que o processo a que tenham sido submetidos não seja susceptível de aumentar o nível de alergenicidade avaliado pela AESA relativamente ao produto a partir do qual foram produzidos. |  |\n\n---"
+  },
+  "15ab9ecdc61e9065": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/3e5f9302-dd73-4a9a-80fe-3b37a1842664.0016.03/DOC_1#src.E0001)) JO L 109 de 6.5.2000, p. 29. Directiva com a última redacção que lhe foi dada pela Directiva 2003/89/CE (JO L 308 de 25.11.2003, p. 15)."
+  },
+  "b6bcf760f945e9d5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2005L0026 — PT — 26.11.2007 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32005L0026) [DIRECTIVA 2005/26/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/32005L0026) [de 21 de Março de 2005](http://publications.europa.eu/resource/celex/32005L0026) [que estabelece uma lista de ingredientes e substâncias alimentares provisoriamente excluídos do anexo III A da Directiva 2000/13/CE](http://publications.europa.eu/resource/celex/32005L0026) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32005L0026) (JO L 075, 22.3.2005, p.33)\n\n**revogado por:**\n\n- [Directiva 2007/68/CE da Comissão de 27 de Novembro de 2007](http://publications.europa.eu/resource/celex/32007L0068) — L 310 — 11 — 28.11.2007"
+  }
+ }
+}

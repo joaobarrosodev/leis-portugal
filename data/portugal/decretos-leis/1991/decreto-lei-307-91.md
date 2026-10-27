@@ -1,0 +1,268 @@
+---
+schema_version: '1.0'
+id: pt:dre:674437:por
+title: Decreto-Lei n.º 307/91
+short_title: null
+summary: Procede ao desbloqueamento de escalões do regime remuneratório aplicável aos militares. Revoga um artigo do Decreto-Lei
+  n.º 57/90, de 14 de Fevereiro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 307/91
+official_date: null
+publication_date: '1991-08-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 188/1991, Série I-A de 1991-08-17
+  number: '188'
+  series: I
+  supplement: null
+  pages: 4209 - 4212
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/08/188a00/42094212.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/307/1991/08/17/p/dre/pt/html
+  oj: null
+  dre: '674437'
+  dre_path: /dr/detalhe/decreto-lei/307-1991-674437
+  internal: pt:dre:674437:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1991-674437
+  metadata_url: https://data.dre.pt/eli/dec-lei/307/1991/08/17/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1991-674437
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:10:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1d55bdd5d519a2d9b30141c4bd6c43231863540607955faba1cb6e80069643bd
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:10:57Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carreira Militar
+- Forças Armadas
+- Militar
+- Política Salarial
+- Remuneração
+- Reserva
+- Sistema Retributivo
+relationships:
+- type: amended_by
+  target: pt:dre:434415:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:515599:por
+  label: "Alterada a estrutura indiciária a que se refere o n.º 1 do artigo 9.º, pelo DEC LEI.98/92.28.05.1992.MDN, DR.IS-A\
+    \ [123] de 28.05.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-1992-515599
+  date: '1992-05-28'
+- type: cites
+  target: pt:dre:334625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626423:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:434415:por
+  label: "Revogado pelo DEC LEI.328/99.1999.08.18.MDN, DR.IS-A [192]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/328-1999-434415
+  date: '1999-08-18'
+article_structure:
+  article_count: 17
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:10:57Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 307/91
+
+de 17 de Agosto
+
+O presente decreto-lei visa dar execução à segunda fase do processo de desbloqueamento de escalões previsto na alínea b) do n.º 2 do artigo 24.º do [Decreto-Lei n.º 57/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1990-334625), de 14 de Fevereiro, estabelecendo as respectivas regras transitórias de progressão.
+
+O presente diploma introduz também algumas alterações na grelha indiciária que permitam corrigir e evitar distorções na hierarquia remuneratória com prejuízo da funcional e que resultam, essencialmente, da proximidade e sobreposição de índices comuns a diversos postos cujas modalidades estatutárias da promoção não aconselham que se mantenham.
+
+Nas alterações introduzidas na estrutura indiciária são eliminados alguns escalões que, por conjugação com as disposições do Estatuto dos Militares das Forças Armadas, aprovado pelo [Decreto-Lei n.º 34-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-a-1990-626423), de 24 de Janeiro, constituem conjuntos vazios no processo de promoção e apenas serviram na fase de integração à semelhança do escalão zero do regime geral, resultando, portanto, sem qualquer aplicabilidade futura, introduzindo, em consequência, algumas alterações ao processamento dos efeitos da promoção na estrutura remuneratória.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pelos Decretos-Leis n.os [184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807) e [57/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1990-334625), de 2 de Junho e de 14 de Fevereiro, respectivamente, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma estabelece as regras do segundo desbloqueamento de escalões, em conformidade com o disposto na alínea b) do n.º 2 do artigo 24.º do [Decreto-Lei n.º 57/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1990-334625), de 14 de Fevereiro, e introduz alguns ajustamentos ao sistema retributivo dos militares.
+
+###### Artigo 2.º — Âmbito
+
+1 - O disposto no presente diploma aplica-se aos militares do activo e da reserva abrangidos pelos n.os 1 do artigo 1.º, 2 e 3 do artigo 14.º e 6 do artigo 15.º e pelo artigo 27.º do [Decreto-Lei n.º 57/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1990-334625), de 14 de Fevereiro.
+
+2 - O disposto no presente diploma aplica-se também aos aspirantes a oficial e cadetes dos estabelecimentos militares de ensino superior e aos alunos das escolas de formação de sargentos e praças destinados aos quadros permanentes.
+
+###### Artigo 3.º — Desbloqueamento de escalões
+
+1 - Ficam desbloqueados, desde 1 de Janeiro de 1991, os dois escalões subsequentes aos já desbloqueados pelo [Decreto-Lei n.º 408/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1990-543708), de 31 de Dezembro, que, em conjugação com estes e sempre com referência ao escalão de integração, deverão obedecer às seguintes regras de progressão:
+
+a) Progride um escalão o militar que possua 3 ou mais anos de permanência no posto e menos de 8;
+
+b) Progride dois escalões o militar que possua 8 ou mais anos de permanência no posto e menos de 11;
+
+c) Progride três escalões o militar que possua 11 ou mais anos de permanência no posto e menos de 14;
+
+d) Progride quatro escalões o militar que possua 14 ou mais anos de permanência no posto.
+
+2 - O tempo de permanência no posto é contado nos termos dos artigos 50.º e 49.º do Estatuto dos Militares das Forças Armadas (EMFAR), aprovado pelo [Decreto-Lei n.º 34-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-a-1990-626423), de 24 de Janeiro, não sendo contável o tempo em que o militar se encontre fora da efectividade de serviço.
+
+3 - A progressão tem como limite o último escalão do posto respectivo constante dos anexos ao [Decreto-Lei n.º 57/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1990-334625), de 14 de Fevereiro, não podendo, em caso algum, consubstanciar uma progressão superior a dois escalões no presente desbloqueamento.
+
+###### Artigo 4.º — Aspectos processuais
+
+1 - O cálculo do tempo de permanência no posto, para efeitos de progressão, é referido a anos inteiros seguidos ou interpolados.
+
+2 - Compete aos ramos das Forças Armadas promover a elaboração e publicação das listas dos militares que, em 31 de Dezembro de 1990 e nos meses subsequentes, satisfaçam os requisitos necessários à integração nos escalões desbloqueados.
+
+3 - O direito à remuneração pelos novos escalões verifica-se no dia 1 do mês seguinte ao do preenchimento dos requisitos referidos no número anterior, dependendo o processamento dos abonos da publicação prevista no mesmo número.
+
+###### Artigo 5.º — Regularização de integrações
+
+Continuam a ter aplicação as disposições do artigo 6.º do [Decreto-Lei n.º 408/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1990-543708), de 31 de Dezembro, conjugadas com as regras do presente diploma.
+
+###### Artigo 6.º — Regime da promoção
+
+A promoção do militar, regulada de harmonia com as disposições estatutárias aplicáveis, processa-se, na estrutura remuneratória, para o escalão 1 do posto a que é promovido.
+
+###### Artigo 7.º — Salvaguarda de direitos
+
+1 - Se o militar promovido já vier auferindo remuneração igual ou superior à que compete ao posto e escalão referidos no artigo anterior, tem direito ao abono de um diferencial que garanta um impulso de cinco pontos em função do índice de referência.
+
+2 - O diferencial referido no número anterior evoluirá nas promoções e ou progressões subsequentes, sendo que, por cada uma delas, até à sua total absorção, é devido sempre um impulso de cinco pontos.
+
+3 - O diferencial a que se referem os números anteriores é considerado no cálculo dos subsídios de férias e de Natal, para determinação da remuneração base mensal referida no n.º 1 do artigo 17.º do [Decreto-Lei n.º 57/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1990-334625), de 14 de Fevereiro, e conta para efeitos da alínea a) do n.º 1 do artigo 47.º do Estatuto da Aposentação.
+
+###### Artigo 8.º — Da regularização das situações
+
+1 - Todos os militares promovidos após 1 de Outubro de 1989 e até à entrada em vigor do presente diploma são posicionados no escalão 1 do posto a que tenham ascendido.
+
+2 - Quando o índice do escalão detido for superior ao do escalão 1 em que são posicionados, aos militares abrangidos pelo disposto no número anterior é garantido o direito ao abono do diferencial correspondente ao excesso que se verificar, o qual será absorvido e considerado nas mesmas condições definidas nos n.os 2 e 3 do artigo 7.º
+
+3 - Pelos competentes serviços dos ramos das Forças Armadas serão publicadas as listas de transição para o novo escalão.
+
+###### Artigo 9.º — Estrutura indiciária
+
+1 - A estrutura indiciária para os militares do quadro permanente é a constante do anexo I ao presente diploma, do qual faz parte integrante, que produz efeitos e entra em vigor em 1 de Janeiro de 1992, após o terceiro e último desbloqueamento de escalões, substituindo, a partir dessa data, o anexo I ao [Decreto-Lei n.º 57/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1990-334625), de 14 de Fevereiro.
+
+2 - As alterações aos anexos II, III e IV ao [Decreto-Lei n.º 57/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1990-334625), derivadas do disposto no presente diploma, constam dos decretos-leis que estabelecem a remuneração dos militares em regime de voluntariado e contrato.
+
+###### Artigo 10.º — Da transição
+
+1 - Sem prejuízo do disposto no artigo anterior, a transição para a nova estrutura indiciária faz-se sempre para o mesmo posto e de acordo com as seguintes regras:
+
+a) Para o escalão da nova estrutura a que corresponda o mesmo índice da estrutura anterior a que o militar tenha ascendido;
+
+b) Para o escalão da nova estrutura, de índice imediatamente superior, se não existir índice de correspondência directa ao escalão em que o militar se situa na estrutura anterior.
+
+2 - A transição a que se refere o número anterior produz os seguintes efeitos:
+
+a) Aos militares abrangidos pela alínea a) do n.º 1 será contado, para efeitos de progressão, todo o tempo que detenham no escalão da estrutura indiciária anterior:
+
+b) Para os militares abrangidos pela alínea b) do n.º 1 cuja transição seja, em valor, igual ou superior aos efeitos de uma progressão na estrutura anterior, inicia-se a contagem de tempo de permanência no novo escalão a partir da data da transição;
+
+c) Aos militares não abrangidos pelas alíneas anteriores ser-lhes-á contado o tempo de permanência que detenham no escalão da estrutura indiciária anterior.
+
+3 - Todos os militares que já tenham progredido para escalões eliminados na nova estrutura indiciária são posicionados no escalão mais próximo do mesmo posto, mantendo o direito ao abono de um diferencial correspondente ao excesso entre eles, o qual é absorvido e considerado nos termos previstos nos n.os 2 e 3 do artigo 7.º
+
+4 - A todos os militares que já tenham progredido para escalões que, na nova estrutura incidiária, sofrem redução no valor do respectivo índice é garantido o direito ao abono de um diferencial correspondente ao excesso, o qual é absorvido e considerado nos termos previstos nos n.os 2 e 3 do artigo 7.º
+
+5 - Na transição a que se refere a alínea b) do n.º 1, o excesso do índice do novo escalão sobre o índice anteriormente detido é deduzido, na totalidade, ao montante do diferencial eventualmente existente.
+
+6 - Sempre que aquela dedução não anule a totalidade do diferencial aplicam-se, para o restante, as regras definidas nos n.os 2 e 3 do artigo 7.º
+
+###### Artigo 11.º — Formalidades da transição
+
+Na transição a que se refere o artigo anterior aplicam-se integralmente as disposições constantes do artigo 21.º do [Decreto-Lei n.º 57/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1990-334625), de 14 de Fevereiro.
+
+###### Artigo 12.º — Da progressão
+
+Após a transição para a nova estrutura remuneratória, a mudança de escalão é efectuada de acordo com os tempos de permanência definidos no n.º 2 do artigo 15.º do [Decreto-Lei n.º 57/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1990-334625), de 14 de Fevereiro, sem prejuízo do disposto na alínea b) do n.º 2 do artigo 10.º
+
+###### Artigo 13.º — Dos militares na situação de reserva
+
+1 - Para efeitos de cálculo da remuneração de reserva dos militares que tenham ocupado os cargos previstos no n.º 4 do artigo 13.º do [Decreto-Lei n.º 57/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1990-334625), de 14 de Fevereiro, e tenham transitado para a situação de reserva ao abrigo do disposto no corpo e alínea a) do artigo 233.º do EMFAR, é utilizada como remuneração base mensal a correspondente àqueles cargos.
+
+2 - Aos militares referidos no número anterior que vierem a desempenhar outras funções, como previsto na alínea b) do artigo 233.º do EMFAR, são-lhes aplicadas as disposições gerais de cálculo da remuneração de reserva quando transitarem para esta situação.
+
+###### Artigo 14.º — Dos militares na situação de reforma
+
+A base de cálculo das pensões de reforma dos militares abrangidos pelo calendário de transição a que se referem os n.os 1 e 2 do artigo 11.º do [Decreto-Lei n.º 34-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-a-1990-626423), de 24 de Janeiro, integra o escalão de remuneração do respectivo posto a que haveria direito, de acordo com os módulos de tempo previstos no n.º 2 do artigo 15.º do [Decreto-Lei n.º 57/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1990-334625), de 14 de Fevereiro, determinado a partir do escalão de integração, em função do tempo de permanenência no posto, caso não se verificasse o condicionamento da progressão.
+
+###### Artigo 15.º — Direitos adquiridos
+
+Da aplicação do presente diploma não pode resultar diminuição da remuneração efectivamente auferida.
+
+###### Artigo 16.º — Produção de efeitos
+
+O presente diploma produz efeitos desde 1 de Janeiro de 1991, sem prejuízo do disposto nos artigos 8.º, 9.º, 10.º e 12.º
+
+###### Artigo 17.º — Norma revogatória
+
+É revogado o n.º 1 do artigo 14.º do [Decreto-Lei n.º 57/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1990-334625), de 14 de Fevereiro.
+
+Visto e aprovado em Conselho de Ministros de 13 de Junho de 1991. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza.
+
+Promulgado em 26 de Julho de 1991.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 29 de Julho de 1991.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+## ANEXO I — Escala indiciária dos militares do quadro permanente das Forças Armadas
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/188a00/42094212.pdf)

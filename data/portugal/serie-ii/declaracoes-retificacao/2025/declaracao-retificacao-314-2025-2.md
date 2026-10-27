@@ -1,0 +1,121 @@
+---
+schema_version: '1.0'
+id: pt:dre:912846799:por
+title: Declaração de Retificação n.º 314/2025/2
+short_title: null
+summary: Retifica o Aviso n.º 3109/2025/2, publicado no Diário da República, 2.ª série, n.º 23, de 3 de fevereiro de 2025.
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Universidade Nova de Lisboa - Faculdade de Ciências Sociais e Humanas
+proposing_entity: null
+official_number: 314/2025/2
+official_date: null
+publication_date: '2025-03-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 62/2025, Série II de 2025-03-28
+  number: '62'
+  series: II
+  supplement: null
+  pages: 317 - 317
+  pdf_url: https://files.diariodarepublica.pt/2s/2025/03/062000000/0031700317.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '912846799'
+  dre_path: /dr/detalhe/declaracao-retificacao/314-2025-912846799
+  internal: pt:dre:912846799:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/314-2025-912846799
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/314-2025-912846799
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:58:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 149f0dd508a251f52f3c86eaebf8c3c49126dc9eda2d073ac67afc5729245923
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:31Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:905851975:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:58:31Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 314/2025/2
+
+Considerando que o [Aviso n.º 3109/2025/2](https://diariodarepublica.pt/dr/detalhe/aviso/3109-2025-905851975), publicado no Diário da República, 2.ª série, n.º 23, de 3 de fevereiro de 2025, relativo à abertura de concurso de recrutamento para um investigador principal por tempo indeterminado na área disciplinar de Geografia ― perfil 2023.11076.TENURE.152 ― FCT Tenure (1.ª edição), com currículo relevante em Sustentabilidade Ambiental e Sistemas Socioecológicos, saiu com uma inexatidão, procede-se à retificação do mesmo.
+
+Assim, no ponto iv do [Aviso n.º 3109/2025/2](https://diariodarepublica.pt/dr/detalhe/aviso/3109-2025-905851975), na composição do júri, onde se lê:
+
+«Doutor Mário Adriano Ferreira do Vale, Professor Catedrático do Instituto de Geografia e Ordenamento do Território da Universidade de Lisboa;
+
+Doutora Teresa Pinto Correia, Professora Catedrática da Universidade de Évora;
+
+Doutora Luísa Schmidt, Investigadora Coordenadora do Instituto de Ciências Sociais da Universidade de Lisboa;
+
+Doutor José Luís Zêzere, Investigador Coordenador do Centro de Estudos Geográficos da Universidade de Lisboa;
+
+Doutor Rui Pedro de Sousa Pereira Monteiro Julião, Professor Catedrático da Faculdade de Ciências Sociais e Humanas na Universidade Nova de Lisboa;
+
+Doutor Luís Miguel da Silva de Almeida Chaves, Professor Catedrático da Faculdade de Ciências Sociais e Humanas na Universidade Nova de Lisboa.»
+
+deve ler-se:
+
+«Doutor José Luís Zêzere, Professor Catedrático do Instituto de Geografia e Ordenamento do Território da Universidade de Lisboa;
+
+Doutor Mário Adriano Ferreira do Vale, Professor Catedrático do Instituto de Geografia e Ordenamento do Território da Universidade de Lisboa;
+
+Doutora Teresa Pinto Correia, Professora Catedrática da Universidade de Évora;
+
+Doutora Luísa Schmidt, Investigadora Coordenadora do Instituto de Ciências Sociais da Universidade de Lisboa;
+
+Doutor Rui Pedro de Sousa Pereira Monteiro Julião, Professor Catedrático da Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa;
+
+Doutor Luís Miguel da Silva de Almeida Chaves, Professor Catedrático da Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa.»
+
+10 de março de 2025. - O Diretor, Prof. Doutor Luís Baptista.
+
+318841592

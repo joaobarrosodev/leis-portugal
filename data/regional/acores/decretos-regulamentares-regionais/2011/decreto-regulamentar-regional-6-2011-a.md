@@ -1,0 +1,418 @@
+---
+schema_version: '1.0'
+id: pt:dre:279787:por
+title: Decreto Regulamentar Regional n.º 6/2011/A
+short_title: null
+summary: Define o processo de reconhecimento e acompanhamento dos projectos de interesse regional (PIR)
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Presidência do Governo
+proposing_entity: null
+official_number: 6/2011/A
+official_date: null
+publication_date: '2011-02-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 32/2011, Série I de 2011-02-15
+  number: '32'
+  series: I
+  supplement: null
+  pages: 815 - 818
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/02/03200/0081500818.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2015-03-03'
+version_history:
+  file: decreto-regulamentar-regional-6-2011-a.versoes.json
+  count: 3
+  source_lastmod: '2026-07-27'
+  versions:
+  - date: '2011-02-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-12-16'
+    amending: pt:dre:64797340:por
+    amending_title: Decreto Regulamentar Regional n.º 23/2014/A
+    changes:
+    - Adita Capítulo IV
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+  - date: '2015-03-03'
+    amending: pt:dre:66639522:por
+    amending_title: Decreto Regulamentar Regional n.º 5/2015/A
+    changes:
+    - Altera Artigo 2.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/6/2011/a/cons/20150302/pt/html
+  oj: null
+  dre: '279787'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/6-2011-279787
+  internal: pt:dre:279787:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2011-279787
+  metadata_url: https://data.dre.pt/eli/decregulreg/6/2011/a/cons/20150302/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2011-965176623
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2011-965176623
+  retrieved_at: '2026-10-22T13:46:48Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-07-27T00:00:00Z'
+integrity:
+  source_sha256: 1c4843c2917e13952be8eda52af1a51fda65f4bb8ab5c9ddd0d41717ec3fd66b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:46:48Z'
+  notes: 3 versão(ões); histórico completo em decreto-regulamentar-regional-6-2011-a.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agência para a Promoção do Investimento dos Açores
+- Financiamento
+- Comissão de Acompanhamento
+- Comissão de Análise
+- Definição de Competências
+- Desenvolvimento Regional
+- Projeto de Investimento
+- Conselho do Governo Regional
+- Investimento
+- APIA
+- Licenciamento
+- Desenvolvimento Económico
+- Sider
+- Açores
+relationships:
+- type: amended_by
+  target: pt:dre:64797340:por
+  label: Adita Capítulo IV; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º;
+    Altera Artigo 7.º; Altera Artigo 9.º; Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2014-64797340
+  date: '2014-12-15'
+- type: amended_by
+  target: pt:dre:66639522:por
+  label: Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2015-66639522
+  date: '2015-03-02'
+- type: cites
+  target: pt:dre:539404:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/24/2006/07/28/a/dre
+- type: cites
+  target: pt:dre:628349:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/28/2007/11/21/a/dre
+- type: cites
+  target: pt:dre:636761:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/19/2007/07/23/a/dre
+article_structure:
+  article_count: 14
+  section_count: 4
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:46:48Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 6/2011/A
+
+Projectos de interesse regional
+
+O Programa do X Governo dos Açores consagrou como um dos objectivos na área do investimento assegurar um clima de dinâmica, favorecendo a concretização de projectos estratégicos, por via de um tratamento diferenciado e de proximidade, promovendo a superação de bloqueios administrativos e garantindo uma resposta célere às solicitações.
+
+Nessa sequência, com o presente diploma pretende-se dar um novo enquadramento aos projectos de interesse regional, assim como ao respectivo processo de reconhecimento e acompanhamento, com o objectivo de promover e distinguir projectos de investimento que demonstrem um forte impacte e ou um efeito estruturante em sectores estratégicos para o desenvolvimento regional.
+
+O acompanhamento dos projectos reconhecidos como PIR visa assegurar a celeridade dos procedimentos necessários à viabilização dos mesmos, a superação de bloqueios administrativos de forma a garantir uma resposta eficaz, sem dispensar, no entanto, o integral cumprimento das normas legais e regulamentares aplicáveis.
+
+O processo definido neste diploma cria, em conjugação com as competências definidas para a Agência para a Promoção do Investimento dos Açores, E. P. E., aprovadas pelo Decreto Legislativo Regional n.º 24/2006/A, de 28 de Julho, os instrumentos necessários para a captação e o acompanhamento, em proximidade, de eventuais investimentos, até à fase em que seja dado início à execução do projecto.
+
+Assim, nos termos das alíneas d) do n.º 1 do artigo 227.º da Constituição e b) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo, em execução do n.º 3 do artigo 30.º do Decreto Legislativo Regional n.º 19/2007/A, de 23 de Julho, o Governo Regional decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente diploma define o processo de reconhecimento e acompanhamento dos projectos de interesse regional (PIR).
+
+###### Artigo 2.º — Condições de acesso
+
+1 - Podem ser reconhecidos como PIR, beneficiando de um procedimento especial de acompanhamento, os projetos que reúnam os seguintes requisitos cumulativos:
+
+a) Representem um investimento global superior a 5 000 000 de euros;
+
+b) Tenham enquadramento no correspondente sistema de incentivos da entidade competente em razão da matéria;
+
+c) Sejam reconhecidas a idoneidade e credibilidade do respetivo requerente;
+
+d) Integrem as prioridades de desenvolvimento definidas nos planos de orientação estratégica regionais;
+
+e) Promovam uma adequada sustentabilidade ambiental e territorial;
+
+f) Apresentem um impacte positivo em, pelo menos, cinco dos seguintes domínios:
+
+i) Produção de bens e serviços transacionáveis, que reúna uma das seguintes condições:
+
+Possam ser objeto de troca internacional ou expostos à concorrência externa;
+
+Introduzam inovação de serviços, processos e produtos em termos da empresa, região ou setor;
+
+Desenvolvam atividades inseridas em setores de procura dinâmica no mercado global.
+
+ii) Efeito de arrastamento em atividades a montante ou a jusante, principalmente nas pequenas e médias empresas, através da verificação de duas das seguintes condições:
+
+Estímulo à abertura a novos canais de distribuição, bem como ao processo de internacionalização de fornecedores e clientes;
+
+Valorização de recursos endógenos, designadamente os renováveis, e de resíduos com valorização das situações associadas à redução dos impactes ambientais;
+
+Incremento da cadeia de valor do processo produtivo, nomeadamente em atividades de conceção, design e certificação de sistemas de qualidade, ambiente, higiene e segurança e saúde no trabalho e responsabilidade social.
+
+iii) Introdução de processos tecnológicos inovadores ou interação com entidades do sistema científico e tecnológico, através da verificação de uma das seguintes condições:
+
+Envolvimento em acordos de cooperação de caráter relevante com instituições de ensino superior, centros tecnológicos e outras entidades no âmbito do desenvolvimento científico e tecnológico em novos processos, produtos e serviços ou a sua melhoria significativa;
+
+Criação de estruturas comuns de investigação e desenvolvimento.
+
+iv) Criação mínima de dez postos de trabalho diretos, após o início da atividade;
+
+v) Enquadramento regional com impacte relevante na dinamização e promoção das ilhas visando o aproveitamento dos seus recursos e potencialidades;
+
+vi) Balanço económico externo, nomeadamente em termos do impacte no aumento das exportações ou na redução de importações;
+
+vii) Eficiência energética ou utilização de fontes de energia renováveis, através da verificação de uma das seguintes condições:
+
+Introdução de processos e métodos de gestão e controlo visando a otimização na utilização de recursos energéticos com impacte significativo ao nível do reaproveitamento da energia, pela introdução de sistemas de cogeração e de técnicas que visem especificamente a redução do consumo de energia;
+
+Diversificação de fontes energéticas, privilegiando as renováveis e as de menor impacte ambiental.
+
+2 - No caso dos projetos localizados nas ilhas de Santa Maria, Graciosa, São Jorge, Pico, Faial, Flores e Corvo, o valor do investimento mencionado na alínea a) do número anterior é reduzido em 50 %.
+
+3 - Podem, ainda, ser reconhecidos como PIR os projetos com um valor de investimento inferior ao limite referido na alínea a) do n.º 1 e n.º 2 que sejam reconhecidos como de interesse estratégico para a Região, a aferir através do cumprimento mínimo de dois dos seguintes requisitos:
+
+a) Forte componente de inovação aplicada, traduzida numa parte significativa da sua atividade ancorada em patente desenvolvida pela empresa;
+
+b) Manifesto interesse ambiental;
+
+c) Forte vocação exportadora, traduzida por um mínimo de 50 % do seu volume de negócios dirigido a mercados externos à Região;
+
+d) Criação de vinte ou mais postos de trabalho.
+
+4 - O reconhecimento do interesse estratégico para a Região a que se refere o número anterior é realizado através de despacho conjunto dos membros do Governo Regional com competências em matéria de investimento e da área do projeto.
+
+5 - No caso dos projetos localizados na ilha Terceira e cuja candidatura dê entrada até 31 de dezembro de 2019, o valor do investimento mencionado na alínea a) do n.º 1 é excecionalmente reduzido em 50 %.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 5/2015/A - Diário da República n.º 42/2015, Série I de 2015-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2015-66639522), em vigor a partir de 2015-03-03.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 23/2014/A - Diário da República n.º 241/2014, Série I de 2014-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2014-64797340), em vigor a partir de 2014-12-16.
+
+### Capítulo II — Entidades intervenientes
+
+###### Artigo 3.º — Competências da Comissão de Avaliação e Acompanhamento dos Projectos de Interesse Regional
+
+1 - A proposta de decisão sobre o reconhecimento de um projecto PIR é emitida pela Comissão de Avaliação e Acompanhamento dos Projectos de Interesse Regional (CAA-PIR), no prazo máximo de 30 dias úteis contados a partir da entrega do requerimento.
+
+2 - À CAA-PIR compete:
+
+a) A verificação final do cumprimento dos requisitos e a subsequente proposta de reconhecimento dos PIR;
+
+b) Aprovar o cronograma dos procedimentos, a desenvolver no âmbito do sistema de acompanhamento, que deve acompanhar a proposta de reconhecimento PIR;
+
+c) Propor um prazo de caducidade para a declaração de reconhecimento PIR tendo em conta a verificação de fatores considerados relevantes para o projeto;
+
+d) Sugerir quaisquer outras medidas com relevância para a concretização do projecto.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 23/2014/A - Diário da República n.º 241/2014, Série I de 2014-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2014-64797340), em vigor a partir de 2014-12-16.
+
+###### Artigo 4.º — Comissão de Avaliação e Acompanhamento
+
+1 - A CAA-PIR é composta por representantes dos seguintes serviços e organismos:
+
+a) SDEA - Sociedade para o Desenvolvimento Empresarial dos Açores, E.P.E.R., adiante abreviadamente designada por SDEA, E.P.E.R., como entidade gestora e coordenadora;
+
+b) Direção regional com competências em matéria de apoio ao investimento;
+
+c) Direcção regional com competências em matéria de ambiente.
+
+d) Direção regional com competências em matéria de emprego.
+
+2 - Tendo em conta a área de intervenção de cada projeto, a CAA-PIR integra igualmente, por convocatória da SDEA, E.P.E.R, representantes de outros serviços e organismos da administração pública regional sempre que se revelar necessário e não existir representante dessa área na Comissão.
+
+3 - A representação dos serviços e organismos referidos nos números anteriores é assegurada pelos seus dirigentes máximos e não é suscetível de delegação, não implicando atribuição de qualquer remuneração.
+
+4 - [revogado].
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 23/2014/A - Diário da República n.º 241/2014, Série I de 2014-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2014-64797340), em vigor a partir de 2014-12-16.
+
+###### Artigo 5.º — Competências da SDEA, E.P.E.R
+
+1 - São competências da SDEA, E.P.E.R., enquanto entidade gestora e coordenadora dos processos de reconhecimento e projetos PIR:
+
+a) Rececionar e analisar as candidaturas de reconhecimento como PIR;
+
+b) Solicitar pareceres considerados necessários na área de intervenção de cada projeto;
+
+c) Monitorizar e acompanhar os projetos e zelar pelo cumprimento geral dos cronogramas, evitando eventuais incumprimentos, afetando a cada PIR um gestor de projeto;
+
+e) Identificar possíveis condicionantes e obstáculos ao prosseguimento do projeto e indicar, sempre que possível, as alternativas para a sua superação de forma a garantir a adequada celeridade do mesmo;
+
+f) Reportar aos órgãos competentes eventuais incumprimentos do processo de acompanhamento definido neste diploma;
+
+g) Manter o requerente informado quanto ao andamento do processo;
+
+h) Registar informação actualizada e sistematizada sobre os processos em curso;
+
+i) Propor ao Governo Regional dos Açores alterações aos regulamentos vigentes que melhorem as condições proporcionadas ao desenvolvimento dos projectos.
+
+2 - A SDEA, E.P.E.R., na qualidade de entidade coordenadora da CAA-PIR, remete às entidades que integram aquela comissão toda a documentação apresentada pelo promotor, para efeitos de instrução da proposta de decisão prevista no n.º 1 do artigo 3.º
+
+3 - Cabe, ainda, à SDEA, E.P.E.R. remeter a proposta de decisão sobre o pedido de reconhecimento PIR para o departamento do Governo Regional com competência em matéria de investimento para efeitos de posterior decisão final em Conselho do Governo Regional.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 23/2014/A - Diário da República n.º 241/2014, Série I de 2014-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2014-64797340), em vigor a partir de 2014-12-16.
+
+### Capítulo III — Processo de reconhecimento
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2014/A - Diário da República n.º 241/2014, Série I de 2014-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2014-64797340), em vigor a partir de 2026-12-16.
+
+###### Artigo 6.º — Instrução do Processo
+
+1 - Os interessados no reconhecimento de um projeto como PIR apresentam o respetivo requerimento de candidatura junto da SDEA, E.P.E.R.
+
+2 - O requerimento mencionado no número anterior é instruído com os seguintes elementos, em suporte de papel e em suporte digital:
+
+a) Descrição genérica do projeto, nomeadamente através do enquadramento do projeto na estratégia global da empresa, indicação da atividade económica a desenvolver, postos de trabalho diretos criados ou mantidos, localização prevista ou localizações alternativas, tecnologias envolvidas, produtos ou serviços a prestar;
+
+b) Estudos de mercado que sustentem o projeto, designadamente, os respetivos planos de investimento e de financiamento;
+
+c) Estudos de impacte ambiental do projeto sempre que obrigatórios ou, na ausência de tal obrigatoriedade, a caracterização dos principais impactes ambientais do projeto nos domínios da conservação da natureza, da água, do solo, dos resíduos e do ar;
+
+d) Síntese descritiva do enquadramento do projeto nos instrumentos de gestão territorial em vigor, nomeadamente planos municipais e especiais de ordenamento do território, e servidões ou restrições de utilidade pública que incidam sobre a área de intervenção;
+
+e) Outra informação relevante para a tramitação do projeto, nomeadamente o historial do projeto em matéria de procedimentos conducentes à respetiva aprovação, consoante a fase em que o projeto se encontre, respetivas plantas de arquitetura, autorizações, aprovações, licenças, pedidos de informação prévia ou pareceres relativos ao projeto, quando existam, bem como indicação da calendarização do início dos procedimentos e demonstração estimada dos resultados do projeto no triénio subsequente à conclusão do investimento;
+
+f) Documento que comprove a titularidade ou legitimidade do promotor quanto à utilização do terreno ou imóvel onde se propõe desenvolver o projeto em causa.
+
+3 - Verificados os elementos mencionados no número anterior, a SDEA, E.P.E.R., pode solicitar ao requerente a apresentação, no prazo máximo de vinte dias úteis, dos elementos adicionais que sejam necessários à decisão, retomando-se a contagem do prazo para a decisão requerida assim que o processo esteja completamente instruído.
+
+4 - O requerente deve remeter à SDEA, E.P.E.R., os elementos adicionais solicitados no prazo máximo de quinze dias úteis.
+
+5 - O não envio, por motivo imputável ao requerente, dos elementos adicionais no prazo referido no número anterior determina o arquivamento do processo.
+
+6 - O requerente pode solicitar a prorrogação do prazo referido no n.º 4, caso não seja possível o respetivo cumprimento e por motivos não imputáveis ao mesmo.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 23/2014/A - Diário da República n.º 241/2014, Série I de 2014-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2014-64797340), em vigor a partir de 2014-12-16.
+
+###### Artigo 7.º — Reconhecimento
+
+1 - Os projetos são reconhecidos como PIR por resolução do Conselho do Governo Regional, sob proposta do membro do Governo Regional com competência em matéria de investimento, após envio, pela SDEA, E.P.E.R, da proposta de decisão da CAA-PIR, acompanhada da proposta de cronograma dos procedimentos a desenvolver no âmbito do sistema de acompanhamento.
+
+2 - A resolução prevista no número anterior determina os prazos de caducidade para o reconhecimento PIR.
+
+3 - A decisão referida no n.º 1 é notificada, pela SDEA, E.P.E.R., ao interessado e a todas as entidades participantes no processo, no prazo de cinco dias úteis após a sua publicação no Jornal Oficial da Região.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 23/2014/A - Diário da República n.º 241/2014, Série I de 2014-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2014-64797340), em vigor a partir de 2014-12-16.
+
+###### Artigo 8.º — Cronograma de procedimentos
+
+1 - O cronograma dos procedimentos que acompanha o PIR compreende um detalhado circuito do processo, as obrigações processuais e a calendarização de tarefas a desenvolver e os respectivos prazos.
+
+2 - O cronograma referido no número anterior é objecto de validação por todas as entidades intervenientes na CAA-PIR com competência em matéria dos actos e formalidades aplicáveis ao respectivo projecto.
+
+###### Artigo 9.º — Efeitos do reconhecimento
+
+1 - O reconhecimento de um projeto como PIR:
+
+a) Aciona de imediato o processo de acompanhamento do projeto;
+
+b) Obriga todas as entidades responsáveis ou participantes na tramitação processual do projeto à cooperação institucional prevista no presente diploma;
+
+c) Não dispensa o integral cumprimento das normas legais e regulamentares aplicáveis, não sendo constitutivo de direitos.
+
+2 - O reconhecimento como PIR caduca automaticamente se, decorridos 180 dias sobre a sua comunicação, por responsabilidade do promotor, não se der início à tramitação prevista no cronograma de procedimentos.
+
+3 - A violação por parte do promotor de qualquer obrigação legal ou regulamentarmente estabelecida, no âmbito de procedimentos indispensáveis à viabilização do PIR, tem como consequência, qualquer que seja a fase em que aquele se encontre, a perda do respetiv
+
+4 - O reconhecimento de um projecto como PIR pode originar, em conformidade com os regulamentos próprios de cada programa operacional, a majoração das taxas de incentivo a conceder, o aumento dos valores máximos absolutos de concessão de incentivos, bem como a alteração dos montantes mínimos e máximos previstos para cada tipologia de investimento.
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 23/2014/A - Diário da República n.º 241/2014, Série I de 2014-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2014-64797340), em vigor a partir de 2014-12-16.
+
+### Capítulo IV
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2014/A - Diário da República n.º 241/2014, Série I de 2014-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2014-64797340), em vigor a partir de 2014-12-16.
+
+###### Artigo 10.º — Acompanhamento
+
+1 - O sistema de acompanhamento, da competência da SDEA, E.P.E.R., abrange não apenas os procedimentos de autorização e licenciamento do projeto mas também eventuais procedimentos no âmbito de operações urbanísticas e dos regimes de uso do solo conexos com o mesmo e os procedimentos de concessão de incentivos financeiros e fiscais.
+
+2 - Iniciado o processo de acompanhamento, a SDEA, E.P.E.R. monitoriza a tramitação do mesmo, podendo, sempre que tal se revele necessário, convocar qualquer das entidades intervenientes naquele processo.
+
+3 - As entidades que participam no processo de acompanhamento ficam sujeitas ao dever de colaboração e a prestar toda a informação necessária à entidade gestora, no prazo máximo de dez dias úteis a contar da data da respetiva solicitação, e à CAA-PIR, sempre que tal se mostre necessário.
+
+4 - Verificando-se o incumprimento do cronograma por causa imputável ao promotor, a SDEA, E.P.E.R notifica este último para executar ou promover os atos em falta, podendo fixar um prazo para o efeito, cujo incumprimento determinará a perda do estatuto PIR, nos termos fixados no presente diploma.
+
+5 - O processo de acompanhamento por parte da SDEA, E.P.E.R. termina com o início da atividade do projeto.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 23/2014/A - Diário da República n.º 241/2014, Série I de 2014-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2014-64797340), em vigor a partir de 2014-12-16.
+
+###### Artigo 11.º — Alteração das circunstâncias
+
+1 - O reconhecimento e o respectivo programa de acompanhamento podem ser objecto de renegociação se as condições em que foram aprovados tiverem sofrido uma alteração anormal, superveniente, não imputável ao promotor, e desde que devidamente fundamentada.
+
+2 - Caso se verifiquem alterações nos pressupostos iniciais do projecto apresentado, ou incumprimento, por motivos imputáveis ao promotor, há lugar à revogação do reconhecimento.
+
+3 - Compete ao membro do Governo Regional com competência em matéria de investimento autorizar a renegociação do reconhecimento e do programa de acompanhamento e promover a respectiva alteração.
+
+4 - Compete ao Conselho do Governo a revogação do reconhecimento PIR.
+
+###### Artigo 12.º — Aplicação no tempo
+
+O presente diploma é aplicável, com as necessárias adaptações, aos procedimentos já em curso, salvaguardados os trâmites já desenvolvidos ao abrigo de Decreto Regulamentar Regional n.º 28/2007/A, de 21 de Novembro.
+
+###### Artigo 13.º — Norma revogatória
+
+É revogado o Decreto Regulamentar Regional n.º 28/2007/A, de 21 de Novembro.
+
+###### Artigo 14.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 12 de Janeiro de 2011.
+
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
+
+Assinado em Lisboa em 7 de Fevereiro de 2011.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma dos Açores, José António Mesquita.

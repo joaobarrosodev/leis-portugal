@@ -1,0 +1,219 @@
+---
+schema_version: '1.0'
+id: pt:dre:421817:por
+title: Decreto n.º 381/73
+short_title: null
+summary: Aprova as normas técnicas a que devem obedecer as instalações do serviço público de televisão nas províncias ultramarinas
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Obras Públicas e Comunicações
+proposing_entity: null
+official_number: 381/73
+official_date: null
+publication_date: '1973-07-26'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 174/1973, Série I de 1973-07-26
+  number: '174'
+  series: I
+  supplement: null
+  pages: 1324 - 1328
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/07/17400/13241328.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '421817'
+  dre_path: /dr/detalhe/decreto/381-1973-421817
+  internal: pt:dre:421817:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/381-1973-421817
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/381-1973-421817
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:28:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2d839b22d53465a02ea55109bcb863f84248f5cea16070d5dd23d1da587ba8b0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:28:52Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:411363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563179:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:28:52Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 381/73
+
+de 26 de Julho
+
+Tendo sido aprovado pelo [Decreto-Lei n.º 319/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1973-421019), de 27 de Junho, o regime geral para o estabelecimento da televisão no ultramar português e tornando-se necessário definir as normas técnicas que deverão ser observadas para o seu funcionamento;
+
+Considerando-se que na Conferência Africana de Radiodifusão (Genebra-1963) ficou resolvido que as províncias ultramarinas portuguesas adoptariam nas suas redes de televisão o sistema «I» (bandas I, III, IV e V), em resultado dos estudos preparatórios realizados e nos quais se consideraram os sistemas existentes, optando-se pelo que, oferecendo afinidades, se apresentava como mais evoluído em relação aos em uso e satisfazia as normas estabelecidas pela Comissão Consultiva Internacional de Radiocomunicações, da União Internacional das Telecomunicações;
+
+Tendo em atenção o disposto na alínea b) do artigo 2.º do [Decreto-Lei n.º 22783](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22783-1933-411363), de 29 de Junho de 1933, nos artigos 1.º, n.os 11 e 12, e 26.º, n.º 4.º, do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, e na secção I, n.º 2, artigo 1.º do capítulo 1.º do Regulamento de Radiocomunicações da União Internacional das Telecomunicações;
+
+Por motivo de urgência, nos termos do § 3.º do artigo 136.º da Constituição;
+
+Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
+
+Artigo 1.º São aprovadas as seguintes normas técnicas, às quais devem obedecer as instalações do serviço público de televisão a preto e branco, tanto de emissão como de distribuição, nas províncias ultramarinas portuguesas de África:
+
+a) Canal de televisão:
+
+1) A largura nominal de um canal de televisão, incluindo as vias de imagem e som, será de 8 MHz;
+
+2) A frequência de suporte da via de imagem será de 6 MHz inferior à frequência de suporte da via som;
+
+3) A frequência de suporte da via som será de 0,75 MHz inferior à frequência limite superior do canal de televisão respectivo;
+
+4) Em consequência das normas anteriores, a frequência de suporte da via imagem será de 1,25 MHz superior à frequência limite inferior do canal de televisão respectivo;
+
+5) O emissor de imagem será concebido de modo a enfraquecer a faixa lateral inferior e a emitir a onda de suporte sem enfraquecimento; por isso, os receptores devem permitir a recepção de emissões com faixa lateral parcialmente suprimida, fazendo-se o enfraquecimento da onda de suporte no próprio receptor;
+
+6) A faixa lateral inferior será enfraquecida de, pelo menos, 20 db para a frequência - 3,00 MHz e de 30 db para a frequência - 4,43 MHz;
+
+7) A característica ideal do emissor de imagem será, em virtude das normas anteriores, a indicada na figura 1 em anexo.
+
+b) Exploração da imagem:
+
+1) O número de linhas por imagem será de 625, com um entrelaçamento de 2:1;
+
+2) A frequência das imagens será de 25 por segundo e a de quadros de 50 por segundo, correspondendo, portanto, a dois quadros por imagem;
+
+3) A frequência de linhas será de 15625 Hz, com tolerância de (mais ou menos) 0,001%;
+
+4) O formato da imagem apresentará a relação de 4/3 entre a largura e a altura;
+
+5) Durante os períodos activos, a exploração da imagem far-se-á da esquerda para a direita e de cima para baixo, com velocidade constante;
+
+6) O sistema de televisão deverá funcionar sem qualquer dependência da frequência das redes de alimentação de energia eléctrica;
+
+7) O valor aproximado da gama do sinal de imagem será de 0,5.
+
+c) Modulação da onda de suporte da via de imagem:
+
+1) A onda de suporte da via de imagem será modulada em amplitude pelos
+
+sinais de imagem e de sincronização;
+
+2) A polaridade da modulação pelo sinal de imagem será negativa, isto é, a uma diminuição da luminosidade da imagem corresponderá um aumento de potência radiada;
+
+3) O nível de suspensão corresponderá a 76% da amplitude máxima do sinal
+
+de radiofrequência;
+
+4) O nível relativo do preto será independente dos cambiantes luminosos da imagem e coincidirá, nominalmente, com o nível de supressão;
+
+5) O nível correspondente ao branco absoluto não será inferior ao valor nominal de 20% da amplitude máxima do sinal de radiofrequência.
+
+d) Sinais de sincronização:
+
+1) Os sinais de sincronização terão a forma indicada nas figuras 3, 4 e 5, onde H é o intervalo de tempo entre o início de uma linha e o início da seguinte (64(mi)s);
+
+2) Os tempos de transição (crescimento e decrescimento) dos sinais de sincronização, supressão e igualização serão definidos entre 10 e 90% do valor máximo do sinal;
+
+3) O tempo de subida (10-90%) dos flancos do sinal de supressão de quadro será inferior a 6(mi)s.
+
+e) Modulação da onda de suporte da via som:
+
+1) A modulação da onda de suporte da via som far-se-á em frequência com um desvio máximo de (mais ou menos) 50 KHz;
+
+2) Utilizar-se-á pré-acentuação de acordo com a característica admitância-frequência de um circuito constituído por um resistência e uma capacidade em paralelo que tenha uma constante de tempo de 50(mi)s;
+
+3) A relação das potências aparentes radiadas de imagem e som será de 5:1, sendo a potência de imagem a correspondente ao valor máximo (nível de sincronização).
+
+f) Características do emissor de imagem:
+
+1) A frequência de suporte do emissor de imagem não deverá variar mais do que (mais ou menos) 500 Hz, relativamente ao valor nominal, no espaço de um mês;
+
+2) A característica ideal de amplitude-frequência do emissor de imagem, obtida por um detector linear de faixa lateral dupla, será a representada a traço cheio na figura 2; nessa figura, indica-se a tracejado o afastamento máximo admissível da característica real em relação à ideal;
+
+3) O tempo de propagação de grupo não poderá variar, para cada frequência, para além dos limites definidos pela figura 6.
+
+g) Características do emissor de som:
+
+l) Na ausência de modulação, a diferença entre a portadora de imagem e a frequência central da portadora de som não deve afastar-se mais de (mais ou menos) 500 Hz do valor nominal (6 MHz);
+
+2) A característica de frequência da via som (considerada desde a entrada
+
+do pré-amplificador do microfone até à saída do emissor, excluindo qualquer igualizador da característica do microfone), deve estar compreendida entre as duas curvas da figura 7;
+
+3) A distorção harmónica na via som, a qualquer frequência de modulação da faixa 30 - 15000 Hz e às percentagens de modulação de 25, 50 e 100%, medida incluindo as harmónicas até 30 KHz e empregando no equipamento de medida um circuito de desacentuação com constante de tempo de 50(mi)s, não deve exceder os valores seguintes:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/07/17400/13241328.pdf)
+
+sendo recomendável que qualquer das três partes do emissor (emissor propriamente dito, circuito de ligação dos estúdios ao emissor e circuito de audifrequência nos estúdios) não apresente isoladamente uma distorção superior a metade dos valores indicados acima.
+
+4) O ruído de fundo da via som, em modulação de frequência, na faixa 50 - 15000 Hz, deve ser inferior a -55 db em relação ao nível correspondente a uma modulação de frequência de 100% (desvio de (mais ou menos) 50 KHz) com o emisor de imagem desligado;
+
+5) O ruído de fundo da via som, em modulação de amplitude, deve ser inferior a -50 db em relação ao nível correspondente a uma modulação de amplitude de 100%.
+
+Art. 2.º As normas técnicas a que deverão obedecer as instalações do serviço público de televisão a preto e branco nas províncias ultramarinas portuguesas da Ásia e da Oceânia e as normas técnicas a que deverão obedecer as instalações do serviço público de televisão a cores em todos os territórios portugueses do ultramar serão oportunamente aprovadas.
+
+Art. 3.º A fiscalização do cumprimento do estabelecido no presente decreto será exercida pelos serviços dos correios, telégrafos e telefones das províncias ultramarinas, de acordo com a competência que lhes é conferida pelo [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944.
+
+Marcello Caetano - Joaquim Moreira da Silva Cunha.
+
+Promulgado em 9 de Julho de 1973.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
+
+Desenhos anexos ao Decreto n.º 381/73
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/07/17400/13241328.pdf)
+
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

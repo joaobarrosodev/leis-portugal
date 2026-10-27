@@ -1,0 +1,114 @@
+---
+schema_version: '1.0'
+id: pt:dre:506232:por
+title: Portaria n.º 101-A/2002
+short_title: null
+summary: Altera a Portaria n.º 1226-A/2001, de 24 de Outubro (estabelece os factores de correcção aplicáveis ao combustível)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Economia
+proposing_entity: null
+official_number: 101-A/2002
+official_date: null
+publication_date: '2002-01-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 26/2002, 2º Suplemento, Série I-B de 2002-01-31
+  number: '26'
+  series: I
+  supplement: null
+  pages: 892-(4) a 892-(4)
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/01/026b02/00040004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/101-a/2002/01/31/p/dre/pt/html
+  oj: null
+  dre: '506232'
+  dre_path: /dr/detalhe/portaria/101-a-2002-506232
+  internal: pt:dre:506232:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/101-a-2002-506232
+  metadata_url: https://data.dre.pt/eli/port/101-a/2002/01/31/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/101-a-2002-506232
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:36:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: dc0352a550545bf20db73dc2e11b97e7eb7dec47963012dc091bd74d336c6257
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:36:02Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Combustível
+- Comércio
+- Preço Máximo
+relationships:
+- type: cites
+  target: pt:dre:229517:por
+  label: null
+  source: http://data.dre.pt/eli/port/1226-a/2001/10/24/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:36:02Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 101-A/2002
+
+de 31 de Janeiro
+
+A [Portaria n.º 1226-A/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1226-a-2001-229517), de 24 de Outubro, estabelece a fórmula de cálculo dos preços dos produtos de petróleo submetidos ao regime de preços máximos, definindo o valor do factor de correcção (FC) aplicável àqueles produtos. Torna-se agora necessário proceder à revisão dos factores de correcção aplicáveis à gasolina sem chumbo IO 95 e ao gasóleo rodoviário.
+
+Assim:
+
+Manda o Governo, pelos Ministros das Finanças e da Economia, o seguinte:
+
+1.º O n.º 4.º da [Portaria n.º 1226-A/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1226-a-2001-229517), de 24 de Outubro, passa a ter a seguinte redacção:
+
+«O factor de correcção para o mercado português (FC) assume os seguintes valores:
+
+a) ...
+
+b) 7$248 ou (euro) 0,036 por litro, para o gasóleo rodoviário;
+
+c) 2$00 ou (euro) 0,01 por litro, para a gasolina sem chumbo IO 95.
+
+2.º A presente portaria entra em vigor às 0 horas do dia 1 de Fevereiro de 2002.
+
+29 de Janeiro de 2002.
+
+O Secretário de Estado dos Assuntos Fiscais, Rogério Manuel Romão Carreiro Fernandes Ferreira. - O Secretário de Estado Adjunto do Ministro da Economia, Eduardo Guimarães de Oliveira Fernandes.

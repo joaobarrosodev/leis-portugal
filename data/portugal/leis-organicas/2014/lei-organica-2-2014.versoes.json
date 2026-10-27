@@ -1,0 +1,285 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:55235777:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei-organica/2014-58904638",
+ "dre_path": "/dr/detalhe/lei-organica/2-2014-55235777",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-08-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "58917134",
+    "58917135",
+    "58917136",
+    "58917137",
+    "58917138",
+    "58917139",
+    "58917140",
+    "58917141",
+    "58917142",
+    "58917143",
+    "58917144",
+    "58917145",
+    "58917146",
+    "58917147",
+    "58917148",
+    "58917149",
+    "58917150",
+    "58917151",
+    "58917152",
+    "58917153",
+    "58917154",
+    "58917155",
+    "58917156"
+   ]
+  },
+  {
+   "date": "2015-01-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66108231:por",
+     "title": "Lei Orgânica n.º 1/2015",
+     "published": "2015-01-08",
+     "dre_path": "/dr/detalhe/lei-organica/1-2015-66108231"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "58917134",
+    "58917135",
+    "58917136",
+    "58917137",
+    "58917138",
+    "58917139",
+    "58917140",
+    "58917157",
+    "58917141",
+    "58917142",
+    "58917143",
+    "58917144",
+    "58917145",
+    "58917146",
+    "72914821",
+    "58917148",
+    "58917149",
+    "58917150",
+    "58917151",
+    "58917152",
+    "58917153",
+    "58917154",
+    "58917155",
+    "58917156"
+   ]
+  }
+ ],
+ "fragments": {
+  "58917134": {
+   "fragment_id": "58904639",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei Orgânica n.º 2/2014\n\nde 6 de agosto\n\nAprova o Regime do Segredo de Estado, procede à vigésima primeira alteração ao Código de Processo Penal e à trigésima primeira alteração ao Código Penal e revoga a Lei n.º 6/94, de 7 de abril.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, a lei orgânica seguinte:"
+  },
+  "58917135": {
+   "fragment_id": "58904640",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei aprova, em anexo, que dela faz parte integrante, o regime do segredo de Estado e altera o Código de Processo Penal e o Código Penal."
+  },
+  "58917136": {
+   "fragment_id": "58904641",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Código de Processo Penal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Código de Processo Penal\n\nO artigo 137.º do Código de Processo Penal, aprovado pelo Decreto-Lei n.º 78/87, de 17 de fevereiro, e alterado pelos Decretos-Leis n.os 387-E/87, de 29 de dezembro, 212/89, de 30 de junho, e 17/91, de 10 de janeiro, pela Lei n.º 57/91, de 13 de agosto, pelos Decretos-Leis n.os 423/91, de 30 de outubro, 343/93, de 1 de outubro, e 317/95, de 28 de novembro, pelas Leis n.os 59/98, de 25 de agosto, 3/99, de 13 de janeiro, e 7/2000, de 27 de maio, pelo Decreto-Lei n.º 320-C/2000, de 15 de dezembro, pelas Leis n.os 30-E/2000, de 20 de dezembro, e 52/2003, de 22 de agosto, pelo Decreto-Lei n.º 324/2003, de 27 de dezembro, pela Lei n.º 48/2007, de 29 de agosto, pelo Decreto-Lei n.º 34/2008, de 26 de fevereiro, e pelas Leis n.os 52/2008, de 28 de agosto, 115/2009, de 12 de outubro, 26/2010, de 30 de agosto, e 20/2013, de 21 de fevereiro, passa a ter a seguinte redação:\n\n«Artigo 137.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - A invocação de segredo de Estado por parte da testemunha é regulada nos termos da lei que aprova o regime do segredo de Estado e da Lei-Quadro do Sistema de Informações da República Portuguesa.»"
+  },
+  "58917137": {
+   "fragment_id": "58904642",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração ao Código Penal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração ao Código Penal\n\nO artigo 316.º do Código Penal, aprovado pelo Decreto-Lei n.º 400/82, de 23 de setembro, e alterado pela Lei n.º 6/84, de 11 de maio, pelos Decretos-Leis n.os 101-A/88, de 26 de março, 132/93, de 23 de abril, e 48/95, de 15 de março, pelas Leis n.os 90/97, de 30 de julho, 65/98, de 2 de setembro, 7/2000, de 27 de maio, 77/2001, de 13 de julho, 97/2001, 98/2001, 99/2001 e 100/2001, de 25 de agosto, e 108/2001, de 28 de novembro, pelos Decretos-Leis n.os 323/2001, de 17 de dezembro, e 38/2003, de 8 de março, pelas Leis n.os 52/2003, de 22 de agosto, e 100/2003, de 15 de novembro, pelo Decreto-Lei n.º 53/2004, de 18 de março, e pelas Leis n.os 11/2004, de 27 de março, 31/2004, de 22 de julho, 5/2006, de 23 de fevereiro, 16/2007, de 17 de abril, 59/2007, de 4 de setembro, 61/2008, de 31 de outubro, 32/2010, de 2 de setembro, 40/2010, de 3 de setembro, 4/2011, de 16 de fevereiro, 56/2011, de 15 de novembro, 19/2013, de 21 de fevereiro, e 60/2013, de 23 de agosto, passa a ter a seguinte redação:\n\n«Artigo 316.º\n\nViolação do segredo de Estado\n\n1 - Quem, pondo em perigo interesses fundamentais do Estado Português, transmitir, tornar acessível a pessoa não autorizada, ou tornar público, no todo ou em parte, e independentemente da forma de acesso, informação, facto ou documento, plano ou objeto que devem, em nome daqueles interesses, manter-se secretos é punido com pena de prisão de 2 a 8 anos.\n\n2 - Quem destruir, subtrair ou falsificar informação, facto ou documento, plano ou objeto referido no número anterior, pondo em perigo interesses no mesmo número indicados, é punido com pena de prisão de 2 a 8 anos.\n\n3 - ...\n\n4 - Se o agente praticar o facto descrito no n.º 1 através de meios ou em circunstâncias que facilitem a sua divulgação com recurso a meios de comunicação social ou a plataformas de índole digital ou de qualquer outra natureza é punido com pena de prisão de 3 a 10 anos.\n\n5 - (Anterior n.º 4.)\n\n6 - Consideram-se interesses fundamentais do Estado os relativos à independência nacional, à unidade e à integridade do Estado ou à sua segurança interna ou externa, à preservação das instituições constitucionais, bem como os recursos afetos à defesa e à diplomacia, à salvaguarda da população em território nacional, à preservação e segurança dos recursos económicos e energéticos estratégicos e à preservação do potencial científico nacional.»"
+  },
+  "58917138": {
+   "fragment_id": "58904643",
+   "type": 11,
+   "heading": "Artigo 4.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Disposição transitória\n\n1 - As classificações como segredo de Estado vigentes à data da entrada em vigor da presente lei são avaliadas no prazo de quatro anos, contado da mesma data, sob pena de caducidade, nos termos a definir por diploma próprio aprovado em Conselho de Ministros.\n\n2 - A manutenção da classificação de matéria, documento ou informações, em resultado da avaliação referida no número anterior, é comunicada à entidade fiscalizadora do segredo de Estado, acompanhada da respetiva fundamentação, da data da sua confirmação, do novo prazo de classificação e de uma indicação sucinta do assunto a que respeita.\n\n3 - O quadro normativo respeitante à segurança das matérias classificadas, designadamente as instruções abreviadamente designadas por SEGNAC, aprovadas pelas Resoluções do Conselho de Ministros n.os 50/88, de 3 de dezembro, 37/89, de 24 de outubro, 16/94, de 22 de março, e 5/90, de 28 de fevereiro, que comporta os graus de classificação «Muito secreto», «Secreto», «Confidencial» e «Reservado», deve ser adaptado à presente lei no prazo de 90 dias a contar da sua publicação."
+  },
+  "58917139": {
+   "fragment_id": "58904644",
+   "type": 11,
+   "heading": "Artigo 5.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Norma revogatória\n\nA presente lei revoga a Lei n.º 6/94, de 7 de abril."
+  },
+  "58917140": {
+   "fragment_id": "58904645",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente lei entra em vigor 30 dias após a data da sua publicação."
+  },
+  "58917141": {
+   "fragment_id": "58904646",
+   "type": 14,
+   "heading": "Anexo — Regime do Segredo de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Regime do Segredo de Estado"
+  },
+  "58917142": {
+   "fragment_id": "58904647",
+   "type": 11,
+   "heading": "Artigo 1.º — Segredo de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Segredo de Estado\n\n1 - Os órgãos do Estado estão sujeitos aos princípios da transparência, da publicidade e da administração aberta, salvo quando, pela natureza da matéria, esta seja expressamente classificada como segredo de Estado, nos termos da presente lei, sem prejuízo dos casos referenciados no n.º 3 do presente artigo.\n\n2 - O regime do segredo de Estado é definido pela presente lei e obedece aos princípios de excecionalidade, subsidiariedade, necessidade, proporcionalidade, adequação, tempestividade, igualdade, justiça e imparcialidade.\n\n3 - As restrições de acesso aos arquivos, processos e registos administrativos e judiciais, por razões respeitantes à investigação criminal ou à identidade e reserva de intimidade das pessoas, à proteção contra quaisquer formas de discriminação, bem como as respeitantes a classificações de segurança que não se integrem na exceção do segredo de Estado, regem-se por regimes próprios.\n\n4 - O regime do segredo de Estado não é aplicável quando, nos termos da Constituição e da lei, a realização dos fins que prossegue seja suficientemente assegurada por formas menos restritivas da reserva de acesso às informações.\n\n5 - A classificação como segredo de Estado não prejudica a aplicação do quadro normativo respeitante à segurança das matérias classificadas, abreviadamente designado por SEGNAC, que comporta os graus de classificação «Muito secreto», «Secreto», «Confidencial» e «Reservado»."
+  },
+  "58917143": {
+   "fragment_id": "58904648",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito do segredo de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito do segredo de Estado\n\n1 - São abrangidos pelo regime do segredo de Estado as matérias, os documentos e as informações cujo conhecimento por pessoas não autorizadas é suscetível de pôr em risco interesses fundamentais do Estado.\n\n2 - Consideram-se interesses fundamentais do Estado os relativos à independência nacional, à unidade e à integridade do Estado ou à sua segurança interna ou externa, à preservação das instituições constitucionais, bem como os recursos afetos à defesa e à diplomacia, à salvaguarda da população em território nacional, à preservação e segurança dos recursos económicos e energéticos estratégicos e à preservação do potencial científico nacional.\n\n3 - O risco referido no n.º 1 é avaliado em contexto analítico casuístico, nunca resultando de aferição automática da natureza das matérias em apreciação, sem prejuízo do regime específico aplicável no âmbito do Sistema de Informações da República Portuguesa (SIRP).\n\n4 - Podem, especialmente, ser submetidas ao regime de segredo de Estado, verificado o condicionalismo previsto nos números anteriores, documentos e informações que respeitem às seguintes matérias:\n\na) As relativas à preservação dos interesses fundamentais do Estado;\n\nb) As transmitidas, a título confidencial, por Estados estrangeiros ou por organizações internacionais;\n\nc) As relativas à estratégia a adotar pelo Estado no quadro das negociações presentes ou futuras com outros Estados ou organizações internacionais;\n\nd) As que visam prevenir e assegurar a operacionalidade e a segurança pessoal, dos equipamentos, do material e das instalações das Forças Armadas, das forças e serviços de segurança, bem como a identidade dos operacionais e as informações do âmbito da atividade dos órgãos e serviços que integram o SIRP;\n\ne) As relativas aos recursos afetos à defesa e à diplomacia;\n\nf) As relativas à proteção perante ameaças graves da população residente em território nacional e dos cidadãos nacionais em Portugal e no estrangeiro;\n\ng) As relativas aos procedimentos em matéria de segurança na transmissão de dados e informações com outros Estados ou com organizações internacionais;\n\nh) As classificadas com o grau «Muito secreto», no quadro normativo das SEGNAC, desde que integrem os pressupostos materiais e respeitem os procedimentos de forma e orgânicos estabelecidos na presente lei para efeitos de classificação como segredo de Estado;\n\ni) Aquelas cuja divulgação pode estimular ou ajudar à prática de crimes contra a segurança interna e externa do Estado;\n\nj) As de natureza comercial, industrial, científica, técnica, financeira ou económica com relevância para a segurança interna e externa ou para a defesa militar do Estado;\n\nk) As relativas à preservação e segurança dos recursos económicos e energéticos estratégicos.\n\n5 - Para efeitos da presente lei, considera-se documento ou informações qualquer facto, ato, documento, informações, atividade ou tudo aquilo que se encontre registado, independentemente da sua forma ou suporte."
+  },
+  "58917144": {
+   "fragment_id": "58904649",
+   "type": 11,
+   "heading": "Artigo 3.º — Classificação de documentos e informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Classificação de documentos e informações\n\n1 - A classificação como segredo de Estado nos termos do artigo anterior é da competência do Presidente da República, do Presidente da Assembleia da República, do Primeiro-Ministro, dos Vice-Primeiros-Ministros e dos Ministros.\n\n2 - Quando, por razões de urgência, for necessário classificar documentos ou informações como segredo de Estado, podem fazê-lo, a título provisório, no âmbito da sua competência própria, com a obrigação de comunicação no mais curto espaço de tempo de acordo com critério de razoabilidade, às entidades referidas no n.º 1, que em cada caso sejam competentes para tal, para efeitos de ratificação:\n\na) O Chefe do Estado-Maior-General das Forças Armadas;\n\nb) O Secretário-Geral do Sistema de Segurança Interna;\n\nc) O Secretário-Geral do Sistema de Informações da República Portuguesa;\n\nd) O Secretário-Geral do Ministério dos Negócios Estrangeiros;\n\ne) O Diretor-Geral de Política Externa do Ministério dos Negócios Estrangeiros;\n\nf) O Diretor-Geral dos Assuntos Europeus do Ministério dos Negócios Estrangeiros;\n\ng) O Diretor-Geral de Política de Defesa Nacional do Ministério da Defesa Nacional;\n\nh) Os embaixadores acreditados em posto e os chefes de missão diplomática e os representantes em missão conferida por entidade competente em representação de soberania;\n\ni) Os Diretores dos Serviços de Informações da República.\n\n3 - A competência prevista nos n.os 1 e 2 não admite delegação, exceto no caso expressamente previsto para o Sistema de Informações da República Portuguesa.\n\n4 - Se, no prazo máximo de 10 dias contados a partir da data da classificação provisória efetuada nos termos do n.º 2, esta não tiver sido expressamente ratificada, opera-se a respetiva caducidade.\n\n5 - Os titulares dos órgãos e serviços a quem compete a classificação definitiva ou provisória, estão, nos termos da Constituição e da lei, especialmente vinculados à proteção dos direitos, liberdades e garantias, à salvaguarda da transparência e do Estado de direito, bem como à garantia da segurança interna e externa do Estado, da independência nacional e da unidade e integridade do Estado e de quaisquer interesses fundamentais do Estado.\n\n6 - A classificação como segredo de Estado constitui um ato formal, que deve ser comunicado num prazo que não pode exceder 30 dias, à entidade referida no artigo 14.º da presente lei, verificado o cumprimento dos requisitos previstos no artigo 4.º, exceto no que respeita à classificação referida no n.º 1 do artigo 32.º da Lei Quadro do SIRP.\n\n7 - A classificação como segredo de Estado produz os seguintes efeitos:\n\na) Restrição de acesso, só podendo aceder a matérias, documentos ou informações classificadas os órgãos, os serviços e as pessoas devidamente autorizadas e adequadamente informadas sobre as formalidades, medidas de proteção, limitações e sanções para cada caso estabelecidas;\n\nb) Proibição de acesso e limitação de circulação por pessoas não autorizadas a locais ou equipamentos de armazenamento de documentos e informações classificados;\n\nc) Proibição de armazenamento de documentos e informações classificados fora dos locais ou equipamentos definidos para o efeito."
+  },
+  "58917145": {
+   "fragment_id": "58904650",
+   "type": 11,
+   "heading": "Artigo 4.º — Fundamentação e duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Fundamentação e duração\n\n1 - O ato de classificação de matérias, documentos ou informações como segredo de Estado, bem como o ato da respetiva desclassificação, devem ser fundamentados, indicando-se os interesses a proteger e os motivos ou as circunstâncias que justificam a aplicação do regime do segredo de Estado.\n\n2 - O ato de classificação de matérias, documentos ou informações como segredo de Estado, tendo em conta a natureza da fundamentação, determina a duração do mesmo ou o prazo em que o mesmo deve ser reapreciado.\n\n3 - O prazo para a duração da classificação ou para a respetiva reapreciação não pode ser superior a quatro anos, não podendo as renovações exceder o prazo de 30 anos, salvo nos casos expressamente previstos por lei.\n\n4 - O ato de classificação caduca pelo decurso do prazo."
+  },
+  "58917146": {
+   "fragment_id": "58904651",
+   "type": 11,
+   "heading": "Artigo 5.º — Regimes específicos relativos à duração da classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regimes específicos relativos à duração da classificação\n\n1 - O segredo de Estado decorrente das informações transmitidas no quadro das relações externas com natureza classificada não é objeto de desclassificação, exceto em caso de autorização expressa da fonte ou se integrar factos que consubstanciem crimes previstos no Estatuto do Tribunal Penal Internacional.\n\n2 - Exceciona-se do dever de desclassificação a matéria respeitante à proteção da vida privada.\n\n3 - O segredo de Estado relacionado com infraestruturas de fornecimento energético, infraestruturas de segurança e defesa, bem como com infraestruturas de proteção de informações não é objeto de desclassificação, exceto por ato formal e expresso do Primeiro-Ministro.\n\n4 - A classificação operada no âmbito do SIRP rege-se nos termos estabelecidos na respetiva lei orgânica."
+  },
+  "58917147": {
+   "fragment_id": "58904652",
+   "type": 11,
+   "heading": "Artigo 6.º — Desclassificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Desclassificação\n\n1 - As matérias, documentos ou informações sob segredo de Estado são desclassificados quando os pressupostos da classificação não estiverem assegurados ou quando a alteração das circunstâncias que a determinaram assim o permita.\n\n2 - Apenas tem competência para desclassificar matérias, documentos ou informações sujeitos ao regime do segredo de Estado a entidade que procedeu à respetiva classificação definitiva ou o Primeiro-Ministro."
+  },
+  "58917148": {
+   "fragment_id": "58904653",
+   "type": 11,
+   "heading": "Artigo 7.º — Salvaguarda da ação penal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Salvaguarda da ação penal\n\nOs documentos e as informações que constituam elementos de prova respeitantes a factos indiciários da prática de crimes contra a segurança do Estado devem ser comunicados às entidades competentes para a sua investigação, não podendo ser mantidos sob segredo de Estado, salvo pela entidade detentora do segredo e pelo tempo estritamente necessário à salvaguarda da segurança interna e externa, bem como à independência nacional e à unidade e integridade do Estado e à salvaguarda dos interesses fundamentais do Estado."
+  },
+  "58917149": {
+   "fragment_id": "58904654",
+   "type": 11,
+   "heading": "Artigo 8.º — Proteção dos documentos e informações classificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Proteção dos documentos e informações classificados\n\n1 - Os documentos e as informações classificados como segredo de Estado, nos termos da presente lei, devem ser objeto das adequadas medidas de segurança e proteção contra ações de sabotagem e de espionagem e contra fugas de informações ou quaisquer formas de divulgação.\n\n2 - Quem tomar conhecimento de documento ou informações classificados como segredo de Estado que, por qualquer razão não se mostre devidamente acautelado, fica investido no dever de providenciar pela sua imediata entrega ou comunicação à entidade responsável pela sua salvaguarda.\n\n3 - Em caso de impossibilidade de cumprimento do dever previsto no número anterior, devem o documento ou as informações ser entregues ou comunicados à entidade policial ou militar mais próxima, ficando esta obrigada a entregá-los ou a comunicá-los a qualquer das entidades competentes para classificar como segredo de Estado, no mais curto prazo possível, sem prejuízo do dever de adotar as adequadas medidas de proteção."
+  },
+  "58917150": {
+   "fragment_id": "58904655",
+   "type": 11,
+   "heading": "Artigo 9.º — Inoponibilidade do segredo de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Inoponibilidade do segredo de Estado\n\n1 - A classificação como segredo de Estado não é oponível ao Presidente da República nem ao Primeiro-Ministro.\n\n2 - Apenas têm acesso a documentos e a informações classificados como segredo de Estado, e mediante cumprimento das medidas de segurança e proteção a que se refere o n.º 1 do artigo anterior, as pessoas que deles careçam para o cumprimento das suas funções e que tenham sido autorizadas pela entidade que conferiu a classificação definitiva e, no caso dos Vice-Primeiros-Ministros e dos Ministros, por estes ou pelo Primeiro-Ministro.\n\n3 - A classificação como segredo de Estado de parte de documento, processo, ficheiro ou arquivo não determina restrição de acesso a partes não classificadas, salvo se tal restrição for incompatível com a proteção adequada às partes classificadas."
+  },
+  "58917151": {
+   "fragment_id": "58904656",
+   "type": 11,
+   "heading": "Artigo 10.º — Dever de sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Dever de sigilo\n\n1 - Os titulares de cargos políticos, ou quem se encontre no exercício de funções públicas e quaisquer pessoas que, em razão das suas funções, tenham acesso a matérias classificadas como segredo de Estado, ficam obrigados ao dever de sigilo, bem como a cumprir todas as medidas e normas de proteção estabelecidas na lei, mantendo-se os referidos deveres após o termo do exercício de funções.\n\n2 - Todos aqueles que por qualquer meio tenham acesso a documentos ou informações classificados como segredo de Estado ficam obrigados a guardar sigilo.\n\n3 - Quando o acesso a documentos ou informações classificados como segredo de Estado ocorre em condições especialmente gravosas, por potenciarem a divulgação maciça, no todo ou em parte, nomeadamente através de meios de comunicação social ou por recurso a plataformas de índole digital ou de qualquer outra natureza, o dever de sigilo é especialmente ponderado para efeitos de graduação da sanção penal, disciplinar ou cível, seja em razão da transmissão indevida da matéria, seja em razão da respetiva divulgação pelo recetor, desde que devidamente conscientes da natureza classificada na matéria.\n\n4 - Sempre que houver fundado risco de que matérias classificadas como segredo de Estado tenham sido indevidamente divulgadas e se encontrem na posse de meios de comunicação social, a entidade detentora do segredo notifica os mesmos da natureza classificada das matérias."
+  },
+  "58917152": {
+   "fragment_id": "58904657",
+   "type": 11,
+   "heading": "Artigo 11.º — Prestação de depoimento ou de declarações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Prestação de depoimento ou de declarações\n\n1 - Ninguém com conhecimento de matérias abrangidas pelo segredo de Estado chamado a depor ou a prestar declarações perante autoridades judiciais ou comissões de inquérito parlamentar os pode revelar total ou parcialmente.\n\n2 - Se a autoridade judicial ou a comissão de inquérito parlamentar considerar injustificada a recusa em depor ou prestar declarações, nos termos do número anterior, comunica o facto à entidade detentora do segredo, que justifica a manutenção ou não da recusa."
+  },
+  "58917153": {
+   "fragment_id": "58904658",
+   "type": 11,
+   "heading": "Artigo 12.º — Colisão entre segredo de Estado e direito de defesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Colisão entre segredo de Estado e direito de defesa\n\n1 - Nenhum titular de cargo político, ou quem em exercício de funções públicas e qualquer pessoa que, em razão das suas funções, tenha acesso a matérias classificadas como segredo de Estado, arguido em processo criminal, pode revelar factos abrangidos pelo segredo de Estado e, no tocante aos factos sobre os quais possa depor ou prestar declarações, não deve revelar as fontes de informação nem deve ser inquirido sobre as mesmas bem como sobre o resultado de análises ou elementos contidos nos arquivos.\n\n2 - Se, na qualidade de arguido, qualquer pessoa referida no número anterior, invocar que o dever de sigilo sobre matéria classificada como segredo de Estado afeta o exercício do direito de defesa, declara-o perante a autoridade judicial, à qual compete ponderar sobre se tal pode revestir-se de relevância fundamental para o exercício do direito de defesa.\n\n3 - Entendendo que a informação sob segredo de Estado pode revestir-se de relevância fundamental para o exercício da defesa, a autoridade judicial comunica o facto à entidade detentora do segredo, que autoriza, ou não, o seu levantamento.\n\n4 - Para efeitos de exercício do direito de defesa, o arguido deve circunscrever a matéria que considera relevante para o exercício do respetivo direito e em caso algum pode requerer ser desvinculado genericamente do dever de sigilo, não deve revelar as fontes de informação nem deve ser inquirido sobre as mesmas nem sobre o resultado de análises ou elementos contidos nos arquivos."
+  },
+  "58917154": {
+   "fragment_id": "58904659",
+   "type": 11,
+   "heading": "Artigo 13.º — Responsabilidade penal e disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Responsabilidade penal e disciplinar\n\n1 - A violação do dever de sigilo e do segredo de Estado é punida nos termos do Código Penal, do Código de Justiça Militar, dos diplomas aplicáveis ao SIRP e dos estatutos disciplinares aplicáveis ao infrator.\n\n2 - A violação por funcionário, agente ou dirigente em funções públicas dos deveres previstos nos artigos anteriores constitui falta disciplinar grave, punível com sanção que pode ir até à pena de demissão ou outra medida que implique a imediata cessação de funções do infrator, sem prejuízo da aplicação das sanções decorrentes da violação do dever de sigilo aplicáveis."
+  },
+  "58917155": {
+   "fragment_id": "58904660",
+   "type": 11,
+   "heading": "Artigo 14.º — Fiscalização do segredo de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Fiscalização do segredo de Estado\n\nSem prejuízo dos poderes de fiscalização pela Assembleia da República nos termos constitucionais, a fiscalização do regime do segredo de Estado é assegurada por uma entidade fiscalizadora, cuja criação e estatuto são aprovados por lei da Assembleia da República."
+  },
+  "58917156": {
+   "fragment_id": "58904661",
+   "type": 11,
+   "heading": "Artigo 15.º — Parecer prévio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Parecer prévio\n\nA reclamação graciosa ou a impugnação contenciosa de ato que indefira o acesso a qualquer documento com fundamento em segredo de Estado está condicionada ao prévio pedido pelo interessado e à emissão de parecer pela entidade fiscalizadora referida no artigo anterior, a qual se pronuncia no prazo de 30 dias."
+  },
+  "58917157": {
+   "fragment_id": "58904662",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 20 de junho de 2014.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 28 de julho de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 29 de julho de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "72914821": {
+   "fragment_id": "58904652",
+   "type": 11,
+   "heading": "Artigo 6.º — Desclassificação",
+   "in_force_from": "2015-01-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 1/2015 - Diário da República n.º 5/2015, Série I de 2015-01-08](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2015-66108231), em vigor a partir de 2015-01-09"
+   ],
+   "markdown": "###### Artigo 6.º — Desclassificação\n\n1 - As matérias, documentos ou informações sob segredo de Estado são desclassificados quando os pressupostos da classificação não estiverem assegurados ou quando a alteração das circunstâncias que a determinaram assim o permita.\n\n2 - Apenas tem competência para desclassificar matérias, documentos ou informações sujeitos ao regime do segredo de Estado a entidade que procedeu à respetiva classificação definitiva e, no caso dos Vice-Primeiros-Ministros e dos Ministros, estes ou o Primeiro-Ministro.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 1/2015 - Diário da República n.º 5/2015, Série I de 2015-01-08](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2015-66108231), em vigor a partir de 2015-01-09"
+  }
+ }
+}

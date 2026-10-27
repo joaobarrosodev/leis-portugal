@@ -1,0 +1,344 @@
+---
+schema_version: '1.0'
+id: pt:dre:2147247:por
+title: Resolução n.º 1/2014
+short_title: null
+summary: Nomeia os membros do conselho de administração do Centro Hospitalar de São João, E. P. E.
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Conselho de Ministros
+proposing_entity: null
+official_number: 1/2014
+official_date: null
+publication_date: '2014-01-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 10/2014, Série II de 2014-01-15
+  number: '10'
+  series: II
+  supplement: null
+  pages: 1213 - 1214
+  pdf_url: https://files.diariodarepublica.pt/2s/2014/01/010000000/0121301214.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2147247'
+  dre_path: /dr/detalhe/resolucao/1-2014-2147247
+  internal: pt:dre:2147247:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/1-2014-2147247
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/1-2014-2147247
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:15:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2f16b0d4e4574371adf9218263c75bb8312f3cc413f03092d656917012bf0ab8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:18Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Centro Hospitalar de São João
+- Conselho de Administração
+- Nomeação
+- Presidente
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:191077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1956764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:15:18Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 1/2014
+
+Nos termos do disposto no n.º 3 do artigo 1.º do [Decreto-Lei n.º 30/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2011-278890), de 2 de março, e nos artigos 6.º e 13.º dos Estatutos constantes do anexo II ao [Decreto-Lei n.º 233/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2005-469067), de 29 de dezembro, alterado e republicado pelo [Decreto-Lei n.º 244/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998), de 9 de novembro, conjugados com o artigo 21.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, e com o n.º 2 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, resulta que os membros do conselho de administração do Centro Hospitalar de São João, E.P.E., são nomeados por resolução do Conselho de Ministros, sob proposta dos membros do Governo responsáveis pelas áreas das finanças e da saúde, para um mandato de três anos, renovável até ao máximo de três renovações consecutivas.
+
+Atendendo a que os atuais membros do conselho de administração do Centro Hospitalar de São João, E.P.E., cessaram o respetivo mandato em 31 de dezembro de 2013, torna-se necessário proceder à nomeação dos membros deste órgão de administração, assegurando-se a continuidade de funções de quatro dos cinco membros.
+
+A remuneração dos membros do conselho de administração desta entidade pública empresarial obedece ao disposto no n.º 5 da [Resolução do Conselho de Ministros n.º 18/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-2012-542993), de 21 de fevereiro, e à classificação atribuída pela [Resolução do Conselho de Ministros n.º 36/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-2012-553924), de 26 de março, alterada pelas Resoluções do Conselho de Ministros n.os [97/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/97-2012-191077), de 21 de novembro, [45/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-2013-498125), de 19 de julho, e [48/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/48-2013-498720), de 29 de julho.
+
+Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, a Comissão de Recrutamento e Seleção para a Administração Pública, que se pronunciou, favoravelmente, sobre as nomeações constantes da presente resolução.
+
+Assim:
+
+Nos termos dos artigos 6.º e 13.º dos Estatutos constantes do anexo II ao [Decreto-Lei n.º 233/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2005-469067), de 29 de dezembro, alterado e republicado pelo [Decreto-Lei n.º 244/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998), de 9 de novembro, dos n.os 2 e 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Nomear, sob proposta dos Ministros de Estado e das Finanças e da Saúde, António Luís Trindade Sousa e Lobo Ferreira, João Porfírio Carvalho de Oliveira, Manuel Amaro Fernandes Ferreira, Margarida Fernandes Tavares (diretora clínica) e Eurídice Maria Corrêa Portela (enfermeira diretora), respetivamente, para os cargos de presidente e de vogais executivos do conselho de administração do Centro Hospitalar de São João, E.P.E., cuja idoneidade, experiência e competências profissionais para o desempenho dos cargos são evidenciados nas respetivas sinopses curriculares, que constam do anexo à presente resolução e da qual fazem parte integrante.
+
+2 - Autorizar os nomeados António Luís Trindade Sousa e Lobo Ferreira e Margarida Fernandes Tavares a exercerem a atividade de docência em estabelecimento de ensino superior público ou de interesse público.
+
+3 - Determinar que a presente resolução reporta os seus efeitos ao dia 1 de janeiro de 2014.
+
+2 de janeiro de 2014. - O Primeiro-Ministro, Pedro Passos Coelho.
+
+## ANEXO — Notas curriculares
+
+António Luís Trindade Sousa e Lobo Ferreira
+
+Data de Nascimento: 5 de outubro de 1959
+
+Naturalidade: Castelões de Cepeda, Paredes
+
+Licenciado em Medicina pela Faculdade de Medicina da Universidade do Porto
+
+Doutorado em Medicina pela Faculdade de Medicina da Universidade do Porto
+
+Especialista em Medicina Interna pela Ordem dos Médicos
+
+Assistente Graduado de Medicina Interna do Hospital de S. João
+
+Professor Auxiliar da Faculdade de Medicina da Universidade do Porto
+
+Membro do Grupo de Programa do Medicamento Hospitalar do Gabinete do Secretário de Estado da Saúde
+
+Presidente do Conselho de Administração do Centro Hospitalar de São João, E.P.E.
+
+Investigador da Unidade de Investigação e Desenvolvimento Cardiovascular do Porto na área da Insuficiência Cardíaca.
+
+Autor ou coautor de mais de 40 publicações em revistas internacionais indexadas.
+
+João Porfírio Carvalho de Oliveira
+
+Data Nascimento: 24 junho 1968
+
+Nacionalidade: Português
+
+Estado Civil: Casado, 2 filhas
+
+Formação:
+
+Pós-Graduação em Administração e Gestão da Saúde, Universidade Lusíada do Porto, 2013;
+
+Leadership in Healthcare Delivery, Universidade Nova, 2013;
+
+PADIS - Programa de Alta Direção de Instituições de Saúde, AESE, 2007;
+
+Mastering Health Care Finance, Harvard Medical, 2007;
+
+Gestão por Objetivos e Avaliação de Desempenho, Serga, 2007;
+
+Gestão Logística, AEP, 2003;
+
+E-Business, EGP, 2001;
+
+Employeeship, TMI, 2001;
+
+Licenciatura em Matemáticas Aplicadas, Universidade Lusíada do Porto,1993.
+
+Carreira Profissional:
+
+2011 - Nomeado Vogal Executivo do Conselho de Administração do Centro Hospitalar de S. João ([Despacho n.º 15836/2011](https://diariodarepublica.pt/dr/detalhe/despacho/15836-2011-1956764), de 22 de novembro de 2011)
+
+2009 - 2011 - Vogal Executivo do Conselho de Administração do Hospital de S. João, EPE
+
+2006 - 2009 - Diretor do Serviço de Aprovisionamento - Hospital de São João, E.P.E.
+
+2002 - 2005 - Diretor Logístico e Gestor de Informação da Uponor na Península Ibérica.
+
+1997 - 2001 - Gestor de Informação das três unidades na Península Ibérica. UponorEcoplás, SA, UponorTermoplás, SA e UponorResiplast, SAU.
+
+1995 - 1997 - IT Manager - Minas e Metalurgia, SA.
+
+1992 - 1995 - Analista Programador e formador na SegafredoZanetti, IllyCaffè e Centro de Formação Prof. Indústria do Calçado.
+
+Manuel Amaro Fernandes Ferreira
+
+Nacionalidade: Portuguesa
+
+Data Nascimento: 21 de março de 1969
+
+Formação Académica:
+
+Mestre em Finanças e Fiscalidade na Faculdade de Economia do Porto (2008/2010), com realização de tese de mestrado subordinada ao tema - «Princípios Estruturantes de um BalancedScorecard Estratégico para Sistemas Integrados de Saúde».
+
+Pós-Graduado em Finanças e Fiscalidade pela Escola de Gestão do Porto - UBPS (2007/2008);
+
+Licenciado em Gestão de Empresas pela Universidade de Évora (1987/1992).
+
+Experiência Profissional:
+
+Vogal Executivo do Conselho de Administração da Unidade Local de Saúde de Matosinhos, EPE (2011 - 2013);
+
+Diretor do Centro de Empresas de Viana do Castelo do Banco BPI (Abr/2010-Dez/2010);
+
+Vogal Executivo do Conselho de Administração da Unidade Local de Saúde do Alto Minho, EPE (Out/2008 - Mar/2010);
+
+Vogal Executivo do Conselho de Administração do Centro Hospitalar do Alto Minho, EPE (Jan/06 - Set/08);
+
+Vogal Executivo do Conselho de Administração do Centro Hospitalar do Alto Minho, SA (Ago/05 - Dez/05);
+
+Gerente de Conta da Banca de Empresas do Banco BPI - Centro de Empresas de Braga (1997 - Ago/05);
+
+Gestor de Cliente Empresas do Banco de Fomento e Exterior - Porto (1995 - 1997);
+
+Assistente Comercial do Banco de Fomento e Exterior - Porto (1993 - 1995);
+
+Outra Experiência Profissional e Formação Relevante:
+
+Docente do Módulo II - Gestão de Projectos de Investimento, da cadeira de Finanças I da Pós-Graduação de Finanças e Fiscalidade leccionada pela EGP-UBPS - Porto
+
+Coordenador da equipa de projeto que elaborou o Plano Estratégico para a constituição da Unidade Local de Saúde do Alto Minho, EPE por integração de todos os Centros de Saúde do distrito de Viana do Castelo e do Centro Hospitalar do Alto Minho, E.P.E. (Decreto Lei n.º 183/2008).
+
+Leadership in Healthcare Delivery - Nova School of Business & Economics
+
+PADIS - Programa de Alta Direção de Instituições de Saúde, Escola de Direção e Negócios (AESE)
+
+Margarida Fernandes Tavares
+
+Data de Nascimento: 21/junho/1970
+
+Nacionalidade: Portuguesa
+
+1997 Licenciada em Medicina pela Faculdade de Medicina da Universidade do Porto.
+
+Desde 2005 Assistente de Infeciologia, da carreira Médica Hospitalar, do Quadro de Pessoal do Hospital de São João/Assistente convidada da disciplina de Medicina (Clínica das Doenças Infeciosas) na Faculdade de Medicina da Universidade do Porto.
+
+2005 a 2010 Coordenadora (Responsável pelo Grupo Operativo) do Plano de Contingência para a Pandemia de Gripe do Hospital de São João, E.P.E./Membro do Grupo da Acompanhamento / Grupo Operativo Regional do Plano de Contingência para a Pandemia de Gripe da ARS Norte.
+
+2006 a 2010 Membro do Grupo Operativo Nacional para a Gripe da Direcção-Geral da Saúde e coautora do capítulo Cuidados de Saúde em Internamento do Plano de Contingência Nacional do Setor da Saúde para a Pandemia de Gripe. 2.ª Edição. DGS 2008.
+
+2007 a 2010 Adjunta do Diretor Clínico de Hospital de São João, E.P. E.
+
+2008 a 2010 Diretora do Internato Médico do Hospital de São João, E.P.E. e Membro do Conselho Nacional do Internato Médico.
+
+Desde 2010 Nomeada em 21 de junho Diretora Clínica do Hospital de São João, E.P.E., e renomeada a 14/11/2011 Diretora Clínica do Centro Hospitalar de São João, E.P.E..
+
+Desde 2011 Membro da Comissão do Programa do Medicamento Hospitalar (PMH), enquanto diretora clínica do Centro Hospitalar de São João, E.P.E.
+
+Desde 2013 Membro da Comissão Nacional de Farmácia e Terapêutica (CNFT), enquanto diretora clínica do Centro Hospitalar de São João, E.P.E.
+
+Frequentou os seguintes cursos de formação académica e profissional:
+
+«Epidemiologia Social», ABRASCO - Associação Brasileira de Pós-graduação em Saúde Coletiva, Baia, Brasil (1995); «MeasurementandMisclassificationErrors», Université Libre de Bruxelles, SchoolofPublicHealth, Bruxelas, Bélgica (1996); Clinicalperceptorship - EducationalProgramatthe Chelsea & Westminster Hospital HIV/GUM Directorate, Londres, Inglaterra (2002); «InfectiousDiseasesofAdults», Harvard Medical School, DepartmentofContinuingEducationand Massachusetts General Hospital, Boston, EUA (2003); «SurvivalAnalysis», Faculdade de Medicina do Porto (2003); «ClinicalEpidemiology», InternationalEpidemiologicalAssociation, Varsóvia, Polónia (2009); "XVIII Padis - AESE" (2010).
+
+Apresentou 30 comunicações por convite, foi autora ou coautora de 67 trabalhos originais apresentados em reuniões científicas, de 17 publicações científicas (por extenso) em revistas nacionais e internacionais e de 1 livro (2.ª Ed. 2011).
+
+Eurídice Maria Corrêa Portela
+
+NASCIMENTO: Data: 10 de setembro de 1955, Freguesia: Paranhos, Concelho: Porto
+
+ESTADO CIVIL: Divorciada
+
+FORMAÇÃO:
+
+Curso Geral de Enfermagem - 1976
+
+Especialização em Enfermagem Médico-cirúrgica - 1990
+
+Estudos Superiores Especializados em Enfermagem - 1993
+
+Curso de Administração de Serviços de Enfermagem - 1995
+
+PERCURSO PROFISSIONAL:
+
+1976/1988 - Serviço de Cirurgia 2 - Hospital de São João - Porto
+
+Enfermeira de 2ª
+
+Enfermeira de 1ª
+
+Enfermeira Graduada
+
+1990/1992 - Serviço de Cirurgia Vascular - Hospital de São João - Porto
+
+Enfermeira Graduado (com funções de gestão)
+
+Enfermeira Especialista
+
+1992/1999 - Bloco Operatório Central - Hospital de São João - Porto
+
+Enfermeira Especialista
+
+Enfermeira Chefe
+
+1999/2005 - Direção de Enfermagem - Hospital de São João - Porto
+
+Enfermeira Supervisora
+
+Desde junho 2005 - Administração - Hospital de São João/Centro Hospitalar de São João EPE - Porto
+
+207528679

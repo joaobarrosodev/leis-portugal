@@ -1,0 +1,350 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:2165825:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/regulamento-cmvm/2000-216598437",
+ "dre_path": "/dr/detalhe/regulamento-cmvm/2-2000-2165825",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2000-01-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "216595131",
+    "216595132",
+    "216595133",
+    "216595134",
+    "216595135",
+    "216595136",
+    "216595137",
+    "216595138",
+    "216595139",
+    "216595140",
+    "216595141",
+    "216595142",
+    "216595143",
+    "216595144",
+    "216595145",
+    "216595146",
+    "216595147"
+   ]
+  },
+  {
+   "date": "2010-03-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:3153070:por",
+     "title": "Regulamento da CMVM n.º 2/2010 - 2.ª Série",
+     "published": "2010-03-23",
+     "dre_path": "/dr/detalhe/regulamento-cmvm/2-2010-3153070"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "216595131",
+    "216595132",
+    "216595151",
+    "216595134",
+    "216595152",
+    "216595153",
+    "216595137",
+    "216595138",
+    "216595154",
+    "216595155",
+    "216595141",
+    "216595142",
+    "216595143",
+    "216595144",
+    "216595145",
+    "216595146",
+    "216595147"
+   ]
+  },
+  {
+   "date": "2013-05-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:2600130:por",
+     "title": "Regulamento da CMVM n.º 2/2013 - 2.ª Série",
+     "published": "2013-04-30",
+     "dre_path": "/dr/detalhe/regulamento-cmvm/2-2013-2600130"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "216595131",
+    "216595132",
+    "216595160",
+    "216595161",
+    "216595162",
+    "216595153",
+    "216595137",
+    "216595138",
+    "216595154",
+    "216595155",
+    "216595141",
+    "216595163",
+    "216595143",
+    "216595164",
+    "216595145",
+    "216595146",
+    "216595147"
+   ]
+  }
+ ],
+ "fragments": {
+  "216595131": {
+   "fragment_id": "216598438",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Regulamento da CMVM n.º 2/2000. - Sistema de Indemnização aos Investidores. - O Decreto-Lei n.º 222/99, de 22 de Junho, que criou o Sistema de Indemnização aos Investidores (adiante designado por Sistema), atribui à Comissão do Mercado de Valores Mobiliários competência para regulamentar a participação ou a exclusão do Sistema de empresas de investimento e instituições de crédito com sede em território de outro Estado membro da Comunidade Europeia, as despesas de funcionamento do Sistema suportadas pelas entidades participantes e os termos da constituição das garantias a prestar pelas mesmas entidades.\n\nEm conformidade, o presente regulamento determina a contribuição a prestar por cada entidade participante em caso de accionamento do Sistema, bem como o modo e forma pela qual a mesma é garantida. Assim, a garantia é prestada através de penhor de valores mobiliários, cujo valor na data da constituição não pode ser inferior a 107,5% da garantia devida. O valor do penhor é actualizado semestralmente ou sempre que, pela oscilação do preço de mercado dos valores mobiliários, seja inferior a 92,5% da garantia devida. Para a determinação da contribuição e da garantia, são definidos os procedimentos necessários à recolha da informação relativamente aos fundos e instrumentos financeiros que pertençam aos investidores ou que a entidade participante detém, administra ou gere por conta daqueles no âmbito de operações de investimento.\n\nO regulamento fixa o montante anual a suportar por cada entidade participante para as despesas de funcionamento do Sistema. Em todo o caso, a comissão directiva do Sistema pode dispensar esta contribuição anual em função das receitas do Sistema.\n\nFinalmente, são definidas as condições e procedimentos para a participação e exclusão do Sistema das empresas de investimento e instituições de crédito com sede em território de outro Estado membro da Comunidade Europeia relativamente aos créditos decorrentes de operações de investimento efectuadas pelas suas sucursais em Portugal quando manifestem interesse em nele participarem, em complemento da indemnização prevista no país de origem.\n\nAssim, ao abrigo do disposto no n.º 3 do artigo 5.º, no artigo 18.º e no n.º 3 do artigo 23.º do Decreto-Lei n.º 222/99, de 22 de Junho, que cria o Sistema de Indemnização aos Investidores, e ouvidos o Banco de Portugal, a comissão directiva do Sistema de Indemnização aos Investidores, a Associação Portuguesa de Bancos e a Associação Portuguesa de Sociedades Corretoras e Financeiras de Corretagem, o conselho directivo da Comissão do Mercado de Valores Mobiliários (adiante designada por CMVM) aprovou o seguinte regulamento:"
+  },
+  "216595132": {
+   "fragment_id": "216598439",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente regulamento aplica-se a:\n\na) Empresas de investimento com sede em Portugal, nomeadamente sociedades corretoras, sociedades financeiras de corretagem, sociedades gestoras de patrimónios e sociedades mediadoras dos mercados monetário ou de câmbios;\n\nb) Instituições de crédito com sede em Portugal autorizadas a prestar algum dos serviços de investimento constantes do n.º 1 do artigo 199.º-A do Regime Geral das Instituições de Crédito e Sociedades Financeiras ou o serviço constante do n.º 1 da Secção C do anexo à Directiva n.º 93/22/CEE, de 10 de Maio;\n\nc) Empresas de investimento e instituições de crédito que tenham sede em país não membro da Comunidade Europeia, relativamente a créditos decorrentes de operações de investimento efectuadas pelas suas sucursais em Portugal, salvo se esses créditos estiverem cobertos por um sistema de indemnização em termos equivalentes aos proporcionados pelo sistema português;\n\nd) Empresas de investimento e instituições de crédito autorizadas a efectuar operações de investimento que tenham sede no território de outro Estado membro da Comunidade Europeia, relativamente a créditos decorrentes de operações de investimento efectuadas pelas suas sucursais em Portugal, que pretendam participar no Sistema para complementar a indemnização prevista no país de origem."
+  },
+  "216595133": {
+   "fragment_id": "216598440",
+   "type": 11,
+   "heading": "Artigo 2.º — Informação a prestar ao Sistema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Informação a prestar ao Sistema\n\n1 - Cada entidade participante informa o Sistema, nos termos de instrução a emitir por este, do valor:\n\na) Dos fundos por ela devidos aos investidores ou que a estes pertençam e que se encontrem especialmente afectos a operações de investimento, não considerando os fundos excluídos da cobertura, nos termos do artigo 9.º do Decreto-Lei n.º 222/99, de 22 de Junho; e\n\nb) Dos instrumentos financeiros que pertençam aos investidores ou que sejam por ela detidos, administrados ou geridos por conta destes no âmbito de operações de investimento, não considerando os instrumentos financeiros excluídos, nos termos do artigo 9.º do Decreto-Lei n.º 222/99, de 22 de Junho.\n\n2 - Para efeitos do disposto na alínea a) do n.º 1, entende-se por fundos afectos a operações de investimento, entre outros:\n\na) Os fundos recebidos dos clientes pelas empresas de investimento para a realização de operações de investimento, ainda que depositados em contas bancárias com indicação de se tratarem de fundos de clientes;\n\nb) Os fundos depositados em contas bancárias, no âmbito de uma convenção que determine a afectação especial destes à realização de operações de investimento;\n\nc) Os fundos depositados em contas bancárias, na medida necessária para a liquidação de operações de aquisição ou de subscrição de valores mobiliários ou de outros instrumentos financeiros a estes equiparados por lei, desde que a instituição de crédito depositária tenha recebido do cliente instruções para a liquidação da operação, no caso em que este tenha dado directamente a ordem a outro intermediário financeiro;\n\nd) Os fundos depositados em contas bancárias, na medida necessária para a liquidação de operações de aquisição ou de subscrição de valores mobiliários ou de outros instrumentos financeiros a estes equiparados por lei, desde que o intermediário financeiro tenha comunicado à instituição de crédito depositária a realização da operação, no caso de ter sido esta a receber a ordem do cliente.\n\n3 - Para efeitos do disposto na alínea b) do n.º 1, consideram-se instrumentos financeiros:\n\na) Valores mobiliários, incluindo unidades de participação em organismos de investimento colectivo;\n\nb) Instrumentos do mercado monetário;\n\nc) Futuros sobre instrumentos financeiros, incluindo instrumentos equivalentes que dêem origem a uma liquidação financeira;\n\nd) Contratos a prazo relativos a taxas de juro (FRA);\n\ne) Swaps de taxas de juro, de divisas ou relativos a um índice sobre acções (equity swaps);\n\nf) Opções destinadas à compra ou à venda de qualquer instrumento financeiro referido nas alíneas anteriores, incluindo os instrumentos equivalentes que dêem origem a uma liquidação financeira, nomeadamente as opções sobre divisas e sobre taxas de juro.\n\n4 - No apuramento do valor dos fundos e instrumentos financeiros referidos nos números anteriores:\n\na) Os fundos são convertidos para euros às taxas de câmbio da data de referência da informação;\n\nb) Os valores mobiliários são avaliados com base no preço de mercado verificado na data de referência da informação, devendo os montantes ser convertidos para euros às taxas de câmbio da mesma data, ou, na ausência de preço de mercado:\n\ni) Os valores mobiliários de rendimento variável são avaliados pelo valor de aquisição ou, na sua falta, pelo valor nominal;\n\nii) As unidades de participação em organismos de investimento colectivo são avaliadas pelo valor patrimonial;\n\niii) Os restantes valores mobiliários são avaliados com base no valor nominal ou valor teórico.\n\nc) Os instrumentos do mercado monetário são avaliados segundo os critérios de valorização extrapatrimonial constantes do plano de contas para o sistema bancário, definido pelo Banco de Portugal, devendo os montantes ser convertidos para euros às taxas de câmbio da data de referência da informação;\n\nd) Os contratos a prazo relativos a taxas de juro (FRA) e os swaps de taxas de juro, de divisas ou relativos a um índice devem ser avaliados com base no proveito que o cliente obteria caso o contrato fosse liquidado na data de referência da informação, devendo os montantes apurados ser convertidos para euros às taxas de câmbio da data de referência da informação;\n\ne) Os instrumentos financeiros referidos nas alíneas c) e f) do número anterior são avaliados com base nas margens constituídas por cada cliente junto da entidade participante, bem como, sendo o caso, do saldo dos ajustes diários de ganhos e perdas, na data de referência da informação."
+  },
+  "216595134": {
+   "fragment_id": "216598441",
+   "type": 11,
+   "heading": "Artigo 3.º — Momento de prestação da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Momento de prestação da informação\n\nA informação prevista no artigo anterior é prestada:\n\na) Até final dos meses de Fevereiro e Agosto de cada ano, sendo os valores reportados ao final dos meses de Dezembro e Junho anteriores, respectivamente;\n\nb) Sempre que o Sistema a solicite."
+  },
+  "216595135": {
+   "fragment_id": "216598442",
+   "type": 11,
+   "heading": "Artigo 4.º — Financiamento corrente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Financiamento corrente\n\n1 - Até ao dia 15 de Janeiro de cada ano, cada entidade participante contribui com a importância de 2500 euros destinada a assegurar as despesas de funcionamento do Sistema.\n\n2 - Mediante deliberação da comissão directiva do Sistema, poderá ser dispensado, em cada ano, o pagamento, por todas as entidades participantes, da importância a que se refere o número anterior.\n\n3 - As entidades participantes que saiam do Sistema não têm direito a qualquer reembolso das importâncias a ele entregues."
+  },
+  "216595136": {
+   "fragment_id": "216598443",
+   "type": 11,
+   "heading": "Artigo 5.º — Responsável pelas relações com o Sistema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Responsável pelas relações com o Sistema\n\n1 - Cada entidade participante comunica ao Sistema a pessoa ou pessoas responsáveis pelas suas relações com o Sistema e os meios de comunicação entre ambos.\n\n2 - As pessoas que desempenhem as funções referidas no número anterior, caso não pertençam à administração da entidade participante, devem reunir as condições necessárias para representar a entidade participante nas relações com o Sistema e assegurar a prestação das informações solicitadas, bem como o seu carácter fidedigno, e o cumprimento das demais obrigações da entidade participante.\n\n3 - A prestação de qualquer informação ao Sistema pela entidade participante é obrigatoriamente subscrita pelo menos por uma das pessoas referidas no n.º 1.\n\n4 - Qualquer alteração aos elementos referidos no n.º 1 é comunicada ao Sistema no prazo de 15 dias após a sua verificação."
+  },
+  "216595137": {
+   "fragment_id": "216598444",
+   "type": 11,
+   "heading": "Artigo 6.º — Obrigação irrevogável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigação irrevogável\n\n1 - As entidades participantes assumem a obrigação irrevogável de entrega ao Sistema, em caso de accionamento deste, dos montantes necessários para pagamento das indemnizações que forem devidas aos investidores.\n\n2 - A obrigação irrevogável a que se refere o número anterior é formalizada através de declaração escrita da entidade participante dirigida ao Sistema, nos termos do modelo que este aprovará, e será acompanhada por anexo indicando os valores mobiliários dados em garantia da referida obrigação."
+  },
+  "216595138": {
+   "fragment_id": "216598445",
+   "type": 11,
+   "heading": "Artigo 7.º — Responsabilidade potencial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Responsabilidade potencial\n\nSimultaneamente à prestação da informação a que se refere o artigo 3.º, cada entidade participante regista nas suas contas a obrigação irrevogável, referida no artigo anterior, como uma responsabilidade potencial, por um montante correspondente a 1% do valor determinado nos termos do artigo 10.º"
+  },
+  "216595139": {
+   "fragment_id": "216598446",
+   "type": 11,
+   "heading": "Artigo 8.º — Penhor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Penhor\n\n1 - Em garantia da obrigação a que se refere o artigo 6.º, cada entidade participante constitui a favor do Sistema penhor de valores mobiliários integrados em sistema centralizado, no montante correspondente a 0,5% do valor determinado nos termos do artigo 10.º\n\n2 - O penhor é constituído por instrução da entidade participante à entidade gestora do sistema centralizado de valores mobiliários.\n\n3 - A extinção do penhor apenas pode ter lugar por iniciativa do Sistema, que informa a entidade gestora do sistema centralizado de valores mobiliários de tal facto.\n\n4 - O penhor constituído por cada entidade participante deve ser actualizado em conformidade com a informação prestada ao abrigo do artigo 3.º, devendo ser introduzidas as correspondentes alterações ao anexo referido no n.º 2 do artigo 6.º\n\n5 - Apenas podem ser objecto do penhor a que se referem os números anteriores valores mobiliários admitidos à negociação em bolsa ou noutros mercados regulamentados, emitidos ou garantidos por entidades em relação às quais as instituições de crédito e as sociedades financeiras estejam isentas da constituição de provisões para risco específico de crédito e que, à data de constituição do penhor, tenham prazo de amortização superior a 18 meses, desde que a lei aplicável à constituição do penhor admita a respectiva execução extrajudicial.\n\n6 - Os valores mobiliários dados em penhor, avaliados pela média dos preços de fecho ou de referência verificados nas últimas cinco sessões de bolsa ou do mercado regulamentado do mês anterior à data da constituição ou modificação do penhor, devem corresponder a um montante igual ou superior a 107,5% do referido no n.º 1.\n\n7 - Sempre que os valores mobiliários dados em penhor, avaliados pela média dos preços de fecho ou de referência verificados nas últimas cinco sessões de bolsa ou do mercado regulamentado, representem menos de 92,5% do montante referido no n.º 1, a entidade participante deve modificar o penhor, por forma a que seja reposta a percentagem referida no número anterior.\n\n8 - Nas datas em que os valores mobiliários sejam dados em penhor, cada entidade participante comprova perante o Sistema que aquele está registado a favor deste, que os valores em causa são de sua propriedade, que sobre eles não incide qualquer outro ónus, encargo, limitação ou vinculação e que a lei aplicável à constituição do penhor, caso não seja a portuguesa, admite a respectiva execução extrajudicial.\n\n9 - Os valores mobiliários dados em garantia podem ser substituídos, quer por iniciativa da entidade participante e com autorização do Sistema, quer por solicitação deste, implicando as devidas alterações ao anexo referido no n.º 2 do artigo 6.º\n\n10 - Os juros e demais rendimentos de valores mobiliários dados em penhor pertencem aos titulares dos mesmos."
+  },
+  "216595140": {
+   "fragment_id": "216598447",
+   "type": 11,
+   "heading": "Artigo 9.º — Contribuições em caso de accionamento do Sistema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Contribuições em caso de accionamento do Sistema\n\n1 - Em caso de accionamento do Sistema, a contribuição de cada entidade participante corresponde a uma percentagem do valor global das indemnizações, resultante do rácio entre o valor dos fundos e instrumentos financeiros, referidos no artigo 2.º, cobertos pelo Sistema e detidos, administrados ou geridos por essa entidade e o valor dos fundos e instrumentos financeiros cobertos pelo Sistema e detidos, administrados ou geridos pelo conjunto das entidades participantes, com excepção da entidade que originou o accionamento do Sistema.\n\n2 - Sem prejuízo do disposto no n.º 1, cada entidade participante apenas é obrigada a pagar, em cada ano, um montante correspondente a 2º/oo do valor determinado nos termos do artigo 10.º no ano de accionamento do Sistema.\n\n3 - Se o montante da contribuição devida por cada entidade participante for inferior ao limite definido no número anterior, a entidade deve manter registada, até ao final do ano em causa, uma responsabilidade potencial igual à diferença entre o valor daquele limite e o da contribuição devida, com um máximo correspondente a 1º/oo do valor determinado nos termos do artigo 10.º"
+  },
+  "216595141": {
+   "fragment_id": "216598448",
+   "type": 11,
+   "heading": "Artigo 10.º — Base de cálculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Base de cálculo\n\n1 - Para a determinação, relativamente a cada entidade participante, dos montantes da responsabilidade potencial, do penhor e das contribuições em caso de accionamento do Sistema, é utilizada a média dos dois valores mais recentes constantes da informação prestada ao Sistema ao abrigo do artigo 3.º\n\n2 - Nos casos em que ao Sistema tenha sido prestada, pela entidade participante, informação relativa a um único valor, os montantes referidos no número anterior serão determinados apenas com base nele."
+  },
+  "216595142": {
+   "fragment_id": "216598449",
+   "type": 11,
+   "heading": "Artigo 11.º — Adesão de novas entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Adesão de novas entidades\n\n1 - Sem prejuízo do disposto no artigo seguinte, as entidades mencionadas nas alíneas a) a c) do artigo 1.º que se registem na CMVM após a entrada em vigor do presente regulamento aderem ao Sistema na data do respectivo registo.\n\n2 - As sociedades mediadoras dos mercados monetário ou de câmbios aderem ao Sistema na data do respectivo registo no Banco de Portugal.\n\n3 - A adesão é efectuada oficiosamente e o Sistema notifica cada entidade participante da sua adesão e da data a partir da qual a mesma produz efeitos.\n\n4 - No prazo de 20 dias a contar da data de envio da notificação a que se refere o número anterior, cada entidade participante efectua o pagamento da importância a que se refere o artigo 4.º, calculada por duodécimos correspondentes ao mês em que aderiu ao Sistema, e dá cumprimento ao disposto no artigo 5.º\n\n5 - Simultaneamente ao envio da informação prestada ao abrigo do artigo 3.º, cada entidade participante dá cumprimento ao disposto nos artigos 6.º, 7.º e 8.º\n\n6 - O presente artigo é aplicável às entidades que resultem de processos de fusão por constituição, às que se constituam em resultado de processos de cisão e àquelas cuja alteração de objecto implique mudança de tipo de instituição."
+  },
+  "216595143": {
+   "fragment_id": "216598450",
+   "type": 11,
+   "heading": "Artigo 12.º — Dispensa de adesão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Dispensa de adesão\n\n1 - A participação no Sistema das entidades referidas na alínea c) do artigo 1.º pode ser dispensada se os créditos decorrentes de operações de investimento efectuadas pelas suas sucursais em Portugal estiverem cobertos por um sistema de indemnização em termos que a CMVM e o Banco de Portugal considerem equivalentes aos proporcionados pelo Sistema.\n\n2 - Sem prejuízo dos acordos bilaterais existentes sobre a matéria, as entidades que pretendam beneficiar da dispensa referida no número anterior devem apresentar documento com a descrição pormenorizada do sistema de indemnização aos investidores em que a entidade requerente participe e que assegure a protecção dos investidores clientes da sucursal, emitido ou certificado pelo sistema ou autoridade de supervisão do país de origem."
+  },
+  "216595144": {
+   "fragment_id": "216598451",
+   "type": 11,
+   "heading": "Artigo 13.º — Adesão de entidades com sede noutro Estado membro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Adesão de entidades com sede noutro Estado membro\n\nda Comunidade Europeia\n\n1 - As entidade mencionadas na alínea d) do artigo 1.º devem apresentar ao Sistema o respectivo pedido de adesão.\n\n2 - O pedido de adesão referido no número anterior deve ser instruído com os seguintes elementos:\n\na) Documento com a descrição pormenorizada do sistema de indemnização aos investidores em que a entidade requerente participe e que assegure a protecção dos investidores clientes da sucursal, emitido ou certificado pelo sistema ou autoridade de supervisão do país de origem;\n\nb) Indicação do complemento de cobertura pretendido;\n\nc) Valor dos fundos e instrumentos financeiros a cobrir pelo Sistema, referidos no artigo 2.º, reportado ao final dos meses de Junho e Dezembro anteriores ao pedido de adesão.\n\n3 - No prazo de 30 dias a contar da recepção do pedido, ou a contar da recepção de informações complementares solicitadas à entidade requerente ou ao sistema de indemnização ou autoridade de supervisão do país de origem, o Sistema notifica a entidade da decisão proferida e, se for o caso, da data a partir da qual a adesão produz efeitos e do complemento de cobertura concedido.\n\n4 - No prazo de 20 dias a contar da data de envio da notificação a que se refere o número anterior, cada entidade participante efectua o pagamento da importância a que se refere o artigo 4.º, calculada por duodécimos correspondentes ao mês em que aderiu ao Sistema, e dá cumprimento ao disposto nos artigos 5.º, 6.º, 7.º e 8.º\n\n5 - Após a notificação referida no n.º 3, o Sistema acorda com o sistema de indemnização do país de origem as regras e procedimentos adequados para o pagamento de indemnizações aos investidores da referida sucursal."
+  },
+  "216595145": {
+   "fragment_id": "216598452",
+   "type": 11,
+   "heading": "Artigo 14.º — Incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Incumprimento\n\n1 - Sem prejuízo dos procedimentos sancionatórios a que haja lugar, sempre que uma das entidades referidas na alínea d) do artigo 1.º não cumprir as obrigações que decorrem da sua participação no Sistema, este notifica a autoridade de supervisão do país de origem, que, em colaboração com o Sistema, tomará todas as medidas necessárias para assegurar o cumprimento das referidas obrigações.\n\n2 - Decorrido o prazo de um mês após a notificação referida no número anterior e mantendo-se a situação de incumprimento, o Sistema, com o consentimento da autoridade de supervisão do país de origem, notifica a empresa de investimento ou instituição de crédito, mediante pré-aviso de 12 meses, da intenção de a excluir.\n\n3 - Se uma das entidades mencionadas no n.º 1 for excluída do Sistema, os créditos decorrentes de operações de investimento efectuadas pelas suas sucursais anteriormente à data da exclusão continuam garantidos até à data da liquidação financeira da operação de investimento, no caso de fundos, ou por um prazo máximo de três meses, no caso de instrumentos financeiros.\n\n4 - O Sistema e a entidade publicitam de imediato e de forma adequada a exclusão desta."
+  },
+  "216595146": {
+   "fragment_id": "216598453",
+   "type": 11,
+   "heading": "Artigo 15.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Disposições transitórias\n\n1 - A adesão ao Sistema das entidades a que se referem as alíneas a) a c) do artigo 1.º que, à data da entrada em vigor do presente regulamento, se encontrem registadas na CMVM é oficiosamente efectuada pelo Sistema e produz efeitos desde aquela data.\n\n2 - Para efeitos do disposto no número anterior, a CMVM comunica ao Sistema a relação das entidades nele referidas que se encontrem registadas na CMVM com referência a essa data.\n\n3 - As sociedades mediadoras dos mercados monetário ou de câmbios que se encontrem registadas no Banco de Portugal aderem ao Sistema na data de entrada em vigor do presente regulamento.\n\n4 - O Sistema notifica cada entidade participante da sua adesão e da data a partir da qual a mesma produz efeitos.\n\n5 - No prazo de 20 dias a contar da data de envio da notificação a que se refere o número anterior, cada entidade participante efectua o pagamento de 2500 euros e dá cumprimento ao disposto nos artigos 5.º, 6.º, 7.º e 8.º\n\n6 - Até à prestação da informação relativa a Junho de 2000, o cálculo dos montantes a que se referem os artigos 7.º e 8.º é efectuado com base no valor reportado ao final do mês de Junho de 1999, constante da informação enviada à CMVM."
+  },
+  "216595147": {
+   "fragment_id": "216598454",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no Diário da República.\n\nLisboa, 20 de Janeiro de 2000. - O Presidente do Conselho Directivo, José Nunes Pereira."
+  },
+  "216595151": {
+   "fragment_id": "216598440",
+   "type": 11,
+   "heading": "Artigo 2.º — Informação a prestar ao Sistema",
+   "in_force_from": "2010-03-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2010 - Diário da República n.º 57/2010, Série II de 2010-03-23](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2010-3153070), em vigor a partir de 2010-03-24"
+   ],
+   "markdown": "###### Artigo 2.º — Informação a prestar ao Sistema\n\n1 - Cada entidade participante informa o Sistema, nos termos de instrução a emitir por este, do valor:\n\na) Dos fundos por ela devidos aos investidores ou que a estes pertençam e que se encontrem especialmente afectos a operações de investimento, não considerando os fundos excluídos da cobertura, nos termos do artigo 9.º do Decreto-Lei n.º 222/99, de 22 de Junho; e\n\nb) Dos instrumentos financeiros que pertençam aos investidores ou que sejam por ela detidos, administrados ou geridos por conta destes no âmbito de operações de investimento, não considerando os instrumentos financeiros excluídos, nos termos do artigo 9.º do Decreto-Lei n.º 222/99, de 22 de Junho.\n\n2 - Para efeitos do disposto na alínea a) do n.º 1, entende-se por fundos afectos a operações de investimento, entre outros:\n\na) Os fundos recebidos dos clientes pelas empresas de investimento para a realização de operações de investimento, ainda que depositados em contas bancárias com indicação de se tratarem de fundos de clientes;\n\nb) Os fundos depositados em contas bancárias, no âmbito de uma convenção que determine a afectação especial destes à realização de operações de investimento;\n\nc) Os fundos depositados em contas bancárias, na medida necessária para a liquidação de operações de aquisição ou de subscrição de valores mobiliários ou de outros instrumentos financeiros a estes equiparados por lei, desde que a instituição de crédito depositária tenha recebido do cliente instruções para a liquidação da operação, no caso em que este tenha dado directamente a ordem a outro intermediário financeiro;\n\nd) Os fundos depositados em contas bancárias, na medida necessária para a liquidação de operações de aquisição ou de subscrição de valores mobiliários ou de outros instrumentos financeiros a estes equiparados por lei, desde que o intermediário financeiro tenha comunicado à instituição de crédito depositária a realização da operação, no caso de ter sido esta a receber a ordem do cliente.\n\ne) Os fundos correspondentes às garantias de reembolso de montantes determinados ou determináveis a que, nos termos das condições contratuais das operações de investimento, a entidade participante se tenha vinculado perante os investidores, na medida em que o valor dos montantes garantidos exceda o valor líquido do património afecto às operações de investimento que garantem o reembolso em causa.\n\n3 - Para efeitos do disposto na alínea b) do n.º 1, consideram-se instrumentos financeiros os activos referidos na Secção C, do Anexo 1, da Directiva 2004/39/CE do Parlamento Europeu e do Conselho, de 21 de Abril de 2004, relativa aos mercados de instrumentos financeiros.\n\n4 - No apuramento do valor dos fundos e dos instrumentos financeiros, referidos nos números anteriores, na data de referência da informação, as entidades participantes procedem da seguinte forma:\n\na) Os valores dos fundos são convertidos para euros às respectivas taxas de câmbio;\n\nb) Os valores mobiliários são avaliados com base no último preço do mercado mais líquido, devendo os montantes ser convertidos para euros às respectivas taxas de câmbio, ou, na ausência de preço de mercado nos últimos 30 dias:\n\ni) As unidades de participação em instituições de investimento colectivo são avaliadas pelo último valor patrimonial divulgado pela entidade gestora;\n\nii) Os restantes valores mobiliários são avaliados pelo valor médio das últimas melhores ofertas de compra e de venda, difundidas através de entidades especializadas, ou, na sua falta, com base no preço de aquisição ou, não existindo os anteriores, no valor nominal;\n\niii) As entidades participantes podem, em substituição do critério referido na alínea ii), utilizar o valor teórico obtido através de modelos de avaliação utilizados e reconhecidos universalmente nos mercados financeiros, assegurando que os pressupostos utilizados na avaliação têm aderência às condições de mercado verificadas;\n\nc) Os instrumentos do mercado monetário são avaliados segundo os critérios de valorização extrapatrimonial constantes do Plano de Contas para o Sistema Bancário, definido pelo Banco de Portugal, devendo os montantes ser convertidos para euros às respectivas taxas de câmbio;\n\nd) Os instrumentos financeiros derivados são avaliados com base nas margens constituídas por cada cliente junto da entidade participante, bem como, sendo o caso, no saldo dos ajustes diários de ganhos e perdas, ou, na ausência de margens, com base no resultado positivo que o cliente obteria caso o contrato fosse liquidado, devendo, em qualquer dos casos, os montantes apurados ser convertidos para euros às respectivas taxas de câmbio.\n\n5 - O Sistema pode solicitar parecer sobre o método de avaliação dos instrumentos financeiros aplicado ou a aplicar pela entidade participante, a expensas desta, a outra entidade especializada, para efeitos de avaliação dos instrumentos financeiros em causa.\n\n6 - A informação referida nos números anteriores é prestada, de forma desagregada, para cada cliente elegível, indicando:\n\na) O número de identificação fiscal do cliente;\n\nb) O número de cada conta em que o cliente é titular ou contitular;\n\nc) Os instrumentos financeiros registados em cada conta;\n\nd) A quantidade e o valor dos instrumentos financeiros registados em cada conta, na proporção da contitularidade do cliente;\n\ne) O valor dos fundos afectos a operações de investimento, a que se refere o n.º 2 anterior, incluindo os correspondentes às garantias de reembolso, na medida prevista na parte final da alínea e) do mesmo número, respeitantes a cada conta, na proporção da contitularidade do cliente.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2010 - Diário da República n.º 57/2010, Série II de 2010-03-23](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2010-3153070), em vigor a partir de 2010-03-24"
+  },
+  "216595152": {
+   "fragment_id": "216598442",
+   "type": 11,
+   "heading": "Artigo 4.º — Financiamento corrente",
+   "in_force_from": "2010-03-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2010 - Diário da República n.º 57/2010, Série II de 2010-03-23](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2010-3153070), em vigor a partir de 2010-03-24"
+   ],
+   "markdown": "###### Artigo 4.º — Financiamento corrente\n\n1 - Até ao dia 15 de Janeiro de cada ano, cada entidade participante contribui com a importância de 2500 euros destinada a assegurar as despesas de funcionamento do Sistema.\n\n2 - Mediante deliberação da Comissão Directiva do Sistema, poderá ser dispensado, total ou parcialmente, em cada ano, o pagamento, por todas as entidades participantes, da importância a que se refere o número anterior.\n\n3 - As entidades participantes que saiam do Sistema não têm direito a qualquer reembolso das importâncias a ele entregues.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2010 - Diário da República n.º 57/2010, Série II de 2010-03-23](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2010-3153070), em vigor a partir de 2010-03-24"
+  },
+  "216595153": {
+   "fragment_id": "216598443",
+   "type": 11,
+   "heading": "Artigo 5.º — Responsável pelas relações com o Sistema",
+   "in_force_from": "2010-03-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2010 - Diário da República n.º 57/2010, Série II de 2010-03-23](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2010-3153070), em vigor a partir de 2010-03-24"
+   ],
+   "markdown": "###### Artigo 5.º — Responsável pelas relações com o Sistema\n\n1 - Cada entidade participante comunica ao Sistema a pessoa ou pessoas responsáveis pelas suas relações com o Sistema e os meios de comunicação entre ambos.\n\n2 - As pessoas que desempenhem as funções referidas no número anterior, caso não pertençam à administração da entidade participante, devem reunir as condições necessárias para representar a entidade participante nas relações com o Sistema e assegurar a prestação das informações solicitadas, bem como o seu carácter fidedigno, e o cumprimento das demais obrigações da entidade participante.\n\n3 - A prestação de qualquer informação ao Sistema pela entidade participante é obrigatoriamente subscrita pelo menos por um administrador ou por uma das pessoas referidas no n.º 1.\n\n4 - Qualquer alteração aos elementos referidos no n.º 1 é comunicada ao Sistema no prazo de 15 dias após a sua verificação.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2010 - Diário da República n.º 57/2010, Série II de 2010-03-23](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2010-3153070), em vigor a partir de 2010-03-24"
+  },
+  "216595154": {
+   "fragment_id": "216598446",
+   "type": 11,
+   "heading": "Artigo 8.º — Penhor",
+   "in_force_from": "2010-03-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2010 - Diário da República n.º 57/2010, Série II de 2010-03-23](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2010-3153070), em vigor a partir de 2010-03-24"
+   ],
+   "markdown": "###### Artigo 8.º — Penhor\n\n1 - Em garantia da obrigação a que se refere o artigo 6.º, cada entidade participante constitui a favor do Sistema penhor de valores mobiliários integrados em sistema centralizado, no montante correspondente a 0,5% do valor determinado nos termos do artigo 10.º\n\n2 - O penhor é constituído por instrução da entidade participante à entidade gestora do sistema centralizado de valores mobiliários ou, quando não possua acesso directo a este sistema, a intermediário financeiro habilitado a prestar a actividade mencionada na alínea a) do artigo 291.º do Código dos Valores Mobiliários que, por sua vez, o deve reflectir em conta aberta no sistema centralizado.\n\n3 - A extinção do penhor apenas pode ter lugar por iniciativa do Sistema, que informa a entidade gestora do sistema centralizado de valores mobiliários de tal facto.\n\n4 - O penhor constituído por cada entidade participante deve ser actualizado em conformidade com a informação prestada ao abrigo do artigo 3.º, devendo ser introduzidas as correspondentes alterações ao anexo referido no n.º 2 do artigo 6.º\n\n5 - Apenas podem ser objecto do penhor a que se referem os números anteriores valores mobiliários admitidos à negociação em mercados regulamentados, emitidos ou garantidos por entidades em relação às quais as instituições de crédito e as sociedades financeiras estejam isentas da constituição de provisões para risco específico de crédito e que, à data de constituição ou modificação do penhor e de cada uma das actualizações do mesmo a que se reporta o número anterior, tenham prazo de amortização superior a 18 meses, desde que a lei aplicável à constituição do penhor admita a respectiva execução extrajudicial.\n\n6 - Os valores mobiliários dados em penhor, avaliados pela média dos preços de fecho verificados nas últimas cinco sessões do mercado de referência do mês anterior à data da constituição ou modificação do penhor e de cada uma das actualizações do mesmo a que se reporta o n.º 4, devem corresponder a um montante igual ou superior a 107,5 % do referido no n.º 1.\n\n7 - Sempre que os valores mobiliários dados em penhor, avaliados pela média dos preços de fecho ou de referência verificados nas últimas cinco sessões do mercado de referência, representem menos de 92,5 % do montante referido no n.º 1, a entidade participante deve reforçar o penhor, por forma a que seja reposta a percentagem referida no número anterior.\n\n8 - Nas datas em que os valores mobiliários sejam dados em penhor, cada entidade participante comprova perante o Sistema que aquele está registado a favor deste, que os valores em causa são de sua propriedade, que sobre eles não incide qualquer outro ónus, encargo, limitação ou vinculação e que a lei aplicável à constituição do penhor, caso não seja a portuguesa, admite a respectiva execução extrajudicial.\n\n9 - Os valores mobiliários dados em garantia podem ser substituídos, quer por iniciativa da entidade participante e com autorização do Sistema, quer por solicitação deste, implicando as devidas alterações ao anexo referido no n.º 2 do artigo 6.º\n\n10 - Os juros e demais rendimentos de valores mobiliários dados em penhor pertencem aos titulares dos mesmos.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2010 - Diário da República n.º 57/2010, Série II de 2010-03-23](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2010-3153070), em vigor a partir de 2010-03-24"
+  },
+  "216595155": {
+   "fragment_id": "216598447",
+   "type": 11,
+   "heading": "Artigo 9.º — Contribuições em caso de accionamento do Sistema",
+   "in_force_from": "2010-03-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2010 - Diário da República n.º 57/2010, Série II de 2010-03-23](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2010-3153070), em vigor a partir de 2010-03-24"
+   ],
+   "markdown": "###### Artigo 9.º — Contribuições em caso de accionamento do Sistema\n\n1 - Em caso de accionamento do Sistema, a contribuição de cada entidade participante corresponde a uma percentagem do valor global das indemnizações, resultante do rácio entre o valor dos fundos e instrumentos financeiros, referidos no artigo 2.º, cobertos pelo Sistema e detidos, administrados ou geridos por essa entidade e o valor dos fundos e instrumentos financeiros cobertos pelo Sistema e detidos, administrados ou geridos pelo conjunto das entidades participantes, incluindo a entidade que originou o accionamento do Sistema, com um máximo de 2,5 % dos respectivos fundos próprios de base, de acordo com a informação mais recente, por referência à data do accionamento, veiculada pelo Banco de Portugal, mediante solicitação da Comissão Directiva do Sistema.\n\n2 - Sem prejuízo do disposto no n.º 1, cada entidade participante apenas é obrigada a pagar, em cada ano, um montante correspondente a 2º/oo do valor determinado nos termos do artigo 10.º no ano de accionamento do Sistema.\n\n3 - Se o montante da contribuição devida por cada entidade participante for inferior ao limite definido no número anterior, a entidade deve manter registada, até ao final do ano em causa, uma responsabilidade potencial igual à diferença entre o valor daquele limite e o da contribuição devida, com um máximo correspondente a 1º/oo do valor determinado nos termos do artigo 10.º\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2010 - Diário da República n.º 57/2010, Série II de 2010-03-23](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2010-3153070), em vigor a partir de 2010-03-24"
+  },
+  "216595160": {
+   "fragment_id": "216598440",
+   "type": 11,
+   "heading": "Artigo 2.º — Informação a prestar ao Sistema",
+   "in_force_from": "2013-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2013 - Diário da República n.º 83/2013, Série II de 2013-04-30](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2013-2600130), em vigor a partir de 2013-05-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2010 - Diário da República n.º 57/2010, Série II de 2010-03-23](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2010-3153070), em vigor a partir de 2010-03-24"
+   ],
+   "markdown": "###### Artigo 2.º — Informação a prestar ao Sistema\n\n1 - Cada entidade participante informa o Sistema, nos termos de instrução a emitir por este, do valor:\n\na) Dos fundos por ela devidos aos investidores ou que a estes pertençam e que se encontrem especialmente afectos a operações de investimento, não considerando os fundos excluídos da cobertura, nos termos do artigo 9.º do Decreto-Lei n.º 222/99, de 22 de Junho; e\n\nb) Dos instrumentos financeiros que pertençam aos investidores ou que sejam por ela detidos, administrados ou geridos por conta destes no âmbito de operações de investimento, não considerando os instrumentos financeiros excluídos, nos termos do artigo 9.º do Decreto-Lei n.º 222/99, de 22 de Junho.\n\n2 - Para efeitos do disposto na alínea a) do n.º 1, entende-se por fundos afectos a operações de investimento, entre outros:\n\na) Os fundos recebidos dos clientes pelas empresas de investimento para a realização de operações de investimento, ainda que depositados em contas bancárias com indicação de se tratarem de fundos de clientes;\n\nb) Os fundos depositados em contas bancárias, no âmbito de uma convenção que determine a afectação especial destes à realização de operações de investimento;\n\nc) Os fundos depositados em contas bancárias, na medida necessária para a liquidação de operações de aquisição ou de subscrição de valores mobiliários ou de outros instrumentos financeiros a estes equiparados por lei, desde que a instituição de crédito depositária tenha recebido do cliente instruções para a liquidação da operação, no caso em que este tenha dado directamente a ordem a outro intermediário financeiro;\n\nd) Os fundos depositados em contas bancárias, na medida necessária para a liquidação de operações de aquisição ou de subscrição de valores mobiliários ou de outros instrumentos financeiros a estes equiparados por lei, desde que o intermediário financeiro tenha comunicado à instituição de crédito depositária a realização da operação, no caso de ter sido esta a receber a ordem do cliente.\n\ne) Os fundos correspondentes às garantias de reembolso de montantes determinados ou determináveis a que, nos termos das condições contratuais das operações de investimento, a entidade participante se tenha vinculado perante os investidores, na medida em que o valor dos montantes garantidos exceda o valor líquido do património afecto às operações de investimento que garantem o reembolso em causa.\n\n3 - Para efeitos do disposto na alínea b) do n.º 1, consideram-se instrumentos financeiros os activos referidos na Secção C, do Anexo 1, da Directiva 2004/39/CE do Parlamento Europeu e do Conselho, de 21 de Abril de 2004, relativa aos mercados de instrumentos financeiros.\n\n4 - No apuramento do valor dos fundos e dos instrumentos financeiros, referidos nos números anteriores, na data de referência da informação, as entidades participantes procedem da seguinte forma:\n\na) Os valores dos fundos são convertidos para euros às respectivas taxas de câmbio;\n\nb) Os valores mobiliários são avaliados com base no último preço do mercado mais líquido, devendo os montantes ser convertidos para euros às respectivas taxas de câmbio, ou, na ausência de preço de mercado nos últimos 30 dias:\n\ni) As unidades de participação em instituições de investimento colectivo são avaliadas pelo último valor patrimonial divulgado pela entidade gestora;\n\nii) Os restantes valores mobiliários são avaliados pelo valor médio das últimas melhores ofertas de compra e de venda, difundidas através de entidades especializadas, ou, na sua falta, com base no preço de aquisição ou, não existindo os anteriores, no valor nominal;\n\niii) As entidades participantes podem, em substituição do critério referido na alínea ii), utilizar o valor teórico obtido através de modelos de avaliação utilizados e reconhecidos universalmente nos mercados financeiros, assegurando que os pressupostos utilizados na avaliação têm aderência às condições de mercado verificadas;\n\nc) Os instrumentos do mercado monetário são avaliados segundo os critérios de valorização extrapatrimonial constantes do Plano de Contas para o Sistema Bancário, definido pelo Banco de Portugal, devendo os montantes ser convertidos para euros às respectivas taxas de câmbio;\n\nd) Os instrumentos financeiros derivados são avaliados com base nas margens constituídas por cada cliente junto da entidade participante, bem como, sendo o caso, no saldo dos ajustes diários de ganhos e perdas, ou, na ausência de margens, com base no resultado positivo que o cliente obteria caso o contrato fosse liquidado, devendo, em qualquer dos casos, os montantes apurados ser convertidos para euros às respectivas taxas de câmbio.\n\n5 - O Sistema pode solicitar parecer sobre o método de avaliação dos instrumentos financeiros aplicado ou a aplicar pela entidade participante, a expensas desta, a outra entidade especializada, para efeitos de avaliação dos instrumentos financeiros em causa.\n\n6 - A informação referida nos números anteriores é prestada, de forma desagregada, para cada cliente elegível, indicando:\n\na) O número de identificação fiscal do cliente;\n\nb) O número de cada conta em que o cliente é titular ou contitular;\n\nc) Os instrumentos financeiros registados em cada conta;\n\nd) A quantidade e o valor dos instrumentos financeiros registados em cada conta, na proporção da contitularidade do cliente;\n\ne) O valor dos fundos afectos a operações de investimento, a que se refere o n.º 2 anterior, incluindo os correspondentes às garantias de reembolso, na medida prevista na parte final da alínea e) do mesmo número, respeitantes a cada conta, na proporção da contitularidade do cliente.\n\n6 - A informação referida nos números anteriores é prestada, de forma desagregada, para cada cliente elegível, indicando:\n\na) O valor dos instrumentos financeiros do cliente;\n\nb) O valor dos fundos afetos a operações de investimento do cliente, a que se refere o n.º 2 anterior, incluindo os correspondentes às garantias de reembolso, na medida prevista na parte final da alínea e) do mesmo número;\n\n7 - Sem prejuízo do disposto no número anterior, cada entidade participante deve dispor de um sistema de informação que permita, a todo o momento, prestar ao Sistema informação de forma desagregada por conta, por contitular de conta e por instrumento financeiro.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2013 - Diário da República n.º 83/2013, Série II de 2013-04-30](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2013-2600130), em vigor a partir de 2013-05-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2010 - Diário da República n.º 57/2010, Série II de 2010-03-23](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2010-3153070), em vigor a partir de 2010-03-24"
+  },
+  "216595161": {
+   "fragment_id": "216598441",
+   "type": 11,
+   "heading": "Artigo 3.º — Momento de prestação da informação",
+   "in_force_from": "2013-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2013 - Diário da República n.º 83/2013, Série II de 2013-04-30](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2013-2600130), em vigor a partir de 2013-05-01"
+   ],
+   "markdown": "###### Artigo 3.º — Momento de prestação da informação\n\nA informação prevista nos números 1 a 6 do artigo anterior é prestada:\n\na) Até final dos meses de Fevereiro e Agosto de cada ano, sendo os valores reportados ao final dos meses de Dezembro e Junho anteriores, respectivamente;\n\nb) Sempre que o Sistema a solicite.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2013 - Diário da República n.º 83/2013, Série II de 2013-04-30](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2013-2600130), em vigor a partir de 2013-05-01"
+  },
+  "216595162": {
+   "fragment_id": "216598442",
+   "type": 11,
+   "heading": "Artigo 4.º — Financiamento corrente",
+   "in_force_from": "2013-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2013 - Diário da República n.º 83/2013, Série II de 2013-04-30](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2013-2600130), em vigor a partir de 2013-05-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2010 - Diário da República n.º 57/2010, Série II de 2010-03-23](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2010-3153070), em vigor a partir de 2010-03-24"
+   ],
+   "markdown": "###### Artigo 4.º — Financiamento corrente\n\n1 - Até ao dia 15 de janeiro de cada ano, cada entidade que seja participante no Sistema a 31 de dezembro do ano anterior contribui com a importância de 5.000 euros destinada a assegurar as despesas de funcionamento do Sistema.\n\n2 - Mediante deliberação da Comissão Diretiva do Sistema, poderá ser dispensado, total ou parcialmente, em cada ano, o pagamento da importância a que se refere o número anterior.\n\n3 - No caso de dispensas parciais, estas podem ser fixadas por escalões de redução da contribuição prevista no n.º 1, determinados em função dos montantes reportados nos termos do artigo 3.º, de acordo com o disposto no artigo 10.º\n\n4 - As entidades participantes legalmente impedidas de deter dinheiro ou instrumentos financeiros de clientes estão isentas do dever de contribuição previsto no n.º 1.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2013 - Diário da República n.º 83/2013, Série II de 2013-04-30](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2013-2600130), em vigor a partir de 2013-05-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2010 - Diário da República n.º 57/2010, Série II de 2010-03-23](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2010-3153070), em vigor a partir de 2010-03-24"
+  },
+  "216595163": {
+   "fragment_id": "216598449",
+   "type": 11,
+   "heading": "Artigo 11.º — Adesão de novas entidades",
+   "in_force_from": "2013-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2013 - Diário da República n.º 83/2013, Série II de 2013-04-30](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2013-2600130), em vigor a partir de 2013-05-01"
+   ],
+   "markdown": "###### Artigo 11.º — Adesão de novas entidades\n\n1 - Sem prejuízo do disposto no artigo seguinte, as entidades mencionadas nas alíneas a) a c) do artigo 1.º que se registem na CMVM após a entrada em vigor do presente regulamento aderem ao Sistema na data do respectivo registo.\n\n2 - As sociedades mediadoras dos mercados monetário ou de câmbios aderem ao Sistema na data do respectivo registo no Banco de Portugal.\n\n3 - A adesão é efectuada oficiosamente e o Sistema notifica cada entidade participante da sua adesão e da data a partir da qual a mesma produz efeitos.\n\n4 - No prazo de 20 dias a contar da data de envio da notificação a que se refere o número anterior, cada entidade participante efetua o pagamento da importância de 2.500 euros, destinada a assegurar as despesas de funcionamento do Sistema, calculada por duodécimos correspondentes ao mês em que aderiu ao Sistema, e dá cumprimento ao disposto no artigo 5.º\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2013 - Diário da República n.º 83/2013, Série II de 2013-04-30](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2013-2600130), em vigor a partir de 2013-05-01"
+  },
+  "216595164": {
+   "fragment_id": "216598451",
+   "type": 11,
+   "heading": "Artigo 13.º — Adesão de entidades com sede noutro Estado membro",
+   "in_force_from": "2013-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2013 - Diário da República n.º 83/2013, Série II de 2013-04-30](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2013-2600130), em vigor a partir de 2013-05-01"
+   ],
+   "markdown": "###### Artigo 13.º — Adesão de entidades com sede noutro Estado membro\n\nda Comunidade Europeia\n\n1 - As entidade mencionadas na alínea d) do artigo 1.º devem apresentar ao Sistema o respectivo pedido de adesão.\n\n2 - O pedido de adesão referido no número anterior deve ser instruído com os seguintes elementos:\n\na) Documento com a descrição pormenorizada do sistema de indemnização aos investidores em que a entidade requerente participe e que assegure a protecção dos investidores clientes da sucursal, emitido ou certificado pelo sistema ou autoridade de supervisão do país de origem;\n\nb) Indicação do complemento de cobertura pretendido;\n\nc) Valor dos fundos e instrumentos financeiros a cobrir pelo Sistema, referidos no artigo 2.º, reportado ao final dos meses de Junho e Dezembro anteriores ao pedido de adesão.\n\n3 - No prazo de 30 dias a contar da recepção do pedido, ou a contar da recepção de informações complementares solicitadas à entidade requerente ou ao sistema de indemnização ou autoridade de supervisão do país de origem, o Sistema notifica a entidade da decisão proferida e, se for o caso, da data a partir da qual a adesão produz efeitos e do complemento de cobertura concedido.\n\n4 - No prazo de 20 dias a contar da data de envio da notificação a que se refere o número anterior, cada entidade participante efetua o pagamento da importância de 2.500 euros, destinada a assegurar as despesas de funcionamento do Sistema, calculada por duodécimos correspondentes ao mês em que aderiu ao Sistema, e dá cumprimento ao disposto nos artigos 5.º, 6.º, 7.º e 8.º.\"\n\n5 - Após a notificação referida no n.º 3, o Sistema acorda com o sistema de indemnização do país de origem as regras e procedimentos adequados para o pagamento de indemnizações aos investidores da referida sucursal.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2013 - Diário da República n.º 83/2013, Série II de 2013-04-30](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2013-2600130), em vigor a partir de 2013-05-01"
+  }
+ }
+}

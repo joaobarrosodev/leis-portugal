@@ -1,0 +1,412 @@
+---
+schema_version: '1.0'
+id: pt:dre:498561:por
+title: Decreto Legislativo Regional n.º 9/2013/A
+short_title: null
+summary: Primeira alteração ao Decreto Legislativo Regional n.º 19/2011/A, de 16 de junho, que regula o exercício da atividade
+  dos profissionais de informação turística na Região Autónoma dos Açores
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 9/2013/A
+official_date: null
+publication_date: '2013-08-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 147/2013, Série I de 2013-08-01
+  number: '147'
+  series: I
+  supplement: null
+  pages: 4528 - 4532
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/08/14700/0452804532.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/9/2013/08/01/a/dre/pt/html
+  oj: null
+  dre: '498561'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/9-2013-498561
+  internal: pt:dre:498561:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561
+  metadata_url: https://data.dre.pt/eli/declegreg/9/2013/08/01/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:21:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 979f8046bb8510ca3dc275bc8488637bde838915b83f6a09c7c6706b9bff0398
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:47Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Carteira Profissional
+- Contra-ordenação
+- Equivalência de Habilitações Literárias
+- Formação Profissional
+- Guia-intérprete
+- Profissional de Turismo
+- Promoção Profissional
+- Turismo
+relationships:
+- type: amended_by
+  target: pt:dre:160769663:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:160769663:por
+  label: Aditado, a partir de 06.04.2021, o art. 15.º-A (norma transitória) ao DLR 19/2011/A de 16-jun, na versão republicada
+    pelo presente diploma, pelo(a) Decreto Legislativo Regional n.º 7/2021/A - Diário da República n.º 65/2021, Série I de
+    2021-04-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/7-2021-160769663
+  date: '2021-04-05'
+- type: cites
+  target: celex:32005L0036
+  label: null
+  source: http://data.europa.eu/eli/dir/2005/36/oj
+- type: cites
+  target: pt:dre:669995:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/19/2011/06/16/a/dre
+article_structure:
+  article_count: 23
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:21:47Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 9/2013/A
+
+PRIMEIRA ALTERAÇÃO AO DECRETO LEGISLATIVO REGIONAL N.º 19/2011/A, DE 16 DE JUNHO, QUE REGULA O EXERCÍCIO DA ATIVIDADE DOS PROFISSIONAIS DE INFORMAÇÃO TURÍSTICA NA REGIÃO AUTÓNOMA DOS AÇORES.
+
+O Decreto Legislativo Regional n.º 19/2011/A, de 16 de junho, veio estabelecer o quadro regulador do exercício da atividade dos profissionais de informação turística na Região Autónoma dos Açores.
+
+Contudo, o Decreto-Lei n.º 92/2011, de 27 de julho, veio dar seguimento às orientações da Diretiva [2005/36/CE](http://data.europa.eu/eli/dir/2005/36/oj?locale=pt), de 7 de setembro de 2005, relativa ao reconhecimento das qualificações profissionais, originando um desfasamento de obrigações quanto ao exercício de uma mesma profissão no todo nacional.
+
+Tomando esse novo enquadramento em consideração, bem como o disposto nas recomendações da Comissão Europeia relativas ao cumprimento das orientações da Diretiva [2005/36/CE](http://data.europa.eu/eli/dir/2005/36/oj?locale=pt), de 7 de setembro de 2005, o Governo Regional dos Açores resolveu apresentar uma nova iniciativa legislativa no sentido de expurgar do Decreto Legislativo Regional n.º 19/2011/A, de 16 de junho, os procedimentos relativos à exigência de carteira profissional e, bem assim, alterar o disposto no artigo 11.º, relativo aos cidadãos comunitários que prestem serviços de acompanhamento a grupos de turistas provenientes de outros estados membros.
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
+
+###### Artigo 1.º — Alterações ao Decreto Legislativo Regional n.º 19/2011/A, de 16 de junho
+
+Os artigos 2.º a 12.º do Decreto Legislativo Regional n.º 19/2011/A, de 16 de junho, são alterados nos termos seguintes:
+
+«Artigo 2.º
+
+[...]
+
+1- Consideram-se profissionais de informação turística os indivíduos que, devidamente habilitados como guia-intérprete ou correio de turismo, mediante remuneração, acolhem, esclarecem e acompanham turistas nacionais e estrangeiros.
+
+2- (...):
+
+a) «Guia-intérprete» o profissional que acompanha turistas em viagens e visitas a locais de interesse turístico;
+
+b) (...).
+
+3- (...).
+
+Artigo 3.º
+
+Habilitação profissional
+
+O exercício de atividade dos profissionais de informação turística encontra-se condicionado à titularidade de certificado de aproveitamento em curso de formação reconhecido pelo serviço competente do Governo Regional com atribuições na área do trabalho.
+
+Artigo 4.º
+
+Formação em língua estrangeira
+
+Os profissionais de informação turística podem requerer ao serviço competente do Governo Regional com atribuições na área do turismo, que o certificado de titularidade de formação de nível superior, em língua estrangeira, ou de aproveitamento em exame internacional de língua estrangeira, reconhecido pelo organismo competente do país do idioma apreendido, seja registado.
+
+Artigo 5.º
+
+[...]
+
+1- Os planos curriculares e o regime de avaliação de conhecimentos dos cursos de formação profissional das profissões de informação turística são objeto de regulamentação em portaria dos membros do Governo Regional competentes nas áreas de turismo e qualificação profissional, ou, quando envolva habilitação específica para operar em reservas naturais, destes com o membro do Governo Regional competente em matéria de ambiente.
+
+2- (...).
+
+3- (...).
+
+Artigo 6.º
+
+[...]
+
+1- (...).
+
+2- A homologação confere ao titular do respetivo diploma ou certificado a dispensa de frequência e aproveitamento no curso de formação referido no artigo 3.º.
+
+3- (...).
+
+Artigo 7.º
+
+Distintivo
+
+1- No exercício da respetiva atividade, os profissionais de informação turística devem usar um distintivo de modelo aprovado por despacho dos membros do Governo Regional competentes em matéria de turismo e de trabalho.
+
+2- O distintivo referido no número anterior é emitido pelo serviço competente do departamento do Governo Regional com atribuições na área do trabalho.
+
+Artigo 8.º
+
+[...]
+
+1- Apenas o guia-intérprete pode, para além da visita a museus, palácios e monumentos nacionais, acompanhar turistas aos seguintes locais de interesse turístico:
+
+a) (...);
+
+b) (...);
+
+c) (...).
+
+2- O acompanhamento de turistas nos locais de interesse turístico referidos na alínea c) do número anterior fica condicionado, exceto no caso de visitas integradas em circuitos que abranjam outros locais de interesse turístico, à posse pelo guia, de formação profissional específica na área do turismo de natureza ou, em sua substituição, por um guia da natureza.
+
+3- Nas viagens turísticas que incluam visitas a locais de interesse turístico, as agências de viagens e turismo organizadoras, ou que naquelas intervenham em representação de outras agências de viagens e turismo ou operadores turísticos, nacionais ou estrangeiros, devem assegurar que as visitas sejam conduzidas por guia-intérprete.
+
+4- (...).
+
+Artigo 9.º
+
+[...]
+
+1- Quando comprovada a indisponibilidade de guia-intérprete, o correio de turismo que acompanhe a viagem turística pode conduzir as visitas aos locais de interesse turístico que naquela tenham sido incluídas.
+
+2- Sempre que a viagem não tenha acompanhamento por correio de turismo e seja comprovada a indisponibilidade de guia-intérprete, as empresas turísticas podem utilizar os seus trabalhadores na condução das visitas aos locais de interesse turístico incluídas na viagem.
+
+3- Considera-se comprovada a indisponibilidade de guia-intérprete quando as empresas turísticas demonstrem que não existe guia-intérprete disponível para conduzir a visita na ilha onde esta se realize.
+
+4- (...).
+
+Artigo 10.º
+
+[...]
+
+1- Sempre que na ilha onde se realizem as visitas a locais de interesse turístico se verifique a indisponibilidade de guia-intérprete que se expresse em idioma pouco difundido internacionalmente, as visitas a locais de interesse turístico podem ser acompanhadas por intérprete, sem prejuízo da obrigatoriedade da condução da visita por guia-intérprete.
+
+2- Considera-se comprovada a indisponibilidade de guia-intérprete quando as empresas turísticas demonstrem que, na ilha onde se realiza a visita, não existe guia-intérprete que se expresse no idioma estrangeiro indispensável à condução da visita.
+
+Artigo 11.º
+
+[...]
+
+Aos cidadãos comunitários que prestem serviços de acompanhamento a grupos de turistas provenientes de outros Estados membros, e que no mesmo percurso turístico entrem e saiam da Região Autónoma dos Açores, é permitido conduzir visitas a locais de interesse turístico, independentemente da disponibilidade de guias-intérpretes, desde que possuam as habilitações literárias e profissionais legalmente exigidas no Estado de origem.
+
+Artigo 12.º
+
+[...]
+
+1- (...).
+
+2- (...).
+
+3- A comunicação referida no número anterior, deve identificar o nome do profissional que irá realizar a visita, nacionalidade, documento legalmente exigido no país de origem para o exercício da profissão e datas previstas para entrada e saída da Região.»
+
+###### Artigo 2.º — Norma transitória
+
+1- É criado um regime excecional, de natureza transitória, aos indivíduos que não possuindo as habilitações profissionais exigidas, demonstrem o exercício ininterrupto das funções próprias da profissão na Região, nos termos seguintes:
+
+a) Os indivíduos que, sendo titulares de formação de nível superior, ou de curso de formação profissional de nível IV, na área do turismo, demonstrem o exercício das funções de guia-intérprete, durante um período ininterrupto de quatro anos anteriores à entrada em vigor do presente diploma, e cuja ponderação do mérito curricular permita concluir uma plena integração na atividade;
+
+b) Os indivíduos que, possuindo como habilitação mínima o 9.º ano de escolaridade ou equivalente, demonstrem o exercício ininterrupto das funções próprias de guia-intérprete, com início anterior à entrada em vigor da Portaria n.º 12/2006, de 26 de janeiro, e obtenham aproveitamento em curso qualificante para o efeito criado.
+
+2- O regime previsto no número anterior caduca 6 meses após a entrada em vigor do presente diploma.
+
+###### Artigo 3.º — Manutenção de direitos
+
+O disposto no presente diploma não prejudica o exercício da atividade dos profissionais de informação turística titulares de carteira profissional anteriormente emitida.
+
+###### Artigo 4.º — Revogação
+
+São revogados os n.os 2 e 3 do artigo 3.º, n.º 2 do artigo 4.º, n.º 1 do artigo 14.º e os artigos 15.º e 16.º do Decreto Legislativo Regional n.º 19/2011/A, de 16 de junho.
+
+###### Artigo 5.º — Republicação
+
+O Decreto Legislativo Regional n.º 19/2011/A, de 16 de junho, é devidamente republicado e renumerado em anexo ao presente diploma, que dele é parte integrante, com as alterações ora introduzidas.
+
+###### Artigo 6.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte à publicação.
+
+Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 20 de junho de 2013.
+
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
+
+Assinado em Angra do Heroísmo em 16 de julho de 2013.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+## ANEXO — Republicação do Decreto Legislativo Regional n.º 19/2011/A, de 16 de junho
+
+### CAPÍTULO I — Princípio gerais
+
+###### Artigo 1.º — Objeto
+
+O presente diploma regula o exercício da atividade dos profissionais de informação turística na Região Autónoma dos Açores.
+
+###### Artigo 2.º — Profissionais de informação turística
+
+1- Consideram-se profissionais de informação turística os indivíduos que, devidamente habilitados como guia-intérprete ou correio de turismo, mediante remuneração, acolhem, esclarecem e acompanham turistas nacionais e estrangeiros.
+
+2- Para efeitos do disposto no número anterior, entende-se por:
+
+a) «Guia-intérprete» o profissional que acompanha turistas em viagens e visitas a locais de interesse turístico;
+
+b) «Correio de turismo» o profissional que acompanha turistas em viagens ao País e ao estrangeiro como representante dos respetivos organizadores, velando pelo bem-estar dos turistas e pelo cumprimento do programa das viagens.
+
+3- Sem prejuízo do disposto no n.º 1, por portaria dos membros do Governo Regional competentes nas matérias de turismo e de trabalho, ou, quando envolva habilitação específica para operar em reservas naturais, destes com o membro do Governo Regional competente em matéria de ambiente, ouvidas as organizações representativas de empregadores e trabalhadores interessadas, podem ser criadas novas categorias de profissões de informação turística circunscritas ao território da Região.
+
+### CAPÍTULO II — Do exercício da atividade
+
+#### SECÇÃO I — Condições subjetivas
+
+###### Artigo 3.º — Habilitação profissional
+
+O exercício de atividade dos profissionais de informação turística encontra-se condicionado à titularidade de certificado de aproveitamento em curso de formação reconhecido pelo serviço competente do Governo Regional com atribuições na área do trabalho.
+
+###### Artigo 4.º — Formação em língua estrangeira
+
+Os profissionais de informação turística podem requerer ao serviço competente do Governo Regional com atribuições na área do turismo, que o certificado de titularidade de formação de nível superior, em língua estrangeira, ou de aproveitamento em exame internacional de língua estrangeira, reconhecido pelo organismo competente do país do idioma apreendido, seja registado.
+
+###### Artigo 5.º — Formação
+
+1- Os planos curriculares e o regime de avaliação de conhecimentos dos cursos de formação profissional das profissões de informação turística são objeto de regulamentação em portaria dos membros do Governo Regional competentes nas áreas de turismo e qualificação profissional, ou, quando envolva habilitação específica para operar em reservas naturais, destes com o membro do Governo Regional competente em matéria de ambiente.
+
+2- Os cursos de formação podem ser promovidos por entidades de natureza pública, particular, associativa ou cooperativa, designadamente escolas profissionais, com observância do disposto na portaria referida no número anterior.
+
+3- Anualmente, o serviço competente do departamento do Governo Regional com atribuições na área da qualificação profissional, em colaboração com o serviço competente do departamento do Governo Regional com atribuições na área de turismo, procede ao levantamento das necessidades de formação para as profissões de informação turística e para atualização e aperfeiçoamento de conhecimentos.
+
+###### Artigo 6.º — Equiparação de cursos de formação
+
+1- Por despacho de homologação do dirigente máximo do serviço competente do departamento do Governo Regional com atribuições na área da qualificação profissional, após parecer vinculativo do departamento do Governo Regional com atribuições na área de turismo, ou, quando envolva habilitação específica para operar em reservas naturais, do departamento do Governo Regional com atribuições na área de ambiente, pode ser reconhecida a equiparação de planos curriculares de licenciaturas ou de cursos de formação profissional que não coincidam com o disposto no regulamento da formação dos profissionais de informação turística.
+
+2- A homologação confere ao titular do respetivo diploma ou certificado a dispensa de frequência e aproveitamento no curso de formação referido no artigo 3.º.
+
+3- O procedimento para a homologação é regulamentado pela portaria referida no n.º 1 do artigo anterior.
+
+###### Artigo 7.º — Distintivo
+
+1- No exercício da respetiva atividade, os profissionais de informação turística devem usar um distintivo de modelo aprovado por despacho dos membros do Governo Regional competentes em matéria de turismo e de trabalho.
+
+2- O distintivo referido no número anterior é emitido pelo serviço competente do departamento do Governo Regional com atribuições na área do trabalho.
+
+#### SECÇÃO II — Condições objetivas
+
+###### Artigo 8.º — Locais de interesse turístico
+
+1- Apenas o guia-intérprete pode, para além da visita a museus, palácios e monumentos nacionais, acompanhar turistas aos seguintes locais de interesse turístico:
+
+a) Cidades e locais classificados como património da humanidade;
+
+b) Património cultural móvel e imóvel classificado como monumento ou tesouro regional ou de interesse público que conste do registo regional de bens culturais;
+
+c) Áreas protegidas classificadas como reserva natural.
+
+2- O acompanhamento de turistas nos locais de interesse turístico referidos na alínea c) do número anterior fica condicionado, exceto no caso de visitas integradas em circuitos que abranjam outros locais de interesse turístico, à posse pelo guia de formação profissional específica na área do turismo de natureza ou, em sua substituição, por um guia da natureza.
+
+3- Nas viagens turísticas que incluam visitas a locais de interesse turístico, as agências de viagens e turismo organizadoras, ou que naquelas intervenham em representação de outras agências de viagens e turismo ou operadores turísticos, nacionais ou estrangeiros, devem assegurar que as visitas sejam conduzidas por guia-intérprete.
+
+4- O disposto no número anterior não se aplica nas viagens por medida, devidamente comprovadas, e nas situações previstas nos n.os 1 e 2 do artigo seguinte e no artigo 11.º.
+
+###### Artigo 9.º — Indisponibilidade de guia-intérprete
+
+1- Quando comprovada a indisponibilidade de guia-intérprete, o correio de turismo que acompanhe a viagem turística pode conduzir as visitas aos locais de interesse turístico que naquela tenham sido incluídas.
+
+2- Sempre que a viagem não tenha acompanhamento por correio de turismo e seja comprovada a indisponibilidade de guia-intérprete, as empresas turísticas podem utilizar os seus trabalhadores na condução das visitas aos locais de interesse turístico incluídas na viagem.
+
+3- Considera-se comprovada a indisponibilidade de guia-intérprete quando as empresas turísticas demonstrem que não existe guia-intérprete disponível para conduzir a visita na ilha onde esta se realize.
+
+4- As exceções previstas nos números anteriores não se aplicam no caso de visita aos locais de interesse turístico mencionados na alínea c) do n.º 1 do artigo anterior.
+
+###### Artigo 10.º — Acompanhamento de visitas por intérprete
+
+1- Sempre que na ilha onde se realizem as visitas a locais de interesse turístico se verifique a indisponibilidade de guia-intérprete que se expresse em idioma pouco difundido internacionalmente, as visitas a locais de interesse turístico podem ser acompanhadas por intérprete, sem prejuízo da obrigatoriedade da condução da visita por guia-intérprete.
+
+2- Considera-se comprovada a indisponibilidade de guia-intérprete quando as empresas turísticas demonstrem que, na ilha onde se realiza a visita, não existe guia-intérprete que se expresse no idioma estrangeiro indispensável à condução da visita.
+
+###### Artigo 11.º — Visitas conduzidas por cidadãos comunitários
+
+Aos cidadãos comunitários que prestem serviços de acompanhamento a grupos de turistas provenientes de outros Estados membros, e que no mesmo percurso turístico entrem e saiam da Região Autónoma dos Açores, é permitido conduzir visitas a locais de interesse turístico, independentemente da disponibilidade de guias-intérpretes, desde que possuam as habilitações literárias e profissionais legalmente exigidas no Estado de origem.
+
+###### Artigo 12.º — Bolsa de profissionais
+
+1- Para efeito do disposto no n.º 3 do artigo 9.º e no n.º 2 do artigo 10.º, o serviço competente do departamento do Governo Regional com atribuições em matéria de turismo assegura a publicação em página eletrónica de uma listagem, atualizada mensalmente, com os profissionais de informação turística na Região e das respetivas ilhas em que exercem a atividade.
+
+2- Quando, para a realização de visitas a locais de interesse turístico, as empresas tenham que recorrer a profissionais não incluídos na listagem referida no número anterior, por motivo de inexistência de profissionais de informação turística na ilha em causa ou indisponibilidade dos mesmos, devem comunicá-lo, até dois dias antes, ao serviço competente do departamento do Governo Regional com atribuições em matéria de turismo, devendo conservar todos os meios de prova relativos aos contactos previamente efetuados, para efeitos de contratação de profissionais incluídos naquela lista.
+
+3- A comunicação referida no número anterior deve identificar o nome do profissional que irá realizar a visita, nacionalidade, documento legalmente exigido no país de origem para o exercício da profissão e datas previstas para entrada e saída da Região.
+
+### CAPÍTULO III — Fiscalização e sanções
+
+###### Artigo 13.º — Fiscalização
+
+A fiscalização do exercício das atividades de informação turística compete aos serviços com competência inspetiva dos departamentos do Governo Regional com atribuições em matéria do turismo e do trabalho, consoante as respetivas atribuições.
+
+###### Artigo 14.º — Contraordenações
+
+1- Constitui contraordenação, punível com coima entre (euro) 500 e (euro) 1000:
+
+a) O exercício das profissões de informação turística por quem não exiba distintivo;
+
+b) A violação do disposto no n.º 1 do artigo 8.º.
+
+2- Constitui contraordenação punível com coima entre (euro) 500 e (euro) 2500 a violação do disposto no n.º 3 do artigo 9.º, no n.º 2 do artigo 10.º e no n.º 2 do artigo 12.º, por pessoa coletiva.
+
+3- Em caso de reincidência, são elevados para o dobro os limites mínimos e máximos das coimas previstas nos números anteriores.
+
+4- Compete ao serviço com competência inspetiva do departamento do Governo Regional com atribuições em matéria do turismo a instauração do processo de contraordenação e ao seu dirigente máximo a aplicação da respetiva coima.
+
+5- O produto das coimas aplicadas nos termos dos números anteriores constitui receita da Região.
+
+### CAPÍTULO IV — Disposições transitórias e finais
+
+###### Artigo 15.º — Regulamentação
+
+1- Os regulamentos necessários à boa execução do presente diploma são adotados por portaria conjunta dos membros do Governo Regional competentes em matéria do turismo e do trabalho, num prazo máximo de 30 dias após a publicação do presente diploma.
+
+2- Quando regulamente as condições de certificação específica para operar em reservas naturais, a portaria a que se refere o número anterior é emitida conjuntamente pelos membros do Governo Regional competentes em matéria de turismo, trabalho e ambiente.
+
+###### Artigo 16.º — Revogação
+
+São revogados:
+
+a) O Decreto Legislativo Regional n.º 8/2004/A, de 23 de março;
+
+b) A Portaria n.º 79/2004, de 23 de setembro.
+
+###### Artigo 17.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte à publicação da regulamentação referida no artigo 15.º.

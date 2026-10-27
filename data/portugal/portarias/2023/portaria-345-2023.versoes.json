@@ -1,0 +1,82 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:224080874:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-261869324",
+ "dre_path": "/dr/detalhe/portaria/345-2023-224080874",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2023-11-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "351301176",
+    "351301177",
+    "351301178",
+    "351301179",
+    "351301180",
+    "351301181",
+    "351301183"
+   ]
+  }
+ ],
+ "fragments": {
+  "351301176": {
+   "fragment_id": "261869325",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 345/2023\n\nde 10 de novembro\n\nSumário: Procede ao redimensionamento do âmbito geográfico dos quadros de zona pedagógica e extingue os quadros de zona pedagógica criados pela Portaria n.º 156-B/2013, de 19 de abril.\n\nDecorridos 10 anos desde a publicação da Portaria n.º 156-B/2013, de 19 de abril, através da qual se procedeu à redução do número de quadros de zona pedagógica à data existentes, e após avaliação da adequação destes quadros, nomeadamente no que respeita à sua dimensão geográfica, o Governo inscreveu no seu Programa a reorganização destes quadros, permitindo reduzir as respetivas áreas geográficas. Esta reorganização impõe-se na medida em que a atual dimensão geográfica dos quadros de zona pedagógica não se mostra adequada para responder às oscilações naturais das necessidades de docentes dos agrupamentos de escolas e escolas não agrupadas (AE/EnA), não permite a estabilidade necessária para o desenvolvimento de projetos pedagógicos suscetíveis de melhorar a qualidade das aprendizagens dos alunos, nem promove a satisfação, motivação, bem-estar e a qualidade de vida profissional, familiar e pessoal dos docentes. O Governo ciente destes constrangimentos e com o objetivo de garantir à escola pública, de forma sustentável, os professores em número, qualidade e motivação necessárias à sua missão, através do Decreto-Lei n.º 32-A/2023, de 8 de maio, aprovou regras de gestão local de docentes que impõem a redução substancial das áreas geográficas dos quadros de zona pedagógica.\n\nNeste sentido, a presente portaria vem concretizar o redimensionamento do âmbito geográfico dos quadros de zona pedagógica, garantindo melhor equilíbrio entre a distribuição geográfica e a satisfação das necessidades dos AE/EnA, proporcionando um acréscimo de valor ao sistema educativo e a consequente melhoria dos resultados dos alunos e do bem-estar e da qualidade de vida profissional, familiar e pessoal dos docentes. Foram observados os procedimentos de negociação coletiva decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual.\n\nAssim:\n\nAo abrigo do disposto no n.º 3 do artigo 27.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril, na sua atual redação, manda o Governo, pelos Ministros das Finanças e da Educação, o seguinte:"
+  },
+  "351301177": {
+   "fragment_id": "261869326",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede ao redimensionamento do âmbito geográfico dos quadros de zona pedagógica."
+  },
+  "351301178": {
+   "fragment_id": "261869327",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração dos quadros de zona pedagógica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração dos quadros de zona pedagógica\n\n1 - São extintos os quadros de zona pedagógica criados pela Portaria n.º 156-B/2013, de 19 de abril.\n\n2 - São criados os quadros de zona pedagógica constantes do anexo à presente portaria, que dela faz parte integrante."
+  },
+  "351301179": {
+   "fragment_id": "261869328",
+   "type": 11,
+   "heading": "Artigo 3.º — Transição entre quadros de zona pedagógica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Transição entre quadros de zona pedagógica\n\nPara efeitos da presente portaria, os docentes dos quadros de zona pedagógica extintos transitam por concurso, nos termos previstos no n.º 9 do artigo 54.º do Decreto-Lei n.º 32-A/2023, de 8 de maio, para os quadros de zona pedagógica ora criados."
+  },
+  "351301180": {
+   "fragment_id": "261869329",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nÉ revogada a Portaria n.º 156-B/2013, de 19 de abril."
+  },
+  "351301181": {
+   "fragment_id": "261869330",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "351301183": {
+   "fragment_id": "261869332",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 2 do artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 2 do artigo 2.º)\n\n| QZP extintos | Concelhos | Novos QZP |\n| --- | --- | --- |\n|  |  |  |\n| QZP.01 | Melgaço ... | QZP.01 |\n|  | Monção ... |  |\n|  | Valença ... |  |\n|  | Caminha ... | QZP.02 |\n|  | Viana do Castelo ... |  |\n|  | Vila Nova de Cerveira ... |  |\n|  | Arcos de Valdevez ... | QZP.03 |\n|  | Paredes de Coura ... |  |\n|  | Ponte da Barca ... |  |\n|  | Ponte de Lima ... |  |\n|  | Amares ... | QZP.04 |\n|  | Terras de Bouro ... |  |\n|  | Vila Verde ... |  |\n|  | Barcelos ... | QZP.05 |\n|  | Esposende ... |  |\n|  | Braga ... | QZP.06 |\n|  | Póvoa de Lanhoso ... |  |\n|  | Vieira do Minho ... |  |\n|  | Guimarães ... | QZP.07 |\n|  | Vila Nova de Famalicão ... |  |\n|  | Vizela ... |  |\n|  | Cabeceiras de Basto ... | QZP.08 |\n|  | Celorico de Basto ... |  |\n|  | Fafe ... |  |\n|  | Gondomar ... | QZP.09 |\n|  | Maia ... |  |\n|  | Matosinhos ... |  |\n|  | Paredes ... |  |\n|  | Porto ... |  |\n|  | Póvoa de Varzim ... |  |\n|  | Santo Tirso ... |  |\n|  | Trofa ... |  |\n|  | Valongo ... |  |\n|  | Vila do Conde ... |  |\n|  | Vila Nova de Gaia ... |  |\n|  | Felgueiras ... | QZP.10 |\n|  | Lousada ... |  |\n|  | Paços de Ferreira ... |  |\n|  | Amarante ... | QZP11 |\n|  | Baião ... |  |\n|  | Marco de Canaveses ... |  |\n|  | Penafiel ... |  |\n|  | Boticas ... | QZP.12 |\n|  | Chaves ... |  |\n|  | Montalegre ... |  |\n| QZP.02 | Alijó ... | QZP.13 |\n|  | Mirandela ... |  |\n|  | Murça ... |  |\n|  | Valpaços ... |  |\n|  | Bragança ... | QZP.14 |\n|  | Macedo de Cavaleiros ... |  |\n|  | Vinhais ... |  |\n|  | Mondim de Basto ... | QZP.15 |\n|  | Ribeira de Pena ... |  |\n|  | Sabrosa ... |  |\n|  | Vila Pouca de Aguiar ... |  |\n|  | Vila Real ... |  |\n|  | Alfândega da Fé ... | QZP.16 |\n|  | Carrazeda de Ansiães ... |  |\n|  | Freixo de Espada à Cinta ... |  |\n|  | Torre de Moncorvo ... |  |\n|  | Vila Flor ... |  |\n|  | Vila Nova de Foz Côa ... |  |\n|  | Miranda do Douro ... | QZP.17 |\n|  | Mogadouro ... |  |\n|  | Vimioso ... |  |\n|  | Cinfães ... | QZP.18 |\n|  | Lamego ... |  |\n|  | Mesão Frio ... |  |\n|  | Peso da Régua ... |  |\n|  | Resende ... |  |\n|  | Santa Marta de Penaguião ... |  |\n|  | Tarouca ... |  |\n|  | Armamar ... | QZP.19 |\n|  | Moimenta da Beira ... |  |\n|  | Penedono ... |  |\n|  | São João da Pesqueira ... |  |\n|  | Sernancelhe ... |  |\n|  | Tabuaço ... |  |\n| QZP.03 | Arouca ... | QZP.20 |\n|  | Castelo de Paiva ... |  |\n|  | Espinho ... |  |\n|  | Oliveira de Azeméis ... |  |\n|  | Santa Maria da Feira ... |  |\n|  | São João da Madeira ... |  |\n|  | Vale de Cambra ... |  |\n|  | Castro Daire ... | QZP.21 |\n|  | Oliveira de Frades ... |  |\n|  | São Pedro do Sul ... |  |\n|  | Vouzela ... |  |\n|  | Mangualde ... | QZP.22 |\n|  | Penalva do Castelo ... |  |\n|  | Sátão ... |  |\n|  | Vila Nova de Paiva ... |  |\n|  | Viseu ... |  |\n|  | Albergaria-a-Velha ... | QZP.23 |\n|  | Aveiro ... |  |\n|  | Estarreja ... |  |\n|  | Murtosa ... |  |\n|  | Ovar ... |  |\n|  | Sever do Vouga ... |  |\n|  | Águeda ... | QZP.24 |\n|  | Anadia ... |  |\n|  | Ílhavo ... |  |\n|  | Mealhada ... |  |\n|  | Oliveira do Bairro ... |  |\n|  | Vagos ... |  |\n|  | Carregal do Sal ... | QZP.25 |\n|  | Mortágua ... |  |\n|  | Nelas ... |  |\n|  | Santa Comba Dão ... |  |\n|  | Tondela ... |  |\n| QZP.04 | Cantanhede ... | QZP.26 |\n|  | Figueira da Foz ... |  |\n|  | Mira ... |  |\n|  | Montemor-o-Velho ... |  |\n|  | Coimbra ... | QZP.27 |\n|  | Condeixa-a-Nova ... |  |\n|  | Lousã ... |  |\n|  | Miranda do Corvo ... |  |\n|  | Penacova ... |  |\n|  | Soure ... |  |\n|  | Vila Nova de Poiares ... |  |\n|  | Arganil ... | QZP.28 |\n|  | Góis ... |  |\n|  | Oliveira do Hospital ... |  |\n|  | Pampilhosa da Serra ... |  |\n|  | Tábua ... |  |\n|  | Batalha ... | QZP.29 |\n|  | Leiria ... |  |\n|  | Marinha Grande ... |  |\n|  | Pombal ... |  |\n|  | Porto de Mós ... |  |\n|  | Alvaiázere ... | QZP.30 |\n|  | Ansião ... |  |\n|  | Castanheira de Pera ... |  |\n|  | Figueiró dos Vinhos ... |  |\n|  | Pedrógão Grande ... |  |\n|  | Penela ... |  |\n| QZP.05 | Figueira de Castelo Rodrigo ... | QZP.31 |\n|  | Meda ... |  |\n|  | Pinhel ... |  |\n|  | Trancoso ... |  |\n|  | Aguiar da Beira ... | QZP.32 |\n|  | Celorico da Beira ... |  |\n|  | Fornos de Algodres ... |  |\n|  | Gouveia ... |  |\n|  | Seia ... |  |\n|  | Almeida ... | QZP.33 |\n|  | Guarda ... |  |\n|  | Sabugal ... |  |\n|  | Belmonte ... | QZP.34 |\n|  | Covilhã ... |  |\n|  | Fundão ... |  |\n|  | Manteigas ... |  |\n|  | Penamacor ... |  |\n|  | Oleiros ... | QZP.35 |\n|  | Proença-a-Nova ... |  |\n|  | Sertã ... |  |\n|  | Vila de Rei ... |  |\n|  | Castelo Branco ... | QZP.36 |\n|  | Idanha-a-Nova ... |  |\n|  | Vila Velha de Ródão ... |  |\n| QZP.06 | Alcanena ... | QZP.37 |\n|  | Entroncamento ... |  |\n|  | Ferreira do Zêzere ... |  |\n|  | Ourém ... |  |\n|  | Tomar ... |  |\n|  | Torres Novas ... |  |\n|  | Vila Nova da Barquinha ... |  |\n|  | Abrantes ... | QZP.38 |\n|  | Constância ... |  |\n|  | Mação ... |  |\n|  | Sardoal ... |  |\n|  | Alcobaça ... | QZP.39 |\n|  | Caldas da Rainha ... |  |\n|  | Nazaré ... |  |\n|  | Alenquer ... | QZP.40 |\n|  | Azambuja ... |  |\n|  | Cartaxo ... |  |\n|  | Rio Maior ... |  |\n|  | Santarém ... |  |\n|  | Bombarral ... | QZP.41 |\n|  | Cadaval ... |  |\n|  | Lourinhã ... |  |\n|  | Óbidos ... |  |\n|  | Peniche ... |  |\n|  | Arruda dos Vinhos ... | QZP.42 |\n|  | Mafra ... |  |\n|  | Sobral de Monte Agraço ... |  |\n|  | Torres Vedras ... |  |\n|  | Almeirim ... | QZP.43 |\n|  | Alpiarça ... |  |\n|  | Chamusca ... |  |\n|  | Golegã ... |  |\n|  | Benavente ... | QZP.44 |\n|  | Coruche ... |  |\n|  | Salvaterra de Magos ... |  |\n| QZP.07 | Amadora ... | QZP.45 |\n|  | Cascais ... |  |\n|  | Lisboa ... |  |\n|  | Loures ... |  |\n|  | Odivelas ... |  |\n|  | Oeiras ... |  |\n|  | Sintra ... |  |\n|  | Vila Franca de Xira ... |  |\n|  | Alcochete ... | QZP.46 |\n|  | Almada ... |  |\n|  | Barreiro ... |  |\n|  | Moita ... |  |\n|  | Montijo ... |  |\n|  | Palmela ... |  |\n|  | Seixal ... |  |\n|  | Sesimbra ... |  |\n|  | Setúbal ... |  |\n| QZP.08 | Castelo de Vide ... | QZP.47 |\n|  | Crato ... |  |\n|  | Gavião ... |  |\n|  | Marvão ... |  |\n|  | Nisa ... |  |\n|  | Portalegre ... |  |\n|  | Alter do Chão ... | QZP.48 |\n|  | Avis ... |  |\n|  | Fronteira ... |  |\n|  | Mora ... |  |\n|  | Ponte de Sor ... |  |\n|  | Arronches ... | QZP.49 |\n|  | Campo Maior ... |  |\n|  | Elvas ... |  |\n|  | Monforte ... |  |\n|  | Borba ... | QZP.50 |\n|  | Estremoz ... |  |\n|  | Sousel ... |  |\n|  | Vila Viçosa ... |  |\n|  | Alcácer do Sal ... | QZP.51 |\n|  | Montemor-o-Novo ... |  |\n|  | Vendas Novas ... |  |\n|  | Arraiolos ... | QZP.52 |\n|  | Évora ... |  |\n|  | Portel ... |  |\n|  | Viana do Alentejo ... |  |\n|  | Alandroal ... | QZP.53 |\n|  | Mourão ... |  |\n|  | Redondo ... |  |\n|  | Reguengos de Monsaraz ... |  |\n| QZP.09 | Grândola ... | QZP.54 |\n|  | Santiago do Cacém ... |  |\n|  | Sines ... |  |\n|  | Alvito ... | QZP.55 |\n|  | Beja ... |  |\n|  | Cuba ... |  |\n|  | Ferreira do Alentejo ... |  |\n|  | Vidigueira ... |  |\n|  | Barrancos ... | QZP.56 |\n|  | Moura ... |  |\n|  | Serpa ... |  |\n|  | Aljustrel ... | QZP.57 |\n|  | Odemira ... |  |\n|  | Ourique ... |  |\n|  | Almodôvar ... | QZP.58 |\n|  | Castro Verde ... |  |\n|  | Mértola ... |  |\n| QZP.10 | Aljezur ... | QZP.59 |\n|  | Lagos ... |  |\n|  | Vila do Bispo ... |  |\n|  | Lagoa ... | QZP.60 |\n|  | Monchique ... |  |\n|  | Portimão ... |  |\n|  | Silves ... |  |\n|  | Albufeira ... | QZP.61 |\n|  | Loulé ... |  |\n|  | Faro ... | QZP.62 |\n|  | Olhão ... |  |\n|  | São Brás de Alportel ... |  |\n|  | Alcoutim ... | QZP.63 |\n|  | Castro Marim ... |  |\n|  | Tavira ... |  |\n|  | Vila Real de Santo António ... |  |\n\n117034902"
+  }
+ }
+}

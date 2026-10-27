@@ -1,0 +1,221 @@
+---
+schema_version: '1.0'
+id: pt:dre:115276178:por
+title: Resolução da Assembleia da República n.º 124/2018
+short_title: null
+summary: Aprova o Tratado entre a República Portuguesa e o Reino de Espanha através do qual se estabelece a linha de fecho
+  das desembocaduras dos rios Minho e Guadiana e se delimitam os troços internacionais de ambos os rios, assinado em Vila
+  Real, a 20 de maio de 2017
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 124/2018
+official_date: null
+publication_date: '2018-05-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 91/2018, Série I de 2018-05-11
+  number: '91'
+  series: I
+  supplement: null
+  pages: 2066 - 2067
+  pdf_url: https://files.diariodarepublica.pt/1s/2018/05/09100/0206602067.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/124/2018/05/11/p/dre/pt/html
+  oj: null
+  dre: '115276178'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/124-2018-115276178
+  internal: pt:dre:115276178:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/124-2018-115276178
+  metadata_url: https://data.dre.pt/eli/resolassrep/124/2018/05/11/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/124-2018-115276178
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:54:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8449367c10e873dda94bb09b4d2e5e84563dc015a1633dd6ed6d0941c719a18d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:54:51Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Convenção
+- Direito Marítimo
+- Espaço Marítimo
+- Espanha
+- Mar
+- Mar Territorial
+- Portugal
+- Rio Guadiana
+- RIO Minho
+- Tratado entre a República Portuguesa e o Reino de Espanha através do qual se Estabelece a Linha de Fecho das Desembocaduras
+  dos Rios Minho e Guadiana e se Delimitam os Troços Internacionais de ambos os Rios
+- Vila Real
+relationships:
+- type: amended_by
+  target: pt:dre:115276177:por
+  label: Ratificado o Tratado, pelo(a) Decreto do Presidente da República n.º 35/2018 - Diário da República n.º 91/2018, Série
+    I de 2018-05-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/35-2018-115276177
+  date: '2018-05-11'
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:54:51Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 124/2018
+
+Aprova o Tratado entre a República Portuguesa e o Reino de Espanha através do qual se estabelece a linha de fecho das desembocaduras dos rios Minho e Guadiana e se delimitam os troços internacionais de ambos os rios, assinado em Vila Real, a 20 de maio de 2017.
+
+A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e do n.º 5 do artigo 166.º da Constituição, aprovar o Tratado entre a República Portuguesa e o Reino de Espanha através do qual se estabelece a linha de fecho das desembocaduras dos rios Minho e Guadiana e se delimitam os troços internacionais de ambos os rios, assinado em Vila Real, a 20 de maio de 2017, cujo texto, nas versões autenticadas nas línguas portuguesa e castelhana, se publica em anexo.
+
+Aprovada em 23 de março de 2018.
+
+O Vice-Presidente da Assembleia da República, em substituição do Presidente da Assembleia da República, Jorge Lacão.
+
+TRATADO ENTRE A REPÚBLICA PORTUGUESA E O REINO DE ESPANHA ATRAVÉS DO QUAL SE ESTABELECE A LINHA DE FECHO DAS DESEMBOCADURAS DOS RIOS MINHO E GUADIANA E SE DELIMITAM OS TROÇOS INTERNACIONAIS DE AMBOS OS RIOS.
+
+A República Portuguesa e o Reino de Espanha:
+
+Conscientes da segurança jurídica decorrente de limites bem definidos e da necessidade de estabelecer uma linha que separe as águas interiores do mar territorial nas desembocaduras dos rios Minho e Guadiana, que constitua uma base para, no futuro, ser possível iniciar uma negociação de delimitação de mar territorial, zona económica exclusiva e ampliação da plataforma continental para além das 200 milhas;
+
+Conscientes também da necessidade de delimitar os troços internacionais dos rios Minho e Guadiana;
+
+Tendo em conta a necessidade de cumprir escrupulosamente o Direito Internacional e, em particular, a Convenção das Nações Unidas sobre o Direito do Mar;
+
+no quadro das excelentes relações que existem entre ambos os Estados, acordam no seguinte:
+
+###### Artigo 1.º
+
+A linha reta imaginária definida pelo ponto de coordenadas 41º 52' 00.85" N, 008º 52' 21.30" W (ETRS89), na Punta de los Picos, na costa espanhola, e pelo ponto de coordenadas 41º 51' 53" N, 008º 52' 44" W (ETRS89), situado na pedra que sobressai na baixa-mar, na costa portuguesa, fecha a desembocadura do rio Minho, separando as águas interiores do mar territorial.
+
+###### Artigo 2.º
+
+A linha reta imaginária definida pelo ponto de coordenadas 37º 09' 58,32" N, 007º 23' 41,70" W (ETRS89), situado na costa espanhola, correspondente à torre-baliza cilíndrica (quebra-mar baluarte submerso) n.º 08490.5 da parte i de 2016 da publicação «Faros y Señales de Niebla» («Faróis e Sinais de Nevoeiro»), publicado pelo IHM, e o ponto de coordenadas 37º 09' 47,50" N, 007º 23' 59,00" W (ETRS89), situado na ponta daquele que é conhecido como Dique Poente, na costa portuguesa, fecha a desembocadura do rio Guadiana, separando as águas interiores do mar territorial.
+
+###### Artigo 3.º
+
+O Troço Internacional do rio Minho encontra-se delimitado pela sua confluência com o rio Trancoso e pela linha contínua que une os pontos descritos no artigo 1.º, o farolim da Ínsua de coordenadas 41º 51' 33,17" N, 008º 52' 30,23" W (ETRS89) e a marca da Ponta Ruiva de coordenadas 41º 51' 29,94" N, 008º 52' 04,26" W (ETRS89), na costa portuguesa. Por conseguinte, para lá das referidas linhas não se aplicam os tratados internacionais relativos ao Troço Internacional do rio Minho.
+
+###### Artigo 4.º
+
+O Troço Internacional do rio Guadiana encontra-se delimitado pela sua confluência com o rio Chança e a linha de fecho da desembocadura descrita no artigo 2.º Por conseguinte, para lá da dita linha não são aplicáveis os tratados internacionais relativos ao Troço Internacional do rio Guadiana.
+
+###### Artigo 5.º
+
+Todos os pontos citados nos artigos anteriores deverão encontrar-se identificados através de um sinal apropriado, sempre que tal seja possível.
+
+###### Artigo 6.º
+
+O presente Tratado entrará em vigor 30 dias após a receção da última notificação, por escrito e por via diplomática, informando que foram cumpridos os requisitos de direito interno das Partes necessários para o efeito.
+
+###### Artigo 7.º
+
+1 - O presente Tratado permanecerá em vigor por um período de tempo indeterminado.
+
+2 - Qualquer das Partes poderá, a qualquer momento, denunciar o presente Tratado.
+
+3 - A denúncia deverá ser notificada, por escrito e por via diplomática, produzindo efeitos seis meses após a receção da respetiva notificação.
+
+Feito em Vila Real, no dia 30 de maio de 2017, em dois exemplares, nas línguas portuguesa e castelhana, fazendo ambos os textos igualmente fé.
+
+Pela República Portuguesa:
+
+Augusto Santos Silva, Ministro dos Negócios Estrangeiros da República Portuguesa.
+
+Pelo Reino de Espanha:
+
+Alfonso María Dastis, Ministro dos Assuntos Exteriores e de Cooperação do Reino de Espanha.
+
+TRATADO ENTRE LA REPÚBLICA PORTUGUESA Y EL REINO DE ESPAÑA POR EL QUE SE ESTABLECE LA LÍNEA DE CIERRE DE LAS DESEMBOCADURAS DE LOS RÍOS MIÑO Y GUADIANA Y SE DELIMITAN LOS TRAMOS INTERNACIONALES DE AMBOS RÍOS.
+
+La República Portuguesa e el Reino de España:
+
+Conscientes de la seguridad jurídica que surge de unos límites bien definidos, y de la necesidad de establecer una línea que separe las aguas interiores del mar territorial en las desembocaduras de los ríos Miño y Guadiana, que constituya una base para poder comenzar en un futuro una negociación de delimitación del mar territorial, zona económica exclusiva y ampliación de la plataforma continental más allá de las 200 millas;
+
+Conscientes también de la necesidad de delimitar los tramos internacionales de los ríos Miño y Guadiana;
+
+Teniendo presente la necesidad de cumplir escrupulosamente el Derecho Internacional, y en particular la Convención de Naciones Unidas sobre el Derecho del Mar;
+
+acuerdan, en el marco de las excelentes relaciones que existen entre ambos Estados, lo siguiente:
+
+Artículo 1
+
+La línea recta imaginaria definida por el punto de coordenadas 41º 52' 00.85" N, 008º 52' 21.30" W (ETRS89), en la Punta de los Picos de la costa española, y el punto de coordenadas 41º 51' 53" N, 008º 52' 44" W (ETRS89), situado en la Piedra que vela en bajamar, en la costa portuguesa, cierra la desembocadura del río Miño, separando las aguas interiores del mar territorial.
+
+Artículo 2
+
+La línea recta imaginaria definida por el punto de coordenadas 37º 09' 58,32" N, 007º, 23' 41,70" W (ETRS89), situado en la costa española, correspondiente a la torre baliza cilíndrica (Espigón sumergido Baluarte) n.º 08490.5 de la publicación «Faros y Señales de Niebla» Parte I de 2016 publicado por el IHM, y el punto de coordenadas 37º 09' 47,50" N, 007º 23' 59,00" W (ETRS89), situado en la punta del conocido como Dique de Poniente, en la costa portuguesa, cierra la desembocadura del río Guadiana, separando las aguas interiores del mar territorial.
+
+Artículo 3
+
+El Tramo Internacional del río Miño está delimitado por su confluencia con el río Troncoso y por la línea continua que une los puntos descritos en el artículo 1, el faro de Insua de coordenadas 41º 51' 33,17" N, 008º 52' 30,23" W (ETRS89) y la marca de Punta Ruiva de coordenadas 41º 51' 29,94" N, 008º 52' 04,26" W (ETRS89), en la costa portuguesa. En consecuencia, más allá de dichas líneas no se aplican los tratados internacionales que afecten al Tramo Internacional del río Miño.
+
+Artículo 4
+
+El Tramo Internacional del río Guadiana está delimitado por su confluencia con el río Chanza y la línea de cierre de la desembocadura descrita en el artículo 2. En consecuencia, más allá de dicha línea no se aplican los tratados internacionales que afectan al Tramo Internacional del río Guadiana.
+
+Artículo 5
+
+Todos los puntos citados en los artículos anteriores deberían ser monumentados, cuando ello resulte posible, mediante una señal apropiada.
+
+Artículo 6
+
+El presente Tratado entrará en vigor treinta (30) días después de la recepción de la última notificación, por escrito y por vía diplomática, informando que fueron cumplidos los requisitos de Derecho interno de las Partes necesarios para el efecto.
+
+Artículo 7
+
+1 - El presente Tratado permanecerá en vigor por un período de tiempo indefinido.
+
+2 - Cualquiera de las Partes podrá, en cualquier momento, denunciar el presente Tratado.
+
+3 - La denuncia deberá ser notificada, por escrito y por vía diplomática, produciendo efectos seis meses después de la recepción de la respectiva notificación.
+
+Hecho en Vila Real, el día 30 de mayo de 2017 en dos ejemplares, en lengua portuguesa y castellana, siendo ambos textos igualmente fehacientes.
+
+Por la República Portuguesa:
+
+Augusto Santos Silva, Ministro de Negocios Extranjeros de la República Portuguesa.
+
+Por el Reino de España:
+
+Alfonso Maria Dastis, Ministro de Asuntos Exteriores y de Cooperación del Reino de España.
+
+92018

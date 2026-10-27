@@ -1,0 +1,854 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:151525:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1985-167359714",
+ "dre_path": "/dr/detalhe/decreto-lei/168-1985-151525",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1985-05-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "167361084",
+    "167361085",
+    "167361086",
+    "167361087",
+    "167361088",
+    "167361089",
+    "167361090",
+    "167361091",
+    "167361092",
+    "167361094",
+    "167361095",
+    "167361096",
+    "167361097",
+    "167361098",
+    "167361099",
+    "167361100",
+    "167361101",
+    "167361102",
+    "167361103",
+    "167361104",
+    "167361105",
+    "167361106",
+    "167361107",
+    "167361108",
+    "167361109",
+    "167361110",
+    "167361111",
+    "167361112",
+    "167361113",
+    "167361114",
+    "167361115",
+    "167361116"
+   ]
+  },
+  {
+   "date": "1988-02-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:283163:por",
+     "title": "Decreto-Lei n.º 45/88",
+     "published": "1988-02-11",
+     "dre_path": "/dr/detalhe/decreto-lei/45-1988-283163"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "167361084",
+    "167361085",
+    "167361086",
+    "167361087",
+    "167361088",
+    "167361089",
+    "167361090",
+    "167361091",
+    "167361092",
+    "167361093",
+    "167361094",
+    "167361095",
+    "167361096",
+    "167361097",
+    "167573982",
+    "167361099",
+    "167361100",
+    "167361101",
+    "167361102",
+    "167361103",
+    "167361104",
+    "167361105",
+    "167361106",
+    "167573983",
+    "167361108",
+    "167573984",
+    "167361110",
+    "167573985",
+    "167361112",
+    "167573986",
+    "167361114",
+    "167361115",
+    "167361116"
+   ]
+  },
+  {
+   "date": "1991-08-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:680628:por",
+     "title": "Decreto-Lei n.º 288/91",
+     "published": "1991-08-10",
+     "dre_path": "/dr/detalhe/decreto-lei/288-1991-680628"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "167361084",
+    "167361085",
+    "167361086",
+    "167361087",
+    "167361088",
+    "167361089",
+    "167361090",
+    "167361091",
+    "167573987",
+    "167361093",
+    "167361094",
+    "167361095",
+    "167361096",
+    "167361097",
+    "167573982",
+    "167361099",
+    "167361100",
+    "167361101",
+    "167361102",
+    "167361103",
+    "167361104",
+    "167361105",
+    "167361106",
+    "167573983",
+    "167361108",
+    "167573984",
+    "167361110",
+    "167573985",
+    "167361112",
+    "167573986",
+    "167361114",
+    "167361115",
+    "167361116"
+   ]
+  },
+  {
+   "date": "1994-04-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:253856:por",
+     "title": "Decreto-Lei n.º 90/94",
+     "published": "1994-04-07",
+     "dre_path": "/dr/detalhe/decreto-lei/90-1994-253856"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "167361084",
+    "167361085",
+    "167361086",
+    "167361087",
+    "167361088",
+    "167361089",
+    "167361090",
+    "167361091",
+    "167573987",
+    "167361093",
+    "167361094",
+    "167361095",
+    "167361096",
+    "167361097",
+    "167573982",
+    "167361099",
+    "167361100",
+    "167361101",
+    "167361102",
+    "167361103",
+    "167361104",
+    "167361105",
+    "167361106",
+    "167573992",
+    "167361108",
+    "167573993",
+    "167361110",
+    "167573985",
+    "167361112",
+    "167573994",
+    "167361114",
+    "167361115",
+    "167361116"
+   ]
+  },
+  {
+   "date": "2013-08-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:498680:por",
+     "title": "Decreto-Lei n.º 107/2013",
+     "published": "2013-07-31",
+     "dre_path": "/dr/detalhe/decreto-lei/107-2013-498680"
+    }
+   ],
+   "changes": [
+    "Adita Secção V",
+    "Altera Artigo 2.º",
+    "Altera Artigo 7.º",
+    "Altera Secção II",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Secção IV",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 10.º"
+   ],
+   "fragments": [
+    "167361084",
+    "167361085",
+    "167361086",
+    "167361087",
+    "167361088",
+    "167361089",
+    "854126613",
+    "854126614",
+    "167573987",
+    "167361093",
+    "167361094",
+    "167361095",
+    "167361096",
+    "854126575",
+    "167573982",
+    "167361099",
+    "167361100",
+    "167361101",
+    "167361102",
+    "167361103",
+    "167361104",
+    "854126576",
+    "854126594",
+    "854126577",
+    "167361108",
+    "854126578",
+    "854126612",
+    "854126579",
+    "854126595",
+    "854126580",
+    "854126596",
+    "854126598",
+    "167361115",
+    "854126582"
+   ]
+  },
+  {
+   "date": "2024-01-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:839477381:por",
+     "title": "Decreto-Lei n.º 17/2024",
+     "published": "2024-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/17-2024-839477381"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 8.º-A"
+   ],
+   "fragments": [
+    "167361084",
+    "167361085",
+    "167361086",
+    "167361087",
+    "167361088",
+    "167361089",
+    "854126613",
+    "854126614",
+    "167573987",
+    "854126615",
+    "854126616",
+    "854126617",
+    "167361095",
+    "167361096",
+    "854126575",
+    "167573982",
+    "167361099",
+    "167361100",
+    "167361101",
+    "167361102",
+    "167361103",
+    "167361104",
+    "854126576",
+    "854126594",
+    "854126577",
+    "167361108",
+    "854126578",
+    "854126612",
+    "854126579",
+    "854126595",
+    "854126580",
+    "854126596",
+    "854126598",
+    "167361115",
+    "854126582"
+   ]
+  }
+ ],
+ "fragments": {
+  "167361084": {
+   "fragment_id": "167359715",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 168/85\n\nde 20 de Maio\n\nProcurando dar corpo ao desejo de recíproca colaboração entre o Governo dos Estados Unidos da América e o Governo Português em áreas tão importantes como o desenvolvimento científico, técnico, empresarial e educacional, constitui-se, através do presente diploma e dos estatutos que dele fazem parte integrante, a Fundação Luso-Americana para o Desenvolvimento.\n\nDa cooperação entre instituições portuguesas e instituições americanas, que o exercício das actividades da Fundação irá proporcionar nos variados sectores que os estatutos prevêem, resultará, por certo, um valioso enriquecimento dos nossos meios científicos e um apreciável contributo para a actualização dos meios empresariais portugueses.\n\nVocacionada, em larga medida, para assegurar meios de assistência técnica ao sector privado português, a transferência de tecnologias avançadas para Portugal e a formação de quadros altamente especializados, na perspectiva do desenvolvimento e da modernização da economia portuguesa, pretende-se que a Fundação seja dotada da mais ampla autonomia e da mais adequada flexibilidade à plena realização dos seus fins estatutários.\n\nOs importantes meios financeiros que o Estado atribui à Fundação, resultantes da cooperação entre o Governo Português e o Governo dos Estados Unidos da América, permitem criar a mais justificada expectativa quanto ao relevo do papel que a Fundação irá assumir no desenvolvimento económico e social do País.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "167361085": {
+   "fragment_id": "167359716",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n- 1 - É criada pelo presente decreto-lei a Fundação Luso-Americana para o Desenvolvimento, instituição de direito privado e utilidade pública dotada de personalidade jurídica, adiante designada simplesmente «Fundação».\n\n2 - A Fundação é de duração indeterminada, tem a sua sede em Lisboa e reger-se-á pelos estatutos publicados em anexo a este decreto-lei, que dele fazem parte integrante, e subsidiariamente pela legislação portuguesa aplicável."
+  },
+  "167361086": {
+   "fragment_id": "167359717",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs fins da Fundação são científicos, técnicos, educativos, culturais e de desenvolvimento económico e social de Portugal."
+  },
+  "167361087": {
+   "fragment_id": "167359718",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO património da Fundação é constituído pelos bens e valores a que se refere o artigo 4.º dos estatutos."
+  },
+  "167361088": {
+   "fragment_id": "167359719",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n- 1 - Os fundos em moeda estrangeira recebidos pelo Estado Português do Governo dos Estados Unidos da América e por aquele destinados à Fundação serão depositados em contas do Estado Português no estrangeiro.\n\n2 - Os fundos a que se refere o número anterior não constituirão receita orçamental e serão transferidos, na sua totalidade, para a titularidade da Fundação, para conta que esta designar, logo que o solicite, por despacho do director-geral do Tesouro."
+  },
+  "167361089": {
+   "fragment_id": "167359720",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n- 1 - A Fundação pode ser titular de contas bancárias em moeda estrangeira, à ordem ou a prazo, quer no País quer no estrangeiro e, bem assim, movimentar livremente os fundos depositados nessas contas para a realização das operações previstas nos estatutos.\n\n2 - A abertura das contas referidas no número anterior será precedida de autorização especial a conceder pelo Banco de Portugal, que estabelecerá o regime aplicável às mesmas."
+  },
+  "167361090": {
+   "fragment_id": "167359721",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA administração da Fundação compete ao conselho executivo, nos termos do artigo 10.º dos estatutos, o qual deverá assegurar o cumprimento das orientações recebidas do conselho directivo."
+  },
+  "167361091": {
+   "fragment_id": "167359722",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA Fundação fica dispensada de possuir órgão colegial próprio com competência de fiscalização das suas contas, devendo, contudo, o conselho executivo promover a fiscalização anual do inventário do património da instituição e do seu balanço das receitas e despesas por uma empresa independente de auditoria de reputação internacional."
+  },
+  "167361092": {
+   "fragment_id": "167359723",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n- 1 - A Fundação, pela sua natureza, gozará de todas as isenções fiscais e regalias previstas nas leis em vigor, por forma geral, para as pessoas colectivas de utilidade pública, sem prejuízo de quaisquer outros benefícios que especificamente lhe venham a ser concedidos.\n\n2 - Nos termos previstos no número anterior, à Fundação serão aplicáveis os regimes de benefícios e isenções fiscais constantes dos Decretos-Leis n.os 460/77, de 7 de Novembro, e 260-D/81, de 2 de Setembro, gozando desde já de isenção total de imposto de capitais, secções A e B, ao abrigo do disposto no n.º 4 do artigo 11.º do Código do Imposto de Capitais, aprovado pelo Decreto-Lei n.º 44561, de 10 de Setembro de 1962, e ainda de isenção total de contribuição industrial, ao abrigo do disposto no n.º 4 do artigo 14.º do Código da Contribuição Industrial, aprovado pelo Decreto-Lei n.º 45103, de 1 de Julho de 1963."
+  },
+  "167361094": {
+   "fragment_id": "167359725",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "167361095": {
+   "fragment_id": "167359726",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, sede e fins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, sede e fins"
+  },
+  "167361096": {
+   "fragment_id": "167359727",
+   "type": 11,
+   "heading": "Artigo 1.º — (Natureza)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Natureza)\n\nA Fundação Luso-Americana para o Desenvolvimento, adiante designada simplesmente por Fundação, é uma instituição de direito privado e utilidade pública, que se regerá pelos presentes estatutos e em tudo o que neles for considerado omisso pelas leis portuguesas aplicáveis."
+  },
+  "167361097": {
+   "fragment_id": "167359728",
+   "type": 11,
+   "heading": "Artigo 2.º — (Duração e sede)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Duração e sede)\n\nA Fundação é portuguesa, de duração indeterminada, e tem a sua sede em Portugal, na cidade de Lisboa, podendo criar delegações ou quaisquer outras formas de representação onde for julgado necessário para o cumprimento dos seus fins."
+  },
+  "167361098": {
+   "fragment_id": "167359729",
+   "type": 11,
+   "heading": "Artigo 3.º — (Fins)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Fins)\n\n1 - A Fundação tem por fim contribuir para o desenvolvimento económico e social de Portugal através da promoção da cooperação científica, técnica, cultural, educativa, comercial e empresarial entre Portugal e os Estados Unidos da América.\n\n2 - Para assegurar a prossecução deste fim, a Fundação deverá prestar assistência a actividades que visem a modernização da economia portuguesa, o aumento dos níveis de investimento e exportação, a promoção de associações empresariais entre os sectores privados dos dois países e, em geral, o apoio a actividades que promovam formas adequadas de cooperação entre Portugal e os Estados Unidos da América e que sejam de interesse mútuo para ambos os países."
+  },
+  "167361099": {
+   "fragment_id": "167359730",
+   "type": 1,
+   "heading": "Capítulo II — Regime patrimonial e financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Regime patrimonial e financeiro"
+  },
+  "167361100": {
+   "fragment_id": "167359731",
+   "type": 11,
+   "heading": "Artigo 4.º — (Património)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Património)\n\n1 - A Fundação é instituída pelo Governo Português com um fundo inicial próprio de 38 milhões de dólares americanos, resultante da cooperação com o Governo dos Estados Unidos da América.\n\n2 - O património da Fundação será acrescido com futuras contribuições do Governo Português de proveniência idêntica à referida no número anterior, podendo ainda integrar quaisquer subsídios ou doações, quer do Governo Português, quer de terceiros, portugueses ou estrangeiros, de natureza pública ou privada.\n\n3 - O património da Fundação será também constituído por todos os bens, móveis ou imóveis, que ela adquirir com os rendimentos provenientes do investimento dos seus bens próprios, bem como pelos que lhe vierem por qualquer outro título."
+  },
+  "167361101": {
+   "fragment_id": "167359732",
+   "type": 11,
+   "heading": "Artigo 5.º — (Fundo permanente de investimento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Fundo permanente de investimento)\n\n1 - A Fundação terá um fundo permanente de investimento, constituído pelos rendimentos e bens que para esse fim forem em cada momento afectados pelo conselho directivo.\n\n2 - O fundo permanente de investimento não poderá ser aplicado em despesas de funcionamento ou em programas de actividades da Fundação.\n\n3 - Os investimentos da Fundação deverão respeitar o critério da optimização da gestão do seu património.\n\n4 - Em obediência ao referido no número anterior, a Fundação poderá fazer investimentos, quer em Portugal, quer no estrangeiro, ficando, para este efeito, autorizada a dispor dos necessários fundos em bancos situados em Portugal ou no estrangeiro."
+  },
+  "167361102": {
+   "fragment_id": "167359733",
+   "type": 11,
+   "heading": "Artigo 6.º — (Autonomia financeira)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Autonomia financeira)\n\n1 - A Fundação goza de plena autonomia financeira, estando a sua acção apenas subordinada às regras do direito privado.\n\n2 - A Fundação, no exercício da sua actividade, poderá:\n\na) Adquirir, alienar ou onerar a qualquer título bens móveis ou imóveis;\n\nb) Aceitar quaisquer doações, heranças ou legados;\n\nc) Negociar e contratar empréstimos e conceder garantias."
+  },
+  "167361103": {
+   "fragment_id": "167359734",
+   "type": 1,
+   "heading": "Capítulo III — Organização e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Organização e funcionamento"
+  },
+  "167361104": {
+   "fragment_id": "167359735",
+   "type": 8,
+   "heading": "Secção I — Disposição preliminar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposição preliminar"
+  },
+  "167361105": {
+   "fragment_id": "167359736",
+   "type": 11,
+   "heading": "Artigo 7.º — (Órgãos da Fundação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Órgãos da Fundação)\n\nSão órgãos da Fundação:\n\na) O conselho directivo;\n\nb) O conselho executivo;\n\nc) O conselho consultivo."
+  },
+  "167361106": {
+   "fragment_id": "167359737",
+   "type": 8,
+   "heading": "Secção II — Conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Conselho directivo"
+  },
+  "167361107": {
+   "fragment_id": "167359738",
+   "type": 11,
+   "heading": "Artigo 8.º — (Constituição, competência e funcionamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Constituição, competência e funcionamento)\n\n1 - O conselho directivo é composto por 3 membros, sendo 2 designados pelo Primeiro-Ministro, ouvidos os Ministros dos Negócios Estrangeiros e das Finanças e do Plano, e o terceiro o Embaixador dos Estados Unidos da América em Portugal ou um representante por este designado.\n\n2 - O Primeiro-Ministro indicará, de entre os membros por si designados, aquele que presidirá ao conselho directivo.\n\n3 - O conselho directivo reunirá ordinariamente uma vez por semestre e extraordinariamente sempre que convocado por qualquer dos seus membros ou a solicitação do conselho executivo.\n\n4 - Compete, em especial, ao conselho directivo:\n\na) Definir e estabelecer as políticas gerais de funcionamento da Fundação;\n\nb) Definir as políticas e orientações de investimento da Fundação e fixar o montante do fundo permanente de investimento a que se refere o n.º 1 do artigo 5.º;\n\nc) Discutir e aprovar o orçamento e o plano anual de actividades da Fundação;\n\nd) Discutir e aprovar o balanço anual e as contas de cada exercício, bem como o relatório do conselho executivo e o parecer dos auditores;\n\ne) Decidir sobre quaisquer outras matérias que respeitem à actividade da Fundação.\n\n5 - As deliberações do conselho directivo serão tomadas por maioria.\n\n6 - O conselho directivo poderá convocar, para assistir às suas reuniões, os membros do conselho executivo, os quais participarão nas discussões sem direito de voto, com vista a prestar os esclarecimentos que o conselho directivo considerar necessários.\n\n7 - As funções dos membros do conselho directivo não serão remuneradas, podendo, no entanto, ser-lhos atribuídas subvenções de presença e ajudas de custo."
+  },
+  "167361108": {
+   "fragment_id": "167359739",
+   "type": 8,
+   "heading": "Secção III — Conselho executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Conselho executivo"
+  },
+  "167361109": {
+   "fragment_id": "167359740",
+   "type": 11,
+   "heading": "Artigo 9.º — (Constituição e funcionamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Constituição e funcionamento)\n\n1 - O conselho executivo é composto por 3 membros, sendo 2 designados pelo Primeiro-Ministro, ouvidos os Ministros dos Negócios Estrangeiros e das Finanças e do Plano, e o terceiro pelo Embaixador dos Estados Unidos da América em Portugal.\n\n2 - A nomeação será feita por um período de 3 anos, sucessivamente renovável por iguais períodos.\n\n3 - O conselho executivo terá um presidente, nomeado de entre os membros daquele conselho pelo conselho directivo.\n\n4 - As deliberações do conselho executivo serão tomadas por maioria, gozando o presidente do direito de vetar as que considere contrárias aos interesses da Fundação.\n\n5 - Quando o presidente exercer o direito referido no número anterior ficará a deliberação sujeita a ratificação do conselho directivo.\n\n6 - O conselho executivo será responsável perante o conselho directivo.\n\n7 - As funções dos membros do conselho executivo serão remuneradas."
+  },
+  "167361110": {
+   "fragment_id": "167359741",
+   "type": 11,
+   "heading": "Artigo 10.º — (Competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Competência)\n\nAo conselho executivo compete, em geral, a administração da Fundação e, em especial:\n\na) Definir a organização interna da Fundação;\n\nb) Administrar e dispor do património da Fundação, cabendo-lhe deliberar sobre a aquisição, alienação ou oneração de bens móveis ou imóveis ou o seu arrendamento ou aluguer, em ordem à realização dos fins desta;\n\nc) Preparar e submeter à aprovação do conselho directivo o orçamento e plano de actividades anuais da Fundação;\n\nd) Contratar empréstimos e conceder garantias;\n\ne) Avaliar e aprovar propostas de projectos ou de actividades, aprovar a concessão de subvenções, apoios ou empréstimos a projectos específicos e quaisquer outras despesas da Fundação;\n\nf) Contratar, dirigir e despedir o pessoal da Fundação, de acordo com a legislação laboral portuguesa;\n\ng) Representar a Fundação, quer em juízo, activa e passivamente, quer perante terceiros, em quaisquer actos ou contratos;\n\nh) Instituir, manter e conservar sistemas internos de controle contabilístico, incluindo os livros e registos respeitantes a todas as transacções e entradas e saídas de fundos, por forma a reflectirem correctamente, em cada momento, a situação patrimonial e financeira da Fundação;\n\ni) Providenciar para que os livros e registos contabilísticos da Fundação sejam devidamente fiscalizados, pelo menos uma vez por ano, por uma empresa independente de auditoria, oficialmente registada e internacionalmente reconhecida;j) Preparar e submeter à aprovação do conselho directivo o relatório anual, o balanço e as contas de cada exercício, bem como o parecer dos auditores."
+  },
+  "167361111": {
+   "fragment_id": "167359742",
+   "type": 11,
+   "heading": "Artigo 11.º — (Vinculação da Fundação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Vinculação da Fundação)\n\n1 - A Fundação fica obrigada em quaisquer actos ou contratos pela assinatura conjunta de quaisquer dois dos membros do conselho executivo.\n\n2 - O conselho executivo poderá constituir mandatários delegando-lhes quaisquer dos poderes da sua competência, ficando, nesse caso, a Fundação obrigada pela intervenção conjunta de um mandatário e de um membro do conselho executivo."
+  },
+  "167361112": {
+   "fragment_id": "167359743",
+   "type": 8,
+   "heading": "Secção IV — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Conselho consultivo"
+  },
+  "167361113": {
+   "fragment_id": "167359744",
+   "type": 11,
+   "heading": "Artigo 12.º — (Constituição e mandato)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Constituição e mandato)\n\n1 - O conselho consultivo é composto por 4 representantes dos sectores empresarial e científico dos Estados Unidos da América, que serão designados pelo Embaixador dos Estados Unidas da América em Portugal, e por 4 representantes dos sectores empresarial e científico portugueses, designados pejo Primeiro-Ministro, ouvidos os Ministros dos Negócios Estrangeiros e das Finanças e do Plano e demais ministros com tutela sobre as áreas que constituem objecto estatutário da Fundação.\n\n2 - O mandato dos membros do conselho consultivo é de 2 anos, sucessivamente renovável, salvo revogação ou renúncia.\n\n3 - As funções dos membros do conselho consultivo não serão remuneradas, podendo, porém, ser-lhes atribuídas subvenções de presença e ajudas de custo."
+  },
+  "167361114": {
+   "fragment_id": "167359745",
+   "type": 11,
+   "heading": "Artigo 13.º — (Funcionamento e competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Funcionamento e competência)\n\n1 - O conselho consultivo reunirá sempre que for convocado pelo conselho directivo ou pelo conselho executivo.\n\n2 - O conselho consultivo é um órgão de apoio e consulta da Fundação, competindo-lhe em especial:\n\na) Emitir pareceres sobre as actividades e projectos da Fundação e apoiar a avaliação de propostas de novos projectos;\n\nb) Apresentar sugestões e fazer recomendações relativamente a futuras actividades da Fundação."
+  },
+  "167361115": {
+   "fragment_id": "167359746",
+   "type": 1,
+   "heading": "Capítulo IV — Extinção da Fundação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Extinção da Fundação"
+  },
+  "167361116": {
+   "fragment_id": "167359747",
+   "type": 11,
+   "heading": "Artigo 14.º — (Alteração dos estatutos e transformação ou extinção da Fundação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Alteração dos estatutos e transformação ou extinção da Fundação)\n\n1 - O Governo Português, por sua iniciativa ou sob proposta do conselho directivo, poderá deliberar sobre a modificação dos presentes estatutos ou sobre a transformação ou extinção da Fundação.\n\n2 - Em caso de extinção da Fundação, o seu património reverterá para o Estado, que o deverá aplicar exclusivamente em fins de desenvolvimento económico e social do País.\n\nO Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama. - O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes."
+  },
+  "167361093": {
+   "fragment_id": "167359724",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 7 de Março de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Jaime José Matos da Gama - Ernâni Rodrigues Lopes.\n\nPromulgado em 10 de Maio de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 14 de Maio de 1985.\n\nO Primeiro-Ministro, Mário Soares.\n\nESTATUTOS"
+  },
+  "167573982": {
+   "fragment_id": "167359729",
+   "type": 11,
+   "heading": "Artigo 3.º — (Fins)",
+   "in_force_from": "1988-02-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16"
+   ],
+   "markdown": "###### Artigo 3.º — (Fins)\n\n1 - A Fundação tem por fim contribuir para o desenvolvimento económico e social de Portugal através da promoção da cooperação científica, técnica, cultural, educativa, comercial e empresarial entre Portugal e os Estados Unidos da América.\n\n2 - Para assegurar a prossecução deste fim, a Fundação deverá prestar assistência a actividades que visem a modernização da economia portuguesa, o aumento dos níveis de investimento e exportação, a promoção de associações empresariais entre os sectores privados dos dois países e, em geral, o apoio a actividades que promovam formas adequadas de cooperação entre Portugal e os Estados Unidos da América e que sejam de interesse mútuo para ambos os países, devendo a sua acção enquadrar-se nas orientações estratégicas do desenvolvimento económico e social vigente.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16"
+  },
+  "167573983": {
+   "fragment_id": "167359738",
+   "type": 11,
+   "heading": "Artigo 8.º — Constituição, competência e funcionamento",
+   "in_force_from": "1988-02-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16"
+   ],
+   "markdown": "###### Artigo 8.º — Constituição, competência e funcionamento\n\n1 - O conselho directivo é composto por um mínimo de sete e um máximo de nove membros.\n\n2 - Os membros do conselho directivo são designados pelo Primeiro-Ministro.\n\n3 - Além dos membros designados pelo Primeiro-Ministro, são membros do conselho directivo o embaixador dos Estados Unidos da América, ou um representante por este designado, e outro indicado pelo mesmo embaixador.\n\n4 - O conselho directivo terá um presidente por ele eleito de entre os seus membros, o qual não pode fazer parte do conselho executivo.\n\n5 - O mandato dos membros do conselho directivo é de seis anos, sem prejuízo de eventual recondução por iguais períodos.\n\n6 - Compete, em especial, ao conselho directivo:\n\na) Definir e estabelecer as políticas gerais de funcionamento da Fundação;\n\nb) Definir as políticas e orientações de investimento da Fundação e fixar o montante do fundo permanente de investimento a que se refere o n.º 1 do artigo 5.º;\n\nc) Discutir e aprovar o orçamento e o plano anual de actividades da Fundação;\n\nd) Discutir e aprovar o balanço anual e as contas de cada exercício, bem como o relatório do conselho executivo e o parecer dos auditores;\n\ne) Decidir sobre quaisquer outras matérias que respeitem à actividade da Fundação.\n\n7 - O conselho directivo reunirá ordinariamente uma vez por semestre e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa ou a pedido de, pelo menos, dois dos seus membros ou a solicitação do conselho executivo.\n\n8 - Às reuniões do conselho directivo poderão assistir e participar todos os membros do conselho executivo, mesmo os que daquele não façam parte, embora, neste caso, sem direito a voto.\n\n9 - O conselho directivo só pode deliberar com a presença da maioria dos seus membros.\n\n10 - As deliberações do conselho directivo são tomadas por maioria de votos presentes, tendo o presidente, além do seu voto, direito a voto de desempate.\n\n11 - As funções dos membros do conselho directivo não são remuneradas, podendo, no entanto, ser-lhes atribuídas subvenções de presença e ajudas de custo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16"
+  },
+  "167573984": {
+   "fragment_id": "167359740",
+   "type": 11,
+   "heading": "Artigo 9.º — Constituição e funcionamento",
+   "in_force_from": "1988-02-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16"
+   ],
+   "markdown": "###### Artigo 9.º — Constituição e funcionamento\n\n1 - O conselho executivo é composto por um mínimo de três e um máximo de cinco membros, dos quais três serão eleitos pelo conselho directivo e os demais designados pelo Primeiro-Ministro.\n\n2 - Os membros do conselho executivo podem ser escolhidos de entre os membros do conselho directivo, sem prejuízo do disposto no n.º 4 do artigo 8.º\n\n3 - O conselho executivo terá um presidente, nomeado pelo Primeiro-Ministro de entre os membros daquele conselho.\n\n4 - O mandato dos membros do conselho executivo é de três anos, sem prejuízo, respectivamente, de eventual reeleição ou recondução por iguais períodos, salvo o disposto no número seguinte.\n\n5 - Os membros do conselho executivo que façam parte do conselho directivo cessam funções com o termo do seu mandato neste órgão nos termos do n.º 5 do artigo 8.º\n\n6 - As deliberações do conselho executivo são tomadas por maioria, tendo o presidente, além do seu voto, direito a voto de desempate.\n\n7 - O presidente do conselho executivo pode, mediante declaração fundamentada, suspender a eficácia das deliberações que considere contrárias à lei, aos estatutos ou aos interesses da Fundação, ficando tais deliberações sujeitas, nesse caso, a apreciação e ratificação do conselho directivo.\n\n8 - O conselho executivo é responsável perante o conselho directivo.\n\n9 - As funções dos membros do conselho executivo serão remuneradas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16"
+  },
+  "167573985": {
+   "fragment_id": "167359742",
+   "type": 11,
+   "heading": "Artigo 11.º — Vinculação da Fundação",
+   "in_force_from": "1988-02-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16"
+   ],
+   "markdown": "###### Artigo 11.º — Vinculação da Fundação\n\nA Fundação obriga-se:\n\na) Pelas assinaturas conjuntas de dois membros do conselho executivo;\n\nb) Pela assinatura de um membro do conselho executivo que para tal houver recebido delegação deste conselho;\n\nc) Pela assinatura de um mandatário legalmente constituído pelo conselho executivo, no âmbito dos poderes constantes da procuração.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16"
+  },
+  "167573986": {
+   "fragment_id": "167359744",
+   "type": 11,
+   "heading": "Artigo 12.º — Constituição e mandato",
+   "in_force_from": "1988-02-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16"
+   ],
+   "markdown": "###### Artigo 12.º — Constituição e mandato\n\n1 - O conselho consultivo é composto por oito representantes dos sectores empresarial e científico portugueses, designados pelo Primeiro-Ministro, e por quatro representantes dos sectores empresarial e científico dos Estados Unidos da América, designados pelo seu embaixador em Portugal.\n\n2 - O mandato dos membros do conselho consultivo é de dois anos, sem prejuízo de eventual recondução por iguais períodos.\n\n3 - As funções dos membros do conselho consultivo não são remuneradas, podendo, porém, ser-lhes atribuídas subvenções de presença e ajudas de custo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16"
+  },
+  "167573987": {
+   "fragment_id": "167359723",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1991-08-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 288/91 - Diário da República n.º 183/1991, Série I-A de 1991-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1991-680628), em vigor a partir de 1991-08-15"
+   ],
+   "markdown": "###### Artigo 8.º\n\n- 1 - A Fundação, pela sua natureza, gozará de todas as isenções fiscais e regalias previstas nas leis em vigor, por forma geral, para as pessoas colectivas de utilidade pública, sem prejuízo de quaisquer outros benefícios que especificamente lhe venham a ser concedidos.\n\n2 - Nos termos previstos no número anterior, à Fundação serão aplicáveis os regimes de benefícios e isenções fiscais constantes dos Decretos-Leis n.os 460/77, de 7 de Novembro, e 260-D/81, de 2 de Setembro, gozando desde já de isenção total de imposto de capitais, secções A e B, ao abrigo do disposto no n.º 4 do artigo 11.º do Código do Imposto de Capitais, aprovado pelo Decreto-Lei n.º 44561, de 10 de Setembro de 1962, e ainda de isenção total de contribuição industrial, ao abrigo do disposto no n.º 4 do artigo 14.º do Código da Contribuição Industrial, aprovado pelo Decreto-Lei n.º 45103, de 1 de Julho de 1963.\n\n3 - Além dos membros designados pelo Primeiro-Ministro, integram ainda o conselho directivo dois membros designados pelo embaixador dos Estados Unidos da América.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 288/91 - Diário da República n.º 183/1991, Série I-A de 1991-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1991-680628), em vigor a partir de 1991-08-15"
+  },
+  "167573992": {
+   "fragment_id": "167359738",
+   "type": 11,
+   "heading": "Artigo 8.º — Constituição, competência e funcionamento",
+   "in_force_from": "1994-04-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/94 - Diário da República n.º 81/1994, Série I-A de 1994-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1994-253856), em vigor a partir de 1994-04-12",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16"
+   ],
+   "markdown": "###### Artigo 8.º — Constituição, competência e funcionamento\n\n1 - O conselho directivo é composto por um mínimo de sete e um máximo de nove membros.\n\n2 - Os membros do conselho directivo são designados pelo Primeiro-Ministro.\n\n3 - Dois dos membros do conselho directivo são indicados pelo embaixador dos Estados Unidos da América, acreditado em Lisboa.\n\n4 - O conselho directivo terá um presidente por ele eleito de entre os seus membros, o qual não pode fazer parte do conselho executivo.\n\n5 - O mandato dos membros do conselho directivo é de seis anos, sem prejuízo de eventual recondução por iguais períodos.\n\n6 - Compete, em especial, ao conselho directivo:\n\na) Definir e estabelecer as políticas gerais de funcionamento da Fundação;\n\nb) Definir as políticas e orientações de investimento da Fundação e fixar o montante do fundo permanente de investimento a que se refere o n.º 1 do artigo 5.º;\n\nc) Discutir e aprovar o orçamento e o plano anual de actividades da Fundação;\n\nd) Discutir e aprovar o balanço anual e as contas de cada exercício, bem como o relatório do conselho executivo e o parecer dos auditores;\n\ne) Decidir sobre quaisquer outras matérias que respeitem à actividade da Fundação.\n\n7 - O conselho directivo reunirá ordinariamente uma vez por semestre e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa ou a pedido de, pelo menos, dois dos seus membros ou a solicitação do conselho executivo.\n\n8 - Às reuniões do conselho directivo poderão assistir e participar todos os membros do conselho executivo, mesmo os que daquele não façam parte, embora, neste caso, sem direito a voto.\n\n9 - O conselho directivo só pode deliberar com a presença da maioria dos seus membros.\n\n10 - As deliberações do conselho directivo são tomadas por maioria de votos presentes, tendo o presidente, além do seu voto, direito a voto de desempate.\n\n11 - As funções dos membros do conselho directivo não são remuneradas, podendo, no entanto, ser-lhes atribuídas subvenções de presença e ajudas de custo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/94 - Diário da República n.º 81/1994, Série I-A de 1994-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1994-253856), em vigor a partir de 1994-04-12\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16"
+  },
+  "167573993": {
+   "fragment_id": "167359740",
+   "type": 11,
+   "heading": "Artigo 9.º — Constituição e funcionamento",
+   "in_force_from": "1994-04-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/94 - Diário da República n.º 81/1994, Série I-A de 1994-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1994-253856), em vigor a partir de 1994-04-12",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16"
+   ],
+   "markdown": "###### Artigo 9.º — Constituição e funcionamento\n\n1 - O conselho executivo é constituído por três membros designados pelo Primeiro-Ministro, dos quais dois são eleitos pelo conselho directivo.\n\n2 - Os membros do conselho executivo podem ser escolhidos de entre os membros do conselho directivo, sem prejuízo do disposto no n.º 4 do artigo 8.º\n\n3 - O conselho executivo terá um presidente, nomeado pelo Primeiro-Ministro de entre os membros daquele conselho.\n\n4 - O mandato dos membros do conselho executivo é de três anos, sem prejuízo, respectivamente, de eventual reeleição ou recondução por iguais períodos, salvo o disposto no número seguinte.\n\n5 - O termo do respectivo mandato no conselho directivo implica a cessação simultânea das funções de membro do conselho executivo\n\n6 - As deliberações do conselho executivo são tomadas por maioria, tendo o presidente, além do seu voto, direito a voto de desempate.\n\n7 - O presidente do conselho executivo pode, mediante declaração fundamentada, suspender a eficácia das deliberações que considere contrárias à lei, aos estatutos ou aos interesses da Fundação, ficando tais deliberações sujeitas, nesse caso, a apreciação e ratificação do conselho directivo.\n\n8 - O conselho executivo é responsável perante o conselho directivo.\n\n9 - As funções dos membros do conselho executivo serão remuneradas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/94 - Diário da República n.º 81/1994, Série I-A de 1994-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1994-253856), em vigor a partir de 1994-04-12\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16"
+  },
+  "167573994": {
+   "fragment_id": "167359744",
+   "type": 11,
+   "heading": "Artigo 12.º — Constituição e mandato",
+   "in_force_from": "1994-04-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/94 - Diário da República n.º 81/1994, Série I-A de 1994-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1994-253856), em vigor a partir de 1994-04-12",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16"
+   ],
+   "markdown": "###### Artigo 12.º — Constituição e mandato\n\n1 - O conselho consultivo é constituído por 10 membros designados pelo Primeiro-Ministro, dos quais 7 em representação dos sectores empresarial e científico portugueses e 3 em representação dos sectores empresarial e científico dos Estados Unidos da América, estes indicados pelo respectivo embaixador em Portugal.\n\n2 - O mandato dos membros do conselho consultivo é de três anos, sem prejuízo de eventual recondução por iguais períodos.\n\n3 - As funções dos membros do conselho consultivo não são remuneradas, podendo, porém, ser-lhes atribuídas subvenções de presença e ajudas de custo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/94 - Diário da República n.º 81/1994, Série I-A de 1994-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1994-253856), em vigor a partir de 1994-04-12\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16"
+  },
+  "854126613": {
+   "fragment_id": "167359721",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2013-08-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05"
+   ],
+   "markdown": "###### Artigo 6.º\n\nA administração da Fundação compete ao conselho executivo, nos termos do artigo 10.º dos estatutos, o qual deverá assegurar o cumprimento das orientações recebidas do conselho directivo.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05"
+  },
+  "854126614": {
+   "fragment_id": "167359722",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2013-08-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05"
+   ],
+   "markdown": "###### Artigo 7.º\n\nA Fundação fica dispensada de possuir órgão colegial próprio com competência de fiscalização das suas contas, devendo, contudo, o conselho executivo promover a fiscalização anual do inventário do património da instituição e do seu balanço das receitas e despesas por uma empresa independente de auditoria de reputação internacional.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05"
+  },
+  "854126575": {
+   "fragment_id": "167359728",
+   "type": 11,
+   "heading": "Artigo 2.º — (Duração e sede)",
+   "in_force_from": "2013-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05"
+   ],
+   "markdown": "###### Artigo 2.º — (Duração e sede)\n\n1 - A Fundação é portuguesa, de duração indeterminada, e tem a sua sede em Portugal, na cidade de Lisboa, podendo criar delegações ou quaisquer outras formas de representação onde for julgado necessário para o cumprimento dos seus fins.\n\n2 - A sede da Fundação é na Rua Sacramento à Lapa, n.º 21, em Lisboa.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05"
+  },
+  "854126576": {
+   "fragment_id": "167359736",
+   "type": 11,
+   "heading": "Artigo 7.º — (Órgãos da Fundação)",
+   "in_force_from": "2013-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05"
+   ],
+   "markdown": "###### Artigo 7.º — (Órgãos da Fundação)\n\nSão órgãos da Fundação:\n\na) O conselho de administração;\n\nb) O conselho executivo;\n\nc) O conselho de curadores;\n\nd) O fiscal único.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05"
+  },
+  "854126594": {
+   "fragment_id": "167359737",
+   "type": 8,
+   "heading": "Secção II — conselho de administração",
+   "in_force_from": "2013-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05"
+   ],
+   "markdown": "#### Secção II — conselho de administração\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05"
+  },
+  "854126577": {
+   "fragment_id": "167359738",
+   "type": 11,
+   "heading": "Artigo 8.º — Conselho de administração",
+   "in_force_from": "2013-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05",
+    "Retificado pelo/a [Declaração de Rectificação n.º 85/94 - Diário da República n.º 149/1994, 3º Suplemento, Série I-A de 1994-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/85-1994-345968), produz efeitos a partir de 1994-04-12",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/94 - Diário da República n.º 81/1994, Série I-A de 1994-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1994-253856), em vigor a partir de 1994-04-12",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16"
+   ],
+   "markdown": "###### Artigo 8.º — Conselho de administração\n\n1 - O conselho de administração é composto por três a cinco membros, sendo um escolhido pelo Primeiro-Ministro, que será o presidente do conselho de administração, e os demais pelo conselho de curadores.\n\n2 - Os membros do conselho de administração são designados por despacho do Primeiro-Ministro.\n\n3 - O mandato dos membros do conselho de administração é de cinco anos, só podendo ser renovado consecutivamente por um igual período.\n\n4 - Compete, em especial, ao conselho de administração:\n\na) Administrar e dispor do património da Fundação, cabendo-lhe deliberar sobre a aquisição, alienação ou oneração de bens móveis ou imóveis ou o seu arrendamento ou aluguer, em ordem à realização dos fins desta;\n\nb) Contratar empréstimos e conceder garantias;\n\nc) Definir e estabelecer as políticas gerais de funcionamento da Fundação;\n\nd) Definir as políticas e orientações de investimento da Fundação e fixar o montante do fundo permanente de investimento a que se refere o n.º 1 do artigo 5.º;\n\ne) Discutir e aprovar o orçamento e o plano anual de atividades da Fundação;\n\nf) Definir os critérios gerais de atribuição de subvenções e de outro tipo de apoios por parte da Fundação;\n\ng) Discutir e aprovar o balanço anual e as contas de cada exercício, bem como o relatório do conselho executivo e o parecer do fiscal único;\n\nh) Representar a Fundação, quer em juízo, ativa e passivamente, quer perante terceiros, em quaisquer atos ou contratos, podendo esta competência ser delegada caso a caso no conselho executivo ou em mandatário devidamente constituído;\n\ni) Decidir sobre quaisquer outras matérias que respeitem à atividade da Fundação.\n\n5 - O conselho de administração reúne ordinariamente uma vez por trimestre e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa ou a pedido de, pelo menos, dois dos seus membros ou a solicitação do conselho executivo.\n\n6 - O conselho de administração só pode deliberar com a presença da maioria dos seus membros.\n\n7 - As deliberações do conselho de administração são tomadas por maioria de votos presentes, tendo o presidente, além do seu voto, direito a voto de desempate.\n\n8 - A remuneração dos membros do conselho de administração que sejam simultaneamente membros do conselho executivo é fixada pelo conselho de curadores, tendo em conta os limites legais de despesas com pessoal e administração aplicáveis às fundações bem como ponderando o regime que vigore para a administração direta e indireta do Estado.\n\n9 - Os restantes membros do conselho de administração não são remunerados, podendo no entanto ser-lhes atribuídas subvenções de presença e ajudas de custo.\n\n10 - [Revogado].\n\n11 - As funções dos membros do conselho directivo não são remuneradas, podendo, no entanto, ser-lhes atribuídas subvenções de presença e ajudas de custo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05\n\n> Retificado pelo/a [Declaração de Rectificação n.º 85/94 - Diário da República n.º 149/1994, 3º Suplemento, Série I-A de 1994-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/85-1994-345968), produz efeitos a partir de 1994-04-12\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/94 - Diário da República n.º 81/1994, Série I-A de 1994-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1994-253856), em vigor a partir de 1994-04-12\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16"
+  },
+  "854126578": {
+   "fragment_id": "167359740",
+   "type": 11,
+   "heading": "Artigo 9.º — Conselho executivo",
+   "in_force_from": "2013-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/94 - Diário da República n.º 81/1994, Série I-A de 1994-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1994-253856), em vigor a partir de 1994-04-12",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16"
+   ],
+   "markdown": "###### Artigo 9.º — Conselho executivo\n\n1 - O conselho executivo é constituído por três membros designados por despacho do Primeiro-Ministro de entre os membros do conselho de administração.\n\n2 - O presidente do conselho de administração é, por inerência, o presidente do conselho executivo.\n\n3 - O termo do respetivo mandato no conselho de administração implica a cessação simultânea das funções de membro do conselho executivo.\n\n4 - As deliberações do conselho executivo são tomadas por maioria, tendo o presidente, além do seu voto, direito a voto de desempate.\n\n5 - O presidente do conselho executivo pode, mediante declaração fundamentada, suspender a eficácia das deliberações que considere contrárias à lei, aos estatutos ou aos interesses da Fundação, ficando tais deliberações sujeitas, nesse caso, a apreciação e ratificação do conselho de administração.\n\n6 - O conselho executivo tem funções de gestão corrente da Fundação, competindo-lhe em especial:\n\na) Definir a organização interna da Fundação;\n\nb) Preparar e submeter à aprovação do conselho de administração o orçamento e o plano de atividades anuais da Fundação;\n\nc) Avaliar e aprovar propostas de projetos ou de atividades, aprovar a concessão de subvenções, apoios ou empréstimos a projetos específicos e quaisquer outras despesas da Fundação para execução do plano de atividades e do orçamento devidamente aprovados;\n\nd) Contratar, gerir e dirigir o pessoal da Fundação;\n\ne) Instituir, manter e conservar sistemas internos de controlo contabilístico, incluindo os livros e registos respeitantes a todas as transações e entradas e saídas de fundos, por forma a refletirem corretamente, em cada momento, a situação patrimonial e financeira da Fundação;\n\nf) Preparar e submeter à aprovação do conselho de administração o relatório anual, o balanço e as contas de cada exercício, bem como o parecer do fiscal único;\n\ng) Praticar todos os atos necessários ao cumprimento dos deveres de transparência a que a Fundação está legalmente obrigada.\n\n7 - [Revogado].\n\n8 - [Revogado].\n\n9 - [Revogado].\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/94 - Diário da República n.º 81/1994, Série I-A de 1994-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1994-253856), em vigor a partir de 1994-04-12\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16"
+  },
+  "854126612": {
+   "fragment_id": "167359741",
+   "type": 11,
+   "heading": "Artigo 10.º — (Competência)",
+   "in_force_from": "2013-08-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05"
+   ],
+   "markdown": "###### Artigo 10.º — (Competência)\n\nAo conselho executivo compete, em geral, a administração da Fundação e, em especial:\n\na) Definir a organização interna da Fundação;\n\nb) Administrar e dispor do património da Fundação, cabendo-lhe deliberar sobre a aquisição, alienação ou oneração de bens móveis ou imóveis ou o seu arrendamento ou aluguer, em ordem à realização dos fins desta;\n\nc) Preparar e submeter à aprovação do conselho directivo o orçamento e plano de actividades anuais da Fundação;\n\nd) Contratar empréstimos e conceder garantias;\n\ne) Avaliar e aprovar propostas de projectos ou de actividades, aprovar a concessão de subvenções, apoios ou empréstimos a projectos específicos e quaisquer outras despesas da Fundação;\n\nf) Contratar, dirigir e despedir o pessoal da Fundação, de acordo com a legislação laboral portuguesa;\n\ng) Representar a Fundação, quer em juízo, activa e passivamente, quer perante terceiros, em quaisquer actos ou contratos;\n\nh) Instituir, manter e conservar sistemas internos de controle contabilístico, incluindo os livros e registos respeitantes a todas as transacções e entradas e saídas de fundos, por forma a reflectirem correctamente, em cada momento, a situação patrimonial e financeira da Fundação;\n\ni) Providenciar para que os livros e registos contabilísticos da Fundação sejam devidamente fiscalizados, pelo menos uma vez por ano, por uma empresa independente de auditoria, oficialmente registada e internacionalmente reconhecida;j) Preparar e submeter à aprovação do conselho directivo o relatório anual, o balanço e as contas de cada exercício, bem como o parecer dos auditores.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05"
+  },
+  "854126579": {
+   "fragment_id": "167359742",
+   "type": 11,
+   "heading": "Artigo 11.º — Vinculação da Fundação",
+   "in_force_from": "2013-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16"
+   ],
+   "markdown": "###### Artigo 11.º — Vinculação da Fundação\n\nA Fundação obriga-se:\n\na) Pelas assinaturas conjuntas de dois membros do conselho de administração, um dos quais o respetivo presidente;\n\nb) Pelas assinaturas conjuntas de dois membros do conselho executivo, um dos quais o respetivo presidente, no âmbito das suas competências e nos casos em que a competência para a representação da Fundação tenha sido delegada neste órgão;\n\nc) Pela assinatura de um mandatário legalmente constituído pelo conselho de administração, no âmbito dos poderes constantes da procuração.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16"
+  },
+  "854126595": {
+   "fragment_id": "167359743",
+   "type": 8,
+   "heading": "Secção IV — conselho de curadores",
+   "in_force_from": "2013-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05"
+   ],
+   "markdown": "#### Secção IV — conselho de curadores\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05"
+  },
+  "854126580": {
+   "fragment_id": "167359744",
+   "type": 11,
+   "heading": "Artigo 12.º — Conselho de curadores",
+   "in_force_from": "2013-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/94 - Diário da República n.º 81/1994, Série I-A de 1994-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1994-253856), em vigor a partir de 1994-04-12",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16"
+   ],
+   "markdown": "###### Artigo 12.º — Conselho de curadores\n\n1 - O conselho de curadores é constituído por cinco a sete membros, designados por despacho do Primeiro-Ministro de entre individualidades de mérito reconhecido e com competência em domínios adequados aos fins da Fundação.\n\n2 - Dois dos membros do conselho de curadores são indicados pelo Embaixador dos Estados Unidos da América acreditado em Lisboa.\n\n3 - Sem prejuízo do disposto no número seguinte, o mandato dos membros do conselho de curadores é de sete anos, podendo ser renovado.\n\n4 - Na primeira designação para o conselho de curadores, três dos seus membros são designados para um mandato de quatro anos, estando incluídos neste grupo os membros a que se refere o n.º 2.\n\n5 - O mandato dos membros do conselho de curadores cessa:\n\na) Com o seu termo;\n\nb) Por morte ou incapacidade permanente;\n\nc) Por renúncia;\n\nd) Por exclusão deliberada em escrutínio secreto por maioria de dois terços do próprio conselho, com fundamento em indignidade, falta grave ou desinteresse manifesto no exercício das funções.\n\n6 - O presidente do conselho de curadores é designado por deliberação do próprio conselho aprovada por maioria absoluta dos seus membros.\n\n7 - O conselho de curadores reúne uma vez por semestre e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa ou a pedido do presidente do conselho de administração ou da maioria dos membros do conselho de curadores.\n\n8 - As funções de membro do conselho de curadores não são remuneradas, sendo-lhes no entanto atribuídas subvenções de transporte e de alojamento.\n\n9 - As deliberações do conselho de curadores são tomadas por maioria, tendo o seu presidente voto de qualidade.\n\n10 - Os membros do conselho de administração participam nas reuniões do conselho de curadores, sem direito de voto.\n\n11 - Compete ao conselho de curadores:\n\na) Garantir a manutenção dos princípios orientadores da Fundação e apreciar as linhas gerais, quer do seu funcionamento, quer da sua política de investimentos;\n\nb) Escolher os membros do conselho de administração, nos termos do n.º 1 do artigo 8.º, não podendo a escolha recair sobre qualquer dos membros do conselho de curadores;\n\nc) Apreciar o relatório, balanço e contas do exercício;\n\nd) Definir o estatuto remuneratório e demais subvenções dos membros do conselho de administração, de acordo com os critérios estabelecidos nos n.os 8 e 9 do artigo 8.º, e do fiscal único;\n\ne) Definir o valor das subvenções de transporte e alojamento dos seus próprios membros, através de uma comissão composta por três curadores.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/94 - Diário da República n.º 81/1994, Série I-A de 1994-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1994-253856), em vigor a partir de 1994-04-12\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16"
+  },
+  "854126596": {
+   "fragment_id": "854129476",
+   "type": 8,
+   "heading": "Secção V — fiscal único",
+   "in_force_from": "2013-08-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05"
+   ],
+   "markdown": "#### Secção V — fiscal único\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05"
+  },
+  "854126598": {
+   "fragment_id": "167359745",
+   "type": 11,
+   "heading": "Artigo 13.º — Fiscal único",
+   "in_force_from": "2013-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05"
+   ],
+   "markdown": "###### Artigo 13.º — Fiscal único\n\n1 - A fiscalização da Fundação é exercida por um fiscal único, designado pelo conselho de administração sob proposta do conselho executivo, tendo um mandato de três anos.\n\n2 - O fiscal único pode ser um revisor oficial de contas, uma sociedade de revisores oficiais de contas ou uma empresa de auditoria.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05"
+  },
+  "854126582": {
+   "fragment_id": "167359747",
+   "type": 11,
+   "heading": "Artigo 14.º — (Alteração dos estatutos e transformação ou extinção da Fundação)",
+   "in_force_from": "2013-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05"
+   ],
+   "markdown": "###### Artigo 14.º — (Alteração dos estatutos e transformação ou extinção da Fundação)\n\n1 - O Governo Português, por sua iniciativa ou sob proposta do conselho de administração, ouvido neste caso o conselho de curadores, poderá deliberar sobre a modificação dos presentes estatutos ou sobre a transformação ou extinção da Fundação.\n\n2 - Em caso de extinção da Fundação, o seu património reverterá para o Estado, que o deverá aplicar exclusivamente em fins de desenvolvimento económico e social do País.\n\nO Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama. - O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05"
+  },
+  "854126615": {
+   "fragment_id": "854129489",
+   "type": 11,
+   "heading": "Artigo 8.º-A",
+   "in_force_from": "2024-01-30",
+   "changed_by": [
+    "Aditado pelo/a Artigo 144.º do/a [Decreto-Lei n.º 17/2024 - Diário da República n.º 20/2024, Série I de 2024-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), em vigor a partir de 2024-01-30, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 8.º-A\n\nA Fundação Luso-Americana para o Desenvolvimento fica dispensada do cumprimento do princípio da unidade de tesouraria, bem como da entrega na tesouraria central do Estado dos rendimentos de todas as disponibilidades e aplicações financeiras auferidos em virtude daquela dispensa.\n\n> Aditado pelo/a Artigo 144.º do/a [Decreto-Lei n.º 17/2024 - Diário da República n.º 20/2024, Série I de 2024-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), em vigor a partir de 2024-01-30, produz efeitos a partir de 2024-01-01"
+  },
+  "854126616": {
+   "fragment_id": "167359724",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 7 de Março de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Jaime José Matos da Gama - Ernâni Rodrigues Lopes.\n\nPromulgado em 10 de Maio de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 14 de Maio de 1985.\n\nO Primeiro-Ministro, Mário Soares.\n\nESTATUTOS"
+  },
+  "854126617": {
+   "fragment_id": "167359725",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  }
+ }
+}

@@ -1,0 +1,844 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:572894:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1990-1078841375",
+ "dre_path": "/dr/detalhe/portaria/562-1990-572894",
+ "source_lastmod": "2026-08-27",
+ "versions": [
+  {
+   "date": "1990-07-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1078841575",
+    "1110062175",
+    "1110062375",
+    "1078841775",
+    "1078842175",
+    "1078842375",
+    "1078842575",
+    "1078842775",
+    "1078842975",
+    "1078843175",
+    "1078843375",
+    "1078843575",
+    "1078843775",
+    "1078843975",
+    "1078844175",
+    "1078844375",
+    "1078844575",
+    "1078844775",
+    "1078844975",
+    "1078845175",
+    "1078845375",
+    "1078845575",
+    "1078845775",
+    "1078845975",
+    "1078853575",
+    "1078853775",
+    "1078853975",
+    "1078854175",
+    "1078854375"
+   ]
+  },
+  {
+   "date": "1996-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:214544:por",
+     "title": "Portaria n.º 514/96",
+     "published": "1996-09-26",
+     "dre_path": "/dr/detalhe/portaria/514-1996-214544"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "1078841575",
+    "1110062175",
+    "1110062575",
+    "1078841775",
+    "1078841975",
+    "1078842175",
+    "1078842375",
+    "1078842575",
+    "1078842775",
+    "1078842975",
+    "1078843175",
+    "1078843375",
+    "1078843575",
+    "1078843775",
+    "1078843975",
+    "1099412075",
+    "1078844375",
+    "1078844575",
+    "1078844775",
+    "1078844975",
+    "1078845175",
+    "1078845375",
+    "1078845575",
+    "1078845775",
+    "1078845975",
+    "1078853575",
+    "1078853775",
+    "1078853975",
+    "1102660775",
+    "1078854375"
+   ]
+  },
+  {
+   "date": "2001-02-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:337580:por",
+     "title": "Portaria n.º 27/2001",
+     "published": "2001-01-15",
+     "dre_path": "/dr/detalhe/portaria/27-2001-337580"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 9.º",
+    "Revoga Anexo II"
+   ],
+   "fragments": [
+    "1078841575",
+    "1110062175",
+    "1110062575",
+    "1078841775",
+    "1078841975",
+    "1078842175",
+    "1078842375",
+    "1078842575",
+    "1078842775",
+    "1078842975",
+    "1078843175",
+    "1078843375",
+    "1078843575",
+    "1078843775",
+    "1078843975",
+    "1099412075",
+    "1078844375",
+    "1108674675",
+    "1078844775",
+    "1078844975",
+    "1078845175",
+    "1078845375",
+    "1078845575",
+    "1078845775",
+    "1078845975",
+    "1078853575",
+    "1078853775",
+    "1078853975",
+    "1102660775",
+    "1108674875"
+   ]
+  },
+  {
+   "date": "2007-10-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:629087:por",
+     "title": "Portaria n.º 1398/2007",
+     "published": "2007-10-25",
+     "dre_path": "/dr/detalhe/portaria/1398-2007-629087"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "1078841575",
+    "1110062175",
+    "1110062575",
+    "1078841775",
+    "1078841975",
+    "1078842175",
+    "1078842375",
+    "1078842575",
+    "1078842775",
+    "1078842975",
+    "1078843175",
+    "1110053275",
+    "1078843575",
+    "1078843775",
+    "1078843975",
+    "1110057275",
+    "1078844375",
+    "1108674675",
+    "1078844775",
+    "1078844975",
+    "1078845175",
+    "1078845375",
+    "1078845575",
+    "1078845775",
+    "1078845975",
+    "1078853575",
+    "1078853775",
+    "1078853975",
+    "1110059475",
+    "1108674875"
+   ]
+  },
+  {
+   "date": "2026-08-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1154555262:por",
+     "title": "Portaria n.º 329/2026/1",
+     "published": "2026-08-06",
+     "dre_path": "/dr/detalhe/portaria/329-2026-1154555262"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1155705575",
+    "1155705775",
+    "1155705875",
+    "1155705975",
+    "1155706075",
+    "1155706175",
+    "1155706275",
+    "1155706375",
+    "1155706475",
+    "1155706575",
+    "1155706675",
+    "1155706775",
+    "1155706875",
+    "1155706975",
+    "1155707075",
+    "1155707175",
+    "1155707275",
+    "1108674675",
+    "1155707475",
+    "1155707575",
+    "1155707675",
+    "1155707775",
+    "1155707875",
+    "1155707975",
+    "1155708075",
+    "1155708175",
+    "1155708275",
+    "1155708375",
+    "1155708475",
+    "1108674875"
+   ]
+  }
+ ],
+ "fragments": {
+  "1078841575": {
+   "fragment_id": "1078841475",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Decreto Regulamentar n.º 43/87, de 17 de Julho, estabeleceu, entre outras normas reguladoras da actividade da pesca, a estrutura básica do seu exercício em águas interiores não oceânicas.\n\nAlgumas massas de água deste tipo constituem, porém, relevantes espaços sócio-económicos, onde a actividade da pesca se reveste de particularidades que aconselham a sua regulamentação autónoma, embora enquadrada na estrutura básica acima referida, de forma a assegurar a correcta gestão e conservação dos recursos ocorrentes em tão sensíveis ecossistemas.\n\nNa referida regulamentação são, pois, acolhidas as especificidades que caracterizam localmente a actividade, nomeadamente no que toca a métodos e artes de pesca, tendo, quanto a estas, sido utilizada a terminologia em uso na zona.\n\nAssim, ao abrigo do artigo 59.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção que lhe foi dada pelo artigo 1.º do Decreto Regulamentar n.º 3/89, de 28 de Janeiro:\n\nManda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:"
+  },
+  "1110062175": {
+   "fragment_id": "1110062075",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nÉ aprovado o Regulamento da Pesca no Rio Sado, que, com os seus anexos, faz parte integrante da presente portaria."
+  },
+  "1110062375": {
+   "fragment_id": "1110062275",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nO Regulamento da Pesca no Rio Sado entra em vigor 60 dias após a publicação da presente portaria."
+  },
+  "1078841775": {
+   "fragment_id": "1078841675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério da Agricultura, Pescas e Alimentação.\n\nAssinada em 3 de Julho de 1990.\n\nPelo Ministro da Agricultura, Pescas e Alimentação, Jorge Manuel de Oliveira Godinho, Secretário de Estado das Pescas."
+  },
+  "1078842175": {
+   "fragment_id": "1078842075",
+   "type": 1,
+   "heading": "Capítulo I — Generalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Generalidades"
+  },
+  "1078842375": {
+   "fragment_id": "1078842275",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento tem por objecto estabelecer normas complementares reguladoras do exercício da pesca na bacia do rio Sado, ao abrigo do disposto no artigo 59.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção que lhe foi dada pelo artigo 1.º do Decreto Regulamentar n.º 3/89, de 28 de Janeiro."
+  },
+  "1078842575": {
+   "fragment_id": "1078842475",
+   "type": 11,
+   "heading": "Artigo 2.º — Zona de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Zona de aplicação\n\nA zona de aplicação do presente Regulamento, abreviadamente designada por zona, compreende as águas interiores não oceânicas da bacia do rio Sado, bem como os respectivos leitos e margens pertencentes ao domínio público hídrico, sob jurisdição da Capitania do Porto de Setúbal."
+  },
+  "1078842775": {
+   "fragment_id": "1078842675",
+   "type": 11,
+   "heading": "Artigo 3.º — Classificação da pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Classificação da pesca\n\nA pesca que pode ser exercida na zona classifica-se em:\n\na) Pesca comercial, quando as espécies capturadas se destinam a ser objecto de comércio, sob qualquer forma, quer no estado em que são extraídas da água, quer após subsequente preparação, modificação ou transformação;\n\nb) Pesca desportiva, quando praticada com fins lúdicos ou de desporto, não podendo o produto da pesca ser comercializado directa ou indirectamente."
+  },
+  "1078842975": {
+   "fragment_id": "1078842875",
+   "type": 1,
+   "heading": "Capítulo II — Pesca comercial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Pesca comercial"
+  },
+  "1078843175": {
+   "fragment_id": "1078843075",
+   "type": 8,
+   "heading": "Secção I — Artes de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Artes de pesca"
+  },
+  "1078843375": {
+   "fragment_id": "1078843275",
+   "type": 11,
+   "heading": "Artigo 4.º — Artes de pesca autorizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Artes de pesca autorizadas\n\n1 - A pesca comercial na zona só pode ser exercida por meio de artes que estejam autorizadas e sejam licenciadas nos termos dos artigos 74.º e seguintes do Decreto Regulamentar n.º 43/87, de 17 de Julho.\n\n2 - Ao abrigo do disposto no n.º 4 do artigo 53.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, a pesca comercial na zona só pode ser exercida com as seguintes artes:\n\na) Aparelhos de anzol fundeados:\n\nEspinel, espinhel, trole ou palangre;\n\nb) Redes de tresmalho fundeadas:\n\nBranqueira;\n\nSolheira (para a captura de solha e linguado e choco);\n\nc) Toneiras ou taloeiras;\n\nd) Covos;\n\ne) Alcatruzes (para a captura de polvos);\n\nf) Amostra, corrico ou corripo;\n\ng) Cana de pesca e linha de mão.\n\n3 - A descrição e características das artes referidas no n.º 2 constam do anexo I."
+  },
+  "1078843575": {
+   "fragment_id": "1078843475",
+   "type": 8,
+   "heading": "Secção II — Exercício da pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Exercício da pesca"
+  },
+  "1078843775": {
+   "fragment_id": "1078843675",
+   "type": 11,
+   "heading": "Artigo 5.º — Quem pode exercer a pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Quem pode exercer a pesca\n\nA pesca comercial na zona, exercida com ou sem auxílio de embarcações, só é permitida a inscritos marítimos."
+  },
+  "1078843975": {
+   "fragment_id": "1078843875",
+   "type": 11,
+   "heading": "Artigo 6.º — Embarcações autorizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Embarcações autorizadas\n\nA pesca comercial na zona fica limitada à utilização de embarcações de pesca local de comprimento de fora a fora não superior a 11 m e de potência de motor não superior a 65 cv ou 48 kW, independentemente do tipo de convés que apresentem."
+  },
+  "1078844175": {
+   "fragment_id": "1078844075",
+   "type": 11,
+   "heading": "Artigo 7.º — Condicionamentos ao exercício da pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condicionamentos ao exercício da pesca\n\n1 - O exercício da pesca na zona está sujeito aos seguintes condicionamentos:\n\na) Não é permitido utilizar ou ter a bordo artes que não sejam autorizadas e não tenham sido licenciadas;\n\nb) Às embarcações referidas no artigo anterior não é permitido deter, transportar, depositar ou abandonar nas margens do rio artes de pesca que não estejam autorizadas e licenciadas;\n\nc) A partir de terra firme só podem ser utilizadas as seguintes artes: cana de pesca e linha de mão;\n\nd) Nenhuma arte pode ser calada de forma a prejudicar outra que já o esteja;\n\ne) Nenhuma arte de pesca pode ter qualquer dos seus extremos fixado a terra firme, ou ser fixada ou operada a partir de aqueduto, ponte, pontão, ou qualquer outro tipo de construção semelhante, nem a bóias ou balizas de sinalização marítima ou postaletes de tabuletas;\n\nf) Não é permitido bater nas águas («batuque»), «valar águas», «socar», lançar pedras, percutir ou usar sistemas semelhantes;\n\ng) Não se podem utilizar fontes luminosas (candeio) para chamariz de peixe;\n\nh) As redes de tresmalho não podem permanecer caladas por mais de 24 horas consecutivas em cada período de 36 horas;\n\ni) De acordo com a legislação comunitária, é proibida a pesca com armas de fogo, substâncias explosivas, venenosas ou tóxicas, corrente eléctrica ou outros processos susceptíveis de causar a morte ou o atordoamento dos espécimes;\n\nj) Não é permitido iscar nem engodar com ovas de peixe;\n\nl) Não é permitida a construção de pesqueiras e a colocação dentro de água de redes, aparelhos ou quaisquer outros dispositivos destinados a encaminhar os espécimes para espaços donde não possam sair, que os forcem a passar por um canal, esteiro ou vala ou que os impeçam de circular livremente, tais como barragens, paliçadas ou outros obstáculos;\n\nm) Não é permitido o exercício da pesca em áreas consideradas como abrigos, desovadeiras, viveiros de criação, zonas de estabulação e zonas de reprodução, como tal classificadas e identificadas pela autoridade marítima, de acordo com os dados científicos disponíveis;\n\nn) Não é permitido o exercício da pesca em áreas cujo nível das águas possa pôr em perigo a conservação da fauna aquícola salvo em casos excepcionais autorizados pela Direcção-Geral das Pescas (DGP), sob parecer do Instituto Nacional de Investigação das Pescas (INIP) e ouvida a Capitania do Porto.\n\n2 - O exercício da pesca na zona está também sujeito, por razões de segurança, aos seguintes condicionamentos:\n\na) É proibida a pesca nos seguintes locais:\n\n1) Na barra do porto de Setúbal, definida a norte pelo enfiamento da baliza n.º 2 com o farol do Outão e desde a referida baliza até ao quadro comercial e militar e definida a sul pela bóia n.º 1 e pela bóia de João Farto e desde a bóia n.º 1 atá ao quadro comercial e militar;\n\n2) No quadro comercial e militar como tal definido na carta de navegação emitida pelo Instituto Hidrográfico;\n\n3) No canal sul ou canal da SETENAVE, definido pelas bóias de assinalamento marítimo existentes;\n\n4) No canal norte, definido a norte pela bóia da Parvoiça e pelo extremo oeste do cais da SAPEC e a sul por uma linha paralela à do limite norte e dela distanciada 300 m;\n\n5) No corredor do tráfego marítimo das carreiras dos transportes fluviais, constituído por um canal com 300 m de largura, sendo o respectivo eixo a linha que une o cais da ponta do Adoxe com o centro da abertura da doca de comércio;\n\n6) Na aproximação dos cais da SETENAVE, EUROMINAS e BOLINDEN, definida a sul pelo canal sul, a leste pelo alinhamento da bóia n.º 9 com o extremo leste do cais da EUROMINAS e a oeste pela linha definida pela bóia n.º 16 e pelo extremo oeste do cais do BOLINDEN;\n\n7) Nas docas e respectivos acessos e a menos de 300 m dos cais acostáveis;\n\n8) Em zonas balneares, durante a respectiva época, a menos de 200 m da linha da praia.\n\n3 - Em caso de avaria, sinistro ou qualquer outra razão de força maior que impeça o cumprimento do disposto na alínea h) do n.º 1, bem como no caso de abandono de artes na água, deverá, desses factos, ser dado conhecimento imediato à Capitania do Porto."
+  },
+  "1078844375": {
+   "fragment_id": "1078844275",
+   "type": 11,
+   "heading": "Artigo 8.º — Períodos de defeso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Períodos de defeso\n\n1 - Os períodos de defeso para cada uma das espécies são fixados anualmente por despacho do Ministro da Agricultura, Pescas e Alimentação, mediante proposta da DGP, sob parecer do INIP e ouvida a Capitania do Porto de Setúbal.\n\n2 - Dentro das épocas háveis de pesca pode, por despacho do Ministro da Agricultura, Pescas e Alimentação, ser restringida a utilização de determinadas artes, tendo em conta a necessidade de conservação e gestão dos recursos ocorrentes."
+  },
+  "1078844575": {
+   "fragment_id": "1078844475",
+   "type": 11,
+   "heading": "Artigo 9.º — Tamanhos mínimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Tamanhos mínimos\n\nOs exemplares capturados cujos tamanhos sejam inferiores às dimensões mínimas fixadas no anexo II ao presente Regulamento ou nos anexos IV, V e VI ao Decreto Regulamentar n.º 43/87, de 17 de Julho, devem ser imediatamente devolvidos à água, não podendo ser mantidos a bordo, transbordados, desembarcados, transportados, armazenados, expostos à venda ou transaccionados."
+  },
+  "1078844775": {
+   "fragment_id": "1078844675",
+   "type": 11,
+   "heading": "Artigo 10.º — Dados e informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Dados e informações\n\nOs mestres e arrais das embarcações que exerçam a actividade na zona são obrigados a fornecer os dados e informações determinados pela legislação em vigor e dar cumprimento ao preenchimento dos registos de actividade que a referida legislação imponha."
+  },
+  "1078844975": {
+   "fragment_id": "1078844875",
+   "type": 8,
+   "heading": "Secção III — Sinalização e identificação das artes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Sinalização e identificação das artes"
+  },
+  "1078845175": {
+   "fragment_id": "1078845075",
+   "type": 11,
+   "heading": "Artigo 11.º — Sinalização das artes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Sinalização das artes\n\nAs artes de pesca fundeadas devem ser sinalizadas nos termos do disposto no Decreto Regulamentar n.º 43/87, de 17 de Julho."
+  },
+  "1078845375": {
+   "fragment_id": "1078845275",
+   "type": 11,
+   "heading": "Artigo 12.º — Identificação das artes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Identificação das artes\n\nPara fins de identificação, as artes de pesca de uma embarcação devem ser marcadas, nomeadamente nas bóias de sinalização, com o conjunto de identificação da embarcação a que pertencem ou com o número de registo do inscrito marítimo, proprietário, até à data da entrada em vigor do presente Regulamento."
+  },
+  "1078845575": {
+   "fragment_id": "1078845475",
+   "type": 1,
+   "heading": "Capítulo III — Pesca desportiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Pesca desportiva"
+  },
+  "1078845775": {
+   "fragment_id": "1078845675",
+   "type": 11,
+   "heading": "Artigo 13.º — Exercício da pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Exercício da pesca\n\n1 - A pesca desportiva na zona apenas pode ser exercida a partir de terra firme ou de embarcações de recreio e na modalidade referida na alínea a) do artigo 1.º do Decreto n.º 45116, de 6 de Julho de 1963 (pesca de superfície), com cana de pesca ou linha de mão, não podendo cada desportista utilizar mais de duas canas ou linhas.\n\n2 - As embarcações de pesca desportiva não devem impedir as embarcações de pesca local de exercerem a sua actividade, nomeadamente quando do lançamento dos seus aparelhos ou redes.\n\n3 - Do pôr ao nascer do Sol a pesca desportiva não pode exercer-se de bordo de embarcações.\n\n4 - A pesca desportiva deverá obedecer às disposições do presente Regulamento que lhe sejam aplicáveis, nomeadamente quanto ao número e abertura dos anzóis (anexo I) e aos tamanhos mínimos das espécies capturadas (anexo II).\n\n5 - A Capitania do Porto poderá autorizar concursos de pesca desportiva na zona, desde que verificadas as necessárias condições de segurança, salubridade e protecção dos recursos vivos."
+  },
+  "1078845975": {
+   "fragment_id": "1078845875",
+   "type": 11,
+   "heading": "Artigo 14.º — Caça submarina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Caça submarina\n\nNa zona de aplicação do presente Regulamento não é permitido praticar a modalidade de pesca desportiva referida na alínea b) do artigo 1.º do Decreto n.º 45116, de 6 de Julho de 1963 (caça submarina)."
+  },
+  "1078853575": {
+   "fragment_id": "1078846075",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "1078853775": {
+   "fragment_id": "1078853675",
+   "type": 11,
+   "heading": "Artigo 15.º — Regime contra-ordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regime contra-ordenacional\n\nÀs infracções ao disposto no presente Regulamento são aplicáveis as disposições pertinentes das secções I e III do capítulo V do Decreto-Lei n.º 278/87, de 7 de Julho, com as derrogações introduzidas pelo artigo 33.º do Decreto-Lei n.º 421/88, de 12 de Novembro, bem como as contra-ordenações previstas no artigo 82.º do Decreto Regulamentar n.º 43/87, de 17 de Julho."
+  },
+  "1078853975": {
+   "fragment_id": "1078853875",
+   "type": 11,
+   "heading": "Artigo 16.º — Outra legislação aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Outra legislação aplicável\n\nSem prejuízo do disposto no presente Regulamento, o exercício da pesca na zona está sujeito às disposições aplicáveis do Decreto-Lei n.º 278/87, de 7 de Julho, e do Decreto Regulamentar n.º 43/87 de 17 de Julho, e, no que respeita à pesca desportiva, às do Decreto n.º 45116, de 6 de Julho de 1963."
+  },
+  "1078854175": {
+   "fragment_id": "1078854075",
+   "type": 14,
+   "heading": "Anexo I — Descrição e características das artes autorizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Descrição e características das artes autorizadas\n\n(a que se refere o n.º 3 do artigo 4.º)\n\n1 - Alcatruz\n\nDescrição: armadilha de abrigo constituída por um pote de barro de secção circular com o fundo perfurado. Quando agrupados, constituem uma teia, a qual é fundeada e formada por uma linha madre, à qual, a intervalos regulares, estão ligados os cabos que prendem os alcatruzes.\n\nCaracterísticas:\n\nAltura máxima dos potes - 40 cm;\n\nNúmero máximo de alcatruzes por embarcação - 300.\n\n2 - Amostra, corrico ou corripo\n\nDescrição: aparelho de anzol com amostra, que actua à superfície ou abaixo desta, podendo ou não ser rebocado por uma embarcação.\n\nCaracterística:\n\nAbertura mínima do anzol - 8 mm.\n\n3 - Branqueira\n\nDescrição: rede de emalhar de três panos (tresmalho) fundeada.\n\nCaracterísticas:\n\nComprimento máximo da rede - 40 m;\n\nAltura máxima da rede - 1 m;\n\nMalhagem mínima do pano central (miúdo) - 100 mm;\n\nNúmero máximo de redes por caçada - 15;\n\nNúmero máximo de casadas por embarcação - 1.\n\n4 - Cana de pesca e linha de mão\n\nCaracterísticas:\n\nNúmero máximo de anzóis - 3;\n\nAbertura mínima do anzol - 8 mm.\n\n5 - Covo\n\nDescrição: armadilha, de forma variada, constituída por um suporte rígido coberto de rede e dispondo de uma ou mais aberturas.\n\nCaracterísticas:\n\nComprimento máximo da armadilha - 70 cm;\n\nMalhagem mínima da rede - 30 mm;\n\nNúmero máximo de covos por embarcação - 50.\n\n6 - Espinel, espinhel, trole ou palangre\n\nDescrição: aparelho de anzol fundeado, constituído por uma madre, à qual, de espaço a espaço, são amarrados os estrovos ou estralhos, na extremidade dos quais são empatados os anzóis.\n\nCaracterísticas:\n\nComprimento máximo da madre - 900 m;\n\nComprimento máximo dos estrovos - 1 m;\n\nNúmero máximo de anzóis em cada madre (por aparelho) - 250;\n\nAbertura mínima dos anzóis - 8 mm;\n\nNúmero máximo de aparelhos por embarcação - 4.\n\n7 - Solheira\n\nDescrição: rede de emalhar de três panos (tresmalho) fundeada.\n\nCaracterísticas:\n\nComprimento máximo da rede - 250 m;\n\nAltura máxima da rede - 1 m;\n\nMalhagem mínima do pano central (no miúdo) - 100 m.\n\n8 - Toneira ou taloeira\n\nDescrição: peso de chumbo de forma fusiforme, tendo na extremidade superior um furo para amarrar a linha e na parte inferior uma coroa de anzóis."
+  },
+  "1078854375": {
+   "fragment_id": "1078854275",
+   "type": 14,
+   "heading": "Anexo II — Tamanhos mínimos das espécies",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Tamanhos mínimos das espécies\n\n(a que se refere o artigo 9.º)\n\nAzevia (Microchirus azevia) - 18 cm (ver nota a).\n\nBaila (Dicentrachus punctatus) - 20 cm (ver nota b).\n\nBoga (Boops boops) - 15 cm (ver nota a).\n\nChoco (Sepia spp.) - 15 cm (ver nota b).\n\nChoupa (Spondyliosoma cantharus) - 23 cm (ver nota a).\n\nDourada (Sparus aurata) - 19 cm (ver nota a)\n\nEnguia (Anguilla anguilla) - 25 cm (ver nota b).\n\nLíngua (Dicologlossa cuneata) - 15 cm (ver nota a).\n\nLinguado (Solea vulgaris) - 24 cm (ver nota a).\n\nMacaca (Solea lascaris) - 24 cm (ver nota a).\n\nRobalo (Dicentrachus labrax) - 36 cm (ver nota a).\n\nSafio (Conger conger) - 58 cm (ver nota a).\n\nSalmonete (Mullus surmuletus) - 15 cm (ver nota a).\n\nSolha (Pleuronectes platessa) - 25 cm (ver nota a).\n\nSolha-das-pedras (Platichtys flesus) - 25 cm (ver nota a).\n\n(nota a) Tamanho fixado nos anexos IV, V e VI ao Decreto Regulamentar n.º 43/87, de 17 de Julho.\n\n(nota b) Tamanho fixado pelo presente Regulamento."
+  },
+  "1110062575": {
+   "fragment_id": "1110062275",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nO Regulamento da Pesca no Rio Sado entra em vigor 60 dias após a publicação da presente portaria."
+  },
+  "1078841975": {
+   "fragment_id": "1078841875",
+   "type": 14,
+   "heading": "Anexo — Regulamento da Pesca no Rio Sado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Regulamento da Pesca no Rio Sado"
+  },
+  "1099412075": {
+   "fragment_id": "1078844075",
+   "type": 11,
+   "heading": "Artigo 7 — Condicionamentos ao exercício da pesca",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 201/1990, 3º Suplemento, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-546242), com efeitos a partir de 1990-09-17."
+   ],
+   "markdown": "###### Artigo 7 — Condicionamentos ao exercício da pesca\n\n1 - O exercício da pesca na zona está sujeito aos seguintes condicionamentos:\n\na) Não é permitido utilizar ou ter a bordo artes que não sejam autorizadas e não tenham sido licenciadas;\n\nb) Às embarcações referidas no artigo anterior não é permitido deter, transportar, depositar ou abandonar nas margens do rio artes de pesca que não estejam autorizadas e licenciadas;\n\nc) A partir de terra firme só podem ser utilizadas as seguintes artes: cana de pesca e linha de mão;\n\nd) Nenhuma arte pode ser calada de forma a prejudicar outra que já o esteja;\n\ne) Nenhuma arte de pesca pode ter qualquer dos seus extremos fixado a terra firme, ou ser fixada ou operada a partir de aqueduto, ponte, pontão, ou qualquer outro tipo de construção semelhante, nem a bóias ou balizas de sinalização marítima ou postaletes de tabuletas;\n\nf) Não é permitido bater nas águas («batuque»), «valar águas», «socar», lançar pedras, percutir ou usar sistemas semelhantes;\n\ng) Não se podem utilizar fontes luminosas (candeio) para chamariz de peixe;\n\nh) As redes de tresmalho não podem permanecer caladas por mais de 24 horas consecutivas em cada período de 36 horas;\n\ni) De acordo com a legislação comunitária, é proibida a pesca com armas de fogo, substâncias explosivas, venenosas ou tóxicas, corrente eléctrica ou outros processos susceptíveis de causar a morte ou o atordoamento dos espécimes;\n\nj) Não é permitido iscar nem engodar com ovas de peixe;\n\nl) Não é permitida a construção de pesqueiras e a colocação dentro de água de redes, aparelhos ou quaisquer outros dispositivos destinados a encaminhar os espécimes para espaços donde não possam sair, que os forcem a passar por um canal, esteiro ou vala ou que os impeçam de circular livremente, tais como ramagens, paliçadas ou outros obstáculos;\n\nm) Não é permitido o exercício da pesca em áreas consideradas como abrigos, desovadeiras, viveiros de criação, zonas de estabulação e zonas de reprodução, como tal classificadas e identificadas pela autoridade marítima, de acordo com os dados científicos disponíveis;\n\nn) Não é permitido o exercício da pesca em áreas cujo nível das águas possa pôr em perigo a conservação da fauna aquícola salvo em casos excepcionais autorizados pela Direcção-Geral das Pescas (DGP), sob parecer do Instituto Nacional de Investigação das Pescas (INIP) e ouvida a Capitania do Porto.\n\n2 - O exercício da pesca na zona está também sujeito, por razões de segurança, aos seguintes condicionamentos:\n\na) É proibida a pesca nos seguintes locais:\n\n1) Na barra do porto de Setúbal, definida a norte pelo enfiamento da baliza n.º 2 com o farol do Outão e desde a referida baliza até ao quadro comercial e militar e definida a sul pela bóia n.º 1 e pela bóia de João Farto e desde a bóia n.º 1 atá ao quadro comercial e militar;\n\n2) No quadro comercial e militar como tal definido na carta de navegação emitida pelo Instituto Hidrográfico;\n\n3) No canal sul ou canal da SETENAVE, definido pelas bóias de assinalamento marítimo existentes;\n\n4) No canal norte, definido a norte pela bóia da Parvoiça e pelo extremo oeste do cais da SAPEC e a sul por uma linha paralela à do limite norte e dela distanciada 300 m;\n\n5) No corredor do tráfego marítimo das carreiras dos transportes fluviais, constituído por um canal com 300 m de largura, sendo o respectivo eixo a linha que une o cais da ponta do Adoxe com o centro da abertura da doca de comércio;\n\n6) Na aproximação dos cais da SETENAVE, EUROMINAS e BOLINDEN, definida a sul pelo canal sul, a leste pelo alinhamento da bóia n.º 9 com o extremo leste do cais da EUROMINAS e a oeste pela linha definida pela bóia n.º 16 e pelo extremo oeste do cais do BOLINDEN;\n\n7) Nas docas e respectivos acessos e a menos de 300 m dos cais acostáveis;\n\n8) Em zonas balneares, durante a respectiva época, a menos de 200 m da linha da praia.\n\n3 - Em caso de avaria, sinistro ou qualquer outra razão de força maior que impeça o cumprimento do disposto na alínea h) do n.º 1, bem como no caso de abandono de artes na água, deverá, desses factos, ser dado conhecimento imediato à Capitania do Porto.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 201/1990, 3º Suplemento, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-546242), com efeitos a partir de 1990-09-17."
+  },
+  "1102660775": {
+   "fragment_id": "1078854075",
+   "type": 14,
+   "heading": "Anexo I — Descrição e características das artes autorizadas",
+   "in_force_from": "1996-10-01",
+   "changed_by": [
+    "Alterado pelo/a Anexo I do/a [Portaria n.º 514/96 - Diário da República n.º 224/1996, Série I-B de 1996-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/514-1996-214544), em vigor a partir de 1996-10-01."
+   ],
+   "markdown": "## Anexo I — Descrição e características das artes autorizadas\n\n(a que se refere o n.º 3 do artigo 4.º)\n\n1 - Alcatruz\n\nDescrição: armadilha de abrigo constituída por um pote de barro de secção circular com o fundo perfurado. Quando agrupados, constituem uma teia, a qual é fundeada e formada por uma linha madre, à qual, a intervalos regulares, estão ligados os cabos que prendem os alcatruzes.\n\nCaracterísticas:\n\nAltura máxima dos potes - 40 cm;\n\nNúmero máximo de alcatruzes por embarcação - 300.\n\n2 - Amostra, corrico ou corripo\n\nDescrição: aparelho de anzol com amostra, que actua à superfície ou abaixo desta, podendo ou não ser rebocado por uma embarcação.\n\nCaracterística:\n\nAbertura mínima do anzol - 8 mm.\n\n3 - Branqueira\n\nDescrição: rede de emalhar de três panos (tresmalho) fixa-basculante.\n\nCaracterísticas:\n\nComprimento máximo da rede - 150 m;\n\nAltura máxima da rede - 1 m;\n\nMalhagem mínima do pano central (miúdo) - 65 mm.\n\n4 - Cana de pesca e linha de mão\n\nCaracterísticas:\n\nNúmero máximo de anzóis - 3;\n\nAbertura mínima do anzol - 8 mm.\n\n5 - Covo\n\nDescrição: armadilha, de forma variada, constituída por um suporte rígido coberto de rede e dispondo de uma ou mais aberturas.\n\nCaracterísticas:\n\nComprimento máximo da armadilha - 70 cm;\n\nMalhagem mínima da rede - 30 mm;\n\nNúmero máximo de covos por embarcação - 50.\n\n6 - Espinel, espinhel, trole ou palangre\n\nDescrição: aparelho de anzol fundeado, constituído por uma madre, à qual, de espaço a espaço, são amarrados os estrovos ou estralhos, na extremidade dos quais são empatados os anzóis.\n\nCaracterísticas:\n\nComprimento máximo da madre - 900 m;\n\nComprimento máximo dos estrovos - 1 m;\n\nNúmero máximo de anzóis em cada madre (por aparelho) - 250;\n\nAbertura mínima dos anzóis - 8 mm;\n\nNúmero máximo de aparelhos por embarcação - 4.\n\n7 - Solheira\n\nDescrição: rede de emalhar de três panos (tresmalho) fundeada.\n\nCaracterísticas:\n\nComprimento máximo da rede - 250 m;\n\nAltura máxima da rede - 1 m;\n\nMalhagem mínima do pano central (no miúdo) - 80 mm.\n\n8 - Toneira ou taloeira\n\nDescrição: peso de chumbo de forma fusiforme, tendo na extremidade superior um furo para amarrar a linha e na parte inferior uma coroa de anzóis.\n\n> Alterado pelo/a Anexo I do/a [Portaria n.º 514/96 - Diário da República n.º 224/1996, Série I-B de 1996-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/514-1996-214544), em vigor a partir de 1996-10-01."
+  },
+  "1108674675": {
+   "fragment_id": "1078844475",
+   "type": 11,
+   "heading": "Artigo 9.º — Tamanhos mínimos",
+   "in_force_from": "2001-02-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 27/2001 - Diário da República n.º 12/2001, Série I-B de 2001-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/27-2001-337580), em vigor a partir de 2001-02-08."
+   ],
+   "markdown": "###### Artigo 9.º — Tamanhos mínimos\n\nOs exemplares capturados cujos tamanhos sejam inferiores às dimensões mínimas fixadas no anexo II ao presente Regulamento ou nos anexos IV, V e VI ao Decreto Regulamentar n.º 43/87, de 17 de Julho, devem ser imediatamente devolvidos à água, não podendo ser mantidos a bordo, transbordados, desembarcados, transportados, armazenados, expostos à venda ou transaccionados.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 27/2001 - Diário da República n.º 12/2001, Série I-B de 2001-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/27-2001-337580), em vigor a partir de 2001-02-08."
+  },
+  "1108674875": {
+   "fragment_id": "1078854275",
+   "type": 14,
+   "heading": "Anexo II — Tamanhos mínimos das espécies",
+   "in_force_from": "2001-02-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 27/2001 - Diário da República n.º 12/2001, Série I-B de 2001-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/27-2001-337580), em vigor a partir de 2001-02-08."
+   ],
+   "markdown": "## Anexo II — Tamanhos mínimos das espécies\n\n(a que se refere o artigo 9.º)\n\nAzevia (Microchirus azevia) - 18 cm (ver nota a).\n\nBaila (Dicentrachus punctatus) - 20 cm (ver nota b).\n\nBoga (Boops boops) - 15 cm (ver nota a).\n\nChoco (Sepia spp.) - 15 cm (ver nota b).\n\nChoupa (Spondyliosoma cantharus) - 23 cm (ver nota a).\n\nDourada (Sparus aurata) - 19 cm (ver nota a)\n\nEnguia (Anguilla anguilla) - 25 cm (ver nota b).\n\nLíngua (Dicologlossa cuneata) - 15 cm (ver nota a).\n\nLinguado (Solea vulgaris) - 24 cm (ver nota a).\n\nMacaca (Solea lascaris) - 24 cm (ver nota a).\n\nRobalo (Dicentrachus labrax) - 36 cm (ver nota a).\n\nSafio (Conger conger) - 58 cm (ver nota a).\n\nSalmonete (Mullus surmuletus) - 15 cm (ver nota a).\n\nSolha (Pleuronectes platessa) - 25 cm (ver nota a).\n\nSolha-das-pedras (Platichtys flesus) - 25 cm (ver nota a).\n\n(nota a) Tamanho fixado nos anexos IV, V e VI ao Decreto Regulamentar n.º 43/87, de 17 de Julho.\n\n(nota b) Tamanho fixado pelo presente Regulamento.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 27/2001 - Diário da República n.º 12/2001, Série I-B de 2001-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/27-2001-337580), em vigor a partir de 2001-02-08."
+  },
+  "1110053275": {
+   "fragment_id": "1078843275",
+   "type": 11,
+   "heading": "Artigo 4.º — Artes de pesca autorizadas",
+   "in_force_from": "2007-10-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1398/2007 - Diário da República n.º 206/2007, Série I de 2007-10-25](https://diariodarepublica.pt/dr/detalhe/portaria/1398-2007-629087), em vigor a partir de 2007-10-30."
+   ],
+   "markdown": "###### Artigo 4.º — Artes de pesca autorizadas\n\n1 - A pesca comercial na zona só pode ser exercida por meio de artes que estejam autorizadas e sejam licenciadas nos termos dos artigos 74.º e seguintes do Decreto Regulamentar n.º 43/87, de 17 de Julho.\n\n2 - Ao abrigo do disposto no n.º 4 do artigo 53.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, a pesca comercial na zona só pode ser exercida com as seguintes artes:\n\na) Aparelhos de anzol fundeados:\n\nEspinel, espinhel, trole ou palangre;\n\nb) Redes de tresmalho fundeadas:\n\nBranqueira;\n\nSolheira (para a captura de solha e linguado e choco);\n\nc) Toneira ou taloeira e piteira;\n\nd) Covos;\n\ne) Alcatruzes (para a captura de polvos);\n\nf) Amostra, corrico ou corripo;\n\ng) Cana de pesca e linha de mão.\n\n3 - A descrição e características das artes referidas no n.º 2 constam do anexo I.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1398/2007 - Diário da República n.º 206/2007, Série I de 2007-10-25](https://diariodarepublica.pt/dr/detalhe/portaria/1398-2007-629087), em vigor a partir de 2007-10-30."
+  },
+  "1110057275": {
+   "fragment_id": "1078844075",
+   "type": 11,
+   "heading": "Artigo 7.º — Condicionamentos ao exercício da pesca",
+   "in_force_from": "2007-10-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1398/2007 - Diário da República n.º 206/2007, Série I de 2007-10-25](https://diariodarepublica.pt/dr/detalhe/portaria/1398-2007-629087), em vigor a partir de 2007-10-30.",
+    "Retificado pelo/a [Declaração - Diário da República n.º 201/1990, 3º Suplemento, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-546242), com efeitos a partir de 1990-09-17."
+   ],
+   "markdown": "###### Artigo 7.º — Condicionamentos ao exercício da pesca\n\n1 - O exercício da pesca na zona está sujeito aos seguintes condicionamentos:\n\na) Não é permitido utilizar ou ter a bordo artes que não sejam autorizadas e não tenham sido licenciadas;\n\nb) Às embarcações referidas no artigo anterior não é permitido deter, transportar, depositar ou abandonar nas margens do rio artes de pesca que não estejam autorizadas e licenciadas;\n\nc) A partir de terra firme só podem ser utilizadas as seguintes artes: cana de pesca e linha de mão;\n\nd) Nenhuma arte pode ser calada de forma a prejudicar outra que já o esteja;\n\ne) Nenhuma arte de pesca pode ter qualquer dos seus extremos fixado a terra firme, ou ser fixada ou operada a partir de aqueduto, ponte, pontão, ou qualquer outro tipo de construção semelhante, nem a bóias ou balizas de sinalização marítima ou postaletes de tabuletas;\n\nf) Não é permitido bater nas águas («batuque»), «valar águas», «socar», lançar pedras, percutir ou usar sistemas semelhantes;\n\ng) Não se podem utilizar fontes luminosas (candeio) para chamariz de peixe;\n\nh) As redes de tresmalho não podem permanecer caladas por mais de 24 horas consecutivas em cada período de 36 horas;\n\ni) De acordo com a legislação comunitária, é proibida a pesca com armas de fogo, substâncias explosivas, venenosas ou tóxicas, corrente eléctrica ou outros processos susceptíveis de causar a morte ou o atordoamento dos espécimes;\n\nj) Não é permitido iscar nem engodar com ovas de peixe;\n\nl) Não é permitida a construção de pesqueiras e a colocação dentro de água de redes, aparelhos ou quaisquer outros dispositivos destinados a encaminhar os espécimes para espaços donde não possam sair, que os forcem a passar por um canal, esteiro ou vala ou que os impeçam de circular livremente, tais como ramagens, paliçadas ou outros obstáculos;\n\nm) Não é permitido o exercício da pesca em áreas consideradas como abrigos, desovadeiras, viveiros de criação, zonas de estabulação e zonas de reprodução, como tal classificadas e identificadas pela autoridade marítima, de acordo com os dados científicos disponíveis;\n\nn) Não é permitido o exercício da pesca em áreas cujo nível das águas possa pôr em perigo a conservação da fauna aquícola salvo em casos excepcionais autorizados pela Direcção-Geral das Pescas (DGP), sob parecer do Instituto Nacional de Investigação das Pescas (INIP) e ouvida a Capitania do Porto;\n\no) Não é permitida, porém, a utilização da piteira dentro da Reserva Natural do Estuário do Sado.\n\n2 - O exercício da pesca na zona está também sujeito, por razões de segurança, aos seguintes condicionamentos:\n\na) É proibida a pesca nos seguintes locais:\n\n1) Na barra do porto de Setúbal, definida a norte pelo enfiamento da baliza n.º 2 com o farol do Outão e desde a referida baliza até ao quadro comercial e militar e definida a sul pela bóia n.º 1 e pela bóia de João Farto e desde a bóia n.º 1 atá ao quadro comercial e militar;\n\n2) No quadro comercial e militar como tal definido na carta de navegação emitida pelo Instituto Hidrográfico;\n\n3) No canal sul ou canal da SETENAVE, definido pelas bóias de assinalamento marítimo existentes;\n\n4) No canal norte, definido a norte pela bóia da Parvoiça e pelo extremo oeste do cais da SAPEC e a sul por uma linha paralela à do limite norte e dela distanciada 300 m;\n\n5) No corredor do tráfego marítimo das carreiras dos transportes fluviais, constituído por um canal com 300 m de largura, sendo o respectivo eixo a linha que une o cais da ponta do Adoxe com o centro da abertura da doca de comércio;\n\n6) Na aproximação dos cais da SETENAVE, EUROMINAS e BOLINDEN, definida a sul pelo canal sul, a leste pelo alinhamento da bóia n.º 9 com o extremo leste do cais da EUROMINAS e a oeste pela linha definida pela bóia n.º 16 e pelo extremo oeste do cais do BOLINDEN;\n\n7) Nas docas e respectivos acessos e a menos de 300 m dos cais acostáveis;\n\n8) Em zonas balneares, durante a respectiva época, a menos de 200 m da linha da praia.\n\n3 - Em caso de avaria, sinistro ou qualquer outra razão de força maior que impeça o cumprimento do disposto na alínea h) do n.º 1, bem como no caso de abandono de artes na água, deverá, desses factos, ser dado conhecimento imediato à Capitania do Porto.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1398/2007 - Diário da República n.º 206/2007, Série I de 2007-10-25](https://diariodarepublica.pt/dr/detalhe/portaria/1398-2007-629087), em vigor a partir de 2007-10-30.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 201/1990, 3º Suplemento, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-546242), com efeitos a partir de 1990-09-17."
+  },
+  "1110059475": {
+   "fragment_id": "1078854075",
+   "type": 14,
+   "heading": "Anexo I — Descrição e características das artes autorizadas",
+   "in_force_from": "2007-10-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1398/2007 - Diário da República n.º 206/2007, Série I de 2007-10-25](https://diariodarepublica.pt/dr/detalhe/portaria/1398-2007-629087), em vigor a partir de 2007-10-30.",
+    "Alterado pelo/a Anexo I do/a [Portaria n.º 514/96 - Diário da República n.º 224/1996, Série I-B de 1996-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/514-1996-214544), em vigor a partir de 1996-10-01."
+   ],
+   "markdown": "## Anexo I — Descrição e características das artes autorizadas\n\n(a que se refere o n.º 3 do artigo 4.º)\n\n1 - Alcatruz\n\nDescrição: armadilha de abrigo constituída por um pote de barro de secção circular com o fundo perfurado. Quando agrupados, constituem uma teia, a qual é fundeada e formada por uma linha madre, à qual, a intervalos regulares, estão ligados os cabos que prendem os alcatruzes.\n\nCaracterísticas:\n\nAltura máxima dos potes - 40 cm;\n\nNúmero máximo de alcatruzes por embarcação - 300.\n\n2 - Amostra, corrico ou corripo\n\nDescrição: aparelho de anzol com amostra, que actua à superfície ou abaixo desta, podendo ou não ser rebocado por uma embarcação.\n\nCaracterística:\n\nAbertura mínima do anzol - 8 mm.\n\n3 - Branqueira\n\nDescrição: rede de emalhar de três panos (tresmalho) fixa-basculante.\n\nCaracterísticas:\n\nComprimento máximo da rede - 150 m;\n\nAltura máxima da rede - 1 m;\n\nMalhagem mínima do pano central (miúdo) - 65 mm.\n\n4 - Cana de pesca e linha de mão\n\nCaracterísticas:\n\nNúmero máximo de anzóis - 3;\n\nAbertura mínima do anzol - 8 mm.\n\n5 - Covo\n\nDescrição: armadilha, de forma variada, constituída por um suporte rígido coberto de rede e dispondo de uma ou mais aberturas.\n\nCaracterísticas:\n\nComprimento máximo da armadilha - 70 cm;\n\nMalhagem mínima da rede - 30 mm;\n\nNúmero máximo de covos por embarcação - 50.\n\n6 - Espinel, espinhel, trole ou palangre\n\nDescrição: aparelho de anzol fundeado, constituído por uma madre, à qual, de espaço a espaço, são amarrados os estrovos ou estralhos, na extremidade dos quais são empatados os anzóis.\n\nCaracterísticas:\n\nComprimento máximo da madre - 900 m;\n\nComprimento máximo dos estrovos - 1 m;\n\nNúmero máximo de anzóis em cada madre (por aparelho) - 250;\n\nAbertura mínima dos anzóis - 8 mm;\n\nNúmero máximo de aparelhos por embarcação - 4.\n\n7 - Solheira\n\nDescrição: rede de emalhar de três panos (tresmalho) fundeada.\n\nCaracterísticas:\n\nComprimento máximo da rede - 250 m;\n\nAltura máxima da rede - 1 m;\n\nMalhagem mínima do pano central (no miúdo) - 80 mm.\n\n8 - Toneira ou taloeira\n\nDescrição: peso de chumbo de forma fusiforme, tendo na extremidade superior um furo para amarrar a linha e na parte inferior uma coroa de anzóis.\n\n9 - Piteira\n\nDescrição: pequena haste de madeira, geralmente com a espessura de 1 cm e comprimento de 25 cm, tendo na extremidade inferior até um máximo de sete anzóis, com barbela, e que na extremidade superior está ligada a uma linha, destinando-se à captura de polvo.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1398/2007 - Diário da República n.º 206/2007, Série I de 2007-10-25](https://diariodarepublica.pt/dr/detalhe/portaria/1398-2007-629087), em vigor a partir de 2007-10-30.\n\n> Alterado pelo/a Anexo I do/a [Portaria n.º 514/96 - Diário da República n.º 224/1996, Série I-B de 1996-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/514-1996-214544), em vigor a partir de 1996-10-01."
+  },
+  "1155705575": {
+   "fragment_id": "1078841475",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": "2026-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+   ],
+   "markdown": "O Decreto Regulamentar n.º 43/87, de 17 de Julho, estabeleceu, entre outras normas reguladoras da actividade da pesca, a estrutura básica do seu exercício em águas interiores não oceânicas.\n\nAlgumas massas de água deste tipo constituem, porém, relevantes espaços sócio-económicos, onde a actividade da pesca se reveste de particularidades que aconselham a sua regulamentação autónoma, embora enquadrada na estrutura básica acima referida, de forma a assegurar a correcta gestão e conservação dos recursos ocorrentes em tão sensíveis ecossistemas.\n\nNa referida regulamentação são, pois, acolhidas as especificidades que caracterizam localmente a actividade, nomeadamente no que toca a métodos e artes de pesca, tendo, quanto a estas, sido utilizada a terminologia em uso na zona.\n\nAssim, ao abrigo do artigo 59.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção que lhe foi dada pelo artigo 1.º do Decreto Regulamentar n.º 3/89, de 28 de Janeiro:\n\nManda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+  },
+  "1155705775": {
+   "fragment_id": "1110062075",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": "2026-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+   ],
+   "markdown": "###### 1.º\n\nÉ aprovado o Regulamento da Pesca no Rio Sado, que, com os seus anexos, faz parte integrante da presente portaria.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+  },
+  "1155705875": {
+   "fragment_id": "1110062275",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": "2026-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+   ],
+   "markdown": "###### 2.º\n\nO Regulamento da Pesca no Rio Sado entra em vigor 60 dias após a publicação da presente portaria.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+  },
+  "1155705975": {
+   "fragment_id": "1078841675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2026-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+   ],
+   "markdown": "Ministério da Agricultura, Pescas e Alimentação.\n\nAssinada em 3 de Julho de 1990.\n\nPelo Ministro da Agricultura, Pescas e Alimentação, Jorge Manuel de Oliveira Godinho, Secretário de Estado das Pescas.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+  },
+  "1155706075": {
+   "fragment_id": "1078841875",
+   "type": 14,
+   "heading": "Anexo — Regulamento da Pesca no Rio Sado",
+   "in_force_from": "2026-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+   ],
+   "markdown": "## Anexo — Regulamento da Pesca no Rio Sado\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+  },
+  "1155706175": {
+   "fragment_id": "1078842075",
+   "type": 1,
+   "heading": "Capítulo I — Generalidades",
+   "in_force_from": "2026-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+   ],
+   "markdown": "### Capítulo I — Generalidades\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+  },
+  "1155706275": {
+   "fragment_id": "1078842275",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2026-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento tem por objecto estabelecer normas complementares reguladoras do exercício da pesca na bacia do rio Sado, ao abrigo do disposto no artigo 59.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção que lhe foi dada pelo artigo 1.º do Decreto Regulamentar n.º 3/89, de 28 de Janeiro.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+  },
+  "1155706375": {
+   "fragment_id": "1078842475",
+   "type": 11,
+   "heading": "Artigo 2.º — Zona de aplicação",
+   "in_force_from": "2026-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+   ],
+   "markdown": "###### Artigo 2.º — Zona de aplicação\n\nA zona de aplicação do presente Regulamento, abreviadamente designada por zona, compreende as águas interiores não oceânicas da bacia do rio Sado, bem como os respectivos leitos e margens pertencentes ao domínio público hídrico, sob jurisdição da Capitania do Porto de Setúbal.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+  },
+  "1155706475": {
+   "fragment_id": "1078842675",
+   "type": 11,
+   "heading": "Artigo 3.º — Classificação da pesca",
+   "in_force_from": "2026-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+   ],
+   "markdown": "###### Artigo 3.º — Classificação da pesca\n\nA pesca que pode ser exercida na zona classifica-se em:\n\na) Pesca comercial, quando as espécies capturadas se destinam a ser objecto de comércio, sob qualquer forma, quer no estado em que são extraídas da água, quer após subsequente preparação, modificação ou transformação;\n\nb) Pesca desportiva, quando praticada com fins lúdicos ou de desporto, não podendo o produto da pesca ser comercializado directa ou indirectamente.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+  },
+  "1155706575": {
+   "fragment_id": "1078842875",
+   "type": 1,
+   "heading": "Capítulo II — Pesca comercial",
+   "in_force_from": "2026-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+   ],
+   "markdown": "### Capítulo II — Pesca comercial\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+  },
+  "1155706675": {
+   "fragment_id": "1078843075",
+   "type": 8,
+   "heading": "Secção I — Artes de pesca",
+   "in_force_from": "2026-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+   ],
+   "markdown": "#### Secção I — Artes de pesca\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+  },
+  "1155706775": {
+   "fragment_id": "1078843275",
+   "type": 11,
+   "heading": "Artigo 4.º — Artes de pesca autorizadas",
+   "in_force_from": "2026-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07.",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1398/2007 - Diário da República n.º 206/2007, Série I de 2007-10-25](https://diariodarepublica.pt/dr/detalhe/portaria/1398-2007-629087), em vigor a partir de 2007-10-30."
+   ],
+   "markdown": "###### Artigo 4.º — Artes de pesca autorizadas\n\n1 - A pesca comercial na zona só pode ser exercida por meio de artes que estejam autorizadas e sejam licenciadas nos termos dos artigos 74.º e seguintes do Decreto Regulamentar n.º 43/87, de 17 de Julho.\n\n2 - Ao abrigo do disposto no n.º 4 do artigo 53.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, a pesca comercial na zona só pode ser exercida com as seguintes artes:\n\na) Aparelhos de anzol fundeados:\n\nEspinel, espinhel, trole ou palangre;\n\nb) Redes de tresmalho fundeadas:\n\nBranqueira;\n\nSolheira (para a captura de solha e linguado e choco);\n\nc) Toneira ou taloeira e piteira;\n\nd) Covos;\n\ne) Alcatruzes (para a captura de polvos);\n\nf) Amostra, corrico ou corripo;\n\ng) Cana de pesca e linha de mão.\n\n3 - A descrição e características das artes referidas no n.º 2 constam do anexo I.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1398/2007 - Diário da República n.º 206/2007, Série I de 2007-10-25](https://diariodarepublica.pt/dr/detalhe/portaria/1398-2007-629087), em vigor a partir de 2007-10-30."
+  },
+  "1155706875": {
+   "fragment_id": "1078843475",
+   "type": 8,
+   "heading": "Secção II — Exercício da pesca",
+   "in_force_from": "2026-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+   ],
+   "markdown": "#### Secção II — Exercício da pesca\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+  },
+  "1155706975": {
+   "fragment_id": "1078843675",
+   "type": 11,
+   "heading": "Artigo 5.º — Quem pode exercer a pesca",
+   "in_force_from": "2026-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+   ],
+   "markdown": "###### Artigo 5.º — Quem pode exercer a pesca\n\nA pesca comercial na zona, exercida com ou sem auxílio de embarcações, só é permitida a inscritos marítimos.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+  },
+  "1155707075": {
+   "fragment_id": "1078843875",
+   "type": 11,
+   "heading": "Artigo 6.º — Embarcações autorizadas",
+   "in_force_from": "2026-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+   ],
+   "markdown": "###### Artigo 6.º — Embarcações autorizadas\n\nA pesca comercial na zona fica limitada à utilização de embarcações de pesca local de comprimento de fora a fora não superior a 11 m e de potência de motor não superior a 65 cv ou 48 kW, independentemente do tipo de convés que apresentem.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+  },
+  "1155707175": {
+   "fragment_id": "1078844075",
+   "type": 11,
+   "heading": "Artigo 7.º — Condicionamentos ao exercício da pesca",
+   "in_force_from": "2026-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1398/2007 - Diário da República n.º 206/2007, Série I de 2007-10-25](https://diariodarepublica.pt/dr/detalhe/portaria/1398-2007-629087), em vigor a partir de 2007-10-30.",
+    "Retificado pelo/a [Declaração - Diário da República n.º 201/1990, 3º Suplemento, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-546242), com efeitos a partir de 1990-09-17."
+   ],
+   "markdown": "###### Artigo 7.º — Condicionamentos ao exercício da pesca\n\n1 - O exercício da pesca na zona está sujeito aos seguintes condicionamentos:\n\na) Não é permitido utilizar ou ter a bordo artes que não sejam autorizadas e não tenham sido licenciadas;\n\nb) Às embarcações referidas no artigo anterior não é permitido deter, transportar, depositar ou abandonar nas margens do rio artes de pesca que não estejam autorizadas e licenciadas;\n\nc) A partir de terra firme só podem ser utilizadas as seguintes artes: cana de pesca e linha de mão;\n\nd) Nenhuma arte pode ser calada de forma a prejudicar outra que já o esteja;\n\ne) Nenhuma arte de pesca pode ter qualquer dos seus extremos fixado a terra firme, ou ser fixada ou operada a partir de aqueduto, ponte, pontão, ou qualquer outro tipo de construção semelhante, nem a bóias ou balizas de sinalização marítima ou postaletes de tabuletas;\n\nf) Não é permitido bater nas águas («batuque»), «valar águas», «socar», lançar pedras, percutir ou usar sistemas semelhantes;\n\ng) Não se podem utilizar fontes luminosas (candeio) para chamariz de peixe;\n\nh) As redes de tresmalho não podem permanecer caladas por mais de 24 horas consecutivas em cada período de 36 horas;\n\ni) De acordo com a legislação comunitária, é proibida a pesca com armas de fogo, substâncias explosivas, venenosas ou tóxicas, corrente eléctrica ou outros processos susceptíveis de causar a morte ou o atordoamento dos espécimes;\n\nj) Não é permitido iscar nem engodar com ovas de peixe;\n\nl) Não é permitida a construção de pesqueiras e a colocação dentro de água de redes, aparelhos ou quaisquer outros dispositivos destinados a encaminhar os espécimes para espaços donde não possam sair, que os forcem a passar por um canal, esteiro ou vala ou que os impeçam de circular livremente, tais como ramagens, paliçadas ou outros obstáculos;\n\nm) Não é permitido o exercício da pesca em áreas consideradas como abrigos, desovadeiras, viveiros de criação, zonas de estabulação e zonas de reprodução, como tal classificadas e identificadas pela autoridade marítima, de acordo com os dados científicos disponíveis;\n\nn) Não é permitido o exercício da pesca em áreas cujo nível das águas possa pôr em perigo a conservação da fauna aquícola salvo em casos excepcionais autorizados pela Direcção-Geral das Pescas (DGP), sob parecer do Instituto Nacional de Investigação das Pescas (INIP) e ouvida a Capitania do Porto;\n\no) Não é permitida, porém, a utilização da piteira dentro da Reserva Natural do Estuário do Sado.\n\n2 - O exercício da pesca na zona está também sujeito, por razões de segurança, aos seguintes condicionamentos:\n\na) É proibida a pesca nos seguintes locais:\n\n1) Na barra do porto de Setúbal, definida a norte pelo enfiamento da baliza n.º 2 com o farol do Outão e desde a referida baliza até ao quadro comercial e militar e definida a sul pela bóia n.º 1 e pela bóia de João Farto e desde a bóia n.º 1 atá ao quadro comercial e militar;\n\n2) No quadro comercial e militar como tal definido na carta de navegação emitida pelo Instituto Hidrográfico;\n\n3) No canal sul ou canal da SETENAVE, definido pelas bóias de assinalamento marítimo existentes;\n\n4) No canal norte, definido a norte pela bóia da Parvoiça e pelo extremo oeste do cais da SAPEC e a sul por uma linha paralela à do limite norte e dela distanciada 300 m;\n\n5) No corredor do tráfego marítimo das carreiras dos transportes fluviais, constituído por um canal com 300 m de largura, sendo o respectivo eixo a linha que une o cais da ponta do Adoxe com o centro da abertura da doca de comércio;\n\n6) Na aproximação dos cais da SETENAVE, EUROMINAS e BOLINDEN, definida a sul pelo canal sul, a leste pelo alinhamento da bóia n.º 9 com o extremo leste do cais da EUROMINAS e a oeste pela linha definida pela bóia n.º 16 e pelo extremo oeste do cais do BOLINDEN;\n\n7) Nas docas e respectivos acessos e a menos de 300 m dos cais acostáveis;\n\n8) Em zonas balneares, durante a respectiva época, a menos de 200 m da linha da praia.\n\n3 - Em caso de avaria, sinistro ou qualquer outra razão de força maior que impeça o cumprimento do disposto na alínea h) do n.º 1, bem como no caso de abandono de artes na água, deverá, desses factos, ser dado conhecimento imediato à Capitania do Porto.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1398/2007 - Diário da República n.º 206/2007, Série I de 2007-10-25](https://diariodarepublica.pt/dr/detalhe/portaria/1398-2007-629087), em vigor a partir de 2007-10-30.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 201/1990, 3º Suplemento, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-546242), com efeitos a partir de 1990-09-17."
+  },
+  "1155707275": {
+   "fragment_id": "1078844275",
+   "type": 11,
+   "heading": "Artigo 8.º — Períodos de defeso",
+   "in_force_from": "2026-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+   ],
+   "markdown": "###### Artigo 8.º — Períodos de defeso\n\n1 - Os períodos de defeso para cada uma das espécies são fixados anualmente por despacho do Ministro da Agricultura, Pescas e Alimentação, mediante proposta da DGP, sob parecer do INIP e ouvida a Capitania do Porto de Setúbal.\n\n2 - Dentro das épocas háveis de pesca pode, por despacho do Ministro da Agricultura, Pescas e Alimentação, ser restringida a utilização de determinadas artes, tendo em conta a necessidade de conservação e gestão dos recursos ocorrentes.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+  },
+  "1155707475": {
+   "fragment_id": "1078844675",
+   "type": 11,
+   "heading": "Artigo 10.º — Dados e informações",
+   "in_force_from": "2026-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+   ],
+   "markdown": "###### Artigo 10.º — Dados e informações\n\nOs mestres e arrais das embarcações que exerçam a actividade na zona são obrigados a fornecer os dados e informações determinados pela legislação em vigor e dar cumprimento ao preenchimento dos registos de actividade que a referida legislação imponha.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+  },
+  "1155707575": {
+   "fragment_id": "1078844875",
+   "type": 8,
+   "heading": "Secção III — Sinalização e identificação das artes",
+   "in_force_from": "2026-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+   ],
+   "markdown": "#### Secção III — Sinalização e identificação das artes\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+  },
+  "1155707675": {
+   "fragment_id": "1078845075",
+   "type": 11,
+   "heading": "Artigo 11.º — Sinalização das artes",
+   "in_force_from": "2026-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+   ],
+   "markdown": "###### Artigo 11.º — Sinalização das artes\n\nAs artes de pesca fundeadas devem ser sinalizadas nos termos do disposto no Decreto Regulamentar n.º 43/87, de 17 de Julho.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+  },
+  "1155707775": {
+   "fragment_id": "1078845275",
+   "type": 11,
+   "heading": "Artigo 12.º — Identificação das artes",
+   "in_force_from": "2026-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+   ],
+   "markdown": "###### Artigo 12.º — Identificação das artes\n\nPara fins de identificação, as artes de pesca de uma embarcação devem ser marcadas, nomeadamente nas bóias de sinalização, com o conjunto de identificação da embarcação a que pertencem ou com o número de registo do inscrito marítimo, proprietário, até à data da entrada em vigor do presente Regulamento.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+  },
+  "1155707875": {
+   "fragment_id": "1078845475",
+   "type": 1,
+   "heading": "Capítulo III — Pesca desportiva",
+   "in_force_from": "2026-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+   ],
+   "markdown": "### Capítulo III — Pesca desportiva\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+  },
+  "1155707975": {
+   "fragment_id": "1078845675",
+   "type": 11,
+   "heading": "Artigo 13.º — Exercício da pesca",
+   "in_force_from": "2026-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+   ],
+   "markdown": "###### Artigo 13.º — Exercício da pesca\n\n1 - A pesca desportiva na zona apenas pode ser exercida a partir de terra firme ou de embarcações de recreio e na modalidade referida na alínea a) do artigo 1.º do Decreto n.º 45116, de 6 de Julho de 1963 (pesca de superfície), com cana de pesca ou linha de mão, não podendo cada desportista utilizar mais de duas canas ou linhas.\n\n2 - As embarcações de pesca desportiva não devem impedir as embarcações de pesca local de exercerem a sua actividade, nomeadamente quando do lançamento dos seus aparelhos ou redes.\n\n3 - Do pôr ao nascer do Sol a pesca desportiva não pode exercer-se de bordo de embarcações.\n\n4 - A pesca desportiva deverá obedecer às disposições do presente Regulamento que lhe sejam aplicáveis, nomeadamente quanto ao número e abertura dos anzóis (anexo I) e aos tamanhos mínimos das espécies capturadas (anexo II).\n\n5 - A Capitania do Porto poderá autorizar concursos de pesca desportiva na zona, desde que verificadas as necessárias condições de segurança, salubridade e protecção dos recursos vivos.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+  },
+  "1155708075": {
+   "fragment_id": "1078845875",
+   "type": 11,
+   "heading": "Artigo 14.º — Caça submarina",
+   "in_force_from": "2026-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+   ],
+   "markdown": "###### Artigo 14.º — Caça submarina\n\nNa zona de aplicação do presente Regulamento não é permitido praticar a modalidade de pesca desportiva referida na alínea b) do artigo 1.º do Decreto n.º 45116, de 6 de Julho de 1963 (caça submarina).\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+  },
+  "1155708175": {
+   "fragment_id": "1078846075",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": "2026-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+   ],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+  },
+  "1155708275": {
+   "fragment_id": "1078853675",
+   "type": 11,
+   "heading": "Artigo 15.º — Regime contra-ordenacional",
+   "in_force_from": "2026-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+   ],
+   "markdown": "###### Artigo 15.º — Regime contra-ordenacional\n\nÀs infracções ao disposto no presente Regulamento são aplicáveis as disposições pertinentes das secções I e III do capítulo V do Decreto-Lei n.º 278/87, de 7 de Julho, com as derrogações introduzidas pelo artigo 33.º do Decreto-Lei n.º 421/88, de 12 de Novembro, bem como as contra-ordenações previstas no artigo 82.º do Decreto Regulamentar n.º 43/87, de 17 de Julho.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+  },
+  "1155708375": {
+   "fragment_id": "1078853875",
+   "type": 11,
+   "heading": "Artigo 16.º — Outra legislação aplicável",
+   "in_force_from": "2026-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+   ],
+   "markdown": "###### Artigo 16.º — Outra legislação aplicável\n\nSem prejuízo do disposto no presente Regulamento, o exercício da pesca na zona está sujeito às disposições aplicáveis do Decreto-Lei n.º 278/87, de 7 de Julho, e do Decreto Regulamentar n.º 43/87 de 17 de Julho, e, no que respeita à pesca desportiva, às do Decreto n.º 45116, de 6 de Julho de 1963.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07."
+  },
+  "1155708475": {
+   "fragment_id": "1078854075",
+   "type": 14,
+   "heading": "Anexo I — Descrição e características das artes autorizadas",
+   "in_force_from": "2026-08-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07.",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1398/2007 - Diário da República n.º 206/2007, Série I de 2007-10-25](https://diariodarepublica.pt/dr/detalhe/portaria/1398-2007-629087), em vigor a partir de 2007-10-30.",
+    "Alterado pelo/a Anexo I do/a [Portaria n.º 514/96 - Diário da República n.º 224/1996, Série I-B de 1996-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/514-1996-214544), em vigor a partir de 1996-10-01."
+   ],
+   "markdown": "## Anexo I — Descrição e características das artes autorizadas\n\n(a que se refere o n.º 3 do artigo 4.º)\n\n1 - Alcatruz\n\nDescrição: armadilha de abrigo constituída por um pote de barro de secção circular com o fundo perfurado. Quando agrupados, constituem uma teia, a qual é fundeada e formada por uma linha madre, à qual, a intervalos regulares, estão ligados os cabos que prendem os alcatruzes.\n\nCaracterísticas:\n\nAltura máxima dos potes - 40 cm;\n\nNúmero máximo de alcatruzes por embarcação - 300.\n\n2 - Amostra, corrico ou corripo\n\nDescrição: aparelho de anzol com amostra, que actua à superfície ou abaixo desta, podendo ou não ser rebocado por uma embarcação.\n\nCaracterística:\n\nAbertura mínima do anzol - 8 mm.\n\n3 - Branqueira\n\nDescrição: rede de emalhar de três panos (tresmalho) fixa-basculante.\n\nCaracterísticas:\n\nComprimento máximo da rede - 150 m;\n\nAltura máxima da rede - 1 m;\n\nMalhagem mínima do pano central (miúdo) - 65 mm.\n\n4 - Cana de pesca e linha de mão\n\nCaracterísticas:\n\nNúmero máximo de anzóis - 3;\n\nAbertura mínima do anzol - 8 mm.\n\n5 - Covo\n\nDescrição: armadilha, de forma variada, constituída por um suporte rígido coberto de rede e dispondo de uma ou mais aberturas.\n\nCaracterísticas:\n\nComprimento máximo da armadilha - 70 cm;\n\nMalhagem mínima da rede - 30 mm;\n\nNúmero máximo de covos por embarcação - 50.\n\n6 - Espinel, espinhel, trole ou palangre\n\nDescrição: aparelho de anzol fundeado, constituído por uma madre, à qual, de espaço a espaço, são amarrados os estrovos ou estralhos, na extremidade dos quais são empatados os anzóis.\n\nCaracterísticas:\n\nComprimento máximo da madre - 900 m;\n\nComprimento máximo dos estrovos - 1 m;\n\nNúmero máximo de anzóis em cada madre (por aparelho) - 250;\n\nAbertura mínima dos anzóis - 8 mm;\n\nNúmero máximo de aparelhos por embarcação - 4.\n\n7 - Solheira\n\nDescrição: rede de emalhar de três panos (tresmalho) fundeada.\n\nCaracterísticas:\n\nComprimento máximo da rede - 250 m;\n\nAltura máxima da rede - 1 m;\n\nMalhagem mínima do pano central (no miúdo) - 80 mm.\n\n8 - Toneira ou taloeira\n\nDescrição: peso de chumbo de forma fusiforme, tendo na extremidade superior um furo para amarrar a linha e na parte inferior uma coroa de anzóis.\n\n9 - Piteira\n\nDescrição: pequena haste de madeira, geralmente com a espessura de 1 cm e comprimento de 25 cm, tendo na extremidade inferior até um máximo de sete anzóis, com barbela, e que na extremidade superior está ligada a uma linha, destinando-se à captura de polvo.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 329/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/329-2026-1154555262), em vigor a partir de 2026-08-07.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1398/2007 - Diário da República n.º 206/2007, Série I de 2007-10-25](https://diariodarepublica.pt/dr/detalhe/portaria/1398-2007-629087), em vigor a partir de 2007-10-30.\n\n> Alterado pelo/a Anexo I do/a [Portaria n.º 514/96 - Diário da República n.º 224/1996, Série I-B de 1996-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/514-1996-214544), em vigor a partir de 1996-10-01."
+  }
+ }
+}

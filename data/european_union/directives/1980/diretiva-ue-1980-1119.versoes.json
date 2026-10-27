@@ -1,0 +1,169 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31980L1119:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01980L1119-20070101",
+ "dre_path": null,
+ "source_lastmod": "2007-01-01",
+ "versions": [
+  {
+   "date": "1980-12-15",
+   "future": false,
+   "celex": "31980L1119",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a513be2dd80704dd",
+    "ba2f922078ca6137",
+    "c56906e29bd6b1e2",
+    "6e0942d712ff05da",
+    "f5f5c125d2afa6d3",
+    "1605b68554888873",
+    "507a243a5f29d276",
+    "aecd937397bdb209",
+    "fb04591db49c3cc7",
+    "4e6bba042c181905",
+    "e7ae667ae429206f",
+    "1a7297ee63d1d4ca",
+    "05dfa11a7a60a1ae"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01980L1119-20070101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º.",
+    "Suprime Artigo 2º.",
+    "Suprime Artigo 3º.",
+    "Suprime Artigo 4º.",
+    "Suprime Artigo 5º.",
+    "Suprime Artigo 6º.",
+    "Suprime Artigo 7º.",
+    "Suprime Artigo 8º.",
+    "Suprime ANEXO I LISTA DOS GRUPOS DE MERCADORIAS — >PIC FILE= \"T0014776\">",
+    "Suprime ANEXO II NOMENCLATURA GEOGRÁFICA DAS REGIÕES — Bélgica",
+    "Suprime ANEXO III LISTA DOS PAÍSES E DOS GRUPOS DE PAÍSES — I. Países das Comunidades Europeias 01. Bélgica",
+    "Suprime ANEXO IV MODELOS DE QUADROS — QUADRO 1A"
+   ],
+   "fragments": [
+    "29b07c94f1e88b82"
+   ]
+  }
+ ],
+ "fragments": {
+  "a513be2dd80704dd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 80/1119/CEE do Conselho, de 17 de Novembro de 1980, relativa ao registo estatístico dos transportes de mercadorias por vias navegáveis interiores** *Jornal Oficial nº L 339 de 15/12/1980 p. 0030 - 0053 Edição especial finlandesa: Capítulo 7 Fascículo 2 p. 0127 Edição especial grega: Capítulo 16 Fascículo 2 p. 0003 Edição especial sueca: Capítulo 7 Fascículo 2 p. 0127 Edição especial espanhola: Capítulo 07 Fascículo 2 p. 0213 Edição especial portuguesa: Capítulo 07 Fascículo 2 p. 0213*\n\nDIRECTIVA DO CONSELHO de 17 de Novembro de 1980 relativa ao registo estatístico dos transportes de mercadorias por vias navegáveis interiores (80/1119/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, ou seu artigo 213º.,\n\nTendo em conta o projecto de directiva submetido pela Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que, par realizar as tarefas que lhe incumben em aplicação do Tratado, a Comissão deve dispor de uma forma continua de dados estatísticos coerentes e sincronizados sobre a amplitude e a evolução do transporte de mercadorias por vias navegáveis nos Estados-membros; que estes dados devem ser comparáveis de Estado a Estado e, sê-lo igualmente para os dados relativos aos outros modos de transporte, e que devem considerar o tráfego nacional, internacional e em trânsito;\n\nConsiderando que, as variações ao longo do ano, da procura de transportes e das condições de navegabilidade, influem sobre o tráfego de mercadorias e que, certos dados estatísticos devem por isso ser fornecidos em intervalos inferiores a um ano;\n\nConsiderando que, para se obter informações satisfatórias sobre o mercado dos transportes de mercadorias por vias navegáveis, é conveniente discriminar os dados estatísticos segundo as principais relações de tráfego;\n\nConsiderando que é importante prosseguir a harmonização, ao nível da Comunidade, dos dados estatísticos já disponíveis nos diversos Estados-membros no que respeita aos transportes de mercadorias;\n\nConsiderando que, para facilitar a execução das disposições propostas, é conveniente prever certos prazos para que a documentação estatística necessária se encontre disponível;\n\nConsiderando que a Comissão deve apresentar um relatório ao Conselho a fim de permitir a este examinar em que medida os objectivos da presente directiva podem ser atingidos com a ajuda dos dados estatísticos comunicados; que ela deve, por consequência, prever a possibilidade de propor melhorias nos métodos utilizados para o estabelecimento destas estatísticas; que o Conselho deve decidir, sob proposta da Comissão, o estabelecimento de estatísticas relativas aos transportes de mercadorias efectuados por embarcações marítimas, assim como as estatísticas respeitantes ao tráfego internacional entre regiões, por vias navegáveis interiores;\n\nConsiderando que os dados estatísticos são necessários para conhecer a amplitude e a evolução dos transportes de mercadorias; que é conveniente, por conseguinte, que a Comunidade conceda aos Estados-membros, durante um período inicial, uma contribuição financeira para a realização dos trabalhos sobre a matéria,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "ba2f922078ca6137": {
+   "fragment_id": "Artigo 1º.",
+   "type": "artigo",
+   "heading": "Artigo 1º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º.\n\n1. Os Estados-membros com uma ou várias vias navegáveis interiores procederão a inquéritos estatísticos sobre os transportes efectuados por embarcações de navegação interior, qualquer que seja o país de registo ou de matrícula: - das mercadorias transportadas tanto por conta própria como por conta de outrem;\n\n- das mercadorias carregadas ou descarregadas no país ou transitando simplesmente pelo país através das vias navegáveis nacionais.\n\n2. Na acepção da presente directiva, entende-se por: a) Via navegável interior: Todo o curso de água, canal ou lago que, pelas suas características naturais ou pela intervenção do homem, seja adequado à navegação, principalmente por embarcações de navegação interior;\n\nb) Embarcação de navegação interior: toda a embarcação com motor próprio ou não, que esteja registada ou matriculada como embarcação de navegação interior, incluindo as barcaças de navio, e que pela sua concepção ou construção apenas seja adaptada aí navegação em águas protegidas. (1)JO nº. 85 de 8.4.1980, p. 76. (2)Parecer dado em 30 de Setembro de 1980 (ainda não publicado no Jornal Oficial).\n\n3. A presente directiva não se aplica: - aos transportes de mercadorias efectuados por embarcações de menos de 50 toneladas de porte;\n\n- às embarcações que asseguram principalmente o transporte de passageiros;\n\n- aos barcos de passagem;\n\n- às embarcações utilizadas unicamente para fins não comerciais, pelas administrações portuárias ou pelas autoridades públicas;\n\n- às embarcações utilizadas unicamente para o abastecimento de combustíveis ou para armazenamento;\n\n- às embarcações não destinadas aos transportes de mercadorias tais como as embarcações de pesca, dragas, embarcações oficinas, barcos de habitação e barcos de recreio.\n\n4. Os primeiros inquéritos estatísticos serão efectuados a partir de 1 de Janeiro de 1981."
+  },
+  "c56906e29bd6b1e2": {
+   "fragment_id": "Artigo 2º.",
+   "type": "artigo",
+   "heading": "Artigo 2º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º.\n\n1. Sarão registadas as seguintes características: a) O peso das mercadorias, expresso em toneladas;\n\nb) As principais relações de tráfego, nomeadamente: - o tráfego nacional, em que tanto o local de carga como o local de descarga estão situados no Estado-membro declarante, qualquer que seja o itinerário seguido pela embarcação;\n\n- o tráfego internacional, em que o local de carga ou o local de descarga, mas não os dois, está situado no Estado-membro declarante, com discriminação entre mercadorias carregadas e mercadorias descarregadas;\n\n- o tráfego de trânsito, em que as mercadorias passam pelo Estado-membro declarante, sem ai serem carregadas, descarregadas ou transbordadas;\n\nNo que respeita às barcaças de navio, as mercadorias são consideradas como carregadas no lugar em que a barcaça for posta a flutuar ou desembarcada do navio de transporte, e como descarregadas, no lugar em que a barcaça for rebocada ou içada para bordo do navio de transporte;\n\nc) A natureza da mercadoria, segundo os grupos previstos na primeira coluna da lista que figura no Anexo I;\n\nd) A nacionalidade, ou seja o país no qual a embarcação de transporte de mercadorias está registada ou matriculade ou, na falta disso, o país no qual o proprietário da embarcação está domiciliado;\n\ne) O tipo de embarcação, segundo a nomenclatura seguinte: - Automotor: - automotor-tanque;\n\n- outros automotores;\n\n- Batelão (de rebocar): - batelão-tanque;\n\n- outros batelões (de rebocar);\n\n- Barcaça (de empurrar), (incluindo a barcaça-batelão): - barcaça-tanque;\n\n- outras barcaças (incluindo barcaças de navio);\n\n- Outras embarcações de transporte de mercadorias;\n\no termo «navio tanque» designa qualquer embarcação destinada ao transporte a granel de mercadorias líquidas ou liquefeitas, com exclusão de pulverulentos;\n\nf) Par o tráfego nacional, as regiões nacionais de carga e de descarga, segundo a nomenclatura geográfica que figura no Anexo II,\n\ng) Para o tráfego internacional e em trânsito, os países de carga e de descarga, segundo a lista que figura no Anexo III;\n\nh) A distância percorrida por vias navegáveis nacionais, expressa em quilómetros.\n\n2. Os Estados-membros, cujo conjunto de mercadorias transportadas anualmente por vias navegáveis interiores em tráfego internacional ou de trânsito não exceda um milhão de toneladas, não são obrigados a fornecer os dados requeridos pela presente directiva."
+  },
+  "6e0942d712ff05da": {
+   "fragment_id": "Artigo 3º.",
+   "type": "artigo",
+   "heading": "Artigo 3º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º.\n\n1. Com excepção das informações sujeitas ao segredo estatístico em aplicação das legislações nacionais, os Estados-membros comunicarão os resultados estatísticos à Comissão, logo que possível, e o mais tardar cinco meses após o período de referência respectivo.\n\n2. Os resultados serão comunicados por meio de quadros conformes aos modelos que figuram no Anexo IV.\n\n3. Os resultados tratados por computador podem ser comunicados através de um suporte de leitura cuja natureza e formato serão determinados pela Comissão após consulta dos respectivos Estados-membros."
+  },
+  "f5f5c125d2afa6d3": {
+   "fragment_id": "Artigo 4º.",
+   "type": "artigo",
+   "heading": "Artigo 4º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º.\n\n1. Os Estados-membros transmitirão à Comissão, o mais tardar em 31 de Dezembro de 1980, uma descrição pormenorizada dos métodos que pretendem utilizar para os inquéritos estatísticos, no que respeita ao tratamento dos dados e ao cálculo das toneladas quilómetros.\n\n2. A Comissão examinará, em colaboração com os Estados-membros, os problemas de ordem metodológica e técnica postos pelos inquéritos estatísticos, a fim de encontrar soluções que permitam tornar os dados tão coerentes e comparáveis quanto possível."
+  },
+  "1605b68554888873": {
+   "fragment_id": "Artigo 5º.",
+   "type": "artigo",
+   "heading": "Artigo 5º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º.\n\n1. A Comissão publicará os resultados apropriados dos inquéritos estatísticos.\n\n2. Antes de 1 de Janeiro de 1983, a Comissão apresentará à Conselho um relatório sobre a experiência adquirida no quadro dos trabalhos efectuados em aplicação da presente directiva e proporá as melhorias que se verificarem necessárias.\n\n3. Nos dois anos seguintes à entrada em vigor da presente directiva, o Conselho decidirá, sob proposta da Comissão, o estabelecimento de estatísticas sobre os transportes de mercadorias efectuados por embarcações marítimas, assim como de estatísticas respeitantes ao tráfego internacional entre regiões, por vias navegáveis interiores."
+  },
+  "507a243a5f29d276": {
+   "fragment_id": "Artigo 6º.",
+   "type": "artigo",
+   "heading": "Artigo 6º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º.\n\nDurante os três primeiros anos de entrada em funcionamento dos registos estatísticos previstos na presente directiva, será concedida uma contribuição financeira para as despesas suportadas pelos Estados-membros, dentro dos limites de crédito abertos para este fim no orçamento das Comunidades Europeias."
+  },
+  "aecd937397bdb209": {
+   "fragment_id": "Artigo 7º.",
+   "type": "artigo",
+   "heading": "Artigo 7º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º.\n\nOs Estados-membros tomarão as medidas necessárias para darem cumprimento à presente directiva o mias tardar em 1 de Janeiro do 1981."
+  },
+  "fb04591db49c3cc7": {
+   "fragment_id": "Artigo 8º.",
+   "type": "artigo",
+   "heading": "Artigo 8º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º.\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 17 de Novembre de 1980.\n\nPelo Conselho\n\nO presidente\n\nJ. SANTER"
+  },
+  "4e6bba042c181905": {
+   "fragment_id": "ANEXO I LISTA DOS GRUPOS DE MERCADORIAS — >PIC FILE= \"T0014776\">",
+   "type": "divisao",
+   "heading": "ANEXO I LISTA DOS GRUPOS DE MERCADORIAS — >PIC FILE= \"T0014776\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I LISTA DOS GRUPOS DE MERCADORIAS — >PIC FILE= \"T0014776\">"
+  },
+  "e7ae667ae429206f": {
+   "fragment_id": "ANEXO II NOMENCLATURA GEOGRÁFICA DAS REGIÕES — Bélgica",
+   "type": "divisao",
+   "heading": "ANEXO II NOMENCLATURA GEOGRÁFICA DAS REGIÕES — Bélgica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II NOMENCLATURA GEOGRÁFICA DAS REGIÕES — Bélgica\n\nVlaams gewest, excepto Antwerpen\n\nAntwerpen\n\nRégion wallonne\n\nRégion bruxelloise/Brusselse gewest\n\nRepública Federal da Alemanha\n\nSchleswig-Holstein\n\nHamburg\n\nNordostteil von Niedersachsen\n\nWestteil von Niedersachsen\n\nSüdostteil von Niedersachsen\n\nBremen (Land)\n\nNordteil von Nordrhein-Westfalen\n\nRuhrgebiet\n\nSüdwestteil von Nordrhein-Westfalen\n\nOstteil von Nordrhein-Westfalen (Sieger-Sauerland und\n\nOstteil von Westfalen)\n\nNordteil von Hessen\n\nSüdteil von Hessen\n\nNordteil von Rheinland-Pfalz\n\nSüdteil von Rheinland-Pfalz\n\nNordbaden\n\nSüdbaden\n\nWürttemberg\n\nNordbayern (Franken)\n\nOstbayern (Oberpfalz und Niederbayern)\n\nSüdbayern (Schwaben und Oberbayern)\n\nSaarland\n\nBerlin (West)\n\nFrança\n\nÎle-de-France\n\nChampagne-Ardennes\n\nPicardie\n\nHaute-Normandie\n\nCentre\n\nBasse-Normandie\n\nBourgogne\n\nNord-Pas-de-Calais\n\nLorraine\n\nAlsace\n\nFranche-Comté\n\nPays de la Loire\n\nBretagne\n\nPoitou-Charentes\n\nAquitaine\n\nMidi-Pyrénées\n\nLimousin\n\nRhône-Alpes\n\nAuvergne\n\nLanguedoc-Roussillon\n\nProvence-Alpes-Côte d'Azur\n\nItália\n\nPiemonte\n\nValle d'Aosta\n\nLiguria\n\nLombardia\n\nTrentino-Alto Adige\n\nVeneto\n\nFriuli-Venezia Giulia\n\nEmilia-Romagna\n\nToscana\n\nUmbria\n\nMarche\n\nLazio\n\nCampania\n\nAbruzzo\n\nMolise\n\nPuglia\n\nBasilicata\n\nCalabria\n\nSicilia\n\nSardegna\n\nLuxemburgo\n\nLuxembourg\n\nPaíses Baixos\n\nNoord\n\nWest, excepto Rijnmond et IJmond\n\nRijnmond\n\nIJmond\n\nZuidwest\n\nZuid\n\nOost\n\nReino Unido\n\nNorth\n\nYorkshire and Humberside\n\nEast Midlands\n\nEast Anglia\n\nSouth East\n\nSouth West\n\nWest Midlands\n\nNorth West\n\nWales\n\nScotland\n\nNorthern Ireland"
+  },
+  "1a7297ee63d1d4ca": {
+   "fragment_id": "ANEXO III LISTA DOS PAÍSES E DOS GRUPOS DE PAÍSES — I. Países das Comunidades Europeias 01. Bélgica",
+   "type": "divisao",
+   "heading": "ANEXO III LISTA DOS PAÍSES E DOS GRUPOS DE PAÍSES — I. Países das Comunidades Europeias 01. Bélgica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III LISTA DOS PAÍSES E DOS GRUPOS DE PAÍSES — I. Países das Comunidades Europeias 01. Bélgica\n\n02. Dinamarca\n\n03. República Federal da Alemanha\n\n04. Grécia\n\n05. França\n\n06. Irlanda\n\n07. Itália\n\n08. Luxemburgo\n\n09. Países Baixos\n\n10. Reino Unido\n\nII. 11. Suíça\n\nIII. 12. Áustria\n\nIV. Países de comércio de Estado 13. União Soviética\n\n14. Polónia\n\n15. República Democrática Alemã\n\n16. Checoslováquia\n\n17. Hungria\n\n18. Roménia\n\n19. Bulgária\n\n20. Jugoslávia\n\nV. 21. Outros países europeus\n\nVI. 22. Estados Unidos da América\n\nVII. 23. Outros países"
+  },
+  "05dfa11a7a60a1ae": {
+   "fragment_id": "ANEXO IV MODELOS DE QUADROS — QUADRO 1A",
+   "type": "divisao",
+   "heading": "ANEXO IV MODELOS DE QUADROS — QUADRO 1A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV MODELOS DE QUADROS — QUADRO 1A\n\n>PIC FILE= \"T0014778\"> QUADRO 1B\n\n>PIC FILE= \"T0014779\"> QUADRO 2\n\n>PIC FILE= \"T0014780\"> QUADRO 3\n\n>PIC FILE= \"T0014781\"> QUADRO 4A\n\n>PIC FILE= \"T0014782\"> QUADRO 4B\n\n>PIC FILE= \"T0014783\"> QUADRO 5A\n\n>PIC FILE= \"T0014784\"> QUADRO 5B\n\n>PIC FILE= \"T0014785\"> QUADRO 6A\n\n>PIC FILE= \"T0014786\"> QUADRO 6B\n\n>PIC FILE= \"T0014787\"> QUADRO 7A\n\n>PIC FILE= \"T0014788\"> QUADRO 7B\n\n>PIC FILE= \"T0014789\"> QUADRO 8A\n\n>PIC FILE= \"T0014790\"> QUADRO 8B\n\n>PIC FILE= \"T0014791\"> QUADRO 9\n\n>PIC FILE= \"T0014792\"> QUADRO 10A\n\n>PIC FILE= \"T0014793\"> QUADRO 10B\n\n>PIC FILE= \"T0014794\"> QUADRO 11\n\n>PIC FILE= \"T0014795\">"
+  },
+  "29b07c94f1e88b82": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1980L1119 — PT — 01.01.2007 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31980L1119) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31980L1119) [de 17 de Novembro de 1980](http://publications.europa.eu/resource/celex/31980L1119) [relativa ao registo estatístico dos transportes de mercadorias por vias navegáveis interiores](http://publications.europa.eu/resource/celex/31980L1119) [(80/1119/CEE)](http://publications.europa.eu/resource/celex/31980L1119) (JO L 339, 15.12.1980, p.30)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1365/2006 do Parlamento Europeu e do Conselho de 6 de Setembro de 2006](http://publications.europa.eu/resource/celex/32006R1365) — L 264 — 1 — 25.9.2006"
+  }
+ }
+}

@@ -1,0 +1,221 @@
+---
+schema_version: '1.0'
+id: pt:dre:277307:por
+title: Decreto Regulamentar Regional n.º 27/77/A
+short_title: null
+summary: Estabelece as regras gerais respeitantes a provimentos, quadros e carreiras do pessoal dos departamentos do Governo
+  Regional dos Açores
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Governo Regional - Secretaria Regional da Administração Pública
+proposing_entity: null
+official_number: 27/77/A
+official_date: null
+publication_date: '1977-10-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 248/1977, Série I de 1977-10-26
+  number: '248'
+  series: I
+  supplement: null
+  pages: 2598 - 2600
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/10/24800/25982600.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '277307'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/27-1977-277307
+  internal: pt:dre:277307:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1977-277307
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1977-277307
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:24:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2f50441988bfca57c0f50ee66785f9e46eddc48e8eda580ceb9ed7363cd714cd
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:40Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Administração Pública
+- Administração Regional
+- Carreira Profissional
+- Formas de Provimento
+- Governo Regional
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:388990:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:298189:por
+  label: "Alterado o art. 7º pelo DRR.12/78/A.1978.06.07.GR-RAA, DR.IS [150] de 3/Jul/1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-1978-298189
+  date: '1978-06-07'
+- type: amended_by
+  target: pt:dre:393659:por
+  label: "Alterado o artº 3º pelo DRR.5/79/A.1979.02.12.GR-RAA, DR.IS [47] de 1979/FEV/24\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-1979-393659
+  date: '1979-02-12'
+- type: amended_by
+  target: pt:dre:369824:por
+  label: "Alterados os arts. 1.º, 2.º, 3.º e 6.º, pelo DRR.19/79/A.1979.09.06.GR-RAA DR.IS [217] DE 19/SET/1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-1979-369824
+  date: '1979-09-06'
+- type: amended_by
+  target: pt:dre:364731:por
+  label: "Alterado o art. 2.º, na redacção do DRR 19/79/A, de 06-Set, pelo DRR.23/79/A.1979.10.08.GR-RAA DR.IS [244] DE 22/OUT/1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-1979-364731
+  date: '1979-10-08'
+- type: cites
+  target: pt:dre:419642:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:388990:por
+  label: "Revogado pelo DRR.25/81/A.1981.03.31.GR-RAA, DR.IS [88] de 15/Abr/1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-1981-388990
+  date: '1981-03-31'
+article_structure:
+  article_count: 0
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:24:40Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 27/77/A
+
+As dificuldades que, pela inexistência de serviços de pessoal devidamente estruturados, se notam na gestão dos recursos humanos ao serviço da Administração Pública na Região Autónoma dos Açores exigem uma imediata tomada de medidas visando a uniformização de procedimentos e a adopção de critérios comuns, a fim de se evitarem distorções sempre difíceis de corrigir no futuro e criadoras de mal-estar social.
+
+Neste sentido, importa reunir num único diploma as regras gerais respeitantes a provimentos, quadros e carreiras disseminados por legislação dispersa, até que a já anunciada lei de bases permita a estruturação da função pública em novos moldes.
+
+Por outro lado, há necessidade de encontrar a melhor solução para os agentes administrativos das extintas juntas gerais, promovendo a sua integração nos quadros das secretarias regionais.
+
+Assim:
+
+O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea b), da Constituição, o seguinte:
+
+### CAPÍTULO I — Princípios gerais
+
+Artigo 1.º - 1 - O pessoal dos departamentos do Governo Regional será agrupado de acordo com a seguinte classificação:
+
+a) Pessoal dirigente;
+
+b) Pessoal técnico;
+
+c) Pessoal administrativo;
+
+d) Pessoal auxiliar.
+
+2 - O pessoal dos departamentos regionais constará de quadros anexos aos respectivos diplomas orgânicos.
+
+3 - Os quadros a que alude o número anterior poderão ser alterados por decreto regulamentar regional.
+
+Art. 2.º As condições de ingresso, acesso e carreira profissional do pessoal dos quadros dos departamentos regionais serão, para as respectivas categorias, as que vierem a ser estabelecidas nas bases gerais da função pública e na legislação que as regulamentar e, até lá, regular-se-ão pelo artigo seguinte.
+
+Art. 3.º - 1 - O provimento do pessoal compete ao Secretário Regional e, sem prejuízo do disposto no artigo 19.º do Decreto Regional n.º 3/76, de 31 de Dezembro, será feito por nomeação ou contrato, de harmonia com o estabelecido na lei geral em vigor e nos termos seguintes:
+
+a) Directores de serviço e chefes de divisão - por nomeação do Secretário Regional, em comissão de serviço, de entre indivíduos de reconhecido mérito;
+
+b) Técnicos principais e técnicos de 1.ª classe - por promoção, respectivamente, de técnicos de 1.ª classe e técnicos de 2.ª classe com o mínimo de três anos de bom e efectivo serviço nas correspondentes categorias;
+
+c) Técnicos de 2.ª classe - de entre indivíduos com curso superior adequado ao desempenho das suas funções;
+
+d) Adjuntos técnicos principais e adjuntos técnicos de 1.ª classe - de entre, respectivamente, adjuntos técnicos de 1.ª classe e adjuntos técnicos de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria;
+
+e) Adjuntos técnicos de 2.ª classe - de entre indivíduos habilitados com o bacharelato ou habilitação equiparada;
+
+f) Técnicos auxiliares principais e técnicos auxiliares de 1.ª classe - de entre, respectivamente, técnicos auxiliares de 1.ª classe e técnicos auxiliares de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na correspondente categoria;
+
+g) Técnicos auxiliares de 2.ª classe - de entre indivíduos que possuam o curso geral dos liceus ou habilitações equivalentes;
+
+h) Chefe de repartição - de entre diplomados com curso superior adequado ou de entre os chefes de secção ou funcionários dos quadros administrativo ou técnico de categoria equivalente ou superior com, pelo menos, três anos de bom e efectivo serviço na correspondente categoria;
+
+i) Chefe de secção - de entre diplomados com curso superior adequado ou de entre os primeiros-oficiais ou funcionários dos quadros administrativo ou técnico de categoria equivalente ou superior com, pelo menos, três anos de bom e efectivo serviço na correspondente categoria;
+
+j) Primeiros-oficiais e segundos-oficiais - de entre, respectivamente, segundos-oficiais e terceiros-oficiais com, pelo menos, três anos de bom e efectivo serviço na correspondente categoria;
+
+l) Terceiros-oficiais - por concurso de prestação de provas, de entre indivíduos que possuam o curso geral dos liceus ou habilitações equivalentes ou de entre escriturários-dactilógrafos com três anos de bom e efectivo serviço nessa categoria;
+
+m) Escriturários-dactilógrafos - por concurso de prestação de provas, de entre indivíduos que possuam como habilitação mínima a escolaridade obrigatória, de harmonia com a idade do candidato.
+
+2 - Sem prejuízo do disposto no número anterior, os Secretários Regionais poderão condicionar o provimento dos lugares a concurso documental ou à aprovação dos funcionários em concurso de prestação de provas ou ainda à frequência, com aproveitamento, de cursos de aperfeiçoamento, cabendo ao Secretário Regional respectivo e ao Secretário Regional da Administração Pública fixarem por portaria conjunta as condições e os programas desses concursos e cursos.
+
+3 - Os lugares de telefonista, contínuo, porteiro e motorista serão providos por contrato.
+
+4 - Os lugares de servente serão providos nos termos do número antecedente, ficando os respectivos titulares que sejam encarregados da limpeza das instalações sujeitos ao horário de trabalho que for fixado pelo chefe de secretaria, tendo em conta as circunstâncias do serviço e sem prejuízo das normas respeitantes ao horário máximo e ao trabalho nocturno.
+
+Art. 4.º - 1 - Quando a nomeação para os lugares referidos no n.º 1 do artigo anterior recair em quem não seja ainda funcionário da Administração Central, regional ou local, o provimento terá carácter provisório durante um ano.
+
+2 - Findo este período, o funcionário será provido definitivamente no lugar, se tiver revelado aptidão, e exonerado, no caso contrário.
+
+Art. 5.º - 1 - O pessoal dos quadros das extintas juntas gerais que, à data da entrada em vigor do presente diploma, se encontre afecto a cada uma das Secretarias Regionais será integrado em lugares dos novos quadros.
+
+2 - A integração referida no número anterior será feita por despacho conjunto dos Secretários Regionais interessados e da Administração Pública, a publicar no Jornal Oficial, independentemente de quaisquer formalidades, de acordo com as seguintes regras:
+
+a) O pessoal transitará para lugares dos novos quadros desde que possua as habilitações literárias legais fixadas neste diploma ou, na sua ausência, na lei geral para o seu preenchimento;
+
+b) O pessoal transitará para categoria igual ou equivalente àquela em que se encontra provido quando não possua o requisito previsto na alínea anterior.
+
+3 - O pessoal integrado na mesma categoria não perde a antiguidade nela obtida.
+
+Art. 6.º - 1 - Efectuado o movimento referido no artigo anterior, poderão os restantes lugares vagos ser preenchidos, durante o primeiro provimento, por despacho conjunto dos Secretários Regionais interessados e da Administração Pública, a publicar no Jornal Oficial, de acordo com as seguintes regras de prioridade:
+
+a) Pessoal que preste serviço a qualquer título nas Secretarias Regionais ou noutros serviços públicos da Administração Central, regional ou local;
+
+b) Pessoal não vinculado à Administração que, para além das habilitações legais, possua experiência e especialização adequadas ao cargo a desempenhar, quando não se trate de lugares de ingresso.
+
+2 - O provimento do pessoal referido na alínea a) poderá ser feito pela forma que vier a ser fixada na respectiva lei orgânica e por lista nominativa, de acordo com as regras das alíneas a) e b) do n.º 2 do artigo anterior, desde que seja bom o serviço prestado.
+
+Art. 7.º Os funcionários que, por força do [Decreto-Lei n.º 421/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/421-1973-419642), de 22 de Agosto, têm direito a gratificação e a outras remunerações acessórias, mantêm-nas quando colocados em cargos cujas remunerações sejam iguais ou inferiores às que auferiam nas extintas juntas gerais.
+
+Art. 8.º A partir da data da entrada em vigor deste decreto regulamentar, os projectos de diploma que contenham matérias respeitantes a condições gerais de prestação de trabalho, remunerações e estruturação de quadros e carreiras profissionais na administração regional serão obrigatoriamente acompanhados de parecer da Secretaria Regional da Administração Pública, o qual deverá ser prestado no prazo máximo de quinze dias.
+
+Art. 9.º As dúvidas resultantes da aplicação deste diploma serão resolvidas por despacho conjunto do Presidente do Governo Regional e do Secretário Regional da Administração Pública.
+
+Aprovado em plenário do Governo Regional em 4 de Outubro de 1977. - O Presidente do Governo Regional, João Bosco Mota Amaral.
+
+Assinado em Angra do Heroísmo em 13 de Outubro de 1977.
+
+Publique-se.
+
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo, general.

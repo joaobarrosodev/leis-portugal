@@ -1,0 +1,2333 @@
+---
+schema_version: '1.0'
+id: pt:dre:279438:por
+title: Decreto-Lei n.º 30/2002
+short_title: null
+summary: Transpõe para o direito interno a Directiva n.º 2000/7/CE, do Parlamento Europeu e do Conselho, de 20 de Março, aprovando
+  o Regulamento da Homologação de Veículos a Motor de Duas e Três Rodas e Respetivo Indicador de Velocidade
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 30/2002
+official_date: null
+publication_date: '2002-02-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 40/2002, Série I-A de 2002-02-16
+  number: '40'
+  series: I
+  supplement: null
+  pages: 1297 - 1313
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/02/040a00/12971313.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2014-09-16'
+version_history:
+  file: decreto-lei-30-2002.versoes.json
+  count: 6
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2002-02-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-10-04'
+    amending: pt:dre:484390:por
+    amending_title: Decreto-Lei n.º 238/2003
+    changes:
+    - Adita Artigo 17.º-A
+    - Adita Artigo 19.º-A
+    - Adita Anexo VI-A
+    - Adita Anexo VI-B
+    - Adita Anexo VI-C
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 19.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Altera Anexo III
+    - Altera Anexo IV
+    - Altera Anexo V
+    - Altera Anexo VI
+  - date: '2005-01-15'
+    amending: pt:dre:457048:por
+    amending_title: Decreto-Lei n.º 14/2005
+    changes:
+    - Altera Artigo 19.º-A
+    - Altera Anexo VI-A
+  - date: '2007-10-16'
+    amending: pt:dre:641686:por
+    amending_title: Decreto-Lei n.º 335/2007
+    changes:
+    - Altera Anexo II
+    - Altera Anexo V
+  - date: '2013-10-25'
+    amending: pt:dre:502980:por
+    amending_title: Decreto-Lei n.º 148/2013
+    changes:
+    - Altera Anexo IV
+    - Altera Anexo V
+  - date: '2014-09-16'
+    amending: pt:dre:56819090:por
+    amending_title: Decreto-Lei n.º 139/2014
+    changes:
+    - Altera Anexo IV
+    - Altera Anexo VI-A
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/30/2002/p/cons/20140915/pt/html
+  oj: null
+  dre: '279438'
+  dre_path: /dr/detalhe/decreto-lei/30-2002-279438
+  internal: pt:dre:279438:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2002-279438
+  metadata_url: https://data.dre.pt/eli/dec-lei/30/2002/p/cons/20140915/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2002-869916929
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2002-869916929
+  retrieved_at: '2026-10-22T13:10:15Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 237739440957ccad5401a6278b7b4dc993604aa94bb5b2b774f1a001dd3cf722
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:10:15Z'
+  notes: 6 versão(ões); histórico completo em decreto-lei-30-2002.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Certificado de Conformidade
+- Direcção Geral de Viação
+- Especificação Técnica
+- Homologação
+- Veículo
+- Equipamento de Veículo
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:484390:por
+  label: Adita Artigo 17.º-A; Adita Artigo 19.º-A; Adita Anexo VI-A; Adita Anexo VI-B; Adita Anexo VI-C; Altera Artigo 1.º;
+    Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera
+    Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 15.º; Altera
+    Artigo 19.º; Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2003-484390
+  date: '2003-10-03'
+- type: amended_by
+  target: pt:dre:457048:por
+  label: Altera Artigo 19.º-A; Altera Anexo VI-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2005-457048
+  date: '2005-01-10'
+- type: amended_by
+  target: pt:dre:641686:por
+  label: Altera Anexo II; Altera Anexo V
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-2007-641686
+  date: '2007-10-11'
+- type: amended_by
+  target: pt:dre:502980:por
+  label: Altera Anexo IV; Altera Anexo V
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980
+  date: '2013-10-24'
+- type: amended_by
+  target: pt:dre:56819090:por
+  label: Altera Anexo IV; Altera Anexo VI-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2014-56819090
+  date: '2014-09-15'
+- type: cites
+  target: celex:31992L0061
+  label: null
+  source: http://data.europa.eu/eli/dir/1992/61/oj
+- type: cites
+  target: celex:31993L0029
+  label: null
+  source: null
+- type: cites
+  target: celex:31995L0001
+  label: null
+  source: null
+- type: cites
+  target: celex:31997L0024
+  label: null
+  source: null
+- type: cites
+  target: celex:32000L0007
+  label: null
+  source: http://data.europa.eu/eli/dir/2000/7/oj
+- type: cites
+  target: celex:32000L0047
+  label: null
+  source: null
+- type: cites
+  target: celex:32002L0024
+  label: null
+  source: null
+- type: transposes
+  target: celex:31992L0061
+  label: null
+  source: null
+- type: transposes
+  target: celex:32000L0007
+  label: null
+  source: null
+article_structure:
+  article_count: 30
+  section_count: 23
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:10:15Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 30/2002
+
+Decreto-Lei n.º 30/2002
+
+de 16 de Fevereiro
+
+O regulamento que o presente diploma aprova visa transpor, para o direito interno, a Directiva n.º 2000/7/CE, do Parlamento Europeu e do Conselho, de 20 de Março, relativa ao indicador de velocidade dos veículos a motor de duas ou três rodas e que altera a Directiva n.º 92/61/CEE, do Conselho.
+
+A segurança rodoviária constitui um objectivo comunitário fundamental que impõe o controlo e a verificação da velocidade por meio do indicador de velocidade, por forma a aumentar o grau de sensibilização, sobretudo entre os jovens, para a necessidade de uma circulação rodoviária correcta.
+
+O presente diploma aprova o Regulamento da Homologação de Veículos a Motor de Duas e Três Rodas e Respectivo Indicador de Velocidade. Este Regulamento é constituído por duas partes, sendo a primeira respeitante à homologação dos veículos a motor de duas ou três rodas, nos termos do disposto na Directiva n.º 92/61/CEE, e a segunda referente ao processo de homologação do indicador de velocidade para aqueles veículos.
+
+O presente diploma resultou da necessidade de se fixar as prescrições harmonizadas para o indicador de velocidade dos veículos acima referidos, de modo a permitir a aplicação a cada modelo dos referidos veículos dos procedimentos de homologação previstos na Directiva n.º 92/61/CEE.
+
+Resultou também da necessidade de estabelecer as equivalências entre as prescrições do presente diploma e as prescrições do Regulamento n.º 39 da Comissão Económica para a Europa das Nações Unidas, adiante designado «Regulamento n.º 39 da UN-ECE».
+
+Finalmente o presente diploma visa ainda regulamentar o n.º 3 do artigo 106.º e o n.º 3 do artigo 114.º, ambos do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio, com as alterações introduzidas pelo Decreto-Lei n.º 265-A/2001, de 28 de Setembro.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+###### Artigo 1.º — Aprovação
+
+1 - É aprovado o Regulamento da Homologação de Veículos a Motor de Duas e Três Rodas e Respectivo Indicador de Velocidade, cujo texto se publica em anexo ao presente diploma e que dele faz parte integrante, transpondo-se para o direito interno a Directiva n.º 2000/7/CE, do Parlamento Europeu e do Conselho, de 20 de Março.
+
+2 -- Os anexos ao Regulamento aprovado nos termos do número anterior fazem dele parte integrante.
+
+###### Artigo 2.º — Revogação
+
+É revogado o anexo III da Portaria n.º 517-A/96, de 27 de Setembro, no que se refere à homologação de um modelo de veículo CEE, dos veículos de duas ou três rodas e quadriciclos.
+
+###### Artigo 3.º — Produção de efeitos
+
+1 - O presente diploma produz efeitos desde 1 de Janeiro de 2002.
+
+2 - A partir da data referida no número anterior não pode ser proibida, por motivos relacionados com os indicadores de velocidade, a matrícula de veículos novos que cumpram o disposto no regulamento ora aprovado.
+
+3 - A partir da data referida no n.º 1 apenas os veículos cujo modelo foi homologado podem ser apresentados para primeira matrícula.
+
+Visto e aprovado em Conselho de Ministros de 27 de Dezembro de 2001. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Henrique Nuno Pires Severiano Teixeira - Luís Garcia Braga da Cruz.
+
+Promulgado em 28 de Janeiro de 2002.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 31 de Janeiro de 2002.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## Anexo — REGULAMENTO DA HOMOLOGAÇÃO DE VEÍCULOS A MOTOR DE DUAS E TRÊS RODAS E RESPECTIVO INDICADOR DE VELOCIDADE
+
+### Capítulo I
+
+#### Secção I — Âmbito de aplicação e definições
+
+###### Artigo 1.º — Âmbito de aplicação
+
+1 - O presente Regulamento aplica-se a qualquer veículo a motor de duas ou três rodas, duplas ou não, destinado a circular na estrada, bem como aos respectivos componentes ou unidades técnicas.
+
+2 - O presente Regulamento aplica-se igualmente aos veículos a motor de quatro rodas ou quadriciclos cujas características constam do n.º 2 do artigo 2.º do Decreto-Lei n.º 145/2000, de 18 de Julho, com a redacção que lhe é dada pelo artigo 6.º do Decreto-Lei n.º 238/2003, de 3 de Outubro.
+
+3 - O presente Regulamento não se aplica aos seguintes veículos nem aos respectivos componentes ou unidades técnicas, salvo se se destinarem a serem montados em veículos abrangidos pelo presente diploma:
+
+a) Veículos com uma velocidade máxima de projecto não superior a 6 km/h;
+
+b) Veículos destinados a condução apeada;
+
+c) Veículos destinados a ser utilizados por pessoas com deficiências físicas;
+
+d) Veículos destinados às competições em estrada ou todo-o-terreno;
+
+e) Veículos já matriculados, à data de entrada em vigor do presente Regulamento;
+
+f) Tractores e máquinas utilizados na agricultura ou para fins similares;
+
+g) Veículos concebidos primordialmente para utilização de recreio fora de estrada, com três rodas dispostas simetricamente, uma à frente e duas à retaguarda;
+
+h) Velocípedes com motor auxiliar, ou seja os veículos com pedalagem assistida equipados de motor eléctrico auxiliar com uma potência nominal máxima contínua de 0,25 kW, cuja alimentação seja reduzida progressivamente e finalmente interrompida quando a velocidade do veículo atinja 25 km/h, ou antes, se o ciclista deixar de pedalar.
+
+4 - O presente Regulamento também não se aplica à homologação de veículos isolados, porém, neste caso, deve ser aceite qualquer homologação de componentes e unidades técnicas concedida por força do presente diploma e não por força das disposições nacionais na matéria.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 238/2003 - Diário da República n.º 229/2003, Série I-A de 2003-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2003-484390), em vigor a partir de 2003-10-04
+
+###### Artigo 2.º — Classificação
+
+1 - Os veículos referidos no artigo 1.º são classificados em veículos da categoria:
+
+a) L1e - ciclomotores, ou seja, veículos de duas rodas com uma velocidade máxima de projecto não superior a 45 km/h e caracterizados por possuírem um motor de cilindrada igual ou inferior a 50 cm3, se se tratar de um motor de combustão interna, ou cuja potência nominal máxima contínua seja igual ou inferior a 4 kW, no caso dos motores eléctricos;
+
+b) L2e - ciclomotores, ou seja, veículos de três rodas com uma velocidade máxima de projecto não superior a 45 km/h e caracterizados por possuírem um motor de cilindrada igual ou inferior a 50 cm3, se se tratar de um motor de ignição comandada (positiva), ou cuja potência útil máxima seja igual ou inferior a 4 kW, no caso de outros motores de combustão interna, ou ainda cuja potência nominal máxima contínua seja igual ou inferior a 4 kW, no caso dos motores eléctricos;
+
+c) L3e - motociclos, isto é, veículos de duas rodas sem side-car, equipados com motor de cilindrada superior a 50 cm3, para os motores de combustão interna, e ou que tenham uma velocidade máxima de projecto superior a 45 km/h;
+
+d) L4e - os veículos indicados na alínea anterior desde que equipados com side-car;
+
+e) L5e - triciclos a motor, isto é, veículos de três rodas simetricamente dispostas, equipados com motor de cilindrada superior a 50 cm3, para os motores de combustão interna, e ou que tenham uma velocidade máxima de projecto superior a 45 km/h.
+
+2 - O presente Regulamento aplica-se igualmente aos quadriciclos, isto é, veículos a motor de quatro rodas com as seguintes características:
+
+a) L6e - Quadriciclos ligeiros, que devem satisfazer os requisitos técnicos aplicáveis aos ciclomotores de três rodas da categoria L2e (salvo especificação em contrário em alguma das directivas específicas), cuja massa sem carga seja inferior ou igual a 350 kg, excluída a massa das baterias no caso dos veículos eléctricos, e cuja velocidade máxima de projecto seja inferior ou igual a 45 km/h e:
+
+i) Cujo motor tenha cilindrada inferior ou igual a 50 cm3, no caso dos motores de ignição comandada (positiva); ou
+
+ii) Cuja potência útil máxima seja inferior ou igual a 4 kW, no caso de outros tipos de motores de combustão interna; ou
+
+iii) Cuja potência nominal máxima contínua seja igual ou inferior a 4 kW, no caso dos motores eléctricos;
+
+b) L7e - quadriciclos motociclos, ou seja, veículos que devem satisfazer os requisitos técnicos aplicáveis aos triciclos a motor da categoria L5e (salvo especificação em contrário em alguma das directivas específicas) com massa sem carga não superior a 400 kg, ou 550 kg para os veículos destinados ao transporte de mercadorias, excluindo a massa das baterias no caso dos veículos eléctricos, e cujos motores tenham uma potência útil máxima não superior a 15 kW.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 238/2003 - Diário da República n.º 229/2003, Série I-A de 2003-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2003-484390), em vigor a partir de 2003-10-04
+
+###### Artigo 3.º — Definições
+
+Para efeitos do disposto no presente capítulo, entende-se por:
+
+1 - «Modelo de veículo», um veículo ou um grupo de veículos (variantes) que:
+
+a) Pertencem a uma única categoria, nomeadamente ciclomotores de duas rodas L1e e ciclomotores de três rodas L2e, na acepção do artigo 2.º;
+
+b) São produzidos pelo mesmo fabricante;
+
+c) Possuem igual quadro, armação, subarmação, plataforma ou estrutura a que estão acoplados os componentes principais;
+
+d) Têm uma unidade de propulsão com o mesmo princípio de funcionamento, nomeadamente, de propulsão por combustão interna, eléctrica, híbrida, ou outra;
+
+e) Têm a mesma designação de tipo dada pelo fabricante.
+
+2 - «Variante», um veículo ou um grupo de veículos (versões) do mesmo modelo que:
+
+a) Têm a mesma forma de carroçaria (características de base);
+
+b) Têm uma massa em ordem de marcha que apresenta entre o menor e o maior valor do grupo de veículos (versões) uma variação não superior a 20% do valor inferior;
+
+c) Têm uma massa máxima tecnicamente admissível que apresenta uma variação entre o menor e o maior valor do grupo de veículos (versões) não superior a 20% do valor inferior;
+
+d) Têm o mesmo ciclo de funcionamento (dois ou quatro tempos, ignição comandada ou por compressão);
+
+e) Têm uma unidade de propulsão cuja cilindrada (no caso das unidades de combustão interna) apresenta entre o menor e o maior valor do grupo de veículos (versões) uma variação não superior a 30% do valor inferior;
+
+f) Têm o mesmo número e a mesma disposição dos cilindros;
+
+g) Têm uma unidade de propulsão cuja potência de saída apresenta entre o menor e o maior valor do grupo de veículos (versões) uma variação não superior a 30% do valor inferior;
+
+h) Têm o mesmo modo de funcionamento, tratando-se de motores eléctricos;
+
+i) Têm o mesmo modelo de caixa de velocidades, nomeadamente manual, automática ou outra.
+
+3 - «Versão», um veículo do mesmo tipo e variante mas que pode incorporar qualquer dos equipamentos, componentes ou sistemas enumerados na ficha de informações do anexo II, desde que seja indicado apenas:
+
+a) Um valor para:
+
+i) A massa em ordem de marcha;
+
+ii) A massa máxima admissível;
+
+iii) A potência útil do motor;
+
+iv) A cilindrada do motor; e
+
+b) Um conjunto de resultados de ensaios em conformidade com o anexo VI-A ao presente Regulamento.
+
+4 - «Sistema», qualquer sistema de um veículo, como os travões, o equipamento de controlo das emissões, etc., sujeito aos requisitos de qualquer das directivas específicas.
+
+5 - «Unidade técnica», um dispositivo, como, por exemplo, um silenciador de escape, sujeito aos requisitos de uma directiva específica, que se destina a fazer parte de um veículo e pode ser homologado em separado, mas apenas relativamente a um ou mais tipos de veículos especificados, quando a directiva específica assim o dispuser expressamente.
+
+6 - «Componente», um dispositivo, nomeadamente um farol, sujeito aos requisitos de uma directiva específica, que se destina a fazer parte de um veículo e pode ser homologado em separado, quando a directiva específica assim o dispuser expressamente.
+
+7 - «Homologação», o procedimento pelo qual um Estado membro certifica que um modelo de veículo, um sistema, uma unidade técnica ou um componente satisfaz os requisitos técnicos estabelecidos no presente Regulamento ou nas directivas específicas e os controlos da correcção dos dados do fabricante previstos na lista exaustiva do anexo I ao presente Regulamento.
+
+8 - Rodas duplas: duas rodas montadas num mesmo eixo e cuja distância entre os centros das superfícies de contacto dessas rodas com o solo é inferior a 460 mm; estas rodas duplas são consideradas como uma roda única.
+
+9 - Veículos de propulsão mista: veículos que incluam dois sistemas diferentes de propulsão, nomeadamente um sistema de propulsão eléctrica e um sistema de propulsão térmica.
+
+10 - «Fabricante», a pessoa ou entidade responsável perante a autoridade competente em matéria de homologação por todos os aspectos do processo de homologação e da conformidade da produção, não sendo necessário que essa pessoa ou entidade intervenha directamente em todas as fases de construção do veículo submetido a homologação ou do fabrico do componente ou unidade técnica submetida a homologação.
+
+11 - «Serviço técnico», a organização ou entidade credenciada como laboratório de ensaio para proceder a ensaios ou inspecções em nome da autoridade competente em matéria de homologação de um Estado membro, podendo também ser asseguradas pela própria autoridade competente em matéria de homologação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 238/2003 - Diário da República n.º 229/2003, Série I-A de 2003-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2003-484390), em vigor a partir de 2003-10-04
+
+#### Secção II — Processo de concessão de homologação de veículos, componentes e unidades técnicas
+
+###### Artigo 4.º — Pedido de homologação
+
+1 - Os pedidos de homologação de veículos, componentes e unidades técnicas devem ser apresentados pelo fabricante à Direcção-Geral de Viação, acompanhados de uma ficha de informações cujo modelo, para a homologação de um modelo de veículo, figura no anexo II e, para a homologação de um componente ou unidade técnica, num anexo ou apêndice que figura em cada directiva específica relativa à unidade técnica ou ao componente em questão, bem como dos documentos mencionados nessa ficha.
+
+2 - Para um mesmo modelo de veículo, de unidade técnica ou de componente, o pedido apenas pode ser apresentado a um único Estado-Membro.
+
+###### Artigo 5.º — Condições para a homologação
+
+1 - A Direcção-Geral de Viação procede à homologação a todos os modelos de veículos, sistemas, unidades técnicas ou componentes que satisfaçam as seguintes condições:
+
+a) O modelo de veículo deve obedecer aos requisitos técnicos das directivas específicas e corresponder ao descrito pelo fabricante de acordo com os dados previstos na lista exaustiva constante do anexo I ao presente Regulamento;
+
+b) O sistema, unidade técnica ou componente deve obedecer aos requisitos técnicos da directiva específica pertinente e corresponde ao descrito pelo fabricante de acordo com os dados previstos na lista exaustiva constante do anexo I.
+
+2 - Antes de proceder à homologação de um modelo de veículo ou à homologação de um componente ou unidade técnica, a Direcção-Geral de Viação tomará as medidas necessárias para se assegurar, se necessário em colaboração com as autoridades competentes do Estado-Membro em que a produção é efectuada ou introduzida na Comunidade, que as disposições do anexo VI foram respeitadas, a fim de que os veículos produzidos, introduzidos no mercado ou em circulação novos sejam conformes ao modelo de veículo homologado e as unidades técnicas ou os componentes produzidos, colocados no mercado novos, sejam conformes ao modelo homologado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 238/2003 - Diário da República n.º 229/2003, Série I-A de 2003-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2003-484390), em vigor a partir de 2003-10-04
+
+###### Artigo 6.º — Controlo da conformidade de produção
+
+1 - A Direcção-Geral de Viação deve assegurar, se necessário em colaboração com as autoridades competentes do Estado-Membro em que a produção é efectuada ou introduzida na Comunidade, que as disposições do anexo VI continuem a ser respeitadas.
+
+2 - Quando um pedido de homologação de um modelo de veículo for acompanhado de um ou mais certificados de homologação de sistemas, unidades técnicas ou componentes, emitidos por um ou mais Estados membros, a Direcção-Geral de Viação se proceder à homologação do veículo deve aceitá-los, evitando proceder, no que respeita aos sistemas, componentes e ou unidades técnicas, homologados, às verificações exigidas na alínea b) do n.º 1 do artigo anterior.
+
+3 - A Direcção-Geral de Viação é responsável pelas homologações que concede para modelos de veículos, sistemas, unidades técnicas ou componentes, devendo controlar a conformidade da produção, se necessário em cooperação com as autoridades competentes dos outros Estados membros que emitiram certificados de homologação para sistemas, unidades técnicas ou componentes.
+
+4 - No caso de ser verificado que um veículo, sistema, unidade técnica ou componente que obedece aos requisitos constantes do n.º 1 do artigo 5.º constitui um risco sério para a segurança rodoviária, pode ser recusada a homologação, informando-se, do facto, imediatamente os outros Estados membros e a Comissão, expondo os motivos em que se fundamenta a sua decisão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 238/2003 - Diário da República n.º 229/2003, Série I-A de 2003-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2003-484390), em vigor a partir de 2003-10-04
+
+###### Artigo 7.º — Preenchimento do certificado de homologação
+
+1 - Quando a Direcção-Geral de Viação proceder à homologação de qualquer modelo de veículo, deve preencher o formulário de homologação constante do anexo III e indicar os resultados dos ensaios nas rubricas adequadas do documento apenso ao formulário de homologação, cujo modelo se apresenta no anexo VI-A ao presente Regulamento.
+
+2 - E quando proceder à homologação de um modelo de unidade técnica ou de componente deve preencher as rubricas do certificado de homologação que figurar no anexo ou num apêndice incluído em cada directiva específica relativos à unidade técnica ou ao componente em questão.
+
+3 - Os certificados de homologação de um sistema, unidade técnica ou componente devem ser numerados de acordo com o método descrito na parte A do anexo V ao presente Regulamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 238/2003 - Diário da República n.º 229/2003, Série I-A de 2003-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2003-484390), em vigor a partir de 2003-10-04
+
+###### Artigo 8.º — Comunicação das homologações e recusas
+
+1 - A Direcção-Geral de Viação deve enviar, no prazo de um mês, às autoridades competentes dos outros Estados-Membros cópia do certificado de homologação estabelecido para cada modelo de veículo que homologue ou se recuse a homologar.
+
+2 - A Direcção-Geral de Viação deve enviar mensalmente às autoridades dos outros Estados membros uma lista das homologações de sistemas, unidades técnicas ou componentes que tenha concedido ou recusado conceder durante esse mês.
+
+3 - Quando uma autoridade competente de outro Estado membro o solicitar, deve ser enviada, o mais brevemente possível, uma cópia do certificado de homologação, com os respectivos anexos, para cada tipo de sistema, unidade técnica ou componente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 238/2003 - Diário da República n.º 229/2003, Série I-A de 2003-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2003-484390), em vigor a partir de 2003-10-04
+
+###### Artigo 9.º — Declaração de conformidade
+
+1 - Para cada veículo construído em conformidade com o modelo homologado, é emitido pelo fabricante um certificado de conformidade, cujo modelo figura na parte A do anexo IV, que acompanhará o veículo.
+
+2 - Pode ser solicitado, para constar no respectivo documento de matrícula, que sejam mencionadas na declaração de conformidade outras indicações para além das incluídas na parte A do anexo IV, desde que figurem explicitamente na ficha de informações.
+
+3 - O certificado de conformidade deve ser emitido de modo a excluir qualquer possibilidade de falsificação, devendo, para o efeito, a impressão ser feita em papel protegido, quer por elementos gráficos a cores, quer por uma filigrana com a marca de identificação do fabricante do veículo.
+
+4 - Para cada unidade técnica ou componente que não seja de origem, fabricado em conformidade com o modelo homologado, o fabricante deve emitir um certificado de conformidade, cujo modelo figura na parte B do anexo IV, dispensando-se essa declaração para as unidades técnicas e componentes de originais.
+
+5 - Se a unidade técnica ou componente a homologar apenas cumpra a sua função ou apresente as suas características em conjugação com outros componentes do veículo e, por esse motivo, o cumprimento de um ou mais requisitos só possa ser verificado quando tal unidade técnica ou componente funcionar em conjugação com esses outros componentes do veículo, quer reais, quer simulados, o âmbito da homologação dessa unidade técnica ou componente tem de ser limitado em conformidade.
+
+6 - No caso indicado no número anterior, o respectivo certificado de homologação da unidade técnica ou componente deverá mencionar as restrições de utilização e conter as eventuais instruções de montagem, devendo-se, aquando da homologação de um modelo de veículo, verificar se aquelas restrições e requisitos foram respeitadas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 238/2003 - Diário da República n.º 229/2003, Série I-A de 2003-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2003-484390), em vigor a partir de 2003-10-04
+
+###### Artigo 10.º — Marca
+
+Sem prejuízo do disposto no n.º 4 do artigo anterior, o titular de uma homologação de uma unidade técnica ou de um componente concedida, em conformidade com os artigos 5.º e 6.º, deve apor sobre cada unidade técnica ou componente construído em conformidade com o modelo homologado a sua marca de fabrico ou de comércio, a indicação do modelo e, se a directiva específica assim o dispuser, a marca de homologação referida no artigo 12.º, não sendo, neste último caso, obrigado a emitir a declaração prevista no n.º 4 supra.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 238/2003 - Diário da República n.º 229/2003, Série I-A de 2003-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2003-484390), em vigor a partir de 2003-10-04
+
+###### Artigo 11.º — Restrições, condições de montagem e informações
+
+1 - O titular de um certificado de homologação de uma unidade técnica ou componente que contenha restrições de utilização, fixadas nos termos dos n.os 5 e 6 do artigo 9.º, deve fornecer, com cada unidade técnica ou cada componente produzido, informações pormenorizadas relativas a essas restrições e indicar as eventuais condições de montagem, se adequado.
+
+2 - O titular do certificado de homologação de uma unidade técnica de equipamento que não seja de origem, concedida em ligação com um ou vários modelos de veículos, deve fornecer, com cada uma dessas unidades técnicas, informações pormenorizadas que permitam identificar esses veículos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 238/2003 - Diário da República n.º 229/2003, Série I-A de 2003-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2003-484390), em vigor a partir de 2003-10-04
+
+###### Artigo 12.º — Número de homologação
+
+1 - Os veículos produzidos em conformidade com o modelo homologado devem conter uma marca de homologação, nos termos da secção 1, da secção 3 e da secção 4 do número de homologação, que consta da parte A do anexo V ao presente Regulamento.
+
+2 - As unidades técnicas e os componentes produzidos em conformidade com o modelo homologado devem conter, se a directiva específica que lhes diz respeito assim o previr, uma marca de homologação conforme com os requisitos constantes da parte B do anexo V ao presente Regulamento.
+
+3 - O número de homologação previsto no n.º 1.2 da parte B do anexo V deve respeitar a secção 4 do número de homologação, que consta da parte A do mesmo anexo.
+
+4 - As informações contidas na marca de homologação podem ser completadas com informações suplementares que permitam identificar determinadas características próprias da unidade técnica ou do componente em questão, devendo as referidas informações, se for caso disso, estar enunciadas nas directivas específicas relativas a essas unidades técnicas ou componentes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 238/2003 - Diário da República n.º 229/2003, Série I-A de 2003-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2003-484390), em vigor a partir de 2003-10-04
+
+###### Artigo 13.º — Responsabilidade do fabricante
+
+1 - O fabricante é responsável pela construção de cada veículo ou pelo fabrico de cada unidade técnica ou componente em conformidade com o modelo homologado.
+
+2 - A paragem definitiva da produção, bem como qualquer alteração das indicações que figuram na ficha de informações, devem ser comunicadas pelo titular da homologação de um modelo de veículo, componente ou unidade técnica à Direcção-Geral de Viação, quando esta tiver emitido qualquer dessas homologações.
+
+3 - Se a autoridade indicada no número anterior considerar que uma modificação não provoca uma alteração do certificado de homologação de um modelo de veículo, componente ou unidade técnica existente, ou a emissão de um novo certificado de homologação para aquelas, informará desse facto o fabricante.
+
+4 - Se a mesma autoridade verificar que uma alteração das indicações que figuram na ficha de informações justifica novas verificações ou novos ensaios, informará desse facto ao fabricante e procederá aos ensaios.
+
+5 - No caso de os controlos ou ensaios implicarem alterações ao certificado de homologação existente ou a elaboração de novo certificado, a Direcção-Geral de Viação deve informar as autoridades competentes dos outros Estados membros, nos termos do artigo 8.º do presente Regulamento.
+
+6 - Em caso de alteração das indicações constantes da ficha de informações, o fabricante deve substituir as páginas alteradas desse documento e enviá-las à Direcção-Geral de Viação, indicando claramente as alterações efectuadas bem como a data de substituição das páginas.
+
+7 - O número de referência da ficha de informações apenas deve ser alterado nos casos em que as alterações nela efectuadas requeiram a alteração de uma ou mais entradas do certificado de conformidade apresentado no anexo IV, com excepção dos n.os 19.1 e 45 a 51, inclusive.
+
+8 - Sempre que um certificado de homologação deixe de produzir efeitos devido à cessação definitiva da produção do modelo de veículo, do sistema, da unidade técnica ou do componente homologados, a Direcção-Geral de Viação deve comunicar tal facto, no prazo de um mês, às autoridades competentes dos outros Estados membros.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 238/2003 - Diário da República n.º 229/2003, Série I-A de 2003-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2003-484390), em vigor a partir de 2003-10-04
+
+###### Artigo 14.º — Reposição da conformidade de produção
+
+1 - Quando a Direcção-Geral de Viação tiver procedido à homologação de um modelo de veículo, de um componente ou unidade técnica verificar que os veículos, unidades técnicas ou componentes não se encontram conformes com os modelos homologados, deve tomar as medidas necessárias para que a conformidade da produção com o modelo homologado seja novamente assegurada.
+
+2 - A entidade indicada no número anterior deve, também, informar as autoridades competentes dos outros Estados-Membros das medidas tomadas, que podem eventualmente ir até à revogação da homologação de um modelo de veículo, componente ou unidade técnica.
+
+###### Artigo 15.º — Não conformidade com o modelo aprovado
+
+1 - Quando a Direcção-Geral de Viação verifique que veículos, unidades técnicas ou componentes não se encontram conformes com os modelos homologados, pode pedir à autoridade competente do Estado-Membro que procedeu à respectiva homologação que verifique as disparidades constatadas.
+
+2 - A Direcção-Geral de Viação ao proceder à homologação de um modelo de veículo, componente ou unidade técnica deve efectuar o controlo nos seis meses seguintes à data da recepção do pedido e, caso se verifique uma falta de conformidade em relação à homologação, tomará as medidas previstas no artigo anterior.
+
+3 - Devem ser informadas, no prazo de um mês, as autoridades competentes dos Estados-Membros da revogação de uma homologação de um modelo de veículo, componente ou unidade técnica concedida, bem como dos motivos que fundamentaram essa medida.
+
+4 - Se o Estado membro que procedeu à homologação contestar a não conformidade que lhe foi notificada, os Estados membros envolvidos procurarão resolver entre si a questão, devendo a Comissão ser mantida ao corrente e, se necessário, proceder às consultas adequadas para chegar a uma solução.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 238/2003 - Diário da República n.º 229/2003, Série I-A de 2003-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2003-484390), em vigor a partir de 2003-10-04
+
+###### Artigo 16.º — Proibição de utilização
+
+1 - Se a Direcção-Geral de Viação verificar que os veículos, unidades técnicas ou componentes pertencentes a um modelo homologado comprometem a segurança da circulação rodoviária, pode proibir, por um período máximo de seis meses, a respectiva entrada em circulação ou utilização.
+
+2 - A decisão fundamentada da proibição referida no número anterior, deve ser comunicada imediatamente à Comissão Europeia e aos outros Estados-Membros.
+
+###### Artigo 17.º — Fundamentação da recusa ou revogação de homologação
+
+Qualquer decisão de recusa ou de revogação da homologação de um modelo de veículo, componente ou unidade técnica, ou de utilização dos mesmos, tomada por força das disposições adoptadas em execução do presente Regulamento, será fundamentada de modo preciso, devendo ser notificada ao interessado, com indicação das vias de recurso nos termos da legislação em vigor e dos prazos dentro dos quais esses recursos podem ser interpostos.
+
+###### Artigo 17.º-A — Notificação à Comissão
+
+1 - Devem ser notificados à Comissão e aos outros Estados membros os nomes e endereços das seguintes entidades:
+
+a) Autoridades competentes em matéria de homologação e, se aplicável, matérias por que são responsáveis;
+
+b) Serviços técnicos homologados por essas autoridades, com especificação dos procedimentos de ensaio para que foram homologados.
+
+2 - Os serviços notificados devem satisfazer as normas harmonizadas sobre o funcionamento dos laboratórios de ensaio (EN 45001) com as seguintes reservas:
+
+a) Um fabricante não pode ser homologado como serviço técnico, excepto quando a directiva específica previr derrogação expressa nesse sentido;
+
+b) Para efeitos do presente Regulamento, não se considera excepcional que um serviço técnico utilize equipamento de fonte externa, mediante acordo da Direcção-Geral de Viação.
+
+3 - Os serviços notificados devem satisfazer a norma harmonizada.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 238/2003 - Diário da República n.º 229/2003, Série I-A de 2003-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2003-484390), em vigor a partir de 2003-10-04
+
+#### Secção III — Condições de colocação no mercado
+
+###### Artigo 18.º — Colocação no mercado
+
+1 - Não se pode proibir a colocação no mercado, a entrada em circulação ou a utilização dos veículos, unidades técnicas ou componentes novos que estejam conformes com o presente Regulamento.
+
+2 - Apenas as unidades técnicas e os componentes novos que estejam conformes com o presente Regulamento podem ser colocados no mercado para serem utilizados.
+
+#### Secção IV — Dispensas
+
+###### Artigo 19.º — Dispensas
+
+1 - Exceptuam-se do disposto no artigo anterior, podendo ser dispensadas do cumprimento uma ou várias prescrições das directivas específicas, os veículos, as unidades técnicas ou os componentes destinados:
+
+a) À produção em pequenas séries, limitadas no máximo a 200 unidades por ano e por modelo de veículo, de componente ou de unidade técnica;
+
+b) Às Forças Armadas, às forças de segurança, e aos serviços de protecção civil.
+
+2 - As dispensas referidas no número anterior devem ser comunicadas aos outros Estados membros, no prazo de um mês a contar da data da respectiva concessão, devendo decidir, no prazo de três meses, se aceitam a homologação para os veículos a matricular no seu território.
+
+3 - Os certificados da homologação referidos no número anterior não podem ter como título 'certificado de homologação CE'.
+
+4 - Os certificados de homologação que tenham sido emitidos a nível nacional antes de 27 de Junho de 1999 manterão a validade por um prazo de quatro anos a contar da data em que a legislação nacional deva dar cumprimento ao disposto nas directivas específicas pertinentes.
+
+5 - O prazo referido no número anterior aplica-se aos tipos de veículos, sistemas, unidades técnicas ou componentes conformes com os requisitos nacionais dos Estados membros em que, antes da entrada em aplicação das directivas específicas pertinentes, estejam em vigor sistemas legislativos diversos do sistema de homologação.
+
+6 - Os veículos abrangidos pela derrogação referida supra podem ser colocados no mercado e postos em circulação durante este período e utilizados por tempo indeterminado.
+
+7 - A colocação no mercado, venda e utilização de sistemas, unidades técnicas e componentes para os veículos referidos no número anterior não tem prazo limite.
+
+8 - Desde que não origine alterações nos veículos podem ser estabelecidos outros requisitos necessários para garantir a protecção dos utilizadores durante a utilização dos veículos em causa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 238/2003 - Diário da República n.º 229/2003, Série I-A de 2003-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2003-484390), em vigor a partir de 2003-10-04
+
+###### Artigo 19.º-A — Derrogação dos n.os 1 e 2 do artigo 18.º
+
+1 - Em derrogação dos n.os 1 e 2 do artigo 18.º, a Direcção-Geral de Viação pode, dentro dos limites referidos no anexo VI-B do presente Regulamento e durante um período limitado, matricular e permitir a venda ou a entrada em circulação de veículos novos conformes com o modelo de veículo cuja homologação já não seja válida.
+
+2 - A possibilidade referida no número anterior limita-se a um período de 12 meses a contar da data em que a homologação tenha perdido a validade.
+
+3 - O disposto no n.º 1 aplica-se apenas aos veículos que se encontravam no território da Comunidade e que eram acompanhados de um certificado de conformidade válido emitido quando a homologação do modelo de veículo em questão ainda era válida, mas que não tinham sido matriculados ou colocados em circulação antes de a homologação correspondente perder a validade.
+
+4 - Antes de o n.º 1 poder ser aplicado a um ou mais modelos de veículos de uma categoria determinada, o fabricante deve apresentar o respectivo pedido à Direcção-Geral de Viação, indicando no pedido as razões técnicas e ou económicas que o justificam.
+
+5 - A Direcção-Geral deve decidir, no prazo de três meses, se autoriza ou não a matrícula do modelo de veículo em questão e, se a autorizar, para quantas unidades.
+
+6 - A Direcção-Geral de Viação deve velar por que o fabricante respeite as disposições previstas no anexo VI-B, comunicando anualmente à Comissão a lista das derrogações concedidas.
+
+7 - No que diz respeito aos veículos, componentes ou unidades técnicas que incorporem tecnologias ou concepções que, pela sua natureza, não possam cumprir um ou mais requisitos de uma ou mais directivas específicas, aplica-se o disposto no artigo 26.º do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 72/2000, de 6 de Maio.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 14/2005 - Diário da República n.º 6/2005, Série I-A de 2005-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2005-457048), em vigor a partir de 2005-01-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 238/2003 - Diário da República n.º 229/2003, Série I-A de 2003-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2003-484390), em vigor a partir de 2003-10-04
+
+### Capítulo II — Indicador de velocidade
+
+#### Secção I — Âmbito de aplicação do capítulo e definições
+
+###### Artigo 20.º — Âmbito de aplicação do capítulo
+
+1 - O presente capítulo é aplicável ao indicador de velocidade de qualquer modelo de veículo enumerado no artigo 1.º
+
+2 - Os veículos abrangidos pelo âmbito de aplicação do presente Regulamento devem estar equipados com um indicador de velocidade que observe o disposto no presente capítulo.
+
+###### Artigo 21.º — Definições
+
+Para efeitos do presente capítulo, entende-se por:
+
+1) Modelo de veículo no que diz respeito ao indicador de velocidade: veículos que não apresentam entre si diferenças essenciais, podendo as diferenças verificadas incidir, nomeadamente, nos seguintes pontos:
+
+a) A designação da dimensão dos pneumáticos escolhidos dentro da gama de pneumáticos de origem;
+
+b) A relação global de transmissão ao indicador de velocidade, incluindo a taxa de redução do adaptador;
+
+c) O modelo de indicador de velocidade, caracterizado pela:
+
+i) Tolerância do mecanismo de medição do indicador de velocidade;
+
+ii) Constante técnica do indicador de velocidade;
+
+iii) Gama de velocidades indicadas;
+
+2) Pneumáticos de origem: o ou os modelos de pneumáticos previstos pelo fabricante para o modelo de veículo considerado e indicados na ficha de informações do anexo II do presente Regulamento, não sendo considerados os pneumáticos para a neve como pneumáticos de origem;
+
+3) Pressão normal de marcha: a pressão de enchimento a frio especificada pelo fabricante do veículo de 0,2 bar;
+
+4) Indicador de velocidade: o aparelho destinado a indicar ao condutor a velocidade instantânea do seu veículo em qualquer momento:
+
+a) Tolerância do mecanismo de medição de velocidade: a precisão do próprio aparelho indicador de velocidade, expressa pelos limites superior e inferior da velocidade, indicada para uma determinada gama de velocidades à entrada;
+
+b) Constante técnica do indicador de velocidade: a relação entre as rotações ou os impulsos por minuto à entrada e a velocidade indicada;
+
+5) Massa em ordem de marcha: a massa tal como definida no ponto 2 da nota (d) do anexo II do presente Regulamento.
+
+#### Secção II — Homologação do indicador de velocidade e equivalência
+
+###### Artigo 22.º — Homologação do indicador de velocidade
+
+1 - O processo de homologação do indicador de velocidade de um modelo de veículo a motor de duas rodas bem como as condições para a livre circulação destes veículos constam, respectivamente, das secções II e III do capítulo I do presente Regulamento.
+
+2 - O modelo da ficha de informação consta do anexo VIII e o modelo de certificado de homologação consta do anexo IX, ambos do presente Regulamento.
+
+###### Artigo 23.º — Equivalência
+
+1 - As prescrições do presente capítulo são equivalentes às prescrições do Regulamento n.º 39 da UN-ECE, na última versão adoptada pela Comunidade.
+
+2 - As homologações e as marcas de homologação emitidas segundo as prescrições do Regulamento n.º 39, no seu próprio âmbito, são, para todos os efeitos, equiparadas às homologações e marcas de homologação correspondentes, emitidas segundo as prescrições do presente Regulamento.
+
+#### Secção III — Especificações
+
+###### Artigo 24.º — Mostrador do indicador de velocidade
+
+1 - O mostrador do indicador de velocidade deve estar situado no campo de visão directa do condutor e deve ser claramente legível, de dia e de noite, devendo a gama de velocidades indicadas ser suficientemente alargada para incluir a velocidade máxima indicada pelo fabricante para esse modelo de veículo.
+
+2 - Quando o indicador de velocidade possuir um mostrador em vez de um visor digital, esse mostrador deve ser graduado da seguinte forma:
+
+a) No caso de indicadores de velocidade destinados a motociclos ou triciclos a motor, as graduações da escala devem ser de 1 km/h, 2 km/h, 5 km/h ou 10 km/h, devendo a velocidade ser indicada do seguinte modo:
+
+i) Quando o valor mais elevado que figura no mostrador não exceder 200 km/h, os valores numéricos da velocidade devem ser indicados em intervalos que não excedam 20 km/h;
+
+ii) Quando o valor mais elevado que figura no mostrador exceder 200 km/h, os valores numéricos da velocidade devem ser indicados no mostrador em intervalos que não excedam 30 km/h;
+
+b) No caso de indicadores de velocidade destinados a ciclomotores, a velocidade máxima indicada no mostrador não deve exceder 80 km/h, as graduações da escala devem ser de 1 km/h, 2 km/h, 5 km/h ou 10 km/h e os valores numéricos da velocidade devem ser indicados no mostrador em intervalos que não excedam 10 km/h devendo o mostrador indicar claramente a velocidade de 45 km/h (25 km/h no caso de ciclomotores de desempenho reduzido);
+
+c) No caso de um veículo destinado a ser posto à venda num Estado-Membro que utilize unidades de medida do sistema imperial, o indicador de velocidade deve também estar graduado em mph (milhas por hora); as graduações da escala devem ser de 1 mph, 2 mph, 5 mph ou 10 mph, devendo os valores numéricos da velocidade ser indicados em intervalos que não excedam 20 mph e o valor deve ser de 10 mph ou 20 mph;
+
+d) Não é necessário que os valores numéricos de velocidade indicados sejam regulares.
+
+3 - A precisão do indicador de velocidade é controlada pelo seguinte método:
+
+a) O veículo é equipado com pneumáticos de um dos modelos de origem definidos no n.º 2 do artigo 21.º, devendo o ensaio ser repetido com cada tipo de velocidade destinado a ser instalado pelo fabricante;
+
+b) A carga sobre o eixo que faz mover o indicador de velocidade deve corresponder à massa em ordem de marcha;
+
+c) A temperatura de referência no local do indicador de velocidade deve ser de 296 k(mais ou menos)5 k;
+
+d) Aquando de cada ensaio, a pressão dos pneumáticos deve ser a normal de marcha definida no n.º 3 do artigo 21.º;
+
+e) O veículo é ensaiado às velocidades constantes do anexo VII do presente Regulamento;
+
+f) A aparelhagem de controlo utilizada para medição da velocidade real do veículo deve ter precisão de 0,5%, se:
+
+i) Os ensaios se efectuarem em pista, devendo o revestimento desta ser plano e seco e ter aderência suficiente;
+
+ii) For utilizado um banco dinamómetro de rolos para o ensaio, devendo os rolos ter um diâmetro de pelo menos 2 m, podendo o teste, no caso de indicadores de velocidade destinados a ciclomotores, ser efectuado em rolos com um diâmetro de pelo menos 400 mm;
+
+g) A velocidade indicada não deve ser nunca inferior à velocidade real;
+
+h) Nos valores de ensaio especificados no anexo VII, deve existir entre a velocidade V(índice 1) lida no indicador de velocidade e a velocidade real V(índice 2) a seguinte relação: 0 =<(V(índice 1) - V(índice 2)) =<0,1.V(índice 2) + 4 km/h.
+
+#### Secção IV — Conformidade da produção
+
+###### Artigo 25.º — Conformidade da produção
+
+1 - O controlo da conformidade da produção é efectuado com base nas disposições do anexo VI do presente Regulamento.
+
+2 - A produção será considerada conforme com as prescrições do presente Regulamento quando existir nas condições referidas nas alíneas a) a f) do n.º 3 do artigo 24.º entre a velocidade V(índice 1) lida no indicador de velocidade e a velocidade real V(índice 2) a seguinte relação:
+
+a) Para ciclomotores: 0 =<(V(índice 1) - V(índice 2)) =<0,1.V(índice 2) + 4 km/h;
+
+b) Para motociclos e triciclos a motor: 0 =<(V(índice 1) - V(índice 2)) =<0,1.V(índice 2) + 8 km/h.
+
+## Anexo I — [n.º 7 do artigo 3.º e alínea a) do n.º 1 do artigo 5.º]
+
+Lista de requisitos para efeitos de homologação de um veículo
+
+Os elementos e características do veículo indicados nas rubricas que se seguem (lista exaustiva) são acompanhados da menção 'CONF' se a sua conformidade com os dados fornecidos pelo fabricante tiver de ser verificada ou da menção 'DE' se tiver de ser verificada a conformidade com as prescrições constantes da legislação comunitária.
+
+(Ter-se-ão em conta, sempre que adequado, o âmbito e as últimas alterações de cada uma das directivas específicas abaixo indicadas.)
+
+(ver quadro no documento original)
+
+Nota. - As directivas específicas deverão prever prescrições específicas para os ciclomotores de baixa potência, ou seja, os ciclomotores a pedal, com um motor auxiliar de potência inferior ou igual a 1 kW e com uma velocidade máxima de projecto inferior ou igual a 25 Km/h. Estas prescrições específicas aplicar-se-ão em particular aos componentes e características referidos nas rubricas n.os 18, 19, 29, 32, 33, 34, 41, 43 e 46 do presente anexo.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 238/2003 - Diário da República n.º 229/2003, Série I-A de 2003-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-2007-641686), em vigor a partir de 2003-10-04
+
+## Anexo II — (n.º 1 do artigo 4.º)
+
+Ficha de informações (ver nota a)
+
+(modelo)
+
+As seguintes informações, relativas ao veículo, à unidade técnica ou ao componente a homologar, devem ser fornecidas em triplicado e incluir um índice. Os desenhos devem ser fornecidos à escala adequada e com pormenor suficiente na dimensão A4 ou dobrados com essa dimensão. As fotografias devem ser suficientemente pormenorizadas. No caso de funções controladas por microprocessadores, devem ser fornecidas as informações relevantes relacionadas com o desempenho. A ficha de informações deve conter um número de ordem atribuído pelo requerente.
+
+A) Informações comuns relativas aos ciclomotores, motociclos, triciclos e quadriciclos
+
+0 - Generalidades:
+
+0.1 - Marca: ...
+
+0.2 - Modelo (especificar as eventuais variantes e versões: cada variante e cada versão deverá ser identificada por um código numérico ou alfanumérico): ...
+
+0.3 - Meios de identificação do modelo, se marcados no veículo (ver nota b): ...
+
+0.3.1 - Localização dessa marcação: ...
+
+0.4 - Categoria do veículo (ver nota c): ...
+
+0.5 - Nome e morada do fabricante: ...
+
+0.6 - Nome e morada do eventual mandatário do fabricante: ...
+
+0.7 - Localização e modo de fixação das placas e inscrições regulamentares no quadro:
+
+0.7.1 - Os números de série deste modelo começam no n.º: ...
+
+0.8 - Localização e modo de aposição da marca de homologação dos componentes e unidades técnicas: ...
+
+1 - Constituição geral do veículo:
+
+1.1 - Fotografias e ou desenhos de um veículo tipo: ...
+
+1.2 - Desenho cotado do veículo completo: ...
+
+1.3 - Número de eixos e de rodas (eventualmente, número de lagartas ou de rastos): ...
+
+1.4 - Localização e disposição do motor: ...
+
+2 - Massas (em quilogramas) (ver nota d):
+
+2.1 - Massa do veículo em ordem de marcha: ...
+
+2.1.1 - Distribuição dessa massa pelos eixos: ...
+
+2.2 - Massa do veículo em ordem de marcha com condutor: ...
+
+2.2.1 - Distribuição dessa massa pelos eixos: ...
+
+2.3 - Massa máxima tecnicamente admissível declarada pelo fabricante: ...
+
+2.3.1 - Distribuição dessa massa pelos eixos: ...
+
+2.3.2 - Massa máxima tecnicamente admissível sobre cada um dos eixos: ...
+
+2.4 - Capacidade de arranque em subida com a massa máxima tecnicamente admissível declarada pelo fabricante: ...
+
+2.5 - Massa máxima rebocável (se aplicável): ...
+
+3 - Motor (ver nota e):
+
+3.0 - Fabricante: ...
+
+3.1 - Marca: ...
+
+3.1.1 - Modelo (marcado no motor ou outros meios de identificação): ...
+
+3.2 - Motor de ignição comandada ou de ignição por compressão:
+
+3.2.1 - Características específicas do motor:
+
+3.2.1.1 - Modo de funcionamento: ignição comandada/ignição por compressão, quatro tempos/dois tempos (ver nota 1).
+
+3.2.1.2 - Número, disposição e ordem de inflamação dos cilindros: ...
+
+3.2.1.2.1 - Diâmetro: ... mm (ver nota f).
+
+3.2.1.2.2 - Curso: ... mm (ver nota f).
+
+3.2.1.3 - Cilindrada: ... cm3 (ver nota g).
+
+3.2.1.4 - Taxa de compressão volumétrica (ver nota 2): ...
+
+3.2.1.5 - Desenhos da cabeça, do(s) êmbolo(s), do(s) segmento(s) do(s) êmbolo(s) e do(s) cilindro(s): ...
+
+3.2.1.6 - Regime de ralenti (ver nota 2): ... min-1.
+
+3.2.1.7 - Potência máxima efectiva: ... kW a ... min-1.
+
+3.2.1.8 - Binário máximo efectivo: ... Nm a ... min-1.
+
+3.2.2 - Combustível: gasóleo/gasolina/mistura/gás de petróleo liquefeito/outros (ver nota 1).
+
+3.2.3 - Reservatório de combustível:
+
+3.2.3.1 - Capacidade máxima (ver nota 2): ...
+
+3.2.3.2 - Desenho do reservatório com indicação dos materiais utilizados: ...
+
+3.2.3.3 - Esquema que indique claramente a posição do reservatório no veículo: ...
+
+3.2.4 - Alimentação de combustível:
+
+3.2.4.1 - Por meio de carburador(es): sim/não (ver nota 1):
+
+3.2.4.1.1 - Marca(s): ...
+
+3.2.4.1.2 - Modelo(s): ...
+
+3.2.4.1.3 - Quantidade: ...
+
+3.2.4.1.4 - Regulações (ver nota 2):
+
+Quer:
+
+3.2.4.1.4.1 Pulverizações do carburador: ...
+
+3.2.4.1.4.2 - Nível na cuba: ...
+
+3.2.4.1.4.3 - Massa da bóia: ...
+
+3.2.4.1.4.4 Agulha de bóia: ...
+
+quer:
+
+3.2.4.1.4.5 - Curva de débito de combustível em função do débito de ar e indicação dos limites de regulação para respeitar a curva: ...
+
+3.2.4.1.5 - Sistema de arranque a frio: manual/automático (ver nota 1).
+
+3.2.4.1.5.1 - Princípio(s) de funcionamento: ...
+
+3.2.4.2 - Por injecção de combustível (ignição por compressão apenas): sim/não (ver nota 1).
+
+3.2.4.2.1 - Descrição do sistema: ...
+
+3.2.4.2.2 - Princípio de funcionamento: injecção directa/pré-câmara/câmara de turbulência (ver nota 1).
+
+3.2.4.2.3 - Bomba de injecção:
+
+Quer:
+
+3.2.4.2.3.1 - Marca(s): ...
+
+3.2.4.2.3.2 - Modelo(s): ...
+
+quer:
+
+3.2.4.2.3.3 - Débito máximo de combustível (ver nota 1) (ver nota 2): ... m3 por curso ou por ciclo à velocidade de rotação da bomba de: ... min-1 ou diagrama característico: ...
+
+3.2.4.2.3.4 - Regulação da injecção (ver nota 2): ...
+
+3.2.4.2.3.5 - Curva do avanço da injecção: (ver nota 2): ...
+
+3.2.4.2.3.6 - Procedimento de calibração: banco de ensaio/motor (ver nota 1).
+
+3.2.4.2.4 - Regulador:
+
+3.2.4.2.4.1 - Tipo: ...
+
+3.2.4.2.4.2 - Ponto de corte:
+
+3.2.4.2.4.2.1 - Ponto de corte em carga: ... min-1.
+
+3.2.4.2.4.2.2 - Ponto de corte sem carga: ... min-1.
+
+3.2.4.2.4.3 - Regime de ralenti: ... min-1.
+
+3.2.4.2.5 - Tubagem de injecção:
+
+3.2.4.2.5.1 - Comprimento: ... mm.
+
+3.2.4.2.5.2 - Diâmetro interno: ... mm.
+
+3.2.4.2.6 - Injector(es):
+
+Quer:
+
+3.2.4.2.6.1 - Marca(s): ...
+
+3.2.4.2.6.2 - Modelo(s): ...
+
+quer:
+
+3.2.4.2.6.3 - Pressão de abertura (ver nota 2): ... kPa ou diagrama característico (ver nota 2): ...
+
+3.2.4.2.7 - Sistema de arranque a frio (se existir):
+
+Quer:
+
+3.2.4.2.7.1 - Marca(s): ...
+
+3.2.4.2.7.2 - Modelo(s): ...
+
+quer:
+
+3.2.4.2.7.3 - Descrição: ...
+
+3.2.4.2.8 - Dispositivo auxiliar de arranque (se existir):
+
+Quer:
+
+3.2.4.2.8.1 - Marca(s): ...
+
+3.2.4.2.8.2 - Modelo(s): ...
+
+quer:
+
+3.2.4.2.8.3 - Descrição do sistema: ...
+
+3.2.4.3 - Por injecção de combustível (ignição comandada apenas): sim/não (ver nota 1):
+
+Quer:
+
+3.2.4.3.1 - Descrição do sistema: ...
+
+3.2.4.3.2 - Princípio de funcionamento: injecção no colector de admissão ponto único/multiponto (ver nota 1)/injecção directa/outro (especificar): ... (ver nota 1):
+
+quer:
+
+3.2.4.3.2.1 - Marca(s) da bomba de injecção: ...
+
+3.2.4.3.2.2 - Modelo(s) da bomba de injecção: ...
+
+3.2.4.3.3 - Injectores: pressão de abertura (ver nota 2): ... kPa ou diagrama característico (ver nota 2): ...
+
+3.2.4.3.4 - Regulação da injecção: ...
+
+3.2.4.3.5 - Sistema de arranque a frio:
+
+3.2.4.3.5.1 - Princípio(s) de funcionamento: ...
+
+3.2.4.3.5.2 - Limites/regulações de funcionamento (ver nota 1) (ver nota 2): ...
+
+3.2.4.4 - Bomba de alimentação: sim/não (ver nota 1).
+
+3.2.5 - Equipamento eléctrico:
+
+3.2.5.1 - Tensão nominal: ... V, terra positiva/negativa (ver nota 1).
+
+3.2.5.2 - Gerador:
+
+3.2.5.2.1 - Modelo: ...
+
+3.2.5.2.2 - Potência nominal: ...W.
+
+3.2.6 - Ignição:
+
+3.2.6.1 - Marca(s): ...
+
+3.2.6.2 - Modelo(s): ...
+
+3.2.6.3 - Princípio de funcionamento: ...
+
+3.2.6.4 - Curva de avanço da ignição, ou ponto de funcionamento característico (ver nota 2): ...
+
+3.2.6.5 - Regulação estática da ignição (ver nota 2): ... graus antes do PMS.
+
+3.2.6.6 - Folga dos platinados (ver nota 2): ... mm.
+
+3.2.6.7 - Ângulo de contacto (dwell) (ver nota 2): graus.
+
+3.2.6.8 - Supressor de interferências: ...
+
+3.2.6.8.1 - Terminologia e desenho do equipamento de supressão de interferências: ...
+
+3.2.6.8.2 - Indicação do valor nominal das resistências em corrente contínua e, para os cabos de ignição resistivos, indicação da resistência nominal por metro: ...
+
+3.2.7 - Sistema de arrefecimento (por líquido/por ar) (ver nota 1):
+
+3.2.7.1 - Regulação nominal do mecanismo de controlo da temperatura do motor: ...
+
+3.2.7.2 - Por líquido:
+
+3.2.7.2.1 - Natureza do líquido: ...
+
+3.2.7.2.2 - Bomba(s) da circulação: sim/não (ver nota 1).
+
+3.2.7.3 - Por ar:
+
+3.2.7.3.1 - Insuflador: sim/não (ver nota 1).
+
+3.2.8 - Sistema de admissão.
+
+3.2.8.1 - Sobrealimentador: sim/não (ver nota 1).
+
+3.2.8.1.1 - Marca(s): ...
+
+3.2.8.1.2 - Modelo(s): ...
+
+3.2.8.1.3 - Descrição do sistema [por exemplo, pressão máxima de sobrealimentação: ... kPa, válvula de descarga (se aplicável)].
+
+3.2.8.2 - Permutador intermédio: sim/não (ver nota 1).
+
+3.2.8.3 - Descrição e desenhos das tubagens de admissão e respectivos acessórios (câmara de admissão, dispositivo de aquecimento, entradas de ar adicionais, etc.): ...
+
+3.2.8.3.1 - Descrição do colector de admissão (incluir desenhos e ou fotografias): ...
+
+3.2.8.3.2 - Filtro de ar, desenhos: ... ou
+
+3.2.8.3.2.1 - Marca(s): ...
+
+3.2.8.3.2.2 - Modelo(s): ...
+
+3.2.8.3.3 - Silencioso de admissão, desenhos: ... ou ...
+
+3.2.8.3.3.1 - Marca(s): ...
+
+3.2.8.3.3.2 - Modelo(s): ...
+
+3.2.9 - Sistema de escape:
+
+3.2.9.1 - Desenho do sistema de escape completo: ...
+
+3.2.10 - Secções mínimas das janelas de admissão e de escape: ...
+
+3.2.11 - Distribuição ou dados equivalentes:
+
+3.2.11.1 - Elevação máxima das válvulas, ângulos de abertura e de fecho em relação aos pontos mortos ou indicações respeitantes à regulação de outros sistemas alternativos: ...
+
+3.2.11.2 - Gamas de referência e ou de regulação (ver nota 1):
+
+3.2.12 - Medidas tomadas contra a poluição do ar:
+
+3.2.12.1 - Dispositivo de reciclagem dos gases do cárter, unicamente para os motores a quatro tempos (descrição e desenhos): ...
+
+3.2.12.2 - Dispositivos antipoluição adicionais (se existirem e se não forem abrangidos por outra rubrica): ...
+
+3.2.12.2.1 - Catalisador: sim/não (*):
+
+3.2.12.2.1.1 - Número de catalisadores e elementos: ...
+
+3.2.12.2.1.2 - Dimensões, forma e volume do(s) catalisador(es): ...
+
+3.2.12.2.1.3 - Tipo de acção catalítica: ...
+
+3.2.12.2.1.4 - Carga total de metal precioso: ...
+
+3.2.12.2.1.5 - Concentração relativa: ...
+
+3.2.12.2.1.6 - Substrato (estrutura e material): ...
+
+3.2.12.2.1.7 - Densidade das células: ...
+
+3.2.12.2.1.8 - Tipo de alojamento do(s) catalisador(es): ...
+
+3.2.12.2.1.9 - Localização do(s) catalisador(es) (lugar e distância de referência na linha de escape): ...
+
+3.2.12.2.2 - Sonda de oxigénio: sim/não (*):
+
+3.2.12.2.2.1 - Tipo: ...
+
+3.2.12.2.2.2 - Localização: ...
+
+3.2.12.2.2.3 - Gama de controlo: ...
+
+3.2.12.2.3 - Injecção de ar: sim/não (*):
+
+3.2.12.2.3.1 - Tipo (ar pulsado, bomba de ar, etc.): ...
+
+3.2.12.2.4 - Recirculação dos gases de escape: sim/não (*):
+
+3.2.12.2.4.1 - Características (caudal, etc.): ...
+
+3.2.12.2.5 - Outros sistemas (descrição e funcionamento): ....
+
+3.2.13 - Localização do símbolo, do coeficiente de absorção (motores de ignição por compressão apenas): ...
+
+3.3 - Motor eléctrico de tracção:
+
+3.3.1 - Tipo (enrolamento, excitação): ...
+
+3.3.1.1 - Débito horário máximo: ... kW.
+
+3.3.1.2 - Tensão de funcionamento: ... V.
+
+3.3.2 - Bateria:
+
+3.3.2.1 - Número de elementos: ...
+
+3.3.2.2 - Massa:... kg.
+
+3.3.2.3 - Capacidade: ... Ah (ampere-hora).
+
+3.3.2.4 - Localização: ...
+
+3.4 - Outros motores ou suas combinações (pormenores relativos às partes de tais motores): ...
+
+3.5 - Temperaturas admitidas pelo fabricante:
+
+3.5.1 - Sistema de arrefecimento:
+
+3.5.1.1 - Arrefecimento por líquido:
+
+Temperatura máxima à saída: ... ºC.
+
+3.5.1.2 - Arrefecimento por ar:
+
+3.5.1.2.1 - Ponto de referência: ...
+
+3.5.1.2.2 - Temperatura máxima no ponto de referência: ... ºC.
+
+3.6 - Sistema de lubrificação:
+
+3.6.1 - Descrição do sistema:
+
+3.6.1.1 - Posição do reservatório do lubrificante (se existir): ...
+
+3.6.1.2 - Sistema de alimentação (por bomba/injecção na admissão/em mistura: com o combustível, etc.) (ver nota 1): ...
+
+3.6.2 - Mistura com combustível:
+
+3.6.2.1 - Percentagem: ...
+
+3.6.3 - Radiador de óleo: sim/não (ver nota 1):
+
+3.6.3.1 - Desenho(s): ... ou
+
+3.6.3.1.1 - Marca(s): ...
+
+3.6.3.1.2 - Modelo(s): ...
+
+4 - Transmissão (ver nota h):
+
+4.1 - Esquema do sistema de transmissão: ...
+
+4.2 - Tipo (mecânica, hidráulica, eléctrica, etc.): ...
+
+4.3 - Embraiagem (tipo): ...
+
+4.4 - Caixa de velocidades:
+
+4.4.1 - Tipo: automática/manual (ver nota 1).
+
+4.4.2 - Método de controlo: manual/por pedal (ver nota 1).
+
+4.5 - Relações de desmultiplicação das velocidades.
+
+(ver quadro no documento original)
+
+4.6 - Velocidade máxima do veículo e relação de transmissão na qual é atingida (em km/h) (ver nota i): ...
+
+4.7 - Indicador de velocidade: sim/não (ver nota 1):
+
+4.7.1 - Marca(s): ...
+
+4.7.2 - Modelo(s): ...
+
+4.7.3 - Fotografias e ou desenhos do sistema completo.
+
+4.7.4 - Gama de velocidades indicadas.
+
+4.7.5 - Tolerância do mecanismo de medição indicador de velocidade.
+
+4.7.6 - Constante técnica do indicador de velocidade.
+
+4.7.7 - Modo de funcionamento e descrição do mecanismo de transmissão.
+
+4.7.8 - Relação global de transmissão.
+
+5 - Suspensão:
+
+5.1 - Desenho dos componentes da suspensão: ...
+
+5.2 - Pneumáticos (categoria, dimensões e carga máxima) e jantes de montagem normal: ...
+
+5.2.1 - Perímetro de rolamento nominal: ...
+
+5.2.2 - Pressão dos pneumáticos recomendada pelo fabricante: ... kPa.
+
+5.2.3 - Combinação(ões) pneumático/jante: ...
+
+6 - Direcção:
+
+6.1 - Mecanismo e comando:
+
+6.1.1 - Tipo de mecanismo: ...
+
+7 - Travagem:
+
+7.1 - Esquema dos dispositivos de travagem: ...
+
+7.2 - Travão da frente e de trás, de disco e ou de tambor (ver nota 2):
+
+7.2.1 - Marca(s): ...
+
+7.2.2 - Modelo(s): ...
+
+7.3 - Desenho dos órgãos de travagem:
+
+7.3.1 - Maxilas e ou discos (ver nota 3): ...
+
+7.3.2 - Cintas e ou calços (4): ...
+
+7.3.3 - Alavancas e ou pedais de travão (5).
+
+7.3.4 - Reservatório(s) de líquido hidráulico se existir(em): ...
+
+7.4 - Outros dispositivos (se existirem), desenho e descrição: ...
+
+8 - Dispositivos de iluminação e sinalização luminosa:
+
+8.1 - Lista de todos os dispositivos [indicando número, marca(s), modelo, marca(s) de homologação, intensidade máxima das luzes de estrada, cor, avisador correspondente]: ...
+
+8.2 - Esquema de localização dos dispositivos de iluminação e sinalização luminosa: ...
+
+8.3 - Sinal de perigo (se existir): ...
+
+8.4 - Dispositivos suplementares para veículos especiais: ...
+
+9 - Equipamentos:
+
+9.1 - Dispositivos de engate (se existirem):
+
+9.1.1 - Tipo(s): gancho/anel/outro (6).
+
+9.1.2 - Fotografias e ou desenhos mostrando a posição e a construção do(s) dispositivo(s) de engate: ...
+
+9.2 - Disposição e identificação dos comandos, avisadores e indicadores:
+
+9.2.1 - Fotografias e ou desenhos da disposição dos símbolos, comandos, avisadores e indicadores: ...
+
+9.3 - Inscrições regulamentares:
+
+9.3.1 - Fotografias e ou desenhos das localizações das inscrições regulamentares e do número do quadro: ...
+
+9.3.2 - Fotografias e ou desenhos da parte oficial das inscrições (com indicação das dimensões): ...
+
+9.3.3 - Fotografias e ou desenhos do número do quadro (com indicação das dimensões): ...
+
+9.4 - Dispositivo(s) de protecção contra utilizações abusivas:
+
+9.4.1 - Tipo de dispositivo(s): ...
+
+9.4.2 - Descrição sumária do(s) dispositivo(s) utilizado(s): ...
+
+9.5 - Avisador(es) sonoro(s):
+
+9.5.1 - Descrição sumária do(s) dispositivo(s) utilizado(s) e fim a que se destina(m): ...
+
+9.5.2 - Marca(s): ...
+
+9.5.3 - Modelo(s): ...
+
+9.5.4 - Nome e morada do(s) fabricante(s): ...
+
+9.5.5 - Marca de homologação: ...
+
+9.5.6 - Desenho(s) mostrando a localização do(s) avisador(es) sonoro(s) em relação à estrutura do veículo: ...
+
+9.5.7 - Indicações relativas ao modo de fixação, incluindo a parte da estrutura do veículo onde o(s) avisador(es) sonoro(s) está(ão) fixado(s): ...
+
+9.6 - Localização da chapa de matrícula da retaguarda (indicar as eventuais variantes; incluir desenhos quando aplicável): ...
+
+9.6.1 - Inclinação do plano em relação à vertical: ...
+
+B) Informações relativas apenas aos ciclomotores de duas rodas e aos motociclos
+
+1 - Equipamentos:
+
+1.1 - Espelho(s) retrovisor(es) (indicar para cada espelho retrovisor):
+
+1.1.1 - Marca: ...
+
+1.1.2 - Marca de homologação: ...
+
+1.1.3 - Variante: ...
+
+1.1.4 - Desenho(s) mostrando a localização do(s) espelho(s) retrovisore(s) em relação à estrutura do veículo: ...
+
+1.1.5 - Pormenores do método de fixação, incluindo a parte da estrutura do veículo à qual o espelho retrovisor está fixado: ...
+
+1.2 - Descanso:
+
+1.2.1 - Tipo: central e ou lateral.
+
+1.2.2 - Desenho indicando a localização do(s) descanso(s) relativamente à estrutura do veículo: ...
+
+1.3 - Fixações para side-cars dos motociclos (se existirem):
+
+1.3.1 - Fotografias e ou desenhos da localização e da construção: ...
+
+1.4 - Dispositivos de fixação dos passageiros:
+
+1.4.1 - Tipo: correias e ou pegas: ...
+
+1.4.2 - Fotografias e ou desenhos da localização: ...
+
+C) Informações relativas apenas aos ciclomotores de três rodas, triciclos e quadriciclos
+
+1 - Dimensões e massas (em milímetros e quilogramas) (fazer eventualmente referência aos desenhos):
+
+1.1 - Dimensões a respeitar aquando da montagem de uma carroçaria num quadro não carroçado:
+
+1.1.1 - Comprimento: ...
+
+1.1.2 - Largura: ...
+
+1.1.3 - Altura sem carga: ...
+
+1.1.4 - Distância do eixo da frente à parte da frente do veículo: ...
+
+1.1.5 - Distância do eixo traseiro à retaguarda do veículo: ...
+
+1.1.6 - Posições limite do centro de gravidade do veículo com carroçaria: ...
+
+1.2 - Massas (ver nota d):
+
+1.2.1 - Carga útil máxima declarada pelo fabricante: ...
+
+2 - Equipamentos:
+
+2.1 - Carroçaria:
+
+2.1.1 - Natureza da carroçaria: ...
+
+2.1.2 - Desenho cotado global do interior: ...
+
+2.1.3 - Desenho cotado global do exterior: ...
+
+2.1.4 - Materiais e tipo de construção: ...
+
+2.1.5 - Portas dos ocupantes, fechos e dobradiças: ...
+
+2.1.6 - Configuração, dimensões, sentido de abertura e ângulo máximo de abertura das portas: ...
+
+2.1.7 - Desenho dos fechos e dobradiças e da respectiva posição nas portas: ...
+
+2.1.8 - Descrição técnica dos fechos e dobradiças: ...
+
+2.2 - Pára-brisas e outros vidros:
+
+2.2.1 - Pára-brisas:
+
+2.2.1.1 - Materiais utilizados: ...
+
+2.2.2 - Outros vidros:
+
+2.2.2.1 - Materiais utilizados: ...
+
+2.3 - Limpa-pára-brisas:
+
+2.3.1 - Descrição técnica pormenorizada (incluindo fotografias ou desenhos): ...
+
+2.4 - Lava pára-brisas:
+
+2.4.1 - Descrição técnica pormenorizada (incluindo fotografias ou desenhos): ...
+
+2.5 - Dispositivos de degelo e de desembaciamento:
+
+2.5.1 - Descrição técnica pormenorizada (incluindo fotografias ou desenhos): ...
+
+2.6 - Espelhos retrovisores (indicar para cada espelho):
+
+2.6.1 - Marca: ...
+
+2.6.2 - Marca de homologação: ...
+
+2.6.3 - Variante: ...
+
+2.6.4 - Desenho(s) mostrando a localização do(s) espelho(s) em relação à estrutura do veículo: ...
+
+2.6.5 - Pormenores do método de fixação, incluindo a parte da estrutura do veículo à qual o espelho retrovisor está fixado: ...
+
+2.7 - Bancos:
+
+2.7.1 - Número: ...
+
+2.7.2 - Localização: ...
+
+2.7.3 - Coordenadas ou desenho do ponto R (ver nota j):
+
+2.7.3.1 - Banco do condutor: ...
+
+2.7.3.2 - Outros lugares sentados: ...
+
+2.7.4 - Ângulo previsto de inclinação do encosto:
+
+2.7.4.1 - Banco do condutor: ...
+
+2.7.4.2 - Outros lugares sentados: ...
+
+2.7.5 - Gama de regulação do(s) banco(s) (caso exista):
+
+2.7.5.1 - Banco do condutor: ...
+
+2.7.5.2 - Outros lugares sentados: ...
+
+2.8 - Sistema de aquecimento do habitáculo (se existir):
+
+2.8.1 - Breve descrição do tipo de veículo no que diz respeito ao sistema de aquecimento se este utilizar o calor do líquido de arrefecimento do motor: ...
+
+2.8.2 - Descrição pormenorizada do modelo de veículo no que diz respeito ao sistema de aquecimento se o ar de arrefecimento ou os gases de escape do motor forem utilizados como fonte de calor, incluindo: ...
+
+2.8.2.1 - Esquema de conjunto do sistema de aquecimento mostrando a sua localização no veículo e disposição do equipamento de redução do ruído (incluindo a localização dos pontos de troca de calor): ...
+
+2.8.2.2 - Desenho de conjunto do permutador de calor dos sistemas de aquecimento que utilizam gases de escape como fonte de calor, ou das peças nas quais a troca de calor se realiza (para sistemas de aquecimento que utilizam o ar de arrefecimento do motor como fonte de calor): ...
+
+2.8.2.3 - Desenho em corte do permutador de calor ou das peças em que a troca de calor se realiza, indicando a espessura das paredes, os materiais utilizados e as características da superfície: ...
+
+2.8.2.4 - Especificações relativas a outros componentes importantes do sistema de aquecimento, tais como o ventilador, no que diz respeito ao método de construção e aos dados técnicos: ...
+
+2.9 - Cintos de segurança:
+
+2.9.1 - Número e localização dos cintos de segurança com indicação dos lugares nos quais estes equipamentos podem ser instalados: ...
+
+D/P: ...
+
+Marca completa de homologação: ...
+
+Variante (se aplicável): ...
+
+Lugares da frente:
+
+...
+
+Lugares traseiros:
+
+...
+
+Lugares traseiros centrais e lugares da frente centrais:
+
+...
+
+Dispositivos especiais (por exemplo, regulação dos bancos em altura, dispositivo de pré-carregamento, etc.):
+
+...
+
+D = lado do condutor.
+
+P = lado do passageiro da frente.
+
+2.10 - Fixações:
+
+2.10.1 - Número e localização das fixações: ...
+
+2.10.2 - Fotografias e ou desenhos da carroçaria mostrando a localização e dimensões das fixações reais e efectivas, com indicação do ponto R: ...
+
+2.10.3 - Desenhos das fixações e das partes da estrutura do veículo a que estão fixadas (com indicação da natureza dos materiais): ...
+
+2.10.4 - Designação dos tipos (ver nota 3) de cintos que podem ser montados nas fixações com as quais o veículo está equipado: ...
+
+(ver quadro no documento original)
+
+2.10.5 - Descrição de um tipo especial de cinto de segurança se uma fixação estiver localizada no encosto do banco ou incorporar um dispositivo de dissipação de energia.
+
+Notas
+
+(nota 1) Riscar o que não interessa.
+
+(nota 2) Especificar a(s) tolerância(s).
+
+(nota 3):
+
+«A» para um cinto de três pontos;
+
+«B» para um cinto subabdominal;
+
+«S» para os tipos especiais de cintos: neste caso, precisar a natureza desses tipos em «Observações»;
+
+«Ar», «Br» ou «Sr»: para os cintos que possuam retractores;
+
+«Are», «Bre» ou «Sre»: para os cintos equipados com retractores e dispositivos de absorção de energia pelo menos numa fixação.
+
+(nota a) Para qualquer dispositivo homologado, a descrição pode ser substituída por uma referência a essa homologação. Do mesmo modo, a descrição não é necessária em relação aos elementos claramente aparentes nos esquemas ou desenhos anexos à ficha. Devem ser indicados, para cada rubrica, a que se devem juntar fotografias ou desenhos, os números dos anexos correspondentes.
+
+(nota b) Os meios de identificação, se utilizados, devem aparecer apenas nos veículos, unidades técnicas ou componentes abrangidos pelo campo de aplicação da directiva específica que rege a homologação. Se os meios de identificação do tipo contiverem caracteres não relevantes para a descrição dos modelos de veículo/unidades técnicas/componentes abrangidos por esta ficha de informações, tais caracteres devem ser representados na documentação por meio do símbolo «?» (por exemplo: ABC??123??).
+
+(nota c) Classificação de acordo com as seguintes categorias:
+
+Ciclomotor de duas rodas;
+
+Ciclomotor de três rodas e quadriciclo ligeiro;
+
+Motociclo;
+
+Motociclo com side-car;
+
+Triciclo e quadriciclo.
+
+(nota d) - 1 - Massa sem carga: massa do veículo pronto a ser utilizado normalmente e munido dos seguintes equipamentos:
+
+Equipamento suplementar exigido unicamente para a utilização normal prevista;
+
+Equipamento eléctrico completo, incluindo os dispositivos de iluminação e de sinalização fornecidos pelo fabricante;
+
+Instrumentos e dispositivos exigidos pela legislação que determina a medição da massa sem carga do veículo;
+
+Complementos adequados de líquidos para assegurar o bom funcionamento de todas as partes do veículo.
+
+Observação. - O combustível e a mistura combustível/óleo não são incluídos na medição, mas elementos como o ácido da bateria, o fluido dos circuitos hidráulicos, o agente de arrefecimento e o óleo do motor devem ser incluídos.
+
+2 - Massa em ordem de marcha: massa sem carga à qual se adiciona a massa dos seguintes elementos:
+
+Combustível: reservatório cheio pelo menos até 90% da capacidade indicada pelo fabricante;
+
+Equipamento suplementar fornecido normalmente pelo fabricante além do necessário para o funcionamento normal (estojo de ferramentas, porta-bagagens, pára-brisas, equipamento de protecção, etc.).
+
+Observação. - No caso de veículo que funcione com uma mistura combustível/óleo:
+
+a) Quando o combustível e o óleo forem pré-misturados, a palavra «combustível» deve ser interpretada de modo a incluir a pré-mistura de combustível e de óleo;
+
+b) Quando o combustível e o óleo foram introduzidos separadamente, a palavra «combustível» deve ser interpretada de modo a incluir apenas a gasolina. O óleo, neste caso, já está incluído na medição da massa sem carga.
+
+3 - Massa máxima tecnicamente admissível: massa calculada pelo fabricante para condições de operação determinadas, tendo em conta elementos tais como a resistência dos materiais, a capacidade de carga dos pneumáticos, etc.
+
+4 - Carga útil máxima declarada pelo fabricante: carga obtida subtraindo a massa definida no n.º 2 com condutor da massa definida no n.º 3.
+
+5 - Atribui-se à massa do condutor o valor arbitrário de 75 kg.
+
+(nota e) No caso de motores e sistemas não convencionais, devem ser fornecidos pelo fabricante pormenores equivalentes aos aqui referidos.
+
+(nota f) Este valor deve ser arredondado para o décimo de milímetro mais próximo.
+
+(nota g) Este valor deve ser calculado com (pi) = 3,1416 e arredondado para o centímetro cúbico mais próximo.
+
+(nota h) Fornecer as informações pedidas para todas as variantes eventualmente previstas.
+
+(nota i) É admitida uma tolerância de 5%.
+
+(nota j) O «ponto R» ou «ponto de referência de lugar sentado» é o ponto de referência especificado pelo fabricante que:
+
+Tem coordenadas determinadas em relação à estrutura do veículo;
+
+Corresponde à posição teórica do ponto de rotação tronco/coxas (ponto H) para a posição de condução ou de utilização normal mais baixa e mais recuada indicada pelo fabricante do veículo para cada um dos lugares sentados previstos;
+
+Pode ser tomado como referência, com o acordo das autoridades competentes, para todos os lugares sentados, com excepção dos lugares da frente, em que o «ponto H» não possa ser determinado por meio do «sistema de referência tridimensional» ou dos processos de determinação do «ponto H».
+
+(*) Riscar o que não interessa.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 335/2007 - Diário da República n.º 196/2007, Série I de 2007-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-2007-641686), em vigor a partir de 2007-10-16
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 238/2003 - Diário da República n.º 229/2003, Série I-A de 2003-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2003-484390), em vigor a partir de 2003-10-04
+
+## Anexo III — (n.º 1 do artigo 7.º)
+
+Modelo
+
+[formato máximo: A4 (210 mm x 297 mm)]
+
+Certificado de homologação CE
+
+[Carimbo da autoridade administrativa]
+
+Comunicação relativa a:
+
+Homologação (ver nota 1);
+
+Prorrogação da homologação (ver nota 1);
+
+Recusa de homologação (ver nota 1);
+
+Revogação da homologação (ver nota 1);
+
+de um tipo de veículo no que diz respeito à Directiva n.º 2002/24/CE.
+
+Número da homologação: ...
+
+Razão da extensão: ...
+
+Anexos:
+
+Ficha de informações, partes 1 e 2 (anexo III);
+
+Resultado dos ensaios (anexo VI-A);
+
+Nome(s) e espécime(s) das assinaturas das pessoas autorizadas a assinar os certificados de conformidade e declaração da respectiva posição na sociedade;
+
+Modelo do certificado de conformidade.
+
+(nota 1) Riscar o que não interessa.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 238/2003 - Diário da República n.º 229/2003, Série I-A de 2003-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-2007-641686), em vigor a partir de 2003-10-04
+
+## Anexo IV — (artigo 9.º)
+
+Certificados de conformidade
+
+A) Certificado de conformidade que acompanha cada veículo da série a que pertence o tipo homologado
+
+(modelo)
+
+[Formato máximo: A4 (210 mm x 297 mm) ou dobrado em formato A4]
+
+Certificado de conformidade CE
+
+Lado 1:
+
+O abaixo assinado ... (nome completo), declara que o seguinte veículo:
+
+0.1 - Marca: ...(designação comercial do fabricante).
+
+0.2 - Tipo: ...
+
+Variante (ver nota 1): ...
+
+Versão (ver nota 1):...
+
+0.2.1 - Designação(ões) comercial(ais) (quando adequado): ...
+
+0.4 - Categoria do veículo (ver nota 2):...
+
+0.4.1 - Categoria do veículo nos termos da Directiva n.º 97/24/CE, capítulo 7 (se aplicável): A/B/C/D (ver nota 3).
+
+0.5 - Nome e endereço do fabricante: ...
+
+0.6 - Localização da chapa regulamentar (ver nota 4): ...
+
+Número de identificação do veículo: ...
+
+0.7 - Localização do número de identificação do veículo no quadro (ver nota 4): ...
+
+está conforme em todos os aspectos com o tipo descrito na homologação CE:
+
+Número de homologação CE: ...
+
+Data: ...
+
+O veículo pode ser matriculado a título definitivo, sem necessidade de novas homologações, para circulação pela direita/pela esquerda (ver nota 1) e para utilização de unidades métricas/unidades de medida do sistema imperial (ver nota 3) no velocímetro.
+
+... (local).
+
+... (data).
+
+... (assinatura).
+
+... (funções).
+
+Lado 2:
+
+Informações adicionais:
+
+1 - Número de eixos: ... e rodas: ...
+
+3 - Distância entre eixos: ... mm.
+
+6.1 - Comprimento: ... mm.
+
+7.1 - Largura: ... mm.
+
+8 - Altura: ... mm.
+
+12.1 - Massa do veículo carroçado em ordem de marcha: ... kg.
+
+12.2 - Massa do veículo sem carga: ... kg.
+
+14.1 - Massa máxima em carga tecnicamente admissível: ... kg.
+
+14.2 - Distribuição dessa massa pelos eixos:
+
+1) ... kg;
+
+2) ... kg.
+
+14.3 - Massa máxima tecnicamente admissível sobre cada eixo:
+
+1) ... kg;
+
+2) ... kg;
+
+17 - Massa máxima do reboque:
+
+(Com travões):... kg;
+
+(Sem travões): ... kg.
+
+19.1 - Carga vertical máxima no ponto de engate do reboque: ... kg.
+
+20 - Fabricante do motor: ...
+
+21 - Tipo do motor, marcado no motor: ...
+
+21.2 - Número do motor: ...
+
+22 - Princípio de funcionamento: eléctrico/ignição comandada/ignição por compressão, quatro tempos/dois tempos (ver nota 3).
+
+23 - Número e disposição dos cilindros: ... (ver nota 5).
+
+24 - Cilindrada: ... cm3.
+
+25 - Combustível: ... (ver nota 6).
+
+26 - Potência útil máxima ou potência nominal máxima contínua, consoante aplicável:
+
+... kW;
+
+a... min(elevado a -1).
+
+26.1 - Relação: potência útil máxima ou potência nominal máxima contínua/massa do veículo em ordem de marcha: ... (kW/kg).
+
+28 - Caixa de velocidades (tipo): ... (ver nota 7).
+
+29 - Relações de transmissão:
+
+1)...
+
+2)...
+
+3)...
+
+4)...
+
+5)...
+
+6)...
+
+32 - Designação da medida dos pneus:
+
+Eixo 1:...
+
+Eixo 2:...
+
+37 - Carroçaria sim/não (ver nota 1).
+
+41 - Número e configuração das portas (ver nota 8) (ver nota 9): ...
+
+42.1 - Número e localização dos bancos (ver nota 10): ...
+
+43.1 - Marca de homologação do dispositivo de engate, se existente: ...
+
+44 - Velocidade máxima: ... km/h.
+
+45 - Nível sonoro (ver nota 11):
+
+Imobilizado:... dB(A), sendo o regime do motor:... min(elevado a -1);
+
+Em movimento: ... dB(A).
+
+46. Gases de Escape (11)
+
+46.1. Número da norma Euro:... (1, 2 ou 3) (12)
+
+46.2. Ensaio do tipo I: CO:... g/km HC:... g/km NO(índice x)... g/km HC + NO(índice x):... g/km (13)
+
+46.3. Ensaio do tipo II: CO (13):... g/min HC (13): ... g/min CO (14):... % vol.
+
+Poluição visível do ar originada por um motor de ignição por compressão:
+
+valor corrigido do coeficiente de absorção:... m(elevado a -1)
+
+47 - Potência fiscal ou número(s) de código nacional(is), se aplicável:
+
+(ver documento original)
+
+50 - Observações: ...
+
+51 - Isenções: ...
+
+Notas
+
+(nota 1) Indicar igualmente o código de identificação numérico ou alfanumérico. Esse código não deve conter mais de 25 ou 35 caracteres para as variantes ou para as versões, respectivamente.
+
+(nota 2) Classificação em conformidade com as categorias do anexo II, nota de pé de página c.
+
+(nota 3) Riscar o que não interessa.
+
+(nota 4) Indicar a localização por meio dos seguintes códigos:
+
+R: lado direito do veículo;
+
+C: centro do veículo;
+
+L: lado esquerdo do veículo;
+
+x: distância horizontal (em mm) a partir do eixo dianteiro (precedida de «-», se estiver à frente do eixo dianteiro);
+
+y: distância horizontal (em mm) a partir do eixo longitudinal do veículo;
+
+z: distância (em mm) a contar do solo;
+
+(r/o): para ter acesso à marcação é necessário demonstrar ou abrir peças ou partes do veículo.
+
+Exemplo de uma chapa com o número de identificação do veículo montada do lado direito de um motociclo, 500 mm atrás do eixo dianteiro, a 30 mm do eixo longitudinal e a 1100 mm de altura:
+
+R, x500, y30, z1100.
+
+Exemplo de uma chapa com o número de identificação do veículo montada do lado direito de um quadriciclo, 100 mm à frente do eixo dianteiro, a 950 mm do eixo longitudinal e a 700 mm de altura, debaixo do capot:
+
+R, x-100, y950, z700 (r/o).
+
+(nota 5) Indicar a disposição dos cilindros por meio dos seguintes códigos:
+
+LI: em linha;
+
+V: em V;
+
+O: motor de cilindros opostos;
+
+S: motor de um único cilindro.
+
+(nota 6) Indicar o tipo de combustível por meio dos seguintes códigos:
+
+P: gasolina;
+
+D: gasóleo;
+
+M: mistura;
+
+LPG: gás de petróleo liquefeito;
+
+O: outros.
+
+(nota 7):
+
+M: manual;
+
+A: automático.
+
+(nota 8) Para veículos com carroçaria.
+
+(nota 9) Indicar a configuração por meio dos seguintes códigos:
+
+R: lado direito do veículo;
+
+L: lado esquerdo do veículo;
+
+F: frente do veículo;
+
+RE: retaguarda do veículo;
+
+Exemplo de um veículo com duas portas do lado esquerdo e uma porta do lado direito:
+
+2 L, 1 R.
+
+(nota 10) Indicar a posição por meio dos seguintes códigos:
+
+r(índice x): número da fila;
+
+R: lado direito do veículo;
+
+C: centro do veículo;
+
+L: lado esquerdo do veículo.
+
+Exemplo de um veículo com dois lugares à frente, um à esquerda, outro à direita, e três lugares atrás, um à esquerda, um ao centro e um à direita:
+
+r(índice 1): 1R,1L r(índice 2):1R,1C,1L
+
+(nota 11) Número da directiva de base e da última directiva de alteração aplicável à homologação. No caso de uma directiva com duas ou mais fases de implementação, indicar também a fase de implementação.
+
+B) Certificado de conformidade que acompanha cada unidade técnica ou componente não de origem da série a que pertence o tipo homologado.
+
+(12) Dependendo do número da diretiva pertinente e do último ato modificativo aplicável à homologação, a conformidade com a norma Euro 1, 2 ou 3 será determinada como segue:
+
+. Indicação do número da norma Euro, se a entidade homologadora assim o desejar, no caso de homologações efetuadas antes da data seguinte: 11 de dezembro de 2013;
+
+. No quadro constante do Anexo XXXIII-A do Regulamento Relativo a Determinados Elementos e Características dos Veículos a Motor de Duas e Três Rodas, aprovado pelo Decreto-Lei n.º 86-A/2010, de 15 de julho, a conformidade com a primeira linha de valores-limite equivale à conformidade com a norma "Euro 1" e a conformidade com a segunda linha de valores-limite, à conformidade com a da norma "Euro 2";
+
+. A plena conformidade com capítulo VI do regulamento referido no ponto anterior, que inclui a conformidade com a norma "Euro 2", combinada com o método de ensaio estabelecido nos artigos 145.º a 147.º do mesmo regulamento, equivale à conformidade com a norma "Euro 3";
+
+. No quadro constante do Anexo XXXVII-A do Regulamento Relativo a Determinados Elementos e Características dos Veículos a Motor de Duas e Três Rodas, a conformidade com:
+
+- as linhas de valores-limite na parte A do referido quadro, no tocante à classe I ((menor que) 150 cm3) e à classe II ((igual ou maior que) 150 cm3) equivalem à conformidade com a norma "Euro 2";
+
+- as linhas de valores-limite na parte B do mesmo quadro, no tocante à classe I ((menor que) 150 cm3) e à classe II ((igual ou maior que) 150 cm3) equivalem à conformidade com a norma "Euro 3";
+
+- as linhas de valores-limite na parte C do referido quadro, no tocante à classe I (v(índice max) (menor que) 130 km/h) e à classe II (v(índice max) (igual ou maior que) 130 km/h) equivalem à conformidade com a norma "Euro 3" nível.
+
+(13) Só para veículos das categorias L1e, L2e e L6e que satisfaçam as disposições constantes do Regulamento Relativo a Determinados Elementos e Características dos Veículos a Motor de Duas e Três Rodas, na sua última redação.
+
+(14) Para veículos da categoria L no âmbito de aplicação do artigo 1.º do Regulamento da Homologação de Veículos a Motor de Duas e Três Rodas e Respetivo Indicador de Velocidade, com exceção dos veículos das categorias L1e, L2e e L6e.
+
+Eu, abaixo assinado... (apelido, nome), declaro que a/o ... (unidade técnica ou componente):
+
+1) Marca: ...
+
+2) Tipo: ...
+
+3) Número de série do tipo: ...
+
+é conforme ao tipo homologado em ..., em..., por..., descrito no certificado de homologação n.º ... e na ficha de informações n.º ...
+
+Feito em: ..., ...
+
+...(assinatura).
+
+...(função).
+
+> Alterado pelo/a Anexo III do/a [Decreto-Lei n.º 139/2014 - Diário da República n.º 177/2014, Série I de 2014-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2014-56819090), em vigor a partir de 2014-09-16
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 148/2013 - Diário da República n.º 206/2013, Série I de 2013-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), em vigor a partir de 2013-10-25
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 238/2003 - Diário da República n.º 229/2003, Série I-A de 2003-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2003-484390), em vigor a partir de 2003-10-04
+
+## Anexo V — (n.º 2 do artigo 12.º)
+
+Numeração e marcação
+
+A) Sistema de numeração do certificado de homologação
+
+(n.º 3 do artigo 7.º)
+
+1 - O número de homologação compõe-se de:
+
+Quatro secções para as homologações de veículos, e cinco secções para as homologações de sistemas, componentes e unidades técnicas, de acordo com as disposições a seguir. Em todos os casos, as secções devem ser separadas por um asterisco '*':
+
+Secção 1:
+
+1 para a Alemanha;
+
+2 para a França;
+
+3 para a Itália;
+
+4 para os Países Baixos;
+
+5 para a Suécia;
+
+6 para a Bélgica;
+
+7 para a Hungria;
+
+8 para a República Checa;
+
+9 para a Espanha;
+
+11 para o Reino Unido;
+
+12 para a Áustria;
+
+13 para o Luxemburgo;
+
+17 para a Finlândia;
+
+18 para a Dinamarca;
+
+19 para a Roménia;
+
+20 para a Polónia;
+
+21 para Portugal;
+
+23 para a Grécia;
+
+24 para a Irlanda;
+
+25 para a Croácia;
+
+26 para a Eslovénia;
+
+27 para a Eslováquia;
+
+29 para a Estónia;
+
+32 para a Letónia;
+
+34 para a Bulgária;
+
+36 para a Lituânia;
+
+49 para Chipre;
+
+50 para Malta.
+
+Secção 2: o número da directiva de base;
+
+Secção 3: o número da última directiva de alteração aplicável à homologação.
+
+No caso das homologações de veículos, trata-se da última directiva que altera um artigo (ou artigos) do presente diploma.
+
+No caso das homologações de sistemas, componentes ou unidades técnicas, trata-se da última directiva específica que contém as disposições com as quais o sistema, o componente ou a unidade técnica estão em conformidade.
+
+Todavia, quando a directiva de base não tiver sido alterada, o seu número é repetido na secção 3.
+
+No caso de uma directiva incluir datas de entrada em aplicação diferentes que remetam para normas técnicas diferentes, deve ser acrescentada uma letra para indicar a norma com base na qual a homologação foi concedida.
+
+No caso de serem possíveis homologações de sistemas, de componentes ou de unidades técnicas com base em capítulos ou secções da mesma directiva específica, o número da directiva deverá ser seguido do número do capítulo (ver nota 1), anexo (ver nota 2) e apêndice (ver nota 3), para indicar o objecto da homologação. Esses números serão sempre separados por uma barra (/);
+
+Secção 4: um número sequencial de quatro algarismos (eventualmente com zeros iniciais) a identificar o número de homologação de base. A sequência começa em 0001 para cada directiva de base;
+
+Secção 5: um número sequencial de dois algarismos (eventualmente com um zero inicial) a identificar a prorrogação. A sequência começa em 00 para cada número de homologação de base.
+
+2 - No caso da homologação CE de veículos completos, é omitida a secção 2.
+
+3 - A secção 5 é omitida unicamente na chapa regulamentar.
+
+4 - Exemplo de segunda homologação concedida pelos Países Baixos nos termos da Directiva n.º 97/24/CE, capítulo 5, anexo II:
+
+e4*97/24*97/24/5/II*0002*00.
+
+5 - Exemplo de terceira homologação (prorrogação 1) concedida pela Itália nos termos da Directiva n.º 95/1/CE, anexo I:
+
+e3*95/1*95/1/I*0003*01.
+
+6 - Exemplo de nona homologação (prorrogação 4) concedida pelo Reino Unido nos termos da Directiva n.º 93/29/CEE, com a redacção que lhe foi dada pela Directiva n.º 2000/47/CE:
+
+e11*93/29*2000/74*0009*04.
+
+7 - Exemplo de quarta homologação de um veículo (prorrogação 2) concedida pela Alemanha nos termos da Directiva n.º 92/61/CEE:
+
+e1*92/61*0004*02.
+
+8 - Exemplo de número de homologação de um veículo estampado na respectiva chapa regulamentar:
+
+e1*92/61*0004.
+
+(nota 1) Em algarismos árabes.
+
+(nota 2) Em algarismos romanos.
+
+(nota 3) Em algarismos árabes e maiúsculas, se aplicável.
+
+B) Marca de homologação
+
+1 - A marca de homologação dos componentes ou unidades técnicas compõe-se de:
+
+1.1 - Um rectângulo no interior do qual está colocada a letra minúscula 'e', seguida do número distintivo do Estado membro que concedeu a homologação, ou seja:
+
+1 para a Alemanha;
+
+2 para a França;
+
+3 para a Itália;
+
+4 para os Países Baixos;
+
+5 para a Suécia;
+
+6 para a Bélgica;
+
+7 para a Hungria;
+
+8 para a República Checa;
+
+9 para a Espanha;
+
+11 para o Reino Unido;
+
+12 para a Áustria;
+
+13 para o Luxemburgo;
+
+17 para a Finlândia;
+
+18 para a Dinamarca;
+
+19 para a Roménia;
+
+20 para a Polónia;
+
+21 para Portugal;
+
+23 para a Grécia;
+
+24 para a Irlanda;
+
+25 para a Croácia;
+
+26 para a Eslovénia;
+
+27 para a Eslováquia;
+
+29 para a Estónia;
+
+32 para a Letónia;
+
+34 para a Bulgária;
+
+36 para a Lituânia;
+
+49 para Chipre;
+
+50 para Malta.
+
+2 - A marca de homologação deve ser aposta na unidade técnica ou no componente de modo indelével e bem legível, mesmo que a unidade técnica ou componente esteja instalado no veículo.
+
+3 - No apêndice ao presente anexo dá-se um exemplo de marca de homologação.
+
+Apêndice
+
+Exemplo de marca de homologação
+
+(ver marca no documento original)
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 148/2013 - Diário da República n.º 206/2013, Série I de 2013-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), em vigor a partir de 2013-10-25
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 335/2007 - Diário da República n.º 196/2007, Série I de 2007-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-2007-641686), em vigor a partir de 2007-10-16
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 238/2003 - Diário da República n.º 229/2003, Série I-A de 2003-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2003-484390), em vigor a partir de 2003-10-04
+
+## Anexo VI — (n.º1 do artigo 6.º)
+
+Disposições relativas à verificação da conformidade da produção
+
+1 - Para verificar se os veículos, os sistemas, as unidades técnicas e os componentes são produzidos por forma a assegurar a sua conformidade com o tipo homologado, aplicam-se as seguintes disposições:
+
+1.1 - O titular do certificado de homologação tem de:
+
+1.1.1 - Garantir que existem procedimentos de fiscalização efectiva da qualidade do produto;
+
+1.1.2 - Ter acesso ao equipamento de controlo necessário para conferir a conformidade de cada tipo de veículo, sistema, unidade técnica ou componente homologados;
+
+1.1.3 - Assegurar que os dados relativos aos resultados dos ensaios sejam registados e que os documentos apensos sejam conservados pelo prazo de 12 meses a contar da produção;
+
+1.1.4 - Analisar os resultados de cada tipo de ensaio por forma a controlar e manter a conformidade das características do produto, atendendo devidamente às variações na produção industrial;
+
+1.1.5 - Tomar medidas para assegurar que os ensaios prescritos na directiva específica pertinente sejam realizados para cada tipo de produto;
+
+1.1.6 - Tomar medidas para assegurar que cada recolha de amostras ou de provetes que evidencia não conformidade para o ensaio em causa seja seguida de nova recolha de amostras e novo ensaio. Devem ser tomadas todas as medidas necessárias para restabelecer a conformidade da produção em causa.
+
+1.2 - As autoridades competentes que emitem o certificado de homologação podem controlar a qualquer momento os métodos utilizados para verificar a conformidade em cada unidade de produção.
+
+1.2.1 - No momento de cada inspecção devem ser facultados ao inspector os registos dos ensaios e da produção.
+
+1.2.2 - O inspector pode escolher aleatoriamente as amostras a ensaiar no laboratório do fabricante. O número mínimo de amostras pode ser determinado em conformidade com os resultados dos controlos efectuados pelo fabricante.
+
+1.2.3 - Sempre que o nível de qualidade se afigure insatisfatório ou quando parecer necessário controlar a validade dos ensaios efectuados em conformidade com o n.º 1.2.2, o inspector deve recolher amostras, que serão enviadas ao organismo técnico que efectuou os ensaios da homologação.
+
+1.2.4 - As autoridades competentes podem efectuar todos os ensaios prescritos na ou nas directivas específicas aplicáveis ao ou aos produtos em causa.
+
+1.2.5 - As autoridades competentes devem autorizar uma inspecção por ano. Se for necessário efectuar um número diferente de inspecções, tal será especificado em cada uma das directivas específicas. Se se observarem resultados negativos durante a inspecção a autoridade competente deve assegurar que sejam tomadas todas as medidas necessárias para restabelecer, logo que possível, a conformidade da produção.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 238/2003 - Diário da República n.º 229/2003, Série I-A de 2003-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2003-484390), em vigor a partir de 2003-10-04
+
+## Anexo VI-A — Resultados dos ensaios
+
+(n.º 1 do artigo 7.º)
+
+(esta folha deve ser preenchida pela autoridade competente em matéria de homologação e enviada apensa ao certificado de homologação do veículo)
+
+Convém indicar em todos os casos a que variante ou versão se aplica a informação. Não deve haver mais de um resultado por versão.
+
+1 - Resultados dos ensaios de nível sonoro - número da directiva de base e da última directiva de alteração aplicável à homologação. No caso de uma directiva com duas ou mais fases de implementação, indicar também a fase da implementação:
+
+Variante/versão: ...
+
+Em marcha dB(A): ...
+
+Imobilizado dB(A): ...
+
+Ao regime de (min(elevado a -1)): ...
+
+2. Resultados dos ensaios de emissões
+
+Número da diretiva pertinente e respetivos atos de alteração aplicáveis à homologação. No caso de uma diretiva com duas ou mais fases de implementação, indicar também a fase de implementação e o número da norma Euro:
+
+Variante/versão: ...
+
+Número da norma Euro (1): ...
+
+2.1. Ensaio do tipo I
+
+CO: ... g/km
+
+HC (3): ... g/km
+
+NO(índice x) (3) ... g/km
+
+HC + NO(índice x) (2): ... g/km
+
+CO(índice 2) (2): ... g/km
+
+Consumo de combustível (2): ... l/100km
+
+2.2. Tipo II
+
+CO (g/min) (2) ...
+
+HC (g/min) (2) ...
+
+CO (% vol) (3) à velocidade normal de marcha lenta sem carga ...
+
+Especificar a velocidade de marcha lenta sem carga (3) (4): ...
+
+CO (% vol) (3) à velocidade elevada de marcha lenta sem carga ...
+
+Especificar a velocidade de marcha lenta sem carga (3) (4): ...
+
+Temperatura do óleo do motor (3) (5): ...
+
+3. ...
+
+(1) Ver nota de rodapé 12 no anexo IV.
+
+(2) Só para veículos das categorias L1e, L2e e L6e.
+
+(3) Para veículos da categoria L no âmbito de aplicação do artigo 1.º do Regulamento da Homologação de Veículos a Motor de Duas e Três Rodas e Respetivo Indicador de Velocidade, com exceção dos veículos das categorias L1e, L2e e L6e.
+
+(4) Referir a tolerância da medição.
+
+(5) Aplicável apenas aos motores a quatro tempos.
+
+3 - Motor de ignição por compressão:
+
+Variante/versão: ...
+
+Valor corrigido do coeficiente de absorção (m(elevado a -1)): ...
+
+(nota 1) Apenas para os motociclos e quadriciclos ligeiros definidos no artigo 2.º
+
+(nota 2) Apenas para os motociclos e triciclos a motor e para os quadriciclos definidos no artigo 2.º
+
+(nota 3) Referir a tolerância da medição.
+
+(nota 4) Aplicável apenas aos motores a quatro tempos.
+
+> Alterado pelo/a Anexo III do/a [Decreto-Lei n.º 139/2014 - Diário da República n.º 177/2014, Série I de 2014-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2014-56819090), em vigor a partir de 2014-09-16
+
+> Alterado pelo/a Anexo II do/a [Decreto-Lei n.º 14/2005 - Diário da República n.º 6/2005, Série I-A de 2005-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2005-457048), em vigor a partir de 2005-01-15
+
+> Aditado pelo/a Anexo VI-A do/a [Decreto-Lei n.º 238/2003 - Diário da República n.º 229/2003, Série I-A de 2003-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2003-484390)
+
+## Anexo VI-B — Veículos de fim de série
+
+(artigo 19.º-A)
+
+O número máximo de veículos colocados em circulação em cada Estado membro nos termos de n.os 4 a 6 do artigo 19.º-A é limitado a uma das seguintes possibilidades, ao critério do Estado membro, quer:
+
+a) O número máximo de veículos de um ou mais tipos não deve exceder 10% dos veículos do conjunto dos tipos em questão colocados em circulação nesse Estado membro no ano anterior. Se estes 10% corresponderem a menos de 100 veículos, o Estado membro pode autorizar a colocação em circulação de 100 veículos no máximo; quer
+
+b) O número de veículos de cada tipo, seja qual for, é limitado aos veículos com certificado de conformidade válido emitido na data de fabrico ou depois dessa data, e que tenha permanecido válido, pelo menos, por três meses após a data de emissão, mas que tenha perdido subsequentemente a validade devido à entrada em vigor de uma directiva específica.
+
+O certificado de conformidade dos veículos em circulação ao abrigo deste procedimento deve conter uma menção especial.
+
+> Aditado pelo/a Anexo VI-B do/a [Decreto-Lei n.º 238/2003 - Diário da República n.º 229/2003, Série I-A de 2003-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2003-484390), em vigor a partir de 2003-10-04
+
+## Anexo VI-C — Quadro de correspondência
+
+(ver quadro no documento original)
+
+> Aditado pelo/a Anexo VI-C do/a [Decreto-Lei n.º 238/2003 - Diário da República n.º 229/2003, Série I-A de 2003-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2003-484390), em vigor a partir de 2003-10-04
+
+## Anexo VII — [n.º 3, alínea e), do artigo 24.º]
+
+Quadro de velocidades
+
+(ver quadro no documento original)
+
+## Anexo VIII — (n.º 2 do artigo 22.º)
+
+Ficha de informações
+
+Sobre o indicador de velocidade de modelo de um veículo a motor de duas ou três rodas
+
+(a juntar ao pedido de homologação, se for independente do pedido de homologação do veículo)
+
+Número de ordem (atribuído pelo requerente).
+
+No que diz respeito ao indicador de velocidade, o pedido de homologação de um modelo de veículo a motor de duas ou de três rodas deve ser acompanhado das informações que figuram nos pontos da parte A do anexo II da Directiva n.º 92/61/CEE (Portaria n.º 973/94, de 31 de Outubro) a seguir indicados:
+
+0.1;
+
+0.2;
+
+0.5;
+
+0.6;
+
+2.1;
+
+2.1.1;
+
+4.7 a 4.7.8;
+
+5.2;
+
+5.2.2.
+
+## Anexo IX — (n.º 2 do artigo 22.º)
+
+Certificado de homologação
+
+Relativo ao indicador de velocidade de um veículo a motor de duas ou três rodas
+
+(modelo)
+
+Indicação da autoridade competente ...
+
+[ ]
+
+Relatório n.º ... do serviço técnico ... em ...
+
+Número de homologação: ...
+
+Número de extensão: ...
+
+1 - Marca de fábrica ou de comércio do veículo: ...
+
+2 - Modelo de veículo: ...
+
+3 - Nome e morada do fabricante: ...
+
+4 - Nome e morada do eventual mandatário do fabricante: ...
+
+5 - Veículo apresentado ao ensaio em: ...
+
+6 - A homologação é concedida/recusada (ver nota 1): ...
+
+7 - Local: ...
+
+8 - Data: ...
+
+9 - Assinatura: ...
+
+(nota 1) Riscar o que não interessa.

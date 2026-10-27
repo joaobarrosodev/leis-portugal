@@ -1,0 +1,190 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:180470:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-34436775",
+ "dre_path": "/dr/detalhe/decreto-lei/20-1999-180470",
+ "source_lastmod": "2024-09-26",
+ "versions": [
+  {
+   "date": "1999-01-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "47614175",
+    "47614275",
+    "47614375",
+    "47614475",
+    "47614575",
+    "47614675",
+    "47614775",
+    "47614875"
+   ]
+  },
+  {
+   "date": "2007-11-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:629414:por",
+     "title": "Decreto-Lei n.º 360/2007",
+     "published": "2007-11-02",
+     "dre_path": "/dr/detalhe/decreto-lei/360-2007-629414"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 7.º"
+   ],
+   "fragments": [
+    "47614175",
+    "889157776",
+    "889157777",
+    "889157778",
+    "889157779",
+    "889157780",
+    "47614775",
+    "889157781",
+    "47619875"
+   ]
+  }
+ ],
+ "fragments": {
+  "47614175": {
+   "fragment_id": "35056575",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A experiência adquirida com a aplicação da regulamentação comunitária em vigor desde 1 de Janeiro de 1988, relativa à contrafacção, revelou a existência de lacunas e deficiências que justificavam profundas alterações, de modo a alcançar um maior grau de eficácia.\n\nA conclusão do Acordo sobre os Aspectos dos Direitos de Propriedade Intelectual Relativos ao Comércio (ADPIC), sob os auspícios do GATT, tornando mais premente a necessidade de alteração daquele quadro normativo, levou à adopção do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=1994&id=394R3295\" title=\"Link para Regulamento da Comunidade Europeia\">3295/94</a>, do Conselho, de 22 de Dezembro de 1994, publicado no Jornal Oficial das Comunidades Europeias, L 341, de 30 de Dezembro de 1994, que estabelece medidas destinadas a proibir a introdução em livre prática, a exportação, a reexportação e a colocação sob um regime suspensivo das mercadorias de contrafacção e das mercadorias pirata.\n\nDeterminadas disposições do Regulamento remetem para o direito interno de cada Estado membro a definição das suas condições de aplicação, o que, para uma maior clareza jurídica, implica a reformulação do Decreto-Lei n.º 160/88, de 13 de Maio, adoptado em aplicação da regulamentação comunitária que cessou entretanto a sua vigência.\n\nNeste quadro, importa reafirmar a competência da autoridade aduaneira para decidir sobre o pedido de intervenção aduaneira, manter a exigência da prestação de uma garantia destinada a cobrir a eventual responsabilidade civil do requerente face às pessoas abrangidas pelas operações susceptíveis de serem objecto da intervenção aduaneira e a assegurar o pagamento dos encargos resultantes da manutenção das mercadorias sob controlo aduaneiro, nomeadamente as despesas de armazenagem das mercadorias durante o prazo de suspensão do desalfandegamento ou da detenção, prever expressamente a ausência de responsabilidade dos serviços aduaneiros no caso de, oficiosamente, serem tomadas medidas de intervenção aduaneira em aplicação do artigo 4.º do Regulamento, reajustar a taxa devida pelo tratamento administrativo do referido pedido.\n\nImporta, ainda, clarificar o enquadramento, em sede penal, das infracções previstas neste quadro normativo, matéria na qual o Governo está autorizado a legislar, nos termos previstos no n.º 2 do artigo 49.º da Lei n.º 127-B/97, de 20 de Dezembro.\n\nNo uso da autorização legislativa concedida pelo n.º 2 do artigo 49.º da Lei n.º 127-B/97, de 20 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "47614275": {
+   "fragment_id": "35622175",
+   "type": 11,
+   "heading": "Artigo 1.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Competência\n\n1 - Para efeitos de aplicação do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=1994&id=394R3295\" title=\"Link para Regulamento da Comunidade Europeia\">3295/94</a>, do Conselho, de 22 de Dezembro de 1994, adiante designado por Regulamento, compete ao director-geral das Alfândegas e dos Impostos Especiais sobre o Consumo decidir sobre o pedido de intervenção aduaneira.\n\n2 - O Instituto Nacional da Propriedade Industrial (INPI), a Sociedade Portuguesa de Autores (SPA) ou qualquer outra entidade tecnicamente habilitada em matéria de direitos de propriedade intelectual prestará à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC) todo o apoio técnico que esta lhe solicitar.\n\n3 - A decisão a que se refere o n.º 1 deverá ser proferida no prazo máximo de 10 dias, a contar da data da entrada do pedido na DGAIEC."
+  },
+  "47614375": {
+   "fragment_id": "35622275",
+   "type": 11,
+   "heading": "Artigo 2.º — Prestação de garantia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Prestação de garantia\n\n1 - O director-geral das Alfândegas e dos Impostos Especiais sobre o Consumo, ou a pessoa em quem este delegar os respectivos poderes, pode exigir ao requerente, no momento da efectiva intervenção aduaneira, a prestação de uma garantia.\n\n2 - O montante da garantia será calculado tendo em conta os elementos constantes do pedido de intervenção aduaneira, o valor da mercadoria, bem como quaisquer outros elementos que a administração aduaneira considere relevantes para o efeito."
+  },
+  "47614475": {
+   "fragment_id": "35622375",
+   "type": 11,
+   "heading": "Artigo 3.º — Intervenção aduaneira a título oficioso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Intervenção aduaneira a título oficioso\n\nAs medidas de intervenção aduaneira tomadas pelas respectivas autoridades, antes da apresentação de um pedido de intervenção, não conferem ao declarante ou ao detentor das mercadorias direito a qualquer indemnização."
+  },
+  "47614575": {
+   "fragment_id": "35622475",
+   "type": 11,
+   "heading": "Artigo 4.º — Taxa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Taxa\n\nPelo pedido de intervenção aduaneira é devida a taxa prevista no n.º VIII) do artigo 6.º da tabela II anexa à Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965."
+  },
+  "47614675": {
+   "fragment_id": "35622575",
+   "type": 11,
+   "heading": "Artigo 5.º — Reforma aduaneira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Reforma aduaneira\n\nO n.º VIII) do artigo 6.º da tabela II anexa à Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, introduzido pelo Decreto-Lei n.º 160/88, de 13 de Maio, passa a ter a seguinte redacção:\n\n«Artigo 6.º\n\nOutros serviços a requerimento de partes:\n\n...\n\nVIII) Pedidos de intervenção aduaneira formulados pelos titulares dos direitos de propriedade intelectual abrangidos pelo Regulamento (CE) n.º <a href=\"eurlex.asp?ano=1994&id=394R3295\" title=\"Link para Regulamento da Comunidade Europeia\">3295/94</a>, do Conselho, de 22 de Dezembro de 1994.\n\nPor cada pedido:\n\nVálido por um mês - 10000$00;\n\nCada mês ou fracção, além do primeiro - 5000$00.»"
+  },
+  "47614775": {
+   "fragment_id": "35622675",
+   "type": 11,
+   "heading": "Artigo 6.º — Decreto-Lei n.º 28/84, de 20 de Janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Decreto-Lei n.º 28/84, de 20 de Janeiro\n\nO artigo 23.º do Decreto-Lei n.º 28/84, de 20 de Janeiro, passa a ter a seguinte redacção:\n\n«Artigo 23.º\n\nFraude sobre mercadorias\n\n1 - Quem, com intenção de enganar outrem nas relações negociais, fabricar, transformar, introduzir em livre prática, importar, exportar, reexportar, colocar sob um regime suspensivo, tiver em depósito ou em exposição para venda, vender ou puser em circulação por qualquer outro modo mercadorias:\n\na) Contrafeitas ou mercadorias pirata, falsificadas ou depreciadas, fazendo-as passar por autênticas, não alteradas ou intactas;\n\nb) ...\n\n2 - ...\n\n3 - ...\n\n4 - ...»"
+  },
+  "47614875": {
+   "fragment_id": "35622775",
+   "type": 11,
+   "heading": "Artigo 7.º — Legislação revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Legislação revogada\n\nÉ revogado o Decreto-Lei n.º 160/88, de 13 de Maio."
+  },
+  "889157776": {
+   "fragment_id": "35622175",
+   "type": 11,
+   "heading": "Artigo 1.º — Competência",
+   "in_force_from": "2007-11-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 360/2007 - Diário da República n.º 211/2007, Série I de 2007-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-2007-629414), em vigor a partir de 2007-11-05"
+   ],
+   "markdown": "###### Artigo 1.º — Competência\n\n1 - Para efeitos de aplicação do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=1994&id=394R3295\" title=\"Link para Regulamento da Comunidade Europeia\">3295/94</a>, do Conselho, de 22 de Dezembro de 1994, adiante designado por Regulamento, compete ao director-geral das Alfândegas e dos Impostos Especiais sobre o Consumo decidir sobre o pedido de intervenção aduaneira.\n\n2 - O Instituto Nacional da Propriedade Industrial (INPI), a Sociedade Portuguesa de Autores (SPA) ou qualquer outra entidade tecnicamente habilitada em matéria de direitos de propriedade intelectual prestará à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC) todo o apoio técnico que esta lhe solicitar.\n\n3 - A decisão a que se refere o n.º 1 deverá ser proferida no prazo máximo de 10 dias, a contar da data da entrada do pedido na DGAIEC.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 360/2007 - Diário da República n.º 211/2007, Série I de 2007-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-2007-629414), em vigor a partir de 2007-11-05"
+  },
+  "889157777": {
+   "fragment_id": "35622275",
+   "type": 11,
+   "heading": "Artigo 2.º — Prestação de garantia",
+   "in_force_from": "2007-11-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 360/2007 - Diário da República n.º 211/2007, Série I de 2007-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-2007-629414), em vigor a partir de 2007-11-05"
+   ],
+   "markdown": "###### Artigo 2.º — Prestação de garantia\n\n1 - O director-geral das Alfândegas e dos Impostos Especiais sobre o Consumo, ou a pessoa em quem este delegar os respectivos poderes, pode exigir ao requerente, no momento da efectiva intervenção aduaneira, a prestação de uma garantia.\n\n2 - O montante da garantia será calculado tendo em conta os elementos constantes do pedido de intervenção aduaneira, o valor da mercadoria, bem como quaisquer outros elementos que a administração aduaneira considere relevantes para o efeito.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 360/2007 - Diário da República n.º 211/2007, Série I de 2007-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-2007-629414), em vigor a partir de 2007-11-05"
+  },
+  "889157778": {
+   "fragment_id": "35622375",
+   "type": 11,
+   "heading": "Artigo 3.º — Intervenção aduaneira a título oficioso",
+   "in_force_from": "2007-11-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 360/2007 - Diário da República n.º 211/2007, Série I de 2007-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-2007-629414), em vigor a partir de 2007-11-05"
+   ],
+   "markdown": "###### Artigo 3.º — Intervenção aduaneira a título oficioso\n\nAs medidas de intervenção aduaneira tomadas pelas respectivas autoridades, antes da apresentação de um pedido de intervenção, não conferem ao declarante ou ao detentor das mercadorias direito a qualquer indemnização.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 360/2007 - Diário da República n.º 211/2007, Série I de 2007-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-2007-629414), em vigor a partir de 2007-11-05"
+  },
+  "889157779": {
+   "fragment_id": "35622475",
+   "type": 11,
+   "heading": "Artigo 4.º — Taxa",
+   "in_force_from": "2007-11-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 360/2007 - Diário da República n.º 211/2007, Série I de 2007-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-2007-629414), em vigor a partir de 2007-11-05"
+   ],
+   "markdown": "###### Artigo 4.º — Taxa\n\nPelo pedido de intervenção aduaneira é devida a taxa prevista no n.º VIII) do artigo 6.º da tabela II anexa à Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 360/2007 - Diário da República n.º 211/2007, Série I de 2007-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-2007-629414), em vigor a partir de 2007-11-05"
+  },
+  "889157780": {
+   "fragment_id": "35622575",
+   "type": 11,
+   "heading": "Artigo 5.º — Reforma aduaneira",
+   "in_force_from": "2007-11-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 360/2007 - Diário da República n.º 211/2007, Série I de 2007-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-2007-629414), em vigor a partir de 2007-11-05"
+   ],
+   "markdown": "###### Artigo 5.º — Reforma aduaneira\n\nO n.º VIII) do artigo 6.º da tabela II anexa à Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, introduzido pelo Decreto-Lei n.º 160/88, de 13 de Maio, passa a ter a seguinte redacção:\n\n«Artigo 6.º\n\nOutros serviços a requerimento de partes:\n\n...\n\nVIII) Pedidos de intervenção aduaneira formulados pelos titulares dos direitos de propriedade intelectual abrangidos pelo Regulamento (CE) n.º <a href=\"eurlex.asp?ano=1994&id=394R3295\" title=\"Link para Regulamento da Comunidade Europeia\">3295/94</a>, do Conselho, de 22 de Dezembro de 1994.\n\nPor cada pedido:\n\nVálido por um mês - 10000$00;\n\nCada mês ou fracção, além do primeiro - 5000$00.»\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 360/2007 - Diário da República n.º 211/2007, Série I de 2007-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-2007-629414), em vigor a partir de 2007-11-05"
+  },
+  "889157781": {
+   "fragment_id": "35622775",
+   "type": 11,
+   "heading": "Artigo 7.º — Legislação revogada",
+   "in_force_from": "2007-11-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 360/2007 - Diário da República n.º 211/2007, Série I de 2007-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-2007-629414), em vigor a partir de 2007-11-05"
+   ],
+   "markdown": "###### Artigo 7.º — Legislação revogada\n\nÉ revogado o Decreto-Lei n.º 160/88, de 13 de Maio.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 360/2007 - Diário da República n.º 211/2007, Série I de 2007-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-2007-629414), em vigor a partir de 2007-11-05"
+  },
+  "47619875": {
+   "fragment_id": "35622875",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 10 de Dezembro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim.\n\nPromulgado em 18 de Janeiro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 19 de Janeiro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

@@ -1,0 +1,155 @@
+---
+schema_version: '1.0'
+id: pt:dre:203337483:por
+title: Portaria n.º 762/2022
+short_title: null
+summary: Amplia a área classificada do «Pórtico da igreja matriz (manuelino) de Belas», redenomina a classificação para «Igreja
+  de Nossa Senhora da Misericórdia, matriz de Belas, incluindo o património móvel integrado e o adro» e altera a categoria
+  de classificação para monumento de interesse público (MIP)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Cultura - Gabinete da Secretária de Estado da Cultura
+proposing_entity: null
+official_number: 762/2022
+official_date: null
+publication_date: '2022-11-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 218/2022, Série II de 2022-11-11
+  number: '218'
+  series: II
+  supplement: null
+  pages: 151 - 152
+  pdf_url: https://files.diariodarepublica.pt/2s/2022/11/218000000/0015100152.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '203337483'
+  dre_path: /dr/detalhe/portaria/762-2022-203337483
+  internal: pt:dre:203337483:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/762-2022-203337483
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/762-2022-203337483
+  consolidated_url: null
+  retrieved_at: '2026-10-23T17:46:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7cc1bb76971b3e0f8fc8c465bd098ec0c0e8f951d5ca3b1a27028c2715f56cc5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:46:15Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- BENS Classificados
+- Igreja
+- Imóvel Classificado
+- Interesse Público
+- Património Cultural
+- Património Histórico
+- Protecção do Património
+- Sintra
+relationships:
+- type: cites
+  target: pt:dre:174335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184306970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:209221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T17:46:15Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 762/2022
+
+O Pórtico da igreja matriz (manuelino) de Belas foi classificado como edifício de valor artístico, arqueológico e histórico pelo [Decreto n.º 8252](https://diariodarepublica.pt/dr/detalhe/decreto/8252-1922-174335), publicado no Diário do Governo, 1.ª série, n.º 138, de 10 de julho de 1922, classificação convertida para imóvel de interesse público (IIP) pelo [Decreto n.º 11 445](https://diariodarepublica.pt/dr/detalhe/decreto/11445-1926-209221), de 13 de fevereiro de 1924 (inserido na coleção do 1.º Semestre de 1926).
+
+A Igreja Matriz de Belas, de invocação de Nossa Senhora da Misericórdia, ergue-se no largo do mesmo nome, na povoação do concelho de Sintra. Tratar-se-á de uma edificação do início de Quinhentos, que sofreu várias campanhas de obras subsequentes, e de cuja feição original é superior testemunho o singelo, porém elegante, pórtico manuelino, rematado em arco canopial.
+
+No interior do templo destacam-se o teto em masseira com pintura de brutesco, as telas e os silhares de azulejos da nave e da capela-mor, e o conjunto retabular, em talha. No exterior, merece realce a unidade formada pelo edifício e pelo adro fronteiro, seu prolongamento natural e simbólico, e elemento facilitador da sua leitura arquitetónica e espacial.
+
+Deste modo, e à luz dos atuais critérios de classificação, bem como ao valor cultural e artístico e à coerência e integridade da totalidade do imóvel, foi decidida a ampliação da classificação do Pórtico da igreja matriz de Belas de forma a incluir toda a igreja, o património móvel integrado e o adro.
+
+Assim, pela presente portaria, procede-se:
+
+i) À ampliação da área classificada, de forma a abranger toda a igreja, o património móvel integrado e o adro;
+
+ii) À redenominação da classificação para Igreja de Nossa Senhora da Misericórdia, matriz de Belas, incluindo o património móvel integrado e o adro;
+
+iii) À alteração da categoria de classificação para monumento de interesse público (MIP), de acordo com a legislação em vigor.
+
+A ampliação da classificação da Igreja de Nossa Senhora da Misericórdia, matriz de Belas, incluindo o património móvel integrado e o adro, reflete os critérios constantes do artigo 17.º da [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de setembro, relativos ao caráter matricial do bem, ao seu interesse como testemunho simbólico ou religioso, ao seu valor estético, técnico e material intrínseco, à sua conceção arquitetónica e urbanística, e à sua extensão e ao que nela se reflete do ponto de vista da memória coletiva.
+
+Foram cumpridos os procedimentos de audição dos interessados, previstos no artigo 27.º da referida lei e no artigo 25.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, na sua redação atual, de acordo com o disposto no Código do Procedimento Administrativo.
+
+Assim:
+
+Ao abrigo do disposto no n.º 2 do artigo 28.º da [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de setembro, no n.º 2 do artigo 30.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, na sua redação em vigor, nos termos do artigo 21.º do [Decreto-Lei n.º 32/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2022-183159328), de 9 de maio, e no uso das competências delegadas pelo [Despacho n.º 7052/2022](https://diariodarepublica.pt/dr/detalhe/despacho/7052-2022-184306970), publicado no Diário da República, 2.ª série, n.º 107, de 2 de junho de 2022, manda o Governo, pela Secretária de Estado da Cultura, o seguinte:
+
+###### Artigo único — Classificação
+
+1 - É ampliada a área classificada do «Pórtico da igreja matriz (manuelino) de Belas», classificado como edifício de valor artístico, arqueológico e histórico pelo [Decreto n.º 8252](https://diariodarepublica.pt/dr/detalhe/decreto/8252-1922-174335), publicado no Diário do Governo, 1.ª série, n.º 138, de 10 de julho de 1922, classificação convertida para imóvel de interesse público (IIP) pelo [Decreto n.º 11 445](https://diariodarepublica.pt/dr/detalhe/decreto/11445-1926-209221), de 13 de fevereiro de 1924 (inserido na coleção do 1.º Semestre de 1926), passando a abranger toda a igreja, o património móvel integrado e o adro, conforme planta constante do anexo à presente portaria, da qual faz parte integrante.
+
+2 - O monumento referido no número anterior passa a ser designado por «Igreja de Nossa Senhora da Misericórdia, matriz de Belas, incluindo o património móvel integrado e o adro», em Belas, União das Freguesias de Queluz e Belas, concelho de Sintra, distrito de Lisboa.
+
+3 - É alterada a categoria de classificação para monumento de interesse público (MIP), de acordo com a legislação em vigor.
+
+24 de outubro de 2022. - A Secretária de Estado da Cultura, Isabel Alexandra Rodrigues Cordeiro.
+
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/2s/2022/11/218000000/0015100152.pdf)
+
+315844657

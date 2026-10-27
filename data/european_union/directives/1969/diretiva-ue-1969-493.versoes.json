@@ -1,0 +1,128 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31969L0493:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01969L0493-20070101",
+ "dre_path": null,
+ "source_lastmod": "2007-01-01",
+ "versions": [
+  {
+   "date": "1969-12-29",
+   "future": false,
+   "celex": "31969L0493",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "05fe54891624c14e",
+    "093911ecdb2d248f",
+    "bbc52bdfc6816148",
+    "7c55561eb17177cc",
+    "5d286fcd6852ef15",
+    "cf4f621bad7cb235",
+    "2205000a76d182e1",
+    "a378c2bcf99fbd3b",
+    "e001273ab4c02baf",
+    "09cc6582279acf04",
+    "59f611a8e8a6b962",
+    "47b07b07f60504d1"
+   ]
+  }
+ ],
+ "fragments": {
+  "05fe54891624c14e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 69/493/CEE do Conselho, de 15 de Dezembro de 1969, relativa à aproximação das legislações dos Estados-Membros respeitantes ao vidro cristal** *Jornal Oficial nº L 326 de 29/12/1969 p. 0036 - 0039 Edição especial finlandesa: Capítulo 13 Fascículo 1 p. 0115 Edição especial dinamarquesa: Série I Capítulo 1969(II) p. 0581 Edição especial sueca: Capítulo 13 Fascículo 1 p. 0115 Edição especial inglesa: Série I Capítulo 1969(II) p. 0599 Edição especial grega: Capítulo 13 Fascículo 1 p. 0042 Edição especial espanhola: Capítulo 13 Fascículo 1 p. 0170 Edição especial portuguesa: Capítulo 13 Fascículo 1 p. 0170*\n\nDIRECTIVA DO CONSELHO de 15 de Dezembro de 1969 relativa à aproximação das legislações dos Estados-membros respeitantes ao vidro cristal\n\n(69/493/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social,\n\nConsiderando que em alguns Estados-membros, a possibilidade de uma denominação especial dos produtos de vidro cristal e a obrigação daí resultante no que se refere à composição desses produtos são objecto de regulamentações diferentes; que essas diferenças entravam o comércio desses produtos e podem estar na origem de distorções de concorrência na Comunidade;\n\nConsiderando que estes obstáculos ao estabelecimento e funcionamento do mercado comum podem ser eliminados se as mesmas prescrições forem adoptadas por todos os Estados-membros;\n\nConsiderando que, no que diz respeito às denominações previstas para as diversas categorias de vidro cristal, assim como para as características destas categorias, as disposições comunitárias a fixar têm por fim proteger, por um lado, o comprador contra as fraudes, e por outro lado, o fabricante que cumpre estas disposições;\n\nConsiderando que, para a elaboração de uma regulamentação comunitária, é necessário estabelecer métodos uniformes com vista à determinação das propriedades químicas e físicas dos produtos de vidro cristal que se integrem nas denominações fixadas pela presente directiva,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "093911ecdb2d248f": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nA presente directiva aplica-se aos produtos enumerados na posição 70.13 da pauta aduaneira comum."
+  },
+  "bbc52bdfc6816148": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nOs Estados-membros tomarão todas as medidas necessárias para que a composição, as características de fabrico, a etiquetagem e qualquer forma de publicidade dos produtos referidos no artigo 1o correspondam às definições e regras previstas na presente directiva e seus anexos."
+  },
+  "7c55561eb17177cc": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nOs Estados-membros tomarão todas as medidas necessárias para que as denominações que figuram na coluna b) do Anexo I não possam ser utilizadas no comércio para designar outros produtos que não os que possuam as características especificadas nas colunas d) a g) do Anexo I."
+  },
+  "5d286fcd6852ef15": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Se um produto abrangido pela presente directiva utilizar uma das denominações referidas na coluna b) do Anexo I, pode igualmente utilizar o símbolo de identificação tal como é definido nas colunas h) e i) do Anexo I da presente directiva.\n\n2. No caso de a marca de fábrica, a firma de uma empresa ou qualquer outra inscrição incluir quer a título principal, quer a título adjectivo ou de raiz, uma das denominações previstas nas colunas b) e c) do Anexo I ou que possa originar confusão com estas, os Estados-membros devem tomar as medidas necessárias de forma a que, em letras bem visíveis, figure imediatamente a seguir à marca, à firma ou à inscrição:\n\na) A denominação do produto, quando este possui as características especificadas nas colunas d) a g) do Anexo I;\n\nb) A indicação da natureza exacta do produto, quando este não possui as características especificadas nas colunas d) a g) do Anexo I."
+  },
+  "cf4f621bad7cb235": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nAs denominações e os símbolos de identificação no Anexo I podem figurar na mesma etiqueta."
+  },
+  "2205000a76d182e1": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nA correspondência entre as denominações e os símbolos de identificação, por um lado, e as características que figuram nas colunas d) a g) do Anexo I, por outro lado, só pode ser verificada pela utilização dos métodos definidos no Anexo II."
+  },
+  "a378c2bcf99fbd3b": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nOs produtos destinados a serem exportados para fora da Comunidade não se encontram abrangidos pelo disposto na presente directiva."
+  },
+  "e001273ab4c02baf": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nOs Estados-membros tomarão todas as medidas necessárias para darem cumprimento à presente directiva no prazo de 18 meses a contar da data da sua notificação. Desse facto informarão imediatamente a Comissão. A partir da notificação da presente directiva, os Estados-membros devem assegurar que a Comissão seja informada, em tempo útil que lhe permita apresentar as suas observações, de qualquer projecto posterior de disposições essenciais de natureza legislativa, regulamentar ou administrativa que tenham a intenção de adoptar no domínio regulado pela presente directiva."
+  },
+  "09cc6582279acf04": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 15 de Dezembro de 1969.\n\nPelo Conselho\n\nO Presidente\n\nH. J. DE KOSTER\n\n(1) JO no C 108 de 19. 10. 1968, p. 35."
+  },
+  "59f611a8e8a6b962": {
+   "fragment_id": "ANEXO I — LISTA DAS CATEGORIAS DE VIDRO CRISTAL",
+   "type": "divisao",
+   "heading": "ANEXO I — LISTA DAS CATEGORIAS DE VIDRO CRISTAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — LISTA DAS CATEGORIAS DE VIDRO CRISTAL"
+  },
+  "47b07b07f60504d1": {
+   "fragment_id": "ANEXO II — MÉTODOS DE DETERMINAÇÃO DAS PROPRIEDADES QUÍMICAS E FÍSICAS DAS CATEGORIAS DE VIDRO DE CRISTAL",
+   "type": "divisao",
+   "heading": "ANEXO II — MÉTODOS DE DETERMINAÇÃO DAS PROPRIEDADES QUÍMICAS E FÍSICAS DAS CATEGORIAS DE VIDRO DE CRISTAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — MÉTODOS DE DETERMINAÇÃO DAS PROPRIEDADES QUÍMICAS E FÍSICAS DAS CATEGORIAS DE VIDRO DE CRISTAL\n\n1. ANÁLISES QUÍMICAS\n\n1.1. BaO e PbO\n\n1.1.1. Dosagem da combinação: BaO + PbO\n\nPesar 0,5 g de pó de vidro, com a precisão de 0,0001 g e introduzi-lo numa cápsula de platina. Humedecer com água e juntar 10 ml de uma solução de ácido sulfúrico a 15 % e 10 ml de ácido fluorídrico. Aquecer em banho de areia até libertação de fumos brancos. Deixar arrefecer e tratar de novo com 10 ml de ácido fluorídrico. Aquecer até ao reaparecimento de fumos brancos. Deixar arrefecer e lavar as paredes da cápsula com água. Aquecer de novo até ao reaparecimento de fumos brancos. Deixar arrefecer, juntar cuidadosamente 10 ml de água, e transferir para um copo de precipitação de 400 ml. Lavar a cápsula várias vezes com uma solução de ácido sulfúrico a 10 % e diluir a 100 ml com a mesma solução. Levar à ebulição durante 2 a 3 minutos. Deixar em repouso durante uma noite.\n\nFiltrar num cadinho filtrante de porosidade 4, lavar primeiro com uma solução de ácido sulfúrico a 10 % e depois, duas ou três vezes, com álcool etílico. Secar durante uma hora em estufa a 150 ° C. Pesar Bas04 + PbSO4.\n\n1.1.2. Dosagem de BaO\n\nPesar 0,5 g de pó de vidro, com uma precisão de 0,0001 g, e introduzi-lo numa cápsula de platina. Humedecer com água e juntar 10 ml de ácido fluorírico e 5 ml de ácido perclórico. Aquecer em banho de areia até libertação de fumos brancos.\n\nDeixar arrefecer e adicionar, de novo, 10 ml de ácido fluorídrico. Aquecer até ao reaparecimento de fumos brancos. Deixar arrefecer e lavar as paredes da cápsula com água destilada. Aquecer de novo e evaporar quase à secura. Recomeçar com 50 ml de ácido clorídrico a 10 % e aquecer ligeiramente para facilitar a dissolução. Transferir para um copo de precipitação de 400 ml e diluir a 200 ml com água. Levar à ebulição e fazer passar uma corrente de sulfureto de hidrogénio na solução quente. Assim que o precipitado de sulfureto de chumbo se deposite no fundo do copo, parar a corrente gasosa. Filtrar com papel de filtro de textura apertada e lavar com água fria saturada de sulfureto de hidrogénio.\n\nLevar à ebulição os filtrados e, eventualmente, reduzi-los a 300 ml por evaporação. Adicionar, em ebulição, 10 ml de uma solução de ácido sulfúrico a 10 %. Retirar do lume e deixar em repouso pelo menos quatro horas.\n\nFiltrar com papel de filtro de textura apertada, lavar com água fria. Calcinar o precipitado a 1050 ° C. Pesar BaSO4.\n\n1.2. Dosagem de ZnO\n\nEvaporar os filtrados resultantes da separação de BaSO4 de maneira a reduzir o seu volume a 200 ml. Neutralizar com amónia em presença de vermelho de metilo e adicionar 20 ml de ácido sulfúrico N/10. Levar o pH a 2 (pH-metro) por adição de ácido sulfúrico N/10 ou de soda cáustica N/10, conforme o caso, e precipitar a frio o sulfureto de zinco por passagem de uma corrente de sulfureto de hidrogénio. Deixar depositar o precipitado durante 4 horas, recolhendo-o depois num papel de filtro de textura apertada. Lavar com água fria saturada de sulfureto de hidrogénio. Dissolver o precipitado no filtro, lançando sobre ele 25 ml de uma solução quente de ácido clorídrico a 10 %. Lavar o filtro com água a ferver até à obtenção de um volume de aproximadamente 150 ml. Neutralizar com amónia em presença de papel de tornesol, adicionar 1 a 2 g de urotropina sólida para estabilizar o pH em cerca de 5. Deitar algumas gotas de uma solução aquosa a 0,5 % de laranja de xilenol, recentemente preparada, e titular com uma solução de complexona III N/10 até viragem do rosa para amarelo-limão.\n\n1.3. Dosagem de K2O\n\nPor precipitação e pesagem do tetrafenilborato de K.\n\nAtaque: 2 g de vidro são atacadas após moagem e peneiração\n\npor 2 ml HNO3\n\n15 ml HCLO4\n\n25 ml HF\n\nem cápsula de platina em banho-maria, e depois em banho de areia. Após o desaparecimento dos intensos fumos perclóricos (até quase à secura), dissolver em 20 ml de água quente e 2 a 3 ml de HCl concentrado.\n\nTransferir para um balão aferido de 200 ml e perfazer o volume com água destilada.\n\nReagentes: Solução de tetrafenilborato de sódio a 6 %: Dissolver 1,5 g do reagente em 250 ml de água destilada. Eliminar a ligeira turvação remanescente juntando 1 g de alumina hidratada, agitar 5 minutos e filtrar, voltando a passar no filtro os primeiros 20 ml obtidos.\n\nSolução de lavagem do precipitado: Preparar um pouco de sal de K por precipitação numa solução de cerca de 0,1 g de KCl com 50 ml de HCl N/10, à qual se adiciona a solução de tetrafenilborato, agitando até que cesse a precipitação. Filtrar através de vidro poroso. Lavar com água destilada. Secar em exsicador à temperatura ambiente. Deitar 20- 30 mg deste sal em 250 ml de água destilada. Agitar de tempos a tempos. Ao fim de 30 minutos, juntar 0,5- 1 g de alumina hidratada. Agitar alguns minutos. Filtrar.\n\nModo operatório: Retirar da solução clorídrica de ataque um volume correspondente a cerca de 10 mg de K2O. Diluir a 100 ml aproximadamente. Deitar lentamente a solução do reagente, ou seja 10 ml por 5 mg de K2O expectáveis, agitando moderadamente. Deixar em repouso 15 minutos no máximo, e em seguida filtrar num cadinho tarado com placa de vidro sinterizado de porosidade 3 ou 4. Lavar com solução de lavagem. Secar 30 minutos a 120 ° C. Factor de conversão 0,13143 para K2O.\n\n1.4. Tolerâncias\n\n± 0,1 em valor absoluto, para cada dosagem.\n\nSe a análise apresentar um valor, dentro das tolerâncias, inferior aos limites fixados (30, 24 ou 10 %), deve ser tomada a média de pelo menos três análises. Se for superior ou igual respectivamente a 29,95, 23,95 ou 9,95, o vidro deve ser aceite nas categorias correspondentes a 30, 24 e 10 %, respectivamente.\n\n2. DETERMINAÇÕES FÍSICAS\n\n2.1. Densidade\n\nMétodo da balança hidrostática a ± 0,01 de precisão. Uma amostra de pelo menos 20 g é pesada ao ar e pesada imersa em água destilada a 20 ° C.\n\n2.2. Índice de refracção\n\nO índice é medido por um refractómetro com uma precisão de ± 0,001.\n\n2.3. Microdureza\n\nA dureza Vickers é medida segundo a norma ASTM E 92-65 (Revisão 1965), mas utilizando uma carga de 50 g e considerando a média de 15 determinações."
+  }
+ }
+}

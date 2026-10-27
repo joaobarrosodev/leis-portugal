@@ -1,0 +1,668 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31989L0655:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0655-20091023",
+ "dre_path": null,
+ "source_lastmod": "2009-10-23",
+ "versions": [
+  {
+   "date": "1989-12-30",
+   "future": false,
+   "celex": "31989L0655",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8761883deb7b9ab4",
+    "0f7791c15411df69",
+    "ba6a0551423cd6f6",
+    "cf6c5184e8eb2339",
+    "186a25d89f003de5",
+    "0c77dc9b5743fd26",
+    "a5d87de3d20be118",
+    "d99d4912355bb84a",
+    "41b2ab82e1fc342f",
+    "be22b8f7b75899d7",
+    "178b7f7fade4da51",
+    "1b7b3b4ff5b9b28a",
+    "6c684323d330fc61",
+    "c2aa5a41197cd692",
+    "8cbc4edb6372d635"
+   ]
+  },
+  {
+   "date": "2007-06-27",
+   "future": false,
+   "celex": "01989L0655-20070627",
+   "acts": [
+    {
+     "id": "eu:celex:31995L0063:por",
+     "title": "DIRECTIVA 95/63/CE DO CONSELHO de 5 de Dezembro de 1995",
+     "published": null,
+     "celex": "31995L0063"
+    },
+    {
+     "id": "eu:celex:32001L0045:por",
+     "title": "DIRECTIVA 2001/45/CE do PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 27 de Junho de 2001",
+     "published": null,
+     "celex": "32001L0045"
+    },
+    {
+     "id": "eu:celex:32007L0030:por",
+     "title": "DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de Junho de 2007",
+     "published": null,
+     "celex": "32007L0030"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita SECÇÃO I",
+    "Adita Disposições gerais",
+    "Adita Artigo 1.º — Objecto",
+    "Adita Artigo 2.º — Definições",
+    "Adita SECÇÃO II",
+    "Adita OBRIGAGAÇÕES DAS ENTIDADES PATRONAIS",
+    "Adita Artigo 3.º — Obrigações gerais",
+    "Adita Artigo 4.º — Regras relativas aos equipamentos de trabalho",
+    "Adita Artigo 4.º A — Verificações dos equipamentos de trabalho",
+    "Adita Artigo 5.º — Equipamentos de trabalho que apresentam riscos específicos",
+    "Adita Artigo 5.º A — Ergonomia e saúde no trabalho",
+    "Adita Artigo 6.º — Informação dos trabalhadores",
+    "Adita Artigo 7.º — Formação dos trabalhadores",
+    "Adita Artigo 8.º — Consulta e participação dos trabalhadores",
+    "Adita SECÇÃO III",
+    "Adita DISPOSIÇÕES DIVERSAS",
+    "Adita Artigo 9.º — Alteração [►M1](http://publications.europa.eu/resource/celex/31995L0063) dos anexos◄",
+    "Adita Artigo 10.º — Disposições finais",
+    "Adita Artigo 11.º",
+    "Adita ANEXO [►M1](http://publications.europa.eu/resource/celex/31995L0063) I◄",
+    "Adita PRESCRIÇÕES MÍNIMAS REFERIDAS NO N.º 1, ALÍNEA a), SUBALÍNEA ii), E ALÍNEA b), DO ARTIGO 4.º",
+    "Adita 1. Observação prévia",
+    "Adita 2. Prescrições mínimas gerais aplicáveis aos equipamentos de trabalho",
+    "Adita 3. Prescrições mínimas suplementares aplicáveis a equipamentos de trabalho específicos",
+    "Adita 3.1. Prescrições mínimas aplicáveis aos equipamentos de trabalho móveis, automotores ou não.",
+    "Adita 3.2. Prescrições mínimas aplicáveis aos equipamentos de trabalho destinados à elevação de cargas.",
+    "Adita ANEXO II",
+    "Adita Disposições relativas à utilização dos equipamentos de trabalho referidos no n.º 3 do artigo 4.º",
+    "Adita 0. Observação prévia",
+    "Adita 1. Disposições de ordem geral aplicáveis a todos os equipamentos de trabalho",
+    "Adita 2. Disposições para a utilização de equipamentos de trabalho móveis, automotores ou não",
+    "Adita 3. Disposições relativas à utilização de equipamentos de trabalho destinados à elevação de cargas",
+    "Adita 3.1. Generalidades",
+    "Adita 3.2 Equipamentos de trabalho destinados à elevação de cargas não guiadas.",
+    "Adita 4. Disposições relativas à utilização dos equipamentos de trabalho disponibilizados para trabalhos temporários em altura",
+    "Adita 4.1. Disposições gerais",
+    "Adita 4.2. Disposições específicas relativas à utilização de escadas",
+    "Adita 4.3. Disposições específicas relativas à utilização de andaimes",
+    "Adita 4.4. Disposições específicas relativas à utilização de técnicas de acesso e de posicionamento por meio de cordas",
+    "Adita Notas",
+    "Suprime SECÇÃO I — Disposições gerais",
+    "Suprime Artigo 1º — Objecto",
+    "Suprime Artigo 2º — Definições",
+    "Suprime SECÇÃO II — OBRIGAÇÕES DAS ENTIDADES PATRONAIS",
+    "Suprime Artigo 3º — Obrigações gerais",
+    "Suprime Artigo 4º — Regras relativas aos equipamentos de trabalho",
+    "Suprime Artigo 5º — Equipamentos de trabalho que apresentam riscos",
+    "Suprime Artigo 6º — Informação dos trabalhadores",
+    "Suprime Artigo 7º — Formação dos trabalhadores",
+    "Suprime Artigo 8º — Consulta e participação dos trabalhadores",
+    "Suprime SECÇÃO III — DISPOSIÇÕES DIVERSAS",
+    "Suprime Artigo 9º — Alteração do anexo",
+    "Suprime Artigo 10º — Disposições finais",
+    "Suprime Artigo 11º"
+   ],
+   "fragments": [
+    "c1dcf51ff3521c75",
+    "19572906891c0646",
+    "7fabed8a0a46afb5",
+    "84667a2bc36ee556",
+    "8aebe9f9307439d7",
+    "0b50b9972a75b595",
+    "d3f99ad8adb11329",
+    "16be18766f59c622",
+    "3d61d0e09685551c",
+    "70fb38d2a89d655c",
+    "8bf6cb131b60052a",
+    "0935a22fbe66790e",
+    "389d6b1e504d9bbf",
+    "0c26f37dd4ad7dd8",
+    "6ece21b75df45cad",
+    "b4f1bfdbc841cf04",
+    "4f0027fbf9863594",
+    "68a21f57a5b73c27",
+    "8ac4df0703ae924d",
+    "40b91f3ad7775481",
+    "4e676aef473bfb95",
+    "6a9262c1b8d489dd",
+    "92b0f817744ffdbc",
+    "fb81751254a8bb9d",
+    "7e641d7b774dd35b",
+    "c42da2b10ca8c93b",
+    "3ce41c140dbc9da6",
+    "852174729551523b",
+    "815ee8528978eb99",
+    "589d06040d6a1cf8",
+    "720cdb207a4847e8",
+    "e72fde555c1b6c56",
+    "d9a9b28ee6c347b0",
+    "48e4f4989699417d",
+    "4fe9f105cc016c41",
+    "d28db50ee094e17d",
+    "d09a5ed057e558dd",
+    "f876efd27a3cd011",
+    "cb15044d2fb52b1f",
+    "e4584a367855ef0e",
+    "2dd3a94f4e283375"
+   ]
+  },
+  {
+   "date": "2009-10-23",
+   "future": false,
+   "celex": "01989L0655-20091023",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime SECÇÃO I",
+    "Suprime Disposições gerais",
+    "Suprime Artigo 1.º — Objecto",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime SECÇÃO II",
+    "Suprime OBRIGAGAÇÕES DAS ENTIDADES PATRONAIS",
+    "Suprime Artigo 3.º — Obrigações gerais",
+    "Suprime Artigo 4.º — Regras relativas aos equipamentos de trabalho",
+    "Suprime Artigo 4.º A — Verificações dos equipamentos de trabalho",
+    "Suprime Artigo 5.º — Equipamentos de trabalho que apresentam riscos específicos",
+    "Suprime Artigo 5.º A — Ergonomia e saúde no trabalho",
+    "Suprime Artigo 6.º — Informação dos trabalhadores",
+    "Suprime Artigo 7.º — Formação dos trabalhadores",
+    "Suprime Artigo 8.º — Consulta e participação dos trabalhadores",
+    "Suprime SECÇÃO III",
+    "Suprime DISPOSIÇÕES DIVERSAS",
+    "Suprime Artigo 9.º — Alteração [►M1](http://publications.europa.eu/resource/celex/31995L0063) dos anexos◄",
+    "Suprime Artigo 10.º — Disposições finais",
+    "Suprime Artigo 11.º",
+    "Suprime ANEXO [►M1](http://publications.europa.eu/resource/celex/31995L0063) I◄",
+    "Suprime PRESCRIÇÕES MÍNIMAS REFERIDAS NO N.º 1, ALÍNEA a), SUBALÍNEA ii), E ALÍNEA b), DO ARTIGO 4.º",
+    "Suprime 1. Observação prévia",
+    "Suprime 2. Prescrições mínimas gerais aplicáveis aos equipamentos de trabalho",
+    "Suprime 3. Prescrições mínimas suplementares aplicáveis a equipamentos de trabalho específicos",
+    "Suprime 3.1. Prescrições mínimas aplicáveis aos equipamentos de trabalho móveis, automotores ou não.",
+    "Suprime 3.2. Prescrições mínimas aplicáveis aos equipamentos de trabalho destinados à elevação de cargas.",
+    "Suprime ANEXO II",
+    "Suprime Disposições relativas à utilização dos equipamentos de trabalho referidos no n.º 3 do artigo 4.º",
+    "Suprime 0. Observação prévia",
+    "Suprime 1. Disposições de ordem geral aplicáveis a todos os equipamentos de trabalho",
+    "Suprime 2. Disposições para a utilização de equipamentos de trabalho móveis, automotores ou não",
+    "Suprime 3. Disposições relativas à utilização de equipamentos de trabalho destinados à elevação de cargas",
+    "Suprime 3.1. Generalidades",
+    "Suprime 3.2 Equipamentos de trabalho destinados à elevação de cargas não guiadas.",
+    "Suprime 4. Disposições relativas à utilização dos equipamentos de trabalho disponibilizados para trabalhos temporários em altura",
+    "Suprime 4.1. Disposições gerais",
+    "Suprime 4.2. Disposições específicas relativas à utilização de escadas",
+    "Suprime 4.3. Disposições específicas relativas à utilização de andaimes",
+    "Suprime 4.4. Disposições específicas relativas à utilização de técnicas de acesso e de posicionamento por meio de cordas",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "7c60b8cc01c12cec"
+   ]
+  }
+ ],
+ "fragments": {
+  "8761883deb7b9ab4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 89/655/CEE do Conselho, de 30 de Novembro de 1989, relativa às prescrições mínimas de segurança e de saúde para a utilização pelos trabalhadores de equipamentos de trabalho no trabalho (segunda Directiva especial, na acepção do nº 1 do artigo 16º da Directiva 89/391/CEE)** *Jornal Oficial nº L 393 de 30/12/1989 p. 0013 - 0017 Edição especial finlandesa: Capítulo 5 Fascículo 4 p. 0182 Edição especial sueca: Capítulo 5 Fascículo 4 p. 0182*\n\nDIRECTIVA DO CONSELHO de 30 de Novembro de 1989 relativa às prescrições mínimas de segurança e de saúde para a utilização pelos trabalhadores de equipamentos de trabalho no trabalho (segunda directiva especial, na acepção do nº 1 do artigo 16º da Directiva 89/391/CEE) (89/655/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 118ºA,\n\nTendo em conta a proposta da Comissão (1), apresentada após consulta ao Comité consultivo para a segurança, higiene e protecção da saúde no local de trabalho,\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que o artigo 118ºA do Tratado prevê que o Conselho adopte, por directiva, prescrições mínimas destinadas a promover a melhoria, nomeadamente, das condições de trabalho, a fim de assegurar um melhor nível de protecção de segurança e da saúde dos trabalhadores;\n\nConsiderando que, nos termos do referido artigo, essas directivas devem evitar impor disciplinas administrativas, financeiras e jurídicas que sejam contrárias à criação e desenvolvimento de pequenas e médias empresas;\n\nConsiderando que a comunicação da Comissão sobre o seu programa no domínio de segurança, da higiene e da saúde no local de trabalho (4) prevê a adopção de uma directiva relativa à utilização dos equipamentos de trabalho no trabalho;\n\nConsiderando que, na resolução de 21 de Dezembro de 1987 relativa à segurança, higiene e saúde no local de trabalho (5), o Conselho tomou nota da intenção da Comissão de lhe apresentar a curto prazo prescrições mínimas relativas à organização da segurança e da saúde no local de trabalho;\n\nConsiderando que a observância das prescrições mínimas destinadas a garantir um melhor nível de segurança e de saúde para a utilização de equipamentos de trabalho constitui um imperativo para garantir a segurança e a saúde dos trabalhadores;\n\nJO nº C 106 de 26. 4. 1989, p. 13 e\n\nJO nº C 287 de 15. 11. 1989, p. 12.\n\nJO nº C 256 de 9. 10. 1989, p. 65.\n\nConsiderando que a presente directiva é uma directiva especial, na acepção do nº 1 do artigo 16º da Directiva 89/391/CEE do Conselho, de 12 de Junho de 1989, relativa à aplicação de medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho (6); que, por esse facto, as disposições da referida directiva se aplicam plenamente ao domínio da utilização, pelos trabalhadores, de equipamentos de trabalho no local de trabalho, sem prejuízo de disposições mais restritivas e/ou específicas contidas na presente directiva;\n\nConsiderando que a presente directiva constitui um elemento concreto no âmbito da realização da dimensão social do mercado interno;\n\nConsiderando que, por força da Directiva 83/189/CEE (7), os Estados-membros são obrigados a notificar à Comissão qualquer projecto de regulamentação técnica aplicável às máquinas, aparelhos e instalações;\n\nConsiderando que, por força da Decisão 74/325/CEE do Conselho (8), com a última redação que lhe foi dada pelo Acto de Adesão de 1985, o Comité consultivo para a segurança, a higiene e a protecção da saúde no local de trabalho deve ser consultado pela Comissão com vista à elaboração de propostas neste domínio,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "0f7791c15411df69": {
+   "fragment_id": "SECÇÃO I — Disposições gerais",
+   "type": "divisao",
+   "heading": "SECÇÃO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições gerais"
+  },
+  "ba6a0551423cd6f6": {
+   "fragment_id": "Artigo 1º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º — Objecto\n\n1. A presente directiva, que é a segunda directiva especial, na acepção do nº 1 do artigo 16º da Directiva 89/391/CEE, estabelece as prescrições mínimas de segurança e de saúde para a utilização, pelos trabalhadores no trabalho, dos equipamentos de trabalho, tal como se encontram definidos no artigo 2º\n\n2. As disposições da Directiva 89/391/CEE aplicam-se plenamente à globalidade do domínio referido no nº 1, sem prejuízo de disposições mais restritivas e/ou específicas contidas na presente directiva."
+  },
+  "cf6c5184e8eb2339": {
+   "fragment_id": "Artigo 2º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º — Definições\n\nNa acepção da presente directiva, entende-se por:\n\na) Equipamento de trabalho: qualquer máquina, aparelho, ferramenta ou instalação utilizado no trabalho;\n\nb) Utilização de um equipamento de trabalho: qualquer actividade relativa a um equipamento de trabalho, nomeadamente a colocação em serviço ou fora de serviço, o uso, o transporte, a reparação, a transformação, a manutenção e a conservação, incluindo, nomeadamente, a limpeza;\n\nc) Zona perigosa: qualquer zona dentro e/ou em torno de um equipamento de trabalho na qual a presença de um trabalhador exposto o submeta a um risco para a sua segurança ou saúde;\n\nd) Trabalhador exposto: qualquer trabalhador que se encontre totalmente ou em parte numa zona perigosa;\n\ne) Operador: o ou os trabalhador(es) incumbido(s) da utilização de um equipamento de trabalho."
+  },
+  "186a25d89f003de5": {
+   "fragment_id": "SECÇÃO II — OBRIGAÇÕES DAS ENTIDADES PATRONAIS",
+   "type": "divisao",
+   "heading": "SECÇÃO II — OBRIGAÇÕES DAS ENTIDADES PATRONAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — OBRIGAÇÕES DAS ENTIDADES PATRONAIS"
+  },
+  "0c77dc9b5743fd26": {
+   "fragment_id": "Artigo 3º — Obrigações gerais",
+   "type": "artigo",
+   "heading": "Artigo 3º — Obrigações gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º — Obrigações gerais\n\n1. A entidade patronal deve tomar as disposições necessárias para que os equipamentos de trabalho, postos à disposição dos trabalhadores na empresa e/ou no estabelecimento, sejam adequados ao trabalho a efectuar ou convenientemente adaptados para esse efeito e permitam garantir a segurança e a saúde dos trabalhadores aquando da utilização desses equipamentos de trabalho.\n\nAquando da escolha dos equipamentos de trabalho que pretenda utilizar, a entidade patronal deve ter em atenção as condições e as características específicas do trabalho e os riscos existentes na empresa e/ou no estabelecimento, nomeadamente nos postos de trabalho, para a segurança e a saúde dos trabalhadores e/ou os eventuais riscos adicionais resultantes da utilização dos equipamentos de trabalho em questão.\n\n2. Quando não for possível garantir inteiramente desse modo a segurança e a saúde dos trabalhadores ao utilizarem os equipamentos de trabalho, a entidade patronal tomará as medidas adequadas para minimizar os riscos."
+  },
+  "a5d87de3d20be118": {
+   "fragment_id": "Artigo 4º — Regras relativas aos equipamentos de trabalho",
+   "type": "artigo",
+   "heading": "Artigo 4º — Regras relativas aos equipamentos de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º — Regras relativas aos equipamentos de trabalho\n\n1. Sem prejuízo do disposto no artigo 3º, a entidade patronal deve obter e/ou utilizar:\n\na) Equipamentos de trabalho que, colocados pela primeira vez à disposição dos trabalhadores na empresa e/ou no estabelecimento depois de 31 de Dezembro de 1992, satisfaçam:\n\nii) As disposições contidas em qualquer uma das directivas comunitárias pertinentes aplicáveis;\n\nii) As prescrições mínimas previstas no anexo, caso não seja aplicável, ou apenas o seja parcialmente, qualquer outra directiva comunitária;\n\nb) Equipamentos de trabalho que, já colocados à disposição dos trabalhadores na empresa e/ou no estabelecimento em 31 de Dezembro de 1992, obedeçam, o mais tardar quatro anos após essa data, às prescrições mínimas previstas no anexo.\n\n2. A entidade patronal tomará as medidas necessárias para que os equipamentos de trabalho, ao longo de todo o seu período de utilização, sejam conservados, mediante uma manutenção adequada, a um nível que permita que os equipamentos satisfaçam, consoante os casos, as disposições das alíneas a) ou b) do nº 1."
+  },
+  "d99d4912355bb84a": {
+   "fragment_id": "Artigo 5º — Equipamentos de trabalho que apresentam riscos",
+   "type": "artigo",
+   "heading": "Artigo 5º — Equipamentos de trabalho que apresentam riscos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º — Equipamentos de trabalho que apresentam riscos\n\nespecíficos\n\nSempre que a utilização de um equipamento de trabalho possa apresentar um risco específico para a segurança ou a saúde dos trabalhadores, a entidade patronal tomará as medidas necessárias para que:\n\n- a utilização do equipamento de trabalho seja reservada aos trabalhadores incumbidos dessa utilização,\n\n- nos casos de reparação, transformação, manutenção ou conservação, os trabalhadores em questão estejam especificamente habilitados para o efeito."
+  },
+  "41b2ab82e1fc342f": {
+   "fragment_id": "Artigo 6º — Informação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 6º — Informação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º — Informação dos trabalhadores\n\n1. Sem prejuízo do artigo 10º da Directiva 89/391/CEE, a entidade patronal tomará as medidas necessárias para que os trabalhadores disponham de informações adequadas e, quando necessário, de folhetos de informação sobre os equipamentos de trabalho utilizados no trabalho.\n\n2. As informações e os folhetos de informação devem conter, no mínimo, as indicações do ponto de vista de segurança e da saúde relativas:\n\n- às condições de utilização dos equipamentos de trabalho,\n\n- às situações anormais previsíveis,\n\n- às conclusões a retirar da experiência eventualmente adquirida com a utilização dos equipamentos de trabalho.\n\n3. As informações e os folhetos de informação devem ser compreensíveis para os trabalhadores em questão."
+  },
+  "be22b8f7b75899d7": {
+   "fragment_id": "Artigo 7º — Formação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 7º — Formação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º — Formação dos trabalhadores\n\nSem prejuízo do artigo 12º da Directiva 89/391/CEE, a entidade patronal tomará as medidas necessárias para que:\n\n- os trabalhadores incumbidos da utilização dos equipamentos de trabalho recebam uma formação adequada, inclusivamente sobre os riscos que, eventualmente, possam decorrer dessa utilização.\n\n- os trabalhadores referidos no segundo travessão do artigo 5º recebam uma formação específica adequada."
+  },
+  "178b7f7fade4da51": {
+   "fragment_id": "Artigo 8º — Consulta e participação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 8º — Consulta e participação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º — Consulta e participação dos trabalhadores\n\nOs trabalhadores e/ou os seus representantes serão consultados e participarão, de acordo com o artigo 11º da Directiva 89/391/CEE, no que respeita às matérias abrangidas pela presente directiva, incluindo o seu anexo."
+  },
+  "1b7b3b4ff5b9b28a": {
+   "fragment_id": "SECÇÃO III — DISPOSIÇÕES DIVERSAS",
+   "type": "divisao",
+   "heading": "SECÇÃO III — DISPOSIÇÕES DIVERSAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — DISPOSIÇÕES DIVERSAS"
+  },
+  "6c684323d330fc61": {
+   "fragment_id": "Artigo 9º — Alteração do anexo",
+   "type": "artigo",
+   "heading": "Artigo 9º — Alteração do anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º — Alteração do anexo\n\n1. O aditamento ao anexo de prescrições mínimas suplementares aplicáveis a equipamentos de trabalho específicos, referidas no ponto 3 do anexo, será adoptada pelo Conselho, de acordo com o processo previsto no artigo 118ºA do Tratado.\n\n2. As adaptações de natureza exclusivamente técnica do anexo em função:\n\n- da adopção de directivas em matéria de harmonização técnica e de normalização, relativas aos equipamentos de trabalho, e/ou\n\n- do progresso técnico, da evolução das regulamentações ou especificações internacionais ou dos conhecimentos no domínio dos equipamentos de trabalho,\n\nserão adoptadas de acordo com o processo previsto no artigo 17º da Directiva 89/391/CEE."
+  },
+  "c2aa5a41197cd692": {
+   "fragment_id": "Artigo 10º — Disposições finais",
+   "type": "artigo",
+   "heading": "Artigo 10º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º — Disposições finais\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar, em 31 de Dezembro de 1992. Do facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno já adoptadas ou que venham a adoptar no domínio regulado pela presente directiva.\n\n3. De cinco em cinco anos, os Estados-membros apresentarão um relatório à Comissão sobre a aplicação prática do disposto na presente directiva, indicando os pontos de vista dos parceiros sociais.\n\nA Comissão dará conhecimento desse relatório ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social e ao Comité consultivo para a segurança, a higiene e a saúde no local de trabalho.\n\n4. A Comissão apresentará periodicamente ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social um relatório sobre a aplicação da presente directiva, tendo em conta o disposto nos nºs 1, 2 e 3."
+  },
+  "8cbc4edb6372d635": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 30 de Novembro de 1989.\n\nPelo Conselho\n\nO Presidente\n\nJ.-P. SOISSON\n\n(1) JO nº C 114 de 30. 4. 1988, p. 3.\n\n(2) JO nº C 326 de 19. 12. 1988, p. 132.\n\n(3) JO nº C 318 de 12. 12. 1988, p. 26.\n\n(4) JO nº C 28 de 3. 2. 1988, p. 3.\n\n(5) JO nº C 28 de 3. 2. 1988, p. 1.\n\n(6) JO nº L 183 de 29. 6. 1989, p. 1.\n\n(7) JO nº L 109 de 26. 4. 1983, p. 8.\n\n(8) JO nº L 185 de 9. 7. 1974, p. 15.\n\nANEXO PRESCRIÇÕES MÍNIMAS REFERIDAS NO Nº 1, ALÍNEA a), SUBALÍNEA ii), E ALÍNEA b), DO ARTIGO 4º 1.\n\nObservação prévia\n\nAs obrigações previstas no presente anexo são aplicáveis no respeito das disposições da presente directiva e quando o correspondente risco existir relativamente ao equipamento de trabalho considerado.\n\n2.\n\nPrescrições mínimas gerais aplicáveis aos equipamentos de trabalho\n\n2.1.\n\nOs sistemas de comando de um equipamento de trabalho que tenham incidências sobre a segurança devem ser claramente visíveis e identificáveis e, se for caso disso, ser objecto de uma marcação apropriada.\n\nOs sistemas de comando devem ser colocados fora das zonas perigosas, salvo no caso de determinados sistemas de comando, se necessário, e de modo a que o seu accionamento não possa ocasionar riscos suplementares. Os sistemas de comando não devem ocasionar riscos na sequência de uma manobra não intencional.\n\nO operador deve, se necessário, poder certificar-se da ausência de pessoas nas zonas perigosas, a partir do posto de comando principal. Se tal for impossível, cada arranque deve ser automaticamente precedido de um sistema seguro, como, por exemplo, um sinal de aviso sonoro e/ou visual. O trabalhador exposto deve ter tempo e/ou meios para se colocar rapidamente ao abrigo dos riscos ocasionados pelo arranque e/ou paragem do equipamento de trabalho.\n\nOs sistemas de comando devem ser seguros. Uma avaria ou um dano nos sistemas de comando não devem provocar uma situação perigosa.\n\n2.2.\n\nOs equipamentos de trabalho só devem poder ser postos em funcionamento mediante uma acção voluntária sobre um sistema de comando previsto para esse fim.\n\nO mesmo se aplica:\n\n- ao arranque após uma paragem, qualquer que seja a sua origem,\n\n- ao comando de uma modificação importante nas condições de funcionamento (por exemplo, velocidade, pressão, etc.),\n\nsalvo se esse arranque ou essa modificação não representarem qualquer risco para os trabalhadores expostos.\n\nO arranque ou a modificação das condições de funcionamento que resultem da sequência normal de um ciclo automático não são abrangidos por esta exigência.\n\n2.3.\n\nCada equipamento de trabalho deve estar provido de um sistema de comando que permita a sua paragem geral em condições de segurança.\n\nCada posto de trabalho deve dispor de um sistema de comando que permita, em função dos riscos existentes, parar todo o equipamento de trabalho, ou apenas uma parte dele, de forma a que o equipamento de trabalho fique em situação de segurança. A ordem de paragem do equipamento de trabalho deve ter prioridade sobre as ordens de arranque. Uma vez obtida a paragem do equipamento de trabalho ou dos seus elementos perigosos, deve ser interrompida a alimentação de energia dos accionadores em questão.\n\n2.4.\n\nO equipamento de trabalho deve ser munido de um dispositivo de paragem de emergência, se tal for apropriado em função dos perigos inerentes a esse equipamento e ao tempo normal de paragem.\n\n2.5.\n\nO equipamento de trabalho que seja perigoso em virtude de quedas de objectos ou de projecções deve ser munido de dispositivos de segurança adequados correspondentes a esses perigos.\n\nO equipamento de trabalho que seja perigoso em virtude de emanações de gases, vapores ou líquidos ou de emissões de poeiras deve ser equipado com dispositivos adequados de retenção e/ou extracção correspondentes a esses perigos, instalados próximo da respectiva fonte.\n\n2.6.\n\nOs equipamentos de trabalho e respectivos elementos devem ser estabilizados por fixação ou por outros meios, se tal for necessário para a segurança ou a saúde dos trabalhadores.\n\n2.7.\n\nNo caso de existirem riscos de estilhaçamento ou de ruptura de elementos de um equipamento de trabalho susceptíveis de ocasionar perigos significativos para a segurança ou a saúde dos trabalhadores, devem ser tomadas as medidas de protecção adequadas.\n\n2.8.\n\nSempre que apresentem riscos de contacto mecânico que possam ocasionar acidentes, os elementos móveis de um equipamento de trabalho devem ser equipados com protectores ou dispositivos que impeçam o acesso às zonas perigosas ou interrompam o movimento dos elementos perigosos antes do acesso às zonas perigosas.\n\nOs protectores e dispositivos de protecção\n\n- devem ser de construção robusta,\n\n- não devem ocasionar riscos suplementares,\n\n- não devem poder ser facilmente neutralizados ou tornados inoperantes,\n\n- devem estar situados a uma distância suficiente da zona perigosa,\n\n- não devem limitar mais do que o necessário a observação do ciclo de trabalho,\n\n- devem permitir as intervenções indispensáveis à colocação e/ou substituição dos elementos, bem como aos trabalhos de manutenção, permitindo o acesso apenas ao sector em que esses trabalhos devem ser realizados e, se possível, sem desmontagem do protector ou do dispositivo de protecção.\n\n2.9.\n\nAs zonas e pontos de trabalho ou de manutenção dos equipamentos de trabalho devem estar convenientemente iluminadas em função dos trabalhos a efectuar.\n\n2.10.\n\nAs partes de um equipamento de trabalho que tenham uma temperatura elevada ou muito baixa devem, se tal for apropriado, dispor de uma protecção contra os riscos de contacto ou de aproximação por parte dos trabalhadores.\n\n2.11.\n\nOs dispositivos de alerta do equipamento de trabalho devem poder ser ouvidos e compreendidos facilmente e sem ambiguidades.\n\n2.12.\n\nOs equipamentos de trabalho não podem ser utilizados para operações e em condições para as quais não sejam apropriados.\n\n2.13.\n\nAs operações de manutenção devem poder efectuar-se quando o equipamento de trabalho esteja parado. Se isso não for possível, devem poder ser tomadas medidas de protecção adequadas à execução dessas operações ou estas devem poder efectuar-se fora das áreas perigosas.\n\nÉ necessário que o livrete de manutenção dos equipamentos de trabalho que dele disponham se encontre actualizado.\n\n2.14.\n\nTodos os equipamentos de trabalho devem ser equipados com dispositivos claramente identificáveis, que permitam isolá-los de cada uma das suas fontes de energia.\n\nA reconexão pressupõe a ausência de perigo para os trabalhadores em causa.\n\n2.15.\n\nOs equipamentos de trabalho devem ter avisos e a sinalização indispensável para garantir a segurança dos trabalhadores.\n\n2.16.\n\nPara efectuar as operações de produção, de regulação e de manutenção dos equipamentos de trabalho, os trabalhadores devem poder ter acesso a todos os locais necessários e neles permanecer com toda a segurança.\n\n2.17.\n\nTodos os equipamentos de trabalho devem ser adequados à protecção dos trabalhadores contra os riscos de incêndio ou de sobreaquecimento dos equipamentos de trabalho ou de libertação de gases, poeiras, líquidos, vapores ou outras substâncias por eles produzidas ou neles utilizadas ou armazenadas.\n\n2.18.\n\nTodos os equipamentos de trabalho devem ser adequados à prevenção dos riscos de explosão dos equipamentos ou de substâncias por eles produzidas ou neles utilizadas ou armazenadas.\n\n2.19.\n\nTodos os equipamentos de trabalho devem ser adequados à proctecção dos trabalhadores expostos contra os riscos de contacto directo ou indirecto com a electricidade.\n\n3.\n\nPrescrições mínimas suplementares aplicáveis a equipamentos de trabalho específicos\n\nReferidas no nº 1 do artigo 9º da directiva."
+  },
+  "c1dcf51ff3521c75": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Novembro de 1989\n\nrelativa às prescrições mínimas de segurança e de saúde para a utilização pelos trabalhadores de equipamentos de trabalho no trabalho\n\n(segunda directiva especial, na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE)\n\n(89/655/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 118.ºA,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/7ef9b87f-7c68-4e08-b9f7-378775646ac4.0018.03/DOC_1#E0001)), apresentada após consulta ao Comité consultivo para a segurança, higiene e protecção da saúde no local de trabalho,\n\nEm cooperação com o Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/7ef9b87f-7c68-4e08-b9f7-378775646ac4.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/7ef9b87f-7c68-4e08-b9f7-378775646ac4.0018.03/DOC_1#E0003)),\n\nConsiderando que o artigo 118.ºA do Tratado prevê que o Conselho adopte, por directiva, prescrições mínimas destinadas a promover a melhoria, nomeadamente, das condições de trabalho, a fim de assegurar um melhor nível de protecção de segurança e da saúde dos trabalhadores;\n\nConsiderando que, nos termos do referido artigo, essas directivas devem evitar impor disciplinas administrativas, financeiras e jurídicas que sejam contrárias à criação e desenvolvimento de pequenas e médias empresas;\n\nConsiderando que a comunicação da Comissão sobre o seu programa no domínio de segurança, da higiene e da saúde no local de trabalho ([^4^](http://publications.europa.eu/resource/cellar/7ef9b87f-7c68-4e08-b9f7-378775646ac4.0018.03/DOC_1#E0004)) prevê a adopção de uma directiva relativa à utilização dos equipamentos de trabalho no trabalho;\n\nConsiderando que, na resolução de 21 de Dezembro de 1987 relativa à segurança, higiene e saúde no local de trabalho ([^5^](http://publications.europa.eu/resource/cellar/7ef9b87f-7c68-4e08-b9f7-378775646ac4.0018.03/DOC_1#E0005)), o Conselho tomou nota da intenção da Comissão de lhe apresentar a curto prazo prescrições mínimas relativas à organização da segurança e da saúde no local de trabalho;\n\nConsiderando que a observância das prescrições mínimas destinadas a garantir um melhor nível de segurança e de saúde para a utilização de equipamentos de trabalho constitui um imperativo para garantir a segurança e a saúde dos trabalhadores;\n\nConsiderando que a presente directiva é uma directiva especial, na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE do Conselho, de 12 de Junho de 1989, relativa à aplicação de medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho ([^6^](http://publications.europa.eu/resource/cellar/7ef9b87f-7c68-4e08-b9f7-378775646ac4.0018.03/DOC_1#E0006)); que, por esse facto, as disposições da referida directiva se aplicam plenamente ao domínio da utilização, pelos trabalhadores, de equipamentos de trabalho no local de trabalho, sem prejuízo de disposições mais restritivas e/ou especificas contidas na presente directiva;\n\nConsiderando que a presente directiva constitui um elemento concreto no âmbito da realização da dimensão social do mercado interno;\n\nConsiderando que, por força da Directiva 83/189/CEE ([^7^](http://publications.europa.eu/resource/cellar/7ef9b87f-7c68-4e08-b9f7-378775646ac4.0018.03/DOC_1#E0007)), os Estados-membros são obrigados a notificar à Comissão qualquer projecto de regulamentação técnica aplicável às máquinas, aparelhos e instalações;\n\nConsiderando que, por força da Decisão 74/325/CEE do Conselho ([^8^](http://publications.europa.eu/resource/cellar/7ef9b87f-7c68-4e08-b9f7-378775646ac4.0018.03/DOC_1#E0008)), com a última redação que lhe foi dada pelo Acto de Adesão de 1985, o Comité consultivo para a segurança, a higiene e a protecção da saúde no local de trabalho deve ser consultado pela Comissão com vista à elaboração de propostas neste domínio,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "19572906891c0646": {
+   "fragment_id": "SECÇÃO I",
+   "type": "divisao",
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO I"
+  },
+  "7fabed8a0a46afb5": {
+   "fragment_id": "Disposições gerais",
+   "type": "divisao",
+   "heading": "Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições gerais"
+  },
+  "84667a2bc36ee556": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1. A presente directiva, que é a segunda directiva especial, na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE, estabelece as prescrições mínimas de segurança e de saúde para a utilização, pelos trabalhadores no trabalho, dos equipamentos de trabalho, tal como se encontram definidos no artigo 2.º\n\n2. As disposições da Directiva 89/391/CEE aplicam-se plenamente à globalidade do domínio referido no n.º 1, sem prejuízo de disposições mais restritivas e/ou específicas contidas na presente directiva."
+  },
+  "8aebe9f9307439d7": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nNa acepção da presente directiva, entende-se por:\n\na) Equipamento de trabalho: qualquer máquina, aparelho, ferramenta ou instalação utilizado no trabalho;\n\nb) Utilização de um equipamento de trabalho: qualquer actividade relativa a um equipamento de trabalho, nomeadamente a colocação em serviço ou fora de serviço, o uso, o transporte, a reparação, a transformação, a manutenção e a conservação, incluindo, nomeadamente, a limpeza;\n\nc) Zona perigosa: qualquer zona dentro e/ou em torno de um equipamento de trabalho na qual a presença de um trabalhador exposto o submeta a um risco para a sua segurança ou saúde;\n\nd) Trabalhador exposto: qualquer trabalhador que se encontre totalmente ou em parte numa zona perigosa;\n\ne) Operador: o ou os trabalhador(es) incumbido(s) da utilização de um equipamento de trabalho."
+  },
+  "0b50b9972a75b595": {
+   "fragment_id": "SECÇÃO II",
+   "type": "divisao",
+   "heading": "SECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO II"
+  },
+  "d3f99ad8adb11329": {
+   "fragment_id": "OBRIGAGAÇÕES DAS ENTIDADES PATRONAIS",
+   "type": "divisao",
+   "heading": "OBRIGAGAÇÕES DAS ENTIDADES PATRONAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBRIGAGAÇÕES DAS ENTIDADES PATRONAIS"
+  },
+  "16be18766f59c622": {
+   "fragment_id": "Artigo 3.º — Obrigações gerais",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Obrigações gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Obrigações gerais\n\n1. A entidade patronal deve tomar as disposições necessárias para que os equipamentos de trabalho, postos à disposição dos trabalhadores na empresa e/ou no estabelecimento, sejam adequados ao trabalho a efectuar ou convenientemente adaptados para esse efeito e permitam garantir a segurança e a saúde dos trabalhadores aquando da utilização desses equipamentos de trabalho.\n\nAquando da escolha dos equipamentos de trabalho que pretenda utilizar, a entidade patronal deve ter em atenção as condições e as características específicas do trabalho e os riscos existentes na empresa e/ou no estabelecimento, nomeadamente nos postos de trabalho, para a segurança e a saúde dos trabalhadores e/ou os eventuais riscos adicionais resultantes da utilização dos equipamentos de trabalho em questão.\n\n2. Quando não for possível garantir inteiramente desse modo a segurança e a saúde dos trabalhadores ao utilizarem os equipamentos de trabalho, a entidade patronal tomará as medidas adequadas para minimizar os riscos."
+  },
+  "3d61d0e09685551c": {
+   "fragment_id": "Artigo 4.º — Regras relativas aos equipamentos de trabalho",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Regras relativas aos equipamentos de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regras relativas aos equipamentos de trabalho\n\n1. Sem prejuízo do disposto no artigo 3.º, a entidade patronal deve obter e/ou utilizar:\n\na) Equipamentos de trabalho que, colocados pela primeira vez à disposição dos trabalhadores na empresa e/ou no estabelecimento depois de 31 de Dezembro de 1992, satisfaçam:\n\ni) As disposições contidas em qualquer uma das directivas comunitárias pertinentes aplicáveis;\n\nii) As prescrições mínimas previstas no anexo [**►M1**](http://publications.europa.eu/resource/celex/31995L0063) I**◄**, caso não seja aplicável, ou apenas o seja parcialmente, qualquer outra directiva comunitária;\n\nb) Equipamentos de trabalho que, já colocados à disposição dos trabalhadores na empresa e/ou no estabelecimento em 31 de Dezembro de 1992, obedeçam, o mais tardar quatro anos após essa data, às prescrições mínimas previstas no anexo [**►M1**](http://publications.europa.eu/resource/celex/31995L0063) I**◄**;\n\nc) Sem prejuízo do ponto i) da alínea a) e em derrogação ao ponto ii) da alínea a) e à alínea b), equipamentos de trabalho específicos sujeitos às prescrições do ponto 3 do anexo I que, já colocados à disposição dos trabalhadores na empresa e/ou no estabelecimento em 8 de Dezembro de 1998, obedeçam, o mais tardar quatro anos após essa data, às prescrições mínimas previstas no anexo I.\n\n2. A entidade patronal tomará as medidas necessárias para que os equipamentos de trabalho, ao longo de todo o seu período de utilização, sejam conservados, mediante uma manutenção adequada, a um nível que permita que os equipamentos satisfaçam, consoante os casos, as disposições das alíneas a) ou b) do n.º 1.\n\n3. Os Estados-membros determinarão, após consulta dos parceiros sociais e tendo em conta as legislações e/ou práticas nacionais, as normas que permitam atingir um nível de segurança que corresponda aos objectivos visados nas disposições do anexo II."
+  },
+  "70fb38d2a89d655c": {
+   "fragment_id": "Artigo 4.º A — Verificações dos equipamentos de trabalho",
+   "type": "artigo",
+   "heading": "Artigo 4.º A — Verificações dos equipamentos de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º A — Verificações dos equipamentos de trabalho\n\n1. A entidade patronal tomará as medidas necessárias para que os equipamentos de trabalho cuja segurança dependa das condições de instalação sejam submetidos a uma verificação inicial na acepção das legislações e/ou práticas nacionais, após a instalação e antes de entrarem em serviço pela primeira vez e após cada montagem num novo local ou num novo sítio, a efectuar por pessoas competentes, com vista a garantir a correcta instalação e o bom funcionamento dos equipamentos de trabalho em causa.\n\n2. A entidade patronal tomará as medidas necessárias para que os equipamentos de trabalho sujeitos a influências geradoras de deteriorações susceptíveis de estar na origem de situações perigosas sejam objecto de:\n\n— verificações periódicas e, se necessário, de ensaios periódicos efectuados por pessoas competentes, na acepção das legislações e/ou práticas nacionais,\n\n— verificações excepcionais efectuadas por pessoas competentes, na acepção das legislações e/ou práticas nacionais, sempre que se produzam acontecimentos excepcionais susceptíveis de terem consequências gravosas para a segurança do equipamento de trabalho, como transformações, acidentes, fenómenos naturais, períodos prolongados de não utilização,\n\na fim de garantir que sejam respeitadas as prescrições de segurança e de saúde e que as deteriorações em causa sejam detectadas e corrigidas atempadamente.\n\n3. Os resultados das verificações devem ser consignados, mantidos à disposição da autoridade competente e conservados por um período adequado.\n\nCaso os equipamentos de trabalho em causa sejam utilizados fora da empresa, devem ser acompanhados de uma prova material da realização da última verificação.\n\n4. Compete aos Estados-membros determinar as modalidades dessas verificações."
+  },
+  "8bf6cb131b60052a": {
+   "fragment_id": "Artigo 5.º — Equipamentos de trabalho que apresentam riscos específicos",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Equipamentos de trabalho que apresentam riscos específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Equipamentos de trabalho que apresentam riscos específicos\n\nSempre que a utilização de um equipamento de trabalho possa apresentar um risco específico para a segurança ou a saúde dos trabalhadores, a entidade patronal tomará as medidas necessárias para que:\n\n— a utilização do equipamento de trabalho seja reservada aos trabalhadores incumbidos dessa utilização,\n\n— nos casos de reparação, transformação, manutenção ou conservação, os trabalhadores em questão estejam especificamente habilitados para o efeito."
+  },
+  "0935a22fbe66790e": {
+   "fragment_id": "Artigo 5.º A — Ergonomia e saúde no trabalho",
+   "type": "artigo",
+   "heading": "Artigo 5.º A — Ergonomia e saúde no trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º A — Ergonomia e saúde no trabalho\n\nNa aplicação das prescrições mínimas de segurança e de saúde, devem ser plenamente tomados em consideração pela entidade patronal o posto de trabalho e a posição dos trabalhadores durante a utilização do equipamento de trabalho, bem como os princípios ergonómicos."
+  },
+  "389d6b1e504d9bbf": {
+   "fragment_id": "Artigo 6.º — Informação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Informação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Informação dos trabalhadores\n\n1. Sem prejuízo do artigo 10.º da Directiva 89/391/CEE, a entidade patronal tomará as medidas necessárias para que os trabalhadores disponham de informações adequadas e, quando necessário, de folhetos de informação sobre os equipamentos de trabalho utilizados no trabalho.\n\n2. As informações e os folhetos de informação devem conter, no mínimo, as indicações do ponto de vista de segurança e da saúde relativas:\n\n— às condições de utilização dos equipamentos de trabalho,\n\n— às situações anormais previsíveis,\n\n— às conclusões a retirar da experiência eventualmente adquirida com a utilização dos equipamentos de trabalho.\n\nOs trabalhadores devem ser informados dos riscos que correm, dos equipamentos de trabalho presentes no seu ambiente imediato de trabalho e das alterações que lhes dizem respeito, na medida em que afectem os equipamentos de trabalho situados no seu ambiente imediato de trabalho, mesmo que os não utilizem directamente.\n\n3. As informações e os folhetos de informação devem ser compreensíveis para os trabalhadores em questão."
+  },
+  "0c26f37dd4ad7dd8": {
+   "fragment_id": "Artigo 7.º — Formação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Formação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Formação dos trabalhadores\n\nSem prejuízo do artigo 12.º da Directiva 89/391/CEE, a entidade patronal tomará as medidas necessárias para que:\n\n— os trabalhadores incumbidos da utilização dos equipamentos de trabalho recebam uma formação adequada, inclusivamente sobre os riscos que, eventualmente, possam decorrer dessa utilização,\n\n— os trabalhadores referidos no segundo travessão do artigo 5.º recebam uma formação específica adequada."
+  },
+  "6ece21b75df45cad": {
+   "fragment_id": "Artigo 8.º — Consulta e participação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Consulta e participação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Consulta e participação dos trabalhadores\n\nOs trabalhadores e/ou os seus representantes serão consultados e participarão, de acordo com o artigo 11.º da Directiva 89/391/CEE, no que respeita às matérias abrangidas pela presente directiva, incluindo os seus[**►M1**](http://publications.europa.eu/resource/celex/31995L0063) anexos.**◄**"
+  },
+  "b4f1bfdbc841cf04": {
+   "fragment_id": "SECÇÃO III",
+   "type": "divisao",
+   "heading": "SECÇÃO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO III"
+  },
+  "4f0027fbf9863594": {
+   "fragment_id": "DISPOSIÇÕES DIVERSAS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES DIVERSAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES DIVERSAS"
+  },
+  "68a21f57a5b73c27": {
+   "fragment_id": "Artigo 9.º — Alteração [►M1](http://publications.europa.eu/resource/celex/31995L0063) dos anexos◄",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Alteração [►M1](http://publications.europa.eu/resource/celex/31995L0063) dos anexos◄",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Alteração [►M1](http://publications.europa.eu/resource/celex/31995L0063) dos anexos◄\n\n1. O aditamento ao anexo [**►M1**](http://publications.europa.eu/resource/celex/31995L0063) I**◄** de prescrições mínimas suplementares aplicáveis a equipamentos de trabalho específicos, referidas no ponto 3 do anexo [**►M1**](http://publications.europa.eu/resource/celex/31995L0063) I**◄** será adoptado pelo Conselho, de acordo com o processo previsto no artigo 118.ºA do Tratado.\n\n2. As adaptações de natureza exclusivamente técnica [**►M1**](http://publications.europa.eu/resource/celex/31995L0063) dos anexos**◄** em função:\n\n— da adopção de directivas em matéria de harmonização técnica e de normalização, relativas aos equipamentos de trabalho, e/ou\n\n— do progresso técnico, da evolução das regulamentações ou especificações internacionais ou dos conhecimentos no domínio dos equipamentos de trabalho,\n\nserão adoptadas de acordo com o processo previsto no artigo 17.º da Directiva 89/391/CEE."
+  },
+  "8ac4df0703ae924d": {
+   "fragment_id": "Artigo 10.º — Disposições finais",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposições finais\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar, em 31 de Dezembro de 1992. Do facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno já adoptadas ou que venham a adoptar no domínio regulado pela presente directiva."
+  },
+  "40b91f3ad7775481": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "4e676aef473bfb95": {
+   "fragment_id": "ANEXO [►M1](http://publications.europa.eu/resource/celex/31995L0063) I◄",
+   "type": "divisao",
+   "heading": "ANEXO [►M1](http://publications.europa.eu/resource/celex/31995L0063) I◄",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO [►M1](http://publications.europa.eu/resource/celex/31995L0063) I◄"
+  },
+  "6a9262c1b8d489dd": {
+   "fragment_id": "PRESCRIÇÕES MÍNIMAS REFERIDAS NO N.º 1, ALÍNEA a), SUBALÍNEA ii), E ALÍNEA b), DO ARTIGO 4.º",
+   "type": "divisao",
+   "heading": "PRESCRIÇÕES MÍNIMAS REFERIDAS NO N.º 1, ALÍNEA a), SUBALÍNEA ii), E ALÍNEA b), DO ARTIGO 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PRESCRIÇÕES MÍNIMAS REFERIDAS NO N.º 1, ALÍNEA a), SUBALÍNEA ii), E ALÍNEA b), DO ARTIGO 4.º"
+  },
+  "92b0f817744ffdbc": {
+   "fragment_id": "1. Observação prévia",
+   "type": "divisao",
+   "heading": "1. Observação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Observação prévia\n\nAs obrigações previstas no presente anexo são aplicáveis no respeito das disposições da presente directiva e quando o correspondente risco existir relativamente ao equipamento de trabalho considerado.\n\nAs prescrições mínimas a seguir enunciadas, se bem que aplicáveis aos equipamentos de trabalho em serviço, não exigem necessariamente as mesmas medidas que as exigências essenciais aplicáveis aos equipamentos de trabalho novos."
+  },
+  "fb81751254a8bb9d": {
+   "fragment_id": "2. Prescrições mínimas gerais aplicáveis aos equipamentos de trabalho",
+   "type": "divisao",
+   "heading": "2. Prescrições mínimas gerais aplicáveis aos equipamentos de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Prescrições mínimas gerais aplicáveis aos equipamentos de trabalho\n\n2.1. Os sistemas de comando de um equipamento de trabalho que tenham incidências sobre a segurança devem ser claramente visíveis e identificáveis e, se for caso disso, ser objecto de uma marcação apropriada. Os sistemas de comando devem ser colocados fora das zonas perigosas, salvo no caso de determinados sistemas de comando, se necessário, e de modo a que o seu accionamento não possa ocasionar riscos suplementares. Os sistemas de comando não devem ocasionar riscos na sequência de uma manobra não intencional. O operador deve, se necessário, poder certificar-se da ausência de pessoas nas zonas perigosas, a partir do posto de comando principal. Se tal for impossível, cada arranque deve ser automaticamente precedido de um sistema seguro, como, por exemplo, um sinal de aviso sonoro e/ou visual. O trabalhador exposto deve ter tempo e/ou meios para se colocar rapidamente ao abrigo dos riscos ocasionados pelo arranque e/ou paragem do equipamento de trabalho. [▼M1](http://publications.europa.eu/resource/celex/31995L0063) Os sistemas de comando devem ser seguros e ser escolhidos tendo em conta as falhas, perturbações e limitações previsíveis na utilização para que foram projectados. [▼B](http://publications.europa.eu/resource/celex/31989L0655)\n\n2.2. Os equipamentos de trabalho só devem poder ser postos em funcionamento mediante uma acção voluntária sobre um sistema de comando previsto para esse fim. O mesmo se aplica: — ao arranque após uma paragem, qualquer que seja a sua origem, — ao comando de uma modificação importante nas condições de funcionamento (por exemplo, velocidade, pressão, etc.), salvo se esse arranque ou essa modificação não representarem qualquer risco para os trabalhadores expostos. O arranque ou a modificação das condições de funcionamento que resultem da sequência normal de um ciclo automático não são abrangidos por esta exigência.\n\n2.3. Cada equipamento de trabalho deve estar provido de um sistema de comando que permita a sua paragem geral em condições de segurança. Cada posto de trabalho deve dispor de um sistema de comando que permita, em função dos riscos existentes, parar todo o equipamento de trabalho, ou apenas uma parte dele, de forma a que o equipamento de trabalho fique em situação de segurança. A ordem de paragem do equipamento de trabalho deve ter prioridade sobre as ordens de arranque. Uma vez obtida a paragem do equipamento de trabalho ou dos seus elementos perigosos, deve ser interrompida a alimentação de energia dos accionadores em questão.\n\n2.4. O equipamento de trabalho deve ser munido de um dispositivo de paragem de emergência, se tal for apropriado em função dos perigos inerentes a esse equipamento e ao tempo normal de paragem.\n\n2.5. O equipamento de trabalho que seja perigoso em virtude de quedas de objectos ou de projecções deve ser munido de dispositivos de segurança adequados correspondentes a esses perigos. O equipamento de trabalho que seja perigoso em virtude de emanações de gases, vapores ou líquidos ou de emissões de poeiras deve ser equipado com dispositivos adequados de retenção e/ou extracção correspondentes a esses perigos, instalados próximo da respectiva fonte.\n\n2.6. Os equipamentos de trabalho e respectivos elementos devem ser estabilizados por fixação ou por outros meios, se tal for necessário para a segurança ou a saúde dos trabalhadores.\n\n2.7. No caso de existirem riscos de estilhaçamento ou de ruptura de elementos de um equipamento de trabalho susceptíveis de ocasionar perigos significativos para a segurança ou a saúde dos trabalhadores, devem ser tomadas as medidas de protecção adequadas.\n\n2.8. Sempre que apresentem riscos de contacto mecânico que possam ocasionar acidentes, os elementos móveis de um equipamento de trabalho devem ser equipados com protectores ou dispositivos que impeçam o acesso às zonas perigosas ou interrompam o movimento dos elementos perigosos antes do acesso às zonas perigosas. Os protectores e dispositivos de protecção — devem ser de construção robusta, — não devem ocasionar riscos suplementares, — não devem poder ser facilmente neutralizados ou tornados inoperantes, — devem estar situados a uma distância suficiente da zona perigosa, — não devem limitar mais do que o necessário a observação do ciclo de trabalho, — devem permitir as intervenções indispensáveis à colocação e/ou substituição dos elementos, bem como aos trabalhos de manutenção, permitindo o acesso apenas ao sector em que esses trabalhos devem ser realizados e, se possível, sem desmontagem do protector ou do dispositivo de protecção.\n\n2.9. As zonas e pontos de trabalho ou de manutenção dos equipamentos de trabalho devem estar convenientemente iluminadas em função dos trabalhos a efectuar.\n\n2.10. As partes de um equipamento de trabalho que tenham uma temperatura elevada ou muito baixa devem, se tal for apropriado, dispor de uma protecção contra os riscos de contacto ou de aproximação por parte dos trabalhadores.\n\n2.11. Os dispositivos de alerta do equipamento de trabalho devem poder ser ouvidos e compreendidos facilmente e sem ambiguidades.\n\n2.12. Os equipamentos de trabalho não podem ser utilizados para operações e em condições para as quais não sejam apropriados.\n\n2.13. As operações de manutenção devem poder efectuar-se quando o equipamento de trabalho esteja parado. Se isso não for possível, devem poder ser tomadas medidas de protecção adequadas à execução dessas operações ou estas devem poder efectuar-se fora das áreas perigosas. É necessário que o livrete de manutenção dos equipamentos de trabalho que dele disponham se encontre actualizado.\n\n2.14. Todos os equipamentos de trabalho devem ser equipados com dispositivos claramente identificáveis, que permitam isolá-los de cada uma das suas fontes de energia. A reconexão pressupõe a ausência de perigo para os trabalhadores em causa.\n\n2.15. Os equipamentos de trabalho devem ter avisos e a sinalização indispensável para garantir a segurança dos trabalhadores.\n\n2.16. Para efectuar as operações de produção, de regulação e de manutenção dos equipamentos de trabalho, os trabalhadores devem poder ter acesso a todos os locais necessários e neles permanecer com toda a segurança.\n\n2.17. Todos os equipamentos de trabalho devem ser adequados à protecção dos trabalhadores contra os riscos de incêndio ou de sobreaquecimento dos equipamentos de trabalho ou de libertação de gases, poeiras, líquidos, vapores ou outras substâncias por eles produzidas ou neles utilizadas ou armazenadas.\n\n2.18. Todos os equipamentos de trabalho devem ser adequados à prevenção dos riscos de explosão dos equipamentos ou de substâncias por eles produzidas ou neles utilizadas ou armazenadas.\n\n2.19. Todos os equipamentos de trabalho devem ser adequados à proctecção dos trabalhadores expostos contra os riscos de contacto directo ou indirecto com a electricidade."
+  },
+  "7e641d7b774dd35b": {
+   "fragment_id": "3. Prescrições mínimas suplementares aplicáveis a equipamentos de trabalho específicos",
+   "type": "divisao",
+   "heading": "3. Prescrições mínimas suplementares aplicáveis a equipamentos de trabalho específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Prescrições mínimas suplementares aplicáveis a equipamentos de trabalho específicos"
+  },
+  "c42da2b10ca8c93b": {
+   "fragment_id": "3.1. Prescrições mínimas aplicáveis aos equipamentos de trabalho móveis, automotores ou não.",
+   "type": "divisao",
+   "heading": "3.1. Prescrições mínimas aplicáveis aos equipamentos de trabalho móveis, automotores ou não.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1. Prescrições mínimas aplicáveis aos equipamentos de trabalho móveis, automotores ou não.\n\n3.1.1. Os equipamentos de trabalho que transportem um ou mais trabalhadores devem ser adaptados de forma a reduzir os riscos para esse ou esses trabalhadores durante a deslocação. Esses riscos incluem o risco de contacto dos trabalhadores com as rodas ou as lagartas ou seu entalamento por essas peças.\n\n3.1.2. Sempre que o bloqueio intempestivo dos elementos de transmissão de energia entre um equipamento de trabalho móvel e os seus acessórios e/ou reboques puder dar origem a riscos específicos, esse equipamento de trabalho deve estar equipado ou ser adaptado por forma a impedir o bloqueio dos elementos de transmissão de energia. Sempre que não for possível impedir um bloqueio dessa natureza, devem ser tomadas todas as medidas possíveis para evitar consequências nefastas para os trabalhadores.\n\n3.1.3. Se os elementos de transmissão de energia entre equipamentos de trabalho móveis forem susceptíveis de se sujar e danificar ao serem arrastados pelo chão, devem ser previstas possibilidades de fixação.\n\n3.1.4. Os equipamentos de trabalho móveis que transportem um ou mais trabalhadores devem ser de molde a limitar, nas condições efectivas de utilização, os riscos decorrentes da capotagem do equipamento de trabalho: — ou por uma estrutura de protecção que impeça o equipamento de se virar mais de um quarto de volta, — ou por uma estrutura que garanta um espaço suficiente em torno do ou dos trabalhadores transportados, se o movimento puder continuar para além de um quarto de volta, — ou por qualquer outro dispositivo de alcance equivalente. Estas estruturas de protecção podem fazer parte integrante do equipamento de trabalho. Estas estruturas de protecção não são necessárias quando o equipamento de trabalho se encontre estabilizado durante a utilização ou quando a capotagem do equipamento de trabalho for impossível devido à sua própria concepção. Se, em caso de capotagem, existir o risco de o ou os trabalhadores transportados serem esmagados entre partes do equipamento de trabalho e o solo, deve ser instalado um sistema de retenção do ou dos trabalhadores transportados.\n\n3.1.5. As empilhadoras sobre as quais tomem lugar um ou mais trabalhadores devem ser adaptadas ou equipadas de modo a limitar os riscos de capotagem da empilhadora através, por exemplo, — da instalação de uma cabina para o condutor, — de uma estrutura que impeça a empilhadora de capotar, — de uma estrutura que garanta que, em caso de capotagem da empilhadora, fica espaço suficiente entre o solo e certas partes da empilhadora para o ou os trabalhadores transportados, — de uma estrutura que mantenha o ou os trabalhadores no posto de condução de modo a impedir que possam ser apanhados por alguma parte da empilhadora ao capotar.\n\n3.1.6. Os equipamentos de trabalho móveis automotores cuja movimentação pode dar origem a riscos para os trabalhadores devem preencher as seguintes condições: a) Devem estar providos de meios que permitam evitar uma entrada em funcionamento não autorizada; b) Devem estar providos de meios adequados que permitam reduzir as consequências de uma eventual colisão em caso de movimentação simultânea de diversos equipamentos de trabalho que se desloquem sobre carris; c) Devem estar providos de um dispositivo de travagem e de imobilização; na medida em que a segurança assim o exija, a travagem e a imobilização devem ser possíveis, em caso de avaria do dispositivo principal, através de um dispositivo de emergência que possua comandos de fácil acesso; d) Devem estar providos de dispositivos auxiliares adequados que aumentem a visibilidade quando o campo de visão directa do condutor for insuficiente para garantir a segurança; e) Se for prevista a sua utilização nocturna ou em locais obscuros, devem estar providos de um dispositivo de iluminação adaptado ao trabalho a realizar e garantir uma segurança suficiente para os trabalhadores; f) Se, por razões intrínsecas ou devido aos seus atrelados e/ou cargas, comportarem um risco de incêndio susceptível de pôr em perigo os trabalhadores, devem estar providos de dispositivos adequados de combate ao fogo, excepto se estes se encontrarem disponíveis e suficientemente próximos no local de utilização; g) Caso sejam telecomandados, devem imobilizar-se automaticamente ao saírem do campo de controlo; h) Caso sejam telecomandados e se, em condições normais de utilização, puderem entalar ou colidir com os trabalhadores, devem estar equipados com dispositivos de protecção contra estes riscos, excepto se existirem outros dispositivos adequados para controlar o risco de colisão."
+  },
+  "3ce41c140dbc9da6": {
+   "fragment_id": "3.2. Prescrições mínimas aplicáveis aos equipamentos de trabalho destinados à elevação de cargas.",
+   "type": "divisao",
+   "heading": "3.2. Prescrições mínimas aplicáveis aos equipamentos de trabalho destinados à elevação de cargas.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2. Prescrições mínimas aplicáveis aos equipamentos de trabalho destinados à elevação de cargas.\n\n3.2.1. Se os equipamentos de trabalho destinados à elevação de cargas estiverem instalados permanentemente, devem ser garantidas a sua solidez e estabilidade durante a utilização tendo nomeadamente em conta as cargas a elevar e as forças exercidas nos pontos de suspensão ou de fixação às estruturas.\n\n3.2.2. As máquinas destinadas à elevação de cargas devem ostentar uma indicação claramente visível da sua carga nominal, e se necessário, uma placa de carga que indique a carga nominal para cada configuração da máquina. Todos os acessórios de elevação devem ser marcados por forma a que se possam identificar as características essenciais a uma utilização segura. Se o equipamento de trabalho não se destinar à elevação de trabalhadores e houver possibilidades de confusão, deve ser aposta de forma visível uma sinalização adequada.\n\n3.2.3. Os equipamentos de trabalho instalados permanentemente devem ser instalados de modo a reduzir o risco de as cargas: a) Colidirem com os trabalhadores; b) Involuntariamente balançarem perigosamente ou caírem; ou c) Se soltarem involuntariamente.\n\n3.2.4. As máquinas de elevação ou de transporte de trabalhadores devem permitir: a) Evitar os riscos de queda do habitáculo, se este existir, por meio de dispositivos adequados; b) Evitar os riscos de queda do utilizador para fora do habitáculo, se este existir; c) Evitar os riscos de esmagamento, entalamento ou colisão do utilizador, nomeadamente os devidos a um contacto fortuito com objectos; d) Garantir a segurança dos trabalhadores bloqueados em caso de acidente no habitáculo e possibilitar a sua evacuação. Se, por razões inerentes ao local e ao desnivelamento, os riscos referidos na alínea a) não puderam ser evitados através de nenhum dispositivo de segurança, deve ser instalado um cabo com um coeficiente de segurança reforçado cujo bom estado deve ser verificado todos os dias de trabalho."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "815ee8528978eb99": {
+   "fragment_id": "Disposições relativas à utilização dos equipamentos de trabalho referidos no n.º 3 do artigo 4.º",
+   "type": "divisao",
+   "heading": "Disposições relativas à utilização dos equipamentos de trabalho referidos no n.º 3 do artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições relativas à utilização dos equipamentos de trabalho referidos no n.º 3 do artigo 4.º"
+  },
+  "589d06040d6a1cf8": {
+   "fragment_id": "0. Observação prévia",
+   "type": "divisao",
+   "heading": "0. Observação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 0. Observação prévia\n\nO disposto no presente anexo é aplicável no respeito das disposições da directiva e quando o risco correspondente existir relativamente ao equipamento de trabalho considerado."
+  },
+  "720cdb207a4847e8": {
+   "fragment_id": "1. Disposições de ordem geral aplicáveis a todos os equipamentos de trabalho",
+   "type": "divisao",
+   "heading": "1. Disposições de ordem geral aplicáveis a todos os equipamentos de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Disposições de ordem geral aplicáveis a todos os equipamentos de trabalho\n\n1.1. Os equipamentos de trabalho devem ser instalados, dispostos e utilizados de forma a poder reduzir os riscos para os utilizadores do equipamento de trabalho e para os outros trabalhadores, por exemplo fazendo que haja espaço livre suficiente entre os seus elementos móveis e os elementos fixos ou móveis do seu meio circundante e que toda a energia ou qualquer substância utilizada ou produzida possa ser movimentada e/ou evacuada com segurança.\n\n1.2. A montagem e a desmontagem dos equipamentos de trabalho devem ser realizadas de modo seguro, nomeadamente graças ao respeito das eventuais instruções do fabricante.\n\n1.3. Os equipamentos de trabalho que, durante a sua utilização, possam ser atingidos por relâmpagos devem estar protegidos por dispositivos ou medidas adequadas contra os efeitos dos relâmpagos."
+  },
+  "e72fde555c1b6c56": {
+   "fragment_id": "2. Disposições para a utilização de equipamentos de trabalho móveis, automotores ou não",
+   "type": "divisao",
+   "heading": "2. Disposições para a utilização de equipamentos de trabalho móveis, automotores ou não",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Disposições para a utilização de equipamentos de trabalho móveis, automotores ou não\n\n2.1. A condução de equipamentos de trabalho automotores é reservada a trabalhadores que tenham recebido uma formação específica com vista à condução segura destes equipamentos.\n\n2.2. Devem ser estabelecidas e respeitadas regras de circulação apropriadas caso o equipamento de trabalho se movimente numa zona de trabalho.\n\n2.3. Devem ser tomadas medidas de organização para evitar que trabalhadores que se deslocam a pé se encontrem na zona de trabalho de equipamentos de trabalho automotores. Se, para a boa execução dos trabalhos for necessária a presença de trabalhadores apeados, devem ser tomadas as medidas necessárias para evitar que sejam feridos pelos equipamentos.\n\n2.4. O transporte de trabalhadores em equipamentos de trabalho móveis mecânicos só é autorizado em lugares seguros previstos para esse efeito. Se for necessário efectuar trabalhos durante a deslocação, a velocidade deve ser adaptada, se necessário.\n\n2.5. Os equipamentos de trabalho móveis com motor de combustão só devem ser utilizados nas zonas de trabalho se nestas estiver garantido, em quantidade suficiente, um ar que não represente riscos para a segurança ou a saúde dos trabalhadores."
+  },
+  "d9a9b28ee6c347b0": {
+   "fragment_id": "3. Disposições relativas à utilização de equipamentos de trabalho destinados à elevação de cargas",
+   "type": "divisao",
+   "heading": "3. Disposições relativas à utilização de equipamentos de trabalho destinados à elevação de cargas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Disposições relativas à utilização de equipamentos de trabalho destinados à elevação de cargas"
+  },
+  "48e4f4989699417d": {
+   "fragment_id": "3.1. Generalidades",
+   "type": "divisao",
+   "heading": "3.1. Generalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1. Generalidades\n\n3.1.1. Os equipamentos de trabalho desmontáveis ou móveis destinados à elevação de cargas devem ser utilizados de modo a garantir a estabilidade do equipamento de trabalho durante a sua utilização em todas as condições previsíveis, tendo em conta a natureza do solo.\n\n3.1.2. A elevação de trabalhadores só é permitida com os equipamentos de trabalho e acessórios previstos para esse efeito. Sem prejuízo do artigo 5.º da Directiva 89/391/CEE, a título excepcional, podem ser utilizados para esse efeito equipamentos não previstos para a elevação de trabalhadores, desde que tenham sido tomadas as medidas necessárias para garantir a segurança, nos termos das legislações e/ou práticas nacionais que prevêem uma vigilância adequada. Durante a presença de trabalhadores sobre o equipamento de trabalho que serve para a elevação de cargas, o posto de comando deve estar ocupado em permanência. Os trabalhadores elevados devem dispor de um meio de comunicação seguro. Em caso de perigo, deve estar prevista a sua evacuação.\n\n3.1.3. A menos que não seja necessário para o bom desenrolar dos trabalhos, devem ser tomadas medidas para evitar a presença de trabalhadores sob cargas suspensas. Não é permitido deslocar cargas suspensas por cima dos locais de trabalho não protegidos habitualmente ocupados por trabalhadores. Todavia, se a boa execução dos trabalhos não puder ser garantida de outra forma, devem ser definidos e aplicados procedimentos adequados.\n\n3.1.4. Os acessórios de elevação devem ser escolhidos em função das cargas a manipular, dos pontos de preensão, do dispositivo de fixação e das condições atmosféricas e ter em conta o modo e a configuração de lingagem. Os conjuntos de acessórios de elevação devem ser claramente identificados para que o utilizador possa conhecer as suas características, se não forem desmontados após utilização.\n\n3.1.5. Os acessórios de elevação devem ser armazenados de modo a não se danificarem ou deteriorarem."
+  },
+  "4fe9f105cc016c41": {
+   "fragment_id": "3.2 Equipamentos de trabalho destinados à elevação de cargas não guiadas.",
+   "type": "divisao",
+   "heading": "3.2 Equipamentos de trabalho destinados à elevação de cargas não guiadas.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2 Equipamentos de trabalho destinados à elevação de cargas não guiadas.\n\n3.2.1. Se dois ou mais equipamentos de trabalho destinados à elevação de cargas não guiadas estiverem instalados ou montados num local de trabalho de modo que os respectivos campos de acção se sobreponham, devem ser tomadas medidas adequadas para evitar colisões entre as cargas e/ou elementos dos próprios equipamentos de trabalho.\n\n3.2.2. Durante a utilização de equipamentos de trabalho móveis destinados à elevação de cargas não guiadas devem ser tomadas medidas para evitar o basculamento, a capotagem e, eventualmente, a deslocação e o deslizamento do equipamento de trabalho. A boa execução destas medidas deve ser verificada.\n\n3.2.3. Caso o operador de um equipamento de trabalho destinado à elevação de cargas não guiadas não possa observar o trajecto inteiro da carga nem directamente, nem através de dispositivos auxiliares que forneçam informações úteis, deve ser designado um sinaleiro em comunicação com o operador para o orientar, devendo ainda ser tomadas medidas de organização com vista a evitar colisões da carga susceptíveis de pôr em perigo os trabalhadores.\n\n3.2.4. Os trabalhos devem estar organizados de forma a garantir que, quando o carga for fixada ou libertada manualmente por um trabalhador, estas operações possam ser realizadas com toda a segurança, acautelando nomeadamente que esse trabalhador conserva o controlo directo ou indirecto dessas operações.\n\n3.2.5. Todas as operações de elevação de carga devem ser correctamente planificadas, vigiadas de forma adequada e efectuadas de forma a proteger a segurança dos trabalhadores. Em especial, se uma carga for levantada simultaneamente por dois ou mais equipamentos de trabalho destinados à elevação de cargas não guiadas, deverá ser estabelecido e aplicado um procedimento destinado a assegurar a boa coordenação dos operadores.\n\n3.2.6. Caso os equipamentos de trabalho destinados à elevação de cargas não guiadas não possam reter as cargas em caso de corte de energia total ou parcial, devem ser tomadas medidas adequadas para evitar a exposição dos trabalhadores aos riscos correspondentes. As cargas suspensas devem ser vigiadas permanentemente, a não ser que seja impedido o acesso à zona de perigo e a carga tenha sido fixada com toda a segurança e seja mantida com toda a segurança.\n\n3.2.7. A utilização ao ar livre de equipamentos de trabalho destinados à elevação de cargas não guiadas deve ser suspensa caso as condições meteorológicas se degradem a ponto de pôr em perigo a segurança de funcionamento e de expor assim os trabalhadores a riscos. A fim de evitar riscos para os trabalhadores, devem ser tomadas medidas de protecção suplementares destinadas, nomeadamente, a impedir a capotagem do equipamento de trabalho."
+  },
+  "d28db50ee094e17d": {
+   "fragment_id": "4. Disposições relativas à utilização dos equipamentos de trabalho disponibilizados para trabalhos temporários em altura",
+   "type": "divisao",
+   "heading": "4. Disposições relativas à utilização dos equipamentos de trabalho disponibilizados para trabalhos temporários em altura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Disposições relativas à utilização dos equipamentos de trabalho disponibilizados para trabalhos temporários em altura"
+  },
+  "d09a5ed057e558dd": {
+   "fragment_id": "4.1. Disposições gerais",
+   "type": "divisao",
+   "heading": "4.1. Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.1. Disposições gerais\n\n4.1.1. Se, em aplicação do artigo 6.º da Directiva 89/391/CEE e do artigo 3.º da presente directiva, não for possível executar os trabalhos temporários em altura de forma segura e em condições ergonómicas apropriadas a partir de uma superfície adequada, serão escolhidos os equipamentos mais apropriados para garantir e manter condições de trabalho seguras. Deve dar-se prioridade às medidas de protecção colectivas em relação às medidas de protecção individual. O dimensionamento do equipamento de trabalho deve corresponder à natureza dos trabalhos a executar e às dificuldades previsíveis, e permitir a circulação sem perigo. A escolha do tipo mais apropriado de meio de acesso aos postos de trabalho temporários em altura é feita em função da frequência de circulação, da altura a atingir e da duração da utilização. O meio de acesso escolhido deve permitir a evacuação em caso de perigo iminente. A passagem de um meio de acesso a plataformas, pranchadas, passadiços e vice-versa não deve gerar riscos de queda adicionais.\n\n4.1.2. A utilização de uma escada como posto de trabalho em altura deve ser limitada às circunstâncias em que, tendo em conta o ponto 4.1.1, a utilização de outros equipamentos mais seguros não se justifique em razão do nível reduzido de risco e em razão, quer da curta duração de utilização, quer das características existentes que a entidade patronal não pode alterar.\n\n4.1.3. A utilização de técnicas de acesso e de posicionamento por meio de cordas é limitada às circunstâncias em que a avaliação de risco indique que o trabalho pode ser realizado de forma segura e em que não se justifique a utilização de outro equipamento de trabalho mais seguro. Tendo em conta a avaliação dos riscos e nomeadamente em função da duração dos trabalhos e das restrições de natureza ergonómica, deve ser previsto um assento equipado com os acessórios adequados.\n\n4.1.4. Em função do tipo de equipamento de trabalho escolhido com base no disposto nos pontos precedentes, devem ser identificadas medidas adequadas para minimizar os riscos incorridos pelos trabalhadores em consequência da utilização deste tipo de equipamento. Em caso de necessidade, deve prever-se a instalação de dispositivos de protecção contra as quedas. Estes dispositivos devem ter uma configuração e uma resistência capazes de evitar ou de parar as quedas de altura e de prevenir, na medida do possível, as lesões dos trabalhadores. Os dispositivos de protecção colectiva contra as quedas só podem ser interrompidos nos pontos de acesso de escadas verticais ou de outras escadas.\n\n4.1.5. Quando, para a execução de um trabalho específico, for necessário retirar temporariamente um dispositivo de protecção colectiva contra as quedas, deverão ser tomadas medidas de segurança alternativas e eficazes. O trabalho não poderá realizar-se sem a prévia adopção destas medidas. Finalizado esse trabalho especial, definitiva ou temporariamente, os dispositivos de protecção colectiva contra as quedas deverão voltar a ser colocados.\n\n4.1.6. Os trabalhos temporários em altura só podem ser efectuados se as condições meteorológicas não comprometerem a segurança e a saúde dos trabalhadores."
+  },
+  "f876efd27a3cd011": {
+   "fragment_id": "4.2. Disposições específicas relativas à utilização de escadas",
+   "type": "divisao",
+   "heading": "4.2. Disposições específicas relativas à utilização de escadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.2. Disposições específicas relativas à utilização de escadas\n\n4.2.1. As escadas serão colocadas de forma a garantir a sua estabilidade durante a utilização. Os apoios das escadas portáteis devem assentar num suporte estável, resistente, de dimensões adequadas e imóvel, de modo a que os degraus se mantenham na posição horizontal. As escadas suspensas deverão ser amarradas de maneira segura e, exceptuando as escadas de corda, de forma a evitar que se desloquem ou balancem.\n\n4.2.2. O deslizamento do apoio inferior das escadas portáteis deverá ser impedido durante a sua utilização, quer pela fixação da parte superior ou inferior dos montantes, quer por um dispositivo antiderrapante ou por qualquer outra solução de eficácia equivalente. As escadas utilizadas como meio de acesso devem ter o comprimento necessário para ultrapassar suficientemente o nível de acesso, a menos que outros dispositivos permitam um apoio seguro. As escadas de enganchar com vários segmentos e as escadas telescópicas serão utilizadas de forma a garantir a imobilização dos vários segmentos. As escadas móveis deverão ser imobilizadas antes da sua utilização.\n\n4.2.3. As escadas devem ser utilizadas de modo a permitir aos trabalhadores dispor a todo o momento de um apoio e de uma pega seguros. Nomeadamente, em caso de necessidade de carregar um peso à mão sobre uma escada, tal não deverá impedir a manutenção de um apoio seguro."
+  },
+  "cb15044d2fb52b1f": {
+   "fragment_id": "4.3. Disposições específicas relativas à utilização de andaimes",
+   "type": "divisao",
+   "heading": "4.3. Disposições específicas relativas à utilização de andaimes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.3. Disposições específicas relativas à utilização de andaimes\n\n4.3.1. Quando a nota de cálculo do andaime escolhido não se encontra disponível, ou quando as configurações estruturais pretendidas não estão nela contempladas, deverá ser feito um cálculo de resistência e de estabilidade, excepto se o andaime estiver montado respeitando uma configuraçãotipo geralmente reconhecida.\n\n4.3.2. Em função da complexidade do andaime escolhido, deverá ser elaborado um plano de montagem, de utilização e de desmontagem por uma pessoa competente. Este plano pode assumir a forma de um plano de aplicação geral, completado por instruções precisas relativas a detalhes específicos do andaime em questão.\n\n4.3.3. Os elementos de apoio de um andaime serão protegidos contra os riscos de deslizamento, quer pela fixação à face de apoio, quer por um dispositivo antiderrapante ou por qualquer outro meio de eficácia equivalente e a superfície de apoio da carga deve ter capacidade suficiente. Deverá garantir-se a estabilidade do andaime. Dispositivos adequados devem impedir a deslocação acidental dos andaimes sobre rodas durante os trabalhos em altura.\n\n4.3.4. As dimensões, a forma e a disposição das pranchadas de um andaime deverão ser adequadas à natureza do trabalho a executar, adaptadas às cargas a suportar e permitir trabalhar e circular em segurança. As pranchadas dos andaimes serão fixadas sobre os respectivos apoios por forma a que não possam deslocar-se em condições de utilização normal. Não poderá existir nenhum vazio perigoso entre as componentes das pranchadas e os dispositivos de protecção colectiva verticais contra as quedas.\n\n4.3.5. Sempre que certas partes de um andaime não estejam prontas a ser utilizadas, nomeadamente durante a montagem, a desmontagem ou as transformações, deverão ser assinaladas por meio de uma sinalização geral de perigo, segundo as normas nacionais de transposição da Directiva 92/58/CEE, e convenientemente delimitadas por elementos materiais que impeçam o acesso à zona de perigo.\n\n4.3.6. Os andaimes só podem ser montados, desmontados ou substancialmente modificados sob a direcção de uma pessoa competente e por trabalhadores que tenham recebido, em conformidade com o disposto do artigo 7.º, uma formação adequada e específica às operações previstas, para riscos específicos, que incida nomeadamente sobre: a) A interpretação do plano de montagem, desmontagem e transformação do andaime em questão; b) A segurança durante a montagem, a desmontagem ou a transformação do andaime em questão; c) As medidas de prevenção dos riscos de queda de pessoas ou objectos; d) As medidas de segurança em caso de alteração das condições meteorológicas que prejudique a segurança do andaime em questão; e) As condições em matéria de carga admissível; f) Quaisquer outros riscos que as referidas operações de montagem, desmontagem e transformação possam comportar. A pessoa que dirige e os trabalhadores em questão devem dispor do plano de montagem e desmontagem referido no ponto 4.3.2 do presente anexo, incluindo as eventuais instruções que o acompanhem."
+  },
+  "e4584a367855ef0e": {
+   "fragment_id": "4.4. Disposições específicas relativas à utilização de técnicas de acesso e de posicionamento por meio de cordas",
+   "type": "divisao",
+   "heading": "4.4. Disposições específicas relativas à utilização de técnicas de acesso e de posicionamento por meio de cordas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.4. Disposições específicas relativas à utilização de técnicas de acesso e de posicionamento por meio de cordas\n\nA utilização das técnicas de acesso e de posicionamento por meio de cordas deve respeitar as seguintes condições:\n\na) O sistema deve comportar pelo menos duas cordas fixadas separadamente, uma das quais será utilizada como meio de acesso, descida e sustentação (corda de trabalho), e a outra como dispositivo de socorro (corda de segurança);\n\nb) Os trabalhadores devem receber e utilizar arneses adequados através dos quais fiquem ligados à corda de segurança;\n\nc) A corda de trabalho deve estar equipada com um mecanismo seguro de subida e descida e conter um sistema autobloqueante que impeça a queda do utilizador na eventualidade de este perder o controlo dos seus movimentos. A corda de segurança deve estar equipada com um dispositivo móvel antiqueda que acompanhe as deslocações do trabalhador;\n\nd) As ferramentas e outros acessórios a utilizar pelo trabalhador devem estar ligados ao seu arnês ou ao seu assento ou presos de outra forma adequada;\n\ne) O trabalho deve ser correctamente programado e supervisionado, de modo a que o trabalhador possa ser imediatamente socorrido em caso de necessidade;\n\nf) Os trabalhadores em questão devem receber, em conformidade com as disposições do artigo 7.º, uma formação adequada e específica para as operações em causa, e nomeadamente sobre os procedimentos de salvamento.\n\nEm circunstâncias excepcionais em que, feita uma avaliação dos riscos, a utilização de uma segunda corda tornaria o trabalho mais perigoso, poderá ser autorizada a utilização de uma única corda desde que tenham sido tomadas as medidas adequadas para garantir a segurança, em conformidade com as legislações e/ou práticas nacionais.\n\n---"
+  },
+  "2dd3a94f4e283375": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/7ef9b87f-7c68-4e08-b9f7-378775646ac4.0018.03/DOC_1#src.E0001)) JO n.º C 114 de 30.4.1988, p. 3,\n\n> JO n.º C 106 de 26.4.1989, p. 13 e\n\n> JO n.º C 287 de 15.11.1989, p. 12.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/7ef9b87f-7c68-4e08-b9f7-378775646ac4.0018.03/DOC_1#src.E0002)) JO n.º C 326 de 19.12.1988, p. 132 e\n\n> JO n.º C 256 de 9.10.1989, p. 65.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/7ef9b87f-7c68-4e08-b9f7-378775646ac4.0018.03/DOC_1#src.E0003)) JO n.º C 318 de 12.12.1988, p. 26.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/7ef9b87f-7c68-4e08-b9f7-378775646ac4.0018.03/DOC_1#src.E0004)) JO n.º C 28 de 3.2.1988, p. 3.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/7ef9b87f-7c68-4e08-b9f7-378775646ac4.0018.03/DOC_1#src.E0005)) JO n.º C 28 de 3.2.1988, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/7ef9b87f-7c68-4e08-b9f7-378775646ac4.0018.03/DOC_1#src.E0006)) JO n.º L 183 de 29.6.1989, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/7ef9b87f-7c68-4e08-b9f7-378775646ac4.0018.03/DOC_1#src.E0007)) JO n.º L 109 de 26.4.1983, p. 8.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/7ef9b87f-7c68-4e08-b9f7-378775646ac4.0018.03/DOC_1#src.E0008)) JO n.º L 185 de 9.7.1974, p. 15."
+  },
+  "7c60b8cc01c12cec": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1989L0655 — PT — 23.10.2009 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31989L0655) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31989L0655) [de 30 de Novembro de 1989](http://publications.europa.eu/resource/celex/31989L0655) [relativa às prescrições mínimas de segurança e de saúde para a utilização pelos trabalhadores de equipamentos de trabalho no trabalho](http://publications.europa.eu/resource/celex/31989L0655) [(segunda directiva especial, na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE)](http://publications.europa.eu/resource/celex/31989L0655) [(89/655/CEE)](http://publications.europa.eu/resource/celex/31989L0655) (JO L 393, 30.12.1989, p.13)\n\n**revogado por:**\n\n- [Directiva 2009/104/CE do Parlamento Europeu e do Conselho de 16 de Setembro de 2009](http://publications.europa.eu/resource/celex/32009L0104) — L 260 — 5 — 3.10.2009"
+  }
+ }
+}

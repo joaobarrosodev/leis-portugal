@@ -1,0 +1,99 @@
+---
+schema_version: '1.0'
+id: pt:dre:444206:por
+title: Declaração de Rectificação n.º 13-G/96
+short_title: null
+summary: De ter sido rectificada a Portaria n.º 230/96, do Ministério das Finanças, que homologa os acordos que estabelecem
+  as condições de aprovisionamento do Estado de papel e produtos de higiene, publicada no Diário da República, 1.ª série,
+  n.º 146, de 26 de Junho de 1996
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 13-G/96
+official_date: null
+publication_date: '1996-08-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 202/1996, 2º Suplemento, Série I-B de 1996-08-31
+  number: '202'
+  series: I
+  supplement: null
+  pages: 2888-(8) a 2888-(8)
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/08/202b02/00080008.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declrectif/13-g/1996/08/31/p/dre/pt/html
+  oj: null
+  dre: '444206'
+  dre_path: /dr/detalhe/declaracao-rectificacao/13-g-1996-444206
+  internal: pt:dre:444206:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-g-1996-444206
+  metadata_url: https://data.dre.pt/eli/declrectif/13-g/1996/08/31/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-g-1996-444206
+  consolidated_url: null
+  retrieved_at: '2026-10-22T18:46:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 704f27321716d17a86530deffa18ce9ef450ba9bef4972536eaf0b2f7c7c6002
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:46:58Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Pública
+- Aquisição de Bens e Serviços
+- Direcção Geral do Património do Estado
+- Papel
+relationships:
+- type: cites
+  target: pt:dre:427400:por
+  label: null
+  source: http://data.dre.pt/eli/port/230/1996/06/26/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T18:46:58Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 13-G/96
+
+Segundo comunicação do Ministério das Finanças, a [Portaria n.º 230/96](https://diariodarepublica.pt/dr/detalhe/portaria/230-1996-427400), publicada no Diário da República, 1.ª série, n.º 146, de 26 de Junho de 1996, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+
+No anexo, coluna «Número do acordo», onde se lê «611655» deve ler-se «611665».
+
+Secretaria-Geral da Presidência do Conselho de Ministros, 19 de Agosto de 1996. - O Secretário-Geral, Alexandre Figueiredo.

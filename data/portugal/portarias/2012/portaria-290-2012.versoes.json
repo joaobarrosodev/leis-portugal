@@ -1,0 +1,898 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:176038:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-855131995",
+ "dre_path": "/dr/detalhe/portaria/290-2012-176038",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-09-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "855176173",
+    "855176077",
+    "855176078",
+    "855176079",
+    "855176080",
+    "855176081",
+    "855176082",
+    "855176083",
+    "855176084",
+    "855176085",
+    "855176086",
+    "855176087",
+    "855176088",
+    "855176089",
+    "855176090",
+    "855176091",
+    "855176092",
+    "855176093",
+    "855176094",
+    "855176095",
+    "855176096",
+    "855176097",
+    "855176098",
+    "855176099",
+    "855176100",
+    "855176101",
+    "855176103",
+    "855176104",
+    "855176105",
+    "855176106",
+    "855176107",
+    "855176108",
+    "855176109",
+    "855176110",
+    "855176111",
+    "855176112",
+    "855176113",
+    "855176114",
+    "855176115",
+    "855176116",
+    "855176117",
+    "855176118",
+    "855176119"
+   ]
+  },
+  {
+   "date": "2024-03-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:854635720:por",
+     "title": "Portaria n.º 90/2024/1",
+     "published": "2024-03-11",
+     "dre_path": "/dr/detalhe/portaria/90-2024-854635720"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "855176173",
+    "855176174",
+    "855206475",
+    "855206476",
+    "855206477",
+    "855206478",
+    "855206479",
+    "855206480",
+    "855206481",
+    "855206482",
+    "855206483",
+    "855206484",
+    "855206485",
+    "855206486",
+    "855206487",
+    "855206488",
+    "855206489",
+    "855206490",
+    "855206491",
+    "855206492",
+    "855206493",
+    "855206494",
+    "855206495",
+    "855206496",
+    "855206497",
+    "855206498",
+    "855206499",
+    "855206500",
+    "855206501",
+    "855206502",
+    "855206503",
+    "855206504",
+    "855206505",
+    "855206506",
+    "855206507",
+    "855206508",
+    "855206509",
+    "855206510",
+    "855206511",
+    "855206512",
+    "855206513",
+    "855206514",
+    "855206515",
+    "855206516"
+   ]
+  }
+ ],
+ "fragments": {
+  "855176173": {
+   "fragment_id": "855131996",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2024-03-12",
+   "changed_by": [],
+   "markdown": "Portaria n.º 290/2012\n\nde 24 de setembro\n\nO Decreto-Lei n.º 279/2009, de 6 de outubro, estabelece o novo regime jurídico a que ficam sujeitos a abertura, a modificação e o funcionamento das unidades privadas de saúde.\n\nO novo modelo de licenciamento visa garantir que se verifiquem os requisitos necessários para que seja assegurada a qualidade dos serviços prestados no setor privado e, em paralelo, modernizar o procedimento a que os agentes poderão aceder através do Portal de Licenciamento.\n\nO procedimento de licenciamento das unidades privadas que prossigam atividades no âmbito da prestação de serviços médicos ou de enfermagem e que disponham de internamento é exigente quanto ao cumprimento dos requisitos técnicos e de qualidade, e os agentes assumem a responsabilidade pelo cumprimento dos requisitos técnicos exigidos, sem prejuízo da necessária vistoria.\n\nImporta assim estabelecer os requisitos técnicos a que deve obedecer o exercício da atividade das unidades privadas que prossigam atividades no âmbito da prestação de serviços de saúde e que disponham de internamento.\n\nAssim, manda o Governo, pelo Secretário de Estado da Saúde, ao abrigo do n.º 5 do artigo 9.º, do artigo 25.º e do artigo 27.º do Decreto-Lei n.º 279/2009, de 6 de outubro, o seguinte:"
+  },
+  "855176077": {
+   "fragment_id": "855131997",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "855176078": {
+   "fragment_id": "855131998",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece os requisitos mínimos relativos à organização e funcionamento, recursos humanos e instalações técnicas para o exercício da atividade das unidades privadas que tenham por objeto a prestação de serviços de saúde e que disponham de internamento."
+  },
+  "855176079": {
+   "fragment_id": "855131999",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma, consideram-se unidades com internamento as unidades onde existam condições que permitam a permanência de doentes cuja admissão e alta não seja possível no mesmo dia, associado ou não a bloco operatório onde se exerçam atos cirúrgicos não passíveis de serem realizados em regime ambulatório."
+  },
+  "855176080": {
+   "fragment_id": "855132000",
+   "type": 1,
+   "heading": "Capítulo II — Organização e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Organização e funcionamento"
+  },
+  "855176081": {
+   "fragment_id": "855132001",
+   "type": 11,
+   "heading": "Artigo 3.º — Qualidade e segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Qualidade e segurança\n\nAs normas de qualidade e segurança devem ser cumpridas em todas as situações previstas na presente portaria de acordo com as regras, os códigos científicos e técnicos internacionalmente reconhecidos nas áreas abrangidas, competindo à Direção-Geral da Saúde, ouvidas as respetivas ordens profissionais, propor ao membro do Governo responsável pela área da saúde a sua adoção."
+  },
+  "855176082": {
+   "fragment_id": "855132002",
+   "type": 11,
+   "heading": "Artigo 4.º — Informação aos utentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Informação aos utentes\n\nDeve ser colocado em local bem visível do público o horário de funcionamento, o nome do diretor clínico, os procedimentos a adotar em situações de emergência e os direitos e deveres dos utentes, devendo ainda estar disponível para consulta a tabela de preços."
+  },
+  "855176083": {
+   "fragment_id": "855132003",
+   "type": 11,
+   "heading": "Artigo 5.º — Seguro profissional e de atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Seguro profissional e de atividade\n\nAs unidades privadas que prossigam atividades no âmbito da prestação de serviços de saúde e que disponham de internamento devem contratar e manter em vigor um seguro de responsabilidade civil e profissional que cubra os riscos inerentes à respetiva atividade e à atividade dos seus profissionais."
+  },
+  "855176084": {
+   "fragment_id": "855132004",
+   "type": 11,
+   "heading": "Artigo 6.º — Regulamento interno das unidades com internamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regulamento interno das unidades com internamento\n\n1 - As unidades com internamento devem dispor de um regulamento interno do qual deve constar, pelo menos, o seguinte:\n\na) Identificação do diretor clínico e do seu substituto;\n\nb) Estrutura organizacional;\n\nc) Deveres gerais dos profissionais;\n\nd) Categorias e graduações profissionais, funções e competências de cada grupo profissional;\n\ne) Normas de funcionamento.\n\n2 - Quando o regulamento interno dispuser sobre matérias da competência do diretor clínico, designadamente as previstas no artigo 10.º, n.º 6, da presente portaria, deve ser obtido o seu parecer prévio favorável."
+  },
+  "855176085": {
+   "fragment_id": "855132005",
+   "type": 11,
+   "heading": "Artigo 7.º — Registo, conservação e arquivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Registo, conservação e arquivo\n\nAs unidades com internamento devem conservar durante os períodos constantes da lei vigente os seguintes documentos:\n\na) Os processos clínicos dos doentes contendo os respetivos registos;\n\nb) Os dados referentes ao controlo de qualidade;\n\nc) Os relatórios anuais;\n\nd) Os protocolos atualizados celebrados com outras unidades de saúde;\n\ne) O regulamento interno;\n\nf) Os relatórios das vistorias realizadas pela ARS ou outras entidades;\n\ng) Os contratos celebrados com terceiros relativos às atividades identificadas no artigo 13.º do presente diploma;\n\nh) Os protocolos técnicos terapêuticos e outras normas técnicas destinadas à atividade profissional."
+  },
+  "855176086": {
+   "fragment_id": "855132006",
+   "type": 1,
+   "heading": "Capítulo III — Instrução do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Instrução do processo"
+  },
+  "855176087": {
+   "fragment_id": "855132007",
+   "type": 11,
+   "heading": "Artigo 8.º — Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Documentação\n\n1 - Os pedidos de licenciamento devem ser instruídos com os seguintes documentos:\n\na) Cópia autenticada do cartão de identificação de pessoa coletiva ou no caso de pessoa singular do bilhete de identidade do requerente e do respetivo cartão de contribuinte;\n\nb) Declaração de compromisso de entrega da relação nominal do pessoal e respetivo mapa com a distribuição pelos diferentes grupos profissionais, no prazo máximo de 60 dias a contar da data da licença de funcionamento;\n\nc) Memória descritiva e justificativa (indicando o número de salas de operações e a designação dos serviços ou valências de que a unidade dispõe) e telas finais dos projetos de arquitetura, instalações e equipamentos elétricos, instalações e equipamentos mecânicos e instalações e equipamentos de águas e esgotos relativos às instalações em que a unidade deverá funcionar, assinados por técnicos devidamente habilitados;\n\nd) Autorização de utilização para comércio ou serviços ou indústria ou outra finalidade mais específica emitida pela câmara municipal competente;\n\ne) Certificado da Autoridade Nacional de Proteção Civil ou equivalente que comprove o cumprimento do regulamento de segurança contra incêndios;\n\nf) Certidão atualizada do registo comercial.\n\n2 - A unidade deverá dispor em arquivo da seguinte documentação:\n\na) Cópia do contrato com entidade certificada para a gestão de resíduos hospitalares;\n\nb) Relatório com os resultados das medições de isolamento dos pavimentos antiestáticos ou documento com as características técnicas deste pavimento.\n\n3 - Adicionalmente, se aplicável, a unidade deverá dispor ainda em arquivo da seguinte documentação:\n\na) Certificado ou licença de exploração das instalações elétricas (dispensável quando tiver autorização de utilização atualizada);\n\nb) Cópia do termo de responsabilidade pela exploração das instalações elétricas;\n\nc) Certificado de inspeção das instalações de gás;\n\nd) Documento comprovativo do controlo sanitário da água;\n\ne) Certificação das instalações de gases medicinais;\n\nf) Certificado energético das instalações de climatização."
+  },
+  "855176088": {
+   "fragment_id": "855132008",
+   "type": 11,
+   "heading": "Artigo 9.º — Condições de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Condições de licenciamento\n\n1 - São condições de atribuição da licença de funcionamento:\n\na) A idoneidade do requerente, a qual, no caso de se tratar de pessoa coletiva, deve ser preenchida pelos administradores, ou diretores ou gerentes que detenham a direção efetiva do estabelecimento;\n\nb) A idoneidade profissional dos elementos da direção clínica e demais pessoal clínico e de enfermagem;\n\nc) O cumprimento dos requisitos que permitam a garantia da qualidade técnica dos cuidados e tratamentos a prestar, bem como dos equipamentos de que ficarão dotados.\n\n2 - Para efeitos do disposto no presente diploma, são consideradas idóneas as pessoas relativamente às quais se não verifique algum dos seguintes impedimentos:\n\na) Proibição legal do exercício do comércio;\n\nb) Condenação, com trânsito em julgado, qualquer que tenha sido a natureza do crime, nos casos em que tenha sido decretada a interdição do exercício de profissão;\n\nc) Inibição do exercício da atividade profissional pela respetiva ordem ou associação profissional durante o período determinado.\n\n3 - O disposto no número anterior deixa de produzir efeitos após reabilitação ou pelo decurso do prazo de interdição fixado pela decisão condenatória.\n\n4 - O requerente deve apresentar junto da ARS competente os documentos comprovativos de que se encontram preenchidas as condições de licenciamento constantes das alíneas a) a c) do n.º 1 do presente artigo, no prazo de 10 dias úteis a contar da notificação da decisão de licença, sob pena de caducidade da mesma."
+  },
+  "855176089": {
+   "fragment_id": "855132009",
+   "type": 1,
+   "heading": "Capítulo IV — Recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Recursos humanos"
+  },
+  "855176090": {
+   "fragment_id": "855132010",
+   "type": 11,
+   "heading": "Artigo 10.º — Direção clínica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direção clínica\n\n1 - As unidades com internamento são tecnicamente dirigidas por um diretor clínico inscrito na Ordem dos Médicos.\n\n2 - Cada diretor clínico deve assumir a responsabilidade por uma única unidade com internamento, implicando a sua disponibilidade efetiva, devendo ser substituído, durante as suas ausências ou impedimentos temporários, por outro médico.\n\n3 - Pode assumir a substituição do diretor clínico de outra unidade com internamento nas suas ausências ou impedimentos temporários.\n\n4 - Em caso de impedimento ou cessação permanente de funções do diretor clínico, deve ser provida a sua substituição no prazo máximo de 60 dias, com comunicação da substituição à ARS.\n\n5 - Pode ser autorizado, por despacho do Conselho Diretivo da ARS no âmbito do processo de licenciamento, que o diretor clínico exerça a direção clínica em duas unidades com internamento, através de requerimento do interessado que fundamente a pretensão e explicite as condições em que o exercício poderá ser desenvolvido.\n\n6 - É da responsabilidade do diretor clínico:\n\na) Emitir parecer prévio sobre o regulamento interno, naquilo que respeitar matérias da sua competência, nos termos do artigo 6.º, n.º 2, da presente portaria;\n\nb) Designar, de entre os profissionais com qualificação equivalente à sua, o seu substituto durante as suas ausências ou impedimentos;\n\nc) Velar pelo cumprimento dos preceitos éticos, deontológicos e legais;\n\nd) Velar pela qualidade dos tratamentos e dos cuidados clínicos prestados, tendo em particular atenção os programas de garantia de qualidade, incluindo o controlo de infeção e das resistências aos antimicrobianos;\n\ne) Orientar e supervisionar o cumprimento das normas estabelecidas quanto à estratégia terapêutica dos doentes e aos controlos clínicos;\n\nf) Aprovar os protocolos técnicos, clínicos, terapêuticos e velar pelo seu cumprimento;\n\ng) Aprovar as normas referentes à proteção da saúde e à segurança do pessoal, bem como respeitar as especificações referentes à proteção do ambiente e da saúde pública, designadamente as referentes aos resíduos, e velar pelo seu cumprimento;\n\nh) Garantir a qualificação técnico-profissional adequada para o desempenho das funções técnicas necessárias;\n\ni) Zelar e garantir a idoneidade profissional do pessoal técnico da unidade;\n\nj) Aprovar o relatório anual da avaliação anual dos cuidados prestados na unidade, do qual deve constar o movimento de doentes e de consultas."
+  },
+  "855176091": {
+   "fragment_id": "855132011",
+   "type": 11,
+   "heading": "Artigo 11.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Pessoal\n\n1 - As unidades com internamento devem dispor de pessoal técnico necessário ao desempenho das funções dos serviços para que estão licenciadas.\n\n2 - As unidades com internamento devem assegurar, no funcionamento dos seus serviços, a presença física e permanente de pessoal de enfermagem.\n\n3 - Sempre que solicitado pelas entidades competentes, as unidades com internamento devem facultar a relação atualizada do seu pessoal, incluindo as respetivas categorias profissionais, habilitações e descrição de funções."
+  },
+  "855176092": {
+   "fragment_id": "855132012",
+   "type": 11,
+   "heading": "Artigo 12.º — Farmacêutico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Farmacêutico\n\n1 - As unidades com internamento devem dispor da colaboração de um farmacêutico, responsável pelo serviço de farmácia, bem como pela conservação, identificação e distribuição dos medicamentos.\n\n2 - A atividade e o funcionamento do serviço de farmácia das unidades regem-se, com as necessárias adaptações, pelo Regulamento dos Serviços Farmacêuticos Hospitalares."
+  },
+  "855176093": {
+   "fragment_id": "855132013",
+   "type": 11,
+   "heading": "Artigo 13.º — Recurso a serviços contratados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Recurso a serviços contratados\n\nAs unidades com internamento devem garantir, por si ou com recurso a serviços de terceiros (que se encontrem, nos termos da legislação em vigor, licenciados, certificados ou acreditados para o efeito), o transporte de doentes, o tratamento de roupa, o fornecimento de refeições, de gases medicinais e de produtos esterilizados, e ainda a gestão dos resíduos hospitalares."
+  },
+  "855176094": {
+   "fragment_id": "855132014",
+   "type": 1,
+   "heading": "Capítulo V — Requisitos técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Requisitos técnicos"
+  },
+  "855176095": {
+   "fragment_id": "855132015",
+   "type": 11,
+   "heading": "Artigo 14.º — Meio físico e espaço envolvente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Meio físico e espaço envolvente\n\n1 - As unidades com internamento devem situar-se em locais adequados ao exercício da atividade, cumprindo os requisitos estabelecidos na lei em matéria de construção e urbanismo.\n\n2 - As unidades com internamento devem garantir, por si ou com recurso a terceiros, a gestão de resíduos em conformidade com as disposições legais.\n\n3 - As unidades com internamento devem, preferencialmente, estar instaladas em edifícios destinados a esse fim.\n\n4 - Excecionalmente, se a natureza das demais atividades exercidas nos edifícios não o desaconselhe, pode ser admitida a instalação de unidades com internamento em parte de edifício, desde que haja independência, designadamente das instalações técnicas especiais, em relação aos demais ocupantes do edifício e se observem as disposições técnicas expressas na presente portaria."
+  },
+  "855176096": {
+   "fragment_id": "855132016",
+   "type": 11,
+   "heading": "Artigo 15.º — Normas genéricas de construção, segurança e privacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Normas genéricas de construção, segurança e privacidade\n\n1 - A construção deve contemplar a eliminação de barreiras arquitetónicas, nos termos da legislação em vigor.\n\n2 - A sinalética deve ser concebida de forma a ser compreendida pelos utentes.\n\n3 - Os acabamentos utilizados nas unidades com internamento devem permitir a manutenção de um grau de higienização compatível com a atividade desenvolvida nos locais a que se destinam.\n\n4 - As unidades com internamento devem garantir a localização de instalações técnicas, de armazenagem de fluidos inflamáveis ou perigosos e de gases medicinais, caso existam, nas condições de segurança legalmente impostas.\n\n5 - As unidades com internamento devem dispor de serviço de farmácia, dotado de instalações próprias que permitam a boa conservação e inspeção dos medicamentos.\n\n6 - As unidades com internamento devem garantir:\n\na) A paragem de ambulâncias sem prejuízo da circulação na via pública;\n\nb) A fácil circulação e manobra de macas e cadeiras de rodas;\n\nc) O estacionamento para pessoas com mobilidade condicionada.\n\n7 - O acesso do público deve fazer-se através da entrada principal, exceto no caso de pessoas com mobilidade condicionada, sempre que alguma das situações previstas nas alíneas b) e c) do número anterior o recomende.\n\n8 - Os acessos de serviço devem garantir a compatibilidade entre os vários tipos de abastecimento à unidade.\n\n9 - Todas as escadas onde, em situações de comprovada emergência, seja forçosa a circulação de macas devem ter largura não inferior a 1,40 m e uma inclinação de acordo com a legislação em vigor.\n\n10 - Os corredores e demais circulações horizontais deverão ter como pé-direito útil mínimo 2,40 m. Entende-se por pé-direito útil a altura livre do pavimento ao teto ou teto falso.\n\n11 - Os corredores destinados a circulação de camas e macas devem ter o mínimo de 2,20 m de largura útil. Admite-se a existência de corredores com o mínimo de 1,80 m de largura útil desde que haja bolsas que permitam o cruzamento de camas.\n\n12 - As portas das salas utilizadas na passagem de macas e camas devem ter o mínimo de 1,40 m de largura útil.\n\n13 - Sempre que a unidade não disponha de acesso de nível ao exterior e ou tenha um desenvolvimento em altura superior a um piso, deve dispor de, pelo menos, um ascensor com capacidade para o transporte de camas (monta-camas), com dimensões interiores não inferiores a 2,40 m, 1,40 m e 2,10 m, respetivamente de comprimento, de largura e de altura.\n\n14 - As unidades com internamento devem garantir as condições que permitam o respeito pela privacidade e dignidade dos utentes.\n\n15 - Os equipamentos de suporte vital e de emergência devem estar acessíveis e funcionais e devem ser objeto de ensaios regulares documentados.\n\n16 - Os quartos ou enfermarias de internamento nas unidades com internamento devem dispor de arejamento e iluminação naturais em condições satisfatórias e simultaneamente permitir o seu completo obscurecimento. As janelas em unidades que prestem cuidados de psiquiatria devem ser concebidas de modo a salvaguardar a integridade física dos utentes.\n\n17 - As portas dos quartos ou enfermarias devem ter uma largura útil mínima de 1,10 m.\n\n18 - Nos quartos com mais de uma cama, a distância entre camas deve ser, no mínimo, de 0,90 m. A distância entre uma das camas e a parede lateral deve ser, no mínimo, de 0,60 m. Deve também ser considerada uma área livre na qual se inscreva um círculo de 1,50 m de diâmetro entre a outra cama e a parede lateral.\n\n19 - Em unidades que prestem cuidados de psiquiatria, as portas dos compartimentos que possam ser utilizadas por doentes não podem permitir o encerramento pelo interior do compartimento."
+  },
+  "855176097": {
+   "fragment_id": "855132017",
+   "type": 11,
+   "heading": "Artigo 16.º — Especificações técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Especificações técnicas\n\nSão aprovadas especificações técnicas no que diz respeito aos compartimentos das unidades com internamento e aos requisitos mínimos de equipamento técnicos e médicos nos anexos i a xvii à presente portaria, da qual fazem parte integrante."
+  },
+  "855176098": {
+   "fragment_id": "855132018",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais"
+  },
+  "855176099": {
+   "fragment_id": "855132019",
+   "type": 11,
+   "heading": "Artigo 17.º — Outros serviços de ação médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Outros serviços de ação médica\n\nSempre que a unidade dispuser de outros serviços de ação médica, estes devem cumprir as exigências e requisitos constantes nos respetivos diplomas."
+  },
+  "855176100": {
+   "fragment_id": "855132020",
+   "type": 11,
+   "heading": "Artigo 18.º — Livro de reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Livro de reclamações\n\nAs unidades com internamento estão sujeitas à obrigatoriedade de existência e disponibilização de livro de reclamações, nos termos da legislação em vigor."
+  },
+  "855176101": {
+   "fragment_id": "855132021",
+   "type": 11,
+   "heading": "Artigo 19.º — Início de vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Início de vigência\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "855176103": {
+   "fragment_id": "855132023",
+   "type": 14,
+   "heading": "Anexo I — (previsto no artigo 16.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (previsto no artigo 16.º)\n\nConsulta externa (se existir)\n\nCompartimentos a considerar:\n\n(ver documento original)"
+  },
+  "855176104": {
+   "fragment_id": "855132024",
+   "type": 14,
+   "heading": "Anexo II — (previsto no artigo 16.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (previsto no artigo 16.º)\n\nServiço de Atendimento Permanente (se existir)\n\nCompartimentos a considerar:\n\n(ver documento original)"
+  },
+  "855176105": {
+   "fragment_id": "855132025",
+   "type": 14,
+   "heading": "Anexo III — (previsto no artigo 16.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (previsto no artigo 16.º)\n\nInternamento\n\nAs instalações referidas em seguida são consideradas por unidade de 30 camas, ou piso de internamento:\n\n(ver documento original)"
+  },
+  "855176106": {
+   "fragment_id": "855132026",
+   "type": 14,
+   "heading": "Anexo IV — (previsto no artigo 16.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — (previsto no artigo 16.º)\n\nUrgência (se existir)\n\nCompartimentos a considerar:\n\n(ver documento original)"
+  },
+  "855176107": {
+   "fragment_id": "855132027",
+   "type": 14,
+   "heading": "Anexo V — (previsto no artigo 16.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — (previsto no artigo 16.º)\n\nBloco operatório (se existir)\n\nCompartimentos a considerar:\n\n(ver documento original)"
+  },
+  "855176108": {
+   "fragment_id": "855132028",
+   "type": 14,
+   "heading": "Anexo VI — (previsto no artigo 16.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI — (previsto no artigo 16.º)\n\nUnidade de Cuidados Intermédios (se existir)\n\nCompartimentos a considerar:\n\n(ver documento original)"
+  },
+  "855176109": {
+   "fragment_id": "855132029",
+   "type": 14,
+   "heading": "Anexo VII — (previsto no artigo 16.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VII — (previsto no artigo 16.º)\n\nUnidade de Cuidados Intensivos (se existir)\n\nCompartimentos a considerar:\n\n(ver documento original)"
+  },
+  "855176110": {
+   "fragment_id": "855132030",
+   "type": 14,
+   "heading": "Anexo VIII — (previsto no artigo 16.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VIII — (previsto no artigo 16.º)\n\nCentral de Desinfeção e Esterilização (se existir)\n\nCompartimentos a considerar:\n\n(ver documento original)"
+  },
+  "855176111": {
+   "fragment_id": "855132031",
+   "type": 14,
+   "heading": "Anexo IX — (previsto no artigo 16.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IX — (previsto no artigo 16.º)\n\nClimatização\n\nRequisitos mínimos a considerar:\n\n(ver documento original)\n\nOutros requisitos:\n\nPara os compartimentos não indicados, e relativamente às condições da atmosfera de trabalho e condições de temperatura e humidade, aplica-se a legislação em vigor sobre comportamento térmico, sobre os sistemas energéticos dos edifícios e sobre higiene e segurança do trabalho."
+  },
+  "855176112": {
+   "fragment_id": "855132032",
+   "type": 14,
+   "heading": "Anexo X — (previsto no artigo 16.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo X — (previsto no artigo 16.º)\n\nGases medicinais e aspiração\n\nRequisitos mínimos a considerar:\n\n(ver documento original)\n\nOutros requisitos:\n\nSe o vácuo for produzido através de bombas, a correspondente central deve ser fisicamente separada das restantes, com a extração do sistema situada a uma cota de, pelo menos, 3 m acima das admissões de ar próximas.\n\nSe o ar comprimido respirável for produzido por compressores, a central deve de ser fisicamente separada das restantes.\n\nTodas as centrais devem ter uma fonte primária, uma fonte secundária e uma fonte de reserva, de comutação automática.\n\nTomadas de duplo fecho, não intermutáveis de fluido para fluido.\n\nA utilização do tubo de poliamida apenas deverá ser permitida nas calhas técnicas, suportes de teto e colunas de teto, quando integrado pelo fabricante e desde que acompanhados dos respetivos certificados CE medicinal.\n\nDevem existir tomadas para extração de gases anestésicos em todos os pontos de utilização de N(índice 2)O, associados a sistema de extração próprio.\n\nCaso existam ferramentas pneumáticas, o acionamento será obrigatoriamente assegurado por ar comprimido medicinal."
+  },
+  "855176113": {
+   "fragment_id": "855132033",
+   "type": 14,
+   "heading": "Anexo XI — (previsto no artigo 16.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XI — (previsto no artigo 16.º)\n\nEquipamentos de desinfeção e esterilização\n\nRequisitos mínimos a considerar:\n\nPara a obtenção de artigos esterilizados, deverão adotar-se as seguintes modalidades:\n\n1 - Utilização exclusiva de artigos descartáveis (não podem ser reprocessados para utilização posterior).\n\n2 - Utilização de artigos esterilizados em entidade externa certificada.\n\n3 - Utilização de artigos esterilizados em serviço interno de esterilização para uma parte ou a totalidade das necessidades da unidade de saúde. Em caso de esterilização pelo serviço interno de apenas uma parte do material, o restante deverá ser obtido com recurso às opções descritas em a) e b) .\n\n4 - Utilização de artigos esterilizados em serviço central de esterilização.\n\nRequisitos especiais:\n\n1 - Todos os dispositivos potencialmente contaminados são manipulados, recolhidos e transportados em caixas ou carros fechados para a área de descontaminação de forma a evitar o risco de contaminação dos circuitos envolventes e de doentes e pessoal.\n\n2 - O serviço interno de esterilização deve satisfazer aos normativos em vigor com vista a assegurar o cumprimento das seguintes fases:\n\na) Recolha de instrumentos ou dispositivos médicos;\n\nb) Limpeza e descontaminação;\n\nc) Triagem, montagem e embalagem;\n\nd) Esterilizador validado e mantido de acordo com a legislação nacional, adaptado às necessidades do serviço e ao tipo de técnicas utilizadas;\n\ne) Em caso de existência de uma Central de Esterilização para a totalidade dos artigos esterilizados da unidade de saúde, esta deverá estar concebida, organizada e equipada de acordo com os normativos e legislação em vigor, dispor da capacidade adequada às necessidades da unidade de saúde e estar certificada."
+  },
+  "855176114": {
+   "fragment_id": "855132034",
+   "type": 14,
+   "heading": "Anexo XII — (previsto no artigo 16.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XII — (previsto no artigo 16.º)\n\nInstalações e equipamentos para confeção e distribuição de alimentação\n\nRequisitos mínimos a considerar:\n\n(ver documento original)\n\nOutros requisitos:\n\nAs unidades com internamento com atendimento de doentes portadores de doenças infectocontagiosas, devem possuir máquina de lavar louça com programa de desinfeção.\n\nO equipamento descrito, bem como as respetivas bancadas de apoio, tem de ser construído em material que permita garantir as necessárias condições higiénicas de acordo com a legislação em vigor.\n\nO equipamento descrito deve ter capacidade adequada às necessidades da unidade de saúde a que se destina."
+  },
+  "855176115": {
+   "fragment_id": "855132035",
+   "type": 14,
+   "heading": "Anexo XIII — (previsto no artigo 16.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XIII — (previsto no artigo 16.º)\n\nEquipamentos para tratamento de roupa\n\nRequisitos mínimos a considerar:\n\n(ver documento original)"
+  },
+  "855176116": {
+   "fragment_id": "855132036",
+   "type": 14,
+   "heading": "Anexo XIV — (previsto no artigo 16.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XIV — (previsto no artigo 16.º)\n\nEquipamentos frigoríficos\n\nRequisitos mínimos a considerar:\n\n(ver documento original)"
+  },
+  "855176117": {
+   "fragment_id": "855132037",
+   "type": 14,
+   "heading": "Anexo XV — (previsto no artigo 16.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XV — (previsto no artigo 16.º)\n\nInstalações e equipamentos elétricos\n\nAs instalações e equipamentos elétricos devem satisfazer as regras e regulamentos aplicáveis e os seguintes requisitos mínimos:\n\n(ver documento original)\n\nRequisitos especiais:\n\n1 - As unidades com internamento devem dispor de um sistema acústico-luminoso que assegure a chamada de enfermagem ou outro pessoal de serviço pelos doentes. Este sistema deve satisfazer às seguintes condições:\n\na) Incorporar um dispositivo de chamada e um sinalizador luminoso de confirmação de chamada localizado junto à cabeceira da cama ou em local visível pelo doente. O cancelamento da chamada só poderá ser efetuado no próprio compartimento onde se realizou a chamada. A chamada é assinalada por sinalização luminosa junto à porta de entrada da enfermaria ou quarto e no posto de enfermagem com sinal acústico e luminoso;\n\nb) Possibilitar a transferência de chamadas para o local onde se encontrem os enfermeiros e a realização de chamadas de emergência;\n\nc) Os demais compartimentos a que o doente tenha acesso, designadamente casas de banho, sanitários, refeitórios e salas de estar, devem ser abrangidos pelo sistema de chamada de enfermagem;\n\nd) O sistema deve ser considerado uma instalação de segurança.\n\n2 - Nos locais de prestação de cuidados ou de realização de exames em ambulatório, o sistema de sinalização incorpora, apenas, o equipamento indicado em (i) adaptado à respetiva utilização.\n\n3 - Todos os compartimentos deverão dispor do número de tomadas necessárias à ligação individual de todos os equipamentos cuja utilização simultânea esteja prevista (um equipamento por tomada) mais uma tomada adicional para equipamento de limpeza.\n\n4 - Quando estiverem previstos aparelhos de RX portátil que careçam de tomada de alimentação de energia elétrica com características especiais, deverão ser instaladas tomadas apropriadas em todos os locais onde estes aparelhos devam ser utilizados, ou na sua vizinhança.\n\n5 - Todos os ascensores deverão dispor das condições para se movimentarem até ao piso de entrada em caso de falha de energia elétrica. Pelo menos um ascensor com capacidade para transporte de camas deve manter-se em funcionamento com alimentação de socorro.\n\n6 - Recomenda-se a alimentação de todos os circuitos de iluminação pelo setor de socorro. Recomenda-se, também, a adoção, na iluminação interior, das orientações constantes da norma ISO 8995 CIE S 008/E de 15 de maio de 2003, contendo as especificações da Commission Internationale de L'Éclairage sobre os níveis de iluminação e respetiva uniformidade em estabelecimentos de saúde, bem como sobre a capacidade de restituição de cores das fontes luminosas a utilizar e sobre a prevenção do desconforto visual.\n\n7 - Além das instalações de iluminação de segurança e de vigília prescritos nas Regras Técnicas em vigor, nos locais onde o paciente permaneça acamado deverá prever-se iluminação geral e iluminação de leitura ou observação à cabeceira da cama."
+  },
+  "855176118": {
+   "fragment_id": "855132038",
+   "type": 14,
+   "heading": "Anexo XVI — (previsto no artigo 16.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XVI — (previsto no artigo 16.º)\n\nEquipamento sanitário\n\nRequisitos mínimos a considerar:\n\n(ver documento original)"
+  },
+  "855176119": {
+   "fragment_id": "855132039",
+   "type": 14,
+   "heading": "Anexo XVII — (previsto no artigo 16.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XVII — (previsto no artigo 16.º)\n\nEquipamento médico e equipamento geral\n\nConsultas\n\nEquipamentos médico e geral a considerar:\n\n(ver documento original)\n\nServiço de Atendimento Permanente\n\n(ver documento original)\n\nInternamento (equipamento por unidade de 30 camas)\n\n(ver documento original)\n\nUrgência\n\n(ver documento original)\n\nBloco operatório\n\n(ver documento original)\n\nUnidade de cuidados intermédios\n\n(ver documento original)\n\nUnidade de cuidados intensivos\n\n(ver documento original)"
+  },
+  "855176174": {
+   "fragment_id": "855131997",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206475": {
+   "fragment_id": "855131998",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece os requisitos mínimos relativos à organização e funcionamento, recursos humanos e instalações técnicas para o exercício da atividade das unidades privadas que tenham por objeto a prestação de serviços de saúde e que disponham de internamento.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206476": {
+   "fragment_id": "855131999",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma, consideram-se unidades com internamento as unidades onde existam condições que permitam a permanência de doentes cuja admissão e alta não seja possível no mesmo dia, associado ou não a bloco operatório onde se exerçam atos cirúrgicos não passíveis de serem realizados em regime ambulatório.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206477": {
+   "fragment_id": "855132000",
+   "type": 1,
+   "heading": "Capítulo II — Organização e funcionamento",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "### Capítulo II — Organização e funcionamento\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206478": {
+   "fragment_id": "855132001",
+   "type": 11,
+   "heading": "Artigo 3.º — Qualidade e segurança",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "###### Artigo 3.º — Qualidade e segurança\n\nAs normas de qualidade e segurança devem ser cumpridas em todas as situações previstas na presente portaria de acordo com as regras, os códigos científicos e técnicos internacionalmente reconhecidos nas áreas abrangidas, competindo à Direção-Geral da Saúde, ouvidas as respetivas ordens profissionais, propor ao membro do Governo responsável pela área da saúde a sua adoção.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206479": {
+   "fragment_id": "855132002",
+   "type": 11,
+   "heading": "Artigo 4.º — Informação aos utentes",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "###### Artigo 4.º — Informação aos utentes\n\nDeve ser colocado em local bem visível do público o horário de funcionamento, o nome do diretor clínico, os procedimentos a adotar em situações de emergência e os direitos e deveres dos utentes, devendo ainda estar disponível para consulta a tabela de preços.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206480": {
+   "fragment_id": "855132003",
+   "type": 11,
+   "heading": "Artigo 5.º — Seguro profissional e de atividade",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "###### Artigo 5.º — Seguro profissional e de atividade\n\nAs unidades privadas que prossigam atividades no âmbito da prestação de serviços de saúde e que disponham de internamento devem contratar e manter em vigor um seguro de responsabilidade civil e profissional que cubra os riscos inerentes à respetiva atividade e à atividade dos seus profissionais.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206481": {
+   "fragment_id": "855132004",
+   "type": 11,
+   "heading": "Artigo 6.º — Regulamento interno das unidades com internamento",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "###### Artigo 6.º — Regulamento interno das unidades com internamento\n\n1 - As unidades com internamento devem dispor de um regulamento interno do qual deve constar, pelo menos, o seguinte:\n\na) Identificação do diretor clínico e do seu substituto;\n\nb) Estrutura organizacional;\n\nc) Deveres gerais dos profissionais;\n\nd) Categorias e graduações profissionais, funções e competências de cada grupo profissional;\n\ne) Normas de funcionamento.\n\n2 - Quando o regulamento interno dispuser sobre matérias da competência do diretor clínico, designadamente as previstas no artigo 10.º, n.º 6, da presente portaria, deve ser obtido o seu parecer prévio favorável.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206482": {
+   "fragment_id": "855132005",
+   "type": 11,
+   "heading": "Artigo 7.º — Registo, conservação e arquivo",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "###### Artigo 7.º — Registo, conservação e arquivo\n\nAs unidades com internamento devem conservar durante os períodos constantes da lei vigente os seguintes documentos:\n\na) Os processos clínicos dos doentes contendo os respetivos registos;\n\nb) Os dados referentes ao controlo de qualidade;\n\nc) Os relatórios anuais;\n\nd) Os protocolos atualizados celebrados com outras unidades de saúde;\n\ne) O regulamento interno;\n\nf) Os relatórios das vistorias realizadas pela ARS ou outras entidades;\n\ng) Os contratos celebrados com terceiros relativos às atividades identificadas no artigo 13.º do presente diploma;\n\nh) Os protocolos técnicos terapêuticos e outras normas técnicas destinadas à atividade profissional.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206483": {
+   "fragment_id": "855132006",
+   "type": 1,
+   "heading": "Capítulo III — Instrução do processo",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "### Capítulo III — Instrução do processo\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206484": {
+   "fragment_id": "855132007",
+   "type": 11,
+   "heading": "Artigo 8.º — Documentação",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "###### Artigo 8.º — Documentação\n\n1 - Os pedidos de licenciamento devem ser instruídos com os seguintes documentos:\n\na) Cópia autenticada do cartão de identificação de pessoa coletiva ou no caso de pessoa singular do bilhete de identidade do requerente e do respetivo cartão de contribuinte;\n\nb) Declaração de compromisso de entrega da relação nominal do pessoal e respetivo mapa com a distribuição pelos diferentes grupos profissionais, no prazo máximo de 60 dias a contar da data da licença de funcionamento;\n\nc) Memória descritiva e justificativa (indicando o número de salas de operações e a designação dos serviços ou valências de que a unidade dispõe) e telas finais dos projetos de arquitetura, instalações e equipamentos elétricos, instalações e equipamentos mecânicos e instalações e equipamentos de águas e esgotos relativos às instalações em que a unidade deverá funcionar, assinados por técnicos devidamente habilitados;\n\nd) Autorização de utilização para comércio ou serviços ou indústria ou outra finalidade mais específica emitida pela câmara municipal competente;\n\ne) Certificado da Autoridade Nacional de Proteção Civil ou equivalente que comprove o cumprimento do regulamento de segurança contra incêndios;\n\nf) Certidão atualizada do registo comercial.\n\n2 - A unidade deverá dispor em arquivo da seguinte documentação:\n\na) Cópia do contrato com entidade certificada para a gestão de resíduos hospitalares;\n\nb) Relatório com os resultados das medições de isolamento dos pavimentos antiestáticos ou documento com as características técnicas deste pavimento.\n\n3 - Adicionalmente, se aplicável, a unidade deverá dispor ainda em arquivo da seguinte documentação:\n\na) Certificado ou licença de exploração das instalações elétricas (dispensável quando tiver autorização de utilização atualizada);\n\nb) Cópia do termo de responsabilidade pela exploração das instalações elétricas;\n\nc) Certificado de inspeção das instalações de gás;\n\nd) Documento comprovativo do controlo sanitário da água;\n\ne) Certificação das instalações de gases medicinais;\n\nf) Certificado energético das instalações de climatização.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206485": {
+   "fragment_id": "855132008",
+   "type": 11,
+   "heading": "Artigo 9.º — Condições de licenciamento",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "###### Artigo 9.º — Condições de licenciamento\n\n1 - São condições de atribuição da licença de funcionamento:\n\na) A idoneidade do requerente, a qual, no caso de se tratar de pessoa coletiva, deve ser preenchida pelos administradores, ou diretores ou gerentes que detenham a direção efetiva do estabelecimento;\n\nb) A idoneidade profissional dos elementos da direção clínica e demais pessoal clínico e de enfermagem;\n\nc) O cumprimento dos requisitos que permitam a garantia da qualidade técnica dos cuidados e tratamentos a prestar, bem como dos equipamentos de que ficarão dotados.\n\n2 - Para efeitos do disposto no presente diploma, são consideradas idóneas as pessoas relativamente às quais se não verifique algum dos seguintes impedimentos:\n\na) Proibição legal do exercício do comércio;\n\nb) Condenação, com trânsito em julgado, qualquer que tenha sido a natureza do crime, nos casos em que tenha sido decretada a interdição do exercício de profissão;\n\nc) Inibição do exercício da atividade profissional pela respetiva ordem ou associação profissional durante o período determinado.\n\n3 - O disposto no número anterior deixa de produzir efeitos após reabilitação ou pelo decurso do prazo de interdição fixado pela decisão condenatória.\n\n4 - O requerente deve apresentar junto da ARS competente os documentos comprovativos de que se encontram preenchidas as condições de licenciamento constantes das alíneas a) a c) do n.º 1 do presente artigo, no prazo de 10 dias úteis a contar da notificação da decisão de licença, sob pena de caducidade da mesma.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206486": {
+   "fragment_id": "855132009",
+   "type": 1,
+   "heading": "Capítulo IV — Recursos humanos",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "### Capítulo IV — Recursos humanos\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206487": {
+   "fragment_id": "855132010",
+   "type": 11,
+   "heading": "Artigo 10.º — Direção clínica",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "###### Artigo 10.º — Direção clínica\n\n1 - As unidades com internamento são tecnicamente dirigidas por um diretor clínico inscrito na Ordem dos Médicos.\n\n2 - Cada diretor clínico deve assumir a responsabilidade por uma única unidade com internamento, implicando a sua disponibilidade efetiva, devendo ser substituído, durante as suas ausências ou impedimentos temporários, por outro médico.\n\n3 - Pode assumir a substituição do diretor clínico de outra unidade com internamento nas suas ausências ou impedimentos temporários.\n\n4 - Em caso de impedimento ou cessação permanente de funções do diretor clínico, deve ser provida a sua substituição no prazo máximo de 60 dias, com comunicação da substituição à ARS.\n\n5 - Pode ser autorizado, por despacho do Conselho Diretivo da ARS no âmbito do processo de licenciamento, que o diretor clínico exerça a direção clínica em duas unidades com internamento, através de requerimento do interessado que fundamente a pretensão e explicite as condições em que o exercício poderá ser desenvolvido.\n\n6 - É da responsabilidade do diretor clínico:\n\na) Emitir parecer prévio sobre o regulamento interno, naquilo que respeitar matérias da sua competência, nos termos do artigo 6.º, n.º 2, da presente portaria;\n\nb) Designar, de entre os profissionais com qualificação equivalente à sua, o seu substituto durante as suas ausências ou impedimentos;\n\nc) Velar pelo cumprimento dos preceitos éticos, deontológicos e legais;\n\nd) Velar pela qualidade dos tratamentos e dos cuidados clínicos prestados, tendo em particular atenção os programas de garantia de qualidade, incluindo o controlo de infeção e das resistências aos antimicrobianos;\n\ne) Orientar e supervisionar o cumprimento das normas estabelecidas quanto à estratégia terapêutica dos doentes e aos controlos clínicos;\n\nf) Aprovar os protocolos técnicos, clínicos, terapêuticos e velar pelo seu cumprimento;\n\ng) Aprovar as normas referentes à proteção da saúde e à segurança do pessoal, bem como respeitar as especificações referentes à proteção do ambiente e da saúde pública, designadamente as referentes aos resíduos, e velar pelo seu cumprimento;\n\nh) Garantir a qualificação técnico-profissional adequada para o desempenho das funções técnicas necessárias;\n\ni) Zelar e garantir a idoneidade profissional do pessoal técnico da unidade;\n\nj) Aprovar o relatório anual da avaliação anual dos cuidados prestados na unidade, do qual deve constar o movimento de doentes e de consultas.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206488": {
+   "fragment_id": "855132011",
+   "type": 11,
+   "heading": "Artigo 11.º — Pessoal",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "###### Artigo 11.º — Pessoal\n\n1 - As unidades com internamento devem dispor de pessoal técnico necessário ao desempenho das funções dos serviços para que estão licenciadas.\n\n2 - As unidades com internamento devem assegurar, no funcionamento dos seus serviços, a presença física e permanente de pessoal de enfermagem.\n\n3 - Sempre que solicitado pelas entidades competentes, as unidades com internamento devem facultar a relação atualizada do seu pessoal, incluindo as respetivas categorias profissionais, habilitações e descrição de funções.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206489": {
+   "fragment_id": "855132012",
+   "type": 11,
+   "heading": "Artigo 12.º — Farmacêutico",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "###### Artigo 12.º — Farmacêutico\n\n1 - As unidades com internamento devem dispor da colaboração de um farmacêutico, responsável pelo serviço de farmácia, bem como pela conservação, identificação e distribuição dos medicamentos.\n\n2 - A atividade e o funcionamento do serviço de farmácia das unidades regem-se, com as necessárias adaptações, pelo Regulamento dos Serviços Farmacêuticos Hospitalares.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206490": {
+   "fragment_id": "855132013",
+   "type": 11,
+   "heading": "Artigo 13.º — Recurso a serviços contratados",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "###### Artigo 13.º — Recurso a serviços contratados\n\nAs unidades com internamento devem garantir, por si ou com recurso a serviços de terceiros (que se encontrem, nos termos da legislação em vigor, licenciados, certificados ou acreditados para o efeito), o transporte de doentes, o tratamento de roupa, o fornecimento de refeições, de gases medicinais e de produtos esterilizados, e ainda a gestão dos resíduos hospitalares.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206491": {
+   "fragment_id": "855132014",
+   "type": 1,
+   "heading": "Capítulo V — Requisitos técnicos",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "### Capítulo V — Requisitos técnicos\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206492": {
+   "fragment_id": "855132015",
+   "type": 11,
+   "heading": "Artigo 14.º — Meio físico e espaço envolvente",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "###### Artigo 14.º — Meio físico e espaço envolvente\n\n1 - As unidades com internamento devem situar-se em locais adequados ao exercício da atividade, cumprindo os requisitos estabelecidos na lei em matéria de construção e urbanismo.\n\n2 - As unidades com internamento devem garantir, por si ou com recurso a terceiros, a gestão de resíduos em conformidade com as disposições legais.\n\n3 - As unidades com internamento devem, preferencialmente, estar instaladas em edifícios destinados a esse fim.\n\n4 - Excecionalmente, se a natureza das demais atividades exercidas nos edifícios não o desaconselhe, pode ser admitida a instalação de unidades com internamento em parte de edifício, desde que haja independência, designadamente das instalações técnicas especiais, em relação aos demais ocupantes do edifício e se observem as disposições técnicas expressas na presente portaria.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206493": {
+   "fragment_id": "855132016",
+   "type": 11,
+   "heading": "Artigo 15.º — Normas genéricas de construção, segurança e privacidade",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "###### Artigo 15.º — Normas genéricas de construção, segurança e privacidade\n\n1 - A construção deve contemplar a eliminação de barreiras arquitetónicas, nos termos da legislação em vigor.\n\n2 - A sinalética deve ser concebida de forma a ser compreendida pelos utentes.\n\n3 - Os acabamentos utilizados nas unidades com internamento devem permitir a manutenção de um grau de higienização compatível com a atividade desenvolvida nos locais a que se destinam.\n\n4 - As unidades com internamento devem garantir a localização de instalações técnicas, de armazenagem de fluidos inflamáveis ou perigosos e de gases medicinais, caso existam, nas condições de segurança legalmente impostas.\n\n5 - As unidades com internamento devem dispor de serviço de farmácia, dotado de instalações próprias que permitam a boa conservação e inspeção dos medicamentos.\n\n6 - As unidades com internamento devem garantir:\n\na) A paragem de ambulâncias sem prejuízo da circulação na via pública;\n\nb) A fácil circulação e manobra de macas e cadeiras de rodas;\n\nc) O estacionamento para pessoas com mobilidade condicionada.\n\n7 - O acesso do público deve fazer-se através da entrada principal, exceto no caso de pessoas com mobilidade condicionada, sempre que alguma das situações previstas nas alíneas b) e c) do número anterior o recomende.\n\n8 - Os acessos de serviço devem garantir a compatibilidade entre os vários tipos de abastecimento à unidade.\n\n9 - Todas as escadas onde, em situações de comprovada emergência, seja forçosa a circulação de macas devem ter largura não inferior a 1,40 m e uma inclinação de acordo com a legislação em vigor.\n\n10 - Os corredores e demais circulações horizontais deverão ter como pé-direito útil mínimo 2,40 m. Entende-se por pé-direito útil a altura livre do pavimento ao teto ou teto falso.\n\n11 - Os corredores destinados a circulação de camas e macas devem ter o mínimo de 2,20 m de largura útil. Admite-se a existência de corredores com o mínimo de 1,80 m de largura útil desde que haja bolsas que permitam o cruzamento de camas.\n\n12 - As portas das salas utilizadas na passagem de macas e camas devem ter o mínimo de 1,40 m de largura útil.\n\n13 - Sempre que a unidade não disponha de acesso de nível ao exterior e ou tenha um desenvolvimento em altura superior a um piso, deve dispor de, pelo menos, um ascensor com capacidade para o transporte de camas (monta-camas), com dimensões interiores não inferiores a 2,40 m, 1,40 m e 2,10 m, respetivamente de comprimento, de largura e de altura.\n\n14 - As unidades com internamento devem garantir as condições que permitam o respeito pela privacidade e dignidade dos utentes.\n\n15 - Os equipamentos de suporte vital e de emergência devem estar acessíveis e funcionais e devem ser objeto de ensaios regulares documentados.\n\n16 - Os quartos ou enfermarias de internamento nas unidades com internamento devem dispor de arejamento e iluminação naturais em condições satisfatórias e simultaneamente permitir o seu completo obscurecimento. As janelas em unidades que prestem cuidados de psiquiatria devem ser concebidas de modo a salvaguardar a integridade física dos utentes.\n\n17 - As portas dos quartos ou enfermarias devem ter uma largura útil mínima de 1,10 m.\n\n18 - Nos quartos com mais de uma cama, a distância entre camas deve ser, no mínimo, de 0,90 m. A distância entre uma das camas e a parede lateral deve ser, no mínimo, de 0,60 m. Deve também ser considerada uma área livre na qual se inscreva um círculo de 1,50 m de diâmetro entre a outra cama e a parede lateral.\n\n19 - Em unidades que prestem cuidados de psiquiatria, as portas dos compartimentos que possam ser utilizadas por doentes não podem permitir o encerramento pelo interior do compartimento.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206494": {
+   "fragment_id": "855132017",
+   "type": 11,
+   "heading": "Artigo 16.º — Especificações técnicas",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "###### Artigo 16.º — Especificações técnicas\n\nSão aprovadas especificações técnicas no que diz respeito aos compartimentos das unidades com internamento e aos requisitos mínimos de equipamento técnicos e médicos nos anexos i a xvii à presente portaria, da qual fazem parte integrante.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206495": {
+   "fragment_id": "855132018",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "### Capítulo VI — Disposições finais\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206496": {
+   "fragment_id": "855132019",
+   "type": 11,
+   "heading": "Artigo 17.º — Outros serviços de ação médica",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "###### Artigo 17.º — Outros serviços de ação médica\n\nSempre que a unidade dispuser de outros serviços de ação médica, estes devem cumprir as exigências e requisitos constantes nos respetivos diplomas.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206497": {
+   "fragment_id": "855132020",
+   "type": 11,
+   "heading": "Artigo 18.º — Livro de reclamações",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "###### Artigo 18.º — Livro de reclamações\n\nAs unidades com internamento estão sujeitas à obrigatoriedade de existência e disponibilização de livro de reclamações, nos termos da legislação em vigor.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206498": {
+   "fragment_id": "855132021",
+   "type": 11,
+   "heading": "Artigo 19.º — Início de vigência",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "###### Artigo 19.º — Início de vigência\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206499": {
+   "fragment_id": "855132022",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 12 de setembro de 2012.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206500": {
+   "fragment_id": "855132023",
+   "type": 14,
+   "heading": "Anexo I — (previsto no artigo 16.º)",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "## Anexo I — (previsto no artigo 16.º)\n\nConsulta externa (se existir)\n\nCompartimentos a considerar:\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206501": {
+   "fragment_id": "855132024",
+   "type": 14,
+   "heading": "Anexo II — (previsto no artigo 16.º)",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "## Anexo II — (previsto no artigo 16.º)\n\nServiço de Atendimento Permanente (se existir)\n\nCompartimentos a considerar:\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206502": {
+   "fragment_id": "855132025",
+   "type": 14,
+   "heading": "Anexo III — (previsto no artigo 16.º)",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "## Anexo III — (previsto no artigo 16.º)\n\nInternamento\n\nAs instalações referidas em seguida são consideradas por unidade de 30 camas, ou piso de internamento:\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206503": {
+   "fragment_id": "855132026",
+   "type": 14,
+   "heading": "Anexo IV — (previsto no artigo 16.º)",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "## Anexo IV — (previsto no artigo 16.º)\n\nUrgência (se existir)\n\nCompartimentos a considerar:\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206504": {
+   "fragment_id": "855132027",
+   "type": 14,
+   "heading": "Anexo V — (previsto no artigo 16.º)",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "## Anexo V — (previsto no artigo 16.º)\n\nBloco operatório (se existir)\n\nCompartimentos a considerar:\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206505": {
+   "fragment_id": "855132028",
+   "type": 14,
+   "heading": "Anexo VI — (previsto no artigo 16.º)",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "## Anexo VI — (previsto no artigo 16.º)\n\nUnidade de Cuidados Intermédios (se existir)\n\nCompartimentos a considerar:\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206506": {
+   "fragment_id": "855132029",
+   "type": 14,
+   "heading": "Anexo VII — (previsto no artigo 16.º)",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "## Anexo VII — (previsto no artigo 16.º)\n\nUnidade de Cuidados Intensivos (se existir)\n\nCompartimentos a considerar:\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206507": {
+   "fragment_id": "855132030",
+   "type": 14,
+   "heading": "Anexo VIII — (previsto no artigo 16.º)",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "## Anexo VIII — (previsto no artigo 16.º)\n\nCentral de Desinfeção e Esterilização (se existir)\n\nCompartimentos a considerar:\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206508": {
+   "fragment_id": "855132031",
+   "type": 14,
+   "heading": "Anexo IX — (previsto no artigo 16.º)",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12",
+    "Retificado pelo/a [Declaração de Retificação n.º 67/2012 - Diário da República n.º 227/2012, Série I de 2012-11-23](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/67-2012-191169), produz efeitos a partir de 2012-09-25"
+   ],
+   "markdown": "## Anexo IX — (previsto no artigo 16.º)\n\nClimatização\n\nRequisitos mínimos a considerar:\n\n(ver documento original)\n\nOutros requisitos:\n\nPara os compartimentos não indicados, e relativamente às condições da atmosfera de trabalho e condições de temperatura e humidade, aplica-se a legislação em vigor sobre comportamento térmico, sobre os sistemas energéticos dos edifícios e sobre higiene e segurança do trabalho.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12\n\n> Retificado pelo/a [Declaração de Retificação n.º 67/2012 - Diário da República n.º 227/2012, Série I de 2012-11-23](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/67-2012-191169), produz efeitos a partir de 2012-09-25"
+  },
+  "855206509": {
+   "fragment_id": "855132032",
+   "type": 14,
+   "heading": "Anexo X — (previsto no artigo 16.º)",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "## Anexo X — (previsto no artigo 16.º)\n\nGases medicinais e aspiração\n\nRequisitos mínimos a considerar:\n\n(ver documento original)\n\nOutros requisitos:\n\nSe o vácuo for produzido através de bombas, a correspondente central deve ser fisicamente separada das restantes, com a extração do sistema situada a uma cota de, pelo menos, 3 m acima das admissões de ar próximas.\n\nSe o ar comprimido respirável for produzido por compressores, a central deve de ser fisicamente separada das restantes.\n\nTodas as centrais devem ter uma fonte primária, uma fonte secundária e uma fonte de reserva, de comutação automática.\n\nTomadas de duplo fecho, não intermutáveis de fluido para fluido.\n\nA utilização do tubo de poliamida apenas deverá ser permitida nas calhas técnicas, suportes de teto e colunas de teto, quando integrado pelo fabricante e desde que acompanhados dos respetivos certificados CE medicinal.\n\nDevem existir tomadas para extração de gases anestésicos em todos os pontos de utilização de N(índice 2)O, associados a sistema de extração próprio.\n\nCaso existam ferramentas pneumáticas, o acionamento será obrigatoriamente assegurado por ar comprimido medicinal.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206510": {
+   "fragment_id": "855132033",
+   "type": 14,
+   "heading": "Anexo XI — (previsto no artigo 16.º)",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "## Anexo XI — (previsto no artigo 16.º)\n\nEquipamentos de desinfeção e esterilização\n\nRequisitos mínimos a considerar:\n\nPara a obtenção de artigos esterilizados, deverão adotar-se as seguintes modalidades:\n\n1 - Utilização exclusiva de artigos descartáveis (não podem ser reprocessados para utilização posterior).\n\n2 - Utilização de artigos esterilizados em entidade externa certificada.\n\n3 - Utilização de artigos esterilizados em serviço interno de esterilização para uma parte ou a totalidade das necessidades da unidade de saúde. Em caso de esterilização pelo serviço interno de apenas uma parte do material, o restante deverá ser obtido com recurso às opções descritas em a) e b) .\n\n4 - Utilização de artigos esterilizados em serviço central de esterilização.\n\nRequisitos especiais:\n\n1 - Todos os dispositivos potencialmente contaminados são manipulados, recolhidos e transportados em caixas ou carros fechados para a área de descontaminação de forma a evitar o risco de contaminação dos circuitos envolventes e de doentes e pessoal.\n\n2 - O serviço interno de esterilização deve satisfazer aos normativos em vigor com vista a assegurar o cumprimento das seguintes fases:\n\na) Recolha de instrumentos ou dispositivos médicos;\n\nb) Limpeza e descontaminação;\n\nc) Triagem, montagem e embalagem;\n\nd) Esterilizador validado e mantido de acordo com a legislação nacional, adaptado às necessidades do serviço e ao tipo de técnicas utilizadas;\n\ne) Em caso de existência de uma Central de Esterilização para a totalidade dos artigos esterilizados da unidade de saúde, esta deverá estar concebida, organizada e equipada de acordo com os normativos e legislação em vigor, dispor da capacidade adequada às necessidades da unidade de saúde e estar certificada.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206511": {
+   "fragment_id": "855132034",
+   "type": 14,
+   "heading": "Anexo XII — (previsto no artigo 16.º)",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "## Anexo XII — (previsto no artigo 16.º)\n\nInstalações e equipamentos para confeção e distribuição de alimentação\n\nRequisitos mínimos a considerar:\n\n(ver documento original)\n\nOutros requisitos:\n\nAs unidades com internamento com atendimento de doentes portadores de doenças infectocontagiosas, devem possuir máquina de lavar louça com programa de desinfeção.\n\nO equipamento descrito, bem como as respetivas bancadas de apoio, tem de ser construído em material que permita garantir as necessárias condições higiénicas de acordo com a legislação em vigor.\n\nO equipamento descrito deve ter capacidade adequada às necessidades da unidade de saúde a que se destina.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206512": {
+   "fragment_id": "855132035",
+   "type": 14,
+   "heading": "Anexo XIII — (previsto no artigo 16.º)",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "## Anexo XIII — (previsto no artigo 16.º)\n\nEquipamentos para tratamento de roupa\n\nRequisitos mínimos a considerar:\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206513": {
+   "fragment_id": "855132036",
+   "type": 14,
+   "heading": "Anexo XIV — (previsto no artigo 16.º)",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "## Anexo XIV — (previsto no artigo 16.º)\n\nEquipamentos frigoríficos\n\nRequisitos mínimos a considerar:\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206514": {
+   "fragment_id": "855132037",
+   "type": 14,
+   "heading": "Anexo XV — (previsto no artigo 16.º)",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "## Anexo XV — (previsto no artigo 16.º)\n\nInstalações e equipamentos elétricos\n\nAs instalações e equipamentos elétricos devem satisfazer as regras e regulamentos aplicáveis e os seguintes requisitos mínimos:\n\n(ver documento original)\n\nRequisitos especiais:\n\n1 - As unidades com internamento devem dispor de um sistema acústico-luminoso que assegure a chamada de enfermagem ou outro pessoal de serviço pelos doentes. Este sistema deve satisfazer às seguintes condições:\n\na) Incorporar um dispositivo de chamada e um sinalizador luminoso de confirmação de chamada localizado junto à cabeceira da cama ou em local visível pelo doente. O cancelamento da chamada só poderá ser efetuado no próprio compartimento onde se realizou a chamada. A chamada é assinalada por sinalização luminosa junto à porta de entrada da enfermaria ou quarto e no posto de enfermagem com sinal acústico e luminoso;\n\nb) Possibilitar a transferência de chamadas para o local onde se encontrem os enfermeiros e a realização de chamadas de emergência;\n\nc) Os demais compartimentos a que o doente tenha acesso, designadamente casas de banho, sanitários, refeitórios e salas de estar, devem ser abrangidos pelo sistema de chamada de enfermagem;\n\nd) O sistema deve ser considerado uma instalação de segurança.\n\n2 - Nos locais de prestação de cuidados ou de realização de exames em ambulatório, o sistema de sinalização incorpora, apenas, o equipamento indicado em (i) adaptado à respetiva utilização.\n\n3 - Todos os compartimentos deverão dispor do número de tomadas necessárias à ligação individual de todos os equipamentos cuja utilização simultânea esteja prevista (um equipamento por tomada) mais uma tomada adicional para equipamento de limpeza.\n\n4 - Quando estiverem previstos aparelhos de RX portátil que careçam de tomada de alimentação de energia elétrica com características especiais, deverão ser instaladas tomadas apropriadas em todos os locais onde estes aparelhos devam ser utilizados, ou na sua vizinhança.\n\n5 - Todos os ascensores deverão dispor das condições para se movimentarem até ao piso de entrada em caso de falha de energia elétrica. Pelo menos um ascensor com capacidade para transporte de camas deve manter-se em funcionamento com alimentação de socorro.\n\n6 - Recomenda-se a alimentação de todos os circuitos de iluminação pelo setor de socorro. Recomenda-se, também, a adoção, na iluminação interior, das orientações constantes da norma ISO 8995 CIE S 008/E de 15 de maio de 2003, contendo as especificações da Commission Internationale de L'Éclairage sobre os níveis de iluminação e respetiva uniformidade em estabelecimentos de saúde, bem como sobre a capacidade de restituição de cores das fontes luminosas a utilizar e sobre a prevenção do desconforto visual.\n\n7 - Além das instalações de iluminação de segurança e de vigília prescritos nas Regras Técnicas em vigor, nos locais onde o paciente permaneça acamado deverá prever-se iluminação geral e iluminação de leitura ou observação à cabeceira da cama.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206515": {
+   "fragment_id": "855132038",
+   "type": 14,
+   "heading": "Anexo XVI — (previsto no artigo 16.º)",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "## Anexo XVI — (previsto no artigo 16.º)\n\nEquipamento sanitário\n\nRequisitos mínimos a considerar:\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  },
+  "855206516": {
+   "fragment_id": "855132039",
+   "type": 14,
+   "heading": "Anexo XVII — (previsto no artigo 16.º)",
+   "in_force_from": "2024-03-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+   ],
+   "markdown": "## Anexo XVII — (previsto no artigo 16.º)\n\nEquipamento médico e equipamento geral\n\nConsultas\n\nEquipamentos médico e geral a considerar:\n\n(ver documento original)\n\nServiço de Atendimento Permanente\n\n(ver documento original)\n\nInternamento (equipamento por unidade de 30 camas)\n\n(ver documento original)\n\nUrgência\n\n(ver documento original)\n\nBloco operatório\n\n(ver documento original)\n\nUnidade de cuidados intermédios\n\n(ver documento original)\n\nUnidade de cuidados intensivos\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 90/2024/1 - Diário da República n.º 50/2024, Série I de 2024-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/90-2024-854635720), em vigor a partir de 2024-03-12"
+  }
+ }
+}

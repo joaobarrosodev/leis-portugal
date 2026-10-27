@@ -1,0 +1,353 @@
+---
+schema_version: '1.0'
+id: pt:dre:308993:por
+title: Decreto Regulamentar n.º 9/99
+short_title: null
+summary: Altera o Decreto Regulamentar n.º 33/95, de 11 de Dezembro (aprova o Plano de Ordenamento do Parque Natural do Sudoeste
+  Alentejano e Costa Vicentina)
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério do Ambiente
+proposing_entity: null
+official_number: 9/99
+official_date: null
+publication_date: '1999-06-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 137/1999, Série I-B de 1999-06-15
+  number: '137'
+  series: I
+  supplement: null
+  pages: 3434 - 3439
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/06/137b00/34343439.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/9/1999/06/15/p/dre/pt/html
+  oj: null
+  dre: '308993'
+  dre_path: /dr/detalhe/decreto-regulamentar/9-1999-308993
+  internal: pt:dre:308993:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1999-308993
+  metadata_url: https://data.dre.pt/eli/decregul/9/1999/06/15/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1999-308993
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:26:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2d707be583efe85d8e5d4726e6d27c1f55734c56e32dbbf74c4d2de55db74621
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:26:19Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alentejo
+- Algarve
+- Ordenamento do Território
+- Parque Natural do Sudoeste Alentejano e Costa Vicentina
+- Património Cultural
+- Política de Solos
+- Proteção do Ambiente
+- Regulamento
+- Zona de Proteção
+relationships:
+- type: amended_by
+  target: pt:dre:248198:por
+  label: "Determinada a suspensão pelo prazo de dois anos, das áreas referidas nos nºs 1 a 5, do Plano de Ordenamento do Parque\
+    \ Natural do Sudoeste Alentejano e Costa Vicentina, aprovado pelo DR 33/95 de 11-Dez, alterado pelo pelo presente diploma,\
+    \ e cuja revisão do citado PNSACV foi determinada pela Res 173/2001 de 28-Dez, da PCM, pela RES.19/2008.04.02.2008.PCM,\
+    \ DR.IS [24] de 04.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/19-2008-248198
+  date: '2008-02-04'
+- type: cites
+  target: pt:dre:632207:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/33/1995/12/11/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:26:19Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 9/99
+
+de 15 de Junho
+
+O Plano de Ordenamento do Parque Natural do Sudoeste Alentejano e Costa Vicentina (PNSACV) foi aprovado e publicado pelo [Decreto Regulamentar n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-1995-632207), de 11 de Dezembro.
+
+Sucede, porém, que o referido diploma enferma de alguns lapsos e incorrecções que importa suprir, considerando-se ainda oportuno aproveitar esta ocasião para introduzir algumas alterações de pormenor destinadas a melhorar a respectiva regulamentação, tornando-a mais adequada e exequível, em consonância com os ensinamentos recolhidos ao longo do tempo já decorrido desde a sua entrada em vigor.
+
+Por outro lado, entendeu-se mais adequado, em termos técnico-jurídicos, integrar toda a regulamentação aplicável ao PNSACV num único diploma, alterando a actual sistematização, de modo a facilitar o conhecimento pelos cidadãos quer das regras que regem o ordenamento do PNSACV quer dos critérios que presidem à apreciação dos pedidos e emissão de autorizações para a prática dos actos e actividades que a tal estão condicionados no território abrangido por esta área protegida.
+
+Termos em que se optou por introduzir as devidas alterações no [Decreto Regulamentar n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-1995-632207), de 11 de Dezembro, e no Plano de Ordenamento do PNSACV, editando ainda um novo artigo e dois anexos, um deles contendo a carta de gestão, que por manifesto lapso nunca chegou a ser publicada, e o outro contendo os critérios para a emissão de autorizações a que se reporta o artigo 3.º do Plano de Ordenamento.
+
+Assim, nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+O artigo 2.º do [Decreto Regulamentar n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-1995-632207), de 11 de Dezembro, e o artigo 3.º do regulamento aprovado pelo [Decreto Regulamentar n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-1995-632207), de 11 de Dezembro, passam a ter a seguinte redacção:
+
+«Artigo 2.º
+
+Carta
+
+1 - O Plano de Ordenamento é constituído por duas cartas, a carta de zonamento e carta de gestão, que constituem, respectivamente, os anexos I e III ao regulamento aprovado pelo presente diploma e que dele fazem parte integrante.
+
+2 - Os originais das cartas mencionadas no número anterior, à escala de 1:50000, ficam arquivados no Instituto da Conservação da Natureza.
+
+Artigo 3.º
+
+1 - Sem prejuízo dos restantes condicionalismos legais, carecem de autorização da comissão directiva do Parque Natural:
+
+a) O licenciamento de obras de construção civil, designadamente novos edifícios, reconstrução, ampliação, alteração, demolição de edifícios, trabalhos que impliquem alterações da topografia local fora das áreas urbanas existentes definidas no presente Plano, dos perímetros urbanos delimitados nos planos municipais de ordenamento do território legalmente eficazes e das áreas de jurisdição portuária;
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) ...
+
+j) ...
+
+l) ...
+
+m) ...
+
+n) ...
+
+o) ...
+
+p) ...
+
+q) ...
+
+r) Realização de actividades desportivas, turísticas e de lazer fora das áreas urbanas existentes definidas no presente Plano e dos perímetros urbanos delimitados nos planos municipais de ordenamento do território legalmente eficazes;
+
+s) A aprovação de projectos de instalação de novos parques de campismo;
+
+t) A instalação de parques de sucata;
+
+u) A aprovação de projectos de instalação de aerogeradores;
+
+v) A realização de queimadas em áreas florestais e numa faixa limite de 100 m a contar dos seus limites.
+
+2 - A recusa da autorização referida no número anterior só pode fundamentar-se:
+
+a) No facto de aqueles actos ou actividades provocarem a destruição ou degradação dos valores naturais ou dificultarem a manutenção ou valorização das características das paisagens naturais ou seminaturais e a diversidade ecológica;
+
+b) No incumprimento dos critérios fixados no anexo IV ao presente Regulamento, que dele faz parte integrante.
+
+3 - (Anterior n.º 3.)»
+
+###### Artigo 2.º
+
+São aditados ao regulamento aprovado pelo [Decreto Regulamentar n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-1995-632207), de 11 de Dezembro, o artigo 3.º-A e os anexos III e IV que constituem, respectivamente, a carta de gestão e os critérios para a apreciação de projectos de edificação previstos no artigo 3.º do Regulamento e que são publicados em anexo ao presente diploma:
+
+«Artigo 3.º-A
+
+Em casos excepcionais devidamente justificados, a comissão directiva do Parque Natural pode emitir parecer favorável relativo à construção de edificações que não obedeçam a todos os parâmetros definidos no anexo IV, ficando tal parecer sujeito a homologação do Ministro do Ambiente.»
+
+###### Artigo 3.º
+
+É revogada a portaria n.º 323/95, publicada no Diário da República, 2.ª série, de 3 de Outubro de 1995.
+
+Visto e aprovado em Conselho de Ministros de 4 de Março de 1999. - António Manuel de Oliveira Guterres - José Veiga Simão - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Osvaldo Sarmento e Castro - Luís Manuel Capoulas Santos - Elisa Maria da Costa Guimarães Ferreira.
+
+Promulgado em 20 de Maio de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 25 de Maio de 1999.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## ANEXO I — Regulamento do POPNSACV
+
+...
+
+## ANEXO II — Carta de zonamento
+
+...
+
+## ANEXO III — Carta de gestão
+
+[(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/1999/06/137b00/34343439.pdf)
+
+## ANEXO IV — Critérios para apreciação de projectos de edificação
+
+1 - Definições
+
+Para efeitos da aplicação dos critérios constantes do presente anexo, entende-se por:
+
+a) «Áreas de protecção» - as áreas homogéneas, do ponto de vista das suas características biofísicas e sócio-económicas, constituindo, assim, unidades de paisagem a que são aplicáveis diferentes graus de protecção;
+
+b) «Área total de terreno (At)» - área total do prédio ou conjunto de prédios sobre a qual incide um projecto de edificação;
+
+c) «Índice de ocupação (Io)» - quociente entre a área de terreno ocupada pela construção ou construções (Ao) e a área total do terreno (At):
+
+Io = (Ao/At)
+
+d) «Índice de construção (Ic)» - quociente entre a área total de construção (Atc) e a área total de terreno (At):
+
+Ic = (Atc/At)
+
+e) «Área total de construção (Atc)» - soma das áreas brutas de todos os pavimentos, medida pelo extradorso das paredes exteriores e dos elementos da estrutura de espaços cobertos não encerrados, acima e abaixo do solo, com exclusão de sótãos sem pé-direito regulamentar, instalações técnicas localizadas nas caves dos edifícios e varandas;
+
+f) «Coeficiente de impermeabilização (Ci)» - quociente entre a área total a impermeabilizar e a área total do terreno, sendo a área impermeabilizada constituída pela soma das áreas edificadas com a área resultante dos solos pavimentados com materiais impermeáveis ou que produzam o mesmo efeito, designadamente para arruamentos, estacionamentos, equipamentos desportivos e outros, logradouros, etc.;
+
+g) «Cércea (C)» - dimensão vertical da construção, contada a partir do ponto de cota média do terreno no alinhamento da fachada até à linha superior do beirado ou platibanda ou guarda do telhado;
+
+h) «Densidade bruta (Db)» - quociente entre o número de habitantes (N.º hab.) e a área total do terreno (At) onde estes se localizem, incluindo a rede viária e a área afecta a instalações e equipamentos sociais ou públicos:
+
+Db = ((N.º hab.)/At)
+
+i) «Área urbanizável (AU)» - área definida como edificável de parte ou da totalidade de um ou mais prédios sobre as quais incide um projecto de edificação, incluindo as áreas de implantação dos edifícios e respectivos logradouros, áreas destinadas a infra-estruturas e áreas afectas a instalações e equipamentos sociais e públicos;
+
+j) «Densidade líquida (DI)» - quociente entre o número de habitantes (N.º hab.) e a área urbanizável;
+
+l) Unidade mínima para a construção (C)» - área mínima de terreno susceptível de edificação.
+
+2 - Áreas de protecção parcial e de protecção complementar
+
+2.1 - Quando, nos termos do disposto nos planos regionais de ordenamento do território aplicáveis e do regime específico da Reserva Agrícola Nacional, seja admitida a edificação nestas áreas, a emissão de parecer pela comissão directiva do Parque Natural do Sudoeste Alentejano e Costa Vicentina, de acordo com o disposto no artigo 11.º do Regulamento do Plano de Ordenamento deste Parque (adiante designado Regulamento) rege-se pelos seguintes critérios:
+
+a) Índice de ocupação máximo - 0,004;
+
+b) Índice de construção:
+
+Edifícios de apoio à actividade agrícola, agro-pecuária e florestal - 0,002;
+
+Edifícios destinados à residência dos agricultores ou a turismo no espaço rural - 0,002;
+
+c) Cércea máxima - 3,5 m;
+
+d) Unidade mínima para construção - 30 ha;
+
+e) Área máxima de construção:
+
+Edifícios de apoio à actividade agrícola, agro-pecuária e florestal - 600 m2;
+
+Edifícios destinados a residência dos agricultores ou turismo no espaço rural - 600 m2;
+
+f) Coeficiente de impermeabilização - 0,01.
+
+2.2 - Sem prejuízo do disposto no n.º 2.1, a emissão de parecer relativo à construção de edifícios em explorações agrícolas e florestais rege-se ainda pelos seguintes princípios:
+
+a) Sempre que a exploração seja constituída por duas ou mais parcelas contíguas, o proprietário deve promover a reunião dos respectivos artigos matriciais, nos termos da legislação aplicável;
+
+b) As construções devem enquadrar-se na arquitectura tradicional da região, ficando sujeitas a critérios de qualidade arquitectónica ao nível da traça proposta, dos cromatismos e dos materiais utilizados, devendo preferencialmente proceder-se à reconstrução ou recuperação das construções existentes.
+
+3 - Áreas de ambiente rural
+
+Quando, nos termos do disposto nos planos regionais de ordenamento do território aplicáveis e do regime específico da Reserva Agrícola Nacional, seja admitida a edificação nestas áreas, a emissão de parecer pela comissão directiva do Parque Natural de acordo com o disposto no artigo 12.º do Regulamento rege-se pelos seguintes critérios:
+
+a) As edificações a construir destinam-se ao apoio de explorações agrícolas, florestais, apícolas ou turismo do espaço rural;
+
+b) Índice de ocupação máximo - 0,004;
+
+c) Índice de construção:
+
+Edifícios de apoio à actividade agrícola, agro-pecuária, florestal e apícola - 0,002;
+
+Edifícios destinados a residência dos agricultores ou turismo do espaço rural - 0,002;
+
+d) Cércea máxima - 3,5 m;
+
+e) Unidade mínima para a construção - 5 ha;
+
+f) Área máxima de construção:
+
+Edifícios de apoio à actividade agrícola, agro-pecuária e florestal - 600 m2;
+
+Edifícios destinados a residência dos agricultores ou a turismo do espaço rural - 600 m2;
+
+g) Coeficiente de impermeabilização - 0,01.
+
+4 - Áreas susceptíveis de aproveitamento urbanístico
+
+4.1 - Os planos de urbanização e os planos de pormenor a que se refere o artigo 31.º do Regulamento do POPNSACV terão de respeitar o zonamento constante do anexo III ao presente Regulamento.
+
+4.2 - Para esse efeito, são susceptíveis de aproveitamento urbanístico:
+
+a) As áreas de enquadramento urbano;
+
+b) As áreas de intervenção específica de carácter urbano;
+
+c) As áreas preferenciais para ocupação turística;
+
+d) As áreas de intervenção específica de carácter turístico.
+
+4.3 - Nas áreas de enquadramento urbano, bem como nas áreas de intervenção específica de enquadramento urbano, e até à entrada em vigor dos planos directores municipais, a emissão de parecer pela comissão directiva do PNSACV rege-se pelos seguintes critérios:
+
+a) Densidade líquida - 60 hab./ha;
+
+b) Índice de ocupação - 0,15;
+
+c) Índice de construção - 0,20;
+
+d) Coeficiente de impermeabilização - 0,25;
+
+e) Cércea máxima - 6,50 m;
+
+4.4 - Nas áreas preferenciais para ocupação turística a emissão de parecer pela comissão directiva do PNSACV rege-se pelos seguintes critérios:
+
+a) Densidade bruta - 6,25 hab./ha;
+
+b) Densidade líquida 25 hab./ha;
+
+c) Área urbanizável - 0,25 da At;
+
+d) Índice de ocupação máxima - 0,02;
+
+e) Índice de construção máxima - 0,02;
+
+f) Coeficiente de impermeabilização máximo - 0,04;
+
+g) Cércea máxima - 8 m.
+
+4.5 - Os critérios mencionados no n.º 4.4 são igualmente aplicáveis nas áreas de intervenção específica de carácter turístico declaradas incompatíveis com os planos regionais de ordenamento do território e objecto de ordenamento e reordenamento turístico, bem como nas áreas de ordenamento turístico abrangidas pela UNOR 7 do PROTALI.

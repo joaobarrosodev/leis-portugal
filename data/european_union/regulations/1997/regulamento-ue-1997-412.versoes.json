@@ -1,0 +1,189 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997R0412:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997R0412-20030819",
+ "dre_path": null,
+ "source_lastmod": "2003-08-19",
+ "versions": [
+  {
+   "date": "1997-03-04",
+   "future": false,
+   "celex": "31997R0412",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c7a8e019c3d84c02",
+    "3d0c1308604b1e16",
+    "2da47f47308eb334",
+    "4201cdd8e9d3b7b1",
+    "dd846be09e0056ba",
+    "b750597b8b53a100",
+    "3b8c7bf383d193e2",
+    "ddd6bb59eeb73fc3",
+    "cc234cd42f66c2fc",
+    "4506597c86c21e5d",
+    "1a7f23d104d2ec7f",
+    "05e0397ef033cc13",
+    "1e6cff2427e564f8",
+    "60dbeb569b22b980",
+    "28c8c4b6376b3ab6"
+   ]
+  },
+  {
+   "date": "2003-08-19",
+   "future": false,
+   "celex": "01997R0412-20030819",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime ANEXO I — CRITÉRIOS DE RECONHECIMENTO PARA AS ORGANIZAÇÕES DE PRODUTORES COM EXCLUSÃO DAS DE CITRINOS",
+    "Suprime ANEXO II — CRITÉRIOS DE RECONHECIMENTO PARA AS ORGANIZAÇÕES DE PRODUTORES DE CITRINOS",
+    "Suprime ANEXO III — >INÍCIO DE GRÁFICO>"
+   ],
+   "fragments": [
+    "a05acdc5bb85ee2c"
+   ]
+  }
+ ],
+ "fragments": {
+  "c7a8e019c3d84c02": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 412/97 da Comissão de 3 de Março de 1997 que estabelece as regras de execução do Regulamento (CE) nº 2200/96 do Conselho no que respeita ao reconhecimento das organizações de produtores** *Jornal Oficial nº L 062 de 04/03/1997 p. 0016 - 0025*\n\nREGULAMENTO (CE) Nº 412/97 DA COMISSÃO de 3 de Março de 1997 que estabelece as regras de execução do Regulamento (CE) nº 2200/96 do Conselho no que respeita ao reconhecimento das organizações de produtores\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) nº 2200/96 do Conselho, de 28 de Outubro de 1996, que estabelece a organização comum de mercado no sector das frutas e produtos hortícolas (1), e, nomeadamente, o nº 2, alínea a) do seu artigo 11º e o seu artigo 48º,\n\nConsiderando que é necessário determinar o número mínimo de produtores e um volume mínimo de produção comercializável com base numa abordagem pragmática e tendo em consideração as realidades estruturais, económicas e administrativas dos Estados-membros; que, para ter em conta as diferentes situações de produção e a experiência adquirida, convém igualmente estabelecer uma diferenciação dessas condições mínimas entre certas categorias de organizações de produtores; que é também necessário permitir que os Estados-membros fixem condições mínimas a níveis mais elevados que os previstos no presente regulamento;\n\nConsiderando que convém expressar o volume mínimo de produção comercializável em ecus, para tornar esse volume mais representativo; que, todavia, para ter em conta situações específicas, é necessário permitir que os Estados-membros possam expressar o volume mínimo em percentagem da produção de uma região económica onde estejam estabelecidos os produtores;\n\nConsiderando que, para assegurar que as organizações de produtores representam efectivamente um determinado número mínimo de produtores, se afigura necessário que os Estados-membros tomem medidas para evitar que uma minoria de membros que detenha eventualmente a maior parte do volume de produção da organização dos produtores em causa domine abusivamente a gestão e o funcionamento da mesma;\n\nConsiderando que as actividades principais e essenciais de uma organização de produtores devem estar ligadas à produção dos seus membros; que, todavia, devem ser permitidas, dentro de certos limites, outras actividades da organização de produtores, comerciais ou de outra natureza, sem prejuízo da possibilidade de os Estados-membros estabelecerem limites mais estritos;\n\nConsiderando que, dada a natureza dos produtos, da sua produção e da sua comercialização, as explorações dos membros de uma organização de produtores podem estar situadas em Estados-membros que não aquele onde está situada a sede da organização;\n\nConsiderando que os nºs 1, alínea a), e 3 do artigo 11º do Regulamento (CE) nº 2200/96 prevêem diferentes categorias de organizações de produtores; que qualquer organização de produtores relativamente à qual seja apresentado um pedido de reconhecimento deve enquadrar-se numa das categorias de organização de produtores previstas;\n\nConsiderando que, para facilitar a concentração da oferta, é conveniente incentivar a fusão das organizações de produtores já existentes com vista a criar novas organizações; que, nesse contexto, os direitos adquiridos, referidos no artigo 53º do Regulamento (CE) nº 2200/96, sao aplicáveis às novas organizações de produtores resultantes da fusão de organizações já reconhecidas ao abrigo do Regulamento (CEE) nº 1035/72 do Conselho (2), com a última redacção que lhe foi dada pelo Regulamento (CE) nº 1363/95 da Comissão (3);\n\nConsiderando que, para contribuir para a realização dos objectivos da organização comum de mercado e assegurar que as organizações de produtores realizam de uma forma duradoura e eficaz as suas acções, é necessário que essas organizações gozem de uma boa estabilidade; que, por conseguinte, convém prever um período mínimo de adesão a uma organização de produtores, sobretudo no que respeita às obrigações ligadas à realização de um programa operacional, conforme previsto no artigo 15º do Regulamento (CE) nº 2200/96; que o período mínimo de adesão deve ser previsto dentro de certos limites, sem prejuízo da possibilidade de os Estados-membros estabelecerem limites mais estritos;\n\nConsiderando que, para assegurar uma gestão correcta da organização comum de mercado, é conveniente que os Estados-membros informem regularmente a Comissão da situação e da evolução do sector; que é conveniente determinar as modalidades dessa informação;\n\nConsiderando que o reconhecimento das organizações de produtores de citrinos, com base em certas condições específicas está contemplado no presente regulamento; que, por conseguinte, deve ser revogado o Regulamento (CEE) nº 2602/90 da Comissão, de 7 de Setembro de 1990, que estabelece as normas de execução relativas às organizações de produtores no sector dos citrinos (4);\n\nConsiderando que o Comité de gestão dos frutos e produtos hortícolas não emitiu um parecer no prazo fixado pelo seu presidente,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "3d0c1308604b1e16": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. O presente regulamento estabelece as regras de execução do Regulamento (CE) nº 2200/96 no que respeita às condições para o reconhecimento das organizações de produtores em conformidade com o artigo 11º do referido regulamento.\n\n2. Na acepção do presente regulamento, entende-se por:\n\na) «Produtor»: qualquer pessoa singular ou colectiva, membro de uma organização de produtores, que entregue a sua produção a essa organização com vista à sua comercialização nas condições previstas no Regulamento (CE) nº 2200/96;\n\nb) «Produção comercializada»: a produção dos membros de uma organização de produtores escoada nas condições previstas no nº 1, ponto 3 da alínea c), do artigo 11º do Regulamento (CE) nº 2200/96, relativa à categoria de produtos a título da qual é solicitado o reconhecimento, no estádio «saída da organização de produtores», se for caso disso, «produto embalado ou preparado não transformado»;\n\nc) «Produção comercializável»: a produção comercializada acrescida das retiradas."
+  },
+  "2da47f47308eb334": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. O número mínimo de produtores e o volume mínimo de produção comercializável referidos no nº 2, alínea a), do artigo 11º do Regulamento (CE) nº 2200/96 são fixados nos Anexos I e II do presente regulamento.\n\n2. Os Estados-membros podem substituir o volume de produção referido no anexo I por uma percentagem da produção comercializável de uma organização de produtores definida em relação à produção média global da região económica em que os produtores da organização estejam estabelecidos. Essa percentagem não pode ser inferior a 15%. Nesse caso, o número mínimo de produtores será 20, para as organizações de produtores referidas no nº 1, subalíneas i) a iv) da alínea a), do artigo 11º do Regulamento (CE) nº 2200/96, e cinco, para as organizações de produtores referidas nos nºs 1, subalíneas vi) e vii) da alínea a), e 3 do mesmo artigo.\n\nOs Estados-membros determinarão as regiões económicas tendo em conta as condições de produção e de comercialização existentes. Os Estados-membros comunicarão essas regiões à Comissão.\n\n3. Para aplicação dos nºs 1 e 2, o volume a considerar será o volume médio da produção comercializável do conjunto dos produtores aderentes no decurso das três campanhas anteriores ao reconhecimento.\n\n4. Os Estados-membros podem fixar o número mínimo de produtores e o volume mínimo de produção comercializável em níveis mais elevados que os previstos nos nºs 1 e 2. Do facto informarão a Comissão."
+  },
+  "4201cdd8e9d3b7b1": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nOs Estados-membros tomarão as medidas necessárias para evitar qualquer abuso de poder ou de influência de um ou mais produtores relativamente à gestão e funcionamento do agrupamento de produtores. Os Estados-membros comunicarão essas medidas à Comissão antes de 1 de Julho de 1997."
+  },
+  "dd846be09e0056ba": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nO volume de negócios de uma organização de produtores resultante da venda, se for caso disso após transformação, da produção dos seus membros não pode ser inferior ao volume de negócios resultante das outras actividades da organização. As actividades ligadas à produção de outros produtos agrícolas e, se for caso disso, à sua valorização não serão tidas em consideração."
+  },
+  "b750597b8b53a100": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nNo caso de organizações transnacionais de produtores, são aplicáveis as regras previstas, em aplicação do presente regulamento, no Estado-membro em que se situe a sede da organização.\n\nA sede da organização deve ser estabelecida num Estado-membro em que a organização disponha de instalações de exploração significativas ou de um número de membros significativo."
+  },
+  "3b8c7bf383d193e2": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nOs pedidos de reconhecimento apresentados pelas organizações de produtores devem incluir a indicação da categoria dos produtos, de entre as indicadas nos nºs 1, alínea a), ou 3 do artigo 11º do Regulamento nº 2200/96, a título da qual é solicitado o reconhecimento."
+  },
+  "ddd6bb59eeb73fc3": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nAs novas organizações de produtores resultantes da fusão de organizações reconhecidas ao abrigo do Regulamento (CEE) nº 1035/72 manterão os direitos adquiridos referidos no artigo 53º do Regulamento (CE) nº 2200/96. Se não puderem obter o seu reconhecimento a título do artigo 11º do Regulamento (CE) 2200/96, as novas organizações de produtores serão consideradas como organizações de produtores na acepção do nº 1 do artigo 13º do referido regulamento."
+  },
+  "cc234cd42f66c2fc": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. O período mínimo de adesão de um produtor não pode ser inferior a um ano. Contudo, em caso de apresentação de um programa operacional, em conformidade com o Regulamento (CE) nº 2200/96, nenhum membro pode eximir-se às suas obrigações decorrentes desse programa durante o período da sua aplicação, salvo autorização concedida pela organização de produtores.\n\n2. A renúncia à qualidade de membro deve ser comunicada por escrito à organização de produtores até 31 de Maio, com efeitos a partir de 1 de Janeiro do ano seguinte. O estatuto da organização de produtores pode prever um prazo de pré-aviso mais longo para a renúncia."
+  },
+  "4506597c86c21e5d": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nOs Estados-membros apresentarão anualmente, antes de 1 de Julho, um relatório respeitante ao ano anterior em conformidade com o modelo do anexo III."
+  },
+  "1a7f23d104d2ec7f": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nO Regulamento (CEE) nº 2602/90 é revogado."
+  },
+  "05e0397ef033cc13": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 3 de Março de 1997.\n\nPela Comissão\n\nFranz FISCHLER\n\nMembro da Comissão\n\n(1) JO nº L 297 de 21. 11. 1996, p. 1.\n\n(2) JO nº L 118 de 20. 5. 1972, p. 1.\n\n(3) JO nº L 132 de 16. 6. 1995, p. 8.\n\n(4) JO nº L 245 de 8. 9. 1990, p. 13."
+  },
+  "1e6cff2427e564f8": {
+   "fragment_id": "ANEXO I — CRITÉRIOS DE RECONHECIMENTO PARA AS ORGANIZAÇÕES DE PRODUTORES COM EXCLUSÃO DAS DE CITRINOS",
+   "type": "divisao",
+   "heading": "ANEXO I — CRITÉRIOS DE RECONHECIMENTO PARA AS ORGANIZAÇÕES DE PRODUTORES COM EXCLUSÃO DAS DE CITRINOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — CRITÉRIOS DE RECONHECIMENTO PARA AS ORGANIZAÇÕES DE PRODUTORES COM EXCLUSÃO DAS DE CITRINOS\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "60dbeb569b22b980": {
+   "fragment_id": "ANEXO II — CRITÉRIOS DE RECONHECIMENTO PARA AS ORGANIZAÇÕES DE PRODUTORES DE CITRINOS",
+   "type": "divisao",
+   "heading": "ANEXO II — CRITÉRIOS DE RECONHECIMENTO PARA AS ORGANIZAÇÕES DE PRODUTORES DE CITRINOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — CRITÉRIOS DE RECONHECIMENTO PARA AS ORGANIZAÇÕES DE PRODUTORES DE CITRINOS\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "28c8c4b6376b3ab6": {
+   "fragment_id": "ANEXO III — >INÍCIO DE GRÁFICO>",
+   "type": "divisao",
+   "heading": "ANEXO III — >INÍCIO DE GRÁFICO>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — >INÍCIO DE GRÁFICO>\n\nRELATÓRIO ANUAL\n\n>FIM DE GRÁFICO>\n\n>INÍCIO DE GRÁFICO>\n\nRELATÓRIO ANUAL\n\n>FIM DE GRÁFICO>\n\n>INÍCIO DE GRÁFICO>\n\nRELATÓRIO ANUAL\n\n>FIM DE GRÁFICO>\n\n>INÍCIO DE GRÁFICO>\n\nRELATÓRIO ANUAL\n\n>FIM DE GRÁFICO>\n\n>INÍCIO DE GRÁFICO>\n\nRELATÓRIO ANUAL\n\n>FIM DE GRÁFICO>"
+  },
+  "a05acdc5bb85ee2c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1997R0412 — PT — 19.08.2003 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31997R0412) [REGULAMENTO (CE) N.º 412/97 DA COMISSÃO](http://publications.europa.eu/resource/celex/31997R0412) [de 3 de Março de 1997](http://publications.europa.eu/resource/celex/31997R0412) [que estabelece as regras de execução do Regulamento (CE) n.º 2200/96 do Conselho no que respeita ao reconhecimento das organizações de produtores](http://publications.europa.eu/resource/celex/31997R0412) (JO L 062, 4.3.1997, p.16)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1432/2003 da Comissão de 11 de Agosto de 2003](http://publications.europa.eu/resource/celex/32003R1432) — L 203 — 18 — 12.8.2003"
+  }
+ }
+}

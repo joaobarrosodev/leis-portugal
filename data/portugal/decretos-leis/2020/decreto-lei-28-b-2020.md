@@ -1,0 +1,584 @@
+---
+schema_version: '1.0'
+id: pt:dre:136788887:por
+title: Decreto-Lei n.º 28-B/2020
+short_title: null
+summary: Estabelece o regime contraordenacional, no âmbito da situação de calamidade, contingência e alerta
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Administração Interna
+official_number: 28-B/2020
+official_date: null
+publication_date: '2020-06-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 123/2020, 2º Suplemento, Série I de 2020-06-26
+  number: '123'
+  series: I
+  supplement: 2º Suplemento
+  pages: 27-(2) a 27-(5)
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/06/12302/0000200005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-11-28'
+version_history:
+  file: decreto-lei-28-b-2020.versoes.json
+  count: 8
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2020-06-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-07-16'
+    amending: pt:dre:138054866:por
+    amending_title: Decreto-Lei n.º 37-A/2020
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+  - date: '2020-10-16'
+    amending: pt:dre:145589087:por
+    amending_title: Decreto-Lei n.º 87-A/2020
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+  - date: '2020-11-23'
+    amending: pt:dre:149220108:por
+    amending_title: Decreto-Lei n.º 99/2020
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+  - date: '2021-01-15'
+    amending: pt:dre:153959842:por
+    amending_title: Decreto-Lei n.º 6-A/2021
+    changes:
+    - Adita Artigo 3.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+  - date: '2021-01-23'
+    amending: pt:dre:154946851:por
+    amending_title: Decreto-Lei n.º 8-A/2021
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+  - date: '2021-07-10'
+    amending: pt:dre:166981177:por
+    amending_title: Decreto-Lei n.º 56-C/2021
+    changes:
+    - Altera Artigo 2.º
+  - date: '2021-11-28'
+    amending: pt:dre:175043500:por
+    amending_title: Decreto-Lei n.º 104/2021
+    changes:
+    - Adita Artigo 6.º-A
+    - Adita Artigo 6.º-B
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/28-b/2020/p/cons/20211127/pt/html
+  oj: null
+  dre: '136788887'
+  dre_path: /dr/detalhe/decreto-lei/28-b-2020-136788887
+  internal: pt:dre:136788887:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-2020-136788887
+  metadata_url: https://data.dre.pt/eli/dec-lei/28-b/2020/p/cons/20211127/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-136825977
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-136825977
+  retrieved_at: '2026-10-22T12:33:05Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 8bbb41f65042e8131a27ba7b4f0757afcf9c8952658e30a178704cf3dd888134
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:33:05Z'
+  notes: 8 versão(ões); histórico completo em decreto-lei-28-b-2020.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Abastecimento de BENS Essenciais
+- PSP
+- Agrupamento de Escolas
+- Protecção à Família
+- Crime
+- Proteção Civil
+- Bebida Alcoólica
+- Espetáculos e Divertimentos Públicos
+- Circulação de Pessoas
+- Multa
+- Estabelecimento Comercial
+- Comércio a Retalho
+- Ministério da Administração Interna
+- Contra-ordenação
+- Definição de Competências
+- Serviços de Segurança
+- Controlo Sanitário
+- Edifício Administrativo
+- Edifício Público
+- Saúde Pública
+- Estabelecimento de Bebidas
+- Estabelecimento de Restauração
+- Fiscalização
+- Catástrofe
+- Secretaria Geral
+- Horário de Funcionamento
+- ASAE
+- Lei de Bases
+- Medidas Preventivas
+- GNR
+- Notificação
+- Doença Infecciosa
+- Epidemia
+- Plano de Emergência
+- Polícia Marítima
+- Polícia Municipal
+- Estabelecimento de Ensino
+- Prestação de Serviços
+- Proteção Social
+- Responsabilidade Civil
+- Sanção
+- Doença
+- Secretário Geral
+- Comércio
+- Atendimento Público
+- Transporte de Passageiros
+- Transporte Público
+- Equipamento de Proteção
+- Situação de Contingência
+- Situação de Alerta
+relationships:
+- type: amended_by
+  target: pt:dre:138054866:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2020-138054866
+  date: '2020-07-15'
+- type: amended_by
+  target: pt:dre:145589087:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2020-145589087
+  date: '2020-10-15'
+- type: amended_by
+  target: pt:dre:149220108:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2020-149220108
+  date: '2020-11-22'
+- type: amended_by
+  target: pt:dre:153959842:por
+  label: Adita Artigo 3.º-A; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-a-2021-153959842
+  date: '2021-01-14'
+- type: amended_by
+  target: pt:dre:154946851:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2021-154946851
+  date: '2021-01-22'
+- type: amended_by
+  target: pt:dre:166981177:por
+  label: Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-c-2021-166981177
+  date: '2021-07-09'
+- type: amended_by
+  target: pt:dre:175043500:por
+  label: Adita Artigo 6.º-A; Adita Artigo 6.º-B; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º;
+    Altera Artigo 7.º; Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500
+  date: '2021-11-27'
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
+- type: cites
+  target: pt:dre:130473088:por
+  label: null
+  source: http://data.dre.pt/eli/lei/1-a/2020/03/19/p/dre
+- type: cites
+  target: pt:dre:134889278:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/40-a/2020/05/29/p/dre
+- type: cites
+  target: pt:dre:488301:por
+  label: null
+  source: http://data.dre.pt/eli/lei/81/2009/08/21/p/dre
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: http://data.dre.pt/eli/lei/27/2006/07/03/p/dre
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:33:05Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 28-B/2020
+
+Decreto-Lei n.º 28-B/2020
+
+de 26 de junho
+
+Sumário: Estabelece o regime contraordenacional, no âmbito da situação de calamidade, contingência e alerta.
+
+A situação epidemiológica em Portugal, originada pela doença COVID-19, tem vindo a exigir do Governo a implementação de medidas extraordinárias com vista à prevenção da sua transmissão.
+
+Apesar da tendência atual de evolução da situação epidemiológica, verifica-se que os novos contágios decorrem, frequentemente, de situações de incumprimento das normas de distanciamento físico, em especial em eventos que implicam a aglomeração de pessoas.
+
+Torna-se necessário, portanto, associar o incumprimento das disposições que visam assegurar a adoção de práticas sociais adequadas à aplicação de sanções administrativas com efeito predominantemente dissuasor. Com efeito, o facto de terem ocorrido incumprimentos a estas regras evidencia que se torna essencial a criação de um regime sancionatório que assegure o escrupuloso cumprimento, pela população, das medidas que são indispensáveis à contenção da infeção, como são, por exemplo, o dever de manter o distanciamento físico e as medidas destinadas a evitar a aglomeração de pessoas.
+
+A necessidade de um quadro sancionatório tem, aliás, sido constantemente avaliada pelo Governo. No presente, tal ocorre ao abrigo do n.º 5 da Resolução do Conselho de Ministros n.º 40-A/2020, de 29 de maio, na sua redação atual, que estabelece que o Governo «avalia, a todo o tempo, a necessidade de aprovação de um quadro sancionatório por violação da presente resolução, com base no reporte efetuado pelas forças e serviços de segurança ao membro do Governo responsável pela área da administração interna relativamente ao grau de acatamento das medidas adotadas pela presente resolução».
+
+Sucede, no entanto, que a Lei n.º 27/2006, de 3 de julho, na sua redação atual, que aprova a Lei de Bases da Proteção Civil, não contém um quadro contraordenacional que seja instrumental ao bom cumprimento das medidas adotadas no seu âmbito, não obstante o teor dos seus artigos 6.º e 11.º
+
+Não obstante, a Lei de Bases da Proteção Civil prevê, no seu artigo 62.º que, «sem prejuízo das sanções já previstas, o Governo define as contraordenações correspondentes à violação das normas da presente lei que implicam deveres e comportamentos necessários à execução da política de proteção civil.»
+
+Deste modo, o citado artigo habilita o Governo a definir contraordenações que sejam necessárias a assegurar o cumprimento dos deveres previstos na regulamentação dos estados de alerta, contingência e calamidade, declarados ao abrigo da Lei de Bases da Proteção Civil.
+
+No entanto, torna-se igualmente fundamental instituir um regime contraordenacional para o incumprimento do artigo 12.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, que constitui parte integrante da Lei n.º 1-A/2020, de 19 de março, na sua redação atual, nos termos do artigo 2.º desta Lei, bem como do artigo 13.º-A do mesmo decreto-lei.
+
+Por uma questão de estabilidade, opta-se por centralizar no presente decreto-lei o regime contraordenacional necessário a assegurar o cumprimento das obrigações decorrentes do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, motivo pelo qual também se revoga o n.º 9 do seu artigo 13.º-B, incluindo-se o seu teor no presente decreto-lei.
+
+Deste modo, é criado um quadro sancionatório aplicável às situações de incumprimento previstas na regulamentação da situação de alerta, contingência e calamidade, declaradas ao abrigo da Lei de Bases da Proteção Civil, assim como do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual. A determinação de sanções administrativas encontra-se conexa com o incumprimento de regras de comportamento aprovadas por lei ou habilitadas por lei, prevista no artigo 12.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, por força do disposto no artigo 2.º da Lei n.º 1-A/2020, de 19 de março, na sua redação atual, e, bem assim, nos artigos 13.º-A e 13.º-B do mesmo decreto-lei.
+
+Assim:
+
+Nos termos do artigo 62.º da Lei n.º 27/2006, de 3 de julho, na sua redação atual, que aprova a Lei de Bases da Proteção Civil, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - O presente decreto-lei estabelece o regime sancionatório aplicável ao incumprimento dos deveres estabelecidos por decreto que regulamente a declaração do estado de emergência e dos deveres estabelecidos por declaração da situação de alerta, contingência ou calamidade adotada ao abrigo da Lei n.º 27/2006, de 3 de julho, na sua redação atual, que aprova a Lei de Bases da Proteção Civil, e da Lei n.º 81/2009, de 21 de agosto, que estabelece o Sistema de Vigilância em Saúde Pública.
+
+2 - O presente decreto-lei estabelece ainda o regime sancionatório aplicável ao incumprimento dos deveres impostos pelos artigos 12.º e 13.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, que constituem parte integrante da Lei n.º 1-A/2020, de 19 de março, na sua redação atual, nos termos do artigo 2.º da referida lei, bem como dos deveres impostos pelos artigos 13.º-A e 13.º-B do mesmo decreto-lei.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 99/2020 - Diário da República n.º 227-B/2020, Série I de 2020-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2020-149220108), em vigor a partir de 2020-11-23
+
+###### Artigo 2.º — Deveres
+
+Durante a verificação de estado de emergência ou da situação de alerta, contingência ou calamidade determinadas nos termos da Lei de Bases da Proteção Civil, declaradas no âmbito da situação epidemiológica originada pela doença COVID-19, constituem deveres das pessoas singulares e coletivas:
+
+a) A observância do dever geral de recolhimento domiciliário;
+
+b) A observância das limitações à circulação, incluindo a limitação de circulação entre concelhos;
+
+c) A obrigatoriedade do uso de máscaras ou viseiras, nos termos do artigo 13.º-B do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, ou do artigo 3.º da Lei n.º 62-A/2020 de 27 de outubro, na sua redação atual:
+
+i) Para acesso ou permanência nos espaços e estabelecimentos comerciais e de prestação de serviços;
+
+ii) Nos edifícios públicos ou de uso público onde se prestem serviços ou ocorram atos que envolvam público;
+
+iii) Nos estabelecimentos de educação, de ensino e nas creches;
+
+iv) No interior de salas de espetáculos, de exibição ou de filmes cinematográficos ou similares;
+
+v) Nos transportes coletivos de passageiros;
+
+d) A observância:
+
+i) Do dever de apresentação e detenção de Certificado Digital COVID da UE admitido nos termos do Decreto-Lei n.º 54-A/2021, de 25 de junho, quando exigível, designadamente nos casos em que tal seja determinado para acesso a locais ou estabelecimentos, nomeadamente de restauração, turísticos ou de alojamento local, ou para quem pretenda assistir ou participar em eventos de natureza cultural, desportiva, corporativa ou familiar, designadamente casamentos e batizados;
+
+ii) Quando exigível, designadamente nos casos previstos na subalínea anterior, do dever de realização de testes de diagnóstico de SARS-CoV-2 com resultado negativo, bem como, consoante o caso, da detenção do teste ou do comprovativo da sua realização;
+
+iii) Do dever de solicitação e verificação, por parte dos responsáveis pelos locais e estabelecimentos ou dos organizadores dos eventos, consoante o que for aplicável, do cumprimento do disposto nas subalíneas anteriores.
+
+e) A observância do dever de encerramento de instalações e estabelecimentos;
+
+f) A observância da suspensão de atividade de instalações e estabelecimentos;
+
+g) O cumprimento dos horários de funcionamento dos estabelecimentos de comércio a retalho ou de prestação de serviços definidos nos termos do decreto que regulamente a declaração do estado de emergência ou das declarações das respetivas situações de alerta, contingência ou calamidade;
+
+h) A observância da proibição de publicidade de práticas comerciais com redução de preço;
+
+i) A observância das regras de acesso, de obrigatoriedade do uso de máscaras ou viseiras, da apresentação de Certificado Digital COVID da UE admitido nos termos do Decreto-Lei n.º 54-A/2021, de 25 de junho, de realização de teste de diagnóstico de SARS-CoV-2, de ocupação, de lotação, de permanência, de distanciamento físico e de existência de mecanismos de marcação prévia nos locais abertos ao público, designadamente nos estabelecimentos de restauração e similares, conforme definidas no decreto que regulamente a declaração do estado de emergência ou nas declarações das respetivas situações de alerta, contingência ou calamidade;
+
+j) A observância das regras de funcionamento dos estabelecimentos de restauração e similares;
+
+k) A observância da proibição de consumo de refeições ou produtos à porta do estabelecimento ou nas suas imediações;
+
+l) O cumprimento das regras de fornecimento e venda de bebidas alcoólicas estabelecidas no decreto que regulamente a declaração do estado de emergência ou nas declarações das respetivas situações de alerta, contingência ou calamidade;
+
+m) O cumprimento das regras de consumo de bebidas alcoólicas previstas no decreto que regulamente a declaração do estado de emergência ou nas declarações das respetivas situações de alerta, contingência ou calamidade;
+
+n) O cumprimento do disposto em matéria de limites às taxas e comissões cobradas pelas plataformas intermediárias no setor da restauração e similares.
+
+o) A observância da proibição de comercialização de certos bens em estabelecimentos de comércio a retalho;
+
+p) A observância das regras de lotação dos veículos particulares com lotação superior a cinco lugares;
+
+q) O cumprimento das regras aplicáveis ao tráfego aéreo e aos aeroportos, bem como ao tráfego terrestre, marítimo e fluvial, designadamente no que se refere às obrigações de solicitação e apresentação do Certificado Digital COVID da UE e do formulário de localização de passageiros (PLF), e das obrigações de apresentação de teste de amplificação de ácidos nucleicos (TAAN) ou de teste rápido de antigénio (TRAg) para despiste da infeção por SARS-CoV-2 com resultado negativo ou de confinamento obrigatório, por parte dos passageiros e das companhias aéreas e dos armadores dos navios de passageiros ou respetivos representantes legais, nos termos das declarações das respetivas situações de alerta, contingência ou calamidade;
+
+r) A observância das medidas no âmbito das estruturas residenciais e outras estruturas e respostas de acolhimento;
+
+s) A observância da proibição da realização de atividades em contexto académico;
+
+t) A observância das regras para a atividade física e desportiva;
+
+u) A observância das regras de realização de eventos;
+
+v) O cumprimento das regras relativas aos limites de lotação máxima da capacidade para o transporte terrestre, fluvial e marítimo, nos termos previstos no artigo 13.º-A do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual;
+
+w) O cumprimento das regras relativas à restrição, suspensão ou encerramento de atividades ou separação de pessoas que não estejam doentes, meios de transporte ou mercadorias, definidas ao abrigo do artigo 17.º da Lei n.º 81/2009, de 21 de agosto, que estabelece o Sistema de Vigilância em Saúde Pública.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56-C/2021 - Diário da República n.º 132/2021, 1º Suplemento, Série I de 2021-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-c-2021-166981177), em vigor a partir de 2021-07-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8-A/2021 - Diário da República n.º 15/2021, 1º Suplemento, Série I de 2021-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2021-154946851), em vigor a partir de 2021-01-23
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 6-A/2021 - Diário da República n.º 9/2021, 1º Suplemento, Série I de 2021-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-a-2021-153959842), em vigor a partir de 2021-01-15
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 99/2020 - Diário da República n.º 227-B/2020, Série I de 2020-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2020-149220108), em vigor a partir de 2020-11-23
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 87-A/2020 - Diário da República n.º 201/2020, 1º Suplemento, Série I de 2020-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2020-145589087), em vigor a partir de 2020-10-16
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 37-A/2020 - Diário da República n.º 136/2020, 2º Suplemento, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2020-138054866), em vigor a partir de 2020-07-16
+
+###### Artigo 3.º — Contraordenações
+
+1 - O incumprimento dos deveres estabelecidos nas alíneas a) a p) e r) a w) do artigo anterior constitui contraordenação, sancionada com coima de (euro) 100 a (euro) 500, no caso de pessoas singulares, e de (euro) 1000 a (euro) 10 000, no caso de pessoas coletivas.
+
+2 - O incumprimento dos deveres estabelecidos na alínea q) do artigo anterior, bem como do n.º 3 do artigo 5.º, pelas companhias aéreas ou pelas entidades responsáveis pela gestão dos respetivos aeroportos ou pelos armadores dos navios de passageiros ou respetivos representantes legais, consoante aplicável, constitui contraordenação, sancionada:
+
+a) Com coima de (euro) 20 000 a (euro) 40 000, por cada passageiro que embarque sem apresentação de comprovativo de realização de teste de amplificação de ácidos nucleicos (TAAN) ou de teste rápido de antigénio (TRAg) para despiste da infeção por SARS-CoV-2 com resultado negativo, realizado nas 72 horas ou 48 horas anteriores ao momento do embarque, respetivamente, exceto nos casos em que a apresentação desse comprovativo seja dispensada ou sem apresentação de comprovativo de preenchimento do PLF;
+
+b) Com coima de (euro) 20 000 a (euro) 40 000, por cada dia de incumprimento da obrigação de disponibilização do teste de amplificação de ácidos nucleicos (TAAN) ou de teste rápido de antigénio (TRAg) para despiste da infeção por SARS-CoV-2, da obrigação de rastreio de temperatura corporal por infravermelhos a todos os passageiros que chegam a território nacional, da obrigação de repetição da medição da temperatura corporal quando seja detetada uma temperatura corporal relevante na sequência daquele rastreio ou da obrigação de implementar um sistema de verificação do cumprimento do disposto na alínea q) do artigo 2.º pelos passageiros.
+
+3 - Constitui contraordenação, sancionada com coima de (euro) 300 a (euro) 800, o incumprimento, por pessoa singular, do dever estabelecido na alínea q) do artigo anterior, nas seguintes situações:
+
+a) Quando a pessoa não for portadora de comprovativo de realização laboratorial de teste de amplificação de ácidos nucleicos (TAAN) ou de teste rápido de antigénio (TRAg) para despiste da infeção por SARS-CoV-2 com resultado negativo, realizado nas 72 horas ou 48 horas anteriores à hora do embarque, respetivamente, quando tal for legalmente exigido ou de comprovativo de preenchimento do PLF;
+
+b) A recusa em realizar teste de amplificação de ácidos nucleicos (TAAN) ou de teste rápido de antigénio (TRAg) para despiste da infeção por SARS-CoV-2 antes de entrar em território nacional, nas situações em que viaja sem ser portadora do comprovativo mencionado na alínea anterior.
+
+4 - Em caso de reincidência, a coima é agravada no seu limite mínimo e máximo em um terço.
+
+5 - A negligência é punível, sendo, neste caso, os montantes referidos nos números anteriores reduzidos em 50 %.
+
+6 - Se o mesmo facto constituir simultaneamente crime e contraordenação, será o infrator sempre punido a título de crime, sem prejuízo da aplicação das sanções acessórias previstas para a contraordenação.
+
+7 - O disposto no presente decreto-lei não prejudica a responsabilidade civil do infrator, nos termos gerais de direito.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8-A/2021 - Diário da República n.º 15/2021, 1º Suplemento, Série I de 2021-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2021-154946851), em vigor a partir de 2021-01-23
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 6-A/2021 - Diário da República n.º 9/2021, 1º Suplemento, Série I de 2021-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-a-2021-153959842), em vigor a partir de 2021-01-15
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 87-A/2020 - Diário da República n.º 201/2020, 1º Suplemento, Série I de 2020-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2020-145589087), em vigor a partir de 2020-10-16
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 37-A/2020 - Diário da República n.º 136/2020, 2º Suplemento, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2020-138054866), em vigor a partir de 2020-07-16
+
+###### Artigo 3.º-A — Critério especial de medida da coima
+
+Durante o estado de emergência, os valores mínimos e máximos das coimas previstas no artigo anterior são elevados para o dobro.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 6-A/2021 - Diário da República n.º 9/2021, 1º Suplemento, Série I de 2021-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-a-2021-153959842), em vigor a partir de 2021-01-15
+
+###### Artigo 4.º — Tramitação do processo contraordenacional
+
+1 - Sem prejuízo do disposto no n.º 7, aos processos de contraordenação previstos no presente decreto-lei é aplicável o disposto nos n.os 1, 3 e 4 do artigo 172.º, nos n.os 1 a 3 e 7 do artigo 173.º, nas alíneas a) a f) do n.º 1 e nos n.os 2 a 4 do artigo 175.º, nos n.os 1 a 9 e no n.º 11 do artigo 176.º, e nos artigos 177.º a 179.º e 181.º a 189.º do Código da Estrada, com as necessárias adaptações.
+
+2 - Após a notificação da infração, realizada pela entidade com competência para o processamento da contraordenação, pode o infrator proceder ao pagamento voluntário da coima de imediato.
+
+3 - O pagamento voluntário da coima previsto no número anterior corresponde à liquidação da coima pelo mínimo.
+
+4 - O pagamento voluntário no momento da verificação da infração da contraordenação pode ser realizado por todos os meios legalmente admitidos como forma de pagamento, devendo ser privilegiados os meios de pagamento eletrónico disponíveis.
+
+5 - É sancionado como reincidente quem cometer uma contraordenação praticada com dolo, depois de ter sido notificado pela prática de outra contraordenação por infração à mesma disposição legal.
+
+6 - O não pagamento voluntário da coima ou falta de realização do depósito implica:
+
+a) O pagamento das custas que sejam devidas;
+
+b) A majoração da culpa do agente na determinação do valor económico que este retirou da prática da contraordenação.
+
+7 - Tratando-se da contraordenação a que se refere o n.º 2 do artigo anterior, a entidade fiscalizadora promove a notificação imediata do legal representante da transportadora aérea, dos armadores dos navios de passageiros ou das entidades responsáveis pela gestão dos aeroportos para que os mesmos procedam, no prazo máximo de cinco dias úteis, a depósito de valor igual ao mínimo da coima aplicável.
+
+8 - Sem prejuízo do disposto no n.º 6, se, nos casos previstos no número anterior, não for prestado depósito, o montante da coima é fixado no seu limite máximo em caso de condenação em sede de processo de contraordenação.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8-A/2021 - Diário da República n.º 15/2021, 1º Suplemento, Série I de 2021-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2021-154946851), em vigor a partir de 2021-01-23
+
+###### Artigo 5.º — Fiscalização
+
+1 - A fiscalização do cumprimento dos deveres previstos nas alíneas a) a p) e r) a w) do artigo 2.º compete à Guarda Nacional Republicana, à Polícia de Segurança Pública, à Polícia Marítima, à Autoridade de Segurança Alimentar e Económica e às Polícias Municipais.
+
+2 - A fiscalização do cumprimento dos deveres previstos na alínea q) do artigo 2.º compete:
+
+a) Ao Serviço de Estrangeiros e Fronteiras (SEF), à Polícia de Segurança Pública (PSP) e à Guarda Nacional Republicana (GNR), quando se trate da obrigação de apresentação de comprovativo de realização de teste de amplificação de ácidos nucleicos (TAAN) ou de teste rápido de antigénio (TRAg) para despiste da infeção por SARS-CoV-2 com resultado negativo, realizado nas 72 horas ou 48 horas anteriores ao momento do embarque, respetivamente, ou da recusa em realizar o teste de amplificação de ácidos nucleicos (TAAN) ou de teste rápido de antigénio (TRAg) para despiste da infeção por SARS-CoV-2 antes de entrar em território nacional;
+
+b) À Autoridade Nacional da Aviação Civil (ANAC), nos casos enquadráveis no n.º 2 do artigo 3.º no que concerne às companhias aéreas ou às entidades responsáveis pela gestão dos respetivos aeroportos, bem como quando se trate da obrigação de disponibilização do teste de amplificação de ácidos nucleicos (TAAN) ou de teste rápido de antigénio (TRAg) para despiste da infeção por SARS-CoV-2 ou da obrigação de rastreio de temperatura corporal por infravermelhos a todos os passageiros que chegam a território nacional, da obrigação de repetição da medição da temperatura corporal quando seja detetada uma temperatura corporal relevante na sequência daquele rastreio ou da obrigação de implementar um sistema de verificação do cumprimento do disposto na alínea q) do artigo 2.º pelos passageiros.
+
+3 - Sem prejuízo do disposto no número anterior, a ANA - Aeroportos de Portugal, S. A., deve implementar um sistema de verificação do cumprimento do disposto na alínea q) do artigo 2.º pelos passageiros através, designadamente, de profissionais da área de segurança privada alocados para o efeito.
+
+4 - O SEF e a PSP comunicam à ANAC, no prazo máximo de 48 horas, as informações constantes do auto de notícia para efeitos do processamento das contraordenações da competência desta entidade.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8-A/2021 - Diário da República n.º 15/2021, 1º Suplemento, Série I de 2021-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2021-154946851), em vigor a partir de 2021-01-23
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 6-A/2021 - Diário da República n.º 9/2021, 1º Suplemento, Série I de 2021-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-a-2021-153959842), em vigor a partir de 2021-01-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 37-A/2020 - Diário da República n.º 136/2020, 2º Suplemento, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2020-138054866), em vigor a partir de 2020-07-16
+
+###### Artigo 6.º — Aplicação de medidas de polícia
+
+1 - A prática das contraordenações decorrentes do incumprimento dos deveres estabelecidos no artigo 2.º determina sempre a aplicação das seguintes medidas:
+
+a) O encerramento provisório do estabelecimento e a cessação de atividades, fixando o prazo dentro do qual devem ser adotadas as providências adequadas à regularização da situação nos termos impostos por declaração da situação de alerta, contingência ou calamidade, declaradas ao abrigo da Lei de Bases de Proteção Civil ou por decreto que regulamente a declaração do estado de emergência;
+
+b) A determinação da dispersão da concentração de pessoas em número superior ao limite permitido por declaração de situação de alerta, contingência ou calamidade, declaradas ao abrigo da Lei de Bases de Proteção Civil ou por decreto que regulamente a declaração do estado de emergência.
+
+2 - As medidas previstas no número anterior são aplicadas pelas entidades referidas no artigo anterior e apenas podem ser aplicadas pelo período de tempo estritamente necessário à reposição da legalidade.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 99/2020 - Diário da República n.º 227-B/2020, Série I de 2020-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2020-149220108), em vigor a partir de 2020-11-23
+
+###### Artigo 6.º-A — Sanções acessórias
+
+1 - Pela prática da contraordenação prevista na alínea q) do n.º 1 do artigo 2.º podem, em caso de reincidência e em função da gravidade da conduta e da culpa do agente, ser aplicadas as seguintes sanções acessórias às companhias aéreas, entidades responsáveis pela gestão dos aeroportos ou armadores dos navios de passageiros:
+
+a) Interdição do exercício de profissões ou de atividades cujo exercício dependa de permissão administrativa;
+
+b) Privação do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adotado para a formação de contratos públicos;
+
+c) Encerramento da atividade cujo funcionamento esteja sujeito a qualquer tipo de permissão administrativa;
+
+d) Privação do direito a benefícios fiscais, a benefícios de crédito e a linhas de financiamento de crédito;
+
+e) Privação do direito a benefícios ou a subsídios outorgados por entidades ou serviços públicos, nacionais ou da União Europeia;
+
+f) Suspensão de licenças, alvarás ou autorizações relacionadas com o exercício da respetiva atividade;
+
+g) Publicidade da condenação, nos termos do artigo 6.º-C.
+
+2 - As sanções referidas nas alíneas a) a h) do número anterior têm a duração máxima de seis meses, contados a partir da decisão condenatória definitiva.
+
+3 - Quando sejam aplicadas as sanções previstas nas alíneas a) e c) do n.º 1, a autoridade administrativa deve dar, de imediato, conhecimento à entidade competente no âmbito do controlo prévio da atividade em causa.
+
+4 - Quando sejam aplicadas as sanções previstas nas alíneas d) e e) do n.º 1, a autoridade administrativa deve comunicar, de imediato, à entidade que atribuiu o benefício ou subsídio com vista à suspensão das restantes parcelas do mesmo.
+
+> Aditado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01
+
+###### Artigo 6.º-B — Publicidade da condenação
+
+1 - Quando ao agente seja aplicada a sanção acessória de publicidade da condenação, nos termos da alínea g) do n.º 1 do artigo anterior, pode a mesma ser realizada, após decisão definitiva ou trânsito em julgado, através de um dos seguintes meios:
+
+a) No sítio na Internet da autoridade administrativa competente para a decisão;
+
+b) Através da afixação de edital, por período não inferior a 30 dias, no próprio estabelecimento comercial ou industrial ou no local de exercício da atividade do infrator, por forma bem visível ao público;
+
+c) No sítio na Internet do infrator, nos casos em que o mesmo desenvolva a sua atividade recorrendo ou disponibilizando uma plataforma em linha;
+
+d) Num jornal diário de âmbito nacional e numa publicação periódica local ou regional, da área do domicílio ou sede do infrator, a expensas deste.
+
+2 - Da decisão condenatória publicitada não devem constar dados pessoais relativos à morada e aos números de identificação civil e fiscal do infrator, nem, no caso de pessoas singulares, quaisquer outros elementos pessoais que sejam irrelevantes para a finalidade visada com a publicidade da decisão.
+
+3 - Quando a publicidade tenha lugar através de sítios na Internet, nos termos das alíneas a) e b) do n.º 1, a mesma é, sempre que possível, feita de forma desindexada dos motores de busca.
+
+> Aditado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01
+
+###### Artigo 7.º — Competência
+
+1 - Compete à Secretaria-Geral do Ministério da Administração Interna (SGMAI) o processamento das contraordenações relativas ao incumprimento dos deveres previstos nas alíneas a) a p) e r) a w) do artigo 2.º
+
+2 - A aplicação das coimas previstas nas alíneas a) a p) e r) a w) do artigo 2.º compete ao Secretário-Geral do Ministério da Administração Interna, o qual pode delegar aquela competência nos termos da lei.
+
+3 - No exercício das suas funções, a SGMAI é coadjuvada pelas autoridades policiais e por outras entidades ou serviços públicos cuja colaboração solicite.
+
+4 - Compete à ANAC o processamento das contraordenações relativas ao incumprimento dos deveres previstos na alínea q) do artigo 2.º que se enquadrem no n.º 2 do artigo 3.º no que concerne às companhias aéreas ou às entidades responsáveis pela gestão dos respetivos aeroportos, bem como a aplicação das sanções acessórias referidas nas alíneas a) a g) do n.º 1 do artigo 6.º-A.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8-A/2021 - Diário da República n.º 15/2021, 1º Suplemento, Série I de 2021-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2021-154946851), em vigor a partir de 2021-01-23
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 37-A/2020 - Diário da República n.º 136/2020, 2º Suplemento, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2020-138054866), em vigor a partir de 2020-07-16
+
+###### Artigo 8.º — Destino das coimas
+
+1 - O produto das coimas aplicadas no âmbito das contraordenações relativas ao incumprimento dos deveres previstos nas alíneas a) a p) e r) a w) do artigo 2.º reverte em:
+
+a) 50 % para o Estado;
+
+b) 20 % para a entidade decisora;
+
+c) 30 % para a entidade fiscalizadora.
+
+2 - O produto das coimas aplicadas no âmbito das contraordenações relativas ao incumprimento dos deveres previstos na alínea q) do artigo 2.º reverte em:
+
+a) 50 % para o Estado;
+
+b) 25 % para a ANAC;
+
+c) 25 % para a entidade que levante o auto de notícia.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8-A/2021 - Diário da República n.º 15/2021, 1º Suplemento, Série I de 2021-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-a-2021-154946851), em vigor a partir de 2021-01-23
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 37-A/2020 - Diário da República n.º 136/2020, 2º Suplemento, Série I de 2020-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2020-138054866), em vigor a partir de 2020-07-16
+
+###### Artigo 9.º — Direito subsidiário
+
+Em tudo o que se não se encontre previsto no presente decreto-lei aplica-se subsidiariamente o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, na sua redação atual.
+
+###### Artigo 10.º — Norma revogatória
+
+É revogado o n.º 9 do artigo 13.º-B do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual.
+
+###### Artigo 11.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 25 de junho de 2020. - António Luís Santos da Costa - Eduardo Arménio do Nascimento Cabrita.
+
+Promulgado em 26 de junho de 2020.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 26 de junho de 2020.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113351232

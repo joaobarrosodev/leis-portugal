@@ -1,0 +1,270 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:545625:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2004-116169691",
+ "dre_path": "/dr/detalhe/portaria/193-2004-545625",
+ "source_lastmod": "2026-01-28",
+ "versions": [
+  {
+   "date": "2004-02-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116169594",
+    "1024157596",
+    "1024157597",
+    "1024157598",
+    "1024157599",
+    "1024157600",
+    "1024157601",
+    "1024157602",
+    "1024157603",
+    "1024157604",
+    "1024157605",
+    "1024157606",
+    "1024157607",
+    "1024157608"
+   ]
+  },
+  {
+   "date": "2018-08-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116166577:por",
+     "title": "Portaria n.º 236/2018",
+     "published": "2018-08-24",
+     "dre_path": "/dr/detalhe/portaria/236-2018-116166577"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "116169594",
+    "116169595",
+    "1024157595",
+    "1024157609",
+    "1024157610",
+    "1024157611",
+    "1024157599",
+    "1024157600",
+    "1024157601",
+    "1024157612",
+    "1024157613",
+    "1024157614",
+    "1024157605",
+    "1024157606",
+    "1024157607",
+    "1024157615"
+   ]
+  }
+ ],
+ "fragments": {
+  "116169594": {
+   "fragment_id": "116169692",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 193/2004\n\nde 28 de Fevereiro\n\nAo abrigo do disposto no n.º 3 do artigo 3.º da Lei n.º 78/2001, de 13 de Julho, e nos artigos 5.º, n.º 1, 6.º, 7.º e 13.º do Decreto-Lei n.º 9/2004, de 9 de Janeiro:\n\nManda o Governo, pela Ministra da Justiça, o seguinte:"
+  },
+  "1024157596": {
+   "fragment_id": "1025881726",
+   "type": 11,
+   "heading": "Artigo 1.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Sede\n\nO Julgado de Paz do Concelho de Terras de Bouro fica sediado na Avenida do Dr. Paulo Marcelino, 1.º, em Terras de Bouro."
+  },
+  "1024157597": {
+   "fragment_id": "1025881727",
+   "type": 11,
+   "heading": "Artigo 2.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Funcionamento\n\nO período de funcionamento e de atendimento do Julgado de Paz é das 8 horas e 30 minutos às 16 horas e 30 minutos, de segunda-feira a sexta-feira."
+  },
+  "1024157598": {
+   "fragment_id": "1025881728",
+   "type": 11,
+   "heading": "Artigo 3.º — Coordenação do Julgado de Paz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Coordenação do Julgado de Paz\n\n1 - A coordenação, representação e gestão do Julgado de Paz compete ao juiz de paz que, de entre os que exerçam aí funções, tenha obtido a classificação mais elevada no respectivo concurso de recrutamento e selecção.\n\n2 - Nas ausências e impedimentos do juiz de paz-coordenador, este será substituído pelo que, de entre os que exerçam funções no Julgado de Paz, tenha obtido melhor classificação no concurso de recrutamento e selecção."
+  },
+  "1024157599": {
+   "fragment_id": "1025881729",
+   "type": 11,
+   "heading": "Artigo 4.º — Secção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Secção\n\nO Julgado de Paz dispõe de uma secção dirigida pelo juiz de paz a quem competir a respectiva coordenação nos termos do artigo anterior."
+  },
+  "1024157600": {
+   "fragment_id": "1025881730",
+   "type": 11,
+   "heading": "Artigo 5.º — Distribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Distribuição\n\nOs processos são distribuídos pelos juízes de paz de forma a garantir a repartição, com igualdade, do serviço do Julgado de Paz."
+  },
+  "1024157601": {
+   "fragment_id": "1025881731",
+   "type": 11,
+   "heading": "Artigo 6.º — Serviço de Mediação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Serviço de Mediação\n\n1 - O Serviço de Mediação é assegurado pelos mediadores inscritos na lista do Julgado de Paz, nos termos do regulamento aprovado por portaria do Ministro da Justiça.\n\n2 - Na falta de indicação das partes, a escolha do mediador ou mediadores que intervêm na mediação é efectuada de forma a garantir a igualdade de repartição do Serviço de Mediação."
+  },
+  "1024157602": {
+   "fragment_id": "1025881732",
+   "type": 11,
+   "heading": "Artigo 7.º — Serviço de Atendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Serviço de Atendimento\n\n1 - O Serviço de Atendimento é assegurado, preferencialmente, por licenciados em Direito ou por solicitadores.\n\n2 - A coordenação do Serviço de Atendimento é assegurada por quem para o efeito vier a ser designado pelo juiz de paz-coordenador."
+  },
+  "1024157603": {
+   "fragment_id": "1025881733",
+   "type": 11,
+   "heading": "Artigo 8.º — Competências da Direcção-Geral da Administração Extrajudicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competências da Direcção-Geral da Administração Extrajudicial\n\nÀ Direcção-Geral da Administração Extrajudicial compete:\n\na) Elaborar e actualizar, nos termos da lei, a lista dos mediadores que prestam serviço no Julgado de Paz e zelar pelo respectivo cumprimento;\n\nb) Acompanhar e apoiar o funcionamento do Julgado de Paz, sem prejuízo das competências nesta matéria atribuídas a outras entidades;\n\nc) Proceder ao pagamento da remuneração dos juízes de paz;\n\nd) Proceder ao pagamento das mediações efectuadas."
+  },
+  "1024157604": {
+   "fragment_id": "1025881734",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências do município de Terras de Bouro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências do município de Terras de Bouro\n\n1 - Ao município de Terras de Bouro compete fixar o horário do pessoal dos Serviços de Atendimento e de Apoio Administrativo e zelar pela respectiva observância.\n\n2 - Compete-lhe, ainda, suportar as despesas com o funcionamento do Julgado de Paz, incluindo as relativas ao pessoal dos Serviços de Atendimento e de Apoio Administrativo."
+  },
+  "1024157605": {
+   "fragment_id": "1025881735",
+   "type": 11,
+   "heading": "Artigo 10.º — Competências do Serviço de Mediação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competências do Serviço de Mediação\n\n1 - O Serviço de Mediação disponibiliza a qualquer interessado a mediação como forma alternativa de resolução de quaisquer litígios, ainda que excluídos da competência do Julgado de Paz, com excepção dos que tenham por objecto direitos indisponíveis.\n\n2 - Compete-lhe em especial:\n\na) Realizar a sessão de pré-mediação, explicando às partes a natureza, as características e o objectivo da mediação, bem como as regras a que a mesma obedece;\n\nb) Informar as partes sobre a escolha do mediador e respectiva forma de intervenção e posição de neutralidade e imparcialidade face às partes;\n\nc) Verificar a predisposição das partes para um possível acordo na base de mediação;\n\nd) Submeter, se for o caso, o acordo de mediação assinado pelas partes a imediata homologação pelo juiz de paz, quando o Julgado de Paz seja competente para a apreciação da causa respectiva;\n\ne) Facultar a qualquer interessado o Regulamento dos Serviços de Mediação dos Julgados de Paz e demais legislação conexa."
+  },
+  "1024157606": {
+   "fragment_id": "1025881736",
+   "type": 11,
+   "heading": "Artigo 11.º — Competências do Serviço de Atendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competências do Serviço de Atendimento\n\nCompete ao Serviço de Atendimento:\n\na) Assegurar o atendimento ao público, prestando informação sobre as atribuições e competências do Julgado de Paz e respectiva tramitação processual, bem como sobre a pré-mediação e a mediação;\n\nb) Receber os requerimentos apresentados pelos interessados, reduzindo a escrito, mediante o preenchimento de formulário, os pedidos verbalmente formulados;\n\nc) Proceder às citações e notificações previstas na lei;\n\nd) Receber a contestação, reduzindo-a a escrito, quando apresentada verbalmente;\n\ne) Designar os mediadores, através do coordenador, na falta de escolha consensual pelas partes;\n\nf) Marcar as sessões de pré-mediação e de mediação;\n\ng) Comunicar a data da audiência de julgamento, nos casos previstos na lei, de acordo com a orientação do juiz de paz."
+  },
+  "1024157607": {
+   "fragment_id": "1025881737",
+   "type": 11,
+   "heading": "Artigo 12.º — Competências do Serviço de Apoio Administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competências do Serviço de Apoio Administrativo\n\n1 - Ao Serviço de Apoio Administrativo compete a prestação do apoio administrativo necessário ao funcionamento eficaz dos serviços do Julgado de Paz, designadamente:\n\na) Proceder à distribuição de processos pelos juízes de paz;\n\nb) Receber e expedir correspondência;\n\nc) Proceder às citações e notificações;\n\nd) Manter organizado o arquivo de documentos;\n\ne) Manter organizado o inventário;\n\nf) Manter organizado o registo contabilístico das mediações efectuadas por mediador;\n\ng) Manter actualizado o registo de assiduidade dos funcionários dos Serviços de Atendimento e de Apoio Administrativo;\n\nh) Apoiar a actividade desenvolvida pelo Julgado de Paz.\n\n2 - A coordenação do Serviço de Apoio Administrativo é assegurada por quem para o efeito vier a ser designado pelo juiz de paz-coordenador."
+  },
+  "1024157608": {
+   "fragment_id": "1025881738",
+   "type": 11,
+   "heading": "Artigo 13.º — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Disposição final\n\nO Julgado de Paz do Concelho de Terras de Bouro rege-se pelas normas constantes deste Regulamento e pelo protocolo celebrado entre o Ministério da Justiça e o município de Terras de Bouro em 23 de Maio de 2003."
+  },
+  "116169595": {
+   "fragment_id": "116169693",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra da Justiça, Maria Celeste Ferreira Lopes Cardona, em 13 de Fevereiro de 2004."
+  },
+  "1024157595": {
+   "fragment_id": "1025881725",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO INTERNO DO JULGADO DE PAZ DO CONCELHO DE TERRAS DE BOURO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO INTERNO DO JULGADO DE PAZ DO CONCELHO DE TERRAS DE BOURO"
+  },
+  "1024157609": {
+   "fragment_id": "1025881726",
+   "type": 11,
+   "heading": "Artigo 1.º — Sede",
+   "in_force_from": "2018-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 236/2018 - Diário da República n.º 163/2018, Série I de 2018-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/236-2018-116166577), em vigor a partir de 2018-08-25"
+   ],
+   "markdown": "###### Artigo 1.º — Sede\n\n1 - O Julgado de Paz do Concelho de Terras de Bouro fica sediado na Avenida do Dr. Paulo Marcelino, 1.º, em Terras de Bouro.\n\n2 - O disposto no número anterior pode ser alterado por acordo entre o serviço do Ministério da Justiça organicamente responsável pela promoção dos julgados de paz e o município de Terras de Bouro, ouvido o Conselho dos Julgados de Paz.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 236/2018 - Diário da República n.º 163/2018, Série I de 2018-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/236-2018-116166577), em vigor a partir de 2018-08-25"
+  },
+  "1024157610": {
+   "fragment_id": "1025881727",
+   "type": 11,
+   "heading": "Artigo 2.º — Horários",
+   "in_force_from": "2018-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 236/2018 - Diário da República n.º 163/2018, Série I de 2018-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/236-2018-116166577), em vigor a partir de 2018-08-25"
+   ],
+   "markdown": "###### Artigo 2.º — Horários\n\nOs horários de atendimento e de funcionamento do Julgado de Paz de Terras de Bouro são definidos por acordo entre o serviço do Ministério da Justiça organicamente responsável pela promoção dos julgados de paz e o município de Terras de Bouro, ouvido o Conselho dos Julgados de Paz.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 236/2018 - Diário da República n.º 163/2018, Série I de 2018-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/236-2018-116166577), em vigor a partir de 2018-08-25"
+  },
+  "1024157611": {
+   "fragment_id": "1025881728",
+   "type": 11,
+   "heading": "Artigo 3.º — Coordenação do Julgado de Paz",
+   "in_force_from": "2018-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 236/2018 - Diário da República n.º 163/2018, Série I de 2018-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/236-2018-116166577), em vigor a partir de 2018-08-25"
+   ],
+   "markdown": "###### Artigo 3.º — Coordenação do Julgado de Paz\n\n1 - A coordenação, representação e gestão do Julgado de Paz compete ao juiz de paz que, para o efeito, for designado pelo Conselho dos Julgados de Paz.\n\n2 - Nas ausências e impedimentos do juiz de paz-coordenador, será o mesmo substituído por aquele que, para o efeito, for nomeado pelo Conselho dos Julgados de Paz.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 236/2018 - Diário da República n.º 163/2018, Série I de 2018-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/236-2018-116166577), em vigor a partir de 2018-08-25"
+  },
+  "1024157612": {
+   "fragment_id": "1025881732",
+   "type": 11,
+   "heading": "Artigo 7.º — Serviço de Atendimento",
+   "in_force_from": "2018-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 236/2018 - Diário da República n.º 163/2018, Série I de 2018-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/236-2018-116166577), em vigor a partir de 2018-08-25"
+   ],
+   "markdown": "###### Artigo 7.º — Serviço de Atendimento\n\n1 - O Serviço de Atendimento é assegurado, preferencialmente, por licenciados em Direito ou em Solicitadoria.\n\n2 - A coordenação do Serviço de Atendimento é assegurada por quem para o efeito vier a ser designado pelo juiz de paz-coordenador.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 236/2018 - Diário da República n.º 163/2018, Série I de 2018-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/236-2018-116166577), em vigor a partir de 2018-08-25"
+  },
+  "1024157613": {
+   "fragment_id": "1025881733",
+   "type": 11,
+   "heading": "Artigo 8.º — Competência do serviço do Ministério da Justiça organicamente responsável pela promoção dos julgados de paz",
+   "in_force_from": "2018-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 236/2018 - Diário da República n.º 163/2018, Série I de 2018-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/236-2018-116166577), em vigor a partir de 2018-08-25"
+   ],
+   "markdown": "###### Artigo 8.º — Competência do serviço do Ministério da Justiça organicamente responsável pela promoção dos julgados de paz\n\nAo serviço do Ministério da Justiça organicamente responsável pela promoção dos julgados de paz compete:\n\na) Elaborar e actualizar, nos termos da lei, a lista dos mediadores que prestam serviço no Julgado de Paz e zelar pelo respectivo cumprimento;\n\nb) Acompanhar e apoiar o funcionamento do Julgado de Paz, sem prejuízo das competências nesta matéria atribuídas a outras entidades;\n\nc) Proceder ao pagamento da remuneração dos juízes de paz;\n\nd) Proceder ao pagamento das pré-mediações e mediações efetuadas.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 236/2018 - Diário da República n.º 163/2018, Série I de 2018-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/236-2018-116166577), em vigor a partir de 2018-08-25"
+  },
+  "1024157614": {
+   "fragment_id": "1025881734",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências do município de Terras de Bouro",
+   "in_force_from": "2018-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 236/2018 - Diário da República n.º 163/2018, Série I de 2018-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/236-2018-116166577), em vigor a partir de 2018-08-25"
+   ],
+   "markdown": "###### Artigo 9.º — Competências do município de Terras de Bouro\n\n1 - Sem prejuízo do disposto no artigo 2.º, ao município de Terras de Bouro compete fixar o horário de pessoal dos Serviços de Atendimento e de Apoio Administrativo e zelar pela respetiva observância.\n\n2 - Compete-lhe, ainda, suportar as despesas com o funcionamento do Julgado de Paz, incluindo as relativas ao pessoal dos Serviços de Atendimento e de Apoio Administrativo.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 236/2018 - Diário da República n.º 163/2018, Série I de 2018-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/236-2018-116166577), em vigor a partir de 2018-08-25"
+  },
+  "1024157615": {
+   "fragment_id": "1025881738",
+   "type": 11,
+   "heading": "Artigo 13.º — Disposição final",
+   "in_force_from": "2018-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 236/2018 - Diário da República n.º 163/2018, Série I de 2018-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/236-2018-116166577), em vigor a partir de 2018-08-25"
+   ],
+   "markdown": "###### Artigo 13.º — Disposição final\n\nO Julgado de Paz do Concelho de Terras de Bouro rege-se pelas normas constantes deste Regulamento e subsidiariamente, pelo protocolo celebrado entre o Ministério da Justiça e o Município de Terras de Bouro, em 23 de maio de 2003.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 236/2018 - Diário da República n.º 163/2018, Série I de 2018-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/236-2018-116166577), em vigor a partir de 2018-08-25"
+  }
+ }
+}

@@ -1,0 +1,177 @@
+---
+schema_version: '1.0'
+id: pt:dre:163836:por
+title: Decreto-Lei n.º 44481
+short_title: null
+summary: Altera a orgânica do Fundo de Fomento Florestal e Aquícola, criado pelo Decreto-Lei n.º 34394
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia - Secretaria de Estado da Agricultura - Direcção-Geral dos Serviços Florestais e Aquícolas
+proposing_entity: null
+official_number: '44481'
+official_date: null
+publication_date: '1962-07-26'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 170/1962, Série I de 1962-07-26
+  number: '170'
+  series: I
+  supplement: null
+  pages: 1013 - 1014
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/07/17000/10131014.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '163836'
+  dre_path: /dr/detalhe/decreto-lei/44481-1962-163836
+  internal: pt:dre:163836:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44481-1962-163836
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44481-1962-163836
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:41:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7029b2578f291b6f187fb6cfaa20e807c991cb7d255c1ea113105c1a52414952
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:41:42Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho Administrativo
+- Definição de Competências
+- Exploração Florestal
+- Fundo de Fomento Florestal e Aquícola
+- Orgânica
+relationships:
+- type: amended_by
+  target: pt:dre:578094:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:154997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365973:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625781:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:578094:por
+  label: "Revogados os artigos 2.º, 3.º, 4.º, 5.º e 9.º pelo DEC LEI.45793.06.07.1964.MF, DG.IS [157] de 06.07.1964\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45793-1964-578094
+  date: '1964-07-06'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:41:42Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 44481
+
+1. Em 1945, pelo [Decreto-Lei n.º 34394](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34394-1945-625781), de 27 de Janeiro, foi criado o Fundo de Fomento Florestal, com o fim de facilitar o repovoamento da propriedade particular e promover, de uma maneira geral, a valorização do património florestal particular.
+
+2. Na sua base XIII, a [Lei n.º 2097](https://diariodarepublica.pt/dr/detalhe/lei/2097-1959-432642), de 6 de Junho de 1959, alterando a denominação do Fundo, que passou a designar-se Fundo de Fomento Florestal e Aquícola, fixou princípios no que se refere aos encargos com o fomento piscícola do País.
+
+3. A administração do Fundo competia a uma comissão - [Decreto-Lei n.º 35700](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35700-1946-154997) - presidida pelo director-geral dos Serviços Florestais e Aquícolas, tendo como vogais o chefe da 3.ª Repartição Técnica e um proprietário florestal.
+
+A [Lei n.º 2097](https://diariodarepublica.pt/dr/detalhe/lei/2097-1959-432642) atribui ao Fundo larga actividade sobre o fomento piscícola.
+
+4. Parece oportuno alterar desde já a constituição do conselho administrativo do Fundo, e visto que se podem considerar duas actividades distintas - o fomento florestal e o fomento piscícola -, prevê-se a constituição de secções que auxiliem na sua acção o conselho administrativo.
+
+Estando já bastante adiantados os estudos do projecto da Lei da Caça e prevendo-se que se adoptem no fomento venatório princípios administrativos idênticos aos consignados ao fomento piscícola, deixa-se o Fundo já com a estrutura suficiente para se integrar nele o serviço da caça.
+
+São estas as razões do presente decreto-lei.
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
+
+Artigo 1.º O Fundo de Fomento Florestal e Aquícola (F. F. F. A.), a que se refere a base XIII da [Lei n.º 2097](https://diariodarepublica.pt/dr/detalhe/lei/2097-1959-432642), de 6 de Junho de 1959, gozará de autonomia administrativa e financeira, terá escrita própria das suas receitas e despesas e será gerido por um conselho administrativo constituído pelo director-geral dos Serviços Florestais o Aquícolas, que servirá de presidente, e por dois inspectores-chefes, um técnico e um administrativo.
+
+Art. 2.º Para auxiliar o conselho na sua acção de administração e execução dos vários trabalhos, serão constituídas secções especializadas, presididas por um inspector-chefe ou chefe de repartição da Direcção-Geral dos Serviços Florestais e Aquícolas, de que farão parte representantes da lavoura, das comissões regionais de pesca e organismos que tenham interferência ou interesse nos problemas ligados às diferentes secções.
+
+Art. 3.º Aos membros do conselho administrativo, bem como aos indivíduos que compõem as secções especializadas, serão abonadas senhas de presença em quantitativo a fixar pelo Secretário de Estado da Agricultura com o acordo do Ministro das Finanças.
+
+§ único. Os membros das secções especializadas têm direito, nos termos legais, ao abono de ajudas de custo e de despesas de transporte, correspondentes aos grupos C a F do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
+
+Art. 4.º Todo o expediente, escrita e contabilidade relativos ao Fundo serão assegurados por uma secretaria privativa.
+
+§ único. O numerário do Fundo será movimentado pela tesouraria da Direcção-Geral dos Serviços Florestais e Aquícolas.
+
+Art. 5.º O Fundo submeterá a julgamento ao Tribunal de Contas as suas contas de gerência e entregará as suas receitas nos cofres do Estado para serem aplicadas através de dotação global do orçamento do Ministério da Economia e mediante orçamento privativo sujeito às formalidades legais.
+
+§ único. As receitas não aplicadas em cada ano transitarão para o ano seguinte.
+
+Art. 6.º O preenchimento dos lugares para o desempenho dos serviços do F. F. F. A. cujas categorias não constem dos quadros a que se refere o [Decreto-Lei n.º 40721](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40721-1956-232501), de 2 de Agosto de 1956, podem ser providos em funcionários destacados de harmonia com a base IX da [Lei n.º 2097](https://diariodarepublica.pt/dr/detalhe/lei/2097-1959-432642), de 6 de Junho de 1959.
+
+Art. 7.º O pessoal contratado do Fundo de Fomento Florestal e Aquícola poderá concorrer, com dispensa do limite de idade, aos quadros da Direcção-Geral dos Serviços Florestais e Aquícolas, desde que tenha sido admitido com menos de 35 anos ao serviço do Fundo e possua as habilitações legalmente exigidas.
+
+§ único. O pessoal referido no corpo do artigo poderá ser opositor nos concursos para preenchimento de lugares da sua ou equivalente categoria.
+
+Art. 8.º Ao pessoal contratado e destacado em serviço no Fundo, quando for aposentado, ser-lhe-á calculada a pensão de aposentação com base no vencimento atribuído à categoria que desempenhou neste organismo.
+
+Art. 9.º A nomeação do conselho administrativo e das secções especializadas, bem como a sua constituição e denominação, será feita por portaria do Secretário de Estado da Agricultura, mediante proposta fundamentada do director-geral dos Serviços Florestais e Aquícolas.
+
+Art. 10.º Os requerimentos ou pedidos apresentados à Direcção-Geral dos Serviços Florestais e Aquícolas, nos termos da base XIV da [Lei n.º 1971](https://diariodarepublica.pt/dr/detalhe/lei/1971-1938-365973) e artigo 30.º da [Lei n.º 2069](https://diariodarepublica.pt/dr/detalhe/lei/2069-1954-218084), para a concessão de plantas e sementes, transitarão pelo Fundo de Fomento Florestal e Aquícola, que determinará as importâncias que forem devidas pelo transporte e embalagem dos artigos fornecidos.
+
+§ 1.º Pode o Secretário de Estado da Agricultura, sempre que o ache conveniente, fixar, em despacho a publicar no Diário do Governo, o preço das plantas e sementes que, em cada ano, a Direcção-Geral dos Serviços Florestais e Aquícolas esteja em condições de fornecer aos particulares.
+
+§ 2.º As importâncias cobradas pela aplicação das disposições anteriores constituirão receita do F. F. F. A.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 26 de Julho de 1962. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - João Mota Pereira de Campos.

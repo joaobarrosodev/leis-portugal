@@ -1,0 +1,116 @@
+---
+schema_version: '1.0'
+id: pt:dre:601482:por
+title: Portaria n.º 90/82
+short_title: null
+summary: Cria uma conservatória do registo predial no concelho de Setúbal (1.ª classe)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Justiça - Direcção-Geral dos Registos e do Notariado
+proposing_entity: null
+official_number: 90/82
+official_date: null
+publication_date: '1982-01-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 16/1982, Série I de 1982-01-20
+  number: '16'
+  series: I
+  supplement: null
+  pages: 153 - 153
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/01/01600/01530153.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '601482'
+  dre_path: /dr/detalhe/portaria/90-1982-601482
+  internal: pt:dre:601482:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/90-1982-601482
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/90-1982-601482
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:27:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8fa1a56b5071593d5b13943df13e2fd8f77e9b453a852ddd1d672e16f604dec1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:27:47Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conservatória do Registo Predial
+- Criação de Serviços
+- Definição de Competências
+- Integração de Trabalhadores
+- Quadro de Pessoal
+- Serviços de Registo e Notariado
+- Setúbal
+relationships:
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462214:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:27:47Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 90/82
+
+de 20 de Janeiro
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Justiça, ao abrigo da delegação conferida por despacho de 14 de Setembro de 1981, publicado no Diário da República, 2.ª série, n.º 226, de 1 de Outubro de 1981, e nos termos dos artigos 5.º e 6.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro, e do artigo 6.º do [Decreto Regulamentar n.º 55/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1980-462214), de 8 de Outubro, o seguinte:
+
+1.º Seja criada uma nova conservatória do registo predial no concelho de Setúbal, de 1.ª classe, com a designação de 2.ª Conservatória do Registo Predial.
+
+2.º A área de competência da nova repartição compreenderá o registo predial da freguesia de São Sebastião e o registo comercial de todo o concelho.
+
+3.º A conservatória actualmente existente, que passará a ser designada por 1.ª Conservatória do Registo Predial, compreenderá o registo predial das freguesias de Nossa Senhora da Anunciada, Santa Maria da Graça, São Julião, São Lourenço e São Simão.
+
+4.º O quadro de oficiais de cada uma das conservatórias ficará constituído por 1 primeiro-ajudante, 1 segundo-ajudante, 2 terceiros-ajudantes e 3 escriturários.
+
+5.º Do quadro do pessoal da actual Conservatória transitarão para a nova conservatória 1 primeiro-ajudante, 1 segundo-ajudante, 1 terceiro-ajudante e 1 escriturário, sendo extintos do quadro da 1.ª Conservatória os respectivos lugares.
+
+6.º A 2.ª Conservatória entrará em funcionamento em 1 de Abril de 1982.
+
+Ministério da Justiça, 30 de Dezembro de 1981. - O Secretário de Estado da Justiça, Alfredo Albano de Castro de Azevedo Soares.

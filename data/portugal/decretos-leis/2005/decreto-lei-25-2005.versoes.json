@@ -1,0 +1,424 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:620906:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-156696980",
+ "dre_path": "/dr/detalhe/decreto-lei/25-2005-620906",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2005-01-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "156692356",
+    "156692357",
+    "156692358",
+    "156692359",
+    "156692360",
+    "156692361",
+    "156692362",
+    "156692363",
+    "156692364",
+    "156692365",
+    "156692366",
+    "156692367",
+    "156692368",
+    "156692369",
+    "156692370",
+    "156692371",
+    "156692372",
+    "156692373",
+    "156692374",
+    "156697075",
+    "156697076",
+    "156697077",
+    "156697078",
+    "156697079",
+    "156697081",
+    "156697082",
+    "156697083"
+   ]
+  },
+  {
+   "date": "2006-01-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:203011:por",
+     "title": "Decreto-Lei n.º 4/2006",
+     "published": "2006-01-03",
+     "dre_path": "/dr/detalhe/decreto-lei/4-2006-203011"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "156692356",
+    "156692357",
+    "156692358",
+    "156692359",
+    "156692360",
+    "156692361",
+    "156692362",
+    "156692363",
+    "156697090",
+    "156692365",
+    "156692366",
+    "156692367",
+    "156692368",
+    "156692369",
+    "156692370",
+    "156692371",
+    "156692372",
+    "156692373",
+    "156692374",
+    "156697075",
+    "156697076",
+    "156697077",
+    "156697078",
+    "156697079",
+    "156697080",
+    "156697081",
+    "156697091",
+    "156697083"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º"
+   ],
+   "fragments": [
+    "156692356",
+    "156692357",
+    "156692358",
+    "156692359",
+    "156692360",
+    "156692361",
+    "156692362",
+    "156692363",
+    "156697090",
+    "156692365",
+    "156692366",
+    "156692367",
+    "156692368",
+    "156692369",
+    "156692370",
+    "156692371",
+    "156697092",
+    "156697093",
+    "156692374",
+    "156697094",
+    "156697095",
+    "156697077",
+    "156697078",
+    "156697079",
+    "156697080",
+    "156697081",
+    "156697091",
+    "156697083"
+   ]
+  }
+ ],
+ "fragments": {
+  "156692356": {
+   "fragment_id": "156696981",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 25/2005\n\nde 28 de Janeiro\n\nO actual regime aplicável à comercialização do bacalhau e espécies afins, salgados, verdes e secos, previsto pela Portaria n.º 355/87, de 29 de Abril, encontra-se, hoje, desadequado face à evolução do mercado dos produtos alimentares, onde a qualidade e a informação ao consumidor são cada vez mais importantes.\n\nDeste modo, é necessário definir novas normas de comercialização para o bacalhau e espécies afins, salgados, verdes e secos, tendo em conta designadamente a evolução dos processos tecnológicos de fabrico, as alterações verificadas no mercado destes produtos, as modificações introduzidas nas denominações comerciais das espécies autorizadas a serem comercializadas como bacalhau, ou apenas como afins do bacalhau, bem como a informação a fornecer ao consumidor.\n\nEste diploma insere-se nos objectivos do Governo em termos de política alimentar, visando sobretudo alcançar elevados padrões de qualidade, assegurar a defesa dos legítimos interesses e direitos do consumidor, garantir a livre concorrência e transparência dos mercados e prevenir, ao mesmo tempo, práticas comerciais condenáveis, como a fraude e a especulação.\n\nNeste sentido são estabelecidos vários princípios e regras de actuação, umas constituindo a consolidação das matérias já em vigor e outras inovadoras, com destaque para a definição e caracterização dos diferentes tipos de produtos.\n\nNeste âmbito, as entidades fiscalizadores passam a dispor das condições necessárias ao exercício da sua actividade, uma vez que o presente diploma define métodos para a determinação do teor de sal, expresso em cloreto de sódio, e do teor de humidade do bacalhau salgado, verde, semi-seco ou seco, e das espécies afins salgadas, verdes, semi-secas e secas.\n\nAlém disso, considera-se a possibilidade de, em alternativa àqueles métodos e a pedido do operador, serem utilizados, em qualquer das determinações, os métodos oficiais de um outro Estado membro, assegurando-se, assim, a livre circulação e respeitando a sã concorrência.\n\nFinalmente, são definidas condições que garantem níveis mais exigentes de qualidade para este tipo de produtos, nomeadamente temperaturas máximas para a armazenagem e exposição para venda.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "156692357": {
+   "fragment_id": "156696982",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece as condições a que deve obedecer a comercialização do bacalhau salgado, verde, semi-seco ou seco, e das espécies afins salgadas, verdes, semi-secas ou secas."
+  },
+  "156692358": {
+   "fragment_id": "156696983",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente diploma aplica-se ao bacalhau salgado, verde, semi-seco ou seco, e às espécies afins salgadas, verdes, semi-secas ou secas, destinados à alimentação humana, que se apresentem pré-embalados ou não.\n\n2 - O presente diploma aplica-se aos produtos referidos no número anterior a partir do momento em que se encontram no estado em que vão ser fornecidos ao consumidor final, bem como a restaurantes, hotéis, hospitais, cantinas e outras entidades similares."
+  },
+  "156692359": {
+   "fragment_id": "156696984",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do disposto neste diploma, entende-se por:\n\na) «Bacalhau salgado verde e espécies afins salgadas verdes» o produto que tenha sido sangrado, eviscerado, descabeçado, escalado ou filetado e que, após maturação físico-química pelo sal, apresenta um teor de sal igual ou superior a 16%, expresso em cloreto de sódio; e um teor de humidade superior a 51% e inferior ou igual a 58%;\n\nb) «Bacalhau salgado semi-seco e espécies afins salgadas semi-secas» o produto que tenha sido sangrado, eviscerado, descabeçado, escalado e lavado e que:\n\ni) Após maturação físico-química pelo sal, apresenta um teor de sal igual ou superior a 16%, expresso em cloreto de sódio; e,\n\nii) Após lavagem e posterior secagem por evaporação natural ou artificial, possui um teor de humidade superior a 47% e inferior ou igual a 51%;\n\nc) «Bacalhau salgado seco e espécies afins salgadas secas» o produto que tenha sido sangrado, eviscerado, descabeçado, escalado e lavado e que:\n\ni) Após maturação físico-química pelo sal, apresenta um teor de sal igual ou superior a 16%, expresso em cloreto de sódio; e,\n\nii) Após lavagem e posterior secagem por evaporação natural ou artificial, possui um teor de humidade inferior ou igual a 47%;\n\nd) «Bacalhau salgado seco de cura amarela» o produto que tenha sido sangrado, eviscerado, descabeçado, escalado e lavado e que:\n\ni) Após maturação físico-química pelo sal, apresenta um teor de sal igual ou superior a 12% e inferior a 16%, expresso em cloreto de sódio;\n\nii) Após lavagem e posterior secagem por evaporação natural ou artificial, possui um teor de humidade igual ou inferior a 45%; e\n\niii) Apresenta uma coloração amarelada característica;\n\ne) «Produto desfiado ou migas» as porções sem pele e sem espinhas de peixe salgado seco, resultantes da separação longitudinal das fibras musculares;\n\nf) «Embalagem» a operação destinada a realizar a protecção do produto através da utilização de um invólucro, de um recipiente ou de qualquer outro material adequado; pode, também, definir-se embalagem como o recipiente ou invólucro de um produto destinado a contê-lo, acondicioná-lo ou protegê-lo;\n\ng) «Produto pré-embalado» o conjunto da embalagem e do produto nela acondicionado antes da sua exposição à venda ao consumidor final, sendo a embalagem comercializada solidariamente com o produto e envolvendo-o completamente de tal modo que o seu conteúdo não possa ser modificado sem que aquela seja violada;\n\nh) «Rotulagem» o conjunto de menções e indicações, inclusive imagens, símbolos e marcas de fabrico ou de comércio, respeitantes ao género alimentício, que figuram quer sobre a embalagem, em rótulo, etiqueta, cinta ou gargantilha, quer em letreiro ou documento, acompanhando ou referindo-se ao respectivo produto;\n\ni) «Peso líquido» a quantidade de produto contido na embalagem;\n\nj) «Lote» o conjunto de unidades de venda de um produto produzido, fabricado ou acondicionado em circunstâncias praticamente idênticas."
+  },
+  "156692360": {
+   "fragment_id": "156696985",
+   "type": 11,
+   "heading": "Artigo 4.º — Denominações comerciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Denominações comerciais\n\nAs denominações comerciais permitidas, de acordo com as respectivas espécies, são as seguintes:\n\na) No que se refere ao bacalhau:\n\ni) Bacalhau ou bacalhau do Atlântico (Gadus morhua);\n\nii) Bacalhau da Gronelândia (Gadus ogac);\n\niii) Bacalhau do Pacífico (Gadus macrocephalus);\n\nb) No que se refere às espécies afins:\n\ni) Abrótea ou abrótea do alto (Phycis blennoides);\n\nii) Arinca ou alecrim (Melanogrammus aeglefinus);\n\niii) Bacalhau do Árctico (Eleginus navaga);\n\niv) Bacalhau polar (Boreogadus saida);\n\nv) Escamudo (Pollachius virens);\n\nvi) Lingue (Molva molva);\n\nvii) Paloco ou juliana (Pollachius pollachius);\n\nviii) Paloco do Pacífico ou escamudo do Alasca (Theragra chalcogramma);\n\nix) Zarbo ou bolota (Brosme brosme)."
+  },
+  "156692361": {
+   "fragment_id": "156696986",
+   "type": 11,
+   "heading": "Artigo 5.º — Formas de apresentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Formas de apresentação\n\nO bacalhau salgado, verde, semi-seco ou seco, e as espécies afins salgadas, verdes, semi-secas ou secas, podem ser comercializados sob as seguintes formas de apresentação:\n\na) Peixe inteiro - peixe sangrado, eviscerado, descabeçado e escalado;\n\nb) Meio peixe - uma das partes resultantes do corte longitudinal de um peixe inteiro, ao longo da coluna vertebral;\n\nc) Posta - porção de peixe obtida por cortes efectuados a um peixe ou a um meio peixe;\n\nd) Outras formas, desde que se distingam das referidas nas alíneas anteriores."
+  },
+  "156692362": {
+   "fragment_id": "156696987",
+   "type": 11,
+   "heading": "Artigo 6.º — Comercialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Comercialização\n\n1 - O bacalhau salgado seco e as espécies afins salgadas secas podem ser comercializados:\n\na) Pré-embalados - em qualquer forma de apresentação;\n\nb) Não pré-embalados - em peixes inteiros ou em meios peixes, que poderão apresentar-se em postas obtidas por cortes transversais e perpendiculares ao plano da coluna vertebral que, uma vez juntas, permitem reconstituir o peixe inteiro ou o meio peixe.\n\n2 - O bacalhau salgado vede ou semi-seco e as espécies afins salgadas verdes ou semi-secas, em qualquer forma de apresentação, bem como os subprodutos do bacalhau e das espécies afins, designadamente badanas, bochechas, línguas, pedaços e samos, só podem ser comercializados pré-embalados.\n\n3 - Uma embalagem não pode conter uma mistura de espécies de peixes diferentes.\n\n4 - As embalagens utilizadas nos produtos pré-embalados devem permitir a visualização do seu conteúdo.\n\n5 - As caras de bacalhau salgadas verdes podem ser comercializadas não pré-embaladas, desde que a sua exposição para venda seja feita de forma a não permitir o manuseamento do produto pelo consumidor."
+  },
+  "156692363": {
+   "fragment_id": "156696988",
+   "type": 11,
+   "heading": "Artigo 7.º — Classificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Classificações\n\n1 - A classificação do bacalhau salgado e das espécies afins salgadas, quanto à qualidade comercial, é a seguinte:\n\na) De 1.ª categoria - o peixe apresenta-se sem quaisquer defeitos, na acepção do artigo 8.º;\n\nb) De 2.ª categoria - o peixe apresenta-se partido, amputado ou apenas com os defeitos referidos nas alíneas a) a f) do n.º 1 do artigo 8.º\n\n2 - A classificação do bacalhau salgado seco e das espécies afins salgadas secas, quanto ao tipo comercial, é a seguinte:\n\na) Bacalhau salgado seco:\n\ni) Especial - peixe de 1.ª categoria com peso superior a 3 kg;\n\nii) Graúdo - peixe de 1.ª categoria com peso igual ou inferior a 3 kg e superior a 2 kg;\n\niii) Crescido - peixe de 1.ª categoria com peso igual ou inferior a 2 kg e superior a 1 kg;\n\niv) Corrente - peixe de 1.ª categoria com peso igual ou inferior a 1 kg e superior a 0,5 kg;\n\nv) Miúdo - peixe de 1.ª categoria com peso igual ou inferior a 0,5 kg;\n\nvi) Sortido - peixe de 2.ª categoria com os seguintes escalões:\n\nSortido (maior que) 3 kg - com peso superior a 3 kg;\n\nSortido 2 kg-3 kg - com peso igual ou inferior a 3 kg e superior a 2 kg;\n\nSortido 1 kg-2 kg - com peso igual ou inferior a 2 kg e superior a 1 kg;\n\nSortido 0,5 kg-1 kg - com peso igual ou inferior a 1 kg e superior a 0,5 kg;\n\nSortido (igual ou menor que) 0,5 kg - com peso igual ou inferior a 0,5 kg;\n\nb) Espécies afins salgadas secas:\n\ni) Grande - peixe de 1.ª categoria com peso superior a 2 kg;\n\nii) Médio - peixe de 1.ª categoria com peso igual ou inferior a 2 kg e superior a 1 kg;\n\niii) Pequeno - peixe de 1.ª categoria com peso igual ou inferior a 1 kg e superior a 0,5 kg;\n\niv) Sortido - peixe de 1.ª categoria com peso igual ou inferior a 0,5 kg, assim como todos os peixes de 2.ª categoria.\n\n3 - A classificação constante do número anterior aplica-se:\n\na) Aos produtos não pré-embalados;\n\nb) Aos produtos pré-embalados, desde que as embalagens contenham apenas um peixe ou um meio peixe, ainda que cortados em postas."
+  },
+  "156692364": {
+   "fragment_id": "156696989",
+   "type": 11,
+   "heading": "Artigo 8.º — Defeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Defeitos\n\n1 - Constituem defeitos dos produtos a que se refere o presente diploma:\n\na) Escala com amputações, com remoção da totalidade da coluna vertebral do peixe ou sem remoção dos seus dois terços anteriores;\n\nb) Fendas profundas, de profundidade igual ou superior a metade da espessura do peixe, nos dois terços anteriores do peixe;\n\nc) Fendas não profundas afectando mais de 15% do peixe, em zona delimitada contínua, ou mais de um terço da superfície total do peixe;\n\nd) Coágulos e manchas de sangue ou de fígado afectando mais de 5% da superfície do peixe;\n\ne) Ossos claviculares expostos, com rasgo do músculo;\n\nf) Excesso de sal aderente ao peixe seco e ou muco na face dorsal, em consequência de o peixe não ter sido devidamente lavado antes da secagem;\n\ng) Deficiência de salga - quando a relação entre os teores de cloreto de sódio e água no interior dos tecidos é inferior a 0,32 ou superior a 0,37;\n\nh) Queimado - peixe que se apresenta pegajoso na face dorsal, com desorganização da textura, resultante do excesso de calor;\n\ni) Vermelho - alteração provocada pela existência de halobactérias;\n\nj) Empoado - alteração provocada pela existência de colónias de fungos halófitos;\n\nl) Cheiro nitidamente desagradável, não característico da espécie ou do tipo de tratamento;\n\nm) Coloração anormal - existência de manchas de cor não característica ou coloração, em todo o peixe, que não seja própria do processo tecnológico de fabrico;\n\nn) Ressoado - peixe com defeito de conservação resultante de armazenagem deficiente em temperatura e arejamento, que faz que o tecido adiposo entre em decomposição (acção enzimática), com a desorganização total da textura do peixe - aspecto de cozido;\n\no) Presença de corpos estranhos;\n\np) Presença de parasitas detectáveis a olho nu.\n\n2 - O produto que contenha os defeitos referidos nas alíneas g) a p) do número anterior não pode ser exposto para venda nem vendido ao consumidor final."
+  },
+  "156692365": {
+   "fragment_id": "156696990",
+   "type": 11,
+   "heading": "Artigo 9.º — Temperaturas de armazenamento e de exposição para venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Temperaturas de armazenamento e de exposição para venda\n\nOs produtos a que se refere o presente diploma devem ser mantidos às seguintes temperaturas máximas:\n\na) Na armazenagem:\n\ni) 4ºC, o bacalhau e espécies afins, salgados, verdes e semi-secos, e respectivos subprodutos;\n\nii) 7ºC, o bacalhau e espécies afins, salgados secos, e respectivos subprodutos;\n\nb) Na exposição para venda:\n\ni) 4ºC, o bacalhau e espécies afins, salgados, verdes e semi-secos, e respectivos subprodutos;\n\nii) 7ºC, o bacalhau e espécies afins, salgados secos, quando sejam comercializados pré-embalados ou não pré-embalados em postas."
+  },
+  "156692366": {
+   "fragment_id": "156696991",
+   "type": 11,
+   "heading": "Artigo 10.º — Rotulagem e venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Rotulagem e venda\n\n1 - Ao bacalhau salgado, verde, semi-seco ou seco, e às espécies afins salgadas, verdes, semi-secas ou secas, é aplicável o disposto na legislação que estabelece as regras a que deve obedecer a rotulagem, apresentação e publicidade dos géneros alimentícios.\n\n2 - A denominação de venda do bacalhau salgado, verde, semi-seco ou seco, e das espécies afins salgadas, verdes, semi-secas ou secas, deve incluir:\n\na) A denominação comercial;\n\nb) O tipo comercial, nos casos previstos no n.º 3 do artigo 7.º\n\n3 - Nos locais de venda do bacalhau salgado seco e das espécies afins salgadas secas não pré-embalados e dos produtos pré-embalados que se encontrem nas condições previstas na alínea b) do n.º 3 do artigo 7.º devem encontrar-se, junto dos mesmos, as seguintes informações:\n\na) Tipos comerciais do produto que se encontra exposto e de acordo com o peso de cada peixe inteiro;\n\nb) Preço por quilo de produto."
+  },
+  "156692367": {
+   "fragment_id": "156696992",
+   "type": 11,
+   "heading": "Artigo 11.º — Controlo e determinação do teor de sal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Controlo e determinação do teor de sal\n\n1 - Para a determinação do teor de sal do produto é adoptado, como oficial, o método descrito no anexo I do presente diploma, que dele faz parte integrante.\n\n2 - Em alternativa à utilização do método referido no número anterior, qualquer operador interveniente no circuito comercial do produto pode solicitar às entidades fiscalizadoras que seja utilizado um outro método de determinação, desde que comprove que se trata do método oficial de um Estado membro.\n\n3 - A solicitação escrita a que se refere o número anterior deve ser acompanhada de cópia da publicação oficial do método de determinação alternativo e da respectiva tradução na língua portuguesa."
+  },
+  "156692368": {
+   "fragment_id": "156696993",
+   "type": 11,
+   "heading": "Artigo 12.º — Amostras para controlo e determinação analítica do teor de sal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Amostras para controlo e determinação analítica do teor de sal\n\n1 - Para a determinação do teor de sal referida no artigo anterior, o número mínimo de amostras, por cada lote do produto, é de 10 embalagens ou unidades com peso líquido igual ou superior a 100 g e inferior a 1000 g e de 5 embalagens ou unidades com peso líquido igual ou superior a 1000 g.\n\n2 - As amostras são colhidas em duplicado e seladas pela entidade fiscalizadora, com elaboração do respectivo auto de colheita e selagem, após o que são remetidas a um laboratório acreditado para a realização da determinação analítica numa das amostras.\n\n3 - As reclamações são analisadas com base em nova determinação no duplicado/testemunha da amostra colhida."
+  },
+  "156692369": {
+   "fragment_id": "156696994",
+   "type": 11,
+   "heading": "Artigo 13.º — Controlo e determinação do teor de humidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Controlo e determinação do teor de humidade\n\n1 - Para a determinação do teor de humidade do produto é adoptado, como oficial, o método descrito no anexo II do presente diploma, que dele faz parte integrante.\n\n2 - Em alternativa à utilização do método referido no número anterior, qualquer operador interveniente no circuito comercial do produto pode solicitar às entidades fiscalizadoras que seja utilizado um outro método de determinação nas condições referidas nos n.os 2 e 3 do artigo 11.º"
+  },
+  "156692370": {
+   "fragment_id": "156696995",
+   "type": 11,
+   "heading": "Artigo 14.º — Amostras para controlo e determinação analítica do teor de humidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Amostras para controlo e determinação analítica do teor de humidade\n\nPara a determinação do teor de humidade referida no artigo anterior devem ser seguidos os procedimentos referidos no artigo 12.º"
+  },
+  "156692371": {
+   "fragment_id": "156696996",
+   "type": 11,
+   "heading": "Artigo 15.º — Teores de sal e de humidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Teores de sal e de humidade\n\nOs teores de sal, expressos em cloreto de sódio, e de humidade do bacalhau e espécies afins salgados, verdes, semi-secos ou secos e do bacalhau salgado seco de cura amarela devem obedecer às regras fixadas no anexo III do presente diploma, que dele faz parte integrante."
+  },
+  "156692372": {
+   "fragment_id": "156696997",
+   "type": 11,
+   "heading": "Artigo 16.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Fiscalização\n\nA fiscalização do cumprimento das normas do presente diploma compete à Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar (DGFCQA) e à Inspecção-Geral das Actividades Económicas (IGAE), sem prejuízo das competências atribuídas por lei a outras entidades."
+  },
+  "156692373": {
+   "fragment_id": "156696998",
+   "type": 11,
+   "heading": "Artigo 17.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima no montante mínimo de (euro) 500 e nos montantes máximos de (euro) 3740 ou (euro) 44891, consoante o agente seja pessoa singular ou colectiva:\n\na) A armazenagem e comercialização de produtos com desrespeito pelas normas constantes do artigo 9.º;\n\nb) A comercialização de produtos que não cumpram o disposto nos artigos 4.º a 7.º, no n.º 2 do artigo 8.º e nos artigos 10.º e 15.º\n\n2 - A tentativa e a negligência são puníveis."
+  },
+  "156692374": {
+   "fragment_id": "156696999",
+   "type": 11,
+   "heading": "Artigo 18.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Sanções acessórias\n\n1 - Consoante a gravidade da contra-ordenação e a culpa do agente, podem ser aplicadas, cumulativamente com a coima, as seguintes sanções acessórias:\n\na) Perda de objectos pertencentes ao agente;\n\nb) Interdição do exercício de profissões ou actividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participar em feiras e mercados;\n\ne) Privação do direito de participar em arrematações ou concursos públicos que tenham por objecto o fornecimento de bens e serviços, a concessão de serviços públicos e a atribuição de licenças ou alvarás;\n\nf) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\ng) Suspensão de autorizações, licenças e alvarás.\n\n2 - As sanções referidas nas alíneas b) e seguintes do número anterior têm a duração máxima de dois anos contados a partir do trânsito em julgado da decisão condenatória definitiva."
+  },
+  "156697075": {
+   "fragment_id": "156697000",
+   "type": 11,
+   "heading": "Artigo 19.º — Processos de contra-ordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Processos de contra-ordenação\n\n1 - A instrução dos processos de contra-ordenação compete à entidade que levantar o auto de notícia ou, caso esta não tenha competência para fazer a instrução, à DGFCQA.\n\n2 - Compete ao director-geral de Fiscalização e Controlo da Qualidade Alimentar a aplicação das coimas e sanções acessórias."
+  },
+  "156697076": {
+   "fragment_id": "156697001",
+   "type": 11,
+   "heading": "Artigo 20.º — Afectação do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Afectação do produto das coimas\n\nO produto das coimas cobradas é aplicado da seguinte forma:\n\na) 10% para a entidade que levantou o auto;\n\nb) 10% para a entidade que instruiu o processo;\n\nc) 20% para a entidade que aplicou a coima;\n\nd) 60% para o Estado."
+  },
+  "156697077": {
+   "fragment_id": "156697002",
+   "type": 11,
+   "heading": "Artigo 21.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Regiões Autónomas\n\n1 - Nas Regiões Autónomas dos Açores e da Madeira as competências cometidas à DGFCQA e à IGAE pelo presente diploma são exercidas pelos competentes serviços e organismos das respectivas administrações regionais.\n\n2 - O produto das coimas aplicadas pelas Regiões Autónomas constitui receita própria destas."
+  },
+  "156697078": {
+   "fragment_id": "156697003",
+   "type": 11,
+   "heading": "Artigo 22.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Norma revogatória\n\nÉ revogada a Portaria n.º 355/87, de 29 de Abril."
+  },
+  "156697079": {
+   "fragment_id": "156697004",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nO presente diploma entra em vigor 90 dias após a sua publicação."
+  },
+  "156697081": {
+   "fragment_id": "156697006",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 11.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 11.º)\n\nMétodo para determinação do teor de sal\n\n1 - Objectivo. - O presente anexo destina-se a fixar o processo para determinação do teor de cloretos em bacalhau salgado, verde, semi-seco ou seco, e espécies afins salgadas, verdes, semi-secas ou secas.\n\n2 - Definição. - Entende-se por teor de cloretos a quantidade total de iões de cloro expressa em percentagem em massa de cloreto de sódio.\n\n3 - Campo de aplicação. - Aplica-se ao bacalhau salgado, verde, semi-seco ou seco, e espécies afins salgadas, verdes, semi-secas ou secas.\n\n4 - Resumo do processo. - Solubilização dos cloretos, precipitação por excesso de nitrato de prata e titulação desse excesso com tiocianato de amónio em presença do alúmen férrico.\n\n5 - Aparelhos e utensílios:\n\n5.1 - Balança com classe de precisão de 0,1 g e capacidade adequada aos valores das pesagens a efectuar.\n\n5.2 - Bureta graduada em 0,1 cm3.\n\n5.3 - Frascos de Erlenmeyer de 250 cm3 e de 2000 cm3.\n\n5.4 - Balões aferidos de 1000 cm3.\n\n5.5 - Máquina de picar ou homogeneizador.\n\n5.6 - Pipetas de precisão de 10 cm3 e de 20 cm3.\n\n5.7 - Placa eléctrica para aquecimento a 100ºC.\n\n6 - Reagentes. - Todos os reagentes devem ser de qualidade analítica. A água deve ser destilada ou de pureza equivalente.\n\n6.1 - Ácido nítrico ((ró)20 = 1,40 g/cm3).\n\n6.2 - Solução de nitrato de prata 0,1 N.\n\n6.3 - Solução saturada de sulfato de ferro e amónio (alúmen férrico), FeNH(índice 4)(SO(índice 4))(índice 2)12H(índice 2)O.\n\n6.4 - Solução de tiocianato de amónio 0,1 N.\n\n7 - Amostragem:\n\n7.1 - Técnica para peixe inteiro ou meio peixe:\n\nRemove-se o excesso de sal da parte superficial do peixe, sacudindo ligeiramente o peixe;\n\nRetiram-se várias tiras transversais, incluindo a pele e as espinhas, como se ilustra na figura 1, cada uma com 2 cm de largura e separadas entre si de 4 cm;\n\nA primeira tira é retirada de entre as barbatanas anais do bacalhau (figura 1, a) e a última tira é retirada imediatamente abaixo das barbatanas peitorais do bacalhau (figura 1, b).\n\n7.2 - Técnica para meio peixe. - Procede-se como referido no n.º 7.1 para meio peixe;\n\n7.3 - Técnica para postas. - Remove-se o excesso de sal da parte superficial das postas e selecciona-se uma fracção representativa das partes grossa e fina.\n\n7.4 - Técnica para desfiado ou migas. - Retira-se uma fracção representativa do conteúdo da embalagem.\n\n(ver figura no documento original)\n\n8 - Preparação da amostra. - Homogeneização da amostra, passando-a várias vezes pela máquina de picar.\n\n9 - Técnica:\n\n9.1 - Determinação:\n\na) Pesa-se para um frasco de Erlenmeyer de 2000 cm3 uma toma para análise de cerca de 10 g, com a precisão de (mais ou menos) 0,1 g;\n\nb) Adicionam-se cerca de 800 cm3 de água destilada. Fervem-se cuidadosamente (cerca de quarenta e cinco minutos);\n\nc) Deixam-se arrefecer, filtram-se por gaze para balão aferido de 1000 cm3, lava-se muito bem o frasco de Erlenmeyer, transferindo também as águas de lavagem para o balão, e completa-se o volume com água destilada;\n\nd) Retira-se uma toma de 10 cm3 para um frasco de Erlenmeyer de 250 cm3 e adicionam-se 20 cm3 de solução de nitrato de prata 0,1 N e 20 cm3 de ácido nítrico. Ferve-se cuidadosamente (cerca de quinze minutos);\n\ne) Arrefece-se até à temperatura ambiente e adicionam-se 50 cm3 de água e 5 cm3 de solução saturada de sulfato de ferro e amónio. Titula-se com solução de tiocianato de amónio 0,1 N até aparecimento de uma coloração laranja-clara, persistente.\n\n9.2 - Ensaio em branco. - Segue-se a técnica descrita no n.º 9.1 a partir da alínea d), usando 10 cm3 de água destilada em vez da toma da amostra submetida à análise. Este ensaio deve ser feito paralelamente à determinação.\n\n10 - Resultados:\n\n10.1 - Cálculo. - O teor de cloretos da amostra, expresso em percentagem em massa de cloreto de sódio, é dado pela fórmula:\n\n[5,845 x (V(índice 1) - V(índice 2)) x N]/m\n\nsendo:\n\nV(índice 1) - volume, em centímetros cúbicos, da solução de tiocianato de amónio de título conhecido, gasto na titulação do branco;\n\nV(índice 2) - volume, em centímetros cúbicos, da solução de tiocianato de amónio de título conhecido, gasto na titulação da amostra;\n\nm - massa, em gramas, da toma (retirada do balão aferido de 1000 cm3) para análise;\n\nN - concentração, expressa em normalidade, da solução de tiocianato de amónio.\n\n10.2 - Apresentação. - O resultado apresenta-se arredondado às décimas e é dado pela média aritmética de duas determinações paralelas efectuadas pelo mesmo analista.\n\n11 - Repetibilidade. - A diferença entre resultados de duas determinações simultâneas ou imediatas efectuadas pelo mesmo analista não deverá exceder 0,5% do valor médio.\n\nReferências bibliográficas\n\nIPQ (NP 2929), 1988. Determinação do Teor de Cloretos. Lisboa, Instituto Português da Qualidade, 4 pp.\n\nGonçalves Ferreira, F. A., 1953. Contribuição para o Estudo Químico do Bacalhau, Comissão Reguladora do Comércio de Bacalhau, Lisboa, 31 pp."
+  },
+  "156697082": {
+   "fragment_id": "156697007",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 13.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 13.º)\n\nMétodo para a determinação do teor de humidade\n\nI - Descrição do método\n\n1 - Objectivo. - O presente anexo destina-se a fixar o processo para a determinação do teor de humidade em bacalhau salgado, verde, semi-seco ou seco, e espécies afins salgadas, verdes, semi-secas ou secas.\n\n2 - Definição. - Entende-se por teor de humidade a quantidade de água libertada, expressa em gramas, por 100 g do produto.\n\n3 - Campo de aplicação. - Aplica-se ao bacalhau salgado, verde, semi-seco ou seco, e espécies afins salgadas, verdes, semi-secas ou secas.\n\n4 - Resumo do processo. - Dispersão da toma com areia e secagem a 105ºC (mais ou menos) 2ºC, até obtenção de massa constante.\n\n5 - Aparelhos e utensílios:\n\n5.1 - Balança com classe de precisão de 0,1 mg e capacidade adequada aos valores das pesagens a efectuar.\n\n5.2 - Cristalizador de vidro com cerca de 70 mm de diâmetro e 20 mm de altura.\n\n5.3 - Máquina de picar.\n\n5.4 - Estufa de secagem, regulável a 105ºC (mais ou menos) 2ºC.\n\n5.5 - Exsicador.\n\n5.6 - Mufla, regulável a 600ºC (mais ou menos) 20ºC.\n\n5.7 - Peneiro com 0,25 mm de malha.\n\n5.8 - Peneiro com 1,4 mm de malha.\n\n6 - Reagentes. - Todos os reagentes devem ser de qualidade analítica. A água deve ser destilada ou de pureza equivalente.\n\n6.1 - Ácido clorídrico ((ró)20 = 1,19 g/cm3) a 50% (V/V).\n\n6.2 - Areia tratada, segundo a técnica seguinte: passa-se uma porção de areia respectivamente pelos peneiros referidos nos n.os 5.7 e 5.8. Lava-se a areia retida no peneiro referido no n.º 5.7 com água corrente e ferve-se com ácido clorídrico durante trinta minutos, agitando continuamente. Rejeita-se o ácido. Repete-se esta operação até que a solução ácida permaneça incolor. Lava-se a areia com água até que o papel azul de tornesol não vire vermelho. Seca-se a 105ºC na estufa, calcina-se a 600ºC em mufla, arrefece-se em exsicador e conserva-se em frasco de vidro fechado hermeticamente.\n\n6.3 - Gel de sílica com indicador de humidade.\n\n6.4 - Papel azul de tornesol.\n\n7 - Amostragem. - Segue-se o descrito no n.º 7 do anexo I.\n\n8 - Preparação da amostra. - Homogeneização da amostra, passando-a várias vezes pela máquina de picar.\n\n9 - Técnica:\n\n9.1 - Determinação:\n\na) Colocam-se no cristalizador 20 g a 30 g de areia tratada e uma vareta de vidro e leva-se o conjunto à estufa a 105ºC (mais ou menos) 2ºC, durante pelo menos uma hora. Arrefece-se em exsicador e em seguida pesa-se;\n\nb) Para o mesmo cristalizador pesa-se cerca de 10 g da amostra, com rigor de (mais ou menos) 0,001 g, que se mistura com a areia, utilizando vareta de vidro, de modo a obter-se uma incorporação o mais homogénea possível. Seca-se em estufa a 105ºC (mais ou menos) 2ºC, durante pelo menos três horas;\n\nc) Passa-se imediatamente o cristalizador para o exsicador, deixa-se arrefecer e pesa-se;\n\nd) Repetem-se as operações de secagem e de arrefecimento, respectivamente em estufa (por períodos de meia hora) e em exsicador, até que duas pesagens consecutivas não difiram entre si mais de 10 mg;\n\ne) Devem efectuar-se pelo menos duas determinações sobre a mesma amostra.\n\n10 - Resultados:\n\n10.1 - Cálculo. - O teor de humidade do produto, expresso em gramas, por 100 g de amostra (percentagem), é dado pela expressão:\n\n(ver fórmula no documento original)\n\n10.2 - Apresentação. - O resultado apresenta-se arredondado às décimas e é dado pela média aritmética de duas determinações paralelas efectuadas pelo mesmo analista.\n\n11 - Repetibilidade. - A diferença entre resultados de duas determinações simultâneas ou imediatas, efectuadas pelo mesmo analista, não deverá exceder 0,2 g por 100 g de amostra.\n\nReferência bibliográfica\n\nIPQ (NP 2282), 1991. Determinação do Teor de Humidade. Lisboa, Instituto Português da Qualidade, 4 pp.\n\nII - Desvio\n\nNo produto desfiado ou migas e pelo facto de na amostra não existirem pele ou espinhas, é admissível o desvio, para mais, de até 5% inclusive, no teor de humidade determinado pelo presente método.\n\n> Nota: [Artigo 3.º, Decreto-Lei n.º 4/2006 - Diário da República n.º 2/2006, Série I-A de 2006-01-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2006-203011) O disposto no n.º II do anexo II do Decreto-Lei n.º 25/2005, de 28 de Janeiro, com a redacção que ora lhe é conferida, aplica-se ao produto embalado após a data de entrada em vigor do presente decreto-lei."
+  },
+  "156697083": {
+   "fragment_id": "156697008",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o artigo 15.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se refere o artigo 15.º)\n\nTeores de sal e de humidade\n\n1 - Teor de sal. - A média aritmética do teor de cloretos determinado nas várias amostras utilizadas no ensaio, expressa em percentagem em massa de cloreto de sódio, não deve ser:\n\na) Inferior a 16% no bacalhau salgado, verde, semi-seco ou seco, e espécies afins salgadas, verdes, semi-secas ou secas;\n\nb) Nem inferior a 12% nem igual ou superior a 16% no bacalhau salgado seco de cura amarela.\n\n2 - Teor de humidade. - A média aritmética do teor de humidade determinado nas várias amostras utilizadas no ensaio, expressa em gramas, por 100 g de amostra, não deve ser:\n\na) Nem igual ou inferior a 51% nem superior a 58% no bacalhau salgado verde e espécies afins salgadas verdes;\n\nb) Nem igual ou inferior a 47% nem superior a 51% no bacalhau salgado semi-seco e espécies afins salgadas semi-secas;\n\nc) Superior a 47% no bacalhau salgado seco e espécies afins salgadas secas;\n\nd) Superior a 45% no bacalhau salgado seco de cura amarela."
+  },
+  "156697090": {
+   "fragment_id": "156696989",
+   "type": 11,
+   "heading": "Artigo 8.º — Defeitos",
+   "in_force_from": "2006-01-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 4/2006 - Diário da República n.º 2/2006, Série I-A de 2006-01-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2006-203011), em vigor a partir de 2006-01-04"
+   ],
+   "markdown": "###### Artigo 8.º — Defeitos\n\n1 - Constituem defeitos dos produtos a que se refere o presente diploma:\n\na) Escala com amputações, com remoção da totalidade da coluna vertebral do peixe ou sem remoção dos seus dois terços anteriores;\n\nb) Fendas profundas, de profundidade igual ou superior a metade da espessura do peixe, nos dois terços anteriores do peixe;\n\nc) Fendas não profundas afectando mais de 15% do peixe, em zona delimitada contínua, ou mais de um terço da superfície total do peixe;\n\nd) Coágulos e manchas de sangue ou de fígado afectando mais de 5% da superfície do peixe;\n\ne) Ossos claviculares expostos, com rasgo do músculo;\n\nf) Excesso de sal aderente ao peixe seco e ou muco na face dorsal, em consequência de o peixe não ter sido devidamente lavado antes da secagem;\n\ng) (Revogada);\n\nh) Queimado - peixe que se apresenta pegajoso na face dorsal, com desorganização da textura, resultante do excesso de calor;\n\ni) Vermelho - alteração provocada pela existência de halobactérias;\n\nj) Empoado - alteração provocada pela existência de colónias de fungos halófitos;\n\nl) Cheiro nitidamente desagradável, não característico da espécie ou do tipo de tratamento;\n\nm) Coloração anormal - existência de manchas de cor não característica ou coloração, em todo o peixe, que não seja própria do processo tecnológico de fabrico;\n\nn) Ressoado - peixe com defeito de conservação resultante de armazenagem deficiente em temperatura e arejamento, que faz que o tecido adiposo entre em decomposição (acção enzimática), com a desorganização total da textura do peixe - aspecto de cozido;\n\no) Presença de corpos estranhos;\n\np) Presença de parasitas detectáveis a olho nu.\n\n2 - O produto que contenha os defeitos referidos nas alíneas g) a p) do número anterior não pode ser exposto para venda nem vendido ao consumidor final.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 4/2006 - Diário da República n.º 2/2006, Série I-A de 2006-01-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2006-203011), em vigor a partir de 2006-01-04"
+  },
+  "156697080": {
+   "fragment_id": "156697005",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 7 de Dezembro de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - António José de Castro Bagão Félix - José Pedro Aguiar Branco - Carlos Henrique da Costa Neves - Rui Manuel Lobo Gomes da Silva.\n\nPromulgado em 7 de Janeiro de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 11 de Janeiro de 2005.\n\nO Primeiro-Ministro, Pedro Miguel de Santana Lopes."
+  },
+  "156697091": {
+   "fragment_id": "156697007",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 13.º)",
+   "in_force_from": "2006-01-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 4/2006 - Diário da República n.º 2/2006, Série I-A de 2006-01-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2006-203011), em vigor a partir de 2006-01-04"
+   ],
+   "markdown": "## Anexo II — (a que se refere o artigo 13.º)\n\nMétodo para a determinação do teor de humidade\n\nI - Descrição do método\n\n1 - Objectivo. - O presente anexo destina-se a fixar o processo para a determinação do teor de humidade em bacalhau salgado, verde, semi-seco ou seco, e espécies afins salgadas, verdes, semi-secas ou secas.\n\n2 - Definição. - Entende-se por teor de humidade a quantidade de água libertada, expressa em gramas, por 100 g do produto.\n\n3 - Campo de aplicação. - Aplica-se ao bacalhau salgado, verde, semi-seco ou seco, e espécies afins salgadas, verdes, semi-secas ou secas.\n\n4 - Resumo do processo. - Dispersão da toma com areia e secagem a 105ºC (mais ou menos) 2ºC, até obtenção de massa constante.\n\n5 - Aparelhos e utensílios:\n\n5.1 - Balança com classe de precisão de 0,1 mg e capacidade adequada aos valores das pesagens a efectuar.\n\n5.2 - Cristalizador de vidro com cerca de 70 mm de diâmetro e 20 mm de altura.\n\n5.3 - Máquina de picar.\n\n5.4 - Estufa de secagem, regulável a 105ºC (mais ou menos) 2ºC.\n\n5.5 - Exsicador.\n\n5.6 - Mufla, regulável a 600ºC (mais ou menos) 20ºC.\n\n5.7 - Peneiro com 0,25 mm de malha.\n\n5.8 - Peneiro com 1,4 mm de malha.\n\n6 - Reagentes. - Todos os reagentes devem ser de qualidade analítica. A água deve ser destilada ou de pureza equivalente.\n\n6.1 - Ácido clorídrico ((ró)20 = 1,19 g/cm3) a 50% (V/V).\n\n6.2 - Areia tratada, segundo a técnica seguinte: passa-se uma porção de areia respectivamente pelos peneiros referidos nos n.os 5.7 e 5.8. Lava-se a areia retida no peneiro referido no n.º 5.7 com água corrente e ferve-se com ácido clorídrico durante trinta minutos, agitando continuamente. Rejeita-se o ácido. Repete-se esta operação até que a solução ácida permaneça incolor. Lava-se a areia com água até que o papel azul de tornesol não vire vermelho. Seca-se a 105ºC na estufa, calcina-se a 600ºC em mufla, arrefece-se em exsicador e conserva-se em frasco de vidro fechado hermeticamente.\n\n6.3 - Gel de sílica com indicador de humidade.\n\n6.4 - Papel azul de tornesol.\n\n7 - Amostragem. - Segue-se o descrito no n.º 7 do anexo I.\n\n8 - Preparação da amostra. - Homogeneização da amostra, passando-a várias vezes pela máquina de picar.\n\n9 - Técnica:\n\n9.1 - Determinação:\n\na) Colocam-se no cristalizador 20 g a 30 g de areia tratada e uma vareta de vidro e leva-se o conjunto à estufa a 105ºC (mais ou menos) 2ºC, durante pelo menos uma hora. Arrefece-se em exsicador e em seguida pesa-se;\n\nb) Para o mesmo cristalizador pesa-se cerca de 10 g da amostra, com rigor de (mais ou menos) 0,001 g, que se mistura com a areia, utilizando vareta de vidro, de modo a obter-se uma incorporação o mais homogénea possível. Seca-se em estufa a 105ºC (mais ou menos) 2ºC, durante pelo menos três horas;\n\nc) Passa-se imediatamente o cristalizador para o exsicador, deixa-se arrefecer e pesa-se;\n\nd) Repetem-se as operações de secagem e de arrefecimento, respectivamente em estufa (por períodos de meia hora) e em exsicador, até que duas pesagens consecutivas não difiram entre si mais de 10 mg;\n\ne) Devem efectuar-se pelo menos duas determinações sobre a mesma amostra.\n\n10 - Resultados:\n\n10.1 - Cálculo. - O teor de humidade do produto, expresso em gramas, por 100 g de amostra (percentagem), é dado pela expressão:\n\n((m(índice 2) - m(índice 3))/(m(índice 2) - m(índice 1))) x 100\n\nsendo:\n\nm(índice 1) - massa, em gramas, do conjunto cristalizador, areia e vareta;\n\nm(índice 2) - massa, em gramas, do conjunto cristalizador, areia, vareta e toma para análise;\n\nm(índice 3) - massa, em gramas, do conjunto cristalizador, areia, vareta e toma para análise, após secagem.\n\n10.2 - Apresentação. - O resultado apresenta-se arredondado às décimas e é dado pela média aritmética de duas determinações paralelas efectuadas pelo mesmo analista.\n\n11 - Repetibilidade. - A diferença entre resultados de duas determinações simultâneas ou imediatas, efectuadas pelo mesmo analista, não deverá exceder 0,2 g por 100 g de amostra.\n\nReferência bibliográfica\n\nIPQ (NP 2282), 1991. Determinação do Teor de Humidade. Lisboa, Instituto Português da Qualidade, 4 pp.\n\nII - Desvio\n\nNo produto desfiado ou migas e pelo facto de na amostra não existirem pele ou espinhas, é admissível o desvio, para mais, de até 10% inclusive, no teor de humidade determinado pelo presente método.\n\n> Nota: [Artigo 3.º, Decreto-Lei n.º 4/2006 - Diário da República n.º 2/2006, Série I-A de 2006-01-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2006-203011) O disposto no n.º II do anexo II do Decreto-Lei n.º 25/2005, de 28 de Janeiro, com a redacção que ora lhe é conferida, aplica-se ao produto embalado após a data de entrada em vigor do presente decreto-lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 4/2006 - Diário da República n.º 2/2006, Série I-A de 2006-01-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2006-203011), em vigor a partir de 2006-01-04"
+  },
+  "156697092": {
+   "fragment_id": "156696997",
+   "type": 11,
+   "heading": "Artigo 16.º — Fiscalização",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 16.º — Fiscalização\n\nA fiscalização do cumprimento das normas do presente diploma compete à Autoridade de Segurança Alimentar e Económica (ASAE), sem prejuízo das competências atribuídas por lei a outras entidades.\n\n> Alterado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156697093": {
+   "fragment_id": "156696998",
+   "type": 11,
+   "heading": "Artigo 17.º — Contra-ordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 17.º — Contra-ordenações\n\n1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):\n\na) A armazenagem e comercialização de produtos com desrespeito pelas normas constantes do artigo 9.º;\n\nb) A comercialização de produtos que não cumpram o disposto nos artigos 4.º a 7.º, no n.º 2 do artigo 8.º e nos artigos 10.º e 15.º\n\n2 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156697094": {
+   "fragment_id": "156697000",
+   "type": 11,
+   "heading": "Artigo 19.º — Instrução e decisão",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 19.º — Instrução e decisão\n\n1 - A instrução dos processos de contraordenação compete à ASAE, a quem devem ser remetidos os autos de notícia levantados por outras entidades.\n\n2 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.\n\n> Alterado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156697095": {
+   "fragment_id": "156697001",
+   "type": 11,
+   "heading": "Artigo 20.º — Afectação do produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 20.º — Afectação do produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  }
+ }
+}

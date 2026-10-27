@@ -1,0 +1,1091 @@
+---
+schema_version: '1.0'
+id: pt:dre:599132:por
+title: Decreto Regulamentar Regional n.º 47/92/A
+short_title: null
+summary: Aprova a orgânica do Instituto de Alimentação e Mercados Agrícolas (IAMA). Revoga os Decretos Regulamentares Regionais
+  n.os 2/87/A, de 8 de Janeiro, 32/88/A, de 2 de Agosto, 64/88/A, de 27 de Outubro, e 30/92/A, de 18 de Julho
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Governo Regional - Secretaria Regional da Agricultura e Pescas
+proposing_entity: null
+official_number: 47/92/A
+official_date: null
+publication_date: '1992-11-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 275/1992, Série I-B de 1992-11-27
+  number: '275'
+  series: I
+  supplement: null
+  pages: 5474 - 5485
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/11/275b00/54745485.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2020-01-27'
+version_history:
+  file: decreto-regulamentar-regional-47-92-a.versoes.json
+  count: 8
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1992-11-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-05-02'
+    amending: pt:dre:265702:por
+    amending_title: Decreto Regulamentar Regional n.º 5/94/A
+    changes:
+    - Altera Artigo 51.º
+    - Altera Anexo S
+  - date: '1996-02-27'
+    amending: pt:dre:626004:por
+    amending_title: Decreto Regulamentar Regional n.º 9/96/A
+    changes:
+    - Altera Anexo S
+  - date: '1998-11-08'
+    amending: pt:dre:223048:por
+    amending_title: Decreto Regulamentar Regional n.º 27/98/A
+    changes:
+    - Altera Anexo S
+  - date: '2001-09-08'
+    amending: pt:dre:629579:por
+    amending_title: Decreto Regulamentar Regional n.º 10/2001/A
+    changes:
+    - Adita Artigo 52.º-A
+    - Altera Artigo 22.º
+    - Altera Anexo S
+  - date: '2004-09-11'
+    amending: pt:dre:620359:por
+    amending_title: Decreto Regulamentar Regional n.º 35/2004/A
+    changes:
+    - Altera Anexo S
+  - date: '2019-04-11'
+    amending: pt:dre:122059242:por
+    amending_title: Decreto Regulamentar Regional n.º 6/2019/A
+    changes:
+    - Revoga Artigo 29.º
+  - date: '2020-01-27'
+    amending: pt:dre:128355821:por
+    amending_title: Decreto Legislativo Regional n.º 3/2020/A
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/47/1992/a/cons/20190410/pt/html
+  oj: null
+  dre: '599132'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/47-1992-599132
+  internal: pt:dre:599132:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/47-1992-599132
+  metadata_url: https://data.dre.pt/eli/decregulreg/47/1992/a/cons/20190410/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/1992-122063429
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/1992-122063429
+  retrieved_at: '2026-10-22T12:25:39Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: f6a1b0d375be4b727998040c2c6b60aeea2fdc359d0319e418f8540668b11336
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:25:39Z'
+  notes: 8 versão(ões); histórico completo em decreto-regulamentar-regional-47-92-a.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Centro Regional de Informação de Mercados Agrícolas
+- Pessoal Dirigente
+- Instituto de Alimentação e Mercados Agrícolas
+- Orgânica
+- Quadro de Pessoal
+- Reestruturação de Carreiras
+- Açores
+- Transferência de Pessoal
+- Transferência Patrimonial
+relationships:
+- type: amended_by
+  target: pt:dre:682258:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao/50-1993-682258
+  date: '1993-03-31'
+- type: amended_by
+  target: pt:dre:265702:por
+  label: Altera Artigo 51.º; Altera Anexo S
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1994-265702
+  date: '1994-04-27'
+- type: amended_by
+  target: pt:dre:626004:por
+  label: Altera Anexo S
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1996-626004
+  date: '1996-02-26'
+- type: amended_by
+  target: pt:dre:223048:por
+  label: Altera Anexo S
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1998-223048
+  date: '1998-11-03'
+- type: amended_by
+  target: pt:dre:629579:por
+  label: Adita Artigo 52.º-A; Altera Artigo 22.º; Altera Anexo S
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2001-629579
+  date: '2001-09-07'
+- type: amended_by
+  target: pt:dre:620359:por
+  label: Altera Anexo S
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-2004-620359
+  date: '2004-09-10'
+- type: amended_by
+  target: pt:dre:122059242:por
+  label: Revoga Artigo 29.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2019-122059242
+  date: '2019-04-10'
+- type: amended_by
+  target: pt:dre:128355821:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821
+  date: '2020-01-22'
+- type: cites
+  target: pt:dre:292127:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/30/1992/07/18/a/dre
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
+article_structure:
+  article_count: 55
+  section_count: 14
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:25:39Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 47/92/A
+
+Decreto Regulamentar Regional n.º 47/92/A
+
+O leque das intervenções necessárias à completa prossecução das atribuições cometidas ao Instituto de Alimentação e Mercados Agrícolas (IAMA) tem vindo a ser sucessivamente alargado, em face da evolução significativa registada nos instrumentos previstos nas organizações de mercado dos produtos agrícolas, decorrente da integração do País na Comunidade Europeia.
+
+Uma das áreas mais importantes da actividade deste Instituto refere-se à execução de operações de verificação e controlo das condições de concessão de ajudas nacionais e comunitárias existentes e previstas para o sector, o que implica, necessariamente, a disponibilidade de meios humanos e materiais de qualidade e em volume apreciáveis.
+
+Outra área importante da intervenção do IAMA é o controlo e a promoção da qualidade dos produtos agrícolas, desde a sua produção até à primeira transformação.
+
+Por outro lado, foi também cometida a este organismo a recolha, tratamento e difusão periódica das cotações dos produtos agrícolas e ainda compilação e registo estatístico anual das importações e exportações dos produtos agrícolas de reconhecido interesse regional e dos resultados da produção, distribuição e comercialização dos mesmos, tarefas que vinham sendo exercidas pelo Centro Regional de Informação de Mercados Agrícolas (CRIMA), serviço que é extinto por este diploma.
+
+Por todas estas razões, a estrutura orgânica do IAMA teve de ser bastante ampliada, criando-se novos serviços, quer na área de apoio e concepção quer na área operativa, dotando-o das estruturas mínimas para tornar possível o cumprimento das tarefas que sobre ele impendem.
+
+Foi ainda necessário criar as carreiras de técnico-adjunto de verificação e controlo e de técnico auxiliar de controlo, para as quais transitam, respectivamente, os técnicos auxiliares de exportação e os de divulgação e os auxiliares técnicos de colheitas, por um lado, porque, no primeiro caso, as funções próprias das carreiras deixaram de ser asseguradas pelo IAMA e, no segundo caso, porque é indispensável alargar a área de actuação do pessoal daquela carreira para poder fazer face à multiplicidade de verificações e controlos que este organismo tem agora de efectuar, sobretudo no âmbito do quadro das ajudas comunitárias.
+
+Assim, em execução do disposto no artigo 3.º do Decreto Legislativo Regional n.º 13/89/A, de 28 de Julho, o Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da Constituição, o seguinte:
+
+Orgânica do Instituto de Alimentação e Mercados Agrícolas (IAMA)
+
+### Capítulo I — Natureza e atribuições
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 1.º — Natureza
+
+O Instituto de Alimentação e Mercados Agrícolas, abreviadamente designado IAMA, é um instituto público regional, dotado de autonomia administrativa e financeira e de património próprio.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 2.º — Atribuições e competências
+
+1 - O IAMA tem as atribuições que lhe estão cometidas pelo Decreto Legislativo Regional n.º 13/89/A, de 28 de Julho.
+
+2 - Para a prossecução das suas atribuições, compete ao IAMA, designadamente:
+
+a) Acompanhar a evolução dos mercados agrícolas e pecuários açorianos até à primeira transformação, inclusive;
+
+b) Orientar, regular e organizar os mesmos mercados, mediante a gestão e aplicação dos mecanismos e instrumentos previstos nas organizações de mercado respectivas;
+
+c) Colaborar com os organismos da administração central que asseguram a aplicação, a nível nacional, de todos os instrumentos de orientação, regularização e organização dos mercados agrícolas previstos nas organizações nacionais e comuns de mercado;
+
+d) Assegurar os contactos com as instâncias nacionais e comunitárias, em matérias referentes à política agrícola comum, nas suas áreas de actuação;
+
+e) Acompanhar a evolução do quadro legislativo e estatístico regional, nacional e comunitário, sobre as matérias da sua competência, e propor, sempre que necessário, a sua adaptação à Região;
+
+f) Propor medidas de política económica, tecnológica e industrial relativas à indústria e comércio agro-alimentares;
+
+g) Exercer as funções de tutela dos matadouros, centros de abate de aves, centros de classificação de ovos, centrais de tratamento de leite, estações fruteiras e outras infra-estruturas de distribuição, por grosso, de bens agro-pecuários pertencentes a entidades privadas, controlando a qualidade dos serviços prestados;
+
+h) Controlar a qualidade dos produtos agrícolas, desde a sua produção até à sua primeira transformação, inclusive;
+
+i) Colaborar nas acções que se desenvolvam a nível nacional, no domínio das políticas de alimentação e qualidade alimentar, nomeadamente quanto ao estudo e preparação de normativos adequados ao controlo de produtos destinados à alimentação humana e animal;
+
+j) Promover a qualidade dos produtos agro-pecuários até à primeira transformação industrial, inclusive, bem como o melhoramento da qualidade dos estabelecimentos industriais, de acondicionamento, armazenagem, transporte e venda nesse estádio do circuito;
+
+l) Emitir certificados de qualidade e de genuinidade de produtos agro-alimentares e atribuir marcas de qualidade;
+
+m) Emitir pareceres relativos à qualidade e quantidade de produtos alimentares a importar para a Região e colaborar com os serviços regionais da Direcção-Geral das Alfândegas, em matéria de aperfeiçoamento activo e passivo, no respeitante aos produtos da sua área de actuação.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+### Capítulo II — Órgãos e serviços
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+#### Secção I — Estrutura geral
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 3.º — Órgãos
+
+1 - O IAMA tem os seguintes órgãos:
+
+a) A direcção;
+
+b) O conselho consultivo (CC).
+
+2 - Por despacho normativo, poderão ainda ser criadas as comissões consultivas que se mostrarem necessárias à gestão dos mercados dos diversos produtos, situados na área de actuação do IAMA.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 4.º — Serviços
+
+Para o exercício das suas competências, o IAMA dispõe dos seguintes serviços:
+
+1) Serviços de concepção e apoio:
+
+a) Repartição dos Serviços Administrativos (RSA);
+
+b) Gabinete Técnico (GT)
+
+c) Direcção de Serviços de Organização e Gestão (DSOG);
+
+2) Serviços operativos:
+
+a) Direcção de Serviços de Mercados Agrícolas (DISMA);
+
+b) Direcção de Serviços de Qualidade (DSQ);
+
+3) Serviços externos:
+
+a) Matadouro de São Miguel (MSM);
+
+b) Serviço de Classificação de Leite de São Miguel (SERCLASM);
+
+c) Delegações da Terceira (DTER) e do Faial (DFL).
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+#### Secção II — Órgãos
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+##### Subsecção I — Direcção
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 5.º — Composição
+
+1 - A direcção é composta por três membros, sendo um presidente e dois vogais, nomeados em regime de comissão de serviço, por resolução do Conselho do Governo Regional, sob proposta do Secretário Regional da Agricultura e Pescas.
+
+2 - O presidente é equiparado, para todos os efeitos legais, a director regional e os vogais equiparados a subdirector-geral.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 6.º — Competências
+
+1 - Compete à direcção:
+
+a) Dirigir os serviços do IAMA e orientá-los na realização das suas atribuições;
+
+b) Gerir o IAMA em conformidade com os planos e programas aprovados;
+
+c) Elaborar e submeter a aprovação os planos plurianuais e anuais de actividade, o orçamento e o relatório de contas;
+
+d) Propor e executar as medidas consideradas necessárias à prossecução das atribuições do IAMA;
+
+e) Autorizar as despesas dentro dos limites fixados na lei.
+
+2 - A gestão, direcção e orientação dos diversos serviços do IAMA podem ser distribuídas entre os membros da direcção, segundo regulamento interno a ser por ela aprovado.
+
+3 - A direcção poderá delegar nos directores de matadouros competência para autorizar despesas com aquisição de bens e serviços até 250000$00.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 7.º — Funcionamento
+
+1 - A direcção reúne, ordinariamente, uma vez por semana e, extraordinariamente, sempre que o presidente, por sua iniciativa ou a pedido de um dos vogais, a convocar.
+
+2 - As deliberações serão tomadas por maioria dos membros.
+
+3 - Das reuniões serão lavradas actas em livro próprio, subscritas pelos membros presentes.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 8.º — Presidente da direcção
+
+1 - Compete ao presidente da direcção:
+
+a) Representar o IAMA em juízo e perante quaisquer organismos ou entidades;
+
+b) Convocar e dirigir as reuniões da direcção e do CC;
+
+c) Submeter à aprovação tutelar todos os assuntos que dela careçam;
+
+d) Submeter à apreciação do CC os assuntos que sejam da competência deste;
+
+e) Dirigir os serviços colocados na sua dependência directa;
+
+f) Praticar todos os actos referentes à gestão do pessoal do IAMA;
+
+g) Passar certidões.
+
+2 - O presidente será substituído, nas suas ausências ou impedimentos, pelo vogal que para o efeito designar.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+##### Subsecção II — Conselho consultivo
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 9.º — Composição
+
+O CC é composto por:
+
+a) Presidente da direcção, que preside;
+
+b) Director regional do Desenvolvimento Agrário;
+
+c) Director do Gabinete de Planeamento da Secretaria Regional da Agricultura e Pescas;
+
+d) Um representante da Secretaria Regional da Economia;
+
+e) Três representantes das associações de agricultores;
+
+f) Dois representantes do sector cooperativo da produção;
+
+g) Um representante da indústria de lacticínios;
+
+h) Um representante da indústria transformadora de carnes;
+
+i) Um representante da indústria transformadora hortofrutícola;
+
+j) Um representante da Câmara do Comércio e Indústria dos Açores;
+
+l) Um representante dos sindicatos do sector agro-alimentar.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 10.º — Competências e funcionamento
+
+1 - Compete ao CC pronunciar-se sobre:
+
+a) Os planos de actividade do IAMA;
+
+b) A situação do mercado dos produtos agro-alimentares;
+
+c) Quaisquer outras questões que sejam submetidas à sua apreciação pelo presidente.
+
+2 - O CC reunirá, ordinariamente, uma vez por ano e, extraordinariamente, por iniciativa do presidente ou de, pelo menos, um terço dos seus membros.
+
+3 - O CC poderá funcionar em sessões plenárias ou por comissões especializadas, para as quais definirá os objectivos, composição e funcionamento.
+
+4 - Os pareceres do CC serão elaborados por forma a transmitirem qualitativamente as posições dos membros que o integram.
+
+5 - A direcção assegurará o apoio necessário ao funcionamento do CC.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+#### Secção III — Serviços
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+##### Subsecção I — Serviços de concepção e apoio
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 11.º — Repartição dos Serviços Administrativos (RSA)
+
+1 - À RSA compete, designadamente:
+
+a) Elaborar e manter actualizado o cadastro de todo o pessoal;
+
+b) Promover as acções de recrutamento, selecção, promoção, formação e aperfeiçoamento profissional e executar o expediente relativo a todas essas operações;
+
+c) Organizar os processos de aposentação e exoneração;
+
+d) Executar o expediente relacionado com a atribuição e processamento de vencimentos, salários e outros abonos e ainda o expediente referente a prestações sociais, designadamente a ADSE;
+
+e) Assegurar a gestão de todo o património afecto ao IAMA, zelando pela sua conservação e manutenção;
+
+f) Organizar e manter actualizado o inventário e cadastro dos bens;
+
+g) Promover a aquisição de maquinaria e equipamento, material de transporte, mobiliário e demais equipamentos necessários a todos os órgãos e serviços do IAMA, organizando os concursos públicos ou limitados ou ajustes directos para aquisição de bens e serviços;
+
+h) Executar todas as tarefas respeitantes ao processamento do expediente geral, ao registo e classificação da documentação entrada e saída e ao controlo da circulação dos documentos pelos serviços de apoio;
+
+i) Organizar e manter actualizado o arquivo geral;
+
+j) Assegurar o serviço de dactilografia e apoio administrativo geral aos serviços da sede;
+
+l) Assegurar o atendimento do público e a satisfação dos esclarecimentos solicitados.
+
+2 - A RSA compreende:
+
+a) A Secção de Pessoal (SP);
+
+b) A Secção do Património e Assuntos Gerais (SPAG).
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 12.º — Gabinete Técnico (GT)
+
+1 - O GT é o órgão de estudo, coordenação e apoio, competindo-lhe assessorar tecnicamente os órgãos e serviços do IAMA no exercício das respectivas competências.
+
+2 - O director do GT é equiparado, para todos os efeitos legais, a director de serviços.
+
+3 - O GT compreende:
+
+a) A Divisão de Apoio Técnico (DAT);
+
+b) A Divisão de Informação e Documentação (DID).
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 13.º — Divisão de Apoio Técnico (DAT)
+
+À DAT compete, designadamente:
+
+a) Elaborar programas, projectos, estudos e pareceres sobre os assuntos que lhe sejam cometidos;
+
+b) Colaborar na preparação dos planos anuais e plurianuais de actividade do IAMA;
+
+c) Apoiar os órgãos e os serviços do IAMA em todos os domínios;
+
+d) Coordenar a elaboração dos estudos necessários à aplicação das medidas e normativos nas áreas de actividade do IAMA.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 14.º — Divisão de Informação e Documentação (DID)
+
+À DID compete, designadamente:
+
+a) Efectuar a recolha, tratamento e difusão periódica das cotações dos produtos agrícolas e outros previamente seleccionados junto dos mercados ou nos agentes comerciais;
+
+b) Efectuar a compilação e registo estatístico anual das importações e exportações dos produtos agrícolas de reconhecido interesse regional e dos resultados da actividade produtiva, distribuidora e comercial de produtos agro-alimentares;
+
+c) Acompanhar o funcionamento do mercado regional de produtos agrícolas e a evolução dos mercados nacional e comunitário do mesmo sector;
+
+d) Coligir as normas aplicáveis aos mercados agro-alimentares e organizar a sua divulgação;
+
+e) Promover a audição e a informação das estruturas associativas da produção e da primeira transformação;
+
+f) Assegurar o tratamento técnico das espécies bibliográficas e promover a sua divulgação pelos serviços;
+
+g) Editar publicações, periódicas ou ocasionais, sobre as matérias da competência do IAMA;
+
+h) Assegurar o serviço de distribuição e venda de publicações;
+
+i) Arquivar toda a documentação técnica e legislativa respeitante às actividades do IAMA e manter actualizados os respectivos ficheiros.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 15.º — Direcção de Serviços de Organização e Gestão (DSOG)
+
+1 - A DSOG é o serviço de apoio operativo com competência nas áreas de organização, gestão orçamental, elaboração dos documentos de prestação de contas e processamento da contabilidade.
+
+2 - A DSOG compreende:
+
+a) A Divisão de Gestão Financeira (DGF);
+
+b) O Centro de Informática (CI).
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 16.º — Divisão de Gestão Financeira (DGF)
+
+1 - À DGF compete, designadamente:
+
+a) Recolher os elementos referentes a receita e despesa para a elaboração dos orçamentos ordinários e suplementares;
+
+b) Controlar a execução orçamental;
+
+c) Assegurar o expediente necessário à arrecadação das receitas, às requisições dos fundos consignados ao IAMA no ORAA e às transferências de verbas orçamentais;
+
+d) Preparar os elementos referentes ao controlo orçamental a enviar à Direcção Regional do Orçamento e Contabilidade e os elementos necessários à organização da conta anual de gerência e do respectivo relatório;
+
+e) Processar e verificar todos os documentos de receitas e despesas e escriturar os livros de contabilidade;
+
+f) Manter organizado o arquivo de toda a documentação das gerências findas;
+
+g) Arrecadar as receitas pertencentes ao IAMA e efectuar o pagamento das despesas autorizadas e processadas;
+
+h) Manter escriturados os livros de tesouraria;
+
+i) Efectuar periodicamente o seu balanço.
+
+2 - A DGF compreende:
+
+a) A Secção de Orçamento e Contabilidade (SOC);
+
+b) A Tesouraria (STP).
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 17.º — Centro de Informática (CI)
+
+1 - Ao CI compete, designadamente:
+
+a) Assegurar a ligação funcional entre os serviços utilizadores do equipamento informático;
+
+b) Coordenar o planeamento do processamento de dados;
+
+c) Proceder a estudos com vista a optimizar a utilização do equipamento informático, tendo em conta os recursos disponíveis;
+
+d) Colaborar nas acções de formação do pessoal de informática;
+
+e) Organizar e executar as acções de formação de utilizadores de informática;
+
+f) Coordenar os trabalhos de estudo e de análise lógica e funcional de aplicações informáticas a implementar;
+
+g) Realizar o estudo das características técnicas do equipamento de informática e dos suportes lógicos a utilizar;
+
+h) Assegurar o controlo de qualidade da informação e dos resultados.
+
+2 - O CI é dirigido por um chefe de divisão.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+##### Subsecção II — Serviços operativos
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 18.º — Direcção de Serviços de Mercados Agrícolas (DISMA)
+
+1 - A DISMA é o serviço com competência nas áreas de acompanhamento, estudo e organização dos mercados nacional e comunitário dos produtos agrícolas e de orientação, regulação e organização dos mesmos mercados a nível regional.
+
+2 - A DISMA compreende:
+
+a) A Divisão de Leite e Lacticínios (DLL);
+
+b) A Divisão de Carnes e Outros Produtos de Origem Animal (DCOPOA);
+
+c) A Divisão de Produtos de Origem Vegetal (DPOV).
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 19.º — Competências
+
+Às divisões mencionadas no artigo anterior compete, nas respectivas áreas de actuação:
+
+a) Acompanhar e analisar o funcionamento e a evolução dos mercados regionais dos produtos respectivos, propondo as medidas e as acções necessárias à sua organização, orientação e regulação;
+
+b) Assegurar a representação regional nos órgãos de gestão e nos grupos de trabalho nacionais dos mercados dos respectivos produtos e participar nas reuniões que tenham lugar dentro ou fora do País em que se tratem assuntos da sua área de actuação;
+
+c) Acompanhar e analisar o funcionamento dos mercados comunitários, internacionais e nacionais, propondo, em conformidade, as medidas adequadas à boa integração do mercado regional;
+
+d) Executar as operações de controlo necessárias à aplicação das medidas de intervenção no mercado;
+
+e) Colaborar de forma sistemática no desenvolvimento de sistema de informação dos mercados dos produtos respectivos, através da articulação com outras entidades ou outros serviços;
+
+f) Colaborar na elaboração dos orçamentos de despesas decorrentes da aplicação do regime de preços e garantias previstos no quadro regional e comunitário.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 20.º — Direcção de Serviços de Qualidade (DSQ)
+
+1 - A DSQ é o serviço com competência nas áreas da qualidade dos produtos agrícolas.
+
+2 - A DSQ compreende:
+
+a) A Divisão de Qualidade dos Produtos de Origem Animal (DQPOA);
+
+b) A Divisão de Qualidade dos Produtos de Origem Vegetal (DQPOV).
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 21.º
+
+Divisões de Qualidade dos Produtos de Origem Animal (DQPOA) e de Qualidade dos Produtos de Origem Vegetal (DQPOV)
+
+Às divisões previstas no n.º 2 do artigo anterior compete, nas respectivas áreas de actividade, designadamente:
+
+a) Colaborar nos estudos adequados à definição da política alimentar e nutricional;
+
+b) Colaborar na preparação de regulamentos e de normas técnicas relativas a produtos destinados à alimentação humana e animal, respectivas embalagens e marcação;
+
+c) Verificar a aplicação de regulamentos e normas de qualidade aos produtos, respectivas matérias-primas, ingredientes e aditivos;
+
+d) Promover o exercício de boas práticas de embalagem, marcação e rotulagem;
+
+e) Executar as acções de promoção da qualidade dos produtos agrícolas, bem como o melhoramento da qualidade dos estabelecimentos industriais da primeira transformação, de acondicionamento, armazenagem, transporte e venda nesse estádio do circuito;
+
+f) Efectuar os controlos necessários para a emissão de certificados de qualidade e de genuinidade de produtos e à atribuição de marcas de qualidade;
+
+g) Dar pareceres relativos à qualidade e quantidade de produtos a importar para a Região;
+
+h) Colaborar com os serviços regionais da Direcção-Geral das Alfândegas em matéria de aperfeiçoamento activo e passivo no respeitante aos produtos da sua área de actuação.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+##### Subsecção III — Serviços externos
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 22.º — Matadouro de São Miguel (MSM)
+
+1 - O MSM engloba os matadouros existentes nas ilhas de São Miguel e de Santa Maria.
+
+2 - O MSM é chefiado por um director, equiparado, para todos os efeitos, a subdirector-geral, cujo recrutamento será feito nos termos do artigo 3.º da Lei n.º 49/99, de 22 de Junho.
+
+3 - O director do MSM será nomeado por despacho do Secretário Regional de Agricultura e Pescas ou, quando a escolha recaia sobre indivíduo não vinculado, por despacho conjunto do Presidente do Governo Regional e do Secretário Regional da Agricultura e Pescas, conforme resulta do disposto na alínea b) do n.º 6 do artigo 18.º do mesmo diploma.
+
+4 - Sem prejuízo de outras competências que nele possam vir a ser delegadas, compete ao director do MSM:
+
+a) Assegurar a gestão e coordenação da actividade global do MSM;
+
+b) Colaborar na definição dos objectivos e linhas gerais de acção do MSM, no âmbito dos planos estabelecidos pelo Instituto de Alimentação e Mercados Agrícolas (IAMA) e pela Secretaria Regional da Agricultura e Pescas;
+
+c) Assegurar a gestão integrada dos recursos financeiros, de acordo com as políticas superiormente determinadas, aplicando critérios de economia, eficiência e eficácia;
+
+d) Propor à direcção do IAMA os planos, respectivos orçamentos e os relatórios de actividade;
+
+e) Propor à direcção do IAMA medidas sobre a coordenação e articulação entre os serviços;
+
+f) Propor à direcção do IAMA os horários de trabalho mais adequados ao funcionamento do MSM, observados os condicionalismos legais;
+
+g) Propor à direcção do IAMA o plano de gestão provisional de pessoal para o MSM, bem como o correspondente plano de formação;
+
+h) Desenvolver as acções necessárias ao cumprimento das normas sobre condições ambientais de segurança, higiene e segurança no trabalho;
+
+i) Assegurar o cumprimento das normas relativas ao bem-estar animal, transporte de animais e condições hígio-sanitárias de funcionamento dos estabelecimentos de abate, preparação, tratamento e armazenamento de produtos frescos de origem animal e respectivos subprodutos.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2001/A - Diário da República n.º 208/2001, Série I-B de 2001-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2001-629579), em vigor a partir de 2001-09-08
+
+###### Artigo 23.º — Serviço de Classificação de Leite de São Miguel (SERCLASM)
+
+1 - Ao SERCLASM compete exercer, na ilha de São Miguel, todas as actividades relacionadas com a classificação do leite ao produtor com base na sua qualidade higiénica e composição, designadamente as seguintes:
+
+a) Colher amostras individuais nos locais e nas condições definidas pela direcção;
+
+b) Executar nas amostras recolhidas todas as provas laboratoriais de acordo com a legislação em vigor e elaborar periodicamente as listas de classificação;
+
+c) Dar conhecimento dos resultados da classificação às entidades competentes;
+
+d) Elaborar relatórios de actividade.
+
+2 - O SERCLASM é dirigido por um director equiparado, para todos os efeitos legais, a chefe de divisão.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 24.º — Delegações
+
+1 - Às delegações compete, genericamente, assegurar, nas ilhas onde se estender a sua acção a execução das actividades necessárias à prossecução das atribuições e competências do IAMA.
+
+2 - As delegações serão dirigidas por um delegado equiparado, para todos os efeitos legais, a director de serviços, que depende directamente da direcção.
+
+3 - Ao delegado competirá assegurar a direcção técnico-administrativa do matadouro existente na ilha onde se situar a delegação quando o lugar de director não se encontrar provido e em caso de ausência ou impedimento do respectivo titular.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 25.º — Delegação da Terceira (DTER)
+
+1 - A DTER exerce a sua acção nas ilhas Terceira, São Jorge e Graciosa.
+
+2 - A DTER compreende:
+
+a) Os matadouros existentes nas ilhas onde exerce a sua acção;
+
+b) O Serviço de Classificação de Leite da Terceira (SERCLAT).
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 26.º — Matadouro da Terceira (MITER)
+
+O MITER é dirigido por um director equiparado, para todos os efeitos legais, a chefe de divisão, a quem compete assegurar a gestão técnica de todos os matadouros situados na área de acção da DTER.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 27.º — Serviço de Classificação de Leite da Terceira (SERCLAT)
+
+1 - Ao SERCLAT compete exercer na ilha Terceira as actividades descritas no n.º 1 do artigo 23.º
+
+2 - O SERCLAT poderá estender a sua acção às ilhas de São Jorge, Pico, Graciosa, Faial e Flores, caso venha a ser considerado necessário.
+
+3 - O SERCLAT é dirigido por um director equiparado, para todos os efeitos legais, a chefe de divisão.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 28.º — Delegação do Faial (DFL)
+
+1 - A DFL exercerá a sua acção nas ilhas do Faial, Pico, Flores e Corvo e compreende os matadouros existentes nestas ilhas.
+
+2 - O Matadouro da Ilha do Faial é dirigido por um director equiparado, para todos os efeitos legais, a chefe de divisão.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 29.º — Coordenação dos matadouros
+
+1 - O funcionamento dos matadouros existentes nas ilhas de Santa Maria, São Jorge, Graciosa, Pico e Flores será orientado nos aspectos hígio-técnicos pelo veterinário municipal ou pelo médico veterinário responsável pela inspecção sanitária, a quem será atribuída uma gratificação mensal a fixar por despacho dos Secretários Regionais das Finanças e Planeamento, da Administração Interna e da Agricultura e Pescas.
+
+2 - A acumulação das funções previstas no n.º 1 com outras funções ou cargos públicos referidos não suspende o abono do subsídio de fixação.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+> Revogado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2019/A - Diário da República n.º 71/2019, Série I de 2019-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2019-122059242), em vigor a partir de 2019-04-11
+
+### Capítulo III — Gestão financeira e patrimonial
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 30.º — Instrumentos de gestão
+
+1 - A gestão do IAMA é disciplinada pelos seguintes instrumentos:
+
+a) Plano anual e plurianual de actividades, com definição dos objectivos e correspondentes planos de acção devidamente quantificados;
+
+b) Orçamento anual, elaborado com base no respectivo plano de actividades;
+
+c) Relatório anual de actividade e financeiro e conta.
+
+2 - O orçamento poderá ser desdobrado internamente conforme se mostrar mais adequado à descentralização de responsabilidades e ao controlo de gestão.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 31.º — Receitas próprias
+
+Além das dotações atribuídas no orçamento da Região Autónoma dos Açores, constituem receitas próprias do IAMA:
+
+a) As quantias cobradas por serviços prestados a quaisquer entidades, públicas ou privadas, nacionais ou estrangeiras;
+
+b) O produto das taxas ou diferenciais que lhe forem destinados;
+
+c) O produto da venda de publicações e impressos por si editados;
+
+d) Os rendimentos de bens que fruir a qualquer título;
+
+e) Os empréstimos contraídos;
+
+f) As comparticipações, subsídios, donativos ou quaisquer bonificações concedidos por quaisquer entidades nacionais ou estrangeiras;
+
+g) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou a qualquer outro título.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 32.º — Cobrança coerciva
+
+A cobrança coerciva de dívidas provenientes de receitas do IAMA cuja obrigação de pagamento seja estabelecida por lei ou haja sido reconhecida por despacho do Secretário Regional da Agricultura e Pescas faz-se pelo processo de execuções fiscais, através dos serviços de justiça tributária, e nos termos do código de processo respectivo.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 33.º — Despesas
+
+1 - Constituem despesas do IAMA todos os encargos que resultem do seu funcionamento e da prossecução das suas atribuições e competências.
+
+2 - Os pagamentos das despesas serão efectuados através de cheque ou transferência bancária, mediante recibos devidamente legalizados.
+
+3 - A direcção poderá manter em tesouraria as importâncias indispensáveis ao pagamento de despesas que devam ser satisfeitas em dinheiro.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+### Capítulo IV — Pessoal
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 34.º — Quadro de pessoal
+
+O IAMA dispõe do quadro de pessoal constante do mapa I anexo ao presente diploma, que dele faz parte integrante, e que se encontra agrupado de acordo com a seguinte classificação:
+
+a) Pessoal dirigente;
+
+b) Pessoal de chefia;
+
+c) Pessoal técnico superior;
+
+d) Pessoal técnico;
+
+e) Pessoal de informática;
+
+f) Pessoal técnico-profissional;
+
+g) Pessoal administrativo;
+
+h) Pessoal de matadouros;
+
+i) Pessoal operário;
+
+j) Pessoal auxiliar.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 35.º — Condições e regras de ingresso e acesso
+
+As condições e regras de ingresso e acesso dos funcionários do IAMA são as previstas nos Decretos-Leis n.os 248/85, de 15 de Julho, e 265/88, de 28 de Julho, e as previstas no presente diploma e na legislação regional e geral complementar.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 36.º — Pessoal dirigente
+
+O pessoal dirigente é provido de acordo com o disposto no Decreto-Lei n.º 323/89, de 26 de Setembro, com as adaptações constantes do Decreto Legislativo Regional n.º 1/90/A, de 15 de Janeiro.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 37.º — Pessoal de informática
+
+O pessoal de informática é provido de acordo com o disposto no Decreto-Lei n.º 23/91, de 11 de Janeiro.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 38.º — Pessoal de biblioteca e documentação e de arquivo
+
+O pessoal das áreas funcionais de biblioteca e documentação e de arquivo é provido de acordo com o disposto no Decreto-Lei n.º 247/91, de 10 de Julho.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 39.º — Técnico auxiliar de laboratório
+
+1 - O recrutamento para a carreira de técnico auxiliar de laboratório far-se-á de acordo com as regras estabelecidas no Decreto-Lei n.º 248/85, de 15 de Julho, sendo adequado para o efeito o curso de formação de técnico de química ou equiparado.
+
+2 - Enquanto se verificar a inexistência ou insuficiência de candidatos com os requisitos habilitacionais mencionados no número anterior, poderá o recrutamento ser efectuado de entre indivíduos habilitados com o 9.º ano de escolaridade ou equivalente e a frequência, com aproveitamento, do estágio previsto no Despacho Normativo n.º 136/85, de 24 de Setembro.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 40.º — Técnico-adjunto de verificação e controlo
+
+1 - O recrutamento para ingresso na carreira far-se-á de entre indivíduos habilitados com o 9.º ano de escolaridade ou equivalente e um curso técnico-profissional de duração não inferior a três anos ou de entre habilitados com o 11.º ano de escolaridade ou equivalente na área A, Estudos Científico-Naturais, e estágio.
+
+2 - Aos técnicos-adjuntos de verificação e controlo compete, genericamente, desenvolver funções de natureza executiva, a partir de instruções definidas pelo pessoal técnico ou técnico superior, executando, designadamente, as seguintes tarefas:
+
+a) Prestar apoio aos sectores de recolha e tratamento de informação;
+
+b) Confirmar as informações colhidas no âmbito das operações de controlo da qualidade dos produtos agrícolas;
+
+c) Coordenar a execução das operações de controlo para aplicação das medidas de intervenção no mercado e de promoção e certificação da qualidade;
+
+d) Organizar os processos e confirmar todos os elementos necessários à concessão das ajudas nacionais e comunitárias;
+
+e) Sempre que necessário, colaborar com os técnicos auxiliares de controlo na execução das suas tarefas.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 41.º — Técnico auxiliar de controlo
+
+1 - O recrutamento para ingresso na carreira far-se-á de entre indivíduos habilitados com o 9.º ano de escolaridade ou equivalente e um curso técnico-profissional de duração não inferior a um ano ou estágio.
+
+2 - Aos técnicos auxiliares de controlo compete, genericamente, desenvolver funções de natureza executiva, a partir de instruções definidas pelo pessoal técnico ou técnico superior, executando, designadamente, as seguintes tarefas:
+
+a) Executar as operações necessárias ao controlo da qualidade e quantidade dos produtos agrícolas no âmbito da aplicação das medidas de intervenção no mercado, promoção e certificação da qualidade;
+
+b) Executar todas as operações necessárias à recolha e preparação de amostras e outras operações necessárias ao controlo qualitativo e quantitativo dos produtos agrícolas no âmbito da aplicação das normas de funcionamento dos mercados respectivos.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 42.º — Encarregado de matadouro
+
+1 - A carreira de encarregado de matadouro desenvolve-se pelas categorias de encarregado geral, encarregado de 1.ª classe e de 2.ª classe.
+
+2 - O recrutamento para a categoria de encarregado geral de matadouro far-se-á de entre encarregados de matadouro de 1.ª classe ou, na falta deste, de 2.ª classe com, pelo menos, três anos na categoria com classificação de serviço de Muito bom ou com cinco anos classificados de Bom.
+
+3 - O recrutamento para encarregado de matadouro de 1.ª classe far-se-á de entre encarregados de matadouro de 2.ª classe com, pelo menos, três anos na categoria com classificação de serviço não inferior a Bom.
+
+4 - O recrutamento para encarregado de matadouro de 2.ª classe far-se-á de entre oficiais de matança principais e operários qualificados com a categoria de principal das profissões definidas no respectivo aviso de concurso posicionados no índice 200 ou superior.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 43.º — Oficial de matança
+
+1 - A carreira de oficial de matança desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe.
+
+2 - O recrutamento para as categorias de principal e de 1.ª classe far-se-á de entre oficiais de matança de 1.ª classe e de 2.ª classe, respectivamente, com, pelo menos, três anos na categoria com classificação de serviço não inferior a Bom.
+
+3 - O recrutamento para a categoria de 2.ª classe far-se-á de entre indivíduos habilitados com a escolaridade obrigatória e aprovados em estágio.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 44.º — Motorista-distribuidor
+
+1 - A carreira de motorista-distribuidor desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe.
+
+2 - Ao motorista-distribuidor compete, fundamentalmente, executar as seguintes tarefas:
+
+a) Conduzir qualquer tipo de viatura, independentemente da natureza do serviço e da área onde se presta;
+
+b) Colaborar na respectiva carga e descarga, tendo em atenção a segurança dos utilizadores e da mercadoria;
+
+c) Cuidar da manutenção das viaturas que lhe forem distribuídas.
+
+3 - O recrutamento para a categoria de motorista-distribuidor principal e de 1.ª classe far-se-á de entre motoristas-distribuidores de 1.ª classe e de 2.ª classe, respectivamente, com, pelo menos, três anos na categoria com classificação de serviço não inferior a Bom.
+
+4 - O recrutamento para motorista-distribuidor de 2.ª classe far-se-á de entre indivíduos habilitados com carta de condução de veículos pesados e aprovados em estágio.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 45.º — Carreiras de fogueira e de operador de frio
+
+1 - As carreiras de fogueira e de operador de frio do grupo de pessoal de matadouros desenvolvem-se pelas categorias de oficial especializado, meio-oficial e ajudante.
+
+2 - O recrutamento para as categorias de oficial especializado e meio-oficial faz-se de entre os meios-oficiais e ajudantes, respectivamente, com, pelo menos, três anos na categoria com classificação de serviço não inferior a Bom.
+
+3 - O recrutamento para a categoria de ajudante far-se-á de entre indivíduos com habilitação profissional adequada comprovada por carteira profissional.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 46.º — Carreira de auxiliar técnico
+
+A carreira de auxiliar técnico passa a designar-se de auxiliar técnico de laboratório.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 47.º — Regime de estágio
+
+1 - O recrutamento para os estágios nas carreiras de técnico-adjunto de verificação e controlo, de técnico auxiliar de controlo, de motorista-distribuidor e de oficial de matança far-se-á de acordo com as normas constantes da lei geral para os concursos de ingresso.
+
+2 - Os estágios terão a duração que for fixada no regulamento respectivo.
+
+3 - O número de estagiários será o dos lugares a preencher acrescido de 20%.
+
+4 - Os estagiários serão remunerados pelo vencimento correspondente ao 1.º escalão das categorias de ingresso.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 48.º — Responsável de matadouro
+
+Nos matadouros das ilhas de Santa Maria, São Jorge, Graciosa, Pico e Flores, um dos funcionários assume as funções de responsável pelo funcionamento do matadouro, auferindo por esse facto uma gratificação de 15% da remuneração do índice 220.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 49.º — Acumulação de funções
+
+Nos matadouros das ilhas de Santa Maria, Graciosa e Flores, o motorista-distribuidor colabora com os oficiais de matança no exercício das funções próprias da categoria destes.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 50.º — Identificação do pessoal
+
+O pessoal do IAMA será identificado por cartão pessoal intransmissível segundo modelo a aprovar por portaria do Secretário Regional da Agricultura e Pescas.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+### Capítulo V — Disposições finais e transitórias
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 51.º — Transição, reclassificação e reconversão de carreiras
+
+1 - A transição do pessoal do IAMA para os lugares do quadro constante do mapa I anexo ao presente diploma far-se-á mediante lista nominativa, nos termos da lei, para a categoria que já possui e para o escalão em que já se encontra posicionado, salvo o disposto nos números seguintes.
+
+2 - Os técnicos auxiliares de exportação transitam para a carreira de técnico-adjunto de verificação e controlo de acordo com o mapa II anexo ao presente diploma.
+
+3 - Os técnicos auxiliares de divulgação transitam para a carreira de técnico-adjunto de verificação e controlo, sendo integrados na categoria mais baixa da carreira em cujo desenvolvimento esteja incluído escalão a que corresponda remuneração igual ou, se não houver coincidência, remuneração imediatamente superior à remuneração base auferida à data da entrada em vigor do presente diploma, acrescida do valor médio da remuneração acessória auferida nos 12 meses imediatamente anteriores à mesma data.
+
+4 - Os auxiliares técnicos de colheitas e os auxiliares técnicos do serviço de classificação de leite que possuam o 9.º ano de escolaridade ou equivalente transitam para a carreira de técnico auxiliar de controlo, sendo integrados na categoria mais baixa da carreira em cujo desenvolvimento esteja incluído escalão a que corresponda remuneração igual ou, se não houver coincidência, remuneração imediatamente superior à remuneração base auferida à data da entrada em vigor do presente diploma, acrescida do valor médio da remuneração acessória auferida nos 12 meses imediatamente anteriores à mesma data, ficando obrigados à frequência de curso de formação adequado de duração não inferior a 12 meses.
+
+5 - Os auxiliares técnicos de colheitas e os auxiliares técnicos do serviço de classificação de leite que não possuam o 9.º ano de escolaridade ou equivalente e tenham, pelo menos, cinco anos de serviço na carreira transitam para a carreira de técnico auxiliar de controlo nos termos do número anterior, ficando obrigados à frequência de curso de formação adequado de duração não inferior a 18 meses.
+
+6 - Os serventes do serviço de classificação de leite transitam para a carreira de auxiliar técnico de laboratório.
+
+7 - A auxiliar técnica do quadro do Serviço de Desenvolvimento Agrário de São Miguel, da Secretaria Regional da Agricultura e Pescas, a exercer no IAMA, em regime de destacamento, funções próprias da carreira de técnico-adjunto de verificação e controlo, com experiência profissional nas funções de técnico auxiliar de laboratório há mais de 10 anos e com formação profissional adequada, transita para o quadro deste Instituto para a categoria mais baixa da carreira correspondente às funções desempenhadas, para escalão a que corresponda índice de remuneração igual ou imediatamente superior àquele em que já se encontra posicionada.
+
+8 - A auxiliar técnica que desempenha funções próprias da carreira de tesoureiro há mais de cinco anos transita para esta carreira, para escalão a que corresponda índice de remuneração igual ou imediatamente superior àquele em que já se encontra posicionada.
+
+9 - Os auxiliares técnicos do Serviço de Classificação de Leite que venham exercendo funções de técnico auxiliar de laboratório e possuam o 9.º ano de escolaridade, ou equivalente, transitam para a carreira correspondente às funções exercidas, sendo integrados na categoria mais baixa da carreira em cujo desenvolvimento esteja incluído escalão a que corresponda remuneração igual ou, se não houver coincidência, remuneração imediatamente superior à auferida à data da entrada em vigor do presente diploma, ficando obrigados à frequência de um curso de formação adequado, de duração não inferior a 12 meses.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 5/94/A - Diário da República n.º 97/1994, Série I-B de 1994-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1994-265702), em vigor a partir de 1994-05-02, produz efeitos a partir de 1992-11-28
+
+###### Artigo 52.º — Extinção do Centro Regional de Informação de Mercados Agrícolas dos Açores (CRIMA)
+
+1 - O CRIMA, criado pelo Decreto Regulamentar Regional n.º 64/88/A, de 27 de Outubro, é extinto, transitando o seu pessoal para o IAMA mediante lista nominativa, nos termos legais.
+
+2 - O IAMA sucede nos direitos, obrigações e posições jurídicas de que o CRIMA é titular, sendo transferidos para aquele as instalações, móveis, utensílios, material de transporte e demais equipamento que a este estão afectos, mediante relações de cadastro devidamente discriminadas e assinadas.
+
+3 - Até à competente alteração orçamental, serão transferidas para o IAMA as dotações do orçamento da Secretaria Regional da Economia consignadas ao CRIMA.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 52.º-A — Extinção do matadouro de Ribeira Grande
+
+1 - O matadouro da Ribeira Grande, serviço externo do IAMA, englobado no MSM, é extinto, sendo o seu pessoal colocado no MSM.
+
+2 - As instalações, móveis, utensílios, material de transporte e demais equipamento que a este estão afectos serão transferidos para o MSM, mediante relações de cadastro devidamente discriminadas.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2001/A - Diário da República n.º 208/2001, Série I-B de 2001-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2001-629579), em vigor a partir de 2001-09-08, produz efeitos a partir de 1998-06-24
+
+###### Artigo 53.º — Norma revogatória
+
+1 - Ficam revogados os Decretos Regulamentares Regionais n.os 2/87/A, 32/88/A, 64/88/A e 30/92/A, de 8 de Janeiro, 2 de Agosto, 27 de Outubro e 18 de Julho, respectivamente, sem prejuízo do disposto no número seguinte.
+
+2 - Mantêm-se em vigor as disposições do artigo 3.º do Decreto Regulamentar Regional n.º 30/92/A, de 18 de Julho, até estar completo o processo de transição do pessoal por elas abrangido.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+###### Artigo 54.º — Vigência e produção de efeitos
+
+1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+2 - As transições de pessoal previstas nos n.os 2 a 8 do artigo 51.º produzem efeitos à data da entrada em vigor do presente diploma.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 8 de Setembro de 1992.
+
+O Presidente do Governo Regional, João Bosco Mota Amaral.
+
+Assinado em Angra do Heroísmo em 21 de Outubro de 1992.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+## Anexo S — Mapa I a que se refere o artigo 34.º
+
+(ver documento original)
+
+Mapa II a que se refere o artigo 51.º
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2020-128355821), em vigor a partir de 2020-01-27
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 35/2004/A - Diário da República n.º 214/2004, Série I-B de 2004-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-2004-620359), em vigor a partir de 2004-09-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 10/2001/A - Diário da República n.º 208/2001, Série I-B de 2001-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2001-629579), em vigor a partir de 2001-09-08
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 27/98/A - Diário da República n.º 254/1998, Série I-B de 1998-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1998-223048), em vigor a partir de 1998-11-08, produz efeitos a partir de 1993-04-07
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 9/96/A - Diário da República n.º 48/1996, Série I-B de 1996-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1996-626004), em vigor a partir de 1996-02-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 5/94/A - Diário da República n.º 97/1994, Série I-B de 1994-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1994-265702), em vigor a partir de 1994-05-02, produz efeitos a partir de 1992-11-28
+
+> Retificado pelo/a [Declaração n.º 50/93 - Diário da República n.º 76/1993, Série I-B de 1993-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao/50-1993-682258), em vigor a partir de 1992-11-28

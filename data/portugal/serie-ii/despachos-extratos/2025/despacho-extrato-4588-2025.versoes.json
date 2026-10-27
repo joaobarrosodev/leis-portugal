@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:915072130:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2025-1172818975",
+ "dre_path": "/dr/detalhe/despacho-extrato/4588-2025-915072130",
+ "source_lastmod": "2026-09-24",
+ "versions": [
+  {
+   "date": "2025-04-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1172821075"
+   ]
+  }
+ ],
+ "fragments": {
+  "1172821075": {
+   "fragment_id": "1172819075",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Nos termos do n.º 6 do artigo 46.º da Lei de Organização e Funcionamento dos Serviços da Assembleia da República, republicada pela Lei n.º 28/2003, de 30 de julho, na sua atual redação, por despacho, datado de 18 de março de 2025, do Presidente do Grupo Parlamentar do Partido Social Democrata, deputado Hugo Soares, é nomeada Marisa da Conceição Alves Pereira, para o cargo de assessora, com efeitos a partir de 1 de março de 2025.\n\nA nomeada está autorizada a exercer atividades de docência em instituições de ensino superior, bem como a exercer atividades compreendidas na respetiva especialidade profissional, nos termos das alíneas a) e b) do n.º 3 do artigo 7.º do Decreto-Lei n.º 11/2012, de 20 de janeiro. Fica ainda autorizada a exercer as suas funções em regime de teletrabalho, se assim lhe for determinado e impuserem as necessidades de serviço."
+  }
+ }
+}

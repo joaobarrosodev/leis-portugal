@@ -1,0 +1,296 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:453547:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-67179496",
+ "dre_path": "/dr/detalhe/decreto-lei/175-2008-453547",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-08-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "67171182",
+    "67171183",
+    "67171184",
+    "67171185",
+    "67171186",
+    "67171187",
+    "67171188",
+    "67171189",
+    "67171190",
+    "67171191",
+    "67171192",
+    "67171193",
+    "67171194",
+    "67171195",
+    "67171196",
+    "67171197",
+    "67171198",
+    "67171199",
+    "67171200",
+    "67171201",
+    "67171202",
+    "67171203",
+    "67171204"
+   ]
+  },
+  {
+   "date": "2015-05-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67185042:por",
+     "title": "Decreto-Lei n.º 74/2015",
+     "published": "2015-05-11",
+     "dre_path": "/dr/detalhe/decreto-lei/74-2015-67185042"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Artigo 20.º"
+   ],
+   "fragments": [
+    "67171182",
+    "67171183",
+    "67171184",
+    "67171185",
+    "67171186",
+    "67171187",
+    "67171188",
+    "67171189",
+    "67171190",
+    "67171234",
+    "67171192",
+    "67171193",
+    "67171194",
+    "67171195",
+    "67171196",
+    "67171197",
+    "67171198",
+    "67171199",
+    "67171200",
+    "67171201",
+    "67171235",
+    "67171203",
+    "67171204",
+    "67171205"
+   ]
+  }
+ ],
+ "fragments": {
+  "67171182": {
+   "fragment_id": "67179497",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 175/2008\n\nde 26 de Agosto\n\nA responsabilidade principal pela renovação do tecido empresarial e a criação de novos factores competitivos recai sobre a iniciativa privada e os mecanismos de mercado. No entanto, é hoje reconhecido que o crescimento económico pode ser potenciado por políticas públicas que ajudem o sucesso das empresas em mercados globalizados e com concorrência acrescida.\n\nPara assegurar novas oportunidades de financiamento às PME foi entendido, no âmbito do QREN - Quadro de Referência Estratégico Nacional - aprovado pela Resolução do Conselho de Ministros n.º 86/2007, de 3 de Julho, que a intervenção pública neste domínio deve suportar-se numa estratégia de centralização e coordenação de esforços e de recursos, consubstanciada na criação de um instrumento público privilegiado - o FINOVA - Fundo de Apoio ao Financiamento à Inovação, que intervirá nas diferentes vertentes de apoio ao financiamento de PME, com vista a reforçar a solidez, competitividade e o potencial inovador do tecido empresarial. A opção pela concentração de fundos tem em vista criar um instrumento com massa crítica para ter capacidade de influência nos mercados financeiros em Portugal, para que a envolvente financeira potencie a prossecução de estratégias de nascimento, crescimento, consolidação e internacionalização de empresas.\n\nTendo presente que as políticas públicas enunciadas neste diploma são dinamizadas a partir de um instrumento centralizado, deve garantir-se que a sua gestão seja assegurada por uma entidade que não intervenha directamente nos mercados de capital e de crédito e que disponha de uma experiência reconhecida na gestão de instrumentos públicos para o refinanciamento e partilha de riscos no financiamento da inovação. A PME Investimentos, S. A., sociedade detida maioritariamente por entidades públicas, reunindo estes requisitos e detendo uma larga experiência de gestão de instrumentos de financiamento obtida na gestão de fundos de natureza diversificada, é designada como entidade gestora do FINOVA, observando-se assim as disposições regulamentares comunitárias de utilização de fundos estruturais da União Europeia.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "67171183": {
+   "fragment_id": "67179498",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ criado o FINOVA - Fundo de Apoio ao Financiamento à Inovação, adiante designado por FINOVA, com a natureza de fundo autónomo, vocacionado para a criação ou reforço de instrumentos de financiamento de empresas, em particular, no que se refere às pequenas e médias empresas (PME) e aos projectos com maior grau de inovação."
+  },
+  "67171184": {
+   "fragment_id": "67179499",
+   "type": 11,
+   "heading": "Artigo 2.º — Objectivos e instrumentos de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos e instrumentos de financiamento\n\n1 - O FINOVA promove a competitividade de empresas através da criação ou reforço de instrumentos de financiamento com os seguintes objectivos:\n\na) Estimular a intervenção do capital de risco no apoio às pequenas e médias empresas, privilegiando as fases iniciais do seu ciclo de vida e o investimento em projectos inovadores;\n\nb) Reforçar o sistema de garantia mútua e promover o alargamento da sua intervenção às empresas e projectos que, pelo seu risco e cariz inovador, apresentem maiores dificuldades na obtenção de financiamento bancário;\n\nc) Promover a contratualização, junto do sistema financeiro, de linhas de crédito com vista a facilitar o acesso ao financiamento por parte das PME;\n\nd) Dinamizar a utilização de novos instrumentos, nomeadamente os instrumentos convertíveis de capital e dívida e a titularização de créditos destinados a potenciar o financiamento de pequenos projectos de PME;\n\ne) Apoiar o financiamento da inovação numa perspectiva integrada das componentes de capital e dívida;\n\nf) Incentivar o empreendedorismo, assegurando o capital e as capacidades de gestão requeridas em iniciativas de maior risco;\n\ng) Incrementar o empreendedorismo jovem e o empreendedorismo feminino, enquanto processo de mobilização dos jovens e das mulheres para a vida económica activa, bem como apoiar as iniciativas empresariais particularmente propícias à promoção dos factores de igualdade entre homens e mulheres;\n\nh) Favorecer a implementação de «Estratégias de Eficiência Colectiva» definidas na Agenda da Competitividade do QREN: Pólos de Competitividade e Tecnologia, Outros Clusters - Programas Valorização Económica de Recursos Endógenos (PROVERE) e Acções de Regeneração e Desenvolvimento Urbano;\n\ni) Incentivar a emergência de novos pólos de desenvolvimento de actividades com dinâmicas de crescimento, nomeadamente, as indústrias criativas.\n\n2 - A prossecução dos objectivos do FINOVA concretiza-se através da participação nos seguintes instrumentos de financiamento:\n\na) Instrumentos de financiamento capital próprio:\n\ni) Subscrição de títulos emitidos por fundos de capital de risco, fundos especiais de investimento e outros instrumentos de financiamento a intermediários de capital de risco;\n\nii) Financiamento a investidores para actividades na fase «pré-semente» ou «semente» convertíveis em capital de risco em caso de sucesso;\n\niii) Subscrição de títulos emitidos por fundos de sindicação de capital de risco (FSCR), criados ao abrigo do Decreto-Lei n.º 187/2002, de 21 de Agosto, e com as alterações introduzidas pelo Decreto-Lei n.º 13/2007, de 19 de Janeiro;\n\niv) Subscrição de títulos emitidos por fundos de participação em outros fundos de capital de risco, designadamente os criados e dinamizados pelo Fundo Europeu de Investimentos;\n\nv) Apoio ao alargamento da oferta e disseminação de outros instrumentos de inovação financeira que contribuam para o reforço dos capitais próprios das PME;\n\nb) Instrumentos de financiamento de capital alheio:\n\ni) Reforço do capital do Fundo de Contragarantia Mútuo (FCGM), criado pelo Decreto-Lei n.º 229/98, de 22 de Julho;\n\nii) Constituição ou o reforço do capital social de sociedades de garantia mútua (SGM);\n\niii) Reforço do capital do Fundo de Garantia para Titularização de Créditos (FGTC), criado pelo Decreto-Lei n.º 188/2002, de 21 de Agosto;\n\niv) Constituição ou reforço do capital de veículos de investimento imobiliário, designadamente fundos de investimento imobiliário;\n\nv) Constituição ou reforço de linhas de crédito especiais, nomeadamente, com mecanismos de garantia e de bonificação parcial dos juros e outros encargos;\n\nvi) Participação em mecanismos de prestação de garantias de financiamento;\n\nvii) Participação em instrumentos convertíveis de capital e dívida.\n\nviii) Apoio ao alargamento da oferta e disseminação de outros instrumentos de inovação financeira que contribuam para a melhoria do acesso das PME ao financiamento por capitais alheios.\n\n3 - Em cada um dos instrumentos de financiamento enunciados no número anterior, podem ser inscritas dotações orçamentais especificamente orientadas para os objectivos de políticas públicas identificadas no n.º 1, designadamente na promoção do empreendedorismo feminino e do empreendedorismo jovem, tendo em conta o disposto no n.º 5 do artigo 15.º do Decreto-Lei n.º 287/2007, de 17 de Agosto."
+  },
+  "67171185": {
+   "fragment_id": "67179500",
+   "type": 11,
+   "heading": "Artigo 3.º — Capital do Fundo, subscrição, realização e autonomia do seu património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Capital do Fundo, subscrição, realização e autonomia do seu património\n\n1 - O capital inicial do FINOVA é de 100 milhões de euros, a realizar em numerário, sendo representado por 100 000 unidades de participação.\n\n2 - A subscrição é efectuada por entidades públicas nacionais com vocação para o apoio à modernização e inovação de empresas.\n\n3 - O capital do FINOVA é aumentado ou reduzido, por uma ou mais vezes, por deliberação, por maioria dos seus participantes.\n\n4 - As subscrições são de um mínimo de 1 unidade de participação ao valor unitário de (euro) 1000.\n\n5 - O património do FINOVA é autónomo, não respondendo pelas dívidas da entidade gestora, de outros fundos por esta geridos, dos seus participantes, ou de quaisquer outras entidades."
+  },
+  "67171186": {
+   "fragment_id": "67179501",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição da carteira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Composição da carteira\n\n1 - Podem integrar a carteira do FINOVA os seguintes activos:\n\na) Partes representativas do capital social de empresas, nomeadamente acções e quotas;\n\nb) Obrigações emitidas por sociedades comerciais;\n\nc) Créditos concedidos a sociedades comerciais cuja actividade se insira nos objectivos e acções a apoiar pelo FINOVA;\n\nd) Unidades de participação de fundos de sindicação de capital de risco, de fundos dinamizados pelo Fundo Europeu de Investimento, de fundos de capital de risco, de fundos de investimento imobiliário, de fundos especiais de investimento e de outros fundos que visem a implementação de políticas públicas no domínio da inovação financeira;\n\ne) Partes de capital do Fundo de Contragarantia Mútuo (FCGM);\n\nf) Partes de capital do Fundo de Garantia para Titularização de Créditos (FGTC);\n\ng) Garantias, sob qualquer forma ou modalidade;\n\nh) Contratos de opções inerentes a operações de capital de risco;\n\ni) Títulos de dívida pública;\n\nj) Liquidez, a título acessório.\n\n2 - São abrangidos pelo conceito de liquidez mencionadas na alínea j) do número anterior valores mobiliários cujo prazo de vencimento não exceda os 12 meses, depósitos em instituições de crédito e certificado de depósitos."
+  },
+  "67171187": {
+   "fragment_id": "67179502",
+   "type": 11,
+   "heading": "Artigo 5.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Financiamento\n\nO FINOVA é financiado pelos seguintes meios financeiros:\n\na) Contribuições do Estado Português e da União Europeia, sujeitando-se as operações, neste último caso, às orientações fixadas pelas estruturas de gestão dos respectivos programas operacionais e aos regulamentos nacionais e comunitários que subordinam os capitais colocados no Fundo;\n\nb) Rendimentos provenientes da aplicação dos seus recursos;\n\nc) Quaisquer outros bens, rendimentos ou receitas que lhe sejam atribuídos."
+  },
+  "67171188": {
+   "fragment_id": "67179503",
+   "type": 11,
+   "heading": "Artigo 6.º — Órgãos do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Órgãos do Fundo\n\nSão órgãos do FINOVA:\n\na) O conselho geral;\n\nb) O conselho consultivo;\n\nc) A sociedade gestora."
+  },
+  "67171189": {
+   "fragment_id": "67179504",
+   "type": 11,
+   "heading": "Artigo 7.º — Conselho geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Conselho geral\n\n1 - A estrutura de gestão do FINOVA integra um conselho geral com a seguinte composição:\n\na) Gestor do Programa Operacional Factores de Competitividade, que preside;\n\nb) Um representante de cada uma das entidades públicas participantes;\n\nc) O presidente da sociedade gestora.\n\nd) Representantes de outros PO financiadores.\n\n2 - Os membros do conselho geral exercem os seus mandatos por períodos renováveis de três anos, não auferindo quaisquer remunerações pelo exercício das suas funções.\n\n3 - Após o fim da vigência dos programas operacionais do Quadro de Referência Estratégico Nacional (QREN), o presidente é designado por deliberação do conselho geral.\n\n4 - O conselho geral reúne ordinariamente pelo menos uma vez por trimestre, sem prejuízo de reunir sempre que necessário através de convocação do seu presidente por sua própria iniciativa ou a pedido de qualquer membro.\n\n5 - Compete ao conselho geral:\n\na) Definir a política de investimentos do fundo, pronunciando-se sobre a compatibilidade de todos os investimentos com esta;\n\nb) Deliberar sobre aumentos e reduções do capital do FINOVA;\n\nc) Aprovar, sob proposta da sociedade gestora, os planos financeiros e orçamentos anuais, bem como as contas e relatórios de execução;\n\nd) Deliberar sobre propostas de regulamentos relativos à configuração de instrumentos e à actividade do FINOVA, sob proposta da sociedade gestora;\n\ne) Aprovar operações em que a sociedade gestora intervenha como beneficiária;\n\nf) Decidir sobre as participações do FINOVA superiores a 5 milhões de euros.\n\ng) Designar o revisor oficial de contas.\n\nh) Designar, sob proposta da sociedade gestora, os auditores."
+  },
+  "67171190": {
+   "fragment_id": "67179505",
+   "type": 11,
+   "heading": "Artigo 8.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Conselho consultivo\n\n1 - A gestão do FINOVA é assistida por um conselho consultivo.\n\n2 - Integram o conselho consultivo, para além dos membros do conselho geral, representantes do Ministério das Finanças e da Administração Pública, a designar por este, do Instituto Financeiro para o Desenvolvimento Regional, I. P., da Confederação da Indústria Portuguesa, da Confederação do Comércio e Serviços de Portugal, da Confederação de Turismo Português, da Associação Industrial Portuguesa, da Associação Empresarial de Portugal, da Associação Portuguesa de Bancos, da Associação Nacional de Jovens Empresários, do Instituto Português da Juventude, de associação de empreendedorismo feminino, a designar pela Comissão para a Cidadania e Igualdade de Género (CIG), bem como da sociedade gestora.\n\n3 - A presidência do conselho consultivo é assegurada pelo membro que for designado pelo conselho geral.\n\n4 - Os membros do conselho consultivo não auferem quaisquer remunerações pelo exercício das suas funções.\n\n5 - Compete ao conselho consultivo:\n\na) Analisar e emitir opinião sobre a estratégia de investimento do FINOVA;\n\nb) Analisar e emitir opinião sobre as grandes linhas de orientação em função dos objectivos preconizados, sugerindo novas áreas de actuação a serem cobertas pelo FINOVA;\n\nc) Propor medidas que possam melhorar a adequação do FINOVA aos seus objectivos e políticas prosseguidas.\n\n6 - O conselho consultivo reúne ordinariamente pelo menos uma vez por ano, sem prejuízo de reunir sempre que necessário através de convocação do seu presidente."
+  },
+  "67171191": {
+   "fragment_id": "67179506",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências da sociedade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências da sociedade gestora\n\nCompete à sociedade gestora, na qualidade de representante legal do FINOVA, exercer todos os direitos relacionados com os seus bens e praticar todos os actos e operações necessários ou convenientes à sua boa administração, designadamente:\n\na) Cumprir e executar as deliberações do conselho geral;\n\nb) Elaborar os planos financeiros e orçamentos anuais, bem como as contas e os relatórios de execução;\n\nc) Elaborar propostas com as linhas estratégicas do FINOVA e a distribuição de recursos entre as diversas políticas e instrumentos de financiamento, com vista à sua aprovação pelo conselho geral;\n\nd) Elaborar as propostas de regulamentos que se revelem necessários ao regular funcionamento do FINOVA e que assegurem o cumprimento das regras exigidas pelas políticas públicas que asseguram a origem dos seus capitais, com vista à sua aprovação pelo conselho geral;\n\ne) Outorgar nos contratos em que o FINOVA seja parte;\n\nf) Aprovar as operações que se enquadrem nos objectivos e que não sejam da competência do conselho geral;\n\ng) Preparar a proposta de decisão e fornecer todos os elementos necessários para que o conselho geral se possa pronunciar sobre as operações cuja aprovação seja da competência deste órgão;\n\nh) Adquirir bens para o FINOVA, exercer os respectivos direitos, alienar, ou onerar, os bens que integram o seu património, bem como assegurar o pontual cumprimento das suas obrigações;\n\ni) Definir o plano de aplicação dos recursos de tesouraria disponíveis do FINOVA, de acordo com critérios de elevada diligência e racionalidade;\n\nj) Manter em ordem a documentação e contabilidade do FINOVA de forma a assegurar o registo de todas as operações realizadas e a identificar claramente a sua estrutura patrimonial e de funcionamento;\n\nl) Acompanhar e elaborar relatórios periódicos relativos à evolução da situação económica e financeira das empresas em que o FINOVA detenha aplicações e assegurar o acompanhamento da execução de projectos que tenham sido objecto de apoio;\n\nm) Prestar aos participantes e financiadores todas as informações sobre a execução da estratégia de investimentos, sobre as operações realizadas e a realizar, as empresas participadas, bem como sobre a evolução das contas do FINOVA;\n\nn) Fornecer às autoridades competentes todas as informações obrigatórias ou as que pelas mesmas sejam solicitadas;\n\no) Elaborar os relatórios e contas da actividade do FINOVA;\n\np) Remeter à Inspecção-Geral de Finanças os relatórios e contas da actividade do Fundo até 16 de Fevereiro de cada ano, acompanhadas do relatório do revisor oficial de contas;\n\nq) Submeter ao conselho geral até 15 de Março de cada ano os relatórios e contas da actividade do Fundo acompanhados do parecer da Inspecção-Geral de Finanças e do relatório do revisor oficial de contas;\n\nr) Apresentar aos membros do Governo responsáveis pelas áreas das finanças, da economia, do ambiente, do ordenamento do território e do desenvolvimento regional os relatórios e contas aprovados em conselho geral, no prazo máximo de 30 dias a contar da data da sua aprovação."
+  },
+  "67171192": {
+   "fragment_id": "67179507",
+   "type": 11,
+   "heading": "Artigo 10.º — Designação da sociedade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Designação da sociedade gestora\n\nÉ designada como sociedade gestora do FINOVA a PME Investimentos - Sociedade de Investimento, S. A., na qualidade de instituição financeira detida maioritariamente por capitais públicos com capacidade legal para gerir fundos, que não investe directamente no mercado de capital de risco ou de crédito nem indirectamente através das suas participadas, e com reconhecida experiência na gestão de instrumentos públicos para o refinanciamento e partilha de riscos com o sector financeiro."
+  },
+  "67171193": {
+   "fragment_id": "67179508",
+   "type": 11,
+   "heading": "Artigo 11.º — Remuneração da sociedade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Remuneração da sociedade gestora\n\nA sociedade gestora, pelo exercício das suas funções, cobra uma comissão de gestão a fixar por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças, do ambiente, ordenamento do território e do desenvolvimento regional, da economia e da inovação, sob proposta do conselho geral."
+  },
+  "67171194": {
+   "fragment_id": "67179509",
+   "type": 11,
+   "heading": "Artigo 12.º — Regulamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regulamentos\n\nO conselho geral do FINOVA aprova, sob proposta da sociedade gestora, os regulamentos que se revelem necessários ao seu regular funcionamento."
+  },
+  "67171195": {
+   "fragment_id": "67179510",
+   "type": 11,
+   "heading": "Artigo 13.º — Plano de actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Plano de actividades\n\nA sociedade gestora do FINOVA deve elaborar planos de actividades de periodicidade anual, que incluem os seguintes elementos:\n\na) As empresas/instrumentos visadas(os), bem como os critérios, termos e condições para o seu financiamento;\n\nb) O orçamento operacional;\n\nc) As disposições em matéria de profissionalismo, competência e independência da gestão;\n\nd) A justificação e utilização prevista da contribuição dos programas operacionais;\n\ne) Plano de implementação de acções de divulgação, sensibilização e publicitação das operações financiadas."
+  },
+  "67171196": {
+   "fragment_id": "67179511",
+   "type": 11,
+   "heading": "Artigo 14.º — Revisor oficial de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Revisor oficial de contas\n\n1 - O FINOVA tem as suas contas certificadas por um revisor oficial de contas (ROC), a ser designado pelo conselho geral.\n\n2 - As despesas relativas ao ROC são suportadas pelo Fundo."
+  },
+  "67171197": {
+   "fragment_id": "67179512",
+   "type": 11,
+   "heading": "Artigo 15.º — Sistema de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Sistema de informação\n\nA sociedade gestora do FINOVA deve assegurar a existência de um sistema de informação que permita, a qualquer momento, conhecer todas as aplicações directas e indirectas em empresas e que permita prestar informação aos seus financiadores e participantes, incluindo as aplicações sectoriais e regionais."
+  },
+  "67171198": {
+   "fragment_id": "67179513",
+   "type": 11,
+   "heading": "Artigo 16.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Publicidade\n\nA sociedade gestora do FINOVA deve assegurar mecanismos de publicitação da sua intervenção, que permitam que as empresas apoiadas directa ou indirectamente e o público em geral, conheçam a origem do respectivo financiamento."
+  },
+  "67171199": {
+   "fragment_id": "67179514",
+   "type": 11,
+   "heading": "Artigo 17.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Fiscalização\n\n1 - A fiscalização do FINOVA, para além das funções exercidas pelo revisor oficial de contas, é exercida também pela Inspecção-Geral de Finanças, competindo-lhe velar pelo cumprimento das leis e regulamentos que lhe são aplicáveis e emitir parecer sobre as suas contas anuais.\n\n2 - Como suporte à actividade de fiscalização a sociedade gestora solicita a intervenção de auditores externos no processo de apreciação das contas anuais."
+  },
+  "67171200": {
+   "fragment_id": "67179515",
+   "type": 11,
+   "heading": "Artigo 18.º — Períodos de exercício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Períodos de exercício\n\nO período de exercício do FINOVA corresponde ao ano civil."
+  },
+  "67171201": {
+   "fragment_id": "67179516",
+   "type": 11,
+   "heading": "Artigo 19.º — Plano de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Plano de contas\n\nO plano de contas do FINOVA é organizado de modo a permitir registar todas as operações realizadas e identificar claramente a sua estrutura patrimonial e de funcionamento."
+  },
+  "67171202": {
+   "fragment_id": "67179517",
+   "type": 11,
+   "heading": "Artigo 20.º — Relatório e aprovação de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Relatório e aprovação de contas\n\n1 - A sociedade gestora submete ao conselho geral os relatórios e contas da actividade do FINOVA, acompanhados do parecer da Inspecção-Geral de Finanças e da certificação do revisor oficial de contas.\n\n2 - Os relatórios e contas da actividade do FINOVA são aprovados pelo conselho geral até 31 de Março de cada ano.\n\n3 - A sociedade gestora envia aos dos membros do Governo responsáveis pelas áreas das finanças, do ambiente, ordenamento do território e do desenvolvimento regional, da economia e da inovação os relatórios e contas aprovados em conselho geral, no prazo máximo de 30 dias, a contar da sua aprovação."
+  },
+  "67171203": {
+   "fragment_id": "67179518",
+   "type": 11,
+   "heading": "Artigo 21.º — Aplicação de resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Aplicação de resultados\n\nOs lucros líquidos apurados pelo FINOVA são nele totalmente reinvestidos."
+  },
+  "67171204": {
+   "fragment_id": "67179519",
+   "type": 11,
+   "heading": "Artigo 22.º — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Extinção\n\nEm caso de extinção do FINOVA, o produto da sua liquidação, sem prejuízo da observação dos normativos comunitários, reverte para as instituições participantes para prosseguimento de políticas de financiamento de PME, na proporção das respectivas participações, qualquer que seja a natureza destas."
+  },
+  "67171234": {
+   "fragment_id": "67179506",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências da sociedade gestora",
+   "in_force_from": "2015-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042), em vigor a partir de 2015-05-16"
+   ],
+   "markdown": "###### Artigo 9.º — Competências da sociedade gestora\n\nCompete à sociedade gestora, na qualidade de representante legal do FINOVA, exercer todos os direitos relacionados com os seus bens e praticar todos os actos e operações necessários ou convenientes à sua boa administração, designadamente:\n\na) Cumprir e executar as deliberações do conselho geral;\n\nb) Elaborar os planos financeiros e orçamentos anuais, bem como as contas e os relatórios de execução;\n\nc) Elaborar propostas com as linhas estratégicas do FINOVA e a distribuição de recursos entre as diversas políticas e instrumentos de financiamento, com vista à sua aprovação pelo conselho geral;\n\nd) Elaborar as propostas de regulamentos que se revelem necessários ao regular funcionamento do FINOVA e que assegurem o cumprimento das regras exigidas pelas políticas públicas que asseguram a origem dos seus capitais, com vista à sua aprovação pelo conselho geral;\n\ne) Outorgar nos contratos em que o FINOVA seja parte;\n\nf) Aprovar as operações que se enquadrem nos objectivos e que não sejam da competência do conselho geral;\n\ng) Preparar a proposta de decisão e fornecer todos os elementos necessários para que o conselho geral se possa pronunciar sobre as operações cuja aprovação seja da competência deste órgão;\n\nh) Adquirir bens para o FINOVA, exercer os respectivos direitos, alienar, ou onerar, os bens que integram o seu património, bem como assegurar o pontual cumprimento das suas obrigações;\n\ni) Definir o plano de aplicação dos recursos de tesouraria disponíveis do FINOVA, de acordo com critérios de elevada diligência e racionalidade;\n\nj) Manter em ordem a documentação e contabilidade do FINOVA de forma a assegurar o registo de todas as operações realizadas e a identificar claramente a sua estrutura patrimonial e de funcionamento;\n\nl) Acompanhar e elaborar relatórios periódicos relativos à evolução da situação económica e financeira das empresas em que o FINOVA detenha aplicações e assegurar o acompanhamento da execução de projectos que tenham sido objecto de apoio;\n\nm) Prestar aos participantes e financiadores todas as informações sobre a execução da estratégia de investimentos, sobre as operações realizadas e a realizar, as empresas participadas, bem como sobre a evolução das contas do FINOVA;\n\nn) Fornecer às autoridades competentes todas as informações obrigatórias ou as que pelas mesmas sejam solicitadas;\n\no) Elaborar os relatórios e contas da actividade do FINOVA;\n\np) Remeter à Inspeção-Geral de Finanças os relatórios e contas da atividade do Fundo até 31 de maio de cada ano, acompanhadas do relatório do revisor oficial de contas;\n\nq) Submeter ao conselho geral até 30 de junho de cada ano os relatórios e contas da atividade do Fundo acompanhados do parecer da Inspeção-Geral de Finanças e do relatório do revisor oficial de contas;\n\nr) Apresentar aos membros do Governo responsáveis pelas áreas das finanças, da economia, do ambiente, do ordenamento do território e do desenvolvimento regional os relatórios e contas aprovados em conselho geral, no prazo máximo de 30 dias a contar da data da sua aprovação.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042), em vigor a partir de 2015-05-16"
+  },
+  "67171235": {
+   "fragment_id": "67179517",
+   "type": 11,
+   "heading": "Artigo 20.º — Relatório e aprovação de contas",
+   "in_force_from": "2015-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042), em vigor a partir de 2015-05-16"
+   ],
+   "markdown": "###### Artigo 20.º — Relatório e aprovação de contas\n\n1 - A sociedade gestora submete ao conselho geral os relatórios e contas da actividade do FINOVA, acompanhados do parecer da Inspecção-Geral de Finanças e da certificação do revisor oficial de contas.\n\n2 - Os relatórios e contas da atividade do FINOVA são aprovados pelo conselho geral até 15 de julho de cada ano.\n\n3 - A sociedade gestora envia aos dos membros do Governo responsáveis pelas áreas das finanças, do ambiente, ordenamento do território e do desenvolvimento regional, da economia e da inovação os relatórios e contas aprovados em conselho geral, no prazo máximo de 30 dias, a contar da sua aprovação.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 74/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2015-67185042), em vigor a partir de 2015-05-16"
+  },
+  "67171205": {
+   "fragment_id": "67179520",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de Julho de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho.\n\nPromulgado em 30 de Julho de 2008.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 1 de Agosto de 2008.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

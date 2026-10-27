@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:534670:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2005-920636795",
+ "dre_path": "/dr/detalhe/aviso/201-2005-534670",
+ "source_lastmod": "2025-06-20",
+ "versions": [
+  {
+   "date": "2005-05-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "920636882"
+   ]
+  }
+ ],
+ "fragments": {
+  "920636882": {
+   "fragment_id": "920636796",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aviso n.º 201/2005\n\nPor ordem superior se torna público que o Comité Administrativo do Acordo Relativo à Adopção de Condições Uniformes da Homologação e de Reconhecimento Recíproco de Homologação dos Equipamentos e Peças de Veículos a Motor, assinado em Genebra em 20 de Março de 1958,comunicou ao Secretariado das Nações Unidas o ponto de situação do Acordo e seus Regulamentos à data de 16 de Junho de 2004.\n\nPortugal é Parte do mesmo Regulamento, aprovado pelo Decreto n.º 10/2002, de 4 de Abril, publicado no Diário da República, 1.ª série-A, n.º 79, de 4 de Abril de 2002.\n\n."
+  }
+ }
+}

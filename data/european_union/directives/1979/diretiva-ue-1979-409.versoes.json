@@ -1,0 +1,1210 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31979L0409:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01979L0409-20100215",
+ "dre_path": null,
+ "source_lastmod": "2010-02-15",
+ "versions": [
+  {
+   "date": "1979-04-25",
+   "future": false,
+   "celex": "31979L0409",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "bac1f75e7d8ca408",
+    "5009fce6910a55fe",
+    "f54d3e6778ad9629",
+    "b068f21667122fd5",
+    "6cabb5fb6b26a275",
+    "df974071982bcd9f",
+    "0cc5db33f494cdb3",
+    "73be187946f148d4",
+    "7ca91be69f62ed81",
+    "0a96d3e77f153721",
+    "2e0700668b072101",
+    "581e30ef528f4448",
+    "70a415f6e445dfe5",
+    "dad0e409c10d7eb7",
+    "93ed6ddb6e72d4a5",
+    "21cc64db9b8c539a",
+    "468fbf0bea15e21a",
+    "3e56025a936d91a0",
+    "c3500fa7d464632c",
+    "7d268e5c9b8c7021",
+    "54678d5c4830b44f",
+    "5efbc834622c695c",
+    "fd60b1d0d7c31282",
+    "33ab349d21b7c7d3",
+    "4ad3cb12aeaa242c",
+    "c6e5cc01581a587e",
+    "e47ef93d5f35dbe2",
+    "e3349401f0eb1137"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01979L0409-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:31981L0854:por",
+     "title": "M1",
+     "published": null,
+     "celex": "31981L0854"
+    },
+    {
+     "id": "eu:celex:31985L0411:por",
+     "title": "M2",
+     "published": null,
+     "celex": "31985L0411"
+    },
+    {
+     "id": "eu:celex:31986L0122:por",
+     "title": "M3",
+     "published": null,
+     "celex": "31986L0122"
+    },
+    {
+     "id": "eu:celex:31991L0244:por",
+     "title": "M4",
+     "published": null,
+     "celex": "31991L0244"
+    },
+    {
+     "id": "eu:celex:31994L0024:por",
+     "title": "M5",
+     "published": null,
+     "celex": "31994L0024"
+    },
+    {
+     "id": "eu:celex:31997L0049:por",
+     "title": "M6",
+     "published": null,
+     "celex": "31997L0049"
+    },
+    {
+     "id": "eu:celex:32003R0807:por",
+     "title": "REGULAMENTO (CE) N. o 807/2003 DO CONSELHO de 14 de Abril de 2003",
+     "published": null,
+     "celex": "32003R0807"
+    },
+    {
+     "id": "eu:celex:32006L0105:por",
+     "title": "DIRECTIVA 2006/105/CE DO CONSELHO de 20 de Novembro de 2006",
+     "published": null,
+     "celex": "32006L0105"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Grécia",
+     "published": null,
+     "celex": "11979H"
+    },
+    {
+     "id": null,
+     "title": "A2",
+     "published": null,
+     "celex": "11985I"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO V",
+    "Adita Artigo 1º",
+    "Adita Artigo 2º",
+    "Adita Artigo 3º",
+    "Adita Artigo 4º",
+    "Adita Artigo 5º",
+    "Adita Artigo 6º",
+    "Adita Artigo 7º",
+    "Adita Artigo 8º",
+    "Adita Artigo 9º",
+    "Adita Artigo 10º",
+    "Adita Artigo 11º",
+    "Adita Artigo 12º",
+    "Adita Artigo 13º",
+    "Adita Artigo 14º",
+    "Adita Artigo 15º",
+    "Adita Artigo 16º",
+    "Adita Artigo 17.º",
+    "Adita Artigo 18º",
+    "Adita Artigo 19º",
+    "Adita ПРИЛОЖЕНИЕ I — ANEXO I — PŘÍLOHA I — BILAG I — ANHANG I — I LISA — ΠΑΡΑΡΤΗΜΑ I — ANNEX I — ANNEXE I — ALLEGATO I — I PIELIKUMS — I PRIEDAS — I. MELLÉKLET — ANNESS I — BIJLAGE I — ZAŁĄCZNIK I — ANEXO I — ANEXA I — PRÍLOHA I — PRILOGA I — LITTLE I — BILAGA I",
+    "Adita a)",
+    "Adita GAVIIFORMES",
+    "Adita PODICIPEDIFORMES",
+    "Adita PROCELLARIIFORMES",
+    "Adita PELECANIFORMES",
+    "Adita CICONIIFORMES",
+    "Adita PHOENICOPTERIFORMES",
+    "Adita ANSERIFORMES",
+    "Adita FALCONIFORMES",
+    "Adita GALLIFORMES",
+    "Adita GRUIFORMES",
+    "Adita CHARADRIIFORMES",
+    "Adita PTEROCLIFORMES",
+    "Adita COLUMBIFORMES",
+    "Adita STRIGIFORMES",
+    "Adita CAPRIMULGIFORMES",
+    "Adita APODIFORMES",
+    "Adita CORACIIFORMES",
+    "Adita PICIFORMES",
+    "Adita PASSERIFORMES",
+    "Adita ПРИЛОЖЕНИЕ II/1 — ANEXO II/1 — PŘÍLOHA II/1 — BILAG II/1 — ANHANG II/1 — II/1 LISA — ΠΑΡΑΡΤΗΜΑ II/1 — ANNEX II/1 — ANNEXE II/1 — ALLEGATO II/1 — II/1. PIELIKUMS — II/1 PRIEDAS — II/1. MELLÉKLET — ANNESS II/1 — BIJLAGE II/1 — ZAŁĄCZNIK II/1 — ANEXO II/1 — ANEXA II/1 — PRÍLOHA II/1 — PRILOGA II/1 — LITTLE II/1 — BILAGA II/1",
+    "Adita ПРИЛОЖЕНИЕ II/2 — ANEXO II/2 — PŘÍLOHA II/2 — BILAG II/2 — ANHANG II/2 — II/2 LISA — ΠΑΡΑΡΤΗΜΑ II/2 — ANNEX II/2 — ANNEXE II/2 — ALLEGATO II/2 — II/2. PIELIKUMS — II/2 PRIEDAS — II/2. MELLÉKLET — ANNESS II/2 — BIJLAGE II/2 — ZAŁĄCZNIK II/2 — ANEXO II/2 — ANEXA II/2 — PRÍLOHA II/2 — PRILOGA II/2 — LITTLE II/2 — BILAGA II/2",
+    "Adita ПРИЛОЖЕНИЕ III/1 — ANEXO III/1 — PŘÍLOHA III/1 — BILAG III/1 — ANHANG III/1 — III/1 LISA — ΠΑΡΑΡΤΗΜΑ III/1 — ANNEX III/1 — ANNEXE III/1 — ALLEGATO III/1 — III/1. PIELIKUMS — III/1 PRIEDAS — III/1. MELLÉKLET — ANNESS III/1 — BIJLAGE III/1 — ZAŁĄCZNIK III/1 — ANEXO III/1 — ANEXA III /1 — PRÍLOHA III/1 — PRILOGA III/1 — LITTLE III/1 — BILAGA III/1",
+    "Adita ПРИЛОЖЕНИЕ III/2 — ANEXO III/2 — PŘÍLOHA III/2 — BILAG III/2 — ANHANG III/2 — III/2 LISA — ΠΑΡΑΡΤΗΜΑ III/2 — ANNEX III/2 — ANNEXE III/2 — ALLEGATO III/2III/2. PIELIKUMS — III/2 PRIEDAS — III/2. MELLÉKLET — ANNESS III/2 — BIJLAGE III/2 — ZAŁĄCZNIK III/2 — ANEXO III/2 — ANEXA III/2 — PRÍLOHA III/2 — PRILOGA III/2 — LITTLE III/2 — BILAGA III/2",
+    "Adita ANEXO IV",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime Artigo 19o",
+    "Suprime ANEXO I - ANNEX I - ANNEXE I - ALLEGATO I - BIJLAGE I",
+    "Suprime ANEXO II/1 - ANNEX II/1 - ANNEXE II/1 - ALLEGATO II/1 - BIJLAGE II/1",
+    "Suprime ANEXO II/2 - ANNEX II/2 - ANNEXE II/2 - ALLEGATO II/2 - BIJLAGE II/2",
+    "Suprime ANEXO III/1 - ANNEX III/1 - ANNEXE III/1 - ALLEGATO III/1 - BIJLAGE III/1",
+    "Suprime ANEXO III/2 - ANNEX III/2 - ANNEXE III/2 - ALLEGATO III/2 - BIJLAGE III/2",
+    "Suprime ANEXO III/3 - ANNEX III/3 - ANNEXE III/3 - ALLEGATO III/3 - BIJLAGE III/3",
+    "Suprime ANEXO IV — a) - Laços, substâncias viscosas, anzóis, aves vivas utilizadas como chamarizes cegos ou mutilados, gravadores, aparelhos electrocutantes,"
+   ],
+   "fragments": [
+    "41b4fe699392d259",
+    "03d8d51ca33a8620",
+    "82d4141832afc63e",
+    "97f1949289b1f19b",
+    "7e97176e47893d9c",
+    "76ff3e26ded8baf7",
+    "d62f07ae4976c9a9",
+    "a59628fbe7f40b64",
+    "80dbd6fec52e7f74",
+    "bf1142b57d77ac00",
+    "a9b837f0d7339bbe",
+    "464a65b3b49f57aa",
+    "13415df1e5d3f050",
+    "6196af904c5ec6ca",
+    "101a84acc1657a1d",
+    "54c9a83a3a6ba234",
+    "dbc4ca21870d6010",
+    "48dcbc09ca16fa4d",
+    "3384f8a3a3dd0b1f",
+    "8565c0eae51b7014",
+    "c39c3c300b218cae",
+    "9ffb4fa4653db248",
+    "9db10d764687186f",
+    "7a3c257bbbaf91b2",
+    "3bec66bf77bc31f2",
+    "e3ee1423615cf760",
+    "b498c7c1c9cdf355",
+    "9c719cd4dbf0e9d6",
+    "da18cb6f5273b25d",
+    "bb16263ac4cfb14b",
+    "2e7e563dcb7b9243",
+    "eb832b30226e9eae",
+    "838e91cee2f7c538",
+    "6b979c400c450d72",
+    "85cf27d0e020fcf8",
+    "f5b3b9abbc164ec4",
+    "e9107ea3a6fa25f8",
+    "8d6725393baf8444",
+    "4ba673ac7358583e",
+    "29509143652ac764",
+    "13d36c3dfdf1b6ed",
+    "b9ba2367b708745d",
+    "4ed39ebd51172d76",
+    "61acf5cb67f77fe2",
+    "e562d12dfd723be8",
+    "2fc2fa6238913ab8",
+    "962748e30db53fdd",
+    "8920b1015ae9a3d7",
+    "eb53e098e761ceb2",
+    "6068647d2adb6867",
+    "3647fbdd9fd8b37d",
+    "0d2351b6bfee905b",
+    "46a9c332f0ac957e",
+    "a49d987b74d21d25",
+    "1db4e69d42a07ee3",
+    "4b5163d1ba11d5a8",
+    "38dcd3b5b3ad6421",
+    "bd0f94f6de6a5195",
+    "8e758db480aeda5d",
+    "3d3a60967e4afca3",
+    "80bf5fc76b6c3531",
+    "2e3f6dc28c949b2e",
+    "84c70982c1f8a444",
+    "bc0bd8c07775ca28",
+    "b05c01c1896178fb",
+    "026c877ecd32701c"
+   ]
+  },
+  {
+   "date": "2008-12-23",
+   "future": false,
+   "celex": "01979L0409-20081223",
+   "acts": [
+    {
+     "id": "eu:celex:32008L0102:por",
+     "title": "DIRECTIVA 2008/102/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de Novembro de 2008",
+     "published": null,
+     "celex": "32008L0102"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 17.º",
+    "Altera Notas",
+    "Adita Artigo 15.º",
+    "Suprime Artigo 15º"
+   ],
+   "fragments": [
+    "c6d95389c4a7edfa",
+    "03d8d51ca33a8620",
+    "82d4141832afc63e",
+    "97f1949289b1f19b",
+    "7e97176e47893d9c",
+    "76ff3e26ded8baf7",
+    "d62f07ae4976c9a9",
+    "a59628fbe7f40b64",
+    "80dbd6fec52e7f74",
+    "bf1142b57d77ac00",
+    "a9b837f0d7339bbe",
+    "464a65b3b49f57aa",
+    "13415df1e5d3f050",
+    "6196af904c5ec6ca",
+    "101a84acc1657a1d",
+    "627f350a78b53e3a",
+    "dbc4ca21870d6010",
+    "e646c45f7137598c",
+    "3384f8a3a3dd0b1f",
+    "8565c0eae51b7014",
+    "c39c3c300b218cae",
+    "9ffb4fa4653db248",
+    "9db10d764687186f",
+    "7a3c257bbbaf91b2",
+    "3bec66bf77bc31f2",
+    "e3ee1423615cf760",
+    "b498c7c1c9cdf355",
+    "9c719cd4dbf0e9d6",
+    "da18cb6f5273b25d",
+    "bb16263ac4cfb14b",
+    "2e7e563dcb7b9243",
+    "eb832b30226e9eae",
+    "838e91cee2f7c538",
+    "6b979c400c450d72",
+    "85cf27d0e020fcf8",
+    "f5b3b9abbc164ec4",
+    "e9107ea3a6fa25f8",
+    "8d6725393baf8444",
+    "4ba673ac7358583e",
+    "29509143652ac764",
+    "13d36c3dfdf1b6ed",
+    "b9ba2367b708745d",
+    "4ed39ebd51172d76",
+    "61acf5cb67f77fe2",
+    "e562d12dfd723be8",
+    "2fc2fa6238913ab8",
+    "962748e30db53fdd",
+    "8920b1015ae9a3d7",
+    "eb53e098e761ceb2",
+    "6068647d2adb6867",
+    "3647fbdd9fd8b37d",
+    "0d2351b6bfee905b",
+    "46a9c332f0ac957e",
+    "a49d987b74d21d25",
+    "1db4e69d42a07ee3",
+    "4b5163d1ba11d5a8",
+    "38dcd3b5b3ad6421",
+    "bd0f94f6de6a5195",
+    "8e758db480aeda5d",
+    "3d3a60967e4afca3",
+    "80bf5fc76b6c3531",
+    "2e3f6dc28c949b2e",
+    "84c70982c1f8a444",
+    "bc0bd8c07775ca28",
+    "b05c01c1896178fb",
+    "9c919dc485e97ace"
+   ]
+  },
+  {
+   "date": "2010-02-15",
+   "future": false,
+   "celex": "01979L0409-20100215",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18º",
+    "Suprime Artigo 19º",
+    "Suprime ПРИЛОЖЕНИЕ I — ANEXO I — PŘÍLOHA I — BILAG I — ANHANG I — I LISA — ΠΑΡΑΡΤΗΜΑ I — ANNEX I — ANNEXE I — ALLEGATO I — I PIELIKUMS — I PRIEDAS — I. MELLÉKLET — ANNESS I — BIJLAGE I — ZAŁĄCZNIK I — ANEXO I — ANEXA I — PRÍLOHA I — PRILOGA I — LITTLE I — BILAGA I",
+    "Suprime a)",
+    "Suprime GAVIIFORMES",
+    "Suprime PODICIPEDIFORMES",
+    "Suprime PROCELLARIIFORMES",
+    "Suprime PELECANIFORMES",
+    "Suprime CICONIIFORMES",
+    "Suprime PHOENICOPTERIFORMES",
+    "Suprime ANSERIFORMES",
+    "Suprime FALCONIFORMES",
+    "Suprime GALLIFORMES",
+    "Suprime GRUIFORMES",
+    "Suprime CHARADRIIFORMES",
+    "Suprime PTEROCLIFORMES",
+    "Suprime COLUMBIFORMES",
+    "Suprime STRIGIFORMES",
+    "Suprime CAPRIMULGIFORMES",
+    "Suprime APODIFORMES",
+    "Suprime CORACIIFORMES",
+    "Suprime PICIFORMES",
+    "Suprime PASSERIFORMES",
+    "Suprime ПРИЛОЖЕНИЕ II/1 — ANEXO II/1 — PŘÍLOHA II/1 — BILAG II/1 — ANHANG II/1 — II/1 LISA — ΠΑΡΑΡΤΗΜΑ II/1 — ANNEX II/1 — ANNEXE II/1 — ALLEGATO II/1 — II/1. PIELIKUMS — II/1 PRIEDAS — II/1. MELLÉKLET — ANNESS II/1 — BIJLAGE II/1 — ZAŁĄCZNIK II/1 — ANEXO II/1 — ANEXA II/1 — PRÍLOHA II/1 — PRILOGA II/1 — LITTLE II/1 — BILAGA II/1",
+    "Suprime ПРИЛОЖЕНИЕ II/2 — ANEXO II/2 — PŘÍLOHA II/2 — BILAG II/2 — ANHANG II/2 — II/2 LISA — ΠΑΡΑΡΤΗΜΑ II/2 — ANNEX II/2 — ANNEXE II/2 — ALLEGATO II/2 — II/2. PIELIKUMS — II/2 PRIEDAS — II/2. MELLÉKLET — ANNESS II/2 — BIJLAGE II/2 — ZAŁĄCZNIK II/2 — ANEXO II/2 — ANEXA II/2 — PRÍLOHA II/2 — PRILOGA II/2 — LITTLE II/2 — BILAGA II/2",
+    "Suprime ПРИЛОЖЕНИЕ III/1 — ANEXO III/1 — PŘÍLOHA III/1 — BILAG III/1 — ANHANG III/1 — III/1 LISA — ΠΑΡΑΡΤΗΜΑ III/1 — ANNEX III/1 — ANNEXE III/1 — ALLEGATO III/1 — III/1. PIELIKUMS — III/1 PRIEDAS — III/1. MELLÉKLET — ANNESS III/1 — BIJLAGE III/1 — ZAŁĄCZNIK III/1 — ANEXO III/1 — ANEXA III /1 — PRÍLOHA III/1 — PRILOGA III/1 — LITTLE III/1 — BILAGA III/1",
+    "Suprime ПРИЛОЖЕНИЕ III/2 — ANEXO III/2 — PŘÍLOHA III/2 — BILAG III/2 — ANHANG III/2 — III/2 LISA — ΠΑΡΑΡΤΗΜΑ III/2 — ANNEX III/2 — ANNEXE III/2 — ALLEGATO III/2III/2. PIELIKUMS — III/2 PRIEDAS — III/2. MELLÉKLET — ANNESS III/2 — BIJLAGE III/2 — ZAŁĄCZNIK III/2 — ANEXO III/2 — ANEXA III/2 — PRÍLOHA III/2 — PRILOGA III/2 — LITTLE III/2 — BILAGA III/2",
+    "Suprime ANEXO IV",
+    "Suprime ANEXO V",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "8d82e609f392235b"
+   ]
+  }
+ ],
+ "fragments": {
+  "bac1f75e7d8ca408": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 79/409/CEE do Conselho, de 2 de Abril de 1979, relativa à conservação das aves selvagens** *Jornal Oficial nº L 103 de 25/04/1979 p. 0001 - 0018 Edição especial grega: Capítulo 15 Fascículo 1 p. 0202 Edição especial espanhola: Capítulo 15 Fascículo 2 p. 0125 Edição especial portuguesa: Capítulo 15 Fascículo 2 p. 0125 Edição especial finlandesa: Capítulo 15 Fascículo 2 p. 0161 Edição especial sueca: Capítulo 15 Fascículo 2 p. 0161*\n\nDIRECTIVA DO CONSELHO de 2 de Abril de 1979 relativa à conservação das aves selvagens\n\n(79/409/CEE)\n\nO Conselho das Comunidades Europeias,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 235o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a Declaração do Conselho, de 22 de Novembro de 1973, relativa a um programa de acção das Comunidades Europeias em matéria de ambiente (4), prevê acções específicas destinadas a garantir a protecção das aves, completadas pela Resolução do Conselho das Comunidades Europeias e dos representantes dos governos dos Estados-membros, reunidos no Conselho, de 17 de Maio de 1977, respeitante à prossecução e à realização de uma política e de um programa de acção das Comunidades Europeias em matéria de ambiente (5);\n\nConsiderando que, no território europeu dos Estados-membros, um grande número de espécies de aves que vivem naturalmente no estado selvagem sofre uma regressão populacional muito rápida em alguns casos, e que essa regressão constitui um risco sério para a conservação do meio natural, nomeadamente devido às ameaças que faz pesar sobre os equilíbrios biológicos;\n\nConsiderando que as espécies de aves que vivem naturalmente no estado selvagem no território europeu dos Estados-membros são em grande parte espécies migratórias; que tais espécies constituem um património comum e que a protecção eficaz das aves representa um problema de ambiente tipicamente transfronteiro, implicando responsabilidades comuns;\n\nConsiderando que as condições de vida das aves na Gronelândia diferem fundamentalmente das que se deparam às aves nas outras regiões do território europeu dos Estados-membros devido a circunstâncias gerais e, nomeadamente, ao clima, à fraca densidade populacional, bem como à extensão e à situação geográfica excepcionais desta ilha;\n\nConsiderando que, desde logo, a presente directiva não se deve aplicar à Gronelândia;\n\nConsiderando que a conservação das espécies de aves que vivem naturalmente no estado selvagem no território europeu dos Estados-membros é necessária à realização, no âmbito de funcionamento do Mercado Comum, dos objectivos da Comunidade nos domínios da melhoria das condições de vida, de um desenvolvimento harmonioso das actividades económicas no conjunto da Comunidade e de uma expansão contínua e equilibrada, mas que os poderes de acção específicos necessários nesta matéria não foram previstos no Tratado;\n\nConsiderando que as medidas a tomar se devem aplicar aos diferentes factores que podem agir sobre o nível populacional das aves, a saber, as repercursões das actividades humanas e, nomeadamente, a destruição e a poluição dos seus habitats, a captura e a destruição pelo homem assim como o comércio a que estas práticas dão origem e que se torna necessário adaptar o grau destas medidas à situação das diferentes espécies no âmbito de uma politica de conservação;\n\nConsiderando que a conservação tem por objectivo a protecção a longo prazo e a gestão dos recursos naturais enquanto parte integrante do património dos povos europeus; que ela permite a regulação desses recursos e regularmente a sua exploração na base de medidas necessárias à manutenção e à adaptação dos equilibrios naturais das espécies dentro dos limites do possível e razoável;\n\nConsiderando que a preservação, a manutenção ou o restabelecimento de uma diversidade e de uma extensão suficientes de habitats são indispensáveis para a conservação de todas as espécies de aves; que certas espécies de aves devem ser alvo de medidas de conservação especial relativas ao seu habitat, de modo a garantir a sua sobrevivência e a sua reprodução na sua área de distribuição; que essas medidas devem igualmente ter em conta as espécies migratórias a ser coordenadas com vista à constituição de uma rede coerente;\n\nConsiderando que, para evitar que os interesses comerciais possam vir a exercer uma eventual influência nociva sobre os níveis de exploração, é necessário instaurar uma proibição geral de comercialização e limitar quaisquer derrogações apenas às espécies cujo estatuto biológico assim o permita, tendo em conta as condições específicas que prevalecem nas diferentes regiões;\n\nConsiderando que, devido ao seu nível populacional, à sua distribuição geográfica e à sua taxa de reprodução no conjunto da Comunidade certas espécies podem ser objecto de actos de caça, o que constitui uma exploração admissível, devendo esses actos de caça ser compatíveis com a manutenção da população dessas espécies a um nível satisfatório;\n\nConsiderando que os meios, instalações ou métodos de captura ou de abate em grande escala ou não-selectivos, bem como a perseguição a partir de certos meios de transporte devem ser proibidas devido à pressão excessiva que exercem ou podem exercer sobre o nível populacional das espécies em causa;\n\nConsiderando que, devido à importância que podem assumir certas situações específicas, é conveniente prever uma possibilidade de derrogação, sob certas condições, associada a vigilância por parte da Comissão;\n\nConsiderando que a conservação das aves, e em particular a conservação das aves migratórias, coloca ainda problemas que devem ser alvo de estudos científicos e que esses estudos permitirão ainda avaliar a eficácia das medidas tomadas;\n\nConsiderando que se deve velar, em consulta com a Comissão, para que a introdução eventual de espécies de aves que não vivem naturalmente no estado selvagem no território europeu dos Estados-membros não acarrete nenhum prejuízo para a flora e a fauna locais;\n\nConsiderando que a Comissão preparará e comunicará aos Estados-membros, de três em três anos, um relatório de síntese baseado nas informações que os Estados-membros lhe enviarem sobre a aplicação das disposições nacionais tomadas por força da presente directiva;\n\nConsiderando que o progresso técnico e científico requer uma adaptação rápida de certos anexos; que é conveniente, para facilitar a execução das medidas necessárias para este efeito, prever um processo que introduza uma cooperação estreita entre os Estados-membros e a Comissão, no âmbito de um comité para a adaptação ao progresso técnico e científico,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "5009fce6910a55fe": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A presente directiva diz respeito à conservação de todas as espécies de aves que vivem naturalmente no estado selvagem no território europeu dos Estados-membros ao qual é aplicável o Tratado. Tem por objectivo a protecção, a gestão e o controle dessas espécies e regulamenta a sua exploração.\n\n2. A presente directiva aplica-se às aves, aos seus ovos, aos seus ninhos e aos seus habitats.\n\n3. A presente directiva não se aplica à Gronelândia."
+  },
+  "f54d3e6778ad9629": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nOs Estados-membros tomarão todas as medidas necessárias para manter ou adaptar a população de todas as espécies de aves referidas no artigo 1o a um nível que corresponda nomeadamente às exigências ecológicas, científicas e culturais, tendo em conta as experiências económicas e de recreio."
+  },
+  "b068f21667122fd5": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Tendo em conta as exigências mencionadas no artigo 2o, os Estados-membros tomarão todas as medidas necessárias para preservar, manter ou restabelecer uma diversidade e uma extensão suficientes de habitats para todas as espécies de aves referidas no artigo 1o.\n\n2. A preservação, a manutenção e o restabelecimento dos biótopos e dos habitats comportam em primeiro lugar as seguintes medidas:\n\na) Criação de zonas de protecção;\n\nb) Manutenção e adaptação ajustadas aos imperativos ecológicos dos habitats situados no interior e no exterior das zonas de protecção;\n\nc) Reabilitação dos biótopos destruídos;\n\nd) Criação de biótopos."
+  },
+  "6cabb5fb6b26a275": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. As espécies mencionadas no Anexo I são objecto de medidas de conservação especial respeitantes ao seu habitat, de modo a garantir a sua sobrevivência e a sua reprodução na sua área de distribuição.\n\nPara o efeito, tomar-se-ao em consideração:\n\na) As espécies ameaçadas de extinção;\n\nb) As espécies vulneráveis a certas modificações dos seus habitats;\n\nc) As espécies consideradas raras, porque as suas populações são reduzidas ou porque a sua repartição local é restrita;\n\nd) Outras espécies necessitando de atenção especial devido à especificidade do seu habitat.\n\nTer-se-á em conta, para proceder às avaliações, quais as tendências e as variações dos níveis populacionais.\n\nOs Estados-membros classificarão, nomeadamente, em zonas de protecção especial os territórios mais apropriados, em número e em extensão, para a conservação destas últimas na zona geográfica marítima e terrestre de aplicação da presente directiva.\n\n2. Os Estados-membros tomarão medidas semelhantes para as espécies migratórias não referidas no Anexo I e cuja ocorrência seja regular, tendo em conta as necessidades de protecção na zona geográfica marítima e terrestre de aplicação da presente directiva no que diz respeito às suas áreas de reprodução, de muda e de invernada e às zonas de repouso e alimentação nos seus percursos de migração. Com esta finalidade, os Estados-membros atribuem uma importância especial à protecção das zonas húmidas e muito particularmente às de importância interânacional.\n\n3. Os Estados-membros enviarão à Comissão todas as informações úteis de modo a que ela possa tomar as iniciativas convenientes tendo em vista a coordenação necessária para que as zonas referidas no no 1, por um lado, e no no 2, por outro, constituam uma rede coerente respondendo às necessidades de protecção das espécies na zona geográfica marítima e terrestre de aplicação da presente directiva.\n\n4. Os Estados-membros tomarão as medidas adequadas para evitar, nas zonas de protecção referidas nos nos 1 e 2, a poluição ou a deterioração dos habitats bem como as perturbações que afectam as aves, desde que tenham um efeito significativo a propósito dos objectivos do presente artigo. Para além destas zonas de protecção, os Estados-membros esforçam-se igualmente por evitar a poluição ou a deterioração dos habitats."
+  },
+  "df974071982bcd9f": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nSem prejuízo dos artigos 7o e 9o, os Estados-membros tomarão as medidas necessárias à instauração de um regime geral de protecção de todas as espécies de aves referidas no artigo 1o e que inclua nomeadamente a proibição:\n\na) De as matar ou de as capturar intencionalmente, qualquer que seja o método utilizado;\n\nb) De destruir ou de danificar intencionalmente os seus ninhos e os seus ovos ou de colher os seus ninhos;\n\nc) De recolher os seus ovos na natureza e de os deter, mesmo vazios;\n\nd) De as perturbar intencionalmente, nomeadamente durante o período de reprodução e de dependência, desde que essa perturbação tenha um efeito significativo relativamente aos objectivos da presente directiva;\n\ne) De deter as aves das espécies cuja caça e cuja captura não sejam permitidas."
+  },
+  "0cc5db33f494cdb3": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Sem prejuízo dos nos 2 e 3, os Estados-membros proíbem, para todas as espécies de aves referidas no artigo 1o, a venda, o transporte para venda, a detenção para venda e ainda o acto de pôr à venda as aves vivas, ou aves mortas, bem como qualquer parte ou qualquer produto obtido a partir da ave, facilmente identificáveis.\n\n2. Para as espécies referidas no Anexo III/1, as actividades referidas no no 1 não serão proibidas, desde que as aves tenham sido legalmente mortas ou capturadas ou legalmente adquiridas de outro modo.\n\n3. Os Estados-membros podem autorizar no seu território, para as espécies mencionadas no Anexo III/2, as actividades referidas no no 1 e para esse efeito prever limitações, desde que as aves tenham sido legalmente mortas ou capturadas ou legalmente adquiridas de outro modo.\n\nOs Estados-membros que desejem conceder uma tal autorização consultam previamente a Comissão, com a qual examinarão se a comercialização de espécimes da espécie em causa não conduz ou não oferece risco de conduzir, segundo todas as previsões razoáveis, a colocar em perigo o nível populacional, a distribuição geográfica ou a taxa de reprodução desta no conjunto da Comunidade.\n\nSe desse exame se conclui que, na opinião da Comissão, a autorização pretendida conduz ou pode conduzir a um dos perigos acima enumerados, a Comissão dirige ao Estado-membro uma recomendação devidamente fundamentada desaprovando a comercialização da espécie em questão. Se a Comissão considera que tal perigo não existe, comunica-lo-á ao Estado-membro.\n\nA recomendação da Comissão é publicada no Jornal Oficial das Comunidades Europeias.\n\nO Estado-membro que conceder uma autorização por força do presente número verificará, com intervalos regulares, se as condições requeridas para concessão dessa autorização ainda se encontram preenchidas.\n\n4. Em relação às espécies inscritas no Anexo II/3, a Comissão procede a estudos sobre o seu estatuto biológico e as repercussões da comercialização sobre o referido estatuto.\n\nA Comissão submeterá o mais tardar quatro meses antes do termo do prazo referido no no 1 do artigo 18o, um relatório e as suas propostas ao Comité referido no artigo 16o, tendo em vista uma decisão sobre a inscrição dessas espécies no Anexo II/2.\n\nEnquanto aguardam essa decisão, os Estados-membros podem aplicar a essas espécies as regulamentações nacionais existentes, sem prejuízo do no 3."
+  },
+  "73be187946f148d4": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Com base no seu nível populacional, na sua distribuição geográfica e na sua taxa de reprodução no conjunto da Comunidade, as espécies enumeradas no Anexo II podem ser objecto de actos de caça no âmbito da legislação nacional. Os Estados-membros velarão para que a caça a essas espécies não comprometa os esforços de conservação empreendidos na sua área de distribuição.\n\n2. As espécies enumeradas no Anexo II/1 podem ser caçadas na zona geográfica marítima e terrestre de aplicação da presente directiva.\n\n3. As espécies enumeradas no Anexo II/2 podem ser caçadas apenas nos Estados-membros para os quais são mencionadas.\n\n4. Os Estados-membros certificam-se de que a prática da caça, incluindo quando necessário a falcoaria, tal como decorre da aplicação das medidas nacionais em vigor, respeita os princípios de uma utilização razoável e de uma regulamentação equilibrada do ponto de vista ecológico das espécies de aves a que diz respeito, e que esta prática seja compatível, no que diz respeito à população destas espécies, nomeadamente das espécies migradoras, com as disposições decorrentes do artigo 2o. Velarão particularmente para que as espécies à quais se aplica a legislação da caça não sejam caçadas durante o período nidícola nem durante os diferentes estádios de reprodução e de dependência. Quando se trate de espécies migradoras, velarão particularmente para que as espécies migradoras, velarão particularmente para que as espécies às quais se aplica a legislação da caça não sejam caçadas durante o seu período de reprodução e durante o período de retorno ao seu local de nidificação. Os Estados-membros transmitem à Comissão todas as informações úteis que digam respeito à aplicação prática da sua legislação de caça."
+  },
+  "7ca91be69f62ed81": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. No que diz respeito à caça, à captura ou ao abate de aves no âmbito da presente directiva, os Estados-membros proibirão o recurso a todos os meios, instalações ou métodos de captura ou de abate em grande escala ou não-selectivos, ou que possam conduzir localmente ao desaparecimento de uma espécie, e particularmente das enumeradas na alínea a) do Anexo IV.\n\n2. Além disso, os Estados-membros proibirão qualquer perseguição utilizando meios de transporte e nas condições mencionadas na alínea b) do Anexo IV."
+  },
+  "0a96d3e77f153721": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. Os Estados-membros podem derrogar os artigos 5o, 6o, 7o e 8o, se não existir outra solução satisfatória, com os fundamentos seguintes:\n\na) - no interesse da saúde e da segurança públicas,\n\n- no interesse da segurança aeronáutica,\n\n- para evitar danos importantes às culturas, ao gado, às florestas, às pescas ou às águas,\n\n- para a protecção da flora e da fauna;\n\nb) Para fins de investigaçõa e de ensino, de repovoamento, de reintrodução e ainda para a criação associada a estas acções;\n\nc) Para permitir, em condições estritamente controladas e de um modo selectivo, a captura, a detenção ou qualquer outra exploração judiciosa de certas aves, em pequenas quantidades.\n\n2. As derrogações devem mencionar:\n\n- as espécies que são objecto das derrogações,\n\n- os meios, instalações ou métodos de captura ou de abate autorizados,\n\n- as condições de risco e as circunstâncias de tempo e de local em que essas derrogações podem ser adoptadas,\n\n- a autoridade habilitada a declarar que as condições exigidas se encontram efectivamente reunidas, a decidir quais os meios, instalações ou métodos que podem ser postos em prática, dentro de que limites e por quem,\n\n- as medidas de controlo a aplicar.\n\n3. Os Estados-membros enviarão anualmente à Comissão um relatório sobre a aplicação do presente artigo.\n\n4. Tendo em conta as informações de que dispõe e, nomeadamente, aquelas que lhes são comunicadas por força do no 3, a Comissão velará constantemente para que as consequências destas derrogações não sejam incompatíveis com a presente directiva e tomará as iniciativas adequadas para o efeito."
+  },
+  "2e0700668b072101": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. Os Estados-membros incentivarão as investigações e os trabalhos necessários para fins da protecção, da gestão e da exploração populacional de todas as espécies de aves referidas no artigo 1o.\n\n2. Será atribuída especial atenção às investigações e aos trabalhos que incidam sobre os assuntos enumerados no Anexo V. Os Estados-membros enviam à Comissão todas as informações necessárias de modo a possibilitar-lhe a tomada de medidas apropriadas à coordenação das investigações e trabalhos referidos no presente artigo."
+  },
+  "581e30ef528f4448": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nOs Estados-membros velarão por que a introdução eventual de espécies de aves que não vivem naturalmente no estado selvagem no território europeu dos Estados-membros não venha a causar danos à flora e à fauna locais. A Comissão será por eles consultada a este respeito."
+  },
+  "70a415f6e445dfe5": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. Os Estados-membros enviarão à Comissão, de três em três anos, a contar da cessção do prazo fixado no no 1 do artigo 18o, um relatório sobre a aplicação das disposições nacionais adoptadas por força da presente directiva.\n\n2. A Comissão prepara, de três em três anos, um relatório de síntese com base nas informações referidas no no 1. A parte do projecto deste relatório relativa às informações fornecidas por um Estado-membro é transmitida para verificação às autoridades desse Estado-membro. A versão definitiva do relatório será comunicada ao Estados-membros."
+  },
+  "dad0e409c10d7eb7": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nA aplicação de medidas tomadas por força da presente directiva não pode conduzir a uma degradação da situação actual no tocante à conservação de todas as espécies de aves referidas no artigo 1o."
+  },
+  "93ed6ddb6e72d4a5": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nOs Estados-membros podem tomar medidas de protecção mais estritas do que as previstas na presente directiva."
+  },
+  "21cc64db9b8c539a": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nAs modificações necessárias para adaptar ao progresso técnico e científico os Anexos I e V bem como as modificações referidas no no 4 do artigo 6o, serão aprovadas de acordo com o procedimento do artigo 17o."
+  },
+  "468fbf0bea15e21a": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\n1. Para efeitos das modificações referidas no artigo 15o, é instituído um Comité para a adaptação ao progresso técnico e científico da presente directiva, a seguir denominado «Comité», que é composto por representantes dos Estados-membros e presidido por um representante da Comissão.\n\n2. O Comité estabelecerá o seu regulamento interno."
+  },
+  "3e56025a936d91a0": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\n1. No caso de ser feita referência ao processo definido no presente artigo, o Comité é convocado pelo seu presidente, por sua própria iniciativa ou a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão submeterá ao Comité um projecto de medidas a adoptar. O Comité emite o seu parecer sobre esse projecto no prazo que o presidente fixar em função da urgência da questão em causa. O Comité pronuncia-se por maioria de quarenta e um votos, sendo atribuída aos votos dos Estados-membros a ponderação prevista no no 2 do artigo 148o. do Tratado. O presidente não toma parte na votação.\n\n3. a) A Comissão aprovará as medidas projectadas quando estiverem conformes com o parecer do Comité;\n\nb) Quando as medidas projectadas não estiverem conformes com o parecer do Comité, ou na ausência de parecer, a Comissão submeterá de imediato ao Conselho uma proposta relativa às medidas a tomar. O Conselho delibera por maioria qualificada;\n\nc) Se, decorrido um prazo de três meses após o assunto ter sido submetido à apreciação do Conselho, este não tiver deliberado, as medidas propostas são adoptadas pela Comissão."
+  },
+  "c3500fa7d464632c": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva no prazo de dois anos a contar da sua notificação e desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptem no domínio regulado pela presente directiva."
+  },
+  "7d268e5c9b8c7021": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito no Luxemburgo em 2 de Abril de 1979.\n\nPelo Conselho\n\nO Presidente\n\nJ. FRANÇOIS-PONCET\n\n(1) JO no C 24 de 1. 2. 1977, p. 3 e JO no C 201 de 23. 8. 1977, p. 2.(2) JO no C 163 de 11. 7. 1977, p. 28.(3) JO no C 152 de 29. 6. 1977, p. 3.(4) JO no C 112 de 20. 12. 1973, p. 40.(5) JO no C 139 de 13. 6. 1977, p. 1."
+  },
+  "54678d5c4830b44f": {
+   "fragment_id": "ANEXO I - ANNEX I - ANNEXE I - ALLEGATO I - BIJLAGE I",
+   "type": "divisao",
+   "heading": "ANEXO I - ANNEX I - ANNEXE I - ALLEGATO I - BIJLAGE I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I - ANNEX I - ANNEXE I - ALLEGATO I - BIJLAGE I\n\n\"\" ID=\"1\">1. Gavia immer> ID=\"2\">Mobêlha-grande> ID=\"3\">Great northern diver> ID=\"4\">Plongeon imbrin> ID=\"5\">Strolaga maggiore> ID=\"6\">Ijsduiker\"> ID=\"1\">2. Calonectris diomedea> ID=\"2\">Pardela-de-bicho-amarelo> ID=\"3\">Cory's shearwater> ID=\"4\">Puffin cendré> ID=\"5\">Berta maggiore> ID=\"6\">Kuhls pijlstormvogel\"> ID=\"1\">3. Hydrobates pelagicus> ID=\"2\">Paínho-de-cauda-quadrada> ID=\"3\">Storm petrel> ID=\"4\">Pétrel tempête> ID=\"5\">Uccello delle tempeste> ID=\"6\">Stormvogeltje\"> ID=\"1\">4. Occanodroma leucorrhoa> ID=\"2\">Paínho-de-cauda-forcada> ID=\"3\">Leach's petrel> ID=\"4\">Pétrel cul blanc> ID=\"5\">Uccello delle tempeste codaforcuta> ID=\"6\">Vaal stormvogeltje\"> ID=\"1\">5. Phalacrocorax carbo sinensis> ID=\"2\">Corvo-marinho-de-faces-brancas (raça continental)> ID=\"3\">Cormorant (continental race)> ID=\"4\">Grand cormoran (race continentale)> ID=\"5\">Cormorano (razza continentale)> ID=\"6\">Aalscholver (continentaal ras)\"> ID=\"1\">6. Botaurus stellaris> ID=\"2\">Abetouro-comum> ID=\"3\">Bittern> ID=\"4\">Butor étoilé> ID=\"5\">Tarabuso> ID=\"6\">Roerdomp\"> ID=\"1\">7. Nycticorax nyctiorax> ID=\"2\">Goraz> ID=\"3\">Night heron> ID=\"4\">Héron bihoreau> ID=\"5\">Nitticora> ID=\"6\">Kwak\"> ID=\"1\">8. Ardeols ralloides> ID=\"2\">Papa-ratos> ID=\"3\">Squacco heron> ID=\"4\">Héron crabier> ID=\"5\">Sgarza ciuffetto> ID=\"6\">Ralreiger\"> ID=\"1\">9. Egretta garzetta> ID=\"2\">Garça-branca-pequena> ID=\"3\">Little egret> ID=\"4\">Aigrette garzette> ID=\"5\">Garzetta> ID=\"6\">Kleine zilverreiger\"> ID=\"1\">10. Egretta alba> ID=\"2\">Garça-branca-grande> ID=\"3\">Great white heron> ID=\"4\">Grande aigrette> ID=\"5\">Airone bianco maggiore> ID=\"6\">Grote zilverreiger\"> ID=\"1\">11. Ardea purpurea> ID=\"2\">Garça-vermelha> ID=\"3\">Purple heron> ID=\"4\">Héron pourpré> ID=\"5\">Airone rosso> ID=\"6\">Purperreiger\"> ID=\"1\">12. Ciconia nigra> ID=\"2\">Gegonha-preta> ID=\"3\">Black stork> ID=\"4\">Cigogne noire> ID=\"5\">Cicogna nera> ID=\"6\">Zwarte ooievaar\"> ID=\"1\">13. Ciconia ciconia> ID=\"2\">Gegonha-branca> ID=\"3\">White stork> ID=\"4\">Cigogne blanche> ID=\"5\">Cicogna bianca> ID=\"6\">Ooievaar\"> ID=\"1\">14. Plegadis falcinellus> ID=\"2\">Maçarico-preto> ID=\"3\">Glossy ibis> ID=\"4\">Ibis falcinelle> ID=\"5\">Mignattaio> ID=\"6\">Zwarte ibis\"> ID=\"1\">15. Platalea leucorodia> ID=\"2\">Colhereiro> ID=\"3\">Spoonbill> ID=\"4\">Spatule blanche> ID=\"5\">Spatola> ID=\"6\">Lepelaar\"> ID=\"1\">16. Phoenicopterus ruber> ID=\"2\">Flamingo-comum> ID=\"3\">Greater flamingo> ID=\"4\">Flamant rose> ID=\"5\">Fenicottero> ID=\"6\">Flamingo\"> ID=\"1\">17. Cygnus colombianus bewickii (Cygnus bewickii)> ID=\"2\">Cisne-pequeno> ID=\"3\">Bewick's swan> ID=\"4\">Cygne de Bewick> ID=\"5\">Cigno minore> ID=\"6\">Kleine zwaan\"> ID=\"1\">18. Cygnus cygnus> ID=\"2\">Cisne-bravo> ID=\"3\">Whooper swan> ID=\"4\">Cygne sauvage> ID=\"5\">Cigno selvatico> ID=\"6\">Wilde zwaan\"> ID=\"1\">19. Anser albifrons flavirostris> ID=\"2\">Ganso-da-Gronelândia> ID=\"3\">White-fronted goose (Greenland race)> ID=\"4\">Oie rieuse (race de Groenland)> ID=\"5\">Oca lombardella (razza di Groenlandia)> ID=\"6\">Kolgans (Groenland-ras)\"> ID=\"1\">20. Branta leucopsis> ID=\"2\">Ganso-de-faces-brancas> ID=\"3\">Barnacle goose> ID=\"4\">Bernache nonnette> ID=\"5\">Oca facciabianca> ID=\"6\">Brandgans\"> ID=\"1\">21. Aythya nyroca> ID=\"2\">Zarro-castanho> ID=\"3\">White eyed pochard> ID=\"4\">Canard nyocra> ID=\"5\">Moretta tabacata> ID=\"6\">Witoogeend\"> ID=\"1\">22. Oxyura leucocephala> ID=\"2\">Pato-rabo-alcado> ID=\"3\">White-headed duck> ID=\"4\">Erismature à tête blanche> ID=\"5\">Gobbo rugginoso> ID=\"6\">Witkopeend\"> ID=\"1\">23. Pernis apivorus> ID=\"2\">Falção-abelheiro> ID=\"3\">Honey buzzard> ID=\"4\">Bondree apivore> ID=\"5\">Falco pecchiaiolo> ID=\"6\">Wespendief\"> ID=\"1\">24. Milvus migrans> ID=\"2\">Milhafre-preto> ID=\"3\">Black kite> ID=\"4\">Milan noir> ID=\"5\">Nibbio bruno> ID=\"6\">Zwarte wouw\"> ID=\"1\">25. Milvus milvus> ID=\"2\">Milhano> ID=\"3\">Kite> ID=\"4\">Milan royal> ID=\"5\">Nibbio reale> ID=\"6\">Rode wouw\"> ID=\"1\">26. Haliaaetus albicilla> ID=\"2\">Águia-rabalva> ID=\"3\">White-tailed eagle> ID=\"4\">Pygargue à queue blanche> ID=\"5\">Aquila di mare> ID=\"6\">Zeearend\"> ID=\"1\">27. Gypaetus barbatus> ID=\"2\">Quebra-osso> ID=\"3\">Bearded vulture> ID=\"4\">Gypaete barbu> ID=\"5\">Avvoltoio degli agnelli> ID=\"6\">Lammergier\"> ID=\"1\">28. Neophron percnopterus> ID=\"2\">Abutre do Egipto> ID=\"3\">Egyptian vulture> ID=\"4\">Percnoptère d'Égypte> ID=\"5\">Capovaccaio> ID=\"6\">Aasgier\"> ID=\"1\">29. Gyps fulvus> ID=\"2\">Grifo> ID=\"3\">Griffon vulture> ID=\"4\">Vautour tauve> ID=\"5\">Grifone> ID=\"6\">Vale gier\"> ID=\"1\">30. Aegypius monachus> ID=\"2\">Abutre-preto> ID=\"3\">Black vulture> ID=\"4\">Vautour moine> ID=\"5\">Avvoltoio> ID=\"6\">Monniksgier\"> ID=\"1\">31. Circaetus gallicus> ID=\"2\">Águia-cobreira> ID=\"3\">Short-toed eagle> ID=\"4\">Circaète jean-le-blanc> ID=\"5\">Biancone> ID=\"6\">Slangenarend\"> ID=\"1\">32. Circus aeruginosus> ID=\"2\">Tartaranhão-ruivo-dos-paúis> ID=\"3\">Marsh harrier> ID=\"4\">Busard des roseaux> ID=\"5\">Falco di palude> ID=\"6\">Bruine kiekendief\"> ID=\"1\">33. Circus cyaneus> ID=\"2\">Tartaranhão-azulado> ID=\"3\">Hen harrier> ID=\"4\">Busard saint-martin> ID=\"5\">Albanella reale> ID=\"6\">Blauwe kiekendief\"> ID=\"1\">34. Circus pygargus> ID=\"2\">Tartaranhão-caçador> ID=\"3\">Montagu's harrier> ID=\"4\">Busard cendré> ID=\"5\">Albanella minore> ID=\"6\">Grauwe kiekendief\"> ID=\"1\">35. Aquila chrysaetus> ID=\"2\">Águia-real> ID=\"3\">Golden eagle> ID=\"4\">Aigle royal> ID=\"5\">Aquila reale> ID=\"6\">Steenarend\"> ID=\"1\">36. Hieraaetus pennatus> ID=\"2\">Águia-calçada> ID=\"3\">Booted eagle> ID=\"4\">Aigle botté> ID=\"5\">Aquila minore> ID=\"6\">Dwergarend\"> ID=\"1\">37. Hieraaetus fasciatus> ID=\"2\">Águia de Bonelli> ID=\"3\">Bonelli's eagle> ID=\"4\">Aigle de Bonelli> ID=\"5\">Aquila del Bonelli> ID=\"6\">Havikarend\"> ID=\"1\">38. Pandion haliaaetus> ID=\"2\">Águia-pesqueira> ID=\"3\">Osprey> ID=\"4\">Balbuzard pêcheur> ID=\"5\">Falco pescatore> ID=\"6\">Visarend\"> ID=\"1\">39. Falco eleonorae> ID=\"2\">Falcão-da-raínha> ID=\"3\">Eleonora's falcon> ID=\"4\">Faucon d'Éléonore> ID=\"5\">Falco della regna> ID=\"6\">Eleonora's valk\"> ID=\"1\">40. Falco biarmicus> ID=\"2\">Borni> ID=\"3\">Lanner falcon> ID=\"4\">Faucon lanier> ID=\"5\">Lanario> ID=\"6\">Lannervalk\"> ID=\"1\">41. Falco peregrinus> ID=\"2\">Falcão-peregrino> ID=\"3\">Peregrine> ID=\"4\">Faucon pèlerin> ID=\"5\">Falco pellegrino> ID=\"6\">Slechtvalk\"> ID=\"1\">42. Porphyrio porphyrio> ID=\"2\">Caimão-comum> ID=\"3\">Purple gallinule> ID=\"4\">Poule sultane> ID=\"5\">Pollo sultano> ID=\"6\">Purperkoet\"> ID=\"1\">43. Grus grus> ID=\"2\">Grou-comum> ID=\"3\">Crane> ID=\"4\">Grue cendrée> ID=\"5\">Gru> ID=\"6\">Kraanvogel\"> ID=\"1\">44. Tetrax tetrax (Otis tetrax)> ID=\"2\">Sisão> ID=\"3\">Little bustard> ID=\"4\">Outarde canepetière> ID=\"5\">Gallina prataiola> ID=\"6\">Kleine trap\"> ID=\"1\">45. Otis tarda> ID=\"2\">Abetarda-comum> ID=\"3\">Great bustard> ID=\"4\">Outarde barbue> ID=\"5\">Otarda> ID=\"6\">Grote trap\"> ID=\"1\">46. Himantopus himantopus> ID=\"2\">Perna-longa> ID=\"3\">Black-winged stilt> ID=\"4\">Échasse blanche> ID=\"5\">Cavaliere d'Italia> ID=\"6\">Steltkluut\"> ID=\"1\">47. Recurvirosta avosetta> ID=\"2\">Alfaiate> ID=\"3\">Avocet> ID=\"4\">Avocette> ID=\"5\">Avocetta> ID=\"6\">Kluut\"> ID=\"1\">48. Burhinus oedienemus> ID=\"2\">Alcaravão> ID=\"3\">Stone curlew> ID=\"4\">OEdicnème criard> ID=\"5\">Occhione> ID=\"6\">Grief\"> ID=\"1\">49. Glareola pratincola> ID=\"2\">Perdiz-do-mar> ID=\"3\">Pratincole> ID=\"4\">Glaréole à collier> ID=\"5\">Pernice di mare> ID=\"6\">Vorkstaartplevier\"> ID=\"1\">50. Charadrius morinellus (Endromias morinellus)> ID=\"2\">Tarambola-carambola> ID=\"3\">Dotterel> ID=\"4\">Pluvier guignard> ID=\"5\">Piviere tortolino> ID=\"6\">Morinelplevier\"> ID=\"1\">51. Pluvialis apricaria> ID=\"2\">Tarambola-dourada> ID=\"3\">Golden plover> ID=\"4\">Pluvier doré> ID=\"5\">Piviere dorato> ID=\"6\">Goudplevier\"> ID=\"1\">52. Gallinago media> ID=\"2\">Narceja-real> ID=\"3\">Great snipe> ID=\"4\">Bécassine double> ID=\"5\">Croccolone> ID=\"6\">Poelsnip\"> ID=\"1\">53. Tringa glareola> ID=\"2\">Maçarico-bastardo> ID=\"3\">Wood-sandpiper> ID=\"4\">Chevalier sylvain> ID=\"5\">Piro-piro boschereccio> ID=\"6\">Bosruiter\"> ID=\"1\">54. Phalaropus lobatus> ID=\"2\">Falaropo-de-bico-fino> ID=\"3\">Red-necked phalarope> ID=\"4\">Phalarope à bec etroit> ID=\"5\">Falarope becco sottile> ID=\"6\">Grauwe franjepoot\"> ID=\"1\">55. Larus genei> ID=\"2\">Gaivota-de-bico-fino> ID=\"3\">Slender-billed gull> ID=\"4\">Goéland railleur> ID=\"5\">Gabbiano roseo> ID=\"6\">Dunbekmeeuw\"> ID=\"1\">56. Larus audouinii> ID=\"2\">Alcatraz-de-Audoin> ID=\"3\">Audoin's gull> ID=\"4\">Goéland d'Audouin> ID=\"5\">Gabbiano corso> ID=\"6\">Audouins meeuw\"> ID=\"1\">57. Gelochelidon nilotica> ID=\"2\">Gaivina-bico-preto> ID=\"3\">Gull-billed tern> ID=\"4\">Sterne hansel> ID=\"5\">Sterna zampenere> ID=\"6\">Lachstern\"> ID=\"1\">58. Sterna sandvicensis> ID=\"2\">Garajau-comum> ID=\"3\">Sandwich tern> ID=\"4\">Sterne caugek> ID=\"5\">Beccapesci> ID=\"6\">Grote stern\"> ID=\"1\">59. Sterna dougallii> ID=\"2\">Andorinha-do-mar-rósea> ID=\"3\">Roseate tern> ID=\"4\">Sterne de Dougall> ID=\"5\">Sterna del Dougall> ID=\"6\">Dougalls stern\"> ID=\"1\">60. Sterna hirundo> ID=\"2\">Andorinha-do-mar-comum> ID=\"3\">Commom tern> ID=\"4\">Sterne Pierregarin> ID=\"5\">Sterna comune> ID=\"6\">Visdief\"> ID=\"1\">61. Sterna paradisaea> ID=\"2\">Andorinha-do-mar-árctica> ID=\"3\">Arctic tern> ID=\"4\">Sterne arctique> ID=\"5\">Sterna codalunga> ID=\"6\">Noordse stern\"> ID=\"1\">62. Sterna albifrons> ID=\"2\">Andorinha-do-mar-ana> ID=\"3\">Little tern> ID=\"4\">Sterne naine> ID=\"5\">Fraticello> ID=\"6\">Dwergstern\"> ID=\"1\">63. Chelidonias niger> ID=\"2\">Gaivina-preta> ID=\"3\">Black tern> ID=\"4\">Guifette noire> ID=\"5\">Mignattino> ID=\"6\">Zwarte stern\"> ID=\"1\">64. Pterodes alchata> ID=\"2\">Cortiçol-de-barriga-branca> ID=\"3\">Pin-tailed sandgrouse> ID=\"4\">Ganga cata> ID=\"5\">Grandule> ID=\"6\">Witbuikzandhoen\"> ID=\"1\">65. Bubo bubo> ID=\"2\">Bufo-real> ID=\"3\">Eagle owl> ID=\"4\">Hibou grand-duc> ID=\"5\">Gufo reale> ID=\"6\">Ochoe\"> ID=\"1\">66. Nyctea scandiaca> ID=\"2\">Bufo-branco> ID=\"3\">Snowy owl> ID=\"4\">Chouette harfang> ID=\"5\">Gufo delle nevi> ID=\"6\">Sneuwuil\"> ID=\"1\">67. Asio flammcus> ID=\"2\">Coruja-do-nabal> ID=\"3\">Short-eared owl> ID=\"4\">Hibou brachyote> ID=\"5\">Gufo di palude> ID=\"6\">Velduil\"> ID=\"1\">68. Acedo atthis> ID=\"2\">Guarda-rios-comum> ID=\"3\">Kingfisher> ID=\"4\">Martin pécheur d'Europe> ID=\"5\">Martin pescatore> ID=\"6\">Ijsvogel\"> ID=\"1\">69. Dryocopus martius> ID=\"2\">Peto-preto> ID=\"3\">Black woodpecker> ID=\"4\">Pie noir> ID=\"5\">Picchio nero> ID=\"6\">Zwarte specht\"> ID=\"1\">70. Dendrocopus leucotus> ID=\"2\">Pica-pau-de-dorso-branco> ID=\"3\">White-backed woodpecker> ID=\"4\">Pie à dos blanc> ID=\"5\">Picchio dorsobianco> ID=\"6\">Witrugspecht\"> ID=\"1\">71. Luscinia svecica> ID=\"2\">Pisco-de-peito-azul> ID=\"3\">Blue-throat> ID=\"4\">Gorge-bleue à miroir> ID=\"5\">Pettazzurro> ID=\"6\">Blauwborst\"> ID=\"1\">72. Sylvia undata> ID=\"2\">Felosa-do-mato> ID=\"3\">Dartford warbler> ID=\"4\">Fauvette pitchou> ID=\"5\">Magnanina> ID=\"6\">Provence-grasmus\"> ID=\"1\">73. Sylvia nisoria> ID=\"2\">Toutinegra-gavião> ID=\"3\">Barred warbler> ID=\"4\">Fauvette épervière> ID=\"5\">Bigia padovana> ID=\"6\">Gestreepte Grasmus\"> ID=\"1\">74. Sitta whitcheadi> ID=\"2\">Trepadeira-corsa> ID=\"3\">Corsican nuthatch> ID=\"4\">Sittelle corse> ID=\"5\">Picchio muratore corso> ID=\"6\">Zwartkopboomklever\">"
+  },
+  "5efbc834622c695c": {
+   "fragment_id": "ANEXO II/1 - ANNEX II/1 - ANNEXE II/1 - ALLEGATO II/1 - BIJLAGE II/1",
+   "type": "divisao",
+   "heading": "ANEXO II/1 - ANNEX II/1 - ANNEXE II/1 - ALLEGATO II/1 - BIJLAGE II/1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II/1 - ANNEX II/1 - ANNEXE II/1 - ALLEGATO II/1 - BIJLAGE II/1\n\n\"\" ID=\"1\">ANSERIFORMES\" ID=\"1\">1. Anser fabalis> ID=\"2\">Ganso-campestre> ID=\"3\">Bean goose> ID=\"4\">Oie des moissons> ID=\"5\">Oca granaiola> ID=\"6\">Rietgans\"> ID=\"1\">2. Anser anser> ID=\"2\">Ganso-comum> ID=\"3\">Greylag goose> ID=\"4\">Oie cendrée> ID=\"5\">Oca selvatica> ID=\"6\">Grauwe gans\"> ID=\"1\">3. Branta canadensis> ID=\"2\">Ganso do Canadá> ID=\"3\">Canada goose> ID=\"4\">Bernache du Canada> ID=\"5\">Oca del Canada> ID=\"6\">Canadese gans\"> ID=\"1\">4. Anas penelope> ID=\"2\">Piadeira> ID=\"3\">Wigeon> ID=\"4\">Canard siffleur> ID=\"5\">Fischione> ID=\"6\">Smient\"> ID=\"1\">5. Anas strepera> ID=\"2\">Frisada> ID=\"3\">Gadwall> ID=\"4\">Canard chipeau> ID=\"5\">Canapiglia> ID=\"6\">Krakeend\"> ID=\"1\">6. Anas crecca> ID=\"2\">Marrequinho-comum> ID=\"3\">Teal> ID=\"4\">Sarcelle d'hiver> ID=\"5\">Alzavola> ID=\"6\">Wintertaling\"> ID=\"1\">7. Anas platyrhynchos> ID=\"2\">Pato-real> ID=\"3\">Mallard> ID=\"4\">Canard colvert> ID=\"5\">Germano reale> ID=\"6\">Wilde eend\"> ID=\"1\">8. Anas acuta> ID=\"2\">Arrabio> ID=\"3\">Pintail> ID=\"4\">Canard pilet> ID=\"5\">Codone> ID=\"6\">Pijlstaart\"> ID=\"1\">9. Anas querquedula> ID=\"2\">Marreco> ID=\"3\">Garganey> ID=\"4\">Sarcelle d'été> ID=\"5\">Marzaiola> ID=\"6\">Zomertaling\"> ID=\"1\">10. Anas clypeata> ID=\"2\">Pato-trombeteiro> ID=\"3\">Shoveler> ID=\"4\">Canard souchet> ID=\"5\">Mestolone> ID=\"6\">Slobeend\"> ID=\"1\">11. Aythya ferina> ID=\"2\">Zarro-comum> ID=\"3\">Pochard> ID=\"4\">Fuligule miloum> ID=\"5\">Moriglione> ID=\"6\">Tafeleend\"> ID=\"1\">12. Aythya fuligula> ID=\"2\">Zarro-negrinha> ID=\"3\">Tufted duck> ID=\"4\">Fuligule morillon> ID=\"5\">Moretta> ID=\"6\">Kuileend\"\" ID=\"1\">GALLIFORMES\" ID=\"1\">13. Lagopus lagopus scoticus et hibernicus> ID=\"2\">Lagópode-escocês> ID=\"3\">Red grouse> ID=\"4\">Lagopède des saules> ID=\"5\">Pernice bianca di Scozia> ID=\"6\">Moerassneeuwhoen\"> ID=\"1\">14. Lagopus mutus> ID=\"2\">Lagópode-branco> ID=\"3\">Ptarmigan> ID=\"4\">Lagopède des Alpes> ID=\"5\">Pernice bianca> ID=\"6\">Alpensneeuwhoen\"> ID=\"1\">15. Alectoris graeca> ID=\"2\">Perdiz-grega> ID=\"3\">Rock partridge> ID=\"4\">Perdrix bartavelle> ID=\"5\">Coturnice> ID=\"6\">Europese steenpatrijs\"> ID=\"1\">16. Alectoris rufa> ID=\"2\">Perdiz-comum> ID=\"3\">Red-legged partridge> ID=\"4\">Perdrix rouge> ID=\"5\">Pernice rossa> ID=\"6\">Rode patrijs\"> ID=\"1\">17. Perdix perdix> ID=\"2\">Perdiz-cinzenta> ID=\"3\">Partridge> ID=\"4\">Perdrix grise> ID=\"5\">Starna> ID=\"6\">Patrijs\"> ID=\"1\">18. Phasianus colchicus> ID=\"2\">Faisão> ID=\"3\">Pheasant> ID=\"4\">Faisan de chasse> ID=\"5\">Fagiano> ID=\"6\">Fazant\"\" ID=\"1\">GRUIFORMES\" ID=\"1\">19. Fulica atra> ID=\"2\">Galeirão-comum> ID=\"3\">Coot> ID=\"4\">Foulque macroule> ID=\"5\">Folaga> ID=\"6\">Meerkoet\"\" ID=\"1\">CHARADRIIFORMES\" ID=\"1\">20. Lymnocryptes minimus> ID=\"2\">Narceja-galega> ID=\"3\">Jack snipe> ID=\"4\">Bécassine sourde> ID=\"5\">Frullino> ID=\"6\">Bokje\"> ID=\"1\">21. Gallinago gallinago> ID=\"2\">Narceja-comum> ID=\"3\">Snipe> ID=\"4\">Bécassine des marais> ID=\"5\">Beccaccino> ID=\"6\">Watersnip\"> ID=\"1\">22. Scolopax rusticola> ID=\"2\">Galinhola> ID=\"3\">Woodcock> ID=\"4\">Bécasse des bois> ID=\"5\">Beccaccia> ID=\"6\">Houtsnip\"\" ID=\"1\">COLUMBIFORMES\" ID=\"1\">23. Columba livia> ID=\"2\">Pombo-das-rochas> ID=\"3\">Rock dove> ID=\"4\">Pigeon biset> ID=\"5\">Piccione selvatico> ID=\"6\">Rotsduif\"> ID=\"1\">24. Columba palumbus> ID=\"2\">Pombo-torcaz> ID=\"3\">Wood pigeon> ID=\"4\">Pigeon ramier> ID=\"5\">Colombaccio> ID=\"6\">Houtduif\"\""
+  },
+  "fd60b1d0d7c31282": {
+   "fragment_id": "ANEXO II/2 - ANNEX II/2 - ANNEXE II/2 - ALLEGATO II/2 - BIJLAGE II/2",
+   "type": "divisao",
+   "heading": "ANEXO II/2 - ANNEX II/2 - ANNEXE II/2 - ALLEGATO II/2 - BIJLAGE II/2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II/2 - ANNEX II/2 - ANNEXE II/2 - ALLEGATO II/2 - BIJLAGE II/2\n\n\"\" ID=\"1\">25. Cygnus olor> ID=\"2\">Cisne-vulgar> ID=\"3\">Mute swan> ID=\"4\">Cygne muet> ID=\"5\">Cigno reale> ID=\"6\">Knobbelzwaan\"> ID=\"1\">26. Anser brachyrhynchus> ID=\"2\">Ganso-de-bico-curto> ID=\"3\">Pink-footed goose> ID=\"4\">Oie à bec court> ID=\"5\">Oca zamperose> ID=\"6\">Kleine rietgans\"> ID=\"1\">27. Anser albifrons> ID=\"2\">Ganso-grande-de-testa-branca> ID=\"3\">White-fronted goose> ID=\"4\">Oie rieuse> ID=\"5\">Oca lombardella> ID=\"6\">Kolgans\"> ID=\"1\">28. Branta bernicla> ID=\"2\">Ganso-de-faces-negras> ID=\"3\">Brent goose> ID=\"4\">Bernache cravant> ID=\"5\">Oca colombaccio> ID=\"6\">Rotgans\"> ID=\"1\">29. Netta rufina> ID=\"2\">Pato-de-bico-vermelho> ID=\"3\">Red-crested pochard> ID=\"4\">Nette rousse> ID=\"5\">Fistione turco> ID=\"6\">Krooneend\"> ID=\"1\">30. Aythya marila> ID=\"2\">Zarro-bastardo> ID=\"3\">Scaup> ID=\"4\">Fuligule milouinin> ID=\"5\">Moretta grigia> ID=\"6\">Toppereend\"> ID=\"1\">31. Somateria mollissima> ID=\"2\">Eider-edredão> ID=\"3\">Eider> ID=\"4\">Eider à duvet> ID=\"5\">Edredone> ID=\"6\">Eidereend\"> ID=\"1\">32. Clangula hyemalis> ID=\"2\">Pato-de-cauda-afilada> ID=\"3\">Long tailed duck> ID=\"4\">Harelde de Miquelon> ID=\"5\">Moretta codona> ID=\"6\">Ijseend\"> ID=\"1\">33. Melanitta nigra> ID=\"2\">Pato-negro> ID=\"3\">Common scoter> ID=\"4\">Macreuse noire> ID=\"5\">Orchetto marino> ID=\"6\">Zwarte zeeëend\"> ID=\"1\">34. Melanitta fusca> ID=\"2\">Pato-fusco> ID=\"3\">Velvet scoter> ID=\"4\">Macreuse brune> ID=\"5\">Orco marino> ID=\"6\">Grote zeeëend\"> ID=\"1\">35. Bucephala clangula> ID=\"2\">Pato-olho-d'ouro> ID=\"3\">Golden-eye> ID=\"4\">Garrot à l'oeil d'or> ID=\"5\">Quattrocchi> ID=\"6\">Brilduiker\"> ID=\"1\">36. Mergus serrator> ID=\"2\">Merganso-de-poupa> ID=\"3\">Red-breasted merganser> ID=\"4\">Harle huppé> ID=\"5\">Smergo minore> ID=\"6\">Middelste zaagbek\"> ID=\"1\">37. Mergus merganser> ID=\"2\">Merganso-grande> ID=\"3\">Goosander> ID=\"4\">Harle bièvre> ID=\"5\">Smergo maggiore> ID=\"6\">Grote zaagbek\"> ID=\"1\">38. Bonasia bonasia (Tetrastes bonasia)> ID=\"2\">Galinha-do-mato> ID=\"3\">Hazel hen> ID=\"4\">Gélinotte des bois> ID=\"5\">Francolino di monte> ID=\"6\">Hazelhoen\"> ID=\"1\">39. Tetrão tetrix (Lyrurus tetrix)> ID=\"2\">Galo-lira> ID=\"3\">Black grouse> ID=\"4\">Tétras lyre w> ID=\"5\">Fagiano di monte> ID=\"6\">Korhoen\"> ID=\"1\">40. Tetrão urogallus> ID=\"2\">Tetraz> ID=\"3\">Capercaillie> ID=\"4\">Grand tétras w> ID=\"5\">Gallo cedrone> ID=\"6\">Auerhoen\"> ID=\"1\">41. Alectoris barbara> ID=\"2\">Perdiz-moura> ID=\"3\">Barbary partridge> ID=\"4\">Perdrix de Barbarie> ID=\"5\">Pernice di Sardegna> ID=\"6\">Barbarijse patrijs\"> ID=\"1\">42. Coturnix coturnix> ID=\"2\">Codorniz> ID=\"3\">Quail> ID=\"4\">Caille des blés> ID=\"5\">Quaglia> ID=\"6\">Kwartel\"> ID=\"1\">43. Meleagris gallopavo> ID=\"2\">Perú-bravo> ID=\"3\">Wild turkey> ID=\"4\">Dindon/Dinde sauvage> ID=\"5\">Tacchino selvatico> ID=\"6\">Wilde kalkoen\"> ID=\"1\">44. Rallus aquaticus> ID=\"2\">Frango-d'água> ID=\"3\">Water rail> ID=\"4\">Râle d'eau> ID=\"5\">Porciglione> ID=\"6\">Waterral\"> ID=\"1\">45. Gallinula chloropus> ID=\"2\">Galinha-d'água> ID=\"3\">Moorhen> ID=\"4\">Poule d'eau> ID=\"5\">Gallinella d'acqua> ID=\"6\">Waterhoen\"> ID=\"1\">46. Haematopus ostralegus> ID=\"2\">Ostraceiro> ID=\"3\">Oystercatcher> ID=\"4\">Huîtrier pie> ID=\"5\">Beccaccia di mare> ID=\"6\">Scholekster\"> ID=\"1\">47. Pluvalis apricaria> ID=\"2\">Tarambola-dourada> ID=\"3\">Golden plover> ID=\"4\">Pluvier doré> ID=\"5\">Piviere dorato> ID=\"6\">Goudplevier\"> ID=\"1\">48. Pluvialis squatarola> ID=\"2\">Tarambola-cinzenta> ID=\"3\">Grey plover> ID=\"4\">Pluvier argenté> ID=\"5\">Pivieressa> ID=\"6\">Zilverplevier\"> ID=\"1\">49. Vanellus vanellus> ID=\"2\">Abibe-comum> ID=\"3\">Lapwing> ID=\"4\">Vanneau huppé> ID=\"5\">Pavoncella> ID=\"6\">Kievit\"> ID=\"1\">50. Calidris canutus> ID=\"2\">Seixoeira> ID=\"3\">Knot> ID=\"4\">Bécasseau maubèche> ID=\"5\">Piovanello maggiore> ID=\"6\">Kanoetstrandloper\"> ID=\"1\">51. Philomachus pugnax> ID=\"2\">Combatente> ID=\"3\">Ruff w Reeve x> ID=\"4\">Chevalier combattant> ID=\"5\">Combattente> ID=\"6\">Kemphaan\"> ID=\"1\">52. Limosa limosa> ID=\"2\">Maçarico-de-bico-direito> ID=\"3\">Black-tailed godwit> ID=\"4\">Barge à queue noir> ID=\"5\">Pittima reale> ID=\"6\">Grutto\"> ID=\"1\">53. Limosa lapponica> ID=\"2\">Fuselo> ID=\"3\">Bar-tailed godwit> ID=\"4\">Barge rousse> ID=\"5\">Pittima minore> ID=\"6\">Rosse grutto\"> ID=\"1\">54. Numenius phaeopus> ID=\"2\">Maçarico-galego> ID=\"3\">Whimbrel> ID=\"4\">Courlis corlieu> ID=\"5\">Chiurlo piccolo> ID=\"6\">Regenwulp\"> ID=\"1\">55. Numenius arquata> ID=\"2\">Maçarico-real> ID=\"3\">Curlew> ID=\"4\">Courlis cendré> ID=\"5\">Chiurlo> ID=\"6\">Wulp\"> ID=\"1\">56. Tringa erythropus> ID=\"2\">Perna-vermelha-escuro> ID=\"3\">Spotted redshank> ID=\"4\">Chevalier arlequin> ID=\"5\">Totano moro> ID=\"6\">Zwarte ruiter\"> ID=\"1\">57. Tringa totanus> ID=\"2\">Perna-vermelha-comum> ID=\"3\">Redshank> ID=\"4\">Chevalier gambette> ID=\"5\">Pettegola> ID=\"6\">Tureluur\"> ID=\"1\">58. Tringa nebularia> ID=\"2\">Perna-verde-comum> ID=\"3\">Greenshank> ID=\"4\">Chevalier aboyeur> ID=\"5\">Pantana> ID=\"6\">Groenpootrunter\"> ID=\"1\">59. Larus ridibundus> ID=\"2\">Guincho-comum> ID=\"3\">Black-headed gull> ID=\"4\">Mouette rieuse> ID=\"5\">Gabbiano comune> ID=\"6\">Kokmeeuw\"> ID=\"1\">60. Larus canus> ID=\"2\">Alcatraz-pardo> ID=\"3\">Common gull> ID=\"4\">Goéland cendré> ID=\"5\">Gavina> ID=\"6\">Stormmeeuw\"> ID=\"1\">61. Larus fuscus> ID=\"2\">Gaivota-d'asa-escura> ID=\"3\">Lesser black-backed gull> ID=\"4\">Goéland brun> ID=\"5\">Gabbiano zafferano> ID=\"6\">Kleine mantelmeeuw\"> ID=\"1\">62. Larus argentatus> ID=\"2\">Gaivota-argêntea> ID=\"3\">Herring gull> ID=\"4\">Goéland argenté> ID=\"5\">Gabbiano reale> ID=\"6\">Zilvermeeuw\"> ID=\"1\">63. Larus marinus> ID=\"2\">Alcatraz-comum> ID=\"3\">Greater black-backed gull> ID=\"4\">Goéland marin> ID=\"5\">Mugnaiaccio> ID=\"6\">Mantelmeeuw\"> ID=\"1\">64. Columba oenas> ID=\"2\">Pombo-bravo> ID=\"3\">Stock dove> ID=\"4\">Pigeon columbien> ID=\"5\">Colombella> ID=\"6\">Holenduif\"> ID=\"1\">65. Streptopelia decãoctoa> ID=\"2\">Rola-turca> ID=\"3\">Collared turtle dove> ID=\"4\">Tourterelle turque> ID=\"5\">Tortora dal collare orientale> ID=\"6\">Turkse tortel\"> ID=\"1\">66. Streptopelia turtur> ID=\"2\">Rola-comum> ID=\"3\">Turtle dove> ID=\"4\">Tourterelle des bois> ID=\"5\">Tortora> ID=\"6\">Tortelduif\"> ID=\"1\">67. Alauda arvensis> ID=\"2\">Laverca> ID=\"3\">Skylark> ID=\"4\">Alouette des champs> ID=\"5\">Lodola> ID=\"6\">Veldleeuwerik\"> ID=\"1\">68. Turdus merula> ID=\"2\">Melro-preto> ID=\"3\">Blackbird> ID=\"4\">Merle noir> ID=\"5\">Merlo> ID=\"6\">Merel\"> ID=\"1\">69. Turdus pilaris> ID=\"2\">Tordo-zornal> ID=\"3\">Fieldfare> ID=\"4\">Grive litorne> ID=\"5\">Cesena> ID=\"6\">Kramsvogel\"> ID=\"1\">70. Turdus philomelos> ID=\"2\">Tordo-comum> ID=\"3\">Song-thrush> ID=\"4\">Grive musicienne> ID=\"5\">Tordo> ID=\"6\">Zanglijster\"> ID=\"1\">71. Turdus iliacus> ID=\"2\">Tordo-ruivo-comum> ID=\"3\">Redwing> ID=\"4\">Grive mauvis> ID=\"5\">Tordo sasselo> ID=\"6\">Koperwiek\"> ID=\"1\">72. Turdus viscivorus> ID=\"2\">Tordeia> ID=\"3\">Mistle-thrush> ID=\"4\">Grive draine> ID=\"5\">Tordela> ID=\"6\">Grote lijster\">\n\n>Ellas\"> ID=\"1\">25. Cynus olor> ID=\"5\">+\"> ID=\"1\">26. Anser brachyrhynchus> ID=\"3\">+> ID=\"4\">+> ID=\"8\">+> ID=\"12\">+\"> ID=\"1\">27. Anser albifrons> ID=\"3\">+> ID=\"4\">+> ID=\"5\">+> ID=\"6\">+> ID=\"7\">+> ID=\"8\">+> ID=\"11\">+> ID=\"12\">+\"> ID=\"1\">28. Branta bernicla> ID=\"4\">+> ID=\"5\">+\"> ID=\"1\">29. Netta rufina> ID=\"7\">+\"> ID=\"1\">30. Aythya marila> ID=\"3\">+> ID=\"4\">+> ID=\"5\">+> ID=\"6\">+> ID=\"7\">+> ID=\"8\">+> ID=\"11\">+> ID=\"12\">+\"> ID=\"1\">31. Somateria mollissima> ID=\"4\">+> ID=\"7\">+> ID=\"8\">+\"> ID=\"1\">32. Clangula hyemalis> ID=\"4\">+> ID=\"7\">+> ID=\"8\">+> ID=\"12\">+\"> ID=\"1\">33. Melanitta nigra> ID=\"4\">+> ID=\"5\">+> ID=\"7\">+> ID=\"8\">+> ID=\"12\">+\"> ID=\"1\">34. Melanitta fusca> ID=\"4\">+> ID=\"5\">+> ID=\"7\">+> ID=\"8\">+> ID=\"12\">+\"> ID=\"1\">35. Bucephala clangula> ID=\"4\">+> ID=\"6\">+> ID=\"7\">+> ID=\"8\">+> ID=\"12\">+\"> ID=\"1\">36. Mergus serrator> ID=\"4\">+> ID=\"8\">+\"> ID=\"1\">37. Mergus merganser> ID=\"4\">+> ID=\"8\">+\"> ID=\"1\">38. Bonasia bonasia (Tetrastes bonasia)> ID=\"7\">+\"> ID=\"1\">39. Tetrão tetrix (Lyrurus tetrix)> ID=\"3\">+> ID=\"5\">+ w> ID=\"7\">+ w> ID=\"9\">+> ID=\"12\">+\"> ID=\"1\">40. Tetrão urogallus> ID=\"5\">+ w> ID=\"7\">+ w> ID=\"9\">+> ID=\"12\">+\"> ID=\"1\">41. Alectoris barbara> ID=\"9\">+\"> ID=\"1\">42. Coturnix coturnix> ID=\"6\">+> ID=\"7\">+> ID=\"9\">+\"> ID=\"1\">43. Meleagris gallopavo> ID=\"5\">+\"> ID=\"1\">44. Rallus aquaticus> ID=\"7\">+> ID=\"9\">+\"> ID=\"1\">45. Gallinula chloropus> ID=\"3\">+> ID=\"6\">+> ID=\"7\">+> ID=\"9\">+> ID=\"12\">+\"> ID=\"1\">46. Haematopus ostralegus> ID=\"4\">+> ID=\"7\">+\"> ID=\"1\">47. Pluvialis apricaria> ID=\"3\">+> ID=\"4\">+> ID=\"7\">+> ID=\"8\">+> ID=\"9\">+> ID=\"11\">+> ID=\"12\">+\"> ID=\"1\">48. Pluvialis squatarola> ID=\"4\">+> ID=\"7\">+> ID=\"12\">+\"> ID=\"1\">49. Vanellus vanellus> ID=\"3\">+> ID=\"4\">+> ID=\"6\">+> ID=\"7\">+> ID=\"8\">+> ID=\"9\">+\"> ID=\"1\">50. Calidris canutus> ID=\"4\">+> ID=\"7\">+\"> ID=\"1\">51. Philomachus pugnax> ID=\"7\">+> ID=\"9\">+\"> ID=\"1\">52. Limosa limosa> ID=\"4\">+> ID=\"7\">+> ID=\"9\">+\"> ID=\"1\">53. Limosa lapponica> ID=\"4\">+> ID=\"7\">+> ID=\"9\">+> ID=\"12\">+\"> ID=\"1\">54. Numenius phaeopus> ID=\"4\">+> ID=\"7\">+> ID=\"12\">+\"> ID=\"1\">55. Numenius arquata> ID=\"4\">+> ID=\"7\">+> ID=\"8\">+> ID=\"9\">+> ID=\"12\">+\"> ID=\"1\">56. Tringa erythropus> ID=\"4\">+> ID=\"7\">+\"> ID=\"1\">57. Tringa totanus> ID=\"4\">+> ID=\"7\">+> ID=\"9\">+> ID=\"12\">+\"> ID=\"1\">58. Tringa nebularia> ID=\"4\">+> ID=\"7\">+\"> ID=\"1\">59. Larus ridibundus> ID=\"4\">+> ID=\"5\">+\"> ID=\"1\">60. Larus canus> ID=\"4\">+> ID=\"5\">+\"> ID=\"1\">61. Larus fuscus> ID=\"4\">+> ID=\"5\">+\"> ID=\"1\">62. Larus argentatus> ID=\"4\">+> ID=\"5\">+\"> ID=\"1\">63. Larus marinus> ID=\"4\">+> ID=\"5\">+\"> ID=\"1\">64. Columba oenas> ID=\"6\">+> ID=\"7\">+\"> ID=\"1\">65. Streptopelia decãoctoa> ID=\"4\">+> ID=\"5\">+> ID=\"7\">+\"> ID=\"1\">66. Streptopelia turtur> ID=\"6\">+> ID=\"7\">+> ID=\"9\">+\"> ID=\"1\">67. Alauda arvensis> ID=\"6\">+> ID=\"7\">+> ID=\"9\">+\"> ID=\"1\">68. Turdus merula> ID=\"6\">+> ID=\"7\">+> ID=\"9\">+\"> ID=\"1\">69. Turdus pilaris> ID=\"6\">+> ID=\"7\">+> ID=\"9\">+\"> ID=\"1\">70. Turdus philomelos> ID=\"6\">+> ID=\"7\">+> ID=\"9\">+\"> ID=\"1\">71. Turdus iliacus> ID=\"6\">+> ID=\"7\">+> ID=\"9\">+\"> ID=\"1\">72. Turdus viscivorus> ID=\"6\">+> ID=\"7\">+\"\" + = Estados-membros que podem autorizar, conforme o no 3 do artigo 7o, a caça das espécies enumeradas.\n\n+ = Medlemsstater, som i overensstemmelse med artikel 7, stk. 3, kan give tilladelse til jagt paa de anfoerte arter.\n\n+ = Mitgliedstaaten, die nach Artikel 7 Absatz 3 die Bejagung der aufgefuehrten Arten zulassen koennen.\n\n+ = Krati meli poy dynantai na epitrepsoyn, oympsona me to arthro 7 paragrafos 3, to chynigi tnn eidnn poy aparithmogntai.\n\n+ = Member States which under Article 7 3 may authorize hunting of the species listed.\n\n+ = États membres pouvant autoriser, conformément à l'article 7 paragraphe 3, la chasse des espèces énumérées.\n\n+ = Stati membri che possono autorizzare, conformemente all'articulo 7, paragrafo 3, la caccia delle specie elencate.\n\n+ = Lid-Staten die overeenkonstig artikel 7, lid 3, toestemming mogen geven tot het jagen op de genoemde soorten.>"
+  },
+  "33ab349d21b7c7d3": {
+   "fragment_id": "ANEXO III/1 - ANNEX III/1 - ANNEXE III/1 - ALLEGATO III/1 - BIJLAGE III/1",
+   "type": "divisao",
+   "heading": "ANEXO III/1 - ANNEX III/1 - ANNEXE III/1 - ALLEGATO III/1 - BIJLAGE III/1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III/1 - ANNEX III/1 - ANNEXE III/1 - ALLEGATO III/1 - BIJLAGE III/1\n\n\"\" ID=\"1\">1. Anas platyrhynchus> ID=\"2\">Pato-real> ID=\"3\">Mallard> ID=\"4\">Canard colvert> ID=\"5\">Germano reale> ID=\"6\">Wilde eend\"> ID=\"1\">2. Lagopus Lagopus scoticus et hibernicus> ID=\"2\">Lagópode-escocês> ID=\"3\">Red grouse> ID=\"4\">Lagopede des Saules> ID=\"5\">Pernice branca di Scozia> ID=\"6\">Moerassneeuwhoen\"> ID=\"1\">3. Alectoris rufa> ID=\"2\">Perdiz-comum> ID=\"3\">Red-legged partridge> ID=\"4\">Perdrix rouge> ID=\"5\">Pernice rossa> ID=\"6\">Rode patrijs\"> ID=\"1\">4. Alectoris barbara> ID=\"2\">Perdiz-moura> ID=\"3\">Barbary partridge> ID=\"4\">Perdrix de Barbarie> ID=\"5\">Pernice di Sardegna> ID=\"6\">Barbarijse patrijs\"> ID=\"1\">5. Perdix perdix> ID=\"2\">Perdiz-cinzenta> ID=\"3\">Partridge> ID=\"4\">Perdrix grise> ID=\"5\">Starna> ID=\"6\">Patrijs\"> ID=\"1\">6. Phasianus colchicus> ID=\"2\">Faisão> ID=\"3\">Pheasant> ID=\"4\">Faisan de chasse> ID=\"5\">Fagiano> ID=\"6\">Fazant\"> ID=\"1\">7. Columba palumbus> ID=\"2\">Pombo-torcaz> ID=\"3\">Wood pigeon> ID=\"4\">Pigeon ramier> ID=\"5\">Colombaccio> ID=\"6\">Houtduif\">"
+  },
+  "4ad3cb12aeaa242c": {
+   "fragment_id": "ANEXO III/2 - ANNEX III/2 - ANNEXE III/2 - ALLEGATO III/2 - BIJLAGE III/2",
+   "type": "divisao",
+   "heading": "ANEXO III/2 - ANNEX III/2 - ANNEXE III/2 - ALLEGATO III/2 - BIJLAGE III/2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III/2 - ANNEX III/2 - ANNEXE III/2 - ALLEGATO III/2 - BIJLAGE III/2\n\n\"\" ID=\"1\">8. Anser anser> ID=\"2\">Ganso-comum> ID=\"3\">Greylag goose> ID=\"4\">Oie cendrée> ID=\"5\">Oca selvatica> ID=\"6\">Grauwe gans\"> ID=\"1\">9. Anas penelope> ID=\"2\">Piadeira> ID=\"3\">Wigeon> ID=\"4\">Canard siffleur> ID=\"5\">Fischione> ID=\"6\">Smient\"> ID=\"1\">10. Anas crecca> ID=\"2\">Marrequinho-comum> ID=\"3\">Teal> ID=\"4\">Starcelle d'hiver> ID=\"5\">Alzavola> ID=\"6\">Wintertaling\"> ID=\"1\">11. Anas acuta> ID=\"2\">Arrabio> ID=\"3\">Pintail> ID=\"4\">Canard pilet> ID=\"5\">Codone> ID=\"6\">Pijlstaart\"> ID=\"1\">12. Aythya ferina> ID=\"2\">Zarro-comum> ID=\"3\">Pochard> ID=\"4\">Fuligule miloutin> ID=\"5\">Moriglione> ID=\"6\">Tafeleend\"> ID=\"1\">13. Aythya fuligula> ID=\"2\">Zarro-negrinha> ID=\"3\">Tufted duck> ID=\"4\">Fuligule morillon> ID=\"5\">Moretta> ID=\"6\">Kuifeend\"> ID=\"1\">14. Somateria mollissima> ID=\"2\">Eider-edredão> ID=\"3\">Eider> ID=\"4\">Eider á duvet> ID=\"5\">Edredone> ID=\"6\">Eidereend\"> ID=\"1\">15. Lagopus mutus> ID=\"2\">Lagópode-branco> ID=\"3\">Ptarmigan> ID=\"4\">Lagopède des Alpes> ID=\"5\">Pernice bianca> ID=\"6\">Alpensneeuwhoen\"> ID=\"1\">16. Tetrão urogallus> ID=\"2\">Tetraz> ID=\"3\">Capercaillie> ID=\"4\">Grand tétras> ID=\"5\">Gallo cedrone> ID=\"6\">Auerhoen\"> ID=\"1\">17. Pulica atra> ID=\"2\">Galeirão-comum> ID=\"3\">Coot> ID=\"4\">Foulque macroule> ID=\"5\">Folaga> ID=\"6\">Meerkoet\">"
+  },
+  "c6e5cc01581a587e": {
+   "fragment_id": "ANEXO III/3 - ANNEX III/3 - ANNEXE III/3 - ALLEGATO III/3 - BIJLAGE III/3",
+   "type": "divisao",
+   "heading": "ANEXO III/3 - ANNEX III/3 - ANNEXE III/3 - ALLEGATO III/3 - BIJLAGE III/3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III/3 - ANNEX III/3 - ANNEXE III/3 - ALLEGATO III/3 - BIJLAGE III/3\n\n\"\" ID=\"1\">18. Anser albifrons> ID=\"2\">Ganso-grande-de-testabranca> ID=\"3\">White-fronted goose> ID=\"4\">Oie rieuse> ID=\"5\">Oca lombardella> ID=\"6\">Kolgans\"> ID=\"1\">19. Anas elypeata> ID=\"2\">Pato-trombeteiro> ID=\"3\">Shoveler> ID=\"4\">Canard souchet> ID=\"5\">Mestolone> ID=\"6\">Slobeend\"> ID=\"1\">20. Aythya marila> ID=\"2\">Zarro-bastardo> ID=\"3\">Seaup> ID=\"4\">Fuligule milouinin> ID=\"5\">Moretta grigia> ID=\"6\">Doppereend\"> ID=\"1\">21. melanitta nigra> ID=\"2\">Pato-negro> ID=\"3\">Common scoter> ID=\"4\">Macreuse noire> ID=\"5\">Orchetto marino> ID=\"6\">Zwarte zeeëend\"> ID=\"1\">22. Tetrão tetrix (Lyrurus tetrix)> ID=\"2\">Galo-lira> ID=\"3\">Black grouse> ID=\"4\">Tétras lyre> ID=\"5\">Fagiano di monte> ID=\"6\">Korhoen\"> ID=\"1\">23. Pluvialis apricaria> ID=\"2\">Tarambola-dourada> ID=\"3\">Golden plover> ID=\"4\">Pluvier doré> ID=\"5\">Piviere dorato> ID=\"6\">Goudplevier\"> ID=\"1\">24. Lymnocryptes minimus> ID=\"2\">Narceja-galega> ID=\"3\">Jack snipe> ID=\"4\">Bécassine sourde> ID=\"5\">Frullino> ID=\"6\">Bokje\"> ID=\"1\">25. Gallinago gallinago> ID=\"2\">Narceja-comum> ID=\"3\">Snipe> ID=\"4\">Bécassine de marais> ID=\"5\">Beccaccino> ID=\"6\">Watersnip\"> ID=\"1\">26. Scolopax rusticola> ID=\"2\">Galinhola> ID=\"3\">Woodcock> ID=\"4\">Bécasse des bois> ID=\"5\">Beccacia> ID=\"6\">Houtsnip\">"
+  },
+  "e47ef93d5f35dbe2": {
+   "fragment_id": "ANEXO IV — a) - Laços, substâncias viscosas, anzóis, aves vivas utilizadas como chamarizes cegos ou mutilados, gravadores, aparelhos electrocutantes,",
+   "type": "divisao",
+   "heading": "ANEXO IV — a) - Laços, substâncias viscosas, anzóis, aves vivas utilizadas como chamarizes cegos ou mutilados, gravadores, aparelhos electrocutantes,",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — a) - Laços, substâncias viscosas, anzóis, aves vivas utilizadas como chamarizes cegos ou mutilados, gravadores, aparelhos electrocutantes,\n\n- Fontes de luz artificiais, espelhos, dispositivos para iluminação dos alvos, dispositivos de mira dotados de um conversor de imagem ou de um amplificador de imagem electrónico para tiro nocturno,\n\n- explosivos,\n\n- redes, armadilhas, iscos envenenados ou tranquilizantes,\n\n- armas semi-automáticas ou automáticas cujo carregador possa conter mais que dois cartuchos;\n\nb) - aviões, veículos automóveis,\n\n- embarcações impulsionadas a uma velocidade superior a 5 quilómetros por hora. No mar alto, os Estados-membros podem, por razões de segurança, autorizar o uso de barcos a motor com uma velocidade máxima de 18 quilómetros por hora. Os Estados-membros transmitem à Comissão as autorizações concedidas."
+  },
+  "e3349401f0eb1137": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V\n\na) Elaboração da lista nacional das espécies ameaçadas de extinção ou especialmente em perigo, tendo em conta a sua área de distribuição geográfica;\n\nb) Recenseamento e descrição ecológica das zonas de importância particular para as espécies migradoras no decurso das suas migrações, da sua invernada e da sua nidificação;\n\nc) Recenseamento dos dados relativos ao nível populacional das aves migradoras, utilizando os resultados da anilhagem;\n\nd) Determinação da influência dos métodos de captura sobre o nível das populações;\n\ne) Criação e desenvolvimento de métodos ecológicos para evitar os estragos causados pelas aves;\n\nf) Determinação do papel de certas espécies como indicadores de poluição;\n\ng) Estudo dos efeitos prejudiciais da poluição química sobre o nível populacional das espécies de aves."
+  },
+  "41b4fe699392d259": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 2 de Abril de 1979\n\nrelativa à conservação das aves selvagens\n\n(79/409/CEE)\n\nO Conselho das Comunidades Europeias,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 235º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/c610c54a-1c1d-426f-acb1-a7be672bf8dc.0017.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/c610c54a-1c1d-426f-acb1-a7be672bf8dc.0017.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/c610c54a-1c1d-426f-acb1-a7be672bf8dc.0017.03/DOC_1#E0003)),\n\nConsiderando que a Declaração do Conselho, de 22 de Novembro de 1973, relativa a um programa de acção das Comunidades Europeias em matéria de ambiente ([^4^](http://publications.europa.eu/resource/cellar/c610c54a-1c1d-426f-acb1-a7be672bf8dc.0017.03/DOC_1#E0004)), prevê acções específicas destinadas a garantir a protecção das aves, completadas pela Resolução do Conselho das Comunidadas Europeias e dos representantes dos governos dos Estados-membros, reunidos no Conselho, de 17 de Maio de 1977, respeitante à prossecução e à realização de uma política e de um programa de acção das Comunidades Europeias em matéria de ambiente ([^5^](http://publications.europa.eu/resource/cellar/c610c54a-1c1d-426f-acb1-a7be672bf8dc.0017.03/DOC_1#E0005));\n\nConsiderando que, no território europeu dos Estados-membros, um grande número de espécies de aves que vivem naturalmente no estado selvagem sofre uma regressão populacional muito rápida em alguns casos, e que essa regressão constitui um risco sério para a conservação do meio natural, nomeadamente devido às ameaças que faz pesar sobre os equilíbrios biológicos;\n\nConsiderando que as espécies de aves que vivem naturalmente no estado selvagem no território europeu dos Estados-membros são em grande parte espécies migratórias; que tais espécies constituem um património comum e que a protecção eficaz das aves representa um problema de ambiente tipicamente transfronteiro, implicando responsabilidades comuns;\n\nConsiderando que as condições de vida das aves na Gronelândia diferem fundamentalrnente das que se deparam às aves nas outras regiões do território europeu dos Estados-membros devido a circunstâncias gerais e, nomeadamente, ao clima, à fraca densidade populacional, bem como à extensão e à situação geográfica excepcionais desta ilha;\n\nConsiderando que, desde logo, a presente directiva não se deve aplicar à Gronelândia;\n\nConsiderando que a conservação das espécies de aves que vivem naturalmente no estado selvagern no território europeu dos Estados-membros é necessária à realização, no âmbito de funcionamento do Mercado Comum, dos objectivos da Comunidade nos domínios da melhoria das condições de vida, de um desenvolvimento harmonioso das actividades económicas no conjunto da Comunidade e de uma expansão contínua e equilibrada, mas que os poderes de acção específicos necessários nesta matéria não foram previstos no Tratado;\n\nConsiderando que as medidas a tomar se devem aplicar aos diferentes factores que podem agir sobre o nível populacional das aves, a saber, as repercursões das actividades humanas e, nomeadamente, a destruição e a poluição dos seus habitats, a captura e a destruição pelo homem assim como o comércio a que estas práticas dão origem e que se torna necessário adaptar o grau destas medidas à situação das diferentes espécies no âmbito de uma política de conservação;\n\nConsiderando que a conservação tem por objectivo a protecção a longo prazo e a gestão dos recursos naturais enquanto parte integrante do património dos povos europeus; que ela permite a regulação desses recursos e regularmente a sua exploração na base de medidas necessárias à manutenção e à adaptação dos equilibrios naturais das espécies dentro dos limites do possível e razoável;\n\nConsiderando que a preservação, a manutenção ou o restabelecimento de uma diversidade e de uma extensão suficientes de habitats são indispensáveis para a conservação de todas as espécies de aves; que certas espécies de aves devem ser alvo de medidas de conservação especial relativas ao seu habitat, de modo a garantir a sua sobrevivência e a sua reprodução na sua área de distribuição; que essas medidas devem igualmente ter em conta as espécies migratórias e ser coordenadas com vista à constituição de uma rede coerente;\n\nConsiderando que, para evitar que os interesses comerciais possam vir a exercer urna eventual influência nociva sobre os níveis de exploração, é necessário instaurar uma proibição geral de comercialização e limitar quaisquer derrogações apenas às espécies cujo estatuto biológico assim o permita, tendo em conta as condições específicas que prevalecem nas diferentes regiões;\n\nConsiderando que, devido ao seu nível populacional, à sua distribuição geográfica e à sua taxa de reprodução no conjunto da Comunidade certas espécies podem ser objecto de actos de caça, o que constitui uma exploração admissível, devendo esses actos de caça ser compatíveis com a manutenção da população dessas espécies a um nível satisfatório;\n\nConsiderando que os meios, instalações ou métodos de captura ou de abate em grande escala ou não-selectivos, bem como a perseguição a partir de certos meios de transporte devem ser proibidas devido à pressão excessiva que exercem ou podem exercer sobre o nível populacional das espécies em causa;\n\nConsiderando que, devido à importância que podem assumir certas situações específicas, é conveniente prever uma possibilidade de derrogação, sob certas condições, associada a vigilância por parte da Comissão;\n\nConsiderando que a conservação das aves, e em particular a conservação das aves migratórias, coloca ainda problemas que devem ser alvo de estudos científicos e que esses estudos permitirão ainda avaliar a eficácia das medidas tomadas;\n\nConsiderando que se deve velar, em consulta com a Comissão, para que a introdução eventual de espécies de aves que não vivem naturalmente no estado selvagem no território europeu dos Estados-membros não acarrete nenhum prejuízo para a flora e a fauna locais;\n\nConsiderando que a Comissão preparará e comunicará aos Estados-membros, de três em três anos, um relatório de síntese baseado nas informações que os Estados-membros lhe enviarem sobre a aplicação das disposições nacionais tomadas por força da presente directiva;\n\nConsiderando que o progresso técnico e científico requer uma adaptação rápida de certos anexos; que é conveniente, para facilitar a execução das medidas necessárias para este efeito, prever um processo que introduza uma cooperação estreita entre os Estados-membros e a Comissão, no âmbito de um comité para a adaptação ao progresso técnico e científico,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "03d8d51ca33a8620": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. A presente directiva diz respeito à conservação de todas as espécies de aves que vivem naturalmente no estado selvagem no território europeu dos Estados-membros ao qual é aplicável o Tratado. Tem por objectivo a protecção, a gestão e o controle dessas espécies e regulamenta a sua exploração.\n\n2. A presente directiva aplica-se às aves, aos seus ovos, aos seus ninhos e aos seus habitats.\n\n3. A presente directiva não se aplica à Gronelândia."
+  },
+  "82d4141832afc63e": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nOs Estados-membros tomarão todas as medidas necessárias para manter ou adaptar a população de todas as espécies de aves referidas no artigo 1º a um nível que corresponda nomeadamente às exigências ecológicas, científicas e culturais, tendo em conta as experiências económicas e de recreio."
+  },
+  "97f1949289b1f19b": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Tendo em conta as exigências mencionadas no artigo 2º, os Estados-membros tomarão todas as medidas necessárias para preservar, manter ou restabelecer uma diversidade e uma extensão suficientes de habitats para todas as espécies de aves referidas no artigo 1º.\n\n2. A preservação, a manutenção e o restabelecimento dos biótopos e dos habitats comportam em primeiro lugar as seguintes medidas:\n\na) Criação de zonas de protecção;\n\nb) Manutenção e adaptação ajustadas aos imperativos ecológicos dos habitats situados no interior e no exterior das zonas de protecção;\n\nc) Reabilitação dos biótopos destruídos;\n\nd) Criação de biótopos."
+  },
+  "7e97176e47893d9c": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. As espécies mencionadas no Anexo I são objecto de medidas de conservação especial respeitantes ao seu habitat, de modo a garantir a sua sobrevivência e a sua reprodução na sua área de distribuição.\n\nPara o efeito, tomar-se-ão em consideração:\n\na) As espécies ameaçadas de extinção;\n\nb) As espécies vulneráveis a certas modificações dos seus habitats;\n\nc) As espécies consideradas raras, porque as suas populações são reduzidas ou porque a sua repartição local é, restrita;\n\nd) Outras espécies necessitando de atenção especial devido à especificidade do seu habitat.\n\nTer-se-á em conta, para proceder às avaliações, quais as tendências e as variações dos níveis populacionais.\n\nOs Estados-membros classificarão, nomeadamente, em zonas de protecção especial os territórios mais apropriados, em número e em extensão, para a conservação destas últimas na zona geográfica marítima e terrestre de aplicação da presente directiva.\n\n2. Os Estados-membros tomarão medidas semelhantes para as espécies migratórias não referidas no Anexo I e cuja ocorrência seja regular, tendo em conta as necessidades de protecção na zona geográfica marítima e terrestre de aplicação da presente directiva no que diz respeito às suas áreas de reprodução, de muda e de invernada e às zonas de repouso e alimentação nos seus percursos de migração. Com esta finalidade, os Estados-membros atribuem uma importância especial à protecção das zonas húmidas e muito particularmente às de importância internacional.\n\n3. Os Estados-membros enviarão à Comissão todas as informações úteis de modo a que ela possa tomar as iniciativas convenientes tendo em vista a coordenação necessária para que as zonas referidas no nº 1, por um lado, e no nº 2, por outro, constituam uma rede coerente respondendo às necessidades de protecção das espécies na zona geográfica marítima e terrestre de aplicação da presente directiva.\n\n4. Os Estados-membros tomarão as medidas adequadas para evitar, nas zonas de protecção referidas nos n^os^ 1 e 2, a poluição ou a deterioração dos habitats bem como as perturbações que afectam as aves, desde que tenham um efeito significativo a propósito dos objectivos do presente artigo. Para além destas zonas de protecção, os Estados-membros esforçam-se igualmente por evitar a poluição ou a deterioração dos habitats."
+  },
+  "76ff3e26ded8baf7": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nSem prejuízo dos artigos 7º e 9º, os Estados-membros tomarão as medidas necessárias à instauração de um regime geral de protecção de todas as espécies de aves referidas no artigo 1º e que inclua nomeadamente a proibição:\n\na) De as matar ou de as capturar intencionalmente, qualquer que seja o método utilizado;\n\nb) De destruir ou de danificar intencionalmente os seus ninhos e os seus ovos ou de colher os seus ninhos;\n\nc) De recolher os seus ovos na natureza e de os deter, mesmo vazios;\n\nd) De as perturbar intencionalmente, nomeadamente durante o período de reprodução e de dependência, desde que essa perturbação tenha um efeito significativo relativamente aos objectivos da presente directiva;\n\ne) De deter as aves das espécies cuja caça e cuja captura não sejam permitidas."
+  },
+  "d62f07ae4976c9a9": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Sem prejuízo dos n^os^ 2 e 3, os Estados-membros proíbem, para todas as espécies de aves referidas no artigo 1º, a venda, o transporte para venda, a detenção para venda e ainda o acto de pôr à venda as aves vivas, ou aves mortas, bem como qualquer parte ou qualquer produto obtido a partir da ave, facilmente identificáveis.\n\n2. Para as espécies referidas no Anexo III/1, as actividades referidas no nº 1 não serão proibidas, desde que as aves tenham sido legalmente mortas ou capturadas ou legalmente adquiridas de outro modo.\n\n3. Os Estados-membros podem autorizar no seu território, para as espécies mencionadas no Anexo III/2, as actividades referidas no nº 1 e para esse efeito prever limitações, desde que as aves tenham sido legalmente mortas ou capturadas ou legalmente adquiridas de outro modo.\n\nOs Estados-membros que desejem conceder uma tal autorização consultam previamente a Comissão, com a qual examinarão se a comercialização de espécimes da espécie em causa não conduz ou não oferece risco de conduzir, segundo todas as previsões razoáveis, a colocar em perigo o nível populacional, a distribuição geográfica ou a taxa de reprodução desta no conjunto da Comunidade.\n\nSe desse exame se conclui que, na opinião da Comissão, a autorização pretendida conduz ou pode conduzir a um dos perigos acima enumerados, a Comissão dirige ao Estado-membro uma recomendação devidamente fundamentada desaprovando a comercialização da espécie em questão. Se a Comissão considera que tal perigo não existe, comunica-lo-á ao Estado-membro.\n\nA recomendação da Comissão é publicada no *Jornal Oficial das Comunidades Europeias*.\n\nO Estado-membro que conceder uma autorização por força do presente número verificará, com intervalos regulares, se as condições requeridas para concessão dessa autorização ainda se encontram preenchidas.\n\n4. Em relação às espécies inscritas no Anexo II/3, a Comissão procede a estudos sobre o seu estatuto biológico e as repercussões da comercialização sobre o referido estatuto.\n\nA Comissão submeterá o mais tardar quatro meses antes do termo do prazo referido no nº 1 do artigo 18º, um relatório e as suas propostas ao Comité referido no artigo 16º, tendo em vista uma decisão sobre a inscrição dessas espécies no Anexo II/2.\n\nEnquanto aguardam essa decisão, os Estados-membros podem aplicar a essas espécies as regulamentações nacionais existentes, sem prejuízo do nº 3."
+  },
+  "a59628fbe7f40b64": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. Com base no seu nível populacional, na sua distribuição geográfica e na sua taxa de reprodução no conjunto da Comunidade, as espécies enumeradas no Anexo II podem ser objecto de actos de caça no âmbito da legislação nacional. Os Estados-mernbros velarão para que a caça a essas espécies não comprometa os esforços de conservação ernpreendidos na sua área de distribuição.\n\n2. As espécies enumeradas no Anexo II/1 podem ser caçadas na zona geográfica marítima e terrestre de aplicação da presente directiva.\n\n3. As espécies enumeradas no Anexo II/2 podern ser caçadas apenas nos Estados-membros para os quais são mencionadas.\n\n4. Os Estados-membros certificam-se de que a prática da caça, incluindo quando necessário a falcoaria, tal como decorre da aplicação das medidas nacionais em vigor, respeita os princípios de uma utilização razoável e de uma regulamentação equilibrada do ponto de vista ecológico das espécies de aves a que diz respeito, e que esta prática seja compatível, no que diz respeito à população destas espécies, nomeadamente das espécies migradoras, com as disposições decorrentes do artigo 2º. Velarão particularmente para que as espécies à quais se aplica a legislação da caça não sejam caçadas durante o período nidícola nem durante os diferentes estádios de reprodução e de dependência. Quando se trate de espécies migradoras, velarão particularmente para que as espécies às quais se aplica a legislação da caça não sejam caçadas durante o seu período de reprodução e durante o período de retorno ao seu local de nidificação. Os Estados-membros transmitem à Comissão todas as informações úteis que digam respeito à aplicação prática da sua legislação de caça."
+  },
+  "80dbd6fec52e7f74": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. No que diz respeito à caça, à captura ou ao abate de aves no âmbito da presente directiva, os Estados-membros proibirão o recurso a todos os meios, instalações ou métodos de captura ou de abate em grande escala ou não-selectivos, ou que possam conduzir localmente ao desaparecimento de uma espécie, e particularmente das enumeradas na alínea a) do Anexo IV.\n\n2. Além disso, os Estados-membros proibirão qualquer perseguição utilizando meios de transporte e nas condições mencionadas na alínea b) do Anexo IV."
+  },
+  "bf1142b57d77ac00": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. Os Estados-membros podem derrogar os artigos 5º, 6º, 7º e 8º, se não existir outra solução satisfatória, com os fundamentos seguintes:\n\n— no interesse da saúde e da segurança públicas,\n\n— no interesse da segurança aeronáutica,\n\n— para evitar danos importantes às culturas, ao gado, às florestas, às pescas ou às águas,\n\n— para a protecção da flora e da fauna;\n\nb) Para fins de investigação e de ensino, de repovoamento, de reintrodução e ainda para a criação associada a estas acções;\n\nc) Para permitir, em condições estritamente controladas e de um modo selectivo, a captura, a detenção ou qualquer outra exploração judiciosa de certas aves, em pequenas quantidades.\n\n2. As derrogações devem mencionar:\n\n— as espécies que são objecto das derrogações,\n\n— os meios, instalações ou métodos de captura ou deabate autorizados,\n\n— as condições de risco e as circunstâncias de tempo e de local em que essas derrogações podem ser adoptadas,\n\n— a autoridade habilitada a declarar que as condições exigidas se encontram efectivamente reunidas, a decidir quais os meios, instalações ou métodos que podem ser postos em prática, dentro de que limites e por quem,\n\n— as medidas de controlo a aplicar.\n\n3. Os Estados-membros enviarão anualmente à Comissão um relatório sobre a aplicação do presente artigo.\n\n4. Tendo em conta as informações de que dispõe e, nomeadamente, aquelas que lhe são comunicadas por força do nº 3, a Comissão velará constantemente para que as consequências destas derrogações não sejam incompatíveis com a presente directiva e tomará as iniciativas adequadas para o efeito."
+  },
+  "a9b837f0d7339bbe": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. Os Estados-membros incentivarão as investigações e os trabalhos necessários para fins da protecção, da gestão e da exploração populacional de todas as espécies de aves referidas no artigo 1º.\n\n2. Será atribuída especial atenção às investigações e aos trabalhos que incidam sobre os assuntos enumerados no Anexo V. Os Estados-membros enviam à Comissão todas as informações necessárias de modo a possibilitar-lhe a tomada de medidas apropriadas à coordenação das investigações e trabalhos referidos no presente artigo."
+  },
+  "464a65b3b49f57aa": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nOs Estados-membros velarão por que a introdução eventual de espécies de aves que não vivem naturalmente no estado selvagem no território europeu dos Estados-membros não venha a causar danos à flora e à fauna locais. A Comissão será por eles consultada a este respeito."
+  },
+  "13415df1e5d3f050": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n1. Os Estados-membros enviarão à Comissão, de três em três anos, a contar da cessação do prazo fixado no nº 1 do artigo 18º, um relatório sobre a aplicação das disposições nacionais adoptadas por força da presente directiva.\n\n2. A Comissão prepara, de trs em três anos, um relatório de síntese com base nas informações referidas no nº 1. A parte do projecto deste relatório relativa às informações fornecidas por um Estado-membro é transmitida para verificação às autoridades desse Estado-membro. A versão definitiva do relatório será comunicada ao Estados-membros."
+  },
+  "6196af904c5ec6ca": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nA aplicação de medidas tomadas por força da presente directiva não pode conduzir a uma degradação da situação actual no tocante à conservação de todas as espécies de aves referidas no artigo 1º."
+  },
+  "101a84acc1657a1d": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nOs Estados-membros podem tomar medidas de protecçãomais estritas do que as previstas na presente directiva."
+  },
+  "54c9a83a3a6ba234": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nAs modificações necessárias para adaptar ao progresso técnico e científico os Anexos I e V bem como as modificações referidas no nº 4 do artigo 6º, serão aprovadas de acordo com o procedimento do artigo 17º."
+  },
+  "dbc4ca21870d6010": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\n1. Para efeitos das modificações referidas no artigo 15º, é instituído um Comité para a adaptação ao progresso técnico e científico da presente directiva, a seguir denominado «Comité», que é composto por representantes dos Estados-membros e presidido por um representante da Comissão."
+  },
+  "48dcbc09ca16fa4d": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. A Comissão é assistida pelo Comité para a Adaptação ao Progresso Científico e Técnico da presente directiva.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^6^](http://publications.europa.eu/resource/cellar/c610c54a-1c1d-426f-acb1-a7be672bf8dc.0017.03/DOC_1#E0006)).\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "3384f8a3a3dd0b1f": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva no prazo de dois anos a contar da sua notificação e desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptem no domínio regulado pela presente directiva."
+  },
+  "8565c0eae51b7014": {
+   "fragment_id": "Artigo 19º",
+   "type": "artigo",
+   "heading": "Artigo 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º\n\nOs Estados-membros são destinatários da presente directiva."
+  },
+  "c39c3c300b218cae": {
+   "fragment_id": "ПРИЛОЖЕНИЕ I — ANEXO I — PŘÍLOHA I — BILAG I — ANHANG I — I LISA — ΠΑΡΑΡΤΗΜΑ I — ANNEX I — ANNEXE I — ALLEGATO I — I PIELIKUMS — I PRIEDAS — I. MELLÉKLET — ANNESS I — BIJLAGE I — ZAŁĄCZNIK I — ANEXO I — ANEXA I — PRÍLOHA I — PRILOGA I — LITTLE I — BILAGA I",
+   "type": "divisao",
+   "heading": "ПРИЛОЖЕНИЕ I — ANEXO I — PŘÍLOHA I — BILAG I — ANHANG I — I LISA — ΠΑΡΑΡΤΗΜΑ I — ANNEX I — ANNEXE I — ALLEGATO I — I PIELIKUMS — I PRIEDAS — I. MELLÉKLET — ANNESS I — BIJLAGE I — ZAŁĄCZNIK I — ANEXO I — ANEXA I — PRÍLOHA I — PRILOGA I — LITTLE I — BILAGA I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ПРИЛОЖЕНИЕ I — ANEXO I — PŘÍLOHA I — BILAG I — ANHANG I — I LISA — ΠΑΡΑΡΤΗΜΑ I — ANNEX I — ANNEXE I — ALLEGATO I — I PIELIKUMS — I PRIEDAS — I. MELLÉKLET — ANNESS I — BIJLAGE I — ZAŁĄCZNIK I — ANEXO I — ANEXA I — PRÍLOHA I — PRILOGA I — LITTLE I — BILAGA I"
+  },
+  "9ffb4fa4653db248": {
+   "fragment_id": "a)",
+   "type": "divisao",
+   "heading": "a)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### a)"
+  },
+  "9db10d764687186f": {
+   "fragment_id": "GAVIIFORMES",
+   "type": "divisao",
+   "heading": "GAVIIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GAVIIFORMES\n\nGaviidae\n\n*Gavia stellata*\n\n*Gavia arctica*\n\n*Gavia immer*"
+  },
+  "7a3c257bbbaf91b2": {
+   "fragment_id": "PODICIPEDIFORMES",
+   "type": "divisao",
+   "heading": "PODICIPEDIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PODICIPEDIFORMES\n\nPodicipedidae\n\n*Podiceps auritus*"
+  },
+  "3bec66bf77bc31f2": {
+   "fragment_id": "PROCELLARIIFORMES",
+   "type": "divisao",
+   "heading": "PROCELLARIIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROCELLARIIFORMES\n\nProcellariidae\n\n*Pterodroma madeira*\n\n*Pterodroma feae*\n\n*Bulweria bulwerii*\n\n*Calonectris diomedea*\n\n*Puffinus puffinus mauretanicus (Puffinus mauretanicus)*\n\n*Puffinus yelkouan*\n\n*Puffinus assimilis*\n\nHydrobatidae\n\n*Pelagodroma marina*\n\n*Hydrobates pelagicus*\n\n*Oceanodroma leucorhoa*\n\n*Oceanodroma castro*"
+  },
+  "e3ee1423615cf760": {
+   "fragment_id": "PELECANIFORMES",
+   "type": "divisao",
+   "heading": "PELECANIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PELECANIFORMES\n\nPelecanidae\n\n*Pelecanus onocrotalus*\n\n*Pelecanus crispus*\n\nPhalacrocoracidae\n\n*Phalacrocorax aristotelis desmarestii*\n\n*Phalacrocorax pygmeus*"
+  },
+  "b498c7c1c9cdf355": {
+   "fragment_id": "CICONIIFORMES",
+   "type": "divisao",
+   "heading": "CICONIIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CICONIIFORMES\n\nArdeidae\n\n*Botaurus stellaris*\n\n*Ixobrychus minutus*\n\n*Nycticorax nycticorax*\n\n*Ardeola ralloides*\n\n*Egretta garzetta*\n\n*Egretta alba (Ardea alba)*\n\n*Ardea purpurea*\n\nCiconiidae\n\n*Ciconia nigra*\n\n*Ciconia ciconia*\n\nThreskiornithidae\n\n*Plegadis falcinellus*\n\n*Platalea leucorodia*"
+  },
+  "9c719cd4dbf0e9d6": {
+   "fragment_id": "PHOENICOPTERIFORMES",
+   "type": "divisao",
+   "heading": "PHOENICOPTERIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PHOENICOPTERIFORMES\n\nPhoenicopteridae\n\n*Phoenicopterus ruber*"
+  },
+  "da18cb6f5273b25d": {
+   "fragment_id": "ANSERIFORMES",
+   "type": "divisao",
+   "heading": "ANSERIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ANSERIFORMES\n\nAnatidae\n\n*Cygnus bewickii (Cygnus columbianus bewickii)*\n\n*Cygnus cygnus*\n\n*Anser albifrons flavirostris*\n\n*Anser erythropus*\n\n*Branta leucopsis*\n\n*Branta ruficollis*\n\n*Tadorna ferruginea*\n\n*Marmaronetta angustirostris*\n\n*Aythya nyroca*\n\n*Polysticta stelleri*\n\n*Mergus albellus (Mergellus albellus)*\n\n*Oxyura leucocephala*"
+  },
+  "bb16263ac4cfb14b": {
+   "fragment_id": "FALCONIFORMES",
+   "type": "divisao",
+   "heading": "FALCONIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### FALCONIFORMES\n\nPandionidae\n\n*Pandion haliaetus*\n\nAccipitridae\n\n*Pernis apivorus*\n\n*Elanus caeruleus*\n\n*Milvus migrans*\n\n*Milvus milvus*\n\n*Haliaeetus albicilla*\n\n*Gypaetus barbatus*\n\n*Neophron percnopterus*\n\n*Gyps fulvus*\n\n*Aegypius monachus*\n\n*Circaetus gallicus*\n\n*Circus aeruginosus*\n\n*Circus cyaneus*\n\n*Circus macrourus*\n\n*Circus pygargus*\n\n*Accipiter gentilis arrigonii*\n\n*Accipiter nisus granti*\n\n*Accipiter brevipes*\n\n*Buteo rufinus*\n\n*Aquila pomarina*\n\n*Aquila clanga*\n\n*Aquila heliaca*\n\n*Aquila adalberti*\n\n*Aquila chrysaetos*\n\n*Hieraaetus pennatus*\n\n*Hieraaetus fasciatus*\n\nFalconidae\n\n*Falco naumanni*\n\n*Falco vespertinus*\n\n*Falco columbarius*\n\n*Falco eleonorae*\n\n*Falco biarmicus*\n\n*Falco cherrug*\n\n*Falco rusticolus*\n\n*Falco peregrinus*"
+  },
+  "2e7e563dcb7b9243": {
+   "fragment_id": "GALLIFORMES",
+   "type": "divisao",
+   "heading": "GALLIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GALLIFORMES\n\nTetraonidae\n\n*Bonasa bonasia*\n\n*Lagopus mutus pyrenaicus*\n\n*Lagopus mutus helveticus*\n\n*Tetrao tetrix tetrix*\n\n*Tetrao urogallus*\n\nPhasianidae\n\n*Alectoris graeca*\n\n*Alectoris barbara*\n\n*Perdix perdix italica*\n\n*Perdix perdix hispaniensis*"
+  },
+  "eb832b30226e9eae": {
+   "fragment_id": "GRUIFORMES",
+   "type": "divisao",
+   "heading": "GRUIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GRUIFORMES\n\nTurnicidae\n\n*Turnix sylvatica*\n\nGruidae\n\n*Grus grus*\n\nRallidae\n\n*Porzana porzana*\n\n*Porzana parva*\n\n*Porzana pusilla*\n\n*Crex crex*\n\n*Porphyrio porphyrio*\n\n*Fulica cristata*\n\nOtididae\n\n*Tetrax tetrax*\n\n*Chlamydotis undulata*\n\n*Otis tarda*"
+  },
+  "838e91cee2f7c538": {
+   "fragment_id": "CHARADRIIFORMES",
+   "type": "divisao",
+   "heading": "CHARADRIIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CHARADRIIFORMES\n\nRecurvirostridae\n\n*Himantopus himantopus*\n\n*Recurvirostra avosetta*\n\nBurhinidae\n\n*Burhinus oedicnemus*\n\nGlareolidae\n\n*Cursorius cursor*\n\n*Glareola pratincola*\n\nCharadriidae\n\n*Charadrius alexandrinus*\n\n*Charadrius morinellus (Eudromias morinellus)*\n\n*Pluvialis apricaria*\n\n*Hoplopterus spinosus*\n\nScolopacidae\n\n*Calidris alpina schinzii*\n\n*Philomachus pugnax*\n\n*Gallinago media*\n\n*Limosa lapponica*\n\n*Numenius tenuirostris*\n\n*Tringa glareola*\n\n*Xenus cinereus (Tringa cinerea)*\n\n*Phalaropus lobatus*\n\nLaridae\n\n*Larus melanocephalus*\n\n*Larus genei*\n\n*Larus audouinii*\n\n*Larus minutus*\n\nSternidae\n\n*Gelochelidon nilotica (Sterna nilotica)*\n\n*Sterna caspia*\n\n*Sterna sandvicensis*\n\n*Sterna dougallii*\n\n*Sterna hirundo*\n\n*Sterna paradisaea*\n\n*Sterna albifrons*\n\n*Chlidonias hybridus*\n\n*Chlidonias niger*\n\nAlcidae\n\n*Uria aalge ibericus*"
+  },
+  "6b979c400c450d72": {
+   "fragment_id": "PTEROCLIFORMES",
+   "type": "divisao",
+   "heading": "PTEROCLIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PTEROCLIFORMES\n\nPteroclididae\n\n*Pterocles orientalis*\n\n*Pterocles alchata*"
+  },
+  "85cf27d0e020fcf8": {
+   "fragment_id": "COLUMBIFORMES",
+   "type": "divisao",
+   "heading": "COLUMBIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COLUMBIFORMES\n\nColumbidae\n\n*Columba palumbus azorica*\n\n*Columba trocaz*\n\n*Columba bollii*\n\n*Columba junoniae*"
+  },
+  "f5b3b9abbc164ec4": {
+   "fragment_id": "STRIGIFORMES",
+   "type": "divisao",
+   "heading": "STRIGIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### STRIGIFORMES\n\nStrigidae\n\n*Bubo bubo*\n\n*Nyctea scandiaca*\n\n*Surnia ulula*\n\n*Glaucidium passerinum*\n\n*Strix nebulosa*\n\n*Strix uralensis*\n\n*Asio flammeus*\n\n*Aegolius funereus*"
+  },
+  "e9107ea3a6fa25f8": {
+   "fragment_id": "CAPRIMULGIFORMES",
+   "type": "divisao",
+   "heading": "CAPRIMULGIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPRIMULGIFORMES\n\nCaprimulgidae\n\n*Caprimulgus europaeus*"
+  },
+  "8d6725393baf8444": {
+   "fragment_id": "APODIFORMES",
+   "type": "divisao",
+   "heading": "APODIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### APODIFORMES\n\nApodidae\n\n*Apus caffer*"
+  },
+  "4ba673ac7358583e": {
+   "fragment_id": "CORACIIFORMES",
+   "type": "divisao",
+   "heading": "CORACIIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CORACIIFORMES\n\nAlcedinidae\n\n*Alcedo atthis*\n\nCoraciidae\n\n*Coracias garrulus*"
+  },
+  "29509143652ac764": {
+   "fragment_id": "PICIFORMES",
+   "type": "divisao",
+   "heading": "PICIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PICIFORMES\n\nPicidae\n\n*Picus canus*\n\n*Dryocopus martius*\n\n*Dendrocopos major canariensis*\n\n*Dendrocopos major thanneri*\n\n*Dendrocopos syriacus*\n\n*Dendrocopos medius*\n\n*Dendrocopos leucotos*\n\n*Picoides tridactylus*"
+  },
+  "13d36c3dfdf1b6ed": {
+   "fragment_id": "PASSERIFORMES",
+   "type": "divisao",
+   "heading": "PASSERIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PASSERIFORMES\n\nAlaudidae\n\n*Chersophilus duponti*\n\n*Melanocorypha calandra*\n\n*Calandrella brachydactyla*\n\n*Galerida theklae*\n\n*Lullula arborea*\n\nMotacillidae\n\n*Anthus campestris*\n\nTroglodytidae\n\n*Troglodytes troglodytes fridariensis*\n\nMuscicapidae (Turdinae)\n\n*Luscinia svecica*\n\n*Saxicola dacotiae*\n\n*Oenanthe leucura*\n\n*Oenanthe cypriaca*\n\n*Oenanthe pleschanka*\n\nMuscicapidae (Sylviinae)\n\n*Acrocephalus melanopogon*\n\n*Acrocephalus paludicola*\n\n*Hippolais olivetorum*\n\n*Sylvia sarda*\n\n*Sylvia undata*\n\n*Sylvia melanothorax*\n\n*Sylvia rueppelli*\n\n*Sylvia nisoria*\n\nMuscicapidae (Muscicapinae)\n\n*Ficedula parva*\n\n*Ficedula semitorquata*\n\n*Ficedula albicollis*\n\nParidae\n\n*Parus ater cypriotes*\n\nSittidae\n\n*Sitta krueperi*\n\n*Sitta whiteheadi*\n\nCerthiidae\n\n*Certhia brachydactyla dorotheae*\n\nLaniidae\n\n*Lanius collurio*\n\n*Lanius minor*\n\n*Lanius nubicus*\n\nCorvidae\n\n*Pyrrhocorax pyrrhocorax*\n\nFringillidae (Fringillinae)\n\n*Fringilla coelebs ombriosa*\n\n*Fringilla teydea*\n\nFringillidae (Carduelinae)\n\n*Loxia scotica*\n\n*Bucanetes githagineus*\n\n*Pyrrhula murina (Pyrrhula pyrrhula murina)*\n\nEmberizidae (Emberizinae)\n\n*Emberiza cineracea*\n\n*Emberiza hortulana*\n\n*Emberiza caesia*"
+  },
+  "b9ba2367b708745d": {
+   "fragment_id": "ПРИЛОЖЕНИЕ II/1 — ANEXO II/1 — PŘÍLOHA II/1 — BILAG II/1 — ANHANG II/1 — II/1 LISA — ΠΑΡΑΡΤΗΜΑ II/1 — ANNEX II/1 — ANNEXE II/1 — ALLEGATO II/1 — II/1. PIELIKUMS — II/1 PRIEDAS — II/1. MELLÉKLET — ANNESS II/1 — BIJLAGE II/1 — ZAŁĄCZNIK II/1 — ANEXO II/1 — ANEXA II/1 — PRÍLOHA II/1 — PRILOGA II/1 — LITTLE II/1 — BILAGA II/1",
+   "type": "divisao",
+   "heading": "ПРИЛОЖЕНИЕ II/1 — ANEXO II/1 — PŘÍLOHA II/1 — BILAG II/1 — ANHANG II/1 — II/1 LISA — ΠΑΡΑΡΤΗΜΑ II/1 — ANNEX II/1 — ANNEXE II/1 — ALLEGATO II/1 — II/1. PIELIKUMS — II/1 PRIEDAS — II/1. MELLÉKLET — ANNESS II/1 — BIJLAGE II/1 — ZAŁĄCZNIK II/1 — ANEXO II/1 — ANEXA II/1 — PRÍLOHA II/1 — PRILOGA II/1 — LITTLE II/1 — BILAGA II/1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ПРИЛОЖЕНИЕ II/1 — ANEXO II/1 — PŘÍLOHA II/1 — BILAG II/1 — ANHANG II/1 — II/1 LISA — ΠΑΡΑΡΤΗΜΑ II/1 — ANNEX II/1 — ANNEXE II/1 — ALLEGATO II/1 — II/1. PIELIKUMS — II/1 PRIEDAS — II/1. MELLÉKLET — ANNESS II/1 — BIJLAGE II/1 — ZAŁĄCZNIK II/1 — ANEXO II/1 — ANEXA II/1 — PRÍLOHA II/1 — PRILOGA II/1 — LITTLE II/1 — BILAGA II/1"
+  },
+  "4ed39ebd51172d76": {
+   "fragment_id": "ANSERIFORMES",
+   "type": "divisao",
+   "heading": "ANSERIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ANSERIFORMES\n\nAnatidae\n\n*Anser fabalis*\n\n*Anser anser*\n\n*Branta canadensis*\n\n*Anas penelope*\n\n*Anas strepera*\n\n*Anas crecca*\n\n*Anas platyrhynchos*\n\n*Anas acuta*\n\n*Anas querquedula*\n\n*Anas clypeata*\n\n*Aythya ferina*\n\n*Aythya fuligula*"
+  },
+  "61acf5cb67f77fe2": {
+   "fragment_id": "GALLIFORMES",
+   "type": "divisao",
+   "heading": "GALLIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GALLIFORMES\n\nTetraonidae\n\n*Lagopus lagopus scoticus et hibernicus*\n\n*Lagopus mutus*\n\nPhasianidae\n\n*Alectoris graeca*\n\n*Alectoris rufa*\n\n*Perdix perdix*\n\n*Phasianus colchicus*"
+  },
+  "e562d12dfd723be8": {
+   "fragment_id": "GRUIFORMES",
+   "type": "divisao",
+   "heading": "GRUIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GRUIFORMES\n\nRallidae\n\n*Fulica atra*"
+  },
+  "2fc2fa6238913ab8": {
+   "fragment_id": "CHARADRIIFORMES",
+   "type": "divisao",
+   "heading": "CHARADRIIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CHARADRIIFORMES\n\nScolopacidae\n\n*Lymnocryptes minimus*\n\n*Gallinago gallinago*\n\n*Scolopax rusticola*"
+  },
+  "962748e30db53fdd": {
+   "fragment_id": "COLUMBIFORMES",
+   "type": "divisao",
+   "heading": "COLUMBIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COLUMBIFORMES\n\nColumbidae\n\n*Columba livia*\n\n*Columba palumbus*"
+  },
+  "8920b1015ae9a3d7": {
+   "fragment_id": "ПРИЛОЖЕНИЕ II/2 — ANEXO II/2 — PŘÍLOHA II/2 — BILAG II/2 — ANHANG II/2 — II/2 LISA — ΠΑΡΑΡΤΗΜΑ II/2 — ANNEX II/2 — ANNEXE II/2 — ALLEGATO II/2 — II/2. PIELIKUMS — II/2 PRIEDAS — II/2. MELLÉKLET — ANNESS II/2 — BIJLAGE II/2 — ZAŁĄCZNIK II/2 — ANEXO II/2 — ANEXA II/2 — PRÍLOHA II/2 — PRILOGA II/2 — LITTLE II/2 — BILAGA II/2",
+   "type": "divisao",
+   "heading": "ПРИЛОЖЕНИЕ II/2 — ANEXO II/2 — PŘÍLOHA II/2 — BILAG II/2 — ANHANG II/2 — II/2 LISA — ΠΑΡΑΡΤΗΜΑ II/2 — ANNEX II/2 — ANNEXE II/2 — ALLEGATO II/2 — II/2. PIELIKUMS — II/2 PRIEDAS — II/2. MELLÉKLET — ANNESS II/2 — BIJLAGE II/2 — ZAŁĄCZNIK II/2 — ANEXO II/2 — ANEXA II/2 — PRÍLOHA II/2 — PRILOGA II/2 — LITTLE II/2 — BILAGA II/2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ПРИЛОЖЕНИЕ II/2 — ANEXO II/2 — PŘÍLOHA II/2 — BILAG II/2 — ANHANG II/2 — II/2 LISA — ΠΑΡΑΡΤΗΜΑ II/2 — ANNEX II/2 — ANNEXE II/2 — ALLEGATO II/2 — II/2. PIELIKUMS — II/2 PRIEDAS — II/2. MELLÉKLET — ANNESS II/2 — BIJLAGE II/2 — ZAŁĄCZNIK II/2 — ANEXO II/2 — ANEXA II/2 — PRÍLOHA II/2 — PRILOGA II/2 — LITTLE II/2 — BILAGA II/2"
+  },
+  "eb53e098e761ceb2": {
+   "fragment_id": "ANSERIFORMES",
+   "type": "divisao",
+   "heading": "ANSERIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ANSERIFORMES\n\nAnatidae\n\n*Cygnus olor*\n\n*Anser brachyrhynchus*\n\n*Anser albifrons*\n\n*Branta bernicla*\n\n*Netta rufina*\n\n*Aythya marila*\n\n*Somateria mollissima*\n\n*Clangula hyemalis*\n\n*Melanitta nigra*\n\n*Melanitta fusca*\n\n*Bucephala clangula*\n\n*Mergus serrator*\n\n*Mergus merganser*"
+  },
+  "6068647d2adb6867": {
+   "fragment_id": "GALLIFORMES",
+   "type": "divisao",
+   "heading": "GALLIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GALLIFORMES\n\nMeleagridae\n\n*Meleagris gallopavo*\n\nTetraonidae\n\n*Bonasa bonasia*\n\n*Lagopus lagopus lagopus*\n\n*Tetrao tetrix*\n\n*Tetrao urogallus*\n\nPhasianidae\n\n*Francolinus francolinus*\n\n*Alectoris barbara*\n\n*Alectoris chukar*\n\n*Coturnix coturnix*"
+  },
+  "3647fbdd9fd8b37d": {
+   "fragment_id": "GRUIFORMES",
+   "type": "divisao",
+   "heading": "GRUIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GRUIFORMES\n\nRallidae\n\n*Rallus aquaticus*\n\n*Gallinula chloropus*"
+  },
+  "0d2351b6bfee905b": {
+   "fragment_id": "CHARADRIIFORMES",
+   "type": "divisao",
+   "heading": "CHARADRIIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CHARADRIIFORMES\n\nHaematopodidae\n\n*Haematopus ostralegus*\n\nCharadriidae\n\n*Pluvialis apricaria*\n\n*Pluvialis squatarola*\n\n*Vanellus vanellus*\n\nScolopacidae\n\n*Calidris canutus*\n\n*Philomachus pugnax*\n\n*Limosa limosa*\n\n*Limosa lapponica*\n\n*Numenius phaeopus*\n\n*Numenius arquata*\n\n*Tringa erythropus*\n\n*Tringa totanus*\n\n*Tringa nebularia*\n\nLaridae\n\n*Larus ridibundus*\n\n*Larus canus*\n\n*Larus fuscus*\n\n*Larus argentatus*\n\n*Larus cachinnans*\n\n*Larus marinus*"
+  },
+  "46a9c332f0ac957e": {
+   "fragment_id": "COLUMBIFORMES",
+   "type": "divisao",
+   "heading": "COLUMBIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COLUMBIFORMES\n\nColumbidae\n\n*Columba oenas*\n\n*Streptopelia decaocto*\n\n*Streptopelia turtur*"
+  },
+  "a49d987b74d21d25": {
+   "fragment_id": "PASSERIFORMES",
+   "type": "divisao",
+   "heading": "PASSERIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PASSERIFORMES\n\nAlaudidae\n\n*Alauda arvensis*\n\nMuscicapidae\n\n*Turdus merula*\n\n*Turdus pilaris*\n\n*Turdus philomelos*\n\n*Turdus iliacus*\n\n*Turdus viscivorus*\n\nSturnidae\n\n*Sturnus vulgaris*\n\nCorvidae\n\n*Garrulus glandarius*\n\n*Pica pica*\n\n*Corvus monedula*\n\n*Corvus frugilegus*\n\n*Corvus corone*\n\n|  | BE | BG | CZ | DK | DE | EE | GR | ES | FR | IE | IT | CY | LV | LT | LU | HU | MT | NL | AT | PL | PT | RO | SI | SK | FI | SE | UK |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| *Cygnus olor* |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  | + |  |  |  |  |  |  |  |  |\n| *Anser brachyrhynchus* | + |  |  | + |  |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | + |\n| *Anser albifrons* | + | + | + | + | + | + | + |  | + | + |  | + | + | + |  | + |  | + |  | + |  | + |  | + |  | + | + |\n| *Branta bernicla* |  |  |  | + | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| *Netta rufina* |  |  |  |  |  |  |  | + | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| *Aythya marila* | + |  |  | + | + |  | + |  | + | + |  |  | + |  |  |  |  | + |  |  |  | + |  |  |  |  | + |\n| *Somateria mollissima* |  |  |  | + |  | + |  |  | + | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  | + | + |  |\n| *Clangula hyemalis* |  |  |  | + |  | + |  |  | + | + |  |  | + |  |  |  |  |  |  |  |  |  |  |  | + | + | + |\n| *Melanitta nigra* |  |  |  | + | + | + |  |  | + | + |  |  | + |  |  |  |  |  |  |  |  |  |  |  | + | + | + |\n| *Melanitta fusca* |  |  |  | + | + |  |  |  | + | + |  |  | + |  |  |  |  |  |  |  |  |  |  |  | + | + | + |\n| *Bucephala clangula* |  |  |  | + |  | + | + |  | + | + |  |  | + | + |  | + |  |  | + |  |  | + |  |  | + | + | + |\n| *Mergus serrator* |  |  |  | + |  |  |  |  |  | + |  |  |  |  |  |  | + |  |  |  |  |  |  |  | + | + |  |\n| *Mergus merganser* |  |  |  | + |  |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  | + | + |  |\n| *Bonasa bonasia* |  |  |  |  |  | + |  |  | + |  |  |  | + |  |  |  |  |  | + | + |  | + |  | + | + | + |  |\n| *Lagopus lagopus lagopus* |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | + | + |  |\n| *Tetrao tetrix* | + |  |  |  | + |  |  |  | + |  | + |  | + |  |  |  |  |  | + |  |  |  |  |  | + | + | + |\n| *Tetrao urogallus* |  | + |  |  | + |  |  |  | + |  | + |  | + |  |  |  |  |  | + |  |  | + |  |  | + | + | + |\n| *Francolinus francolinus* |  |  |  |  |  |  |  |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| *Alectoris barbara* |  |  |  |  |  |  |  | + |  |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| *Alectoris chukar* |  | + |  |  |  |  | + |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| *Coturnix coturnix* |  | + |  |  |  |  | + | + | + |  | + | + |  |  |  |  | + |  | + |  | + | + |  |  |  |  |  |\n| *Meleagris gallopavo* |  |  | + |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  | + |  |  |  |  | + |  |  |  |\n| *Rallus aquaticus* |  |  |  |  |  |  |  |  | + |  | + |  |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |\n| *Gallinula chloropus* | + |  |  |  |  |  | + |  | + |  | + |  |  |  |  |  | + |  |  |  | + | + |  |  |  |  | + |\n| *Haematopus ostralegus* |  |  |  | + |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| *Pluvialis apricaria* | + |  |  | + |  |  | + |  | + | + |  |  |  |  |  |  | + | + |  |  | + |  |  |  |  |  | + |\n| *Pluvialis squatarola* |  |  |  | + |  |  |  |  | + |  |  |  |  |  |  |  | + |  |  |  |  |  |  |  |  |  | + |\n| *Vanellus vanellus* | + |  |  | + |  |  | + | + | + | + | + |  |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |\n| *Calidris canutus* |  |  |  | + |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| *Philomachus pugnax* |  |  |  |  |  |  |  |  | + |  | + |  |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |\n| *Limosa limosa* |  |  |  | + |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| *Limosa lapponica* |  |  |  | + |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | + |\n| *Numenius phaeopus* |  |  |  | + |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | + |\n| *Numenius arquata* |  |  |  | + |  |  |  |  | + | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | + |\n| *Tringa erythropus* |  |  |  | + |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| *Tringa totanus* |  |  |  | + |  |  |  |  | + |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | + |\n| *Tringa nebularia* |  |  |  | + |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| *Larus ridibundus* | + |  |  | + | + | + |  | + |  |  |  |  |  |  |  | + |  |  | + |  |  |  |  | + |  | + |  |\n| *Larus canus* |  |  |  | + | + | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | + | + |  |\n| *Larus fuscus* |  |  |  | + | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| *Larus argentatus* | + |  |  | + | + | + |  |  |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |  | + | + |  |\n| *Larus cachinnans* |  |  |  |  |  |  |  | + |  |  |  |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |  |\n| *Larus marinus* |  |  |  | + | + | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | + | + |  |\n| *Columba oenas* |  |  |  |  |  |  | + | + | + |  |  | + |  |  |  |  |  |  |  |  | + | + |  |  |  |  |  |\n| *Streptopelia decaocto* |  | + | + | + | + |  |  |  | + |  |  | + |  |  |  | + |  |  | + |  |  | + |  | + |  |  |  |\n| *Streptopelia turtur* |  | + |  |  |  |  | + | + | + |  | + | + |  |  |  |  | + |  | + |  | + | + |  |  |  |  |  |\n| *Alauda arvensis* |  |  |  |  |  |  | + |  | + |  | + | + |  |  |  |  | + |  |  |  |  | + |  |  |  |  |  |\n| *Turdus merula* |  |  |  |  |  |  | + |  | + |  | + | + |  |  |  |  | + |  |  |  | + |  |  |  |  | + |  |\n| *Turdus pilaris* |  |  |  |  |  | + | + | + | + |  | + | + |  |  |  |  | + |  | + |  | + | + |  |  | + | + |  |\n| *Turdus philomelos* |  |  |  |  |  |  | + | + | + |  | + | + |  |  |  |  | + |  |  |  | + | + |  |  |  |  |  |\n| *Turdus iliacus* |  |  |  |  |  |  | + | + | + |  | + | + |  |  |  |  | + |  |  |  | + | + |  |  |  |  |  |\n| *Turdus viscivorus* |  |  |  |  |  |  | + | + | + |  |  | + |  |  |  |  | + |  |  |  | + | + |  |  |  |  |  |\n| *Sturnus vulgaris* |  | + |  |  |  |  | + | + | + |  |  | + |  |  |  | + | + |  |  |  | + | + |  |  |  |  |  |\n| *Garrulus glandarius* | + |  |  | + | + |  |  |  | + |  | + |  |  |  | + | + |  | + |  |  | + | + | + | + |  | + | + |\n| *Pica pica* | + | + | + | + | + |  | + | + | + |  | + | + | + |  | + | + |  | + |  |  | + | + | + | + | + | + | + |\n| *Corvus monedula* |  | + |  |  |  |  | + | + |  |  |  | + |  |  |  |  |  | + |  |  |  | + |  |  | + | + | + |\n| *Corvus frugilegus* |  | + |  |  |  | + |  |  | + |  |  |  |  | + |  | + |  |  |  |  |  | + |  | + |  | + | + |\n| *Corvus corone* | + | + | + | + | + | + | + | + | + |  | + | + | + | + | + | + |  | + |  |  | + | + | + | + | + | + | + |\n| AT = Österreich, BE = Belgique/België, BG = България, CY = Κύπρος, CZ = Česká republika, DE = Deutschland, DK = Danmark, EE = Eesti, ES = España, FI = Suomi/Finland, FR = France, GR = Ελλάδα, HU = Magyarország, IE = Ireland, IT = Italia, LT = Lietuva, LU = Luxembourg, LV = Latvija, MT = Malta, NL = Nederland, PL = Polska, PT = Portugal, RO = România, SE = Sverige, SI = Slovenija, SK = Slovensko, UK = United Kingdom + = Страни-членки, които съгласно член 7, параграф 3 могат да разрешават ловуване на изброените видове. + = Estados miembros que pueden autorizar, conforme al apartado 3 del artículo 7, la caza de las especies enumeradas. + = Členské státy, které mohou podle čl. 7 odst. 3 povolit lov uvedených druhů. + = Medlemsstater, som i overensstemmelse med artikel 7, stk. 3, kan give tilladelse til jagt på de anførte arter. + = Mitgliedstaaten, die nach Artikel 7 Absatz 3 die Bejagung der aufgeführten Arten zulassen können. + = Liikmesriigid, kes võivad artikli 7 lõike 3 alusel lubada loetelus nimetatud liikidele jahipidamist. + = Κράτη Μέλη που δύνανται να επιτρέψουν, σύμφωνα με το Άρθρο 7 παρ. 3, το κυνήγι των ειδών που αριθμούνται. + = Member States which under Article 7(3) may authorize hunting of the species listed. + = États membres pouvant autoriser, conformément à l'article 7 paragraphe 3, la chasse des espèces énumérées. + = Stati membri che possono autorizzare, conformemente all'articulo 7, paragrafo 3, la caccia delle specie elencate. + = Dalībvalstis, kurās saskaņā ar 7. panta 3. punktu ir atļautas sarakstā minēto sugu medības. + = Šalys narės, kurios pagal 7 straipsnio 3 punktą gali leisti medžioti išvardintas rūšis. + = Tagállamok, melyek a 7. cikkének (3) bekezdése alapján engedélyezhetik a listán szereplő fajok vadászatát. + = Stati Membri li bis-saħħa ta' l-Artikolu 7(3) jistgħu jawtorizzaw kaċċa ta' l-ispeċi indikati. + = Lid-Staten die overeenkonstig artikel 7, lid 3, toestemming mogen geven tot het jagen op de genoemde soorten. + = Państwa członkowskie, które na mocy art. 7 ust. 3 mogą udzielić zezwolenia na polowanie na wyliczone gatunki. + = Estados-Membros que podem autorizar, conforme o nº 3 do artigo 7º, a caça das espécies enumeradas. + = Statele membre care, conform articolului 7 paragraful 3, pot autoriza vânarea speciilor enumerate. + = Členské štáty, ktoré podľa článku 7 odseku 3 môžu povoliť poľovanie na uvedené druhy. + = Države članice, ki po členu 7(3) lahko dovolijo lov na navedene vrste. + = Jäsenvaltiot, jotka 7 artiklan 3 kohdan perusteella voivt sallia luettelossa mainittujen lajien metsästyksen. + = Medlemsstater som enligt artikel 7.3 får tillåta jakt på de angivna arterna. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |"
+  },
+  "1db4e69d42a07ee3": {
+   "fragment_id": "ПРИЛОЖЕНИЕ III/1 — ANEXO III/1 — PŘÍLOHA III/1 — BILAG III/1 — ANHANG III/1 — III/1 LISA — ΠΑΡΑΡΤΗΜΑ III/1 — ANNEX III/1 — ANNEXE III/1 — ALLEGATO III/1 — III/1. PIELIKUMS — III/1 PRIEDAS — III/1. MELLÉKLET — ANNESS III/1 — BIJLAGE III/1 — ZAŁĄCZNIK III/1 — ANEXO III/1 — ANEXA III /1 — PRÍLOHA III/1 — PRILOGA III/1 — LITTLE III/1 — BILAGA III/1",
+   "type": "divisao",
+   "heading": "ПРИЛОЖЕНИЕ III/1 — ANEXO III/1 — PŘÍLOHA III/1 — BILAG III/1 — ANHANG III/1 — III/1 LISA — ΠΑΡΑΡΤΗΜΑ III/1 — ANNEX III/1 — ANNEXE III/1 — ALLEGATO III/1 — III/1. PIELIKUMS — III/1 PRIEDAS — III/1. MELLÉKLET — ANNESS III/1 — BIJLAGE III/1 — ZAŁĄCZNIK III/1 — ANEXO III/1 — ANEXA III /1 — PRÍLOHA III/1 — PRILOGA III/1 — LITTLE III/1 — BILAGA III/1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ПРИЛОЖЕНИЕ III/1 — ANEXO III/1 — PŘÍLOHA III/1 — BILAG III/1 — ANHANG III/1 — III/1 LISA — ΠΑΡΑΡΤΗΜΑ III/1 — ANNEX III/1 — ANNEXE III/1 — ALLEGATO III/1 — III/1. PIELIKUMS — III/1 PRIEDAS — III/1. MELLÉKLET — ANNESS III/1 — BIJLAGE III/1 — ZAŁĄCZNIK III/1 — ANEXO III/1 — ANEXA III /1 — PRÍLOHA III/1 — PRILOGA III/1 — LITTLE III/1 — BILAGA III/1"
+  },
+  "4b5163d1ba11d5a8": {
+   "fragment_id": "ANSERIFORMES",
+   "type": "divisao",
+   "heading": "ANSERIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ANSERIFORMES\n\nAnatidae\n\n*Anas platyrhynchos*"
+  },
+  "38dcd3b5b3ad6421": {
+   "fragment_id": "GALLIFORMES",
+   "type": "divisao",
+   "heading": "GALLIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GALLIFORMES\n\nTetraonidae\n\n*Lagopus lagopus lagopus, scoticus et hibernicus*\n\nPhasianidae\n\n*Alectoris rufa*\n\n*Alectoris barbara*\n\n*Perdix perdix*\n\n*Phasianus colchicus*"
+  },
+  "bd0f94f6de6a5195": {
+   "fragment_id": "COLUMBIFORMES",
+   "type": "divisao",
+   "heading": "COLUMBIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COLUMBIFORMES\n\nColumbidae\n\n*Columba palumbus*"
+  },
+  "8e758db480aeda5d": {
+   "fragment_id": "ПРИЛОЖЕНИЕ III/2 — ANEXO III/2 — PŘÍLOHA III/2 — BILAG III/2 — ANHANG III/2 — III/2 LISA — ΠΑΡΑΡΤΗΜΑ III/2 — ANNEX III/2 — ANNEXE III/2 — ALLEGATO III/2III/2. PIELIKUMS — III/2 PRIEDAS — III/2. MELLÉKLET — ANNESS III/2 — BIJLAGE III/2 — ZAŁĄCZNIK III/2 — ANEXO III/2 — ANEXA III/2 — PRÍLOHA III/2 — PRILOGA III/2 — LITTLE III/2 — BILAGA III/2",
+   "type": "divisao",
+   "heading": "ПРИЛОЖЕНИЕ III/2 — ANEXO III/2 — PŘÍLOHA III/2 — BILAG III/2 — ANHANG III/2 — III/2 LISA — ΠΑΡΑΡΤΗΜΑ III/2 — ANNEX III/2 — ANNEXE III/2 — ALLEGATO III/2III/2. PIELIKUMS — III/2 PRIEDAS — III/2. MELLÉKLET — ANNESS III/2 — BIJLAGE III/2 — ZAŁĄCZNIK III/2 — ANEXO III/2 — ANEXA III/2 — PRÍLOHA III/2 — PRILOGA III/2 — LITTLE III/2 — BILAGA III/2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ПРИЛОЖЕНИЕ III/2 — ANEXO III/2 — PŘÍLOHA III/2 — BILAG III/2 — ANHANG III/2 — III/2 LISA — ΠΑΡΑΡΤΗΜΑ III/2 — ANNEX III/2 — ANNEXE III/2 — ALLEGATO III/2III/2. PIELIKUMS — III/2 PRIEDAS — III/2. MELLÉKLET — ANNESS III/2 — BIJLAGE III/2 — ZAŁĄCZNIK III/2 — ANEXO III/2 — ANEXA III/2 — PRÍLOHA III/2 — PRILOGA III/2 — LITTLE III/2 — BILAGA III/2"
+  },
+  "3d3a60967e4afca3": {
+   "fragment_id": "ANSERIFORMES",
+   "type": "divisao",
+   "heading": "ANSERIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ANSERIFORMES\n\nAnatidae\n\nAnser albifrons albifrons\n\nAnser anser\n\nAnas penelope\n\nAnas crecca\n\nAnas acuta\n\nAnas clypeata\n\nAythya ferina\n\nAythya fuligula\n\nAythya marila\n\nSomateria mollissima\n\nMelanitta nigra"
+  },
+  "80bf5fc76b6c3531": {
+   "fragment_id": "GALLIFORMES",
+   "type": "divisao",
+   "heading": "GALLIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GALLIFORMES\n\nTetraonidae\n\nLagopus mutus\n\nTetrao tetrix britannicus\n\nTetrao urogallus"
+  },
+  "2e3f6dc28c949b2e": {
+   "fragment_id": "GRUIFORMES",
+   "type": "divisao",
+   "heading": "GRUIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GRUIFORMES\n\nRallidae\n\nFulica atra"
+  },
+  "84c70982c1f8a444": {
+   "fragment_id": "CHARADRIIFORMES",
+   "type": "divisao",
+   "heading": "CHARADRIIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CHARADRIIFORMES\n\nCharadriidae\n\nPluvialis apricaria\n\nScolopacidae\n\nLymnocryptes minimus\n\nGallinago gallinago\n\nScolopax rusticola."
+  },
+  "bc0bd8c07775ca28": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV\n\n— Laços[**►**](http://publications.europa.eu/resource/celex/11994N) [**►**](http://publications.europa.eu/resource/celex/31995D0001) (excepto a Finlândia e a Suécia em relação à captura de Lagopus lagopus lagopus e de Lagopus mutus a norte da latitude 58° N)**◄** **◄**, substâncias viscosas, anzóis, aves vivas utilizadas como chamarizes cegos ou mutilados, gravadores, aparelhos electrocutantes,\n\n— Fontes de luz artificiais, espelhos, dispositivos para iluminação dos alvos, dispositivos de mira dotados de um conversor de imagem ou de um amplificador de imagem electrónico para tiro nocturno,\n\n— explosivos,\n\n— redes, armadilhas, iscos envenenados ou tranquilizantes,\n\n— armas semi-automáticas ou automáticas cujo carregador possa conter mais que dois cartuchos;\n\n— aviões, veículos automóveis,\n\n— embarcações impulsionadas a uma velocidade superior a 5 quilómetros por hora. No mar alto, os Estados-membros podem, por razões de segurança, autorizar o uso de barcos a motor com uma velocidade máxima de 18 quilómetros por hora. Os Estados-membros transmitem à Comissão as autorizações concedidas."
+  },
+  "b05c01c1896178fb": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V\n\na) Elaboração da lista nacional das espécies ameaçadas de extinção ou especialrnente ern perigo, tendo em conta a sua área de distribuição geográfica;\n\nb) Recenseamento e descrição ecológica das zonas de importância particular para as espécies migradoras no decurso das suas migrações, da sua invernada e da sua nidificação;\n\nc) Recenseamento dos dados relativos ao nível populacional das aves migradoras, utilizando os resultados da anilhagem;\n\nd) Determinação da influência dos métodos de captura sobre o níveildas populações;\n\ne) Criação e desenvolvimento de métodos ecológicos para evitar os estragos causados pelas aves;\n\nf) Determinação do papel de certas espécies como indicadores de poluição;\n\ng) Estudo dos efeitos prejudiciais da poluição química sobre o nível populacional das espécies de aves.\n\n---"
+  },
+  "026c877ecd32701c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/c610c54a-1c1d-426f-acb1-a7be672bf8dc.0017.03/DOC_1#src.E0001)) JO nº C 201 de 23. 8. 1977, p. 2.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/c610c54a-1c1d-426f-acb1-a7be672bf8dc.0017.03/DOC_1#src.E0002)) JO nº C 163 de 11. 7. 1977, p. 28.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/c610c54a-1c1d-426f-acb1-a7be672bf8dc.0017.03/DOC_1#src.E0003)) JO nº C 152 de 29. 6. 1977, p. 3.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/c610c54a-1c1d-426f-acb1-a7be672bf8dc.0017.03/DOC_1#src.E0004)) JO nº C 112 de 20. 12. 1973, p. 40.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/c610c54a-1c1d-426f-acb1-a7be672bf8dc.0017.03/DOC_1#src.E0005)) JO nº C 139 de 13. 6. 1977, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/c610c54a-1c1d-426f-acb1-a7be672bf8dc.0017.03/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "c6d95389c4a7edfa": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 2 de Abril de 1979\n\nrelativa à conservação das aves selvagens\n\n(79/409/CEE)\n\nO Conselho das Comunidades Europeias,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 235º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/11b274ff-734f-4ec3-bd0d-39a1d8da006c.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/11b274ff-734f-4ec3-bd0d-39a1d8da006c.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/11b274ff-734f-4ec3-bd0d-39a1d8da006c.0018.03/DOC_1#E0003)),\n\nConsiderando que a Declaração do Conselho, de 22 de Novembro de 1973, relativa a um programa de acção das Comunidades Europeias em matéria de ambiente ([^4^](http://publications.europa.eu/resource/cellar/11b274ff-734f-4ec3-bd0d-39a1d8da006c.0018.03/DOC_1#E0004)), prevê acções específicas destinadas a garantir a protecção das aves, completadas pela Resolução do Conselho das Comunidadas Europeias e dos representantes dos governos dos Estados-membros, reunidos no Conselho, de 17 de Maio de 1977, respeitante à prossecução e à realização de uma política e de um programa de acção das Comunidades Europeias em matéria de ambiente ([^5^](http://publications.europa.eu/resource/cellar/11b274ff-734f-4ec3-bd0d-39a1d8da006c.0018.03/DOC_1#E0005));\n\nConsiderando que, no território europeu dos Estados-membros, um grande número de espécies de aves que vivem naturalmente no estado selvagem sofre uma regressão populacional muito rápida em alguns casos, e que essa regressão constitui um risco sério para a conservação do meio natural, nomeadamente devido às ameaças que faz pesar sobre os equilíbrios biológicos;\n\nConsiderando que as espécies de aves que vivem naturalmente no estado selvagem no território europeu dos Estados-membros são em grande parte espécies migratórias; que tais espécies constituem um património comum e que a protecção eficaz das aves representa um problema de ambiente tipicamente transfronteiro, implicando responsabilidades comuns;\n\nConsiderando que as condições de vida das aves na Gronelândia diferem fundamentalrnente das que se deparam às aves nas outras regiões do território europeu dos Estados-membros devido a circunstâncias gerais e, nomeadamente, ao clima, à fraca densidade populacional, bem como à extensão e à situação geográfica excepcionais desta ilha;\n\nConsiderando que, desde logo, a presente directiva não se deve aplicar à Gronelândia;\n\nConsiderando que a conservação das espécies de aves que vivem naturalmente no estado selvagern no território europeu dos Estados-membros é necessária à realização, no âmbito de funcionamento do Mercado Comum, dos objectivos da Comunidade nos domínios da melhoria das condições de vida, de um desenvolvimento harmonioso das actividades económicas no conjunto da Comunidade e de uma expansão contínua e equilibrada, mas que os poderes de acção específicos necessários nesta matéria não foram previstos no Tratado;\n\nConsiderando que as medidas a tomar se devem aplicar aos diferentes factores que podem agir sobre o nível populacional das aves, a saber, as repercursões das actividades humanas e, nomeadamente, a destruição e a poluição dos seus habitats, a captura e a destruição pelo homem assim como o comércio a que estas práticas dão origem e que se torna necessário adaptar o grau destas medidas à situação das diferentes espécies no âmbito de uma política de conservação;\n\nConsiderando que a conservação tem por objectivo a protecção a longo prazo e a gestão dos recursos naturais enquanto parte integrante do património dos povos europeus; que ela permite a regulação desses recursos e regularmente a sua exploração na base de medidas necessárias à manutenção e à adaptação dos equilibrios naturais das espécies dentro dos limites do possível e razoável;\n\nConsiderando que a preservação, a manutenção ou o restabelecimento de uma diversidade e de uma extensão suficientes de habitats são indispensáveis para a conservação de todas as espécies de aves; que certas espécies de aves devem ser alvo de medidas de conservação especial relativas ao seu habitat, de modo a garantir a sua sobrevivência e a sua reprodução na sua área de distribuição; que essas medidas devem igualmente ter em conta as espécies migratórias e ser coordenadas com vista à constituição de uma rede coerente;\n\nConsiderando que, para evitar que os interesses comerciais possam vir a exercer urna eventual influência nociva sobre os níveis de exploração, é necessário instaurar uma proibição geral de comercialização e limitar quaisquer derrogações apenas às espécies cujo estatuto biológico assim o permita, tendo em conta as condições específicas que prevalecem nas diferentes regiões;\n\nConsiderando que, devido ao seu nível populacional, à sua distribuição geográfica e à sua taxa de reprodução no conjunto da Comunidade certas espécies podem ser objecto de actos de caça, o que constitui uma exploração admissível, devendo esses actos de caça ser compatíveis com a manutenção da população dessas espécies a um nível satisfatório;\n\nConsiderando que os meios, instalações ou métodos de captura ou de abate em grande escala ou não-selectivos, bem como a perseguição a partir de certos meios de transporte devem ser proibidas devido à pressão excessiva que exercem ou podem exercer sobre o nível populacional das espécies em causa;\n\nConsiderando que, devido à importância que podem assumir certas situações específicas, é conveniente prever uma possibilidade de derrogação, sob certas condições, associada a vigilância por parte da Comissão;\n\nConsiderando que a conservação das aves, e em particular a conservação das aves migratórias, coloca ainda problemas que devem ser alvo de estudos científicos e que esses estudos permitirão ainda avaliar a eficácia das medidas tomadas;\n\nConsiderando que se deve velar, em consulta com a Comissão, para que a introdução eventual de espécies de aves que não vivem naturalmente no estado selvagem no território europeu dos Estados-membros não acarrete nenhum prejuízo para a flora e a fauna locais;\n\nConsiderando que a Comissão preparará e comunicará aos Estados-membros, de três em três anos, um relatório de síntese baseado nas informações que os Estados-membros lhe enviarem sobre a aplicação das disposições nacionais tomadas por força da presente directiva;\n\nConsiderando que o progresso técnico e científico requer uma adaptação rápida de certos anexos; que é conveniente, para facilitar a execução das medidas necessárias para este efeito, prever um processo que introduza uma cooperação estreita entre os Estados-membros e a Comissão, no âmbito de um comité para a adaptação ao progresso técnico e científico,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "627f350a78b53e3a": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nDevem ser aprovadas as alterações necessárias para adaptar os anexos I e V ao progresso técnico e científico e as modificações referidas no segundo parágrafo do n.º 4 do artigo 6.º. Essas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 2 do artigo 17.º."
+  },
+  "e646c45f7137598c": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. A Comissão é assistida pelo Comité para a Adaptação ao Progresso Técnico e Científico.\n\n2. Sempre que seja feita referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "9c919dc485e97ace": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/11b274ff-734f-4ec3-bd0d-39a1d8da006c.0018.03/DOC_1#src.E0001)) JO nº C 201 de 23. 8. 1977, p. 2.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/11b274ff-734f-4ec3-bd0d-39a1d8da006c.0018.03/DOC_1#src.E0002)) JO nº C 163 de 11. 7. 1977, p. 28.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/11b274ff-734f-4ec3-bd0d-39a1d8da006c.0018.03/DOC_1#src.E0003)) JO nº C 152 de 29. 6. 1977, p. 3.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/11b274ff-734f-4ec3-bd0d-39a1d8da006c.0018.03/DOC_1#src.E0004)) JO nº C 112 de 20. 12. 1973, p. 40.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/11b274ff-734f-4ec3-bd0d-39a1d8da006c.0018.03/DOC_1#src.E0005)) JO nº C 139 de 13. 6. 1977, p. 1."
+  },
+  "8d82e609f392235b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1979L0409 — PT — 15.02.2010 — 008.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31979L0409) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31979L0409) [de 2 de Abril de 1979](http://publications.europa.eu/resource/celex/31979L0409) [relativa à conservação das aves selvagens](http://publications.europa.eu/resource/celex/31979L0409) [(79/409/CEE)](http://publications.europa.eu/resource/celex/31979L0409) (JO L 103, 25.4.1979, p.1)\n\n**revogado por:**\n\n- [Directiva 2009/147/CE do Parlamento Europeu e do Conselho de 30 de Novembro de 2009](http://publications.europa.eu/resource/celex/32009L0147) — L 20 — 7 — 26.1.2010"
+  }
+ }
+}

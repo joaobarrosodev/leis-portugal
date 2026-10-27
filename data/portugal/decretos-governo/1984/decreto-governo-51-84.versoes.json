@@ -1,0 +1,166 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:380953:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-governo/1984-889769513",
+ "dre_path": "/dr/detalhe/decreto-governo/51-1984-380953",
+ "source_lastmod": "2024-10-02",
+ "versions": [
+  {
+   "date": "1984-08-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "889769467",
+    "889769468",
+    "889769469",
+    "889769470",
+    "889769471",
+    "889769472",
+    "889769473",
+    "889769474",
+    "889770075",
+    "889770076",
+    "889770077"
+   ]
+  },
+  {
+   "date": "1984-09-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:308147:por",
+     "title": "Declaração",
+     "published": "1984-09-29",
+     "dre_path": "/dr/detalhe/declaracao/1984-308147"
+    }
+   ],
+   "changes": [
+    "Retifica Anexo"
+   ],
+   "fragments": [
+    "889769467",
+    "889769468",
+    "889769469",
+    "889769470",
+    "889769471",
+    "889769472",
+    "889769473",
+    "889769474",
+    "889770075",
+    "889770076",
+    "889770077",
+    "889770080",
+    "889770095"
+   ]
+  }
+ ],
+ "fragments": {
+  "889769467": {
+   "fragment_id": "889769514",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto do Governo n.º 51/84\n\nde 21 de Agosto\n\nO Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:\n\nArtigo único. É aprovado o Acordo de Cooperação entre a Ordem Soberana de Malta e Portugal, assinado em 14 de Maio de 1983, cujos textos em português e em francês constituem anexos do presente decreto.\n\nAcordo de Cooperação entre a Ordem Soberana de Malta e Portugal\n\nA Ordem Soberana de Malta e o Governo Português, a seguir designados por Partes Contratantes,\n\nAnimados pelo desejo de contribuir para o desenvolvimento e diversificação das suas relações no campo da cooperação humanitária, científica e técnica numa base duradoura, de harmonia com os princípios respeitantes às relações amistosas internacionais;\n\nVisando a eficaz utilização das potencialidades abertas pelo progresso científico e técnico, acordam no seguinte:"
+  },
+  "889769468": {
+   "fragment_id": "889769515",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nEm função dos recursos disponíveis, as Partes Contratantes apoiarão e promulgarão as medidas destinadas a facilitar, desenvolver e diversificar a sua cooperação nos campos humanitário, científico e técnico."
+  },
+  "889769469": {
+   "fragment_id": "889769516",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs Partes Contratantes apoiarão e promulgarão o estudo de projectos, bem como a conclusão e execução de acordos de cooperação humanitária, científica e técnica entre organismos portugueses e organismos dependentes da Ordem Soberana de Malta, concedendo todas as facilidades possíveis para a realização destes fins."
+  },
+  "889769470": {
+   "fragment_id": "889769517",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nNesta conformidade, as Partes Contratantes deverão promover e apoiar:\n\na) A importação, com isenção de direitos aduaneiros e outras imposições em conexão com a importação, de bens de equipamento hospitalar e de assistência, assim como de medicamentos doados pela Ordem Soberana de Malta, desde que tais bens se destinem a ofertas a instituições nacionais de interesse público e de relevantes fins sociais e, bem assim, o trânsito dos mesmos bens;\n\nb) A realização conjunta de pesquisas científicas e técnicas para melhoria da assistência hospitalar;\n\nc) O intercâmbio de especialistas para a realização de estudos, consultas e troca de informações no domínio da ciência e tecnologia, especialmente no âmbito da Academia de Pediatria da Ordem Soberana Militar de Malta, do Comité Executivo Internacional da Ordem de Malta para a Assistência aos Leprosos (CIOMAL), da Associação para o Estudo do Problema Mundial dos Refugiados (AWR), da Ajuda Internacional da Ordem de Malta (AIOM), do Instituto Internacional de Direito Humanitário e do Instituto dos Estudos e de Investigação Hospitalares;\n\nd) A cooperação entre instituições científicas de ambas as Partes Contratantes;\n\ne) O intercâmbio de publicações, documentação e outras informações de natureza técnica e científica;\n\nf) A organização de conferências, cursos e colóquios científicos e técnicos de interesse comum;\n\ng) Qualquer outra forma de cooperação humanitária, científica e técnica."
+  },
+  "889769471": {
+   "fragment_id": "889769518",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAs Partes Contratantes indicarão os campos nos quais a expansão da cooperação científica e técnica se lhes afigura útil e mutuamente vantajosa."
+  },
+  "889769472": {
+   "fragment_id": "889769519",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - A cooperação empreendida pelas Partes Contratantes em benefício dos países em vias de desenvolvimento ou por ocasião de grandes catástrofes poderá realizar-se com o apoio da Ajuda Internacional da Ordem de Malta (AIOM), do Comité Executivo Internacional da Ordem de Malta para a Assistência aos Leprosos (CIOMAL), da Associação dos Cavaleiros Portugueses da Ordem Soberana de Malta e dos Serviços de Assistência da Ordem de Malta (SAOM) de Portugal.\n\n2 - Em relação às acções de cooperação no campo hospitalar e humanitário que venham a ser concertadas com terceiros, o Governo Português concederá todas as facilidades possíveis no que se refere aos meios de transporte necessários para a realização dessas acções."
+  },
+  "889769473": {
+   "fragment_id": "889769520",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nNos contratos de cooperação humanitária, científica e técnica previstos no presente Acordo poderão intervir pessoas jurídicas ou físicas, quando para tal forem autorizadas pelas Partes Contratantes."
+  },
+  "889769474": {
+   "fragment_id": "889769521",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - Com o fim de assegurar a melhor aplicação do presente Acordo, as Partes Contratantes decidem criar uma comissão mista, que reunirá alternadamente em Lisboa e Roma.\n\n2 - A comissão mista apreciará a forma como decorre a cooperação entre as Partes Contratantes e poderá fazer recomendações no sentido de serem adoptadas medidas que visem a expansão dessa cooperação, devendo ser ratificados os acordos previstos no artigo 2.º do presente Acordo."
+  },
+  "889770075": {
+   "fragment_id": "889769522",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO presente Acordo será aprovado em conformidade com as disposições constitucionais de cada uma das Partes Contratantes e entrará em vigor em data a acordar por meio da troca de notas diplomáticas."
+  },
+  "889770076": {
+   "fragment_id": "889769523",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO Acordo vigorará durante um período de 5 anos e será automaticamente renovado por períodos sucessivos de 1 ano se nenhuma das Partes o tiver denunciado por escrito até 3 meses antes de expirar o seu período de vigência."
+  },
+  "889770077": {
+   "fragment_id": "889769524",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO presente Acordo será aplicado, após o termo do seu período de vigência, às medidas de cooperação iniciadas antes do referido termo e ainda em curso até à sua conclusão.\n\nFeito em Lisboa aos 14 de Maio de 1983, em 2 exemplares originais em língua francesa e portuguesa, cada texto fazendo igualmente fé.\n\nPela Ordem Soberana de Malta:\n\nBailio Conde Geraud Michel de Pierredon.\n\nPelo Governo Português:\n\nVasco Luís Caldeira Coelho Futsher Pereira."
+  },
+  "889770080": {
+   "fragment_id": "889769525",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e assinado em Conselho de Ministros de 12 de Julho de 1984. - Carlos Alberto da Mota Pinto - Jaime José Matos da Gama - Ernâni Rodrigues Lopes - José Augusto Seabra - António Manuel Maldonado Gonelha - Álvaro Roque de Pinho Bissaia Barreto - João Rosado Correia.\n\nAssinado em 27 de Julho de 1984.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 27 de Julho de 1984.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "889770095": {
+   "fragment_id": "889769529",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "1984-09-29",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 227/1984, 1º Suplemento, Série I de 1984-09-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-308147), em vigor a partir de 1984-09-29"
+   ],
+   "markdown": "## Anexo\n\nAccord de Coopération entre le Portugal et l'Ordre Souverain de Malte\n\nLe Gouvernement Portugais et l'Ordre Souverain de Malte, désignés ci-après sous le nom de Signataires,\n\nAnimés du désir de développer et de diversifier sur des fondements durables leurs relations dans le domaine de la coopération humanitaire, scientifique et technique, en harmonie avec les principes se rapportant aux relations amicales internationales;\n\nSouhaitant utiliser d'une manière éfficace l'ensemble des possibilités ouvertes par le développement scientifique et technique,\n\nont convenu l'accord dans les points suivants:\n\nARTICLE PREMIER\n\nSelon les possibilités, les Signataires soutiendront et promulgueront les mesures destinées à faciliter, développer et diversifier leur coopération humanitaire, scientifique et technique.\n\nARTICLE DEUXIÈME\n\nLes Signataires promulgueront et donneront leur appui à l'étude de projects et à l'éxecution d'accords de coopération humanitaire, scientifique et technique entre des organes portugais et des organes sous la dépendance de l'Ordre Souverain de Malte, concédant toutes les facilités possibles pour la réalisation de ces projects.\n\nARTICLE TROISIÈME\n\nDans ce but, les Signataires devront promouvoir et appuyer:\n\na) L'importation, avec exemption de droits de douane et autres impositions directement liées à l'importation, de biens d'equipement hospitalier et d'assistance, et de médicaments donnés par l'Ordre Souverain de Malte, à partir du moment où les biens en question sont destinés à être offerts à des organisations nationales humanitaires. Les Signataires permettront également le transit de ces mêmes biens;\n\nb) La réalisation, de part et d'autre, de recherches scientifiques tendant à améliorer l'assistance hospitalière;\n\nc) L'échange de spécialistes en vue de la réalisation d'études, de consultations, et de documentation dans le domaine de la science et de la technologie, spécialement dans le cadre de l'Académie de Pédiatrie de l'Ordre Souverain Militaire de Malte, du Comité Exécutif International de l'Ordre de Malte pour l'Assistance aux Lépreux (CIOMAL), de l'Association pour l'Étude du Problème Mondial des Réfugiés (AWR), de l'Aide Internationale de l'Ordre de Malte (AIOM), de l'Institut International de Droit Humanitaire et de l'Institut d'Études et Recherches Hospitalières;\n\nd) La coopération entre des institutions scientifiques dépendant des deux Signataires.\n\ne) L'échange de publications, documentation et autres renseignements d'ordre technique et scientifique;\n\nf) L'organisation de conférences, de cours et de colloques scientifiques et techniques d'interêt commun;\n\ng) Toutes autres sortes de coopération humanitaire, scientifique et technique.\n\nARTICLE QUATRIÈME\n\nLes Signataires devront indiquer les domaines dans lesquels le développement de la coopération scientifique et technique leur semble être utile et avantageux de part et d'autre.\n\nARTICLE CINQUIÈME\n\n1 - La coopération entreprise par les Signataires, quand étant au bénéfice des pays en voie de développement ou à l'occasion de grandes catastrophes pourra se réaliser avec l'appui de l'Aide International de l'Ordre de Malte (AIOM), du Comité Exécutif International de l'Ordre de Malte pour l'Assistance aux Lépreux (CIOMAL), de l'Association des Chevaliers Portugais de l'Ordre Souverain de Malte ou des Services d'Assistance de l'Ordre de Malte (SAOM) du Portugal.\n\n2 - Dans le domaine hospitalier et humanitaire en ce qui concerne les actions de coopération avec tiers, le Gouvernement Portugais donnera toutes les facilités possibles quant aux moyens de transport nécessaires à la réalisation de ces actions.\n\nARTICLE SIXIÈME\n\nDans les contrats de coopération humanitaire, scientifique et technique prévus dans le présent Accord pourront intervenir des personnes juridiques ou physiques y ayant été autorisées par les Signataires.\n\nARTICLE SEPTIÈME\n\n1 - Dans le but d'assurer l'application la plus convenable du présent Accord, les Signataires décident de créer une comission mixte, qui se réunira alternativement à Lisbonne et à Rome.\n\n2 - Cette comission mixte appréciera la manière dont se déroule la coopération entre les Signataires et pourra veiller à ce qui soient adoptées des mesures visant à l'expansion de cette coopération et devra ratifier chaque accord de coopération prévu à l'article deuxième pour être valable.\n\nARTICLE HUITIÈME\n\nLe présent Accord sera approuvé en conformité avec les dispositions constitutionnelles des Signataires et entrera en vigueur à la date accordée par l'échange de notes diplomatiques.\n\nARTICLE NEUVIÈME\n\nL'Accord sera en vigueur pour une durée de cinq ans et sera automatiquement renouvelé pour des périodes successives d'un an si aucun des Signataires ne le dénonce par écrit 3 mois avant que n'expire sa validité.\n\nARTICLE DIXIÈME\n\nLe présent Accord sera appliqué, après l'expiration de sa validité, aux mesures de coopération commencées avant l'expiration en question et encore en cours, jusqu'à ce qu'elles soient terminées.\n\nFait à Lisbonne le 14 mai 1983, en deux exemplaires originaux, en langue portugaise et en langue française, chaque texte faisant également foi.\n\nPour le Gouvernement Portugais:\n\nVasco Luís Caldeira Coelho Futsher Pereira.\n\nPour l'Ordre Souverain de Malte:\n\nBailli Comte Geraud Michel de Pierredon.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 227/1984, 1º Suplemento, Série I de 1984-09-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-308147), em vigor a partir de 1984-09-29"
+  }
+ }
+}

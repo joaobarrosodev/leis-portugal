@@ -1,0 +1,228 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:553917:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-58410673",
+ "dre_path": "/dr/detalhe/decreto-lei/74-2012-553917",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-03-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "58393617",
+    "58393618",
+    "58393619",
+    "58393620",
+    "58393621",
+    "58393622",
+    "58393623",
+    "58393624",
+    "58393625",
+    "58393626",
+    "58393627"
+   ]
+  },
+  {
+   "date": "2015-01-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66379753:por",
+     "title": "Decreto-Lei n.º 15/2015",
+     "published": "2015-01-30",
+     "dre_path": "/dr/detalhe/decreto-lei/15-2015-66379753"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "58393617",
+    "58393618",
+    "58393619",
+    "58393620",
+    "66476710",
+    "66476702",
+    "66476703",
+    "66476711",
+    "66476705",
+    "66476706",
+    "66476707",
+    "66476708",
+    "66476709"
+   ]
+  }
+ ],
+ "fragments": {
+  "58393617": {
+   "fragment_id": "58410674",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 74/2012\n\nde 26 de março\n\nO Memorando de Entendimento sobre as Condicionalidades de Política Económica, celebrado entre a República Portuguesa e o Banco Central Europeu, a Comissão Europeia e o Fundo Monetário Internacional, no quadro do programa de auxílio financeiro a Portugal, obriga à extinção das tarifas reguladas de venda de eletricidade e gás natural a clientes finais até 1 de janeiro de 2013.\n\nA prossecução destes objetivos, no âmbito do sector do gás natural, decorre também da Diretiva n.º <a href=\"eurlex.asp?ano=2009&id=309L0073\" title=\"Link para Directiva da Comunidade Europeia\">2009/73/CE</a>, do Parlamento Europeu e do Conselho, de 13 de julho de 2009, a qual, estabelecendo regras comuns para o mercado interno do gás natural, obriga à sua liberalização.\n\nAssim, em cumprimento da Diretiva n.º <a href=\"eurlex.asp?ano=2009&id=309L0073\" title=\"Link para Directiva da Comunidade Europeia\">2009/73/CE</a>, do Parlamento Europeu e do Conselho, de 13 de julho de 2009, e do referido Memorando de Entendimento, o Governo aprovou, em 28 de julho, a Resolução do Conselho de Ministros n.º 34/2011, apresentando, desta forma, o calendário para a extinção gradual das tarifas reguladas de venda a clientes finais de eletricidade e de gás natural.\n\nNo presente decreto-lei, estabelece-se o regime destinado a permitir a extinção, de forma gradual, por escalão de consumo anual, de todas as tarifas reguladas de venda de gás natural a clientes finais no território continental, concluindo assim o processo iniciado pelo Decreto-Lei n.º 66/2010, de 11 de junho, alterado pelo Decreto-Lei n.º 77/2011, de 20 de junho, que determinou a extinção das aludidas tarifas reguladas para clientes finais com consumos anuais superiores a 10 000 m3.\n\nO processo de extinção das tarifas reguladas concretiza-se através da eliminação das tarifas reguladas de venda de gás natural a clientes finais com consumos anuais inferiores ou iguais a 10 000 m3 e da introdução de mecanismos regulatórios de incentivo à adesão ao mercado de gás natural em regime de preço livres, que se manterão regulados, de forma transitória e no máximo, até 31 de dezembro de 2014 e até 31 de dezembro de 2015, consoante os clientes tenham consumos anuais iguais ou inferiores a 10 000 m3e superiores a 500 m3 ou inferiores ou iguais a 500 m3, respetivamente.\n\nO modelo de extinção gradual das tarifas reguladas de venda a clientes finais visa criar condições para que os comercializadores possam oferecer gás natural num contexto de efetiva concorrência, dinamizando a transição dos clientes para um mercado liberalizado. A concretização deste modelo em função dos escalões de consumo anual, acompanhada da introdução de mecanismos regulatórios incentivadores da transição para um mercado energético liberalizado, toma em consideração a sensibilidade dos consumidores compreendidos em cada um dos aludidos escalões à introdução de preços de mercado.\n\nO processo de extinção das tarifas reguladas será, assim, acompanhado pela adoção de mecanismos de salvaguarda dos clientes finais economicamente vulneráveis, designadamente, a possibilidade de serem fornecidos por um comercializador de último recurso e a adoção de instrumentos de relacionamento comercial adaptados às suas necessidades. Tais mecanismos de salvaguarda acrescem aos descontos aplicáveis aos clientes finais economicamente vulneráveis, designadamente à tarifa social do gás natural, estabelecida pelo Decreto-Lei n.º 101/2011, de 30 de setembro, e ao apoio social extraordinário ao consumidor de energia (ASECE), previsto no Decreto-Lei n.º 102/2011, de 30 de setembro.\n\nFoi ouvida a Entidade Reguladora dos Serviços Energéticos.\n\nFoi promovida a audição ao Conselho Nacional do Consumo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "58393618": {
+   "fragment_id": "58413575",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1 - O presente decreto-lei estabelece o regime de extinção das tarifas reguladas de venda de gás natural a clientes finais com consumos anuais inferiores ou iguais a 10 000 m3 e adota mecanismos de salvaguarda dos clientes finais economicamente vulneráveis, nomeadamente no que respeita ao relacionamento comercial e às tarifas e preços.\n\n2 - Para efeitos do presente diploma, são considerados clientes finais economicamente vulneráveis as pessoas que se encontrem nas condições de beneficiar da tarifa social de fornecimento de gás natural, nos termos do Decreto-Lei n.º 101/2011, de 30 de setembro."
+  },
+  "58393619": {
+   "fragment_id": "58413576",
+   "type": 11,
+   "heading": "Artigo 2.º — Extinção das tarifas reguladas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Extinção das tarifas reguladas\n\n1 - As tarifas reguladas de venda de gás natural a clientes finais com consumos anuais inferiores ou iguais a 10 000 m3 são extintas:\n\na) A partir de 1 de julho de 2012, para os clientes finais com consumos anuais superiores a 500 m3; e\n\nb) A partir de 1 de janeiro de 2013, para os clientes com consumos anuais inferiores ou iguais a 500 m3.\n\n2 - A partir das datas previstas no número anterior, os novos contratos de venda de gás natural a clientes finais são obrigatoriamente celebrados em regime de preços livres, sem prejuízo do estabelecido no número seguinte.\n\n3 - Os clientes finais economicamente vulneráveis, tendo o direito de aderir às formas de contratação oferecidas no mercado, podem optar por ser fornecidos pelo comercializador de último recurso, mantendo, em qualquer dos casos, o direito aos descontos na tarifa de acesso legalmente previstos."
+  },
+  "58393620": {
+   "fragment_id": "58413577",
+   "type": 11,
+   "heading": "Artigo 3.º — Mecanismos de incentivo à transição para o mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Mecanismos de incentivo à transição para o mercado\n\n1 - A transição para o fornecimento em regime de mercado livre dos clientes finais de gás natural é acompanhada pela criação de mecanismos regulatórios indutores da adesão gradual daqueles clientes às formas de contratação oferecidas no mercado.\n\n2 - Constituem mecanismos regulatórios de incentivo à transição para o regime de mercado livre dos clientes finais de gás natural, com consumos anuais inferiores ou iguais a 10 000 m3:\n\na) As tarifas transitórias de venda aplicáveis ao fornecimento de gás natural para o regime de comercialização de último recurso;\n\nb) Os deveres de informação relativos à extinção das tarifas reguladas e à transição para o regime de mercado."
+  },
+  "58393621": {
+   "fragment_id": "58413578",
+   "type": 11,
+   "heading": "Artigo 4.º — Tarifas transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tarifas transitórias\n\n1 - Sem prejuízo da extinção das tarifas reguladas nos termos e nas datas previstas no artigo 2.º, os comercializadores de último recurso devem continuar a fornecer gás natural a clientes finais com consumos anuais inferiores ou iguais a 10 000 m3 que não exerçam o direito de mudança para um comercializador de mercado livre, de acordo com os seguintes termos:\n\na) Para os clientes finais com consumo anual inferior ou igual a 10 000 m3 e superior a 500 m3, até 31 de dezembro de 2014;\n\nb) Para os clientes finais com consumo anual inferior ou igual a 500 m3, até 31 de dezembro de 2015;\n\nc) Para os clientes finais economicamente vulneráveis que assim optarem, nos termos a estabelecer por diploma legal.\n\n2 - A obrigação estabelecida nas alíneas a) e b) do número anterior cessa antecipadamente, no prazo de 120 dias após a data em que a Entidade Reguladora dos Serviços Energéticos (ERSE) torne público ter-se verificado que o número total de clientes finais de gás natural fornecidos em regime de mercado livre atingiu a percentagem de 90 % em relação ao total de clientes finais do respetivo escalão de consumo.\n\n3 - Compete à ERSE fixar as tarifas transitórias de venda de gás natural para consumos anuais inferiores ou iguais a 10 000 m3, as quais são determinadas pela soma das tarifas de energia, de acesso às redes e de comercialização, acrescidas de um montante resultante da aplicação de um fator de agravamento, o qual visa induzir a adesão gradual às formas de contratação oferecidas no mercado.\n\n4 - A ERSE procede, com a periodicidade mínima trimestral, à apreciação da evolução das condições de mercado com impacto nos pressupostos e parâmetros subjacentes à definição das tarifas transitórias e determina a atualização do fator de agravamento das tarifas transitórias, referido no número anterior, sempre que tal se justifique.\n\n5 - A receita proveniente do fator de agravamento referido no n.º 3 é repercutida a favor dos consumidores de gás natural através da tarifa de uso global do sistema, em termos a regular pela ERSE.\n\n6 - Às tarifas aplicáveis pelos comercializadores de último recurso aos clientes finais economicamente vulneráveis não será adicionado o montante resultante da aplicação do fator de agravamento referido no n.º 3."
+  },
+  "58393622": {
+   "fragment_id": "58413579",
+   "type": 11,
+   "heading": "Artigo 5.º — Mecanismos de salvaguarda dos clientes finais economicamente vulneráveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Mecanismos de salvaguarda dos clientes finais economicamente vulneráveis\n\n1 - Os clientes finais economicamente vulneráveis mantêm o direito a ser fornecidos por um comercializador de último recurso, nos termos a estabelecer por diploma legal.\n\n2 - Sem prejuízo do disposto na legislação de defesa do consumidor, em particular no regime jurídico aplicável aos serviços públicos essenciais, os clientes finais economicamente vulneráveis gozam, em especial, dos seguintes direitos:\n\na) A exigência de pagamento pelo serviço de fornecimento de gás natural ser comunicada ao cliente final economicamente vulnerável, por escrito, com uma antecedência mínima de 20 dias úteis relativamente à data-limite fixada para efetuar o pagamento;\n\nb) Em caso de mora no pagamento que justifique a interrupção do fornecimento, este só poderá ocorrer após o cliente final economicamente vulnerável ter sido interpelado, por escrito e com a antecedência mínima de 15 dias úteis, para cumprir."
+  },
+  "58393623": {
+   "fragment_id": "58413580",
+   "type": 11,
+   "heading": "Artigo 6.º — Deveres de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Deveres de informação\n\n1 - Sem prejuízo da utilização de outros meios complementares de informação que considere necessários, a ERSE publica no seu sítio na Internet toda a informação necessária à mudança de comercializador, designadamente:\n\na) A data de extinção das tarifas reguladas de venda de gás natural a clientes finais, nos termos do artigo 2.º;\n\nb) Os mecanismos regulatórios de incentivo à transição para o regime de mercado livre referidos no n.º 2 do artigo 3.º;\n\nc) Os valores das tarifas transitórias referidas no artigo 4.º;\n\nd) Os efeitos associados à ausência de mudança para um comercializador em regime de mercado livre;\n\ne) A lista de todos os comercializadores de gás natural a atuar no mercado, registados junto da Direção-Geral de Energia e Geologia;\n\nf) Os mecanismos de salvaguarda dos clientes finais economicamente vulneráveis.\n\n2 - Sem prejuízo da utilização de outros meios complementares de informação que a ERSE considere necessários, o comercializador de último recurso deve:\n\na) Até 30 dias após a entrada em vigor do presente decreto-lei, prestar, em conjunto com as faturas, a todos os seus clientes com consumos anuais inferiores ou iguais a 10 000 m3, a informação prevista no número anterior, repetindo esta informação nas faturas que emita subsequentemente;\n\nb) Nos três meses anteriores ao termo da aplicação das medidas previstas nos n.os 1 e 2 do artigo 4.º, alertar, nas faturas, os clientes do escalão de consumo abrangido para a aproximação da data de extinção das tarifas;\n\nc) Manter a informação prevista no número anterior disponível e atualizada no respetivo sítio na Internet até à extinção das tarifas transitórias, prevista no artigo 4.º\n\n3 - Os operadores das redes de distribuição de gás natural devem divulgar, através dos respetivos sítios na Internet, a informação prevista no n.º 1."
+  },
+  "58393624": {
+   "fragment_id": "58413581",
+   "type": 11,
+   "heading": "Artigo 7.º — Alteração ao Decreto-Lei n.º 30/2006, de 15 de fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Alteração ao Decreto-Lei n.º 30/2006, de 15 de fevereiro\n\nOs artigos 40.º e 43.º do Decreto-Lei n.º 30/2006, de 15 de fevereiro, alterado pelos Decretos-Leis n.os 66/2010, de 11 de junho, e 77/2011, de 20 de junho, passam a ter a seguinte redação:\n\n«Artigo 40.º\n\nExercício da atividade de comercialização de último recurso\n\n1 - ...\n\n2 - ...\n\n3 - A prestação de serviço público universal vigora enquanto forem aplicáveis as tarifas reguladas ou as tarifas transitórias legalmente previstas, ficando, após a extinção destas, resumida ao fornecimento de gás natural para a satisfação das necessidades dos clientes finais economicamente vulneráveis, nos termos da legislação aplicável, nomeadamente a relativa à proteção do consumidor.\n\n4 - ...\n\nArtigo 43.º\n\nRelacionamento comercial do comercializador de último recurso\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - O comercializador de último recurso deve aplicar tarifas reguladas de venda aos clientes finais e, a partir da extinção destas, as tarifas transitórias e as tarifas aplicáveis aos clientes finais economicamente vulneráveis legalmente previstas, em todos os casos conforme publicadas pela ERSE, de acordo com o estabelecido no Regulamento Tarifário.»"
+  },
+  "58393625": {
+   "fragment_id": "58413582",
+   "type": 11,
+   "heading": "Artigo 8.º — Alteração ao Decreto-Lei n.º 66/2010, de 11 de junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Alteração ao Decreto-Lei n.º 66/2010, de 11 de junho\n\nO artigo 5.º do Decreto-Lei n.º 66/2010, de 11 de junho, alterado pelo Decreto-Lei n.º 77/2011, de 20 de junho, passa a ter a seguinte redação:\n\n«Artigo 5.º\n\nDisposição transitória\n\n1 - Os comercializadores de último recurso devem, até 31 de dezembro de 2012, continuar a fornecer gás natural aos clientes finais de gás natural com consumos anuais superiores a 10 000 m3 que não tenham contratado no mercado livre o seu fornecimento.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...»"
+  },
+  "58393626": {
+   "fragment_id": "58413583",
+   "type": 11,
+   "heading": "Artigo 9.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regiões Autónomas\n\nO presente decreto-lei não é aplicável às Regiões Autónomas."
+  },
+  "58393627": {
+   "fragment_id": "58413584",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação, com exceção do n.º 2 do artigo 5.º, que entra em vigor em 1 de junho de 2012."
+  },
+  "66476710": {
+   "fragment_id": "58413578",
+   "type": 11,
+   "heading": "Artigo 4.º — Tarifas transitórias",
+   "in_force_from": "2015-01-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2015 - Diário da República n.º 21/2015, Série I de 2015-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2015-66379753), em vigor a partir de 2015-01-31, produz efeitos a partir de 2015-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Tarifas transitórias\n\n1 - Sem prejuízo da extinção das tarifas reguladas nos termos e nas datas previstas no artigo 2.º, os comercializadores de último recurso devem continuar a fornecer gás natural a clientes finais com consumos anuais inferiores ou iguais a 10 000 m3 que não exerçam o direito de mudança para um comercializador de mercado livre, até data a definir mediante portaria do membro do Governo responsável pela área da energia, ouvida a ERSE.\n\n2 - Na situação referida no número anterior é aplicada uma tarifa de venda transitória, fixada pela ERSE, determinada pela soma das tarifas de energia, de acesso às redes e de comercialização, sobre as quais se aplica um fator de agravamento, o qual visa induzir a adesão gradual às formas de contratação oferecidas no mercado.\n\n3 - O membro do Governo responsável pela área da energia, ouvida a ERSE, estabelece, através de portaria, o mecanismo de determinação do fator de agravamento referido no número anterior.\n\n4 - O mecanismo referido no número anterior deve obedecer a princípios de transparência das regras aplicáveis, clareza da sua aplicação, direito no acesso à informação, igualdade de tratamento e de oportunidades, racionalidade e eficiência e ter em consideração a transição verificada no número de clientes do mercado regulado para o mercado livre.\n\n5 - Os comercializadores em mercado livre não podem indexar o preço do contrato à tarifa transitória de venda a clientes finais, devendo aquele refletir os custos efetivos do fornecimento.\n\n6 - Os comercializadores em mercado livre não podem rever, em função das variações verificadas na aplicação do mecanismo previsto no presente artigo, o preço do contrato por aplicação de regras ou cláusulas de indexação, sob pena da nulidade da cláusula que o previr.\n\n7 - A receita proveniente do fator de agravamento referido no n.º 2 é repercutida a favor dos consumidores de gás natural através da tarifa de uso global do sistema, em termos a regular pela ERSE.\n\n8 - Às tarifas aplicáveis pelos comercializadores de último recurso aos clientes finais economicamente vulneráveis não é adicionado o montante resultante da aplicação do fator de agravamento referido no n.º 2.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2015 - Diário da República n.º 21/2015, Série I de 2015-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2015-66379753), em vigor a partir de 2015-01-31, produz efeitos a partir de 2015-01-01"
+  },
+  "66476702": {
+   "fragment_id": "66476808",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Regime sancionatório",
+   "in_force_from": "2015-01-31",
+   "changed_by": [
+    "Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 15/2015 - Diário da República n.º 21/2015, Série I de 2015-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2015-66379753), em vigor a partir de 2015-01-31, produz efeitos a partir de 2015-01-01"
+   ],
+   "markdown": "###### Artigo 4.º-A — Regime sancionatório\n\n1 - Constitui contraordenação leve, punível nos termos do disposto do artigo 2.º, na alínea j) do n.º 3 do artigo 29.º, e no n.º 4 do artigo 32.º da Lei n.º 9/2013, de 28 de janeiro, a indexação, pelos comercializadores em mercado livre, do preço do contrato de fornecimento à tarifa transitória de venda a clientes finais, bem como a revisão, pelos mesmos agentes, do preço do contrato de fornecimento em função das variações verificadas na aplicação do mecanismo previsto no artigo anterior, através de regras ou cláusulas de indexação, em derrogação do disposto nos n.os 5 e 6 do artigo anterior.\n\n2 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.\n\n3 - A tentativa é punível com a coima aplicável à contraordenação consumada especialmente atenuada.\n\n4 - Os processos de contraordenação previstos no presente decreto-lei são instruídos pela ERSE, aplicando-se, subsidiariamente, o disposto na Lei n.º 9/2013, de 28 de janeiro, que aprova o regime sancionatório do setor energético.\n\n5 - O produto da aplicação das coimas reverte a favor das seguintes entidades:\n\na) 60 % para o Estado;\n\nb) 40 % para a ERSE.\n\n> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 15/2015 - Diário da República n.º 21/2015, Série I de 2015-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2015-66379753), em vigor a partir de 2015-01-31, produz efeitos a partir de 2015-01-01"
+  },
+  "66476703": {
+   "fragment_id": "58413579",
+   "type": 11,
+   "heading": "Artigo 5.º — Mecanismos de salvaguarda dos clientes finais economicamente vulneráveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Mecanismos de salvaguarda dos clientes finais economicamente vulneráveis\n\n1 - Os clientes finais economicamente vulneráveis mantêm o direito a ser fornecidos por um comercializador de último recurso, nos termos a estabelecer por diploma legal.\n\n2 - Sem prejuízo do disposto na legislação de defesa do consumidor, em particular no regime jurídico aplicável aos serviços públicos essenciais, os clientes finais economicamente vulneráveis gozam, em especial, dos seguintes direitos:\n\na) A exigência de pagamento pelo serviço de fornecimento de gás natural ser comunicada ao cliente final economicamente vulnerável, por escrito, com uma antecedência mínima de 20 dias úteis relativamente à data-limite fixada para efetuar o pagamento;\n\nb) Em caso de mora no pagamento que justifique a interrupção do fornecimento, este só poderá ocorrer após o cliente final economicamente vulnerável ter sido interpelado, por escrito e com a antecedência mínima de 15 dias úteis, para cumprir."
+  },
+  "66476711": {
+   "fragment_id": "58413580",
+   "type": 11,
+   "heading": "Artigo 6.º — Deveres de informação",
+   "in_force_from": "2015-01-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2015 - Diário da República n.º 21/2015, Série I de 2015-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2015-66379753), em vigor a partir de 2015-01-31, produz efeitos a partir de 2015-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Deveres de informação\n\n1 - Sem prejuízo da utilização de outros meios complementares de informação que considere necessários, a ERSE publica no seu sítio na Internet toda a informação necessária à mudança de comercializador, designadamente:\n\na) A data de extinção das tarifas reguladas de venda de gás natural a clientes finais, nos termos do artigo 2.º;\n\nb) Os mecanismos regulatórios de incentivo à transição para o regime de mercado livre referidos no n.º 2 do artigo 3.º;\n\nc) Os valores das tarifas transitórias referidas no artigo 4.º;\n\nd) Os efeitos associados à ausência de mudança para um comercializador em regime de mercado livre;\n\ne) A lista de todos os comercializadores de gás natural a atuar no mercado, registados junto da Direção-Geral de Energia e Geologia;\n\nf) Os mecanismos de salvaguarda dos clientes finais economicamente vulneráveis.\n\n2 - Sem prejuízo da utilização de outros meios complementares de informação que a ERSE considere necessários, o comercializador de último recurso deve:\n\na) Até 30 dias após a entrada em vigor do presente decreto-lei, prestar, em conjunto com as faturas, a todos os seus clientes com consumos anuais inferiores ou iguais a 10 000 m3, a informação prevista no número anterior, repetindo esta informação nas faturas que emita subsequentemente;\n\nb) Alertar os clientes do escalão de consumo abrangido para o processo de extinção das respetivas tarifas, nos termos definidos em regulamentação da ERSE.\n\nc) Manter a informação prevista no número anterior disponível e atualizada no respetivo sítio na Internet até à extinção das tarifas transitórias, prevista no artigo 4.º\n\n3 - Os operadores das redes de distribuição de gás natural devem divulgar, através dos respetivos sítios na Internet, a informação prevista no n.º 1.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2015 - Diário da República n.º 21/2015, Série I de 2015-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2015-66379753), em vigor a partir de 2015-01-31, produz efeitos a partir de 2015-01-01"
+  },
+  "66476705": {
+   "fragment_id": "58413581",
+   "type": 11,
+   "heading": "Artigo 7.º — Alteração ao Decreto-Lei n.º 30/2006, de 15 de fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Alteração ao Decreto-Lei n.º 30/2006, de 15 de fevereiro\n\nOs artigos 40.º e 43.º do Decreto-Lei n.º 30/2006, de 15 de fevereiro, alterado pelos Decretos-Leis n.os 66/2010, de 11 de junho, e 77/2011, de 20 de junho, passam a ter a seguinte redação:\n\n«Artigo 40.º\n\nExercício da atividade de comercialização de último recurso\n\n1 - ...\n\n2 - ...\n\n3 - A prestação de serviço público universal vigora enquanto forem aplicáveis as tarifas reguladas ou as tarifas transitórias legalmente previstas, ficando, após a extinção destas, resumida ao fornecimento de gás natural para a satisfação das necessidades dos clientes finais economicamente vulneráveis, nos termos da legislação aplicável, nomeadamente a relativa à proteção do consumidor.\n\n4 - ...\n\nArtigo 43.º\n\nRelacionamento comercial do comercializador de último recurso\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - O comercializador de último recurso deve aplicar tarifas reguladas de venda aos clientes finais e, a partir da extinção destas, as tarifas transitórias e as tarifas aplicáveis aos clientes finais economicamente vulneráveis legalmente previstas, em todos os casos conforme publicadas pela ERSE, de acordo com o estabelecido no Regulamento Tarifário.»"
+  },
+  "66476706": {
+   "fragment_id": "58413582",
+   "type": 11,
+   "heading": "Artigo 8.º — Alteração ao Decreto-Lei n.º 66/2010, de 11 de junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Alteração ao Decreto-Lei n.º 66/2010, de 11 de junho\n\nO artigo 5.º do Decreto-Lei n.º 66/2010, de 11 de junho, alterado pelo Decreto-Lei n.º 77/2011, de 20 de junho, passa a ter a seguinte redação:\n\n«Artigo 5.º\n\nDisposição transitória\n\n1 - Os comercializadores de último recurso devem, até 31 de dezembro de 2012, continuar a fornecer gás natural aos clientes finais de gás natural com consumos anuais superiores a 10 000 m3 que não tenham contratado no mercado livre o seu fornecimento.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...»"
+  },
+  "66476707": {
+   "fragment_id": "58413583",
+   "type": 11,
+   "heading": "Artigo 9.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regiões Autónomas\n\nO presente decreto-lei não é aplicável às Regiões Autónomas."
+  },
+  "66476708": {
+   "fragment_id": "58413584",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação, com exceção do n.º 2 do artigo 5.º, que entra em vigor em 1 de junho de 2012."
+  },
+  "66476709": {
+   "fragment_id": "58413585",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de fevereiro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira.\n\nPromulgado em 15 de março de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 19 de março de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

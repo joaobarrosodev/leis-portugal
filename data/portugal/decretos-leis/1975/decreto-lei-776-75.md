@@ -1,0 +1,168 @@
+---
+schema_version: '1.0'
+id: pt:dre:355357:por
+title: Decreto-Lei n.º 776/75
+short_title: null
+summary: Insere disposições relativas aos militares dos quadros da Força Aérea que percam a aptidão necessária ao desempenho
+  das funções das respectivas especialidades - Revoga o Decreto-Lei n.º 54/73
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Conselho da Revolução - Estado-Maior da Força Aérea
+proposing_entity: null
+official_number: 776/75
+official_date: null
+publication_date: '1975-12-31'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 300/1975, 7º Suplemento, Série I de 1975-12-31
+  number: '300'
+  series: I
+  supplement: null
+  pages: 2160-(120) a 2160-(121)
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/12/30007/01200121.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '355357'
+  dre_path: /dr/detalhe/decreto-lei/776-1975-355357
+  internal: pt:dre:355357:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/776-1975-355357
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/776-1975-355357
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:48:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a204fbb427d4b20b72795574ef8d1434fb7a53f6547e9d75151de444d4b7ba4d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:48:31Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Força Aérea
+- Incapacidade Física
+- Militar
+- Reconversão Profissional
+- Remuneração Acessória
+- Transferência de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:626423:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:393208:por
+  label: "Desanexada e transmitida o seu domínio a favor da Junta Autónoma das estradas para fim de utilidade pública, de\
+    \ uma parcela com a superfície de 14540m2 do prédio rústico denominado Quinta da Caneca expropriado pelo presente diploma,\
+    \ pela PORT.67/79.08.02.1979.MFP, DR.IS [33] de 08.02.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/67-1979-393208
+  date: '1979-02-08'
+- type: amended_by
+  target: pt:dre:243680:por
+  label: "Alterados os arts. 1º, 3º, 4º e 7º pelo DEC LEI.434-T/82.29.10.1982.CR, DR.IS [251-4.º Supl] de 29.10.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/434-t-1982-243680
+  date: '1982-10-29'
+- type: cites
+  target: pt:dre:684666:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:507666:por
+  label: Rectificado pela DECL.DD8568.24.02.1976.EMGFA, DG.IS [46] de 24.02.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-507666
+  date: '1976-02-24'
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:48:31Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 776/75
+
+de 31 de Dezembro
+
+Convindo procurar um aproveitamento mais racional dos militares dos quadros da Força Aérea que percam a aptidão necessária ao desempenho das funções das respectivas especialidades;
+
+Considerando, portanto, a necessidade de rever os artigos 1.º, 3.º e 7.º do [Decreto-Lei n.º 54/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1973-684666), de 23 de Fevereiro;
+
+Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º - 1. O pessoal militar permanente privativo da Força Aérea pode, por perda não convenientemente recuperável de aptidão física ou psíquica de que resulte perda de aptidão técnica para o desempenho de funções essenciais do seu quadro, ser transferido para outro onde possam aproveitar-se a formação e os conhecimentos já adquiridos.
+
+2. O pessoal militar permanente especializado em pára-quedismo pode, por perda não convenientemente recuperável de aptidão física ou psíquica para a prática de pára-quedismo, mas de que não resulte perda de aptidão técnica para o desempenho de funções essenciais da sua especialidade em terra, ser autorizado a manter-se nos respectivos quadros quando circunstâncias especiais de serviço assim o aconselhem.
+
+3. Os pilotos aviadores, pilotos e navegadores da categoria de pessoal militar permanente podem, por perda não convenientemente recuperável da aptidão física ou psíquica de que resulte incapacidade para o desempenho de funções em voo, ser autorizados a manter-se nos respectivos quadros quando circunstâncias especiais o aconselhem e tiverem, pelo menos, seis anos de serviço a partir do ingresso no respectivo quadro.
+
+4. As funções que podem ser atribuídas ao pessoal referido nos n.os 2 e 3 deste artigo, e bem assim as condições de promoção de que podem vir a ser dispensados, são definidas pela Comissão Técnica da Força Aérea.
+
+Art. 2.º - 1. O pessoal militar não permanente privativo da Força Aérea pode, por perda não convenientemente recuperável de aptidão física, psíquica ou técnica para o exercício das funções da sua especialidade, ser transferido para outra onde possam aproveitar-se a formação e os conhecimentos já adquiridos.
+
+2. O pessoal militar não permanente especializado em pára-quedismo pode, por perda não convenientemente recuperável de aptidão física, psíquica ou técnica para o exercício das funções da sua especialidade, ser transferido para outra onde possam aproveitar-se a formação e os conhecimentos já adquiridos ou, se recuperável, regressar à especialidade de origem.
+
+3. A passagem à disponibilidade do pessoal referido nos n.os 2 e 3 só pode ter lugar após a prestação de um período de serviço efectivo não inferior ao fixado para a especialidade de origem.
+
+Art. 3.º As acções referidas nos artigos 1.º e 2.º, quando resultantes da perda de aptidão física ou psíquica, são determinadas pelo Chefe do Estado-Maior da Força Aérea, mediante propostas da Junta de Saúde da Força Aérea e ouvida a Comissão Técnica da Força Aérea.
+
+Art. 4.º - 1. As acções referidas no artigo 2.º, quando resultantes de perda de aptidão técnica, são determinadas pelo Chefe do Estado-Maior da Força Aérea, mediante propostas dos subchefes do Estado-Maior da Força Aérea, comandante da região e zona aérea, directores dos serviços da Força Aérea e comandantes das unidades, segundo os casos.
+
+2. A execução das acções mencionadas no n.º 1 será precedida da averiguação do grau da responsabilidade do pessoal em causa quanto à perda de aptidão técnica.
+
+Art. 5.º O pessoal militar permanente privativo da Força Aérea transferido de quadro, nos termos do n.º 1 do artigo 1.º, ingressa no novo quadro no posto e com a antiguidade que possuía, mantendo-se na situação de supranumerário enquanto não tiver vacatura.
+
+Art. 6.º - 1. O pessoal militar não permanente transferido de especialidade por perda de aptidão física ou psíquica, nos termos dos n.os 1 e 2 do artigo 2.º, mantém na nova especialidade o posto e a antiguidade que possuía.
+
+2. O mesmo pessoal, se transferido de especialidade por perda de aptidão técnica não resultante de perda de aptidão física ou psíquica, é colocado na nova especialidade à esquerda de todos os militares de igual posto nela existentes.
+
+Art. 7.º - 1. O pessoal militar permanente a quem seja devida gratificação de serviço aéreo e nos termos dos n.os 1, 2 e 3 do artigo 1.º seja transferido de quadro, se mantenha no respectivo quadro ou regresse ao quadro de origem, passa a ser abonado daquela gratificação em quantitativo igual ao que perceberia se então não tivesse transitado para a situação de reserva.
+
+2. O quantitativo da gratificação de serviço aéreo referido no número anterior será actualizado de acordo com as disposições que vigorarem sobre actualização das pensões de reserva.
+
+Art. 8.º É revogado o [Decreto-Lei n.º 54/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1973-684666), de 23 de Fevereiro.
+
+Visto e aprovado em Conselho da Revolução.
+
+Promulgado em 31 de Dezembro de 1975.
+
+Publique-se.
+
+O Presidente da República, FRANCISCO DA COSTA GOMES.

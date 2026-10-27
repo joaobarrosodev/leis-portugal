@@ -1,0 +1,169 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993L0065:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0065-20051020",
+ "dre_path": null,
+ "source_lastmod": "2005-10-20",
+ "versions": [
+  {
+   "date": "1993-07-29",
+   "future": false,
+   "celex": "31993L0065",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f449a0f193996a2e",
+    "82606ce332ab65ad",
+    "5e9dc14c6fdb4a07",
+    "787b0581bf8b874d",
+    "2b71817b5afdee69",
+    "ada482ecf74b4123",
+    "6d65071fdbe0154f",
+    "d8d928cfc9539b85",
+    "39a02aebc8791cd5",
+    "3bdfc77cfa8ea8ab",
+    "52a315a588c91bb8",
+    "6485cb9b60c83e7b",
+    "f6998068026c5874"
+   ]
+  },
+  {
+   "date": "2005-10-20",
+   "future": false,
+   "celex": "01993L0065-20051020",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime ANEXO I — NORMAS EUROCONTROL REFERIDAS NO ARTIGO 3o LISTA INDICATIVA Sistemas de comunicação",
+    "Suprime ANEXO II — ENTIDADES ADJUDICANTES RESPONSÁVEIS PELA AQUISIÇÃO DE EQUIPAMENTOS DE NAVEGAÇÃO AÉREA Eurocontrol"
+   ],
+   "fragments": [
+    "0c9a027a53de2882"
+   ]
+  }
+ ],
+ "fragments": {
+  "f449a0f193996a2e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 93/65/CEE do Conselho, de 19 de Julho de 1993, relativa à definição e à utilização de especificações técnicas compatíveis para a aquisição de equipamentos e de sistemas para a gestão de tráfego aéreo** *Jornal Oficial nº L 187 de 29/07/1993 p. 0052 - 0056 Edição especial finlandesa: Capítulo 7 Fascículo 4 p. 0202 Edição especial sueca: Capítulo 7 Fascículo 4 p. 0202*\n\nDIRECTIVA 93/65/CEE DO CONSELHO de 19 de Julho de 1993 relativa à definição e à utilização de especificações técnicas compatíveis para a aquisição de equipamentos e de sistemas para a gestão de tráfego aéreo\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o no 2 do seu artigo 84o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que o congestionamento do tráfego aéreo está a causar sérias dificuldades aos transportes aéreos na Europa;\n\nConsiderando que, até à data, os sistemas de gestão foram desenvolvidos e aplicados dentro da observância das disposições da Organização da Aviação Civil Internacional (OACI), que autorizam uma interpretação nacional ou local;\n\nConsiderando que a definição e a aplicação de normas comunitárias constitui uma abordagem eficaz de gestão do tráfego aéreo em geral, pois que a situação actual, baseada em sistemas nacionais ou locais, gerou incompatibilidades técnicas e operacionais que entravam a transferência dos voos controlados entre organismos de controlo situados nos diferentes Estados-membros;\n\nConsiderando que importa recordar o importante trabalho desenvolvido pela Conferência Europeia da Aviação Civil (CEAC) e o Eurocontrol no domínio da gestão do tráfego aéreo e as conclusões dos ministros da CEAC adoptadas em Abril de 1990 e Março de 1992 pertinentes para o mesmo domínio;\n\nConsiderando que será necessário alcançar uma integração funcional que permita, a curto prazo, resolver os problemas de congestionamento e melhorar a fluidez do tráfego;\n\nConsiderando que o processo de harmonização e integração ficaria facilitado se todos os Estados-membros aderissem à Convenção Internacional de Cooperação para a Segurança da Navegação Aérea;\n\nConsiderando que, na sequência da Resolução 89/C 189/02 (4), o processo de adesão de todos os Estados-membros à Convenção Internacional de Cooperação para a Segurança da Navegação Aérea, como partes contratantes, ficará facilitado se todos os Estados-membros que já são partes contratantes da referida convenção envidarem todos os esforços no interior do Eurocontrol para que, sempre que necessário, se adoptem as medidas aptas a facilitar tal adesão;\n\nConsiderando que as especificações técnicas adoptadas pelo Eurocontrol são desenvolvidas em conformidade com as normas e práticas recomendadas pela OACI;\n\nConsiderando que convém habilitar a Comissão, assistida por um comité de representantes dos Estados-membros, em conformidade com o procedimento adoptado pela Decisão 87/373/CEE do Conselho, de 13 de Julho de 1987, que fixa as modalidades de exercício da competência de execução atribuída à Comissão (5), a tornar obrigatórias ao nível comunitário certas normas Eurocontrol;\n\nConsiderando que a normalização europeia constitui um elemento essencial para garantir um nível de segurança homogéneo da gestão do tráfego aéreo e que será conveniente instaurar uma cooperação entre o Eurocontrol e as organizações europeias de normalização;\n\nConsiderando que convém precisar que, de acordo com o disposto na Directiva 83/189/CEE do Conselho, de 28 de Março de 1983, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas (6), a Comissão, após consulta ao Eurocontrol, pode confiar às organizações europeias de normalização mandatos com vista à elaboração das normas europeias em apoio das necessidades dos sistemas de gestão do tráfego aéreo;\n\nConsiderando que o equipamento colocado legalmente no mercado de um Estado-membro deverá sempre poder circular livremente no território dos demais Estados-membros;\n\nConsiderando que a Convenção Internacional de Cooperação para a Segurança da Navegação Aérea designa o Eurocontrol como o instrumento adequado para a prossecução das acções necessárias a resolver os problemas actualmente existentes na Europa;\n\nConsiderando que a segurança constitui um factor-chave para os transportes aéreos na Comunidade; que as disposições da presente directiva devem ter em conta a existência da Convenção sobre a Aviação Civil Internacional, assinada em Chicago em 7 de Dezembro de 1944, que prevê a adopção de todas as medidas que sejam necessárias para garantir a segurança e o desenvolvimento ordenado da aviação civil internacional;\n\nConsiderando que a Directiva 77/62/CEE do Conselho, de 21 de Dezembro de 1976, relativa à coordenação dos processos de celebração dos contratos de fornecimento de direito público (7), e a Directiva 90/531/CEE do Conselho, de 17 de Setembro de 1990, relativa aos procedimentos de celebração dos contratos de direito público nos sectores da água, da energia, dos transportes e das telecomunicações (8), são aplicáveis ao sector da gestão do tráfego aéreo e que é necessário precisar quais as entidades adjudicantes;\n\nConsiderando que, em certos Estados-membros, as aquisições de equipamentos de navegação aérea não estão abrangidas pelas directivas acima citadas, mas que, mesmo assim, as normas Eurocontrol incorporadas no ordenamento jurídico comunitário devem ser cumpridas em todos os Estados-membros,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "82606ce332ab65ad": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nA presente directiva tem por objecto a definição e a utilização de especificações técnicas compatíveis para a aquisição de equipamentos e de sistemas para a gestão do tráfego aéreo, e especialmente no que se refere a:\n\n- sistemas de comunicação,\n\n- sistemas de vigilância,\n\n- sistemas de assistência automática ao controlo do tráfego aéreo,\n\n- sistemas de navegação."
+  },
+  "5e9dc14c6fdb4a07": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nPara efeitos da presente directiva, deve entender-se por:\n\na) Especificação técnica, qualquer exigência técnica que conste, nomeadamente, dos cadernos de encargos que definam as características exigidas de um trabalho, de um material, de um produto ou de um fornecimento, e que permitam caracterizar objectivamente um trabalho, um material, um produto ou um fornecimento de forma a que correspondam à utilização a que são destinados pela entidade adjudicante. Estas prescrições técnicas podem incluir a qualidade, o desempenho, a segurança, as dimensões, bem como as prescrições aplicáveis ao material, ao produto ou ao fornecimento no que respeita aos sistemas de garantia da qualidade, à terminologia, aos símbolos, aos ensaios e métodos de ensaio, à embalagem, à marcação e à rotulagem.\n\nb) Norma, qualquer especificação técnica aprovada por um organismo de normalização reconhecido, para aplicação repetida ou continuada, cuja observância não é, em princípio, obrigatória.\n\nc) Normas Eurocontrol, os elementos obrigatórios das especificações Eurocontrol relativas às características físicas, à configuração, ao material, ao desempenho, ao pessoal ou às questões de procedimento, cuja aplicação uniforme seja reconhecida como sendo essencial para aplicação de um sistema de Serviços de Tráfego Aéreo (ATS) integrado. (Os elementos obrigatórios fazem parte de um documento de normas Eurocontrol.)"
+  },
+  "787b0581bf8b874d": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. A Comissão identificará e adoptará, em conformidade com o procedimento definido no artigo 6o, nomeadamente no que se refere aos domínios indicados no anexo I, as normas Eurocontrol e as posteriores alterações Eurocontrol a essas normas, cuja observância será tornada obrigatória ao abrigo da legislação comunitária. A Comissão deve publicar no Jornal Oficial das Comunidades Europeias as referências de todas as especificações técnicas que passem assim a ser obrigatórias.\n\n2. A fim de garantir que o anexo I - que contém a lista dos domínios que devem ser abrangidos pelas normas Eurocontrol a elaborar - seja tão completo quanto possível, a Comissão alterá-lo-á de acordo com as alterações efectuadas pelo Eurocontrol, seguindo o processo do artigo 6o e em consulta com o Eurocontrol.\n\n3. A República Italiana e o Reino de Espanha podem adiar a aplicação da presente directiva pelo período de um ano. Se, no termo desse período, os referidos Estados-membros não puderem aplicar as normas Eurocontrol, o Conselho decidirá, em conformidade com o Tratado, das medidas adequadas a adoptar."
+  },
+  "2b71817b5afdee69": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nCom vista a complementar, se necessário, o trabalho de aplicação das normas Eurocontrol, a Comissão pode, em conformidade com as disposições da Directiva 83/189/CEE e em consulta com o Eurocontrol, confiar mandatos de normalização às organizações europeias de normalização."
+  },
+  "ada482ecf74b4123": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Sem prejuízo do disposto nas directivas 77/62/CEE e 90/531/CEE, os Estados-membros devem tomar as medidas necessárias para que as entidades adjudicantes civis definidas no anexo II façam remissão para as especificações adoptadas nos termos da presente directiva nos documentos gerais ou nos cadernos de encargos relativos a cada contrato aquando da aquisição de equipamentos de navegação aérea.\n\n2. Com o objectivo de assegurar que o anexo II seja tão completo quanto possível, os Estados-membros notificarão à Comissão as alterações efectuadas nas suas listas. A Comissão alterará este anexo em conformidade com o procedimento previsto no artigo 6o"
+  },
+  "6d65071fdbe0154f": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. A Comissão é assistida por um comité constituído pelos representantes dos Estados-membros e presidido pelo representante da Comissão.\n\n2. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer será emitido por maioria, nos termos previstos no no 2 do artigo 148o do Tratado para adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\n3. A Comissão adoptará as medidas previstas quando estiverem em conformidade com o parecer do comité.\n\n4. Quando as medidas previstas não estiverem em conformidade com o parecer do comité, ou na falta de parecer, a Comissão submeterá imediatamente ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\n5. Se, no termo de um prazo de três meses a contar da data em que a proposta da Comissão lhe foi submetida, o Conselho não tiver adoptado medidas, a Comissão adoptará as medidas propostas, salvo no caso de o Conselho se pronunciar por maioria simples contra as medidas em causa."
+  },
+  "d8d928cfc9539b85": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nA Comissão, no exercício das suas competências, consultará periodicamente os organismos europeus envolvidos, tais como os representantes a nível europeu dos organismos de navegação aérea, dos utilizadores do espaço aéreo e das organizações profissionais, e informará o comité referido no artigo 6o sobre os resultados destas consultas."
+  },
+  "39a02aebc8791cd5": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. A Comissão apresentará periodicamente ao Parlamento Europeu e ao Conselho um relatório sobre o funcionamento do regime instituído pela presente directiva, se necessário acompanhado de propostas de aplicação do disposto nos artigos 3o e 4o\n\n2. Os Estados-membros informarão anualmente a Comissão das medidas que adoptarem para atingir os objectivos da presente directiva."
+  },
+  "3bdfc77cfa8ea8ab": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar um ano após a sua adopção. Do facto informarão imediatamente a Comissão.\n\nAquando da adopção das disposições referidas no no 1 pelos Estados-membros, estas devem incluir uma referência à presente directiva ou ser acompanhadas de uma tal referência aquando da sua publicação oficial. As modalidades desta referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão os textos das principais disposições legislativas nacionais por eles adoptadas no domínio regido pela presente directiva. A Comissão informará do facto os restantes Estados-membros."
+  },
+  "52a315a588c91bb8": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 19 de Julho de 1993.\n\nPelo Conselho\n\nO Presidente\n\nW. CLAES\n\n(1) JO no C 244 de 23. 9. 1992, p. 16.\n\n(2) Parecer emitido em 25 de Junho de 1993 (ainda não publicado no Jornal Oficial).\n\n(3) JO no C 19 de 25. 1. 1993, p. 39.\n\n(4) JO no C 189 de 26. 7. 1989, p. 3.\n\n(5) JO no L 197 de 18. 7. 1987, p. 33.\n\n(6) JO no L 109 de 26. 4. 1983, p. 8. Directiva com a última redacção que lhe foi dada pela Decisão 92/400/CEE da Comissão (JO no L 221 de 6. 8. 1992, p. 55).\n\n(7) JO no L 13 de 15. 1. 1977, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 92/50/CEE (JO no L 209 de 24. 7. 1992, p. 1).\n\n(8) JO no L 297 de 29. 10. 1990, p. 1."
+  },
+  "6485cb9b60c83e7b": {
+   "fragment_id": "ANEXO I — NORMAS EUROCONTROL REFERIDAS NO ARTIGO 3o LISTA INDICATIVA Sistemas de comunicação",
+   "type": "divisao",
+   "heading": "ANEXO I — NORMAS EUROCONTROL REFERIDAS NO ARTIGO 3o LISTA INDICATIVA Sistemas de comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — NORMAS EUROCONTROL REFERIDAS NO ARTIGO 3o LISTA INDICATIVA Sistemas de comunicação\n\nIntercâmbio de dados relativos ao plano de voo (formato de mensagem) (1)()\n\nTroca de mensagens entre estações radar (formato de mensagem ASTERIX) (**)\n\nSistemas telefónicos para os ATS (**)\n\nIntercâmbio de dados em linha (OLDI) (2)()\n\nSistemas de atribuição automática do código SSR (**)\n\nSistemas de navegação\n\nRNAV (**)\n\nSeparação radar (3)()\n\nAlerta de conflito de prazo curto (STCA) (***)\n\nSistemas de vigilância\n\nEspecificações de vigilância (**)\n\nUtilização partilhada dos meios de radar (***)\n\n(1)() Existentes.\n\n(2)() Projecto pronto.\n\n(3)() Redacção ainda não iniciada."
+  },
+  "f6998068026c5874": {
+   "fragment_id": "ANEXO II — ENTIDADES ADJUDICANTES RESPONSÁVEIS PELA AQUISIÇÃO DE EQUIPAMENTOS DE NAVEGAÇÃO AÉREA Eurocontrol",
+   "type": "divisao",
+   "heading": "ANEXO II — ENTIDADES ADJUDICANTES RESPONSÁVEIS PELA AQUISIÇÃO DE EQUIPAMENTOS DE NAVEGAÇÃO AÉREA Eurocontrol",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — ENTIDADES ADJUDICANTES RESPONSÁVEIS PELA AQUISIÇÃO DE EQUIPAMENTOS DE NAVEGAÇÃO AÉREA Eurocontrol\n\nrue de la Loi, 72\n\nB-1040 Bruxelles\n\nBélgica\n\nRégie des Voies Aériennes\n\nCCN - Rue du Progrès 80\n\nB-1210 Bruxelles\n\nDinamarca\n\nStatens Luftfartsvaesen\n\n(Civil Aviation Administration)\n\nPostbox 744\n\nDK-Copenhagen SV\n\nAlemanha\n\nDFS Deutsche Flugsicherung GMBH\n\nKaiserleistr. 29-35\n\nD-6050 Offenbach am Main\n\nGrécia\n\nMinistry of Transport and Communications\n\nCivil Aviation Department\n\nFinancial Administration and Procurement Directorate\n\nPurchasing Section\n\nPostal address\n\nVasileos Georgiou 1\n\nPO Box 73751\n\n16.604-Elliniko\n\nAthens-Greece\n\nTelephone (0030-1-)-89 47 71 21\n\nEspanha\n\nAENA (Aeropuertos Españoles y Navegación Aérea)\n\nc/. Santa Engracia, 120\n\nE-Madrid\n\nFrança\n\nLe Directeur général de l'Aviation civile\n\n93 Boulevard du Montparnasse\n\nF-75270 Paris Cedex 06\n\nque delega, em especial, a:\n\n- Monsieur le Chef du Service Technique de la Navigation Aérienne\n\n246 Rue Lecourbe\n\nF-75732 Paris Cedex 15\n\n- Monsieur le Directeur Général des Aéroports de Paris\n\n291 Boulevard Raspail\n\nF-75675 Paris Cedex 14\n\nIrlanda\n\nThe Department of Tourism, Transport and Communications\n\nAir Navigation Services Office\n\nCorporate Services Division\n\nScotch House\n\nHawkins Street\n\nIRL-Dublin 2\n\nItália\n\nAAAVTAG\n\nAzienda Autonoma Assistenza al Volo per il Traffico Aereo Generale\n\nVia Salaria, 715\n\nI-00138 Roma\n\nLuxemburgo\n\nMinistère des Transports\n\nDirection de l'Aviation civile\n\nL-2938 Luxembourg\n\nPaíses Baixos\n\nLuchtverkeersbeveiliging\n\nPostbus 7601\n\nNL-1118 ZJ Luchthaven Schiphol\n\nPortugal\n\nEmpresa Pública de Aeroportos e Navegação Aérea (ANA, EP)\n\nAvenida Sidónio Pais, no 8-5o\n\nP-1000 Lisboa\n\nNota: As aquisições para os aeródromos e pequenos aeroportos podem ser feitas pelas autarquias locais ou pelos governos regionais.\n\nReino Unido\n\nCivil Aviation Authority\n\nCAA House\n\n45-59 Kingsway\n\nUK-London WC2B 6TE\n\nHighlands & Islands Airports Ltd (HIAL)\n\nInverness Airport\n\nInverness\n\nScotland"
+  },
+  "0c9a027a53de2882": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993L0065 — PT — 20.10.2005 — 005.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31993L0065) [DIRECTIVA 93/65/CEE DO CONSELHO](http://publications.europa.eu/resource/celex/31993L0065) [de 19 de Julho de 1993](http://publications.europa.eu/resource/celex/31993L0065) [relativa à definição e à utilização de especificações técnicas compatíveis para a aquisição de equipamentos e de sistemas para a gestão de tráfego aéreo](http://publications.europa.eu/resource/celex/31993L0065) (JO L 187, 29.7.1993, p.52)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 552/2004 do Parlamento Europeu e do Conselho de 10 de Março de 2004](http://publications.europa.eu/resource/celex/32004R0552) — L 96 — 26 — 31.3.2004"
+  }
+ }
+}

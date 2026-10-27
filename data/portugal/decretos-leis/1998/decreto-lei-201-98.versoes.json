@@ -1,0 +1,478 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:485052:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-886100440",
+ "dre_path": "/dr/detalhe/decreto-lei/201-1998-485052",
+ "source_lastmod": "2024-08-28",
+ "versions": [
+  {
+   "date": "1998-07-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "886100544",
+    "886100545",
+    "886100546",
+    "886100547",
+    "886100548",
+    "886100549",
+    "886100550",
+    "886100551",
+    "886100552",
+    "886100553",
+    "886100554",
+    "886100555",
+    "886100556",
+    "886100557",
+    "886100558",
+    "886100559",
+    "886100560",
+    "886100561",
+    "886100562",
+    "886100563",
+    "886100564",
+    "886100565",
+    "886100566",
+    "886100567",
+    "886100568",
+    "886100569",
+    "886100570",
+    "886100571",
+    "886100572",
+    "886100573",
+    "886100574",
+    "886155575",
+    "886155576",
+    "886155577",
+    "886155578",
+    "886155579",
+    "886155580",
+    "886155581",
+    "886155582"
+   ]
+  },
+  {
+   "date": "1998-07-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:182253:por",
+     "title": "Declaração de Rectificação n.º 11-P/98",
+     "published": "1998-07-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/11-p-1998-182253"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 10.º",
+    "Retifica Artigo 19.º",
+    "Retifica Artigo 21.º",
+    "Retifica Artigo 28.º"
+   ],
+   "fragments": [
+    "886100544",
+    "886100545",
+    "886100546",
+    "886100547",
+    "886100548",
+    "886100549",
+    "886100550",
+    "886100551",
+    "886100552",
+    "886100553",
+    "886100554",
+    "886155586",
+    "886100556",
+    "886100557",
+    "886100558",
+    "886100559",
+    "886100560",
+    "886100561",
+    "886100562",
+    "886100563",
+    "886100564",
+    "886155587",
+    "886100566",
+    "886155588",
+    "886100568",
+    "886100569",
+    "886100570",
+    "886100571",
+    "886100572",
+    "886100573",
+    "886155589",
+    "886155575",
+    "886155576",
+    "886155577",
+    "886155578",
+    "886155579",
+    "886155580",
+    "886155581",
+    "886155582",
+    "886155583"
+   ]
+  }
+ ],
+ "fragments": {
+  "886100544": {
+   "fragment_id": "886100441",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 201/98\n\nde 10 de Julho\n\nO presente diploma define o estatuto legal do navio. A matéria assume grande importância, por força do frequente contacto do navio com as mais diversas ordens jurídicas, no âmbito da sua normal exploração e dos direitos e obrigações que dela emergem. Trata-se de matéria cuja regulamentação as convenções internacionais têm deixado, de um modo geral, às ordens jurídicas internas.\n\nEntre nós vigoram as antiquadas normas do Código Comercial de 1888. Tais normas, além de não chegarem a constituir um quadro legal consistente, correspondem a uma realidade muito distante daquela que se vive nos nossos dias.\n\nCom o novo regime consagra-se, no âmbito do direito substantivo, a sujeição a registo dos navios e dos factos jurídicos aos mesmos respeitantes e fixa-se, em termos gerais, o seu modo de identificação.\n\nAtribui-se âmbito mais amplo ao princípio da personalidade e capacidade judiciárias já anteriormente previsto no artigo 28.º do Decreto-Lei n.º 352/86, de 21 de Outubro, e adopta-se uma posição actualizada sobre o conceito de navegabilidade, fundamental no direito marítimo.\n\nConsagra-se o princípio de que o arresto e a penhora de navio e mercadorias podem ser efectuados mesmo que o navio já se encontre despachado para viagem, perfilhando-se assim a solução da Convenção Internacional para Unificação de Certas Regras sobre o Arresto de Navios de Mar, assinada em Bruxelas em 10 de Maio de 1952.\n\nUniformiza-se igualmente a forma dos contratos relativos aos direitos reais sobre o navio, em consonância com a solução internacionalmente generalizada e regulam-se as principais questões relativas aos contratos de construção e de reparação de navios, tomando-se como referência a disciplina do contrato de empreitada.\n\nAssim, nos termos da alínea a) do n.º 1 do artigo 198.º e do n.º 5 do artigo 112.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "886100545": {
+   "fragment_id": "886100442",
+   "type": 1,
+   "heading": "Capítulo I — Navio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Navio"
+  },
+  "886100546": {
+   "fragment_id": "886100443",
+   "type": 11,
+   "heading": "Artigo 1.º — Noção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Noção\n\n1 - Para efeitos do disposto no presente diploma, navio é o engenho flutuante destinado à navegação por água.\n\n2 - Fazem parte integrante do navio, além da máquina principal e das máquinas auxiliares, todos os aparelhos, aprestos, meios de salvação, acessórios e mais equipamentos existentes a bordo necessários à sua operacionalidade."
+  },
+  "886100547": {
+   "fragment_id": "886100444",
+   "type": 11,
+   "heading": "Artigo 2.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Registo\n\nOs navios e os factos a eles respeitantes estão sujeitos a registo, nos termos do disposto na legislação respectiva."
+  },
+  "886100548": {
+   "fragment_id": "886100445",
+   "type": 11,
+   "heading": "Artigo 3.º — Nacionalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Nacionalidade\n\n1 - Consideram-se nacionais os navios cuja propriedade se encontra registada em Portugal.\n\n2 - A atribuição da nacionalidade portuguesa confere ao navio o direito ao uso da respectiva bandeira, com os direitos e as obrigações que lhe são inerentes."
+  },
+  "886100549": {
+   "fragment_id": "886100446",
+   "type": 11,
+   "heading": "Artigo 4.º — Nome",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Nome\n\n1 - A todos os navios deve ser atribuído um nome.\n\n2 - O nome a atribuir ao navio está sujeito a prévia aprovação do serviço público competente e deve ser bem distinto dos que já se encontram registados."
+  },
+  "886100550": {
+   "fragment_id": "886100447",
+   "type": 11,
+   "heading": "Artigo 5.º — Número de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Número de identificação\n\nOs navios de tonelagem inferior a 100 t de deslocamento, assim como os destinados exclusivamente a águas interiores, podem ser identificados apenas por um número atribuído pelo serviço público competente."
+  },
+  "886100551": {
+   "fragment_id": "886100448",
+   "type": 11,
+   "heading": "Artigo 6.º — Inscrições no casco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Inscrições no casco\n\nO nome do navio, o seu número de identificação e o nome do local onde o mesmo se encontra registado devem ser inscritos no casco, de acordo com a legislação aplicável."
+  },
+  "886100552": {
+   "fragment_id": "886100449",
+   "type": 11,
+   "heading": "Artigo 7.º — Personalidade e capacidade judiciárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Personalidade e capacidade judiciárias\n\nOs navios têm personalidade e capacidade judiciárias nos casos e para os efeitos previstos na lei."
+  },
+  "886100553": {
+   "fragment_id": "886100450",
+   "type": 11,
+   "heading": "Artigo 8.º — Navegabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Navegabilidade\n\nA navegabilidade do navio depende da verificação das condições técnicas a que o mesmo deva obedecer, de acordo com a legislação em vigor, e do preenchimento dos requisitos necessários à viagem que vai empreender e à carga que vai transportar."
+  },
+  "886100554": {
+   "fragment_id": "886100451",
+   "type": 11,
+   "heading": "Artigo 9.º — Arresto e penhora de navio e mercadorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Arresto e penhora de navio e mercadorias\n\n1 - O navio pode ser arrestado ou penhorado mesmo que se encontre despachado para viagem.\n\n2 - O disposto no número anterior é aplicável aos géneros ou mercadorias carregados em navio que se achar nas circunstâncias previstas no número anterior."
+  },
+  "886100555": {
+   "fragment_id": "886100452",
+   "type": 11,
+   "heading": "Artigo 10.º — Forma dos contratos relativos a direitos reais sobre o navio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Forma dos contratos relativos a direitos reais sobre o navio\n\nOs contratos que impliquem a constituição, modificação, transmissão ou extinção de direitos reais sobre navio devem ser celebrados por escrito, com reconhecimento presencial da assinatura dos outorgantes."
+  },
+  "886100556": {
+   "fragment_id": "886100453",
+   "type": 11,
+   "heading": "Artigo 11.º — Lei reguladora dos direitos reais sobre o navio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Lei reguladora dos direitos reais sobre o navio\n\nAs questões relacionadas com direitos reais sobre o navio são reguladas pela lei da nacionalidade que este tiver ao tempo da constituição, modificação, transmissão ou extinção do direito em causa."
+  },
+  "886100557": {
+   "fragment_id": "886100454",
+   "type": 1,
+   "heading": "Capítulo II — Contrato de construção de navio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Contrato de construção de navio"
+  },
+  "886100558": {
+   "fragment_id": "886100455",
+   "type": 11,
+   "heading": "Artigo 12.º — Forma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Forma\n\nO contrato de construção de navio e as suas alterações estão sujeitos a forma escrita."
+  },
+  "886100559": {
+   "fragment_id": "886100456",
+   "type": 11,
+   "heading": "Artigo 13.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regime\n\nO contrato de construção de navio é disciplinado pelas cláusulas do respectivo instrumento contratual e, subsidiariamente, pelas normas aplicáveis ao contrato de empreitada que não contrariem o disposto no presente diploma."
+  },
+  "886100560": {
+   "fragment_id": "886100457",
+   "type": 11,
+   "heading": "Artigo 14.º — Projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Projecto\n\n1 - O construtor deve executar a construção do navio em conformidade com o projecto aprovado pelo dono e sem vícios que excluam ou reduzam o seu valor ou a sua aptidão para o uso previsto no contrato ou, na falta desta indicação, para o uso comum do tipo de navio em causa.\n\n2 - O construtor não é responsável pelo projecto elaborado pelo dono da obra ou por terceiro.\n\n3 - Nos casos previstos no número anterior, o construtor deve avisar o dono da obra dos defeitos do projecto detectáveis por um técnico diligente e sugerir-lhe as necessárias alterações."
+  },
+  "886100561": {
+   "fragment_id": "886100458",
+   "type": 11,
+   "heading": "Artigo 15.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Fiscalização\n\n1 - O dono da obra pode fiscalizar, à sua custa, a execução dela desde que não perturbe o andamento normal da construção.\n\n2 - O construtor deve, durante a construção, conceder ao dono da obra e aos seus representantes as facilidades necessárias à fiscalização e dar-lhes a assistência de que razoavelmente careçam para o seu cabal desempenho.\n\n3 - O disposto neste artigo é aplicável aos subempreiteiros que realizem trabalhos destinados à construção."
+  },
+  "886100562": {
+   "fragment_id": "886100459",
+   "type": 11,
+   "heading": "Artigo 16.º — Propriedade do navio em construção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Propriedade do navio em construção\n\n1 - Salvo acordo em contrário, o navio, durante a construção, é propriedade do construtor, exceptuados os materiais fornecidos pelo dono da obra.\n\n2 - A transferência da propriedade opera-se com a entrega do navio pelo construtor e a sua aceitação pelo dono da obra, sem prejuízo do disposto no número precedente."
+  },
+  "886100563": {
+   "fragment_id": "886100460",
+   "type": 11,
+   "heading": "Artigo 17.º — Alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Alterações\n\n1 - Se durante a construção entrarem em vigor regras técnicas, regulamentos, convenções internacionais ou quaisquer outras normas legais que imponham alterações na construção, deve o construtor, no prazo de 30 dias contados do início da respectiva vigência, avisar o dono da obra e apresentar-lhe uma proposta do preço das alterações e, sendo caso disso, da nova data da entrega do navio.\n\n2 - Se as partes não chegarem a acordo, o construtor deve proceder às alterações impostas, competindo ao tribunal fixar as correspondentes modificações quanto ao preço e ao prazo de execução."
+  },
+  "886100564": {
+   "fragment_id": "886100461",
+   "type": 11,
+   "heading": "Artigo 18.º — Preço das alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Preço das alterações\n\nSe outra coisa não for acordada pelas partes, o custo de quaisquer alterações ao projecto de construção, legais ou convencionais, deve ser pago nas condições do preço inicial."
+  },
+  "886100565": {
+   "fragment_id": "886100462",
+   "type": 11,
+   "heading": "Artigo 19.º — Experiências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Experiências\n\n1 - Durante a construção o navio e os seus equipamentos devem ser submetidos às experiências previstas no contrato e na legislação aplicável, bem como às impostas pelos órgãos da Administração encarregados da fiscalização das condições técnicas dos navios.\n\n2 - O construtor deve, com a antecedência de 30 dias, informar o dono da obra do programa das experiências.\n\n3 - As despesas com as experiências a que se refere o presente artigo correm por conta do construtor, exceptuadas as relativas à tripulação."
+  },
+  "886100566": {
+   "fragment_id": "886100463",
+   "type": 11,
+   "heading": "Artigo 20.º — Defeitos detectados durante as experiências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Defeitos detectados durante as experiências\n\nO construtor deve corrigir os defeitos detectados durante a realização das experiências e proceder às desmontagens e verificações que forem consideradas necessárias."
+  },
+  "886100567": {
+   "fragment_id": "886100464",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrega e aceitação do navio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrega e aceitação do navio\n\n1 - A entrega do navio deve ser feita no estaleiro do construtor após a realização de todas as experiências e inspecções e a obtenção das aprovações dos competentes órgãos administrativos.\n\n2 - No momento da entrega o navio deve estar munido dos aparelhos, aprestos, meios de salvação, acessórios e sobressalentes, de acordo com o contrato de construção.\n\n3 - O dono da obra que não aceite o navio no prazo devido incorre em mora creditória, nos termos da lei civil."
+  },
+  "886100568": {
+   "fragment_id": "886100465",
+   "type": 11,
+   "heading": "Artigo 22.º — Retirada do navio do estaleiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Retirada do navio do estaleiro\n\nO dono da obra deve retirar o navio do estaleiro do construtor no prazo de 10 dias a contar da sua aceitação, se outro prazo não for acordado, aplicando-se em caso de incumprimento o disposto no n.º 3 do artigo anterior."
+  },
+  "886100569": {
+   "fragment_id": "886100466",
+   "type": 11,
+   "heading": "Artigo 23.º — Instruções e informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Instruções e informação\n\nO construtor deve proporcionar ao dono da obra, na data da entrega do navio:\n\na) Certificados do navio e dos equipamentos;\n\nb) Livros de instruções e de informações técnicas;\n\nc) Desenhos;\n\nd) Instruções e informações relativas à condução;\n\ne) Inventários e listas de acessórios e sobressalentes;\n\nf) Outros documentos eventualmente previstos no contrato de construção."
+  },
+  "886100570": {
+   "fragment_id": "886100467",
+   "type": 11,
+   "heading": "Artigo 24.º — Garantia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Garantia\n\n1 - O construtor garante o navio, durante um ano, a contar da aceitação, relativamente aos defeitos da construção.\n\n2 - Em caso de avaria resultante de defeito abrangido pelo número precedente, o construtor é obrigado a corrigir esse defeito ou a substituir o equipamento defeituoso.\n\n3 - Quando o navio fique impossibilitado de alcançar o estaleiro do construtor ou quando se verifique manifesto inconveniente nessa deslocação, o construtor deve efectuar a reparação ou a substituição do equipamento em local adequado."
+  },
+  "886100571": {
+   "fragment_id": "886100468",
+   "type": 11,
+   "heading": "Artigo 25.º — Direito de retenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Direito de retenção\n\nO construtor goza do direito de retenção sobre o navio para garantia dos créditos emergentes da sua construção."
+  },
+  "886100572": {
+   "fragment_id": "886100469",
+   "type": 11,
+   "heading": "Artigo 26.º — Comunicação dos defeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Comunicação dos defeitos\n\n1 - O dono da obra deve, sob pena de caducidade dos direitos conferidos nos artigos seguintes, comunicar ao construtor os defeitos da construção dentro dos 30 dias posteriores ao seu conhecimento.\n\n2 - Equivale à comunicação o reconhecimento, por parte do construtor, da existência do defeito."
+  },
+  "886100573": {
+   "fragment_id": "886100470",
+   "type": 11,
+   "heading": "Artigo 27.º — Eliminação dos defeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Eliminação dos defeitos\n\n1 - Os resultados das provas, a aprovação pelo dono da obra e a aceitação sem reservas não exoneram o construtor da responsabilidade pela correcção dos defeitos, salvo se aquele os conhecia.\n\n2 - Presumem-se conhecidos os defeitos aparentes, tenha ou não havido verificação da obra."
+  },
+  "886100574": {
+   "fragment_id": "886100471",
+   "type": 11,
+   "heading": "Artigo 28.º — Não eliminação dos defeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Não eliminação dos defeitos\n\nNão sendo eliminados os defeitos, o dono da obra pode exigir a redução do preço, segundo juízos de equidade, ou a resolução do contrato, se os defeitos tornarem o navio inadequado ao fim a que se destinava."
+  },
+  "886155575": {
+   "fragment_id": "886100472",
+   "type": 11,
+   "heading": "Artigo 29.º — Indemnização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Indemnização\n\nO exercício dos direitos conferidos nos artigos antecedentes não exclui a indemnização nos termos gerais."
+  },
+  "886155576": {
+   "fragment_id": "886100473",
+   "type": 11,
+   "heading": "Artigo 30.º — Caducidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Caducidade\n\n1 - Os direitos conferidos nos artigos anteriores caducam se não forem exercidos dentro de dois anos a contar da entrega do navio.\n\n2 - Em caso de vício oculto, o prazo fixado no número precedente conta-se a partir da data do seu conhecimento pelo dono da obra."
+  },
+  "886155577": {
+   "fragment_id": "886100474",
+   "type": 11,
+   "heading": "Artigo 31.º — Pluralidade de construtores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Pluralidade de construtores\n\nAs disposições anteriores relativas ao contrato de construção aplicam-se, com as necessárias adaptações, no caso de a obra ser adjudicada, através de instrumentos autónomos, a diferentes empreiteiros, assumindo cada um deles o encargo de parte da construção."
+  },
+  "886155578": {
+   "fragment_id": "886155675",
+   "type": 1,
+   "heading": "Capítulo III — Contrato de reparação de navios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Contrato de reparação de navios"
+  },
+  "886155579": {
+   "fragment_id": "886155676",
+   "type": 11,
+   "heading": "Artigo 32.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Regime\n\nÉ aplicável ao contrato de reparação de navios, com as necessárias adaptações, o regime do contrato de construção."
+  },
+  "886155580": {
+   "fragment_id": "886155677",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "886155581": {
+   "fragment_id": "886155678",
+   "type": 11,
+   "heading": "Artigo 33.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Norma revogatória\n\nSão revogados os artigos 485.º a 487.º e 489.º a 491.º do Código Comercial."
+  },
+  "886155582": {
+   "fragment_id": "886155679",
+   "type": 11,
+   "heading": "Artigo 34.º — Início de vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Início de vigência\n\nO presente diploma entra em vigor 30 dias após a sua publicação."
+  },
+  "886155586": {
+   "fragment_id": "886100452",
+   "type": 11,
+   "heading": "Artigo 10.º — Forma dos contratos relativos a direitos reais sobre o navio",
+   "in_force_from": "1998-07-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 11-P/98 - Diário da República n.º 175/1998, 5º Suplemento, Série I-A de 1998-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-p-1998-182253), em vigor a partir de 1998-07-31"
+   ],
+   "markdown": "###### Artigo 10.º — Forma dos contratos relativos a direitos reais sobre o navio\n\nOs contratos que impliquem a constituição, modificação, transmissão ou extinção de direitos reais sobre o navio devem ser celebrados por escrito, com reconhecimento presencial da assinatura dos outorgantes.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 11-P/98 - Diário da República n.º 175/1998, 5º Suplemento, Série I-A de 1998-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-p-1998-182253), em vigor a partir de 1998-07-31"
+  },
+  "886155587": {
+   "fragment_id": "886100462",
+   "type": 11,
+   "heading": "Artigo 19.º — Experiências",
+   "in_force_from": "1998-07-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 11-P/98 - Diário da República n.º 175/1998, 5º Suplemento, Série I-A de 1998-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-p-1998-182253), em vigor a partir de 1998-07-31"
+   ],
+   "markdown": "###### Artigo 19.º — Experiências\n\n1 - Durante a construção, o navio e os seus equipamentos devem ser submetidos às experiências previstas no contrato e na legislação aplicável, bem como às impostas pelos órgãos da Administração encarregados da fiscalização das condições técnicas dos navios.\n\n2 - O construtor deve, com a antecedência de 30 dias, informar o dono da obra do programa das experiências.\n\n3 - As despesas com as experiências a que se refere o presente artigo correm por conta do construtor, exceptuadas as relativas à tripulação.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 11-P/98 - Diário da República n.º 175/1998, 5º Suplemento, Série I-A de 1998-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-p-1998-182253), em vigor a partir de 1998-07-31"
+  },
+  "886155588": {
+   "fragment_id": "886100464",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrega e aceitação do navio",
+   "in_force_from": "1998-07-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 11-P/98 - Diário da República n.º 175/1998, 5º Suplemento, Série I-A de 1998-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-p-1998-182253), em vigor a partir de 1998-07-31"
+   ],
+   "markdown": "###### Artigo 21.º — Entrega e aceitação do navio\n\n1 - A entrega do navio deve ser feita no estaleiro do construtor após a realização de todas as experiências e inspecções e a obtenção das aprovações dos competentes órgãos administrativos.\n\n2 - No momento da entrega, o navio deve estar munido dos aparelhos, aprestos, meios de salvação, acessórios e sobressalentes, de acordo com o contrato de construção.\n\n3 - O dono da obra que não aceite o navio no prazo devido incorre em mora creditória, nos termos da lei civil.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 11-P/98 - Diário da República n.º 175/1998, 5º Suplemento, Série I-A de 1998-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-p-1998-182253), em vigor a partir de 1998-07-31"
+  },
+  "886155589": {
+   "fragment_id": "886100471",
+   "type": 11,
+   "heading": "Artigo 28.º — Não eliminação dos defeitos",
+   "in_force_from": "1998-07-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 11-P/98 - Diário da República n.º 175/1998, 5º Suplemento, Série I-A de 1998-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-p-1998-182253), em vigor a partir de 1998-07-31"
+   ],
+   "markdown": "###### Artigo 28.º — Não eliminação dos defeitos\n\nNão sendo eliminados os defeitos, o dono da obra pode exigir a redução do preço, segundo juízo de equidade, ou a resolução do contrato, se os defeitos tornarem o navio inadequado ao fim a que se destinava.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 11-P/98 - Diário da República n.º 175/1998, 5º Suplemento, Série I-A de 1998-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-p-1998-182253), em vigor a partir de 1998-07-31"
+  },
+  "886155583": {
+   "fragment_id": "886155680",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de Abril de 1998. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim.\n\nPromulgado em 8 de Maio de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 5 de Junho de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

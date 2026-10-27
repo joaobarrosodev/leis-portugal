@@ -1,0 +1,327 @@
+---
+schema_version: '1.0'
+id: eu:celex:31987R0392:por
+title: Regulamento (CEE) nº 392/87 da Comissão de 9 de Fevereiro de 1987
+short_title: null
+summary: Regulamento (CEE) nº 392/87 da Comissão de 9 de Fevereiro de 1987 que estabelece as regras de execução do Regulamento
+  (CEE) nº 230/87 do Conselho relativo à cessão a título gratuito de produtos transformados à base de cereais detidos para
+  intervenção a organizações de beneficência
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 1987/392
+official_date: null
+publication_date: '1987-02-10'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 40 de 10.2.1987
+  number: '40'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/fb4f451f-e628-4707-9b7f-5bf0c085414b.0009.02/DOC_1
+entry_into_force_dates:
+- '1987-02-10'
+end_of_validity_date: '1988-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 31987R0392
+  eli: http://data.europa.eu/eli/reg/1987/392/oj
+  oj: oj:JOL_1987_040_R_0005_009
+  dre: null
+  dre_path: null
+  internal: eu:celex:31987R0392:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A31987R0392
+  metadata_url: http://publications.europa.eu/resource/cellar/fb4f451f-e628-4707-9b7f-5bf0c085414b.0009
+  content_url: http://publications.europa.eu/resource/cellar/fb4f451f-e628-4707-9b7f-5bf0c085414b.0009.01/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-26T11:57:17Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-04-22T18:27:12.845+02:00'
+integrity:
+  source_sha256: 75cac9acfc5497d9f4360c9c7a0dea8d49042cd17932315c5d1a17c88eda7109
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T11:57:17Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- adjudicação por contrato
+- existências de intervenção
+- montante compensatório monetário
+- organismo de intervenção
+- organização de beneficência
+- produto à base de cereais
+relationships:
+- type: amended_by
+  target: celex:31987R0734
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c85e496b-7287-4155-9200-31868a54522d
+  date: '1987-03-14'
+- type: amended_by
+  target: celex:31987R0979
+  label: null
+  source: http://publications.europa.eu/resource/cellar/446c16d1-78de-44c7-8ecd-f791f52b5eb8
+  date: '1987-04-04'
+- type: amended_by
+  target: celex:31987R1212
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b5f2d34b-7e95-4948-9d96-56cfff9f0958
+  date: '1987-05-01'
+- type: amends
+  target: celex:31976R1687
+  label: null
+  source: http://publications.europa.eu/resource/cellar/36a0d5ef-bdc8-467b-a048-8701a27dd83b
+  date: '1976-07-14'
+- type: based_on
+  target: celex:31975R2727
+  label: null
+  source: http://publications.europa.eu/resource/cellar/be548f5b-4de1-422c-8cba-495fefae5e56
+  date: '1975-11-01'
+- type: based_on
+  target: celex:31985R1676
+  label: null
+  source: http://publications.europa.eu/resource/cellar/07f77800-d173-4ed4-92a6-99ddb96e83d1
+  date: '1985-06-24'
+- type: based_on
+  target: celex:31987R0230
+  label: null
+  source: http://publications.europa.eu/resource/cellar/384d45c3-9401-4bb0-8121-0ffb82dd8fe8
+  date: '1987-01-28'
+- type: cites
+  target: celex:31985R2220
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4d873b18-c927-4cf0-a3b2-50e3a10ccab6
+- type: cites
+  target: celex:31985R3154
+  label: null
+  source: http://publications.europa.eu/resource/cellar/03fe819d-4c3a-41d4-aaa6-16b79a6e4d25
+- type: repealed_by
+  target: celex:31988R0569
+  label: null
+  source: http://publications.europa.eu/resource/cellar/22c74bc4-8e3e-403b-9f64-3b4ea34cf35a
+  date: '1988-03-01'
+article_structure:
+  article_count: 9
+  section_count: 3
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T11:57:17Z'
+  warnings:
+  - Não foi detetado o título principal no XHTML.
+  errors: []
+---
+
+# Regulamento (CEE) nº 392/87 da Comissão de 9 de Fevereiro de 1987
+
+**Regulamento (CEE) nº 392/87 da Comissão de 9 de Fevereiro de 1987 que estabelece as regras de execução do Regulamento (CEE) nº 230/87 do Conselho relativo à cessão a título gratuito de produtos transformados à base de cereais detidos para intervenção a organizações de beneficência** *Jornal Oficial nº L 040 de 10/02/1987 p. 0005 - 0008*
+
+*****
+
+REGULAMENTO (CEE) Nº 392/87 DA COMISSÃO
+
+de 9 de Fevereiro de 1987
+
+que estabelece as regras de execução do Regulamento (CEE) nº 230/87 do Conselho relativo à cessão a título gratuito de produtos transformados à base de cereais detidos para intervenção, a organizações de beneficiência
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Económica Europeia,
+
+Tendo em conta o Regulamento (CEE) nº 2727/75 do Conselho, de 29 de Outubro de 1975, que estabelece a organização comum de mercado no sector dos cereais (1), com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 1579/86 (2), e, nomeadamente, o nº 4 do seu artigo 7º,
+
+Tendo em conta o Regulamento (CEE) nº 230/87 do Conselho, de 26 de Janeiro de 1987, relativo à cessão, a título gratuito, de produtos transformados à base de cereais detidos pela intervenção a organizações de beneficiência (3), e, nomeadamente, o nº 3 do seu artigo 1º,
+
+Tendo em conta o Regulamento (CEE) nº 1676/85 do Conselho, de 11 de Junho de 1985, relativo ao valor da unidade de conta e às taxas de conversão a aplicar no âmbito da política agrícola comum (4), com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 3772/85 (5), e, nomeadamente, o nº 4 do seu artigo 3º,
+
+Considerando que o processo mais adequado para realizar o objectivo previsto pelo Regulamento (CEE) nº 230/87, é a abertura de um concurso para o fornecimento de farinha de trigo mole ou de grumos (gruaux) e sêmolas de trigo duro; que, com o objectivo de simplificar o processo, as propostas devem ser expressas em quantidades de cereais de base a ceder pelo organismo de intervenção ao proponente; que, todavia, com a preocupação de uma boa gestão administrativa, o processo de ajuste directo revela-se o mais indicado; que é conveniente, por conseguinte, prever igualmente um tal processo;
+
+Considerando que no caso das existências de intervenção disponíveis num Estado-membro não permitirem a realização do objectivo previsto pelo Regulamento (CEE) nº 230/87, é conveniente prever a possibilidade de abastecer esse Estado-membro, com as existências de intervenção de um outro Estado-membro; que neste caso, é conveniente precisar que o regime dos montantes compensatórios monetários não se aplica em conformidade com o artigo 21º do Regulamento (CEE) nº 3154/85 da Comissão, de 11 de Novembro de 1985, que estabelece as modalidades de aplicação administrativas dos montantes compensatórios monetários (6);
+
+Considerando que, tendo em conta o carácter não comercial do presente regulamento, não é indicado aplicar o regime dos montantes compensatórios monetários de adesão nem o mecanismo complementar às trocas comerciais; considerando, além disso, que, para evitar eventuais distorções da concorrência, é conveniente prever que a transformação dos cereais de base pelo adjudicatário deve ser efectuada no Estado-membro destinatário do produto transformado;
+
+Considerando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão dos Cereais,
+
+ADOPTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1º
+
+As quantidades de farinha de trigo mole da subposição 11.01 A da pauta aduaneira comum e/ou de grumos (gruaux) e sêmolas de trigo duro da subposição 11.02 A I a) da pauta aduaneira comum a ceder pelos organismos de intervenção às organizações de beneficiência, em conformidade com o artigo 1º do Regulamento (CEE) nº 230/87, estão enumeradas no Anexo I do presente regulamento.
+
+###### Artigo 2º
+
+1. Nos Estados-membros que dispoem de cereais de intervenção em quantidades suficientes para a realização da operação referida no artigo 1º, os organismos de intervenção designarão os locais de armazenagem mais adequados a tomar em consideração.
+
+2. Em relação aos Estados-membros que não dispõem no seu território de existências de cereais de intervenção em quantidade e qualidade suficientes para a realização da operação referida no artigo 1º, os locais de armazenagem a tomar em consideração são fixados no Anexo II. Neste caso:
+
+- a transferência dos cereais de base não está sujeita ao regime dos montantes compensatórios monetários, nem ao regime dos montantes compensatórios de adesão, nem ao mecanismo complementar às trocas comerciais,
+
+- o organismo de intervenção do Estado-membro em cujo território se encontram as existências de intervenção fornecerá ao organismo de intervenção em causa todas as informações necessárias e, nomeadamente, a qualidade do trigo em questão.
+
+###### Artigo 3º
+
+1. Os organismos de intervenção procederão a concursos relativos ao fornecimento do produto transformado em questão no local de destino designado pelas organizações de beneficiência em conformidade com o nº 2 do artigo 1º
+
+2. O proponente compremete-se a tomar a cargo o cereal de base carregado no meio de transporte no local de intervenção, a transformar esse cereal em farinha de trigo mole da subposição 11.01 A da pauta aduaneira comum ou em grumos (gruaux) e sêmolas de trigo duro da subposição 11.02 A I A) da pauta aduaneira comum, o mais tardar em 30 de Abril de 1987 e a entregar no prazo referido no anúncio de concurso, ao local de destino designado, a quantidade do produto transformado para a qual foi declarado adjudicatário.
+
+A transformação de cereais cedidos pelo organismo de intervenção deve ser realizada no país destinatário do produto transformado.
+
+3. As propostas devem ser apresentadas junto dos organismos de intervenção do Estado-membro de entrega dos produtos transformados e serem expressas em quantidades de cereais de base a ceder ao proponente pelo organismo de intervenção. As propostas de um compromisso por escrito do proponente visado por um estabelecimento de crédito, de constituir, o mais tardar dois dias úteis após a data da recepção da declaração de atribuição do concurso, uma garantia igual ao preço de intervenção exprimido em marcos alemães válido no último dia do prazo de apresentação das propostas, aumentado de 10 %.
+
+Para esse efeito, o preço de intervenção exprimido em marcos alemães é convertido na moeda do Estado-membro de entrega utilizando a última taxa de câmbio à venda registada no mercado de câmbios do Estado-membro de entrega no dia da abertura do concurso.
+
+Serão declarados adjudicatários os proponentes que oferecerem a quantidade de cereal de base a ceder menos elevada.
+
+###### Artigo 4º
+
+1. As obrigações referidas no nº 2 do artigo 3º que cabem ao adjudicatário são consideradas como obrigações principais na acepção do artigo 20º do Regulamento (CEE) nº 2220/85 da Comissão (1). As obrigações só serão consideradas como satisfeitas se o adjudicatário apresentar a prova da transformação dos cereais bem como os documentos comprovativos da entrega dos produtos provenientes dessa transformação ou de produtos equivalentes. As provas devem ser apresentadas o mais tardar em 30 de Junho de 1987.
+
+2. A prova de transformação de cereais tomados à intervenção será apresentada em conformidade com o disposto no Regulamento (CEE) nº 1687/76 da Comissão, de 30 de Junho de 1976, que estabelece as modalidades comuns de controlo da utilização e/ou destino de produtos provenientes da intervenção (2), com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 181/87 (3).
+
+O Regulamento (CEE) nº 1687/76 é alterado do seguinte modo:
+
+À parte II do Anexo « Produtos com outra utilização e/ou destino que não os referidos na parte I » são aditados um novo ponto 40 e a nota de pé-de-página correspondente seguintes:
+
+« 40. Regulamento (CEE) nº 392/87 da Comissão, de 9 de Fevereiro de 1987 relativo às regras de execução do Regulamento (CEE) nº 230/87 do Conselho, relativo à cessão, a obras de beneficiência e organizações de caridade, a título gratuito, de produtos transformados à base de cereais detidos pela intervenção (40);
+
+- Casa 104:
+
+- Montantes Compensatorios Monetarios, Montantes Compensatorios « adhesión » y Mecanismo Complementario de los Intercambios No Aplicables - a la transformación - Reglamento (CEE) no 392/87
+
+- monetaere udligningsbeloeb, tiltraedelsesudligningsbeloeb og den supplerende mekanisme for samhandelen finder ikke anvendelse - til forarbejdning - forordning (EOEF) nr. 392/87
+
+- Waehrungsausgleichbetraege, Beitrittsausgleichsbetraege und der ergaenzende Handelsmechanismus sind nicht anwendbar - zur Verordnung (EWG) Nr. 392/87
+
+- Den efarmózontai nomismatiká exisotiká posá, exisotiká posá proschoríseos kai sympliromatikós michanismós stis synallagés - gia metapoíisi - kanonismós (EOK) arith. 392/87
+
+- monetary and accession compensatory amounts and supplementary trade mechanism not applicable - for processing - Regulation (EEC) No 392/87
+
+- montants compensatoires monétaires, montants compensatoires « adhésion » et mécanisme complémentaire des échanges non applicables - pour transformation - règlement (CEE) no 392/87
+
+- importi compensativi monetari, importi compensativi adesione e meccanismo complementare applicabile agli scambi non applicabili - per trasformazione - regolamento (CEE) n. 392/87
+
+- Monetaire compenserende bedragen, compenserende bedragen toetreding en aanvullende regeling voor het handelsverkeer niet van toepassing - voor verwerking - Verordening (EEG) nr. 392/87
+
+- os montantes compensatórios monetários, os montantes compensatórios de adesão e o mecanismo complementar às trocas comerciais não são aplicáveis - para transformação - Regulamento (CEE) nº 392/87
+
+(40) JO nº L 40 de 10. 2. 1987, p. 5. »
+
+###### Artigo 5º
+
+Os organismos de intervenção estabelecerão um anúncio de concurso que indicará, pelo menos, as indicações que constam do Anexo II do presente regulamento.
+
+Os organismos de intervenção tomarão todas as medidas necessárias para garantir o sucesso da operação, nomeadamente as medidas de controlos que considerarem adequadas.
+
+###### Artigo 6º
+
+A realização das operações previstas no presente regulamento pode, igualmente, ser efectuada por ajuste directo. Neste caso, as disposições dos artigos 3º, 4º e 5º aplicam-se mutatis mutandis.
+
+###### Artigo 7º
+
+Os Estados-membros comunicarão à Comissão no final de cada semana, em relação à semana anterior, as quantidades desarmazenadas a título do presente regulamento, bem como as quantidades fornecidas às organizações de beneficiência.
+
+###### Artigo 8º
+
+A autoridade portuguesa competente para a aplicação do presente regulamento é: IROMA, Rua Padre António Vieira, 1, 1 000 LISBOA.
+
+###### Artigo 9º
+
+O presente regulamento entra em vigor no dia da sua publicação no Jornal Oficial das Comunidades Europeias.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.
+
+Feito em Bruxelas, em 9 de Fevereiro de 1987.
+
+Pela Comissão
+
+Frans ANDRIESSEN
+
+Vice-Presidente
+
+(1) JO nº L 281 de 1. 11. 1975, p. 1.
+
+(2) JO nº L 139 de 24. 5. 1986, p. 29.
+
+(3) JO nº L 25 de 28. 1. 1987, p. 2.
+
+(4) JO nº L 164 de 24. 6. 1985, p. 1.
+
+(5) JO nº L 362 de 31. 12. 1985, p. 24.
+
+(6) JO nº L 310 de 21. 11. 1985, p. 9.
+
+(1) JO nº L 205 de 3. 8. 1985, p. 5.
+
+(2) JO nº L 190 de 14. 7. 1976, p. 1.
+
+(3) JO nº L 21 de 23. 1. 1987, p. 38.
+
+## ANEXO I
+
+(Em toneladas)
+
+1.2,3 // // // Estado-membro // Quantidades globais // 1.2.3 // // Farinhas de trigo mole // Grumos (gruaux) e sêmolas de trigo duro // // // // Bélgica // 3 100 // - // Dinamarca // 100 // - // Alemanha // 10 000 // - // Grécia // 3 000 // 436 // Espanha // 1 000 // 600 // França // 1 300 // 2 400 // Irlanda // 1 800 // - // Itália // - // 972 // Luxemburgo // 25 // - // Países baixos // 2 000 // - // Portugal // 1 500 // - // // //
+
+## ANEXO II — Locais de armazenagem das existências de intervenção colocadas à disposição dos organismos de intervenção de um outro Estado-membro
+
+(Em toneladas)
+
+1.2.3.4.5 // Estado-membro de destino // Estado-membro armazenador // Cereal de Base // Local de armazenagem // Quantidade indicativa do produto transformado // // // // // // Grécia // França // Trigo mole // Barcelonne du Gers // 3 000 // // Itália // Trigo duro // Siracusa // 436 // Espanha // França // Trigo mole // Sainte-Christie // 1 000 // // Itália // Trigo duro // Siracusa // 600 // Irlanda // França // Trigo mole // Fiac // 1 800 // Portugal // França // Trigo mole // Sainte-Christie // 1 500 // // // // //
+
+## ANEXO III — Especificações mínimas indicadas nos anúncios de concurso
+
+1. Beneficiário
+
+2. Local de destino
+
+3. Produto a realizar
+
+4. Quantidade total/número de lotes
+
+5. Características do produto transformado a entregar
+
+6. Qualidade do cereal de base a ceder
+
+7. Acondicionamento:
+
+- em pacotes,
+
+- em sacos,
+
+- a granel,
+
+- qualidade dos sacos,
+
+- peso líquido dos sacos,
+
+8. Data do termo de prazo para a apresentação das propostas
+
+9. Período de entrega do produto transformado (o mais tardar em 31 de Março de 1987)
+
+10. Montante da garantia por tonelada.

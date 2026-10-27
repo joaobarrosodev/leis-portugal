@@ -1,0 +1,709 @@
+---
+schema_version: '1.0'
+id: pt:dre:67348949:por
+title: Decreto-Lei n.º 96/2015
+short_title: null
+summary: Aprova a orgânica do Instituto de Gestão Financeira da Educação, I.P.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação e Ciência
+proposing_entity: null
+official_number: 96/2015
+official_date: null
+publication_date: '2015-05-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 104/2015, Série I de 2015-05-29
+  number: '104'
+  series: I
+  supplement: null
+  pages: 3365 - 3370
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/05/10400/0336503370.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-09-01'
+version_history:
+  file: decreto-lei-96-2015.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2015-05-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-06-01'
+    amending: pt:dre:184108564:por
+    amending_title: Decreto-Lei n.º 38/2022
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 15.º
+  - date: '2025-09-01'
+    amending: pt:dre:933527232:por
+    amending_title: Decreto-Lei n.º 99/2025
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/96/2015/p/cons/20250828/pt/html
+  oj: null
+  dre: '67348949'
+  dre_path: /dr/detalhe/decreto-lei/96-2015-67348949
+  internal: pt:dre:67348949:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2015-67348949
+  metadata_url: https://data.dre.pt/eli/dec-lei/96/2015/p/cons/20250828/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-106434194
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-106434194
+  retrieved_at: '2026-10-22T12:10:14Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 7a8f9bf324a314322a6d83597f9a55778a26fea5b1e6ffa473fed09440eed9db
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:10:14Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-96-2015.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Reestruturação de Serviços
+- Património
+- Fiscal Único
+- Pessoal Dirigente
+- Definição de Competências
+- Conselho Diretivo
+- Ministério da Educação e Ciência
+- Conselho Consultivo
+- Integração de Trabalhadores
+- Orgânica
+- Presidente
+- Estatuto Remuneratório
+- Vogal
+- Instituto de Gestão Financeira da Educação
+relationships:
+- type: amended_by
+  target: pt:dre:184108564:por
+  label: Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 15.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564
+  date: '2022-05-30'
+- type: amended_by
+  target: pt:dre:933527232:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232
+  date: '2025-08-28'
+- type: cites
+  target: pt:dre:145195:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/125/2011/12/29/p/dre
+- type: cites
+  target: pt:dre:498755:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/102/2013/07/25/p/dre
+- type: cites
+  target: pt:dre:543908:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/19/2012/01/31/p/dre
+- type: cites
+  target: pt:dre:543909:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/18/2012/01/31/p/dre
+- type: cites
+  target: pt:dre:571052:por
+  label: null
+  source: http://data.dre.pt/eli/lei/3/2014/01/28/p/dre
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:632419:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/266-g/2012/12/31/p/dre
+article_structure:
+  article_count: 23
+  section_count: 2
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:10:14Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 96/2015
+
+Decreto-Lei n.º 96/2015
+
+de 29 de maio
+
+O Programa do XIX Governo Constitucional considera a educação uma prioridade central do país, ao mesmo tempo que reconhece a necessidade de reduzir custos, procurando modelos mais eficientes de funcionamento.
+
+Assim, importa repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho de funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.
+
+Neste contexto, o Decreto-Lei n.º 125/2011, de 29 de dezembro, aprovou a Lei Orgânica do Ministério da Educação e Ciência (MEC), e o Decreto Regulamentar n.º 19/2012, de 31 de janeiro, veio definir as atribuições da Direção-Geral de Planeamento e Gestão Financeira (DGPGF), serviço responsável por garantir a programação, a gestão financeira e o planeamento estratégico e operacional do MEC.
+
+A fragmentação orçamental existente no MEC constitui uma fragilidade que se traduz no elevado número de unidades orçamentais existentes, o que desvia os serviços das missões que lhes estão cometidas e lhes consomem recursos financeiros e humanos sem valor acrescentado.
+
+O MEC é responsável por uma fatia significativa da despesa pública, pois emprega cerca de 200 000 trabalhadores, dos quais cerca de 150 000 estão afetos a 811 unidades orgânicas de educação pré-escolar e de ensino básico e secundário.
+
+Assim, impõe-se a redução dessa fragmentação, que deve incidir na concentração de atividades comuns em serviços específicos, libertando os restantes serviços para o cumprimento das atribuições que estão na base da sua criação, permitindo uma afetação dos recursos às áreas mais carenciadas e evitando ainda a existência de várias unidades compartimentadas que tornam difícil o controlo global de receitas e despesas públicas.
+
+Uma gestão mais eficiente dos recursos existentes justifica a criação de um organismo com atribuições e responsabilidades reforçadas, que desenvolverá as suas atividades enquanto entidade coordenadora dos programas orçamentais do MEC.
+
+A programação, a gestão financeira e o planeamento estratégico e operacional do MEC deve ser cometida a uma estrutura que possua capacidade de intervenção orçamental ao nível dos diversos órgãos, serviços, organismos e outras estruturas deste Ministério, que se traduzirá numa maior eficiência na utilização dos seus recursos financeiros.
+
+Neste sentido, é criado o Instituto de Gestão Financeira da Educação, I.P. (IGeFE, I.P.), que sucede à DGPGF, cometendo-se a este novo organismo atribuições que permitirão uma maior racionalização de recursos e eficiência no controle da despesa no âmbito do MEC.
+
+Cometem-se ainda ao IGeFE, I.P., as atribuições da Secretaria-Geral do MEC nos domínios da contratação pública, quanto às funções da unidade ministerial de compras no âmbito das unidades orgânicas de ensino da rede pública do MEC, e da gestão centralizada do processamento das remunerações dos trabalhadores do MEC.
+
+O IGeFE, I.P., assume também as atribuições dos estabelecimentos públicos de educação pré-escolar e dos ensinos básico e secundário no domínio do processamento das remunerações do respetivo pessoal docente e não docente e da gestão e acompanhamento da execução financeira de projetos das unidades orgânicas do ensino básico e secundário da rede pública do MEC financiados por fundos europeus estruturais e de investimento, o que permitirá uma gestão consolidada das receitas geradas por esses projetos.
+
+O presente decreto-lei cria o IGeFE, I.P., instituto público de regime especial, para efeitos do estatuto remuneratório dos membros do conselho diretivo e dos titulares dos cargos de direção intermédia de 1.º e 2.º graus, dotado de autonomia administrativa e financeira e património próprio, e procede, em conformidade, à alteração do citado Decreto-Lei n.º 125/2011, de 29 de dezembro, alterado pelo Decreto-Lei n.º 266-G/2012, de 31 de dezembro, e pelo Decreto-Lei n.º 102/2013, de 25 de julho, do Decreto Regulamentar n.º 18/2012, de 31 de janeiro, que aprovou a orgânica da Secretaria-Geral do MEC, bem como a Lei n.º 3/2004, de 15 de janeiro, que aprovou a lei-quadro dos institutos públicos.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 9.º da Lei n.º 3/2004, de 15 de janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+1 - O Instituto de Gestão Financeira da Educação, I.P., abreviadamente designado por IGeFE, I.P., é um instituto público de regime especial, nos termos da lei e do número seguinte, integrado na administração indireta do Estado, dotado de autonomia administrativa e financeira e património próprio.
+
+2 - A especialidade do IGeFE, I.P., decorre do estatuto remuneratório dos membros do conselho diretivo e dos cargos de direção intermédia de 1.º e 2.º graus, previsto, respetivamente, nos artigos 6.º e 13.º.
+
+3 - O IGeFE, I.P., prossegue atribuições do Ministério da Educação e Ciência, abreviadamente designado por MEC, sob superintendência e tutela do respetivo ministro.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01
+
+###### Artigo 2.º — Jurisdição territorial e sede
+
+1 - O IGeFE, I.P., é um organismo central com jurisdição sobre todo o território nacional.
+
+2 - O IGeFE, I.P., tem sede em Lisboa.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01
+
+###### Artigo 3.º — Missão e atribuições
+
+1 - O IGeFE, I. P., tem por missão garantir a programação, a gestão financeira e o planeamento estratégico e operacional das áreas governativas da ciência, tecnologia, ensino superior e educação, a gestão previsional fiável e sustentada dos respetivos programas orçamentais, bem como a avaliação global da execução das políticas e dos resultados obtidos pelo sistema educativo e a criação e o bom funcionamento do Sistema Integrado de Informação da Educação (SIIE), em articulação com os demais serviços e organismos das referidas áreas governativas.
+
+2 - O IGeFE, I.P., prossegue as seguintes atribuições:
+
+a) Prestar apoio técnico-financeiro à definição de políticas, prioridades e objetivos do MEC;
+
+b) Acompanhar e avaliar a execução das políticas e programas do MEC, na vertente económico-financeira;
+
+c) Elaborar, difundir e apoiar a criação de instrumentos de planeamento, de avaliação e programação financeira, com vista à monitorização e execução conducentes à eficácia e eficiência dos sistemas educativo e científico e tecnológico;
+
+d) Apoiar a definição das principais opções em matéria orçamental e das propostas e modelos de financiamento das instituições de ensino superior e da ação social do ensino superior, em articulação com a Direção-Geral do Ensino Superior, procedendo ao seu acompanhamento e execução;
+
+e) Desenvolver as atividades de entidade coordenadora dos programas orçamentais do MEC;
+
+f) Coordenar a requisição de verbas inscritas no Orçamento do Estado afetas aos órgãos, serviços e organismos do MEC;
+
+g) Assegurar a elaboração dos orçamentos de atividade e de projeto do MEC e acompanhar e monitorizar as respetivas execuções, em colaboração com os restantes serviços e organismos do MEC;
+
+h) Elaborar a proposta de distribuição de verbas pelos órgãos, serviços e organismos do MEC e por entidades tuteladas ou sob superintendência do membro do Governo responsável pela área da educação e ciência;
+
+i) Definir os critérios e procedimentos a que deve obedecer a elaboração e organização do orçamento das unidades orgânicas do ensino básico e secundário da rede pública do MEC, bem como as regras da sua execução;
+
+j) Gerir e acompanhar a execução financeira de projetos das unidades orgânicas do ensino básico e secundário da rede pública do MEC financiados por fundos europeus estruturais e de investimento;
+
+k) Coordenar o planeamento da rede escolar e a sua racionalização;
+
+l) Desenvolver as ações necessárias à otimização dos sistemas educativo e científico e tecnológico, tendo em vista a obtenção de ganhos de eficiência financeira;
+
+m) Contribuir para a definição das políticas e estratégias em matéria de sistemas de informação;
+
+n) Assegurar as funções de unidade ministerial de compras no âmbito das unidades orgânicas do ensino básico e secundário da rede pública do MEC;
+
+o) Assegurar a gestão centralizada do processamento das remunerações e abonos devidos aos trabalhadores dos órgãos, serviços e organismos do MEC;
+
+p) Transferir para os municípios os montantes financeiros da responsabilidade do MEC;
+
+q) Otimizar a gestão dos recursos financeiros do MEC afetos ao IGeFE, I.P., designadamente por recurso a instrumentos disponíveis no mercado que visam assegurar a rendibilização de saldos de tesouraria.
+
+r) Conceber, implementar, gerir, manter e garantir o bom funcionamento dos sistemas de informação dos processos da educação e ensino superior, científico e tecnológico, necessários à prossecução das suas atribuições.
+
+3 - (Revogado.)
+
+4 - O IGeFE, I. P., prossegue ainda as seguintes atribuições, relativamente à área governativa da educação:
+
+a) Elaborar, implementar e manter atualizado um Plano Estratégico de Sistemas de Informação (PESI);
+
+b) Definir políticas, normas e procedimentos relativos à seleção, aquisição e utilização de infraestruturas tecnológicas e sistemas de informação para os órgãos, serviços e organismos da área governativa e controlar o respetivo cumprimento;
+
+c) Promover a unificação e a racionalização de processos, métodos, recursos e infraestruturas tecnológicas, nos termos definidos pelo PESI;
+
+d) Assegurar a construção, gestão e operação dos sistemas de informação e das infraestruturas tecnológicas de suporte nas áreas de tecnologias de informação e comunicação dos órgãos, serviços e organismos da área governativa e dos estabelecimentos de educação e ensino, numa lógica de serviços comuns partilhados;
+
+e) Assegurar o desenvolvimento coerente e eficiente do SIIE, enquanto agregador dos sistemas de informação no âmbito dos órgãos, serviços e organismos da área governativa, garantindo a qualidade, a consistência, a segurança e a disponibilidade da informação, articulando a configuração do tipo e da forma de acesso em função das atribuições de cada órgão, serviço e organismo;
+
+f) Prestar o apoio necessário aos estabelecimentos de educação e ensino na articulação entre as suas aplicações informáticas e o SIIE, promovendo as ações de divulgação e formação aos utilizadores, necessárias ao bom funcionamento e desempenho dos sistemas de informação e certificar as aplicações informáticas de gestão escolar;
+
+g) Assegurar a articulação com os organismos com atribuições interministeriais na área das tecnologias de informação e comunicação.
+
+5 - Para a prossecução das suas atribuições, o IGeFE, I. P., deve promover a articulação e colaboração com os restantes serviços e organismos das áreas governativas da ciência, tecnologia, ensino superior e educação.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01
+
+###### Artigo 4.º — Órgãos
+
+São órgãos do IGeFE, I.P.:
+
+a) O conselho diretivo;
+
+b) O fiscal único;
+
+c) O conselho consultivo.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01
+
+###### Artigo 5.º — Conselho diretivo
+
+1 - O conselho diretivo é composto por um presidente, um vice-presidente e dois vogais.
+
+2 - Sem prejuízo das competências que lhe forem conferidas por lei ou das que nele sejam delegadas ou subdelegadas, compete ao conselho diretivo:
+
+a) Assegurar a representação do IGeFE, I.P., nas comissões, grupos de trabalho ou atividades de organismos nacionais e estrangeiros;
+
+b) Definir as diretrizes que devem orientar a organização e o funcionamento do IGeFE, I.P., com vista à realização da sua missão e à prossecução das suas atribuições;
+
+c) Submeter à aprovação do membro do Governo responsável pela área da educação e ciência os planos de investimento dos serviços e organismos do MEC e, sob proposta destes, os respetivos projetos de orçamento;
+
+d) Acompanhar e monitorizar a execução do orçamento de atividade e de projeto dos serviços e organismos do MEC;
+
+e) Gerir os recursos humanos, materiais e financeiros do IGeFE, I.P., tendo em conta os instrumentos de gestão aprovados;
+
+f) Aprovar os regulamentos que se mostrem necessários à prossecução das atribuições do IGeFE, I.P.;
+
+g) Arrecadar e gerir as receitas e autorizar as despesas.
+
+3 - O conselho diretivo pode delegar, com a faculdade de subdelegação, em um ou mais dos seus membros e nos dirigentes dos seus serviços as competências que lhe estejam cometidas.
+
+4 - O presidente do conselho diretivo pode delegar em qualquer um dos seus membros as competências que lhe são cometidas, bem como delegar competências em matéria administrativa e financeira em dirigentes e coordenadores de equipas ou projetos do IGeFE, I.P., estabelecendo em cada caso, os respetivos limites e condições.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01
+
+###### Artigo 6.º — Estatuto dos membros do conselho diretivo
+
+Os membros do conselho diretivo são equiparados, para efeitos remuneratórios, a gestores públicos.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01
+
+###### Artigo 7.º — Fiscal único
+
+O fiscal único é designado e tem as competências previstas na lei-quadro dos institutos públicos.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01
+
+###### Artigo 8.º — Conselho consultivo
+
+1 - O conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais de atuação do IGeFE, I.P., e nas tomadas de decisão do conselho diretivo.
+
+2 - O conselho consultivo tem a seguinte composição:
+
+a) O presidente do conselho diretivo, que preside, com possibilidade de delegação;
+
+b) O dirigente máximo de cada um dos serviços centrais e dos organismos do MEC;
+
+c) O presidente do conselho de administração da Parque Escolar, E.P.E.
+
+3 - O conselho consultivo pode ainda integrar especialistas ou personalidades de reconhecido mérito, a convite do presidente, em função das matérias que constituam a ordem de trabalhos das reuniões.
+
+4 - O conselho consultivo reúne, ordinariamente, duas vezes por ano e, extraordinariamente, sempre que convocado pelo seu presidente ou por um terço dos seus membros.
+
+5 - A participação nas reuniões do conselho consultivo não é remunerada.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01
+
+###### Artigo 9.º — Organização interna
+
+A organização interna do IGeFE, I.P., é a prevista nos respetivos estatutos.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01
+
+###### Artigo 10.º — Receitas
+
+1 - O IGeFE, I.P., dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado e de transferências de outros serviços ou organismos do MEC.
+
+2 - O IGeFE, I.P., dispõe ainda das seguintes receitas próprias:
+
+a) Rendimentos dos depósitos em instituições de crédito e de aplicações financeiras;
+
+b) Remuneração dos seus saldos de tesouraria;
+
+c) O produto da venda de bens e serviços e de prestação de serviços no âmbito das respetivas atribuições;
+
+d) O produto de venda de publicações e de trabalhos por si editados;
+
+e) Donativos, heranças ou legados;
+
+f) Comparticipações ou subsídios concedidos por quaisquer entidades;
+
+g) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.
+
+3 - Os saldos das receitas referidas no número anterior, verificados no final de cada ano, transitam para o ano seguinte, nos termos do decreto-lei de execução orçamental anual.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01
+
+###### Artigo 11.º — Despesas
+
+Constituem despesas do IGeFE, I.P., as que resultem de encargos decorrentes da prossecução das respetivas atribuições.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01
+
+###### Artigo 12.º — Património
+
+O património do IGeFE, I.P., é constituído pela universalidade de bens, direitos e obrigações de que seja titular.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01
+
+###### Artigo 13.º — Cargos dirigentes intermédios
+
+1 - São cargos de direção intermédia de 1.º grau do IGeFE, I.P., os diretores de departamento.
+
+2 - São cargos de direção intermédia de 2.º grau do IGeFE, I.P., os coordenadores de núcleo.
+
+3 - A remuneração base dos cargos de direção intermédia identificados nos números anteriores é determinada em percentagem da remuneração base do vogal do conselho diretivo, nas seguintes proporções:
+
+a) Diretor de departamento, 80%;
+
+b) Coordenador de núcleo, 65%.
+
+4 - As despesas de representação dos cargos de direção intermédia de 1.º e 2.º graus do IGeFE, I.P., são determinadas em percentagem das despesas de representação do vogal do conselho diretivo, nos termos do número anterior.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01
+
+###### Artigo 14.º — Sucessão
+
+O IGeFE, I.P., sucede nas atribuições:
+
+a) Da Direção-Geral de Planeamento e Gestão Financeira (DGPGF);
+
+b) Da Secretaria-Geral, nos domínios da contratação pública, quanto às funções de unidade ministerial de compras no âmbito das unidades orgânicas de ensino da rede pública do MEC, e da gestão centralizada do processamento das remunerações dos trabalhadores do MEC;
+
+c) Dos estabelecimentos públicos de educação pré-escolar e dos ensinos básico e secundário no domínio do processamento das remunerações e abonos do pessoal docente e não docente e da gestão e acompanhamento da execução financeira de projetos das unidades orgânicas do ensino básico e secundário da rede pública do MEC financiados por fundos europeus estruturais e de investimento.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01
+
+###### Artigo 15.º — Critérios de seleção do pessoal
+
+São fixados os seguintes critérios gerais e abstratos de seleção do pessoal necessário à prossecução das atribuições do IGeFE, I.P.:
+
+a) O desempenho de funções na DGPGF;
+
+b) O desempenho de funções na Secretaria-Geral diretamente relacionadas com as atribuições transferidas nos termos da alínea b) do artigo anterior;
+
+c) O desempenho de funções nos estabelecimentos públicos de educação pré-escolar e dos ensinos básico e secundário diretamente relacionadas com as atribuições transferidas nos termos da alínea c) do artigo anterior.
+
+d) O desempenho de funções na DGEEC em matéria de sistemas de informação e tecnologias de comunicação.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01
+
+###### Artigo 16.º — Alteração ao Decreto-Lei n.º 125/2011, de 29 de dezembro
+
+Os artigos 5.º e 31.º do Decreto-Lei n.º 125/2011, de 29 de dezembro, alterado pelos Decretos-Leis n.os 266-G/2012, de 31 de dezembro, e 102/2013, de 25 de julho, passam a ter a seguinte redação:
+
+«Artigo 5.º
+
+[...]
+
+1 - [...]:
+
+a) [...];
+
+b) [...];
+
+c) [...];
+
+d) [...];
+
+e) [...];
+
+f) O Instituto de Gestão Financeira da Educação, I.P.
+
+2 - [...].
+
+Artigo 31.º
+
+[...]
+
+1 - [...].
+
+2 - [...]:
+
+a) [...];
+
+b) [...];
+
+c) [...];
+
+d) [...];
+
+e) [...];
+
+f) [Revogada];
+
+g) [...].
+
+3 - [...]:
+
+a) [...];
+
+b) [...];
+
+c) [...];
+
+d) [...];
+
+e) [...];
+
+f) A Direção-Geral de Planeamento e Gestão Financeira, sendo as suas atribuições integradas no Instituto de Gestão Financeira da Educação, I.P.;
+
+g) [...];
+
+h) [...];
+
+i) [...];
+
+j) [...];
+
+l) [...];
+
+m) [...];
+
+n) [...];
+
+o) [...];
+
+p) [...].
+
+4 - [...].
+
+5 - [...].
+
+6 - [...].
+
+7 - [...].»
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01
+
+###### Artigo 17.º — Alteração dos anexos I e II ao Decreto-Lei n.º 125/2011, de 29 de dezembro
+
+Os anexos I e II ao Decreto-Lei n.º 125/2011, de 29 de dezembro, alterado pelos Decretos-Leis n.os 266-G/2012, de 31 de dezembro, e 102/2013, de 25 de julho, passam a ter a redação constante do anexo ao presente decreto-lei, do qual faz parte integrante.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01
+
+###### Artigo 18.º — Aditamento ao Decreto-Lei n.º 125/2011, de 29 de dezembro
+
+É aditado ao Decreto-Lei n.º 125/2011, de 29 de dezembro, alterado pelos Decretos-Leis n.os 266-G/2012, de 31 de dezembro, e 102/2013, de 25 de julho, o artigo 21.º-B, com a seguinte redação:
+
+«Artigo 21.º-B
+
+Instituto de Gestão Financeira da Educação, I.P.
+
+1 - O IGeFE, I.P., tem por missão garantir a programação, a gestão financeira e o planeamento estratégico e operacional do MEC, a gestão previsional fiável e sustentada do orçamento da educação e ciência, bem como a avaliação global da execução das políticas e dos resultados obtidos pelo sistema educativo e o funcionamento dos sistemas integrados de informação financeira, em articulação com os demais serviços e organismos do MEC.
+
+2 - O IGeFE, I.P., prossegue, designadamente, as seguintes atribuições:
+
+a) Prestar apoio técnico-financeiro à definição de políticas, prioridades e objetivos do MEC;
+
+b) Acompanhar e avaliar a execução das políticas e programas do MEC, na vertente económico-financeira;
+
+c) Elaborar, difundir e apoiar a criação de instrumentos de planeamento, de avaliação e programação financeira, com vista à monitorização e execução conducentes à eficácia e eficiência dos sistemas educativo e científico e tecnológico;
+
+d) Desenvolver as atividades de entidade coordenadora dos programas orçamentais do MEC;
+
+e) Assegurar a elaboração dos orçamentos de atividade e de projeto do MEC e acompanhar e monitorizar as respetivas execuções, em colaboração com os restantes serviços e organismos do MEC;
+
+f) Definir os critérios e procedimentos a que deve obedecer a elaboração e organização do orçamento das unidades orgânicas do ensino básico e secundário da rede pública do MEC, bem como as regras da sua execução;
+
+g) Gerir e acompanhar a execução financeira de projetos das unidades orgânicas do ensino básico e secundário da rede pública do MEC financiados por fundos europeus estruturais e de investimento;
+
+h) Coordenar o planeamento da rede escolar e a sua racionalização;
+
+i) Assegurar as funções de unidade ministerial de compras, no âmbito das unidades orgânicas do ensino básico e secundário da rede pública do MEC;
+
+j) Assegurar a gestão centralizada do processamento das remunerações e abonos devidos aos trabalhadores dos órgãos, serviços e organismos do MEC;
+
+k) Otimizar a gestão dos recursos financeiros do MEC afetos ao IGeFE, I.P., designadamente por recurso a instrumentos disponíveis no mercado, que visam assegurar a rendibilização de saldos de tesouraria.
+
+3 - O IGeFE, I.P., é dirigido por um conselho diretivo constituído por um presidente e por dois vogais.»
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01
+
+###### Artigo 19.º — Alteração à Lei n.º 3/2004, de 15 de janeiro
+
+O artigo 48.º da Lei n.º 3/2014, de 15 de janeiro, passa a ter a seguinte redação:
+
+«Artigo 48.º
+
+[...]
+
+1 - [...].
+
+2 - [...].
+
+3 - [...]:
+
+a) [...];
+
+b) [...];
+
+c) [...];
+
+d) [...];
+
+e) [...];
+
+f) [...];
+
+g) [...];
+
+h) [...];
+
+i) [...];
+
+j) [...];
+
+k) O Instituto de Gestão Financeira da Educação, I.P.;
+
+l) [Anterior alínea k)].
+
+4 - [...].
+
+5 - [...].»
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01
+
+###### Artigo 20.º — Alteração ao Decreto Regulamentar n.º 18/2012, de 31 de janeiro
+
+O artigo 2.º do Decreto Regulamentar n.º 18/2012, de 31 de janeiro, passa a ter a seguinte redação:
+
+«Artigo 2.º
+
+[...]
+
+1 - [...].
+
+2 - [...]:
+
+a) [...];
+
+b) [...];
+
+c) [...];
+
+d) [...];
+
+e) [...];
+
+f) [...];
+
+g) [...];
+
+h) Assegurar a gestão centralizada do processamento das remunerações e abonos devidos aos trabalhadores dos gabinetes dos membros do Governo;
+
+i) [...];
+
+j) [...];
+
+l) Assegurar as funções de unidade ministerial de compras, com exceção das unidades orgânicas dos ensinos básico e secundário da rede pública do MEC, e de unidade de gestão patrimonial e empreender as ações necessárias à preservação, conservação e valorização do património edificado afeto aos gabinetes dos membros do Governo, à SG e aos órgãos e estruturas do MEC, cujo apoio seja prestado diretamente pela SG;
+
+m) [...];
+
+n) [...];
+
+o) [...];
+
+p) [...];
+
+q) [...].»
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01
+
+###### Artigo 21.º — Calendarização
+
+A sucessão do IGeFE, I.P., nas atribuições da Secretaria-Geral, no domínio da gestão centralizada do processamento das remunerações dos trabalhadores do MEC e nas atribuições dos estabelecimentos públicos de educação pré-escolar e dos ensinos básico e secundário no domínio do processamento das remunerações e abonos do pessoal docente e não docente realiza-se de forma gradual e é definida por despacho do membro do Governo responsável pela área da educação, publicado na 2.ª série do Diário da República, que fixa as condições e o cronograma da sucessão de atribuições.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01
+
+###### Artigo 22.º — Norma revogatória
+
+São revogados:
+
+a) A alínea g) do artigo 4.º, o artigo 16.º e a alínea f) do n.º 2 do artigo 31.º do Decreto-Lei n.º 125/2011, de 29 de dezembro, alterado pelos Decretos-Leis n.os 266-G/2012, de 31 de dezembro, e 102/2013, de 25 de julho;
+
+b) O Decreto Regulamentar n.º 19/2012, de 31 de janeiro.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01
+
+###### Artigo 23.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01
+
+Visto e aprovado em Conselho de Ministros de 26 de março de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Nuno Paulo de Sousa Arrobas Crato.
+
+Promulgado em 21 de maio de 2015.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 25 de maio de 2015.
+
+O Primeiro-Ministro, Pedro Passos Coelho.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01
+
+## Anexo — (a que se refere o artigo 17.º)
+
+«ANEXO I
+
+(a que se refere o artigo 30.º)
+
+Cargos de direção superior da administração direta
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01
+
+## Anexo II — Dirigentes de organismos da administração indireta
+
+(a que se refere o artigo 30.º)
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 99/2025 - Diário da República n.º 165/2025, Série I de 2025-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2025-933527232), em vigor a partir de 2025-09-01

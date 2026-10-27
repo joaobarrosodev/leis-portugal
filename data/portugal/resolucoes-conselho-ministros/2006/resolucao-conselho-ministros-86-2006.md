@@ -1,0 +1,374 @@
+---
+schema_version: '1.0'
+id: pt:dre:537246:por
+title: Resolução do Conselho de Ministros n.º 86/2006
+short_title: null
+summary: Aprova o Plano Nacional de Leitura e cria a respectiva comissão
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 86/2006
+official_date: null
+publication_date: '2006-07-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 133/2006, Série I de 2006-07-12
+  number: '133'
+  series: I
+  supplement: null
+  pages: 4856 - 4861
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/07/13300/48564861.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/86/2006/07/12/p/dre/pt/html
+  oj: null
+  dre: '537246'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/86-2006-537246
+  internal: pt:dre:537246:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/86-2006-537246
+  metadata_url: https://data.dre.pt/eli/resolconsmin/86/2006/07/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/86-2006-537246
+  consolidated_url: null
+  retrieved_at: '2026-10-27T00:06:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 62adbeffb5ced74723ef4aff9e56b8654b63f63929a83d834b6ce39277f1f470
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-27T00:06:33Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão
+- Comissão Interministerial
+- Comissário
+- Direcção Geral de Inovação e Desenvolvimento Curricular
+- Gabinete Coordenador da REDE de Bibliotecas Escolares
+- Gabinete de Informação e Avaliação do Sistema Educativo
+- Instituto da Comunicação Social
+- Instituto Português do Livro
+- Leitura Pública
+- Mecenato Cultural
+- Mecenato Educacional
+- Ministério da Educação
+- Nomeação
+- Plano Nacional de Leitura
+relationships:
+- type: cites
+  target: pt:dre:144987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:3634206:por
+  label: Revogado o nº3 pela RES.33/2009.30.12.2009.PCM, DR.IIS [251] de 30.12.2009
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/33-2009-3634206
+  date: '2009-12-30'
+- type: repealed_by
+  target: pt:dre:106816250:por
+  label: Revogada, a partir de 30.03.2017, pelo(a) Resolução do Conselho de Ministros n.º 48-D/2017 - Diário da República
+    n.º 65/2017, 1º Suplemento, Série I de 2017-03-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/48-d-2017-106816250
+  date: '2017-03-31'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-27T00:06:33Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 86/2006
+
+O Plano Nacional de Leitura é uma iniciativa do XVII Governo Constitucional que pretende constituir uma resposta institucional à preocupação pelos níveis de literacia da população em geral e em particular dos jovens, significativamente inferiores à média europeia.
+
+Concretiza-se num conjunto de estratégias destinadas a promover o desenvolvimento de competências nos domínios da leitura e da escrita, bem como o alargamento e aprofundamento dos hábitos de leitura, designadamente entre a população escolar.
+
+Destacam-se, como principais acções previstas, as seguintes:
+
+A promoção da leitura diária em jardins-de-infância e escolas de 1.º e 2.º ciclos nas salas de aula;
+
+A promoção da leitura em contexto familiar;
+
+A promoção de leitura em bibliotecas públicas e noutros contextos;
+
+O recurso aos meios de comunicação social e a campanhas para sensibilização da opinião pública;
+
+A produção de programas centrados no livro e na leitura a emitir pela rádio e pela televisão;
+
+O apoio a blogs e chat-rooms sobre livros e leitura para crianças, jovens e adultos.
+
+Pretende-se que o Plano Nacional de Leitura seja tecnicamente fundamentado por um conjunto de estudos que permitam operacionalizar metas a atingir, em cada fase, criar instrumentos de avaliação para verificar a respectiva consecução e avaliar a eficácia das diferentes acções lançadas no âmbito do Plano. Neste sentido, deverá promover-se a apreciação dos referidos estudos por um conselho científico de especialistas convidados para o efeito pelos membros do Governo responsáveis pelo Plano.
+
+Para assegurar a comunicação dos programas e iniciativas e a interacção com as escolas e com todas as entidades envolvidas será construído um site, em permanente actualização, com orientações de leitura para cada idade e instrumentos metodológicos destinados a educadores, professores, pais, bibliotecários, mediadores e animadores e eventuais voluntários.
+
+Prevê-se ainda acções de formação presenciais e online destinadas a educadores, professores, mediadores e voluntários. As escolas e jardins-de-infância deverão trabalhar com conjuntos diversificados de livros, adequados a cada nível de escolaridade.
+
+No quadro da divulgação do Plano Nacional de Leitura junto da sociedade civil, podem ainda ser chamados a colaborar na sua execução escritores, ilustradores, criadores e outras entidades que se disponibilizem a participar em acções ou a promover iniciativas, designadamente através da indicação de uma comissão de honra do Plano Nacional de Leitura, para acompanhar, apreciar e apoiar a realização do mesmo.
+
+Finalmente, permite-se a colaboração de parceiros, mecenas e patrocinadores, cujo contributo se considera fundamental para a criação de um ambiente social favorável ao alargamento de hábitos culturais na área do livro e da leitura.
+
+Assim:
+
+Ao abrigo do artigo 28.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de Janeiro, na redacção que lhe foi dada pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de Agosto, e nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Aprovar o Plano Nacional de Leitura, constante do anexo à presente resolução e da qual faz parte integrante.
+
+2 - Reconhecer, nos termos do Estatuto do Mecenato, aprovado pelo [Decreto-Lei n.º 74/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1999-144987), de 16 de Março, que os apoios concedidos em 2006 para a concretização do Plano Nacional de Leitura são considerados de superior interesse para a educação e podem usufruir dos benefícios fiscais legalmente previstos.
+
+3 - Nomear para o cargo de comissária do Plano Nacional de Leitura a mestre Maria Isabel Girão de Melo Veiga Vilar, cujo mandato tem a duração de três anos, renováveis durante a execução do Plano, e cujo estatuto remuneratório é fixado por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da educação.
+
+4 - Determinar a criação de uma comissão interministerial de apoio à execução do Plano Nacional de Leitura, competindo-lhe, em especial:
+
+a) Planificar as actividades necessárias à concretização do Plano Nacional de Leitura, elaborando o plano de acção, o relatório de execução e o respectivo orçamento e assegurando o apoio técnico e logístico, bem como a gestão das verbas afectas à sua concretização;
+
+b) Identificar as instituições passíveis de colaborar no desenvolvimento do Plano Nacional de Leitura e celebrar protocolos visando a obtenção de parcerias, mecenato e patrocínios, bem como estabelecer os contactos com as várias entidades intervenientes no Plano, designadamente as autarquias locais, organizações profissionais e instituições ligadas à educação e cultura;
+
+c) Assegurar a necessária articulação com os membros do Governo responsáveis pelas áreas da cultura e da comunicação social, com as direcções regionais de educação e de cultura e demais departamentos e serviços envolvidos, tendo em vista o desenvolvimento e execução do Plano.
+
+5 - Determinar que a comissão referida no número anterior é designada por despacho conjunto dos membros do Governo responsáveis pelas áreas da educação, da cultura e da comunicação social, de entre funcionários ou agentes dos serviços a envolver na execução do Plano, que acumulam funções com as que desempenham nos respectivos lugares de origem, sem acréscimo remuneratório.
+
+6 - Determinar que a comissão referida no n.º 4 desenvolve o seu trabalho em estreita articulação com a rede de bibliotecas escolares.
+
+7 - Determinar que o apoio técnico e logístico à comissão referida no n.º 4 é prestado pela Direcção-Geral de Inovação e Desenvolvimento Curricular.
+
+8 - Determinar que no processo de coordenação, execução, monitorização e avaliação do Plano Nacional de Leitura, e mediante proposta do comissário, pode ser solicitada a colaboração e o apoio logístico a outros serviços e organismos do Estado, a quem compete prestar toda a colaboração, apoio e informação que lhes for solicitada para a realização das diversas actividades previstas e a realizar.
+
+9 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+
+Presidência do Conselho de Ministros, 1 de Junho de 2006. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## ANEXO — Plano Nacional de Leitura
+
+1 - Introdução. - Os resultados globais de estudos nacionais e internacionais realizados nas últimas duas décadas demonstram que, no que respeita ao domínio da leitura, a situação de Portugal é grave, revelando baixos níveis de literacia, significativamente inferiores à média europeia, tanto na população adulta, como entre crianças e jovens em idade escolar.
+
+Entre os estudos mais recentes, conta-se o PISA (Programme for International Student Assessment), lançado pela OCDE em 1997 para medir a capacidade de os jovens de 15 anos usarem conhecimentos na vida real. Os resultados relativos a avaliação de níveis de leitura (literacia de leitura) revelam que Portugal se encontra numa situação muito desfavorável. Os primeiros elementos, publicados em 2000, colocaram 48% dos jovens portugueses nos patamares inferiores (1 ou 2) de uma escala de cinco níveis. E entre a primeira apresentação de resultados e a seguinte, em 2003, não se detectou evolução positiva. Também os resultados das provas de aferição, realizadas no final do 1.º ciclo, tornaram evidente que a maioria das crianças faz a transição para o 2.º ciclo sem ter adquirido competências básicas no domínio da leitura e da escrita.
+
+Apesar do investimento da escola e do investimento das bibliotecas, que, nas últimas décadas, têm vindo a desenvolver múltiplas actividades destinadas a cultivar o interesse pelo livro e o prazer de ler, a situação mantém-se preocupante. Para a alterar, torna-se urgente compreender as razões mais profundas do problema e encontrar o rumo que permita ultrapassá-lo.
+
+O Plano Nacional de Leitura propõe-se criar condições para que os Portugueses alcancem níveis de leitura em que se sintam plenamente aptos a lidar com a palavra escrita em qualquer circunstância da vida, possam interpretar a informação disponibilizada pela comunicação social, aceder aos conhecimentos da ciência e desfrutar as grandes obras da literatura.
+
+2 - Objectivos do Plano Nacional de Leitura. - São objectivos do Plano Nacional de Leitura:
+
+a) Promover a leitura, assumindo-a como factor de desenvolvimento individual e de progresso colectivo;
+
+b) Criar um ambiente social favorável à leitura;
+
+c) Inventariar e valorizar práticas pedagógicas e outras actividades que estimulem o prazer de ler entre crianças, jovens e adultos;
+
+d) Criar instrumentos que permitam definir metas cada vez mais precisas para o desenvolvimento da leitura;
+
+e) Enriquecer as competências dos actores sociais, desenvolvendo a acção de professores e de mediadores de leitura, formais e informais;
+
+f) Consolidar e ampliar o papel da rede de bibliotecas públicas e da rede de bibliotecas escolares no desenvolvimento de hábitos de leitura;
+
+g) Atingir resultados gradualmente mais favoráveis em estudos nacionais e internacionais de avaliação de literacia.
+
+3 - Linhas de estratégia. - O Plano Nacional de Leitura assenta nas seguintes linhas de estratégia:
+
+3.1 - Alargar e diversificar as acções promotoras de leitura em contexto escolar, na família e em outros contextos sociais através de:
+
+a) Lançamento de programas de promoção da leitura para os diferentes sectores dos públicos alvo;
+
+b) Acções de estímulo nas crianças e jovens do prazer de ler, intensificando o contacto com o livro e a leitura na escola, designadamente nas salas de aula, nas bibliotecas e na família;
+
+c) Criação de oportunidades de leitura para as crianças, jovens e adultos que requerem meios especiais de leitura;
+
+d) Reforço da promoção da leitura em espaços convencionais de leitura, designadamente nas bibliotecas públicas;
+
+e) Criação de oportunidades de leitura e contacto com os livros em espaços não convencionais de leitura.
+
+3.2 - Contribuir para criar um ambiente social favorável à leitura, mediante:
+
+a) Disponibilização de informação, alargar o conhecimento e o debate público sobre as questões da leitura e da literacia;
+
+b) Mobilização da comunidade literária, da comunidade científica e dos órgãos de comunicação social para a questão da leitura e para os objectivos do Plano;
+
+c) Reforço da cooperação e da conjugação de esforços entre a escola, a família, as bibliotecas e outras organizações sociais;
+
+d) Valorização, divulgação e apoio ao esforço de profissionais e instituições com intervenção na área da leitura;
+
+e) Estabelecimento de parcerias e desenvolvimento de acções concertadas, mobilizando entidades públicas e privadas.
+
+3.3 - Assegurar formação e instrumentos de apoio através de:
+
+a) Definição de parâmetros para a formação de educadores, professores e mediadores de leitura de acordo com os princípios do Plano Nacional de Leitura;
+
+b) Disponibilização de instrumentos, conteúdos e metodologias orientadoras da formação de professores e mediadores de leitura;
+
+c) Disponibilização de orientação e apoio directo e online a práticas promotoras de leitura na escola, na biblioteca escolar, na família, na biblioteca pública e noutros contextos culturais;
+
+d) Mobilização de instituições de formação para ampliar a oferta na área da leitura;
+
+e) Coordenação e divulgação de acções de formação para mediadores de leitura organizadas por diferentes instituições.
+
+3.4 - Inventariar e optimizar recursos e competências nos seguintes domínios:
+
+a) Inventariar, descrever e divulgar programas, iniciativas e experiências que têm contribuído para criar hábitos de leitura;
+
+b) Atender aos resultados da experiência nacional e às experiências de outros países na organização de novas iniciativas;
+
+c) Proporcionar livros e outros recursos de informação às escolas;
+
+d) Recorrer às novas tecnologias de comunicação para promover o acesso ao livro estimular a diversificação das actividades de leitura e a informação sobre livros e autores;
+
+e) Angariar e optimizar financiamentos e co-financiamentos.
+
+3.5 - Criar e manter um sistema de informação e avaliação que permita:
+
+a) Inventariar e divulgar os resultados de investigação já realizada e as iniciativas bem sucedidas, tanto em Portugal como noutros países;
+
+b) Disponibilizar informação actualizada sobre literacia e hábitos de leitura dos Portugueses;
+
+c) Criar modelos de avaliação que permitam efectuar balanços de situação;
+
+d) Criar instrumentos de avaliação utilizáveis em contexto escolar que permitam aos docentes dos vários níveis de escolaridade monitorizar o desenvolvimento da leitura e da escrita dos seus alunos;
+
+e) Avaliar políticas e acções a desenvolver no âmbito do Plano Nacional de Leitura.
+
+4 - Destinatários e áreas de intervenção. - O Plano Nacional de Leitura deve lançar medidas que abranjam os vários sectores da população desde a primeira infância até à idade adulta. No entanto, os estudos demonstram que as competências básicas ou se adquirem precocemente, nas primeiras etapas da vida, ou dão lugar a dificuldades que progressivamente se acumulam, se multiplicam e transformam em obstáculos quase intransponíveis.
+
+Este pressuposto aconselha que, na primeira fase, se eleja como público alvo prioritário as crianças em educação pré-escolar e os primeiros seis anos do ensino básico, nos termos referidos no quadro n.º 1.
+
+Para se atingirem as crianças e os jovens é indispensável mobilizar os principais responsáveis pela sua educação; por este motivo considera-se também como público alvo privilegiado educadores e professores, pais e encarregados de educação, bibliotecários, mediadores e animadores de leitura.
+
+5 - Fases de execução:
+
+5.1 - O Plano executa-se em duas fases, de cinco anos cada. A 1.ª fase inicia-se em Setembro de 2006 e engloba:
+
+a) Programas de intervenção e de formação;
+
+b) Apoio e divulgação de projectos promovidos por outras entidades (públicas, da sociedade civil e privadas);
+
+c) Um plano de comunicação;
+
+d) Estudos e avaliação do Plano Nacional de Leitura.
+
+5.2 - A 2.ª fase inicia-se após a conclusão e divulgação dos resultados dos estudos a realizar no decurso da 1.ª fase, incluindo a avaliação dos diferentes programas, devendo haver lugar à definição de novas metas, estudos e programas.
+
+6 - Programas. - No quadro do Plano Nacional de Leitura, são adoptados os seguintes programas:
+
+6.1 - Programas de incentivo e promoção da leitura:
+
+a) Em contextos escolares (nos termos descritos nos quadros n.os 2 e 3):
+
+i) Nas salas de aulas;
+
+ii) Nas bibliotecas escolares;
+
+b) No contexto das bibliotecas públicas e outros espaços da comunidade;
+
+c) Em contexto familiar/tempo livre (nos termos descritos no quadro n.º 4);
+
+d) Em contextos não convencionais de leitura.
+
+6.2 - Projectos experimentais de promoção da leitura;
+
+6.3 - Apoio a iniciativas de outras instituições (públicas, privadas e da sociedade civil).
+
+7 - Apoios/formação. - Os vários programas são apoiados mediante:
+
+a) A disponibilização online de orientações para as actividades de leitura, designadamente:
+
+i) Listas de obras recomendadas para leitura na sala de aula e para leitura autónoma;
+
+ii) Orientações para leitura orientada na sala de aula, para actividades centradas nos livros e para avaliação do progresso dos alunos;
+
+b) O financiamento gradual das escolas, com o contributo de parceiros, mecenas e patrocinadores, para que adquiram conjuntos de obras adequadas às actividades da hora de leitura dos vários anos;
+
+c) A formação online e presencial dirigida aos educadores, professores, bibliotecário, contadores de histórias, animadores e mediadores.
+
+8 - Plano de comunicação. - O plano de comunicação destina-se a sensibilizar a opinião pública, criar condições para um acolhimento favorável da parte dos diferentes sectores do público alvo e da comunicação social e mobilizar instituições, captar parceiros, mecenas e patrocinadores. O Plano de Comunicação prevê, desde já, os seguintes recursos:
+
+a) O sítio do Plano Nacional de Leitura na Internet, para disponibilizar informação e orientações, criar uma rede nacional de informação sobre projectos e iniciativas de promoção da leitura e permitir monitorizar a acção dos diferentes participantes;
+
+b) A campanha de promoção da leitura e os concursos e prémios nacionais de leitura a realizar, com o apoio de canais de televisão, de rádios, da imprensa nacional e regional e de parceiros, mecenas e patrocinadores.
+
+9 - Estruturas de coordenação do Plano Nacional de Leitura. - São responsáveis pela coordenação do Plano Nacional de Leitura os seguintes serviços e organismos:
+
+a) O Gabinete da Rede de Bibliotecas Escolares, ao qual compete a coordenação do Plano Nacional de Leitura;
+
+b) O Instituto Português do Livro e das Bibliotecas (IPLB), que desempenha funções de parceiro estratégico responsável pelos programas na área da cultura;
+
+c) O Instituto da Comunicação Social (ICS), que desempenha funções de parceiro estratégico para as iniciativas na área da comunicação social;
+
+d) O Gabinete de Informação e Avaliação do Sistema Educativo do Ministério da Educação (GIASE), ao qual compete a coordenação geral dos estudos, incluindo a avaliação do Plano.
+
+10 - Estudos/avaliação do Plano Nacional de Leitura. - Os estudos necessários à execução do Plano Nacional de Leitura, identificados no quadro n.º 6, são encomendados a especialistas e centros de investigação, cabendo ao conselho científico do Plano Nacional de Leitura apreciar a pertinência dos domínios de investigação identificados, bem como os parâmetros definidos pelos responsáveis de cada estudo.
+
+Do QUADRO N.º 1 ao QUADRO N.º 5
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13300/48564861.pdf)
+
+QUADRO N.º 6
+
+Estudos a realizar
+
+Estudos sociológicos:
+
+Inquérito aos hábitos de leitura dos Portugueses;
+
+Inquérito aos hábitos de leitura da população escolar;
+
+Inquérito sobre promoção de leitura na escola;
+
+Identificação e análise de práticas nacionais e internacionais (OCDE) para promoção da leitura.
+
+Estudos linguísticos:
+
+Levantamento de instrumentos de avaliação de leitura produzidos em Portugal;
+
+Aferição de instrumentos de avaliação da leitura;
+
+Definição de instrumentos a criar;
+
+Estabelecimento de níveis de referência (benchmarks) do desenvolvimento da leitura (dos 1.º ao 6.º anos de escolaridade).
+
+Estudos pedagógicos - práticas pedagógicas para o desenvolvimento da leitura e da escrita.
+
+Avaliação do Plano Nacional de Leitura:
+
+Execução dos programas;
+
+Atitudes dos diferentes segmentos do público abrangido;
+
+Impacte dos programas no desenvolvimento da leitura.

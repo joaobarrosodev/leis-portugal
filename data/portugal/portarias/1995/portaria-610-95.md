@@ -1,0 +1,119 @@
+---
+schema_version: '1.0'
+id: pt:dre:515989:por
+title: Portaria n.º 610/95
+short_title: null
+summary: Altera o quadro de pessoal do Secretariado Nacional de Reabilitação, na parte respeitante aos grupos de pessoal técnico-profissional
+  e de pessoal administrativo
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Emprego e da Segurança Social
+proposing_entity: null
+official_number: 610/95
+official_date: null
+publication_date: '1995-06-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 140/1995, Série I-B de 1995-06-20
+  number: '140'
+  series: I
+  supplement: null
+  pages: 3977 - 3977
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/06/140b00/39773977.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/610/1995/06/20/p/dre/pt/html
+  oj: null
+  dre: '515989'
+  dre_path: /dr/detalhe/portaria/610-1995-515989
+  internal: pt:dre:515989:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/610-1995-515989
+  metadata_url: https://data.dre.pt/eli/port/610/1995/06/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/610-1995-515989
+  consolidated_url: null
+  retrieved_at: '2026-10-23T13:06:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ae3a5e1f3dd1fddb929c3d14e4fae1cf4f7b26031d8afc28ed0a206799137640
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:06:48Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal Administrativo
+- Pessoal de BAD
+- Pessoal Técnico Profissional
+- Quadro de Pessoal
+- Secretariado Nacional de Reabilitação
+relationships:
+- type: cites
+  target: pt:dre:258131:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/184/1992/08/22/p/dre
+- type: cites
+  target: pt:dre:585226:por
+  label: null
+  source: http://data.dre.pt/eli/port/78/1993/01/21/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T13:06:48Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 610/95
+
+de 20 de Junho
+
+Considerando que pelo [Decreto-Lei n.º 184/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1992-258131), de 22 de Agosto, foi atribuída competência na área funcional de biblioteca e documentação ao Secretariado Nacional de Reabilitação, através do Centro de Maria Cândida da Cunha;
+
+Considerando que o quadro de pessoal do mesmo Secretariado, aprovado pela [Portaria n.º 78/93](https://diariodarepublica.pt/dr/detalhe/portaria/78-1993-585226), de 21 de Janeiro, não inclui a carreira de técnico-adjunto de biblioteca e documentação;
+
+Considerando que se mostra imprescindível ao regular funcionamento do Centro de Maria Cândida da Cunha dispor de técnicos qualificados para o tratamento e gestão do património informativo e documental e para o atendimento do público da biblioteca;
+
+Considerando ainda as necessidades do serviço e a escassez de pessoal administrativo;
+
+Em execução do disposto no n.º 1 do artigo 18.º do [Decreto-Lei n.º 184/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1992-258131), de 22 de Agosto:
+
+Manda o Governo, pelos Ministros das Finanças e do Emprego e da Segurança Social, que seja alterado o quadro de pessoal do Secretariado Nacional de Reabilitação, aprovado pela [Portaria n.º 78/93](https://diariodarepublica.pt/dr/detalhe/portaria/78-1993-585226), de 21 de Janeiro, no que respeita aos grupos de pessoal técnico-profissional e de pessoal administrativo, conforme o mapa anexo à presente portaria, da qual faz parte integrante.
+
+Ministérios das Finanças e do Emprego e da Segurança Social.
+
+Assinada em 25 de Maio de 1995.
+
+Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/140b00/39773977.pdf)

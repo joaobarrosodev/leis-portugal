@@ -1,0 +1,251 @@
+---
+schema_version: '1.0'
+id: pt:dre:221724:por
+title: Decreto Legislativo Regional n.º 21/86/M
+short_title: null
+summary: Classifica a zona velha da cidade do Funchal como conjunto arquitectónico de valor regional
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Regional
+proposing_entity: null
+official_number: 21/86/M
+official_date: null
+publication_date: '1986-10-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 227/1986, Série I de 1986-10-02
+  number: '227'
+  series: I
+  supplement: null
+  pages: 2854 - 2857
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/10/22700/28542857.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '221724'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/21-1986-221724
+  internal: pt:dre:221724:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1986-221724
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1986-221724
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:38:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3ce25c20f5a6794506b89b3019c19f782692de16266a8377eba8d0c9bdd26657
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:06Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Funchal
+- Gabinete Técnico da ZONA Velha da Cidade do Funchal
+- Madeira.região Autónoma
+- Protecção do Património
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684616:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:38:06Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 21/86/M
+
+Classificação da zona velha da cidade do Funchal e sua regulamentação
+
+A elaboração desta legislação parte da preocupação em proteger a zona velha - uma área da cidade do Funchal particularmente significativa, pelos factores de ordem histórico-artística e cultural que nela concorrem - e toma em consideração experiências internacionais e as recomendações do Conselho Cultural do Conselho da Europa, da UNESCO e da FIHUOT, bem como uma profunda análise da zona.
+
+A zona velha impõe-se essencialmente pelo pitoresco do seu conjunto, amálgama de épocas e de estilos diferentes cujo valor não depende tanto de imóveis isolados, embora tenham indiscutível interesse, como de todo um quadro urbano que acompanha e testemunha a história da ilha ao longo dos séculos.
+
+Nesta zona coexistem vestígios de cunho manuelino, indícios da prosperidade atingida com o comércio do açúcar; construções dos séculos XVII e XVIII patenteado características expressivas, quer dos condicionalismos impostos pela indústria vinícola, quer do enriquecimento dela resultante; edifícios do século passado e deste. Assim, encara-se a recuperação desta área não como a preservação de um imóvel, de um pormenor arquitectónico ou artístico, mas como a defesa de um conjunto, agora demarcado na medida em que se evidencia como tal.
+
+Esta legislação visa garantir a protecção da antiga zona de Santa Maria, onde se implantou em princípios do século XV o primitivo núcleo urbano, do qual restam vestígios do traçado viário, e onde se estabeleceu a primeira paróquia da ilha. Berço da cidade, dá testemunho de uma primeira tentativa colonizadora, expressiva da nova mentalidade expansionista de que Portugal foi pioneiro nos tempos modernos, surgida na esteira das grandes transformações que então se operavam na Europa Ocidental.
+
+Assim, a Assembleia Regional da Madeira decreta, nos termos da alínea a) do artigo 229.º da Constituição e da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o seguinte:
+
+### CAPÍTULO I — Classificação e delimitação
+
+Artigo 1.º A zona velha da cidade do Funchal é classificada com conjunto arquitectónico de valor regional.
+
+Art. 2.º - 1 - A zona classificada é delimitada nos termos:
+
+Começa a oeste na linha da costa no ponto de prolongamento do eixo da Rua de Artur de Sousa «Pinga» e segue por este eixo até cruzar com a linha de eixo da Rua de D. Carlos I. Segue-o até à margem este da ribeira de João Gomes;
+
+Inflecte para norte pela margem este da ribeira de João Gomes, incluindo o Largo do Poço e o Largo dos Lavradores, até cruzar a linha que limita o norte deste largo;
+
+Segue por esta linha, na direcção do eixo da Rua de Latino Coelho;
+
+Segue o eixo dessa rua e inflecte para norte, englobando o Largo das Torneiras, continuando até se encontrar com o prolongamento do eixo da Rua Bela de São Tiago;
+
+Prossegue pelo eixo dessa rua até à intercepção com o prolongamento do eixo da Travessa de João Ribeiro;
+
+Continua pela linha de eixo desta travessa, até ao ponto em que se cruza com o segmento que limita as traseiras dos edifícios cujas fachadas dão para o lado norte da Rua de Santa Maria, até ao Largo do Socorro;
+
+Inflecte para norte, limitando as traseiras da igreja do Socorro e desce pelo eixo da Rua do Aspirante Mota Freitas até cruzar com o prolongamento do segmento que limita as traseiras dos restantes edifícios localizados no lado norte do Largo do Socorro;
+
+Segue pelo limite este do último edifício do referido largo no sentido sul até interceptar a linha da costa, onde termina.
+
+2 - Os limites definidos no n.º 1 encontrando-se desenhados na planta anexa ao presente diploma.
+
+Art. 3.º É criada a zona de protecção periférica da zona velha da cidade, que é limitada por uma faixa de 50 m de largura a partir das linhas definidas no artigo 2.º
+
+Art. 4.º As medidas previstas no presente diploma entendem-se sem prejuízo de outras destinadas à protecção do património natural ou cultural.
+
+### CAPÍTULO II — Princípios gerais
+
+Art. 5.º - 1 - A zona classificada deverá conservar o seu aspecto característico, respeitando integralmente a arquitectura antiga, sem prejuízo dos trabalhos indispensáveis de limpeza, manutenção e restauro das edificações.
+
+2 - Nenhuns trabalhos de construção civil, de obras públicas ou de aplicação de anúncios de qualquer tipo poderão ser executados na zona classificada sem parecer favorável do secretário regional que tutela a cultura e o património.
+
+3 - Será proibida a instalação de indústrias poluentes ou de quaisquer actividades susceptíveis de produzirem fumos, ruídos ou cheiros.
+
+4 - É proibido o aumento de cércea dos edifícios, assim como a construção em espaços livres públicos ou privados.
+
+Art. 6.º Nas zonas de protecção periférica da zona velha da cidade, definida no artigo 3.º, deverá ser condicionada a construção de edifícios cuja alternativa seja susceptível de provocar a rotura de escala ou modificações de ambiente.
+
+Art. 7.º O Plano Director da Cidade do Funchal deverá respeitar o estabelecido neste diploma.
+
+Art. 8.º - 1 - Os alinhamentos dos edifícios e muros sobre as ruas ou logradouros e os respectivos níveis e alturas serão mantidos tal como existem.
+
+2 - Os pavimentos existentes, particularmente o tradicional pavimento de calhau rolado, deverão ser preservados.
+
+Art. 9.º Ficará protegida qualquer tipo de vegetação de grande e médio porte existente na zona classificada.
+
+Art. 10.º Os projectos de novas construções ou de restauros em edifícios danificados ou de qualidade deverão ser exclusivamente subscritos por arquitectos, nos termos do n.º 4 do artigo 3.º do [Decreto n.º 73/73](https://diariodarepublica.pt/dr/detalhe/decreto/73-1973-684616), de 28 de Fevereiro.
+
+### CAPÍTULO III — Conjunto edificado
+
+Art. 11.º - 1 - Serão respeitadas as características arquitectónicas e históricas dos imóveis existentes, nomeadamente quanto ao seu volume, a sua silhueta, a sua implantação, a sua dimensão e configuração da sua cobertura.
+
+2 - Como elementos tradicionais que caracterizam a volumetria do conjunto edificado, devem ser preservados as torres, os mirantes e os balcões.
+
+Art. 12.º - 1 - Na reconstrução de edifícios, parcial ou totalmente danificados, respeitar-se-ão as características estruturais, arquitectónicas e formais do imóvel original.
+
+2 - Na reconstrução de edifícios antigos danificados dever-se-ão utilizar os materiais tradicionais, nomeadamente as cantarias de pedra dos emolduramentos dos vãos, cunhais, faixas, pilastras e cornijas, bem como outros elementos ornamentais existentes.
+
+### CAPÍTULO IV — Fachadas
+
+Art. 13.º - 1 - Deverão ser mantidas as fachadas de todos os edifícios, conservando-se inalterado o ritmo das suas aberturas, as suas características e dimensões, bem como a relação entre cheios e vazios.
+
+2 - No caso de haver necessidade de proceder a obras de reparação nas fachadas dos edifícios referidos no número anterior, deverão fazer-se desaparecer as modificações e adjunções que nelas hajam sido introduzidas e consideradas prejudiciais e restabelecidas as características das mesmas, com uso dos materiais e das respectivas técnicas de tratamento tradicionais.
+
+3 - Sempre que se tenham irremediavelmente danificado os materiais originais das fachadas dos edifícios antigos, poder-se-ão utilizar materiais modernos na reparação ou restauro das mesmas, desde que da sua aplicação não resulte qualquer tipo de aviltamento das características formais e estéticas dessas fachadas.
+
+Art. 14.º Deverão ser preservados todos os pormenores com carácter arquitectónico ou os que conferem à zona um carácter pitoresco ou específico, tal como batentes, gradeamentos de vãos e ferragens de portas e janelas, assim como os selos de seguros existentes.
+
+### CAPÍTULO V — Telhados
+
+Art. 15.º A configuração, a textura e a cor dos telhados deverão ser mantidas.
+
+Art. 16.º - 1 - As chaminés antigas existentes devem ser consolidadas e preservadas, assim como os antigos fornos característicos existentes nalguns edifícios da zona.
+
+2 - É proibida a construção de chaminés e respiradouros de ventilação em alumínio ou qualquer outro material que contribua para o desequilíbrio estético da zona.
+
+### CAPÍTULO VI — Logradouros e saguões
+
+Art. 17.º A Câmara Municipal do Funchal poderá determinar a Preservarão dos logradouros ou jardins privados cuja situação, grandeza ou beleza o justifiquem quem e a sua recuperação, nos termos do artigo 12.º do presente diploma.
+
+### CAPÍTULO VII — Restauros
+
+Art. 18.º - 1 - Constituem elementos obrigatórios dos projectos de restauro:
+
+a) Levantamento desenhado e rigoroso do existente;
+
+b) Documentação fotográfica pormenorizada.
+
+2 - O projecto respeitará integralmente as características externas do edifício, podendo prever alterações interiores convenientes.
+
+### CAPÍTULO VIII — Utilização das edificações
+
+Art. 19.º - 1 - Os edifícios poderão ser utilizados livremente, nos termos da lei e regulamentos vigentes, sem prejuízo para o carácter, estrutura e ambiente urbanos dos edifícios nem rotura das tipologias arquitectónicas ou de morfologia urbana existente.
+
+2 - Será vedada nova utilização de construções danificadas que se mostre incompatível com a dignidade das mesmas.
+
+3 - As garagens particulares serão autorizadas quando a sua instalação for esteticamente admissível e não interferirem com os arruamentos destinados exclusivamente a peões.
+
+### CAPÍTULO IX — Gabinete técnico da zona classificada
+
+Art. 20.º - 1 - É criado, na dependência da Câmara Municipal do Funchal, o Gabinete Técnico da Zona Velha da Cidade do Funchal (GTZVCF), composto por um representante da Secretaria Regional do Turismo e Cultura, um da Secretaria Regional do Equipamento Social e outro da Câmara Municipal do Funchal.
+
+2 - A Câmara Municipal do Funchal dotará o GTZVCF de meios humanos e técnicos necessários ao cumprimento da sua missão.
+
+Art. 21.º Ao GTZVCF compete:
+
+a) Elaborar estudos técnicos necessários à reconstrução, reintegração ou restauro dos imóveis situados na zona classificada;
+
+b) Elaborar pareceres sobre todo e qualquer projecto de obras a efectuar na referida zona classificada e acompanhar e fiscalizar a execução das obras;
+
+c) Elaborar pareceres sobre todo e qualquer projecto de obras a efectuar na zona de protecção periférica;
+
+d) Apresentar, no prazo de 150 dias, um plano de acção definidor das orientações a estabelecer na zona da sua competência.
+
+Art. 22.º A tramitação da aprovação e licenciamento dos processos de obras e outros será regulamentada pela legislação, em vigor, nomeadamente o Regulamento Geral das Edificações Urbanas e legislação complementar.
+
+### CAPÍTULO X — Sanções
+
+Art. 23.º - 1 - A realização de quaisquer obras por parte de pessoas, singulares ou colectivas, não aprovadas será punida com as multas previstas no Regulamento Geral das Edificações Urbanas e demais legislação aplicável em vigor.
+
+2 - Em caso de reincidência, as multas terão os seus limites elevados para o dobro.
+
+### CAPÍTULO XI — Disposições finais
+
+Art. 24.º A Câmara Municipal do Funchal definirá no prazo de 30 dias, as normas regulamentares de construção aplicáveis à zona constantes do presente diploma.
+
+Art. 25.º O Governo Regional e a Câmara Municipal do Funchal estudarão as medidas que possam constituir incentivo à recuperação e manutenção dos imóveis existentes na zona classificada.
+
+Art. 26.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em sessão plenária de 31 de Julho de 1986.
+
+O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.
+
+Assinado em 21 de Agosto de 1986.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/22700/28542857.pdf)

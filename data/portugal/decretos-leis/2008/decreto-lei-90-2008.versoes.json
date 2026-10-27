@@ -1,0 +1,640 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:448963:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-164870870",
+ "dre_path": "/dr/detalhe/decreto-lei/90-2008-448963",
+ "source_lastmod": "2025-02-04",
+ "versions": [
+  {
+   "date": "2008-05-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "164871131",
+    "164871132",
+    "164871133",
+    "164871134",
+    "164871135",
+    "164871136",
+    "164871137",
+    "164871138",
+    "164871140",
+    "164871141",
+    "164871142",
+    "164871143",
+    "164871144",
+    "164871145",
+    "164871146",
+    "164871147",
+    "164871148",
+    "164871149",
+    "164871150",
+    "164871151",
+    "164871152",
+    "164871153",
+    "164871154",
+    "164871155",
+    "164871156",
+    "164871157",
+    "164871158",
+    "164871159",
+    "164871160",
+    "164871161",
+    "164871162",
+    "164871163",
+    "164871164",
+    "164871165",
+    "164871166",
+    "164871167",
+    "164871168",
+    "164871169",
+    "164871170",
+    "164871171",
+    "164871172",
+    "164871173",
+    "164871174",
+    "164872875",
+    "164872876",
+    "164872877",
+    "164872878",
+    "164872879",
+    "164872880",
+    "164872881",
+    "164872882",
+    "164872883",
+    "164872884",
+    "164872885",
+    "164872886",
+    "164872887",
+    "164872888",
+    "164872889",
+    "164872890",
+    "164872891",
+    "164872892",
+    "164872893",
+    "164872894",
+    "164872895",
+    "164872896",
+    "164872897",
+    "164872898",
+    "164872899",
+    "164872900"
+   ]
+  }
+ ],
+ "fragments": {
+  "164871131": {
+   "fragment_id": "164870871",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 90/2008\n\nde 30 de Maio\n\nO presente decreto-lei visa introduzir no regime geral de acesso e ingresso no ensino superior algumas alterações decorrentes, designadamente: i) do novo enquadramento de algumas matérias relacionadas com o acesso ao ensino superior introduzido pela Lei n.º 62/2007, de 10 de Setembro (regime jurídico das instituições de ensino superior); ii) das alterações introduzidas pela Comissão Nacional de Acesso ao Ensino Superior (CNAES) no que se refere ao prazo de utilização dos exames nacionais do ensino secundário como provas de ingresso, e iii) do novo regime de graus e diplomas aprovado pelo Decreto-Lei n.º 74/2006, de 24 de Março.\n\nVisa igualmente aperfeiçoar e simplificar alguns aspectos desse regime tendo, designadamente, em consideração as propostas e recomendações que têm sido formuladas pela CNAES.\n\nAssim, e em especial:\n\nAltera-se o procedimento de fixação das vagas em consonância com o regime fixado pelo artigo 64.º da Lei n.º 62/2007, de 10 de Setembro (Regime jurídico das instituições de ensino superior);\n\nEstabelece-se que os exames de cursos não portugueses equivalentes ao ensino secundário português podem ser utilizados como provas de ingresso por um prazo idêntico ao fixado pela CNAES para a utilização dos exames nacionais do ensino secundário, de forma a assegurar a igualdade de tratamento entre todos os candidatos, qualquer que seja a sua origem académica;\n\nComete-se à CNAES a aprovação dos regulamentos de realização dos pré-requisitos, sob proposta das instituições de ensino superior que os solicitam, e não apenas a sua homologação, de forma a assegurar uma mais adequada coordenação daqueles;\n\nAtribui-se à CNAES competência para fixar os critérios a adoptar para a atribuição de um valor à classificação final do ensino secundário aos candidatos cujo diploma de ensino secundário, nos termos da lei, a não inclui;\n\nSuprime-se a restrição à inscrição simultânea em dois ciclos de estudos superiores.\n\nFinalmente, com carácter transitório, e tendo em vista assegurar uma adequada aplicação no tempo da norma constante do artigo 20.º-B do Decreto-Lei n.º 296-A/98, de 25 de Setembro, aos candidatos oriundos de alguns percursos académicos, eliminando eventuais desigualdades de tratamento naquele aspecto, autoriza-se a CNAES a aprovar, para o ingresso nos anos lectivos de 2008-2009 e de 2009-2010, regras de transição sobre a aplicação progressiva do disposto na referida norma, no que se refere à área da Física, sem prejuízo da plena aplicação desta norma legal a partir do ingresso no ano lectivo de 2010-2011, inclusive.\n\nFoi ouvida a Comissão Nacional de Acesso ao Ensino Superior.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 46/86, de 14 de Outubro (Lei de Bases do Sistema Educativo), alterada pelas Leis n.os 115/97, de 19 de Setembro, e 49/2005, de 30 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "164871132": {
+   "fragment_id": "164870872",
+   "type": 11,
+   "heading": "Artigo 1.º — Alteração ao Decreto-Lei n.º 296-A/98, de 25 de Setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alteração ao Decreto-Lei n.º 296-A/98, de 25 de Setembro\n\nOs artigos 2.º, 4.º, 5.º, 20.º, 20.º-A, 21.º, 22.º, 23.º, 26.º, 40.º e 42.º do Decreto-Lei n.º 296-A/98, de 25 de Setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de Março, 26/2003, de 7 de Fevereiro, 76/2004, de 27 de Março, 158/2004, de 30 de Junho, 147-A/2006, de 31 de Julho, 40/2007, de 20 de Fevereiro, e 45/2007, de 23 de Fevereiro, passam a ter a seguinte redacção:\n\n«Artigo 2.º\n\n[...]\n\nEste regime aplica-se ao acesso e ingresso nos estabelecimentos de ensino superior público e particular e cooperativo para a frequência de ciclos de estudos de licenciatura e integrados de mestrado, adiante designados por cursos.\n\nArtigo 4.º\n\nFixação das vagas\n\nAs vagas para os cursos das instituições de ensino superior públicas e privadas são fixadas, anualmente, pelos órgãos legal e estatutariamente competentes de cada instituição nos termos do artigo 64.º da Lei n.º 62/2007, de 10 de Setembro, e comunicadas à Direcção-Geral do Ensino Superior, acompanhadas da respectiva fundamentação, no prazo fixado nos termos do artigo 40.º\n\nArtigo 5.º\n\nFixação das vagas para as instituições de ensino militar e policial\n\nExceptuam-se do disposto no artigo anterior as vagas para as instituições de ensino superior militar e policial, que são fixadas, anualmente, por portaria conjunta dos ministros da tutela.\n\nArtigo 20.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - À fixação das disciplinas sobre que devem incidir as provas de capacidade para a frequência dos ciclos de estudos de licenciatura ou integrados de mestrado aplica-se igualmente o disposto no artigo 181.º da Lei n.º 62/2007, de 10 de Setembro.\n\nArtigo 20.º-A\n\n[...]\n\n1 - ...\n\na) ...\n\nb) (Revogado.)\n\nc) ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - Compete à CNAES:\n\na) Regulamentar a aplicação do disposto no presente artigo;\n\nb) Decidir acerca da homologação a que se refere o n.º 2, designadamente aprovando tabelas de correspondência;\n\nc) Homologar as decisões a que se refere o n.º 3.\n\nd) Fixar as regras para a conversão de classificações a que se refere o n.º 4.\n\n7 - (Revogado.)\n\n8 - As decisões a que se referem os n.os 3 e 6 são proferidas e divulgadas até 31 de Maio do ano que antecede o ano de realização da candidatura.\n\n9 - Os exames a que se refere o n.º 1 podem ser utilizados como provas de ingresso por um prazo idêntico ao fixado pela CNAES para a utilização dos exames nacionais do ensino secundário.\n\nArtigo 21.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) As condições de utilização dos exames a que se refere a alínea b) do artigo 19.º e o n.º 1 do artigo 20.º-A;\n\ne) ...\n\nf) O exercício das competências previstas no n.º 6 do artigo 20.º-A;\n\ng) ...\n\n2 - ...\n\nArtigo 22.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - Cada pré-requisito é objecto de um regulamento aprovado pela CNAES sob proposta dos órgãos legal e estatutariamente competentes dos estabelecimentos de ensino superior que o tenham exigido.\n\n4 - Os regulamentos dos pré-requisitos são publicados na 2.ª série do Diário da República.\n\nArtigo 23.º\n\n[...]\n\n...\n\na) ...\n\nb) ...\n\nc) Aprovar os regulamentos de realização dos pré-requisitos;\n\nd) ...\n\ne) ...\n\nArtigo 26.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - O valor da classificação final do ensino secundário, para os fins do presente artigo, para os candidatos cujo diploma de ensino secundário, nos termos da lei, não inclua essa classificação, é fixado de acordo com critérios a aprovar por deliberação da CNAES, os quais terão em consideração os resultados obtidos nas provas de ingresso realizadas por aqueles.\n\nArtigo 40.º\n\n[...]\n\nOs prazos em que, em cada ano lectivo, devem ser praticados os actos previstos no presente diploma são fixados anualmente por despacho do director-geral do Ensino Superior.\n\nArtigo 42.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) Na 2.ª fase dos exames nacionais do ensino secundário desse ano lectivo, quando o estudante não tenha realizado o mesmo exame na 1.ª fase, estando legalmente habilitado para o fazer.»"
+  },
+  "164871133": {
+   "fragment_id": "164870873",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Norma revogatória\n\nÉ revogado o artigo 44.º do Decreto-Lei n.º 296-A/98, de 25 de Setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de Março, 26/2003, de 7 de Fevereiro, 76/2004, de 27 de Março, 158/2004, de 30 de Junho, 147-A/2006, de 31 de Julho, 40/2007, de 20 de Fevereiro, e 45/2007, de 23 de Fevereiro."
+  },
+  "164871134": {
+   "fragment_id": "164870874",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma transitória\n\nPara a candidatura de 2008, o prazo para a aprovação da regulamentação decorrente das alterações introduzidas pelo presente decreto-lei no artigo 20.º-A do Decreto-Lei n.º 296-A/98, de 25 de Setembro, é fixado em dois meses após a data da sua entrada em vigor."
+  },
+  "164871135": {
+   "fragment_id": "164872775",
+   "type": 11,
+   "heading": "Artigo 4.º — Aplicação do artigo 20.º-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Aplicação do artigo 20.º-B\n\nTendo em vista assegurar uma adequada aplicação no tempo da norma constante do artigo 20.º-B do Decreto-Lei n.º 296-A/98, de 25 de Setembro, eliminando eventuais desigualdades de tratamento, a Comissão Nacional de Acesso ao Ensino Superior fica autorizada a aprovar, para o ingresso nos anos lectivos de 2008-2009 e de 2009-2010, regras de transição sobre a aplicação progressiva do disposto na referida norma, no que se refere à área da Física, sem prejuízo da plena aplicação desta norma legal a partir do ingresso no ano lectivo de 2010-2011, inclusive."
+  },
+  "164871136": {
+   "fragment_id": "164872776",
+   "type": 11,
+   "heading": "Artigo 5.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Republicação\n\n1 - É republicado em anexo ao presente decreto-lei, do qual faz parte integrante, o Decreto-Lei n.º 296-A/98, de 25 de Setembro, com a redacção actual.\n\n2 - As referências ao Ministério da Ciência e do Ensino Superior e ao Ministro da Ciência e do Ensino Superior são substituídas por ministério da tutela do ensino superior e ministro da tutela do ensino superior."
+  },
+  "164871137": {
+   "fragment_id": "164872777",
+   "type": 11,
+   "heading": "Artigo 6.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Aplicação\n\nAs alterações introduzidas pelo presente decreto-lei aplicam-se a partir do acesso e ingresso no ensino superior no ano lectivo de 2008-2009, inclusive."
+  },
+  "164871138": {
+   "fragment_id": "164872778",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "164871140": {
+   "fragment_id": "164872780",
+   "type": 14,
+   "heading": "Anexo — Republicação do Decreto-Lei n.º 296-A/98, de 25 de Setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Republicação do Decreto-Lei n.º 296-A/98, de 25 de Setembro"
+  },
+  "164871141": {
+   "fragment_id": "164872781",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "164871142": {
+   "fragment_id": "164872782",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma regula o regime de acesso e ingresso no ensino superior."
+  },
+  "164871143": {
+   "fragment_id": "164872783",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito e aplicação\n\nEste regime aplica-se ao acesso e ingresso nos estabelecimentos de ensino superior público e particular e cooperativo para a frequência de ciclos de estudos de licenciatura e integrados de mestrado, adiante designados por cursos."
+  },
+  "164871144": {
+   "fragment_id": "164872784",
+   "type": 11,
+   "heading": "Artigo 3.º — Limitações quantitativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Limitações quantitativas\n\nO ingresso em cada par estabelecimento/curso de ensino superior está sujeito a limitações quantitativas, decorrentes do número de vagas fixado anualmente nos termos do presente diploma."
+  },
+  "164871145": {
+   "fragment_id": "164872785",
+   "type": 11,
+   "heading": "Artigo 4.º — Fixação das vagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Fixação das vagas\n\nAs vagas para os cursos das instituições de ensino superior públicas e privadas são fixadas, anualmente, pelos órgãos legal e estatutariamente competentes de cada instituição nos termos do artigo 64.º da Lei n.º 62/2007, de 10 de Setembro, e comunicadas à Direcção-Geral do Ensino Superior, acompanhadas da respectiva fundamentação, no prazo fixado nos termos do artigo 40.º"
+  },
+  "164871146": {
+   "fragment_id": "164872786",
+   "type": 11,
+   "heading": "Artigo 5.º — Fixação das vagas para as instituições de ensino militar e policial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fixação das vagas para as instituições de ensino militar e policial\n\nExceptuam-se do disposto no artigo anterior as vagas para as instituições de ensino superior militar e policial, que são fixadas, anualmente, por portaria conjunta dos ministros da tutela."
+  },
+  "164871147": {
+   "fragment_id": "164872787",
+   "type": 11,
+   "heading": "Artigo 6.º — Preenchimento das vagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Preenchimento das vagas\n\nO preenchimento das vagas em cada par estabelecimento/curso de ensino superior é feito por concurso."
+  },
+  "164871148": {
+   "fragment_id": "164872788",
+   "type": 11,
+   "heading": "Artigo 7.º — Condições de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condições de candidatura\n\nSó pode candidatar-se à matrícula e inscrição no ensino superior o estudante que satisfaça cumulativamente as seguintes condições:\n\na) Ser titular de um curso de ensino secundário, ou de habilitação legalmente equivalente;\n\nb) Fazer prova de capacidade para a frequência do ensino superior."
+  },
+  "164871149": {
+   "fragment_id": "164872789",
+   "type": 11,
+   "heading": "Artigo 8.º — Avaliação da capacidade para a frequência do ensino superior e selecção e seriação dos candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Avaliação da capacidade para a frequência do ensino superior e selecção e seriação dos candidatos\n\nCompete aos estabelecimentos de ensino superior, nos termos do presente diploma, a fixação da forma de realização da avaliação da capacidade para a frequência, bem como dos critérios de selecção e seriação dos candidatos."
+  },
+  "164871150": {
+   "fragment_id": "164872790",
+   "type": 1,
+   "heading": "Capítulo II — Comissão Nacional de Acesso ao Ensino Superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Comissão Nacional de Acesso ao Ensino Superior"
+  },
+  "164871151": {
+   "fragment_id": "164872791",
+   "type": 11,
+   "heading": "Artigo 9.º — Comissão Nacional de Acesso ao Ensino Superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Comissão Nacional de Acesso ao Ensino Superior\n\nOs estabelecimentos de ensino superior coordenam-se obrigatoriamente para a avaliação da capacidade para a frequência, bem como para a fixação dos critérios de selecção e seriação dos candidatos à matrícula e inscrição nos seus cursos, no âmbito da Comissão Nacional de Acesso ao Ensino Superior (CNAES)."
+  },
+  "164871152": {
+   "fragment_id": "164872792",
+   "type": 11,
+   "heading": "Artigo 10.º — Composição da CNAES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Composição da CNAES\n\n1 - A CNAES é constituída por:\n\na) Dois representantes dos estabelecimentos de ensino superior universitário público nomeados pelo Conselho de Reitores das Universidades Portuguesas;\n\nb) Dois representantes dos estabelecimentos de ensino superior politécnico público nomeados pelo Conselho Coordenador dos Institutos Superiores Politécnicos;\n\nc) Três representantes dos estabelecimentos de ensino superior particular e cooperativo nomeados por despacho do ministro da tutela do ensino superior, ouvidas as organizações representativas dos mesmos.\n\n2 - A CNAES escolhe de entre os seus membros um presidente e um vice-presidente."
+  },
+  "164871153": {
+   "fragment_id": "164872793",
+   "type": 11,
+   "heading": "Artigo 11.º — Competência da CNAES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competência da CNAES\n\n1 - A direcção de todo o processo relacionado com avaliação da capacidade para a frequência, bem como com a fixação dos critérios de selecção e seriação dos candidatos à matrícula e inscrição no ensino superior, compete à CNAES, nos termos fixados no presente diploma.\n\n2 - A CNAES aprova a sua organização e o seu regulamento interno."
+  },
+  "164871154": {
+   "fragment_id": "164872794",
+   "type": 11,
+   "heading": "Artigo 12.º — Fornecimento de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Fornecimento de informações\n\nA Direcção-Geral do Ensino Superior, os serviços competentes do Ministério da Educação e os estabelecimentos de ensino superior facultam à CNAES as informações que esta lhes solicite referentes ao processo de realização dos exames nacionais do ensino secundário e ao processo de candidatura."
+  },
+  "164871155": {
+   "fragment_id": "164872795",
+   "type": 11,
+   "heading": "Artigo 13.º — Publicidade das deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Publicidade das deliberações\n\nAs deliberações da CNAES que revistam natureza genérica são objecto de publicação na 2.ª série do Diário da República."
+  },
+  "164871156": {
+   "fragment_id": "164872796",
+   "type": 11,
+   "heading": "Artigo 14.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Encargos\n\n1 - Os encargos com o funcionamento da CNAES são satisfeitos pelas correspondentes verbas inscritas no orçamento do ministério da tutela do ensino superior e pelas receitas decorrentes da sua actividade.\n\n2 - Aos membros da Comissão é devida uma gratificação mensal, de montante a fixar por despacho conjunto dos Ministros das Finanças e da tutela do ensino superior.\n\n3 - A percepção da gratificação a que se refere o número anterior é compatível com o exercício de funções docentes ou de investigação em regime de dedicação exclusiva."
+  },
+  "164871157": {
+   "fragment_id": "164872797",
+   "type": 11,
+   "heading": "Artigo 15.º — Apoio logístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Apoio logístico\n\nO ministério da tutela do ensino superior afecta à CNAES os meios humanos e materiais necessários ao desempenho das suas funções."
+  },
+  "164871158": {
+   "fragment_id": "164872798",
+   "type": 1,
+   "heading": "Capítulo III — Avaliação da capacidade para a frequência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Avaliação da capacidade para a frequência"
+  },
+  "164871159": {
+   "fragment_id": "164872799",
+   "type": 8,
+   "heading": "Secção I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Princípios gerais"
+  },
+  "164871160": {
+   "fragment_id": "164872800",
+   "type": 11,
+   "heading": "Artigo 16.º — Avaliação da capacidade para a frequência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Avaliação da capacidade para a frequência\n\n1 - A realização da avaliação da capacidade para a frequência é feita através de provas de ingresso.\n\n2 - Quando as aptidões físicas, funcionais ou vocacionais assumam particular relevância para o ingresso num determinado curso, os estabelecimentos de ensino superior podem fixar pré-requisitos de acesso a esse curso para além das provas de ingresso."
+  },
+  "164871161": {
+   "fragment_id": "164872801",
+   "type": 8,
+   "heading": "Secção II — Provas de ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Provas de ingresso"
+  },
+  "164871162": {
+   "fragment_id": "164872802",
+   "type": 11,
+   "heading": "Artigo 17.º — Provas de ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Provas de ingresso\n\nAs provas de ingresso:\n\na) Adoptam critérios objectivos de avaliação;\n\nb) Revestem a forma mais adequada aos seus objectivos;\n\nc) São eliminatórias;\n\nd) São de realização anual."
+  },
+  "164871163": {
+   "fragment_id": "164872803",
+   "type": 11,
+   "heading": "Artigo 18.º — Elenco de provas de ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Elenco de provas de ingresso\n\n1 - O elenco de provas de ingresso é fixado pela CNAES, sob proposta das instituições de ensino superior.\n\n2 - O elenco de provas de ingresso pode ser organizado em subelencos por áreas de estudo."
+  },
+  "164871164": {
+   "fragment_id": "164872804",
+   "type": 11,
+   "heading": "Artigo 19.º — Concretização das provas de ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Concretização das provas de ingresso\n\nA CNAES decide acerca da forma de realização das provas de ingresso, podendo:\n\na) Elaborar e realizar, sob a sua direcção, provas expressamente destinadas a esse fim;\n\nb) Utilizar exames nacionais do ensino secundário, sempre que entenda que os mesmos satisfazem os objectivos que se pretendem alcançar com as provas de ingresso."
+  },
+  "164871165": {
+   "fragment_id": "164872805",
+   "type": 11,
+   "heading": "Artigo 20.º — Provas para ingresso em cada par estabelecimento/curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Provas para ingresso em cada par estabelecimento/curso\n\n1 - De entre o elenco a que se refere o artigo 18.º, cada estabelecimento de ensino superior fixa, através do seu órgão legal e estatutariamente competente, as provas que exige para o ingresso em cada um dos seus cursos.\n\n2 - Quando o elenco estiver organizado em subelencos por áreas de estudo, a fixação das provas para cada par estabelecimento/curso é feita de entre as provas que constituem o subelenco em que se integra o curso.\n\n3 - O número de provas exigidas para o ingresso em cada par estabelecimento/curso não pode ser superior a dois.\n\n4 - O número de elencos alternativos de provas fixado para cada par estabelecimento/curso não pode ser superior a três.\n\n5 - A solicitação fundamentada do órgão legal e estatutariamente competente do estabelecimento de ensino superior, a CNAES pode autorizar que, para determinados pares estabelecimento/curso, o número de elencos a que se refere o número anterior seja elevado até um máximo de seis.\n\n6 - À fixação das disciplinas sobre que devem incidir as provas de capacidade para a frequência dos ciclos de estudos de licenciatura ou integrados de mestrado aplica-se igualmente o disposto no artigo 181.º da Lei n.º 62/2007, de 10 de Setembro."
+  },
+  "164871166": {
+   "fragment_id": "164872806",
+   "type": 11,
+   "heading": "Artigo 20.º-A — Substituição das provas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º-A — Substituição das provas\n\n1 - Para os estudantes titulares de cursos não portugueses legalmente equivalentes ao ensino secundário português, as provas de ingresso fixadas nos termos do artigo 20.º podem ser substituídas por exames finais de disciplinas daqueles cursos que satisfaçam cumulativamente as seguintes condições:\n\na) Terem âmbito nacional;\n\nb) (Revogado.)\n\nc) Referirem-se a disciplinas homólogas das provas de ingresso.\n\n2 - Consideram-se homólogas as disciplinas que, ainda que com denominações diferentes, tenham nível e objectivos idênticos e conteúdos similares aos do programa da prova de ingresso que visam substituir.\n\n3 - Cabe a cada estabelecimento de ensino superior decidir, através do seu órgão legal e estatutariamente competente, acerca da aplicação do previsto no n.º 1 a um ou mais dos seus cursos.\n\n4 - A classificação dos exames a que se refere o n.º 1 na sua utilização como provas de ingresso é a atribuída nos termos das normas que os regulam, convertida para a escala de 0 a 200.\n\n5 - Os estudantes que pretendam beneficiar do disposto no presente artigo não podem recorrer às provas de ingresso a que se refere o artigo 19.º quando tenham realizado exames de disciplinas homólogas dessas provas que satisfaçam o disposto no n.º 1.\n\n6 - Compete à CNAES:\n\na) Regulamentar a aplicação do disposto no presente artigo;\n\nb) Decidir acerca da homologação a que se refere o n.º 2, designadamente aprovando tabelas de correspondência;\n\nc) Homologar as decisões a que se refere o n.º 3.\n\nd) Fixar as regras para a conversão de classificações a que se refere o n.º 4.\n\n7 - (Revogado.)\n\n8 - As decisões a que se referem os n.os 3 e 6 são proferidas e divulgadas até 31 de Maio do ano que antecede o ano de realização da candidatura.\n\n9 - Os exames a que se refere o n.º 1 podem ser utilizados como provas de ingresso por um prazo idêntico ao fixado pela CNAES para a utilização dos exames nacionais do ensino secundário."
+  },
+  "164871167": {
+   "fragment_id": "164872807",
+   "type": 11,
+   "heading": "Artigo 20.º-B — Acesso ao curso de Medicina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º-B — Acesso ao curso de Medicina\n\n1 - As provas de ingresso ao curso de Medicina integram, obrigatoriamente, as áreas de Biologia, Física, Matemática e Química.\n\n2 - Se a concretização do disposto no número anterior o tornar indispensável, o número de provas de ingresso para acesso ao curso de Medicina pode ser de três."
+  },
+  "164871168": {
+   "fragment_id": "164872808",
+   "type": 11,
+   "heading": "Artigo 21.º — Competências da CNAES em matéria de provas de ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Competências da CNAES em matéria de provas de ingresso\n\n1 - Em matéria de provas de ingresso, compete à CNAES, nomeadamente:\n\na) A fixação do elenco e subelencos de provas e dos cursos integrados em cada área de organização dos subelencos;\n\nb) A concessão da autorização a que se refere o n.º 5 do artigo 20.º;\n\nc) A homologação dos elencos de provas escolhidos por cada estabelecimento para cada curso;\n\nd) As condições de utilização dos exames a que se refere a alínea b) do artigo 19.º e o n.º 1 do artigo 20.º-A;\n\ne) O exercício das competências previstas no n.º 6 do artigo 20.º-A;\n\nf) A fixação do calendário de todo o processo, em articulação com a Direcção-Geral do Ensino Superior e com os serviços competentes do Ministério da Educação;\n\ng) A divulgação de toda a informação relevante.\n\n2 - Em relação às provas a que se refere a alínea a) do artigo 19.º, compete à CNAES, nomeadamente:\n\na) A nomeação do júri de cada uma das provas;\n\nb) A fixação das orientações gerais a que os júris se devem subordinar na elaboração dos objectivos, programa, estrutura e critérios de classificação das provas;\n\nc) A aprovação dos objectivos, programa, estrutura e critérios de classificação de cada prova;\n\nd) A fixação das regras de realização das provas;\n\ne) A fixação dos montantes a satisfazer pelos estudantes pela realização dos actos relacionados com a realização das provas;\n\nf) A direcção da realização das provas;\n\ng) A direcção do processo de classificação das provas;\n\nh) A homologação das classificações das provas."
+  },
+  "164871169": {
+   "fragment_id": "164872809",
+   "type": 8,
+   "heading": "Secção III — Pré-requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Pré-requisitos"
+  },
+  "164871170": {
+   "fragment_id": "164872810",
+   "type": 11,
+   "heading": "Artigo 22.º — Pré-requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Pré-requisitos\n\n1 - Os pré-requisitos:\n\na) São realizados por cada estabelecimento de ensino superior;\n\nb) São avaliados de forma objectiva e tecnicamente rigorosa;\n\nc) Podem, consoante a sua natureza, destinar-se à selecção, à selecção e seriação ou apenas à seriação dos candidatos;\n\nd) São de realização anual.\n\n2 - As instituições que exijam pré-requisitos para cursos similares coordenam-se obrigatoriamente para a avaliação dos mesmos.\n\n3 - Cada pré-requisito é objecto de um regulamento aprovado pela CNAES sob proposta dos órgãos legal e estatutariamente competentes dos estabelecimentos de ensino superior que o tenham exigido.\n\n4 - Os regulamentos dos pré-requisitos são publicados na 2.ª série do Diário da República."
+  },
+  "164871171": {
+   "fragment_id": "164872811",
+   "type": 11,
+   "heading": "Artigo 23.º — Coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Coordenação\n\nA coordenação do processo referente aos pré-requisitos compete à CNAES, a quem incumbe, nomeadamente:\n\na) Fixar as regras gerais a que está sujeita a sua criação e regulamentação;\n\nb) Concretizar a coordenação entre as instituições que exijam pré-requisitos similares;\n\nc) Aprovar os regulamentos de realização dos pré-requisitos;\n\nd) Fixar as normas para a sua certificação;\n\ne) Fixar o respectivo calendário geral de regulamentação, realização e certificação em articulação com a Direcção-Geral do Ensino Superior e com os serviços competentes do Ministério da Educação."
+  },
+  "164871172": {
+   "fragment_id": "164872812",
+   "type": 1,
+   "heading": "Capítulo IV — Selecção e seriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Selecção e seriação"
+  },
+  "164871173": {
+   "fragment_id": "164872813",
+   "type": 11,
+   "heading": "Artigo 24.º — Selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Selecção\n\nA selecção dos candidatos a cada curso em cada estabelecimento é realizada com base:\n\na) Nas provas de ingresso, onde deve ser obtida uma classificação mínima;\n\nb) Nos pré-requisitos que revistam natureza eliminatória, caso sejam exigidos;\n\nc) Na nota de candidatura a que se refere o artigo 26.º, onde deve ser obtida uma classificação mínima."
+  },
+  "164871174": {
+   "fragment_id": "164872814",
+   "type": 11,
+   "heading": "Artigo 25.º — Classificações mínimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Classificações mínimas\n\n1 - As classificações mínimas a que se referem as alíneas a) e c) do artigo anterior são fixadas anualmente pelo órgão legal e estatutariamente competente de cada estabelecimento de ensino superior para cada um dos seus cursos.\n\n2 - A classificação mínima a que se refere a alínea a) do artigo anterior é fixada num valor igual ou superior a 95 pontos na escala de 0 a 200."
+  },
+  "164872875": {
+   "fragment_id": "164872815",
+   "type": 11,
+   "heading": "Artigo 26.º — Seriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Seriação\n\n1 - A seriação dos candidatos a cada curso em cada estabelecimento é realizada com base numa nota de candidatura, cuja fórmula é fixada pelo órgão legal e estatutariamente competente do estabelecimento de ensino superior, a qual integra exclusivamente:\n\na) A classificação final do ensino secundário, com um peso não inferior a 50 %;\n\nb) A classificação da ou das provas de ingresso, com um peso não inferior a 35 %;\n\nc) A classificação dos pré-requisitos de seriação, quando exigidos, com um peso não superior a 15 %.\n\n2 - Para este fim, a classificação final do ensino secundário dos cursos portugueses é calculada nos termos das normas legais aplicáveis a cada caso, até às décimas, sem arredondamento, e convertida para a escala de 0 a 200.\n\n3 - Para este fim, a classificação final do ensino secundário dos cursos não portugueses legalmente equivalentes ao ensino secundário português, bem como dos cursos a que se refere a parte final do artigo 41.º, é a atribuída nos termos das normas que os regulam, convertida para a escala de 0 a 200 nos termos de regras fixadas por despacho do Ministro da Educação.\n\n4 - A classificação das provas de ingresso a que se refere a alínea a) do artigo 19.º é atribuída na escala de 0 a 200.\n\n5 - A classificação dos exames nacionais do ensino secundário é atribuída na escala de 0 a 200.\n\n6 - A classificação dos pré-requisitos de seriação é atribuída na escala de 0 a 200.\n\n7 - O valor da classificação final do ensino secundário, para os fins do presente artigo, para os candidatos cujo diploma de ensino secundário, nos termos da lei, não inclua essa classificação, é fixado de acordo com critérios a aprovar por deliberação da CNAES, os quais terão em consideração os resultados obtidos nas provas de ingresso realizadas por aqueles."
+  },
+  "164872876": {
+   "fragment_id": "164872816",
+   "type": 1,
+   "heading": "Capítulo V — Candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Candidatura"
+  },
+  "164872877": {
+   "fragment_id": "164872817",
+   "type": 11,
+   "heading": "Artigo 27.º — Candidatura aos cursos ministrados em estabelecimentos de ensino superior público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Candidatura aos cursos ministrados em estabelecimentos de ensino superior público\n\n1 - A candidatura aos cursos ministrados em estabelecimentos de ensino superior público é feita através de um concurso nacional organizado pela Direcção-Geral do Ensino Superior com a colaboração dos serviços regionais do Ministério da Educação e dos serviços regionais de educação das Regiões Autónomas dos Açores e da Madeira.\n\n2 - Exceptuam-se do disposto no número anterior:\n\na) Os estabelecimentos de ensino superior sujeitos à dupla tutela:\n\n1) Dos Ministérios da Defesa Nacional e da tutela do ensino superior;\n\n2) Dos Ministérios da Administração Interna e da tutela do ensino superior, em que a candidatura é feita através de concursos locais organizados por cada estabelecimento de ensino;\n\nb) Os pares estabelecimento/curso cujas especiais características justifiquem a realização de um concurso local.\n\n3 - A realização dos concursos locais a que se refere a alínea b) do número anterior está sujeita a autorização expressa por portaria do ministro da tutela do ensino superior, a requerimento do estabelecimento de ensino superior e colhido o parecer favorável da CNAES.\n\n4 - A portaria a que se refere o número anterior fixa as normas gerais a que deve obedecer o processo de avaliação de capacidade para a frequência, selecção e seriação dos candidatos.\n\n5 - A apresentação da candidatura ao concurso nacional pode ser realizada através da Internet."
+  },
+  "164872878": {
+   "fragment_id": "164872818",
+   "type": 11,
+   "heading": "Artigo 28.º — Regulamento do concurso nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Regulamento do concurso nacional\n\nCompete ao ministro da tutela do ensino superior, ouvida a CNAES e os órgãos de governo próprio das Regiões Autónomas, aprovar, por portaria, o regulamento geral do concurso nacional, o qual contempla, nomeadamente:\n\na) Os contingentes em que as vagas se repartirão;\n\nb) Os princípios a que obedecem as preferências regionais para acesso aos cursos de ensino superior ministrados nas Regiões Autónomas da Madeira e dos Açores por parte dos residentes nestas Regiões;\n\nc) Os princípios a que obedecem as preferências regionais e habilitacionais para acesso aos cursos do ensino superior politécnico;\n\nd) O número de pares estabelecimento/curso a que cada estudante se pode candidatar;\n\ne) As regras de desempate no âmbito do processo de seriação a que se refere o artigo 26.º;\n\nf) As regras de colocação;\n\ng) As regras de utilização das vagas sobrantes, designadamente através da abertura de uma ou mais fases complementares de candidatura;\n\nh) As regras processuais necessárias, incluindo as referentes à apresentação da candidatura através da Internet;\n\ni) As regras de matrícula e inscrição."
+  },
+  "164872879": {
+   "fragment_id": "164872819",
+   "type": 11,
+   "heading": "Artigo 29.º — Candidatura aos cursos ministrados em estabelecimentos de ensino superior particular e cooperativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Candidatura aos cursos ministrados em estabelecimentos de ensino superior particular e cooperativo\n\nA candidatura aos cursos ministrados em estabelecimentos de ensino superior particular e cooperativo é feita através de concursos institucionais organizados por cada estabelecimento de ensino."
+  },
+  "164872880": {
+   "fragment_id": "164872820",
+   "type": 11,
+   "heading": "Artigo 30.º — Regulamento dos concursos institucionais para ingresso nos cursos ministrados em estabelecimentos de ensino superior particular e cooperativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Regulamento dos concursos institucionais para ingresso nos cursos ministrados em estabelecimentos de ensino superior particular e cooperativo\n\nCompete ao ministro da tutela do ensino superior, ouvida a CNAES, aprovar, por portaria, o regulamento geral dos concursos institucionais para ingresso nos cursos ministrados em estabelecimentos de ensino superior particular e cooperativo, fixando e regulando, nomeadamente, os aspectos a que se refere o artigo 28.º"
+  },
+  "164872881": {
+   "fragment_id": "164872821",
+   "type": 1,
+   "heading": "Capítulo VI — Comissão de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Comissão de acompanhamento"
+  },
+  "164872882": {
+   "fragment_id": "164872822",
+   "type": 11,
+   "heading": "Artigo 31.º — Criação e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Criação e competências\n\nÉ criada uma comissão de acompanhamento do regime de acesso ao ensino superior, com as seguintes competências:\n\na) Acompanhar a execução do processo de acesso ao ensino superior;\n\nb) Elaborar um relatório anual de avaliação do sistema de acesso ao ensino superior;\n\nc) Emitir parecer sobre questões genéricas ou específicas relacionadas com o sistema de acesso ao ensino superior, quer por iniciativa do seu presidente, quer a solicitação do ministro da tutela do ensino superior."
+  },
+  "164872883": {
+   "fragment_id": "164872823",
+   "type": 11,
+   "heading": "Artigo 32.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Composição\n\nA comissão é composta por:\n\na) O director-geral do Ensino Superior, que preside;\n\nb) Dois representantes dos serviços do Ministério da Educação responsáveis pelo ensino secundário e pelos exames nacionais do ensino secundário;\n\nc) Um representante dos estabelecimentos de ensino superior universitário público designado pelo Conselho de Reitores das Universidades Portuguesas;\n\nd) Um representante dos estabelecimentos de ensino superior politécnico público designado pelo Conselho Coordenador dos Institutos Superiores Politécnicos;\n\ne) Um representante dos estabelecimentos de ensino superior particular e cooperativo universitário designado por despacho do ministro da tutela do ensino superior, ouvidas as organizações representativas dos mesmos;\n\nf) Um representante dos estabelecimentos de ensino superior particular e cooperativo politécnico designado por despacho do ministro da tutela do ensino superior, ouvidas as organizações representativas dos mesmos;\n\ng) Um representante das associações de pais designado por despacho do ministro da tutela do ensino superior, ouvidas as organizações representativas das mesmas;\n\nh) Um representante das associações de estudantes do ensino superior;\n\ni) Um representante das associações de estudantes do ensino secundário."
+  },
+  "164872884": {
+   "fragment_id": "164872824",
+   "type": 11,
+   "heading": "Artigo 33.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Funcionamento\n\nA comissão fixa as suas regras internas de funcionamento."
+  },
+  "164872885": {
+   "fragment_id": "164872825",
+   "type": 11,
+   "heading": "Artigo 34.º — Colaboração de especialistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Colaboração de especialistas\n\nA comissão pode solicitar ao ministro da tutela do ensino superior a colaboração de especialistas quando tal seja considerado necessário para o bom andamento dos seus trabalhos."
+  },
+  "164872886": {
+   "fragment_id": "164872826",
+   "type": 11,
+   "heading": "Artigo 35.º — Fornecimento de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Fornecimento de informações\n\nA Direcção-Geral do Ensino Superior, os serviços competentes do Ministério da Educação e os estabelecimentos de ensino superior facultam à comissão as informações que esta lhes solicite referentes ao processo de realização dos exames nacionais do ensino secundário e ao processo de candidatura."
+  },
+  "164872887": {
+   "fragment_id": "164872827",
+   "type": 11,
+   "heading": "Artigo 36.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Encargos\n\nOs encargos com o funcionamento da comissão são satisfeitos por conta das verbas apropriadas inscritas no orçamento da Direcção-Geral do Ensino Superior."
+  },
+  "164872888": {
+   "fragment_id": "164872828",
+   "type": 1,
+   "heading": "Capítulo VII — Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Informação"
+  },
+  "164872889": {
+   "fragment_id": "164872829",
+   "type": 11,
+   "heading": "Artigo 37.º — Informação sobre a oferta formativa do ensino superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Informação sobre a oferta formativa do ensino superior\n\n1 - A Direcção-Geral do Ensino Superior assegura a divulgação através da Internet, e de outros meios que considerar adequados, de toda a informação relevante para os candidatos ao ensino superior acerca dos estabelecimentos e cursos existentes.\n\n2 - As instituições de ensino superior fornecem à Direcção-Geral do Ensino Superior todos os elementos necessários à divulgação daquela informação."
+  },
+  "164872890": {
+   "fragment_id": "164872830",
+   "type": 11,
+   "heading": "Artigo 38.º — Informação sobre o acesso ao ensino superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Informação sobre o acesso ao ensino superior\n\nA Direcção-Geral do Ensino Superior assegura a divulgação através da Internet e de outros meios que considerar adequados de toda a informação relevante acerca do acesso ao ensino superior, nomeadamente a referente às normas legais aplicáveis, às provas de ingresso, aos pré-requisitos, às preferências regionais e outras, às classificações mínimas, à fórmula da nota de candidatura e às vagas para a candidatura a cada par estabelecimento/curso."
+  },
+  "164872891": {
+   "fragment_id": "164872831",
+   "type": 11,
+   "heading": "Artigo 39.º — Internet",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Internet\n\n(Revogado.)"
+  },
+  "164872892": {
+   "fragment_id": "164872832",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais e transitórias"
+  },
+  "164872893": {
+   "fragment_id": "164872833",
+   "type": 11,
+   "heading": "Artigo 40.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Prazos\n\nOs prazos em que, em cada ano lectivo, devem ser praticados os actos previstos no presente diploma são fixados anualmente por despacho do director-geral do Ensino Superior."
+  },
+  "164872894": {
+   "fragment_id": "164872834",
+   "type": 11,
+   "heading": "Artigo 41.º — Emigrantes e seus familiares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Emigrantes e seus familiares\n\nPara os candidatos emigrantes e seus familiares, a habilitação a que se refere a alínea a) do artigo 7.º pode, em termos a regular por portaria do ministro da tutela do ensino superior, ser substituída por um curso terminal do ensino secundário do país estrangeiro de residência aí obtido e que aí constitua habilitação de acesso ao ensino superior."
+  },
+  "164872895": {
+   "fragment_id": "164872835",
+   "type": 11,
+   "heading": "Artigo 42.º — Melhoria da classificação final do ensino secundário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Melhoria da classificação final do ensino secundário\n\n1 - As limitações vigentes quanto à realização de exames de disciplinas do ensino secundário para melhoria da classificação final do ensino secundário não são aplicáveis quando tais melhorias forem obtidas em provas de exame de âmbito nacional e tiverem como objectivo o acesso ao ensino superior.\n\n2 - Em cada ano lectivo, a classificação final do ensino secundário utilizada na primeira fase dos concursos a que se refere o capítulo v só pode integrar melhorias de classificação resultantes de exames realizados:\n\na) Em anos lectivos anteriores;\n\nb) Na primeira fase dos exames nacionais do ensino secundário desse ano lectivo;\n\nc) Na 2.ª fase dos exames nacionais do ensino secundário desse ano lectivo, quando o estudante não tenha realizado o mesmo exame na 1ª fase, estando legalmente habilitado para o fazer."
+  },
+  "164872896": {
+   "fragment_id": "164872836",
+   "type": 11,
+   "heading": "Artigo 43.º — Ausência de comunicação de propostas ou decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Ausência de comunicação de propostas ou decisões\n\nQuando, dentro dos prazos fixados e comunicados nos termos do presente diploma, não se verifique, por motivo imputável à instituição de ensino superior, a comunicação de propostas ou decisões que devessem ter lugar e que sejam indispensáveis à prossecução tempestiva das acções referentes ao acesso e ingresso no ensino superior, a sua fixação é feita, após comunicação aos órgãos competentes da instituição em causa, por deliberação da CNAES."
+  },
+  "164872897": {
+   "fragment_id": "164872837",
+   "type": 11,
+   "heading": "Artigo 44.º — Matrícula e inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Matrícula e inscrição\n\n(Revogado.)"
+  },
+  "164872898": {
+   "fragment_id": "164872838",
+   "type": 11,
+   "heading": "Artigo 45.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Aplicação\n\nEste diploma aplica-se a partir do acesso e ingresso no ano lectivo de 1999-2000, inclusive."
+  },
+  "164872899": {
+   "fragment_id": "164872839",
+   "type": 11,
+   "heading": "Artigo 46.º — Cessação da vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Cessação da vigência\n\nA partir do final do processo de acesso e ingresso no ensino superior no ano lectivo de 1998-1999, cessa a sua vigência o Decreto-Lei n.º 28-B/96, de 4 de Abril, alterado pelo Decreto-Lei n.º 75/97, de 3 de Abril, com excepção dos artigos 52.º a 59.º"
+  },
+  "164872900": {
+   "fragment_id": "164872840",
+   "type": 11,
+   "heading": "Artigo 47.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Disposição transitória\n\n1 - A classificação final do ensino secundário dos cursos já extintos não é objecto de novo cálculo nos termos do n.º 2 do artigo 26.º, sendo apenas convertida para a escala de 0 a 200.\n\n2 - As melhorias de classificação do ensino secundário obtidas até ao ano lectivo de 2002-2003, inclusive, ao abrigo da redacção inicial do n.º 1 do artigo 42.º, através da realização de exames do ensino secundário de equivalência à frequência conservam a sua validade."
+  }
+ }
+}

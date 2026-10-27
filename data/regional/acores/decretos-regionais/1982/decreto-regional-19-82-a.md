@@ -1,0 +1,235 @@
+---
+schema_version: '1.0'
+id: pt:dre:397500:por
+title: Decreto Regional n.º 19/82/A
+short_title: null
+summary: Regulamenta a concessão de crédito e incentivos à construção de fogos pelas cooperativas de habitação que exerçam
+  a sua actividade exclusivamente na Região
+jurisdiction: regional
+territory: acores
+document_type: decreto-regional
+document_type_label: Decreto Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Regional
+proposing_entity: null
+official_number: 19/82/A
+official_date: null
+publication_date: '1982-08-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 190/1982, Série I de 1982-08-18
+  number: '190'
+  series: I
+  supplement: null
+  pages: 2428 - 2430
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/08/19000/24282430.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '397500'
+  dre_path: /dr/detalhe/decreto-regional/19-1982-397500
+  internal: pt:dre:397500:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/19-1982-397500
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/19-1982-397500
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:24:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 26228d077113f1cfebc807209b203b63c1a2d809578a048fdf24a18e66dd6f88
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:26Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Construção Civil
+- Cooperativa de Habitação
+- Crédito à Habitação
+- Habitação
+- Incentivos Fiscais
+relationships:
+- type: corrected_by
+  target: pt:dre:375238:por
+  label: Rectificado pela DECL.DD6066.13.09.1982.PCM, DR.IS [221] de 23.09.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-375238
+  date: '1982-09-13'
+article_structure:
+  article_count: 0
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:24:26Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regional n.º 19/82/A
+
+Sistema de concessão de crédito e de incentivos financeiros à habitação no âmbito do sector cooperativo
+
+Reconhecendo que as cooperativas de habitação contribuem de forma determinante para a resolução do problema habitacional, há que tomar medidas tendentes a criar ao sector cooperativo condições, designadamente de ordem financeira, que possibilitem a concretização de tal contributo.
+
+Convém, assim, estabelecer os mecanismos necessários à promoção habitacional, facultando por um lado o financiamento à construção de habitações pelas cooperativas e, por outro, a possibilidade de aquisição para as próprias cooperativas, ou pelos sócios cooperadores, dos fogos construídos, Simultaneamente, é atribuída às cooperativas a função de controle da construção.
+
+Assim:
+
+A Assembleia Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 220.º da Constituição, o seguinte:
+
+### CAPÍTULO I — Do financiamento às cooperativas de habitação
+
+###### ARTIGO 1.º — (Âmbito)
+
+O presente decreto regional regula a concessão de crédito e incentivos à construção de fogos pelas cooperativas de habitação que exerçam a sua actividade exclusivamente na Região, à aquisição de habitação própria pelos respectivos cooperadores, bem como à aquisição de habitações pelas mesmas cooperativas, segundo o regime de propriedade individual ou colectiva.
+
+###### ARTIGO 2.º — (Instituições de crédito competentes e beneficiários dos financiamentos)
+
+1 - A concessão de empréstimos, ao abrigo do disposto no presente capítulo, será assegurada pelas instituições de crédito que o Governo indique, no âmbito do financiamento integrado para a promoção habitacional do sector cooperativo.
+
+2 - Podem beneficiar dos financiamentos as cooperativas de habitação que inscrevam entre os seus fins promover a construção, a aquisição, a reparação ou a remodelação de habitações e satisfaçam os requisitos impostos pelo presente diploma.
+
+###### ARTIGO 3.º — (Destino dos empréstimos)
+
+1 - Os empréstimos serão concedidos com vista ao conjunto ou a parte das seguintes aplicações:
+
+a) Aquisição de terrenos;
+
+b) Construção de infra-estruturas;
+
+c) Construção, aquisição reparação ou remodelação de habitações e equipamentos complementares, quando integrados nas edificações;
+
+d) Despesas com projectos, administração e encargos indirectos.
+
+2 - O Governo Regional poderá conceder apoios em espécie, ou subsídios não reembolsáveis, destinados a comparticipar os custos com a aquisição de terrenos, construção de infra-estruturas e com estudos e projectos necessários.
+
+###### ARTIGO 4.º — (Condições de acesso ao financiamento)
+
+Constituem condições de acesso ao financiamento:
+
+a) Informação do IRASC de que a cooperativa exerce a sua actividade de acordo com os princípios cooperativos e de que tem a contabilidade organizada;
+
+b) Informação de que os reembolsos de eventuais empréstimos anteriormente concedidos estão a ser regularmente amortizados pela entidade mutuária.
+
+###### ARTIGO 5.º — (Condições gerais dos empréstimos)
+
+Serão fixadas por portaria conjunta das Secretarias Regionais das Finanças e do Equipamento Social e do membro do Governo que exerça tutela sobre o IRASC as condições dos empréstimos, designadamente o seu montante máximo e os prazos máximos de amortização.
+
+###### ARTIGO 6.º — (Taxa de juros e incentivos financeiros)
+
+1 - A taxa de juro contratual será a que for praticada nas operações da mesma natureza e para igual prazo.
+
+2 - A taxa de juro contratual beneficiará de uma bonificação que constituirá encargo do ORAA e de quaisquer outras entidades, nas condições a definir por portaria das Secretarias Regionais das Finanças e do Equipamento Social e do membro do Governo que exerça tutela sobre o IRASC.
+
+###### ARTIGO 7.º — (Valor de venda das habitações)
+
+1 - O valor final das habitações, financiadas nos termos do presente diploma, mesmo quando localizadas em terrenos com infra-estruturas construídas, resultará da adição ao valor inicial do valor de revisão de preços respectivos, dos encargos financeiros vencidos após a conclusão e ainda outros custos resultantes de alterações, de acordo com a expressão seguinte:
+
+V(índice fn) = V(índice i) + R(índice p) + V(índice j) + C(índice a)
+
+em que:
+
+V(índice fn) = Valor final;
+
+V(índice i) = Valor inicial, compreendendo o valor inicial do custo da construção e da edificação, o valor inicial de cedência ou aquisição do terreno, acrescido do valor inicial do custo das obras de urbanização, proporcional ao número de habitações da operação nele localizadas e o valor correspondente a outros encargos indirectos;
+
+R(índice p) = Valor de revisões de preços;
+
+V(índice j) = Variação de custos por eventual alteração da taxa de juro;
+
+C(índice a) = Custos resultantes de deliberações aprovadas pelas entidades competentes, designadamente as resultantes de erros ou omissões dos projectos, ou impostas pelas mesmas autoridades ou pelo comportamento dos terrenos.
+
+2 - O valor inicial que for aprovado para cada contrato compreender-se-á dentro dos valores máximos de custos fixados por portaria das Secretarias Regionais das Finanças e do Equipamento Social e do membro do Governo que tutela o IRASC.
+
+3 - Para efeito de revisão de preços das empreitadas aplicar-se-á o regime vigente para as obras públicas e, na falta de índices de preços oficiais, estes serão estimados a partir da média dos valores dos acréscimos verificados nos 6 últimos índices publicados.
+
+4 - O valor final será calculado no início do trimestre anterior ao da conclusão das habitações, prevista no plano de trabalhos.
+
+5 - A verificação e o visto do valor final ficarão a cargo do Secretário Regional do Equipamento Social.
+
+###### ARTIGO 8.º — (Empréstimos à construção)
+
+1 - As instituições de crédito abrirão uma conta de empréstimos para cada operação de financiamento contratada.
+
+2 - Salvo estipulação em contrário, e sem prejuízo da possibilidade do distrate da hipoteca por fracções, os juros vencidos serão lançados a débito da cooperativa até à amortização total do empréstimo dentro dos prazos contratuais.
+
+3 - A parte das importâncias mutuadas destinadas à execução de obras só poderá ser movimentada pela entidade financiadora mediante transferência para conta de depósito em nome dos construtores ou fornecedores previamente identificados.
+
+### CAPÍTULO II — Do financiamento à aquisição
+
+###### ARTIGO 9.º — (Aquisição de habitação própria pelos cooperadores)
+
+1 - A instituição de crédito que conceder empréstimos nos termos do n.º 1 do artigo 2.º do presente diploma financiará igualmente a aquisição das habitações pelos cooperadores, com base nos valores a que se refere o artigo 7.º
+
+2 - Os empréstimos a conceder estão sujeitos ao sistema de financiamento definido na legislação em vigor sobre a matéria, com as adaptações constantes do presente capítulo.
+
+3 - As importâncias correspondentes aos financiamentos à aquisição das habitações serão creditadas na conta de empréstimos da cooperativa, pela parte correspondente ao valor de distrate fixado pela instituição financeira e relativamente à habitação a que se refere o empréstimo.
+
+###### ARTIGO 10.º — (Aquisição pelas cooperativas)
+
+1 - Os empréstimos a conceder para aquisição de habitações pelas cooperativas em regime de propriedade colectiva estão sujeitos ao sistema de financiamento definido na legislação em vigor.
+
+2 - O financiamento para o período da construção é assegurado nos termos do n.º 1 do artigo 8.º
+
+###### ARTIGO 11.º — (Financiamento interno)
+
+Compete às cooperativas organizar um plano de financiamento interno a subscrever por todos os cooperadores integrados no programa habitacional, tendo em atenção a necessidade de fazer corresponder aos maiores rendimentos as taxas de maior esforço.
+
+### CAPÍTULO III — Garantia dos empréstimos e controle dos rendimentos
+
+###### ARTIGO 12.º — (Garantia)
+
+1 - Os empréstimos concedidos ao abrigo deste diploma serão garantidos preferencialmente por hipoteca, constituída sobre os terrenos, as edificações e, posteriormente, sobre as habitações construídas.
+
+2 - Relativamente à parte dos empréstimos não coberta pela hipoteca referida no número anterior, serão prestadas outras garantias, em regime de solidariedade, nas respectivas operações de financiamento.
+
+###### ARTIGO 13.º — (Controlo dos rendimentos)
+
+A comprovação dos rendimentos dos cooperadores, bem como dos rendimentos brutos das cooperativas, será efectuada nos termos da legislação aplicável, competindo à instituição de crédito verificar os rendimentos declarados, para efeito da apreciação dos financiamentos solicitados.
+
+###### ARTIGO 14.º — (Encargos)
+
+Os encargos decorrentes deste diploma serão suportados pelo Orçamento da Região Autónoma dos Açores.
+
+###### ARTIGO 15.º — (Regulamentação)
+
+1 - Compete ao Governo proceder à regulamentação do presente diploma.
+
+2 - Na regulamentação serão tidas em conta as variações nos custos de construção existentes no espaço intra-regional, para efeito das bonificações a atribuir.
+
+Aprovado em Assembleia Regional dos Açores em 29 de Junho de 1982.
+
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
+
+Assinado em Angra do Heroísmo em 26 de Julho de 1982.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

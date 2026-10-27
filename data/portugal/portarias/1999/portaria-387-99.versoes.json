@@ -1,0 +1,855 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:316941:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1999-1013108027",
+ "dre_path": "/dr/detalhe/portaria/387-1999-316941",
+ "source_lastmod": "2026-08-21",
+ "versions": [
+  {
+   "date": "1999-09-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:558197:por",
+     "title": "Portaria n.º 808/99",
+     "published": "1999-09-21",
+     "dre_path": "/dr/detalhe/portaria/808-1999-558197"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "1013291675",
+    "1013291875",
+    "1013292075",
+    "1013292275",
+    "1013292475",
+    "1013292675",
+    "1013292875",
+    "1013293075",
+    "1013293275",
+    "1013293475",
+    "1013293675",
+    "1013293875",
+    "1013294075",
+    "1013294275",
+    "1013294475",
+    "1013294675",
+    "1013294875",
+    "1013295075",
+    "1013295275",
+    "1013295475",
+    "1013295675",
+    "1013295875",
+    "1160703475",
+    "1013296275",
+    "1013296475",
+    "1013296675",
+    "1013296875",
+    "1013297075",
+    "1013297275",
+    "1013297475",
+    "1013297675",
+    "1013297875",
+    "1013298075",
+    "1013298275",
+    "1013298475",
+    "1013298675",
+    "1013298875",
+    "1013299075",
+    "1013299275"
+   ]
+  },
+  {
+   "date": "2007-09-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1751988:por",
+     "title": "Portaria n.º 472/2007 - 2.ª Série",
+     "published": "2007-06-22",
+     "dre_path": "/dr/detalhe/portaria/472-2007-1751988"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1161790275",
+    "1165659975",
+    "1165660175",
+    "1165660475",
+    "1161790475",
+    "1161790575",
+    "1161790675",
+    "1161790775",
+    "1161790875",
+    "1161790975",
+    "1161791075",
+    "1161791175",
+    "1161791275",
+    "1161791375",
+    "1161791475",
+    "1161791575",
+    "1161791675",
+    "1161791775",
+    "1161791875",
+    "1161791975",
+    "1161792075",
+    "1161792175",
+    "1161792275",
+    "1161792375",
+    "1161792475",
+    "1161792575",
+    "1161792675",
+    "1161792775",
+    "1161792875",
+    "1161792975",
+    "1161793075",
+    "1161793175",
+    "1161793275",
+    "1161793375",
+    "1161793475",
+    "1161793575",
+    "1161793675",
+    "1161793775",
+    "1161793875",
+    "1161793975",
+    "1161794075",
+    "1161794175"
+   ]
+  }
+ ],
+ "fragments": {
+  "1013291675": {
+   "fragment_id": "1013291575",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Com o objectivo de compatibilizar as melhores condições de segurança do trânsito rodoviário com a necessidade de circulação de veículos que, por si ou em virtude dos objectos indivisíveis que transportam, excedem o peso ou as dimensões máximas fixadas na lei, o n.º 1 do artigo 58.º do Código da Estrada prevê a aprovação, por regulamento, das condições em que o trânsito daqueles veículos pode ser permitido.\n\nPor outro lado, e considerando que o trânsito dos veículos nestas condições, pela própria natureza do transporte ou pelas características dos veículos em causa, pode afectar a fluidez, bem como a segurança rodoviária, do restante tráfego, torna-se necessário condicionar a circulação destes veículos nas vias e nos períodos de maior intensidade de trânsito.\n\nAssim, nos termos e ao abrigo do disposto no n.º 2 do artigo 10.º, na alínea h) do n.º 3 do artigo 56.º e no n.º 1 do artigo 58.º do Código da Estrada, bem como na alínea b) do n.º 2 do artigo 6.º do Decreto-Lei n.º 114/94, de 3 de Maio, com a redacção dada pelo artigo 6.º do Decreto-Lei n.º 2/98, de 3 de Janeiro:\n\nManda o Governo, pelo Ministro da Administração Interna, o seguinte:\n\n1.º É aprovado o Regulamento de Autorizações Especiais de Trânsito, anexo à presente portaria e que dela faz parte integrante.\n\n2.º São revogadas as Portarias n.os 1025/89, de 24 de Novembro, e 980/91, de 24 de Setembro.\n\n3.º A presente portaria entra em vigor 30 dias após a sua publicação."
+  },
+  "1013291875": {
+   "fragment_id": "1013291775",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro da Administração Interna, Armando António Martins Vara, Secretário de Estado Adjunto do Ministro da Administração Interna, em 30 de Abril de 1999."
+  },
+  "1013292075": {
+   "fragment_id": "1013291975",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DE AUTORIZAÇÕES ESPECIAIS DE TRÂNSITO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DE AUTORIZAÇÕES ESPECIAIS DE TRÂNSITO"
+  },
+  "1013292275": {
+   "fragment_id": "1013292175",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "1013292475": {
+   "fragment_id": "1013292375",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - O disposto no presente Regulamento é aplicável ao trânsito na via pública dos veículos:\n\na) Com pesos ou dimensões que excedam os limites fixados na Portaria n.º 1092/97, de 3 de Novembro;\n\nb) Que transportem objectos indivisíveis que excedam os limites da respectiva caixa ou a altura de 4 m;\n\nc) Que transportem objectos indivisíveis cujo peso bruto exceda os limites fixados na portaria a que se refere a alínea a).\n\n2 - O disposto no presente diploma é também aplicável à circulação de máquinas agrícolas e industriais e de comboios turísticos."
+  },
+  "1013292675": {
+   "fragment_id": "1013292575",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara os efeitos do presente Regulamento, entende-se por:\n\na) «Autorização anual» - a autorização especial de trânsito emitida para um veículo ou conjunto e válida por um ano;\n\nb) «Autorização ocasional» - a autorização especial de trânsito emitida para um veículo ou conjunto e para um único transporte ou para uma única deslocação;\n\nc) «Carro piloto» - o automóvel ligeiro que tem como finalidade indicar aos utentes da via pública a circulação de um veículo que efectua um transporte de grandes dimensões."
+  },
+  "1013292875": {
+   "fragment_id": "1013292775",
+   "type": 8,
+   "heading": "Secção II — Autorizações especiais de trânsito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Autorizações especiais de trânsito"
+  },
+  "1013293075": {
+   "fragment_id": "1013292975",
+   "type": 3,
+   "heading": "Subsecção I — Autorizações anuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Autorizações anuais"
+  },
+  "1013293275": {
+   "fragment_id": "1013293175",
+   "type": 11,
+   "heading": "Artigo 3.º — Autorizações anuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Autorizações anuais\n\n1 - O trânsito de veículos na via pública está sujeito a autorização anual sempre que estes transportem objectos indivisíveis cujas dimensões excedam os limites das respectivas caixas de carga ou a altura de 4 m a contar do solo, salvo o disposto nos artigos 6.º e 25.º\n\n2 - A Direcção-Geral de Viação pode emitir, nos termos dos artigos seguintes, autorizações anuais de trânsito, desde que se verifiquem as seguintes condições:\n\na) Os contornos envolventes do veículo com carga não ultrapassem 20 m de comprimento e 3,5 m de largura, sem prejuízo do disposto no artigo 5.º;\n\nb) A altura do veículo com carga não ultrapasse 4,5 m a contar do solo."
+  },
+  "1013293475": {
+   "fragment_id": "1013293375",
+   "type": 11,
+   "heading": "Artigo 4.º — Tipos de autorizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tipos de autorizações\n\n1 - As autorizações anuais de trânsito para veículos de mercadorias, de caixa aberta ou estrado, são dos seguintes tipos:\n\na) Tipo I - autorizações anuais para veículos cujas dimensões, com carga, não excedam:\n\nEm comprimento, o limite definido pelo contorno envolvente do veículo;\n\nEm largura, 3 m;\n\nEm altura, 4 m a contar do solo;\n\nb) Tipo II - autorizações anuais para veículos de caixa de carga de largura não superior a 2 m e de comprimento igual ou superior a 4,5 m e cujas dimensões do veículo com carga não excedam:\n\nEm comprimento, o valor resultante do comprimento da caixa de carga, acrescido de 7 m;\n\nEm largura, 3 m;\n\nEm altura, 4,5 m a contar do solo;\n\nc) Tipo III - autorizações anuais para veículos ou conjuntos de veículos de caixa de carga de largura superior a 2 m e de comprimento igual ou superior a 4,5 m:\n\nc.1) Tratando-se de veículo único ou conjunto composto por tractor e semi-reboque, as dimensões do veículo com carga não excedam:\n\nEm comprimento, o valor resultante do comprimento da caixa de carga do veículo acrescido, de 7 m, com o limite máximo de 20 m;\n\nEm largura, 3,5 m;\n\nEm altura, 4,5 m a contar do solo;\n\nc.2) Tratando-se de conjunto composto por veículo tractor e reboque, as dimensões do conjunto com carga não excedam:\n\nEm comprimento, o comprimento do conjunto, acrescido de 1,5 m, com o limite máximo de 20 m;\n\nEm largura, 3 m;\n\nEm altura, 4,5 m a contar do solo.\n\n2 - Na situação referida na alínea c.2) do número anterior, o objecto indivisível transportado não pode apoiar-se simultaneamente na caixa do veículo tractor e na do reboque."
+  },
+  "1013293675": {
+   "fragment_id": "1013293575",
+   "type": 11,
+   "heading": "Artigo 5.º — Veículos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Veículos especiais\n\n1 - O trânsito na via pública de conjuntos compostos por veículo tractor e reboque ou semi-reboque classificados como especiais para o transporte de automóveis, cujo comprimento com carga exceda as dimensões a que se refere a alínea d) do n.º 1 do artigo 25.º, está sujeito a autorização anual, desde que:\n\na) O veículo disponha de plataforma extensível à retaguarda adaptada para o transporte de automóveis onde se apoia o último eixo do veículo transportado;\n\nb) O comprimento máximo do veículo com carga não exceda o do conjunto, acrescido de 1,8 m;\n\nc) A plataforma não sobressaia em relação à carga.\n\n2 - O trânsito na via pública de veículos classificados como pronto-socorro está sujeito a autorização anual sempre que:\n\na) O comprimento do conjunto constituído por veículo pronto-socorro e veículo rebocado exceda as dimensões máximas estabelecidas na Portaria n.º 1092/97, de 3 de Novembro, para um conjunto composto por veículo tractor e reboque;\n\nb) O comprimento do estrado seja igual ou superior a 4,5 m e os veículos, quando transportados, ultrapassem, em comprimento, o limite deste, não podendo, no entanto, o veículo com carga exceder as seguintes dimensões:\n\nEm comprimento, o valor resultante do comprimento do estrado, acrescido de 1,5 m;\n\nEm largura, 3,5 m;\n\nEm altura, 4,5 m a contar do solo."
+  },
+  "1013293875": {
+   "fragment_id": "1013293775",
+   "type": 3,
+   "heading": "Subsecção II — Autorizações ocasionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Autorizações ocasionais"
+  },
+  "1013294075": {
+   "fragment_id": "1013293975",
+   "type": 11,
+   "heading": "Artigo 6.º — Autorizações ocasionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Autorizações ocasionais\n\n1 - O trânsito de veículos na via pública que possa constituir risco ou embaraço para a circulação rodoviária ou para as infra-estruturas viárias e circundantes, em virtude de os respectivos pesos brutos ou dimensões ou os objectos por eles transportados excederem os limites fixados na Portaria n.º 1092/97, de 3 de Novembro, está sujeito a autorização ocasional.\n\n2 - A Direcção-Geral de Viação pode emitir autorizações ocasionais, desde que se verifique uma das seguintes condições:\n\na) Os contornos envolventes do veículo ou conjunto, ou do veículo ou conjunto com carga, ultrapassem, pelo menos, um dos seguintes limites:\n\nEm comprimento, 20 m;\n\nEm largura, 3,5 m;\n\nb) A altura do veículo ou conjunto, ou do veículo ou conjunto com carga, ultrapasse 4,5 m a contar do solo;\n\nc) O peso bruto do veículo ou conjunto, ou do veículo ou conjunto com carga, ultrapasse o peso bruto fixado na Portaria n.º 1092/97, de 3 de Novembro, ou o peso bruto constante do livrete, se este for inferior.\n\n3 - Na situação referida na alínea c) do número anterior, o limite máximo permitido é o que consta no livrete do veículo."
+  },
+  "1013294275": {
+   "fragment_id": "1013294175",
+   "type": 11,
+   "heading": "Artigo 7.º — Acompanhamento por carro piloto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Acompanhamento por carro piloto\n\n1 - O trânsito de veículos na via pública está ainda sujeito a acompanhamento por carro piloto, sempre que as suas dimensões ou as dimensões do veículo com carga se encontrem numa das seguintes condições:\n\nEm comprimento, seja superior a 20 m e não exceda 25 m;\n\nEm largura, seja superior a 3 m e não exceda 4 m.\n\n2 - O carro piloto deve estar equipado com:\n\na) Uma luz rotativa de cor amarela colocada no tejadilho, com as características definidas no n.º 22.º da Portaria n.º 851/94, de 22 de Setembro;\n\nb) Um painel com a inscrição «Transporte de grandes dimensões» colocado no tejadilho, visível em ambos os sentidos de trânsito, com dimensões mínimas de 1000 mm x 300 mm, devendo possuir sistema de iluminação, a ser utilizado sempre que, nos termos do artigo 59.º do Código da Estrada, seja obrigatório o uso de dispositivos de sinalização luminosa e de iluminação.\n\n3 - Nos casos previstos na alínea a) do n.º 2 do artigo 5.º não é obrigatório o acompanhamento por carro piloto se o pronto-socorro estiver equipado com a luz a que se refere a alínea a) do número anterior."
+  },
+  "1013294475": {
+   "fragment_id": "1013294375",
+   "type": 11,
+   "heading": "Artigo 8.º — Acompanhamento por batedores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Acompanhamento por batedores\n\nO trânsito de veículos na via pública está sujeito a acompanhamento por batedores da Guarda Nacional Republicana ou da Polícia de Segurança Pública, sempre que as suas dimensões ou as dimensões do veículo com carga excedam qualquer dos seguintes valores:\n\nEm comprimento, 25 m;\n\nEm largura, 4 m;\n\nEm altura, 5 m a contar do solo."
+  },
+  "1013294675": {
+   "fragment_id": "1013294575",
+   "type": 11,
+   "heading": "Artigo 9.º — Seguro obrigatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Seguro obrigatório\n\nNas situações em que a circulação do veículo ou conjunto depende de autorização ocasional, o proprietário daquele deve fazer prova da existência de seguro destinado a garantir a responsabilidade civil emergente da circulação do mesmo para efectuar o transporte em causa."
+  },
+  "1013294875": {
+   "fragment_id": "1013294775",
+   "type": 3,
+   "heading": "Subsecção III — Condicionamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Condicionamentos"
+  },
+  "1013295075": {
+   "fragment_id": "1013294975",
+   "type": 11,
+   "heading": "Artigo 10.º — Disposição da carga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposição da carga\n\nNa disposição do objecto indivisível no veículo deve atender-se a que aquele só pode exceder a caixa de carga do veículo à retaguarda, no menor comprimento possível, de forma que não constitua risco ou embaraço para os outros utentes da via ou não danifique os pavimentos, instalações, obras de arte e imóveis marginais."
+  },
+  "1013295275": {
+   "fragment_id": "1013295175",
+   "type": 11,
+   "heading": "Artigo 11.º — Sinalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Sinalização\n\n1 - Sempre que nos transportes efectuados nos termos do presente Regulamento a carga transportada ultrapasse os contornos envolventes do veículo, os limites daquela devem ser sinalizados:\n\na) Com o painel P1, se a carga exceder os contornos envolventes do veículo;\n\nb) Com o painel P2, se a carga exceder os contornos envolventes do veículo à retaguarda;\n\nc) Com luzes delimitadoras, sempre que seja obrigatória a utilização de dispositivos de sinalização luminosa e de iluminação, nos termos do artigo 59.º do Código da Estrada.\n\n2 - O painel P1 deve ser colocado nas extremidades posteriores e laterais do objecto transportado e a uma altura do solo, sempre que possível, de 1,6 m, não podendo, contudo, situar-se a menos de 0,4 m ou a mais de 2,5 m.\n\n3 - O painel P2 deve ser colocado no ponto mais à retaguarda do objecto transportado, de forma a não prejudicar a visibilidade dos dispositivos de sinalização luminosa e de iluminação do veículo e da matrícula.\n\n4 - O painel P1, cujo modelo consta do anexo I ao presente Regulamento, é constituído por três faixas longitudinais de igual largura, as duas extremas de cor amarela e a central de cor prateada, em material retrorreflector.\n\n5 - O painel P2, cujo modelo consta do anexo II ao presente Regulamento, é constituído por um fundo de cor branca e faixas de cor vermelha, em material retrorreflector."
+  },
+  "1013295475": {
+   "fragment_id": "1013295375",
+   "type": 8,
+   "heading": "Secção III — Circulação de máquinas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Circulação de máquinas"
+  },
+  "1013295675": {
+   "fragment_id": "1013295575",
+   "type": 11,
+   "heading": "Artigo 12.º — Autorizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Autorizações\n\n1 - O trânsito na via pública de máquinas agrícolas e industriais está sujeito a autorização anual, a emitir pela Direcção-Geral de Viação, sempre que estas excedam uma das seguintes dimensões:\n\nEm comprimento, 12 m;\n\nEm largura, 2,55 m;\n\nEm altura, 4 m a contar do solo.\n\n2 - O trânsito das máquinas a que se refere o n.º 1 cujos pesos por eixo excedam os limites fixados na Portaria n.º 1092/97, de 3 de Novembro, depende de autorização ocasional, a emitir pela entidade referida no número anterior, e, ainda, quando excedam uma das seguintes dimensões:\n\nEm comprimento, 20 m;\n\nEm largura, 3,5 m;\n\nEm altura, 4,5 m a contar do solo."
+  },
+  "1013295875": {
+   "fragment_id": "1013295775",
+   "type": 11,
+   "heading": "Artigo 13.º — Proibição para transportar carga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Proibição para transportar carga\n\nAs máquinas agrícolas e industriais cujo trânsito depende de autorização nos termos do artigo anterior não podem transportar qualquer carga."
+  },
+  "1160703475": {
+   "fragment_id": "1013295975",
+   "type": 11,
+   "heading": "Artigo 14.º — Trânsito nas auto-estradas e vias equiparadas",
+   "in_force_from": "1999-09-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo do/a [Portaria n.º 808/99 - Diário da República n.º 221/1999, Série I-B de 1999-09-21](https://diariodarepublica.pt/dr/detalhe/portaria/808-1999-558197), em vigor a partir de 1999-09-22."
+   ],
+   "markdown": "###### Artigo 14.º — Trânsito nas auto-estradas e vias equiparadas\n\n1 - As máquinas agrícolas e industriais cujos pesos por eixo não excedam os limites fixados na Portaria n.º 1092/97, de 3 de Novembro, e cujas dimensões não ultrapassem os limites referidos no n.º 2 do artigo 12.º podem, sem prejuízo do disposto no artigo 17.º, circular nas auto-estradas e vias reservadas a automóveis e motociclos, desde que autorizadas pela Direcção-Geral de Viação.\n\n2 - A autorização prevista no número anterior só pode ser concedida desde que a respectiva velocidade máxima, por construção, seja igual ou superior a 70 km/h.\n\n3 - A velocidade máxima instantânea permitida para estes veículos é de 70 km/hora.\n\n4 - Os veículos referidos no n.º 1 devem estar equipados com o painel e a luz previstos nos n.os 21.º e 22.º da Portaria n.º 851/94, de 22 de Setembro.\n\n> Alterado pelo/a Artigo do/a [Portaria n.º 808/99 - Diário da República n.º 221/1999, Série I-B de 1999-09-21](https://diariodarepublica.pt/dr/detalhe/portaria/808-1999-558197), em vigor a partir de 1999-09-22."
+  },
+  "1013296275": {
+   "fragment_id": "1013296175",
+   "type": 11,
+   "heading": "Artigo 15.º — Acompanhamento por carro piloto ou batedores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Acompanhamento por carro piloto ou batedores\n\n1 - O trânsito na via pública de máquinas agrícolas e industriais deve ser acompanhado por carro piloto, sempre que estas excedam uma das seguintes dimensões:\n\nEm comprimento, 12 m;\n\nEm largura, 3 m.\n\n2 - O trânsito dos veículos referidos no número anterior deve ser acompanhado por batedores da Guarda Nacional Republicana ou da Polícia de Segurança Pública, sempre que excedam os limites de peso por eixo fixados na Portaria n.º 1092/97, de 3 de Novembro, ou uma das seguintes dimensões:\n\nEm comprimento, 20 m;\n\nEm largura, 4 m;\n\nEm altura, 5 m a contar do solo."
+  },
+  "1013296475": {
+   "fragment_id": "1013296375",
+   "type": 8,
+   "heading": "Secção IV — Restrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Restrições"
+  },
+  "1013296675": {
+   "fragment_id": "1013296575",
+   "type": 11,
+   "heading": "Artigo 16.º — Restrições ao trânsito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Restrições ao trânsito\n\n1 - Sem prejuízo do disposto no n.º 1 do artigo 10.º do Código da Estrada, é proibido o trânsito de veículos nas condições a que se refere o artigo 1.º, nos seguintes períodos:\n\na) Das 16 às 22 horas de sextas-feiras e domingos;\n\nb) Das 16 às 22 horas de feriados nacionais e vésperas de feriados nacionais;\n\nc) Das 8 às 12 horas e das 16 às 22 horas, no dia 24 de Dezembro;\n\nd) Das 8 às 12 horas, no dia 26 de Dezembro;\n\ne) Das 16 às 22 horas da segunda-feira posterior ao domingo de Páscoa.\n\n2 - As restrições estabelecidas no número anterior aplicam-se nas seguintes vias:\n\na) Ponte sobre o Tejo, em Lisboa, e seus acessos (Lisboa-nó de Almada, na AE 2) e Ponte Vasco da Gama e seus acessos;\n\nb) IP 1, entre o nó de acesso à AE 2 (Grândola Sul) e a EN 125;\n\nc) IC 19, entre o nó da CREL e Lisboa;\n\nd) EN 1, entre Vila Franca de Xira e Vila Nova de Gaia (Santo Ovídio);\n\ne) EN 4, entre Pegões e Montemor-o-Novo;\n\nf) EN 6, entre Lisboa e Cascais;\n\ng) EN 10, entre o Infantado e Lisboa;\n\nh) EN 12, Estrada da Circunvalação;\n\ni) EN 13, entre Porto e Viana do Castelo;\n\nj) EN 14, entre Porto e Braga;\n\nl) EN 15, entre Porto e Campo (AE 4);\n\nm) EN 101, entre Braga e Vila Verde;\n\nn) EN 105, entre Porto e Alfena (ligação com o IC 24);\n\no) EN 108, entre Gondomar (Ramalde) e Porto;\n\np) EN 109, entre Coimbrões e Leiria;\n\nq) EN 115, entre Loures e Bucelas;\n\nr) EN 125, entre Lagos e Vila Real de Santo António;\n\ns) EN 202, entre Viana do Castelo e Ponte de Lima;\n\nt) EN 208, entre Alto da Maia e Valongo;\n\nu) EN 209, entre Porto, Gondomar e Valongo;\n\nv) EN 222, entre Vila Nova de Gaia e a barragem de Crestuma-Lever;\n\nx) EN 247, entre Cascais e Carvoeira;\n\nz) EN 366, entre o nó de Aveiras de Cima e Alcoentre, e variante àquela estrada, entre Alcoentre e Quebradas (ligação com o IC 2)."
+  },
+  "1013296875": {
+   "fragment_id": "1013296775",
+   "type": 11,
+   "heading": "Artigo 17.º — Máquinas agrícolas e industriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Máquinas agrícolas e industriais\n\n1 - Sem prejuízo do disposto no artigo 14.º do presente Regulamento, bem como no n.º 1 do artigo 10.º do Código da Estrada, é proibida a circulação de máquinas agrícolas e industriais nas auto-estradas e vias reservadas a automóveis e motociclos, nos itinerários principais (IP), como tal identificados, e ainda, enquanto não forem identificados como itinerários principais, nos seguintes troços de estradas nacionais:\n\na) EN 2, entre a intersecção com o IP 3 e a intersecção com o IP 5;\n\nb) EN 3, entre Santarém e a ligação ao IP 6;\n\nc) EN 4, entre Montemor-o-Novo e Elvas;\n\nd) EN 13, entre Viana do Castelo e Valença;\n\ne) EN 101, entre Braga e a ligação ao IP 4;\n\nf) EN 102, entre a intersecção com o IP 4 e a intersecção com o IP 5;\n\ng) EN 103, entre Viana do Castelo e Braga;\n\nh) Ponte sobre o Tejo, em Lisboa, e seus acessos (Lisboa-nó de Almada, na AE 2) e Ponte Vasco da Gama e seus acessos.\n\n2 - É ainda proibido o trânsito dos veículos a que se refere o número anterior, nos períodos previstos no n.º 1 do artigo 16.º, nas seguintes vias:\n\na) EN 10, entre Setúbal e Pegões;\n\nb) EN 18, entre a Guarda e a intersecção com o IP 2, em Évora;\n\nc) EN 114, entre Peniche e Santarém;\n\nd) EN 118, entre a intersecção com a EN 2 e a intersecção com o IP 2;\n\ne) EN 121, entre Ferreira do Alentejo e Beja;\n\nf) EN 260, entre Beja e Vila Verde de Ficalho."
+  },
+  "1013297075": {
+   "fragment_id": "1013296975",
+   "type": 11,
+   "heading": "Artigo 18.º — Trânsito nas auto-estradas e vias equiparadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Trânsito nas auto-estradas e vias equiparadas\n\nNas auto-estradas e vias reservadas a automóveis e motociclos é proibido o trânsito de veículos ou veículos com carga, sempre que a largura destes seja superior a 3,75 m, excepto no lanço da AE 1 entre Lisboa e Aveiras de Cima."
+  },
+  "1013297275": {
+   "fragment_id": "1013297175",
+   "type": 11,
+   "heading": "Artigo 19.º — Excepções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Excepções\n\nFicam excepcionados das restrições previstas no artigo 16.º os veículos classificados como pronto-socorro."
+  },
+  "1013297475": {
+   "fragment_id": "1013297375",
+   "type": 11,
+   "heading": "Artigo 20.º — Situações excepcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Situações excepcionais\n\n1 - O director-geral de Viação pode autorizar, excepcionalmente, a circulação de veículos sujeitos a restrições, nos termos do presente diploma, quando a sua deslocação seja indispensável e urgente, atentas razões de interesse público que importe salvaguardar.\n\n2 - Para efeitos do disposto no número anterior, a Direcção-Geral de Viação pode solicitar parecer de entidades competentes, quer quanto à indispensabilidade e urgência do transporte, quer quanto ao itinerário a percorrer."
+  },
+  "1013297675": {
+   "fragment_id": "1013297575",
+   "type": 8,
+   "heading": "Secção V — Procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Procedimentos"
+  },
+  "1013297875": {
+   "fragment_id": "1013297775",
+   "type": 11,
+   "heading": "Artigo 21.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Requerimento\n\n1 - O requerimento para a emissão das autorizações a que se refere a subsecção I da secção II é dirigido ao director-geral de Viação, devendo o processo ser instruído com fotocópias do livrete e do título de registo de propriedade.\n\n2 - O requerimento para emissão das autorizações a que se refere a subsecção II da secção II é dirigido ao director-geral de Viação, devendo o processo ser instruído com os seguintes elementos:\n\na) Fotocópias do livrete e do título de registo de propriedade;\n\nb) Desenho cotado do veículo ou do conjunto veículo e carga, na escala adequada;\n\nc) Memória descritiva;\n\nd) Documento comprovativo da efectivação do seguro especial para o transporte.\n\n3 - O requerimento para a emissão das autorizações a que se refere a secção III é dirigido ao director-geral de Viação, devendo o processo ser instruído com o catálogo da máquina e documento comprovativo da propriedade e ainda, quando se trate de autorizações ocasionais, com memória descritiva e documento comprovativo da existência de seguro para a circulação da máquina."
+  },
+  "1013298075": {
+   "fragment_id": "1013297975",
+   "type": 11,
+   "heading": "Artigo 22.º — Aprovação de modelos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Aprovação de modelos\n\nPor despacho do director-geral de Viação, são definidos:\n\na) O modelo de requerimento a que se refere o artigo anterior;\n\nb) Os modelos das autorizações especiais de trânsito objecto do presente Regulamento;\n\nc) O conteúdo da memória descritiva a que se refere o artigo anterior;\n\nd) As condições de aprovação dos painéis referidos no artigo 11.º"
+  },
+  "1013298275": {
+   "fragment_id": "1013298175",
+   "type": 11,
+   "heading": "Artigo 23.º — Condicionamentos constantes das autorizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Condicionamentos constantes das autorizações\n\n1 - Das autorizações emitidas pela Direcção-Geral de Viação constam as condições em que é permitido o trânsito dos veículos objecto da autorização, sendo a inobservância dessas condições equiparada à sua falta, de acordo com o disposto no artigo 58.º do Código da Estrada.\n\n2 - Sempre que for julgado conveniente, a Direcção-Geral de Viação pode sujeitar a emissão das autorizações objecto do presente Regulamento a parecer prévio das entidades com jurisdição nas vias públicas por onde se pretende efectuar o transporte."
+  },
+  "1013298475": {
+   "fragment_id": "1013298375",
+   "type": 8,
+   "heading": "Secção VI — Trânsito de outros veículos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Trânsito de outros veículos"
+  },
+  "1013298675": {
+   "fragment_id": "1013298575",
+   "type": 11,
+   "heading": "Artigo 24.º — Comboios turísticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Comboios turísticos\n\n1 - Os conjuntos de veículos denominados «comboios turísticos» não podem transitar nas estradas nacionais, salvo nos troços situados dentro das localidades, e, fora das localidades, em curtas extensões cuja utilização seja indispensável para a ligação a outras vias, mediante autorização da Direcção-Geral de Viação.\n\n2 - A velocidade máxima instantânea permitida para estes veículos é de 20 km/hora."
+  },
+  "1013298875": {
+   "fragment_id": "1013298775",
+   "type": 11,
+   "heading": "Artigo 25.º — Outros veículos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Outros veículos\n\n1 - Para os efeitos do presente Regulamento, estão autorizados a circular na via pública, sem necessidade de qualquer das autorizações previstas na secção II:\n\na) Os veículos de mercadorias de caixa aberta ou estrado que transportem objectos indivisíveis, bem como palha e cortiça, desde que a carga não ultrapasse os contornos envolventes do veículo e o veículo com carga não ultrapasse a altura de 4 m a contar do solo;\n\nb) Os veículos ligeiros de caixa fechada que transportem objectos indivisíveis que, pelas suas dimensões, não se contenham na caixa do veículo, desde que não sejam excedidas as seguintes dimensões:\n\nEm comprimento, 550 mm para a frente e 450 mm para a retaguarda, além do contorno envolvente do veículo;\n\nEm largura, a do veículo;\n\nEm altura, 4 m a contar do solo;\n\nc) Os veículos que transportem contentores ISO de 40 pés, não podendo exceder a altura máxima de 4,4 m a contar do solo;\n\nd) Os conjuntos de veículos classificados como especiais para o transporte de automóveis cujo comprimento com carga exceda as dimensões máximas fixadas na Portaria n.º 1092/97, de 3 de Novembro, não podendo, contudo, o conjunto com carga exceder as seguintes dimensões:\n\nEm comprimento, o do conjunto, crescido de 1,25 m;\n\nEm altura, 4,5 m a contar do solo.\n\n2 - Os veículos a que se refere a alínea b) do número anterior estão dispensados do uso do painel P2, devendo os limites da carga ser sinalizados com o painel P1 ou com luzes delimitadoras.\n\n3 - Nos casos previstos no n.º 1 do artigo 5.º, sempre que o conjunto circule sem carga ou esta se possa conter nos limites da caixa do veículo, o conjunto não pode exceder os limites fixados na Portaria n.º 1092/97, de 3 de Novembro."
+  },
+  "1013299075": {
+   "fragment_id": "1013298975",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I\n\n(ver anexo no documento original)"
+  },
+  "1013299275": {
+   "fragment_id": "1013299175",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II\n\n(ver anexo no documento original)"
+  },
+  "1161790275": {
+   "fragment_id": "1013291575",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "Com o objectivo de compatibilizar as melhores condições de segurança do trânsito rodoviário com a necessidade de circulação de veículos que, por si ou em virtude dos objectos indivisíveis que transportam, excedem o peso ou as dimensões máximas fixadas na lei, o n.º 1 do artigo 58.º do Código da Estrada prevê a aprovação, por regulamento, das condições em que o trânsito daqueles veículos pode ser permitido.\n\nPor outro lado, e considerando que o trânsito dos veículos nestas condições, pela própria natureza do transporte ou pelas características dos veículos em causa, pode afectar a fluidez, bem como a segurança rodoviária, do restante tráfego, torna-se necessário condicionar a circulação destes veículos nas vias e nos períodos de maior intensidade de trânsito.\n\nAssim, nos termos e ao abrigo do disposto no n.º 2 do artigo 10.º, na alínea h) do n.º 3 do artigo 56.º e no n.º 1 do artigo 58.º do Código da Estrada, bem como na alínea b) do n.º 2 do artigo 6.º do Decreto-Lei n.º 114/94, de 3 de Maio, com a redacção dada pelo artigo 6.º do Decreto-Lei n.º 2/98, de 3 de Janeiro:\n\nManda o Governo, pelo Ministro da Administração Interna, o seguinte:\n\n1.º É aprovado o Regulamento de Autorizações Especiais de Trânsito, anexo à presente portaria e que dela faz parte integrante.\n\n2.º São revogadas as Portarias n.os 1025/89, de 24 de Novembro, e 980/91, de 24 de Setembro.\n\n3.º A presente portaria entra em vigor 30 dias após a sua publicação.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1165659975": {
+   "fragment_id": "1165659875",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nÉ aprovado o Regulamento de Autorizações Especiais de Trânsito, anexo à presente portaria e que dela faz parte integrante."
+  },
+  "1165660175": {
+   "fragment_id": "1165660075",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nSão revogadas as Portarias n.os 1025/89, de 24 de Novembro, e 980/91, de 24 de Setembro."
+  },
+  "1165660475": {
+   "fragment_id": "1165660375",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nA presente portaria entra em vigor 30 dias após a sua publicação."
+  },
+  "1161790475": {
+   "fragment_id": "1013291775",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "Pelo Ministro da Administração Interna, Armando António Martins Vara, Secretário de Estado Adjunto do Ministro da Administração Interna, em 30 de Abril de 1999.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161790575": {
+   "fragment_id": "1013291975",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DE AUTORIZAÇÕES ESPECIAIS DE TRÂNSITO",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "## Anexo — REGULAMENTO DE AUTORIZAÇÕES ESPECIAIS DE TRÂNSITO\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161790675": {
+   "fragment_id": "1013292175",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "#### Secção I — Disposições gerais\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161790775": {
+   "fragment_id": "1013292375",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - O disposto no presente Regulamento é aplicável ao trânsito na via pública dos veículos:\n\na) Com pesos ou dimensões que excedam os limites fixados na Portaria n.º 1092/97, de 3 de Novembro;\n\nb) Que transportem objectos indivisíveis que excedam os limites da respectiva caixa ou a altura de 4 m;\n\nc) Que transportem objectos indivisíveis cujo peso bruto exceda os limites fixados na portaria a que se refere a alínea a).\n\n2 - O disposto no presente diploma é também aplicável à circulação de máquinas agrícolas e industriais e de comboios turísticos.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161790875": {
+   "fragment_id": "1013292575",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara os efeitos do presente Regulamento, entende-se por:\n\na) «Autorização anual» - a autorização especial de trânsito emitida para um veículo ou conjunto e válida por um ano;\n\nb) «Autorização ocasional» - a autorização especial de trânsito emitida para um veículo ou conjunto e para um único transporte ou para uma única deslocação;\n\nc) «Carro piloto» - o automóvel ligeiro que tem como finalidade indicar aos utentes da via pública a circulação de um veículo que efectua um transporte de grandes dimensões.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161790975": {
+   "fragment_id": "1013292775",
+   "type": 8,
+   "heading": "Secção II — Autorizações especiais de trânsito",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "#### Secção II — Autorizações especiais de trânsito\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161791075": {
+   "fragment_id": "1013292975",
+   "type": 3,
+   "heading": "Subsecção I — Autorizações anuais",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "##### Subsecção I — Autorizações anuais\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161791175": {
+   "fragment_id": "1013293175",
+   "type": 11,
+   "heading": "Artigo 3.º — Autorizações anuais",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "###### Artigo 3.º — Autorizações anuais\n\n1 - O trânsito de veículos na via pública está sujeito a autorização anual sempre que estes transportem objectos indivisíveis cujas dimensões excedam os limites das respectivas caixas de carga ou a altura de 4 m a contar do solo, salvo o disposto nos artigos 6.º e 25.º\n\n2 - A Direcção-Geral de Viação pode emitir, nos termos dos artigos seguintes, autorizações anuais de trânsito, desde que se verifiquem as seguintes condições:\n\na) Os contornos envolventes do veículo com carga não ultrapassem 20 m de comprimento e 3,5 m de largura, sem prejuízo do disposto no artigo 5.º;\n\nb) A altura do veículo com carga não ultrapasse 4,5 m a contar do solo.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161791275": {
+   "fragment_id": "1013293375",
+   "type": 11,
+   "heading": "Artigo 4.º — Tipos de autorizações",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "###### Artigo 4.º — Tipos de autorizações\n\n1 - As autorizações anuais de trânsito para veículos de mercadorias, de caixa aberta ou estrado, são dos seguintes tipos:\n\na) Tipo I - autorizações anuais para veículos cujas dimensões, com carga, não excedam:\n\nEm comprimento, o limite definido pelo contorno envolvente do veículo;\n\nEm largura, 3 m;\n\nEm altura, 4 m a contar do solo;\n\nb) Tipo II - autorizações anuais para veículos de caixa de carga de largura não superior a 2 m e de comprimento igual ou superior a 4,5 m e cujas dimensões do veículo com carga não excedam:\n\nEm comprimento, o valor resultante do comprimento da caixa de carga, acrescido de 7 m;\n\nEm largura, 3 m;\n\nEm altura, 4,5 m a contar do solo;\n\nc) Tipo III - autorizações anuais para veículos ou conjuntos de veículos de caixa de carga de largura superior a 2 m e de comprimento igual ou superior a 4,5 m:\n\nc.1) Tratando-se de veículo único ou conjunto composto por tractor e semi-reboque, as dimensões do veículo com carga não excedam:\n\nEm comprimento, o valor resultante do comprimento da caixa de carga do veículo acrescido, de 7 m, com o limite máximo de 20 m;\n\nEm largura, 3,5 m;\n\nEm altura, 4,5 m a contar do solo;\n\nc.2) Tratando-se de conjunto composto por veículo tractor e reboque, as dimensões do conjunto com carga não excedam:\n\nEm comprimento, o comprimento do conjunto, acrescido de 1,5 m, com o limite máximo de 20 m;\n\nEm largura, 3 m;\n\nEm altura, 4,5 m a contar do solo.\n\n2 - Na situação referida na alínea c.2) do número anterior, o objecto indivisível transportado não pode apoiar-se simultaneamente na caixa do veículo tractor e na do reboque.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161791375": {
+   "fragment_id": "1013293575",
+   "type": 11,
+   "heading": "Artigo 5.º — Veículos especiais",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "###### Artigo 5.º — Veículos especiais\n\n1 - O trânsito na via pública de conjuntos compostos por veículo tractor e reboque ou semi-reboque classificados como especiais para o transporte de automóveis, cujo comprimento com carga exceda as dimensões a que se refere a alínea d) do n.º 1 do artigo 25.º, está sujeito a autorização anual, desde que:\n\na) O veículo disponha de plataforma extensível à retaguarda adaptada para o transporte de automóveis onde se apoia o último eixo do veículo transportado;\n\nb) O comprimento máximo do veículo com carga não exceda o do conjunto, acrescido de 1,8 m;\n\nc) A plataforma não sobressaia em relação à carga.\n\n2 - O trânsito na via pública de veículos classificados como pronto-socorro está sujeito a autorização anual sempre que:\n\na) O comprimento do conjunto constituído por veículo pronto-socorro e veículo rebocado exceda as dimensões máximas estabelecidas na Portaria n.º 1092/97, de 3 de Novembro, para um conjunto composto por veículo tractor e reboque;\n\nb) O comprimento do estrado seja igual ou superior a 4,5 m e os veículos, quando transportados, ultrapassem, em comprimento, o limite deste, não podendo, no entanto, o veículo com carga exceder as seguintes dimensões:\n\nEm comprimento, o valor resultante do comprimento do estrado, acrescido de 1,5 m;\n\nEm largura, 3,5 m;\n\nEm altura, 4,5 m a contar do solo.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161791475": {
+   "fragment_id": "1013293775",
+   "type": 3,
+   "heading": "Subsecção II — Autorizações ocasionais",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "##### Subsecção II — Autorizações ocasionais\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161791575": {
+   "fragment_id": "1013293975",
+   "type": 11,
+   "heading": "Artigo 6.º — Autorizações ocasionais",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "###### Artigo 6.º — Autorizações ocasionais\n\n1 - O trânsito de veículos na via pública que possa constituir risco ou embaraço para a circulação rodoviária ou para as infra-estruturas viárias e circundantes, em virtude de os respectivos pesos brutos ou dimensões ou os objectos por eles transportados excederem os limites fixados na Portaria n.º 1092/97, de 3 de Novembro, está sujeito a autorização ocasional.\n\n2 - A Direcção-Geral de Viação pode emitir autorizações ocasionais, desde que se verifique uma das seguintes condições:\n\na) Os contornos envolventes do veículo ou conjunto, ou do veículo ou conjunto com carga, ultrapassem, pelo menos, um dos seguintes limites:\n\nEm comprimento, 20 m;\n\nEm largura, 3,5 m;\n\nb) A altura do veículo ou conjunto, ou do veículo ou conjunto com carga, ultrapasse 4,5 m a contar do solo;\n\nc) O peso bruto do veículo ou conjunto, ou do veículo ou conjunto com carga, ultrapasse o peso bruto fixado na Portaria n.º 1092/97, de 3 de Novembro, ou o peso bruto constante do livrete, se este for inferior.\n\n3 - Na situação referida na alínea c) do número anterior, o limite máximo permitido é o que consta no livrete do veículo.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161791675": {
+   "fragment_id": "1013294175",
+   "type": 11,
+   "heading": "Artigo 7.º — Acompanhamento por carro piloto",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "###### Artigo 7.º — Acompanhamento por carro piloto\n\n1 - O trânsito de veículos na via pública está ainda sujeito a acompanhamento por carro piloto, sempre que as suas dimensões ou as dimensões do veículo com carga se encontrem numa das seguintes condições:\n\nEm comprimento, seja superior a 20 m e não exceda 25 m;\n\nEm largura, seja superior a 3 m e não exceda 4 m.\n\n2 - O carro piloto deve estar equipado com:\n\na) Uma luz rotativa de cor amarela colocada no tejadilho, com as características definidas no n.º 22.º da Portaria n.º 851/94, de 22 de Setembro;\n\nb) Um painel com a inscrição «Transporte de grandes dimensões» colocado no tejadilho, visível em ambos os sentidos de trânsito, com dimensões mínimas de 1000 mm x 300 mm, devendo possuir sistema de iluminação, a ser utilizado sempre que, nos termos do artigo 59.º do Código da Estrada, seja obrigatório o uso de dispositivos de sinalização luminosa e de iluminação.\n\n3 - Nos casos previstos na alínea a) do n.º 2 do artigo 5.º não é obrigatório o acompanhamento por carro piloto se o pronto-socorro estiver equipado com a luz a que se refere a alínea a) do número anterior.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161791775": {
+   "fragment_id": "1013294375",
+   "type": 11,
+   "heading": "Artigo 8.º — Acompanhamento por batedores",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "###### Artigo 8.º — Acompanhamento por batedores\n\nO trânsito de veículos na via pública está sujeito a acompanhamento por batedores da Guarda Nacional Republicana ou da Polícia de Segurança Pública, sempre que as suas dimensões ou as dimensões do veículo com carga excedam qualquer dos seguintes valores:\n\nEm comprimento, 25 m;\n\nEm largura, 4 m;\n\nEm altura, 5 m a contar do solo.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161791875": {
+   "fragment_id": "1013294575",
+   "type": 11,
+   "heading": "Artigo 9.º — Seguro obrigatório",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "###### Artigo 9.º — Seguro obrigatório\n\nNas situações em que a circulação do veículo ou conjunto depende de autorização ocasional, o proprietário daquele deve fazer prova da existência de seguro destinado a garantir a responsabilidade civil emergente da circulação do mesmo para efectuar o transporte em causa.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161791975": {
+   "fragment_id": "1013294775",
+   "type": 3,
+   "heading": "Subsecção III — Condicionamentos",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "##### Subsecção III — Condicionamentos\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161792075": {
+   "fragment_id": "1013294975",
+   "type": 11,
+   "heading": "Artigo 10.º — Disposição da carga",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "###### Artigo 10.º — Disposição da carga\n\nNa disposição do objecto indivisível no veículo deve atender-se a que aquele só pode exceder a caixa de carga do veículo à retaguarda, no menor comprimento possível, de forma que não constitua risco ou embaraço para os outros utentes da via ou não danifique os pavimentos, instalações, obras de arte e imóveis marginais.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161792175": {
+   "fragment_id": "1013295175",
+   "type": 11,
+   "heading": "Artigo 11.º — Sinalização",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "###### Artigo 11.º — Sinalização\n\n1 - Sempre que nos transportes efectuados nos termos do presente Regulamento a carga transportada ultrapasse os contornos envolventes do veículo, os limites daquela devem ser sinalizados:\n\na) Com o painel P1, se a carga exceder os contornos envolventes do veículo;\n\nb) Com o painel P2, se a carga exceder os contornos envolventes do veículo à retaguarda;\n\nc) Com luzes delimitadoras, sempre que seja obrigatória a utilização de dispositivos de sinalização luminosa e de iluminação, nos termos do artigo 59.º do Código da Estrada.\n\n2 - O painel P1 deve ser colocado nas extremidades posteriores e laterais do objecto transportado e a uma altura do solo, sempre que possível, de 1,6 m, não podendo, contudo, situar-se a menos de 0,4 m ou a mais de 2,5 m.\n\n3 - O painel P2 deve ser colocado no ponto mais à retaguarda do objecto transportado, de forma a não prejudicar a visibilidade dos dispositivos de sinalização luminosa e de iluminação do veículo e da matrícula.\n\n4 - O painel P1, cujo modelo consta do anexo I ao presente Regulamento, é constituído por três faixas longitudinais de igual largura, as duas extremas de cor amarela e a central de cor prateada, em material retrorreflector.\n\n5 - O painel P2, cujo modelo consta do anexo II ao presente Regulamento, é constituído por um fundo de cor branca e faixas de cor vermelha, em material retrorreflector.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161792275": {
+   "fragment_id": "1013295375",
+   "type": 8,
+   "heading": "Secção III — Circulação de máquinas",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "#### Secção III — Circulação de máquinas\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161792375": {
+   "fragment_id": "1013295575",
+   "type": 11,
+   "heading": "Artigo 12.º — Autorizações",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "###### Artigo 12.º — Autorizações\n\n1 - O trânsito na via pública de máquinas agrícolas e industriais está sujeito a autorização anual, a emitir pela Direcção-Geral de Viação, sempre que estas excedam uma das seguintes dimensões:\n\nEm comprimento, 12 m;\n\nEm largura, 2,55 m;\n\nEm altura, 4 m a contar do solo.\n\n2 - O trânsito das máquinas a que se refere o n.º 1 cujos pesos por eixo excedam os limites fixados na Portaria n.º 1092/97, de 3 de Novembro, depende de autorização ocasional, a emitir pela entidade referida no número anterior, e, ainda, quando excedam uma das seguintes dimensões:\n\nEm comprimento, 20 m;\n\nEm largura, 3,5 m;\n\nEm altura, 4,5 m a contar do solo.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161792475": {
+   "fragment_id": "1013295775",
+   "type": 11,
+   "heading": "Artigo 13.º — Proibição para transportar carga",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "###### Artigo 13.º — Proibição para transportar carga\n\nAs máquinas agrícolas e industriais cujo trânsito depende de autorização nos termos do artigo anterior não podem transportar qualquer carga.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161792575": {
+   "fragment_id": "1013295975",
+   "type": 11,
+   "heading": "Artigo 14.º — Trânsito nas auto-estradas e vias equiparadas",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23.",
+    "Alterado pelo/a Artigo do/a [Portaria n.º 808/99 - Diário da República n.º 221/1999, Série I-B de 1999-09-21](https://diariodarepublica.pt/dr/detalhe/portaria/808-1999-558197), em vigor a partir de 1999-09-22."
+   ],
+   "markdown": "###### Artigo 14.º — Trânsito nas auto-estradas e vias equiparadas\n\n1 - As máquinas agrícolas e industriais cujos pesos por eixo não excedam os limites fixados na Portaria n.º 1092/97, de 3 de Novembro, e cujas dimensões não ultrapassem os limites referidos no n.º 2 do artigo 12.º podem, sem prejuízo do disposto no artigo 17.º, circular nas auto-estradas e vias reservadas a automóveis e motociclos, desde que autorizadas pela Direcção-Geral de Viação.\n\n2 - A autorização prevista no número anterior só pode ser concedida desde que a respectiva velocidade máxima, por construção, seja igual ou superior a 70 km/h.\n\n3 - A velocidade máxima instantânea permitida para estes veículos é de 70 km/hora.\n\n4 - Os veículos referidos no n.º 1 devem estar equipados com o painel e a luz previstos nos n.os 21.º e 22.º da Portaria n.º 851/94, de 22 de Setembro.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23.\n\n> Alterado pelo/a Artigo do/a [Portaria n.º 808/99 - Diário da República n.º 221/1999, Série I-B de 1999-09-21](https://diariodarepublica.pt/dr/detalhe/portaria/808-1999-558197), em vigor a partir de 1999-09-22."
+  },
+  "1161792675": {
+   "fragment_id": "1013296175",
+   "type": 11,
+   "heading": "Artigo 15.º — Acompanhamento por carro piloto ou batedores",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "###### Artigo 15.º — Acompanhamento por carro piloto ou batedores\n\n1 - O trânsito na via pública de máquinas agrícolas e industriais deve ser acompanhado por carro piloto, sempre que estas excedam uma das seguintes dimensões:\n\nEm comprimento, 12 m;\n\nEm largura, 3 m.\n\n2 - O trânsito dos veículos referidos no número anterior deve ser acompanhado por batedores da Guarda Nacional Republicana ou da Polícia de Segurança Pública, sempre que excedam os limites de peso por eixo fixados na Portaria n.º 1092/97, de 3 de Novembro, ou uma das seguintes dimensões:\n\nEm comprimento, 20 m;\n\nEm largura, 4 m;\n\nEm altura, 5 m a contar do solo.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161792775": {
+   "fragment_id": "1013296375",
+   "type": 8,
+   "heading": "Secção IV — Restrições",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "#### Secção IV — Restrições\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161792875": {
+   "fragment_id": "1013296575",
+   "type": 11,
+   "heading": "Artigo 16.º — Restrições ao trânsito",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "###### Artigo 16.º — Restrições ao trânsito\n\n1 - Sem prejuízo do disposto no n.º 1 do artigo 10.º do Código da Estrada, é proibido o trânsito de veículos nas condições a que se refere o artigo 1.º, nos seguintes períodos:\n\na) Das 16 às 22 horas de sextas-feiras e domingos;\n\nb) Das 16 às 22 horas de feriados nacionais e vésperas de feriados nacionais;\n\nc) Das 8 às 12 horas e das 16 às 22 horas, no dia 24 de Dezembro;\n\nd) Das 8 às 12 horas, no dia 26 de Dezembro;\n\ne) Das 16 às 22 horas da segunda-feira posterior ao domingo de Páscoa.\n\n2 - As restrições estabelecidas no número anterior aplicam-se nas seguintes vias:\n\na) Ponte sobre o Tejo, em Lisboa, e seus acessos (Lisboa-nó de Almada, na AE 2) e Ponte Vasco da Gama e seus acessos;\n\nb) IP 1, entre o nó de acesso à AE 2 (Grândola Sul) e a EN 125;\n\nc) IC 19, entre o nó da CREL e Lisboa;\n\nd) EN 1, entre Vila Franca de Xira e Vila Nova de Gaia (Santo Ovídio);\n\ne) EN 4, entre Pegões e Montemor-o-Novo;\n\nf) EN 6, entre Lisboa e Cascais;\n\ng) EN 10, entre o Infantado e Lisboa;\n\nh) EN 12, Estrada da Circunvalação;\n\ni) EN 13, entre Porto e Viana do Castelo;\n\nj) EN 14, entre Porto e Braga;\n\nl) EN 15, entre Porto e Campo (AE 4);\n\nm) EN 101, entre Braga e Vila Verde;\n\nn) EN 105, entre Porto e Alfena (ligação com o IC 24);\n\no) EN 108, entre Gondomar (Ramalde) e Porto;\n\np) EN 109, entre Coimbrões e Leiria;\n\nq) EN 115, entre Loures e Bucelas;\n\nr) EN 125, entre Lagos e Vila Real de Santo António;\n\ns) EN 202, entre Viana do Castelo e Ponte de Lima;\n\nt) EN 208, entre Alto da Maia e Valongo;\n\nu) EN 209, entre Porto, Gondomar e Valongo;\n\nv) EN 222, entre Vila Nova de Gaia e a barragem de Crestuma-Lever;\n\nx) EN 247, entre Cascais e Carvoeira;\n\nz) EN 366, entre o nó de Aveiras de Cima e Alcoentre, e variante àquela estrada, entre Alcoentre e Quebradas (ligação com o IC 2).\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161792975": {
+   "fragment_id": "1013296775",
+   "type": 11,
+   "heading": "Artigo 17.º — Máquinas agrícolas e industriais",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "###### Artigo 17.º — Máquinas agrícolas e industriais\n\n1 - Sem prejuízo do disposto no artigo 14.º do presente Regulamento, bem como no n.º 1 do artigo 10.º do Código da Estrada, é proibida a circulação de máquinas agrícolas e industriais nas auto-estradas e vias reservadas a automóveis e motociclos, nos itinerários principais (IP), como tal identificados, e ainda, enquanto não forem identificados como itinerários principais, nos seguintes troços de estradas nacionais:\n\na) EN 2, entre a intersecção com o IP 3 e a intersecção com o IP 5;\n\nb) EN 3, entre Santarém e a ligação ao IP 6;\n\nc) EN 4, entre Montemor-o-Novo e Elvas;\n\nd) EN 13, entre Viana do Castelo e Valença;\n\ne) EN 101, entre Braga e a ligação ao IP 4;\n\nf) EN 102, entre a intersecção com o IP 4 e a intersecção com o IP 5;\n\ng) EN 103, entre Viana do Castelo e Braga;\n\nh) Ponte sobre o Tejo, em Lisboa, e seus acessos (Lisboa-nó de Almada, na AE 2) e Ponte Vasco da Gama e seus acessos.\n\n2 - É ainda proibido o trânsito dos veículos a que se refere o número anterior, nos períodos previstos no n.º 1 do artigo 16.º, nas seguintes vias:\n\na) EN 10, entre Setúbal e Pegões;\n\nb) EN 18, entre a Guarda e a intersecção com o IP 2, em Évora;\n\nc) EN 114, entre Peniche e Santarém;\n\nd) EN 118, entre a intersecção com a EN 2 e a intersecção com o IP 2;\n\ne) EN 121, entre Ferreira do Alentejo e Beja;\n\nf) EN 260, entre Beja e Vila Verde de Ficalho.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161793075": {
+   "fragment_id": "1013296975",
+   "type": 11,
+   "heading": "Artigo 18.º — Trânsito nas auto-estradas e vias equiparadas",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "###### Artigo 18.º — Trânsito nas auto-estradas e vias equiparadas\n\nNas auto-estradas e vias reservadas a automóveis e motociclos é proibido o trânsito de veículos ou veículos com carga, sempre que a largura destes seja superior a 3,75 m, excepto no lanço da AE 1 entre Lisboa e Aveiras de Cima.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161793175": {
+   "fragment_id": "1013297175",
+   "type": 11,
+   "heading": "Artigo 19.º — Excepções",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "###### Artigo 19.º — Excepções\n\nFicam excepcionados das restrições previstas no artigo 16.º os veículos classificados como pronto-socorro.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161793275": {
+   "fragment_id": "1013297375",
+   "type": 11,
+   "heading": "Artigo 20.º — Situações excepcionais",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "###### Artigo 20.º — Situações excepcionais\n\n1 - O director-geral de Viação pode autorizar, excepcionalmente, a circulação de veículos sujeitos a restrições, nos termos do presente diploma, quando a sua deslocação seja indispensável e urgente, atentas razões de interesse público que importe salvaguardar.\n\n2 - Para efeitos do disposto no número anterior, a Direcção-Geral de Viação pode solicitar parecer de entidades competentes, quer quanto à indispensabilidade e urgência do transporte, quer quanto ao itinerário a percorrer.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161793375": {
+   "fragment_id": "1013297575",
+   "type": 8,
+   "heading": "Secção V — Procedimentos",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "#### Secção V — Procedimentos\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161793475": {
+   "fragment_id": "1013297775",
+   "type": 11,
+   "heading": "Artigo 21.º — Requerimento",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "###### Artigo 21.º — Requerimento\n\n1 - O requerimento para a emissão das autorizações a que se refere a subsecção I da secção II é dirigido ao director-geral de Viação, devendo o processo ser instruído com fotocópias do livrete e do título de registo de propriedade.\n\n2 - O requerimento para emissão das autorizações a que se refere a subsecção II da secção II é dirigido ao director-geral de Viação, devendo o processo ser instruído com os seguintes elementos:\n\na) Fotocópias do livrete e do título de registo de propriedade;\n\nb) Desenho cotado do veículo ou do conjunto veículo e carga, na escala adequada;\n\nc) Memória descritiva;\n\nd) Documento comprovativo da efectivação do seguro especial para o transporte.\n\n3 - O requerimento para a emissão das autorizações a que se refere a secção III é dirigido ao director-geral de Viação, devendo o processo ser instruído com o catálogo da máquina e documento comprovativo da propriedade e ainda, quando se trate de autorizações ocasionais, com memória descritiva e documento comprovativo da existência de seguro para a circulação da máquina.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161793575": {
+   "fragment_id": "1013297975",
+   "type": 11,
+   "heading": "Artigo 22.º — Aprovação de modelos",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "###### Artigo 22.º — Aprovação de modelos\n\nPor despacho do director-geral de Viação, são definidos:\n\na) O modelo de requerimento a que se refere o artigo anterior;\n\nb) Os modelos das autorizações especiais de trânsito objecto do presente Regulamento;\n\nc) O conteúdo da memória descritiva a que se refere o artigo anterior;\n\nd) As condições de aprovação dos painéis referidos no artigo 11.º\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161793675": {
+   "fragment_id": "1013298175",
+   "type": 11,
+   "heading": "Artigo 23.º — Condicionamentos constantes das autorizações",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "###### Artigo 23.º — Condicionamentos constantes das autorizações\n\n1 - Das autorizações emitidas pela Direcção-Geral de Viação constam as condições em que é permitido o trânsito dos veículos objecto da autorização, sendo a inobservância dessas condições equiparada à sua falta, de acordo com o disposto no artigo 58.º do Código da Estrada.\n\n2 - Sempre que for julgado conveniente, a Direcção-Geral de Viação pode sujeitar a emissão das autorizações objecto do presente Regulamento a parecer prévio das entidades com jurisdição nas vias públicas por onde se pretende efectuar o transporte.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161793775": {
+   "fragment_id": "1013298375",
+   "type": 8,
+   "heading": "Secção VI — Trânsito de outros veículos",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "#### Secção VI — Trânsito de outros veículos\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161793875": {
+   "fragment_id": "1013298575",
+   "type": 11,
+   "heading": "Artigo 24.º — Comboios turísticos",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "###### Artigo 24.º — Comboios turísticos\n\n1 - Os conjuntos de veículos denominados «comboios turísticos» não podem transitar nas estradas nacionais, salvo nos troços situados dentro das localidades, e, fora das localidades, em curtas extensões cuja utilização seja indispensável para a ligação a outras vias, mediante autorização da Direcção-Geral de Viação.\n\n2 - A velocidade máxima instantânea permitida para estes veículos é de 20 km/hora.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161793975": {
+   "fragment_id": "1013298775",
+   "type": 11,
+   "heading": "Artigo 25.º — Outros veículos",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "###### Artigo 25.º — Outros veículos\n\n1 - Para os efeitos do presente Regulamento, estão autorizados a circular na via pública, sem necessidade de qualquer das autorizações previstas na secção II:\n\na) Os veículos de mercadorias de caixa aberta ou estrado que transportem objectos indivisíveis, bem como palha e cortiça, desde que a carga não ultrapasse os contornos envolventes do veículo e o veículo com carga não ultrapasse a altura de 4 m a contar do solo;\n\nb) Os veículos ligeiros de caixa fechada que transportem objectos indivisíveis que, pelas suas dimensões, não se contenham na caixa do veículo, desde que não sejam excedidas as seguintes dimensões:\n\nEm comprimento, 550 mm para a frente e 450 mm para a retaguarda, além do contorno envolvente do veículo;\n\nEm largura, a do veículo;\n\nEm altura, 4 m a contar do solo;\n\nc) Os veículos que transportem contentores ISO de 40 pés, não podendo exceder a altura máxima de 4,4 m a contar do solo;\n\nd) Os conjuntos de veículos classificados como especiais para o transporte de automóveis cujo comprimento com carga exceda as dimensões máximas fixadas na Portaria n.º 1092/97, de 3 de Novembro, não podendo, contudo, o conjunto com carga exceder as seguintes dimensões:\n\nEm comprimento, o do conjunto, crescido de 1,25 m;\n\nEm altura, 4,5 m a contar do solo.\n\n2 - Os veículos a que se refere a alínea b) do número anterior estão dispensados do uso do painel P2, devendo os limites da carga ser sinalizados com o painel P1 ou com luzes delimitadoras.\n\n3 - Nos casos previstos no n.º 1 do artigo 5.º, sempre que o conjunto circule sem carga ou esta se possa conter nos limites da caixa do veículo, o conjunto não pode exceder os limites fixados na Portaria n.º 1092/97, de 3 de Novembro.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161794075": {
+   "fragment_id": "1013298975",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "## Anexo I\n\n(ver anexo no documento original)\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  },
+  "1161794175": {
+   "fragment_id": "1013299175",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": "2007-09-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+   ],
+   "markdown": "## Anexo II\n\n(ver anexo no documento original)\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 472/2007 - Diário da República n.º 119/2007, Série II de 2007-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/472-2007-1751988), em vigor a partir de 2007-09-23."
+  }
+ }
+}

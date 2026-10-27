@@ -1,0 +1,139 @@
+---
+schema_version: '1.0'
+id: pt:dre:610003:por
+title: Despacho Normativo n.º 42/89
+short_title: null
+summary: Determina que sejam revogadas ou transitoriamente suspensas as regras do Despacho Normativo n.º 24/89, de 15 de Março,
+  que aprova as regras de distribuição pelos empregados das salas de jogos tradicionais dos casinos das gratificações a estes
+  espontaneamente dadas pelos frequentadores das mesmas salas
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério do Emprego e da Segurança Social
+proposing_entity: null
+official_number: 42/89
+official_date: null
+publication_date: '1989-06-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 125/1989, Série I de 1989-06-01
+  number: '125'
+  series: I
+  supplement: null
+  pages: 2101 - 2102
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/06/12500/21012102.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '610003'
+  dre_path: /dr/detalhe/despacho-normativo/42-1989-610003
+  internal: pt:dre:610003:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1989-610003
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1989-610003
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:42:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 10c1df77b8f868feea363e3bef7471058d5a55f7b1bf2c1e6caf4b6e8d4ce93a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:42:56Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Gratificação
+- Pessoal dos Casinos
+relationships:
+- type: cites
+  target: pt:dre:352076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613709:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:42:56Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 42/89
+
+O [Despacho Normativo n.º 24/89](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-1989-613709), de 15 de Março, teve em vista, designadamente, proceder a uma maior adequação global do processo de apuramento, liquidação e distribuição das gratificações percebidas pelos empregados das salas de jogos tradicionais dos casinos. Para o efeito reforçou a estrutura organizativa das comissões de distribuição das gratificações (CDG) e, por fundadas razões de justiça distributiva, redifiniu os coeficientes atribuídos às classes em que os trabalhadores se agrupam para determinação da parcela das gratificações que a cada um cabe perceber, assegurando que seja objecto de apuramento e distribuição a totalidade das gratificações.
+
+A nova moldura dada às CDG, assente em regulamento a aprovar pelos empregados ao serviço de cada empresa concessionária, e a mensualização da distribuição das gratificações aconselharam o protraimento para o dia 1 de Junho próximo do início de vigência das regras contidas nos n.os 7 a 9 daquele despacho, tendo as demais entrado em vigor no 1.º dia do mês de Abril.
+
+As comissões de distribuição existentes, que eram mantidas em funções até à constituição das novas CDG, procederam, com excepções - no final de cada uma das quinzenas passadas -, à distribuição da parte das gratificações que reverte para os empregados, em violação das regras constantes dos n.os 4.2 e 4.3 do [Despacho Normativo n.º 24/89](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-1989-613709).
+
+Havendo que promover a normalização de procedimento em face do referido despacho:
+
+Determino, nos termos e ao abrigo do disposto nos §§ 1.º e 2.º do artigo 13.º do [Decreto n.º 41812](https://diariodarepublica.pt/dr/detalhe/decreto/41812-1958-352076), de 9 de Agosto de 1958, na redacção do [Decreto n.º 43044](https://diariodarepublica.pt/dr/detalhe/decreto/43044-1960-502409), de 2 de Julho de 1960, o seguinte:
+
+1 - São revogadas ou transitoriamente suspensas as regras do [Despacho Normativo n.º 24/89](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-1989-613709), de 15 de Março, que se seguem.
+
+1.1 - É revogado o n.º 13.
+
+1.2 - É suspenso o disposto no n.º 5.4 e, bem assim, as regras dos n.os 3.2, 3.3 e 5.2, na parte em que se referem as comissões de distribuição das gratificações.
+
+2 - Enquanto se não constituírem as CDG, de acordo com o previsto nos n.os 7 e 8 do [Despacho Normativo n.º 24/89](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-1989-613709), é instituído um regime transitório de distribuição das gratificações, nos termos estabelecidos nas regras seguintes.
+
+2.1 - As empresas concessionárias dão cumprimento às regras constantes do [Despacho Normativo n.º 24/89](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-1989-613709), nos termos em que as mesmas se acham formuladas, sempre que tenham as comissões de distribuição das gratificações como destinatárias.
+
+2.2 - É especificamente cometido às empresas concessionárias, em substituição das CDG, o cumprimento das obrigações previstas no n.º 9 e seus subnúmeros do [Despacho Normativo n.º 24/89](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-1989-613709).
+
+2.3 - Até ao 3.º dia útil posterior à entrada em vigor deste despacho cada empresa concessionária abrirá uma conta bancária especial para depósito e transferência das gratificações.
+
+2.4 - O montante das gratificações será depositado pela empresa concessionária na conta referida no número anterior no 1.º dia útil após o respectivo apuramento.
+
+2.5 - A distribuição das gratificações é realizada pela empresa concessionária de cada casino enquanto as CDG não forem constituídas.
+
+2.6 - Com base nas cópias das folhas de apuramento diário das gratificações, cada empresa concessionária reelaborará os mapas relativos às distribuições de gratificações efectuadas entre 15 de Abril de 1989 e a primeira distribuição a que a empresa haja de proceder ao abrigo do número anterior, compensando os valores liquidados, em excesso ou por defeito, naquelas distribuições, por forma a ser dado integral cumprimento ao estabelecido nos n.os 4.2 e 4.3 do [Despacho Normativo n.º 24/89](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-1989-613709).
+
+2.7 - Os mapas a que se refere o n.º 2.6 deste despacho são visados por um inspector da Inspecção-Geral de Jogos pertencente ao serviço permanente de inspecção existente em cada casino.
+
+3 - À medida que, em cada empresa concessionária, os empregados constituam as CDG, nos termos instituídos pelo [Despacho Normativo n.º 24/89](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-1989-613709), de 15 de Março, deixa de ter aplicação o processo de distribuição regulado nos n.os 2.1 a 2.7, passando a aplicar-se as normas suspensas pelo n.º 1.2 do presente despacho.
+
+3.1 - Constituída a CDG, a empresa concessionária transferirá para a conta daquela o saldo, incluindo juros, da conta bancária a que se refere o n.º 2.3 deste despacho, logo que solicitado.
+
+4 - O presente despacho entra em vigor no dia seguinte ao da publicação.
+
+Ministério do Emprego e da Segurança Social, 19 de Maio de 1989. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.

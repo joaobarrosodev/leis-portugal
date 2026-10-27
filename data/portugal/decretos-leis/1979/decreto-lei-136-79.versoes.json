@@ -1,0 +1,1727 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:382614:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1979-855405045",
+ "dre_path": "/dr/detalhe/decreto-lei/136-1979-382614",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1979-05-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "855752409",
+    "855404542",
+    "855404543",
+    "855404544",
+    "855404545",
+    "855404546",
+    "855404547",
+    "855404548",
+    "855404549",
+    "855404550",
+    "855404551",
+    "855404552",
+    "855404553",
+    "855404554",
+    "855404555",
+    "855404556",
+    "855404557",
+    "855404558",
+    "855404559",
+    "855404560",
+    "855404561",
+    "855404562",
+    "855404563",
+    "855404564",
+    "855404565",
+    "855404566",
+    "855404567",
+    "855404568",
+    "855404569",
+    "855404570",
+    "855404571",
+    "855404572",
+    "855404573",
+    "855404574",
+    "855408775",
+    "855408776",
+    "855408777",
+    "855408778",
+    "855408779",
+    "855408780",
+    "855408781",
+    "855408782",
+    "855408783",
+    "855408784"
+   ]
+  },
+  {
+   "date": "1979-07-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:382225:por",
+     "title": "Decreto-Lei n.º 231/79",
+     "published": "1979-07-24",
+     "dre_path": "/dr/detalhe/decreto-lei/231-1979-382225"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "855752383",
+    "855404542",
+    "855404543",
+    "855404544",
+    "855404545",
+    "855404546",
+    "855404547",
+    "855404548",
+    "855752387",
+    "855404550",
+    "855404551",
+    "855404552",
+    "855404553",
+    "855404554",
+    "855404555",
+    "855404556",
+    "855404557",
+    "855752388",
+    "855404559",
+    "855404560",
+    "855404561",
+    "855404562",
+    "855404563",
+    "855404564",
+    "855404565",
+    "855404566",
+    "855404567",
+    "855404568",
+    "855404569",
+    "855404570",
+    "855404571",
+    "855752384",
+    "855404573",
+    "855404574",
+    "855408775",
+    "855408776",
+    "855408777",
+    "855408778",
+    "855408779",
+    "855408780",
+    "855752385",
+    "855752386",
+    "855408783",
+    "855408784",
+    "855408785"
+   ]
+  },
+  {
+   "date": "1980-08-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:470815:por",
+     "title": "Decreto-Lei n.º 281/80",
+     "published": "1980-08-14",
+     "dre_path": "/dr/detalhe/decreto-lei/281-1980-470815"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 30.º"
+   ],
+   "fragments": [
+    "855752383",
+    "855404542",
+    "855404543",
+    "855404544",
+    "855752389",
+    "855404546",
+    "855404547",
+    "855404548",
+    "855752387",
+    "855404550",
+    "855404551",
+    "855752390",
+    "855404553",
+    "855404554",
+    "855404555",
+    "855404556",
+    "855404557",
+    "855752388",
+    "855404559",
+    "855404560",
+    "855404561",
+    "855404562",
+    "855404563",
+    "855404564",
+    "855752391",
+    "855404566",
+    "855404567",
+    "855404568",
+    "855404569",
+    "855404570",
+    "855404571",
+    "855752384",
+    "855752392",
+    "855404574",
+    "855408775",
+    "855408776",
+    "855408777",
+    "855408778",
+    "855408779",
+    "855752393",
+    "855752394",
+    "855752395",
+    "855408783",
+    "855408784",
+    "855408785"
+   ]
+  },
+  {
+   "date": "1981-04-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:394525:por",
+     "title": "Decreto-Lei n.º 79/81",
+     "published": "1981-04-20",
+     "dre_path": "/dr/detalhe/decreto-lei/79-1981-394525"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "855752383",
+    "855404542",
+    "855404543",
+    "855404544",
+    "855752389",
+    "855404546",
+    "855404547",
+    "855404548",
+    "855752396",
+    "855404550",
+    "855404551",
+    "855752390",
+    "855404553",
+    "855404554",
+    "855404555",
+    "855404556",
+    "855404557",
+    "855752388",
+    "855404559",
+    "855404560",
+    "855404561",
+    "855404562",
+    "855404563",
+    "855404564",
+    "855752391",
+    "855404566",
+    "855404567",
+    "855404568",
+    "855404569",
+    "855404570",
+    "855404571",
+    "855752384",
+    "855752392",
+    "855404574",
+    "855408775",
+    "855408776",
+    "855408777",
+    "855408778",
+    "855408779",
+    "855752393",
+    "855752394",
+    "855752395",
+    "855408783",
+    "855408784",
+    "855408785"
+   ]
+  },
+  {
+   "date": "1986-03-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:196762:por",
+     "title": "Decreto-Lei n.º 49/86",
+     "published": "1986-03-14",
+     "dre_path": "/dr/detalhe/decreto-lei/49-1986-196762"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "855752383",
+    "855404542",
+    "855404543",
+    "855404544",
+    "855752389",
+    "855752397",
+    "855404547",
+    "855404548",
+    "855752396",
+    "855404550",
+    "855404551",
+    "855752390",
+    "855404553",
+    "855404554",
+    "855404555",
+    "855404556",
+    "855404557",
+    "855752388",
+    "855404559",
+    "855404560",
+    "855404561",
+    "855404562",
+    "855404563",
+    "855404564",
+    "855752391",
+    "855404566",
+    "855404567",
+    "855404568",
+    "855404569",
+    "855404570",
+    "855404571",
+    "855752384",
+    "855752392",
+    "855404574",
+    "855408775",
+    "855408776",
+    "855408777",
+    "855408778",
+    "855408779",
+    "855752393",
+    "855752394",
+    "855752395",
+    "855408783",
+    "855408784",
+    "855408785"
+   ]
+  },
+  {
+   "date": "1986-08-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:218684:por",
+     "title": "Decreto-Lei n.º 212/86",
+     "published": "1986-08-01",
+     "dre_path": "/dr/detalhe/decreto-lei/212-1986-218684"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "855752383",
+    "855404542",
+    "855404543",
+    "855404544",
+    "855752389",
+    "855752397",
+    "855404547",
+    "855404548",
+    "855752396",
+    "855404550",
+    "855404551",
+    "855752398",
+    "855404553",
+    "855404554",
+    "855404555",
+    "855404556",
+    "855404557",
+    "855752388",
+    "855404559",
+    "855404560",
+    "855404561",
+    "855404562",
+    "855404563",
+    "855404564",
+    "855752391",
+    "855404566",
+    "855404567",
+    "855404568",
+    "855404569",
+    "855404570",
+    "855404571",
+    "855752384",
+    "855752392",
+    "855404574",
+    "855408775",
+    "855408776",
+    "855408777",
+    "855408778",
+    "855408779",
+    "855752393",
+    "855752394",
+    "855752395",
+    "855408783",
+    "855408784",
+    "855408785"
+   ]
+  },
+  {
+   "date": "1990-06-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:574928:por",
+     "title": "Decreto-Lei n.º 182/90",
+     "published": "1990-06-06",
+     "dre_path": "/dr/detalhe/decreto-lei/182-1990-574928"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "855752383",
+    "855404542",
+    "855404543",
+    "855404544",
+    "855752389",
+    "855752399",
+    "855404547",
+    "855404548",
+    "855752396",
+    "855404550",
+    "855404551",
+    "855752398",
+    "855404553",
+    "855404554",
+    "855404555",
+    "855404556",
+    "855404557",
+    "855752388",
+    "855404559",
+    "855404560",
+    "855404561",
+    "855404562",
+    "855404563",
+    "855404564",
+    "855752391",
+    "855404566",
+    "855404567",
+    "855404568",
+    "855404569",
+    "855404570",
+    "855404571",
+    "855752384",
+    "855752392",
+    "855404574",
+    "855408775",
+    "855408776",
+    "855408777",
+    "855408778",
+    "855408779",
+    "855752393",
+    "855752394",
+    "855752395",
+    "855408783",
+    "855408784",
+    "855408785"
+   ]
+  },
+  {
+   "date": "1997-11-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:406563:por",
+     "title": "Decreto-Lei n.º 319/97",
+     "published": "1997-11-25",
+     "dre_path": "/dr/detalhe/decreto-lei/319-1997-406563"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 12.º-A"
+   ],
+   "fragments": [
+    "855752383",
+    "855752401",
+    "855404543",
+    "855404544",
+    "855752389",
+    "855752399",
+    "855752402",
+    "855404548",
+    "856226875",
+    "855752396",
+    "855404550",
+    "855404551",
+    "855752398",
+    "855404553",
+    "855404554",
+    "855404555",
+    "855404556",
+    "856226876",
+    "855752388",
+    "855404559",
+    "856226877",
+    "855404561",
+    "855404562",
+    "855752403",
+    "855404564",
+    "855752391",
+    "855752404",
+    "855404567",
+    "855404568",
+    "855404569",
+    "855404570",
+    "855404571",
+    "855752384",
+    "855752392",
+    "855752405",
+    "855408775",
+    "855408776",
+    "855408777",
+    "855408778",
+    "855752406",
+    "855752393",
+    "855752394",
+    "855752395",
+    "855408783",
+    "855408784",
+    "855752407"
+   ]
+  },
+  {
+   "date": "2007-05-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:520659:por",
+     "title": "Decreto-Lei n.º 188/2007",
+     "published": "2007-05-11",
+     "dre_path": "/dr/detalhe/decreto-lei/188-2007-520659"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 28.º"
+   ],
+   "fragments": [
+    "855752383",
+    "855752401",
+    "855404543",
+    "855404544",
+    "855752389",
+    "855752399",
+    "855752402",
+    "855404548",
+    "856226875",
+    "855752396",
+    "855404550",
+    "855404551",
+    "855752398",
+    "855404553",
+    "855404554",
+    "855404555",
+    "855404556",
+    "856226876",
+    "855752388",
+    "855404559",
+    "856226877",
+    "855404561",
+    "855404562",
+    "855752403",
+    "855404564",
+    "855752391",
+    "855752404",
+    "855404567",
+    "855404568",
+    "855404569",
+    "855404570",
+    "855404571",
+    "855752384",
+    "855752392",
+    "855752405",
+    "855408775",
+    "855408776",
+    "855408777",
+    "855408778",
+    "855752406",
+    "855752408",
+    "855752394",
+    "855752395",
+    "855408783",
+    "855408784",
+    "855752407"
+   ]
+  },
+  {
+   "date": "2015-10-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70241306:por",
+     "title": "Decreto-Lei n.º 190/2015",
+     "published": "2015-09-10",
+     "dre_path": "/dr/detalhe/decreto-lei/190-2015-70241306"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "855752409",
+    "855752411",
+    "855752412",
+    "855752413",
+    "855752414",
+    "855752415",
+    "855752416",
+    "855752417",
+    "855752418",
+    "855752419",
+    "855752420",
+    "855752421",
+    "855752422",
+    "855752423",
+    "855752424",
+    "855752425",
+    "855752410",
+    "855752426",
+    "855752427",
+    "855752428",
+    "855752429",
+    "855752430",
+    "855752431",
+    "855752432",
+    "855752433",
+    "855752434",
+    "855752435",
+    "855752436",
+    "855752437",
+    "855752438",
+    "855752439",
+    "855752440",
+    "855752441",
+    "855752442",
+    "855752443",
+    "855752444",
+    "855752445",
+    "855752446",
+    "855752447",
+    "855752448",
+    "855752449",
+    "855752450",
+    "855752451",
+    "855752452",
+    "855752453",
+    "855752454"
+   ]
+  }
+ ],
+ "fragments": {
+  "855752409": {
+   "fragment_id": "855405046",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2015-10-10",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 136/79\n\nde 18 de Maio\n\nPelo presente diploma dá o Governo cumprimento ao preceituado no n.º 4 do artigo 3.º da Lei n.º 46/77, de 8 de Julho, no que respeita às caixas económicas, definindo as suas características próprias e estabelecendo o quadro genérico dentro do qual será balizada a respectiva actuação.\n\nNão se perdeu de vista, porém, ao regulamentar aquele tipo de instituições, as suas origens históricas e o espírito que informou o seu tratamento legislativo ao longo do tempo.\n\nA fórmula «caixa económica» foi, pela primeira vez, segundo parece, consagrada legislativamente no Decreto de 17 de Agosto de 1836, que lhe atribuía a possibilidade de receber depósitos, sendo os fundos recolhidos por uma «caixa de empréstimos» ou «monte de piedade» incumbido de, com eles, efectuar operações de empréstimo sobre penhores. Consagrou-se, assim, um escopo de beneficência, visando combater a prática da agiotagem que, então, proliferava.\n\nPosteriormente, a Lei de 12 de Março de 1845 veio confirmar a natureza das caixas económicas como instituições dirigidas à captação do pequeno aforro e à realização de operações de crédito de carácter essencialmente pessoal, em condições relativamente acessíveis, embora haja diluído, de algum modo, o carácter de instituição de beneficência que decorria do diploma anterior.\n\nA legislação subsequente, na qual avultam o Decreto com força de lei de 28 de Fevereiro de 1891, o Decreto n.º 19281, de 29 de Janeiro de 1931, e o Decreto n.º 20944, de 27 de Fevereiro de 1932, foi claramente dominada por uma visão mutualista, que ligava as caixas económicas às associações de socorros mútuos, alargando, todavia, aos empréstimos hipotecários o quadro de operações activas facultadas àquelas instituições.\n\nAs caixas achavam-se delimitadas em função de um duplo critério. Por um lado, eram confinadas a uma actividade bancária restrita; por outro, constituíam instituições sem fins lucrativos, cuja génese se ligava indissoluvelmente aos condicionalismos de uma época em que, não existindo um sistema bancário minimamente articulado e disciplinado, a actividade de intermediação monetária e financeira era exercida por particulares que se entregavam, as mais das vezes, a práticas abusivas.\n\nCom o evoluir do tempo, todavia, surgiu o discutível entendimento de que as caixas económicas se caracterizariam tão-somente em função do primeiro dos critérios apontados - a competência bancária restrita -, relegando-se para segundo plano a sua natureza não lucrativa.\n\nSó assim se explica que, em paralelo à estruturação do sistema bancário nacional, comecem a surgir, de forma algo anómala relativamente aos princípios inspiradores da legislação acima indicada, caixas económicas constituídas sob forma de sociedades anónimas.\n\nCom a diversificação e desenvolvimento da estrutura bancária, a função económico-social, tradicionalmente ligada àquelas caixas, foi preenchida por outras instituições.\n\nAs caixas económicas mantêm-se, pois, como uma persistência de formas institucionais que tiveram a sua principal razão de ser em condicionalismos históricos, hoje em larga medida ultrapassados, o que justifica a orientação adoptada no presente diploma quanto à possibilidade de criação de novas caixas, sua transformação ou fusão.\n\nComo quer que seja, o presente diploma procura actualizar o quadro operacional das mencionadas instituições, sem desvirtuar a sua especificidade e sem extravasar dos limites colocados pelas suas características próprias, sedimentadas ao longo de um processo histórico, nem sempre linear.\n\nContinuam, no entanto, a existir regimes especiais aplicáveis às caixas económicas das Regiões Autónomas - que, há que reconhecê-lo, vêm suprindo algumas carências em matéria de crédito, resultantes do menor grau de implantação do sistema bancário naqueles territórios -, bem como à Caixa Económica das Forças Armadas e à Caixa Económica de Lisboa, cuja capacidade operacional foi ampliada pelo Decreto-Lei n.º 156-A/75, de 25 de Março.\n\nAssim, tendo em conta o disposto nos n.os 2 e 4 do artigo 3.º da Lei n.º 46/77, de 8 de Julho:\n\nO Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "855404542": {
+   "fragment_id": "855405047",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "855404543": {
+   "fragment_id": "855405048",
+   "type": 11,
+   "heading": "Artigo 1.º — (Noção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Noção)\n\nAs caixas económicas são instituições especiais de credito que têm por objecto uma actividade bancária restrita, nomeadamente recebendo, sob a forma de depósitos à ordem, com pré-aviso ou a prazo, disponibilidades monetárias que aplicam em empréstimos e outras operações sobre títulos que lhes sejam permitidas e prestando, ainda, os serviços bancários compatíveis com a sua natureza e que a lei expressamente lhes não proíba."
+  },
+  "855404544": {
+   "fragment_id": "855405049",
+   "type": 11,
+   "heading": "Artigo 2.º — (Constituição e fusão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Constituição e fusão)\n\n1 - A constituição de caixas económicas só pode ser autorizada com carácter excepcional pelo Ministro das Finanças e do Plano, ouvido o Banco de Portugal desde que se trate de caixas anexas ou pertencentes a associações de socorros mútuos, Misericórdias ou outras instituições de beneficência e se justifique devidamente a necessidade da sua existência.\n\n2 - Em caso algum podem ser constituídas novas caixas económicas sob a forma de sociedade comercial.\n\n3 - A fusão ou transformação de caixas económicas só com carácter excepcional pode ser autorizada pelo Ministro das Finanças e do Plano, ouvido o Banco de Portugal.\n\n4 - A denominação de caixa económica ou outra que sugira a ideia de instituição desta natureza só pode ser usada por caixas legalmente constituídas."
+  },
+  "855404545": {
+   "fragment_id": "855405050",
+   "type": 11,
+   "heading": "Artigo 3.º — (Agências ou sucursais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Agências ou sucursais)\n\nMediante autorização do Ministro das Finanças e do Plano, ouvido o Banco de Portugal, podem as caixas económicas abrir agências ou sucursais em território nacional."
+  },
+  "855404546": {
+   "fragment_id": "855405051",
+   "type": 11,
+   "heading": "Artigo 4.º — (Acções de caixas que são sociedades anónimas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Acções de caixas que são sociedades anónimas)\n\n1 - Nas caixas económicas que existem sob a forma de sociedades anónimas, as respectivas acções serão nominativas e averbáveis apenas a pessoas singulares, a cooperativas e a quaisquer pessoas colectivas sem fim lucrativo.\n\n2 - Nenhum accionista pode, directamente ou por interposta pessoa, possuir participação superior a 5% do capital social.\n\n3 - Devem ser regularizadas no prazo de seis meses, contados da data da publicação do presente diploma, as situações que se não harmonizem com o disposto nos números anteriores."
+  },
+  "855404547": {
+   "fragment_id": "855405052",
+   "type": 1,
+   "heading": "Capítulo II — Actividades das caixas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Actividades das caixas"
+  },
+  "855404548": {
+   "fragment_id": "855405053",
+   "type": 8,
+   "heading": "Secção I — Operações activas e cambiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Operações activas e cambiais"
+  },
+  "855404549": {
+   "fragment_id": "855405054",
+   "type": 11,
+   "heading": "Artigo 5.º — (Operações de crédito)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Operações de crédito)\n\n1 - As caixas económicas limitam as suas operações de crédito activas a empréstimos sobre penhores e hipotecários.\n\n2 - O disposto no número anterior não prejudica a possibilidade de:\n\na) As caixas económicas actualmente existentes e com sede nas regiões autónomas poderem efectuar as seguintes operações activas:\n\ni) Desconto comercial, visando, em especial, o benefício de explorações agro-pecuárias ou de pequenas e médias empresas;\n\nii) Concessão de crédito a médio e longo prazo ao investimento produtivo, desde que garantido por pessoas colectivas de direito público com competência para tal;\n\niii) Realização de operações de abertura de crédito em conta corrente, desde que caucionadas por títulos de dívida pública;\n\niv) Execução de operações de crédito à habitação com taxas bonificadas;\n\nb) A Caixa Económica de Lisboa, anexa ao Montepio Geral, realizar operações bancárias além das enunciadas nos seus estatutos, desde que genericamente autorizada pelo Banco de Portugal, não se lhe aplicando, assim, o disposto no corpo do artigo 79.º do Decreto n.º 20944, de 27 de Fevereiro de 1932."
+  },
+  "855404550": {
+   "fragment_id": "855405055",
+   "type": 11,
+   "heading": "Artigo 6.º — (Limites e condições das operações de crédito)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Limites e condições das operações de crédito)\n\nA concessão de crédito pelas caixas económicas fica sujeita aos limites e condições estabelecidos para os bancos comerciais, com as necessárias adaptações."
+  },
+  "855404551": {
+   "fragment_id": "855405056",
+   "type": 11,
+   "heading": "Artigo 7.º — (Operações cambiais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Operações cambiais)\n\n1 - Podem as caixas económicas praticar operações cambiais sempre que o contravalor em escudos da moeda estrangeira se destine à constituição de contas de depósito ou a crédito de contas já existentes ou, ainda, a liquidar responsabilidades próprias do cedente dos valores perante a caixa económica; podem também, em qualquer caso, as caixas económicas comprar e vender notas e moedas metálicas estrangeiras, bem como adquirir cheques turísticos.\n\n2 - As divisas adquiridas, nelas não se compreendendo notas e moedas metálicas estrangeiras, devem ser cedidas ao Banco de Portugal no prazo de cinco dias.\n\n3 - O Banco de Portugal pode estabelecer a obrigatoriedade de cedência de notas e moedas metálicas estrangeiras acima de determinados valores."
+  },
+  "855404552": {
+   "fragment_id": "855405057",
+   "type": 11,
+   "heading": "Artigo 8.º — (Participações financeiras)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Participações financeiras)\n\nAs caixas económicas não podem deter participações financeiras em quaisquer empresas."
+  },
+  "855404553": {
+   "fragment_id": "855405058",
+   "type": 11,
+   "heading": "Artigo 9.º — (Carteira de títulos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Carteira de títulos)\n\n1 - As caixas económicas só podem adquirir acções, obrigações e título de natureza similar que estejam cotados em bolsa nacional.\n\n2 - A carteira de títulos das caixas económicas, excluindo os emitidos pelo Estado, não pode exceder 15% do saldo dos respectivos depósitos."
+  },
+  "855404554": {
+   "fragment_id": "855405059",
+   "type": 11,
+   "heading": "Artigo 10.º — (Afectação dos empréstimos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Afectação dos empréstimos)\n\n1 - Os capitais emprestados não podem ter destino diferente daquele para que foram concedidos, sob pena de resolução imediata do contrato.\n\n2 - As caixas económicas têm a faculdade de fiscalizar ou de exigir prova da aplicação dos fundos mutuados."
+  },
+  "855404555": {
+   "fragment_id": "855405060",
+   "type": 11,
+   "heading": "Artigo 11.º — (Tipos e condições das garantias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Tipos e condições das garantias)\n\n1 - A garantia das operações de empréstimo é constituída por primeira hipoteca ou penhor, conforme a natureza da operação e o critério da caixa mutuante.\n\n2 - As caixas económicas só podem aceitar, como garantia das suas operações, terrenos para construção desde que os mesmos se integrem em zonas com projectos de urbanização aprovados oficialmente."
+  },
+  "855404556": {
+   "fragment_id": "855405061",
+   "type": 11,
+   "heading": "Artigo 12.º — (Seguro das garantias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Seguro das garantias)\n\nAs caixas económicas devem exigir prova do seguro dos bens hipotecados que aceitarem em garantia dos empréstimos efectuados, com averbamento do seu interesse no mesmo seguro."
+  },
+  "855404557": {
+   "fragment_id": "855405062",
+   "type": 8,
+   "heading": "Secção II — Operações passivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Operações passivas"
+  },
+  "855404558": {
+   "fragment_id": "855405063",
+   "type": 11,
+   "heading": "Artigo 13.º — (Operações passivas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Operações passivas)\n\nAs caixas económicas podem receber depósitos em numerário, nos termos definidos para os bancos comerciais."
+  },
+  "855404559": {
+   "fragment_id": "855405064",
+   "type": 11,
+   "heading": "Artigo 14.º — (Empréstimos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Empréstimos)\n\n1 - Podem as instituições de crédito conceder empréstimos às caixas económicas, inclusivamente sob a forma de conta-corrente, com a garantia do penhor de coisas ou de direitos.\n\n2 - No caso de a garantia referida no número anterior consistir em penhor de créditos, o penhor subsiste independentemente de registo."
+  },
+  "855404560": {
+   "fragment_id": "855405065",
+   "type": 8,
+   "heading": "Secção III — Prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Prestação de serviços"
+  },
+  "855404561": {
+   "fragment_id": "855405066",
+   "type": 11,
+   "heading": "Artigo 15.º — (Prestação de serviços)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Prestação de serviços)\n\nAs caixas económicas podem executar serviços de cobrança, transferências de numerário aluguer de cofres, administração de bens imóveis, pagamentos periódicos e outros análogos de conta dos clientes."
+  },
+  "855404562": {
+   "fragment_id": "855405067",
+   "type": 11,
+   "heading": "Artigo 16.º — (Condições especiais para sócios)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Condições especiais para sócios)\n\nOs estatutos das caixas económicas podem consignar condições especiais de prestação de serviços a favor dos respectivos sócios."
+  },
+  "855404563": {
+   "fragment_id": "855405068",
+   "type": 1,
+   "heading": "Capítulo III — Garantias de liquidez e solvabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Garantias de liquidez e solvabilidade"
+  },
+  "855404564": {
+   "fragment_id": "855405069",
+   "type": 11,
+   "heading": "Artigo 17.º — (Composição e percentagem de disponibilidades de caixa)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Composição e percentagem de disponibilidades de caixa)\n\nAs responsabilidades das caixas económicas representadas por depósitos à ordem, com pré-aviso ou a prazo devem estar cobertas por disponibilidades de caixa, com a composição e nas percentagens que estiverem estabelecidas para os bancos comerciais."
+  },
+  "855404565": {
+   "fragment_id": "855405070",
+   "type": 11,
+   "heading": "Artigo 18.º — (Proibição de aquisição e posse de imóveis)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Proibição de aquisição e posse de imóveis)\n\nAs caixas económicas não podem adquirir ou possuir bens imóveis para além dos necessários às suas instalações próprias, salvo quando lhes advenham por efeito de cessão de bens, dação em cumprimento, arrematação ou qualquer outro meio legal de cumprimento de obrigações ou destinado a assegurar esse cumprimento, devendo, em tais casos, proceder à respectiva liquidação no prazo de três anos.\n\n2 - O prazo de três anos referido no número anterior pode ser alargado em casos excepcionais, a submeter a autorização do Ministro das Finanças e do Plano."
+  },
+  "855404566": {
+   "fragment_id": "855405071",
+   "type": 1,
+   "heading": "Capítulo IV — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Órgãos sociais"
+  },
+  "855404567": {
+   "fragment_id": "855405072",
+   "type": 8,
+   "heading": "Secção I — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Assembleia geral"
+  },
+  "855404568": {
+   "fragment_id": "855405073",
+   "type": 11,
+   "heading": "Artigo 19.º — (Assembleia geral)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Assembleia geral)\n\nA constituição, atribuição e funcionamento das assembleias gerais das caixas económicas são regidos pelas normas constantes dos respectivos estatutos e das leis gerais aplicáveis."
+  },
+  "855404569": {
+   "fragment_id": "855405074",
+   "type": 8,
+   "heading": "Secção II — Administração e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Administração e fiscalização"
+  },
+  "855404570": {
+   "fragment_id": "855404675",
+   "type": 11,
+   "heading": "Artigo 20.º — (Administração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Administração)\n\n1 - As caixas económicas são geridas por uma direcção ou conselho de administração, constituídos por um mínimo de três membros, cuja eleição compete à assembleia geral.\n\n2 - A eleição é trienal, sendo permitida a reeleição.\n\n3 - A assembleia geral elege um número de suplentes igual ao dos efectivos."
+  },
+  "855404571": {
+   "fragment_id": "855404676",
+   "type": 11,
+   "heading": "Artigo 21.º — (Fiscalização)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Fiscalização)\n\n1 - A fiscalização da gerência das caixas económicas é exercida por um conselho fiscal, constituído por três membros, eleitos pela assembleia geral.\n\n2 - O conselho fiscal tem, além dos membros efectivos, dois suplentes, eleitos também pela assembleia geral.\n\n3 - Os membros do conselho fiscal exercem as suas funções por períodos de três anos, renováveis."
+  },
+  "855404572": {
+   "fragment_id": "855404677",
+   "type": 11,
+   "heading": "Artigo 22.º — (Regime de desempenho dos cargos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Regime de desempenho dos cargos)\n\nAs atribuições e, bem assim, as condições de desempenho dos cargos referidos nos artigos 20.º e 21.º constarão dos respectivos estatutos e deverão conformar-se com o disposto na lei geral, considerando-se, designadamente, aplicável o disposto no Decreto-Lei n.º 49381, de 15 de Novembro de 1969."
+  },
+  "855404573": {
+   "fragment_id": "855404678",
+   "type": 11,
+   "heading": "Artigo 23.º — (Nomeação de administradores por parte do Estado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Nomeação de administradores por parte do Estado)\n\n1 - O Banco de Portugal, em casos excepcionais devidamente justificados, pode propor ao Ministro das Finanças e do Plano a nomeação de um administrador por parte do Estado para assegurar o normal funcionamento de uma caixa.\n\n2 - No caso de caixas económicas que exerçam a sua actividade exclusivamente no território de uma região autónoma, a nomeação deve ser precedida de audiência a do respectivo Governo Regional."
+  },
+  "855404574": {
+   "fragment_id": "855404679",
+   "type": 1,
+   "heading": "Capítulo V — Contas e resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Contas e resultados"
+  },
+  "855408775": {
+   "fragment_id": "855404680",
+   "type": 11,
+   "heading": "Artigo 24.º — (Contas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Contas)\n\nO plano de contas e sua execução, a organização dos balanços e outros documentos, bem como os critérios a adoptar na valorimetria dos elementos patrimoniais, devem obedecer às instruções emanadas do Banco de Portugal."
+  },
+  "855408776": {
+   "fragment_id": "855404681",
+   "type": 11,
+   "heading": "Artigo 25.º — (Provisões)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Provisões)\n\nAs caixas económicas devem constituir provisões para créditos de cobrança duvidosa e para outras depreciações do activo, nos termos que forem regulamentados pelo Banco de Portugal, além das que prudentemente considerem necessárias para fazer face aos riscos de depreciação ou prejuízos a que determinadas espécies de valores ou operações estão especialmente sujeitas."
+  },
+  "855408777": {
+   "fragment_id": "855404682",
+   "type": 11,
+   "heading": "Artigo 26.º — (Reservas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Reservas)\n\n1 - As caixas económicas devem constituir, obrigatoriamente, as seguintes reservas:\n\na) Reserva geral, destinada a ocorrer a qualquer eventualidade e a cobrir prejuízos ou depreciações extraordinárias;\n\nb) Reserva especial, destinada a suportar prejuízos resultantes das operações correntes.\n\n2 - O limite para formação da reserva geral é fixado em 25% da totalidade dos depósitos.\n\n3 - É facultativa a criação de uma reserva social com a finalidade de permitir a regularidade e estabilização do nível dos valores a distribuir pelos sócios a título de remuneração do capital, independentemente da variação anual dos resultados."
+  },
+  "855408778": {
+   "fragment_id": "855404683",
+   "type": 11,
+   "heading": "Artigo 27.º — (Afectação de resultados)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — (Afectação de resultados)\n\n1 - Depois de realizadas as amortizações e de constituídas as devidas provisões, o conselho de administração, ou a direcção, deve propor à assembleia geral, com as contas anuais, o destino a dar ao saldo que se apurar, em cada exercício, na respectiva conta de resultados.\n\n2 - É feita a atribuição mínima de 20% e 5%, respectivamente para a reserva geral, enquanto não atingir o limite fixado no n.º 2 do artigo 26.º, e para a reserva especial, do saldo a que se refere o número anterior."
+  },
+  "855408779": {
+   "fragment_id": "855404684",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais"
+  },
+  "855408780": {
+   "fragment_id": "855404685",
+   "type": 11,
+   "heading": "Artigo 28.º — (Obrigação de prestação de informações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — (Obrigação de prestação de informações)\n\n1 - Sem prejuízo da obrigação de prestar as informações a que estão sujeitas as instituições especiais de crédito, as caixas económicas são obrigadas a enviar ao Banco de Portugal os seus balancetes trimestrais e a afixá-los em duplicado, em lugar visível, patente ao público, nas suas sedes, agências ou sucursais.\n\n2 - Os balanços e contas de resultados, acompanhados dos respectivos relatórios da administração ou direcção, e do parecer do conselho fiscal, devem ser publicados num dos jornais mais lidos da localidade da sede das caixas e também remetidos ao Banco de Portugal; estes elementos devem ser igualmente afixados em lugar visível, patente ao público, nas suas sedes, agências ou sucursais.\n\n3 - As providências a que se referem os n.os 1 e 2 substituem, para os efeitos legais, a publicação no Diário da República.\n\n4 - O Banco de Portugal pode dispensar o cumprimento das obrigações constantes do n.º 1 às caixas económicas cuja reduzida dimensão o justifique."
+  },
+  "855408781": {
+   "fragment_id": "855404686",
+   "type": 11,
+   "heading": "Artigo 29.º — (Outras informações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — (Outras informações)\n\nAs caixas económicas devem enviar ainda ao Banco de Portugal, logo que a assembleia geral tenha aprovado as contas do exercício, a lista dos sócios presentes e um extracto da acta da referida assembleia, na parte relativa à discussão das contas, respectiva aprovação e aplicação de resultados."
+  },
+  "855408782": {
+   "fragment_id": "855404687",
+   "type": 11,
+   "heading": "Artigo 30.º — (Regime jurídico)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — (Regime jurídico)\n\n1 - As caixas económicas regem-se pelas normas do presente diploma, pela legislação aplicável ao conjunto das instituições especiais de crédito e ainda, subsidiariamente pelas disposições que regulam a actividade das instituições de crédito, com as necessárias adaptações.\n\n2 - Mantém-se a vigência dos estatutos das caixas económicas na parte não contrariada pelas normas referidas no número anterior.\n\n3 - Pode o Ministro das Finanças e do Plano, por meio de portaria e ouvido o Banco de Portugal, determinar a modificação de estatutos de caixas económicas que se mostrem desajustados à sua natureza.\n\n4 - A Caixa Económica de Lisboa e a Caixa Económica das Forças Armadas continuam a ser regidas pela legislação que lhes é própria."
+  },
+  "855408783": {
+   "fragment_id": "855404688",
+   "type": 11,
+   "heading": "Artigo 31.º — (Dúvidas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — (Dúvidas)\n\nAs dúvidas que surjam na execução deste diploma são esclarecidas por despacho do Ministro das Finanças e do Plano."
+  },
+  "855408784": {
+   "fragment_id": "855404689",
+   "type": 11,
+   "heading": "Artigo 32.º — (Revogação da legislação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — (Revogação da legislação)\n\nFica revogada a legislação em contrário."
+  },
+  "855752383": {
+   "fragment_id": "855405046",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 146/1979, Série I de 1979-06-27](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-381128), produz efeitos a partir de 1979-05-23"
+   ],
+   "markdown": "Decreto-Lei n.º 136/79\n\nde 18 de Maio\n\nPelo presente diploma dá o Governo cumprimento ao preceituado no n.º 4 do artigo 3.º da Lei n.º 46/77, de 8 de Julho, no que respeita às caixas económicas, definindo as suas características próprias e estabelecendo o quadro genérico dentro do qual será balizada a respectiva actuação.\n\nNão se perdeu de vista, porém, ao regulamentar aquele tipo de instituições, as suas origens históricas e o espírito que informou o seu tratamento legislativo ao longo do tempo.\n\nA fórmula «caixa económica» foi, pela primeira vez, segundo parece, consagrada legislativamente no Decreto de 17 de Agosto de 1836, que lhe atribuía a possibilidade de receber depósitos, sendo os fundos recolhidos por uma «caixa de empréstimos» ou «monte de piedade» incumbido de, com eles, efectuar operações de empréstimo sobre penhores. Consagrou-se, assim, um escopo de beneficência, visando combater a prática da agiotagem que, então, proliferava.\n\nPosteriormente, a Lei de 12 de Março de 1845 veio confirmar a natureza das caixas económicas como instituições dirigidas à captação do pequeno aforro e à realização de operações de crédito de carácter essencialmente pessoal, em condições relativamente acessíveis, embora haja diluído, de algum modo, o carácter de instituição de beneficência que decorria do diploma anterior.\n\nA legislação subsequente, na qual avultam o Decreto com força de lei de 28 de Fevereiro de 1891, o Decreto n.º 19281, de 29 de Janeiro de 1931, e o Decreto n.º 20944, de 27 de Fevereiro de 1932, foi claramente dominada por uma visão mutualista, que ligava as caixas económicas às associações de socorros mútuos, alargando, todavia, aos empréstimos hipotecários o quadro de operações activas facultadas àquelas instituições.\n\nAs caixas achavam-se delimitadas em função de um duplo critério. Por um lado, eram confinadas a uma actividade bancária restrita; por outro, constituíam instituições sem fins lucrativos, cuja génese se ligava indissoluvelmente aos condicionalismos de uma época em que, não existindo um sistema bancário minimamente articulado e disciplinado, a actividade de intermediação monetária e financeira era exercida por particulares que se entregavam, as mais das vezes, a práticas abusivas.\n\nCom o evoluir do tempo, todavia, surgiu o discutível entendimento de que as caixas económicas se caracterizariam tão-somente em função do primeiro dos critérios apontados - a competência bancária restrita -, relegando-se para segundo plano a sua natureza não lucrativa.\n\nSó assim se explica que, em paralelo à estruturação do sistema bancário nacional, comecem a surgir, de forma algo anómala relativamente aos princípios inspiradores da legislação acima indicada, caixas económicas constituídas sob forma de sociedades anónimas.\n\nCom a diversificação e desenvolvimento da estrutura bancária, a função económico-social, tradicionalmente ligada àquelas caixas, foi preenchida por outras instituições.\n\nAs caixas económicas mantêm-se, pois, como uma persistência de formas institucionais que tiveram a sua principal razão de ser em condicionalismos históricos, hoje em larga medida ultrapassados, o que justifica a orientação adoptada no presente diploma quanto à possibilidade de criação de novas caixas, sua transformação ou fusão.\n\nComo quer que seja, o presente diploma procura actualizar o quadro operacional das mencionadas instituições, sem desvirtuar a sua especificidade e sem extravasar dos limites colocados pelas suas características próprias, sedimentadas ao longo de um processo histórico, nem sempre linear.\n\nContinuam, no entanto, a existir regimes especiais aplicáveis às caixas económicas das Regiões Autónomas - que, há que reconhecê-lo, vêm suprindo algumas carências em matéria de crédito, resultantes do menor grau de implantação do sistema bancário naqueles territórios -, bem como à Caixa Económica das Forças Armadas e à Caixa Económica de Lisboa, cuja capacidade operacional foi ampliada pelo Decreto-Lei n.º 156-A/75, de 25 de Março.\n\nAssim, tendo em conta o disposto nos n.os 2 e 4 do artigo 3.º da Lei n.º 46/77, de 8 de Julho:\n\nO Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\n> Retificado pelo/a [Declaração - Diário da República n.º 146/1979, Série I de 1979-06-27](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-381128), produz efeitos a partir de 1979-05-23"
+  },
+  "855752387": {
+   "fragment_id": "855405054",
+   "type": 11,
+   "heading": "Artigo 5.º — (Operações de crédito)",
+   "in_force_from": "1979-07-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 231/79 - Diário da República n.º 169/1979, Série I de 1979-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1979-382225), em vigor a partir de 1979-07-29"
+   ],
+   "markdown": "###### Artigo 5.º — (Operações de crédito)\n\n1 - As caixas económicas limitam as suas operações de crédito activas a empréstimos sobre penhores e hipotecários.\n\n2 - O disposto no número anterior não prejudica a possibilidade de:\n\na) As caixas económicas actualmente existentes e com sede nas regiões autónomas poderem efectuar as seguintes operações activas:\n\ni) Desconto comercial, visando, em especial, o benefício de explorações agro-pecuárias ou de pequenas e médias empresas;\n\nii) Concessão de crédito a médio e longo prazos ao investimento produtivo;\n\niii) Realização de operações de abertura de crédito em conta corrente, desde que caucionadas por títulos de dívida pública;\n\niv) Execução de operações de crédito à habitação com taxas bonificadas;\n\nb) A Caixa Económica de Lisboa, anexa ao Montepio Geral, realizar operações bancárias além das enunciadas nos seus estatutos, desde que genericamente autorizada pelo Banco de Portugal, não se lhe aplicando, assim, o disposto no corpo do artigo 79.º do Decreto n.º 20944, de 27 de Fevereiro de 1932.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 231/79 - Diário da República n.º 169/1979, Série I de 1979-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1979-382225), em vigor a partir de 1979-07-29"
+  },
+  "855752388": {
+   "fragment_id": "855405063",
+   "type": 11,
+   "heading": "Artigo 13.º — (Operações passivas)",
+   "in_force_from": "1979-07-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/79 - Diário da República n.º 169/1979, Série I de 1979-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1979-382225), em vigor a partir de 1979-07-29"
+   ],
+   "markdown": "###### Artigo 13.º — (Operações passivas)\n\n1 - As caixas económicas podem receber depósitos em numerário, nos termos definidos para os bancos comerciais.\n\n2 - As caixas económicas existentes e com sede nas regiões autónomas poderão continuar a receber depósitos nos termos estabelecidos para as instituições especiais de crédito.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/79 - Diário da República n.º 169/1979, Série I de 1979-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1979-382225), em vigor a partir de 1979-07-29"
+  },
+  "855752384": {
+   "fragment_id": "855404677",
+   "type": 11,
+   "heading": "Artigo 22.º — (Regime de desempenho dos cargos)",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 146/1979, Série I de 1979-06-27](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-381128), produz efeitos a partir de 1979-05-23"
+   ],
+   "markdown": "###### Artigo 22.º — (Regime de desempenho dos cargos)\n\nAs atribuições e, bem assim, as condições de desempenho dos cargos referidos nos artigos 20.º e 21.º constarão dos respectivos estatutos e devem conformar-se com o disposto na lei geral, considerando-se, designadamente, aplicável o disposto no Decreto-Lei n.º 49381, de 15 de Novembro de 1969.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 146/1979, Série I de 1979-06-27](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-381128), produz efeitos a partir de 1979-05-23"
+  },
+  "855752385": {
+   "fragment_id": "855404686",
+   "type": 11,
+   "heading": "Artigo 29.º — (Outras informações)",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 146/1979, Série I de 1979-06-27](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-381128), produz efeitos a partir de 1979-05-23"
+   ],
+   "markdown": "###### Artigo 29.º — (Outras informações)\n\nAs caixas económicas devem enviar ainda ao Banco de Portugal, logo que a assembleia geral tenha aprovado as contas do exercício, a lista dos sócios presentes e um extracto da acta da referida assembleia, na parte relativa à discussão de contas, respectiva aprovação e aplicação de resultados.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 146/1979, Série I de 1979-06-27](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-381128), produz efeitos a partir de 1979-05-23"
+  },
+  "855752386": {
+   "fragment_id": "855404687",
+   "type": 11,
+   "heading": "Artigo 30.º — (Regime jurídico)",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 146/1979, Série I de 1979-06-27](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-381128), produz efeitos a partir de 1979-05-23"
+   ],
+   "markdown": "###### Artigo 30.º — (Regime jurídico)\n\n1 - As caixas económicas regem-se pelas normas do presente diploma, pela legislação aplicável ao conjunto das instituições especiais de crédito e ainda, subsidiariamente pelas disposições que regulam a actividade das instituições de crédito, com as necessárias adaptações.\n\n2 - Mantém-se a vigência dos estatutos das caixas económicas na parte não contrariada pelas normas referidas no número anterior.\n\n3 - Pode o Ministro das Finanças e do Plano, por meio de portaria e ouvido o Banco de Portugal, determinar a modificação dos estatutos de caixas económicas que se mostrem desajustados à sua natureza.\n\n4 - A Caixa Económica de Lisboa e a Caixa Económica das Forças Armadas continuam a ser regidas pela legislação que lhes é própria.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 146/1979, Série I de 1979-06-27](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-381128), produz efeitos a partir de 1979-05-23"
+  },
+  "855408785": {
+   "fragment_id": "855404690",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 28 de Março de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes.\n\nPromulgado em 30 de Abril de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "855752389": {
+   "fragment_id": "855405050",
+   "type": 11,
+   "heading": "Artigo 3.º — (Agências ou sucursais)",
+   "in_force_from": "1980-08-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19"
+   ],
+   "markdown": "###### Artigo 3.º — (Agências ou sucursais)\n\n1 - Mediante autorização do Ministro das Finanças e do Plano, ouvido o Banco de Portugal, podem as caixas económicas abrir agências ou sucursais em território nacional, salvo o disposto nos n.os 2 e 3.\n\n2 - Carece de autorização do Ministro das Finanças e do Plano, ouvido o Banco de Portugal e com o parecer favorável do respectivo Governo Regional, a abertura de agências ou sucursais em território nacional, fora da respectiva Região, por parte de caixas económicas com sede nas Regiões Autónomas.\n\n3 - As caixas económicas que não tenham a sua sede nas Regiões Autónomas poderão abrir agências ou sucursais nas referidas Regiões mediante autorização do respectivo Governo Regional e com o parecer favorável do Banco de Portugal.\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19"
+  },
+  "855752390": {
+   "fragment_id": "855405057",
+   "type": 11,
+   "heading": "Artigo 8.º — (Participações financeiras)",
+   "in_force_from": "1980-08-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19"
+   ],
+   "markdown": "###### Artigo 8.º — (Participações financeiras)\n\n1 - As caixas económicas não podem deter participações financeiras em quaisquer empresas.\n\n2 - A proibição prevista no n.º 1 não abrange a faculdade de as caixas económicas com sede nas Regiões Autónomas participarem no capital social de sociedades de investimento sediadas na mesma Região e de sociedades de desenvolvimento regional que aí se venham a constituir.\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19"
+  },
+  "855752391": {
+   "fragment_id": "855405070",
+   "type": 11,
+   "heading": "Artigo 18.º — (Proibição de aquisição e posse de imóveis)",
+   "in_force_from": "1980-08-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19"
+   ],
+   "markdown": "###### Artigo 18.º — (Proibição de aquisição e posse de imóveis)\n\nAs caixas económicas não podem adquirir ou possuir bens imóveis para além dos necessários às suas instalações próprias, salvo quando lhes advenham por efeito de cessão de bens, dação em cumprimento, arrematação ou qualquer outro meio legal de cumprimento de obrigações ou destinado a assegurar esse cumprimento, devendo, em tais casos, proceder à respectiva liquidação no prazo de três anos.\n\n2 - O prazo de três anos referido no número anterior pode ser alargado em casos excepcionais, a submeter a autorização do Ministro das Finanças e do Plano.\n\n3 - A autorização prevista no n.º 2 no tocante às caixas económicas actualmente existentes e com sede nas Regiões Autónomas é da competência dos respectivos Governos Regionais.\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19"
+  },
+  "855752392": {
+   "fragment_id": "855404678",
+   "type": 11,
+   "heading": "Artigo 23.º — (Nomeação de administradores por parte do Estado)",
+   "in_force_from": "1980-08-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19"
+   ],
+   "markdown": "###### Artigo 23.º — (Nomeação de administradores por parte do Estado)\n\n1 - O Banco de Portugal, em casos excepcionais devidamente justificados, pode propor ao Ministro das Finanças e do Plano a nomeação de um administrador por parte do Estado para assegurar o normal funcionamento de uma caixa.\n\n2 - No caso de as caixas económicas que exerçam a sua actividade exclusivamente no território de uma Região Autónoma, a nomeação prevista no n.º 1 compete aos respectivos Governos Regionais, ouvido o Banco de Portugal.\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19"
+  },
+  "855752393": {
+   "fragment_id": "855404685",
+   "type": 11,
+   "heading": "Artigo 28.º — (Obrigação de prestação de informações)",
+   "in_force_from": "1980-08-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19"
+   ],
+   "markdown": "###### Artigo 28.º — (Obrigação de prestação de informações)\n\n1 - Sem prejuízo da obrigação de prestar as informações a que estão sujeitas as instituições especiais de crédito, as caixas económicas são obrigadas a enviar ao Banco de Portugal os seus balancetes trimestrais e a afixá-los em duplicado, em lugar visível, patente ao público, nas suas sedes, agências ou sucursais.\n\n2 - Os balanços e contas de resultados, acompanhados dos respectivos relatórios da administração ou direcção, e do parecer do conselho fiscal, devem ser publicados num dos jornais mais lidos da localidade da sede das caixas e também remetidos ao Banco de Portugal; estes elementos devem ser igualmente afixados em lugar visível, patente ao público, nas suas sedes, agências ou sucursais.\n\n3 - As providências a que se referem os n.os 1 e 2 substituem, para os efeitos legais, a publicação no Diário da República.\n\n4 - O Banco de Portugal pode dispensar o cumprimento das obrigações constantes do n.º 1 às caixas económicas cuja reduzida dimensão o justifique.\n\n5 - As caixas económicas existentes e com sede nas Regiões Autónomas deverão igualmente remeter os elementos constantes dos n.os 1 e 2 ao respectivo Governo Regional e proceder à sua publicação no Jornal Oficial da referida Região.\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19"
+  },
+  "855752394": {
+   "fragment_id": "855404686",
+   "type": 11,
+   "heading": "Artigo 29.º — (Outras informações)",
+   "in_force_from": "1980-08-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19",
+    "Retificado pelo/a [Declaração - Diário da República n.º 146/1979, Série I de 1979-06-27](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-381128), produz efeitos a partir de 1979-05-23"
+   ],
+   "markdown": "###### Artigo 29.º — (Outras informações)\n\n1 - As caixas económicas devem enviar ainda ao Banco de Portugal, logo que a assembleia geral tenha aprovado as contas do exercício, a lista dos sócios presentes e um extracto da acta da referida assembleia, na parte relativa à discussão das contas, respectiva aprovação e aplicação de resultados.\n\n2 - As caixas económicas com sede nas Regiões Autónomas remeterão igualmente ao respectivo Governo Regional os elementos referidos no n.º 1.\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19\n\n> Retificado pelo/a [Declaração - Diário da República n.º 146/1979, Série I de 1979-06-27](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-381128), produz efeitos a partir de 1979-05-23"
+  },
+  "855752395": {
+   "fragment_id": "855404687",
+   "type": 11,
+   "heading": "Artigo 30.º — (Regime jurídico)",
+   "in_force_from": "1980-08-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19",
+    "Retificado pelo/a [Declaração - Diário da República n.º 146/1979, Série I de 1979-06-27](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-381128), produz efeitos a partir de 1979-05-23"
+   ],
+   "markdown": "###### Artigo 30.º — (Regime jurídico)\n\n1 - As caixas económicas regem-se pelas normas do presente diploma, pela legislação aplicável ao conjunto das instituições especiais de crédito e ainda, subsidiariamente pelas disposições que regulam a actividade das instituições de crédito, com as necessárias adaptações.\n\n2 - Mantém-se a vigência dos estatutos das caixas económicas na parte não contrariada pelas normas referidas no número anterior.\n\n3 - Pode o Ministro das Finanças e do Plano, por meio de portaria e ouvido o Banco de Portugal, determinar a modificação dos estatutos de caixas económicas que se mostrem desajustados à sua natureza.\n\n4 - Compete aos respectivos Governos Regionais, ouvido o Banco de Portugal, determinar às caixas económicas existentes e com sede nas Regiões Autónomas, a modificação dos estatutos que se mostrem desajustados à sua natureza.\n\n5 - A Caixa Económica de Lisboa e a Caixa Económica das Forças Armadas continuam a ser regidas pela legislação que lhes é própria.\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19\n\n> Retificado pelo/a [Declaração - Diário da República n.º 146/1979, Série I de 1979-06-27](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-381128), produz efeitos a partir de 1979-05-23"
+  },
+  "855752396": {
+   "fragment_id": "855405054",
+   "type": 11,
+   "heading": "Artigo 5.º — (Operações de crédito)",
+   "in_force_from": "1981-04-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 79/81 - Diário da República n.º 91/1981, Série I de 1981-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1981-394525), em vigor a partir de 1981-04-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 231/79 - Diário da República n.º 169/1979, Série I de 1979-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1979-382225), em vigor a partir de 1979-07-29"
+   ],
+   "markdown": "###### Artigo 5.º — (Operações de crédito)\n\n1 - As caixas económicas limitam as suas operações de crédito activas a empréstimos sobre penhores e hipotecários.\n\n2 - O disposto no número anterior não prejudica a possibilidade de:\n\na) As caixas económicas actualmente existentes e com sede nas regiões autónomas poderem efectuar as seguintes operações activas:\n\ni) Desconto comercial, visando, em especial, o benefício de explorações agro-pecuárias ou de pequenas e médias empresas;\n\nii) Concessão de crédito a médio e longo prazos ao investimento produtivo;\n\niii) Realização de operações de abertura de crédito em conta corrente, desde que caucionadas por títulos de dívida pública;\n\niv) Execução de operações de crédito à habitação com taxas bonificadas;\n\nb) A Caixa Económica de Lisboa, anexa ao Montepio Geral, realizar operações bancárias além das enunciadas nos seus estatutos, desde que genericamente autorizada pelo Banco de Portugal, não se lhe aplicando, assim, o disposto no corpo do artigo 79.º do Decreto n.º 20944, de 27 de Fevereiro de 1932.\n\n3 - O disposto na subalínea ii) da alínea a) do número anterior não impede as caixas económicas actualmente existentes, com sede nas regiões autónomas de participarem em acordos de saneamento financeiro de empresas economicamente viáveis suas devedoras nos mesmos termos em que os bancos comerciais o podem fazer.\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 79/81 - Diário da República n.º 91/1981, Série I de 1981-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1981-394525), em vigor a partir de 1981-04-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 231/79 - Diário da República n.º 169/1979, Série I de 1979-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1979-382225), em vigor a partir de 1979-07-29"
+  },
+  "855752397": {
+   "fragment_id": "855405051",
+   "type": 11,
+   "heading": "Artigo 4.º — (Acções de caixas que são sociedades anónimas)",
+   "in_force_from": "1986-03-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/86 - Diário da República n.º 61/1986, Série I de 1986-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1986-196762), em vigor a partir de 1986-03-19, produz efeitos a partir de 1986-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — (Acções de caixas que são sociedades anónimas)\n\n1 - Nas caixas económicas que existem sob a forma de sociedades anónimas, as respectivas acções serão nominativas e averbáveis apenas a pessoas singulares, a cooperativas e a quaisquer pessoas colectivas sem fim lucrativo.\n\n2 - Nenhum accionista pode, directamente ou por interposta pessoa, possuir participação superior a 5% do capital social.\n\n3 - O capital social das caixas económicas referidas neste artigo, integralmente realizado, não pode ser inferior a 40000 contos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/86 - Diário da República n.º 61/1986, Série I de 1986-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1986-196762), em vigor a partir de 1986-03-19, produz efeitos a partir de 1986-01-01"
+  },
+  "855752398": {
+   "fragment_id": "855405057",
+   "type": 11,
+   "heading": "Artigo 8.º — (Participações financeiras)",
+   "in_force_from": "1986-08-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 212/86 - Diário da República n.º 175/1986, Série I de 1986-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1986-218684), em vigor a partir de 1986-08-06",
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19"
+   ],
+   "markdown": "###### Artigo 8.º — (Participações financeiras)\n\nA participação no capital de empresas por parte das caixas económicas fica sujeita aos limites estabelecidos no artigo 67.º do Decreto-Lei n.º 42641, de 12 de Novembro de 1959.\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 212/86 - Diário da República n.º 175/1986, Série I de 1986-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1986-218684), em vigor a partir de 1986-08-06\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19"
+  },
+  "855752399": {
+   "fragment_id": "855405051",
+   "type": 11,
+   "heading": "Artigo 4.º — (Acções de caixas que são sociedades anónimas)",
+   "in_force_from": "1990-06-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 182/90 - Diário da República n.º 130/1990, Série I de 1990-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1990-574928), em vigor a partir de 1990-06-11",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/86 - Diário da República n.º 61/1986, Série I de 1986-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1986-196762), em vigor a partir de 1986-03-19, produz efeitos a partir de 1986-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — (Acções de caixas que são sociedades anónimas)\n\n1 - Sem prejuízo do disposto no n.º 3, nas caixas económicas que existem sob a forma de sociedades anónimas, as respectivas acções serão nominativas e averbáveis apenas a pessoas singulares, a cooperativas e a quaisquer pessoas colectivas sem fim lucrativo.\n\n2 - Nenhum accionista pode, directamente ou por interposta pessoa, possuir participação superior a 5% do capital social, salvo o disposto no número seguinte.\n\n3 - O Ministro das Finanças, ouvido o Banco de Portugal, pode autorizar, em circunstâncias excepcionais devidamente justificadas, que acções representativas do capital social de caixas económicas possam ser averbadas a favor de pessoas colectivas com fim lucrativo e que seja excedido o limite referido no número anterior.\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 182/90 - Diário da República n.º 130/1990, Série I de 1990-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1990-574928), em vigor a partir de 1990-06-11\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/86 - Diário da República n.º 61/1986, Série I de 1986-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1986-196762), em vigor a partir de 1986-03-19, produz efeitos a partir de 1986-01-01"
+  },
+  "855752401": {
+   "fragment_id": "855405047",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "855752402": {
+   "fragment_id": "855405052",
+   "type": 1,
+   "heading": "Capítulo II — Actividades das caixas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Actividades das caixas"
+  },
+  "856226875": {
+   "fragment_id": "855748217",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Outras operações",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo do/a [Decreto-Lei n.º 319/97 - Diário da República n.º 273/1997, Série I-A de 1997-11-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1997-406563), em vigor a partir de 1997-11-30"
+   ],
+   "markdown": "###### Artigo 12.º-A — Outras operações\n\n1 - As caixas económicas que reúnam condições estruturais adequadas e recursos suficientes, designadamente quanto a fundos próprios, solvabilidade, liquidez, organização interna e capacidade técnica e humana, podem ser autorizadas pelo Banco de Portugal a realizar tipos de operações diferentes dos previstos na presente secção, de entre as que, em geral, são permitidas aos bancos.\n\n2 - O Banco de Portugal pode revogar, no todo ou em parte, a autorização concedida para a realização dos tipos de operações referidas no número anterior quando, em relação à caixa económica, deixem de se verificar as condições e requisitos considerados adequados.\n\n> Aditado pelo/a Artigo do/a [Decreto-Lei n.º 319/97 - Diário da República n.º 273/1997, Série I-A de 1997-11-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1997-406563), em vigor a partir de 1997-11-30"
+  },
+  "856226876": {
+   "fragment_id": "855405062",
+   "type": 8,
+   "heading": "Secção II — Operações passivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Operações passivas"
+  },
+  "856226877": {
+   "fragment_id": "855405065",
+   "type": 8,
+   "heading": "Secção III — Prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Prestação de serviços"
+  },
+  "855752403": {
+   "fragment_id": "855405068",
+   "type": 1,
+   "heading": "Capítulo III — Garantias de liquidez e solvabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Garantias de liquidez e solvabilidade"
+  },
+  "855752404": {
+   "fragment_id": "855405071",
+   "type": 1,
+   "heading": "Capítulo IV — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Órgãos sociais"
+  },
+  "855752405": {
+   "fragment_id": "855404679",
+   "type": 1,
+   "heading": "Capítulo V — Contas e resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Contas e resultados"
+  },
+  "855752406": {
+   "fragment_id": "855404684",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais"
+  },
+  "855752407": {
+   "fragment_id": "855404690",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 28 de Março de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes.\n\nPromulgado em 30 de Abril de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "855752408": {
+   "fragment_id": "855404685",
+   "type": 11,
+   "heading": "Artigo 28.º — (Obrigação de prestação de informações)",
+   "in_force_from": "2007-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 188/2007 - Diário da República n.º 91/2007, Série I de 2007-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2007-520659), em vigor a partir de 2007-05-16",
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19"
+   ],
+   "markdown": "###### Artigo 28.º — (Obrigação de prestação de informações)\n\nOs elementos sujeitos a dever de informação e sua forma de publicação serão definidos por aviso do Banco de Portugal, sem prejuízo do disposto na lei geral sobre publicação dos documentos de prestação de contas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 188/2007 - Diário da República n.º 91/2007, Série I de 2007-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2007-520659), em vigor a partir de 2007-05-16\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19"
+  },
+  "855752411": {
+   "fragment_id": "855405047",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752412": {
+   "fragment_id": "855405048",
+   "type": 11,
+   "heading": "Artigo 1.º — (Noção)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 1.º — (Noção)\n\nAs caixas económicas são instituições especiais de credito que têm por objecto uma actividade bancária restrita, nomeadamente recebendo, sob a forma de depósitos à ordem, com pré-aviso ou a prazo, disponibilidades monetárias que aplicam em empréstimos e outras operações sobre títulos que lhes sejam permitidas e prestando, ainda, os serviços bancários compatíveis com a sua natureza e que a lei expressamente lhes não proíba.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752413": {
+   "fragment_id": "855405049",
+   "type": 11,
+   "heading": "Artigo 2.º — (Constituição e fusão)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 2.º — (Constituição e fusão)\n\n1 - A constituição de caixas económicas só pode ser autorizada com carácter excepcional pelo Ministro das Finanças e do Plano, ouvido o Banco de Portugal desde que se trate de caixas anexas ou pertencentes a associações de socorros mútuos, Misericórdias ou outras instituições de beneficência e se justifique devidamente a necessidade da sua existência.\n\n2 - Em caso algum podem ser constituídas novas caixas económicas sob a forma de sociedade comercial.\n\n3 - A fusão ou transformação de caixas económicas só com carácter excepcional pode ser autorizada pelo Ministro das Finanças e do Plano, ouvido o Banco de Portugal.\n\n4 - A denominação de caixa económica ou outra que sugira a ideia de instituição desta natureza só pode ser usada por caixas legalmente constituídas.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752414": {
+   "fragment_id": "855405050",
+   "type": 11,
+   "heading": "Artigo 3.º — (Agências ou sucursais)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10",
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19"
+   ],
+   "markdown": "###### Artigo 3.º — (Agências ou sucursais)\n\n1 - Mediante autorização do Ministro das Finanças e do Plano, ouvido o Banco de Portugal, podem as caixas económicas abrir agências ou sucursais em território nacional, salvo o disposto nos n.os 2 e 3.\n\n2 - Carece de autorização do Ministro das Finanças e do Plano, ouvido o Banco de Portugal e com o parecer favorável do respectivo Governo Regional, a abertura de agências ou sucursais em território nacional, fora da respectiva Região, por parte de caixas económicas com sede nas Regiões Autónomas.\n\n3 - As caixas económicas que não tenham a sua sede nas Regiões Autónomas poderão abrir agências ou sucursais nas referidas Regiões mediante autorização do respectivo Governo Regional e com o parecer favorável do Banco de Portugal.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19"
+  },
+  "855752415": {
+   "fragment_id": "855405051",
+   "type": 11,
+   "heading": "Artigo 4.º — (Acções de caixas que são sociedades anónimas)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10",
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 182/90 - Diário da República n.º 130/1990, Série I de 1990-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1990-574928), em vigor a partir de 1990-06-11",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/86 - Diário da República n.º 61/1986, Série I de 1986-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1986-196762), em vigor a partir de 1986-03-19, produz efeitos a partir de 1986-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — (Acções de caixas que são sociedades anónimas)\n\n1 - Sem prejuízo do disposto no n.º 3, nas caixas económicas que existem sob a forma de sociedades anónimas, as respectivas acções serão nominativas e averbáveis apenas a pessoas singulares, a cooperativas e a quaisquer pessoas colectivas sem fim lucrativo.\n\n2 - Nenhum accionista pode, directamente ou por interposta pessoa, possuir participação superior a 5% do capital social, salvo o disposto no número seguinte.\n\n3 - O Ministro das Finanças, ouvido o Banco de Portugal, pode autorizar, em circunstâncias excepcionais devidamente justificadas, que acções representativas do capital social de caixas económicas possam ser averbadas a favor de pessoas colectivas com fim lucrativo e que seja excedido o limite referido no número anterior.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 182/90 - Diário da República n.º 130/1990, Série I de 1990-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1990-574928), em vigor a partir de 1990-06-11\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/86 - Diário da República n.º 61/1986, Série I de 1986-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1986-196762), em vigor a partir de 1986-03-19, produz efeitos a partir de 1986-01-01"
+  },
+  "855752416": {
+   "fragment_id": "855405052",
+   "type": 1,
+   "heading": "Capítulo II — Actividades das caixas",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "### Capítulo II — Actividades das caixas\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752417": {
+   "fragment_id": "855405053",
+   "type": 8,
+   "heading": "Secção I — Operações activas e cambiais",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "#### Secção I — Operações activas e cambiais\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752418": {
+   "fragment_id": "855405054",
+   "type": 11,
+   "heading": "Artigo 5.º — (Operações de crédito)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10",
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 79/81 - Diário da República n.º 91/1981, Série I de 1981-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1981-394525), em vigor a partir de 1981-04-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 231/79 - Diário da República n.º 169/1979, Série I de 1979-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1979-382225), em vigor a partir de 1979-07-29"
+   ],
+   "markdown": "###### Artigo 5.º — (Operações de crédito)\n\n1 - As caixas económicas limitam as suas operações de crédito activas a empréstimos sobre penhores e hipotecários.\n\n2 - O disposto no número anterior não prejudica a possibilidade de:\n\na) As caixas económicas actualmente existentes e com sede nas regiões autónomas poderem efectuar as seguintes operações activas:\n\ni) Desconto comercial, visando, em especial, o benefício de explorações agro-pecuárias ou de pequenas e médias empresas;\n\nii) Concessão de crédito a médio e longo prazos ao investimento produtivo;\n\niii) Realização de operações de abertura de crédito em conta corrente, desde que caucionadas por títulos de dívida pública;\n\niv) Execução de operações de crédito à habitação com taxas bonificadas;\n\nb) A Caixa Económica de Lisboa, anexa ao Montepio Geral, realizar operações bancárias além das enunciadas nos seus estatutos, desde que genericamente autorizada pelo Banco de Portugal, não se lhe aplicando, assim, o disposto no corpo do artigo 79.º do Decreto n.º 20944, de 27 de Fevereiro de 1932.\n\n3 - O disposto na subalínea ii) da alínea a) do número anterior não impede as caixas económicas actualmente existentes, com sede nas regiões autónomas de participarem em acordos de saneamento financeiro de empresas economicamente viáveis suas devedoras nos mesmos termos em que os bancos comerciais o podem fazer.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 79/81 - Diário da República n.º 91/1981, Série I de 1981-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1981-394525), em vigor a partir de 1981-04-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 231/79 - Diário da República n.º 169/1979, Série I de 1979-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1979-382225), em vigor a partir de 1979-07-29"
+  },
+  "855752419": {
+   "fragment_id": "855405055",
+   "type": 11,
+   "heading": "Artigo 6.º — (Limites e condições das operações de crédito)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 6.º — (Limites e condições das operações de crédito)\n\nA concessão de crédito pelas caixas económicas fica sujeita aos limites e condições estabelecidos para os bancos comerciais, com as necessárias adaptações.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752420": {
+   "fragment_id": "855405056",
+   "type": 11,
+   "heading": "Artigo 7.º — (Operações cambiais)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 7.º — (Operações cambiais)\n\n1 - Podem as caixas económicas praticar operações cambiais sempre que o contravalor em escudos da moeda estrangeira se destine à constituição de contas de depósito ou a crédito de contas já existentes ou, ainda, a liquidar responsabilidades próprias do cedente dos valores perante a caixa económica; podem também, em qualquer caso, as caixas económicas comprar e vender notas e moedas metálicas estrangeiras, bem como adquirir cheques turísticos.\n\n2 - As divisas adquiridas, nelas não se compreendendo notas e moedas metálicas estrangeiras, devem ser cedidas ao Banco de Portugal no prazo de cinco dias.\n\n3 - O Banco de Portugal pode estabelecer a obrigatoriedade de cedência de notas e moedas metálicas estrangeiras acima de determinados valores.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752421": {
+   "fragment_id": "855405057",
+   "type": 11,
+   "heading": "Artigo 8.º — (Participações financeiras)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10",
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 212/86 - Diário da República n.º 175/1986, Série I de 1986-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1986-218684), em vigor a partir de 1986-08-06",
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19"
+   ],
+   "markdown": "###### Artigo 8.º — (Participações financeiras)\n\nA participação no capital de empresas por parte das caixas económicas fica sujeita aos limites estabelecidos no artigo 67.º do Decreto-Lei n.º 42641, de 12 de Novembro de 1959.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 212/86 - Diário da República n.º 175/1986, Série I de 1986-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1986-218684), em vigor a partir de 1986-08-06\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19"
+  },
+  "855752422": {
+   "fragment_id": "855405058",
+   "type": 11,
+   "heading": "Artigo 9.º — (Carteira de títulos)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 9.º — (Carteira de títulos)\n\n1 - As caixas económicas só podem adquirir acções, obrigações e título de natureza similar que estejam cotados em bolsa nacional.\n\n2 - A carteira de títulos das caixas económicas, excluindo os emitidos pelo Estado, não pode exceder 15% do saldo dos respectivos depósitos.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752423": {
+   "fragment_id": "855405059",
+   "type": 11,
+   "heading": "Artigo 10.º — (Afectação dos empréstimos)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 10.º — (Afectação dos empréstimos)\n\n1 - Os capitais emprestados não podem ter destino diferente daquele para que foram concedidos, sob pena de resolução imediata do contrato.\n\n2 - As caixas económicas têm a faculdade de fiscalizar ou de exigir prova da aplicação dos fundos mutuados.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752424": {
+   "fragment_id": "855405060",
+   "type": 11,
+   "heading": "Artigo 11.º — (Tipos e condições das garantias)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 11.º — (Tipos e condições das garantias)\n\n1 - A garantia das operações de empréstimo é constituída por primeira hipoteca ou penhor, conforme a natureza da operação e o critério da caixa mutuante.\n\n2 - As caixas económicas só podem aceitar, como garantia das suas operações, terrenos para construção desde que os mesmos se integrem em zonas com projectos de urbanização aprovados oficialmente.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752425": {
+   "fragment_id": "855405061",
+   "type": 11,
+   "heading": "Artigo 12.º — (Seguro das garantias)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 12.º — (Seguro das garantias)\n\nAs caixas económicas devem exigir prova do seguro dos bens hipotecados que aceitarem em garantia dos empréstimos efectuados, com averbamento do seu interesse no mesmo seguro.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752410": {
+   "fragment_id": "855748217",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Outras operações",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10",
+    "Aditado pelo/a Artigo do/a [Decreto-Lei n.º 319/97 - Diário da República n.º 273/1997, Série I-A de 1997-11-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1997-406563), em vigor a partir de 1997-11-30"
+   ],
+   "markdown": "###### Artigo 12.º-A — Outras operações\n\n1 - As caixas económicas que reúnam condições estruturais adequadas e recursos suficientes, designadamente quanto a fundos próprios, solvabilidade, liquidez, organização interna e capacidade técnica e humana, podem ser autorizadas pelo Banco de Portugal a realizar tipos de operações diferentes dos previstos na presente secção, de entre as que, em geral, são permitidas aos bancos.\n\n2 - O Banco de Portugal pode revogar, no todo ou em parte, a autorização concedida para a realização dos tipos de operações referidas no número anterior quando, em relação à caixa económica, deixem de se verificar as condições e requisitos considerados adequados.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10\n\n> Aditado pelo/a Artigo do/a [Decreto-Lei n.º 319/97 - Diário da República n.º 273/1997, Série I-A de 1997-11-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1997-406563), em vigor a partir de 1997-11-30"
+  },
+  "855752426": {
+   "fragment_id": "855405062",
+   "type": 8,
+   "heading": "Secção II — Operações passivas",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "#### Secção II — Operações passivas\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752427": {
+   "fragment_id": "855405063",
+   "type": 11,
+   "heading": "Artigo 13.º — (Operações passivas)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/79 - Diário da República n.º 169/1979, Série I de 1979-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1979-382225), em vigor a partir de 1979-07-29"
+   ],
+   "markdown": "###### Artigo 13.º — (Operações passivas)\n\n1 - As caixas económicas podem receber depósitos em numerário, nos termos definidos para os bancos comerciais.\n\n2 - As caixas económicas existentes e com sede nas regiões autónomas poderão continuar a receber depósitos nos termos estabelecidos para as instituições especiais de crédito.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/79 - Diário da República n.º 169/1979, Série I de 1979-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1979-382225), em vigor a partir de 1979-07-29"
+  },
+  "855752428": {
+   "fragment_id": "855405064",
+   "type": 11,
+   "heading": "Artigo 14.º — (Empréstimos)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 14.º — (Empréstimos)\n\n1 - Podem as instituições de crédito conceder empréstimos às caixas económicas, inclusivamente sob a forma de conta-corrente, com a garantia do penhor de coisas ou de direitos.\n\n2 - No caso de a garantia referida no número anterior consistir em penhor de créditos, o penhor subsiste independentemente de registo.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752429": {
+   "fragment_id": "855405065",
+   "type": 8,
+   "heading": "Secção III — Prestação de serviços",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "#### Secção III — Prestação de serviços\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752430": {
+   "fragment_id": "855405066",
+   "type": 11,
+   "heading": "Artigo 15.º — (Prestação de serviços)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 15.º — (Prestação de serviços)\n\nAs caixas económicas podem executar serviços de cobrança, transferências de numerário aluguer de cofres, administração de bens imóveis, pagamentos periódicos e outros análogos de conta dos clientes.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752431": {
+   "fragment_id": "855405067",
+   "type": 11,
+   "heading": "Artigo 16.º — (Condições especiais para sócios)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 16.º — (Condições especiais para sócios)\n\nOs estatutos das caixas económicas podem consignar condições especiais de prestação de serviços a favor dos respectivos sócios.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752432": {
+   "fragment_id": "855405068",
+   "type": 1,
+   "heading": "Capítulo III — Garantias de liquidez e solvabilidade",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "### Capítulo III — Garantias de liquidez e solvabilidade\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752433": {
+   "fragment_id": "855405069",
+   "type": 11,
+   "heading": "Artigo 17.º — (Composição e percentagem de disponibilidades de caixa)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 17.º — (Composição e percentagem de disponibilidades de caixa)\n\nAs responsabilidades das caixas económicas representadas por depósitos à ordem, com pré-aviso ou a prazo devem estar cobertas por disponibilidades de caixa, com a composição e nas percentagens que estiverem estabelecidas para os bancos comerciais.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752434": {
+   "fragment_id": "855405070",
+   "type": 11,
+   "heading": "Artigo 18.º — (Proibição de aquisição e posse de imóveis)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10",
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19"
+   ],
+   "markdown": "###### Artigo 18.º — (Proibição de aquisição e posse de imóveis)\n\nAs caixas económicas não podem adquirir ou possuir bens imóveis para além dos necessários às suas instalações próprias, salvo quando lhes advenham por efeito de cessão de bens, dação em cumprimento, arrematação ou qualquer outro meio legal de cumprimento de obrigações ou destinado a assegurar esse cumprimento, devendo, em tais casos, proceder à respectiva liquidação no prazo de três anos.\n\n2 - O prazo de três anos referido no número anterior pode ser alargado em casos excepcionais, a submeter a autorização do Ministro das Finanças e do Plano.\n\n3 - A autorização prevista no n.º 2 no tocante às caixas económicas actualmente existentes e com sede nas Regiões Autónomas é da competência dos respectivos Governos Regionais.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19"
+  },
+  "855752435": {
+   "fragment_id": "855405071",
+   "type": 1,
+   "heading": "Capítulo IV — Órgãos sociais",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "### Capítulo IV — Órgãos sociais\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752436": {
+   "fragment_id": "855405072",
+   "type": 8,
+   "heading": "Secção I — Assembleia geral",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "#### Secção I — Assembleia geral\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752437": {
+   "fragment_id": "855405073",
+   "type": 11,
+   "heading": "Artigo 19.º — (Assembleia geral)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 19.º — (Assembleia geral)\n\nA constituição, atribuição e funcionamento das assembleias gerais das caixas económicas são regidos pelas normas constantes dos respectivos estatutos e das leis gerais aplicáveis.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752438": {
+   "fragment_id": "855405074",
+   "type": 8,
+   "heading": "Secção II — Administração e fiscalização",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "#### Secção II — Administração e fiscalização\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752439": {
+   "fragment_id": "855404675",
+   "type": 11,
+   "heading": "Artigo 20.º — (Administração)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 20.º — (Administração)\n\n1 - As caixas económicas são geridas por uma direcção ou conselho de administração, constituídos por um mínimo de três membros, cuja eleição compete à assembleia geral.\n\n2 - A eleição é trienal, sendo permitida a reeleição.\n\n3 - A assembleia geral elege um número de suplentes igual ao dos efectivos.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752440": {
+   "fragment_id": "855404676",
+   "type": 11,
+   "heading": "Artigo 21.º — (Fiscalização)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 21.º — (Fiscalização)\n\n1 - A fiscalização da gerência das caixas económicas é exercida por um conselho fiscal, constituído por três membros, eleitos pela assembleia geral.\n\n2 - O conselho fiscal tem, além dos membros efectivos, dois suplentes, eleitos também pela assembleia geral.\n\n3 - Os membros do conselho fiscal exercem as suas funções por períodos de três anos, renováveis.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752441": {
+   "fragment_id": "855404677",
+   "type": 11,
+   "heading": "Artigo 22.º — (Regime de desempenho dos cargos)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10",
+    "Retificado pelo/a [Declaração - Diário da República n.º 146/1979, Série I de 1979-06-27](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-381128), produz efeitos a partir de 1979-05-23"
+   ],
+   "markdown": "###### Artigo 22.º — (Regime de desempenho dos cargos)\n\nAs atribuições e, bem assim, as condições de desempenho dos cargos referidos nos artigos 20.º e 21.º constarão dos respectivos estatutos e devem conformar-se com o disposto na lei geral, considerando-se, designadamente, aplicável o disposto no Decreto-Lei n.º 49381, de 15 de Novembro de 1969.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10\n\n> Retificado pelo/a [Declaração - Diário da República n.º 146/1979, Série I de 1979-06-27](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-381128), produz efeitos a partir de 1979-05-23"
+  },
+  "855752442": {
+   "fragment_id": "855404678",
+   "type": 11,
+   "heading": "Artigo 23.º — (Nomeação de administradores por parte do Estado)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10",
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19"
+   ],
+   "markdown": "###### Artigo 23.º — (Nomeação de administradores por parte do Estado)\n\n1 - O Banco de Portugal, em casos excepcionais devidamente justificados, pode propor ao Ministro das Finanças e do Plano a nomeação de um administrador por parte do Estado para assegurar o normal funcionamento de uma caixa.\n\n2 - No caso de as caixas económicas que exerçam a sua actividade exclusivamente no território de uma Região Autónoma, a nomeação prevista no n.º 1 compete aos respectivos Governos Regionais, ouvido o Banco de Portugal.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19"
+  },
+  "855752443": {
+   "fragment_id": "855404679",
+   "type": 1,
+   "heading": "Capítulo V — Contas e resultados",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "### Capítulo V — Contas e resultados\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752444": {
+   "fragment_id": "855404680",
+   "type": 11,
+   "heading": "Artigo 24.º — (Contas)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 24.º — (Contas)\n\nO plano de contas e sua execução, a organização dos balanços e outros documentos, bem como os critérios a adoptar na valorimetria dos elementos patrimoniais, devem obedecer às instruções emanadas do Banco de Portugal.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752445": {
+   "fragment_id": "855404681",
+   "type": 11,
+   "heading": "Artigo 25.º — (Provisões)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 25.º — (Provisões)\n\nAs caixas económicas devem constituir provisões para créditos de cobrança duvidosa e para outras depreciações do activo, nos termos que forem regulamentados pelo Banco de Portugal, além das que prudentemente considerem necessárias para fazer face aos riscos de depreciação ou prejuízos a que determinadas espécies de valores ou operações estão especialmente sujeitas.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752446": {
+   "fragment_id": "855404682",
+   "type": 11,
+   "heading": "Artigo 26.º — (Reservas)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 26.º — (Reservas)\n\n1 - As caixas económicas devem constituir, obrigatoriamente, as seguintes reservas:\n\na) Reserva geral, destinada a ocorrer a qualquer eventualidade e a cobrir prejuízos ou depreciações extraordinárias;\n\nb) Reserva especial, destinada a suportar prejuízos resultantes das operações correntes.\n\n2 - O limite para formação da reserva geral é fixado em 25% da totalidade dos depósitos.\n\n3 - É facultativa a criação de uma reserva social com a finalidade de permitir a regularidade e estabilização do nível dos valores a distribuir pelos sócios a título de remuneração do capital, independentemente da variação anual dos resultados.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752447": {
+   "fragment_id": "855404683",
+   "type": 11,
+   "heading": "Artigo 27.º — (Afectação de resultados)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 27.º — (Afectação de resultados)\n\n1 - Depois de realizadas as amortizações e de constituídas as devidas provisões, o conselho de administração, ou a direcção, deve propor à assembleia geral, com as contas anuais, o destino a dar ao saldo que se apurar, em cada exercício, na respectiva conta de resultados.\n\n2 - É feita a atribuição mínima de 20% e 5%, respectivamente para a reserva geral, enquanto não atingir o limite fixado no n.º 2 do artigo 26.º, e para a reserva especial, do saldo a que se refere o número anterior.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752448": {
+   "fragment_id": "855404684",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "### Capítulo VI — Disposições finais\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752449": {
+   "fragment_id": "855404685",
+   "type": 11,
+   "heading": "Artigo 28.º — (Obrigação de prestação de informações)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 188/2007 - Diário da República n.º 91/2007, Série I de 2007-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2007-520659), em vigor a partir de 2007-05-16",
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19"
+   ],
+   "markdown": "###### Artigo 28.º — (Obrigação de prestação de informações)\n\nOs elementos sujeitos a dever de informação e sua forma de publicação serão definidos por aviso do Banco de Portugal, sem prejuízo do disposto na lei geral sobre publicação dos documentos de prestação de contas.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 188/2007 - Diário da República n.º 91/2007, Série I de 2007-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2007-520659), em vigor a partir de 2007-05-16\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19"
+  },
+  "855752450": {
+   "fragment_id": "855404686",
+   "type": 11,
+   "heading": "Artigo 29.º — (Outras informações)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10",
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19",
+    "Retificado pelo/a [Declaração - Diário da República n.º 146/1979, Série I de 1979-06-27](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-381128), produz efeitos a partir de 1979-05-23"
+   ],
+   "markdown": "###### Artigo 29.º — (Outras informações)\n\n1 - As caixas económicas devem enviar ainda ao Banco de Portugal, logo que a assembleia geral tenha aprovado as contas do exercício, a lista dos sócios presentes e um extracto da acta da referida assembleia, na parte relativa à discussão das contas, respectiva aprovação e aplicação de resultados.\n\n2 - As caixas económicas com sede nas Regiões Autónomas remeterão igualmente ao respectivo Governo Regional os elementos referidos no n.º 1.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19\n\n> Retificado pelo/a [Declaração - Diário da República n.º 146/1979, Série I de 1979-06-27](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-381128), produz efeitos a partir de 1979-05-23"
+  },
+  "855752451": {
+   "fragment_id": "855404687",
+   "type": 11,
+   "heading": "Artigo 30.º — (Regime jurídico)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10",
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19",
+    "Retificado pelo/a [Declaração - Diário da República n.º 146/1979, Série I de 1979-06-27](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-381128), produz efeitos a partir de 1979-05-23"
+   ],
+   "markdown": "###### Artigo 30.º — (Regime jurídico)\n\n1 - As caixas económicas regem-se pelas normas do presente diploma, pela legislação aplicável ao conjunto das instituições especiais de crédito e ainda, subsidiariamente pelas disposições que regulam a actividade das instituições de crédito, com as necessárias adaptações.\n\n2 - Mantém-se a vigência dos estatutos das caixas económicas na parte não contrariada pelas normas referidas no número anterior.\n\n3 - Pode o Ministro das Finanças e do Plano, por meio de portaria e ouvido o Banco de Portugal, determinar a modificação dos estatutos de caixas económicas que se mostrem desajustados à sua natureza.\n\n4 - Compete aos respectivos Governos Regionais, ouvido o Banco de Portugal, determinar às caixas económicas existentes e com sede nas Regiões Autónomas, a modificação dos estatutos que se mostrem desajustados à sua natureza.\n\n5 - A Caixa Económica de Lisboa e a Caixa Económica das Forças Armadas continuam a ser regidas pela legislação que lhes é própria.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 281/80 - Diário da República n.º 187/1980, Série I de 1980-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1980-470815), em vigor a partir de 1980-08-19\n\n> Retificado pelo/a [Declaração - Diário da República n.º 146/1979, Série I de 1979-06-27](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-381128), produz efeitos a partir de 1979-05-23"
+  },
+  "855752452": {
+   "fragment_id": "855404688",
+   "type": 11,
+   "heading": "Artigo 31.º — (Dúvidas)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 31.º — (Dúvidas)\n\nAs dúvidas que surjam na execução deste diploma são esclarecidas por despacho do Ministro das Finanças e do Plano.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752453": {
+   "fragment_id": "855404689",
+   "type": 11,
+   "heading": "Artigo 32.º — (Revogação da legislação)",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 32.º — (Revogação da legislação)\n\nFica revogada a legislação em contrário.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  },
+  "855752454": {
+   "fragment_id": "855404690",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 28 de Março de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes.\n\nPromulgado em 30 de Abril de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 190/2015 - Diário da República n.º 177/2015, Série I de 2015-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306), em vigor a partir de 2015-10-10"
+  }
+ }
+}

@@ -1,0 +1,846 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:622306:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2011-63958036",
+ "dre_path": "/dr/detalhe/decreto-lei/86-a-2011-622306",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-07-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "63823296",
+    "63823297",
+    "63823298",
+    "63823299",
+    "63823300",
+    "63823301",
+    "63823302",
+    "63823303",
+    "63823304",
+    "63823305",
+    "63823306",
+    "63823307",
+    "63823308",
+    "63823309",
+    "63823310",
+    "63823311",
+    "63823312",
+    "63823313",
+    "63823314",
+    "63823315",
+    "63823316",
+    "63823317",
+    "63823318",
+    "63823319",
+    "63823320",
+    "63823321",
+    "63823322",
+    "63823323",
+    "63823324",
+    "63823325",
+    "63823326",
+    "63823327"
+   ]
+  },
+  {
+   "date": "2013-08-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:499049:por",
+     "title": "Decreto-Lei n.º 119/2013",
+     "published": "2013-08-21",
+     "dre_path": "/dr/detalhe/decreto-lei/119-2013-499049"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 16.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º"
+   ],
+   "fragments": [
+    "63823296",
+    "63823297",
+    "895613918",
+    "895613919",
+    "895613920",
+    "895613921",
+    "63823302",
+    "63823303",
+    "895613922",
+    "895613923",
+    "895613924",
+    "895613925",
+    "63823308",
+    "895613926",
+    "895613927",
+    "895613928",
+    "895613929",
+    "895613930",
+    "895613931",
+    "895613932",
+    "895613937",
+    "895613938",
+    "895613939",
+    "895613940",
+    "895613941",
+    "63823320",
+    "895810090",
+    "895810091",
+    "63823323",
+    "63823324",
+    "63823325",
+    "863746100",
+    "63823327",
+    "63823328"
+   ]
+  },
+  {
+   "date": "2014-02-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:570735:por",
+     "title": "Decreto-Lei n.º 20/2014",
+     "published": "2014-02-10",
+     "dre_path": "/dr/detalhe/decreto-lei/20-2014-570735"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "63823296",
+    "63823297",
+    "895613918",
+    "895613919",
+    "895688810",
+    "895613921",
+    "63823302",
+    "63823303",
+    "895613922",
+    "895613923",
+    "895613924",
+    "895613925",
+    "63823308",
+    "895613926",
+    "895613927",
+    "895613928",
+    "895613929",
+    "895613930",
+    "895613931",
+    "895613932",
+    "895613937",
+    "895613938",
+    "895613939",
+    "895613940",
+    "895613941",
+    "63823320",
+    "895810090",
+    "895810091",
+    "63823323",
+    "63823324",
+    "63823325",
+    "863746100",
+    "63823327",
+    "63823328"
+   ]
+  },
+  {
+   "date": "2014-12-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:65908883:por",
+     "title": "Decreto-Lei n.º 178/2014",
+     "published": "2014-12-17",
+     "dre_path": "/dr/detalhe/decreto-lei/178-2014-65908883"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "63823296",
+    "63823297",
+    "895613918",
+    "895688838",
+    "895688839",
+    "895613921",
+    "63823302",
+    "63823303",
+    "895613922",
+    "895613923",
+    "895613924",
+    "895613925",
+    "63823308",
+    "895613926",
+    "895613927",
+    "895613928",
+    "895613929",
+    "895613930",
+    "895613931",
+    "895613932",
+    "895613937",
+    "895613938",
+    "895613939",
+    "895613940",
+    "895613941",
+    "63823320",
+    "895810090",
+    "895810091",
+    "63823323",
+    "63823324",
+    "63823325",
+    "863746100",
+    "63823327",
+    "63823328"
+   ]
+  },
+  {
+   "date": "2015-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67323529:por",
+     "title": "Decreto-Lei n.º 87/2015",
+     "published": "2015-05-27",
+     "dre_path": "/dr/detalhe/decreto-lei/87-2015-67323529"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "63823296",
+    "63823297",
+    "895613918",
+    "895688838",
+    "895688846",
+    "895613921",
+    "63823302",
+    "63823303",
+    "895613922",
+    "895613923",
+    "895613924",
+    "895613925",
+    "63823308",
+    "895613926",
+    "895613927",
+    "895613928",
+    "895613929",
+    "895613930",
+    "895613931",
+    "895613932",
+    "895613937",
+    "895613938",
+    "895613939",
+    "895613940",
+    "895613941",
+    "63823320",
+    "895810090",
+    "895810091",
+    "63823323",
+    "63823324",
+    "63823325",
+    "863746100",
+    "63823327",
+    "63823328"
+   ]
+  }
+ ],
+ "fragments": {
+  "63823296": {
+   "fragment_id": "63958037",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 86-A/2011\n\nde 12 de Julho\n\nLegislar sobre a sua organização e funcionamento é uma competência constitucional exclusiva do Governo.\n\nNa sua orgânica, o XIX Governo Constitucional procura desde logo adoptar uma estrutura que seja a expressão, e o exemplo, da necessidade de se encontrarem modelos de organização ao nível do Estado mais reduzidos e com menores custos, promovendo simultaneamente uma maior eficiência operacional e uma acrescida eficácia governativa.\n\nA presente orgânica procura ainda permitir um imediato arranque da governação, assente na estrutura de serviços e organismos actualmente existentes, sem prejuízo do esforço de racionalização e consequente definição de opções de redesenho departamental que são um objectivo firme do Governo, a curto prazo.\n\nAssim:\n\nNos termos do n.º 2 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Artigo 8.º, Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049) As alterações ao presente diploma produzem efeitos a 2 de julho de 2013, 24 de julho de 2013 e 26 de julho de 2013, relativamente a cada um dos membros do Governo nomeados nestas datas."
+  },
+  "63823297": {
+   "fragment_id": "63958038",
+   "type": 1,
+   "heading": "Capítulo I — Estrutura do Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Estrutura do Governo"
+  },
+  "63823298": {
+   "fragment_id": "63958039",
+   "type": 11,
+   "heading": "Artigo 1.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Composição\n\nO Governo é composto pelo Primeiro-Ministro, pelos ministros, pelos secretários de Estado e por uma subsecretária de Estado."
+  },
+  "63823299": {
+   "fragment_id": "63958040",
+   "type": 11,
+   "heading": "Artigo 2.º — Ministros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Ministros\n\nIntegram o Governo os seguintes Ministros:\n\na) Ministro de Estado e das Finanças;\n\nb) Ministro de Estado e dos Negócios Estrangeiros;\n\nc) Ministro da Defesa Nacional;\n\nd) Ministro da Administração Interna;\n\ne) Ministra da Justiça;\n\nf) Ministro Adjunto e dos Assuntos Parlamentares;\n\ng) Ministro da Economia e do Emprego;\n\nh) Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território;\n\ni) Ministro da Saúde;\n\nj) Ministro da Educação e Ciência;\n\nl) Ministro da Solidariedade e da Segurança Social."
+  },
+  "63823300": {
+   "fragment_id": "63958041",
+   "type": 11,
+   "heading": "Artigo 3.º — Secretários e Subsecretária de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Secretários e Subsecretária de Estado\n\n1 - O Primeiro-Ministro é coadjuvado no exercício da sua função pelo Secretário de Estado da Presidência do Conselho de Ministros, pelo Secretário de Estado Adjunto do Primeiro-Ministro e pelo Secretário de Estado da Cultura.\n\n2 - O Ministro de Estado e das Finanças é coadjuvado no exercício das suas funções pelo Secretário de Estado do Orçamento, pela Secretária de Estado do Tesouro e das Finanças, pelo Secretário de Estado dos Assuntos Fiscais e pelo Secretário de Estado da Administração Pública.\n\n3 - O Ministro de Estado e dos Negócios Estrangeiros é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto e dos Assuntos Europeus, pelo Secretário de Estado dos Negócios Estrangeiros e da Cooperação, pelo Secretário de Estado das Comunidades Portuguesas e pela Subsecretária de Estado Adjunta do Ministro de Estado e dos Negócios Estrangeiros.\n\n4 - O Ministro da Defesa Nacional é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto e da Defesa Nacional.\n\n5 - O Ministro da Administração Interna é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Administração Interna e pelo Secretário de Estado da Administração Interna.\n\n6 - A Ministra da Justiça é coadjuvada no exercício das suas funções pelo Secretário de Estado da Administração Patrimonial e Equipamentos do Ministério da Justiça.\n\n7 - O Ministro Adjunto e dos Assuntos Parlamentares é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro Adjunto e dos Assuntos Parlamentares, pela Secretária de Estado dos Assuntos Parlamentares e da Igualdade, pelo Secretário de Estado da Administração Local e Reforma Administrativa e pelo Secretário de Estado do Desporto e Juventude.\n\n8 - O Ministro da Economia e do Emprego é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto da Economia e Desenvolvimento Regional, pelo Secretário de Estado do Emprego, pelo Secretário de Estado do Empreendedorismo, Competitividade e Inovação, pelo Secretário de Estado das Obras Públicas, Transportes e Comunicações, pelo Secretário de Estado da Energia e pela Secretária de Estado do Turismo.\n\n9 - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território é coadjuvada no exercício das suas funções pelo Secretário de Estado da Agricultura, pelo Secretário de Estado das Florestas e Desenvolvimento Rural, pelo Secretário de Estado do Mar e pelo Secretário de Estado do Ambiente e do Ordenamento do Território.\n\n10 - O Ministro da Saúde é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Saúde e pelo Secretário de Estado da Saúde.\n\n11 - O Ministro da Educação e Ciência é coadjuvado no exercício das suas funções pelo Secretário de Estado do Ensino Superior, pela Secretária de Estado da Ciência, pelo Secretário de Estado do Ensino e da Administração Escolar e pela Secretária de Estado do Ensino Básico e Secundário.\n\n12 - O Ministro da Solidariedade e da Segurança Social é coadjuvado no exercício das suas funções pelo Secretário de Estado da Solidariedade e da Segurança Social.\n\n> Nota: [Artigo 3.º, Decreto-Lei n.º 20/2014 - Diário da República n.º 28/2014, Série I de 2014-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2014-570735) As alterações ao presente diploma produzem efeitos, respetivamente, a partir de 2 de setembro de 2013 e de 30 de dezembro de 2013, relativamente a cada um dos membros do Governo a que respeitam, nomeados nessas datas."
+  },
+  "63823301": {
+   "fragment_id": "63958042",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição, organização e funcionamento do Conselho de Ministros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Composição, organização e funcionamento do Conselho de Ministros\n\n1 - O Conselho de Ministros é composto pelo Primeiro-Ministro, pelas ministras e pelos ministros.\n\n2 - Salvo determinação em contrário do Primeiro-Ministro, participam ainda nas reuniões do Conselho de Ministros, sem direito de voto, o Secretário de Estado da Presidência do Conselho de Ministros e o Secretário de Estado Adjunto do Primeiro-Ministro.\n\n3 - Podem também participar nas reuniões do Conselho de Ministros, sem direito de voto, os secretários de Estado que venham, em cada caso, a ser convocados por indicação do Primeiro-Ministro.\n\n4 - A organização e o funcionamento do Conselho de Ministros são regulados em regimento, aprovado por resolução do Conselho de Ministros."
+  },
+  "63823302": {
+   "fragment_id": "63958043",
+   "type": 11,
+   "heading": "Artigo 5.º — Solidariedade e confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Solidariedade e confidencialidade\n\n1 - Todos os membros do Governo estão vinculados às deliberações tomadas em Conselho de Ministros, bem como ao dever de sigilo sobre as agendas, o conteúdo do debate e as posições aí assumidas.\n\n2 - Salvo para efeitos de audição ou negociação a efectuar nos termos da lei ou do Regimento do Conselho de Ministros, é vedada a divulgação das matérias submetidas ou a submeter à apreciação do Conselho de Ministros ou às reuniões preparatórias de secretários de Estado."
+  },
+  "63823303": {
+   "fragment_id": "63958044",
+   "type": 1,
+   "heading": "Capítulo II — Competência dos membros do Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Competência dos membros do Governo"
+  },
+  "63823304": {
+   "fragment_id": "63958045",
+   "type": 11,
+   "heading": "Artigo 6.º — Competência do Primeiro-Ministro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competência do Primeiro-Ministro\n\n1 - O Primeiro-Ministro tem competência própria e competência delegada, nos termos da lei.\n\n2 - A competência atribuída por lei ao Conselho de Ministros no âmbito dos assuntos correntes da Administração Pública considera-se delegada no Primeiro-Ministro, com faculdade de subdelegação em qualquer membro do Governo.\n\n3 - O Primeiro-Ministro exerce ainda os poderes relativos aos serviços, organismos e entidades compreendidos na Presidência do Conselho de Ministros que não se encontrem atribuídos ao Ministro Adjunto e dos Assuntos Parlamentares.\n\n4 - O Primeiro-Ministro pode delegar em qualquer membro do Governo, com faculdade de subdelegação, a competência relativa aos serviços, organismos e entidades dele dependentes, bem como a que legalmente lhe seja cometida no domínio dos assuntos correntes da Administração Pública.\n\n5 - A estrutura de missão para o acompanhamento da execução do memorando de entendimento com a União Europeia, o Fundo Monetário Internacional e o Banco Central Europeu fica na dependência do Primeiro-Ministro, sendo o seu regime aprovado por resolução do Conselho de Ministros."
+  },
+  "63823305": {
+   "fragment_id": "63958046",
+   "type": 11,
+   "heading": "Artigo 7.º — Ausência e impedimento do Primeiro-Ministro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Ausência e impedimento do Primeiro-Ministro\n\nO Primeiro-Ministro, salvo sua indicação em contrário, é substituído na sua ausência ou impedimento pelo Ministro de Estado e das Finanças."
+  },
+  "63823306": {
+   "fragment_id": "63958047",
+   "type": 11,
+   "heading": "Artigo 8.º — Competência dos restantes membros do Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competência dos restantes membros do Governo\n\n1 - As ministras e os ministros têm a competência própria que a lei lhes confere e a competência que lhes seja delegada pelo Conselho de Ministros ou pelo Primeiro-Ministro.\n\n2 - As ministras e os ministros podem delegar nos secretários e subsecretários de Estado que os coadjuvam, com faculdade de subdelegação, a competência relativa aos serviços, organismos, entidades e actividades deles dependentes.\n\n3 - O Ministro Adjunto e dos Assuntos Parlamentares e o Secretário de Estado da Presidência do Conselho de Ministros exercem ainda as competências conferidas pelo Regimento do Conselho de Ministros.\n\n4 - Os secretários de Estado e subsecretários de Estado não têm competência própria, excepto no que se refere aos respectivos gabinetes, e exercem em cada caso a competência que lhes seja delegada pelo Primeiro-Ministro ou pelo ministro respectivo."
+  },
+  "63823307": {
+   "fragment_id": "63958048",
+   "type": 11,
+   "heading": "Artigo 9.º — Ausência e impedimento dos ministros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Ausência e impedimento dos ministros\n\nCada ministro é substituído na sua ausência ou impedimento pelo secretário de Estado que indicar ao Primeiro-Ministro ou, na falta de tal indicação, pelo membro do Governo que o Primeiro-Ministro designar."
+  },
+  "63823308": {
+   "fragment_id": "63958049",
+   "type": 1,
+   "heading": "Capítulo III — Orgânica do Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Orgânica do Governo"
+  },
+  "63823309": {
+   "fragment_id": "63958050",
+   "type": 11,
+   "heading": "Artigo 10.º — Presidência do Conselho de Ministros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Presidência do Conselho de Ministros\n\n1 - A Presidência do Conselho de Ministros é o departamento central do Governo, tendo por missão prestar apoio ao Conselho de Ministros e aos demais membros do Governo nela integrados e promover a coordenação dos diversos departamentos governamentais que a integram.\n\n2 - Integram a Presidência do Conselho de Ministros:\n\na) Os ministros de Estado;\n\nb) O Ministro Adjunto e dos Assuntos Parlamentares;\n\nc) O Secretário de Estado da Presidência do Conselho de Ministros;\n\nd) O Secretário de Estado Adjunto do Primeiro-Ministro;\n\ne) O Secretário de Estado da Cultura;\n\nf) O Secretário de Estado Adjunto do Ministro Adjunto e dos Assuntos Parlamentares;\n\ng) A Secretária de Estado dos Assuntos Parlamentares e da Igualdade;\n\nh) O Secretário de Estado da Administração Local e Reforma Administrativa;\n\ni) O Secretário de Estado do Desporto e Juventude;\n\nj) A Subsecretária de Estado Adjunta do Ministro de Estado e dos Negócios Estrangeiros.\n\n3 - A Presidência do Conselho de Ministros compreende os serviços, organismos, entidades e estruturas identificados nos Decretos-Leis n.os 202/2006 e 215/2006, ambos de 27 de Outubro, e ainda todos os serviços, organismos e estruturas que não tenham sido expressamente incorporados em outros ministérios.\n\n4 - Ficam também integrados na Presidência do Conselho de Ministros a Agência para o Investimento e o Comércio Externo de Portugal, E. P. E., e o Instituto da Investigação Científica Tropical, I. P.\n\n5 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros, fica na dependência do Primeiro-Ministro, com faculdade de delegação, a definição de orientações à Sociedade para o Financiamento do Desenvolvimento, Instituição Financeira de Crédito, S. A.\n\n6 - Os serviços, organismos, entidades e estruturas incorporados na Presidência do Conselho de Ministros dependem do Primeiro-Ministro, salvo disposição legal em contrário e sem prejuízo do disposto nos números seguintes, podendo a respectiva competência ser delegada nos membros do Governo referidos no n.º 2.\n\n7 - A competência para o reconhecimento de fundações cometida pelo Decreto-Lei n.º 284/2007, de 17 de Agosto, ao Ministro da Presidência fica na dependência do Primeiro-Ministro, podendo ser objecto de delegação nos termos previstos no número anterior.\n\n8 - A Presidência do Conselho de Ministros assegura o apoio aos serviços dependentes do Primeiro-Ministro, nos termos do disposto no respectivo diploma orgânico.\n\n9 - Ao Ministro Adjunto e dos Assuntos Parlamentares compete assegurar as relações do Governo com a Assembleia da República e com os grupos parlamentares, bem como definir, em articulação com a Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, orientações, estratégias e fixação de objectivos às comissões de coordenação e desenvolvimento regional, no domínio do apoio às autarquias locais e às suas associações.\n\n10 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e ao membro do Governo responsável pela área das finanças, ficam na dependência do Ministro Adjunto e dos Assuntos Parlamentares as entidades do sector empresarial do Estado no domínio da comunicação social, bem como o Gabinete para os Meios de Comunicação Social.\n\n11 - Consideram-se delegadas no Secretário de Estado da Cultura as competências de definição e execução de políticas de desenvolvimento cultural, de incentivo à criação artística e à difusão e internacionalização da cultura e da língua portuguesa, para o efeito ficando sob a sua superintendência e tutela os serviços, organismos e estruturas integrados ou dependentes do extinto Ministério da Cultura."
+  },
+  "63823310": {
+   "fragment_id": "63958051",
+   "type": 11,
+   "heading": "Artigo 11.º — Finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Finanças\n\n1 - O Ministério das Finanças é o departamento governamental que tem por missão definir e conduzir a política financeira do Estado e as políticas para a Administração Pública.\n\n2 - O Ministério das Finanças compreende os serviços, organismos e entidades identificados no Decreto-Lei n.º 205/2006, de 27 de Outubro.\n\n3 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros, quando estejam em causa empresas participadas, as competências de definição das orientações da PARPÚBLICA - Participações Públicas (SGPS), S. A., e de acompanhamento da sua execução são exercidas pelo Ministro de Estado e das Finanças em articulação com o Ministro da Economia e do Emprego e do ministro competente em razão da matéria.\n\n4 - O Ministro de Estado e das Finanças exerce conjuntamente com o Ministro da Solidariedade e da Segurança Social e com o Ministro da Economia e do Emprego a superintendência e tutela sobre o Instituto de Informática, I. P., integrado no extinto Ministério do Trabalho e da Solidariedade Social, para efeitos das matérias relacionadas com a colecta de contribuições.\n\n5 - Sem prejuízo dos poderes conferidos ao Conselho de Ministros e a outros ministros, o Ministro de Estado e das Finanças exerce em relação às demais entidades do sector empresarial do Estado as competências que lhe são cometidas por lei.\n\n6 - O Ministério das Finanças coordena a execução do memorando de entendimento com a União Europeia, o Fundo Monetário Internacional e o Banco Central Europeu."
+  },
+  "63823311": {
+   "fragment_id": "63958052",
+   "type": 11,
+   "heading": "Artigo 12.º — Negócios Estrangeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Negócios Estrangeiros\n\n1 - O Ministério dos Negócios Estrangeiros é o departamento governamental que tem por missão formular, coordenar e executar a política externa de Portugal.\n\n2 - O Ministério dos Negócios Estrangeiros compreende os serviços, organismos, entidades e estruturas identificados no Decreto-Lei n.º 204/2006, de 27 de Outubro.\n\n3 - A Comissão Interministerial de Limites e Bacias Hidrográficas Luso-Espanholas fica na dependência do Ministro do Estado e dos Negócios Estrangeiros, em articulação com a Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território."
+  },
+  "63823312": {
+   "fragment_id": "63958053",
+   "type": 11,
+   "heading": "Artigo 13.º — Defesa Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Defesa Nacional\n\n1 - O Ministério da Defesa Nacional é o departamento governamental que tem por missão a preparação e a execução da política de defesa nacional no âmbito das atribuições que lhe são conferidas pela Lei de Defesa Nacional, bem como assegurar e fiscalizar a administração das Forças Armadas e dos demais serviços, organismos e entidades nele incorporados.\n\n2 - O Ministério da Defesa Nacional compreende os serviços, organismos, entidades e estruturas identificados no Decreto-Lei n.º 154-A/2009, de 6 de Julho.\n\n3 - Exceptua-se do disposto no número anterior a Estrutura de Missão para os Assuntos do Mar, que é transferida para o Ministério da Agricultura, Mar, Ambiente e Ordenamento do Território.\n\n4 - A competência relativa à definição das orientações estratégicas para o Instituto Hidrográfico, I. P., bem como o acompanhamento da sua execução, são exercidos pelo Ministro da Defesa Nacional em articulação com a Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território e com o Ministro da Educação e Ciência.\n\n5 - O acompanhamento da Agência Europeia para a Segurança Marítima compete ao Ministro da Defesa Nacional em articulação com a Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território."
+  },
+  "63823313": {
+   "fragment_id": "63958054",
+   "type": 11,
+   "heading": "Artigo 14.º — Administração Interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Administração Interna\n\n1 - O Ministério da Administração Interna é o departamento governamental que tem por missão a formulação, coordenação, execução e avaliação das políticas de segurança interna, do controlo de fronteiras, de protecção e socorro, de segurança rodoviária e de administração eleitoral.\n\n2 - O Ministério da Administração Interna compreende os serviços identificados no Decreto-Lei n.º 203/2006, de 27 de Outubro, e no Decreto-Lei n.º 121/2009, de 21 de Maio."
+  },
+  "63823314": {
+   "fragment_id": "63958055",
+   "type": 11,
+   "heading": "Artigo 15.º — Justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Justiça\n\n1 - O Ministério da Justiça é o departamento governamental que tem por missão a concepção, condução, execução e avaliação da política de justiça definida pela Assembleia da República e pelo Governo.\n\n2 - O Ministério da Justiça compreende os serviços, organismos e estruturas identificados no Decreto-Lei n.º 206/2006, de 27 de Outubro."
+  },
+  "63823315": {
+   "fragment_id": "63958056",
+   "type": 11,
+   "heading": "Artigo 16.º — Economia e Emprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Economia e Emprego\n\n1 - O Ministério da Economia e do Emprego é o departamento governamental que tem por missão a concepção, execução e avaliação das políticas de desenvolvimento dirigidas ao crescimento do emprego sustentável, de competitividade, de inovação, de internacionalização das empresas e de promoção do comércio externo, de promoção e atracção de investimento estrangeiro, bem como a aposta na mobilidade e modernização nas relações de trabalho, as políticas de formação profissional, as políticas de energia e de geologia, de turismo, de defesa dos consumidores, de obras públicas, de transportes e de comunicações.\n\n2 - O Ministério da Economia e do Emprego compreende os serviços, organismos, entidades e estruturas identificados nos Decretos-Leis n.os 208/2006 e 210/2006, ambos de 27 de Outubro.\n\n3 - O Instituto Financeiro para o Desenvolvimento Regional, I. P., integra o Ministério da Economia e do Emprego.\n\n4 - Transitam para o Ministério da Economia e do Emprego os seguintes serviços e organismos integrados ou dependentes do extinto Ministério do Trabalho e da Solidariedade Social:\n\na) Autoridade para as Condições de Trabalho;\n\nb) Direcção-Geral do Emprego e das Relações de Trabalho;\n\nc) Instituto do Emprego e da Formação Profissional, I. P.;\n\nd) Conselho Nacional da Formação Profissional;\n\ne) Conselho Nacional de Higiene e Segurança no Trabalho;\n\nf) Comissão para a Igualdade no Trabalho e no Emprego.\n\n5 - Até à aprovação do diploma da sua transferência para o Conselho Económico e Social, o Observatório do Emprego e Formação Profissional fica na dependência do Ministério da Economia e do Emprego.\n\n6 - Fica sob superintendência e tutela conjunta dos Ministros da Economia e do Emprego e da Solidariedade e da Segurança Social o Instituto de Gestão do Fundo Social Europeu, I. P., integrado no extinto Ministério do Trabalho e da Solidariedade Social.\n\n7 - O Ministro da Economia e do Emprego exerce conjuntamente com os Ministros de Estado e das Finanças e da Solidariedade e da Segurança Social a superintendência e tutela sobre o Instituto de Informática, I. P., integrado no extinto Ministério do Trabalho e da Solidariedade Social.\n\n8 - A superintendência e tutela sobre a Agência Nacional para a Qualificação, I. P., é exercida conjuntamente pelos Ministros da Economia e do Emprego e da Educação e Ciência e articulada com o Ministro da Solidariedade e da Segurança Social.\n\n9 - O Ministro da Economia e do Emprego exerce conjuntamente com a Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território a superintendência e tutela sobre o Instituto Portuário e dos Transportes Marítimos, I. P., bem como sobre as administrações portuárias.\n\n10 - A superintendência sobre a Comissão referida na alínea f) do n.º 4 é articulada com o Ministro da Solidariedade e da Segurança Social e com o membro do Governo responsável pela área da igualdade de género.\n\n11 - A Agência de Inovação - Inovação Empresarial e Transferência de Tecnologia, S. A., fica na dependência do Ministro da Economia e do Emprego em articulação com o Ministro da Educação e Ciência.\n\n12 - O exercício de superintendência e tutela sobre o Instituto do Emprego e da Formação profissional, I. P., é articulado com o Ministro da Solidariedade e da Segurança Social.\n\n13 - A definição de orientações, acompanhamento, avaliação e controlo global da gestão e execução dos investimentos financiados por fundos comunitários, no âmbito da política de coesão, são competência do Ministro da Economia e do Emprego, em articulação com o Ministro de Estado e das Finanças e com os demais ministros relevantes em razão das respectivas estruturas de gestão.\n\n14 - A definição de orientações estratégicas e fixação de objectivos para as comissões de coordenação e desenvolvimento regional em matéria de desenvolvimento regional e de correspectivos fundos comunitários são articuladas pelo Ministro da Economia e do Emprego com a Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território."
+  },
+  "63823316": {
+   "fragment_id": "63958057",
+   "type": 11,
+   "heading": "Artigo 17.º — Agricultura, Mar, Ambiente e Ordenamento do Território",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Agricultura, Mar, Ambiente e Ordenamento do Território\n\n1 - O Ministério da Agricultura, Mar, Ambiente e Ordenamento do Território é o departamento governamental que tem por missão a definição, coordenação e execução de políticas agrícolas, agro-alimentar, silvícola, de desenvolvimento rural, de exploração e potenciação dos recursos do mar, de ambiente e de ordenamento do território, numa perspectiva de desenvolvimento sustentável e de coesão social e territorial, bem como assegurar o planeamento e a coordenação da aplicação de fundos nacionais e comunitários a favor da agricultura, das florestas, do desenvolvimento rural, da política do mar, do ambiente e da valorização e ordenamento territoriais.\n\n2 - O Ministério da Agricultura, Mar, Ambiente e Ordenamento do Território compreende os serviços, organismos, entidades e estruturas identificados nos Decretos-Leis n.os 207/2006 e 209/2006, ambos de 27 de Outubro.\n\n3 - Sem prejuízo das competências legalmente cometidas ao Conselho de Ministros e ao Ministro de Estado e das Finanças, compete à Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território a definição das orientações do sector empresarial do Estado referido nos decretos-leis mencionados no número anterior.\n\n4 - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território exerce conjuntamente com o Ministro da Economia e do Emprego a superintendência e tutela sobre o Instituto Portuário e dos Transportes Marítimos, I. P., bem como sobre as administrações portuárias.\n\n5 - São também integradas no Ministério da Agricultura, Mar, Ambiente e Ordenamento do Território a Estrutura de Missão para os Assuntos do Mar, a Comissão Técnica do Registo Internacional de Navios da Madeira e a Comissão Internacional de Luta contra a Poluição no Atlântico Nordeste.\n\n6 - A Comissão Interministerial de Limites e Bacias Hidrográficas Luso-Espanholas depende do Ministro de Estado e dos Negócios Estrangeiros, em articulação com a Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território.\n\n7 - A definição de orientações estratégicas para o Instituto Hidrográfico, I. P., na dependência do Ministro da Defesa Nacional, bem como o acompanhamento da sua execução são feitos em articulação com a Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território e com o Ministro da Educação e Ciência.\n\n8 - A definição de orientações estratégicas para a Escola Náutica Infante D. Henrique bem como o acompanhamento da sua execução são exercidos em conjunto com os Ministros da Educação e Ciência e da Economia e do Emprego."
+  },
+  "63823317": {
+   "fragment_id": "63958058",
+   "type": 11,
+   "heading": "Artigo 18.º — Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Saúde\n\n1 - O Ministério da Saúde é o departamento governamental que tem por missão definir e conduzir a política nacional de saúde, garantindo uma aplicação e utilização sustentáveis de recursos e a avaliação dos seus resultados.\n\n2 - O Ministério da Saúde compreende os serviços, organismos e entidades identificados no Decreto-Lei n.º 212/2006, de 27 de Outubro."
+  },
+  "63823318": {
+   "fragment_id": "63958059",
+   "type": 11,
+   "heading": "Artigo 19.º — Educação e Ciência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Educação e Ciência\n\n1 - O Ministério da Educação e Ciência é o departamento governamental que tem por missão definir, coordenar, executar e avaliar as políticas nacionais dirigidas ao sistema educativo, ao ensino superior, à ciência e à sociedade da informação, articulando-as como as políticas de qualificação e formação profissional.\n\n2 - O Ministério da Educação e Ciência compreende os serviços, organismos e estruturas identificados pelos Decretos-Leis n.os 213/2006 e 214/2006, ambos de 27 de Outubro.\n\n3 - A superintendência e tutela sobre a Agência Nacional para a Qualificação, I. P., é exercida pelo Ministro da Educação e Ciência conjuntamente com o Ministro da Economia e do Emprego e articulada com o Ministro da Solidariedade e da Segurança Social.\n\n4 - A superintendência sobre a Agência de Inovação - Inovação Empresarial e Transferência de Tecnologia, S. A., é articulada pelo Ministro da Economia e do Emprego com o Ministro da Educação e Ciência.\n\n5 - A definição de orientações estratégicas para a Escola Náutica Infante D. Henrique, bem como o acompanhamento da sua execução, são exercidos em conjunto com o Ministro da Economia e do Emprego e a Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território.\n\n6 - A definição de orientações estratégicas para o Instituto Hidrográfico, I. P., na dependência do Ministro da Defesa Nacional, bem como o acompanhamento da sua execução são feitos em articulação com a Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território e com o Ministro da Educação e Ciência."
+  },
+  "63823319": {
+   "fragment_id": "63958060",
+   "type": 11,
+   "heading": "Artigo 20.º — Solidariedade e Segurança Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Solidariedade e Segurança Social\n\n1 - O Ministério da Solidariedade e Segurança Social é o departamento governamental que tem por missão a definição, promoção e execução de políticas de solidariedade e segurança social, combate à pobreza e à exclusão social, apoio à família e à natalidade, a crianças e jovens em risco, a idosos, à inclusão de pessoas com deficiência, de promoção do voluntariado e de cooperação activa e partilha de responsabilidades com as instituições do sector social.\n\n2 - O Ministério da Solidariedade e Segurança Social compreende os serviços, organismos e estruturas identificados no Decreto-Lei n.º 211/2006, de 27 de Outubro, sem prejuízo das transferências para o Ministério da Economia e do Emprego referidas no n.º 4 do artigo 16.º\n\n3 - O Ministro da Solidariedade e da Segurança Social exerce conjuntamente com os Ministros de Estado e das Finanças e da Economia e do Emprego a superintendência e tutela sobre o Instituto de Informática, I. P.\n\n4 - Fica sob superintendência e tutela conjunta do Ministro da Solidariedade e da Segurança Social com o Ministro da Economia e do Emprego o Instituto de Gestão do Fundo Social Europeu, I. P.\n\n5 - O exercício de superintendência e tutela sobre o Instituto do Emprego e da Formação Profissional, I. P., é articulado pelo Ministro da Economia e do Emprego com o Ministro da Solidariedade e da Segurança Social.\n\n6 - A superintendência e tutela sobre a Agência Nacional para a Qualificação, I. P., é articulada com o Ministro da Solidariedade e da Segurança Social.\n\n7 - A superintendência sobre a Comissão para a Igualdade no Trabalho e no Emprego é articulada com o Ministro da Solidariedade e da Segurança Social e com o membro do Governo responsável pela área da igualdade de género.\n\n8 - O Conselho Consultivo das Famílias e a Comissão para a Promoção de Políticas de Família funcionam sob articulação conjunta com o membro do Governo responsável pela área da igualdade de género."
+  },
+  "63823320": {
+   "fragment_id": "63958061",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "63823321": {
+   "fragment_id": "63958062",
+   "type": 11,
+   "heading": "Artigo 21.º — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Extinção\n\n1 - São extintos os Ministérios da Economia, da Inovação e do Desenvolvimento, da Agricultura, do Desenvolvimento Rural e das Pescas, das Obras Públicas, Transportes e Comunicações, do Ambiente e do Ordenamento do Território, do Trabalho e da Solidariedade Social, da Educação, da Ciência, Tecnologia e Ensino Superior e da Cultura, sendo a estrutura orgânica constante do Decreto-Lei n.º 321/2009, de 11 de Dezembro, com as respectivas alterações, substituída pela estabelecida no presente diploma.\n\n2 - Os direitos e obrigações de que eram titulares os departamentos, organismos, serviços ou entidades objecto de alterações na estrutura orgânica do Governo são automaticamente transferidos para os novos departamentos, nos termos do presente diploma, sem dependência de qualquer formalidade.\n\n3 - As alterações na estrutura orgânica do Governo são acompanhadas pelo consequente movimento de pessoal, sem dependência de qualquer formalidade e sem que daí resulte qualquer perda de direitos ou deveres adquiridos."
+  },
+  "63823322": {
+   "fragment_id": "63958063",
+   "type": 11,
+   "heading": "Artigo 22.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Disposição transitória\n\n1 - Com a cessação de funções dos governadores e vice-governadores civis nomeados pelo XVIII Governo e face à vagatura do cargo, o exercício das suas competências é assegurado pelo Ministro da Administração Interna até à extinção dos governos civis e consequente redistribuição de funções por outros órgãos ou serviços da administração local e central do Estado.\n\n2 - As competências referidas no número anterior podem ser delegadas, com faculdade de subdelegação."
+  },
+  "63823323": {
+   "fragment_id": "63958064",
+   "type": 11,
+   "heading": "Artigo 23.º — Disposições orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Disposições orçamentais\n\n1 - Os encargos com os gabinetes dos membros do Governo são assegurados com recurso às verbas anteriormente afectas às estruturas que prosseguiam as respectivas atribuições e competências.\n\n2 - Compete ao Ministro de Estado e das Finanças providenciar a efectiva reafectação de verbas necessárias ao funcionamento da nova estrutura governamental."
+  },
+  "63823324": {
+   "fragment_id": "63958065",
+   "type": 11,
+   "heading": "Artigo 24.º — Aprovação obrigatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Aprovação obrigatória\n\nTodos os actos do Governo que envolvam aumento da despesa ou diminuição de receita são obrigatoriamente aprovados pelo Ministro de Estado e das Finanças."
+  },
+  "63823325": {
+   "fragment_id": "63958066",
+   "type": 11,
+   "heading": "Artigo 25.º — Audição das Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Audição das Regiões Autónomas\n\nNa prossecução das suas atribuições e competências, a audição dos órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira pelo Governo é feita nos termos do Regimento do Conselho de Ministros."
+  },
+  "63823326": {
+   "fragment_id": "63958067",
+   "type": 11,
+   "heading": "Artigo 26.º — Gabinete do Secretário de Estado da Presidência do Conselho de Ministros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Gabinete do Secretário de Estado da Presidência do Conselho de Ministros\n\nPara efeitos da aplicação da legislação sobre a constituição de gabinetes de membros do Governo, o Gabinete do Secretário de Estado da Presidência do Conselho de Ministros é equiparado a gabinete ministerial."
+  },
+  "63823327": {
+   "fragment_id": "63958068",
+   "type": 11,
+   "heading": "Artigo 27.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Produção de efeitos\n\nO presente diploma produz efeitos reportados a 21 de Junho de 2011, considerando-se ratificados ou confirmados todos os actos que tenham sido praticados desde aquela data e cuja regularidade dependa da conformidade com o disposto no presente diploma."
+  },
+  "895613918": {
+   "fragment_id": "63958039",
+   "type": 11,
+   "heading": "Artigo 1.º — Composição",
+   "in_force_from": "2013-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26"
+   ],
+   "markdown": "###### Artigo 1.º — Composição\n\nO Governo é composto pelo Primeiro-Ministro, pelo Vice-Primeiro-Ministro, pelos ministros, pelos secretários de Estado e por uma subsecretária de Estado.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26"
+  },
+  "895613919": {
+   "fragment_id": "63958040",
+   "type": 11,
+   "heading": "Artigo 2.º — Vice-Primeiro-Ministro e ministros",
+   "in_force_from": "2013-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13"
+   ],
+   "markdown": "###### Artigo 2.º — Vice-Primeiro-Ministro e ministros\n\nIntegram o Governo os:\n\na) Vice-Primeiro-Ministro;\n\nb) Ministra de Estado e das Finanças;\n\nc) Ministro de Estado e dos Negócios Estrangeiros;\n\nd) Ministro da Defesa Nacional;\n\ne) Ministro da Administração Interna;\n\nf) Ministra da Justiça;\n\ng) Ministro da Presidência e dos Assuntos Parlamentares;\n\nh) Ministro Adjunto e do Desenvolvimento Regional;\n\ni) Ministro da Economia;\n\nj) Ministro do Ambiente, Ordenamento do Território e Energia;\n\nk) Ministra da Agricultura e do Mar;\n\nl) Ministro da Saúde;\n\nm) Ministro da Educação e Ciência;\n\nn) Ministro da Solidariedade, Emprego e Segurança Social.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13"
+  },
+  "895613920": {
+   "fragment_id": "63958041",
+   "type": 11,
+   "heading": "Artigo 3.º — Secretários e Subsecretária de Estado",
+   "in_force_from": "2013-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 29/2013 - Diário da República n.º 37/2013, Série I de 2013-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2013-258495), produz efeitos a partir de 2013-02-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 246/2012 - Diário da República n.º 219/2012, Série I de 2012-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2012-192036), produz efeitos a partir de 2012-10-26"
+   ],
+   "markdown": "###### Artigo 3.º — Secretários e Subsecretária de Estado\n\n1 - O Primeiro-Ministro é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Primeiro-Ministro e pelo Secretário de Estado da Cultura.\n\n2 - O Vice-Primeiro-Ministro é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Vice-Primeiro-Ministro e pela Subsecretária de Estado Adjunta do Vice-Primeiro-Ministro.\n\n3 - A Ministra de Estado e das Finanças é coadjuvada no exercício das suas funções pelo Secretário de Estado Adjunto e do Orçamento, pelo Secretário de Estado do Tesouro, pelo Secretário de Estado das Finanças, pelo Secretário de Estado dos Assuntos Fiscais e pelo Secretário de Estado da Administração Pública.\n\n4 - O Ministro de Estado e dos Negócios Estrangeiros é coadjuvado no exercício das suas funções pelo Secretário de Estado dos Negócios Estrangeiros e da Cooperação, pelo Secretário de Estado dos Assuntos Europeus e pelo Secretário de Estado das Comunidades Portuguesas.\n\n5 - O Ministro da Defesa Nacional é coadjuvado no exercício das suas funções pela Secretária de Estado Adjunta e da Defesa Nacional.\n\n6 - O Ministro da Administração Interna é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Administração Interna e pelo Secretário de Estado da Administração Interna.\n\n7 - A Ministra da Justiça é coadjuvada no exercício das suas funções pelo Secretário de Estado da Administração Patrimonial e Equipamentos do Ministério da Justiça.\n\n8 - O Ministro da Presidência e dos Assuntos Parlamentares é coadjuvado no exercício das suas funções pela Secretária de Estado dos Assuntos Parlamentares e da Igualdade e pelo Secretário de Estado do Desporto e Juventude.\n\n9 - O Ministro Adjunto e do Desenvolvimento Regional é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro Adjunto e do Desenvolvimento Regional, pelo Secretário de Estado do Desenvolvimento Regional, pelo Secretário de Estado para a Modernização Administrativa e pelo Secretário de Estado da Administração Local.\n\n10 -  O Ministro da Economia é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto e da Economia, pelo Secretário de Estado da Inovação, Investimento e Competitividade, pelo Secretário de Estado das Infraestruturas, Transportes e Comunicações e pelo Secretário de Estado do Turismo.\n\n11 - O Ministro do Ambiente, Ordenamento do Território e Energia é coadjuvado no exercício das suas funções pelo Secretário de Estado do Ambiente, pelo Secretário de Estado da Energia e pelo Secretário de Estado do Ordenamento do Território e da Conservação da Natureza.\n\n12 - A Ministra da Agricultura e do Mar é coadjuvada no exercício das suas funções pelo Secretário de Estado da Agricultura, pelo Secretário de Estado das Florestas e do Desenvolvimento Rural, pelo Secretário de Estado do Mar e pelo Secretário de Estado da Alimentação e da Investigação Agroalimentar.\n\n13 - O Ministro da Saúde é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Saúde e pelo Secretário de Estado da Saúde.\n\n14 - O Ministro da Educação e Ciência é coadjuvado no exercício das suas funções pelo Secretário de Estado do Ensino Superior, pela Secretária de Estado da Ciência, pelo Secretário de Estado do Ensino e da Administração Escolar e pelo Secretário de Estado do Ensino Básico e Secundário.\n\n15 - O Ministro da Solidariedade, Emprego e Segurança Social é coadjuvado no exercício das suas funções pelo Secretário de Estado da Solidariedade e da Segurança Social e pelo Secretário de Estado do Emprego.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 29/2013 - Diário da República n.º 37/2013, Série I de 2013-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2013-258495), produz efeitos a partir de 2013-02-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 246/2012 - Diário da República n.º 219/2012, Série I de 2012-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2012-192036), produz efeitos a partir de 2012-10-26"
+  },
+  "895613921": {
+   "fragment_id": "63958042",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição, organização e funcionamento do Conselho de Ministros",
+   "in_force_from": "2013-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13"
+   ],
+   "markdown": "###### Artigo 4.º — Composição, organização e funcionamento do Conselho de Ministros\n\n1 - O Conselho de Ministros é composto pelo Primeiro-Ministro, pelo Vice-Primeiro-Ministro, pelas ministras e pelos ministros.\n\n2 - Salvo determinação em contrário do Primeiro-Ministro, participa ainda nas reuniões do Conselho de Ministros, sem direito de voto, o Secretário de Estado Adjunto do Primeiro-Ministro.\n\n3 - Podem também participar nas reuniões do Conselho de Ministros, sem direito de voto, os secretários de Estado que venham, em cada caso, a ser convocados por indicação do Primeiro-Ministro.\n\n4 - A organização e o funcionamento do Conselho de Ministros são regulados em regimento, aprovado por resolução do Conselho de Ministros.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13"
+  },
+  "895613922": {
+   "fragment_id": "63958045",
+   "type": 11,
+   "heading": "Artigo 6.º — Competência do Primeiro-Ministro",
+   "in_force_from": "2013-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13"
+   ],
+   "markdown": "###### Artigo 6.º — Competência do Primeiro-Ministro\n\n1 - O Primeiro-Ministro tem competência própria e competência delegada, nos termos da lei.\n\n2 - A competência atribuída por lei ao Conselho de Ministros no âmbito dos assuntos correntes da Administração Pública considera-se delegada no Primeiro-Ministro, com faculdade de subdelegação em qualquer membro do Governo.\n\n3 - O Primeiro-Ministro exerce ainda os poderes relativos aos serviços, organismos e entidades compreendidos na Presidência do Conselho de Ministros que não se encontrem atribuídos ao Vice-Primeiro-Ministro, ao Ministro da Presidência e dos Assuntos Parlamentares e ao Ministro Adjunto e do Desenvolvimento Regional.\n\n4 - O Primeiro-Ministro pode delegar em qualquer membro do Governo, com faculdade de subdelegação, a competência relativa aos serviços, organismos e entidades dele dependentes, bem como a que legalmente lhe seja cometida no domínio dos assuntos correntes da Administração Pública.\n\n5 - A estrutura de missão para o acompanhamento da execução do memorando de entendimento com a União Europeia, o Fundo Monetário Internacional e o Banco Central Europeu fica na dependência do Primeiro-Ministro, sendo o seu regime aprovado por resolução do Conselho de Ministros.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13"
+  },
+  "895613923": {
+   "fragment_id": "63958046",
+   "type": 11,
+   "heading": "Artigo 7.º — Ausência e impedimento do Primeiro-Ministro",
+   "in_force_from": "2013-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26"
+   ],
+   "markdown": "###### Artigo 7.º — Ausência e impedimento do Primeiro-Ministro\n\nO Primeiro-Ministro, salvo sua indicação em contrário, é substituído, na sua ausência ou impedimento, pelo Vice-Primeiro-Ministro e, na ausência ou impedimento deste, pelos Ministros de Estado.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26"
+  },
+  "895613924": {
+   "fragment_id": "63958047",
+   "type": 11,
+   "heading": "Artigo 8.º — Competência dos restantes membros do Governo",
+   "in_force_from": "2013-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13"
+   ],
+   "markdown": "###### Artigo 8.º — Competência dos restantes membros do Governo\n\n1 - O Vice-Primeiro-Ministro, as ministras e os ministros têm a competência própria que a lei lhes confere e a competência que lhes seja delegada pelo Conselho de Ministros ou pelo Primeiro-Ministro.\n\n2 - O Vice-Primeiro-Ministro, as ministras e os ministros podem delegar nos secretários e subsecretários de Estado que os coadjuvam, com faculdade de subdelegação, a competência relativa aos serviços, organismos, entidades e atividades deles dependentes.\n\n3 - O Vice-Primeiro-Ministro e o Ministro da Presidência e dos Assuntos Parlamentares exercem ainda as competências conferidas pelo Regimento do Conselho de Ministros.\n\n4 - Os secretários de Estado e subsecretários de Estado não têm competência própria, exceto no que se refere aos respetivos gabinetes, e exercem em cada caso a competência que lhes seja delegada pelo Primeiro-Ministro, pelo Vice-Primeiro-Ministro ou pelo ministro respetivo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13"
+  },
+  "895613925": {
+   "fragment_id": "63958048",
+   "type": 11,
+   "heading": "Artigo 9.º — Ausência e impedimento do Vice-Primeiro-Ministro e dos ministros",
+   "in_force_from": "2013-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26"
+   ],
+   "markdown": "###### Artigo 9.º — Ausência e impedimento do Vice-Primeiro-Ministro e dos ministros\n\nO Vice-Primeiro-Ministro e cada ministro são substituídos, na sua ausência ou impedimento, pelo secretário de Estado que indicar ao Primeiro-Ministro ou, na falta de tal indicação, pelo membro do Governo que o Primeiro-Ministro designar.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26"
+  },
+  "895613926": {
+   "fragment_id": "63958050",
+   "type": 11,
+   "heading": "Artigo 10.º — Presidência do Conselho de Ministros",
+   "in_force_from": "2013-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 29/2013 - Diário da República n.º 37/2013, Série I de 2013-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2013-258495), produz efeitos a partir de 2013-02-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 29/2011 - Diário da República n.º 169/2011, Série I de 2011-09-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/29-2011-671659), produz efeitos a partir de 2011-06-21"
+   ],
+   "markdown": "###### Artigo 10.º — Presidência do Conselho de Ministros\n\n1 - A Presidência do Conselho de Ministros é o departamento central do Governo, tendo por missão prestar apoio ao Conselho de Ministros e aos demais membros do Governo nela integrados e promover a coordenação dos diversos departamentos governamentais que a integram.\n\n2 - Integram a Presidência do Conselho de Ministros:\n\na) O Vice-Primeiro-Ministro;\n\nb) Os ministros de Estado;\n\nc) O Ministro da Presidência e dos Assuntos Parlamentares;\n\nd) O Ministro Adjunto e do Desenvolvimento Regional;\n\ne) O Secretário de Estado Adjunto do Primeiro-Ministro;\n\nf) O Secretário de Estado da Cultura;\n\ng) A Secretária de Estado dos Assuntos Parlamentares e da Igualdade;\n\nh) O Secretário de Estado do Desporto e Juventude;\n\ni) O Secretário de Estado Adjunto do Ministro Adjunto e do Desenvolvimento Regional;\n\nj) O Secretário de Estado do Desenvolvimento Regional;\n\nk) O Secretário de Estado para a Modernização Administrativa;\n\nl) O Secretário de Estado da Administração Local.\n\n3 - A Presidência do Conselho de Ministros compreende os serviços, organismos, entidades e estruturas identificados no Decreto-Lei n.º 126-A/2011, de 29 de dezembro, e ainda todos os serviços, organismos e estruturas que não tenham sido expressamente integrados em outros ministérios.\n\n4 - Ficam também integrados na Presidência do Conselho de Ministros as Comissões de Coordenação e Desenvolvimento Regional, a Agência para o Investimento e Comércio Externo de Portugal, E.P.E., o Instituto Financeiro para o Desenvolvimento Regional, I.P., o Instituto de Gestão do Fundo Social Europeu, I.P., e o Observatório do Quadro de Referência Estratégico Nacional.\n\n5 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros, fica na dependência do Primeiro-Ministro, com faculdade de delegação, a definição de orientações à Sociedade para o Financiamento do Desenvolvimento, Instituição Financeira de Crédito, S. A.\n\n6 - Os serviços, organismos, entidades e estruturas integrados na Presidência do Conselho de Ministros dependem do Primeiro-Ministro, salvo disposição legal em contrário e sem prejuízo do disposto nos números seguintes, podendo a respetiva competência ser delegada, com faculdade de subdelegação, em outros membros do Governo.\n\n7 - [Revogado].\n\n8 - A Presidência do Conselho de Ministros assegura o apoio aos serviços dependentes do Primeiro-Ministro, nos termos do disposto no respectivo diploma orgânico.\n\n9 - Ao Ministro da Presidência e dos Assuntos Parlamentares compete assegurar as relações do Governo com a Assembleia da República e com os grupos parlamentares.\n\n10 -  [Revogado].\n\n11 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e ao membro do Governo responsável pela área das finanças, ficam na dependência do Ministro Adjunto e do Desenvolvimento Regional as entidades do setor empresarial do Estado no domínio da comunicação social, bem como o Gabinete para os Meios de Comunicação Social.\n\n12 - A definição de orientações, acompanhamento, avaliação e controlo global da gestão e execução dos investimentos financiados por fundos comunitários, no âmbito da política de coesão, são competência do Ministro Adjunto e do Desenvolvimento Regional, em articulação com a Ministra de Estado e das Finanças e com os demais ministros relevantes em razão das respetivas estruturas de gestão.\n\n13 -  [Revogado].\n\n14 - Consideram-se delegadas no Secretário de Estado da Cultura as competências de definição e execução de políticas de desenvolvimento cultural, de incentivo à criação artística e à difusão e internacionalização da cultura e da língua portuguesa, para o efeito ficando sob a sua superintendência e tutela os serviços, organismos e estruturas integrados ou dependentes do extinto Ministério da Cultura.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 29/2013 - Diário da República n.º 37/2013, Série I de 2013-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2013-258495), produz efeitos a partir de 2013-02-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 29/2011 - Diário da República n.º 169/2011, Série I de 2011-09-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/29-2011-671659), produz efeitos a partir de 2011-06-21"
+  },
+  "895613927": {
+   "fragment_id": "63958051",
+   "type": 11,
+   "heading": "Artigo 11.º — Finanças",
+   "in_force_from": "2013-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26"
+   ],
+   "markdown": "###### Artigo 11.º — Finanças\n\n1 - O Ministério das Finanças é o departamento governamental que tem por missão definir e conduzir a política financeira do Estado e as políticas para a Administração Pública.\n\n2 - O Ministério das Finanças compreende os serviços, organismos e entidades identificados no Decreto-Lei n.º 117/2011, de 15 de dezembro, alterado pelo Decreto-Lei n.º 200/2012, de 27 de agosto.\n\n3 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros, quando estejam em causa empresas participadas, as competências de definição das orientações da PARPÚBLICA - Participações Públicas (SGPS), S.A., e de acompanhamento da sua execução são exercidas pela Ministra de Estado e das Finanças, em articulação com o Ministro da Economia e com o ministro competente em razão da matéria.\n\n4 - A superintendência e tutela sobre o Instituto de Informática, I.P., é articulada pela Ministra de Estado e das Finanças com o Ministro da Solidariedade, Emprego e Segurança Social, para efeitos das matérias relacionadas com a coleta de contribuições.\n\n5 - Sem prejuízo dos poderes conferidos ao Conselho de Ministros e a outros ministros, a Ministra de Estado e das Finanças exerce em relação às demais entidades do sector empresarial do Estado as competências que lhe são cometidas por lei.\n\n6 - O Ministério das Finanças coordena a execução do memorando de entendimento com a União Europeia, o Fundo Monetário Internacional e o Banco Central Europeu.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26"
+  },
+  "895613928": {
+   "fragment_id": "63958052",
+   "type": 11,
+   "heading": "Artigo 12.º — Negócios Estrangeiros",
+   "in_force_from": "2013-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13"
+   ],
+   "markdown": "###### Artigo 12.º — Negócios Estrangeiros\n\n1 - O Ministério dos Negócios Estrangeiros é o departamento governamental que tem por missão formular, coordenar e executar a política externa de Portugal.\n\n2 - O Ministério dos Negócios Estrangeiros compreende os serviços, organismos, entidades e estruturas identificados no Decreto-Lei n.º 121/2011, de 29 de dezembro.\n\n3 - A Comissão Interministerial de Limites e Bacias Hidrográficas Luso-Espanholas fica na dependência do Ministro do Estado e dos Negócios Estrangeiros, em articulação com o Ministro do Ambiente, Ordenamento do Território e Energia.\n\n4 - [Revogado].\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13"
+  },
+  "895613929": {
+   "fragment_id": "63958053",
+   "type": 11,
+   "heading": "Artigo 13.º — Defesa Nacional",
+   "in_force_from": "2013-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26",
+    "Retificado pelo/a [Declaração de Rectificação n.º 29/2011 - Diário da República n.º 169/2011, Série I de 2011-09-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/29-2011-671659), produz efeitos a partir de 2011-06-21"
+   ],
+   "markdown": "###### Artigo 13.º — Defesa Nacional\n\n1 - O Ministério da Defesa Nacional é o departamento governamental que tem por missão a preparação e a execução da política de defesa nacional no âmbito das atribuições que lhe são conferidas pela Lei de Defesa Nacional, bem como assegurar e fiscalizar a administração das Forças Armadas e dos demais serviços, organismos e entidades nele incorporados.\n\n2 - O Ministério da Defesa Nacional compreende os serviços, organismos, entidades e estruturas identificados no Decreto-Lei n.º 122/2011, de 29 de dezembro.\n\n3 - [Revogado].\n\n4 - A competência relativa à definição das orientações estratégicas para o Instituto Hidrográfico, bem como o acompanhamento da sua execução, são exercidos pelo Ministro da Defesa Nacional, em articulação com a Ministra da Agricultura e do Mar e com o Ministro da Educação e Ciência.\n\n5 - O acompanhamento da Agência Europeia de Segurança Marítima compete ao Ministro da Defesa Nacional, em articulação com a Ministra da Agricultura e do Mar.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26\n\n> Retificado pelo/a [Declaração de Rectificação n.º 29/2011 - Diário da República n.º 169/2011, Série I de 2011-09-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/29-2011-671659), produz efeitos a partir de 2011-06-21"
+  },
+  "895613930": {
+   "fragment_id": "63958054",
+   "type": 11,
+   "heading": "Artigo 14.º — Administração Interna",
+   "in_force_from": "2013-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26"
+   ],
+   "markdown": "###### Artigo 14.º — Administração Interna\n\n1 - O Ministério da Administração Interna é o departamento governamental que tem por missão a formulação, coordenação, execução e avaliação das políticas de segurança interna, do controlo de fronteiras, de protecção e socorro, de segurança rodoviária e de administração eleitoral.\n\n2 - O Ministério da Administração Interna compreende os serviços identificados no Decreto-Lei n.º 126-B/2011, de 29 de dezembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26"
+  },
+  "895613931": {
+   "fragment_id": "63958055",
+   "type": 11,
+   "heading": "Artigo 15.º — Justiça",
+   "in_force_from": "2013-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26"
+   ],
+   "markdown": "###### Artigo 15.º — Justiça\n\n1 - O Ministério da Justiça é o departamento governamental que tem por missão a concepção, condução, execução e avaliação da política de justiça definida pela Assembleia da República e pelo Governo.\n\n2 - O Ministério da Justiça compreende os serviços, organismos e estruturas identificados no Decreto-Lei n.º 123/2011, de 29 de dezembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26"
+  },
+  "895613932": {
+   "fragment_id": "63958056",
+   "type": 11,
+   "heading": "Artigo 16.º — Economia",
+   "in_force_from": "2013-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13",
+    "Retificado pelo/a [Declaração de Rectificação n.º 29/2011 - Diário da República n.º 169/2011, Série I de 2011-09-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/29-2011-671659), produz efeitos a partir de 2011-06-21"
+   ],
+   "markdown": "###### Artigo 16.º — Economia\n\n1 - O Ministério da Economia é o departamento governamental que tem por missão a conceção, execução e avaliação das políticas de desenvolvimento dirigidas ao crescimento da economia, da competitividade, de inovação, de internacionalização das empresas e de promoção do comércio externo, de promoção e atração de investimento nacional e estrangeiro, bem como as políticas de turismo, de defesa dos consumidores, da construção e do imobiliário, da regulação dos contratos públicos, de infraestruturas, de transportes e de comunicações.\n\n2 - O Ministério da Economia compreende os serviços, organismos, entidades e estruturas identificados no Decreto-Lei n.º 126-C/2011, de 29 de dezembro, alterado pelo Decreto-Lei n.º 266/2012, de 28 de dezembro, sem prejuízo das transferências para o Ministério do Ambiente, Ordenamento do Território e Energia e para o Ministério da Solidariedade, Emprego e Segurança Social, referidas, respetivamente, nos artigos 16.º-A e 20.º\n\n3 - [Revogado].\n\n4 - [Revogado].\n\n5 - [Revogado].\n\n6 - [Revogado].\n\n7 - [Revogado].\n\n8 - A superintendência e tutela sobre a Agência Nacional para a Qualificação e o Ensino Profissional, I.P., é articulada pelo Ministro da Economia com o Ministro da Educação e Ciência e o Ministro da Solidariedade, Emprego e Segurança Social.\n\n9 - O Ministro da Economia exerce conjuntamente com a Ministra da Agricultura e do Mar a superintendência e tutela sobre o Instituto Portuário e dos Transportes Marítimos, I.P., bem como sobre as administrações portuárias.\n\n10 - [Revogado].\n\n11 - A Agência de Inovação - Inovação Empresarial e Transferência de Tecnologia, S.A., fica na dependência do Ministro da Economia, em articulação com o Ministro da Educação e Ciência.\n\n12 - O exercício da superintendência e tutela sobre o Instituto do Emprego e da Formação Profissional, I.P., é articulado pelo Ministro da Economia com o Ministro da Solidariedade, Emprego e Segurança Social.\n\n13 - [Revogado].\n\n14 - [Revogado].\n\n15 - [Revogado].\n\n16 - Sem prejuízo das competências cometidas ao Conselho de Ministros e aos membros do Governo, a promoção, atração e acompanhamento da execução de investimentos nacionais e estrangeiros compete ao Ministro da Economia.\n\n17 - Sem prejuízo das competências cometidas ao Conselho de Ministros e à Ministra de Estado e das Finanças, compete ao Ministro do Economia a definição das orientações do sector empresarial do Estado nas áreas referidas no n.º 1.\n\n18 - São transferidas para o Ministério do Ambiente, Ordenamento do Território e Energia as competências relativas à definição de orientações do sector empresarial do Estado nos sectores energético e geológico.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13\n\n> Retificado pelo/a [Declaração de Rectificação n.º 29/2011 - Diário da República n.º 169/2011, Série I de 2011-09-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/29-2011-671659), produz efeitos a partir de 2011-06-21"
+  },
+  "895613937": {
+   "fragment_id": "895613539",
+   "type": 11,
+   "heading": "Artigo 16.º-A — Ambiente, Ordenamento do Território e Energia",
+   "in_force_from": "2013-08-26",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26"
+   ],
+   "markdown": "###### Artigo 16.º-A — Ambiente, Ordenamento do Território e Energia\n\n1 - O Ministério do Ambiente, Ordenamento do Território e Energia é o departamento governamental que tem por missão a definição, coordenação e execução das políticas de ambiente, ordenamento do território, cidades, habitação, clima, conservação da natureza, energia, geologia e ecoinovação, numa perspetiva de desenvolvimento sustentável e de coesão social e territorial, bem como assegurar o planeamento e a coordenação da aplicação de fundos nacionais e comunitários a favor do ambiente e qualidade de vida e da valorização dos recursos energéticos e territoriais.\n\n2 - Transitam para o Ministério do Ambiente, Ordenamento do Território e Energia os seguintes serviços, organismos e entidades:\n\na) Direção-Geral de Energia e Geologia;\n\nb) Direção-Geral do Território;\n\nc) Agência Portuguesa do Ambiente, I.P.;\n\nd) Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território;\n\ne) Instituto da Habitação e da Reabilitação Urbana, I.P.;\n\nf) Laboratório Nacional de Energia e Geologia, I.P.;\n\ng) Unidade Nacional de Gestão do Mecanismo Financeiro do Espaço Económico Europeu;\n\nh) Entidade Reguladora dos Serviços Energéticos;\n\ni) Entidade Reguladora dos Serviços de Águas e Resíduos;\n\nj) Conselho Nacional do Ambiente e Desenvolvimento Sustentável;\n\nk) Conselho Nacional da Água.\n\n3 - O Ministro do Ambiente, Ordenamento do Território e Energia exerce conjuntamente com o Ministro Adjunto e do Desenvolvimento Regional a superintendência e tutela das Comissões de Coordenação e Desenvolvimento Regional, competindo-lhe definir as orientações, estratégias e fixação de objetivos nas matérias do ambiente, ordenamento do território e cidades.\n\n4 - O Ministro do Ambiente, Ordenamento do Território e Energia exerce conjuntamente com a Ministra da Agricultura e do Mar a superintendência e tutela do Instituto da Conservação da Natureza e das Florestas, I.P., competindo-lhe definir as orientações, estratégias e fixação de objetivos nas matérias da conservação da natureza, áreas protegidas e biodiversidade.\n\n5 - A superintendência e tutela sobre a Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território é exercida em conjunto pelo Ministro do Ambiente, Ordenamento do Território e Energia e pela Ministra da Agricultura e do Mar.\n\n6 - Sem prejuízo das competências legalmente cometidas ao Conselho de Ministros e à Ministra de Estado e das Finanças, compete ao Ministro do Ambiente, Ordenamento do Território e Energia a definição das orientações do sector empresarial do Estado nas áreas das águas e dos resíduos, do ordenamento do território, reabilitação urbana e política de cidades, e nos sectores energético e geológico.\n\n7 - A Comissão Interministerial de Limites e Bacias Hidrográficas Luso-Espanholas depende do Ministro de Estado e dos Negócios Estrangeiros, em articulação com o Ministro do Ambiente, Ordenamento do Território e Energia.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26"
+  },
+  "895613938": {
+   "fragment_id": "63958057",
+   "type": 11,
+   "heading": "Artigo 17.º — Agricultura e do Mar",
+   "in_force_from": "2013-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26",
+    "Retificado pelo/a [Declaração de Rectificação n.º 29/2011 - Diário da República n.º 169/2011, Série I de 2011-09-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/29-2011-671659), produz efeitos a partir de 2011-06-21"
+   ],
+   "markdown": "###### Artigo 17.º — Agricultura e do Mar\n\n1 - O Ministério da Agricultura e do Mar é o departamento governamental que tem por missão a definição, coordenação e execução de políticas agrícolas, agroalimentar, florestal, de desenvolvimento rural, de exploração e potenciação dos recursos do mar, bem como assegurar o planeamento e a coordenação da aplicação de fundos nacionais e comunitários a favor da agricultura, das florestas, do desenvolvimento rural e da política do mar.\n\n2 - O Ministério da Agricultura e do Mar compreende os serviços, organismos, entidades e estruturas identificados no Decreto-Lei n.º 7/2012, de 17 de janeiro, sem prejuízo das transferências para o Ministério do Ambiente, Ordenamento do Território e Energia nos termos do artigo 16.º-A.\n\n3 - Sem prejuízo do disposto no número seguinte e das competências legalmente cometidas ao Conselho de Ministros e à Ministra de Estado e das Finanças, compete à Ministra da Agricultura e do Mar a definição das orientações do sector empresarial do Estado nas áreas da agricultura, do mar e das florestas.\n\n4 - São transferidas para o Ministério do Ambiente, Ordenamento do Território e Energia as competências relativas à definição de orientações do sector empresarial do Estado nas áreas das águas e resíduos, do ordenamento do território, reabilitação urbana e política de cidades.\n\n5 - A Ministra da Agricultura e do Mar exerce conjuntamente com o Ministro da Economia a superintendência e tutela sobre o Instituto Portuário e dos Transportes Marítimos, I.P., bem como sobre as administrações portuárias.\n\n6 - [Revogado].\n\n7 - A definição de orientações estratégicas para o Instituto Hidrográfico, na dependência do Ministro da Defesa Nacional, bem como o acompanhamento da sua execução, são feitos em articulação com a Ministra da Agricultura e do Mar e com o Ministro da Educação e Ciência.\n\n8 - A definição de orientações estratégicas para a Escola Superior Náutica Infante D. Henrique, bem como o acompanhamento da sua execução são exercidos pela Ministra da Agricultura e do Mar em conjunto com os Ministros da Educação e Ciência e da Economia.\n\n9 - A Ministra da Agricultura e do Mar exerce conjuntamente com o Ministro do Ambiente, Ordenamento do Território e Energia a superintendência e tutela, nas áreas da agricultura, do mar e das florestas, sobre a Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, que é transferida para o Ministério do Ambiente, Ordenamento do Território e Energia.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26\n\n> Retificado pelo/a [Declaração de Rectificação n.º 29/2011 - Diário da República n.º 169/2011, Série I de 2011-09-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/29-2011-671659), produz efeitos a partir de 2011-06-21"
+  },
+  "895613939": {
+   "fragment_id": "63958058",
+   "type": 11,
+   "heading": "Artigo 18.º — Saúde",
+   "in_force_from": "2013-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26"
+   ],
+   "markdown": "###### Artigo 18.º — Saúde\n\n1 - O Ministério da Saúde é o departamento governamental que tem por missão definir e conduzir a política nacional de saúde, garantindo uma aplicação e utilização sustentáveis de recursos e a avaliação dos seus resultados.\n\n2 - O Ministério da Saúde compreende os serviços, organismos e entidades identificados no Decreto-Lei n.º 124/2011, de 29 de dezembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26"
+  },
+  "895613940": {
+   "fragment_id": "63958059",
+   "type": 11,
+   "heading": "Artigo 19.º — Educação e Ciência",
+   "in_force_from": "2013-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13",
+    "Retificado pelo/a [Declaração de Rectificação n.º 29/2011 - Diário da República n.º 169/2011, Série I de 2011-09-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/29-2011-671659), produz efeitos a partir de 2011-06-21"
+   ],
+   "markdown": "###### Artigo 19.º — Educação e Ciência\n\n1 - O Ministério da Educação e Ciência é o departamento governamental que tem por missão definir, coordenar, executar e avaliar as políticas nacionais dirigidas ao sistema educativo, ao ensino superior, à ciência e à sociedade da informação, articulando-as como as políticas de qualificação e formação profissional.\n\n2 - O Ministério da Educação e Ciência compreende os serviços, organismos e estruturas identificados pelo Decreto-Lei n.º 125/2011, de 29 de dezembro, alterado pelos Decretos-Leis n.os 266-G/2012, de 31 de dezembro, e 102/2013, de 25 de julho.\n\n3 - A superintendência e tutela sobre a Agência Nacional para a Qualificação e o Ensino Profissional, I.P., é exercida pelo Ministro da Educação e Ciência conjuntamente com o Ministro da Solidariedade, Emprego e Segurança Social e articulada com o Ministro da Economia.\n\n4 - A superintendência sobre a Agência de Inovação - Inovação Empresarial e Transferência de Tecnologia, S.A., é articulada pelo Ministro da Economia com o Ministro da Educação e Ciência.\n\n5 - A definição de orientações estratégicas para a Escola Superior Náutica Infante D. Henrique, bem como o acompanhamento da sua execução, são exercidos pelo Ministro da Educação e Ciência em conjunto com o Ministro da Economia e com a Ministra da Agricultura e do Mar.\n\n6 - A definição de orientações estratégicas para o Instituto Hidrográfico, na dependência do Ministro da Defesa Nacional, bem como o acompanhamento da sua execução, são feitos em articulação com a Ministra da Agricultura e do Mar e com o Ministro da Educação e Ciência.\n\n7 - O Ministro da Educação e Ciência participa na superintendência e tutela do Instituto de Gestão do Fundo Social Europeu, I.P., em conjunto com o Ministro Adjunto e do Desenvolvimento Regional e o Ministro da Solidariedade, Emprego e Segurança Social.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13\n\n> Retificado pelo/a [Declaração de Rectificação n.º 29/2011 - Diário da República n.º 169/2011, Série I de 2011-09-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/29-2011-671659), produz efeitos a partir de 2011-06-21"
+  },
+  "895613941": {
+   "fragment_id": "63958060",
+   "type": 11,
+   "heading": "Artigo 20.º — Solidariedade, Emprego e Segurança Social",
+   "in_force_from": "2013-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13"
+   ],
+   "markdown": "###### Artigo 20.º — Solidariedade, Emprego e Segurança Social\n\n1 - O Ministério da Solidariedade, Emprego e Segurança Social é o departamento governamental que tem por missão a definição, promoção e execução de políticas de solidariedade e segurança social, combate à pobreza e à exclusão social, apoio à família e à natalidade, a crianças e jovens em risco, a idosos, à inclusão de pessoas com deficiência, de promoção do voluntariado e de cooperação ativa e partilha de responsabilidades com as instituições do sector social, bem como as políticas de desenvolvimento dirigidas ao crescimento do emprego sustentável e de formação profissional e a aposta na mobilidade e modernização nas relações de trabalho.\n\n2 - O Ministério da Solidariedade, Emprego e Segurança Social compreende os serviços, organismos e estruturas identificados no Decreto-Lei n.º 126/2011, de 29 de dezembro, e os referidos no número seguinte.\n\n3 - Transitam para o Ministério da Solidariedade, Emprego e Segurança Social os seguintes serviços e organismos:\n\na) Autoridade para as Condições de Trabalho;\n\nb) Direção-Geral do Emprego e das Relações de Trabalho;\n\nc) Instituto do Emprego e da Formação Profissional, I.P.;\n\nd) Conselho Nacional da Formação Profissional;\n\ne) Conselho Nacional de Higiene e Segurança no Trabalho;\n\nf) Comissão para a Igualdade no Trabalho e no Emprego;\n\ng) Centro de Relações Laborais.\n\n4 - O exercício da superintendência e tutela sobre o Instituto de Informática, I.P., é articulado pelo Ministro da Solidariedade, Emprego e Segurança Social com a Ministra de Estado e das Finanças, para efeitos das matérias relacionadas com a coleta de contribuições.\n\n5 - O Ministro da Solidariedade, Emprego e Segurança Social exerce a superintendência e tutela do Instituto de Gestão do Fundo Social Europeu, I.P., em conjunto com o Ministro Adjunto e do Desenvolvimento Regional e o Ministro da Educação e Ciência.\n\n6 - A superintendência e tutela sobre a Agência Nacional para a Qualificação e o Ensino Profissional, I.P., é exercida pelo Ministro da Solidariedade, Emprego e Segurança Social conjuntamente com o Ministro da Educação e Ciência e articulada com o Ministro da Economia.\n\n7 - A superintendência e tutela sobre o Instituto do Emprego e da Formação Profissional, I.P., é exercida pelo Ministro da Solidariedade, Emprego e Segurança Social em articulação com o Ministro da Economia.\n\n8 - A superintendência sobre a Comissão para a Igualdade no Trabalho e no Emprego é articulada com o membro do Governo responsável pela área da igualdade de género.\n\n9  - O Conselho Consultivo das Famílias e a Comissão para a Promoção de Políticas de Família funcionam sob articulação conjunta com o membro do Governo responsável pela área da igualdade de género.\n\n10 - O Ministro da Solidariedade, Emprego e Segurança Social exerce a coordenação e a execução do programa Impulso Jovem, em articulação com o Ministro da Presidência e dos Assuntos Parlamentares.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13"
+  },
+  "895810090": {
+   "fragment_id": "63958062",
+   "type": 11,
+   "heading": "Artigo 21.º — Extinção",
+   "in_force_from": "2013-08-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26"
+   ],
+   "markdown": "###### Artigo 21.º — Extinção\n\n1 - São extintos os Ministérios da Economia, da Inovação e do Desenvolvimento, da Agricultura, do Desenvolvimento Rural e das Pescas, das Obras Públicas, Transportes e Comunicações, do Ambiente e do Ordenamento do Território, do Trabalho e da Solidariedade Social, da Educação, da Ciência, Tecnologia e Ensino Superior e da Cultura, sendo a estrutura orgânica constante do Decreto-Lei n.º 321/2009, de 11 de Dezembro, com as respectivas alterações, substituída pela estabelecida no presente diploma.\n\n2 - Os direitos e obrigações de que eram titulares os departamentos, organismos, serviços ou entidades objecto de alterações na estrutura orgânica do Governo são automaticamente transferidos para os novos departamentos, nos termos do presente diploma, sem dependência de qualquer formalidade.\n\n3 - As alterações na estrutura orgânica do Governo são acompanhadas pelo consequente movimento de pessoal, sem dependência de qualquer formalidade e sem que daí resulte qualquer perda de direitos ou deveres adquiridos.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26"
+  },
+  "895810091": {
+   "fragment_id": "63958063",
+   "type": 11,
+   "heading": "Artigo 22.º — Disposição transitória",
+   "in_force_from": "2013-08-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26"
+   ],
+   "markdown": "###### Artigo 22.º — Disposição transitória\n\n1 - Com a cessação de funções dos governadores e vice-governadores civis nomeados pelo XVIII Governo e face à vagatura do cargo, o exercício das suas competências é assegurado pelo Ministro da Administração Interna até à extinção dos governos civis e consequente redistribuição de funções por outros órgãos ou serviços da administração local e central do Estado.\n\n2 - As competências referidas no número anterior podem ser delegadas, com faculdade de subdelegação.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26"
+  },
+  "863746100": {
+   "fragment_id": "63958067",
+   "type": 11,
+   "heading": "Artigo 26.º — Gabinete do Secretário de Estado da Presidência do Conselho de Ministros",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13"
+   ],
+   "markdown": "###### Artigo 26.º — Gabinete do Secretário de Estado da Presidência do Conselho de Ministros\n\nPara efeitos da aplicação da legislação sobre a constituição de gabinetes de membros do Governo, o Gabinete do Secretário de Estado da Presidência do Conselho de Ministros é equiparado a gabinete ministerial.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13"
+  },
+  "63823328": {
+   "fragment_id": "63958069",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 5 de Julho de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo de Sacadura Cabral Portas - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva - Paula Maria Von Hafe Teixeira da Cruz - Miguel Fernando Cassola de Miranda Relvas - Álvaro Santos Pereira - Maria da Assunção de Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.\n\nPromulgado em 11 de Julho de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 11 de Julho de 2011.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "895688810": {
+   "fragment_id": "63958041",
+   "type": 11,
+   "heading": "Artigo 3.º — Secretários e Subsecretária de Estado",
+   "in_force_from": "2014-02-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2014 - Diário da República n.º 28/2014, Série I de 2014-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2014-570735), em vigor a partir de 2014-02-15",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 29/2013 - Diário da República n.º 37/2013, Série I de 2013-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2013-258495), produz efeitos a partir de 2013-02-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 246/2012 - Diário da República n.º 219/2012, Série I de 2012-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2012-192036), produz efeitos a partir de 2012-10-26"
+   ],
+   "markdown": "###### Artigo 3.º — Secretários e Subsecretária de Estado\n\n1 - O Primeiro-Ministro é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Primeiro-Ministro e pelo Secretário de Estado da Cultura.\n\n2 - O Vice-Primeiro-Ministro é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Vice-Primeiro-Ministro e pela Subsecretária de Estado Adjunta do Vice-Primeiro-Ministro.\n\n3 - A Ministra de Estado e das Finanças é coadjuvada no exercício das suas funções pelo Secretário de Estado Adjunto e do Orçamento, pela Secretária de Estado do Tesouro, pelo Secretário de Estado das Finanças, pelo Secretário de Estado dos Assuntos Fiscais e pelo Secretário de Estado da Administração Pública.\n\n4 - O Ministro de Estado e dos Negócios Estrangeiros é coadjuvado no exercício das suas funções pelo Secretário de Estado dos Negócios Estrangeiros e da Cooperação, pelo Secretário de Estado dos Assuntos Europeus e pelo Secretário de Estado das Comunidades Portuguesas.\n\n5 - O Ministro da Defesa Nacional é coadjuvado no exercício das suas funções pela Secretária de Estado Adjunta e da Defesa Nacional.\n\n6 - O Ministro da Administração Interna é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Administração Interna e pelo Secretário de Estado da Administração Interna.\n\n7 - A Ministra da Justiça é coadjuvada no exercício das suas funções pelo Secretário de Estado da Justiça.\n\n8 - O Ministro da Presidência e dos Assuntos Parlamentares é coadjuvado no exercício das suas funções pela Secretária de Estado dos Assuntos Parlamentares e da Igualdade e pelo Secretário de Estado do Desporto e Juventude.\n\n9 - O Ministro Adjunto e do Desenvolvimento Regional é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro Adjunto e do Desenvolvimento Regional, pelo Secretário de Estado do Desenvolvimento Regional, pelo Secretário de Estado para a Modernização Administrativa e pelo Secretário de Estado da Administração Local.\n\n10 -  O Ministro da Economia é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto e da Economia, pelo Secretário de Estado da Inovação, Investimento e Competitividade, pelo Secretário de Estado das Infraestruturas, Transportes e Comunicações e pelo Secretário de Estado do Turismo.\n\n11 - O Ministro do Ambiente, Ordenamento do Território e Energia é coadjuvado no exercício das suas funções pelo Secretário de Estado do Ambiente, pelo Secretário de Estado da Energia e pelo Secretário de Estado do Ordenamento do Território e da Conservação da Natureza.\n\n12 - A Ministra da Agricultura e do Mar é coadjuvada no exercício das suas funções pelo Secretário de Estado da Agricultura, pelo Secretário de Estado das Florestas e do Desenvolvimento Rural, pelo Secretário de Estado do Mar e pelo Secretário de Estado da Alimentação e da Investigação Agroalimentar.\n\n13 - O Ministro da Saúde é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Saúde e pelo Secretário de Estado da Saúde.\n\n14 - O Ministro da Educação e Ciência é coadjuvado no exercício das suas funções pelo Secretário de Estado do Ensino Superior, pela Secretária de Estado da Ciência, pelo Secretário de Estado do Ensino e da Administração Escolar e pelo Secretário de Estado do Ensino Básico e Secundário.\n\n15 - O Ministro da Solidariedade, Emprego e Segurança Social é coadjuvado no exercício das suas funções pelo Secretário de Estado da Solidariedade e da Segurança Social e pelo Secretário de Estado do Emprego.\n\n> Nota: [Artigo 3.º, Decreto-Lei n.º 20/2014 - Diário da República n.º 28/2014, Série I de 2014-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2014-570735) As alterações ao presente diploma produzem efeitos, respetivamente, a partir de 2 de setembro de 2013 e de 30 de dezembro de 2013, relativamente a cada um dos membros do Governo a que respeitam, nomeados nessas datas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2014 - Diário da República n.º 28/2014, Série I de 2014-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2014-570735), em vigor a partir de 2014-02-15\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 29/2013 - Diário da República n.º 37/2013, Série I de 2013-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2013-258495), produz efeitos a partir de 2013-02-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 246/2012 - Diário da República n.º 219/2012, Série I de 2012-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2012-192036), produz efeitos a partir de 2012-10-26"
+  },
+  "895688838": {
+   "fragment_id": "63958040",
+   "type": 11,
+   "heading": "Artigo 2.º — Vice-Primeiro-Ministro e ministros",
+   "in_force_from": "2014-12-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 178/2014 - Diário da República n.º 243/2014, Série I de 2014-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2014-65908883), em vigor a partir de 2014-12-22, produz efeitos a partir de 2014-11-19",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13"
+   ],
+   "markdown": "###### Artigo 2.º — Vice-Primeiro-Ministro e ministros\n\nIntegram o Governo os:\n\na) Vice-Primeiro-Ministro;\n\nb) Ministra de Estado e das Finanças;\n\nc) [Anterior alínea b)];\n\nd) [Anterior alínea c)];\n\ne) Ministra da Administração Interna;\n\nf) [Anterior alínea e)];\n\ng) [Anterior alínea f)];\n\nh) [Anterior alínea g)];\n\ni) Ministro da Economia;\n\nj) Ministro do Ambiente, Ordenamento do Território e Energia;\n\nk) Ministra da Agricultura e do Mar;\n\nl) [Anterior alínea j)];\n\nm) [Anterior alínea k)];\n\nn) Ministro da Solidariedade, Emprego e Segurança Social.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 178/2014 - Diário da República n.º 243/2014, Série I de 2014-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2014-65908883), em vigor a partir de 2014-12-22, produz efeitos a partir de 2014-11-19\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13"
+  },
+  "895688839": {
+   "fragment_id": "63958041",
+   "type": 11,
+   "heading": "Artigo 3.º — Secretários e Subsecretária de Estado",
+   "in_force_from": "2014-12-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 178/2014 - Diário da República n.º 243/2014, Série I de 2014-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2014-65908883), em vigor a partir de 2014-12-22, produz efeitos a partir de 2014-11-19",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2014 - Diário da República n.º 28/2014, Série I de 2014-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2014-570735), em vigor a partir de 2014-02-15",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 29/2013 - Diário da República n.º 37/2013, Série I de 2013-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2013-258495), produz efeitos a partir de 2013-02-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 246/2012 - Diário da República n.º 219/2012, Série I de 2012-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2012-192036), produz efeitos a partir de 2012-10-26"
+   ],
+   "markdown": "###### Artigo 3.º — Secretários e Subsecretária de Estado\n\n1 - O Primeiro-Ministro é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Primeiro-Ministro e pelo Secretário de Estado da Cultura.\n\n2 - O Vice-Primeiro-Ministro é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Vice-Primeiro-Ministro e pela Subsecretária de Estado Adjunta do Vice-Primeiro-Ministro.\n\n3 - A Ministra de Estado e das Finanças é coadjuvada no exercício das suas funções pelo Secretário de Estado Adjunto e do Orçamento, pela Secretária de Estado do Tesouro, pelo Secretário de Estado das Finanças, pelo Secretário de Estado dos Assuntos Fiscais e pelo Secretário de Estado da Administração Pública.\n\n4 - O Ministro de Estado e dos Negócios Estrangeiros é coadjuvado no exercício das suas funções pelo Secretário de Estado dos Negócios Estrangeiros e da Cooperação, pelo Secretário de Estado dos Assuntos Europeus e pelo Secretário de Estado das Comunidades Portuguesas.\n\n5 - O Ministro da Defesa Nacional é coadjuvado no exercício das suas funções pela Secretária de Estado Adjunta e da Defesa Nacional.\n\n6 - A Ministra da Administração Interna é coadjuvada no exercício das suas funções pelo Secretário de Estado Adjunto da Ministra da Administração Interna e pelo Secretário de Estado da Administração Interna.\n\n7 - A Ministra da Justiça é coadjuvada no exercício das suas funções pelo Secretário de Estado da Justiça.\n\n8 - O Ministro da Presidência e dos Assuntos Parlamentares é coadjuvado no exercício das suas funções pela Secretária de Estado dos Assuntos Parlamentares e da Igualdade e pelo Secretário de Estado do Desporto e Juventude.\n\n9 - O Ministro Adjunto e do Desenvolvimento Regional é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro Adjunto e do Desenvolvimento Regional, pelo Secretário de Estado do Desenvolvimento Regional, pelo Secretário de Estado para a Modernização Administrativa e pelo Secretário de Estado da Administração Local.\n\n10 -  O Ministro da Economia é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto e da Economia, pelo Secretário de Estado da Inovação, Investimento e Competitividade, pelo Secretário de Estado das Infraestruturas, Transportes e Comunicações e pelo Secretário de Estado do Turismo.\n\n11 - O Ministro do Ambiente, Ordenamento do Território e Energia é coadjuvado no exercício das suas funções pelo Secretário de Estado do Ambiente, pelo Secretário de Estado da Energia e pelo Secretário de Estado do Ordenamento do Território e da Conservação da Natureza.\n\n12 - A Ministra da Agricultura e do Mar é coadjuvada no exercício das suas funções pelo Secretário de Estado da Agricultura, pelo Secretário de Estado das Florestas e do Desenvolvimento Rural, pelo Secretário de Estado do Mar e pelo Secretário de Estado da Alimentação e da Investigação Agroalimentar.\n\n13 - O Ministro da Saúde é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Saúde e pelo Secretário de Estado da Saúde.\n\n14 - O Ministro da Educação e Ciência é coadjuvado no exercício das suas funções pelo Secretário de Estado do Ensino Superior, pela Secretária de Estado da Ciência, pelo Secretário de Estado do Ensino e da Administração Escolar e pelo Secretário de Estado do Ensino Básico e Secundário.\n\n15 - O Ministro da Solidariedade, Emprego e Segurança Social é coadjuvado no exercício das suas funções pelo Secretário de Estado da Solidariedade e da Segurança Social e pelo Secretário de Estado do Emprego.\n\n> Nota: [Artigo 3.º, Decreto-Lei n.º 20/2014 - Diário da República n.º 28/2014, Série I de 2014-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2014-570735) As alterações ao presente diploma produzem efeitos, respetivamente, a partir de 2 de setembro de 2013 e de 30 de dezembro de 2013, relativamente a cada um dos membros do Governo a que respeitam, nomeados nessas datas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 178/2014 - Diário da República n.º 243/2014, Série I de 2014-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2014-65908883), em vigor a partir de 2014-12-22, produz efeitos a partir de 2014-11-19\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2014 - Diário da República n.º 28/2014, Série I de 2014-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2014-570735), em vigor a partir de 2014-02-15\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 29/2013 - Diário da República n.º 37/2013, Série I de 2013-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2013-258495), produz efeitos a partir de 2013-02-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 246/2012 - Diário da República n.º 219/2012, Série I de 2012-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2012-192036), produz efeitos a partir de 2012-10-26"
+  },
+  "895688846": {
+   "fragment_id": "63958041",
+   "type": 11,
+   "heading": "Artigo 3.º — Secretários e Subsecretária de Estado",
+   "in_force_from": "2015-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 87/2015 - Diário da República n.º 102/2015, Série I de 2015-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2015-67323529), em vigor a partir de 2015-06-01, produz efeitos a partir de 2015-04-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 178/2014 - Diário da República n.º 243/2014, Série I de 2014-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2014-65908883), em vigor a partir de 2014-12-22, produz efeitos a partir de 2014-11-19",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2014 - Diário da República n.º 28/2014, Série I de 2014-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2014-570735), em vigor a partir de 2014-02-15",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 29/2013 - Diário da República n.º 37/2013, Série I de 2013-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2013-258495), produz efeitos a partir de 2013-02-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 246/2012 - Diário da República n.º 219/2012, Série I de 2012-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2012-192036), produz efeitos a partir de 2012-10-26"
+   ],
+   "markdown": "###### Artigo 3.º — Secretários e Subsecretária de Estado\n\n1 - O Primeiro-Ministro é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Primeiro-Ministro e pelo Secretário de Estado da Cultura.\n\n2 - O Vice-Primeiro-Ministro é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Vice-Primeiro-Ministro e pela Subsecretária de Estado Adjunta do Vice-Primeiro-Ministro.\n\n3 - A Ministra de Estado e das Finanças é coadjuvada no exercício das suas funções pelo Secretário de Estado Adjunto e do Orçamento, pela Secretária de Estado do Tesouro, pelo Secretário de Estado das Finanças, pelo Secretário de Estado dos Assuntos Fiscais e pelo Secretário de Estado da Administração Pública.\n\n4 - O Ministro de Estado e dos Negócios Estrangeiros é coadjuvado no exercício das suas funções pelo Secretário de Estado dos Negócios Estrangeiros e da Cooperação, pelo Secretário de Estado dos Assuntos Europeus e pelo Secretário de Estado das Comunidades Portuguesas.\n\n5 - O Ministro da Defesa Nacional é coadjuvado no exercício das suas funções pela Secretária de Estado Adjunta e da Defesa Nacional.\n\n6 - A Ministra da Administração Interna é coadjuvada no exercício das suas funções pelo Secretário de Estado da Administração Interna.\n\n7 - A Ministra da Justiça é coadjuvada no exercício das suas funções pelo Secretário de Estado da Justiça.\n\n8 - O Ministro da Presidência e dos Assuntos Parlamentares é coadjuvado no exercício das suas funções pela Secretária de Estado dos Assuntos Parlamentares e da Igualdade e pelo Secretário de Estado do Desporto e Juventude.\n\n9 - O Ministro Adjunto e do Desenvolvimento Regional é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro Adjunto e do Desenvolvimento Regional, pelo Secretário de Estado do Desenvolvimento Regional, pelo Secretário de Estado para a Modernização Administrativa e pelo Secretário de Estado da Administração Local.\n\n10 -  O Ministro da Economia é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto e da Economia, pelo Secretário de Estado da Inovação, Investimento e Competitividade, pelo Secretário de Estado das Infraestruturas, Transportes e Comunicações e pelo Secretário de Estado do Turismo.\n\n11 - O Ministro do Ambiente, Ordenamento do Território e Energia é coadjuvado no exercício das suas funções pelo Secretário de Estado do Ambiente, pelo Secretário de Estado da Energia e pelo Secretário de Estado do Ordenamento do Território e da Conservação da Natureza.\n\n12 - A Ministra da Agricultura e do Mar é coadjuvada no exercício das suas funções pelo Secretário de Estado da Agricultura, pelo Secretário de Estado das Florestas e do Desenvolvimento Rural, pelo Secretário de Estado do Mar e pelo Secretário de Estado da Alimentação e da Investigação Agroalimentar.\n\n13 - O Ministro da Saúde é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Saúde e pelo Secretário de Estado da Saúde.\n\n14 - O Ministro da Educação e Ciência é coadjuvado no exercício das suas funções pelo Secretário de Estado do Ensino Superior, pela Secretária de Estado da Ciência, pelo Secretário de Estado do Ensino e da Administração Escolar e pelo Secretário de Estado do Ensino Básico e Secundário.\n\n15 - O Ministro da Solidariedade, Emprego e Segurança Social é coadjuvado no exercício das suas funções pelo Secretário de Estado da Solidariedade e da Segurança Social e pelo Secretário de Estado do Emprego.\n\n> Nota: [Artigo 3.º, Decreto-Lei n.º 20/2014 - Diário da República n.º 28/2014, Série I de 2014-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2014-570735) As alterações ao presente diploma produzem efeitos, respetivamente, a partir de 2 de setembro de 2013 e de 30 de dezembro de 2013, relativamente a cada um dos membros do Governo a que respeitam, nomeados nessas datas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 87/2015 - Diário da República n.º 102/2015, Série I de 2015-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2015-67323529), em vigor a partir de 2015-06-01, produz efeitos a partir de 2015-04-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 178/2014 - Diário da República n.º 243/2014, Série I de 2014-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2014-65908883), em vigor a partir de 2014-12-22, produz efeitos a partir de 2014-11-19\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2014 - Diário da República n.º 28/2014, Série I de 2014-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2014-570735), em vigor a partir de 2014-02-15\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), em vigor a partir de 2013-08-26\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2013 - Diário da República n.º 89/2013, Série I de 2013-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), produz efeitos a partir de 2013-04-13\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 29/2013 - Diário da República n.º 37/2013, Série I de 2013-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2013-258495), produz efeitos a partir de 2013-02-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 246/2012 - Diário da República n.º 219/2012, Série I de 2012-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2012-192036), produz efeitos a partir de 2012-10-26"
+  }
+ }
+}

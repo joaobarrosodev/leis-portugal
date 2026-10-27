@@ -1,0 +1,109 @@
+---
+schema_version: '1.0'
+id: pt:dre:388195:por
+title: Decreto-Lei n.º 47998
+short_title: null
+summary: Altera a constituição da Comissão de Construções Hospitalares, a que se refere o artigo 2.º do Decreto-Lei n.º 41497
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas
+proposing_entity: null
+official_number: '47998'
+official_date: null
+publication_date: '1967-10-20'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 245/1967, Série I de 1967-10-20
+  number: '245'
+  series: I
+  supplement: null
+  pages: 1871 - 1871
+  pdf_url: https://files.diariodarepublica.pt/1s/1967/10/24500/18711871.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '388195'
+  dre_path: /dr/detalhe/decreto-lei/47998-1967-388195
+  internal: pt:dre:388195:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47998-1967-388195
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47998-1967-388195
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:02:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 9b8245d4373f30087c004d2ee17e239877a2710b909fac21973b0800e13c1280
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:02:58Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão de Construções Hospitalares
+- Estabelecimento Hospitalar
+- Ministério das Obras Públicas
+- Obras Públicas
+- Vice-presidente
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:173122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251427:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:02:58Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 47998
+
+A amplitude das incumbências confiadas à Comissão de Construções Hospitalares e o empenho do Governo em proporcionar-lhes a mais eficiente execução aconselham, numa primeira fase, a alargar a sua composição, definida no [Decreto-Lei n.º 41497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41497-1957-251427), de 31 de Dezembro de 1957, e no artigo 5.º do [Decreto-Lei n.º 43853](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43853-1961-173122), de 10 de Agosto de 1961, criando o cargo de vice-presidente e nela dando representação ao inspector superior de instalações e equipamento da Direcção-Geral dos Hospitais.
+
+Oportunamente se efectuará a revisão geral da sua orgânica, em termos de a adaptar à responsabilidade que lhe caberá na execução do III Plano de Fomento. Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo único. A Comissão a que se refere o artigo 2.º do [Decreto-Lei n.º 41497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41497-1957-251427), de 31 de Dezembro de 1957, será também constituída por um vice-presidente, que será um engenheiro designado pelo Ministro das Obras Públicas, e por um outro vogal, que será o inspector superior de instalações e equipamento da Direcção-Geral dos Hospitais.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 20 de Outubro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

@@ -1,0 +1,446 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:247991:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2008-34455275",
+ "dre_path": "/dr/detalhe/lei/11-2008-247991",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-02-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "45196475",
+    "45196575",
+    "45196675",
+    "45196775",
+    "45196875",
+    "45196975",
+    "45197075",
+    "45197175",
+    "45197275",
+    "45197375",
+    "45197475",
+    "45197575",
+    "45197675",
+    "45197775",
+    "45197875",
+    "45197975",
+    "45198075",
+    "45198175",
+    "45198275",
+    "45198375",
+    "45198475",
+    "45198575",
+    "45198675",
+    "45198775",
+    "45198875",
+    "45198975",
+    "45199075",
+    "45199175",
+    "45199275",
+    "45199375",
+    "45199475",
+    "45199575"
+   ]
+  },
+  {
+   "date": "2009-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:243747:por",
+     "title": "Lei n.º 64-A/2008",
+     "published": "2008-12-31",
+     "dre_path": "/dr/detalhe/lei/64-a-2008-243747"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "45196475",
+    "45196575",
+    "45196675",
+    "45196775",
+    "862379332",
+    "45196975",
+    "45197075",
+    "45197175",
+    "45197275",
+    "45197375",
+    "45197475",
+    "45197575",
+    "45197675",
+    "45197775",
+    "45197875",
+    "45197975",
+    "45198075",
+    "45198175",
+    "45199975",
+    "45198275",
+    "45198375",
+    "45198475",
+    "45198575",
+    "45198675",
+    "45198775",
+    "45198875",
+    "45198975",
+    "45199075",
+    "45199175",
+    "45199275",
+    "45199375",
+    "45199475",
+    "45199575"
+   ]
+  },
+  {
+   "date": "2009-01-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:601976:por",
+     "title": "Lei n.º 4/2009",
+     "published": "2009-01-29",
+     "dre_path": "/dr/detalhe/lei/4-2009-601976"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º"
+   ],
+   "fragments": [
+    "45196475",
+    "45196575",
+    "45196675",
+    "45196775",
+    "862379332",
+    "45196975",
+    "45197075",
+    "45197175",
+    "45197275",
+    "45197375",
+    "45197475",
+    "45197575",
+    "863008645",
+    "45197775",
+    "863008646",
+    "45197975",
+    "45198075",
+    "45198175",
+    "45199975",
+    "45198275",
+    "45198375",
+    "45198475",
+    "45198575",
+    "45198675",
+    "45198775",
+    "45198875",
+    "45198975",
+    "45199075",
+    "45199175",
+    "45199275",
+    "45199375",
+    "45199475",
+    "45199575"
+   ]
+  }
+ ],
+ "fragments": {
+  "45196475": {
+   "fragment_id": "35075075",
+   "type": 15,
+   "heading": "Diploma — Procede à primeira alteração à Lei n.º 53/2006, de 7 de Dezembro, torna extensivo o regime de mobilidade especial aos trabalhadores com contrato individual de trabalho, procede à vigésima sexta alteração ao Decreto-Lei n.º 498/72, de 9 de Dezembro, que consagra o Estatuto da Aposentação, procede à segunda alteração à Lei n.º 60/2005, de 29 de Dezembro, procede à primeira alteração à Lei n.º 52/2007, de 31 de Agosto, e cria a protecção no desemprego de trabalhadores da Administração Pública.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "45196575": {
+   "fragment_id": "35355275",
+   "type": 1,
+   "heading": "Capítulo I — Regime de mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Regime de mobilidade"
+  },
+  "45196675": {
+   "fragment_id": "36677775",
+   "type": 11,
+   "heading": "Artigo 1.º — Alteração à Lei n.º 53/2006, de 7 de Dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alteração à Lei n.º 53/2006, de 7 de Dezembro\n\nOs artigos 12.º e 32.º da Lei n.º 53/2006, de 7 de Dezembro, passam a ter a seguinte redacção:\n\n«Artigo 12.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - O exercício de funções, nos termos do n.º 6, que se tenha iniciado antes da publicação do diploma que tenha determinado a extinção do serviço de origem implica o provimento automático, por opção do interessado, em lugar vago ou a criar e a extinguir quando vagar do quadro de pessoal do serviço onde exerce funções, com a natureza do vínculo e na carreira, categoria, escalão e índice que o funcionário ou agente detinha no serviço extinto, excepto quando, entretanto, tenha sido integrado por tempo indeterminado em outro serviço.\n\n10 - ...\n\n11 - ...\n\n12 - ...\n\n13 - Sem prejuízo do disposto na alínea b) do n.º 8 do artigo 6.º, quando não seja exercida qualquer das opções previstas nos números anteriores, bem como quando o exercício de funções nos termos do n.º 6 se tenha iniciado após a publicação do diploma que tenha determinado a extinção do serviço de origem, o funcionário ou agente é colocado, no termo do exercício transitório de funções, em situação de mobilidade especial.\n\nArtigo 32.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\n10 - ...\n\n11 - ...\n\n12 - Ao pessoal que opte voluntariamente pela colocação em situação de mobilidade especial nos termos dos n.os 4 e 5 do artigo 11.º é aplicável o disposto nos números anteriores, com as seguintes alterações:\n\na) A licença pode ser requerida na fase de transição;\n\nb) Cessada a licença, o funcionário ou agente é colocado na fase e no momento do processo em que se encontrava quando a iniciou;\n\nc) O valor da subvenção mensal corresponde às seguintes percentagens da remuneração ilíquida que o funcionário ou agente auferia à data da licença:\n\ni) 75 % durante os primeiros cinco anos;\n\nii) 65 % do 6.º ao 10.º anos;\n\niii) 55 % a partir do 11.º ano;\n\nd) A remuneração ilíquida referida na alínea anterior está sujeita a actualização nos termos em que o seja a remuneração do pessoal em efectividade de serviço;\n\ne) Para base de cálculo da subvenção mensal não é tomada em conta qualquer redução da remuneração ilíquida por aplicação do disposto nos n.os 8 a 10 do artigo 29.º\n\n13 - (Anterior n.º 12.)»"
+  },
+  "45196775": {
+   "fragment_id": "36677875",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime transitório\n\n1 - O pessoal referido no n.º 6 do artigo 12.º e no n.º 9 do artigo 13.º da Lei n.º 53/2006, de 7 de Dezembro, que, à data da entrada em vigor da presente lei, tenha iniciado as funções neles mencionadas após a publicação do diploma que determinou a extinção do serviço de origem pode optar pelo regime que lhe era aplicável face à redacção original da Lei n.º 53/2006, de 7 de Dezembro.\n\n2 - O disposto no n.º 12 do artigo 32.º da Lei n.º 53/2006, de 7 de Dezembro, na redacção dada pela presente lei, é aplicável ao pessoal que conste, por opção voluntária ou não, de lista nominativa já aprovada ou publicada para efeitos de colocação em situação de mobilidade especial.\n\n3 - A licença a conceder por aplicação do disposto no número anterior depende de requerimento apresentado nos 60 dias seguintes à data da produção de efeitos da presente lei, e o valor da subvenção é calculado sobre a remuneração ilíquida que o funcionário ou agente auferia à data da sua colocação em situação de mobilidade especial."
+  },
+  "45196875": {
+   "fragment_id": "36677975",
+   "type": 11,
+   "heading": "Artigo 3.º — Aplicação do regime de mobilidade especial a trabalhadores com contrato individual de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aplicação do regime de mobilidade especial a trabalhadores com contrato individual de trabalho\n\n1 - A identificação dos trabalhadores da Administração Pública vinculados por contrato individual de trabalho por tempo indeterminado que deva cessar por despedimento colectivo ou por despedimento por extinção do posto de trabalho opera-se nos termos da Lei n.º 53/2006, de 7 de Dezembro.\n\n2 - Identificados os trabalhadores cujo contrato deva cessar aplicam-se os restantes procedimentos previstos no Código do Trabalho.\n\n3 - Confirmando-se a necessidade de cessação do contrato, o trabalhador é notificado para, em 10 dias úteis, informar se deseja ser colocado em situação de mobilidade especial pelo prazo de um ano.\n\n4 - Quando o trabalhador não tenha optado por ser colocado em situação de mobilidade especial nos termos do número anterior, e não tendo havido acordo de revogação nos termos do Código do Trabalho, é praticado o acto de cessação do contrato.\n\n5 - Sendo colocado em situação de mobilidade especial e reiniciando funções por tempo indeterminado em qualquer serviço nos termos previstos na Lei n.º 53/2006, de 7 de Dezembro, os procedimentos para cessação do contrato são arquivados sem que seja praticado o correspondente acto, notificando-se o trabalhador da decisão de arquivamento.\n\n6 - Não tendo lugar o reinício de funções, nos termos do número anterior, durante o prazo de colocação do trabalhador em situação de mobilidade especial, é praticado o acto de cessação do contrato.\n\n7 - Para os efeitos previstos no Código do Trabalho, a inexistência de alternativas à cessação do contrato ou de outros postos de trabalho compatíveis com a categoria ou com a qualificação profissional do trabalhador é justificada através de declaração emitida pela entidade gestora da mobilidade."
+  },
+  "45196975": {
+   "fragment_id": "35355375",
+   "type": 1,
+   "heading": "Capítulo II — Condições de aposentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Condições de aposentação"
+  },
+  "45197075": {
+   "fragment_id": "36678075",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração ao Estatuto da Aposentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração ao Estatuto da Aposentação\n\nO artigo 37.º-A do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de Dezembro, na sua actual redacção, passa a ter a seguinte redacção:\n\n«Artigo 37.º-A\n\n[...]\n\n1 - Podem requerer a aposentação antecipada, independentemente de submissão a junta médica e sem prejuízo da aplicação do regime da pensão unificada, os subscritores da Caixa Geral de Aposentações:\n\na) Com, pelo menos, 33 anos de serviço, para as pensões requeridas até 31 de Dezembro de 2008;\n\nb) Com, pelo menos, 55 anos de idade e que, à data em que perfaçam esta idade, tenham completado, pelo menos, 30 anos de serviço, para as pensões requeridas a partir de 1 de Janeiro de 2009.\n\n2 - O valor da pensão de aposentação antecipada prevista no número anterior é calculado nos termos gerais e reduzido pela aplicação de um factor de redução determinado pela fórmula 1 - x, em que x é igual à taxa de redução do valor da pensão.\n\n3 - A taxa global de redução é o produto do número de anos de antecipação em relação à idade legalmente exigida para a aposentação pela:\n\na) Taxa anual de 4,5 %, para as pensões requeridas até 31 de Dezembro de 2014;\n\nb) Taxa mensal de 0,5 %, para as pensões requeridas a partir de 1 de Janeiro de 2015.\n\n4 - O número de anos de antecipação a considerar para a determinação da taxa global de redução da pensão atribuída aos subscritores é reduzido:\n\na) Até 31 de Dezembro de 2014, de um ano por cada período de três ou, em alternativa, de seis meses por cada ano que o tempo de serviço exceda a carreira completa em vigor no momento da aposentação;\n\nb) A partir de 1 de Janeiro de 2015, de um ano por cada período de três que o tempo de serviço exceda 30 anos, no momento em que o subscritor atingiu 55 anos de idade.»"
+  },
+  "45197175": {
+   "fragment_id": "36678175",
+   "type": 11,
+   "heading": "Artigo 5.º — Alteração à Lei n.º 60/2005, de 29 de Dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alteração à Lei n.º 60/2005, de 29 de Dezembro\n\nO artigo 3.º da Lei n.º 60/2005, de 29 de Dezembro, passa a ter a seguinte redacção:\n\n«Artigo 3.º\n\n[...]\n\n1 - ...\n\n2 - O tempo de serviço estabelecido no n.º 1 do artigo 37.º do Estatuto da Aposentação, de 36 anos, é progressivamente reduzido até atingir 17 anos em 2014, nos termos do anexo ii.\n\n3 - Podem aposentar-se os subscritores que contem, pelo menos, 65 anos de idade e o prazo de garantia em vigor no regime geral da segurança social.»"
+  },
+  "45197275": {
+   "fragment_id": "36678275",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração à organização sistemática da Lei n.º 60/2005, de 29 de Dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alteração à organização sistemática da Lei n.º 60/2005, de 29 de Dezembro\n\n1 - O anexo ii da Lei n.º 60/2005, de 29 de Dezembro, passa a anexo iii.\n\n2 - As referências no artigo 5.º da Lei n.º 60/2005, de 29 de Dezembro, alterada pela Lei n.º 52/2007, de 31 de Agosto, ao anexo ii da Lei n.º 60/2005, de 29 de Dezembro, consideram-se feitas ao anexo iii da mesma lei."
+  },
+  "45197375": {
+   "fragment_id": "36678375",
+   "type": 11,
+   "heading": "Artigo 7.º — Aditamento à Lei n.º 60/2005, de 29 de Dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Aditamento à Lei n.º 60/2005, de 29 de Dezembro\n\nÉ aditado à Lei n.º 60/2005, de 29 de Dezembro, o anexo ii, com a seguinte redacção:\n\n«ANEXO II\n\n(referido no n.º 2 do artigo 3.º)\n\nA partir de 1 de Janeiro de 2008 - 33 anos.\n\nA partir de 1 de Janeiro de 2009 - 30 anos.\n\nA partir de 1 de Janeiro de 2010 - 25 anos.\n\nA partir de 1 de Janeiro de 2011 - 23 anos.\n\nA partir de 1 de Janeiro de 2012 - 21 anos.\n\nA partir de 1 de Janeiro de 2013 - 19 anos.\n\nA partir de 1 de Janeiro de 2014 - 17 anos.»"
+  },
+  "45197475": {
+   "fragment_id": "36678475",
+   "type": 11,
+   "heading": "Artigo 8.º — Alteração à Lei n.º 52/2007, de 31 de Agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Alteração à Lei n.º 52/2007, de 31 de Agosto\n\nO artigo 5.º da Lei n.º 52/2007, de 31 de Agosto, passa a ter a seguinte redacção:\n\n«Artigo 5.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - A taxa global de bonificação é o produto da taxa mensal do anexo iii, em função do tempo de serviço no momento do acto determinante referido no artigo 43.º do Estatuto da Aposentação, pelo número de meses apurados entre a data em que se verificaram as condições do anexo ii e aquele acto determinante, com o limite de 70 anos.\n\n4 - Sem prejuízo do disposto no número anterior, a pensão dos subscritores que possam aposentar-se antecipadamente sem redução da pensão com fundamento no artigo 37.º-A do Estatuto da Aposentação e optem por não o fazer é bonificada pela aplicação da taxa global resultante do produto de uma taxa mensal de 0,65 % pelo número de meses apurados entre a data em que se verificaram as condições de acesso à aposentação antecipada sem redução ao abrigo daquele regime e a data do acto determinante da aposentação, até ao limite da idade do anexo ii.\n\n5 - ...\n\n6 - ...»"
+  },
+  "45197575": {
+   "fragment_id": "35355475",
+   "type": 1,
+   "heading": "Capítulo III — Protecção no desemprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Protecção no desemprego"
+  },
+  "45197675": {
+   "fragment_id": "36678575",
+   "type": 11,
+   "heading": "Artigo 9.º — Protecção no desemprego dos trabalhadores da Administração Pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Protecção no desemprego dos trabalhadores da Administração Pública\n\n1 - Os trabalhadores da Administração Pública vinculados por contrato administrativo de provimento e por contrato individual de trabalho que estejam abrangidos pelo regime de protecção social da função pública e que, à data da produção de efeitos da presente lei, exerçam funções nas administrações directa e indirecta do Estado, regional autónoma e autárquica, bem como em qualquer outra entidade, são enquadrados no regime geral de segurança social dos trabalhadores por conta de outrem, exclusivamente para efeitos de protecção na eventualidade de desemprego.\n\n2 - Aos trabalhadores referidos no número anterior é aplicável o Decreto-Lei n.º 220/2006, de 3 de Novembro, e demais legislação complementar, com as necessárias adaptações e com as especificidades constantes dos números seguintes.\n\n3 - São obrigatoriamente inscritos nas instituições de segurança social os trabalhadores e os serviços ou entidades processadores de remunerações, previstos no n.º 1, respectivamente, como beneficiários e como contribuintes.\n\n4 - Os trabalhadores vinculados até 31 de Dezembro de 2005 pagam uma quotização correspondente a 1 % da respectiva remuneração mensal e os trabalhadores vinculados por contrato administrativo de provimento após 1 de Janeiro de 2006 ficam isentos de quotização.\n\n5 - As contribuições dos respectivos serviços ou entidades processadores de remunerações são fixadas em diploma próprio.\n\n6 - Os períodos de pagamento do subsídio de desemprego e do subsídio social de desemprego inicial dão lugar ao registo de remunerações, por equivalência à entrada de contribuições, pelo valor da remuneração de referência que serviu de base ao cálculo da prestação, relativamente aos trabalhadores vinculados por contrato administrativo de provimento e inscritos no regime geral de segurança social após 1 de Janeiro de 2006, para as eventualidades invalidez, velhice e morte.\n\n7 - A obrigação contributiva dos beneficiários e dos contribuintes mantém-se nos casos de impedimento para o exercício efectivo de funções decorrente de situações de doença, maternidade, paternidade ou adopção, acidente em serviço e doença profissional, salvo se houver suspensão do pagamento de remunerações e enquanto a mesma perdurar.\n\n8 - Quando ocorra a eventualidade de desemprego sem que os prazos de garantia tenham sido cumpridos, aplica-se, com as necessárias adaptações, o disposto no Decreto-Lei n.º 117/2006, de 20 de Junho, e demais disposições regulamentares, relativamente ao pagamento retroactivo de contribuições para completar aqueles prazos.\n\n9 - Para o cômputo dos prazos de garantia previstos no Decreto-Lei n.º 220/2006, de 3 de Novembro, podem ser considerados os períodos contributivos registados no sistema público de segurança social, nos termos ali previstos.\n\n10 - O pessoal a que se refere o presente artigo, bem como o previsto no n.º 3 do artigo 5.º do Decreto-Lei n.º 234/2005, de 30 de Dezembro, pode optar, a todo o tempo, pela inscrição, manutenção ou não manutenção na ADSE ou, nos termos legais aplicáveis, em outros subsistemas de saúde da Administração Pública.\n\n11 - O disposto no Decreto-Lei n.º 220/2006, de 3 de Novembro, e demais legislação complementar, aplica-se ainda, com as necessárias adaptações, a outros trabalhadores da Administração Pública, independentemente da modalidade de vinculação, que estejam abrangidos pelo regime de protecção social da função pública e que, à data da produção de efeitos da presente lei, exerçam funções nas administrações directa e indirecta do Estado, regional autónoma e autárquica, bem como em qualquer outra entidade, quando ocorra a eventualidade de desemprego.\n\n12 - No caso de eventualidade de desemprego dos trabalhadores referidos no número anterior, compete aos serviços a que se encontravam vinculados a atribuição e o pagamento do subsídio de desemprego ou do subsídio social de desemprego.\n\n13 - O disposto nos n.os 1 a 8 e 10 é aplicável ao pessoal que presta apoio a titulares de cargos políticos que esteja abrangido pelo regime de protecção social da função pública e que, à data da produção de efeitos da presente lei, exerça essas funções.\n\n14 - O disposto nos n.os 11 e 12 é aplicável ao pessoal a que se refere o n.º 2 do artigo 2.º da Lei n.º 60/2005, de 29 de Dezembro, que, à data da entrada em vigor da presente lei, exerça funções nas administrações directa e indirecta do Estado, regional autónoma e autárquica, bem como em qualquer outra entidade.\n\n> Nota: [Artigo 31.º, Lei n.º 4/2009 - Diário da República n.º 20/2009, Série I de 2009-01-29](https://diariodarepublica.pt/dr/detalhe/lei/4-2009-601976) A revogação ao presente artigo só produz efeitos a partir da entrada em vigor da regulamentação da eventualidade de desemprego, do regime de protecção social convergente."
+  },
+  "45197775": {
+   "fragment_id": "35355575",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições transitórias e finais"
+  },
+  "45197875": {
+   "fragment_id": "36678675",
+   "type": 11,
+   "heading": "Artigo 10.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposições transitórias\n\n1 - Durante o ano de 2008, não há lugar à inscrição dos trabalhadores a que se refere o n.º 3 do artigo anterior nem ao pagamento de quaisquer quotizações ou contribuições, sem prejuízo do disposto no número seguinte.\n\n2 - Caso a eventualidade de desemprego ocorra no decurso do ano de 2008, compete aos serviços a que os trabalhadores se encontravam vinculados a atribuição e o pagamento, até ao termo do direito, do subsídio de desemprego ou do subsídio social de desemprego, nos termos da legislação referida no artigo anterior.\n\n3 - A atribuição e o pagamento dos subsídios nos termos previstos no número anterior aos trabalhadores que se encontravam vinculados às instituições públicas previstas no n.º 1 do artigo 5.º da Lei n.º 62/2007, de 10 de Setembro, compete ao Ministério da Ciência, Tecnologia e Ensino Superior.\n\n4 - O disposto no presente artigo não prejudica a legislação em vigor sobre protecção no desemprego de trabalhadores da Administração Pública.\n\n> Nota: [Artigo 31.º, Lei n.º 4/2009 - Diário da República n.º 20/2009, Série I de 2009-01-29](https://diariodarepublica.pt/dr/detalhe/lei/4-2009-601976) A revogação ao presente artigo só produz efeitos a partir da entrada em vigor da regulamentação da eventualidade de desemprego, do regime de protecção social convergente."
+  },
+  "45197975": {
+   "fragment_id": "36678775",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\nSão revogados:\n\na) O artigo 4.º da Lei n.º 60/2005, de 29 de Dezembro;\n\nb) O artigo 4.º e a alínea a) do artigo 8.º da Lei n.º 52/2007, de 31 de Agosto."
+  },
+  "45198075": {
+   "fragment_id": "36678875",
+   "type": 11,
+   "heading": "Artigo 12.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Republicação\n\nÉ republicada, em anexo, e faz parte integrante da presente lei, a Lei n.º 60/2005, de 29 de Dezembro, com a redacção actual."
+  },
+  "45198175": {
+   "fragment_id": "36678975",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor e produção de efeitos\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação e produz efeitos em 1 de Janeiro de 2008."
+  },
+  "45198275": {
+   "fragment_id": "35355675",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 12.º) Republicação da Lei n.º 60/2005, de 29 de Dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 12.º) Republicação da Lei n.º 60/2005, de 29 de Dezembro"
+  },
+  "45198375": {
+   "fragment_id": "36679075",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei estabelece mecanismos de convergência do regime de protecção social da função pública com o regime geral da segurança social no que respeita às condições de aposentação e cálculo das pensões."
+  },
+  "45198475": {
+   "fragment_id": "36679175",
+   "type": 11,
+   "heading": "Artigo 2.º — Inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Inscrição\n\n1 - A Caixa Geral de Aposentações deixa, a partir de 1 de Janeiro de 2006, de proceder à inscrição de subscritores.\n\n2 - O pessoal que inicie funções a partir de 1 de Janeiro de 2006 ao qual, nos termos da legislação vigente, fosse aplicável o regime de protecção social da função pública em matéria de aposentação, em razão da natureza da instituição a que venha a estar vinculado, do tipo de relação jurídica de emprego de que venha a ser titular ou de norma especial que lhe conferisse esse direito, é obrigatoriamente inscrito no regime geral da segurança social."
+  },
+  "45198575": {
+   "fragment_id": "36679275",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições de aposentação ordinária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições de aposentação ordinária\n\n1 - A idade de aposentação estabelecida no n.º 1 do artigo 37.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de Dezembro, é progressivamente aumentada até atingir 65 anos em 2015, nos termos do anexo i.\n\n2 - O tempo de serviço estabelecido no n.º 1 do artigo 37.º do Estatuto da Aposentação, de 36 anos, é progressivamente reduzido até atingir 17 anos em 2014, nos termos do anexo ii.\n\n3 - Podem aposentar-se os subscritores que contem, pelo menos, 65 anos de idade e o prazo de garantia em vigor no regime geral da segurança social."
+  },
+  "45198675": {
+   "fragment_id": "36679375",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições de aposentação antecipada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de aposentação antecipada\n\n(Revogado.)"
+  },
+  "45198775": {
+   "fragment_id": "36679475",
+   "type": 11,
+   "heading": "Artigo 5.º — Cálculo da pensão de aposentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Cálculo da pensão de aposentação\n\n1 - A pensão de aposentação dos subscritores da Caixa Geral de Aposentações inscritos até 31 de Agosto de 1993, com a denominação «P», resulta da multiplicação do factor de sustentabilidade correspondente ao ano da aposentação pela soma das seguintes parcelas:\n\na) A primeira parcela, designada «P1», correspondente ao tempo de serviço prestado até 31 de Dezembro de 2005 e é calculada com base na seguinte fórmula:\n\nR x T1 / C\n\nem que:\n\nR é a remuneração mensal relevante nos termos do Estatuto da Aposentação, deduzida da percentagem da quota para efeitos de aposentação e de pensão de sobrevivência, com um limite máximo correspondente a 12 vezes o indexante dos apoios sociais (IAS);\n\nT1 é a expressão em anos do número de meses de serviço prestado até 31 de Dezembro de 2005, com o limite máximo de C; e\n\nC é o número constante do anexo iii;\n\nb) A segunda, com a designação «P2», relativa ao tempo de serviço posterior a 31 de Dezembro de 2005, é fixada de acordo com os artigos 29.º a 32.º do Decreto-Lei n.º 187/2007, de 10 de Maio, sem limites mínimo ou máximo, com base na seguinte fórmula:\n\nRR x T2 x N\n\nem que:\n\nRR é a remuneração de referência, apurada a partir das remunerações anuais mais elevadas registadas a partir de 1 de Janeiro de 2006 correspondentes ao tempo de serviço necessário para, somado ao registado até 31 de Dezembro de 2005, perfazer o limite do anexo iii;\n\nT2 é a taxa anual de formação da pensão determinada de acordo com os artigos 29.º a 31.º do Decreto-Lei n.º 187/2007, de 10 de Maio;\n\nN é o número de anos civis com densidade contributiva igual ou superior a 120 dias com registo de remunerações completados a partir de 1 de Janeiro de 2006, para, somados aos anos registados até 31 de Dezembro de 2005, perfazerem o limite do anexo iii.\n\n2 - O factor de sustentabilidade correspondente ao ano da aposentação é fixado, com base nos dados publicados anualmente pelo Instituto Nacional de Estatística, nos seguintes termos:\n\nEMV(índice 2006) / EMV(índice ano i - 1)\n\nem que:\n\nEMV(índice 2006) é a esperança média de vida aos 65 anos verificada em 2006;\n\nEMV(índice ano i - 1) é a esperança média de vida aos 65 anos verificada no ano anterior ao da aposentação.\n\n3 - Para efeito do disposto nos números anteriores, considera-se como ano da aposentação aquele em que se verifique o facto ou acto determinante referido no artigo 43.º do Estatuto da Aposentação.\n\n4 - A pensão de aposentação dos subscritores inscritos a partir de 1 de Setembro de 1993 continua a ser calculada nos termos das normas legais aplicáveis ao cálculo das pensões dos beneficiários do regime geral da segurança social, em conformidade com o disposto no Decreto-Lei n.º 286/93, de 20 de Agosto."
+  },
+  "45198875": {
+   "fragment_id": "36679575",
+   "type": 11,
+   "heading": "Artigo 6.º — Cálculo da pensão de sobrevivência a partir de 1 de Janeiro de 2006",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Cálculo da pensão de sobrevivência a partir de 1 de Janeiro de 2006\n\n1 - A pensão de sobrevivência atribuída por óbito, ocorrido após 31 de Dezembro de 2005, de subscritor ou de pensionista aposentado a partir de 1 de Janeiro de 2006 nos termos do n.º 1 do artigo anterior corresponde à soma de 50 % de P1 com o valor que resultar da aplicação a P2 das regras do regime geral da segurança social.\n\n2 - A pensão de sobrevivência atribuída por óbito dos subscritores inscritos a partir de 1 de Setembro de 1993 é calculada nos termos das normas legais aplicáveis ao cálculo das pensões dos beneficiários do regime geral da segurança social.\n\n3 - A titularidade e as condições de atribuição das pensões referidas nos números anteriores regem-se pelas regras definidas no regime geral da segurança social."
+  },
+  "45198975": {
+   "fragment_id": "36679675",
+   "type": 11,
+   "heading": "Artigo 7.º — Salvaguarda de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Salvaguarda de direitos\n\n1 - Os subscritores da Caixa Geral de Aposentações que até 31 de Dezembro de 2005 contem, pelo menos, 36 anos de serviço e 60 de idade podem aposentar-se de acordo com o regime legal que lhes seria aplicável naquela data, independentemente do momento em que se apresentem a requerer a aposentação.\n\n2 - Os subscritores da Caixa Geral de Aposentações que até 31 de Dezembro de 2005 contem, pelo menos, 36 anos de serviço podem aposentar-se antecipadamente ao abrigo do artigo 37.º-A do Estatuto da Aposentação, de acordo com o regime legal que lhes seria aplicável naquela data, independentemente do momento em que se apresentem a requerer a aposentação, considerando-se nesse caso, para efeito do cálculo das penalizações a aplicar à pensão, o limite de idade do anexo i.\n\n3 - Os subscritores abrangidos pelo disposto no número anterior que venham a aposentar-se antecipadamente até 31 de Dezembro de 2014 beneficiam, em alternativa ao regime previsto na disposição legal nele mencionada, da modalidade de redução referida no n.º 2 do artigo 4.º, quando esta seja mais favorável, do que serão informados fundamentadamente pela Caixa Geral de Aposentações.\n\n4 - A aplicação da modalidade de redução referida no n.º 2 do artigo 4.º implica que:\n\na) A pensão seja calculada de acordo com o n.º 1 do artigo 5.º; e que\n\nb) Nas penalizações a aplicar se tenham em consideração os limites de idade e de tempo de serviço dos anexos i e iii.\n\n5 - Da aplicação do disposto nos n.os 3 e 4 não pode resultar a aposentação, com pensão completa, em idade inferior àquela em que o subscritor se aposentaria, com pensão completa, se lhe tivesse sido aplicado o regime em vigor em 31 de Dezembro de 2005."
+  },
+  "45199075": {
+   "fragment_id": "36679775",
+   "type": 11,
+   "heading": "Artigo 8.º — Aposentação compulsiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aposentação compulsiva\n\nÉ alterado o artigo 56.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de Dezembro, que passa a ter a seguinte redacção:\n\n«Artigo 56.º\n\nRedução da pensão\n\nNo caso de aposentação compulsiva, a pensão é calculada nos termos gerais e reduzida em 4,5 % do seu valor por cada ano de antecipação em relação à idade legalmente exigida para a aposentação, com o limite de 25 %.»"
+  },
+  "45199175": {
+   "fragment_id": "36679875",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Norma revogatória\n\nSão revogados o artigo 1.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de Dezembro, e todas as normas especiais que confiram direito de inscrição na Caixa Geral de Aposentações."
+  },
+  "45199275": {
+   "fragment_id": "36679975",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nA presente lei entra em vigor em 1 de Janeiro de 2006."
+  },
+  "45199375": {
+   "fragment_id": "35355775",
+   "type": 14,
+   "heading": "Anexo I — [referido no n.º 1 do artigo 3.º e no n.º 2 e alínea b) do n.º 4 do artigo 7.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — [referido no n.º 1 do artigo 3.º e no n.º 2 e alínea b) do n.º 4 do artigo 7.º]\n\nA partir de 1 de Janeiro de 2006 - 60 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2007 - 61 anos.\n\nA partir de 1 de Janeiro de 2008 - 61 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2009 - 62 anos.\n\nA partir de 1 de Janeiro de 2010 - 62 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2011 - 63 anos.\n\nA partir de 1 de Janeiro de 2012 - 63 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2013 - 64 anos.\n\nA partir de 1 de Janeiro de 2014 - 64 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2015 - 65 anos."
+  },
+  "45199475": {
+   "fragment_id": "35355875",
+   "type": 14,
+   "heading": "Anexo II — (referido no n.º 2 do artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (referido no n.º 2 do artigo 3.º)\n\nA partir de 1 de Janeiro de 2008 - 33 anos.\n\nA partir de 1 de Janeiro de 2009 - 30 anos.\n\nA partir de 1 de Janeiro de 2010 - 25 anos.\n\nA partir de 1 de Janeiro de 2011 - 23 anos.\n\nA partir de 1 de Janeiro de 2012 - 21 anos.\n\nA partir de 1 de Janeiro de 2013 - 19 anos.\n\nA partir de 1 de Janeiro de 2014 - 17 anos."
+  },
+  "45199575": {
+   "fragment_id": "35355975",
+   "type": 14,
+   "heading": "Anexo III — [referido nos n.os 1 e 2 do artigo 4.º, nas alíneas a) e b) do n.º 1 do artigo 5.º e na alínea b) do n.º 4 do artigo 7.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — [referido nos n.os 1 e 2 do artigo 4.º, nas alíneas a) e b) do n.º 1 do artigo 5.º e na alínea b) do n.º 4 do artigo 7.º]\n\nA partir de 1 de Janeiro de 2006 - 36 anos e 6 meses (36,5).\n\nA partir de 1 de Janeiro de 2007 - 37 anos (37).\n\nA partir de 1 de Janeiro de 2008 - 37 anos e 6 meses (37,5).\n\nA partir de 1 de Janeiro de 2009 - 38 anos (38).\n\nA partir de 1 de Janeiro de 2010 - 38 anos e 6 meses (38,5).\n\nA partir de 1 de Janeiro de 2011 - 39 anos (39).\n\nA partir de 1 de Janeiro de 2012 - 39 anos e 6 meses (39,5).\n\nA partir de 1 de Janeiro de 2013 - 40 anos (40)."
+  },
+  "862379332": {
+   "fragment_id": "36677975",
+   "type": 11,
+   "heading": "Artigo 3.º — Aplicação do regime de mobilidade especial a trabalhadores com contrato individual de trabalho",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 35.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Aplicação do regime de mobilidade especial a trabalhadores com contrato individual de trabalho\n\n1 - A identificação dos trabalhadores da Administração Pública vinculados por contrato individual de trabalho por tempo indeterminado que deva cessar por despedimento colectivo ou por despedimento por extinção do posto de trabalho opera-se nos termos da Lei n.º 53/2006, de 7 de Dezembro.\n\n2 - Identificados os trabalhadores cujo contrato deva cessar aplicam-se os restantes procedimentos previstos no Código do Trabalho.\n\n3 - Confirmando-se a necessidade de cessação do contrato, o trabalhador é notificado para, em 10 dias úteis, informar se deseja ser colocado em situação de mobilidade especial pelo prazo de um ano.\n\n4 - Quando o trabalhador não tenha optado por ser colocado em situação de mobilidade especial nos termos do número anterior, e não tendo havido acordo de revogação nos termos do Código do Trabalho, é praticado o acto de cessação do contrato.\n\n5 - Sendo colocado em situação de mobilidade especial e reiniciando funções por tempo indeterminado em qualquer serviço nos termos previstos na Lei n.º 53/2006, de 7 de Dezembro, os procedimentos para cessação do contrato são arquivados sem que seja praticado o correspondente acto, notificando-se o trabalhador da decisão de arquivamento.\n\n6 - Não tendo lugar o reinício de funções, nos termos do número anterior, durante o prazo de colocação do trabalhador em situação de mobilidade especial, é praticado o acto de cessação do contrato.\n\n7 - Para os efeitos previstos no Código do Trabalho, a inexistência de alternativas à cessação do contrato ou de outros postos de trabalho compatíveis com a categoria ou com a qualificação profissional do trabalhador é justificada através de declaração emitida pela entidade gestora da mobilidade.\n\n> Revogado pelo/a Artigo 35.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01"
+  },
+  "45199975": {
+   "fragment_id": "35356075",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 21 de Dezembro de 2007.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 8 de Fevereiro de 2008.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 8 de Fevereiro de 2008.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "863008645": {
+   "fragment_id": "36678575",
+   "type": 11,
+   "heading": "Artigo 9.º — Protecção no desemprego dos trabalhadores da Administração Pública",
+   "in_force_from": "2009-01-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Lei n.º 4/2009 - Diário da República n.º 20/2009, Série I de 2009-01-29](https://diariodarepublica.pt/dr/detalhe/lei/4-2009-601976), em vigor a partir de 2009-01-30"
+   ],
+   "markdown": "###### Artigo 9.º — Protecção no desemprego dos trabalhadores da Administração Pública\n\n1 - Os trabalhadores da Administração Pública vinculados por contrato administrativo de provimento e por contrato individual de trabalho que estejam abrangidos pelo regime de protecção social da função pública e que, à data da produção de efeitos da presente lei, exerçam funções nas administrações directa e indirecta do Estado, regional autónoma e autárquica, bem como em qualquer outra entidade, são enquadrados no regime geral de segurança social dos trabalhadores por conta de outrem, exclusivamente para efeitos de protecção na eventualidade de desemprego.\n\n2 - Aos trabalhadores referidos no número anterior é aplicável o Decreto-Lei n.º 220/2006, de 3 de Novembro, e demais legislação complementar, com as necessárias adaptações e com as especificidades constantes dos números seguintes.\n\n3 - São obrigatoriamente inscritos nas instituições de segurança social os trabalhadores e os serviços ou entidades processadores de remunerações, previstos no n.º 1, respectivamente, como beneficiários e como contribuintes.\n\n4 - Os trabalhadores vinculados até 31 de Dezembro de 2005 pagam uma quotização correspondente a 1 % da respectiva remuneração mensal e os trabalhadores vinculados por contrato administrativo de provimento após 1 de Janeiro de 2006 ficam isentos de quotização.\n\n5 - As contribuições dos respectivos serviços ou entidades processadores de remunerações são fixadas em diploma próprio.\n\n6 - Os períodos de pagamento do subsídio de desemprego e do subsídio social de desemprego inicial dão lugar ao registo de remunerações, por equivalência à entrada de contribuições, pelo valor da remuneração de referência que serviu de base ao cálculo da prestação, relativamente aos trabalhadores vinculados por contrato administrativo de provimento e inscritos no regime geral de segurança social após 1 de Janeiro de 2006, para as eventualidades invalidez, velhice e morte.\n\n7 - A obrigação contributiva dos beneficiários e dos contribuintes mantém-se nos casos de impedimento para o exercício efectivo de funções decorrente de situações de doença, maternidade, paternidade ou adopção, acidente em serviço e doença profissional, salvo se houver suspensão do pagamento de remunerações e enquanto a mesma perdurar.\n\n8 - Quando ocorra a eventualidade de desemprego sem que os prazos de garantia tenham sido cumpridos, aplica-se, com as necessárias adaptações, o disposto no Decreto-Lei n.º 117/2006, de 20 de Junho, e demais disposições regulamentares, relativamente ao pagamento retroactivo de contribuições para completar aqueles prazos.\n\n9 - Para o cômputo dos prazos de garantia previstos no Decreto-Lei n.º 220/2006, de 3 de Novembro, podem ser considerados os períodos contributivos registados no sistema público de segurança social, nos termos ali previstos.\n\n10 - O pessoal a que se refere o presente artigo, bem como o previsto no n.º 3 do artigo 5.º do Decreto-Lei n.º 234/2005, de 30 de Dezembro, pode optar, a todo o tempo, pela inscrição, manutenção ou não manutenção na ADSE ou, nos termos legais aplicáveis, em outros subsistemas de saúde da Administração Pública.\n\n11 - O disposto no Decreto-Lei n.º 220/2006, de 3 de Novembro, e demais legislação complementar, aplica-se ainda, com as necessárias adaptações, a outros trabalhadores da Administração Pública, independentemente da modalidade de vinculação, que estejam abrangidos pelo regime de protecção social da função pública e que, à data da produção de efeitos da presente lei, exerçam funções nas administrações directa e indirecta do Estado, regional autónoma e autárquica, bem como em qualquer outra entidade, quando ocorra a eventualidade de desemprego.\n\n12 - No caso de eventualidade de desemprego dos trabalhadores referidos no número anterior, compete aos serviços a que se encontravam vinculados a atribuição e o pagamento do subsídio de desemprego ou do subsídio social de desemprego.\n\n13 - O disposto nos n.os 1 a 8 e 10 é aplicável ao pessoal que presta apoio a titulares de cargos políticos que esteja abrangido pelo regime de protecção social da função pública e que, à data da produção de efeitos da presente lei, exerça essas funções.\n\n14 - O disposto nos n.os 11 e 12 é aplicável ao pessoal a que se refere o n.º 2 do artigo 2.º da Lei n.º 60/2005, de 29 de Dezembro, que, à data da entrada em vigor da presente lei, exerça funções nas administrações directa e indirecta do Estado, regional autónoma e autárquica, bem como em qualquer outra entidade.\n\n> Nota: [Artigo 31.º, Lei n.º 4/2009 - Diário da República n.º 20/2009, Série I de 2009-01-29](https://diariodarepublica.pt/dr/detalhe/lei/4-2009-601976) A revogação ao presente artigo só produz efeitos a partir da entrada em vigor da regulamentação da eventualidade de desemprego, do regime de protecção social convergente.\n\n> Revogado pelo/a Artigo 31.º do/a [Lei n.º 4/2009 - Diário da República n.º 20/2009, Série I de 2009-01-29](https://diariodarepublica.pt/dr/detalhe/lei/4-2009-601976), em vigor a partir de 2009-01-30"
+  },
+  "863008646": {
+   "fragment_id": "36678675",
+   "type": 11,
+   "heading": "Artigo 10.º — Disposições transitórias",
+   "in_force_from": "2009-01-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Lei n.º 4/2009 - Diário da República n.º 20/2009, Série I de 2009-01-29](https://diariodarepublica.pt/dr/detalhe/lei/4-2009-601976), em vigor a partir de 2009-01-30"
+   ],
+   "markdown": "###### Artigo 10.º — Disposições transitórias\n\n1 - Durante o ano de 2008, não há lugar à inscrição dos trabalhadores a que se refere o n.º 3 do artigo anterior nem ao pagamento de quaisquer quotizações ou contribuições, sem prejuízo do disposto no número seguinte.\n\n2 - Caso a eventualidade de desemprego ocorra no decurso do ano de 2008, compete aos serviços a que os trabalhadores se encontravam vinculados a atribuição e o pagamento, até ao termo do direito, do subsídio de desemprego ou do subsídio social de desemprego, nos termos da legislação referida no artigo anterior.\n\n3 - A atribuição e o pagamento dos subsídios nos termos previstos no número anterior aos trabalhadores que se encontravam vinculados às instituições públicas previstas no n.º 1 do artigo 5.º da Lei n.º 62/2007, de 10 de Setembro, compete ao Ministério da Ciência, Tecnologia e Ensino Superior.\n\n4 - O disposto no presente artigo não prejudica a legislação em vigor sobre protecção no desemprego de trabalhadores da Administração Pública.\n\n> Nota: [Artigo 31.º, Lei n.º 4/2009 - Diário da República n.º 20/2009, Série I de 2009-01-29](https://diariodarepublica.pt/dr/detalhe/lei/4-2009-601976) A revogação ao presente artigo só produz efeitos a partir da entrada em vigor da regulamentação da eventualidade de desemprego, do regime de protecção social convergente.\n\n> Revogado pelo/a Artigo 31.º do/a [Lei n.º 4/2009 - Diário da República n.º 20/2009, Série I de 2009-01-29](https://diariodarepublica.pt/dr/detalhe/lei/4-2009-601976), em vigor a partir de 2009-01-30"
+  }
+ }
+}

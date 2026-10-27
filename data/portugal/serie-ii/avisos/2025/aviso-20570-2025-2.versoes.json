@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:928855444:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2025-1169180075",
+ "dre_path": "/dr/detalhe/aviso/20570-2025-928855444",
+ "source_lastmod": "2026-09-15",
+ "versions": [
+  {
+   "date": "2025-08-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1169185875"
+   ]
+  }
+ ],
+ "fragments": {
+  "1169185875": {
+   "fragment_id": "1169180175",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em cumprimento do disposto no artigo 4.º da Lei n.º 35/2014, de 20 de junho, faz-se público que o trabalhador Eduardo Rodrigues Pereira, integrado na carreira geral e pluricategorial de Assistente Operacional, consolidou definitivamente a mobilidade intercategorias, em 28/07/2025, na categoria de Encarregado Operacional, na 1.ª posição remuneratória da categoria de Encarregado Operacional (Nível Remuneratório 8 da TRU), por ato administrativo do Vereador do Pelouro de Ação Social, Emprego e Recursos Humanos, de 28/07/2025, praticado ao abrigo da delegação de poderes, operada por Despacho do Presidente da Câmara Municipal n.º 17/2023, de 05/12/2023, nos termos do disposto no artigo 99.º-A da Lei Geral do Trabalho em Funções Públicas."
+  }
+ }
+}

@@ -1,0 +1,144 @@
+---
+schema_version: '1.0'
+id: pt:dre:165832:por
+title: Decreto-Lei n.º 591/71
+short_title: null
+summary: Autoriza o Ministro do Ultramar a outorgar em nome do Estado uma alteração no contrato celebrado com a firma Zamco
+  - Zambeze Consórcio Hidroeléctrico, Lda., ao abrigo do Decreto-Lei n.º 49225 (empreendimento de Cabora Bassa), em conformidade
+  com a minuta anexa ao presente diploma
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ultramar - Gabinete do Plano do Zambeze
+proposing_entity: null
+official_number: 591/71
+official_date: null
+publication_date: '1971-12-27'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 300/1971, Série I de 1971-12-27
+  number: '300'
+  series: I
+  supplement: null
+  pages: 2000 - 2000
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/12/30000/20002000.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '165832'
+  dre_path: /dr/detalhe/decreto-lei/591-1971-165832
+  internal: pt:dre:165832:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/591-1971-165832
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/591-1971-165832
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:21:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ea52b77cf45f9e5273be20119b0f98ee191b2abed3b60569c14c703030fc05af
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:21:29Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cabora Bassa
+- Contrato
+- Hidroeléctrica de Cabora Bassa
+- Ministro do Ultramar
+- Moçambique.Colónia Portuguesa
+relationships:
+- type: cites
+  target: pt:dre:380347:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:21:29Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 591/71
+
+de 27 de Dezembro
+
+No contrato para a execução do empreendimento de Cabora Bassa, em Moçambique, tinha-se já previsto que, em vez de sistema de válvulas de vapor de mercúrio, na substação de corrente contínua fosse adoptada a solução de tiristores - solução que veio realmente a considerar-se tècnicamente preferível.
+
+Isto obriga, porém, a associar uma nova firma ao consórcio internacional a quem foi adjudicada a obra.
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º Fica autorizado o Ministro do Ultramar a outorgar em nome do Estado uma alteração no contrato celebrado com a firma Zamco - Zambeze Consórcio Hidroeléctrico, Lda., ao abrigo do [Decreto-Lei n.º 49225](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49225-1969-380347), de 4 de Setembro de 1969, em conformidade com a minuta anexa, que se considera parte integrante deste diploma e baixa assinada pelo Ministro do Ultramar, ficando dispensadas quaisquer outras formalidades, incluindo o visto do Tribunal de Contas.
+
+Art. 2.º O presente diploma entra imediatamente em vigor.
+
+Marcello Caetano - Horácio José de Sá Viana Rebelo - João Mota Pereira de Campos - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
+
+Promulgado em 20 de Dezembro de 1971.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado no Boletim Oficial de Moçambique. - J. da Silva Cunha.
+
+Minuta do contrato
+
+Aos ..., autorizado pelo Decreto-Lei n.º 591/71, de 27 de Dezembro, a firma Zamco - Zambeze Consórcio Hidroeléctrico, Lda., com sede em Lisboa, representada por ..., as firmas Allgemeine Elektricitäts - Gesellschaft AEG - Telefunken, com sede em Frankfurt Süd, no Mainkai, República Federal da Alemanha, Brown Boveri & Cie, com sede em Mannheim e Augusta - Anlage 22/24, República Federal da Alemanha, Compagnie Générale d'Entreprises Électriques (C. G. E. E. - Cogelex), com sede em Levallois-Perret, na Rua de Antonin Raynaud, 13, França, Entreprise Fougerolle - Limousin, com sede em Paris, na Rua de Paul Cézanne, 2, França, Hochtief Aktiengesellschaft, com sede em Essen, na Rua de Rellinghauser, 53, República Federal da Alemanha, J. M. Voith, G. m. b. H., com sede em Heidenheim Brenz, na Rua de Alexander, 2, República Federal da Alemanha, L. T. A., Ltd., com sede em Johannesburg, na Rua de De Körte, 20, República da África do Sul, Siemens Aktiengesellschaft, com sede em Erlangen, 2, na Rua de Werner von Siemens, República Federal da Alemanha, Shaft Sinkers (Proprietary), Ltd., com sede em Johannesburg, na Main Street, 45, República da África do Sul, Sociedades Reunidas de Fabricações Metálicas - Sorefame, S. A. R. L., com sede na Amadora, Portugal, Società Anonima Elettrificazione, S. p. A., com sede em Milão, na Via Gustavo Eara, 26, Itália, Société Générale de Constructions Électriques et Mécaniques Alsthom, com sede em Paris, na Avenida de Kleber, 38, França, e Compagnie de Constructions Internationales, com sede em Paris, na Avenida de Friedland, 42, França, por si e em representação das firmas Société des Grands Travaux de Marseille, com sede em Paris, na Rua de Courcelles, 25, França, Société Générale d'Entreprises, com sede em Paris, na Rua de Faubourg Saint-Honoré, 56, França, Société Française d'Entreprises de Dragages et de Travaux Publics, com sede em Paris, na Rua de Cambacérès, 10, França, Compagnie Industrielle de Travaux, com sede em Paris, no Boulevard Malesherbes, 16, França, Entreprises Campenon-Bernard, com sede em Paris, na Avenida de Friedland, 42, França, e a firma Consa (Proprietary), Ltd., com sede em Braamfontein, Johannesburg, representada por ..., se lavra o presente contrato entre o Estado Português e os demais outorgantes, nas condições entre todos acordadas, que são as seguintes:
+
+###### ARTIGO 1.º
+
+Ao contrato para execução do empreendimento de Cabora Bassa, celebrado ao abrigo do [Decreto-Lei n.º 49225](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49225-1969-380347), de 4 de Setembro de 1969, é associada, para todos e quaisquer efeitos, como terceiro outorgante a firma Consa (PTY), Ltd.
+
+###### ARTIGO 2.º
+
+Para efeitos do disposto no artigo 66.º do contrato, a firma Consa (PTY), Ltd., é incluída quer na parte A, quer na parte C da alínea b) do n.º 2 do mesmo artigo 66.º
+
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Draft of the contract
+
+On the ..., authorized by the Decree-Law No. 591/71, of 27 December, the firm Zamco - Zambeze Consórcio Hidroeléctrico, Lda., with seat in Lisbon, represented by ..., the firms Allgemeine Elektricitäts - Gesellschaft AEG - Telefunken, with seat in Frankfurt Süd, in Mainkai, Federal Republic of Germany, Brown Boveri & Cie, with seat in Mannheim and Augusta - Anlage 22/24, Federal Republic of Germany, Compagnie Générale d'Entreprises Électriques (C. G. E. E. - Cogelex), with seat in Levallois-Perret, at Antonin Raynaud Street, 13, France, Entreprises Fougerolle - Limousin, with seat in Paris, at Paul Cézanne Street, 2, France, Hochtief Aktiengesellschaft, with seat in Essen, at Rellinghauser Street, 53, Federal Republic of Germany, J. M. Voith, G. m. b. H., with seat in Heidenheim Brenz, at Alexander Street, Federal Republic of Germany, L. T. A., Ltd., with seat in Johannesburg, at De Körte Street, 20, Republic of South Africa, Siemens Aktiengesellschaft, with seat in Erlangen, 2, at Werner von Siemens Street, Federal Republic of Germany, Shaft Sinkers (Proprietary), Ltd., with seat in Johannesburg, at Main Street, 45, Republic of South Africa, Sociedades Reunidas de Fabricações Metálicas - Sorefame, S. A. R. L., with seat in Amadora, Portugal, Società Anonima Elettrificazione, S. p. A., with seat in Milan, in Via Gustavo Fara, 26, Italy, Société Générale de Constructions Électriques et Mécaniques Alsthom, with seat in Paris, at Kleber Avenue, 38, France, and Compagnie de Constructions Internationales, with seat in Paris, at Friedland Avenue, 42, France, by itself and on behalf of the firms Société des Grands Travaux de Marseille, with seat in Paris, at Courcelles Street, 25, France, Société Générale d'Entreprises, with seat in Paris, at Faubourg Saint-Honoré Street, 56, France, Société Française d'Entreprises de Dragages et de Travaux Publics, with seat in Paris, at Cambacérès Street, 10, France, Compagnie Industrielle de Travaux, with seat in Paris, at Boulevard Malesherbes, 16, France, Entreprises Campenon-Barnard, with seat in Paris, in Friedland Avenue, 42, France, and the firm Consa (Proprietary), Ltd., with seat in Braamfontein, Johannesburg represented by ..., the present contract is drawn up between the Portuguese State and all the other grantors, in the conditions agreed upon between all of them, which are the following ones:
+
+ARTICLE 1st
+
+To the contract for the execution of the Cabora Bassa undertaking, made under Decree-Law No. 49225, of 4th September 1969 the firm Consa (PTY), Ltd., is associated for all and any effects, as third grantor.
+
+ARTICLE 2nd
+
+In what concerns article 66 of the Contract, the firm Consa (PTY), Ltd., is included either in part A, or in part C of paragraph b) of No. 2 of the same article 66.
+
+The Minister of Overseas, Joaquim Moreira da Silva Cunha.

@@ -1,0 +1,873 @@
+---
+schema_version: '1.0'
+id: pt:dre:168420:por
+title: Portaria n.º 140/92
+short_title: null
+summary: Aprova o Regulamento do Fundo Especial de Segurança Social dos Profissionais de Banca dos Casinos. Revoga as Portarias
+  n.os 340/85, de 5 de Junho, 4/86, de 3 de Janeiro, e 220/91, de 19 de Março
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Emprego e da Segurança Social
+proposing_entity: null
+official_number: 140/92
+official_date: null
+publication_date: '1992-03-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 53/1992, Série I-B de 1992-03-04
+  number: '53'
+  series: I
+  supplement: null
+  pages: 1158 - 1163
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/03/053b00/11581163.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2019-09-21'
+version_history:
+  file: portaria-140-92.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1992-03-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-01-30'
+    amending: pt:dre:602508:por
+    amending_title: Portaria n.º 96/93
+    changes:
+    - Altera Artigo 48.º
+    - Altera Artigo 51.º
+  - date: '1994-02-14'
+    amending: pt:dre:522234:por
+    amending_title: Portaria n.º 101/94
+    changes:
+    - Altera Artigo 48.º
+  - date: '2017-01-10'
+    amending: pt:dre:105726272:por
+    amending_title: Portaria n.º 12/2017
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 10.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 37.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Artigo 41.º
+    - Altera Artigo 43.º
+    - Altera Artigo 56.º
+    - Revoga Artigo 17.º
+    - Revoga Subsecção I
+    - Revoga Artigo 25.º
+    - Revoga Artigo 26.º
+    - Revoga Artigo 27.º
+    - Revoga Artigo 28.º
+    - Revoga Artigo 29.º
+    - Revoga Secção V
+    - Revoga Artigo 35.º
+    - Revoga Artigo 36.º
+  - date: '2019-09-21'
+    amending: pt:dre:124879310:por
+    amending_title: Portaria n.º 324/2019
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/140/1992/p/cons/20190920/pt/html
+  oj: null
+  dre: '168420'
+  dre_path: /dr/detalhe/portaria/140-1992-168420
+  internal: pt:dre:168420:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/140-1992-168420
+  metadata_url: https://data.dre.pt/eli/port/140/1992/p/cons/20190920/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1992-124899258
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1992-124899258
+  retrieved_at: '2026-10-22T12:29:12Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 81a636dc8b9e7a915684a70a4abc81cb4c27c2b6302fb394b90e5d9aef30d482
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:29:12Z'
+  notes: 5 versão(ões); histórico completo em portaria-140-92.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Jogos de Fortuna e Azar
+- Fundo Especial de Segurança Social dos Profissionais de Banca dos Casinos
+- Pessoal dos Casinos
+- Regulamento
+- Segurança Social
+relationships:
+- type: amended_by
+  target: pt:dre:515795:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/51-1992-515795
+  date: '1992-04-30'
+- type: amended_by
+  target: pt:dre:602508:por
+  label: Altera Artigo 48.º; Altera Artigo 51.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/96-1993-602508
+  date: '1993-01-25'
+- type: amended_by
+  target: pt:dre:522234:por
+  label: Altera Artigo 48.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/101-1994-522234
+  date: '1994-02-09'
+- type: amended_by
+  target: pt:dre:105726272:por
+  label: Altera Artigo 5.º; Altera Artigo 10.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo
+    18.º; Altera Artigo 19.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo
+    24.º; Altera Artigo 37.º; Altera Artigo 39.º; Altera Artigo 40.º; Altera Artigo 41.º; Altera Artigo 43.º; Altera Artigo
+    56.º; Revoga Artigo 17.º; Revoga Subsecção I
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272
+  date: '2017-01-09'
+- type: amended_by
+  target: pt:dre:124879310:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310
+  date: '2019-09-20'
+- type: cites
+  target: pt:dre:476505:por
+  label: null
+  source: http://data.dre.pt/eli/port/220/1991/03/19/p/dre
+article_structure:
+  article_count: 60
+  section_count: 13
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:29:12Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 140/92
+
+Portaria n.º 140/92
+
+de 4 de Março
+
+Em cumprimento do disposto nas alíneas a) e b) do n.º 1 do Despacho n.º 8/SESS/90, publicado no Diário da República, 2.ª série, n.º 53, de 5 de Março de 1990, foram elaborados os estudos de natureza actuarial, jurídica e social referentes à situação financeira do Fundo Especial de Segurança Social dos Profissionais de Banca dos Casinos.
+
+Na sequência das conclusões a que se chegou, foram inventariadas as alterações consideradas necessárias ou aconselháveis para a estabilização financeira do Fundo e a garantia dos direitos dos seus beneficiários, pensionistas e activos, sobretudo na perspectiva de médio e de longo prazos.
+
+O regulamento aprovado pela presente portaria foi objecto de estudo por parte de um grupo de trabalho onde participaram os organismos interessados e visa substituir o que foi aprovado pela Portaria n.º 340/85, de 5 de Junho. O articulado integra as referidas alterações, a par de outras que, no plano técnico, procuram dar um melhor enquadramento às normas que constituem o regulamento.
+
+Outras inovações visam o aperfeiçoamento do próprio regime de protecção social. Entre estas importa salientar a previsão da concessão de uma 14.ª prestação aos pensionistas do Fundo, a regulamentação da continuação facultativa do enquadramento e a consideração das situações de incapacidade por acidente de trabalho e doenças profissionais.
+
+Por outro lado, estabelecem-se regras tendentes à melhoria do funcionamento do conselho consultivo, como à clarificação jurídico-institucional do Fundo, de modo a acentuar o seu estatuto jurídico-privatístico, embora no âmbito do sector das mutualidades, de acordo com o disposto no artigo 120.º do Código das Associações Mutualistas, aprovado pelo Decreto-Lei n.º 72/90, de 3 de Março, único dispositivo legal, de resto, utilizável para o efeito do que tem sido chamado a privatização do Fundo.
+
+Assim:
+
+Manda o Governo, pelo Secretário de Estado da Segurança Social, ao abrigo do n.º 4 do artigo 79.º do Decreto-Lei n.º 442/89, de 2 de Dezembro, o seguinte.
+
+1.º É aprovado o Regulamento do Fundo Especial de Segurança Social dos Profissionais de Banca dos Casinos, anexo à presente portaria.
+
+2.º São revogadas as Portarias n.os 340/85, de 5 de Junho, 4/86, de 3 de Janeiro, e 220/91, de 19 de Março.
+
+Ministério do Emprego e da Segurança Social.
+
+Assinada em 30 de Janeiro de 1992.
+
+O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.
+
+Regulamento do Fundo Especial de Segurança Social dos Profissionais de Banca dos Casinos
+
+### Capítulo I — Objectivo e âmbito pessoal
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 1.º — Objectivo
+
+O presente Regulamento estabelece as condições de atribuição das prestações pecuniárias asseguradas pelo Fundo Especial de Segurança Social dos Profissionais de Banca dos Casinos, a seguir designado por Fundo.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 2.º — Âmbito pessoal
+
+Consideram-se beneficiários do Fundo os profissionais de banca dos casinos que exerçam nas salas de jogos tradicionais as profissões referidas nas alíneas seguintes:
+
+a) Chefe de sala (ex-chefe de partida);
+
+b) Adjunto de chefe de sala (ex-fiscal-chefe);
+
+c) Chefe de banca;
+
+d) Fiscal de banca;
+
+e) Pagador;
+
+f) Ficheiro fixo (caixa-comprador e caixa-vendedor);
+
+g) Ficheiro-volante;
+
+h) Contínuo;
+
+i) Porteiro;
+
+j) Controlador de identificação.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 3.º — Grupos de beneficiários
+
+Para efeitos da fixação das prestações regulamentares, os beneficiários referidos no número anterior são classificados em dois grupos, a seguir indicados:
+
+Grupo I - Empregados de banca: os profissionais referidos nas alíneas a) a e).
+
+Grupo II - Auxiliares de banca: os profissionais referidos nas alíneas f) a j).
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 4.º — Continuação facultativa do enquadramento
+
+Os beneficiários do Fundo há mais de 36 meses que deixem de exercer as profissões referidas ao artigo 2.º podem manter aquela qualidade desde que o requeiram antes de terem decorrido 12 meses sobre a data de cessação do exercício da profissão e paguem contribuições nos termos do presente Regulamento.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Retificado pelo/a [Declaração de Rectificação n.º 51/92 - Diário da República n.º 100/1992, 2º Suplemento, Série I-B de 1992-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/51-1992-515795), em vigor a partir de 1992-03-09
+
+### Capítulo II — Âmbito material
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+#### Secção I — Disposições gerais e comuns
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 5.º — Esquema de prestações
+
+1 - São concedidas, nos termos do presente Regulamento, prestações pecuniárias nas eventualidades de invalidez, velhice e morte, complementares de idênticas prestações do regime geral de segurança social.
+
+2 - Para efeitos do disposto no número anterior, consideram-se como equiparadas às situações de invalidez as situações de incapacidade permanente absoluta determinadas por doença profissional ou acidente de trabalho.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272), em vigor a partir de 2017-01-10, produz efeitos a partir de 2017-01-01
+
+###### Artigo 6.º — Condições gerais de atribuição das prestações
+
+1 - Têm acesso às prestações referidas no artigo anterior os beneficiários que preencham o tempo de exercício efectivo da profissão exigível para cada uma das eventualidades previstas neste Regulamento.
+
+2 - Consideram-se, para todos os efeitos deste Regulamento, como equivalentes ao exercício efectivo da profissão as situações que determinem o reconhecimento do direito às gratificações, nos termos do n.º 23 do regulamento anexo à Portaria n.º 1159/90, de 27 de Novembro.
+
+3 - A concessão de prestações de invalidez ou de velhice é incompatível com o exercício de qualquer profissão ou cargo remunerado.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 7.º — Efeitos da cessação do exercício da profissão
+
+Os beneficiários do Fundo que deixem de exercer efectivamente as profissões referidas no artigo 2.º e não requeiram a continuação facultativa do pagamento de quotizações mantêm o direito às prestações complementares de invalidez, velhice e sobrevivência calculadas nos termos deste Regulamento, com base no montante mínimo que vigorava à data da cessação da actividade e sem a consideração de actualizações.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Retificado pelo/a [Declaração de Rectificação n.º 51/92 - Diário da República n.º 100/1992, 2º Suplemento, Série I-B de 1992-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/51-1992-515795), em vigor a partir de 1992-03-09
+
+###### Artigo 8.º — Natureza das prestações
+
+1 - As prestações a conceder pelo Fundo podem ser aumentadas, diminuídas, suspensas ou anuladas, de acordo com as disponibilidades do Fundo, mediante avaliação actuarial e económico-financeira e depois de ouvido o conselho consultivo.
+
+2 - As prestações devidas aos beneficiários não podem ser cedidas a terceiros nem penhoradas.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 9.º — Alteração dos prazos de garantia
+
+A eventual alteração dos prazos de garantia do regime geral da segurança social para concessão das pensões produz efeitos relativamente às condições de atribuição das prestações complementares, previstas neste Regulamento.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 10.º — Pagamento das prestações em caso de falecimento
+
+As prestações devidas e não pagas à data do falecimento do beneficiário revertem para as pessoas que reúnam as condições exigidas para a atribuição da prestação complementar de sobrevivência, no montante das percentagens que lhes sejam aplicáveis nos termos do artigo 32.º
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272), em vigor a partir de 2017-01-10, produz efeitos a partir de 2017-01-01
+
+###### Artigo 11.º — Cessação das prestações
+
+As prestações periódicas complementares concebidas pelo Fundo cessam nos mesmos termos das conferidas ao abrigo do regime geral de segurança social, salvo disposição especial em contrário.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 12.º — Prescrição das prestações
+
+O direito às prestações devidas pelo Fundo prescreve a favor deste nos termos e no mesmo prazo das prestações atribuídas pelo regime geral de segurança social.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 13.º — Cálculo das prestações nos casos de transição do grupo II para o grupo I
+
+Os beneficiários do Fundo que transitem do grupo II para o grupo I têm direito a que lhes seja contado, para efeitos de atribuição das prestações previstas neste Regulamento, um terço do tempo de exercício efectivo da profissão enquanto integrados no grupo II.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 14.º — Número de prestações anuais
+
+As prestações complementares de invalidez, velhice e sobrevivência são pagas mensalmente.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272), em vigor a partir de 2017-01-10, produz efeitos a partir de 2017-01-01
+
+###### Artigo 15.º — Actualização das prestações
+
+As prestações complementares por invalidez, velhice e sobrevivência, uma vez atribuídas, são atualizadas anualmente pela aplicação da taxa considerada para atualização do montante mínimo referido no artigo 18.º, de acordo com as disponibilidades do Fundo, mediante avaliação atuarial e económico-financeira e depois de ouvido o conselho consultivo.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272), em vigor a partir de 2017-01-10, produz efeitos a partir de 2017-01-01
+
+#### Secção II — Prestação complementares de invalidez
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 16.º — Condições de atribuição
+
+A concessão da prestação complementar de invalidez depende de o beneficiário do Fundo:
+
+a) Ser pensionista de invalidez absoluta do regime geral de segurança social;
+
+b) Ter 60 meses seguidos ou interpolados com pagamento de quotizações para o Fundo resultante do exercício efetivo da profissão.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272), em vigor a partir de 2017-01-10, produz efeitos a partir de 2017-01-01
+
+###### Artigo 17.º — Verificação da incapacidade
+
+A concessão das prestações a que se refere a presente secção só tem lugar após reconhecimento da situação de incapacidade permanente pelos serviços de verificação de incapacidades permanentes dos Centros regionais de segurança social.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 12/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272), em vigor a partir de 2017-01-10, produz efeitos a partir de 2017-01-01
+
+###### Artigo 18.º — Montante mínimo
+
+O montante mensal das prestações a que se reporta a presente secção não pode ser inferior a:
+
+a) 281,32 (euro) para os beneficiários do grupo I;
+
+b) Um terço do montante referido na alínea anterior para os beneficiários do grupo II.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272), em vigor a partir de 2017-01-10, produz efeitos a partir de 2017-01-01
+
+###### Artigo 19.º — Actualização do valor mínimo
+
+1 - O montante mínimo mensal fixado no número anterior pode ser atualizado anualmente, por despacho do Secretário de Estado da Segurança Social, segundo a taxa de variação do índice de preços no consumidor referente ao ano civil anterior, excluído o valor relativo à habitação, em função das disponibilidades do Fundo.
+
+2 - Sempre que a taxa referida no número anterior for superior à taxa de aumento das quotizações pagas para o Fundo verificada no ano anterior, poderá esta ser tomada em conta, se for caso disso, na actualização do montante mínimo mensal das prestações complementares de invalidez.
+
+3 - O valor actualizado produz efeitos a partir do dia 1 de Abril do ano civil a que se reporta e até ao final de Março do ano civil seguinte.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272), em vigor a partir de 2017-01-10, produz efeitos a partir de 2017-01-01
+
+###### Artigo 20.º — Cálculo
+
+1 - O valor mensal da prestação complementar de invalidez é igual a 80 % do valor apurado nos termos dos números seguintes.
+
+2 - O valor mensal das prestações complementares de invalidez dos beneficiários que tenham cumprido o prazo de garantia e cujo período de exercício da profissão, com pagamento de quotizações para o Fundo, não exceda 120 meses é igual ao montante mínimo definido nos termos dos artigos anteriores.
+
+3 - Cada período de 12 meses de exercício efectivo da profissão com entrada de quotizações para o Fundo para além dos 120 referidos no número anterior e até ao 240.º mês, inclusive, determina o aumento de 5% do montante mínimo mensal da prestação.
+
+4 - Para os beneficiários cujo período de exercício efectivo da profissão com entrada de quotizações para o Fundo seja superior a 240 e inferior ou igual a 300 meses, cada período de 12 meses para além dos 240 dá direito a um aumento de 7,5% do valor mínimo da prestação complementar.
+
+5 - Cada 12 meses de exercício efectivo da profissão com entrada de quotizações para o Fundo para além de 300 meses determina um acréscimo de 10% do valor mínimo da prestação.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272), em vigor a partir de 2017-01-10, produz efeitos a partir de 2017-01-01
+
+> Retificado pelo/a [Declaração de Rectificação n.º 51/92 - Diário da República n.º 100/1992, 2º Suplemento, Série I-B de 1992-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/51-1992-515795), em vigor a partir de 1992-03-09
+
+###### Artigo 21.º — Data a que se reporta o cálculo da prestação
+
+O montante da prestação complementar de invalidez é calculado com base no montante mínimo em vigor à data da receção do requerimento da prestação, ou à data a que se reporte a incapacidade permanente e definitiva para toda e qualquer profissão ou trabalho, se posterior.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272), em vigor a partir de 2017-01-10, produz efeitos a partir de 2017-01-01
+
+> Retificado pelo/a [Declaração de Rectificação n.º 51/92 - Diário da República n.º 100/1992, 2º Suplemento, Série I-B de 1992-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/51-1992-515795), em vigor a partir de 1992-03-09
+
+#### Secção III — Prestações complementares de velhice
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 22.º — Condições de atribuição
+
+1 - A concessão das prestações complementares de velhice depende do exercício efectivo da profissão com entrada de quotizações para o Fundo durante 120 meses seguidos ou interpolados.
+
+2 - O reconhecimento do direito às prestações a que se refere o número anterior depende ainda da passagem do beneficiário à situação de pensionista de velhice no âmbito do regime geral de segurança social ou, para os pensionistas de invalidez relativa do regime geral, da sua convolação em pensão de velhice.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272), em vigor a partir de 2017-01-10, produz efeitos a partir de 2017-01-01
+
+###### Artigo 23.º — Montante das prestações
+
+1 - Ao montante mínimo e ao cálculo da prestação complementar de velhice aplicam-se as regras previstas nos artigos 18.º, 19.º e n.os 2 a 5 do artigo 20.º
+
+2 - Quando esteja em causa uma prestação complementar de velhice, na sequência de uma pensão de velhice antecipada ao abrigo do regime de flexibilização ou do regime de antecipação nas situações de desemprego de longa duração, ao cálculo da prestação complementar são aplicáveis, respetivamente, as regras de cálculo previstas nos artigos 36.º e 38.º do Decreto-Lei n.º 187/2007, e as regras de cálculo previstas no artigo 58.º do Decreto-Lei n.º 220/2006, de 3 de novembro.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272), em vigor a partir de 2017-01-10, produz efeitos a partir de 2017-01-01
+
+###### Artigo 24.º — Data a que se reporta o cálculo da prestação
+
+O montante mensal da prestação complementar de velhice é calculado com base no montante mínimo aplicável em vigor na data da receção do requerimento de pensão de velhice do regime geral ou à data em que o beneficiário perfizer a idade normal de acesso à pensão de velhice, caso esta seja posterior à data do requerimento.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272), em vigor a partir de 2017-01-10, produz efeitos a partir de 2017-01-01
+
+#### Secção IV — Prestações complementares por morte
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+##### Subsecção I — Subsídio de morte
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 12/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272), em vigor a partir de 2017-01-10, produz efeitos a partir de 2017-01-01
+
+###### Artigo 25.º — Prazo de garantia
+
+1 - A atribuição do subsídio por morte depende de os beneficiários do Fundo terem, à data do seu falecimento, pelo menos seis meses de exercício efectivo da profissão.
+
+2 - É dispensado o período referido no número anterior quando em nome do beneficiário tenha havido entrada de quotizações em algum dos 180 dias imediatamente anteriores a acidente que lhe tenha provocado a morte.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 12/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272), em vigor a partir de 2017-01-10, produz efeitos a partir de 2017-01-01
+
+###### Artigo 26.º — Destinatários do subsídio
+
+1 - O subsídio por morte é atribuído à pessoa ou pessoas designadas pelo beneficiário e devidamente identificadas em declaração assinada por este.
+
+2 - Na falta de designação, o subsídio é deferido ao cônjuge e na sua falta aos descendentes ou equiparados que, à data da morte, confiram direito a abono de família, incluindo os nascituros e os que aufiram subsídio mensal vitalício ou pensão social por incapacidade permanente.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 12/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272), em vigor a partir de 2017-01-10, produz efeitos a partir de 2017-01-01
+
+###### Artigo 27.º — Situações excluídas
+
+É excluído do âmbito do disposto no n.º 2 do artigo anterior o cônjuge sobrevivo separado judicialmente de pessoas e bens:
+
+a) Na separação litigiosa, se o mesmo tiver sido declarado culpado;
+
+b) Na separação por mútuo consentimento, se tal direito não tiver sido consignado no acordo sobre a prestação de alimentos ao cônjuge que deles careça.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 12/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272), em vigor a partir de 2017-01-10, produz efeitos a partir de 2017-01-01
+
+###### Artigo 28.º — Montante do subsídio
+
+1 - O subsídio por morte é uma prestação de atribuição única.
+
+2 - O subsídio por morte para os beneficiários de qualquer dos grupos tem o valor de seis vezes o montante mínimo referido na alínea a) artigo 18.º que vigore à data da morte.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 12/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272), em vigor a partir de 2017-01-10, produz efeitos a partir de 2017-01-01
+
+###### Artigo 29.º — Requisitos formais da declaração
+
+1 - Para efeitos do disposto no n.º 1 do artigo 26.º a declaração deverá ser encerrada em sobrescrito lacrado e entregue na instituição gestora das prestações, mediante recibo, ou enviada pelo correio, sob registo.
+
+2 - A referida declaração pode a todo o tempo ser retirada ou substituída por solicitação assinada pelo próprio.
+
+3 - As declarações não conformes com os requisitos enunciados serão consideradas nulas.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 12/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272), em vigor a partir de 2017-01-10, produz efeitos a partir de 2017-01-01
+
+##### Subsecção II — Prestações complementares de sobrevivência
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 30.º — Prazo de garantia
+
+A atribuição das prestações complementares de sobrevivência depende de os beneficiários terem, à data da morte, pelo menos 36 meses, seguidos ou interpolados, de exercício efectivo da profissão com entrada de quotizações para o Fundo.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 31.º — Titulares do direito
+
+São titulares do direito às prestações complementares de sobrevivência o cônjuge e os filhos ou equiparados a quem seja reconhecido idêntico direito pelo regime geral de segurança social.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 32.º — Cálculo das prestações de sobrevivência
+
+1 - O montante mensal das prestações complementares de sobrevivência é fixado de acordo com as percentagens que vigorem para o cálculo das pensões de sobrevivência do regime geral de segurança social.
+
+2 - Para efeitos de incidência das percentagens a que se refere o número anterior é considerado o montante mensal das prestações complementares de invalidez ou de velhice que o beneficiário estivesse a receber a data da morte ou aquele a que o mesmo teria direito naquela data se o óbito se registasse na situação de activo.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 33.º — Vencimento da prestação
+
+As prestações de sobrevivência são devidas a partir do mês imediato ao do falecimento do beneficiário e são pagas no final de cada mês.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 34.º — Extinção do direito de requerer
+
+O direito de requerer a prestação extingue-se no prazo de um ano após a morte do beneficiário.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+#### Secção V — Prestações pecuniárias de apoio social
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 12/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272), em vigor a partir de 2017-01-10, produz efeitos a partir de 2017-01-01
+
+###### Artigo 35.º — Condições de atribuição
+
+Nos casos em que se verifiquem as situações de carência económica grave podem ser atribuídas, de acordo com as disponibilidades financeiras do Fundo, prestações pecuniárias de apoio social.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 12/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272), em vigor a partir de 2017-01-10, produz efeitos a partir de 2017-01-01
+
+###### Artigo 36.º — Situações de carência
+
+1 - As prestações de apoio social complementar só serão atribuídas nos casos em que o agregado familiar do beneficiário do Fundo tenha um rendimento per capita inferior ao valor da remuneração mínima mensal garantida à generalidade dos trabalhadores e em situações comprovadas de:
+
+a) Doença do beneficiário, seu cônjuge ou descendente a cargo que exija internamento ou tratamento ambulatório de custo elevado, nomeadamente deslocações ao estrangeiro, nos casos em que se comprove que a assistência não pode ser assegurada no País;
+
+b) Deficiência ou invalidez do beneficiário, seu cônjuge ou descendente a cargo que obrigue a aquisição de próteses ou outros meios de apoio.
+
+2 - Para os efeitos do número anterior consideram-se a cargo do beneficiário os descendentes que confiram direito ao abono de família.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 12/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272), em vigor a partir de 2017-01-10, produz efeitos a partir de 2017-01-01
+
+> Retificado pelo/a [Declaração de Rectificação n.º 51/92 - Diário da República n.º 100/1992, 2º Suplemento, Série I-B de 1992-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/51-1992-515795), em vigor a partir de 1992-03-09
+
+#### Secção VI — Processamento das prestações
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 37.º — Requerimento
+
+O requerimento para atribuição das prestações complementares previstas neste Regulamento é entregue no Instituto de Segurança Social, I. P. (ISS), ou nos serviços de segurança social competentes das regiões autónomas dos Açores e da Madeira.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272), em vigor a partir de 2017-01-10, produz efeitos a partir de 2017-01-01
+
+###### Artigo 38.º — Legitimidade para requerer
+
+1 - Qualquer interessado ou seu representante legal pode requerer a atribuição das prestações, para o que juntará ao requerimento os documentos comprovativos necessários à verificação das condições exigidas para a atribuição da prestação requerida.
+
+2 - Na falta de representante legal, as prestações devidas a menores ou incapazes podem ser atribuídas oficiosamente e depositadas as respectivas importâncias, até à cessação ou suprimento da incapacidade, na Caixa Geral de Depósitos, Crédito e Previdência, à ordem do titular ou de quem vier a ser nomeado seu representante.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 39.º — Organização do processo
+
+1 - Os requerimentos para atribuição das prestações do presente Regulamento devem ser instruídos com:
+
+a) Os documentos comprovativos indispensáveis à verificação da situação determinante da atribuição das prestações;
+
+b) Quaisquer outros elementos que a Caixa de Previdência considere necessários à correcta definição da situação do beneficiário e do seu agregado familiar, se for caso disso.
+
+2 - (Revogado);
+
+3 - A Caixa de Previdência deve dispensar os requerentes da entrega de documentos de que a instituição já disponha.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 12/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272), em vigor a partir de 2017-01-10, produz efeitos a partir de 2017-01-01
+
+### Capítulo III — Gestão financeira
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 40.º — Receitas do Fundo
+
+Constituem receitas do Fundo:
+
+a) Quotizações obrigatórias representadas por 15 % das gratificações recebidas pelo pessoal ao serviço das salas de jogo tradicionais dos casinos;
+
+b) Contribuições facultativas previstas neste Regulamento;
+
+c) Rendimentos de imóveis;
+
+d) Receitas financeiras correntes;
+
+e) Receitas de aplicações financeiras;
+
+f) Doações, legados ou heranças;
+
+g) Quaisquer receitas que legalmente lhe venham a ser atribuídas.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272), em vigor a partir de 2017-01-10, produz efeitos a partir de 2017-01-01
+
+###### Artigo 41.º — Pagamento de quotizações facultativas
+
+1 - As quotizações facultativas a que se refere a alínea b) do número anterior são as devidas pelos beneficiários referidos no artigo 4.º
+
+2 - O montante mensal das quotizações facultativas é calculado em cada ano pela aplicação da taxa de 15 % sobre uma importância correspondente à média mensal de gratificações no casino onde, no ano anterior, os montantes distribuídos tenham sido mais elevados e vigora de 1 de abril até ao final do mês de março do ano civil seguinte.
+
+3 - As quotizações são devidas a partir do 1.º dia do mês seguinte àquele em que foi apresentado o requerimento para a continuação facultativa do pagamento de quotizações.
+
+4 - Os períodos de continuação facultativa do pagamento de quotizações são equiparados, para todos os efeitos, a tempo de exercício efectivo da profissão.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272), em vigor a partir de 2017-01-10, produz efeitos a partir de 2017-01-01
+
+###### Artigo 42.º — Efeitos da falta de pagamento facultativo
+
+1 - A falta de pagamento das quotizações facultativas é equiparada, para efeitos do presente Regulamento, à cessação do exercício das profissões referidas no artigo 2.º, caso em que se aplica o disposto no artigo 7.º
+
+2 - Nos casos do número anterior, se o interessado pretender retomar o direito à quotização facultativa, pode requerê-lo no prazo máximo de dois anos após o último pagamento e mediante a efectivação do pagamento do montante de quotizações em falta, acrescido de juros de mora calculados de acordo com o disposto para as contribuições do regime geral de segurança social.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 43.º — Despesas do Fundo
+
+1 - Constituem despesas do Fundo as resultantes de:
+
+a) Concessão das prestações complementares de invalidez, velhice e sobrevivência;
+
+b) [Revogada];
+
+c) Administração do Fundo.
+
+2 - [Revogado].
+
+3 - As despesas com administração incluem as inerentes à gestão financeira, à concessão das prestações do Fundo e ainda as referentes ao funcionamento do conselho consultivo e correspondem a 5% do valor total das contribuições arrecadadas no próprio ano.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272), em vigor a partir de 2017-01-10, produz efeitos a partir de 2017-01-01
+
+> Retificado pelo/a [Declaração de Rectificação n.º 51/92 - Diário da República n.º 100/1992, 2º Suplemento, Série I-B de 1992-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/51-1992-515795), em vigor a partir de 1992-03-09
+
+###### Artigo 44.º — Entidade gestora
+
+1 - A gestão financeira do Fundo compete à Caixa de Previdência, que será apoiada tecnicamente pelo Instituto de Gestão Financeira da Segurança Social.
+
+2 - O apoio técnico e as correspondentes instruções do IGFSS visarão prioritariamente as aplicações financeiras dos valores do Fundo, tendo em vista maximizar a sua rendibilidade.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Retificado pelo/a [Declaração de Rectificação n.º 51/92 - Diário da República n.º 100/1992, 2º Suplemento, Série I-B de 1992-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/51-1992-515795), em vigor a partir de 1992-03-09
+
+###### Artigo 45.º — Relatório de gestão
+
+1 - Anualmente, a Caixa de Previdência deve elaborar um relatório de gestão, com indicação das tendências a médio e a longo prazos do funcionamento do Fundo.
+
+2 - O relatório a que se refere o número anterior deve ser enviado até ao dia 28 de Fevereiro do ano seguinte àquele a que se reporta ao conselho consultivo previsto neste Regulamento, bem como à Direcção-Geral dos Regimes de Segurança Social e ao Instituto de Gestão Financeira da Segurança Social.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 46.º — Avaliação da gestão
+
+1 - Trienalmente, proceder-se-á à avaliação da gestão financeira do Fundo, tendo, designadamente, em vista a análise das aplicações financeiras dos respectivos valores e o estudo técnico e actuarial que permita a tomada das medidas que se mostrem indispensáveis ao equilíbrio financeiro do esquema de prestações.
+
+2 - A avaliação financeira e actuarial do Fundo prevista no número anterior será realizada por uma comissão técnica constituída por peritos designados, respectivamente, pelo Instituto de Gestão Financeira da Segurança Social, pela Direcção-Geral dos Regimes de Segurança Social e pela Caixa de Previdência, neste caso ouvido o conselho consultivo.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+### Capítulo IV — Participação
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 47.º — Conselho consultivo
+
+Os beneficiários participam na gestão e acompanham o funcionamento do Fundo através de um conselho consultivo.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 48.º — Composição do conselho consultivo
+
+1 - O conselho consultivo é composto pelos seguintes elementos efectivos, cada um dos quais terá um substituto, nomeados por despacho do Secretário de Estado da Segurança Social:
+
+a) O presidente do conselho directivo do Instituto de Gestão Financeira da Segurança Social, que presidirá;
+
+b) Um elemento a designar por cada um dos sindicatos representativos dos beneficiários activos do Fundo;
+
+c) Um elemento a designar pela Associação Nacional dos Profissionais de Banca dos Casinos;
+
+d) Um elemento a designar pela Associação dos Reformados;
+
+e) Um elemento a designar pelos trabalhadores que integram o grupo dos empregados de banca;
+
+f) Um elemento a designar pelos trabalhadores que integram o grupo dos auxiliares de banca;
+
+g) Um elemento a designar pelos pensionistas.
+
+2 - Para os efeitos da alínea b) do número anterior, consideram-se representativos dos beneficiários activos do Fundo os sindicatos que contem entre os seus sócios pelo menos 10% dos referidos beneficiários.
+
+3 - O conselho consultivo terá um vice-presidente, escolhido pelo próprio conselho de entre os seus membros, o qual substituirá o presidente nas suas faltas e impedimentos.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Alterado pelo/a [Portaria n.º 101/94 - Diário da República n.º 33/1994, Série I-B de 1994-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/101-1994-522234), em vigor a partir de 1994-02-14
+
+> Alterado pelo/a [Portaria n.º 96/93 - Diário da República n.º 20/1993, Série I-B de 1993-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/96-1993-602508), em vigor a partir de 1993-01-30
+
+> Retificado pelo/a [Declaração de Rectificação n.º 51/92 - Diário da República n.º 100/1992, 2º Suplemento, Série I-B de 1992-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/51-1992-515795), em vigor a partir de 1992-03-09
+
+###### Artigo 49.º — Duração do mandato
+
+O mandato dos membros do conselho consultivo é de três anos, prorrogável uma vez pelo mesmo período.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 50.º — Equiparação a exercício da profissão
+
+1 - O exercício das funções de membro do conselho consultivo é considerado, para todos os efeitos, como tempo de exercício de profissão.
+
+2 - Para efeitos do número anterior considera-se como tempo de exercício das funções de membro do conselho consultivo o período das reuniões e das deslocações inerentes, bem como os períodos de tempo necessários à preparação das mesmas.
+
+3 - Os períodos a que se refere a parte final do número anterior não podem exceder trinta e duas horas/mês ou 48 dias/ano.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 51.º — Designação dos membros do conselho
+
+Constam de regulamento aprovado por despacho do Secretário de Estado da Segurança Social as normas que regem a designação dos membros do conselho a que se referem as alíneas e), f) e g).
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Alterado pelo/a [Portaria n.º 96/93 - Diário da República n.º 20/1993, Série I-B de 1993-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/96-1993-602508), em vigor a partir de 1993-01-30
+
+###### Artigo 52.º — Competências
+
+1 - Compete ao conselho consultivo:
+
+a) Dar parecer sobre o relatório e os mapas demonstrativos da gestão do Fundo;
+
+b) Propor medidas destinadas a uma melhoria qualitativa ou quantitativa do esquema de prestações a conceder pelo Fundo;
+
+c) Dirigir aos órgãos de gestão do Fundo recomendações sobre a melhoria do funcionamento dos serviços prestados;
+
+d) Propor as medidas necessárias para assegurar o equilíbrio financeiro do Fundo;
+
+e) Pronunciar-se nos demais casos previstos neste Regulamento e sempre que solicitado para o efeito pela Caixa de Previdência.
+
+2 - No caso previsto na alínea a) do número anterior, o conselho consultivo proncunciar-se-á no prazo que for estabelecido, nunca inferior a 15 dias, devendo a falta de parecer ser considerada como concordância.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 53.º — Regime de funcionamento
+
+1 - O conselho consultivo reunirá ordinariamente três vezes por ano e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa ou a requerimento de um número de membros representantes dos beneficiários não inferior a metade.
+
+2 - O conselho consultivo só pode deliberar com a presença da maioria dos seus membros.
+
+3 - As deliberações do conselho consultivo são tomadas por maioria simples dos votos dos membros presentes, tendo o presidente voto de qualidade.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 54.º — Condições de funcionamento
+
+1 - A Caixa de Previdência providenciará pelo apoio logístico e administrativo ao funcionamento do Fundo.
+
+2 - O conselho consultivo disporá de um secretário permanente designado pelo conselho consultivo, sob proposta do presidente, de entre os funcionários da Caixa de Previdência dos Profissionais de Espectáculos.
+
+3 - O conselho consultivo tem direito a senhas de presença e ao reembolso das despesas de deslocações e alojamento nas condições a fixar no despacho a que se refere o artigo 51.º
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 55.º — Representantes do Fundo nas comissões de apuramento dos casinos
+
+O conselho consultivo previsto neste Regulamento designará os representantes do Fundo nas comissões de apuramento dos casinos a que se refere o n.º 3.º da Portaria n.º 1159/90, de 27 de Novembro.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+### Capítulo IV — Disposições finais
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 56.º — Revisão
+
+1 - Sempre que os resultados da avaliação da gestão a que se refere o artigo 46.º o aconselhem, podem os membros de Governo responsáveis pelas áreas das Finanças, da Segurança Social e do Turismo determinar a revisão do presente Regulamento, a solicitação da instituição gestora ou do conselho consultivo.
+
+2 - Os projectos de alteração do Regulamento serão sempre sujeitos a parecer do conselho consultivo.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 12/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/12-2017-105726272), em vigor a partir de 2017-01-10, produz efeitos a partir de 2017-01-01
+
+###### Artigo 57.º — Reforma institucional do Fundo
+
+1 - O Fundo poderá ser objecto de privatização por via institucional mediante integração ou transformação numa mutualidade.
+
+2 - A integração ou transformação a que se refere o n.º 1 depende de requerimento da maioria simples dos beneficiários do Fundo no gozo dos seus direitos e, no caso de integração, da concordância da associação mutualista.
+
+3 - A integração ou transformação, que está sujeita à aprovação do Ministro do Emprego e da Segurança Social, rege-se pelo disposto no artigo 120.º do Decreto-Lei n.º 72/90, de 3 de Março, que aprovou o Código das Associações Mutualistas.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 58.º — Integração e interpretação
+
+As dúvidas e casos omissos serão resolvidos pela aplicação analógica das disposições do regime geral da segurança social e, no caso da respectiva inaplicabilidade, por despacho do membro do Governo que detém a tutela do sector de segurança social.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 59.º — Norma revogatória
+
+Fica revogado o Regulamento do Fundo Especial de Segurança Social dos Profissionais de Banca dos Casinos, aprovado pela Portaria n.º 340/85, de 5 de Junho.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31
+
+###### Artigo 60.º — Entrada em vigor
+
+O presente Regulamento entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/324-2019-124879310), em vigor a partir de 2019-09-21, produz efeitos a partir de 2019-05-31

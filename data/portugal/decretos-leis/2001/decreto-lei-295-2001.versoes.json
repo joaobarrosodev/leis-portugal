@@ -1,0 +1,243 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:570098:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-116968778",
+ "dre_path": "/dr/detalhe/decreto-lei/295-2001-570098",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2001-11-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116977475",
+    "116977476",
+    "116977477",
+    "116977478",
+    "116977479",
+    "116977480",
+    "116977481",
+    "116977482",
+    "116977483",
+    "116977484"
+   ]
+  },
+  {
+   "date": "2007-02-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:517996:por",
+     "title": "Decreto-Lei n.º 31/2007",
+     "published": "2007-02-14",
+     "dre_path": "/dr/detalhe/decreto-lei/31-2007-517996"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "116977475",
+    "116977476",
+    "116977477",
+    "116977478",
+    "116977479",
+    "116977480",
+    "116977554",
+    "116977555",
+    "116977556",
+    "116977557",
+    "116977485"
+   ]
+  },
+  {
+   "date": "2019-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116967078:por",
+     "title": "Decreto-Lei n.º 94/2018",
+     "published": "2018-11-14",
+     "dre_path": "/dr/detalhe/decreto-lei/94-2018-116967078"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "116977475",
+    "116977476",
+    "116977477",
+    "116977478",
+    "116977479",
+    "116977480",
+    "116977558",
+    "116977559",
+    "116977556",
+    "116977557",
+    "116977485"
+   ]
+  }
+ ],
+ "fragments": {
+  "116977475": {
+   "fragment_id": "116968779",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 295/2001\n\nde 21 de Novembro\n\nO seguro dos riscos de investimento português no estrangeiro, com garantia do Estado, é objecto, desde 1986, de uma regulamentação específica, justificada pela natureza das operações que constituem o objecto do seguro e pela especificidade da cobertura dos riscos a elas inerentes.\n\nA experiência havida ao longo de mais de 10 anos e a evolução do investimento português no estrangeiro aconselham a que se proceda a uma revisão profunda do quadro jurídico criado ao abrigo do Decreto-Lei n.º 273/86, de 4 de Setembro. Pretende-se ajustar o seguro de investimento português no estrangeiro, com garantia do Estado, às condições em que hoje se desenvolvem estas operações, para que ele possa desempenhar mais cabalmente o seu papel como incentivo na política de apoio à internacionalização da economia portuguesa.\n\nNa prossecução do objectivo visado, procede-se à redefinição das operações susceptíveis de seguro e dos riscos de investimento e a alterações no procedimento previsto no regime decorrente do citado Decreto-Lei n.º 273/86, de 4 de Setembro, no sentido da sua simplificação, obtida através da expressa extensão ao seguro do investimento das regras hoje vigentes no que respeita à intervenção do Conselho de Garantias Financeiras e da COSEC - Companhia de Seguro de Créditos, S. A., na gestão e aprovação da garantia do Estado aos seguros de crédito e caução, estabelecidas no Decreto-Lei n.º 126/91, de 22 de Março.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "116977476": {
+   "fragment_id": "116968780",
+   "type": 11,
+   "heading": "Artigo 1.º — Regime legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Regime legal\n\nO seguro, com garantia do Estado, de riscos de investimento português no estrangeiro contra factos geradores de sinistro de natureza política, adiante designado «seguro de investimento», rege-se pelas disposições do presente diploma e, supletiva e sucessivamente, pelo regime jurídico do seguro de créditos e dos seguros, em geral, desde que os mesmos se não revelem incompatíveis com a natureza especial deste seguro."
+  },
+  "116977477": {
+   "fragment_id": "116968781",
+   "type": 11,
+   "heading": "Artigo 2.º — Investimento segurável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Investimento segurável\n\n1 - É susceptível de seguro de investimento a operação de aplicação de valores efectuada num país estrangeiro, o país de destino, por pessoa colectiva sediada em Portugal, constituída e funcionando de acordo com a lei portuguesa, e por pessoa singular de nacionalidade portuguesa a ela associada, adiante designadas como investidor, que tenha como objectivo a constituição de empresa, a aquisição total ou parcial de empresa já constituída, a modernização, a expansão e ou a reconversão da actividade de empresa, ou a abertura de sucursal, agência, escritório de representação ou estabelecimento, contabilisticamente autonomizáveis, desde que, cumulativamente, o investimento:\n\na) Seja novo, isto é, cuja execução não tenha sido iniciada antes da sua apresentação ao seguro;\n\nb) Tenha carácter de continuidade; e\n\nc) Seja objecto de enquadramento legal adequado no país de destino.\n\n2 - O investimento pode ser realizado:\n\na) Em numerário;\n\nb) Em espécie, incluindo a prestação de serviços, se susceptível de avaliação pecuniária;\n\nc) Mediante conversão em capital social de dívidas do país de destino;\n\nd) Através de reinvestimento de rendimentos de investimento que estejam em condições para serem repatriados;\n\ne) Por reavaliação de activos, constituição ou incorporação de reservas ou conversão de dívidas da empresa ao investidor, nos casos de aumento do valor do investimento.\n\n3 - O seguro de investimento poderá ainda abranger:\n\na) O empréstimo concedido pelo investidor à empresa objecto do investimento seguro, e a este associado, desde que a respectiva utilização não tenha sido iniciada antes da sua apresentação ao seguro e o reembolso seja a médio ou longo prazo;\n\nb) Os rendimentos do investimento e os juros do empréstimo referido na alínea anterior destinados a repatriamento ou reinvestimento;\n\nc) O produto resultante do desinvestimento."
+  },
+  "116977478": {
+   "fragment_id": "116968782",
+   "type": 11,
+   "heading": "Artigo 3.º — Empréstimo segurável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Empréstimo segurável\n\n1 - Pode ainda ser objecto de seguro de investimento o empréstimo concedido por instituição de crédito com sede em Portugal, desde que:\n\na) A respectiva utilização não tenha sido iniciada antes da sua apresentação ao seguro;\n\nb) O reembolso seja a médio ou a longo prazo;\n\nc) Esteja associado ao investimento, a realizar pelo investidor na empresa estrangeira destinatária do empréstimo, apresentado para seguro de investimento;\n\nd) Seja objecto de enquadramento legal adequado no país de destino.\n\n2 - O seguro de investimento relativo ao empréstimo pode abranger os juros destinados a repatriamento.\n\n3 - O seguro de investimento poderá ainda estender-se ao produto da alienação onerosa dos direitos da instituição de crédito decorrentes do empréstimo."
+  },
+  "116977479": {
+   "fragment_id": "116968783",
+   "type": 11,
+   "heading": "Artigo 4.º — Risco de investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Risco de investimento\n\n1 - O seguro de investimento cobre os prejuízos causados pelo risco de investimento, por ocorrência de um dos factos geradores de sinistro previstos no artigo seguinte, de acordo com o estipulado no contrato de seguro, designadamente no que respeita à verificação do sinistro.\n\n2 - Para os efeitos do disposto neste diploma, considera-se risco de investimento:\n\na) A privação total ou parcial da titularidade ou da possibilidade do segurado exercer os seus direitos relativos ao investimento seguro;\n\nb) A perda, pelo segurado, do controlo que, em função da sua participação, detenha efectivamente na empresa estrangeira ou a privação da capacidade do segurado para controlar ou operar o projecto ou partes essenciais do mesmo;\n\nc) A destruição, total ou parcial, ou o desaparecimento dos activos corpóreos da empresa estrangeira, bem como a impossibilidade de a empresa estrangeira exercer a sua actividade;\n\nd) O incumprimento, pela empresa estrangeira, das obrigações decorrentes do empréstimo seguro;\n\ne) A impossibilidade de transferir montantes destinados ao repatriamento de rendimentos ou de outras quantias seguras ligadas ao investimento ou ao reembolso do empréstimo;\n\nf) A impossibilidade de obter a conversão, à taxa de câmbio de referência definida na apólice, da moeda local para repatriar rendimentos ou outras quantias seguras ligadas ao investimento ou ao reembolso do empréstimo."
+  },
+  "116977480": {
+   "fragment_id": "116968784",
+   "type": 11,
+   "heading": "Artigo 5.º — Factos geradores de sinistro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Factos geradores de sinistro\n\nSão factos geradores de sinistro do risco de investimento e de empréstimo associado:\n\na) A nacionalização, a requisição, o confisco ou a expropriação, ou outras medidas legislativas ou administrativas de efeitos equivalentes, por parte do Governo ou entidade pública do país de destino, incluindo alteração da legislação reguladora do investimento estrangeiro, sem indemnização adequada;\n\nb) Guerra, revolução ou motim;\n\nc) Suspensão ou dificuldades de conversão e ou de transferência por motivos não imputáveis ao investidor ou à empresa estrangeira, incluindo a moratória geral decretada pelo governo ou por entidade pública do país de destino;\n\nd) A resolução infundada ou o incumprimento pelo governo do país de destino de contrato celebrado com o investidor, quando este não possa obter decisão judicial ou arbitral no tribunal competente, ou não consiga executá-la, dentro dos prazos fixados no contrato de seguro para o efeito."
+  },
+  "116977481": {
+   "fragment_id": "116968785",
+   "type": 11,
+   "heading": "Artigo 6.º — Contrato de seguro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Contrato de seguro\n\n1 - Os contratos de seguro de investimento são celebrados pela COSEC, em nome e por conta e ordem do Estado.\n\n2 - A promessa do seguro previsto neste diploma pode ser emitida por prazo não superior a um ano e só será válida depois de obtida a promessa de garantia do Estado.\n\n3 - As condições gerais e especiais das apólices dos contratos de seguro de investimento bem como o respectivo tarifário são aprovados por despacho conjunto dos Ministros dos Negócios Estrangeiros, das Finanças e da Economia, mediante proposta da COSEC - Companhia de Seguro de Créditos, S. A., e parecer do Conselho de Garantias Financeiras.\n\n4 - No que respeita às propostas de política de cobertura por país, aplicar-se-á ao seguro de investimento o disposto no Decreto-Lei n.º 126/91, de 22 de Março, sendo as deliberações do Conselho de Garantias Financeiras remetidas também ao Ministro dos Negócios Estrangeiros."
+  },
+  "116977482": {
+   "fragment_id": "116968786",
+   "type": 11,
+   "heading": "Artigo 7.º — Garantia do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Garantia do Estado\n\n1 - Os contratos de seguro de investimento serão sempre celebrados com a prévia garantia do Estado.\n\n2 - As garantias e promessas de garantia do Estado respeitantes ao seguro de investimento são propostas pela COSEC - Companhia de Seguro de Créditos, S. A., ao Conselho de Garantias Financeiras para deliberação.\n\n3 - O Conselho de Garantias Financeiras tem competência para deliberar a concessão da garantia do Estado às operações que lhe são propostas pela COSEC, excepto nos casos em que o valor a segurar for superior ao limite da competência delegada no Conselho de Garantias Financeiras, a fixar por portaria conjunta dos Ministros dos Negócios Estrangeiros, das Finanças e da Economia, nos casos previstos nas alíneas b) e c) do n.º 3 do artigo 5.º do Decreto-Lei n.º 126/91, de 22 de Março, ou quando não haja coincidência entre a proposta da COSEC e a deliberação do Conselho de Garantias Financeiras.\n\n4 - Nos casos em que as deliberações do Conselho de Garantias Financeiras não forem definitivas, serão as mesmas remetidas, para homologação, aos Ministros dos Negócios Estrangeiros, das Finanças e da Economia e consideram-se tacitamente homologadas desde que não seja emitido despacho em sentido contrário por parte de algum deles, decorridos 20 dias úteis contados da respectiva entrega.\n\n5 - O prazo de 20 dias úteis previsto no número anterior pode ser prorrogado por igual período, por despacho de qualquer dos Ministros aí mencionados, com fundamento na necessidade de estudar mais profundamente o caso concreto."
+  },
+  "116977483": {
+   "fragment_id": "116968787",
+   "type": 11,
+   "heading": "Artigo 8.º — Indemnizações e recuperações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Indemnizações e recuperações\n\n1 - O orçamento proposto anualmente pelo Conselho de Garantias Financeiras ao Governo, nos termos previstos no artigo 3.º, n.º 1, alínea a), do Decreto-Lei n.º 126/91, de 22 de Março, terá em conta as responsabilidades assumidas em seguro de investimento.\n\n2 - A admissão e regulação dos sinistros será proposta pela COSEC ao Conselho de Garantias Financeiras para deliberação, sendo aplicável o disposto nos n.os 3 e 4 do artigo 7.º\n\n3 - Os montantes das indemnizações decorrentes dos contratos de seguro celebrados pela COSEC com a garantia do Estado são por este postos à disposição daquela após aprovação da admissão e regulação de sinistro e entregues pela COSEC aos segurados no prazo máximo de cinco dias úteis contados do seu recebimento.\n\n4 - A recuperação dos montantes indemnizados será efectuada pela COSEC, intervindo esta como mandatária do Estado."
+  },
+  "116977484": {
+   "fragment_id": "116968788",
+   "type": 11,
+   "heading": "Artigo 9.º — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposição final\n\n1 - A COSEC proporá à aprovação dos Ministros dos Negócios Estrangeiros, das Finanças e da Economia as condições gerais das apólices de seguro de investimento e as respectivas taxas de prémio no prazo de 30 dias a contar da data da publicação deste diploma.\n\n2 - São revogados o Decreto-Lei n.º 273/86, de 4 de Setembro, e a Portaria n.º 181/91, de 4 de Março.\n\n3 - O presente diploma entra em vigor passados 60 dias da data da sua publicação, ressalvado o disposto no n.º 1 deste artigo."
+  },
+  "116977554": {
+   "fragment_id": "116968785",
+   "type": 11,
+   "heading": "Artigo 6.º — Garantia do Estado",
+   "in_force_from": "2007-02-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 31/2007 - Diário da República n.º 32/2007, Série I de 2007-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2007-517996), em vigor a partir de 2007-02-19",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 51/2006 - Diário da República n.º 52/2006, Série I-A de 2006-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2006-667484)"
+   ],
+   "markdown": "###### Artigo 6.º — Garantia do Estado\n\n1 - Pode beneficiar da garantia do Estado para o seguro dos riscos de investimento português no estrangeiro, nos termos estabelecidos neste decreto-lei, qualquer seguradora autorizada a exercer a actividade em Portugal nos ramos 'Crédito' e 'Caução', estando o acesso dependente de um procedimento prévio de selecção e de contratualização com o Estado.\n\n2 - A autorização de garantias e promessas de garantia do Estado é da competência do Ministro das Finanças.\n\n3 - As garantias e promessas de garantia do Estado são apresentadas pela seguradora ao Conselho de Garantias Financeiras à Exportação e ao Investimento para análise e proposta de decisão a submeter ao Ministro das Finanças.\n\n4 - A emissão de garantias e promessas de garantia é da competência da Direcção-Geral do Tesouro, que, para o efeito, emite o respectivo documento, no qual constam, designadamente, a entidade que autorizou a garantia ou a promessa, o número da garantia ou a promessa, a identificação da seguradora, do segurado, da empresa estrangeira a que se destina o investimento, do país de destino onde se realiza o investimento, o montante garantido em termos de investimento inicial e o tipo de seguro garantido.\n\n5 - A promessa de seguro que beneficie de garantia do Estado não pode ser emitida por prazo superior a um ano.\n\n6 - Compete à Direcção-Geral do Tesouro informar previamente sobre o cabimento de cada operação de garantia e promessa de garantia no limite máximo fixado, para cada ano, na lei do orçamento.\n\n7 - Compete a cada seguradora remeter à Direcção-Geral do Tesouro, a pedido desta última, a previsão, para o ano seguinte, das garantias do Estado a conceder e dos montantes das indemnizações decorrentes das operações garantidas.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 31/2007 - Diário da República n.º 32/2007, Série I de 2007-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2007-517996), em vigor a partir de 2007-02-19\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 51/2006 - Diário da República n.º 52/2006, Série I-A de 2006-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2006-667484)"
+  },
+  "116977555": {
+   "fragment_id": "116968786",
+   "type": 11,
+   "heading": "Artigo 7.º — Apólices e prémios",
+   "in_force_from": "2007-02-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 31/2007 - Diário da República n.º 32/2007, Série I de 2007-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2007-517996), em vigor a partir de 2007-02-19",
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 51/2006 - Diário da República n.º 52/2006, Série I-A de 2006-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2006-667484)"
+   ],
+   "markdown": "###### Artigo 7.º — Apólices e prémios\n\n1 - As condições gerais e especiais das apólices dos contratos de seguro de investimento a celebrar com a garantia do Estado, bem como o respectivo tarifário, são aprovadas por despacho conjunto dos ministros responsáveis pelas áreas das finanças, dos negócios estrangeiros e da economia, mediante proposta da seguradora e parecer do Conselho de Garantias Financeiras à Exportação e ao Investimento.\n\n2 - Nos termos do artigo 7.º do Decreto-Lei n.º 51/2006, de 14 de Março, a Direcção-Geral do Tesouro cobra à seguradora uma percentagem do prémio estabelecido nos termos do tarifário em vigor.\n\n3 - Mediante contrato a celebrar entre o Estado, através da Direcção-Geral do Tesouro, e a seguradora, após consulta ao Conselho de Garantias Financeiras à Exportação e ao Investimento, são definidos, designadamente:\n\na) A percentagem do prémio a cobrar pela Direcção-Geral do Tesouro à seguradora;\n\nb) Os termos e condições da recuperação de créditos garantidos.\n\n4 - Os eventuais encargos que resultem do contrato celebrado ao abrigo do número anterior são suportados pela Direcção-Geral do Tesouro.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 31/2007 - Diário da República n.º 32/2007, Série I de 2007-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2007-517996), em vigor a partir de 2007-02-19\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 51/2006 - Diário da República n.º 52/2006, Série I-A de 2006-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2006-667484)"
+  },
+  "116977556": {
+   "fragment_id": "116968787",
+   "type": 11,
+   "heading": "Artigo 8.º — Indemnizações e recuperações",
+   "in_force_from": "2007-02-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 31/2007 - Diário da República n.º 32/2007, Série I de 2007-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2007-517996), em vigor a partir de 2007-02-19"
+   ],
+   "markdown": "###### Artigo 8.º — Indemnizações e recuperações\n\n1 - Após admissão e regulação de sinistro efectuada pela seguradora, os montantes das indemnizações decorrentes dos contratos de seguro, com a garantia do Estado, são entregues mediante solicitação da seguradora, pela Direcção-Geral do Tesouro ao beneficiário do seguro.\n\n2 - A Direcção-Geral do Tesouro deve informar o Conselho de Garantias Financeiras à Exportação e ao Investimento e a seguradora sobre as indemnizações pagas, nos termos referidos no número anterior.\n\n3 - Na situação prevista na alínea b) do n.º 3 do artigo 7.º, a seguradora intervém como mandatária do Estado, no âmbito da recuperação de créditos garantidos, devendo articular a sua actuação com a Direcção-Geral do Tesouro.\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 31/2007 - Diário da República n.º 32/2007, Série I de 2007-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2007-517996), em vigor a partir de 2007-02-19"
+  },
+  "116977557": {
+   "fragment_id": "116968788",
+   "type": 11,
+   "heading": "Artigo 9.º — Disposição final",
+   "in_force_from": "2007-02-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 31/2007 - Diário da República n.º 32/2007, Série I de 2007-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2007-517996), em vigor a partir de 2007-02-19"
+   ],
+   "markdown": "###### Artigo 9.º — Disposição final\n\n1 - (Revogado.)\n\n2 - São revogados o Decreto-Lei n.º 273/86, de 4 de Setembro, e a Portaria n.º 181/91, de 4 de Março.\n\n3 - O presente diploma entra em vigor passados 60 dias da data da sua publicação\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 31/2007 - Diário da República n.º 32/2007, Série I de 2007-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2007-517996), em vigor a partir de 2007-02-19"
+  },
+  "116977485": {
+   "fragment_id": "116968789",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de Agosto de 2001. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Guilherme d'Oliveira Martins - Luís Garcia Braga da Cruz.\n\nPromulgado em 6 de Novembro de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Novembro de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "116977558": {
+   "fragment_id": "116968785",
+   "type": 11,
+   "heading": "Artigo 6.º — Garantia do Estado",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 94/2018 - Diário da República n.º 219/2018, Série I de 2018-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2018-116967078), em vigor a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 31/2007 - Diário da República n.º 32/2007, Série I de 2007-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2007-517996), em vigor a partir de 2007-02-19",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 51/2006 - Diário da República n.º 52/2006, Série I-A de 2006-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2006-667484)"
+   ],
+   "markdown": "###### Artigo 6.º — Garantia do Estado\n\n1 - Pode beneficiar da garantia do Estado para o seguro dos riscos de investimento português no estrangeiro, nos termos estabelecidos neste decreto-lei, qualquer seguradora autorizada a exercer a actividade em Portugal nos ramos 'Crédito' e 'Caução', estando o acesso dependente de um procedimento prévio de selecção e de contratualização com o Estado.\n\n2 - A autorização de garantias e promessas de garantia do Estado é da competência do Ministro das Finanças.\n\n3 - As garantias e promessas de garantia do Estado são apresentadas pela seguradora à Direção-Geral do Tesouro e Finanças para análise, sujeição a parecer do Conselho de Garantias Financeiras à Exportação e ao Investimento, e proposta de decisão a submeter ao membro do Governo responsável pela área das finanças.\n\n4 - A emissão de garantias e promessas de garantia é da competência da Direcção-Geral do Tesouro, que, para o efeito, emite o respectivo documento, no qual constam, designadamente, a entidade que autorizou a garantia ou a promessa, o número da garantia ou a promessa, a identificação da seguradora, do segurado, da empresa estrangeira a que se destina o investimento, do país de destino onde se realiza o investimento, o montante garantido em termos de investimento inicial e o tipo de seguro garantido.\n\n5 - A promessa de seguro que beneficie de garantia do Estado não pode ser emitida por prazo superior a um ano.\n\n6 - Compete à Direcção-Geral do Tesouro informar previamente sobre o cabimento de cada operação de garantia e promessa de garantia no limite máximo fixado, para cada ano, na lei do orçamento.\n\n7 - Compete a cada seguradora remeter à Direcção-Geral do Tesouro, a pedido desta última, a previsão, para o ano seguinte, das garantias do Estado a conceder e dos montantes das indemnizações decorrentes das operações garantidas.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 94/2018 - Diário da República n.º 219/2018, Série I de 2018-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2018-116967078), em vigor a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 31/2007 - Diário da República n.º 32/2007, Série I de 2007-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2007-517996), em vigor a partir de 2007-02-19\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 51/2006 - Diário da República n.º 52/2006, Série I-A de 2006-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2006-667484)"
+  },
+  "116977559": {
+   "fragment_id": "116968786",
+   "type": 11,
+   "heading": "Artigo 7.º — Apólices e prémios",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 94/2018 - Diário da República n.º 219/2018, Série I de 2018-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2018-116967078), em vigor a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 31/2007 - Diário da República n.º 32/2007, Série I de 2007-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2007-517996), em vigor a partir de 2007-02-19",
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 51/2006 - Diário da República n.º 52/2006, Série I-A de 2006-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2006-667484)"
+   ],
+   "markdown": "###### Artigo 7.º — Apólices e prémios\n\n1 - As condições gerais e especiais das apólices dos contratos de seguro de investimento a celebrar com a garantia do Estado, bem como o respetivo tarifário, são aprovadas por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças, dos negócios estrangeiros e da economia, mediante requerimento da seguradora, sujeito a parecer do Conselho de Garantias Financeiras à Exportação e ao Investimento, e proposta da Direção-Geral do Tesouro e Finanças.\n\n2 - Nos termos do artigo 7.º do Decreto-Lei n.º 51/2006, de 14 de Março, a Direcção-Geral do Tesouro cobra à seguradora uma percentagem do prémio estabelecido nos termos do tarifário em vigor.\n\n3 - Mediante contrato a celebrar entre o Estado, através da Direcção-Geral do Tesouro, e a seguradora, após consulta ao Conselho de Garantias Financeiras à Exportação e ao Investimento, são definidos, designadamente:\n\na) A percentagem do prémio a cobrar pela Direcção-Geral do Tesouro à seguradora;\n\nb) Os termos e condições da recuperação de créditos garantidos.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 94/2018 - Diário da República n.º 219/2018, Série I de 2018-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2018-116967078), em vigor a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 31/2007 - Diário da República n.º 32/2007, Série I de 2007-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2007-517996), em vigor a partir de 2007-02-19\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 51/2006 - Diário da República n.º 52/2006, Série I-A de 2006-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2006-667484)"
+  }
+ }
+}

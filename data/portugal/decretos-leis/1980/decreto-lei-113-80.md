@@ -1,0 +1,228 @@
+---
+schema_version: '1.0'
+id: pt:dre:475284:por
+title: Decreto-Lei n.º 113/80
+short_title: null
+summary: Introduz alterações à Lei Orgânica e ao quadro da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Habitação e Obras Públicas
+proposing_entity: null
+official_number: 113/80
+official_date: null
+publication_date: '1980-05-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 109/1980, Série I de 1980-05-12
+  number: '109'
+  series: I
+  supplement: null
+  pages: 938 - 939
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/05/10900/09380939.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '475284'
+  dre_path: /dr/detalhe/decreto-lei/113-1980-475284
+  internal: pt:dre:475284:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-1980-475284
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-1980-475284
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:27:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: df6a4ba223861b1c8bdd631623d5c20e69a5819aeebe027d2aad775391e5ffb3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:27:11Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral dos Recursos e Aproveitamentos Hidráulicos
+- Orgânica
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:122434535:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:459605:por
+  label: "Substituído o quadro de pessoal aprovado pelo Dec Lei 383/77 de 10-Set, com as alterações do Dec Lei 500/77 de 28-Nov,\
+    \ DR.IS [275], da Port 424/78 de 28-Jul, DR.IS [172], da Port 387/79 de 2-Ago, DR.IS [177] e do presente diploma, pela\
+    \ Port 1081/80 1980.12.19, DR.IS [292] PORT.1081/80.1980.12.19.PCM\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1081-1980-459605
+  date: '1980-12-19'
+- type: cites
+  target: pt:dre:286114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:27:11Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 113/80
+
+de 12 de Maio
+
+A descentralização administrativa é um dos objectivos visados pela política governamental, designadamente através da regionalização dos serviços.
+
+A Lei Orgânica da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos exprime com nitidez esta preocupação, conferindo aos serviços regionais maior competência e meios de acção, especialmente para as tarefas de execução de obras hidráulicas, conservação e melhoramento da rede hidrográfica, fiscalização e polícia das águas. Há que reconhecer, todavia, que o acréscimo de competência e de responsabilidade dos dirigentes dos serviços regionais não teve a devida correspondência na definição da sua categoria, cujos nível, remuneração e forma de provimento se mantiveram inalteráveis.
+
+Na linha de orientação que vem sendo seguida para todos os serviços do Ministério da Habitação e Obras Públicas considera-se oportuno proceder ao necessário reajustamento das situações relativas ao pessoal dirigente dos serviços regionais da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos e às consequentes correcções do respectivo quadro.
+
+Nestes termos:
+
+O Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º Os artigos 3.º, 11.º e 23.º do [Decreto-Lei n.º 383/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1977-286114), de 10 de Setembro, passam a ter a seguinte redacção:
+
+Art. 3.º - 1 - ...
+
+2 - A Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos disporá dos seguintes serviços regionais:
+
+a) Direcção dos Serviços Regionais de Hidráulica do Douro, com sede no Porto, e secções hidráulicas, com sedes em Viana do Castelo, Braga, Régua, Mirandela e Porto;
+
+b) Direcção dos Serviços Regionais de Hidráulica do Mondego, com sede em Coimbra, e secções hidráulicas, com sedes em Aveiro, Guarda, Viseu, Coimbra e Leiria;
+
+c) Direcção dos Serviços Regionais de Hidráulica do Tejo, com sede em Lisboa, e secções hidráulicas, com sedes em Castelo Branco, Abrantes, Santarém, Lisboa e Setúbal;
+
+d) Direcção dos Serviços Regionais de Hidráulica do Sul, com sede em Évora, e secções hidráulicas, com sedes em Portalegre, Évora e Beja;
+
+e) Direcção dos Serviços Regionais de Hidráulica do Guadiana, com sede em Faro, e secções hidráulicas, com sedes em Portimão e Faro.
+
+3 - Cada direcção de serviços regionais de hidráulica disporá dos seguinte serviços técnicos e administrativos:
+
+Estudos e obras;
+
+Hidrologia e hidrografia fluvial;
+
+Contrôle da poluição;
+
+Laboratório;
+
+Fiscalização (polícia das águas);
+
+Secção de serviços administrativos.
+
+4 - ...
+
+5 - As áreas de jurisdição das direcções de serviços regionais de hidráulica e das respectivas secções e lanços serão fixadas por portaria ministerial, depois de revistas, tanto quanto possível de acordo com as áreas das bacias hidrográficas e tendo em conta a instituição das regiões administrativas, das regiões Plano e das regiões de saneamento básico.
+
+6 - As direcções de serviços regionais de hidráulica serão dirigidas por directores de serviços.
+
+7 - O Centro de Tecnologia Hidrológica da Direcção dos Serviços de Hidrologia e o Centro de Estudos Especiais da Direcção dos Serviços de Contrôle da Poluição não terão lugar de chefia inerente e ficarão sob a orientação do respectivo director de serviços.
+
+...
+
+Art. 11.º Às direcções de serviços regionais de hidráulica compete:
+
+1) ...
+
+2) ...
+
+3) ...
+
+4) No laboratório - realizar estudos e prestar apoio laboratorial a todos os sectores das direcções de serviços regionais de hidráulica e da Direcção-Geral, especialmente no sector do contrôle da poluição, onde ficará integrado;
+
+5) ...
+
+6) Na secção de serviços administrativos:
+
+a) Asegurar os serviços de pessoal, contabilidade, património e expediente geral das direcções de serviços regionais de hidráulica:
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+...
+
+Art. 23.º - 1 - O recrutamento do pessoal dirigente, com excepção dos chefes de repartição, será efectuado nos termos estabelecidos no artigo 2.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, e quer o seu provimento, quer o regime jurídico de exercício das suas funções subordinar-se-ão às restantes disposições do referido diploma.
+
+2 - O recrutamento dos chefes de repartição será precedido de avaliação curricular e far-se-á por escolha do Ministro da Habitação e Obras Públicas, sob proposta do director-geral, de entre:
+
+a) Chefes de secção do quadro da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos, com, pelo menos, três anos de bom e efectivo serviço nesta categoria e reconhecida competência para o exercício do cargo a preencher;
+
+b) Indivíduos habilitados com curso superior adequado, de reconhecida competência para o exercício do cargo a preencher, de preferência já vinculados à função pública ou, excepcionalmente, sem esta vinculação, mas com experiência no exercício de cargo de análogo conteúdo funcional;
+
+c) Chefes de secção dos quadros dos restantes serviços do Ministério que reúnam as condições enumeradas na alínea a), apenas nos casos de impossibilidade de recrutamento nos termos referidos nas alíneas a) e b).
+
+Art. 2.º Em consequência do disposto nos artigos anteriores e no n.º 1 do artigo 2.º do [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho, é alterado o quadro de pessoal da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos, aprovado pelo [Decreto-Lei n.º 383/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1977-286114), de 10 de Setembro, relativamente aos lugares de pessoal dirigente e de chefe de secção, de acordo com o mapa anexo ao presente diploma.
+
+Art. 3.º Os encargos emergentes da publicação deste diploma serão satisfeitos no corrente ano pelas disponibilidades orçamentais das dotações destinadas ao pagamento das remunerações certas e permanentes da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos.
+
+Art. 4.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho conjunto do Vice-Primeiro-Ministro e do Ministro da Habitação e Obras Públicas.
+
+Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 1 de Abril de 1980. - Francisco Sá Carneiro.
+
+Promulgado em 30 de Abril de 1980.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Mapa a que se refere o artigo 2.º do [Decreto-Lei n.º 111/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1980-475281)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/10900/09380939.pdf)
+
+O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva.

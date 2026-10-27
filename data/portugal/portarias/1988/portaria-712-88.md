@@ -1,0 +1,141 @@
+---
+schema_version: '1.0'
+id: pt:dre:354508:por
+title: Portaria n.º 712/88
+short_title: null
+summary: Sujeita ao regime cinegético especial as propriedades, situadas no concelho de Figueira de Castelo Rodrigo, denominadas
+  «Quinta da Gravanceira», «Quinta dos Carvalhos», «Quinta de Boais» e «Quinta dos Picões da Bomba» (parte), da freguesia
+  de Escalhão, e «Quinta da Veiga e Ferrameiros», da freguesia de Figueira de Castelo Rodrigo
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 712/88
+official_date: null
+publication_date: '1988-10-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 249/1988, Série I de 1988-10-27
+  number: '249'
+  series: I
+  supplement: null
+  pages: 4369 - 4369
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/10/24900/43694369.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '354508'
+  dre_path: /dr/detalhe/portaria/712-1988-354508
+  internal: pt:dre:354508:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/712-1988-354508
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/712-1988-354508
+  consolidated_url: null
+  retrieved_at: '2026-10-23T09:37:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a3e65fd508a42eeba0e7dc2590988d6c26476ee393c2663031f16c5b226f9526
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:37:38Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CAÇA
+- Figueira de Castelo Rodrigo
+- ZONA de CAÇA
+relationships:
+- type: amended_by
+  target: pt:dre:566178:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:566178:por
+  label: "Revogada pela PORT.1093/90.31.10.1990.MAPA, DR.IS [252] de 31.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1093-1990-566178
+  date: '1990-10-31'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T09:37:38Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 712/88
+
+de 27 de Outubro
+
+Com fundamento no disposto nos artigos 19.º a 27.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e nos artigos 56.º a 59.º, 65.º a 67.º, 71.º a 76.º, 79.º e 80.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto;
+
+Ouvido o Conselho Nacional da Caça e da Conservação da Fauna e dispensada a audição do conselho cinegético e de conservação da fauna regional respectivo, por não estar ainda legalmente constituído:
+
+Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
+
+1.º Ficam sujeitas ao regime cinegético especial as propriedades, situadas no concelho de Figueira de Castelo Rodrigo, denominadas «Quinta da Gravanceira», «Quinta dos Carvalhos», «Quinta de Boais» e «Quinta dos Picões da Bomba» (parte), da freguesia de Escalhão, e «Quinta da Veiga e Ferrameiros», da freguesia de Figueira de Castelo Rodrigo, com uma área total de 937 ha, constantes da planta anexa a este diploma.
+
+2.º Nestas propriedades é concedida à Associação de Caça da Gravanceira a exploração de uma zona de caça associativa (processo n.º 8 da Direcção-Geral das Florestas) por um período de seis anos.
+
+3.º Nesta zona de caça é facultado o exercício venatório a todos os membros da Associação de Caça da Gravanceira, com observância das regras legais e das suas normas estatutárias e regulamentares.
+
+4.º Nesta zona de caça, a Associação de Caça da Gravanceira, entidade responsável pela sua gestão, fica obrigada a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegético aprovado pela Direcção-Geral das Florestas, nomeadamente no respeitante aos limites anuais de cada uma das espécies, períodos, processos e meios de caça respectivos.
+
+5.º A entidade concessionária fica obrigada a fazer cumprir as disposições legais e regulamentares da legislação da caça e as regras do plano de ordenamento e exploração, respondendo pelo cumprimento dessas normas, sem prejuízo da responsabilidade pessoal dos infractores.
+
+6.º A linha perimetral desta zona de caça é obrigatoriamente sinalizada pela forma definida na [Portaria n.º 816-E/87](https://diariodarepublica.pt/dr/detalhe/portaria/816-e-1987-392826), de 1 de Outubro.
+
+7.º As propriedades que integram esta zona de caça, nos termos do disposto no artigo 76.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), para efeitos de polícia e fiscalização da caça, ficam submetidas ao regime florestal, obrigando-se a concessionária a manter um guarda florestal auxiliar dotado de meio de transporte.
+
+8.º Esta concessão é renovável nos termos do disposto no artigo 73.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890).
+
+Ministério da Agricultura, Pescas e Alimentação.
+
+Assinada em 4 de Outubro de 1988.
+
+Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/10/24900/43694369.pdf)

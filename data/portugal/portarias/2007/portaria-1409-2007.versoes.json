@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:628864:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-920624734",
+ "dre_path": "/dr/detalhe/portaria/1409-2007-628864",
+ "source_lastmod": "2025-06-04",
+ "versions": [
+  {
+   "date": "2007-10-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "920636649"
+   ]
+  }
+ ],
+ "fragments": {
+  "920636649": {
+   "fragment_id": "920624735",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1409/2007\n\nde 29 de Outubro\n\nSob proposta do Instituto Politécnico de Viseu e da sua Escola Superior de Tecnologia;\n\nConsiderando o disposto nos artigos 13.º e 31.º da Lei n.º 46/86, de 14 de Outubro (Lei de Bases do Sistema Educativo), alterada pelas Leis n.os 115/97, de 19 de Setembro, e 49/2005, de 30 de Agosto;\n\nConsiderando o disposto no Decreto-Lei n.º 42/2005, de 22 de Fevereiro;\n\nInstruído, organizado e apreciado o processo nos termos do artigo 68.º do Decreto-Lei n.º 74/2006, de 24 de Março;\n\nConsiderando o disposto na Portaria n.º 714-A/2006, de 14 de Julho;\n\nConsiderando o parecer favorável da Direcção-Geral do Ensino Superior e sob sua proposta;\n\nAo abrigo do disposto na Lei n.º 54/90, de 5 de Setembro (estatuto e autonomia dos estabelecimentos de ensino superior politécnico), alterada pelas Leis n. os 20/92, de 14 de Agosto, e 71/93, de 26 de Novembro, no capítulo iii do Decreto-Lei n.º 316/83, de 2 de Julho, e no Decreto-Lei n.º 74/2006, de 24 de Março:\n\nManda o Governo, pelo Ministro da Ciência, Tecnologia e Ensino Superior, o seguinte:"
+  }
+ }
+}

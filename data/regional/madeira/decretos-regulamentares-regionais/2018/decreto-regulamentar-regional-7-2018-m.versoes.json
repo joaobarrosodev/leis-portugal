@@ -1,0 +1,786 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:115288238:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2018-129879988",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/7-2018-115288238",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2018-05-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "129526835",
+    "129526836",
+    "129526837",
+    "129526838",
+    "129526840",
+    "129526841",
+    "129526842",
+    "129526843",
+    "129526844",
+    "129526845",
+    "129526846",
+    "129526847",
+    "129526848",
+    "129526849",
+    "129526850",
+    "129526851",
+    "129526852",
+    "129526853",
+    "129526854",
+    "129526855",
+    "129526856",
+    "129526857",
+    "129526858",
+    "129526859",
+    "129526860",
+    "129526861",
+    "129526862",
+    "129526863",
+    "129526864",
+    "129526865",
+    "129526866",
+    "129526867",
+    "129526868",
+    "129526869",
+    "129526870",
+    "129526871",
+    "129526872",
+    "129526873",
+    "129526874",
+    "129880375",
+    "129880376",
+    "129880377",
+    "129880378",
+    "129880379",
+    "129880380",
+    "129880381",
+    "129880382",
+    "129880383",
+    "129880384",
+    "129880385",
+    "129880386",
+    "129880387",
+    "129880388",
+    "129880389",
+    "129880390",
+    "129880391",
+    "129880392",
+    "129880393",
+    "129880394",
+    "129880395",
+    "129880396",
+    "129880397",
+    "129880398",
+    "129880399",
+    "129880400",
+    "129880401"
+   ]
+  },
+  {
+   "date": "2020-03-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:129790955:por",
+     "title": "Decreto Regulamentar Regional n.º 17/2020/M",
+     "published": "2020-03-04",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/17-2020-129790955"
+    }
+   ],
+   "changes": [
+    "Revoga Anexo B",
+    "Revoga Anexo I"
+   ],
+   "fragments": [
+    "129526835",
+    "129526836",
+    "129526837",
+    "129526838",
+    "129526839",
+    "129526840",
+    "129526841",
+    "129526842",
+    "129526843",
+    "129526844",
+    "129526845",
+    "129526846",
+    "129526847",
+    "129526848",
+    "129526849",
+    "129526850",
+    "129526851",
+    "129526852",
+    "129526853",
+    "129526854",
+    "129526855",
+    "129526856",
+    "129526857",
+    "129526858",
+    "129526859",
+    "129526860",
+    "129526861",
+    "129526862",
+    "129526863",
+    "129526864",
+    "129526865",
+    "129526866",
+    "129526867",
+    "129526868",
+    "129526869",
+    "129526870",
+    "129526871",
+    "129526872",
+    "129526873",
+    "129526874",
+    "129880375",
+    "129880376",
+    "129880377",
+    "129880378",
+    "129880379",
+    "129880380",
+    "129880381",
+    "129880382",
+    "129880383",
+    "129880384",
+    "129880385",
+    "129951442",
+    "129951443",
+    "129951444",
+    "129951445",
+    "129951446",
+    "129951447",
+    "129951448",
+    "129951449",
+    "129880394",
+    "129880395",
+    "129880396",
+    "129880397",
+    "129880398",
+    "129880399",
+    "129880400",
+    "129880401"
+   ]
+  }
+ ],
+ "fragments": {
+  "129526835": {
+   "fragment_id": "129879989",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 7/2018/M\n\nOrgânica da Vice-Presidência do Governo e das Direções Regionais Adjuntas\n\nO Decreto Regulamentar Regional n.º 13/2017/M, de 7 de novembro, que aprova a organização e funcionamento do XII Governo Regional da Madeira e revoga o Decreto Regulamentar Regional n.º 2/2015/M, de 12 de maio, alterado pelo Decreto Regulamentar Regional n.º 9/2017/M, de 21 de agosto, integra na sua composição a Vice-Presidência do Governo.\n\nAtentas as atribuições que foram cometidas a este departamento regional, que agrega todas as competências da extinta Secretaria Regional das Finanças e da Administração Pública e competências da extinta Secretaria Regional da Economia, Turismo e Cultura, importa dotá-lo de uma estrutura orgânica capaz de prosseguir as funções que deve assegurar, eliminando redundâncias e prosseguindo os objetivos de eficácia de recursos públicos que têm delineado a atuação da administração regional.\n\nDesde logo, através Decreto Regulamentar Regional n.º 13/2017/M, de 7 de novembro, foram criadas as Direções Regionais Adjuntas de Finanças e de Economia, que funcionam na dependência direta do Vice-Presidente do Governo.\n\nConforme resulta dos n.os 1 e 2 do artigo 14.º e do artigo 15.º do Decreto Regulamentar Regional n.º 13/2017/M, de 7 de novembro, a criação destas direções regionais reporta-se a 20 de outubro de 2017, e estas têm por missão, sem prejuízo das competências próprias que lhes possam ser cometidas através do respetivo diploma orgânico, coadjuvar o Vice-Presidente do Governo no exercício das suas funções nas respetivas áreas, coordenando e apoiando a atividade, objetivos estratégicos e operacionais dos diversos serviços e entidades e empresas públicas regionais.\n\nNeste enquadramento, tendo subjacentes os critérios de eficiência, economicidade e celeridade, corolário do princípio da boa administração pública, o presente diploma procede à aprovação da Orgânica da Vice-Presidência do Governo e das respetivas Direções Regionais Adjuntas.\n\nSimultaneamente, é extinta a Direção Regional da Inovação, Valorização e Empreendedorismo, passando as respetivas atribuições a ser asseguradas pela Direção Regional Adjunta de Economia. É ainda extinta a Unidade Técnica de Acompanhamento e Monitorização de Parcerias Público-Privadas e do Setor Público Empresarial, criada pelo Decreto Regulamentar Regional n.º 3/2015/M, de 28 de maio, cujas atribuições serão asseguradas nos termos previstos no presente diploma.\n\nOs demais serviços da administração direta e indireta que, nos termos do n.º 3 do artigo 14.º do Decreto Regulamentar Regional n.º 13/2017/M, de 7 de novembro, transitaram para este novo departamento regional, face à sua atualidade, mantêm-se na estrutura orgânica da Vice-Presidência do Governo, sem prejuízo das restruturações que se operam através deste diploma.\n\nAssim, nos termos do n.º 2 do artigo 12.º do Decreto Regulamentar Regional n.º 13/2017/M, de 7 de novembro, e ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, e das alíneas c) e d) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, e revisto pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, o Governo Regional da Madeira, decreta o seguinte:"
+  },
+  "129526836": {
+   "fragment_id": "129879990",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente diploma aprova a Orgânica da Vice-Presidência do Governo, que consta do Anexo A ao presente diploma, do qual faz parte integrante.\n\n2 - O presente diploma aprova ainda as Orgânicas da Direção Regional Adjunta de Finanças e da Direção Regional Adjunta de Economia, que constam, respetivamente, dos Anexos B e C ao presente diploma, do qual fazem parte integrante."
+  },
+  "129526837": {
+   "fragment_id": "129879991",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Norma revogatória\n\n1 - É revogado o Decreto Regulamentar Regional n.º 3/2015/M, de 28 de maio.\n\n2 - É revogado o Decreto Regulamentar Regional n.º 17/2015/M, de 26 de outubro.\n\n3 - São revogados as alíneas a) a g) do artigo 3.º, as alíneas b) e c) do n.º 1 do artigo 6.º, a alínea b) do n.º 1 do artigo 7.º e os artigos 8.º, 12.º, 15.º e 16.º do Decreto Regulamentar Regional n.º 4/2015/M, de 18 de junho."
+  },
+  "129526838": {
+   "fragment_id": "129879992",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "129526840": {
+   "fragment_id": "129879994",
+   "type": 14,
+   "heading": "Anexo A — (a que se refere o n.º 1 do artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo A — (a que se refere o n.º 1 do artigo 1.º)\n\nOrgânica da Vice-Presidência do Governo"
+  },
+  "129526841": {
+   "fragment_id": "129879995",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, missão, atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, missão, atribuições e competências"
+  },
+  "129526842": {
+   "fragment_id": "129879996",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e missão\n\n1 - A Vice-Presidência do Governo, designada abreviadamente no presente diploma por VP, é o departamento do Governo Regional da Madeira a que se refere a alínea b) do artigo 1.º do Decreto Regulamentar Regional n.º 13/2017/M, de 7 de novembro, que tem por missão definir, conduzir e executar a política regional nos domínios da economia e empresas, finanças, assuntos fiscais, orçamento, coordenação geral dos fundos comunitários, Centro Internacional de Negócios da Madeira, Inspeção das Atividades Económicas, Administração Pública, simplificação e modernização administrativa, transportes e acessibilidades, energia, apoio às empresas, qualidade, comunicações, comércio, informática da Administração Pública, Inspeção de Finanças, património e serviços partilhados, planeamento regional e coordenação de políticas públicas, indústria e serviços, tesouro, contabilidade, estatística, empreendedorismo, inovação, e Registo Internacional de Navios da Madeira.\n\n2 - No domínio da política de finanças públicas, a VP tem por missão especial promover a gestão racional dos recursos públicos, com vista a garantir a economia de meios e o aumento da eficiência e eficácia dos recursos."
+  },
+  "129526843": {
+   "fragment_id": "129879997",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nNa prossecução da sua missão, são atribuições da VP:\n\na) Definir e controlar a execução da política financeira da Região Autónoma da Madeira, tendo especialmente em atenção a prossecução de objetivos de estabilização conjuntural e de desenvolvimento económico, no quadro da política económica definida pelo Governo;\n\nb) Acompanhar, controlar e gerir os instrumentos financeiros da Região Autónoma da Madeira, designadamente o Orçamento, o Tesouro e o Património, à exceção do artístico e do cultural;\n\nc) Conceber e executar a política fiscal na Região Autónoma da Madeira;\n\nd) Definir as políticas relativas à administração pública regional e respetiva modernização administrativa;\n\ne) Exercer os direitos de acionista da Região Autónoma da Madeira;\n\nf) Coordenar as relações financeiras com o Estado;\n\ng) Exercer a tutela financeira sobre as autarquias locais;\n\nh) Definir e controlar a execução da política na área das comunicações;\n\ni) Acompanhar, nos termos da lei, as operações relativas aos movimentos dos fluxos monetários da Região Autónoma da Madeira, com o restante território nacional e com o estrangeiro;\n\nj) Coordenar a aplicação dos Fundos Europeus Estruturais e de Investimento (FEEI) na Região Autónoma da Madeira;\n\nk) Coordenar a aplicação do modelo de desenvolvimento estratégico da Região e promover a necessária articulação com as várias políticas públicas setoriais;\n\nl) Promover a execução das políticas definidas para as áreas do comércio, indústria, energia, qualidade e transportes;\n\nm) Coordenar a definição das linhas estratégicas e a formulação dos sistemas e instrumentos regionais de dinamização e valorização do tecido empresarial, bem como promover a execução transversal das políticas definidas para as áreas da inovação, empreendedorismo e apoio às empresas;\n\nn) Definir e implementar políticas e instrumentos de incentivo e suporte ao desenvolvimento de projetos empresariais empreendedores, assim como contribuir para uma cultura empresarial de inovação, criatividade e aplicação prática de novos conhecimentos;\n\no) Contribuir para o desenvolvimento do meio empresarial regional, gerindo e disponibilizando de forma integrada, coordenada e descentralizada os apoios diretos e indiretos ao investimento, financiamento, funcionamento e internacionalização, com o objetivo de fortalecer e valorizar as estruturas empresariais da Região Autónoma da Madeira, com particular incidência nas micro, pequenas e médias empresas;\n\np) Contribuir para a formulação de linhas estratégicas que promovam o desenvolvimento sustentado, articulado e equilibrado dos setores de economia e empresas, comércio, indústria, inspeção das atividades económicas, transportes e mobilidade, energia, qualidade, empreendedorismo, inovação e apoio às empresas;\n\nq) Promover a coordenação do setor dos transportes e a complementaridade dos seus diversos modos, bem como a sua competitividade com a finalidade de melhorar a satisfação dos utentes;\n\nr) Promover a gestão e a modernização das infraestruturas de transportes;\n\ns) Promover a regulação e fiscalização dos setores tutelados."
+  },
+  "129526844": {
+   "fragment_id": "129879998",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências\n\n1 - A VP é superiormente representada e dirigida pelo Vice-Presidente do Governo, designado abreviadamente no presente diploma por Vice-Presidente, ao qual são genericamente cometidas todas as competências para a realização das atribuições referidas no artigo 2.º\n\n2 - Ao Vice-Presidente compete, nomeadamente:\n\na) Representar a Vice-Presidência;\n\nb) Estudar, definir e orientar a política da Região Autónoma da Madeira nas áreas financeira, fiscal, orçamental, do planeamento, da estatística, da inspeção financeira e patrimonial e promover as ações tendentes à respetiva execução;\n\nc) Contribuir para a definição da política de participações financeiras e assegurar o controlo e gestão das participações sociais;\n\nd) Participar na orientação da política e das medidas a adotar para as áreas bancárias, seguradora e aduaneira, nos termos da lei;\n\ne) Promover e propor incentivos à atividade económica de natureza financeira e fiscal e fiscalizar a respetiva execução;\n\nf) Controlar a movimentação e utilização dos fundos da Região Autónoma da Madeira;\n\ng) Promover, propor e controlar todas as medidas de apoio financeiro às autarquias locais, nos termos da legislação em vigor;\n\nh) Acompanhar, nos termos da lei, as operações relativas aos movimentos de fluxos monetários da Região Autónoma da Madeira com o restante território nacional e estrangeiro;\n\ni) Orientar e definir todas as medidas necessárias à elaboração e execução do Orçamento e Conta da Região Autónoma da Madeira;\n\nj) Autorizar todos os licenciamentos da Zona Franca;\n\nk) Acompanhar, gerir e controlar o património da Região, à exceção do artístico e cultural;\n\nl) Acompanhar e promover os procedimentos referentes à concretização das aquisições de imóveis necessários às obras públicas, bem como os estudos de aquisição de imóveis para outros fins de interesse público;\n\nm) Coordenar a política a adotar pela administração regional na área da informática e das comunicações e assegurar as funções comuns na área de tecnologias de informação e comunicação, aos diversos departamentos do governo regional;\n\nn) Promover a realização de auditorias, em matéria financeira e administrativa, designadamente a todas as entidades que integram o universo das administrações públicas em contas nacionais, incluindo autarquias locais, e às pessoas coletivas de direito público;\n\no) Definir, coordenar e aplicar as políticas relativas à Administração Pública e respetiva modernização administrativa, designadamente nas áreas referentes à organização e gestão dos serviços, visando o aumento da eficácia e eficiência, a racionalização da atividade administrativa e a promoção da qualidade dos serviços públicos prestados e valorização dos seus recursos humanos;\n\np) Conceder passaportes comuns, bem como conceder e emitir passaportes temporários, com possibilidade de delegação e subdelegação, nos termos da lei;\n\nq) Definir a política de funcionamento da Loja do Cidadão na Madeira;\n\nr) Monitorizar a aplicação dos Fundos Europeus Estruturais e de Investimento, exercer a tutela na aplicação dos Fundos Estruturais e promover a articulação com outras fontes de financiamento, nomeadamente comunitárias, na Região;\n\ns) Definir, coordenar, avaliar e orientar a política da Região Autónoma da Madeira nos setores da economia e empresas, comércio, indústria, inspeção das atividades económicas, transportes e mobilidade, energia, qualidade, empreendedorismo, inovação e apoios às empresas;\n\nt) Superintender e coordenar a ação dos vários órgãos e serviços da VP;\n\nu) Exercer a atividade normativa, reguladora e inspetiva no âmbito dos setores adstritos à VP;\n\nv) Praticar todos os atos concernentes ao provimento, movimento e disciplina dos trabalhadores da VP e aprovar mapas de pessoal dos serviços da VP;\n\nw) Aprovar os planos de atividades e respetivas alterações, bem como acompanhar, avaliar e orientar a atividade das empresas públicas tuteladas;\n\nx) Fixar os preços, taxas e tarifas, conceder licenças e autorizações, bem como outorgar concessões relativas aos vários setores de atividade sob a sua tutela e superintendência;\n\ny) Pronunciar-se sobre as taxas e tarifas a aplicar nos serviços de transporte aéreos e marítimos;\n\nz) Aprovar portarias, despachos, circulares e instruções nas matérias da sua competência;\n\naa) Conferir distinções a entidades que desenvolvam projetos ou ações relevantes no âmbito das competências específicas da VP;\n\nbb) Exercer as demais competências que lhe sejam cometidas por lei ou delegadas pelo Conselho do Governo Regional.\n\n2 - O Vice-Presidente pode, nos termos da lei, delegar as suas competências, com faculdade de subdelegação, no Chefe do Gabinete, nos Adjuntos do Gabinete e nos titulares dos cargos de direção dos órgãos e serviços que integram a estrutura da VP."
+  },
+  "129526845": {
+   "fragment_id": "129879999",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura Orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura Orgânica"
+  },
+  "129526846": {
+   "fragment_id": "129880000",
+   "type": 11,
+   "heading": "Artigo 4.º — Estrutura geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Estrutura geral\n\nA VP prossegue as suas atribuições através de serviços integrados na administração direta, de organismos integrados na administração indireta e de entidades integradas no setor empresarial da Região Autónoma da Madeira."
+  },
+  "129526847": {
+   "fragment_id": "129880001",
+   "type": 11,
+   "heading": "Artigo 5.º — Serviços da administração direta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Serviços da administração direta\n\n1 - Integram a administração direta da Região Autónoma da Madeira, no âmbito da VP, as seguintes estruturas ou serviços:\n\na) Gabinete do Vice-Presidente;\n\nb) Direção Regional Adjunta de Finanças;\n\nc) Direção Regional Adjunta de Economia;\n\nd) Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira;\n\ne) Direção Regional do Orçamento e Tesouro;\n\nf) Direção Regional de Estatística da Madeira;\n\ng) Direção Regional do Património e de Gestão dos Serviços Partilhados;\n\nh) Direção Regional da Administração Pública e da Modernização Administrativa;\n\ni) Direção Regional da Economia e Transportes;\n\nj) Inspeção Regional de Finanças;\n\nk) Autoridade Regional das Atividades Económicas.\n\n2 - A estrutura referida na alínea a) assegura o apoio técnico e administrativo necessário ao exercício das competências do Vice-Presidente.\n\n3 - Os serviços referidos nas alíneas b) e c) são serviços Executivos de Acompanhamento, Controlo e Coordenação Geral das políticas nas respetivas áreas de atividade.\n\n4 - Os serviços referidos nas alíneas d) a k) são Serviços Executivos e/ou de Controlo, de Auditoria e de Fiscalização, que garantem a prossecução das políticas referidas no artigo 1.º do presente diploma."
+  },
+  "129526848": {
+   "fragment_id": "129880002",
+   "type": 11,
+   "heading": "Artigo 6.º — Serviços da administração indireta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Serviços da administração indireta\n\nIntegram a administração indireta da Região Autónoma da Madeira, no âmbito da VP, os seguintes serviços:\n\na) Gabinete de Gestão da Loja do Cidadão da Madeira;\n\nb) Instituto de Desenvolvimento Regional, IP-RAM;\n\nc) Instituto de Desenvolvimento Empresarial, IP-RAM."
+  },
+  "129526849": {
+   "fragment_id": "129880003",
+   "type": 11,
+   "heading": "Artigo 7.º — Setor empresarial da Região Autónoma da Madeira e entidades tuteladas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Setor empresarial da Região Autónoma da Madeira e entidades tuteladas\n\n1 - O Vice-Presidente exerce a tutela nas seguintes empresas pertencentes ao setor empresarial da Região Autónoma da Madeira:\n\na) APRAM - Administração dos Portos da Região Autónoma da Madeira, S. A.;\n\nb) Startup Madeira - More Than Ideas, Lda.;\n\nc) EEM - Empresa de Eletricidade da Madeira, S. A.;\n\nd) Horários do Funchal - Transportes Públicos, S. A.;\n\ne) Madeira Parques Empresariais, Sociedade Gestora, S. A.\n\n2 - A orientação estratégica da gestão da participação pública da Região Autónoma da Madeira na SDM - Sociedade de Desenvolvimento da Madeira, S. A., é definida e assegurada pelo Vice-Presidente, que exerce os respetivos direitos de acionista.\n\n3 - Sem prejuízo dos poderes conferidos em lei especial, nas demais empresas públicas e participadas, os direitos de acionista da Região Autónoma da Madeira são exercidos pelo Vice-Presidente conjuntamente com o membro do Governo competente em razão da matéria."
+  },
+  "129526850": {
+   "fragment_id": "129880004",
+   "type": 1,
+   "heading": "Capítulo III — Dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Dos serviços"
+  },
+  "129526851": {
+   "fragment_id": "129880005",
+   "type": 8,
+   "heading": "Secção I — Dos serviços da administração direta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Dos serviços da administração direta"
+  },
+  "129526852": {
+   "fragment_id": "129880006",
+   "type": 3,
+   "heading": "Subsecção I — Missão, atribuições e organização do Gabinete do Vice-Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Missão, atribuições e organização do Gabinete do Vice-Presidente"
+  },
+  "129526853": {
+   "fragment_id": "129880007",
+   "type": 11,
+   "heading": "Artigo 8.º — Gabinete do Vice-Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Gabinete do Vice-Presidente\n\n1 - O Gabinete do Vice-Presidente, abreviadamente designado por GVP, tem por missão coadjuvá-lo no exercício das suas funções, assegurando o planeamento e os apoios técnico, estratégico, jurídico, financeiro e administrativo necessários ao exercício das suas competências.\n\n2 - O GVP é composto pelos membros do Gabinete nos termos do disposto no artigo 11.º do Decreto Regulamentar Regional n.º 13/2017/M, de 7 de novembro, a designar por despacho do Vice-Presidente, compreendendo ainda as unidades orgânicas que funcionam sob a sua direta dependência.\n\n3 - São atribuições do GVP:\n\na) Apoiar técnica, estratégica, jurídica, financeira e administrativamente o Vice-Presidente;\n\nb) Garantir o funcionamento harmonioso e concertado dos órgãos e serviços que integram a VP;\n\nc) Assegurar o expediente do GVP, nomeadamente a interligação da Vice-Presidência com os demais departamentos do Governo Regional;\n\nd) Preparar e coordenar os assuntos a submeter a despacho do Vice-Presidente;\n\ne) Promover boas práticas de gestão de documentação nos serviços e organismos da VP e proceder à recolha, tratamento e conservação dos arquivos;\n\nf) Estudar, programar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a inovação, a modernização e a política de qualidade no âmbito do GVP e assegurar a articulação com os serviços da VP com competências nestas áreas;\n\ng) Assegurar o desenvolvimento das atribuições conferidas às Unidades de Gestão, a que se refere o n.º 4 do artigo 12.º do Decreto Regulamentar Regional n.º 13/2017/M, de 7 de novembro;\n\nh) Exercer as demais funções que lhe forem cometidas e ou delegadas pelo Vice-Presidente.\n\n4 - O GVP é coordenado e dirigido pelo Chefe do Gabinete, que representa o Vice-Presidente, exceto nos atos de caráter pessoal, e que exerce ainda as competências delegadas por despacho do Vice-Presidente.\n\n5 - Nas suas ausências e impedimentos, o Chefe do Gabinete é substituído pelo Adjunto ou membro do gabinete para o efeito designado pelo Vice-Presidente."
+  },
+  "129526854": {
+   "fragment_id": "129880008",
+   "type": 11,
+   "heading": "Artigo 9.º — Organização interna do Gabinete do Vice-Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Organização interna do Gabinete do Vice-Presidente\n\n1 - A organização interna do GVP, que compreende as unidades orgânicas nucleares e flexíveis que funcionam sob a sua direta dependência, obedece ao modelo de estrutura hierarquizada.\n\n2 - A organização interna a que se refere o número anterior é aprovada nos termos do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os 24/2012/M, de 30 de agosto, 2/2013/M, de 2 de janeiro, e 42-A/2016/M, de 30 de dezembro."
+  },
+  "129526855": {
+   "fragment_id": "129880009",
+   "type": 3,
+   "heading": "Subsecção II — Missão dos serviços executivos de acompanhamento, controlo e coordenação geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Missão dos serviços executivos de acompanhamento, controlo e coordenação geral"
+  },
+  "129526856": {
+   "fragment_id": "129880010",
+   "type": 11,
+   "heading": "Artigo 10.º — Direção Regional Adjunta de Finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direção Regional Adjunta de Finanças\n\n1 - A Direção Regional Adjunta de Finanças, abreviadamente designada por DRAFIN, tem por missão coadjuvar o Vice-Presidente do Governo no exercício das suas funções na área das finanças, acompanhando a atividade e assegurando a coordenação geral dos serviços e órgãos da VP na área das finanças, nomeadamente, dos referidos nos artigos 12.º a 16.º e 18.º a 20.º\n\n2 - A DRAFIN tem ainda por missão prestar apoio técnico ao Vice-Presidente no âmbito do setor empresarial da Região Autónoma da Madeira.\n\n3 - A DRAFIN é dirigida por um Diretor Regional Adjunto, equiparado a cargo de direção superior de 1.º grau."
+  },
+  "129526857": {
+   "fragment_id": "129880011",
+   "type": 11,
+   "heading": "Artigo 11.º — Direção Regional Adjunta de Economia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direção Regional Adjunta de Economia\n\n1 - A Direção Regional Adjunta de Economia, abreviadamente designada por DRAE, tem por missão coadjuvar o Vice-Presidente do Governo no exercício das suas funções na área da economia, acompanhando, assegurando a coordenação geral dos serviços e órgãos da VP referidos nos artigos 17.º, 21.º e 22.º, bem como acompanhando a atividade desenvolvida pelas empresas pertencentes ao setor empresarial da Região Autónoma da Madeira a que se refere o n.º 1 do artigo 7.º\n\n2 - A DRAE tem ainda por missão ser o veículo de política económica de proximidade da VP nos setores da economia: empresas e apoios às mesmas, comércio, indústria, transportes e mobilidade, energia, qualidade, empreendedorismo, inovação, bem como dos Fundos Europeus Estruturais e de Investimento.\n\n3 - A DRAE é dirigida por um Diretor Regional Adjunto, equiparado a cargo de direção superior de 1.º grau."
+  },
+  "129526858": {
+   "fragment_id": "129880012",
+   "type": 3,
+   "heading": "Subsecção III — Missão dos serviços executivos e/ou de controlo, auditoria e de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Missão dos serviços executivos e/ou de controlo, auditoria e de fiscalização"
+  },
+  "129526859": {
+   "fragment_id": "129880013",
+   "type": 11,
+   "heading": "Artigo 12.º — Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira\n\n1 - A Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira, abreviadamente designada por AT-RAM, tem por missão assegurar e administrar os impostos sobre o rendimento, a despesa, o consumo, o património e outros tributos legalmente previstos, executar as políticas e orientações fiscais definidas pelo Governo Regional da Madeira em matéria tributária, a exercer no âmbito da Região Autónoma da Madeira de acordo com os artigos 140.º e 141.º da Lei n.º 13/91, de 5 de junho, revista pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, nomeadamente a liquidação e cobrança dos impostos que constituem receita da Região.\n\n2 - A AT-RAM é dirigida por um Diretor Regional, cargo de direção superior de 1.º grau."
+  },
+  "129526860": {
+   "fragment_id": "129880014",
+   "type": 11,
+   "heading": "Artigo 13.º — Direção Regional do Orçamento e Tesouro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direção Regional do Orçamento e Tesouro\n\n1 - A Direção Regional do Orçamento e Tesouro, abreviadamente designada por DROT, tem por missão exercer a atividade no âmbito da gestão financeira e orçamental dos serviços e organismos integrados no âmbito da administração pública regional, para efeitos de contas nacionais, verificar a regularidade, legalidade e economia na realização das despesas públicas, administrar a tesouraria do Governo Regional, executar a política regional no setor das finanças e controlar as ações necessárias ao domínio da atividade financeira da Região Autónoma da Madeira.\n\n2 - A DROT é dirigida por um Diretor Regional, cargo de direção superior de 1.º grau, coadjuvado por um Subdiretor Regional, cargo de direção superior de 2.º grau."
+  },
+  "129526861": {
+   "fragment_id": "129880015",
+   "type": 11,
+   "heading": "Artigo 14.º — Direção Regional de Estatística da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direção Regional de Estatística da Madeira\n\n1 - A Direção Regional de Estatística da Madeira, abreviadamente designada por DREM, na qualidade de autoridade estatística, tem por missão a produção e divulgação de informação estatística oficial no âmbito da Região Autónoma da Madeira.\n\n2 - No âmbito nacional, a DREM participa no processo das estatísticas oficiais, sob a supervisão e coordenação técnico-científica do Instituto Nacional de Estatística.\n\n3 - A DREM goza de independência técnico-profissional no exercício da atividade estatística oficial, nos termos da legislação nacional e europeia.\n\n4 - A DREM é dirigida por um Diretor Regional, cargo de direção superior de 1.º grau."
+  },
+  "129526862": {
+   "fragment_id": "129880016",
+   "type": 11,
+   "heading": "Artigo 15.º — Direção Regional do Património e de Gestão dos Serviços Partilhados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direção Regional do Património e de Gestão dos Serviços Partilhados\n\n1 - A Direção Regional do Património e de Gestão dos Serviços Partilhados, abreviadamente designada por PaGeSP, tem por missão executar e controlar as ações necessárias para a aquisição, gestão e administração do património da Região Autónoma da Madeira que não tenha sido transmitido nem esteja concessionado à PATRIRAM - Titularidade e Gestão de Património Público Regional, S. A., assegurar o aprovisionamento de bens e serviços da administração direta do Governo Regional, superintender a política regional para a área das comunicações, bem como apoiar a definição de políticas estratégicas nas áreas das tecnologias de informação e comunicação e dos sistemas de informação da administração pública regional, por forma a garantir a economia, a eficiência e a eficácia do aparelho administrativo, apoiando a modernização da administração regional, assegurando o planeamento, a conceção, a execução e a avaliação das iniciativas de informatização tecnológica em todos os organismos da administração regional.\n\n2 - A PaGeSP é dirigida por um Diretor Regional, cargo de direção superior de 1.º grau, coadjuvado por um Subdiretor Regional, cargo de direção superior de 2.º grau."
+  },
+  "129526863": {
+   "fragment_id": "129880017",
+   "type": 11,
+   "heading": "Artigo 16.º — Direção Regional da Administração Pública e da Modernização Administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direção Regional da Administração Pública e da Modernização Administrativa\n\n1 - A Direção Regional da Administração Pública e da Modernização Administrativa, abreviadamente designada por DRAPMA, tem por missão apoiar a definição de políticas para a administração pública regional nos domínios da organização de serviços e da gestão, dos regimes de emprego e da gestão dos recursos humanos, promover a harmonização jurídica naquelas áreas, assegurar a informação e dinamização das medidas adotadas e contribuir para a avaliação da sua execução, bem como assegurar a qualificação dos recursos humanos e a modernização administrativa.\n\n2 - No âmbito interno, a DRAPMA tem por missão assegurar a gestão dos recursos humanos integrados no sistema centralizado de gestão a que se refere o artigo 23.º, e prestar serviços partilhados nos domínios dos recursos humanos e organização de serviços, nas matérias transversais aos serviços da administração direta e indireta integrados na VP.\n\n3 - A DRAPMA é dirigida por um Diretor Regional, cargo de direção superior de 1.º grau."
+  },
+  "129526864": {
+   "fragment_id": "129880018",
+   "type": 11,
+   "heading": "Artigo 17.º — Direção Regional da Economia e Transportes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Direção Regional da Economia e Transportes\n\n1 - A Direção Regional da Economia e Transportes, abreviadamente designada por DRET, tem por missão assegurar a execução da política definida pelo Governo Regional, para os setores da economia, comércio, indústria, energia, qualidade, transportes e mobilidade.\n\n2 - A DRET é dirigida por um Diretor Regional, cargo de direção superior de 1.º grau, coadjuvado por um Subdiretor Regional, cargo de direção superior de 2.º grau."
+  },
+  "129526865": {
+   "fragment_id": "129880019",
+   "type": 11,
+   "heading": "Artigo 18.º — Inspeção Regional de Finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Inspeção Regional de Finanças\n\n1 - A Inspeção Regional de Finanças, abreviadamente designada por IRF, tem por missão assegurar o controlo estratégico da administração financeira da Região Autónoma da Madeira, compreendendo o controlo da legalidade e a auditoria financeira, administrativa e de gestão, e também prestar apoio técnico especializado, sendo que a sua intervenção abrange as entidades do setor público administrativo e empresarial regional, incluindo as autarquias locais, bem como os setores privado e cooperativo, quando sejam sujeitos de relações financeiras com a Região Autónoma da Madeira ou com a União Europeia, ou quando se mostre indispensável ao controlo indireto de quaisquer entidades abrangidas pela sua ação.\n\n2 - A IRF é dirigida por um Inspetor Regional, cargo de direção superior de 1.º grau."
+  },
+  "129526866": {
+   "fragment_id": "129880020",
+   "type": 11,
+   "heading": "Artigo 19.º — Autoridade Regional das Atividades Económicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Autoridade Regional das Atividades Económicas\n\n1 - A Autoridade Regional das Atividades Económica, abreviadamente designada por ARAE, tem por missão fiscalizar o cumprimento da legislação reguladora do exercício das atividades económicas nos setores alimentar e não alimentar.\n\n2 - A ARAE é dirigida por um Inspetor Regional, cargo de direção superior de 1.º grau."
+  },
+  "129526867": {
+   "fragment_id": "129880021",
+   "type": 8,
+   "heading": "Secção II — Missão dos serviços da administração indireta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Missão dos serviços da administração indireta"
+  },
+  "129526868": {
+   "fragment_id": "129880022",
+   "type": 11,
+   "heading": "Artigo 20.º — Gabinete de Gestão da Loja do Cidadão da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Gabinete de Gestão da Loja do Cidadão da Madeira\n\n1 - O Gabinete de Gestão da Loja do Cidadão, adiante abreviadamente designado por GGLC, criado pelo Decreto Legislativo Regional n.º 8/2003/M, de 21 de maio, alterado pelo Decreto Legislativo Regional n.º 29/2003/M, de 9 de dezembro, é um serviço público personalizado com autonomia administrativa, financeira e patrimonial, que tem por missão a gestão e funcionamento da Loja do Cidadão da Madeira e dos postos de atendimento ao cidadão.\n\n2 - O GGLC é dirigido por um Diretor, equiparado para efeitos remuneratórios, nos termos do artigo 3.º do Decreto Legislativo Regional n.º 8/2003/M, de 21 de maio, alterado pelo Decreto Legislativo Regional n.º 29/2003/M, de 9 de dezembro, a cargo de direção superior de 1.º grau."
+  },
+  "129526869": {
+   "fragment_id": "129880023",
+   "type": 11,
+   "heading": "Artigo 21.º — Instituto de Desenvolvimento Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Instituto de Desenvolvimento Regional\n\n1 - O Instituto de Desenvolvimento Regional, IP-RAM, designado abreviadamente por IDR, IP-RAM, criado pelo Decreto Legislativo Regional n.º 18/2007/M, de 12 de novembro, alterado pelo Decreto Legislativo Regional n.º 38/2012/M, de 13 de dezembro, é um serviço público personalizado com autonomia administrativa, financeira e patrimonial, que tem por missão a coordenação das atividades de planeamento e de monitorização do modelo de desenvolvimento regional, bem como a coordenação geral dos Fundos Europeus Estruturais e de Investimento e a gestão da intervenção dos Fundos Estruturais da União Europeia.\n\n2 - O IDR, IP-RAM, é dirigido por um conselho diretivo, composto por um Presidente e por dois Vogais, respetivamente, cargos de direção superior de 1.º grau e de 2.º grau."
+  },
+  "129526870": {
+   "fragment_id": "129880024",
+   "type": 11,
+   "heading": "Artigo 22.º — Instituto de Desenvolvimento Empresarial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Instituto de Desenvolvimento Empresarial\n\n1 - O Instituto de Desenvolvimento Empresarial, IP-RAM, designado abreviadamente por IDE, IP-RAM, criado pelo Decreto Legislativo Regional n.º 28-A/99/M, de 30 de novembro, alterado pelo Decreto Legislativo Regional n.º 6/2015/M, de 13 de agosto, é um serviço público personalizado com autonomia administrativa, financeira e patrimonial, que tem por missão a promoção do desenvolvimento empresarial e o apoio ao fortalecimento e modernização das estruturas empresariais da Região Autónoma da Madeira, nos setores secundário e terciário, em especial no que se refere às pequenas e médias empresas.\n\n2 - O IDE, IP-RAM, é dirigido por um conselho diretivo, composto por um Presidente e por dois Vogais, respetivamente, cargos de direção superior de 1.º grau e de 2.º grau."
+  },
+  "129526871": {
+   "fragment_id": "129880025",
+   "type": 1,
+   "heading": "Capítulo IV — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Pessoal"
+  },
+  "129526872": {
+   "fragment_id": "129880026",
+   "type": 11,
+   "heading": "Artigo 23.º — Sistema de gestão de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Sistema de gestão de pessoal\n\n1 - A gestão de pessoal dos serviços da administração direta da VP, com exceção, em função das suas especificidades, da AT-RAM, rege-se pelo sistema centralizado de gestão, estabelecido no artigo 5.º-A do Decreto Legislativo Regional n.º 1/2009/M, de 12 de janeiro, introduzido pelo Decreto Legislativo Regional n.º 9/2010/M, de 4 de junho, e alterado pelo Decreto Legislativo Regional n.º 26/2012/M, de 3 de setembro.\n\n2 - O sistema centralizado de gestão de recursos humanos referido no número anterior consiste na concentração na Vice-Presidência dos trabalhadores com relação jurídica de emprego público constituída por tempo indeterminado, integrados nas carreiras gerais e nas carreiras e categorias subsistentes, e posterior afetação aos órgãos e serviços da sua administração direta, de acordo com as necessidades verificadas, por despacho do Vice-Presidente.\n\n3 - O sistema centralizado de gestão obedece, designadamente, aos seguintes princípios:\n\na) A afetação determina a competência do dirigente máximo do respetivo serviço para praticar todos os atos no âmbito da gestão dos recursos humanos, nomeadamente avaliação de desempenho, marcação de férias e de faltas e registo de assiduidade;\n\nb) Por despacho do Vice-Presidente, e sem prejuízo dos direitos e garantias dos trabalhadores, pode ser revista a afetação, sempre que se verifique a alteração de circunstâncias ou quando o plano de atividades dos serviços o justificar;\n\nc) O recrutamento de trabalhadores para postos de trabalho que se encontrem abrangidos pelo sistema centralizado de gestão é feito para a VP, sem prejuízo de ser determinado, no aviso de abertura do procedimento concursal ou no pedido de utilização de reservas de recrutamento, o órgão ou serviço ao qual o trabalhador ficará afeto, através de referência ao respetivo mapa de pessoal onde o posto de trabalho se encontra previsto.\n\n4 - Os trabalhadores com relação jurídica de emprego público constituída por tempo indeterminado dos serviços da administração indireta, e os da administração direta integrados nas carreiras especiais, com funções cuja especialização é exigida apenas no âmbito das atribuições do respetivo serviço, estão excluídos do sistema centralizado de gestão referido nos números anteriores."
+  },
+  "129526873": {
+   "fragment_id": "129880027",
+   "type": 11,
+   "heading": "Artigo 24.º — Regime de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Regime de pessoal\n\nO regime aplicável ao pessoal da VP é o genericamente estabelecido para os trabalhadores que exercem funções públicas, sem prejuízo do disposto neste diploma."
+  },
+  "129526874": {
+   "fragment_id": "129880028",
+   "type": 11,
+   "heading": "Artigo 25.º — Carreiras subsistentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Carreiras subsistentes\n\n1 - O desenvolvimento indiciário das carreiras subsistentes de coordenador da VP e de Chefe de Departamento é o constante do anexo ao Decreto Legislativo Regional n.º 23/99/M, de 26 de agosto, objeto da Declaração de Retificação n.º 15-I/99, de 30 de setembro, sendo-lhes aplicável o disposto no artigo 106.º da Lei n.º 12-A/2008, de 27 de fevereiro, alterada pelas Leis n.º 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, 34/2010, de 2 de setembro, 55-A/2010, de 31 de dezembro, 64-B/2011, de 30 de dezembro, e 66/2012 e 66-B/2012, ambas de 31 de dezembro.\n\n2 - O disposto no número anterior não prejudica a integração na tabela remuneratória única, feita ao abrigo do artigo 5.º da Lei n.º 75/2014, de 12 de setembro."
+  },
+  "129880375": {
+   "fragment_id": "129880029",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "129880376": {
+   "fragment_id": "129880030",
+   "type": 11,
+   "heading": "Artigo 26.º — Dotação de cargos de direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Dotação de cargos de direção\n\n1 - A dotação de cargos de direção superior da administração direta e indireta da VP consta dos Anexos I e II ao presente diploma, do qual fazem parte integrante.\n\n2 - A dotação de lugares de cargos de direção intermédia de 1.º grau das unidades orgânicas nucleares que funcionam sob a direta dependência do GVP consta do Anexo III ao presente diploma, do qual faz parte integrante."
+  },
+  "129880377": {
+   "fragment_id": "129880031",
+   "type": 11,
+   "heading": "Artigo 27.º — Transição e manutenção de serviços e de comissões de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Transição e manutenção de serviços e de comissões de serviços\n\n1 - Em cumprimento com o disposto no n.º 3 do artigo 14.º do Decreto Regulamentar Regional n.º 13/2017/M, de 7 de novembro, as unidades orgânicas nucleares e serviços previstos na Portaria n.º 149/2015, de 27 de agosto, publicada no Jornal Oficial da Região Autónoma da Madeira, 1.ª série, n.º 130, de 27 de agosto, nos artigos 2.º, alínea b), 4.º e 8.º da Portaria n.º 130/2015, de 31 de julho, publicada no Jornal Oficial da Região Autónoma da Madeira, 1.ª série, n.º 133, suplemento, de 31 de julho, e no artigo 4.º da Portaria n.º 229/2015, de 19 de novembro, publicada no Jornal Oficial da Região Autónoma da Madeira, 1.ª série, n.º 180, suplemento, de 19 de novembro, transitam para o Gabinete da Vice-Presidência do Governo Regional.\n\n2 - Até à aprovação da organização interna dos serviços do Gabinete do Vice-Presidente a que se refere o n.º 2 do artigo 9.º, os serviços referidos no número anterior mantêm a mesma natureza jurídica, mantendo-se as comissões de serviço dos respetivos titulares de cargos dirigentes.\n\n3 - A transição de serviços a que se refere o n.º 1 é acompanhada pela correspondente transição do pessoal, nos termos do despacho conjunto a que se refere o n.º 3 do artigo 15.º do Decreto Regulamentar Regional n.º 13/2017/M, de 7 de novembro."
+  },
+  "129880378": {
+   "fragment_id": "129880032",
+   "type": 11,
+   "heading": "Artigo 28.º — Extinção, criação e reestruturação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Extinção, criação e reestruturação de serviços\n\n1 - Nos termos dos n.os 1 e 2 do artigo 14.º do Decreto Regulamentar Regional n.º 13/2017/M, de 7 de novembro, foram criados os seguintes serviços:\n\na) Direção Regional Adjunta de Finanças;\n\nb) Direção Regional Adjunta de Economia.\n\n2 - Pelo presente diploma são extintos os seguintes serviços:\n\na) Direção Regional da Inovação, Valorização e Empreendedorismo, sendo as respetivas atribuições integradas na Direção Regional Adjunta de Economia;\n\nb) Unidade Técnica de Acompanhamento e Monitorização de Parcerias Público-Privadas e do Setor Público Empresarial, sendo as respetivas atribuições na área do setor empresarial integradas numa unidade orgânica que funciona na direta dependência da Direção Regional Adjunta de Finanças.\n\n3 - A Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira é objeto de reestruturação, sendo as atribuições na área da Zona Franca da Madeira integradas numa unidade orgânica que funciona na direta dependência do Gabinete da Vice-Presidência do Governo."
+  },
+  "129880379": {
+   "fragment_id": "129880033",
+   "type": 11,
+   "heading": "Artigo 29.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Produção de efeitos\n\n1 - Nos termos do artigo 19.º do Decreto Regulamentar Regional n.º 13/2017/M, de 7 de novembro, a criação de serviços prevista no n.º 1 do artigo anterior produz efeitos reportados a 20 de outubro de 2017.\n\n2 - A extinção dos serviços referidos no n.º 2 do artigo anterior produz efeitos com a entrada em vigor do presente diploma.\n\n3 - Até à criação da unidade orgânica a que se refere a alínea b) do n.º 2 do artigo anterior, as atribuições da Unidade Técnica de Acompanhamento e Monitorização de Parcerias Público-Privadas e do Setor Público Empresarial, com exceção das referentes a concessões sobre as parcerias público-privadas, são exercidas pela DROT nos termos previstos no n.º 2 do artigo 11.º do Decreto Regulamentar Regional n.º 12/2015/M, de 17 de agosto.\n\n4 - A reestruturação a que se refere o n.º 3 do artigo anterior produz efeitos com a entrada em vigor do diploma que aprovar a organização interna do Gabinete do Vice-Presidente, nos termos previstos no n.º 2 do artigo 9.º"
+  },
+  "129880380": {
+   "fragment_id": "129880034",
+   "type": 11,
+   "heading": "Artigo 30.º — Referências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Referências\n\nTodas as referências, legais ou regulamentares, feitas à Secretaria Regional das Finanças e da Administração Pública devem ter-se por feitas à Vice-Presidência do Governo."
+  },
+  "129880381": {
+   "fragment_id": "129880035",
+   "type": 11,
+   "heading": "Artigo 31.º — Orgânicas dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Orgânicas dos serviços\n\nO diploma orgânico do serviço que é objeto de reestruturação pelo presente diploma, referido no n.º 3 do artigo 28.º, é aprovado no prazo de 45 dias a contar da entrada em vigor do presente diploma."
+  },
+  "129880382": {
+   "fragment_id": "129880036",
+   "type": 11,
+   "heading": "Artigo 32.º — Listas nominativas e afetação de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Listas nominativas e afetação de pessoal\n\nA lista nominativa do pessoal abrangido pelo sistema centralizado de gestão misto da VP é objeto de atualização e publicação na 2.ª série do Jornal Oficial da Região Autónoma da Madeira e na página eletrónica da Vice-Presidência do Governo, sendo revista a afetação do pessoal abrangido pelo sistema centralizado de gestão aos serviços da administração direta."
+  },
+  "129880383": {
+   "fragment_id": "129880037",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 1 do artigo 26.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 1 do artigo 26.º)\n\nCargos de direção superior da administração direta\n\n(ver documento original)"
+  },
+  "129880384": {
+   "fragment_id": "129880038",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 1 do artigo 26.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 1 do artigo 26.º)\n\nCargos de direção superior da administração indireta\n\n(ver documento original)"
+  },
+  "129880385": {
+   "fragment_id": "129880039",
+   "type": 14,
+   "heading": "Anexo III — (a que refere o n.º 2 do artigo 26.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que refere o n.º 2 do artigo 26.º)\n\nCargos de direção intermédia dos serviços dependentes do Gabinete do Vice-Presidente\n\n(ver documento original)"
+  },
+  "129880386": {
+   "fragment_id": "129880040",
+   "type": 14,
+   "heading": "Anexo B — (a que se refere o n.º 2 do artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo B — (a que se refere o n.º 2 do artigo 1.º)\n\nOrgânica da Direção Regional Adjunta de Finanças"
+  },
+  "129880387": {
+   "fragment_id": "129880041",
+   "type": 11,
+   "heading": "Artigo 1.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Missão\n\n1 - A Direção Regional Adjunta de Finanças, abreviadamente designada por DRAFIN, tem por missão coadjuvar o Vice-Presidente do Governo no exercício das suas funções na área das finanças.\n\n2 - A DRAFIN tem ainda por missão prestar apoio técnico ao Vice-Presidente do Governo no âmbito do exercício da função de acionista das empresas do setor empresarial da Região Autónoma da Madeira."
+  },
+  "129880388": {
+   "fragment_id": "129880042",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nA DRAFIN prossegue, designadamente, as atribuições seguintes:\n\na) Acompanhar a atividade e assegurar a coordenação geral dos serviços e órgãos da VP na área das finanças, nomeadamente, dos referidos nos artigos 12.º a 16.º e 18.º a 20.º da Orgânica da Vice-Presidência do Governo constante do Anexo A ao presente diploma;\n\nb) Prestar apoio técnico ao Vice-Presidente do Governo no exercício da função acionista das empresas do setor empresarial da Região Autónoma da Madeira, tendo em vista o equilíbrio financeiro, a melhoria da qualidade da gestão e a monitorização e avaliação das boas práticas de governação;\n\nc) Acompanhar a execução das políticas e orientações fiscais definidas pelo Governo Regional da Madeira em matéria tributária;\n\nd) Acompanhar a execução da política financeira e orçamental dos serviços e organismos integrados na administração pública regional;\n\ne) Acompanhar a execução das políticas relativas à administração pública regional;\n\nf) Propor a adoção de medidas legislativas, regulamentares e/ou administrativas necessárias ao cumprimento da sua missão;\n\ng) Acompanhar a execução das linhas estratégicas adotadas pelo Governo Regional da Madeira nos setores da inspeção das atividades económicas."
+  },
+  "129880389": {
+   "fragment_id": "129880043",
+   "type": 11,
+   "heading": "Artigo 3.º — Diretor Regional Adjunto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Diretor Regional Adjunto\n\n1 - A DRAFIN é dirigida pelo Diretor Regional Adjunto de Finanças, designado por Diretor Regional Adjunto, cargo de direção superior de 1.º grau.\n\n2 - O Diretor Regional Adjunto pode, nos termos da lei, delegar ou subdelegar poderes da sua competência.\n\n3 - O Diretor Regional Adjunto é substituído, nas suas faltas e impedimentos, pelo dirigente ou colaborador a designar."
+  },
+  "129880390": {
+   "fragment_id": "129880044",
+   "type": 11,
+   "heading": "Artigo 4.º — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Organização interna\n\nA organização interna da DRAFIN obedece ao modelo organizacional hierarquizado."
+  },
+  "129880391": {
+   "fragment_id": "129880045",
+   "type": 11,
+   "heading": "Artigo 5.º — Dotação de cargos de direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Dotação de cargos de direção\n\nOs lugares de direção superior e de direção intermédia de 1.º grau constam do mapa anexo ao presente diploma, do qual faz parte integrante."
+  },
+  "129880392": {
+   "fragment_id": "129880046",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma transitória\n\nNos termos do n.º 3 do artigo 29.º da Orgânica da Vice-Presidência do Governo constante do Anexo A ao presente diploma, até à criação da unidade orgânica a que se refere a alínea b) do n.º 2 do artigo 27.º daquela orgânica, as atribuições previstas na alínea b) do artigo 2.º são exercidas pela DROT nos termos previstos no n.º 2 do artigo 11.º do Decreto Regulamentar Regional n.º 12/2015/M, de 17 de agosto."
+  },
+  "129880393": {
+   "fragment_id": "129880047",
+   "type": 14,
+   "heading": "Anexo I — (a que refere o artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que refere o artigo 5.º)\n\n(ver documento original)"
+  },
+  "129880394": {
+   "fragment_id": "129880048",
+   "type": 14,
+   "heading": "Anexo C — (a que se refere o n.º 2 do artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo C — (a que se refere o n.º 2 do artigo 1.º)\n\nOrgânica da Direção Regional Adjunta de Economia"
+  },
+  "129880395": {
+   "fragment_id": "129880049",
+   "type": 11,
+   "heading": "Artigo 1.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Missão\n\n1 - A Direção Regional Adjunta de Economia, abreviadamente designada por DRAE, tem por missão coadjuvar o Vice-Presidente do Governo no exercício das suas funções na área da economia.\n\n2 - A DRAE tem ainda por missão ser o veículo de política económica de proximidade da VP nos setores da economia: empresas e apoios às mesmas, comércio, indústria, transportes e mobilidade, energia, qualidade, empreendedorismo, inovação, bem como dos Fundos Europeus Estruturais e de Investimento."
+  },
+  "129880396": {
+   "fragment_id": "129880050",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nA DRAE prossegue as seguintes atribuições:\n\na) Acompanhar a atividade e assegurar a coordenação geral dos serviços e órgãos da VP referidos nos artigos 17.º, 21.º e 22.º da Orgânica da Vice-Presidência do Governo constante do Anexo A ao presente diploma;\n\nb) Prestar apoio técnico ao Vice-Presidente do Governo no exercício da função de acompanhamento da atividade desenvolvida pelas empresas pertencentes ao setor empresarial da Região Autónoma da Madeira a que se refere o n.º 1 do artigo 7.º;\n\nc) Promover a execução e o acompanhamento da política definida para a área económica, nomeadamente para o setor do comércio, indústria, transportes e mobilidade, energia, qualidade, empreendedorismo, inovação, e apoio às empresas, bem como dos Fundos Europeus Estruturais e de Investimento;\n\nd) Promover a execução de políticas e medidas que visem o desenvolvimento do setor empresarial da Madeira e Porto Santo, com especial enfoque nas Pequenas e Médias Empresas, nas áreas da inovação, empreendedorismo, incentivos e desenvolvimento da atividade empresarial, comércio externo e exportação, internacionalização e atração de investimento estrangeiro;\n\ne) Operacionalizar iniciativas tendentes ao aumento da competitividade e fortalecimento do tecido empresarial regional, tendo em vista a geração de emprego, a criação de riqueza e o crescimento económico;\n\nf) Propor a adoção de medidas legislativas, regulamentares e/ou administrativas necessárias ao cumprimento da sua missão;\n\ng) Promover a harmonização estratégica e garantir a fluidez funcional e operacional entre todos os organismos públicos vocacionados para a inovação, empreendedorismo e apoio às empresas, de forma concertada ao longo das diferentes etapas do ciclo de vida empresarial;\n\nh) Propor medidas de aumento da eficácia e eficiência dos instrumentos públicos orientados para o tecido empresarial, bem como contribuir para a agilização de soluções e colaborar na definição das linhas estratégicas e na formulação dos sistemas e instrumentos regionais de dinamização e valorização do tecido empresarial;\n\ni) Fomentar a aproximação entre diferentes intervenientes do meio empresarial, a convergência de recursos e a dinamização de iniciativas de interesse comum entre entidades de natureza pública, associativa ou privada e o tecido empresarial regional;\n\nj) Materializar medidas que incentivem a aproximação do tecido empresarial regional aos centros de investigação e polos de produção de conhecimento;\n\nk) Operar em proximidade com o tecido empresarial regional, auscultando os empresários e perspetivando oportunidades de aperfeiçoamento da dinâmica empresarial regional e de redução dos custos de contexto."
+  },
+  "129880397": {
+   "fragment_id": "129880051",
+   "type": 11,
+   "heading": "Artigo 3.º — Diretor Regional Adjunto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Diretor Regional Adjunto\n\n1 - A DRAE é dirigida pelo Diretor Regional Adjunto de Economia, designado por Diretor Regional Adjunto, cargo de direção superior de 1.º grau.\n\n2 - O Diretor Regional Adjunto pode, nos termos da lei, delegar ou subdelegar poderes da sua competência.\n\n3 - O Diretor Regional Adjunto é substituído, nas suas faltas e impedimentos, pelo dirigente ou colaborador a designar."
+  },
+  "129880398": {
+   "fragment_id": "129880052",
+   "type": 11,
+   "heading": "Artigo 4.º — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Organização interna\n\nA organização interna da DRAE obedece ao modelo organizacional hierarquizado."
+  },
+  "129880399": {
+   "fragment_id": "129880053",
+   "type": 11,
+   "heading": "Artigo 5.º — Dotação de cargos de direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Dotação de cargos de direção\n\nOs lugares de direção superior e de direção intermédia de 1.º grau constam do mapa anexo ao presente diploma, do qual faz parte integrante."
+  },
+  "129880400": {
+   "fragment_id": "129880054",
+   "type": 11,
+   "heading": "Artigo 6.º — Referências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Referências\n\nTodas as referências, legais ou regulamentares, feitas à Direção Regional da Inovação, Valorização e Empreendedorismo devem ter-se por feitas à Direção Regional Adjunta de Economia."
+  },
+  "129880401": {
+   "fragment_id": "129880055",
+   "type": 14,
+   "heading": "Anexo I — (a que refere o artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que refere o artigo 5.º)\n\n(ver documento original)\n\n111325285"
+  },
+  "129526839": {
+   "fragment_id": "129879993",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional em 5 de abril de 2018.\n\nO Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.\n\nAssinado em 23 de abril de 2018.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  },
+  "129951442": {
+   "fragment_id": "129880040",
+   "type": 14,
+   "heading": "Anexo B — (a que se refere o n.º 2 do artigo 1.º)",
+   "in_force_from": "2020-03-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 17/2020/M - Diário da República n.º 45/2020, Série I de 2020-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2020-129790955), em vigor a partir de 2020-03-05"
+   ],
+   "markdown": "## Anexo B — (a que se refere o n.º 2 do artigo 1.º)\n\nOrgânica da Direção Regional Adjunta de Finanças\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 17/2020/M - Diário da República n.º 45/2020, Série I de 2020-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2020-129790955), em vigor a partir de 2020-03-05"
+  },
+  "129951443": {
+   "fragment_id": "129880041",
+   "type": 11,
+   "heading": "Artigo 1.º — Missão",
+   "in_force_from": "2020-03-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 17/2020/M - Diário da República n.º 45/2020, Série I de 2020-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2020-129790955), em vigor a partir de 2020-03-05"
+   ],
+   "markdown": "###### Artigo 1.º — Missão\n\n1 - A Direção Regional Adjunta de Finanças, abreviadamente designada por DRAFIN, tem por missão coadjuvar o Vice-Presidente do Governo no exercício das suas funções na área das finanças.\n\n2 - A DRAFIN tem ainda por missão prestar apoio técnico ao Vice-Presidente do Governo no âmbito do exercício da função de acionista das empresas do setor empresarial da Região Autónoma da Madeira.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 17/2020/M - Diário da República n.º 45/2020, Série I de 2020-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2020-129790955), em vigor a partir de 2020-03-05"
+  },
+  "129951444": {
+   "fragment_id": "129880042",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": "2020-03-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 17/2020/M - Diário da República n.º 45/2020, Série I de 2020-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2020-129790955), em vigor a partir de 2020-03-05"
+   ],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nA DRAFIN prossegue, designadamente, as atribuições seguintes:\n\na) Acompanhar a atividade e assegurar a coordenação geral dos serviços e órgãos da VP na área das finanças, nomeadamente, dos referidos nos artigos 12.º a 16.º e 18.º a 20.º da Orgânica da Vice-Presidência do Governo constante do Anexo A ao presente diploma;\n\nb) Prestar apoio técnico ao Vice-Presidente do Governo no exercício da função acionista das empresas do setor empresarial da Região Autónoma da Madeira, tendo em vista o equilíbrio financeiro, a melhoria da qualidade da gestão e a monitorização e avaliação das boas práticas de governação;\n\nc) Acompanhar a execução das políticas e orientações fiscais definidas pelo Governo Regional da Madeira em matéria tributária;\n\nd) Acompanhar a execução da política financeira e orçamental dos serviços e organismos integrados na administração pública regional;\n\ne) Acompanhar a execução das políticas relativas à administração pública regional;\n\nf) Propor a adoção de medidas legislativas, regulamentares e/ou administrativas necessárias ao cumprimento da sua missão;\n\ng) Acompanhar a execução das linhas estratégicas adotadas pelo Governo Regional da Madeira nos setores da inspeção das atividades económicas.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 17/2020/M - Diário da República n.º 45/2020, Série I de 2020-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2020-129790955), em vigor a partir de 2020-03-05"
+  },
+  "129951445": {
+   "fragment_id": "129880043",
+   "type": 11,
+   "heading": "Artigo 3.º — Diretor Regional Adjunto",
+   "in_force_from": "2020-03-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 17/2020/M - Diário da República n.º 45/2020, Série I de 2020-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2020-129790955), em vigor a partir de 2020-03-05"
+   ],
+   "markdown": "###### Artigo 3.º — Diretor Regional Adjunto\n\n1 - A DRAFIN é dirigida pelo Diretor Regional Adjunto de Finanças, designado por Diretor Regional Adjunto, cargo de direção superior de 1.º grau.\n\n2 - O Diretor Regional Adjunto pode, nos termos da lei, delegar ou subdelegar poderes da sua competência.\n\n3 - O Diretor Regional Adjunto é substituído, nas suas faltas e impedimentos, pelo dirigente ou colaborador a designar.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 17/2020/M - Diário da República n.º 45/2020, Série I de 2020-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2020-129790955), em vigor a partir de 2020-03-05"
+  },
+  "129951446": {
+   "fragment_id": "129880044",
+   "type": 11,
+   "heading": "Artigo 4.º — Organização interna",
+   "in_force_from": "2020-03-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 17/2020/M - Diário da República n.º 45/2020, Série I de 2020-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2020-129790955), em vigor a partir de 2020-03-05"
+   ],
+   "markdown": "###### Artigo 4.º — Organização interna\n\nA organização interna da DRAFIN obedece ao modelo organizacional hierarquizado.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 17/2020/M - Diário da República n.º 45/2020, Série I de 2020-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2020-129790955), em vigor a partir de 2020-03-05"
+  },
+  "129951447": {
+   "fragment_id": "129880045",
+   "type": 11,
+   "heading": "Artigo 5.º — Dotação de cargos de direção",
+   "in_force_from": "2020-03-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 17/2020/M - Diário da República n.º 45/2020, Série I de 2020-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2020-129790955), em vigor a partir de 2020-03-05"
+   ],
+   "markdown": "###### Artigo 5.º — Dotação de cargos de direção\n\nOs lugares de direção superior e de direção intermédia de 1.º grau constam do mapa anexo ao presente diploma, do qual faz parte integrante.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 17/2020/M - Diário da República n.º 45/2020, Série I de 2020-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2020-129790955), em vigor a partir de 2020-03-05"
+  },
+  "129951448": {
+   "fragment_id": "129880046",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma transitória",
+   "in_force_from": "2020-03-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 17/2020/M - Diário da República n.º 45/2020, Série I de 2020-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2020-129790955), em vigor a partir de 2020-03-05"
+   ],
+   "markdown": "###### Artigo 6.º — Norma transitória\n\nNos termos do n.º 3 do artigo 29.º da Orgânica da Vice-Presidência do Governo constante do Anexo A ao presente diploma, até à criação da unidade orgânica a que se refere a alínea b) do n.º 2 do artigo 27.º daquela orgânica, as atribuições previstas na alínea b) do artigo 2.º são exercidas pela DROT nos termos previstos no n.º 2 do artigo 11.º do Decreto Regulamentar Regional n.º 12/2015/M, de 17 de agosto.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 17/2020/M - Diário da República n.º 45/2020, Série I de 2020-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2020-129790955), em vigor a partir de 2020-03-05"
+  },
+  "129951449": {
+   "fragment_id": "129880047",
+   "type": 14,
+   "heading": "Anexo I — (a que refere o artigo 5.º)",
+   "in_force_from": "2020-03-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 17/2020/M - Diário da República n.º 45/2020, Série I de 2020-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2020-129790955), em vigor a partir de 2020-03-05"
+   ],
+   "markdown": "## Anexo I — (a que refere o artigo 5.º)\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 17/2020/M - Diário da República n.º 45/2020, Série I de 2020-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2020-129790955), em vigor a partir de 2020-03-05"
+  }
+ }
+}

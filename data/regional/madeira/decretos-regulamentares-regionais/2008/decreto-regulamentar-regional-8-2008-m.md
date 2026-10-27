@@ -1,0 +1,331 @@
+---
+schema_version: '1.0'
+id: pt:dre:249548:por
+title: Decreto Regulamentar Regional n.º 8/2008/M
+short_title: null
+summary: Aprova a orgânica da Direcção Regional de Qualificação Profissional
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Presidência do Governo
+proposing_entity: null
+official_number: 8/2008/M
+official_date: null
+publication_date: '2008-04-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 80/2008, Série I de 2008-04-23
+  number: '80'
+  series: I
+  supplement: null
+  pages: 2396 - 2398
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/04/08000/0239602398.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/8/2008/04/23/m/dre/pt/html
+  oj: null
+  dre: '249548'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/8-2008-249548
+  internal: pt:dre:249548:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2008-249548
+  metadata_url: https://data.dre.pt/eli/decregulreg/8/2008/04/23/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2008-249548
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:47:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 711a9c74284d0002494119cab4089d4795a6d52bfa9126729084536a5bea6543
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:31Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho Administrativo
+- Definição de Competências
+- Direcção Regional de Formação Profissional
+- Direcção Regional de Qualificação Profissional
+- Diretor Regional
+- Formas de Provimento
+- Integração de Trabalhadores
+- Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Transferência de Competências
+relationships:
+- type: amended_by
+  target: pt:dre:178846:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:178846:por
+  label: "Determinada a transferência das competências, dos direitos e das obrigações de que eram titulares os órgãos e serviços\
+    \ da DRQP, nos termos do art. 9º, e revogado o presente diploma, pelo DRR.9/2012/M.21.06.2012.PG-RAM, DR.IS [119] de 21.06.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-2012-178846
+  date: '2012-06-21'
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: http://data.dre.pt/eli/lei/51/2005
+- type: cites
+  target: pt:dre:248482:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/1/2008/01/17/m/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/23/1999/08/26/m/dre
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:537430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548418:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/13/2005/04/19/m/dre
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:636765:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/5/2007/07/23/m/dre
+- type: corrected_by
+  target: pt:dre:449914:por
+  label: "Rectificado pela DECL-RECT.33/2008.20.06.2008.PCM, DR.IS [118] de 20.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/33-2008-449914
+  date: '2008-06-20'
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:47:31Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 8/2008/M
+
+Aprova a Orgânica da Direcção Regional de Qualificação Profissional
+
+O [Decreto Regulamentar Regional n.º 5/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2007-636765), de 23 de Julho, procedeu à reestruturação do Governo da Região Autónoma da Madeira.
+
+O [Decreto Regulamentar Regional n.º 1/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2008-248482), de 17 de Janeiro, que criou a nova estrutura da Secretaria Regional de Educação e Cultura, estatui no seu articulado que a natureza, a missão, as atribuições e a organização interna do organismo referido na alínea d) do n.º 1 do artigo 5.º constariam de decreto regulamentar regional.
+
+Neste contexto, o presente decreto regulamentar regional aprova a estrutura orgânica da Direcção Regional de Qualificação Profissional que é objecto de reestruturação, adoptando, em termos de estrutura interna, o modelo estrutural hierarquizado, com a sua missão, atribuições e respectiva organização interna, por forma a dotá-la dos meios necessários ao exercício das suas funções.
+
+Nestes termos:
+
+O Governo Regional da Região Autónoma da Madeira decreta, nos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, na redacção dada pela [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, com a alteração introduzida pela [Lei n.º 12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de Junho, conjugados com o [Decreto Regulamentar Regional n.º 5/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2007-636765), de 23 de Julho, alínea d) do n.º 1 e n.º 2 do artigo 5.º da orgânica aprovada pelo [Decreto Regulamentar Regional n.º 1/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2008-248482), de 17 de Janeiro, e com o [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de Novembro, o seguinte:
+
+###### Artigo 1.º
+
+É aprovada a estrutura orgânica da Direcção Regional de Qualificação Profissional, publicada em anexo ao presente diploma, do qual faz parte integrante.
+
+###### Artigo 2.º
+
+O presente decreto regulamentar regional entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional em 3 de Abril de 2008.
+
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
+
+Assinado em 14 de Abril de 2008.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
+
+## ANEXO I — Orgânica da Direcção Regional de Qualificação Profissional
+
+###### Artigo 1.º — Natureza
+
+A Direcção Regional de Qualificação Profissional, designada no presente diploma abreviadamente por DRQP, é o departamento a que se refere a alínea d) do n.º 1 do artigo 5.º da orgânica aprovada pelo [Decreto Regulamentar Regional n.º 1/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2008-248482), de 17 de Janeiro, dotado de autonomia administrativa.
+
+###### Artigo 2.º — Missão
+
+A DRQP tem por missão assegurar a execução da política regional definida pelo Governo Regional para o sector da qualificação, formação e certificação profissional e para a gestão do Fundo Social Europeu, no âmbito das competências atribuídas nesta matéria.
+
+###### Artigo 3.º — Atribuições e competências
+
+A DRQP prossegue as seguintes atribuições:
+
+a) Promover e desenvolver acções no âmbito dos diversos sistemas de formação profissional;
+
+b) Contribuir para a definição da política de qualificação profissional e contribuir para a elaboração da respectiva legislação;
+
+c) Recolher, analisar e facultar informação sobre as necessidades de qualificação e promover a sua discussão com vista à definição das prioridades de intervenção naquele sector;
+
+d) Conceber e propor programas integrados de formação profissional, tendo em conta a situação e perspectivas do mercado de emprego e as características dos grupos sócio-profissionais prioritários;
+
+e) Promover a certificação de entidades formadoras sediadas na Região, nos termos das normas e regulamentação aplicáveis;
+
+f) Promover e desenvolver os processos tendentes à certificação e homologação de cursos de formação profissional, bem como o reconhecimento das competências profissionais dos indivíduos com vista à respectiva certificação profissional;
+
+g) Promover processos de reconhecimento, validação e certificação de competências, a nível escolar e ou profissional, na sua área de actuação;
+
+h) Assegurar a implementação e o desenvolvimento do Sistema Nacional de Qualificação na Região Autónoma da Madeira (RAM) no âmbito das suas competências;
+
+i) Promover o sistema de regulação de acesso a profissões na RAM, em determinadas áreas profissionais, designadamente área dos serviços pessoais, construção civil, formadores e serviços administrativos, desde que tal competência não se encontre cometida a outra entidade;
+
+j) Promover e implementar sistemas de auditoria e validação da qualidade da formação profissional e assegurar a sua representação em equipas de acompanhamento e avaliação técnico-pedagógica das acções de formação profissional;
+
+l) Proceder à divulgação das possibilidades de financiamento do Fundo Social Europeu;
+
+m) Garantir a gestão dos assuntos do Fundo Social Europeu, no âmbito das competências atribuídas no quadro do Programa Operacional de Valorização do Potencial Humano e Coesão Social da RAM;
+
+n) Definir metodologias e padrões de certificação, avaliação e validação técnico-pedagógica dos sistemas de formação, de forma contínua, sistemática e global;
+
+o) Participar e promover o intercâmbio de formas de cooperação e colaboração, bem como outro tipo de relações com outras entidades regionais, nacionais e internacionais em matérias da sua competência;
+
+p) Colaborar com a Direcção Regional de Educação (DRE) nas acções profissionalizantes e de informação e orientação escolar;
+
+q) Gerir, em articulação com a DRE, a oferta formativa de educação e formação na RAM;
+
+r) Representar os interesses regionais de acordo com as competências inerentes à DRQP, designadamente em matérias de qualificação, formação e certificação profissional e Fundo Social Europeu;
+
+s) Colaborar com as entidades competentes no âmbito do rendimento social de inserção;
+
+t) Organizar o campeonato regional das profissões e promover a participação da Região nos campeonatos nacionais e internacionais das profissões;
+
+u) Elaborar estudos e prestar apoio técnico sobre assuntos da sua área de intervenção.
+
+###### Artigo 4.º — Órgãos
+
+1 - A DRQP é dirigida por um director regional, cargo de direcção superior do 1.º grau.
+
+2 - Junto da DRQP funciona o conselho administrativo.
+
+###### Artigo 5.º — Director regional
+
+1 - Compete ao director regional dirigir e orientar a acção dos órgãos e serviços da DRQP, nos termos das competências que lhe sejam conferidas por lei ou que nele sejam delegadas ou subdelegadas.
+
+2 - O director regional é substituído, nas suas ausências e impedimentos, pelo director de serviços para o efeito designado.
+
+3 - O director regional pode, nos termos da lei, delegar ou subdelegar competências em titulares de cargos de direcção e chefia.
+
+###### Artigo 6.º — Conselho administrativo
+
+1 - O conselho administrativo, abreviadamente designado por CA, é composto pelo director regional, que preside, pelo director de serviços de apoio logístico, tecnológico e património, pelo director de serviços de controlo financeiro e jurídico e por dois elementos a designar por despacho do director regional.
+
+2 - Ao CA compete, designadamente:
+
+a) Definir, de acordo com as directivas superiores, os programas que hão-de servir de base à elaboração das propostas orçamentais;
+
+b) Promover a elaboração dos projectos de orçamento de receitas e despesas, de harmonia com as disposições legais aplicáveis;
+
+c) Controlar a execução das actividades financeiras, em conformidade com os respectivos programas;
+
+d) Autorizar despesas e respectivos pagamentos nos termos e até aos montantes legais;
+
+e) Analisar e aprovar anualmente a conta de gerência da DRQP, submetendo-a, no prazo legal, à Secção Regional da Madeira do Tribunal de Contas;
+
+f) Apreciar a situação administrativa e financeira da DRQP tendo em vista assegurar o seu bom funcionamento.
+
+3 - O CA pode, nos termos da lei, delegar competências, com ou sem poderes de subdelegação.
+
+4 - O CA estabelece, mediante regimento, as normas internas do seu funcionamento.
+
+###### Artigo 7.º — Tipo de organização interna
+
+A organização interna dos serviços da DRQP obedece ao modelo de estrutura hierarquizada.
+
+###### Artigo 8.º — Cargos de direcção
+
+Os lugares de direcção superior do 1.º grau e de direcção intermédia do 1.º grau constam do mapa anexo ii ao presente decreto regulamentar, do qual faz parte integrante.
+
+###### Artigo 9.º — Regime de pessoal
+
+1 - Os chefes de departamento são remunerados de acordo com o estabelecido no [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 26 de Agosto.
+
+2 - A carreira de coordenador desenvolve-se pelas categorias de coordenador especialista e de coordenador.
+
+3 - O recrutamento para as categorias de coordenador especialista e de coordenador far-se-á, respectivamente, de entre coordenadores com três anos na respectiva categoria e de entre chefes de secção com comprovada experiência na área administrativa.
+
+4 - A carreira de coordenador é remunerada de acordo com o estabelecido no [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 26 de Agosto.
+
+###### Artigo 10.º — Transferência de competências, direitos e obrigações
+
+1 - As competências, os direitos e as obrigações de que eram titulares os órgãos e serviços da DRFP são automaticamente transferidos para os correspondentes novos órgãos e serviços que os substituem, ou que os passam a integrar em razão da respectiva matéria de competências, sem dependência de quaisquer formalidades, mantendo-se no entanto as referidas competências, direitos e obrigações nos anteriores órgãos e serviços até à data da entrada em vigor do presente diploma.
+
+2 - Até à aprovação dos diplomas que criarão a estrutura nuclear e a estrutura flexível da DRQP, previstos no artigo 21.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de Novembro, o funcionamento dos serviços da DRQP rege-se pelo [Decreto Regulamentar Regional n.º 13/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2005-548418), de 19 de Abril.
+
+###### Artigo 11.º — Transição de pessoal
+
+1 - O pessoal da DRFP constante no anexo ao [Decreto Regulamentar Regional n.º 13/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2005-548418), de 19 de Abril, com excepção do pessoal afecto à Direcção de Serviços de Estatísticas, Estudos e Avaliação, transita para idêntico lugar de quadro da DRQP, mediante lista nominativa a aprovar por despacho do Secretário Regional de Educação e Cultura, com efeitos à data da entrada em vigor do presente diploma, com dispensa de qualquer outra formalidade.
+
+2 - O coordenador do Gabinete de Coordenação Financeira e Património mantém-se em funções na Direcção de Serviços de Controlo Financeiro e Jurídico e o coordenador do Gabinete de Coordenação Pedagógica e Acompanhamento mantém-se em funções na Direcção de Serviços do Fundo Social Europeu, nos termos da alínea c) do n.º 1 do artigo 25.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, com a redacção dada pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de Agosto, adaptado à RAM pelo [Decreto Legislativo Regional n.º 27/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2006-537430), de 14 de Julho.
+
+3 - O director de serviços de Formação Profissional mantém-se em funções no Centro de Formação Profissional da Madeira e o director dos Serviços Administrativos, Financeiros e Património mantém-se em funções na Direcção de Serviços de Apoio Logístico, Tecnológico e Património, nos termos da alínea c) do n.º 1 do artigo 25.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, com a redacção dada pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de Agosto, adaptado à RAM pelo [Decreto Legislativo Regional n.º 27/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2006-537430), de 14 de Julho.
+
+4 - O chefe de divisão de Apoio Jurídico mantém-se em funções na Divisão de Controlo Jurídico e Técnico, o chefe de divisão de Relações Exteriores e Marketing mantém-se em funções na Divisão de Comunicação e Informação, o chefe de divisão da Qualidade mantém-se em funções na Divisão de Qualidade e Certificação, o chefe de divisão de Gestão de Recursos Humanos mantém-se em funções na Divisão de Gestão de Formação e Recursos Humanos, o chefe de divisão de Coordenação Financeira de Projectos mantém-se em funções na Divisão Financeira de Projectos, o chefe de divisão de Análise Financeira mantém-se em funções na Divisão de Análise de Projectos, o chefe de divisão de Inserção na Vida Activa mantém-se em funções na Divisão de Coordenação da Actividade Formativa e o chefe de divisão de Coordenação da Actividade Formativa mantém-se em funções na Divisão de Inserção na Vida Activa, nos termos da alínea c) do n.º 1 do artigo 25.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, com a redacção dada pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de Agosto, adaptado à RAM pelo [Decreto Legislativo Regional n.º 27/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2006-537430), de 14 de Julho.
+
+5 - Mantêm-se em funções o chefe de departamento de Pagamentos para o Fundo Social Europeu como chefe do Departamento Administrativo e de Pagamentos do Fundo Social Europeu e o chefe de departamento de Documentação do Fundo Social Europeu como chefe de departamento de Relações Públicas.
+
+6 - Mantém-se em funções o chefe de secção de Processamento e Tesouraria como chefe de secção de Apoio Administrativo.
+
+###### Artigo 12.º — Primeiro provimento
+
+O primeiro provimento em lugares dos quadros de pessoal da DRQP far-se-á através de lista nominativa, aprovada pelo Secretário Regional de Educação e Cultura, com dispensa de quaisquer outras formalidades legais sempre que se tratar de pessoal com vínculo à Administração Pública e o provimento se processar em categoria igual ou equivalente à que detinha no respectivo quadro de origem.
+
+###### Artigo 13.º — Concursos e estágios pendentes
+
+1 - Os concursos pendentes à data da entrada em vigor do presente diploma mantêm-se abertos, sendo os lugares a prover os correspondentes ao mapa em anexo à portaria que vier a aprovar a estrutura nuclear dos serviços.
+
+2 - Os actuais estagiários prosseguem os respectivos estágios, transitando, findos os mesmos e se neles obtiverem aproveitamento, para as categorias objecto dos respectivos concursos.
+
+###### Artigo 14.º — Norma revogatória
+
+Com a entrada em vigor do presente diploma, considera-se revogado o [Decreto Regulamentar Regional n.º 13/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2005-548418), de 19 de Abril.
+
+## ANEXO II — (mapa a que se refere o artigo 8.º do anexo i)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/08000/0239602398.pdf)

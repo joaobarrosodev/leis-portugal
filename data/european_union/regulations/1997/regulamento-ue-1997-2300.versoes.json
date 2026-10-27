@@ -1,0 +1,139 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997R2300:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997R2300-20040501",
+ "dre_path": null,
+ "source_lastmod": "2004-05-01",
+ "versions": [
+  {
+   "date": "1997-11-21",
+   "future": false,
+   "celex": "31997R2300",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "34b67c27673cc9c1",
+    "817e1d5b4ebba035",
+    "20552e1666f197a2",
+    "75fc8b6e504c4c5f",
+    "4dc8c74f66b474c0",
+    "9b3019a65b454305",
+    "e86cde27dcd1d46f",
+    "38a8c0d03d8a4224",
+    "f1dcd38a5979a2f4",
+    "cb2f9bd306e68567"
+   ]
+  },
+  {
+   "date": "2004-05-01",
+   "future": false,
+   "celex": "01997R2300-20040501",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime ANEXO I — >POSIÇÃO NUMA TABELA>",
+    "Suprime ANEXO II — >INÍCIO DE GRÁFICO>"
+   ],
+   "fragments": [
+    "6af90247c6e6a37f"
+   ]
+  }
+ ],
+ "fragments": {
+  "34b67c27673cc9c1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 2300/97 da Comissão de 20 de Novembro de 1997 que estabelece normas de execução do Regulamento (CE) nº 1221/97 do Conselho que estabelece as regras gerais de execução para as acções de melhoria da produção e comercialização de mel** *Jornal Oficial nº L 319 de 21/11/1997 p. 0004 - 0007*\n\nREGULAMENTO (CE) Nº 2300/97 DA COMISSÃO de 20 de Novembro de 1997 que estabelece normas de execução do Regulamento (CE) nº 1221/97 do Conselho que estabelece as regras gerais de execução para as acções de melhoria da produção e comercialização de mel\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) nº 1221/97 do Conselho, de 25 de Junho de 1997, que estabelece as regras gerais de execução para as acções de melhoria da produção e comercialização de mel (1), e, nomeadamente, o seu artigo 5º,\n\nConsiderando que o Regulamento (CE) nº 1221/97 estabelece acções para melhorar as condições de produção e de comercialização do mel e prevê, no seu artigo 1º., a possibilidade de os Estados-membros estabelecerem programas nacionais; que é necessário determinar os elementos essenciais que devem constar desses programas, bem como o prazo para a sua transmissão à Comissão;\n\nConsiderando que é necessário limitar a participação comunitária no financiamento dos programas nacionais tendo em conta a distribuição do efectivo apícola comunitário;\n\nConsiderando que os Estados-membros devem proceder ao controlo da aplicação do presente regulamento; que as medidas de controlo devem ser comunicados à Comissão;\n\nConsiderando que, mesmo se as acções inscritas nos programas operacionais nacionais relativos aos objectivos nºs 1, 5 b e 6 são excluídas do financiamento previsto no presente regulamento, a lista destas acções deve igualmente ser comunicada à Comissão;\n\nConsiderando que, a fim de realizar de forma harmoniosa o estudo referido no artigo 2º do Regulamento (CE) nº 1221/97, é conveniente estabelecer critérios comuns para a sua realização;\n\nConsiderando que é conveniente adoptar regras para a fixação das taxas de conversão agrícola a aplicar ao financiamento dos programas nacionais;\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão da Carne de Aves de Capoeira e dos Ovos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "817e1d5b4ebba035": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nOs programas nacionais anuais referidos no artigo 1º do Regulamento (CE) nº 1221/97 (seguidamente designado «os programas») conterão, nomeadamente:\n\na) Uma descrição da situação do sector; essa descrição deve permitir actualizar regularmente os dados estruturais constantes do estudo referido no artigo 2º do Regulamento (CE) nº 1221/97;\n\nb) Os objectivos do programa,\n\nc) Uma descrição precisa das acções, se for caso disso, com os respectivos custos unitários;\n\nd) Uma estimativa dos custos e um plano de financiamento aos níveis nacional e regional;\n\ne) A referencia às disposições legislativas, regulamentares ou administrativas aplicáveis;\n\nf) A lista das organizações representativas e das cooperativas do sector apícola que colaboram com a autoridade competente do Estado-membro na elaboração dos programas;\n\ng) As respectivas regras de acompanhamento e avaliação."
+  },
+  "20552e1666f197a2": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nOs Estados-membros comunicarão à Comissão os programas anualmente, antes de 30 de Setembro. Todavia, para o primeiro ano, este prazo é prorrogado até 15 de Dezembro de 1997."
+  },
+  "75fc8b6e504c4c5f": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nA participação da Comunidade no financiamento dos programas a que se refere o artigo 3º do Regulamento (CE) nº 1221/97 fica limitada, para cada Estado-membro, ao montante correspondente à parte do Estado-membro em causa no efectivo apícola comunitário, constante do anexo I do presente regulamento.\n\nContudo, se um ou vários Estados-membros não comunicarem qualquer programa nacional nos prazos referidos no artigo 2º ou não utilizarem integralmente o montante referido no primeiro parágrafo, as partes dos demais Estados-membros podem ser aumentadas proporcionalmente à sua própria parte."
+  },
+  "4dc8c74f66b474c0": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Os Estados-membros transmitirão à Comissão, em simultâneo com os programas, um processo relativo aos controlos correspondentes. Estes controlos destinam-se a verificar o respeito das condições de concessão das ajudas instauradas ao abrigo dos programas apresentados. Os controlos devem ser efectuados a nível administrativo e no local.\n\n2. Os Estados-membros comunicarão à Comissão, antes da data prevista no artigo 2º, a lista das acções inscritas nos programas operacionais nacionais no ambito dos objectivos nºs 1 5 b e 6."
+  },
+  "9b3019a65b454305": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nA taxa de conversão agrícola a aplicar ao montante máximo referido no artigo 3º é a taxa em vigor no dia 1 de Setembro do ano de lançamento do programa."
+  },
+  "e86cde27dcd1d46f": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nO estudo referido no artigo 2º do Regulamento (CE) nº 1221/97 incidirá sobre as partes enunciadas no anexo II do presente regulamento."
+  },
+  "38a8c0d03d8a4224": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 20 de Novembro de 1997.\n\nPela Comissão\n\nFranz FISCHLER\n\nMembro da Comissão\n\n(1) JO L 173 de 1. 7. 1997, p. 1."
+  },
+  "f1dcd38a5979a2f4": {
+   "fragment_id": "ANEXO I — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO I — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — >POSIÇÃO NUMA TABELA>"
+  },
+  "cb2f9bd306e68567": {
+   "fragment_id": "ANEXO II — >INÍCIO DE GRÁFICO>",
+   "type": "divisao",
+   "heading": "ANEXO II — >INÍCIO DE GRÁFICO>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — >INÍCIO DE GRÁFICO>\n\nESTUDO SOBRE A ESTRUTURA DO SECTOR DO MEL\n\n1. Recenseamento\n\nColmeias profissionais:\n\nTotal de colmeias:\n\nApicultores profissionais (a):\n\nTotal de apicultores:\n\n2. Estruturas de comercialização\n\nProdução (b):Venda directa ao consumidor\n\nVenda directa ao retalhista\n\nVendas aos centros de acondicionamento/comércio\n\nVendas à indústria\n\nImportação:Vendas ao comércio/centros de acondicionamento/indústria\n\nExportação:3. Preços\n\n4. Custos de produção - acondicionamento\n\nCustos fixos:\n\nCustos variáveis:\n\n- Discriminação, se disponível, nomeadamente no que se refere a:\n\n- despesas decorrentes da luta contra a varroose\n\n- alimentação hibernal\n\n- embalagens (recipientes)\n\n- transumância\n\n5. Qualidade do mel\n\nEspecificidade:Regulamento (CEE) nº 2082/92 do Conselho (1)\n\nDenominação de origem protegida:Regulamento (CEE) nº 2081/92 do Conselho (2)\n\nIndicação geográfica protegida:Regulamento (CEE) nº 2081/92 do Conselho\n\nNotas:\n\n(a) Entende-se por apicultor profissional um apicultor com mais de 150 colmeias.\n\n(b) Indicar, se for caso disso, o tipo de mel e a dimensão da exploração.\n\n(1) JO L 208 de 24. 7. 1992, p. 9.\n\n(2) JO L 208 de 24. 7. 1992, p. 1.\n\n>FIM DE GRÁFICO>"
+  },
+  "6af90247c6e6a37f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1997R2300 — PT — 01.05.2004 — 007.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31997R2300) [REGULAMENTO (CE) Nº 2300/97 DA COMISSÃO](http://publications.europa.eu/resource/celex/31997R2300) [de 20 de Novembro de 1997](http://publications.europa.eu/resource/celex/31997R2300) [que estabelece normas de execução do Regulamento (CE) nº 1221/97 do Conselho que estabelece as regras gerais de execução para as acções de melhoria da produção e comercialização de mel](http://publications.europa.eu/resource/celex/31997R2300) (JO L 319, 21.11.1997, p.4)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 917/2004 da Comissão de 29 de Abril de 2004](http://publications.europa.eu/resource/celex/32004R0917) — L 163 — 83 — 30.4.2004"
+  }
+ }
+}

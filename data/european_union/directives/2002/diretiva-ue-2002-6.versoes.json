@@ -1,0 +1,179 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002L0006:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0006-20120519",
+ "dre_path": null,
+ "source_lastmod": "2012-05-19",
+ "versions": [
+  {
+   "date": "2002-03-09",
+   "future": false,
+   "celex": "32002L0006",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1c3f4451a67b876e",
+    "15fdc2eb492ee685",
+    "bc24f3e06a9c89be",
+    "bc919bccc510921f",
+    "060510ebf71ebaf1",
+    "ef63b94d02d69954",
+    "d949b33bdfb92488",
+    "df7585fc7ff26564",
+    "5b8bee66f2566b93",
+    "4780e7ed551d2a56",
+    "b00a2b87e1542b78",
+    "7dcc704825f1dfff",
+    "a7c58175df8ceaa0",
+    "a953c054aa2e48da"
+   ]
+  },
+  {
+   "date": "2012-05-19",
+   "future": false,
+   "celex": "02002L0006-20120519",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objectivo",
+    "Suprime Artigo 2.º — Âmbito de aplicação",
+    "Suprime Artigo 3.º — Definições",
+    "Suprime Artigo 4.º — Aceitação dos formulários",
+    "Suprime Artigo 5.º — Processo de alteração",
+    "Suprime Artigo 6.º — Comité",
+    "Suprime Artigo 7.º — Execução",
+    "Suprime Artigo 8.º — Entrada em vigor",
+    "Suprime Artigo 9.º — Destinatários",
+    "Suprime ANEXO I — PARTE A",
+    "Suprime PARTE B — Signatários",
+    "Suprime PARTE C — Especificações técnicas",
+    "Suprime ANEXO II — Modelos dos formulários FAL OMI referidos no artigo 4.o e no anexo I"
+   ],
+   "fragments": [
+    "eff8c4548a67b012"
+   ]
+  }
+ ],
+ "fragments": {
+  "1c3f4451a67b876e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2002/6/CE do Parlamento Europeu e do Conselho, de 18 de Fevereiro de 2002, relativa às formalidades de declaração exigidas dos navios à chegada e/ou à partida de portos dos Estados-Membros da Comunidade (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 067 de 09/03/2002 p. 0031 - 0045*\n\nDirectiva 2002/6/CE do Parlamento Europeu e do Conselho\n\nde 18 de Fevereiro de 2002\n\nrelativa às formalidades de declaração exigidas dos navios à chegada e/ou à partida de portos dos Estados-Membros da Comunidade\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.o 2 do seu artigo 80.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Comité Económico e Social(2),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.o do Tratado(3),\n\nConsiderando o seguinte:\n\n(1) É política da Comunidade favorecer o transporte sustentável, como o transporte marítimo, e, em particular, promover o transporte marítimo de curta distância.\n\n(2) A facilitação do transporte marítimo é um objectivo essencial da Comunidade para reforçar a posição do transporte marítimo no sistema de transportes como alternativa e complemento de outros modos de transportes numa cadeia porta-a-porta.\n\n(3) Os procedimentos documentais exigidos no sector do transporte marítimo têm suscitado preocupação e são considerados um obstáculo ao pleno desenvolvimento deste modo de transporte.\n\n(4) A Convenção sobre Facilitação do Tráfego Marítimo Internacional da Organização Marítima Internacional, subsequentemente alterada (a seguir designada \"Convenção FAL OMI\"), adoptada pela Conferência Internacional sobre a Facilitação das Viagens e Transportes Marítimos em 9 de Abril de 1965, estabeleceu um conjunto de modelos de formulários de facilitação normalizados para certas formalidades de declaração exigidas dos navios à chegada ou à partida de um porto.\n\n(5) A maioria dos Estados-Membros utiliza esses formulários de facilitação mas não aplica os modelos estabelecidos sob os auspícios da OMI de modo uniforme.\n\n(6) A uniformidade dos modelos dos formulários exigidos aos navios à chegada ou à partida de um porto facilitará os procedimentos documentais nas escalas e favorecerá o desenvolvimento do sector do transporte marítimo comunitário.\n\n(7) É oportuno, consequentemente, prever o reconhecimento a nível comunitário desses formulários de facilitação da OMI (a seguir designados \"formulários FAL OMI\"). Os Estados-Membros devem considerar normalizados os formulários FAL OMI e os elementos de informação que contêm prova suficiente de que os navios cumpriram as formalidades de declaração a que se destinam tais formulários.\n\n(8) Contudo, o reconhecimento de determinados formulários FAL OMI, nomeadamente a Declaração de Carga e, para os navios de passageiros, a Lista de Passageiros, agravaria a complexidade das formalidades de declaração, quer porque não podem conter todas as informações necessárias quer por já existirem práticas de facilitação instituídas. Não se deve, por conseguinte, prever o reconhecimento obrigatório dos referidos formulários.\n\n(9) O transporte marítimo é uma actividade global e a introdução dos formulários FAL OMI poderá abrir caminho à sua utilização generalizada em todo o mundo.\n\n(10) Atendendo a que os objectivos da acção encarada, nomeadamente a facilitação do transporte marítimo, não podem ser suficientemente realizados pelos Estados-Membros e podem, pois, devido à dimensão ou aos efeitos da acção prevista, ser melhor alcançados a nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.o do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aqueles objectivos.\n\n(11) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(4),\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "15fdc2eb492ee685": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\nO objectivo da presente directiva é o de facilitar o transporte marítimo, normalizando as formalidades de declaração."
+  },
+  "bc24f3e06a9c89be": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nA presente directiva aplica-se às formalidades de declaração à chegada e/ou à partida de portos dos Estados-Membros da Comunidade, tal como enumeradas no anexo I, parte A, relativas ao navio, às provisões de bordo, aos bens pessoais da tripulação e à tripulação e, no que se refere aos navios certificados para o transporte de 12 ou menos passageiros, aos passageiros embarcados."
+  },
+  "bc919bccc510921f": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) \"Convenção FAL OMI\", a Convenção sobre Facilitação do Tráfego Marítimo Internacional da Organização Marítima Internacional, adoptada pela Conferência Internacional sobre a Facilitação das Viagens e Transportes Marítimos em 9 de Abril de 1965;\n\nb) \"Formulários FAL OMI\", os formulários de facilitação normalizados da OMI de formato A4, estabelecidos no âmbito da Convenção FAL OMI;\n\nc) \"Formalidade declaratória\", a informação que, sempre que um Estado-Membro a exija, deva ser fornecida para fins administrativos e processuais à chegada ou à partida de um navio de um porto;\n\nd) \"Navio\", um navio de mar de qualquer tipo que opere no meio marinho;\n\ne) \"Provisões de bordo\", as mercadorias para utilização no navio, incluindo bens de consumo, artigos para venda aos passageiros e tripulantes, combustível e lubrificantes, com exclusão do equipamento e dos sobresselentes do navio;\n\nf) \"Equipamento do navio\", os artigos, à excepção dos sobresselentes, embarcados no navio para seu uso, que são removíveis mas não consumíveis, incluindo acessórios como as embarcações salva-vidas, os dispositivos de salvação, o mobiliário, os aprestos do navio e artigos similares;\n\ng) \"Sobresselentes do navio\", os artigos para reparações ou substituições a efectuar no navio em que são transportados;\n\nh) \"Bens da tripulação\", o vestuário, os artigos de uso diário e outros artigos, incluindo moeda, pertencentes à tripulação e transportados no navio;\n\ni) \"Tripulante\", qualquer pessoa efectivamente empregada a bordo durante uma viagem para executar tarefas relacionadas com a operação e o serviço do navio e incluída na lista da tripulação."
+  },
+  "060510ebf71ebaf1": {
+   "fragment_id": "Artigo 4.º — Aceitação dos formulários",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Aceitação dos formulários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Aceitação dos formulários\n\nOs Estados-Membros devem considerar suficientes, para efeitos das formalidades de declaração referidas no artigo 2.o, as informações comunicadas em conformidade com:\n\na) As especificações respectivas, indicadas no anexo I, partes B e C, e\n\nb) Os formulários-modelo correspondentes reproduzidos no anexo II, com as suas categorias de dados."
+  },
+  "ef63b94d02d69954": {
+   "fragment_id": "Artigo 5.º — Processo de alteração",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Processo de alteração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Processo de alteração\n\nAs alterações aos anexos I e II da presente directiva e às referências a instrumentos da OMI, com o objectivo de os adaptar às medidas da Comunidade ou da OMI que tenham entrado em vigor, serão aprovadas pelo procedimento de regulamentação a que se refere o n.o 2 do artigo 6.o, desde que dessas alterações não resulte o alargamento do âmbito de aplicação da presente directiva."
+  },
+  "d949b33bdfb92488": {
+   "fragment_id": "Artigo 6.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Comité\n\n1. A Comissão é assistida pelo Comité criado em conformidade com o n.o 1 do artigo 12.o da Directiva 93/75/CEE do Conselho(5).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.o e 7.o da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.o\n\nO período previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de três meses.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "df7585fc7ff26564": {
+   "fragment_id": "Artigo 7.º — Execução",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Execução\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 9 de Setembro de 2003, e informar imediatamente a Comissão desse facto.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem conter uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "5b8bee66f2566b93": {
+   "fragment_id": "Artigo 8.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente directiva entra em vigor no dia da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "4780e7ed551d2a56": {
+   "fragment_id": "Artigo 9.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 18 de Fevereiro de 2002.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nP. Cox\n\nPelo Conselho\n\nO Presidente\n\nJ. Piqué i Camps\n\n(1) JO C 180 E de 26.6.2001, p. 85.\n\n(2) JO C 221 de 7.8.2001, p. 149.\n\n(3) Parecer do Parlamento Europeu de 25 de Outubro de 2001 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 7 de Dezembro de 2001.\n\n(4) JO L 184 de 17.7.1999, p. 23.\n\n(5) JO L 247 de 5.10.1993, p. 19. Directiva com a última redacção que lhe foi dada pela Directiva 98/74/CE da Comissão (JO L 276 de 13.10.1998, p. 7)."
+  },
+  "b00a2b87e1542b78": {
+   "fragment_id": "ANEXO I — PARTE A",
+   "type": "divisao",
+   "heading": "ANEXO I — PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — PARTE A\n\nLista das formalidades de declaração referidas no artigo 2.o, exigidas dos navios à chegada e/ou à partida de portos dos Estados-Membros da Comunidade\n\n1. Formulário FAL OMI n.o 1, Declaração Geral\n\nA Declaração geral constituirá o documento de base, à chegada e à partida, em que figurarão as informações relativas ao navio exigidas pelas autoridades do Estado-Membro.\n\n2. Formulário FAL OMI n.o 3, Declaração das Provisões de Bordo\n\nA Declaração das Provisões de Bordo constituirá o documento de base, à chegada e à partida, em que figurarão as informações relativas às provisões de bordo exigidas pelas autoridades do Estado-Membro.\n\n3. Formulário FAL OMI n.o 4, Declaração dos Bens da Tripulação\n\nA Declaração dos Bens da Tripulação constituirá o documento de base em que figurarão as informações relativas aos bens da tripulação exigidas pelas autoridades do Estado-Membro. Esta declaração não será exigida à partida.\n\n4. Formulário FAL OMI n.o 5, Lista da Tripulação\n\nA Lista da Tripulação constituirá o documento de base em que serão fornecidas às autoridades do Estado-Membro as informações relativas ao número de tripulantes e à composição da tripulação à chegada e à partida de um navio. Quando as autoridades exijam informações relativas à tripulação de um navio à partida deste, deve ser aceite cópia da lista da tripulação apresentada à chegada, desde que assinada de novo e autenticada com a indicação das alterações no número de tripulantes ou na composição da tripulação ou a indicação de não ter havido alterações.\n\n5. Formulário FAL OMI n.o 6, Lista de Passageiros\n\nRelativamente aos navios certificados para o transporte de 12 ou menos passageiros, a Lista de Passageiros constituirá o documento de base em que serão fornecidas às autoridades do Estado-Membro as informações relativas aos passageiros à chegada e à partida de um navio."
+  },
+  "7dcc704825f1dfff": {
+   "fragment_id": "PARTE B — Signatários",
+   "type": "divisao",
+   "heading": "PARTE B — Signatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE B — Signatários\n\n1. Formulário FAL OMI n.o 1, Declaração Geral\n\nAs autoridades do Estado-Membro aceitarão a Declaração Geral datada e assinada pelo comandante, o agente do navio ou outra pessoa devidamente autorizada pelo comandante, ou autenticada de forma aceitável pela autoridade competente.\n\n2. Formulário FAL OMI n.o 3, Declaração das Provisões de Bordo\n\nAs autoridades do Estado-Membro aceitarão a Declaração das Provisões de Bordo datada e assinada pelo comandante ou por outro oficial do navio devidamente autorizado pelo comandante e que tenha um conhecimento pessoal destas provisões, ou autenticada de forma aceitável pela autoridade competente.\n\n3. Formulário FAL OMI n.o 4, Declaração dos Bens da Tripulação\n\nAs autoridades do Estado-Membro aceitarão a Declaração dos Bens da Tripulação datada e assinada pelo comandante ou por outro oficial do navio devidamente autorizado pelo comandante, ou autenticada de forma aceitável pela autoridade competente. As autoridades do Estado-Membro poderão igualmente exigir que cada tripulante assine, ou, caso não saiba fazê-lo, aponha uma marca de identificação, na declaração relativa aos seus próprios bens.\n\n4. Formulário FAL OMI n.o 5, Lista da Tripulação\n\nAs autoridades do Estado-Membro aceitarão a Lista da Tripulação datada e assinada pelo comandante ou por outro oficial do navio devidamente autorizado pelo comandante, ou autenticada de forma aceitável pela autoridade competente.\n\n5. Formulário FAL OMI n.o 6, Lista de Passageiros\n\nRelativamente aos navios certificados para o transporte de 12 ou menos passageiros, as autoridades do Estado-Membro aceitarão a Lista de Passageiros datada e assinada pelo comandante, o agente do navio ou outra pessoa devidamente autorizada pelo comandante, ou autenticada de forma aceitável pela autoridade competente."
+  },
+  "a7c58175df8ceaa0": {
+   "fragment_id": "PARTE C — Especificações técnicas",
+   "type": "divisao",
+   "heading": "PARTE C — Especificações técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE C — Especificações técnicas\n\n1. O formato dos formulários FAL OMI deve respeitar, tanto quanto tecnicamente possível, as dimensões dos modelos que figuram no anexo II. Os formulários serão impressos em folhas separadas de papel A4 (210 × 297 mm) e em formato vertical. Um terço, pelo menos, do verso dos formulários será reservado às autoridades dos Estados-Membros para utilização oficial.\n\nPara efeitos do reconhecimento dos formulários FAL OMI, o formato e a apresentação dos formulários de facilitação normalizados recomendados e reproduzidos pela OMI com base na Convenção FAL OMI, tal como em vigor em 1 de Maio de 1997, serão considerados equivalentes aos modelos reproduzidos no anexo II.\n\n2. As autoridades dos Estados-Membros aceitarão as informações fornecidas em qualquer suporte legível e compreensível, incluindo formulários preenchidos a tinta ou lápis indelével ou produzidos por técnicas de processamento automático de dados.\n\n3. Sem prejuízo dos métodos de transmissão de dados por meios electrónicos, quando um Estado-Membro aceitar o fornecimento das informações relativas a um navio por meios electrónicos, aceitará a transmissão dessas informações quando produzidas por técnicas electrónicas de processamento ou intercâmbio de dados conformes com as normas internacionais, desde que sejam legíveis e compreensíveis e contenham as informações exigidas.\n\nOs Estados-Membros podem subsequentemente tratar os dados adquiridos em qualquer formato que considerem adequado."
+  },
+  "a953c054aa2e48da": {
+   "fragment_id": "ANEXO II — Modelos dos formulários FAL OMI referidos no artigo 4.o e no anexo I",
+   "type": "divisao",
+   "heading": "ANEXO II — Modelos dos formulários FAL OMI referidos no artigo 4.o e no anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Modelos dos formulários FAL OMI referidos no artigo 4.o e no anexo I\n\n>PIC FILE= \"L_2002067PT.003701.TIF\">\n\n>PIC FILE= \"L_2002067PT.003901.TIF\">\n\n>PIC FILE= \"L_2002067PT.004101.TIF\">\n\n>PIC FILE= \"L_2002067PT.004301.TIF\">\n\n>PIC FILE= \"L_2002067PT.004501.TIF\">"
+  },
+  "eff8c4548a67b012": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2002L0006 — PT — 19.05.2012 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32002L0006) [DIRECTIVA 2002/6/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32002L0006) [de 18 de Fevereiro de 2002](http://publications.europa.eu/resource/celex/32002L0006) [relativa às formalidades de declaração exigidas dos navios à chegada e/ou à partida de portos dos Estados-Membros da Comunidade](http://publications.europa.eu/resource/celex/32002L0006) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32002L0006) (JO L 067, 9.3.2002, p.31)\n\n**revogado por:**\n\n- [Directiva 2010/65/UE do Parlamento Europeu e do Conselho de 20 de Outubro de 2010](http://publications.europa.eu/resource/celex/32010L0065) — L 283 — 1 — 29.10.2010"
+  }
+ }
+}

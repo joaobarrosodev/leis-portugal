@@ -1,0 +1,143 @@
+---
+schema_version: '1.0'
+id: pt:dre:898378510:por
+title: Resolução do Conselho de Ministros n.º 171/2024
+short_title: null
+summary: Autoriza a reprogramação de despesa relativa à aquisição, pela Autoridade Tributária e Aduaneira, de serviços de
+  desenvolvimento aplicacional dos sistemas de informação.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 171/2024
+official_date: null
+publication_date: '2024-11-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 232/2024, Série I de 2024-11-29
+  number: '232'
+  series: I
+  supplement: null
+  pages: 34 - 34
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/11/23200/0003400034.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/171/2024/11/29/p/dre/pt/html
+  oj: null
+  dre: '898378510'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/171-2024-898378510
+  internal: pt:dre:898378510:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/171-2024-898378510
+  metadata_url: https://data.dre.pt/eli/resolconsmin/171/2024/11/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/171-2024-898378510
+  consolidated_url: null
+  retrieved_at: '2026-10-23T13:31:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2481c6b8ae43474d368595169d99ac045c5c647b734362ce615008d8893ef245
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:31:27Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Bens e Serviços
+- Autoridade Tributária e Aduaneira
+- Autorização de Despesas
+- Despesas Públicas
+- Sistema de Informação
+relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:111/2022
+  label: Altera, a partir de 30 de novembro de 2024, os n.ºs 1 e 2 da Resolução do Conselho de Ministros n.º 111/2022, de
+    23 de novembro, Diário da República n.º 226/2022, Série I
+  source: null
+  date: '2022-11-23'
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
+- type: cites
+  target: pt:dre:203802285:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/111/2022/11/23/p/dre
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T13:31:27Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 171/2024
+
+Através da [Resolução do Conselho de Ministros n.º 111/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/111-2022-203802285), de 23 de novembro, a Autoridade Tributária e Aduaneira (AT) foi autorizada a realizar despesa, no montante máximo de € 134 312 500,00 ao qual acresce o imposto sobre o valor acrescentado (IVA), à taxa legal em vigor, com vista à celebração de um acordo quadro para a aquisição de serviços de desenvolvimento aplicacional dos sistemas de informação da AT (AQSDASI), para o período inicial de vigência de dois anos, que podia ser prorrogado automaticamente por períodos sucessivos de um ano, até ao limite total de quatro anos, com início em 2023.
+
+Contudo, torna-se agora necessário proceder à reprogramação dos encargos anteriormente autorizados pela referida resolução, de forma a adaptá-los à real execução do respetivo acordo quadro, uma vez que prevê encargos financeiros nos anos económicos de 2023 a 2026 e o acordo quadro apenas foi outorgado em 7 de março de 2024, com um prazo de execução de duração de dois anos, a contar da data do visto ou da declaração de conformidade do Tribunal de Contas, considerando-se automaticamente renovado por períodos de um ano se nenhuma das partes o denunciar, correspondendo ao prazo máximo de vigência de quatro anos incluindo renovações.
+
+Assim:
+
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Alterar os n.os1 e 2 da [Resolução do Conselho de Ministros n.º 111/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/111-2022-203802285), de 23 de novembro, que passam a ter a seguinte redação:
+
+«1 - Autorizar a Autoridade Tributária e Aduaneira (AT) a realizar despesa, no montante máximo de € 134 312 500,00 ao qual acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor, com vista à celebração de um acordo quadro para a aquisição de serviços de desenvolvimento aplicacional dos sistemas de informação da AT (AQSDASI), para o período inicial de vigência de dois anos, que pode ser prorrogado automaticamente por períodos sucessivos de um ano, até ao limite total de quatro anos, com início em 2024.
+
+2 - [...]
+
+Em 2024: € 33 578 125,00;
+
+Em 2025: € 33 578 125,00;
+
+Em 2026: € 33 578 125,00; e
+
+Em 2027: € 33 578 125,00.»
+
+2 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros, 14 de novembro de 2024. - O Primeiro-Ministro, Luís Montenegro.
+
+118393305

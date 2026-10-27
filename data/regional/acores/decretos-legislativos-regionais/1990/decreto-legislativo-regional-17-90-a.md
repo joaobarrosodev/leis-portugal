@@ -1,0 +1,283 @@
+---
+schema_version: '1.0'
+id: pt:dre:566032:por
+title: Decreto Legislativo Regional n.º 17/90/A
+short_title: null
+summary: Introduz alterações em vários artigos do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos
+  Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de Abril
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 17/90/A
+official_date: null
+publication_date: '1990-11-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 256/1990, Série I de 1990-11-06
+  number: '256'
+  series: I
+  supplement: null
+  pages: 4559 - 4561
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/11/25600/45594561.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '566032'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/17-1990-566032
+  internal: pt:dre:566032:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1990-566032
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1990-566032
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:18:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5f2a71e5b42debc899e87fcefd264b6c7f7082ea9aee3a3b59cac263ea4084c8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:00Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Educador de Infância
+- Ensino Básico
+- Pessoal Docente
+relationships:
+- type: amended_by
+  target: pt:dre:223192:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:223192:por
+  label: "Revogado pelo DLR.16/98/A.1998.10.23.ALR-RAA, DR.IS-A [257] de 06/Nov/1998 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/16-1998-223192
+  date: '1998-10-23'
+article_structure:
+  article_count: 17
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:18:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 17/90/A
+
+Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário
+
+O [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de Abril, que aprovou o Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, tem aplicação imediata na Região Autónoma dos Açores.
+
+Todavia, de acordo com o estabelecido no artigo 5.º do decreto-lei citado, essa aplicação não prejudica as competências dos respectivos órgãos de governo próprio.
+
+Em consequência, e tendo presentes as especificidades próprias desta Região, sobretudo no que aos quadros diz respeito, importa introduzir, em consonância, algumas alterações.
+
+Assim:
+
+A Assembleia Legislativa Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição e da alínea i) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região Autónoma, o seguinte:
+
+Artigo 1.º Na aplicação do [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de Abril, à Região Autónoma dos Açores ter-se-á em conta o disposto no artigo seguinte.
+
+Art. 2.º Os artigos 1.º, 19.º, 23.º, 24.º, 39.º, 44.º, 48.º, 60.º, 63.º, 67.º, 83.º, 97.º, 98.º, 100.º, 113.º, 115.º e 116.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de Abril, entendem-se com a seguinte redacção:
+
+###### Artigo 1.º — Âmbito de aplicação
+
+1 - ...
+
+2 - ...
+
+3 - O presente Estatuto será aplicado, com as necessárias adaptações, aos docentes em exercício efectivo de funções em estabelecimentos ou instituições de ensino dependentes ou sob tutela de outras secretarias regionais.
+
+4 - ...
+
+###### Artigo 19.º — Natureza do concurso
+
+1 - ...
+
+a) ...
+
+b) ...
+
+2 - Os concursos referidos no número anterior realizam-se na Região Autónoma dos Açores para a educação pré-escolar e todos os níveis de ensino, efectuando-se ainda para os 2.º e 3.º ciclos do ensino básico e para o ensino secundário, de acordo com os respectivos regimes e grupos de docência.
+
+3 - ...
+
+###### Artigo 23.º — Verificação dos requisitos físicos e psíquicos
+
+1 - A verificação dos requisitos físicos e psíquicos necessários ao exercício da função docente e da inexistência de toxicodependências de qualquer natureza é realizada por médicos credenciados para o efeito, em termos a regulamentar por despacho conjunto dos Secretários Regionais da Educação e Cultura e da Saúde e Segurança Social.
+
+2 - ...
+
+3 - A decisão proferida ao abrigo do disposto no número anterior é susceptível de recurso, sem efeito suspensivo, para as juntas médicas da Secretaria Regional da Educação e Cultura, a criar por despacho conjunto das Secretarias Regionais da Educação e Cultura e da Saúde e Segurança Social, no prazo de 10 dias úteis, suportando o recorrente os correspondentes encargos nos termos gerais de direito.
+
+###### Artigo 24.º — Regulamentação
+
+A regulamentação dos concursos previstos no presente Estatuto será objecto de decreto regulamentar regional, mediante a participação das organizações sindicias de pessoal docente.
+
+###### Artigo 39.º — Avaliação do desempenho
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - Incumbe à Direcção Regional de Orientação Pedagógica o acompanhamento global do processo de avaliação do desempenho do pessoal docente.
+
+6 - ...
+
+7 - ...
+
+###### Artigo 44.º — Júri de avaliação
+
+A atribuição da menção qualitativa de Não satisfaz compete a um júri de avaliação de âmbito regional, composto por um representante da Direcção Regional de Administração Escolar, que preside, um representante da Direcção Regional de Orientação Pedagógica e um representante do órgão pedagógico do estabelecimento de educação ou de ensino do docente.
+
+###### Artigo 48.º — Mérito excepcional
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - A decisão de atribuição da menção qualitativa de Excelente compete ao Secretário Regional da Educação e Cultura, sob proposta fundamentada de um júri ad hoc por si nomeado que integre os directores regionais de Administração Escolar, de Orientação Pedagógica e de Educação Física e Desportos.
+
+5 - ...
+
+###### Artigo 60.º — Remuneração de outras funções educativas
+
+O exercício efectivo de outras funções educativas para as quais o docente se encontre certificado, de acordo com o disposto no artigo 56.º do presente Estatuto, determina o abono de remuneração superior à que pelo docente é auferida no escalão da carreira onde se encontra, nos termos a definir em decreto regulamentar regional.
+
+###### Artigo 63.º — Subsídios de fixação
+
+1 - Por decreto legislativo regional serão definidos os subsídios destinados a criar condições de fixação dos docentes em zonas desfavorecidas ou isoladas.
+
+2 - ...
+
+###### Artigo 67.º — Requisição
+
+1 - A requisição de docentes visa assegurar o exercício transitório de funções nos serviços centrais da Secretaria Regional da Educação e Cultura, bem como nos órgãos e instituições sob a sua tutela.
+
+2 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+3 - ...
+
+###### Artigo 83.º — Serviço docente extraordinário
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - O serviço docente extraordinário não pode exceder cinco horas por semana, salvo casos excepcionais devidamente fundamentados e autorizados pelo director regional de Administração Escolar.
+
+5 - ...
+
+###### Artigo 97.º — Rastreio das condições de saúde
+
+Para verificação das condições de saúde e de trabalho do pessoal docente realizar-se-ão acções periódicas de rastreio, da competência de médicos credenciados para o efeito, em termos a regulamentar por despacho conjunto dos Secretários Regionais da Educação e Cultura e da Saúde e Segurança Social.
+
+###### Artigo 98.º — Justificação e verificação domiciliária da doença
+
+1 - O atestado médico para efeitos de comprovação da doença, nos termos previstos na lei geral, é passado por médicos credenciados para o efeito, em termos a regulamentar por despacho conjunto dos Secretários Regionais da Educação e Cultura e da Saúde e Segurança Social, ou, na impossibilidade justificada de a eles recorrer, nos termos do regime geral.
+
+2 - ...
+
+###### Artigo 100.º — Junta médica
+
+1 - Sem prejuízo das competências reconhecidas por lei à Junta Médica da Caixa Geral de Aposentações, a referência à junta médica prevista na lei geral e no presente diploma considera-se feita para as juntas médicas da Secretaria Regional da Educação e Cultura, a criar por despacho conjunto dos Secretários Regionais da Educação e Cultura e da Saúde e Segurança Social.
+
+2 - As juntas médicas da Secretaria Regional da Educação e Cultura são as únicas entidades competentes para avaliar a verificação da situação de risco para o nascituro que, para a docente grávida, constitua fundamento para dispensa dos seus deveres funcionais no respectivo estabelecimento de educação ou de ensino.
+
+###### Artigo 113.º — Responsabilidade disciplinar
+
+1 - ...
+
+2 - Os membros do órgão de administração e gestão dos estabelecimentos de educação ou de ensino são disciplinarmente responsáveis perante o director regional de Administração Escolar.
+
+###### Artigo 115.º — Processo disciplinar
+
+1 - ...
+
+2 - Sendo o arguido membro do órgão de administração e gestão do estabelecimento de educação, ou de ensino, a competência cabe ao director regional de Administração Escolar.
+
+3 - A nomeação do instrutor do processo disciplinar incumbe à Direcção Regional de Administração Escolar.
+
+4 - A suspensão preventiva é proposta pelo órgão de administração e gestão da escola ou pelo instrutor do processo e decidida pelo director regional de Administração Escolar ou pelo Secretário Regional da Educação e Cultura, conforme o arguido seja docente ou membro do órgão de administração e gestão do estabelecimento de educação ou de ensino.
+
+5 - ...
+
+6 - ...
+
+7 - Os especialistas referidos no número anterior são indicados pelas Direcções Regionais de Administração Escolar e de Orientação Pedagógica ou de Educação Física e Desportos, caso o arguido não tenha usado a faculdade de indicar um deles.
+
+###### Artigo 116.º — Aplicação das penas
+
+1 - ...
+
+2 - A aplicação das penas de multa, suspensão e inactividade é da competência do director regional de Administração Escolar.
+
+3 - A aplicação das penas expulsivas é da competência do Secretário Regional da Educação e Cultura.
+
+Art. 3.º As competências atribuídas no Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário ao Ministério da Educação e aos Ministros da Educação, da Saúde e das Finanças são exercidas na Região Autónoma dos Açores, respectivamente, pela Secretaria Regional da Educação e Cultura e pelos Secretários Regionais da Educação e Cultura, da Saúde e Segurnaça Social, da Administração Interna e das Finanças e Planeamento.
+
+Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado pela Assembleia Legislativa Regional dos Açores em 14 de Setembro de 1990.
+
+O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.
+
+Assinado em Angra do Heroísmo em 4 de Outubro de 1990.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

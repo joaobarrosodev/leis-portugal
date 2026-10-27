@@ -1,0 +1,257 @@
+---
+schema_version: '1.0'
+id: pt:dre:66451941:por
+title: Resolução n.º 8/2015
+short_title: null
+summary: Nomeia os membros do conselho de administração do Hospital de Magalhães Lemos, E.P.E.
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Conselho de Ministros
+proposing_entity: null
+official_number: 8/2015
+official_date: null
+publication_date: '2015-02-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 28/2015, Série II de 2015-02-10
+  number: '28'
+  series: II
+  supplement: null
+  pages: 3776 - 3777
+  pdf_url: https://files.diariodarepublica.pt/2s/2015/02/028000000/0377603777.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '66451941'
+  dre_path: /dr/detalhe/resolucao/8-2015-66451941
+  internal: pt:dre:66451941:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/8-2015-66451941
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/8-2015-66451941
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:15:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1e9f6e5b0f1fd136d9a21e73d67633f882e78ce07174c3b16f325428c6b71f24
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:47Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho de Administração
+- Hospital de Magalhães de Lemos
+- Nomeação
+- Porto
+- Presidente
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:191077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57701290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602999:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:15:47Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 8/2015
+
+Nos termos do disposto nos artigos 6.º e 13.º dos Estatutos constantes do anexo II ao [Decreto-Lei n.º 233/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2005-469067), de 29 de dezembro, aplicável ao Hospital de Magalhães Lemos, E.P.E., por força da alínea a) do n.º 1 e do n.º 2 do artigo 1.º do [Decreto-Lei n.º 27/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2009-602999), de 27 de janeiro, conjugados com o artigo 21.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, alterado pela [Lei n.º 75-A/2014](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290), de 30 de setembro, e com o n.º 2 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, resulta que os membros do conselho de administração do Hospital de Magalhães Lemos, E.P.E., são nomeados por resolução do Conselho de Ministros, sob proposta dos membros do Governo responsáveis pelas áreas das finanças e da saúde, para um mandato de três anos, renovável até ao máximo de três renovações consecutivas.
+
+Atendendo a que os atuais membros do conselho de administração do Hospital de Magalhães Lemos, E.P.E., cessaram o respetivo mandato em 31 de dezembro de 2014, torna-se necessário proceder à nomeação dos membros deste órgão de administração, assegurando-se a continuidade de funções dos quatro membros deste órgão.
+
+A remuneração dos membros do conselho de administração desta entidade pública empresarial obedece ao disposto no n.º 5 da [Resolução do Conselho de Ministros n.º 18/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-2012-542993), de 21 de fevereiro, e à classificação atribuída pela [Resolução do Conselho de Ministros n.º 36/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-2012-553924), de 26 de março, alterada pelas Resoluções do Conselho de Ministros n.os [97/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/97-2012-191077), de 21 de novembro, [45/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-2013-498125), de 19 de julho, e [48/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/48-2013-498720), de 29 de julho.
+
+Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, a Comissão de Recrutamento e Seleção para a Administração Pública, que se pronunciou favoravelmente sobre as nomeações constantes da presente resolução.
+
+Assim:
+
+Nos termos dos artigos 6.º e 13.º dos Estatutos constantes do anexo II ao [Decreto-Lei n.º 233/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2005-469067), de 29 de dezembro, dos n.os 2 e 3 do artigo 13.º e da alínea c) do n.º 3 do artigo 20.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Nomear, sob proposta da Ministra de Estado e das Finanças e do Ministro da Saúde, António Alfredo de Sá Leuschner Fernandes, José Alberto Oliveira Castro Peixoto, Joaquim da Silva Ramos (diretor clínico), João Ernesto Teles Pires (enfermeiro diretor), respetivamente, para os cargos de presidente e de vogais executivos do conselho de administração do Hospital de Magalhães Lemos, E.P.E., cujas idoneidade, experiência e competências profissionais para o desempenho dos cargos são evidenciadas nas respetivas sinopses curriculares, que constam do anexo à presente resolução e da qual fazem parte integrante.
+
+2 - Autorizar os nomeados António Alfredo de Sá Leuschner Fernandes, José Alberto Oliveira Castro Peixoto, Joaquim da Silva Ramos e João Ernesto Teles Pires a optarem pelo vencimento do lugar de origem, nos termos do n.º 8 do artigo 28.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro.
+
+3 - Autorizar os nomeados António Alfredo de Sá Leuschner Fernandes e Joaquim da Silva Ramos a exercerem a atividade de docência em estabelecimentos de ensino superior público ou de interesse público.
+
+4 - Determinar que a presente resolução produz efeitos no dia seguinte ao da sua aprovação.
+
+29 de janeiro de 2015. - O Primeiro-Ministro, Pedro Passos Coelho.
+
+## ANEXO — Notas curriculares
+
+António Alfredo de Sá Leuschner Fernandes, nascido no Porto, em 6.8.1949;
+
+Licenciado em Medicina pela Faculdade de Medicina da Universidade do Porto (1974); Especialista em Psiquiatria pela Ordem dos Médicos (1982); Consultor de Psiquiatria da Carreira Médica Hospitalar (1989); M.B.A. pelo Instituto Superior de Estudos Empresariais da Universidade do Porto (atual Porto Business School (1992); Assistente Graduado Sénior do Hospital de Magalhães Lemos (1994); Competência em Gestão dos Serviços de Saúde pela Ordem dos Médicos (2003); PADIS - Programa de Alta Direção de Instituições de Saúde, Escola de Direção e Negócios (AESE, 2006);
+
+Presidente do Conselho de Administração do Hospital de Magalhães Lemos, desde 1997, a partir de 2009, como Entidade Pública Empresarial; Professor Catedrático Convidado (com a regência de Psiquiatria do Mestrado Integrado de Medicina) do Instituto de Ciências Biomédicas Abel Salazar da Universidade do Porto, desde 1998;
+
+Integração de vários Júris da Carreira Médica, de Doutoramento e de Mestrado do ICBAS e da FCM-UNL; Presidente do Conselho Nacional de Saúde Mental, desde abril de 2010;
+
+Coordenador do Simpósio Internacional 'Demência: o outro lado do espelho', promovido pela Fundação Calouste Gulbenkian (2010).
+
+Coeditor do livro 'Psicogeriatria' (Almedina, 2006) e coautor do livro 'A doença de Alzheimer e outras demências em Portugal' (Lidel, 2005);
+
+Autor ou coautor de inúmeras comunicações em congressos e reuniões e alguns artigos publicados em livros e revistas, nacionais e internacionais, nas áreas da Saúde Mental, da Geriatria e Gerontologia e da Gestão e Organização de Serviços;
+
+Participação em diversas reuniões internacionais, no âmbito da OCDE, da OMS-Europa e da União Europeia, nas áreas da Saúde Mental e da Saúde dos Mais Velhos;
+
+Participação num grande número de reuniões científicas, nacionais e internacionais, sobre os temas do seu interesse (Psiquiatria e Saúde Mental, Geriatria e Gerontologia, Gestão de Serviços de Saúde, Ensino Médico), integrando as comissões científicas de algumas delas.
+
+José Alberto Oliveira Castro Peixoto, nascido a 18 de setembro de 1952.
+
+Habilitações académicas: Pós-graduado em Administração Hospitalar pela Escola Nacional de Saúde Pública em julho de 1983 e Licenciado em Direito pela Faculdade de Direito da Universidade de Coimbra em julho de 1976; Conclusão com aproveitamento do curso Mastering in Health Care Finance, em setembro de 2008.
+
+Experiência Profissional: Vogal do Conselho de Administração do Hospital de Magalhães Lemos, E.P.E., desde setembro de 2012 até à presente data. Administrador Hospitalar do Conselho de Gestão de Departamento de Ambulatório do Centro Hospitalar do Porto, E.P.E., de novembro de 2011 a setembro de 2012. Vogal do Conselho de Administração do Porto, E.P.E., de outubro de 2007 a novembro de 2011. Presidente do Conselho de Administração do Hospital Central e Especializado de Crianças Maria Pia, do Porto, e da Maternidade de Júlio Dinis, também do porto, de março de 2007 a setembro de 2007. Presidente do Conselho de Administração do Hospital de S. João de Deus, E.P.E., de Famalicão, de dezembro de 2005 a fevereiro de 2007. Presidente do Conselho de Administração do Hospital de S. João de Deus, S.A., de Famalicão, de dezembro de 2002 a dezembro de 2005. Administrador Delegado do Conselho de Administração do Hospital Padre Américo do Vale do Sousa, de Penafiel, de abril de 2001 a dezembro de 2002. Presidente do Conselho de Administração e Administrador Delegado do Hospital de S. José, de Fafe, de agosto de 1977 a abril de 2001. Administrador Hospitalar e membro do Gabinete Técnico do Novo Hospital de Matosinhos, no Hospital Distrital de Matosinhos, mais tarde Hospital Pedro Hispano, de setembro de 1992 a agosto de 1997. Administrador Hospitalar do Hospital de S. João, do Porto, de setembro de 1983 a setembro de 1992. Membro da Comissão Instaladora, mais tarde Comissão de Delegados, do Hospital Distrital de Valongo, de fevereiro de 1984 a julho de 1990.
+
+Outras atividades: Participação em diversas Comissões no âmbito da atividade hospitalar, membro de vários Júris de concursos, membro da Direção da Associação Portuguesa de Administradores Hospitalares no biénio 1988/1989, Presidente da Assembleia Geral do Instituto Nacional de Engenharia Biomédica (INEB) e membro do Conselho Fiscal do Instituto de Biologia Molecular Celular (IBMC), do Porto, em representação do CHP, de julho de 2009 a novembro de 2011.
+
+Joaquim da Silva Ramos, nascido a 13 de fevereiro de 1958, em Vila Nova da Telha, Concelho da Maia, distrito do Porto;
+
+Habilitações académicas: terminou a licenciatura em Medicina, no Instituto de Ciências Biomédicas de "Abel Salazar" (ICBAS), da Universidade do Porto, em 1982 e concluiu o Internato Complementar de Psiquiatria, no Hospital de Magalhães Lemos (HML) no ano de 1990.
+
+Experiência profissional: Diretor clínico do Hospital de Magalhães Lemos EPE desde 2007; Membro de apoio aos trabalhos da Comissão Nacional para a Reestruturação dos Serviços de Saúde Mental;
+
+Coordenador Regional para a "Qualidade", no âmbito dos trabalhos da Comissão Nacional para a Reestruturação dos Serviços de Saúde Mental em 2006;
+
+Coordenador Regional para o World Health Organization Assessment Instrument for Mental Health Systems (WHO-AIMS), no âmbito dos trabalhos da Comissão Nacional para a Reestruturação dos Serviços de Saúde Mental em 2006;
+
+Membro do Gabinete de Apoio Técnico para a Saúde Mental da Administração Regional de Saúde do Norte, I. P. desde 2006;
+
+Assistente Graduado Sénior de Psiquiatria, da Carreira Médica Hospitalar, no Hospital de Magalhães Lemos desde 2005;
+
+Adjunto da direção clínica do Hospital de Magalhães Lemos de 2000 a 2004;
+
+Assistente Hospitalar Graduado de Psiquiatria, da Carreira Médica Hospitalar, no Hospital de Magalhães Lemos de 1998 a 2005.
+
+Educação e formação: Professor Catedrático Convidado de Psiquiatria do Instituto de Ciências Biomédicas, "Abel Salazar", da Universidade do Porto, desde outubro de 2014;
+
+PADIS - Programa de Alta Direção de Instituições de Saúde, pela Escola de Direção e Negócios em 2007; Sob a égide do IGIF e da Direção de Serviços de Psiquiatria e Saúde Mental esteve integrado em vários grupos de trabalho com o objetivo de propor nova "Tabela de Nomenclatura e Listagem de Procedimentos em Psiquiatria", "Sistemas de Informação em Saúde Mental" e "Preparação do Censo Psiquiátrico 2001" de 1999 a 2001;
+
+"Desenvolvimento dos Sistemas de Informação em Saúde Mental", no âmbito da Direção de Serviços de Psiquiatria e Saúde Mental da Direção-Geral da Saúde de 1997 a 2001.
+
+João Ernesto Teles Pires, casado, nascido em Cisterna, Vinhais, em 20 de janeiro de 1958.
+
+Educação/Formação: PADIS - Programa de Alta Direção de Instituições de Saúde (2007);
+
+Mestre em Ciências de Enfermagem pelo Instituto de Ciências Biomédicas Abel Salazar (1998);
+
+Curso de Administração dos Serviços de Enfermagem pela Escola Superior de Enfermagem Cidade do Porto (1992);
+
+Curso de Especialização em Enfermagem de Saúde Mental e Psiquiátrica pela Escola Superior de Enfermagem Cidade do Porto (1989);
+
+Curso de Enfermagem Geral pela Escola Superior de Enfermagem de Bragança (1982).
+
+Experiência profissional:
+
+Hospital de Magalhães Lemos EPE, Vogal Executivo/Enfermeiro Diretor 2009 a 2014;
+
+Hospital de Magalhães Lemos, Enfermeiro Diretor, 2001 a 2008;
+
+Hospital de Magalhães Lemos, Vogal do Conselho de Administração, 1999 a 2000;
+
+Hospital Conde Ferreira, Vogal da Comissão de Gestão, 1997 a 1998;
+
+Hospital Conde Ferreira, Enfermeiro Supervisor, 02/09/1994 a 19/02/1997;
+
+Hospital Conde Ferreira, DEPE, Enfermeiro Chefe, 04/11/1990 a 01/09/1994;
+
+Hospital Conde Ferreira, serviço de urgência, 03/12/1987 a 03/11/1990;
+
+Hospital Geral de Santo António, serviço de medicina, 04/04/1981 a 02/12/1987;
+
+Centro Hospitalar de Vila Nova de Gaia, 26/12/1980 a 03/04/1981.
+
+Informação adicional: Auditor do Instituto da Qualidade em Saúde;
+
+Professor da disciplina de Enfermagem de Saúde Mental e Psiquiátrica na Universidade Fernando Pessoa até julho de 2011;
+
+Membro do Conselho Regional de Saúde Mental, de 2000 a 2007;
+
+Membro do Conselho Regional da Ordem Enfermeiros, de 1999 a 2003;
+
+Membro do Gabinete de Apoio Técnico para a Saúde Mental da Região Norte de 2006 a 2011;
+
+Membro da Sociedade Portuguesa de Enfermagem de Saúde Mental;
+
+Participação em diversos júris de concursos da carreira de enfermagem;
+
+Participação, quer como formador, quer como formando em diversas ações de formação.
+
+208413546
